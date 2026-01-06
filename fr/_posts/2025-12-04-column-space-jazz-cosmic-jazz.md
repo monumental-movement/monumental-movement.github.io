@@ -14,6 +14,7 @@ title: '[Chronique] Space Jazz / Généalogie et transformation cosmique de Cosm
 ---
 
 
+
 ## Space Jazz / Cosmic Jazz : Naissance et évolution de la musique orientée espace
 
 Texte : mmr｜Thème : Space Jazz / Histoire du Cosmic Jazz
@@ -111,7 +112,7 @@ Cosmic Jazz continue d’influencer l’afrofuturisme contemporain en raison de 
 
 Avec sa magnifique orchestration et sa spiritualité cosmique, il est devenu une figure importante du Cosmic Jazz moderne.
 
-### ● Shabaka Hutchings
+### ● Cabanes Shabaka
 
 Une fusion d'éléments ethniques, rituels et de cosmologie. Nous redéfinissons le Jazz Spirituel/Cosmique.
 

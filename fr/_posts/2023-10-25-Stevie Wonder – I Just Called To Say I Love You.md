@@ -16,14 +16,14 @@ title: Stevie Wonder – Je viens d'appeler pour dire que je t'aime
 
 "Stevie Wonder - I Just Called To Say I Love You" est sorti par Motown en 1984.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. I Just Called To Say I Love You
 
 B. I Just Called To Say I Love You (Instrumental)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m33486792512?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33486792512?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/41oBGX58n5k?si=zN3bJtUUX9zKON_b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -17,7 +17,7 @@ title: '[Chronique] Mathcore / Experimental Metal Explication approfondie : Stru
 
 
 
-## Mathcore / Experimental Metal
+## Mathcore / Métal Expérimental
 
 Texte : mmr｜Thème : Histoire, caractéristiques techniques, œuvres majeures, analyse de la structure des chansons, techniques d'interprétation et influence sur les genres connexes
 
@@ -41,6 +41,7 @@ color: #fff;
 }
 </style>
 
+
 ## Naissance et origines de Mathcore
 
 ### Évolution du punk hardcore
@@ -57,11 +58,11 @@ Le DEP est apparu dans le nord-est des États-Unis à la fin des années 1990, �
 
 DEP a été formé en 1997. Son premier EP *Under the Running Board* (1998) et son premier album révolutionnaire *Calculating Infinity* (1999) lui ont valu une reconnaissance immédiate.
 
-Voici les caractéristiques de leurs structures de chansons.
+Voici les caractéristiques de la structure de leurs chansons.
 
 ### 1. Structure ultra-rapide et fragmentée
 
-La technique consistant à changer des phrases de 1 à 2 temps à grande vitesse, plutôt qu'en unités de mesures, est remarquable.
+La technique consistant à changer des phrases de 1 à 2 temps à grande vitesse, plutôt qu'en unités de mesure, est remarquable.
 Le sens de l’orientation auditive est constamment ébranlé par les pauses insérées, les polyrythmies et les accents mal alignés.
 
 ### 2. Influence du jazz
@@ -103,6 +104,7 @@ flowchart TD
     D --> E["複雑な最終展開"]
 </div>
 
+
 ### Type Meshuggah : structure polyrythmique
 
 <div class="mermaid">
@@ -137,7 +139,7 @@ flowchart TD
 
 ### Voix
 
-* Présente un « axe indépendant » d'expression qui n'est pas lié par la structure de la chanson
+* Présente un « axe indépendant » d'expression qui n'est pas limité par la structure de la chanson
 * Basculement soudain entre grognement, cri et nettoyage en DEP
 
 ---
@@ -163,11 +165,11 @@ flowchart TD
 ### Technologie de mixage
 
 Dans Mathcore, plusieurs pistes de guitares déformées se chevauchent, il est donc essentiel d'organiser les bandes de fréquences.
-En particulier, les sons d'attaque ont tendance à être concentrés dans la bande **2-5 kHz**, et si cette zone n'est pas correctement traitée, le contour du son deviendra flou.
+En particulier, les sons d'attaque ont tendance à être concentrés dans la bande **2-5kHz**, et si cette zone n'est pas correctement traitée, le contour du son deviendra flou.
 
 ### Enregistrement de batterie
 
-* Met l'accent sur le « noyau » de la grosse caisse et de la caisse claire
+* Met l'accent sur le « noyau » du kick et de la caisse claire
 *La localisation de Tom n'est pas linéaire et est souvent arrangée de manière unique pour correspondre à la complexité de la chanson.
 
 ---
@@ -180,7 +182,7 @@ Mathcore a influencé une variété de genres dérivés depuis les années 2000.
 
 L'influence de Meshuggah est significative. L'introduction de signatures rythmiques irrégulières et de guitares graves à 7 ou 8 cordes a conduit à son successeur.
 
-### Experimental Metal
+### Métal expérimental
 
 La structure fragmentée de DEP et Car Bomb a été incorporée dans de nombreux groupes de metal modernes.
 

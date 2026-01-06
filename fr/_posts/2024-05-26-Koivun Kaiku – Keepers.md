@@ -19,7 +19,7 @@ title: Koivun Kaiku – Gardiens
 
 Le nom du groupe Koivun Kaiku signifie « Écho du bouleau ».
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Ripatska 
 A2. Valssi Lapuasta 
@@ -42,4 +42,4 @@ B8. Reppurin Laulu
 B9. Konevitsan Kirkonkellojen Soitto 
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m71853643150?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m71853643150?afid=6142608987){: .button1}

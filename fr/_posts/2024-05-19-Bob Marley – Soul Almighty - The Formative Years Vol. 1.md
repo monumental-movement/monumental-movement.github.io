@@ -19,7 +19,7 @@ Une œuvre remasterisée qui mélange les voix originales enregistrées par Bob 
 
 Une cassette sortie en 1996 qui comprend des chansons inédites.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Rock Steady
 A2. Splish For My Splash
@@ -40,7 +40,7 @@ B6. You Think I Have No Feelings
 B7. What Goes Around Comes Around
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m20715261454?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m20715261454?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3N2XQrF8bos?si=3xfYuNyRydq6MiQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

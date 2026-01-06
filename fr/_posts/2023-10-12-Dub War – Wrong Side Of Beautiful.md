@@ -17,7 +17,7 @@ Dub War est un groupe mixte actif dans les années 1990 qui mélange divers styl
 
 Wrong Side Of Beautiful est le deuxième album de Dub War et est considéré comme l'une des œuvres les plus reconnues du groupe.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Control
 
@@ -48,7 +48,7 @@ B6. Mission
 B7. Universal Jam
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m79906775059?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m79906775059?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YfGd-nXFfVY?si=AsdcXdWTQQSdK_Ud" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

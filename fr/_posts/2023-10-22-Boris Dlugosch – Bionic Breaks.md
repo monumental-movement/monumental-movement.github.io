@@ -17,7 +17,7 @@ Boris Dlugosch est un DJ et producteur house basé à Hambourg.
 
 Boris Dlugosch est un ancien DJ résident du légendaire club FRONT de Hambourg et un pionnier de la culture house allemande.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Man Parrish – Hip Hop, Be Bop (Don't Stop)
 
@@ -38,7 +38,7 @@ D2. G.L.O.B.E. & Whiz Kid – Play That Beat Mr. D.J.
 D3. Gary's Gang – Makin' Music
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m89964094141?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m89964094141?afid=6142608987){: .button1}
 
 
 #### Youtube

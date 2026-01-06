@@ -20,7 +20,7 @@ Groupe électro-techno allemand. Il est un représentant du krautrock et est ég
 Cet album, sorti par EMI en 1991, est le 10ème album studio de Kraftwerk. Il s'agit d'une version entièrement réarrangée et réenregistrée d'une sélection de chansons des albums Autobahn (1974) de Kraftwerk à Electric Café (1986), avec des chansons telles que "The Robots" et "Radioactivity" avec de nouvelles mélodies et paroles.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. The Robots
 2. Computerlove
@@ -35,7 +35,7 @@ Cet album, sorti par EMI en 1991, est le 10ème album studio de Kraftwerk. Il s'
 11. Music Non Stop
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m24338824694?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m24338824694?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cbPc_Iu8JLA?si=OfpNSIXukiVUrSWW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -23,6 +23,7 @@ title: '[Chronique] Habib Koité & Bamada et le contexte musical et culturel de 
 
 ## Habib Koité & Bamada - « Révolution tranquille » jouée par des cordes maliennes
 
+
 Texte : mmr｜Thème : Analyse musicale globale de Habib Koité & Bamada, contexte historique, héritage de l'identité africaine et rôle dans la mondialisation
 
 > Tradition ouest-africaine et reconstruction postcoloniale : « Redéfinir la musique du Mali » animé par Habib Koité
@@ -41,6 +42,7 @@ background-color: #111;
 color: #fff;
 }
 </style>
+
 
 ## Introduction:
 
@@ -63,7 +65,7 @@ Cette diversité est la « polyphonie fondamentale » de la musique malienne, et
 
 ## Chapitre 2 : Origine et années de formation d'Habib Koite
 
-Habib Koité est née à Kayazi, au Mali, en 1958. Sa grand-mère faisait partie de la famille de Geri et elle a grandi entourée de musique et d'histoires dès son plus jeune âge.
+Habib Koité est née à Kayazi, au Mali, en 1958. Sa grand-mère appartenait à la famille de Geri et elle a grandi entourée de musique et d'histoires dès son plus jeune âge.
 Dans sa jeunesse, il étudie à l'**Institut National des Arts (INA)** de Bamako, où il maîtrise la guitare classique et le solfège.
 Après avoir obtenu son diplôme, il a commencé à innover dans son style de jeu de guitare.
 
@@ -75,7 +77,7 @@ Le son produit par cette guitare rejette l'accordage européen et se rapproche d
 ## Chapitre 3 : Formation de Bamada – Un dialogue entre le battement du cœur de la ville et la tradition
 
 En 1988, Koité forme son propre groupe **Bamada**.
-Bamada est l'argot de la capitale Bamako et signifie « le peuple de Bamako ». Le nom du groupe lui-même symbolise **un pont entre la ville et le folklore**.
+Bamada est l'argot désignant la capitale Bamako et signifie « le peuple de Bamako ». Le nom du groupe lui-même symbolise **un pont entre la ville et le folklore**.
 
 Le son de Bamada combine un format de groupe occidental (guitare, basse, batterie, percussions) avec des instruments traditionnels africains tels que le balafon et le camalengoni.
 Koité a demandé aux membres de « mettre différents rythmes ethniques à la table », **traduisant la diversité du Mali en un ensemble**.
@@ -112,7 +114,7 @@ En effet, le son est un médium qui transmet non seulement des émotions mais au
 ## Chapitre 6 : Koité comme traductrice culturelle
 
 Koité se positionne non pas comme un « gardien de la tradition », mais comme un « traducteur ».
-Son objectif est de convertir les sonorités maliennes en un « langage compréhensible ».
+Son objectif est de convertir les sons du Mali en un « langage compréhensible ».
 Mais il ne s’agit pas uniquement de mondialisation. Il s’agit plutôt d’une recherche de **sons qui peuvent atteindre le monde sans être occidentalisés**.
 
 Par exemple, dans ses performances live, il utilise six langues différentes (Bambara, Dogon, Français, Anglais, Songhaï, Peul).
@@ -138,13 +140,13 @@ Cette métaphore de la « racine et de la branche » décrit le mieux la philoso
 Les générations suivantes des Koité comprenaient les **Rokia Traoré**, **Fatoumata Diawara** et **Vieux Farka Touré**.
 Tous ont hérité du « contexte acoustique africain » instauré par Koité, tout en évoluant dans une direction plus personnelle et expérimentale.
 
-En d’autres termes, Habib Koité a été le premier à faire le pont entre la musique malienne et l’expression individuelle.
+En d’autres termes, Habib Koité a été le premier à faire le lien entre la musique malienne et l’expression individuelle.
 
 ---
 
 ## Chapitre 9 : Analyse sonore - Poétique structurale dans « Ma Ya »
 
-Prenons l'exemple de la chanson « **Wassiye** » de « Ma Ya ».
+Prenons comme exemple la chanson « **Wassiye** » de « Ma Ya ».
 
 * **Tempo** : environ 80 BPM (signature rythmique détendue 6/8)
 * **Structure du rythme** : polyrythmie à 3 couches (guitare/cajon/calebasse)

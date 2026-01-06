@@ -15,14 +15,15 @@ title: '[Chronique] Folk-Tronica / Indietronica : Histoire de la fusion des musi
 ---
 
 
+
 ## Une nouvelle forme de chant pour le 21ème siècle créée par la musique acoustique et électronique
 
 Texte : mmr｜Thème : À propos de l'histoire, des techniques, des influences, de l'équipement et des caractéristiques musicales de Folk-Tronica/Indietronica, avec un accent sur Four Tet, Caribou et Bonobo.
 
-Folk-Tronica/Indietronica est une tendance musicale hybride du 21e siècle et au-delà, où les sons simples des instruments acoustiques se croisent avec les textures des sons électroniques.  
+Folk-Tronica/Indietronica est une tendance musicale hybride du 21e siècle et au-delà, où les sons simples des instruments acoustiques se croisent avec les textures des sons électroniques.
 Il est né du mariage de mélodies folk, d’arpèges de guitare, d’enregistrements sur le terrain de sons naturels et de culture d’échantillonnage électronique sur ordinateur portable.
 
-Four Tet (Kieran Hebden), Caribou (Daniel Snaith) et Bonobo (Simon Green) font partie de ceux qui ont clairement présenté ce genre au monde.  
+Four Tet (Kieran Hebden), Caribou (Daniel Snaith) et Bonobo (Simon Green) font partie de ceux qui ont clairement présenté ce genre au monde.
 Bien qu’ils aient tous une formation en musique électronique, ils ont élargi le contexte de l’électro depuis les années 2000 en échantillonnant et en reconstruisant une variété de musiques telles que le jazz, le folk, la musique ethnique et le post-rock.
 
 ---
@@ -40,6 +41,7 @@ color: #fff;
 }
 </style>
 
+
 ## 1. Définition et contexte du genre
 
 ### ■ Qu'est-ce que Folk-Tronica ?
@@ -51,10 +53,10 @@ Principales caractéristiques :
 - Montage numérique (découpage, traitement granulaire)
 - Texture d'enregistrement sur le terrain
 - Mélodie simple mais émotionnelle
-- Coexistence du « toucher » et de « l'objet artificiel »
+- Coexistence du « toucher » et des « objets artificiels »
 
 ### ■ Qu'est-ce qu'Indietronica ?
-Le flux d'introduction de la musique électronique dans le contexte du rock indépendant.  
+Le flux d'introduction de la musique électronique dans le contexte du rock indépendant.
 Alors que Folk-Tronica était basé sur des éléments folk, Indietronica a une forte orientation **son de groupe + électronique**.
 
 Exemples : Le service postal, Hot Chip, Múm, etc.
@@ -64,8 +66,8 @@ Exemples : Le service postal, Hot Chip, Múm, etc.
 ## 2. Principaux artistes et œuvres
 
 ### ■ Quatre Têt (Kieran Hebden)
-- Début des activités à la fin des années 1990.  
-- Reconstruire des échantillons de jazz et de musique folk et les re-présenter sous forme électronique.  
+- Début des activités à la fin des années 1990.
+- Reconstruire des échantillons de jazz et de musique folk et les re-présenter sous forme électronique.
 - Son chef-d'œuvre "Rounds" (2003) a été très apprécié en tant qu'œuvre symbolique d'échantillons acoustiques et de montage sur ordinateur portable.
 
 Quatre points du Têt :
@@ -76,8 +78,8 @@ Quatre points du Têt :
 ---
 
 ### ■ Caribou (Daniel Snaith)
-- Publication d'œuvres électroniques sous le nom initial de Manitoba (2000–2004).  
-- Plus tard, il change de nom pour Caribou, fusionnant des mélodies folk et des rythmes électroniques.  
+- Publication d'œuvres électroniques sous le nom initial de Manitoba (2000–2004).
+- Plus tard, il change de nom pour Caribou, fusionnant des mélodies folk et des rythmes électroniques.
 - Connu pour sa fusion de psychédélique et de pop, dont « The Milk of Human Kindness » (2005) et « Andorra » (2007).
 
 Les points forts du Caribou :
@@ -88,8 +90,8 @@ Les points forts du Caribou :
 ---
 
 ### ■ Bonobo (Simon Green)
-- Producteur affilié à Ninja Tune.  
-- Incorpore de la musique downtempo, jazz et folk, et organise également de grands groupes pour des performances live.  
+- Producteur affilié à Ninja Tune.
+- Incorpore de la musique downtempo, jazz et folk, et organise également de grands groupes pour des performances live.
 - "Black Sands" (2010) est un chef-d'œuvre aux rythmes, cordes et lignes de basse sophistiqués.
 
 Les points des Bonobos :
@@ -194,7 +196,7 @@ De plus, un nouveau style de gestion live a été formé, l'utilisation de déco
 ## 8. Résumé : Là où « mémoire » acoustique et « reconstruction » numérique se rencontrent
 
 Folk-Tronica/Indietronica est une méthode de reconstruction de la simplicité et de la nature narrative de la musique folk à l'aide de la technologie d'édition de musique électronique.
-C'est un genre qui apporte la « chaleur », le « toucher » et « l'esthétique des espaces » à l'ère numérique.
+C'est un genre qui apporte de la « chaleur », du « toucher » et de « l'esthétique des lacunes » à l'ère numérique.
 
 Les œuvres de Four Tet, Caribou et Bonobo sont
 Cela montre clairement que les techniques d’édition d’échantillons, d’enregistrement sur le terrain et d’enregistrement d’instruments acoustiques peuvent élargir le domaine de la musique électronique.

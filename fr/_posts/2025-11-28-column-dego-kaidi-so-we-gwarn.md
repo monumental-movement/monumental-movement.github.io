@@ -23,11 +23,13 @@ title: '[Chronique] Dego & Kaidi et Signature sonore'
 
 
 
+
 ## Introduction — Naissance et contexte de Broken Beat
 
 Texte : mmr｜Thème : EUK À propos de l'intersection du Broken Beat et de la musique noire mondiale
 
-À la fin des années 1990, un nouveau mouvement musical a émergé dans la culture des clubs de l’ouest de Londres. Il s'agit d'un genre appelé « Broken Beat » (également connu sous le nom de « Bruk »), qui diffère de la house 4/4 traditionnelle ou de la drum and bass, et incorpore avec audace des rythmes complexes et rebondissants et des éléments de jazz, de funk et de soul. Plus qu'un simple style de musique, Broken Beat s'est développé à partir de la communauté noire de l'ouest de Londres, de la culture des clubs et des réseaux créatifs underground.
+
+À la fin des années 1990, un nouveau mouvement musical a émergé dans la culture des clubs de l’ouest de Londres. Il s'agit d'un genre appelé « Broken Beat » (également connu sous le nom de « Bruk »), qui diffère de la house 4/4 traditionnelle ou de la drum and bass, et incorpore audacieusement des rythmes complexes et rebondissants et des éléments de jazz, de funk et de soul. Plus qu'un simple style de musique, Broken Beat s'est développé à partir des communautés noires de l'ouest de Londres, de la culture des clubs et des réseaux créatifs underground.
 
 <div class="mermaid">
 flowchart TD
@@ -65,7 +67,7 @@ Des artistes tels que Dego, Kaidi Tatham, IG Culture, Bugz in the Attic et Neon 
 
 ### Dego (Dennis McFarlane)
 
-Dego a commencé sa carrière au sein du groupe pionnier britannique Jungle/Drum & Bass 4Hero. Grâce à son expérience avec 4Hero, il a recherché la complexité rythmique et l'expression électronique tout en incorporant des éléments de jazz et de funk. En 1998, il crée son propre label, 2000Black, et construit une nouvelle base pour la musique noire britannique centrée sur Broken Beat. À travers ses activités en solo et sous divers pseudonymes, Dego a présenté une gamme variée de styles musicaux dans des genres tels que le jazz, le funk, la house, la drum & bass et le Broken Beat.
+Dego は、UK ジャングル／ドラムンベースの先駆的ユニット 4Hero 4Hérosでの経験を通じ、ジャズやファンクの要素を取り入れつつ、リズムの複雑さや電子的表現を追求。 En 1998, il crée son propre label, 2000Black, et construit une nouvelle base pour la musique noire britannique centrée sur Broken Beat. À travers ses activités en solo et sous divers pseudonymes, Dego a présenté une gamme variée de styles musicaux dans des genres tels que le jazz, le funk, la house, la drum & bass et le Broken Beat.
 
 ### Kaidi Tatham
 

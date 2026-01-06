@@ -16,6 +16,7 @@ title: '[Chronique] Musique New Age - L''intersection de la méditation et du pa
 
 ## --Harmonie avec la nature, réflexion sur soi et guérison--
 
+
 Texte : mmr｜Thème : Relation profonde avec l'idéologie New Age et la contre-culture
 
 <hr>
@@ -37,7 +38,7 @@ Pour cette raison, elle jouait un rôle de « musique de guérison » et était 
 
 ---
 
-**Années 1980** : Des labels tels que Windham Hill Records et Private Music ont été créés, et des artistes tels que [George Winston](https://amzn.to/3W7NEZl) et [Kitaro](https://amzn.to/42I1xBc) ont gagné en popularité dans le monde entier. Le terme « New Age » s’impose comme une catégorie sur le marché de la musique.
+**1980年代**：Windham Hill Records や Private Music といったレーベルが設立され、[ジョージ・ウィンストン](https://amzn.to/3W7NEZl)や[キタロウ（喜多郎）](https://amzn.to/42I1xBc)などが世界的に人気を獲得。「ニューエイジ」という言葉が音楽マーケットのカテゴリーとして定着する。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vzuBXXHwfp4?si=iUoxN2q2MksVDR9V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -93,7 +94,7 @@ La musique new age actuelle s'est éloignée du simple rôle de « musique de gu
 
 ### Incarner une « oasis sonore »
 
-La musique New Age était souvent décrite comme une « musique de fond », pour parler franchement. Cependant, son son méditatif et non agressif est devenu l'incarnation de « l'oasis sonore » recherchée par les gens à mesure que l'urbanisation et les technologies de l'information progressent.
+La musique New Age était souvent décrite comme une « musique de fond », pour le dire crûment. Cependant, son son méditatif et non agressif est devenu l'incarnation de « l'oasis sonore » recherchée par les gens à mesure que l'urbanisation et les technologies de l'information progressent.
 Dans les temps modernes, il a été réabsorbé dans des genres tels que l’ambient et le chillout, mais ses idéaux – harmonie avec la nature, introspection et guérison – sont devenus encore plus urgents.
 
-Le New Age n'est pas une mode passagère du passé, mais une culture musicale qui continue de jouer, discrètement mais sûrement, un rôle dans la vie des gens.
+Le Nouvel Âge n’est pas une mode passagère du passé ; c'est une culture musicale qui continue de jouer discrètement mais sûrement un rôle dans la vie des gens.

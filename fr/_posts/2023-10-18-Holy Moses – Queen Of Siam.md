@@ -17,7 +17,7 @@ Holy Moses est un groupe de thrash metal allemand actif depuis 1980. Le leader e
 
 "Queen Of Siam" est le premier album de Holy Moses, sorti en 1986 par le label de heavy metal allemand Aaarrg Records.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Necropolis
 
@@ -38,7 +38,7 @@ B4. Dear Little Friend
 B5. Torches Of Hire
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m85692189468?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m85692189468?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JZR6lrA1LfA?si=bVMg3hxl6DKM4Bry" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

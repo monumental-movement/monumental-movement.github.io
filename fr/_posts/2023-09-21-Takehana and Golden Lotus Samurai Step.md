@@ -19,7 +19,7 @@ Basé sur la bass music, un genre de musique électronique, le morceau combine d
 
 "Samurai Step" est un favori parmi les fans et les artistes de musique électronique. Leur musique offre de nouvelles perspectives et expériences musicales à travers la fusion de la culture japonaise et de la scène musicale contemporaine.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A  Steppen Step
 
@@ -28,5 +28,5 @@ B1  Cut Up
 B2  Cut Up (Sampling Collage Art)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m72626209254?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72626209254?afid=6142608987){: .button1}
 

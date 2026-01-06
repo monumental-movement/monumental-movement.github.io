@@ -30,14 +30,14 @@ Avec une carrière de plus de 30 ans, il est connu comme un pilier du monde de l
 
 Les singles les plus connus de Van Helden sont "You Don't Know Me", "I Want Your Soul", "My My My" (avec Tara McDonald) et "Bonkers" (avec Dizzee Rascal). Les deux chansons ont atteint la première place des charts de danse britanniques et ont atteint la deuxième place des charts de danse Billboard.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Koochy
 
 B. Phreeknik
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m99322217555?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m99322217555?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lT80CycPIRo?si=Te_ve8K0T83EBZPZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

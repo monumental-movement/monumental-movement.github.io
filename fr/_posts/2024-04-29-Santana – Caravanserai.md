@@ -16,42 +16,42 @@ title: Santana – Caravansérail
 
 Santana est un groupe de rock latino américain formé à la fin des années 1960 et dirigé par le guitariste Carlos Santana.
 
-"Caravanserai" a été salué comme un nouvel album plus orienté jazz dans la carrière de Santana, alors que le groupe s'est éloigné du rock et a adopté un son plus expérimental et complexe.
+"Caravanserai" a été salué comme un nouvel album plus orienté jazz dans la carrière de Santana, alors que le groupe s'éloignait du rock et adoptait un son plus expérimental et complexe.
 
 #### Liste des chansons
 ```md
-A1. Caravane éternelle de la réincarnation
-La caravane éternelle renaît
+A1. Eternal Caravan Of Reincarnation 
+復活した永遠なるキャラバン
 
-A2. Vagues à l'intérieur
-Dynamique
+A2. Waves Within 
+躍動
 
-A3. Recherchez (pour voir ce qui se passe)
-regarder dans l'espace
+A3. Look Up (To See What's Coming Down) 
+宇宙への仰視
 
-A4. Juste à temps pour voir le soleil
-l'aube de la gloire
+A4. Just In Time To See The Sun 
+栄光の夜明け
 
-A5. Chanson du vent
-le vent chante
+A5. Song Of The Wind 
+風は歌う
 
-A6. Tout l'amour de l'univers
-joie pour l'univers
+A6. All The Love Of The Universe 
+宇宙への歓喜
 
-B1.Futur Primitif
-Futur Primitif (Fusion)
+B1. Future Primitive 
+フューチュア・プリミティブ（融合）
 
-B2. Fleur de pierre
-fleur de pierre
+B2. Stone Flower
+ストーン・フラワー
 
 B3. La Fuente Del Ritmo
-pont de rythme
+リズムの架け橋
 
-B4. Chaque étape du chemin
-route sans fin
-````
+B4. Every Step Of The Way
+果てしなき道
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m35734673859?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m35734673859?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WIRBshlXUDk?si=HpExXCGVgtV0EoR1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

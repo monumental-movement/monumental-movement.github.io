@@ -17,7 +17,7 @@ title: Noir 4 Blanc – Alors je t'aime bébé
 
 "So I Love You Baby" est l'une des chansons les plus connues de Black 4 White, et c'est une chanson qui vous permet de découvrir leur style musical et leur charme.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. So I Love You Baby (Dinamic House Mix)
 
@@ -28,7 +28,7 @@ B1. So I Love You Baby (Fluid Mix)
 B2. So I Love You Baby (Fluid Radio)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m99311765932?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m99311765932?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yrTgrgm95vw?si=Vj5wTdjIutqpxs9l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

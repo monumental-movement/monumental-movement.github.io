@@ -15,7 +15,7 @@ title: VA – Dieu merci, c’est vendredi
 
 "VA - Dieu merci, c'est vendredi" est sorti par Casablanca en 1978.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Love And Kisses –Thank God It's Friday
 A2. Pattie Brooks–After Dark
@@ -42,7 +42,7 @@ D6. Donna Summer– Last Dance (Reprise)
 E. Donna Summer - Je T'Aime (Moi Non Plus)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m32254074664?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m32254074664?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lZypJPjK2Sw?si=ycy2M3pNCLSiI-rz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

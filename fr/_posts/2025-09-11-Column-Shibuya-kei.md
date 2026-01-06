@@ -15,9 +15,12 @@ title: '[Chronique] Le son Shibuya-kei des origines à nos jours — 10 chefs-d'
 ---
 
 
+
 ## Des origines du son Shibuya-kei à nos jours
 
+
 Texte : mmr｜Thème : Contexte historique du son Shibuya-kei, disques célèbres et changements d'équipement
+
 
 Le son Shibuya-kei est un mouvement musical japonais qui s'est répandu dans les magasins de disques et les clubs de Shibuya, à Tokyo, au début des années 1990. Il se caractérise par une musicalité hybride qui réinterprète les sensibilités de la musique occidentale dans un style japonais et intègre divers éléments tels que la pop, le jazz, la bossa nova, la soul, la pop française et l'électro.
 
@@ -25,20 +28,20 @@ Le son Shibuya-kei est un mouvement musical japonais qui s'est répandu dans les
 
 ## Années 1980 — Eve (germination à la Shibuya)
 ### Contexte historique
-- Dans les années 1980, la city pop et la new wave japonaises ont commencé à être acclamées tant au niveau national qu'international.  
+- Dans les années 1980, la city pop et la new wave japonaises ont commencé à être acclamées tant au niveau national qu'international.
 - Les magasins de disques importés tels que « CISCO » et « HMV Shibuya » ont rassemblé les derniers sons d'Europe et des États-Unis et ont cultivé les compétences musicales des jeunes.
 
-### Chef-d'œuvre représentatif
-- [Eiichi Otaki — *UNE LONGUE VACANCES* (1981)](https://amzn.to/4nLyN2p)
-- [Tatsuro Yamashita — *POUR VOUS* (1982)](https://amzn.to/4neQyHk)
-- [Pizzicato Five early works (période indépendante, fin des années 1980)](https://amzn.to/3W6W1UE)
+### Chefs-d'œuvre représentatifs
+- [大滝詠一 — *A LONG VACATION* (1981)](https://amzn.to/4nLyN2p)  
+- [山下達郎 — *FOR YOU* (1982)](https://amzn.to/4neQyHk)  
+- [Pizzicato Five初期作（インディー期, Late 1980s）](https://amzn.to/3W6W1UE)  
 
 ### Matériel utilisé
 - Des synthétiseurs tels que Roland Juno-60 et Yamaha DX7
 - Les premières boîtes à rythmes telles que Roland TR-808
 - Culture d'enregistrement à domicile à l'aide de cassettes MTR
 
-### 10 chansons recommandées (années 1980)
+### 10 chansons recommandées (années 1980)
 
 <style type="text/css">
 
@@ -52,6 +55,7 @@ background-color: #111;
 color: #fff;
 }
 </style>
+
 
 | Titre de la chanson | Artiste | Commentaires |
 |------|--------------|--------------|
@@ -70,14 +74,14 @@ color: #fff;
 
 ## Années 1990 — L'âge d'or du style Shibuya
 ### Contexte historique
-- Pizzicato Five dirigé par Yasuhi Konishi, Cornelius (Keigo Oyamada) et Flipper's Guitar (Kenji Ozawa + Keigo Oyamada) sont représentatifs du style Shibuya.  
-- Il a été présenté sur "Oricon" et "MTV Japan" et est devenu un succès majeur.  
+- Pizzicato Five dirigé par Yasuhi Konishi, Cornelius (Keigo Oyamada) et Flipper's Guitar (Kenji Ozawa + Keigo Oyamada) sont représentatifs du style Shibuya.
+- Il a été présenté sur "Oricon" et "MTV Japan" et est devenu un succès majeur.
 - Liens vers des scènes de clubs étrangers.
 
-### Chef-d'œuvre représentatif
-- [Pizzicato Five — *Fabriqué aux États-Unis* (1994)](https://amzn.to/3K92U5t)
-- [Flipper's Guitar — *Camera Talk* (1990)](https://amzn.to/3W1ZP9P)
-- [Cornelius — *Fantasma* (1997)](https://amzn.to/4nJwCfx)
+### Chefs-d'œuvre représentatifs
+- [Pizzicato Five — *Made in USA* (1994)](https://amzn.to/3K92U5t)
+- [Flipper’s Guitar — *Camera Talk* (1990)](https://amzn.to/3W1ZP9P)  
+- [Cornelius — *Fantasma* (1997)](https://amzn.to/4nJwCfx)  
 
 ### Matériel utilisé
 - Sampler (Akai MPC, Roland S-760)
@@ -103,20 +107,20 @@ color: #fff;
 
 ## Années 2000 — Post-Shibuya-kei
 ### Contexte historique
-- Alors que le Shibuya-kei s'est éteint commercialement, il a influencé l'électropop de Capsule et Yasutaka Nakata.  
+- Alors que le Shibuya-kei s'est éteint commercialement, il a influencé l'électropop de Capsule et Yasutaka Nakata.
 - Le développement de la musique de club, également connue sous le nom de néo-Shibuya-kei, va s'accentuer.
 
-### Chef-d'œuvre représentatif
-- [Capsule — *Plus ! Plus! Plus !* (2008)](https://amzn.to/47VqQDd)
-- [Fantastic Plastic Machine — *belle.* (2001)](https://amzn.to/4msAFMo)
-- [Kenji Ozawa — *Éclectique* (2002)](https://amzn.to/4mtfA4k)
+### Chefs-d'œuvre représentatifs
+- [Capsule — *More! More! More!* (2008)](https://amzn.to/47VqQDd)  
+- [Fantastic Plastic Machine — *beautiful.* (2001)](https://amzn.to/4msAFMo)  
+- [小沢健二 — *Eclectic* (2002)](https://amzn.to/4mtfA4k)  
 
 ### Matériel utilisé
 - Vulgarisation de DAW (Logic, Cubase SX)
 - Synthé logiciel (Native Instruments, Arturia)
 - Culture DJ sur ordinateur portable
 
-### 10 chansons recommandées (années 2000)
+### 10 chansons recommandées (années 2000)
 
 | Titre de la chanson | Artiste | Commentaires |
 |------|--------------|--------------|
@@ -135,13 +139,13 @@ color: #fff;
 
 ## Années 2010 — Réévaluation et expansion
 ### Contexte historique
-- Il a été redécouvert par la génération Internet et est devenu un genre à l'étranger sous le nom de "Shibuya-kei".  
+- Il a été redécouvert par la génération Internet et est devenu un genre à l'étranger sous le nom de "Shibuya-kei".
 - Reprise en parallèle de la réévaluation de City Pop.
 
-### Chef-d'œuvre représentatif
-- [Cornelius — *Mellow Waves* (2017)](https://amzn.to/4gzkWK2)
-- [Towa Tei — *EMO* (2017)](https://amzn.to/3VxjdeJ)
-- [cero — *Obscure Ride* (2015)](https://amzn.to/47W866p)
+### Chefs-d'œuvre représentatifs
+- [Cornelius — *Mellow Waves* (2017)](https://amzn.to/4gzkWK2)  
+- [Towa Tei — *EMO* (2017)](https://amzn.to/3VxjdeJ)  
+- [cero — *Obscure Ride* (2015)](https://amzn.to/47W866p)  
 
 ### Matériel utilisé
 - Ableton Live et soft sampler
@@ -167,13 +171,13 @@ color: #fff;
 
 ## Années 2020 — maintenant
 ### Contexte historique
-- L'influence du "Shibuya-kei" attire à nouveau l'attention dans le contexte de la réévaluation de la K-POP et de la city pop.  
+- L'influence du "Shibuya-kei" attire à nouveau l'attention dans le contexte de la réévaluation de la K-POP et de la city pop.
 - Développez la base d'auditeurs étrangers via YouTube, Spotify, TikTok, etc.
 
-### Chef-d'œuvre représentatif
-- [Cornelius — *Dream in Dream* (2023)](https://amzn.to/46kD7zK)
-- [cero — *e o* (2021)](https://amzn.to/46LD7sJ)
-- [Artistes variés — Compilation Neo Shibuya-kei *MAGICAL CONNECTION 2020* (années 2020)](https://amzn.to/47S23zT)
+### Chefs-d'œuvre représentatifs
+- [Cornelius — *Dream in Dream* (2023)](https://amzn.to/46kD7zK)  
+- [cero — *e o* (2021)](https://amzn.to/46LD7sJ)  
+- [Various Artists — ネオ渋谷系コンピレーション *MAGICAL CONNECTION 2020* (2020s)](https://amzn.to/47S23zT)  
 
 ### Matériel utilisé
 - Environnement d'enregistrement à domicile/DTM en supposant une distribution en streaming

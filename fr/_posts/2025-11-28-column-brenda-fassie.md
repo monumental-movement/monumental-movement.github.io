@@ -22,9 +22,11 @@ title: '[Chronique] Brenda Fassie — La diva du township : un voyage de gloire
 
 
 
+
 # Introduction
 
 Texte : mmr | Thème : Brenda Fassie (1964-2004), chanteuse originaire d'un township d'Afrique du Sud. Gloire et revers, politique et vie privée : retrace sa vie et son héritage à partir de faits
+
 
 Le livre retrace soigneusement son parcours, qui a grandi dans un township et a dirigé la musique populaire sud-africaine des années 1980 aux années 2000, avec une chronologie, des classements et des explications de chansons.
 
@@ -43,6 +45,7 @@ background-color: #111;
 color: #fff;
 }
 </style>
+
 
 # profil
 
@@ -71,6 +74,7 @@ color: #fff;
 | 2004 | Il s'est effondré en avril et est décédé le 9 mai à l'âge de 39 ans. Après sa mort, ses meilleurs albums seront triés.                                     |
 
 ---
+
 
 #2. Paysages d'enfance et de township
 
@@ -173,14 +177,14 @@ flowchart TB
 
 * **Spécial week-end** — Un des premiers classiques. Il a été bien accueilli par un large éventail de publics en raison de son rythme traînant et de son refrain accrocheur.
 * **Trop tard pour maman** — Une ballade émouvante. La nature narrative des paroles et du chant lyrique est impressionnante.
-* **Vuli Ndlela** — Une chanson typique qui incorpore des éléments de danse du township.
+* **Vuli Ndlela** — Une chanson typique qui incorpore des éléments de la danse du township.
 * **Black President** — Une chanson au message politique fort, qui a laissé un fort impact en lien avec le contexte social de l'époque.
 
 ---
 
 # 13. Évaluation socioculturelle et influence sur la postérité
 
-Les réalisations de Brenda vont au-delà du succès musical et ont un impact culturel et social. Elle a poussé les voix des townships et des communautés noires au centre de la musique pop, a contribué à la visibilité LGBTQ et a ouvert la voie à la prochaine génération d’artistes féminines noires.
+Les réalisations de Brenda vont au-delà du succès musical et ont un impact culturel et social. Elle a poussé les voix des townships et des communautés noires au centre de la musique pop, a contribué à la visibilité LGBTQ et a ouvert la voie à la prochaine génération de femmes artistes noires.
 
 D’un autre côté, les reportages sur les problèmes et les scandales liés à la drogue ont également fourni du matériel pour montrer les côtés lumineux et sombres des étoiles. Aujourd’hui, elle reste une figure emblématique de l’histoire de la musique sud-africaine.
 

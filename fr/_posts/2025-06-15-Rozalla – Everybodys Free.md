@@ -20,14 +20,14 @@ Rozalla Miller, également connue sous le nom de Rozalla, est une artiste de mus
 Sorti en 1991 sur le label house/rave britannique Pulse 8, « Everybody's Free (To Feel Good) » est devenu un succès mondial. Cette chanson est connue comme un hymne à la fois sur la scène pop et dans les clubs du début des années 1990, et a été remixée à plusieurs reprises jusqu'à présent. Parmi les autres chansons à succès figurent « Faith (In the Power of Love) » et « Are You Ready to Fly ».
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Everybody's Free (To Feel Good) (Original Mix)
 
 B. Everybody's Free (To Feel Good) (Free Bemba Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m28368078894?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m28368078894?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LM9kN4v065Y?si=e_xzhqQMWAQavbkj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

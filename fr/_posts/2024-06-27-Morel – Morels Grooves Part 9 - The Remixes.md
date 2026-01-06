@@ -18,7 +18,7 @@ George Morel, également connu sous le nom de Morel, est un DJ et producteur de 
 
 "Morel's Grooves Part 9 - The Remixes" est le neuvième de la série de sorties 12 pouces de George Morel, un morceau house sorti sur le label house Strictly Rhythm en 1996.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 R.B.M Side
 A1. Todos Los Latinos (En La Casa) (The Barrio Breakdown Mix)
@@ -29,7 +29,7 @@ B1. Todos Los Latinos (En La Casa) (Morel's Jump Mix)
 B2. Todos Los Latinos (En La Casa) (Happy Drums)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m13213347541?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m13213347541?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UhyCoFtN1YQ?si=ftarQB-GKUePsdEO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -22,7 +22,7 @@ Side A est un remix du duo britannique soul/néo-soul/pop Hil St Soul, composé 
 
 Le premier morceau de la face B est un remix de Marc Mac (alias Marc Clair) et Dego (alias Dennis McFarlane) du groupe UK electronic audio 4 Hero.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A01. Eyes On You (Hil St Soul Mix)
 
@@ -33,7 +33,7 @@ B01. Eyes On You (4 Hero Mix)
 B02. Eyes On You (Major Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m78775841534?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m78775841534?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hxhf_ZO76QM?si=0o_AB63UvUpkYVAe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

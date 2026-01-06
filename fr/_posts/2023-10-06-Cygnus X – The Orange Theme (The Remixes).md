@@ -21,7 +21,7 @@ Les remixeurs ont ajouté leurs propres approches uniques aux chansons, apportan
 
 Le thème Orange (The Remixes) est une collection passionnante de remixes pour les amateurs de transe et de hard trance. La chanson a un tempo élevé et une grande énergie et sera certainement un succès sur les pistes de danse des clubs et des festivals.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. The Orange Theme (Moonman's Orange Juice Mix)
 
@@ -32,7 +32,7 @@ B1. The Orange Theme (Bervoets & De Goeij Remix)
 B2. The Orange Theme (Mark Van Dale With Enrico Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m39474275698?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m39474275698?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pa6G9sT_Gto?si=zGHVOeWXY3OleAmL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

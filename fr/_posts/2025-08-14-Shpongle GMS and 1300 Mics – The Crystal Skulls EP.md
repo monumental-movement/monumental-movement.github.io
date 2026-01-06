@@ -21,14 +21,14 @@ GMS est un duo de transe psychédélique composé de Riktam (Shajahan Matkin) et
 Ce disque est un disque de transe psychédélique sorti en 2001 par le label britannique Psy-Trance de Raja Ram, TIP.World.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Shpongle – The Sixth Revelation
 
 B. GMS & 1300 Mics – The Fourth Revelation
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m12492463134?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m12492463134?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3ENMP9DJI6Y?si=GPENtxHpDC_dxNQm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

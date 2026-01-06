@@ -16,11 +16,12 @@ title: '[Chronique] Dark Jazz / Noir Jazz ─ Les sons d''une ville attirée par
 ---
 
 
+
 ## Obscurité, silence, lenteur, réverbérations urbaines, dans quelle mesure le jazz sombre-t-il dans « l'ombre » ?
 
 Texte : mmr｜Thème : À propos de l'histoire du dark jazz centrée autour de Bohren & der Club of Gore
 
-Le Dark Jazz/Noir Jazz est un sous-genre qui a connu une évolution particulièrement unique dans l’histoire du jazz.  
+Le Dark Jazz/Noir Jazz est un sous-genre qui a connu une évolution particulièrement unique dans l’histoire du jazz.
 Ce n'est pas un bar enfumé ouvert tard le soir ou une ruelle détrempée par la pluie en ville ; c'est plutôt une musique qui dessine « l'ombre » de la ville et entraîne l'auditeur dans une histoire solitaire.
 
 Cet article organise le flux du dark jazz de la fin des années 1990 à nos jours, sur la base de données provenant d'artistes réels et d'œuvres centrées sur **Bohren & der Club of Gore**, et traite de manière approfondie de sa structure musicale et de sa compatibilité avec les films/images.
@@ -45,7 +46,7 @@ color: #fff;
 
 ## 1. Qu'est-ce que le dark jazz ?
 ### ● Origine
-Le dark jazz n'est pas un nom de genre strictement défini, mais un terme qui s'est imposé grâce aux tags en ligne et aux communautés d'auditeurs depuis les années 2000.  
+Le dark jazz n'est pas un nom de genre strictement défini, mais un terme qui s'est imposé grâce aux tags en ligne et aux communautés d'auditeurs depuis les années 2000.
 Les éléments musicaux sont les suivants.
 
 - **Tempo extrêmement lent (environ 30 à 60 BPM)**
@@ -60,7 +61,7 @@ En combinant ces caractéristiques, est née une image sonore unique qui pourrai
 
 ## 2. Les artistes majeurs et leurs rôles
 ### ● Bohren & der Club de Gore (1992–)
-Formé en Rhénanie du Nord-Westphalie, en Allemagne.  
+Formé en Rhénanie du Nord-Westphalie, en Allemagne.
 Bien qu'il y ait eu plusieurs changements parmi les membres, les points suivants sont restés cohérents.
 
 - Originaire d'un groupe de slow doom/hardcore
@@ -71,23 +72,23 @@ Musicalement, la plus grande caractéristique est qu'il combine le tempo du doom
 
 Œuvres représentatives :
 
-- *Gore Motel*（1995）  
-- *Sunset Mission*（2000）  
-- *Black Earth*（2002）  
-- *Geisterfaust*（2005）  
-- *Piano Nights*（2014）  
+- *Gore Motel* (1995)
+- *Mission au coucher du soleil* (2000)
+- *Terre noire* (2002)
+- *Geisterfaust* (2005)
+- *Soirées Piano* (2014)
 
 En particulier, *Black Earth* est traité comme un chef-d'œuvre du genre, avec son saxophone, son piano, son orgue et sa contrebasse créant une image sonore qui semble dessiner des réverbérations dans l'obscurité.
 
 ---
 
-### ● The Kilimanjaro Darkjazz Ensemble（TKDE）  
+### ● L'Ensemble Kilimanjaro Darkjazz (TKDE)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zhaVSloxRmk?si=7SQMyYqa_WfQ6YCO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-Des Pays-Bas. Tout a commencé au milieu des années 2000 avec un projet visant à ajouter du son aux supports vidéo.  
+Des Pays-Bas. Tout a commencé au milieu des années 2000 avec un projet visant à ajouter du son aux supports vidéo.
 Utilisant une large gamme de sonorités telles que les cordes, l'électro, le violoncelle, le trombone et le chant, il a élargi le domaine du dark jazz pour inclure l'ambiant/l'électronique.
 
 Il y avait également un projet connexe, **The Mount Fuji Doomjazz Corporation**, axé sur des performances live plus improvisées.
@@ -100,13 +101,13 @@ Il y avait également un projet connexe, **The Mount Fuji Doomjazz Corporation**
 
 ---
 
-Tirant son nom du travail vidéo de David Lynch, il promeut une approche plus orientée drone.  
+Tirant son nom du travail vidéo de David Lynch, il promeut une approche plus orientée drone.
 À l'aide d'un saxophone baryton et d'un traitement électronique, il crée un espace acoustique qui donne l'impression d'être enveloppé de brouillard.
 
 ---
 
 ### ● Expansion depuis les années 2000
-Avec la diffusion de YouTube et de Bandcamp, le tag « dark jazz » est devenu mondialement partagé et diversifié par les artistes indépendants.  
+Avec la diffusion de YouTube et de Bandcamp, le tag « dark jazz » est devenu mondialement partagé et diversifié par les artistes indépendants.
 Des musiciens de Finlande, de Pologne, de Russie, des États-Unis et d'autres pays y participent, et ce spectacle se distingue par le fait qu'il se développe autour d'une « ambiance » plutôt que d'une région spécifique.
 
 ---
@@ -194,24 +195,24 @@ flowchart TD
 
 ## 7. Chef-d'œuvre
 
-### ● Bohren & der Club of Gore
-- Gore Motel (1995)
-- Midnight Radio (1997)
-- Sunset Mission (2000)
-- Black Earth (2002)
-- Geisterfaust (2005)
-- Dolores (2008)
-- Piano Nights (2014)
+### ● Bohren & der Club de Gore
+-Motel Gore (1995)
+- Radio de Minuit (1997)
+-Mission au coucher du soleil (2000)
+- Terre noire (2002)
+-Geisterfaust (2005)
+- Dolorès (2008)
+- Soirées piano (2014)
 
-### ● The Kilimanjaro Darkjazz Ensemble
-- The Kilimanjaro Darkjazz Ensemble (2006)
-- Here Be Dragons (2009)
-- From the Stairwell (2011)
+### ● L'Ensemble Kilimanjaro Darkjazz
+- L'Ensemble Kilimanjaro Darkjazz (2006)
+- Voici les dragons (2009)
+- De la cage d'escalier (2011)
 
-### ● Dale Cooper Quartet
-- Parole de Navarre (2006)
-- Metamanoir (2011)
-- Astrild Astrild (2017)
+### ● Quatuor Dale Cooper
+- Paroles de Navarre (2006)
+- Métamanoir (2011)
+-Astrilde Astrild (2017)
 
 ---
 
@@ -230,7 +231,7 @@ Elle continue de se développer en tant que « musique qui crée une atmosphère
 
 ## 9. Où va le dark jazz ?
 Avec la diffusion de vidéos générées par l'IA, de logiciels VJ et de jeux indépendants,
-Nous sommes entrés dans une ère où les visuels et les sons sont évoqués dans le même souffle.
+Nous sommes désormais dans une époque où les visuels et les sons sont évoqués dans le même souffle.
 
 En raison de la nature du dark jazz, qui est « lent et comporte de nombreux espaces vides »,
 On pense qu’il continuera à avoir une nouvelle valeur en se mélangeant aux images.
@@ -242,7 +243,7 @@ Il y a encore de fortes chances qu'il devienne le « son de la ville » au 21e s
 ---
 
 # A la fin
-Le dark jazz n’est pas la musique d’ambiance d’un bar ou les effets sonores d’une ville nocturne.
+Le dark jazz n’est pas la musique d’ambiance d’un bar ou les effets sonores d’une ville nocturne ;
 **Il s'agit d'un art moderne qui dépeint la solitude et les ombres des villes en utilisant uniquement le son. **
 
 Chaque artiste, principalement Bohren & der Club de Gore, a dessiné différentes manières de dessiner les ombres.

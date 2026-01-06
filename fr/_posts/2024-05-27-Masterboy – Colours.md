@@ -20,7 +20,7 @@ Masterboy, dirigé par Tommy Schleh et Enrico Zabler, est le groupe de danse eur
 "Colours" est le cinquième album de Masterboy sorti en 1996, et est un CD house européen qui comprend des chansons à succès telles que "Show Me Colours".
 La 13ème chanson est un remix du DJ et producteur américain David Morales.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Intro
 2. Show Me Colours
@@ -37,7 +37,7 @@ La 13ème chanson est un remix du DJ et producteur américain David Morales.
 13. Land Of Dreaming (David Morales Radio Edit)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m91794133464?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m91794133464?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HogCrhWzZ8M?si=jiaqEA-jtBTiVMym" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

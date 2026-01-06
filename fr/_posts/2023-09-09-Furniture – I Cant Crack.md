@@ -31,7 +31,7 @@ La musique de Furniture a été acclamée par la critique pour son son unique et
 
 La musique de Furniture est toujours appréciée des fans de la pop britannique des années 1980 et de la musique alternative.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. I Can't Crack
 
@@ -45,7 +45,7 @@ A3. Pause
 B1. I Can't Crack (Broken Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m82619779908?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m82619779908?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JBF47g82WSc?si=sWNEsaHxVGu3g_CD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

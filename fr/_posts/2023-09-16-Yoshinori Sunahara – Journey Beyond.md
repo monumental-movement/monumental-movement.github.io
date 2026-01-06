@@ -19,7 +19,7 @@ Ses chansons, telles que « Journey Beyond », sont parfaites pour se détendre,
 
 La musique de Yoshinori Sunahara est appréciée par de nombreux auditeurs au Japon et à l'étranger et constitue l'une des œuvres importantes de sa carrière.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Journey Beyond The Stars
 
@@ -28,7 +28,7 @@ A2. Journey Beyond The Stars(Schwebebalken Mix)
 B. Journey Beyond The Stars(A Moment In Space & Time Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m82161248157?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m82161248157?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tpSxDBVRbqY?si=J-Yp7wX-RFt-ezxm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

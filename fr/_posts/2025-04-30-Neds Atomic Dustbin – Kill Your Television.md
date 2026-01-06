@@ -19,7 +19,7 @@ Ned's Atomic Dustbin est un groupe de rock britannique formé à Stourbridge, da
 "Kill Your Television" était le premier single (EP) officiel d'Atomic Dustbinno de Ned et a été un succès commercial. Il est également inclus dans le premier album studio "God Fodder".
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Kill Your Television
 2. That"s Nice
@@ -27,7 +27,7 @@ Ned's Atomic Dustbin est un groupe de rock britannique formé à Stourbridge, da
 4. Kill Your Remix
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m94057388750?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94057388750?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZA2371iADS0?si=L_cqikedn1L5Ea8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

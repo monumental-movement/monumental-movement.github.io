@@ -20,7 +20,7 @@ Ultradyne est un groupe qui poursuit le son de la techno et de la musique élect
 
 "Unknown Works" est sorti en 2002 sur le label électro/IDM britannique de Daz Quayle, SCSI-AV.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Tangible–Theory Proliferation (Ultradyne Remix)
 
@@ -31,7 +31,7 @@ B1. Ultradyne–Society @ Work
 B2. Ultradyne–War Drum - Live
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m73570341601?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m73570341601?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O3lUITAvCQg?si=GpmuLdaocdh8wu4C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

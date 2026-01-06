@@ -18,14 +18,14 @@ Starchild est un DJ et producteur de transe également connu sous le nom d'Alici
 
 "Something New" est un morceau de transe sorti en 2002 par Conception Artist Management, un label britannique spécialisé dans la transe et la house.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A.Something New (Original Mix)
 
 B. Something New (Starchild's Way Out Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m61647512421?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61647512421?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HR14JAiNuMM?si=VhZnZlMVRTS3c1LQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -19,9 +19,9 @@ Les deux ont commencé leur carrière en tant que musiciens d'accompagnement pou
 
 Quincy Jones les a attirés sur l'attention lorsqu'il les a utilisés sur son album de 1975 Mellow Madness.
 
-Il a enregistré huit albums entre 1976 et 1988 et est surtout connu pour le tube disco "Stomp!" (1980) et le classique de Shuggy Otis "Strawberry Letter #23" (couverture de 1977).
+Il a enregistré huit albums entre 1976 et 1988 et est surtout connu pour le hit disco "Stomp!" (1980) et le classique de Shuggy Otis "Strawberry Letter #23" (couverture de 1977).
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Kick It To The Curb (12" Version)
 
@@ -30,7 +30,7 @@ B1. Kick It To The Curb
 B2. P.O. Box 2000 (Instrumental)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m23857969355?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23857969355?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cJE3sGnjzOY?si=KiswVie_eyEuw39l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

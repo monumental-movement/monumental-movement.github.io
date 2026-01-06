@@ -15,6 +15,7 @@ title: '[Chronique] Musique européenne et culture club : à l''intersection de 
 ---
 
 
+
 ## L'euro est-il pop ? Est-ce sous terre ?
 
 Texte : mmr｜Genre : Etude de la culture musicale｜Thème : L'intersection entre l'euro et les clubs dans les années 90
@@ -39,6 +40,7 @@ color: #fff;
 }
 </style>
 
+
 ### Radio et MTV : l'expansion de l'euro à travers les médias
 
 ** ● « Faire de la musique dance un bien public »**
@@ -59,6 +61,7 @@ En conjonction avec la série « Super Eurobeat » d'avex, il a créé un phé
 
 ---
 
+
 ### Rave et subculture : le visage de l'euro underground
 
 ** ● Connexion avec la culture rave **
@@ -71,13 +74,14 @@ Royaume-Uni : les styles Hardbag et Euro-House sont apparus dans les ensembles 
 
 Pays-Bas : les frontières entre Speed ​​Garage et Hard Trance s'estompent
 
-** ● Développement de Dark Euro/Eurotrance **
+** ● Développement du Dark Euro/Eurotrance **
 
 Contrairement à l'aspect commercial, le heavy Euro trance et l'Industrial Euro sont également bien implantés chez rave.
 
 Des artistes tels que Cosmic Gate et Scooter ont dépassé les frontières.
 
 ---
+
 
 ### Carrefour Musical : La Fusion Technique des Morceaux Euro vs Club
 
@@ -89,10 +93,12 @@ Des artistes tels que Cosmic Gate et Scooter ont dépassé les frontières.
 | Chef d'orchestre | Radio, télévision, CD | Fêtes, festivals, vinyles |
 | Point d'échange | Collaboration sur des remix 12 pouces, des montages DJ, des mixages dub, etc. |
 
+
 Bien que ces deux cultures puissent sembler contradictoires, elles étaient vaguement liées à travers les **mix CD, la culture vinyle et le marché du remix**.
 
 
 ---
+
 
 ### La culture « Mix CD » comme intersection
 
@@ -110,6 +116,7 @@ ATB, Fragma, Darude et bien d'autres présentent un son qui oscille entre pop et
 
 ---
 
+
 ### Pourquoi est-il réévalué maintenant ?
 
 Dans les années 2020, l’euro des années 90 est redécouvert sur TikTok et YouTube. Les raisons derrière cela sont les suivantes.
@@ -121,6 +128,7 @@ Le « sentiment rave » de cette époque est réutilisé comme source d'échanti
 Un son nostalgique mais fonctionnel pour les scènes en plein air et les festivals
 
 ---
+
 
 ### Conclusion : l'Euro vivait à la frontière entre « pop » et « club »
 
@@ -134,12 +142,13 @@ C’était peut-être la manière la plus « correcte » de dépenser l’euro d
 
 ### Colonnes associées
 
-🔗 [[Chronique] Souvenirs de vitesse où Initial D et musique se croisent](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
 
-🔗 [[Chronique] Le « son de l'euro » change selon les frontières ─ Italie, Allemagne, Suède : Différences dans la musique euro créée par les trois grands pays producteurs](https://monumental-movement.jp/Column-Euro-Sound)
+🔗 [【コラム】 頭文字Dと音楽が交差したスピードの記憶](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
 
-🔗 [[Chronique] Eurobeat et Japon : Pourquoi sont-ils liés ? ](https://monumental-movement.jp/Column-Parapara-Eurobeat)
+🔗 [【コラム】 国境で変わる“ユーロの音”──イタリア、ドイツ、スウェーデン：三大制作国が生んだユーロ・ミュージックの違い](https://monumental-movement.jp/Column-Euro-Sound)
 
-🔗 [[Chronique] Relation culturelle entre Initial D et Eurobeat](https://monumental-movement.jp/Column-InitialD-Eurobeat)
+🔗 [【コラム】 ユーロビートと日本：なぜパラパラと結びついたのか？](https://monumental-movement.jp/Column-Parapara-Eurobeat)
 
-🔗 [[Chronique] C'était quoi la musique européenne des années 90 ? ──Un festin de pistes de danse et de mélodies](https://monumental-movement.jp/Column-Euro)
+🔗 [【コラム】 頭文字Dとユーロビートの文化的関係](https://monumental-movement.jp/Column-InitialD-Eurobeat)
+
+🔗 [【コラム】 90年代ユーロ・ミュージックとは何だったのか？──ダンスフロアとメロディの饗宴](https://monumental-movement.jp/Column-Euro)

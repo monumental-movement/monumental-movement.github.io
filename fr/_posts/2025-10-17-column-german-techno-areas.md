@@ -17,9 +17,10 @@ title: '[Chronique] Quatre Allemagnes, quatre technos — réverbérations mural
 
 ## Prologue Tout a commencé la nuit de la chute du mur de Berlin
 
+
 Texte : mmr | Thème : Si vous regardez l'Allemagne en la divisant en quatre zones métropolitaines, vous verrez que la techno n'est pas seulement de la musique, mais une « carte culturelle » qui fait écho aux souvenirs géographiques et historiques.
   
-Novembre 1989. De l'autre côté du béton en ruine, quelqu'un a sorti un haut-parleur et a fait exploser un rythme. À ce moment-là, le pays allemand entamait une **reconstruction rythmique** avant la « réunification ».  
+Novembre 1989. De l'autre côté du béton en ruine, quelqu'un a sorti un haut-parleur et a fait exploser un rythme. À ce moment-là, le pays allemand entamait une **reconstruction rythmique** avant la « réunification ».
 Usines abandonnées, entrepôts vides, tunnels souterrains : les sons qui y circulent ne sont pas des copies des sons britanniques et américains. **« Fabriqué d'après le mur »**. Ce n’était pas une musique pour traverser les frontières, mais une musique née sur le site de la frontière.
 
 ---
@@ -37,11 +38,12 @@ color: #fff;
 }
 </style>
 
+
 ## Chapitre 1 Berlin : Des ruines aux clubs - la capitale de « l'après-Détroit »
 
 ### 1-1. Un coup de pied résonnait sur les ruines du mur
 
-Tresor, E-Werk et plus tard l'icône mondiale Berghain.  
+Tresor, E-Werk et plus tard l'icône mondiale Berghain.
 La techno berlinoise était à la fois une admiration pour Détroit et un projet de rénovation urbaine. Les rythmes rigides de Jeff Mills et Underground Resistance sont devenus une voix pour la liberté dans une ville encore à l’ombre du socialisme.
 
 > « Dans cette ville, le son, c'est la politique. »
@@ -53,8 +55,8 @@ La techno berlinoise était à la fois une admiration pour Détroit et un projet
 
 ### 1-2. La naissance du minimalisme et de « l’esthétique de la construction »
 
-Canal de base, réaction en chaîne, Raster-Noton.  
-Façonnez le son, construisez-le et dominez l’espace. Le minimalisme berlinois, qui s'intéresse à la richesse du « rien », résonne avec les idées de l'architecture et du design.  
+Canal de base, réaction en chaîne, Raster-Noton.
+Façonnez le son, construisez-le et dominez l’espace. Le minimalisme berlinois, qui s'intéresse à la richesse du « rien », résonne avec les idées de l'architecture et du design.
 L'acoustique ne sera pas les murs, mais la **structure aérienne**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oC21EzpdnFQ?si=NoFYMbnwAXwUHE68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -63,9 +65,9 @@ L'acoustique ne sera pas les murs, mais la **structure aérienne**.
 
 ### 1-3. Comment Berlin est devenue la capitale mondiale de la techno
 
-À la fin des années 1990, des artistes du monde entier s’installent dans cette ville.  
-Richie Hawtin, Ellen Allien, Ben Klock.  
-Berlin est devenue une république des sons plutôt qu'une nation. Une ville où la techno est un métier, une vie et une religion.  
+À la fin des années 1990, des artistes du monde entier s’installent dans cette ville.
+Richie Hawtin, Ellen Allien, Ben Klock.
+Berlin est devenue une république des sons plutôt qu'une nation. Une ville où la techno est un métier, une vie et une religion.
 Tant que le bruit continuera, cette ville ne dormira jamais.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nIcgIo1f3HY?si=IkC0BWGdXy6abSph" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -76,8 +78,8 @@ Tant que le bruit continuera, cette ville ne dormira jamais.
 
 ### 2-1. L'ombre et les successeurs de Kraftwerk
 
-Un autre ADN coule dans le bassin du Rhin.  
-C'est l'idée de « l'harmonie entre les humains et les machines » créée par Kraftwerk.  
+Un autre ADN coule dans le bassin du Rhin.
+C'est l'idée de « l'harmonie entre les humains et les machines » créée par Kraftwerk.
 NEU!, La Düsseldorf, Cluster : les expériences électro des années 70 ont jeté les bases de la techno ultérieure.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eq4rcSi9ddg?si=zJJyL5DsPwyqngUe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -86,7 +88,7 @@ NEU!, La Düsseldorf, Cluster : les expériences électro des années 70 ont jet
 
 ### 2-2. Kompakt et la généalogie de la pop minimale
 
-Dans les années 1990, le **label Kompakt**, né à Cologne, présentait une « soft techno » différente de la rigidité berlinoise.  
+Dans les années 1990, le **label Kompakt**, né à Cologne, présentait une « soft techno » différente de la rigidité berlinoise.
 Gas de Wolfgang Voigt représente les basses fréquences flottant dans une forêt brumeuse. C'est le moment où le minimalisme acquiert **émotion et poésie**.
 
 > « Pour moi, la techno est une peinture de paysage. »
@@ -98,8 +100,8 @@ Gas de Wolfgang Voigt représente les basses fréquences flottant dans une forê
 
 ### 2-3. Espace culturel de la musique électronique du Rhin
 
-Cologne ne fait pas de différence entre les clubs et les musées.  
-Les sons électroniques sont la « culture » elle-même, le rythme respiratoire de la vie urbaine.  
+Cologne ne fait pas de différence entre les clubs et les musées.
+Les sons électroniques sont la « culture » elle-même, le rythme respiratoire de la vie urbaine.
 Il existe une extension du romantisme allemand, où cohabitent raison et rêve.
 
 ---
@@ -108,8 +110,8 @@ Il existe une extension du romantisme allemand, où cohabitent raison et rêve.
 
 ### 3-1. Explosion du « Son de Francfort »
 
-Si Berlin est philosophie, Francfort est **festival**.  
-Sven Väth, Eye Q, Harthouse : c'est ici qu'est né l'engouement pour les « rave » au début des années 90.  
+Si Berlin est philosophie, Francfort est **festival**.
+Sven Väth, Eye Q, Harthouse : c'est ici qu'est né l'engouement pour les « rave » au début des années 90.
 Un rythme de transe métallique illumine la nuit d'une ville industrielle.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-SZ5s8gkxhw?si=onx4tm9RSbbgjQ4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -118,8 +120,8 @@ Un rythme de transe métallique illumine la nuit d'une ville industrielle.
 
 ### 3-2. Rainure urbaine et industrielle
 
-Finances et travail, entrepôts et cheminées.  
-La techno dans cette ville est la **machine respiratoire** d'une zone industrielle.  
+Finances et travail, entrepôts et cheminées.
+La techno dans cette ville est la **machine respiratoire** d'une zone industrielle.
 La pression sonore dans les sous-sols du club Dorian Gray était à la fois une réaction sociale et une catharsis.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ysw_fEc9w3I?si=pjqJRA_2WxCOSYy9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -128,9 +130,9 @@ La pression sonore dans les sous-sols du club Dorian Gray était à la fois une 
 
 ### 3-3. Où sont passés les gènes de Francfort ?
 
-Cocoon, Ibiza, culture des festivals.  
-L’origine de tout cela réside dans la rave de Francfort des années 1990.  
-L'Europe avant que l'EDM ne commence ici.  
+Cocoon, Ibiza, culture des festivals.
+L’origine de tout cela réside dans la rave de Francfort des années 1990.
+L'Europe avant que l'EDM ne commence ici.
 La techno était une prière, un autre battement de cœur derrière l’économie.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WJwwmaJVJE4?si=tK7Cf-q0q_M7q_Y5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -141,10 +143,10 @@ La techno était une prière, un autre battement de cœur derrière l’économi
 
 ### 4-1. Hambourg, la ville expérimentale du nord
 
-Dial Records, Pantha du Prince, Lawrence.  
-La techno du Nord est pleine de **solitude et de poésie**.  
-Une mélancolie introspective, aux antipodes du Berlin scintillant.  
-Pas « de la musique pour danser », mais des « rythmes pour réfléchir ».
+Dial Records, Pantha du Prince, Lawrence.
+La techno du Nord est pleine de **solitude et de poésie**.
+Une mélancolie introspective, aux antipodes du Berlin scintillant.
+Pas de « musique pour danser », mais des « rythmes pour réfléchir ».
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U8KylRW2SNc?si=cgZ8SEtZQIceTH6K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -152,16 +154,16 @@ Pas « de la musique pour danser », mais des « rythmes pour réfléchir ».
 
 ### 4-2. Scène locale dans l'est de Leipzig
 
-L’esprit DIY qui perdure depuis l’ère est-allemande est bien vivant dans les sous-sols de cette ville.  
-Transformer un bâtiment abandonné en club et produire du son à l'aide d'un système fait maison.  
-Ce qui existe là-bas, c'est de la **techno en tant que communauté**, sans rapport avec la commercialisation.  
+L’esprit DIY qui perdure depuis l’ère est-allemande est bien vivant dans les sous-sols de cette ville.
+Transformer un bâtiment abandonné en club et produire du son à l'aide d'un système fait maison.
+Ce qui existe là-bas, c'est de la **techno en tant que communauté**, sans rapport avec la commercialisation.
 Pour eux, la musique est à la fois politique et quotidienne.
 
 ### 4-3. Importance de la « techno non centrée »
 
-Il est facile de déifier Berlin.  
-Mais la véritable diversité de la techno allemande réside dans la **résistance de la périphérie**.  
-La lenteur du temps et l'ambiance analogique de la campagne.  
+Il est facile de déifier Berlin.
+Mais la véritable diversité de la techno allemande réside dans la **résistance de la périphérie**.
+La lenteur du temps et l'ambiance analogique de la campagne.
 Cela reflète le futur son de la techno.
 
 ---
@@ -170,14 +172,14 @@ Cela reflète le futur son de la techno.
 
 ### 5-1. La techno allemande comme « multipolarisation » plutôt que « unification »
 
-Au XXIe siècle, la techno n’est plus une culture urbaine singulière.  
-La beauté fonctionnelle de Berlin, la poésie de Cologne, l'enthousiasme de Francfort, la communauté de Leipzig.  
+Au XXIe siècle, la techno n’est plus une culture urbaine singulière.
+La beauté fonctionnelle de Berlin, la poésie de Cologne, l'enthousiasme de Francfort, la communauté de Leipzig.
 Chaque rythme se croise, créant une **carte sonore multipolaire de l'Allemagne**.
 
 ### 5-2. L'avenir du minimalisme allemand
 
-Un retour au hardware et une redécouverte des synthés modulaires.  
-Ce n'est pas seulement de la nostalgie, c'est un retour à la **techno manuelle**.  
+Un retour au hardware et une redécouverte des synthés modulaires.
+Ce n'est pas seulement de la nostalgie, c'est un retour à la **techno manuelle**.
 La techno allemande continue de rythmer les villes et les corps.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6izudjC4_g0?si=O1WoBn12317T8Sfm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -186,9 +188,9 @@ La techno allemande continue de rythmer les villes et les corps.
 
 ## Dernier chapitre « Country » dans une boucle infinie
 
-La techno est une « caractéristique rythmique nationale » qui persiste même après avoir traversé les frontières nationales.  
+La techno est une « caractéristique rythmique nationale » qui perdure même après avoir traversé les frontières nationales.
 Plus de 30 ans se sont écoulés depuis la chute du mur de Berlin.
-L’Allemagne est devenue un pays unifié par le son et non par la politique.  
+L’Allemagne est devenue un pays unifié par le son et non par la politique.
 Et son cœur bat toujours à 4/4.
 
 ---
@@ -230,12 +232,13 @@ flowchart TD
 
 ### Discographie par ville
 
+
 | Région | Artiste | Chef-d'œuvre | Année | Lien |
 | ------------ | ---------------- | ---------------------- | ---- | ------------------------------------------------ |
-| Berlin | Canal de base | *Doublage de quadrant* | 1994 | [Amazon](https://amzn.to/42HRXhy) |
-| Düsseldorf-Cologne | Usine Kraft | *Trans-Europe Express* | 1977 | [Amazon](https://amzn.to/46VatWj) |
-| Francfort | Sven Väth | *Accident au paradis* | 1993 | [Amazon](https://amzn.to/3J2ouby) |
-| Hambourg-Leipzig | Pantha du Prince | *Bruit noir* | 2010 | [Amazon](https://amzn.to/4nSXkmu) |
+| ベルリン         | Basic Channel    | *Quadrant Dub*         | 1994 | [Amazon](https://amzn.to/42HRXhy) |
+| デュッセルドルフ〜ケルン | Kraftwerk        | *Trans-Europe Express* | 1977 | [Amazon](https://amzn.to/46VatWj) |
+| フランクフルト      | Sven Väth        | *Accident in Paradise* | 1993 | [Amazon](https://amzn.to/3J2ouby) |
+| ハンブルク〜ライプツィヒ | Pantha du Prince | *Black Noise*          | 2010 | [Amazon](https://amzn.to/4nSXkmu) |
 
 
 ---
@@ -341,13 +344,13 @@ C'est pourquoi ce pays reste « honnête dans son son » plus que partout ailleu
 
 ### Colonnes associées
 
-🔗 [[Chronique] La généalogie et l'état actuel de la Techno allemande - l'esthétique du son se propageant de Berlin au monde](https://monumental-movement.jp/Column-German-Techno)
+🔗 [【コラム】 ドイツ・テクノ（German Techno）の系譜と現在 ― ベルリンから世界へ広がる音の美学](https://monumental-movement.jp/Column-German-Techno)
 
-🔗 [[Chronique] L'âge d'or de la techno britannique](https://monumental-movement.jp/Column-90s-UKTechno)
+🔗 [【コラム】 UKテクノの黄金時代](https://monumental-movement.jp/Column-90s-UKTechno)
 
-🔗 [[Chronique] Des origines de la techno à nos jours - Une histoire chronologique retracée à travers des disques et équipements célèbres](https://monumental-movement.jp/Column-Techno-History)
+🔗 [【コラム】 テクノの発祥から現在まで ― 名盤と機材でたどる年代史](https://monumental-movement.jp/Column-Techno-History)
 
-🔗 [[Chronique] Detroit Techno : Danse humaine créée par le battement du cœur des machines](https://monumental-movement.jp/Column-Detroit-Techno)
+🔗 [【コラム】 デトロイト・テクノ(Detroit Techno)：機械の鼓動が生んだ人間のダンス](https://monumental-movement.jp/Column-Detroit-Techno)
 
-🔗 [[Chronique] Tresor - Le lieu sacré de la techno qui a changé le monde de l'underground à Berlin](https://monumental-movement.jp/Column-Tresor)
+🔗 [【コラム】 Tresor（トレゾア） ― ベルリン地下から世界を変えたテクノの聖地](https://monumental-movement.jp/Column-Tresor)
 

@@ -26,13 +26,13 @@ En 2002, le groupe s'est reformé sous le nom d'Elvis Costello & the Imposters, 
 
 En 2003, Elvis Costello et les Attractions ont été intronisés au Rock and Roll Hall of Fame.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Let Them All Talk
 
-B. Le genre flirt
-````
-[Achat sur Mercari](https://jp.mercari.com/item/m52393761866?afid=6142608987){: .button1}
+B. The Flirting Kind
+```
+[メルカリで購入](https://jp.mercari.com/item/m52393761866?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NaYJCfenR20?si=WLLTgzfK830LcuWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

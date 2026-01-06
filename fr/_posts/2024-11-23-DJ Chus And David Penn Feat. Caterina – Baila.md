@@ -15,12 +15,12 @@ title: DJ Chus et David Penn Feat. Caterina – Baila
 ---
 
 
-Un remix de la célèbre chanson "Baila" de DJ Chus et David Penn par le DJ et producteur house américain Dennis Ferrer, célèbre pour "Hey Hey".
+Un remix de la célèbre chanson "Baila" de DJ Chus et David Penn par le DJ house et producteur américain Dennis Ferrer, célèbre pour "Hey Hey".
 
 Un morceau tribal house/deep house sorti en 2003 par le prestigieux label britannique de musique dance Defected.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 This Side
 A1. Baila (Dennis Ferrer Bergentine Mix)
@@ -30,7 +30,7 @@ That Side
 AA1.Baila (Peter "Tha Zouk" & Bruno Marciano Remix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m72185729340?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72185729340?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jdks0tZnUs4?si=C5CQdGWESB1NuhDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

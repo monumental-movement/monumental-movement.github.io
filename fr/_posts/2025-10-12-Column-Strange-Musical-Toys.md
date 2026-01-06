@@ -17,6 +17,7 @@ title: '[Chronique] Jouets musicaux étranges — Jouets aux sons étranges du m
 
 ## Les « jouets sonores » à travers le monde
 
+
 Texte : mmr | Thème : Des jouets d'enfants aux instruments d'artistes - Vers l'ère des jouets IA, des instruments tactiles et des jouets sociaux
 
 Il y a des endroits où la frontière entre musique et jeu devient floue. Nous vivons dans un monde où les sons électroniques des jouets tenus dans les mains des enfants finissent par être reconnus comme des outils créatifs pour les scènes et les artistes professionnels. Des sources sonores étranges comme Radel, Omnichord, Stylophone et Circuit Bending, qui modifiaient des circuits faits maison, sont devenues plus que des jouets et sont devenues des dispositifs expérimentaux culturels.
@@ -38,9 +39,10 @@ color: #fff;
 }
 </style>
 
+
 ## Ⅰ. Le plaisir des mains jouant avec le son
 
-Il ne faut pas oublier que le « sens tactile » est à l'origine de l'acte musical. Lorsque vous pincez les cordes, appuyez sur les touches ou tournez les boutons, vous recevez une réponse du bout des doigts. Cette immédiateté est la même dans les jouets avec lesquels les enfants entrent en contact durant leur enfance.  
+Il ne faut pas oublier que le « sens tactile » est à l'origine de l'acte musical. Lorsque vous pincez les cordes, appuyez sur les touches ou tournez les boutons, vous recevez une réponse au bout de vos doigts. Cette immédiateté est la même dans les jouets avec lesquels les enfants entrent en contact durant leur enfance.
 Au 21e siècle, les sons électroniques ont été étendus aux jouets pour enfants et aux gadgets éducatifs, et l'acte de « sonner » lui-même a été conçu comme faisant partie du jeu. La frontière entre jouets et instruments de musique devient de plus en plus floue.
 
 ---
@@ -48,7 +50,7 @@ Au 21e siècle, les sons électroniques ont été étendus aux jouets pour enfan
 ## Ⅱ. La culture du jouet sonore en Asie
 
 ### Tanpura électronique Radel
-Le tabla électronique, développé par la société indienne Radel à la fin des années 1970, est un appareil qui portableise les sons soutenus des performances du raga traditionnel. Il est devenu populaire auprès d'un large éventail de personnes, des enfants aux adultes, car il permet de reproduire facilement à la maison des instruments à cordes complexes.  
+Le tabla électronique, développé par la société indienne Radel à la fin des années 1970, est un appareil qui portableise les sons soutenus des performances du raga traditionnel. Il est devenu populaire auprès d'un large éventail de personnes, des enfants aux adultes, car il permet de reproduire facilement à la maison des instruments à cordes complexes.
 La simplification des sons électroniques a en effet ouvert la porte à de nouvelles improvisations. Le tanpura électronique posé sur le bureau à la maison est devenu un « rituel familial » qui résonne à la frontière entre l'apprentissage et le jeu.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k2sYalri8oo?si=XlAvOI4CTDOG2yH_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -93,7 +95,7 @@ Une fusion de sons électroniques subtils et de sensations analogiques. La sensa
 ## Ⅳ. Appareils sonores étranges européens
 
 ### Stylophone et Optigan
-Le Stylophone britannique est un synthétiseur de bureau familier des publicités télévisées des années 1970. Lorsque vous tracez les contacts métalliques du bout des doigts, un bip distinctif retentit. Sa légèreté et son côté bruyant ont été incorporés dans les premières musiques techno-pop et avant-gardistes.  
+Le Stylophone britannique est un synthétiseur de bureau familier des publicités télévisées des années 1970. Lorsque vous tracez les contacts métalliques du bout des doigts, un bip distinctif retentit. Sa légèreté et son côté bruyant ont été incorporés dans les premières musiques techno-pop et avant-gardistes.
 L'Optigan est un jouet d'orgue qui joue des sons à l'aide de disques optiques et se caractérise par des motifs et des rythmes imprévisibles.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EL8PH9Fx0hw?si=aRc6EJ8WPVcaAXI9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -102,11 +104,11 @@ L'Optigan est un jouet d'orgue qui joue des sons à l'aide de disques optiques e
 
 #### Album utilisant Stylophone
 
-**David Bowie – Space Oddity (1969 single)**
+**David Bowie – Space Oddity (single de 1969)**
 
 Stylophone utilisé au début des célibataires. Caractérisé par un ton cosmique et minimaliste.
 
-**Aphex Twin – Selected Ambient Works 85–92 (1992)**
+**Aphex Twin – Sélection d'œuvres ambiantes 85-92 (1992)**
 
 Techno ambiante créée par des minisynthés et des sons électroniques ressemblant à des jouets.
 
@@ -131,7 +133,7 @@ Les instruments électroniques DIY sont devenus profondément ancrés dans la cu
 
 #### Circuit Bending / Utilisation de jouets modifiés
 
-**Merzbow – Pulse Demon (1996)**
+**Merzbow – Démon Pulse (1996)**
 
 Une pièce expérimentale sonore qui utilise pleinement des équipements électroniques modifiés et des jouets sonores.
 
@@ -140,7 +142,7 @@ Une pièce expérimentale sonore qui utilise pleinement des équipements électr
 
 ## Ⅵ. L'âge d'or des jouets électroniques au Japon
 
-Dans les années 1970 et 1980, les synthés portables et les jouets musicaux électroniques sont devenus populaires dans les foyers japonais.
+Dans les années 1970 et 1980, les synthés portables et les instruments de musique électroniques sont devenus populaires dans les foyers japonais.
 
 - Série Yamaha Portasound
 - CASIO VL-TONE
@@ -179,11 +181,11 @@ Son fonctionnement simple et intuitif et son ton rappelant celui d'un dessin ani
 
 #### Opérateur de poche / Ingénierie adolescente
 
-**Four Tet – Rounds (2003)**
+**Quatre Têt – Tours (2003)**
 
 Il anticipe l'atmosphère d'une petite source sonore électronique similaire à Pocket Operator. Battement et mélodie minimes.
 
-**Flying Lotus – Cosmogramma (2010)**
+**Lotus volant – Cosmogramma (2010)**
 
 Une texture complexe qui combine jouets électroniques et petits sons de type synthétiseur.
 
@@ -191,14 +193,14 @@ Une texture complexe qui combine jouets électroniques et petits sons de type sy
 
 ## Ⅷ. Artistes contemporains et Toy Sound
 
-De nombreux artistes contemporains, dont Björk, Cornelius, Bon Iver et Laurie Anderson, ont incorporé des instruments jouets dans leurs performances live et leurs enregistrements.  
+De nombreux artistes contemporains, dont Björk, Cornelius, Bon Iver et Laurie Anderson, ont incorporé des instruments jouets dans leurs performances live et leurs enregistrements.
 Les sons de basse résolution et les bruits accidentels deviennent des outils permettant de créer un sentiment d'intimité et d'improvisation, et sont loués pour avoir osé conserver une sensation « fait main » à l'ère du numérique.
 
 ---
 
 ## Ⅸ. Musique de jouets du futur
 
-Les jouets musicaux, tels que les jouets IA, les instruments tactiles et les jouets sociaux, continuent d'évoluer en tant que terrain d'essai pour de nouvelles interfaces.  
+Les jouets musicaux, tels que les jouets IA, les instruments tactiles et les jouets sociaux, continuent d'évoluer en tant que terrain d'essai pour de nouvelles interfaces.
 Le concept de « jeu » revient une fois de plus au centre de la création musicale et joue un rôle culturel important dans l'avenir du son électronique.
 
 ---
@@ -232,7 +234,7 @@ flowchart TD
 
 [Radel Electronic Tanpura](https://amzn.to/4h7pWFZ)
 
-[Série de stylets](https://amzn.to/4qdQLN9)
+[Stylophoneシリーズ](https://amzn.to/4qdQLN9)
 
 [Pocket Operator](https://amzn.to/46QcVgQ)
 
@@ -244,14 +246,14 @@ flowchart TD
 
 | Nom de l'album | Artiste | Année de sortie | Appareil utilisé/Caractéristiques | Lien |
 |------------|--------------|---------|--------------------|--------------|
-| Fantasme | Corneille | 1997 | Pop/electronica centrée autour des accords Omnichord | [Amazon](https://amzn.to/4h7f2QM) |
-| Vespértine | Bjork | 2001 | Sensation d'accords délicats et sons électroniques infimes par Omnichord | [Amazon](https://amzn.to/4ojW240) |
-| Bizarrerie spatiale | David Bowie | 1969 | Stylophone utilisé, ton minimal semblable à celui de l'espace | [Amazon](https://amzn.to/48r48mx) |
-| Œuvres ambiantes sélectionnées 85–92 | Aphex Jumeau | 1992 | Ambient/techno avec des sons électroniques jouets tels que Stylophone | [Amazon](https://amzn.to/4mYVoYg) |
-| Tours | Quatre Têt | 2003 | Son électronique mini-synthé de style Pocket Operator | [Amazon](https://amzn.to/4q451HY) |
-| Cosmogramme | Lotus volant | 2010 | Texture complexe combinant des sons de petits synthés/jouets électroniques | [Amazon](https://amzn.to/4q2iujP) |
-| Explorations Circuit-Bent | Roseau Ghazala | 2005 | Livres de cintrage de circuits | [Amazon](https://amzn.to/4haxkAD) |
-| Démon d'impulsion | Arc de Merz | 1996 | Musique expérimentale centrée sur les jouets électroniques modifiés et le bruit | [Amazon](https://amzn.to/46TWAGo) |
-| Jeu solaire | Omar Rodríguez-López | 2010 | Mini synthé, guitare avant-gardiste aux sons électroniques de type jouet | [Amazon](https://amzn.to/4ofMWoK) |
-| Grande science | Laurie Anderson | 1982 | Expériences musicales/performances utilisant Stylophone et synthés simples | [Amazon](https://amzn.to/3WF0yhn) |
+| Fantasma | Cornelius | 1997 | Omnichordの和音を中心にしたポップ/エレクトロニカ | [Amazon](https://amzn.to/4h7f2QM) |
+| Vespertine | Björk | 2001 | Omnichordによる繊細なコード感、微細電子音 | [Amazon](https://amzn.to/4ojW240) |
+| Space Oddity | David Bowie | 1969 | Stylophone使用、宇宙的ミニマル音色 | [Amazon](https://amzn.to/48r48mx) |
+| Selected Ambient Works 85–92 | Aphex Twin | 1992 | Stylophoneなど玩具的電子音でアンビエント/テクノ | [Amazon](https://amzn.to/4mYVoYg) |
+| Rounds | Four Tet | 2003 | Pocket Operator風ミニシンセ的電子音 | [Amazon](https://amzn.to/4q451HY) |
+| Cosmogramma | Flying Lotus | 2010 | 小型シンセ/電子玩具音を組み合わせた複雑テクスチャ | [Amazon](https://amzn.to/4q2iujP) |
+| Circuit-Bent Explorations | Reed Ghazala | 2005 | Circuit Bendingの書籍 | [Amazon](https://amzn.to/4haxkAD) |
+| Pulse Demon | Merzbow | 1996 | 改造電子玩具・ノイズ中心の実験音楽 | [Amazon](https://amzn.to/46TWAGo) |
+| Solar Gambling | Omar Rodríguez-López | 2010 | ミニシンセ、玩具的電子音の前衛ギター | [Amazon](https://amzn.to/4ofMWoK) |
+| Big Science | Laurie Anderson | 1982 | Stylophoneや簡易シンセを用いた音楽/パフォーマンス実験 | [Amazon](https://amzn.to/3WF0yhn) |
 

@@ -20,7 +20,7 @@ Petter Nordkvist est un DJ et producteur de Stockholm, en Suède. Leur style uni
 "Untitled Acid EP" est un morceau acid house/progressive house/tech house sorti en 2005 sur Deep Focus, un sous-label du label d'Amsterdam Deep Records.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Freak 'N Love
 
@@ -28,7 +28,7 @@ B1. Untitled Acid
 B2. Everyday Balloon
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m32455910195?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m32455910195?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gHZDcIoj7RU?si=VBavyUOyjZCD42Ch" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

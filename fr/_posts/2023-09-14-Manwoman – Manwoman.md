@@ -16,7 +16,7 @@ title: Homme-femme – Homme-femme
 
 Il s'agit du premier single du groupe hardcore/punk japonais Man Woman, sorti en 1995.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Blk(black)out
 
@@ -30,5 +30,5 @@ B1. Speedometer
 B2. Man And Woman
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m46814457892?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46814457892?afid=6142608987){: .button1}
 

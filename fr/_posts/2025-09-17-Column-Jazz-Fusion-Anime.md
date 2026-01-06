@@ -10,8 +10,8 @@ tags:
 - Jazz
 - fusion
 - Anime
-title: '[Chronique] Affinité entre anime et jazz/fusion : Une histoire de nuits citadines
-  et de musique'
+title: '[Chronique] L''affinité entre anime et jazz/fusion : Une histoire de nuits
+  citadines et de musique'
 ---
 
 
@@ -19,7 +19,7 @@ title: '[Chronique] Affinité entre anime et jazz/fusion : Une histoire de nuits
 
 Texte : mmr｜Thème : A propos de l'affinité entre jazz/fusion et anime
 
-Le jazz et la fusion confèrent à l'anime une «atmosphère urbaine et adulte».  
+Le jazz et la fusion confèrent à l'anime une «atmosphère urbaine et adulte».
 Des scènes de poursuite rapides aux scènes tranquilles du quotidien en passant par les dialogues humoristiques, son improvisation et sa sophistication synchronisent un large éventail d'émotions avec les images.
 
 ---
@@ -37,6 +37,7 @@ background-color: #111;
 color: #fff;
 }
 </style>
+
 
 ### ■ Exemple représentatif de réussite : « Cowboy Bebop »
 
@@ -103,6 +104,7 @@ flowchart TD
 
 ---
 
+
 ### ■ Table de croisement fantastique (scènes d'anime spécifiques x chansons de jazz)
 
 | Scène d'anime | Chanson jazz/fusion que vous voulez jouer dans votre imagination | Explication |
@@ -135,4 +137,4 @@ Et comme le nom « Lazarus » l’indique, le jazz renaît constamment sous de n
 
 ### Colonnes associées
 
-[[Chronique] Rock progressif et anime : un récit épique qui se croise](https://monumental-movement.jp/Column-Progressive-Rock-Anime)
+ [【コラム】 プログレッシブ・ロックとアニメ：交差する壮大な物語性](https://monumental-movement.jp/Column-Progressive-Rock-Anime)

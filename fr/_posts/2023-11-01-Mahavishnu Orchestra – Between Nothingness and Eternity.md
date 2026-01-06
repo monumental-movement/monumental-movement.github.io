@@ -22,18 +22,18 @@ Les membres participants à cette époque étaient John McLaughlin (guitare), Je
 
 #### Liste des chansons
 ```md
-A1. Trilogie Trois parties de tristesse
+A1. Trilogy 悲の3部曲
 
-・Le chemin ensoleillé
-・La Mère De La Mer Notre-Dame de la Mer
-・L'histoire de demain n'est pas la même légende éternelle
+・The Sunlit Path 輝ける径
+・La Mere De La Mer 海の聖母
+・Tomorrow's Story Not The Same 永遠伝説 
 
-A2. Soeur Andrea Soeur Andrea
+A2. Sister Andrea シスター・アンドレア
 
-B. Rêve Rêve
-````
+B. Dream ドリーム
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m52385944787?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m52385944787?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YmNkGQm1YE4?si=gEa6Sy-PJm8ff3Y4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

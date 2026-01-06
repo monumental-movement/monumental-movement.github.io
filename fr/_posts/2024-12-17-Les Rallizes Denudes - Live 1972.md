@@ -19,15 +19,15 @@ Les Rallizes Dénudés/Hadaka no rariizu est un groupe expérimental de noise ro
 
 #### Liste des chansons
 ```md
-1. Domaine de fleurs artificielles
-2. Plus profondément que la nuit
-3. Réveil blanc
-4.improvisation sans titre
-5. Feu de glace
-6.Le dernier
-````
+1. 造花の原野 (Field of Artificial Flowers)
+2. 夜より深く (More Deeply Than the Night)
+3. 白い目覚め (White Waking)
+4. untitled improvisation
+5. 氷の炎 (Ice Fire)
+6. The Last One
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m84819164983?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84819164983?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zoaAUptZ0mw?si=io-6qEGs_v6UDWeG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

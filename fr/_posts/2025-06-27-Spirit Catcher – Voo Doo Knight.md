@@ -18,14 +18,14 @@ Spirit Catcher est un duo formé par les producteurs belges Jean Vanesse et Thom
 
 "Voo Doo Knight" est un morceau Tech House sorti en 2004 par le label Moodmusic du DJ et producteur finlandais Sasse.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Voo Doo Knight
 
 B. Street Hawk
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m79500362846?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m79500362846?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iwCChzbF4mw?si=xgnHHy4rSPLu5c_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

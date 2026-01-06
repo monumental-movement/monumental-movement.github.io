@@ -16,15 +16,16 @@ title: '[Chronique] Body and Beat : Anthropologie de la musique de danse'
 
 ## Introduction : Pourquoi les gens sont-ils émus par le rythme ?
 
+
 Texte : mmr｜Thème : Pourquoi les gens dansent ? Une exploration anthropologique de la relation entre le rythme et le corps, des rituels anciens à la culture des clubs en passant par les rythmes de l'ère de l'IA.
 
-Lorsque vous entendez un son sur la piste de danse, votre corps réagit avant la logique.  
-Mes pieds et mes hanches commencent inconsciemment à battre.  
+Lorsque vous entendez un son sur la piste de danse, votre corps réagit avant la logique.
+Mes pieds et mes hanches commencent inconsciemment à battre.
 Il s'agit d'un sentiment qui précède « l'écoute » et constitue un circuit perceptuel complètement différent de la « compréhension » de la musique.
 
 Anthropologue André Leroy-Gourand
-Il définit la culture humaine comme « l’extension du corps ».  
-Tout comme les outils en pierre et l’écriture, le rythme est aussi une extension du corps humain.  
+Il définit la culture humaine comme « l’extension du corps ».
+Tout comme les outils en pierre et l’écriture, le rythme est aussi une extension du corps humain.
 Autrement dit, la danse est la première technologie de la civilisation.
 
 ---
@@ -42,23 +43,24 @@ color: #fff;
 }
 </style>
 
+
 ## Chapitre 1 : Tambours et rituels - L'origine du rythme
 
 ### 1. La naissance du son s'est accompagnée de la « respiration »
 
-D'un point de vue archéologique, les premiers « instruments de musique » étaient des instruments à percussion.  
+D'un point de vue archéologique, les premiers « instruments de musique » étaient des instruments à percussion.
 C'est une pierre ou un arbre battu pour la chasse ou la prière,
 Créer un « beat » était aussi un acte de création d’une communauté.
 
 Dans de nombreuses sociétés tribales d'Afrique et d'Océanie,
-Le tambour était à la fois un moyen de transmission d’informations et un élément central des rituels.  
+Le tambour était à la fois un moyen de transmission d’informations et un élément central des rituels.
 Le rythme des battements de coeur est une métaphore de la vie,
 **Le rythme était un code permettant au corps de communiquer avec le monde extérieur**.
 
 ### 2. Une danse qui rythme le « rythme » de la communauté
 
-La danse est souvent qualifiée de « communication non verbale ».  
-Mais son essence réside plutôt dans la reconfirmation de la société à travers la résonance du corps.  
+La danse est souvent qualifiée de « communication non verbale ».
+Mais son essence réside plutôt dans la reconfirmation de la société à travers la résonance du corps.
 Les danses du festival et les transes religieuses sont
 C'était un appareil qui fondait le « soi » dans un flux rythmique qui transcendait l'individu.
 
@@ -180,7 +182,7 @@ La question est plutôt de savoir comment les humains sympathisent avec les ryth
 
 Lorsque le corps humain répond aux battements créés par l'IA,
 Il ne s'agit plus d'une relation homme-machine.
-**Un « corps étendu » en tant qu'être résonant** est né.
+**Un « corps étendu » en tant qu'être résonnant** est né.
 Le rythme deviendra le nouveau langage de communication.
 
 ---

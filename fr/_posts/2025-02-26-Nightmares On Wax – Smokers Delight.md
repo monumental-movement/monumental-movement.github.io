@@ -25,7 +25,7 @@ Le contexte de production est également intéressant. Après le départ de son 
 
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Nights Introlude
 2. Dreddoverboard
@@ -46,7 +46,7 @@ Le contexte de production est également intéressant. Après le départ de son 
 16. Gambia Via Vagator Beach
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m31522709152?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31522709152?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C6ixa3G_tL4?si=oqR77d3pR6_Eziw3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

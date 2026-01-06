@@ -15,11 +15,12 @@ title: '[Chronique] Histoire complète du hip-hop français : de NTM à nos jour
 ---
 
 
+
 # Histoire complète du hip hop français
 
 Texte : mmr｜Thème : Focus sur NTM et IAM, explications de chaque album et chanson, origine sociale, analyse du style régional et chronologie.
 
-Le hip-hop français est un mouvement culturel né dans les banlieues des villes françaises à la fin des années 1980 et, bien qu'influencé par le hip-hop américain, il s'est développé pour refléter son propre contexte social et culturel.  
+Le hip-hop français est un mouvement culturel né dans les banlieues des villes françaises à la fin des années 1980 et, bien qu'influencé par le hip-hop américain, il s'est développé pour refléter son propre contexte social et culturel.
 En particulier, les jeunes issus des communautés immigrées et des familles à faible revenu ont adopté le rap comme moyen d'exprimer leur voix, et les paroles contiennent des messages politiques et sociaux.
 
 ---
@@ -37,11 +38,12 @@ color: #fff;
 }
 </style>
 
+
 ## 1. Origine : France, fin des années 1980
 
 ### 1-1. L'arrivée de la culture hip-hop
 
-Au début des années 1980, la culture hip-hop a été introduite du Bronx en Amérique vers la France.  
+Au début des années 1980, la culture hip-hop a été introduite du Bronx en Amérique vers la France.
 - **DJ boom** : des DJ jouant du breakbeat apparaissent dans les clubs parisiens
 - **Breakdance** : activités B-boy/B-girl dans les parcs de la ville et les établissements publics
 - **Graffiti** : diffusion dans les espaces urbains comme forme d'expression de soi pour les jeunes
@@ -57,10 +59,10 @@ Durant cette période, le rap était encore une sous-culture mineure, existant p
 - Lieu de naissance : Seine-Saint-Denis, banlieue parisienne
 - Caractéristiques : paroles critiques politiques et sociales, ambiance de rue difficile
 
-#### IAM
+#### JE SUIS
 
 - Année de création : 1989
-- Membres : Akhenaton, Shurik'n, Kheops, Imhotep, Freeman
+- Membres : Akhenaton, Shurik'n, ​​Kheops, Imhotep, Freeman
 - Lieu de naissance : Marseille
 - Caractéristiques : Paroles sur des thèmes de l'histoire coloniale française et des enjeux sociaux, approche philosophique
 
@@ -77,21 +79,21 @@ flowchart TD
 
 ### 2-1. Message social NTM
 
-NTM devient un groupe représentant le hip-hop français tout au long des années 1990.  
+NTM devient un groupe représentant le hip-hop français tout au long des années 1990.
 Principaux travaux et caractéristiques :
 
 1. **Suprême NTM (1993)**
-   - raconter la réalité de la banlieue parisienne
-   - Thèmes des violences urbaines, des conflits avec la police et des difficultés de la société immigrée
+- raconter la réalité de la banlieue parisienne
+- Thèmes des violences urbaines, des conflits avec la police et des difficultés de la société immigrée
 2. **Paris sous les bombes (1995)**
-   - Message politique renforcé
-   - Reflet de la culture jeunesse du territoire de Saint-Denis
+- Message politique renforcé
+- Reflet de la culture jeunesse du territoire de Saint-Denis
 
 ### 2-2. Paroles philosophiques et historiques d'IAM
 
 1. **L'École du Micro d'Argent (1997)**
-   - Représenter la ville et les enjeux sociaux de Marseille
-   - Paroles sur l'Egypte ancienne et l'histoire coloniale française
+- Représenter la ville et les enjeux sociaux de Marseille
+- Paroles sur l'Egypte ancienne et l'histoire coloniale française
 
 <div class="mermaid">
 flowchart TB
@@ -112,7 +114,7 @@ flowchart TB
 
 ### 3-2. Styles régionaux
 
-| Région | Caractéristiques | Principaux artistes |
+| Région | Caractéristiques | Artistes principaux |
 |---------------|-------------------------------|---------------------------------------|
 | Banlieue de Paris | Critique politique et sociale, fort sentiment de rue | NTM, Rohff, La Fouine |
 | Marseille | Influences musicales afro-caribéennes, paroles philosophiques | IAM, juillet, soprano |
@@ -124,14 +126,14 @@ flowchart TB
 ### 3-3. Artistes et œuvres représentatifs
 
 -**Booba**
-  - Début : 1999
-  - Œuvre : "Temps Mort (2002)", très appréciée en France et à l'étranger
-  - Style : Street rap sombre, focus sur les rythmes
+- Début : 1999
+- Œuvre : "Temps Mort (2002)", très appréciée en France et à l'étranger
+- Style : Street rap sombre, focus sur les rythmes
 - **Rohff**
-  - Début : 1995
-  - Œuvre : "La Vie Avant la Mort (2001)", paroles de critique sociale
+- Début : 1995
+- Œuvre : "La Vie Avant la Mort (2001)", paroles de critique sociale
 - **La Fouine**
-  - Créé en 2005, reflétant la culture de la banlieue parisienne
+- Créé en 2005, reflétant la culture de la banlieue parisienne
 
 ---
 
@@ -144,11 +146,11 @@ flowchart TB
 ### 4-1. Exemples de wrappers nouvelle génération
 
 - **PNL (Peace N' Loves)**
-  - Beat autoproduit, autotune, expression de la culture urbaine
+- Beat autoproduit, autotune, expression de la culture urbaine
 - **Damso**
-  - De Belgique, fusion de thèmes sociaux et de chansons d'amour
+- De Belgique, fusion de thèmes sociaux et de chansons d'amour
 -**Niska**
-  - Style trap et expression banlieue parisienne
+- Style trap et expression banlieue parisienne
 
 ---
 
@@ -192,7 +194,7 @@ timeline
 
 ## 8. Conclusion
 
-Le hip-hop français est bien plus qu’un simple genre musical ; c'est un symbole de la culture urbaine et du mouvement social.  
+Le hip-hop français est bien plus qu’un simple genre musical ; c'est un symbole de la culture urbaine et du mouvement social.
 À partir de NTM et IAM, des styles régionaux ont été établis et, grâce à la commercialisation et à l'internationalisation, se sont développés dans les diverses scènes d'aujourd'hui.
 
 ---

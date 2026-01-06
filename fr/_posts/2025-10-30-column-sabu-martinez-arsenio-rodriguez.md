@@ -17,7 +17,8 @@ title: '[Chronique] Le squelette afro-cubain - La généalogie du battement de c
 
 ## Introduction : Une autre histoire de la musique américaine racontée par les tambours taiko
 
-Texte : mmr｜Thème : D'après Sabu Martinez et Arsenio Rodríguez
+
+Texte : mmr｜Thème : Centré sur Sabu Martinez et Arsenio Rodríguez
 Retracer longitudinalement les tournants de l’histoire de la musique latine
 
 Dans les années 1950, un rythme échangé à l’arrière d’un club de jazz a ébranlé le tissu même de la musique américaine.
@@ -41,6 +42,7 @@ color: #fff;
 }
 </style>
 
+
 ## **Chapitre 1 : La naissance de l'Afro-Cubain - De la terre noire et de la mer des Caraïbes**
 
 À la fin du XIXe siècle, Cuba arrivait à la fin de son histoire de colonie espagnole.
@@ -61,7 +63,7 @@ C’est dans ce contexte qu’apparaît un révolutionnaire aveugle nommé **Ars
 ### « El Ciego Maravilloso (Le joueur aveugle miraculeux) »
 
 Né à La Havane, Arsenio a perdu la vue dans un accident alors qu'il était enfant.
-En échange de ce sens, il acquiert la capacité surnaturelle d’entendre la « structure interne du rythme ».
+En échange de cette sensation, il acquiert la capacité surnaturelle d'entendre la « structure interne du rythme ».
 
 ### Ses innovations :
 
@@ -88,9 +90,9 @@ Son style allie l'intensité de ses racines noires à l'intelligence de l'improv
 
 #### Travaux représentatifs :
 
-* *Palo Congo* (Blue Note, 1957)
-* *Sabu’s Jazz Espagnole* (1960)
-* *Afro Temple* (1973)
+* *Palo Congo* (Note Bleue, 1957)
+* *Jazz Espagnole de Sabu* (1960)
+* *Temple Afro* (1973)
 
 ### Caractéristiques:
 
@@ -125,7 +127,7 @@ Sabu et Arsenio étaient aux extrémités opposées du spectre.
 
 ---
 
-## **Chapitre 5 : Connexions théoriques musicales - L'intersection de Clave et de la polyrythmie**
+## **Chapitre 5 : Connexions théoriques musicales - L'intersection de Clave et de polyrythmie**
 
 La clave (modèle 2–3 ou 3–2) est l’ADN de la musique afro-cubaine.
 Arsenio l'a intégré dans la structure mélodique et Sabu en a fait l'axe de la structure d'improvisation.
@@ -142,6 +144,7 @@ flowchart TD
 
 </div>
 
+
 Il est à noter que cette idée structurelle a également influencé la musique électronique ultérieure (par exemple Four Tet, Floating Points).
 L'idée selon laquelle le rythme « génère de la mélodie » est une extension de leur héritage.
 
@@ -157,7 +160,7 @@ Sa physicalité allait au-delà de la musique et était aussi un dispositif de r
 * **Sabu :** Symbole de la réafricanisation de la culture noire américaine.
 
 > "Taiko n'oubliera jamais les paroles de sa mère"
-> — D'un proverbe afro-cubain
+> — D'après un proverbe afro-cubain
 
 ---
 
@@ -215,10 +218,10 @@ timeline
 
 | Artiste | Albums | Étiquette / Année | Remarques |
 | ----------------- | ---------------------------------------------------------------------------- | ---------------- | ---------------- |
-| Sabu Martinez | [*Palo Congo*](https://amzn.to/49pTYTA) | Note bleue, 1957 | Monument du jazz afro-cubain |
-| Sabu Martinez | [*Temple Afro*](https://amzn.to/4nwZIhX) | Philips, 1973 | Le summum de l’Afro spirituel |
-| Arsenio Rodríguez | [*Bruca Maniguá*](https://amzn.to/4314IUD) | RCA Victor, 1947 | Œuvres représentatives du début de la période de la Révolution Song |
-| Arsenio Rodríguez | [*Viva Arsenio!*](https://amzn.to/4oIZAg3) | Tico, 1960 | Point culminant après avoir déménagé aux États-Unis |
+| Sabu Martinez     | [*Palo Congo*](https://amzn.to/49pTYTA)                    | Blue Note, 1957  | アフロ・キューバン・ジャズ金字塔 |
+| Sabu Martinez     | [*Afro Temple*](https://amzn.to/4nwZIhX)                   | Philips, 1973    | スピリチュアル・アフロの頂点   |
+| Arsenio Rodríguez | [*Bruca Maniguá*](https://amzn.to/4314IUD)                 | RCA Victor, 1947 | 初期ソン革命期代表作       |
+| Arsenio Rodríguez | [*Viva Arsenio!*](https://amzn.to/4oIZAg3)                 | Tico, 1960       | 渡米後の集大成          |
 
 ---
 

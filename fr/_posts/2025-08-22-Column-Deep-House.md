@@ -18,16 +18,17 @@ title: '[Chronique] Qu''est-ce que la deep house ? ─ Explorer la profondeur du
 
 ## Tout d’abord, qu’est-ce que la deep house ?
 
+
 Texte : mmr｜Thème : Deep House, un genre qui continue d'évoluer tranquillement tout en intégrant l'histoire et le contexte.
 
-La deep house est une variété de house qui a germé dans la région de Chicago et du New Jersey à la fin des années 1980. Caractérisé par des harmonies soul/jazz, des basses douces et un groove retenu, c'est un type de musique de danse qui est « profonde, longue et réchauffe le corps » plutôt qu'un pic précipité. Le BPM est généralement de 118 à 124 (vitesse lente à moyenne), les accords 7ème/9ème, le piano électrique (Rhodes), l'orgue (série Korg M1) et les voix décontractées sont symboliques. Il a une "température nocturne" valable aussi bien pour le sol que pour l'écoute.
+La deep house est une sorte de house qui a émergé dans la région de Chicago et du New Jersey à la fin des années 1980. Caractérisé par des harmonies soul/jazz, des basses douces et un groove retenu, c'est un type de musique de danse qui est « profonde, longue et réchauffe le corps » plutôt qu'un pic précipité. Le BPM est généralement de 118 à 124 (vitesse lente à moyenne), les accords 7ème/9ème, le piano électrique (Rhodes), l'orgue (série Korg M1) et les voix décontractées sont symboliques. Il a une "température nocturne" valable aussi bien pour le sol que pour l'écoute.
 
 
 <hr>
 
 ### Contexte et développement de la naissance
 
-**1985-1990 : tôt tôt (Chicago/NJ)**
+**1985-1990 : début précoce (Chicago/NJ)**
 
 [Larry Heard (Mr. Fingers)](https://amzn.to/4q97ot4) présente le prototype avec "Can You Feel It" et "Mystery of Love". Suivant le flux de [Frankie Knuckles](https://amzn.to/4nUwWJ4) et [Marshall Jefferson](https://amzn.to/3KOf4AV), une fusion de la douce sensation soul de Jersey Garage ([Blaze](https://amzn.to/4ooZuuc) et [Kerri Chandler](https://amzn.to/4qbd4CR)).
 
@@ -37,7 +38,7 @@ La deep house est une variété de house qui a germé dans la région de Chicago
 
 **Années 2000 : orientation et sophistication de l'écoute**
 
-Naked Music, Jimpster (Freerange) et bien d’autres vous emmèneront dans une sophistication lounge et émouvante. En Allemagne, [Henrik Schwarz](https://amzn.to/4h8i9I4), [Âme](https://amzn.to/47pAIEq) et [Dixon (Innervisions)](https://amzn.to/4heIsN1) sont populaires pour leur esthétique architecturale minimaliste à moderne.
+Naked MusicやJimpster（Freerange）などがラウンジ～ソウルフルな洗練へ。ドイツ圏では[Henrik Schwarz](https://amzn.to/4h8i9I4)、[Âme](https://amzn.to/47pAIEq)、[Dixon（Innervisions）](https://amzn.to/4heIsN1)がミニマル～モダンな構築美で人気に。
 
 **Années 2010 et au-delà : bifurcation et mondialisation**
 
@@ -79,11 +80,11 @@ Anjunadeep et All Day I Dream se sont tournés vers la musique mélodique/organi
 
 « 3 premières pièces »
 
-- Mr. Fingers – Amnesia
+- M. Fingers – Amnésie
 
-- Ron Trent – Altered States
+- Ron Trent – ​​États modifiés
 
-- Kerri Chandler – Atmosphere
+- Kerri Chandler – Ambiance
 
 
 <hr>
@@ -102,7 +103,7 @@ Anjunadeep et All Day I Dream se sont tournés vers la musique mélodique/organi
 
 **Afro Deep** : Polyrythmie, appel et réponse et percussions à haute température.
 
-**Lo-fi House** : saturation chaleureuse, sensation d'échantillon des années 90.
+**Lo-fi House** : saturation chaude, sensation d'échantillon des années 90.
 
 
 <hr>
@@ -124,7 +125,7 @@ Anjunadeep et All Day I Dream se sont tournés vers la musique mélodique/organi
 
 **Code** : "Marge douce" avec maj7, min9, sus2/4, 6th. Même les deux notes fondamentales + 9ème sont « profondes ».
 
-**Sélection de tonalité** : Rhodes, M1 Organ, Juno pad, sub analogique. Le charleston est légèrement ouvert et fin.
+**Sélection de tonalité** : Rhodes, M1 Organ, Juno pad, sub analogique. Le charley est légèrement ouvert et fin.
 
 **Groove** : « Respirez » avec un léger swing (+5 à +15 %) et des changements infimes de vélocité.
 
@@ -178,25 +179,25 @@ Anjunadeep et All Day I Dream se sont tournés vers la musique mélodique/organi
 
 ### Discographie rapide (10 chansons d'introduction)
 
-・Mr. Fingers – “Can You Feel It”
+·M. Doigts – « Pouvez-vous le sentir »
 
-・Larry Heard Presents Mr. White – “The Sun Can’t Compare”
+・Larry Heard présente M. White – « Le soleil ne peut pas comparer »
 
-・Kerri Chandler – “Atmosphere”
+・Kerri Chandler – « Ambiance »
 
-・Ron Trent – “Altered States”
+・Ron Trent – ​​​​​​« États modifiés »
 
-・Chez Damier – “I Never Knew Love”
+・Chez Damier – « Je n’ai jamais connu l’amour »
 
-・Moodymann – “Shades of Jae”
+・Moodymann – « Nuances de Jae »
 
-・Masters At Work – “To Be In Love (MAW Dub)”
+・Masters At Work – « To Be In Love (MAW Dub) »
 
-・Jimpster – “Dangly Panther”
+・Jimpster – « Panthère pendante »
 
-・Âme – “Rej”
+・Âme – « Rej »
 
-・Black Coffee – “Turn Me On (feat. Bucie)”
+・Black Coffee – « Turn Me On (feat. Bucie) »
 
 
 <hr>

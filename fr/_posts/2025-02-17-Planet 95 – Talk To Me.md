@@ -22,7 +22,7 @@ Le deuxième morceau du côté C&D est un remix de Michael Kilkie, un DJ et prod
 Le premier morceau de la face D est un remix de l'ingénieur et producteur Andy Haldane d'Apollo Studios à Glasgow.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Talk To Me (Dream Mix)
 B. Talk To Me (The Cotton Club Brewery Dub)
@@ -32,7 +32,7 @@ D1. Talk To Me (The Diablo Mix)
 D2. Take To Me (Kilkie's Percapella)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m57495525852?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m57495525852?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hdffdIZAsm0?si=xualZwnB7fNXKUXm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

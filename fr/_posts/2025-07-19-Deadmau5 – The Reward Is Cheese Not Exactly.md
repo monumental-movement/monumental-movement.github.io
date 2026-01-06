@@ -21,16 +21,16 @@ Joel Thomas Zimmerman, également connu sous le nom de Deadmau5, est un DJ et pr
 
 A est une coproduction avec le DJ et producteur canadien Jelo.
 
-B est inclus dans le troisième album studio du groupe, « Random Album Title ».
+B est inclus dans le troisième album studio du groupe, « Random Album Title ».
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Deadmau5 vs Jelo – The Reward Is Cheese
 
 B. Deadmau5 – Not Exactly
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m58724791682?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m58724791682?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0ydmr9yWxAM?si=QuQ993Hm1wjDkxAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

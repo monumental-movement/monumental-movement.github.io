@@ -17,6 +17,7 @@ title: '[Chronique] Acid house : Réactions chimiques de transformation sonore e
 
 ## Le matériel crie, le corps répond
 
+
 Texte : mmr｜Thème : Réactions chimiques de transformation sonore et culturelle
 
 
@@ -26,7 +27,7 @@ Texte : mmr｜Thème : Réactions chimiques de transformation sonore et culturel
 ### Origine : Rayonnement provenant du sous-sol de Chicago
 L'acid house est un genre musical originaire de la scène des clubs underground de Chicago, aux États-Unis, au milieu des années 1980, et constitue un sous-genre de la musique house.
 
-L'origine de ce genre est née de la « mauvaise utilisation accidentelle » d'un instrument électronique appelé Roland TB-303 Bass Line Synthesizer. Développé à l'origine pour remplacer la guitare basse, le TB-303 a été utilisé par les DJ et les producteurs (en particulier par une unité appelée Phuture) pour le manipuler de manière inattendue, produisant des lignes de basse ondulantes, liquides et psychédéliques.
+L'origine de ce genre est née de la « mauvaise utilisation accidentelle » d'un instrument électronique appelé Roland TB-303 Bass Line Synthesizer. Développé à l'origine pour remplacer la guitare basse, le TB-303 a été utilisé par les DJ et les producteurs (en particulier à partir d'une unité appelée **Phuture**) de manière inattendue, produisant des lignes de basse ondulantes, « liquides » et « psychédéliques ».
 
 Le single "Acid Tracks" de Phuture en 1987 est devenu le prototype de ce nouveau style, tant par son caractère sonore que par son nom.
 
@@ -52,7 +53,7 @@ Les caractéristiques les plus importantes de l’acid house sont les éléments
 
 <hr>
 
-#### Quatre coups de pied
+#### Quadruple coup de pied
 
 - Le BPM est un tempo stable d'environ 120-130
 
@@ -187,6 +188,6 @@ Acid n’est pas une réverbération du passé, mais un mutant sonore qui contin
 
 ### Colonnes associées
 
-🔗 [[Chronique] De Chicago au monde : La naissance et l'évolution de la house music](https://monumental-movement.jp/Colum-Chicago-House)
+🔗 [【コラム】 シカゴから世界へ：ハウス・ミュージックの誕生と進化](https://monumental-movement.jp/Colum-Chicago-House)
 
-🔗 [[Chronique] Roland TR-1000 : Redéfinir le rythme ─ Les gènes analogiques et le rythme cardiaque de l'ère de l'IA](https://monumental-movement.jp/Column-Roland-TR-1000)
+🔗 [【コラム】 Roland TR-1000：リズムの再定義 ─ アナログの遺伝子とAI時代の鼓動](https://monumental-movement.jp/Column-Roland-TR-1000)

@@ -15,6 +15,7 @@ title: '[Chronique] Expansion des dégâts causés par les ours et impact du son
 
 ## 1. Introduction : État actuel des dégâts causés par les ours et importance du son
 
+
 Texte : mmr | Thème : Une analyse des dégâts causés par les ours, en augmentation ces dernières années, sous l'angle de l'impact du bruit et du contrôle des comportements. Examiner le rôle du design sonore dans la coexistence des humains et des ours
 
 Ces dernières années, les dégâts causés par les ours ont augmenté rapidement au Japon. Il y a environ 1 000 cas de dommages aux cultures par an, et les dommages humains ont environ doublé au cours des 10 dernières années (Statistiques sur les dommages causés par les animaux sauvages 2024 du ministère de l'Environnement). Les mesures physiques prises jusqu’à présent ne suffisent pas et des méthodes durables de contrôle des dégâts sont nécessaires.
@@ -36,11 +37,12 @@ color: #fff;
 }
 </style>
 
+
 ## 2. Écologie et caractéristiques comportementales des ours
 
 ### 2.1 Principales espèces d'ours et répartition
 
-- **Ours noir d'Asie (Ursus thibetanus)** : trouvé à Honshu, Shikoku et Kyushu, longueur du corps 120–150 cm, bon comportement arboricole, omnivore.  
+- **Ours noir d'Asie (Ursus thibetanus)** : trouvé à Honshu, Shikoku et Kyushu, longueur du corps 120–150 cm, bon comportement arboricole, omnivore.
 - **Ours brun (Ursus arctos yesoensis)** : Hokkaido, 180–250 cm de long, grand, consomme également des poissons et des petits animaux.
 
 Les deux espèces sont nocturnes, mais une activité diurne peut également être observée pendant les saisons de chasse du printemps et de l’automne.
@@ -126,7 +128,7 @@ G[高周波電子音] --> H[実験的回避]
 
 - **Essai sonore électronique de Kyushu (2019-2021)** : évitement à court terme dû à l'utilisation d'équipements à haute fréquence, une accoutumance à long terme se produit
 
-- **Démonstration de haut-parleurs Tohoku AI (2020-2023)** : taux de réussite de l'avertissement d'invasion pré-ours de 65 %
+- **Démonstration de haut-parleurs Tohoku AI (2020-2023)** : taux de réussite de l'avertissement d'intrusion d'ours 65 %
 
 ---
 
@@ -164,7 +166,7 @@ Génération de sons selon des modèles comportementaux à l'aide de l'analyse d
 
 Le contrôle des dégâts est une question de coexistence et non d’extermination des ravageurs.
 
-Les contre-mesures sonores sont non mortelles et efficaces
+Les contre-mesures utilisant le son sont non mortelles et efficaces
 
 - **Défis** : Habituation, impact sur l'écosystème, coût
 
@@ -210,9 +212,9 @@ D --> E[被害軽減・安全確保]
 
 ### Références/Matériaux
 
-- [Dépliant créé par le ministère de l'Agriculture, des Forêts et de la Pêche « Veuillez faire attention aux ours »] (https://www.maff.go.jp/j/seisan/tyozyu/higai/tyuuikanki/attach/pdf/index-12.pdf)
-- ["Manuel de réponse aux infestations d'ours - édition révisée - (Ministère de l'Environnement)"] (http://www.env.go.jp/nature/choju/docs/docs5-4a/index.html)
-- [« Lignes directrices pour la création de plans spécifiques de protection et de gestion de la faune (édition ours) Ministère de l'Environnement »](https://www.env.go.jp/nature/choju/plan/plan3-2c/)
-- [Site Internet du Ministère de l'Environnement "Diverses informations et initiatives concernant les ours"](http://www.env.go.jp/nature/choju/effort/effort12/)
+- [農林水産省作成リーフレット「クマにご注意下さい」](https://www.maff.go.jp/j/seisan/tyozyu/higai/tyuuikanki/attach/pdf/index-12.pdf)
+- [「クマ類の出没対応マニュアル－改定版－（環境省）」](http://www.env.go.jp/nature/choju/docs/docs5-4a/index.html)
+- [「特定鳥獣保護・管理計画作成のためのガイドライン（クマ類編）環境省」](https://www.env.go.jp/nature/choju/plan/plan3-2c/)
+- [環境省 WEB サイト「クマに関する各種情報・取組」](http://www.env.go.jp/nature/choju/effort/effort12/)
 
 ---

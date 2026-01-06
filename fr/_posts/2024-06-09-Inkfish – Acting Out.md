@@ -22,12 +22,12 @@ Inkfish a travaillé sous divers noms avec des producteurs/DJ de renom tels que 
 
 "Acting Out" est un morceau de house tribal progressif d'Inkfish sorti en 2003 dans une édition limitée à 500 exemplaires.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Acting Out
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m47096405084?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m47096405084?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lMffgmavpE8?si=3ejHN8YBz5MOBGQn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

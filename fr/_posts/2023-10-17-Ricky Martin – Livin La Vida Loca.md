@@ -15,7 +15,7 @@ title: Ricky Martin – Livin' La Vida Loca
 
 Cet EP de 2 disques comprend un remix du célèbre succès mondial de Ricky Martin, Livin' La Vida Loca, sorti en 1999.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Livin' La Vida Loca (Pablo Flores English Club Mix)
 
@@ -34,7 +34,8 @@ D1. Livin' La Vida Loca (Scissorhands Push & Pull Spanglish House Mix)
 D2. Livin' La Vida Loca (Scissorhands Push & Pull Spanish House Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m66378364645?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m66378364645?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p47fEXGabaY?si=_POeMNCfRlqOk-vJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

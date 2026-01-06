@@ -21,7 +21,7 @@ En 1990, il devient DJ résident chez Sterns à Worthing. Il a également travai
 
 Au milieu des années 1990, il était promoteur et DJ résident chez Groove Kitchen et Wiggle. Il était également le DJ résident de Freaky Disco. De plus, il a animé une émission sur Energy 87.9 FM.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Believe In Yourself
 
@@ -30,7 +30,7 @@ B1. Love In
 B2. Roll In Life
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m15247506715?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m15247506715?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BvsTcXrN3uM?si=1YyEVW0mr14YoSXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

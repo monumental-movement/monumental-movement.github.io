@@ -19,14 +19,14 @@ Nylon Roadster est un morceau fluide, avec un breakbeat discret qui ne gêne pas
 
 Je peux l’imaginer parfaitement utilisé comme berceuse. C'est vraiment une super chanson.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 X. Nylon Roadster
 
 Y. Cosmic Glue
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m84434801659?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84434801659?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I-__29FDWnA?si=z_1b6MSIf5ltVj4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

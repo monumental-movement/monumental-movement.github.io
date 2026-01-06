@@ -17,14 +17,14 @@ Side A est un morceau de l'artiste britannique happy hardcore DJ Stompy. "Starli
 
 Side AA est un morceau de G-Netic et Vinylgroover & Trixxy (Scott Attril & Jim Sullivan). Les voix ont échantillonné Jam Master Jay de Run-DMC.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. DJ Stompy–Starlight
 
 AA. G-Netic –The New Odyssey
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m60668009425?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m60668009425?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4ZvNXuf3Z4U?si=6i5zZQ0mG3cWKavQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

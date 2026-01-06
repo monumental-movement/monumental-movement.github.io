@@ -37,6 +37,7 @@ color: #fff;
 
 
 
+
 ## Années 1970-1980 : Origines et premières innovations
 
 * **Producteur représentatif** : Egyptian Lover, premier Dr. Dre (période World Class Wreckin' Cru)
@@ -46,18 +47,19 @@ color: #fff;
 
 **Albums recommandés**
 
+
 | Albums | Artiste | Lien Amazon | Points recommandés |
 |--------------|-------------|-------------|----------------|
-| *La rime paie* (1987) | Glace‑T | [Amazon](https://amzn.to/46NqVaQ) | Une œuvre importante qui a posé les bases du gangsta rap |
-| *Tout droit sorti de Compton* (1988) | N.W.A | [Amazon](https://amzn.to/4neTnsc) | Une œuvre controversée qui a ébranlé la société. Icône de la côte ouest |
-| *Sur le Nil* (1984) | L'amant égyptien | [Amazon](https://amzn.to/3VsfDCE) | Une fusion exceptionnelle d'électro et de rap |
+| *Rhyme Pays* (1987) | Ice‑T | [Amazon](https://amzn.to/46NqVaQ) | ギャングスタ・ラップの基礎を築いた重要作 |
+| *Straight Outta Compton* (1988) | N.W.A | [Amazon](https://amzn.to/4neTnsc) | 社会を揺るがした問題作。西海岸の象徴 |
+| *On the Nile* (1984) | The Egyptian Lover | [Amazon](https://amzn.to/3VsfDCE) | エレクトロとラップの融合が際立つ一枚 |
 
 ---
 
 ## Années 1990 : L'âge d'or et l'apogée du G‑Funk
 
 * **Producteurs représentatifs** : Dr. Dre, DJ Quik, Battlecat
-* **Majors labels** : Death Row Records, Priority, Ruthless
+* **Principaux labels** : Death Row Records, Priority, Ruthless
 * **Contexte culturel** : G-Funk était étroitement associé à la culture lowrider et automobile, avec son échantillonnage funk des années 70 et ses basses synthétisées épaisses.
 * **Conflit Est-Ouest** : Le conflit entre la côte Est et la côte Ouest s'intensifie, conduisant à la tragédie de 2Pac et The Notorious B.I.G.
 * **Vidéo/Mode** : les MV présentant des lowriders, des plages et les rues de South Central deviennent populaires. Dickies, Chuck Taylor et les bandanas sont emblématiques.
@@ -66,9 +68,9 @@ color: #fff;
 
 | Albums | Artiste | Lien Amazon | Points recommandés |
 |--------------|-------------|-------------|----------------|
-| *La Chronique* (1992) | Dr Dre | [Amazon](https://amzn.to/42IAyVR) | Le monument qui a fondé G-Funk |
-| *Levrette* (1993) | Snoop Dogg | [Amazon](https://amzn.to/4naENSj) | Un chef-d'œuvre qui a fait connaître la côte ouest au monde grâce à sa fluidité |
-| *Tous les regards sur moi* (1996) | 2Pac | [Amazon](https://amzn.to/47T8DGd) | Un chef-d'œuvre d'un double album. Le chef-d'œuvre de 2Pac |
+| *The Chronic* (1992) | Dr. Dre | [Amazon](https://amzn.to/42IAyVR) | G-Funkを確立した金字塔 |
+| *Doggystyle* (1993) | Snoop Doggy Dogg | [Amazon](https://amzn.to/4naENSj) | スムースなフロウで西海岸を世界に広めた傑作 |
+| *All Eyez on Me* (1996) | 2Pac | [Amazon](https://amzn.to/47T8DGd) | ダブルアルバムの大作。2Pacの代表作 |
 
 
 ---
@@ -84,8 +86,8 @@ color: #fff;
 
 | Albums | Artiste | Lien Amazon | Points recommandés |
 |--------------|-------------|-------------|----------------|
-| *Madvillainy* (2004) | Méchant fou | [Amazon](https://amzn.to/3Kbp4ny) | Un chef-d'œuvre underground qui allie expérimentation et perfection |
-| *Le documentaire* (2005) | Le jeu | [Amazon](https://amzn.to/4guXSMq) | Un revival qui ressemble à un successeur du Dr. Dre |
+| *Madvillainy* (2004) | Madvillain | [Amazon](https://amzn.to/3Kbp4ny) | 実験性と完成度を兼ね備えた地下名盤 |
+| *The Documentary* (2005) | The Game | [Amazon](https://amzn.to/4guXSMq) | Dr. Dreの後継を感じさせる復権作 |
 
 
 ---
@@ -101,29 +103,30 @@ color: #fff;
 
 | Albums | Artiste | Lien Amazon | Points recommandés |
 |--------------|-------------|-------------|----------------|
-| *bon enfant, m.A.A.d city* (2012) | Kendrick Lamar | [Amazon](https://amzn.to/4pp320C) | Structure et récit comme une épopée cinématographique |
-| *Pour pimper un papillon* (2015) | Kendrick Lamar | [Amazon](https://amzn.to/42IAWDN) | Fusion de jazz/funk et critique sociale |
+| *good kid, m.A.A.d city* (2012) | Kendrick Lamar | [Amazon](https://amzn.to/4pp320C) | 映画的叙事詩のような構成と物語性 |
+| *To Pimp a Butterfly* (2015) | Kendrick Lamar | [Amazon](https://amzn.to/42IAWDN) | ジャズ／ファンクと社会批評の融合 |
 
 
 ---
 
 ## Liste de films
 
+
 | Titre du film | Année | Lien Amazon |
 |--------------|----|--------------|
 | *Boyz n the Hood* | 1991 | [Amazon](https://amzn.to/3Ke8a7J) |
-| *Société Menace II* | 1993 | [Amazon](https://amzn.to/46dujM2) |
-| *Au-dessus du bord* | 1994 | [Amazon](https://amzn.to/3W3RmCU) |
-| *Tout droit sorti de Compton* | 2015 | [Amazon](https://amzn.to/4pu6DuB) |
-| *Tous les yeux sont tournés vers moi* | 2017 | [Amazon](https://amzn.to/4gCSMxU) |
+| *Menace II Society* | 1993 | [Amazon](https://amzn.to/46dujM2) |
+| *Above the Rim* | 1994 | [Amazon](https://amzn.to/3W3RmCU) |
+| *Straight Outta Compton* | 2015 | [Amazon](https://amzn.to/4pu6DuB) |
+| *All Eyez on Me* | 2017 | [Amazon](https://amzn.to/4gCSMxU) |
 
 ---
 
 ## Références/lectures complémentaires
 
-* [Jeff Chang « Can't Stop Won't Stop : Une histoire de la génération hip-hop »](https://amzn.to/4gCxTmv)
-* [Eithne Quinn « Nuthin' but a « G » Thang : La culture et le commerce du Gangsta Rap »](https://amzn.to/4pxcP4X)
-* [Cheryl Keyes « Musique rap et conscience de la rue »](https://amzn.to/3IuNrMj)
+* [Jeff Chang『Can’t Stop Won’t Stop: A History of the Hip‑Hop Generation』](https://amzn.to/4gCxTmv)
+* [Eithne Quinn『Nuthin’ but a “G” Thang: The Culture and Commerce of Gangsta Rap』](https://amzn.to/4pxcP4X)
+* [Cheryl Keyes『Rap Music and Street Consciousness』](https://amzn.to/3IuNrMj)
 * Articles d'archives « The Source » « XXL » « OG Magazine » (sélectionnés)
 
 ---
@@ -134,22 +137,22 @@ color: #fff;
 
 | Albums | Lien Amazon |
 |--------------|--------------|
-| *Tout droit sorti de Compton* (1988) | [Amazon](https://amzn.to/4neTnsc) |
+| *Straight Outta Compton* (1988) | [Amazon](https://amzn.to/4neTnsc) |
 | *Efil4zaggin* (1991) | [Amazon](https://amzn.to/48qgXgM) |
 
-### Dr. Dre
+### Dr Dre
 
 | Albums | Lien Amazon |
 |--------------|--------------|
-| *La Chronique* (1992) | [Amazon](https://amzn.to/42IAyVR) |
+| *The Chronic* (1992) | [Amazon](https://amzn.to/42IAyVR) |
 | *2001* (1999) | [Amazon](https://amzn.to/46xisHJ) |
 
 ### 2Pac
 
 | Albums | Lien Amazon |
 |--------------|--------------|
-| *Moi contre le monde* (1995) | [Amazon](https://amzn.to/46rHIPl) |
-| *Tous les regards sur moi* (1996) | [Amazon](https://amzn.to/47T8DGd) |
+| *Me Against the World* (1995) | [Amazon](https://amzn.to/46rHIPl) |
+| *All Eyez on Me* (1996) | [Amazon](https://amzn.to/47T8DGd) |
 
 ---
 
@@ -172,7 +175,7 @@ flowchart TD
 
 ## résumé
 
-Le hip-hop de la côte ouest est né de la culture de rue de Los Angeles à la fin des années 1970 et, grâce à la montée du gangsta rap et du G-Funk dans les années 1980 et 1990, il est devenu une tendance musicale mondiale.  
+Le hip-hop de la côte ouest est né de la culture de rue de Los Angeles à la fin des années 1970 et, grâce à la montée du gangsta rap et du G-Funk dans les années 1980 et 1990, il est devenu une tendance musicale mondiale.
 Des vidéoclips à petit budget, des styles de mode uniques et des liens avec la culture lowrider ont créé une expression authentique de la côte ouest.
 
 Depuis les années 2000, la diversité s’est élargie avec le succès de groupes underground indépendants comme Madlib et The Game. En outre, Kendrick Lamar et d'autres artistes d'influence mondiale qui utilisent pleinement les réseaux sociaux et Internet sont apparus, et leurs chansons et expressions visuelles contenant des messages conscients forment une nouvelle tendance dans le hip-hop de la côte ouest.
@@ -184,6 +187,6 @@ Plus qu'un simple genre musical, le hip-hop de la région continue d'influencer 
 
 ### Colonnes associées
 
-🔗 [[Chronique] Aperçu du hip hop de la côte Est — Du Bronx à Brooklyn et au monde"](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)
+🔗 [【コラム】 東海岸ヒップホップ概史 — ブロンクスからブルックリン、そして世界へ"](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)
 
-🔗 [[Chronique] Histoire du hip hop américain : image globale incluant les régions, les clubs, les médias et les équipements](https://monumental-movement.jp/Column-Hiphop-History)
+🔗 [【コラム】 US HipHop（アメリカヒップホップ）の歴史：地域・クラブ・メディア・機材を含めた全体像](https://monumental-movement.jp/Column-Hiphop-History)

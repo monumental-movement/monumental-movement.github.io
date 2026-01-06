@@ -24,12 +24,14 @@ title: '[Chronique] La techno allemande et la pandémie dans les années 2020 :
 
 ## Pandémie : Une véritable histoire de tout, du confinement à la réouverture en passant par la redéfinition de la musique
 
+
 Texte : mmr | Thème : Comment la techno allemande a changé dans les années 2020, ce qui a été perdu et ce qui a été gagné
 
-La techno allemande des années 2020 a connu un changement sismique dramatique centré sur la **pandémie de COVID-19 (2020-2022)**.  
+
+La techno allemande des années 2020 a connu un changement sismique dramatique centré sur la **pandémie de COVID-19 (2020-2022)**.
 Les clubs ont été complètement fermés par le gouvernement et l’ensemble de la scène a été fondamentalement ébranlé, y compris le tourisme, l’économie, la culture, la production musicale et les valeurs sociales.
 
-L'Allemagne est l'un des pays au monde où « l'institutionnalisation de la culture des clubs » est la plus avancée, et les clubs sont traités politiquement comme des équipements culturels et sont même à l'ordre du jour de la politique urbaine.  
+L'Allemagne est l'un des pays au monde où « l'institutionnalisation de la culture des clubs » est la plus avancée, et les clubs sont traités politiquement comme des équipements culturels et sont même à l'ordre du jour de la politique urbaine.
 Par conséquent, les changements survenus dans les années 2020 ne concernent pas seulement les genres musicaux, mais sont également largement enregistrés dans les recherches sur la politique culturelle, l’urbanisme, l’économie du tourisme et la sous-culture de la société allemande.
 
 ---
@@ -47,6 +49,7 @@ color: #fff;
 }
 </style>
 
+
 # Chapitre 1 : La veille de la pandémie (~mars 2020)
 ## ● Berlin s'est imposée comme la « capitale technologique » mondiale
 Avant mars 2020, Berlin se distinguait des autres villes du monde.
@@ -56,7 +59,7 @@ Avant mars 2020, Berlin se distinguait des autres villes du monde.
 - Les touristes sont concentrés non seulement en provenance de l'UE, mais aussi d'Amérique du Sud et d'Asie.
 - Selon les statistiques du tourisme, les clubs étaient considérés comme une zone ayant des retombées économiques extrêmement importantes.
 
-Durant cette période, les clubs berlinois étaient au cœur de l'image de marque de la ville, et il convient également de noter que la ville a officiellement annoncé une politique de soutien aux clubs.  
+Durant cette période, les clubs berlinois étaient au cœur de l'image de marque de la ville, et il convient également de noter que la ville a officiellement annoncé une politique de soutien aux clubs.
 En termes de politique culturelle, les clubs sont quelque peu protégés par le budget de soutien culturel de la ville, car ils s'apparentent aux théâtres et aux galeries.
 
 ## ● Musicalement, il y avait des signes d'accélération.
@@ -67,7 +70,7 @@ En 2018-2019, les tendances suivantes se dessinaient déjà :
 - Réévaluation d'EBM/Rave/Trance
 - Plus de citations de transe dure
 
-Mais—
+mais-
 **Ce n'était pas aussi important que « l'augmentation explosive de la vitesse » qui se produira après 2022. **
 
 Ce « signe d’accélération » a été brusquement interrompu par la pandémie.
@@ -79,11 +82,11 @@ Ce « signe d’accélération » a été brusquement interrompu par la pandémi
 En mars 2020, le gouvernement allemand a annoncé ce qui suit comme mesure de contrôle des infections :
 **Fermeture complète annoncée des clubs, bars et installations de loisirs**.
 
-Il s'agissait d'une action en justice et tous les clubs ont été immédiatement fermés.  
+Il s'agissait d'une action en justice et tous les clubs ont été immédiatement fermés.
 Rien qu'à Berlin, plus de 300 clubs sont restés silencieux.
 Pour la première fois de son histoire, la ville techno de renommée mondiale a connu un « arrêt complet ».
 
-### Impact :
+### Impact:
 - Tous les clubs fermés (mars 2020 à début 2021)
 - Tous fermés incluant Berghain et Trésor
 - Les revenus du tourisme des clubs sont réduits à zéro
@@ -94,7 +97,7 @@ Les statistiques et les médias confirment que des dizaines de milliers de trava
 
 ---
 
-# Chapitre 3 : L’ère du ligne et « United We Stream » (2020-2021)
+# Chapitre 3 : L'ère du ligne et « United We Stream » (2020-2021)
 La pandémie a poussé la culture des clubs en ligne.
 
 ## ● Lancement de « United We Stream »
@@ -119,13 +122,13 @@ Les DJ sets se sont orientés vers les tendances suivantes :
 - Plus de musique IDM/expérimentale
 - Sélection de chansons en tenant compte de l'attrait visuel
 
-Les premiers jours de la pandémie ont également été une époque où la musique s'est transformée en quelque chose de plus « quelque chose que l'on écoute à la maison » et « quelque chose que l'on vit à travers un écran ».
+Les premiers jours de la pandémie ont également été une époque où la musique est devenue quelque chose de « quelque chose que l’on écoute à la maison » et de « quelque chose que l’on vit à travers un écran ».
 
 ---
 
 # Chapitre 4 : L'« acoustique » de la techno va changer (2020-2021)
 ## ● 1) Augmentation de la techno introspective et expérimentale
-Puisqu'il n'y a plus de place pour les DJ, la demande de « musique qui fait danser les gens » a disparu pour les artistes.  
+Puisqu'il n'y a plus de place pour les DJ, la demande de « musique qui fait danser les gens » a disparu pour les artistes.
 Par conséquent, la production des EP/albums se déroulera dans la direction suivante :
 
 - Techno ambiante
@@ -134,7 +137,7 @@ Par conséquent, la production des EP/albums se déroulera dans la direction sui
 - Drone de bruit
 - Breakbeats/Électro
 
-En fait, les œuvres sorties en 2020-2021 sont plus destinées à l’écoute qu’aux sommets des clubs.
+En fait, les œuvres sorties en 2020-2021 sont davantage destinées à l’écoute qu’aux sommets des clubs.
 
 ## ● 2) La techno à grande vitesse se développe grâce aux réseaux sociaux
 Un renversement intéressant s’est également produit.
@@ -147,7 +150,7 @@ La raison est la suivante :
 - Il est plus facile de créer une « excitation flashy » lors d'une diffusion sans public.
 - Les jeunes utilisent TikTok pour simuler la culture des clubs
 
-En d'autres termes,
+Autrement dit,
 « Les clubs physiques sont fermés, mais la techno à haut débit se répand sur internet »
 Cet étrange phénomène a progressé en 2020-2021.
 
@@ -157,9 +160,9 @@ Cet étrange phénomène a progressé en 2020-2021.
 ## ● Les clubs seront légalement reclassés en « équipements culturels » (2021)
 En 2021, le Bundestag allemand a pris une décision historique.
 
-**Protection juridique des clubs en tant qu'« institutions culturelles » (Kultureinrichtung)**
+**Protéger légalement les clubs en tant qu'« institutions culturelles »**
 
-Il s’agit en fait d’un tournant majeur.  
+Il s’agit en fait d’un tournant majeur.
 Jusqu’alors, les clubs étaient considérés comme une industrie de la vie nocturne.
 En termes d'urbanisme, cela a été traité comme une « existence qui cause des problèmes de bruit ».
 
@@ -174,7 +177,7 @@ En raison de la crise pandémique,
 Le club était institutionnellement reconnu comme un « bien culturel ».
 
 ## ● Fermeture du Berghain et « transformation en galerie »
-Pendant sa fermeture à long terme, Berghain a ouvert son intérieur au public sous la forme d'une galerie, le « Studio Berlin ».  
+Pendant sa fermeture à long terme, Berghain a ouvert son intérieur au public sous la forme d'une galerie, le « Studio Berlin ».
 Il a attiré l'attention en tant qu'exemple d'un club techno traité comme un musée.
 
 ## ● Les magasins historiques tels que Tresor sont également durement touchés.
@@ -185,7 +188,7 @@ Nous avons essayé de le maintenir grâce au soutien du gouvernement, aux dons e
 
 # Chapitre 6 : Reprise en 2022 – Explosion de la techno high-speed
 ## ● Après le redémarrage, le BPM a soudainement augmenté
-Les clubs rouvriront dans toute l’Allemagne en 2022.  
+Les clubs rouvriront dans toute l’Allemagne en 2022.
 A partir de là, la musique change radicalement.
 
 ### Fonctionnalités après redémarrage :
@@ -199,7 +202,7 @@ L’esthétique de la techno à grande vitesse qui a émergé sur les réseaux s
 C'est comme si le son du club avait été écrasé.
 
 ## ● Les visites de jeunes vont augmenter de manière explosive
-En 2022-2023, le nombre de jeunes touristes, notamment en provenance de l’UE, a augmenté.  
+En 2022-2023, le nombre de jeunes touristes, notamment en provenance de l’UE, a augmenté.
 Les raisons en seraient le « sentiment de liberté » après la pandémie et la visualisation de la culture du club à travers les médias sociaux.
 
 Événements du week-end à Berlin
@@ -229,14 +232,14 @@ Berlin a révélé la fragilité de sa structure urbaine, devenue trop dépendan
 Depuis, la ville a commencé à renforcer les mesures culturelles en faveur des résidents locaux.
 
 ## ● 3) La numérisation et l'archivage progressent
-À la suite de la pandémie, les documents historiques, vidéos et sources audio du club ont été mis à disposition en ligne.  
+À la suite de la pandémie, les documents historiques, vidéos et sources audio du club ont été mis à disposition en ligne.
 À partir de 2023, les projets d’archives seront soutenus dans le cadre de la politique culturelle.
 
 ---
 
 # Chapitre 8 : Evolutions des technologies de production et de création sonore
 ## ● 1) La production domestique devient la norme
-Pendant la période de confinement, les artistes ont eu plus de temps pour créer.  
+Pendant la période de confinement, les artistes ont eu plus de temps pour créer.
 le résultat :
 
 - Accélération de la production basée sur DAW
@@ -258,7 +261,7 @@ Avant et après la pandémie, la production sonore a évolué comme suit :
 - Distorsion étendue à la gamme ultra-haute
 - Travail d'accords de transe des années 90
 
-En d'autres termes,
+Autrement dit,
 Le cycle **silence → explosion** s'est produit en quelques années seulement.
 
 ---
@@ -278,8 +281,8 @@ timeline
 ---
 
 # Chapitre 10 : Prévisions futures après 2025
-## ● 1) Les augmentations de vitesse continueront-elles ?  
-À partir de 2024, 150-170 BPM seront la norme.  
+## ● 1) Les augmentations de vitesse continueront-elles ?
+À partir de 2024, 150-170 BPM seront la norme.
 On ne sait pas si cela va continuer, mais cela pourrait continuer en raison des facteurs suivants :
 
 - La présentation visuelle sur SNS se marie bien avec la musique à grande vitesse
@@ -287,11 +290,11 @@ On ne sait pas si cela va continuer, mais cela pourrait continuer en raison des 
 - Le marché international de la hard techno est en expansion
 
 ## ● 2) Le club sera protégé en tant que ressource culturelle de la ville.
-Puisque l’Allemagne a déjà institutionnalisé les clubs en tant qu’« équipements culturels »,
+L’Allemagne a déjà institutionnalisé les clubs en tant qu’« équipements culturels ».
 Il est prévu que les politiques de protection deviendront plus avancées à partir de 2025.
 
 ## ● 3) Montée des villes régionales
-Les scènes de jeunes joueurs prospèrent après la pandémie dans des villes comme Leipzig, Dresde et Hambourg.  
+Les scènes de jeunes joueurs prospèrent après la pandémie dans des villes comme Leipzig, Dresde et Hambourg.
 Dans la seconde moitié des années 2020, il est fort probable que la concentration de l’électricité à Berlin diminue.
 
 ---
@@ -305,7 +308,7 @@ La techno allemande des années 2020 était complètement différente avant et a
 - **Berlin redevient une ville rave internationale**
 
 La pandémie a apporté des destructions, mais elle a également provoqué une « redéfinition de la culture ».
-La techno allemande de la fin des années 2020 est une culture plus diversifiée, internationale et plus rapide qu’avant.
+La techno allemande de la fin des années 2020 est devenue une culture plus diversifiée, internationale et au rythme plus rapide qu’auparavant.
 
 Ce changement sera probablement enregistré comme « les années 2020 = ère de discontinuité » dans l’histoire future de la musique électronique.
 

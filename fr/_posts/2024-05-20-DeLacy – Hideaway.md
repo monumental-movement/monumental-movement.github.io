@@ -18,7 +18,7 @@ De'Lacy est un groupe de house music américain des années 1990. Les membres so
 
 Le remix de la face A est réalisé par l'artiste irano-américain Ali Shirazinia, également connu sous le nom de Dubfire, et le duo électro de Sharam, Deep Dish.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Hideaway (Deep Dish Remix)
 A2. Hideaway (Dubfire Needs To Score)
@@ -26,7 +26,7 @@ A2. Hideaway (Dubfire Needs To Score)
 B. Hideaway (K-Klass Klub Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m25926367218?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m25926367218?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0MqomY1qL2Q?si=6EAGNtpqdyO64ldn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -18,12 +18,12 @@ title: V – Sous-Machine L’Inouï
 Il s'agit d'un disque de 7 pouces sorti par le label britannique "Gift Records" en 1995.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Sub-Machine
 
 B. The Unheard
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m46434330656?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46434330656?afid=6142608987){: .button1}
 

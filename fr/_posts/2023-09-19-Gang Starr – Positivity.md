@@ -20,7 +20,7 @@ Cette chanson vise à transmettre un message positif et une énergie positive.
 
 La combinaison du style de rap unique de Guru et des rythmes distinctifs de Premier lui a valu d'être reconnu comme l'un des chefs-d'œuvre de Gang Starr et un classique du hip-hop.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1  Positivity (Whole World Mix)
 
@@ -31,7 +31,7 @@ B1  Gotch U (Hunter Mix)
 B2  No More Mr. Nice Guy (Fed Up Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m87981443033?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m87981443033?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hWVROzKUETA?si=PrvYk6th-R7Nup7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -20,7 +20,7 @@ Denzil & Dwayn est un projet de Maykel Piron, producteur de transe néerlandais 
 
 Side A est un remix de l'artiste de transe néerlandais Vincent de Moor. Vincent de Moor est également actif en tant qu'unité appelée « Veracocha » avec le producteur de musique Ferry Corsten.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Force Of Habit (Vincent De Moor Remix)
 
@@ -28,7 +28,7 @@ B1. Force Of Habit (Cosmic Clayderman Remix)
 B2. Force Of Habit (Original Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m14093137625?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m14093137625?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7TmC2m7m2CY?si=CTH8UpEEZPX3SorF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

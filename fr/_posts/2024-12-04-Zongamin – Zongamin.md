@@ -19,7 +19,7 @@ Mukai Susumu Mukai, également connu sous le nom de Zongamin, est un musicien et
 
 "Zongamin" est le premier album sorti par XL Recordings en 2003.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Make Love Not War
 2. Serious Trouble
@@ -35,7 +35,8 @@ Mukai Susumu Mukai, également connu sous le nom de Zongamin, est un musicien et
 12. Mummies
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m75936834984?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m75936834984?afid=6142608987){: .button1}
 
 
 #### Youtube

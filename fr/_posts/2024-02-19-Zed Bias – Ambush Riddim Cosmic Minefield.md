@@ -18,14 +18,14 @@ Zed Bias, également connu sous le nom de Dave Jones, est un musicien électroni
 
 Il travaille également sous le pseudonyme de Maddslinky et est membre de Phuturistix.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Ambush Riddim
 
 B. Cosmic Minefield
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m24563380376?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m24563380376?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YIDIKaYJzQQ?si=OVLz4gBdZFxRPVMz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

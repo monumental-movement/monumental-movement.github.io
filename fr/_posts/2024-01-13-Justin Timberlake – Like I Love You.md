@@ -23,7 +23,7 @@ En 2006, sort son deuxième album solo "Futuresex/Lovesounds".
 
 En 2013, il reprend sa carrière musicale avec l'album « The 20/20 Experience » et est sélectionné pour la deuxième fois comme l'une des « 100 personnes les plus influentes au monde » du magazine Time.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Like I Love You (Album Version)
 
@@ -34,7 +34,7 @@ B1. Like I Love You (Extended Club Mix I)
 B2. Like I Love You (Extended Club Mix II)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m72848446961?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72848446961?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8NUj0B1IoiM?si=m25YnUvOMt-ZEi7N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

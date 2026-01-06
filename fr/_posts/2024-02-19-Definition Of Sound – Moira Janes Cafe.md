@@ -18,7 +18,7 @@ Definition Of Sound est un groupe de musique dance basé à Londres formé par D
 
 Leur quatrième single, « Moira Jane's Café », sorti en 1992, était un morceau house qui est devenu un succès non seulement au Royaume-Uni mais dans le monde entier.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1.Moira Jane's Café (Live Version)
 
@@ -33,7 +33,7 @@ B2.Moira Jane's Café (Maurice's House Mix)
 B3.Moira Jane's Café (Aw Shucks Dub)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m85621168968?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m85621168968?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8UzQQQIdAfM?si=NtJ41PyQxEADm4xJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

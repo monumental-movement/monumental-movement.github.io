@@ -20,7 +20,7 @@ Sorti en 1983, Modern Romans était le deuxième album de The Call et montrait l
 « Modern Romans » a reçu les éloges des critiques et le soutien enthousiaste de certains fans. Bien que l'album n'ait pas été un succès commercial à sa sortie, il a ensuite développé un culte.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. The Walls Came Down
 
@@ -41,7 +41,7 @@ B3. Face To Face
 B4. All About You
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m79709500241?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m79709500241?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uPosJRGpsLU?si=cbzuwTwEhwMuXIDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

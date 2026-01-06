@@ -27,14 +27,14 @@ Ce remix de Sasha en particulier est célèbre pour ses éléments de musique é
 
 Les chansons d'UNKLE sont soutenues par un large éventail de fans de musique et constituent l'un des groupes les plus populaires, en particulier parmi les amateurs de musique électronique.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. In A State (Sasha Remix)
 
 B. In A State (Album Version)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m76870494810?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m76870494810?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_aZ7MLvaO2U?si=c90K8CISqlZW6PXr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

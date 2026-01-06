@@ -48,6 +48,7 @@ color: #fff;
 }
 </style>
 
+
 # Chapitre 1 : Jeune MC de Brooklyn – Le point de départ d'El-P (1990-1993)
 
 Le personnage principal de Company Flow, **El-P (El Producto)**, est originaire de Brooklyn, New York.
@@ -79,7 +80,7 @@ En 1995, Company Flow était le premier single de 12 pouces du label.
 **"Techniques juvéniles"** sorti.
 
 Ce single est devenu un sujet brûlant parmi les auditeurs underground de New York à l'époque.
-Ce fut l'occasion pour leur nom de se répandre rapidement.
+Ce fut l’occasion pour leur nom de se répandre rapidement.
 
 ---
 
@@ -94,7 +95,7 @@ C'était distinctif en termes de son, de politique et d'expérimentation.
 
 ## Caractéristiques de l'EP « Funcrusher »
 
-### ● 1. Industrial × Boom-Bap
+### ● 1. Industriel × Boom-Bap
 
 Les battements construits par El-P ont la texture suivante.
 
@@ -107,7 +108,7 @@ Les battements construits par El-P ont la texture suivante.
 
 Le rap de Bigg Jus et El-P était plus idéologique et politique que la musique de rue.
 
-Les éléments suivants sont particulièrement remarquables.
+Les éléments suivants sont particulièrement visibles.
 
 * Critique de l'industrie musicale corporatisée
 * Doutes sur la société de manipulation de l'information et de surveillance
@@ -294,14 +295,14 @@ Il connaît un succès mondial et conduit à une réévaluation de la période C
 
 ---
 
-## ● Bigg Jus
+## ● Gros jus
 
 Continue à produire des œuvres solo à hautes caractéristiques politiques et artistiques.
 Il s'implique également dans des projets d'art visuel et communautaires.
 
 ---
 
-## ● Mr. Len
+## ● M. Len
 
 Actif en tant que DJ/producteur.
 Beaucoup mélangent œuvres et collaborations.
@@ -364,7 +365,7 @@ Cela a montré que même les œuvres indépendantes peuvent créer des normes cu
 ## ● 2. Mise en place de « l'underground comme idée »
 
 Ce n'est pas seulement une production à petit budget,
-Il incarnait l’underground comme une « pensée indépendante du commercialisme ».
+Il incarnait l’underground en tant que « pensée indépendante du commercialisme ».
 
 ---
 

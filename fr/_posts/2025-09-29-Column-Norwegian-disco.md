@@ -35,6 +35,7 @@ color: #fff;
 }
 </style>
 
+
 ## Aperçu : air scandinave et discothèque « température »
 
 La discothèque créée par les producteurs norvégiens est bien plus qu'une simple lecture rétro. La mélancolie produite par le climat froid et la fusion chaleur synthé/percussion, ce contraste est la saveur de la « disco nordique ». Prins Thomas et Lindstrøm se sont influencés mutuellement, élargissant le vocabulaire du « space disco » grâce à la co-écriture et au remixage. Mungolian Jet Set, d'autre part, intègre également des éléments extérieurs à la Norvège (y compris l'introduction d'échantillons de musique d'Asie et du Moyen-Orient) dans ses mix DJ et sa curation musicale extraordinaire.
@@ -124,6 +125,7 @@ Randy Barracuda (actif sur la scène finlandaise Skweee) et des chanteurs/musici
 
 Les albums et mix de Mungolian Jet Set présentent également des chanteurs et instrumentistes invités.
 
+
 #### Caractéristiques sonores
 
 Cross-genre : Un mélange d'éléments disco, cosmiques, house, jazz, afro et même rock et prog.
@@ -140,13 +142,13 @@ En résumé, Mungolian Jet Set est une fusion de la sensibilité du DJ de Strang
 
 | Année | Albums | Artiste | Lien |
 | --- : | -------------------------------- | ----------------- | ---------------------------------- |
-| 2006 | C'est une affaire de Feedelity | Lindstrøm | [Amazon](https://amzn.to/4mApIIz) |
-| 2006 | Schlungs | Jet Set Mongolienne | [Amazon](https://amzn.to/4nq9YJB) |
-| 2008 | Où tu vas, je vais aussi | Lindstrøm | [Rakuten](https://a.r10.to/h5LRGZ) |
-| 2009 | Nous avons tout donné... et maintenant nous le reprenons | Jet Set Mongolienne | [Amazon](https://amzn.to/4pKpxND) |
-| 2010 | PRINS THOMAS | Prins Thomas | [Amazon](https://amzn.to/4gKEeMJ) |
-| 2012 | II | Prins Thomas | [Amazon](https://amzn.to/42i2zDH) |
-| 2017 | Tout va bien entre nous tel quel | Lindstrøm | [Amazon](https://amzn.to/42e521T) |
+| 2006 | It's A Feedelity Affair          | Lindstrøm         | [Amazon](https://amzn.to/4mApIIz)  |
+| 2006 | Schlungs                | Mungolian Jet Set | [Amazon](https://amzn.to/4nq9YJB)    | 
+| 2008 | Where You Go I Go Too            | Lindstrøm         | [Rakuten](https://a.r10.to/h5LRGZ)          |
+| 2009 | We Gave It All Away... And Now We Are Taking It Back | Mungolian Jet Set | [Amazon](https://amzn.to/4pKpxND) |
+| 2010 | PRINS THOMAS                         | Prins Thomas      | [Amazon](https://amzn.to/4gKEeMJ) |
+| 2012 | II                               | Prins Thomas      | [Amazon](https://amzn.to/42i2zDH) |
+| 2017 | It's Alright Between Us As It Is | Lindstrøm         | [Amazon](https://amzn.to/42e521T) |
 
 ---
 
@@ -158,7 +160,7 @@ Un film documentaire racontant l'histoire et le développement de la scène musi
 
 ---
 
-### Analyse : Pourquoi la discothèque norvégienne est acclamée à l'échelle internationale
+### Analyse : Pourquoi la discothèque norvégienne est-elle acclamée à l'échelle internationale
 
 1. **Esthétique de la texture** : La coexistence des manières scandinaves de créer un « espace » (réverbération et espace) avec une sensation analogique chaleureuse.
 2. **Culture du long track** : Un style qui met l'accent sur le « voyage » à travers les albums plutôt que les clubs.
@@ -169,5 +171,5 @@ Un film documentaire racontant l'histoire et le développement de la scène musi
 
 ### dernièrement
 
-Prins Thomas, Lindstrøm et Mungolian Jet Set continuent d'envoyer de la « disco à température » depuis la Norvège vers le monde. Compte tenu de leur parcours musical et de leur travail de production, leurs morceaux vont au-delà de la simple musique dance et offrent une expérience d'écoute teintée d'une idée scandinave du temps et du paysage.
+Prins Thomas, Lindstrøm et Mungolian Jet Set continuent d'envoyer de la « disco à température » depuis la Norvège vers le monde. Compte tenu de leur parcours musical et de leur travail de production, leurs morceaux vont au-delà de la simple musique de danse et offrent une expérience d'écoute teintée d'une idée scandinave du temps et du paysage.
 

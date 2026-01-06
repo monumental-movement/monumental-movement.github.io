@@ -19,7 +19,7 @@ Sponge est un groupe de rock américain formé à Détroit, dans le Michigan, en
 
 "Rotting Piñata", sorti en 1995, est le premier album studio et chef-d'œuvre de Sponge. Il comprend les chansons à succès "Plowed" et "Molly".
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Pennywheels
 2. Rotting Piñata
@@ -36,7 +36,7 @@ Sponge est un groupe de rock américain formé à Détroit, dans le Michigan, en
 12. Untitled
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m51908375347?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m51908375347?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TVUX4uteV2I?si=CwW4kcl2TsmUy9uA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

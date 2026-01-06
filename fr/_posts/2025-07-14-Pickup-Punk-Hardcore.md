@@ -22,7 +22,7 @@ title: Choisissez des œuvres punk/hardcore
 
 Un EP de reprise d'un groupe punk britannique. Initialement publié en 1990, réédité en 1996
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Rods & Mockers
 A2. Do Nothing
@@ -38,7 +38,8 @@ B5. Bran Flakes
 B6. In Sickness & In Health
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m21120251672?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m21120251672?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -49,9 +50,10 @@ B6. In Sickness & In Health
 ### The Gang - Barricada Rumble Beat
 <a href="https://jp.mercari.com/item/m64968588416?afid=6142608987"><img src="../assets/images/The%20Gang%20%E2%80%93%20Barricada%20Rumble%20Beat.webp"></a>
 
+
 Une œuvre d'un groupe punk italien. Une pièce rare à laquelle Billy Bragg du Royaume-Uni a participé en partie.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Goin’ To The Crossroads
 A2. Blue Message
@@ -68,18 +70,18 @@ B5. Bad News From Swing Street
 B6. Not For Sale
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m64968588416?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64968588416?afid=6142608987){: .button1}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uIEjRm21s9c?si=CZzwJ3KN13rGYC09" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
-### Rytmihairiov/Amen – The End Of Evolution... Is Round The Corner　
+### Rytmihairiov/Amen – La fin de l’évolution… approche à grands pas
 <a href="https://jp.mercari.com/item/m23657412972?afid=6142608987"><img src="../assets/images/RytmihairiovAmen%20%E2%80%93%20The%20End%20Of%20Evolution...%20...Is%20Round%20The%20Corner.webp"></a>
 
 Groupe de hardcore/thrash finlandais
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. They
 A2. How Much Longer
@@ -106,7 +108,7 @@ B11. Spice-Song
 
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m23657412972?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23657412972?afid=6142608987){: .button1}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QPqPvrnNB1c?si=BhCSsU2LP2Tnrs6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -119,26 +121,26 @@ CD de 1980 du groupe punk pionnier japonais Friction
 
 #### Liste des chansons
 ```md
-1.A-Gaz
-2. Hula automatique
-3.Je peux le dire
-4. 100 ans 100 ans
-5. Rêve fou
-6. Danse cycliste
-7. Cool imbécile
-8. Pas de sensations fortes
-9. Grand-S
-10.Sortie
-````
+1. A-Gas
+2. オートマチック・フラ 
+3. I Can Tell
+4. 100年 100 Nen
+5. Crazy Dream
+6. Cycle Dance
+7. Cool Fool
+8. No Thrill
+9. Big-S
+10. Out
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m28248906619?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m28248906619?afid=6142608987){: .button1}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CCiVZYQpJr0?si=axUznw0EJG8JEibJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
 
-### List
+### Liste
 
 <div class="table-border">
 <table>

@@ -26,14 +26,14 @@ A est un remix du DJ et producteur Chill-Out/Balearic Chris Coco (Chris Mellor).
 
 B est un remix du pianiste et DJ suédois Rasmus Faber.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Insatiable (Chris Coco Vocal Mix)
 
 B. Insatiable (Rasmus Fabers Brazilian Edit)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m39626122146?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m39626122146?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7bHzYS-yoAc?si=e6qdR1ikSXJDP59i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

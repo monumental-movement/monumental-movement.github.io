@@ -19,14 +19,14 @@ Le producteur est Ron Wells, connu sous le nom de Jack Smooth (J.Smooth), pionni
 
 « Lucid Journey / Static » est sorti en 1994 sur le label britannique de hard trance de Jack Smooth, Bedhopper Recordings.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Lucid Journey
 
 AA. Static
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m32990875012?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m32990875012?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GKK_5uhxEUQ?si=9_2iwHpYwL2fMIHH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

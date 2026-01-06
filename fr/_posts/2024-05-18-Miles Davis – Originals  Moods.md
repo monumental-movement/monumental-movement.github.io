@@ -20,7 +20,7 @@ F-1 et F-3 sont produits par Howard A. Roberts, connu pour son travail avec Howa
 
 "It's About That Time" de F-4 présente Dave Holland à la basse et Chick Corea et Joe Zawinul au piano.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 E-1. So What
 E-2. Water Babies
@@ -33,7 +33,7 @@ F-3. Fall
 F-4. It's About That Time
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m15443418452?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m15443418452?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zqNTltOGh5c?si=zK-dqJEoz3xqXOgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

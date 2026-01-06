@@ -21,7 +21,7 @@ Leur son est caractérisé par un mélange de divers éléments, notamment du be
 
 Ce disque est un morceau de break house abstrait sorti en 2005 par Rockwell Records, un spin-off du magasin néerlandais Rockwell. (édition promotionnelle)
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Untitled
 A2. Untitled
@@ -43,4 +43,4 @@ B7. Untitled
 B8. Untitled
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m14745864557?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m14745864557?afid=6142608987){: .button1}

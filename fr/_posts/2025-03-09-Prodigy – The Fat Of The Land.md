@@ -20,7 +20,7 @@ Cet album est le troisième album studio de Prodigy, sorti en 1997 sur le label 
 En 1999, il est entré dans le Livre Guinness des records comme l'album de danse le plus vendu au Royaume-Uni.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Smack My Bitch Up
 2. Breathe
@@ -34,7 +34,7 @@ En 1999, il est entré dans le Livre Guinness des records comme l'album de danse
 10. Fuel My Fire
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m90593140176?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m90593140176?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GP6F0y3eU0Q?si=YQqQxarVY4I3jtjF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

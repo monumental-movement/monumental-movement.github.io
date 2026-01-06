@@ -21,14 +21,14 @@ La face A est une réédition de "Tuxedo Rap" de People Under The Stairs, un duo
 La face B est une réédition du chef-d'œuvre « Garden Of Delights » sorti en 1977 par The Last Poets, un groupe de poètes et de musiciens né du mouvement afro-américain des droits civiques de la fin des années 1960.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. People Under The Stairs – Tuxedo Rap (Soul Sister Re-Edit
 
 B. The Last Poets – Garden Of Delights (Re-Edit)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m88500124894?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m88500124894?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EdCKKiU2E8Q?si=fZ26ZyJuLitOQ0e8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

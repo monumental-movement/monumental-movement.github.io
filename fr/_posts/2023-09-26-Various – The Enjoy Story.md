@@ -19,7 +19,7 @@ Faute de frappe sur la piste A2 : l'artiste est mal orthographié comme "Grandm
 
 Erreur de l'auteur-compositeur sur la piste B4 : le crédit est incorrectement écrit comme "Treacherous Three" au lieu de "Doug E. Fresh".
 
-Erreur d'artiste sur la piste B5 : l'artiste est répertorié à tort comme "Treacherous Three" au lieu de l'original "Treacherous Threefeaturing Spoonie Gee".
+Erreur d'artiste sur la piste B5 : l'artiste est incorrectement écrit comme "Treacherous Three" au lieu de l'original "Treacherous Threefeaturing Spoonie Gee".
 
 Description d'artiste incorrecte pour le morceau B6 : l'artiste est étiqueté comme "Funky Four & One" au lieu de l'original "Funky 4 + 1".
 
@@ -28,7 +28,7 @@ Les chansons suivantes sont également incluses en bonus, mais ne sont pas inclu
 Pistes B5 à B6
 Pistes D6 à D9
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1.The Packman–I'm The Packman
 A2.Grandmaster Flash & The Furious Five–Superappin
@@ -66,7 +66,7 @@ D8. Midnight Blue – Enjoy With Me
 D9. Higher Ground – Shake 'Em Up
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m75930589194?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m75930589194?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PIPDwUlbcNo?si=Wq-w3Cb25_mcZCUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

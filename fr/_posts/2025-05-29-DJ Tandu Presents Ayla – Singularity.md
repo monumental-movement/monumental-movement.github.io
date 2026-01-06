@@ -20,9 +20,9 @@ Ce disque est sorti en 2000 par le label allemand Unsubmissive Records.
 
 La deuxième chanson de la face A est un remix de Luiz O'Brian & Miss Thunderpussy.
 
-Le premier morceau de la face B est un remix du DJ et producteur allemand Pulsedriver, qui dirige Aqualoop Records et Feed My Beat Records.
+Le premier morceau de la face B est un remix du DJ et producteur allemand Pulsedriver, qui exploite Aqualoop Records et Feed My Beat Records.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Singularity / Brainchild II (Ayla Mix)
 A2. Singularity / Brainchild II (Miss Thunderpussy Remix)
@@ -31,7 +31,7 @@ B1. Singularity / Brainchild II (Pulsedriver Remix)
 B2. Outburst
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m49532731303?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m49532731303?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tA7DfREDSdU?si=n-wiUa41xw9-UQIK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

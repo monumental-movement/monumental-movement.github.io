@@ -21,14 +21,14 @@ Pianoheadz est une unité formée par les producteurs house américains Jose Nu�
 La deuxième chanson de la face A est un remix de Knuckleheadz, célèbre pour "House Rocca / Turn That Fucking Music Up" et "Raise Your Hands".
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. It's Over (Distortion) (It's Over Mix)
 A2. It's Over (Distortion) (Knuckleheadz Remix)
 B. It's Over (Distortion) (Raw Demo Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m95305362501?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95305362501?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l7rf3NTLSqQ?si=9rJKV1pD_resffgq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -15,7 +15,7 @@ title: Geodezik – Piège EP
 "Trap EP" est
 Il s'agit de l'EP de Geodezik, un projet de Takahiro Shimojo, sorti en 1999 sur le label "Beat Records".
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Eye-Link
 
@@ -26,5 +26,5 @@ B1. Night Dive
 B2. Outstepper
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m86478584214?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86478584214?afid=6142608987){: .button1}
 

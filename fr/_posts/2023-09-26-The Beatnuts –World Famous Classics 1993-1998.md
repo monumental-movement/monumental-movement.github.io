@@ -20,7 +20,7 @@ Les Beatnuts, composés des producteurs et rappeurs Psycho Les et JuJu, ont atti
 Cet album présente des chansons populaires et des morceaux influents des premières années des Beatnuts.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1.World's Famous
 
@@ -51,7 +51,7 @@ Cet album présente des chansons populaires et des morceaux influents des premi�
 14.Give Me Tha Ass
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m55154639972?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m55154639972?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CD-aPRFuHZQ?si=vpVqZ9N_nT3EQjP-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -24,13 +24,13 @@ title: Récupérez des œuvres ambiantes
 
 Genre : Techno ambiante
 
-Sortie : 2012 (label américain Kimochi)
+Sortie : 2012 (label américain Kimochi)
 
 Format : Limité à 200 albums (Vinyle)
 
 Caractéristiques : Œuvres combinant grooves profonds et paysages sonores spatiaux
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Blanx
 A2. Elect Burns
@@ -41,7 +41,8 @@ B1. Blanx (Accidental Freedom By Area)
 B2. Equalizer
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m64740020390?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m64740020390?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -53,7 +54,7 @@ B2. Equalizer
 
 
 
-### Spacetime Continuum – Emit Ecaps
+### Continuum espace-temps – Émettre des Ecaps
 <a href="https://jp.mercari.com/item/m12946322168?afid=6142608987"><img src="../assets/images/Spacetime%20Continuum%20%E2%80%93%20Emit%20Ecaps.webp"></a>
 
 Genre : Ambiant / IDM / Techno
@@ -64,7 +65,7 @@ Format : coffret de 2 LP
 
 Reportage : Le chef-d'œuvre d'ambiance underground des années 90 de Jonah Sharp
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Iform
 A2. Kario
@@ -81,7 +82,8 @@ D2. Pod
 D3. String Of Pearls
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m12946322168?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m12946322168?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -89,7 +91,7 @@ D3. String Of Pearls
 
 <hr>
 
-### Sanjiva – Secret Rooms Over Flowing Delight
+### Sanjiva – Des salles secrètes pour un délice fluide
 <a href="https://jp.mercari.com/item/m64537579861?afid=6142608987"><img src="../assets/images/Sanjiva%20%E2%80%93%20Secret%20Rooms%20Over%20Flowing%20Delight.webp"></a>
 
 Genre : Techno électronique ambiante
@@ -100,14 +102,15 @@ Format : 2 pistes 12″
 
 Caractéristiques : morceau de transe profonde de Charles Reix
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Secret Rooms
 
 B. Over Flowing Delight
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m64537579861?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m64537579861?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -115,7 +118,7 @@ B. Over Flowing Delight
 
 <hr>
 
-### Dub Tractor – Scary H H Loop / 104 Dub
+### Dub Tractor – Boucle effrayante HH / 104 Dub
 <a href="https://jp.mercari.com/item/m94070661611?afid=6142608987"><img src="../assets/images/Dub%20Tractor%20%E2%80%93%20Scary%20H%20H%20Loop.webp"></a>
 
 Genre : Ambient / Expérimental / Trip Hop
@@ -126,7 +129,7 @@ Format : 12″
 
 Caractéristiques : Musique trip-hop ambiante expérimentale du Danemark. Comprend le remix de Luke Vibert (Wagon Christ)
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Scary H H Loop
 A2. 104 Dub
@@ -141,7 +144,8 @@ B2. A C Tractor
 
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m94070661611?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m94070661611?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -149,7 +153,7 @@ B2. A C Tractor
 
 <hr>
 
-### Calm – People From The Sun And The Earth
+### Calme – Les gens du soleil et de la terre
 <a href="https://jp.mercari.com/item/m88603722096?afid=6142608987"><img src="../assets/images/Calm%20%E2%80%93%20People%20From%20The%20Sun%20And%20The%20Earth.webp"></a>
 
 Genre : Ambient / Baléares House
@@ -160,7 +164,7 @@ Format : Vinyle
 
 Caractéristiques : Un chef-d’œuvre de la musique d’ambiance chillout japonaise. EP 4 titres incluant le remix de Dixon
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. People From The Sun And The Earth (MKL vs. Soy Sos Dark Sun Mix)
 A2. People From The Sun And The Earth (Original Mix)
@@ -169,7 +173,8 @@ B1. People From The Sun And The Earth (Dixon Remix)
 B2. People From The Sun And The Earth (MKL vs. Soy Sos Dark Ambient Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m88603722096?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m88603722096?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -177,10 +182,10 @@ B2. People From The Sun And The Earth (MKL vs. Soy Sos Dark Ambient Mix)
 
 <hr>
 
-### David Donohoe – Nature Morte!
+### David Donohoe – Nature Morte !
 <a href="https://jp.mercari.com/item/m44618492590?afid=6142608987"><img src="../assets/images/David%20Donohoe%20%E2%80%93%20Nature%20Morte.webp"></a>
 
-Genre : Ambiant/Minimal
+Genre : Ambiant/Minimal
 
 Sortie : 2004 (label Minimise)
 
@@ -188,7 +193,7 @@ Format : Vinyle
 
 Caractéristiques : Originaire d'Irlande, excellent travail de musique d'ambiance minimale.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Nature Morte!
 A2. Still Life Is Alive
@@ -196,7 +201,8 @@ A2. Still Life Is Alive
 B. Our Ghosts
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m44618492590?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m44618492590?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -204,7 +210,7 @@ B. Our Ghosts
 
 <hr>
 
-### Mr. Blank – On The Ground
+### M. Blank – Sur le terrain
 <a href="https://jp.mercari.com/item/m86675145742?afid=6142608987"><img src="../assets/images/Mr.%20Blank%20%E2%80%93%20On%20The%20Ground.webp"></a>
 
 Genre : Ambient / Dub / Future Jazz / Hip‑House
@@ -213,9 +219,9 @@ Sortie : 1994
 
 Format : 2 disques vinyle
 
-Caractéristiques : L'œuvre de Steve Miller sous un autre nom. Un son profond et relaxant qui mélange différents genres
+Caractéristiques : Le travail de Steve Miller sous un autre nom. Un son profond et relaxant qui mélange différents genres
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Out Of Order
 A2. No Sweat
@@ -237,7 +243,8 @@ D3. Jump Over Here
 D4. The End Game
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m86675145742?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m86675145742?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -249,13 +256,13 @@ D4. The End Game
 <a href="https://jp.mercari.com/item/m99158480308?afid=6142608987"><img src="../assets/images/Deep%20Forest%20%E2%80%93%20Deep%20Forest.webp"></a>
 Genre : Ambient/Downtempo/New Age
 
-Sortie : 1992
+Sortie : 1992
 
-Format : CD
+Format : CD
 
 Caractéristiques : Fusion de musique folk et de sons électroniques, nominé aux Grammy Awards, chanson signature "Sweet Lullaby" incluse
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Deep Forest
 2. Sweet Lullaby
@@ -269,7 +276,8 @@ Caractéristiques : Fusion de musique folk et de sons électroniques, nominé a
 10. Sweet Lullaby (Ambient Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m99158480308?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m99158480308?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -277,7 +285,7 @@ Caractéristiques : Fusion de musique folk et de sons électroniques, nominé a
 
 <hr>
 
-### List
+### Liste
 
 <div class="table-border">
 <table>

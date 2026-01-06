@@ -17,7 +17,7 @@ Achtung Baby est un album dans lequel U2 explore une nouvelle direction musicale
 
 "Achtung Baby" comprend de nombreuses chansons à succès. Les exemples incluent « One », « Mysterious Ways » et « Even Better Than the Real Thing ». Ces chansons présentent des sons uniques et des mélodies fortes, ainsi que l'approche expérimentale de l'album.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Zoo Station
 
@@ -44,7 +44,7 @@ B5. Acrobat
 B6. Love Is Blindness
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m41507075580?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m41507075580?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ftjEcrrf7r0?si=NwEq0neJTCT0wwDO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

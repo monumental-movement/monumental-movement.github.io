@@ -14,11 +14,11 @@ title: Max Coo et Steve Coo – Danseurs de boogie
 ---
 
 
-Cette œuvre, publiée par Asia Records en 1990, est réalisée par l'unité "Max Coo & Steve Coo" de COO COO, célèbre pour le hit "UPSIDE DOWN".
+Cette œuvre, publiée par Asia Records en 1990, est l'œuvre de l'unité "Max Coo & Steve Coo" de COO COO, célèbre pour le hit "UPSIDE DOWN".
 
 L'Eurobeat promis par MAURO FARINA.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Boogie Dancer (Woogie Version)
 
@@ -31,7 +31,7 @@ B2. Boogie Dancer (Milan Mix)
 B3. Boogie Dancer (Verona Beat)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m15855209847?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m15855209847?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2aa9cdokyxY?si=bydcBm18OZ8MwCyr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

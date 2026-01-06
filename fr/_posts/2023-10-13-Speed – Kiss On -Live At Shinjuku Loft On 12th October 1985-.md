@@ -17,25 +17,25 @@ Speed ​​​​était un groupe de rock japonais formé en 1976 par Shinichi 
 
 #### Liste des chansons
 ```md
-1. Prière Gassho, fais-le !
+1. 祈り合掌 Do It!
 
-2. Vendeur de cape rouge
+2. 赤いマント売り
 
-3. Vers les cieux d'Afrique
+3. アフリカの空へ
 
-4. Inondation
+4. 洪水
 
-5. Oie nue
+5. 裸のガチョウ
 
-6. Jeu de bâillement
+6. あくびGame
 
-7. Douce nuit
+7. 優しい夜
 
-8. Rencontre de 10 secondes
+8. 10秒の出会い
 
-9. Un morceau de glace
-````
+9. ひとつの氷
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m43996896011?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43996896011?afid=6142608987){: .button1}
 
 

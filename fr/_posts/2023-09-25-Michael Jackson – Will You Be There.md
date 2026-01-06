@@ -19,14 +19,14 @@ title: Michael Jackson – Serez-vous là
 
 Cette chanson est également connue comme la bande originale du film « Free Willy » et a été appréciée par beaucoup comme chanson thème du film. Elle a également été fréquemment interprétée lors des performances live de Michael Jackson, ce qui en fait l'une des chansons les plus importantes de sa carrière.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Will You Be There (Radio Edit)
 
 B1. Will You Be There (Instrumental)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m37751294912?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37751294912?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bUaMzwNPgro?si=jIds42IKM3meTyF3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -23,7 +23,7 @@ title: Real McCoy – Encore une fois
 
 One More Time, sorti en 1997, est le quatrième album studio du groupe allemand d'Eurohouse Real McCoy.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. One More Time (Original Radio Mix)
 2. Give A Little Love
@@ -42,7 +42,7 @@ One More Time, sorti en 1997, est le quatrième album studio du groupe allemand 
 15. Start Loving Me
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m70516087025?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70516087025?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1EbRikt1bJo?si=dT0wZFAiUl6sF6_9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

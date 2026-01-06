@@ -21,24 +21,24 @@ Shokichi Kino + Makoto Yano
 
 #### Liste des chansons
 ```md
-1. Danse cosmique
+1. Cosmic Dance
 2. Aru Naiko
-3. Nirai Nakai (Pays lointain)
-4. Vent
-5. Sabani (Pirogue)
-6. Bouddha à Zorba
-7. ~Oncle Haisai
-8. Altaïko
-9. Kusamnigunda
-10. Célébration (Festival)
-11. Porte
-12. Écouter
-13. Aïnu Puri
-14. Fleurs
-15. Encore ~ Ainupuri
-````
+3. ニライナカイ(遥かなる国)
+4. 風
+5. サバニ(丸木舟)
+6. ゾルバでブッダ
+7. ～ハイサイおじさん
+8. アルタイコ
+9. クサムニグンダ
+10. セレブレーション(祭)
+11. Door
+12. イヤホイ
+13. アイヌ・プリ
+14. 花
+15. アンコール～アイヌプリ
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m31188097241?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31188097241?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kR5_BUy_B-Y?si=25ktUjtmb20p7Ao_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

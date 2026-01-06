@@ -28,17 +28,17 @@ Sotte Bosse est une unité spéciale composée de Hiroshi Nakamura et Cana de l'
 
 #### Liste des chansons
 ```md
-1. Parce que tes yeux sourient
-2. Juste t'avoir
-3. Baiser du soleil
-4. Pâtes à la mandarine
-5. Emmène-moi
-6.Rejouer
-7. Kaede
-8. Au revoir
-9. Croissant de Lune
-10. Espace de respiration
-11. Hitohira
-````
+1. 瞳がほほえむから
+2. 君がいるだけで
+3. 太陽のキス
+4. マンダリンパスタ
+5. Take Me Away
+6. Replay
+7. 楓
+8. グッバイ
+9. 三日月
+10. Breathing Space
+11. ひとひら
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m27420865512?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m27420865512?afid=6142608987){: .button1}

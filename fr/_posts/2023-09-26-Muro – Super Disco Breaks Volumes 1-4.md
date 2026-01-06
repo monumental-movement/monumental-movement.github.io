@@ -15,7 +15,7 @@ title: Muro – Super Disco Breaks Volumes 1 à 4
 
 Il s'agit de la mixtape "Super Disco Breaks Volumes 1-4" de Muro.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 Side A. Super Disco Breaks Lesson 1
 
@@ -26,5 +26,5 @@ Side C. Super Disco Breaks Lesson 3
 Side D. Super Disco Breaks Lesson 4
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m85258489919?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m85258489919?afid=6142608987){: .button1}
 

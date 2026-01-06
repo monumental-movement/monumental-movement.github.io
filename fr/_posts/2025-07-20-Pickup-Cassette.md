@@ -16,31 +16,32 @@ title: Ramasser une cassette fonctionne
 
 <hr>
 
-### No Artist – Environments (Cassette Two) 
+### No Artist – Environnements (Cassette Deux)
 <a href="https://jp.mercari.com/item/m64435232831?afid=6142608987"><img src="../assets/images/No%20Artist%20%E2%80%93%20Environments.webp"></a>
 
 Enregistrement sur le terrain/guérison des années 1970 Un paysage sonore curatif qui capture l'environnement naturel.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Tintinnabulation (Contemplative Sound)
 
 B. Dawn At New Hope Pennsylvania (June, 1969)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m64435232831?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m64435232831?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aKg6BNrHeuU?si=tG_X8CHdaIZY54XP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-### The Art of Noise – In No Sense Nonsense
+### L'art du bruit – In No Sense Nonsense
 <a href="https://jp.mercari.com/item/m27011020702?afid=6142608987"><img src="../assets/images/The%20Art%20Of%20Noise%20%E2%80%93%20In%20No%20Sense%20Nonsense.webp"></a>
 
 1987 Leftfield Synth Pop Art pop x travail de synthétiseur expérimental et unique.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Galleons Of Stone
 A2. Dragnet
@@ -77,7 +78,8 @@ B15. Crusoe
 B16. One Earth
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m27011020702?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m27011020702?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -85,12 +87,12 @@ B16. One Earth
 <hr>
 
 
-### Kiss – Rock And Roll Over
+### Kiss – Rock and Roll Over
 <a href="https://jp.mercari.com/item/m33007072750?afid=6142608987"><img src="../assets/images/Kiss%20%E2%80%93%20Rock%20And%20Roll%20Over.webp"></a>
 
 Cassette de première édition Hard Rock Japan des années 1976 des années 70, vintage cool.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. I Want You
 A2. Take Me
@@ -105,7 +107,8 @@ B4. Hard Luck Woman
 B5. Makin' Love
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m33007072750?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m33007072750?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -113,12 +116,12 @@ B5. Makin' Love
 <hr>
 
 
-### Amany & The Badawist – Come on, Bassem
+### Amany & The Badawist – Allez, Bassem
 <a href="https://jp.mercari.com/item/m46511656290?afid=6142608987"><img src="../assets/images/Amany%20and%20The%20Badawist%20%E2%80%93%20Come%20on%20Bassem.webp"></a>
 
 2024 Tribal/World Music Son tribal du Moyen-Orient et d'Afrique.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1.  بدويست 
 
@@ -145,18 +148,19 @@ B3. يللا يا باسم
 Come on, Bassem
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m46511656290?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m46511656290?afid=6142608987){: .button1}
 
 
 <hr>
 
 
-### Thomas Newman – Scent Of A Woman
+### Thomas Newman – Parfum de femme
 <a href="https://jp.mercari.com/item/m80593383212?afid=6142608987"><img src="../assets/images/Thomas%20Newman%20%E2%80%93%20Scent%20Of%20A%20Woman.webp"></a>
 
 Bande originale du film de 1992 Bande originale d'un film classique.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1.  Main Title
 A2.  A Tour Of Pleasures
@@ -178,19 +182,20 @@ B6. Fleurs De Rocaille
 B7. End Title
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m80593383212?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m80593383212?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/COQsa_u5nEg?si=fguM6L8R4SRjad1F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-### Adam Clayton & Larry Mullen – Theme From Mission: Impossible
+### Adam Clayton et Larry Mullen – Thème de Mission : Impossible
 <a href="https://jp.mercari.com/item/m33330451602?afid=6142608987"><img src="../assets/images/Adam%20Clayton%20&%20Larry%20Mullen%20%E2%80%93%20Theme%20From%20Mission%20Impossible.webp"></a>
 
 Chanson thème du film de 1996 Bande officielle du film "Mission Impossible".
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Theme From Mission: Impossible
 A2. Mission: Impossible Theme (Mission Accomplished)
@@ -198,7 +203,8 @@ A2. Mission: Impossible Theme (Mission Accomplished)
 B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m33330451602?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m33330451602?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -206,12 +212,12 @@ B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 <hr>
 
 
-### Dieselboy – The Director’s Cut
+### Dieselboy – Le montage du réalisateur
 <a href="https://jp.mercari.com/item/m34797510612?afid=6142608987"><img src="../assets/images/Dieselboy%20%E2%80%93%20The%20Director's%20Cut.webp"></a>
 
 2023 Drum n Bass Intense mix par un DJ américain drum and bass
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Side A
 
@@ -247,19 +253,20 @@ B. Side B
 13. Dillinja- Accurist
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m34797510612?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m34797510612?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X6EumRaarrQ?si=XRLLJb_BEWu1NV9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-### Various – The Enjoy! Story
+### Divers – Le Enjoy ! Histoire
 <a href="https://jp.mercari.com/item/m75930589194?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20The%20Enjoy!%20Story.webp"></a>
 
 Années 1990 ? Compilation des débuts de l'ère hip-hop classique de Zulu Nation
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1.The Packman–I'm The Packman
 A2.Grandmaster Flash & The Furious Five–Superappin
@@ -297,19 +304,20 @@ D8. Midnight Blue – Enjoy With Me
 D9. Higher Ground – Shake 'Em Up
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m75930589194?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m75930589194?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PIPDwUlbcNo?si=Wq-w3Cb25_mcZCUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-### Run‑D.M.C. – King Of Rock
+### Exécuter‑D.M.C. – Roi du rock
 <a href="https://jp.mercari.com/item/m37727986910?afid=6142608987"><img src="../assets/images/Run-D.M.C.%20%E2%80%93%20King%20Of%20Rock.webp"></a>
 
 1985 ?  Fusion hip-hop/rock, une œuvre pionnière et populaire du rock et du rap
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Rock The House
 A2. King Of Rock
@@ -323,19 +331,20 @@ B3. It's Not Funny
 B4. Daryll And Joe (Krush-Groove 3){: .button1}
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m37727986910?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m37727986910?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qXzWlPL_TKw?si=2o-hehPcll2R8E7O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-### Dr. Dre – Let Me Ride
+### Dr. Dre – Laissez-moi monter
 <a href="https://jp.mercari.com/item/m33195503336?afid=6142608987"><img src="../assets/images/Dr.%20Dre%20%E2%80%93%20Let%20Me%20Ride.webp"></a>
 
 1992 Chanson classique hip-hop/G-funk représentative du son de la côte ouest
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Let Me Ride (Radio Mix)
 
@@ -352,14 +361,15 @@ Featuring –Daz, Snoop Doggy Dogg
 Guest– George Clinton
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m33195503336?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m33195503336?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zIG9BNugOEs?si=itP9y0O19GNYWvSe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-### List
+### Liste
 
 <div class="table-border">
 <table>

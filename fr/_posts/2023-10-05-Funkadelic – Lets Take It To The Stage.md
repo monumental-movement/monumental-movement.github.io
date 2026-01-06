@@ -19,7 +19,7 @@ title: Funkadelic – Montons sur scène
 
 "Get Off Your Ass and Jam" et "Stuffs and Things" mettent en valeur la diversité musicale et la créativité de Funkadelic, incarnant leur son expérimental et leur style unique.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Good To Your Earhole
 
@@ -42,7 +42,7 @@ B3. The Song Is Familiar
 B4. Atmosphere
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m32390527306?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m32390527306?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i3iSD8YsKnU?si=xHBq2JNQC2hNjRxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

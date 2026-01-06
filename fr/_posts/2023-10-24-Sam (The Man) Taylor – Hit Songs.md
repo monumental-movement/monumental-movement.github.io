@@ -18,36 +18,36 @@ title: Sam (The Man) Taylor – Chansons à succès
 
 #### Liste des chansons
 ```md
-A1. Koi Hitosuji – Shinichi Mori
+A1. 恋ひとすじ – 森進一
 
-A2. L'amour sans rencontre – Hiroshi Uchiyamada et Cool Five
+A2. 逢わずに愛して – 内山田洋とクールファイブ
 
-A3. Salle d’attente internationale – Mina Aoe
+A3. 国際線待合室 – 青江三奈
 
-A4. Ce n'est pas grave si tu es heureuse – Naomi Sara
+A4. いいじゃないの幸せなら – 佐良直美
 
-A5. Yanagase la nuit – Casanova 7
+A5. 夜の柳ヶ瀬 – カサノヴァ７
 
-A6. Berceuse pour dormir seul – Tokiko Kato
+A6. ひとり寝の子守唄 – 加藤登紀子
 
-A7. Il pleuvait aussi à Nagasaki aujourd'hui – Hiroshi Uchiyamada et Cool Five
+A7. 長崎は今日も雨だった – 内山田洋とクール・ファイブ
 
-B1. Femme Shinjuku – Keiko Fuji
+B1. 新宿の女 – 藤圭子
 
-B2. Entre la nuit et le matin – Peter
+B2. 夜と朝のあいだに – ピーター
 
-B3. Fleurs et larmes – Shinichi Mori
+B3. 花と涙 – 森進一
 
-B4. Femme plus âgée – Femme plus âgée
+B4. 年上の女 – 年上の女
 
-B5. Shianbashi Blues – Akira Nakai, Masaru Takahashi et Coloratino
+B5. 思案橋ブルース – 中井昭・高橋勝とコロラティーノ
 
-B6. Fleurs et papillons – Shinichi Mori
+B6. 花と蝶 – 森進一
 
-B7. Port Town Blues – Shinichi Mori
-````
+B7. 港町ブルース – 森進一
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m33119063874?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33119063874?afid=6142608987){: .button1}
 
 
 

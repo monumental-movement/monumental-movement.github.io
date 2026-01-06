@@ -23,7 +23,7 @@ Décrit par Paradinas comme « une version mise à jour de l'easy listening et d
 
 Ces morceaux sont le résultat d'une fusion de l'expérimentation imprévisible d'Aphex Twin et de la structure mélodique de µ-Ziq, créant une aventure sonore qui va au-delà de la simple « musique écrite ».
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Mr Frosty
 2. Jelly Fish
@@ -37,7 +37,7 @@ Ces morceaux sont le résultat d'une fusion de l'expérimentation imprévisible 
 10. Bu Bu Bu Ba
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m39657713287?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m39657713287?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ODppEhZGw1Y?si=FqMGJDoOL4-dS3Sv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

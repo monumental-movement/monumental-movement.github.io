@@ -15,6 +15,7 @@ title: '[Chronique] Glitchcore / Hyper-Glitch Pop continue de s''effondrer, le f
 ---
 
 
+
 ## aperçu
 
 Texte : mmr｜Thème : Processus de formation du Glitchcore/Hyper-Glitch, techniques acoustiques, contexte culturel, artistes représentatifs, développement dans les années 2020 et perspectives d'avenir
@@ -38,6 +39,7 @@ background-color: #111;
 color: #fff;
 }
 </style>
+
 
 ## 1. Origine et contexte
 
@@ -157,11 +159,11 @@ La voix de Laura Les est devenue le « symbole des voix aiguës » dans le Glitc
 
 ### 3-5 Autres artistes importants
 
-* osquinn / p4rkr
-* glaive
-* Ericdoa
-* underscores
-* blackwinterwells
+*osquinn/p4rkr
+*glaive
+*Éricdoa
+* souligne
+*puits d'hiver noirs
 
 Ceux-ci ont rapidement attiré l'attention, principalement sur SoundCloud, prouvant le phénomène des « créateurs de musique adolescents créant une scène mondiale ».
 
@@ -266,7 +268,7 @@ Une autre caractéristique majeure est que les expressions de style anime, la cu
 
 ### 7-3 Personnalité SoundCloud
 
-Osquinn et Glaive ont apporté des progressions d'accords emo, des touches de guitare et des voix aériennes au Glitchcore. Cela représente une direction plus introvertie et mélodique par rapport à la nature « avant-gardiste » de l’Hyperpop.
+Osquinn et Glaive ont apporté des progressions d'accords emo, des touches de guitare et des voix aériennes au Glitchcore. Cela représente une direction mélodique plus introvertie par rapport à la nature « avant-gardiste » de l’Hyperpop.
 
 ---
 
@@ -315,7 +317,7 @@ Celles-ci sont tout à fait cohérentes avec les techniques du Glitchcore.
 
 ### 10-2 Le « pop cassé » sera-t-il standardisé ?
 
-Les traitements destructeurs comme Hyper-Glitch commencent déjà à trouver leur place dans la pop grand public. À l'avenir, il est fort possible que le « glitch » en tant qu'idée de production devienne un outil standard plutôt que des limites en tant que genre.
+Les traitements destructeurs comme Hyper-Glitch commencent déjà à trouver leur place dans la pop grand public. À l'avenir, il y a de fortes chances que le « glitch en tant qu'idée de production » devienne un outil standard plutôt que des limites en tant que genre.
 
 ---
 

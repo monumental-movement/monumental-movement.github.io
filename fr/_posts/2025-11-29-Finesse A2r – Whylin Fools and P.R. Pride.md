@@ -15,11 +15,11 @@ title: Finesse A2r – Whylin Fools & PR Pride
 
 Un morceau Hip Hop publié par AV8 Records, un label house/hip hop connu pour avoir sorti des œuvres importantes d'Armand Van Helden.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Whylin Fools
 
 B. P.R. Pride
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m93979489600?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93979489600?afid=6142608987){: .button1}

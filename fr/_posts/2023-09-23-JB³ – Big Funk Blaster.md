@@ -19,14 +19,14 @@ JB³ est un autre nom pour Joey Beltram. Il est actif depuis les années 90 et a
 
 "Big Funk Blaster" est une chanson qui a été appréciée par de nombreuses personnes, quel que soit leur genre. Son rythme énergique et son son funky ont été joués dans de nombreux clubs et soirées.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A  Big Funk Blaster
 
 B  Sound Sweet
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m25112445531?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m25112445531?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CEhn9czJgd0?si=zimpSah5Bx1qRzk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

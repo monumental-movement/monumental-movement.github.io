@@ -18,6 +18,7 @@ title: '[Chronique] Le Brésil moderne reflété par la Bossa Nova : l''interse
 
 Texte : mmr｜Thème : Compte tenu de la diffusion culturelle de la Bossa Nova, il existe des phénomènes et des choses qui semblent sans rapport à première vue, mais qui sont en réalité profondément liés.
 
+
 La Bossa Nova, née dans un petit appartement de Rio de Janeiro à la fin des années 1950, est rapidement devenue la nouvelle bannière culturelle du Brésil et s'est finalement répandue dans le monde entier. Le contexte n’est pas seulement l’attrait de la musique elle-même, mais aussi la profonde résonance avec les domaines de l’architecture, de la technologie et de la mode qui progressaient en même temps. Dans cet article, je voudrais approfondir les liens culturels entre la bossa nova et d'autres domaines, en me concentrant sur les activités d'artistes tels que Joao Gilberto et Antonio Carlos Jobim.
 
 
@@ -34,6 +35,7 @@ background-color: #111;
 color: #fff;
 }
 </style>
+
 
 ### Architecture de Bossa Nova et Brasilia —— Modernisme dans les villes et la musique
 

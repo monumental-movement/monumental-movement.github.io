@@ -17,7 +17,7 @@ The Band était un groupe de rock canadien actif de la fin des années 1960 au d
 
 L'album live "Rock Of Ages: The Band In Concert" sorti en 1972 est la source sonore d'un concert live tenu à l'Academy of Music de New York en décembre 1971.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Don't Do It
 A2. King Harvest (Has Surely Come)
@@ -41,7 +41,7 @@ D2. Chest Fever
 D3. (I Don't Want To) Hang Up My Rock And Roll Shoes
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m74070924210?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74070924210?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-c_E-W3yhHY?si=dEbQ2J2BCooYUqXm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

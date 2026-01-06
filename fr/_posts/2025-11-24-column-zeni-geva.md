@@ -39,6 +39,7 @@ color: #fff;
 }
 </style>
 
+
 ## 1. Période de formation (1987-1990) : origines de la violence et structure
 Zeni Geva a été créée en 1987. Le personnage central est KK Null. Il avait déjà établi un style musical très expérimental à travers des activités antérieures telles que YBO2, et était une personne possédant une connaissance interdisciplinaire de la musique noise/hardcore/avant-garde.
 
@@ -48,7 +49,7 @@ Zeni Geva a été créée en 1987. Le personnage central est KK Null. Il avait d
 - **Ikuo Taketani** (Dr)
 -**Elle** (Vo)
 
-Le nom du groupe serait dérivé du mot « Zeni » et du mot allemand « Gewalt » (violence), et serait ancré dans le concept social de **Money Violence**.
+Le nom du groupe serait dérivé du mot « Zeni » et du mot allemand « Gewalt » (violence), et est ancré dans le concept social de **Money Violence**.
 
 ### Premiers travaux
 - **Comment tuer (1987)**
@@ -64,11 +65,11 @@ En 1988, **Mitsuru Tabata** rejoint le groupe, augmentant encore la qualité des
 En 1991, Zeni Geva franchit un tournant majeur. Il s'agit d'une collaboration avec l'ingénieur/producteur américain **Steve Albini**. En raison de sa philosophie d'enregistrement, Albini est connu pour ses méthodes d'enregistrement qui capturent l'atmosphère vivante d'un espace.
 
 ### « Castration totale (1991) »
-Le premier album complet enregistré par Albini.  
+Le premier album complet enregistré par Albini.
 La violence de Zeni Geva et le son sec et direct d'Albini s'accordent parfaitement, ce qui leur vaut de très bonnes critiques à l'étranger.
 
 ### "Désir d'agonie (1993)"
-- Sorti du label américain **Alternative Tentacles** (organisé par Jello Biafra)
+- Sortie du label américain **Alternative Tentacles** (organisé par Jello Biafra)
 - La tournée à l'étranger commence sérieusement
 - A sorti de nombreux EP et singles à peu près à la même époque (Nai-Ha, Disgraceland, etc.)
 
@@ -76,7 +77,7 @@ La violence de Zeni Geva et le son sec et direct d'Albini s'accordent parfaiteme
 Depuis 1992 environ, il se produit activement en Amérique et en Europe et est également apparu à la session John Peel en Angleterre. Peel a hautement loué la musicalité de Zeni Geva, augmentant encore leur reconnaissance internationale.
 
 ### « Liberté Servitude (1995) »
-Une œuvre importante réalisée encore avec Albini.  
+Une œuvre importante réalisée encore avec Albini.
 On dit que c'est l'album avec l'intégration la plus équilibrée entre l'acoustique, la structure et la violence.
 
 ---
@@ -85,7 +86,7 @@ On dit que c'est l'album avec l'intégration la plus équilibrée entre l'acoust
 En 1996, il y a eu un changement de batteur, Blake Fleming rejoignant le groupe pour une courte période. Plus tard, **Masataka Fujikake** a rejoint le groupe et les rythmes de Zeni Geva sont devenus plus complexes, plus rapides et plus étagés.
 
 ### Renforcer la musicalité structurelle
-Durant cette période, les chansons de Zeni Geva sont devenues plus longues et plus structurées, y compris des chansons de plus de 16 minutes.  
+Durant cette période, les chansons de Zeni Geva sont devenues plus longues et plus structurées, y compris des chansons de plus de 16 minutes.
 - Plusieurs parties divergent et reconvergent
 - Riff contrapuntique avec deux guitares
 - Utilisation accrue d'appareils électroniques tels que Nulltron
@@ -107,17 +108,17 @@ De 2002 à 2004, des œuvres contenant des performances live à l'étranger ont 
 - KK Null se développe à l'échelle mondiale avec le bruit/électroacoustique/collaboration
 
 ### 2009 : La Réunion
-Après une longue stagnation, de véritables retrouvailles ont eu lieu avec le retour de **Tatsuya Yoshida** (Ruines).  
+Après une longue stagnation, de véritables retrouvailles ont eu lieu avec le retour de **Tatsuya Yoshida** (Ruines).
 Pour Zeni Geva, l'arrivée de Yoshida a encore une fois eu un fort impact.
 
 ---
 
-## 5. Deuxième période Zeni Geva (2010–) : Réévaluation et attention mondiale renouvelée
+## 5. Deuxième période Zeni Geva (2010–) : Réévaluation et réattention globale
 ### « Vivant et montant (2010) »
 - Source sonore en direct de la gamme 2009
 - La batterie perverse de Tatsuya Yoshida et le duel de guitares de Null & Tabata sont spectaculaires
 
-Depuis, les activités live en Asie et en Europe ont repris.  
+Depuis, les activités live en Asie et en Europe ont repris.
 Zeni Geva fait l'objet d'une attention renouvelée de la part de la scène musicale noise/metal/hardcore/avant-garde, et sa valeur historique est à nouveau évaluée.
 
 ---
@@ -126,7 +127,7 @@ Zeni Geva fait l'objet d'une attention renouvelée de la part de la scène music
 
 ### 6-1. Caractéristiques de la structure du riff
 - Répétition des riffs de basse
-- Deux guitares entrelacées de manière contrapuntique
+- Deux guitares entrelacées de façon contrapuntique
 - Structure qui se brise brusquement au milieu, modulation cut-up
 - Boucle incessante non 4/4
 
@@ -139,7 +140,7 @@ Zeni Geva fait l'objet d'une attention renouvelée de la part de la scène music
 - « Argent », « violence », « domination », « corps », « démolition », etc.
 - Les paroles sont abstraites et symboliques
 
-### 6-4. Fabrication
+### 6-4. Production
 - Les enregistrements de Steve Albini sont représentatifs de la beauté acoustique de Zeni Geva.
 - La dynamique vive et les harmoniques métalliques de la guitare ressortent
 - Dans la seconde moitié, le son électronique a augmenté avec l'introduction d'appareils tels que Nulltron.

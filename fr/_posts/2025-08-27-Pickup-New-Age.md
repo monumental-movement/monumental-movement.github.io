@@ -17,14 +17,15 @@ title: Récupérez des œuvres New Age
 
 <hr>
 
-### Schawkie Roth – Dance Of The Tao
+### Schawkie Roth – Danse du Tao
 <a href="https://jp.mercari.com/item/m91290785378?afid=6142608987"><img src="../assets/images/Schawkie%20Roth%20%E2%80%93%20Dance%20Of%20The%20Tao.webp"></a>
 
 Caractéristiques : Schawkie Roth est un compositeur spécialisé dans la guérison, la méditation, la musique de relaxation et le jazz acoustique, et est considéré comme l'un des pionniers de la musique spirituelle New Age.
 
+
 Charme : Fusion de philosophie orientale et de musique occidentale, cette pièce est parfaite pour la méditation et la relaxation.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Heaven On Earth (excerpt)
 A2. Waves Follows Wave
@@ -35,7 +36,8 @@ B2. Bass Bamboo Meditation
 B3. Dance of Bamboo
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m38252270171?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m38252270171?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -47,18 +49,20 @@ B3. Dance of Bamboo
 ### Fumio Miyashita – Meisou
 <a href="https://jp.mercari.com/item/m31252450219?afid=6142608987"><img src="../assets/images/Fumio%20Miyashita%20-%20Meisou.webp"></a>
 
+
 Caractéristiques : Une œuvre de Tomio Miyashita, musicien, musicothérapeute et synthétiseur de la préfecture de Nagano.
 
 Attrait : Doté de tonalités de synthétiseur qui favorisent des états méditatifs profonds, adaptés à la relaxation de l'esprit et du corps.
 
 #### Liste des chansons
 ```md
-1. Miorine, le bruit du tissage de l'eau
+1. 水織音 - Miorine, The Sound Of Water Weaving
 
-2. Seijyakukyo, une région de calme
-````
+2. 静寂郷 - Seijyakukyo, A Region Of Stillness
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m31252450219?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m31252450219?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -66,14 +70,16 @@ Attrait : Doté de tonalités de synthétiseur qui favorisent des états médit
 <hr>
 <br>
 
-### Kitaro – Astral Trip
+### Kitaro – Voyage Astral
 <a href="https://jp.mercari.com/item/m99540440507?afid=6142608987"><img src="../assets/images/Kitaro%20%E2%80%93%20Astral%20Trip.webp"></a>
+
 
 Caractéristiques : Kitaro jouait du clavier en tant que membre du groupe de rock progressif japonais « Far East Family Band » au début des années 1970, et développa plus tard une carrière solo.
 
+
 Attrait : Un monde sonore fantastique utilisant des synthétiseurs s'étend, offrant une détente confortable.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. By The Sea Side
 A2. Soul Of The Sea
@@ -88,7 +94,8 @@ B4. Kaiso
 B5. Astral Trip
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m99540440507?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m99540440507?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -104,7 +111,7 @@ Caractéristiques : Il s'agit d'un album de Patrick Bernhardt sorti par le label
 
 Attrait : Doté de tonalités de synthétiseur qui favorisent des états méditatifs profonds, adaptés à la relaxation de l'esprit et du corps.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Le Chant De L'universel/The Song Of The Universal Light
 A1. 1er Mouv./Part One
@@ -118,7 +125,8 @@ B2. Musique Des Spheres D'om Harmony/Harmony Of The Om Spheres
 B3. Transcendastral Voyage
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m83639772653?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m83639772653?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -127,15 +135,17 @@ B3. Transcendastral Voyage
 <br>
 
 
-### Steve Reid – Bamboo Forest
+### Steve Reid – Forêt de bambous
 <a href="https://jp.mercari.com/item/m74371119901?afid=6142608987"><img src="../assets/images/Steve%20Reid%20%E2%80%93%20Bamboo%20Forest.webp"></a>
 
+
 Caractéristiques : Une œuvre du percussionniste et producteur de jazz américain Stephen Reed.
+
 
 Charme : Musique spirituelle qui intègre des éléments de jazz, cette œuvre vous fait sentir en harmonie avec la nature.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Amazon Mist
 2. Catch The Wind
@@ -149,7 +159,8 @@ Charme : Musique spirituelle qui intègre des éléments de jazz, cette œuvre 
 10. Balloon Safari
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m74371119901?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m74371119901?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -158,14 +169,14 @@ Charme : Musique spirituelle qui intègre des éléments de jazz, cette œuvre 
 <br>
 
 
-### Tony O'Connor – Hidden Forest
+### Tony O'Connor – Forêt cachée
 <a href="https://jp.mercari.com/item/m61126062656?afid=6142608987"><img src="../assets/images/Tony%20OConnor%20%E2%80%93%20Hidden%20Forest.webp"></a>
 
 Caractéristiques : Un double LP de 1996 du créateur australien de musique d'ambiance/relaxation Tony O'Connor.
 
 Charme : La combinaison harmonieuse de sons naturels et de synthétiseurs offre un espace apaisant qui donne l'impression de prendre un bain de forêt.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Hidden Forest
 2. I Wonder
@@ -176,7 +187,8 @@ Charme : La combinaison harmonieuse de sons naturels et de synthétiseurs offre 
 7. Remember
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m61126062656?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m61126062656?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -184,14 +196,14 @@ Charme : La combinaison harmonieuse de sons naturels et de synthétiseurs offre 
 <hr>
 <br>
 
-### Deep Forest – Deep Forest
+### Forêt profonde – Forêt profonde
 <a href="https://jp.mercari.com/item/m99158480308?afid=6142608987"><img src="../assets/images/Deep%20Forest%20%E2%80%93%20Deep%20Forest.webp"></a>
 
 Caractéristiques : Un album sorti en 1992 par le duo français Deep Forest. Il se caractérise par un style de musique du monde qui mélange des rythmes ethniques, électroniques, dance et chillout.
 
 Attrait : Des sons intégrant une variété de musiques ethniques vous feront voyager à travers différentes cultures.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Deep Forest
 2. Sweet Lullaby
@@ -205,7 +217,8 @@ Attrait : Des sons intégrant une variété de musiques ethniques vous feront v
 10. Sweet Lullaby (Ambient Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m99158480308?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m99158480308?afid=6142608987){: .button1}
 
 
 #### Youtube

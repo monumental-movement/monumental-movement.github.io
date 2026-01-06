@@ -15,20 +15,15 @@ title: '[Chronique] Musique d''ambiance/environnement japonaise'
 ---
 
 
-
-
-
-
-
-
 ## **Introduction : Jusqu'à ce que le silence recouvre le monde**
 
 Texte : mmr｜Thème : Le cœur de la musique environnementale japonaise des années 1980 et sa réévaluation historique
 
-À la fin des années 2010, « Japanese Ambient » et « Japanese Environmental Music » ont commencé à attirer beaucoup d'attention parmi les auditeurs de musique du monde entier. Il y a plusieurs raisons. Il s'agit de rééditions par des labels occidentaux, des recommandations automatiques de YouTube, de l'algorithme de Spotify et d'une remise en question de la musique électronique/new age.  
+
+À la fin des années 2010, « Japanese Ambient » et « Japanese Environmental Music » ont commencé à attirer beaucoup d'attention parmi les auditeurs de musique du monde entier. Il y a plusieurs raisons. Il s'agit de rééditions par des labels occidentaux, des recommandations automatiques de YouTube, de l'algorithme de Spotify et d'une remise en question de la musique électronique/new age.
 Il existe cependant des points importants qui ne peuvent être expliqués par ces seuls facteurs.
 
-C'est le fait que la « musique environnementale » japonaise des années 1980 est née d'un sol culturel différent de celui de la musique ambiante du monde entier.  
+C'est le fait que la « musique environnementale » japonaise des années 1980 est née d'un sol culturel différent de celui de la musique ambiante du monde entier.
 Alors que la musique ambiante occidentale (à commencer par Brian Eno) visait à « des sons qui se fondent dans le fond sans attirer l'attention », la musique environnementale japonaise était étroitement liée à « l'urbanisme, l'architecture, les espaces commerciaux, la conception de produits, l'art, la culture de l'électronique grand public et la philosophie de la vie ».
 
 Les compositeurs suivants en étaient au centre.
@@ -54,6 +49,7 @@ color: #fff;
 }
 </style>
 
+
 # **Chapitre 1 : Formation du concept de « musique environnementale » au Japon**
 
 ## ● 1-1. Années 1970 : Terrain d'expérimentation pour la musique électronique et la musique contemporaine
@@ -68,7 +64,7 @@ La musique ambiante japonaise se caractérise par sa formation à l'intersection
 
 ## ● 1-2. «Série de musique environnementale» par MUJI
 
-Au début des années 1980, MUJI visait la « musique pour les consommateurs » et prévoyait une série de « musiques environnementales » pour les espaces de magasin.  
+Au début des années 1980, MUJI visait la « musique pour les consommateurs » et prévoyait une série de « musiques environnementales » pour les espaces de magasin.
 Hiroshi Yoshimura, Ryuichi Sakamoto et d'autres ont participé à cette série, qui a déclenché un changement majeur dans le rôle du son dans les espaces commerciaux.
 
 La particularité était qu'il ne fonctionnait pas seulement comme musique de fond pour le magasin, mais qu'il était également conçu pour être de haute qualité.
@@ -100,11 +96,11 @@ Hiroshi Yoshimura (1940-2003) est le compositeur le plus important en matière d
 
 ## ● Œuvres représentatives
 - **《Musique pour neuf cartes postales》 (1982)**
-  Il a été créé en pensant à l’espace d’exposition d’un musée d’art. Phrase piano/synthé transparente.
+Il a été créé en pensant à l’espace d’exposition d’un musée d’art. Phrase piano/synthé transparente.
 - **《Vert》(1986)**
-  L'une des œuvres les plus appréciées. Une fusion de sons naturels et de sons électroniques doux.
+L'une des œuvres les plus appréciées. Une fusion de sons naturels et de sons électroniques doux.
 - **Série 《Soundscape》 (1986~)**
-  « La musique comme paysage » à partir d'enregistrements de terrain.
+« La musique comme paysage » à partir d'enregistrements de terrain.
 
 ## ● Fonctionnalités musicales
 - Discret et non répétitif
@@ -123,7 +119,7 @@ Midori Takada (1951–) est mondialement reconnu en tant que percussionniste et 
 
 ## ● Œuvres représentatives
 - **《De l'autre côté du miroir》(1983)**
-  Un chef-d'œuvre qui utilise des instruments à percussion, du marimba, de la voix et des instruments ethniques.
+Un chef-d'œuvre qui utilise des instruments à percussion, du marimba, de la voix et des instruments ethniques.
 - **《Croisière Lunaire》(1989 / co-écrit avec Ryo Kamomiya)**
 
 ## ● Fonctionnalités musicales
@@ -132,7 +128,7 @@ Midori Takada (1951–) est mondialement reconnu en tant que percussionniste et 
 - Application de la structure de la musique africaine gamelan
 
 ## ● Philosophie de production
-Elle traite les instruments à percussion non pas comme des symboles du « temps », mais comme des « appareils qui font sonner l'espace »**, créant une musique qui dépeint un « voyage » spirituel à travers des réverbérations acoustiques et des harmoniques.
+Elle traite les instruments à percussion non pas comme des symboles du « temps », mais comme des « appareils qui font sonner l'espace »**, créant une musique qui dépeint un « voyage » spirituel à travers des réverbérations et des harmoniques acoustiques.
 
 ---
 
@@ -142,9 +138,9 @@ Takashi Kokubo (1956-), après une carrière dans la production d'effets sonores
 
 ## ● Œuvres représentatives
 - **《Série Ion》(années 1980 ~)**
-  Une série de musique environnementale produite sous forme de CD fourni avec des purificateurs d'air.
+Une série de musique environnementale produite sous forme de CD fourni avec des purificateurs d'air.
 - **《Un rêve navigue vers la mer》 (1987)**
-  Après récidive, le patient a été réévalué à l'étranger.
+Après récidive, le patient a été réévalué à l'étranger.
 
 ## ● Fonctionnalités musicales
 - Fusion de sons naturels et électroniques
@@ -159,7 +155,7 @@ Le duo « Inoyamaland » composé de Yasushi Yamashita et Makoto Inoue possède 
 
 ## ● Œuvres représentatives
 -**《Danzindan-Pojidon》(1983)**
-  Un chef-d'œuvre électronique mais idyllique.
+Un chef-d'œuvre électronique mais idyllique.
 - **《TERRE D'INOYAMA》(1997)**
 
 ## ● Fonctionnalités musicales
@@ -182,8 +178,8 @@ Dans les années 1980, les fabricants japonais d’instruments de musique élect
 - Enregistreur de terrain (cassette/bobine à bobine)
 
 ## ● 3-2. Enregistrement à domicile et culture du home studio
-Le matériel d'enregistrement domestique s'est très tôt répandu au Japon et de nombreux compositeurs ont réalisé une production sonore expérimentale chez eux.  
-C'était une caractéristique majeure par rapport à l'Europe et à l'Amérique, et c'est devenu la toile de fond pour l'approfondissement de la musique environnementale au niveau individuel.
+Le matériel d'enregistrement domestique s'est très tôt répandu au Japon et de nombreux compositeurs ont réalisé une production sonore expérimentale chez eux.
+C'était une caractéristique majeure par rapport à l'Europe et à l'Amérique, et c'est devenu la base pour l'approfondissement de la musique environnementale au niveau individuel.
 
 ## ● 3-3. Coopération avec la conception et l'architecture acoustiques
 Hiroshi Yoshimura et Inoyama Land ont également participé à la conception acoustique d'espaces architecturaux, d'équipements publics, de showrooms d'entreprise, etc., et l'accent a été mis sur la fonctionnalité de la musique et son influence sur l'espace.
@@ -223,7 +219,7 @@ Ses œuvres sont désormais disponibles dans les disquaires du monde entier.
 
 ## ● 5-2. Diffusion sur les sites de vidéos
 
-Grâce à l'algorithme de YouTube, le nombre de vues de « Green » et « Through the Looking Glass » a considérablement augmenté.  
+Grâce à l'algorithme de YouTube, le nombre de vues de « Green » et « Through the Looking Glass » a considérablement augmenté.
 Cela a créé une base d’auditeurs mondiale.
 
 ## ● 5-3. Influence sur la musique ambiante moderne
@@ -271,9 +267,9 @@ graph LR
 
 # **Chapitre 8 : Résumé - Pourquoi la musique environnementale japonaise captive le monde**
 
-La musique environnementale japonaise n’est pas seulement une « guérison » ou un « bruit de fond ».
+La musique environnementale japonaise n’est pas seulement une « guérison » ou un « fond sonore ».
 **Art sonore créé par la culture urbaine, le design et la philosophie de la vie**
-C'est vrai.
+C'est.
 
 - Espace intermédiaire entre art et musique
 - Réponse à l'urbanisation
@@ -285,7 +281,7 @@ Tous ces éléments étaient présents au Japon dans les années 1980.
 
 Le monde a réévalué
 **Non seulement la beauté de la musique elle-même, mais aussi la philosophie japonaise unique qu'elle contient**
-C'est vrai.
+C'est.
 
 La musique d’ambiance continue de revêtir de nouvelles significations partout dans le monde, et les œuvres des années 1980 qui lui ont donné naissance resteront probablement un fondement important de l’histoire de la musique.
 

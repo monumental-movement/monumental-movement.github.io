@@ -10,26 +10,27 @@ tags:
 - Industrial
 - UK Techno
 - Techno
-title: '[Chronique] Blawan : Le plaisir de l''acier et le corps au fond de la nuit
+title: '[Chronique] Blawan : Le plaisir de l''acier et le corps au fond de la nuit
   — Echoes of the Dreams of UK Techno'
 ---
 
 
 ## Prologue Rythme qui s'est développé à l'ombre des usines, du parfum persistant de l'industrie
 
-Texte : mmr｜Thème : À propos du rythme froid mais en quelque sorte humain de Blawan qui continue d'avoir ses racines dans l'underground britannique
 
-Autrefois, les zones industrielles du nord de l’Angleterre étaient remplies d’odeurs de vapeur et de métal.  
-Jamie Roberts – ou Blawan – a peut-être grandi en inhalant inconsciemment ses réverbérations.  
+Texte : mmr｜Thème : À propos du rythme froid mais en quelque sorte humain de Blawan qui continue d'avoir des racines dans l'underground britannique
+
+Autrefois, les zones industrielles du nord de l’Angleterre étaient remplies d’odeurs de vapeur et de métal.
+Jamie Roberts, ou Blawan, a peut-être grandi en inhalant inconsciemment ses réverbérations.
 La lignée de la musique électronique venue de Sheffield (Cabaret Voltaire, Warp Records, The Black Dog)
 Il fait écho à la fois au rythme du travail et à la respiration de la ville.
 
-Le rythme de Blawan a le son du martèlement du fer et la pression de l'air humide.  
-Ce n'est pas seulement de la techno, c'est aussi une renaissance de la mémoire industrielle.  
-Il est également symbolique qu’il ne soit pas basé à Londres ou à Berlin, mais qu’il continue d’avoir des racines dans l’underground britannique.  
+Le rythme de Blawan a le son du martèlement du fer et la pression de l'air humide.
+Ce n'est pas seulement de la techno, c'est aussi une renaissance de la mémoire industrielle.
+Il est également symbolique qu’il ne soit pas basé à Londres ou à Berlin, mais qu’il continue d’avoir des racines dans l’underground britannique.
 --Le son ne quitte pas la gravité du terrain.
 
-> Le rythme était froid et en quelque sorte humain.  
+> Le rythme était froid et en quelque sorte humain.
 > La musique de Blawan est un enregistrement de la « température corporelle » qui dort à l'intérieur de l'acier.
 
 ---
@@ -47,15 +48,16 @@ color: #fff;
 }
 </style>
 
+
 ## Chapitre 1 Histoire de fer à partir de Bohla
 
-"Bohla EP" est sorti par R&S Records en 2011.  
-Le rythme dur mais étrangement doux a apporté un « nouveau poids » au club.  
+"Bohla EP" est sorti par R&S Records en 2011.
+Le rythme dur mais étrangement doux a apporté un « nouveau poids » au club.
 C'est un son de club britannique qui tente de sortir du chaos du post-dubstep.
 C'était une « touche » récemment découverte.
 
-A cette époque, Blawan adorait les boîtes à rythmes Roland et les filtres analogiques.  
-**Saisissez le son du bout des doigts et des boutons**, pas dans une DAW.  
+A cette époque, Blawan adorait les boîtes à rythmes Roland et les filtres analogiques.
+**Saisissez le son du bout des doigts et des boutons**, pas dans une DAW.
 C'était la sensation physique de « jouer » des sons électroniques qui rendait son son aussi brûlant que le fer.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8xS0_gQumqc?si=7J7SZEqG8bgMGb1K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -64,18 +66,18 @@ C'était la sensation physique de « jouer » des sons électroniques qui rendai
 
 ## Chapitre 2 « Pourquoi ils cachent leur corps sous mon garage. » —— La frontière entre la peur et le plaisir
 
-En 2012, la scène mondiale des clubs a tremblé.  
-"Pourquoi cachent-ils leurs corps sous mon garage."
+En 2012, la scène mondiale des clubs a tremblé.
+"Pourquoi ils cachent leurs corps sous mon garage."
 Cette seule chanson a rendu le nom de Blawan définitif.
 
-Le titre est troublant.  
-L'échantillon vocal déformé ressemble à un fantôme gémissant dans un sous-sol.  
-Le rythme est lourd et se répète avec une ténacité qui confine à la folie.  
-Cependant, il y a un étrange ** "plaisir" ** en lui.  
+Le titre est troublant.
+L'échantillon vocal déformé ressemble à un fantôme gémissant dans un sous-sol.
+Le rythme est lourd et se répète avec une ténacité qui confine à la folie.
+Cependant, il y a un étrange ** "plaisir" ** en lui.
 Cela comprimait le corps de l'auditeur et en même temps le relâchait - c'était un moment de **peur et d'euphorie**.
 
 De nombreux DJ abandonnent ce morceau aux heures de pointe,
-L'étage du club aurait été plongé dans un moment de « violente euphorie ».  
+L'étage du club aurait été plongé dans un moment de « violente euphorie ».
 Cette chanson n'est pas qu'un hit,
 C'était un symbole de la renaissance des « sentiments sans émotions » dans la techno.
 
@@ -85,46 +87,46 @@ C'était un symbole de la renaissance des « sentiments sans émotions » dans
 
 ## Chapitre 3 Le corps de Karenn : résonance avec Pariah
 
-L'autre visage de Blawan est **Karenn**.  
-Le duo avec son allié Pariah (Arthur Cayzer) était plus un atelier qu'un studio.  
+L'autre visage de Blawan est **Karenn**.
+Le duo avec son allié Pariah (Arthur Cayzer) était plus un atelier qu'un studio.
 Il a fondé le label Sheworks et a fait une tournée en Europe avec des concerts impromptus avec du matériel.
 
-Un tas de câbles.  
-Une machine à rythme qui n'arrête pas de sonner.  
-La froideur des machines et la sueur des humains y cohabitaient.  
-Les performances live de Karenn s'apparentent plus à du « forgeage » qu'à de la « performance ».  
-Le bruit des coups d'acier, l'air chauffé et la chaleur corporelle du public.  
+Un tas de câbles.
+Une machine à rythme qui n'arrête pas de sonner.
+La froideur des machines et la sueur des humains y cohabitaient.
+Les performances live de Karenn s'apparentent plus à du « forgeage » qu'à de la « performance ».
+Le bruit des coups d'acier, l'air chauffé et la chaleur corporelle du public.
 L'espace d'un instant où tout se fond, la musique devient « substance ».
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Q9pAoVKzgs?si=SA69Tuk-tjIlFj2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Chapitre 4 Wet Will Always Dry——Un enregistrement d'émotions sans émotions
+## Chapitre 4 Wet Will Always Dry——Enregistrement d'émotions sans émotions
 
-En 2018, Blawan sort enfin un album complet, Wet Will Always Dry.  
+En 2018, Blawan sort enfin un album complet, Wet Will Always Dry.
 Comme le titre l'indique, **Mouillé, sec. **
 Ce que nous y voyons est un cycle incomplet des émotions humaines.
 
 "Insouciant" "Nord" "Stell"――
-Chaque chanson cache une légère chaleur sous sa froideur.  
-Au milieu du son métallique et sans expression, il y a des pauses occasionnelles qui ressemblent à une respiration.  
+Chaque chanson cache une légère chaleur sous sa froideur.
+Au milieu du son métallique et sans expression, il y a des pauses occasionnelles qui ressemblent à une respiration.
 Les émotions humaines imprègnent ce petit espace.
 
-Supprimez le son et ne laissez que la structure.  
+Supprimez le son et ne laissez que la structure.
 Au contraire, son stoïcisme fait ressortir « l'émotion » de Blawan.
 
 ---
 
 ## Chapitre 5 Un club sans corps – Blawan dans les années 2020
 
-Pendant la pandémie, les clubs sont restés silencieux.  
-Cependant, le son de Blawan change doucement.  
-Des morceaux comme « Under Belly » et « Toast » ont une sensation plus douce et plus introspective qu’auparavant.  
+Pendant la pandémie, les clubs sont restés silencieux.
+Cependant, le son de Blawan change doucement.
+Des morceaux comme « Under Belly » et « Toast » ont une sensation plus douce et plus introspective qu’auparavant.
 Le bruit du matériel semble plutôt doux.
 
-Même lorsque le club a fermé, le rythme de son corps n'a pas disparu.  
-Il a trouvé le « souffle humain » dans les synthés modulaires.  
+Même lorsque le club a fermé, le rythme de son corps n'a pas disparu.
+Il a trouvé le « souffle humain » dans les synthés modulaires.
 C’est le son paradoxal d’une époque où les appareils électroniques imitent les battements du cœur.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qKAYnyuUslo?si=jnnGGrcKtMNQTDoL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -133,15 +135,15 @@ C’est le son paradoxal d’une époque où les appareils électroniques imiten
 
 ## Chapitre 6 Les gens et la ville autour de Blawan
 
-Le son de Blawan n'appartient à aucun artiste en particulier.  
+Le son de Blawan n'appartient à aucun artiste en particulier.
 Des gènes industriels britanniques construits par Regis et Surgeon,
 Les rythmes violents de Paula Temple et Giant Swan,
-Et les particules délicates du Skee Mask.  
+Et les particules délicates du Skee Mask.
 Tout cela se reconstruit en lui.
 
-Plutôt que la stérilité de Berlin, je préfère l’humidité de Londres.  
-Utilisez la pression de votre paume plutôt que celle du numérique.  
-Blawan continue de choisir le **poids du terrain**.  
+Plutôt que la stérilité de Berlin, je préfère l’humidité de Londres.
+Utilisez la pression de votre paume plutôt que celle du numérique.
+Blawan continue de choisir le **poids du terrain**.
 C'est aussi une forme de résistance pour le club de continuer à être à nouveau un « lieu ».
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rXdtjC3rdWo?si=QyrvRPgBzNP1Tc9_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -150,17 +152,17 @@ C'est aussi une forme de résistance pour le club de continuer à être à nouve
 
 ## Chapitre 7 SickElixir — Le rythme de l'effondrement et de la renaissance de la cité sidérurgique
 
-Le dernier travail de Blawan ['SickElixir' (2025)] (https://www.amazon.co.jp/dp/B087B9MBK4) est une œuvre rare qui démantèle la structure de la techno mais qui fait quand même ressentir la présence de « l'humanité ». 
-Au milieu de bruits tourbillonnants et de distorsions, le rythme maintient son équilibre au bord de l'effondrement, et la voix perd son sens et se transforme en instrument.  
-La lumière qui brille avec « Rabbit Hole » et le torrent de basses profondes avec « NOS ».  
+Blawanの最新作[『SickElixir』（2025）](https://www.amazon.co.jp/dp/B087B9MBK4)は、テクノの構造を解体しながらも、なお“人間”の存在を感じさせる稀有な作品だ。 
+Au milieu de bruits tourbillonnants et de distorsions, le rythme maintient son équilibre au bord de l'effondrement, et la voix perd son sens et se transforme en instrument.
+La lumière qui brille avec « Rabbit Hole » et le torrent de basses profondes avec « NOS ».
 À chaque instant, le son de Blawan chevauche la frontière entre froideur et passion.
 
-En arrière-plan se trouve sa propre vie, y compris la perte d'amis et la lutte contre la dépendance.  
-Derrière les bruits mécaniques froids se cache le bruit respiratoire de la perte et de la renaissance.  
+En arrière-plan se trouve sa propre vie, y compris la perte d'amis et la lutte contre la dépendance.
+Derrière les bruits mécaniques froids se cache le bruit respiratoire de la perte et de la renaissance.
 Après avoir eu un impact avec «Pourquoi ils cachent leurs corps sous mon garage», il est arrivé après plus de 10 ans à «une prière qui demeure dans la destruction».
 
-A l'heure où la techno devient plus abstraite et où les clubs se fondent dans le monde numérique, Blawan ose faire revenir la « gravité ».  
-Le rythme qui coule dans les veines de la Steel City.  
+A l’heure où la techno devient plus abstraite et où les clubs se fondent dans le monde numérique, Blawan ose faire revenir la « gravité ».
+Le rythme qui coule dans les veines de la Steel City.
 Dans ce document, il demande doucement : le son peut-il encore être humain ? **
 
 ---
@@ -189,12 +191,12 @@ flowchart TD
 
 | Année | Titre | Étiquette | Lien |
 | ---- | ----------------------------------------------- | ----------- | ------------------------------------ |
-| 2011 | **Bohla EP** | Enregistrements R&S | [Amazon](https://www.amazon.co.jp/dp/B004Y3XL2Q) |
-| 2012 | **Pourquoi cachent-ils leurs corps sous mon garage.** | Doigt de charnière | [Amazon](https://www.amazon.co.jp/dp/B00A8F2R8S) |
-| 2013 | **Fonctionne les longues nuits** | Elle travaille | [Amazon](https://www.amazon.co.jp/dp/B00FGZSW5A) |
-| 2018 | **Mouillé sera toujours sec** | Ternesc | [Amazon](https://www.amazon.co.jp/dp/B07D8WWZ3J) |
-| 2020 | **Immulsion (Viens à moi en mix complet)** | Ternesc | [Amazon](https://www.amazon.co.jp/dp/B087B9MBK4) |
-| 2025 | **MaladeElixir** | XL | [Amazon](https://amzn.to/3W2BEbr) |
+| 2011 | **Bohla EP**                                    | R&S Records  | [Amazon](https://www.amazon.co.jp/dp/B004Y3XL2Q) |
+| 2012 | **Why They Hide Their Bodies Under My Garage.** | Hinge Finger | [Amazon](https://www.amazon.co.jp/dp/B00A8F2R8S) |
+| 2013 | **Works The Long Nights**                       | Sheworks     | [Amazon](https://www.amazon.co.jp/dp/B00FGZSW5A) |
+| 2018 | **Wet Will Always Dry**                         | Ternesc      | [Amazon](https://www.amazon.co.jp/dp/B07D8WWZ3J) |
+| 2020 | **Immulsion (Come To Me In Full Mix)**          | Ternesc      | [Amazon](https://www.amazon.co.jp/dp/B087B9MBK4) |
+| 2025 | **SickElixir**          | XL      | [Amazon](https://amzn.to/3W2BEbr) |
 
 
 ---
@@ -208,46 +210,46 @@ flowchart TD
 ---
 
 > "Quand j'ai entendu pour la première fois "Pourquoi ils cachent leur corps..."
-> Le club a eu l'impression d'être « figé » un instant.  
-> La peur et le plaisir viennent en même temps.  
+> Le club a eu l'impression d'être « figé » un instant.
+> La peur et le plaisir viennent en même temps.
 > Un camion comme celui-là arrive une fois tous les 10 ans. »
 > —— **Ben OVNI (Hessle Audio)**
 
 ---
 
 > ``Blawan a une bonne température dans son `` son dur ''.
-> C'est ce qui me différencie des autres.  
+> C'est ce qui me différencie des autres.
 > J'ai l'air de travailler dans une usine, mais je suis en fait poète. »
 > —— **Paria (Karenn)**
 
 ---
 
 > « Quand on entre dans son atelier, la première chose qu'on voit, c'est le silence.
-> Le silence avant d'allumer l'interrupteur est déjà chargé de rythme.  
+> Le silence avant d'allumer l'interrupteur est déjà chargé de rythme.
 > Cet espace lui-même est la « surface de frappe ». »
 > —— **Temple Paula**
 
 ---
 
 > « Quand je joue Blawan sur le site DJ,
-> Tout le monde se tient prêt un instant.  
-> Mais ensuite tu ris.  
+> Tout le monde se tient prêt un instant.
+> Mais ensuite tu ris.
 > Votre corps réagit tout seul. Ce n'est pas logique. »
 > —— **Objet**
 
 ---
 
 > « Je regardais le live de Karenn en marge,
-> J'avais l'impression d'être à l'intérieur d'une aciérie.  
-> On dirait des étincelles qui volent.  
+> J'avais l'impression d'être à l'intérieur d'une aciérie.
+> On dirait des étincelles qui volent.
 > Pourtant, les visages du public étaient en quelque sorte gentils. »
 > —— **Chirurgien (Anthony Child)**
 
 ---
 
 > « Alors que la culture du club se fond dans le numérique,
-> Blawan a retrouvé sa « gravité ».  
-> Le son tombe au sol.  
+> Blawan a retrouvé sa « gravité ».
+> Le son tombe au sol.
 >Je pense que c'est la chose la plus humaine à faire en ce moment. »
 > —— ** Tiré du commentaire de l'auteur de Resident Advisor **
 
@@ -260,8 +262,8 @@ flowchart TD
 ---
 
 > "Sa musique n'est pas 'inorganique'.
-> Il **joue** simplement un personnage inorganique.  
-> Le moment où l'auditeur sent qu'il y a une température là-bas.  
+> Il **joue** simplement un personnage inorganique.
+> Le moment où l'auditeur sent qu'il y a une température là-bas.
 >Il coupe le son pour ce moment. »
 > —— **Commentaire d'auteur musical/reconstruction**
 
@@ -273,12 +275,12 @@ flowchart TD
 Le son de Blawan est tantôt froid, tantôt rugueux.
 Cependant, au plus profond de nous, il y a certainement une « prière humaine ».
 L'acte de danser est un rituel pour « survivre » dans le bruit de la ville.
-"Pourquoi cachent-ils leurs corps sous mon garage." attire toujours les gens parce que
+"Pourquoi ils cachent leurs corps sous mon garage." attire toujours les gens parce que
 Parce qu’il y a à la fois de la peur et du soulagement.
 
 Un bruit comme de l'acier.
 Mais à chaque fois que je l’écoute, ma température monte.
-Blawan est un artiste dont le sang coule à travers le monde froid.
+Blawan est un artiste dont le sang coule à flot dans le monde froid.
 
 > "Le son est l'ombre du corps"
 >——Blawan (d'après une interview)
@@ -347,7 +349,7 @@ flowchart TD
 | Synthé de batterie | **Moog DFAM** | Percussions métalliques | Le cœur du « bruit industriel » de Blawan |
 | Chaîne FX | **Chaleur analogique / Miméophon / BigSky** | Ajustement des textures | Créez de l'espace avec drive et réverbération |
 | Mélangeur | **Mélangeur de performances WMD** | Construction en temps réel | Également utilisé pour Karenn live |
-| Enregistreur | **[RME Fireface](https://amzn.to/42yLG7Y) + [Ableton](https://amzn.to/4h6gGC9)** | Enregistrement final | Philosophie du « one-shot record » sans overdubs |
+| Recorder   | **[RME Fireface](https://amzn.to/42yLG7Y) + [Ableton](https://amzn.to/4h6gGC9)**           | 最終レコーディング  | オーバーダブせず“一発録り”哲学     |
 
 ---
 
@@ -363,11 +365,11 @@ Sa techno conserve donc une « instabilité humaine ».
 
 ### Post-scriptum
 
-Des basses lourdes résonnent dans la ville nocturne.  
+Des basses lourdes résonnent dans la ville nocturne.
 À une époque où tout le monde consomme du son sur son smartphone,
-Blawan tente de faire revivre le son du toucher.
+Blawan essaie de faire revivre le son du toucher.
 
-Il y a une chaleur humaine dans ce son d’acier.  
+Il y a une chaleur humaine dans ce son d’acier.
 Cette contradiction est la raison de son existence.
 
 > « Je crois à la techno.
@@ -378,12 +380,12 @@ Cette contradiction est la raison de son existence.
 
 ### Colonnes associées
 
-🔗 [[Chronique] L'âge d'or de la techno britannique](https://monumental-movement.jp/Column-90s-UKTechno)
+🔗 [【コラム】 UKテクノの黄金時代](https://monumental-movement.jp/Column-90s-UKTechno)
 
-🔗 [[Chronique] Des origines de la techno à nos jours - Une histoire chronologique retracée à travers des disques et équipements célèbres](https://monumental-movement.jp/Column-Techno-History)
+🔗 [【コラム】 テクノの発祥から現在まで ― 名盤と機材でたどる年代史](https://monumental-movement.jp/Column-Techno-History)
 
-🔗 [La généalogie et le présent de la Techno allemande - l'esthétique du son se propageant de Berlin au monde](https://monumental-movement.jp/Column-German-Techno)
+🔗 [ドイツ・テクノ（German Techno）の系譜と現在 ― ベルリンから世界へ広がる音の美学](https://monumental-movement.jp/Column-German-Techno)
 
-🔗 [[Chronique] Tresor - Le lieu sacré de la techno qui a changé le monde de l'underground à Berlin](https://monumental-movement.jp/Column-Tresor)
+🔗 [【コラム】 Tresor（トレゾア） ― ベルリン地下から世界を変えたテクノの聖地](https://monumental-movement.jp/Column-Tresor)
 
-🔗 [[Chronique] Detroit Techno : Danse humaine créée par le battement du cœur des machines](https://monumental-movement.jp/Column-Detroit-Techno)
+🔗 [【コラム】 デトロイト・テクノ(Detroit Techno)：機械の鼓動が生んだ人間のダンス](https://monumental-movement.jp/Column-Detroit-Techno)

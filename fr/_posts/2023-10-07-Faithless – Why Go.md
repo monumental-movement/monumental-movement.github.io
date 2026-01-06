@@ -21,14 +21,14 @@ title: Infidèle – Pourquoi y aller
 
 Faithless a produit de nombreuses chansons à succès dans les années 1990 et 2000, se produisant dans des clubs et des festivals du monde entier. Leur musique était dansante, mais contenait un message qui captivait les gens.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Why Go? (Ferry Corsten Remix)
 
 B. Why Go? (Lange Remix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m84616274474?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84616274474?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tdl5x0fX3vM?si=MGK2CNjKdJUPsXjX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

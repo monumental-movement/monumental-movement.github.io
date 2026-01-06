@@ -17,7 +17,7 @@ La Lassie Foundation était un groupe de shoegaze noise pop/dream pop de Los Ang
 
 Le membre Jeff Schroeder est devenu le guitariste des Smashing Pumpkins en 2007, en remplacement de James Iha.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Scapa Flow
 
@@ -42,7 +42,7 @@ B5. Bombers Moon
 B6. You Are Infinity
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m93678064417?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93678064417?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V-gNhgmXrb8?si=EkUUhhXwaLasBgYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

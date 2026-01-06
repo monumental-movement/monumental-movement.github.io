@@ -18,14 +18,14 @@ Un morceau de house progressive du DJ/producteur américain Pierre Cobbaert alia
 
 La face B est un remix du DJ/producteur Markus Schulz.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Fusing Love (Original)
 
 B. Fusing Love (Leeds & Schulz Remix) Remix – Markus Schulz
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m59349003998?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m59349003998?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qqn08DSjR9s?si=hA3dPVEBQtbgHsjR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

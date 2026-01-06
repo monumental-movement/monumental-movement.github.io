@@ -17,20 +17,21 @@ title: '[Chronique] Apocalypse des images et des sons : « Koyanisqatsi » et le
 
 ## Prologue : Ce que dit un film sans paroles
 
+
 Texte : mmr｜Thème : À propos du jalon artistique de la seconde moitié du XXe siècle, où vidéo et musique minimale ont fusionné
 
 "Koyanisqatsi, réalisé par Godfrey Reggio et mis en musique par Philip Glass, est une œuvre qui a fondamentalement changé les horizons du cinéma et de la musique dans la seconde moitié du XXe siècle."
 
-> « La vie déséquilibrée. »
+> « La vie déséquilibrée. »
 > ― Koyaanisqatsi (Hopi)
 
 
 
-En 1982, un long métrage documentaire insolite émerge de la scène cinématographique indépendante américaine.  
+En 1982, un long métrage documentaire insolite émerge de la scène cinématographique indépendante américaine.
 **Koyaanisqatsi** --Réalisé par **Godfrey Reggio**, musique de **Philip Glass**.
 
-Il n'y a ni narration ni dialogue dans ce film.  
-Ce qui est montré ne sont que des images de la nature et de la société humaine. Et ce qui les traverse, c'est la **musique minimale** de Glass.  
+Il n'y a ni narration ni dialogue dans ce film.
+Ce qui est montré ne sont que des images de la nature et de la société humaine. Et ce qui les traverse, c'est la **musique minimale** de Glass.
 Sa structure rythmique et son esthétique de la répétition, tout en résonnant avec le flux des images, décrivent la « transformation de la civilisation moderne » sous forme sonore.
 
 ---
@@ -52,23 +53,23 @@ color: #fff;
 
 ## Chapitre 1 : La poésie visuelle comme apocalypse
 
-Le titre du film, « Koyaanisqatsi », est un mot Hopi signifiant « la vie déséquilibrée ».  
+Le titre du film, « Koyaanisqatsi », est un mot Hopi signifiant « la vie déséquilibrée ».
 Reggio a présenté ce mot comme un symbole de la société industrielle et de l'information de la seconde moitié du XXe siècle.
 
-Dans la vidéo d'ouverture, une montagne rocheuse brun rougeâtre dominant la nature sauvage est montrée, et le **refrain grave « Koyaanisqatsi »** résonne dans le silence.  
+Dans la vidéo d'ouverture, une montagne rocheuse brun rougeâtre dominant la nature sauvage est montrée, et le **refrain grave « Koyaanisqatsi »** résonne dans le silence.
 Finalement, les bruits des machines de la civilisation humaine, l'agitation de la ville et l'accélération de la société de consommation commencent à se chevaucher pour former un rythme.
 
-> Naturel et artificiel. Silence et surpopulation. lumière et vitesse.  
+> Naturel et artificiel. Silence et surpopulation. lumière et vitesse.
 > Ce film est une série de contrastes, et c'est le message.
 
 ---
 
 ## Chapitre 2 : La construction sonore de Philip Glass
 
-La musique de Glass est basée sur la répétition, mais ce n'est pas seulement de la répétition.  
+La musique de Glass est basée sur la répétition, mais ce n'est pas seulement de la répétition.
 La superposition de changements infimes crée une **"différence entre l'immobilité et le mouvement"**.
 
-Sa partition est précisément synchronisée avec les montages et le tempo des images, comme si les images avaient été montées en musique.  
+Sa partition est précisément synchronisée avec les montages et le tempo des images, comme si les images avaient été montées en musique.
 En fait, le processus de production de Reggio et Glass impliquait un montage dans lequel les images et les sons se faisaient écho.
 
 > "J'ai édité la musique et composé la vidéo."
@@ -78,10 +79,10 @@ En fait, le processus de production de Reggio et Glass impliquait un montage dan
 
 ## Chapitre 3 : Contexte de production et défis techniques
 
-Le directeur de la photographie Ron Fricke est également un poète visuel qui a ensuite travaillé sur « Baraka » et « Samsara ».  
+Le directeur de la photographie Ron Fricke est également un poète visuel qui a ensuite travaillé sur « Baraka » et « Samsara ».
 La technique de photographie accélérée/ralenti qu’il a développée était encore rare à l’époque.
 
-Le film a commencé comme une production totalement indépendante, sans soutien de l’État ou des entreprises.  
+Le film a commencé comme une production totalement indépendante, sans soutien de l’État ou des entreprises.
 Il convient également de noter qu'en raison de difficultés financières, un processus inverse a été adopté, dans lequel seule la musique était d'abord terminée, puis la vidéo était montée.
 
 ---
@@ -116,16 +117,16 @@ Reggio est également une figure spirituelle ayant vécu dans un monastère, et 
 
 ---
 
-## Chapitre 5 : La relation de correspondance entre composition vidéo et musique
+## Chapitre 5 : La relation entre la composition vidéo et la musique
 
 | Scène | Motif musical | Signification/effet |
 | ----------- | -------- | ---------- |
 | Nature sauvage et lancement de fusée | Son d'orgue soutenu | Contraste entre la vie et la machine |
 | Transports urbains/usines | Répétition de séquences | Cycle de travail sans fin |
-| Gros plan du visage | Chorus et décélération | Questions sur la restauration de l'humanité |
+| Gros plan du visage | Chorus et décélération | Questions sur le rétablissement de l'humanité |
 | Fusée qui s'effondre | Silence et décadence | Fin de la civilisation et renaissance |
 
-Comme le montre ce tableau, la musique n'est pas seulement un accompagnement, mais construit la « syntaxe émotionnelle » de la vidéo.
+Comme le montre ce tableau, la musique n'est pas seulement un accompagnement, mais construit la « syntaxe émotionnelle » de l'image.
 
 ---
 
@@ -165,7 +166,7 @@ D -->|再生・瞑想| A
 Technique de composition du verre, « Additive Process »,
 Il a une structure dans laquelle le nombre de notes augmente ou diminue progressivement au sein d'une phrase.
 
-Exemple :
+exemple:
 `123 → 1234 → 12345 → 2345 → 345`
 
 Ces changements infimes créent l’illusion du temps, dans lequel l’objet se déplace même s’il est immobile.
@@ -199,11 +200,11 @@ Il ne s’agit pas d’un effondrement de la civilisation, mais d’un espace vi
 
 ## Références/Discographie
 
-* Philip Glass: *Koyaanisqatsi (Original Motion Picture Soundtrack)*, 1983.
-* Godfrey Reggio: *Koyaanisqatsi* (film), 1982.
-* Philip Glass: *Words Without Music* (Memoir), 2015.
-* Michael Nyman: *Experimental Music: Cage and Beyond*, 1974.
-* Ron Fricke: *Baraka*, 1992 / *Samsara*, 2011.
+* Philip Glass : *Koyaanisqatsi (Bande originale du film)*, 1983.
+* Godfrey Reggio : *Koyaanisqatsi* (film), 1982.
+* Philip Glass : *Mots sans musique* (Mémoire), 2015.
+* Michael Nyman : *Musique expérimentale : Cage et au-delà*, 1974.
+*Ron Fricke : *Baraka*, 1992 / *Samsara*, 2011.
 
 ---
 

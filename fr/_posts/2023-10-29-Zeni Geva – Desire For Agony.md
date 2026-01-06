@@ -33,26 +33,26 @@ Tatsuya Yoshida – batterie, chant
 
 #### Liste des chansons
 ```md
-A1. Stigmatisation = stigmatisation
+A1. Stigma = スティグマ
 
-A2. Soleil levant mort = Soleil levant mort
+A2. Dead Sun Rising = デッドサンライジング
 
-A3. Désir d'agonie = orientation vers la douleur
+A3. Desire For Agony = 苦痛志向
 
-A4. Sang de bruyère
+A4. Heathern Blood = ヒーズンブラッド
 
-A5. Pays de la disgrâce = Pays de la disgrâce
+A5. Disgraceland = ディスグレイスランド
 
-B1. Voile blanc = Voile blanc
+B1. Whiteout = ホワイトアウト
 
-B2. Morsure d'amour
+B2. Love Bite = ラヴバイト
 
-B3. Amour d'autopsie = Amour d'autopsie
+B3. Autopsy Love = オートプシィラブ
 
-B4. Le corps = Le corps
-````
+B4. The Body = ザ ボディー
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m93829720298?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93829720298?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B2GSmBIqj2k?si=zrdl_IbSvKyJ4a8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

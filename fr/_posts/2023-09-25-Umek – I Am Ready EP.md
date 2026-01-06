@@ -19,14 +19,14 @@ Cet EP est rempli du son techno caractéristique d'Umek, avec des rythmes dansan
 
 "I Am Ready EP" est la dernière expression de la musique d'Umek pour les fans d'Umek et les amateurs de musique techno, leur permettant d'apprécier pleinement le charme et le caractère unique de la musique d'Umek. Son son a contribué à l'évolution et à l'innovation de la musique techno et est devenu un élément essentiel dans la vie de nombreuses personnes.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. I Am Ready
 
 B1. Music Ventilator
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m16340275000?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m16340275000?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H9qKpbQXzfA?si=jsDAkeWH0jFXQ4Sn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

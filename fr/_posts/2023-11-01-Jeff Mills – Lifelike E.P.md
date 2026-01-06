@@ -26,7 +26,7 @@ Cet EP est une introduction très forte avec ses thèmes musicaux inquiétants, 
 
 Incontournable pour tout fan de Jeff Mills, il s'agit d'un disque spécial qui couvre de nombreux thèmes très variés de l'œuvre de Jeff Mills, tout en exprimant les résultats uniques et puissants de chaque chanson individuelle.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Condor To Mallorca
 
@@ -37,7 +37,7 @@ B1. Detached
 B2. Black Avenger
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m92521663560?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m92521663560?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t4ivGriR6C0?si=C73VaW_-Z9fWtKHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

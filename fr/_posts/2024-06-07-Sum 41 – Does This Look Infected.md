@@ -18,9 +18,9 @@ title: Somme 41 – Cela semble-t-il infecté ?
 
 "Does This Look Infected?", sorti en 2002, est le deuxième album studio de Sum41.
 
-Cet album contient moins d'éléments de musique pop que leur premier album, « All Killer No Filler », et a un style plus sombre et plus lourd, avec des éléments de heavy metal, d'horreur punk, de punk rock, de pop punk, de hardcore mélodique, de punk hardcore, de thrash metal et de D-beat.
+Cet album contient moins d'éléments de musique pop que leur premier album, « All Killer No Filler », et a un style plus sombre et plus lourd, avec des éléments de heavy metal, d'horreur punk, de punk rock, de pop punk, de hardcore mélodique, de punk hardcore, de thrash metal et de D-beat.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. The Hell Song
 2. Over My Head (Better Off Dead)
@@ -36,7 +36,7 @@ Cet album contient moins d'éléments de musique pop que leur premier album, « 
 12. Hooch
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m40524992511?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40524992511?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qO-mSLxih-c?si=8CFdT8kN6vvHHVyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

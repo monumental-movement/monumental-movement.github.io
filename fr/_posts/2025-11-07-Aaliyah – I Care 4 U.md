@@ -16,7 +16,7 @@ title: Aaliyah - Je m'en soucie 4 U
 
 Après la mort d'Aaliyah le 25 août 2001, un album de compilation avec DVD est sorti en 2002, contenant huit de ses premiers succès et six chansons inédites des sessions de son dernier album studio (2001).
 
-#### Tracklist
+#### Liste des chansons
 ```md
 CD-1. Back And Forth
 CD-2. Are You That Somebody
@@ -46,7 +46,7 @@ DVD-10. Japanamation Commercial
 DVD-11. Aaliyah Behind The Scenes
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m65054220227?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m65054220227?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c13e861913o?si=Udu-qMdZOxaOxx5i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

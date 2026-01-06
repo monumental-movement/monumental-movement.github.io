@@ -19,7 +19,7 @@ Ella Fitzgerald était une chanteuse de jazz américaine également connue sous 
 
 Au cours d'une carrière de près de 60 ans, Ella Fitzgerald a reçu des distinctions dont 14 Grammy Awards, le National Arts Award, le premier President's Award de la NAACP et la Presidential Medal of Freedom.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Love Is Here To Stay
 2. I Got Rhythm
@@ -39,7 +39,7 @@ Au cours d'une carrière de près de 60 ans, Ella Fitzgerald a reçu des distinc
 16. Shall We Dance
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m45583200877?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m45583200877?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fSTkz1BvrXY?si=i_4bTuPGvRYKOgcd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

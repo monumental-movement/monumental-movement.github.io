@@ -28,7 +28,7 @@ Leur musique se caractérise par un son expérimental qui incorpore des élémen
 
 C'est un album intéressant pour ceux qui veulent profiter de la musique de Buffalo Daughter. Leur style sonore unique et leur expérimentation musicale créeront une expérience fascinante pour les fans de musique alternative et les chercheurs de musique.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Great Five Lakes (Kut Masta Kurt Mix)
 
@@ -47,7 +47,7 @@ B3. Jellyfish Blues (Scratch Pet Land Mix)
 B4. Super Blooper (Remix Live From Lee's Palace, Toronto)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m96206628423?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m96206628423?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fu3Rm1g3wnY?si=X83Plhivo9HSub2F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

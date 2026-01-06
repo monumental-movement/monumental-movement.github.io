@@ -17,7 +17,7 @@ title: Orquesta De La Luz – De La Luz
 
 La première chanson, Salsa caliente del Japón (Hot Salsa du Japon), a passé 11 semaines au numéro un du palmarès latin du Billboard.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Salsa Caliente Del Japon
 
@@ -40,7 +40,7 @@ La première chanson, Salsa caliente del Japón (Hot Salsa du Japon), a passé 1
 10. There's Nothing Better Than Love
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m99958650751?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m99958650751?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gXdBszUca9o?si=RnCcmmMUHsoz-jSV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -17,6 +17,7 @@ title: '[Chronique] Trois Soleils et la magie de l''accordéon - une fable acous
 
 ## Prologue : Trois soleils résonnent dans le salon au crépuscule
 
+
 Texte : mmr｜Thème : Exploration du paysage sonore de l'Amérique d'après-guerre dessiné par un trio accordéon, guitare et orgue
 
 Une douce mélodie retentit à la radio. Ce qui sonnait là-bas, c'était **Trois Soleils**――
@@ -43,6 +44,7 @@ color: #fff;
 }
 </style>
 
+
 ## Chapitre 1 : Le phénomène des Trois Soleils - Musique pour la maison
 
 Three Suns a été formé en 1940 par les frères de Pennsylvanie **Al Nevins (guitare)**, **Morty Nevins (accordéon)** et leur cousin **Artie Dunn (orgue)**.
@@ -54,18 +56,18 @@ On peut dire que cette chanson a donné naissance au concept de « musique famil
 > Comme le symbolise cette phrase, leur musique créait une atmosphère de « nuit ».
 
 Le son de l’accordéon est lié à la nostalgie des soldats revenant du champ de bataille.
-La guitare et l'orgue l'enveloppent délicatement.  
+La guitare et l'orgue l'enveloppent délicatement.
 Ce son était une « lumière sonore » qui réchauffait le microcosme de la maison.
 
 ---
 
 ## Chapitre 2 : Le rôle de l'accordéon – Un joli cœur expérimental
 
-L'accordéon de Morty Nevins n'était pas seulement un accompagnement, c'était un créateur de mélodie et d'espace.  
-Le lead bouge comme une diapositive, le soufflet bouge comme une respiration et le tempo fluctue légèrement.  
+L'accordéon de Morty Nevins n'était pas seulement un accompagnement, c'était un créateur de mélodie et d'espace.
+Le lead bouge comme une diapositive, le soufflet bouge comme une respiration et le tempo fluctue légèrement.
 Ceux-ci créent la **sentiment unique de flottement et de bonheur** de Three Suns.
 
-Dans les années 1950, ils signent un contrat avec RCA et publient une série d'œuvres expérimentales intégrant l'enregistrement magnétique et la technologie stéréo.  
+Dans les années 1950, ils signent un contrat avec RCA et publient une série d'œuvres expérimentales intégrant l'enregistrement magnétique et la technologie stéréo.
 "Movin' 'n' Groovin'" (1956), "Midnight for Two" (1957), etc.
 Il avait une sophistication sonore qui pourrait être qualifiée de **``musique électronique de salon''**.
 
@@ -76,11 +78,11 @@ Il avait une sophistication sonore qui pourrait être qualifiée de **``musique 
 
 ## Chapitre 3 : Lounge Culture et Trois Soleils – Intériorisation du Son
 
-À la fin des années 1950, la société américaine est entrée dans une ère de richesse et de désir de « détente ».  
-Mobilier moderne, cocktails et chaîne hi-fi.  
+À la fin des années 1950, la société américaine est entrée dans une ère de richesse et de désir de « détente ».
+Mobilier moderne, cocktails et chaîne hi-fi.
 Et une musique comme Three Suns jouait en arrière-plan.
 
-Leur musique a été optimisée pour les espaces intérieurs des maisons, et non pour les clubs ou les théâtres.  
+Leur musique a été optimisée pour les espaces intérieurs des maisons, et non pour les clubs ou les théâtres.
 C'était vraiment du **design intérieur du son**.
 
 ### Mots clés de la culture lounge à l'époque
@@ -96,20 +98,20 @@ C'était vraiment du **design intérieur du son**.
 
 ## Chapitre 4 : Disparition et réévaluation de l'accordéon
 
-Dans les années 1960, avec l’essor du rock and roll, l’accordéon est rapidement considéré comme un « vieil instrument ».  
+Dans les années 1960, avec l’essor du rock and roll, l’accordéon est rapidement considéré comme un « vieil instrument ».
 Three Suns a progressivement disparu et Al Nevins s'est tourné vers la production.
 
-Cependant, au 21ème siècle, leurs enregistrements ont regagné l'attention avec la réévaluation d'Exotica et Lounge.  
+Cependant, au 21ème siècle, leurs enregistrements ont regagné l'attention avec la réévaluation d'Exotica et Lounge.
 En particulier, le son de l'accordéon a été redéfini comme un « son électronique organique » antérieur aux synthétiseurs analogiques.
 
 > L'accordéon est un symbole de nostalgie,
-> Réincarné en "futur son lo-fi et psychédélique".
+> Réincarné en « son futur lo-fi et psychédélique ».
 
 ---
 
 ## Chapitre 5 : Réinterprétations modernes - De Trois Soleils à Lo-fi Chill
 
-En écoutant Three Suns sur YouTube ou Spotify, leur son chaleureux semble être à l'origine du **Lo-fi Chill Hop** et du **Bedroom Pop** des temps modernes.  
+En écoutant Three Suns sur YouTube ou Spotify, leur son chaleureux semble être à l'origine du **Lo-fi Chill Hop** et du **Bedroom Pop** des temps modernes.
 Le « ma », où la densité du son est mince et existe comme l'air, était le précurseur de la musique numérique.
 
 ### Successeurs modernes
@@ -142,6 +144,7 @@ timeline
 
 
 ---
+
 
 ## Conclusion : L'accordéon est toujours vivant
 

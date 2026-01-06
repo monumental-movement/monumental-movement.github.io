@@ -26,21 +26,21 @@ En 2021, il reprend les activités sous le nom de FreeTEMPO pour la première fo
 
 #### Liste des chansons
 ```md
-1. Toi et moi (feat. Norihide Ogurisu)
-2.Birds (feat.arvin homa aya)
-3. Fleurs (feat. Natori Kaori)
-4. Sunshine (feat. Bird)
-5.Pluie
-6. Arbres (feat. Norihide Ogurisu)
-7. Rêver (feat. Nagami Miyahara)
-8. Brésil (feat. Kaleido/Kaleidoscopio)
-9. Étoiles (feat. Mizunomari)
-10.Lune
-11. Kindly (feat.Another Side & Mizunomari)
-12.Sons
-````
+1. You And Me (feat.小栗栖憲英)
+2. Birds (feat.arvin homa aya)
+3. Flowers (feat.名取香り)
+4. Sunshine(feat.Bird)
+5. Rain
+6. Trees (feat.小栗栖憲英)
+7. Dreaming (feat.宮原永海)
+8. Brazil (feat.Kaleido/Kaleidoscopio)
+9. Stars (feat.ミズノマリ)
+10. Moon
+11. Kindly (feat.Another Side & ミズノマリ)
+12. Sounds
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m50405344803?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m50405344803?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pdzo4ariC1Q?si=0spyPgnN5Iie-62l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

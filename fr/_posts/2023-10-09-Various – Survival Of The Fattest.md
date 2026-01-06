@@ -16,7 +16,7 @@ title: Divers – Survie du plus gros
 « La survie du plus gros » est
 Il s'agit d'un album de compilation publié par le label "Fat Wreck Chords" en 1996.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Hi-Standard–California Dreaming
 
@@ -53,7 +53,7 @@ B7. Snuff –Walk
 B8. Me First And The Gimme Gimmes–Country Roads
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m86970828698?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86970828698?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MVVNMY9_AuA?si=296VfgNbZFATOygN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

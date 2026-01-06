@@ -22,7 +22,7 @@ Le deuxième morceau de la face A est un remix du musicien et producteur électr
 
 La face B est un remix de Deekline & Wizard, une collaboration entre le DJ et producteur britannique de break électro DJ Dee Kline (Nicholas Annand) et Wizard (Greg Fleming).
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. My My My (We Deliver 001 Remix)
 
@@ -31,7 +31,7 @@ A2. My My My (Cagedbaby Pace Remix)
 B1. My My My (Deekline & Wizard Vocal Featuring Yolanda)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m51538430865?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m51538430865?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b7BKUJZ2rjI?si=Jqd6uLcvkDcxc7xE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -44,11 +44,12 @@ color: #fff;
 }
 </style>
 
+
 # Contexte historique et origine
 
 ## Début de la techno et du synthétiseur analogique
 
-Dans les années 1970, les synthétiseurs modulaires développés par Robert Moog, ARP et d'autres offraient de nouvelles possibilités pour la production musicale. Ces synthés étaient révolutionnaires dans la mesure où ils permettaient la connexion individuelle de modules de sources sonores, de filtres, de LFO, de générateurs d'enveloppe, etc., et la possibilité de construire librement des structures sonores.
+Dans les années 1970, les synthétiseurs modulaires développés par Robert Moog, ARP et d'autres offraient de nouvelles possibilités pour la production musicale. Ces synthés étaient révolutionnaires dans la mesure où ils permettaient la connexion individuelle de modules de sources sonores, de filtres, de LFO, de générateurs d'enveloppe, etc., ainsi que la possibilité de construire librement des structures sonores.
 
 Au début des années 1980, Juan Atkins, Derrick May, Kevin Saunderson et d'autres ont fondé la musique électronique appelée « techno » à Détroit. La première Techno de Detroit était principalement basée sur des séquenceurs et des machines à rythmes, mais les sons chauds et les techniques de séquençage complexes propres aux synthés analogiques sont devenus un pont vers la Techno Modulaire ultérieure.
 
@@ -61,9 +62,9 @@ graph TD
 
 ## Evolution des synthés modulaires
 
-Dans les années 1990, des modules hybrides analogiques/numériques de Roland, Korg, Doepfer et d'autres sont apparus, abaissant les barrières liées à l'utilisation de synthétiseurs modulaires et permettant à de nombreux artistes de créer des sons expérimentaux dans leurs home studios ou leurs petits clubs.
+Dans les années 1990, des modules hybrides analogiques/numériques de Roland, Korg, Doepfer et d'autres sont apparus, abaissant les barrières liées à l'utilisation de synthétiseurs modulaires et permettant à de nombreux artistes de créer des sons expérimentaux dans leurs studios ou petits clubs.
 
-Surtout depuis 1995, le standard Eurorack proposé par Doepfer a rendu les modules compatibles et compacts, facilitant ainsi la construction d'ensembles modulaires par les particuliers. Cela conduit directement à l’expansion de la scène Modular Techno à partir des années 2000.
+Depuis 1995 notamment, le standard Eurorack proposé par Doepfer a rendu les modules compatibles et compacts, facilitant ainsi la construction d'ensembles modulaires par les particuliers. Cela conduit directement à l’expansion de la scène Modular Techno à partir des années 2000.
 
 <div class="mermaid">
 timeline
@@ -90,17 +91,18 @@ graph LR
 
 ---
 
+
 # Artistes et œuvres représentatifs
 
 Lorsqu'on parle du genre Modular Techno, ce qui est particulièrement important est de savoir qui utilise les synthés modulaires, comment ils sont utilisés et quel type d'œuvres et de performances ils ont utilisés pour façonner la scène. Ici, nous nous concentrerons sur des artistes représentatifs reconnus internationalement et organiserons leurs styles et leurs approches live en fonction de faits.
 
-## Surgeon（Anthony Child）
+## Chirurgien (Anthony Child)
 
 Surgeon, d'origine britannique, est connu comme l'un des premiers artistes à introduire les synthés modulaires dans la tendance techno-industrielle. Depuis les années 2010, ses sets live sont construits autour de modules Eurorack, établissant un style caractérisé par une « génération sonore complètement improvisée » plutôt que par la lecture de pistes. Ses compositions live progressent grâce à une combinaison de changements de tonalité grâce à des changements de patch et à la génération de rythme à l'aide d'un séquenceur, permettant au public d'expérimenter les changements physiques de rythme et de bruit en temps réel.
 
 ## Ø [Phase]
 
-Ø [Phase], dont le travail se concentre sur une esthétique sonore minimale et stoïque dans la techno, utilise activement des synthés modulaires en studio et en production live. Il se caractérise particulièrement par son approche complexe de modulation de phase et l'introduction d'éléments de type drone qui utilisent des boucles de rétroaction, et a été félicité pour donner un mouvement organique à la techno minimale.
+Ø [Phase], dont le travail se concentre sur une esthétique sonore minimale et stoïque au sein de la techno, utilise activement des synthés modulaires en studio et en production live. Il se caractérise particulièrement par son approche complexe de modulation de phase et l'introduction d'éléments de type drone qui utilisent des boucles de rétroaction, et a été félicité pour donner un mouvement organique à la techno minimale.
 
 ## Richie Hawtin
 
@@ -201,11 +203,11 @@ Cette « culture du bricolage » correspond à l'esprit DIY de la techno et est 
 
 # Caractéristiques musicales et analyse
 
-Modular Techno présente plusieurs caractéristiques acoustiques et structurelles communes. Ci-dessous, nous classerons les éléments typiques et expliquerons quelles fonctions ils jouent dans le cadre techno.
+Modular Techno présente plusieurs caractéristiques acoustiques et structurelles communes. Ci-dessous, nous classifierons les éléments typiques et expliquerons quelles fonctions ils jouent dans le cadre techno.
 
 ## 1. « Fluctuations » du rythme et changements stochastiques
 
-La techno traditionnelle est centrée sur un rythme 4/4 régulier. D'un autre côté, les synthétiseurs modulaires utilisent souvent des séquenceurs stochastiques qui modifient les valeurs à chaque étape.
+La techno traditionnelle est centrée sur un rythme 4/4 régulier. D'un autre côté, les synthés modulaires utilisent souvent des séquenceurs stochastiques qui changent de valeurs à chaque étape.
 - Un charley légèrement différent à chaque fois
 - Attaque de base aléatoire
 - Modulation qui s'écarte de la grille rythmique
@@ -293,7 +295,7 @@ graph LR
 
 # résumé
 
-La Techno Modulaire est un genre extrêmement unique et innovant formé par l'intersection de la liberté des synthés modulaires et de la structure rythmique de la techno. La technologie, la culture, le son et la performance sont étroitement liés de manière complexe et continuent d’évoluer et de se développer dans le monde entier.  
+La Techno Modulaire est un genre extrêmement unique et innovant formé par l'intersection de la liberté des synthés modulaires et de la structure rythmique de la techno. La technologie, la culture, le son et la performance sont étroitement liés de manière complexe et continuent d’évoluer et de se développer dans le monde entier.
 À la base de tout cela se trouve la joie la plus fondamentale de la musique électronique : « manipuler le moment où un son est créé en direct ».
 
 
@@ -309,7 +311,7 @@ Ce qui suit est une compilation de catégories d'équipements souvent utilisées
 - Instruments mutables – Tresses
 - Erica Synths – VCO graphique
 - Verbos Electronics – Oscillateur complexe
-- Tiptop Audio – Z3000
+- Tiptop Audio-Z3000
 
 ## VCF (filtre)
 - Doepfer – Filtre à guêpes A-124
@@ -338,7 +340,7 @@ Ce qui suit est une compilation de catégories d'équipements souvent utilisées
 - Tiptop Audio – Série de batterie 808/909
 -Jomox-ModBase 09
 
-## Effets (Delay / Reverb / Distorsion)
+## Effets (Délai / Réverbération / Distorsion)
 - Strymon – Magnéto
 - Erica Synths – Trou noir DSP
 - Ingénierie du bruit – Desmodus Versio
@@ -359,15 +361,15 @@ Ce qui suit est une compilation de catégories d'équipements souvent utilisées
 
 L'artiste techno britannique Blawan utilise des modules Eurorack pour combiner une forme sonore brute dans ses sons techno durs et épais. Il dit que, surtout dans son style de production depuis les années 2010, la distorsion des synthés modulaires et le traitement de type percussion sont devenus des caractéristiques majeures de son travail.
 
-## Karenn（Blawan & Pariah）
+## Karenn (Blawan et Paria)
 
 Une unité live basée sur le matériel qui fonctionne en combinant des boîtes à rythmes et des équipements modulaires. Bien qu'il ne soit pas entièrement modulaire, il partage une esthétique similaire à Modular Techno en ce sens qu'il intègre des modules de batterie/analogiques contrôlés par CV dans sa performance live.
 
-## Surgeon & Daniel Bean（Live）
+## Chirurgien & Daniel Bean (Live)
 
 La performance live du duo Surgeon avec Daniel Bean se caractérise par une approche dans laquelle les deux construisent un système modulaire à grande échelle qui continue de générer du son en temps réel. Leur set live, qui combine rythme techno et improvisation, est considéré comme un exemple typique de performance live modulaire.
 
-## Ancient Methods
+## Méthodes anciennes
 
 Tout en développant une techno avec un fort ton industriel/EBM, il introduit également le traitement de la distorsion et du bruit à l'aide de modules analogiques lors de performances live. La modularité est souvent utilisée comme source de textures dures.
 

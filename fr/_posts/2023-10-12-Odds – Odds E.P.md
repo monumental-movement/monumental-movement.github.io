@@ -17,14 +17,14 @@ Odds est un projet de musique gore-trance psychédélique de Kris Kylven et Ben 
 
 "Cotes EP" est un morceau gore-trance sorti en 1995 par le label britannique Flying Rhino Records.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Flying + To The Sky
 
 AA. Umbellikilisis
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m90557219720?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m90557219720?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wGcUx636uYY?si=2ESQoyvAI5ve7VgE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

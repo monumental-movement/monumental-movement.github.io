@@ -13,9 +13,12 @@ title: '[Chronique] Tribal House — Du rythme « primitif » à la fusion moder
 ---
 
 
+
 ## Qu'est-ce que la Maison Tribale ?
 
+
 Texte : mmr｜Thème : Maison tribale qui intègre des instruments de percussion à plusieurs niveaux tels que la musique africaine/latine (congas, bongos, etc.) pour loger quatre personnes au sol.
+
 
 Tribal House est un sous-genre qui combine le quatre-on-the-floor de la house avec des instruments de percussion à plusieurs niveaux tels que la musique africaine/latine (congas, bongos, etc.). Il se caractérise par une structure expérientielle qui met l'accent sur les percussions et s'est développé avec des liens profonds avec les formats de club et la culture DJ.
 
@@ -32,32 +35,32 @@ Tribal House est un sous-genre qui combine le quatre-on-the-floor de la house av
 - Au début, le montage en direct à l'aide de disques et de platines était courant.
 
 **Outils représentatifs (à l'époque)**
-- Platine vinyle : série <a href="https://en.wikipedia.org/wiki/Technics_SL-1200">Technics SL-1200</a> (standard dans le domaine).
-- Boîtes à rythmes/samplers : les premiers échantillonneurs tels que la série TR de Roland (TR-909/TR-808, etc.) et Akai sont devenus la source de matériel pour les grosses caisses et les percussions (l'histoire du TR-909 peut être trouvée ici <a href="https://en.wikipedia.org/wiki/Roland_TR-909">ici</a>).
+- ターンテーブル：<a href="https://en.wikipedia.org/wiki/Technics_SL-1200">Technics SL-1200</a> 系（現場の標準）。
+- ドラム・マシン／サンプラー：RolandのTRシリーズ（TR-909／TR-808 等）やAkai等の初期サンプラーが、キックやパーカッションの素材源になりました（TR-909の歴史は <a href="https://en.wikipedia.org/wiki/Roland_TR-909">こちら</a>）。
 
 ---
 
 ## Maturité et boom (1994-2000)
 
 **Contexte de l'époque**
-Au milieu des années 90, apparaissent des labels et des compilations qui repoussent les limites du genre. En particulier, <strong>TRIBAL America</strong> des États-Unis a grandement contribué à la formation de la scène (Informations sur le label : <a href="https://www.discogs.com/label/943-TRIBAL-America">Discogs — TRIBAL America</a>).
+90年代半ばにはジャンルの輪郭を押し出すレーベルやコンピが登場します。特に米国発の<strong>TRIBAL America</strong>などがシーン形成に大きく寄与しました（レーベル情報：<a href="https://www.discogs.com/label/943-TRIBAL-America">Discogs — TRIBAL America</a>）。
 
 **Œuvres/personnes représentatives**
-- Danny Tenaglia — <a href="https://www.discogs.com/master/75189-Danny-Tenaglia-Tourism">Tourisme (1998)</a> : Un album important d'expression tribale orientée club.
-- Deep Dish — <a href="https://en.wikipedia.org/wiki/Junk_Science_(album)">Junk Science (1998)</a> : bien qu'il penche vers le rock progressif, il est considéré comme une œuvre qui se connecte au sentiment de club des années 90.
+- Danny Tenaglia — <a href="https://www.discogs.com/master/75189-Danny-Tenaglia-Tourism">Tourism (1998)</a>：クラブ寄りのトライバル表現をアルバム化した重要作。
+- Deep Dish — <a href="https://en.wikipedia.org/wiki/Junk_Science_(album)">Junk Science (1998)</a>：プログレ寄りだが90年代のクラブ感と接続する作品として参照される。
 
 **Caractéristiques musicales**
 - Améliorez l'expérience au sol avec des congas et des percussions superposées, des combinaisons de basses et de coups de pied puissants, ainsi que de longues compositions répétitives.
 
 **Équipement/Production**
-- L'accent était mis sur l'échantillonnage avec du matériel (tel que l'Akai MPC) et la superposition de boîtes à rythmes analogiques/numériques (voir <a href="https://en.wikipedia.org/wiki/Akai_MPC">Akai MPC — Wikipedia</a> pour l'histoire de la famille Akai MPC).
+- ハードウェア（Akai MPCなど）によるサンプリングと、アナログ/デジタルドラムマシンのレイヤーが中心でした（Akai MPC 系の歴史は <a href="https://en.wikipedia.org/wiki/Akai_MPC">Akai MPC — Wikipedia</a> を参照）。
 
 ---
 
 ## Transformation et commercialisation (années 2000)
 
 **Contexte de l'époque**
-Dans les années 2000, les éléments tribaux ont fusionné avec le progressif/électro, etc., et le nombre de genres dérivés a augmenté. L'environnement de production est passé d'un environnement principalement basé sur le matériel à un environnement DAW, permettant de créer des conceptions sonores plus sophistiquées.
+Dans les années 2000, les éléments tribaux ont fusionné avec le progressif/électro, etc., et le nombre de genres dérivés a augmenté. L'environnement de production est passé d'un environnement matériel à un environnement DAW, permettant de créer des conceptions sonores plus sophistiquées.
 
 **Changement de méthode de production**
 - Traitement des instruments de percussion avec utilisation intensive du traitement des effets (filtre/réverbération/delay).
@@ -78,16 +81,16 @@ La mondialisation et l’essor du streaming ont accéléré la fusion avec les r
 ---
 
 ## Choix de chef-d'œuvre
-- Danny Tenaglia — <a href="https://www.discogs.com/master/75189-Danny-Tenaglia-Tourism">Tourisme (1998)</a>
-- Plat profond — <a href="https://en.wikipedia.org/wiki/Junk_Science_(album)">Junk Science (1998)</a>
-- Compilations/sorties liées à TRIBAL America (un exemple) : <a href="https://www.discogs.com/label/943-TRIBAL-America">Discogs — TRIBAL America</a>
+- Danny Tenaglia — <a href="https://www.discogs.com/master/75189-Danny-Tenaglia-Tourism">Tourism (1998)</a>
+- Deep Dish — <a href="https://en.wikipedia.org/wiki/Junk_Science_(album)">Junk Science (1998)</a>
+- TRIBAL America 関連コンピ／リリース群（一例）：<a href="https://www.discogs.com/label/943-TRIBAL-America">Discogs — TRIBAL America</a>
 
 ---
 
 ## Chronologie des équipements (simplifiée)
 - **Années 1980 ~ début des années 90** : Technics SL-1200 (platine vinyle), Roland TR-909/TR-808 (boîte à rythmes), premiers échantillonneurs Akai/E-mu. Références : <a href="https://en.wikipedia.org/wiki/Technics_SL-1200">Technics SL-1200</a>, <a href="https://en.wikipedia.org/wiki/Roland_TR-909">Roland TR-909</a>, <a href="https://en.wikipedia.org/wiki/Akai">Akai</a>.
-- **milieu des années 90-2000** : utilisation intensive de la série Akai MPC et des échantillonneurs matériels (<a href="https://reverb.com/news/a-brief-history-of-the-akai-mpc">Reverb — Une brève histoire de l'Akai MPC</a>).
-- **Années 2010~Présent** : Fonctionnement hybride de DAW (Ableton/Logic), d'échantillons de logiciels tels que Kontakt et Maschine et MPC.
+- **mid 90s〜2000s**：Akai MPC シリーズやハードウェア・サンプラーの多用（<a href="https://reverb.com/news/a-brief-history-of-the-akai-mpc">Reverb — A Brief History of the Akai MPC</a>）。
+- **Années 2010~Présent** : Fonctionnement hybride de DAW (Ableton/Logic), d'échantillons logiciels tels que Kontakt et Maschine, et MPC.
 
 ---
 
@@ -131,15 +134,16 @@ color: #fff;
 ## Voyage rythmique
 Tribal House n'est pas seulement de la musique de club, mais un « voyage rythmique » qui s'est répandu à l'échelle mondiale, changeant à chaque époque. Il continuera d’attirer l’attention en tant que genre qui continue d’évoluer grâce à la fusion des technologies tout en héritant de ses racines africaines.
 
+
 ## Liens de référence (sources principales)
-- <a href="https://en.wikipedia.org/wiki/Tribal_house">Wikipédia — Maison tribale</a>
-- <a href="https://www.discogs.com/label/943-TRIBAL-America">Discogs — TRIBAL Amérique</a>
-- <a href="https://www.discogs.com/master/75189-Danny-Tenaglia-Tourism">Discogs — Danny Tenaglia : Tourisme (1998)</a>
-- <a href="https://www.discogs.com/release/682084-Deep-Dish-Junk-Science">Discogs — Deep Dish : Junk Science (1998)</a>
-- <a href="https://en.wikipedia.org/wiki/Roland_TR-909">Wikipédia — Roland TR-909</a>
-- <a href="https://en.wikipedia.org/wiki/Technics_SL-1200">Wikipédia — Technics SL-1200</a>
-- <a href="https://en.wikipedia.org/wiki/Akai_MPC">Wikipédia — Akai MPC</a>
-- <a href="https://www.allmusic.com/album/tourism-mw0000598528">AllMusic — Tourisme (Danny Tenaglia)</a>
+- <a href="https://en.wikipedia.org/wiki/Tribal_house">Wikipedia — Tribal house</a>
+- <a href="https://www.discogs.com/label/943-TRIBAL-America">Discogs — TRIBAL America</a>
+- <a href="https://www.discogs.com/master/75189-Danny-Tenaglia-Tourism">Discogs — Danny Tenaglia: Tourism (1998)</a>
+- <a href="https://www.discogs.com/release/682084-Deep-Dish-Junk-Science">Discogs — Deep Dish: Junk Science (1998)</a>
+- <a href="https://en.wikipedia.org/wiki/Roland_TR-909">Wikipedia — Roland TR-909</a>
+- <a href="https://en.wikipedia.org/wiki/Technics_SL-1200">Wikipedia — Technics SL-1200</a>
+- <a href="https://en.wikipedia.org/wiki/Akai_MPC">Wikipedia — Akai MPC</a>
+- <a href="https://www.allmusic.com/album/tourism-mw0000598528">AllMusic — Tourism (Danny Tenaglia)</a>
 
 
 

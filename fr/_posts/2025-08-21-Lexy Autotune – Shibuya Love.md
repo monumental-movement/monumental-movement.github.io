@@ -21,7 +21,7 @@ Coproduit par le DJ/producteur berlinois Lexy (Alexander Gerlach) et le duo alle
 B1 est un remix du DJ techno allemand Rok, qui a sorti de nombreuses chansons sur des labels prestigieux tels que International Deejay Gigolo Records, Müller Records et Tresor.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Shibuya Love (Original)
 
@@ -29,7 +29,7 @@ B1. Shibuya Love (Rok Rmx)
 B2. Shibuya Love (Tok Tok Rmx)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m59248028232?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m59248028232?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wh5lX8MJgYM?si=x7vKYO-yRbckX4Ek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

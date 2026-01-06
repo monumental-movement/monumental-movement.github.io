@@ -18,7 +18,7 @@ Real McCoy est un projet allemand de musique eurodance/pop. "Another Night", sor
 
 La face B est un remix d'Armand Van Helden.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Another Night (Club Mix)
 
@@ -29,7 +29,7 @@ B1. Another Night (Armand's Nightmare Mix)
 B2. Another Night (Armand's New School Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m15854439320?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m15854439320?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kp8HFVPabmg?si=RyCsYbEl9pDyOBLF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -18,7 +18,7 @@ Toshi Nagai, également connu sous le nom de Toshimitsu Nagai, est un batteur ja
 
 "D.O.S Drum" est le deuxième album solo de Toshi Nagai sorti en 1999.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Laissez-moi Tranquille! (SPT Version)
 2. Moi
@@ -29,4 +29,4 @@ Toshi Nagai, également connu sous le nom de Toshimitsu Nagai, est un batteur ja
 7. À (Tes/Vos) Amours!
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m32725365843?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m32725365843?afid=6142608987){: .button1}

@@ -19,6 +19,7 @@ title: '[Chronique] De Joy Division à New Order : L''évolution du son de Manch
 
 Texte : mmr | Thème : De Joy Division à New Order - Une histoire de transformation et de renaissance du son, de l'obscurité à la lumière, de la solitude à la piste de danse.
 
+
 À la fin des années 1970, la ville industrielle de Manchester était en proie à la dévastation et à la stagnation. Hausse du chômage, troubles sociaux et ciel gris. Parmi eux, Joy Division a transformé en son le désespoir des jeunes avec ses rythmes inorganiques et sa poésie froide. La voix d'Ian Curtis résonnait comme un symbole de la douleur et de la solitude de l'époque, ouvrant la porte à une nouvelle ère du post-punk.
 
 Cependant, la mort de Curtis en 1980 a mis un terme brutal à cette histoire. Les membres restants choisissent de renaître de leur tristesse et se lancent dans le futur de la musique électronique. La naissance de New Order marquait le début d’un nouveau chapitre dans le son de Manchester qui avait évolué au-delà de la tragédie.
@@ -36,6 +37,7 @@ background-color: #111;
 color: #fff;
 }
 </style>
+
 
 ### Chapitre 1 : Les ombres de Manchester
 
@@ -63,7 +65,7 @@ Le producteur Martin Hannett a utilisé des techniques d'enregistrement pour rec
 **"La magie du spectacle live"**
 Les premiers spectacles live de Joy Division, avec leur éclairage tamisé et les mouvements de danse uniques de Curtis, ont submergé le public. La performance scénique, devenue légendaire auprès d'un public restreint, a eu une grande influence sur la génération new wave/post-punk ultérieure.
 
-Achetez sur Amazon → [Plaisirs inconnus](https://amzn.to/4h2l8BW)
+Amazonで購入 → [Unknown Pleasures](https://amzn.to/4h2l8BW)
 
 ---
 
@@ -78,7 +80,7 @@ Concilier vie conjugale et activités du groupe était extrêmement difficile. S
 **"La Dernière Nuit"**
 Le 18 mai 1979, Ian Curtis décède à son domicile de Manchester. La tragédie a choqué les membres du groupe et les fans et a jeté une ombre profonde sur l'histoire de la musique.
 
-Achetez sur Amazon → [Plus proche](https://amzn.to/48mYLF8)
+Amazonで購入 → [Closer](https://amzn.to/48mYLF8)
 
 ---
 
@@ -93,7 +95,7 @@ En plus de la guitare et de la basse, il a activement introduit les synthétiseu
 **"Premier coup"**
 En 1983, le single "Blue Monday" de 12 pouces est sorti et est devenu un succès dans le monde entier. C'est une œuvre symbolique qui fait le pont entre la culture club et la musique commerciale.
 
-Achetez sur Amazon → [Corruption du pouvoir et mensonges](https://amzn.to/46WqNET)
+Amazonで購入 → [Power Corruption & Lies](https://amzn.to/46WqNET)
 
 ---
 
@@ -108,7 +110,7 @@ Haçienda sera le décor des DJ sets de New Order, et la musique du groupe sera 
 **"Individualité musicale créée par les caractéristiques régionales"**
 L'environnement gris et industriel de Manchester était un terrain fertile pour un style musical froid mais lyrique. La relation entre les villes et la musique a eu une grande influence sur les générations d’artistes ultérieures.
 
-Achetez sur Amazon → [Mouvement](https://amzn.to/4mXprzN)
+Amazonで購入 → [Movement](https://amzn.to/4mXprzN)
 
 ---
 
@@ -123,7 +125,7 @@ L'œuvre de Peter Saville relie la musique et les visuels et établit l'identit�
 **"Coopération et frictions entre les membres"**
 La division des rôles et les opinions contradictoires entre Sumner, Hook, Morris et Gillian Gilbert créent des tensions au sein du groupe à mesure que la musique évolue. La friction est également devenue un moteur de créativité.
 
-Acheter sur Amazon → [Technique](https://amzn.to/4mREPgX)
+Amazonで購入 → [Technique](https://amzn.to/4mREPgX)
 
 ---
 
@@ -138,7 +140,7 @@ C'est devenu un succès partout dans le monde, dans les clubs et à la radio. La
 ** "Voyage sans fin" **
 Malgré la dissolution et la réforme, l'héritage de Joy Division perdure à travers New Order. La musique et les histoires humaines deviennent un miroir qui reflète les ombres et les espoirs d'une ville.
 
-Achetez sur Amazon → [Toujours](https://amzn.to/4mXpD1Z)
+Amazonで購入 → [Still](https://amzn.to/4mXpD1Z)
 
 ---
 
@@ -151,34 +153,35 @@ Les sessions de la BBC et les enregistrements de démonstration incluent de nomb
 Les problèmes de matériel et les arrangements improvisés lors des performances live renforcent également la puissance expressive du groupe. Leur performance live légendaire est devenue un sujet de conversation parmi les fans.
 
 **"Changements dans l'équipement et la technologie d'enregistrement"**
-Depuis les techniques de production de Martin Hannett jusqu'à l'introduction des synthétiseurs et des boîtes à rythmes, les choix d'équipement étaient étroitement liés aux changements de musicalité.
+Des techniques de production de Martin Hannett à l'introduction des synthétiseurs et des boîtes à rythmes, les choix d'équipement étaient étroitement liés aux changements de musicalité.
 
-Achetez sur Amazon → [Rétro](https://amzn.to/4obe2NR)
+Amazonで購入 → [Retro](https://amzn.to/4obe2NR)
 
 ---
 
+
 ### Chapitre final : La lumière née de la ville grise
 
-La transition de Joy Division à New Order n’est pas seulement une histoire de changements de groupe.  
+La transition de Joy Division à New Order n’est pas seulement une histoire de changements de groupe.
 C'est un microcosme de l'histoire de la musique de la fin du XXème siècle : **"reconstruire le désespoir et le transformer en lumière"**.
 
 Les poèmes de solitude et de destruction d'Ian Curtis résonnent dans les zones industrielles grises de Manchester.
-De cette rémanence sont sortis les rythmes électroniques vacillants de New Order.  
+De cette rémanence sont sortis les rythmes électroniques vacillants de New Order.
 Autrement dit, c'est dans le silence de Joy Division que germait le rythme de New Order.
 
-La ville de Manchester était un lieu où les jeunes pouvaient s'exprimer au milieu d'une dévastation économique.  
-La musique enregistrait les émotions de l’époque avec plus d’honnêteté que la politique ou la religion.  
-Ce qui soutenait ce son était une étrange fusion de température, où la technologie enveloppe la douleur humaine.  
+La ville de Manchester était un lieu où les jeunes pouvaient s'exprimer au milieu d'une dévastation économique.
+La musique enregistrait les émotions de l’époque avec plus d’honnêteté que la politique ou la religion.
+Ce qui soutenait ce son était une étrange fusion de température, où la technologie enveloppe la douleur humaine.
 La réverbération de Martin Hannett, le design de Peter Saville, l'éclairage et l'architecture de Haçienda——
 Toutes ces choses se sont réunies pour former un espace culturel appelé Manchester Sound.
 
 Le son de Joy Division est un miroir qui regarde la nuit,
-Les sons de New Order étaient un phare pour danser toute la nuit.  
+Les sons de New Order étaient un phare pour danser toute la nuit.
 Leur trajectoire est décrite comme « un battement d’espoir qui ne peut être joué que par ceux qui ont surmonté la tragédie ».
 Il résonne encore aujourd’hui chez d’innombrables artistes et clubs.
 
 Au milieu de la playlist Spotify et du son tournant des disques analogiques,
-Joy Division et New Order coexistent toujours.  
+Joy Division et New Order coexistent toujours.
 Le moment où passé et futur, solitude et joie, analogique et numérique se croisent,
 Aujourd’hui encore, la ville de Manchester continue de briller d’une pâle lumière au milieu de la grisaille.
 

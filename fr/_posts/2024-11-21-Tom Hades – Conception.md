@@ -19,7 +19,7 @@ Wim Vanoeveren, également connu sous le nom de Tom Hades, est un DJ et producte
 
 La face B est un remix de Stanny Franssen (alias G-Force), figure importante de la scène techno belge.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 Birth Side
 A1. Conception (Original Mix)
@@ -29,7 +29,7 @@ Re-birth Side
 B.  Conception (Remix by Stanny Franssen)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m18191583425?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m18191583425?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XLIQ4EPZc5U?si=f61B3LB1gN68ttWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

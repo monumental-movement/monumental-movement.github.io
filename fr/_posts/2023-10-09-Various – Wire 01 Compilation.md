@@ -16,7 +16,7 @@ title: Divers – Compilation Fil 01
 « Compilation Fil 01 » est
 Il s'agit d'un CD de compilation Wire 01 sorti en 2001.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Takkyu Ishino–Hyperspeed (Short)
 2. Jeff Mills–UFO
@@ -33,7 +33,7 @@ Il s'agit d'un CD de compilation Wire 01 sorti en 2001.
 13. Monika Kruse @ Voodooamt–Route 27
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m98255564275?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m98255564275?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JNsAbKxUGcs?si=vPb3Qx4xHcOBX06J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

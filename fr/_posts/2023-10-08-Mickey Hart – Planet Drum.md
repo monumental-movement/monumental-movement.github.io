@@ -19,7 +19,7 @@ Le concept était de jouer de la musique de batterie avec des percussionnistes d
 
 Il a remporté le prix du meilleur album de musique du monde aux Grammy Awards 1991.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Udu Chant
 
@@ -48,7 +48,7 @@ B5. Iyanu
 B6. Mysterious Island
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m30826670023?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m30826670023?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fICEZNkhA1k?si=jo8IfirSq0cnkKyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

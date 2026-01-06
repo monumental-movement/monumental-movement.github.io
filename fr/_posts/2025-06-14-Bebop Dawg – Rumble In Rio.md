@@ -21,14 +21,14 @@ Il est également membre de Franke And Illinton, une unité avec Frank Madsen, u
 
 Ce disque est un futur morceau jazz/latin sorti en 2002 sur le label underground Deep-House Missive (1999-2010) à Paris, France.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Rumble In Rio
 
 B1. Um Dia Sobre La Praia
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m43241616237?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43241616237?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aBBPb65exo4?si=ZVW61qNZpcouv00R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

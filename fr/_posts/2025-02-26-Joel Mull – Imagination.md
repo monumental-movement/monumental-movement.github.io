@@ -19,7 +19,7 @@ Sorti au début de sa carrière, cet album fusionne habilement des éléments de
 
 Tout d'abord, on peut dire que le plus grand attrait de « Imagination » est son sentiment d'immersion. Tout au long de l'album, Joel Mull transporte l'auditeur dans un voyage surnaturel avec de délicates couches de rythme et de texture.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Carbon 14
 2. Daylight
@@ -34,7 +34,7 @@ Tout d'abord, on peut dire que le plus grand attrait de « Imagination » est so
 11. Snabba Sekunder
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m93462120313?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93462120313?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tG6LoMWEzi0?si=oGeryVZjl6aDrLcU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

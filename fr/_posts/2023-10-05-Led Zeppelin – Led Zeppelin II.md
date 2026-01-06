@@ -17,7 +17,7 @@ title: Led Zeppelin – Led Zeppelin II
 
 L'album contient de nombreuses chansons à succès, notamment « Whole Lotta Love », « Heartbreaker » et « Ramble On ». Ces chansons incarnent le son caractéristique de Led Zeppelin, avec des riffs de guitare puissants et la performance vocale imposante de Plant.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Whole Lotta Love
 
@@ -38,7 +38,7 @@ B4. Moby Dick
 B5. Bring It On Home
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m17507286292?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m17507286292?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W2bxOJX-E3M?si=M6YK6py45hbfKlGz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

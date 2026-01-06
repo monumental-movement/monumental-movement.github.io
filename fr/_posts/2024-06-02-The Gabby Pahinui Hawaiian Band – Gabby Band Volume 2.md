@@ -19,7 +19,7 @@ title: Le groupe hawaïen Gabby Pahinui – Gabby Band Volume 2
 
 Gabby Pahinui a été intronisée au Temple de la renommée de la musique hawaïenne en 2002.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Po Mahina
 A2. Waikiki Hula
@@ -33,7 +33,7 @@ B3. Kilakila'o Moanalua
 B4. No Ke Ano Ahiahi
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m54779948178?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m54779948178?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jP85P5gCXlE?si=0x8zozCk6iTQ7Ts9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -15,10 +15,10 @@ title: Couper et courir – Hors de l'espace 6,4367
 
 "Outta Space 6,4367" échantillonne "Out Of Space" de The Prodigy.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Outta Space (Profanation Likes To Cover)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m59463185167?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m59463185167?afid=6142608987){: .button1}
 

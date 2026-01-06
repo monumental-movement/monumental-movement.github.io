@@ -17,7 +17,7 @@ Cet album "Babylon And On" de Squeeze a été produit par Eric "ET" Thorngren et
 
 L'album a atteint la 14e place du UK Album Chart, le classement le plus élevé pour un album Squeeze en dehors de la compilation Greatest Hits.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Hourglass
 
@@ -44,7 +44,7 @@ B5. The Waiting Game
 B6. Some Americans
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m67891670051?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m67891670051?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vIqpseoHOkE?si=xbwUMz8t36dIZgYD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

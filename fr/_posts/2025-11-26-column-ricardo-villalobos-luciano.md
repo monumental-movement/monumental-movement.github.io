@@ -15,6 +15,7 @@ title: '[Chronique] Ricardo Villalobos × Luciano — Un voyage rythmé où se c
 ---
 
 
+
 ## Introduction
 
 Texte : mmr｜Thème : Retracer les parcours individuels des deux parties, leurs rencontres et collaborations, leurs réalisations et influences musicales, et leurs développements ultérieurs, à l'aide de chronologie, de diagrammes et d'analyses.
@@ -37,6 +38,7 @@ background-color: #111;
 color: #fff;
 }
 </style>
+
 
 ## Chapitre 1 : Le chemin tissé par la musique et les origines
 
@@ -70,7 +72,7 @@ Un soir, il y avait environ 300 personnes à l'étage du club. Villalobos joue d
 
 ### Évolution d'Alcachofa et Villalobos
 
-En 2003, Villalobos sort l'album Alcachofa. Cette œuvre est saluée comme un chef-d’œuvre qui redéfinit le langage de la culture club. Tout au long du long morceau, qui dure plus de 10 minutes, le rythme change minutieusement et les rythmes s'entrelacent sans cesse. Les corps des auditeurs étaient naturellement immergés dans le flux du temps et le sol devenait une sorte d'« espace cérémonial ».
+En 2003, Villalobos sort l'album Alcachofa. Cette œuvre est saluée comme un chef-d’œuvre qui redéfinit le langage de la culture club. Dans le long morceau, qui dure plus de 10 minutes, le rythme change minutieusement et les rythmes s'entrelacent constamment. Les corps des auditeurs étaient naturellement immergés dans le flux du temps et le sol devenait une sorte d'« espace cérémonial ».
 
 Exemples de chansons incluses dans l'album :
 
@@ -117,11 +119,11 @@ Tous deux se produisent en live dans toute l’Europe, en Amérique du Sud et en
 - *Série EP Sei Es Drum* (2007-2015, Sei Es Drum)
 - *Dépendant et Heureux* (2012, Perlon)
 
-### Luciano
+### Lucien
 
-- *Rise of Angel* (2002, Cadenza)
+- *L'Ascension d'Angel* (2002, Cadenza)
 - *Pas d'amis* (2004, Cadenza)
-- *Crimen* (2005, Cadenza)
+- *Crime* (2005, Cadenza)
 - Série *Luciano DJ Mix* (2003-2010, Cadenza)
 
 ---
@@ -154,7 +156,7 @@ timeline
 
 ## Conclusion
 
-Les efforts de Ricardo Villalobos, Luciano et Sense Club sont allés au-delà de la simple popularité des clubs et ont ouvert de nouveaux horizons dans la musique, la culture et le corps de la fin des années 1990 aux années 2000. La musique qu'ils ont laissée derrière eux n'est pas une gloire passée, mais un indice pour l'avenir et continue d'avoir une solide influence sur la culture des clubs d'aujourd'hui.
+Les efforts de Ricardo Villalobos, Luciano et Sense Club sont allés au-delà de la simple popularité des clubs et ont ouvert de nouveaux horizons dans les domaines de la musique, de la culture et du corps, de la fin des années 1990 aux années 2000. La musique qu'ils ont laissée derrière eux n'est pas une gloire passée, mais un indice pour l'avenir et continue d'avoir une solide influence sur la culture des clubs d'aujourd'hui.
 
 ---
 

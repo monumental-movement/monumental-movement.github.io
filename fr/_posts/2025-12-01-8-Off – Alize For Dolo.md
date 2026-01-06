@@ -9,7 +9,7 @@ permalink: /fr/8-off-alize-for-dolo/
 tags:
 - Hiphop
 - 90s
-title: 8-Off – Alize pour Dolo
+title: 8-Off – Alizé Pour Dolo
 ---
 
 
@@ -19,7 +19,7 @@ Angel Aguilar, également connu sous le nom de 8-Off, est un MC/producteur hip-h
 
 A et B présentent tous deux M. Cheeks, un ancien membre de Lost Boyz et connu pour « Lights, Camera, Action ! Avec Missy Elliott, P. Diddy et Petey Pablo ».
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Alize For Dolo (LP Version) (Dirty)
 A2. Alize For Dolo (Remix) (Long Version) (Dirty)
@@ -31,7 +31,7 @@ B3. Alize For Dolo (LP Version) (Acappella)
 B4. Alize For Dolo (Remix) (Acappella)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m31835629494?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31835629494?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8EvGTvEIPIM?si=8KXH5Mm2v8sUQFyR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

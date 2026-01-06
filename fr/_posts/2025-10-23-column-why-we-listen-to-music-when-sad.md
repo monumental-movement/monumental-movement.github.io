@@ -9,18 +9,19 @@ permalink: /fr/column-why-we-listen-to-music-when-sad/
 tags:
 - Neuroscience
 - Emotion
-title: '[Chronique] Pourquoi les gens écoutent de la musique quand ils sont tristes
+title: '[Chronique] Pourquoi les gens écoutent-ils de la musique quand ils sont tristes
   ? Le son comme empathie, mémoire et réglage neuronal'
 ---
 
 
 ## Prologue : Mélodie en larmes
 
+
 Texte : mmr｜Thème : Explorer la relation entre la tristesse et la musique du point de vue de la psychologie, des neurosciences et de l'histoire culturelle
 
-Pourquoi les gens se tournent-ils vers la musique quand ils sont tristes ?  
-Le silence est souvent rompu par une seule note du piano ou par une voix chantée envoûtante.  
-Cet acte est à la fois intuitif et profondément scientifique.  
+Pourquoi les gens se tournent-ils vers la musique quand ils sont tristes ?
+Le silence est souvent rompu par une seule note du piano ou par une voix chantée envoûtante.
+Cet acte est à la fois intuitif et profondément scientifique.
 La musique est un « résonateur » d'émotions et la seule expérience qui peut être partagée dans la solitude.
 
 Dans cet article, tout en croisant les domaines de la psychologie, des neurosciences et de l'histoire culturelle,
@@ -41,15 +42,16 @@ color: #fff;
 }
 </style>
 
+
 ## Chapitre 1 : La tristesse et le cerveau – Structure de résonance neuronale
 
-Selon les neurosciences modernes, la tristesse est fortement associée à l’activité de l’amygdale et du cortex préfrontal du cerveau.  
+Selon les neurosciences modernes, la tristesse est fortement associée à l’activité de l’amygdale et du cortex préfrontal du cerveau.
 En écoutant de la musique, ces zones subissent une « restructuration émotionnelle » et
 Encourage le processus de visualisation objective de ses propres émotions.
 
-La musique n'est pas seulement un stimulus externe, mais un « miroir de nerfs ».  
+La musique n'est pas seulement un stimulus externe, mais un « miroir de nerfs ».
 Lorsque vous écoutez une mélodie triste, des « neurones tristes » résonnent dans votre cerveau,
-La **dopamine**, produit chimique de bien-être, y est sécrétée.  
+La **dopamine**, produit chimique de bien-être, y est sécrétée.
 Cette réaction contradictoire – « le plaisir dans la tristesse » – est ce qui
 C’est l’une des principales raisons pour lesquelles les gens recherchent de la musique triste.
 
@@ -58,23 +60,23 @@ C’est l’une des principales raisons pour lesquelles les gens recherchent de 
 ## Chapitre 2 : La musique comme outil d'empathie
 
 Selon la psychologue Catherine Mercier,
-«La musique est un outil d'imitation de l'empathie.»  
+«La musique est un outil d'imitation de l'empathie.»
 Lorsque les auditeurs écoutent de la musique triste, ils « s'identifient » aux émotions du compositeur et du chanteur, et
 Ressentir la présence des autres dans la solitude.
 
-Il s’agit d’un comportement universel d’un point de vue anthropologique culturel.  
-Funérailles, requiems, prières, chants de travail : chaque culture a des sons qui partagent la tristesse.  
+Il s’agit d’un comportement universel d’un point de vue anthropologique culturel.
+Funérailles, requiems, prières, chants de travail : chaque culture a des sons qui partagent la tristesse.
 La musique de tristesse est un acte qui a une **structure de guérison communautaire**.
 
 ---
 
 ## Chapitre 3 : Melody comme périphérique de mémoire
 
-La musique que vous écoutez souvent lorsque vous êtes triste **rejoue des souvenirs du passé**.  
+La musique que vous écoutez souvent lorsque vous êtes triste **rejoue des souvenirs du passé**.
 Psychologiquement, il s'agit d'un phénomène appelé « rappel musical ».
 Une certaine mélodie évoque des scènes passées, des odeurs et la sensation d'une saison.
 
-Les gens organisent leurs souvenirs pendant les moments de tristesse.  
+Les gens organisent leurs souvenirs pendant les moments de tristesse.
 La musique est un « outil d’édition » à cet effet.
 Il fonctionne comme un **média temporel** qui relie les souvenirs et les émotions.
 
@@ -85,7 +87,7 @@ Il fonctionne comme un **média temporel** qui relie les souvenirs et les émoti
 
 ## Chapitre 4 : « Sons de tristesse » d'un point de vue historique culturel
 
-La musique de tristesse a existé sous différentes formes à chaque époque.  
+La musique de tristesse a existé sous différentes formes à chaque époque.
 La chronologie ci-dessous montre le flux typique.
 
 <div class="mermaid">
@@ -119,6 +121,7 @@ La musique dans la culture japonaise contient toujours un sentiment de tristesse
 Pleurer n’est pas un signe de faiblesse, mais un acte de reconnexion sociale émotionnelle.
 
 ---
+
 
 ## Chapitre 6 : « Partager le chagrin » à l'ère numérique
 
@@ -178,7 +181,7 @@ La musique est un médium qui transforme la tristesse en amour.
 
 - [Levitin, D. (2006). This Is Your Brain on Music.](https://amzn.to/48JKimO)
 
-- [Yujiro Nakamura (2000). "Théorie des sensations communes"](https://amzn.to/4nZ7zpv)
+- [中村雄二郎 (2000). 『共通感覚論』](https://amzn.to/4nZ7zpv) 
 
 
 ---
@@ -192,6 +195,7 @@ La musique est un médium qui transforme la tristesse en amour.
 | Empathie | Cortex préfrontal médial | Structure centrée sur la voix | Sécrétion d'ocytocine |
 | Régénération | Cortex cingulaire | Structure crescendo | Augmentation de la dopamine |
 
+
 >« Quand tu es triste, tu écoutes de la musique, ce n'est pas parce que tu as peur du silence.
 >Écouter le son de votre propre cœur au plus profond de ce silence. »
 
@@ -201,12 +205,13 @@ La musique est un médium qui transforme la tristesse en amour.
 
 | # | Titre/Artiste | Format/Caractéristiques |Lien |
 | - | ---------- | ---------- | ------------- |
-| 1 | *Sommeil – Max Richter (2015) | Musique d'ambiance/de chambre longue et douce. Parfait avant de se coucher ou pour se détendre. | [Amazon](https://amzn.to/3L4CW3k) |
-| 2 | *Les boucles de désintégration – William Basinski (2002) | Un son méditatif et purifiant utilisant le son de désintégration des boucles de bandes. Pour les situations de deuil et de gestion émotionnelle.  | [Amazon](https://amzn.to/4qojJcZ) |
-| 3 | *Vibration céleste – Laraaji (1978) | Son New Age utilisant le jitter/kalimba à cordes ouvertes. Également utilisé à des fins de méditation/yoga. | [Amazon](https://amzn.to/3KWbWDh) |
-| 4 | *Thérapie – Zoe Wees (2023) | Un album pop/R&B sur le thème de sa propre anxiété et de son rétablissement. Il se distingue également par sa perspective musicothérapeutique, qui implique la sublimation des émotions et l’empathie.  | [Amazon](https://amzn.to/4owOvi9) |
+| 1 | *Sleep – Max Richter (2015)         | 長時間・穏やかなアンビエント／チェンバー音楽。寝る前やリラックス時に最適。 | [Amazon](https://amzn.to/3L4CW3k)                         |
+| 2 | *The Disintegration Loops – William Basinski (2002) | テープループの崩壊音を使った瞑想的・浄化的サウンド。悲嘆や感情整理の場面に。  | [Amazon](https://amzn.to/4qojJcZ) |
+| 3 | *Celestial Vibration – Laraaji (1978)               | オープンストリング・ジター／カリンバなどを用いたニューエイジ的音響。瞑想／ヨガ用途にも用いられる。 | [Amazon](https://amzn.to/3KWbWDh) |
+| 4 | *Therapy – Zoe Wees (2023)                          | 自身の不安・回復をテーマにしたポップ／R&Bアルバム。感情の昇華・共感を伴う音楽療法的視点でも注目。  | [Amazon](https://amzn.to/4owOvi9)                          |
 
 ---
+
 
 ## Carte neuronale du cerveau (activité cérébrale lors de l'écoute de musique)
 

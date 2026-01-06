@@ -21,7 +21,7 @@ Cet album, sorti par Epic en 2007, est le chef-d'œuvre de Modest Mouse, atteign
 Le producteur est Dennis Herring, qui a travaillé sur des groupes tels que The Hives, Elvis Costello et Counting Crows.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. March Into The Sea
 2. Dashboard
@@ -39,7 +39,7 @@ Le producteur est Dennis Herring, qui a travaillé sur des groupes tels que The 
 14. Invisible
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m58476843195?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m58476843195?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O4XskfT6vNY?si=5z5qM172pl0q_OrU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

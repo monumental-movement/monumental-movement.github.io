@@ -22,7 +22,7 @@ Brennan Green est un DJ, producteur et ingénieur du son underground disco/élec
 A est un remix de KZA et du duo de DJ Kent, Force Of Nature (F.O.N Force of Nature).
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. 900lb Man (Force Of Nature Remix)
 
@@ -30,4 +30,4 @@ B1. 900lb Man (P.M.D.M.F! Ball Mix)
 B2. 900lb Man (Original Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m94822788604?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94822788604?afid=6142608987){: .button1}

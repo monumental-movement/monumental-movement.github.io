@@ -20,13 +20,13 @@ Il est également actif sous les noms de The Rhythm Odyssey et Goat Dance.
 
 "Marching Orders" est un morceau disco électro downtempo sorti en 2005 par le label britannique D.C. Recordings.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Marching Orders (Special Mix)
 
 B. The Shot! (Dub Copy)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m33139936589?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33139936589?afid=6142608987){: .button1}
 
 <iframe width="740" height="400" src="https://www.youtube.com/embed/7P0PxTEuSLY?si=md9VAShG3YBHgjyJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

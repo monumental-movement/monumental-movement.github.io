@@ -17,7 +17,7 @@ Roger Sanchez est un DJ/remixeur/producteur house américain. En 2003, il a remp
 
 "Another Chance", sorti par Defected en 2001, est la chanson signature de Roger Sanchez et est devenue un succès mondial.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Another Chance (Original Mix)
 
@@ -26,7 +26,7 @@ B1. Another Chance (S-Man's Dark Nite Mix)
 B2. Another Chance (Afterlife Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m78518040318?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m78518040318?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pf4fiP7SQF8?si=ex7CG-N5nJs6gqwb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

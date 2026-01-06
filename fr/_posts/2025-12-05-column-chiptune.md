@@ -40,7 +40,8 @@ color: #fff;
 }
 </style>
 
-## Chapitre 1 : Les origines du 8 bits - Puces de source sonore Famicom et Game Boy
+
+## Chapitre 1 : Origine du 8 bits - Puce source sonore Famicom et Game Boy
 
 ### 1-1. "Ricoh 2A03" qui a déterminé le son de la Famicom/NES
 
@@ -49,16 +50,16 @@ Ce qui a déterminé le son de la Famicom était une puce source sonore appelée
 #### Configuration à 5 canaux de la source sonore Famicom
 
 - **Onde carrée (impulsion) x 2 canaux**
-  Le rapport cyclique peut être sélectionné parmi 12,5 % / 25 % / 50 % / 75 %, adapté à la mélodie principale.
+Le rapport cyclique peut être sélectionné parmi 12,5 % / 25 % / 50 % / 75 %, adapté à la mélodie principale.
 
 - **Onde triangulaire (Triangle) x 1 canal**
-  Il est souvent utilisé pour les lignes de basse, mais il était également utilisé pour simuler la batterie.
+Il est souvent utilisé pour les lignes de basse, mais il était également utilisé pour simuler la batterie.
 
 - **Bruit ×1 canal**
-  Responsable de la plupart des sons de production du jeu, tels que les sons des caisses claires, des charleys et des explosions.
+Responsable de la plupart des sons de production du jeu, tels que les sons des caisses claires, des charleys et des explosions.
 
 - **DPCM (lecture d'échantillons) x 1 canal**
-  Bien que la qualité sonore soit faible, proche de 1 bit, il est possible de jouer des échantillons de batterie et des éléments vocaux.
+Bien que la qualité sonore soit faible, proche de 1 bit, il est possible de jouer des échantillons de batterie et des éléments vocaux.
 
 Cette structure est devenue plus tard le format de base de Chiptune, et les musiciens modernes gardent souvent ce ton à l'esprit lors de la production.
 
@@ -73,7 +74,7 @@ La Game Boy est équipée d'une source sonore CPU + PSG appelée **Sharp LR35902
 - **Onde carrée (Impulsion 1)**
 - **Onde carrée (Pulse 2)**
 - **Mémoire de forme d'onde (canal Wave)**
-  - Canal qui vous permet de dessiner librement des formes d'onde 4 bits de 32 échantillons
+- Canal qui vous permet de dessiner librement des formes d'onde 4 bits de 32 échantillons
 - **Canal de bruit**
 
 La mémoire de forme d'onde est au cœur de la créativité, et même dans le Game Boy Chiptune moderne, le canal Wave est largement utilisé pour générer des sons de basse, de lead, de kick et uniques. L'épaisseur des basses fréquences est particulièrement attrayante, et elle est appréciée comme un « son de type Game Boy », y compris le bruit DAC propre au matériel.
@@ -103,11 +104,11 @@ L'onde triangulaire est une forme d'onde avec peu d'harmoniques, ce qui la rend 
 
 ### 2-4. Nature révolutionnaire de la mémoire de forme d'onde (WAVE)
 
-Le canal WAVE du Game Boy vous permet de créer des formes d'onde arbitraires plutôt que des formes d'onde fixes, vous permettant de créer une grande variété de sons tels que la basse, le lead, le pad, le kick et les effets.
+Le canal WAVE du Game Boy vous permet de créer des formes d'onde arbitraires plutôt que des formes d'onde fixes, vous permettant de créer une grande variété de sons tels que basse, lead, pad, kick et FX.
 
 ---
 
-## Chapitre 3 : Culture Tracker et production Chiptune - LSDj / Nanoloop / Famitracker
+## Chapitre 3 : Culture Tracker et production Chipune - LSDj / Nanoloop / Famitracker
 
 ### 3-1. Qu'est-ce que le traqueur ?
 
@@ -116,10 +117,10 @@ Tracker est un séquenceur qui défile verticalement.
 
 #### Tracker typique moderne
 
-- **LSDj（Little Sound DJ）**
-- **Nanoloop**
+- **LSDj (Petit DJ sonore)**
+- **Nanoboucle**
 - **Famitracker / 0CC-Famitracker**
-- **Deflemask**
+- **Déflemasque**
 
 Ils font partie intégrante de la culture Chiptune et sont utilisés par des artistes du monde entier.
 
@@ -144,7 +145,7 @@ Nanoloop produit de la musique électronique minimale avec une belle interface r
 - **Plogue chipsynth 2A03**
 - **Plogue chipsynth MD**
 - **Plogue chipsynth C64**
-- **YMCK Magical 8bit Plug**
+- **Prise magique 8 bits YMCK**
 - **NES VST / GameBoy VST**
 
 Plogue reproduit la puce source sonore à partir du niveau du circuit, de sorte qu'il peut produire presque le même son que l'appareil réel.
@@ -153,7 +154,7 @@ Plogue reproduit la puce source sonore à partir du niveau du circuit, de sorte 
 
 DAW vous permet de traiter librement les effets, ce qui le rend idéal pour fusionner Chiptune avec la musique électronique moderne.
 
-Exemple :
+exemple:
 - Ajoutez un délai/réverbération au lead 8 bits pour créer un lead de synthé
 - Traitez le canal de bruit et appliquez-le à la caisse claire de Trap
 - Basse à ondes carrées Sidechain pour la faire ressembler à de l'EDM
@@ -164,7 +165,7 @@ Ces « puces étendues » sont devenues courantes récemment.
 
 ## Chapitre 5 : L'intersection de la culture du remix de musique de jeu et de Chiptune
 
-Il existe un grand nombre d’arrangements de musique de jeu sur YouTube et sur les réseaux sociaux.  
+Il existe un grand nombre d’arrangements de musique de jeu sur YouTube et sur les réseaux sociaux.
 Chiptune joue un rôle particulier à cet égard.
 
 raison:
@@ -199,7 +200,7 @@ Chiptune ne se limite en aucun cas à une « reproduction de musique de jeu », 
 
 ---
 
-## Chapitre 7 : Généalogie Chipune
+## Chapitre 7 : Généalogie de Chiptune
 
 <div class="mermaid">
 flowchart TD
@@ -216,7 +217,7 @@ flowchart TD
 
 ## Chapitre 8 : Scène Chiptune mondiale et culture des artistes
 
-Chiptune a des communautés partout dans le monde.  
+Chiptune a des communautés partout dans le monde.
 Les caractéristiques sont les suivantes.
 
 - Performance en direct sur Game Boy ou NES actuelle
@@ -265,8 +266,8 @@ Le son 8 bits continuera d’avoir un impact sur les aspects culturels et techno
 
 **Chiptune n'est pas « la musique du passé » mais « un langage musical qui continuera à être utilisé par les futurs créateurs ». **
 
-L'onde carrée ne disparaît pas.  
-La caisse claire sur le canal noise est encore nouvelle.  
+L'onde carrée ne disparaît pas.
+La caisse claire sur le canal noise est encore nouvelle.
 La liberté de la chaîne Wave est à l'origine de la musique numérique.
 
 > La musique 8 bits continuera de résonner partout dans le monde.

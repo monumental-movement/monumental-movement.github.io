@@ -26,14 +26,14 @@ Là où "Yellow Brick" était atténué par un rythme et un tempo simples, "Raar
 
 C'est un disque incontournable pour tous les fans de noise, même si vous n'aimez pas la house music.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 a. Yellow Brick
 
 aa. Raar
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m91335600538?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m91335600538?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LPYrnOWLEC4?si=uAQ6gHXQBGEBH8RV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

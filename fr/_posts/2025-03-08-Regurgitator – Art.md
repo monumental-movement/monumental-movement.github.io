@@ -18,7 +18,7 @@ Regurgitator est un groupe de rock alternatif australien. Formé fin 1993 par Qu
 
 "...Art" est le troisième album studio de Regurgitator, sorti en 1999.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Happiness
 2. Ghost
@@ -35,7 +35,7 @@ Regurgitator est un groupe de rock alternatif australien. Formé fin 1993 par Qu
 13. Virtual Life
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m93861307234?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93861307234?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TljyVCEkYpE?si=37_7kEJymfL9CFy3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

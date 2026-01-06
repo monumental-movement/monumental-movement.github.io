@@ -20,14 +20,14 @@ Side A est un remix de Skream (Oliver Dene Jones), un producteur britannique act
 
 La face B est un remix du musicien/DJ/producteur dubstep japonais Takeaki Maruyama, également connu sous le nom de Goth-Trad.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Night Vision (Skream's 'So Nasty' Version)
 
 B. Traffic (Goth-Trad Remix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m41976267806?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m41976267806?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O5spVczGPJA?si=J6aFlCLkltJ4LQDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -18,7 +18,7 @@ Groove Coverage est un groupe d'eurotrance allemand composé d'Axel Konrad, DJ N
 
 "Poison" est une reprise d'Alice Cooper et l'une des chansons emblématiques de Groove Coverage.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Poison (Club Mix)
 
@@ -31,7 +31,7 @@ B2. Poison (Rock Mix)
 B3. Only Love
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m23409895626?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23409895626?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WPuRNvDOxxU?si=9wEpz1w-C7Q8eSOg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

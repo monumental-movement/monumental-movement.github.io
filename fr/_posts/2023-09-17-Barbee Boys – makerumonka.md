@@ -24,14 +24,14 @@ Leurs chansons ont le pouvoir de donner de l'énergie et du courage aux auditeur
 
 #### Liste des chansons
 ```md
-R. Je vais perdre.
+A. 負けるもんか
 
 B1. C'm'on Let's Go!
 
-B2. Volons (en direct)
-````
+B2. 翔んでみせろ(ライブ)
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m78740363521?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m78740363521?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HSOtHokZrEc?si=WyL1Wqg5Bem2WJCR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

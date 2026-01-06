@@ -16,14 +16,14 @@ title: Svenson & Gielen – Tordu
 « Tordu » est
 Il s'agit d'un EP de Svenson & Gielen, une unité de Svenson et Johan Gielen, sorti en 2002 sur le label allemand "Dos Or Die Recordings".
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Twisted (Original Mix)
 
 B. Twisted (Svenson & Gielen Energy Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m85727936789?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m85727936789?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UVSrfgABAGU?si=4M1CHPyPenEBWOwd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

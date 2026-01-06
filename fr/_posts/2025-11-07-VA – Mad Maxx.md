@@ -21,13 +21,13 @@ Artistes participants : Uzumaki, Real Styla, Cocobat, You The Rock, Screw, Egg 
 
 #### Liste des chansons
 ```md
-1. Uzumaki X Real Styler – Effacer
-2. Cocobat X You The Rock – Ange de Def
-3. Clé X Egg Man – Tomoshibi
-4. Three Side X Potemkin – Mockos' Da House / Polio territoriale
-5. Famille Low IQ 01 X UBG – La vitrine (trois à la dure)
-6. Backgammon Trou de Poitrine X – Mad Maxx
-7. Trompette Anarch X Gariya – Lame W
-````
+1. 宇頭巻 X リアルスタイラ – 一掃
+2. Cocobat X You The Rock – Angel Of Def
+3. Wrench X Egg Man – トモシビ
+4. Three Side X ポチョムキン – モッコス' Da House / Territarial Polio
+5. Low IQ 01 X UBG Family – The Show Case (Three The Hard Way)
+6. Chest Hole X バックギャモン – Mad Maxx
+7. Anarch X ラッパ我リヤ – Wブレード
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m59904813025?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m59904813025?afid=6142608987){: .button1}

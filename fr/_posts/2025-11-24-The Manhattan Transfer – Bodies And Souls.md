@@ -14,11 +14,11 @@ title: Le transfert de Manhattan – Corps et âmes
 ---
 
 
-Manhattan Transfer est un groupe vocal américain formé à New York en 1969. Il a interprété une variété de genres musicaux, notamment l'a cappella, le jazz brésilien, le swing, le vocalise, le rythme et le blues, la pop et les standards.
+Manhattan Transfer est un groupe vocal américain formé à New York en 1969. Il a interprété une variété de genres musicaux, notamment l'a cappella, le jazz brésilien, le swing, le vocalese, le rythme et le blues, la pop et les standards.
 
 " Bodies and Souls " est le septième album studio sorti par le label Atlantic Records en 1983.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Spice Of Life
 A2. This Independence
@@ -34,7 +34,7 @@ B5. Goodbye Love
 B6. The Night That Monk Returned To Heaven
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m64655294455?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64655294455?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MNq2MLg0N4E?si=63qIJmBCFH7_xTY4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

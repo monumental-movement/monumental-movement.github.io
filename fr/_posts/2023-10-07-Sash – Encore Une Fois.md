@@ -18,7 +18,7 @@ title: Ceinture! – Encore une fois
 Au Royaume-Uni, il est sorti en février de la même année, atteignant la deuxième place du UK Singles Chart et étant certifié disque d'or. Il s'agit d'un top 10 à travers l'Europe, notamment en Belgique, en Finlande, en France, en Islande, en Italie, en Norvège, en Espagne et en Suède. En Grèce et en Irlande, la chanson atteint le sommet des charts. Ce fut un énorme succès dans les clubs aux États-Unis, atteignant le numéro un du classement Billboard Hot Dance Club Play et y restant pendant 14 semaines. Le clip de "Encore une fois" a été réalisé par Oliver Sommer.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Encore Une Fois (Future Breeze Mix)
 
@@ -29,7 +29,7 @@ B1. Encore Une Fois (La Casa Di Tokapi Mix)
 B2. Encore Une Fois (Powerplant "Toke On This" Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m89838653459?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m89838653459?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qz2bOXLEvuE?si=aYF_2aAYLItR_UxC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

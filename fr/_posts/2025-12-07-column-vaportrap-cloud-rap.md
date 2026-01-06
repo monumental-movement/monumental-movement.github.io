@@ -15,6 +15,7 @@ title: '[Chronique] Histoire et développement du Vaportrap/Cloud Rap'
 ---
 
 
+
 ## Prologue : Qu'est-ce que le <Cloud Rap> ?
 
 Texte : mmr｜Thème : À propos de la généalogie du cloud rap qui croise le Lo-Fi Hip Hop
@@ -38,6 +39,7 @@ background-color: #111;
 color: #fff;
 }
 </style>
+
 
 ## I. Étapes préparatoires avant Cloud Rap (2000–2008)
 
@@ -103,7 +105,7 @@ Centrées sur SoundCloud, la production et la consommation à grande vitesse se 
 
 ### ● Méthodologie Lo-Fi HipHop
 
-* Culture d'échantillonneur telle que MPC
+* Culture d'échantillonneurs tels que MPC
 * Bruit, texture analogique, distorsion de la cassette
 * Expansion de la culture du streaming sous le nom de Chillhop / Study Beats
 
@@ -119,7 +121,7 @@ Le traitement vocal de Cloud Rap se mélange facilement avec le Lo-Fi Hip Hop, e
 
 ---
 
-Lil Peep a développé un style mêlant des éléments d'emo, de punk et de cloud rap, formant le cœur de l'esthétique post-SoundCloud Rap. En particulier, la combinaison de **échantillon de guitare x réverbération x mélodie triste** a eu une forte influence sur les chansons suivantes.
+Lil Peep a développé un style mêlant des éléments d'emo, de punk et de cloud rap, formant le cœur de l'esthétique post-SoundCloud Rap. En particulier, la combinaison **échantillon de guitare x réverbération x mélodie triste** a eu une forte influence sur les chansons suivantes.
 
 ---
 
@@ -133,7 +135,7 @@ XXXTENTACION a pratiqué un large éventail de styles, du cloud rap au hardcore,
 
 ---
 
-##VI. Vaportrap moderne / Cloud Rap (2019-2025)
+## VI. Vaportrap moderne / Cloud Rap (2019-2025)
 
 ### ● Internationalisation et élimination des différences régionales
 
@@ -152,7 +154,7 @@ Avec l’essor de YouTube, SoundCloud et TikTok, les techniques du Cloud Rap se 
 * **Pad** : Synthé à réverbération profonde, accords ambiants
 * **Batterie** : cible piège (808, roulement de charleston, coup de pied profond)
 * **BPM** : 120-150
-* **Traitement vocal** : réverbération plus profonde, réglage automatique, traitement dub
+* **Traitement vocal** : réverbération plus profonde, Auto-Tune, traitement dub
 * **Texture** : Citations sur la culture des années 90/an 2000
 
 Vous trouverez ci-dessous un diagramme de relations illustrant la structure sonore :

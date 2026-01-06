@@ -21,7 +21,7 @@ Leurs sorties font référence à des personnages échantillonnés comme des « 
 
 En réalité, il ne s’agit pas de véritables artistes additionnels.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Eine Insel Mit Zwei Bergen (Wilde 13 - Pirate Mix)
 
@@ -30,7 +30,7 @@ B1. Eine Insel Mit Zwei Bergen (Lummerland Club Mix)
 B2. Eine Insel Mit Zwei Bergen (Frau Mahlzahn Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m19329516022?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m19329516022?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pa499B8YuPw?si=xcEcj837ticyfKdJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

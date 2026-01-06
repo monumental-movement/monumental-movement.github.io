@@ -17,7 +17,7 @@ Ratty est le projet côté transe de l'artiste allemand Scooter, spécialisé da
 
 La face B "Sunrise (Here I Am) (Instrumental)" est la version originale du single "She's The Sun" de Scooter en 2000 appelé "Sunrise (Ratty's Inferno)".
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Sunrise (Here I Am) (Club Mix)
 
@@ -26,7 +26,7 @@ B1. Sunrise (Here I Am) (Dub Mix)
 B2. Sunrise (Here I Am) (Instrumental)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m87341186255?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m87341186255?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WotCS548-7E?si=8R5qdrkR_Xasud_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

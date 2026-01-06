@@ -21,14 +21,15 @@ title: Ramassez des œuvres de batterie et de basse
 <a href="https://jp.mercari.com/item/m84434801659?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Nylon%20Roadster%20Cosmic%20Glue.webp"></a>
 Un morceau breakbeat de 12″ avec un piano doux et émotionnel vers 1996-97.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 X. Nylon Roadster
 
 Y. Cosmic Glue
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m84434801659?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m84434801659?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -36,19 +37,20 @@ Y. Cosmic Glue
 
 <hr>
 
-### Aquasky – Tranquility / Kauna
+### Aquasky – Tranquillité / Kauna
 <a href="https://jp.mercari.com/item/m94343829211?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Tranquility%20Kauna.webp"></a>
 
 Acide émotionnel et breakbeat sorti par Moving Shadow au Royaume-Uni en 1996.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 X. Nylon Roadster
 
 Y. Cosmic Glue
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m94343829211?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m94343829211?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -57,19 +59,20 @@ Y. Cosmic Glue
 <hr>
 
 
-### Dillinja – Fluid / Hard Noize
+### Dillinja – Fluide / Bruit dur
 <a href="https://jp.mercari.com/item/m77354316625?afid=6142608987"><img src="../assets/images/Dillinja%20%E2%80%93%20Fluid%20Hard%20Noize.webp"></a>
 
 Un morceau de drum and bass underground classique de 12″ avec la puissante basse « Reese ».
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Hard Noize
 
 AA. Fluid
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m77354316625?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m77354316625?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -77,19 +80,20 @@ AA. Fluid
 
 <hr>
 
-### Motiv One – Cosmik / Loop Progression
+### Motiv One – Cosmik / Progression en boucle
 <a href="https://jp.mercari.com/item/m37201781569?afid=6142608987"><img src="../assets/images/Motiv%20One%20%E2%80%93%20Cosmik%20%20Loop%20Progression.webp"></a>
 
-Contient des sons légers, jazzy et futuristes avec un break principal.
+Contient un son léger, jazzy et futuriste centré sur des pauses amen.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Cosmik
 
 AA. Loop Progression
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m37201781569?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m37201781569?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -97,20 +101,21 @@ AA. Loop Progression
 
 <hr>
 
-### Drumagick – Cambraia / Brasil
+### Drumagick – Cambraia / Brésil
 
 <a href="https://jp.mercari.com/item/m42086405804?afid=6142608987"><img src="../assets/images/Drumagick%20%E2%80%93%20Cambraia.webp"></a>
 
 12″ des années 2000, avec un rythme qui mélange des éléments latins brésiliens et jazz.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Cambraia
 
 B. Brasil
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m42086405804?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m42086405804?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -118,13 +123,13 @@ B. Brasil
 
 <hr>
 
-### Aaron Spectre – Amen, Punk
+### Aaron Specter – Amen, Punk
 
 <a href="https://jp.mercari.com/item/m37597646129?afid=6142608987"><img src="../assets/images/Aaron%20Spectre%20%E2%80%93%20Amen,%20Punk.webp"></a>
 
 Un album unique basé sur le break Amen (2023) qui apporte le côté féroce du punk/hardcore.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. 1600 Penn, FTW
 
@@ -132,7 +137,8 @@ B1. Pay To Cum VIP
 B2. You Don't Know
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m37597646129?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m37597646129?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -140,21 +146,22 @@ B2. You Don't Know
 
 <hr>
 
-### DJ Gilb‑R – Pressure
+### DJ Gilb‑R – Pression
 <a href="https://jp.mercari.com/item/m48438741904?afid=6142608987"><img src="../assets/images/DJ%20Gilb-R%20%E2%80%93%20Pressure.webp"></a>
 
 Sorti en France en 1997. Comprend également le remix de Laurent Garnier.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Pressure (Original Mix)
 
 AA. Pressure (Laurentlaboratoiral'ancienne Mix) 
 
-Remix, Producteur – Laurent Garnier
-````
+Remix, Producer – Laurent Garnier(ローラン・ガルニエ)
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m48438741904?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m48438741904?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -162,7 +169,7 @@ Remix, Producteur – Laurent Garnier
 
 <hr>
 
-### List
+### Liste
 
 <div class="table-border">
 <table>

@@ -18,7 +18,7 @@ David Christopher Daniel Wahlgren, également connu sous le nom de Papa Dee, est
 
 "Island Rock" est un album Pop Rap sorti par WEA en 1998. Le coproducteur est le producteur suédois Kent Gillström.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Endless Road
 2. Island Rock
@@ -35,7 +35,7 @@ David Christopher Daniel Wahlgren, également connu sous le nom de Papa Dee, est
 13. She's So Fine
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m10533972601?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m10533972601?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dFYU0IFnEic?si=Sj0scky_1yptpxvV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

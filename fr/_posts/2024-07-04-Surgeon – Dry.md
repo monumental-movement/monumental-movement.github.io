@@ -14,9 +14,9 @@ title: Chirurgien – Sec
 ---
 
 
-Un morceau techno sorti en 1999 par le DJ et musicien électronique britannique Anthony Child, également connu sous le nom de Surgeon, de son label Dynamic Tension Records.
+Un morceau techno sorti en 1999 par le DJ et musicien électronique britannique Anthony Child, également connu sous le nom de Surgeon, sur son label Dynamic Tension Records.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Untitled
 A2. Untitled
@@ -25,7 +25,7 @@ B1. Untitled
 B2. Untitled
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m21648905240?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m21648905240?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0qhzTJ4cBKs?si=1l0v5DjrNOUewWb9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

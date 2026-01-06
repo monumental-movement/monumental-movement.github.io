@@ -20,14 +20,14 @@ Yann Larret-Menezo, également connu sous le nom de Le Tone, est un artiste de m
 
 La face B est un remix de James Hatt, basé à Londres, également connu sous le nom de JADELL.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Joli Dragon (Dragonfly Mix)
 
 B. Joli Dragon (Jadell Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m91057170688?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m91057170688?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LVYtCk9viPY?si=Wc4viViE5Ci7XTiK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

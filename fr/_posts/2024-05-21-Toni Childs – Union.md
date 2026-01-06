@@ -21,7 +21,7 @@ En 1979, il est brièvement chanteur de Berlin, un groupe de New Wave originaire
 
 Sorti en 1988, l'album « Union » était le premier album solo de Toni Childs et fut un énorme succès, devenant disque d'or aux États-Unis et double platine en Australie. En 1989, elle a été nominée pour deux Grammy Awards, celui du meilleur nouvel artiste et de la meilleure performance vocale rock, et a été la première partie de Bob Dylan en tournée cette année-là.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Don't Walk Away
 A2. Walk And Talk Like Angels
@@ -35,7 +35,7 @@ B3. Tin Drum
 B4. Where's The Ocean
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m93736352802?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93736352802?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S00HHzXZUrg?si=_gy07k0aFQtCs9tX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

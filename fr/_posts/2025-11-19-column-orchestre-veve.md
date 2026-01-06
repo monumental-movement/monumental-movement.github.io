@@ -18,6 +18,7 @@ title: '[Chronique] Orchestra Veve : Une histoire complète du prestigieux group
 
 ## Prologue : Importance historique d'Orchestra Veve
 
+
 Texte : mmr｜Thème : Contexte de la formation d'Orchestra Veve, caractéristiques musicales de l'âge d'or, aspects techniques, analyse de chansons représentatives, comparaison avec d'autres groupes
 
 Orchestra Veve est un groupe qui occupe une place importante dans l'histoire musicale du Congo (anciennement Zaïre). Ils ont été actifs au tournant de la transition de la rumba congolaise au soukous, et ont dominé la scène principalement dans les années 1970 avec leurs enregistrements vigoureux et leurs ensembles innovants.
@@ -37,11 +38,12 @@ color: #fff;
 }
 </style>
 
+
 # Chapitre 1 Contexte de la formation et de la situation de la scène musicale congolaise
 
-À la fin des années 1960, la musique congolaise formait déjà une culture live compétitive dans le Grand Quartier. Alors que des groupes puissants tels que OK Jazz, African Fiesta et Zaïko se faisaient concurrence et que la sophistication des ensembles de guitares et de la polyphonie vocale s'accélérait, le nombre de labels indépendants soutenant le succès des jeunes musiciens augmentait.
+À la fin des années 1960, la musique congolaise formait déjà une culture live compétitive dans le Grand Quartier. Alors que plusieurs groupes puissants tels que OK Jazz, African Fiesta et Zaïko se faisaient concurrence et que la sophistication des ensembles de guitares et des parties polyphoniques vocales s'accélérait, le nombre de labels indépendants soutenant le succès des jeunes musiciens augmentait.
 
-Orchestra Veve est né au milieu de cette fluidité musicale apportée par l’urbanisation et l’expansion médiatique de l’ère post-indépendance. C'est en particulier à cette époque que plusieurs groupes émergents ont émergé en raison de la combinaison de la forte culture de la danse du Congo, de l'influence croissante des diffuseurs et de la demande de spectacles dans les bars des coins de rue.
+Orchestra Veve est né au milieu de cette fluidité musicale apportée par l’urbanisation et l’expansion médiatique de l’ère post-indépendance. En particulier, c'était une époque où plusieurs groupes émergents émergeaient en raison de la combinaison de la forte culture de la danse du Congo, de l'influence croissante des diffuseurs et de la demande de spectacles dans les bars des coins de rue.
 
 ---
 
@@ -51,7 +53,7 @@ Le fondateur **Veve Verckys** était un saxophoniste et un homme d'affaires visi
 
 Orchestra Veve est bien plus qu'un simple groupe.
 **Équipe de performance + équipe d'enregistrement + direction de production + réseau de promotion**
-C'était très organisé pour l'époque.
+Elle avait une structure très organisée pour l’époque.
 
 La politique de gestion de Veran peut être résumée dans les trois points suivants.
 
@@ -88,9 +90,9 @@ La raison pour laquelle cette « coexistence de la quantité et de la qualité �
 
 Cet article se concentrera sur les trois chansons suivantes en tant que chansons représentatives nées au cours de cet âge d'or.
 
-- **「Zonga Andowe」**  
-- **「Mfumbwa」**  
-- **「Nitarudia」**  
+-**"Zonga Andowe"**
+-**"Mfumbwa"**
+- **"Nitarudia"**
 
 Ces chansons montrent le cœur de la musique dance de Veve, tout en montrant clairement les caractéristiques du contenu lyrique, de la structure de la guitare et du mixage.
 
@@ -100,7 +102,7 @@ Ces chansons montrent le cœur de la musique dance de Veve, tout en montrant cla
 
 ## Rôle de la guitare solo
 
-La guitare solo de Veve se caractérisait par une mélodie « notch » plus aiguë que celle des autres groupes de l'époque. Particulièrement visible dans les enregistrements des années 1970.
+La guitare principale de Veve se caractérisait par une mélodie « notch » plus aiguë que celle des autres groupes de l'époque. Particulièrement visible dans les enregistrements des années 1970.
 
 - Montée chromatique
 - trémolo rapide
@@ -110,7 +112,7 @@ La guitare solo de Veve se caractérisait par une mélodie « notch » plus aigu
 
 ## Structure de l'ensemble vocal
 
-Le chant de Veve est basé sur une **harmonie à trois ou quatre parties**, une personne conservant la mélodie principale tandis que les deux ou trois autres ajoutent une contre-mélodie.  
+Le chant de Veve est basé sur une **harmonie à trois ou quatre parties**, une personne conservant la mélodie principale tandis que les deux ou trois autres ajoutent une contre-mélodie.
 Comparé à la musique monoligne de ZAïko et à la musique basée sur les harmonies profondes d'OK Jazz, Veve se situe quelque part entre les deux, avec beaucoup d'**harmonies claires et lumineuses**.
 
 ## Innovation dans la section rythmique
@@ -200,7 +202,7 @@ flowchart LR
 # Chapitre 7 Technologie d'enregistrement, environnement studio, système de production
 
 L'environnement d'enregistrement de Veve était à l'époque l'un des plus avancés d'Afrique.
-Il possédait son propre studio, comptait plusieurs ingénieurs du son parmi son personnel et présentait les caractéristiques techniques suivantes :
+Il possédait son propre studio et plusieurs ingénieurs du son étaient toujours présents et présentait les caractéristiques techniques suivantes.
 
 - **Profitez rapidement de la période de transition de l'enregistrement 2-4 pistes à l'enregistrement 4-8 pistes**
 - **Méthode stéréo pour balancer la guitare à gauche et à droite**
@@ -214,7 +216,7 @@ L'une des caractéristiques de cette œuvre est qu'elle donne la priorité à l'
 # Chapitre 8 Culture de la danse et histoire de la réception : le Congo et la diaspora
 
 La musique de Veve a eu une grande influence sur la culture de la danse urbaine du Congo.
-Il est particulièrement populaire dans les bars (salles de danse), et chaque fois que l'enregistrement d'un groupe est joué, certaines étapes s'établissent.
+Il est particulièrement populaire dans les bars (salles de danse), et chaque fois que l'enregistrement d'un groupe est diffusé, certaines étapes s'établissent.
 
 * **Style qui utilise de grands gestes de la main**
 * **Marches avec un fort mouvement latéral**
@@ -237,7 +239,7 @@ Bien que les deux soient de la même époque, leurs orientations sont très diff
 
 ## Distanciation musicale avec OK Jazz
 
-Veran lui-même vient d'OK Jazz, ils ont donc le même sens de l'harmonie et la même profondeur de traitement mélodique, mais
+Puisque Veran lui-même est d'OK Jazz, ils ont le même sens de l'harmonie et la même profondeur de traitement mélodique, mais
 Veve est plus moderne et dansant que OK Jazz.
 
 ## Points communs avec Afrisa International
@@ -294,8 +296,8 @@ L'héritage musical de Veve est
 
 * **Augmentation de la vitesse de Soukusu**
 * **Musique urbaine dirigée par le saxophone**
-* **Subdivision ensemble de guitares**
-  Il a eu une profonde influence sur la musique congolaise contemporaine.
+* **Subdivision de l'ensemble de guitares**
+Il a eu une profonde influence sur la musique congolaise contemporaine.
 
 En outre, le modèle de production musicale basé sur un système, qui créait une infrastructure d’enregistrement et formait de manière dynamique de jeunes interprètes, a servi de ligne directrice majeure pour la gestion ultérieure des labels.
 

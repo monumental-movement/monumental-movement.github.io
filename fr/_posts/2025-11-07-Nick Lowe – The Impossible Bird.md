@@ -19,7 +19,7 @@ Nick Lowe est un auteur-compositeur-interprète/musicien/producteur britannique.
 
 "The Impossible Bird" est un album Pop Rock/Country Rock/Pub Rock sorti en 1994 avec le coproducteur Neil Brockbank. (Rééditer)
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Soulful Wind
 2. The Beast In Me
@@ -36,7 +36,7 @@ Nick Lowe est un auteur-compositeur-interprète/musicien/producteur britannique.
 13. I'll Be There
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m38200351869?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m38200351869?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h_U8lR_JrDo?si=UMGoRySTUA1u-kES" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

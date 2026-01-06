@@ -16,7 +16,7 @@ title: John Tejada – Rêveries par temps froid
 « Rêveries par temps froid » est
 Il s'agit d'un double LP de John Tejada sorti en 2002 par le label britannique "Plug Research".
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. To The West
 
@@ -43,7 +43,7 @@ D11. In Coach5:06
 D12. Some Would Know Why
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m89173131309?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m89173131309?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-IhLF7XI2vA?si=-P_QKitbQvPrQe9f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

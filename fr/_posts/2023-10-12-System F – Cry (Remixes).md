@@ -21,7 +21,7 @@ Le premier morceau de la face B est un remix d'Oliver Lieb, DJ et producteur act
 Le deuxième morceau de la face B est un mix self-club de Ferry Corsten, également connu sous le nom de System F.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Cry (CRW Mix)
 
@@ -32,7 +32,7 @@ B1. Cry (Oliver Lieb Remix)
 B2. Cry (Ferry Corsten Club Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m13662586330?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m13662586330?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dnABU3Iqge4?si=_cU6vI92gaatWXSR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

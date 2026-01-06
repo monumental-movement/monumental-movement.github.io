@@ -20,7 +20,7 @@ Moe est un groupe de jam rock américain formé à l'Université de Buffalo en 1
 "Dither" est le cinquième album studio de Moe. Il est sorti en 2001 sur le propre label du groupe, Fatboy Records, et présente DJ Logic, Kirk Juhas et les frères Nykw-ILL.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Captain America
 2. Faker
@@ -38,7 +38,7 @@ Moe est un groupe de jam rock américain formé à l'Université de Buffalo en 1
 12.3. Captain America Remix
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m92862896325?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m92862896325?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tdi9ZLNxzss?si=08uL1D75N2GCuT7w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -16,7 +16,7 @@ title: Radiohead – Airbag / Comment je conduis ?
 
 Le cinquième EP du groupe de rock britannique Radiohead, sorti en Amérique du Nord en 1998. Contient les faces B des singles (à l'exclusion de "Lull" et "How I Made My Millions") sortis de "OK Computer", le troisième album studio de Radiohead et sa percée mondiale, et "Airbag".
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Airbag
 2. Pearly
@@ -27,7 +27,8 @@ Le cinquième EP du groupe de rock britannique Radiohead, sorti en Amérique du 
 7. Palo Alto
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m74234623422?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m74234623422?afid=6142608987){: .button1}
 
 
 #### Youtube

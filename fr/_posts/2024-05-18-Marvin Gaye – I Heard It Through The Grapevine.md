@@ -18,7 +18,7 @@ title: Marvin Gaye - Je l'ai entendu à travers la vigne
 
 L'album est initialement sorti sous le titre "In the Groove", mais a été changé pour le même titre après que I Heard It Through The Grapevine soit devenu un succès.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. You
 A2. Tear It On Down
@@ -35,7 +35,7 @@ B5. You're What's Happening (In The World Today)
 B6. There Goes My Baby
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m30034025091?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m30034025091?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5ZnrZnFSlWU?si=c2baha8KAvVOGZeK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

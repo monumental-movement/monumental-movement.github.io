@@ -22,7 +22,7 @@ Les morceaux 1 et 3 de la face A sont produits par le DJ de renommée mondiale J
 
 Les faces B 1 et 3 sont produites par Kikuo Nishi, membre des Visionaries, alias Key Kool.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. If You Can't Say Love (Album Version)
 
@@ -37,7 +37,7 @@ B2. Domakesaythink (Instrumental)
 B3. Domakesaythink (Acapella)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m13872107286?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m13872107286?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a1UmQJ7ulb4?si=5RiVlghOzvJ08SsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

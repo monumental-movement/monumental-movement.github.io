@@ -19,7 +19,7 @@ Il est devenu célèbre avec la sortie de "Bobby Babylon" au début des années 
 
 "Carry Go Bring Come" est un album reggae sorti en 1994 avec le producteur Augustus "Gussie" Clarke. Le 14ème morceau est un morceau bonus disponible uniquement sur la version japonaise.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. This Carry Go Bring Come (Chatty Chatty Mouth)
 2. Want You To Be There
@@ -37,7 +37,7 @@ Il est devenu célèbre avec la sortie de "Bobby Babylon" au début des années 
 14. Flirty Flirty Riddim
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m16728705425?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m16728705425?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CLsbP6djl4U?si=ZV8OHbHAH6d5qHZ3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

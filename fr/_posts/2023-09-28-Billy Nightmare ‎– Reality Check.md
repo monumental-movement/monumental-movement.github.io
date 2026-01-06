@@ -23,7 +23,7 @@ Les deux morceaux de la face A ont des rythmes sombres qui projettent une ombre 
 
 Toutes les chansons ont été remasterisées par George Horn aux Fantasy Studios.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. I've Seen The World
 
@@ -34,7 +34,7 @@ B1. Dance,Shake,Swing
 B2. Dance... Version 2
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m23235956197?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23235956197?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z7OPjWtuCsw?si=FEGhbMnWJOEJrLxo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

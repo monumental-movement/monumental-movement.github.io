@@ -18,11 +18,12 @@ title: '[Chronique] Teo Macero et Miles Davis —— Le moment où le montage d�
 
 ## Prologue : « Un autre instrument » appelé la salle d'enregistrement
 
+
 Texte : mmr | Thème : « La révolution musicale par le montage » construit par Miles Davis et Teo Macero – Tracer de nouveaux horizons dans l'art de l'enregistrement grâce à la magie de l'assemblage et de la composition des bandes.
 
 À la fin des années 1960, la musique de Miles Davis n'est plus une extension de ses performances live, mais se transforme en une « architecture sonore » construite par l'enregistrement et le montage. Derrière ce changement se trouve le producteur et monteur **Teo Macero**.
 
-Masero n’était pas seulement une personne « dans les coulisses ». Entre ses mains, un grand nombre de bandes de sessions ont été coupées, collées et réassemblées, donnant naissance à un ensemble d'œuvres que l'on peut qualifier de « composition par montage ».  
+Masero n’était pas seulement une personne « dans les coulisses ». Entre ses mains, un grand nombre de bandes de sessions ont été coupées, collées et réassemblées, donnant naissance à un ensemble d'œuvres que l'on pourrait qualifier de « composition par montage ».
 « In a Silent Way » (1969) et « Bitches Brew » (1970) en sont d'excellents exemples. Il y a une **révolution dans l'esthétique du montage** qui dépasse les frontières entre « performance » et « composition ».
 
 ---
@@ -40,12 +41,13 @@ color: #fff;
 }
 </style>
 
+
 ## Chapitre 1 : La naissance d'un éditeur nommé Teo Macero
 
-Teo Macero est né en 1925 à Glens Falls, New York. Il a débuté sa carrière comme saxophoniste de jazz et a ensuite étudié la composition à l'Université de Columbia, où il s'est familiarisé avec la musique contemporaine d'avant-garde.  
+Teo Macero est né en 1925 à Glens Falls, New York. Il a débuté sa carrière comme saxophoniste de jazz et a ensuite étudié la composition à l'Université de Columbia, où il s'est familiarisé avec la musique contemporaine d'avant-garde.
 Comme Stockhausen et Varèse, Macero a développé très tôt une conscience de traiter le son comme un matériau.
 
-À la fin des années 1950, il devient producteur chez Columbia Records, travaillant avec des artistes tels que Miles Davis et Dave Brubeck.  
+À la fin des années 1950, il devient producteur chez Columbia Records, travaillant avec des artistes tels que Miles Davis et Dave Brubeck.
 Mais ce qui le différencie des autres producteurs, c'est qu'il conçoit le montage lui-même comme un lieu de création.
 
 > "Même après la fin du spectacle, la musique ne s'arrête pas. Tout recommence dans la salle de montage."
@@ -55,13 +57,13 @@ Mais ce qui le différencie des autres producteurs, c'est qu'il conçoit le mont
 
 ## Chapitre 2 : « De manière silencieuse »—— La magie du montage temporel
 
-« In a Silent Way », enregistré en 1969, peut être considéré comme le « point de départ du montage » dans l'histoire du jazz.  
-Miles, John McLaughlin, Chick Corea, Wayne Shorter et d'autres ont improvisé les sessions, mais Theo Macero a audacieusement restructuré les enregistrements.
+« In a Silent Way », enregistré en 1969, peut être considéré comme le « point de départ du montage » dans l'histoire du jazz.
+Miles, John McLaughlin, Chick Corea, Wayne Shorter et d'autres ont improvisé la séance, mais Theo Macero a audacieusement reconstruit l'enregistrement.
 
-Ce qui est particulièrement impressionnant est la « structure en anneau » dans laquelle la même prise est utilisée au début et à la fin.  
+Ce qui est particulièrement impressionnant est la « structure en anneau » dans laquelle la même prise est utilisée au début et à la fin.
 Des phrases qui n'étaient jouées qu'une seule fois dans l'enregistrement lui-même "réapparurent" grâce au montage de Macero, incarnant musicalement le concept de **boucle temporelle**.
 
-Cette structure anticipe les sensibilités que l’on retrouvera plus tard dans la techno ambiante et minimale.  
+Cette structure anticipe les sensibilités que l’on retrouvera plus tard dans la techno ambiante et minimale.
 Macero a supprimé le « temps linéaire de la musique » et a créé un « temps circulaire grâce au montage ».
 
 <div class="mermaid">
@@ -78,12 +80,13 @@ flowchart LR
 
 ---
 
+
 ## Chapitre 3 : « Bitches Brew » —— La table d'opération qui crée de l'ordre à partir du chaos
 
 Avec Bitches Brew des années 1970, les techniques de montage de Macero ont encore explosé.
 Plus de six magnétophones fonctionnaient en même temps, donnant au studio l’impression d’être un laboratoire.
 
-Chaque interprète ne partage pas de thème commun, ce qui entraîne un flot d'improvisations fragmentées.
+Chaque interprète ne partage pas de thème commun, ce qui entraîne un **déluge d'improvisation fragmentée**.
 Macero a divisé ces fragments en unités de plusieurs mètres et a conçu le flux rythmique et le « lieu » acoustique grâce au montage.
 
 > "J'ai découpé des sons et je les ai reconstruits. C'était le même acte que composer."
@@ -123,12 +126,12 @@ C'était le précurseur du paradigme « édition = composition ».
 
 - Créer de nouveaux contextes en contrôlant les coïncidences (réorganiser l'ordre des phrases)
 
-Cette philosophie sera plus tard transposée dans l'échantillonnage hip-hop et dans l'art de studio de Brian Eno.
+Cette philosophie a ensuite été transposée dans l'échantillonnage hip-hop et dans l'art de studio de Brian Eno.
 En d’autres termes, Macero s’est forgé un nouveau métier : « compositeur post-enregistrement ».
 
 ---
 
-## Chapitre 5 : Tension avec Miles
+## Chapitre 5 : Tension avec Miles
 
 La relation entre Miles Davis et Macero a toujours été une relation de collaboration et de conflit.
 Tandis que Miles recherchait la liberté d'improvisation, Macero cherchait à façonner les résultats par le montage.
@@ -186,10 +189,11 @@ timeline
 
 ---
 
+
 ## Chapitre 8 : Procédure d'édition Macero —— « Composition après enregistrement » en pratique
 
-Le montage de Teo Macero va bien au-delà du simple « copier-coller ».  
-Son processus était véritablement compositionnel, traitant le matériel enregistré comme du matériel sonore.  
+Le montage de Teo Macero va bien au-delà du simple « copier-coller ».
+Son processus était véritablement compositionnel, traitant le matériel enregistré comme du matériel sonore.
 Le diagramme Mermaid ci-dessous est une reconstitution étape par étape de son flux de travail d'édition typique.
 
 <div class="mermaid">
@@ -221,7 +225,7 @@ Il y a ici un fondement philosophique qui résonne dans tout l’art du XXe siè
 | -------------------------- | -------------------- | ------------- |
 | **Constructivisme** | Le sens se crée à travers l'agencement et le réarrangement des matériaux | Architecture/Musique contemporaine |
 | **Chance contrôlée** | Contrôler les fragments improvisés par le montage | Cage, Varèse |
-| **Sculpter dans le temps** | Concevoir le « temps auditif » par le montage | Montage de films (Tarkovsky) |
+| **Sculpter dans le temps** | Concevoir un « temps auditif » par le montage | Montage de films (Tarkovsky) |
 | **Méta-composition** | Reconfigurer les matériaux à un niveau de composition supérieur | Art sonore, culture DAW |
 
 Macero a été la première personne à incarner le concept de « composition en deux étapes », dans lequel la musique est composée après l'enregistrement.
@@ -234,7 +238,7 @@ Pour lui, l'improvisation était la « génération de matériaux » et le monta
 
 ## Chapitre 10 : Analyse acoustique —— « Structure auditive » créée par édition
 
-Le montage de Teo Macero n'a pas seulement changé la structure de la chanson, mais a également transformé l'espace acoustique et la structure même de l'écoute.
+Le montage de Teo Macero a non seulement modifié la composition de la musique, mais a également transformé l'espace acoustique et la structure même de l'écoute.
 Surtout lorsque l'on compare "In a Silent Way" et "Bitches Brew", vous pouvez voir une philosophie sonore claire dans la direction du montage.
 
 | Éléments | « De manière silencieuse » (1969) | «Bitches Brew» (1970) |
@@ -303,8 +307,8 @@ graph TD
 
 ## Chapitre 11 : « Bitches Brew » —— Composition de la bande et carte d'édition
 
-Bitches Brew a été enregistré au Columbia Studio B entre le 19 et le 21 août 1969.  
-Les sessions se sont étalées sur trois jours, chacune durant des dizaines de minutes **sous forme de jam impromptu**.  
+Bitches Brew a été enregistré au Columbia Studio B entre le 19 et le 21 août 1969.
+Les sessions se sont étalées sur trois jours, chacune durant des dizaines de minutes **sous forme de jam impromptu**.
 Teo Macero a assemblé et édité cette grande quantité de matériel enregistré pour créer la structure finale de l'album.
 
 ---
@@ -465,7 +469,7 @@ Il s'agissait d'une tentative d'utiliser l'espace du studio comme « un autre in
 ## Dernier chapitre : L'héritage de « l'oreille » de Teo Macero
 
 Le montage de Macero n'était pas seulement un « post-traitement » mais une redéfinition de l'art de l'enregistrement lui-même.
-Il n’a pas tracé de frontière claire entre la performance et le montage. Cet écart était plutôt la source de la créativité.
+Il n'a pas tracé de frontière claire entre la performance et le montage. Cet écart était plutôt la source de la créativité.
 
 Dans la production musicale moderne, les actes que nous effectuons inconsciemment, tels que le « cut and loop », l'« automation » et le « remix », sont tous des extensions de la philosophie de Macero.
 Son accomplissement n’est rien de moins que de transformer la technologie de l’enregistrement en une forme d’art en tant qu’extension de la pensée humaine.

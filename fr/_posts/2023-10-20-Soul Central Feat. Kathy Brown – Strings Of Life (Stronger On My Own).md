@@ -18,7 +18,7 @@ Remake de Soul Central de "Strings Of Life" de Derrick May sorti en 1987. Soul C
 
 Le premier morceau de la face B est un remix du DJ/producteur disco et électronique américain Danny Krivit.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Strings Of Life (Stronger On My Own) (Full Length Vocal)
 
@@ -27,7 +27,7 @@ AA1. Strings Of Life (Danny Krivit Re Edit)
 AA2. Strings Of Life (Funky Lowlives Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m50862629697?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m50862629697?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rqUQikzeKy8?si=d8v1Wy6WNLw_tHPB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

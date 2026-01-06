@@ -19,9 +19,9 @@ Bent est un duo électronique et downtempo du Royaume-Uni actif de 1999 à 2009 
 
 A est Acid Remix du groupe électronique italien Planet Funk.
 
-B1 est un Dub Remix d'Ashley Beedle, DJ et producteur britannique actif depuis la fin des années 1980.
+B1 est un Dub Remix d'Ashley Beedle, un DJ et producteur britannique actif depuis la fin des années 1980.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Stay The Same (Planet Funk Acid Remix)
 
@@ -29,7 +29,7 @@ B1. Magic Love (Ashley Beedle's Trickbag Dub Mix)
 B2. Stay The Same (Themroc Remix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m86928683076?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86928683076?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TQqpY7w9kpU?si=D00RvsQKZSRMmDU9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

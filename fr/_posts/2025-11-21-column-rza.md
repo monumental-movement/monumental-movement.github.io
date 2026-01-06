@@ -19,6 +19,7 @@ title: '[Chronique] RZA : Une histoire complète de la création et de la philo
 
 ## 1. Enfance et environnement musical
 
+
 Texte : mmr｜Thème : RZA Musique de film, philosophie de production et activités ultérieures
 
 Robert Fitzgerald Diggs (RZA) est né le 5 juillet 1969 à Stony Brook, New York.
@@ -41,6 +42,7 @@ background-color: #111;
 color: #fff;
 }
 </style>
+
 
 ## 2. Formation et premiers travaux du Wu-Tang Clan
 
@@ -71,25 +73,25 @@ RZA a utilisé EPS-16+, SP-1200 et MPC60 comme environnements de production init
 De 1994 à 1997, RZA a supervisé le travail solo des membres.
 Les œuvres représentatives et les pistes distinctives sont les suivantes :
 
-* **GZA – 『Liquid Swords』(1995)**
+* **GZA – « Épées liquides » (1995)**
 
 * **« Duel of the Iron Fist »** : échantillon Dark SP-1200 mélangé à des effets sonores d'épée
-  * **« Liquid Swords »** : citations de films de Kung-Fu, caractérisées par des pauses de type zen
+* **« Liquid Swords »** : citations de films de Kung-Fu, caractérisées par des pauses de type zen
 
-* **Raekwon – 『Only Built 4 Cuban Linx…』(1995)**
+* **Raekwon – « Seulement 4 Linx cubains construits… » (1995)**
 
 * **« C.R.E.A.M. »** : boucles d'échantillons Soul des années 80 et reconstruction du rythme avec MPC
-  * **« Ice Cream »** : Contraste de douceur et de rugosité, la méthode d'échantillonnage unique de RZA
+* **« Ice Cream »** : Contraste de douceur et de rugosité, la méthode d'échantillonnage unique de RZA
 
-* **Ol’ Dirty Bastard – 『Return to the 36 Chambers』(1995)**
+* **Ol' Dirty Bastard – « Retour aux 36 Chambres » (1995)**
 
 * **« Brooklyn Zoo »** : des voix rugueuses, des rythmes grossiers et les compétences d'édition de RZA brillent
-  * **« Shimmy Shimmy Ya »** : Un motif de batterie simple superposé à des échantillons de débris pour incarner l'esthétique du chaos.
+* **« Shimmy Shimmy Ya »** : Un motif de batterie simple superposé à des échantillons de débris pour incarner l'esthétique du chaos.
 
-* **Ghostface Killah – 『Ironman』(1996)**
+* **Ghostface Killah – « Ironman » (1996)**
 
 * **« Tout ce que j'ai, c'est toi »** : échantillon de cordes soul, expression émotionnelle profonde
-  * **« Iron Maiden »** : Batterie lourde, charleston aiguisé, la structure philosophique de RZA se révèle.
+* **« Iron Maiden »** : Batterie lourde, charleston aiguisé, la structure philosophique de RZA se révèle.
 
 <div class="mermaid">
 
@@ -113,14 +115,14 @@ RZA a pratiqué la coexistence de la rugosité et de la précision, ainsi que la
 
 En 1999, RZA a sorti un travail solo expérimental sous le nom de **Bobby Digital**.
 
-* **『Bobby Digital in Stereo』(1998)**
+* **``Bobby Digital en stéréo'' (1998)**
 
 * Chanson « Puzzled » : combine des synthés futuristes avec une batterie grossièrement taillée
-  * Chanson « Love Jones » : échantillon de jazz savamment traité
+* Chanson « Love Jones » : échantillon de jazz savamment traité
 * **« Balle numérique » (2001)**
 
 * Chanson « Keep It Movin' » : composition rythmique intégrant le style de la musique de film
-  * Chanson "Glocko Pop" : texture expérimentale avec échantillonnage approximatif et rythme en boucle
+* Chanson "Glocko Pop" : texture expérimentale avec échantillonnage approximatif et rythme en boucle
 
 Dans ces œuvres, RZA poursuit une conception sonore qui dépasse le cadre du hip-hop traditionnel.
 
@@ -131,23 +133,23 @@ Dans ces œuvres, RZA poursuit une conception sonore qui dépasse le cadre du hi
 Après 1999, RZA débute sa carrière de compositeur de films.
 Les œuvres représentatives comprennent :
 
-* **『Ghost Dog: The Way of the Samurai』(1999)**
+* **Ghost Dog : La voie du samouraï (1999)**
 
 * Fusion de la culture des samouraïs japonais avec le hip-hop
-  * Chanson « Bird's Theme » : un motif de batterie simple avec des échantillons de shakuhachi et de koto
-  * RZA renforce la **narration** à travers la musique, en mettant l'accent sur l'unité de l'image et du son.
+* Chanson « Bird's Theme » : un motif de batterie simple avec des échantillons de shakuhachi et de koto
+* RZA renforce la **narration** à travers la musique, en mettant l'accent sur l'unité de l'image et du son.
 
-* **『Kill Bill Vol.1 / Vol.2』(2003/2004)**
+* **``Kill Bill Vol.1 / Vol.2'' (2003/2004)**
 
 * À la demande de Quentin Tarantino, la musique agrémente les scènes de combat et de course-poursuite du film.
-  * Arrangement et reconstruction de chansons existantes telles que « Battle Without Honor or Humanity »
-  * Application de la propre philosophie de production de RZA **reconstruction d'échantillons de fragments et espacement**
+* Arrangement et reconstruction de chansons existantes telles que « Battle Without Honor or Humanity »
+* Application de la propre philosophie de production de RZA **reconstruction d'échantillons de fragments et espacement**
 
-* **『The Man with the Iron Fists』(2012)**
+* **``L'Homme aux poings de fer'' (2012)**
 
 * Réalisé, scénarisé et composé lui-même la musique
-  * Collaborez avec les membres du Wu-Tang Clan et créez des rythmes pour des scènes d'action
-  * Créez un monde musical unique en combinant l'échantillonnage, les sources sonores orchestrales et les équipements analogiques
+* Collaborez avec les membres du Wu-Tang Clan et créez des rythmes pour les scènes d'action
+* Créez un monde musical unique en combinant l'échantillonnage, les sources sonores orchestrales et les équipements analogiques
 
 ---
 

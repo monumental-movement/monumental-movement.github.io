@@ -39,6 +39,7 @@ color: #fff;
 }
 </style>
 
+
 ## Fin des années 1970 : Les origines du Bronx et les fondements de la culture club
 
 ### Contexte de la région/époque
@@ -49,7 +50,7 @@ Les clubs et les fêtes de quartier étaient bien plus que de simples salles de 
 À l'époque, le hip-hop était popularisé grâce à des programmes de radio (par exemple « The Show » de WBLS) et les cassettes démo étaient un moyen important de découvrir des artistes.
 DJ Kool Herc et Afrika Bambaataa ont diffusé leurs mixtapes à la radio locale et lors de soirées, contribuant ainsi à faire passer le message.
 
-### Chef-d'œuvre représentatif
+### Chefs-d'œuvre représentatifs
 
 [The Sugarhill Gang『Rapper's Delight』(1979)](https://amzn.to/4ngQIOx)
 
@@ -72,7 +73,7 @@ Un style G-funk unique a été affiné dans les clubs et les soirées roulantes 
 ### Rôle des cassettes de démonstration et de la radio
 La nouvelle chanson a été diffusée sur les stations de radio locales (KDAY, KMEL) et les jeunes qui ont écouté la démo l'ont diffusée de bouche à oreille. Les DJ des radios locales ont notamment fait office d’arbitres de la scène.
 
-### Chef-d'œuvre représentatif
+### Chefs-d'œuvre représentatifs
 
 [Run-D.M.C.『Raising Hell』(1986)](https://amzn.to/3IBasNE)
 
@@ -100,7 +101,7 @@ OutKast et UGK ont émergé et ont établi leur propre son unique. La distributi
 En raison des problèmes de droits d'auteur et de la hausse des coûts, un nombre croissant d'artistes se tournent vers la production de sources sonores originales et les performances live.
 « The Chronic » (1992) de Dr. Dre utilise habilement l'échantillonnage, tandis que le G-funk utilise beaucoup de synthés et de lignes de basse originales.
 
-### Chef-d'œuvre représentatif
+### Chefs-d'œuvre représentatifs
 
 **East Coast**: [The Notorious B.I.G.『Ready to Die』(1994)](https://amzn.to/3K94fcv)
 
@@ -120,7 +121,7 @@ Déséchantillonnage et changements d’équipement
 Avec la diffusion des DAW (Pro Tools, Ableton Live), il est désormais possible de créer des sources sonores uniques à l'aide de synthés et de plug-ins sans recourir à l'échantillonnage.
 Cela augmente la proportion de rythmes originaux.
 
-### Chef-d'œuvre représentatif
+### Chefs-d'œuvre représentatifs
 
 [Jay-Z『The Blueprint』(2001)](https://amzn.to/4pC13WW)
 
@@ -138,11 +139,11 @@ Battle Rap et Freestyle sont distribués en ligne et sont appréciés au-delà d
 
 Synthé logiciel (Sérum, Omnisphère)
 
-DAW（Ableton Live, FL Studio）
+DAW (Ableton Live, FL Studio)
 
 Extension de l'utilisation des plugins et des packs d'échantillons
 
-### Chef-d'œuvre représentatif
+### Chefs-d'œuvre représentatifs
 
 [Kendrick Lamar『good kid, m.A.A.d city』(2012)](https://amzn.to/4pCB4yv)
 
@@ -169,20 +170,20 @@ Le hip-hop est une culture qui a évolué grâce à un lien étroit entre les r�
 ## Exemple spécifique d'échantillonnage d'un litige en matière de droit d'auteur
 
 - **Grand Upright Music contre Biz Markie (1991)**
-  Le procès pour échantillonnage non autorisé de Gilbert O’Sullivan « Alone Again ». Depuis, il a été précisé que les prélèvements sans autorisation sont illégaux.
+Le procès pour échantillonnage non autorisé de Gilbert O’Sullivan « Alone Again ». Depuis, il a été précisé que les prélèvements sans autorisation sont illégaux.
 
 - **Bridgeport Music contre Dimension Films (2005)**
-  Un incident impliquant une utilisation non autorisée de la boucle de guitare de Funkadelic. C'est devenu un précédent juridique selon lequel l'utilisation d'échantillons sans autorisation, même pour une seconde, est interdite.
+Un incident impliquant une utilisation non autorisée de la boucle de guitare de Funkadelic. C'est devenu un précédent juridique selon lequel l'utilisation d'échantillons sans autorisation, même pour une seconde, est interdite.
 
 - **Les Tortues c. De La Soul (1989~Règlement)**
-  Échantillon non autorisé dans "Transmitting Live from Mars". Depuis, De La Soul est difficile à distribuer numériquement depuis de nombreuses années.
+Échantillon non autorisé dans "Transmitting Live from Mars". Depuis, De La Soul est difficile à distribuer numériquement depuis de nombreuses années.
 
 ---
 
 ## Rôle de la culture mixtape
 
-- Les mixtapes de **DJ Clue, DJ Drama, DJ Screw** et d'autres sont devenues un pont entre l'underground et le mainstream dans les années 90 et au-delà.  
-- **Southern (Houston, ATL)** ``Screw Tape'' et ``Gangsta Grillz'' formaient la scène, permettant de découvrir des artistes indépendants des labels.  
+- Les mixtapes de **DJ Clue, DJ Drama, DJ Screw** et d'autres sont devenues un pont entre l'underground et le mainstream dans les années 90 et au-delà.
+- **Southern (Houston, ATL)** ``Screw Tape'' et ``Gangsta Grillz'' formaient la scène, permettant de découvrir des artistes indépendants des labels.
 - Dans les années 2000, Mixtape s'est déplacé vers "SoundCloud" et "DatPiff" et est devenu un moyen de promotion à l'ère d'Internet.
 
 ---
@@ -291,7 +292,7 @@ flowchart TB
 
 # Comparaison des formes d'onde des rythmes hip-hop typiques
 
-Bien qu'il soit basé sur du texte, il est exprimé avec des pseudo-formes d'onde qui prennent en compte les ondes sinusoïdales et carrées.  
+Bien qu'il soit basé sur du texte, il est exprimé avec des pseudo-formes d'onde qui prennent en compte les ondes sinusoïdales et carrées.
 Vous pouvez comprendre visuellement l’évolution du rythme dans le hip-hop.
 
 ---
@@ -449,7 +450,9 @@ Le hip-hop a évolué pour refléter la culture et le contexte social de chaque 
 
 ### Colonnes associées
 
-🔗 [[Chronique] Aperçu du hip hop de la côte ouest — De ses origines à l'underground](https://monumental-movement.jp/Column-Westcoast-Hiphop-History)
 
-🔗 [[Chronique] Histoire du hip hop de la côte Est — Du Bronx à Brooklyn et dans le monde](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)
+🔗 [【コラム】 西海岸ヒップホップ概史 — 起源からアンダーグラウンドまで](https://monumental-movement.jp/Column-Westcoast-Hiphop-History)
+
+
+🔗 [【コラム】 東海岸ヒップホップ概史 — ブロンクスからブルックリン、そして世界へ](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)
 

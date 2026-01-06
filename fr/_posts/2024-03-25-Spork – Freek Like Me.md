@@ -18,12 +18,12 @@ Un morceau de house progressive sorti sous le nom de Spork par le producteur bri
 
 La face B est un remix du DJ néerlandais Sander Kleinenberg.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Freek Like Me (Alma Matris Reconstruction Remix)
 
 B. Freek Like Me (Sander Kleinenberg Remix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m31370737487?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31370737487?afid=6142608987){: .button1}
 

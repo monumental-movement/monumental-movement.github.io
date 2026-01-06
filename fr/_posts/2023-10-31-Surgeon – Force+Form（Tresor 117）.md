@@ -18,7 +18,7 @@ Un CD du musicien électronique et DJ britannique Surgeon, sorti en 1999 sur Tre
 Surgeon est également connu comme l'un des premiers DJ à utiliser Ableton Live et Final Scratch dans ses DJ sets.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 Remnants Of What Once Was
 
@@ -47,7 +47,7 @@ At The Heart Of It All
 4b. Part 2
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m56790117457?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m56790117457?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nbfFhkk-4Ks?si=b_AtPUTXVb6mVGwp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

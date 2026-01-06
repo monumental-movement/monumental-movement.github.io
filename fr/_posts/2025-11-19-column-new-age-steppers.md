@@ -18,6 +18,7 @@ title: '[Chronique] New Age Steppers : La révolution d''un label d''action qui 
 
 # Prologue : Destruction et reconstruction de Londres en 1979-1980
 
+
 Texte : mmr｜Thème : À propos de l'histoire de « l'équipe mixte » qui symbolisait On-U Sound et des innovations qu'elle a laissées derrière elle
 
 À Londres, à la fin des années 1970, même si l'explosion punk s'était apaisée, la société était toujours en proie à de nombreuses fractures telles que le chômage, la division, les grèves et la discrimination à l'égard des immigrés. La scène ressemblait à un terrain vague, mais ses crevasses sont devenues un foyer de musique.
@@ -40,6 +41,7 @@ background-color: #111;
 color: #fff;
 }
 </style>
+
 
 # Chapitre 1 Qui étaient les Steppers New Age ?
 
@@ -113,28 +115,28 @@ Leur version de la chanson de couverture **« Fade Away »** est connue comme l'
 
 # Chapitre 5 Modifications par album (1981-2012)
 
-## ■ 『New Age Steppers』（1981）
+## ■ « New Age Steppers » (1981)
 
 Une première œuvre qui symbolise le plus l’esprit de NAS.
 La présence d'Ari Up, la performance de Roots Radics et les doublages sur table de Sherwood se sont tous réunis pour établir la norme de la musique hybride.
 
 Chanson représentative
 
-* *Fade Away*
-* *My Love*
-* *Love Forever*
+* *Fondu*
+* *Mon amour*
+* *Amour pour toujours*
 
-## ■ 『Action Battlefield』（1981）
+## ■ « Champ de bataille d'action » (1981)
 
 C'est plus agressif et il y a une forte impression de post-punk.
 La participation de Mark Stewart a renforcé l'agitation.
 
-## ■ 『Foundation Steppers』（1983）
+## ■ « Fondation Steppers » (1983)
 
 C'est la chanson la plus « reggae-like » comme NAS, et la sensation de groove stable augmente.
 Ce travail a également des thèmes socio-politiques forts.
 
-## ■ 『Love Forever』（2012）
+## ■ « L'amour pour toujours » (2012)
 
 Après la mort d'Ari Up, Sherwood a publié une œuvre commémorative comprenant des enregistrements inédits.
 Un document très important qui contient l'énergie finale d'Ari.
@@ -163,7 +165,7 @@ Il est également emblématique de l’histoire culturelle britannique pour sa c
 
 # Chapitre 7 Technologie d'enregistrement et esthétique du studio
 
-La méthode du studio de Sherwood est
+La méthode de Sherwood en studio est
 **« Environ la moitié de l'œuvre est créée après l'enregistrement »**
 C’était tellement dub que l’ingénierie elle-même était un acte de composition.
 
@@ -204,7 +206,7 @@ Mais son influence s’étendit largement.
 
 ## ● Zone affectée
 
-* L'attaque massive de Bristol, Tricky, Smith et Mighty
+* L'attaque massive de Bristol, Tricky, Smith & Mighty
 * Doublage britannique, doublage numérique
 * Expérimental / Post-Industriel
 *Danse alternative
@@ -235,13 +237,14 @@ Et cette pensée
 * Anti-autoritarisme
 * Esprit DIY
 *Éthique de collaboration
-  Il est encore profondément vivant aujourd'hui sous la forme de
+Il est encore profondément vivant aujourd'hui sous la forme de
 
 Le prototype de la « création inter-genres » à laquelle les musiciens du 21ème siècle s'adonnent régulièrement est étonnamment proche de ce qu'a fait NAS.
 
 ---
 
 # Chronologie
+
 
 1979 Adrian Sherwood commence les préparatifs pour lancer On-U Sound
 1980 Début de l'enregistrement de New Age Steppers (Ari Up, Mark Stewart, Roots Radics participent)

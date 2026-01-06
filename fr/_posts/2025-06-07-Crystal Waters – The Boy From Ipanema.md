@@ -20,9 +20,9 @@ Crystal Waters est une auteure-compositrice-interprète américaine de house et 
 
 La face A est un remix du DJ/producteur de musique house Frankie Knuckles.
 
-La face B est un remix du DJ et producteur de musique house Todd Terry.
+La face B est un remix du DJ et producteur de house music Todd Terry.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. The Boy From Ipanema (Classic Club) 
 Remix – Frankie Knuckles
@@ -39,7 +39,7 @@ Remix – Todd Terry
 B3. The Boy From Ipanema (Original Version)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m37995544734?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37995544734?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jaKhbCm3vO4?si=7t-axcO91ppqTPsu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

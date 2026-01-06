@@ -17,7 +17,7 @@ Robert Görl, également connu sous le nom de R_Görl, est un musicien originair
 
 "Final Metal Pralinies" est un album techno sorti par le label Disko B en 2000.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. One More Hour
 2. Artificial Water
@@ -33,7 +33,7 @@ Robert Görl, également connu sous le nom de R_Görl, est un musicien originair
 12. Last Korg Exit
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m39402109762?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m39402109762?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WaMKLqD-fJQ?si=Uzoe9iVfuMAZ247a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

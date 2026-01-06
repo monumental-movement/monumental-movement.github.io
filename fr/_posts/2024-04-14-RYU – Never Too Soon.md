@@ -18,7 +18,7 @@ RYU est un groupe de hip hop/trip hop abstrait composé de DJ Hide, DJ Sak et Hi
 
 "Never Too Soon" est un morceau breakbeat house downtempo sorti en 2000 par le label londonien Exceptional.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Never Too Soon (McMillan & South Mix)
 
@@ -29,7 +29,7 @@ B1. Never Too Soon (Ben Chapman's Deep Mix)
 B2. Never Too Soon (BC's Instrumental Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m87367262889?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m87367262889?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LaB9vCbP7rg?si=1l9FvZJ2MMomSCib" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -19,7 +19,7 @@ Cet album s'appuie sur le succès de leur précédent album, Back in Black, et c
 
 L'album comprend la chanson à succès "For These About to Rock (We Salute You)", ainsi que des chansons telles que "Let's Get It Up", "Inject the Venom" et "Evil Walks".
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. For Those About To Rock (We Salute You)
 
@@ -42,7 +42,7 @@ B4. Night Of The Long Knives
 B5. Spellbound
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m57758926139?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m57758926139?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nBM1-DwjA8I?si=hjNjUPYs3hvZAsIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

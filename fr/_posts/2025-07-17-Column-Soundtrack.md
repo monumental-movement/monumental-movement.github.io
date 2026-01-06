@@ -38,7 +38,7 @@ Un pianiste et un orchestre ont assuré la musique live au cinéma. Par conséqu
 
 ** ● L'avènement des films parlants et des enregistrements sonores (1927 ~) **
 
-À partir de [``The Jazz Singer'' (1927)] (https://amzn.to/3Wn4CTH), le **Optical Sound** a été introduit et nous sommes entrés dans une ère dans laquelle les informations audio (partitions) étaient enregistrées sur un film vidéo.
+[『ジャズ・シンガー』（1927）](https://amzn.to/3Wn4CTH)を皮切りに**光学式録音（Optical Sound）**が導入され、映像フィルムの中に音声情報（スコア）を記録する時代へ。
 
 À cette époque, la signification de « bande-son = matériel audio de film » est devenue claire.
 
@@ -46,7 +46,7 @@ Un pianiste et un orchestre ont assuré la musique live au cinéma. Par conséqu
 
 ■Enregistrement sur le film lui-même (son sur film)
 
-- Bande sonore optique
+- Méthode d'enregistrement optique (Optical Soundtrack)
 
 Popularisé entre les années 1930 et 1950.
 
@@ -80,7 +80,7 @@ Des labels spécialisés dans les bandes sonores (La-La Land Records, Intrada, V
 
 Un support pour « revivre » les bandes sonores des œuvres vidéo.
 
-L'expression spatiale de la musique a considérablement évolué grâce à la technologie stéréophonique telle que le 5.1ch/DTS.
+L'expression spatiale de la musique a considérablement évolué avec la technologie stéréophonique telle que le 5.1ch/DTS.
 
 ■Source sonore numérique (MP3/WAV/FLAC/AAC)
 
@@ -94,7 +94,7 @@ Les partitions complètes, les chansons inédites et les prises alternatives peu
 
 **Nous sommes désormais à une époque où nous écoutons des bandes sonores**.
 
-Créez des listes de lecture pour « humeur de film » et « BGM » au lieu d'albums.
+Créez des listes de lecture pour « l'ambiance du film » et « BGM » au lieu d'albums.
 
 La frontière entre « fonctionnalité » et « artistique » dans la musique de film est une fois de plus remise en question.
 
@@ -209,12 +209,12 @@ L’émergence de médias de nouvelle génération réintégrés à l’image, c
 
 La musique de film reste dans nos cœurs comme « temps », d’une manière différente des histoires et des images. Et ces souvenirs sont préservés à travers les « médias » que sont les disques vinyles, les CD, les MP3 et le streaming, et sont parfois lus et parfois oubliés.
 
-Le son qui circule sur l'écran nous revient via les haut-parleurs. Le médium est un réceptacle de mémoire et un autre dispositif de reproduction de l'histoire.
+Le son qui circule sur l'écran nous revient via les haut-parleurs. Le médium est un récipient pour la mémoire et un autre dispositif pour reproduire l’histoire.
 
 
 <hr>
 
-### List
+### Liste
 
 <div class="table-border">
 <table>

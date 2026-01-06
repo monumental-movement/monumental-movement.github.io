@@ -16,7 +16,7 @@ title: El Cubano – Samba Nueva
 
 Samba Nueva d'El Cubano est un morceau latin Eurohouse sorti en 1998 sur le label italien Muzic Without Control Records.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Samba Nueva (Partido Alto Mix)
 
@@ -27,7 +27,7 @@ B1. Samba Nueva (Double S Mix)
 B2. Samba Nueva (Partido Alto Radio Edit)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m33632714433?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33632714433?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SNRU8xUNNA0?si=Wds3O-qdV3PEJGxh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -19,7 +19,7 @@ Leur premier single "Bel Amour", sorti en 2001, était un morceau house qui est 
 
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Bel Amour (Vocal Mix)
 A2. Bel Amour (Uk Radio Edit)
@@ -27,7 +27,7 @@ A2. Bel Amour (Uk Radio Edit)
 B. Bel Amour (Instrumental)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m55648652474?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m55648652474?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ioh-yg5_zu8?si=nQexO9VSFZe7Vv73" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

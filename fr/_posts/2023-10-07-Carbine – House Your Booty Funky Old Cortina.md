@@ -23,14 +23,14 @@ La musique de Carbine est un style de musique house orienté dancefloor, caract�
 
 "House Your Booty / Funky Old Cortina" est une version spéciale qui vous permet de découvrir une tranche de la musique de Carbine, ce qui en fait une œuvre intéressante pour les fans de house music.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. House Your Booty
 
 AA. Funky Old Cortina
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m99206766868?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m99206766868?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1eXNvF2BShk?si=_JVkCQ-kYPXPnaik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

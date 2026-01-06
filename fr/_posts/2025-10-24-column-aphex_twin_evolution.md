@@ -17,9 +17,10 @@ title: '[Chronique] Les débuts d''Aphex Twin et nos jours -- au-delà du point 
 
 ## "Quand la musique a cessé d'imiter les émotions, Aphex Twin est apparu."
 
+
 Texte : mmr｜Thème : Comparer les premiers travaux d'Aphex Twin avec leurs réalisations actuelles et interpréter de manière critique les changements dans leur structure acoustique, leur philosophie et leur technologie.
 
-Au début des années 1990, Richard D. James (Aphex Twin) est apparu comme quelqu'un qui a complètement bouleversé la grammaire existante des genres comme la techno et l'ambient. Ses premières œuvres sont des **expériences sonores où les rêves des machines et les illusions humaines s'entrelacent**, et son son actuel se situe entre **les structures de type intelligence artificielle et le retour de la nostalgie**.
+Au début des années 1990, Richard D. James (Aphex Twin) est apparu comme quelqu'un qui a complètement bouleversé la grammaire existante des genres comme la techno et l'ambient. Ses premières œuvres sont des expérimentations sonores où s'entremêlent rêves mécaniques et illusions humaines, et son son actuel se situe entre une structure d'intelligence artificielle et un retour à la nostalgie.
 
 Ci-dessous, nous comparerons et examinerons ces « changements » et « imchangements » à partir des quatre axes du travail, de la technologie, de l'esthétique et de l'idéologie.
 
@@ -38,23 +39,24 @@ color: #fff;
 }
 </style>
 
+
 ## I. Le monde des premiers Aphex Twin : poétique électronique et violence analogique
 
 ### 1.1 "Selected Ambient Works" - Rêves électroniques introspectifs
 
-Selected Ambient Works 85–92 de 1992 marque un tournant dans l'histoire de la musique électronique.  
-Le rythme monotone d'un séquenceur et les douces fluctuations d'un synthé analogique.  
+Selected Ambient Works 85–92 de 1992 marque un tournant dans l'histoire de la musique électronique.
+Le rythme monotone d'un séquenceur et les douces fluctuations d'un synthé analogique.
 Ce que vous pouvez entendre à l'intérieur, c'est la « respiration humaine » de l'autre côté des électrons.
 
-Plutôt que de « composer » des sons, Richard compose des « environnements ».  
-Une étrange image sonore, ambiante mais qui a l'intensité d'un club.  
+Plutôt que de « composer » des sons, Richard compose des « environnements ».
+Une étrange image sonore, ambiante mais qui a l'intensité d'un club.
 C'était une extension de Brian Eno, mais avec une émotion plus personnelle et destructrice.
 
 > "Pour moi, l'ambient, ce sont des "souvenirs qui se répercutent dans l'air"." (Aphex Twin, 1993)
 
 ### 1.2 L'ère des « Classiques » et du « Bain moussant analogique »
 
-Dans les premiers EP, les contraintes physiques du matériel façonnaient le caractère même du son.  
+Dans les premiers EP, les contraintes physiques du matériel façonnaient le caractère même du son.
 Les **erreurs manuelles** telles que les Roland TB-303, SH-101 et Akai S950 ont défini son esthétique.
 
 Les problèmes (atomisation du bruit) et les changements de tempo irréguliers sont
@@ -64,8 +66,8 @@ Elle deviendra plus tard à l’origine d’un mouvement appelé « IDM (Intelli
 
 ### Chapitre supplémentaire : "Noise Body" des premiers Aphex Twin
 
-Ses premières musiques étaient aussi une expérience visant à pousser la « physicalité du son » à ses limites.  
-Le bruit interne de la machine devient le rythme et les erreurs deviennent les éléments constitutifs.  
+Ses premières musiques étaient aussi une expérience visant à pousser la « physicalité du son » à ses limites.
+Le bruit interne de la machine devient le rythme et les erreurs deviennent les éléments constitutifs.
 Il s'agit d'une « violence analogique » pré-numérique et d'une tentative de transformer l'erreur en esthétique de la construction.
 
 ---
@@ -74,26 +76,26 @@ Il s'agit d'une « violence analogique » pré-numérique et d'une tentative de 
 
 ### 2.1 « Richard D. James Album » – Réincarnation sous un nom personnel
 
-Avec « Richard D. James Album » de 1996, Aphex Twin a clairement défini sa « paternité ».  
+Avec « Richard D. James Album » de 1996, Aphex Twin a clairement défini sa « paternité ».
 Ce que vous entendez ici est une sculpture sonore qui fragmente et reconstruit les breakbeats à l’extrême.
 
-Dans « The World of a Quarter Beat », la batterie rebondit, les cordes sont coupées et les voix deviennent des particules.  
-La sophistication est comme s’ils composaient de la musique au niveau de l’ADN.  
+Dans « The World of a Quarter Beat », la batterie rebondit, les cordes sont coupées et les voix deviennent des particules.
+La sophistication est comme s’ils composaient de la musique au niveau de l’ADN.
 C'est étonnant qu'ils aient créé cette complexité dans un environnement pré-DAW.
 
 ### 2.2 « Viens voir papa » « Windowlicker » ─ Médias et cauchemars
 
-De 1997 à 1999, Aphex Twin a combiné la musique avec « l'horreur visuelle ».  
+De 1997 à 1999, Aphex Twin a combiné la musique avec « l'horreur visuelle ».
 Le groupe PV créé en collaboration avec Chris Cunningham **a converti l'instabilité du son électronique en amorphité des images**.
 
-À l'époque où MTV le présentait comme le "génie le plus étrange".
+À l'époque où MTV le présentait comme le "génie le plus étrange"
 Il sentait déjà que sa musique risquait de s’intégrer à la culture populaire.
 
 ---
 
 ### Chapitre supplémentaire : Aphex Twin comme ironie
 
-Les activités d'Aphex Twin depuis le milieu de leur carrière ont toujours été une méta-critique de l'industrie musicale.  
+Les activités d'Aphex Twin depuis le milieu de leur carrière ont toujours été une méta-critique de l'industrie musicale.
 Son visage souriant (logo) est une satire du "mythe de l'artiste",
 La nature déroutante des titres de chansons affirme le « droit du son à défier le sens ».
 
@@ -103,17 +105,17 @@ La nature déroutante des titres de chansons affirme le « droit du son à défi
 
 ### 3.1 « Syro » (2014) : Achèvement de l'archive acoustique
 
-Son premier album en 13 ans, « Syro », est une fusion de retour analogique et de montage numérique.  
+Son premier album en 13 ans, « Syro », est une fusion de retour analogique et de montage numérique.
 Toutes les chansons ont des crédits détaillés pour l'équipement utilisé,
 Aphex Twin suggère que « chaque son a une histoire technique ».
 
-Ce qui est important ici, c'est que l'accent soit mis sur la « sensation des données » plutôt que sur les « émotions ».  
+Ce qui est important ici, c'est que l'accent soit mis sur la « sensation des données » plutôt que sur les « émotions ».
 En d’autres termes, la musique se transforme en « le corps en tant qu’information ».
 
 ### 3.2 « Collapse EP » (2018) : Émergence de la structure de composition de l'IA
 
-Collapse EP est l'expérience d'Aphex Twin visant à intégrer l'émotion dans des structures algorithmiques.  
-Signatures rythmiques complexes, rythmes intermittents et traitement spatial tridimensionnel.  
+Collapse EP est l'expérience d'Aphex Twin visant à intégrer l'émotion dans des structures algorithmiques.
+Signatures rythmiques complexes, rythmes intermittents et traitement spatial tridimensionnel.
 Les particules sonores se déploient automatiquement comme les pensées de l’IA, formant un « flux » inhumain.
 
 ---
@@ -121,8 +123,8 @@ Les particules sonores se déploient automatiquement comme les pensées de l’I
 ### Chapitre supplémentaire : Relation entre l'Aphex Twin moderne et l'IA
 
 Aphex Twin considère la composition de l'IA non seulement comme une innovation technologique ;
-Il est traité comme un « **dispositif qui étend la perception humaine** ».  
-Ses travaux récents peuvent être décrits comme une tentative de faire découvrir à l’intelligence artificielle les « erreurs humaines ».  
+Il est traité comme un « **dispositif qui étend la perception humaine** ».
+Ses travaux récents peuvent être décrits comme une tentative de faire découvrir à l’intelligence artificielle les « erreurs humaines ».
 En d’autres termes, sa musique est un terrain d’expérimentation pour l’humanisme post-IA.
 
 ---
@@ -141,17 +143,17 @@ En d’autres termes, sa musique est un terrain d’expérimentation pour l’hu
 
 ### Chapitre complémentaire : « sensation de corps étranger » immuable
 
-Le cœur d’Aphex Twin réside dans le fait de « rester étranger » même si les temps changent.  
-Même lorsque la musique devient tendance, son son laisse toujours une « marge ».  
-C’est dans cet espace vide que les auditeurs ont la possibilité de projeter leurs propres émotions.
+Le cœur d’Aphex Twin réside dans le fait de « rester étranger » même si les temps changent.
+Même lorsque la musique devient tendance, son son laisse toujours une « marge ».
+C’est dans cette marge que l’auditeur a la possibilité de projeter ses propres sentiments.
 
 ---
 
 ## V. Pensées critiques : Qu'est-ce que la musique après Aphex Twin ?
 
-Après Aphex Twin, la musique électronique n'est plus seulement un « genre ».  
+Après Aphex Twin, la musique électronique n'est plus seulement un « genre ».
 Les artistes influencés par lui incluent Burial, Oneohtrix Point Never, Autechre, Arca, etc.
-Toutes ces questions reconsidèrent la « génération de sens » du son lui-même.
+Toutes ces questions reconsidèrent la génération de sens du son lui-même.
 
 > « À une époque où la musique est convertie en données, Aphex Twin est devenu un « sculpteur de perception ».
 
@@ -159,13 +161,13 @@ Toutes ces questions reconsidèrent la « génération de sens » du son lui-mê
 
 ### Chapitre supplémentaire : Suggestions pour l'avenir de la musique
 
-Nous vivons à une époque où l’IA crée de la musique et où Spotify catégorise votre humeur.  
-Dans une telle situation, le son d'Aphex Twin tente de récupérer le bruit humain caché dans les données.  
+Nous vivons à une époque où l’IA crée de la musique et où Spotify catégorise votre humeur.
+Dans une telle situation, le son d'Aphex Twin tente de récupérer le bruit humain caché dans les données.
 Sa musique actuelle n'est plus un acte d'« écoute », mais plutôt une « philosophie du son qui existe ».
 
 ---
 
-##VI. Chronologie : trajectoire d'évolution acoustique de l'Aphex Twin
+## VI. Chronologie : trajectoire d'évolution acoustique de l'Aphex Twin
 
 <div class="mermaid">
 
@@ -193,7 +195,7 @@ La musique d'Aphex Twin n'est pas seulement une collection de sons électronique
 Il s'agit d'une expérience pour visualiser la "**métastructure de l'écoute**".
 C'est aussi un **événement philosophique** où les émotions humaines et la perception des machines se rencontrent.
 
-Dans ses premiers travaux, on procédait à « l'électronisation des émotions »,
+Dans ses premiers travaux, on pratiquait « l'électronisation des émotions »,
 Aujourd'hui, la tendance s'est inversée vers « l'émotionnalisation de l'électronique ».
 Son voyage peut présager un avenir dans lequel la musique elle-même deviendra consciente.
 
@@ -339,7 +341,7 @@ graph TD
 
 ## Comparaison des mesures par spectrogramme
 
-#### （『Xtal』（1992） vs 『minipops 67』（2014））
+#### (« Xtal » (1992) contre « minipops 67 » (2014))
 
 Capturez visuellement les différences sonores entre les débuts d'Aphex Twin et aujourd'hui.
 Représentation schématique des changements dans la distribution des fréquences, la pression acoustique et la largeur stéréo.
@@ -370,7 +372,7 @@ flowchart TB
 
 </div>
 
-**Légende** :
+**légende**:
 Une comparaison des structures de spectrogramme de "Xtal" (1992) et "minipops 67" (2014).
 Initialement, il se caractérisait par une pression sonore douce concentrée dans le médium-grave, mais ces dernières années, il est devenu plus granulaire sur l'ensemble du spectre et les informations spatiales sont devenues plus précises.
 

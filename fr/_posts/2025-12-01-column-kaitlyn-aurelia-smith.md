@@ -14,13 +14,14 @@ title: '[Chronique] Kaitlyn Aurelia Smith — Les échos de la « vie électriqu
 ---
 
 
+
 ## Introduction
 
 Texte : mmr｜Thème : À propos de son éducation et de son parcours, des changements dans son travail et son son, et de la « philosophie du son » à travers Buchla
 
-Dans le monde de la musique électronique et des synthés modulaires, les synthés sont souvent traités comme des symboles de « machines ». Pourtant, son son bouleverse ces a priori. Le son est chaud et riche, comme si « vous pouviez sentir un être vivant ou un souffle organique au plus profond des câbles et des boutons d'un synthétiseur modulaire ».
+Dans le monde de la musique électronique et des synthés modulaires, les synthés sont souvent traités comme des symboles de « machines ». Pourtant, son son bouleverse ces a priori. Le son est chaud et riche, comme si « vous pouviez sentir un être vivant ou une respiration organique au plus profond des câbles et des boutons d'un synthétiseur modulaire ».
 
-En choisissant du matériel vintage ou modulaire, notamment du matériel modulaire de style Buchla, elle crée un écosystème sonore par « accidentalité », « instabilité », « manuelité », ou « vibrations électriques et résonance avec le corps », plutôt que de simples sons de synthèse.
+En choisissant du matériel vintage ou modulaire, notamment du matériel modulaire de style Buchla, elle crée un écosystème sonore par « accidentalité », « instabilité », « manuelité », ou encore « vibrations électriques et résonance avec le corps », plutôt que de simples sons de synthèse.
 
 En mêlant soigneusement les voix, les instruments live, les enregistrements sur le terrain, la nature et la physicalité, il élève le modulaire d'une « machine froide » à un « vaisseau sonore vivant ». Les amateurs de synthés modulaires et de style Buchla seront fortement attirés par cette attitude.
 
@@ -118,16 +119,16 @@ Cette tentative est une œuvre hautement poétique et méditative qui présente 
 Une philosophie cohérente se dégage de ses œuvres et de son parcours.
 
 - **Fusion de sons électroniques et de sons naturels/environnementaux/physique**
-  En mélangeant les formes d'onde électroniques de Buchla avec le bruissement de la forêt, le son de l'eau, du vent, des voix et des instruments live, il transcende la dichotomie « électronique = artificiel » et « naturel = organique » et crée un nouveau « son électronique organique = son vivant ».
+En mélangeant les formes d'onde électroniques de Buchla avec le bruissement de la forêt, le son de l'eau, du vent, des voix et des instruments live, il transcende la dichotomie « électronique = artificiel » et « naturel = organique » et crée un nouveau « son électronique organique = son vivant ».
 
 - **Affirmation de contingence/instabilité**
-  L'instabilité de Buchla, la nature manuelle des correctifs, les écarts et fluctuations incontrôlables - tout cela n'est pas accueilli comme des « défauts », mais plutôt comme des « marges créatives », des « changements chimiques inattendus » et des « coïncidences sonores ».
+L'instabilité de Buchla, la nature manuelle des correctifs, les écarts et fluctuations incontrôlables - tout cela n'est pas accueilli comme des « défauts », mais plutôt comme des « marges créatives », des « changements chimiques inattendus » et des « coïncidences sonores ».
 
 - **Sensation corporelle et expérience vibratoire**
-  Plutôt que de considérer le son comme quelque chose que vous entendez avec vos oreilles, nous le considérons comme quelque chose que vous ressentez avec votre corps et que vous ressentez sous forme de vibrations. Voix, respiration, mouvement, vibration : en les reliant aux vibrations électriques du synthétiseur, la musique est élargie en une perception qui utilise non seulement le sens auditif mais aussi le corps tout entier.
+Plutôt que de considérer le son comme quelque chose que vous entendez avec vos oreilles, nous le considérons comme quelque chose que vous ressentez avec votre corps et que vous ressentez sous forme de vibrations. Voix, respiration, mouvement, vibration : en les reliant aux vibrations électriques du synthétiseur, la musique est élargie en une perception qui utilise non seulement le sens auditif mais aussi le corps tout entier.
 
 - **Plusieurs couches de temporalité, de spatialité et de mémoire**
-  Les drones, les ondulations, les pads et les enregistrements sur le terrain prolongent le temps, épaississent l'espace et créent des souvenirs, des émotions et des liens avec la nature dans le son.
+Les drones, les ondulations, les pads et les enregistrements sur le terrain prolongent le temps, épaississent l'espace et créent des souvenirs, des émotions et des liens avec la nature dans le son.
 
 Cette philosophie redéfinit les synthés modulaires non seulement comme des sources sonores ou des outils, mais comme des dispositifs qui connectent « le corps, la nature, les sensations, les vibrations et le temps ». Son son est un guide pour ceux qui recherchent une nouvelle façon de travailler dans la musique électronique.
 
@@ -169,7 +170,7 @@ Ainsi, son son n'a pas évolué de manière linéaire, mais a continué à s'él
 
 ---
 
-## Conclusion — Message à ceux qui aiment Buchla
+## Clôture — Un message à ceux qui aiment Buchla
 
 Le parcours de Kaitlyn Aurelia Smith n'a jamais été une expérience technique ou une démonstration de compétences. Son objectif est de créer un « monde de sensations » riche et poétique qui entremêle « le corps, la nature, l'électricité, le temps et l'espace » à travers le « dispositif technique » d'un synthétiseur modulaire.
 

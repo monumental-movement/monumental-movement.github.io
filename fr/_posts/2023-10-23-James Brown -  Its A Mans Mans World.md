@@ -20,14 +20,14 @@ Les paroles de cette chanson parlent d’un monde dominé par les hommes, mais e
 
 La chanson occupe une place importante dans la carrière musicale de Brown et est largement saluée comme un classique de la soul et du R&B. Grâce à son chant profond et à ses messages touchants, elle continue d'être aimée par de nombreux auditeurs aujourd'hui.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. It's A Man's Man's World
 
 B. Papa's Got A Brand New Bag
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m26166401596?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m26166401596?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H77fRz1rybs?si=wYDOE_p_OCxvdEdm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

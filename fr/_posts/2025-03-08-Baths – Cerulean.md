@@ -18,7 +18,7 @@ Will Wiesenfeld, également connu sous le nom de Baths, est connu comme un géni
 "Cerulean" est le premier album de Baths sorti en 2010 sur le label indépendant Anticon, présenté par Daedelus. Ce CD est une version japonaise publiée par Tugboat Records en 2013.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Apologetic Shoulder Blades
 2. Lovely Bloodflow
@@ -36,7 +36,7 @@ Will Wiesenfeld, également connu sous le nom de Baths, est connu comme un géni
 14. Calliope (Bonus Track)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m40590639127?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40590639127?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YpUC6EIZf5o?si=lCKJswyxc2pwcRyq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

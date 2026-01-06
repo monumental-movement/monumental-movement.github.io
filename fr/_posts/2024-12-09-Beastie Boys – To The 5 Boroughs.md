@@ -18,7 +18,7 @@ title: Beastie Boys – Aux 5 arrondissements
 "To the 5 Boroughs" est le sixième album studio du groupe hip-hop américain Beastie Boys, sorti en 2004. L'album a fait ses débuts au numéro un du Billboard 200, se vendant à 360 000 exemplaires la première semaine et a été certifié platine par la RIAA.
 Le 12ème morceau est un morceau bonus uniquement disponible dans la version japonaise.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Ch-Check It Out
 2. Right Right Now Now
@@ -38,7 +38,8 @@ Le 12ème morceau est un morceau bonus uniquement disponible dans la version jap
 16. Now Get Busy (Bonus Track For Japan)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m39197590666?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m39197590666?afid=6142608987){: .button1}
 
 
 #### Youtube

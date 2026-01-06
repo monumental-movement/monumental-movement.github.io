@@ -18,14 +18,14 @@ Isaiah Major, également connu sous le nom de DJ Rush, est un DJ et producteur t
 
 "Let's Change" est un morceau techno sorti en 2003 par le label Pro-Jex de Charlie Hall, ancien membre de Spiral Tribe.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Let's Change
 
-(*Un seul côté)
-````
+(※シングルサイド)
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m28195059530?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m28195059530?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VVXrCWjSoh4?si=Dp44ISuF3EPlDGiL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -17,7 +17,7 @@ The Architect est le pseudonyme du DJ/producteur Jay Haze. Il existe également 
 
 "Pixelated Porn King" est sorti en 2002 par Tuning Spork Records.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Funkin
 
@@ -28,7 +28,7 @@ B1. Yknewk
 B2. Oinan
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m82819897771?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m82819897771?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wiw4kPKatAo?si=F8aqaoZCL-kQuebU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

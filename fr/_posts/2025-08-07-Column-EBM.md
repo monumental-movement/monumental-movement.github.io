@@ -26,13 +26,13 @@ Texte : mmr｜Thème : Qu'est-ce que la musique corporelle électronique ?
 <hr>
 
 ### Origine : Réverbérations industrielles et rythmes mécaniques
-L'EBM est un genre de musique électronique né en Europe (principalement en Belgique et en Allemagne) au début des années 1980. Le nom vient du fait que la musique est composée d'un groove de danse physique et d'électronique. Cela peut être décrit comme une fusion de musique industrielle et de musique de danse électronique.
+L'EBM est un genre de musique électronique né en Europe (principalement en Belgique et en Allemagne) au début des années 1980. Le nom vient du fait que la musique est composée d’un groove de danse physique et d’électronique. Cela peut être décrit comme une fusion de musique industrielle et de musique de danse électronique.
 
 En particulier, les deux groupes suivants sont connus comme pionniers :
 
-- [**Front 242**](https://amzn.to/4oiO6zQ) (Belgique)
+- [**Front 242**](https://amzn.to/4oiO6zQ)（ベルギー）
 
-- [**DAF**](https://amzn.to/4ogYOH1) (Deutsch Amerikanische Freundschaft, Allemagne)
+- [**DAF**](https://amzn.to/4ogYOH1)（Deutsch Amerikanische Freundschaft、ドイツ）
 
 En utilisant pleinement une électronique froide et pointue, des rythmes minimaux violents et des voix militaristes, ils ont créé un nouveau type de « musique électronique physique » qui diffère de la pop et du rock conventionnels.
 
@@ -41,6 +41,7 @@ En utilisant pleinement une électronique froide et pointue, des rythmes minimau
 
 ### Caractéristiques sonores
 Pour faire simple, le son d’EBM est « inorganique et physique ». Il comporte les éléments suivants :
+
 
 #### Battement dur et minimal
 
@@ -142,7 +143,7 @@ L'EBM s'est rapidement répandu sur la scène des clubs et de l'underground de l
 
 EBM a également eu une énorme influence sur les genres suivants :
 
-- Rock/métal industriel (par exemple [Ministry](https://amzn.to/47pfJBC), [Nine Inch Nails](https://amzn.to/4nPTgDL), [Rammstein](https://amzn.to/46ReLxY))
+- インダストリアル・ロック／メタル（例：[Ministry](https://amzn.to/47pfJBC)、[Nine Inch Nails](https://amzn.to/4nPTgDL)、[Rammstein](https://amzn.to/46ReLxY)）
 
 - Techno, techno acide
 
@@ -153,16 +154,16 @@ EBM a également eu une énorme influence sur les genres suivants :
 
 <hr>
 
-### Lien avec la culture club : l'EBM comme musique corporelle
+### Lien avec la culture du club : l'EBM comme musique corporelle
 L'EBM n'est pas seulement de la musique à écouter à la maison, mais a un aspect très fort en tant que « musique pour danser ». Depuis la fin des années 1980, l'EBM est devenue une culture établie, centrée autour de boîtes de nuit et de festivals spécifiques (par exemple Wave-Gotik-Treffen, Amphi Festival), accompagnée de vêtements sombres, de cuir et de cybercostumes.
 
 Dans les années 1990, alors qu’elle était considérée comme **« Old School EBM »**, la scène s’est diversifiée comme suit :
 
-- Futurepop ([VNV Nation](https://amzn.to/4942pDT), [Covenant](https://amzn.to/4n5mRYq), etc.)
+- Futurepop（[VNV Nation](https://amzn.to/4942pDT)、[Covenant](https://amzn.to/4n5mRYq)など）
 
-- Dark Electro / Harsh EBM ([Suicide Commando](https://amzn.to/3W1sPPd), [Hocico](https://amzn.to/4oiOwWW), etc.)
+- Dark Electro / Harsh EBM（[Suicide Commando](https://amzn.to/3W1sPPd)、[Hocico](https://amzn.to/4oiOwWW)など）
 
-- Techno Body Music (TBM) : revival de l'EBM par des DJ techno ([Helena Hauff](https://amzn.to/46RgP9c), [Ancient Methods](https://amzn.to/47ucub9))
+- Techno Body Music (TBM)：テクノDJによるEBMリバイバル（[Helena Hauff](https://amzn.to/46RgP9c)、[Ancient Methods](https://amzn.to/47ucub9)）
 
 
 <hr>
@@ -204,7 +205,7 @@ Ces artistes sont influencés par l'EBM, mais le combinent avec des éléments t
 <hr>
 
 ### Une esthétique qui fusionne le corps physique et l'électronique
-Comme son nom l’indique, l’EBM est une « musique corporelle électronique ». C’était plus qu’une simple musique de danse, c’était une forme totale d’expression politique, mécanique, physique et rebelle.
+Comme son nom l’indique, l’EBM est une « musique corporelle électronique ». C'était plus qu'une simple musique de danse, c'était une forme d'expression totale : politique, mécanique, physique et rebelle.
 
 Actuellement, l’influence d’EBM s’étend à de nombreux domaines, de la culture des clubs et des festivals à la scène DIY, en passant par l’art et la mode.
 

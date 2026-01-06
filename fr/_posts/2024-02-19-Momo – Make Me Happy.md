@@ -19,16 +19,16 @@ Un disque de projet sorti en 2000 par l'ours rose "MOMO" de PostPet. Le producte
 La deuxième chanson de la face A est un remix de Heigo Tani de Co-Fusion.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Make Me Happy (Momo's Theme)
 
-A2. Thème PostPet 2001 (Wall 5 Remix/ Heigo Tani)
+A2. PostPet 2001のテーマ (Wall 5 Remix/ Heigo Tani )
 
-B1. Course Momo
+B1. おつかいモモ 
 
 B2. Make Me Happy (Instrumental)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m95229129822?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95229129822?afid=6142608987){: .button1}
 

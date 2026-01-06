@@ -19,7 +19,7 @@ Version japonaise sortie en 2012. Les pistes 1 à 6 sont des chansons originales
 
 Le neuvième morceau est un remix de Bare Noize, le duo de production composé de Daniel Brown et Oliver Pile.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Rock N' Roll (Will Take You To The Mountain)
 2. Scary Monsters And Nice Sprites
@@ -33,7 +33,7 @@ Le neuvième morceau est un remix de Bare Noize, le duo de production composé d
 
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m86556698095?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86556698095?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iIyE3EDCigE?si=-xd56PahPgXj-IkV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

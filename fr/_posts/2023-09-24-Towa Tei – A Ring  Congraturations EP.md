@@ -20,7 +20,7 @@ Towa Tei (ancien membre de Deee-Lite) est un producteur de musique, DJ et artist
 
 "Félicitations!" est une chanson avec des éléments plus expérimentaux et électroniques, reflétant le large éventail de styles musicaux et l'approche créative de Towa Tei.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1  A Ring
 
@@ -31,7 +31,7 @@ B1  Congratulations!
 B2  A Platinum Ring
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m60231112636?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m60231112636?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X4a6Kz6RXPo?si=7zAXwoSRZPMzkEjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

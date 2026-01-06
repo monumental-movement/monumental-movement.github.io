@@ -19,7 +19,7 @@ Kenny Larkin est un producteur et DJ techno house de Détroit. Il a commencé sa
 
 "The Narcissist" est un album house techno downtempo sorti en 2004 par le label indépendant britannique Peacefrog Records.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Fake French (Epic Mix)
 2. My Reflection
@@ -34,7 +34,7 @@ Kenny Larkin est un producteur et DJ techno house de Détroit. Il a commencé sa
 11. In The Meantime
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m56386256284?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m56386256284?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YchauQiNJgc?si=I3wdImtv9FiTaoap" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

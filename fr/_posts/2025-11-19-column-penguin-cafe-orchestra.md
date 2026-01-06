@@ -18,6 +18,7 @@ title: '[Chronique] Penguin Cafe Orchestra – Un paradis imaginaire qui résonn
 
 ## Prologue : Réverbérations d’un « café fictif » que l’on ne trouve nulle part ailleurs au monde
 
+
 Texte : mmr｜Thème : **De la création du PCO à la trajectoire de ses activités, structure acoustique, analyse des grands ouvrages, réflexions de Simon Jeffes**
 
 Penguin Cafe Orchestra (PCO) est une unité musicale apparue soudainement en Angleterre à la fin des années 1970.
@@ -46,6 +47,7 @@ color: #fff;
 }
 </style>
 
+
 ## Chapitre 1 Naissance : Un projet parti d'une « vision » fébrile
 
 Les origines de PCO remontent à un événement étrange survenu en 1972, lorsque le fondateur Simon Jeffes « a succombé à une forte fièvre due à une intoxication alimentaire ».
@@ -60,7 +62,7 @@ La musique n'était ni traditionnelle ni avant-gardiste, mais cristallisée comm
 ## Chapitre 2 Organisation et philosophie : Un « orchestre » non figé
 
 La composition de PCO change à chaque album et performance live, et est différente d'un « groupe » avec des membres fixes.
-Dirigé par Simon Jeffes, d'anciens musiciens classiques, des musiciens folk et des musiciens expérimentaux participent et agissent comme un « groupe de musique de chambre qui se rassemble sur la base d'un projet ».
+Dirigé par Simon Jeffes, d'anciens musiciens classiques, musiciens folk et musiciens expérimentaux participent et agissent comme un « groupe de musique de chambre qui se rassemble sur la base d'un projet ».
 
 ### ● Principaux participants
 
@@ -91,7 +93,7 @@ Cette « spontanéité » est la raison pour laquelle le son de PCO, bien que pa
 
 Ce chapitre analyse la structure interne des chansons emblématiques de PCO.
 
-### 3-1. **Music For a Found Harmonium（1984）**
+### 3-1. **Musique pour un harmonium retrouvé (1984)**
 
 La chanson signature du BCP.
 Une anecdote emblématique est qu'il a composé de la musique en jouant sur un harmonium cassé qu'il avait trouvé dans les rues de Kyoto.
@@ -107,7 +109,7 @@ Même aujourd'hui, cette chanson est fréquemment utilisée dans les films, les 
 
 ---
 
-### 3-2. **Perpetuum Mobile（1987）**
+### 3-2. **Mobile perpétuel (1987)**
 
 L'une des chansons les plus célèbres de PCO, utilisée dans de nombreux programmes télévisés au Japon.
 Il a une structure répétitive similaire à la musique minimale, mais elle n'est pas aussi stricte que celle de Steve Reich, mais a plutôt une répétition chaleureuse.
@@ -123,7 +125,7 @@ C'est une chanson calme mais dramatique qui donne l'impression que l'expansion e
 
 ---
 
-### 3-3. **Telephone and Rubber Band（1981）**
+### 3-3. **Téléphone et élastique (1981)**
 
 Étrange morceau de musique dans lequel un téléphone bicolore retentit soudain au-dessus d'un ensemble classique.
 
@@ -131,7 +133,7 @@ C'est une chanson calme mais dramatique qui donne l'impression que l'expansion e
 
 * Boucle audio du téléphone par manipulation de bande
 * Son électronique qui existe comme un « objet étranger » au-dessus de l'ensemble
-* Humour mais postmoderne à la fois
+* Humoristique mais postmoderne à la fois
 
 En termes de son minimal + trouvé, cette œuvre recoupe la lignée de Brian Eno.
 
@@ -139,31 +141,31 @@ En termes de son minimal + trouvé, cette œuvre recoupe la lignée de Brian Eno
 
 ## Chapitre 4 Vision du monde par album
 
-**PCO construit un «espace imaginaire» pour chaque œuvre.'' **
+**PCO construit un « espace imaginaire » pour chaque œuvre.'' **
 Les principaux albums sont expliqués ci-dessous.
 
-### ● *Music from the Penguin Cafe*（1976）
+### ● *Musique du Penguin Café* (1976)
 
 Premier album sorti sur le sous-label Obscure de Virgin Records.
 Parmi les œuvres Obscures réalisées par Brian Eno, celle-ci est la plus « différente » et la plus « lumineuse ».
 Le folklore et les structures répétitives fusionnent et le style ultérieur est presque terminé.
 
-### ● *Penguin Cafe Orchestra*（1981）
+### ● *Orchestre du Café Penguin* (1981)
 
 Contient la célèbre chanson "Telephone and Rubber Band".
 Il a une forte approche de la musique folk et a acquis une « qualité de danse » unique.
 
-### ● *Broadcasting from Home*（1984）
+### ● *Diffusion depuis la maison* (1984)
 
 Contient la célèbre chanson « Music For a Found Harmonium ».
 Un album qui atteint son apogée avec le son brillant propre à PCO.
 
-### ● *Signs of Life*（1987）
+### ● *Signes de vie* (1987)
 
 L’ambiance est devenue davantage musique de chambre, évoluant vers un monde plus cinématographique.
 Comprend « Perpetuum Mobile ».
 
-### ● *Union Cafe*（1993）
+### ● *Union Café* (1993)
 
 La dernière œuvre en studio de Simon Jeffes avant sa mort.
 La structure globale est plus méditative, l’acoustique plus transparente.
@@ -233,7 +235,7 @@ timeline
 </div>
 ---
 
-## Illustration : Carte de la structure acoustique du PCO
+## Illustration : Plan de structure acoustique du PCO
 
 <div class="mermaid">
 
@@ -281,7 +283,7 @@ flowchart TD
 
 ---
 
-# Conclusion : Pourquoi le PCO résonne « intemporellement »
+# Conclusion : Pourquoi PCO résonne « intemporellement »
 
 La musique du Penguin Cafe Orchestra reste fraîche près de 50 ans plus tard.
 Ce qui soutient cette longévité est――

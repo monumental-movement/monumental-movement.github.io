@@ -18,20 +18,20 @@ title: Space Circus – Caravane Funky
 
 #### Liste des chansons
 ```md
-A1. Alibaba
+A1. Alibaba (アリババ)
 
-A2. Réseau
+A2. Network (ネットワーク)
 
-A3. Reggae Africain
+A3. African Reggae (アフリカン・レゲエ)
 
-B1. Caravane géniale
+B1. Funky Caravan (ファンキー・キャラバン)
 
-B2. La façon dont nous étions (Réminiscence)
+B2. The Way We Were (追憶)
 
-B3. Vague de printemps
-````
+B3. Spring Wave (スプリング・ウェーブ)
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m38259723732?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m38259723732?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QW-e8SSAG_I?si=m2x_OJniWvlJ1M6d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

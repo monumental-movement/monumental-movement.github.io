@@ -19,7 +19,7 @@ Cet album est une collaboration entre le chanteur brésilien de bossa nova João
 "Gilberto With Turrentine" combine le chant magistral de bossa nova et le jeu de guitare de João Gilberto avec le saxophone ténor émouvant de Stanley Turrentine. Les arrangements de Deodato fusionnent des éléments de la musique brésilienne et du jazz pour créer un son unique et attrayant.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1.Wanting Things
 
@@ -50,7 +50,7 @@ Bonus Tracks
 13.Polytechnical High
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m85811824288?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m85811824288?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8GtSGpYfyuQ?si=VBHZ_Uhtoof7poW7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

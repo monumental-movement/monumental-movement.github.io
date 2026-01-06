@@ -22,7 +22,7 @@ Il comprend de nombreuses chansons à succès telles que « Burning Down the Hou
 Cet album est un incontournable pour tout fan de Talking Heads, et son son unique et ses paroles intelligentes font de « Speaking In Tongues » un jalon dans l’histoire de la musique rock.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Burning Down The House
 
@@ -43,7 +43,7 @@ B3. Pull Up The Roots
 B4. This Must Be The Place (Naive Melody)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m36336920613?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m36336920613?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4c_YkN-8WRM?si=ShsHgvGu001PzDQp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

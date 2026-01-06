@@ -20,7 +20,7 @@ title: Modjo – Lady (Écoutez-moi ce soir)
 Il est considéré comme un classique pour les fans de dance music et pour de nombreux amateurs de musique pop des années 2000.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1  Lady (Hear Me Tonight)
 
@@ -31,7 +31,7 @@ B1  Lady (Roy's Universal Soldiers Mix)
 B2  Lady (Acoustic)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m58855035943?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m58855035943?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mMfxI3r_LyA?si=qtBT1OGDQGA_BlDP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

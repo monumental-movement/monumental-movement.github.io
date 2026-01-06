@@ -17,12 +17,13 @@ title: '[Chronique] 50 ans d''histoire des burger shops et de la musique - La cu
 
 ## Prologue : L'ère des burgers qui se dégustent avec les oreilles
 
+
 Texte : mmr｜Thème : Sur l’évolution de la musique de restauration rapide en tant que « culture qui se déguste avec les oreilles »
 
-La musique du restaurant de hamburgers n'est pas seulement une chanson commerciale, mais un « portrait sonore de l'époque ».  
+La musique du restaurant de hamburgers n'est pas seulement une chanson commerciale, mais un « portrait sonore de l'époque ».
 Quelles valeurs la société recherchait et à quel rythme elle vivait - tout cela est condensé dans un jingle et un logo sonore de 15 secondes.
 
-La pop familiale optimiste de McDonald's, les riffs de guitare rebelles de Burger King et la chaleur artisanale du ukulélé de Mos Burger.  
+La pop familiale optimiste de McDonald's, les riffs de guitare rebelles de Burger King et la chaleur artisanale du ukulélé de Mos Burger.
 Plutôt que des publicités d’entreprise, ce sont les « souvenirs sonores de l’époque ».
 
 ---
@@ -40,23 +41,24 @@ color: #fff;
 }
 </style>
 
+
 ## Chapitre 1 Le rêve américain et la naissance de la musique fast food (années 1970-1980)
 
 ### 1-1 Chanter « hamburger = bonheur » : la première publicité de McDonald's
-"You Deserve a Break Today" a été produit en 1971 par l'agence de publicité américaine **DDB (Doyle Dane Bernbach)**.  
-Composé par Sid Woloshin, paroles de Dan Kallis.  
+"You Deserve a Break Today" a été produit en 1971 par l'agence de publicité américaine **DDB (Doyle Dane Bernbach)**.
+Composé par Sid Woloshin, paroles de Dan Kallis.
 Il avait une sensation édifiante semblable à une comédie musicale et symbolisait McDonald's comme une « guérison » dans une société de consommation.
 
-> ♪ “You deserve a break today, so get up and get away—to McDonald’s!”
+> ♪ « Vous méritez une pause aujourd'hui, alors levez-vous et partez chez McDonald's ! »
 
-Cette chanson fut un succès inhabituel, se vendant en single aux États-Unis et entrant dans les charts radiophoniques.
+Cette chanson a été vendue en single aux États-Unis et a connu un succès inhabituel, entrant dans les charts radiophoniques.
 C’était la première fois que les publicités de restauration rapide entraient dans le domaine de la musique pop.
 
 ### 1-2 Lien avec l'industrie musicale : de la publicité aux chansons à succès
 "Menu Song" de 1979 consistait en une narration de style funk et rap et était un précurseur des publicités hip-hop ultérieures.
 
 ### 1-3　Stratégie musicale après l'atterrissage au Japon : introduction de la pop urbaine
-La série "Rendons-nous chez McDonald's" de 1983 a été composée par le compositeur **Kazuo Otani**.  
+La série "Rendons-nous chez McDonald's" de 1983 a été composée par le compositeur **Kazuo Otani**.
 Caractérisé par des progressions d'accords de type AOR et des sonorités Fender Rhodes, il était exprimé comme « la vie américaine = le désir de la ville ».
 
 ---
@@ -64,8 +66,8 @@ Caractérisé par des progressions d'accords de type AOR et des sonorités Fende
 ## Chapitre 2 Rebellious Burger King : Esprit rock et rébellion publicitaire (années 1980-2000)
 
 ### 2-1 « Have It Your Way » et l'éthique du rock
-La stratégie musicale de Burger King a toujours été basée sur les thèmes de la **rébellion et de la liberté**.  
-"Whopper Rap" de 1999 mettait en vedette les producteurs new-yorkais **The Dust Brothers**.  
+La stratégie musicale de Burger King a toujours été basée sur les thèmes de la **rébellion et de la liberté**.
+"Whopper Rap" de 1999 mettait en vedette les producteurs new-yorkais **The Dust Brothers**.
 L'unité qui a travaillé sur Beastie Boys et Beck utilise une nouvelle méthode pour créer des descriptions de produits sous forme de rythmes.
 
 ### 2-2 Exemple de participation de musiciens commerciaux étrangers
@@ -77,7 +79,7 @@ L'unité qui a travaillé sur Beastie Boys et Beck utilise une nouvelle méthode
 ## Chapitre 3 Mos Burger : La philosophie du « fait main » en musique
 
 ### 3-1 Esthétique du son organique
-Musique fournie par le compositeur **Hajime Mizoguchi** et le duo acoustique **Hanaregumi**.  
+Musique fournie par le compositeur **Hajime Mizoguchi** et le duo acoustique **Hanaregumi**.
 Exprimer le « lien entre la nature et les gens » à l'aide du ukulélé, de la guitare acoustique et du piano.
 
 ### 3-2 Conception sonore environnementale
@@ -92,11 +94,11 @@ Les musiciens **Ohashi Trio** organisent des enregistrements sur le terrain pour
 ## Chapitre 4 Lotteria et Freshness Burger : Conception musicale pour Urban Burger
 
 ### 4-1 Lotteria : Techno pop x design moderne japonais
-Dans les années 1990, **Yoshinori Sunahara** et **Hiroshi Fujiwara** étaient impliqués.  
+Dans les années 1990, **Yoshinori Sunahara** et **Hiroshi Fujiwara** étaient impliqués.
 Une fusion de l'entrée numérique et de la production vidéo.
 
 ### 4-2 Freshness Burger : Connexion avec la culture du café
-**Toru Hashimoto (SUBURBIA)** supervise le magasin BGM.  
+**Toru Hashimoto (SUBURBIA)** supervise le magasin BGM.
 Introduction précoce du concept de « musique qui soutient le goût ».
 
 ---
@@ -104,7 +106,7 @@ Introduction précoce du concept de « musique qui soutient le goût ».
 ## Chapitre 5 Redéfinir l'ère numérique : « Le pouvoir de la marque sonore » véhiculé en 5 secondes (années 2010-2020)
 
 ### 5-1 Reconstruction du logo sonore
-- McDonald's : Jingle pentatonique universel (supervisé par Pharrell, Hiroshi Kawabe)
+- McDonald's : Jingle pentatonique universel (supervisé par Pharrell et Hiroshi Kawabe)
 - Changer le tempo/l'arrangement des touches pour chaque pays
 
 ### 5-2 Tendances dans la collaboration SNS x artistes

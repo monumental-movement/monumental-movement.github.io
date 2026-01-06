@@ -16,14 +16,14 @@ title: Récupérez les œuvres de la bande originale
 
 <hr>
 
-### Jerry　Goldsmith – A　Patch　Of　Blue
+### Jerry Goldsmith – Une tache de bleu
 <a href="https://jp.mercari.com/item/m39224661224?afid=6142608987"><img src="../assets/images/Jerry%20Goldsmith%20%E2%80%93%20A%20Patch%20Of%20Blue.webp"></a>
 
 Format : vinyle
 
 Oeuvre : Bande originale du film « A Patch of Blue » de 1965. Réédition de 1978.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Main Title
 A2. A Favour For Selina
@@ -47,7 +47,8 @@ B8. Bacon And Eggs
 B9. Goodbye Selina
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m39224661224?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m39224661224?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -56,14 +57,14 @@ B9. Goodbye Selina
 
 
 
-### VA – Tank　Girl
+### VA – Réservoir　Fille
 <a href="https://jp.mercari.com/item/m36900627106?afid=6142608987"><img src="../assets/images/VA%20%E2%80%93%20Tank%20Girl.webp"></a>
 
-Format : CD
+Format : CD
 
 Oeuvre : Bande originale du film de science-fiction « Tank Girl » de 1995. Compilé par Courtney Love, musique originale de Graeme Revell de SPK.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Stomp - Ripper Sole
 2. Björk - Army Of Me
@@ -79,21 +80,22 @@ Oeuvre : Bande originale du film de science-fiction « Tank Girl » de 1995. Com
 12. Ice-T - Big Gun
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m36900627106?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m36900627106?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BHRTf5Cz8as?si=Owwzh4Wy6w93LehZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-### Adam　Clayton &　Larry　Mullen – Theme From Mission: Impossible
+### Adam Clayton et Larry Mullen – Thème de Mission : Impossible
 <a href="https://jp.mercari.com/item/m33330451602?afid=6142608987"><img src="../assets/images/Adam%20Clayton%20&%20Larry%20Mullen%20%E2%80%93%20Theme%20From%20Mission%20Impossible.webp"></a>
 
 Format : Cassette
 
 Oeuvre : Cassette sortie en 1996, contenant la chanson thème du film « Mission : Impossible ».
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Theme From Mission: Impossible
 A2. Mission: Impossible Theme (Mission Accomplished)
@@ -101,21 +103,22 @@ A2. Mission: Impossible Theme (Mission Accomplished)
 B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m33330451602?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m33330451602?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1sibRQh_Ry0?si=uYrL9uW6B0nx9GjJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-### Ennio Morricone – Nuovo　Cinema　Paradiso
+### Ennio Morricone – Nouveau Cinéma Paradiso
 <a href="https://jp.mercari.com/item/m12330738876?afid=6142608987"><img src="../assets/images/Ennio%20Morricone%20%E2%80%93%20%20Nuovo%20Cinema%20Paradiso%20(Musica%20Originale%20Del%20Film).webp"></a>
 
-Format : CD
+Format : CD
 
 Travail : Bande originale du film classique de 1989 « New Cinema Paradise ».
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Nuovo Cinema Paradiso
 2. Maturita
@@ -135,14 +138,15 @@ Travail : Bande originale du film classique de 1989 « New Cinema Paradise »
 16. Per Elena
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m12330738876?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m12330738876?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qMgTCtSxOHE?si=9YjFz0Zd7nVwja81" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-### List
+### Liste
 
 <div class="table-border">
 <table>

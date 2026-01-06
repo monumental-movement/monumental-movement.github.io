@@ -19,7 +19,7 @@ L'album comprend des chansons emblématiques telles que « You Can't Bring Me Do
 
 L'album a été acclamé par la critique et a montré l'évolution musicale de Suicidal Tendencies, et a été un succès commercial. Le groupe a attiré de nombreux fans avec son style unique de fusion de heavy metal et de punk, et leur influence est devenue une présence importante sur la scène musicale crossover.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. You Can't Bring Me Down
 
@@ -42,7 +42,7 @@ B4. Disco's Out, Murder's In
 B5. Go'n Breakdown
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m66534589009?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m66534589009?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nxcJW6bs5os?si=-h-74mVx_OHMrt75" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -17,7 +17,7 @@ Les Masques était un groupe de jazz-funk français actif dans les années 1960.
 
 Cet album est une réédition de la collaboration des Masques de 1969 avec le trio de jazz brésilien LE TRIO CAMARA. Il est connu comme un chef-d'œuvre de la bossa nova, avec une sensation rythmique unique et une atmosphère joyeuse qui intègre les rythmes, les mélodies et les percussions de la musique brésilienne.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Echo
 
@@ -42,7 +42,7 @@ Cet album est une réédition de la collaboration des Masques de 1969 avec le tr
 11. Les Filles Et Les Garçons
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m63568072787?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m63568072787?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5gSe_2ckWLY?si=Db2soNruZ-pwthHH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -20,7 +20,7 @@ Oliver Doerell est un multi-instrumentiste basé sur la musique électronique qu
 
 "Sekunden" est un album expérimental classique moderne minimaliste sorti en 2007 par le label allemand City Center Offices.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Montauk
 2. Ja
@@ -36,7 +36,7 @@ Video1. Mamaev Kurgan
 Video2.Avtobus
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m83382086862?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m83382086862?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-C-UI1_tagY?si=58KxQ7II4ycQGbLh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

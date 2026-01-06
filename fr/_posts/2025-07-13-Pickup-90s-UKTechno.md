@@ -17,14 +17,14 @@ title: Récupération d'œuvres techno britanniques des années 90
 
 <hr>
 
-### Justin Berkovi – Fast - Wide E.P.
+### Justin Berkovi – Rapide - Wide E.P.
 <a href="https://jp.mercari.com/item/m73468913640?afid=6142608987"><img src="../assets/images/Justin%20Berkovi%20%E2%80%93%20Fast-%20Wide%20E.P.webp"></a>
 
 Sortie : 1998
 
 Un EP 4 titres sorti par Cloned - Vinyl au Royaume-Uni. « Brutal – City » et « Risk – Rumblin’ » en face A, « Steadycam » et « Neon » en face B.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Brutal City
 
@@ -35,7 +35,8 @@ B1. Steadycam
 B2. Neon
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m73468913640?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m73468913640?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -51,7 +52,7 @@ Sortie : 1997
 
 Œuvre électro/techno britannique de Sean Booth et Rob Brown. Un CD contenant des rythmes et des paysages sonores expérimentaux
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Goz Quarter
 
@@ -62,21 +63,21 @@ Sortie : 1997
 4. Draun Quarter
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m70361302879?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70361302879?afid=6142608987){: .button1}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K-og9vy8UE4?si=zbF37a-X46jSEK-1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
 
-### Luke Slater – Freek - Funk
+### Luke Slater – Freek-Funk
 <a href="https://jp.mercari.com/item/m61298864776?afid=6142608987"><img src="../assets/images/Luke%20Slater%20%E2%80%93%20Freek%20Funk.webp"></a>
 
 Sortie : 1997
 
 Techno et électronique britanniques. Publié par NovaMute. Le top 5 des albums Mixmag des années 90
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Purely
 2. Score One
@@ -97,7 +98,7 @@ Techno et électronique britanniques. Publié par NovaMute. Le top 5 des albums 
 
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m61298864776?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61298864776?afid=6142608987){: .button1}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hlp0a_j28so?si=KWuZGhZCXyp8X_58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -110,26 +111,26 @@ Sortie : 1995 (original), version remix sortie en 2006
 
 Remix acid techno du duo britannique Jon Nuccle/Mike Humphries
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A.  Acid War (Liberator DJs RMX)
 
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m93454980108?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93454980108?afid=6142608987){: .button1}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PgzmydKU9Go?si=pgZHEOnQqcXTMNRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
-### Surgeon – Communications
+### Chirurgien – Communications
 <a href="https://jp.mercari.com/item/m54311623393?afid=6142608987"><img src="../assets/images/Surgeon%20%E2%80%93%20Communications.webp"></a>
 
 Sortie : 1996
 
 Le premier album de Surgeon de Downwards (Royaume-Uni). Publié avec le soutien de Regis/Female
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Syllable
 
@@ -142,13 +143,13 @@ D1. Particle
 D2. Optic
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m27019476665?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m27019476665?afid=6142608987){: .button1}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uiZNbpzeHpQ?si=GqOkMOckiIqNv6rd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
-### Surgeon – Dry
+### Chirurgien – Sec
 <a href="https://jp.mercari.com/item/m21648905240?afid=6142608987"><img src="../assets/images/Surgeon%20%E2%80%93%20Dry.webp"></a>
 
 Sortie : 1999
@@ -156,7 +157,7 @@ Sortie : 1999
 Track techno intense sous le nom de Surgeon
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Untitled
 A2. Untitled
@@ -165,31 +166,31 @@ B1. Untitled
 B2. Untitled
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m21648905240?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m21648905240?afid=6142608987){: .button1}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0qhzTJ4cBKs?si=5bgGR0LBCTYVoj_m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
-### Hypnotist – House Is Mine ’92
+### Hypnotiseur – House Is Mine ’92
 <a href="https://jp.mercari.com/item/m41815735599?afid=6142608987"><img src="../assets/images/Hypnotist%20%E2%80%93%20House%20Is%20Mine%2092.webp"></a>
 
 Sortie : 1992 Techno hardcore par l'unité techno britannique
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. The House Is Mine '92 (Original)
 
 B. The House Is Mine '92 (Westbam Remix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m41815735599?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m41815735599?afid=6142608987){: .button1}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LnvJTGYsPeQ?si=NLewExt8jyJgM4nu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
-### List
+### Liste
 
 <div class="table-border">
 <table>

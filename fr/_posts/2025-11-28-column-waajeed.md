@@ -15,14 +15,16 @@ title: '[Chronique] Waajeed —— Un créateur qui ne cesse de renouveler la g�
 ---
 
 
+
 ## **Introduction**
 
 Texte : mmr｜Thème : La vie et l'œuvre de Waajeed, et son rôle dans la généalogie de Détroit
 
+
 Lorsqu'on évoque l'histoire musicale de Détroit, l'accent est souvent mis sur les géants des débuts de la techno. Cependant, de nombreux artistes ont « réintégré » la **lignée de la musique noire** de la ville - hip-hop, gospel, soul, house, jazz et techno - et l'ont sublimée dans de nouvelles formes d'expression depuis les années 2000.
 
 Une personne au centre de tout cela est **Waajeed**.
-Débutant sa carrière autour de Slum Village, il a continué à faire de l'esthétique musicale de Détroit une « plateforme de connexion avec le futur » avec Platinum Pied Pipers (PPP), Tiny Hearts et son propre label **Dirt Tech Reck**.
+Débutant sa carrière dans Slum Village, il a continué à faire de l'esthétique musicale de Détroit une « plateforme de connexion avec le futur » avec Platinum Pied Pipers (PPP), Tiny Hearts et son propre label **Dirt Tech Reck**.
 
 Depuis la fin des années 2010, il construit une œuvre qui suit plus directement le flow de la house/techno de Détroit, tout en mettant également au premier plan l’expression des racines noires.
 En particulier, **``Shango EP'' (2017)** et l'un de leurs chefs-d'œuvre actuels, **``Mother EP'' (2018)** se positionnent comme des œuvres qui présentent fortement la spiritualité et la nature communautaire de la musique de club tout en héritant des traditions de Détroit.
@@ -43,6 +45,7 @@ color: #fff;
 }
 </style>
 
+
 # **1. Jeunesse et parcours : Détroit, la « ville des débuts »**
 
 Waajeed (de son vrai nom Robert O'Bryant) est né à Détroit à la fin des années 1970.
@@ -58,7 +61,7 @@ Dès son plus jeune âge, il a grandi dans un environnement influencé par la **
 * Directement influencé par la créativité de J Dilla
 
 Ce que Waajeed a absorbé ici, c'était bien plus que la simple création de beats.
-**L'attitude est de « réaliser l'héritage de la musique noire comme une « réinvention » pour l'ère moderne. »**
+**L'attitude est de réaliser l'héritage de la musique noire comme une « réinvention » à l'ère moderne**.
 
 ---
 
@@ -116,7 +119,7 @@ Sorti en 2017, **Shango EP** a marqué un tournant important dans la carrière d
 
 Le titre **« Shango »** est une divinité qui apparaît dans la religion traditionnelle ouest-africaine et est un symbole qui relie la spiritualité de la diaspora afro à l'histoire de la musique noire.
 
-Sur cet EP Waajeed :
+Sur cet EP, Waajeed :
 
 * Structure house/techno beat de Détroit
 * Percussions afro
@@ -204,7 +207,7 @@ Ceci est encore plus prononcé sur Mother, donnant au morceau du club une profon
 
 ### **weight Hybride de son live et de son électronique**
 
-La technique consistant à mélanger naturellement synthés, pads, piano électrique, batterie live, percussions, etc. est également le résultat de « l'entraînement de l'oreille » de l'ère hip-hop.
+La technique consistant à mélanger naturellement synthés, pads, piano électrique, batterie live, percussions, etc. est aussi le résultat de « l'entraînement de l'oreille » de l'ère hip-hop.
 
 ---
 
@@ -213,12 +216,12 @@ La technique consistant à mélanger naturellement synthés, pads, piano électr
 (*Pas de liens externes, seulement des faits)
 
 * **PPP『Triple P』(2005)**
-* **PPP『Abundance』(2009)**
+* **PPA『Abondance』(2009)**
 * **『The War LP』(2012)**
 * **『Shango EP』(2017)**
-* **『From The Dirt』(2017)**
-* **『Ten Toes Down EP』(2018)**
-* **『Mother』(2022)**
+* **『De la saleté』(2017)**
+* **« Ten Toes Down EP » (2018)**
+* **« Mère » (2022)**
 
 ---
 
@@ -258,7 +261,7 @@ graph TD
 Waajeed est un artiste rare qui traite la culture musicale de Détroit non pas comme un « genre » mais comme un continuum d'histoire et de mémoire communautaire.
 
 * Hip-hop → Soul → Gospel → House → Techno
-  Dans le sens où il incarne à lui seul cette lignée, il incarne l’image d’un « créateur de Détroit » typique.
+Dans le sens où il incarne à lui seul cette lignée, il incarne l’image d’un « créateur de Détroit » typique.
 
 De plus, cette création vise l'innovation et non la nostalgie.
 Les œuvres de « Shango EP » à « Mother » sont

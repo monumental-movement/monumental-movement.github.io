@@ -22,7 +22,7 @@ Texte : mmr｜Thème : Du punk de Leeds à la nature sauvage américaine. Les 45
 > **"Ça a commencé par des rires, pas par une rébellion."**
 
 1977, Université de Leeds, nord de l'Angleterre.
-Les Mekons ont été fondés par des étudiants dans un coin d'une salle de cours, pensant en plaisantant : « Peut-être que nous pourrions former un groupe nous-mêmes. » Jon Langford, Tom Greenhalgh, Kevin Lycett et d'autres allaient devenir des symboles de la culture post-punk. Ils n'avaient aucune compétence musicale et avaient même emprunté des instruments.
+Les Mekons ont été fondés par des étudiants dans un coin d'une salle de cours, pensant en plaisantant : « Peut-être que nous pourrions former un groupe nous-mêmes. » Jon Langford, Tom Greenhalgh, Kevin Lycett et d'autres deviendront des symboles de la culture post-punk. Ils n'avaient aucune compétence musicale et avaient même emprunté des instruments.
 À cette époque, le punk était une révolution que n’importe qui pouvait lancer. Le nom Mekons viendrait du personnage « rebelle » de la pièce de Byron, La Malédiction de Minerva.
 
 Le single « Where Were You / I'll Have To Dance Then (On My Own) », sorti en 1978, symbolise leur esprit punk précoce.
@@ -48,15 +48,16 @@ color: #fff;
 }
 </style>
 
+
 ### Chapitre 1 : Échapper au punk brutal et maladroit
 > **"La maladresse était la sincérité."**
 
-Premier album sorti en 1979 [``The Quality of Mercy Is Not Strnen''] (https://amzn.to/477GZ6y). L'erreur typographique dans le titre « Stolen » symbolisait l'attitude du groupe.  
-Enregistré aux Virgin Studios à Londres. À l'époque, ils disaient : «C'était la première fois que je voyais une table de mixage.»  
+1979年発表のデビュー・アルバム[『The Quality of Mercy Is Not Strnen』](https://amzn.to/477GZ6y)。タイトルは“ストレン”という誤植そのものがバンドの姿勢を象徴していた。  
+Enregistré aux Virgin Studios à Londres. À l'époque, ils disaient : «C'était la première fois que je voyais une table de mixage.»
 L'acoustique est rude et la distance et l'équilibre du microphone sont instables. Pourtant, le hurlement de la guitare et la distorsion du chant ont été enregistrés comme « une créativité née de l'ignorance ». Il n’y a pas de producteur, et l’image sonore est basée sur l’esprit DIY.
 
-"Nous n'étions ni politiques ni romantiques, nous étions simplement confus", explique Jon Langford.  
-À cette époque, les Mekons étaient conscients d'« agir » plutôt que d'agir en rébellion. C'est pourquoi leur son faisait écho au « doute » que d'autres groupes punk avaient laissé partir.
+"Nous n'étions ni politiques ni romantiques, nous étions simplement confus", explique Jon Langford.
+À l'époque, les Mekons étaient conscients de « jouer » plutôt que de mettre en scène la rébellion. C'est pourquoi leur son faisait écho au « doute » que d'autres groupes punk avaient laissé partir.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zU9zbbBMxTI?si=lm70X_cOq77g-pIy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -65,28 +66,28 @@ L'acoustique est rude et la distance et l'équilibre du microphone sont instable
 ### Chapitre 2 : Postpunk et critique sociale
 > **"Ce qui restait après la colère était un regard d'observation."**
 
-Au début des années 1980, à mesure que le punk devenait plus populaire, les Mekons changèrent progressivement de forme.  
-Ils quittent Londres et se transforment en un groupe de critique sociale qui croise la politique et la culture. Dans le contexte des mouvements Theatre of Hate et Red Wedge, Mekons a choisi « la communauté plutôt que la musique ».  
+Au début des années 1980, à mesure que le punk devenait plus populaire, les Mekons changèrent progressivement de forme.
+Ils quittent Londres et se transforment en un groupe de critique sociale qui croise la politique et la culture. Dans le contexte des mouvements Theatre of Hate et Red Wedge, Mekons a choisi « la communauté plutôt que la musique ».
 Les membres ne sont pas fixes et des amis de l'époque universitaire vont et viennent, enregistrant parfois avec jusqu'à 10 personnes. Sa nature de collectif artistique se renforce.
 
-Leur chef-d’œuvre de 1989 [« The Mekons Rock ‘n’ Roll »](https://amzn.to/4nIWLMc) en était le résumé.  
-Une composition spatiale unique avec un double suivi de la guitare, une réverbération excessive et des basses fréquences supprimées de la basse. Il s'agissait de gadgets destinés à déformer intentionnellement la « beauté formelle du rock ».  
+1989年の代表作[『The Mekons Rock ’n’ Roll』](https://amzn.to/4nIWLMc)は、その総括だった。  
+Une composition spatiale unique avec un double suivi de la guitare, une réverbération excessive et des basses fréquences supprimées de la basse. Il s'agissait de gadgets destinés à déformer intentionnellement la « beauté formelle du rock ».
 Avec cet album, ils présentent le paradoxe de « Le rock n'est-il pas le système lui-même ? »
 
-> “We know that rock and roll is dangerous. It can destroy countries.”  
-> — *The Mekons, interview 1989*
+> "Nous savons que le rock and roll est dangereux. Il peut détruire des pays."
+> — *Les Mékons, entretien 1989*
 
 ---
 
 ### Chapitre 3 : Rencontre avec la musique américaine et l'aube du « country alternatif »
 > **"Au milieu du vin et de la poussière, il y avait la vérité."**
 
-Avec ['Fear and Whiskey'](https://amzn.to/4mV4QMk) de 1985, les Mekons se sont aventurés dans des horizons complètement nouveaux.  
-Ce qu'il y avait là, c'était la musique folk et country du sud des États-Unis, ainsi que le sentiment de « perte de chez-soi » ressenti par la société britannique d'après-guerre.  
+1985年の[『Fear and Whiskey』](https://amzn.to/4mV4QMk)で、Mekonsは完全に新しい地平へ踏み出す。  
+Ce qu'il y avait là, c'était la musique folk et country du sud des États-Unis, ainsi que le sentiment de « perte de chez-soi » ressenti par la société britannique d'après-guerre.
 Durant cette période, Jon Langford redécouvre que « la country est le blues de la classe ouvrière » en écoutant Hank Williams et Merle Haggard.
 
-Enregistré à Woodlands, Leeds, un studio indépendant à l'époque. La guitare, enregistrée directement en ligne sur une bande analogique, a une saturation naturelle qui tire parti de la distorsion de l'amplificateur, et les micros de salle sont souvent utilisés pour le chant.  
-Ce son lo-fi crée un « sentiment poétique de distance » plutôt qu’une « odeur de boue ».  
+Enregistré à Woodlands, Leeds, un studio indépendant à l'époque. La guitare, enregistrée directement en ligne sur une bande analogique, a une saturation naturelle qui tire parti de la distorsion de l'amplificateur, et les micros de salle sont souvent utilisés pour le chant.
+Ce son lo-fi crée un « sentiment poétique de distance » plutôt qu’une « odeur de boue ».
 Cet album sera plus tard réévalué comme un précurseur du genre « alt-country » d'artistes tels que Oncle Tupelo et Wilco.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cTToDniWwdQ?si=cfNzh4SRSgb_Nbwy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -96,27 +97,27 @@ Cet album sera plus tard réévalué comme un précurseur du genre « alt-countr
 ### Chapitre 4 : Le rock and roll en tant qu'immigrant
 > **« Le rock n'a pas de frontières, mais les immigrants ont besoin de terre. »**
 
-Dans les années 1990, les Mekon ont déménagé à Chicago.  
-Jon Langford approfondit sa collaboration avec des musiciens américains, développant d'autres projets comme les Waco Brothers et Pine Valley Cosmonauts.  
-Sally Timms collaborera avec des poètes locaux et Tom Greenhalgh participera à la production vidéo.  
+Dans les années 1990, les Mekon ont déménagé à Chicago.
+Jon Langford approfondit sa collaboration avec des musiciens américains, développant d'autres projets comme les Waco Brothers et Pine Valley Cosmonauts.
+Sally Timms collaborera avec des poètes locaux et Tom Greenhalgh participera à la production vidéo.
 Durant cette période, les Mekons existaient comme une « communauté artistique à la dérive » qui transcendait la nationalité et le genre.
 
-On a dit que "la musique de Mekons semble n'avoir sa place nulle part".  
-Comme les immigrants, ils se déplaçaient entre les contextes musicaux, y créant des foyers temporaires.  
-L'album [Journey to the End of the Night (2000)] (https://amzn.to/4q3A5HR) en est un symbole, et sa composition acoustique, qui comprend des cuivres et du violon, souligne son « caractère étranger ».  
-Bien qu'il ait utilisé Pro Tools pour ce travail, il a délibérément utilisé une console analogique pour le mixage, créant ainsi un « déséquilibre humain ».
+On a dit que "la musique de Mekons semble n'avoir sa place nulle part".
+Comme les immigrants, ils se déplaçaient entre les contextes musicaux, y créant des foyers temporaires.
+アルバム[『Journey to the End of the Night』（2000）](https://amzn.to/4q3A5HR)はその象徴であり、ブラスやヴァイオリンを加えた音響構成が“異郷性”を強調する。  
+Bien qu'il ait utilisé Pro Tools pour ce travail, il a intentionnellement utilisé une console analogique pour le mixage, créant ainsi un « déséquilibre humain ».
 
 ---
 
 ### Chapitre 5 : Féminisme et solidarité, perspectives des femmes membres
-> **« À mesure que les voix s'élèvent, la vérité devient plus divisée. »**
+> **« À mesure que les voix se multiplient, la vérité se divise. »**
 
-Sally Timms mérite une mention spéciale dans l’histoire de Mekon.  
-Lorsqu'elle a officiellement rejoint le groupe en 1985, elle n'était pas seulement une chanteuse, mais aussi une « conteuse ».  
-Sa voix claire avait le pouvoir de transformer le langage politique du groupe en allégorie poétique.  
+Sally Timms mérite une mention spéciale dans l’histoire de Mekon.
+Lorsqu'elle a officiellement rejoint le groupe en 1985, elle n'était pas seulement une chanteuse, mais aussi une « conteuse ».
+Sa voix claire avait le pouvoir de transformer le langage politique du groupe en allégorie poétique.
 Sally dit : « Raconter une histoire est plus puissant que crier de la colère. » Avec son point de vue ajouté, Mekons a été réévaluée dans un contexte féministe.
 
-Sa nature polyphonique, à l'instar de ses contemporains Raincoats et Au Pairs, est un exemple rare de voix de femme acquérant une réalité sociale.  
+Sa nature polyphonique, à l'instar de ses contemporains Raincoats et Au Pairs, est un exemple rare de voix de femme acquérant une réalité sociale.
 Lors des performances live, il y a de nombreuses scènes où Sally lit à haute voix et Langford l'accompagne à la guitare, ce qui rend claire la structure « musique = narration » des Mekons.
 
 
@@ -127,13 +128,13 @@ Lors des performances live, il y a de nombreuses scènes où Sally lit à haute 
 ### Chapitre 6 : Les Mekons comme art — Multimédia et documentaire
 > **"Leur art est un témoignage et une célébration."**
 
-Le film documentaire de 2013 [La revanche des Mekons](https://amzn.to/3KJVhCA) ​​​​​​a montré le cœur du mouvement.  
-Le réalisateur Joe Angio les décrit comme des « œuvres d'art vivantes ».  
-Cette œuvre montre comment les Mekons ont traversé diverses formes d'expression, notamment la musique mais aussi la peinture, la photographie, la poésie et l'activisme politique.  
+2013年のドキュメンタリー映画[『Revenge of the Mekons』](https://amzn.to/3KJVhCA)は、その活動の核心を映し出した。  
+Le réalisateur Joe Angio les décrit comme des « œuvres d'art vivantes ».
+Cette œuvre montre comment les Mekons ont traversé diverses formes d'expression, notamment la musique mais aussi la peinture, la photographie, la poésie et l'activisme politique.
 Jon Langford lui-même était un peintre actif et présentait une « image anti-romantique de l'Amérique » en représentant symboliquement les paysages du Midwest américain.
 
-Tout en conservant un enregistrement analogique, leur son produit intentionnellement une « rugosité ».  
-Langford a déclaré : « Le bruit est dans notre sang » et lors de l'enregistrement, il a préféré retirer le noise gate et laisser les sons ambiants.  
+Tout en conservant un enregistrement analogique, leur son produit intentionnellement une « rugosité ».
+Langford a déclaré : « Le bruit est dans notre sang » et lors de l'enregistrement, il a préféré retirer le noise gate et laisser les sons ambiants.
 Ce « son marqué » était le réalisme auquel croyait Mekons.
 
 ---
@@ -141,13 +142,13 @@ Ce « son marqué » était le réalisme auquel croyait Mekons.
 ### Chapitre 7 : Au-delà de la déconstruction et de la réorganisation
 > **"Même si nous nous séparons, ça ne finira pas. Parce que ça ne finira pas, c'est Mekons."**
 
-Les Mekons se sont dissous et se sont reformés à plusieurs reprises.  
-Cependant, ce n’est pas la fin, mais plutôt un cycle comme les saisons.  
-"Deserted" de 2019 (https://amzn.to/4nHdkYD) est un album de session que les membres se sont réunis dans le désert et enregistré en quelques jours.  
-On sent la « colère tranquille » de ces gens qui ont atteint leurs premières années.  
+Les Mekons se sont dissous et se sont reformés à plusieurs reprises.
+Cependant, ce n’est pas la fin, mais plutôt un cycle comme les saisons.
+2019年の[『Deserted』](https://amzn.to/4nHdkYD)は、メンバーが砂漠に集まり数日で録音したセッション盤。  
+On sent la « colère tranquille » de ces gens qui ont atteint leurs premières années.
 Guitare acoustique, drone électronique et sons de vent lointain. Cela ressemble à un « testament d’humanité ».
 
-> “We are still here, not because we should be, but because we can be.”  
+> « Nous sommes toujours là, non pas parce que nous devrions l’être, mais parce que nous pouvons l’être. »
 > — *Jon Langford, 2019*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p5y0KqiGjOM?si=ynwQfZRqbD2I6-wo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -157,11 +158,11 @@ Guitare acoustique, drone électronique et sons de vent lointain. Cela ressemble
 ### Dernier chapitre : Pourquoi les Mekons ont-ils « survécu » ?
 > **"L'espoir est la survie collective."**
 
-Depuis plus de 45 ans, ils rejettent le commercialisme et cherchent un moyen de gagner leur vie en dehors de l’industrie musicale.  
-Il s’agit d’une esthétique de solidarité et non d’auto-préservation.  
+Depuis plus de 45 ans, ils rejettent le commercialisme et cherchent un moyen de gagner leur vie en dehors de l’industrie musicale.
+Il s’agit d’une esthétique de solidarité et non d’auto-préservation.
 Leur œuvre a transcendé les idéaux du post-punk et est devenue la pratique même de « l’art de la survie ».
 
-La musique de Mekons n'est pas parfaite. Mais cette imperfection résonne avec l’imperfection du monde.  
+La musique de Mekons n'est pas parfaite. Mais cette imperfection résonne avec l’imperfection du monde.
 C'est pour ça qu'ils sonnent encore.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/afFqy--NADw?si=Zgaw5OYcbM0x6V3t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -172,13 +173,13 @@ C'est pour ça qu'ils sonnent encore.
 
 | Année de sortie | Titre | Remarques | Lien |
 |:--:|:--|:--|:--|
-| 1978 | *Où étais-tu / Je devrai alors danser (tout seul)* | Un premier single, symbole de l'esprit punk | [Amazon](https://amzn.to/3ICpuDb) |
-| 1979 | *La qualité de la miséricorde n'est pas étranglée* | Premier disque punk | [Amazon](https://amzn.to/475k7ED) |
-| 1985 | *Peur et whisky* | Post-punk + country fusion | [Amazon](https://amzn.to/3J1VsbQ) |
-| 1989 | *Les Mekons Rock'n'Roll* | Le comble de la critique sociale | [Amazon](https://amzn.to/4pY2TSl) |
-| 1994 | *Retraite de Memphis* | Une période de renaissance et de transformation | [Amazon](https://amzn.to/4mWrggs) |
-| 2000 | *Voyage jusqu'au bout de la nuit* | Voyage en terre étrangère | [Amazon](https://amzn.to/4q3A5HR) |
-| 2019 | *Déserté* | Poésie d'un groupe debout dans le désert | [Amazon](https://amzn.to/4nHdkYD) |
+| 1978 | *Where Were You / I'll Have To Dance Then (On My Own)* | デビュー初期シングル、パンク精神の象徴 | [Amazon](https://amzn.to/3ICpuDb) |
+| 1979 | *The Quality of Mercy Is Not Strnen* | 初期パンクの記録 | [Amazon](https://amzn.to/475k7ED) |
+| 1985 | *Fear and Whiskey* | ポストパンク＋カントリーの融合 | [Amazon](https://amzn.to/3J1VsbQ) |
+| 1989 | *The Mekons Rock ’n’ Roll* | 社会批評の極み | [Amazon](https://amzn.to/4pY2TSl) |
+| 1994 | *Retreat from Memphis* | 再生と変容の時期 | [Amazon](https://amzn.to/4mWrggs) |
+| 2000 | *Journey to the End of the Night* | 異郷への旅 | [Amazon](https://amzn.to/4q3A5HR) |
+| 2019 | *Deserted* | 荒野に立つ集団の詩 | [Amazon](https://amzn.to/4nHdkYD) |
 
 ---
 

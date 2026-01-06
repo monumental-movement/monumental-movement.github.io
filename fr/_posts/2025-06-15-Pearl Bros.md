@@ -23,13 +23,13 @@ Les membres sont Kenzo Saeki, Haruo Kubota, Bakabon Suzuki, Toshiya Matsunaga, T
 
 #### Liste des chansons
 ```md
-A. La femme au casque de fer
+A. 鉄カブトの女
 
-B1. Bakayarou est un langage d'amour (type disco)
-B2. ◯. ◯◯◯ Fille (Karaoké pour Saeki)
-````
+B1. バカヤロウは愛の言葉 (ディスコ・タイプ)
+B2. ◯。◯◯◯娘 (サエキ用カラオケ)
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m67375489466?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m67375489466?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zI1Dq9i9nw0?si=lWyVFpOuRWX105TN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

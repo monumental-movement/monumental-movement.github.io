@@ -19,7 +19,7 @@ title: Pop va se manger – C'est le jour... C'est l'heure... C'est ça !
 
 Pop Will Eat Itself est un groupe de rock alternatif britannique formé en 1986.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1-1. PWEI Is A Four Letter Word
 1-2. Preaching To The Perverted
@@ -51,7 +51,7 @@ Pop Will Eat Itself est un groupe de rock alternatif britannique formé en 1986.
 2-9. Wake Up! Time To Die... (Instrumental Demo)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m38275755897?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m38275755897?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0-FaCRhqzVU?si=t-eUHNuOf04pZpMu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

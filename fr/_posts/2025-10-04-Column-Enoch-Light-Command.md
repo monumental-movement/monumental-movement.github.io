@@ -17,6 +17,7 @@ title: '[Chronique] Enoch Light et Command Records : La lignée de l''homme et d
 
 Texte : mmr | Thème : retrace soigneusement l'histoire, les œuvres représentatives, les artistes associés, les anecdotes et l'influence d'Enoch Wright, qui a élevé le « disque de démonstration » de l'ère stéréo au niveau de l'art, et de la société qu'il a fondée, Command Records, jusqu'à ce jour.
 
+
 Dans les années 1950 et 1960, il y avait une personne parmi les passionnés d'audio qui a changé son orientation des « disques à écouter » aux « disques à écouter ». Le chef d'orchestre/producteur Enoch Light a lancé Command Records, un label recherchant un son de haute qualité, en 1959, et est devenu un symbole de la « culture hi-fi » avec ses œuvres uniques et sa technologie d'enregistrement de pointe. Cet article résume toute l'histoire, y compris son contexte historique, ses œuvres représentatives, sa relation avec Tony Mottola et l'évaluation d'aujourd'hui.
 
 ---
@@ -39,19 +40,22 @@ Command Records visait clairement le marché en tant que « disque de démonstra
 
 ---
 
+
 ### Anecdote/Légende/Épisode
 
 - **Gatefold et esthétique graphique**
 
 Les pochettes de LP de Command étaient visuellement fortes, comportant parfois une couverture de l'artiste abstrait Josef Albers. La conception du CD comme quelque chose qui allait au-delà d'un simple disque de démonstration pour devenir quelque chose que les gens voudraient posséder a stimulé la culture des collectionneurs qui a suivi.
 
+
 - **Slogan promotionnel : « Vous serez surpris dès que vous l'entendrez pour la première fois »**
 
 Les notes de doublure et les promotions de Stereo 35/MM utilisaient des expressions provocatrices telles que « Vous serez surpris lorsque vous l'entendrez pour la première fois » pour susciter l'intérêt des auditeurs. Il s’agit d’un exemple de marketing réussi basé sur la confiance technique.
 
+
 - **Le conflit entre le commerce et l'art**
 
-La qualité sonore, proche de celle d'une version « de démonstration », a été saluée par les audiophiles, mais certains ont remis en question son universalité en tant que chanson pop. Malgré cela, il y a eu quelques succès sur Chart (Stereo 35/MM, etc.), et Wright était l'un des rares producteurs à pouvoir rendre « l'attrait technique » commercialement viable.
+La qualité sonore, proche de celle d'une version « démonstration », a été saluée par les audiophiles, mais certains ont remis en question son universalité en tant que chanson pop. Malgré cela, il y a eu quelques succès sur Chart (Stereo 35/MM, etc.), et Wright était l'un des rares producteurs à pouvoir rendre « l'attrait technique » commercialement viable.
 
 ---
 
@@ -73,13 +77,16 @@ flowchart TD
 
 ---
 
+
 ### Séries et albums représentatifs
 
 Série Persuasive Percussion (publiée pour la première fois en 1959)
 Une série qui se veut une « pièce maîtresse stéréo » avec des instruments à percussion au premier plan. Il a gagné en popularité grâce à sa sélection de chansons et à sa mise en page qui ont eu un fort impact même parmi les étrangers. Les graphismes de la pochette et l'explication du gatefold étaient également innovants à l'époque.
 
+
 Série de percussions provocatrices
 Série sœur de Persuasive. Bien que le concept soit similaire, certaines œuvres ont été améliorées au niveau de l'arrangement et de la présentation solo, et ont atteint des classements élevés dans les charts Billboard.
+
 
 Stéréo 35/MM (1961)
 L'album a été enregistré au Carnegie Hall à l'aide d'un master 35 mm. Il est resté au sommet des charts longtemps après sa sortie et constitue un excellent exemple d'attrait technique et de succès commercial en même temps.
@@ -91,14 +98,15 @@ L'album a été enregistré au Carnegie Hall à l'aide d'un master 35 mm. Il est
 
 | Année | Album (artiste) | Commentaire | Lien |
 | --------- | -------------------- | ----------------- | ------------- |
-| 1959 | Percussion persuasive (Terry Snyder et The All Stars) | Premier de la série. « Enregistrement visible » qui met l'accent sur l'effet stéréo.  | [Amazon](https://amzn.to/4pSSAyH) |
-| 1959 | Percussion provocatrice (Enoch Light & The Light Brigade) | Un chef-d'œuvre avec la série Persuasive. Les aspects visuels tels que les œuvres de Josef Albers sont également remarquables. | [Amazon](https://amzn.to/4gYbFLV) |
-| 1961 | Stéréo 35/MM (Enoch Light et son orchestre) | Enregistrement au Carnegie Hall. Travail expérimental haute fidélité utilisant un master 35 mm. Succès commercial.   |[Amazon](https://amzn.to/3WjZT4T) |
-| Années 1960 (Aperçu) | CD de compilation persuasif/provocateur | Compilation de réédition pour achat groupé. Ces dernières années, des rééditions de grande qualité ont été vues ici et là.    | [Amazon](https://amzn.to/48gg2Qg) |
+| 1959      | Persuasive Percussion（Terry Snyder & The All Stars） | シリーズ第1作。ステレオ効果を強調した“見せる録音”。  |  [Amazon](https://amzn.to/4pSSAyH)  |
+| 1959      | Provocative Percussion（Enoch Light & The Light Brigade） | Persuasive 系と並ぶ代表作。Josef Albers のアートワークなど視覚面も注目。 | [Amazon](https://amzn.to/4gYbFLV)    |
+| 1961      |  Stereo 35/MM（Enoch Light and His Orchestra） | Carnegie Hall録音。35mmマスター利用のハイファイ実験作。商業的にも成功。   |[Amazon](https://amzn.to/3WjZT4T)        |
+| 1960s（総括） | Persuasive/Provocative コンピCD | まとめ買い向けの再発コンピ。近年も高音質再発が散見される。    | [Amazon](https://amzn.to/48gg2Qg) |
 
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MZ9kac5dkd8?si=QfwdLUt-kVfX47oV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ### Musiciens impliqués/artistes produits
 
@@ -110,6 +118,7 @@ En plus de diriger lui-même, Enoch Light a fait appel aux meilleurs musiciens d
 
 
 ---
+
 
 ## Relation entre Tony Mottola et Enoch Light
 
@@ -147,13 +156,13 @@ Il se produit dans un large éventail de genres, y compris non seulement le jazz
 
 ### Rencontre et relation avec Enoch Light
 
-- **Grand Award → Guitariste régulier pendant la période Command Records**
+- **Grand Award → Guitariste régulier à l'époque de Command Records**
 
 Lorsque Enoch Light a fondé Grand Award and Command, il a rassemblé les meilleurs talents de New York. Parmi eux, le guitariste régulier est Tony Mottola.
 
 Il a également joué un rôle important dans les séries « Persuasive Percussion » et « Provocative Percussion ».
 
-Dans les expériences avec les rythmes latins et le positionnement stéréo, la guitare était utile comme instrument pouvant être facilement assigné à gauche et à droite, et le jeu flexible de Mottola a été utilisé.
+Dans les expériences avec les rythmes latins et le positionnement stéréo, la guitare s'est avérée utile en tant qu'instrument pouvant être facilement assigné à la gauche et à la droite, et le jeu flexible de Mottola a été mis à profit.
 
 - **Sortie d'un album solo (de Command)**
 
@@ -172,11 +181,11 @@ Mottola était l'un des piliers qui soutenaient le « parcours lounge/écoute fa
 - **Guitariste régulier de Command Records**
 
 Il participe presque toujours aux enregistrements du Grand Award~Command établi par Light.
-Il était chargé de mener des expériences de localisation de guitare dans la série « Persuasive Percussion » et d'autres œuvres.
+Il était responsable des expériences de localisation de guitare dans la série "Persuasive Percussion".
 
 - **Sortie d'un album solo**
 
-Command a développé la série "Roman Guitar", rendant la musique latine et italienne haute-fidélité. C’est devenu un chef-d’œuvre connu dans le monde entier.
+Command a développé la série "Roman Guitar", rendant la musique latine et italienne haute-fidélité. C’est devenu un chef-d’œuvre mondialement connu.
 
 - **Rôle dans les expériences acoustiques**
 
@@ -194,10 +203,10 @@ Accentue les effets de la réverbération et du traitement de la réverbération
 
 | Année | Albums | Commentaire | Lien |
 | ---- | ------------------ | ---------- | -------------------- |
-| 1959 | *Percussion persuasive* | Produisez une localisation stéréo avec une guitare. Une œuvre symbolique du début du Commandement.         | [Amazon](https://amzn.to/4pSSAyH) |
-| 1960 | *Guitare romaine* | Débuts en solo de Command. Chansons folkloriques latines/italiennes en haute fidélité. | [Amazon](https://amzn.to/4nK0HMz) |
-| 1961 | *Guitare romaine Vol.2* | Suite du blockbuster. Sélection de chansons exotiques.                  | [Amazon](https://amzn.to/46Bdf2Q) |
-| 1963 | *Guitare romaine Vol.3* | Série terminée. Un monument du lounge/easy listening.          | [Amazon](https://amzn.to/4gSJhLf) |
+| 1959 | *Persuasive Percussion*                | ギターでステレオ定位を演出。初期Commandの象徴作。         | [Amazon](https://amzn.to/4pSSAyH) |
+| 1960 | *Roman Guitar*                       | Commandからのソロデビュー作。ラテン／イタリア民謡をハイファイに。 | [Amazon](https://amzn.to/4nK0HMz)         |
+| 1961 | *Roman Guitar Vol.2*             | 大ヒット作の続編。エキゾチックな選曲。                  | [Amazon](https://amzn.to/46Bdf2Q)                |
+| 1963 | *Roman Guitar Vol.3*               | シリーズ完成形。ラウンジ・イージーリスニングの金字塔。          | [Amazon](https://amzn.to/4gSJhLf)                |
 | 1963 | *Enoch Light présente Tony Mottola et les guitares Quad* | Un album expérimental unique à Command, avec overdub de quatre guitares.        | [Discogs](https://www.discogs.com/release/6340847-Tony-Mottola-And-The-Quad-Guitars-Tony-Mottola-And-The-Quad-Guitar) |
 
 ---

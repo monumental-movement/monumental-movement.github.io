@@ -20,7 +20,7 @@ Duo allemand acid techno/tech house.
 
 Le premier album de Hardfloor est sorti en 1993 sur le label indépendant britannique Moonshine Music. Le chef-d'œuvre de Hardfloor, considéré comme un chef-d'œuvre de la techno/acid techno.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Lost In The Silver Box
 2. Trancescript
@@ -33,7 +33,7 @@ Le premier album de Hardfloor est sorti en 1993 sur le label indépendant britan
 9. Happy 20th (Remix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m67738868302?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m67738868302?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lcg-31Ig2Uo?si=UkBWcWoluBqWhlgO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

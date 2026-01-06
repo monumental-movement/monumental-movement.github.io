@@ -17,7 +17,7 @@ Di Lacuna est un groupe de post-rock formé en 1998 par John Sephton, Lee Newell
 
 "Teetering On The Edge Of Quiet...." est sorti en 1999 par FatCat Records, un label post-rock de noise électronique basé à Brighton, au Royaume-Uni.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Brand New Low
 
@@ -28,5 +28,5 @@ B1. New Project 14
 B2. Scandal Of The Baby Farmers
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m49813157624?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m49813157624?afid=6142608987){: .button1}
 

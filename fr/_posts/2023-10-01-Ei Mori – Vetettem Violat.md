@@ -21,14 +21,14 @@ Jo Casters est un important musicien et producteur belge qui joue un rôle impor
 
 étaient parmi les fondateurs et les artistes les plus prolifiques du mouvement New Beat en 1987. Ils ont sorti une centaine d'enregistrements en un an sous différents noms.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Vetettem Violat
 
 B. Vetettem Violat (Instrumental)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m42012881595?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m42012881595?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yesWKnXMsgU?si=kUJSLBrbSbyahG5V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

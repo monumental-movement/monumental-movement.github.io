@@ -18,17 +18,17 @@ Le premier album de la série Lost & Found supervisé par Haruomi Hosono. Source
 
 #### Liste des chansons
 ```md
-01. Chanson rituelle créative « Revolutionary Bell »/I Wayan Beratha
-02. Chanson rituelle « L’incendie de Smara »/Traditionnel
-03. Danse « La cour des abeilles »/I Nyoman Maria
-04. Musique instrumentale créative « Flower Melody »/I Wayan Lotring
-05. Pièce rituelle classique « Charité »/Traditionnel
-````
+01. 創作儀礼曲「革命の鐘」/I Wayan Beratha(イ・ワヤン・ブラダ)
+02. 儀礼曲「スマラ神の火刑」/Traditional(トラディッショナル)
+03. 舞曲「蜜蜂の求愛」/I Nyoman Maria（イ・ニョマン・マリオ）
+04. 創作器楽曲「花の旋律」/I Wayan Lotring（イ・ワヤン・ロットリング）
+05. 古典儀礼曲「慈愛」/Traditional(トラディッショナル）
+```
 
 "Lost & Found" supervisé par Haruomi Hosono
 
-Resonance Meditation - Gong Geladag
+Méditation par résonance - Gong Geladag
 
 Méditation par résonance Méditation par résonance - Gong Gradag
 
-[Achat sur Mercari](https://jp.mercari.com/item/m46194452889?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46194452889?afid=6142608987){: .button1}

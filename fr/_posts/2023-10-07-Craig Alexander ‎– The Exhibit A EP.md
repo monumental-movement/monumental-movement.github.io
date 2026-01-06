@@ -21,7 +21,7 @@ Il a commencé par promouvoir des soirées avec Ron Hardy au légendaire club AK
 
 Il a joué avec de nombreux artistes dont Glenn Underground, Paul Johnson, DJ Rush, Lil Louis et Thomas Bangalter (Daft Punk). Son parcours musical l'a conduit dans de nombreux pays différents, dont la France, la Suisse et l'Allemagne. Il a également relancé « Oblique Records Digital » en 2012.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Breath
 
@@ -30,7 +30,7 @@ B1. Do Your Thang
 B2. Elektro Ride
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m76924135596?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m76924135596?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6P3VBDl_zb8?si=WFgI1x9rGkzsocVS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

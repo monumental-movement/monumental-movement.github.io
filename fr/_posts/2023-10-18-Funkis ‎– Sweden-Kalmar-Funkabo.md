@@ -15,7 +15,7 @@ title: Funkis – Suède-Kalmar-Funkabo
 
 Funkis est une unité formée par Dan Fun et Nikolas Rowland. "Sweden-Kalmar-Funkabo" est sorti en 1997 par la société suédoise Weber Börft Records.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Jämnårig, Synfel
 
@@ -30,7 +30,7 @@ B2. Snälla Jultomten
 B3. 25-årig, Lång, Snygg
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m20734209180?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m20734209180?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JzJMeP1Jjvs?si=bOt8roZKg6aqsvJn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

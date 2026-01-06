@@ -19,6 +19,7 @@ title: '[Chronique] "Autre cinéma" dans le Mission District de San Francisco : 
 
 Texte : mmr｜Thème : Matériaux et lieux importants pour des expériences précieuses pour comprendre en profondeur l'histoire et la culture du cinéma
 
+
 Situé dans le Mission District de San Francisco, Other Cinema est un incontournable pour les cinéphiles qui aiment le cinéma underground, expérimental et d'art et d'essai. Cet endroit est géré par Craig Baldwin et accueille des projections tous les samedis au sous-sol de la galerie Artists' Television Access (ATA). La projection est gratuite et cet événement unique présentera également des livres, des disques, des VHS, du vin et bien plus encore.
 
 
@@ -36,6 +37,7 @@ background-color: #111;
 color: #fff;
 }
 </style>
+
 
 ### Caractéristiques et charme de l'Autre Cinéma
 
@@ -59,6 +61,7 @@ Chez Other Cinema, les cinéastes apporteraient leurs films en VHS, et si Baldwi
 
 ---
 
+
 ### À propos de Craig Baldwin
 
 Craig Baldwin est un cinéaste expérimental qui dirige la série « Other Cinema » de San Francisco et est connu comme un pionnier du cinéma underground. Son travail met le spectateur au défi de réfléchir profondément en reconstituant des images d’archives et en critiquant avec acuité des thèmes politiques et sociaux.
@@ -66,31 +69,33 @@ Craig Baldwin est un cinéaste expérimental qui dirige la série « Other Cinem
 
 ---
 
+
 ### La filmographie chef-d'œuvre de Craig Baldwin
 
 Ci-dessous, nous avons répertorié les œuvres majeures de Baldwin par année.
 
 #### Années 1990
 
-**Tribulation 99**: Alien Anomalies Under America (1991)
+**Tribulation 99** : Anomalies extraterrestres sous l'Amérique (1991)
 
 Un documentaire parodique illustrant l'intervention américaine en Amérique latine sous la forme d'une invasion extraterrestre.
 
 
-**Sonic Outlaws (1995)**
+**Sonic Hors-la-loi (1995)**
 
 Un documentaire expérimental sur le thème de la musique et du droit d'auteur.
 
 ---
 
+
 #### Années 2000
 
-**Spectres of the Spectrum (1999)**
+**Spectres du spectre (1999)**
 
 Science-fiction qui explore l'histoire des ondes radio et des médias.
 
 
-**Mock Up on Mu (2008)**
+**Maquette sur Mu (2008)**
 
 Science-fiction basée sur L. Ron Hubbard et Jack Parsons.
 
@@ -117,9 +122,9 @@ Ci-dessous, nous avons organisé les œuvres de Craig Baldwin par année et four
 
 | Titre | Année de sortie | Lien d'achat |
 | --------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------- |
-| Tribulation 99 : Anomalies extraterrestres sous l'Amérique | 1991 | [Amazon](https://amzn.to/3IKQ4dd) |
-| Hors-la-loi soniques | 1995 | [Amazon](https://amzn.to/48Ix4X9) |
-| Spectres du spectre | 1999 | [Wiki](https://en.wikipedia.org/wiki/Spectres_of_the_Spectrum) |
+| Tribulation 99: Alien Anomalies Under America | 1991 | [Amazon](https://amzn.to/3IKQ4dd) |
+| Sonic Outlaws                                 | 1995 | [Amazon](https://amzn.to/48Ix4X9)                  |
+| Spectres of the Spectrum                      | 1999 | [Wiki](https://en.wikipedia.org/wiki/Spectres_of_the_Spectrum)        |
 
 ---
 
@@ -127,10 +132,11 @@ Ci-dessous, nous avons organisé les œuvres de Craig Baldwin par année et four
 
 | Titre | Année de sortie | Lien d'achat |
 | ------------- | ---- | ----------------------------------------------------------------------------- |
-| Maquette sur Mu | 2008 | [Amazon](https://amzn.to/48GCS3t) |
+| Mock Up on Mu | 2008 | [Amazon](https://amzn.to/48GCS3t) |
 
 
 ---
+
 
 ### Caractéristiques et influence de l'œuvre
 
@@ -150,9 +156,9 @@ Le travail de Baldwin et « Other Cinema » ont eu une influence majeure sur le 
 
 ### Liens connexes
 
-- [Site officiel d'Autre Cinéma](http://www.othercinema.com/index.html)
+- [Other Cinema 公式サイト](http://www.othercinema.com/index.html)
 - [IMDb – Craig Baldwin](https://www.imdb.com/name/nm0049878)
-- [Letterboxd – Liste des œuvres de Craig Baldwin](https://letterboxd.com/director/craig-baldwin)
+- [Letterboxd – Craig Baldwinの作品一覧](https://letterboxd.com/director/craig-baldwin)
 
 ---
 

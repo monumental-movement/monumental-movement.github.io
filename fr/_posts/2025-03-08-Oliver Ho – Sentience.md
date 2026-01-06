@@ -19,7 +19,7 @@ Oliver Ho est un DJ et producteur techno basé à Londres.
 "Sentience" est le chef-d'œuvre d'Oliver Ho, sorti en 1999 sur Blueprint, label fondé par James Ruskin et Richard Polson. Le premier album d'Oliver Ho est également sorti sur le même label.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Birth
 2. Open Your Eyes
@@ -34,7 +34,7 @@ Oliver Ho est un DJ et producteur techno basé à Londres.
 11. Close Your Eyes
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m40117909925?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40117909925?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tG18zTBt9XI?si=ysxGVMcvsKBUeD1z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

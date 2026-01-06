@@ -17,7 +17,7 @@ Le Mighty Quark est l'unité techno minimale de Mark O'Sullivan et Walter Bäckl
 
 La face A "Disco Blood" présente le DJ techno house suédois Jesper Dahlbäck, et "Physical" est un remix du DJ irlandais Fish Go Deep.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Disco Blood
 
@@ -28,7 +28,7 @@ B1. Physical (Mark And John Remix)
 B2. Blessed
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m43649422760?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43649422760?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vc54wJBaU90?si=PYotSHturHScVL62" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

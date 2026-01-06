@@ -20,7 +20,7 @@ Codec & Flexor est un duo composé du DJ, producteur, compositeur et multi-instr
 Morceaux House, Tech House et Electroclash sortis en 2001 sur Forte Records, label fondé par Christian Morgenstern.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Crazy Girls
 
@@ -28,7 +28,7 @@ B1. Getting Bigger
 B2. Breakout
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m29172799437?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m29172799437?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WGZlOXl_dck?si=_owhfTrpJdFwZgH7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

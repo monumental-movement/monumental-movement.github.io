@@ -19,7 +19,7 @@ Bad Religion est un groupe de punk rock formé à Los Angeles et est une figure 
 
 "The New America", sorti en 2000, est leur 11ème album studio, les pistes 14 et 15 étant des pistes bonus sur la version japonaise.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. You've Got A Chance
 2. It's A Long Way To The Promise Land
@@ -38,7 +38,7 @@ Bad Religion est un groupe de punk rock formé à Los Angeles et est une figure 
 15. Queen Of The 21st Century
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m32901458360?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m32901458360?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/09wlZyLSqIQ?si=4p3xmOXX_qHg8ePa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

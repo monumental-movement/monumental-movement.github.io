@@ -17,7 +17,7 @@ title: Funkadelic – Sur le point de réussir
 
 Il s'agit du sixième album studio de Funkadelic et présente le son funk et la voix soul du groupe. L'album présente le son distinctif de Funkadelic, notamment des riffs de guitare vifs, des lignes de basse groovy et des motifs de batterie lourds.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Red Hot Momma
 
@@ -34,7 +34,7 @@ B2. Jimmy's Got A Little Bit Of Bitch In Him
 B3. Good Thoughts, Bad Thoughts
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m49054881048?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m49054881048?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LGgeWEPhPpo?si=iZTpDybPlEOnmxiN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

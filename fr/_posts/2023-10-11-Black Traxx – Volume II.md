@@ -17,7 +17,7 @@ Black Traxx est une série house coproduite par le DJ/producteur Rick Lenoir, un
 
 Il est sorti en 1991 sur le label deep house de Chicago Night Club Records.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Enchanted Rain
 
@@ -32,7 +32,7 @@ B2. Lights Out
 B3. Pump It
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m90896178440?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m90896178440?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NAZ7ADtHPlA?si=bghYYrRJynIf1Rs3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

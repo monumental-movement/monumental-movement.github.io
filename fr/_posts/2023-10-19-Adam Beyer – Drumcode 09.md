@@ -15,7 +15,7 @@ title: Adam Beyer – Drumcode 09
 
 Le DJ/producteur techno suédois Adam Beyer, figure centrale de la scène techno minimale suédoise à la fin des années 90, a sorti ce morceau techno symbole de cette époque en 1997 sur son propre label Drumcode.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Untitled
 
@@ -26,7 +26,7 @@ B1. Untitled
 B2. Untitled
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m81557566471?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m81557566471?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ourM6FiP-yc?si=4RGRzrD5kUqgi7ch" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

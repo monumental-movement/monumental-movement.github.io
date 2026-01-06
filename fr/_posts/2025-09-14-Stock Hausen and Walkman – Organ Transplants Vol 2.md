@@ -19,7 +19,7 @@ Stock, Hausen & Walkman (Andrew Sharpley & Matt Wand) était une unité électro
 
 Il est sorti en 2000 sur le label Hot Air de Matt Wand.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Hairy Globe
 A2. IKEA
@@ -38,7 +38,7 @@ B6. Jellywand
 B7. OOPS
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m22757560879?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m22757560879?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jB2C8gmwuZc?si=wD08La3Z7g8UwSkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

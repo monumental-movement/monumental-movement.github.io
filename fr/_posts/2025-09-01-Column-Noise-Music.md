@@ -16,7 +16,7 @@ title: '[Chronique] Noise Music — De ses origines à nos jours : contexte hist
 
 ## Bruit = Esthétique : Conversion des sons considérés comme durs à l'oreille en « plaisir » et « art ».
 
-Texte : mmr | Thème : Rébellion et destruction - un défi à la musique et à l'ordre social existants.
+Texte : mmr | Thème : Rébellion et destruction – un défi à la musique et à l'ordre social existants.
 
 Le « bruit » n'est pas simplement « bruit », mais fait référence à un champ d'expression qui s'écarte des idiomes musicaux établis (mélodie, harmonie, rythme) et met l'accent sur le son lui-même, la texture, l'impact physique et la stimulation auditive. Née d'une combinaison d'horizons artistiques, technologiques et sociaux, elle n'a cessé de changer de forme depuis plus de 100 ans.
 
@@ -67,7 +67,7 @@ Après la Seconde Guerre mondiale, le développement de la bande magnétique et 
 Le rock devient plus expérimental et le bruit est incorporé au contexte rock.
 
 ### Œuvres représentatives
-- [Lou Reed « Metal Machine Music » (1975)](https://amzn.to/3WNSdYQ)
+- [Lou Reed『Metal Machine Music』（1975）](https://amzn.to/3WNSdYQ)
 
 ### Équipement/Technologie
 - Feedback de guitare, effecteurs et enregistreurs simples.
@@ -82,7 +82,7 @@ Une scène noise indépendante est née d’une réaction violente contre la mus
 - Throbbing Gristle instaure le concept « industriel ».
 
 ### Œuvres représentatives
-- Premières versions de [Kollaps (Einstürzende Neubauten)](https://amzn.to/4qBmQPd), [Throbbing Gristle](https://amzn.to/4oybzgF).
+- [『Kollaps』（Einstürzende Neubauten）](https://amzn.to/4qBmQPd)、[Throbbing Gristle](https://amzn.to/4oybzgF)の初期盤。
 
 ### Équipement/Technologie
 - Instruments de percussions industrielles, sons métalliques, synthétiseurs simples.
@@ -94,7 +94,7 @@ Une scène noise indépendante est née d’une réaction violente contre la mus
 La culture de la cassette et l’esprit DIY ont formé un réseau international de bruit.
 
 ### Événements/personnes importants
-- [Whitehouse (Royaume-Uni)](https://amzn.to/4hnbz0z), [Merzbow (Japon)](https://amzn.to/3L64TI1)
+- [Whitehouse（UK）](https://amzn.to/4hnbz0z)、[Merzbow（日本）](https://amzn.to/3L64TI1)
 
 ### Œuvres représentatives
 - Œuvres liées à "Pulse Demon" de Merzbow, première édition de Whitehouse.
@@ -109,7 +109,7 @@ La culture de la cassette et l’esprit DIY ont formé un réseau international 
 Le noise croise le rock, le métal, le post-rock et l’électro.
 
 ### Œuvres/tendances représentatives
-- [Ennui](https://amzn.to/3WenMeo), [Lightning Bolt](https://amzn.to/49apKnp), [Sonic Youth](https://amzn.to/498sFwX), etc.
+- [Boredoms](https://amzn.to/3WenMeo)、[Lightning Bolt](https://amzn.to/49apKnp)、[Sonic Youth](https://amzn.to/498sFwX)など。
 
 ### Équipement/Technologie
 - DAW, effets numériques, samplers, synthèse granulaire.
@@ -131,7 +131,7 @@ Diversification grâce au renouveau des synthés modulaires et à l'acoustique d
 ---
 
 ## Résumé des changements d'équipement
-- **Initial** : machine à bruit, son environnemental
+- **Initial** : Machine à bruit, son environnemental
 - **Période Tape** : Montage sur bande magnétique
 - **Période analogique** : Synthé, guitare + effets
 - **Période cassette** : Bruit DIY, distribution de cassettes
@@ -141,7 +141,7 @@ Diversification grâce au renouveau des synthés modulaires et à l'acoustique d
 ---
 
 ## Liste représentative des chefs-d'œuvre
-- Luigi Russolo — *The Art of Noises* (1913, théorie/performance)
+- Luigi Russolo — *L'Art des Bruits* (1913, théorie/performance)
 - Pierre Schaeffer — *musique concrète* œuvres
 - Lou Reed — *Musique Metal Machine* (1975)
 - Throbbing Gristle — premiers travaux

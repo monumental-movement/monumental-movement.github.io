@@ -19,7 +19,7 @@ title: Terre, Vent et Feu – Patrimoine
 
 Earth, Wind & Fire a connu de nombreux succès tout au long des années 70 et 80 et a connu un grand succès sur la scène musicale funk et disco. Leurs chansons sont connues pour leurs performances groove et énergiques, et leur musique est largement appréciée.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Heritage (Extended Version)
 
@@ -32,7 +32,7 @@ B2. Heritage (LP Version)
 B3. Heritage (Per Cus Apella)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m24587506039?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m24587506039?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hHxlGEjItnk?si=5th_aMq1n9NBwVSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

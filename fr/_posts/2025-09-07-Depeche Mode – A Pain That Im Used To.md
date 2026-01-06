@@ -21,14 +21,14 @@ Le remix est de Bitstream (Dave Conner & Steve Conner), un duo de frères britan
 IDM/Electro est sorti sur le label britannique Mute en 2005.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. A Pain That I'm Used To (Bitstream Threshold Mix)
 
 AA. A Pain That I'm Used To (Bitstream Spansule Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m48271668097?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m48271668097?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G2iGtRseS7E?si=IXNE3FPN7DsfxaLw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

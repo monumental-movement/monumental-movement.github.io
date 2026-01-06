@@ -22,7 +22,7 @@ La formation la plus réussie comprend le guitariste Masayoshi Ando, ​​​�
 
 "Stars and the Moon", sorti en 1984, est le neuvième album de THE SQUARE.
 
-≡ THE SQUARE
+≡ LE CARRÉ
 
 Masahiro Ando, ​​​​Takeshi Ito, Toyuki Tanaka, Hirotaka Izumi, Toru Hasebe
 
@@ -32,7 +32,7 @@ Kiyohiko Senba, Junichi Kanezaki, Yutaka Kanai, Eiji Arai, Harumi Mita, Toshihir
 
 #### Liste des chansons
 ```md
-A1. La nuque
+A1. いとしのうなじ
 
 A2. Maybe I'm Wrong
 
@@ -46,10 +46,10 @@ B2. Overnight Sensation
 
 B3. Mist Of Time
 
-B4. Tonnerre lointain
-````
+B4. 遠雷
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m70165572065?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70165572065?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/syTEJ-kPsFU?si=-35KVU12w0l7fcY3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

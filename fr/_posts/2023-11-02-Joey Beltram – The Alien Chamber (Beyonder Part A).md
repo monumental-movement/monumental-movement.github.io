@@ -18,12 +18,12 @@ Il s'agit d'un EP de Joey Beltram sorti en 2006 sur le label "STX Records".
 
 Ce morceau est typique de Joy Beltrame, avec une ligne de basse lourde, de belles percussions old school et tout le groove.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. The Alien Chamber (Beyonder Part A)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m50569703435?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m50569703435?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gCJ7iDAnqDY?si=87bARO3LhcZqzKK1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -15,14 +15,14 @@ title: Artiste inconnu – Allez en profondeur
 
 Un mashup de "I Get Deep" de Roland Clark, "Just Another Day" de Carl Craig et du "remake" de Paperclip People, alias Carl Craig, qui échantillonne "E2-E4" de Manuel Göttsching. Edité par Timmy Regisford.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Get Deep
 
 B. Get Deep (Instrumental)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m62836204248?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m62836204248?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GwXhWTxhqFc?si=cCGUUnc_iZjwHADu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

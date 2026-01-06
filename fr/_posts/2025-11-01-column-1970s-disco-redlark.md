@@ -17,10 +17,11 @@ title: '[Chronique] Disco japonais des années 70 et Red Lark - L''esthétique d
 
 ## Disco japonais des années 70 et Red Lark - Une esthétique nocturne dessinée par la musique et les cigarettes
 
-Texte : mmr | Thème : Un disque de l'époque japonaise des années 1970, lorsque les publicités disco et Red Lark se mêlaient. Souvenirs de la nuit où la musique, la mode et l'odeur des cigarettes se sont croisées
 
-Le Japon dans les années 1970. Shinjuku, Akasaka, Roppongi.  
-La ville nocturne essayait de conquérir une liberté inconnue grâce au mot « disco ».  
+Texte : mmr | Thème : Un disque de l'époque japonaise des années 1970, lorsque les publicités disco et Red Lark se mêlaient. Souvenir d'une nuit où se croisent la musique, la mode et l'odeur des cigarettes
+
+Le Japon dans les années 1970. Shinjuku, Akasaka, Roppongi.
+La ville nocturne essayait de conquérir une liberté inconnue grâce au mot « disco ».
 L'atmosphère était remplie de boules à facettes lumineuses, de grooves de type Soul Train et de l'emballage rouge de Red Lark.
 
 ---
@@ -38,16 +39,18 @@ color: #fff;
 }
 </style>
 
+
 ## 1. Un dispositif transculturel appelé « disco » né la nuit en ville
 
-Au début des années 1970, les zones urbaines du Japon étaient parsemées de clubs ouverts par des jeunes hommes revenant des États-Unis.  
+Au début des années 1970, les zones urbaines du Japon étaient parsemées de clubs ouverts par des jeunes hommes revenant des États-Unis.
 Les discothèques telles que « Mugen », « Cléopâtre » et « Space Capsule » ne sont pas de simples pistes de danse ;
 **C'était un espace d'expérience complet où se mélangeaient musique, parfums, éclairage, cigarettes et mode**.
 
-À l'époque, l'accent musical était soul-disco avec des groupes tels que **The Trammps, KC and the Sunshine Band et Donna Summer**.  
+
+À l'époque, l'accent musical était soul-disco avec des groupes tels que **The Trammps, KC and the Sunshine Band et Donna Summer**.
 Cependant, les DJ japonais ne se contentent pas de jouer des disques importés ;
-**J'ai perfectionné mon « sens acoustique urbain » pré-YMO**.  
-Sensation du BPM, gestion des basses et synchronisation de l'éclairage.  
+**J'ai perfectionné mon « sens acoustique urbain » pré-YMO**.
+Sensation du BPM, gestion des basses et synchronisation de l'éclairage.
 La nuit, le « son » et la « lumière » devenaient un organisme respiratoire.
 
 ---
@@ -55,10 +58,10 @@ La nuit, le « son » et la « lumière » devenaient un organisme respiratoire.
 ## 2. L'alouette rouge, un « symbole de la ville »
 
 En 1972, Japan Monopoly Corporation (prédécesseur de JT) a lancé la série « LARK ».
-« Red Lark » était particulièrement populaire parmi les jeunes.  
+« Red Lark » était particulièrement populaire parmi les jeunes.
 Le dessin, avec des lettres blanches sur fond rouge, était un symbole de « liberté », de « ville » et de « cool », un précurseur de l'esprit américain.
 
-Red Lark est plus qu’une simple cigarette.  
+Red Lark est plus qu’une simple cigarette.
 Dans des magazines comme "Heibon Punch", "POPEYE", et "non-no" de l'époque,
 **Il est apparu comme un « accessoire urbain » que l'on peut voir dans les discothèques, les cafés de jazz, les boîtes de nuit et les clichés de mode**.
 
@@ -71,14 +74,15 @@ Une palette de couleurs contrastées de rouge et d’argent a été sculptée da
 
 ## 3. Fusion de la mode et de la culture nocturne
 
-Vers 1975, la culture disco se développe rapidement.  
-« MUGEN » à Akasaka, « Space Capsule » à Shibuya et « Suntory Bar Moon » à Shinjuku.  
+Vers 1975, la culture disco se développe rapidement.
+« MUGEN » à Akasaka, « Space Capsule » à Shibuya et « Suntory Bar Moon » à Shinjuku.
 Les jeunes de l’époque portaient des chemises boiteuses, des pantalons évasés et des chaussures à plateforme.
 Ils dansaient avec l'odeur de cigarette et de parfum qui flottait dans l'air.
 
-La stratégie publicitaire de l'époque était basée sur l'image de « Red Lark = un homme libre et urbain ».  
+
+La stratégie publicitaire de l'époque était basée sur l'image de « Red Lark = un homme libre et urbain ».
 L'affiche représente un homme et une femme tenant des cigarettes à la bouche sous les lumières d'un club de jazz.
-En arrière-plan, les touches Fender Rhodes et le bruit de la glace qui fond dans un verre.  
+En arrière-plan, les touches Fender Rhodes et le bruit de la glace qui fond dans un verre.
 Tout a été conçu comme une « expression visuelle musicale ».
 
 ---
@@ -88,7 +92,7 @@ Tout a été conçu comme une « expression visuelle musicale ».
 Au milieu des années 1970, il existait une forte image du **disco=divertissement musical occidental** au Japon, mais
 En fait, l’industrie musicale japonaise a également absorbé son influence.
 
-Par exemple :
+Par exemple:
 - **« 240 Million Eyes » de Hiromi Go (1984)** trouve ses racines dans l'exaltation du disco des années 70.
 - **Pink Lady "UFO" (1977)** est un exemple réussi de production nationale de synth disco de style Donna Summer.
 - **« Awakening » (1982)** de Hiroshi Sato a sublimé les souvenirs de la scène nocturne d'Akasaka en city pop.
@@ -99,10 +103,11 @@ Il ne faut pas oublier que l'espace disco des années 1970 a été le point de d
 
 ## 5. Stratégie publicitaire et conception visuelle de Red Lark
 
-Les publicités d'Aka Lark sont influencées par les graphistes Masayoshi Nakajo et Mitsuo Katsui.  
+Les publicités d'Aka Lark sont influencées par les graphistes Masayoshi Nakajo et Mitsuo Katsui.
 Néon, flou de mouvement, collage de photos et « rouge brillant ».
 
-Cette philosophie de conception mènera plus tard aux pochettes de disques City Pop (Tatsuro Yamashita, Mariya Takeuchi, Toshio Kadomatsu).  
+
+Cette philosophie de conception mènera plus tard aux pochettes de disques City Pop (Tatsuro Yamashita, Mariya Takeuchi, Toshio Kadomatsu).
 En d’autres termes, la « musicalité visuelle » de Red Lark anticipait la « conception visuelle musicale » ultérieure.
 
 ---
@@ -164,9 +169,10 @@ Lorsque vous allumez le Red Lark, les nuits tokyoïtes des années 1970 revienne
 
 ## Annexe : Liste des chansons disco de référence
 
+
 | Titre de la chanson | Artiste | Année | Remarques |
 | ----------------- | ------------------ | ---- | ------------------ |
-| Rester en vie | Bee Gees | 1977 | Chanson signature « Saturday Night Fever » |
+| Rester en vie | Bee Gees | 1977 | Chanson signature de « Saturday Night Fever » |
 | Disco Inferno | Les Tramps | 1976 | Standardisé dans les clubs japonais |
 | Boogie Pays des Merveilles | Terre, vent et feu | 1979 | Populaire sur MUGEN |
 | Âme Dracula | Sang chaud | 1977 | Fournisseur DJ à l'époque |

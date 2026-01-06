@@ -20,7 +20,7 @@ AS ONE est le nom du projet solo du DJ et producteur techno britannique Kirk Deg
 
 "Celestial Soul" est un CD sorti par le label New Electronica en 1995.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Celestial Soul
 2. Ikiru
@@ -35,7 +35,7 @@ AS ONE est le nom du projet solo du DJ et producteur techno britannique Kirk Deg
 11. What Might Have Been
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m27619218367?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m27619218367?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LSX7OegxV74?si=1BBl2UB7y0dqehNf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

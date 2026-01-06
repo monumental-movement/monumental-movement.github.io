@@ -21,7 +21,8 @@ title: '[Chronique] Sound Tribe Sector 9 (STS9) - La trajectoire d''un groupe li
 
 Texte : mmr｜Thème : Histoire de STS9 depuis sa formation jusqu'à nos jours, caractéristiques musicales, philosophie live, œuvres représentatives et influence culturelle et sociale
 
-Sound Tribe Sector 9 (*STS9*) est connu comme un représentant de la « livetronica », qui a connu une évolution unique sur la scène live américaine de la fin des années 1990 à nos jours.  
+
+Sound Tribe Sector 9 (*STS9*) est connu comme un représentant de la « livetronica », qui a connu une évolution unique sur la scène live américaine de la fin des années 1990 à nos jours.
 Leur musique est une fusion de la nature improvisée d'un groupe de jam, de la structure et de la texture de la musique électronique et du groove de la culture club, ce qui les rend différents d'un simple groupe de rock ou d'une unité de musique électronique.
 
 Leur position a toujours été que « la musique = une expérience dans un espace live » et ils ont mis l'accent sur la formation d'une communauté autonome, de la production à la gestion des tournées, en passant par la mise en scène et les activités sociales.
@@ -40,6 +41,7 @@ background-color: #111;
 color: #fff;
 }
 </style>
+
 
 # 1. Historique avant formation (~1997) : le style « Ni groupe ni DJ » né autour d'Atlanta
 
@@ -87,8 +89,8 @@ Chanson représentative :
 - "Atlas"
 - "Quelque chose"
 - "Arigato"
-- "Tokyo"
--« Les peuples »
+- « Tokyo »
+- « Les peuples »
 
 Ceux-ci sont fréquemment joués dans la setlist actuelle et symbolisent le mieux l’image musicale de STS9.
 
@@ -101,7 +103,7 @@ Leur son combine des éléments de divers genres, notamment l'ambient, l'électr
 "Artifact" est un album important dans la carrière de STS9, et constitue un incontournable pour les fans du groupe.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Possibilities
 A2. Tokyo
@@ -112,10 +114,11 @@ B2. Somesing
 B3. Better Day
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m77083791286?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m77083791286?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w-dPyfCe_vQ?si=GHXuKOfR8ZEVKid0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ##3-2. Evolution de l'arrangement live
 
@@ -124,9 +127,9 @@ La structure live de la même période était
 - Downtempo
 - Modèle de type IDM
 - de longues improvisations
-Le public est passé à une expérience de type plancher/festival avec pour principe de « danser ».
+Le public est passé à une expérience de type « piste/festival » avec comme prémisse la « danse ».
 
-Ce qui est important ici, c'est que STS9 a développé une technique permettant de reproduire la « texture de la musique électronique » avec une guitare et une basse.  
+Ce qui est important ici, c'est que STS9 a développé une technique permettant de reproduire la « texture de la musique électronique » avec une guitare et une basse.
 De nombreux éléments sont passés par la chaîne d'effets, créant une caractéristique dans laquelle la pensée éditoriale de la DAW se reflétait directement dans la performance live.
 
 ---
@@ -145,9 +148,9 @@ Depuis le début de STS9
 - Accompagnement pédagogique
 - Protection de l'environnement
 - Activités locales
-Il a participé activement à des activités caritatives telles que
+Il a participé activement à des activités caritatives telles que :
 
-Il existe également de nombreux spectacles qui reversent une partie des recettes des billets en direct, et de nombreuses chansons ayant pour thème des problèmes sociaux.  
+Il existe également de nombreux spectacles qui reversent une partie des recettes des billets en direct, et de nombreuses chansons ayant pour thème des problèmes sociaux.
 En particulier, « Peaceblaster » (2008) se positionne comme une œuvre conceptuelle ayant pour toile de fond des thèmes politiques et environnementaux.
 
 ---
@@ -155,12 +158,12 @@ En particulier, « Peaceblaster » (2008) se positionne comme une œuvre conce
 # 5. 2015-présent : changement de membre et nouvelle phase
 ##5-1. Transition vers le nouveau système
 
-En 2014, le guitariste de longue date a quitté le groupe et un nouveau système a été établi avec Hunter Brown au centre.  
+En 2014, le guitariste de longue date a quitté le groupe et un nouveau système a été établi avec Hunter Brown au centre.
 Ce changement a également eu un impact sur la musique, avec des structures plus claires et minimalistes devenant plus courantes.
 
-## 5-2. *The Universe Inside*（2016）
+##5-2. *L'univers à l'intérieur* (2016)
 
-Cet album de 2016 met encore plus l'accent sur les synthés, et le nombre de chansons axées sur la musique dance a également augmenté.  
+Cet album de 2016 met encore plus l'accent sur les synthés, et le nombre de chansons axées sur la musique dance a également augmenté.
 Dans les arrangements live, il y a eu de nombreuses tentatives pour reconstruire des chansons passées dans un style EDM.
 
 ##5-3. STS9 actuel
@@ -172,10 +175,10 @@ Dans les années 2020, STS9 a maintenu une position ferme en tant que tête d'af
 # 6. Caractéristiques musicales de STS9
 ##6-1. Structure rythmique : groove piloté par des percussions
 
-La plus grande caractéristique de STS9 est sa structure d'ensemble, avec batterie et percussions au centre.  
+La plus grande caractéristique de STS9 est sa structure d'ensemble, avec batterie et percussions au centre.
 Dans la musique électronique, la musique live joue le rôle d’une boîte à rythmes, avec une basse, une guitare, des synthés et des échantillons superposés.
 
--Afrobeat
+- Afrobeat
 - des breakbeats
 - Percussions latines
 - Lotissement IDM
@@ -207,7 +210,7 @@ et conçoit des performances live avec une structure similaire à un DJ set.
 ##7-2. Éclairage/Vidéo : Intégration du son et de la lumière
 
 L'éclairage est extrêmement important lors des performances live de STS9.
-Une particularité est que le mouvement de la lumière est lié aux changements du chant.  
+Une particularité est que le mouvement de la lumière est lié aux changements du chant.
 Lors des représentations nocturnes du festival, l'éclairage lui-même fonctionne comme un gigantesque « décor de scène », renforçant le sentiment d'immersion du public.
 
 ##7-3. Culture communautaire
@@ -286,7 +289,7 @@ C’est également important car cela montre comment les artistes devraient êtr
 
 ---
 
-# 12. Conclusion : « les groupes qui évoluent grâce au live » du 21e siècle
+# 12. Conclusion : « des groupes qui évoluent grâce au live » du 21e siècle
 
 Le secteur 9 de la Sound Tribe est
 **Une tentative de transférer la structure de la musique électronique à la performance live tout en conservant le format du groupe**

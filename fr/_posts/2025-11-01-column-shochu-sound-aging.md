@@ -17,14 +17,16 @@ title: '[Chronique] Shochu cultivé par le son : L''harmonie de la fermentation 
 
 ## Prologue : Sur l'île du bruit des vagues et du shochu
 
+
 Texte : mmr｜Thème : Une expérience réalisée sur Amami Oshima pour favoriser le vieillissement du shochu en lui faisant écouter de la musique. Explorer ses bases scientifiques et son contexte culturel
 
-Amami Oshima, le point le plus éloigné des îles Nansei.  
-Sur cette île, le shochu à la cassonade est entouré de soleil et de brise marine, et les gens « écoutent » tranquillement de la musique.  
-La nuit, les faibles sons de la musique classique, du jazz et des chants des îles jaillissent des profondeurs de la salle de stockage, et les molécules d'alcool tremblent à l'intérieur de la cuve en acier inoxydable.  
+
+Amami Oshima, le point le plus éloigné des îles Nansei.
+Sur cette île, le shochu à la cassonade est entouré de soleil et de brise marine, et les gens « écoutent » tranquillement de la musique.
+La nuit, les faibles sons de la musique classique, du jazz et des chants des îles jaillissent des profondeurs de la salle de stockage, et les molécules d'alcool tremblent à l'intérieur de la cuve en acier inoxydable.
 On dit que le son rend le shochu plus doux.
 
-Ce n'est pas seulement une métaphore romantique. Le phénomène selon lequel les vibrations physiques provoquées par les ondes sonores favorisent la maturation et font ressortir la saveur attire actuellement l'attention.  
+Ce n'est pas seulement une métaphore romantique. Le phénomène selon lequel les vibrations physiques provoquées par les ondes sonores favorisent la maturation et font ressortir la saveur attire actuellement l'attention.
 Dans cet article, nous examinerons l'ensemble du « shochu vieilli acoustiquement » que les brasseurs d'Amami Oshima tentent de créer, d'un point de vue à la fois scientifique et culturel.
 
 ---
@@ -42,18 +44,19 @@ color: #fff;
 }
 </style>
 
+
 ## Chapitre 1 : L'origine du shochu à la cassonade Amami
 
-La culture du shochu d'Amami Oshima remonte à la fin de la période Edo.  
+La culture du shochu d'Amami Oshima remonte à la fin de la période Edo.
 Sur cette île, où la culture de la canne à sucre était populaire, est né un alcool distillé unique à base de mélasse de marc : le **shochu à la cassonade**.
 
-En 1949 (Showa 24), lorsque les îles Amami furent restituées au Japon, une exonération spéciale fut accordée pour le « shochu au sucre brun » tel que défini par l'Agence nationale des impôts.  
+En 1949 (Showa 24), lorsque les îles Amami furent restituées au Japon, une exonération spéciale fut accordée pour le « shochu au sucre brun » tel que défini par l'Agence nationale des impôts.
 Il s'agit du seul standard de shochu qui permet la combinaison de cassonade et de malt de riz, et est devenu un patrimoine culturel exclusif aux îles Amami.
 
 > "Le shochu à la cassonade est fabriqué à partir du sol, de l'eau et du vent d'Amami."
 > —— Extrait d'un entretien avec le brasseur de la brasserie Amami Oshima Kaiun Sake Brewery
 
-Une texture douce créée par la minéralité de la cassonade et de l'eau douce de l'île.  
+Une texture douce créée par la minéralité de la cassonade et de l'eau douce de l'île.
 Ce n’est qu’au début du 21e siècle qu’émerge l’idée d’utiliser le son pour valoriser cette bénédiction naturelle.
 
 ---
@@ -61,18 +64,18 @@ Ce n’est qu’au début du 21e siècle qu’émerge l’idée d’utiliser le 
 ## Chapitre 2 : Naissance de l'alcool qui écoute le son
 
 ### ● Origine de l'idée
-L'impulsion était le « vieillissement acoustique » du vin qu'un brasseur a vu à Tokyo.  
+L'impulsion était le « vieillissement acoustique » du vin qu'un brasseur a vu à Tokyo.
 J'ai entendu parler d'une tentative visant à accélérer la maturation en jouant de la musique classique,
 Il revint à Amami en pensant : « Peut-être que cela pourrait être fait avec du shochu. »
 
-En 2005, un certain entrepôt d'Amami Oshima a installé pour la première fois des haut-parleurs acoustiques dans son entrepôt.  
-Les sujets testés étaient la musique classique (Bach, Mozart) et les chansons des îles (comme « Asahabushi » de Satokuni Taka).  
-Six mois plus tard, les personnes qui l'ont dégusté ont été surprises.  
+En 2005, un certain entrepôt d'Amami Oshima a installé pour la première fois des haut-parleurs acoustiques dans son entrepôt.
+Les sujets testés étaient la musique classique (Bach, Mozart) et les chansons des îles (comme « Asahabushi » de Satokuni Taka).
+Six mois plus tard, les personnes qui l'ont dégusté ont été surprises.
 "Même si c'est le même saké brut, il était plus doux quand je l'écoutais."
 
 ### ● Mécanisme de maturation acoustique
-Les ondes sonores provoquent d’infimes vibrations à l’intérieur du liquide.  
-Changer la fréquence augmente les collisions moléculaires et accélère la réaction d'estérification.  
+Les ondes sonores provoquent d’infimes vibrations à l’intérieur du liquide.
+Changer la fréquence augmente les collisions moléculaires et accélère la réaction d'estérification.
 On dit que cela augmente les composants aromatiques et réduit l’irritation de l’alcool.
 
 > ``Les ondes de basse déplacent le liquide comme des ondes de basse profondes, et les hautes fréquences font vibrer infimement la couche de surface.
@@ -92,21 +95,21 @@ Chaque brasserie d'Amami Oshima a un « style sonore » différent.
 | Brasserie de saké Amami Oshima | Classique (Mozart, Bach) | Arôme magnifique | Plateforme vibrante à ultrasons |
 | Sato no Akebono (Brasserie de saké Machida) | Sons naturels (vagues, vent, oiseaux) | Texture douce | Stockage à température constante + haut-parleur intégré |
 
-Chaque brasserie a son propre « temps d'écoute ».  
-La plupart des brasseries diffusent le son la nuit, mais certaines brasseries diffusent le son tout au long du processus de fermentation.  
-En particulier, les « taiko et sanshin » sont riches en basses fréquences et ont une grande efficacité de transmission aux liquides.
+Chaque brasserie a son propre « temps d'écoute ».
+La plupart des brasseries diffusent le son la nuit, mais certaines brasseries diffusent le son tout au long du processus de fermentation.
+En particulier, « taiko et sanshin » sont riches en basses fréquences et ont une grande efficacité de transmission aux liquides.
 
 ---
 
 ## Chapitre 4 : « Le goût du son » vu à travers un regard scientifique
 
-Des données expérimentales sont également accumulées.  
+Des données expérimentales sont également accumulées.
 Selon une étude conjointe de l'Université de Kagoshima,
 Le Shochu ayant subi un vieillissement acoustique classique a un
 **Réduction moyenne de 8 % de la teneur en aldéhyde**,
 **Taux d'esters augmenté de 12%**.
 
-De plus, lors des tests sensoriels, les produits ont été hautement qualifiés de « riches en arôme » et de « non irritants ».  
+De plus, lors des tests sensoriels, les produits ont été hautement qualifiés de « riches en arôme » et de « non irritants ».
 L’augmentation du mouvement moléculaire provoquée par la stimulation des ondes sonores est exactement ce qui crée un « accord du goût ».
 
 > "Shochu est vivant. Quand vous lui donnez un son, il réagit comme s'il respirait."
@@ -116,11 +119,11 @@ L’augmentation du mouvement moléculaire provoquée par la stimulation des ond
 
 ## Chapitre 5 : Fusion de la maturité acoustique et de la culture Shimauta
 
-Pour Amami, le « son » n’est pas seulement une musique de fond.  
+Pour Amami, le « son » n’est pas seulement une musique de fond.
 Shimauta est la prière des ancêtres, un dialogue avec la nature et la mémoire d'une communauté.
 
 La chanson qui joue dans la salle de stockage est
-C’est aussi une chanson de travail pour les producteurs de canne à sucre qui traversaient autrefois l’océan.  
+C’est aussi une chanson de travail pour les producteurs de canne à sucre qui traversaient autrefois l’océan.
 Bien que la maturation acoustique soit une entreprise scientifique,
 **C'est aussi un rituel pour graver la mémoire d'Amami dans le shochu**.
 
@@ -128,11 +131,11 @@ Bien que la maturation acoustique soit une entreprise scientifique,
 
 ## Chapitre 6 : Le goût du futur créé par le son
 
-Aujourd’hui, la maturité sonore s’étend au-delà d’Amami.  
+Aujourd’hui, la maturité sonore s’étend au-delà d’Amami.
 Les expériences progressent avec l'Iki shochu à Nagasaki et le shochu d'orge à Fukuoka.
 Il s’est également répandu dans le monde du vin, du saké et du whisky.
 
-Dans le futur, il viendra peut-être un moment où le vieillissement sera contrôlé par la « conception sonore » générée par l’IA.  
+Dans le futur, il viendra peut-être un moment où le vieillissement sera contrôlé par la « conception sonore » générée par l’IA.
 AI compose une chanson vieillissante de shochu,
 Les molécules d'alcool dansent au rythme——
 Ce jour approche.
@@ -144,7 +147,7 @@ Ce jour approche.
 | Années | Événements |
 |------|--------------|
 | Années 1600 | Début de la culture de la canne à sucre à Amami |
-| Années 1800 | Début de la production de shochu local utilisant la cassonade comme matière première |
+| Années 1800 | Début de la production de shochu local à base de cassonade |
 | 1949 | Retour des îles Amami au Japon, approbation spéciale pour le « shochu au sucre brun » |
 | 2005 | Début du premier test de shochu vieilli acoustiquement par Amami Oshima |
 | 2008 | L'Université de Kagoshima lance des recherches scientifiques sur la maturation acoustique |
@@ -176,7 +179,7 @@ Les gens peuvent « entendre » les sons grâce à leur sens du goût.
 Par exemple, on sait que l’amertume est perçue comme plus faible dans un espace où sont joués des sons doux.
 En d’autres termes, le son et le goût sont connectés dans le cerveau.
 
-L'acte d'écouter le son de l'Amami shochu est
+Le fait d'écouter le son de l'Amami shochu est
 Ce n’est pas seulement une question de science, c’est aussi la réunification des humains et de la nature.
 Le bruit du vent, le bruit des vagues, le bruit du chant et le bruit de la fermentation.
 Ils deviennent une seule harmonie,
@@ -184,9 +187,10 @@ Un petit univers se joue à l'intérieur du verre.
 
 ---
 
+
 ## Chapitre 8 : Comparaison des données expérimentales acoustiques
 
-La maturation acoustique fait une différence non seulement dans les impressions sensorielles mais aussi dans les données scientifiques.  
+La maturation acoustique fait une différence non seulement dans les impressions sensorielles mais aussi dans les données scientifiques.
 Le graphique ci-dessous est visualisé sur la base de recherches conjointes de l'Université de Kagoshima (2023) et de données expérimentales de quatre brasseries Amami Oshima.
 
 ### Comparaison de la maturation acoustique de chaque brasserie (valeur moyenne)
@@ -293,6 +297,7 @@ La maturation acoustique n’est pas qu’un « dispositif » ;
 
 ---
 
+
 ## Conclusion : Poésie du son et de la fermentation
 
 Quand je passais la nuit devant l'entrepôt d'Amami,
@@ -310,9 +315,9 @@ C'est un autre type de musique joué par l'île.
 
 | Nom de la brasserie | Nom du produit | Capacité/Fréquence | Lien |
 | -------- | ----------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Brasserie de saké Amami Oshima Kaiun | Shochu à la cassonade « Location » | 1800 ml/25 degrés | [Amazon](https://amzn.to/3JaQ5aI) |
-| Brasserie de saké Amami Oshima Kaiun | Shochu à la cassonade « Beni Sango » | 720 ml/40 degrés | [Amazon](https://amzn.to/4qwVYj3) |
-| Brasserie de saké Machida | Shochu à la cassonade « Sato no Akebono (3 ans de conservation) » | 1800 ml/25 degrés | [Amazon](https://amzn.to/4nzD0pp) |
-| Brasserie de saké Amami Oshima | Shochu à la cassonade « Entonnoir » | 1800 ml/25 degrés | [Amazon](https://amzn.to/49vtOik) |
+| 奄美大島開運酒造 | 黒糖焼酎 「れんと」     | 1800ml／25度 | [Amazon](https://amzn.to/3JaQ5aI) |
+| 奄美大島開運酒造 | 黒糖焼酎 「紅さんご」     | 720ml／40度  | [Amazon](https://amzn.to/4qwVYj3)  |
+| 町田酒造     | 黒糖焼酎 「里の曙（3年長期貯蔵）」 | 1800ml／25度 | [Amazon](https://amzn.to/4nzD0pp)   |
+| 奄美大島酒造   | 黒糖焼酎 「じょうご」   | 1800ml／25度 | [Amazon](https://amzn.to/49vtOik)  |
 
 ---

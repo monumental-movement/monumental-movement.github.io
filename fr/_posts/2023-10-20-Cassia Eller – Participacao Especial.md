@@ -17,17 +17,17 @@ Une collection de duos de Kasia Herrere et d'artistes célèbres du MPB et de la
 
 #### Liste des chansons
 ```md
-1. Cássia Eller Avec Luiz Melodia–Juventude Transviada (Ao Vivo)
-2. Cássia Eller Avec Djavan-Milagreiro
-3. Cássia Eller avec Nando Reis – Relicário (Ao Vivo)
-4. Cássia Eller avec Herbertt Vianna –M. Épouvantail
-5. Cássia Eller avec Sandra De Sá–Um Tiro No Coraçāo
-6. Cássia Eller avec Barão Vermelho–Malandragem
-7. Cássia Eller avec Xis et Integrantes Da Banda Nação Zumbi–De Esquina
-etc
-````
+1. Cássia Eller Com Luiz Melodia–Juventude Transviada (Ao Vivo)
+2. Cássia Eller Com Djavan–Milagreiro
+3. Cássia Eller Com Nando Reis–Relicário (Ao Vivo)
+4. Cássia Eller Com Herbertt Vianna –Mr. Scarescrow
+5. Cássia Eller Com Sandra De Sá–Um Tiro No Coraçāo
+6. Cássia Eller Com Barão Vermelho–Malandragem
+7. Cássia Eller Com Xis E Integrantes Da Banda Nação Zumbi–De Esquina
+など
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m82208472060?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m82208472060?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y71D3g9OzZQ?si=Q1Jj03IIrf9JZ9aO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -13,11 +13,11 @@ title: Divers – Nous sommes des personnes raisonnables
 ---
 
 
-Music Week a donné à l'album une critique positive, en déclarant: "Il plaira certainement aux fans existants et constitue une bonne introduction pour ceux qui s'intéressent aux sons underground."
+Music Week a donné à l'album une critique positive, en disant: "Il plaira certainement aux fans existants et constitue une bonne introduction pour ceux qui s'intéressent aux sons underground."
 
-« Brainwashed » se classe également troisième parmi les albums de compilation de 1998. De plus, en 2013, le magazine Fact a classé « Freeman Hardy & Willis Acid » au 10e rang de sa liste des 50 meilleurs titres d'Aphex Twin.
+« Brainwashed » se classe également troisième parmi les albums de compilation de 1998. De plus, en 2013, le magazine Fact a classé « Freeman Hardy & Willis Acid » au 10e rang de sa liste des 50 meilleurs morceaux d'Aphex Twin.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. AFX / Squarepusher–Freeman, Hardy & Willis Acid
 
@@ -44,7 +44,7 @@ Music Week a donné à l'album une critique positive, en déclarant: "Il plaira 
 12. Mark Bell–A Salute To Those People Who Say Fuck You
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m25692223932?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m25692223932?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cy-vZouMuww?si=1RNPr9kDQtBPTwUc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -18,8 +18,8 @@ title: '[Chronique] Interaction post-rock/ambient avec le cinéma et l''architec
 
 Texte : mmr｜Thème : Post Rock/Ambient et films/architecture
 
-L'évolution du post-rock/ambient ne se limite pas à un seul genre musical, mais a une affinité avec l'art spatial tel que le **film, l'architecture et l'urbanisme**.  
-En plus des chefs-d'œuvre historiques, nous organiserons également des interactions avec le cinéma et l'architecture, ainsi que des expériences ambiantes dans les espaces urbains.
+L'évolution du post-rock/ambient ne se limite pas à un seul genre musical, mais a une affinité avec l'art spatial tel que le **film, l'architecture et l'urbanisme**.
+Ici, en plus des chefs-d'œuvre historiques, nous organiserons des interactions avec des films et des expériences architecturales et ambiantes dans les espaces urbains.
 
 ---
 
@@ -37,19 +37,20 @@ color: #fff;
 }
 </style>
 
+
 ### Interaction avec les films
 
 L'ambiant/post-rock a eu une grande influence sur la musique de film et s'est imposé comme une méthode de manipulation de la perception du temps et de l'expérience spatiale du public.
 
 | Films | Musique | Année | Caractéristiques |
 |------|----------|----|------|
-| *Arrivée* | Jóhann Jóhannsson | 2016 | Exprimer le sentiment de circulation du temps avec un son de drone |
+| *Arrivée* | Jóhann Jóhannsson | 2016 | Exprimer le sentiment de circulation du temps avec des sons de drone |
 | *Blade Runner 2049* | Hans Zimmer et Benjamin Wallfisch | 2017 | Représentation ambiante de la froideur et de l'étendue d'une ville futuriste |
 | *Le Revenant* | Ryuichi Sakamoto et Alva Noto | 2015 | Exprimer la pression de la nature et du temps avec des sons électroniques et environnementaux |
 | *Solaris* (édition 2002) | Edouard Artemyev | 2002 | Expansion de l'espace psychologique avec une ambiance cosmique |
 | *Il y aura du sang* | Jonny Greenwood | 2007 | Le post-classique + le bruit crée tension et solitude |
 
-**Points**
+**indiquer**
 - Technique post-rock : Prolongez le temps psychologique avec une structure en boucle qui répète guitare et piano
 - Méthode ambiante : développez la sensation d'espace avec des sons soutenus et des drones
 
@@ -67,7 +68,7 @@ L'ambient/post-rock affiche une forte présence en dialogue avec les espaces urb
 | Salle des turbines moderne de la Tate | Installations sonores diverses | Années 2000 | Expansion du son des drones et de l’expérience du public dans un espace immense |
 | Oculus, New York | Installation sonore de Steve Reich / influence La Monte Young | 2016 | Intégrer la réverbération architecturale et la conception acoustique urbaine |
 
-**Points**
+**indiquer**
 - Les thèmes de l'espace urbain sont « l'extension du temps » et la « fusion avec les sons environnementaux »
 - En architecture, il est possible de concevoir en calculant le volume, la réflexion et le mouvement du son.
 - La musique fonctionne comme une expérience de l'espace entier, plutôt que de simplement l'écouter seule.
@@ -100,35 +101,35 @@ Film ↔ Architecture : Interaction entre arts visuels et conception spatiale
 
 ### Films et échantillons sonores représentatifs
 
-#### Arrival (2016)
+#### Arrivée (2016)
 
 - **Compositeur** : Jóhann Jóhannsson
 - **Caractéristiques** : Exprime la sensation de circulation du temps avec un son de drone
-- **Extrait sonore** : [Première rencontre](https://www.youtube.com/watch?v=HzNBrns1xPk)
+- **サウンドサンプル**: [First Encounter](https://www.youtube.com/watch?v=HzNBrns1xPk)
 
-#### Blade Runner 2049 (2017)
+####Blade Runner 2049 (2017)
 
 - **Compositeur** : Hans Zimmer et Benjamin Wallfisch
 - **Caractéristiques** : Représentation ambiante de la froideur et de l'étendue d'une ville futuriste
-- **Extrait sonore** : [Larmes sous la pluie](https://www.youtube.com/watch?v=by2pM_0Sf8c)
+- **サウンドサンプル**: [Tears in the Rain](https://www.youtube.com/watch?v=by2pM_0Sf8c)
 
-#### The Revenant (2015)
+#### Le Revenant (2015)
 
 - **Compositeur** : Ryuichi Sakamoto et Alva Noto
 - **Caractéristiques** : Exprimer la pression de la nature et du temps avec des sons électroniques et des sons environnementaux
-- **Exemple sonore** : [Thème principal](https://www.youtube.com/watch?v=Czv8J1W4yYU)
+- **サウンドサンプル**: [Main Theme](https://www.youtube.com/watch?v=Czv8J1W4yYU)
 
 #### Solaris (2002)
 
 - **Compositeur** : Cliff Martinez
 - **Caractéristiques** : Élargissez votre espace psychologique avec une ambiance cosmique
-- **Extrait sonore** : [Est-ce ce que tout le monde veut](https://www.youtube.com/watch?v=Jintml12qaY)
+- **サウンドサンプル**: [Is That What Everybody Wants](https://www.youtube.com/watch?v=Jintml12qaY)
 
-#### There Will Be Blood (2007)
+#### Il y aura du sang (2007)
 
 - **Compositeur** : Jonny Greenwood
 - **Caractéristiques** : Le post-classique + le bruit crée un sentiment de tension et de solitude
-- **Échantillon sonore** : [OST complète](https://www.youtube.com/watch?v=-yXqEzUoFY4)
+- **サウンドサンプル**: [Full OST](https://www.youtube.com/watch?v=-yXqEzUoFY4)
 
 ---
 
@@ -138,28 +139,29 @@ L’ambient/post-rock est fortement présent en dialogue avec les espaces urbain
 
 ### Lieux typiques et expériences acoustiques
 
-#### The High Line, NYC
+#### La High Line, New York
 
 - **Caractéristiques** : Expérience de marche avec des sons continus dans l'espace urbain
-- **Extrait sonore** : [High Line Rain Walk](https://www.youtube.com/watch?v=3frkT40jjS8)
+- **サウンドサンプル**: [High Line Rain Walk](https://www.youtube.com/watch?v=3frkT40jjS8)
 
-#### Tate Modern Turbine Hall, London
+#### Tate Modern Turbine Hall, Londres
 
 - **Caractéristiques** : Expansion du son des drones et de l'expérience du public dans de vastes espaces
-- **Extrait sonore** : [Mire Lee : Plaie ouverte](https://www.youtube.com/watch?v=uUjkTAGFFYA)
+- **サウンドサンプル**: [Mire Lee: Open Wound](https://www.youtube.com/watch?v=uUjkTAGFFYA)
 
 #### Oculus, New York
 - **Fonctionnalité** : Intégration de la réverbération architecturale et de la conception acoustique urbaine
 
-- **Échantillon sonore** : [NYC Noise Machine](https://www.instagram.com/reel/DJwg3p7AJCN/)
+- **サウンドサンプル**: [NYC Noise Machine](https://www.instagram.com/reel/DJwg3p7AJCN/)
 
 ---
+
 
 ### Résumé
 
 Le post-rock/ambient n’est pas seulement un genre musical, mais a évolué en tant que méthode de conception du temps et de l’espace.
 
-Expansion psychologique au cinéma : manipuler le temps avec des drones, des boucles et des paysages sonores
+Expansion psychologique au cinéma : manipulation du temps avec des drones, des boucles et des paysages sonores
 
 Applications en architecture et en urbanisme : l'expérience de rester dans un espace, les lignes de marche et l'harmonie avec les sons de l'environnement urbain
 
@@ -169,8 +171,8 @@ Applications en architecture et en urbanisme : l'expérience de rester dans un 
 
 ### Colonnes associées
 
-[[Chronique] Histoire du post-rock/ambient et changements d'équipement [discussion par époque]](https://monumental-movement.jp/Column-Post-Rock-Ambient-History)
+ [【コラム】 ポストロック／アンビエントの歴史と機材の変遷【年代別考察】](https://monumental-movement.jp/Column-Post-Rock-Ambient-History)
 
-[[Chronique] Qu'est-ce que la musique d'ambiance ? Une philosophie des « sons qui existent » plutôt que des sons entendus] (https://monumental-movement.jp/Column-Ambient)
+ [【コラム】 アンビエント音楽とは何か：聴く音ではなく“存在する音”の哲学](https://monumental-movement.jp/Column-Ambient)
 
-[[Chronique] Ambient : De « écouter de la musique » à « ressentir de la musique » II](https://monumental-movement.jp/Column-Ambient2)
+ [【コラム】 アンビエント：「聴く音楽」から「感じる音楽」へII](https://monumental-movement.jp/Column-Ambient2)

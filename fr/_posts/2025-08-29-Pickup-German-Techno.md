@@ -19,13 +19,14 @@ title: Récupérer des œuvres de techno allemande
 
 <hr>
 
-### Tresor Compilation Vol. 7
+### Trésor Compilation Vol. 7
 <a href="https://jp.mercari.com/item/m32845023734?afid=6142608987"><img src="../assets/images/Tresor%20Compilation%20Vol.%207.webp"></a>
 
-Point attractif : Une compilation du prestigieux label allemand Tresor, avec une luxueuse sélection de titres des plus grands noms de la techno, dont Sven Väth, Maurizio, Ben Sims, James Ruskin et Pacou. C'est un morceau qui permet de ressentir pleinement le charme de la techno dure, minimale et innovante qui symbolise Berlin-Allemagne.
+
+Point attractif : Une compilation du prestigieux label allemand Tresor, avec une luxueuse sélection de titres des plus grands noms de la techno, dont Sven Väth, Maurizio, Ben Sims, James Ruskin et Pacou. C'est une pièce qui vous permet de ressentir pleinement le charme de la techno dure, minimale et innovante qui symbolise Berlin – Allemagne.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Sven Väth –Dub Control Your Mind (Track &amp; Feel Edit)
 2. Maurizio –M4
@@ -41,7 +42,8 @@ Point attractif : Une compilation du prestigieux label allemand Tresor, avec une
 12. Savvas Ysatis –Alright (Surgeon's Keith 4 Nat Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m32845023734?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m32845023734?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -51,7 +53,7 @@ Point attractif : Une compilation du prestigieux label allemand Tresor, avec une
 
 
 
-### Zombie Nation – Souls At Zero
+### Zombie Nation – Âmes à zéro
 <a href="https://jp.mercari.com/item/m23525284617?afid=6142608987"><img src="../assets/images/Zombie%20Nation%20%E2%80%93%20Souls%20At%20Zero.webp"></a>
 
 
@@ -59,14 +61,15 @@ Point attractif : Une compilation du prestigieux label allemand Tresor, avec une
 Point attractif : Un chef-d'œuvre de Zombie Nation, un projet du DJ/producteur allemand Splank ! (Florian Senfter). En particulier, la face A "Souls At Zero (Original Album Version)" est associée à une face B remixée de Sven Väth. Le remix de Sven Väth possède une finale puissante qui combine la lourdeur et le drame de la techno allemande.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Souls At Zero (Original Album Version)
 
 B. Souls At Zero (Sven Väth Remix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m23525284617?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m23525284617?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -76,13 +79,14 @@ B. Souls At Zero (Sven Väth Remix)
 
 
 
-### Cygnus X – The Orange Theme (The Remixes)
+### Cygnus X – Le thème Orange (Les Remixes)
 <a href="https://jp.mercari.com/item/m39474275698?afid=6142608987"><img src="../assets/images/Cygnus%20X%20%E2%80%93%20The%20Orange%20Theme%20(The%20Remixes).webp"></a>
+
 
 Point attrayant : Un remix du chef-d'œuvre énergique et exaltant de trance techno "The Orange Theme" du groupe allemand Cygnus X. Contient une variété de remix de Moonman, Bervoets & De Goeij, Mark Van Dale avec Enrico, et plus encore, vous permettant de profiter d'arrangements adaptés aux clubs qui capturent l'essence de la chanson originale.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. The Orange Theme (Moonman's Orange Juice Mix)
 A2. The Orange Theme (Original Mix)6:29
@@ -91,7 +95,8 @@ B1. The Orange Theme (Bervoets &amp; De Goeij Remix)
 B2. The Orange Theme (Mark Van Dale With Enrico Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m39474275698?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m39474275698?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -102,7 +107,7 @@ B2. The Orange Theme (Mark Van Dale With Enrico Mix)
 
 
 
-### Elektrochemie LK – Gold!
+### Elektrochimie LK – De l’or !
 <a href="https://jp.mercari.com/item/m11889088321?afid=6142608987"><img src="../assets/images/Elektrochemie%20LK%20%E2%80%93%20Gold.webp"></a>
 
 
@@ -110,7 +115,7 @@ B2. The Orange Theme (Mark Van Dale With Enrico Mix)
 Point attractif : Une sortie en 2001 du projet solo de Thomas Schumacher « Elektrochemie LK ». Un morceau attrayant qui combine un rythme solide avec une esthétique techno allemande classique. Le développement libre et audacieux de la piste brille.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Schall (Album Version)
 A2. Things Go Wrong II
@@ -129,7 +134,8 @@ F1. En Route To Narita
 F2. Ein Nenner
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m11889088321?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m11889088321?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -140,13 +146,14 @@ F2. Ein Nenner
 
 
 
-### Elektrochemie LK – When I Rock
+### Elektrochimie LK – Quand je rock
 <a href="https://jp.mercari.com/item/m37743482457?afid=6142608987"><img src="../assets/images/Elektrochemie%20LK%20%E2%80%93%20When%20I%20Rock.webp"></a>
+
 
 Point attractif : « When I Rock » est l’un des morceaux signatures de Thomas Schumacher. En plus du mix original, il comprend des remix de DJ Rush et Santos, ce qui en fait une œuvre où vous pourrez profiter du choc des rythmes et de la richesse des différentes interprétations.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. When I Rock (Original Mix)
 A2. When I Rock (DJ Rush's Rock Da Beat Remix) 
@@ -154,7 +161,8 @@ A2. When I Rock (DJ Rush's Rock Da Beat Remix)
 B1. When I Rock (Santos Remix) 
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m37743482457?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m37743482457?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -165,7 +173,7 @@ B1. When I Rock (Santos Remix)
 
 
 
-### Bad Pimps – Give It
+### Mauvais proxénètes – Donnez-le
 <a href="https://jp.mercari.com/item/m71741554299?afid=6142608987"><img src="../assets/images/Bad%20Pimps%20%E2%80%93%20Give%20It.webp"></a>
 
 
@@ -173,7 +181,7 @@ B1. When I Rock (Santos Remix)
 Point attractif : Un projet du fondateur du label allemand Kanzleramt, Patrick Lindsey, et de l'artiste techno belge Stanny Franssen (G-Force). Sorti en 2002 par le label Terminal M de Monika Kruse, il s'agit d'un croisement passionnant entre Techno et Tech House.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Give.It.!
 
@@ -181,7 +189,8 @@ B1. Move It In A Dirty Way But Maybe That's To Long Monika?
 B2. Get On Up!
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m71741554299?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m71741554299?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -195,17 +204,19 @@ B2. Get On Up!
 ### Bazz-Dee & Waldhaus Weichentechnikk – Brachial 200404
 <a href="https://jp.mercari.com/item/m77843863379?afid=6142608987"><img src="../assets/images/Bazz-Dee%20and%20Waldhaus%20Weichentechnikk%20%E2%80%93%20Brachial%202004%2004.webp"></a>
 
+
 Point attractif : Hard techno à forte saveur industrielle de Waldhaus et Bazz-Dee, dont un morceau qui sample avec audace "I Was Made For Loving You" de KISS. Comme le titre l'indique, le style « brachial » (radical et brut) est irrésistible pour les fans.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Bazz-Dee &amp; Waldhaus – I Was Made For Loving Your
 
 A2. Bazz-Dee &amp; Weichentechnikk – Samurai Pizza Cats
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m77843863379?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m77843863379?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -221,10 +232,10 @@ A2. Bazz-Dee &amp; Weichentechnikk – Samurai Pizza Cats
 
 
 
-Point attractif : Une œuvre de Johannes Heil, caractérisée par une mise en scène sombre et dramatique. Un morceau qui invite à une expérience techno futuriste avec des rythmes profonds et une approche psychédélique. L'histoire est impressionnante car elle oscille entre silence et explosion.
+Point attractif : Une œuvre de Johannes Heil, caractérisée par une mise en scène sombre et dramatique. C'est une expérience techno futuriste avec des rythmes profonds et une approche psychédélique. L'histoire est impressionnante car elle oscille entre silence et explosion.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1  Future Primitive Intro
 A2  Children Of The Night
@@ -240,7 +251,8 @@ C2  Golden Dawn
 D   Cherubim
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m46295753268?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m46295753268?afid=6142608987){: .button1}
 
 
 #### Youtube

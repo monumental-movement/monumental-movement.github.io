@@ -15,6 +15,7 @@ title: '[Chronique] Tech House : Précision minimale et réinvention du groove'
 ---
 
 
+
 ## De la hard house britannique à la culture club des années 90
 
 Texte : mmr｜Thème : Contexte de naissance, caractéristiques du son, principaux artistes, évolution dans chaque région, expansion depuis les années 2000 et situation actuelle
@@ -37,6 +38,7 @@ color: #fff;
 }
 </style>
 
+
 ## 1. Qu'est-ce que Tech House ?
 
 La Tech House est généralement comprise comme « une musique de danse qui intègre la structure et le traitement sonore de la techno tout en conservant la chaleur de la house ». Elle combine le minimalisme, les textures métalliques et les structures répétitives de la techno tout en conservant le côté funky et gras de la house.
@@ -54,7 +56,7 @@ La Tech House est souvent confondue avec « un sous-genre de techno » ou « un 
 
 ---
 
-## 2. Années 1980 à 1990 : Contexte de la création
+## 2. Années 1980 à 1990 : contexte de création
 
 Les origines de Tech House seraient la culture des clubs du début des années 1990 en Grande-Bretagne, en particulier autour de Londres.
 À l'époque, l'Acid House et le Rave étaient populaires en Grande-Bretagne, et une variété de styles tels que la Hard House, la Progressive House, la Techno et la Tribal House étaient mélangés.
@@ -200,9 +202,9 @@ La Tech House est interprétée et cultivée différemment dans chaque pays. Vou
 
 ### ■ 1. Royaume-Uni
 
-* オリジナルの発生地
+*Lieu d'origine d'origine
 * Un mélange naturel de house et de techno
-* TissuやThe Endがシーンの中心
+* Fabric et The End sont au centre de la scène
 
 ### ■ 2. Allemagne (Berlin)
 
@@ -302,7 +304,7 @@ La Tech House est une musique de club qui allie la chaleur de la house à la str
 
 Aujourd'hui, la Tech House a évolué vers une musique jouée dans un large éventail de contextes, de l'underground à la scène principale, et est devenue un élément essentiel de la culture DJ.
 
-Dans cet article, nous avons systématiquement organisé comment le genre Tech House s'est formé et comment il s'est développé jusqu'à sa forme actuelle, en couvrant son histoire, son son, sa culture régionale, sa théorie de la production et ses artistes représentatifs. Tech House continuera à être un élément important de la culture du club à l’avenir.
+Dans cet article, nous avons systématiquement organisé la façon dont le genre Tech House s'est formé et comment il s'est développé jusqu'à sa forme actuelle, en couvrant son histoire, son son, sa culture régionale, sa théorie de la production et ses artistes représentatifs. Tech House continuera à être un élément important de la culture du club à l’avenir.
 
 ---
 

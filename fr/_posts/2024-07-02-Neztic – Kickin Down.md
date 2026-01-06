@@ -20,14 +20,14 @@ Manuel Neztic, également connu sous le nom de Neztic, est un DJ actif sur la sc
 
 La face B est un remix du DJ et producteur finlandais Rico Tubbs.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Kickin' Down
 
 B. Kickin' Down (Rico Tubbs Remix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m62664981312?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m62664981312?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-A5loOOnvkg?si=GQK2P5iOEPKfHJhf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

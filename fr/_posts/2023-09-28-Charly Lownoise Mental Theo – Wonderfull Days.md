@@ -18,7 +18,7 @@ Cette chanson est connue comme un classique du happy hardcore néerlandais sorti
 
 "Wonderfull Days" reste un classique de la scène happy hardcore.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Wonderfull Days (Rotterdam Mix)
 
@@ -27,7 +27,7 @@ B1. Wonderfull Days (Trance Mix)
 B2. Wonderfull Days (Radio Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m75641849316?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m75641849316?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tEAUvbjtsNk?si=xIXWrxhZmciEcSCc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

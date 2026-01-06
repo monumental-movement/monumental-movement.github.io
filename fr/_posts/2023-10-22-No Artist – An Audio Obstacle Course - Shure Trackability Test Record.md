@@ -17,7 +17,7 @@ title: No Artist – Un parcours d'obstacles audio – Enregistrement du test de
 
 « No Artist – An Audio Obstacle Course – Shure Trackability Test Record » a été publié par Shure en 1967.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Introduction
 
@@ -50,5 +50,6 @@ B8. Right Ch. Accordion - 4 Levels
 B9. Right Ch. Harpsichord - 4 Levels
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m44835881306?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m44835881306?afid=6142608987){: .button1}
 

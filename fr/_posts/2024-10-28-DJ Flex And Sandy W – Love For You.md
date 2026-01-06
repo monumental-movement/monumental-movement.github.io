@@ -21,14 +21,14 @@ David Terzian, également connu sous le nom de DJ Flex, est un DJ et producteur 
 Side A est un remix d'Axwell, membre de Swedish House Mafia et sélectionné deux fois aux DJ Awards.
 La face B est un remix des membres de la mafia suédoise Steve Angello et Sebastian Ingrosso.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Love For You (Remixed By Axwell)
 
 B1. Love For You (Remixed By Steve Angello And Sebastian Ingrosso)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m10111502842?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m10111502842?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gpITcgLBWQA?si=l9pVW7mDgE5tcwgW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

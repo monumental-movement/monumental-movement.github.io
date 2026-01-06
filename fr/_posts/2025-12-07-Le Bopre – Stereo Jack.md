@@ -14,15 +14,16 @@ title: Le' Bopre – Prise stéréo
 ---
 
 
+
 Peter Grummich travaille également sous les noms de Lee Anderson et Classic Action. Il est également actif en duo avec Blome & Grummich avec le fondateur de Sender Records, Benno Blome et Mark Pfurtscheller.
 
 "Stereo Jack" est un morceau Techno/Minimal sorti par Boot Music Berlin en 2004. (une face)
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Stereo Jack
 ```
 
-※ Single Sided
+*Simple face
 
-[Achat sur Mercari](https://jp.mercari.com/item/m32057039971?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m32057039971?afid=6142608987){: .button1}

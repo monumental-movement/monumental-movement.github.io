@@ -16,18 +16,20 @@ title: '[Chronique] Les « sons européens » changent en fonction des frontièr
 ---
 
 
+
 ## « Le son de l'euro » Pourquoi les sons diffèrent-ils selon les pays ?
 
 Texte : mmr | Thème : Genre : Chronique musicale | Thème : Analyse comparative de la musique européenne des années 90 par pays de production
 
-Bien qu'on la qualifie souvent de « musique européenne », en réalité, la « texture sonore » et le « sens esthétique » diffèrent selon le pays dans lequel elle a été produite.  
-Dans les années 1990, les principaux champs de bataille pour ce genre étaient **l'Italie, l'Allemagne et la Suède**.  
+
+Bien qu'on la qualifie souvent de « musique européenne », en réalité, la « texture sonore » et le « sens esthétique » diffèrent selon le pays dans lequel elle a été produite.
+Dans les années 1990, les principaux champs de bataille pour ce genre étaient **l'Italie, l'Allemagne et la Suède**.
 Sur la base de leurs origines culturelles, industrielles et technologiques respectives, ils exportaient leur propre « son de l'euro » dans le monde.
 
 ---
 
-### Euro italien : « Speed » et « Synth Shine »
-**Résumé**
+### Euro italien : « Speed ​​» et « Synth Shine »
+**aperçu**
 - **Lieux** : Milan, Vérone, Parme, etc.
 - **Principaux labels** : Time Records, A-Beat-C, Discomagic
 - **Caractéristiques** : BPM rapide, synthétiseur sophistiqué, mélodie épaisse à l'unisson, voix émotionnelle
@@ -65,6 +67,7 @@ color: #fff;
 }
 </style>
 
+
 | Artiste | Album/Single | Caractéristiques/Chansons à succès |
 |---|---|---|
 | Dave Rodgers | *Compilation Eurobeat Vol.1* (1991) | Un chef-d'œuvre de l'Eurobeat à grande vitesse. Chanson représentative « Déja Vu », etc. |
@@ -76,7 +79,7 @@ color: #fff;
 ---
 
 ### Euro allemand : « puissance » et « beauté structurelle »
-**Résumé**
+**aperçu**
 - **Lieux** : Francfort, Munich, Berlin, etc.
 - **Principaux labels** : Dance Pool (Sony Allemagne), Zyx, Low Spirit
 - **Caractéristiques** : Beat lourd, ligne de basse mécanique, composition minimale, orienté club
@@ -85,14 +88,14 @@ color: #fff;
 - Grosse caisse épaisse et dure, accentuant les temps 4/4
 - Accent mis sur le rythme et la structure plutôt que sur la mélodie
 - La progression d'accords est simple et sombre
-- Il y a de nombreux éléments de transe, utilisant la sensation de boucle.
+- Il y a de nombreux éléments de transe, utilisant le sentiment de boucle.
 
 **Artiste/unité représentatif**
--Casse !
+-Instantané!
 - Battement culturel
 -Vrai McCoy
 -U96
--Trottinette
+-Scooter
 
 **Contexte culturel**
 - Précision et orientation technologique en tant que nation industrialisée
@@ -112,7 +115,7 @@ color: #fff;
 ---
 
 ### Euro suédois : « Sensation pop sophistiquée »
-**Résumé**
+**aperçu**
 - **Localisation** : Stockholm, Malmö, etc.
 - **Principaux labels** : Stockholm Records, Mega Records
 - **Caractéristiques** : Son cool, paroles anglaises orientées pop, mix soft
@@ -163,7 +166,7 @@ color: #fff;
 ---
 
 ### La musique européenne n'était pas une « musique nationale » mais un « son national »
-Le plus grand attrait de la musique européenne des années 1990 est que, même si elle fonctionne comme un « langage universel », elle est en réalité profondément ancrée dans la culture et l’esthétique de chaque pays.  
-Même si elles se ressemblent toutes, la chaleur de l’Italie, la dureté de l’Allemagne et la fraîcheur de la Suède sont clairement différentes.
+Le plus grand attrait de la musique européenne des années 1990 est que, même si elle fonctionne comme un « langage universel », elle est en réalité profondément ancrée dans la culture et l’esthétique de chaque pays.
+Même si elles se ressemblent, la chaleur de l’Italie, la dureté de l’Allemagne et la fraîcheur de la Suède sont clairement différentes.
 
 Une musique née à l'intersection du global et du local. C’est peut-être là l’essence de l’euro des années 1990.

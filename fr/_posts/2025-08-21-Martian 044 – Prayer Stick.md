@@ -19,7 +19,7 @@ Martian 044 est le nom du projet de Gerald Foster Mitchell, un pilier de la scè
 "Prayer Stick" est une chanson Techno/Electro publiée par le sous-label Red Planet d'Underground Resistance (distribué par Submerge) en 1998. Le label Hitechfunk Productions de Chuck Gibson est impliqué dans la production.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Prayer Stick
 A2. Prayer Stick (Trans-Electric)
@@ -27,7 +27,7 @@ A2. Prayer Stick (Trans-Electric)
 B. Dream Dancing
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m46990988578?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46990988578?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YXUenfPiUNQ?si=y5PNZnU5YN6VqRGO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

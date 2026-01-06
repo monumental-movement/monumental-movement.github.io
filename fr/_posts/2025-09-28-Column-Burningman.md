@@ -22,7 +22,7 @@ Burning Man est plus qu'un simple festival, c'est un terrain d'essai pour créer
 
 ---
 
-#### BURNING MAN 2025 - All ART
+#### BURNING MAN 2025 - Tout l'ART
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fo-kN2uXVik?si=Sczv6RIgofMcguM7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -40,11 +40,13 @@ color: #fff;
 }
 </style>
 
+
 ### Origine et développement : de la plage au désert
 
 Burning Man a débuté en 1986 lorsque Larry Harvey et Jerry James ont brûlé une effigie en bois (The Man) à Baker Beach à San Francisco. À partir de là, le nombre de participants a augmenté et après avoir déménagé pour la première fois dans le désert de Black Rock en 1990, l'événement s'est transformé en un projet temporaire de construction de ville dans le désert.
 
 ---
+
 
 #### 2004 « 10 principes » et leur impact
 
@@ -52,17 +54,20 @@ Au fur et à mesure de l'évolution de l'organisation, les « 10 principes » (I
 
 ---
 
+
 ### Relation avec Bay Area/Tech
 
 Burning Man entretient une longue relation avec la Silicon Valley. À la fin des années 1990, des recherches ont montré que Burning Man avait été utilisé comme infrastructure culturelle par les industries créatives de la Bay Area, avec des anecdotes de participation des fondateurs de Google. L'étude de Stanford et al. L'étude soutient que Burning Man est devenu le fondement culturel d'une « industrie des nouveaux médias ».
 
 ---
 
+
 ### Participation et controverses de personnes/célébrités célèbres
 
 Burning Man attire depuis longtemps les célébrités – entrepreneurs, artistes et même politiciens (des noms comme Mark Zuckerberg, Elon Musk et Jeff Bezos ont été mentionnés dans les médias). Cela peut créer des frictions entre le principe de « démarchandisation » et le comportement réel des participants riches et influents.
 
 ---
+
 
 ### Anecdote/Légende
 
@@ -75,20 +80,23 @@ Depuis les années 2000, les « véhicules mutants » géants et les sculpture
 
 ---
 
-#### Inside The Outrageous Mutant Vehicles Of Burning Man 2022 | Forbes
+#### À l’intérieur des véhicules mutants scandaleux de Burning Man 2022 | Forbes
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ht8wmEq6jBs?si=xVEvZR3WYPJFP4Hr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
+
 ### Livres connexes
+
 
 | Année | Magazines/Médias | Notes/Relation | Lien |
 | ---- : | -------------------------------- | -------------------- | ----------------- |
-| Livres | *Burning Man : Art on Fire* (livre photo) | Un livre classique qui couvre l'art des festivals | [Amazon](https://amzn.to/3VFwNge) |
-| Livres | *Il était une fois dans la poussière* (Roxane Jessi) | Un récit de voyage qui aborde la culture mondiale Burning | [Amazon](https://amzn.to/4nv3MQw) |
+|    書籍 | *Burning Man: Art on Fire*（写真集） | 祭りのアートを網羅する定番書  | [Amazon](https://amzn.to/3VFwNge)  |
+|    書籍 | *Once Upon a Time in the Dust*（Roxane Jessi） | グローバルなBurning文化に迫る紀行      |  [Amazon](https://amzn.to/4nv3MQw)              |
 
 ---
+
 
 ### Implications et défis contemporains
 
@@ -96,7 +104,7 @@ Bien que Burning Man reste un centre de créativité, il est confronté à des p
 
 ---
 
-#### Burning Man 2025: The Man Burns
+#### Burning Man 2025 : L'homme brûle
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zOpk8TxTZPQ?si=DCDzFnTVaJ-hX7si" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -179,7 +187,7 @@ Le prototype de la « célébration de la vie et de la créativité » dont ont 
 
 ---
 
-#### 1998 : Entité nébuleuse
+#### 1998 : Entité nébuleuse
 
 Un thème qui explore l'existence mystérieuse et l'ambiguïté de l'univers et de la conscience. Les œuvres interactives utilisant la lévitation ou la lumière participative se sont démarquées.
 
@@ -401,7 +409,7 @@ De plus, le thème n'est pas nécessairement obligatoirement appliqué à tous l
 
 ---
 
-### Conclusion : Expérience de ville du futur dans le désert
+### Conclusion : expérience de ville du futur dans le désert
 
 Burning Man est une ville culturelle expérimentale moderne qui a évolué du thème Inferno (1995) → Démarchandification (1996) → Fertilité (1997) → Vault of Heaven (2004) → 2010-2025, fusionnant spiritualité, art participatif, décommercialisation et expression de la vie.
 

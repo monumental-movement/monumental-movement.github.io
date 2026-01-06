@@ -22,7 +22,7 @@ Pendant ses études universitaires, il a commencé à se produire dans des clubs
 
 Depuis, il a sorti plusieurs albums et s'est imposé sur la scène R&B, et continue de collaborer activement avec d'autres artistes et de créer des chansons en plus de sa carrière solo.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Thong Song (Remix)　Featuring – Foxy Brown
 
@@ -37,5 +37,5 @@ B2. Thong Song (Super Jupiter Mao Tse Thong Club Mix)
 B3. Thong Song (Johnathan Peters Bust Down Mix) (Instrumental)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m95904253553?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95904253553?afid=6142608987){: .button1}
 

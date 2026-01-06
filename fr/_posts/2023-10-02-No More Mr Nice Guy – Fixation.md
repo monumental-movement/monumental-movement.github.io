@@ -15,12 +15,12 @@ title: Plus de Mr Nice Guy – Fixation
 
 "Fixation" est un EP de l'unité No More Mr Nice Guy de Pete Lazonby et Tim Fielding, sorti en 1995 sur le label britannique ": Confusion Records".
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Fixation
 
 B. Space Terrace
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m33347969648?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33347969648?afid=6142608987){: .button1}
 

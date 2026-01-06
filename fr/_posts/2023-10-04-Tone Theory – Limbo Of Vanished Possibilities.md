@@ -20,7 +20,7 @@ De plus, le crochet principal électronique du « sifflet », la petite mélodie
 Ensuite, il y a de belles lignes d'orgue et de piano, de petits succès et des percussions filtrées avec des claquements de mains, puis DC fournit une ligne de basse tueuse qui peint une image sonore riche avec une texture "rebondissante".
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A0.01　Limbo Of Vanished Possibilities
 Producer, Mixed By – Derrick Carter, The Innocent
@@ -33,7 +33,7 @@ Remix – Bushwacka!
 B0.02　Limbo Of Vanished Possibilities (Mr C Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m14966528973?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m14966528973?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q5Et2Zy4-Eo?si=9dFDNsaRRvPkOhnf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

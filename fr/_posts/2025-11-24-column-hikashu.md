@@ -19,7 +19,7 @@ title: '[Chronique] Hikashu : Une histoire transfrontalière de la pop d''avant
 
 Texte : mmr | Thème : Une longue chronique de Hikashu, apparu à l'aube de la techno/new wave à la fin des années 1970 et pionnier de la « pop expérimentale japonaise ». Trajectoire de la formation au présent
 
-Hikashu est un groupe qui occupe une place unique dans l’histoire du pop/rock japonais.  
+Hikashu est un groupe qui occupe une place unique dans l’histoire du pop/rock japonais.
 Depuis leurs débuts en 1978, ils ont librement croisé des éléments tels que la **new wave, la musique d'avant-garde, le théâtre musical, l'improvisation, la musique électronique et la musique folk** tout en conservant leurs créations uniques qui « continuent de bousculer le concept de genre ».
 
 Il est généralement connu pour ses performances bizarres et humoristiques centrées sur Koichi Makigami (voix, thérémine) et pour ses premiers succès techno tels que "At the End of the 20th Century". Cependant, la réalité est que son champ d’action est bien plus large et qu’il a toujours été impliqué dans les grandes lignes de l’histoire de la musique expérimentale japonaise.
@@ -56,7 +56,7 @@ Cette diversité d'expériences a jeté les bases de Hikashu, non seulement un g
 # 2. Formation et premières activités (1978-1980)
 —Avec la vague techno/new wave
 
-En 1978, le « Hikashu » officiel a débuté.  
+En 1978, le « Hikashu » officiel a débuté.
 À peu près à la même époque, YMO fait ses débuts au Japon et le pont entre la musique électronique et la musique pop devient immédiatement visible. Cependant, Hikashu, tout en restant proche de cette tendance, développe une pop étrange qui ne s'écarte guère de la grammaire de la pop populaire.
 
 En particulier, les performances de 1979 à 1980 sont considérées comme plus que leur son, mais plutôt comme « leur existence elle-même est avant-gardiste », et elles présentent les caractéristiques suivantes :
@@ -73,7 +73,7 @@ En particulier, les performances de 1979 à 1980 sont considérées comme plus q
 # 3. Indiéisation et approfondissement (1981-1985)
 —De la pop à « l’expérience musicale »
 
-Au début des années 1980, Hikashu quitte le cadre d'un label majeur et s'oriente vers un système de création plus libre.
+Au début des années 1980, Hikashu quitte le cadre d'un label major et s'oriente vers un système de création plus libre.
 
 Points importants pendant cette période :
 
@@ -93,7 +93,7 @@ Parallèlement aux activités de groupe, le leader Koichi Makigami élargit le c
 
 - Exploration plus approfondie du chant diphonique
 - Collaboration avec la danse contemporaine
-- Connexion avec John Zorn (NY avant-garde mondiale)
+- Connexion avec John Zorn (monde avant-gardiste de NY)
 - A piloté le boom du thérémine à la fin des années 1990 et contribué à sa diffusion au Japon
 
 Hikashu lui-même a introduit des rythmes de musique ethnique, des gammes non occidentales et de la poésie abstraite, se transformant en « pop expérimentale de nationalité inconnue ».
@@ -133,7 +133,7 @@ Le style de Hikashu consistant à « réexpérimenter » en utilisant des œuvre
 # 7. Analyse détaillée des caractéristiques musicales
 —Éléments qui font du Hikashu Hikashu
 
-### ■ 1. L'idée de faire de la voix un instrument
+### ■ 1. L'idée de transformer la voix en instrument
 La voix de Koichi Makigami est un mélange des éléments suivants :
 
 - Chant diphonique
@@ -148,21 +148,21 @@ Il ne s’agit pas seulement de voix, mais d’une exploration de la voix en tan
 Au début, les nouveaux rythmes stoïques ressemblant à des vagues se démarquent, mais à partir du milieu, des ensembles complexes avec plusieurs rythmes existant en même temps se multiplient.
 
 ### ■ 3. « L'humour structurel » plutôt que « l'absurdité »
-Les paroles et les performances de Hikashu peuvent sembler bizarres, mais beaucoup d'entre elles sont structurées de manière extrêmement précise.  
+Les paroles et les performances de Hikashu peuvent sembler bizarres, mais beaucoup d'entre elles sont structurées de manière extrêmement précise.
 Le non-sens n’est pas un « gag qui arrête la pensée », mais un moyen permettant de secouer la frontière entre le langage et le son.
 
 ### ■ 4. Thérémine et acoustique électronique
-Des éléments qui caractérisent Hikashu depuis les années 1990.  
+Des éléments qui caractérisent Hikashu depuis les années 1990.
 La tonalité instable du thérémine perturbe la structure du chant tout en lui donnant une impression d'expansion spatiale.
 
 ---
 
 # 8. Aperçu des principaux membres
 
-- **Koichi Makigami** : Voix : Thérémine. le centre du groupe. Un large éventail d'activités allant de la musique d'avant-garde au théâtre en passant par la musique folklorique.  
-- **Mita Chojin** : Guitare. Habile en traitement acoustique et en techniques de jeu irrégulières.  
-- **Akira Toyama** (participation temporaire) : Batterie. Introduire un sens du jazz/improvisation dans le groupe.  
-- **Masami Sakaide** : Basse. Contribue à la complexité de la structure rythmique.  
+- **Koichi Makigami** : Voix : Thérémine. le centre du groupe. Un large éventail d'activités allant de la musique d'avant-garde au théâtre en passant par la musique folklorique.
+- **Mita Chojin** : Guitare. Habile en traitement acoustique et en techniques de jeu irrégulières.
+- **Akira Toyama** (participation temporaire) : Batterie. Introduire un sens du jazz/improvisation dans le groupe.
+- **Masami Sakaide** : Basse. Contribue à la complexité de la structure rythmique.
 - **Makoto Inoue** (initiale) : Clavier. Cela a déterminé le côté techno/new wave de Hikashu au début.
 
 *L'histoire des membres est longue et compliquée, mais seuls les personnages principaux seront traités ici.
@@ -193,7 +193,7 @@ timeline
 * **À la fin du 20e siècle** (1980)
 * **Rumeurs d'humanité**
 * **Hikashu (premier album)**
-* **Vivre**
+* **Vie**
 * **Visage humain**
 * **Œuvres d'improvisation et de structure (prolifiques dans les années 2000)**
 
@@ -222,7 +222,7 @@ Il ne suffit pas de parler simplement de Hikashu comme d’une « légende de la
 —L'« état » de Hikashu
 
 Hikashu est plus qu'un « groupe », c'est un terrain d'expérimentation du son, du corps et de l'humour.
-Même si plus de 45 ans se sont écoulés depuis leur formation, ils sont toujours apparus sur scène non pas pour revivre le passé, mais pour découvrir à nouveau le « présent ».
+Même si plus de 45 ans se sont écoulés depuis leur formation, ils sont toujours apparus sur scène non pas pour revivre le passé, mais pour découvrir à nouveau le « maintenant ».
 
 Cette attitude est d’une valeur unique dans l’histoire de la musique japonaise.
 Hikashu ne se termine jamais. Ils existent toujours comme un « État » permanent.

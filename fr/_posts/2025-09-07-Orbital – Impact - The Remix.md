@@ -22,14 +22,14 @@ Cette œuvre est un remix de singles tirés de l'album le plus acclamé d'Orbita
 Un morceau Techno sorti en 1993 sur le label de musique dance FFRR Records.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Impact USA
 
 B. Lush (1926 Trancendance Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m89422617326?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m89422617326?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XyraAwHn4gM?si=Znt-t3RtpYBZnJJR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

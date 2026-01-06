@@ -17,7 +17,7 @@ title: Bitasika – Pali Pali
 
 Bitasika est un groupe africain dirigé par BB Mo-Franck, interprète de la République Démocratique du Congo et premier percussionniste de la Compagnie de Théâtre Shiki « Le Roi Lion ». Le batteur/percussionniste Jun Watanabe JunJun participe également.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Nyengo
 2. Tikanga Nayemba
@@ -30,4 +30,4 @@ Bitasika est un groupe africain dirigé par BB Mo-Franck, interprète de la Rép
 9. Lost & Found
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m14941575403?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m14941575403?afid=6142608987){: .button1}

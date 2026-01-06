@@ -20,14 +20,15 @@ title: Récupérer les œuvres Trésor
 
 
 
-### Joey Beltram – The Rising Sun
+### Joey Beltram – Le Soleil Levant
 <a href="https://jp.mercari.com/item/m38252270171?afid=6142608987"><img src="../assets/images/Joey%20Beltram%20%E2%80%93%20The%20Rising%20Sun%EF%BC%88Tresor%20214%EF%BC%89.webp"></a>
 
 Présentation : L'œuvre de Joey Beltram publiée par Tresor en 2004. Disponible au format CD chez MMR.
 
+
 Point attrayant : comprend de nombreuses chansons représentatives du producteur techno vétéran Joey Beltram. Grâce à la collaboration avec Tresor, vous pourrez profiter de son monde sonore approfondi.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Resurgence
 2. It Works
@@ -41,7 +42,8 @@ Point attrayant : comprend de nombreuses chansons représentatives du producteu
 10. Tenth
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m38252270171?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m38252270171?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -50,14 +52,15 @@ Point attrayant : comprend de nombreuses chansons représentatives du producteu
 <br>
 
 
-### Joey Beltram – Game Form
+### Joey Beltram – Forme de jeu
 <a href="https://jp.mercari.com/item/m93873699872?afid=6142608987"><img src="../assets/images/Joey%20Beltram%20%E2%80%93%20Game%20Form.webp"></a>
 
 Résumé : Un single contenant "Game Form" et des remix de Robert Armani et Mike Dearborn. Sorti en 2004.
 
+
 Point attractif : Il s’agit d’une œuvre vinyle exclusive avec des morceaux dancefloor puissants incluant des remix.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Game Form
 
@@ -65,7 +68,8 @@ B1. Game Form (Robert Armani Remix)
 B2. Game Form (Mike Dearborn Remix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m93873699872?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m93873699872?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -73,14 +77,15 @@ B2. Game Form (Mike Dearborn Remix)
 <hr>
 <br>
 
-### Various – Tresor Compilation Vol. 6
+### Divers – Compilation Trésor Vol. 6
 <a href="https://jp.mercari.com/item/m83834888135?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Tresor%20Compilation%20Vol.%206.webp"></a>
 
 Résumé : Un album de compilation de Tresor sorti en 1998. Après le Vol.7 en 1999, c'est un morceau plein du charme des premiers Tresor.
 
+
 Point attractif : Contient un line-up luxueux qui symbolise la scène techno berlinoise de la fin des années 90, et constitue un bon album d'introduction qui permet d'apprécier profondément les racines et les premiers sons du label.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Regis –Theme From Streetwalker
 2. Fumiya Tanaka –One Sparkle
@@ -97,7 +102,8 @@ Point attractif : Contient un line-up luxueux qui symbolise la scène techno ber
 13. Substance –Plate Element 2
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m83834888135?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m83834888135?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -105,14 +111,15 @@ Point attractif : Contient un line-up luxueux qui symbolise la scène techno ber
 <hr>
 <br>
 
-### Various – Tresor Compilation Vol. 7
+### Divers – Compilation Trésor Vol. 7
 <a href="https://jp.mercari.com/item/m32845023734?afid=6142608987"><img src="../assets/images/Tresor%20Compilation%20Vol.%207.webp"></a>
 
 Résumé : La 7ème compilation Tresor sortie en 1999. Une magnifique collection de chansons d'artistes de renommée mondiale tels que Sven Väth, Ben Sims, James Ruskin, Daniel Bell et DJ Shufflemaster.
 
+
 Point attractif : Couvre une large gamme de styles tels que la dub techno et l'ambient, et permet de vivre pleinement l'essence du label Tresor. Recommandé pour les débutants.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Sven Väth –Dub Control Your Mind (Track &amp; Feel Edit)
 2. Maurizio –M4
@@ -128,7 +135,8 @@ Point attractif : Couvre une large gamme de styles tels que la dub techno et l'a
 12. Savvas Ysatis –Alright (Surgeon's Keith 4 Nat Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m32845023734?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m32845023734?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -137,14 +145,15 @@ Point attractif : Couvre une large gamme de styles tels que la dub techno et l'a
 <br>
 
 
-### VA – Berlin 1992 Tresor Kompilation – Der Klang Der Familie
+### VA – Berlin 1992 Tresor Compilation – Der Klang Der Family
 <a href="https://jp.mercari.com/item/m20174423933?afid=6142608987"><img src="../assets/images/VA%E2%80%93%20Berlin%201992.webp"></a>
 
 Résumé : La première compilation de Tresor, sortie en 1992. Il s'agit d'un contenu condensé rempli de chansons d'une variété d'artistes des faces A à D.
 
-Point intéressant : comme son titre l'indique, "Klang Der Familie" (Sons de la famille), il s'agit d'un chef-d'œuvre historique qui donne une impression réaliste de la période formatrice de la culture techno berlinoise. Particulièrement recommandé pour les fans d'analogique.
 
-#### Tracklist
+Point intéressant : comme son titre l'indique, "Klang Der Familie" (Sounds of the Family), il s'agit d'un chef-d'œuvre historique qui donne une impression réaliste de la période formatrice de la culture techno berlinoise. Particulièrement recommandé pour les fans d'analogique.
+
+#### Liste des chansons
 ```md
 A1. 3 Phase Feat. Dr. Motte – Der Klang Der Familie
 A2. System 01 – Drugs Work
@@ -159,7 +168,8 @@ D1. Maurizio – Ploy (Strategic Mix)
 D2. Voov – It's Anything You Want It To Be And It's A Gas (Smoke Machine V2)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m20174423933?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m20174423933?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -172,9 +182,10 @@ D2. Voov – It's Anything You Want It To Be And It's A Gas (Smoke Machine V2)
 
 Résumé : Un album complet sorti en 2001 par le DJ/producteur de hard techno japonais DJ Shufflemaster (Tatsuya Kanamori). Il est connu comme un chef-d’œuvre publié par Tresor.
 
+
 Point attrayant : Le son techno dur et profond et la composition détaillée sont attrayants. Il a reçu des éloges internationaux et est un artiste japonais précieux qui s'est répandu dans le monde entier grâce à sa relation avec Tresor.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. EXP
 A2. Slip Inside You
@@ -189,7 +200,8 @@ D1. Experience
 D2. Innervisions
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m45286503868?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m45286503868?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -197,14 +209,15 @@ D2. Innervisions
 <hr>
 <br>
 
-### Chrislo – Low
+### Chrislo – Faible
 <a href="https://jp.mercari.com/item/m45327854456?afid=6142608987"><img src="../assets/images/Chrislo%20%E2%80%93%20Low%EF%BC%88Tresor092%EF%BC%89.webp"></a>
 
-Présentation : L'un des artistes apparentés qui apparaît dans la section « Explorez davantage comme ceci » de la page de travail de Joey Beltram (The Rising Sun). Par Chrislo Haas, Trésor 092.
+Présentation : L'un des artistes associés qui apparaît dans la section « Explorez davantage comme ceci » de la page de travail de Joey Beltram (The Rising Sun). Par Chrislo Haas, Trésor 092.
+
 
 Point attractif : Il s'agit d'une œuvre solo de Chrislo Haas, connu pour son travail sous le nom de D.A.F. et Liaisons Dangereuses, et montre un lien fort avec la musique électronique expérimentale berlinoise.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. La Chouette
 2. Hangars D'Orion
@@ -217,7 +230,8 @@ Point attractif : Il s'agit d'une œuvre solo de Chrislo Haas, connu pour son tr
 9. L'Eau
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m45327854456?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m45327854456?afid=6142608987){: .button1}
 
 
 #### Youtube

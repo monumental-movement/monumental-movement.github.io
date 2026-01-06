@@ -16,9 +16,11 @@ title: '[Chronique] Sabrina Malheiros : L''éclat de la soul brésilienne modern
 ---
 
 
+
 ## **Introduction**
 
 Texte : mmr｜Thème : Comment la musique brésilienne a évolué et a été reconnectée depuis le 21e siècle, en se concentrant sur l'histoire musicale de Sabrina Mallheiros, sa relation avec Azimuth, l'évolution de son travail et le symbolisme de « Clareia ».
+
 
 Alors que la musique brésilienne continue d'être réévaluée dans le monde entier, Sabrina Mallheiros est la personne qui a combiné avec souplesse les sensibilités de la samba soul, du funk, de la bossa nova et de la néo-soul. Descendants d'Azimuth, dirigés par Aza Mallheiros, ils ont été soutenus avec enthousiasme par les communautés musicales de Londres, du Japon et d'Europe.
 
@@ -41,6 +43,7 @@ color: #fff;
 }
 </style>
 
+
 ## **1. Première vie et influence d'Azimut**
 
 Sabrina Mallheiros est originaire de Rio de Janeiro.
@@ -54,11 +57,11 @@ Cependant, la musique de Sabrina n'est pas une imitation directe de son père, m
 
 ## **2. Premiers travaux : signes d’une nouvelle génération de samba soul**
 
-### ● **『Equilibria』（2005）**
+### ● **« Équilibres » (2005)**
 
 Dans cette première œuvre, la combinaison de la « voix chantante transparente » de Sabrina et du « rythme moderne » était déjà établie. Tout en mêlant samba, MPB et soul, il présente une texture qui brouille les frontières entre acoustique et électrique.
 
-### ● **『New Morning』（2011）**
+### ● **« Nouveau matin » (2011)**
 
 Cet album a un ton plus fort de jazz-funk et de soul urbaine, et a fortement séduit les auditeurs des clubs. Il est devenu particulièrement populaire dans la communauté européenne du jazz des clubs et a gagné le soutien des DJ de Londres.
 
@@ -74,7 +77,7 @@ Depuis ses débuts, Sabrina a toujours visé une « coexistence de la tradition 
 
 Il y a des moments de jazz-funk doux qui vous donnent une impression directe de la lignée d'Azimuth, tandis que les mélodies sophistiquées, les belles cordes et les percussions légères de MPB sont délicieusement combinées.
 
-### ● Chanson titre « Clareia »
+### ● Chanson titre « Clareia »
 
 Cette chanson, qui peut être considérée comme un symbole de l'album, combine la voix douce de Sabrina, les percussions dynamiques et les lignes fluides du clavier pour créer une texture claire de lumière.
 
@@ -86,12 +89,12 @@ Cette chanson, qui peut être considérée comme un symbole de l'album, combine 
 
 ### - Pont avec le Royaume-Uni créé par Henry Wu, 2000 Black, IG Culture -**
 
-L'enthousiasme suscité par la musique de Sabrina sur la scène britannique peut être considéré comme un symbole de la « nouvelle réévaluation des Brésiliens » à la fin des années 2010.
+L'attention enthousiaste que la musique de Sabrina a reçue de la scène britannique peut être considérée comme un symbole de la « nouvelle réévaluation brésilienne » de la fin des années 2010.
 En particulier, le remix de « Clareia » par les trois groupes suivants qui ont formé le mouvement jazz/broken beat à Londres est important.
 
 ---
 
-### **● Henry Wu（Kamaal Williams） Remix**
+### ** ● Remix de Henry Wu (Kamaal Williams) **
 
 Henry Wu était une figure centrale du mouvement de renaissance du jazz du sud de Londres, également connu sous le nom de Yussef Kamaal.
 
@@ -101,17 +104,17 @@ Son remix met l'accent sur un travail de batterie complexe dans la veine du ryth
 ・Rhodes doux
 ・Base de référence en mettant l'accent sur la syncope
 
-"Clareia" a ainsi acquis un nouveau look qui se fond naturellement sur les pistes de danse londoniennes.
+En conséquence, "Clareia" a acquis un nouveau look qui se fond naturellement sur les pistes de danse de Londres.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tGKTAHvAkG0?si=PdoogKBlxjEmegiN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### **● 2000 Black（Dego & Kaidi） Remix**
+### **Quantity 2000 Black (Dego & Kaidi) Remix**
 
 2000 Black, de Dego et Kaidi Tatham, est connu comme l'un des labels et projets les plus importants du Broken Beat.
 
-La version 2000 Black de « Clareia » est composée d'un rythme brisé plus entraînant et d'une ligne de basse épaisse, créant un beau contraste avec la voix chantée de Sabrina. Tout en héritant de la « progression d'accords fluide » que l'on peut appeler le style d'Azimuth, il est réinterprété avec la sensation funk futuriste propre à 2000 Black.
+La version 2000 Black de « Clareia » est composée d'un rythme brisé plus entraînant et d'une ligne de basse épaisse, créant un beau contraste avec la voix chantée de Sabrina. Tout en héritant de la « progression d'accords fluide » que l'on peut appeler le style d'Azimuth, il est réinterprété avec la sensation funk futuriste unique à 2000 Black.
 
 La sensation est exactement
 **« Âme du futur brésilien »**
@@ -121,7 +124,7 @@ digne d'être appelé.
 
 ---
 
-### **● IG Culture Remix**
+### **• IG Culture Remix**
 
 IG Culture est une légende du Broken Beat londonien dont l’influence musicale et culturelle est incommensurable.
 

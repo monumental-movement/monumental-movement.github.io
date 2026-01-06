@@ -17,7 +17,7 @@ Roberto Rodriguez est un DJ/producteur finlandais et fondateur du label Serenade
 
 "Moonraker Serenade EP" est sorti en 2007 sur le label Laka. La première chanson de la face B est un remix de Phonique (Michael Vater).
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Moonraker
 
@@ -26,7 +26,7 @@ B1. Moonraker (Phonique Remix)
 B2. Serenade
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m52395790850?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m52395790850?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SDsc3g0KG1s?si=jmRreuk27l8oW2nb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -18,7 +18,7 @@ Stacey Pullen, également connue sous le nom de Silent Phase, était une DJ et p
 
 Il a été publié par Transmat de Derrick May, l'un des labels techno les plus importants établis à Détroit avant 1990 (distribué par Planet E de Carl Craig), et par le label indépendant belge R&S Records. Ce CD est une édition belge.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Waterdance
 2. Body Rock
@@ -34,7 +34,7 @@ Il a été publié par Transmat de Derrick May, l'un des labels techno les plus 
 12. Forbidden Dance
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m45830593749?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m45830593749?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k6zY9Ae1qlI?si=307o2Nr5nDR0jv-a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

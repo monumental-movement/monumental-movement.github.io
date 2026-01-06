@@ -14,7 +14,7 @@ title: '[Chronique] Définition du punk et du hardcore : le tournant de la colè
 ---
 
 
-## Définition du punk et du hardcore ─ Le carrefour de la colère et de l'expression
+## Définition du punk et du hardcore : le carrefour de la colère et de l'expression
 
 Texte : mmr｜Thème : Punk/Hardcore
 

@@ -19,7 +19,7 @@ Il est devenu populaire sur la scène dance music des années 1990 et a été jo
 
 "What Should We Do" est largement connu comme une chanson qui a été soutenue par de nombreux auditeurs pour sa facilité de danse sur la piste de danse et son son unique.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. What Would We Do (Hurley's House Mix)
 
@@ -34,7 +34,7 @@ B2. What Would We Do
 B3. Read My Lips
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m86767760517?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86767760517?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OiFvCY0A8Yw?si=Kq9fc5g_cVJC9gnq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

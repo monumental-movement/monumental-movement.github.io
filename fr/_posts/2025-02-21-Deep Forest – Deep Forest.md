@@ -20,7 +20,7 @@ Deep Forest est un duo formé en 1992 par Michel Sanchez et Éric Mouquet. Il se
 Sorti en 1992, l'album a été nominé pour un Grammy Award et "Sweet Lullaby" est devenu un succès mondial.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Deep Forest
 2. Sweet Lullaby
@@ -34,7 +34,7 @@ Sorti en 1992, l'album a été nominé pour un Grammy Award et "Sweet Lullaby" e
 10. Sweet Lullaby (Ambient Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m99158480308?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m99158480308?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ovwGCpx8ecY?si=0gwiOrYT1sVmECcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

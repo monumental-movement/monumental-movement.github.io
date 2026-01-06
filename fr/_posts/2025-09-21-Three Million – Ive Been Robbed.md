@@ -19,14 +19,14 @@ Three Million est une unité formée par Larry Butler, Mark King et Wanda Butler
 
 " I've Been Robbed " est une chanson Disco/Funk/Boogie sortie par le label Cotillion en 1983. Produite par Gene Lawson et Reuben Cross.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. I've Been Robbed (Vocal)
 
 B. I've Been Robbed (Instrumental)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m79022173535?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m79022173535?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IHNovf7Q08U?si=nsNgusGhKgQRCbzo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -26,11 +26,11 @@ Tout en effectuant activement des tournées et des concerts de guérison au Japo
 
 #### Liste des chansons
 ```md
-1. Miorine, le bruit du tissage de l'eau
-2. Seijyakukyo, une région de calme
-````
+1. 水織音 - Miorine, The Sound Of Water Weaving
+2. 静寂郷 - Seijyakukyo, A Region Of Stillness
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m31252450219?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31252450219?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R_tyhvAyZV8?si=30CZB64roWuNbMVT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

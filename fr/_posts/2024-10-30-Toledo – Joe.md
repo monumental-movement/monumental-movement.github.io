@@ -19,7 +19,7 @@ Morceau de house acid jazz de Toledo (Toledo Diamond). Le producteur est Danny S
 Il est sorti en 1994 par le label indépendant américain Moonshine Music.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Joe (Joey Malcom Mix)
 
@@ -27,4 +27,4 @@ B1. Joe (T.C. Mix)
 B2. Joe (Extended Dub)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m22782567301?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m22782567301?afid=6142608987){: .button1}

@@ -16,7 +16,7 @@ title: Divers – Viennatone
 «Divers – Viennatone» est
 Il s'agit d'une œuvre publiée par le label allemand !k7 records en 1999.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Count Basic–Gotta Jazz
 
@@ -41,7 +41,7 @@ Il s'agit d'une œuvre publiée par le label allemand !k7 records en 1999.
 11. Puck Dannin–Family Affair
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m83184827201?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m83184827201?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UgOdCoAjEWE?si=fl1__B3nErk6T2jb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -22,7 +22,7 @@ Leurs chansons originales et des reprises d'autres artistes sont incluses, avec 
 
 Rodrigo y Gabriela a développé un large éventail d'activités musicales et a acquis une renommée internationale.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 CD1. Hanuman
 
@@ -63,7 +63,7 @@ DVD3. Lumbini
 DVD4. Buster Voodoo Tutorial
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m95612334096?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95612334096?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HJtOs3z_0ow?si=luH-R4GMTw10meaV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

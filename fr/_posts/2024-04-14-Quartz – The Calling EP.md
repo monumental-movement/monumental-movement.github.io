@@ -15,7 +15,7 @@ title: Quartz – L'EP appelant
 
 Quartz (Adriano Filippucci) est un DJ et producteur italien. The Calling est un morceau techno sorti en 2002 sur le label tech-trance basé à Montréal Ascend Recordings.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Calling
 
@@ -24,7 +24,7 @@ B1. Origin
 B2. Felix
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m34400004897?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m34400004897?afid=6142608987){: .button1}
 
 
 

@@ -17,7 +17,8 @@ title: '[Chronique] Haute énergie et LGBTQ : une musique de danse qui symbolise
 
 ## Musique de danse qui symbolise la libération et l'identité
 
-Texte : mmr｜Thème : Musique symbolique de « libération et solidarité » qui recoupe la culture gay américaine et l'ère de la crise du VIH/SIDA
+
+Texte : mmr｜Thème : Culture gay américaine, musique symbolique de « libération et solidarité » qui recoupe l'ère de la crise du VIH/SIDA
 
 <hr>
 
@@ -60,7 +61,7 @@ Les chansons divines de Bobby Orlando (par exemple « You Think You're a Man »)
 
 ### Relation entre les artistes représentatifs et les personnes LGBTQ
 
-**Sylvester**
+**Sylvestre**
 
 Un chanteur ouvertement gay. Leur chanson signature « You Make Me Feel (Mighty Real) » est à l’origine de Hi-NRG et est un chef-d’œuvre intemporel en tant qu’hymne gay.
 
@@ -72,9 +73,9 @@ Un chanteur ouvertement gay. Leur chanson signature « You Make Me Feel (Mighty 
 
 Une chanteuse britannique de Hi-NRG qui était tellement soutenue sur la scène des clubs qu'elle était surnommée la « reine gay ». Beaucoup de ses chansons parlent de l'amour et du désir LGBTQ.
 
-**Divine**
+**Divin**
 
-Alors qu'elle était active en tant que drag queen, elle a attiré l'attention du monde entier avec Hi-NRG. Affichant audacieusement une expression sexuelle, ils ont intégré la musique et la politique de genre.
+Alors qu'elle était active en tant que drag queen, elle a attiré l'attention du monde entier avec Hi-NRG. Ils ont affiché avec audace une expression sexuelle et ont intégré la musique et la politique de genre.
 
 **Évelyn Thomas**
 Une diva qui a défini le genre avec sa chanson signature « High Energy ». Il était extrêmement populaire dans les clubs gays et a diffusé le Hi-NRG dans le monde entier.

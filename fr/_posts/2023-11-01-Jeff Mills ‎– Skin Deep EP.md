@@ -20,7 +20,7 @@ Un morceau puissant et funky qui est un morceau techno classique.
 
 C'est un excellent disque à écouter à des volumes élevés dans un entrepôt ou dans un club underground.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Call Of The Wild
 
@@ -31,7 +31,7 @@ B1. L8
 B2. Scout
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m68002048690?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m68002048690?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hzs8AYzUKfU?si=Zmah0AWVN_kd7QeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -27,26 +27,26 @@ Musiciens participants
 
 #### Liste des chansons
 ```md
-A1. L'amour ne recommencera plus jamais.
+A1. もう愛は始まらない
 
-A2. La rue des gens
+A2. 人のストリート
 
 A3. Babylon
 
-A4. Sugar Town est une ville d'adieu.
+A4. Sugar Townはさよならの町
 
-B1. Dans un coin de Métropole
+B1. メトロポリスの片隅で
 
-B2. Feux d'artifice de fusée par une nuit au clair de lune
+B2. 月夜のロケット花火
 
-B3. Cendrillon Express
+B3. シンデレラ・エクスプレス
 
-B4. Regrets de la jeunesse
+B4. 青春のリグレット
 
-B5. Même si tu pars
-````
+B5. たとえあなたが去って行っても
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m46295874765?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46295874765?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n2hDGI7r5Mk?si=Tw3mR4JdanLmeZwv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -17,7 +17,7 @@ title: Divers – Acide Urbain
 « Divers – Urban Acid » est
 Il s'agit d'une compilation acid house publiée par le label britannique "Urban" en 1988.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Perfectly Ordinary People–Theme From P.O.P.
 
@@ -36,7 +36,7 @@ B3. The Candy Man–The Candy Man
 B4. Charm–Walk On The Wild Side
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m11742134680?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m11742134680?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QNGdn1V5vqs?si=mmSav-egFv9CGnaX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

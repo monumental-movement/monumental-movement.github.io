@@ -20,7 +20,7 @@ Luke Slater est un musicien électronique, DJ et producteur de disques britanniq
 
 En 2017, Mixmag l'a désigné comme le cinquième plus grand album techno des années 1990.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Purely
 2. Score One
@@ -40,7 +40,7 @@ En 2017, Mixmag l'a désigné comme le cinquième plus grand album techno des an
 16. Walking The Line
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m61298864776?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61298864776?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hlp0a_j28so?si=2aTwIdXIpqtwctKH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

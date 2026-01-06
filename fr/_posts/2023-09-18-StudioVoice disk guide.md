@@ -21,7 +21,7 @@ Un guide de disques complet tous genres avec plus de 500 disques. Des chroniques
 
 Total 195 pages, environ 700 photos
 
-#### Contents
+#### Contenu
 ```md
 
 Rock/Pop
@@ -37,4 +37,4 @@ World
 Contemporary
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m49392573292?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m49392573292?afid=6142608987){: .button1}

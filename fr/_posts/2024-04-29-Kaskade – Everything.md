@@ -18,7 +18,7 @@ Ryan Gary Raddon, également connu sous le nom de Kaskade, est un DJ, producteur
 
 Everything est un morceau deep house sorti en 2005 par le label de San Francisco OM Records.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Everything (Kaskade's Big Room Mix)
 A2. Everything (Original Extended Mix)
@@ -27,7 +27,7 @@ B1. I Like The Way (Original Extended Mix)
 B2. I Like The Way (Troydon Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m34772328615?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m34772328615?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wg9t_kdj3iE?si=P5VO3omd1SODcrup" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

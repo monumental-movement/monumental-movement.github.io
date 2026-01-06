@@ -19,14 +19,14 @@ Toni-Ville Henrik Virtanen, également connu sous le nom de Darude, est un produ
 
 B est un remix de JS16 (Jaakko Sakari Salovaara), connu pour avoir produit "Freestyler" du groupe hip-hop finlandais Bomfunk MC et travaillé avec Darude.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Feel The Beat
 
 B. Feel The Beat (JS16 Dark Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m34566795370?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m34566795370?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6zyx09CcHMk?si=F7nLjFdvTWIdNNqG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

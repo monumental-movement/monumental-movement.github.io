@@ -17,7 +17,7 @@ title: David Alvarado – Minuit Express
 Un CD de compilation mix house/deep house sélectionné par le DJ/producteur américain David Alvarado, qui a produit des œuvres pour des labels tels que Ovum, Peacefrog, NRK, Plastic City et Ultra.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. A:xus – Callin' U
 2. Mutabaruka –Dis Poem (Reel Houze Mix)
@@ -34,7 +34,7 @@ Un CD de compilation mix house/deep house sélectionné par le DJ/producteur am�
 13. Dubtribe Sound System – What You Feel In Your Heart
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m65513390383?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m65513390383?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eZv34AvPQXw?si=-GPQekG00ToJgt96" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

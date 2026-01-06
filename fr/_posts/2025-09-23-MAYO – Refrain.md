@@ -19,21 +19,21 @@ title: Mayo Shono – Refrain M・A・Y・O – Refrain
 
 #### Liste des chansons
 ```md
-A1. Coin de rue venteux
-A2. Bravo à hier
-A3.
-A4. Envolez-vous pour Istanbul
-A5. Anzu Koiuta
-A6. Ne me laisse pas tomber
+A1. 風の街角
+A2. 昨日に乾杯
+A3. X (エックス)
+A4. 飛んでイスタンブール
+A5. あんず恋唄
+A6. Don't Let Me Down
 
-B1. Photographe
-B2. Monument de la plage
-B3. Hanmoku
-B4. Fatigué de la ville
-B5. Lefranc
-````
+B1. フォトグラファー
+B2. 渚のモニュメント
+B3. はんもっく
+B4. 街に疲れて
+B5. ルフラン
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m38492680657?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m38492680657?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GDTniYWJk1U?si=akjdin9ocwSk9GeP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

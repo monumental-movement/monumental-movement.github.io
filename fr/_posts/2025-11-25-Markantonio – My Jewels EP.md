@@ -18,14 +18,14 @@ Marc Antonio Picone, également connu sous le nom de Markantonio, est un DJ/prod
 
 "My Jewels EP" est un morceau Techno/Minimal sorti sur le propre label de Markantonio, MKT Records en 2007. (édition promotionnelle)
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. My Jewels
 
 B. Minime
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m78170410303?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m78170410303?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I4nlA4fRDTA?si=9-FMl742E4cshuF0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

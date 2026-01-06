@@ -17,7 +17,9 @@ title: '[Chronique] Histoire complète de la culture vaporwave — histoire des 
 
 ## Introduction : Qu'est-ce que Vaporwave ?
 
+
 Texte : mmr｜Thème : Vaporwave, un mouvement qui a commencé comme un genre musical, est une vaste sphère culturelle entourant la mémoire, l'histoire, les médias et la psychologie sociale.
+
 
 Vaporwave est un phénomène culturel né vers 2010 à l’intersection de la culture Internet, des émotions post-crise financière et des images archivées du passé. Cet article synthétise l'histoire des étiquettes, l'esthétique, la structure acoustique, la théorie socioculturelle, les genres dérivés, la sémiotique, la chronologie et les illustrations, et redéfinit la vaporwave comme un « art complet né dans une ère de futur perdu ».
 
@@ -38,7 +40,7 @@ color: #fff;
 
 ## Chapitre 1 : Historique du label et contexte d'implantation
 
-### 1-1 Contexte des débuts de la vaporwave et de la culture Internet
+### 1-1 Contexte des débuts de la culture vaporwave et Internet
 
 La création de Vaporwave est étroitement liée à la culture des blogs de la fin des années 2000, à la culture de collecte d'images de Tumblr et à l'aube de l'ère des algorithmes de YouTube. En particulier, le traitement au ralenti excessif par Eccojams (Oneohtrix Point Never) est devenu le germe des genres ultérieurs et s'est imposé comme une « méthode de destruction du temps réel ».
 
@@ -58,7 +60,7 @@ Les premiers Eccojams n'étaient pas seulement des ralentissements, mais des dis
 ### 2-2 Direction de l'esthétique
 
 * **L'effondrement d'une utopie artificielle** (Utopian Virtual)
-* **Décadence, industrialisation, image destructrice du futur** (Hardvapour)
+* **Décadence, industrialisation et vision future destructrice** (Hardvapour)
 * **La douceur et l'ironie de la culture de consommation** (Future Funk)
 * **Fusion de fantômes urbains et de sons environnementaux** (Mallsoft)
 
@@ -99,7 +101,7 @@ On peut dire qu’il s’agit de techniques de reconstruction de la « matérial
 
 ### 4-1 Contexte : L'art est né à une époque d'avenir perdu
 
-Vers 2010, lorsque le sentiment d'enfermement après la crise financière et la culture d'archives d'Internet se sont superposés, la vaporwave est devenue un dispositif culturel qui reconstruisait « l'image future du passé ».
+Vers 2010, lorsque le sentiment d'enfermement après la crise financière et la culture d'archives d'Internet se sont chevauchés, la vaporwave est devenue un dispositif culturel qui reconstruisait « l'image future du passé ».
 
 ### 4-2 Sémiotique
 
@@ -174,13 +176,13 @@ graph TD
 
 Qu'est-ce que Vaporwave et sa définition principale**
 
-### **5-1　Au-delà du « genre »**
+### **5-1 Vers une existence qui transcende les « genres »**
 
 Vaporwave a été initialement traité comme un « genre mineur né sur Internet », mais
 Après plus de 10 ans de diffusion, il est devenu un dispositif culturel qui transcende les genres, comme le montre ci-dessous.
 
 * musique
-*Conception
+* conception
 * Culture des mèmes
 * Psychologie SNS
 * Critique de la société de consommation
@@ -224,7 +226,7 @@ Le mouvement a commencé comme un genre musical,
 C’est désormais devenu une immense sphère culturelle autour de la mémoire, de l’histoire, des médias et de la psychologie sociale.
 
 Et cet « art de manipuler les fantômes du passé » est
-Encore amplifié à l’ère de l’IA,
+Encore amplifié à l'ère de l'IA,
 **Nous continuerons à dessiner une nouvelle image de soi pour ceux d'entre nous qui vivent dans un « monde archivé ».**
 
 > **Définition finale : Vaporwave est une forme d'art complète à l'ère d'Internet qui commémore la vision future du passé. **

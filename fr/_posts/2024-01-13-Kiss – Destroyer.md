@@ -18,28 +18,29 @@ Kiss's Army of Hell est le quatrième album studio de Kiss, qui comprend leurs c
 
 Le producteur est Bob Ezrin, qui a travaillé avec Alice Cooper et d'autres.
 
+
 #### Liste des chansons
 ```md
-A1. Détroit Rock City
+A1. Detroit Rock City（デトロイト・ロック・シティ ）
 
-A2. Roi du monde nocturne
+A2. King Of The Night Time World（暗黒の帝王）
 
-A3. Dieu du tonnerre
+A3. God Of Thunder（雷神）
 
-A4. De grandes attentes
+A4. Great Expectations（地獄の遺産）
 
-B1. Jeunesse enflammée
+B1. Flaming Youth（燃えたぎる血気 ）
 
-B2. Douce Douleur
+B2. Sweet Pain（スウィート・ペイン）
 
-B3. Criez-le à haute voix
+B3. Shout It Out Loud（狂気の叫び）
 
-B4. Beth
+B4. Beth（ベス）
 
-B5. Est-ce que tu m'aimes
-````
+B5. Do You Love Me（ドゥ・ユー・ラヴ・ミー ）
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m24161536760?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m24161536760?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_VkUL9a-ngI?si=EDGCfMKUKFLKNqtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

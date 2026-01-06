@@ -20,14 +20,14 @@ Cydonia est un projet britannique Goa Trance de Dino Psaras, Iain Rive et Steve 
 
 A est inclus sur leur premier album « Cydonia - In Fear Of A Red Planet » (1999).
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Lightning Rods
 
 AA. King Of New York
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m46217318275?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46217318275?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kPZsS70H9o0?si=FptNpozDpYDvsXcp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

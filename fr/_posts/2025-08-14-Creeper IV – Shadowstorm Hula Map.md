@@ -19,7 +19,7 @@ Creeper est un projet de Chris Knowles, un DJ et producteur britannique Acid/Tec
 "Creeper IV – Shadowstorm / Hula / Map" est sorti en 2000 sur le label britannique acid-techno Cluster Records. Le quatrième de la série sorti sous les noms Creeper I à V.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Shadowstorm
 
@@ -27,7 +27,7 @@ AA1. Hula
 AA2. Map
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m40571568473?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40571568473?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9cjzsUYFU4Q?si=X-cImso_UGwQafBK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -42,11 +42,13 @@ color: #fff;
 > "La musique ne doit pas se limiter aux genres. Si on ouvre les oreilles, tout devient musique."
 > -David Toop
 
+
 ### Années 1970 - Entre improvisation et avant-garde
 
-S'étant établi sur la scène de l'improvisation libre londonienne, Toop a débuté sa carrière de critique tout en se produisant comme guitariste.  
-Pour lui, la musique n’était pas une forme ou un style, mais l’acte d’écoute lui-même.  
+S'étant établi sur la scène de l'improvisation libre londonienne, Toop a débuté sa carrière de critique tout en se produisant comme guitariste.
+Pour lui, la musique n’était pas une forme ou un style, mais l’acte d’écoute lui-même.
 Au cours de cette période, il avait déjà développé une attitude transcendant les frontières des genres.
+
 
 | Année | Sources sonores/artistes en vedette | Commentaire |
 |------|------|------|
@@ -59,8 +61,8 @@ Au cours de cette période, il avait déjà développé une attitude transcendan
 
 Il explore les sons environnementaux et les musiques traditionnelles de diverses régions et présente les sons eux-mêmes comme des « œuvres ».
 
-Il explore les sons environnementaux et les musiques traditionnelles de diverses régions et présente les sons eux-mêmes comme des « œuvres ».  
-Dans le contexte du boom des musiques du monde, Toop a proposé une écoute interculturelle.  
+Il explore les sons environnementaux et les musiques traditionnelles de diverses régions et présente les sons eux-mêmes comme des « œuvres ».
+Dans le contexte du boom des musiques du monde, Toop a proposé une écoute interculturelle.
 Plutôt que de consommer d’autres cultures comme « décoration », une méthodologie a émergé qui élargit l’expérience sonore.
 Il considérait véritablement la musique comme une « carte sonore du monde ».
 
@@ -74,8 +76,8 @@ Il considérait véritablement la musique comme une « carte sonore du monde ».
 
 ## Années 1990 - « Rap Attack » et critique de la culture urbaine
 
-Rap Attack est un livre innovant qui non seulement raconte l'aube du hip-hop, mais relie également la musique, la culture urbaine et les phénomènes médiatiques.  
-À peu près à la même époque, il discutait d'ambient et de jungle et s'impliquait activement dans la critique culturelle de la musique électronique.  
+Rap Attack est un livre innovant qui non seulement raconte l'aube du hip-hop, mais relie également la musique, la culture urbaine et les phénomènes médiatiques.
+À peu près à la même époque, il discutait d'ambient et de jungle et s'impliquait activement dans la critique culturelle de la musique électronique.
 On peut dire que c’est l’époque où s’impose le style de Toop, qui allie critique et sens du terrain.
 
 | Année | Sources sonores/artistes en vedette | Commentaire |
@@ -88,8 +90,8 @@ On peut dire que c’est l’époque où s’impose le style de Toop, qui allie 
 
 ### Années 2000 - Océan Sonore et libération sensorielle
 
-« Ocean of Sound », connu pour sa métaphore de « mer de son », contenait des idées qui anticipaient la propagation du streaming.  
-Le texte, qui est une fusion d'essais, de critique et de littérature, dépasse le cadre d'un livre de musique et fonctionne comme une « littérature auditive ».  
+« Ocean of Sound », connu pour sa métaphore de « mer de son », contenait des idées qui anticipaient la propagation du streaming.
+Le texte, qui est une fusion d'essais, de critique et de littérature, dépasse le cadre d'un livre de musique et fonctionne comme une « littérature auditive ».
 Ses œuvres ambiantes présentaient également un monde de sons doux et diffus.
 
 | Année | Sources sonores/artistes en vedette | Commentaire |
@@ -102,9 +104,10 @@ Ses œuvres ambiantes présentaient également un monde de sons doux et diffus.
 
 ### Depuis les années 2010 - Art sonore et archéologie de la mémoire
 
-Dans des œuvres telles que « Sinister Resonance », il explore des réflexions sur les « choses qui ne peuvent pas être entendues » et la « réverbération ».  
-Il a étendu ses activités au domaine des beaux-arts et de l'art sonore, élargissant la critique musicale à la pratique spatiale et philosophique.  
+Dans des œuvres telles que « Sinister Resonance », il explore des réflexions sur les « choses qui ne peuvent pas être entendues » et la « réverbération ».
+Il a étendu ses activités au domaine des beaux-arts et de l'art sonore, élargissant la critique musicale à la pratique spatiale et philosophique.
 À travers des thèmes tels que la mémoire, le silence et l'espace vide, il reconsidère le sens de l'oreille depuis ses racines.
+
 
 | Année | Sources sonores/artistes en vedette | Commentaire |
 |------|------|------|
@@ -116,7 +119,7 @@ Il a étendu ses activités au domaine des beaux-arts et de l'art sonore, élarg
 
 ### Conclusion - Praticien sans genre
 
-Le parcours de David Toop est une exploration d'un demi-siècle de la façon d'écouter de la musique.  
+Le parcours de David Toop est une exploration d'un demi-siècle de la façon d'écouter de la musique.
 Jazz, hip-hop, ambient, art sonore - il ne rentre dans aucun d'entre eux, mais continue plutôt d'élargir les « possibilités du son lui-même » en transcendant ces frontières.
 
 ---
@@ -124,23 +127,23 @@ Jazz, hip-hop, ambient, art sonore - il ne rentre dans aucun d'entre eux, mais c
 ### Liste des ouvrages de référence
 
 - **Auteur**
-  - [*Rap Attack* (édition révisée 1984/1991/2000)](https://amzn.to/3Ij9XIc)
-  - [*Océan de son* (1995)](https://amzn.to/3VnLh44)
-  - [*Météo hanté* (2004)](https://amzn.to/48lz4o3)
-  - [*Résonance sinistre* (2010)](https://amzn.to/3Kd5l6N)
+  - [*Rap Attack* (1984 / 1991 / 2000 改訂版)](https://amzn.to/3Ij9XIc)
+  - [*Ocean of Sound* (1995)](https://amzn.to/3VnLh44)
+  - [*Haunted Weather* (2004)](https://amzn.to/48lz4o3)
+  - [*Sinister Resonance* (2010)](https://amzn.to/3Kd5l6N)
 
 - **Œuvres musicales**
-  - *Instruments de musique nouveaux et redécouverts* (avec Max Eastley, 1975)
-  - *Cérémonies d'écran* (1990)
-  - *Musée du Fruit* (1996)
-  - *Entités Inerties Êtres Faibles* (2016)
+- *Instruments de musique nouveaux et redécouverts* (avec Max Eastley, 1975)
+- *Cérémonies d'écran* (1990)
+- *Musée du Fruit* (1996)
+- *Entités Inerties Êtres Faibles* (2016)
 
 ---
 
 ### Colonnes associées
 
-[[Chronique] Histoire du hip hop américain : image globale comprenant les régions, les clubs, les médias et les équipements](https://monumental-movement.jp/Column-Hiphop-History)
+ [【コラム】 US HipHop（アメリカヒップホップ）の歴史：地域・クラブ・メディア・機材を含めた全体像](https://monumental-movement.jp/Column-Hiphop-History)
 
-[[Chronique] Qu'est-ce que la musique d'ambiance ? Une philosophie des « sons qui existent » plutôt que des sons entendus] (https://monumental-movement.jp/Column-Ambient)
+ [【コラム】 アンビエント音楽とは何か：聴く音ではなく“存在する音”の哲学](https://monumental-movement.jp/Column-Ambient)
 
-[[Chronique] Ambient : De « écouter de la musique » à « ressentir de la musique » II](https://monumental-movement.jp/Column-Ambient2)
+ [【コラム】 アンビエント：「聴く音楽」から「感じる音楽」へII](https://monumental-movement.jp/Column-Ambient2)

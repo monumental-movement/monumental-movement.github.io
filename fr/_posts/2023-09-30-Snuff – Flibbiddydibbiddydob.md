@@ -18,7 +18,7 @@ title: Snuff – Flibbiddydibbiddydob
 Cet EP est initialement sorti au Royaume-Uni sur Workers Playtime Records en 1990 et a ensuite été réédité sur Fat Wreck Chords en août 1996.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Rods & Mockers
 
@@ -43,7 +43,7 @@ B5. Bran Flakes
 B6. In Sickness & In Health
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m21120251672?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m21120251672?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mx_z6vLGOrg?si=6Tia9s2jRH-jzv2f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

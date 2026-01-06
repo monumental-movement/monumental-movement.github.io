@@ -19,13 +19,14 @@ title: '[Chronique] La structure multicouche du son de Tokyo - la culture sonore
 
 ## Prologue : Strates de sons émises par les villes
 
+
 Texte : mmr｜Thème : Jazz à Shinjuku, culture club à Shibuya, musique indépendante à Shimokitazawa, musique électronique à Akihabara. Retraçant l'histoire et le présent des sons multicouches produits à Tokyo.
 
-La ville de Tokyo continue de modifier ses contours grâce au son.  
-Le bruit des trains, des foules, le bourdonnement des enseignes au néon, les guitares de rue et les rythmes underground.  
+La ville de Tokyo continue de modifier ses contours grâce au son.
+Le bruit des trains, des foules, le bourdonnement des enseignes au néon, les guitares de rue et les rythmes underground.
 Chaque son coexiste, composant différentes époques et différentes couches.
 
-Dans cette chronique, nous nous concentrerons sur quatre zones de Tokyo où les cultures musicales se sont particulièrement croisées : Shinjuku, Shibuya, Shimokitazawa et Akihabara, et retracerons les changements sonores de l'après-guerre à nos jours.  
+Dans cette chronique, nous nous concentrerons sur quatre zones de Tokyo où les cultures musicales se sont particulièrement croisées : Shinjuku, Shibuya, Shimokitazawa et Akihabara, et retracerons les changements sonores de l'après-guerre à nos jours.
 Il ne s'agit pas seulement d'un morceau d'histoire locale, mais d'un enregistrement du « paysage sonore » de la ville, image miroir de la société médiatisée par la musique.
 
 ---
@@ -43,16 +44,17 @@ color: #fff;
 }
 </style>
 
+
 ## Chapitre 1 : Shinjuku - Jazz City of Chaos and Freedom
 
 ### 1. Shinjuku Pit In et soirée jazz d'après-guerre
-À la fin des années 1960, les jeunes sortant du chaos de l’après-guerre se rassemblaient dans les ruelles de Shinjuku.  
-De nombreux cafés de jazz tels que Pit Inn, DUG et J sont nés et le son est devenu un symbole de liberté.  
+À la fin des années 1960, les jeunes sortant du chaos de l’après-guerre se rassemblaient dans les ruelles de Shinjuku.
+De nombreux cafés de jazz tels que Pit Inn, DUG et J sont nés et le son est devenu un symbole de liberté.
 La nuit où sonnait le saxophone était aussi la saison politique, et le jazz sonnait simultanément la colère et la libération de la ville.
 
 ### 2. Intersection de la roche et du sous-sol
 A l'époque où Shuji Terayama et Juro Kara ouvraient l'underground de Shinjuku à travers le théâtre,
-Brain Police et RC Succession ont répondu avec du rock.  
+Brain Police et RC Succession ont répondu avec du rock.
 Le live house « LOFT » a ouvert ses portes en 1976, faisant de Shinjuku une zone libre pour la musique.
 
 ---
@@ -60,12 +62,12 @@ Le live house « LOFT » a ouvert ses portes en 1976, faisant de Shinjuku une zo
 ## Chapitre 2 : Shibuya – Entre le club et la rue
 
 ### 1. L'illusion du Shibuya-kei
-Dans les années 1990, Shibuya était sous le feu des projecteurs en tant que « ville musicale connectée au monde ».  
-Un réseau de sons qui se diffuse depuis le 7ème étage de Tower Records. Pizzicato Cinq, Cornelius, Kenji Ozawa.  
+Dans les années 1990, Shibuya était sous le feu des projecteurs en tant que « ville musicale connectée au monde ».
+Un réseau de sons se propageant depuis le 7ème étage de Tower Records. Pizzicato Cinq, Cornelius, Kenji Ozawa.
 Les sensibilités pop importées d’outre-mer ont été simultanément redéfinies comme cool japonaise.
 
 ### 2. L'essor de la culture club
-Bordée de clubs tels que WOMB, Contact et Vision, tard dans la nuit, Shibuya est remplie d'impulsions électroniques.  
+Bordée de clubs tels que WOMB, Contact et Vision, tard dans la nuit, Shibuya est remplie d'impulsions électroniques.
 Une ville où se croisent house, techno et hip-hop, faisant fondre les frontières entre information et corps, numérique et analogique.
 
 ---
@@ -73,11 +75,11 @@ Une ville où se croisent house, techno et hip-hop, faisant fondre les frontièr
 ## Chapitre 3 : Shimokitazawa – La Mecque des indépendants
 
 ### 1. La démocratisation de la musique commence en studio
-À la fin des années 1980, des jeunes se rassemblaient avec des guitares à Shimokitazawa, un quartier parsemé de petits studios et de salles de concert.  
+À la fin des années 1980, des jeunes se rassemblaient avec des guitares à Shimokitazawa, un quartier parsemé de petits studios et de salles de concert.
 « Shimokita » est devenu un symbole de la musique indépendante et a été le berceau de Number Girl, ASIAN KUNG-FU GENERATION, Kururi et d'autres.
 
 ### 2. « Créez votre propre culture musicale »
-Production indépendante, ZINE et SNS sans passer par une maison de disques.  
+Production indépendante, ZINE et SNS sans passer par une maison de disques.
 Héritant de l'esprit DIY de la musique, Shimokitazawa vibre toujours avec des live house tels que BASEMENT BAR et SHELTER.
 
 ---
@@ -85,39 +87,39 @@ Héritant de l'esprit DIY de la musique, Shimokitazawa vibre toujours avec des l
 ## Chapitre 4 : Akihabara - Fusion des sons électroniques et de la culture otaku
 
 ### 1. De la techno pop au remix de chansons d'anime
-La lignée de sons électroniques construite par YMO dans les années 1980 évolue à nouveau à Akihabara dans les années 2000.  
-Musique de jeu, vocaloids, chip tunes, remix de chansons d'anime.  
+La lignée de sons électroniques construite par YMO dans les années 1980 évolue à nouveau à Akihabara dans les années 2000.
+Musique de jeu, vocaloids, chip tunes, remix de chansons d'anime.
 Bien qu'il s'agisse d'un creuset de sous-cultures, il a formé un nouveau contexte qui se connecte à la scène électronique mondiale.
 
 ### 2. Le son d'Akihabara est une « réalité augmentée »
-Une ville où « musique » et « technologie » fusionnent. Diffusion en direct, VTuber, musique AI.  
+Une ville où « musique » et « technologie » fusionnent. Diffusion en direct, VTuber, musique AI.
 Akihabara est un « terrain d'essai pop futuriste » et évolue selon une chronologie différente de celle des autres quartiers de Tokyo.
 
 ---
 
 ## Chapitre 5 : Les rythmes croisés de Tokyo
 
-Improvisation nocturne à Shinjuku, beats à Shibuya, sons de groupe à Shimokitazawa, sons électroniques à Akihabara.  
-Bien que ceux-ci aient des contextes indépendants, ils sont désormais étroitement liés les uns aux autres.  
-Un constructeur de camions élevé à Shibuya intègre l'esthétique d'Akihabara, et un chanteur de Shimokitazawa fait référence aux rythmes de jazz de Shinjuku.  
+Improvisation nocturne à Shinjuku, beats à Shibuya, sons de groupe à Shimokitazawa, sons électroniques à Akihabara.
+Bien que ceux-ci aient des contextes indépendants, ils sont désormais étroitement liés les uns aux autres.
+Un constructeur de camions élevé à Shibuya intègre l'esthétique d'Akihabara, et un chanteur de Shimokitazawa fait référence aux rythmes de jazz de Shinjuku.
 **Le son de Tokyo existe sous la forme d'un « remix multicouche ». **
 
 ---
 
 ## Chapitre 6 : Le paysage sonore comme mémoire urbaine
 
-Les bruits de la ville disparaissent.  
-Mais c’est aussi une accumulation.  
-Les réverbérations des rythmes laissés sur les murs des vieux bâtiments, les planchers des salles de concert démolies et les haut-parleurs cassés.  
+Les bruits de la ville disparaissent.
+Mais c’est aussi une accumulation.
+Les réverbérations des rythmes laissés sur les murs des vieux bâtiments, les planchers des salles de concert démolies et les haut-parleurs cassés.
 Tous constituent l’immense archive sonore qu’est Tokyo.
 
 ---
 
 ## Conclusion : Vers l'avenir de la ville musicale de Tokyo
 
-D’où viendra le prochain son de Tokyo ?  
-Musique générée par l'IA, clubs virtuels et musique live dans les rues.  
-Même si la forme peut changer, la structure d'une « ville qui parle avec le son » reste la même.  
+D’où viendra le prochain son de Tokyo ?
+Musique générée par l'IA, clubs virtuels et musique live dans les rues.
+Même si la forme peut changer, la structure d'une « ville qui parle avec le son » reste la même.
 Les nuits de Shinjuku, les clubs de Shibuya et le cyberespace d'Akihabara continueront de résonner dans le futur comme un « rythme de Tokyo ».
 
 ---
@@ -174,11 +176,11 @@ graph LR
 
 - [YMO 『Solid State Survivor』（1979）](https://amzn.to/4hooSOd)
 
-- [RC Succession "Single Man" (1976)](https://amzn.to/4qkwxkV)
+- [RCサクセション 『シングル・マン』（1976）](https://amzn.to/4qkwxkV)
 
 - [Cornelius 『Fantasma』（1997）](https://amzn.to/47Ehs64)
 
 - [Perfume 『GAME』（2008）](https://amzn.to/4nhP8ek)
 
-- [Number Girl "SAPPUKEI" (2000)](https://amzn.to/3J1qroJ)
+- [ナンバーガール 『SAPPUKEI』（2000）](https://amzn.to/3J1qroJ)
 

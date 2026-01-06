@@ -18,9 +18,10 @@ title: '[Chronique] James Chance and the Contortions : les pionniers de No Wave 
 
 ## Introduction
 
+
 Texte : mmr｜Thème : la vie de James Chance, les activités de Contortions, ainsi que la structure musicale, l'analyse des rythmes et le style d'interprétation de chaque album et chanson.
 
-À la fin des années 1970, le centre-ville de New York formait un espace musical unique où se croisaient les impulsions du punk et l’esprit d’improvisation du jazz d’avant-garde. Au fond, **James Chance and the Contortions** a poussé la fusion de l'avant-garde et du dance-punk à l'extrême.
+À la fin des années 1970, le centre-ville de New York formait un espace musical unique où se croisaient les impulsions du punk et l’esprit d’improvisation du jazz d’avant-garde. En son cœur, **James Chance and the Contortions** a poussé la fusion de l'avant-garde et du dance-punk à l'extrême.
 
 ---
 
@@ -41,7 +42,7 @@ color: #fff;
 
 ## 1. Les débuts de la vie et le parcours musical de James Chance
 
-James Chance (de son vrai nom James Siegfried) est né dans le Wisconsin, aux États-Unis, en 1953 et a étudié le piano. Influencé par le free jazz, notamment Ornette Coleman et Albert Ayler, il vise des expressions qui ne sont pas liées aux formes musicales existantes.  
+James Chance (de son vrai nom James Siegfried) est né dans le Wisconsin, aux États-Unis, en 1953 et a étudié le piano. Influencé par le free jazz, notamment Ornette Coleman et Albert Ayler, il vise des expressions qui ne sont pas liées aux formes musicales existantes.
 Il a déménagé à New York en 1975 et après avoir joué dans des premiers groupes tels que Flaming Youth et Teenage Jesus and the Jerks, il a formé **Contortions**, un groupe qui a réalisé sa vision.
 
 ---
@@ -80,11 +81,11 @@ B --> H["Lydia Lunch / Teenage Jesus and the Jerks"]
 ### Chanson représentative « Contorsion Yourself »
 
 - **Analyse structurelle** :
-  - L'intro commence par un rythme irrégulier de doubles croches à la batterie
-  - La ligne de basse est répétitive et funky, et le saxophone tourbillonne librement.
+- L'intro commence par un rythme irrégulier de doubles croches à la batterie
+- La ligne de basse est répétitive et funky, et le saxophone tourbillonne librement.
 - **Analyse des battements** :
-  - Keynote 4/4, mais le placement décalé de la caisse claire et les changements d'accent donnent toujours une impression d'oscillation.
-  - Met l'accent sur l'improvisation tout en conservant une sensation de danse
+- Keynote 4/4, mais le placement décalé de la caisse claire et les changements d'accent donnent toujours une impression d'oscillation.
+- Met l'accent sur l'improvisation tout en conservant une sensation de danse
 
 ### Chanson « Fais fondre toi-même »
 
@@ -100,7 +101,7 @@ B --> H["Lydia Lunch / Teenage Jesus and the Jerks"]
 
 - « Flexi Disc » ajoute le disco quatre sur le sol au rythme funk, en conservant une structure qui permet au public de danser.
 - Les paroles reflètent des problèmes sociaux, raciaux et identitaires
-- La ligne de basse est simple, mais il s'agit d'un saxophone et d'une guitare harmoniquement improvisés.
+- La ligne de basse est simple, mais le saxophone et la guitare harmoniquement improvisés sont impliqués.
 
 <div class="mermaid">
 
@@ -124,7 +125,7 @@ D --> G["挑発的リズム + ダンス性"]
 - La batterie utilise souvent des accents de caisse claire irréguliers pour créer une tension auditive
 - La guitare joue un rôle de bruit, pas de riff, et fonctionne comme une masse sonore.
 
-### Live in New York（1981）
+### Vivre à New York (1981)
 
 - Met l'accent sur les éléments dance/punk
 - Notes de saxophone continues et lignes de basse répétées pour susciter une réponse physique du public

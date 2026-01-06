@@ -24,7 +24,7 @@ Depuis, il a sorti de nombreux tubes à succès tels que "100% Pure Love" et "De
 
 Connu pour sa voix puissante et ses mélodies entraînantes, il montre également des performances éblouissantes lors de concerts. Il dirige actuellement son propre label, IAH Records, et contribue à la revitalisation de la scène musicale en découvrant et en encourageant des artistes émergents.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Nights In Egypt (Nerio's Dubwork Remix)
 
@@ -35,7 +35,7 @@ B1. Nights In Egypt (Swen G Remix)
 B2. Nights In Egypt (Lenny Fontana Vocal Remix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m71855515257?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m71855515257?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8AMkY45WqAI?si=pUPyGdKl7x-TagyY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

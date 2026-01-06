@@ -16,6 +16,7 @@ title: '[Chronique] Qu''est-ce que l''Ethio-Jazz (Jazz éthiopien) ? Une traject
 ---
 
 
+
 ## Comment est né l’Ethio-Jazz ?
 
 Texte : mmr｜Thème : Les origines de l'Ethio-Jazz, les techniques, le contexte historique, les chefs-d'œuvre et l'influence sur aujourd'hui
@@ -144,7 +145,7 @@ Des enregistrements d'orchestres militaires ont été réédités, ce qui a déc
 En 2005, comme la musique du film **Broken Flowers** réalisé par Jim Jarmusch.
 De nombreuses chansons de Mulatu ont été utilisées et ont attiré beaucoup d'attention.
 
-Après cet événement, les collaborations avec des artistes européens et nord-américains se multiplient.
+Après cet événement, les collaborations avec des artistes d'Europe et d'Amérique du Nord se sont multipliées,
 L'Ethio-Jazz redevient reconnu comme un genre musical international.
 
 ---
@@ -226,9 +227,9 @@ Il a ensuite été redécouvert à Washington, D.C., et a fait le tour du monde.
 
 # # 10. Guide des chefs-d'œuvre
 
-* **Mulatu of Ethiopia（1972） / Mulatu Astatke**
-* **Éthiopiques Vol. 4: Ethio Jazz & Musique Instrumentale**
-* **Hailu Mergia & the Walias Band – Tche Belew（1977）**
+* **Mulatu d'Éthiopie (1972) / Mulatu Astatke**
+* **Éthiopiques Vol. 4 : Ethio Jazz & Musique Instrumentale**
+* **Hailu Mergia & the Walias Band – Tche Belew (1977)**
 * **Alemayehu Eshete – Éthiopiques Vol. 22**
 
 ---
@@ -249,7 +250,7 @@ Après « Broken Flowers », son utilisation dans les films et à la télévisio
 
 * Les Héliocentriques
 * Fleur Noire (Belgique)
-  etc. développer une musique qui fait référence à l'Ethio-Jazz.
+etc. développer une musique qui fait référence à l'Ethio-Jazz.
 
 ---
 

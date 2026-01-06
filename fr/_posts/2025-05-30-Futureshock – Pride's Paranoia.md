@@ -24,7 +24,7 @@ Le deuxième morceau de la face A est un remix d'Ewan Pearson, qui a remixé div
 
 La face B est un remix d'Eric Prydz, DJ et producteur de Stockholm qui travaille également sous le nom de Cirez D et Pryda.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Pride's Paranoia (Full Length Version)
 A2. Pride's Paranoia (Ewan's Sticking Plaster Mix)
@@ -32,7 +32,7 @@ A2. Pride's Paranoia (Ewan's Sticking Plaster Mix)
 B. Pride's Paranoia (Eric Prydz Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m20677280102?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m20677280102?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6Jq8AvFnL4g?si=L28NA8Ik2M2kFkEh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

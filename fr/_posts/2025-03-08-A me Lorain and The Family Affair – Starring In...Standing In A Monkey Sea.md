@@ -22,7 +22,7 @@ Cet album, sorti par RCA en 1990, est le premier album de la chanteuse pop amér
 La chanson Whole Wide World, sortie en 1990, est devenue un énorme succès dans les charts dance américains et figurait sur la bande originale du film True Love.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Time You Take
 2. Letter 'C' Card
@@ -38,7 +38,7 @@ La chanson Whole Wide World, sortie en 1990, est devenue un énorme succès dans
 12. Reprise
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m26638161977?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m26638161977?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0gFzLWYVt14?si=eBYxdOGOwIvtMJ-9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

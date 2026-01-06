@@ -9,11 +9,11 @@ permalink: /fr/studio-voice-vol230/
 tags:
 - Disk Guide
 - Studio Voice
-title: Studio Voice Vol230 (Studio Voix) Bob Dylan
+title: Studio Voice Vol230 (Studio Voice)Bob Dylan
 ---
 
 
-Studio Voice Vol230 (Studio Voix) Bob Dylan
+Studio Voice Vol230 (Studio Voice)Bob Dylan
 
 Couverture : Bob Dylan
 
@@ -21,18 +21,18 @@ Bob Dylan, David Amram, Motoharu Sano, Wim Wenders, Hitomi Okawa, Mayo Thompson
 
 #### Contenu
 ```md
-□ Vibrations poétiques rugissantes Des beatniks aux rappeurs
-□ Battre maintenant
-□ Dylan en tant que poète
-□ Dylan et ses fils
-□ Poètes rock new-yorkais
-□ Fond musical pour la renaissance de la lecture de poésie
-□ Guide des enregistrements clés
-□ Interview de Motoharu Sano avec la voix de Heartbeat City
-□ J'aime ces paroles
-□ Wim Wenders Lieux par lesquels je suis passé autrefois
-□ ESPRITS À LA CROISÉE
-□ Performance de Richard D. James au Japon
-````
+□ 吠える Poetry Vibrations ビートニクからラッパーまで
+□ Beat Now
+□ 詩人としてのディラン
+□ ディランと息子たち
+□ ニューヨークのロック詩人たち
+□ ポエトリー・リーディング復活の音楽的背景
+□ 主要レコード・ガイド
+□ Voice From Heartbeat City 佐野元春インタビュー
+□ 私はこの歌詞が好きだ
+□ ヴィム・ヴェンダース かつて、通り抜けた場所
+□ SPIRITS ON THE CROSSING
+□ リチャード・D・ジェームス来日公演
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m83378534069?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m83378534069?afid=6142608987){: .button1}

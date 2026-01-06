@@ -19,7 +19,7 @@ Nora Below est une artiste basée à Berlin qui publie de la musique électro ce
 
 "Crystallize..." est une chanson abstraite/expérimentale/tech house sortie par le label électro/techno allemand BPitch en 2002.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Crystallize
 A2. These Days
@@ -28,7 +28,7 @@ B1. Trace
 B2. Thursday
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m99606920455?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m99606920455?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z0qtZCCn_w0?si=aI5ywEnAlEKEFsAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -19,7 +19,7 @@ Matériel utilisé : Emu Synthesizer, Moog IIIC, Prophet 5, ARP Odyssey, Oberhei
 
 Version originale de 1981 par Hideki Matsutake.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Intro
 
@@ -27,7 +27,7 @@ A2. Unit
 
 A3. Domino Dance
 
-A4. (Convulsion de la nature)
+A4. (天変地異) Convulsion Of Nature
 
 A5. XY?
 
@@ -40,7 +40,7 @@ B3. Person To Person
 B4. Logic
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m66419316264?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m66419316264?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6slB80QStbA?si=jqnjVOeQimSQKs2e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

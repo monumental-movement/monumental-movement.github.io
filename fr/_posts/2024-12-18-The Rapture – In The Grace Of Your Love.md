@@ -21,7 +21,7 @@ Ils mélangent divers genres musicaux tels que le dance punk, le post-punk, l'ac
 
 Sorti en 2011 par DFA Records, « In The Grace Of Your Love » est le troisième et dernier album studio de The Rapture.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Sail Away
 2. Miss You
@@ -36,7 +36,7 @@ Sorti en 2011 par DFA Records, « In The Grace Of Your Love » est le troisième
 11. It Takes Time To Be A Man
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m73702880151?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m73702880151?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0d_ijro_PPQ?si=tMlx--dEITNLeFDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

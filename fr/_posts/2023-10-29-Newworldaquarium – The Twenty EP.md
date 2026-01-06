@@ -17,7 +17,7 @@ Newworldaquarium (NWAQ), également connu sous le nom de Jochem Peteri, actif so
 
 Ce disque est sorti en 2006 par le prestigieux label "Delsin", célèbre pour son son Détroit.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Introduction
 
@@ -30,7 +30,7 @@ B1. Rox
 B2. The Twenty
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m48201041722?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m48201041722?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X8jJzS380Pg?si=VOsfle2pxHsl5AnI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
