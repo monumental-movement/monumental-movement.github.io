@@ -15,6 +15,7 @@ title: '[Spalte] Erweiterung des Bärenschadens und der Schalleinwirkung'
 
 ## 1. Einleitung: Aktueller Stand der Bärenschäden und die Bedeutung von Schall
 
+
 Text: mmr | Thema: Eine Analyse der in den letzten Jahren zunehmenden Schäden durch Bären unter dem Gesichtspunkt der Auswirkungen von Lärm und Verhaltenskontrolle. Untersuchung der Rolle von Sounddesign im Zusammenleben von Mensch und Bär
 
 In den letzten Jahren haben die durch Bären verursachten Schäden in Japan rapide zugenommen. Es gibt etwa 1.000 Fälle von Ernteschäden pro Jahr, und die Schäden durch Menschen haben sich in den letzten 10 Jahren etwa verdoppelt (Wildtierschadensstatistik 2024 des Umweltministeriums). Die bisherigen physikalischen Maßnahmen reichen nicht aus und es bedarf nachhaltiger Schadensbegrenzungsmaßnahmen.
@@ -36,14 +37,15 @@ color: #fff;
 }
 </style>
 
+
 ## 2. Ökologie und Verhaltensmerkmale von Bären
 
 ### 2.1 Hauptbärenarten und Verbreitung
 
-- **Asiatischer Schwarzbär (Ursus thibetanus)**: Kommt in Honshu, Shikoku und Kyushu vor, Körperlänge 120–150 cm, gutes Baumverhalten, Allesfresser.  
+- **Asiatischer Schwarzbär (Ursus thibetanus)**: Kommt in Honshu, Shikoku und Kyushu vor, Körperlänge 120–150 cm, gutes Baumverhalten, Allesfresser.
 - **Braunbär (Ursus arctos yesoensis)**: Hokkaido, 180–250 cm lang, groß, frisst auch Fische und Kleintiere.
 
-Beide Arten sind nachtaktiv, aber während der Jagdsaison im Frühling und Herbst sind auch tagsüber Aktivitäten zu beobachten.
+Beide Arten sind nachtaktiv, aber während der Jagdsaison im Frühjahr und Herbst sind auch tagsüber Aktivitäten zu beobachten.
 
 ### 2.2 Höreigenschaften und Reaktion auf Geräusche
 
@@ -79,7 +81,7 @@ Mit der Zunahme von Obstplantagen und Nusswäldern kommt es immer häufiger vor,
 
 ### 3.3 Auswirkungen des Klimawandels
 
-Aufgrund des Rückgangs des Schneefalls und der Schwankungen des Fruchtwachstums im zeitigen Frühjahr ist es wahrscheinlicher, dass sie in Zeiten der Nahrungsmittelknappheit menschliche Siedlungen aufsuchen.
+Aufgrund des Rückgangs des Schneefalls und der Schwankungen des Fruchtwachstums im zeitigen Frühjahr ist es wahrscheinlicher, dass sie in Zeiten der Nahrungsmittelknappheit menschliche Siedlungen besuchen.
 
 ### 3.4 Schadensstatistik nach Regionen (2020–2024)
 
@@ -124,7 +126,7 @@ G[高周波電子音] --> H[実験的回避]
 
 - **Hokkaido-Obstgarten (2015–2018)**: Invasionsrate durch den Einsatz von Feuerwerkskörpern um 40 % reduziert
 
-- **Kyushu elektronischer Klangversuch (2019–2021)**: Kurzfristige Vermeidung durch den Einsatz von Hochfrequenzgeräten, langfristige Gewöhnung erfolgt
+- **Kyushu elektronischer Klangversuch (2019–2021)**: Kurzfristige Vermeidung durch den Einsatz von Hochfrequenzgeräten, langfristige Gewöhnung tritt ein
 
 - **Demonstration von Tohoku-KI-Sprechern (2020–2023)**: Erfolgsquote der Warnung vor der Bäreninvasion 65 %
 
@@ -210,9 +212,9 @@ D --> E[被害軽減・安全確保]
 
 ### Referenzen/Materialien
 
-- [Broschüre erstellt vom Ministerium für Land- und Forstwirtschaft und Fischerei „Bitte seien Sie vorsichtig vor Bären“] (https://www.maff.go.jp/j/seisan/tyozyu/higai/tyuuikanki/attach/pdf/index-12.pdf)
-– [„Handbuch zur Reaktion auf Bärenbefall – überarbeitete Ausgabe – (Umweltministerium)“] (http://www.env.go.jp/nature/choju/docs/docs5-4a/index.html)
-- [„Richtlinien für die Erstellung spezifischer Wildtierschutz- und Managementpläne (Bärenausgabe) Ministerium für Umwelt“](https://www.env.go.jp/nature/choju/plan/plan3-2c/)
-- [Website des Umweltministeriums „Verschiedene Informationen und Initiativen zu Bären“](http://www.env.go.jp/nature/choju/effort/effort12/)
+- [農林水産省作成リーフレット「クマにご注意下さい」](https://www.maff.go.jp/j/seisan/tyozyu/higai/tyuuikanki/attach/pdf/index-12.pdf)
+- [「クマ類の出没対応マニュアル－改定版－（環境省）」](http://www.env.go.jp/nature/choju/docs/docs5-4a/index.html)
+- [「特定鳥獣保護・管理計画作成のためのガイドライン（クマ類編）環境省」](https://www.env.go.jp/nature/choju/plan/plan3-2c/)
+- [環境省 WEB サイト「クマに関する各種情報・取組」](http://www.env.go.jp/nature/choju/effort/effort12/)
 
 ---

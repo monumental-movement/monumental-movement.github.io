@@ -23,7 +23,7 @@ Im Jahr 2002 veröffentlichte er sein Debüt-Soloalbum „Justified“, das welt
 
 2013 nahm er seine Musikkarriere mit dem Album „The 20/20 Experience“ wieder auf und wurde vom Time Magazine zum zweiten Mal zu einem der „100 einflussreichsten Menschen der Welt“ gewählt.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Like I Love You (Album Version)
 
@@ -34,7 +34,7 @@ B1. Like I Love You (Extended Club Mix I)
 B2. Like I Love You (Extended Club Mix II)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m72848446961?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72848446961?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8NUj0B1IoiM?si=m25YnUvOMt-ZEi7N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

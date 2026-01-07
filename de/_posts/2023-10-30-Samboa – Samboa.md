@@ -13,9 +13,9 @@ title: Samboa – Samboa
 ---
 
 
-Dieses Album ist eine Neuauflage des zweiten Albums „Samboa“ des brasilianischen Jazz-Duos Sambôa, das 1983 veröffentlicht wurde.
+Dieses Album ist eine Neuauflage des zweiten Albums „Samboa“, das 1983 vom brasilianischen Jazzduo Sambôa veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Ze Bede
 
@@ -38,7 +38,7 @@ B4. Aurora
 B5. Mane Cangaia
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m50258668911?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m50258668911?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3QRgl3azc1o?si=xieWxqmGqe-XlseO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -19,7 +19,7 @@ title: Sven Vath – Fusion
 
 Das Album enthält Originaltitel und Remixe, die ihren einzigartigen Stil und ihr Talent widerspiegeln. Seine DJ-Fähigkeiten und Produktionsfähigkeiten vereinen sich zu einer einzigartigen und dynamischen Welt der Technomusik.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Fusion
 
@@ -42,7 +42,7 @@ Das Album enthält Originaltitel und Remixe, die ihren einzigartigen Stil und ih
 10. Blue Spliff
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m95442512304?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95442512304?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Idk_yNSjOa4?si=0nqeThRZbbds7GiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

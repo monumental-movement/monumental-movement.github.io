@@ -16,7 +16,7 @@ title: '[Kolumne] Die Schnittstelle zwischen Hard Rock, orientalischer Philosoph
 
 ## „West“ und „Ost“ im harten Fels versteckt
 
-Text: mmr｜Thema: Erforschung der Beziehung zwischen Hardrock, östlicher Philosophie und Mystik anhand der Beispiele von Led Zeppelin und Deep Purple
+Text: mmr | Thema: Erforschung der Beziehung zwischen Hardrock, östlicher Philosophie und Mystik anhand der Beispiele von Led Zeppelin und Deep Purple
 
 Hardrock ist ein bedeutendes Rockgenre, das in den späten 1960er- bis 1970er-Jahren eine explosionsartige Entwicklung erlebte. Seine Musikalität zeichnet sich durch die kühne Einbeziehung östlicher Philosophie und mystischer Elemente sowie westlichem Machoismus und Stärke aus.
 
@@ -86,22 +86,22 @@ Diese Eigenschaften vermitteln dem Hörer ein „außerweltliches Erlebnis“ un
 
 ## Verwandte Links
 
-* [Suche nach Hardrock-Meisterwerken auf Amazon](https://amzn.to/4gzcD0N)
-* [Hardrock-Playlist auf Spotify anhören](https://open.spotify.com/)
-* [Live-Aufnahmen von Led Zeppelin auf YouTube ansehen](https://www.youtube.com/results?search_query=led+zeppelin+live)
+*  [Amazonでハードロック名盤を探す](https://amzn.to/4gzcD0N)
+*  [Spotifyでハードロックプレイリストを聴く](https://open.spotify.com/)
+*  [YouTubeでレッド・ツェッペリンのライブ映像を見る](https://www.youtube.com/results?search_query=led+zeppelin+live)
 
 
 ---
 
 ## Einfluss von Hardrock auf KI-Musik
 
-In der heutigen Zeit entwickeln sich die **Soundtrack-Produktion** und die **KI-Musikgenerierung** mithilfe von KI weiter. Die „mystischen Akkordfolgen“ und die „Einführung orientalischer Tonleitern“, die man im Hardrock findet, können der KI beigebracht werden und geben Hinweise für die Erstellung einzigartiger Songs.
+In der heutigen Zeit entwickeln sich die **Soundtrack-Produktion** und die **KI-Musikgenerierung** mithilfe von KI weiter. Die „mystischen Akkordfolgen“ und die „Einführung orientalischer Tonleitern“, die man im Hard Rock findet, können der KI beigebracht werden und geben Hinweise für die Erstellung einzigartiger Songs.
 
 ### Tatsächliches Anwendungsbeispiel
 
 * Metal-Sound mit orientalischen Tonleitern → Perfekt für Spiel-Hintergrundmusik
 * Drohnensound, der eine geheimnisvolle Stimmung erzeugt → Für Filmtrailer
-* Filmischer, KI-generierter Soundtrack → Wird auf Science-Fiction- und Fantasy-Werke angewendet
+* Filmischer, KI-generierter Soundtrack → Wird auf Science-Fiction-Werke und Fantasy angewendet
 
 ---
 
@@ -110,7 +110,7 @@ In der heutigen Zeit entwickeln sich die **Soundtrack-Produktion** und die **KI-
 **F1: ​​Was ist der Unterschied zwischen Hard Rock und Heavy Metal? **
 A1: Hardrock ist eine Erweiterung des Bluesrocks und behält ein starkes Gespür für Groove- und Rock'n'Roll-Elemente. Heavy Metal hingegen ist aggressiver und legt eher Wert auf Riffs und Geschwindigkeit.
 
-**F2: In welchen spezifischen musikalischen Elementen taucht das östliche Denken auf? **
+**F2: In welchen spezifischen musikalischen Elementen kommt orientalisches Denken vor? **
 A2: Wir drücken „Exotik“ und „Mystik“ aus, indem wir orientalische Tonleitern wie pentatonische Tonleitern und Ragas (indische Musikmodi) verwenden.
 
 **F3: Kann Hardrock mit KI-Musikgenerierung nachgebildet werden? **
@@ -130,6 +130,7 @@ Hard Rock ist mehr als nur „Loud Rock“; Es handelt sich um ein einzigartiges
 
 ### Verwandte Spalten
 
-🔗 [[Kolumne] Geschichte der Schnittstelle von Hardrock- und Game-Kultur](https://monumental-movement.jp/Column-Hard-Rock-Game)
 
-🔗 [[Kolumne] Hardrock- und Autokultur: Ein weiterer Rock'n'Roll, gespielt vom Klang eines Motors](https://monumental-movement.jp/Column-Hard-Rock-Car-Motorcyle)
+🔗 [【コラム】 ハードロックとゲーム文化の交差史](https://monumental-movement.jp/Column-Hard-Rock-Game)
+
+🔗 [【コラム】 ハードロックと自動車文化：エンジン音が奏でるもう一つのロックンロール](https://monumental-movement.jp/Column-Hard-Rock-Car-Motorcyle)

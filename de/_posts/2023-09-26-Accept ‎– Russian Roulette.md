@@ -22,7 +22,7 @@ Dieses Album ist bekannt für seine schweren Gitarrenriffs, seinen kraftvollen G
 „Russian Roulette“ ist ein Klassiker für Accept-Fans und gibt Ihnen einen Vorgeschmack auf den Heavy Metal der 80er.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. T.V. War
 
@@ -45,7 +45,7 @@ B4. Man Enough To Cry
 B5. Stand Tight
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m79383927346?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m79383927346?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0kSXuCXacOA?si=AAC4Lklo1oxIzG0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

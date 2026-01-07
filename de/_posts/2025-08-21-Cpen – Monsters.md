@@ -19,7 +19,7 @@ Chris Penny, auch bekannt als CPEN, ist ein Elektronik-/House-Produzent, der als
 „Monsters“ ist ein Deep House/Tech House-Song, der 2006 auf dem Label Memorabilia veröffentlicht wurde.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Monsters (Original Mix)
 
@@ -27,7 +27,7 @@ B1. Monsters (DJ Mr. Gil & Ricardo Motta Remix)
 B2. Monsters (Mondino Remix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m55407425290?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m55407425290?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GNyvKcJAFqY?si=UYCCauXWSIVA1xte" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

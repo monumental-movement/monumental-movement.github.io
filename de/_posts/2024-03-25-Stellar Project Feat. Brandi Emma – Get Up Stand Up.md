@@ -18,11 +18,11 @@ Stellar Project ist ein House/Dance-Projekt des italienischen Produzenten Stefan
 
 Side A ist ein Remix des italienischen House/Techno-DJ-Duos Phunk Investigation.
 
-Der erste Titel auf der B-Seite ist ein Remix des dänischen Produzenten Lars Frederiksen und Søren Weiles Trance-Projekt F&W.
+Der erste Titel auf Seite B ist ein Remix des dänischen Produzenten Lars Frederiksen und Søren Weiles Trance-Projekt F&W.
 
 Der zweite Song auf Seite B ist ein Remix des britischen DJs Paul Jackson.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Get Up Stand Up (Phunk Investigation Vocal Mix)
 
@@ -31,7 +31,7 @@ B1. Get Up Stand Up (F&W Remix)
 B2. Get Up Stand Up (Paul Jackson's Head Banger Remix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m14094369381?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m14094369381?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XM-RRHx0t20?si=s218iIZvNKDTuHdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

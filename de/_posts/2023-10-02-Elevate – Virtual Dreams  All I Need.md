@@ -8,7 +8,7 @@ layout: post
 permalink: /de/elevate-virtual-dreams-all-i-need/
 tags:
 - Happy Hardcore
-title: Elevate – Virtual Dreams  All I Need
+title: Elevate – Virtuelle Träume, alles was ich brauche
 ---
 
 
@@ -16,14 +16,14 @@ Seite A, „Virtual Dreams“, bietet einen kraftvollen 909-Drum-Sound, gefolgt 
 
 Virtual Dreams ist ein kraftvoller Titel und ein Muss.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Virtual Dreams
 
 B. All I Need
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m28222074126?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m28222074126?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RPHkMDp2kD4?si=Syl9fFsQ6R3uUfEd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

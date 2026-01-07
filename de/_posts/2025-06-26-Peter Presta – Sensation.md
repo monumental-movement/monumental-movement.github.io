@@ -21,14 +21,14 @@ Peter Presta ist ein DJ, Produzent und Remixer aus Brooklyn. Er hat mit verschie
 
 Die B-Seite ist ein Remix von Carlos Cardenales, auch bekannt als Little Carlos.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Sensation
 
 B. Sensation (Little Carlos Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m67991904481?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m67991904481?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h7-D2gM1eLk?si=OOpJDlwcdljSRXXz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

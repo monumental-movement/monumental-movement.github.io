@@ -15,9 +15,9 @@ title: Orquesta De La Luz – De La Luz
 
 „De La Luz“ ist das Debütalbum der Salsa-Band Orquesta de la Luz, das 1990 veröffentlicht wurde.
 
-Der erste Song, Salsa caliente del Japón (Heiße Salsa aus Japan), stand 11 Wochen lang auf Platz eins der Billboard-Latin-Charts.
+Der erste Song, Salsa caliente del Japón (Hot Salsa aus Japan), stand elf Wochen lang auf Platz eins der Billboard-Latin-Charts.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Salsa Caliente Del Japon
 
@@ -40,7 +40,7 @@ Der erste Song, Salsa caliente del Japón (Heiße Salsa aus Japan), stand 11 Woc
 10. There's Nothing Better Than Love
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m99958650751?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m99958650751?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gXdBszUca9o?si=RnCcmmMUHsoz-jSV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,7 +9,7 @@ permalink: /de/column-westcoast-hiphop-history/
 tags:
 - Hiphop
 - Rap
-title: '[Kolumne] Überblick über den Westküsten-Hip-Hop – von seinen Anfängen bis
+title: '[Kolumne] Überblick über den Westküsten-Hip-Hop – von seinen Ursprüngen bis
   zum Underground'
 ---
 
@@ -18,7 +18,7 @@ title: '[Kolumne] Überblick über den Westküsten-Hip-Hop – von seinen Anfän
 
 Text: mmr｜Thema: Von der Geburt des Westküsten-Hip-Hop bis zur Gegenwart, Produzenten, Labels, Ost-West-Konflikt, Meisterwerke, visueller Ausdruck und Modeveränderungen
 
-Der Westküsten-Hip-Hop begann mit Block-Party- und Funk-Beats, und während er sich zur Mainstream-Musik ausweitete, hat er immer auch Underground-Kreativität einbezogen. Dieser Artikel fasst Veränderungen bei wichtigen Persönlichkeiten, Produzenten, Labels, visueller Ästhetik und Mode nach Epoche sowie akademische Referenzen und Diskographie zusammen.
+Der Westküsten-Hip-Hop begann mit Block-Party- und Funk-Beats, und während er sich in die Mainstream-Musik ausweitete, hat er immer auch Underground-Kreativität einbezogen. Dieser Artikel fasst Veränderungen bei wichtigen Persönlichkeiten, Produzenten, Labels, visueller Ästhetik und Mode nach Epoche sowie akademische Referenzen und Diskographie zusammen.
 
 ---
 
@@ -38,20 +38,22 @@ color: #fff;
 
 
 
+
 ## 1970er-1980er: Ursprünge und frühe Innovationen
 
 * **Repräsentativer Produzent**: Egyptian Lover, früher Dr. Dre (Weltklasse-Wreckin’-Cru-Zeit)
-* **Major-Labels**: Priority Records, Ruthless Records (spät)
+* **Major Labels**: Priority Records, Ruthless Records (spät)
 * **Kultureller Hintergrund**: Es besteht eine starke Verbindung zwischen den Straßen von Los Angeles und der Gang-Gesellschaft (Crips, Bloods) und es wurden Ausdrücke geboren, die den Realismus betonen.
 * **Video/Mode**: Hauptsächlich Low-Budget-MVs. Kangol, Adidas und lokale Sneaker sind die Grundstile.
 
 **Empfohlene Alben**
 
+
 | Album | Künstler | Amazon-Link | Empfohlene Punkte |
 |----------|-------------|-------------|----------------|
-| *Rhyme Pays* (1987) | Ice‑T | [Amazon](https://amzn.to/46NqVaQ) | Ein wichtiges Werk, das den Grundstein für Gangsta Rap legte |
-| *Straight Outta Compton* (1988) | N.W.A. | [Amazon](https://amzn.to/4neTnsc) | Ein kontroverses Werk, das die Gesellschaft erschütterte. Ikone der Westküste |
-| *Auf dem Nil* (1984) | Der ägyptische Liebhaber | [Amazon](https://amzn.to/3VsfDCE) | Eine herausragende Fusion aus Elektro und Rap |
+| *Rhyme Pays* (1987) | Ice‑T | [Amazon](https://amzn.to/46NqVaQ) | ギャングスタ・ラップの基礎を築いた重要作 |
+| *Straight Outta Compton* (1988) | N.W.A | [Amazon](https://amzn.to/4neTnsc) | 社会を揺るがした問題作。西海岸の象徴 |
+| *On the Nile* (1984) | The Egyptian Lover | [Amazon](https://amzn.to/3VsfDCE) | エレクトロとラップの融合が際立つ一枚 |
 
 ---
 
@@ -59,7 +61,7 @@ color: #fff;
 
 * **Repräsentative Produzenten**: Dr. Dre, DJ Quik, Battlecat
 * **Große Labels**: Death Row Records, Priority, Ruthless
-* **Kultureller Kontext**: G-Funk war eng mit der Lowrider- und Autokultur verbunden, mit seinem 70er-Jahre-Funk-Sampling und dem dicken Synthesizer-Bass.
+* **Kultureller Hintergrund**: G-Funk war eng mit der Lowrider- und Autokultur verbunden, mit seinem 70er-Jahre-Funk-Sampling und dem dicken Synthesizer-Bass.
 * **Ost-West-Konflikt**: Der Konflikt zwischen Ost- und Westküste verschärft sich und führt zur Tragödie von 2Pac und The Notorious B.I.G.
 * **Video/Mode**: MVs mit Lowridern, Stränden und den Straßen von South Central werden immer beliebter. Dickies, Chuck Taylor und Bandanas sind ikonisch.
 
@@ -67,9 +69,9 @@ color: #fff;
 
 | Album | Künstler | Amazon-Link | Empfohlene Punkte |
 |----------|-------------|-------------|----------------|
-| *The Chronic* (1992) | Dr. Dre | [Amazon](https://amzn.to/42IAyVR) | Das Denkmal, das G-Funk begründete |
-| *Doggystyle* (1993) | Snoop Doggy Dogg | [Amazon](https://amzn.to/4naENSj) | Ein Meisterwerk, das mit seinem sanften Fluss die Westküste in die ganze Welt getragen hat |
-| *All Eyez on Me* (1996) | 2Pac | [Amazon](https://amzn.to/47T8DGd) | Ein Meisterwerk eines Doppelalbums. 2Pacs Meisterwerk |
+| *The Chronic* (1992) | Dr. Dre | [Amazon](https://amzn.to/42IAyVR) | G-Funkを確立した金字塔 |
+| *Doggystyle* (1993) | Snoop Doggy Dogg | [Amazon](https://amzn.to/4naENSj) | スムースなフロウで西海岸を世界に広めた傑作 |
+| *All Eyez on Me* (1996) | 2Pac | [Amazon](https://amzn.to/47T8DGd) | ダブルアルバムの大作。2Pacの代表作 |
 
 
 ---
@@ -85,8 +87,8 @@ color: #fff;
 
 | Album | Künstler | Amazon-Link | Empfohlene Punkte |
 |----------|-------------|-------------|----------------|
-| *Madvillainy* (2004) | Verrückter Bösewicht | [Amazon](https://amzn.to/3Kbp4ny) | Ein Underground-Meisterwerk, das Experimentierfreudigkeit und Perfektion vereint |
-| *Der Dokumentarfilm* (2005) | Das Spiel | [Amazon](https://amzn.to/4guXSMq) | Eine Wiederbelebung, die sich wie ein Nachfolger von Dr. Dre | anfühlt
+| *Madvillainy* (2004) | Madvillain | [Amazon](https://amzn.to/3Kbp4ny) | 実験性と完成度を兼ね備えた地下名盤 |
+| *The Documentary* (2005) | The Game | [Amazon](https://amzn.to/4guXSMq) | Dr. Dreの後継を感じさせる復権作 |
 
 
 ---
@@ -102,29 +104,30 @@ color: #fff;
 
 | Album | Künstler | Amazon-Link | Empfohlene Punkte |
 |----------|-------------|-------------|----------------|
-| *guter Junge, m.A.A.d Stadt* (2012) | Kendrick Lamar | [Amazon](https://amzn.to/4pp320C) | Struktur und Erzählung wie ein filmisches Epos |
-| *To Pimp a Butterfly* (2015) | Kendrick Lamar | [Amazon](https://amzn.to/42IAWDN) | Fusion aus Jazz/Funk und Gesellschaftskritik |
+| *good kid, m.A.A.d city* (2012) | Kendrick Lamar | [Amazon](https://amzn.to/4pp320C) | 映画的叙事詩のような構成と物語性 |
+| *To Pimp a Butterfly* (2015) | Kendrick Lamar | [Amazon](https://amzn.to/42IAWDN) | ジャズ／ファンクと社会批評の融合 |
 
 
 ---
 
 ## Filmliste
 
+
 | Filmtitel | Jahr | Amazon-Link |
 |--------------|----|--------------|
 | *Boyz n the Hood* | 1991 | [Amazon](https://amzn.to/3Ke8a7J) |
 | *Menace II Society* | 1993 | [Amazon](https://amzn.to/46dujM2) |
-| *Über dem Rand* | 1994 | [Amazon](https://amzn.to/3W3RmCU) |
-| *Direkt aus Compton* | 2015 | [Amazon](https://amzn.to/4pu6DuB) |
-| *Alle Augen auf mich* | 2017 | [Amazon](https://amzn.to/4gCSMxU) |
+| *Above the Rim* | 1994 | [Amazon](https://amzn.to/3W3RmCU) |
+| *Straight Outta Compton* | 2015 | [Amazon](https://amzn.to/4pu6DuB) |
+| *All Eyez on Me* | 2017 | [Amazon](https://amzn.to/4gCSMxU) |
 
 ---
 
 ## Referenzen/weiterführende Literatur
 
-* [Jeff Chang „Can’t Stop Won’t Stop: Eine Geschichte der Hip-Hop-Generation“](https://amzn.to/4gCxTmv)
-* [Eithne Quinn „Nuthin‘ but a „G“ Thang: The Culture and Commerce of Gangsta Rap“](https://amzn.to/4pxcP4X)
-* [Cheryl Keyes „Rapmusik und Straßenbewusstsein“](https://amzn.to/3IuNrMj)
+* [Jeff Chang『Can’t Stop Won’t Stop: A History of the Hip‑Hop Generation』](https://amzn.to/4gCxTmv)
+* [Eithne Quinn『Nuthin’ but a “G” Thang: The Culture and Commerce of Gangsta Rap』](https://amzn.to/4pxcP4X)
+* [Cheryl Keyes『Rap Music and Street Consciousness』](https://amzn.to/3IuNrMj)
 * „The Source“ „XXL“ „OG Magazine“ Archivartikel (ausgewählt)
 
 ---
@@ -149,7 +152,7 @@ color: #fff;
 
 | Album | Amazon-Link |
 |----------|--------------|
-| *Ich gegen die Welt* (1995) | [Amazon](https://amzn.to/46rHIPl) |
+| *Me Against the World* (1995) | [Amazon](https://amzn.to/46rHIPl) |
 | *All Eyez on Me* (1996) | [Amazon](https://amzn.to/47T8DGd) |
 
 ---
@@ -173,7 +176,7 @@ flowchart TD
 
 ## Zusammenfassung
 
-Westküsten-Hip-Hop entstand in den späten 1970er-Jahren aus der Straßenkultur von Los Angeles und entwickelte sich durch den Aufstieg von Gangsta-Rap und G-Funk in den 1980er- und 1990er-Jahren zu einem globalen Musiktrend.  
+Westküsten-Hip-Hop entstand in den späten 1970er-Jahren aus der Straßenkultur von Los Angeles und entwickelte sich durch den Aufstieg von Gangsta-Rap und G-Funk in den 1980er- und 1990er-Jahren zu einem globalen Musiktrend.
 Low-Budget-Musikvideos, einzigartige Modestile und Verbindungen zur Lowrider-Kultur schufen einen authentischen Ausdruck der Westküste.
 
 Seit den 2000er Jahren hat die Vielfalt mit dem Erfolg unabhängiger Underground-Acts wie Madlib und The Game zugenommen. Darüber hinaus sind Kendrick Lamar und andere Künstler mit weltweitem Einfluss aufgetreten, die SNS und das Internet voll ausnutzen, und ihre Lieder und visuellen Ausdrucksformen mit bewussten Botschaften bilden einen neuen Trend im Westküsten-Hip-Hop.
@@ -185,6 +188,6 @@ Der Hip-Hop der Region ist mehr als nur ein Musikgenre, er beeinflusst weiterhin
 
 ### Verwandte Spalten
 
-🔗 [[Kolumne] East Coast Hip Hop Überblick – Von der Bronx nach Brooklyn und in die Welt“](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)
+🔗 [【コラム】 東海岸ヒップホップ概史 — ブロンクスからブルックリン、そして世界へ"](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)
 
-🔗 [[Kolumne] Geschichte des US-Hip Hop: Gesamtbild einschließlich Regionen, Clubs, Medien und Ausrüstung](https://monumental-movement.jp/Column-Hiphop-History)
+🔗 [【コラム】 US HipHop（アメリカヒップホップ）の歴史：地域・クラブ・メディア・機材を含めた全体像](https://monumental-movement.jp/Column-Hiphop-History)

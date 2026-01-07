@@ -18,9 +18,9 @@ Luke Slater ist ein britischer Elektronikmusiker, DJ und Plattenproduzent, der s
 
 „Freek Funk“ ist ein Techno-Album, das 1997 vom britischen Techno- und Electronica-Label NovaMute veröffentlicht wurde. Es enthält den Hit „Love“.
 
-Im Jahr 2017 wurde es von Mixmag zum fünftbesten Techno-Album der 1990er Jahre gekürt.
+Im Jahr 2017 wurde es von Mixmag zum fünftgrößten Techno-Album der 1990er Jahre gekürt.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Purely
 2. Score One
@@ -40,7 +40,7 @@ Im Jahr 2017 wurde es von Mixmag zum fünftbesten Techno-Album der 1990er Jahre 
 16. Walking The Line
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m61298864776?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61298864776?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hlp0a_j28so?si=2aTwIdXIpqtwctKH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

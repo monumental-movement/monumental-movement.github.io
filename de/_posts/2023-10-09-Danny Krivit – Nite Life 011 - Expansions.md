@@ -13,11 +13,11 @@ title: Danny Krivit – Nite Life 011 – Erweiterungen
 ---
 
 
-Slammin' und Jammin' jazziger House von einem der erfahrensten Discjockeys New Yorks. Danny Krivit war bis heute in der New Yorker Disco-Szene von Paradise Garage über Danceteria bis hin zu Save the Robots und Limelight aktiv. Jeden Sonntag spielt er seine „Body & Soul“-Residency.
+Slammin' und Jammin' jazziger House von einem der erfahrensten Discjockeys New Yorks. Danny Krivit war in der New Yorker Discoszene aktiv, von Paradise Garage über Danceteria und Save the Robots bis hin zu Limelight und bis heute. Jeden Sonntag spielt er seine „Body & Soul“-Residency.
 
 CD1 hat ein leicht eklektisches Gefühl und CD2 ist voller hochwertiger Sounds. Besonders wenn Klubfilter, Funk Against Jazz, Dennis Ferrer und Nigel Hayes zusammengemischt werden, entsteht eine live instrumentenlastige Konzertatmosphäre. Dinge wie Celebrate und insbesondere „Blackwater“ von Octave One und Peckham Royalty mit ihren fantastischen Keyboards machen dies zu etwas Besonderem.
 
-#### Tracklist
+#### Trackliste
 ```md
 1-01. The Vogado Projects Vol. 1–Mas Fuerte Que El Sol
 
@@ -45,10 +45,10 @@ CD1 hat ein leicht eklektisches Gefühl und CD2 ist voller hochwertiger Sounds. 
 
 2-01. Block 16 feat. Jhelisa–Find An Oasis
 
-2-02. Pal Joey–Harmony usw.
-````
+2-02. Pal Joey–Harmonyなど
+```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m68151858517?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m68151858517?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w_kf4lcxRxM?si=YscxLdX00pWYjn6N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

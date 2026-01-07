@@ -17,14 +17,15 @@ title: Holen Sie sich New-Age-Werke
 
 <hr>
 
-### Schawkie Roth – Dance Of The Tao
+### Schahawkie Roth – Tanz des Tao
 <a href="https://jp.mercari.com/item/m91290785378?afid=6142608987"><img src="../assets/images/Schawkie%20Roth%20%E2%80%93%20Dance%20Of%20The%20Tao.webp"></a>
 
-Charakteristik: Schahawkie Roth ist ein auf Heilung, Meditation, Entspannungsmusik und akustischen Jazz spezialisierter Komponist und gilt als einer der Pioniere der spirituellen New-Age-Musik.
+Charakteristik: Schahawkie Roth ist ein Komponist, der sich auf Heilung, Meditation, Entspannungsmusik und akustischen Jazz spezialisiert hat und als einer der Pioniere der spirituellen New-Age-Musik gilt.
+
 
 Charme: Dieses Stück ist eine Fusion aus östlicher Philosophie und westlicher Musik und eignet sich perfekt für Meditation und Entspannung.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Heaven On Earth (excerpt)
 A2. Waves Follows Wave
@@ -35,7 +36,8 @@ B2. Bass Bamboo Meditation
 B3. Dance of Bamboo
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m38252270171?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m38252270171?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -47,18 +49,20 @@ B3. Dance of Bamboo
 ### Fumio Miyashita – Meisou
 <a href="https://jp.mercari.com/item/m31252450219?afid=6142608987"><img src="../assets/images/Fumio%20Miyashita%20-%20Meisou.webp"></a>
 
+
 Features: Ein Werk von Tomio Miyashita, einem Musiker, Musiktherapeuten und Synthesizer-Spieler aus der Präfektur Nagano.
 
 Reiz: Mit Synthesizer-Klängen, die tiefe meditative Zustände fördern und zur Entspannung von Geist und Körper geeignet sind.
 
 #### Trackliste
-„md
-1. Miorine, Der Klang des Wasserwebens
+```md
+1. 水織音 - Miorine, The Sound Of Water Weaving
 
-2. Seijyakukyo, eine Region der Stille
-````
+2. 静寂郷 - Seijyakukyo, A Region Of Stillness
+```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m31252450219?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m31252450219?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -66,14 +70,16 @@ Reiz: Mit Synthesizer-Klängen, die tiefe meditative Zustände fördern und zur 
 <hr>
 <br>
 
-### Kitaro – Astral Trip
+### Kitaro – Astralreise
 <a href="https://jp.mercari.com/item/m99540440507?afid=6142608987"><img src="../assets/images/Kitaro%20%E2%80%93%20Astral%20Trip.webp"></a>
+
 
 Features: Kitaro spielte Anfang der 1970er Jahre Keyboard als Mitglied der japanischen Progressive-Rock-Band „Far East Family Band“ und entwickelte später eine Solokarriere.
 
+
 Reiz: Eine fantastische Klangwelt mit Synthesizern breitet sich aus und sorgt für angenehme Entspannung.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. By The Sea Side
 A2. Soul Of The Sea
@@ -88,7 +94,8 @@ B4. Kaiso
 B5. Astral Trip
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m99540440507?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m99540440507?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -104,7 +111,7 @@ Features: Dies ist ein Album von Patrick Bernhardt, das vom kanadischen Label �
 
 Reiz: Mit Synthesizer-Klängen, die tiefe meditative Zustände fördern und zur Entspannung von Geist und Körper geeignet sind.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Le Chant De L'universel/The Song Of The Universal Light
 A1. 1er Mouv./Part One
@@ -118,7 +125,8 @@ B2. Musique Des Spheres D'om Harmony/Harmony Of The Om Spheres
 B3. Transcendastral Voyage
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m83639772653?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m83639772653?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -127,15 +135,17 @@ B3. Transcendastral Voyage
 <br>
 
 
-### Steve Reid – Bamboo Forest
+### Steve Reid – Bambuswald
 <a href="https://jp.mercari.com/item/m74371119901?afid=6142608987"><img src="../assets/images/Steve%20Reid%20%E2%80%93%20Bamboo%20Forest.webp"></a>
+
 
 Features: Ein Werk des amerikanischen Jazz-Perkussionisten und Produzenten Stephen Reed.
 
-Charme: Spirituelle Musik, die Jazzelemente einbezieht, dieses Werk lässt Sie eins mit der Natur werden.
+
+Charme: Spirituelle Musik, die Elemente des Jazz einbezieht und Ihnen das Gefühl gibt, eins mit der Natur zu sein.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Amazon Mist
 2. Catch The Wind
@@ -149,7 +159,8 @@ Charme: Spirituelle Musik, die Jazzelemente einbezieht, dieses Werk lässt Sie e
 10. Balloon Safari
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m74371119901?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m74371119901?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -158,14 +169,14 @@ Charme: Spirituelle Musik, die Jazzelemente einbezieht, dieses Werk lässt Sie e
 <br>
 
 
-### Tony O'Connor – Hidden Forest
+### Tony O’Connor – Hidden Forest
 <a href="https://jp.mercari.com/item/m61126062656?afid=6142608987"><img src="../assets/images/Tony%20OConnor%20%E2%80%93%20Hidden%20Forest.webp"></a>
 
 Features: Eine Doppel-LP aus dem Jahr 1996 des australischen Ambient-/Entspannungsmusik-Schöpfers Tony O'Connor.
 
 Charme: Die harmonische Kombination aus Naturklängen und Synthesizern sorgt für einen wohltuenden Raum, der sich wie ein Waldbad anfühlt.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Hidden Forest
 2. I Wonder
@@ -176,7 +187,8 @@ Charme: Die harmonische Kombination aus Naturklängen und Synthesizern sorgt fü
 7. Remember
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m61126062656?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m61126062656?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -184,14 +196,14 @@ Charme: Die harmonische Kombination aus Naturklängen und Synthesizern sorgt fü
 <hr>
 <br>
 
-### Deep Forest – Deep Forest
+### Tiefer Wald – Tiefer Wald
 <a href="https://jp.mercari.com/item/m99158480308?afid=6142608987"><img src="../assets/images/Deep%20Forest%20%E2%80%93%20Deep%20Forest.webp"></a>
 
 Features: Ein 1992 vom französischen Duo Deep Forest veröffentlichtes Album. Es zeichnet sich durch einen Weltmusikstil aus, der ethnische, elektronische, Dance-Beats und Chillout-Beats mischt.
 
 Reiz: Klänge, die eine Vielfalt ethnischer Musik beinhalten, nehmen Sie mit auf eine Reise durch verschiedene Kulturen.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Deep Forest
 2. Sweet Lullaby
@@ -205,7 +217,8 @@ Reiz: Klänge, die eine Vielfalt ethnischer Musik beinhalten, nehmen Sie mit auf
 10. Sweet Lullaby (Ambient Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m99158480308?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m99158480308?afid=6142608987){: .button1}
 
 
 #### Youtube

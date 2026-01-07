@@ -19,16 +19,17 @@ Jerome Isma-Ae ist ein Trance/Techno/Progressive-House-DJ aus München, Deutschl
 
 Derzeit wohnhaft in Houston, Texas, USA.
 
+
 Florian Holzinger, auch bekannt als Woodbay, ist Musikproduzent und Sounddesigner mit den Schwerpunkten Elektronik, House und Funk.
 
-Giorgio Moroder (richtiger Name: Giovanni Giorgio Moroder) wurde am 26. April 1940 in St. Ulrich, Bozen, Italien geboren.
+Giorgio Moroder (bürgerlicher Name: Giovanni Giorgio Moroder) wurde am 26. April 1940 in St. Ulrich, Bozen, Italien geboren.
 
 Ein Musiker aus Italien, der Komponist, Arrangeur, Produzent, Performer und DJ ist. Er gilt als einer der innovativsten und einflussreichsten Persönlichkeiten der elektronischen und Disco-Musik.
 
 Als Gründer des Labels Oasis und der Musicland Studios schuf er in den 1970er Jahren den Münchner Sound (oft verwechselt mit dem späteren Italo-Disco) und produzierte ikonische Werke mit Donna Summer und Roberta Kelly.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Jerome Isma-Ae & Woodbay – Get On Down (inyourfacemix)
 Written-By, Producer – Florian Holzinger, Jerome Isma-Ae
@@ -38,7 +39,7 @@ Remix – Roger Sanchez
 Written-By, Producer [Original Production] – Giorgio Moroder
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m22121488416?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m22121488416?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LYCDi-HFe34?si=3hYuG5MJz0q9AoSp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

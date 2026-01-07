@@ -19,7 +19,7 @@ Es ist erstaunlich und sogar besser als die Originalversion.
 
 Allein dieses Lied wird Sie dazu bringen, es Ihrer Plattensammlung hinzuzufügen, daher kann ich es nur wärmstens empfehlen.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Simple Minds–New Gold Dream
 
@@ -45,7 +45,7 @@ D1. Heaven 17–Let Me Go
 D2. Yazoo–Don't Go
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m66807575600?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m66807575600?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gkCYh1x44G8?si=PHuaBCNVDI59kxRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

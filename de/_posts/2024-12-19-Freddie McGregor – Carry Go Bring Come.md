@@ -19,7 +19,7 @@ Mit der Veröffentlichung von „Bobby Babylon“ in den frühen 1980er Jahren e
 
 „Carry Go Bring Come“ ist ein Reggae-Album, das 1994 mit dem Produzenten Augustus „Gussie“ Clarke veröffentlicht wurde. Der 14. Titel ist ein Bonustrack, der nur in der japanischen Version verfügbar ist.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. This Carry Go Bring Come (Chatty Chatty Mouth)
 2. Want You To Be There
@@ -37,7 +37,7 @@ Mit der Veröffentlichung von „Bobby Babylon“ in den frühen 1980er Jahren e
 14. Flirty Flirty Riddim
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m16728705425?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m16728705425?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CLsbP6djl4U?si=ZV8OHbHAH6d5qHZ3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

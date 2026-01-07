@@ -17,7 +17,7 @@ Veröffentlicht im Jahr 1998. Der Song ist dynamisch und energiegeladen und vere
 
 Das Lied enthält berühmte Künstler wie Mos Def (oder Yasiin Bey), Beatnuts und Fat Joe. Jeder Künstler bringt seinen eigenen, einzigartigen Stil und Flow in den Song ein und macht ihn zu einer Hip-Hop-Hymne.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1  On The Mic (Clean Version) Featuring – A.L., Al' Tariq, Black Attack, Cuban Link, Juju, Problemz
 
@@ -32,7 +32,7 @@ B2  Trouble In The Water (Instrumental)
 B3  5 Seconds (Album Version) Featuring – Black Attack
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m19041732477?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m19041732477?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kyejD5wwQEE?si=zfMMHESvi3W51L99" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

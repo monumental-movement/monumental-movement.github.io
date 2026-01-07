@@ -18,7 +18,7 @@ Eine Kassette von Kiss' fünftem Studioalbum „Hell's Rock Fire“, das 1976 vo
 
 Die Songs „Hard Luck Woman“ und „Calling Dr. Love“ wurden Hit-Singles. Es war auch das erste Kiss-Album, das nicht von Ace Frehley als Autor erwähnt wurde, und wurde erneut von Eddie Kramer produziert, der 1975 die Doppel-CD Kiss Live produzierte.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. I Want You
 A2. Take Me
@@ -33,7 +33,7 @@ B4. Hard Luck Woman
 B5. Makin' Love
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m33007072750?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33007072750?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yEioRXSgdsk?si=z5LHPeQMfV66ZPPa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

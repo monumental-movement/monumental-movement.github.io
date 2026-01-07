@@ -18,7 +18,7 @@ Wrench wurde im Juli 1992 von Shige, Azusa Sakamoto, Tomohiro Matsuda und Fujima
 
 Bei diesem Album handelt es sich um eine Doppel-LP, die im Jahr 2000 veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1  Sound Wave
 
@@ -59,7 +59,7 @@ D1  Passion
 D2  Blood Type Mysterious
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m26534523251?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m26534523251?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lJ1D_vYYAug?si=Y5Ga3kjLFF9wfMxy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

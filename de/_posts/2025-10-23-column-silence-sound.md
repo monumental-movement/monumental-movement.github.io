@@ -15,13 +15,14 @@ title: '[Kolumne] Stille Musik: Den Akt des Zuhörens neu entdecken'
 
 ## Prolog: Was hören wir in Musik ohne Ton?
 
+
 Text: mmr | Thema: Nach John Cages „4 Minuten und 33 Sekunden“ wurde Stille zu einem weiteren Aspekt der Musik. Was ist Zuhören? Betrachtet man die Rekonstruktion der Beziehung zwischen Mensch und Welt, wie sie durch Musik ohne Ton erzählt wird
 
-Als John Cages „4'33“ 1952 in New York uraufgeführt wurde, war das Publikum ratlos und aufgeregt.  
-Der Pianist spielt keine einzige Note. Der Veranstaltungsort war jedoch voller Geräusche: Husten, knarrende Stühle und der Wind draußen.  
+Als John Cages „4'33“ 1952 in New York uraufgeführt wurde, war das Publikum ratlos und aufgeregt.
+Der Pianist spielt keine einzige Note. Der Veranstaltungsort war jedoch voller Geräusche: Husten, knarrende Stühle und der Wind draußen.
 In diesem Moment wurde klar, dass Musik nicht nur aus komponierten Klängen besteht, sondern aus dem Akt des Zuhörens selbst.
 
-Cage spricht. „Es gibt keine Stille. Alles ist in Ordnung.“  
+Cage spricht. „Es gibt keine Stille. Alles ist in Ordnung.“
 Diese Philosophie erweiterte den Bereich der Musik erheblich und wurde auf die Klangkunst des 21. Jahrhunderts, Field Recording und Ambient-Musik übertragen.
 
 ---
@@ -39,24 +40,25 @@ color: #fff;
 }
 </style>
 
+
 ## Kapitel 1: Was ist Ton hören? — Zuhören als sensorische Umschulung
 
-Wir hören in unserem täglichen Leben zu oft unbewusst zu.  
-Smartphone-Benachrichtigungstöne, U-Bahn-Ansagen, Straßenlärm.  
+Wir hören in unserem täglichen Leben zu oft unbewusst zu.
+Smartphone-Benachrichtigungstöne, U-Bahn-Ansagen, Straßenlärm.
 Sie treten in den Hintergrund des Bewusstseins und werden nur noch zu einer Information.
 
-Cage und die Komponisten der Musique Concrète ermutigten uns jedoch, das Wiederentdecken des Zuhörens zu üben.  
+Cage und die Komponisten der Musique Concrète ermutigten uns jedoch, das Wiederentdecken des Zuhörens zu üben.
 Zuhören ist ein Akt der Erneuerung der Beziehung zur Welt.
 Es ist eine Haltung, „die Klänge zu akzeptieren, die bereits existieren“, anstatt sich für einen Klang zu entscheiden.
 
-Diese Einstellung wurde später auf Brian Enos Ambient-Musik übertragen.  
+Diese Haltung wurde später auf Brian Enos Ambient-Musik übertragen.
 er spricht. „Ambient-Musik ist Musik, die mit der Umgebung existiert, auch wenn man ihr nicht bewusst zuhört.“
 
 ---
 
 ## Kapitel 2: Genealogie der Stille – Vom Käfig zur zeitgenössischen Klangkunst
 
-Nach Cage wurde „Stille“ zu einer Art musikalischem Material.  
+Nach Cage wurde „Stille“ zu einer Art musikalischem Material.
 Unten finden Sie eine Chronologie, die seine Genealogie zeigt.
 
 <div class="mermaid">
@@ -73,10 +75,11 @@ timeline
 
 </div>
 
-In diesem Trend wurde Stille nicht als „leerer Raum“, sondern als „Möglichkeit“ behandelt.
+In diesem Trend wird Stille nicht als „leerer Raum“, sondern als „Möglichkeit“ betrachtet.
 Mit anderen Worten: Wenn der Akt des Zuhörens zum Thema wird, überschreitet die Musik ihren Rahmen. **
 
 ---
+
 
 ## Kapitel 3: Musik als Umgebung – die Geburt von Klanglandschaften
 
@@ -86,7 +89,7 @@ Dies war ein Versuch, Klang als Teil der Gesellschaft, Kultur und der natürlich
 „Wir leben in einer Klanglandschaft. Zuhören bedeutet, die Umgebung zu verstehen.“
 
 Das geschäftige Treiben der Stadt, das Rauschen des Waldes, das Plätschern des Flusses – alles aufzuzeichnen und zu bearbeiten wurde zu einem musikalischen Akt für sich.
-Diese Idee setzt sich in der heutigen Field-Recording-Kultur und bei Künstlern fort, die Umgebungsgeräusche integrieren (Ryuichi Sakamoto, Chris Watson usw.).
+Diese Idee setzt sich in der heutigen Field-Recording-Kultur und bei Künstlern fort, die Umgebungsgeräusche einbeziehen (Ryuichi Sakamoto, Chris Watson usw.).
 
 ---
 
@@ -95,7 +98,7 @@ Diese Idee setzt sich in der heutigen Field-Recording-Kultur und bei Künstlern 
 Der Akt des Zuhörens ist nicht nur eine Sensation.
 Es ist auch eine ethische Haltung, anderen gegenüber offen zu sein.
 
-In der Musiktherapie wird das „Hören von Klängen“ häufig mit einem Training zum „Akzeptieren anderer“ kombiniert.
+Im Bereich der Musiktherapie wird das „Hören von Klängen“ häufig mit einem Training zum „Akzeptieren anderer“ kombiniert.
 Auch der Soziologe James Calhoun weist darauf hin, dass „die Stille im öffentlichen Raum verschwindet.“
 Ständig Hintergrundmusik abspielen, ständiger Informationsfluss.
 Haben wir Angst vor der „Zeit ohne Ton“?
@@ -132,7 +135,7 @@ graph TD
 </div>
 
 Wie dieses Diagramm zeigt, ist „Zuhören“ kein passiver Akt, sondern ein kreativer Akt.
-Stille fungiert nicht als „Raum“ zum Musizieren, sondern als Raum des Nachdenkens und der Empathie.
+Stille fungiert nicht als Raum zum Musizieren, sondern als Raum des Nachdenkens und der Empathie.
 
 ---
 
@@ -148,6 +151,7 @@ Musik verbindet uns wieder mit der Welt.
 ---
 
 ## Referenzchronologie: Erweiterung der Philosophie von Stille und Klang
+
 
 | Jahr | Veranstaltungen | Hauptpersonen |
 | ----- | -------------------- | ------------- |

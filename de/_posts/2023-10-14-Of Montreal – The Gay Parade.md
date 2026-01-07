@@ -16,24 +16,24 @@ title: Von Montreal – Die Gay Parade
 of Montreal ist eine amerikanische Rockband, die 1996 in Georgia unter der Leitung von Kevin Burns gegründet wurde.
 
 #### Trackliste
-„md
-1. Altbekannter Weg
-2. Lebenslustige Nonne
-3. Tulpenbaroo
+```md
+1. Old Familiar Way
+2. Fun Loving Nun
+3. Tulip Baroo
 4. Jacques Lamure
-5. Der Marsch der Schwulenparade
-6. Ordentliches kleines häusliches Leben
-7. Eine Sammlung von Gedichten über Wasser
-8. Y, der qualvolle und vage Vogel, der lautstark sein verbotenes Stelldichein genießt
-9. Der autobiografische Opa
-10. Der Miniaturphilosoph
-11. Mein Freund werde ich sein
-12.Mein Lieblingsboxer
-13. Ratschläge eines geschiedenen Herrn an seinen Junggesellenfreund, der über eine Heirat nachdenkt
-14. Das Leben eines Mannes blitzt vor seinen Augen auf, während er und seine Frau von einer Klippe ins Meer fahren und mehr
-````
+5. The March Of The Gay Parade
+6. Neat Little Domestic Life
+7. A Collection Of Poems About Water
+8. Y The Quale And Vaguely Bird Noisily Enjoying Their Forbidden Tryst 
+9. The Autobiographical Grandpa
+10. The Miniature Philosopher
+11. My Friend Will Be Me
+12. My Favorite Boxer
+13. Advice From A Divorced Gentlemen To His Bachelor Friend Considering Marriage
+14. A Man's Life Flashing Before His Eyes While He And His Wife Drive Off A Cliff Into The Oceanなど
+```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m71222444726?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m71222444726?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T4aLrkrnLNc?si=8w34sKNKY0yy2kN7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

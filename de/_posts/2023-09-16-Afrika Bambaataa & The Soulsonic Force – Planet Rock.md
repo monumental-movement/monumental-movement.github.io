@@ -22,7 +22,7 @@ Mit dem Aufkommen von Breakdance und Straßenkultur erlangte es enorme Popularit
 
 „Planet Rock“ gilt weithin als das Signaturwerk von Afrika Bambaataa und The Soulsonic Force, deren innovativer Sound und bahnbrechender Ansatz einen bedeutenden Platz in der Geschichte der Hip-Hop- und Tanzmusik einnehmen.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Planet Rock (Vocal)
 
@@ -31,7 +31,7 @@ A2. Bonus Beats I
 B. Planet Rock (Instrumental)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m43312143517?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43312143517?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9J3lwZjHenA?si=QupLAgEukCBfZPyb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -19,7 +19,7 @@ Special Others ist eine japanische Jam-Band, deren Stil eine Mischung aus improv
 Dieses Mini-Album wurde 2007 von Victor veröffentlicht.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Star
 2. Surdo
@@ -29,7 +29,7 @@ Dieses Mini-Album wurde 2007 von Victor veröffentlicht.
 6. Aului 80 - Self Remix
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m26886931878?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m26886931878?afid=6142608987){: .button1}
 
 #### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/INZo6eIFzuc?si=G63hMbf7RxlK7Hnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

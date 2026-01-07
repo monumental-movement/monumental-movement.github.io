@@ -22,7 +22,7 @@ Ihre Songs zeichneten sich durch eingängige Melodien, elektronische Beats und d
 
 Auch nach ihrer Auflösung im Jahr 2004 hatten sie großen Einfluss auf die deutsche Elektropop-Szene und ihre Musik wird von Fans elektronischer und Popmusik immer noch geliebt.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Allein (Augen Zu Und Durch)
 
@@ -38,7 +38,7 @@ Vocals [Additional Vox] – Darkfarmer
 B2. Allein (Original)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m18806136180?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m18806136180?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NWym4qjCOdc?si=xOXe6BT1pKmYFd-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

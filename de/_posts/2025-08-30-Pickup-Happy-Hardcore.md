@@ -23,9 +23,9 @@ title: Holen Sie sich Happy Hardcore-Werke
 
 Veröffentlicht: 1994/Niederländisches Happy-Hardcore-Meisterwerk
 
-Features: Ein Klassiker, der mit seiner eingängigen Melodie und positiven Energie die Eurodance-/Rave-Szene der 90er im Sturm eroberte. Auch heute noch wird es von vielen Clubs und Raves geliebt.
+Features: Ein Klassiker, der mit seiner eingängigen Melodie und positiven Energie die Eurodance-/Rave-Szene der 90er im Sturm eroberte. Es wird auch heute noch von vielen Clubs und Raves geliebt.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Wonderfull Days (Rotterdam Mix)
 
@@ -33,7 +33,8 @@ B1. Wonderfull Days (Trance Mix)
 B2. Wonderfull Days (Radio Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m75641849316?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m75641849316?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -43,14 +44,14 @@ B2. Wonderfull Days (Radio Mix)
 
 
 
-### Scooter – Call Me Mañana
+### Scooter – Nenn mich Mañana
 <a href="https://jp.mercari.com/item/m42566110205?afid=6142608987"><img src="../assets/images/Scooter%20%E2%80%93%20Call%20Me%20Manana.webp"></a>
 
 Veröffentlicht: 1998, Single aus „No Time to Chill“
 
-Charakteristik: Fröhlicher, Hardcore-orientierter Trance, der durch den starken Sample-Einsatz von „James Brown Is Dead“ (L.A. Style) glänzt. Ein einzigartiges Stück der Übersee-Band Scooter.
+Eigenschaften: Fröhlicher, Hardcore-orientierter Trance, der durch den starken Sample-Einsatz von „James Brown Is Dead“ (L.A. Style) glänzt. Ein einzigartiges Stück der Übersee-Band Scooter.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Call Me Mañana (Heavy Horses Extended)
 
@@ -58,7 +59,8 @@ B1. Bramfeld
 B2. Call Me Mañana (Heavy Horses Radio)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m42566110205?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m42566110205?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -75,7 +77,7 @@ B2. Call Me Mañana (Heavy Horses Radio)
 Features: Stellt die Originalversion von „She’s The Sun“ „Sunrise (Ratty’s Inferno)“ dar. Eine leidenschaftliche Bodenbahn, die im Club großartig aussieht.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Sunrise (Here I Am) (Club Mix)
 
@@ -83,7 +85,8 @@ B1. Sunrise (Here I Am) (Dub Mix)
 B2. Sunrise (Here I Am) (Instrumental)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m87341186255?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m87341186255?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -92,14 +95,14 @@ B2. Sunrise (Here I Am) (Instrumental)
 <br>
 
 
-### Phase vs. DJ Sniper Feat. Karen – Forevermore / Ignition Sequence
+### Phase vs. DJ Sniper Feat. Karen – Forevermore / Zündsequenz
 <a href="https://jp.mercari.com/item/m40097768990?afid=6142608987"><img src="../assets/images/Phase%20vs.%20DJ%20Sniper%20Feat.%20Karen%20%E2%80%93%20Forevermore%20Ignition%20Sequence.webp"></a>
 
 Veröffentlicht vom britischen Label Sonic Boom
 
 Features: Eine kraftvolle EP aus fröhlichem Hardcore x Hardcore/Techno-Fusion, mit dem Titelsong „Forevermore“ und der Techno-angehauchten „Ignition Sequence“.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Forevermore (5am Mix)
 
@@ -107,7 +110,8 @@ B1. Ignition Sequence Start
 B2. Forevermore (Original)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m40097768990?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m40097768990?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -116,21 +120,22 @@ B2. Forevermore (Original)
 <br>
 
 
-### DJ Breeze – Jump A Little Higher
+### DJ Breeze – Springe ein bisschen höher
 <a href="https://jp.mercari.com/item/m45158763223?afid=6142608987"><img src="../assets/images/DJ%20Breeze%20%E2%80%93%20Jump%20A%20Little%20Higher.webp"></a>
 
 Künstler: Der beliebte britische DJ/Produzent Mark Breeze
 
 Eigenschaften: Ein Song, der von vielen Clubs unterstützt wird, mit einer mitreißenden Melodie und einem energiegeladenen Beat, sowie Samples aus „Kick Your Legs In The Air“ und „Don’t Make Me Wait (Special Version)“.
 
-#### Tracklist
+#### Trackliste
 ```md
 a. Jump A Little Higher (Brisk Remix)
 
 b. Jump A Little Higher
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m45158763223?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m45158763223?afid=6142608987){: .button1}
 
 
 #### Youtube

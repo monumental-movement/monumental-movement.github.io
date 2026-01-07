@@ -17,6 +17,7 @@ title: '[Kolumne] Die Flugbahn von Dubstep – eine urbane Klanglandschaft, die 
 
 ## Gehen Sie über den Hörsinn hinaus, um den Körper und den Raum zu erschüttern und die Zuhörer miteinander zu verbinden
 
+
 Text: mmr｜Thema: Die Geburt und der kulturelle Einfluss von Dubstep
 
 <hr>
@@ -39,7 +40,7 @@ Dubstep wird durch den physischen Druck von Bassklängen unterstützt, so sehr, 
 
 - **Rhythmus**: Vom 2-Step abgeleitete Broken-Beat-Struktur. Der Kick ist kein viertaktiger Schlag, aber die Snare wird auf dem dritten Schlag betont.
 
-- **Bass**: Charakterisiert durch tiefen Subbass, verzerrte Basslinie und sogenannten „Wobble Bass“.
+- **Bass**: Gekennzeichnet durch tiefen Subbass, verzerrte Basslinie, sogenannter „Wobble Bass“.
 
 - **Stimmung**: Dunkles, minimalistisches oder experimentelles Sounddesign.
 
@@ -65,7 +66,8 @@ Ab etwa 2008 verbreitete sich Dubstep über den britischen Untergrund hinaus und
 
 ---
 
-- **Pause in Amerika**: Ein aggressiveres und auffälligeres „Brostep“ ist erschienen, angeführt von Skrillex.
+- **Break in America**: Ein aggressiveres und auffälligeres „Brostep“ ist erschienen, angeführt von Skrillex.
+
 
 - **Remix-Kultur**: Dubstep-Elemente wurden in Pop, Rock und Hip-Hop eingebracht und erreichten so ein breites Publikum.
 
@@ -75,7 +77,7 @@ Ab etwa 2008 verbreitete sich Dubstep über den britischen Untergrund hinaus und
 
 ### Dubstep in Japan
 
-Ende der 2000er Jahre wurde es in Japan allmählich populär und Goth-Trad erregte weltweite Aufmerksamkeit. Sein Sound hat eine einzigartige Entwicklung durchgemacht, indem er den Kontext von Noise-/experimenteller Musik einbezieht und gleichzeitig eine Verbindung zur Londoner Szene herstellt.
+In den späten 2000er Jahren wurde es in Japan allmählich populär und Goth-Trad erregte weltweite Aufmerksamkeit. Sein Sound hat eine einzigartige Entwicklung durchgemacht, indem er den Kontext von Noise-/Experimentalmusik einbezieht und gleichzeitig eine Verbindung zur Londoner Szene herstellt.
 Durch Veranstaltungen in Clubs in Shibuya und Veröffentlichungen inländischer Labels entstand eine einzigartige japanische Dubstep-Kultur.
 
 <hr>

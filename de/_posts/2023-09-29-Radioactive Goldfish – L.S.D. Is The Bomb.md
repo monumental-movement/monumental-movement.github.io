@@ -21,7 +21,7 @@ Darüber hinaus weist dieser Titel in der Mitte den verheerendsten Tonartwechsel
 
 Auf jeden Fall einen Besuch wert für Fans des Old-School-Rave-Sounds von 1990 bis 1992.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. L.S.D Is The Bomb
 
@@ -32,7 +32,7 @@ B1. Electrode
 B2. L.S.D Is The Bomb (Dub #2)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m54052820347?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m54052820347?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gMM9LS16L7U?si=rZ1wbp-Zs1Uaqilx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

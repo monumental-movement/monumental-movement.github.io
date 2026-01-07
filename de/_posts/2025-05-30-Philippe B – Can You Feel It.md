@@ -19,14 +19,14 @@ title: Philippe B – Kannst du es fühlen?
 
 Bei dieser Platte handelt es sich um eine Remix-Version des niederländischen DJs/Produzenten Armin van Buuren und Paul Hutsch, die 2002 auf dem Label Alpha+ veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Can You Feel It
 
-(*Einseitig)
-````
+(※シングルサイド)
+```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m99723660776?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m99723660776?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gYoDmqiua48?si=HuPF1aCDOtmomzK9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

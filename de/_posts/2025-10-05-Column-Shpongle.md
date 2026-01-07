@@ -18,6 +18,7 @@ title: '[Kolumne] Shpongle: Reinkarnation des Klangs und Reise des Bewusstseins'
 
 Text: mmr｜Thema: Philosophie des akustischen Universums, gezeichnet von Raja Ram und Simon Posford
 
+
 Shpongle ist ein monumentales psychedelisches Electronica/Psychedelic-Projekt rund um Simon Posford und Raja Ram. 1996 gegründet, inspiriert von der totalen Sonnenfinsternis in Indien, präsentierten sie eine „Audio-Reise“, die ethnisches Sampling, akustische Instrumentierung und meisterhafte Studioproduktion vereint. Ihr Klangbild unterscheidet sich vom Club-Trance und lädt den Zuhörer zu einer Geschichte ein, die Zeit und Raum überschreitet.
 
 ---
@@ -33,6 +34,7 @@ background-color: #111;
 color: #fff;
 }
 </style>
+
 
 ## Prolog: Klang ist die Tür zur Erleuchtung
 
@@ -51,7 +53,7 @@ Ihr Klang ist ein einzigartiges „Klangmandala“, das Bewusstsein, Meditation,
 ## Kapitel 1: Geburt von Shpongle und historischer Hintergrund von Twisted Records
 
 In den 1990er Jahren befand sich die britische psychedelische Kultur an einem Scheideweg ihrer Entwicklung.
-Eine Zeit, in der der Goa-Trance-Trend Europa erfasste und die LSD-Kultur mit der Technologie verschmolz.
+Eine Zeit, in der der Goa-Trance-Trend Europa erfasste und die LSD-Kultur mit Technologie verschmolz.
 Im Zentrum dieses Trends stand Twisted Records (1996-).
 
 Twisted veröffentlicht spirituelle und intellektuelle Trance-Musik rund um Posford, darunter Hallucinogen, Younger Brother, Prometheus und Celtic Cross.
@@ -80,12 +82,12 @@ Shpongle war sein philosophisches Symbol.
 
 | Jahr | Albumname | Konzept | Link |
 | ---- | ----------- | ----------- | -------------- |
-| 1998 | *Sind Sie geschockt?* | Der Ausgangspunkt Ihrer Klangreise | [Amazon](https://amzn.to/4pQRXpz) |
-| 2001 | *Geschichten vom Unaussprechlichen* | Ethnische Fusion der Geisteserweiterung | [Amazon](https://amzn.to/46U26sT) |
-| 2005 | *Nichts hält... Aber nichts ist verloren* | Vergänglichkeit und Regeneration des Klangs | [Amazon](https://amzn.to/3Wk98SG) |
-| 2009 | *Unaussprechliche Geheimnisse aus Shpongleland* | Soundisierung mystischer Erfahrungen | [Amazon](https://amzn.to/4mKX73D) |
-| 2013 | *Museum des Bewusstseins* | Museum des Bewusstseins | [Amazon](https://amzn.to/3VPumaU) |
-| 2017 | *Kodex VI* | Buch des Bewusstseins = Vollendung der Reinkarnation | [Amazon](https://amzn.to/46DNy1D) |
+| 1998 | *Are You Shpongled?*          | 音の旅の出発点     | [Amazon](https://amzn.to/4pQRXpz) |
+| 2001 | *Tales of the Inexpressible*            | 精神拡張の民族融合   | [Amazon](https://amzn.to/46U26sT) |
+| 2005 | *Nothing Lasts... But Nothing Is Lost*  | 音の無常と再生     | [Amazon](https://amzn.to/3Wk98SG) |
+| 2009 | *Ineffable Mysteries from Shpongleland* | 神秘体験の音響化    | [Amazon](https://amzn.to/4mKX73D) |
+| 2013 | *Museum of Consciousness*               | 意識の博物館      | [Amazon](https://amzn.to/3VPumaU) |
+| 2017 | *Codex VI*                              | 意識の書物＝輪廻の完成 | [Amazon](https://amzn.to/46DNy1D) |
 
 
 ---
@@ -94,6 +96,7 @@ Jedes Album ist Teil des Kreislaufs von Leben – Illusion – Erleuchtung – W
 Die musikalische Entwicklung entspricht direkt der spirituellen Entwicklung.
 
 ---
+
 
 ### Kapitel 3: Strukturanalyse jedes Liedes – Reinkarnation des Klangs
 
@@ -141,7 +144,7 @@ flowchart TD
 
 #### Shpongletron: Mandala aus Ton und Licht
 
-Während der Live-Performance kommt ein riesiges Videogerät namens Shpongletron zum Einsatz.
+Während des Live-Auftritts kommt ein riesiges Videogerät namens Shpongletron zum Einsatz.
 Die Bilder von Android Jones werden mit dem Ton synchronisiert.
 Raja Ram wird als „zeremonieller Guru“ auf der Bühne stehen und Posford wird als „Klangalchemist“ auf der Bühne stehen.
 Die Live-Performance selbst wird zu einer Erweiterung des meditativen Erlebnisses.
@@ -185,6 +188,7 @@ flowchart TD
 | **Lila (spielen)** | Humor und Transformation im Lied |
 | **Nāda (Ton)** | Schwingung des Universums = Klang selbst |
 
+
 Für Raja Ram ist Klang Gebet und Shpongle sein Mantra.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vxVwB-R12mw?si=zimBm8ivqEbvqFLm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -193,7 +197,7 @@ Für Raja Ram ist Klang Gebet und Shpongle sein Mantra.
 
 ## Kapitel 6: Simon Posford – Die Produktionsphilosophie des Klangmagiers
 
-Posford kombiniert klassische Synthesizer (Virus, Nord Lead, Roland SH-101) mit modernen DAWs (Logic Pro, Ableton).
+Posford kombiniert klassische Synthesizer (Virus, Nord Lead, Roland SH-101) und moderne DAWs (Logic Pro, Ableton).
 Dutzende Klangschichten werden geschichtet, um absichtlich eine „Resonanz mit Gehirnwellen“ zu erzeugen.
 Seine Werke haben eine konsistente dreischichtige Struktur: tiefer Ton = Körper, Obertöne = Bewusstsein und Nachhall = Spiritualität.
 
@@ -213,7 +217,7 @@ Seine Werke haben eine konsistente dreischichtige Struktur: tiefer Ton = Körper
 
 - Rekonstruktion im 3D-Raum (Ambisonics)
 
-> „Anstatt Klänge zu erzeugen, geht es mir eher darum, die Klänge zu steuern, die erscheinen.“
+> „Anstatt Klänge zu erzeugen, geht es mir eher darum, die Klänge zu steuern, die auftauchen.“
 > — Simon Posford
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B2NF_J56rFs?si=SgGtrhrKFQfDFSSv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -230,13 +234,13 @@ Seine Werke haben eine konsistente dreischichtige Struktur: tiefer Ton = Körper
 
 ---
 
-#### Hallucinogen (Simon Posford) @ Ozora Festival 2015
+#### Halluzinogen (Simon Posford) @ Ozora Festival 2015
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CAZxnoWkZvI?si=V1ToE-UvwPREK2as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### Younger Brother "Spinning Into Place"
+#### Jüngerer Bruder „Spinning in to Place“
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SXLbA7KSYvA?si=KKwi8Vfwl33-CnDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
@@ -290,7 +294,7 @@ Besonders bekannt ist er für seine Zusammenarbeit mit Android Jones (digitaler 
 
 ---
 
-#### Alex Grey & Shpongle
+#### Alex Gray & Shpongle
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lYoUm2j-cdE?si=SUb9vIQUlQOF9pdG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -305,7 +309,7 @@ Diese Struktur verursacht ein psychologisches Phänomen, das als „akustischer 
 ---
 
 | Akustische Elemente | Physiologische Wirkungen | Psychologische Erfahrungen |
-| ------ | -------- | -------- |
+| ------ | -------- | --------- |
 | Niederfrequenzbasis | Synchronisation von Atmung und Herzschlag | Erdungsgefühl |
 | Hochfrequente Obertöne | Aktivität der Zirbeldrüse | Visuelle Halluzinationen/Zeitdilatation |
 | Nachhall | Nachhall | Erweiterung der räumlichen Lokalisierung | Auflösung des Ego |

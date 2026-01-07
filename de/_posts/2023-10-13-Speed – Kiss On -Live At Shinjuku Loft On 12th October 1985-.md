@@ -16,26 +16,26 @@ title: Speed ​​– Kiss On – Live im Shinjuku Loft am 12. Oktober 1985 –
 Speed ​​​​war eine japanische Rockband, die 1976 von Shinichi Aoki, einem ehemaligen Mitglied von Hachibu no Mura, gegründet wurde und bis Ende der 1980er Jahre aktiv war.
 
 #### Trackliste
-„md
-1. Gebet Gassho Do It!
+```md
+1. 祈り合掌 Do It!
 
-2. Verkäufer des roten Umhangs
+2. 赤いマント売り
 
-3. In den Himmel Afrikas
+3. アフリカの空へ
 
-4. Überschwemmung
+4. 洪水
 
-5. Nackte Gans
+5. 裸のガチョウ
 
-6. Gähnen-Spiel
+6. あくびGame
 
-7. Sanfte Nacht
+7. 優しい夜
 
-8. 10 Sekunden Begegnung
+8. 10秒の出会い
 
-9. Ein Stück Eis
-````
+9. ひとつの氷
+```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m43996896011?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43996896011?afid=6142608987){: .button1}
 
 

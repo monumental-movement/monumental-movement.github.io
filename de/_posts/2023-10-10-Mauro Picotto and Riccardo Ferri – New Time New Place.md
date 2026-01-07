@@ -15,7 +15,7 @@ title: Mauro Picotto & Riccardo Ferri – Neue Zeit, neuer Ort
 „Neue Zeit, neuer Ort“ ist
 Dies ist eine EP von Mauro Picotto & Riccardo Ferri, die 2004 auf dem deutschen Label „T:Classixx“ veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. New Time New Place (Eric Sneo Remix)
 
@@ -24,7 +24,7 @@ A2. New Time New Place (Marc Etienne & Rob Acid Remix)
 B1. New Time New Place (Original)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m99146972964?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m99146972964?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s1AW1kXHb8A?si=i6eMz0-1r7AmYoj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

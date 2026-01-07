@@ -18,7 +18,7 @@ Rudolf Rocker ist eine britische Situationist-Kammer-Pop-Ensembleband, die von J
 
 „The Exotic Sounds Of Rudolf Rocker“ ist ein Indie-Rock-Album, das 1998 vom Label Mook Records veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Girum
 2. Guy Debord
@@ -33,4 +33,4 @@ Rudolf Rocker ist eine britische Situationist-Kammer-Pop-Ensembleband, die von J
 11. Tight Stance
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m92910574936?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m92910574936?afid=6142608987){: .button1}

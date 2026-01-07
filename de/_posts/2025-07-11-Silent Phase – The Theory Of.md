@@ -18,7 +18,7 @@ Stacey Pullen, auch bekannt als Silent Phase, war eine in den 1990er Jahren akti
 
 Es wurde von Derrick Mays Transmat, einem der wichtigsten Techno-Labels, das vor 1990 in Detroit gegründet wurde (vertrieben von Carl Craigs Planet E), und dem belgischen Independent-Label R&S Records veröffentlicht. Bei dieser CD handelt es sich um eine belgische Ausgabe.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Waterdance
 2. Body Rock
@@ -34,7 +34,7 @@ Es wurde von Derrick Mays Transmat, einem der wichtigsten Techno-Labels, das vor
 12. Forbidden Dance
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m45830593749?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m45830593749?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k6zY9Ae1qlI?si=307o2Nr5nDR0jv-a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

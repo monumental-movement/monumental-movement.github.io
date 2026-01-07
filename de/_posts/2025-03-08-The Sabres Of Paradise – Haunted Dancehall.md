@@ -17,9 +17,9 @@ title: The Sabres Of Paradise – Haunted Dancehall
 
 The Sabres Of Paradise sind eine britische elektronische Musikgruppe aus London. Mitglieder: Andrew Weatherall, Jagz Kooner, Gary Burns.
 
-„Haunted Dancehall“ ist das zweite Album von The Sabres Of Paradise, das 1995 von Warp Records veröffentlicht wurde und seit vielen Jahren gelobt wird, unter anderem wurde es 2007 von der britischen Zeitung The Guardian zu einem der „1000 Alben, die man hören muss, bevor man stirbt“ gewählt.
+„Haunted Dancehall“ ist das zweite Album von The Sabres Of Paradise, das 1995 von Warp Records veröffentlicht wurde und seit vielen Jahren gelobt wird, unter anderem wurde es 2007 von der britischen Zeitung The Guardian zu einem der „1000 Alben, die Sie hören müssen, bevor Sie sterben“ gewählt.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Bubble And Slide
 2. Bubble And Slide II
@@ -37,7 +37,7 @@ The Sabres Of Paradise sind eine britische elektronische Musikgruppe aus London.
 14. Haunted Dancehall
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m24000671123?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m24000671123?afid=6142608987){: .button1}
 
 #### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hYWeH4DzDqU?si=FUps7ov2KFDnD9w6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

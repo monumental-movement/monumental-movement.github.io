@@ -17,10 +17,11 @@ title: '[Kolumne] Buchla Music Easel und die Philosophie der „Solitary Perform
 
 ## Einführung: Was ist Buchla Music Easel?
 
-Text: mmr｜Thema: Musikstaffelei, die auch in der Neuzeit von vielen Live-Künstlern als „kleinstes Orchester, das alleine gespielt werden kann“ gepriesen wird
+Text: mmr｜Thema: Music Easel, das auch heute noch von vielen Live-Künstlern als „kleinstes Orchester, das alleine gespielt werden kann“ gepriesen wird
 
-Die **Buchla Music Easel**, die 1973 erschien, ist eine tragbare Version der berühmten analogen modularen **Buchla 200-Serie**.  
-Der Designer Don Buchla nannte das Instrument eine „tragbare Kompositionsumgebung“.  
+
+Die 1973 eingeführte **Buchla Music Easel** ist eine tragbare Version der berühmten analogen modularen **Buchla 200-Serie**.
+Der Designer Don Buchla nannte das Instrument eine „tragbare Kompositionsumgebung“.
 Es handelte sich nicht nur um ein kleines Modul, sondern um ein „persönliches improvisiertes Gerät“.
 
 > „Easel ist eine Klangleinwand. Sie können die Linien, die der Spieler gerade zeichnet, nicht speichern.“
@@ -46,17 +47,17 @@ color: #fff;
 
 ## Kapitel 1: Don Buchla und die „Anti-Moog“-Philosophie
 
-In den frühen 1960er Jahren entstanden in Ost- und Westamerika zwei große Trends in der Entwicklung elektronischer Musikinstrumente.  
-Moog im Osten und Buchla im Westen.  
-Buchlas Ziel war es, Klang zu „erzeugen“, anstatt ihn zu „kontrollieren“.  
+In den frühen 1960er Jahren entstanden in Ost- und Westamerika zwei große Trends in der Entwicklung elektronischer Musikinstrumente.
+Moog im Osten und Buchla im Westen.
+Buchlas Ziel war es, Klang zu „erzeugen“, anstatt ihn zu „kontrollieren“.
 Anstelle einer Tastatur wurde eine Touch-Plate verwendet, und der Schwerpunkt der Darbietung lag auf **Änderungsrate und Kontingenz** und nicht auf der Tonhöhe.
 
-Seine Philosophie wurde in die spätere Musikstaffelei übernommen.  
+Seine Philosophie wurde in die spätere Musikstaffelei übernommen.
 Staffelei ist ein Instrument, mit dem Menschen mit elektronischen Schaltkreisen agieren können, und dort herrscht eher die Einstellung eines „Co-Autors“ statt eines „Darstellers = Controllers“.
 
 ### Technische Analyse: Zusammenhang zwischen Wellenform und Tastempfindung
 
-Buchla meinte, dass „Wellenformmanipulation = taktile Erfahrung“ sei.  
+Buchla meinte, dass „Wellenformmanipulation = taktile Erfahrung“ sei.
 Die folgende Abbildung ist ein vereinfachtes Modell der Beziehung zwischen FM (Frequenzmodulation) und der Wellenformausgabe im Complex Oscillator.
 
 <div class="mermaid">
@@ -176,7 +177,7 @@ Cohen sagt, dass Musik einfach dadurch entsteht, dass man sich dem Fluss des Str
 → Als Pädagoge erklärt er Easel als „den Kontaktpunkt zwischen Bewusstsein und Maschinen“.
 „Spiel es nicht – hör zu, wie es dich spielt.“
 
-### Charles Cohen
+###Charles Cohen
 
 → Der äußerste Norden der Improvisation. Bei einem Live-Auftritt geht es nicht um Musik, sondern darum, einen Ort zu schaffen.
 Auch nach seinem Tod druckte Buchla seinen Patch als „Cohen Program Card“ nach.
@@ -205,14 +206,14 @@ Dieser „antidigitale“ Trend ist auch ein Zeichen dafür, die physische Reali
 ## Fazit: Die Zukunft als Orchester
 
 Die Staffelei ist funktional klein und der Ausdruckskraft grenzenlos.
-Der im Inneren flackernde elektrische Strom erzeugt einen „lebendigen Klang“ im Takt der Atmung des Künstlers.
+Der im Inneren flackernde elektrische Strom erzeugt einen „lebendigen Klang“, der synchron mit der Atmung des Künstlers synchronisiert ist.
 
 Wie Charles Cohen sagte: „Staffelei ist ein einsamer Gesprächspartner.“
 Wie Suzanne Ciani gezeigt hat, „ist es das Organ, das menschliche Emotionen in elektronische Form übersetzt.“
 
 In der heutigen, von Laptops dominierten Live-Umgebung
 Buchla Music Easel bleibt ein „Einzelorchester“.
-Es verbirgt die Zukunft der Improvisation in der kleinsten Schaltungseinheit.
+Es birgt die Zukunft der Improvisation verborgen in der kleinsten Schaltkreiseinheit.
 
 ---
 

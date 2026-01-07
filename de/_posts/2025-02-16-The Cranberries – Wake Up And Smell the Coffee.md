@@ -18,7 +18,7 @@ The Cranberries sind eine 1989 gegründete irische Alternative-Rock-Band. Ihr St
 
 „Wake Up and Smell the Coffee“ ist das fünfte Studioalbum der Cranberries, das 2001 veröffentlicht wurde, und ihr letztes Album vor einer sechsjährigen Pause. Es wurde ein Riesenerfolg auf der ganzen Welt.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Never Grow Old
 2. Analyse
@@ -39,7 +39,7 @@ Bonus Tracks
 15. In The Ghetto
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m14455490790?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m14455490790?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TGcHisWvmuo?si=xzjGZsuga3trnuNM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

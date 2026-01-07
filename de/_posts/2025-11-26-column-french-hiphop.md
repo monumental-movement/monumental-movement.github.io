@@ -15,11 +15,12 @@ title: '[Kolumne] Komplette Geschichte des französischen Hip-Hop: von NTM bis h
 ---
 
 
+
 # Vollständige Geschichte des französischen Hip-Hop
 
-Text: mmr｜Thema: Schwerpunkt auf NTM und IAM, Erklärungen zu jedem Album und Song, sozialer Hintergrund, regionale Stilanalyse und Chronologie.
+Text: mmr｜Thema: Schwerpunkt auf NTM und IAM, Erklärungen zu jedem Album und Lied, sozialer Hintergrund, regionale Stilanalyse und Chronologie.
 
-Französischer Hip-Hop ist eine kulturelle Bewegung, die in den späten 1980er-Jahren in den Vororten französischer Städte entstand. Obwohl sie vom amerikanischen Hip-Hop beeinflusst wurde, hat sie sich so entwickelt, dass sie ihren eigenen sozialen und kulturellen Hintergrund widerspiegelt.  
+Französischer Hip-Hop ist eine kulturelle Bewegung, die in den späten 1980er-Jahren in den Vororten französischer Städte entstand. Obwohl sie vom amerikanischen Hip-Hop beeinflusst wurde, hat sie sich so entwickelt, dass sie ihren eigenen sozialen und kulturellen Hintergrund widerspiegelt.
 Insbesondere junge Menschen aus Einwanderergemeinschaften und Familien mit niedrigem Einkommen haben Rap als Ausdrucksmittel für ihre Stimme übernommen, und die Texte enthalten politische und soziale Botschaften.
 
 ---
@@ -37,11 +38,12 @@ color: #fff;
 }
 </style>
 
+
 ## 1. Herkunft: Frankreich, Ende der 1980er Jahre
 
 ### 1-1. Die Ankunft der Hip-Hop-Kultur
 
-In den frühen 1980er Jahren wurde die Hip-Hop-Kultur von der Bronx in Amerika nach Frankreich eingeführt.  
+In den frühen 1980er Jahren wurde die Hip-Hop-Kultur von der Bronx in Amerika nach Frankreich eingeführt.
 - **DJ-Boom**: DJs, die Breakbeats spielen, treten in Pariser Clubs auf
 - **Breakdance**: B-Boy/B-Girl-Aktivitäten in Stadtparks und öffentlichen Einrichtungen
 - **Graffiti**: Verbreitung im städtischen Raum als Ausdrucksform für junge Menschen
@@ -57,10 +59,10 @@ Zu dieser Zeit war Rap noch eine kleine Subkultur, die hauptsächlich als Straß
 - Geburtsort: Seine-Saint-Denis, ein Vorort von Paris
 - Features: Politische und sozialkritische Texte, raues Straßengefühl
 
-#### IAM
+#### ICH BIN
 
 - Gründungsjahr: 1989
-- Mitglieder: Echnaton, Shurik'n, Kheops, Imhotep, Freeman
+- Mitglieder: Echnaton, Shurik'n, ​​​​Kheops, Imhotep, Freeman
 - Geburtsort: Marseille
 - Features: Text mit Themen der französischen Kolonialgeschichte und sozialen Themen, philosophischer Ansatz
 
@@ -77,21 +79,21 @@ flowchart TD
 
 ### 2-1. NTM-Social-Botschaft
 
-NTM entwickelte sich in den 1990er Jahren zu einer Gruppe, die den französischen Hip-Hop vertrat.  
+NTM entwickelte sich in den 1990er Jahren zu einer Gruppe, die den französischen Hip-Hop vertrat.
 Hauptwerke und Funktionen:
 
 1. **Suprême NTM (1993)**
-   - Darstellung der Realität der Pariser Vororte
-   - Themen wie städtische Gewalt, Konflikte mit der Polizei und die Schwierigkeiten der Einwanderungsgesellschaft
+- Darstellung der Realität der Pariser Vororte
+- Themen wie städtische Gewalt, Konflikte mit der Polizei und die Schwierigkeiten der Einwanderungsgesellschaft
 2. **Paris Sous les Bombes (1995)**
-   - Verstärkte politische Botschaft
-   - Ein Spiegelbild der Jugendkultur der Region Saint-Denis
+- Verstärkte politische Botschaft
+- Ein Spiegelbild der Jugendkultur der Region Saint-Denis
 
 ### 2-2. IAMs philosophische und historische Texte
 
 1. **L’École du Micro d’Argent (1997)**
-   - Darstellung der Stadt und der sozialen Probleme von Marseille
-   - Liedtext über das alte Ägypten und die französische Kolonialgeschichte
+- Darstellung der Stadt Marseille und sozialer Themen
+- Liedtext über das alte Ägypten und die französische Kolonialgeschichte
 
 <div class="mermaid">
 flowchart TB
@@ -124,18 +126,18 @@ flowchart TB
 ### 3-3. Repräsentative Künstler und Werke
 
 - **Booba**
-  - Debüt: 1999
-  - Werk: „Temps Mort (2002)“, in Frankreich und im Ausland hochgelobt
-  - Stil: Dunkler Street-Rap, Fokus auf Beats
+- Debüt: 1999
+- Werk: „Temps Mort (2002)“, in Frankreich und im Ausland hochgelobt
+- Stil: Dunkler Street-Rap, Fokus auf Beats
 - **Rohff**
-  - Debüt: 1995
-  - Werk: „La Vie Avant la Mort (2001)“, gesellschaftskritische Lyrik
+- Debüt: 1995
+- Werk: „La Vie Avant la Mort (2001)“, gesellschaftskritische Lyrik
 - **La Fouine**
-  - Premiere im Jahr 2005, ein Spiegelbild der Pariser Vorstadtkultur
+- Premiere im Jahr 2005, ein Spiegelbild der Pariser Vorstadtkultur
 
 ---
 
-## 4. 2010er Jahre und darüber hinaus: Internationalisierung und Genrefusion
+## 4. Nach 2010: Internationalisierung und Genrefusion
 
 - Zunehmende Fusion mit Trap, Grime und Afrobeat
 – Aufstieg einer neuen Generation von Rappern durch SNS und YouTube
@@ -144,11 +146,11 @@ flowchart TB
 ### 4-1. Beispiele für Wrapper der neuen Generation
 
 - **PNL (Peace N’ Loves)**
-  - Selbstproduzierter Beat, Autotune, Ausdruck der urbanen Kultur
+- Selbstproduzierte Beats, Autotune, Ausdruck der urbanen Kultur
 - **Verdammt**
-  – Aus Belgien, Mischung aus sozialen Themen und Liebesliedern
+– Aus Belgien, Mischung aus sozialen Themen und Liebesliedern
 - **Niska**
-  - Trap-Stil und Pariser Vorstadt-Ausdruck
+- Trap-Stil und Pariser Vorstadt-Ausdruck
 
 ---
 
@@ -184,7 +186,7 @@ timeline
 ## 7. Soziale und kulturelle Errungenschaften von NTM und IAM
 
 | Gruppe | Auswirkungen/Erfolge |
-|-----------|------------|
+|-----------|-----------|
 | NTM | Etablierung des gesellschaftskritischen Rap, Symbol der Pariser Vorstadtkultur |
 | ICH BIN | Einführung philosophischer und historischer Themen, Etablierung der musikalischen Individualität Marseilles |
 
@@ -192,7 +194,7 @@ timeline
 
 ## 8. Fazit
 
-Französischer Hip-Hop ist mehr als nur ein Musikgenre; Es ist ein Symbol urbaner Kultur und sozialer Bewegung.  
+Französischer Hip-Hop ist mehr als nur ein Musikgenre; Es ist ein Symbol urbaner Kultur und sozialer Bewegung.
 Ausgehend von NTM und IAM etablierten sich regionale Stile, die sich durch Kommerzialisierung und Internationalisierung zu den vielfältigen Szenen von heute entwickelten.
 
 ---

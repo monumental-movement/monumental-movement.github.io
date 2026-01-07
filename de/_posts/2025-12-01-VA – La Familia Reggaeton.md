@@ -20,7 +20,7 @@ A1 ist ein Track mit Big Mato, Chingo Bling, Fat Joe, Lumi Dee, Negra, Nina Sky 
 
 B2 ist ein Track mit Big Mato, L. Boogs und Manuelito.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. N.O.R.E. – Mas Maiz (Clean)
 A2. N.O.R.E. – Mas Maiz (Dirty)
@@ -29,4 +29,4 @@ B1. N.O.R.E. – N.O. (Radio Edit)
 B2. N.O.R.E. – Soy Un Gangsta (Clean)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m16134105588?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m16134105588?afid=6142608987){: .button1}

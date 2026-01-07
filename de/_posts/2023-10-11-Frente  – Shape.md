@@ -17,7 +17,7 @@ Frente ist eine australische Folk-Pop/Indie-Pop-Gruppe, die 1989 gegründet wurd
 
 „Shape“ ist Frentes zweites Studioalbum, das 1996 veröffentlicht wurde. Das Album wurde 1995 in Spanien aufgenommen und von Cameron McVeigh und Ted Nicely produziert.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Sit On My Hands
 
@@ -46,7 +46,7 @@ B5. What's Come Over Me
 B6. Calmly
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m67218117772?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m67218117772?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NKVT3Mh6ddE?si=1rPo8ij_uklxe0kh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

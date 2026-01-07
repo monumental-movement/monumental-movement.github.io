@@ -19,14 +19,14 @@ A ist ein Remix des britischen DJs und Produzenten Roni Size, der 1997 als Grün
 
 B ist ein Remix von Bad Company (Bad Company UK / BC), einer britischen Drum-and-Bass-Gruppe, die seit 1998 aktiv ist.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Smash Sumthin (Roni Size Remix)
 
 AA. Smash Sumthin (Bad Company Remix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m15980508638?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m15980508638?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ffeRaK6WA4s?si=T92JqwE6a6Zf7crJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

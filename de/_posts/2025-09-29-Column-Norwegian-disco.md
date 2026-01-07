@@ -19,7 +19,7 @@ title: '[Kolumne] Norwegische Disco: Genealogie und empfohlene Aufzeichnungen vo
 
 Text: mmr｜Thema: Geschichte der modernen Disco/Space-Disco, geboren in Norwegen, Solowerke, Kollaborationen, produzierte Werke
 
-Trotz seines kalten Klimas und der skandinavischen Ruhe hat Norwegen einen wichtigen Trend des warmen Disco/Space-Disco hervorgebracht. Prins Thomas, Lindstrøm und das Mungolian Jet Set haben den Disco-, Italo- und französischen Touch der 70er und 80er Jahre mit einer norwegischen Linse neu interpretiert und der Tanzmusik des 21. Jahrhunderts ihre ganz eigene Note verliehen. In diesem Artikel werden wir die Soloarbeit, Zusammenarbeit und Produktionsaktivitäten jedes Künstlers umfassend vorstellen und empfohlene Alben nach Altersgruppe auflisten.
+Trotz seines kalten Klimas und der skandinavischen Ruhe hat Norwegen einen wichtigen Trend der warmen Disco/Space-Disco hervorgebracht. Prins Thomas, Lindstrøm und das Mungolian Jet Set haben den Disco-, Italo- und französischen Touch der 70er und 80er Jahre mit einer norwegischen Linse neu interpretiert und der Tanzmusik des 21. Jahrhunderts ihre ganz eigene Note verliehen. In diesem Artikel werden wir die Soloarbeit, Zusammenarbeit und Produktionsaktivitäten jedes Künstlers umfassend vorstellen und empfohlene Alben nach Altersgruppe auflisten.
 
 ---
 
@@ -34,6 +34,7 @@ background-color: #111;
 color: #fff;
 }
 </style>
+
 
 ## Überblick: Skandinavische Luft und „Temperatur“-Disco
 
@@ -111,7 +112,7 @@ Merkmale:
 
 Ein Ingenieur, der die Studioarbeit unterstützt.
 
-Er ist für das reichhaltige Sounddesign verantwortlich und nutzt dabei Synthesizer, Sampler, Programmierung usw. voll aus.
+Er ist für das umfassende Sounddesign verantwortlich und nutzt dabei Synthesizer, Sampler, Programmierung usw. voll aus.
 
 Jazz und
 Er bringt seinen klassischen Hintergrund mit und verleiht seinen Arrangements Tiefe.
@@ -120,13 +121,14 @@ Er bringt seinen klassischen Hintergrund mit und verleiht seinen Arrangements Ti
 
 **Gastmitarbeiter**
 
-Manchmal nehmen Randy Barracuda (aktiv in der finnischen Skweee-Szene) und Sänger/Musiker aus Norwegen und dem Ausland teil.
+Gelegentlich nehmen Randy Barracuda (aktiv in der finnischen Skweee-Szene) und Sänger/Musiker aus Norwegen und dem Ausland teil.
 
 Auf den Alben und Mixen von Mungolian Jet Set sind auch Gastsänger und Instrumentalisten vertreten.
 
+
 #### Klangeigenschaften
 
-Genreübergreifend: Eine Mischung aus Disco-, Cosmic-, House-, Jazz-, Afro- und sogar Rock- und Prog-Elementen.
+Genreübergreifend: Eine Mischung aus Disco, Cosmic, House, Jazz, Afro und sogar Rock- und Progressive-Elementen.
 
 Remix-Sinn: Er ist bekannt für seine „Weltraumreise“-Remixe, die die Struktur des Originalsongs mutig verändern und ihn auf über 10 Minuten verlängern.
 
@@ -140,13 +142,13 @@ Zusammenfassend lässt sich sagen, dass Mungolian Jet Set eine Fusion aus Strang
 
 | Jahr | Album | Künstler | Link |
 | ---: | -------------------------------- | ----------------- | ---------------------------------- |
-| 2006 | Es ist eine Feedelity-Angelegenheit | Lindstrøm | [Amazon](https://amzn.to/4mApIIz) |
-| 2006 | Schlungs | Mungolischer Jet-Set | [Amazon](https://amzn.to/4nq9YJB) |
-| 2008 | Wohin du gehst, gehe ich auch | Lindstrøm | [Rakuten](https://a.r10.to/h5LRGZ) |
-| 2009 | Wir haben alles weggegeben... und jetzt nehmen wir es zurück | Mungolischer Jet-Set | [Amazon](https://amzn.to/4pKpxND) |
-| 2010 | PRINS THOMAS | Prinz Thomas | [Amazon](https://amzn.to/4gKEeMJ) |
-| 2012 | II | Prinz Thomas | [Amazon](https://amzn.to/42i2zDH) |
-| 2017 | Es ist in Ordnung zwischen uns, so wie es ist | Lindstrøm | [Amazon](https://amzn.to/42e521T) |
+| 2006 | It's A Feedelity Affair          | Lindstrøm         | [Amazon](https://amzn.to/4mApIIz)  |
+| 2006 | Schlungs                | Mungolian Jet Set | [Amazon](https://amzn.to/4nq9YJB)    | 
+| 2008 | Where You Go I Go Too            | Lindstrøm         | [Rakuten](https://a.r10.to/h5LRGZ)          |
+| 2009 | We Gave It All Away... And Now We Are Taking It Back | Mungolian Jet Set | [Amazon](https://amzn.to/4pKpxND) |
+| 2010 | PRINS THOMAS                         | Prins Thomas      | [Amazon](https://amzn.to/4gKEeMJ) |
+| 2012 | II                               | Prins Thomas      | [Amazon](https://amzn.to/42i2zDH) |
+| 2017 | It's Alright Between Us As It Is | Lindstrøm         | [Amazon](https://amzn.to/42e521T) |
 
 ---
 

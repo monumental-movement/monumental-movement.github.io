@@ -19,7 +19,7 @@ Japanische Version, veröffentlicht im Jahr 2012. Die Titel 1 bis 6 sind Origina
 
 Der neunte Titel ist ein Remix von Bare Noize, dem Produktionsduo Daniel Brown und Oliver Pile.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Rock N' Roll (Will Take You To The Mountain)
 2. Scary Monsters And Nice Sprites
@@ -33,7 +33,7 @@ Der neunte Titel ist ein Remix von Bare Noize, dem Produktionsduo Daniel Brown u
 
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m86556698095?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86556698095?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iIyE3EDCigE?si=-xd56PahPgXj-IkV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

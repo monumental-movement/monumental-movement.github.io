@@ -17,7 +17,7 @@ Eine Zusammenstellung, die 1998 auf Müller Records veröffentlicht wurde, einem
 
 Der erste Song auf der B-Seite, Roks „High Menergy“, ist ein Sample von Machos „I'm a Man“, das 1978 veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Rok & Disko – Dual
 
@@ -28,7 +28,7 @@ B1. Rok – High Menergy
 B2. Beroshima – String Tanga
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m48896354302?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m48896354302?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ojBXEiNjF1E?si=cYeCmvJEUcwaQjNN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

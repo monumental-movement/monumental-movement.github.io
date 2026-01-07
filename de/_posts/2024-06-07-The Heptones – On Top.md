@@ -20,7 +20,7 @@ Die Heptones waren Zeitgenossen der Wailers und der Maytals und galten Mitte der
 
 „On Top“ ist ein Album, das von Studio One veröffentlicht wurde, einem jamaikanischen Aufnahmestudio und Label, das den Grundstein für jamaikanische Popmusikstile wie Ska, Rocksteady und Reggae legte. Dieses Album ist auch als Best Of The Heptones bekannt.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Equal Rights
 2. Pure Sorrow
@@ -39,7 +39,7 @@ Die Heptones waren Zeitgenossen der Wailers und der Maytals und galten Mitte der
 15. Oil In My Lamp
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m64275984147?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64275984147?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1wHb-SH2skE?si=P7-S0cBx-4IpARNV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -17,7 +17,7 @@ title: VA – Disco Sound Special Vol. 1
 
 VA – Disco Sound Special Vol. 1 - Disco Sound Special 2-Disc-Plattenset
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Stevie Wonder – You Haven't Done Nothin
 A2. The Temptations – Shakey Ground
@@ -48,5 +48,5 @@ D5. Eddie Kendricks – Shoeshine Boy
 D6. Stevie Wonder – Boogie On Reggae Woman
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m98452664415?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m98452664415?afid=6142608987){: .button1}
 

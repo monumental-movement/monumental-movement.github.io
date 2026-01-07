@@ -19,7 +19,7 @@ title: Koivun Kaiku – Torhüter
 
 Der Gruppenname Koivun Kaiku bedeutet „Echo der Birke“.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Ripatska 
 A2. Valssi Lapuasta 
@@ -42,4 +42,4 @@ B8. Reppurin Laulu
 B9. Konevitsan Kirkonkellojen Soitto 
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m71853643150?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m71853643150?afid=6142608987){: .button1}

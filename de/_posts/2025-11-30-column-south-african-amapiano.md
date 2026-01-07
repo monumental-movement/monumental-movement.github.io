@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Column
+date: 2025-11-30 00:00:10 +0900
 image: ../assets/images/column-south-african-amapiano.webp
 lang: de
 layout: post
@@ -11,6 +12,7 @@ tags:
 - History
 title: '[Kolumne] South African Amapiano – Eine neue Tanzmusikkultur aus Südafrika'
 ---
+
 
 
 ## Einleitung – Warum jetzt Amapiano?
@@ -36,6 +38,7 @@ color: #fff;
 }
 </style>
 
+
 ## Kapitel 1: Ursprünge und musikalische Wurzeln
 
 ### Hintergrund als Musikgenre
@@ -48,7 +51,7 @@ Amapiano wird von folgenden Genres beeinflusst:
 
 Insbesondere die Öffentlichkeitsarbeit durch Township-Clubs, Straßenfeste, Taxistände usw. spielte bei der Geburt von Amapiano eine wichtige Rolle.
 
-### Akustische Eigenschaften
+### Akustische Merkmale
 
 Der Sound von Amapiano besteht aus folgenden Elementen:
 
@@ -66,12 +69,13 @@ Diese Elemente kombinierten, um Musik zu entwickeln, die die Jugendkultur der To
 
 <div class="mermaid">
 graph LR
-    P[ピアノ/キーボード] --> S[Amapianoサウンド]
-    L[ログドラム] --> S
-    D[パーカッション/ドラム] --> S
-    V[ボーカル] --> S
-    S --> G[タウンシップ文化の表現]
+    P["ピアノ／キーボード"] --> S["Amapianoサウンド"]
+    L["ログドラム"] --> S
+    D["パーカッション／ドラム"] --> S
+    V["ボーカル"] --> S
+    S --> G["タウンシップ文化の表現"]
 </div>
+
 
 ---
 
@@ -97,15 +101,17 @@ Mehreren Quellen zufolge begannen die Experimente mit Amapiano um 2012, und spä
 
 <div class="mermaid">
 graph TD
-    EG[East Rand] --> TB[Township クラブ/パーティ]
-    KAT[Katlehong] --> TB
-    TB --> ONL[オンライン/WhatsApp 共有]
-    ONL --> NA[若者コミュニティ内での拡散]
+    ER["East Rand"] --> TC["Township クラブ／パーティ"]
+    KT["Katlehong"] --> TC
+    TC --> ON["オンライン／WhatsApp 共有"]
+    ON --> YC["若者コミュニティ内での拡散"]
 </div>
+
+
 
 ---
 
-Ich habe es. Jetzt erweitere ich Kapitel 3 und die folgenden Kapitel und erstelle einen **vollständigen Entwurf auf Japanisch**, während ich auch Markdown-Diagramme einfüge.
+Ich habe es. Jetzt werde ich Kapitel 3 und darüber hinaus erweitern und einen **vollständigen Entwurf auf Japanisch** erstellen und gleichzeitig Markdown-Diagramme einfügen.
 
 ---
 
@@ -127,8 +133,8 @@ Infolgedessen hat sich Amapiano von reiner Underground-Musik zu einem Genre entw
 * **Kabza De Small & DJ Maphorisa**
 
 * Album **Scorpion Kings** veröffentlicht im Juli 2019
-  * Förderung des Durchbruchs und der Kommerzialisierung des Genres im ganzen Land
-  * Fortsetzung **Die Rückkehr der Skorpionkönige (November 2019)** war ebenfalls ein Erfolg
+* Förderung des Durchbruchs und der Kommerzialisierung des Genres im ganzen Land
+* Fortsetzung **Die Rückkehr der Skorpionkönige (November 2019)** war ebenfalls ein Erfolg
 
 Diese Zeit machte Amapiano nicht nur zu einer Township-Musik, sondern zu einem landesweit und kommerziell anerkannten Genre.
 
@@ -140,15 +146,17 @@ Diese Zeit machte Amapiano nicht nur zu einer Township-Musik, sondern zu einem l
 
 <div class="mermaid">
 graph LR
-    MFR[MFR Souls] --> AK[Kabza De Small]
-    DJM[DJ Maphorisa] --> AK
-    AK --> SK[Scorpion Kings アルバム]
-    SK --> NT[全国的ブレイク]
+    MFR["MFR Souls"] --> KAB["Kabza De Small"]
+    MAP["DJ Maphorisa"] --> KAB
+    KAB --> SK["Scorpion Kings アルバム"]
+    SK --> NB["全国的ブレイク"]
 </div>
+
+
 
 ---
 
-## Kapitel 4: Pandemiezeit und beschleunigte Verbreitung (2020–2022)
+## Kapitel 4: Pandemieperiode und beschleunigte Verbreitung (2020–2022)
 
 ### COVID-19 und Online-Verbreitung
 
@@ -161,7 +169,7 @@ graph LR
 * **Kabza De Small „I Am the King of Amapiano: Sweet & Dust“** (Juni 2020)
 
 * Ein Album, das die Reife des Genres zeigt.
-  * Komposition, die nicht nur für Clubs, sondern auch als Albumwerk genossen werden kann
+* Komposition, die nicht nur für Clubs, sondern auch als Albumwerk genossen werden kann
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FnUpA0VsKRo?si=Q_xPDYh1HwCKRzFh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -180,11 +188,13 @@ graph LR
 
 <div class="mermaid">
 graph LR
-    LOCK[ロックダウン/クラブ閉鎖] --> ONLINE[オンライン配信]
-    ONLINE --> STREAM[ストリーミング再生増加]
-    STREAM --> YOUTH[若者コミュニティ内で拡散]
-    YOUTH --> NATION[全国的ブーム]
+    LD["ロックダウン／クラブ閉鎖"] --> ONL["オンライン配信"]
+    ONL --> STR["ストリーミング再生増加"]
+    STR --> YC["若者コミュニティ内で拡散"]
+    YC --> NB["全国的ブーム"]
 </div>
+
+
 
 ---
 
@@ -201,7 +211,7 @@ graph LR
 * **August 2025: Scorpion Kings Live with Friends (Pretoria)**
 
 * Ungefähr 50.000 Menschen mobilisiert
-  * Etablierung des Status des Genres als „kulturelles und soziales Symbol“
+* Etablierung des Status des Genres als „kulturelles und soziales Symbol“
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T-2AMmBAHOw?si=NEejihEQW1mT5w3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -211,12 +221,18 @@ graph LR
 
 <div class="mermaid">
 graph TD
-    ZA[南アフリカ] --> UK[イギリス]
-    ZA --> EU[ヨーロッパ各国]
-    ZA --> US[北米]
-    ZA --> AS[アジア]
-    UK & EU & US & AS --> GLOBAL[グローバルな認知]
+    ZA["南アフリカ"] --> UK["イギリス"]
+    ZA --> EU["ヨーロッパ各国"]
+    ZA --> US["北米"]
+    ZA --> AS["アジア"]
+
+    UK --> GLB["グローバルな認知"]
+    EU --> GLB
+    US --> GLB
+    AS --> GLB
 </div>
+
+
 
 ---
 
@@ -243,13 +259,17 @@ graph TD
 ### Abbildung 6: Mehrdimensionale Karte der Klangentwicklung
 
 <div class="mermaid">
-graph LR
-    BASE[ログドラム+ピアノ+パーカッション] --> AM[オリジナルAmapiano]
-    AM --> JAZZ[ジャズ融合]
-    AM --> RNB[R&B融合]
-    AM --> HIP[ヒップホップ融合]
-    JAZZ & RNB & HIP --> EV[進化・多様化]
+graph TD
+    A["ログドラム＋ピアノ＋パーカッション"] --> B["オリジナルAmapiano"]
+    B --> C["ジャズ融合"]
+    B --> D["R&B融合"]
+    B --> E["ヒップホップ融合"]
+    C --> F["進化・多様化"]
+    D --> F
+    E --> F
 </div>
+
+
 
 ---
 
@@ -265,10 +285,12 @@ graph LR
 
 <div class="mermaid">
 graph TD
-    TOWN[Township 若者文化] --> AM[アマピアノ]
-    AM --> GLOBAL[国際的認知]
-    AM --> COMMUNITY[地域コミュニティとの結びつき]
+  ER["East Rand"] --> TC["Township クラブ／パーティ"]
+  KT["Katlehong"] --> TC
+  TC --> ON["オンライン／WhatsApp 共有"]
+  ON --> YC["若者コミュニティ内での拡散"]
 </div>
+
 
 ---
 

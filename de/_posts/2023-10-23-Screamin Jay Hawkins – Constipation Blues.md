@@ -21,13 +21,13 @@ Dieses Lied von Screamin' Jay Hawkins wurde von Screamin' Jay Hawkins gesungen u
 Dieses Lied ist eines der ikonischsten Stücke der Karriere und Persönlichkeit von Screamin' Jay Hawkins und verkörpert die einzigartige und mysteriöse Natur seiner Musik.
 
 #### Trackliste
-„md
-A. Verstopfungs-Blues = Benpino-Blues
+```md
+A. Constipation Blues = べんぴのぶるーす
 
-B. Ich bin einsam = Mann weint Blues
-````
+B. I'm Lonely = 男泣きのブルース
+```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m74185895481?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74185895481?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ic3g8Xnf7LI?si=IjXytaZWloDLct1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -19,14 +19,14 @@ Fumiaki Kobayashi betreibt das Techno-Label Gatearray Recordings und ist haupts�
 
 „Cannonball / Metal Funk“ ist ein Techno-Track, der 2003 von Giant Wheel veröffentlicht wurde, einem von Clemens Neufeld gegründeten Label, der als Pionier des österreichischen House-Techno bekannt ist und Wiens ersten Techno-Club „Space Jungle“ gründete.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Cannonball
 
 B. Metal Funk
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m81336697590?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m81336697590?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qrf-sVg9KKI?si=VSeN909TReXAbPC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

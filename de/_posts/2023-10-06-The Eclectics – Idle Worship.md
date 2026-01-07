@@ -17,7 +17,7 @@ title: Die Eklektiker – müßige Anbetung
 Dies ist ein Album der amerikanischen Ska-Punk-Band The Eclectics, das 1997 vom Label Jump Up! veröffentlicht wurde. Aufzeichnungen.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Harry
 
@@ -40,7 +40,7 @@ B4. Near And Far
 B5. It's Not About You, Kevin
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m30039999033?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m30039999033?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WmUk00-yjyA?si=21WltiWT7Vp6VxFn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

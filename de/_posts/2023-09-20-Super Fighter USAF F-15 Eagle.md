@@ -12,25 +12,25 @@ title: Superjäger USAF F-15 Eagle
 ---
 
 
-Super Fighter USAF F-15 Eagle
+Superjäger USAF F-15 Eagle
 
 #### Trackliste
-„md
-A1 Prolog
+```md
+A1  プロローグ
 
-A2 Motorstart bei Sonnenaufgang
+A2  朝焼けのエンジン・スタート
 
-A3 rollt (in Richtung Landebahn)
+A3  タクシング （滑走路に向って）
 
-A4 Start 1 (Aufzeichnungspunkt 1)
+A4  離陸1 （録音ポイント1）
 
-B1 Start 2 (Aufzeichnungspunkt 3)
+B1  離陸2 （録音ポイント3）
 
-B2 Start 3 (Aufzeichnungspunkt 2)
+B2  離陸3 （録音ポイント2）
 
-B3 Funkkommunikation während des Luftkampftrainings (im Cockpit)
+B3  空中戦訓練中の無線交信 （コクピットにて）
 
-B4 Landung in der Dämmerung
-````
+B4  夕暮れの着陸
+```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m59353657032?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m59353657032?afid=6142608987){: .button1}

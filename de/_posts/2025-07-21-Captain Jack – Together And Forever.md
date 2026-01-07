@@ -19,7 +19,7 @@ Captain Jack ist ein Tanzprojekt aus Köln, das die Eurodance-Szene der 90er Jah
 
 „Gemeinsam und für immer!“ ist ein Eurodance- und Euro-House-Track, der 1997 auf dem Dance-Sublabel von EMI Deutschland – Cologne Dance Label (CDL) – veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Together And Forever (Captains Maxi-Mix)
 
@@ -27,7 +27,7 @@ B1. Together And Forever (Captains Club-Mix)
 B2. Together And Forever (Captains Sneo-Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m44905677266?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44905677266?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vvJWmcDGCmU?si=WFBjSB1nMsd8M0y8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

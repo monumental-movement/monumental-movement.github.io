@@ -19,16 +19,16 @@ Eine Projektplatte, die im Jahr 2000 von PostPets rosa Bär „MOMO“ veröffen
 Der zweite Song auf Seite A ist ein Remix von Heigo Tani von Co-Fusion.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Make Me Happy (Momo's Theme)
 
-A2. PostPet 2001-Thema (Wall 5 Remix/ Heigo Tani)
+A2. PostPet 2001のテーマ (Wall 5 Remix/ Heigo Tani )
 
-B1. Besorg dir Momo
+B1. おつかいモモ 
 
 B2. Make Me Happy (Instrumental)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m95229129822?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95229129822?afid=6142608987){: .button1}
 

@@ -18,11 +18,11 @@ Ein Remix von Björks „Who Is It“ von Bogdan Raczynski, einem großartigen p
 Diese 2005 erschienene Platte ist Bogdan Raczynskis Meisterwerk der Remix-Arbeit, nach den Remixen von Autechre und Ulver.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Who Is It (Shooting Stars & Asteroids Mix By Bogdan Raczynski)
 
 B. Who Is It (Shooting Stars & Asteroids Mix By Bogdan Raczynski)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m66653157293?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m66653157293?afid=6142608987){: .button1}

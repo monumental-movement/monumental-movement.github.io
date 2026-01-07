@@ -18,7 +18,7 @@ Liberty ist ein Duo bestehend aus den belgischen DJs/Produzenten Johan Goyvaerts
 
 „Seguro“ ist ein Hard-Trance-Track, der im Jahr 2000 vom belgischen Label No Name Records Trance veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Seguro (Original Mix)
 A2. Seguro (Maurizzio Mix)
@@ -27,7 +27,7 @@ B1. Seguro (Mirando Mix)
 B2. Seguro (Mirando Edit)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m66128506073?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m66128506073?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H8iD1wHWmE0?si=tWdsL_R7XI52UktA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

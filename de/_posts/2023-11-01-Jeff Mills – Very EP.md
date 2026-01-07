@@ -19,7 +19,7 @@ Diese EP ist das Herzstück der Detroiter Underground-Musik und eine der besten 
 
 Man kann sagen, dass die einzigartige Weltanschauung, die eine düstere Atmosphäre und experimentelle Elemente miteinander verbindet, einzigartig für Jeff Mills ist.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Cobolt
 
@@ -32,7 +32,7 @@ B2. Untitled
 B3. Untitled
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m40010323635?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40010323635?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZPgiF_S1pAA?si=dKqOwiHRhoS9WOC2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

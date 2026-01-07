@@ -21,7 +21,7 @@ Die Mitglieder von Oi Polloi sind Befürworter des Umweltschutzes (Earth First!)
 
 „Total Anarchoi“ wurde 1992 auf dem britischen Punk-Label Step-1 Music veröffentlicht.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Nuclear Waste
 
@@ -56,7 +56,7 @@ B7. Free The Henge
 B8. Punx Picnic
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m83973371066?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m83973371066?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aFqW2tAwJt4?si=uaey06jEekMb1FwF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

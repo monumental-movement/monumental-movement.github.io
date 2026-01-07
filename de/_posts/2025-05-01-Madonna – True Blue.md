@@ -19,7 +19,7 @@ True Blue, 1986 veröffentlicht, ist Madonnas drittes Studioalbum. Das von Motow
 
 Das Coverfoto für „True Blue“ zeigt die gleiche Pose wie Olivia Newton-Johns 12. Studioalbum „Physical“. Beide wurden vom amerikanischen Fotografen Herb Ritts erstellt.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Papa Don't Preach
 A2. Open Your Heart
@@ -32,7 +32,7 @@ B4. Jimmy Jimmy
 B5. Love Makes The World Go Round
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m38617104534?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m38617104534?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P51LunEV3Sk?si=Vd4ScsFpBDQ3hWn3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

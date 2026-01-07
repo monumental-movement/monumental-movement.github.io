@@ -21,7 +21,7 @@ Der Sound von Dry&Heavy ist von jamaikanischen Dub-Sounds der 1970er Jahre wie K
 
 „From Creation“ ist das fünfte Album, das 2002 vom japanischen Elektroniklabel Beat Records veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Reverse Again
 2. New Creation
@@ -37,7 +37,7 @@ Der Sound von Dry&Heavy ist von jamaikanischen Dub-Sounds der 1970er Jahre wie K
 12. Bright Shining Star
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m85699382527?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m85699382527?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TD92FzAQejM?si=rXLkZB2ZDW6kS2_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

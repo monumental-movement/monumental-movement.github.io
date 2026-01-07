@@ -19,7 +19,8 @@ title: '[Kolumne] Nyege Nyege: Eine Musikgruppe aus Uganda, die Afrikas musikali
 
 Text: mmr｜Thema: Über eine wichtige Musikgruppe, die „Outsider-Musik“ verbreitet, die traditionelle afrikanische Musik und moderne elektronische Musik in der Welt verbindet
 
-„Nyege Nyege“ ist eine Musikgruppe mit Sitz in Kampala, Uganda, und gilt als Pionier bei der weltweiten Verbreitung der afrikanischen Underground-Musikszene. Sein Name bedeutet auf Luganda „ein unwiderstehlicher Drang zum Tanzen“ und vermittelt eine kraftvolle Botschaft, die Menschen durch Musik und Tanz zusammenbringt.
+
+„Nyege Nyege“ ist eine Musikgruppe mit Sitz in Kampala, Uganda, und gilt als Pionier bei der weltweiten Verbreitung der afrikanischen Underground-Musikszene. Sein Name bedeutet auf Luganda „der unwiderstehliche Drang zum Tanzen“ und vermittelt eine kraftvolle Botschaft, die Menschen durch Musik und Tanz zusammenbringt.
 
 ---
 
@@ -43,12 +44,13 @@ color: #fff;
 4. [Acolitronix](#acholitronix)
 5. [Electro Maloya](#electro-maloya)
 6. [Anekdoten und Legenden](#Geschichte)
-7. [Kulturelle Bedeutung von Nyege Nyege als Ganzes](#kultur)
+7. [Kulturelle Bedeutung von Nyege Nyege als Ganzes](#Kultur)
 8. [Aktuelle Aktivitäten und Perspektiven](#now)
 9. [Empfohlener YouTube-Link](#youtube)
 10. [Zusammenfassung](#Schlussfolgerung)
 
 ---
+
 
 ## <a id="beginning"></a>Grundlage und Hintergrund
 
@@ -60,13 +62,14 @@ Nyege Nyege wurde 2013 in Kampala vom Amerikaner Arlen Dirsigian und dem Belgier
 
 Im Folgenden stellen wir repräsentative Alben und Projekte vor, die Nyege Nyege Tapes nach Jahr veröffentlicht hat.
 
+
 | Jahr | Künstler/Album | Funktionen | Links |
 |------|------------|------|---------|
-| 2016 | Disco Vumbi - Boutiq Electroniq | Elektronische Tanzmusik, die Chakacha und Benga kombiniert | [Amazon](https://amzn.to/479Dnlq) |
-| 2017 | Otim Alpha – Hymnen der Stadt Gulu | Rekonstruktion des traditionellen Rarakaraka-Hochzeitsliedes aus Norduganda mit elektronischer Musik | [Amazon](https://amzn.to/48el27Z) |
-| 2018 | Bamba Pana - Poaa | Ausdruck tansanischer Singeli-Musik mit einem Hochgeschwindigkeits-Beat von über 200 BPM | [Amazon](https://amzn.to/3VOVlDC) |
-| 2019 | Jay Mitta - Tatizo Pesa | Eine Weiterentwicklung von Singeli, mit einem Tempo von 180-190 BPM und reichhaltiger Percussion | [Amazon](https://amzn.to/489pDrX) |
-| 2023 | Rian Treanor & Ocen James – Sakkaden | Eine Fusion aus der traditionellen Rigiri-Geige des Akori-Volkes und elektronischer Musik | [Amazon](https://amzn.to/4pUf2HD) |
+| 2016 | Disco Vumbi - Boutiq Electroniq | チャカチャとベンガを融合したエレクトロニック・ダンスミュージック | [Amazon](https://amzn.to/479Dnlq) |
+| 2017 | Otim Alpha - Gulu City Anthems | 北ウガンダの伝統的なララカラカ結婚式の歌を電子音楽で再構築 | [Amazon](https://amzn.to/48el27Z) |
+| 2018 | Bamba Pana - Poaa | タンザニアのシンゲリ音楽を200BPM以上の高速ビートで表現 | [Amazon](https://amzn.to/3VOVlDC) |
+| 2019 | Jay Mitta - Tatizo Pesa | シンゲリの進化系で、180-190BPMのテンポと豊かなパーカッション | [Amazon](https://amzn.to/489pDrX) |
+| 2023 | Rian Treanor & Ocen James - Saccades | アコリ民族の伝統的なリギリギリ・フィドルと電子音楽の融合 | [Amazon](https://amzn.to/4pUf2HD) |
 
 ---
 
@@ -308,6 +311,7 @@ Es erregt weltweite Aufmerksamkeit als Musikstil, der gleichzeitig das Erbe der 
 
 ---
 
+
 ### <a id="story"></a>Anekdoten und Legenden
 
 Das Nyege Nyege Festival ist Afrikas größtes Festival für elektronische Musik und findet seit 2015 jedes Jahr in Jinja, Uganda, statt. Das Festival erregt Aufmerksamkeit als Ort, um der Welt Afrikas Underground-Musikszene vorzustellen und Unterstützung für die LGBTQ+-Community zu zeigen. Sie stieß jedoch auf Kritik konservativer Religionsgruppen und 2018 versuchte der Ethikminister, die Veranstaltung abzusagen, sie wurde jedoch mit Unterstützung des Innenministers fortgesetzt. Heute ist es ein Großereignis, das über 60.000 Besucher anzieht.
@@ -324,13 +328,13 @@ Nyege Nyege führt weiterhin die afrikanische Musikszene durch sein Plattenlabel
 
 Nachfolgend finden Sie einige empfohlene YouTube-Links zu Nyege Nyege:
 
-#### Nyege Nyege Festival 2024 Highlights
+#### Höhepunkte des Nyege Nyege Festivals 2024
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HAIRU-42QMQ?si=w6m2SbIelniv_0uZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### Otim Alpha - Gulu City Anthems
+#### Otim Alpha – Hymnen der Stadt Gulu
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QrahJ49091Q?si=ZB4PjI4cU3_67HfP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -345,5 +349,5 @@ Nachfolgend finden Sie einige empfohlene YouTube-Links zu Nyege Nyege:
 ### <a id="conclusion"></a>Zusammenfassung
 
 Nyege Nyege ist eine wichtige Musikgruppe, die „Outsider-Musik“ verbreitet, die traditionelle afrikanische Musik und moderne elektronische Musik in der Welt verbindet. Das Label Nyege Nyege Tapes steht an vorderster Front bei der Förderung der Fusion traditioneller afrikanischer Musik und elektronischer Musik, darunter Shingeli, Akolitronics, Electro Maloya usw.
-Wir haben eine einzigartige Position in der Weltmusikszene geschaffen, indem wir gleichzeitig die lokale Kultur bewahren, Stadt- und Jugendkultur zum Ausdruck bringen und sie international verbreiten. Ihre Aktivitäten erinnern uns daran, wie wichtig nicht nur Musik, sondern auch kulturelle Vielfalt und soziale Integration sind. Wir werden ihre Musik und Aktivitäten weiterhin im Auge behalten.
+Wir sind gleichzeitig dafür verantwortlich, die lokale Kultur zu bewahren, Stadt- und Jugendkultur zum Ausdruck zu bringen und sie international zu verbreiten, und haben uns eine einzigartige Position in der Weltmusikszene erarbeitet. Ihre Aktivitäten erinnern uns daran, wie wichtig nicht nur Musik, sondern auch kulturelle Vielfalt und soziale Integration sind. Wir werden ihre Musik und Aktivitäten weiterhin im Auge behalten.
 

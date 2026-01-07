@@ -17,6 +17,7 @@ title: '[Kolumne] Tresor – Das Techno-Mekka, das vom Underground in Berlin aus
 
 ## Eine unverzichtbare Präsenz, wenn es um die Berliner Clubkultur und die europäische Technoszene geht – **Tresor**
 
+
 Text: mmr｜Thema: Berliner Clubkultur und die europäische Technoszene
 
 <hr>
@@ -36,7 +37,7 @@ Tresor (was auf Deutsch „sicher“ bedeutet) ist ein Club, der 1991 in Berlin,
 Verlassene Gebäude, stillgelegte Fabriken und unterirdische Räume wurden in Clubs umgewandelt.
 
 Westliche und östliche Kulturen verschmolzen und Tanzmusik, ein Symbol der Freiheit, erklang.
-Unter anderem eröffnete Tresor in einem renovierten Tresorraum eines ehemaligen Kaufhauses. Der tiefe Bassklang, der hinter der geschlossenen Eisentür erklang, symbolisierte den Beginn einer neuen Ära.
+Unter anderem eröffnete Tresor in einem renovierten Tresorraum eines ehemaligen Kaufhauses. Der tiefe Bassklang, der hinter der geschlossenen Eisentür ertönte, symbolisierte den Beginn einer neuen Ära.
 
 <hr>
 
@@ -44,9 +45,9 @@ Unter anderem eröffnete Tresor in einem renovierten Tresorraum eines ehemaligen
 
 Insbesondere Tresor diente als Sprungbrett für die Expansion des Detroit Techno nach Europa.
 
-[Juan Atkins](https://amzn.to/4pKH2gP), [Derrick May](https://amzn.to/4mz3EhL), [Kevin Saunderson](https://amzn.to/4nhZU5g) sind die Gründer von Detroit, bekannt als die „Belleville Three“.
+[Juan Atkins](https://amzn.to/4pKH2gP), [Derrick May](https://amzn.to/4mz3EhL), [Kevin Saunderson](https://amzn.to/4nhZU5g)ら「Belleville Three」と呼ばれるデトロイトの創始者たち。
 
-[Jeff Mills](https://amzn.to/4mz3K97), [Blake Baxter](https://amzn.to/4gLRznV), [Underground Resistance](https://amzn.to/4gIEprP) und andere sind in Berlin aktiv und spielen im Tresor.
+[Jeff Mills](https://amzn.to/4mz3K97), [Blake Baxter](https://amzn.to/4gLRznV), [Underground Resistance](https://amzn.to/4gIEprP)などがベルリンで活動し、Tresorでプレイ。
 Dadurch wurde der in den USA geborene futuristische und politische Techno mit der europäischen Clubkultur verknüpft und so die Grundlage für ein „globales Techno-Netzwerk“ geschaffen.
 
 <hr>
@@ -55,7 +56,7 @@ Dadurch wurde der in den USA geborene futuristische und politische Techno mit de
 
 Tresor Records wurde 1991 als Teil eines Clubs gegründet und fungiert als wichtiges Techno-Label.
 
-[Jeff Mills – Waveform Transmission Series](https://amzn.to/4mJeXE1)
+[Jeff Mills – Waveform Transmissionシリーズ](https://amzn.to/4mJeXE1)
 
 [Robert Hood – Internal Empire](https://amzn.to/42hCSmK)
 
@@ -84,7 +85,7 @@ Der Einfluss von Tresor ist der Grund dafür, dass die Stadt Berlin die Clubkult
 
 <hr>
 
-### Umzug und aktuelle Situation
+### Umzug und aktueller Stand
 
 2005 wurde der ursprüngliche Standort geschlossen, 2007 jedoch in ein ehemaliges Kraftwerk in Ost-Berlin verlegt.
 
@@ -124,7 +125,7 @@ Heute treten dort DJs aus aller Welt auf und er dient weiterhin als Wallfahrtsor
 
 - Ästhetik der „Ortlichkeit“, die Ruinen wiederverwendet
 
-- Die Grundlage dafür, dass Berlin als „Techno-Hauptstadt der Welt“ bezeichnet wird
+- Die Grundlage dafür, dass Berlin „Techno-Hauptstadt der Welt“ genannt wird
 
 <hr>
 
@@ -148,22 +149,22 @@ Heute treten dort DJs aus aller Welt auf und er dient weiterhin als Wallfahrtsor
 
 - [Pacou – Symbolic Language (1998, Tresor)](https://amzn.to/3W9EeMD)
 
-- [Tresor Compilation-Reihe (insbesondere Band 1 bis Band 3)](https://amzn.to/4pIiQMf)
+- [Tresor Compilationシリーズ（特にVol.1～Vol.3)](https://amzn.to/4pIiQMf)
 
 <hr>
 
 ### Die Musik des Techno von einer „vorübergehenden Modeerscheinung“ zu einer „universellen Kultur“ erheben
 
-Tresor ist mehr als nur ein Club oder ein Label, es ist ein „kultureller Knotenpunkt“, der die Geschichte Berlins, den Stadtraum nach dem Kalten Krieg und die Zukunft der schwarzen Musik in Detroit verbindet.
-Die aus diesem Gewölbe freigesetzten Klänge hallen immer noch in der Clubkultur auf der ganzen Welt nach und erheben die Musik des Techno von einer „vorübergehenden Modeerscheinung“ zur „universellen Kultur“.
+Tresor ist mehr als nur ein Club oder Label, es ist ein kultureller Knotenpunkt, der die Geschichte Berlins, den urbanen Raum nach dem Kalten Krieg und die Zukunft der schwarzen Musik in Detroit verbindet.
+Die aus diesem Gewölbe freigesetzten Klänge hallen immer noch in der Clubkultur auf der ganzen Welt wider und erheben die Musik des Techno von einer „vorübergehenden Modeerscheinung“ zur „universellen Kultur“.
 
 ---
 
 ### Verwandte Spalten
 
-🔗 [[Kolumne] Von den Ursprüngen des Techno bis zur Gegenwart – eine chronologische Geschichte, die anhand berühmter Platten und Geräte verfolgt wird](https://monumental-movement.jp/Column-Techno-History)
+🔗 [【コラム】 テクノの発祥から現在まで ― 名盤と機材でたどる年代史](https://monumental-movement.jp/Column-Techno-History)
 
-🔗 [[Kolumne] Detroit Techno: Menschlicher Tanz, geschaffen durch den Herzschlag von Maschinen](https://monumental-movement.jp/Column-Detroit-Techno)
+🔗 [【コラム】 デトロイト・テクノ(Detroit Techno)：機械の鼓動が生んだ人間のダンス](https://monumental-movement.jp/Column-Detroit-Techno)
 
-🔗 [Die Genealogie und Gegenwart des deutschen Techno – die Ästhetik des Klangs, der sich von Berlin in die Welt verbreitet](https://monumental-movement.jp/Column-German-Techno)
+🔗 [ドイツ・テクノ（German Techno）の系譜と現在 ― ベルリンから世界へ広がる音の美学](https://monumental-movement.jp/Column-German-Techno)
 

@@ -21,7 +21,7 @@ Ein kompletter Disc-Guide für alle Genres mit über 500 Discs. Es werden Kolumn
 
 Insgesamt 195 Seiten, ca. 700 Fotos
 
-#### Contents
+#### Inhalt
 ```md
 
 Rock/Pop
@@ -37,4 +37,4 @@ World
 Contemporary
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m49392573292?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m49392573292?afid=6142608987){: .button1}

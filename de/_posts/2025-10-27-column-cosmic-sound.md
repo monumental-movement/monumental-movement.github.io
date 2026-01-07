@@ -17,14 +17,15 @@ title: '[Kolumne] Cosmic Sound und Daniele Baldelli – Tanz zwischen Raum und G
 
 ## 1. Prolog: Wo die Space-Disco geboren wurde
 
+
 Text: mmr｜Thema: Auf den Spuren der einzigartigen Klangphilosophie, die durch eine andersdimensionale Mischung, Geschwindigkeitsmanipulation und die Verschmelzung von Volksmusik und elektronischen Klängen entsteht.
 
-Ende der 1970er Jahre, am Ufer des Gardasees in Norditalien.  
-Niemand wusste, dass dieser Ort, der nur ein Ferienort für Touristen war, später zum Zentrum eines akustischen Phänomens namens **Cosmic Sound** werden würde.  
-Die zentrale Figur ist **Daniele Baldelli**.  
-Er ist mehr als nur ein DJ geworden, er ist als „Architekt, der die Geschwindigkeit von Schall und Raum rekonstruiert“ bekannt geworden.
+Ende der 1970er Jahre, am Ufer des Gardasees in Norditalien.
+Niemand wusste, dass dieser Ort, der nur ein Ferienort für Touristen war, später zum Zentrum eines akustischen Phänomens namens **Cosmic Sound** werden würde.
+Die zentrale Figur ist **Daniele Baldelli**.
+Er ist nicht nur ein DJ, sondern wurde auch als „Architekt, der die Geschwindigkeit von Schall und Raum rekonstruiert“ bekannt.
 
-In der damaligen Disco-Szene dominierten 4/4-Rhythmen, vertreten durch amerikanische Soul- und House-Musik.  
+In der damaligen Disco-Szene dominierten 4/4-Rhythmen, vertreten durch amerikanische Soul- und House-Musik.
 Allerdings verwebt Baldelli ethnische Musik, elektronische Klänge, Progressive Rock, afrikanische Trommeln und sogar Krautrock.
 **Wir haben das Konzept des „kosmischen Tempos“ vorgestellt**, das es Ihnen ermöglicht, den BPM frei zu ändern.
 
@@ -46,46 +47,47 @@ color: #fff;
 }
 </style>
 
+
 ## 2. Was ist kosmischer Klang? - Ein undefinierbares akustisches Erlebnis
 
-Cosmic Sound wird oft als „kosmische Disco“ übersetzt.  
-Damit ist aber nicht nur Science-Fiction-Sounddesign gemeint.  
+Cosmic Sound wird oft als „kosmische Disco“ übersetzt.
+Damit ist aber nicht nur Science-Fiction-Sounddesign gemeint.
 Vielmehr bezieht es sich auf **DJ-Spiel, das Zeit und Schwerkraft verzerrt**.
 
 ### Charakteristische Elemente
 
 - **Tempoflüssigkeit**:
-  Spielt eine Schallplatte mit 45 U/min bei 33 U/min ab und passt die Tonhöhe zusätzlich um mehr als ±8 % an.  
-  Dadurch klingt derselbe Titel wie ein Signal von einem unbekannten Planeten.
+Spielt eine Schallplatte mit 45 U/min bei 33 U/min ab und passt die Tonhöhe zusätzlich um mehr als ±8 % an.
+Dadurch klingt derselbe Titel wie ein Signal von einem unbekannten Planeten.
 
 - **Kulturelle Mischung**:
-  Eine Mischung aus deutschem Krautrock (Can, Neu!), afrikanischer Musik, elektronischem Ambient und italienischer Synth-Disco.  
-  Es ist wie eine außerirdische Jukebox.
+Eine Mischung aus deutschem Krautrock (Can, Neu!), afrikanischer Musik, elektronischem Ambient und italienischer Synth-Disco.
+Es ist wie eine außerirdische Jukebox.
 
 - **Ritual**:
-  Im Cosmic Club werden Lichter und Spiegelkugeln unterdrückt, stattdessen dominieren Rauch und Projektoren den Raum.  
-  Anstatt zu tanzen, hatte das Publikum das Gefühl, in den Klang „eingetaucht“ zu sein.
+Im Cosmic Club werden die Lichter und Spiegelkugeln unterdrückt, stattdessen dominieren Rauch und Projektoren den Raum.
+Anstatt zu tanzen, hatte das Publikum das Gefühl, in den Klang „eingetaucht“ zu sein.
 
 ---
 
 ## 3. Baldellis Spielphilosophie – Eine Bewusstseinsrevolution in Richtung „Geschwindigkeit“
 
-Die eigentliche Innovation von Daniele Baldelli bestand darin, Geschwindigkeit (Tempo) als musikalisches Element zu behandeln.  
+Die eigentliche Innovation von Daniele Baldelli bestand darin, Geschwindigkeit (Tempo) als musikalisches Element zu behandeln.
 er spricht.
 
 > „Es ist einfach, Musikgenres zu mischen.“
 > Allerdings ist es eine Frage der Sensibilität, nicht der Technologie, sie mit einer Geschwindigkeit zu „kosmisieren“. ”
 
 Seine Mixe reichen von 110-BPM-Funk über 85-BPM-Afro-Percussion bis hin zu verlangsamtem Synth-Ambient.
-**Übertragt reibungslos**. Man spürt nicht einmal die Grenzen zwischen den Liedern.  
+**Übertragt reibungslos**. Man spürt nicht einmal die Grenzen zwischen den Liedern.
 Die ganze Nacht über fühlt es sich an, als würde ein Raumschiff abstürzen und die Umlaufbahn verlassen.
 
 ---
 
 ## 4. Klangmaterialwissenschaft – Verlagerung von Klangquellen im Kosmischen
 
-Baldelli war ein Pionier der DJs, die Songs als „Material“ behandelten.  
-Ich hatte ein starkes Gefühl dafür, die aufgenommenen Klänge auf dem Plattenspieler noch einmal zu „komponieren“.
+Baldelli war ein Pionier der DJs, die Songs als „Material“ behandelten.
+Es herrschte ein starkes Gefühl, die aufgenommenen Klänge auf dem Plattenspieler noch einmal zu „komponieren“.
 
 | Verwendete Quellen | Konkrete Beispiele |
 |:--|:--|
@@ -101,18 +103,18 @@ Dieser multikulturelle Mix war der Vorläufer des späteren **Balearic Sound**, 
 
 ## 5. Interne Struktur des Cosmic Club – Klangfeld als Architektur
 
-### Standort:
+### Ort:
 „**Discoteca Cosmic**“ am Ufer des Gardasees, Norditalien (1979–1984)
 
-### Funktionen:
+### Merkmale:
 - Niedrige Decken und einzigartige Echos
 - **Rauch + Laserbestrahlung** auf dem Boden
 - Baldellis DJ-Pult ist auf einem Hügel installiert und verfügt über eine Struktur, die den Klang von oben auf das Publikum abstrahlt.
 - Ein Raum, der eher von „Dunkelheit“ als von Licht dominiert wird
 
-In diesem Club war „Driften“ wichtiger als „Tanzen“.  
-Besucher werden vom Klang mitgerissen und verlieren ihr Zeitgefühl.  
-Cosmic war „Meditation in der Nacht“**.
+In diesem Club war „Driften“ wichtiger als „Tanzen“.
+Der Besucher wird vom Klang mitgerissen und verliert sein Zeitgefühl.
+Kosmisch war „Meditation in der Nacht“.
 
 ---
 
@@ -125,15 +127,15 @@ Die von ihm verwendete Ausrüstung weist besondere Merkmale auf, die ihn von and
 - Eko Multitone EQ
 - Sample-Loop mit Reel-to-Reel-Band
 
-Mit diesen kreierte er eine Live-Performance „rhythmischer Atem“**.  
-Bei der Bandwiederholung wird derselbe Ton mit einer leichten Verschiebung neu arrangiert.  
+Mit diesen kreierte er eine Live-Performance „rhythmischer Atem“**.
+Bei der Bandwiederholung wird derselbe Ton mit einer leichten Verschiebung neu arrangiert.
 Man kann sagen, dass dies die Vorgeschichte der späteren Sampler-Musik war.
 
 ---
 
 ## 7. Vererbung und Variation – vom Kosmischen bis zum Balearischen
 
-In den späten 1980er Jahren erbten die Ibiza-DJs Alfredo und José Padilla Baldellis kosmische Philosophie.  
+In den späten 1980er Jahren erbten die Ibiza-DJs Alfredo und José Padilla Baldellis kosmische Philosophie.
 Daraus entwickelte sich ein Trend namens „Balearic Beat“, der später die **britische Clubkultur** grundlegend veränderte.
 
 | Genealogie | Repräsentative Menschen |
@@ -166,6 +168,7 @@ timeline
 </div>
 
 ---
+
 
 ## 9. Abbildung: Strukturmodell des kosmischen Klangs
 

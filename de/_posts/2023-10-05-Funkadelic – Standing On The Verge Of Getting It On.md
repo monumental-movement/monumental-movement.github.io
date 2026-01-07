@@ -17,7 +17,7 @@ title: Funkadelic – steht kurz davor, es in die Tat umzusetzen
 
 Es ist Funkadelics sechstes Studioalbum und bietet den charakteristischen Funk-Sound und den gefühlvollen Gesang der Gruppe. Das Album bietet den unverwechselbaren Sound von Funkadelic, einschließlich lebhafter Gitarrenriffs, grooviger Basslinien und schwerer Schlagzeugmuster.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Red Hot Momma
 
@@ -34,7 +34,7 @@ B2. Jimmy's Got A Little Bit Of Bitch In Him
 B3. Good Thoughts, Bad Thoughts
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m49054881048?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m49054881048?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LGgeWEPhPpo?si=iZTpDybPlEOnmxiN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

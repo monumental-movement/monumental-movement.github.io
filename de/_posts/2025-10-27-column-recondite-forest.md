@@ -16,17 +16,18 @@ title: '[Kolumne] Recondite und Waldbaden – Wenn Techno in den Wald zurückkeh
 
 ## Prolog: Ein Beat, der im Wald versinkt
 
-Text: mmr | Thema: Deutscher Minimal-Techno-Künstler Recondite. In der Musik hört man in seinen künstlichen Sequenzen das Atmen des Waldes. Hier erkunden wir die philosophische Schnittstelle zwischen seiner Arbeit und dem Waldbaden (Shinrin-yoku).
 
-Recondite – richtiger Name Lorenz Brunner.  
-Wenn viele Menschen seine Musik zum ersten Mal hören, verspüren sie ein Gefühl von „Einsamkeit“ und „Ruhe“.  
-Tief im Inneren besteht jedoch eine Spannung zwischen Natur und Technologie.  
+Text: mmr | Thema: Deutscher Minimal-Techno-Künstler Recondite. Die Musik lässt in ihren künstlichen Sequenzen das Atmen des Waldes hören. Hier erkunden wir die philosophische Schnittstelle zwischen seiner Arbeit und dem Waldbaden (Shinrin-yoku).
+
+Recondite – richtiger Name Lorenz Brunner.
+Wenn viele Menschen seine Musik zum ersten Mal hören, verspüren sie ein Gefühl von „Einsamkeit“ und „Ruhe“.
+Tief im Inneren besteht jedoch eine Spannung zwischen Natur und Technologie.
 Für Brunner, der in den bayerischen Wäldern Süddeutschlands aufgewachsen ist, ist Klang kein Produkt der Stadt;
 **Es war ein organisches Ding, das aus Nebel und Feuchtigkeit, Wind und Schatten entstand**.
 
-In den letzten Jahren hat der Begriff „Waldbaden“ (Shinrin-yoku) weltweite Aufmerksamkeit erregt, auch in Japan.  
-Dabei handelt es sich nicht nur um Heilung, sondern darum, die menschlichen Sinne wieder mit der natürlichen Umgebung zu verbinden.  
-Dieses Konzept und die Klangwelt von Recondite sind seltsam intim.  
+In den letzten Jahren hat der Begriff „Waldbaden“ (Shinrin-yoku) weltweite Aufmerksamkeit erregt, auch in Japan.
+Dabei handelt es sich nicht nur um Heilung, sondern darum, die menschlichen Sinne wieder mit der natürlichen Umgebung zu verbinden.
+Dieses Konzept und die Klangwelt von Recondite sind seltsam intim.
 Seine minimalen Tracks sind wie ein Spaziergang durch einen digitalen Wald.
 
 ---
@@ -44,30 +45,31 @@ color: #fff;
 }
 </style>
 
+
 ## Kapitel 1: Das Phänomen namens Recondite
 
-Seit ihrem Debüt im Jahr 2011 hat sich Recondite eine einzigartige Position in der progressiven Techno-Szene erarbeitet.  
+Seit ihrem Debüt im Jahr 2011 haben sich Recondite eine einzigartige Position in der progressiven Techno-Szene erarbeitet.
 Während er sich von der Berliner Clubkultur distanzierte, kombinierte er Einsamkeits- und Naturmotive.
 
 Repräsentative Werke:
 
-- [**„On Acid“ (2012)**](https://amzn.to/4oCl2TY) – Rekonstruktion des Acid-Sounds von Roland TB-303 in feuchter Luft.  
-- [**"Hinterland" (2013)**](https://amzn.to/3X1cVo8) — Ein Album mit dem Motiv der Landschaft meiner Heimatstadt. Eine Melodie, die den Kamm eines Berges nachzeichnet.  
-- [**„Iffy“ (2014)**](https://amzn.to/4oJaMcR) – Ein introspektiver Beat und ein Ton, der sich wie ein flüchtiger Moment des Lichts in einem Wald anfühlt.  
-- [**„Dwell“ (2020)**](https://amzn.to/42VHuiH) – Ein Werk, das in einer Zeit der Isolation entstand. Das Thema ist eine Rückkehr zur Natur.
+- [**"On Acid" (2012)**](https://amzn.to/4oCl2TY) — Roland TB-303のアシッドサウンドを湿った空気の中で再構築。  
+- [**"Hinterland" (2013)**](https://amzn.to/3X1cVo8) — 故郷の風景をモチーフにしたアルバム。山の稜線をなぞるような旋律。  
+- [**"Iffy" (2014)**](https://amzn.to/4oJaMcR) — 内省的なビートと、光が差す森の一瞬のようなトーン。  
+- [**"Dwell" (2020)**](https://amzn.to/42VHuiH) — 孤立した時間の中で生まれた作品。自然への回帰がテーマ。  
 
 ---
 
 ## Kapitel 2: Waldgeräuschlandschaft
 
-Bei der Analyse der Musik von Recondite ist sie durch „Atmung im unteren Bereich“ und „Feuchtigkeit im mittleren Bereich“ gekennzeichnet.  
-Kick ist immer gedämpft und lässt stattdessen den Nachhall der Synthesizer die Luftschichten zwischen den Bäumen zum Ausdruck bringen.  
+Bei der Analyse der Musik von Recondite ist sie durch „Atmung im unteren Bereich“ und „Feuchtigkeit im mittleren Bereich“ gekennzeichnet.
+Kick ist immer gedämpft und lässt stattdessen den Nachhall der Synthesizer die Luftschichten zwischen den Bäumen zum Ausdruck bringen.
 Diese Struktur entspricht dem Mechanismus, durch den Waldbaden den Parasympathikus beim Menschen stimuliert.
 
 > Beim Waldbaden werden mehrere Reize wie natürliche Geräusche, Licht, Gerüche und Feuchtigkeit genutzt.
 > Es soll Stresshormone beim Menschen reduzieren (Umfrage der Forstbehörde, 2004).
 
-Bei den Live-Auftritten von Recondite fühlt es sich an, als ob ein „**elektronisches Laubreiben**“ den Veranstaltungsort umhüllt.  
+Bei den Live-Auftritten von Recondite fühlt es sich an, als ob ein „**elektronisches Laubreiben**“ den Veranstaltungsort umhüllt.
 Obwohl es sich um **künstliche Natur** handelt, die mit digitaler Ausrüstung reproduziert wird,
 Aus irgendeinem Grund verspürt der Zuhörer die Illusion, näher am Wald zu sein.
 
@@ -75,24 +77,24 @@ Aus irgendeinem Grund verspürt der Zuhörer die Illusion, näher am Wald zu sei
 
 ## Kapitel 3: Die Schnittstelle von Techno und Ökologie
 
-Technomusik wird oft als urban, mechanisch und anorganisch beschrieben.  
+Technomusik wird oft als urban, mechanisch und anorganisch beschrieben.
 Doch der Ansatz von Recondite ist das Gegenteil. Er betrachtet Synthesizer als „eine Erweiterung der Landschaft“.
 
-Der Umweltphilosoph Timothy Morton schlug das Konzept der „**dunklen Ökologie**“ vor.  
-Es ist für den Menschen unmöglich, sich vollständig von der Natur zu trennen, und wir sollten lieber einen **unangenehmen Mischzustand** akzeptieren.  
-Die Musik von Recondite verkörpert diese Philosophie.  
-Eine künstliche Trommelmaschine ahmt den Herzschlag des Waldes nach und ein Sequenzer erzeugt den Rhythmus des Windes.  
+Der Umweltphilosoph Timothy Morton schlug das Konzept der „**dunklen Ökologie**“ vor.
+Es ist für den Menschen unmöglich, sich vollständig von der Natur zu trennen, und wir sollten lieber einen **unangenehmen Mischzustand** akzeptieren.
+Die Musik von Recondite verkörpert diese Philosophie.
+Eine künstliche Trommelmaschine ahmt den Herzschlag des Waldes nach und ein Sequenzer erzeugt den Rhythmus des Windes.
 Es handelt sich um eine Klangökologie, die das zwiespältige Zusammenleben von Natur und vom Menschen geschaffenem widerspiegelt.
 
 ---
 
 ## Kapitel 4: Waldbad-Rhythmus und Meditation
 
-Beim Waldbaden wird empfohlen, „langsam zu gehen**“ und „**sich auf die Atmung zu konzentrieren**“.  
-Auch die Tracks von Recondite haben ein mäßig schnelles Tempo (ungefähr 110-118 BPM).  
+Beim Waldbaden wird empfohlen, „langsam zu gehen**“ und „**sich auf die Atmung zu konzentrieren**“.
+Auch die Tracks von Recondite haben ein mäßig schnelles Tempo (ungefähr 110-118 BPM).
 Seine Beats sind meditativ und so konzipiert, dass sie sich mit dem Herzschlag des Zuhörers synchronisieren.
 
-Aus der Musikpsychologie ist bekannt, dass ein bestimmtes Tempo einen Zustand fördert, in dem der Parasympathikus dominiert.  
+Aus der Musikpsychologie ist bekannt, dass ein bestimmtes Tempo einen Zustand fördert, in dem der Parasympathikus dominiert.
 Daher ist das Recondite-Live-Erlebnis mehr als nur ein Club-Event;
 Man kann sagen, dass es als „**Waldbaden in der Stadt**“ fungiert.
 
@@ -100,11 +102,11 @@ Man kann sagen, dass es als „**Waldbaden in der Stadt**“ fungiert.
 
 ## Kapitel 5: Digitales Baummeer – Integration von Bildern und Tönen
 
-Recondite produziert auch seine eigenen Visuals.  
-Neblige Berge, Silhouetten von Bäumen und zugefrorene Seen.  
+Recondite produziert auch seine eigenen Visuals.
+Neblige Berge, Silhouetten von Bäumen und zugefrorene Seen.
 Zusammen mit dem Klang konstruieren sie eine „**elektronische Landschaft**“.
 
-Diese visuelle Methode kann als eine Form des **immersiven ökologischen Ausdrucks** im Techno betrachtet werden.  
+Diese visuelle Methode kann als eine Form des **immersiven ökologischen Ausdrucks** im Techno betrachtet werden.
 Mit anderen Worten, sein Live-Auftritt ist ein Klang-Waldbadegerät.
 Es handelt sich um eine **Nachbildung eines digitalen Waldes**, der die menschlichen Sinne zum natürlichen Gedächtnis führt.
 
@@ -113,15 +115,15 @@ Es handelt sich um eine **Nachbildung eines digitalen Waldes**, der die menschli
 ## Kapitel 6: Recondite und Japan – die Schnittstelle der Waldkultur
 
 Interessant ist, dass Recondite, als er Japan besuchte,
-„Die Ruhe der japanischen Wälder hat mich tief beeindruckt“, sagte er (aus einem Interview von 2018).  
-Im Gegensatz zu westlichen Wäldern haben Japans „Waldzeichen“ eine **mythische Selbstbeobachtung**.  
+„Die Ruhe der japanischen Wälder hat mich tief beeindruckt“, sagte er (aus einem Interview von 2018).
+Im Gegensatz zu westlichen Wäldern haben Japans „Waldzeichen“ eine **mythische Selbstbeobachtung**.
 Dieser Einfluss zeigt sich im Minimalismus seiner späteren Werke.
 
-> “Silence in Japan is not empty. It has presence.”  
-> — Recondite, Tokyo Interview, 2018
+> „Stille ist in Japan nicht leer. Sie hat Präsenz.“
+> — Recondite, Tokio-Interview, 2018
 
-Diese „Stille als Existenz“ ist die Essenz des Waldbadens.  
-**Stille hebt den Klang hervor**.  
+Diese „Stille als Existenz“ ist die Essenz des Waldbadens.
+**Stille hebt den Klang hervor**.
 Seine Musik ist eine elektronische Übersetzung dieser Philosophie.
 
 ---
@@ -164,6 +166,7 @@ Es imitiert den Prozess, durch den natürliche Klänge die menschliche Psyche st
 
 ---
 
+
 ## Kapitel 9: Philosophische Überlegungen – Das Selbst als Wald
 
 Der Akt, Recondites Werken zuzuhören, ist
@@ -173,19 +176,19 @@ Es ist wie ein **akustisches Waldbaden**.
 Der Philosoph Maurice Merleau-Ponty
 „Der Körper ist Teil der Welt und Empfindungen sind Phänomene der Interaktion mit der Welt.“
 Die Musik von Recondite setzt diese phänomenologische Perspektive elektronisch um.
-Mit anderen Worten: Es präsentiert eine neue Körperlichkeit namens **Musik = Wald der Sinne**.
+Mit anderen Worten präsentiert er eine neue Körperlichkeit namens **Musik = Wald der Sinne**.
 
 ---
 
 ## Kapitel 10: Fazit – Techno kehrt in den Wald zurück
 
 Die Musik von Recondite ist nicht mechanischer Natur, sondern
-**Es hält ein Gleichgewicht aufrecht, das sich anfühlt, als würde eine Maschine in der Natur atmen**.
+**Es hält das Gleichgewicht aufrecht wie eine Maschine, die in der Natur atmet**.
 
 Wenn das Baden im Wald ein Akt der „Rückkehr des Menschen zur Natur“ ist,
 Die Musik von Recondite ist ein Akt der „Rückführung von Techno in die Natur“.
-Künstlich und organisch, Stadt und Wald, Takt und Stille – sie alle verschmelzen in ihm.
-Es schwingt mit als eine neue „**Poetik der digitalen Natur**“.
+Künstlich und organisch, Stadt und Wald, Beat und Stille – sie alle verschmelzen in ihm.
+Es schwingt mit als eine neue „**Poetik der digitalen Natur**.“
 
 > Hören Sie Recondite, als würden Sie ein Waldbad nehmen.
 > Das ist der Moment, in dem wir uns daran erinnern, dass Techno wieder „lebendig“ ist.
@@ -194,7 +197,7 @@ Es schwingt mit als eine neue „**Poetik der digitalen Natur**“.
 
 ## Referenzen/Quellen
 
-- [Forstbehörde „Forschung zu den physiologischen Auswirkungen des Waldbadens“ (2004)](https://www.ffpri.go.jp/pubs/seikasenshu/2004/documents/p46-47.pdf)
+- [林野庁『森林浴の生理的効果に関する研究』（2004）](https://www.ffpri.go.jp/pubs/seikasenshu/2004/documents/p46-47.pdf)
 
 - [Timothy Morton, Dark Ecology (2016)](https://amzn.to/4oa80gE)
 

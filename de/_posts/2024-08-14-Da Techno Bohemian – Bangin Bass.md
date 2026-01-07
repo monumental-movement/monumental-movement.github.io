@@ -19,7 +19,7 @@ Da Techno Bohemian ist ein Studioprojekt zwischen dem in Rotterdam geborenen DJ 
 
 Der zweite Titel auf Seite A ist ein Remix des britischen House-Musik-Duos Rhythm Masters, das Künstler wie Todd Terry, Junior Vasquez, David Morales und Roger Sanchez remixt hat.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Bangin' Bass (Lisa Marie Experience Remix)
 A2. Bangin' Bass (Rhythm Masters Remix)
@@ -28,7 +28,7 @@ B1. Bangin' Bass (Original Mix)
 B2. Bangin' Bass (Itty-Bitty-Boozy-Woozy Remix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m60734149480?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m60734149480?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aVt6FdQ4Mpc?si=DUG13k0qEF3tqQ_e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

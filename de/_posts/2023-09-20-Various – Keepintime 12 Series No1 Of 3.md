@@ -18,7 +18,7 @@ Dies ist eine 12-Zoll-Serie aus der Dokumentation „Keepintime“, die Sessions
 B2 beinhaltet auch eine Live-Aufzeichnung der Sitzung.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A1  Cut Chemist–A Peek In Time
 
@@ -26,9 +26,9 @@ A2  AmmonContact–Infinity Of Rhythm Mix
 
 B1  King Britt–King's On Time Mix
 
-B2 Unbekannter Künstler – Exklusiver Auszug aus Keepintime: Eine Live-Aufnahme
-````
-[Auf Mercari kaufen](https://jp.mercari.com/item/m29653192560?afid=6142608987){: .button1}
+B2  Unknown Artist–Exclusive Excerpt From Keepintime: A Live Recording
+```
+[メルカリで購入](https://jp.mercari.com/item/m29653192560?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QT3GXm7HoXI?si=h9OBbQ-wA4hYE6Bi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

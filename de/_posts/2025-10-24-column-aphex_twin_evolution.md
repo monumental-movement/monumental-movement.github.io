@@ -17,9 +17,10 @@ title: '[Kolumne] Die Anfänge und die Gegenwart von Aphex Twin – jenseits des
 
 ## „Als die Musik aufhörte, Emotionen zu imitieren, erschien Aphex Twin.“
 
+
 Text: mmr｜Thema: Vergleich der frühen Werke von Aphex Twin mit ihren aktuellen Errungenschaften und kritische Interpretation der Veränderungen in ihrer akustischen Struktur, Philosophie und Technologie.
 
-In den frühen 1990er-Jahren trat Richard D. James (Aphex Twin) als jemand hervor, der die bestehende Grammatik von Genres wie Techno und Ambient völlig auf den Kopf stellte. Seine frühen Werke sind Klangexperimente, in denen sich mechanische Träume und menschliche Illusionen vermischen, und sein aktueller Klang liegt zwischen einer Struktur künstlicher Intelligenz und einer Rückkehr zur Nostalgie.
+In den frühen 1990er-Jahren trat Richard D. James (Aphex Twin) als jemand hervor, der die bestehende Grammatik von Genres wie Techno und Ambient völlig auf den Kopf stellte. Seine frühen Werke sind **Klangexperimente, bei denen Maschinenträume und menschliche Illusionen ineinandergreifen**, und sein aktueller Sound bewegt sich zwischen **künstliche Intelligenz-ähnlichen Strukturen und der Rückkehr der Nostalgie**.
 
 Im Folgenden werden wir diese „Veränderungen“ und „Unveränderungen“ auf den vier Achsen Arbeit, Technologie, Ästhetik und Ideologie vergleichen und untersuchen.
 
@@ -38,23 +39,24 @@ color: #fff;
 }
 </style>
 
+
 ## I. Die Welt der frühen Aphex Twin: elektronische Poetik und analoge Gewalt
 
 ### 1.1 „Selected Ambient Works“ – Introspektive elektronische Träume
 
-„Selected Ambient Works 85–92“ aus dem Jahr 1992 war ein Wendepunkt in der Geschichte der elektronischen Musik.  
-Der monotone Rhythmus eines Sequenzers und die sanften Schwankungen eines analogen Synthesizers.  
+„Selected Ambient Works 85–92“ aus dem Jahr 1992 war ein Wendepunkt in der Geschichte der elektronischen Musik.
+Der monotone Rhythmus eines Sequenzers und die sanften Schwankungen eines analogen Synthesizers.
 Was Sie im Inneren hören können, ist das „menschliche Atmen“ auf der anderen Seite der Elektronen.
 
-Anstatt Klänge zu „komponieren“, komponierte Richard „Umgebungen“.  
-Ein seltsames Klangbild, das atmosphärisch ist und dennoch die Intensität eines Clubs hat.  
+Anstatt Klänge zu „komponieren“, komponierte Richard „Umgebungen“.
+Ein seltsames Klangbild, das atmosphärisch ist und dennoch die Intensität eines Clubs hat.
 Es war eine Erweiterung von Brian Eno, aber mit einer persönlicheren und destruktiveren Emotion.
 
 > „Für mich ist Ambient ‚Erinnerungen, die in der Luft widerhallen‘.“ (Aphex Twin, 1993)
 
 ### 1.2 Die Ära der „Klassiker“ und des „analogen Schaumbads“
 
-In den frühen EPs prägten die physischen Einschränkungen der Hardware den eigentlichen Charakter des Sounds.  
+In den frühen EPs prägten die physischen Einschränkungen der Hardware den eigentlichen Charakter des Sounds.
 **Manuelle Fehler** wie beim Roland TB-303, SH-101 und Akai S950 prägten seine Ästhetik.
 
 Es kommt zu Glitches (Zerstäubung von Geräuschen) und unregelmäßigen Tempowechseln
@@ -64,8 +66,8 @@ Später wurde daraus der Ursprung einer Bewegung namens „IDM (Intelligent Danc
 
 ### Ergänzungskapitel: „Noise Body“ der frühen Aphex Twins
 
-Seine frühe Musik war auch ein Experiment, die „Körperlichkeit des Klangs“ an ihre Grenzen zu bringen.  
-Der innere Lärm der Maschine wird zum Rhythmus und die Fehler zu Bausteinen.  
+Seine frühe Musik war auch ein Experiment, die „Körperlichkeit des Klangs“ an ihre Grenzen zu bringen.
+Der innere Lärm der Maschine wird zum Rhythmus und die Fehler zu Bausteinen.
 Es handelt sich um vordigitale „analoge Gewalt“ und den Versuch, Fehler in die Ästhetik der Konstruktion zu verwandeln.
 
 ---
@@ -74,17 +76,17 @@ Es handelt sich um vordigitale „analoge Gewalt“ und den Versuch, Fehler in d
 
 ### 2.1 „Richard D. James Album“ – Reinkarnation unter einem persönlichen Namen
 
-Mit dem „Richard D. James Album“ von 1996 hat Aphex Twin seine „Autorenschaft“ klar definiert.  
+Mit dem „Richard D. James Album“ von 1996 hat Aphex Twin seine „Autorenschaft“ klar definiert.
 Was Sie hier hören, ist eine Klangskulptur, die Breakbeats bis zum Äußersten fragmentiert und rekonstruiert.
 
-In „The World of a Quarter Beat“ hüpfen die Trommeln, die Saiten werden zerschnitten und die Stimmen werden zu Partikeln.  
-Die Raffinesse ist, als würden sie Musik auf der DNA-Ebene komponieren.  
-Es ist erstaunlich, dass sie diese Komplexität in einer Pre-DAW-Umgebung geschaffen haben.
+In „The World of a Quarter Beat“ hüpfen die Trommeln, die Saiten werden zerschnitten und die Stimmen werden zu Partikeln.
+Die Raffinesse ist, als würden sie Musik auf der DNA-Ebene komponieren.
+Es ist erstaunlich, dass sie diese Komplexität in einer Pre-DAW-Umgebung schaffen konnten.
 
 ### 2.2 „Come to Daddy“ „Windowlicker“ ─ Medien und Albtraum
 
-Von 1997 bis 1999 verband Aphex Twin Musik mit „visuellem Horror“.  
-Die in Zusammenarbeit mit Chris Cunningham gegründete PV-Gruppe **wandelte die Instabilität des elektronischen Klangs in die Amorphität von Bildern um**.
+Von 1997 bis 1999 verband Aphex Twin Musik mit „visuellem Horror“.
+Die in Zusammenarbeit mit Chris Cunningham gegründete PV-Gruppe **übersetzte die Instabilität des elektronischen Klangs in die Amorphität von Bildern**.
 
 Ungefähr zu der Zeit, als MTV ihn als „seltsamstes Genie“ bezeichnete
 Er spürte bereits, dass seine Musik Gefahr lief, in die Populärkultur aufgenommen zu werden.
@@ -93,7 +95,7 @@ Er spürte bereits, dass seine Musik Gefahr lief, in die Populärkultur aufgenom
 
 ### Ergänzungskapitel: Aphex Twin als Ironie
 
-Die Aktivitäten von Aphex Twin waren seit der Mitte ihrer Karriere stets eine Metakritik der Musikindustrie.  
+Die Aktivitäten von Aphex Twin waren seit der Mitte ihrer Karriere stets eine Metakritik der Musikindustrie.
 Sein lächelndes Gesicht (Logo) ist eine Satire auf den „Künstlermythos“,
 Die rätselhafte Natur von Songtiteln bekräftigt das „Recht des Klangs, sich der Bedeutung zu widersetzen“.
 
@@ -103,17 +105,17 @@ Die rätselhafte Natur von Songtiteln bekräftigt das „Recht des Klangs, sich 
 
 ### 3.1 „Syro“ (2014): Fertigstellung des Akustikarchivs
 
-Sein erstes Album seit 13 Jahren, „Syro“, ist eine Fusion aus analoger Rückkehr und digitaler Bearbeitung.  
+Sein erstes Album seit 13 Jahren, „Syro“, ist eine Fusion aus analoger Rückkehr und digitaler Bearbeitung.
 Alle Songs verfügen über detaillierte Credits für das verwendete Equipment,
 Aphex Twin legt nahe, dass „jeder Ton eine technische Geschichte hat“.
 
-Wichtig hierbei ist, dass der Fokus auf dem „Gefühl der Daten“ und nicht auf „Emotionen“ liegt.  
+Wichtig hierbei ist, dass der Fokus auf dem „Gefühl der Daten“ und nicht auf „Emotionen“ liegt.
 Mit anderen Worten: Musik verwandelt sich in „den Körper als Information“.
 
 ### 3.2 „Collapse EP“ (2018): Entstehung der KI-Kompositionsstruktur
 
-Collapse EP ist das Experiment von Aphex Twin, Emotionen in algorithmische Strukturen einzubetten.  
-Komplexe Taktarten, intermittierende Rhythmen und dreidimensionale Raumverarbeitung.  
+Collapse EP ist das Experiment von Aphex Twin, Emotionen in algorithmische Strukturen einzubetten.
+Komplexe Taktarten, intermittierende Rhythmen und dreidimensionale Raumverarbeitung.
 Schallpartikel entfalten sich wie die Gedanken der KI von selbst und bilden einen unmenschlichen „Fluss“.
 
 ---
@@ -121,8 +123,8 @@ Schallpartikel entfalten sich wie die Gedanken der KI von selbst und bilden eine
 ### Ergänzungskapitel: Beziehung zwischen modernem Aphex Twin und KI
 
 Aphex Twin betrachtet die KI-Komposition nicht nur als technologische Innovation;
-Es wird als „**Gerät, das die menschliche Wahrnehmung erweitert**“ behandelt.  
-Seine jüngste Arbeit kann als Versuch beschrieben werden, künstliche Intelligenz dazu zu bringen, „menschliche Fehler“ zu erkennen.  
+Es wird als „**Gerät, das die menschliche Wahrnehmung erweitert**“ behandelt.
+Seine jüngste Arbeit kann als Versuch beschrieben werden, künstliche Intelligenz dazu zu bringen, „menschliche Fehler“ zu erkennen.
 Mit anderen Worten: Seine Musik ist ein Testfeld für den Post-KI-Humanismus.
 
 ---
@@ -141,15 +143,15 @@ Mit anderen Worten: Seine Musik ist ein Testfeld für den Post-KI-Humanismus.
 
 ### Ergänzungskapitel: Gleichbleibendes „Fremdkörpergefühl“
 
-Der Kern von Aphex Twin besteht darin, „fremd zu bleiben“, auch wenn sich die Zeiten ändern.  
-Selbst wenn Musik in Mode kommt, lässt sein Sound immer einen „Spielraum“ übrig.  
+Der Kern von Aphex Twin besteht darin, „fremd zu bleiben“, auch wenn sich die Zeiten ändern.
+Selbst wenn Musik in Mode kommt, lässt sein Sound immer einen „Spielraum“ übrig.
 In diesem leeren Raum gibt es Raum für Zuhörer, ihre eigenen Gefühle auszudrücken.
 
 ---
 
 ## V. Kritische Gedanken: Was ist Musik nach Aphex Twin?
 
-Nach Aphex Twin ist elektronische Musik nicht mehr nur ein „Genre“.  
+Nach Aphex Twin ist elektronische Musik nicht mehr nur ein „Genre“.
 Zu den von ihm beeinflussten Künstlern gehören Burial, Oneohtrix Point Never, Autechre, Arca usw.
 Bei all diesen Fragen wird die „Bedeutungserzeugung“ des Klangs selbst neu überdacht.
 
@@ -159,8 +161,8 @@ Bei all diesen Fragen wird die „Bedeutungserzeugung“ des Klangs selbst neu �
 
 ### Ergänzungskapitel: Vorschläge für die Zukunft der Musik
 
-Wir leben in einer Zeit, in der KI Musik erstellt und Spotify Ihre Stimmung kategorisiert.  
-In einer solchen Situation versucht der Ton von Aphex Twin, den in den Daten verborgenen menschlichen Lärm wiederherzustellen.  
+Wir leben in einer Zeit, in der KI Musik erstellt und Spotify Ihre Stimmung kategorisiert.
+In einer solchen Situation versucht der Ton von Aphex Twin, den in den Daten verborgenen menschlichen Lärm wiederherzustellen.
 Seine aktuelle Musik ist kein Akt des „Hörens“ mehr, sondern eine „Philosophie des existierenden Klangs“.
 
 ---
@@ -339,7 +341,7 @@ graph TD
 
 ## Vergleich der Spektrogrammmessungen
 
-#### （『Xtal』（1992） vs 『minipops 67』（2014））
+#### („Xtal“ (1992) vs. „minipops 67“ (2014))
 
 Erfassen Sie visuell die klanglichen Unterschiede zwischen den Anfängen von Aphex Twin und heute.
 Schematische Darstellung von Änderungen der Frequenzverteilung, des Schalldrucks und der Stereobreite.
@@ -370,7 +372,7 @@ flowchart TB
 
 </div>
 
-**Bildunterschrift**:
+**Untertitel**:
 Ein Vergleich der Spektrogrammstrukturen von „Xtal“ (1992) und „minipops 67“ (2014).
 Charakterisierte er sich zunächst durch einen weichen, im Mitteltiefbereich konzentrierten Schalldruck, ist er in den letzten Jahren über den gesamten Bereich hinweg granularer geworden und die räumlichen Informationen sind präziser geworden.
 

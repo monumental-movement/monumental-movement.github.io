@@ -36,6 +36,7 @@ color: #fff;
 }
 </style>
 
+
 # Beziehung zwischen Science-Fiction-Filmen und Musik
 
 Musik in Science-Fiction-Filmen ist mehr als nur ein „Hintergrund“, der die Geschichte unterstützt. Es ist zu einem wesentlichen Element geworden, um ein Gefühl für die Zukunft, ein Gefühl für eine andere Welt und die Kluft zwischen Technologie und Menschlichkeit auszudrücken. In diesem Artikel geben wir ausführliche Erläuterungen aus vier Perspektiven: historischer Hintergrund, musikalische Methoden, repräsentative Werke und Komponisten sowie Einfluss auf die Neuzeit.
@@ -54,7 +55,7 @@ Musik in Science-Fiction-Filmen ist mehr als nur ein „Hintergrund“, der die 
 * **Star Wars 1977**: John Williams‘ symphonische Partitur verlieh der Weltraumoper eine epische Größe.
 * **Blade Runner, 1982**: Vangelis‘ Synthesizermusik symbolisierte die städtischen Neonlichter und die regennasse Dystopie.
 
-### 1990er-2000er
+### 1990er-2000er Jahre
 
 * **1995 Ghost in the Shell**: Kenji Kawais Fusion aus Volksmusik und elektronischer Musik verkörpert eine „posthumane“ Welt.
 * **2001 „A.I.“ und „Minority Report“ **: John Williams erweckte die klassische Struktur erneut zum Leben und verlieh der Stadt der Zukunft eine humanistische Lyrik.
@@ -62,7 +63,7 @@ Musik in Science-Fiction-Filmen ist mehr als nur ein „Hintergrund“, der die 
 ### Seit 2010
 
 * **2014 Interstellar**: Hans Zimmer kombiniert Pfeifenorgel und Synthesizer, um gleichzeitig die Größe des Universums und das Innenleben der Menschen darzustellen.
-* **2021 „DUNE/Dune“**: Ein Wüstenplanet wird mit Folkmusikelementen + elektronischem Sound zum Ausdruck gebracht, wodurch eine fremdartige Fremdheit entsteht.
+* **2021 „DUNE/Dune“**: Ausdruck eines Wüstenplaneten mit Folkmusikelementen + elektronischem Sound, wodurch eine außerirdische Fremdheit entsteht.
 
 ---
 
@@ -73,22 +74,22 @@ Die in Science-Fiction-Filmen verwendete Musik weist die folgenden charakteristi
 1. **Synthesizer/Elektronischer Sound**
 
 * Symbolisiert Technologie und einen Sinn für die Zukunft.
-   * Beispiele: „Blade Runner“ und „TRON“.
+* Beispiele: „Blade Runner“ und „TRON“.
 
 2. **Minimalismus und Wiederholung**
 
 * Drückt künstliche und mechanische Kälte aus.
-   * Beispiel: „Koyaanisqatsi“ von Philip Glass.
+* Beispiel: „Koyaanisqatsi“ von Philip Glass.
 
 3. **Umgebungsgeräusche**
 
 * Die Stille des Weltraums und die Präsenz des Unbekannten.
-   * Beispiel: Silent Space + klassische Musik aus „2001: Odyssee im Weltraum“.
+* Beispiel: Silent Space + klassische Musik aus „2001: Odyssee im Weltraum“.
 
 4. **Fusion von Orchester und elektronischem Sound**
 
 * Sowohl Erhabenheit als auch futuristisches Gefühl.
-   * Beispiele: „Star Wars“ und „Interstellar“.
+* Beispiele: „Star Wars“ und „Interstellar“.
 
 ---
 
@@ -111,12 +112,12 @@ Die in Science-Fiction-Filmen verwendete Musik weist die folgenden charakteristi
 
 | Film | Komponist | Funktionen | Musikalische Methode | Offizieller Link |
 | --------- | -------------- | --------------- | -------------- | ----------------------------------------------------------------------------------- |
-| 2001: Odyssee im Weltraum | Richard Strauss und andere | Die Erhabenheit des Weltraums durch klassische Musik zum Ausdruck bringen | Vergleich vorhandener Lieder und Stille | [YouTube](https://www.youtube.com/results?search_query=2001+space+odyssey+soundtrack) |
-| Star Wars | John Williams | Epische Weltraumoper | Symphonisches Orchester | [Spotify](https://open.spotify.com/search/star%20wars%20soundtrack) |
-| Blade Runner | Vangelis | Neonstadt und Menschheit | Synthesizer Ambient | [Amazon](https://amzn.to/4ndI1Vp) |
-| Geist in der Muschel | Kenji Kawai | Posthumanes Weltbild | Ethnische Musik + elektronischer Sound | [YouTube](https://www.youtube.com/results?search_query=ghost+in+the+shell+soundtrack) |
-| Interstellar | Hans Zimmer | Raum und menschliches Drama | Pfeifenorgel x elektronischer Sound | [Spotify](https://open.spotify.com/search/interstellar%20soundtrack) |
-| DÜNE | Hans Zimmer | Religion auf einem anderen Weltplaneten | Ethnische Musik x experimenteller Sound | [Amazon](https://amzn.to/46cL4XJ) |
+| 2001年宇宙の旅 | リヒャルト・シュトラウス 他 | クラシックで宇宙の荘厳さを表現 | 既存曲×無音の対比      | [YouTube](https://www.youtube.com/results?search_query=2001+space+odyssey+soundtrack) |
+| スター・ウォーズ  | ジョン・ウィリアムズ     | 壮大なスペースオペラ      | シンフォニック・オーケストラ | [Spotify](https://open.spotify.com/search/star%20wars%20soundtrack)                   |
+| ブレードランナー  | ヴァンゲリス         | ネオン都市と人間性       | シンセサイザー・アンビエント | [Amazon](https://amzn.to/4ndI1Vp)                        |
+| 攻殻機動隊     | 川井憲次           | ポスト・ヒューマン的世界観   | 民族音楽＋電子音響      | [YouTube](https://www.youtube.com/results?search_query=ghost+in+the+shell+soundtrack) |
+| インターステラー  | ハンス・ジマー        | 宇宙と人間ドラマ        | パイプオルガン×電子音    | [Spotify](https://open.spotify.com/search/interstellar%20soundtrack)                  |
+| DUNE      | ハンス・ジマー        | 異世界惑星の宗教性       | 民族音楽×実験的音響     | [Amazon](https://amzn.to/46cL4XJ)                                |
 
 ---
 
@@ -157,6 +158,7 @@ A3. Derzeit werden KI-Kompositionstools zur Erstellung von Science-Fiction-Filmt
 
 ### Verwandte Spalten
 
-[[Kolumne] Post-Rock/Ambient-Interaktion mit Filmen und Architektur](https://monumental-movement.jp/Column-Post-Rock-Ambient-Movie-Architecture)
+ [【コラム】 ポストロック／アンビエントの映画・建築との相互作用](https://monumental-movement.jp/Column-Post-Rock-Ambient-Movie-Architecture)
 
-[[Kolumne] Mediengeschichte der Filmmusik: Wie gelangte der Ton von der Leinwand zu den Lautsprechern? ](https://monumental-movement.jp/Column-Soundtrack)
+
+ [【コラム】 映画音楽の媒体史：スクリーンからスピーカーへ、音はどう届いたか？](https://monumental-movement.jp/Column-Soundtrack)

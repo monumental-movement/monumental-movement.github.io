@@ -20,7 +20,7 @@ Soundtrack für den Film „New Cinema Paradise“ aus dem Jahr 1989, komponiert
 
 Ennio Morricone gewann den Oscar für die beste Originalmusik bei der 88. Oscarverleihung für seine Filmmusik für den Film „The Hateful Eight“, geschrieben und inszeniert von Quentin Tarantino.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Nuovo Cinema Paradiso
 2. Maturita
@@ -40,7 +40,7 @@ Ennio Morricone gewann den Oscar für die beste Originalmusik bei der 88. Oscarv
 16. Per Elena
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m12330738876?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m12330738876?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qMgTCtSxOHE?si=9YjFz0Zd7nVwja81" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

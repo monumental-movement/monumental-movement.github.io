@@ -17,7 +17,7 @@ Ikarus ist ein Projekt von Toru Shimada und wurde 1998 auf seinem Label Philosom
 
 „Ikarus – 7 Tage draußen!“ ist eine Platte, die von vielen DJs gespielt wird, darunter Danny Tenaglia, Peter Rauhofer, Cevin Fisher und Junior Vasquez.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Awake From A Dream
 
@@ -28,7 +28,7 @@ C. Mo ! Wara Okamatique
 D. A Window To The Future
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m56727358548?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m56727358548?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TQAzluWVfC4?si=2Ne1xBweTO7yXEUW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -18,7 +18,7 @@ Regurgitator ist eine alternative Rockband aus Australien. Ende 1993 von Quan Ye
 
 „...Art“ ist Regurgitators drittes Studioalbum, das 1999 veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Happiness
 2. Ghost
@@ -35,7 +35,7 @@ Regurgitator ist eine alternative Rockband aus Australien. Ende 1993 von Quan Ye
 13. Virtual Life
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m93861307234?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93861307234?afid=6142608987){: .button1}
 
 #### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TljyVCEkYpE?si=37_7kEJymfL9CFy3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

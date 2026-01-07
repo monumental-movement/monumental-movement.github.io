@@ -19,7 +19,7 @@ title: Luke Slater – All Exhale
 
 Der vierte Song ist ein Remix von Futureshock, einem britischen Elektronik-Duo, das von 1998 bis 2003 aktiv war.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. All Exhale (Electropunk Mix)
 2. All Exhale (Original Mix)
@@ -27,7 +27,7 @@ Der vierte Song ist ein Remix von Futureshock, einem britischen Elektronik-Duo, 
 4. All Exhale (Futureshock Remix Edit)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m91117666644?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m91117666644?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TimXnbtZp2c?si=ddgkL48nYixLceqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

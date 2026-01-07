@@ -26,27 +26,27 @@ Beteiligte Musiker
 ・Chor: Yumi Matsutoya, Hitoshi Kirigaya, Toshihiro „Bobby“ Kirigaya, Emiko Shiratori, Hi-Fi Set, Hiro Tsunoda, Mark I, Marvin Walker, Marvin Baker, Cindy
 
 #### Trackliste
-„md
-A1. Die Liebe wird nie wieder beginnen.
+```md
+A1. もう愛は始まらない
 
-A2. Volksstraße
+A2. 人のストリート
 
 A3. Babylon
 
-A4. Sugar Town ist eine Stadt des Abschieds.
+A4. Sugar Townはさよならの町
 
-B1. In einer Ecke von Metropolis
+B1. メトロポリスの片隅で
 
-B2. Raketenfeuerwerk in einer mondhellen Nacht
+B2. 月夜のロケット花火
 
-B3. Aschenputtel-Express
+B3. シンデレラ・エクスプレス
 
-B4. Bedauern der Jugend
+B4. 青春のリグレット
 
-B5. Auch wenn du gehst
-````
+B5. たとえあなたが去って行っても
+```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m46295874765?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46295874765?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n2hDGI7r5Mk?si=Tw3mR4JdanLmeZwv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

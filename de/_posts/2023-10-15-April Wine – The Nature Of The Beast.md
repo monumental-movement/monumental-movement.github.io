@@ -17,7 +17,7 @@ title: Aprilwein – Die Natur des Biests
 
 Der Erfolg des Albums steigerte das internationale Profil der Band und etablierte sie als wichtigen Teil der kanadischen Rockszene.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. All Over Town
 
@@ -42,7 +42,7 @@ B4. Bad Boys
 B5. One More Time
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m95537522288?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95537522288?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dsAso4CMy0g?si=21HaNoWtwDpqUGom" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

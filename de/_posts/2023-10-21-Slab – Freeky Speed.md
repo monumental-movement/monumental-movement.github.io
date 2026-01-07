@@ -19,7 +19,7 @@ Der erste Song auf der B-Seite ist ein Remix des britischen DJs und Produzenten 
 
 Der zweite Song auf Seite D ist ein Remix von Monkey Mafia.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Shiva You're A Shambles (Intro)
 
@@ -40,7 +40,7 @@ D1. Atom Smasher
 D2. Monkey Prankster
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m96913326161?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m96913326161?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CVShtoPhEMc?si=SVbOeP6jkwqEBUAv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

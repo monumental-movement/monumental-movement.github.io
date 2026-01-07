@@ -21,7 +21,7 @@ Sie mischen verschiedene Musikgenres wie Dance Punk, Post-Punk, Acid House, Disc
 
 „In The Grace Of Your Love“ wurde 2011 von DFA Records veröffentlicht und ist das dritte und letzte Studioalbum von The Rapture.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Sail Away
 2. Miss You
@@ -36,7 +36,7 @@ Sie mischen verschiedene Musikgenres wie Dance Punk, Post-Punk, Acid House, Disc
 11. It Takes Time To Be A Man
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m73702880151?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m73702880151?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0d_ijro_PPQ?si=tMlx--dEITNLeFDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

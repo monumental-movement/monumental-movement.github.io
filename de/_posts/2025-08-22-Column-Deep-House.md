@@ -18,6 +18,7 @@ title: '[Kolumne] Was ist Deep House? ─ Erkunden Sie die Tiefe des Klangs, der
 
 ## Zunächst einmal: Was ist Deep House?
 
+
 Text: mmr｜Thema: Deep House, ein Genre, das sich stillschweigend weiterentwickelt und dabei Geschichte und Kontext einbezieht.
 
 Deep House ist eine House-Variante, die Ende der 1980er Jahre im Raum Chicago-New Jersey entstand. Es zeichnet sich durch Soul-/Jazz-Harmonien, sanfte Bässe und einen zurückhaltenden Groove aus und ist eine Art Tanzmusik, die „tief und lang ist und den Körper wärmt“ und kein rauschender Höhepunkt ist. Der BPM beträgt im Allgemeinen 118–124 (langsame bis mittlere Geschwindigkeit), 7./9. Akkorde, E-Piano (Rhodes), Orgel (Korg M1-Serie) und entspannter Gesang sind symbolisch. Es verfügt über eine „Nachttemperatur“, die sowohl für den Boden als auch für das Hören gilt.
@@ -29,7 +30,7 @@ Deep House ist eine House-Variante, die Ende der 1980er Jahre im Raum Chicago-Ne
 
 **1985–90: Early Early (Chicago/NJ)**
 
-[Larry Heard (Mr. Fingers)](https://amzn.to/4q97ot4) präsentiert den Prototyp mit „Can You Feel It“ und „Mystery of Love“. In Anlehnung an [Frankie Knuckles](https://amzn.to/4nUwWJ4) und [Marshall Jefferson](https://amzn.to/3KOf4AV) eine Fusion aus dem süßen Soul-Feeling von Jersey Garage ([Blaze](https://amzn.to/4ooZuuc) und [Kerri Chandler](https://amzn.to/4qbd4CR)).
+[Larry Heard (Mr. Fingers)](https://amzn.to/4q97ot4) präsentiert den Prototyp mit „Can You Feel It“ und „Mystery of Love“. Dem Fluss von [Frankie Knuckles](https://amzn.to/4nUwWJ4) und [Marshall Jefferson](https://amzn.to/3KOf4AV) folgend, verschmilzt das süße Soul-Feeling von Jersey Garage ([Blaze](https://amzn.to/4ooZuuc) und [Kerri Chandler](https://amzn.to/4qbd4CR)).
 
 **1990er Jahre: Vertiefung und Diversifizierung**
 
@@ -37,7 +38,7 @@ Deep House ist eine House-Variante, die Ende der 1980er Jahre im Raum Chicago-Ne
 
 **2000er Jahre: Hörorientierung und Kultiviertheit**
 
-Naked Music, Jimpster (Freerange) und mehr entführen Sie in die Lounge-gefühlvolle Eleganz. In Deutschland sind [Henrik Schwarz](https://amzn.to/4h8i9I4), [Âme](https://amzn.to/47pAIEq) und [Dixon (Innervisions)](https://amzn.to/4heIsN1) für ihre minimalistische bis moderne Architekturästhetik beliebt.
+Naked MusicやJimpster（Freerange）などがラウンジ～ソウルフルな洗練へ。ドイツ圏では[Henrik Schwarz](https://amzn.to/4h8i9I4)、[Âme](https://amzn.to/47pAIEq)、[Dixon（Innervisions）](https://amzn.to/4heIsN1)がミニマル～モダンな構築美で人気に。
 
 **2010er Jahre und darüber hinaus: Gabelung und Globalisierung**
 
@@ -48,7 +49,7 @@ Anjunadeep und All Day I Dream wandten sich der melodischen/organischen Musik zu
 
 ### Musikalische Features
 
-**Harmonie**: Dur-7./9., Halteakkord, viel Spannung. Sogar in einer Moll-Tonart gibt es eine Nuance von „Traurigkeit≠tragisch“.
+**Harmonie**: Dur-7./9., Halteakkord, viel Spannung. Sogar in einer Moll-Tonart gibt es eine Nuance von „Traurigkeit≠Tragik“.
 
 **Beat**: Der Kick hat einen runden und tiefen Nachgeschmack. Die Hi-Hat ist ein Shuffle zu einem leichten Swing. Die Texturen 909/707/727 und 808 sind Standard.
 
@@ -79,11 +80,11 @@ Anjunadeep und All Day I Dream wandten sich der melodischen/organischen Musik zu
 
 „Die ersten 3 Teile“
 
-- Mr. Fingers – Amnesia
+- Mr. Fingers – Amnesie
 
-- Ron Trent – Altered States
+- Ron Trent – ​​​​Veränderte Staaten
 
-- Kerri Chandler – Atmosphere
+- Kerri Chandler – Atmosphäre
 
 
 <hr>
@@ -115,7 +116,7 @@ Anjunadeep und All Day I Dream wandten sich der melodischen/organischen Musik zu
 
 - Dynamische Wellen: „Erhöhen Sie die Hitze etwas und bringen Sie sie schnell wieder zurück“ für 30-45 Minuten.
 
-- BPM-Einstellung, die nicht zu schnell ist: Erstellen Sie eine „Schrittlänge“ bei 118–121 und gehen Sie dann in der zweiten Hälfte auf 122–124 über.
+- Nicht zu schnelle BPM-Einstellung: Erstellen Sie eine „Schrittlänge“ bei 118–121 und erhöhen Sie sie in der zweiten Hälfte auf 122–124.
 
 
 <hr>
@@ -154,7 +155,7 @@ Anjunadeep und All Day I Dream wandten sich der melodischen/organischen Musik zu
 
 **Früher Höhepunkt**: Ron Trent/Chez Damiers treibende Kraft
 
-**Plateau**: Verfeinerung von Jimpster ~ Freerange
+**Plateau**: Verfeinerung von Jimpster zu Freerange
 
 **Farbwechsel**: Henrik Schwarzs Live-Feeling
 
@@ -178,25 +179,25 @@ Anjunadeep und All Day I Dream wandten sich der melodischen/organischen Musik zu
 
 ### Kurze Diskographie (10 Einführungslieder)
 
-・Mr. Fingers – “Can You Feel It”
+·Herr. Finger – „Kannst du es fühlen“
 
-・Larry Heard Presents Mr. White – “The Sun Can’t Compare”
+・Larry Heard präsentiert Mr. White – „The Sun Can’t Compare“
 
-・Kerri Chandler – “Atmosphere”
+・Kerri Chandler – „Atmosphäre“
 
-・Ron Trent – “Altered States”
+・Ron Trent – ​​„Altered States“
 
-・Chez Damier – “I Never Knew Love”
+・Chez Damier – „I Never Knew Love“
 
-・Moodymann – “Shades of Jae”
+・Moodymann – „Shades of Jae“
 
-・Masters At Work – “To Be In Love (MAW Dub)”
+・Masters At Work – „To Be In Love (MAW Dub)“
 
-・Jimpster – “Dangly Panther”
+・Jimpster – „Dangly Panther“
 
-・Âme – “Rej”
+・Âme – „Rej“
 
-・Black Coffee – “Turn Me On (feat. Bucie)”
+・Black Coffee – „Turn Me On (feat. Bucie)“
 
 
 <hr>

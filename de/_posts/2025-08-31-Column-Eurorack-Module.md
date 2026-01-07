@@ -7,9 +7,10 @@ lang: de
 layout: post
 permalink: /de/column-eurorack-module/
 tags:
-- Eurorack Module
+- Eurorack
+- Modular
+- Ambient
 - Techno
-- 00s
 title: '[Kolumne] Änderungen am modularen Synthesizer Eurorack und sein Einfluss auf
   die Musikszene'
 ---
@@ -47,13 +48,13 @@ Eurorack ist kleiner und erschwinglicher als die traditionellen Modelle Moog und
 
 **Repräsentative Module**: Plonk, Metropolis, Tetrapad
 
-Merkmale: Wir produzieren viele hochwertige digitale Module und sind besonders stark bei Sequenzern und Performance-Schnittstellen.
+Features: Wir produzieren viele hochwertige digitale Module und sind besonders stark bei Sequenzern und Performance-Interfaces.
 
 #### Veränderliche Instrumente
 
 **Repräsentative Module**: Braids, Rings, Clouds
 
-**Funktionen**: Als Open Source entwickelt, bietet Module, die eine flexible Klangerstellung ermöglichen. Es verfügt über eine besonders hervorragende Klangvielfalt.
+**Funktionen**: Als Open Source entwickelt, bietet Module, die eine flexible Klangerstellung ermöglichen. Besonders hervorzuheben ist die Klangvielfalt.
 
 ---
 
@@ -89,6 +90,7 @@ Die modularen Synthesizer von Eurorack hatten einen großen Einfluss auf bestimm
 #### Experimentell/Ambiente
 
 Künstler wie Alessandro Cortini und Keith Fullerton Whitman nutzen Eurorack, um komplexe und tiefgründige Klangwelten zu erschaffen.
+
 
 #### Techno/IDM
 
@@ -154,6 +156,9 @@ Das Live-Setup von Surgeon zeichnet sich durch das Streben nach maximalem Ausdru
 
 <hr>
 
-### Von einer kleinen Box zum unendlichen Klang
+
+### Von einer kleinen Box zu unendlichem Klang
 
 Die modularen Synthesizer von Eurorack bieten Künstlern mit ihrer Flexibilität und Erweiterbarkeit neue kreative Freiheiten. Mit seiner Weiterentwicklung wird seine Rolle in der Musikszene noch wichtiger.
+
+---

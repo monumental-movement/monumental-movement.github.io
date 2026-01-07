@@ -20,7 +20,7 @@ Dieses Album ist ein Lied des dänischen Musikduos Junior Senior. Dieses Lied is
 „Hey Hey My My Yo Yo“ ist einer der berühmtesten Songs von Junior Senior und wurde ein weltweiter Hit.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 1.Hello
 
@@ -47,7 +47,7 @@ Dieses Album ist ein Lied des dänischen Musikduos Junior Senior. Dieses Lied is
 12.Hey Hey My My Yo Yo Recording Diary
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m51276371738?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m51276371738?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LY1Zz_ZsKf0?si=BomLoYGg1uAQtZ2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

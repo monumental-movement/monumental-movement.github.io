@@ -20,14 +20,14 @@ title: Ziggy – No Police (Aztec Remix)
 
 Bei dieser Platte handelt es sich um eine seltene mexikanische Platte, die 1987 vom mexikanischen Tanzlabel Maxi veröffentlicht wurde, mit einer anderen Hülle als die belgische Platte.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. No Police = No Llamen A La Policia (Aztec Remix)
 
 B. No Police = No Llamen A La Policia (Original Version)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m35371062618?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m35371062618?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fsKzWPt86Nw?si=1C__MdgSJcUnHqW3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

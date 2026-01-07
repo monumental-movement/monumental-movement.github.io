@@ -21,7 +21,7 @@ A1 ist ein Remix des kanadischen DJs/Produzenten Fred Everything (Frédéric Bla
 B2 ist ein Remix von Johnny Fiasco, einem DJ/Produzenten der zweiten Generation des Chicago House, der Anfang der 1990er Jahre mit Veröffentlichungen auf Cajual Records und Relief Records Aufmerksamkeit erregte.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Dogg Starr (Fred Everything's Dog Thang)
 A2. Dogg Starr (Joey Youngman Remix)
@@ -31,7 +31,7 @@ B2. Dogg Starr (Fiasco's Conduction Mash-Up)
 
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m70878565960?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70878565960?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/44uKHyJvCiQ?si=yWcRa_Y3ybemf7AE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

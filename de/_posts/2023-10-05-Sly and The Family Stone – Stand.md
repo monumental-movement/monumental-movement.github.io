@@ -27,7 +27,7 @@ Das Album wurde zum Symbol für die Entwicklung der Funkmusik und ihren Einfluss
 
 Der experimentelle Ansatz und die positive Botschaft von Sly & the Family Stone haben unzählige Musiker und Publikum beeinflusst und sie als zeitlose Künstler positioniert.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Stand!
 
@@ -46,7 +46,7 @@ B2. Sex Machine
 B3. You Can Make It If You Try
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m58390542261?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m58390542261?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ttYXMjVsKA4?si=wGxjJ_SrqbWDbWga" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

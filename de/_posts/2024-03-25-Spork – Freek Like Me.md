@@ -18,12 +18,12 @@ Ein Progressive-House-Track, der unter dem Namen Spork vom britischen Produzente
 
 Die B-Seite ist ein Remix des niederländischen DJ Sander Kleinenberg.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Freek Like Me (Alma Matris Reconstruction Remix)
 
 B. Freek Like Me (Sander Kleinenberg Remix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m31370737487?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31370737487?afid=6142608987){: .button1}
 

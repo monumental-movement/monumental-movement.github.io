@@ -16,31 +16,32 @@ title: Das Aufnehmen einer Kassette funktioniert
 
 <hr>
 
-### No Artist – Environments (Cassette Two) 
+### No Artist – Environments (Kassette Zwei)
 <a href="https://jp.mercari.com/item/m64435232831?afid=6142608987"><img src="../assets/images/No%20Artist%20%E2%80%93%20Environments.webp"></a>
 
 Field Recording/Healing der 1970er Jahre Eine heilende Klanglandschaft, die die natürliche Umgebung einfängt.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Tintinnabulation (Contemplative Sound)
 
 B. Dawn At New Hope Pennsylvania (June, 1969)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m64435232831?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m64435232831?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aKg6BNrHeuU?si=tG_X8CHdaIZY54XP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-### The Art of Noise – In No Sense Nonsense
+### Die Kunst des Lärms – In keiner Weise Unsinn
 <a href="https://jp.mercari.com/item/m27011020702?afid=6142608987"><img src="../assets/images/The%20Art%20Of%20Noise%20%E2%80%93%20In%20No%20Sense%20Nonsense.webp"></a>
 
 1987 Leftfield Synth Pop Art Pop x experimentelles, einzigartiges Synthesizerwerk.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Galleons Of Stone
 A2. Dragnet
@@ -77,7 +78,8 @@ B15. Crusoe
 B16. One Earth
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m27011020702?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m27011020702?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -90,7 +92,7 @@ B16. One Earth
 
 1976 70er Hard Rock Japan Erstausgabe-Kassette, cooler Vintage.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. I Want You
 A2. Take Me
@@ -105,7 +107,8 @@ B4. Hard Luck Woman
 B5. Makin' Love
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m33007072750?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m33007072750?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -113,12 +116,12 @@ B5. Makin' Love
 <hr>
 
 
-### Amany & The Badawist – Come on, Bassem
+### Amany & The Badawist – Komm schon, Bassem
 <a href="https://jp.mercari.com/item/m46511656290?afid=6142608987"><img src="../assets/images/Amany%20and%20The%20Badawist%20%E2%80%93%20Come%20on%20Bassem.webp"></a>
 
-2024 Tribal/Weltmusik Tribal-Sound aus dem Nahen Osten und Afrika.
+2024 Stammes-/Weltmusik, nahöstlicher/afrikanischer Stammesklang.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1.  بدويست 
 
@@ -145,18 +148,19 @@ B3. يللا يا باسم
 Come on, Bassem
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m46511656290?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m46511656290?afid=6142608987){: .button1}
 
 
 <hr>
 
 
-### Thomas Newman – Scent Of A Woman
+### Thomas Newman – Duft einer Frau
 <a href="https://jp.mercari.com/item/m80593383212?afid=6142608987"><img src="../assets/images/Thomas%20Newman%20%E2%80%93%20Scent%20Of%20A%20Woman.webp"></a>
 
-1992 Filmmusik. Originalmusikband für einen klassischen Film.
+Filmmusik von 1992. Originalmusik für einen Filmklassiker.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1.  Main Title
 A2.  A Tour Of Pleasures
@@ -178,19 +182,20 @@ B6. Fleurs De Rocaille
 B7. End Title
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m80593383212?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m80593383212?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/COQsa_u5nEg?si=fguM6L8R4SRjad1F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-### Adam Clayton & Larry Mullen – Theme From Mission: Impossible
+### Adam Clayton & Larry Mullen – Thema aus Mission: Impossible
 <a href="https://jp.mercari.com/item/m33330451602?afid=6142608987"><img src="../assets/images/Adam%20Clayton%20&%20Larry%20Mullen%20%E2%80%93%20Theme%20From%20Mission%20Impossible.webp"></a>
 
 Titelsong des Films von 1996. Offizielle Kassette zum Film „Mission Impossible“.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Theme From Mission: Impossible
 A2. Mission: Impossible Theme (Mission Accomplished)
@@ -198,7 +203,8 @@ A2. Mission: Impossible Theme (Mission Accomplished)
 B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m33330451602?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m33330451602?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -206,12 +212,12 @@ B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 <hr>
 
 
-### Dieselboy – The Director’s Cut
+### Dieselboy – Der Director’s Cut
 <a href="https://jp.mercari.com/item/m34797510612?afid=6142608987"><img src="../assets/images/Dieselboy%20%E2%80%93%20The%20Director's%20Cut.webp"></a>
 
 2023 Drum n Bass Intense-Mix vom amerikanischen Drum-and-Bass-DJ
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Side A
 
@@ -247,19 +253,20 @@ B. Side B
 13. Dillinja- Accurist
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m34797510612?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m34797510612?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X6EumRaarrQ?si=XRLLJb_BEWu1NV9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-### Various – The Enjoy! Story
+### Verschiedenes – Das Vergnügen! Geschichte
 <a href="https://jp.mercari.com/item/m75930589194?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20The%20Enjoy!%20Story.webp"></a>
 
-1990er? Klassische Hip-Hop-Zusammenstellung aus der frühen Zulu-Nation-Ära
+1990er Jahre? Klassische Hip-Hop-Zusammenstellung aus der frühen Zulu-Nation-Ära
 
-#### Tracklist
+#### Trackliste
 ```md
 A1.The Packman–I'm The Packman
 A2.Grandmaster Flash & The Furious Five–Superappin
@@ -297,7 +304,8 @@ D8. Midnight Blue – Enjoy With Me
 D9. Higher Ground – Shake 'Em Up
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m75930589194?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m75930589194?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -309,7 +317,7 @@ D9. Higher Ground – Shake 'Em Up
 
 1985?  Hip-Hop/Rock-Fusion, ein bahnbrechendes und beliebtes Werk aus Rock und Rap
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Rock The House
 A2. King Of Rock
@@ -323,19 +331,20 @@ B3. It's Not Funny
 B4. Daryll And Joe (Krush-Groove 3){: .button1}
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m37727986910?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m37727986910?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qXzWlPL_TKw?si=2o-hehPcll2R8E7O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-### Dr. Dre – Let Me Ride
+### Dr. Dre – Lass mich reiten
 <a href="https://jp.mercari.com/item/m33195503336?afid=6142608987"><img src="../assets/images/Dr.%20Dre%20%E2%80%93%20Let%20Me%20Ride.webp"></a>
 
 1992 Klassischer Hip-Hop/G-Funk-Song, der den Westküsten-Sound repräsentiert
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Let Me Ride (Radio Mix)
 
@@ -352,14 +361,15 @@ Featuring –Daz, Snoop Doggy Dogg
 Guest– George Clinton
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m33195503336?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m33195503336?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zIG9BNugOEs?si=itP9y0O19GNYWvSe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-### List
+### Liste
 
 <div class="table-border">
 <table>

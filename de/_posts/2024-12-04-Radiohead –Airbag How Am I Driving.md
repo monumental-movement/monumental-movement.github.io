@@ -16,7 +16,7 @@ title: Radiohead – Airbag / Wie fahre ich?
 
 Die fünfte EP der britischen Rockband Radiohead, die 1998 in Nordamerika veröffentlicht wurde. Enthält die B-Seiten der Singles (außer „Lull“ und „How I Made My Millions“) aus „OK Computer“, Radioheads drittem Studioalbum und weltweitem Durchbruch, und „Airbag“.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Airbag
 2. Pearly
@@ -27,7 +27,8 @@ Die fünfte EP der britischen Rockband Radiohead, die 1998 in Nordamerika veröf
 7. Palo Alto
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m74234623422?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m74234623422?afid=6142608987){: .button1}
 
 
 #### Youtube

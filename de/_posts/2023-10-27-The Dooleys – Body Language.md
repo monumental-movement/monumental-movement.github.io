@@ -17,13 +17,13 @@ title: Die Dooleys – Körpersprache
 Die Dooleys waren eine gemischte britische Popgruppe. Auf ihrem Höhepunkt hatte sie acht Mitglieder, sechs davon waren Mitglieder der Familie Dooley. Von 1977 bis 1981 produzierten sie mehrere Hits, die die Spitze der britischen Charts erreichten.
 
 #### Trackliste
-„md
-A. Körpersprache
+```md
+A. ボディ・ランゲージ = Body Language
 
-B. Für immer
-````
+B. フォーエバー = Forever
+```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m84917533040?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84917533040?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l8e0dxbYvSk?si=mPP5reWW5Tun78nM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

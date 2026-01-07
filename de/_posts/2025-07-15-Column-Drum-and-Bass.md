@@ -18,7 +18,8 @@ title: '[Kolumne] Die Wirkung von Drum & Bass: Urbane Poetik, verwoben von Gesch
 
 Text: mmr｜Thema: Gedanken zu Drum & Bass/Jungle/UK-Sound
 
-Drum & Bass (D&B) ist ein Musikgenre, das Anfang der 1990er Jahre in der Londoner Underground-Clubszene entstand und gleichzeitig den Rhythmus des multikulturellen Stadtlebens verkörpert. Mit der Kombination von schnellen Breakbeats, dröhnenden Basslinien und Reggae/Dub/Hip-Hop/Techno revolutionierten sie die Musikgeschichte Großbritanniens.
+
+Drum & Bass (D&B) ist ein Musikgenre, das Anfang der 1990er Jahre in der Londoner Underground-Clubszene entstand und gleichzeitig den Rhythmus des multikulturellen Stadtlebens verkörpert. Durch die Kombination von schnellen Breakbeats, dröhnenden Basslinien und Reggae/Dub/Hip-Hop/Techno revolutionierten sie die Musikgeschichte Großbritanniens.
 
 Seine Entwicklung war unglaublich, mit vielen Zweigen, die von Jungle, Liquid Funk und Techstep bis hin zu Neurofunk, Jump-Up und Drumstep reichen.
 
@@ -43,7 +44,7 @@ Die Wurzeln von D&B liegen im Jungle-Genre. Dies war eine chaotische Beatmusik, 
 
 **LTJ Bukem**: Führt zu späterem Intelligent D&B.
 
-#### 1994〜1997：
+#### 1994-1997:
 
 **Gründungszeitraum von Drum & Bass**
 
@@ -51,9 +52,9 @@ Von diesem Zeitpunkt an änderte sich der Name „Jungle“ nach und nach in „
 
 #### Repräsentative Künstler:
 
-**Goldie (Metalheadz)**: Mit dem Meisterwerk [„Timeless“](https://amzn.to/4nMAsF9) D&B zur Kunst sublimiert.
+**Goldie（Metalheadz）**：名作[『Timeless』](https://amzn.to/4nMAsF9)でD&Bを芸術に昇華。
 
-**Roni Size / Reprazent**: Gewann den Mercury Prize für „New Forms“ (https://amzn.to/3J3I7zN), eine Mischung aus Live-Auftritt und Jazz.
+**Roni Size / Reprazent**：ライブ演奏とジャズの融合を果たした[『New Forms』](https://amzn.to/3J3I7zN)でマーキュリー賞を受賞。
 
 **DJ Hype / Ganja Kru**: Vertreter des Jump-Up-Sounds.
 
@@ -175,7 +176,7 @@ Derzeit gilt D&B als Grundlage der Bassmusik auf der ganzen Welt. Szenen sind vo
 
 **● Ausgewählte zeitgenössische Künstler**
 
-**Noisia (aufgelöst)**: Produktionsfähigkeiten auf Gott-Niveau.
+**Noisia (aufgelöst)**: Produktionstechnologie auf Gott-Ebene.
 
 **Alix Perez**: Eine Klangalchemistin, die von Dub bis Half Step alles kann.
 

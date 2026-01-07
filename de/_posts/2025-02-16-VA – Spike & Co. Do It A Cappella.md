@@ -17,7 +17,7 @@ title: VA – Spike & Co. Do It A Cappella
 
 Dieses Album ist der Soundtrack für eine PBS-Dokumentation von Spike Lee aus dem Jahr 1990 über A-cappella-Musik.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. True Image – I Need You
 2. Mint Juleps – Don't Let Your Heart
@@ -34,7 +34,7 @@ Dieses Album ist der Soundtrack für eine PBS-Dokumentation von Spike Lee aus de
 13. Ladysmith Black Mambazo With Mint Juleps – The Lion Sleeps Tonight
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m89445697267?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m89445697267?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OMnxUgxphOg?si=LTGQplU_-L3Kr-yY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

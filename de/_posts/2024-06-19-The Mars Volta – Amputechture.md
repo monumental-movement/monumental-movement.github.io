@@ -19,7 +19,7 @@ The Mars Volta ist eine US-amerikanische Progressive-Rock-Band, die vom ehemalig
 
 Ihr drittes Album, Amputechture, mit John Frusciante von den Red Hot Chili Peppers, wurde 2006 veröffentlicht.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Vicarious Atonement
 2. Tetragrammaton
@@ -31,7 +31,7 @@ Ihr drittes Album, Amputechture, mit John Frusciante von den Red Hot Chili Peppe
 8. El Ciervo Vulnerado
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m77895978472?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m77895978472?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hhzM3VhM2yA?si=ypMiKQu4DWz4uuhu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

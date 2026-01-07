@@ -16,7 +16,7 @@ title: Verschiedene – Umgebungen
 „Umgebungen“ ist
 Dies ist ein Compilation-Album, das 2001 vom Label „OM Records“ veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Landslide – Muted Voices
 
@@ -41,7 +41,7 @@ E2. Ming + FS – Dog Tag
 F.  Skylight – Primate Exhibit
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m51258354270?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m51258354270?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bONSqdHTkzk?si=CndZrEEjmEi6dwEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

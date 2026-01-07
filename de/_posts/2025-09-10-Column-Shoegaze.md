@@ -13,7 +13,9 @@ title: '[Kolumne] Von den Ursprüngen von Shoegaze bis zur Gegenwart – 10 Meis
 ---
 
 
+
 ## Shoegaze – historischer Hintergrund, berühmte Rekorde, Änderungen in der Ausrüstung und 10 empfohlene Tracks –
+
 
 Text: mmr｜Thema: Von den Ursprüngen von Shoegaze bis zur Gegenwart
 
@@ -25,13 +27,13 @@ Im Folgenden blicken wir jahrzehntelang auf die Geschichte von Shoegaze zurück 
 
 ## 1980er Jahre – Herkunft
 ### Historischer Hintergrund
-- Während man den Trends von Post-Punk und New Wave folgte, wurde nach einem neuen Ansatz gesucht, um Gitarrengeräusche und Popmelodien zu verschmelzen.  
-- Indie-Labels wie Creation Records sind führend in der Szene.
+- Während man den Trends von Post-Punk und New Wave folgte, wurde nach einem neuen Ansatz gesucht, um Gitarrengeräusche und Popmelodien zu verschmelzen.
+– Indie-Labels wie Creation Records sind führend in der Szene.
 
-### Repräsentatives Meisterwerk
-- [My Bloody Valentine – *Isn't Anything* (1988)](https://amzn.to/4njxSGF)
-- [Cocteau Twins – *Blue Bell Knoll* (1988)](https://amzn.to/4mAovBh)
-- [Die Kette von Jesus und Maria – *Psychocandy* (1985)](https://amzn.to/3IyW48K)
+### Repräsentative Meisterwerke
+- [My Bloody Valentine – *Isn't Anything* (1988)](https://amzn.to/4njxSGF)  
+- [Cocteau Twins – *Blue Bell Knoll* (1988)](https://amzn.to/4mAovBh)  
+- [The Jesus and Mary Chain – *Psychocandy* (1985)](https://amzn.to/3IyW48K)  
 
 ### Verwendete Ausrüstung
 - **Gitarre**: Fender Jazzmaster, Jaguar
@@ -53,6 +55,7 @@ color: #fff;
 }
 </style>
 
+
 | Songtitel | Künstler | Kommentare |
 |------|--------------|----------|
 | Du hast es mir klar gemacht | Mein verdammter Valentinstag | Fusion aus Lärm und süßer Melodie |
@@ -70,14 +73,14 @@ color: #fff;
 
 ## 1990er Jahre – goldenes Zeitalter
 ### Historischer Hintergrund
-- „Loveless“ (1991) von My Bloody Valentine markiert den Höhepunkt des Genres.  
-- Ride, Slowdive, Lush und andere veröffentlichten nacheinander Meisterwerke.  
+- „Loveless“ (1991) von My Bloody Valentine markiert den Höhepunkt des Genres.
+- Ride, Slowdive, Lush und andere veröffentlichten nacheinander Meisterwerke.
 - Obwohl es mit dem Aufstieg des Britpop vorübergehend zurückging, wurde es von späteren Generationen hoch gelobt.
 
-### Repräsentatives Meisterwerk
-- [My Bloody Valentine – *Loveless* (1991)](https://amzn.to/3Kijvne)
-- [Slowdive – *Souvlaki* (1993)](https://amzn.to/4newBAp)
-- [Ride – *Nowhere* (1990)](https://amzn.to/4o4V4IP)
+### Repräsentative Meisterwerke
+- [My Bloody Valentine – *Loveless* (1991)](https://amzn.to/3Kijvne)  
+- [Slowdive – *Souvlaki* (1993)](https://amzn.to/4newBAp)  
+- [Ride – *Nowhere* (1990)](https://amzn.to/4o4V4IP)  
 
 ### Verwendete Ausrüstung
 - **Gitarre**: Fender Jazzmaster, Gibson Les Paul
@@ -103,14 +106,14 @@ color: #fff;
 
 ## 2000er Jahre – Revival-Periode
 ### Historischer Hintergrund
-- Fusion mit Post-Rock-Bands wie Mogwai und Sigur Rós.  
-- Eine neue Generation des Shoegaze-Revivals schreitet hauptsächlich in Amerika voran.  
+- Fusion mit Post-Rock-Bands wie Mogwai und Sigur Rós.
+- Eine neue Generation des Shoegaze-Revivals schreitet hauptsächlich in Amerika voran.
 - Mit der Verbreitung der Internetkultur beschleunigt sich die Neubewertung.
 
-### Repräsentatives Meisterwerk
-- [M83 – *Tote Städte, Rote Meere und verlorene Geister* (2003)](https://amzn.to/46Qy7D5)
-- [Deerhunter – *Microcastle* (2008)](https://amzn.to/4mu2OCC)
-- [Asobi Seksu – *Citrus* (2006)](https://amzn.to/4nE4GtC)
+### Repräsentative Meisterwerke
+- [M83 – *Dead Cities, Red Seas & Lost Ghosts* (2003)](https://amzn.to/46Qy7D5)  
+- [Deerhunter – *Microcastle* (2008)](https://amzn.to/4mu2OCC)  
+- [Asobi Seksu – *Citrus* (2006)](https://amzn.to/4nE4GtC)  
 
 ### Verwendete Ausrüstung
 - **Digitaler Hall/Delay** (Line6 DL4)
@@ -136,14 +139,14 @@ Manchmal | Immer | JAMC & Hope Sandoval | Die Grenze zwischen Lärm und Pop |
 
 ## 2010er – Neo Shoegaze
 ### Historischer Hintergrund
-- Von der Internet-Generation entdeckt und neue Unterstützung gewonnen.  
-- Bands der neuen Generation wie DIIV und Nothing entstehen.  
+- Von der Internet-Generation entdeckt und neue Unterstützung gewonnen.
+- Bands der neuen Generation wie DIIV und Nothing entstehen.
 - Fusion mit Dreampop und Chillwave.
 
-### Repräsentatives Meisterwerk
-- [DIIV – *Oshin* (2012)](https://amzn.to/3KhoeFM)
-- [Nothing – *Guilty of Everything* (2014)](https://amzn.to/42C57wq)
-- [Ringo Deathstarr – *Color Trip* (2011)](https://amzn.to/3IynMCB)
+### Repräsentative Meisterwerke
+- [DIIV – *Oshin* (2012)](https://amzn.to/3KhoeFM)  
+- [Nothing – *Guilty of Everything* (2014)](https://amzn.to/42C57wq)  
+- [Ringo Deathstarr – *Colour Trip* (2011)](https://amzn.to/3IynMCB)  
 
 ### Verwendete Ausrüstung
 - **Diversifizierung der Effektoren** (Strymon, EarthQuaker Devices)
@@ -169,14 +172,14 @@ Manchmal | Immer | JAMC & Hope Sandoval | Die Grenze zwischen Lärm und Pop |
 
 ## 2020er – jetzt
 ### Historischer Hintergrund
-- Die Neubewertung beschleunigt sich weltweit.  
-- Aufgrund seiner Verbreitung über Festivals und Streaming ist es auch bei der jüngeren Generation beliebt.  
+- Die Neubewertung beschleunigt sich weltweit.
+- Aufgrund seiner Verbreitung über Festivals und Streaming ist es auch bei der jüngeren Generation beliebt.
 - Shoegaze-Techniken sind auch mit K-POP und der Neubewertung des japanischen City-Pop verbunden.
 
-### Repräsentatives Meisterwerk
-- [Nichts – *The Great Dismal* (2020)](https://amzn.to/4nNNmm8)
-- [Slowdive – *Everything Is Alive* (2023)](https://amzn.to/46PP5l8)
-- [Tamaryn – *Dreaming The Dark* (2019)](https://amzn.to/46sFjp7)
+### Repräsentative Meisterwerke
+- [Nothing – *The Great Dismal* (2020)](https://amzn.to/4nNNmm8)  
+- [Slowdive – *Everything Is Alive* (2023) ](https://amzn.to/46PP5l8) 
+- [Tamaryn – *Dreaming The Dark* (2019)](https://amzn.to/46sFjp7)  
 
 ### Verwendete Ausrüstung
 - **Softwareeffekte** (immer mehr Plug-Ins)
@@ -195,7 +198,7 @@ Manchmal | Immer | JAMC & Hope Sandoval | Die Grenze zwischen Lärm und Pop |
 | Die Dunkelheit träumen | Tamaryn | Moderner Traumblick |
 | Für die Schuldigen | Blankenberge | Neue Generation aus Russland |
 | Aphasie | Heiliges Rehkitz | Blackgaze-Erweiterung |
-| Wünsche | DIIV | Vertiefung des Neo-Gaze ​​|
+| Wünsche | DIIV | Vertiefung von Neo-Gaze ​​​​|
 | Schimmer | Surren | Schwerer und tiefer Klang |
 
 ---

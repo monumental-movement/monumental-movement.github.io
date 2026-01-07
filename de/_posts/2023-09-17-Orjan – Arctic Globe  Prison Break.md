@@ -27,14 +27,14 @@ Dieses Lied zeichnet sich durch einen kraftvollen Beat und eine intensive Energi
 
 Seine Musik zeichnet sich durch anspruchsvolle Produktion und emotionalen Ausdruck aus und hat viele Zuhörer angesprochen. Diese Songs sind eine attraktive Wahl für Fans von Trance-Musik und diejenigen, die einen energiegeladenen Sound suchen.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Arctic Globe
 
 AA. Prison Break
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m86872541216?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86872541216?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tk95FwufszQ?si=OtBlRffV7SmfWZHT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

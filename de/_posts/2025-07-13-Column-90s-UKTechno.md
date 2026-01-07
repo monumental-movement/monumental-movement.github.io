@@ -28,9 +28,9 @@ In den 1990er Jahren vertiefte sich Techno und veränderte sich in Klang und Gei
 <hr>
 
 ### Fusion aus Rave-Kultur und Underground
-Nach dem „Second Summer of Love“ im Jahr 1988 wurde Großbritannien von einer Explosion aus Acid House und Rave erfasst. In der Folgezeit entstanden Anfang der 90er Jahre verschiedene Unterarten von Hardcore, Breakbeat und Techno im Untergrund.
+Nach dem „Second Summer of Love“ im Jahr 1988 wurde Großbritannien von einer Explosion aus Acid House und Rave erfasst. In der Folgezeit entstanden Anfang der 90er Jahre verschiedene Untervarianten von Hardcore, Breakbeat und Techno im Untergrund.
 
-Andererseits führten das Ende der Thatcher-Regierung und die zunehmende wirtschaftliche Ungleichheit dazu, dass sich die Unzufriedenheit und Rebellion junger Menschen in der Musik niederschlug. UK-Techno war nicht nur Tanzmusik, es war auch eine soziale Bewegung, bewaffnet mit Soundsystemen und illegalen Raves.
+Andererseits führten das Ende der Thatcher-Regierung und die zunehmende wirtschaftliche Ungleichheit dazu, dass sich die Unzufriedenheit und Rebellion junger Menschen in der Musik niederschlug. Britischer Techno war nicht nur Tanzmusik, sondern auch eine soziale Bewegung, bewaffnet mit Soundsystemen und illegalen Raves.
 
 
 <hr>
@@ -39,15 +39,15 @@ Andererseits führten das Ende der Thatcher-Regierung und die zunehmende wirtsch
 
 [**● The Black Dog**](https://amzn.to/3IHLfS5)
 
-Ein Pionier von Intelligent Techno (IDM). Obwohl sie von Detroit beeinflusst sind, entwickeln sie einen dunkleren und intelligenteren Sound. ['Bytes' (1993)](https://amzn.to/46ZmuJ2), veröffentlicht von Warp Records, ist eine Ikone.
+インテリジェント・テクノ（IDM）の先駆者。デトロイトの影響を受けつつも、よりダークで知的なサウンドを展開。Warp Recordsからリリースされた[『Bytes』（1993年）](https://amzn.to/46ZmuJ2)は象徴的。
 
-[**● Chirurg (Anthony Child)**](https://amzn.to/3J8lKJC)
+[**● Surgeon（アンソニー・チャイルド）**](https://amzn.to/3J8lKJC)
 
 Der Fahnenträger des Birmingham-Techno. Hart, industriell und solide. Er wurde durch Veröffentlichungen auf Tresor und Downwards berühmt und steht noch immer im Mittelpunkt des britischen Techno.
 
 [**● Luke Slater**](https://amzn.to/4mZWTpi)
 
-Bekannt als [Planetary Assault Systems](https://amzn.to/3J1f2oO). Entwicklung von hartem und dennoch funkigem Techno, veröffentlicht von NovaMute und anderen in den späten 90ern.
+[Planetary Assault Systems](https://amzn.to/3J1f2oO)名義で知られる。ハードでありながらもファンキーなテクノを展開し、90年代後半にはNovaMuteなどからもリリース。
 
 [**● Regis & British Murder Boys**](https://amzn.to/4mZWUtm)
 
@@ -62,11 +62,11 @@ Obwohl sie eher IDM als reiner Techno sind, repräsentieren sie zusammen mit War
 
 ### Die Mutter des britischen Techno
 
-[**● Warp Records (Sheffield)**](https://amzn.to/3L81dp5)
+[**● Warp Records（シェフィールド）**](https://amzn.to/3L81dp5)
 
 Schon früh veröffentlichten sie federnden Bleep-Techno und zogen später in das heilige Land des IDM. Enthält LFO, Nightmares on Wax, Autechre, The Black Dog und mehr.
 
-[**● Abwärts (Birmingham)**](https://amzn.to/4ocHKSr)
+[**● Downwards（バーミンガム）**](https://amzn.to/4ocHKSr)
 
 Gegründet von Regis. Zusammen mit Surgeon und anderen definierte er den „Birmingham-Sound“ und konzentrierte sich dabei auf industrielle und asketische Klänge.
 
@@ -76,7 +76,7 @@ Ein Unterlabel von Mute Records. Mit Künstlern wie Luke Slater, Speedy J und La
 
 [**● Peacefrog**](https://amzn.to/42BtHxw)
 
-Ein Label, das tieferen, in Detroit ansässigen britischen Techno einführte. Auf der Liste stehen Luke Slater, Stacey Pullen und Paul Mac.
+Ein Label, das tieferen, aus Detroit stammenden britischen Techno einführte. Auf der Liste stehen Luke Slater, Stacey Pullen und Paul Mac.
 
 
 
@@ -100,7 +100,7 @@ Es ist anzumerken, dass im Vereinigten Königreich nicht nur ein stärkeres Bewu
 <hr>
 
 ### Politik von Musik und Raum
-Der britische Techno war in den 1990er Jahren eine Kultur, die den Ort mehr schätzte als die Musik. Von illegalen Raves, die in ländlichen Lagerhäusern und auf Feldern im Freien abgehalten wurden, bis hin zu freien Party-Crews (wie Spiral Tribe), die mit auf Lastwagen geladenen Soundsystemen umherzogen, eroberte Sound den physischen Raum und brachte die bestehende Gesellschaftsordnung durcheinander.
+In den 1990er Jahren war der britische Techno eine Kultur, die den Ort mehr schätzte als die Musik. Von illegalen Raves, die in ländlichen Lagerhäusern und auf Feldern im Freien abgehalten wurden, bis hin zu freien Party-Crews (wie Spiral Tribe), die mit auf Lastwagen geladenen Soundsystemen umherzogen, eroberte Sound den physischen Raum und brachte die bestehende Gesellschaftsordnung durcheinander.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dSDJsqSGhqM?si=rvn6yH969EiyUfjC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -184,8 +184,9 @@ Techno schuf aus dem Nachhall der Industrie Poesie und präsentierte eine Ästhe
 
 ---
 
+
 ### Verwandte Spalten
 
-🔗 [[Kolumne] Luke Slater: Der Pionier des britischen Techno und seine musikalische Welt](https://monumental-movement.jp/Column-Luke-Slater)
+🔗 [【コラム】 Luke Slater: 英国テクノの先駆者とその音楽世界](https://monumental-movement.jp/Column-Luke-Slater)
 
-🔗 [[Kolumne] Von den Ursprüngen des Techno bis zur Gegenwart – eine chronologische Geschichte, die anhand berühmter Platten und Geräte verfolgt wird](https://monumental-movement.jp/Column-Techno-History)
+🔗 [【コラム】 テクノの発祥から現在まで ― 名盤と機材でたどる年代史](https://monumental-movement.jp/Column-Techno-History)

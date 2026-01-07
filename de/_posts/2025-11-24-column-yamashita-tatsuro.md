@@ -19,10 +19,10 @@ title: '[Kolumne] Tatsuro Yamashita: Analoge Ästhetik und Klangveränderungen n
 
 Text: mmr｜Thema: Von der City-Pop-Ära bis zu den neuesten Werken, über die Klangphilosophie von „Recording People“
 
-In der Geschichte der japanischen Popmusik ist Tatsuro Yamashita nicht nur Sänger und Komponist, sondern auch einer der führenden „Aufnahmeautoren“ Japans.  
+In der Geschichte der japanischen Popmusik ist Tatsuro Yamashita nicht nur Sänger und Komponist, sondern auch einer der führenden „Aufnahmeautoren“ Japans.
 Was sich durch seine Alben zieht, ist mehr als Trends oder Musikgenres, die sich mit der Zeit ändern, **Aufnahmetechnologie, Medium und akustische Philosophie**.
 
-Insbesondere
+besonders,
 - **Gründliche Klangerzeugung im Zeitalter des analogen Bandes**
 - **Sorgfältige Änderungen und Auswahlen nach der Einführung digitaler Aufnahme-/Digitalgeräte**
 - **Beziehung zur Studiokultur in der City-Pop-Ära**
@@ -45,6 +45,7 @@ color: #fff;
 }
 </style>
 
+
 # 1. 1970er Jahre: Das goldene Zeitalter des analogen Bandes und die Gründung von Tatsuro Yamashita
 
 ## ■ Sugar Babe (1973–1976)
@@ -62,16 +63,16 @@ In dieser Zeit, so Tatsuro, habe er bereits die Idee gefestigt, dass „Aufnahme
 - Live-Aufnahme von Hörnern/Streichern
 - Analogspezifischer **dicker Mittel-Tief-Bereich**
 
-Mit den für analoge Eigenschaften optimierten Arrangements und Aufnahmen wurde bereits begonnen.
+Hier wurde bereits mit auf analoge Eigenschaften optimierten Arrangements und Aufnahmen begonnen.
 
 ---
 
-# 2. Ende der 1970er Jahre: Frühe Solophase und die fertige Version von „Analog Layer“
+# 2. Ende der 1970er Jahre: Frühe Solophase und die vollendete Form von „Analog Layer“
 
 ## ■ „SPACY“ (1977), „GO AHEAD!“ (1978)
 In dieser Zeit nutzte Tatsuro die analoge 24-Spur-Aufnahme voll aus.
 
-Eigenschaften:
+Merkmale:
 - **Kompression mit Temperaturgefühl** mit Klebeband
 - Overdubbing des Handspiels (Gitarre, Keyboard, Percussion)
 - **Dutzende Overdubbing-Vocals**
@@ -83,7 +84,7 @@ In späteren Jahren sagte Tatsuro: „Je mehr man analog schichtet, desto mehr N
 # 3. 1980–1982: „RIDE ON TIME“ „FOR YOU“
 ## ■ Der Höhepunkt der Aufnahmetechnologie in der City-Pop-Ära
 
-In den frühen 1980er Jahren hatte die japanische Studiotechnik Weltklasseniveau erreicht.  
+In den frühen 1980er Jahren hatte die japanische Studiotechnik Weltklasseniveau erreicht.
 Im Mittelpunkt stand dabei das **CBS Sony Shinanomachi Studio**.
 
 ### ▼ Analoge Aufnahmespitze
@@ -96,7 +97,7 @@ Im Mittelpunkt stand dabei das **CBS Sony Shinanomachi Studio**.
 Der Sound aus dieser Zeit wird oft als „Idealform des City-Pop“ bezeichnet.
 
 ## ■ Aufnahmeästhetik von „FOR YOU“ (1982)
-Dieses Werk gilt als eines der Spitzenwerke Tatsuros.  
+Ein Werk, das als eines der Spitzenwerke von Tatsuro gilt.
 Akustische Eigenschaften:
 
 1. **Höchste Klarheit bei analogen Aufnahmen**
@@ -104,13 +105,13 @@ Akustische Eigenschaften:
 3. Perfekte Chordichte und Lokalisierung
 4. Die Höhenseite ist abgerundet und fühlt sich an wie ein analoges Ohr.
 
-Ein seltenes Werk, das völlig analog ist, aber eine moderne Auflösung hat.
+Ein seltenes Werk, das vollständig analog ist und dennoch eine moderne Auflösung aufweist.
 
 ---
 
 # 4. Ende der 1980er Jahre: Zeit der digitalen Einführung und vorsichtiger Übergang
 
-Die CD wurde 1982 in Japan veröffentlicht.  
+Die CD wurde 1982 in Japan veröffentlicht.
 In den späten 1980er Jahren begannen sich **digitale Aufnahmegeräte (PCM, Digital Multi, Digital Reverb)** rasant zu verbreiten.
 
 Allerdings ist Tatsuro Yamashita **einer der Künstler, die der Digitalisierung am vorsichtigsten gegenüberstanden**.
@@ -154,7 +155,7 @@ Tatsuro sagt: „Selbst bei der digitalen Aufnahme kann man ein Temperaturgefüh
 # 6. 2000er Jahre: Die Reife der digitalen Produktion und die Etablierung von „analog digital“
 
 ## ■ Aufnahmephilosophie der 2000er Jahre
-- Die Produktionsumgebung ist vollständig digital
+- Die Produktionsumgebung ist vollständig digitalisiert
 - Konzentrieren Sie sich jedoch während der Aufnahmephase auf die Mikrofonauswahl und den Raumklang.
 - „Entwerfen Sie analoge Texturen, auch wenn sie digital sind“
 
@@ -181,16 +182,16 @@ Infolgedessen haben die jüngsten analogen Neuauflagen weltweit großes Lob erha
 
 # 8. 2020er: Neueste Werke – Ära der analogen Rückkehr
 
-Heutzutage steigt die Nachfrage nach analogen Schallplatten wieder.  
+Heutzutage steigt die Nachfrage nach analogen Schallplatten wieder.
 Tatsuro behält im digitalen Zeitalter die folgende Haltung bei:
 
 - Die Aufnahme erfolgt hauptsächlich digital
-- Aber konzentrieren Sie sich auf die analoge Veröffentlichung
+- Der Schwerpunkt liegt jedoch auf der Veröffentlichung analoger Discs.
 - Der Mix behält ein analoges Gefühl
 - Vermeiden Sie übermäßigen Schalldruck
 - Behält die Rundheit des Hochtonbereichs und die Dicke des Mitteltonbereichs bei
 
-Insbesondere sein neuestes Werk hat einen Sound, der eine Verschmelzung von „analoger Rundheit“ und „digitalem Informationsgehalt“ auf hohem Niveau darstellt.
+Insbesondere sein neuestes Werk hat einen Klang, der eine Verschmelzung von „analoger Rundheit“ und „digitalem Informationsgehalt“ auf hohem Niveau darstellt.
 
 ---
 
@@ -250,13 +251,13 @@ Diese „zeitspezifischen Bedingungen“ machen den analogen City-Pop-Sound einz
 Im Laufe seiner 50-jährigen Karriere lässt sich Tatsuros Sound wie folgt zusammenfassen:
 
 - Analoges Zeitalter:
-  **Durch die Beherrschung der Grenzen von Materialien und Geräten haben wir das ultimative „Temperaturgefühl“ erreicht**
+**Durch die Beherrschung der Grenzen von Materialien und Geräten haben wir das ultimative „Temperaturgefühl“ erreicht**
 
 - Nach der digitalen Migration:
-  **Behielt weiterhin ein analoges Gefühl bei und akzeptierte gleichzeitig die Weiterentwicklung der Technologie**
+**Behielt weiterhin ein analoges Gefühl bei und akzeptierte gleichzeitig die Weiterentwicklung der Technologie**
 
 - Remastered-Ära:
-  **Wir haben den Standpunkt beibehalten, den Originalton originalgetreu zu reproduzieren, anstatt die Geschichte neu zu schreiben**
+**Wir haben den Standpunkt beibehalten, den Originalton originalgetreu zu reproduzieren, anstatt die Geschichte neu zu schreiben**
 
 Mit anderen Worten,
 **Auch wenn sich die Medien und die Ausrüstung ändern, bleibt die Essenz von Tatsuro Yamashitas Sound gleich. **

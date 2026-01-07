@@ -18,7 +18,7 @@ Toshi Nagai, auch bekannt als Toshimitsu Nagai, ist ein japanischer Schlagzeuger
 
 „D.O.S Drum“ ist Toshi Nagais zweites Soloalbum, das 1999 veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Laissez-moi Tranquille! (SPT Version)
 2. Moi
@@ -29,4 +29,4 @@ Toshi Nagai, auch bekannt als Toshimitsu Nagai, ist ein japanischer Schlagzeuger
 7. À (Tes/Vos) Amours!
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m32725365843?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m32725365843?afid=6142608987){: .button1}

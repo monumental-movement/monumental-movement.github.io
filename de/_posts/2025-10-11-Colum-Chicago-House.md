@@ -16,9 +16,11 @@ title: '[Kolumne] Von Chicago in die Welt: Die Geburt und Entwicklung der House-
 
 ## Eine Revolution, die in einem unterirdischen Lagerhaus begann
 
+
 Text: mmr | Thema: „Chicago House“ war nicht nur ein Ort der Unterhaltung, sondern ein Ort der Selbstdarstellung und des Gemeinschaftsgefühls.
 
-In den frühen 1980er Jahren erlebte die Clubszene Chicagos aufgrund des Niedergangs der Disco eine Flaute.  
+
+In den frühen 1980er Jahren erlebte die Clubszene Chicagos aufgrund des Niedergangs der Disco eine Flaute.
 Als die Disco kommerziell zunahm und aus dem Radio und dem Mainstream verschwand, suchten junge Leute nach einem neuen Ventil für den musikalischen Ausdruck. Eine der Antworten war die Musik, die später als „Chicago House“ bekannt wurde.
 
 Der Warehouse Club war in dieser Zeit ein musikalisches Testgelände. In einem riesigen, lagerhausähnlichen Raum versammelten sich Mitglieder der schwarzen Community, der LGBTQ+-Community und der städtischen Jugend, um in die Musik einzutauchen. Dieser Ort war nicht nur ein Ort der Unterhaltung, sondern auch ein Ort der Selbstdarstellung und des Gemeinschaftsgefühls.
@@ -40,18 +42,19 @@ color: #fff;
 }
 </style>
 
+
 ## Kapitel 1: Genesis – Chicagos Clubkultur und urbaner Hintergrund der 1980er Jahre
 
 ### Chicago Club – Lagerhaus und seine Räume
 
-Das Haus in Chicago entwickelte sich rund um den „Warehouse Club“.  
-Das 1977 eröffnete Warehouse war eine verlassene städtische Fabrik, die in einen Warehouse-Club umgewandelt wurde, der legendär wurde, als Frankie Knuckles dort als DJ auftrat.
+Das Haus in Chicago entwickelte sich rund um den „Warehouse Club“.
+Das 1977 eröffnete Warehouse war eine verlassene städtische Fabrik, die in einen Warehouse-Club umgewandelt wurde, der legendär wurde, als Frankie Knuckles dort als DJ auflegte.
 
 Der riesige Raum des Lagerhauses, die Höhe der Decke und das Echo des Betons verliehen der Musik eine einzigartige Tiefe und Dynamik. Die Klänge auf dem Boden hallten in den Körpern des Publikums wider und schufen so ein Gemeinschaftserlebnis, das über ein bloßes Musikerlebnis hinausging.
 
 ### Sozialer Hintergrund von Chicago in den 1980er Jahren
 
-Die frühen 1980er Jahre waren für Chicago wirtschaftlich schwierige Zeiten.
+Die frühen 1980er Jahre waren für Chicago eine schwierige wirtschaftliche Zeit.
 
 - Erhöhte Arbeitslosenquote aufgrund des industriellen Niedergangs
 - Gemeindespaltung aufgrund städtebaulicher Sanierung
@@ -61,7 +64,7 @@ Die Clubkultur füllte diese städtische Lücke und fungierte als neuer Ort des 
 
 ### Clubmanagement und Community
 
-Der Club hielt die Eintrittspreise auf ein Minimum und bot ein Umfeld, in dem lokale DJs und Künstler ungehindert auftreten konnten.  
+Der Club hielt die Eintrittspreise auf ein Minimum und bot ein Umfeld, in dem lokale DJs und Künstler ungehindert auftreten konnten.
 Dieser freie Raum hat dem Chicago House einen DIY-Geist und eine Gemeinschaftskultur verliehen.
 
 Als Anekdote las Frankie Knuckles spät in der Nacht die Jubelschreie der Menge ab und veränderte auf subtile Weise den Rhythmus, wodurch ein Moment entstand, in dem alle Körper im Gleichklang schwankten. Das Publikum reagierte mit Jubel und Applaus und zeigte, dass Musik ein soziales und kulturelles Phänomen ist.
@@ -70,20 +73,20 @@ Als Anekdote las Frankie Knuckles spät in der Nacht die Jubelschreie der Menge 
 
 ## Kapitel 2: Die Schöpfer von Chicago House
 
-### Frankie Knuckles — Godfather of House
+### Frankie Knuckles – Pate des Hauses
 
-Der gebürtige New Yorker Knuckles prägte die Clubkultur Chicagos, indem er im Warehouse auflegte.  
-Beeinflusst von Disco und Soul nutzten sie Rhythmusmaschinen und Synthesizer voll aus, um neue Grooves zu kreieren.  
+Der gebürtige New Yorker Knuckles prägte die Clubkultur Chicagos, indem er im Warehouse auflegte.
+Beeinflusst von Disco und Soul nutzten sie Rhythmusmaschinen und Synthesizer voll aus, um neue Grooves zu kreieren.
 Unter seinen Händen haben sich DJs von bloßen Handwerkern, die Songs zusammenfügen, zu Regisseuren gewandelt, die die gesamte Fläche kontrollieren.
 
 ### Marshall Jefferson – Dancefloor Revolution
 
-Jefferson hat „Move Your Body“ ins Leben gerufen, um partizipative Tanzerlebnisse in Clubs zu fördern.  
+Jefferson hat „Move Your Body“ ins Leben gerufen, um partizipative Tanzerlebnisse in Clubs zu fördern.
 Die Technik, beim Publikum durch subtile Veränderungen im Intro eine körperliche Reaktion hervorzurufen, hat Musik von einer bloßen Reihe von Klängen zu einem sozialen Phänomen erhoben.
 
 ### Larry Heard – der spirituelle Ausdruck von Deep House
 
-Larry Heard hat „Can You Feel It“ zu Hause mit einfacher Ausrüstung erstellt.  
+Larry Heard hat „Can You Feel It“ zu Hause mit einfacher Ausrüstung erstellt.
 Mit seinem tiefen meditativen Groove trug der Titel nicht nur zum Cluberlebnis bei, sondern auch zur individuellen spirituellen Reise des Hörers.
 
 ---
@@ -100,7 +103,7 @@ Frühe House-Musik zeichnete sich durch einfache, sich wiederholende Rhythmen au
 
 ## Kapitel 4: Die Schnittstelle von Gesellschaft und Kultur
 
-Chicago House ist mit der Unterstützung der schwarzen und LGBTQ+-Community gewachsen.  
+Chicago House ist mit der Unterstützung der schwarzen und LGBTQ+-Community gewachsen.
 Der Club war ein sicherer Hafen, ein Ort frei von Diskriminierung und Vorurteilen. Durch die Musik wurden Selbstdarstellung und Gemeinschaftsbildung weiterentwickelt und sie wurde zum Symbol der Minderheitenkultur in der Stadt.
 
 Anekdotisch veränderte Knuckles‘ leichte Änderung im Tempo seines Intros eines Abends im Warehouse sofort die Stimmung im gesamten Saal. Das Publikum reagierte mit Jubel und Applaus und zeigte, dass Musik ein soziales und kulturelles Phänomen ist.
@@ -109,7 +112,7 @@ Anekdotisch veränderte Knuckles‘ leichte Änderung im Tempo seines Intros ein
 
 ## Kapitel 5: Technologie und Produktionsmethoden
 
-Chicago House ist eng mit der Entwicklung der Technologie verbunden.  
+Chicago House ist eng mit der Entwicklung der Technologie verbunden.
 - Klangerzeugung mit **Rhythmusmaschine und Synthesizer**
 - Möglichkeit der Heimproduktion mit **Samplern und digitaler Aufnahmetechnik**
 - Demokratisierung der Kultur durch **unabhängige Labels und den DIY-Geist**
@@ -118,7 +121,7 @@ Larry Heards selbstproduziertes Can You Feel It ist eine Anekdote, die die Demok
 
 ---
 
-## Kapitel 6: Unerwartete Beziehungen
+## Kapitel 6: Überraschende Beziehungen
 
 Chicago House überschneidet sich mit scheinbar nicht zusammenhängenden Bereichen.
 
@@ -133,7 +136,7 @@ Chicago House überschneidet sich mit scheinbar nicht zusammenhängenden Bereich
 
 ## Kapitel 7: Von Chicago in die Welt
 
-In den späten 1980er Jahren expandierte Chicago House über seine Grenzen hinaus.  
+In den späten 1980er Jahren expandierte Chicago House über seine Grenzen hinaus.
 – Startet den Acid-House-Boom in Großbritannien
 - Aufbau eines internationalen Netzwerks durch Interaktion mit Detroit Techno
 - In Clubs und Festivals auf der ganzen Welt neu bewertet
@@ -144,18 +147,18 @@ In den späten 1980er Jahren expandierte Chicago House über seine Grenzen hinau
 
 | Künstler | Titel | Jahr | Link |
 |-------------|----------|----|---------------|
-| Frankie Knuckles | Babypuder / Deine Liebe | 1983 | [Amazon](https://amzn.to/477bklH) |
-| Marshall Jefferson | Bewegen Sie Ihren Körper | 1986 | [Amazon](https://amzn.to/3VWEWNo) |
-| Larry Heard | Kannst du es fühlen | 1986 | [Amazon](https://amzn.to/4n1bm4e) |
-| Phuture | Säurespuren | 1987 | [Amazon](https://amzn.to/4nL3JjJ) |
-| Jesse Saunders | Weiter & Weiter | 1984 | [Amazon](https://amzn.to/4nN4Lf6) |
+| Frankie Knuckles | Baby Powder / Your Love | 1983 | [Amazon](https://amzn.to/477bklH) |
+| Marshall Jefferson | Move Your Body | 1986 | [Amazon](https://amzn.to/3VWEWNo) |
+| Larry Heard | Can You Feel It | 1986 | [Amazon](https://amzn.to/4n1bm4e) |
+| Phuture | Acid Tracks | 1987 | [Amazon](https://amzn.to/4nL3JjJ) |
+| Jesse Saunders | On & On | 1984 | [Amazon](https://amzn.to/4nN4Lf6) |
 
 ---
 
 ## Kapitel 9: Historischer Hintergrund von Chicago House
 
-Die Wirtschafts- und Stadtstruktur Chicagos, die soziale Ungleichheit und der industrielle Niedergang legten den Grundstein für die Geburt der House-Musik.  
-Clubs waren mehr als nur Unterhaltung; Sie waren soziale und kulturelle Testfelder und Symbole der Freiheit und Solidarität unter den Stadtbewohnern.  
+Die Wirtschafts- und Stadtstruktur Chicagos, die soziale Ungleichheit und der industrielle Niedergang legten den Grundstein für die Geburt der House-Musik.
+Clubs waren mehr als nur Unterhaltung; Sie waren soziale und kulturelle Testfelder und Symbole der Freiheit und Solidarität unter den Stadtbewohnern.
 Das so geborene Chicago House verbreitete sich auf der ganzen Welt als kulturelles Phänomen, das urbane Kultur, Technologie, soziale Bewegungen und Musikgeschichte überschnitt.
 
 ---
@@ -177,7 +180,7 @@ flowchart TD
 
 ## Kapitel 10: Modernes Haus und Chicagos Erbe
 
-Es hat sich zum modernen Deep House und Tech House entwickelt und wird in Clubs und Festivals neu bewertet.  
+Es hat sich zum modernen Deep House und Tech House entwickelt und wird in Clubs und Festivals neu bewertet.
 Chicagoer House-Rhythmen sind tief in der städtischen Kultur und den Körpern der Menschen verankert und beeinflussen moderne elektronische Musik, Clubkultur und sogar Produktionsmethoden für Popmusik.
 
 ### Kulturelle Bedeutung als Erbe
@@ -189,7 +192,7 @@ Chicagoer House-Rhythmen sind tief in der städtischen Kultur und den Körpern d
 
 ### Ausblick für die Zukunft
 
-Chicago House ist mehr als nur ein Musikgenre aus der Vergangenheit; Es beeinflusst weiterhin die zukünftige Clubkultur und Musikproduktion als Schnittstelle zwischen urbaner Kultur, sozialen Bewegungen, Technologie und Musik.  
+Chicago House ist mehr als nur ein Musikgenre aus der Vergangenheit; Es beeinflusst weiterhin die zukünftige Clubkultur und Musikproduktion als Schnittstelle zwischen urbaner Kultur, sozialen Bewegungen, Technologie und Musik.
 Eine neue Generation von Künstlern sampelt klassische Lieder aus der Vergangenheit und interpretiert sie in modernen Rhythmen neu. Aufgrund der Stadterneuerung und der Fortschritte in der digitalen Technologie werden die physischen und virtuellen Erlebnisse in Clubräumen vielfältiger. Die Ideale der sozialen Inklusion und Vielfalt wurzeln im Konzept des Chicago House eines „freien und sicheren Raums der Meinungsäußerung“.
 
 ---
@@ -207,10 +210,10 @@ Sein Einfluss erstreckt sich auf britischen Acid House, Detroit Techno, modernen
 
 ### Verwandte Spalten
 
-🔗 [[Kolumne] Acid House: Chemische Reaktionen von Klang und kultureller Transformation](https://monumental-movement.jp/Column-Acid-House)
+🔗 [【コラム】 アシッド・ハウス：サウンドの化学反応と文化の変容](https://monumental-movement.jp/Column-Acid-House)
 
-🔗 [[Kolumne] Was ist Deep House? ─ Erkundung der Klangtiefe, die die Temperatur von Soul und Jazz mit House verbindet] (https://monumental-movement.jp/Column-Deep-House)
+🔗 [【コラム】 ディープ・ハウスとは？──ソウルとジャズの温度をハウスに溶かし込んだ、音の深層を探る](https://monumental-movement.jp/Column-Deep-House)
 
-🔗 [[Kolumne] Von den Ursprüngen des NY House bis zur Gegenwart – Geschichte, Meisterwerke und Änderungen in der Ausstattung](https://monumental-movement.jp/Column-NY-House)
+🔗 [【コラム】 NY Houseの発祥から現在まで ─ 歴史・名盤・機材の変遷](https://monumental-movement.jp/Column-NY-House)
 
-🔗 [[Kolumne] Detroit Techno: Menschlicher Tanz, geschaffen durch den Herzschlag von Maschinen](https://monumental-movement.jp/Column-Detroit-Techno)
+🔗 [【コラム】 デトロイト・テクノ(Detroit Techno)：機械の鼓動が生んだ人間のダンス](https://monumental-movement.jp/Column-Detroit-Techno)

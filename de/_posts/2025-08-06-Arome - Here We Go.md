@@ -19,14 +19,14 @@ Frank Zenker, auch bekannt als Arome, ist ein Hard-Trance/Tech-Trance-DJ und Pro
 „Here We Go“, veröffentlicht im Jahr 2000, ist Aromes Meisterwerk und gilt als Hard-Trance-Klassiker.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Here We Go (DJ Scot Project Remix)
 
 B1. Here We Go (Midnight Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m94656874755?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94656874755?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oimiwO-ugQw?si=X-dtZE1tbog57xlG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

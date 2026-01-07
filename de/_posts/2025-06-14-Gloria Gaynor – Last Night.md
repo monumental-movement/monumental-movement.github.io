@@ -21,7 +21,7 @@ Der dritte Titel auf Seite A ist ein Remix des amerikanischen Synth-Pop-Autors u
 
 Die B-Seite ist ein Remix des britischen Musikers, Songwriters, DJs, Musikdirektors und Arrangeurs Steve Anderson.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Last Night (T&F Crushed Mendoza Club Mix)
 A2. Last Night (T&F Radio Mix)
@@ -30,7 +30,7 @@ A3. Last Night (Dave Sears Club Mix)
 B1. Last Night (Steve Anderson Mardi Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m65247487124?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m65247487124?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YF1VG-hlDM8?si=qAmA23928WjjbunF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

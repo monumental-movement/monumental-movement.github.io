@@ -15,6 +15,7 @@ title: '[Kolumne] New-Age-Musik – Die Schnittstelle von Meditation und Klangla
 
 ## --Harmonie mit der Natur, Selbstreflexion und Heilung--
 
+
 Text: mmr｜Thema: Tiefe Beziehung zur New-Age-Ideologie und Gegenkultur
 
 <hr>
@@ -22,7 +23,7 @@ Text: mmr｜Thema: Tiefe Beziehung zur New-Age-Ideologie und Gegenkultur
 ### Definition und Merkmale
 
 New-Age-Musik ist ein Musikgenre, das sich in den späten 1970er bis 1980er Jahren vor allem in Europa und Amerika verbreitete und sich auf einen Stil bezieht, der oft im Kontext von Meditation, Entspannung und der spirituellen Welt gehört wird.
-Es hat sich durch eine Mischung aus Ambient-, zeitgenössischer, ethnischer und Umweltmusik entwickelt und zeichnet sich durch einen meditativen, nicht aggressiven Sound aus, der Synthesizer und akustische Instrumente voll ausnutzt. Die Melodien sind einfach, oft mit lang gehaltenen Tönen und sich wiederholenden Strukturen, und die Rhythmen werden oft absichtlich weggelassen oder sind sehr langsam.
+Es hat sich durch eine Mischung aus Ambient-, zeitgenössischer, Folk- und Umweltmusik entwickelt und zeichnet sich durch einen meditativen, nicht aggressiven Sound aus, der Synthesizer und akustische Instrumente voll ausnutzt. Die Melodien sind einfach, oft mit lang gehaltenen Tönen und sich wiederholenden Strukturen, und die Rhythmen werden oft absichtlich weggelassen oder sind sehr langsam.
 
 Aus diesem Grund spielte sie eine Rolle als „heilende Musik“ und wurde mit spirituellen Lebensstilen und Zurück-zur-Natur-Bewegungen in Verbindung gebracht.
 
@@ -36,7 +37,7 @@ Aus diesem Grund spielte sie eine Rolle als „heilende Musik“ und wurde mit s
 
 ---
 
-**1980er Jahre**: Labels wie Windham Hill Records und Private Music wurden gegründet und Künstler wie [George Winston](https://amzn.to/3W7NEZl) und [Kitaro](https://amzn.to/42I1xBc) erlangten weltweite Popularität. Der Begriff „New Age“ etabliert sich als Kategorie im Musikmarkt.
+**1980年代**：Windham Hill Records や Private Music といったレーベルが設立され、[ジョージ・ウィンストン](https://amzn.to/3W7NEZl)や[キタロウ（喜多郎）](https://amzn.to/42I1xBc)などが世界的に人気を獲得。「ニューエイジ」という言葉が音楽マーケットのカテゴリーとして定着する。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vzuBXXHwfp4?si=iUoxN2q2MksVDR9V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -90,9 +91,9 @@ Aktuelle New-Age-Musik ist nicht mehr nur „heilende Musik“ und wird im folge
 
 <hr>
 
-### Eine „Oase des Klangs“ verkörpern
+### Verkörperung einer „Oase des Klangs“
 
 New-Age-Musik wurde, um es deutlich auszudrücken, oft als „Hintergrundmusik“ beschrieben. Sein meditativer und nicht aggressiver Klang verkörpert jedoch mittlerweile die „Klangoase“, die die Menschen im Zuge der fortschreitenden Urbanisierung und Informationstechnologie suchen.
 In der Neuzeit wurde es wieder in Genres wie Ambient und Chillout aufgenommen, aber seine Ideale – Harmonie mit der Natur, Selbstbeobachtung und Heilung – sind noch dringlicher geworden.
 
-New Age ist keine Modeerscheinung der Vergangenheit, sondern eine Musikkultur, die stillschweigend, aber sicher weiterhin eine Rolle im Leben der Menschen spielt.
+New Age ist keine Modeerscheinung der Vergangenheit; Es ist eine Musikkultur, die stillschweigend, aber sicher weiterhin eine Rolle im Leben der Menschen spielt.

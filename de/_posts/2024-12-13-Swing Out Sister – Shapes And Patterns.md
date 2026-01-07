@@ -20,7 +20,7 @@ title: Swing Out Sister – Formen und Muster
 
 Das Lied „Now You're Not Here“ wurde als Titelsong für das Drama „Midday Moon“ geschrieben und wurde in Japan ein großer Hit. Auf diesem Album ist Gota Yashiki als Schlagzeuger zu hören.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Somewhere In The World
 2. Here And Now
@@ -37,7 +37,7 @@ Das Lied „Now You're Not Here“ wurde als Titelsong für das Drama „Midday 
 13. Shapes And Patterns (Reprise)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m34567494829?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m34567494829?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rWrIuSbpNO0?si=LWTlZEawiK8BR6zC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -15,7 +15,7 @@ title: Mighty Dub Katz & Cagedbaby – Southern Fried & Getestet
 
 Ein 2-CD-Set mit House-Mixen von Mighty Dub Katz und Cagedbaby, einer Einheit von Fatboy Slim, alias Norman Cook, und Gareth Hansome, veröffentlicht im Jahr 2007.
 
-#### Tracklist
+#### Trackliste
 ```md
 The Mighty Dub Katz	1:16:13
 
@@ -68,7 +68,7 @@ The Mighty Dub Katz	1:16:13
 2-28. Unknown Artist - Outro
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m69368061086?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m69368061086?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ed1YzP5_a0o?si=6h04_TWApdJ3fAzN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

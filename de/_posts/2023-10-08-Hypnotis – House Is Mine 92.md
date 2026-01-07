@@ -19,14 +19,14 @@ Hypnotist ist eine britische Techno-Einheit, die in der frühen Techno-Szene akt
 
 Dieses Lied verkörpert den Sound und die Energie der Technoszene der frühen 90er Jahre. Mit seinen tanzbaren Rhythmen und dem einzigartigen Sampling werden Zuhörer in eine einzigartige Welt der Musik von Hypnotist entführt.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. The House Is Mine '92 (Original)
 
 B. The House Is Mine '92 (Westbam Remix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m41815735599?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m41815735599?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LnvJTGYsPeQ?si=YnUVTmh71j27O9We" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

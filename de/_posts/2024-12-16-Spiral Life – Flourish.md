@@ -21,7 +21,7 @@ Spiral Life ist eine Gruppe bestehend aus Koji Kurumatani und Shokichi Ishida, d
 
 Das Lied „GARDEN“ wurde als Eröffnungsthema für „Asakusabashi Young Clothing Store“ verwendet.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Garden
 2. Flower Child (0113)
@@ -36,7 +36,7 @@ Das Lied „GARDEN“ wurde als Eröffnungsthema für „Asakusabashi Young Clot
 11. Nero
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m90625474415?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m90625474415?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bezCXU9hdCs?si=wHzi-g6loe7up-uW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

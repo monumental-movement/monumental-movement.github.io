@@ -18,21 +18,23 @@ title: Holen Sie sich Dubstep-Werke
 
 <hr>
 
-### Benga & Walsh Vs Darqwan – Addicts / Megatection
+### Benga & Walsh gegen Darqwan – Süchtige / Megatection
 <a href="https://jp.mercari.com/item/m84498913064?afid=6142608987"><img src="../assets/images/Benga%20and%20Walsh%20Vs%20Darqwan%20%E2%80%93%20Addicts%20Megatection.webp"></a>
 
 Besonderheiten: Drei Personen mit unterschiedlichen Herangehensweisen sind für jeden Aspekt verantwortlich, was das Stück zu einem Stück mit einer attraktiven Komposition auf beiden Seiten macht.
 
+
 Warum: Bengas Basstiefe, Walshs Groove und Darqwans Originalität kommen in jedem Track durch.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Benga & Walsh–Addicts
 
 B. Darqwan–Megatection
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m84498913064?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m84498913064?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -41,21 +43,23 @@ B. Darqwan–Megatection
 <br>
 
 
-### Zed Bias – Ambush Riddim Cosmic Minefield
+### Zed Bias – Hinterhalt Riddim Cosmic Minefield
 <a href="https://jp.mercari.com/item/m24563380376?afid=6142608987"><img src="../assets/images/Zed%20Bias%20%E2%80%93%20Ambush%20Riddim%20Cosmic%20Minefield.webp"></a>
+
 
 Merkmale: Der Stil, der die Anfänge des Dubstep in den 2000er Jahren symbolisiert, wird stark widergespiegelt, und die Stärke des Beats und die Tiefe des Basses sind die Highlights.
 
-Reiz: Das Sounddesign von Zed Bias vereint einen Sinn für Struktur und Verspieltheit, der zu der Zeit auf dem neuesten Stand der britischen Elektronikszene war. Der Inhalt koexistiert mit spannenden Rhythmen und futuristischen Raumbeschreibungen und macht es zu einem wertvollen Sammlerstück.
+Reiz: Das Sounddesign von Zed Bias hat einen Sinn für Struktur und Verspieltheit, der zu der Zeit auf dem neuesten Stand der britischen Elektronikszene war. Der Inhalt koexistiert mit spannenden Rhythmen und futuristischen Raumbeschreibungen und macht es zu einem wertvollen Sammlerstück.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Ambush Riddim
 
 B. Cosmic Minefield
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m24563380376?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m24563380376?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -65,21 +69,24 @@ B. Cosmic Minefield
 
 
 
-### Distance – Night Vision Traffic (Remixes)
+### Distance – Night Vision Traffic (Remixe)
 <a href="https://jp.mercari.com/item/m41976267806?afid=6142608987"><img src="../assets/images/Distance%20%E2%80%93%20Night%20Vision%20Traffic%20(Remixes).webp"></a>
+
 
 Features: Die Kombination von Distance, Skream, die seit ihrer Geburt die Dubstep-Szene anführen, und Goth-Trad, der Japan vertritt, ist eine Traumzusammenarbeit.
 
-Charm: Skream ist ein „destruktiver Beat“, der sich die Essenz des Originalsongs zunutze macht, während Goth-Trad eine düstere und texturorientierte Rekonstruktion ist, die man als völlig gegensätzliche Klangbilder bezeichnen kann, die in einem Album enthalten sind. Dieser Artikel hat als Klassiker einen hohen Wert und ist bei Analog-Enthusiasten und DJs sehr gefragt.
 
-#### Tracklist
+Charm: Skream ist ein „destruktiver Beat“, der sich die Essenz des Originalsongs zunutze macht, während Goth-Trad eine düstere, texturorientierte Rekonstruktion ist, bei der es sich um völlig gegensätzliche Klangbilder handelt, die in einem Album enthalten sind. Dieser Artikel hat als Klassiker einen hohen Wert und ist bei Analog-Enthusiasten und DJs sehr gefragt.
+
+#### Trackliste
 ```md
 A. Night Vision (Skream's 'So Nasty' Version)
 
 B. Traffic (Goth-Trad Remix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m41976267806?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m41976267806?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -88,14 +95,14 @@ B. Traffic (Goth-Trad Remix)
 <br>
 
 
-### Skrillex – Scary Monsters And Nice Sprites
+### Skrillex – Gruselige Monster und nette Sprites
 <a href="https://jp.mercari.com/item/m86556698095?afid=6142608987"><img src="../assets/images/Skrillex%20%E2%80%93%20Scary%20Monsters%20And%20Nice%20Sprites.webp"></a>
 
 Features: Dies ist die EP, die den Namen Skrillex weltweit begründete, und insbesondere „Scary Monsters And Nice Sprites“ gilt als das monumentale Werk, das Dubstep in den Mainstream brachte.
 
 Appeal: Enthält Remixe führender Produzenten wie Noisia, Zedd und Bare Noize, die den Songs aus der Perspektive jedes Künstlers einen neuen Reiz verleihen.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Rock N' Roll (Will Take You To The Mountain)
 2. Scary Monsters And Nice Sprites
@@ -108,7 +115,8 @@ Appeal: Enthält Remixe führender Produzenten wie Noisia, Zedd und Bare Noize, 
 9. Kill Everybody (Bare Noize Remix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m86556698095?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m86556698095?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -120,19 +128,22 @@ Appeal: Enthält Remixe führender Produzenten wie Noisia, Zedd und Bare Noize, 
 ### Aquasky – Nylon Roadster Cosmic Glue
 <a href="https://jp.mercari.com/item/m84434801659?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Nylon%20Roadster%20Cosmic%20Glue.webp"></a>
 
+
 Eigenschaften: Dieses 1996-97 auf dem Label Moving Shadow veröffentlichte Album löst sich von einem übermäßig jazzigen Sound und bietet einen „sanften“ Breakbeat mit einem sanften und emotionalen Klavierabschnitt. Es fühlt sich beruhigend an, wie ein Schlaflied, und man kann auch die Textur des schweren Basses spüren, der Dubstep ähnelt.
+
 
 Appell: Für diejenigen, die die dunklen und tiefen Basslinien und Beats von Dubstep mögen, ist dies ein großartiges Album zum Anhören.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 X. Nylon Roadster
 
 Y. Cosmic Glue
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m84434801659?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m84434801659?afid=6142608987){: .button1}
 
 
 #### Youtube

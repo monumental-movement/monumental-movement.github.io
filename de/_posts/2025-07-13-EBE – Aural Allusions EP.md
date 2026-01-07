@@ -19,7 +19,7 @@ Lucas Rodenbush, auch bekannt als EBE, ist ein amerikanischer Elektronikmusiker 
 „Aural Allusions EP“ ist ein Elektro- und Breakbeat-Track, der auf Leftfield & Tech House basiert und 2005 von Greyhound Recordings veröffentlicht wurde, einem bahnbrechenden Dance-Label mit einer einzigartigen Vision, Elemente aus House, Dub, Techno und psychedelischem Funk zu verschmelzen.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Busted
 A2. Electric
@@ -27,7 +27,7 @@ A2. Electric
 B. Overboard
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m25474551060?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m25474551060?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hbnVF27yjOg?si=XE3blRbCoUoWqBPR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

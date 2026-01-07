@@ -16,7 +16,7 @@ title: Sugababes – Soul Sound
 
 Die erste B-Seite der EP „Soul Sound“ von Sugar Babes ist ein Remix von Dave Lee, alias Joey Negro, einem britischen DJ und House-Musikproduzenten, der auch als Jakatta, Doug Willis, Raven Maize und Sessomatto bekannt ist.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Run For Cover (G4orce All Things Nice Dub)
 
@@ -27,7 +27,7 @@ B1. Soul Sound (Joey Negro Club Mix)
 B2. Soul Sound (Soulchild Remix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m76809877901?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m76809877901?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f8dxzllKuNA?si=27ksw_8qhl9Am2Pw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

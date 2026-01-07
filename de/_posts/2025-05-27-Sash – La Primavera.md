@@ -24,7 +24,7 @@ Der erste Titel auf der B-Seite ist ein Remix des Kölner Produktionsduos Blank 
 
 Der zweite Song auf Seite B ist ein Remix von Alec Milliner, auch bekannt als Magic Alec.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. La Primavera (DJ JamX & De Leon Remix)
 
@@ -32,7 +32,7 @@ B1. La Primavera (Blank & Jones Club Mix)
 B2. La Primavera (Magic Alec's As The Wind Blows Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m61308099311?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61308099311?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YPLTA7PtI5I?si=0payfCdco8BqLPfZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

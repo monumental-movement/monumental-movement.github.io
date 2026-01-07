@@ -18,7 +18,7 @@ N-Trance ist ein britisches Duo für elektronische Musik, das 1990 von Kevin O'T
 
 „Electronic Pleasure“ ist N-Trances erstes Studioalbum in voller Länge, das 1995 veröffentlicht wurde und die Hits „Set You Free“, „Stayin‘ Alive“ und „Electronic Pleasure“ enthält.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. What Is Your Pleasure?
 2. Electronic Pleasure
@@ -34,7 +34,7 @@ N-Trance ist ein britisches Duo für elektronische Musik, das 1990 von Kevin O'T
 12. That's All We Need
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m94964777024?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94964777024?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bcf5kzBCdy4?si=Xu1Zk16QwxYwltcB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

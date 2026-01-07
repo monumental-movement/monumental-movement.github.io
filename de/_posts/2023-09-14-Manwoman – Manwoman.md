@@ -16,7 +16,7 @@ title: Mannfrau – Mannfrau
 
 Dies ist die erste Single der japanischen Hardcore/Punk-Band Man Woman, die 1995 veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Blk(black)out
 
@@ -30,5 +30,5 @@ B1. Speedometer
 B2. Man And Woman
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m46814457892?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46814457892?afid=6142608987){: .button1}
 

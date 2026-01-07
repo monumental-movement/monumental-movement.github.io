@@ -17,7 +17,7 @@ Transa, auch bekannt als Escape, ist ein Bruderduo von Brendan Webster und David
 
 „Nothing To Fear / Solar Silence“ wurde 2003 von Trance auf seinem eigenen Label Exciter veröffentlicht.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Untitled
 
@@ -25,7 +25,7 @@ B1. Untitled
 B2. Untitled
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m38913802157?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m38913802157?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vGkGAaKeYHM?si=cRWQdRbdYfim5Upz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

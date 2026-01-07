@@ -16,7 +16,7 @@ title: Verschiedene – Sandou.EP 002
 „Sandou.EP 002“ ist
 Dies ist eine EP, die 1997 vom japanischen Label „Sandou Records“ veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Wambanca–Ca1
 
@@ -29,7 +29,7 @@ B1. Powder –Lost Moodies
 B2. Takashi Uno–Machinary Funk2
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m49072274463?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m49072274463?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vl4yPp-9jAg?si=iTV30cdzTwfmEhjp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

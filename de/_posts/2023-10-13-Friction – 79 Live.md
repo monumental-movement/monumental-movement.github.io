@@ -17,7 +17,7 @@ Friction war eine japanische Punkrockband, die Ende der 1970er Jahre im Zentrum 
 
 „'79 Live“ Eine Neuauflage des Live-Albums aus dem Jahr 2005 mit dem Live-Auftritt von 1979 (inkl. DVD).
 
-#### Tracklist
+#### Trackliste
 ```md
 CD-1Automatic-Fru
 
@@ -42,7 +42,7 @@ DVD-1Friction
 DVD-21979-80 8mm Film
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m87178504200?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m87178504200?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UKkdvU-E2gg?si=vpbwVaeR3T7vMEk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

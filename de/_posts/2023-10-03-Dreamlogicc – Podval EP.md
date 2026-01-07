@@ -17,7 +17,7 @@ title: Dreamlogicc – Podval EP
 
 *Limitierte Auflage von 200 Exemplaren, A3 und A4 sind nicht im Abspann aufgeführte Zwischenspiele, die mit einer verriegelten Rille enden.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Blanx
 
@@ -32,7 +32,7 @@ B1. Blanx (Accidental Freedom By Area)
 B2. Equalizer
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m64740020390?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64740020390?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KR9EYZBJw5c?si=G6PKsM-D7r_ko6cQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

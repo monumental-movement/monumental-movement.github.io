@@ -20,7 +20,7 @@ Unter dem Namen Modaji ist er in der Breakbeat-Szene als Mitglied der Restless S
 
 „Pre-Sets Sampler Limited Edition“ ist Downtempo/Future Jazz, der 2002 von Ben Wilcox‘ Label Laws Of Motion veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Outside From The Inside (Radio Edit)
 A2. The Riot Act
@@ -29,7 +29,7 @@ B1. Midnight Plains
 B2. Latin Protocol (Version)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m61116264244?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61116264244?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LZY_gyLxKss?si=GduY4VfXKIWVVRsd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

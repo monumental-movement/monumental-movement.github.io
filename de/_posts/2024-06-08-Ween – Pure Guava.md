@@ -18,7 +18,7 @@ title: Ween – Reine Guave
 
 „Pure Guava“ erschien 1992 und ist Weens drittes Studioalbum und Major-Label-Debüt. Enthält Weens Meisterwerk „Push th' Little Daisies“.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Little Birdy
 A2. Tender Situation
@@ -42,7 +42,7 @@ B8. Don't Get 2 Close (2 My Fantasy)
 B9. Poop Ship Destroyer
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m18143253242?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m18143253242?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SSuuz_sh_pI?si=fZYBIw-9nV7PYyyW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

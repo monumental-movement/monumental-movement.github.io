@@ -21,24 +21,24 @@ title: 8bit-Projekt – Vertraute Computerwelt
 Die Jacke ist eine Parodie auf Kraftwerks „Computer World“ aus dem Jahr 1981.
 
 #### Trackliste
-„md
-1. Maiahi der Liebe
-2. Süßer Schatz
-3. Sakuranbo~Happy Days~SMILY~Planetarium
-4. Dämmerung
-5. [Neon Genesis Evangelion Medley] Cruel Angel's Thesis ~ ANGEL ATTACK ~ DECISIVE BATTLE ~ Sinfonie Nr. 9, 4. Satz ~ FLY ME TO THE MOON ~ Nächste Vorschau
-6. Zielen Sie auf Moskau
-7. Raiden
-8. Game Center Arashi
-9. Geburtstagsabend～D.D.D.～Shake It Up～you
+```md
+1. 恋のマイアヒ
+2. キューティーハニー
+3. さくらんぼ～Happy Days～SMILY～プラネタリウム
+4. トワイライト
+5. [新世紀エヴァンゲリオン・メドレー]残酷な天使のテーゼ～ANGEL ATTACK～DECISIVE BATTLE～交響曲第九番第四楽章～FLY ME TO THE MOON～次回予告
+6. めざせモスクワ
+7. ライディーン
+8. ゲームセンターあらし
+9. Birthday Eve～D.D.D.～Shake It Up～you
 10. GOLDFINGER '99
-11. [Studio Ghibli-Arbeitsmedley] Path of the Wind ~Nausicaa Requiem~Das Karussell des Lebens
-12. Kraftloch
-13. Champione ~ Loco Lotion ~ Shanghai Honey ~ Flower
-14. Maiahi der Liebe (Reprise)
-15. Schizoider Mann des 21. Jahrhunderts (einschließlich: Spiegel)
-16. Computerspiel „Zirkusthema“
-17. Technopolis
-````
+11. [スタジオ・ジブリ作品メドレー] 風のとおり道～ナウシカ・レクイエム～人生のメリーゴーランド
+12. パワーホール
+13. チャンピオーネ～ロコローション～上海ハニー～花
+14. 恋のマイアヒ（リプライズ）
+15. 21 世紀のスキッツォイド・マン(インクルーディング:ミラーズ)
+16. コンピューター・ゲーム“サーカスのテーマ”
+17. テクノポリス
+```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m57084635751?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m57084635751?afid=6142608987){: .button1}

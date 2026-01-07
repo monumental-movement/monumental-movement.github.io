@@ -18,14 +18,14 @@ Ein Techno-Track von Guy McAffer (Geezer), einem festen Bestandteil der Londoner
 Diese Platte wurde 2004 auf Guy McAffers Techno-Label R.A.W. veröffentlicht. (Reife analoge Wellenformen).
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Untitled
 
 B. Untitled
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m16963958176?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m16963958176?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h0OIlR7EW8Y?si=sry6tWKgIvRC5h4l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

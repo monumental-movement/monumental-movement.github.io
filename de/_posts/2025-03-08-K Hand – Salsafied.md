@@ -21,7 +21,7 @@ K: Hand, auch bekannt als Kelli Hand, ist ein Techno-House-Musiker und DJ aus De
 „Salsafied“ ist ein Tech-House-Album, das im Jahr 2000 vom deutschen Label Ausfahrt veröffentlicht wurde.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Be Right There (Orig)
 2. So Special
@@ -37,7 +37,7 @@ K: Hand, auch bekannt als Kelli Hand, ist ein Techno-House-Musiker und DJ aus De
 12. You Don't Know Me
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m40094738865?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40094738865?afid=6142608987){: .button1}
 
 #### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AJ6TE0Mh_lc?si=4KaeY9bmIGR6u4r5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

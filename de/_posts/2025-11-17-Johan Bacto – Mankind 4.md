@@ -18,7 +18,7 @@ Johan Bacto (Johan Svensson) ist ein schwedischer Techno-Produzent. Er betreibt 
 
 „Mankind 4“ ist ein Techno/Minimal-Song, der 1999 auf Johan Bactos Label MANKIND veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Untitled
 
@@ -26,7 +26,7 @@ B1. Untitled
 B2. Untitled
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m49621691909?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m49621691909?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AcInMxhabVc?si=ZBabIwEgcWCWZKXn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

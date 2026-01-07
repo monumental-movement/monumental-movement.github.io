@@ -8,14 +8,15 @@ layout: post
 permalink: /de/column-enoch-light-command/
 tags:
 - History
-title: '[Kolumne] Enoch Light and Command Records: Die Abstammung des Mannes und Labels,
-  die die HiFi-Kultur geschaffen haben'
+title: '[Kolumne] Enoch Light and Command Records: Der Mann, der die HiFi-Kultur und
+  die Abstammung des Labels geschaffen hat'
 ---
 
 
 ## Command Records und „Sounddesign“ – was war daran innovativ?
 
 Text: mmr | Thema: Verfolgt sorgfältig die Geschichte, repräsentative Werke, verwandte Künstler, Anekdoten und den Einfluss von Enoch Wright, der die „Demonstrationsaufzeichnung“ der Stereo-Ära auf die Ebene der Kunst erhob, und der von ihm gegründeten Firma Command Records bis heute.
+
 
 In den 1950er und 1960er Jahren gab es unter den Audio-Enthusiasten eine Person, die ihre Ausrichtung von „Schallplatten zum Anhören“ zu „Schallplatten zum Anhören“ änderte. Der Dirigent/Produzent Enoch Light gründete 1959 Command Records, ein Label, das sich um hochwertigen Klang bemüht, und wurde mit seinen einzigartigen Kunstwerken und seiner hochmodernen Aufnahmetechnologie zum Symbol der „Hi-Fi-Kultur“. Dieser Artikel fasst die gesamte Geschichte zusammen, einschließlich ihres historischen Kontexts, repräsentativer Werke, der Beziehung zu Tony Mottola und der heutigen Bewertung.
 
@@ -35,19 +36,22 @@ color: #fff;
 
 ### „Hi-Fi Lounge/Space Age Pop“
 
-Command Records zielte eindeutig auf den Markt als „Audio-Demo-Platte“ ab und wählte, arrangierte und nahm die Songs mit höchster Priorität auf Klangqualität auf. Wright führte die neueste Technologie wie Multi-Mic-Aufnahme und Master-Aufnahme auf 35-mm-Film ein und übte die Produktion mit einem ausgeprägten Bewusstsein für das Schallfeld (Stereobild). Dies führte zu einer Gruppe von Alben, die den „Panning-Effekt“ und die Lokalisierung von Schlaginstrumenten betonten und das Genre „Hi-Fi-Lounge/Space-Age-Pop“ begründeten, das sich von allgemeinem Pop und Jazz unterschied.
+Command Records zielte eindeutig auf den Markt als „Audio-Demo-Platte“ ab und wählte, arrangierte und nahm Songs mit oberster Priorität auf Klangqualität auf. Wright führte die neueste Technologie wie Multi-Mic-Aufnahme und Master-Aufnahme auf 35-mm-Film ein und übte die Produktion mit einem ausgeprägten Bewusstsein für das Schallfeld (Stereobild). Dies führte zu einer Gruppe von Alben, die den „Panning-Effekt“ und die Lokalisierung von Schlaginstrumenten betonten und den Genre-Geist von „Hi-Fi-Lounge/Space-Age-Pop“ begründeten, der sich von allgemeinem Pop und Jazz unterschied.
 
 ---
+
 
 ### Anekdote/Legende/Episode
 
 - **Gatefold und grafische Ästhetik**
 
-Die LP-Cover von Command waren optisch stark und enthielten manchmal ein Cover des abstrakten Malers Josef Albers. Das Design der CD als etwas, das über eine bloße Demo-CD hinausging und zu etwas wurde, das die Leute besitzen wollten, stimulierte die darauffolgende Sammlerkultur.
+Die LP-Cover von Command waren optisch stark und enthielten manchmal ein Cover des abstrakten Künstlers Josef Albers. Das Design der CD als etwas, das über eine bloße Demo-CD hinausging und zu etwas wurde, das die Leute besitzen wollten, stimulierte die darauffolgende Sammlerkultur.
+
 
 - **Werbe-Slogan: „Sie werden überrascht sein, sobald Sie es zum ersten Mal hören“**
 
 In den Linernotes und Werbeaktionen von Stereo 35/MM wurden provokante Sätze wie „Sie werden überrascht sein, wenn Sie es zum ersten Mal hören“ verwendet, um das Interesse der Zuhörer zu wecken. Dies ist ein Beispiel für erfolgreiches Marketing, das auf technischem Vertrauen basiert.
+
 
 - **Der Konflikt zwischen Kommerz und Kunst**
 
@@ -73,13 +77,16 @@ flowchart TD
 
 ---
 
+
 ### Repräsentative Serien und Alben
 
 Persuasive Percussion-Reihe (erstmals 1959 veröffentlicht)
 Eine Serie, die als „Stereo-Prunkstück“ gedacht ist, bei der Schlaginstrumente im Vordergrund stehen. Bekanntheit erlangte es durch die Songauswahl und das Layout, die selbst bei Außenstehenden großen Eindruck hinterließen. Auch die Umschlaggrafiken und die Erklärung des Gatefolds waren damals innovativ.
 
+
 Provokative Percussion-Serie
 Schwesterserie von Persuasive. Obwohl das Konzept ähnlich ist, wurden einige Werke hinsichtlich des Arrangements und der Solo-Präsentation verbessert und erreichten hohe Platzierungen in den Billboard-Charts.
+
 
 Stereo 35/MM (1961)
 Das Album wurde in der Carnegie Hall mit einem 35-mm-Master aufgenommen. Es blieb nach seiner Veröffentlichung noch lange Zeit an der Spitze der Charts und ist ein Paradebeispiel für die gleichzeitige technische Attraktivität und kommerziellen Erfolg.
@@ -91,14 +98,15 @@ Das Album wurde in der Carnegie Hall mit einem 35-mm-Master aufgenommen. Es blie
 
 | Jahr | Album (Künstler) | Kommentar | Link |
 | --------- | -------------------- | ----------------- | ------------- |
-| 1959 | Überzeugende Percussion (Terry Snyder & The All Stars) | Zuerst in der Serie. „Vorzeigbare Aufnahme“, die den Stereoeffekt betont.  | [Amazon](https://amzn.to/4pSSAyH) |
-| 1959 | Provokative Percussion (Enoch Light & The Light Brigade) | Ein Meisterwerk zusammen mit der Persuasive-Reihe. Bemerkenswert sind auch visuelle Aspekte wie das Kunstwerk von Josef Albers. | [Amazon](https://amzn.to/4gYbFLV) |
-| 1961 | Stereo 35/MM (Enoch Light und sein Orchester) | Aufnahme in der Carnegie Hall. Experimentelle Arbeit mit hoher Wiedergabetreue mit einem 35-mm-Master. Kommerziell erfolgreich.   |[Amazon](https://amzn.to/3WjZT4T) |
-| 1960er Jahre (Übersicht) | Überzeugende/provokative Compilation-CD | Neuauflagen-Zusammenstellung für den Großeinkauf. In den letzten Jahren gab es hier und da hochwertige Neuauflagen.    | [Amazon](https://amzn.to/48gg2Qg) |
+| 1959      | Persuasive Percussion（Terry Snyder & The All Stars） | シリーズ第1作。ステレオ効果を強調した“見せる録音”。  |  [Amazon](https://amzn.to/4pSSAyH)  |
+| 1959      | Provocative Percussion（Enoch Light & The Light Brigade） | Persuasive 系と並ぶ代表作。Josef Albers のアートワークなど視覚面も注目。 | [Amazon](https://amzn.to/4gYbFLV)    |
+| 1961      |  Stereo 35/MM（Enoch Light and His Orchestra） | Carnegie Hall録音。35mmマスター利用のハイファイ実験作。商業的にも成功。   |[Amazon](https://amzn.to/3WjZT4T)        |
+| 1960s（総括） | Persuasive/Provocative コンピCD | まとめ買い向けの再発コンピ。近年も高音質再発が散見される。    | [Amazon](https://amzn.to/48gg2Qg) |
 
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MZ9kac5dkd8?si=QfwdLUt-kVfX47oV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ### Beteiligte Musiker/produzierte Künstler
 
@@ -110,6 +118,7 @@ Enoch Light dirigierte nicht nur selbst, sondern engagierte für jedes Album Top
 
 
 ---
+
 
 ## Beziehung zwischen Tony Mottola und Enoch Light
 
@@ -153,7 +162,7 @@ Als Enoch Light Grand Award and Command gründete, versammelte er New Yorks Top-
 
 Er spielte auch eine wichtige Rolle in den Serien „Persuasive Percussion“ und „Provocative Percussion“.
 
-Bei Experimenten mit lateinamerikanischen Rhythmen und Stereopositionierung erwies sich die Gitarre als Instrument, das sich leicht links und rechts zuordnen ließ, und Mottolas flexibles Spiel wurde ausgenutzt.
+Bei Experimenten mit lateinamerikanischen Rhythmen und Stereopositionierung erwies sich die Gitarre als Instrument, das sich leicht links und rechts zuordnen ließ, und Mottolas flexibles Spiel wurde genutzt.
 
 - **Soloalbum-Veröffentlichung (von Command)**
 
@@ -169,7 +178,7 @@ Mottola war eine der Säulen, die Commands „Lounge/Easy-Listening-Route“ unt
 
 ### Vertrauen in Arrangement und Aufnahmestil
 
-- **Stammgitarrist von Command Records**
+- **Command Records Stammgitarrist**
 
 Er nimmt fast immer an den Aufnahmen des von Light ins Leben gerufenen Grand Award~Command teil.
 Er war verantwortlich für die Durchführung von Gitarrenlokalisierungsexperimenten in der Reihe „Persuasive Percussion“ und anderen Werken.
@@ -194,23 +203,23 @@ Betont die Auswirkungen von Hall und Nachhallverarbeitung
 
 | Jahr | Album | Kommentar | Link |
 | ---- | ------------------- | ---------- | ------------------------ |
-| 1959 | *Überzeugende Percussion* | Produzieren Sie eine Stereolokalisierung mit Gitarre. Ein symbolisches Werk des frühen Kommandos.         | [Amazon](https://amzn.to/4pSSAyH) |
-| 1960 | *Römische Gitarre* | Solo-Debüt von Command. Lateinische/italienische Volkslieder in High-Fidelity. | [Amazon](https://amzn.to/4nK0HMz) |
-| 1961 | *Roman Guitar Vol.2* | Fortsetzung des Blockbusters. Exotische Songauswahl.                  | [Amazon](https://amzn.to/46Bdf2Q) |
-| 1963 | *Roman Guitar Vol.3* | Abgeschlossene Serie. Ein Denkmal für Lounge/Easy Listening.          | [Amazon](https://amzn.to/4gSJhLf) |
+| 1959 | *Persuasive Percussion*                | ギターでステレオ定位を演出。初期Commandの象徴作。         | [Amazon](https://amzn.to/4pSSAyH) |
+| 1960 | *Roman Guitar*                       | Commandからのソロデビュー作。ラテン／イタリア民謡をハイファイに。 | [Amazon](https://amzn.to/4nK0HMz)         |
+| 1961 | *Roman Guitar Vol.2*             | 大ヒット作の続編。エキゾチックな選曲。                  | [Amazon](https://amzn.to/46Bdf2Q)                |
+| 1963 | *Roman Guitar Vol.3*               | シリーズ完成形。ラウンジ・イージーリスニングの金字塔。          | [Amazon](https://amzn.to/4gSJhLf)                |
 | 1963 | *Enoch Light präsentiert Tony Mottola und die Quad Guitars* | Ein experimentelles Album, das es nur bei Command gibt, mit Overdubbing von vier Gitarren.        | [Discogs](https://www.discogs.com/release/6340847-Tony-Mottola-And-The-Quad-Guitars-Tony-Mottola-And-The-Quad-Guitar) |
 
 ---
 
 ### Aktuelle Situation und Auswirkungen
 
-Command Records selbst endete praktisch um 1970, aber ihre Werke sind immer noch durch Neuauflagen, hochwertige Remaster und Neuauflagen für Audiophile im Umlauf. Überzeugende/provokative Lieder und Jacken werden weiterhin im Kontext von „Mid-Century-Design“ und Junggesellenabschiedskultur zitiert und sind auch Gegenstand von Sampling und Remixen. Sein Einfluss auf die moderne Hörkultur (Vintage-Audio-Hobbys, virtuelle Raumsimulationen usw.) ist beträchtlich.
+Command Records selbst endete praktisch um 1970, aber ihre Werke sind immer noch in Form von Neuauflagen, hochwertigen Remastern und Neuauflagen für Audiophile im Umlauf. Überzeugende/provokative Lieder und Jacken werden weiterhin im Kontext von „Mid-Century-Design“ und Junggesellenabschiedskultur zitiert und sind auch Gegenstand von Sampling und Remixen. Sein Einfluss auf die moderne Hörkultur (Vintage-Audio-Hobbys, virtuelle Raumsimulationen usw.) ist beträchtlich.
 
 
 ---
 
 ### Zusammenfassung: Legacy of Enoch Light
 
-Enoch Light war ein Mann, der nicht nur „guten Klang“ anstrebte, sondern auch ein Objekt namens Schallplatte entwarf und damit das „Hörerlebnis“ im Stereozeitalter neu definierte. Die Werke von Command Records werden auch heute noch im Kontext der Audiogeschichte, Designgeschichte und Popkultur neu bewertet. Die „Überraschung“, die man verspürt, wenn man zum ersten Mal Musik hört, ist Wrights wahres Wesen, und seine Werke bewahren immer noch diese magische Kraft.
+Enoch Light war ein Mann, der nicht nur „guten Klang“ anstrebte, sondern auch ein Objekt namens Schallplatte entwarf und damit das „Hörerlebnis“ im Stereo-Zeitalter neu definierte. Die Werke von Command Records werden auch heute noch im Kontext der Audiogeschichte, Designgeschichte und Popkultur neu bewertet. Die „Überraschung“, die man spürt, wenn man zum ersten Mal Musik hört, ist Wrights wahres Wesen, und seine Werke bewahren immer noch diese magische Kraft.
 
-Außerdem ging die Beziehung zwischen Enoch Light und Tony Mottola über die reine Beziehung zwischen „Produzent und Gitarrist“ hinaus. Durch die Kombination von Lights Aufnahmeästhetik mit Mottolas flexiblem und vielseitigem Gitarrenspiel wurde Command Records zu einer Pop-Ikone des Weltraumzeitalters, die weiterhin Audiophile auf der ganzen Welt in ihren Bann zieht.
+Außerdem ging die Beziehung zwischen Enoch Light und Tony Mottola über die bloße Beziehung zwischen „Produzent und Gitarrist“ hinaus. Durch die Kombination von Lights Aufnahmeästhetik mit Mottolas flexiblem und vielseitigem Gitarrenspiel wurde Command Records zu einer Pop-Ikone des Weltraumzeitalters, die weiterhin Audiophile auf der ganzen Welt in ihren Bann zieht.

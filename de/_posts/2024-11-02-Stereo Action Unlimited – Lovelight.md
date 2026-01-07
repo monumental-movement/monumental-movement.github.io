@@ -20,7 +20,7 @@ Ein französisches Label, das 1995 von Philippe Cohen gegründet wurde. Ein Down
 
 Der erste Titel auf Seite A ist ein Remix des Labelproduzenten Paolo Scotti von Mo'Smog Records, Dejavu und Synthonic.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Lovelight (Paolo & Edda Love Bossa Mix)
 A2. Lovelight (Original Version)
@@ -30,7 +30,7 @@ B2. Lovelight (Tiki Variation)
 
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m63403540874?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m63403540874?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cLiONsxVlmg?si=LIbID7wwpu40r7Mh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -18,7 +18,7 @@ Dirty Harriet (2000) ist das Debüt-Studioalbum von Rahim Fisher, auch bekannt a
 Als erstes weibliches Mitglied der Flipmode Squad etablierte sich Rah Digga mit der Unterstützung von Busta Rhymes mit ihrer meisterhaften Lyrik und ihrem Ostküsten-Boom-Bap-Sound fest als weibliche MC.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Intro
 A2. Harriet Thugman
@@ -38,7 +38,7 @@ D2. F**k All Y'all N*gg*s
 D3. Lessons Of Today
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m86266729628?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86266729628?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MQIxlsGwy6U?si=NIk_ZwsymxghsjgH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

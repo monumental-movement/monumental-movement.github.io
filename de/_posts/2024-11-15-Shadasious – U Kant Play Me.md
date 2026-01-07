@@ -21,7 +21,7 @@ Single-Schnitt aus Sha'dasious's erstem Album „Phunk Wucha Heard“. „U Kant
 
 Bei dieser Platte handelt es sich um eine US-Version, die 1994 von RCA veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. U Kant Play Me (Vox)
 A2. U Kant Play Me (Instrumental)
@@ -32,7 +32,7 @@ B2. Phunk Wucha Heard (Remix)
 B3. Phunk Wucha Heard (Remix Instrumental)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m33289222948?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33289222948?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wlq2Vb6mkcE?si=wSGl4sMXuDHIaWxf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

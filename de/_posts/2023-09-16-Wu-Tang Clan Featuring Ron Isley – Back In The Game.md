@@ -22,7 +22,7 @@ Die Mitglieder des Wu-Tang-Clans reimen sich mit ihrem eigenen Stil und ihren ei
 
 Ron Isleys gefühlvoller Gesang verleiht den Songs ein emotionales Element, das beim Zuhörer Anklang findet.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Back In The Game (Radio Version)
 
@@ -33,7 +33,7 @@ B1. Back In The Game (Main)
 B2. Back In The Game (Acapella)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m94135707299?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94135707299?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wdkQ_cQ6MaU?si=Ct6kV5PboGV-vr3T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

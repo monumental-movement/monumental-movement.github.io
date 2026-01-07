@@ -15,6 +15,7 @@ title: '[Kolumne] Ricardo Villalobos × Luciano – Eine rhythmische Reise, auf 
 ---
 
 
+
 ## Einführung
 
 Text: mmr｜Thema: Verfolgung der individuellen Wege beider Parteien, ihrer Begegnungen und Zusammenarbeit, ihrer musikalischen Errungenschaften und Einflüsse und ihrer nachfolgenden Entwicklungen anhand von Chronologie, Diagrammen und Analysen.
@@ -38,11 +39,12 @@ color: #fff;
 }
 </style>
 
-## Kapitel 1: Der von Musik und Herkunft geflochtene Weg
+
+## Kapitel 1: Der von Musik und Herkunft gewobene Weg
 
 ### Die Flugbahn von Villalobos
 
-Ricardo Villalobos wurde 1970 in Santiago, Chile, geboren. Als er jung war, zog seine Familie nach Deutschland, doch die Rhythmen Südamerikas blieben ihm erhalten. Die Klänge von Congas und Bongos wurden später als subtile Percussion in seinen Tracks wiederbelebt. Als er in seinen frühen Zwanzigern in der Berliner Clubszene arbeitete, kam er mit der neuesten Generation des Minimal Techno in Kontakt und durch die Verbindung dieser mit einem lateinamerikanischen Rhythmusgefühl entwickelte er seine eigene musikalische Sprache.
+Ricardo Villalobos wurde 1970 in Santiago, Chile, geboren. Als er jung war, zog seine Familie nach Deutschland, doch die Rhythmen Südamerikas blieben ihm erhalten. Die Klänge von Congas und Bongos wurden später als subtile Percussion in seinen Tracks wiederbelebt. Als er in seinen frühen Zwanzigern in der Berliner Clubszene arbeitete, kam er mit der neuesten Generation des Minimal Techno in Kontakt und durch die Verbindung dieser mit einem lateinamerikanischen Rhythmusgefühl entwickelte er seine eigene Musiksprache.
 
 Seine frühen EP-Werke zeichneten sich durch einen „immersiven“ Sound mit dezenter Percussion und langen Tracks aus. „Halma“ und „Que Belle Epoque“ beispielsweise gehen über reine Tanzmusik hinaus und verfügen über Strukturen, die den Hörer in den Fluss der Zeit einbeziehen.
 
@@ -56,7 +58,7 @@ Das von ihm später gegründete Label Cadenza brachte Künstler hervor, die süd
 
 ## Kapitel 2: Begegnung und die Geburt von Sense Club
 
-Als Villalobos Ende der 1990er-Jahre in einem chilenischen Club am Plattenspieler saß, spürte Luciano die rhythmischen Konturen und fand sofort Resonanz bei ihm. Die beiden werden ein gemeinsames Projekt namens „Sense Club“ starten. Dieser Ort, an dem sich lateinamerikanische Rhythmen und europäischer Techno kreuzen, hat den Rahmen einer einfachen musikalischen Einheit überschritten und ist zu einem Testgelände für Kultur und Körper geworden.
+Als Villalobos Ende der 1990er Jahre in einem chilenischen Club an einem Plattenteller saß, spürte Luciano die rhythmischen Konturen und fand sofort Resonanz bei ihm. Die beiden werden ein gemeinsames Projekt namens „Sense Club“ starten. Dieser Veranstaltungsort, der lateinamerikanische Rhythmen und europäischen Techno verbindet, ist über den Rahmen einer bloßen musikalischen Einheit hinausgegangen und hat sich zu einem Testgelände für Kultur und Körper entwickelt.
 
 Die Philosophie des Sense Clubs war klar. „Tanzen ist nicht nur eine Bewegung, sondern ein Ritual, das Kultur und Körper verbindet.“ Lange Sets, subtile Percussion und die gelegentliche Kakophonie von Klängen hauchen der Tanzfläche neues Leben ein.
 
@@ -94,17 +96,17 @@ Ihre Musik besteht aus mehr als nur Beats. Durch die Kombination von Villalobos�
 
 ### Revolution von Rhythmus und Körper
 
-Die langen Tracks von Villalobos ziehen den Zuhörer/Tänzer in einen Strudel der Zeit. Die über 10 oder 15 Minuten wiederholten Minutenwechsel gewöhnen den Körper an den Rhythmus und verwandeln den Club in einen zeremoniellen Raum und nicht nur in einen Spielplatz. Lucianos lateinamerikanische Percussion erfüllt den Boden mit Wärme und Dynamik.
+Die langen Stücke von Villalobos ziehen den Zuhörer/Tänzer in einen Strudel der Zeit. Die über 10 oder 15 Minuten wiederholten Minutenwechsel gewöhnen den Körper an den Rhythmus und verwandeln den Club in einen zeremoniellen Raum und nicht nur in einen Spielplatz. Lucianos lateinamerikanische Percussion erfüllt den Boden mit Wärme und Dynamik.
 
 ---
 
 ## Kapitel 5 Globaler Einfluss und Legende
 
-Der Live-Auftritt von Sense Club beim Mutek Festival (Chile) im Jahr 2004 gilt als legendäres Set. Während des fast dreistündigen Sets manipulierte Villalobos lange Tracks, während Luciano in Echtzeit Percussion-Samples hinzufügte. Das Publikum wurde eins auf der Tanzfläche und das Tanzen selbst wurde zu einem kulturellen Erlebnis.
+Der Live-Auftritt von Sense Club beim Mutek Festival (Chile) im Jahr 2004 gilt als legendäres Set. Während des fast dreistündigen Sets manipulierte Villalobos lange Tracks, während Luciano in Echtzeit Percussion-Samples hinzufügte. Das Publikum wurde eins auf dem Boden und das Tanzen selbst wurde zu einem kulturellen Erlebnis.
 
 ### Welttournee und internationaler Einfluss
 
-Beide treten live in ganz Europa, Südamerika und Nordamerika auf. Vor allem Auftritte in Berlin, Zürich, Santiago und New York waren groß angelegt und hatten revolutionäre Auswirkungen auf die Clubkultur. Der heutige Tech-House-Stil und der minimalistische Stil sind deutlich von ihren Bemühungen beeinflusst.
+Beide treten live in ganz Europa, Südamerika und Nordamerika auf. Vor allem Auftritte in Berlin, Zürich, Santiago und New York waren groß angelegt und hatten revolutionäre Auswirkungen auf die Clubkultur. Die heutigen Tech-House- und minimalistischen Stile sind deutlich von ihren Bemühungen beeinflusst.
 
 ---
 

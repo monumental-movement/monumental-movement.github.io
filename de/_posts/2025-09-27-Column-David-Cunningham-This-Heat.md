@@ -36,9 +36,10 @@ color: #fff;
 }
 </style>
 
+
 ### Wer ist David Cunningham?
 
-David Cunningham (1954–) ist ein Produzent/Komponist, der als der Mann hinter **The Flying Lizards** bekannt ist.  
+David Cunningham (1954–) ist ein Produzent/Komponist, der als der Mann hinter **The Flying Lizards** bekannt ist.
 Als Brücke zwischen experimenteller Musik und Popkultur hinterließen sie einzigartige Spuren in der Post-Punk-Szene der späten 1970er Jahre.
 
 - **Flying Lizards**: gechartert mit „Money“ (1979)
@@ -52,10 +53,10 @@ Als Brücke zwischen experimenteller Musik und Popkultur hinterließen sie einzi
 
 | Jahr | Album | Künstler | Beschreibung | Link |
 | ---: | ---------------------------------------- | ------------------- | -------------------- | --------------------------------------------------------------- |
-| 1976 | *Graustufen* | David Cunningham | Erstes Solo. Eine experimentelle Arbeit unter Verwendung einer systematischen Kompositionsmethode.  | [Amazon-Suche](https://amzn.to/4nLNfqY) |
-| 1979 | *Die fliegenden Eidechsen* | Die fliegenden Eidechsen | „Geld“ inklusive. Ein monumentales Stück experimentellen Pop. | [Amazon-Suche](https://amzn.to/4noPd0N) |
-| 1981 | *Vierte Wand* | Die fliegenden Eidechsen | Tiefergehende Experimentalität. Akustische Verarbeitung und Humor.   | [Amazon-Suche](https://amzn.to/474jonh) |
-| 1995 | *Das geheime Dub-Leben der fliegenden Eidechsen* | Fliegende Eidechsen | Spätere Ausgabe. Eine Neubewertung der Dub-ähnlichen Verarbeitung.   | [Amazon-Suche](https://amzn.to/4gPuJfo) |
+| 1976 | *Grey Scale*                                | David Cunningham   | 初ソロ。システム的な作曲手法の実験作。  | [Amazon検索](https://amzn.to/4nLNfqY)           |
+| 1979 | *The Flying Lizards*                        | The Flying Lizards | 「Money」収録。実験ポップの金字塔。 | [Amazon検索](https://amzn.to/4noPd0N) |
+| 1981 | *Fourth Wall*                               | The Flying Lizards | 実験性が深化。音響的処理とユーモア。   | [Amazon検索](https://amzn.to/474jonh)        |
+| 1995 | *The Secret Dub Life of the Flying Lizards* | Flying Lizards     | 後年の編集盤。ダブ的処理の再評価作。   | [Amazon検索](https://amzn.to/4gPuJfo)        |
 
 
 
@@ -63,8 +64,8 @@ Als Brücke zwischen experimenteller Musik und Popkultur hinterließen sie einzi
 
 ### This Heat – Diskographie und Cunningham-Beteiligung
 
-London in den späten 1970er Jahren.  
-**This Heat** ließ die Ängste des Kalten Krieges klingen und **David Cunningham** unterstützte seine Aufnahmen.  
+London in den späten 1970er Jahren.
+**This Heat** ließ die Ängste des Kalten Krieges klingen und **David Cunningham** unterstützte seine Aufnahmen.
 Hier analysieren wir die Texte jedes Liedes aus sozialkritischer Sicht und tauchen tiefer in Cunninghams Aufnahmetechniken und -ausrüstung ein.
 
 ---
@@ -79,29 +80,29 @@ Insbesondere die Arbeit im **Cold Storage Studio** (einem experimentellen Studio
 
 ### Lyrische Interpretation (Kritik des Kalten Krieges und Gesellschaftssatire)
 
-####  『This Heat』 (1979)
+#### „Diese Hitze“ (1979)
 
-- **„Not Waving“**: Der Titel erinnert an ein Gedicht von Stevie Smith. Symbol für individuelle Einsamkeit und nationale Entfremdung.  
-- **„24 Track Loop“**: Kein Liedtext, sondern drückt die „mechanische Wiederholung des Kapitalismus“ mit Ton aus. Die Endlosschleife ist eine Metapher für das „Zeitalter der Stagnation“.  
+- **„Not Waving“**: Der Titel erinnert an ein Gedicht von Stevie Smith. Symbol für individuelle Einsamkeit und nationale Entfremdung.
+- **„24 Track Loop“**: Kein Liedtext, sondern drückt die „mechanische Wiederholung des Kapitalismus“ mit Ton aus. Die Endlosschleife ist eine Metapher für das „Zeitalter der Stagnation“.
 - **„Horizontales Halten“**: Aus der TV-Terminologie zitiert. Eine Satire auf „Informationsmanipulation“ und „Massenmedienkontrolle“ während des Kalten Krieges.
 
 ---
 
-####  『Health and Efficiency』 (1980)
+#### „Gesundheit und Effizienz“ (1980)
 
 - **„Gesundheit und Effizienz“**: Obwohl der Titel auf den ersten Blick positiv erscheint, sind die Texte voller ironischer Phrasen über die „Energiekrise“ und den „Gesundheitsmythos der Industriegesellschaft“. Eine ironische Hymne, die einen Slogan aus der Zeit des Kalten Krieges auf den Kopf stellt.
 
 ---
 
-####  『Deceit』 (1981)
+#### „Deceit“ (1981)
 
-Das beste Werk der Band. Das ganze Thema ist **Angst und Lügen (Täuschung) über den Atomkrieg während des Kalten Krieges**.  
-- **„Sleep“**: Der wiegenliedartige Text, der „Schlaf in Frieden“ flüstert, ist eigentlich ironisch, denn „die Welt bricht zusammen, während du schläfst.“  
-- **"Kenotaph"**: Titel, der sich auf den Kenotaph bezieht. Eine Anklage gegen die Torheit der Menschheit, die sich an Kriege erinnert und diese wiederholt.  
-- **„Eine neue Art von Wasser“**: Neues Wasser = radioaktive Kontamination. Eine Metapher für Atomtests und Atomkrieg.  
+Das beste Werk der Band. Das ganze Thema ist **Angst und Lügen (Täuschung) über den Atomkrieg während des Kalten Krieges**.
+- **„Schlaf“**: Der wiegenliedartige Text, der „Schlaf in Frieden“ flüstert, ist eigentlich ironisch, denn „die Welt bricht zusammen, während du schläfst.“
+- **"Kenotaph"**: Titel, der sich auf den Kenotaph bezieht. Eine Anklage gegen die Torheit der Menschheit, die sich an Kriege erinnert und diese wiederholt.
+- **„Eine neue Art von Wasser“**: Neues Wasser = radioaktive Kontamination. Eine Metapher für Atomtests und Atomkrieg.
 - **„Independence“**: Es schreit nach Unabhängigkeit und Freiheit, aber die Texte sind voller Widersprüche. Kritisiert die Fiktion des Nationalismus.
 
-####  『Made Available (Peel Sessions)』 (1983)
+#### „Zur Verfügung gestellt (Peel Sessions)“ (1983)
 
 Der Text war klarer als in der Studioversion und der soziale Kommentar wurde über die BBC-Sendung direkt an die Hörer übermittelt.
 
@@ -110,37 +111,37 @@ Der Text war klarer als in der Studioversion und der soziale Kommentar wurde üb
 ### David Cunninghams Aufnahmetechniken und -ausrüstung
 
 #### Revox Bandmaschine
-- Nutzen Sie Revox A77/B77 voll aus, um **Tape-Loop** und **Geschwindigkeitsmodulation** durchzuführen.  
-- Kernausrüstung für die Endlosschleifenverarbeitung mit Band, z. B. „24 Track Loop“.  
+- Nutzen Sie Revox A77/B77 voll aus, um **Tape-Loop** und **Geschwindigkeitsmodulation** durchzuführen.
+- Kernausrüstung für die Endlosschleifenverarbeitung mit Band, z. B. „24 Track Loop“.
 - **Bandbearbeitung (Cut & Splice)** verbindet verschiedene Fragmente und erstellt nichtlineare Songstrukturen.
 
 ---
 
 #### Studer 24 Track Recorder
-- Installiert im Cold Storage Studio in London.  
-- Nehmen Sie jedes Instrument einzeln auf und bearbeiten/schichten Sie es später.  
-- Cunningham entwickelte die Idee, „das Studio in ein Instrument zu verwandeln“ und konfigurierte später die Sitzungen neu.  
+- Installiert im Cold Storage Studio in London.
+- Nehmen Sie jedes Instrument einzeln auf und bearbeiten/schichten Sie es später.
+- Cunningham entwickelte die Idee, „das Studio in ein Instrument zu verwandeln“ und konfigurierte später die Sitzungen neu.
 - Dadurch wird die Improvisation zu einer „konstruierten Komposition“.
 
 ---
 
 #### Analoger EQ und Outboard
-- Verwendet EQ im Neve- und Trident-Stil.  
-- Der lebendige Auftritt der Band ist absichtlich „verzerrt“ und „räumlich arrangiert“, um seinen experimentellen Charakter zu betonen.  
+- Verwendet EQ im Neve- und Trident-Stil.
+- Der lebendige Auftritt der Band ist absichtlich „verzerrt“ und „räumlich arrangiert“, um seinen experimentellen Charakter zu betonen.
 - Es wurde verwendet, um ein „akustisches Unbehagen“ zu erzeugen, und nicht für eine Standardkorrektur.
 
 ---
 
 #### Field-Recording-Ausrüstung
-- Nehmen Sie Umgebungsgeräusche mit tragbaren Revox oder Nagra auf.  
-- Collage aus Fabrikgeräuschen, Stadtgeräuschen und Alltagsgeräuschen zu Liedern.  
+- Nehmen Sie Umgebungsgeräusche mit tragbaren Revox oder Nagra auf.
+- Collage aus Fabrikgeräuschen, Stadtgeräuschen und Alltagsgeräuschen zu Liedern.
 - Spürbar in der umweltgerechten Verarbeitung von „Gesundheit und Effizienz“.
 
 ---
 
 ### Technologischer Deep Dive – das Studio in einen politischen Raum verwandeln
 
-Cunningham und This Heat waren nicht nur ein Klangexperiment, sie übten **Kritik durch Aufnahme**.  
+Cunningham und This Heat waren nicht nur ein Klangexperiment, sie übten **Kritik durch Aufnahme**.
 - „Mechanische Wiederholung“ von Tonbandschleifen = endloser Kreislauf des Kapitalismus
 - Durch EQ verzerrte Stimme = Verzerrung der nationalen Propaganda
 - Nichtlineare Struktur mit 24-Spur-Schnitt = historischer Abbruch und Wiederholung
@@ -153,10 +154,10 @@ Das Studio war nicht nur ein Aufnahmeraum, sondern ein Testgelände für die Ums
 
 | Jahr | Album | Künstler | Amazon-Link |
 |---:|---|---|---|
-| 1979 | *Diese Hitze* | Diese Hitze | [Amazon-Suche](https://amzn.to/3W8QiOf) |
-| 1980 | *Gesundheit und Effizienz* | Diese Hitze | [Amazon-Suche](https://amzn.to/3IM1vBj) |
-| 1981 | *Täuschung* | Diese Hitze | [Amazon-Suche](https://amzn.to/4mEnkAC) |
-| 1983 | *Verfügbar gemacht* | Diese Hitze | [Amazon-Suche](https://amzn.to/489zfmF) |
+| 1979 | *This Heat* | This Heat | [Amazon検索](https://amzn.to/3W8QiOf) |
+| 1980 | *Health and Efficiency* | This Heat | [Amazon検索](https://amzn.to/3IM1vBj) |
+| 1981 | *Deceit* | This Heat | [Amazon検索](https://amzn.to/4mEnkAC) |
+| 1983 | *Made Available* | This Heat | [Amazon検索](https://amzn.to/489zfmF) |
 
 ---
 
@@ -174,8 +175,8 @@ flowchart TD
 
 ### Abschluss
 
-- **Lyrische Interpretation**: This Heat kritisiert den Kalten Krieg sowohl textlich als auch klanglich.  
-- **Cunninghams Aufnahmephilosophie**: Verwendet Geräte wie Revox, Studer und EQ als „politische metaphorische Geräte“.  
+- **Lyrische Interpretation**: This Heat kritisiert den Kalten Krieg sowohl textlich als auch klanglich.
+- **Cunninghams Aufnahmephilosophie**: Verwendet Geräte wie Revox, Studer und EQ als „politisches metaphorisches Gerät“.
 - **Historische Bedeutung experimenteller Musik**: Über Post-Punk hinaus ist sie direkt mit den Grundlagen der modernen Sampling-/DAW-Kultur und sogar der KI-Musikproduktion verbunden.
 
 Ihre Musik ist immer noch eine Werkgruppe, die als „Aufnahme = Kritik = Experiment“ neu bewertet werden sollte.
@@ -188,7 +189,7 @@ Dieses Erbe legte den Grundstein für den heutigen Noise-, Post-Rock- und experi
 
 ### Verwandte Spalten
 
-🔗 [[Kolumne] David Toop und genreloses musikalisches Denken – Erforschung des Klangs nach Generationen](https://monumental-movement.jp/Column-David-Toop)
+🔗 [【コラム】 David Toopとジャンルレスな音楽思考 ― 年代別にたどる音の探究](https://monumental-movement.jp/Column-David-Toop)
 
-🔗 [[Kolumne] Geschichte und Meisterwerke der experimentellen Musik: Von ihren Anfängen bis zur Gegenwart](https://monumental-movement.jp/Column-Experimental-Music)
+🔗 [【コラム】 Experimental Music（エクスペリメンタル・ミュージック）の歴史と名盤：発祥から現在まで](https://monumental-movement.jp/Column-Experimental-Music)
 

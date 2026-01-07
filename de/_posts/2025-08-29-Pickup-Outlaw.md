@@ -30,9 +30,10 @@ Genre: Experimenteller Lärm
 
 Zusammenfassung: 2004 von Important Records veröffentlicht, ist dies das ultimative Werk destruktiven Ausdrucks des Noise-Künstlers Merzbow.
 
+
 Outlaw-Gefühl: Der Widerstand, der die klangliche Zerstörung auf die Ebene der Kunst erhebt, ist „gesetzliche Gewalt“, die dazu führt, dass die Musik selbst von der Norm abweicht. Ein Symbol der uneingeschränkten Zerstörung an der Peripherie.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Black Swan
 2. Mandarin Duck
@@ -41,7 +42,8 @@ Outlaw-Gefühl: Der Widerstand, der die klangliche Zerstörung auf die Ebene der
 5. White Peafowl
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m86594770909?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m86594770909?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -59,9 +61,10 @@ Genre: Mix-Techno
 
 Zusammenfassung: Veröffentlicht im Jahr 2004, eine Zusammenarbeit mit Tresor. Eine ausführliche Einführung von einem führenden Techno-Produzenten.
 
+
 Outlaw-Feeling: Der Spirit des Techno als Herzschlag des Berliner Undergrounds. Ein kämpferischer Sound, der nicht im System untergeht.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Resurgence
 2. It Works
@@ -75,7 +78,8 @@ Outlaw-Feeling: Der Spirit des Techno als Herzschlag des Berliner Undergrounds. 
 10. Tenth
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m38252270171?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m38252270171?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -84,7 +88,7 @@ Outlaw-Feeling: Der Spirit des Techno als Herzschlag des Berliner Undergrounds. 
 <br>
 
 
-### Various – Tresor Compilation Vol. 6
+### Verschiedene – Tresor Compilation Vol. 6
 <a href="https://jp.mercari.com/item/m83834888135?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Tresor%20Compilation%20Vol.%206.webp"></a>
 
 Format: CD
@@ -93,9 +97,10 @@ Genre: Deutscher Techno / Compilation
 
 Zusammenfassung: 1998 erschienen, eine wunderschöne Zusammenstellung, die einen Blick auf die Techno-Szene der 80er und 90er Jahre wirft.
 
+
 Outlaw-Feeling: eine Anti-Mainstream-Kulturveranstaltung, in der Sie den historischen Wendepunkt des frühen Berliner Techno erleben können.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Regis –Theme From Streetwalker
 2. Fumiya Tanaka –One Sparkle
@@ -112,7 +117,8 @@ Outlaw-Feeling: eine Anti-Mainstream-Kulturveranstaltung, in der Sie den histori
 13. Substance –Plate Element 2
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m83834888135?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m83834888135?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -131,7 +137,7 @@ Zusammenfassung: Ausgabe 1999. Eine klassische Sammlung, die einen Blick auf „
 
 Outlaw-Feeling: Eine Pilgerreise zur dunklen Seite der Klangstadt, die mehrere Outlaw-Sounds in Form einer Compilation vereint.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Sven Väth –Dub Control Your Mind (Track &amp; Feel Edit)
 2. Maurizio –M4
@@ -147,7 +153,8 @@ Outlaw-Feeling: Eine Pilgerreise zur dunklen Seite der Klangstadt, die mehrere O
 12. Savvas Ysatis –Alright (Surgeon's Keith 4 Nat Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m32845023734?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m32845023734?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -156,7 +163,7 @@ Outlaw-Feeling: Eine Pilgerreise zur dunklen Seite der Klangstadt, die mehrere O
 <br>
 
 
-### VA – Berlin 1992 Tresor Kompilation – Der Klang Der Familie
+### VA – Berlin 1992 Tresor Kompilation – Der Klang Der Family
 <a href="https://jp.mercari.com/item/m20174423933?afid=6142608987"><img src="../assets/images/VA%E2%80%93%20Berlin%201992.webp"></a>
 
 Format: Vinyl
@@ -165,9 +172,10 @@ Genre: Acid / Techno / Trance
 
 Zusammenfassung: 1992 erschienen, eine großartige Zusammenstellung aus Tresors frühen Jahren. Ein historisches Stück, das die „Echos der Familie“ verkörpert.
 
+
 Outlaw-Feeling: Erinnerungen an urbane Gemeinschaftsimprovisationen und dunkle Kämpfe, die die Entstehung der Szene prägen.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. 3 Phase Feat. Dr. Motte – Der Klang Der Familie
 A2. System 01 – Drugs Work
@@ -182,7 +190,8 @@ D1. Maurizio – Ploy (Strategic Mix)
 D2. Voov – It's Anything You Want It To Be And It's A Gas (Smoke Machine V2)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m20174423933?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m20174423933?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -200,16 +209,18 @@ Genre: Dubstep
 
 Überblick: Erleben Sie die Outlaw-Natur eines Bass-Triggers mit einer Komposition, die die Individualität jedes Künstlers hervorhebt.
 
+
 Outlaw-Gefühl: Direkte Invasion des Körpers durch die Basis. Enthält Gewalt und Solidarität, die über das Hören hinausgehen.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Benga & Walsh–Addicts
 
 B. Darqwan–Megatection
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m84498913064?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m84498913064?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -218,7 +229,7 @@ B. Darqwan–Megatection
 <br>
 
 
-### Zed Bias – Ambush Riddim / Cosmic Minefield
+### Zed Bias – Hinterhalt Riddim / Kosmisches Minenfeld
 <a href="https://jp.mercari.com/item/m24563380376?afid=6142608987"><img src="../assets/images/Zed%20Bias%20%E2%80%93%20Ambush%20Riddim%20Cosmic%20Minefield.webp"></a>
 
 Format: Vinyl
@@ -227,16 +238,18 @@ Genre: Dubstep/Elektronisch
 
 Zusammenfassung: Eine Platte, die den neuesten Stand der britischen elektronischen Musik der frühen 2000er Jahre einfängt.
 
+
 Outlaw-Feeling: Die Aggressivität des Rhythmus erschüttert den urbanen Raum und entführt den Zuhörer in eine außergewöhnliche Welt.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Ambush Riddim
 
 B. Cosmic Minefield
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m24563380376?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m24563380376?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -245,7 +258,7 @@ B. Cosmic Minefield
 <br>
 
 
-### Skrillex – Scary Monsters And Nice Sprites
+### Skrillex – Gruselige Monster und nette Sprites
 <a href="https://jp.mercari.com/item/m86556698095?afid=6142608987"><img src="../assets/images/Skrillex%20%E2%80%93%20Scary%20Monsters%20And%20Nice%20Sprites.webp"></a>
 
 Format: CD
@@ -254,9 +267,10 @@ Genre: Dubstep / Electro / Prog House
 
 Zusammenfassung: Japanische Version, veröffentlicht im Jahr 2012. Ein monumentales Werk, das die Grenzen des Mainstreams erschütterte.
 
+
 Outlaw-Feeling: Der poporientierte und dennoch gewalttätige Sound zeigt die Kluft zwischen institutioneller Inklusion und Widerstand.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Rock N' Roll (Will Take You To The Mountain)
 2. Scary Monsters And Nice Sprites
@@ -269,7 +283,8 @@ Outlaw-Feeling: Der poporientierte und dennoch gewalttätige Sound zeigt die Klu
 9. Kill Everybody (Bare Noize Remix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m86556698095?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m86556698095?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -286,9 +301,10 @@ Genre: Breaks / Electro (mit Industrial Hip Hop / Dubstep Remix)
 
 Überblick: Veröffentlicht im Jahr 2003. Ein destruktives Stück eines DJs, der die Lücke zwischen Punk und elektronischen Sounds spannt.
 
-Outlaw-Feeling: Das gewalttätige Vergnügen der Genre-Kollision und -Mischung. Der Drang, etablierte Spaltungen aufzubrechen.
 
-#### Tracklist
+Outlaw-Feeling: Das gewalttätige Vergnügen, Genre-Kollision und -Mischung zu erleben. Der Drang, etablierte Spaltungen aufzubrechen.
+
+#### Trackliste
 ```md
 A1. Rabaukendisko (Version 1)
 A2. Rabaukendisko (Version 2)
@@ -297,7 +313,8 @@ B1. Rabaukendisko (The Bug's Dancehell Remix Feat. MC Ras Bogle)
 B2. Rabaukendisko (The Bug's Dancehell Remix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m93928773468?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m93928773468?afid=6142608987){: .button1}
 
 
 #### Youtube

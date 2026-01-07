@@ -18,7 +18,9 @@ title: '[Kolumne] Veränderungen in Weihnachtsliedern: 1950er bis 2020er Jahre'
 
 ## Prolog Die globale Anziehungskraft von Weihnachtsliedern
 
+
 Text: mmr｜Thema: Über Weihnachtslieder, die nicht nur saisonale Musik sind, sondern kulturelle Phänomene, die Veränderungen in der Technologie, dem sozialen Hintergrund und der Musikindustrie der Zeit widerspiegeln.
+
 
 Weihnachtslieder haben eine besondere Bedeutung, denn sie wärmen das Herz im kalten Winter und erzählen in Melodien Geschichten von Liebe, Familie und Freundschaft. Es wird seit Generationen geliebt und sein Ausdrucks- und Vertriebsformat hat sich im Laufe der Zeit verändert. Wenn wir die Veränderungen von den 1950er bis 2020er Jahren verfolgen, können wir sehen, wie Musiktechnologie, soziales Umfeld und Medienstrategie sie beeinflusst haben.
 
@@ -37,9 +39,10 @@ color: #fff;
 }
 </style>
 
+
 ## Prototyp von Weihnachtsliedern aus den 1950er bis 1970er Jahren
 
-### Popsongs der 1950er Jahre mit Familien- und Winterszenen
+### Popsongs der 1950er Jahre mit Familien und Winterszenen
 
 Im Amerika der Nachkriegszeit war Bing Crosbys „White Christmas“ (veröffentlicht 1942) eine Ikone. Es zeigt ein ideales Weihnachtsfest zu Hause und wurde im Radio und auf Single-Platten weit verbreitet.
 
@@ -48,7 +51,7 @@ Im Amerika der Nachkriegszeit war Bing Crosbys „White Christmas“ (veröffent
 - Universelle Themen, die Sie an Familie und Heimatstadt erinnern
 - Wärme und Glamour mit Arrangement im Big-Band-Stil
 
-Nat King Coles „The Christmas Song“ (1950) enthält Jazzelemente und zeigt eine Versammlung am Kamin und eine Winterszene. „Little Drummer Boy“ (1963) des Harry Simone Choir verwandelte Elemente der Kirchenmusik in Popmusik.
+Nat King Coles „The Christmas Song“ (1950) enthält Jazzelemente und zeigt eine Versammlung am Kamin und eine Winterszene. „Little Drummer Boy“ (1963) des Harry Simone Chors verwandelte Elemente der Kirchenmusik in Popmusik.
 
 #### Repräsentative Songs/Alben
 
@@ -66,7 +69,7 @@ Nat King Coles „The Christmas Song“ (1950) enthält Jazzelemente und zeigt e
 
 „Christmas Jollies“ von Vincent Montana Jr. aus dem Jahr 1976 ist ein bahnbrechendes Album mit Disco-Soul.
 
-**Funktionen**
+**Merkmale**
 - wunderschöne Streicher und Hörner
 - Klassisches Songcover + Original
 - Arrangements für Tanzpartys
@@ -144,13 +147,12 @@ timeline
 
 
 <div class="mermaid">
-
-graph TD
-A[1970s ソウル・ディスコ] --> B[1980s シンセポップ]
-B --> C[恋愛・都会的冬景色テーマ]
-C --> D[世界的定番曲確立]
-
+flowchart TD
+    A["1970s ソウル・ディスコ"] --> B["1980s シンセポップ"]
+    B --> C["恋愛・都会的冬景色テーマ"]
+    C --> D["世界的定番曲確立"]
 </div>
+
 
 
 ---
@@ -165,7 +167,7 @@ C --> D[世界的定番曲確立]
 
 * Liebeszentrierte Texte
 * R&B- und Pop-Fusion
-* Stimmliche Overdub-Harmonie
+*Gesangs-Overdubbing-Harmonie
 * In Japan Neubewertung von Yumi Matsutoyas „Lover is Santa Claus“.
 
 ---
@@ -186,7 +188,7 @@ C --> D[世界的定番曲確立]
 * Zunahme von Online-Live- und virtuellen Veranstaltungen aufgrund der Coronavirus-Pandemie
 * Die kommerzielle Strategie konzentriert sich auf Vertrieb und SNS und beschleunigt die Neubewertung alter Songs
 
-### Chronologie/Illustrationen (1990er-2020er)
+### Chronologie/Illustration (1990er-2020er)
 
 
 <div class="mermaid">
@@ -219,7 +221,7 @@ D --> E[2020s オンライン・ストリーミング定番化]
 
 | Ära | Eigenschaften |
 | ----------- | -------------------------------- |
-| 1950er-70er | Jazz, Pop, Soul/Familie, Religion, Winterlandschaft |
+| 1950er-70er Jahre | Jazz, Pop, Soul/Familie, Religion, Winterlandschaft |
 | Mitte der 1970er Jahre | Disco-Soul-Fusion in „Christmas Jollies“ |
 | 1980er Jahre | Synth Pop/Urban Romance/Etablierung von Standard-Songs |
 | 1990er Jahre | Mariah Carey etabliert liebezentrierte moderne Popmusik |

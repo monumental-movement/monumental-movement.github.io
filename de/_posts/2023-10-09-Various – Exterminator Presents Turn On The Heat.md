@@ -15,10 +15,10 @@ title: Verschiedenes – Exterminator-Geschenke sorgen für Aufsehen
 
 „Exterminator Presents Turn On The Heat“ ist
 Ein sehr klassisches One-Riddim-Compilation-Album von Fatis Burrell, das 1989 vom britischen Label „Sir Coxsone“ veröffentlicht wurde.
-Es ist.
+Ist.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Sanchez–Joy (Medley)
 
@@ -41,7 +41,7 @@ B4. Quench Aid–Nah Fight Over Woman
 B5. Fire House Crew –Version
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m95069371918?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95069371918?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qoCuWO4b0TE?si=LZKNGTWufF0d0vE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

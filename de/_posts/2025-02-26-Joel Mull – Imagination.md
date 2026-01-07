@@ -19,7 +19,7 @@ Dieses zu Beginn seiner Karriere veröffentlichte Album verbindet gekonnt Elemen
 
 Zunächst kann man sagen, dass der größte Reiz von „Imagination“ sein immersives Gefühl ist. Während des gesamten Albums entführt Joel Mull den Hörer mit zarten Schichten von Rhythmus und Textur auf eine jenseitige Reise.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Carbon 14
 2. Daylight
@@ -34,7 +34,7 @@ Zunächst kann man sagen, dass der größte Reiz von „Imagination“ sein imme
 11. Snabba Sekunder
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m93462120313?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93462120313?afid=6142608987){: .button1}
 
 #### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tG6LoMWEzi0?si=oGeryVZjl6aDrLcU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

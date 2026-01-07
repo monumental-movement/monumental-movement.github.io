@@ -18,14 +18,14 @@ Kaygee (Kay Teknik) ist ein britischer Hard-House-Künstler. Unter dem Namen Kay
 
 Der Hard House/Hard Trance-Track „The Nu-Tech EP“, der 2001 auf dem britischen Label OTR (On The Record) Recordings veröffentlicht wurde, ist Kaygees einzige Veröffentlichung unter diesem Namen.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Agresif
 
 B. Bodakular
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m95459871369?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95459871369?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9BAcbA_KHig?si=_bWQ3FG2gy3UlAVw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

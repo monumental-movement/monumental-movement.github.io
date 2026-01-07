@@ -19,43 +19,44 @@ title: Björk – Volta
 Volta ist Björks sechstes Studioalbum, das 2007 veröffentlicht wurde. Mehrere Künstler nehmen teil, darunter Mark Bell, Timbaland, Danja und Antony Hegarty (Anohni Hegarty) von Antony & the Johnsons.
 
 #### Trackliste
-„md
-1. Eindringlinge auf der Erde
-Eindringlinge auf der Erde
+```md
+1. Earth Intruders
+アース・イントゥルーダーズ
 
-2. Fernweh
-Fernweh
+2. Wanderlust 
+ワンダーラスト
 
-3. Die stumpfe Flamme des Verlangens
-Die stumpfe Flamme des Verlangens
+3. The Dull Flame Of Desire 
+ザ・ダル・フレイム・オブ・デザイア
 
-4. Unschuld
-Unschuld
+4. Innocence
+イノセンス
 
-5. Ich sehe, wer du bist
-Ich sehe, wer du bist
+5. I See Who You Are
+アイ・シー・フー・ユー・アー
 
-6. Wirbel für Wirbel
-Vertaburi von Vertaburi
+6. Vertebrae By Vertebrae
+ヴァータブリー・バイ・ヴァータブリー
 
-7. Lungenentzündung
-Lungenentzündung
+7. Pneumonia
+ニューモニア
 
-8. Hoffnung
-Hoffnung
+8. Hope
+ホープ
 
-9. Unabhängigkeit erklären
-Unabhängigkeit erklären
+9. Declare Independence
+ディクレア・インディペンデンス
 
-10. Mein Jugendlicher
-Mein Jugendlicher
+10. My Juvenile
+マイ・ジュヴナイル
 
-11. Ich sehe, wer du bist (Mark Bell Mix)
-Ich sehe, wer du bist
- (Mark Bell-Mix)
-````
+11. I See Who You Are (Mark Bell Mix) 
+アイ・シー・フー・ユー・アー
+ (マーク・ベル ミックス)
+```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m35624877288?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m35624877288?afid=6142608987){: .button1}
 
 
 #### Youtube

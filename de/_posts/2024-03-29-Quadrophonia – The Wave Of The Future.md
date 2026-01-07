@@ -36,7 +36,7 @@ Später veröffentlichten die beiden ihr einziges Album, „Children Of Chaos“
 
 Nebenbei bemerkt: Abrilos‘ Schwager ist Olivier Pieters, der ebenfalls in der Importabteilung des Plattenladens Target Records arbeitete.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. The Wave Of The Future (Large Mix)
 
@@ -49,7 +49,7 @@ B2. The Wave Of The Future (Medium Mix)
 B3. The Wave Of The Future (Small Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m15962785209?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m15962785209?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rVJNh6D4kkE?si=gwjAs4eVSLK9Foff" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

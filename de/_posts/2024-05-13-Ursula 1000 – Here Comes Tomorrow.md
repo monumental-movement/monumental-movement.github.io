@@ -20,7 +20,7 @@ Alex Gimeno, auch bekannt als Ursula 1000, ein New Yorker Produzent und Lounge-D
 
 „Here Comes Tomorrow“ ist ein Bossa-Nova-Elektro-Track aus dem Jahr 2006.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Kaboom!
 A2. Hello! Let's Go To A Disco
@@ -36,7 +36,7 @@ D2. Ragnarock
 D3. Here Comes Tomorrow
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m33082850505?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33082850505?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kW5JsoGZCrM?si=o_0jqJFFpuw1coO2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

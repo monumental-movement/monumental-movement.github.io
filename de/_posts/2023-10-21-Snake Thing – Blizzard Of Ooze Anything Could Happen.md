@@ -17,14 +17,14 @@ Snake Thing ist Nick Taylors Soloprojekt.
 
 „Blizzard Of Ooze“ wurde 1998 auf dem britischen Goa-Trance-Label TIP von Raja Ram veröffentlicht.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Blizzard Of Ooze
 
 B. Anything Could Happen
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m54118975071?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m54118975071?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yNS0pQozois?si=Lq7PonkHPnHCK-g6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

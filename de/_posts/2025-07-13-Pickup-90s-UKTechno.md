@@ -17,14 +17,14 @@ title: Ich greife britische Techno-Werke aus den 90ern auf
 
 <hr>
 
-### Justin Berkovi – Fast - Wide E.P.
+### Justin Berkovi – Fast – Wide E.P.
 <a href="https://jp.mercari.com/item/m73468913640?afid=6142608987"><img src="../assets/images/Justin%20Berkovi%20%E2%80%93%20Fast-%20Wide%20E.P.webp"></a>
 
 Veröffentlicht: 1998
 
 Eine 4-Track-EP, veröffentlicht von Cloned – Vinyl in Großbritannien. „Brutal – City“ und „Risk – Rumblin‘“ auf der A-Seite, „Steadycam“ und „Neon“ auf der B-Seite.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Brutal City
 
@@ -35,7 +35,8 @@ B1. Steadycam
 B2. Neon
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m73468913640?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m73468913640?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -51,7 +52,7 @@ Veröffentlicht: 1997
 
 Britische Elektro-/Techno-Arbeit von Sean Booth und Rob Brown. Eine CD mit experimentellen Rhythmen und Klanglandschaften
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Goz Quarter
 
@@ -62,21 +63,21 @@ Britische Elektro-/Techno-Arbeit von Sean Booth und Rob Brown. Eine CD mit exper
 4. Draun Quarter
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m70361302879?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70361302879?afid=6142608987){: .button1}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K-og9vy8UE4?si=zbF37a-X46jSEK-1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
 
-### Luke Slater – Freek - Funk
+### Luke Slater – Freek – Funk
 <a href="https://jp.mercari.com/item/m61298864776?afid=6142608987"><img src="../assets/images/Luke%20Slater%20%E2%80%93%20Freek%20Funk.webp"></a>
 
 Veröffentlicht: 1997
 
 Britischer Techno und Electronica. Veröffentlicht von NovaMute. Mixmags Top-5-Alben der 90er Jahre
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Purely
 2. Score One
@@ -97,7 +98,7 @@ Britischer Techno und Electronica. Veröffentlicht von NovaMute. Mixmags Top-5-A
 
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m61298864776?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61298864776?afid=6142608987){: .button1}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hlp0a_j28so?si=KWuZGhZCXyp8X_58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -110,26 +111,26 @@ Veröffentlicht: 1995 (Original), Remix-Version 2006 veröffentlicht
 
 Acid-Techno-Remix des britischen Duos Jon Nuccle/Mike Humphries
 
-#### Tracklist
+#### Trackliste
 ```md
 A.  Acid War (Liberator DJs RMX)
 
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m93454980108?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93454980108?afid=6142608987){: .button1}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PgzmydKU9Go?si=pgZHEOnQqcXTMNRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
-### Surgeon – Communications
+### Chirurg – Kommunikation
 <a href="https://jp.mercari.com/item/m54311623393?afid=6142608987"><img src="../assets/images/Surgeon%20%E2%80%93%20Communications.webp"></a>
 
 Veröffentlicht: 1996
 
-Surgeons erstes Album von Downwards (UK). Veröffentlicht mit Unterstützung von Regis/Female
+Surgeons erstes Album aus Downwards (UK). Veröffentlicht mit Unterstützung von Regis/Female
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Syllable
 
@@ -142,13 +143,13 @@ D1. Particle
 D2. Optic
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m27019476665?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m27019476665?afid=6142608987){: .button1}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uiZNbpzeHpQ?si=GqOkMOckiIqNv6rd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
-### Surgeon – Dry
+### Chirurg – Trocken
 <a href="https://jp.mercari.com/item/m21648905240?afid=6142608987"><img src="../assets/images/Surgeon%20%E2%80%93%20Dry.webp"></a>
 
 Veröffentlicht: 1999
@@ -156,7 +157,7 @@ Veröffentlicht: 1999
 Intensiver Techno-Track unter dem Namen Surgeon
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Untitled
 A2. Untitled
@@ -165,31 +166,31 @@ B1. Untitled
 B2. Untitled
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m21648905240?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m21648905240?afid=6142608987){: .button1}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0qhzTJ4cBKs?si=5bgGR0LBCTYVoj_m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
-### Hypnotist – House Is Mine ’92
+### Hypnotiseur – House Is Mine ’92
 <a href="https://jp.mercari.com/item/m41815735599?afid=6142608987"><img src="../assets/images/Hypnotist%20%E2%80%93%20House%20Is%20Mine%2092.webp"></a>
 
 Veröffentlicht: 1992 Hardcore-Techno von der britischen Techno-Gruppe
 
-#### Tracklist
+#### Trackliste
 ```md
 A. The House Is Mine '92 (Original)
 
 B. The House Is Mine '92 (Westbam Remix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m41815735599?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m41815735599?afid=6142608987){: .button1}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LnvJTGYsPeQ?si=NLewExt8jyJgM4nu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
-### List
+### Liste
 
 <div class="table-border">
 <table>

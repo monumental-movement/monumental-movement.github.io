@@ -16,15 +16,17 @@ title: '[Kolumne] Das Wunder des Zuhörens: die Zukunft des „Klangs“, wie si
 
 ## Einleitung: Poetik des Hörsinns
 
+
 Text: mmr | Thema: Das Ohr ist ein kleines Universum. Entdecken Sie die Geheimnisse und die Zukunft des „Zuhörens“ durch die Aktivitäten von HHF, die Hörforschung, Prävention und Regeneration unterstützen.
+
 
 > „Stille ist der wichtigste Teil der Musik“
 > — Miles Davis
 
-Das Ohr ist nicht nur ein Organ zur Schallaufnahme.  
+Das Ohr ist nicht nur ein Organ zur Schallaufnahme.
 Es ist ein „poetisches Mittel“, um Erinnerungen zu transportieren und sich mit der Welt zu verbinden.
 
-**Hearing Health Foundation (HHF)** setzt sich für den Schutz und die Wiederherstellung dieser „Fähigkeit des Zuhörens“ ein.  
+**Hearing Health Foundation (HHF)** setzt sich für den Schutz und die Wiederherstellung dieser „Fähigkeit des Zuhörens“ ein.
 Als größter Hör- und Gleichgewichtsforschungsfonds in den Vereinigten Staaten unterstützen sie alles von der Erforschung der Ursachen von Hörverlust und Tinnitus bis hin zur Vorreiterrolle in der regenerativen Medizin und Gentherapie.
 
 ---
@@ -42,13 +44,14 @@ color: #fff;
 }
 </style>
 
+
 ## 1. Die Wissenschaft des Zuhörens: das Universum in Ihren Ohren
 
 > „Klang lässt die Luft erbeben und das Herz erbeben.“
 > — Brian Eno
 
-Der vom Außenohr aufgenommene Schall bringt das Trommelfell zum Schwingen, passiert die Gehörknöchelchen und erreicht die Cochlea.  
-Haarzellen im Innenohr wandeln diese Schwingungen in elektrische Signale um, die das Gehirn als „Schall“ erkennt.  
+Der vom Außenohr aufgenommene Schall bringt das Trommelfell zum Schwingen, passiert die Gehörknöchelchen und erreicht die Cochlea.
+Haarzellen im Innenohr wandeln diese Schwingungen in elektrische Signale um, die das Gehirn als „Schall“ erkennt.
 Die HHF-Website bietet eine leicht verständliche Erklärung der Mechanismen von **sensorineuralem Hörverlust**, **Morbus Menière** und **Überempfindlichkeit**, die durch Störungen in diesem empfindlichen System verursacht werden.
 
 Der im Außenohr gesammelte Schall gelangt über das Trommelfell zu den Gehörknöchelchen im Mittelohr und dann zur Cochlea im Innenohr.
@@ -59,11 +62,11 @@ Das Hören von Klängen ist wirklich die „Musik des Lebens“, die alles von p
 
 ## 2. Landschaft der Schwerhörigkeit – Rhythmus in der Stille
 
-Sänger Grimes macht trotz Tinnitus weiterhin Musik.  
-„Selbst im Lärm herrscht Ordnung“, sagt sie.  
+Sänger Grimes macht trotz Tinnitus weiterhin Musik.
+„Selbst im Lärm herrscht Ordnung“, sagt sie.
 Hörverlust kann eher ein Prozess der „Rekonstruktion“ als ein Verlust sein.
 
-HHF unterstützt weiterhin die Forschung zu Tinnitus und Gleichgewichtsstörungen.  
+HHF unterstützt weiterhin die Forschung zu Tinnitus und Gleichgewichtsstörungen.
 Der Umfang dieser Forschung beschränkt sich nicht nur auf einfache medizinische Forschung, sondern erstreckt sich auch auf den Bereich der Neurowissenschaften, der die Interaktion zwischen Hören und Gehirn aufklärt.
 
 ---
@@ -74,11 +77,11 @@ Der Umfang dieser Forschung beschränkt sich nicht nur auf einfache medizinische
 — Ryuichi Sakamoto
 
 Das von der HHF unterstützte **Hearing Restoration Project (HRP)**
-Die Forschung zur Zelltherapie und Gentherapie zur Regeneration verlorener Haarzellen schreitet voran.  
+Die Forschung zur Zelltherapie und Gentherapie zur Regeneration verlorener Haarzellen schreitet voran.
 Dies ist ein zukünftiges Experiment, das die Wiederherstellung des „Zuhörens“ Wirklichkeit werden lassen wird.
 
-Bemerkenswert sind auch technologische Innovationen bei Cochlea-Implantaten und neuen Hörgeräten.  
-Von „Schall verstärken“ bis hin zu „direkter Übermittlung an das Gehirn“.  
+Bemerkenswert sind auch technologische Innovationen bei Cochlea-Implantaten und neuen Hörgeräten.
+Von „Schall verstärken“ bis hin zu „direkter Übermittlung an das Gehirn“.
 Im Bereich Sounddesign schreitet die Forschung zur „auditiven Benutzeroberfläche“ mithilfe von Gehirnwellen voran.
 
 ### ▶︎ Diagramm: Auditiver Signalweg (von Schallwellen zum auditorischen Kortex)
@@ -127,7 +130,7 @@ flowchart LR
 
 ---
 
-<caption>Ein Diagramm, das die Zeitreihe von Schallwellen vom Eintritt ins Ohr bis zur Bedeutung in der Großhirnrinde verfolgt. Der Hirnstamm, der Colliculus inferior und der Thalamus (MGN) führen die Weiterleitung und Vorverarbeitung durch, und die Informationen werden schließlich im auditorischen Kortex erkannt und interpretiert. Aufmerksamkeit, Gedächtnis und emotionale Kreisläufe beeinflussen diesen Prozess. </caption>
+<caption>音波が耳に入ってから大脳皮質で意味づけされるまでの時系列を追った図。脳幹や下丘、視床（MGN）が中継・前処理を行い、最終的に聴覚野で認識・解釈される。注意や記憶・情動回路がこの過程に影響を与える。</caption>
 
 ---
 
@@ -139,35 +142,35 @@ Die Erforschung der komplexen hierarchischen Struktur wird auch auf die Gestaltu
 
 ## 4. Zwischen Lärm und Stille: Eine kulturelle Theorie der Prävention
 
-Die lauten Klänge von Rockkonzerten, der übermäßige Gebrauch von Kopfhörern und der Lärm der Stadt.  
-Diese können als moderne „Gehörverschmutzung“ bezeichnet werden.  
+Die lauten Klänge von Rockkonzerten, der übermäßige Gebrauch von Kopfhörern und der Lärm der Stadt.
+Diese können als moderne „Gehörverschmutzung“ bezeichnet werden.
 Die HHF-Kampagne #KeepListening ist eine soziale Bewegung, die das Verhältnis zwischen Lautstärke und Distanz neu überdenkt.
 
 Tatsächlich machte sich David Bowie große Sorgen um die Gesundheit seiner Ohren.
-Während der Tour war die Lautstärke des Bühnenmonitors auf die Hälfte der normalen Lautstärke eingestellt.  
+Während der Tour war die Lautstärke des Bühnenmonitors auf die Hälfte der normalen Lautstärke eingestellt.
 Der Schutz Ihres Gehörs ist auch eine Form der „künstlerischen Selbstfürsorge“, die es Ihnen ermöglicht, sich noch lange auszudrücken.
 
 ---
 
 ## 5. Das Schicksal der Musiker und des Ohrs: „Kulturgeschichte des Hörens“ interpretiert durch Anekdoten
 
-- **Beethoven**: Vollendete die Neunte in der Verzweiflung über den Hörverlust.  
-- **Pete Townshend (The Who)**: Verlor aufgrund des lauten Lärms eines Live-Auftritts sein Gehör und begann mit einer Kampagne, um das Bewusstsein für Gehörschutz zu schärfen.  
-- **Phil Collins**: Tournee trotz Hörverlust auf einem Ohr.  
+- **Beethoven**: Vollendete die Neunte in der Verzweiflung über den Hörverlust.
+- **Pete Townshend (The Who)**: Verlor aufgrund des lauten Lärms eines Live-Auftritts sein Gehör und begann mit einer Kampagne, um das Bewusstsein für Gehörschutz zu schärfen.
+- **Phil Collins**: Tournee trotz Hörverlust auf einem Ohr.
 - Thom Yorke von **Radiohead**: Obwohl er unter Tinnitus litt, sublimierte er seine „inneren Geräusche“ in Lieder.
 
-Diese Anekdoten zeigen, dass die Musik nicht endet, wenn die Ohren geschädigt sind.  
+Diese Anekdoten zeigen, dass die Musik nicht endet, wenn die Ohren geschädigt sind.
 Die Philosophie von HHF bietet auch wissenschaftliche Unterstützung für seinen Geist.
 
 ---
 
 ## 6. Gesellschaft und Unterstützung: eine Gemeinschaft, die die Zukunft des Ohrs gestaltet
 
-HHF fördert die kulturelle Kompetenz im Bereich Hörgesundheit durch Spenden, Forschungsstipendien und Bildung.  
+HHF fördert die kulturelle Kompetenz im Bereich Hörgesundheit durch Spenden, Forschungsstipendien und Bildung.
 Zu den Gewinnern der **Emerging Research Grants**, die jedes Jahr ausgewählt werden, gehören beispielsweise:
 Von der Genbearbeitung bis zur künstlichen Intelligenz beleuchtet er die „Zukunft des Zuhörens“ aus verschiedenen Blickwinkeln.
 
-Darüber hinaus wird im Online-Magazin für die breite Öffentlichkeit, **Hearing Health Magazine**,
+Darüber hinaus finden Sie im Online-Magazin für die breite Öffentlichkeit, **Hearing Health Magazine**,
 Es enthält aktuelle Erfahrungen und Kolumnen von Experten und schlägt Ohrengesundheit als Lebensstil vor.
 
 ---
@@ -177,15 +180,16 @@ Es enthält aktuelle Erfahrungen und Kolumnen von Experten und schlägt Ohrenges
 „Musik ist die Kunst des Zuhörens, und Zuhören ist Leben.“
 – John Cage
 
-Die Wissenschaft des Hörens ist auch die Wissenschaft unserer Sinne.  
-Die Reproduktion von Ton kann die „Reproduktion der menschlichen Existenz“ sein.  
+Die Wissenschaft des Hörens ist auch die Wissenschaft unserer Sinne.
+Die Reproduktion von Ton kann die „Reproduktion der menschlichen Existenz“ sein.
 Die Aktivitäten der Hearing Health Foundation überschreiten die Grenzen zwischen Medizin und Kunst.
 Es beleuchtet leise die Zukunft der Kultur rund um das „Zuhören“.
 
 ---
 
+
 ## Referenzlinks
 
-- [Offizielle Website der Hearing Health Foundation](https://hearinghealthfoundation.org)
-- [Hearing Health Magazine](https://hearinghealthfoundation.org/magazine)
-- [#KeepListening-Kampagne](https://hearinghealthfoundation.org/keeplistening)
+- [Hearing Health Foundation 公式サイト](https://hearinghealthfoundation.org)  
+- [Hearing Health Magazine](https://hearinghealthfoundation.org/magazine)  
+- [#KeepListening Campaign](https://hearinghealthfoundation.org/keeplistening)  

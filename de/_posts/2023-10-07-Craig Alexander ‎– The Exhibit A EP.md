@@ -21,7 +21,7 @@ Er begann damit, Partys mit Ron Hardy im legendären Club AKA's zu promoten, doc
 
 Er ist mit vielen Künstlern aufgetreten, darunter Glenn Underground, Paul Johnson, DJ Rush, Lil Louis und Thomas Bangalter (Daft Punk). Seine musikalische Reise führte ihn in viele verschiedene Länder, darunter Frankreich, die Schweiz und Deutschland. Außerdem brachte er 2012 „Oblique Records Digital“ neu auf den Markt.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Breath
 
@@ -30,7 +30,7 @@ B1. Do Your Thang
 B2. Elektro Ride
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m76924135596?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m76924135596?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6P3VBDl_zb8?si=WFgI1x9rGkzsocVS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

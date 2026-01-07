@@ -20,7 +20,7 @@ Die Kosmo Gesselschaft ist eine 1997 in Berlin gegründete Post-Hardcore/Emo-Ban
 
 Seltene Schallplatte, limitiert auf 600 Exemplare.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Your Move
 
@@ -45,7 +45,7 @@ B4. Die Eine Reisebekanntschaft
 B5. Modifikationsbeispiele Fuer Das Projekt Mensch 1
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m58782538124?afid=61426089877){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m58782538124?afid=61426089877){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y_IrMXcz6bQ?si=evPd_Bb6WNHDLuho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

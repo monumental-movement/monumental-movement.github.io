@@ -16,7 +16,7 @@ title: So-Low – Der Sanduhr-Puls
 
 „So-Low – The Hourglass/Pulse“ wurde 1992 auf dem in Essex ansässigen Progressive-House-Label X-Gate Records veröffentlicht.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. The Hourglass (Time Mix)
 
@@ -25,7 +25,7 @@ AA1. Pulse
 AA2. The Hourglass (Original Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m80454443791?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m80454443791?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/26hZAJyKIeA?si=vKElcAaTuPuYaPAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -13,11 +13,11 @@ title: R_Görl – Final Metal Pralinées
 ---
 
 
-Robert Görl, auch bekannt als R_Görl, ist ein Musiker aus München, Deutschland. Er ist auch berühmt für die Gründung von NDW (Neue Deutsche Welle), EBM (Electronic Body Music), NDH (Neue Deutsche Heate) und Deutsch Amerikanische Freundschaft (DAF), bekannt als die Pioniere des Techno, mit Gabi Delgado.
+Robert Görl, auch bekannt als R_Görl, ist ein Musiker aus München, Deutschland. Er ist auch bekannt für die Gründung von NDW (Neue Deutsche Welle), EBM (Electronic Body Music), NDH (Neue Deutsche Heate) und Deutsch Amerikanische Freundschaft (DAF), bekannt als die Pioniere des Techno, mit Gabi Delgado.
 
 „Final Metal Pralinies“ ist ein Techno-Album, das im Jahr 2000 vom Label Disko B veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. One More Hour
 2. Artificial Water
@@ -33,7 +33,7 @@ Robert Görl, auch bekannt als R_Görl, ist ein Musiker aus München, Deutschlan
 12. Last Korg Exit
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m39402109762?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m39402109762?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WaMKLqD-fJQ?si=Uzoe9iVfuMAZ247a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

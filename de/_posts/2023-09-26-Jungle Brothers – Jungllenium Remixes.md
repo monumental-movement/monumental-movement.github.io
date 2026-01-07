@@ -16,7 +16,7 @@ title: Jungle Brothers – Jungllenium-Remixe
 „Jungllenium Remixes“ ist eine Sammlung von Remixen der Songs der Jungle Brothers von verschiedenen Produzenten und Remixern.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Ultimatum Ultramix - The Mega Mix Of "Straight Out The Jungle"
 
@@ -45,7 +45,7 @@ title: Jungle Brothers – Jungllenium-Remixe
 13. Straight Out The Jungle (Soul Shock Remix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m23288815689?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23288815689?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0_Br-JWVk80?si=4XmyMDo4nmb71LMZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

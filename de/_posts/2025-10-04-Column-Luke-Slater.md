@@ -35,13 +35,15 @@ color: #fff;
 }
 </style>
 
+
 ### Früher Hintergrund und musikalische Ausbildung
 
-Luke Slater kam durch den Einfluss seines Vaters mit der Musik in Berührung und wurde bereits im Alter von 12 Jahren Schlagzeuger. In den späten 1980er Jahren erlangte er als DJ in Londons Underground-Clubs Bekanntheit. Sie debütierten 1990 mit „Momentary Vision“ und sind seitdem aus der Techno-Entwicklung nicht mehr wegzudenken.
+Luke Slater kam durch den Einfluss seines Vaters mit der Musik in Berührung und wurde bereits im Alter von 12 Jahren Schlagzeuger. In den späten 1980er Jahren erlangte er als DJ in Londons Underground-Clubs Bekanntheit. Sie debütierten 1990 mit „Momentary Vision“ und sind seitdem aus der Entwicklung des Techno nicht mehr wegzudenken.
 
 In den 90er Jahren veröffentlichten sie mit Warp und NovaMute Werke von Ambient bis Minimal, seit den 2000er Jahren sind sie eng mit dem Berliner Prestigeclub Berghain und dem Label Ostgut Ton verbunden und haben sich schnell zu einem Vertreter der europäischen Technoszene entwickelt.
 
 ---
+
 
 ### Aktivitätskarte
 
@@ -64,7 +66,7 @@ flowchart TD
 
 ---
 
-#### Planetary Assault Systems（PAS）
+#### Planetare Angriffssysteme (PAS)
 
 Dies ist eines der herausragenden Projekte von Luke Slater seit den frühen 1990er Jahren.
 Mit seinem harten und minimalistischen Techno-Sound gilt es als Symbol für „Peak-Time-Techno“, der in Clubs auf der ganzen Welt gespielt wird.
@@ -93,12 +95,12 @@ Im Gegensatz zur Vielfalt der Solo-Acts und dem Ambient-Charakter von 7th Plain 
 
 | Jahr | Albumname | Funktionen | Link |
 | ---- | ---------------------- | ----------------- | ------------------------------------------------ |
-| 1997 | *Der Drohnensektor* | Frühes Meisterwerk mit kräftigen Industriefarben | [Amazon](https://amzn.to/477xvJn) |
-| 1999 | *Atomic Funkster* | Evolution zum harten Minimal | [Amazon](https://amzn.to/4o7j2TJ) |
-| 2009 | *Vorübergehende Aussetzung* | Herausgegeben von Ostgut Ton | [Amazon](https://amzn.to/4nzQeTV) |
-| 2011 | *Der Bote* | Fusion aus Minimalismus und Zukunftsorientierung | [Amazon](https://amzn.to/3KA1vov) |
-| 2016 | *Erzengel* | Kosmische Weite und harter Beat | [Amazon](https://amzn.to/435hqS7) |
-| 2022 | *Hingabe* | Die neuesten PAS-Werke, die Essenz des modernen Techno | [Amazon](https://amzn.to/4gWRD4j) |
+| 1997 | *The Drone Sector*     | インダストリアル色の濃い初期傑作  | [Amazon](https://amzn.to/477xvJn) |
+| 1999 | *Atomic Funkster*      | ハードミニマルへの進化       | [Amazon](https://amzn.to/4o7j2TJ) |
+| 2009 | *Temporary Suspension* | Ostgut Tonからのリリース | [Amazon](https://amzn.to/4nzQeTV) |
+| 2011 | *The Messenger*        | ミニマルと未来志向の融合      | [Amazon](https://amzn.to/3KA1vov) |
+| 2016 | *Arc Angel*            | 宇宙的な広がりと硬質ビート     | [Amazon](https://amzn.to/435hqS7) |
+| 2022 | *Devotion*             | 最新のPAS作品、モダンテクノの粋 | [Amazon](https://amzn.to/4gWRD4j) |
 
 ---
 
@@ -108,7 +110,7 @@ Im Gegensatz zur Vielfalt der Solo-Acts und dem Ambient-Charakter von 7th Plain 
 
 ---
 
-#### The 7th Plain
+#### Die 7. Ebene
 
 The 7th Plain ist ein Ambient/Techno-Projekt, das Luke Slater Mitte der 1990er Jahre ins Leben gerufen hat.
 Im Gegensatz zu Planetary Assault Systems, das sich durch einen harten Sound für den Boden auszeichnet, verfolgt 7th Plain einen introspektiven und schwebenden Ambient-Techno.
@@ -121,6 +123,7 @@ Im Gegensatz zu Planetary Assault Systems, das sich durch einen harten Sound fü
 
 - Starke Hörorientierung, eher wie ein „immersives Erlebnis“ als wie ein Club
 
+
 **Position**
 
 Ein Projekt, das Luke Slaters „andere Seite“ darstellt und seine experimentelle und poetische Seite in der Technoszene symbolisiert.
@@ -132,11 +135,11 @@ The 7th Plain = „Die tiefe Welt des Ambient Techno“ von Luke Slater.
 
 | Jahr | Albumname | Funktionen | Link |
 | ---- | --------------------- | --------------------- | ------------------------------------------ |
-| 1994 | *Der 4-eckige Raum* | Ein Meisterwerk des Ambient Techno | [Amazon](https://amzn.to/4nttGUI) |
-| 1994 | *Mein gelber Weiser Teppich* | Experimentelles Arbeiten mit einem hohen Maß an Räumlichkeit | [Amazon](https://amzn.to/3VOULWo) |
-| 2016 | *Chroniken I* | Archivsammlung (Warp Records-Zeitraum) | [Amazon](https://amzn.to/4mK8uJ7) |
-| 2016 | *Chroniken II* | Zweite Archivsammlung | [Amazon](https://amzn.to/4gYSJN4) |
-| 2018 | *Chroniken III* | Sammlung inklusive unveröffentlichter Tonquellen | [Amazon](https://amzn.to/4mPG9AW) |
+| 1994 | *The 4 Cornered Room* | アンビエント・テクノの傑作         | [Amazon](https://amzn.to/4nttGUI) |
+| 1994 | *My Yellow Wise Rug*  | 空間性の高い実験作             | [Amazon](https://amzn.to/3VOULWo) |
+| 2016 | *Chronicles I*        | アーカイブ集（Warp Records期） | [Amazon](https://amzn.to/4mK8uJ7) |
+| 2016 | *Chronicles II*       | アーカイブ集第二弾             | [Amazon](https://amzn.to/4gYSJN4) |
+| 2018 | *Chronicles III*      | 未発表音源含む集大成            | [Amazon](https://amzn.to/4mPG9AW) |
 
 ---
 
@@ -146,7 +149,7 @@ The 7th Plain = „Die tiefe Welt des Ambient Techno“ von Luke Slater.
 
 ---
 
-#### LSD（Luke Slater + Steve Bicknell + Function）
+#### LSD (Luke Slater + Steve Bicknell + Function)
 
 LSD ist ein Techno-Projekt, das 2017 von Luke Slater, Steve Bicknell und Function (Dave Sumner) gegründet wurde.
 Bei jedem von ihnen handelt es sich um Veteranen, die seit den 90er Jahren aktiv sind und durch Zusammenarbeit einen harten und hypnotischen Sound verfolgen.
@@ -173,9 +176,9 @@ LSD = Ein „Höhepunkt des harten Minimalismus“, zusammengestellt von drei Me
 
 | Jahr | Albumname | Funktionen | Link |
 | ---- | ---------------- | ---------- | ------------------------------------------ |
-| 2017 | *Prozess* | Erste Gemeinschaftsarbeit | [Amazon](https://amzn.to/3Wnv3IC) |
-| 2019 | *Zweiter Prozess* | Minimale und scharfe Entwicklung | [Amazon](https://amzn.to/46PIaHj) |
-| 2020 | *Dritter Prozess* | Kosmische Klangverarbeitung | [Amazon](https://amzn.to/42sbkuR) |
+| 2017 | *Process*        | コラボレーション初作 | [Amazon](https://amzn.to/3Wnv3IC) |
+| 2019 | *Second Process* | ミニマルで鋭利な展開 | [Amazon](https://amzn.to/46PIaHj) |
+| 2020 | *Third Process*  | 宇宙的な音響処理   | [Amazon](https://amzn.to/42sbkuR) |
 
 
 ---
@@ -207,11 +210,12 @@ Es legte den Grundstein für spätere Pseudonyme wie Planetary Assault Systems u
 
 **Diskographie**
 
+
 | Jahr | Albumname | Funktionen | Link |
 | ---- | ---------------- | -------------- | ------------------------------------------ |
-| 1997 | *Freek Funk* | Eine Fusion aus Funk und Techno, ein Meisterwerk | [Amazon](https://amzn.to/4pVNHoG) |
-| 1999 | *Kabellos* | Einzigartiges Werk mit starkem Gesang | [Amazon](https://amzn.to/4pRPAT8) |
-| 2002 | *Alles klar* | Pop/Elektro-orientiert | [Amazon](https://amzn.to/46B4ntV) |
+| 1997 | *Freek Funk*     | ファンクとテクノの融合、名盤 | [Amazon](https://amzn.to/4pVNHoG) |
+| 1999 | *Wireless*       | ボーカル色を強めた異色作   | [Amazon](https://amzn.to/4pRPAT8) |
+| 2002 | *Alright on Top* | ポップ／エレクトロ寄り    | [Amazon](https://amzn.to/46B4ntV) |
 
 ---
 
@@ -237,13 +241,14 @@ Luke Slater ist ein Pionier des britischen Techno und hat unter verschiedenen Ps
 
 ---
 
+
 ### Verwandte Spalten
 
-🔗 [[Kolumne] Das goldene Zeitalter des britischen Techno](https://monumental-movement.jp/Column-90s-UKTechno)
+🔗 [【コラム】 UKテクノの黄金時代](https://monumental-movement.jp/Column-90s-UKTechno)
 
-🔗 [[Kolumne] Tresor – Der heilige Ort des Techno, der vom Underground in Berlin aus die Welt veränderte](https://monumental-movement.jp/Column-Tresor)
+🔗 [【コラム】 Tresor（トレゾア） ― ベルリン地下から世界を変えたテクノの聖地](https://monumental-movement.jp/Column-Tresor)
 
-🔗 [[Kolumne] Detroit Techno: Menschlicher Tanz, geschaffen durch den Herzschlag von Maschinen](https://monumental-movement.jp/Column-Detroit-Techno)
+🔗 [【コラム】 デトロイト・テクノ(Detroit Techno)：機械の鼓動が生んだ人間のダンス](https://monumental-movement.jp/Column-Detroit-Techno)
 
-🔗 [Die Genealogie und Gegenwart des deutschen Techno – die Ästhetik des Klangs, der sich von Berlin in die Welt verbreitet](https://monumental-movement.jp/Column-German-Techno)
+🔗 [ドイツ・テクノ（German Techno）の系譜と現在 ― ベルリンから世界へ広がる音の美学](https://monumental-movement.jp/Column-German-Techno)
 

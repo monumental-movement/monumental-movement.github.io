@@ -18,14 +18,14 @@ Aleph war eine Italo-Disco-Band der 1980er Jahre mit Gesang von Dave Rogers. Wei
 
 „Fire On The Moon“ ist Alephs dritte Single.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Fire On The Moon (Extended)
 
 B. Fire On The Moon (Instrumental Version)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m35638806508?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m35638806508?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N_VhW7Q2CP4?si=4s3T1RFLAU3daSOX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

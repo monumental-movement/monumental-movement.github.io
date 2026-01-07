@@ -11,13 +11,14 @@ tags:
 - Detroit Techno
 - Minimal
 title: '[Kolumne] Von den Ursprüngen des Techno bis zur Gegenwart – Eine chronologische
-  Geschichte, die anhand berühmter Platten und Geräte nachgezeichnet wird'
+  Geschichte anhand berühmter Platten und Geräte'
 ---
 
 
 ## Von den Ursprüngen des Techno bis zur Gegenwart – Eine chronologische Geschichte, die anhand berühmter Platten und Geräte nachgezeichnet wird
 
 Text: mmr｜Thema: Historischer Hintergrund des Techno nach Jahrzehnten, repräsentative Meisterwerke und Veränderungen in der Ausrüstung
+
 
 Die Geschichte des Techno entstand und entwickelte sich aus der Beziehung zwischen „Städten“ und „Maschinen“. Im Folgenden fassen wir den historischen Hintergrund, repräsentative Meisterwerke und Veränderungen in der Ausstattung nach Jahrzehnten zusammen.
 
@@ -55,7 +56,7 @@ Die Geschichte des Techno entstand und entwickelte sich aus der Beziehung zwisch
 - Roland TR-808 / TR-909 / TB-303
 - SH-101 / Juno-106
 - Yamaha DX7
--Akai S900/S950
+- Akai S900/S950
 - Atari ST + Cubase/Notator
 
 ---
@@ -74,12 +75,12 @@ Die Geschichte des Techno entstand und entwickelte sich aus der Beziehung zwisch
 - Jeff Mills – „The Bells“ (1997)
 
 **Ausrüstung**
-- Akai S3000/S3200
+-Akai S3000/S3200
 - E-mu ESI/E4
 - Ensoniq ASR-10
 - Mackie 1604/8-Bus
 -Roland JP-8000
-- Greifen Sie auf den Virus zu
+- Zugriffsvirus
 - ADAT/DAT
 
 ---
@@ -134,7 +135,7 @@ Die Geschichte des Techno entstand und entwickelte sich aus der Beziehung zwisch
 
 **Soundtrends**
 - Kraftvolle Kicks und Riff-Wiederholungen
-- Harter Techno ~ Schranz-Comeback
+- Hard Techno ~ Schranz-Comeback
 - Rekontextualisierung von Trans-Motiven
 
 **Ausrüstung**
@@ -167,18 +168,18 @@ Die Geschichte des Techno entstand und entwickelte sich aus der Beziehung zwisch
 ---
 
 ### Zusammenfassung
-Der Kern von Techno ist „Wiederholung“ und „Sounddesign“.  
-Rhythmen, die direkt von x0x abstammen, Klangbilddesign von Samplern, Bearbeitungsästhetik der PC-Ära, die Zufälligkeit der Modularität, sogar KI-Unterstützung – die Rhythmen von Maschinen und Städten entwickeln sich auch im Wandel der Zeit weiter.
+Der Kern von Techno ist „Wiederholung“ und „Sounddesign“.
+Rhythmen stammen direkt von x0x ab, Klangbilddesign von Samplern, Bearbeitungsästhetik aus der PC-Ära, die Zufälligkeit der Modularität, sogar KI-Unterstützung – die Rhythmen von Maschinen und Städten entwickeln sich auch im Wandel der Zeit weiter.
 
 
 ---
 
 ### Verwandte Spalten
 
-🔗 [[Kolumne] Tresor – Der heilige Ort des Techno, der vom Underground in Berlin aus die Welt veränderte](https://monumental-movement.jp/Column-Tresor)
+🔗 [【コラム】 Tresor（トレゾア） ― ベルリン地下から世界を変えたテクノの聖地](https://monumental-movement.jp/Column-Tresor)
 
-🔗 [[Kolumne] Detroit Techno: Menschlicher Tanz, geschaffen durch den Herzschlag von Maschinen](https://monumental-movement.jp/Column-Detroit-Techno)
+🔗 [【コラム】 デトロイト・テクノ(Detroit Techno)：機械の鼓動が生んだ人間のダンス](https://monumental-movement.jp/Column-Detroit-Techno)
 
-🔗 [Die Genealogie und Gegenwart des deutschen Techno – die Ästhetik des Klangs, der sich von Berlin in die Welt verbreitet](https://monumental-movement.jp/Column-German-Techno)
+🔗 [ドイツ・テクノ（German Techno）の系譜と現在 ― ベルリンから世界へ広がる音の美学](https://monumental-movement.jp/Column-German-Techno)
 
-🔗 [[Kolumne] Das goldene Zeitalter des britischen Techno](https://monumental-movement.jp/Column-90s-UKTechno)
+🔗 [【コラム】 UKテクノの黄金時代](https://monumental-movement.jp/Column-90s-UKTechno)

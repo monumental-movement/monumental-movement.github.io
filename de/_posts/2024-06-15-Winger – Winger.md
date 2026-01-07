@@ -19,7 +19,7 @@ Winger ist eine amerikanische Rockband, die 1987 in New York gegründet wurde. W
 
 „Winger“ erschien 1988 und war Wingers Debüt-Studioalbum und wurde von Beau Hill produziert.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Madalaine
 2. Hungry
@@ -33,7 +33,7 @@ Winger ist eine amerikanische Rockband, die 1987 in New York gegründet wurde. W
 11. Higher And Higher
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m90240573963?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m90240573963?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AIpRdbi9pYw?si=jt0s2nB6c5NgTA2P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

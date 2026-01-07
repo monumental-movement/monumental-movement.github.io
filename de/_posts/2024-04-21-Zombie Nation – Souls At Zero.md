@@ -21,14 +21,14 @@ Ursprünglich ein Techno-Duo bestehend aus dem deutschen DJ und Produzenten Spla
 
 B-Seite ist ein Remix von Sven Väth.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Souls At Zero (Original Album Version)
 
 B. Souls At Zero (Sven Väth Remix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m23525284617?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23525284617?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NIDMcVvQjiI?si=8z3Zpy3DnS3B0Xeh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

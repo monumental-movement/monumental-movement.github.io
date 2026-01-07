@@ -20,7 +20,7 @@ Charlene Keys, auch bekannt als Tweet, ist eine amerikanische R&B/Soul-Sängerin
 
 Produziert von Timbaland, mit Gastgesang von Missy Elliott. Es wurde ein großer Hit und erreichte Platz eins der Hot R&B/Hip-Hop-Songs-Liste und Platz sieben der Billboard Hot 100.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Oops (Oh My) (Album Version)
 A2. Oops (Oh My) (Original Version) Featuring – Fabolous
@@ -31,7 +31,7 @@ B2. Oops (Oh My) (TV Track)
 B3. Oops (Oh My) (Acapella)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m30112386023?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m30112386023?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P5rqNyulfsQ?si=pGf0t8m_1WQhUjNb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -18,7 +18,7 @@ The Nylons war eine kanadische A-cappella-Gruppe, die von 1978 bis 2017 aktiv wa
 
 „Seamless“ ist ein 1986 von Open Air Records veröffentlichtes Album.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. The Lion Sleeps Tonight
 A2. Take Me To Your Heart
@@ -33,7 +33,7 @@ B4. Remember (Walking In The Sand)
 B5. The Stars Are Ours
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m29486121471?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m29486121471?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oqUnVUzvQYA?si=L54otN6nNfXVjaQ9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

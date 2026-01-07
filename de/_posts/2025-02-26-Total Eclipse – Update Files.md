@@ -18,7 +18,7 @@ Total Eclipse ist ein 1992 von drei französischen Produzenten gestartetes Proje
 
 „Update Files“ ist ein psychedelisches Trance-Album, das 2003 vom japanischen Gore- und Psytrance-Label Arcadia Music veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. None Of This
 2. Jadran Temple
@@ -32,7 +32,7 @@ Total Eclipse ist ein 1992 von drei französischen Produzenten gestartetes Proje
 10. Aguas Blancas
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m19106789178?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m19106789178?afid=6142608987){: .button1}
 
 #### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/znQQL4e2s_k?si=5Qp8L3QxwCUCXT_F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -14,14 +14,14 @@ title: Chayell – Rio
 
 „Rio“ ist eine EP von Peter Bonne und Pick A Numbers Band Chayell, die 1988 auf dem Label „Subway“ veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Do You Wanna (DJ's Free Rap)
 
 B. Breakfast In Rio (Hey That's Our Rap)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m59298889139?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m59298889139?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JqVwW_P9ibk?si=s3525SWFzOWN7Iib" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

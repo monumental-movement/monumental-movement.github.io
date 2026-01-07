@@ -18,24 +18,24 @@ title: Yoko Kanno feat. Maaya Sakamoto – 23 Uhr Musik
 Mini-Soundtrack der NHK-Dramaserie „Midnight is another face“ mit Asaka Seto und Koji Yoshikawa in den Hauptrollen von Yoko Kanno feat. Maaya Sakamoto.
 
 #### Trackliste
-„md
-1. Zwei Dinge
-2.Hier
-3. Daniel
-4. Pfefferdehnung
-5. Den Weihnachtsmörder küssen
-6. Vertrau mir
-7. Noël
-8. Fado
-9. Tarkan
-10. Pinguin-Reparateur
-11. Unbedingter Svektor
-12.Toto
-13. Tod des Obstmessers
-14. Noels Klavier
-````
+```md
+1. Two Things
+2. Here
+3. ダニエル
+4. Pepper Stretch
+5. Kissing The Christmas Killer
+6. Trust Me
+7. ノエル
+8. ファド
+9. タルカン
+10. ペンギン修理人
+11. 無条件スベクトル
+12. Toto
+13. 果実ナイフの死
+14. ノエルのピアノ
+```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m40482792919?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40482792919?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/laxii4Q9c6k?si=fl99wAMnkL3s_ZAL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

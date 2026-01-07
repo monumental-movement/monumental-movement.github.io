@@ -19,7 +19,7 @@ Masterboy, aktiv seit 1990, ist ein deutsches Eurodance-Projekt, das vor allem i
 
 „Different Dreams“ ist Masterboys drittes Album, das 1994 veröffentlicht wurde und Hits wie „Feel the Heat of the Night“, „I Got to Give It Up“, „Everybody Needs Somebody“ und „Is This The Love“ enthält.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Waterfall (Intro)
 2. Different Dreams
@@ -37,7 +37,7 @@ Bonus Track For Japan
 13. Generation Of Love
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m79586502927?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m79586502927?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/otQl3yk2Nz8?si=PNCCy9WRGI5YV6FS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -17,7 +17,7 @@ Eine Neuauflage des Albums „Thus Spoke Zarathustra“ aus dem Jahr 1978, das 1
 
 Dieses Album arrangiert klassische Stücke mit elektrischem Jazz, und „Thus Spoke Zarathustra“ gilt als einer der berühmtesten frühen Crossover-/Fusion-Songs.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Also Sprach Zarathustra
 
@@ -32,7 +32,7 @@ B2. Prelude To Afternoon Of A Faun
 B3. September 13
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m95926567501?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95926567501?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QHUd8Droisw?si=N73wznNnMsod_yPd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

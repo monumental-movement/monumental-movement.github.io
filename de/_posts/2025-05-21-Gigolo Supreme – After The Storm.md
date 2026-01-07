@@ -21,7 +21,7 @@ Es zeichnet sich durch eine Fusion aus Jazz und House aus und hat einen sanften 
 
 Mehr als 20 Jahre später ist dieser Song immer noch ein Favorit unter DJs und House-Musikliebhabern und gilt als perfekt zum Abrocken einer Party oder zum Entspannen.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. After The Storm (Stolen Moments Mix)
 A2. After The Storm (Beats And Strings)
@@ -30,7 +30,7 @@ B1. After The Storm (Supreme Remix)
 B2. After The Storm (Deja Vu Dub)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m86278075606?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86278075606?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y3jSuCl-RWo?si=nvOPCphhA460DnlT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

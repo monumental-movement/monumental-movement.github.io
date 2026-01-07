@@ -21,7 +21,8 @@ title: '[Kolumne] Sound Tribe Sector 9 (STS9) – Die Entwicklung einer Live-Ban
 
 Text: mmr｜Thema: Geschichte von STS9 von seiner Gründung bis zur Gegenwart, musikalische Merkmale, Live-Philosophie, repräsentative Werke sowie kultureller und sozialer Einfluss
 
-Sound Tribe Sector 9 (*STS9*) ist als Vertreter der „Livetronica“ bekannt, die in der amerikanischen Live-Szene von den späten 1990er Jahren bis heute eine einzigartige Entwicklung durchgemacht hat.  
+
+Sound Tribe Sector 9 (*STS9*) ist als Vertreter der „Livetronica“ bekannt, die in der amerikanischen Live-Szene von den späten 1990er Jahren bis heute eine einzigartige Entwicklung durchgemacht hat.
 Ihre Musik ist eine Mischung aus dem improvisatorischen Charakter einer Jam-Band, der Struktur und Textur elektronischer Musik und dem Groove der Clubkultur, was sie von einer einfachen Rockband oder einer Einheit für elektronische Musik unterscheidet.
 
 Ihr Standpunkt war schon immer, dass „Musik ein Erlebnis in einem lebendigen Raum ist“, und sie haben Wert auf die Bildung einer autonomen Gemeinschaft gelegt, von der Produktion über das Tourmanagement, die Regie bis hin zu sozialen Aktivitäten.
@@ -41,11 +42,12 @@ color: #fff;
 }
 </style>
 
+
 # 1. Geschichte vor der Gründung (~1997): „Weder eine Band noch ein DJ“-Stil, der in Atlanta geboren wurde
 
 Die Ursprünge von STS9 lassen sich bis in die Mitte der 1990er Jahre zurückverfolgen, als sich im Raum Atlanta aktive Musiker gründeten
 **„Ist es möglich, mit Live-Musik die Atmosphäre zu schaffen, die ein DJ in einem Club schafft?“**
-Mit dieser Frage soll es angefangen haben.
+Mit dieser Frage soll es begonnen haben.
 
 Die Mitglieder hatten ein breites Spektrum an Hintergründen, darunter Rock, Jazz, Funk, elektronische Musik und sogar Weltmusik. Insbesondere das vom Drum/Percussion-Team betonte „Groove-First-Ensemble“ wurde zu einem wichtigen Kern, der von Anfang an bis heute Bestand hat.
 
@@ -85,10 +87,10 @@ Die vielschichtige Struktur aus Synth-Layern, programmierten Beats und kräftige
 
 Repräsentatives Lied:
 - „Atlas“
-- „Etwas“
+- "Etwas"
 - „Arigato“
--„Tokio“
--„Völker“
+-"Tokio"
+- "Menschen"
 
 Diese werden in der aktuellen Setlist häufig gespielt und symbolisieren am besten das musikalische Image von STS9.
 
@@ -101,7 +103,7 @@ Ihr Sound kombiniert Elemente aus verschiedenen Genres, darunter Ambient, Electr
 „Artifact“ ist ein wichtiges Album in der Karriere von STS9 und ein Muss für Fans der Band.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Possibilities
 A2. Tokyo
@@ -112,12 +114,13 @@ B2. Somesing
 B3. Better Day
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m77083791286?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m77083791286?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w-dPyfCe_vQ?si=GHXuKOfR8ZEVKid0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## 3-2. Evolution of live arrangement
+
+## 3-2. Entwicklung des Live-Arrangements
 
 Die Live-Struktur der gleichen Zeit war
 - Breakbeats
@@ -126,7 +129,7 @@ Die Live-Struktur der gleichen Zeit war
 - lange Improvisationen
 Das Publikum wechselte zu einem Floor-/Festival-ähnlichen Erlebnis mit der Prämisse des „Tanzens“.
 
-Wichtig hierbei ist, dass STS9 eine Technik verfolgte, um die „Textur elektronischer Musik“ mit Gitarre und Bass zu reproduzieren.  
+Wichtig hierbei ist, dass STS9 eine Technik verfolgte, um die „Textur elektronischer Musik“ mit Gitarre und Bass zu reproduzieren.
 Viele Teile durchliefen die Effektkette und schufen so eine Charakteristik, in der sich das redaktionelle Denken in der DAW direkt in der Live-Performance widerspiegelte.
 
 ---
@@ -145,9 +148,9 @@ Seit Beginn von STS9
 - Pädagogische Unterstützung
 - Umweltschutz
 - Lokale Aktivitäten
-Er hat aktiv an Wohltätigkeitsaktivitäten teilgenommen wie:
+Er hat aktiv an Wohltätigkeitsaktivitäten teilgenommen, wie z
 
-Es gibt auch viele Auftritte, bei denen ein Teil des Live-Ticket-Erlöses gespendet wird, und viele Lieder, die soziale Themen zum Thema haben.  
+Es gibt auch viele Auftritte, bei denen ein Teil des Live-Ticket-Erlöses gespendet wird, und viele Lieder, die soziale Themen zum Thema haben.
 Insbesondere „Peaceblaster“ (2008) wird als konzeptionelle Arbeit mit politischen und ökologischen Themen als Hintergrund positioniert.
 
 ---
@@ -155,12 +158,12 @@ Insbesondere „Peaceblaster“ (2008) wird als konzeptionelle Arbeit mit politi
 # 5. 2015–heute: Mitgliederwechsel und neue Phase
 ## 5-1. Übergang zum neuen System
 
-Im Jahr 2014 verließ der langjährige Gitarrist die Gruppe und es wurde ein neues System mit Hunter Brown in der Mitte etabliert.  
+Im Jahr 2014 verließ der langjährige Gitarrist die Gruppe und es wurde ein neues System mit Hunter Brown in der Mitte etabliert.
 Dieser Wandel wirkte sich auch auf die Musik aus, klarere und minimalistischere Strukturen wurden immer häufiger.
 
-## 5-2. *The Universe Inside*（2016）
+## 5-2. *Das Universum im Inneren* (2016)
 
-Auf diesem Album aus dem Jahr 2016 liegt der Schwerpunkt noch stärker auf Synthesizern, und auch die Anzahl der Songs, die sich auf Tanzmusik konzentrieren, ist gestiegen.  
+Auf diesem Album aus dem Jahr 2016 liegt der Schwerpunkt noch stärker auf Synthesizern, und auch die Anzahl der Songs, die sich auf Tanzmusik konzentrieren, ist gestiegen.
 Bei den Live-Arrangements gab es viele Versuche, vergangene Songs im EDM-Stil zu rekonstruieren.
 
 ## 5-3. Aktueller STS9
@@ -172,7 +175,7 @@ In den 2020er Jahren behauptete STS9 eine feste Position als Festival-Headliner,
 # 6. Musikalische Features von STS9
 ## 6-1. Rhythmusstruktur: percussiongetriebener Groove
 
-Das größte Merkmal von STS9 ist seine Ensemblestruktur, bei der Schlagzeug und Percussion im Mittelpunkt stehen.  
+Das größte Merkmal von STS9 ist seine Ensemblestruktur, bei der Schlagzeug und Percussion im Mittelpunkt stehen.
 In der elektronischen Musik spielt Live-Musik die Rolle einer Drum-Machine, auf der Bass, Gitarre, Synthesizer und Samples geschichtet sind.
 
 - Afrobeat
@@ -190,11 +193,11 @@ Um das Gefühl von Electronica bei Live-Auftritten zu reproduzieren,
 - Granulare Verarbeitung
 Jedes Instrument nutzt diese aktiv.
 
-Dies sorgt auch bei Live-Auftritten für **akustische Dichte** und erzeugt ein dreidimensionales Gefühl, das dem eines DJ-Sets ähnelt.
+Dies gewährleistet auch bei Live-Auftritten eine **akustische Dichte** und erzeugt ein dreidimensionales Gefühl, das dem eines DJ-Sets ähnelt.
 
 ---
 
-# 7. Die Live-Philosophie von STS9: Set-Struktur, Beleuchtung, Community
+# 7. Die Live-Philosophie von STS9: Set-Struktur, Beleuchtung, Gemeinschaft
 ## 7-1. Strukturierung der Setlist
 STS9 ändert ihre Setlist bei jeder Tour,
 - Opener (Weltanschauungspräsentation)
@@ -207,13 +210,13 @@ und gestaltet Live-Auftritte mit einer Struktur, die einem DJ-Set ähnelt.
 ## 7-2. Beleuchtung/Video: Integration von Ton und Licht
 
 Die Beleuchtung ist bei STS9-Live-Auftritten äußerst wichtig.
-Eine Besonderheit besteht darin, dass die Bewegung des Lichts mit Veränderungen im Lied verknüpft ist.  
-Während der Nachtvorstellung des Festivals fungiert die Beleuchtung selbst als gigantisches „Bühnenbild“ und verstärkt das Gefühl des Eintauchens beim Publikum.
+Eine Besonderheit besteht darin, dass die Bewegung des Lichts mit Veränderungen im Lied verknüpft ist.
+Bei den Nachtvorstellungen des Festivals fungiert die Beleuchtung selbst als gigantisches „Bühnenbild“ und verstärkt das Gefühl des Eintauchens beim Publikum.
 
 ## 7-3. Gemeinschaftskultur
 
 STS9-Fans sind stark gemeinschaftsorientiert, was typisch für die Jam-Band-Szene ist.
-Es gibt auch viele „Reisefans“, die die Tour verfolgen.
+Es gibt auch viele „reisende Fans“, die die Tour verfolgen.
 
 ---
 
@@ -279,7 +282,7 @@ Die Live-Shows von STS9 passen gut zu Festivals.
 - Suwannee Hulaween
 Ihre „Late-Night-Sets“ auf großen Festivals wie „Late Night“ sind legendär.
 
-## 11-3. Pionierbeispiele von Community-Künstlern
+## 11-3. Wegweisende Beispiele von Community-Künstlern
 
 Unabhängiges Labelmanagement, Wohltätigkeitsaktivitäten, Durchführung origineller Festivals usw.
 Es ist auch deshalb wichtig, weil es zeigt, wie Künstler im 21. Jahrhundert und darüber hinaus sein sollten.
@@ -295,7 +298,7 @@ Er ist eine seltene Person, die dies seit über 20 Jahren fortsetzt.
 Die Musik ist nie nur mit aufgenommenen Werken vollständig,
 Es wird ständig mit dem „Hier und Jetzt“-Erlebnis einer Live-Aufführung aktualisiert.
 
-Ihre Schritte sind
+ihre Schritte sind
 ** „Wie nah kann eine Live-Band an elektronische Musik herankommen?“
 „Inwieweit kann elektronische Musik die Dynamik von Live-Musik einfangen?“**
 Es ist ein fortlaufendes Experiment zur Beantwortung dieser Frage und kann als eines der Symbole der Musikkultur des 21. Jahrhunderts selbst bezeichnet werden.

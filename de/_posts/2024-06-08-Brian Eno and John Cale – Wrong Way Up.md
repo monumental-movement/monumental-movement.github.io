@@ -22,7 +22,7 @@ Wrong Way Up ist ein von der Kritik gefeiertes Album, das irgendwo zwischen den 
 
 Der Song „Spinning Away“ ist als Coverversion der amerikanischen Rockband Sugar Ray für den Soundtrack des Films „The Beach“ aus dem Jahr 2000 bekannt.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Lay My Love
 A2. One Word
@@ -37,7 +37,7 @@ B4. Crime In The Desert
 B5. The River
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m98335860609?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m98335860609?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-INeMspNSQ0?si=rooDJWDXNgTju37W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

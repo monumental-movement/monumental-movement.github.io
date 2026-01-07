@@ -18,9 +18,10 @@ title: '[Kolumne] Vijaya Anand und „Dance Raja Dance“ – südindische Filmm
 
 ## Prolog: Die Beat-Revolution in Südindien in den späten 1980er Jahren
 
+
 Text: mmr | Thema: Ende der 1980er Jahre explodierte die urbane Kultur in Südindien mit der Disco. Vijaya Anands „Dance Raja Dance“ handelt vom Klang- und visuellen Karneval von Karnataka.
 
-In den späten 1980er Jahren befand sich die indische Filmindustrie mitten im Wandel. Mumbais Hindi-Kino (Bollywood) befand sich an einem Wendepunkt, bevor A.R. Rehman, und ein neuer Sound war nötig. Unterdessen experimentierte **Vijaya Anand** in der Kannada-Filmindustrie (Sandalwood) mit bahnbrechenden musikalischen Innovationen.
+In den späten 1980er Jahren befand sich die indische Filmindustrie mitten im Wandel. Mumbais Hindi-Kino (Bollywood) befand sich an einem Wendepunkt, bevor A.R. Rehman und brauchte einen neuen Sound. Unterdessen experimentierte **Vijaya Anand** in der Kannada-Filmindustrie (Sandalwood) mit bahnbrechenden musikalischen Innovationen.
 
 Dance Raja Dance erschien 1987 und war mehr als nur ein unterhaltsamer Film. Es war die Schnittstelle zwischen südindischer Sensibilität und globaler Disco-Kultur und der „Sound der Zukunft“ für junge Menschen in regionalen Städten.
 
@@ -81,7 +82,7 @@ Nach dem Erfolg von „Disco Dancer“ (1982, Hindi) und „Ilamai Oonjal Aaduki
 
 In Südindien nahm dieser Trend eine einzigartige Variante an. Während Mumbais Diskotheken einen „städtischen Traum“ darstellten, waren Diskotheken in Kannada-Filmen Ausdruck von „Regionalstolz“**.
 
-Vijaya Anands Musik verbindet ländliche und städtische Rhythmen, indem sie Elektronik mit Folk-Percussion-Instrumenten (Thaviru, Dhol, Nadaswaram) verbindet.  
+Vijaya Anands Musik verbindet ländliche und städtische Rhythmen, indem sie Elektronik mit Folk-Percussion-Instrumenten (Thaviru, Dhol, Nadaswaram) verbindet.
 Diese „Hybridität“ ist der Kern der südindischen Musik.
 
 ---
@@ -90,18 +91,18 @@ Diese „Hybridität“ ist der Kern der südindischen Musik.
 
 Die Tanzszenen in „Dance Raja Dance“ waren so genial, dass sie die Grenzen der damaligen indischen Filmtechnik sprengten. Unter voller Nutzung von Licht-, Rauch- und Spiegeleffekten entsteht eine **Videokunstkomposition**, die scheinbar an die MTV-Generation gerichtet ist.
 
-Der Choreograf war der damals aufstrebende Mugur Sundar (später der Vater des berühmten Tanzmeisters Prabhu Deva).  
-Während er sich auf Schritte aus Hollywood-Filmen bezog, mischte er mutig Elemente von **Bharatanatyam-Handgesten (Mudras)** und Volkstänzen ein.  
+Der Choreograf war der damals aufstrebende Mugur Sundar (später der Vater des berühmten Tanzmeisters Prabhu Deva).
+Während er sich auf Schritte aus Hollywood-Filmen bezog, mischte er mutig Elemente von **Bharatanatyam-Handgesten (Mudras)** und Volkstänzen ein.
 Dieses „südindische MTV-Feeling“ wurde später von A.R. geerbt. Rehman und Harris Jayaraj.
 
 ---
 
 ## Kapitel 5: Veränderungen im sozialen Hintergrund und in der Demografie des Publikums
 
-In den späten 1980er Jahren erlebte Südindien eine Phase der Expansion der Fernsehkultur und eine Welle der Urbanisierung.  
+In den späten 1980er Jahren erlebte Südindien eine Phase der Expansion der Fernsehkultur und eine Welle der Urbanisierung.
 Es war eine Zeit, in der sich der staatliche Sender Doordarshan dem kommerziellen Rundfunk öffnete und junge Menschen aus ländlichen Gebieten davon träumten, Stars zu werden.
 
-Die Kulisse, in der die Hauptfigur von „Dance Raja Dance“, Raja, durch eine TV-Show berühmt wird, symbolisiert wirklich die Entstehung neoliberaler Werte.  
+Die Kulisse, in der die Hauptfigur von „Dance Raja Dance“, Raja, durch eine TV-Show berühmt wird, symbolisiert wirklich die Entstehung neoliberaler Werte.
 Die Zwänge von Arbeit, Klasse und Familie überwinden und durch Talent und harte Arbeit Erfolg haben – das kann man die „indische Version des amerikanischen Traums“ nennen.
 
 ---
@@ -115,15 +116,15 @@ Die Zwänge von Arbeit, Klasse und Familie überwinden und durch Talent und hart
 | **Ninna Preetige** | Mano, Vani Jairam | Anruf- und Antwortstruktur | Wird in Wettbewerbssituationen verwendet |
 | **Finale-Medley** | Verschiedene | Reprisekomposition aller Lieder | Tanz-Schlussszene |
 
-Es wurde bestätigt, dass diese Songs mit damals modernster Ausrüstung wie FM-Synthesizer (Yamaha DX7) und Roland TR-707 erstellt wurden.  
+Es wurde bestätigt, dass diese Songs mit damals modernster Ausrüstung wie FM-Synthesizer (Yamaha DX7) und Roland TR-707 erstellt wurden.
 Insbesondere der **aufsteigende Bläser-Synthesizer-Sound**, der im Intro von „Dance Raja Dance“ zu hören ist, erinnert mich an die Texturen von Moroder und Depeche Mode.
 
 ---
 
 ## Kapitel sieben: Vermächtnis von Vijaya Anand
 
-Vijaya Anand hat seit den 1990er Jahren Filmmusiken für viele Filme komponiert, aber nur wenige waren so innovativ wie Dance Raja Dance.  
-Allerdings eröffnete seine Musik jüngeren Musikregisseuren die Perspektive, „Film als Testgelände für Popmusik“ zu sehen.
+Vijaya Anand hat seit den 1990er Jahren Filmmusiken für viele Filme komponiert, aber nur wenige waren so innovativ wie Dance Raja Dance.
+Allerdings eröffnete seine Musik jüngeren Musikdirektoren die Perspektive, „Filme als Testgelände für Popmusik“ zu betrachten.
 
 A.R. Rehmans frühe Werke Roja (1992) und die Grundlagen urbaner Soundtracks wie Gentleman (1993) sind eindeutig eine Erweiterung der Experimente von Vijaya Anand und Bappi Lahiri.
 
@@ -131,7 +132,7 @@ A.R. Rehmans frühe Werke Roja (1992) und die Grundlagen urbaner Soundtracks wie
 
 ## Kapitel 8: Kulturelle Auswirkungen und Neubewertung
 
-Im 21. Jahrhundert wird „Dance Raja Dance“ durch YouTube und Spotify neu bewertet.  
+Im 21. Jahrhundert wird „Dance Raja Dance“ durch YouTube und Spotify neu bewertet.
 Die damaligen Bilder und Musik sind kein „Kitsch“, sondern werden als **südindischer Futurismus** umgedeutet.
 
 Für junge Menschen, die Kannada sprechen, ist dies nicht nur Nostalgie, sondern ein Ausgangspunkt für den kulturellen Selbstausdruck, der sich vom Lokalen ins Globale bewegt.
@@ -171,7 +172,7 @@ timeline
 ## Fazit: Der Schlag wehte aus dem Süden
 
 Als „Dance Raja Dance“ 1987 gegründet wurde, hatte Indien noch keine wirtschaftliche Liberalisierung erlebt.
-Der „Atem der Befreiung“ hallte jedoch bereits im Rhythmus von Musik und Tanz wider.
+Doch im Rhythmus von Musik und Tanz hallte bereits der „Atem der Befreiung“ wider.
 
 Vijaya Anands Leistung liegt darin, Musik als Vorbote gesellschaftlichen Wandels zu nutzen.
 Seine Disco-Beats waren nicht nur Unterhaltung, sondern eine Erklärung dafür, dass Südindien seine eigene kulturelle Zukunft tanzen sollte.

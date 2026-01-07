@@ -24,14 +24,14 @@ Der zweite Song ist ein Remix von Jungle Drum and Bass DJ und Produzent Simon Te
 
 Der dritte Song ist ein Remix des britischen Techno-DJs und Produzenten Luke Slater.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Peckings
 2. Come On (Simon Templar Mix)
 3. Come On (Luke Slater Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m11109997643?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m11109997643?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XibBwi8wmUY?si=H7xFy0WWrh-wWI8l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

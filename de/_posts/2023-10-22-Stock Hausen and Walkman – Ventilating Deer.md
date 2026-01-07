@@ -32,7 +32,7 @@ Derzeit betreibt er das Label weiter und plant, gestaltet und produziert Alben.
 
 Obwohl das Projekt 2001 endete, veröffentlicht Wand weiterhin „interessantes“ S, H&W-Archivmaterial auf Hot Air.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Sleep
 
@@ -55,7 +55,7 @@ B4. Skipper
 B5. Flagging
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m86169877187?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86169877187?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/maYl0-KHSl0?si=ujk3exYDzMOCpngl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

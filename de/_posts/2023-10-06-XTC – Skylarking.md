@@ -19,7 +19,7 @@ Das Album enthält die Hits „Dear God“, „Grass“ und „The Meeting Place
 
 Das Album als Ganzes wirkt einheitlich und ist ein Werk mit einem Konzept. Es werden verschiedene Themen wie Religion, Natur und menschliche Beziehungen erkundet, und Sie können die tiefe Bedeutung und den tiefen Gedanken spüren.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Summer's Cauldron
 
@@ -50,7 +50,7 @@ B6. Dying
 B7. Sacrificial Bonfire
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m10764272984?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m10764272984?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nErBEvTIvfo?si=gpz7OHADto7OjeWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

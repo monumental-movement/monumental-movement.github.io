@@ -18,7 +18,7 @@ Euro-House-, Techno-, New-Beat- und Garage-House-Compilation-Album aus den spät
 
 Mit dabei sind die Hardcore-Techno-Giganten 2 Unlimited, die belgische Eurodance- und New-Beat-Band Bizz Nizz sowie die britische Musikgruppe Soft Cell, eine der führenden New-Wave-Gruppen.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Sophia – Running So Hard
 A2. The Creator – Jack
@@ -33,7 +33,7 @@ B4. Soft Cell –Tainted Love
 B5. LNR – Work It To The Bone
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m82073091012?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m82073091012?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/znm-HC2GXiM?si=XMALsoMlo2nVH6Kz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

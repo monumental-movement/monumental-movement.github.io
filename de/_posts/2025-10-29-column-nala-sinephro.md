@@ -17,13 +17,14 @@ title: '[Kolumne] Nala Sinephro – Klangatmung und kosmische Stille: Der aktuel
 
 ## Prolog: Klang als Atem, Improvisation als Raum
 
+
 Text: mmr｜Thema: Beim Jazz geht es nicht um Technik oder Genreerweiterung, sondern um die grundlegende Frage, was Klang dem Menschen bringen kann.
 
-Wenn wir zum ersten Mal mit der Musik von Nala Sinephro in Berührung kommen, sind wir gezwungen, das Konzept eines „Liedes“ loszulassen.  
+Wenn wir zum ersten Mal mit der Musik von Nala Sinephro in Berührung kommen, sind wir gezwungen, das Konzept eines „Liedes“ loszulassen.
 Sein Debütalbum Space 1.8, das 2021 bei Warp Records erschien, war ein Werk, das die Grenzen zwischen Jazz und Ambient, modularer Synthese und Improvisation verschmolz, als ob es atmen würde.
 
-Harfe, Tenorsaxophon, modularer Synthesizer und der Raum selbst.  
-Nalas Musik beschreibt den Moment, in dem der Klang selbst zu einer „spirituellen Umgebung“ wird.  
+Harfe, Tenorsaxophon, modularer Synthesizer und der Raum selbst.
+Nalas Musik beschreibt den Moment, in dem der Klang selbst zu einer „spirituellen Umgebung“ wird.
 Es ist eine Erfahrung, die sich anfühlt, als würde „das Universum in Stille atmen“, und den Körper des Zuhörers in einen Resonanzkörper verwandelt.
 
 ---
@@ -41,12 +42,13 @@ color: #fff;
 }
 </style>
 
+
 ## Kapitel 1: Die Geburt der Londoner Szene – Wind aus dem Süden
 
-Wenn man über das Wiederaufleben des Jazz in London spricht, kommt einem immer die geografische Energie Südlondons in den Sinn.  
+Wenn man über das Wiederaufleben des Jazz in London spricht, kommt einem immer die geografische Energie Südlondons in den Sinn.
 Die Söhne von Kemet, Nubya Garcia, Shabaka Hutchings, Moses Boyd und andere haben ein neues Jazz-Vokabular etabliert, aber Nala Sinephro ist diejenige, die den Sound von der „stillen Seite“ her neu aufgebaut hat.
 
-Sie hat st. Lucianische und belgische Wurzeln und studierte gleichzeitig klassische und elektronische Akustik.  
+Sie hat st. Lucianische und belgische Wurzeln und studierte gleichzeitig klassische und elektronische Akustik.
 Bei einer Session im Londoner Jazzclub „Total Refreshment Centre“
 Er hat eine einzigartige Klangsprache geschaffen, die sich frei zwischen Harfe und modularem Synthesizer bewegt.
 
@@ -59,7 +61,7 @@ Wie sie sagt, ist der Klang als „Körner“ geschichtet und bricht die Zeit wi
 
 ## Kapitel 2: Struktur von „Raum 1.8“ und Transformation des Bewusstseins
 
-Der Trackaufbau von Space 1.8 erinnert an eine Yoga- oder Meditationssitzung.  
+Der Trackaufbau von Space 1.8 erinnert an eine Yoga- oder Meditationssitzung.
 Von Space 1 bis Space 8 – alle Songs sind wie „Atemphasen“ angeordnet.
 
 - **Raum 1:** „Eingang“, wo subtile modulare Klänge den Raum öffnen
@@ -67,7 +69,7 @@ Von Space 1 bis Space 8 – alle Songs sind wie „Atemphasen“ angeordnet.
 - **Raum 5:** Ein vorübergehendes Jazzensemble erscheint und verschwindet wie ein schwaches Licht.
 - **Raum 8:** 8 Minuten tiefes Atmen, alle Geräusche versinken im Raumhall
 
-Dies ist eher ein „akustisches spirituelles Ritual“ als ein Album.  
+Dies ist eher ein „akustisches spirituelles Ritual“ als ein Album.
 So wie Miles Davis in „In a Silent Way“ nach dem „Raum zwischen Klängen“ suchte,
 Nala ist auf der Suche nach **„Sound Breathing“**.
 
@@ -75,14 +77,14 @@ Nala ist auf der Suche nach **„Sound Breathing“**.
 
 ## Kapitel 3: Die Idee des Ambient Jazz
 
-Ambient-Jazz – es ist eher eine klangliche Einstellung als ein Genre.  
+Ambient-Jazz – es ist eher eine klangliche Einstellung als ein Genre.
 Dies ist ein Fluss, der das von Brian Eno vorgeschlagene Konzept der „Umweltmusik“ mit dem Kontext des spirituellen Jazz verbindet.
 
 Nala Sinephros Musik steht im Geiste von Harold Budd, Alice Coltrane und Laraaji.
 Es ist der „kontemplative Modernismus“, der in der Post-Club-Ära des 21. Jahrhunderts neu definiert wurde.
 
-Ihre Harfe und ihre Synthesizer verbreiten „jazzartige Improvisationen“ im Raum, indem sie Klangebenen hinzufügen.  
-Der Rhythmus verschwindet, die Melodie driftet ab und alles, was bleibt, ist das Gefühl von Zeit und Raum.
+Ihre Harfe und ihre Synthesizer verbreiten „jazzartige Improvisationen“ im Raum und fügen Klangebenen hinzu.
+Der Rhythmus verschwindet, die Melodie driftet und alles, was bleibt, ist das **Gefühl von Zeit und Raum**.
 
 
 <div class="mermaid">
@@ -101,7 +103,7 @@ Wie dieses Diagramm zeigt, ist Ambient Jazz eine Bewegung, die gleichzeitig das 
 
 ## Kapitel 4: Modulare Synthesizer und der „Hörkörper“
 
-Bei Live-Auftritten bedient Nala gleichzeitig mit der Harfe das **Eurorack-Modulsystem**.  
+Bei Live-Auftritten bedient Nala gleichzeitig mit der Harfe das **Eurorack-Modulsystem**.
 Hier ist das Patchen selbst eine improvisatorische Performance, die den Körper und den Raum des Zuhörers verändert.
 
 > Beispiel einer Gerätekonfiguration:
@@ -111,8 +113,8 @@ Hier ist das Patchen selbst eine improvisatorische Performance, die den Körper 
 > - Moog Mutter-32
 > - Ableton Live (zur Loop-Verarbeitung)
 
-Diese Konfiguration ist wirklich ein „Atemgerät für Mensch und Maschine“.  
-Wellenformen umhüllen die Echos der Harfe, analoge Temperaturen neutralisieren die elektronische Transparenz.  
+Diese Konfiguration ist wirklich ein „Atemgerät für Mensch und Maschine“.
+Wellenformen umhüllen die Echos der Harfe, die analoge Temperatur neutralisiert die elektronische Klarheit.
 Es ist auch ein Akt der Sublimierung von Musik in ein **Technologiegebet**.
 
 ---
@@ -122,10 +124,10 @@ Es ist auch ein Akt der Sublimierung von Musik in ein **Technologiegebet**.
 Nach der Pandemie, als die Welt von Lärm und Angst umgeben war,
 Musik wie Nala erschien nicht als „Heilung“, sondern als eine Form des Widerstands.
 
-„Stille“ ist nicht nur Ruhe.  
-Es ist auch die Politik der Selbstfürsorge, in der man seinen eigenen Rhythmus gegen die Hektik der Welt wiederfindet.
+„Stille“ ist nicht nur Ruhe.
+Es ist auch eine Politik der Selbstfürsorge, bei der man angesichts der Hektik der Welt seinen eigenen Rhythmus wiederfindet.
 
-Das Hören ihrer Musik ist ein Akt der Rückkehr zu sich selbst.
+Ihre Musik zu hören ist ein Akt, in sich selbst zurückzukehren.
 Gleichzeitig ist es aber auch ein Zeichen der Langsamkeit als Reaktion auf die Geschwindigkeit der Gesellschaft.
 
 ---
@@ -138,8 +140,8 @@ Gleichzeitig ist es aber auch ein Zeichen der Langsamkeit als Reaktion auf die G
 | 2015 | Übersiedelte nach London und begann in der Jazzszene zu arbeiten |
 | 2018 | Treten Sie dem Total Refreshment Center bei und beginnen Sie mit Improvisationssitzungen |
 | 2021 | „Space 1.8“ von Warp Records veröffentlicht |
-| 2022 | Internationale Anerkennung durch Gilles Peterson und andere |
-| 2024 | Neue Produktion/modulares Live-Projekt gestartet |
+| 2022 | International anerkannt von Gilles Peterson und anderen |
+| 2024 | Start neuer Produktion/modulares Live-Projekt |
 
 ---
 
@@ -171,6 +173,6 @@ Nala Sinephros Musik wirft die Frage erneut auf: „Was ist Jazz?“
 Hierbei handelt es sich nicht um eine Erweiterung einer Technik oder eines Genres, sondern vielmehr um eine grundlegende Frage dessen, was Klang dem Menschen bringen kann.
 
 Im Mittelpunkt des Ambient-Jazz steht die Hoffnung, dass „Musikhören“ wieder zu „einem Akt der Verbindung mit der Welt“ werden kann.
-Jeder Ton, den Nalas Harfe ausstößt, ist so leise wie der Atem des Universums, aber er ist auf jeden Fall lebendig.
+Jeder Ton von Nalas Harfe ist so leise wie der Atem des Universums, aber er ist auf jeden Fall lebendig.
 
 ---

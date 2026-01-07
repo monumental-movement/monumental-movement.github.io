@@ -19,7 +19,7 @@ Bros war eine britische Popband, die von 1987 bis 1992 aktiv war. Zum Zeitpunkt 
 
 „Too Much“ wurde 1989 veröffentlicht und ist eine Single aus dem zweiten Album der Bros, The Time. Bros‘ Meisterwerk, das nicht nur in Großbritannien, sondern auch in Japan ein Hit war. Es war ein Hit und Konzerterfolg in Japan und erschien auch in einem Werbespot für Yamahas Roller Yamaha Jog.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Too Much (Extended Version)
 
@@ -27,7 +27,7 @@ B1. Too Much (Seven Inch Version)
 B2. Astrologically
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m98922901775?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m98922901775?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Oq_-qj3JHt0?si=Bt9BVGT47kudJbca" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

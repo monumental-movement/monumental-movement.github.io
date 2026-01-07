@@ -18,7 +18,7 @@ title: Technasia – Kraft
 
 Schauen Sie sich den Breakbeat-Mix auf der Rückseite an, es lohnt sich, ihn anzuhören.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Force
 
@@ -29,6 +29,6 @@ B1. Resilience
 B2. Force (Voxless)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m82234983144?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m82234983144?afid=6142608987){: .button1}
 
 https://jp.mercari.com/item/m82234983144?afid=6142608987

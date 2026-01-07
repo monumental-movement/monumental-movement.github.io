@@ -15,9 +15,9 @@ title: Lutricia McNeal – Meine Seite der Stadt
 ---
 
 
-Das Debüt-Studioalbum der US-R&B-Sängerin Lutricia McNeal. Dieses zeitgenössische, von R&B und Europop inspirierte Album wurde 1998 als limitierte Auflage vom italienischen Dance-Label Do It Yourself veröffentlicht.
+Das Debüt-Studioalbum der US-amerikanischen R&B-Sängerin Lutricia McNeal. Dieses zeitgenössische, von R&B und Europop inspirierte Album wurde 1998 als limitierte Auflage vom italienischen Dance-Label Do It Yourself veröffentlicht.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. My Side Of Town
 A2. Always
@@ -32,7 +32,7 @@ B5. Crossroads
 B6. The Heart Is A Lonely Hunter
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m82712516054?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m82712516054?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dV8l5IAcFus?si=00uEcCoHEQkycYFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

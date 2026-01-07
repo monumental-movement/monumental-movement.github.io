@@ -17,7 +17,7 @@ Dieses 1999 veröffentlichte Werk ist eine Single aus „SYNCHRONICITY“, einem
 
 Enthält Underground-Tracks mit Matt Fingaz, Will Pack und Craig G aus Amerika sowie DJ Yas und Hazu aus Japan.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1  Matt Fingaz, Will Pack, Craig.G  & DJ Yas–Go Head Now (Original Mix)
 
@@ -28,5 +28,5 @@ B1  F.T., P-Dap & Hazu –Get Live (Original Mix)
 B2  F.T., P-Dap & Hazu –Get Live (Instrumental)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m86496222032?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86496222032?afid=6142608987){: .button1}
 

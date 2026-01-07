@@ -19,7 +19,7 @@ title: Festgehaltene Entwicklung – 3 Jahre, 5 Monate und 2 Tage im Leben von
 Das Album enthält Hits wie die Grammy-prämierten Songs „Tennessee“, „People Everyday“ und „Mr. Wendal“. Diese Songs enthielten die charakteristischen Texte, Melodien und gefühlvollen Vocals von Arrested Development und vermittelten den Zuhörern positive Botschaften und ein Bewusstsein für soziale Themen.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Man's Final Frontier
 
@@ -52,7 +52,7 @@ B6. Tennessee
 B7. Washed Away
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m19892920898?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m19892920898?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GfxvsHpTZWk?si=EU30-Pxm4w5iKTU4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

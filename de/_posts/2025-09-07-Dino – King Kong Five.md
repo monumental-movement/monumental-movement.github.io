@@ -22,14 +22,14 @@ Dinos Version ist eine Neuinterpretation dieses Songs, House/Electro, der 2004 a
 
 B ist ein Remix von Andrea Doria, bekannt für „Bucci Bag“ (produziert von Dino Lenny).
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. King Kong Five (Extended Club Mix)
 
 B1. King Kong Five (Andrea Doria Remix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m44912772102?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44912772102?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A-hSab_0GIs?si=03-DcndMeVO71FfS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

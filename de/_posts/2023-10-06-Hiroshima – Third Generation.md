@@ -21,7 +21,7 @@ Das Album enthält die Songs „One Wish“, „Thousand Cranes“ und „Sandal
 
 „Third Generation“ erhielt großes Lob von Musikkritikern, die es als ein Werk lobten, das die Einzigartigkeit der Musik Hiroshimas und die ausgefeilte Aufführungstechnik demonstrierte. Das Album erhielt nicht nur Unterstützung von Jazz-Fusion-Enthusiasten, sondern auch von einem breiten Publikum.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Heavenly Angel
 
@@ -44,7 +44,7 @@ B4. Fifths
 B5. Sukoshi Bit
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m62115426122?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m62115426122?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uoqer1oN01s?si=Q0LxHA2LDHTj6stt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

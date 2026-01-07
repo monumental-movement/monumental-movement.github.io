@@ -16,7 +16,7 @@ title: Verschiedenes – Wire 01 Compilation
 „Wire 01 Compilation“ ist
 Dies ist eine Wire 01-Compilation-CD aus dem Jahr 2001.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Takkyu Ishino–Hyperspeed (Short)
 2. Jeff Mills–UFO
@@ -33,7 +33,7 @@ Dies ist eine Wire 01-Compilation-CD aus dem Jahr 2001.
 13. Monika Kruse @ Voodooamt–Route 27
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m98255564275?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m98255564275?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JNsAbKxUGcs?si=vPb3Qx4xHcOBX06J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

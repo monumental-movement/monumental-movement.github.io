@@ -20,51 +20,51 @@ Dschingis Khan zeichnet sich durch Lieder aus, die historische Persönlichkeiten
 Songs wie „Dschingis Khan“ und „Aim for Moscow“ wurden weltweit zu großen Hits.
 
 #### Trackliste
-„md
-A1. Machu Picchu
-Inka-Reich (Matchu Picchu)
+```md
+A1. Machu Picchu 
+インカ帝国（マッチュ・ピッチュ）
 
-A2. Hadschi Halef Omar
-Operation Hatch
+A2. Hadschi Halef Omar 
+ハッチ大作戦
 
-A3. Madagaskar
-Abschied von Madagaskar
+A3. Madagaskar 
+さらばマダガスカル
 
-A4. Kaspar Hauser
-Kaspar Hauser
+A4. Kaspar Hauser 
+カスパル・ハウザー
 
-A5. Mann und Frau
-Mann und Frau
+A5. Mann Und Frau 
+男と女
 
 A6. Die Fremden
-Nachricht aus dem Weltraum
+宇宙からのメッセージ
 
-A7. Moskau
-Ziel ist Moskau
+A7. Moskau 
+めざせモスクワ
 
-B1.Roma
-herrliches Rom
+B1. Roma
+栄光のローマ
 
 B2. Kontiki
-Abenteuer des Kon-Tiki
+コンチキ号の冒険
 
 B3. Tiger, Tiger
-wie ein Leopard
+女豹のように
 
 B4. Käpt'n Nemo
 キャプテン・ネモ
 
-B5.Sierra Nevada
-Sierra Nevada
+B5. Sierra Nevada
+シェラネバダ
 
-B6.Samurai
-Samurai
+B6. Samurai
+サムライ
 
 B7. Dschinghis Khan
-Dschingis Khan
-````
+ジンギスカン
+```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m50480268934?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m50480268934?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_WR4rNmy9mo?si=PwaouexbBOavPabb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

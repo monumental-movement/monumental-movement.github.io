@@ -21,7 +21,7 @@ Aphrohead ist der Pseudonym der Chicagoer House-Legende Felix Da Housecat der zw
 
 Der erste Titel auf Seite A und Seite B sind Remixe des britischen DJs und Produzenten für elektronische Tanzmusik Dave Clarke, bekannt als „Techno Baron“ (benannt nach John Peel).
 
-#### Tracklist
+#### Trackliste
 ```md
 Logo Side
 
@@ -34,7 +34,7 @@ B. In The Dark We Live (Dave Clarks 313 Mix)
 
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m60815233637?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m60815233637?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1xHa1OhEVgc?si=HxygP-FiynNRzY6Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

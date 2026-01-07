@@ -37,25 +37,26 @@ color: #fff;
 }
 </style>
 
+
 ### Hauptkünstler und ihre Solowerke/Zusammenarbeit
 
 #### João Gilberto
 
-- **Soloalbum**: ["Chega de Saudade" (1959)](https://amzn.to/3W7J1yt), ["O Amor, o Sorriso e a Flor" (1960)](https://amzn.to/4mXnymQ)
-- **Zusammenarbeit**: Kollaborationsalbum mit Stan Getz [„Getz/Gilberto“ (1964)](https://amzn.to/4nAx9Ry)
+- **ソロアルバム**: [『Chega de Saudade』（1959年）](https://amzn.to/3W7J1yt)、[『O Amor, o Sorriso e a Flor』（1960年）](https://amzn.to/4mXnymQ)
+- **コラボレーション**: スタン・ゲッツとの共演アルバム[『Getz/Gilberto』（1964年）](https://amzn.to/4nAx9Ry) 
 ---
 
 #### Antônio Carlos Jobim
 
 - **Soloalben**: „The Composer of Desafinado Plays“ (1963), „The Wonderful World of Antônio Carlos Jobim“ (1965)
-- **Zusammenarbeit**: Kollaborationsalbum mit Frank Sinatra [„Francis Albert Sinatra & Antônio Carlos Jobim“ (1967)](https://amzn.to/42jb1Te)
+- **コラボレーション**: フランク・シナトラとの共演アルバム[『Francis Albert Sinatra & Antônio Carlos Jobim』（1967年）](https://amzn.to/42jb1Te)
 
 ---
 
 #### Stan Getz
 
-- **Soloalbum**: [„Jazz Samba“ (1962)](https://amzn.to/4q0kjh9), „Big Band Bossa Nova“ (1962)
-- **Zusammenarbeit**: [„Getz/Gilberto“ (1964)](https://amzn.to/4nAx9Ry)
+- **ソロアルバム**: [『Jazz Samba』（1962年）](https://amzn.to/4q0kjh9)、『Big Band Bossa Nova』（1962年）
+- **コラボレーション**:[『Getz/Gilberto』（1964年）](https://amzn.to/4nAx9Ry) 
 
 ---
 
@@ -66,15 +67,16 @@ color: #fff;
 
 ---
 
+
 ### Eigenschaften, Anekdoten und Hintergrund jedes Künstlers
 
 #### João Gilberto
 
 **Geburtsjahr**: 10. Juni 1931 (Juazeiro, Bahia, Brasilien)
 
-**Eigenschaften**: Bekannt als der Gründer von Bossa Nova, ist er aufgrund seines einzigartigen Gitarrenspiels und seines bescheidenen Gesangsstils als „Gott des Bossa Nova“ bekannt.
+**Eigenschaften**: Bekannt als der Gründer von Bossa Nova, ist er aufgrund seines einzigartigen Gitarrenspiels und seines zurückhaltenden Gesangsstils als „Gott des Bossa Nova“ bekannt.
 
-**Anekdote**: Als der Toningenieur 1958 während der Produktion des Albums [Chega de Saudade](https://amzn.to/3W7J1yt) darauf hinwies, dass die Lautstärke seiner Gitarre zu niedrig sei, antwortete Gilberto: „Anstatt die Lautstärke der Gitarre zu erhöhen, senken Sie einfach die anderen Töne ab“, womit er seine musikalische Philosophie verkörperte.
+**逸話**: 1958年、アルバム[『Chega de Saudade』](https://amzn.to/3W7J1yt)の制作時、音響技師が彼のギターの音量が小さすぎると指摘した際、ジルベルトは「ギターの音量を上げるのではなく、他の音を下げれば良い」と返答し、彼の音楽哲学を体現しました。
 
 **Einfluss**: Sein Stil beeinflusste spätere Künstler stark und legte den Grundstein für Bossa Nova.
 
@@ -86,7 +88,7 @@ color: #fff;
 
 **Eigenschaften**: Als Pianist, Komponist und Arrangeur bekannt, war er für repräsentative Bossa-Nova-Lieder wie „The Girl from Ipanema“ und „Waves“ verantwortlich.
 
-**Anekdote**: Er verehrte Frank Sinatra als „Gott“ und träumte davon, mit ihm zusammenzuarbeiten. Tatsächlich wurde sein Traum 1967 wahr, als sie gemeinsam an dem Album [Francis Albert Sinatra & Antônio Carlos Jobim](https://amzn.to/42jb1Te) arbeiteten.
+**逸話**: 彼はフランク・シナトラを「神」と崇拝しており、シナトラとの共演を夢見ていました。実際、1967年にアルバム[『Francis Albert Sinatra & Antônio Carlos Jobim』](https://amzn.to/42jb1Te)で共演が実現し、彼の夢が叶いました。
 
 **Einfluss**: Jobims Kompositionen haben nicht nur Bossa Nova, sondern auch eine Vielzahl von Genres, darunter Jazz und Pop, beeinflusst.
 
@@ -98,7 +100,7 @@ color: #fff;
 
 **Eigenschaften**: Ein Jazz-Saxophonist, der als „Brücke zwischen Jazz und Bossa Nova“ bekannt ist und zur Verbreitung von Bossa Nova beigetragen hat.
 
-**Anekdote**: 1962 führte er Bossa Nova in Amerika ein, indem er zusammen mit João Gilberto auf dem Album [Jazz Samba](https://amzn.to/4q0kjh9) auftrat. Insbesondere ihre Darbietung von „The Girl from Ipanema“ wurde ein Riesenerfolg und führte zum weltweiten Boom des Bossa Nova.
+**逸話**: 1962年、アルバム[『Jazz Samba』](https://amzn.to/4q0kjh9)でジョアン・ジルベルトと共演し、ボサノバをアメリカに紹介しました。特に「イパネマの娘」の演奏は大ヒットとなり、ボサノバの世界的ブームを牽引しました。
 
 **Einfluss**: Getz‘ Spiel beeinflusste viele Musiker als Symbol der Verschmelzung von Bossa Nova und Jazz.
 
@@ -110,7 +112,7 @@ color: #fff;
 
 **Eigenschaften**: Als Pianist, Komponist und Arrangeur ist er einer der Schlüsselakteure bei der weltweiten Verbreitung brasilianischer Musik.
 
-**Anekdote**: Im Jahr 1966 war das Album „Herb Alpert Presents Sergio Mendes & Brasil'66“ von Sergio Mendes & Brasil'66 (https://amzn.to/4mR12fg) ein Riesenerfolg und entfachte die Popularität von Bossa Nova in Amerika neu.
+**逸話**: 1966年、セルジオ・メンデス & ブラジル'66のアルバム[『Herb Alpert Presents Sergio Mendes & Brasil'66』](https://amzn.to/4mR12fg)が大ヒットし、アメリカでのボサノバ人気を再燃させました。
 
 **Einfluss**: Mendes‘ Arrangements verbanden erfolgreich Pop und brasilianische Musik und hatten großen Einfluss auf spätere Künstler.
 
@@ -121,11 +123,11 @@ color: #fff;
 
 | Jahr | Album | Kommentar | Link |
 |----|----------|------|--------------|
-| 1959 | Chega de Saudade | Ein historisches Meisterwerk, das die Geburt des Bossa Nova symbolisiert. Seine bescheidene Singstimme und sein einzigartiger Gitarrenspielstil erregten Aufmerksamkeit und er leitete eine neue Ära der brasilianischen Musik ein. | [Amazon](https://amzn.to/3W7J1yt) |
-| 1960 | O Amor, o Sorriso und Flor | Ein an das Vorgängerwerk anknüpfendes Meisterwerk, geprägt von sanften Rhythmen und intimem Gesang. Ein Stück, das die Harmonie zwischen Gilbertos Gitarrenarbeit und Gesang hervorhebt. | [Amazon](https://amzn.to/4mXnymQ) |
-| 1961 | João Gilberto | Ein Album, das Gilbertos einzigartigen Bossa-Nova-Stil begründete. Das zarte und minimalistische Arrangement hauchte der Musikwelt neues Leben ein. | [Amazon](https://amzn.to/46z7Jh7) |
-| 1964 | Getz/Gilberto (zusammen mit Stan Getz) | Eine bahnbrechende Arbeit, die Bossa Nova auf dem amerikanischen Markt populär machte. Der anspruchsvolle Jazz-Bossa, der durch die Fusion von Joan und Stan Getz entsteht, ist attraktiv. | [Amazon](https://amzn.to/4nAx9Ry) |
-| 1973 | João Gilberto (Warner) | Ein Werk, das einen Eindruck vom Erwachsenwerden Gilbertos vermittelt. Die tiefgründige Welt des Bossa Nova mit ruhigen Arrangements und lyrischen Gesangsstimmen zum Ausdruck bringen. | [Amazon](https://amzn.to/4gQqHTL) |
+| 1959 | Chega de Saudade | ボサノバの誕生を象徴する歴史的名盤。控えめな歌声と独自のギター奏法が注目され、ブラジル音楽の新時代を切り開いた。 | [Amazon](https://amzn.to/3W7J1yt) |
+| 1960 | O Amor, o Sorriso e a Flor | 前作に続く名作で、柔らかいリズムと親密な歌唱が特徴。ジルベルトのギターワークとボーカルの調和が光る一枚。 | [Amazon](https://amzn.to/4mXnymQ) |
+| 1961 | João Gilberto | ジルベルト独自のボサノバ・スタイルを確立したアルバム。繊細でミニマルなアレンジが音楽界に新風を吹き込んだ。 | [Amazon](https://amzn.to/46z7Jh7) |
+| 1964 | Getz/Gilberto (Stan Getzとの共演) | アメリカ市場にボサノバを広めた画期的作品。ジョアンとスタン・ゲッツの融合が生み出す洗練されたジャズボサが魅力。 | [Amazon](https://amzn.to/4nAx9Ry) |
+| 1973 | João Gilberto (Warner) | ジルベルトの成熟期を感じさせる作品。静謐なアレンジとリリカルな歌声で、ボサノバの深遠な世界を表現。 | [Amazon](https://amzn.to/4gQqHTL) |
 
 ---
 
@@ -133,11 +135,11 @@ color: #fff;
 
 | Jahr | Album | Kommentar | Link |
 |----|----------|------|--------------|
-| 1963 | Der Komponist von Desafinado Plays | Präsentiert anspruchsvolle Bossa-Nova-Akkordfolgen und Melodien mit Schwerpunkt auf „Desafinado“. Ein frühes Meisterwerk, das Jobims kompositorisches Können zeigt. | [Amazon](https://amzn.to/3VJM1AP) |
-| 1965 | Die wunderbare Welt von Antônio Carlos Jobim | Arrangements rund um das Klavier, die Jazzelemente mit brasilianischer Musik verschmelzen. Ein Album, das internationale Anerkennung fand. | [Amazon](https://amzn.to/46zbymt) |
-| 1967 | Francis Albert Sinatra & Antônio Carlos Jobim | Eine Zusammenarbeit mit Sinatra. Es verbreitete den Reiz des Bossa Nova bei amerikanischen Zuhörern und enthielt das berühmte Lied „The Girl from Ipanema“. | [Amazon](https://amzn.to/42jb1Te) |
-| 1970 | Steinblume | Eine experimentelle Arbeit, die einen eher fusionsähnlichen Versuch einleitet. Entdecken Sie neue Harmonien mit Gitarre und Percussion. | [Amazon](https://amzn.to/46ByhhP) |
-| 1987 | Terra Brasilis | Werke aus den späteren Phasen seiner Karriere, die brasilianische Musiktraditionen mit modernen Sensibilitäten verbinden. Gekennzeichnet durch reichhaltige Orchestrierung. | [Amazon](https://amzn.to/46OIbLT) |
+| 1963 | The Composer of Desafinado Plays | 「デサフィナード」を中心にボサノバの洗練されたコード進行とメロディを提示。ジョビンの作曲力が光る初期代表作。 | [Amazon](https://amzn.to/3VJM1AP) |
+| 1965 | The Wonderful World of Antônio Carlos Jobim | ピアノを中心にしたアレンジで、ジャズ的要素とブラジル音楽を融合。国際的評価を高めたアルバム。 | [Amazon](https://amzn.to/46zbymt) |
+| 1967 | Francis Albert Sinatra & Antônio Carlos Jobim | シナトラとの共演作品。アメリカのリスナーにボサノバの魅力を広め、名曲「イパネマの娘」も収録。 | [Amazon](https://amzn.to/42jb1Te) |
+| 1970 | Stone Flower | よりフュージョン的な試みを導入した実験作。ギターやパーカッションとの新しいハーモニーを模索。 | [Amazon](https://amzn.to/46ByhhP) |
+| 1987 | Terra Brasilis | キャリア晩期の作品で、ブラジル音楽の伝統と現代感覚を融合。豊かなオーケストレーションが特徴。 | [Amazon](https://amzn.to/46OIbLT) |
 
 ---
 
@@ -145,11 +147,11 @@ color: #fff;
 
 | Jahr | Album | Kommentar | Link |
 |----|----------|------|--------------|
-| 1962 | Jazz-Samba | Ein Meisterwerk, das den Bossa Nova in den Jazz einführte. Für seine Fusion aus leichtem Saxophon und brasilianischem Rhythmus erhielt er international großes Lob. | [Amazon](https://amzn.to/4q0kjh9) |
-| 1962 | Big Band Bossa Nova | Bossa Nova mit einer Big Band zum Ausdruck bringen. Das wunderschöne Arrangement und das raffinierte Saxofon sind beeindruckend. | [Amazon](https://amzn.to/487UWmZ) |
-| 1964 | Getz/Gilberto (zusammen mit João Gilberto) | Entfachte den weltweiten Bossa-Nova-Boom. Es enthielt den Hit „The Girl from Ipanema“ und gewann einen Grammy Award. | [Amazon](https://amzn.to/4nAx9Ry) |
-| 1965 | Getz/Gilberto #2 | Eine Fortsetzung des Erfolgs seines Vorgängers. Er erweiterte das Spektrum des Bossa Nova um einen eher jazzorientierten Ansatz. | [Amazon](https://amzn.to/473qVDP) |
-| 1977 | Das Beste aus zwei Welten | Wiederzusammenarbeit mit Gilberto. Ein attraktiver Höhepunkt reifer Darbietungen und inniger Interaktion. | [Amazon](https://amzn.to/476oikB) |
+| 1962 | Jazz Samba | ボサノバをジャズに導入した名盤。軽快なサックスとブラジルリズムの融合で、国際的に高く評価された。 | [Amazon](https://amzn.to/4q0kjh9) |
+| 1962 | Big Band Bossa Nova | ビッグバンド編成でボサノバを表現。豪華なアレンジと洗練されたサックスが印象的。 | [Amazon](https://amzn.to/487UWmZ) |
+| 1964 | Getz/Gilberto (João Gilbertoとの共演) | ボサノバ世界ブームの火付け役。ヒット曲「イパネマの娘」が収録され、グラミー賞も受賞。 | [Amazon](https://amzn.to/4nAx9Ry)  |
+| 1965 | Getz/Gilberto #2 | 前作の成功を受けた続編。よりジャズ寄りのアプローチでボサノバの幅を広げた。 | [Amazon](https://amzn.to/473qVDP) |
+| 1977 | The Best of Two Worlds | ジルベルトとの再共演盤。成熟した演奏と親密なインタープレイが魅力の集大成。 | [Amazon](https://amzn.to/476oikB) |
 
 ---
 
@@ -157,11 +159,11 @@ color: #fff;
 
 | Jahr | Album | Kommentar | Link |
 |----|----------|------|--------------|
-| 1966 | Herb Alpert präsentiert Sérgio Mendes & Brasil '66 | Produziert für den amerikanischen Markt und enthält den Hit „Mas Que Nada“. Ein Meisterwerk, das brasilianische Musik auf der ganzen Welt verbreitete. | [Amazon](https://amzn.to/4mR12fg) |
-| 1968 | Schauen Sie sich um | Weitere Förderung der Fusion von Pop und Bossa Nova. Das eingängige und raffinierte Arrangement ist beliebt. | [Amazon](https://amzn.to/4mNhxca) |
-| 1969 | Narr auf dem Hügel | Beatles-Songs im Bossa-Nova-Stil arrangiert. Ein Album, das mit Genre-übergreifendem Experimentalismus glänzt. | [Amazon](https://amzn.to/4mIItdb) |
-| 1971 | Stille | Dies ist ein Album mit einer ruhigen Atmosphäre und die Schönheit des Arrangements und des Refrains sticht hervor. | [Amazon](https://amzn.to/433P2Qj) |
-| 1983 | Konfetti | Ein spätes Karrierewerk, das die Klänge der 80er Jahre und brasilianische Musik vereint. Gekennzeichnet durch leichten Rhythmus und modernes Arrangement. | [Amazon](https://amzn.to/4o58hRH) |
+| 1966 | Herb Alpert Presents Sérgio Mendes & Brasil '66 | アメリカ市場向けに制作され、ヒット曲「Mas Que Nada」を収録。ブラジル音楽を世界に広めた代表作。 | [Amazon](https://amzn.to/4mR12fg) |
+| 1968 | Look Around | ポップスとボサノバの融合をさらに推進。キャッチーで洗練されたアレンジが人気。 | [Amazon](https://amzn.to/4mNhxca) |
+| 1969 | Fool on the Hill | ビートルズ曲をボサノバ風にアレンジ。ジャンルを越えた実験性が光るアルバム。 | [Amazon](https://amzn.to/4mIItdb) |
+| 1971 | Stillness | 落ち着いた雰囲気のアルバムで、アレンジやコーラスの美しさが際立つ。 | [Amazon](https://amzn.to/433P2Qj) |
+| 1983 | Confetti | キャリア後期の作品で、80年代のサウンドとブラジル音楽を融合。軽快なリズムとモダンアレンジが特徴。 | [Amazon](https://amzn.to/4o58hRH) |
 
 
 ---
@@ -199,6 +201,7 @@ flowchart TD
 
 ---
 
+
 ## Der Einfluss von Bossa Nova und sein Erbe bis heute
 
 Bossa Nova hat verschiedene Genres wie Jazz, Pop und klassische Musik beeinflusst und einen großen Einfluss auf die moderne Musikszene gehabt. In den letzten Jahren haben Künstler Songs geschaffen, die Elemente des Bossa Nova enthalten, und eine Fusion, die Genregrenzen überschreitet, schreitet voran.
@@ -207,9 +210,9 @@ Bossa Nova hat verschiedene Genres wie Jazz, Pop und klassische Musik beeinfluss
 
 ## Zusammenfassung
 
-Bossa Nova ist ein seltenes Genre, das Ende der 1950er Jahre in einer Wohnung in Rio de Janeiro begann und die musikalische Weltkarte neu geschrieben hat. João Gilbertos flüsternde Gitarre und Stimme, Antonio Carlos Jobims anspruchsvolle Kompositionen, Stan Getz' Jazz-Interpretation und Sergio Mendes' Pop-Internationalismus. Obwohl ihre individuellen Persönlichkeiten und Aktivitäten unabhängig voneinander sind, sind sie organisch miteinander verbunden und werden im Laufe der Jahrhunderte weiterhin gehört.
+Bossa Nova ist ein seltenes Genre, das Ende der 1950er Jahre in einer Wohnung in Rio de Janeiro begann und die musikalische Weltkarte neu geschrieben hat. João Gilbertos flüsternde Gitarre und Stimme, Antonio Carlos Jobims anspruchsvolle Kompositionen, Stan Getz' Jazz-Interpretation und Sergio Mendes' Pop-Internationalisierung. Obwohl ihre individuellen Persönlichkeiten und Aktivitäten unabhängig sind, sind sie organisch miteinander verbunden und werden im Laufe der Jahrhunderte weiterhin gehört.
 
-Auch heute noch ist das Wort „Bossa Nova“ mehr als nur ein Musikgenre und fungiert als Symbol für „brasilianische Kultur“ und eine „entspannte Atmosphäre“. Durch digitale Plattformen wie Spotify und YouTube wird es von der jüngeren Generation frisch aufgenommen und taucht häufig in KI-Empfehlungen und Playlists auf.
+Auch heute noch geht das Wort „Bossa Nova“ über eine reine Musikgenre hinaus und fungiert als Symbol für „brasilianische Kultur“ und eine „entspannte Atmosphäre“. Durch digitale Plattformen wie Spotify und YouTube wird es von der jüngeren Generation frisch aufgenommen und taucht häufig in KI-Empfehlungen und Playlists auf.
 
 Der Charme von Bossa Nova liegt in seiner einzigartigen Musikalität, die die Freiheit des Jazz, den Rhythmus des Samba und den Sinn für Harmonie klassischer Musik vereint. Betrachtet man seine Geschichte, so spiegeln sich darüber hinaus auch gesellschaftliche Hintergründe wie der internationale Kulturaustausch während des Kalten Krieges, die Urbanisierung in Brasilien und die Interaktion mit dem amerikanischen Musikmarkt wider.
 
@@ -219,4 +222,4 @@ Indem Sie Alben und Diskographie verfolgen und Anekdoten aus der Zeit und dem Le
 
 ### Verwandte Spalten
 
-🔗 [[Kolumne] Das moderne Brasilien im Spiegel von Bossa Nova: die Schnittstelle von Musik, Architektur, Technologie und Mode](https://monumental-movement.jp/Column-Bossa-Nova2)
+🔗 [【コラム】 ボサノバが映し出したモダン・ブラジル：音楽・建築・テクノロジー・ファッションの交差点](https://monumental-movement.jp/Column-Bossa-Nova2)

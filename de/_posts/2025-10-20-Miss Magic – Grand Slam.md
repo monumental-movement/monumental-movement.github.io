@@ -15,15 +15,15 @@ title: Miss Magic – Grand Slam
 ---
 
 
-Der Komponist und Produzent ist The Full SP, eine Gruppe bestehend aus den britischen Drum-n-Bass-Künstlern James Hoyte, auch bekannt als Sponge, und Pascal Redpath, bekannt für das Meisterwerk „The Crash“ von 1994.
+Der Komponist und Produzent ist The Full SP, eine Gruppe bestehend aus den britischen Drum-n-Bass-Künstlern James Hoyte, auch bekannt als Sponge, und Pascal Redpath, bekannt für ihr Meisterwerk „The Crash“ aus dem Jahr 1994.
 
 „Grand Slam“ ist ein Trance/Hard Trance/Hard House-Song, der im Jahr 2000 von Chris Hampshires Label Interflow Sounds veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Grand Slam (Tuff Mix)
 
 B. Grand Slam (Unreal Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m70013866397?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70013866397?afid=6142608987){: .button1}

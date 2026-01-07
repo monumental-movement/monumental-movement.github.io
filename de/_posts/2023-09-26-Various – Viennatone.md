@@ -16,7 +16,7 @@ title: Verschiedenes – Viennatone
 „Various – Viennatone“ lautet
 Dies ist ein Werk, das 1999 von !k7 Records in Deutschland veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Count Basic–Gotta Jazz
 
@@ -41,7 +41,7 @@ Dies ist ein Werk, das 1999 von !k7 Records in Deutschland veröffentlicht wurde
 11. Puck Dannin–Family Affair
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m83184827201?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m83184827201?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UgOdCoAjEWE?si=fl1__B3nErk6T2jb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

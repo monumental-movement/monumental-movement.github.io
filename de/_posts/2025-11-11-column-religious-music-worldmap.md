@@ -11,14 +11,15 @@ tags:
 - Healing
 - History
 title: '[Kolumne] Religiöse Musik auf der ganzen Welt und ihre psychologischen und
-  sozialen Auswirkungen – Die Geschichte von Musik und Gebet, erklärt durch Illustrationen
-  und Zeitleisten –'
+  sozialen Auswirkungen – Die Geschichte der Musik und des Gebets, erklärt anhand
+  von Illustrationen und Zeitleisten –'
 ---
 
 
-## Prolog: Die Universalität von Musik und Religion
+## Prolog: Universalität von Musik und Religion
 
-Text: mmr｜Thema: Vergleich religiöser Musik aus der ganzen Welt aus der Perspektive von Geschichte, Psychologie und physiologischen Wirkungen und deren Verständnis anhand von Illustrationen
+
+Text: mmr｜Thema: Vergleichen Sie religiöse Musik aus der ganzen Welt aus der Perspektive der Geschichte, Psychologie und physiologischen Wirkungen und verstehen Sie sie anhand von Illustrationen
 
 Musik ist ein universelles Element, das religiöse Rituale, Gebete und Meditation unterstützt.
 Von alten Gesängen bis hin zu moderner Heilmusik haben Klänge, Rhythmen und Stimmen einen tiefgreifenden Einfluss auf den menschlichen Geist und Körper gehabt.
@@ -42,6 +43,7 @@ color: #fff;
 }
 </style>
 
+
 ## Hinduistische Musik: der Klang des Universums „Nada Brahma“
 
 * **Hauptformen**: Mantras, Bhajans, Ragas
@@ -50,8 +52,8 @@ color: #fff;
 * **Psychologische Wirkung**:
 
 * Langes Singen → **Induziert einen meditativen Zustand**
-  * Wiederholter Rhythmus → **Stressabbau**
-  * Gruppengesang → **Soziale Harmonie**
+* Wiederholter Rhythmus → **Stressabbau**
+* Gruppengesang → **Soziale Harmonie**
 
 
 
@@ -64,7 +66,8 @@ color: #fff;
 * **Psychologische Wirkung**:
 
 * Alpha-Wellen-Anstieg → **Tiefenentspannung**
-  * Atmung und Gesang sind synchronisiert → **Stabilität des autonomen Nervensystems**
+* Atmung und Gesang sind synchronisiert → **Stabilität des autonomen Nervensystems**
+
 
 | Effekte | Physiologische Wirkungen |
 |------|-------------|
@@ -80,13 +83,13 @@ color: #fff;
 * **Ikonische Werke**:
 
 * *Gesang* (Benediktinerorden)
-  * Mahalia Jackson『Take My Hand, Precious Lord』
+* Mahalia Jackson『Take My Hand, Precious Lord』
 
 * **Psychologische Wirkung**:
 
 * **Harmony stabilisiert die Herzfrequenz**
-  * **Nachhall des Kirchenraums** verstärkt das Gefühl der Erleichterung
-  * Teilnahme am Chor → **Gemeinsamer Aufschwung** durch das Teilen von Emotionen**
+* **Nachhall des Kirchenraums** verstärkt das Gefühl der Erleichterung
+* Teilnahme am Chor → **Gemeinsamer Aufschwung** durch das Teilen von Emotionen**
 
 ---
 
@@ -97,7 +100,7 @@ color: #fff;
 * **Psychologische Wirkung**:
 
 * Atemrhythmus und Melodie synchronisieren sich und gelangen in einen **Trancezustand**
-  * **Zeitlicher Reset-Effekt** aufgrund von Adhan
+* **Zeitlicher Reset-Effekt** aufgrund von Adhan
 
 ---
 
@@ -108,7 +111,7 @@ color: #fff;
 * **Psychologische Wirkung**:
 
 * Weckt das emotionale Gedächtnis **Erhöht die Gebetskonzentration**
-  * Musik fordert zur **Bestätigung von Geschichte und Identität**
+* Musik fordert zur **Bestätigung von Geschichte und Identität**
 
 ---
 
@@ -118,8 +121,8 @@ color: #fff;
 * **Psychologische Wirkung**:
 
 * **Körperresonanz/Herzschlagsynchronisation basierend auf Rhythmus**
-  * Gruppenleistungen stärken den **sozialen Zusammenhalt**
-  * Löst wiederholt **ekstatischen Zustand (Trance)** aus
+* Gruppenleistungen stärken den **sozialen Zusammenhalt**
+* Löst wiederholt **ekstatischen Zustand (Trance)** aus
 
 ---
 
@@ -211,7 +214,7 @@ timeline
 Religiöse Musik berührt den menschlichen Geist zutiefst und sorgt für **Harmonie zwischen Körper, Geist und Gesellschaft**.
 Von alten Mantras bis hin zu moderner Ambient-Musik ist das zugrunde liegende Thema ein transzendentales Erlebnis durch Klang.
 
-Auch wenn sich die Religionen ändern, weist die Kraft des Klangs in die gleiche Richtung.
+Auch wenn sich die Religionen ändern, bleibt die Kraft des Klangs in derselben Richtung.
 Es ist der **universelle Gebetsrhythmus**.
 
 ---

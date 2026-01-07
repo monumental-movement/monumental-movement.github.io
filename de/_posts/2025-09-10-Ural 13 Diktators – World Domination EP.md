@@ -22,7 +22,7 @@ Ural 13 Diktators sind ein Duo aus Helsinki, das 1997 von Lauri Kasti und Lupu P
 B2 ist ein Remix des finnischen Techno-Projekts Kosmonaut.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. World Domination
 A2. Join The Party
@@ -31,7 +31,7 @@ B1. Moscow Nights (Original)
 B2. Moscow Nights (Kosmonaut Remix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m59814015874?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m59814015874?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s6uoCGPbTXM?si=fKn2tTd6Nv1R6NFV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

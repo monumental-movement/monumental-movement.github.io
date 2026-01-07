@@ -21,7 +21,7 @@ title: Audio aktiv – Return Of The Red I
 
 „Jah Army“ – Ein Song, der Dub und elektronische Musik mit starkem Bass und rhythmischem Beat kombiniert. Es enthält auch Texte mit einer starken Botschaft.
 
-#### Tracklist
+#### Trackliste
 ```md
 1.Return Of The Red I
 
@@ -50,7 +50,7 @@ title: Audio aktiv – Return Of The Red I
 11.3. Untitled
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m49892584045?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m49892584045?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9i5YtgsvHE0?si=TEF29L0Km600uZqr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

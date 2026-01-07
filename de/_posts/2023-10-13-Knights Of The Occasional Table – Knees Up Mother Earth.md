@@ -17,7 +17,7 @@ Knights Of The Occasional Table sind eine elektronische Band aus dem Südosten L
 
 Als dieses Album 1993 veröffentlicht wurde, war es in John Peels Peel Sessions zu hören.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Choose
 2. Amoeba
@@ -33,7 +33,7 @@ Als dieses Album 1993 veröffentlicht wurde, war es in John Peels Peel Sessions 
 12. Untitled
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m58886170453?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m58886170453?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7pThiipHyV4?si=vefBvJJxQ_coKU8n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

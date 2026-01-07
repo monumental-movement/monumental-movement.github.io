@@ -18,7 +18,7 @@ Die Musik von Orlando Voorn zeichnet sich durch eine Mischung verschiedener Elem
 
 Seite A ist ein Remix von Samuel L Session.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Play It Loud (SLS Mix)
 
@@ -33,7 +33,7 @@ D1. Play It Loud (Original Mix)
 D2. Play It Loud (Baruka Have A Break Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m27275378332?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m27275378332?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/krYUQVtZJx0?si=nD4MmJf7E3DkFBsC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

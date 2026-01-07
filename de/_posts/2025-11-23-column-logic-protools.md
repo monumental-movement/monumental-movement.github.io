@@ -18,9 +18,11 @@ title: '[Kolumne] Sechs Unternehmen, die die DAW-Geschichte geprägt haben: Appl
 
 ## Prolog: Die Entwicklung von DAW ist eine Geschichte, die durch die Strategien und technologischen Innovationen von sechs Unternehmen entstanden ist
 
+
 Text: mmr｜Thema: Geschichte der Logic/Pro Tools/Steinberg/MOTU/Adobe DAW-Technologie
 
-Das zentrale Werkzeug zur Musikproduktion ist ab 2025 fast ausnahmslos eine DAW (Digital Audio Workstation).
+
+Das zentrale Werkzeug für die Musikproduktion ist ab 2025 fast ausnahmslos eine DAW (Digital Audio Workstation).
 Der Weg der Branche zu ihrer heutigen Form war jedoch nicht einfach. Das Unternehmen blickt auf eine komplexe Geschichte zurück, die sich über mehr als 40 Jahre mit **Unternehmensübernahmen**, der **Erfindung von Technologiestandards**, der **Integration von Hardware und Software** und der **Verknüpfung von Video und Rundfunk** erstreckt.
 
 Folgende sechs Unternehmen prägten das Gesamtbild:
@@ -49,6 +51,7 @@ background-color: #111;
 color: #fff;
 }
 </style>
+
 
 ## 1. 1980er Jahre: Die Ära der Sequenzer und die „vier Unternehmen, die damit begonnen haben“
 
@@ -91,13 +94,13 @@ Die von Pro Tools eingeführte nichtlineare Bearbeitung entsprach nicht mehr dem
 
 ### ■ Steinbergs Transformation: Cubase Audio (1992)
 
-* MIDI- und Audio-Integration
+*MIDI- und Audio-Integration
 * Damals innovative Bearbeitungsfunktionen
 * **VST 1.0** wurde 1996 eingeführt und hatte einen der größten Einfluss in der DAW-Geschichte.
 
 In diesem Moment begann eine Kultur der Software-Akzeptanz externer Plugins.
 
-### ■ emagic Logic 1.0（1993）
+### ■ emagic Logic 1.0 (1993)
 
 * Migration von Atari auf Mac/Windows
 * Ausgestattet mit einer einzigartigen „Umgebungs“-Funktion
@@ -119,9 +122,9 @@ Im Jahr 1996 kam es zum größten Wendepunkt in der DAW-Geschichte.
 * Eine Kultur geschaffen, in der Tonquellen und Effekte auf einem PC laufen
 
 VST wurde später zu Apple AU, Digidesign RTAS/AAX, Propellerhead Rack Extensions usw.
-Es ist der „Vorfahre“ aller Plug-In-Standards.
+Es ist der „Vorfahre“ aller Plug-in-Standards.
 
-### ■ MOTU: Verbessern Sie die Videosynchronisierung mit Digital Performer 2.0
+### ■ MOTU: Verbesserte Videosynchronisierung mit Digital Performer 2.0
 
 In dieser Zeit begannen Hollywood-Komponisten, DP zu verwenden.
 Insbesondere die **SMPTE-Synchronisation und die Bearbeitungsgenauigkeit der Tempo-Map** wurden hoch gelobt.
@@ -187,14 +190,14 @@ Auch nach der Übernahme bleibt die Ausrichtung unverändert und die technologis
 ### ■ MOTU: Als Standard für Film- und Fernsehkomponisten etabliert
 
 * Die Genauigkeit der Videosynchronisation hat sich in der DP5/6-Ära weiter erhöht
-* Da es nur für Mac geeignet ist, ist es mit Videosystemen kompatibel.
+* Da es nur für den Mac geeignet ist, ist es mit Videosystemen kompatibel.
 * Wird häufig von Musikkomponisten verwendet, die häufig Soft-Synthesizer verwenden
 
 ### ■ Adobe: Cool Edit → Broadcast-Bearbeitung mit Audition integrieren
 
 Nach der Übernahme werden wir uns auf die Zusammenarbeit mit Premiere konzentrieren.
 
-* Videoeditoren können den Ton direkt anpassen
+* Video-Editoren können den Ton direkt anpassen
 * Werden Sie zum Standard bei Radiosendern und Podcasts
 * Es handelt sich eher um ein „Bearbeitungswerkzeug“ als um eine Mixer-/Kompositions-DAW
 
@@ -207,7 +210,7 @@ Hier ist der DAW-Markt
 
 In dieser Zeit wurden DAWs mit **CPU-abhängiger nativer Verarbeitung** zum Mainstream.
 
-### ■ Apple：Logic Pro X（2013）
+### ■ Apple: Logic Pro X (2013)
 
 * Überarbeitung der Benutzeroberfläche
 * Große Anzahl leiser Schallquellen
@@ -223,10 +226,10 @@ In dieser Zeit wurden DAWs mit **CPU-abhängiger nativer Verarbeitung** zum Main
 ### ■ Steinberg, MOTU und Adobe werden ebenfalls weiterhin aktualisiert
 
 *Steinberg hat seine VST3-Engine aktualisiert.
-* MOTU geht mit DP9/10 in den modernen Workflow über
+*MOTU geht mit DP9/10 in den modernen Workflow über
 * Die Marktdurchdringung von Adobe Audition ist auf die steigende Nachfrage nach Podcasts zurückzuführen
 
-Zu diesem Zeitpunkt war das Wort „DAW“ völlig gebräuchlich,
+Zu diesem Zeitpunkt war das Wort „DAW“ völlig populär.
 In Verbindung mit der Ausweitung der Homerecording-Kultur wird der Gesamtmarkt schnell wachsen.
 
 ---
@@ -313,7 +316,7 @@ MOTU beherrscht die **Videosynchronisation**,
 Adobe hat mit der **Integration in Rundfunk und Videobearbeitung** einen eigenen Markt geschaffen.
 
 Obwohl die sechs Unternehmen miteinander konkurrieren,
-Dadurch haben sie gemeinsam die „Kultur der Musikproduktion selbst“ geprägt.
+Dadurch haben sie gemeinsam die Kultur der Musikproduktion geprägt.
 
 Nach 2025 KI-Bearbeitung, Cloud-Kollaboration, Ausbau der mobilen Produktion usw.
 Die Zukunft von DAWs wird eine neue Dimension annehmen.

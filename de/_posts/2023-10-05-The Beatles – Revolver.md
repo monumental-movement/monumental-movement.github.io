@@ -17,7 +17,7 @@ Ein bemerkenswertes Lied auf „Revolver“ ist „Eleanor Rigby“. Dieses herz
 
 Auf dem Album gibt es ein weiteres Lied namens „Taxman“. Dieses Lied wurde von George Harrison geschrieben und enthält Kritik am damaligen Hochsteuersystem in Großbritannien. „Yellow Submarine“ ist ein weiterer beliebter Titel.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Good Day Sunshine
 
@@ -49,7 +49,7 @@ B6. She Said She Said
 B7. Tomorrow Never Knows
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m23104265912?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23104265912?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TN-Imp3N3dM?si=mH3akE4hD8PxGquP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

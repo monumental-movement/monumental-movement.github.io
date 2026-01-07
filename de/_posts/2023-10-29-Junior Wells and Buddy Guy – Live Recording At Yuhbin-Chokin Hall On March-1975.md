@@ -22,7 +22,7 @@ Sowohl Buddy als auch Junior stellen ihre Führungsqualitäten unter Beweis und 
 Dieses 2-LP-Set ist ein Muss für Blues-Fans.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Let Me love You, Baby
 
@@ -63,7 +63,7 @@ D4. Waterman Blues (Instrumental)
 D5. Messin' With The Kid
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m61574554178?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61574554178?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZdBIFuNbhqU?si=UiU10_aC8rWVGJLj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -19,7 +19,7 @@ Angel Aguilar, auch bekannt als 8-Off, ist ein Hip-Hop-MC/Produzent mit Sitz in 
 
 Sowohl A als auch B zeigen Mr. Cheeks, ein ehemaliges Mitglied von Lost Boyz und bekannt für „Licht, Kamera, Action! mit Missy Elliott, P. Diddy und Petey Pablo“.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Alize For Dolo (LP Version) (Dirty)
 A2. Alize For Dolo (Remix) (Long Version) (Dirty)
@@ -31,7 +31,7 @@ B3. Alize For Dolo (LP Version) (Acappella)
 B4. Alize For Dolo (Remix) (Acappella)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m31835629494?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31835629494?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8EvGTvEIPIM?si=8KXH5Mm2v8sUQFyR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

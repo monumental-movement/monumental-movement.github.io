@@ -18,7 +18,9 @@ title: '[Kolumne] Kronos Quartett: Die Entwicklung eines Streichquartetts, das w
 
 ## 1. Einführung
 
+
 Text: mmr｜Thema: Aufführungsstile, die nicht an den traditionellen Rahmen der klassischen Musik und deren Entwicklung gebunden sind
+
 
 Das Kronos Quartet ist ein Streichquartett, das 1973 in San Francisco gegründet wurde. Die Gründungsmitglieder waren klassisch ausgebildete Musiker, darunter David Harris (Violine), John Schneider (Viola) und Hank Douglas (Cello).
 
@@ -41,6 +43,7 @@ color: #fff;
 }
 </style>
 
+
 ## 2. Von der Ausbildung zu frühen Aktivitäten (1973–1980er Jahre)
 
 Seit seiner Gründung in San Francisco erforscht das Kronos Quartett einen Aufführungsstil außerhalb des traditionellen Rahmens der klassischen Musik. Gründer David Harris studierte klassische Musik an der University of California in Berkeley und wurde dann in der Musikszene von San Francisco aktiv, wo er mit gleichgesinnten Freunden ein Quartett gründete.
@@ -56,9 +59,9 @@ Das frühe Repertoire umfasste neben barocken und klassischen Werken auch neue W
 
 ## 3. Herausforderung an die moderne Musik (1980er–1990er)
 
-In den 1980er Jahren wurde das Kronos Quartett zu einem wichtigen Vertreter der zeitgenössischen amerikanischen Musik. Das Kronos Quartett begann mit Meistern der zeitgenössischen Musik wie Philip Glass, Steve Reich und Terry Riley zusammenzuarbeiten und erlangte durch die Aufführung und Aufnahme ihrer Werke weltweite Anerkennung.
+In den 1980er Jahren wurde das Kronos Quartett zu einer wichtigen Präsenz in der amerikanischen Welt der zeitgenössischen Musik. Das Kronos Quartett begann mit Meistern der zeitgenössischen Musik wie Philip Glass, Steve Reich und Terry Riley zusammenzuarbeiten und erlangte durch die Aufführung und Aufnahme ihrer Werke weltweite Anerkennung.
 
-Diese Zeit war geprägt von **Innovationen in der Aufführungstechnik**. Zusätzlich zu den traditionellen Spieltechniken für Streichinstrumente hat die Studioarbeit zugenommen, wobei Elektronik zum Einsatz kam, Rhythmen und Tonleitern aus nicht-westlicher Musik eingeführt wurden und Sampling und Mehrspuraufnahmen voll ausgeschöpft wurden.
+Diese Zeit war geprägt von **Innovationen in der Aufführungstechnik**. Zusätzlich zu den traditionellen Spieltechniken für Saiteninstrumente hat die Studioarbeit zugenommen, wobei Elektronik zum Einsatz kam, nicht-westliche Rhythmen und Tonleitern eingeführt wurden und Sampling und Mehrspuraufnahmen voll ausgeschöpft wurden.
 
 ### Wichtige Alben (Zeitgenössische Musik)
 
@@ -69,7 +72,7 @@ Diese Zeit war geprägt von **Innovationen in der Aufführungstechnik**. Zusätz
 
 ## 4. Genreübergreifend/Crossover (1990er–2000er)
 
-Von den 1990er bis 2000er Jahren begann das Kronos Quartett, die Grenzen der klassischen Musik zu überschreiten und sich mit Genres wie Weltmusik, Pop, Filmmusik und Jazz zu vermischen.
+Von den 1990er bis 2000er Jahren begann das Kronos Quartett, über die Grenzen der klassischen Musik hinauszugehen und sich mit Genres wie Weltmusik, Pop, Filmmusik und Jazz zu vermischen.
 
 Besonders hervorzuheben sind Innovationen in der Filmmusik mit dem im Jahr 2000 veröffentlichten Film „Requiem for a Dream“. Komponiert von Clint Mansell, aufgeführt vom Kronos Quartet. „Lux Aeterna“ und andere Stücke des Streichquartetts waren durch ihre wiederholte Motivation, den Aufbau von Spannung und die Verstärkung von Emotionen überwältigend wirkungsvoll, was allesamt mit der psychologischen Darstellung des Films zusammenhängt.
 
@@ -79,13 +82,13 @@ Besonders hervorzuheben sind Innovationen in der Filmmusik mit dem im Jahr 2000 
 * **Aufführungstechnik**:
 
 * Wiederholte kurze Motive (rhythmische Wiederholung)
-  * Spannungsgefühl aufgrund plötzlicher Dynamikänderungen
-  * Kontinuierliche Verwendung von Crescendo und Diminuendo durch Streichinstrumente
+* Spannungsgefühl aufgrund plötzlicher Dynamikänderungen
+* Kontinuierliche Verwendung von Crescendo und Diminuendo durch Streichinstrumente
 * **Technische Innovation**:
 
 * Anwendung minimaler Musiktechniken auf Filmmusik
-  * Häufiger Einsatz detaillierter Artikulationen (Staccato, Spiccato, Portamento)
-  * Erzielt ein dichteres Klangbild durch überlappende Mehrspuraufnahmen.
+* Häufiger Einsatz detaillierter Artikulationen (Staccato, Spiccato, Portamento)
+* Erzielt ein dichteres Klangbild durch überlappende Mehrspuraufnahmen.
 
 ---
 
@@ -97,30 +100,30 @@ Besonders hervorzuheben sind Innovationen in der Filmmusik mit dem im Jahr 2000 
 * **Leistungspunkte**:
 
 * Minimale rhythmische Wiederholung durch Streichquartett
-  * Durch den Kontrast von Stärke und Schwäche ein Gefühl von psychischem Druck erzeugen
-  * Das Cello mit den tiefen Saiten bildet das Fundament mit gehaltenen Tönen, und die hohen Saiten erhöhen die Spannung.
+* Durch den Kontrast von Stärke und Schwäche ein Gefühl von psychischem Druck erzeugen
+* Das Cello mit den tiefen Saiten bildet das Fundament mit gehaltenen Tönen, und die hohen Saiten erhöhen die Spannung.
 
-#### 2. Summer Overture
+#### 2. Sommerouvertüre
 
 * **Eigenschaften**: Ein Lied mit einer statischen und fantastischen Atmosphäre am Anfang.
 * **Leistungspunkte**:
 
 * Starker Einsatz von Saitenharmonischen
-  * Entspricht dem Video mit winzigen Artikulationen von Saiteninstrumenten
-  * Psychische Anspannung aufgrund kleiner Lautstärkeänderungen
+* Entspricht dem Video mit winzigen Artikulationen von Saiteninstrumenten
+* Psychische Anspannung aufgrund kleiner Lautstärkeänderungen
 
-#### 3. Party Scene
+#### 3. Partyszene
 
 * **Eigenschaften**: Wird in rasanten, emotional aufgeladenen Szenen verwendet
 * **Leistungspunkte**:
 
 * Kontinuierliche kurze Staccato-hohen Streicher
-  * Die Präzision des Streichquartett-Ensembles bringt das Chaos im Video zum Ausdruck.
-  * Durch rhythmische Wiederholung ein Gefühl der Dringlichkeit aufrechterhalten
+* Die Präzision des Streichquartett-Ensembles bringt das Chaos im Video zum Ausdruck.
+* Durch rhythmische Wiederholung ein Gefühl der Dringlichkeit aufrechterhalten
 
 ---
 
-### Filmmusik in die Chronologie integrieren
+### Filmmusik in die Timeline integrieren
 
 
 <div class="mermaid">
@@ -159,7 +162,7 @@ graph TD
 
 ## 5. Bildung/Soziale Aktivitäten/Neue Projekte (2000er – heute)
 
-Neben der Aufführung liegt der Schwerpunkt des Kronos Quartetts auch auf pädagogischen und sozialen Projekten.
+Neben der Auftrittstätigkeit liegt der Schwerpunkt des Kronos Quartetts auch auf pädagogischen und sozialen Projekten.
 
 * **Workshop/Ausbildungsprogramm**: Betreuung an Universitäten und Musikschulen, Ausbildung junger Musiker.
 * **Aktivitäten zum kulturellen Austausch**: Konzerte auf der ganzen Welt, gemeinsame Auftritte mit lokalen Musikern.

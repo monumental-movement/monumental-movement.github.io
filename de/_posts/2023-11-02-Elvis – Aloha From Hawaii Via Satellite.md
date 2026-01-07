@@ -19,7 +19,7 @@ Live-Aufnahme um 12:30 Uhr am Sonntag, 14. Januar 1973, im Honolulu Internationa
 
 Bei diesem Album handelt es sich um ein Japan-spezifisches Compilation-Album, das eilig nach der Ausstrahlung der TV-Sondersendung veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Introduction: Also Sprach Zarathustra
 
@@ -70,7 +70,7 @@ D4. A Big Hunk O' Love
 D5. Can't Help Falling In Love
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m26998964951?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m26998964951?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DfjIOL5MxLY?si=D3tE4-uWTEr-rsiM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

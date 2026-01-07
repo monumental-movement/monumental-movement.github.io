@@ -15,7 +15,7 @@ title: Verschiedene – Die neuen Italo Superhits
 
 „Various – Die Neuen Italo Superhits“ ist ein Compilation-Album, das 1987 vom deutschen Label „Ariola“ veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Morandi - Ruggeri - Tozzi–Si Può Dare Più
 
@@ -43,10 +43,10 @@ B3. Matia Bazar–Ti Sento
 
 B4. Pupo - Fiordaliso–La Vita È Molto Di Più
 
-B5. Tony Esposito – Papa Chico usw.
-````
+B5. Tony Esposito–Papa Chicoなど
+```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m23072694774?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23072694774?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Esr-l_2UBAc?si=MPvUyHlvqRfT5Ixr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

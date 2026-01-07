@@ -20,7 +20,7 @@ Der Titelsong „Dragon“ ist ein tanzbarer Song, der Elemente elektronischer M
 Diese EP ist ein wertvolles Stück für Fans von Denki Groove und ermöglicht es Ihnen, die Entwicklung ihrer Musik und neue Experimente zu spüren. Es wird auch eine großartige Gelegenheit für diejenigen sein, die die Musik von Denki Groove zum ersten Mal hören, ihren einzigartigen Klang und ihre Energie zu erleben.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Dinosaur Tank
 
@@ -31,7 +31,7 @@ B1. The Marble Men
 B2. Brazilian Cowboy
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m27644764690?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m27644764690?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZdlQ2eQFi7k?si=UDcuioAGaBC4Z5-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

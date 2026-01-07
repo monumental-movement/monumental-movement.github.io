@@ -15,6 +15,7 @@ title: '[Spalte] Hyperpop / Digicore'
 ---
 
 
+
 #Hyperpop/Digicore: Das Gesamtbild der nächsten Generation von Internetmusik
 
 Text: mmr｜Thema: Umfassende Analyse von Klang, Produktion und Kultur, die aus der nächsten Generation des Internets stammen
@@ -38,15 +39,16 @@ color: #fff;
 }
 </style>
 
+
 # 1. Überblick: Was ist Hyperpop/Digicore?
 
-Hyperpop：
+Hyperpop:
 
 * Extreme Fusion aus Pop x Club x Noise
 * Übermäßige Tonhöhenbearbeitung, kollabierende Drops und glitzernde Hochfrequenz-Synthesizer
 * Großer Einfluss von PC-Musik (A. G. Cook, SOPHIE)
 
-Digicore：
+Digicore:
 
 * DIY-Pop von jungen Leuten, die von SoundCloud/Discord stammen
 * Lo-Fi-Gitarren, Emo-Gesang, einfache Beats und künstliche Bearbeitung von Gesangsketten
@@ -134,7 +136,7 @@ flowchart TD
 
 ## 4-3. 100-Gecs-Struktur (überfülltes Genre)
 
-* Eine Mischung aus Ska, Metal, Trap und EDM in einem Song
+* Mischung aus Ska, Metal, Trap und EDM in einem Song
 * BPM-Änderungen, schnelle Entwicklungen
 
 ---
@@ -143,10 +145,10 @@ flowchart TD
 
 ## 5-1. Lo-Fi-Gitarre x Emo-Gesang
 
-* Verzerrt leicht eine über DI angeschlossene Clean-Gitarre
+* Verzerrt eine über DI angeschlossene Clean-Gitarre leicht
 * „Twisted Lo-Fi-Feeling“ mit Saturation + Chorus
 
-## 5-2. Internet-era Vocal Chain
+## 5-2. Gesangskette im Internet-Zeitalter
 
 *Auto-Tune
 * Formant anheben (leicht)
@@ -182,12 +184,15 @@ flowchart LR
 
 ## Produktionsbeispiel auf Hyperpop-Seite
 
+
 - 1. Verändern Sie die Oberlinie mit Auto-Tune stark
 - 2. Erstellen Sie einen Synthesizer mit FM + Wavetable
 - 3. Glitch-Verarbeitung (Stutter / Granular)
 - 4. Übermäßige Verzerrung und OTT bei Drop
 
+
 ## Produktionsbeispiel auf Digicore-Seite
+
 
 - 1. DI die Gitarre → Sättigung
 - 2. Leichte Trommel (Trap-Keynote)
@@ -216,7 +221,7 @@ flowchart LR
 
 # 8. Eigenschaften mischen
 
-## Hyperpop
+##Hyperpop
 
 * Betonen Sie hohe Frequenzen (10-16 kHz)
 * OTT tief

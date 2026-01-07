@@ -19,14 +19,14 @@ title: ACDC – Geldgespräche
 
 Dieser Song gilt als einer der Signature-Songs von AC/DC und ist einer der Hits ihrer Karriere. Es ist ein beliebtes Lied für Rockfans, die Luftgitarre und Headbangen mögen. Darüber hinaus erfreuen sich die eingängigen Melodien und kraftvollen Darbietungen bei einer breiten Palette von Musikfans großer Beliebtheit.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Moneytalks
 
 A2. Borrowed Time
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m95995601348?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95995601348?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2lqdErI9uss?si=y0TnHJ73m6PFb3KO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

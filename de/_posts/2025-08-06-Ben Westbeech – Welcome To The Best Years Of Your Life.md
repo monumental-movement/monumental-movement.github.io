@@ -19,7 +19,7 @@ Ben Westbeech ist ein DJ und Produzent aus Großbritannien. Auch bekannt als Bre
 
 „Welcome To The Best Years Of Your Life“ ist Ben Westbeechs Debütalbum, das 2007 auf Gilles Petersons britischem Label Brownswood Recordings veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Welcome
 2. So Good Today
@@ -38,7 +38,7 @@ Ben Westbeech ist ein DJ und Produzent aus Großbritannien. Auch bekannt als Bre
 15. Beauty
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m47412962363?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m47412962363?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8HpiiEePZ-I?si=axT4mMmPWR292_D0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

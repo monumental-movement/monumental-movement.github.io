@@ -18,7 +18,7 @@ title: '[Spalte] Bay Area Noise/Experimentelle Musikszene – 50 Jahre Zerstöru
 
 ## Was ist in der Bay Area passiert?
 
-Text: mmr｜Thema: Die Schnittstelle von Maschinen, Collage und Improvisation – die Geschichte und empfohlene Diskographie der in der Bay Area gepflegten Noise-/Experimentalmusik
+Text: mmr | Thema: Die Schnittstelle zwischen Maschinen, Collage und Improvisation – die Geschichte und empfohlene Diskographie der in der Bay Area gepflegten Noise-/Experimentalmusik
 
 
 
@@ -40,6 +40,7 @@ color: #fff;
 }
 </style>
 
+
 ## Übersicht
 
 Die San Francisco Bay Area war von den späten 1970er Jahren bis heute ein wichtiger Knotenpunkt für Noise-/experimentelle Musik.
@@ -57,7 +58,7 @@ flowchart TD
 
 ### Hauptakteure und Feldökologie
 
-#### Survival Research Laboratories（SRL）
+#### Survival Research Laboratories (SRL)
 
 SRL, bekannt für seine zerstörerische mechanische Leistung, wurde 1978 von Marc Poulin gegründet. Die Show, bei der riesige Geräte zum Einsatz kamen und die Geräusche von Feuer, Staub und Metall zu hören waren, machte die „Sichtbarkeit“ und „Gefahr“ von Lärm deutlich und etablierte die Bay Area als „Testgelände für Geräusche und Maschinen“. Die Aktivitäten von SRL werden nicht nur für die Darstellung akustischer Geräusche gelobt, sondern auch für ihre Sicht auf Industrietechnologie.
 
@@ -67,7 +68,7 @@ SRL, bekannt für seine zerstörerische mechanische Leistung, wurde 1978 von Mar
 
 #### Negativland
 
-Eine Gruppe, die im Raum San Francisco aktiv ist und für ihre medienkritischen Arbeiten bekannt ist, die Sampling/Collage verwenden. Werke wie „Escape From Noise“ aus den späten 1980er Jahren waren wichtige Werke, die die Schnittstelle von Lärm und Popkultur zeigten und durch DIY-Radio und gefälschte Werbetechniken Kontroversen und Aufmerksamkeit erregten.
+Eine Gruppe, die im Raum San Francisco aktiv ist und für ihre medienkritischen Arbeiten bekannt ist, die Sampling/Collage verwenden. Werke wie „Escape From Noise“ aus den späten 1980er Jahren waren wichtige Werke, die die Schnittstelle zwischen Lärm und Popkultur zeigten und durch DIY-Radio und gefälschte Werbetechniken Kontroversen und Aufmerksamkeit erregten.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t8veXrYh1cc?si=YU9J8AUiD9LLiFVe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -91,11 +92,11 @@ Die Bay Area ist die Heimat von Indie-Festivals wie Noise Pop und improvisatoris
 
 ### Hauptdarsteller
 
-* [**Survival Research Laboratories (SRL)**](https://www.srl.org) – Mechanische Leistung und Bruchästhetik. Eine Organisation, die die Grenze zwischen Performancekunst und Lärm verwischt.
+* [**Survival Research Laboratories（SRL）**](https://www.srl.org) — 機械的パフォーマンスと破壊美学。パフォーマンス芸術とノイズの境界を曖昧にした組織。
 
-* [**Negativland**](https://negativland.com) – Ein Soundcollage-Kollektiv aus San Francisco. Bekannt für seinen medienkritischen Ansatz in den 1990er Jahren.
+* [**Negativland**](https://negativland.com) — サンフランシスコ発のサウンドコラージュ集団。90年代のメディア批評的アプローチで知られる。
 
-* [**Matmos**](https://amzn.to/43iSp60) – Ein Duo, das für seine Sampling-/Konzeptarbeiten internationale Anerkennung erhalten hat. Es wird auch mit Museen für zeitgenössische Musik und Kunst verbunden sein.
+* [**Matmos**](https://amzn.to/43iSp60) — サンプリング／コンセプチュアルな作品で国際的評価を受けたデュオ。現代音楽や美術館とも接続する。
 
 * **Lokales Improvisations-/Noise-Netzwerk** – Communities wie Bay Improviser pflegen und aktualisieren das Feld.
 
@@ -107,11 +108,11 @@ Im Folgenden sind die Hauptwerke aufgeführt, die im Haupttext erwähnt werden.
 
 | Künstler / Werk | Jahr | Notizen | Link |
 | ------ | ---- | --------------- | ----------- | --------------- |
-| Negativland — *Escape From Noise* | 1987 | Eine Mischung aus Tonbandcollagen und kurzen Liedern, ein Meisterwerk | [Amazon](https://amzn.to/47akMEX) |
-| Matmos – *Eine Chance zum Schneiden ist eine Chance zum Heilen* | 2001 | Konzeptarbeit mit medizinischen Klängen | [Amazon](https://amzn.to/48IJtKN) |
-| Matmos – *Der Bürgerkrieg* | 2003 | Fortführung der Konzept- und Probenahmeversuche | [Amazon](https://amzn.to/4gKSuoA) |
-| Bay Area-Zusammenstellung (regionale Ausgabe) | 2010er | Hauptsächlich lokaler Vertrieb. Empfohlen von Bandcamp oder lokalen Labels | [Bay Improviser](https://www.bayimproviser.com/cds.aspx) |
-| Bill Orcutt – *Springe drauf* | 2023 | Experimentelle Akustik. Repräsentative Beispiele der Gitarrenarbeit aus der Bay Area |[Amazon](https://amzn.to/4o2jF0Q) |
+| Negativland — *Escape From Noise*  |  1987 | テープコラージュと短い楽曲の混在、代表作  | [Amazon](https://amzn.to/47akMEX) |
+| Matmos — *A Chance To Cut Is A Chance To Cure* |  2001 | 医療音を素材にしたコンセプト作  |  [Amazon](https://amzn.to/48IJtKN) | 
+| Matmos — *The Civil War*    |  2003 | コンセプトとサンプリング実験の継続    |  [Amazon](https://amzn.to/4gKSuoA) | 
+| Bay Area コンピ（地域編集盤）  | 2010s | ローカル流通が主。Bandcampや地元レーベルで入手推奨 |　[Bay Improviser](https://www.bayimproviser.com/cds.aspx)　|
+| Bill Orcutt — *Jump On It*   |  2023 | 実験的アコースティック。ベイエリア系ギターワークの代表例  |[Amazon](https://amzn.to/4o2jF0Q) |
 
 
 
@@ -127,16 +128,16 @@ Lärm-/experimentelle Musik in der Bay Area wird ständig aktualisiert, nicht nu
 
 ### Anhang: Lokale Gemeinschaften und Veranstaltungen
 
-* [Bay Improviser](https://www.bayimproviser.com): Eine Kuration und ein Kalender für die Improvisations-/Experimental-Community der Bay Area, einschließlich Kontaktinformationen des Managements und monatlicher Veranstaltungsinformationen.
-* [Noise Pop](https://www.noisepopfest.com): Jährliches Festival in San Francisco. Bietet Auftrittsmöglichkeiten für lokale Indie-/Experimental-Acts.
+* [Bay Improviser](https://www.bayimproviser.com): ベイエリアの即興／実験コミュニティのキュレーションとカレンダー（運営の連絡先や月次イベント情報を掲載）。
+* [Noise Pop](https://www.noisepopfest.com): サンフランシスコの年次フェス。地元インディ／実験アクトの露出機会を提供。
 
 
 ---
 
 ### Verwandte Spalten
 
-🔗 [[Kolumne] Noise Music – Von ihren Ursprüngen bis zur Gegenwart: Historischer Hintergrund, berühmte Schallplatten und Änderungen in der Ausrüstung](https://monumental-movement.jp/Column-Noise-Music)
+🔗 [【コラム】 Noise Music（ノイズミュージック） — 発祥から現在まで：時代背景・名盤・機材の変遷](https://monumental-movement.jp/Column-Noise-Music)
 
-🔗 [[Kolumne] Geschichte und Meisterwerke der experimentellen Musik: Von ihren Anfängen bis zur Gegenwart](https://monumental-movement.jp/Column-Experimental-Music)
+🔗 [【コラム】 Experimental Music（エクスペリメンタル・ミュージック）の歴史と名盤：発祥から現在まで](https://monumental-movement.jp/Column-Experimental-Music)
 
-🔗 [[Kolumne] Hohe Marken und Lärmmusik – die Schnittstelle zwischen Luxus und radikaler Akustik](https://monumental-movement.jp/Column-High-Brands-Noise-Music)
+🔗 [【コラム】 ハイブランドとノイズミュージック — ラグジュアリーと過激音響の接点](https://monumental-movement.jp/Column-High-Brands-Noise-Music)

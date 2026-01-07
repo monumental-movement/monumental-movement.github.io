@@ -18,7 +18,7 @@ Should the World Fail to Fall Apart ist das Debütalbum des britischen Soloküns
 
 Das Album enthält Murphys Cover von Magazines „The Light Pours Out of Me“ und Pere Ubus „Final Solution“. Veröffentlicht im Jahr 1986.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Canvas Beauty (Romance Version)
 
@@ -41,7 +41,7 @@ B4. Final Solution
 B5. Jemal
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m32847289290?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m32847289290?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lG_nR-BmXvM?si=xTxPiUnE6gIZ0pb1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

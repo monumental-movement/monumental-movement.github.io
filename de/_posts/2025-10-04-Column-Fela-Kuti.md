@@ -18,7 +18,8 @@ title: '[Kolumne] Vollständiger Leitfaden zu Fela Kuti: Der Schöpfer von Afrob
 
 Text: mmr｜Thema: Das Leben und die Musik von Fela Kuti
 
-Fela Aníkúlápó Kútì (1938–1997) war eine nigerianische Musikerin, Aktivistin und Gründerin des Afrobeat. Ihr einzigartiger Sound, der Jazz, Funk, Highlife und Yoruba-Musik vereint, hatte einen immensen Einfluss auf die Weltmusik in der zweiten Hälfte des 20. Jahrhunderts.  
+
+Fela Aníkúlápó Kútì (1938–1997) war eine nigerianische Musikerin, Aktivistin und Gründerin des Afrobeat. Ihr einzigartiger Sound, der Jazz, Funk, Highlife und Yoruba-Musik vereint, hatte einen immensen Einfluss auf die Weltmusik in der zweiten Hälfte des 20. Jahrhunderts.
 Seine Musik war nicht nur Unterhaltung, sondern ein politisches Statement, das Militärherrschaft und Ungerechtigkeit anprangerte, und ein Symbol des Widerstands trotz zahlreicher Verhaftungen und Gewalt.
 
 ---
@@ -51,7 +52,7 @@ Felas Musik zeichnet sich durch lange (10 bis 30 Minuten) sich wiederholende Gro
 
 ### Politische und kulturelle Aktivitäten
 
-Fela erklärte sein Anwesen zur „Kalakuta-Republik“ und betrieb es als Gemeinschafts-, Atelier- und Theaterraum. Es gibt immer wieder scharfe Kritik an der Militärregierung und es kommt zu zahlreichen Angriffen, Inhaftierungen und Folterungen durch Polizei und Militär (ein berühmter Vorfall ist die Anekdote „Teurer Scheiß“). Diese kämpferische Haltung hat ihn zwar zu Nigerias „Stimme der Stimmlosen“ gemacht, hat aber auch physische Nachteile.
+Fela erklärte seine Villa zur „Kalakuta-Republik“ und betrieb sie als Gemeinschafts-, Atelier- und Theaterraum. Es gibt immer wieder scharfe Kritik an der Militärregierung und es kommt zu zahlreichen Angriffen, Inhaftierungen und Folterungen durch Polizei und Militär (ein berühmter Vorfall ist die Anekdote „Teurer Scheiß“). Diese kämpferische Haltung hat ihn zwar zu Nigerias „Stimme der Stimmlosen“ gemacht, sie hat jedoch auch einen physischen Schaden verursacht.
 
 ---
 
@@ -93,7 +94,7 @@ Londoner Zeit → Aufnahme in den USA → Gründung in Afrika 1970 → politisch
 
 ### Anekdote/Legende
 
-**„Expensive Shit“-Vorfall**: Fela nutzte den Vorfall, bei dem die Polizei angeblich einen Marihuana-Joint platziert hatte, als Vorwand für die Verhaftung und verwandelte daraus ein Lied (Album „Expensive Shit“). Diese Geschichte wird als Anekdote überliefert, die Felas Anti-Establishment-Image symbolisiert.
+**„Expensive Shit“-Vorfall**: Fela nutzte den Vorfall, bei dem die Polizei angeblich einen Marihuana-Joint platziert hatte, als Vorwand für die Verhaftung und verwandelte daraus ein Lied (Album „Expensive Shit“). Diese Geschichte wird als Anekdote weitergegeben, die Felas Anti-Establishment-Image symbolisiert.
 
 **Angriff auf Kalakuta und Tod der Mutter**: Der Vorfall, bei dem Felas Mutter angeblich verletzt wurde, als Kalakuta vom Militär angegriffen wurde, wurde zur treibenden Kraft hinter ihren späteren Liedern und Aktivitäten.
 
@@ -104,27 +105,27 @@ Londoner Zeit → Aufnahme in den USA → Gründung in Afrika 1970 → politisch
 
 #### 1960er Jahre: Koola-Lobitos-Zeit
 - **『Die 69er Los Angeles Sessions』**
-  Dies ist sein frühes Werk nach seinem Auslandsstudium in London und konzentriert sich auf Jazz und Highlife. Ein Werk, in dem man die Anfänge dessen hören kann, was vor Afrobeat war.
+Dies ist sein frühes Werk nach seinem Auslandsstudium in London und konzentriert sich auf Jazz und Highlife. Ein Werk, in dem man die Anfänge dessen hören kann, was vor Afrobeat war.
 
 #### Anfang der 1970er Jahre: Etablierung des Afrobeat
 - **Gentleman (1973)**
-  Ein Meisterwerk, das den Kolonialismus kritisiert. Dem Funk-Groove wird eine soziale Botschaft hinzugefügt.  
-- **„Confusion“ (1975)**
-  Ein 20-minütiges Lied, das das städtische Chaos in Lagos im übertragenen Sinne darstellt.
+Ein Meisterwerk, das den Kolonialismus kritisiert. Dem Funk-Groove wird eine soziale Botschaft hinzugefügt.
+- **Verwirrung (1975)**
+Ein 20-minütiges Lied, das das urbane Chaos in Lagos im übertragenen Sinne darstellt.
 
 #### Ende der 1970er Jahre: Politischer Höhepunkt
 - **„Teure Scheiße“ (1975)**
-  Ein Meisterwerk, das sich die Falschverurteilung wegen Marihuana durch die Polizei zunutze macht. Enthält das repräsentative Lied „Water No Get Enemy“.  
+Ein Meisterwerk, das sich die Falschverurteilung wegen Marihuana durch die Polizei zunutze macht. Enthält das repräsentative Lied „Water No Get Enemy“.
 - **Zombie (1977)**
-  Ein provokantes Werk, das das Militär kritisiert, indem es es „Zombies“ nennt. Dadurch wurde es zum Auslöser für den Angriff auf die Republik Kalakuta.  
+Ein provokantes Werk, das das Militär kritisiert, indem es es „Zombies“ nennt. Dadurch wurde es zum Auslöser für den Angriff auf die Republik Kalakuta.
 - **Tränen und Blut der Trauer (1977)**
-  Ein kraftvolles Lied, das militärische Unterdrückung und Blutvergießen anprangert.
+Ein kraftvolles Lied, das militärische Unterdrückung und Blutvergießen anprangert.
 
 #### 1980er: Ägypten 80er
 - **Underground System (1989)**
-  Ein spätes Meisterwerk mit langen Rhythmen und einer klaren Bläsergruppe.  
+Ein spätes Meisterwerk mit langen Rhythmen und einer klaren Bläsergruppe.
 - **Beasts of No Nation (1989)**
-  Eine scharfe Kritik an den Staats- und Regierungschefs der Welt. Es erregte auch internationale Aufmerksamkeit.
+Eine scharfe Kritik an den Staats- und Regierungschefs der Welt. Es erregte auch internationale Aufmerksamkeit.
 
 #### 1990er Jahre: Späte Jahre
 - Hauptsächlich aktiv in **Live-Alben und bearbeiteten Alben**. Auch als sich sein Gesundheitszustand verschlechterte, sendete er weiterhin musikalische Botschaften.
@@ -135,11 +136,11 @@ Londoner Zeit → Aufnahme in den USA → Gründung in Afrika 1970 → politisch
 
 | Jahr | Album | Kommentar | Link |
 |---|---|---|---|
-| 1969 | Die 69er Los Angeles Sessions | Experimentelles Werk mit starkem frühen Jazz + High-Life-Vibes | [Amazon](https://amzn.to/3KrT4Mb) |
-| 1973 | Herr | Kolonialismuskritik und die Perfektion des Afrobeat | [Amazon](https://amzn.to/3IFAYFV) |
-| 1975 | Teure Scheiße | Ein Meisterwerk, das sich einen berühmten Fall falscher Anschuldigungen zunutze macht | [Amazon](https://amzn.to/3IVK6WS) |
-| 1977 | Zombie | Scharfe Kritik an der Militärregierung, die zum Angriff auf Kalakuta führte | [Amazon](https://amzn.to/46VWCh7) |
-| 1989 | Unterirdisches System | Ägypten 80er reifer Afrobeat | [Amazon](https://amzn.to/4nWGXVE) |
+| 1969 | The '69 Los Angeles Sessions | 初期ジャズ＋ハイライフ色が強い実験作 | [Amazon](https://amzn.to/3KrT4Mb) |
+| 1973 | Gentleman | 植民地主義批判とアフロビートの完成度 | [Amazon](https://amzn.to/3IFAYFV) |
+| 1975 | Expensive Shit | 有名な冤罪事件を逆手にとった代表作 | [Amazon](https://amzn.to/3IVK6WS) |
+| 1977 | Zombie | 軍政を痛烈批判、結果的にKalakuta襲撃を招く | [Amazon](https://amzn.to/46VWCh7) |
+| 1989 | Underground System | Egypt 80期の成熟したアフロビート | [Amazon](https://amzn.to/4nWGXVE) |
 
 ---
 
@@ -194,6 +195,7 @@ Auch „Black Times“ (2018) kreuzt sich mit Hip-Hop und Rock.
 
 ---
 
+
 ### Aktuelles Erbe und Ruf
 
 **Kalakuta-Museum (Lagos)**: Felas ehemaliges Herrenhaus wurde in ein Museum umgewandelt. Relikte und Musikinstrumente werden ausgestellt.
@@ -209,12 +211,12 @@ Auch „Black Times“ (2018) kreuzt sich mit Hip-Hop und Rock.
 Fela Kuti war nicht nur der „Vater des Afrobeats“, sondern auch ein Symbol des politischen Widerstands durch Musik. Dieses Erbe spiegelt sich weiterhin in seinen Söhnen Femi Kuti und Soon Kuti sowie in der Arbeit von Künstlern auf der ganzen Welt wider.
 Wenn Sie mehr über Afrobeat erfahren möchten, empfehlen wir Ihnen, mit „Gentleman“, „Expensive Shit“ und „Zombie“ zu beginnen.
 
-Die Worte und Rhythmen von Fela hallen immer noch in der Brise von Lagos und auf den Bühnen der Welt wider.
+Die Worte und Rhythmen von Fela hallen noch immer in den Winden von Lagos und auf den Bühnen der Welt wider.
 
 ---
 
 ### Referenz/Quelle
 
-- [Britannica: Fela Kuti – Biografieübersicht.](https://www.britannica.com/biography/Fela-Kuti)
-- [Felakuti.com (offizielle Informationen/Informationen zum Kalakuta-Museum)](felakuti.com)
-- [Nachruf auf Guardian / Tony Allen (Afrobeat und Tony Allen)](https://www.theguardian.com/music/2020/may/03/tony-allen-obituary)
+- [Britannica: Fela Kuti — biography overview.](https://www.britannica.com/biography/Fela-Kuti)
+- [Felakuti.com (offizielle/Informationen zum Kalakuta-Museum)](felakuti.com)
+- [Guardian / Tony Allen obituary（アフロビートとトニー・アレン）](https://www.theguardian.com/music/2020/may/03/tony-allen-obituary)

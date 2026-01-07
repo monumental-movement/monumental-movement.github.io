@@ -19,7 +19,7 @@ Dummy Run ist ein experimentelles Elektro-Duo von Andrew Sharpley und Nick Birmi
 
 Das selbstbetitelte Album, das 1996 vom britischen Label Hot Air veröffentlicht wurde, ist ein Album, auf dem Sie Dummy Runs einzigartigen Drum'n'Bass + Left Field-Stil genießen können.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Trouble
 2. Zombies
@@ -52,7 +52,7 @@ Das selbstbetitelte Album, das 1996 vom britischen Label Hot Air veröffentlicht
 29. Chocky
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m11852007204?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m11852007204?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zdn8kGccQeU?si=D5hZR_k0IRbA4lJp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

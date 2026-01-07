@@ -16,14 +16,14 @@ title: Motiv Eins – Cosmik Loop Progression
 
 „Loop Progression“ ist ein weiterer großartiger Titel, der mit einem harten, treibenden Beat beginnt, bevor er sich allmählich entwickelt, wenn sanftere Tasten mit den Akkorden kombiniert werden. Es folgt eine Pause, gefolgt von einem riesigen, wirklich gewaltigen Amen-Kick und einem kosmischen Sound, zu dem auch der Bass hinzukommt. Der größte Teil besteht aus einigen Bridges und Akkorden, gefolgt von einem Outro-Beat, gefolgt von einem schweren Amen-Beat.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Cosmik
 
 AA. Loop Progression
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m37201781569?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37201781569?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v0rLMTltBc4?si=yDrVILpdJTXNGYJq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -18,7 +18,7 @@ Jochen Miller (Jochen van der Steijn / DJ Jochen), auch bekannt als Club Crasher
 
 „Hölle ja!“ ist ein Hard-Trance-Song, der 2001 auf dem niederländischen Hard House/Hard Trance-Label Patriot Hard-Beat veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Hell Yeah! (Central Seven Remix)
 
@@ -26,4 +26,4 @@ B1. Hell Yeah! (Club Mix)
 B2. Hell Yeah! (DJ Jochen Remix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m38864975401?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m38864975401?afid=6142608987){: .button1}

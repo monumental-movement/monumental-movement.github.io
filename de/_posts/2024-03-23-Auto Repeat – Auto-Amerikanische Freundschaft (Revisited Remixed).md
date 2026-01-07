@@ -22,7 +22,7 @@ Der zweite Titel auf Seite A ist ein Remix von DJ Sneak, einem Chicagoer House-P
 
 „The Sneak Mix“ ist ein sehr wirkungsvoller Track, eine zeitlose Hausnummer, die die goldene Mitte der 90er Jahre repräsentiert.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. You Can't Stop (Remixed by Paul Johnson)
 
@@ -33,7 +33,7 @@ B1. Dance Rodriguez (Remixed by Sluts N' Strings & 909){: .button1}
 B2. Def Jam (Remixed by Auto Repeat)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m18779388918?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m18779388918?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RoD2WO18jQU?si=iVBK0iN8LA_acqso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

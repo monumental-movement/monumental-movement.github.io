@@ -22,7 +22,7 @@ Am bekanntesten ist er für die gefühlvollen Balladen „Really, Really Love Yo
 „Dance Everybody“ ist ein House-Track, der 1992 auf Echo Dance, einem Sublabel des frühen US-House-Labels Echo USA, veröffentlicht wurde. Produziert von Jeffrey Collins, Remix von James Bratton und Marlon Grant.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Dance Everybody (Club Remix)
 A2. Dance Everybody (Club Dub)
@@ -31,7 +31,7 @@ B1. Dance Everybody (Original Vocal)
 B2. Dance Everybody (Backburner Instrumental)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m68936327881?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m68936327881?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BKvKt6pFzp0?si=UBe9tm-kfeqVyTOC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

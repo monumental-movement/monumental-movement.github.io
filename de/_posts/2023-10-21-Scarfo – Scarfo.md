@@ -15,7 +15,7 @@ title: Schalo – Schalo
 
 Scarfo ist eine britische Rockband, die 1994 von Jamie Hince, Nick Prior und Al Saunders gegründet wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Eyesore
 
@@ -32,5 +32,5 @@ B6. Throw It All
 B7. Wailing Words
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m51458785746?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m51458785746?afid=6142608987){: .button1}
 

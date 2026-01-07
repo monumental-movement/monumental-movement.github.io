@@ -13,9 +13,9 @@ title: Michael Viners unglaubliche Bongo-Band – Bongo Rock
 ---
 
 
-Das 1973 erschienene Album Bongo Rock der Instrumental-Funk-Band Michael Viner's Incredible Bongo Band enthielt Elemente aus Funk, Soul und Breakbeat und wurde später von zahlreichen Künstlern der Hip-Hop- und Breakbeat-Szene gesampelt.
+Das 1973 veröffentlichte Album Bongo Rock der Instrumental-Funk-Band Michael Viner's Incredible Bongo Band enthielt Elemente aus Funk, Soul und Breakbeat und wurde später von zahlreichen Künstlern der Hip-Hop- und Breakbeat-Szene gesampelt.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Let There Be Drums
 
@@ -34,7 +34,7 @@ B3. Raunchy '73
 B4. Bongo Rock '73
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m78122334102?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m78122334102?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bVqjD_JyCKM?si=oFsISYT0tOz9RozH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

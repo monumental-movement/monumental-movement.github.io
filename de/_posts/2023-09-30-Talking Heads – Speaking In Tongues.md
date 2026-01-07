@@ -22,7 +22,7 @@ Es enthält viele Hits wie „Burning Down the House“ und „This Must Be the 
 Dieses Album ist ein Muss für jeden Talking Heads-Fan und sein einzigartiger Sound und die intelligenten Texte machen „Speaking In Tongues“ zu einem Meilenstein in der Geschichte der Rockmusik.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Burning Down The House
 
@@ -43,7 +43,7 @@ B3. Pull Up The Roots
 B4. This Must Be The Place (Naive Melody)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m36336920613?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m36336920613?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4c_YkN-8WRM?si=ShsHgvGu001PzDQp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

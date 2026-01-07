@@ -17,7 +17,7 @@ title: Verschiedenes – EP
 Dies ist eine EP, die 1995 vom japanischen Label „D5 Records“ veröffentlicht wurde.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Just Master Rhythm–Mistura Deep
 Producer – Hitoshi "ME" Takasugi
@@ -33,7 +33,8 @@ B2. Acid Funk Shun–Acid Funk Shun
 Written-By, Producer – Acid Funk Shun
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m93431090288?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m93431090288?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J8IL8cwH3eI?si=tvYzy-3ugAi7xDSh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

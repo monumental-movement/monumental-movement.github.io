@@ -20,7 +20,7 @@ Dieses Album ist Prodigys drittes Studioalbum, das 1997 auf dem Label XL Recordi
 1999 wurde es als meistverkauftes Dance-Album im Vereinigten Königreich ins Guinness-Buch der Rekorde aufgenommen.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Smack My Bitch Up
 2. Breathe
@@ -34,7 +34,7 @@ Dieses Album ist Prodigys drittes Studioalbum, das 1997 auf dem Label XL Recordi
 10. Fuel My Fire
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m90593140176?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m90593140176?afid=6142608987){: .button1}
 
 #### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GP6F0y3eU0Q?si=YQqQxarVY4I3jtjF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

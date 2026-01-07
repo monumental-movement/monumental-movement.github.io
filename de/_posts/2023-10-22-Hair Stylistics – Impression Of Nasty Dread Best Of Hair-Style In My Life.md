@@ -17,12 +17,12 @@ title: Haarstil – Eindrücke von Nasty Dread, der beste Haarstil in meinem Leb
 
 „Impression Of Nasty Dread Best Of Hair-Style In My Life“ von Hair Stylistics (Hair Stylistics alias Masaya Nakahara) ist ein 7-Zoll-Album, das 1999 veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Impression Of Nasty Dread
 
 B. Best Of Hair-Style In My Life
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m53844058180?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m53844058180?afid=6142608987){: .button1}
 

@@ -20,7 +20,7 @@ Er erlangte weltweite Berühmtheit durch seinen Auftritt auf Paul Simons Album �
 
 „Shaka Zulu“ wird von Paul Simon produziert.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Unomathemba
 A2. Hello My Baby
@@ -35,7 +35,7 @@ B4. Rain, Rain, Beautiful Rain
 B5. Wawusho Kubani? (Who Were You Talking To?)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m24434663274?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m24434663274?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X2xl2fsdyGM?si=RnaEIEA5rq0GPq-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

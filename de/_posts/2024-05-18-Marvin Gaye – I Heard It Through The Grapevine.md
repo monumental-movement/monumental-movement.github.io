@@ -18,7 +18,7 @@ title: Marvin Gaye – I Heard It Through The Grapevine
 
 Das Album erschien ursprünglich unter dem Titel „In the Groove“, wurde aber in den gleichen Titel geändert, nachdem „I Heard It Through The Grapevine“ ein Hit wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. You
 A2. Tear It On Down
@@ -35,7 +35,7 @@ B5. You're What's Happening (In The World Today)
 B6. There Goes My Baby
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m30034025091?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m30034025091?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5ZnrZnFSlWU?si=c2baha8KAvVOGZeK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

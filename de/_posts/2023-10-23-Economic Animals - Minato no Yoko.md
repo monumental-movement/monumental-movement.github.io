@@ -19,13 +19,13 @@ Economic Animals ist eine maskierte Band unter der Leitung von Tsutomu Sasaki. �
 Text/Komposition/Lied: Economic Animals
 
 #### Trackliste
-„md
-A. Yoko vom Hafen kehrt zurück
+```md
+A. 帰ってきた港のヨーコ
 
-B. Tschüss, meine Liebe
-````
+B. バイ•バイ•マイ•ラブ
+```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m44785182941?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44785182941?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wz81jNoPFH4?si=4xgdUTWQQKkCDYOJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

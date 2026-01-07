@@ -17,12 +17,12 @@ Eine bemerkenswerte Sammlung von Downtempo-Werken, die Ihr Herz mit tiefen Groov
 
 <hr>
 
-### Modest Mouse / 764‑HERO – Whenever You See Fit
+### Bescheidene Maus / 764-HERO – wann immer Sie es für richtig halten
 <a href="https://jp.mercari.com/item/m99852743815?afid=6142608987"><img src="../assets/images/Modest%20Mouse%20764-HERO%20%E2%80%93%20Whenever%20You%20See%20Fit.webp"></a>
 
-Eine verrückte Indie-EP voller ruhiger Rhythmen
+Eine dämliche Indie-EP voller ruhiger Rhythmen
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Whenever You See Fit (Original Version)
 
@@ -31,7 +31,8 @@ B1. Whenever You See Fit (DJ Dynomite D Mix)
 B2. Whenever You See Fit (Sientific American Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m99852743815?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m99852743815?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -39,12 +40,12 @@ B2. Whenever You See Fit (Sientific American Mix)
 <hr>
 <br>
 
-### B.E.F. Feat. Green Gartside – I Don’t Know Why I Love You
+### B.E.F. Feat. Green Gartside – Ich weiß nicht, warum ich dich liebe
 <a href="https://jp.mercari.com/item/m50800315242?afid=6142608987"><img src="../assets/images/B.E.F.%20Featuring%20Green%20Gartside%20%E2%80%93%20I%20Don't%20Know%20Why%20I%20Love%20You.webp"></a>
 
 Der anspruchsvolle britische Sound der Foundation
 
-#### Tracklist
+#### Trackliste
 ```md
 A. I Don't Know Why I Love You (But I Love You)
 
@@ -52,7 +53,8 @@ B1. In My Life (Extended Version)
 B2. Family Affair (Plati Party Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m50800315242?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m50800315242?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -60,12 +62,12 @@ B2. Family Affair (Plati Party Mix)
 <hr>
 
 
-### Swing Out Sister – Shapes And Patterns
+### Swing Out Sister – Formen und Muster
 <a href="https://jp.mercari.com/item/m34567494829?afid=6142608987"><img src="../assets/images/Swing%20Out%20Sister%20%E2%80%93%20Shapes%20And%20Patterns.webp"></a>
 
 Sanfter elektronischer Jazz und Soul, beliebt in Japan
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Somewhere In The World
 2. Here And Now
@@ -82,7 +84,8 @@ Sanfter elektronischer Jazz und Soul, beliebt in Japan
 13. Shapes And Patterns (Reprise)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m34567494829?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m34567494829?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -90,19 +93,20 @@ Sanfter elektronischer Jazz und Soul, beliebt in Japan
 <hr>
 
 
-### White Light Circus – Marching Orders
+### White Light Circus – Marschbefehle
 <a href="https://jp.mercari.com/item/m33139936589?afid=6142608987"><img src="../assets/images/White%20Light%20Circus%20%E2%80%93%20Marching%20Orders.webp"></a>
 
 Ein Disco-Chill-Track mit britischem Elektro-Feeling.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Marching Orders (Special Mix)
 
 B. The Shot! (Dub Copy)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m33139936589?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m33139936589?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7P0PxTEuSLY?si=md9VAShG3YBHgjyJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -115,7 +119,7 @@ B. The Shot! (Dub Copy)
 
 Nachmittags-Chill-Beat mit Italo-Geschmack
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Feelings (Mix Edit)
 
@@ -123,7 +127,8 @@ B1. Feelings (Radio Edit)
 B2. Carillon
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m69743649538?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m69743649538?afid=6142608987){: .button1}
 
 
 #### Youtube

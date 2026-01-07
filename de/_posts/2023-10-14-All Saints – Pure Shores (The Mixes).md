@@ -19,7 +19,7 @@ Der zweite Titel auf Seite A ist ein Remix von Karl Clive Gordon, alias K-Gee, e
 
 Die B-Seite ist ein Remix von Mark Stent, einem britischen Plattenproduzenten und Mischtechniker, der mit vielen internationalen Künstlern zusammengearbeitet hat, darunter Marshmello, U2, Beyoncé, Björk, Depeche Mode, Echo & the Bunnymen, Grimes und Ed Sheeran.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Pure Shores (Cosmos Mix)
 
@@ -30,7 +30,7 @@ B1. Pure Shores (Original)
 B2. Pure Shores (Instrumental)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m60756646453?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m60756646453?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CGA8020eU38?si=1Y_-tUR94CS1TCOP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

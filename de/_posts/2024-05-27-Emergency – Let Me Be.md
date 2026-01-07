@@ -22,14 +22,14 @@ Arrangeur und Produzent ist Pieradis Rossini, ein italienischer Musiker und Tanz
 
 Italo-Dance-Track, der 1993 vom Label DJ Movement veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Let Me Be (Lets Do It Mix)
 
 B1. Let Me Be (Emergency)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m49444465036?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m49444465036?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TJeciSG5sj0?si=sKGmoo5PY_2HIbJj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

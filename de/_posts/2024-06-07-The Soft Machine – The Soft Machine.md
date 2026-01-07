@@ -20,7 +20,7 @@ The Soft Machine ist eine britische Progressive-Jazz-Rock-Band aus Canterbury, d
 
 Soft Machine wurde eine der ersten psychedelischen Bands Großbritanniens, wechselte später zum Progressive Rock und Jazz Rock und wurde 1971 zu einer Instrumentalband.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Hope For Happiness
 2. Joy Of A Toy
@@ -37,7 +37,7 @@ Soft Machine wurde eine der ersten psychedelischen Bands Großbritanniens, wechs
 13. Box 25/4 Lid
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m60210316220?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m60210316220?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tdQ3Uc9Rc8g?si=wKnvhQ7S8BBwF9io" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

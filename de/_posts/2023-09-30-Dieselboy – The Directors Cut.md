@@ -13,13 +13,13 @@ title: Dieselboy – Der Director’s Cut
 ---
 
 
-Dies ist eine seltene Kassette mit einem Killer-Tech-Moddy-Drum-and-Bass-Mix von Diesel Boy, einem DJ, der überaus talentiert und in der US-amerikanischen Drum-and-Bass-Szene beliebt ist.
+Dies ist eine seltene Kassette mit einem Killer-Tech-Moddy-Drum-and-Bass-Mix von Diesel Boy, einem DJ, der überaus talentiert und in der US-Drum-and-Bass-Szene beliebt ist.
 
 Auch diese Mischung ist großartig, da Timing, EQ, Pegel und Übergänge alles auf den Punkt gebracht sind, ein großartiges Beispiel für sein Können.
 
 Es ist eine Mischung, die man sich immer wieder anhören möchte.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Side A
 
@@ -55,7 +55,8 @@ B. Side B
 13. Dillinja- Accurist
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m34797510612?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m34797510612?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X6EumRaarrQ?si=XRLLJb_BEWu1NV9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

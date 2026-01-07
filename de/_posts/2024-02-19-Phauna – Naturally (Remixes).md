@@ -16,7 +16,7 @@ title: Phauna – Naturally (Remixe)
 
 Ein Deep-House-Track, der 2003 auf dem kanadischen House-Label Play Records veröffentlicht wurde, das von Mellee Fresh und DJ Spydabrown gegründet wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Naturally (Broken) Remix – Kemeticjust
 
@@ -27,7 +27,7 @@ B1. @ Remix – Augusta
 B2. Sans Soliel
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m89659371816?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m89659371816?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yr49C4T-jak?si=0P8qj6qrU3CWu_RP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

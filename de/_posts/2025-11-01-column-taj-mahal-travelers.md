@@ -18,12 +18,15 @@ title: '[Kolumne] Taj Mahal Travel Group und Takehisa Kosugi – Eine Reise, um 
 
 ## I. Ausgangspunkt in den 1960er Jahren: Jenseits musikalischer Institutionen
 
-Text: mmr｜Thema: Eine Klangpilgerreise, bei der Improvisation und Umgebungsgeräusche ineinandergreifen – Eine Aufzeichnung einer Reise an die Außenseite der Musik, gezeichnet von Takehisa Kosugi und der Taj Mahal Travel Group
 
-In den frühen 1960er Jahren blühte Japans Avantgarde-Musikszene in aller Stille auf.  
+Text: mmr｜Thema: Eine Klangpilgerreise, bei der Improvisation und Umgebungsgeräusche ineinandergreifen – Eine Aufzeichnung einer Reise in die Außenseite der Musik, gezeichnet von Takehisa Kosugi und der Taj Mahal Travel Group
+
+
+In den frühen 1960er Jahren blühte Japans Avantgarde-Musikszene in aller Stille auf.
 Im Mittelpunkt standen der Experimental Workshop und das Sogetsu Art Center unter der Leitung von Toru Takemitsu, Kei Ichiyanagi und Joji Yuasa. Dabei wurden die Grenzen zwischen Genres wie Musik, Tanz, Video und Beleuchtung aufgehoben.
 
 Während dieser Zeit studierte Takehisa Kosugi Violine an der Universität der Künste Tokio, doch er begann, die Grenzen traditioneller Musikformen zu spüren. Er begann, Klang als „Ereignis“ und nicht als „Struktur“ zu betrachten, und begann schließlich, sich mit Improvisation und Zufall zu beschäftigen.
+
 
 > „Klang beginnt zu leben, wenn er vom Willen des Interpreten getrennt wird.“
 > — Takehisa Kosugi
@@ -45,21 +48,22 @@ color: #fff;
 }
 </style>
 
+
 ## II. „Kollektive Musik“ und die Begegnung mit John Cage (1964)
 
-1964 gründete Kosugi mit Toru Takemitsu und Kei Ichiyanagi Collective Music.  
-Im selben Jahr trat er mit John Cage und David Tudor auf, als die Merce Cunningham Dance Company Japan zum ersten Mal besuchte.  
+1964 gründete Kosugi mit Toru Takemitsu und Kei Ichiyanagi Collective Music.
+Im selben Jahr trat er mit John Cage und David Tudor auf, als die Merce Cunningham Dance Company Japan zum ersten Mal besuchte.
 Dieses Ereignis markierte einen entscheidenden Wendepunkt in der Geschichte der japanischen Avantgarde-Musik.
 
-Die von Cage vertretenen Ideen von „Zufall“ und „Unabsichtlichkeit“ hatten einen tiefen Einfluss auf Kosugi.  
-Wie schaffen wir einen Zustand, in dem der Klang auf natürliche Weise „erscheint“, anstatt dass der Interpret den Klang „kontrolliert“?  
+Die von Cage vertretenen Ideen von „Zufall“ und „Unabsichtlichkeit“ hatten einen tiefen Einfluss auf Kosugi.
+Wie schaffen wir einen Zustand, in dem der Klang auf natürliche Weise „erscheint“, anstatt dass der Interpret den Klang „kontrolliert“?
 Diese Frage wurde zum Thema von Kosugis Leben.
 
 ---
 
 ## III. Die Kunst der Resonanz und Aktion mit Fluxus (1965–1969)
 
-Mitte der 1960er Jahre schloss sich Kosugi der internationalen Avantgarde-Bewegung „Fluxus“ an und betrat den Bereich der Performance und des Happenings.  
+Mitte der 1960er Jahre schloss sich Kosugi der internationalen Avantgarde-Bewegung „Fluxus“ an und betrat den Bereich der Performance und des Happenings.
 Der Akt der Umwandlung von Alltagsgegenständen in Klangquellen und die Auflösung des Rahmens von Zeit und Raum erschütterte die konventionelle Sicht auf Musik grundlegend.
 
 Wie in seinen Meisterwerken „Music Expanded #2“ und „Catch-Wave“ zu sehen ist,
@@ -71,7 +75,7 @@ Dieser Trend hatte direkten Einfluss auf die spätere „Klangkunst“, „Umwel
 
 ## IV. Gründung der Taj Mahal Travel Group (1969–1970)
 
-1969 gründete Kosugi die Taj Mahal Travelers als neues experimentelles Thema.  
+1969 gründete Kosugi die Taj Mahal Travelers als neues experimentelles Thema.
 Seiji Nagai, Takashi Iijima, Masaaki Kikuchi (später links) und andere schlossen sich der Gruppe an.
 Verwendung von Violine, Cello, elektronischer Ausrüstung, Blechbläsern, Stimme, Radiowellen usw.
 Er verwirklichte die Philosophie, dass „der Ort selbst zum Instrument wird“.
@@ -80,8 +84,8 @@ Er verwirklichte die Philosophie, dass „der Ort selbst zum Instrument wird“.
 
 ## V. Reisen durch Klang: von Indien nach Europa (1971–1972)
 
-1971 bricht die Taj Mahal Tour Group zu einer Europareise auf.  
-Ihre Reise war nicht nur eine Tour, sondern eine „Klangpilgerreise“.  
+1971 bricht die Taj Mahal Tour Group zu einer Europareise auf.
+Ihre Reise war nicht nur eine Tour, sondern eine „Klangpilgerreise“.
 Im Freien, ohne Stromquelle oder Bühne, wurde die Aufführung improvisiert und mit Wind, Wasser, Menschenmenge und Radiowellen in Resonanz gebracht.
 
 ### Reiseroute (Meerjungfrauenkarte)
@@ -110,12 +114,12 @@ Die Improvisationsaufführungen an verschiedenen Orten reichten von lokalen Kult
 
 ## VI. Dekonstruktion und Erweiterung von Klang: das Ritual der Improvisation
 
-Die Aufführungen der Taj Mahal Tourists haben nicht die übliche „Lieder“ oder „Struktur“.
+Die Aufführungen der Taj Mahal Tourists haben nicht die üblichen „Lieder“ oder „Strukturen“.
 Vielmehr ähnelt es eher dem Vorgang, Schall in die Umgebung auszusenden und auf eine zufällige Resonanz zu warten.
 
-Sie setzen Beschallungsanlagen und Mikrofone kreativ ein,
+Sie nutzen Beschallungsanlagen und Mikrofone kreativ,
 Der gesamte Raum wurde als eine Art „Resonator“ behandelt.
-Kosugi, der Anführer, befestigt ein Kontaktmikrofon an der Geige und manipuliert beim Spielen die Rückkopplung und die Funkgeräusche.
+Kosugi, der Anführer, befestigt ein Kontaktmikrofon an der Geige und manipuliert beim Spielen die Rückkopplung und Funkgeräusche.
 Wir haben ein Ökosystem geschaffen, in dem Schall „vorkommt und verschwindet“.
 
 ---
@@ -128,7 +132,7 @@ Dies ist eine Live-Aufnahme einer Improvisationsaufführung rund um das Taj Maha
 Es wird hoch gelobt als „Klanglandschaft“, die Zeit, Raum und Klang perfekt vereint.
 
 Auf dem Album gibt es weder Rhythmus noch Melodie.
-Stattdessen kreuzen sich der Klang von Bläsern, elektronischen Klängen, Stimmen und der Resonanz von Saiten sanft,
+Stattdessen kreuzen sich sanft Windgeräusche, elektronische Klänge, Stimmen und die Resonanz der Saiten,
 Es stellt ein Erlebnis dar, das den Zuhörer einlädt, „in den Klang hinein“ zu gehen.
 
 ---
@@ -174,7 +178,7 @@ Das ist die wichtigste Botschaft, die Kosugi uns hinterlassen hat.
 | 1972 | „Taj Mahal Travelers – 15. Juli 1972“ Ankündigung |
 | 1975 | Solowerk „Catch-Wave“ veröffentlicht |
 | 1977–90er | Musikdirektor der Merce Cunningham Dance Company |
-| 2018 | Verstorben. Im Alter von 80 Jahren verstorben. |
+| 2018 | Verstorben. Er verstarb im Alter von 80 Jahren. |
 
 ---
 
@@ -182,9 +186,9 @@ Das ist die wichtigste Botschaft, die Kosugi uns hinterlassen hat.
 
 | Titel | Jahr | Link |
 | ------------- | ----- | ----- | -------------------------- |
-| *Taj Mahal Travelers – 15. Juli 1972* | 1972 | [Amazon](https://amzn.to/4oHy02U) |
-| *Taj Mahal Travellers – August 1974* | 1974 | [Amazon](https://amzn.to/4oukW0Y) |
-| *Catch-Wave* | 1975 | [Amazon](https://amzn.to/3Js1bYY) |
+| *Taj Mahal Travelers – July 15, 1972*  | 1972  | [Amazon](https://amzn.to/4oHy02U) |
+| *Taj Mahal Travelers – August, 1974*   | 1974  | [Amazon](https://amzn.to/4oukW0Y) |
+| *Catch-Wave*                           | 1975  | [Amazon](https://amzn.to/3Js1bYY) |
 
 ---
 
@@ -197,10 +201,10 @@ Das ist die wichtigste Botschaft, die Kosugi uns hinterlassen hat.
 Die Reise der Taj Mahal-Reisegruppe war nicht nur „der Auslandsauftritt einer Band“.
 Es war eine spirituelle Reise, die über die Institution Musik hinausging und in der Welt Anklang fand.
 
-> “We are travelers, not performers.”
+> „Wir sind Reisende, keine Künstler.“
 > ― Takehisa Kosugi
 
 Selbst heute, ein halbes Jahrhundert später, sind die Geräusche, die sie von sich gaben, immer noch nachhallend.
-Es vibriert weiterhin leise in der Luft, in der Erinnerung und tief in den Herzen der Zuhörer.
+Es vibriert weiterhin leise in der Luft, in den Erinnerungen und tief in den Herzen der Zuhörer.
 
 ---

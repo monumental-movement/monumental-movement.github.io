@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Vinyl
+date: 2025-11-29 00:00:28 +0900
 image: ../assets/images/Ruff Driverz – Chosen Ones.webp
 lang: de
 layout: post
@@ -17,14 +18,14 @@ Ruff Driverz ist ein britisches DJ-/Remix-/Produktionsduo bestehend aus Brad Car
 
 „Chosen Ones“ ist ein Trance-Track, der im Jahr 2000 auf dem britischen Label Recognition veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Chosen Ones (Agnelli & Nelson Mix)
 
 B. Chosen Ones (Ruff Driverz Club Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m63894983323?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m63894983323?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XOW_JXhYJIg?si=aaxewZYetlbb9yM2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

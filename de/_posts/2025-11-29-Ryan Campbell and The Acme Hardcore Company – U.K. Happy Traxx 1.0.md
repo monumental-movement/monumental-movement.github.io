@@ -21,7 +21,7 @@ Die Acme Hardcore Company ist ein Duo, das vom britischen Hardcore-Produzenten/D
 
 A verwendet ein Sample von „Go get busy on the tempo“ von DJ Weirdo und DJ Sim.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Ryan Campbell – Oo Oo Woo
 A2. Acme Hardcore Co. – Dreema
@@ -29,4 +29,4 @@ A2. Acme Hardcore Co. – Dreema
 B. Acme Hardcore Co. – Hold That Fucker Down
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m65799413582?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m65799413582?afid=6142608987){: .button1}

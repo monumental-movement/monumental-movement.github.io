@@ -17,7 +17,7 @@ title: Nomak – ruhig
 
 Ein Instrumental-/Jazz-Hip-Hop-/Downtempo-Album, das 2007 von Nomak (Masashi Kamon) veröffentlicht wurde, der für seine Remixe von „Velodrome“ von PISMO & Shingo02 und „Rokkasho“ von Ryuichi Sakamoto & Shing02 bekannt ist.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Anger Of The Earth
 2. Spiritual Home
@@ -35,7 +35,7 @@ Ein Instrumental-/Jazz-Hip-Hop-/Downtempo-Album, das 2007 von Nomak (Masashi Kam
 14. Sanctuary
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m57250313702?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m57250313702?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5vh0K2YlFv0?si=z1QUPEF9nvvSj_5p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

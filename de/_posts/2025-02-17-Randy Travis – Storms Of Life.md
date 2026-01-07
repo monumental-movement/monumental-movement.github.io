@@ -22,7 +22,7 @@ Ihr 1986 veröffentlichtes Debüt-Studioalbum Storms of Life war ein großer kom
 Randy Travis gilt neben Reba McEntire, George Strait, Toby Keith und anderen als einer der Menschen, die zur Entwicklung des neo-traditionellen Country beigetragen haben.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. On The Other Hand
 A2. The Storms Of Life
@@ -37,7 +37,7 @@ B4. Reasons I Cheat
 B5. There'll Always Be A Honky Tonk Somewhere
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m46471890400?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46471890400?afid=6142608987){: .button1}
 
 #### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/syhTjuxqpVA?si=Xcy3uenTrKoAJG3J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

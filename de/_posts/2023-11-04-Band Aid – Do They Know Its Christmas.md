@@ -61,15 +61,15 @@ Band Aid ist eine Wohltätigkeitsprojektgruppe, die 1984 von Bob Geldof und Midg
 
 ・Trevor Horn
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Do They Know It's Christmas? (12" Mix)
 
 B1. Do They Know It's Christmas? (Standard Mix)
 
-B2. Die Welt ernähren
-````
-[Auf Mercari kaufen](https://jp.mercari.com/item/m57662834439?afid=6142608987){: .button1}
+B2. Feed The World
+```
+[メルカリで購入](https://jp.mercari.com/item/m57662834439?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j3fSknbR7Y4?si=ystwOi1DXMpBHz0u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

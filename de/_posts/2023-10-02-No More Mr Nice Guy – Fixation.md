@@ -15,12 +15,12 @@ title: Kein Mr. Nice Guy mehr – Fixierung
 
 „Fixation“ ist eine EP von Pete Lazonby und Tim Fieldings Band No More Mr Nice Guy, die 1995 auf dem britischen Label „:Confusion Records“ veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Fixation
 
 B. Space Terrace
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m33347969648?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33347969648?afid=6142608987){: .button1}
 

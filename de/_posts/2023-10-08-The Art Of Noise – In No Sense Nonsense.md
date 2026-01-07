@@ -15,7 +15,7 @@ title: Die Kunst des Lärms – in keiner Weise Unsinn
 
 „In No Sense Nonsense“ ist eine Albumkassette von Art Of Noise, die 1987 von China Records veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Galleons Of Stone
 
@@ -82,7 +82,7 @@ B15. Crusoe
 B16. One Earth
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m27011020702?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m27011020702?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FQLm_x6LH5c?si=y8jM3zRRCyVF89-i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

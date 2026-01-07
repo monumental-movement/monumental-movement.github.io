@@ -19,7 +19,7 @@ title: Die Kommunarden – Rot
 
 Das Album enthält Hitsingles wie „Don’t Leave Me This Way“ und „Never Can Say Goodbye“. Diese Songs waren aufgrund des unverwechselbaren Sounds und der Beliebtheit auf der Tanzfläche der Communards kommerziell erfolgreich.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Tomorrow
 
@@ -42,7 +42,7 @@ B4I. f I Could Tell You
 B5. C Minor
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m61578510071?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61578510071?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/79nhyK2yiZw?si=4MpDc6b35bTgNX59" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

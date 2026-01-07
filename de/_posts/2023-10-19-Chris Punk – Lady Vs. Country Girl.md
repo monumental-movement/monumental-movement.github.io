@@ -15,12 +15,12 @@ title: Chris Punk – Lady vs. Landmädchen
 
 Ein House-Remix von Primal Screams „Country Girl“ und Modjos „Lady (Hear Me Tonight)“ von Chris Punk, der viele Club-Hits remixt hat.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Chris Punk Vs. Untamed Society–Country Girl
 
 B. Chris Punk–Lady
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m16937403406?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m16937403406?afid=6142608987){: .button1}
 

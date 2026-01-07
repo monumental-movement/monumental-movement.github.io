@@ -17,7 +17,7 @@ Boys Town Gang ist eine energiegeladene Post-Disco-Gruppe, die 1980 vom Disco-DJ
 
 Disc Charge, 1981 veröffentlicht, war das zweite Album der Boys Town Gang und enthielt ein Cover ihres Hits „Can't Take My Eyes Off You“.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Can't Take My Eyes Off You
 
@@ -32,7 +32,7 @@ B2. Disco Kicks (Remix)
 B3. Can't Take My Eyes Off You (Reprise)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m70606757946?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70606757946?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hvNdWwsAMzI?si=yerdsgZaaZci1OpE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

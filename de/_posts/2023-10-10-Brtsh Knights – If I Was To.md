@@ -17,14 +17,14 @@ Sweyn Jupiter (David Barseghian), auch bekannt als Brtsh Knights, ist ein in Lon
 
 „If I Was To“ wurde 2013 auf dem Single-Label Technicolor von Ninja Tune veröffentlicht.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. If I Was To
 
 AA1. Hazed
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m72551982372?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72551982372?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CigZE0bYomw?si=Unw8z8G5Mv-sbfzm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

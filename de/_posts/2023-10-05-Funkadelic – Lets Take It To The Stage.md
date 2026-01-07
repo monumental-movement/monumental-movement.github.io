@@ -19,7 +19,7 @@ title: Funkadelic – Lass es uns auf die Bühne bringen
 
 „Get Off Your Ass and Jam“ und „Stuffs and Things“ zeigen Funkadelics musikalische Vielfalt und Kreativität und verkörpern ihren experimentellen Sound und einzigartigen Stil.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Good To Your Earhole
 
@@ -42,7 +42,7 @@ B3. The Song Is Familiar
 B4. Atmosphere
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m32390527306?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m32390527306?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i3iSD8YsKnU?si=xHBq2JNQC2hNjRxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

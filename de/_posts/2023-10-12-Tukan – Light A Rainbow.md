@@ -19,7 +19,7 @@ Tukan ist ein Trance-Projekt bestehend aus den dänischen Produzenten Lars Frede
 
 Side A ist ein Remix des deutschen Trance-Künstlers Green Court. Der zweite Song auf Seite B ist ein Remix des deutschen DJ Worris (Lars Höhler).
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Light A Rainbow (Green Court Feat. Marc Dawn 12" Mix)
 
@@ -28,7 +28,7 @@ B1. Light A Rainbow (Tukan's Original Mix)
 B2. Light A Rainbow (DJ Worris Club Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m77518561932?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m77518561932?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I2zNe3nM1ZM?si=sSeJEJjffA6RxEyB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

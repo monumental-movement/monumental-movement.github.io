@@ -21,7 +21,7 @@ Max Dury ist als Techno-Musikproduzent bekannt und erlangte Aufmerksamkeit für 
 
 Max Durys „Canal“ erfreut sich bei Fans der Technomusik und der Underground-Szene großer Beliebtheit. Seine Musik verfolgt einen einzigartigen Stil, der die Energie des Techno mit Ambient-Elementen kombiniert und der Sound einen tiefen Eindruck beim Zuhörer hinterlassen wird.
 
-#### Tracklist
+#### Trackliste
 ```md
 S1. Eternal Bleeding
 
@@ -32,7 +32,7 @@ T1. Sidekick
 T2. Searching
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m53959898480?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m53959898480?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M2xID__SXFA?si=AhYi0zHFhOqR0plj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

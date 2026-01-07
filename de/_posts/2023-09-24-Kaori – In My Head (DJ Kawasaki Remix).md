@@ -16,11 +16,11 @@ title: Kaori – In My Head (DJ Kawasaki Remix)
 Kaoris In My Head (DJ Kawasaki Remix) wurde 2007 von Crue-L Records veröffentlicht. Dieses Werk ist ein Remix von Kaoris IN My Head von DJ Kawasaki.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A In My Head (DJ Kawasaki Remix)
 
 AA In My Head (DJ Kawasaki Remix Instrumental)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m77600179175?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m77600179175?afid=6142608987){: .button1}

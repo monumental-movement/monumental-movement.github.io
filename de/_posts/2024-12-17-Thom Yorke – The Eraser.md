@@ -23,7 +23,7 @@ Das Album wurde von den Magazinen NME und Rolling Stone zu einem der besten Albe
 Die enthaltenen Songs „Analyse“ und „Black Swan“ sind jeweils
 Es wird im Abspann der Filme „Prestige“ und „A Scanner Darkly“ verwendet.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. The Eraser
 2. Analyse
@@ -36,7 +36,7 @@ Es wird im Abspann der Filme „Prestige“ und „A Scanner Darkly“ verwendet
 9. Cymbal Rush
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m78539934962?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m78539934962?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4lSiyXKu05Q?si=yO4-Exd3jk0-bfRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

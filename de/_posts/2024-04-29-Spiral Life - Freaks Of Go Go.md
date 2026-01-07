@@ -21,7 +21,7 @@ Der dritte Song des Albums wurde als Werbesong für Tower Records verwendet.
 
 Der Master ist Mastering-Ingenieur Mitsuo Koike, der an YMO und anderen gearbeitet hat.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Game Over (Version)
 2. Lovin' Song (Cardinal C4 Mix)
@@ -35,7 +35,7 @@ Der Master ist Mastering-Ingenieur Mitsuo Koike, der an YMO und anderen gearbeit
 10. Love & Hate (Abu 1044 Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m24701032123?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m24701032123?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z9AWYPlr1E8?si=F8fYuRWTFsiYzurp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

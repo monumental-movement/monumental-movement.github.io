@@ -17,7 +17,7 @@ title: U2 – Der Joshua Tree
 
 Das Album enthält die Hits „With or Without You“, „I Still Haven't Found What I'm Looking For“ und „Where the Streets Have No Name“.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Where The Streets Have No Name
 
@@ -42,7 +42,7 @@ B5. Exit
 B6. The Mothers Of The Disappeared
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m90322062120?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m90322062120?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e3-5YC_oHjE?si=y2qJQF5D3sZSunCi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

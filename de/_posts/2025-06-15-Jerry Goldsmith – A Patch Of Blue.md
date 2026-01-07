@@ -19,7 +19,7 @@ Soundtrack des amerikanischen Films „A Patch of Blue“ von 1965. Neuauflage i
 Jerry Goldsmith hat Musik für über 170 Filme komponiert, darunter „Planet der Affen“, „Papillon“, „Das Omen“, „Alien“, „Poltergeist“, „Rambo“ und „Star Trek“.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Main Title
 A2. A Favour For Selina
@@ -43,7 +43,7 @@ B8. Bacon And Eggs
 B9. Goodbye Selina
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m39224661224?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m39224661224?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5VQ4INxJSog?si=MMwskDMS5k-RdTO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

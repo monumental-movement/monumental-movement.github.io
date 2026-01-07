@@ -20,7 +20,7 @@ Geir Jenssen, auch bekannt als Biosphere, ist ein elektronischer Ambient-Musiker
 „Cirque“ ist ein Album, das im Jahr 2000 vom britischen Label Touch veröffentlicht wurde. Dieses Album ist vom amerikanischen Abenteurer Chris McCandless inspiriert, der die Inspiration für das Werk „Into the Wild“ des Bergsteigers und Autors Jon Krakauer war. Das zweite Lied, Le Grand Dôme, erscheint auf dem Mixalbum A Bugged Out Mix der französischen Elektronik-DJ Miss Kittin aus dem Jahr 2006.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Nook & Cranny
 2. Le Grand Dôme
@@ -35,7 +35,7 @@ Geir Jenssen, auch bekannt als Biosphere, ist ein elektronischer Ambient-Musiker
 11. Too Fragile To Walk On
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m43449935173?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43449935173?afid=6142608987){: .button1}
 
 #### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4tjIUeT-FS4?si=Sog6kAGXpP8fO4OL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

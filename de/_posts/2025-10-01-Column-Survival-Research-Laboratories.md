@@ -17,7 +17,8 @@ title: '[Kolumne] Survival Research Laboratories (SRL): Pionier der mechanischen
 
 Text: mmr｜Thema: Über eine innovative Gruppe, die die Beziehung zwischen Maschinen und Menschen, Technologie und Kunst sowie Ordnung und Chaos hinterfragt.
 
-Survival Research Laboratories (SRL) ist ein amerikanisches Performance-Kunstkollektiv, das 1978 von Mark Pauline in San Francisco gegründet wurde. SRL ist bekannt für groß angelegte Aufführungen mit Maschinen und Robotern, die darauf abzielen, industrielle, wissenschaftliche und militärische Technologie in künstlerische und gesellschaftspolitische Satire umzuwandeln. Ihre Arbeit ist mit der Kunst von Dada und Jean Tinguely verbunden und wurde dafür gelobt, den Zustand und die Richtung der technologischen Gesellschaft in Frage zu stellen.
+
+Survival Research Laboratories (SRL) ist ein amerikanisches Performance-Kunstkollektiv, das 1978 von Mark Pauline in San Francisco gegründet wurde. SRL ist bekannt für groß angelegte Aufführungen mit Maschinen und Robotern, die darauf abzielen, industrielle, wissenschaftliche und militärische Technologie in künstlerische und gesellschaftspolitische Satire umzuwandeln. Ihre Arbeit ist mit der Kunst von Dada und Jean Tinguely verbunden und wurde dafür gelobt, dass sie den Zustand und die Richtung der technologischen Gesellschaft in Frage stellt.
 
 ---
 
@@ -35,6 +36,7 @@ color: #fff;
 }
 </style>
 
+
 ### Hauptaktivitäten und Aufführungen
 
 SRL-Aufführungen bestehen aus ritualisierten Interaktionen mit Maschinen, Robotern und Spezialeffektgeräten, an denen nur das Publikum und die Bediener als Menschen teilnehmen. Typische Auftritte sind:
@@ -48,6 +50,7 @@ SRL-Aufführungen bestehen aus ritualisierten Interaktionen mit Maschinen, Robot
 ---
 
 ### Kennzahlen der SRL
+
 
 #### Mark Pauline
 
@@ -65,7 +68,7 @@ Derzeit: Leitet SRL von seinem Sitz in Petaluma, Kalifornien aus.
 
 Rolle: Sounddesign, mechanische Musik (hauptsächlich 1980er bis 1990er Jahre)
 
-Erfolge: Umwandlung von Robotern in Musikinstrumente, wodurch es möglich wird, Musik durch Maschinen zu komponieren und aufzuführen. Später machte er sich selbstständig und gründete das „Mechanical Sound Orchestra (MSO)“.
+Erfolge: Roboter in Musikinstrumente verwandelt, sodass Maschinen Musik komponieren und aufführen können. Später machte er sich selbstständig und gründete das „Mechanical Sound Orchestra (MSO)“.
 
 Einfluss: Etablierter SRL-Sound, der zwischen „Lärm und Musik“ liegt.
 
@@ -90,7 +93,7 @@ Erfolge: Beteiligt an der Entwicklung der Maschinensteuerungsinfrastruktur und s
 
 ---
 
-#### Other Key Collaborators
+#### Weitere wichtige Mitarbeiter
 
 Amy Critchett: Produzentin/Management-Unterstützung.
 
@@ -118,12 +121,13 @@ flowchart TD
 
 Die repräsentative DVD/das repräsentative Album von ### SRL
 
+
 SRL veröffentlicht auch DVDs und Alben mit akustischen Auftrittserlebnissen. Nachfolgend finden Sie einige repräsentative Alben:
 
 | Titel | Beschreibung | Link |
 | ------------ | ------------ | ----------- |
-| Überlebensforschungslabore | DVD Premium BOX Iron Case Spezifikationen | [Amazon](https://amzn.to/3KyG0o2) |
-| Überlebensforschungslabore | Enthält Live-Aufnahmen von 1992 bis 1998. | [Bandcamp](https://markpaulineakasurvivalresearchlaboratories.bandcamp.com/album/survival-research-laboratories) |
+| Survival Research Laboratories | DVDプレミアムBOX鉄ケース仕様 | [Amazon](https://amzn.to/3KyG0o2) |
+| Survival Research Laboratories | 1992年から1998年のライブ録音を収録。                   | [Bandcamp](https://markpaulineakasurvivalresearchlaboratories.bandcamp.com/album/survival-research-laboratories) |
 
 
 ---
@@ -147,19 +151,20 @@ Im Jahr 2007 zog SRL nach Petaluma, etwa eine Stunde nördlich von San Francisco
 
 #### Aktuelle Aktivitäten und Perspektiven
 
-SRL führt seine Auftritte weiterhin mit Maschinen und Robotern durch und hat in den letzten Jahren an Veranstaltungen wie Burning Man teilgenommen. Wir verfolgen auch die Verschmelzung von Technologie und Kunst, beispielsweise durch die Entwicklung von Maschinen, die über das Internet ferngesteuert werden können.
+SRL setzt weiterhin Maschinen und Roboter ein und hat in den letzten Jahren an Veranstaltungen wie Burning Man teilgenommen. Wir verfolgen auch die Verschmelzung von Technologie und Kunst, beispielsweise durch die Entwicklung von Maschinen, die über das Internet ferngesteuert werden können.
 
 
 ---
 
 ### SRL Aktuelle Informationen und Ressourcen
 
-- [Offizielle Website](https://www.srl.org/)
+- [公式ウェブサイト](https://www.srl.org/)
 - [Instagram](https://www.instagram.com/survivalresearchlabs/)
-- [YouTube-Kanal](https://www.youtube.com/user/survivalresearchlabs)
+- [YouTubeチャンネル](https://www.youtube.com/user/survivalresearchlabs)
 
 
 ---
+
 
 ### Abschluss
 

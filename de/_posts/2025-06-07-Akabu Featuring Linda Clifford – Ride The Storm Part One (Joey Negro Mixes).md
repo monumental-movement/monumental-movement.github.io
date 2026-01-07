@@ -19,9 +19,9 @@ Dave Lee, auch bekannt als Akabu, ist ein britischer DJ, Produzent und Remixer. 
 
 Dave Lee ist unter zahlreichen Pseudonymen aufgetreten, darunter Jakatta, Doug Willis, Raven Maize und Sessomatto.
 
-Diese Platte basiert auf Little Sunflower aus Freddie Hubbards Album The Love Connection und ist ein House-Track, der 2001 vom britischen Label NRK Sound Division veröffentlicht wurde.
+Diese Platte basiert auf Freddie Hubbards Little Sunflower aus seinem Album The Love Connection und ist ein House-Track, der 2001 vom britischen Label NRK Sound Division veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Ride The Storm (Joey Negro Medusa Mix)
 
@@ -29,7 +29,7 @@ B1. Ride The Storm (Joey Negro Dub Storm)
 B2. Ride The Storm (Accapella)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m63261987841?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m63261987841?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ezLu4Yv1nSk?si=2YFtEsfIgc6mKe5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

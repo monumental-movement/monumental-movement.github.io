@@ -18,12 +18,12 @@ The Rapture ist eine Band aus New York, die 1998 gegründet wurde. Gekennzeichne
 
 Limitierte Auflage von nur 1000 Exemplaren (einseitig)
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Olio
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m80082269178?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m80082269178?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gnOhHJlEYUA?si=Mq0-5uHjrMZn0v6H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

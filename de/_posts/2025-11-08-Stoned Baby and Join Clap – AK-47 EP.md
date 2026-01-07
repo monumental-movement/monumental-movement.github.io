@@ -18,7 +18,7 @@ Raúl López Martín (DJ Peque), auch bekannt als Stoned Baby, ist ein DJ aus Sp
 
 „AK-47 EP“ ist ein Tribal/Techno-Track, der 2002 auf dem Label Primate Endangered Species veröffentlicht wurde. Rote Vinyl-Ausgabe, limitiert auf die Erstauflage.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. AK-47
 A2. Ibiza
@@ -27,7 +27,7 @@ B1. Rxxistance Club
 B2. Virus
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m13932883481?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m13932883481?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cLQyFOmjyQA?si=8V02js6NJwczaYoS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

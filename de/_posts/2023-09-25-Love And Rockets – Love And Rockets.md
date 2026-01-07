@@ -15,11 +15,11 @@ title: Liebe und Raketen – Liebe und Raketen
 
 Love And Rockets – Love And Rockets ist ein selbstbetiteltes Album der britischen Alternative-Rock-Band Love And Rockets. Love and Rockets wurde von den ehemaligen Bauhaus-Mitgliedern Daniel Asch, David Jay und Kevin Haskins gegründet.
 
-Es erschien 1989 und gilt als Debütalbum der Band. Ihre Musik beinhaltet Elemente von Post-Punk und Gothic Rock, integriert aber auch mehr Pop-Sounds und Dance-Beats und wird von einer breiten Palette von Musikfans unterstützt.
+Es wurde 1989 veröffentlicht und gilt als Debütalbum der Band. Ihre Musik beinhaltet Elemente von Post-Punk und Gothic-Rock, aber auch mehr Pop-Sounds und Dance-Beats und wird von einer breiten Palette von Musikfans unterstützt.
 
 Dieses Album enthält Songs wie ihren Signature-Song „So Alive“, und Sie können die dunkle, melancholische Atmosphäre und die kraftvollen Darbietungen im gesamten Album spüren.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. **** (Jungle Law)
 
@@ -42,7 +42,7 @@ B4. Rock And Roll Babylon
 B5. No Words No More
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m80234913290?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m80234913290?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2bjn9RySbYE?si=6TC41-py4F68QGuO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

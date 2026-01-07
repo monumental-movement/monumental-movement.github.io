@@ -19,14 +19,14 @@ title: Michael Jackson – Willst du da sein?
 
 Dieses Lied ist auch als Soundtrack für den Film „Free Willy“ bekannt und wurde von vielen als Titelsong des Films geliebt. Es wurde auch häufig bei Live-Auftritten von Michael Jackson aufgeführt und ist damit einer der wichtigsten Songs seiner Karriere.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Will You Be There (Radio Edit)
 
 B1. Will You Be There (Instrumental)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m37751294912?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37751294912?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bUaMzwNPgro?si=jIds42IKM3meTyF3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

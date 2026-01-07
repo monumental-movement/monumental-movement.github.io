@@ -24,7 +24,7 @@ Text: mmr | Thema: Rebellion und Zerstörung – eine Herausforderung für die b
 
 ## 1) Pionier (1910er–1940er): Futurismus und Tonbandexperimente – Konzeptualisierung von „Lärm“
 ### Historischer Hintergrund
-Eine Zeit, in der Industrialisierung und Urbanisierung den Lärm der Menschenmassen und der Maschinen in der Stadt alltäglich machten. Der „ästhetische Sinn“ für Klang erweiterte sich, und andere Klänge als traditionelle Musikinstrumente begannen, in die Kunst integriert zu werden.
+Eine Zeit, in der Industrialisierung und Urbanisierung den Lärm der Menschenmassen und Maschinen in der Stadt alltäglich machten. Der „ästhetische Sinn“ für Klang erweiterte sich und andere Klänge als traditionelle Musikinstrumente begannen, in die Kunst integriert zu werden.
 
 ### Wichtige Ereignisse/Personen
 - Im Jahr 1913 veröffentlichte der italienische Avantgarde-Künstler Luigi Russolo „Die Kunst der Geräusche“.
@@ -67,7 +67,7 @@ Nach dem Zweiten Weltkrieg ermöglichte die Entwicklung von Magnetbändern und e
 Rock wird experimenteller und Lärm wird in den Rockkontext integriert.
 
 ### Repräsentative Werke
-- [Lou Reed „Metal Machine Music“ (1975)](https://amzn.to/3WNSdYQ)
+- [Lou Reed『Metal Machine Music』（1975）](https://amzn.to/3WNSdYQ)
 
 ### Ausrüstung/Technologie
 - Gitarren-Feedback, Effektgeräte und einfache Aufnahmegeräte.
@@ -82,7 +82,7 @@ Aus einer Gegenreaktion gegen kommerzielle Musik entstand eine unabhängige Nois
 - Throbbing Gristle etabliert das „industrielle“ Konzept.
 
 ### Repräsentative Werke
-- Frühe Veröffentlichungen von [Kollaps (Einstürzende Neubauten)](https://amzn.to/4qBmQPd), [Throbbing Gristle](https://amzn.to/4oybzgF).
+- [『Kollaps』（Einstürzende Neubauten）](https://amzn.to/4qBmQPd)、[Throbbing Gristle](https://amzn.to/4oybzgF)の初期盤。
 
 ### Ausrüstung/Technologie
 - Industrielle Schlaginstrumente, Metallklänge, einfache Synthesizer.
@@ -94,7 +94,7 @@ Aus einer Gegenreaktion gegen kommerzielle Musik entstand eine unabhängige Nois
 Kassettenkultur und DIY-Geist bildeten ein internationales Noise-Netzwerk.
 
 ### Wichtige Ereignisse/Personen
-- [Whitehouse (UK)](https://amzn.to/4hnbz0z), [Merzbow (Japan)](https://amzn.to/3L64TI1)
+- [Whitehouse（UK）](https://amzn.to/4hnbz0z)、[Merzbow（日本）](https://amzn.to/3L64TI1)
 
 ### Repräsentative Werke
 - Merzbows „Pulse Demon“-bezogene Werke, Whitehouses frühe Ausgabe.
@@ -109,7 +109,7 @@ Kassettenkultur und DIY-Geist bildeten ein internationales Noise-Netzwerk.
 Noise überschneidet sich mit Rock, Metal, Post-Rock und Electronica.
 
 ### Repräsentative Werke/Trends
-- [Langeweile](https://amzn.to/3WenMeo), [Lightning Bolt](https://amzn.to/49apKnp), [Sonic Youth](https://amzn.to/498sFwX) usw.
+- [Boredoms](https://amzn.to/3WenMeo)、[Lightning Bolt](https://amzn.to/49apKnp)、[Sonic Youth](https://amzn.to/498sFwX)など。
 
 ### Ausrüstung/Technologie
 - DAW, digitale Effekte, Sampler, Granularsynthese.
@@ -154,4 +154,4 @@ Diversifizierung durch modulares Synthesizer-Revival und Laptop-Akustik.
 ---
 
 ## Am Ende
-Noise-Musik ist immer eine Herausforderung an die bestehende Ästhetik und ein Versuch, die Grenzen der Musik zu erweitern. Von Russolos mechanischen Klängen bis hin zu modularen Synthesizern besteht die Essenz aller Instrumente auch nach mehr als 100 Jahren Geschichte darin, „auf den Klang selbst zu hören“.
+Noise-Musik ist immer eine Herausforderung an die bestehende Ästhetik und ein Versuch, die Grenzen der Musik zu erweitern. Von Russolos mechanischen Klängen bis hin zu modularen Synthesizern liegt ihr Wesen auch nach mehr als 100 Jahren Geschichte darin, „auf den Klang selbst zu hören“.

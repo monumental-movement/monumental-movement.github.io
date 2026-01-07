@@ -15,6 +15,7 @@ title: '[Kolumne] Black Metal: Genealogie von Dunkelheit und Ästhetik'
 ---
 
 
+
 # Black Metal – Geschichte der Entwicklung der dunklen Musik
 
 Text: mmr｜Thema: Umfassende Darstellung des Black Metal mit detaillierter regionaler Analyse, einzelnen Bandabschnitten, chronologischer Unterteilung und Illustrationen
@@ -36,6 +37,7 @@ background-color: #111;
 color: #fff;
 }
 </style>
+
 
 ## **Prolog: Warum Black Metal „besonders“ ist**
 
@@ -111,17 +113,17 @@ Der Fokus lag auf jungen norwegischen Underground-Musikern.
 * Etablierung von Lo-Fi-Aufnahmen als „Ästhetik“
 *Tremolo-Riff
 * Scream Vo
-* Ausdruck von „Ice Wasteland“ durch Wiederholung und Geschwindigkeit
+* Ausdruck von „Eisödland“ durch Wiederholung und Geschwindigkeit
 * Leichenbemalung
 * Natürlicher Blick auf Winter, Wald und Einsamkeit
 
 ## ■ Repräsentatives Band
 
-* **Mayhem**
-* **Darkthrone**
+* **Chaos**
+* **Dunkler Thron**
 * **Burzum**
-* **Emperor**
-* **Immortal**
+* **Kaiser**
+* **Unsterblich**
 * **Satyricon**
 
 ### ■ Schwerer Vorfall
@@ -175,7 +177,8 @@ Es hat sich zu „konzeptueller Musik entwickelt, die aus den Reaktionen von Kul
 
 ---
 
-## **Kapitel 6: Abschnitt mit einzelnen Banddetails (Gedanken, Musikalität und sozialer Einfluss großer Bands)**
+
+## **Kapitel 6: Abschnitt mit Details zu einzelnen Bands (Gedanken, Musikalität und sozialer Einfluss großer Bands)**
 
 Hier werden wir systematisch nach Epoche, Region und Trend in die Bands eintauchen, die zum Eckpfeiler der Black-Metal-Geschichte geworden sind.
 
@@ -187,10 +190,10 @@ Hier werden wir systematisch nach Epoche, Region und Trend in die Bands eintauch
 Repräsentative Werke: *Black Metal* (1982), *Welcome to Hell* (1981)**
 
 * Obwohl Venom nicht viele der für Black Metal typischen „Philosophien“ und „Ästhetik“ aufweist,
-  **Sie waren die erste Band, die den Begriff „Black Metal“ im Titel ihres Werks stark prägte**.
+**Sie waren die erste Band, die den Begriff „Black Metal“ im Titel ihres Werks stark prägte**.
 *Musikalisch hat es einen rauen Sound, der zwischen Thrash, Punk und NWOBHM liegt.
 * Chronos und andere Mitglieder befürworteten religiöse Mystik nicht ernsthaft;
-  **Benutzt Satanismus/Antireligion als Schockfaktor**.
+**Benutzt Satanismus/Antireligion als Schockfaktor**.
 * Infolgedessen betrachteten spätere Generationen skandinavischer schwarzer Künstler Venom als den Ursprung von „Haltung, nicht Musik“.
 
 ---
@@ -204,9 +207,9 @@ Hauptwerke: *Bathory* (1984), *The Return…* (1985), *Under the Sign of the Bla
 * Merkmale
 
 * Gitarre wie eine Lärmwand
-  * Schreiende Stimme mit tiefem und breitem Echo
-  * Minimale Struktur des Riffs
-  * Schnellerer Rhythmus (insbesondere 1985-87)
+* Schreiende Stimme mit tiefem und breitem Echo
+* Minimale Struktur des Riffs
+* Schnellerer Rhythmus (insbesondere 1985-87)
 * Die Melodielinie erinnert an Schwedens einzigartige „Kühle“ und „Feuchtigkeit“ und steht in direktem Zusammenhang mit den nachfolgenden Sätzen.
 * In den 90er Jahren wechselten sie zur Viking-Metal-Ära und gingen über den Rahmen des Black Metal hinaus, um die Ästhetik der nordischen Mythologie nachzubilden.
 
@@ -218,10 +221,10 @@ Hauptwerke: *Bathory* (1984), *The Return…* (1985), *Under the Sign of the Bla
 
 * Die Mitgliederzusammensetzung, Vorfälle und Ideologie sind allesamt Symbole der zweiten Welle des Black Metal.
 * Bühnenauftritt von Dead (Per Ohlin) (Leichen-Make-up, rohes Fleisch usw.)
-  **Ein entscheidendes Ereignis, das rituelle Elemente von „Tod und Unmenschlichkeit“ in den Black Metal brachte**.
+**Ein entscheidendes Ereignis, das rituelle Elemente von „Tod und Unmenschlichkeit“ in den Black Metal brachte.
 * Euronymous hat seinen Sitz in Helvete (einem Plattenladen in Oslo).
-  **Bildung eines Black-Metal-Innenkreises (enge kleine Gemeinschaft). **
-* Später erregte der Mordfall Euronymous (1993) und der Kirchenbrandvorfall weltweite Aufmerksamkeit.
+**Bildung eines Black-Metal-Innenkreises (enge kleine Gemeinschaft). **
+* Später erregte der Mordfall Euronymous (1993) und der Brandstiftungsvorfall in der Kirche weltweite Aufmerksamkeit.
 
 ---
 
@@ -231,9 +234,9 @@ Hauptwerke: *Bathory* (1984), *The Return…* (1985), *Under the Sign of the Bla
 Hauptwerke: *Burzum* (1992), *Det Som Engang Var* (1993), *Hvis lyset tar oss* (1994)**
 
 * Die Musik zielt auf gründlichen Minimalismus ab,
-  **Ein Stil, der darauf abzielt, durch Wiederholung eine tranceartige Natur und den Zusammenbruch des eigenen Zeitgefühls zu erzeugen**.
+**Ein Stil, der darauf abzielt, durch Wiederholung eine tranceartige Natur und den Zusammenbruch des eigenen Zeitgefühls zu erzeugen**.
 * Weiterhin ein starkes Statement in der norwegischen Kultur- und Religionsdebatte Anfang der 1990er Jahre setzend,
-  Aufgrund der übermäßigen Berichterstattung in den Medien wurde das „gefährliche Image“ des Black Metal etabliert.
+Aufgrund der übermäßigen Berichterstattung in den Medien wurde das „gefährliche Image“ des Black Metal etabliert.
 * Nach dem Vorfall (Mord an Euronymous) und der Verhaftung wurde Burzums Tonquelle stärker auf die Umgebung ausgerichtet.
 
 ---
@@ -243,13 +246,13 @@ Hauptwerke: *Burzum* (1992), *Det Som Engang Var* (1993), *Hvis lyset tar oss* (
 **Hauptwerke: *A Blaze in the Northern Sky* (1992), *Under a Funeral Moon* (1993), *Transilvanian Hunger* (1994)**
 
 * Bis 1991 war es eher auf Death Metal ausgerichtet, aber
-  **Stark von Bathory beeinflusst, etablierten sie die „reinste Form“ des skandinavischen Black Metal. **
+**Stark von Bathory beeinflusst, etablierten sie die „reinste Form“ des skandinavischen Black Metal. **
 * Die Aufnahme ist extrem Lo-Fi,
 
 * Vertikale Gitarrenwand
-  * Monotone Hi-Hat- und Snare-Schläge
-  * Extrem leichte Basis
-    wird zur definitiven Version des „Sounds des skandinavischen Black Metal“ = „kalter Sound“.
+* Monotone Hi-Hat- und Snare-Schläge
+* Extrem leichte Basis
+wird zur definitiven Version des „Sounds des skandinavischen Black Metal“ = „kalter Sound“.
 
 ---
 
@@ -258,7 +261,7 @@ Hauptwerke: *Burzum* (1992), *Det Som Engang Var* (1993), *Hvis lyset tar oss* (
 **Hauptwerk: *In the Nightside Eclipse* (1994)**
 
 * Aufgrund der intensiven Nutzung der Tastatur
-  Ein Pionier, der Black Metal zum Orchesterklang erweiterte**.
+Ein Pionier, der Black Metal zum Orchesterklang erweiterte**.
 * Die zweiachsige Struktur von Samoth und Ihsahn wurde zum Prototyp für alle späteren symphonischen BMs.
 
 ---
@@ -268,7 +271,7 @@ Hauptwerke: *Burzum* (1992), *Det Som Engang Var* (1993), *Hvis lyset tar oss* (
 **Hauptwerke: *Battles in the North* (1995), *At the Heart of Winter* (1999)**
 
 * Baue eine fiktive Eis- und Schneewelt namens „Blashyrkh“.
-  **Es ist insofern einzigartig, als es eher auf fiktive Mythen als auf Gewalt setzt**.
+**Es ist insofern einzigartig, als es eher auf fiktive Mythen als auf Gewalt setzt**.
 * Die Geschwindigkeit der Gitarre und des Schlagzeugs und die Dichte der fiktiven Welt wurden zur Quelle des späteren „Fantasy BM“.
 
 ---
@@ -283,57 +286,57 @@ Hauptwerke: *Burzum* (1992), *Det Som Engang Var* (1993), *Hvis lyset tar oss* (
 *Kultureller Hintergrund
 
 * Aufhebung des Christentums (Lutheranismus) als Nationalreligion und der alten nordischen Kultur
-  * Blockade der Jugendkultur Anfang der 1990er Jahre
-  * Historische Spannungen zwischen Politik und Religion
+* Blockade der Jugendkultur Anfang der 1990er Jahre
+* Historische Spannungen zwischen Politik und Religion
 * Musikalische Features
 
 * Lo-Fi-orientiert
-  * Skandinavische Folk-absteigende Phrase der Melodie
-  * Tremolo-Riff mit eisiger Atmosphäre
+* Skandinavische Folk-absteigende Phrase der Melodie
+* Tremolo-Riff mit eisiger Atmosphäre
 
 ---
 
 ### **Schweden: das Land der Melodie und Ordnung**
 
 * Hauptachse: Bathory / Marduk / Dark Funeral / Dissection
-* Funktionen
+* Merkmale
 
 * Schweden ist in der Aufnahmetechnologie stabil;
-    **Erzeugt einen einzigartigen Klang, der Kälte und hohe Auflösung vereint**.
-  * Dissections Einführung von Todesmelodien verbreitete sich in melodischer BM auf der ganzen Welt.
+**Erzeugt einen einzigartigen Klang, der Kälte und hohe Auflösung vereint**.
+* Dissections Einführung von Todesmelodien verbreitete sich in melodischer BM auf der ganzen Welt.
 
 ---
 
 ### **Finnland: Brutstätte für Xenomorphe**
 
 * Hauptachse: Beherit / Aufgespießter Nazarener
-* Funktionen
+* Merkmale
 
 * Lärm, Primitive, roher Satanismus usw.
-    **Das „ketzerischste“ Black Metal ist konzentriert**.
-  * Der Schwerpunkt liegt eher auf „Zeremonialität“ als auf der Qualität der Aufnahme.
+**Das „ketzerischste“ Black Metal ist konzentriert**.
+* Der Schwerpunkt liegt eher auf „Zeremonialität“ als auf der Qualität der Aufnahme.
 
 ---
 
 ### **Frankreich: ein Post-Schwarzer Pionier**
 
 * Hauptachse: Deathspell Omega / Blut Aus Nord
-* Funktionen
+* Merkmale
 
 * Philosophische, antidogmatische und avantgardistische Ausdrucksformen stechen hervor.
-  * Seit den 2000er Jahren bildet es einen der zentralen Trends des Black Metal weltweit.
+* Seit den 2000er Jahren bildet es einen der zentralen Trends des Black Metal weltweit.
 
 ---
 
 ### **Amerika (US Black Metal): Ein Schmelztiegel der Vielfalt**
 
 * Hauptachse: Leviathan / Xasthur / Wölfe im Thronsaal
-* Funktionen
+* Merkmale
 
 * Kaskadischer BM (Typ der Naturverehrung)
-  * DSBM (Depression)
-  * Umgebungs-BM
-    Jeder Stil wurde unterteilt und leitete seine globale Expansion.
+* DSBM (Depression)
+* Umgebungs-BM
+Jeder Stil wurde unterteilt und leitete seine globale Expansion.
 
 ---
 
@@ -342,7 +345,7 @@ Hauptwerke: *Burzum* (1992), *Det Som Engang Var* (1993), *Hvis lyset tar oss* (
 *Russland, Ukraine, Polen
 
 * Drudkh, Nokturnal Mortum, Graveland usw.
-  * **Folklore/Mythologie/indigene Kultur** hat einen hohen Anteil.
+* **Folklore/Mythologie/indigene Kultur** hat einen hohen Anteil.
 
 ---
 
@@ -359,9 +362,9 @@ Nachfolgend finden Sie eine **faktenbasierte Zeitleiste**. Vorfälle und Arbeite
 **1981**
 
 *Venom *Willkommen in der Hölle*
-  **1982**
+**1982**
 * Venom *Black Metal* (Gelegenheit zur Etablierung eines Genrenamens)
-  **1984**
+**1984**
 *Bathory *Bathory* (definiert die musikalische Grundlage des nordischen BM)
 
 ---
@@ -370,10 +373,10 @@ Nachfolgend finden Sie eine **faktenbasierte Zeitleiste**. Vorfälle und Arbeite
 
 **1985**
 
-* Bathory *The Return……*
-  **1987**
-* Bathory *Under the Sign of the Black Mark*
-* Mayhem *Deathcrush* EP
+*Bathory *Die Rückkehr……*
+**1987**
+* Bathory *Im Zeichen des Schwarzen Mals*
+*Mayhem *Deathcrush* EP
 
 **Meisterwerk**
 
@@ -395,7 +398,7 @@ Nachfolgend finden Sie eine **faktenbasierte Zeitleiste**. Vorfälle und Arbeite
 
 **1992**
 
-* Burzum *Burzum*
+*Burzum *Burzum*
 * Darkthrone *A Blaze in the Northern Sky*
 
 **1993**
@@ -410,10 +413,10 @@ Nachfolgend finden Sie eine **faktenbasierte Zeitleiste**. Vorfälle und Arbeite
 
 **1994**
 
-* Mayhem *De Mysteriis Dom Sathanas*
-* Emperor *In the Nightside Eclipse*
+* Chaos *De Mysteriis Dom Sathanas*
+*Kaiser *In der nächtlichen Sonnenfinsternis*
 * Burzum *Hvis lyset tar oss*
-* Darkthrone *Transilvanian Hunger*
+*Darkthrone *Transilvanian Hunger*
 
 **1995**
 
@@ -423,7 +426,7 @@ Nachfolgend finden Sie eine **faktenbasierte Zeitleiste**. Vorfälle und Arbeite
 **Meisterwerk von 1996–1999**
 
 * Satyricon *Nemesis Divina* (1996)
-* Immortal *At the Heart of Winter* (1999)
+* Unsterblich *Im Herzen des Winters* (1999)
 
 ---
 
@@ -478,9 +481,9 @@ All dies existiert gleichzeitig im Black Metal.
 * Black-Metal-Musik entstand als Spiegelbild des Klimas, der Kultur und der Geschichte einer bestimmten Region.
 * Seit den 1990er Jahren hat die **Multipolarisierung (von Norwegen als Zentrum auf den Rest der Welt)** Fortschritte gemacht.
 * Vorkommnisse, Ideen und soziale Hintergründe hatten einen starken Einfluss auf die Genrebewertung und Bildbildung,
-  **Im Hinblick auf die Musikgeschichte liegt das Wesentliche in den Veränderungen in der Arbeitsstruktur und der Aufnahmeästhetik jeder Band**.
+**Im Hinblick auf die Musikgeschichte liegt das Wesentliche in den Veränderungen in der Arbeitsstruktur und der Aufnahmeästhetik jeder Band**.
 * Seit den 2000er Jahren wird es in **Avantgarde, Naturverehrung, DSBM und Post-BM** unterteilt.
-  Der Ausbau dauert bis in die 2020er Jahre.
+Der Ausbau dauert bis in die 2020er Jahre.
 
 ---
 

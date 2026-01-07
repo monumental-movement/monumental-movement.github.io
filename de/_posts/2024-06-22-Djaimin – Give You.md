@@ -18,7 +18,7 @@ Djaimin ist ein Top-Schweizer DJ und Produzent. Als Legende der Schweizer House-
 
 „Give You“ war die erste House-Aufnahme der Schweiz und wurde weltweit ein Riesenhit.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Give You (Mix 91 Dancefloor Syndromad Mix)
 A2. Give You (Hype Groove Mix)
@@ -27,7 +27,7 @@ B1. Give You (Mix 91 Zanz Mix)
 B2. Give You (Remix 92 Dream Sequence Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m56612679362?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m56612679362?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BHFrkYtP3LE?si=gBBL16vqyhTYkbH7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

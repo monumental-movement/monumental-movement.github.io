@@ -9,7 +9,7 @@ permalink: /de/purveyors-of-fine-funk-purveyors-of-fine-funk/
 tags:
 - Techno
 - House
-title: Lieferanten von Fine Funk – Lieferanten von Fine Funk
+title: Lieferanten von feinem Funk – Lieferanten von feinem Funk
 ---
 
 
@@ -19,7 +19,7 @@ Es enthält Elemente wie funkige Rhythmen, Slap-Bass und eine Blechbläsersektio
 
 Dieses Werk wurde für seine Verschmelzung von Funkmusiktradition und modernen Elementen gelobt. Während sie die Wurzeln des Funk respektieren, schaffen sie mit ihrem einzigartigen künstlerischen Ansatz neuen Reiz.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Suspended
 
@@ -40,7 +40,7 @@ D2. Telepathos Communicator
 D3. The After Midnight Call
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m97980278138?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m97980278138?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u-WNMfNV6Go?si=CckI7iNJ8msQYBc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

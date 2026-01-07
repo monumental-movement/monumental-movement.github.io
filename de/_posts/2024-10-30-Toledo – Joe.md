@@ -19,7 +19,7 @@ House-Acid-Jazz-Track von Toledo (Toledo Diamond). Der Produzent ist Danny Saber
 Es wurde 1994 vom US-Independent-Label Moonshine Music veröffentlicht.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Joe (Joey Malcom Mix)
 
@@ -27,4 +27,4 @@ B1. Joe (T.C. Mix)
 B2. Joe (Extended Dub)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m22782567301?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m22782567301?afid=6142608987){: .button1}

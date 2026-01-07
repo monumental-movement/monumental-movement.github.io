@@ -16,7 +16,7 @@ title: Verschiedene – Rough House Vol. 1
 
 „Rough House Vol. 1“ ist ein House/Acid-House-Compilation-Album, das 1988 auf Minimal Records veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Ellis D – Took My Love Away
 A2. Les Sun Rae – Revelation
@@ -29,7 +29,7 @@ B3. R.T. & The Rockmen – Acid Chicago Style
 B4. Brooklyn Funk Essentials – We Got To Come Together
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m40425615377?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40425615377?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XNsahqlCzqU?si=7fi2ABV9rNv1TY-G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

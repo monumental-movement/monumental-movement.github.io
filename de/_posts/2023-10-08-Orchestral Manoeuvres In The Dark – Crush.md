@@ -19,7 +19,7 @@ Dieses Album ist das erste von zwei OMD-Studioalben, die von Stephen Hague produ
 
 Bei den Aufnahmen nutzte die Band stärker als in der Vergangenheit organische Instrumente.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. So In Love
 
@@ -42,7 +42,7 @@ B4. Hold You
 B5. The Lights Are Going Out
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m73878110877?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m73878110877?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1Q8clCyMdjA?si=Ul1i4Iiz9bQkS1az" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

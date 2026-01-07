@@ -16,7 +16,7 @@ title: Seeleneinheit – Cassanova
 
 Die EP „Casanova“ der Soul-Einheit enthält einen Latin-Hip-Hop-Track, der vom Track-Hersteller Spaceboy Boogie X von The Pharcyde produziert wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Cassanova (Dirty)
 
@@ -33,5 +33,5 @@ B3. Pure As Gold (Clean)
 B4. Pure As Gold (Instrumental)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m82257965192?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m82257965192?afid=6142608987){: .button1}
 

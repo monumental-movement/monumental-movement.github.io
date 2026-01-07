@@ -25,7 +25,7 @@ Genre: Euro House / Synth-Pop
 
 Erscheinungsdatum: Gepostet am 15. November 2024 (Rednex – Cotton Eye Joe)
 
-#### Tracklist
+#### Trackliste
 ```md
 Hatfield Side
 A1. Cotton Eye Joe (Madcow Mix)
@@ -38,7 +38,8 @@ B1. Cotton Eye Joe (Armand's Funky Trance Mix)
 B2. Cotton Eye Joe (Overworked Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m58300098495?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m58300098495?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -46,7 +47,7 @@ B2. Cotton Eye Joe (Overworked Mix)
 <hr>
 
 
-### Masterboy – Different Dreams
+### Masterboy – Andere Träume
 <a href="https://jp.mercari.com/item/m79586502927?afid=6142608987"><img src="../assets/images/Masterboy%20%E2%80%93%20Different%20Dreams.webp"></a>
 
 Format: CD
@@ -55,7 +56,7 @@ Genre: 90er-Jahre-Euro / Euro-Beat
 
 Enthaltene Songs: „Feel the Heat of the Night“, „I Got to Give It Up“ usw. Deutsches Eurodance-Meisterwerk, veröffentlicht 1994
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Waterfall (Intro)
 2. Different Dreams
@@ -73,7 +74,8 @@ Bonus Track For Japan
 13. Generation Of Love
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m79586502927?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m79586502927?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -90,7 +92,7 @@ Genre: 90er Euro House / Eurobeat / Italodance
 
 Enthält repräsentative Songs der 90er-Jahre-Szene im Compilation-Format
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Maximizor Featuring Kam + Paula – I Like It (Give It To Me)
 2. Bass Expanders – Beats Go
@@ -114,14 +116,15 @@ Enthält repräsentative Songs der 90er-Jahre-Szene im Compilation-Format
 20. King &amp; Queen – He - Hey Dancin'
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m24287278460?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m24287278460?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LKEWlU4rkxc?si=0kHSiG1bJjkIDNxC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-### Various – Overnight Remixes II
+### Verschiedene – Overnight Remixes II
 <a href="https://jp.mercari.com/item/m82073091012?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Overnight%20Remixes%20II.webp"></a>
 
 Format: Vinyl
@@ -130,7 +133,7 @@ Genre: 80er-90er Euro House
 
 Euro-House-, Techno-, New-Beat- und Garage-House-Compilation aus den späten 80ern bis 90ern
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Sophia – Running So Hard
 A2. The Creator – Jack
@@ -145,7 +148,8 @@ B4. Soft Cell –Tainted Love
 B5. LNR – Work It To The Bone
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m82073091012?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m82073091012?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -153,7 +157,7 @@ B5. LNR – Work It To The Bone
 <hr>
 
 
-### MDC‑X‑Static – You And Me
+### MDC-X-Static – Du und ich
 <a href="https://jp.mercari.com/item/m13942238876?afid=6142608987"><img src="../assets/images/MDC-X-Static%20%E2%80%93%20You%20And%20Me.webp"></a>
 
 Format: Vinyl
@@ -162,7 +166,7 @@ Genre: 90er Euro / Euro House
 
 12″ EP mit Mix aus dem 1990er-Clubhit „In Ecstasy“
 
-#### Tracklist
+#### Trackliste
 ```md
 A. You And Me (In Ecstasy) (Extended Ecstasy Mix)
 
@@ -170,7 +174,8 @@ B1. You And Me (In Ecstasy) (Get Wet Adventure Mix)
 B2. You And Me (In Ecstasy) (Save The Whales Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m13942238876?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m13942238876?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -186,14 +191,15 @@ Genre: 90er Euro / Euro House
 
 12″ EP mit Mix aus dem 1990er-Clubhit „In Ecstasy“
 
-#### Tracklist
+#### Trackliste
 ```md
 A. No Police = No Llamen A La Policia (Aztec Remix)
 
 B. No Police = No Llamen A La Policia (Original Version)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m35371062618?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m35371062618?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -209,7 +215,7 @@ Genre: 90er Euro / Euro House
 
 12″ EP mit Mix aus dem 1990er-Clubhit „In Ecstasy“
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Kaos (Baby Mix)
 A2. Kaos (Radio Mix)
@@ -218,14 +224,15 @@ B1. Kaos (2 Danes On Acid Mix)
 B2. Kaos (Original German Sausage Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m83196886792?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m83196886792?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M3L7YsbqySw?si=9j6BrvroNiFf3S3I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-### Channel X – So High
+### Kanal X – So hoch
 <a href="https://jp.mercari.com/item/m84866354258?afid=6142608987"><img src="../assets/images/Channel%20X%20%E2%80%93%20So%20High.webp"></a>
 
 Format: Vinyl
@@ -234,14 +241,15 @@ Genre: Euro Beat / Euro House
 
 In Belgien hergestellter Euro-Lkw, veröffentlicht im Oktober 2023
 
-#### Tracklist
+#### Trackliste
 ```md
 A. So High (Club Mix)
 
 B. So High (Single Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m84866354258?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m84866354258?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -249,7 +257,7 @@ B. So High (Single Mix)
 <hr>
 
 
-### East 17 – Around The World
+### East 17 – Um die Welt
 <a href="https://jp.mercari.com/item/m87830012673?afid=6142608987"><img src="../assets/images/East%2017%20%E2%80%93%20Around%20The%20World.webp"></a>
 
 Format: Vinyl
@@ -258,7 +266,7 @@ Genre: 90er-Jahre-Euro-House
 
 Britischer Pop-Euro-Sound aus dem Jahr 1994, remixt von Ben Liebrand
 
-#### Tracklist
+#### Trackliste
 ```md
 A #1. Around The World (Overworld Vocal)
 A #2. Around The World (Overworld Dub)
@@ -267,7 +275,8 @@ B #1. Around The World (N.E.W.S. Mix)
 B #2. Around The World (Global House Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m87830012673?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m87830012673?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -283,7 +292,7 @@ Genre: Euro Beat / Hi-NRG
 
 Italienische EP aus dem Jahr 2001, Energie 12″
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Joe Banana–Bang Bang Bang (Extended Version)
 
@@ -294,7 +303,8 @@ B1. Beat Man–Future Boy (Extended Version)
 B2. P. Stone–Kosmic Woofer (Extended Version)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m53285819387?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m53285819387?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -311,14 +321,15 @@ Genre: Euro / Euro House
 
 1994 in Italien von Deep Forest-Mitgliedern veröffentlicht ◆
 
-#### Tracklist
+#### Trackliste
 ```md
 A. La Jument De Mishao (Extended Mix)
 
 B. La Jument De Mishao (Club Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m81110098498?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m81110098498?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -326,7 +337,7 @@ B. La Jument De Mishao (Club Mix)
 <hr>
 
 
-### E‑Rotic – Sexual Madness
+### E-Rotic – Sexueller Wahnsinn
 <a href="https://jp.mercari.com/item/m50295230132?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Sexual%20Madness.webp"></a>
 
 Format: CD
@@ -335,7 +346,7 @@ Genre: 90er Euro / Euro Beat / Hi‑ERG House
 
 Der Hitsong „Turn Me On“ war auf dem 1997 veröffentlichten Album enthalten.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Sexual Madness
 2. Turn Me On
@@ -351,7 +362,8 @@ Der Hitsong „Turn Me On“ war auf dem 1997 veröffentlichten Album enthalten.
 12. When I Cry For You
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m50295230132?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m50295230132?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -359,29 +371,30 @@ Der Hitsong „Turn Me On“ war auf dem 1997 veröffentlichten Album enthalten.
 <hr>
 
 
-### E‑Rotic – Willy Use A Billy... Boy
+### E-Rotic – Willy Use A Billy... Boy
 <a href="https://jp.mercari.com/item/m74466346239?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Willy%20Use%20A%20Billy%20Boy.webp"></a>
 
 Format: CD
 
 Genre: 90er Euro / Euro Beat / Hi‑ERG House
 
-„Willy Use A Billy… Boy“ ist E-Rotics vierte Single in Deutschland und Debütsingle in Japan.
+„Willy Use A Billy… Boy“ ist E-Rotics vierte Single in Deutschland und ihre Debütsingle in Japan.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Willy Use A Billy... Boy (Extended Version)
 B. Willy Use A Billy... Boy (Safe The Sex Re-Max)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m74466346239?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m74466346239?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mpg2H1M_U-c?si=IUJAabPAnffXlUT9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-### List
+### Liste
 
 <div class="table-border">
 <table>

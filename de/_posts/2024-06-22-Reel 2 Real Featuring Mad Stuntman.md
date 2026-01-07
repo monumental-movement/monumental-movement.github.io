@@ -17,7 +17,7 @@ Reel 2 Real ist ein amerikanisches Hip-House-Musikprojekt, das in den 1990er Jah
 
 „Go On Move“ featuring Mad Stuntman wurde 1993 von Strictly Rhythm veröffentlicht und wurde aufgrund von Mad Stuntmans einzigartigem, energiegeladenem Gesang im Reggae-Stil ein Hit.
 
-#### Tracklist
+#### Trackliste
 ```md
 Mad Side
 A1. Go On Move (Erick "More" Mix)
@@ -30,7 +30,7 @@ B2. I'm The Mad Stuntman (Mad Hip Hop)
 B3. I'm The Mad Stuntman (Funky Buddah Roach Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m38805024606?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m38805024606?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tM9sx0ZpAKY?si=fH6QnJVEPQkAQWa7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

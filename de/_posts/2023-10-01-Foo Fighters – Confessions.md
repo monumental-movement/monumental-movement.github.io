@@ -15,12 +15,12 @@ title: Foo Fighters – Geständnisse
 
 Ein House-Remix der BEST OF YOU-Single der Foo Fighters aus ihrem 2005er Album In Your Honor. Einseitige Presse.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Best Of You (Remix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m26337684747?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m26337684747?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KjvaTJ5gUMs?si=slksbhafI8WU0zFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

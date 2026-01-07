@@ -18,7 +18,7 @@ Das Lied, eine Single aus dem Album Diamonds and Pearls, ist als beliebtes Lied 
 
 „Gett Off“ verfügt über einen funkigen Beat und eine groovige Basslinie, ergänzt durch Princes energiegeladene Gesangsdarbietung, was es zu einem ikonischen Teil von Princes Musikkarriere und einem Song mit besonderer Bedeutung für seine Fans und Musikliebhaber macht.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1  Gett Off (Extended Remix)
 
@@ -33,7 +33,7 @@ B2  Gangster Glam
 B3  Clockin' The Jizz (Instrumental)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m13388071866?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m13388071866?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2bi-xdXFsqk?si=Yovi5xirfaodEap3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

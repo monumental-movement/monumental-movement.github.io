@@ -19,7 +19,7 @@ Mukai Susumu Mukai, auch bekannt als Zongamin, ist ein japanischer Musiker und P
 
 „Zongamin“ ist das Debütalbum, das 2003 von XL Recordings veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Make Love Not War
 2. Serious Trouble
@@ -35,7 +35,8 @@ Mukai Susumu Mukai, auch bekannt als Zongamin, ist ein japanischer Musiker und P
 12. Mummies
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m75936834984?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m75936834984?afid=6142608987){: .button1}
 
 
 #### Youtube

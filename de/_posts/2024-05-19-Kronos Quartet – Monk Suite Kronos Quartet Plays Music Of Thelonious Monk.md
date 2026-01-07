@@ -21,7 +21,7 @@ Die Band ist seit 50 Jahren mit einer wechselnden Besetzung von Musikern aktiv, 
 
 Das Quartett deckt ein sehr breites Spektrum musikalischer Genres ab, darunter auch zeitgenössische klassische Musik.
 
-#### Tracklist
+#### Trackliste
 ```md
 Monk Suite：
 1. Well, You Needn't
@@ -37,7 +37,7 @@ Monk Plays Ellington：
 9. Brilliant Corners
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m73128675135?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m73128675135?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w8cLmRx31Ec?si=XgSC2lj8gR06s-Px" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

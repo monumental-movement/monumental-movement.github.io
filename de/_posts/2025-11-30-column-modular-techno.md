@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Column
+date: 2025-11-30 00:00:05 +0900
 image: ../assets/images/column-modular-techno.webp
 lang: de
 layout: post
@@ -25,7 +26,7 @@ Text: mmr｜Thema: Über die Modular Techno-Szene
 
 Obwohl seine Ursprünge als Genre bis in die frühen 2000er Jahre zurückreichen, sind seine grundlegenden Elemente tief in der Entstehung analoger modularer Synthesizer in den 1970er Jahren und der Entstehung des Detroit Techno in den 1980er Jahren verwurzelt. Aufgrund des hohen Freiheitsgrads modularer Synthesizer ist es oft möglich, einzigartige Sounds zu entwickeln, die die Textur und räumliche Weite des Klangs betonen, anstatt einfach nur Techno-Tracks abzuspielen.
 
-In seinem Live-Set manipuliert er Rhythmus, Basslinie, Percussion und Geräuscheffekte in jedem Modul, um einen improvisierten musikalischen Raum zu schaffen, der sich verändert. Dadurch können Zuhörer ein Erlebnis erleben, das eher dem „Erleben einer Aufführung“ als dem „Hören eines Titels“ ähnelt.
+In seinem Live-Set manipuliert er Modul für Modul Rhythmus, Basslinie, Percussion und Geräuscheffekte, um einen improvisierten musikalischen Raum zu schaffen. Dadurch können Zuhörer ein Erlebnis erleben, das eher dem „Erleben einer Aufführung“ als dem „Hören eines Titels“ ähnelt.
 
 
 ---
@@ -43,11 +44,12 @@ color: #fff;
 }
 </style>
 
+
 # Historischer Hintergrund und Herkunft
 
 ## Früher Techno und analoger Synthesizer
 
-In den 1970er Jahren boten die von Robert Moog, ARP und anderen entwickelten modularen Synthesizer neue Möglichkeiten für die Musikproduktion. Diese Synthesizer waren insofern bahnbrechend, als sie den individuellen Anschluss von Klangquellenmodulen, Filtern, LFOs, Hüllkurvengeneratoren usw. ermöglichten und die Möglichkeit boten, Klangstrukturen frei zu konstruieren.
+In den 1970er Jahren boten die von Robert Moog, ARP und anderen entwickelten modularen Synthesizer neue Möglichkeiten für die Musikproduktion. Diese Synthesizer waren insofern bahnbrechend, als sie es ermöglichten, Klangstrukturen frei zu konstruieren, indem man Klangquellenmodule, Filter, LFOs, Hüllkurvengeneratoren usw. einzeln anschloss.
 
 In den frühen 1980er Jahren etablierten Juan Atkins, Derrick May, Kevin Saunderson und andere in Detroit die elektronische Musik namens „Techno“. Der frühe Detroit Techno basierte hauptsächlich auf Sequenzern und Rhythmusmaschinen, aber die warmen Töne und komplexen Sequenzierungstechniken, die nur analogen Synthesizern vorbehalten waren, bildeten eine Brücke zum späteren Modular Techno.
 
@@ -60,7 +62,7 @@ graph TD
 
 ## Entwicklung modularer Synthesizer
 
-In den 1990er Jahren erschienen analog/digitale Hybridmodule von Roland, Korg, Doepfer und anderen, die die Hürde für den Einsatz modularer Synthesizer senkten und es vielen Künstlern ermöglichten, in ihren Heimstudios oder kleinen Clubs experimentelle Sounds zu erzeugen.
+In den 1990er Jahren erschienen hybride Analog-/Digitalmodule von Roland, Korg, Doepfer und anderen, die die Hürde für den Einsatz modularer Synthesizer senkten und es vielen Künstlern ermöglichten, in ihren Heimstudios oder kleinen Clubs experimentelle Sounds zu erzeugen.
 
 Insbesondere seit 1995 sorgt der von Doepfer vorgeschlagene Eurorack-Standard dafür, dass Module kompatibel und kompakt sind und es für Einzelpersonen einfacher ist, modulare Sets zusammenzustellen. Dies führt direkt zur Erweiterung der Modular Techno-Szene ab den 2000er Jahren.
 
@@ -89,11 +91,12 @@ graph LR
 
 ---
 
+
 # Repräsentative Künstler und Werke
 
 Wenn man über das Genre Modular Techno spricht, ist es besonders wichtig, wer modulare Synthesizer verwendet, wie sie eingesetzt werden und mit welchen Werken und Performances sie die Szene geprägt haben. Dabei konzentrieren wir uns auf repräsentative, international anerkannte Künstler und ordnen ihre Stile und Live-Ansätze faktenbasiert.
 
-## Surgeon（Anthony Child）
+## Chirurg (Anthony Child)
 
 Der in Großbritannien geborene Surgeon gilt als einer der ersten Künstler, der modulare Synthesizer im techno-industriellen Trend einführte. Seit den 2010er Jahren basieren seine Live-Sets auf Eurorack-Modulen und etablieren damit einen Stil, der sich eher durch „völlig improvisierte Klangerzeugung“ als durch Track-Wiedergabe auszeichnet. Seine Live-Kompositionen entwickeln sich durch eine Kombination aus Klangveränderungen durch Patching-Änderungen und Rhythmusgenerierung mithilfe eines Sequenzers, sodass das Publikum physische Veränderungen in Rhythmus und Lärm in Echtzeit erleben kann.
 
@@ -131,7 +134,7 @@ Der technische Hintergrund von Modular Techno ist ein Mechanismus, der jedes Mod
 
 Modulare Synthesizer erzeugen Klang, indem sie Module mit Funktionen wie Klangquellen, Filter, Hüllkurven, LFOs, VCFs und VCAs kombinieren und über Kabel verbinden. Der akustische Aufbau bleibt ganz dem Design des Nutzers überlassen und es gibt keine festen Voreinstellungen. Dieser Punkt passt gut zum Ansatz des Techno, bei dem die Improvisation im Vordergrund steht.
 
-Ein wesentliches Merkmal des Eurorack-Standards besteht darin, dass Module verschiedener Hersteller durch die Standardisierung der 3U-Größe, der Modulbreite HP und der Netzteilspezifikationen frei kombiniert werden können. Dies ist seit den 2000er Jahren ein Faktor für die weltweite Ausbreitung der modularen Synthesizer-Kultur.
+Ein wesentliches Merkmal des Eurorack-Standards besteht darin, dass Module verschiedener Hersteller durch die Standardisierung der 3U-Größe, der Modulbreite HP und der Leistungsspezifikationen frei kombiniert werden können. Dies ist seit den 2000er Jahren ein Faktor für die weltweite Ausbreitung der modularen Synthesizer-Kultur.
 
 ## Rolle von Sequenzer und CV/Gate
 
@@ -180,7 +183,7 @@ Die Entwicklung der Modular Techno-Szene wird nicht nur von musikalischen Faktor
 
 Berlin diente nicht nur als internationales Zentrum für Techno, sondern auch als Testgelände für die modulare Synthesizer-Kultur. Clubs wie Berghain, Tresor und Griessmühle führten ein neues Auftrittsformat in den Kontext der Clubkultur ein, indem sie modulare Künstler im Rahmen von „Elektroakustischem Live“ auftraten, das sich von DJ-Sets unterschied.
 
-Darüber hinaus spielt die Superbooth (eine jährlich in Berlin stattfindende Synthesizer-Ausstellung) eine entscheidende Rolle bei der Entwicklung der modularen Kultur. Durch die Zusammenführung zahlreicher Hersteller, Künstler und Schöpfer und den direkten Austausch technischer Informationen und des Know-hows zur Klangerzeugung schritt die klangliche Verfeinerung von Modular Techno schnell voran.
+Darüber hinaus spielt Superbooth (eine jährlich in Berlin stattfindende Synthesizer-Ausstellung) eine entscheidende Rolle bei der Entwicklung der modularen Kultur. Durch die Zusammenführung zahlreicher Hersteller, Künstler und Schöpfer und den direkten Austausch technischer Informationen und des Know-hows zur Klangerzeugung schritt die klangliche Verfeinerung von Modular Techno schnell voran.
 
 <div class="mermaid">
 graph LR
@@ -198,9 +201,9 @@ Diese „Build-your-own-Kultur“ entspricht dem DIY-Geist des Techno und ist ei
 
 ---
 
-# Musikalische Eigenschaften und Analyse
+# Musikalische Charakteristika und Analyse
 
-Modular Techno weist mehrere gemeinsame akustische und strukturelle Eigenschaften auf. Im Folgenden werden wir die typischen Elemente klassifizieren und erklären, welche Funktionen sie innerhalb des Techno-Frameworks spielen.
+Modular Techno weist mehrere gemeinsame akustische und strukturelle Eigenschaften auf. Im Folgenden klassifizieren wir die typischen Elemente und erklären, welche Funktionen sie im Rahmen von Techno spielen.
 
 ## 1. Rhythmus-„Schwankungen“ und stochastische Veränderungen
 
@@ -292,7 +295,7 @@ graph LR
 
 # Zusammenfassung
 
-Modular Techno ist ein äußerst einzigartiges und innovatives Genre, das aus der Schnittstelle der Freiheit modularer Synthesizer und der rhythmischen Struktur von Techno besteht. Technologie, Kultur, Klang und Leistung sind auf komplexe Weise miteinander verbunden und entwickeln sich weltweit weiter.  
+Modular Techno ist ein äußerst einzigartiges und innovatives Genre, das aus der Schnittstelle der Freiheit modularer Synthesizer und der rhythmischen Struktur von Techno besteht. Technologie, Kultur, Klang und Leistung sind auf komplexe Weise miteinander verbunden und entwickeln sich weltweit weiter.
 Der Grund dafür ist die grundlegendste Freude an der elektronischen Musik: „den Moment zu manipulieren, in dem ein Klang live entsteht.“
 
 
@@ -326,7 +329,7 @@ Im Folgenden finden Sie eine Zusammenstellung von Gerätekategorien, die häufig
 
 ## Hüllkurve / Modulation / Zufall
 - Lärm machen – Mathematik
-- Veränderliche Instrumente – Stufen
+- Veränderliche Instrumente – Bühnen
 - Massenvernichtungswaffen – Speerwurf
 - Intellijel – Quadrax
 - Noise Engineering – Mimetic Digitalis (zufälliger CV)
@@ -344,7 +347,7 @@ Im Folgenden finden Sie eine Zusammenstellung von Gerätekategorien, die häufig
 - Lärm machen – Mimeophon
 - Industrielle Musikelektronik – Bionic Lester (digitales Filter-/Verzerrungssystem)
 
-## Utility (Mixer/VCAs/Clock/Schalter)
+## Utility (Mixer/VCAs/Clock/Switch)
 - ALM Busy Circuits – Pamelas neues Workout (Uhr)
 - Intellijel – Mixup / Quad VCA
 - Veränderliche Instrumente – Links / Kinks
@@ -358,15 +361,15 @@ Im Folgenden finden Sie eine Zusammenstellung von Gerätekategorien, die häufig
 
 Der britische Techno-Künstler Blawan nutzt Eurorack-Module, um rohe Klangformen in seinen harten, dicken Techno-Sounds zu kombinieren. Er sagt, dass insbesondere in seinem Produktionsstil seit den 2010er Jahren die Verzerrung modularer Synthesizer und percussionartige Bearbeitungen zu wesentlichen Merkmalen seiner Arbeit geworden sind.
 
-## Karenn（Blawan & Pariah）
+## Karenn (Blawan & Pariah)
 
 Eine hardwarebasierte Live-Einheit, die durch die Kombination von Drumcomputern und modularem Equipment funktioniert. Obwohl es nicht vollständig modular basiert, hat es eine ähnliche Ästhetik wie Modular Techno, da es CV-gesteuerte Drum-/Analogmodule in seine Live-Performance integriert.
 
-## Surgeon & Daniel Bean（Live）
+## Surgeon & Daniel Bean (Live)
 
 Der Live-Auftritt des Surgeon-Duos mit Daniel Bean zeichnet sich durch einen Ansatz aus, bei dem die beiden ein groß angelegtes modulares System konstruieren, das weiterhin Klang in Echtzeit erzeugt. Ihr Live-Set, das Techno-Rhythmus mit Improvisation verbindet, gilt als typisches Beispiel für modulare Live-Performance.
 
-## Ancient Methods
+## Alte Methoden
 
 Während er Techno mit einem starken Industrial-/EBM-Ton entwickelt, führt er bei Live-Auftritten auch Verzerrung und Geräuschverarbeitung mithilfe analoger Module ein. Modularität wird häufig als Quelle für harte Texturen verwendet.
 
@@ -405,7 +408,7 @@ flowchart TD
 
 ---
 
-### Patch-Beispiel 2: Rhythmuserzeugung mit Zufallselementen
+### Patch-Beispiel 2: Rhythmusgenerierung mit Zufallselementen
 
 <div class="mermaid">
 flowchart TD

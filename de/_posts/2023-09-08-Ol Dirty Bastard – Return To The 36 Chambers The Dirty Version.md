@@ -2,6 +2,7 @@
 author: sal
 categories:
 - Vinyl
+date: 2023-09-08 00:00:02 +0900
 image: ../assets/images/Dirty Bastard – Return To The 36 Chambers.webp
 lang: de
 layout: post
@@ -12,11 +13,17 @@ title: Ol' Dirty Bastard – Return To The 36 Chambers The Dirty Version
 ---
 
 
+
+
+
+
+
+
 Dieses Album, „Return To The 36 Chambers The Dirty Version“, ist eine der erfolgreichsten Veröffentlichungen in der Solokarriere von Ol' Dirty Bastard.
 
 Es beinhaltete auch Kooperationen mit Mitgliedern von Wu-Tang und anderen Gastkünstlern, und das Album stellte durchweg seinen individuellen Musikstil zur Schau und erntete Kritikerlob und kommerziellen Erfolg.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Intro
 
@@ -63,7 +70,7 @@ D14. Proteck Ya Neck II The Zoo
 D15. Cuttin' Headz
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m90374147615?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m90374147615?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h2zgB93KANE?si=KUPGwKXO9fXWBJfM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

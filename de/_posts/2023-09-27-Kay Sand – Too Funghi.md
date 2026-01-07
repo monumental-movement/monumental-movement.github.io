@@ -17,7 +17,7 @@ Kay Sand ist ein Projekt des italienischen DJs Francesco Sperotto, das 2009 auf 
 
 Auch die Remixe sind hervorragend, darunter das italienische Lied „Minimono“ und Domenico Ciprianis richtiger Name „Lucreito“.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Too Funghi
 
@@ -26,7 +26,7 @@ B1. Too Funghi (Minimono Remix)
 B2. Too Funghi (Lucretio Remix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m63658613527?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m63658613527?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3M82YPKhjfQ?si=jEDwKsxsMXDp8jyT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

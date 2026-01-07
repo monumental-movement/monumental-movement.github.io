@@ -21,7 +21,7 @@ Bei diesem Song handelt es sich um einen Dancefloor-Song, der Bolero- und Disco-
 
 „Baila Bolero“ von Fan Fan ist aufgrund seines Spaß- und Tanzcharakters ein besonderer Leckerbissen für Disco- und Eurodisco-Liebhaber. Beim Hören des Liedes spürt man den Charme der Tanzmusik der 80er Jahre und die Energie dieser Zeit.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Baila Bolero (Bolero Dance Mix)
 
@@ -30,7 +30,7 @@ A2. Baila Bolero (7" Radio Mix)
 B. Baila Bolero (House Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m20134677507?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m20134677507?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Nt1WaRjQ3I?si=d7drBhiqBFTvZz0S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

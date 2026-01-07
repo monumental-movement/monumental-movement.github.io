@@ -25,7 +25,7 @@ Der zweite Track auf Seite A ist ein Remix des deutschen Techno-DJs und Produzen
 
 Der erste Song auf Seite B ist ein Remix von ALEXANDER KOWALSKI, einem seit den 90er Jahren aktiven Techno-Produzenten und Performer.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Girl! (Christopher Just Remix)
 A2. Girl! (Video Edit)
@@ -34,7 +34,7 @@ B1. Let's Roll (Alexander Kowalski Remix)
 B2. Let's Roll (Original Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m41279711163?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m41279711163?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o3VBR5k2ZVI?si=h8wMI5O9FVlRQUo4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

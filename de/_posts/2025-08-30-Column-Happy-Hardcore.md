@@ -37,7 +37,7 @@ Wie der Name schon sagt, handelt es sich bei diesem Genre um eine Kombination au
 
 ### Relevanz für die japanische Kultur
 
-#### Affinität zu Anime-/Spielemusik
+#### Affinität zu Anime-/Game-Musik
 
 Happy Hardcore legt Wert auf helle und eingängige Melodien und passt daher gut zum Geschmack von Anime-Songs und Spielemusik.
 
@@ -51,21 +51,21 @@ Seit den 2000er Jahren ist Japans einzigartige „J-Core“-Szene entstanden.
 
 Basierend auf fröhlichem Hardcore, verschmolzen mit der Otaku-Kultur (Anime, Doujin, Akihabara-Clubkultur).
 
-[DJ Sharpnel](https://amzn.to/4pIBKCL) und [m1dy](https://amzn.to/4pCFQfA) sind international bekannt.
+[DJ Sharpnel](https://amzn.to/4pIBKCL)、[m1dy](https://amzn.to/4pCFQfA)などが国際的に知られる。
 
 Fans aus Übersee erkennen die Formel „Happy Hardcore + Anime“ als „japanisch“ an und unterstützen sie als Reimport.
 
 #### Tanzspielkultur (BEMANI/DDR)
 
-Viele fröhliche Hardcore-Songs sind in Konamis [Dance Dance Revolution (DDR)](https://amzn.to/4mxxAe5) und [Beatmania IIDX-Serien](https://amzn.to/46ic1ta) enthalten.
+Konamiの [Dance Dance Revolution (DDR)](https://amzn.to/4mxxAe5) や [beatmania IIDX シリーズ](https://amzn.to/46ic1ta)に、ハッピーハードコア系楽曲が多数収録。
 
 Infolgedessen hat sich in Japan die Game-Center-Kultur, die sich von den Clubs unterscheidet, auf junge Menschen ausgeweitet.
 
-Zum Beispiel: DDR-Songs von [Naoki](https://amzn.to/42BJOuW), [Ryu☆](https://amzn.to/46xoN5F), [DJ Shimamura](https://amzn.to/46OsTHX) und anderen haben einen großen Einfluss auf Happy Hardcore-Fans im Ausland.
+例：[Naoki](https://amzn.to/42BJOuW)、[Ryu☆](https://amzn.to/46xoN5F)、[DJ Shimamura](https://amzn.to/46OsTHX)らによるDDR楽曲は海外のハッピーハードコアファンにも影響大。
 
 #### Festivals und Doujin-Verkäufe
 
-Im Gegensatz zum Rave im Vereinigten Königreich konzentriert sich die Szene in Japan auf M3 (Sound-/Medien-Mix-Doujin-Verkäufe) und Clubveranstaltungen im Akihabara-Stil.
+Im Gegensatz zum Rave in Großbritannien konzentriert sich die Szene in Japan auf M3 (Verkauf von Sound-/Medienmix-Doujins) und Clubveranstaltungen im Akihabara-Stil.
 
 „Derivativer Musikvertrieb“ und „Doujin-CD-Kultur“ unterstützten auf einzigartige Weise den Vertrieb und die Entwicklung von Happy Hardcore.
 
@@ -79,23 +79,23 @@ Im Gegensatz zum Rave im Vereinigten Königreich konzentriert sich die Szene in 
 
 - **Spielkultur**: DDR- und Musikspiele machten Happy Hardcore vertrauter.
 
-- **Reimportationsphänomen**: Ein Genre, das seinen Ursprung in Großbritannien hat, entwickelt sich in Japan unabhängig und beeinflusst erneut die Welt.
+- **Reimportationsphänomen**: Ein Genre, das seinen Ursprung im Vereinigten Königreich hat, entwickelt sich in Japan unabhängig und beeinflusst erneut die Welt.
 
 <hr>
 
 ### Repräsentative japanische Happy-Hardcore/J-Core-Künstler
 
-- **[DJ Shimamura](https://amzn.to/46OsTHX)** – Vertreter des japanischen Happy Hardcore.
+- **[DJ Shimamura](https://amzn.to/46OsTHX)** – 日本ハッピーハードコアの代表格。
 
-- **[DJ Sharpnel](https://amzn.to/4pIBKCL)** – Im Ausland als „J-Core“ hoch gelobt.
+- **[DJ Sharpnel](https://amzn.to/4pIBKCL)** – 海外で“J-Core”として高く評価。
 
-- **[Ryu☆](https://amzn.to/46xoN5F) / [kors k](https://amzn.to/4nDJhAM)** – Hauptschöpfer der BEMANI-Szene.
+- **[Ryu☆](https://amzn.to/46xoN5F) / [kors k](https://amzn.to/4nDJhAM)** – BEMANIシーンの主要クリエイター。
 
-- **[P＊Light](https://amzn.to/4pz7ZUz) / [REDALiCE](https://amzn.to/46R2rO0)** – Beliebter Produzent der Akihabara-Clubkultur.
+- **[P＊Light](https://amzn.to/4pz7ZUz) / [REDALiCE](https://amzn.to/46R2rO0)** – 秋葉原系クラブ文化の人気プロデューサー。
 
 <hr>
 
 ### Die einzigartige Rolle der japanischen Kultur in der globalen Musikgeschichte
 
 Happy Hardcore entstand ursprünglich aus dem britischen Rave, verschmolz jedoch mit der japanischen Kultur (Anime, Spiele, Doujins, Musikspiele) und bildete eine einzigartige „J-Core“-Kultur.
-Heute wird es mit „Happy Hardcore = Anime-ähnliche Niedlichkeit“ in Verbindung gebracht und Japan ist international zu einem wichtigen Stützpunkt geworden.
+Heute wird es mit „Happy Hardcore = Anime-ähnliche Niedlichkeit“ in Verbindung gebracht und Japan hat sich zu einem wichtigen internationalen Stützpunkt entwickelt.

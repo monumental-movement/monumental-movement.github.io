@@ -19,7 +19,7 @@ title: '[Kolumne] Geschichte und Entwicklung von DTM (DAW) – Wie sich die Tonp
 
 Text: mmr｜Thema: Ein kulturelles Gerät, das die „Demokratisierung der Musikproduktion“ symbolisiert
 
-DTM (DeskTop Music) – Auf Japanisch „DTM“ und im englischsprachigen Raum DAW (Digital Audio Workstation) genannt, bezieht sich der Workflow auf eine Kultur, in der Aufnahme, Bearbeitung, Mischung und Produktion mithilfe von Computern und Software durchgeführt werden. In diesem Artikel werden wir den Fluss von seiner Entstehung bis zur Gegenwart zusammen mit einer Chronologie ordnen, wobei der Schwerpunkt auf „technologischen Wendepunkten“ und „kulturellen Auswirkungen“ liegt.
+DTM (DeskTop Music) – Der Workflow, auf Japanisch „DTM“ und im englischsprachigen Raum DAW (Digital Audio Workstation) genannt, bezieht sich auf eine Kultur, in der Aufnahme, Bearbeitung, Mischung und Produktion mithilfe von Computern und Software durchgeführt werden. In diesem Artikel werden wir den Fluss von seiner Entstehung bis zur Gegenwart zusammen mit einer Chronologie ordnen, wobei der Schwerpunkt auf „technologischen Wendepunkten“ und „kulturellen Auswirkungen“ liegt.
 
 <hr>
 
@@ -58,7 +58,7 @@ Der Ursprung von DTM liegt im eigentlichen Akt der „Schaffung eines Werks durc
 
 ### Revolution durch das Aufkommen von MIDI (ca. 1983)
 
-MIDI (Musical Instrument Digital Interface) ist ein Standard zum Austausch von Noteninformationen und Steuerinformationen zwischen Keyboards, Sequenzern und Computern. Dadurch wurde die Produktion durch die Integration von Synthesizern und externen Modulen erheblich vereinfacht und die Software-Sequenzsteuerung (später der Kern von DAWs) Wirklichkeit. MIDI standardisiert „Aufführungsinformationen“ und erhöht die Flexibilität der Musikproduktion erheblich.
+MIDI (Musical Instrument Digital Interface) ist ein Standard zum Austausch von Noteninformationen und Steuerinformationen zwischen Keyboards, Sequenzern und Computern. Dadurch wurde die Produktion durch die Integration von Synthesizern und externen Modulen erheblich vereinfacht und die Software-Sequenzsteuerung (später der Kern von DAWs) Wirklichkeit. MIDI standardisiert „Performance-Informationen“ und erhöht die Flexibilität der Musikproduktion erheblich.
 
 <hr>
 
@@ -70,7 +70,7 @@ Verbesserungen der Computerleistung und der praktische Nutzen der Festplattenauf
 
 ### Geburt von Heimstudios und „individueller Produktion“ (2000er Jahre)
 
-Mit Verbesserungen in der Leistung persönlicher PCs, der Verbreitung von Audioschnittstellen und Verbesserungen in der Qualität von Plug-Ins ist die Aufnahme nicht mehr nur etwas für das Studio. Produktionsumgebungen, die sich auf Loops und Muster konzentrieren, wie FL Studio und Ableton Live, haben den Produktionsstil elektronischer Musik und Hip-Hop verändert, und es ist mittlerweile üblich, dass Einzelpersonen Alben und Soundtracks zu Hause fertigstellen. Durch die Kombination aus Internetvertrieb und Verkaufsplattformen (Bandcamp, SoundCloud etc.) ist die Schwelle von der Produktion bis zur Veröffentlichung drastisch gesunken.
+Mit Verbesserungen in der Leistung persönlicher PCs, der Verbreitung von Audioschnittstellen und Verbesserungen in der Qualität von Plug-Ins ist die Aufnahme nicht mehr nur etwas für das Studio. Auf Loops und Mustern basierende Produktionsumgebungen wie FL Studio und Ableton Live haben den Produktionsstil elektronischer Musik und Hip-Hop verändert, und es ist mittlerweile üblich, dass Einzelpersonen Alben und Soundtracks zu Hause fertigstellen. Durch die Kombination aus Internetvertrieb und Verkaufsplattformen (Bandcamp, SoundCloud etc.) ist die Schwelle von der Produktion bis zur Veröffentlichung drastisch gesunken.
 
 <hr>
 
@@ -92,7 +92,7 @@ DAWs haben sich von Werkzeugen zum einfachen „Aufnehmen, Arrangieren und Misch
 
 **Zeitdehnung/Tonhöhenkorrektur**: Länge und Tonhöhe von Klängen frei manipulieren (z. B. Audioquantisierung, Werkzeuge zur Tonhöhenkorrektur).
 
-**Automatisierung und Modulation**: Erzielen Sie Dynamik durch die Änderung von Parametern im Laufe der Zeit.
+**Automatisierung und Modulation**: Erzielen Sie Dynamik, indem Sie Parameter im Laufe der Zeit ändern.
 
 **Zerstörungsfreie Bearbeitung**: Kann bearbeitet werden, ohne die Originaldaten zu ändern. Grundfunktionen von DAW.
 
@@ -100,17 +100,17 @@ DAWs haben sich von Werkzeugen zum einfachen „Aufnehmen, Arrangieren und Misch
 
 ### Funktionen der wichtigsten DAWs
 
-[**Pro Tools (Avid)**](https://amzn.to/4n48V0L): Industriestandard für professionelle Aufnahme und Postproduktion. Seine Stärke liegt in der robusten Bearbeitung und Mischung. AAX-Plugin.
+[**Pro Tools（Avid）**](https://amzn.to/4n48V0L)：プロ録音・ポストプロダクションの業界標準。編集・ミキシングの堅牢さが強み。AAXプラグイン。
 
-[**Cubase (Steinberg)**](https://amzn.to/3J9udfx): Stärken in MIDI-Sequenzen und Kompositionsworkflow. Der Schöpfer des VST-Standards.
+[**Cubase（Steinberg）**](https://amzn.to/3J9udfx)：MIDIシーケンスや作曲ワークフローに強み。VST規格の生みの親。
 
-[**Logic Pro (Apple)**](https://amzn.to/3W5tqzp): Umfassend und kostengünstig. Beliebt bei Mac-Benutzern. Reichlich integrierte Klangquellen.
+[**Logic Pro（Apple）**](https://amzn.to/3W5tqzp)：総合的でコストパフォーマンス良好。Macユーザーに人気。豊富な内蔵音源。
 
-[**Ableton Live**](https://amzn.to/3IN6QbN): Spezialisiert auf Clip-basierte Improvisation und Live-Einsatz. Weit verbreitet in elektronischen Systemen.
+[**Ableton Live**](https://amzn.to/3IN6QbN)：クリップベースの即興性とライブ用途に特化。エレクトロニック系に広く採用。
 
-[**FL Studio**](https://amzn.to/43ocpnQ): Ideal zum Erstellen von Loops/Patterns, beliebt für die Beat-Erstellung. Einfach zu verwendende Klavierrolle.
+[**FL Studio**](https://amzn.to/43ocpnQ)：ループ／パターン作成に最適、ビートメイクで人気。使いやすいピアノロール。
 
-[**REAPER**](https://amzn.to/4ognVtw): Leicht und hochgradig anpassbar. Niedrige Kosten und viel Community-Erweiterung.
+[**REAPER**](https://amzn.to/4ognVtw)：軽量でカスタマイズ性高い。コストが低く、コミュニティでの拡張が豊富。
 
 <hr>
 
