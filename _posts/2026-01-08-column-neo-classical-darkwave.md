@@ -5,7 +5,7 @@ author: mmr
 categories: [ Column ]
 tags: [ neo-classical, darkwave, gothic, experimental ]
 image: ../assets/images/column-neo-classical-darkwave.webp
-date: 2026-01-08 00:00:067 +0900
+date: 2026-01-08 00:00:07 +0900
 ---
 
 
