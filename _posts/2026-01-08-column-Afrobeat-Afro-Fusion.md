@@ -111,7 +111,7 @@ Afro-Fusionという語は、2000年代以降、アフリカ系アーティス�
 <div class="mermaid">
 flowchart TD
 A["伝統リズム"] --> B["ハイライフ"]
-B --> C"[Afrobeat"]
+B --> C["Afrobeat"]
 C --> D["Afro-Fusion"]
 E["ジャズ・ファンク"] --> C
 F["ヒップホップ・R&B"] --> D
