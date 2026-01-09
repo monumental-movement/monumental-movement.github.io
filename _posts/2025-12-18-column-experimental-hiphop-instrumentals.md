@@ -63,6 +63,10 @@ color: #fff;
 
 ## Madlibの制作慣行
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMkGcEGW4U4?si=QLXLfNXsUYZPG0OW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 Madlibの制作は、ハードウェアサンプラーを中心とした即興的手法に特徴がある。SPシリーズを用いた制作では、視覚的編集よりも身体的操作が優先され、サンプルのズレや揺れがそのまま音楽に残される。
 
 * サンプルは原音保持を前提に選択される
@@ -78,10 +82,14 @@ flowchart LR
     C --> D["短尺ビート"]
 </div>
 
-
 ---
 
+
 ## Knxwledgeの制作慣行
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yK91vjg2Hsg?si=r18TMv3pzhtatHbh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 KnxwledgeはDAWを制作基盤とし、極端に短いループと遮断的編集を特徴とする。視覚的タイムライン上での配置操作は、拍感覚を数値から切り離す役割を果たす。
 
@@ -98,8 +106,8 @@ flowchart LR
     C --> D["断章化"]
 </div>
 
-
 ---
+
 
 ## サンプリング技法の分解
 
