@@ -63,11 +63,17 @@ The Glitch Mobは、複数人による制作体制を活かし、ビートとサ
 
 ベースは楽曲の推進力として設計され、キックとの位相関係が厳密に管理される。サブ帯域はモノラルに近い配置が多く、クラブ再生時の安定性を重視した設計が特徴である。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xbbwjfa9JQE?si=-2_64kU--YmohV0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ### 3.2 KOAN Sound
 
 KOAN Soundは、極端に精密なオーディオ編集と高度なミキシング技術で知られる。彼らの楽曲では、1音ごとに異なるエンベロープやフィルター設定が適用され、同一音色の連続使用はほぼ見られない。
 
 各音が占有する周波数帯域は明確に分離され、ベース、ミッド、ハイの衝突が最小限に抑えられる。この設計により、複雑なリズムでも混濁しない明瞭さが維持される。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ach8lgF6-AY?si=h70zKmxpWEPZPRgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -189,17 +195,10 @@ Glitch Hopのミックスでは、奥行きは残響量ではなく、アタッ�
 
 過度な音圧競争はGlitch Hopでは必ずしも主目的ではない。むしろ、瞬間的なピークと沈黙の対比が重視される。そのため、リミッターは安全装置として機能し、表現そのものはミックス段階で完結させる傾向が強い。
 
----
-
-## 15. Monumental Movement Records的視点
-
-Monumental Movement Recordsの文脈においてGlitch Hopを捉える場合、重要なのはスタイルの模倣ではなく、編集そのものを批評行為として扱う姿勢である。断片化は破壊ではなく、再編成のための前提条件であり、音楽は常に再構築可能な構造体として提示される。
-
-Glitch Hopは、理論的には高度に人工的でありながら、結果として極めて身体的である。この矛盾は未解決のまま保持され、それ自体がジャンルの緊張関係を形成している。
 
 ---
 
-## 16. 拡張年表
+## 15. 拡張年表
 
 <div class="mermaid">
 timeline
@@ -212,7 +211,7 @@ timeline
 
 ---
 
-## 17. 総括
+## 16. 総括
 
 Glitch Hopは、ビートミュージックにおける編集解像度を極限まで引き上げた結果として成立したジャンルである。1小節、1音、さらには1ミリ秒単位での判断が、最終的な身体感覚へと直結する。その意味でGlitch Hopは、制作技術の集合体であると同時に、聴取体験そのものを設計する思想体系でもある。
 
