@@ -66,6 +66,8 @@ Afrobeatの典型的編成は、ドラムセット、複数のパーカッショ
 
 > "歌詞内容の政治性は、当時のナイジェリア政権との緊張関係を生み、複数回の弾圧や逮捕に繋がった"
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E0BhNPiq78k?si=OEZsK3zMTS0b0igU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 ## 1970年代の拡大

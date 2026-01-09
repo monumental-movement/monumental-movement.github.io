@@ -105,6 +105,8 @@ FKA twigs の音楽では、声が主要な構成要素として扱われる。�
 
 動作は緩急を強くつけて構成され、音響の変化と厳密に対応する。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wZ2njttY3BA?si=LoipjfeBoX9zUWOa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 ## 10. Arca の活動背景
@@ -140,6 +142,8 @@ Arca の楽曲では、音色が安定した状態を保たない。歪み、断
 Arca の映像表現では、身体は変形可能な素材として扱われる。人体と人工物、デジタル処理されたイメージが重ね合わされ、音響の歪みと対応関係を持つ。
 
 身体表象は固定されたアイデンティティを示すものではなく、変化し続ける構造として提示される。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4LaCgzhidY?si=3Ml1wlUr-tNSts8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

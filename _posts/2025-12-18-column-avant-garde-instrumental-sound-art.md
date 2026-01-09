@@ -67,6 +67,10 @@ Alvin Lucier は、音波の物理的挙動そのものを作品の中心に据�
 
 代表作《I Am Sitting in a Room》では、朗読音声を同一空間で繰り返し再生・再録音することで、部屋固有の共鳴周波数が強調され、最終的に言語は消失する。この過程は、音が情報から物理現象へと移行する様子を明確に示している。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bhtO4DsSazc?si=V4qjAe3Nm9Ow7ycC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ### 3-2 フィードバックと自己生成
 
 Lucier はフィードバック現象を用い、音が自己生成的に変化する構造を多く用いた。ここでは作曲は開始条件の設定に近く、結果は毎回異なる。
@@ -95,6 +99,10 @@ Lucier の作品は、空間の寸法、素材、反射特性に強く依存す�
 ---
 
 ## 第5章：Christian Fennesz の制作環境
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BU7-TwdQhyo?si=_iskop-M4YBKi38X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 ### 5-1 ギターとデジタル処理
 

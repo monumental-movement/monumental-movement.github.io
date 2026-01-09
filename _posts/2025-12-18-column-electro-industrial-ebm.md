@@ -109,11 +109,19 @@ Nitzer Ebbに代表されるように、ヴォーカルはリズムの一部と�
 
 ## 9. Front 242 の構造的貢献
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j9sW556IBjo?si=RCXeEWWFMSm7oPwZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 Front 242 は、EBMを概念、構造、音響の三層で定式化した存在である。彼らの楽曲は、クラブ再生を前提とした明確なリズム設計と、非感情的かつ断片的な言語使用によって特徴づけられる。
 
 ---
 
 ## 10. Nitzer Ebb のミニマリズム
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dfwicqniOMw?si=7nDOtCdu22Rt8j3m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 Nitzer Ebb は、EBMの要素を極限まで削減することで、身体性を前面に押し出した。最小限の音数、反復されるシャウト、強調されたリズムは、ジャンルのストイックな側面を象徴している。
 

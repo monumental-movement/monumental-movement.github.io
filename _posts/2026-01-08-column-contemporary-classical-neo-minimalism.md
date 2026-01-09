@@ -101,6 +101,8 @@ Max Richterはドイツ生まれ、イギリスを拠点とする作曲家であ
 
 映画、テレビ、バレエのための音楽も多く手がけており、コンサート音楽と映像音楽の境界を曖昧にしている。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b_YHE4Sx-08?si=hqVZkspnb7IBkhY6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 ## Nils Frahm
@@ -114,6 +116,8 @@ Nils Frahmはドイツ出身の作曲家・ピアニストであり、幼少期�
 Frahmは自らのスタジオを創作の中心に据え、複数のピアノ、シンセサイザー、テープマシンを組み合わせて制作を行う。即興演奏と編集を組み合わせる制作手法が特徴である。
 
 > "演奏・作曲・録音が分離されていない点が、従来のクラシック作曲家と異なる。"
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dIwwjy4slI8?si=jYGJ0cRwYyzExsU_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -132,6 +136,8 @@ Hauschka（Volker Bertelmann）はドイツの作曲家・ピアニストであ�
 ### 他分野との接続
 
 Hauschkaは映画音楽、現代美術、舞台芸術など複数の分野で活動しており、ネオ・ミニマリズムが特定の制度に限定されないことを示している。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kH_2Vz7BKBY?si=BAOnZrVOwDGGFzd1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
