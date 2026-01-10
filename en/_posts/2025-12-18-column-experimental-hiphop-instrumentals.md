@@ -69,6 +69,10 @@ In traditional hip-hop production, loops of two to eight bars were the basic uni
 
 ## Madlib production practices
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMkGcEGW4U4?si=QLXLfNXsUYZPG0OW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 Madlib's production is characterized by an improvisational method centered around hardware samplers. When producing using the SP series, physical manipulation takes precedence over visual editing, leaving sample shifts and fluctuations intact in the music.
 
 * Samples are selected with the premise of preserving the original sound.
@@ -84,10 +88,14 @@ flowchart LR
     C --> D["Short beat"]
 </div>
 
-
 ---
 
+
 ## Knxwledge production practices
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yK91vjg2Hsg?si=r18TMv3pzhtatHbh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 Knxwledge is based on a DAW and features extremely short loops and isolated editing. The placement operation on the visual timeline serves to separate the sense of beat from the numbers.
 
@@ -104,8 +112,8 @@ flowchart LR
     C --> D["Fragmentation"]
 </div>
 
-
 ---
+
 
 ## Decomposition of sampling techniques
 

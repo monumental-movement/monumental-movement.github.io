@@ -68,7 +68,7 @@ Early music was characterized by innovation that transcended traditional genre b
 
 #### 3.2 Live performances and video art activities
 
-Psychic TV was also innovative in its live performance. Many of the live performances used video equipment and multi-screens to provide the audience with a challenging and ritualistic experience. An attempt was made to reconstruct the live performance itself as a kind of ritual space, not only through music but also through images and physical expression.
+Psychic TV was also innovative in its live performance. Many of the live performances used video equipment and multi-screens to provide the audience with a challenging and ceremonial experience. An attempt was made to reconstruct the live performance itself as a kind of ritual space, not only through music but also through images and physical expression.
 
 #### 3.3 Birth of Thee Temple ov Psychick Youth (T.O.P.Y.)
 

@@ -50,7 +50,7 @@ color: #fff;
 Its musicality is multi-layered. AOR, soul, funk, jazz, disco - based on Western black music, they combined Japanese melodic beauty and poetry. Tatsuro Yamashita"s precise vocal harmony, Mariya Takeuchi"s sweet yet heartrending melody, and Eiichi Otaki's structured production. All of them functioned as a "Japanese redefinition of pop."
 
 The themes of this music are summarized in motifs such as love, nightlife, loneliness, and movement. Even though it is set in a city, there is a certain feeling of being left behind.
-It was a ""private landscape painting"' depicting the richness and emptiness brought about by rapid economic growth as a personal feeling. That"s why it resonates with modern overseas listeners. Now that urbanization and digitalization have progressed, they too face the same loneliness.
+It was a ""private landscape painting"' depicting the richness and emptiness brought about by rapid economic growth as a personal feeling. That"s why it resonates with modern overseas listeners. This is because, in a time of urbanization and digitalization, they too face the same loneliness.
 
 ---
 
@@ -73,7 +73,7 @@ The chord progression uses Major 7 and 9th frequently, creating a floating feeli
 Although the rhythm is AOR-like, it absorbs the disco and soul trends of the time, and is characterized by a light groove of around 110 BPM.
 
 In terms of recording, the ""aesthetics of space'' created by the analog equipment and skilled engineers of the time shines.
-The studio's reverb processing and EQ precision achieved both "transparency" and "humidity."
+The studio's reverb processing and precision EQ achieved both transparency and humidity.
 In particular, Tatsuro Yamashita's ""SPACY'' (1978) is handed down as a monumental work that elevated the artistry of studio recording to its ultimate limit.
 The perfection of this sound is one of the reasons why it was "discovered" overseas more than 40 years later.
 
@@ -147,7 +147,7 @@ In other words, this genre has transformed from being a "local Japanese culture"
 
 ---
 
-## 10. Conclusion: An era in which nostalgia becomes an export product
+## 10. Conclusion: The era when nostalgia becomes an export product
 
 The music that the Japanese once created as a ""city dream'' is now resonating with people on the other side of the world 40 years later.
 This is not just nostalgia, but a reversal in which ""the past becomes the future.''

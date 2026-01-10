@@ -73,6 +73,10 @@ Alvin Lucier is a composer who places the physical behavior of sound waves at th
 
 In his most famous work, I Am Sitting in a Room, by repeatedly playing back and re-recording the spoken word in the same space, the resonant frequencies unique to the room are emphasized, and the language eventually disappears. This process clearly shows how sound moves from information to physical phenomenon.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bhtO4DsSazc?si=V4qjAe3Nm9Ow7ycC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ### 3-2 Feedback and self-generation
 
 Lucier used feedback phenomena and often used structures in which sounds change in a self-generated manner. Here, composing is more like setting the starting conditions, and the results are different each time.
@@ -92,7 +96,7 @@ flowchart LR
 
 ### 4-1 Architectural acoustics
 
-Lucier's work relies heavily on spatial dimensions, materials, and reflective properties. Even if the piece is the same, the acoustic results will vary greatly if it is installed in a different location.
+Lucier's work relies heavily on spatial dimensions, materials, and reflective properties. Even if the piece is the same, the acoustic results will vary greatly if the installation location is different.
 
 ### 4-2 Spectator position
 
@@ -101,6 +105,10 @@ The position and movement of the audience is a factor that changes the acoustic 
 ---
 
 ## Chapter 5: Christian Fennesz's production environment
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BU7-TwdQhyo?si=_iskop-M4YBKi38X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 ### 5-1 Guitar and digital processing
 

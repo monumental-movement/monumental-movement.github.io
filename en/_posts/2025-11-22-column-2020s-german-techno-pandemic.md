@@ -159,7 +159,7 @@ This strange phenomenon has progressed in 2020–2021.
 ## ● Clubs will be legally upgraded to "cultural facilities" (2021)
 In 2021, the German Bundestag took a historic decision.
 
-**Legal protection of clubs as "cultural institutions" (Kultureinrichtung)**
+**Legally protect clubs as "cultural institutions"**
 
 This is in fact a major turning point.
 Until then, clubs were treated as a nightlife industry.

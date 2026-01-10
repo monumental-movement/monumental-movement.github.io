@@ -15,7 +15,7 @@ title: VA – Tank Girl
 ---
 
 
-Soundtrack of the post-apocalyptic sci-fi movie ""Tank Girl"' directed by Rachel Talalay, which was released in theaters in 1995. Tank Girl is a live-action adaptation of a comic that has a cult following in the UK. The soundtrack was assembled by Courtney Love, and SPK"s Graeme Revell provided original music. Devo recorded a new version of "Girl U Want" for the movie because she was a big fan of the comic.
+Soundtrack of the post-apocalyptic sci-fi movie ""Tank Girl"' directed by Rachel Talalay, which was released in theaters in 1995. Tank Girl is a live-action adaptation of the UK cult comic. The soundtrack was assembled by Courtney Love, and SPK"s Graeme Revell provided original music. Devo recorded a new version of "Girl U Want" for the movie because she was a big fan of the comic.
 
 #### Tracklist
 ```md

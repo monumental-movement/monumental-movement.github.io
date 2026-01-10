@@ -112,7 +112,7 @@ For Zeni Geva, the addition of Yoshida once again had a strong impact.
 
 ---
 
-## 5. Second period Zeni Geva (2010–): Re-evaluation and global renewed attention
+## 5. Second period Zeni Geva (2010–): Re-evaluation and global re-attention
 ### "Alive and Rising (2010)"
 - Live sound source from the 2009 lineup
 - Tatsuya Yoshida"s perverted drums and Null & Tabata"s guitar duel are spectacular

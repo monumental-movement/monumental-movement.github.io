@@ -68,11 +68,17 @@ The Glitch Mob has established a method of highly dividing and integrating beats
 
 The bass is designed to be the driving force of the song, and its phase relationship with the kick is strictly controlled. The subband is often arranged in a monaural manner, and is characterized by a design that emphasizes stability during club playback.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xbbwjfa9JQE?si=-2_64kU--YmohV0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ### 3.2 KOAN Sound
 
 KOAN Sound is known for extremely precise audio editing and advanced mixing techniques. In their songs, different envelopes and filter settings are applied to each note, and the same tone is rarely used consecutively.
 
 The frequency bands each note occupies are clearly separated, minimizing collisions between bass, mids, and highs. This design maintains clear clarity even in complex rhythms.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ach8lgF6-AY?si=h70zKmxpWEPZPRgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -152,11 +158,11 @@ Glitch Hop is a genre born from the combination of technological evolution and p
 
 While the beat structure of Glitch Hop is conservative in its four-beat framework, its internal resolution is extremely high. In this chapter, we will use one bar as the smallest unit of analysis and examine how kick, snare, hi-hat, and glitch elements are arranged and transformed.
 
-In typical Glitch Hop, a strong kick is often placed on the first beat, but at the same time the sublayer often sounds with a slight delay. This delay of several milliseconds is not a physical delay, but an intentional design to emphasize the sense of weight in the low range.
+In typical Glitch Hop, a strong kick is often placed on the first beat, but at the same time, the sublayer often sounds with a slight delay. This delay of several milliseconds is not a physical delay, but an intentional design to emphasize the sense of weight in the low range.
 
 The snare is often placed on the second and fourth beats, but the attack and tail parts may be composed of separate samples. This allows the sense of hit and reverberation to be controlled independently, making the groove stable and unstable at the same time.
 
-The hi-hat is not just a tick, it functions as a rhythm density adjustment device. By creating a section in which the number of notes is intentionally reduced within a bar, and immediately after that section, the music is subdivided into extreme pieces, the listener's sense of time is disturbed.
+The hi-hat is not just a tick, it functions as a rhythm density adjustment device. By creating a section in which the number of notes is intentionally reduced within a measure, and immediately after that section, the music is subdivided into extreme pieces, the listener's sense of time is disturbed.
 
 <div class="mermaid">
 flowchart LR
@@ -194,17 +200,10 @@ While the low range is fixed almost in the center, the glitch elements in the mi
 
 Excessive sound pressure competition is not necessarily the main purpose of Glitch Hop. Rather, the emphasis is on the contrast between momentary peaks and silence. Therefore, the limiter functions as a safety device, and there is a strong tendency for the expression itself to be completed at the mixing stage.
 
----
-
-## 15. Monumental Movement Records perspective
-
-When considering Glitch Hop in the context of Monumental Movement Records, what is important is not the imitation of styles, but the attitude of treating editing itself as an act of criticism. Fragmentation is not destruction but a prerequisite for reorganization, and music is always presented as a structure that can be reconstructed.
-
-Glitch Hop is highly artificial in theory, yet extremely physical as a result. This contradiction remains unresolved, forming a genre tension in itself.
 
 ---
 
-## 16. Expanded Chronology
+## 15. Expanded Chronology
 
 <div class="mermaid">
 timeline
@@ -217,7 +216,7 @@ timeline
 
 ---
 
-## 17. Summary
+## 16. Summary
 
 Glitch Hop is a genre that was established as a result of raising the editing resolution of beat music to the maximum. Judgments made in one measure, one note, and even in milliseconds are directly connected to the final physical sensation. In that sense, Glitch Hop is not only a collection of production techniques, but also a system of thought that designs the listening experience itself.
 

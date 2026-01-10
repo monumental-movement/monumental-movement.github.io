@@ -59,7 +59,7 @@ Features include the following:
 * Gives breathing dynamics without making the side chain extremely deep
 * Focus on "build ~ melody" rather than drop
 
-Although the influence of Mt. Eden is large, the name ""Chillstep'' as a genre arose spontaneously within internet culture.
+Although the influence of Mt. Eden is large, the genre name ""Chillstep'' arose naturally within internet culture.
 
 ---
 
@@ -103,7 +103,7 @@ The symbol of Chillstep is "smooth sub-bass."
 Liquid Dubstep inherits the feel of Liquid Drum"n"Bass, with a more "transparent, water-like" texture.
 
 * Clear high-end and sparkling impression
-*High vocal chop ratio
+* High vocal chop ratio
 *Base is smoother and less jittery
 * Often uses one-shot FX like bubbles
 
@@ -224,14 +224,14 @@ Emphasis is placed on ""sustainability" and ""lingering resonance" rather than m
 
 ### 5-5 drums
 
-* Kick: Don't limit the low range too much
+* Kick: Do not reduce the low range too much
 * Snare: Thin deep reverb
 * Hat: Reduces shake and smoothes high end
 * Percussion: water droplet FX enabled
 
 ### 5-6 mix
 
-*Smoothly suppresses 5-7kHz stimulation
+* Suppress and smooth 5-7kHz stimulation
 * Minimize background noise (analog hiss, wind, rain, etc.)
 * Fog-like texture with high-cut reverb
 * Sidechain is suppressive, only creates movement
@@ -272,7 +272,7 @@ flowchart TD
 
 ## 8. Current status and future prospects of the genre
 
-Chillstep/Liquid Dubstep is not just an offshoot of dubstep, but a representative case of the internet and visual culture forming a musical genre. Even in the 2020s, it has smoothly integrated with genres such as lo-fi culture, ambient, melodic bass, and future garage, and has been widely accepted as a form of "quiet electronic."
+Chillstep/Liquid Dubstep is not just an offshoot of dubstep, but a typical example of how the internet and visual culture have shaped a musical genre. Even in the 2020s, it has smoothly integrated with genres such as lo-fi culture, ambient, melodic bass, and future garage, and has been widely accepted as a form of "quiet electronic."
 
 Additionally, the following trends have been observed in recent years.
 

@@ -16,9 +16,9 @@ title: '[Column] New Wave: The intersection of post-punk music innovation and 19
 ## New Wave is not just a genre, but a ""sensibility of the times'' that inherits the experimental spirit of the post-punk era and fuses diverse music and cultures.**
 
 
-Text: mmr｜Theme: Post-punk era art movement
+Text: mmr｜Theme: Art movements in the post-punk era
 
----
+<hr>
 
 ### From post-punk to new wave
 
@@ -26,7 +26,7 @@ The punk movement of 1976 shook up the music scene with its directness of being 
 
 The general term that was born from this experiment was ""New Wave.'' From an academic perspective, new wave is a concept that encompasses a variety of musical developments since post-punk, and rather than a strict genre name, it is a cultural label that refers to the consciousness and sensibilities of the times.
 
----
+<hr>
 
 ### Musical features and innovations
 
@@ -64,7 +64,7 @@ From a musical perspective, new wave can be seen as a movement based on the tria
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j_QLzthSkfM?si=H6GbBWjj-B8J_FOK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
----
+<hr>
 
 ### Fashion and subculture
 
@@ -92,7 +92,7 @@ New York"s Talking Heads is centered around art school graduate David Byrne, and
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5IsSpAOD6K8?si=InBWbY0HDV2tsWxI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
----
+<hr>
 
 ### Social and geopolitical context
 
@@ -108,7 +108,7 @@ The diversity of the new wave is deeply tied to the social context in which it w
 
 Against this background, new wave is not just a musical genre, but a reflection of urban culture and generational consciousness during the Cold War.
 
----
+<hr>
 
 ### Decline and Succession
 
@@ -124,7 +124,7 @@ But the spirit was passed on to the next generation:
 
 New Wave was a major turning point in music history in that it ""crossed genre boundaries and elevated music to a cultural movement.''
 
----
+<hr>
 
 ### Post-punk era art movement, not a genre
 
@@ -132,16 +132,3 @@ New wave originated from punk in the 1970s, and was an important movement in mus
 
 New Wave is a ""comprehensive art of the era'' in which music, art, social criticism, and fashion are intricately intertwined.
 
----
-
-#### Podcast
-
-<iframe title="New Wave: Post-Punk Innovation and 1980s Urban Culture" allowtransparency="true" height="300" width="100%" style="border: none; min-width: min(100%, 430px);height:300px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=pticr-19fa0c9-pb&from=pb6admin&square=1&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&logo_link=episode_page&btn-skin=ff6d00&size=300" loading="lazy" allowfullscreen=""></iframe>
-
----
-
-#### YouTube
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OBrPlpQbFiA?si=0fQa5TCG--UBUrel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----

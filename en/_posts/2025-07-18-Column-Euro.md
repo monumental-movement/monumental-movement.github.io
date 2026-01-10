@@ -230,7 +230,7 @@ Is it nostalgia or newness for you?
 <td>Masterboy</td>
 <td><a href="https://jp.mercari.com/item/m79586502927?afid=6142608987">Different Dreams</a></td>
 <td>CD</td>
-<td>1994 German Eurodance masterpiece</td>
+<td>1994 German Eurodance Masterpiece</td>
 </tr>
 <tr>
 <td>VA</td>

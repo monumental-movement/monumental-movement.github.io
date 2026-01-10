@@ -58,7 +58,7 @@ The beat is based on garage-derived **2-step**, but it also includes certain flu
 - Bass drum ranges from **110 to 130 BPM** instead of around 140
 - Snare has a weak attack tone without emphasizing the backbeat
 - Hats are often made from processed field recordings rather than metal.
-- Use short samples not only of drum machines, but also of small objects hitting sounds, paper scraping sounds, etc.
+- In addition to drum machines, you can use short samples such as the sound of small objects hitting, the sound of paper scraping, etc.
 
 ### 1-3 Acoustic space: reverberation, particleization, field recording
 Post-dubstep can be described as a ""genre that creates space.'' In particular, the following elements are distinctive.

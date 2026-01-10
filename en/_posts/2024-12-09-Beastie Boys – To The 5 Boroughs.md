@@ -15,7 +15,7 @@ title: Beastie Boys – To The 5 Boroughs
 
 
 "To the 5 Boroughs" is the sixth studio album by US hip-hop group Beastie Boys, released in 2004. The album debuted at number one on the Billboard 200, selling 360,000 copies in its first week and was certified platinum by the RIAA.
-12曲目は日本版のみのボーナストラック。
+The 12th track is a bonus track only available in the Japanese version.
 
 #### Tracklist
 ```md

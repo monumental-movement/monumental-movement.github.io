@@ -106,7 +106,7 @@ At this moment, a culture of software acceptance of external plugins began.
 * Actively introducing soft synths
 
 emagic and Steinberg compete as two major DAWs from Germany.
-Digidesign is moving toward becoming the "absolute king of audio editing."
+Digidesign is on its way to becoming the "absolute king of audio editing."
 
 ---
 
@@ -261,7 +261,7 @@ Over the past few years, the history of DAWs has undergone another major change.
 
 ### ■ Adobe: Increase in demand for distribution and broadcasting
 
-* Integration advantages with Premiere
+* Integration advantage with Premiere
 * Strong in the YouTube/Podcast era
 
 ---

@@ -13,7 +13,7 @@ title: El Cubano – Esta E' La Vida
 ---
 
 
-A Latin house/Brazilian house/tribal house/dub mix record of El Cubano's hit single "Esta E' La Vida" released in 1997.
+A Latin house/Brazilian house/tribal house/dub mix record of El Cubano's big hit single "Esta E' La Vida" released in 1997.
 
 #### Tracklist
 ```md

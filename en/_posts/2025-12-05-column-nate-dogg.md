@@ -9,8 +9,7 @@ layout: post
 tags:
 - Hiphop
 - classic
-title: '[Column] Nate Dogg: The trajectory of the "king of hooks" that symbolizes
-  G-Funk'
+title: '[Column] Nate Dogg: The trajectory of the "king of hooks" who symbolizes G-Funk'
 ---
 
 
@@ -56,7 +55,7 @@ All three had experience singing in church, and Nate Dogg in particular had exte
 This foundation of gospel singing had a decisive influence on his later style.
 Although her voice was linear with little vibrato, it had a deep resonance and a sense of rhythm that was naturally ingrained in her body.
 
-### Joining the Marine Corps
+### Joining the Marines
 
 After graduating high school, Nate Dogg **enlisted in the US Marine Corps** and was discharged after serving for about three years.
 This experience changed his life circumstances, but it was also a period that essentially forced him to return to Long Beach and music.
@@ -190,7 +189,7 @@ Snoop Dogg and Warren G, in particular, have said that their sound would not hav
 
 ---
 
-## 10. Nate Dogg Timeline
+## 10. Nate Dogg Chronology
 
 <div class="mermaid">
 timeline

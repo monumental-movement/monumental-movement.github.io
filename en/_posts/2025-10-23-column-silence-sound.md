@@ -17,7 +17,7 @@ title: '[Column] Silent music: Rediscovering the act of listening'
 
 Text: mmr | Theme: After John Cage's ""4 minutes and 33 seconds,'' silence became another aspect of music. What is listening? Considering the reconstruction of the relationship between humans and the world as told by music without sound
 
-When John Cage"s ""4"33'' premiered in New York in 1952, audiences were perplexed and agitated.
+When John Cage's ""4:33'' premiered in New York in 1952, audiences were perplexed and agitated.
 The pianist doesn't play a single note. However, the venue was filled with sounds: coughs, chairs creaking, and the wind outside.
 At that moment, it became clear that music is not just composed sounds, but the act of listening itself.
 
@@ -134,7 +134,7 @@ graph TD
 </div>
 
 As this diagram shows, ""listening'' is not a passive act, but a creative act.
-Silence functions not as a space for playing music, but as a space for thinking and empathy.
+Silence functions not as a "space" for playing music, but as a space for thinking and empathy.
 
 ---
 

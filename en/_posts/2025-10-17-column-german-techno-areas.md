@@ -343,7 +343,7 @@ That's why this country remains "honest in sound" more than anywhere else in the
 
 ### Related columns
 
-🔗 [[Column] The genealogy and current state of German Techno - the aesthetics of sound spreading from Berlin to the world](https://monumental-movement.jp/Column-German-Techno)
+🔗 [[Column] Genealogy and present of German Techno - Aesthetics of sound spreading from Berlin to the world](https://monumental-movement.jp/Column-German-Techno)
 
 🔗 [[Column] The Golden Age of UK Techno](https://monumental-movement.jp/Column-90s-UKTechno)
 

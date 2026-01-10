@@ -138,7 +138,7 @@ color: #fff;
 
 **Keiji Haino**:
 - **The ultimate physical guitarist**: Simultaneously manipulate the guitar, voice, and body to create an extreme sound world through improvisation.
-- **Techniques**: Integrates all physical expressions such as picking, sliding, bow playing, resonant object manipulation, bass shouts, strange voices, and whistling.
+- **Techniques**: Integrates all physical expressions such as picking, sliding, bow playing, resonant object manipulation, bass shouts, strange voices, whistling, etc.
 - **Ideology**: Music is an extension of the body, and the guitar is a mirror of emotion and spirit. Sublimating the destructive tone as an emotional expression.
 - **Major Works**:
 - "Live at Improvised Music from Japan" series: Records of extreme improvised performances

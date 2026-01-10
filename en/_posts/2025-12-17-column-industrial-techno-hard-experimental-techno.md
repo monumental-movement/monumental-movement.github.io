@@ -145,7 +145,7 @@ The body is given over to predictable beats, and the hearing is exposed to unpre
 | Years | Events |
 | ------ | -------------------------- |
 | 1970s | Industrial music establishes material-oriented structure |
-| 1980s | Techno establishes a repetitive time structure |
+| 1980s | Techno establishes a repetitive temporal structure |
 | 1990s | Fusion of hard techno and industrial |
 | 2010s | Redefining modern industrial techno |
 | 2020s | Integrating precision acoustic design and physicality |

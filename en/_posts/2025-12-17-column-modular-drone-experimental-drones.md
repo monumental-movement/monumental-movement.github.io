@@ -177,7 +177,7 @@ Furthermore, by applying different spectral changes to the left and right sides,
 
 ### Fusion of reverberation and sustained sound
 
-Long reverberation times are not just an effect in drones, but function as part of the acoustic structure. When the original sound and the reverberant sound cannot be separated, the beginning and end of the sound become ambiguous, and the sustained sound takes on an infinity.
+Long reverberation times are not just an effect in drones, but function as part of the acoustic structure. When the original sound and the reverberant sound cannot be separated, the start and end of the sound become ambiguous, and the sustained sound takes on an infinity.
 
 > "Reverberation does not decorate sound, but works as a device that stretches time itself."
 

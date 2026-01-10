@@ -18,7 +18,7 @@ title: '[Column] Shpongle: Reincarnation of sound and journey of consciousness'
 Text: mmr｜Theme: Philosophy of the acoustic universe drawn by Raja Ram and Simon Posford
 
 
-Shpongle is a monumental psychedelic electronica/psychedelic project centered around Simon Posford and Raja Ram. Formed in 1996, inspired by the total solar eclipse in India, they have presented an "audio-journey" that fuses ethnic sampling, acoustic instrumentation, and masterful studio production. Their sound image is distinct from club-oriented trance, and invites listeners to a story that transcends time and space.
+Shpongle is a monumental psychedelic electronica/psychedelic project centered around Simon Posford and Raja Ram. Formed in 1996, inspired by the total solar eclipse in India, the band has presented an "audio-journey" that fuses ethnic sampling, acoustic instrumentation, and masterful studio production. Their sound image is distinct from club-oriented trance, and invites listeners to a story that transcends time and space.
 
 ---
 
@@ -64,7 +64,7 @@ Shpongle was born with the theme of "journey into the inner universe" at its cor
 
 flowchart TD
   A["1994: TIP Records<br>Raja Ram & Graham Wood"] --> B["1996: Established Twisted Records<br>Centered by Simon Posford"]
-  B --> C["1998: Shpongle formed"]
+  B --> C["1998: Formation of Shpongle"]
   C --> D["Younger Brother / Hallucinogen / Celtic Cross<br>Related project development"]
   D --> E["2000s: UK Psych Culture Revival"]
   E --> F["2010s~: Fusion with world festival culture"]
@@ -314,7 +314,7 @@ This structure causes a psychological phenomenon called an "acoustic trip."
 | Reverb reverberation | Expansion of spatial localization | Dissolution of ego |
 | Polyrhythm | Cognitive delay | Dreamy floating feeling |
 
-Scientifically, Shpongle is a project to ""rebuild the brain with sound.''
+Scientifically, Shpongle is a project to ""restructure the brain with sound.''
 
 ---
 

@@ -14,7 +14,7 @@ title: Hiroshi Fujiwara + Shinichi Osawa Feat. Crystal Kay – Lost Child
 ---
 
 
-The song, featuring Crystal Kay, was released as a collaboration between Japanese music producers Hiroshi Fujiwara and Shinichi Osawa.
+This song, featuring Crystal Kay, was released as a collaboration between Japanese music producers Hiroshi Fujiwara and Shinichi Osawa.
 
 "Lost Child" is a song that combines elements of electronic music and pop, featuring a unique beat, a charming melody, and Crystal Kay"s beautiful vocals.
 

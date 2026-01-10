@@ -79,7 +79,7 @@ This structure was a perfect match for the parapara dance, which repeats the sam
 
 - Choreography explanations will be published on jackets and booklets.
 
-● Signed with a Eurobeat exclusive label
+● Signed with a dedicated Eurobeat label
 
 Italian labels such as Time, A-Beat C, and Delta have signed exclusive contracts with avex to produce music specifically for the Japanese market.
 
@@ -95,7 +95,7 @@ In this way, Japan's unique ""Eurobeat market'' was formed and gradually became 
 
 - Distribution of choreography videos (VHS, later DVD)
 
-- Series such as "Parapara Paradise" and "Parapara Kyonen" also appear
+- Series such as ""Parapara Paradise" and ""Parapara Kyonen" are also available.
 
 ● Media production
 
@@ -135,8 +135,6 @@ It was a perfect example of the phenomenon of ""music becoming culture through t
 
 ### Related columns
 
-🔗 [[Column] Cultural relationship between Initial D and Eurobeat](https://monumental-movement.jp/en/Column-InitialD-Eurobeat)
+[[Column] Cultural relationship between Initial D and Eurobeat](https://monumental-movement.jp/Column-InitialD-Eurobeat)
 
-🔗 [[Column] Memories of speed where Initial D and music intersect](https://monumental-movement.jp/en/Column-InitialD-Eurobeat2)
-
-🔗 [[Column] Beyond Drift: Eurobeat/EDM and the future tense of "memory of speed"](https://monumental-movement.jp/en/Column-InitialD-Eurobeat3)
+[[Column] Memories of speed where Initial D and music intersect](https://monumental-movement.jp/Column-InitialD-Eurobeat2)

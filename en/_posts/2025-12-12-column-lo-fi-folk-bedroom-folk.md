@@ -127,7 +127,7 @@ Bedroom Folk's lyrics are often introspective, speaking in low voices about thei
 - Quiet religious and spiritual content
 - A look away from the hustle and bustle of the city
 
-Iron & Wine, a trend shared by Sufjan Stevens's early work.
+Iron & Wine, a trend shared by Sufjan Stevens' early work.
 
 ---
 

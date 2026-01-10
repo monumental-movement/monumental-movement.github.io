@@ -21,7 +21,7 @@ Text: mmr | Theme: From Joy Division to New Order - A story of the transformatio
 
 In the late 1970s, the industrial city of Manchester was in the midst of devastation and stagnation. Rising unemployment, social unrest, and gray skies. Among them, Joy Division turned the despair of young people into sound with their inorganic beats and cold poetry. Ian Curtis's voice resonated as a symbol of the pain and loneliness of the times, opening the door to a new era of post-punk.
 
-However, Curtis' death in 1980 brought that story to an abrupt end. The remaining members choose rebirth from their sadness and step into the future of electronic music. The birth of New Order was the beginning of a new chapter in the Manchester sound that had evolved beyond tragedy.
+However, Curtis' death in 1980 brought that story to an abrupt end. The remaining members choose rebirth from their sadness and step into the future of electronic music. The birth of New Order marked the beginning of a new chapter in the Manchester sound that has evolved beyond tragedy.
 
 ---
 
@@ -121,7 +121,7 @@ With songs such as "Power, Corruption & Lies," "Low-Life," and "Technique," they
 **"Fusion of video/design and sound"**
 The artwork by Peter Saville connects music and visuals and establishes New Order"s brand identity. The design became an important element that symbolically expressed the album"s content.
 
-**「メンバー間の協働と摩擦」**  
+**"Cooperation and friction between members"**
 The division of roles and clashing opinions between Sumner, Hook, Morris, and Gillian Gilbert create tension within the band as the music evolves. Friction also became a driving force for creativity.
 
 Purchase on Amazon → [Technique](https://amzn.to/4mREPgX)
@@ -159,7 +159,7 @@ Purchase on Amazon → [Retro](https://amzn.to/4obe2NR)
 ---
 
 
-### 終章：灰色の街から生まれた光
+### Final chapter: Light born from the gray city
 
 The transition from Joy Division to New Order is not just a story of band changes.
 It is a microcosm of the history of music at the end of the 20th century: **"rebuilding despair and turning it into light"**.

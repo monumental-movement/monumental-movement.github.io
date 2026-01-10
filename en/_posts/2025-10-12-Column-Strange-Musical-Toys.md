@@ -147,7 +147,7 @@ In the 1970s and 1980s, portable synths and electronic musical toys became popul
 - CASIO VL-TONE
 - Educational synths such as Gakken's SX-150
 
-Electronic sounds can be easily experienced on desks at home or school, and children have become familiar with the culture of ""playing with sounds.'' In modern times, digital toys like Otamatone are connected to YouTube culture, creating a new world of "cute sounds."
+Electronic sounds can be easily experienced on desks at home or at school, and children have become familiar with the culture of ""playing with sounds.'' In modern times, digital toys like Otamatone are connected to YouTube culture, creating a new world of "cute sounds."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VKfsCbe47Os?si=djdl5n1qjmiP3Scw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -199,7 +199,7 @@ Low-resolution sounds and accidental noises become tools for creating a sense of
 
 ## Ⅸ. Future toy music
 
-AI玩具や触覚楽器、ソーシャル・トイなど、音楽玩具は新しいインターフェースの実験場として進化を続ける。  
+Musical toys, such as AI toys, tactile instruments, and social toys, continue to evolve as a testing ground for new interfaces.
 The concept of "play" is once again returning to the center of music creation and is playing an important cultural role in the future of electronic sound.
 
 ---
@@ -219,7 +219,7 @@ flowchart TD
     E1990["1990: Establishment of Circuit Bending concept (USA)"]
     F2007["2007: Teenage Engineering OP-1 released (Sweden)"]
     G2010["2010: Pocket Operator Series (Sweden)"]
-    H2020["2020: AI toy music device introduced"]
+    H2020["2020: Introducing AI toy music device"]
     
     A1970 --> B1978 --> C1979 --> D1980 --> E1990 --> F2007 --> G2010 --> H2020
 

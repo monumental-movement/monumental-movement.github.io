@@ -14,13 +14,6 @@ title: '[Column] Japanese Ambient / Environmental Music'
 ---
 
 
-
-
-
-
-
-
-
 ## **Introduction: Until silence covers the world**
 
 Text: mmr｜Theme: The core of Japanese environmental music from the 1980s and its historical reappraisal

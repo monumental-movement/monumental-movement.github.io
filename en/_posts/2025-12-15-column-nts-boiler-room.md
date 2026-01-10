@@ -40,7 +40,7 @@ color: #fff;
 </style>
 
 
-## Chapter 1: Establishment of NTS Radio and broadcasting culture
+## Chapter 1 Establishment of NTS Radio and broadcasting culture
 
 NTS Radio is an internet radio based in London that broadcasts DJ programs and live performances 24 hours a day. Broadcast content is wide-ranging, including club music, experimental music, folk music, and improvisational performances.
 
@@ -64,7 +64,7 @@ DJ sets at NTS and Boiler Room tend to be different from peak-time club setups. 
 
 Particularly in NTS, long sets lasting over two hours are common, and a style that gently builds a narrative while crossing genres is often seen. On the other hand, Boiler Room has many relatively short sets, emphasizing the development in sync with the heat of the space.
 
-> "The conditions of live streaming changed the DJ set from a ""technique that makes the space function" to a ""structure that is listened to."
+> "The condition of live streaming has changed the DJ set from a ""technique that makes the space function" to a ""structure that is listened to."
 
 ---
 
@@ -148,7 +148,7 @@ The facts summarized in this paper will serve as a foundation for considering fu
 The practice of the live streaming artists appearing on NTS and Boiler Room is more about ""music as a body of movement'' than the name of a genre.
 
 DJ sets and experimental performances in live streams are presented as a state of continuous change over time, rather than as a finished piece of work.
-This can be viewed as "recordable movement."
+This can be regarded as "recordable movement."
 
 > "The moment music rejects fixed formats, its movement becomes most evident."
 

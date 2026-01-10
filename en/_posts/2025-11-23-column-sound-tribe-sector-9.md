@@ -89,7 +89,7 @@ Representative song:
 - "Something"
 - "Arigato"
 -"Tokyo"
--"Peoples"
+- "People"
 
 These are frequently played in the current setlist and best symbolize STS9's musical image.
 
@@ -129,7 +129,7 @@ The live structure of the same period was
 The audience transitioned to a floor/festival-type experience with the premise of ""dancing.''
 
 What's important here is that STS9 pursued a technique for reproducing the "texture of electronic music" with guitar and bass.
-Many parts passed through the effects chain, creating a characteristic in which the editorial thinking in the DAW was directly reflected in the live performance.
+Many parts passed through the effects chain, giving rise to the characteristic that the editorial thinking in the DAW was directly reflected in the live performance.
 
 ---
 
@@ -288,7 +288,7 @@ It is also important because it shows how artists should be in the 21st century 
 
 ---
 
-# 12. Conclusion: 21st century "bands that evolve through live performance"
+# 12. Conclusion: 21st century "bands that evolve through live performances"
 
 Sound Tribe Sector 9 is
 **An attempt to transfer the structure of electronic music to live performance while maintaining the band format**
