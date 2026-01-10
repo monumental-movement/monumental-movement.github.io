@@ -141,7 +141,7 @@ In Collier's approach, individual voices may have different tonal assumptions. A
 
 ---
 
-## Chapter 5: Microtone operation in improvisation
+## Chapter 5: Microtone use in improvisation
 
 ### 5-1 Phrase construction
 

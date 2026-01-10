@@ -209,7 +209,7 @@ Whittaker is known for her choral works that maintain a classical beauty while l
 ### Virtual Choir
 
 "Virtual Choir", which took place in the 2010s, is an attempt to integrate individual voices recorded from all over the world and create a gigantic chorus.
-This is notable in music history as an **expansion of the concept of choral singing in the internet age**.
+This is noteworthy in terms of music history as an **expansion of the concept of choral singing in the internet age**.
 
 ---
 

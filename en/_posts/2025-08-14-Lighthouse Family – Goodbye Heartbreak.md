@@ -14,7 +14,7 @@ title: Lighthouse Family – Goodbye Heartbreak
 
 Lighthouse Family was a British pop-soul duo active from the mid-1990s to the early 2000s. Their 1995 debut album Ocean Drive was a hit not only in the UK but also in Europe.
 
-This record is a Downtempo track remixed by Linslee Campbell and DJ Barry B of the single cut "Goodbye Heartbreak" from the album "Ocean Drive". A promo album released by the label Wildcard in 1996.
+This record is a Downtempo track remixed by Linslee Campbell and DJ Barry B of the single cut "Goodbye Heartbreak" from the album "Ocean Drive". A promo album released by the Wildcard label in 1996.
 
 
 #### Tracklist

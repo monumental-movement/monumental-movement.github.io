@@ -253,7 +253,7 @@ Japan is
 
 - Technical precision
 - Preciseness
-- Arrangement ability
+- Arranging ability
 - Visual expression
 
 It has an international strength in this respect.
@@ -264,8 +264,8 @@ We can expect him to continue to be active in both Loopstation and solo.
 # Conclusion - Human Beatbox as a culture
 
 Human Beatbox is a modern expressive culture that combines many aspects such as music, performance, video, and composition.
-Nowadays, beatboxing is undergoing major changes such as the maturing of competition culture, the evolution of technology, and the rise of Japanese artists, and beatboxing is becoming more than just a ""technique'' but is becoming established as an international music genre.
+Now that the competition culture is maturing, technology is evolving, and Japanese artists are emerging, beatboxing is undergoing major changes, and beatboxing is becoming more than just a technique, it is becoming an international music genre.
 
-I hope this article will help you understand the history and future of beatboxing.
+I hope that this article will help you understand the history and future of beatboxing.
 
 ---

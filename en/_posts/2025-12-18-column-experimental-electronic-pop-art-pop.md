@@ -112,6 +112,8 @@ The video works feature close-ups of the body, controlled lighting, and limited 
 
 The movements are structured with strong slowness and speed, and correspond strictly to changes in the sound.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wZ2njttY3BA?si=LoipjfeBoX9zUWOa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 ## 10. Background of Arca's activities
@@ -147,6 +149,8 @@ This puts the listener in a state of physical tension.
 In Arca's visual expressions, the body is treated as a transformable material. The human body, artificial objects, and digitally processed images are superimposed and have a corresponding relationship with acoustic distortion.
 
 Body representations do not indicate fixed identities, but are presented as ever-changing structures.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4LaCgzhidY?si=3Ml1wlUr-tNSts8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

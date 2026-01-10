@@ -47,9 +47,9 @@ A quiet residential area in Pennsylvania in the mid-1980s.
 Two boys grab a cassette tape and a 4-track recorder and begin a strange ritual.
 **Aaron Freeman (Gene Ween)** and **Mickey Melchiondo (Dean Ween)**.
 
-The "**Boognish**" that they created is more than just a logo or character.
+The existence of "**Boognish**" that they created is more than just a logo or character.
 A fictional god of laughter and madness, he was a symbol of Ween's music itself.
-All the noises, strange voices, and unusual key changes that were scattered throughout the home recordings were blessed by Boognish.
+The noises, strange voices, and unusual key changes that were scattered throughout the home recordings were all blessed by Boognish.
 
 > "Boognish isn"t a joke. He"s everything we do."
 > — *Dean Ween Interview, 2003*
@@ -191,7 +191,7 @@ This work condenses the irony and beauty of the very existence of Ween.
 In the 2010s, Ween quietly reunited.
 Gene and Dean's smiles on stage were the same as they were back then.
 There were people in the audience who grew up listening to Ween in the 90s,
-There was a mix of young people who learned about "Push th" Little Daisies" from YouTube.
+There was a mix of young people who learned about "Push th" Little Daisies" on YouTube.
 
 > "Laughing is our religion."
 > — *Gene Ween, 2012 Interview*

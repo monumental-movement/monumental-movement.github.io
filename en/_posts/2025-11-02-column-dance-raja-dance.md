@@ -20,7 +20,7 @@ title: '[Column] Vijaya Anand and "Dance Raja Dance" — South Indian film music
 
 Text: mmr | Theme: At the end of the 1980s, urban culture in southern India exploded with disco. Vijaya Anand"s "Dance Raja Dance' is about the sound and visual carnival of Karnataka.
 
-In the late 1980s, the Indian film industry was in the midst of change. Mumbai's Hindi cinema (Bollywood) was at a turning point before A.R. Rehman and was in need of a new sound. Meanwhile, in the Kannada film industry (Sandalwood), **Vijaya Anand** was experimenting with pioneering musical innovations.
+In the late 1980s, the Indian film industry was in the midst of change. Mumbai's Hindi cinema (Bollywood) was at a turning point before A.R. Rehman, and a new sound was needed. Meanwhile, in the Kannada film industry (Sandalwood), **Vijaya Anand** was experimenting with pioneering musical innovations.
 
 Released in 1987, Dance Raja Dance was more than just an entertaining film. It was the intersection of South Indian sensibilities and global disco culture, and was the "sound of the future" for young people in regional cities.
 
@@ -77,7 +77,7 @@ The plot is simple, but what is noteworthy is the integration of the production 
 
 ## Chapter 3: "Disco" phenomenon in India in the 1980s
 
-After the success of ""Disco Dancer" (1982, Hindi) and ""Ilamai Oonjal Aadukirathu" (1978, Tamil), disco culture spread throughout India as a symbol of ""dance = freedom.''
+After the success of ""Disco Dancer" (1982, Hindi) and ""Ilamai Oonjal Aadukirathu" (1978, Tamil), disco culture spread across India as a symbol of ""dance = freedom.''
 
 In South India, this trend took on a unique variation. While Mumbai's discotheques depicted an ""urban dream", **discotheques in Kannada films were an expression of ""regional pride"**.
 
@@ -101,7 +101,7 @@ This "South Indian MTV feel" was later inherited by A.R. Rehman and Harris Jayar
 In the late 1980s, southern India was undergoing a period of expansion of television culture, along with a wave of urbanization.
 It was a time when the state-run broadcaster Doordarshan opened up to commercial broadcasting, and young people from rural areas dreamed of becoming stars.
 
-The setting in which the main character of ""Dance Raja Dance'', Raja, becomes famous through a TV show truly symbolizes the germination of neoliberal values.
+The setting in which the main character of ""Dance Raja Dance'', Raja, becomes famous through a television program truly symbolizes the germination of neoliberal values.
 Overcoming the constraints of work, class, and family and achieving success through talent and hard work—this can be called the ""Indian version of the American Dream.''
 
 ---
@@ -116,7 +116,7 @@ Overcoming the constraints of work, class, and family and achieving success thro
 | **Finale Medley** | Various | Reprise composition of all songs | Dance final scene |
 
 It has been confirmed that these songs were created using cutting-edge equipment at the time, such as FM synth (Yamaha DX7) and Roland TR-707.
-In particular, the **rising brass synth sound** heard in the intro of ""Dance Raja Dance'' reminds me of the textures of Moroder and Depeche Mode.
+In particular, the **rising brass synth note** heard in the intro of ""Dance Raja Dance'' reminds me of the textures of Moroder and Depeche Mode.
 
 ---
 

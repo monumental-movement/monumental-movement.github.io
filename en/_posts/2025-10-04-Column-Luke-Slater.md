@@ -151,7 +151,7 @@ The 7th Plain = "The deep world of ambient techno" by Luke Slater.
 #### LSD (Luke Slater + Steve Bicknell + Function)
 
 LSD is a techno project formed in 2017 by Luke Slater, Steve Bicknell, and Function (Dave Sumner).
-それぞれが90年代から活動してきたベテランであり、コラボレーションにより 硬質で催眠的なサウンド を追求しています。
+Each of them are veterans who have been active since the 90s, and through collaboration they pursue a hard and hypnotic sound.
 
 **Features**
 

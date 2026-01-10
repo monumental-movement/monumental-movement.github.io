@@ -332,7 +332,7 @@ Bass: ▂▄▅▄▂
 </tr>
 <tr>
 <td>
--Akai MPC60
+- Akai MPC60
 -Akai MPC3000
 - E-mu SP-1200
 -Roland TR-909
@@ -431,7 +431,7 @@ Bass: ▂▄▇█▇█▇█▄▂
 </tr>
 </table>
 
-**Additional considerations**
+**Supplementary considerations**
 
 Genealogy diagrams allow students to intuitively understand ""master-pupil relationships" and ""influence relationships."
 

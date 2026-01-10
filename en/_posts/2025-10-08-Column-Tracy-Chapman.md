@@ -10,7 +10,7 @@ tags:
 - Soul
 - Blues
 - History
-title: 【コラム】 Tracy Chapman：静けさの声が動かした時代
+title: '[Column] Tracy Chapman: An era when the voice of stillness moved'
 ---
 
 
@@ -57,7 +57,7 @@ These experiences later led to the social awareness and focus on the weak that c
 ---
 
 ### ● Between academics and music
-After attending a local school, Chapman entered the Wooster School in Connecticut through the "A Better Chance" scholarship program.
+After attending local schools, Chapman entered the Wooster School in Connecticut through the "A Better Chance" scholarship program.
 
 He later took his passion for music and literature to Tufts University, where he studied art and humanities while continuing his musical career.
 It is said that during his university days, his daily activities included live performances on campus, improvisational performances with friends, and the fusion of poetry and music.
@@ -180,7 +180,7 @@ Additionally, she rarely uses streaming, instead offering her works through CDs 
 Chapman is known for not making many public appearances, but because of this, the interaction and trusting relationships she has with her colleagues and co-stars have supported her production background.
 For example, there are reports that he is close friends with novelist Alice Walker, and that they had a relationship for a while, but he has not made the details of his private life public.
 
-Additionally, his performance of "Fast Car" at the 2024 Grammys symbolized his intergenerational musical connection with Luke Combs.
+Additionally, their performance of "Fast Car" at the 2024 Grammys symbolized their intergenerational musical connection with Luke Combs.
 The negotiation process for this stage was said to have been cautious, with the Grammys taking an approach that emphasized trust and avoided putting too much pressure on her.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pLfH9HSUyf4?si=xIapcYqmaMISuyS1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -229,7 +229,7 @@ I hope that through this column you will be able to reconsider the contours of T
 
 ---
 
-### Tracy Chapman complete album discography
+### Tracy Chapman Complete Album Discography
 
 | Year | Title | Notes/Features | Link |
 | ---- | --------------------- | ------------------ | ---------------------------------- |

@@ -21,7 +21,7 @@ Text: mmr｜Theme: About the entertainment Yamashiro-gumi formed in the early 19
 
 
 In the 1970s, there was a person who stood out at the border between Japanese music and visuals.
-**Shoji Yamashiro (real name: Riki Ohashi)**. He graduated from the Department of Agricultural Chemistry, Faculty of Agriculture, Tohoku University, and was interested in life science, information, and sound.With a background of scientific speculation and sensibility, he positioned art as ""an experiment to explore the relationship between humans and the environment.''
+**Shoji Yamashiro (real name: Riki Ohashi)**. He graduated from the Department of Agricultural Chemistry, Faculty of Agriculture, Tohoku University, and was interested in life science, information, and sound.With a background of scientific thought and sensibility, he positioned art as ""an experiment to explore the relationship between humans and the environment.''
 
 The place for this experiment was Geinoh Yamashirogumi, which was formed in the early 1970s.
 More than just a music group, it was a ""community for comprehensively exploring the relationship between sound, humans, and society" and was a ""place" that integrated music, ethnology, information theory, and anthropology.
@@ -99,7 +99,7 @@ It also influenced later world-famous artists such as Aphex Twin, Ryuichi Sakamo
 
 ## Chapter 4: Sound Environment - Science and Philosophy of "Listening"
 
-After ""AKIRA," Yamashiro developed the concept of ""environmental studies of sound" in parallel with his artistic activities.
+After ""AKIRA", Yamashiro developed the concept of ""environmental studies of sound" in parallel with his artistic activities.
 He reconsidered sound not just as an auditory stimulus, but as a ""point of contact between information and ecology.''
 
 ### ◇ Main works and thoughts

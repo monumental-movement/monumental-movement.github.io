@@ -20,7 +20,7 @@ Text: mmr｜Theme: About Japanese and American melocore, which is supported worl
 
 
 Melodic hardcore is a subgenre of hardcore punk that developed in the United States in the late 1980s.
-It combines the fast, aggressive rhythms of hardcore with catchy melodies and incorporates pop-punk elements.
+It combines the fast and aggressive rhythms of hardcore with catchy melodies and incorporates pop-punk elements.
 
 Features:
 - Songs are short and complete in about 2 to 3 minutes
@@ -203,7 +203,7 @@ flowchart TD
 
 ## 9. Conclusion
 
-Although Japanese and American melocore have different cultural backgrounds, they have gained international support due to their shared passion and importance of melody.
+Although Japanese and American melocore have different cultural backgrounds, they have gained international support due to their shared ""passion" and ""importance of melody."
 The scenes in both countries will continue to influence each other and be passed down to younger generations.
 
 ---

@@ -182,7 +182,7 @@ In other words, it presents a new physicality called **Music = Forest of Sensory
 ## Chapter 10: Conclusion - Techno returns to the forest
 
 Recondite's music is not mechanical nature, but
-**It maintains a balance like a machine breathing in nature**.
+**It maintains a balance that feels like a machine breathing in nature**.
 
 If forest bathing is an act of ""returning humans to nature,''
 Recondite's music is an act of "returning techno to nature."

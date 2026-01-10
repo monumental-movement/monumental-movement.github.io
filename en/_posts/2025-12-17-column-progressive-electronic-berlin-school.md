@@ -19,9 +19,9 @@ title: '[Column] Progressive Electronic / Berlin School'
 Text: mmr｜Theme: Progressive electronic and Berlin School electronic music from the late 1960s to the present
 
 
-20th century electronic music began in the realm of academic research and experimental art. 1920〜30年代の電子楽器開発、戦後の磁気テープ技術、1950年代のミュジーク・コンクレートや電子音楽スタジオの成立を経て、1960年代後半には個人作曲家がスタジオ外で電子音楽を制作できる環境が整い始める。この変化の中で、西ドイツを中心に成立したのが、後に"ベルリン派"と総称される一連のプログレッシブ・エレクトロニック音楽である。
+20th century electronic music began in the realm of academic research and experimental art. Following the development of electronic musical instruments in the 1920s and 1930s, magnetic tape technology after the war, and the establishment of musique concrète and electronic music studios in the 1950s, an environment began to emerge in the late 1960s that allowed individual composers to create electronic music outside of the studio. Amid this change, a series of progressive electronic music that later became known collectively as the ""Berlin School'' was established mainly in West Germany.
 
-ベルリン派は、厳密な意味での統一運動や公式な流派ではない。 It is a name that was unified in later music history research and criticism as a result of multiple composers working in a common metropolitan area, technological environment, and musical interests.その中心にはTangerine Dream、Klaus Schulze、Ash Ra Tempel（後のAshra）などの作曲家・プロジェクトが存在する。
+The Berlin School is not a unified movement or an official school in the strict sense of the word. It is a name that was unified in later music history research and criticism as a result of multiple composers working in a common metropolitan area, technological environment, and musical interests. At its core are composers and projects such as Tangerine Dream, Klaus Schulze, and Ash Ra Tempel (later Ashra).
 
 ---
 
@@ -39,51 +39,51 @@ color: #fff;
 </style>
 
 
-## 第1章　前史：実験電子音楽から個人スタジオへ
+## Chapter 1 Prehistory: From experimental electronic music to personal studio
 
 ### Foundation of postwar electronic music
 
 After World War II, research into composition using purely electronic sounds was carried out in Germany, centered on the Cologne Electronic Music Studio. Meanwhile, in France, musique concrète, which uses environmental and concrete sounds as its materials, developed. These trends gave later electronic musicians the concept of ""constructing sound itself.''
 
-In the 1960s, modular synthesizers appeared.電圧制御による音高・音色・リズムの変化が可能となり、作曲家はリアルタイムで音を操作できるようになった。 This technological progress supported the establishment of the Berlin School, which is characterized by long structures and repetitive progressions.
+In the 1960s, modular synthesizers appeared. It became possible to change pitch, timbre, and rhythm through voltage control, allowing composers to manipulate sound in real time. This technological progress supported the establishment of the Berlin School, which is characterized by long structures and repetitive progressions.
 
-### ロックと前衛の接点
+### Point of contact between rock and avant-garde
 
-同時期、西ドイツではロックと前衛芸術を融合させる動きが活発化していた。英米のロックに対抗する形で、即興性・反復・電子音を積極的に取り入れるグループが登場する。後に「クラウトロック」と呼ばれる文脈と、ベルリン派電子音楽は地理的・人的に重なり合いながら発展した。
+At the same time, a movement to fuse rock and avant-garde art was gaining momentum in West Germany. In response to British and American rock, groups that actively incorporated improvisation, repetition, and electronic sounds emerged. The context of what would later be called ""krautrock'' and the Berlin School electronic music developed in a geographically and humanly overlapping manner.
 
 ---
 
-## 第2章　ベルリン派の成立
+## Chapter 2 Establishment of the Berlin School
 
 ### Tangerine Dream
 
 Tangerine Dream was formed in 1967, and their early work combined rock formations with avant-garde improvisation. In the early 1970s, he began composing using synthesizers and sequencers.
 
-特徴的なのは、反復するシーケンス・パターンの上に、音色変化や即興的旋律を重ねる構造である。この手法により、従来の楽曲形式とは異なる、時間の流れそのものを音楽化した長編構造が生まれた。
+What is distinctive about it is its structure, which overlays tonal changes and improvised melodies on top of a repeating sequence pattern. This method created a long-form structure that musicalizes the flow of time itself, which differs from traditional song formats.
 
 ### Klaus Schulze
 
-Klaus Schulzeは、Tangerine DreamやAsh Ra Tempelへの参加を経て、ソロ活動に専念する。彼の作品は、より長大な持続音、緩やかな変化、即興性を特徴とする。リズムが明確に現れない場合も多く、音色の推移そのものが構造を形成する。
+After participating in Tangerine Dream and Ash Ra Tempel, Klaus Schulze will focus on his solo career. His works are characterized by longer sustained notes, gradual changes, and improvisation. In many cases, the rhythm does not appear clearly, and the transition of the timbre itself forms the structure.
 
-Schulzeは初期から個人スタジオでの制作を行い、多数のシンセサイザーとテープ機器を用いた多層的録音を実践した。 This production form also influenced later ambient and drone music.
+From the beginning, Schulze worked in a private studio, practicing multi-layered recordings using numerous synthesizers and tape equipment. This production form also influenced later ambient and drone music.
 
 ### Ash Ra Tempel / Ashra
 
-Ash Ra Tempelは、電子音とギター、即興演奏を融合したプロジェクトとして活動を開始した。 In later years, under the name Ashra, he produced more electronic and architectural works. The balance of repetitive sequences and melodic elements exemplifies the diversity of the Berlin School.
+Ash Ra Tempel began as a project that fused electronic sounds, guitar, and improvisation. In later years, under the name Ashra, he produced more electronic and architectural works. The balance of repetitive sequences and melodic elements exemplifies the diversity of the Berlin School.
 
 ---
 
 ## Chapter 3 Musical Features
 
-### シーケンサーによる反復構造
+### Repeat structure with sequencer
 
-ベルリン派を特徴づける最大の要素は、アナログ・シーケンサーによる反復音型である。一定のパターンが長時間持続し、フィルターやエンベロープ操作によって徐々に変化する。この手法は、拍子感よりも時間感覚を前面に押し出す。
+The most distinctive element of the Berlin School is the repeated sound pattern created by analog sequencers. A fixed pattern that lasts for a long time and gradually changes through filter and envelope operations. This method emphasizes the sense of time rather than the sense of beat.
 
-### 長時間形式
+### Long format
 
-従来のポップスやロックが数分単位の楽曲構造を基本とするのに対し、ベルリン派作品は一曲が20分以上に及ぶことも珍しくない。 This is a form made possible by the development of improvisational performance and recording technology.
+While traditional pop and rock music is based on song structures lasting several minutes, it is not uncommon for a single song in Berlin School music to run for over 20 minutes. This is a form made possible by the development of improvisational performance and recording technology.
 
-### 音色設計
+### Sound design
 
 The instability and fluctuation of analog synthesizers became part of the sonic aesthetic of the Berlin School. The minute deviations caused by temperature changes and voltage fluctuations give an organic look to mechanical repetition.
 
@@ -93,43 +93,43 @@ The instability and fluctuation of analog synthesizers became part of the sonic 
 
 The Berlin School is located between academic electronic music and popular music. It is not a strictly theoretical composition, nor does it rely on commercial song forms. This intermediate position increased its influence on subsequent genres.
 
-1970年代後半以降、シーケンス主体の作曲法は、シンセポップ、ニューエイジ、アンビエントへと展開する。ベルリン派の作曲家自身も、映画音楽や商業作品へ活動領域を広げていく。
+From the late 1970s onwards, sequence-based composition techniques evolved into synth pop, new age, and ambient. Berlin School composers themselves expanded their activities to include film music and commercial works.
 
 ---
 
-## 第5章　1980年代以降の変化
+## Chapter 5 Changes since the 1980s
 
-デジタル・シンセサイザーとMIDIの普及により、制作環境は大きく変化する。アナログ機材特有の制約は減少し、再現性が向上した。一方で、初期ベルリン派に見られた偶発性は減少する。
+With the spread of digital synthesizers and MIDI, the production environment has changed dramatically. The limitations inherent to analog equipment have been reduced and reproducibility has improved. On the other hand, the contingency seen in the early Berlin School is reduced.
 
 During this period, the Berlin School method was reinterpreted as the prototype for techno and trance. The fusion of repetitive beats and sequences takes on new meaning in the dance music context.
 
 ---
 
-## 第6章　現代への継承
+## Chapter 6 Inheritance to modern times
 
 In the 21st century, modular synthesizers are being reevaluated. The Berlin School method is once again attracting attention in small-scale studios and live improvisation. This is not tied to nostalgia, but to a growing interest in real-time generated music.
 
 ---
 
-## 第7章　技術的基盤の詳細分析
+## Chapter 7 Detailed analysis of technical foundations
 
 This chapter organizes the specific technical elements that established the Berlin School by dividing them into three layers: musical instruments, control systems, and recording techniques.
 
-### アナログ・モジュラー・シンセサイザー
+### Analog modular synthesizer
 
-ベルリン派の中核を成したのは、電圧制御型アナログ・モジュラー・シンセサイザーである。発振器、フィルター、アンプ、エンベロープをパッチケーブルで自由に接続する構造は、音楽的結果が事前に完全に固定されない制作環境を生み出した。
+The core of the Berlin School was the voltage-controlled analog modular synthesizer. The structure of freely connecting oscillators, filters, amplifiers, and envelopes using patch cables created a production environment in which the musical result was not completely fixed in advance.
 
-この非決定性は、ベルリン派における"時間の生成"という作曲概念と強く結びつく。 Because pitch and rhythm are managed not by musical notation but as a chain of voltage changes, music exists as a process rather than a blueprint.
+This non-determinism is strongly connected to the Berlin School's compositional concept of ""the production of time.'' Because pitch and rhythm are managed not by musical notation but as a chain of voltage changes, music exists as a process rather than a blueprint.
 
 ### Analog sequencer
 
-Analog sequencers were devices that cycled through multiple steps of voltage values, and provided the physical support for the repetitive structure of the Berlin School.各ステップは均等に時間配分されるが、電圧値の設定によって旋律的・和声的輪郭が形成される。
+Analog sequencers were devices that cycled through multiple steps of voltage values, and provided the physical support for the repetitive structure of the Berlin School. Each step is evenly distributed in time, but melodic and harmonic contours are formed by setting the voltage values.
 
-重要なのは、シーケンスが「拍子」よりも「循環」を基準にしている点である。これにより、リズムは踊るための枠組みではなく、聴取者の時間感覚を拡張するための基盤となった。
+What is important is that the sequence is based on ""cycle" rather than ""meter." As a result, rhythm became not just a framework for dancing, but a foundation for expanding the listener's sense of time.
 
-### テープ録音と多層構造
+### Tape recording and multilayer structure
 
-初期ベルリン派では、マルチトラック録音とテープ編集が重要な役割を果たした。即興演奏を長時間記録し、その一部を編集・重ね合わせることで、線的ではない構造が構築された。これはスタジオを作曲空間として扱う態度であり、後のDAW的制作思考の先行例と位置づけられる。
+Multi-track recording and tape editing played an important role in the early Berlin School. By recording long periods of improvisational performance, editing and layering parts of it, a non-linear structure was constructed. This is an attitude that treats the studio as a composing space, and can be seen as a precedent for later DAW-like production thinking.
 
 ---
 
@@ -139,61 +139,51 @@ In this chapter, rather than listing the names of specific works, we will analyz
 
 ### Single sequence expansion type
 
-一定のシーケンスが楽曲全体を貫き、音色変化とレイヤー追加によって展開する形式。時間経過そのものが構造を形成し、従来の主題展開や転調概念は後景化する。
+A format in which a certain sequence runs through the entire song, expanding through changes in tone and the addition of layers. The passage of time itself forms the structure, and conventional concepts of thematic development and modulation become a background.
 
-### 無拍持続音型
+### Unbeatable continuous tone type
 
-明確なシーケンスを用いず、持続音と緩慢な変化を中心に構築される形式。Klaus Schulzeの作品群に顕著であり、後のアンビエントおよびドローン音楽の原型となった。
+A form that is built around sustained notes and slow changes, without a clear sequence. It is prominent in the works of Klaus Schulze, and became the prototype for later ambient and drone music.
 
-### 即興記録編集型
+### Improvisation recording editing type
 
-ライブまたはスタジオ即興を素材とし、後編集によって構造化される形式。この手法は、作曲と演奏の境界を曖昧にし、作品を出来事の記録として位置づける。
+A format that uses live or studio improvisation as material and is structured through post-editing. This method blurs the boundaries between composition and performance, positioning the work as a record of an event.
 
 ---
 
-## 第9章　映画音楽との接続
+## Chapter 9 Connection with film music
 
-1970年代後半以降、ベルリン派の作曲家は映画音楽分野へ活動を拡張する。長時間持続音、反復進行、電子音色は、映像の時間軸と高い親和性を持つ。
+From the late 1970s onwards, Berlin School composers expanded their activities into the field of film music. Long-lasting sounds, repetitive progressions, and electronic tones have a high affinity with the time axis of images.
 
-映画音楽におけるベルリン派的手法は、旋律主導ではなく空間形成を重視する点に特徴がある。音楽は物語を説明するのではなく、心理的・物理的環境を構築する役割を担う。
+The Berlin School method of film music is characterized by its emphasis on spatial formation rather than melody-driven music. Rather than illustrating a story, music plays a role in constructing a psychological and physical environment.
 
-この実践は、後のシネマティック・アンビエントやサウンドデザイン志向の電子音楽へと継承される。
+This practice was inherited by later cinematic ambient and sound design-oriented electronic music.
 
 ---
 
 ## Chapter 10 Comparison with before/after Kraftwerk
 
-ベルリン派を正確に理解するためには、Kraftwerkとの関係を年代的に整理する必要がある。
+In order to accurately understand the Berlin School, it is necessary to organize its relationship with Kraftwerk chronologically.
 
 ### Before Kraftwerk
 
-Kraftwerk以前のベルリン派は、即興性と長時間形式を重視していた。リズムは流動的であり、楽曲は進行というより推移として知覚される。 At this stage, electronic music was a means of escape from rock and academic electronic music.
+Before Kraftwerk, the Berlin School emphasized improvisation and long forms. The rhythm is fluid, and the piece is perceived as a transition rather than a progression. At this stage, electronic music was a means of escape from rock and academic electronic music.
 
-### Kraftwerk以後
+### After Kraftwerk
 
-Kraftwerk reorganized electronic music into clear rhythmic structures and repetitive beats. This has led to the international acceptance of electronic music as a danceable form.一方ベルリン派は、ビート中心主義とは距離を保ち、時間拡張型音楽として独自路線を維持した。
+Kraftwerk reorganized electronic music into clear rhythmic structures and repetitive beats. This has led to the international acceptance of electronic music as a danceable form. On the other hand, the Berlin School kept its distance from beat-centricism and maintained its own line as time-expanding music.
 
-この分岐は、テクノ／シンセポップとアンビエント／ドローンの分化として、後年の電子音楽地図に明確な軸を与える。
-
----
-
-## Chapter 11 Critical Reorientation (Monumental Movement Records Perspective)
-
-This chapter redefines the Berlin school not as a value judgment but as a matter of placement.
-
-ベルリン派は、電子音楽を『曲』から『運動』へと移行させた潮流である。その意義は革新性ではなく、持続性にある。時間を切断せず、積層し、変質させるという態度は、現代の実験電子音楽にも直接的に接続している。
-
-Monumental Movement Records的視点において、ベルリン派は過去の様式ではない。音楽を巨大な運動体として扱う思考の原型であり、現在進行形の方法論である。
+This divergence, as a differentiation between techno/synthpop and ambient/drone, gave a clear axis to the electronic music map of later years.
 
 ---
 
 ## Chronology
 
-* 1950年代　学術電子音楽スタジオの成立
+* 1950s Establishment of academic electronic music studio
 * 1960s: Popularization of modular synthesizers
 * 1967 Tangerine Dream formed
-* 1970年代前半　ベルリン派的作曲法の確立
-* 1970年代後半　映画音楽分野への展開
+* Early 1970s: Establishment of Berlin School composition method
+* Late 1970s: Development in the field of film music
 * 1980s Electronic music branch after Kraftwerk
 * Since the 2000s: Modular re-evaluation and revival of improvisational culture
 
@@ -203,11 +193,11 @@ Monumental Movement Records的視点において、ベルリン派は過去の�
 
 <div class="mermaid">
 flowchart TD
-A["学術電子音楽"] --> B["Modular technology"]
-B --> C["ベルリン派"]
+A["Academic electronic music"] --> B["Modular technology"]
+B --> C["Berlin school"]
 C --> D["Film music"]
 C --> E["Ambient"]
-C --> F["ドローン"]
+C --> F["Drone"]
 B --> G["Kraftwerk"]
 G --> H["Techno"]
 </div>

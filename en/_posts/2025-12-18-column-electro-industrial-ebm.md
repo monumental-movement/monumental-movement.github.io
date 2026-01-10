@@ -51,7 +51,7 @@ On the other hand, Electro-Industrial is a name that has developed from the stru
 
 Industrial music of the 1970s was an attempt to deconstruct existing musical concepts through the introduction of tape manipulation, noise, repetition, and non-musical materials. At this stage, the dance quality was not necessarily emphasized, and the listening experience itself became an objective.
 
-In the 1980s, the spread of synthesizers, drum machines, and the MIDI standard made it easy to create repeatable and accurate rhythmic structures. This created the conditions for a format that could be played in clubs while retaining its industrial aesthetic.
+In the 1980s, the spread of synthesizers, drum machines, and the MIDI standard made it easy to create repeatable and precise rhythmic structures. This created the conditions for a format that could be played in clubs while retaining its industrial aesthetic.
 
 ---
 
@@ -115,11 +115,19 @@ The production process often proceeds in stages: timbre design, pattern construc
 
 ## 9. Structural contribution of Front 242
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j9sW556IBjo?si=RCXeEWWFMSm7oPwZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 Front 242 is a company that has formulated EBM in three layers: concept, structure, and sound. Their songs are characterized by a clear rhythm design designed for club play and an unemotional and fragmented use of language.
 
 ---
 
 ## 10. Nitzer Ebb minimalism
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dfwicqniOMw?si=7nDOtCdu22Rt8j3m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 Nitzer Ebb brought physicality to the fore by reducing the elements of EBM to the bare minimum. The minimal number of notes, repeated shouts, and emphatic rhythms symbolize the stoic side of the genre.
 

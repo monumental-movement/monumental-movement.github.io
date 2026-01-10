@@ -122,7 +122,7 @@ Formation of the foundation of the "fan dance culture" that continued with Bodyc
 | Like a Virgin | Madonna | Symbolizes the birth of a female pop icon. |
 | I Feel for You | Chaka Khan | A fusion of hip-hop and disco. |
 | Dancing Hero | Yoko Oginome | A hit synonymous with Japanese disco. |
-| DESIRE -Passion- | Akina Nakamori | A fusion of disco beat and pop songs. |
+| DESIRE -Passion- | Akina Nakamori | A fusion of disco beats and pop songs. |
 | Let"s Groove | Earth, Wind & Fire | A bridge from funk to disco. |
 | Word Up! | Cameo | Funk-based disco classic. |
 | Celebration | Kool & The Gang | A classic festival song. |

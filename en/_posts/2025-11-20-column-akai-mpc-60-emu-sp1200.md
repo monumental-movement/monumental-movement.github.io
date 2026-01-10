@@ -43,7 +43,7 @@ color: #fff;
 
 There are two main parameters in the process (sampling) of dividing analog signals into numerical values ​​by dividing them into fixed time intervals: **sampling frequency (Hz)** and **quantization bit depth (bit)**. Sampling frequency is described by Nyquist theory, and quantization bit depth is related to dynamic range and quantization noise.
 
-* **12bit**: Theoretically, the dynamic range is about 72dB (ideal conditions). In reality, the effective dynamic range varies depending on the equipment used, due to the effects of circuit noise and analog paths.
+* **12bit**: Theoretically, the dynamic range is approximately 72dB (ideal conditions). In reality, the effective dynamic range varies depending on the equipment used, due to the effects of circuit noise and analog paths.
 
 ### 2.2 12bit acoustic characteristics
 
@@ -74,7 +74,7 @@ In the mid-to-late 1980s, semiconductor memory prices were orders of magnitude h
 * **Key features**: 8-track sequencer, filter (analog), individual outs
 
 **Design philosophy and features**
-The SP-1200 was designed with the time constraints of a sampler in mind, and is optimized for the workflow of "cutting and arranging short samples." Combined with internal analog circuitry, the result is a thick low-frequency range with a "roughness" or "undulation." Based on the specifications and E-mu"s technical documents from the time, it can be confirmed that the SP-1200"s A/D path and filter design contribute to the acoustic coloration.
+The SP-1200 was designed with the time constraints of a sampler in mind, and is optimized for the workflow of "cutting and arranging short samples." Combined with internal analog circuitry, the result is a thick low-frequency range with a "roughness" or "undulation." Based on the specifications and E-mu"s technical documentation from the time, we can confirm that the SP-1200"s A/D path and filter design contribute to its acoustic coloration.
 
 **Practical usage**
 

@@ -78,7 +78,7 @@ London period → recording in the US → establishment in Africa '70 → politi
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YUthXwd2lOM?si=5ciPOJJBFPFgT-FB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dfpRVjkPHpY?si=Bfqk4EXzfqjqgBXr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -218,17 +218,3 @@ The words and rhythms of Fela still echo in the breezes of Lagos and on the stag
 - [Britannica: Fela Kuti — biography overview.](https://www.britannica.com/biography/Fela-Kuti)
 - [Felakuti.com (official/Kalakuta Museum information)](felakuti.com)
 - [Guardian / Tony Allen obituary (Afrobeat and Tony Allen)](https://www.theguardian.com/music/2020/may/03/tony-allen-obituary)
-
----
-
-### Podcast
-
-<iframe title="Fela Kuti: Afrobeat Creator and Political Icon" allowtransparency="true" height="300" width="100%" style="border: none; min-width: min(100%, 430px);height:300px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=psrdv-19f64ff-pb&from=pb6admin&square=1&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&logo_link=episode_page&btn-skin=ff6d00&size=300" loading="lazy" allowfullscreen=""></iframe>
-
----
-
-### YouTube
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OoyGKEqfyZw?si=KrTNbNuvVPFABO1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----

@@ -164,10 +164,10 @@ Akolitronics is a style that recreates Rarakaraka, the traditional music of the 
 | ---- | ------------------------ |
 | BPM | 120-160BPM, respecting traditional rhythm |
 | Rhythm | Percussion-based polyrhythm, looped |
-| メロディ | 弦楽器・コーラスをシンセで再現          |
+| Melody | String instruments and chorus reproduced with synth |
 | Vocal | Traditional singing sampling + rap/chant fusion |
 | Song structure | Maintaining improvisation, intro/build/break for clubs |
-| サウンド | アナログシンセ・エフェクトでテクスチャー拡張   |
+| Sound | Extend texture with analog synth effects |
 
 
 ---
@@ -225,7 +225,7 @@ Introduced to the world through Nyege Nyege Tapes, it has attracted attention as
 
 ---
 
-### <a id="electro-maloya"></a>エレクトロ・マロヤ（Electro Maloya）
+### <a id="electro-maloya"></a>Electro Maloya
 
 Electro Maloya is an experimental style that recreates the traditional music of Réunion Island, Maloya, using electronic music.
 
@@ -236,11 +236,11 @@ Electro Maloya is an experimental style that recreates the traditional music of 
 | Features | Details |
 | ---- | ------------------------ |
 | BPM | 100-140BPM, traditional Maloya slow rhythm |
-| リズム  | 打楽器ポリリズムをループ化            |
-| メロディ | 伝統旋律・コーラスをシンセ再構築         |
-| ボーカル | コーラス主体、サンプリング＋リバーブ       |
-| 曲構造  | 伝統基盤＋クラブ向けビルド/ブレイク/ドロップ  |
-| サウンド | アナログシンセ・ループ・エフェクトで空間拡張   |
+| Rhythm | Looping percussion polyrhythm |
+| Melody | Synth reconstruction of traditional melody and chorus |
+| Vocal | Mainly chorus, sampling + reverb |
+| Song structure | Traditional foundation + club build/break/drop |
+| Sound | Expand space with analog synth loop effects |
 
 ---
 
@@ -250,7 +250,7 @@ Electro Maloya is an experimental style that recreates the traditional music of 
 
 flowchart TD
     A["Tradition: Maloya Music"] --> B["Expressions of life and labor through slave and immigrant culture"]
-    B --> C["20世紀: 制限下で伝承"]
+    B --> C["20th Century: Tradition under Restrictions"]
     C --> D["2000s: The beginning of electronic music fusion"]
     D --> E["Performed at clubs and festivals and received international attention"]
     E --> F["Contemporary: Spread in the Global Electronic Music Community"]
@@ -263,17 +263,17 @@ flowchart TD
 
 - Reinterpretation of historical and cultural traditions
 
-- 国際発信による地域限定音楽のグローバル化
+- Globalization of regionally limited music through international dissemination
 
-- 伝統音楽の新しい実験的表現
+- New experimental expression of traditional music
 
-これらのスタイルは、Nyege Nyege Tapesがアフリカの音楽遺産を現代的な視点で再解釈し、世界に発信する重要な役割を果たしています。
+These styles play an important role in how Nyege Nyege Tapes reinterprets Africa's musical heritage with a modern perspective and shares it with the world.
 
 ---
 
-#### パフォーマンスと体験
+#### Performance and Experience
 
-- 伝統と現代の融合：伝統打楽器と電子音楽が共存するライブ演奏。
+- A fusion of tradition and modernity: A live performance where traditional percussion instruments and electronic music coexist.
 
 - Linked with dance: You can improvise dance according to the polyrhythm while using a relaxed BPM.
 

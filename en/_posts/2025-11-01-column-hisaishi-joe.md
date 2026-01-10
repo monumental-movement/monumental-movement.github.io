@@ -87,7 +87,7 @@ This success began a long-term collaboration between Miyazaki and Hisaishi.
 For 1986's Castle in the Sky, Hisaishi turned to a more orchestral sound.
 The magnificent theme song ""Kimi wo Seite'' performed by strings and brass has received high praise both domestically and internationally.
 
-The melodic simplicity and repetitive structure of this piece are cleverly designed.
+In this piece, the melodic simplicity and repetitive structure are cleverly designed.
 There is an attempt to integrate the ideas of minimal music into a classical context.
 
 ""Laputa" can be said to be a work that established the ""universality of emotion" in Ghibli music.

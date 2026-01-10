@@ -23,7 +23,7 @@ Jump scares are a thing of the past, and instead low frequencies, environmental 
 This was also an application of the psychoacoustic discovery that hearing affects the deeper psyche more directly than vision.
 
 Horror movies of this era not only gave fear, but also ""eroded"' the audience"s inner world through sound.
-At the center of this change were a new generation of production studios such as A24 and Blumhouse.
+At the center of this change was a new generation of production studios such as A24 and Blumhouse.
 
 ---
 

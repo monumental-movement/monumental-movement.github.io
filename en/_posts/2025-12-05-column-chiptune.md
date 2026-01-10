@@ -40,7 +40,7 @@ color: #fff;
 </style>
 
 
-## Chapter 1: Origin of 8-bit - Famicom and Game Boy sound source chip
+## Chapter 1: The origins of 8-bit - Famicom and Game Boy sound source chips
 
 ### 1-1. "Ricoh 2A03" that determined the sound of Famicom/NES
 
@@ -76,7 +76,7 @@ The Game Boy is equipped with a CPU + PSG sound source called **Sharp LR35902** 
 - Channel that allows you to freely draw 4-bit waveforms of 32 samples
 - **Noise Channel**
 
-Waveform memory is at the heart of creativity, and even in the modern Game Boy Chiptune, this wave channel is widely used for bass, lead, kick, and unique tone generation. The low-end thickness is particularly attractive, and it is loved as a ""Game Boy-like tone'' including the DAC noise peculiar to the hardware.
+Waveform memory is at the heart of creativity, and even in the modern Game Boy Chiptune, the Wave channel is widely used to generate bass, lead, kick, and unique tones. The low-end thickness is particularly attractive, and it is loved as a ""Game Boy-like tone'' including the DAC noise peculiar to the hardware.
 
 ---
 
@@ -107,7 +107,7 @@ The Game Boy's WAVE channel allows you to create arbitrary waveforms rather than
 
 ---
 
-## Chapter 3: Tracker culture and Chipune production - LSDj / Nanoloop / Famitracker
+## Chapter 3: Tracker culture and Chiptune production - LSDj / Nanoloop / Famitracker
 
 ### 3-1. What is Tracker?
 

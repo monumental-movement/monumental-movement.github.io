@@ -20,7 +20,7 @@ title: '[Column] Experimental Vocal / Voice Manipulation — History and techniq
 
 Text: mmr｜Theme: Experimental vocals that process, generate, and rearrange the voice as a material/history, techniques, representatives, and contemporary trends of voice manipulation
 
-In the 21st century, the singing voice has gone from simply conveying melodies to an editable acoustic material. With the availability of tools such as recording/editing technology, effects, sampling, real-time processing, and generation technology, the voice has acquired a diverse role as an instrument, texture, spatial description, and even data resource. Artists like Bjork and Imogen Heap, who use their own voices as the main material for their experiments, and expressions created by technological breakthroughs such as granular synthesis and AI-based resynthesis, have greatly expanded the possibilities of the voice.
+In the 21st century, the singing voice has gone from simply conveying a melody to an editable acoustic material. With the availability of tools such as recording/editing technology, effects, sampling, real-time processing, and generation technology, the voice has acquired a diverse role as an instrument, texture, spatial description, and even data resource. Artists like Bjork and Imogen Heap, who use their own voices as the main material for their experiments, and expressions created by technological breakthroughs such as granular synthesis and AI-based resynthesis, have greatly expanded the possibilities of the voice.
 
 ---
 
@@ -115,7 +115,7 @@ The transformation of voice into a material is an expansion of expression, and a
 
 ### 5-1. Identity and voice
 
-Voice reflects an individual's physical characteristics, but it is easily altered by processing techniques. This allows artists to expand their range of self-expression, and listeners to update their awareness of voices.
+Voice reflects an individual's physical characteristics, but it is easily altered by processing techniques. This allows artists to expand their range of self-expression, and listeners to update their awareness of voice.
 
 ### 5-2. Performance ethics and generation technology
 

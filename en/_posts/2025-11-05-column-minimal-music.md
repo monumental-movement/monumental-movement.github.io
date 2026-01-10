@@ -30,7 +30,7 @@ Abandoning the drama and emotional expression that traditional Western music has
 Instead, it has transformed into an art that allows us to listen to "time and structure" itself.
 Terry Riley"s "In C", Steve Reich"s "Piano Phase",
 And Philip Glass's "Einstein on the Beach"——
-They elevated the repetition of sound to a meditative experience rather than a boring experience.
+They elevated the repetition of sound to a meditative experience rather than a boring one.
 
 Eventually, this philosophy permeated the world of electronic music.
 In the constant rhythm of TR-808 and 909,
@@ -152,7 +152,7 @@ Repeating synths and vocal loops bring a Reichian sense of phase to pop music.
 ### Isao Tomita: Symphony in the electrons
 
 Isao Tomita used a synthesizer to reconstruct classical music in ""electronic repetition.''
-In "Moonlight" (1974), subtle modulation fluctuations shape the sonic space.
+In Moonlight (1974), subtle modulation fluctuations shape the sonic space.
 This sense of "electronic persistence" also applies to later techno-ambient music.
 
 ### Ryoji Ikeda: Minimal data and frequency
