@@ -11,22 +11,22 @@ tags:
 - Rock
 - Improvisation
 - Experimental
-title: 【コラム】 リズムの革命児たち：世界と日本をつなぐドラマーのリズム最前線
+title: '[專欄]節奏革命者：連接日本與世界的鼓手的節奏前線'
 ---
 
 
-## 世界と日本の鼓動：地上と地下をつなぐリズムたち  — 沈黙と衝動、伝統と実験のあいだ —
+## 世界與日本的心跳：連接地上與地下的節奏——沉默與衝動、傳統與實驗——
 
 
-文：mmr｜テーマ：世界と日本を貫く「リズム」の系譜──地上と地下をつなぐドラマーたちの200年史
+文：mmr｜主題：貫穿世界與日本的“節奏”譜系──連接地上與地下的鼓手200年曆史
   
-歴史の中心にいたドラマーたちの影には、**地下で時代を先取りしていた実験者たち**がいる。  
-Buddy RichやJohn Bonhamがメインステージを制覇した時代にも、どこかの倉庫や小さなジャズバーで、別の鼓動が鳴っていた。  
-彼らはしばしば過剰すぎ、自由すぎ、理解されにくかった。  
-だが、その“余白”から新しいリズムが生まれた。  
+在處於歷史中心的鼓手的陰影下，有一些走在時代前面的地下實驗者。
+即使在巴迪·里奇和約翰·博納姆主宰主舞台的日子裡，另一個心跳也在倉庫或小型爵士酒吧的某個地方跳動。
+它們常常過於過度、過於自由且難以理解。
+然而，新的節奏卻從那個“空白”中誕生了。
 
-アンダーグラウンドのドラマーたちは、**楽器よりも「時間」を叩いていた**。  
-それは国家でもジャンルでもない、「感覚共同体」の言語だった。
+地下鼓手在演奏時間而不是樂器。
+它既不是一個國家，也不是一種流派，而是“感官社區”的語言。
 
 ---
 
@@ -44,209 +44,209 @@ color: #fff;
 </style>
 
 
-## 序章：リズムとは何か — 打撃と呼吸の文化史
+## 簡介：什麼是韻律？吹氣和呼吸的文化史
 
-打楽器とは、音楽の始まりであり、世界の心拍である。  
-アフリカの集落での太鼓は言葉の代替であり、ラテンアメリカのコンガは祈りの継承。  
-そして産業革命以後の都市では、それは機械のリズムとシンクロする存在となった。  
-ドラムセットが誕生したのは20世紀初頭。  
-スネア、キック、ハイハットという組み合わせが人間の手足の延長として設計され、  
-ジャズがそれを「即興の構造体」に変えた。
+打擊樂器是音樂的開始，是世界的心跳。
+非洲村莊的鼓是語言的替代品，拉丁美洲的康加舞是祈禱的延續。
+在工業革命後的城市中，它與機器的節奏變得同步。
+架子鼓誕生於20世紀初。
+軍鼓、底鼓和踩镲的組合被設計成人類四肢的延伸，
+爵士樂將其變成了“即興結構”。
 
-ジーン・クルーパ、バディ・リッチ、アート・ブレイキー──  
-彼らが叩いたのはリズムというよりも、存在そのものだった。  
-リズムは支配でも伴奏でもなく、バンドという共同体の“心拍”であり、  
-それを鳴らすドラマーは、同時に哲学者でもあった。
+吉恩·克魯帕、巴迪·里奇、阿特·布萊基──
+他們擊中的不是節奏，而是存在本身。
+節奏既不是主導也不是伴奏，而是樂隊群體的“心跳”。
+演奏這首曲子的鼓手也是一位哲學家。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Nu1teeixmpw?si=MPKeMebShaPxU7V2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 第1章：世界の鼓動 — リズム革命の系譜
+## 第一章：世界的心跳——節奏革命的譜系
 
-### 1-1. ジャズ黄金期：アート・ブレイキーからエルヴィン・ジョーンズへ
+### 1-1.爵士樂的黃金時代：從阿特·布萊基到埃爾文·瓊斯
 
-アート・ブレイキーの**「モーニン」**が象徴するように、  
-ジャズの黄金期、ドラムは「対話」の中心にあった。  
-リーダーであるブレイキーはドラムを通して若手を育て、  
-エルヴィン・ジョーンズはコルトレーンの“宇宙的推進力”となった。  
-リズムは単なるグルーヴではなく、時間と空間の拡張そのものだった。
+正如 Art Blakey 的《Moanin》所象徵的那樣，
+在爵士樂的黃金時代，鼓是“對話”的中心。
+領隊布萊基通過打鼓來培養年輕人。
+埃爾文·瓊斯成為科爾特蘭的“宇宙驅動力”。
+節奏不僅僅是一種節奏，而是時間和空間的擴展。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uKOoxgI_xfQ?si=1F4Kuwh28eWqBNU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 1-2. ロックの爆発：ジンジャー・ベイカーとジョン・ボーナム
+### 1-2.岩石爆炸：金格·貝克和約翰·博納姆
 
-1960〜70年代、ドラムは「反逆の象徴」へと変貌する。  
-ジンジャー・ベイカー（Cream）はアフロ・ポリリズムをロックに導入し、  
-ジョン・ボーナム（Led Zeppelin）は爆発的な音圧で“ドラムソロ”を芸術にした。  
-ボーナムの「When the Levee Breaks」におけるスネアのリバーブは、  
-以後のヒップホップ・ビートの原型にもなる。
+在20世紀60年代和1970年代，鼓轉變為叛逆的象徵。
+Ginger Baker (Cream) 將非洲節奏音樂引入搖滾樂；
+約翰·博納姆（齊柏林飛艇樂隊）以其爆炸性的聲壓使“鼓獨奏”成為一門藝術。
+Bonham 的《When the Levee Breaks》中的軍鼓混響是
+它也成為後來嘻哈節拍的原型。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8j7oT2I8Nz8?si=B6YrQ9deQV2UwSuv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 1-3. 正統の軸：Buddy Rich, Tony Williams, Steve Gadd
+### 1-3.正統軸心：巴迪·里奇、托尼·威廉姆斯、史蒂夫·加德
 
-Buddy Richはスピードの象徴、Tony Williamsは自由の象徴、Steve Gaddは精密の象徴。  
-彼らが築いた“ドラマーの理想像”は、20世紀音楽の骨格そのものだった。  
-しかし同時期に、**規律から逸脱するドラム**が地下で蠢いていた。
+巴迪·里奇是速度的象徵，托尼·威廉姆斯是自由的象徵，史蒂夫·加德是精確的象徵。
+他們創造的“鼓手的理想形象”正是20世紀音樂的框架。
+然而與此同時，**脫離紀律的鼓聲**卻在地下翻騰。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9esWG6A6g-k?si=t_bBIlRHycXe1C4D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 1-4. アフリカの鼓動：Tony Allenとポリリズムの革命
+### 1-4.非洲的心跳：托尼·艾倫和政治革命
 
-Fela Kutiの相棒として知られるTony Allenは、「アフロビート」を発明した男だ。  
-そのリズムは“反体制”の象徴であり、軍政下のナイジェリアで民衆のエネルギーを可視化した。  
-ドラムは政治だった。音がプロテストだった。
+托尼·艾倫（Tony Allen）更出名的是費拉·庫蒂（Fela Kuti）的助手，他是“非洲節奏”的發明者。
+這種節奏是“反體制”的象徵，體現了軍事統治下尼日利亞人民的能量。
+鼓就是政治。那聲音是抗議的聲音。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aqG-jGPppSI?si=j03o7AflXhY68RXf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 1-5. ヨーロッパ前衛の衝撃：Han Bennink, Christian Lillinger
+### 1-5。歐洲前衛藝術的影響：Han Bennink、Christian Lillinger
 
-オランダのHan Benninkは、ステージ上で椅子も壁も叩く。  
-彼にとって「音」は物体との出会いそのものだ。  
-ドイツのChristian Lillingerは、ポリリズムをデータ構造のように操り、**現代音楽とクラブカルチャーを接続**する。  
-ヨーロッパの実験ドラマーたちは、リズムを“哲学”として叩いている。
+來自荷蘭的漢·本尼克在舞台上敲擊椅子和牆壁。
+對他來說，“聲音”是與物體本身的相遇。
+德國的克里斯蒂安·利林格（Christian Lillinger）利用數據結構等多重節奏來連接當代音樂和俱樂部文化。
+歐洲實驗鼓手批評節奏是一種“哲學”。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4UR3Tubq978?si=SG4lOk-bI2fWS3hV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 1-6. 北米の地下：Greg Fox, Deantoni Parks
+### 1-6。北美地下：Greg Fox、Deantoni Parks
 
-Greg Fox（ex-Liturgy）はブラックメタルと即興の融合。  
-Deantoni Parks（The Mars Volta）は片手でサンプラー、もう片手でスネアを叩き、  
-「人間とマシンの同居」という21世紀的課題を身体で解く。  
-彼らの演奏は、宗教儀式とテクノロジーのあいだにある。
+Greg Fox（前 Liturgy）是黑金屬和即興創作的融合。
+Deantoni Parks（The Mars Volta）用一隻手演奏採樣器，另一隻手演奏軍鼓。
+用你的身體來解決 21 世紀“人類與機器共存”的挑戰。
+他們的表演介於宗教儀式和技術之間。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eftq8l_2GIk?si=L--o2lnps9eHN1uh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 第2章：日本の鼓動 — 地上と地下をつなぐリズムたち
+## 第2章：日本的心跳——連接地上和地下的節奏
 
-### 2-1. ポンタ以後 — 職人から思想家へ
+### 2-1.繼 Ponta 之後——從工匠到思想家
 
-村上“ポンタ”秀一が築いたのは「日本語で叩く」感覚。  
-しかし90年代以降、その文法を解体する新世代が登場する。  
-彼らは**“間をズラす”**ことで、音楽の重力を再定義した。
+村上秀一《Ponta》創造的是“日語中的敲擊感”。
+然而，自 20 世紀 90 年代以來，新一代的出現打破了這種語法。
+他們通過**“移動間隙”**重新定義了音樂的重力。
 
-### 2-2. YOSHIMIO（BOREDOMS / OOIOO）とYo2ro — ドラムを宇宙へ放つ
+### 2-2. YOSHIMIO (BOREDOMS / OOIOO) 和 Yo2ro — 將鼓釋放到太空
 
-Yoshimi Yokota＝YOSHIMIOは、世界で最も自由なドラマーのひとり。  
-Boredomsの巨大ドラム・アンサンブル「77BOADRUM」は、都市を揺らす儀式だった。  
-彼女にとってドラムは打楽器ではなく、“生命の波動”である。  
+Yoshimi Yokota = YOSHIMIO 是世界上最自由的鼓手之一。
+Boredoms 的巨型鼓樂團“77BOADRUM”震撼了整座城市。
+對她來說，鼓不僅僅是一種打擊樂器，更是“生命的波浪”。
 
-さらに **Yo2ro** は、Boredomsやその他の実験音楽プロジェクトで活躍し、  
-ポリリズムの縦横を自在に操ることで、YOSHIMIOの宇宙的ビートと呼応する。  
-Yo2roのスネアは、叩くたびに空間を変形させる力を持ち、  
-日本のアヴァンギャルド・ドラマーの象徴的存在として注目されている。
+此外，**Yo2ro** 還積極參與 Boredoms 和其他實驗音樂項目。
+通過自由地操縱多節奏的垂直和水平方面，他呼應了YOSHIMIO的宇宙節拍。
+Yo2ro 的網羅每次被擊中時都具有改變空間的力量。
+他作為日本前衛鼓手的象徵而受到關注。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qi2cIPsakcc?si=TobHq-o75YSzNPeq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 --- 
 
-### 2-3. 内田裕也以降のロック反逆者たち：中村達也、池畑潤二
+### 2-3.內田裕也之後的搖滾叛逆者：中村達也、池端淳二
 
-中村達也はドラムを暴力でもあり詩でもあるものに変えた。  
-「忌野清志郎」や「Blankey Jet City」といった文脈を超え、  
-身体の叫びを音として具現化した存在。  
-池畑潤二は、**ブルースを日本語に翻訳したドラム**を叩く。  
-そのスティックには昭和の風と反骨がある。
+中村達也將鼓變成了一種既暴力又充滿詩意的東西。
+除了“今和野清四郎”和“布蘭基噴氣城”的背景之外，
+將身體的哭聲具體化為聲音的存在。
+池端淳二 (Junji Ikebata) 演奏的鼓將布魯斯音樂翻譯成日語。
+棍子具有昭和風格和叛逆性。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BB2MY5i1nfg?si=fSxOh6-btME4UrzW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 --- 
 
-### 2-4. 実験と瞑想：山本達久、芳垣安洋、Hachito Matsumoto、灰野敬二
+### 2-4.實驗與冥想：Tatsuhisa Yamamoto、Yasuhiro Yoshigaki、Hachito Matsumoto、Keiji Haino
 
-山本達久（坂田明、ジム・オルークとの共演）は、空気そのものを叩くような音を出す。  
-そのリズムは、時間が止まる瞬間を可視化する。  
-芳垣安洋（ROVO, Orquesta Nudge! Nudge!）は、クラブミュージック的構造と即興を統合。  
-Hachito Matsumoto（ex-Paellas）は、ポスト・インディーズ時代の都市感覚を叩き出す。  
-灰野敬二は、ノイズ、即興、祈りの境界を超えた打撃を行う。  
-いずれも「沈黙の中の衝動」をテーマにしている。
+山本達久（坂田晃，吉姆·奧羅克聯合主演）發出的聲音聽起來就像擊中了空氣。
+它的節奏使時間停止的那一刻形象化。
+Yasuhiro Yoshigaki（ROVO、Orquesta Nudge！Nudge！）融合了俱樂部音樂結構和即興創作。
+松本八人（前西班牙海鮮飯）展現了後獨立時代的都市氣息。
+灰野敬二的打擊超越了噪音、即興創作和祈禱的界限。
+兩部作品的主題都是“沉默中的衝動”。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/51qui7j7k08?si=0R8xrsQ-UsTp-_1e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 --- 
 
-### 2-5. 新世代の流動：石若駿、Utena Kobayashi、坂本暁良、Yo2ro
+### 2-5。新生代流程：石若舜、小林佑天奈、坂本晃、Yo2ro
 
-石若駿は東京J-Jazzの象徴だが、millennium paradeやceroなどポップ領域も自在に横断する。  
-Utena Kobayashi（ブラックミディ的ポリリズム＋和太鼓的構造）は、ジェンダーとジャンルを超える存在。  
-坂本暁良（DOWNY, MONO NO AWARE）は、静謐さと暴力の境界線を叩く。  
-そして **Yo2ro** は、Boredomsを含む現代音楽・即興プロジェクトで培った経験を踏まえ、  
-伝統的リズムと前衛即興の接点を現代都市に響かせる。  
-彼らは**「個人のリズム」＝世界の文法**を再構築している。
+石若舜是東京 J-Jazz 的象徵，但他也自由地穿越千禧年遊行、cero 等流行領域。
+Utena Kobayashi（黑色迷笛式多節奏+日本鼓式結構）超越了性別和流派。
+坂本晃（《DOWNY》、《MONO NO AWARE》）遊走在寧靜與暴力之間。
+**Yo2ro**，基於當代音樂和即興項目（包括 Boredoms）中積累的經驗，
+傳統節奏與前衛即興創作的交彙在現代城市中引起共鳴。
+他們正在重建“個人節奏”=世界的語法。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hdog_9vBWUI?si=jHaSlJNjyx2UVOv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 第3章：リズムの未来 — 機械と肉体の新しい関係
+## 第三章：節奏的未來——機器與身體之間的新關係
 
-AIドラム、MIDIトリガー、触覚デバイス。  
-打楽器の未来は、人間の身体性を再定義する試みでもある。  
-しかし、どれほどテクノロジーが進化しても、  
-リズムの原点は「息」と「心拍」にある。  
+AI 鼓、MIDI 觸發器和触覺設備。
+打擊樂器的未來也是重新定義人類身體的嘗試。
+然而，無論科技如何進步，
+節奏的起源是“呼吸”和“心跳”。
 
-ジェフ・ミルズが言うように、  
-「ドラムマシンは未来のジャズだ」。  
-彼のライブでは、TR-909がまるで生物のように鳴動する。  
-そして灰野敬二が続けるように、  
-「沈黙こそ音楽の一部である」。
+正如傑夫·米爾斯所說，
+“鼓機是爵士樂的未來。”
+在他的現場表演中，TR-909 聽起來就像一個有生命的東西。
+灰野敬二繼續說道：
+“沉默是音樂的一部分。”
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jvElwZRbeZ0?si=GWCbBodMMCfhCSRC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 終章：鼓動の系譜 — 世界と日本を貫く一本のリズム
+## 最終章：心跳的譜系——貫穿世界和日本的節奏
 
-世界の鼓動と日本の鼓動は、いま確実に交差している。  
-ニューヨークのロフト、ベルリンの倉庫、東京の地下スタジオ。  
-どこでもドラムは、心臓のように鳴り続けている。  
+世界的心跳和日本的心跳現在肯定正在交匯。
+紐約的閣樓、柏林的倉庫、東京的地下室工作室。
+到處都有鼓聲像心跳一樣繼續敲響。
 
-アート・ブレイキーの“魂の拍”、  
-ジョン・ボーナムの“爆音の詩”、  
-灰野敬二の“沈黙の爆発”、  
-山本達久の“呼吸の音”、  
-YOSHIMIOとYo2roの宇宙的ビート。  
+阿特·布萊基的《靈魂節拍》
+約翰·博納姆的《爆炸詩》
+灰野敬二的《無聲爆炸》
+山本達久的《呼吸聲》，
+YOSHIMIO 和 Yo2ro 的宇宙節拍。
 
-それらは一見、異なる世界に思える。  
-だが、聴く者の胸に宿るリズムは同じだ。  
-それは「地上と地下をつなぐ鼓動」──  
-そして未来へと続く音楽の記憶である。
+乍一看，它們似乎是不同的世界。
+然而，駐留在聽者心中的節奏是一樣的。
+它是“連接地上和地下的心跳”──
+這是一種將持續到未來的音樂記憶。
 
 ---
 
 ### 唱片目錄
 
-| アーティスト | アルバム | 年 | リンク |
-|---------------|-----------|----|--------|
-| Art Blakey & The Jazz Messengers | *Moanin’* | 1958 | [Amazon](https://amzn.to/42LL3rG) |
-| Elvin Jones | *Live at the Lighthouse* | 1972 | [Amazon](https://amzn.to/48CIQTe) |
-| Tony Allen | *HomeCooking* | 2002 | [Amazon](https://amzn.to/3WKLBKO) |
-| John Bonham (Led Zeppelin) | *Led Zeppelin IV* | 1971 | [Amazon](https://amzn.to/4o06I87) |
-| Ginger Baker (Cream) | *Wheels of Fire* | 1968 | [Amazon](https://amzn.to/42NEdSu) |
-| Jeff Mills | *Live at the Liquid Room, Tokyo* | 1996 | [Amazon](https://amzn.to/42KKKNK) |
-| Tony Williams | *Lifetime: Emergency!* | 1969 | [Amazon](https://amzn.to/49boXCJ) |
-| 村上“ポンタ”秀一 | *Rhythm Designer* | 1994 | [Amazon](https://amzn.to/4qi2XfH) |
-| 日野元彦 | *Alone Together* | 1979 | [Amazon](https://amzn.to/4hgMB2E) |
-| 吉田達也 (Ruins) | *Hyderomastgroningem* | 1993 | [Amazon](https://amzn.to/4hgQUeD) |
-| 灰野敬二 | *Watashi Dake?* | 1981 | [Amazon](https://amzn.to/47irVDb) |
-| 山本達久 | *Red Oni* | 2010 | [Amazon](https://amzn.to/48ANpxl) |
-| 芳垣安洋 (ROVO) | *Pyramid* | 2005 | [Amazon](https://www.amazon.co.jp/dp/B0009K7CBO) |
-| 坂田学 | *One* | 2016 | [Amazon](https://amzn.to/3WbKNhW) |
-| Jim O’Rourke × 山本達久 | *Simple Songs* | 2015 | [Amazon](https://amzn.to/4neChcR) |
-| Keiji Haino & Merzbow & Balázs Pándi | *Become the Discovered, Not the Discover* | 2019 | [Amazon](https://amzn.to/42LM1Ek) |
+|藝術家 |專輯 |年份|鏈接 |
+|--------------|------------|----|--------|
+|阿特·布萊基與爵士信使 | Art Blakey *呻吟* | 1958 | [亞馬遜](https://amzn.to/42LL3rG) |
+|埃爾文·瓊斯 | *住在燈塔* | 1972 | [亞馬遜](https://amzn.to/48CIQTe) |
+|托尼·艾倫 | *家庭烹飪* | 2002 | [亞馬遜](https://amzn.to/3WKLBKO) |
+|約翰·博納姆 (齊柏林飛艇) | *齊柏林飛艇 IV* | 1971 | [亞馬遜](https://amzn.to/4o06I87) |
+|薑餅麵包（奶油）| *火輪* | 1968 | [亞馬遜](https://amzn.to/42NEdSu) |
+|傑夫·米爾斯 | *在東京 Liquid Room 現場直播* | 1996 | [亞馬遜](https://amzn.to/42KKKNK) |
+|托尼·威廉姆斯 | *終生：緊急情況！ * | 1969 | [亞馬遜](https://amzn.to/49boXCJ) |
+|村上秀一《Ponta》 | *節奏設計師* | 1994 | [亞馬遜](https://amzn.to/4qi2XfH) |
+|日野元彥 | *單獨在一起* | 1979 | [亞馬遜](https://amzn.to/4hgMB2E) |
+|吉田達也（廢墟）| *格羅寧根水乳腺* | 1993 | [亞馬遜](https://amzn.to/4hgQUeD) |
+|灰野敬二 | *渡志岳？ * | 1981 | [亞馬遜](https://amzn.to/47irVDb) |
+|山本達久 | *紅鬼* | 2010 | [亞馬遜](https://amzn.to/48ANpxl) |
+|吉垣泰弘 (ROVO) | *金字塔* | 2005 | [亞馬遜](https://www.amazon.co.jp/dp/B0009K7CBO) |
+|坂田學 | *一個* | 2016 | 2016 [亞馬遜](https://amzn.to/3WbKNhW) |
+|吉姆·奧羅克 × 山本達久 | *簡單的歌曲* | 2015 | 2015 [亞馬遜](https://amzn.to/4neChcR) |
+| Keiji Haino、Merzbow 和 Balázs Pándi | *成為被發現者，而不是發現者* | 2019 | 2019 [亞馬遜](https://amzn.to/42LM1Ek) |
 
 
 ---

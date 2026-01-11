@@ -9,13 +9,13 @@ permalink: /zh-hant/foreigner-head-games/
 tags:
 - Rock
 - Hard Rock
-title: Foreigner – Head Games
+title: 老外 – 頭部遊戲
 ---
 
 
-Foreigner（フォリナー）は、イギリス人ミュージシャンの Mick Jones（ミック ジョーンズ）とイアン マクドナルド（Ian McDonald）、アメリカ人のボーカリスト Lou Gramm（ルー グラム）によって 1976 年にニューヨーク市とロンドンで結成されたイギリス系アメリカ人のロックバンド。
+foreigner是一支英美搖滾樂隊，由英國音樂家米克·瓊斯（Mick Jones）和伊恩·麥克唐納（Ian McDonald）以及美國歌手盧·格拉姆（Lou Gramm）於1976年在紐約和倫敦組建。
 
-「Head Games」は、Foreignerの３枚目のアルバムであり、バンドのシグネチャーサウンドとしても知られるアルバム。
+《Head Games》是Foreigner的第三張專輯，也被稱為樂隊的標誌性聲音。
 
 #### 曲目列表
 ```md
@@ -40,7 +40,7 @@ B4. Do What You Like
 B5. Rev On The Red Line
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m43110681533?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m43110681533?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YfNyx_s2nxM?si=MjYOX3u9G9pfXme1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

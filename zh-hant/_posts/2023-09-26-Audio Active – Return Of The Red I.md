@@ -9,17 +9,17 @@ permalink: /zh-hant/audio-active-return-of-the-red-i/
 tags:
 - Reggae
 - Dub
-title: Audio Active – Return Of The Red I
+title: 音頻活動 – 紅色歸來 I
 ---
 
 
-「Audio Active – Return Of The Red I」は、日本の音楽グループであるAudio Active（オーディオ・アクティブ）のアルバムです。このアルバムは、1999年にリリースされました。
+《Audio Active – Return Of The Red I》是日本音樂團體Audio Active的一張專輯。這張專輯於1999年發行。
 
-「Return Of The Red I」は、ダブ、レゲエ、エレクトロニックミュージックなどの要素を取り入れた音楽を展開しているAudio Activeの作品です。彼らの音楽は実験的で先鋭的なアプローチを取り、独自のサウンドを追求しています。
+《Return Of The Red I》是Audio Active的作品，其音樂融合了配音、雷鬼、電子音樂的元素。他們的音樂採取實驗性和激進的方式，追求獨特的聲音。
 
-「Free The Marijuana」- リラックスした雰囲気とサイケデリックなサウンドが特徴のレゲエトラックです。リスナーを穏やかなムードに誘います。
+“Free The Marijuana” - 一首雷鬼曲目，氛圍輕鬆，聲音迷幻。它邀請聽眾進入平靜的心情。
 
-「Jah Army」- ダブとエレクトロニックミュージックを融合させた楽曲で、重いベースとリズミカルなビートが印象的です。メッセージ性の強い歌詞も特徴です。
+“Jah Army” - 一首結合了配音和電子音樂的歌曲，具有沉重的低音和節奏感。它還包含帶有強烈信息的歌詞。
 
 #### 曲目列表
 ```md
@@ -50,7 +50,7 @@ title: Audio Active – Return Of The Red I
 11.3. Untitled
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m49892584045?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m49892584045?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9i5YtgsvHE0?si=TEF29L0Km600uZqr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

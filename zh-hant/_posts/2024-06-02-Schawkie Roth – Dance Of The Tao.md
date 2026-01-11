@@ -15,9 +15,9 @@ title: 斯科基·羅斯——道之舞
 ---
 
 
-ニューエイジ・スピリチュアル音楽の先駆者の一人とみなされているSchawkie Rothは、ヒーリング・瞑想・リラクゼーション音楽やアコースティックジャズを専門とする作曲家。
+斯科基·羅斯被認為是新時代精神音樂的先驅之一，他是一位專門從事治療、冥想、放鬆音樂和原聲爵士樂的作曲家。
 
-「Dance Of The Tao（ダンス・オブ・ザ・タオ）」は、1978年にリリースされたニューエイジアルバム。
+《道之舞》是1978年發行的一張新時代專輯。
 
 #### 曲目列表
 ```md
@@ -30,7 +30,7 @@ B2. Bass Bamboo Meditation
 B3. Dance of Bamboo
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m91290785378?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m91290785378?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-4qn07RN6o8?si=6DC3cvWqr_YA9f9B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

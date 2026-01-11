@@ -11,15 +11,15 @@ tags:
 - Experimental
 - Indie Rock
 - 00s
-title: Battles – Mirrored
+title: 戰鬥——鏡像
 ---
 
 
-Battles(バトルス)は、2002年に元Don Caballero（ドン・キャバレロ）& Storm & StressのIan Williams(イアン・ウィリアムス)によって結成されたエクスペリメンタル・ロック・バンド。
+Battles 是一支實驗搖滾樂隊，由 Ian Williams（前 Don Caballero & Storm & Stress 樂隊成員）於 2002 年組建。
 
-「Mirrored」は、2007年にWarp RecordsからリリースされたBattlesのデビューアルバム。著名メディアで2007年度のベストアルバムに選ばれるなど、高い評価を受けたBattlesの代表作。
+《Mirrored》是Battles的首張專輯，由Warp Records於2007年發行。 Battles的代表作受到高度評價，包括被著名媒體評選為2007年最佳專輯。
 
-このCDはボーナストラック、シール、ポスターが入った日本盤。
+這張 CD 是日文版，附贈曲目、貼紙和海報。
 
 #### 曲目列表
 ```md
@@ -40,7 +40,7 @@ Bonus Track
 12. Katoman
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m52524321493?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m52524321493?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IpGp-22t0lU?si=cxyOTFEAQA2A370P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

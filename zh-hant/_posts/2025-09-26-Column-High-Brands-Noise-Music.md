@@ -65,7 +65,7 @@ color: #fff;
 
 來自 [**Hijokaidan**](https://amzn.to/3IlDq4h) 的片段被用作歐洲時尚品牌的視覺製作材料，強調“混亂與復雜的共存”。
 
-[GUCCI](https://amzn.to/4gIXl9X) 在宣傳視頻中混合了工業噪音，故意製造與古典音樂的衝突。
+[GUCCI](https://amzn.to/4gIXl9X) 在宣傳視頻中混合了工業噪音，故意與古典音樂產生衝突。
 
 [Rick Owens](https://amzn.to/3KGkWMm) 在 2010 年代的節目中引入了類似無人機的噪音，讓觀眾陷入“不舒服的沉浸感”。
 
@@ -91,7 +91,7 @@ color: #fff;
 | [**瑞克·歐文斯**](https://amzn.to/3KGkWMm) |無人機噪音、低頻聲音|儀式沉浸式體驗 |
 | [**古馳**](https://amzn.to/4gIXl9X) |古典+電子噪音|奢靡與洋氣的碰撞|
 | [**維維安·韋斯特伍德**](https://amzn.to/46DRqyf) |朋克噪音|品牌反建制美學|
-| [**普拉達**](https://amzn.to/4nonZY9) |環境聲音、白噪聲 |非凡的象徵 |
+| [**普拉達**](https://amzn.to/4nonZY9) |環境聲音、白噪聲|非凡的象徵|
 | [**亞歷山大·麥奎因**](https://amzn.to/46wxWLO) |古典+電子噪音|象徵著美的崩潰的作品|
 
 
@@ -198,9 +198,9 @@ color: #fff;
 | [**COMME des GARÇONS**](https://amzn.to/42fzNDE) | Merzbow、灰野敬二、阿爾瓦·諾托 |通過不和諧解構美學 |
 | [**山本耀司**](https://amzn.to/42cl0JT) |灰野敬二，即興演奏家 |沉默與咆哮的對比|
 | [**Balenciaga**](https://amzn.to/3KItfr1) |跳動的軟骨，懷特豪斯，深褐色瑪麗 |被毀壞的空間和劇烈的音響效果|
-| [**瑞克·歐文斯**](https://amzn.to/3KGkWMm) | Sunn O)))，Deathprod，西北 |儀式沉浸式體驗|
+| [**瑞克·歐文斯**](https://amzn.to/3KGkWMm) | Sunn O)))，Deathprod，西北 |儀式沉浸式體驗 |
 | [**古馳**](https://amzn.to/4gIXl9X) |亞歷山德羅·科爾蒂尼·芬內斯 |奢靡與洋氣的碰撞|
-| [**維維安·韋斯特伍德**](https://amzn.to/46DRqyf) | Sex Pistols，早期工業團體 |反體制和反審美的介紹|
+| [**維維安·韋斯特伍德**](https://amzn.to/46DRqyf) | Sex Pistols，早期工業團體 |反體制和反審美的介紹 |
 | [**普拉達**](https://amzn.to/4nonZY9) |池田亮司，橢圓形 |化城市喧囂為優雅 |
 | [**亞歷山大·麥奎因**](https://amzn.to/46wxWLO) | Aphex Twin，克里斯·沃森 |美麗與死亡的毀滅性產物|
 | [**路易威登**](https://amzn.to/3KgB7jB) |本·弗羅斯特 (Ben Frost) | Oneohtrix Point Never未來/城市實驗聲音 |
@@ -313,9 +313,9 @@ COMME des GARÇONS — 將實驗聲音/噪音融入“表演音樂”的傳統
 |品牌 |代表視頻|特色藝術家（報告/信用）|
 | ------------------- | -------------------- |-------------------------- |
 | [**Balenciaga**](https://amzn.to/3KItfr1) | Balenciaga 2019 冬季 — [YouTube](https://www.youtube.com/watch?v=qprAGHIocu4)；顯示播放列表 — [YouTube 播放列表](https://www.youtube.com/playlist?list=PL2r6I51dLNSyGHO8Q_zePw7E5OU6eLF3a) |聲音設計：**BFRND**（顯示專屬樂譜）/工業聲音使用示例 |
-| [**瑞克·歐文斯**](https://amzn.to/3KGkWMm) | Rick Owens SS26 “TEMPLE” — [YouTube](https://www.youtube.com/watch?v=lKkqCI64m9o) ； FW25等（很多） |無人機/低頻製作。從表演視頻中可以確認沉浸式噪音的產生 |
+| [**瑞克·歐文斯**](https://amzn.to/3KGkWMm) | Rick Owens SS26 “TEMPLE” — [YouTube](https://www.youtube.com/watch?v=lKkqCI64m9o) ; FW25等（很多） |無人機/低頻製作。從表演視頻中可以確認沉浸式噪音的產生 |
 | **亞歷山大·麥奎因** | 2020 年秋冬活動 — [YouTube](https://www.youtube.com/watch?v=ncsjPl-CK4M) | **Daniel Avery 和 Alessandro Cortini** 被指定為競選歌曲（歌曲“At First Sight”）|
-| **路易威登** |各種演出和余興派對記錄（示例存檔）— Daft Punk / Virgil Abloh 的 DJ 相關事宜（多個） |過去，**Daft Punk**為 LV 提供歌曲編輯，並使用 **Dev Hynes (Blood Orange)** 進行配樂（Virgil Abloh 時期）|
+| **路易威登** |各種演出和余興派對記錄（示例檔案）——Daft Punk / Virgil Abloh 的 DJ 關係等（多個） |過去，**Daft Punk**為 LV 提供歌曲編輯，並使用 **Dev Hynes (Blood Orange)** 進行配樂（Virgil Abloh 時期） |
 | **迪奧** | Dior（各種活動/展示視頻）|有很多聲音設計師（例如 Frédéric Sanchez）參與的案例，並且與環境/無人機類型的製作有聯繫 |
 
 ---

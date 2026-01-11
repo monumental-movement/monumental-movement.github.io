@@ -60,7 +60,7 @@ EBM 一詞於 20 世紀 80 年代初引入，最初更多地是作為一個概�
 
 EBM 的形成涉及多個區域。
 
-在比利時，電子音樂與前衛藝術的聯繫很早就開始發展，以Front 242為中心的活動為EBM提供了框架。在英國，後朋克極簡主義和身體表達相結合，創造了 Nitzer Ebb 的堅忍風格。在德國，電子音樂技術和俱樂部文化的基礎支持了 EBM 的接受和發展。
+在比利時，電子音樂與前衛藝術的聯繫從很早就開始發展，以Front 242為中心的活動為EBM提供了框架。在英國，後朋克極簡主義和身體表達相結合，創造了 Nitzer Ebb 的堅忍風格。在德國，電子音樂技術和俱樂部文化的基礎支持了 EBM 的接受和發展。
 
 這些地區的共同點是工業化的城市環境和物理上接受重複音樂的空間的存在。
 
@@ -116,11 +116,19 @@ EBM 聲音被視為命令、口號和重複的短語，而不是旋律歌唱。�
 
 ## 9. Front 242的結構性貢獻
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j9sW556IBjo?si=RCXeEWWFMSm7oPwZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 Front 242是一家從三個層面製定EBM的公司：概念、結構和聲音。他們的歌曲的特點是為俱樂部演奏而設計的清晰節奏設計以及不帶感情色彩和碎片化的語言運用。
 
 ---
 
 ## 10.尼澤·埃佈極簡主義
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dfwicqniOMw?si=7nDOtCdu22Rt8j3m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 Nitzer Ebb 將 EBM 的元素減少到最低限度，從而突出了身體性。最少的音符、重複的喊叫和強調的節奏象徵著這種流派堅忍的一面。
 

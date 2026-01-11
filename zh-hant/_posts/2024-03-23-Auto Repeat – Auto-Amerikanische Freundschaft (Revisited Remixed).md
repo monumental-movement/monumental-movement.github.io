@@ -10,7 +10,7 @@ tags:
 - Techno
 - House
 - 90s
-title: 自動重複 – Auto-Americanische Freundschaft（重溫混音）
+title: Auto Repeat – Auto-Americanische Freundschaft（重溫混音）
 ---
 
 

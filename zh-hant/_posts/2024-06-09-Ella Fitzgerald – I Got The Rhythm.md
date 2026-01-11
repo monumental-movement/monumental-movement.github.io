@@ -11,13 +11,13 @@ tags:
 - Ballad
 - Pops
 - 80s
-title: Ella Fitzgerald – I Got The Rhythm
+title: 艾拉·菲茨杰拉德——我掌握了節奏
 ---
 
 
-Ella Fitzgerald（エラ・フィッツジェラルド）は、「The First Lady of Song（歌のファーストレディ）」、「Lady Ella（レディ・エラ）」とも呼ばれたアメリカのジャズシンガー。ビリー・ホリデイ、サラ・ヴォーンと並び称される20世紀の女性トップ・ジャズ・ボーカリストの1人。
+艾拉·菲茨杰拉德是美國爵士樂歌手，被譽為“歌曲第一夫人”、“艾拉夫人”。與比莉·哈樂黛、莎拉·沃恩齊名的20世紀頂尖爵士女歌手之一。
 
-エラ・フィッツジェラルドは、60年近くのキャリアの中で、14 回のグラミー賞、全米芸術賞、NAACPの初代大統領賞、大統領自由勲章などの栄誉を受けた。
+在近 60 年的職業生涯中，艾拉·菲茨杰拉德獲得的榮譽包括 14 項格萊美獎、國家藝術獎、全國有色人種協進會首屆總統獎和總統自由勳章。
 
 #### 曲目列表
 ```md
@@ -39,7 +39,7 @@ Ella Fitzgerald（エラ・フィッツジェラルド）は、「The First Lady
 16. Shall We Dance
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m45583200877?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m45583200877?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fSTkz1BvrXY?si=i_4bTuPGvRYKOgcd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

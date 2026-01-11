@@ -10,15 +10,15 @@ tags:
 - Deep House
 - House
 - 00s
-title: Souldoubt – Times Like These
+title: Souldoubt——這樣的時代
 ---
 
 
-SouldoubtことAlex J. Deanは、2000年代初頭に活躍したディープハウス／テックハウス プロデューサー・DJ。別名義でFreakedとしても活動した。
+Alex J. Dean，又名 Souldoubt，是一位活躍於 2000 年代初的 Deep House/Tech House 製作人和 DJ。他們還以不同的名字“Freaked”進行表演。
 
-「Times Like These」は、2001年にシアトルのハウスレーベルViva!からリリースされたDeep Houseトラック。
+《Times LikeThese》是一首 Deep House 歌曲，由西雅圖 house 廠牌 Viva! 發行。 2001年。
 
-ジャケットのデザインは、1990年代後半から2000年代にかけて、カナダ西部のハウスミュージックシーンで活躍したカナダのディープハウスDJ・プロデューサー&クリエーターのTodd Omotani。
+該夾克由加拿大 Deep House DJ、製作人和創作者 Todd Omotani 設計，他在 20 世紀 90 年代末至 2000 年代活躍於加拿大西部的 house 音樂界。
 
 
 #### 曲目列表
@@ -29,7 +29,7 @@ B1. Chilldoubt
 B2. Shufflers Delight
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m52528150296?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m52528150296?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dQokuBhF5N8?si=uFq_j5RJQiZxFjWc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -16,9 +16,9 @@ title: 搖擺姐妹 - 形狀和圖案
 ---
 
 
-「Shapes And Patterns」は、1997年リリースされたSwing Out Sister 5枚目のスタジオアルバム。
+《Shapes And Patterns》是 Swing Out Sister 的第五張錄音室專輯，於 1997 年發行。
 
-収録曲Now You're Not Here(邦題: あなたにいてほしい)は、ドラマ「真昼の月」の主題歌用に書き下ろされ、日本で大ヒットとなった。このアルバムは屋敷豪太がドラマーとして参加している。
+歌曲《Now You’re Not Here》作為電視劇《正午的月亮》的主題曲在日本大受歡迎。這張專輯由 Gota Yashiki 擔任鼓手。
 
 #### 曲目列表
 ```md

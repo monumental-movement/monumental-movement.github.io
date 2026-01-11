@@ -9,26 +9,26 @@ permalink: /zh-hant/pickup-new-wave/
 tags:
 - New-Wave
 - 80s
-title: ニューウェーブ(New Wave)作品をピックアップ
+title: 拾起新浪潮作品
 ---
 
 
-「独特なシンセサイザーの響きと前衛的なリズムが印象的な、注目すべきニューウェーブ(New-Wave)作品群」
+“一組出色的新浪潮作品以其獨特的合成器聲音和前衛節奏令人印象深刻。”
 
 <小時>
 
 
 
-### Elvis Costello And The Attractions – Let Them All Talk
+### 埃爾維斯·科斯特洛 (Elvis Costello) 和景點 – 讓他們都來談談
 <a href="https://jp.mercari.com/item/m52393761866?afid=6142608987"><img src="../assets/images/Elvis%20Costello%20And%20The%20Attractions%20%E2%80%93%20Let%20Them%20All%20Talk.webp"></a>
 
 
-リリース：1984年リリースの24枚目のシングル。80年代ニューウェーブ／ロックを代表するアーティスト、エルヴィス・コステロ＆ザ・アトラクションズによる楽曲。
+發行：1984 年發行的第 24 張單曲。由代表 80 年代新浪潮/搖滾的藝術家 Elvis Costello & the Attractions 創作的歌曲。
 
-バンドは1977年後半にロンドンで結成され、その多彩な音楽性でロック界に大きな足跡を残しました。2003年にはロックの殿堂入りも果たしています。
+該樂隊於 1977 年底在倫敦成立，以其多元化的音樂風格在搖滾界留下了巨大的印記。 2003年，他還入選搖滾名人堂。
 
-おすすめポイント
-ニューウェーブがもつエッジの効いたギターとリズム、洗練されたポップ感が見事に融合。その背景にある80年代UKロック／ニューウェーブシーンのエネルギーを感じさせる重要な1曲です。
+推薦要點
+新浪潮前衛的吉他和節奏與精緻的流行感覺的完美融合。這是一首重要的歌曲，讓您感受到其背後 80 年代英國搖滾/新浪潮場景的能量。
 
 #### 曲目列表
 ```md
@@ -38,7 +38,7 @@ B. The Flirting Kind
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m52393761866?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m52393761866?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -47,12 +47,12 @@ B. The Flirting Kind
 <br>
 
 
-### Buggles – The Age of Plastic
+### Buggles – 塑料時代
 <a href="https://jp.mercari.com/item/m56132888760?afid=6142608987"><img src="../assets/images/Buggles%20%E2%80%93%20The%20Age%20Of%20Plastic.webp"></a>
 
-リリース：2025年5月1日掲載。バグルス（Trevor Horn と Geoff Downes によるUKニューウェーブユニット）のデビューアルバム。
+發行：發佈於 2025 年 5 月 1 日。 The Buggles（由 Trevor Horn 和 Geoff Downes 組成的英國新浪潮樂隊）的首張專輯。
 
-おすすめポイント：「Video Killed the Radio Star」など、シンセポップ／ニューウェーブの象徴的楽曲を含む、時代を象徴する名盤。後に二人がバンドYesに加入したことも話題になりました。
+推薦要點：象徵時代的傑作，包括《Video Killed the Radio Star》等標誌性合成器流行/新浪潮歌曲。兩人後來加入Yes樂隊也成為熱門話題。
 
 
 #### 曲目列表
@@ -78,12 +78,12 @@ B. The Flirting Kind
 
 
 
-### The Expression – The Expression
+### 表達——表達
 <a href="https://jp.mercari.com/item/m12510695910?afid=6142608987"><img src="../assets/images/The%20Expression%20%E2%80%93%20The%20Expression.webp"></a>
 
-リリース：2023年10月26日掲載。オーストラリアのシンセポップ・ニューウェーブバンドによるセルフタイトルアルバム。
+發行：發佈於 2023 年 10 月 26 日。澳大利亞合成流行新浪潮樂隊的同名專輯。
 
-おすすめポイント：鋭いギターリフとシンセ、ユニークなボーカルが際立つポップ色の強いニューウェーブ。初期80年代のシンセポップが好きな方にぴったりです。
+推薦點：流行氣息濃厚的新浪潮，尖銳的吉他riff、合成器、獨特的人聲。非常適合喜歡 80 年代早期合成流行音樂的人。
 
 #### 曲目列表
 ```md
@@ -101,7 +101,7 @@ B5. Satisfied Strangers
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m12510695910?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m12510695910?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -110,12 +110,12 @@ B5. Satisfied Strangers
 <br>
 
 
-### A Flock Of Seagulls – Listen
+### 一群海鷗——聽
 <a href="https://jp.mercari.com/item/m43509959556?afid=6142608987"><img src="../assets/images/A%20Flock%20Of%20Seagulls%20%E2%80%93%20Listen.webp"></a>
 
-リリース：2023年10月15日掲載。リバプール出身のニューウェーブ／シンセポップ／ニューロマンティックバンド、フロック・オブ・シーガルズによる1983年リリースの2ndアルバム。
+發行：發佈於 2023 年 10 月 15 日。來自利物浦的新浪潮/合成流行/新浪漫樂隊 Flock of Seagulls 於 1983 年發行的第二張專輯。
 
-おすすめポイント：代表曲「Wishing (If I Had a Photograph of You)」などを収録。煌びやかなシンセサウンドと耽美的な世界観が光る一枚です。
+推薦要點：收錄《許願（如果我有你的照片）》等代表性歌曲。這是一首以其閃閃發光的合成聲音和美學世界觀而閃耀的作品。
 
 #### 曲目列表
 ```md
@@ -133,7 +133,7 @@ B6. (It's Not Me) Talking
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m43509959556?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m43509959556?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -142,13 +142,13 @@ B6. (It's Not Me) Talking
 <br>
 
 
-### Furniture – I Can't Crack
+### 家具——我不能破解
 <a href="https://jp.mercari.com/item/m82619779908?afid=6142608987"><img src="../assets/images/Furniture%20%E2%80%93%20I%20Can't%20Crack.webp"></a>
 
-リリース：2023年9月9日掲載。英国のポップ／ニューウェーブ／ポストパンク要素を持つバンドによる1985年のEP。
+發行：發佈於 2023 年 9 月 9 日。由一支帶有英國流行/新浪潮/後朋克元素的樂隊製作的 1985 年 EP。
 
 
-おすすめポイント：キャッチーなメロディと大気的なサウンド、内省的な歌詞が融合した独自の世界観。批評家からも高評価を得た作品です。
+推薦要點：朗朗上口的旋律、大氣的聲音和內省的歌詞相結合的獨特世界觀。這部作品獲得了評論家的高度評價。
 
 #### 曲目列表
 ```md
@@ -160,7 +160,7 @@ B1. I Can't Crack (Broken Mix)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m82619779908?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m82619779908?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -172,10 +172,10 @@ B1. I Can't Crack (Broken Mix)
 ### Devo——新傳統主義者
 <a href="https://jp.mercari.com/item/m80101540352?afid=6142608987"><img src="../assets/images/Devo%20%E2%80%93%20New%20Traditionalists.webp"></a>
 
-リリース：2024年5月18日掲載。USニューウェーブの代表、Devo（ディーヴォ）による4作目のセルフプロデュース・アルバム（1981年）。
+發行：2024年5月18日發布。美國新浪潮代表Devo第四張自製專輯（1981）。
 
 
-おすすめポイント：ミニマルで冷徹なシンセリフと電子パーカッション、テーマ「脱進化」が融合した革新的なアルバム。代表曲「Through Being Cool」などを収録。
+推薦點：一張融合了極簡酷炫的合成器線條、電子打擊樂以及“deevolution”主題的創新專輯。收錄了《Through Being Cool》等代表性歌曲。
 
 #### 曲目列表
 ```md
@@ -207,9 +207,9 @@ B6. Working In The Coal Mine
 ### 黑色——不僅僅是太陽
 <a href="https://jp.mercari.com/item/m36771334652?afid=6142608987"><img src="../assets/images/Black%20%E2%80%93%20More%20Than%20The%20Sun.webp"></a>
 
-リリース：2023年10月13日掲載。UKのシンガーソングライター Colín Vearncombe のソロ名義 Black による作品。
+發行：發佈於 2023 年 10 月 13 日。英國創作型歌手 Colín Vearncombe 的獨唱作品 Black。
 
-おすすめポイント：繊細なメロディとメランコリックな歌詞が融合したニューウェーブ／ロック作品。深みのある世界観が魅力です。
+推薦點：一首融合了細膩旋律和憂鬱歌詞的新浪潮/搖滾作品。深刻的世界觀很吸引人。
 
 #### 曲目列表
 ```md
@@ -234,9 +234,9 @@ B3. Stephen
 ### 狂喜——在你愛的恩典中
 <a href="https://jp.mercari.com/item/m73702880151?afid=6142608987"><img src="../assets/images/The%20Rapture%20%E2%80%93%20In%20The%20Grace%20Of%20Your%20Love.webp"></a>
 
-リリース：2024年12月18日掲載。NY出身ポストパンク／ダンスパンク／ニューウェーブ色を持つバンドによる3rdアルバム（2011年作品）。
+發行：發佈於 2024 年 12 月 18 日。來自紐約的後朋克/舞曲朋克/新浪潮樂隊的第三張專輯（2011 年發行）。
 先生
-おすすめポイント：ポストパンクとエレクトロ、ディスコ等を大胆にミックスしたアプローチが魅力。近年のシーンでもリバイバル感のあるダンシングニューウェーブとしておすすめです。
+推薦要點：他們的風格是後朋克、電子、迪斯科等的大膽組合。推薦作為近年來也帶有復興感覺的舞蹈新浪潮。
 
 #### 曲目列表
 ```md

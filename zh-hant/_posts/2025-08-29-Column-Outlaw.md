@@ -84,7 +84,7 @@ Garage/protopunk是一種DIY精神和反商業主義。學校體育館和倉庫�
 
 ---
 
-迪斯科是 LGBTQ+/黑人/拉丁裔群體的天堂，他們獲得了在合法與非法之間跳舞的權利，但也有其陰暗面，例如夜總會安全和入場歧視。
+迪斯科是 LGBTQ+/黑人/拉丁裔群體的天堂，他們獲得了在合法與非法之間跳舞的權利，儘管它也有其陰暗面，例如夜總會安全和入場歧視。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4KUL9-eNXzQ?si=0RcRn_F0ErMntOI7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -21,7 +21,7 @@ title: 卡賓槍 – 存放你的戰利品時髦老科爾蒂納
 
 Carbine的音樂是一種以舞池為主的浩室音樂風格，特點是節奏感和正能量。他的歌曲在俱樂部和節日中演奏，使他成為舞曲愛好者家喻戶曉的名字。
 
-《House Your Booty / Funky Old Cortina》是一張特別版本，可以讓您體驗 Carbine 的音樂片段，使其成為 house 音樂迷的有趣作品。
+《House Your Booty / Funky Old Cortina》是一張特別發行的專輯，可以讓您體驗 Carbine 的音樂片段，使其成為 house 音樂迷的有趣作品。
 
 #### 曲目列表
 ```md

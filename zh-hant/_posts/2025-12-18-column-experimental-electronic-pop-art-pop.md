@@ -43,7 +43,7 @@ color: #fff;
 
 ## 2. 流行音樂與實驗的歷史關係
 
-儘管流行音樂是建立在大眾傳播和即時理解的前提下的，但其中始終引入了實驗元素。自 20 世紀 60 年代以來，隨著錄音室技術的進步，錄音本身已被視為一種創造性行為。磁帶操縱、反向播放和人工混響被用作擴展歌曲結構的手段。
+儘管流行音樂是建立在大眾傳播和即時理解的前提下的，但其中始終引入了實驗元素。自 20 世紀 60 年代以來，隨著錄音室技術的進步，錄音本身已被認為是一種創造性的行為。磁帶操縱、反向播放和人工混響被用作擴展歌曲結構的手段。
 
 20 世紀 70 年代，合成器開始流行，電子聲音也成為流行詞彙。在此期間，電子聲音充當未來圖像和人工符號，音樂和視覺表現緊密相連。
 
@@ -59,7 +59,7 @@ color: #fff;
 * 基於聲學單位而不是短語單位的結構
 * 納入意外事件和錯誤
 
-實驗電子波普/藝術波普積極利用這些特徵。
+實驗電子波普/藝術波普積極利用了這些特徵。
 
 ---
 
@@ -101,7 +101,7 @@ FKA twigs是一位來自英國的藝術家，從事音樂製作、舞蹈和視�
 
 ## 8. FKA twigs 中的節奏和空間
 
-節奏通常由間歇性的安排組成，而不是遵循固定的節拍。節拍被省略，沉默起著重要作用。
+節奏通常由斷斷續續的安排組成，而不是遵循固定的節拍。節拍被省略，沉默起著重要作用。
 
 由於這種結構，音樂被視為一種空間安排而不是線性時間。
 
@@ -112,6 +112,8 @@ FKA twigs是一位來自英國的藝術家，從事音樂製作、舞蹈和視�
 視頻作品以身體特寫、受控的燈光和有限的色彩為特色。相機通常會拍攝身體的特寫鏡頭，而不是客觀的視角。
 
 動作結構具有強烈的緩慢性和快速性，並嚴格對應聲音的變化。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wZ2njttY3BA?si=LoipjfeBoX9zUWOa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -148,6 +150,8 @@ FKA twigs是一位來自英國的藝術家，從事音樂製作、舞蹈和視�
 在Arca的視覺表達中，身體被視為可變形的材料。人體、人造物體和數字處理的圖像疊加在一起，並與聲學失真具有對應關係。
 
 身體表徵並不表明固定的身份，而是呈現為不斷變化的結構。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4LaCgzhidY?si=3Ml1wlUr-tNSts8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

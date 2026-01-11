@@ -15,7 +15,7 @@ title: U2 – Achtung 寶貝
 
 《Achtung Baby》是 U2 探索新音樂方向的專輯，試圖解構和重塑他們的傳統聲音。這張專輯探索了新的表達方式，同時融入了電子元素和舞曲音樂的影響，同時保留了 U2 的標誌性旋律和情感歌詞。
 
-《Achtung Baby》收錄了許多熱門歌曲。例子包括“One”、“Mysterious Ways”和“Even Better Than the Real Thing”。這些歌曲具有獨特的聲音和強烈的旋律，以及專輯的實驗性方法。
+《Achtung Baby》收錄了許多熱門歌曲。例子包括“One”、“Mysterious Ways”和“Even Better Than the Real Thing”。這些歌曲具有獨特的聲音和強烈的旋律，以及專輯的實驗方法。
 
 #### 曲目列表
 ```md

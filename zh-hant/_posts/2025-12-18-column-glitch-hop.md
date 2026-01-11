@@ -67,13 +67,19 @@ Glitch Hop 的節奏範圍一般集中在 85-110BPM 左右。這與嘻哈的中�
 
 Glitch Mob利用多人製作系統，建立了一種高度劃分和整合節拍和聲音設計的方法。他們的歌曲避免了簡單的循環重複，而是隨著每次發展而改變節奏和音調密度。
 
-低音被設計為歌曲的驅動力，其與底鼓的相位關係受到嚴格控制。子帶通常以單聲道方式排列，其特點是強調俱樂部播放期間的穩定性的設計。
+低音被設計為歌曲的驅動力，其與底鼓的相位關係受到嚴格控制。子帶通常以單聲道方式排列，其特點是強調俱樂部播放時的穩定性的設計。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xbbwjfa9JQE?si=-2_64kU--YmohV0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 ### 3.2 公案聲音
 
 KOAN Sound 以其極其精確的音頻編輯和先進的混音技術而聞名。在他們的歌曲中，每個音符都應用了不同的包絡和濾波器設置，並且很少連續使用相同的音調。
 
 每個音符佔據的頻段清晰分開，最大限度地減少低音、中音和高音之間的衝突。這種設計即使在復雜的節奏中也能保持清晰的清晰度。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ach8lgF6-AY?si=h70zKmxpWEPZPRgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -145,7 +151,7 @@ Glitch Hop 的編輯技術影響了 trap、貝斯音樂，甚至流行音樂的�
 
 ## 10. 結論
 
-Glitch Hop 是一種技術進化與製作美學相結合而誕生的流派。通過將嘻哈的身體性與故障的感知刺激相結合，它被定位為現代節拍音樂的基礎之一，而不僅僅是一種過時的風格。
+Glitch Hop 是技術進化與製作美學相結合而誕生的一種流派。通過將嘻哈的身體性與故障的感知刺激相結合，它被定位為現代節拍音樂的基礎之一，而不僅僅是一種過時的風格。
 
 ---
 
@@ -195,17 +201,10 @@ flowchart LR
 
 過度的聲壓競爭並不一定是Glitch Hop的主要目的。相反，重點是瞬時峰值和安靜之間的對比。因此，限制器起到了安全裝置的作用，並且表達本身有很強的傾向是在混音階段完成的。
 
----
-
-## 15. 巨大運動記錄視角
-
-在紀念性運動唱片的背景下考慮Glitch Hop時，重要的不是風格的模仿，而是將剪輯本身視為一種批評行為的態度。碎片化並不是破壞，而是重組的前提，而音樂總是表現為​​一種可以重構的結構。
-
-Glitch Hop 理論上是高度人為的，但結果卻是極其物理性的。這種矛盾仍未得到解決，本身就形成了一種流派張力。
 
 ---
 
-## 16. 擴展年表
+## 15. 擴展年表
 
 <div class="mermaid">
 timeline
@@ -218,7 +217,7 @@ timeline
 
 ---
 
-## 17. 總結
+## 16. 總結
 
 Glitch Hop 是一種將節拍音樂的編輯分辨率提高到最大的結果而建立的流派。一小節、一個音符、甚至幾毫秒做出的判斷，都直接關係到最終的身體感覺。從這個意義上說，Glitch Hop不僅是製作技術的集合，更是設計聆聽體驗本身的思想體系。
 

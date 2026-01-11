@@ -53,7 +53,7 @@ DJ Kool Herc 和 Afrika Bambaataa 在當地電台和聚會上播放了他們的�
 
 [糖山幫『說唱歌手的喜悅』(1979)](https://amzn.to/4ngQIOx)
 
-[閃電俠與蓋世五俠“消息”(1982)](https://amzn.to/4nhcotO)
+[閃電俠與蓋世五俠“訊息”(1982)](https://amzn.to/4nhcotO)
 
 ### 設備/採樣培養
 隆重推出 Technics SL-1200 轉盤、早期 MPC 型號和鼓機 (Roland TR-808)。從唱片中採樣成為音樂製作的核心，DJ 們建立了一種重複唱片“中斷”部分的方法。
@@ -182,14 +182,14 @@ DAW（Ableton Live、FL Studio）
 ## 混音帶文化的作用
 
 - **DJ Clue、DJ Drama、DJ Screw** 等人的混音帶成為 90 年代及以後從地下音樂到主流音樂的橋樑。
-- **Southern（休斯頓，ATL）** ``Screw Tape'' 和 'Gangsta Grillz'' 形成了這一景象，使發現獨立於唱片公司的藝術家成為可能。
+- **Southern（休斯頓，ATL）** “Screw Tape”和“Gangsta Grillz”形成了一個場景，使發現獨立於唱片公司的藝術家成為可能。
 - 2000年代，Mixtape過渡為“SoundCloud”和“DatPiff”，演變成互聯網時代的一種推廣手段。
 
 ---
 
 ## 不同時代和採樣趨勢
 
-|年 |傑作 |抽樣趨勢|
+|年 |傑作|抽樣趨勢|
 |------|------|----------------|--------------------|----------------|
 | 20 世紀 80 年代 | *全額支付*，*需要數以百萬計的國家* |詹姆斯·布朗，Funk，靈魂採樣濫用時期 |
 | 20 世紀 90 年代 | *慢性病*，*所有人都注視著我* |議會放克音樂、G-Funk |
@@ -224,13 +224,13 @@ DAW（Ableton Live、FL Studio）
 
 ## 按年齡組劃分的權力分佈變化
 
-|年齡 |電源中心|特點|
+|年齡 |電源中心|特點 |
 |------|----------|------|
 | 20 世紀 80 年代 |東部（以紐約市為中心）|採樣黃金時代，強調抒情|
 | 20 世紀 90 年代 |西部（洛杉磯、海灣）| G-Funk 巔峰之作，2Pac 對陣 Biggie |
-| 2000 年代 |南部（ATL、休斯頓、邁阿密）| Trap eve、Crunk 和 Screwstyle 的崛起 |
-| 2010 年代 | Trap（南）+中西部（Chicago Drill、Kanye、底特律擊敗）|採樣減少+FL Studio傳播|
-| 2020 年代 |多極化（東、西、南、中西部）| AI節拍、樣本回歸、互聯網去中心化文化 |
+| 2000 年代 |南部（ATL、休斯頓、邁阿密）| Trap eve, Crunk, and the rise of Screwstyle |
+| 2010 年代 | Trap (South) + Midwest (Chicago Drill, Kanye, Detroit beat) |採樣減少+FL Studio傳播|
+| 2020 年代 | Multipolarization (East, West, South, Midwest) | AI Beat, Sample Regression, Internet Decentralized Culture |
 
 ---
 
@@ -291,7 +291,7 @@ flowchart TB
 
 # 典型嘻哈節拍的波形比較
 
-雖然它是基於文本的，但它是使用感知正弦波和方波的偽波形來表達的。
+雖然它是基於文本的，但它是用有意識的正弦波和方波的偽波形來表達的。
 您可以直觀地了解嘻哈節奏的演變。
 
 ---

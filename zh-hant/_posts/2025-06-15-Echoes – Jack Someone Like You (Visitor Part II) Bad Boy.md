@@ -12,18 +12,18 @@ tags:
 - Synth-pop
 - Rock
 - 80s
-title: Echoes – Jack Someone Like You (Visitor Part II) Bad Boy
+title: 迴聲 – 傑克像你這樣的人（訪客第二部分）壞男孩
 ---
 
 
-A. Jack -Welcome To The Lost Child Club〜Jack-
+A. Jack -歡迎來到迷失兒童俱樂部〜Jack-
 
-B1. Someone Like You (Visitor Part II)
-B2. Bad Boy
+B1。像你這樣的人（訪客第二部分）
+B2.壞小子
 
-Echoes（エコーズ）は、1981年に辻仁成を中心に結成された日本のロック・バンド。7枚のオリジナルアルバムをリリースし、1991年に解散した。
+Echoes 是一支日本搖滾樂隊，成立於 1981 年，由辻仁 (Hitoshi Tsuji) 領導。他們發行了七張原創專輯並於 1991 年解散。
 
-このレコードは、1985年にCBS/Sonyからリリースされたマキシシングル。プロデューサーは、井上鑑。
+這張唱片是哥倫比亞廣播公司/索尼於1985年發行的一張長單曲。製作人是井上晃。
 
 #### 曲目列表
 ```md
@@ -39,7 +39,7 @@ B3. White Sunday
 B4. Never Told You But I Love You
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m75352266736?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m75352266736?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sIqimx0ZqOI?si=T1MtmIKrPCEm0pDW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

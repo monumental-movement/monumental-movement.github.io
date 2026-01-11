@@ -11,19 +11,19 @@ tags:
 - Techno
 - 90s
 - 00s
-title: ドイツ・テクノ（German Techno）作品をピックアップ
+title: 挑選德國Techno作品
 ---
 
 
-「夜を貫くビート、ベルリンの魂、ドイツ・テクノ（German Techno）作品群」
+“穿透夜色的節拍，柏林的靈魂，德國 Techno 作品”
 
 <小時>
 
-### Tresor Compilation Vol. 7
+### Tresor 彙編卷。 7
 <a href="https://jp.mercari.com/item/m32845023734?afid=6142608987"><img src="../assets/images/Tresor%20Compilation%20Vol.%207.webp"></a>
 
 
-魅力ポイント：ドイツ発の名門レーベルT­resor によるコンピで、Sven Väth や Maurizio、Ben Sims、James Ruskin、Pacou など、テクノ界を代表する重鎮たちのトラックが並ぶ贅沢なセレクション。Berlin—Germany を象徴する硬質でミニマルかつ革新的なテクノの魅力を余すことなく体感できる一枚です。
+亮點：德國著名廠牌 Tresor 的合輯，收錄了 Sven Väth、Maurizio、Ben Sims、James Ruskin 和 Pacou 等科技界大腕的精選曲目。這是一首可以讓你充分體驗象徵德國柏林的硬派、簡約、創新的techno魅力的作品。
 
 
 #### 曲目列表
@@ -43,7 +43,7 @@ title: ドイツ・テクノ（German Techno）作品をピックアップ
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m32845023734?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m32845023734?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -58,7 +58,7 @@ title: ドイツ・テクノ（German Techno）作品をピックアップ
 
 
 
-魅力ポイント：ドイツの DJ／プロデューサー Splank!（Florian Senfter）によるプロジェクト Zombie Nation の代表作。特に A 面の「Souls At Zero（Original Album Version）」に、Sven Väth によるリミックス B 面が対をなす内容。Sven Väth の手によるリミックスは、ジャーマン・テクノの重厚さとドラマ性を重ねた迫力ある仕上がり。
+亮點：德國DJ/製作人Splank的項目Zombie Nation的傑作！ （弗洛里安·森夫特）。特別是，A面“Souls At Zero（原創專輯版本）”與Sven Väth的混音B面搭配。 Sven Väth 的混音具有強大的收尾效果，融合了德國 techno 的深度和戲劇性。
 
 
 #### 曲目列表
@@ -83,7 +83,7 @@ B. Souls At Zero (Sven Väth Remix)
 <a href="https://jp.mercari.com/item/m39474275698?afid=6142608987"><img src="../assets/images/Cygnus%20X%20%E2%80%93%20The%20Orange%20Theme%20(The%20Remixes).webp"></a>
 
 
-魅力ポイント：ドイツのユニット Cygnus X による、エネルギッシュかつ高揚感あふれるトランステクノの代表作「The Orange Theme」のリミックス盤。Moonman、Bervoets & De Goeij、Mark Van Dale with Enrico などによるバリエーション豊かなリミックスが収録されており、原曲のエッセンスを生かしながらクラブ映えするアレンジが楽しめます
+亮點：德國組合Cygnus X充滿活力、振奮人心的trance techno傑作《The Orange Theme》的混音專輯，收錄了Moonman、Bervoets & De Goeij、Mark Van Dale和Enrico等人的多種混音作品，讓您享受捕捉原曲精髓的適合俱樂部的編曲。
 
 
 #### 曲目列表
@@ -112,7 +112,7 @@ B2. The Orange Theme (Mark Van Dale With Enrico Mix)
 
 
 
-魅力ポイント：Thomas Schumacher（トーマス・シューマッハ）のソロプロジェクト「Elektrochemie LK」による2001年リリース作品。堅牢なビートとクラシカルなドイツ・テクノの美学が融合された魅力的な一枚。自由奔放かつエッジの効いたトラック展開が光ります。
+亮點：托馬斯·舒馬赫 (Thomas Schumacher) 2001 年推出的個人項目“Elektrochemie LK”。這是一首極具吸引力的作品，將紮實的節奏與經典的德國科技美學融為一體。自由奔放、前衛的賽道發展讓人眼前一亮。
 
 
 #### 曲目列表
@@ -150,7 +150,7 @@ F2. Ein Nenner
 <a href="https://jp.mercari.com/item/m37743482457?afid=6142608987"><img src="../assets/images/Elektrochemie%20LK%20%E2%80%93%20When%20I%20Rock.webp"></a>
 
 
-魅力ポイント：「When I Rock」は同じくThomas Schumacherによる代表トラックのひとつ。オリジナルミックスに加え、DJ Rush や Santos によるリミックスが収録されており、リズムのぶつかり合いと異なる解釈の豊かさが楽しめる作品です。
+亮點：《When I Rock》是托馬斯·舒馬赫的代表作之一。除了原始混音之外，它還包括 DJ Rush 和 Santos 的混音，使其成為您可以享受節奏衝突和不同詮釋的豐富性的作品。
 
 
 #### 曲目列表
@@ -178,7 +178,7 @@ B1. When I Rock (Santos Remix)
 
 
 
-魅力ポイント：ドイツのKanzleramtレーベル創設者・Patrick Lindseyとベルギーのテクノアーティスト Stanny Franssen（G-Force）によるプロジェクト。Monika Kruse 主宰のレーベル Terminal M から2002年にリリースされ、TechnoとTech Houseのクロスオーバーが刺激的な一枚です。
+亮點：德國 Kanzleramt 廠牌創始人 Patrick Lindsey 和比利時 techno 藝術家 Stanny Franssen (G-Force) 的項目。由 Monika Kruse 的廠牌 Terminal M 於 2002 年發行，這是 Techno 和 Tech House 之間令人興奮的跨界作品。
 
 
 #### 曲目列表
@@ -205,7 +205,7 @@ B2. Get On Up!
 <a href="https://jp.mercari.com/item/m77843863379?afid=6142608987"><img src="../assets/images/Bazz-Dee%20and%20Waldhaus%20Weichentechnikk%20%E2%80%93%20Brachial%202004%2004.webp"></a>
 
 
-魅力ポイント：WaldhausとBazz-Deeによるインダストリアル色の強いハードテクノで、KISS の「I Was Made For Loving You」を大胆にサンプリングしたトラックも収録。タイトル通り“ブラキアル”（過激で粗野な）スタイルがファンにはたまらない内容です。
+魅力點：Waldhaus 和 Bazz-Dee 創作的帶有濃郁工業氣息的硬科技，其中一首歌曲大膽地借鑒了 KISS 的《I Was Made For Loving You》。正如標題所暗示的那樣，“肱”（激進和粗暴）的風格對粉絲來說是不可抗拒的。
 
 
 #### 曲目列表
@@ -216,7 +216,7 @@ A2. Bazz-Dee &amp; Weichentechnikk – Samurai Pizza Cats
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m77843863379?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m77843863379?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -232,7 +232,7 @@ A2. Bazz-Dee &amp; Weichentechnikk – Samurai Pizza Cats
 
 
 
-魅力ポイント：ヨハネス・ハイルによる作品で、ダークかつドラマティックな演出が特徴。深いビートとサイケデリックなアプローチが光る、未来的なテクノ体験を誘う一作です。静寂と爆発の間を行き来するような展開が印象的。
+亮點：約翰內斯·海爾的作品，特點是黑暗和戲劇性的方向。這是一種具有深沉節拍和迷幻風格的未來科技體驗。這個故事令人印象深刻，它在沉默和爆炸之間來回移動。
 
 
 #### 曲目列表

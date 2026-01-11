@@ -13,7 +13,7 @@ title: 噪音的藝術——毫無意義的廢話
 ---
 
 
-《In No Sense Nonsense》是Art Of Noise的一張專輯卡帶，由中國唱片於1987年發行。
+《In No Sense Nonsense》是Art Of Noise的專輯卡帶，由中國唱片於1987年發行。
 
 #### 曲目列表
 ```md

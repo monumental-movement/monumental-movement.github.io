@@ -9,12 +9,12 @@ permalink: /zh-hant/dmx-krew-showroom-dummies-old/
 tags:
 - Electro
 - Techno
-title: DMX Krew – Showroom Dummies old
+title: DMX Krew – 舊陳列室假人
 ---
 
 
-「Showroom Dummies」は、
-1998年にドイツのレーベル「International Deejay Gigolo Records」からリリースされたDMX KrewのEPです。
+“陳列室假人”是
+這是 DMX Krew 於 1998 年由德國廠牌“International Deejay Gigolo Records”發行的 EP。
 
 
 #### 曲目列表
@@ -28,7 +28,7 @@ Translated By [Japanese Translation] – Miyako Takagi
 B2. Cold Heart Part II
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m39073656951?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m39073656951?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GGt0DjAOdZ0?si=BeYTYp2e12PaiEEd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

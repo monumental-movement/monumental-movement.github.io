@@ -9,15 +9,15 @@ permalink: /zh-hant/carl-cox-dr-funk/
 tags:
 - House
 - UK House
-title: Carl Cox – Dr. Funk
+title: 卡爾·考克斯 – 芬克博士
 ---
 
 
-「Carl Cox – Dr. Funk」は、カール・コックス（Carl Cox）の代表曲の一つです。カール・コックスは、イギリス出身の世界的に有名なテクノDJおよび音楽プロデューサー/アーティストです。
+“Carl Cox – Dr. Funk”是 Carl Cox 的標誌性歌曲之一。 Carl Cox 是來自英國的世界知名 techno DJ 和音樂製作人/藝術家。
 
-「Dr. Funk」は、エネルギッシュでダンサブルなテクノトラックで、強力なビート、迫力のあるベースライン、リズミカルなシンセサイザーのメロディ、サンプリングなど、カール・コックスのDJスキルとプロデューサーとしての才能が、曲に独自の個性と魅力を与えています。
+《Dr. Funk》是一首充滿活力且適合跳舞的 techno 曲目，具有強勁的節拍、強勁的貝斯線、有節奏的合成器旋律和採樣。 Carl Cox 的 DJ 技巧和製作人才華賦予這首歌自己的個性和魅力。
 
-「Dr. Funk」は、カール・コックスのキャリアの中でも特筆される一曲であり、テクノミュージックファンやクラブシーンで人気を集めています。
+《Dr. Funk》是 Carl Cox 職業生涯中的一首著名歌曲，在 techno 音樂迷和俱樂部場景中很受歡迎。
 
 #### 曲目列表
 ```md
@@ -28,7 +28,7 @@ A2  Dr. Funk (Original Album Version)
 AA1  Dr. Funk (Ceasefire Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m98495618584?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m98495618584?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4PMhPSwTbyU?si=VlImGB5c5O-Zpy6G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

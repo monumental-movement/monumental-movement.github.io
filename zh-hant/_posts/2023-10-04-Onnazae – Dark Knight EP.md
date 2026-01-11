@@ -9,12 +9,12 @@ permalink: /zh-hant/onnazae-dark-knight-ep/
 tags:
 - Downtempo
 - Triphop
-title: Onnazae – Dark Knight EP
+title: Onnazae – 黑闇騎士 EP
 ---
 
 
-「Dark Knight EP」は、
-レーベル「Subtitled Records」からリリースされた本名Pete Prezzano「Onnazae」によるEPです。
+《黑闇騎士EP》是
+這是 Onnazae 的一張 EP，其真名是 Pete Prezzano，由“Subtitled Records”廠牌發行。
 
 
 #### 曲目列表
@@ -26,5 +26,5 @@ B1. Take Easy
 B2. Take Easy (Edit)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m84648505475?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m84648505475?afid=6142608987){: .button1}
 

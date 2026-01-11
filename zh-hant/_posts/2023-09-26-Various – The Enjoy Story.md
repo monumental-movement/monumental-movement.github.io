@@ -19,7 +19,7 @@ title: 各種 - 享受！故事
 
 曲目 B4 上的歌曲作者錯誤：片尾曲被錯誤地寫為“Treacherous Three”，而不是“Doug E. Fresh”。
 
-曲目 B5 上的藝術家錯誤：藝術家被錯誤地寫為“Treacherous Three”，而不是原來的“Treacherous Three with Spoonie Gee”。
+曲目 B5 上的藝術家錯誤：藝術家被錯誤地列為“Treacherous Three”，而不是原來的“Treacherous Three with Spoonie Gee”。
 
 曲目 B6 的藝術家描述不正確：該藝術家被標記為“Funky Four & One”，而不是原來的“Funky 4 + 1”。
 

@@ -13,7 +13,7 @@ title: 黑色——不僅僅是太陽
 ---
 
 
-Black 是英國歌手兼作曲家 C​​​​olin Vearncombe 的別名，也是他自己樂隊的名字。
+Black 是英國歌手兼作曲家 C​​​​olin Vearncombe 的別名，也是他的樂隊的名稱。
 
 #### 曲目列表
 ```md

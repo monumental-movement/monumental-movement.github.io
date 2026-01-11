@@ -10,15 +10,15 @@ tags:
 - Tech House
 - House
 - 00s
-title: K Hand – Salsafied
+title: K Hand – 莎莎菲
 ---
 
 
-K : HandことKelli Hand(ケリー・ハンド)は、デトロイト出身のテクノハウスミュージシャン・DJ。1990年代に、男性優位だったテクノ・エレクトロニックミュージックシーンで活躍した黒人女性の第一人者として知られ、「デトロイト・テクノのファーストレディ」と呼ばれていた。2021年に他界するまで音楽の制作を続けた。
+K：Hand，也稱為 Kelli Hand，是一位來自底特律的 techno house 音樂家和 DJ。在 20 世紀 90 年代，她被認為是男性主導的 Techno 和電子音樂界的黑人女性領袖之一，並被稱為“底特律 Techno 的第一夫人”。他繼續創作音樂，直到 2021 年去世。
 
-2016年には、ジェフ・ミルズ、フアン・アトキンス、デリック・メイ、ケビン・サンダーソンなどの他のエレクトロニック・ミュージシャンとともに、スピリット・オブ・デトロイト賞を受賞した。
+2016年，他與傑夫·米爾斯、胡安·阿特金斯、德里克·梅和凱文·桑德森等其他電子音樂家一起獲得了底特律精神獎。
 
-「Salsafied」は、2000年にドイツのレーベルAusfahrtからリリースされたテックハウス・ハウスアルバム。
+《Salsafied》是德國廠牌 Ausfahrt 於 2000 年發行的一張 tech house 專輯。
 
 
 #### 曲目列表
@@ -37,7 +37,7 @@ K : HandことKelli Hand(ケリー・ハンド)は、デトロイト出身のテ
 12. You Don't Know Me
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m40094738865?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m40094738865?afid=6142608987){: .button1}
 
 #### 尤特布埃
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AJ6TE0Mh_lc?si=4KaeY9bmIGR6u4r5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

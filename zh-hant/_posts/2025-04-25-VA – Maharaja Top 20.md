@@ -16,9 +16,9 @@ title: VA – Maharaja 前 20 卷。三、
 ---
 
 
-マハラジャ TOP20 vol.Ⅲ
+大君TOP20 vol.Ⅲ
 
-非売品
+非賣品
 
 
 #### 曲目列表

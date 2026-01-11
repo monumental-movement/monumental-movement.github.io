@@ -11,13 +11,13 @@ tags:
 - Hardcore
 - Punk
 - 90s
-title: VA – Cinema Beer Nuts
+title: VA – 電影院啤酒堅果
 ---
 
 
-ハードコア・パンク コンピレーション：Hopeless RecordsのCinema Beerシリーズ
+硬核朋克合輯：Hopeless Records 電影啤酒系列
 
-VA – Cinema Beer Nuts
+VA – 電影院啤酒堅果
 
 #### 曲目列表
 ```md
@@ -42,4 +42,4 @@ VA – Cinema Beer Nuts
 19. Millencolin – Lozin' Must
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m72326098002?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m72326098002?afid=6142608987){: .button1}

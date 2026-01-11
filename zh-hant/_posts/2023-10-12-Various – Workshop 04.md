@@ -17,7 +17,7 @@ Side A 是來自德國海德堡的音樂家/DJ Move D (David Moufang) 和 Fragme
 
 B 面的第一首曲目是德國製作人 Even Tuell（Paul David Rollmann）創作的一首深度簡約的 house 曲目。
 
-B 面的第二首歌曲是由德國 DJ/製作人兼 Deep Vibes Recordings 創始人 Sascha Dive 創作的慢節奏歌曲。
+B 面的第二首歌曲是由德國 DJ/製作人兼 Deep Vibes Recordings Sascha Dive 創始人創作的慢節奏歌曲。
 
 《Workshop 04》由 Jens Kuhn 創立的德國廠牌 Workshop（HardWax 發行）發行。
 

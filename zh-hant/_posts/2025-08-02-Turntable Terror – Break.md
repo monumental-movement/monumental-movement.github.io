@@ -17,7 +17,7 @@ title: 轉盤恐怖 – 打破
 
 Michel de Hey，也被稱為 Turntable Terror，是一位來自荷蘭鹿特丹的資深 DJ/製作人。 Michel de Hey 在接受采訪時表示，他使用的名字是 Turntable Terror，是為了“追求更硬朗的聲音”。
 
-《Break》是 Turntable Terror 的標誌性 Breakbeat、Techno、Swingbeat 曲目之一，於 1991 年由美國廠牌 Invasion Recordings 發行。促銷板。
+《Break》是 Turntable Terror 的標誌性 Breakbeat、Techno、Swingbeat 曲目之一，於 1991 年在美國廠牌 Invasion Recordings 上發行。宣傳板。
 
 #### 曲目列表
 ```md

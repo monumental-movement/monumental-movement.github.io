@@ -11,11 +11,11 @@ tags:
 - Hiphop
 - Downtempo
 - 00s
-title: Nomak – Calm
+title: 諾馬克——平靜
 ---
 
 
-PISMO & Shingo02『Velodrome』、坂本龍一 & Shing02『Rokkasho』などのRemixで知られるNomak (Masashi Kamon)が2007年にリリースしたInstrumental／Jazzy Hip-Hop／Downtempoアルバム。
+Nomak (Masashi Kamon) 於 2007 年發行了一張器樂/爵士嘻哈/慢節奏專輯，他以 PISMO 和 Shingo02 的“Velodrome”以及 Ryuichi Sakamoto 和 Shing02 的“Rokkasho”的混音而聞名。
 
 #### 曲目列表
 ```md
@@ -35,7 +35,7 @@ PISMO & Shingo02『Velodrome』、坂本龍一 & Shing02『Rokkasho』などのR
 14. Sanctuary
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m57250313702?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m57250313702?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5vh0K2YlFv0?si=z1QUPEF9nvvSj_5p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

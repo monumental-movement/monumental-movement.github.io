@@ -14,7 +14,7 @@ title: Modomonomusik 和 Bee – 矽谷
 
 
 “矽谷”是
-這是 Kamue Flash Bee 和 Logic Sisters 組合“Modomonomusik & Bee”的一張 EP，於 2001 年在德國唱片公司發行。
+這是 Kamue Flash Bee 和 Logic Sisters 組合“Modomonomusik & Bee”的 EP，於 2001 年在德國唱片公司發行。
 
 #### 曲目列表
 ```md

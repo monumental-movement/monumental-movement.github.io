@@ -9,12 +9,12 @@ permalink: /zh-hant/various-sandou-ep-002/
 tags:
 - Experimental
 - Break Beat
-title: Various – Sandou.EP 002
+title: 各種 – Sandou.EP 002
 ---
 
 
-「Sandou.EP 002」は、
-1997年に日本のレーベル「Sandou Records」からリリースされたEPです。
+“Sandou.EP 002”是
+這是日本廠牌“Sandou Records”於1997年發行的一張EP。
 
 #### 曲目列表
 ```md
@@ -29,7 +29,7 @@ B1. Powder –Lost Moodies
 B2. Takashi Uno–Machinary Funk2
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m49072274463?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m49072274463?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vl4yPp-9jAg?si=iTV30cdzTwfmEhjp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -139,7 +139,7 @@ techno的歷史是從“城市”和“機器”的關係中誕生和演變的�
 
 **裝置**
 - Elektron Digitakt / 數碼音
-- 羅蘭TR-8S/MC-707
+- 羅蘭 TR-8S/MC-707
 - ASM 海德拉合成器
 - 多端追踪器 / Dirtywave M8
 - 赤井 MPC One/Live II

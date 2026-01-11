@@ -21,7 +21,7 @@ title: 肖恩·埃斯科弗里 – 太空騎士
 
 
 
-《Space Rider》是英國靈魂/R&B 歌手 Shaun Escoffery 的首張主要單曲。這首熱門歌曲由 Oyster Music 廠牌於 2001 年發行，並由 BBC Radio 1 的 DJ Trevor Nelson 和 Drreem Teem 大量播放。
+《Space Rider》是英國靈魂/R&B 歌手 Shaun Escoffery 的首張主要單曲。這首熱門歌曲於 2001 年在 Oyster Music 廠牌上發行，並由 BBC Radio 1 的 DJ Trevor Nelson 和 Drreem Teem 大量播放。
 
 A1 是英國車庫 DJ/製作人/混音師 MJ Cole 的混音作品。
 

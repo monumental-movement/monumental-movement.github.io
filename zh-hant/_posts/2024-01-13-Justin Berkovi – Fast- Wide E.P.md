@@ -9,13 +9,13 @@ permalink: /zh-hant/justin-berkovi-fast-wide-e-p/
 tags:
 - Techno
 - 90s
-title: Justin Berkovi – Fast- Wide E.P
+title: 賈斯汀·貝爾科維 (Justin Berkovi) – Fast-Wide E.P
 ---
 
 
-ロンドンを拠点とするイギリスのテクノDJおよびプロデューサーであるJustin BerkoviはPredicamentsの創設者です。
+Justin Berkovi 是一位駐倫敦的英國 techno DJ 和製作人，也是 Predicaments 的創始人。
 
-「 Fast- Wide E.P.」は、1998年にUKのレーベル「Cloned Vinyl」からリリースされたEPです。
+“快寬 E.P.”是英國廠牌“Cloned Vinyl”於1998年發行的一張EP。
 
 #### 曲目列表
 ```md

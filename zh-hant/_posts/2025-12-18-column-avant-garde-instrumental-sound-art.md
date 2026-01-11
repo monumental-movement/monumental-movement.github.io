@@ -20,9 +20,9 @@ title: 【專欄】前衛器樂/聲音藝術
 
 文：mmr｜主題：以阿爾文·盧西爾（Alvin Lucier）和克里斯蒂安·芬尼斯（Christian Fennesz）為中心，整理從模擬聲音實驗到數字處理的連續譜系，闡明聲音藝術的結構，包括它與圖像的關係。
 
-20世紀以來，音樂脫離了以旋律與和聲為中心的時間藝術框架，拓展到了包括物理現象、空間和記錄介質本身在內的綜合表達領域。前衛的器樂和聲音藝術並不是一種炫耀樂器技巧或演奏能力的形式，而是將聲音產生、傳播、反射、改變和感知的整個過程呈現為一件作品。
+20世紀以來，音樂脫離了以旋律與和聲為中心的時間藝術框架，拓展到了包括物理現象、空間和記錄介質本身在內的綜合表達領域。前衛的器樂和聲音藝術並不是一種炫耀樂器技巧和演奏能力的形式，而是將聲音產生、傳播、反射、改變和感知的整個過程作為一件作品來呈現。
 
-在這個領域中，音樂作品不一定被簡化為樂譜，也沒有假設可重玩的可能性。相反，這項工作作為一組條件而存在，每次都會產生不同的結果。這裡重要的不是作曲家的意圖，而是結構本身，這就是聲學現像如何產生並與空間和技術聯繫起來的。
+在這個領域中，音樂作品不一定被簡化為樂譜，也沒有假設可重玩的可能性。相反，這項工作作為一組條件而存在，每次都會產生不同的結果。這裡重要的不是作曲家的意圖，而是結構本身，聲學現像如何站立並與空間和技術聯繫起來。
 
 ---
 
@@ -74,6 +74,10 @@ color: #fff;
 
 在他的代表作《我坐在房間裡》中，背誦的音頻在同一個空間中反複播放和重新錄製，強調房間特有的共振頻率，直到語言消失。這個過程清楚地展示了聲音如何從信息轉變為物理現象。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bhtO4DsSazc?si=V4qjAe3Nm9Ow7ycC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ### 3-2 反饋與自我生成
 
 盧西爾利用了反饋現象，並且經常使用聲音以自生方式變化的結構。在這裡，作曲更像是設定起始條件，每次的結果都不同。
@@ -97,15 +101,19 @@ flowchart LR
 
 ### 4-2 觀眾位置
 
-觀眾的位置和移動是改變聲學體驗的一個因素。該作品不適合在固定位置聆聽。
+觀眾的站立位置和動作是改變聲學體驗的因素。該作品不適合在固定位置聆聽。
 
 ---
 
 ## 第5章：Christian Fennesz的生產環境
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BU7-TwdQhyo?si=_iskop-M4YBKi38X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ### 5-1 吉他和數字處理
 
-Christian Fennesz 使用數字處理來解構和重建電吉他聲音。通過效果處理和計算機計算改變了原始聲音，表演動作與聽覺結果之間的因果關係變得不清楚。
+Christian Fennesz 通過數字處理解構和重建電吉他聲音。通過效果處理和計算機計算改變了原始聲音，表演動作與聽覺結果之間的因果關係變得不清楚。
 
 ### 5-2 噪聲和分辨率
 
@@ -130,7 +138,7 @@ flowchart LR
 
 ## 第 7 章：模擬和數字連續性
 
-Lucier 處理的物理聲音和 Fennesz 處理的數字處理並不是斷開的，而是一個連續的流程。兩者都尊重聲音的自主性並限制人類的控制。
+Lucier 處理的物理聲音和 Fennesz 處理的數字處理不是不連續的，而是連續的流。兩者都尊重聲音的自主性並限制人類的控制。
 
 ---
 

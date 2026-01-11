@@ -74,7 +74,7 @@ B3. Dance of Bamboo
 <a href="https://jp.mercari.com/item/m99540440507?afid=6142608987"><img src="../assets/images/Kitaro%20%E2%80%93%20Astral%20Trip.webp"></a>
 
 
-特點：喜多郎在1970年代初作為日本前衛搖滾樂隊“遠東家庭樂隊”的成員演奏鍵盤，後來發展了獨唱生涯。
+特點：喜多郎在1970年代初作為日本前衛搖滾樂隊“遠東家庭樂隊”的成員演奏鍵盤，後來發展了獨奏生涯。
 
 
 魅力：使用合成器展開的夢幻般的聲音世界，提供舒適的放鬆。
@@ -142,7 +142,7 @@ B3. Transcendastral Voyage
 特點：美國爵士打擊樂演奏家兼製作人斯蒂芬·里德的作品。
 
 
-魅力：融合爵士元素的靈性音樂，讓您感受到與自然合一。
+魅力：融入爵士元素的靈性音樂，這部作品讓人感覺與大自然融為一體。
 
 
 #### 曲目列表
@@ -169,7 +169,7 @@ B3. Transcendastral Voyage
 <br>
 
 
-### 托尼·奧康納——隱藏森林
+### 托尼·奧康納——隱秘森林
 <a href="https://jp.mercari.com/item/m61126062656?afid=6142608987"><img src="../assets/images/Tony%20OConnor%20%E2%80%93%20Hidden%20Forest.webp"></a>
 
 特點：澳大利亞環境/放鬆音樂創作者托尼·奧康納 (Tony O'Connor) 於 1996 年創作的雙唱片。

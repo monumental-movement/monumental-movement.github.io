@@ -207,13 +207,13 @@ pie
 
 ---
 
-### 5.3 音樂腐爛了一個音符 (1998)
+### 5.3 Music Is Rotted One Note (1998)
 
 **使用的設備**：Fender Jazz Bass、Korg MS-20、Roland JP-8000
 
 1. **隆堡港**
 
-   * 現場錄音即興創作
+   * ライブ録音即興
 
 <div class="mermaid">
 

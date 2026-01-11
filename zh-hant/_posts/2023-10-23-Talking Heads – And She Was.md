@@ -10,13 +10,13 @@ tags:
 - Rock
 - Alternative Rock
 - 7inch
-title: Talking Heads – And She Was
+title: 會說話的人——她就是
 ---
 
 
-「And She Was」は、USロックバンドTalking Heads（トーキング・ヘッズ）が1985年にリリースした6枚目のアルバム『リトル・クリーチャーズ』（Little Creatures）からのシングルカット。
+《And She Was》是美國搖滾樂隊 Talking Heads 1985 年發行的第六張專輯《Little Creatures》中的一首單曲。
 
-ジャケットは、アメリカの芸術家Howard Finster（ハワード・フィンスター）によるもの。
+這件夾克是美國藝術家霍華德·芬斯特的作品。
 
 #### 曲目列表
 ```md
@@ -25,7 +25,7 @@ A. And She Was
 B. And She Was (E.T. Version)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m85439385386?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m85439385386?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cl3B_FTDKD0?si=0nuOmXWtwd563rts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

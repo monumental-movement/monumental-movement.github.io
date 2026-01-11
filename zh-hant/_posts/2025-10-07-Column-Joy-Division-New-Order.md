@@ -22,7 +22,7 @@ title: 【專欄】從Joy Division到New Order：曼徹斯特之聲的演變
 
 20世紀70年代末，工業城市曼徹斯特正處於破壞和停滯之中。失業率上升、社會動盪、天空灰暗。其中《Joy Division》用無機的節奏和冰冷的詩意，把年輕人的絕望變成了聲音。伊恩·柯蒂斯的聲音引起共鳴，成為時代痛苦和孤獨的象徵，打開了後朋克新時代的大門。
 
-然而1980年柯蒂斯的去世讓這個故事戛然而止。剩下的成員選擇從悲傷中重生，踏入電子音樂的未來。新秩序的誕生開啟了曼徹斯特音樂的新篇章，它已經超越了悲劇。
+然而1980年柯蒂斯的去世讓這個故事戛然而止。剩下的成員選擇從悲傷中重生，踏入電子音樂的未來。新秩序的誕生標誌著曼徹斯特音樂新篇章的開始，它已經超越了悲劇。
 
 ---
 
@@ -48,7 +48,7 @@ color: #fff;
 1976 年，伯納德·薩姆納 (Bernard Sumner)、彼得·胡克 (Peter Hook) 和斯蒂芬·莫里斯 (Stephen Morris) 相遇並成立了 Joy Division。早期的成員通過學校和當地的朋克場景建立了聯繫，起初他們演奏翻唱歌曲，但最終演變成原創歌曲，反映他們的孤立感和城市的陰鬱感。
 
 **“影響線索”**
-Kraftwerk 和 Neu! 的 Kraftrock、Velvet Underground 冷硬的聲音、David Bowie 和 Roxy Music 的前衛元素構成了 Joy Division 早期音樂的基礎。
+來自 Kraftwerk 和 Neu! 等樂隊的 Kraftrock、Velvet Underground 冷硬的聲音、David Bowie 和 Roxy Music 的前衛元素構成了 Joy Division 早期音樂的基礎。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9ryJB-FF_Jg?si=L5cecdtz45JglfbR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -60,7 +60,7 @@ Kraftwerk 和 Neu! 的 Kraftrock、Velvet Underground 冷硬的聲音、David Bo
 伊恩·柯蒂斯的歌詞描繪了自我疏離、社交焦慮和內心的黑暗。 《Transmission》和《She's Lost Control》等歌曲是將個人的孤獨與城市的無機本質重疊在一起的傑作。
 
 **“生產創新”**
-製作人馬丁·漢內特利用錄音技術追求有別於傳統搖滾樂的空間聲音。鼓上的混響和低音的三維佈局是創造Joy Division聲音的冷漠和緊張感的重要元素。
+製作人馬丁·漢尼特利用錄音技術追求有別於傳統搖滾樂的空間聲音。鼓上的混響和低音的三維佈局是創造Joy Division聲音的冷漠和緊張感的重要元素。
 
 **“現場表演的魔力”**
 Joy Division早期的現場表演，昏暗的燈光和柯蒂斯獨特的舞蹈動作讓觀眾不知所措。這場在有限觀眾中成為傳奇的舞台表演，對後來的新浪潮/後朋克一代產生了巨大的影響。
@@ -171,7 +171,7 @@ BBC 的錄音和演示錄音包括許多後來沒有被製作成專輯的著名�
 
 曼徹斯特市是年輕人在經濟災難中尋求表達的地方。
 音樂比政治或宗教更真實地記錄了時代的情感。
-支持這種聲音的是一種奇怪的溫度融合，技術包裹著人類的痛苦。
+支持這種聲音的是溫度的奇怪融合，技術包裹著人類的痛苦。
 Martin Hannett 的混響、Peter Saville 的設計、Haçienda 的燈光和建築——
 所有這些東西聚集在一起形成了一個名為曼徹斯特之聲的文化區。
 
