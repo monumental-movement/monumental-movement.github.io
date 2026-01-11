@@ -22,7 +22,7 @@ title: Ich greife britische Techno-Werke aus den 90ern auf
 
 Veröffentlicht: 1998
 
-Eine 4-Track-EP, veröffentlicht von Cloned – Vinyl in Großbritannien. „Brutal – City“ und „Risk – Rumblin‘“ auf der A-Seite, „Steadycam“ und „Neon“ auf der B-Seite.
+Eine 4-Track-EP, veröffentlicht von Cloned – Vinyl in Großbritannien. „Brutal – City“ und „Risk – Rumblin’“ auf der A-Seite, „Steadycam“ und „Neon“ auf der B-Seite.
 
 #### Trackliste
 ```md

@@ -17,9 +17,9 @@ title: Buggles – Das Zeitalter des Plastiks
 
 The Buggles sind eine britische New-Wave-Band, die 1977 von Trevor Horn und Geoff Downes gegründet wurde. Ihre Debütsingle „Video Killed the Radio Star“ aus dem Jahr 1979 wurde ein weltweiter Hit.
 
-„The Age Of Plastic“, 1980 von Island Records veröffentlicht, war das erste Album von The Buggles. Dieses Album ist eine Neuauflage (US-Version).
+„The Age Of Plastic“, 1980 von Island Records veröffentlicht, war das erste Album der Buggles. Dieses Album ist eine Neuauflage (US-Version).
 
-Trevor Horn und Geoff Downes schlossen sich nach der Veröffentlichung des Albums der Progressive-Rock-Band Yes an.
+Trevor Horn und Geoff Downes traten nach der Veröffentlichung dieses Albums der Progressive-Rock-Band Yes bei.
 
 
 #### Trackliste

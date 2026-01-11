@@ -15,7 +15,7 @@ title: Drumagick – Cambraia / Brasilien
 ---
 
 
-Die brasilianischen Veteranen der elektronischen Musik Drumagick sind ein DJ/Produzenten-Duo, das von den in Sao Paulo ansässigen Brüdern JrDeep und Guilherme Lopes gegründet wurde.
+Die brasilianischen Veteranen der elektronischen Musik Drumagick sind ein in São Paulo ansässiges DJ/Produzenten-Duo, das von den Brüdern JrDeep und Guilherme Lopes gegründet wurde.
 
 Gekennzeichnet durch einen Stil, der Elemente brasilianischer Musik, lateinamerikanischer Musik, Soul, Funk und Jazz in Drum-and-Bass-Breaks integriert, trug er zur Entwicklung der brasilianischen Drum-and-Bass-Szene bei.
 

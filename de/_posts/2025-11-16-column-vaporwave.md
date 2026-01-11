@@ -113,7 +113,7 @@ Die „Nostalgie der Generation Z nach einer Ära, die sie noch nicht erlebt hat
 
 ### 4-4 Kritik oder Vergnügen?
 
-Vaporwave kritisiert die Konsumgesellschaft und begrüßt gleichzeitig deren Vergnügen. Diese Ambivalenz ist der Kern des Genres.
+Vaporwave kritisiert die Konsumgesellschaft und begrüßt gleichzeitig ihre Freuden. Diese Ambivalenz ist der Kern des Genres.
 
 ### 4-5 Warum Japan ein wichtiges Symbol ist
 
@@ -176,7 +176,7 @@ graph TD
 
 Was ist Vaporwave und seine Kerndefinition**
 
-### **5-1　Jenseits des „Genres“**
+### **5-1 Auf dem Weg zu einer Existenz, die über das „Genre“ hinausgeht**
 
 Vaporwave wurde zunächst als „kleines Genre, das seinen Ursprung im Internet hat“ behandelt, aber
 Nach mehr als zehnjähriger Verbreitung hat es sich zu einem genreübergreifenden Kulturmittel entwickelt, wie unten gezeigt.
@@ -215,7 +215,7 @@ Dieser Widerspruch ist postmodern und die Essenz der Ästhetik von Vaporwave.
 
 ---
 
-### **5-3 Fazit: Philosophische Definition der Dampfwelle (endgültige Version)**
+### **5-3 Fazit: Philosophische Definition von Dampfwelle (endgültige Version)**
 
 > **Vaporwave ist eine Welt, in der die Zukunftsvision der Vergangenheit zusammengebrochen ist.
 > Die Internet-Generation hat die Symbolfragmente neu aufbereitet,

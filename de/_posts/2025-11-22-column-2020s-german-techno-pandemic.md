@@ -25,7 +25,7 @@ title: '[Kolumne] Deutscher Techno und die Pandemie in den 2020er Jahren: Kultur
 ## Pandemie: Eine wahre Geschichte von allem, vom Lockdown über die Wiedereröffnung bis hin zur Neudefinition von Musik
 
 
-Text: mmr | Thema: Wie sich deutscher Techno in den 2020er Jahren verändert hat, was verloren ging und was gewonnen wurde
+Text: mmr｜Thema: Wie hat sich der deutsche Techno in den 2020er Jahren verändert, was ist verloren gegangen und was wurde gewonnen?
 
 
 Der deutsche Techno erlebte in den 2020er Jahren einen dramatischen seismischen Wandel, der sich auf die **COVID-19-Pandemie (2020–2022)** konzentrierte.
@@ -89,7 +89,7 @@ Zum ersten Mal in ihrer Geschichte kam es in der weltberühmten Technostadt zu e
 ### Auswirkungen:
 - Alle Clubs geschlossen (März 2020 bis Anfang 2021)
 - Alle geschlossen, einschließlich Berghain und Tresor
-- Einnahmen aus Clubtourismus werden auf Null reduziert
+- Die Einnahmen aus dem Clubtourismus werden auf Null reduziert
 - Berufe wie DJs, Personal, Licht- und Tonarbeiter haben Einkommenseinbußen erlitten.
 - Staatliche Unterstützung mit Kurzarbeitsgeld
 
@@ -110,7 +110,7 @@ Im März 2020 starteten wir **United We Stream**, das weltweit erste groß angel
 - Von Millionen Menschen gesehen
 - Ähnliche Modelle verbreiten sich in Städten auf der ganzen Welt
 
-Die Online-Präsenz hat das Stereotyp auf den Kopf gestellt, dass Clubs eine Kultur seien, die in physischen Räumen stattfindet.
+Die Online-Präsenz hat das Klischee, dass Clubs eine Kultur sind, die in einem physischen Raum stattfindet, auf den Kopf gestellt.
 Es wurde bewiesen, dass Clubkultur auch als digitales Medium funktionieren kann.
 
 ## ● Musik wird durch DJ-Sets ohne Publikum introvertiert
@@ -177,8 +177,8 @@ Aufgrund der Pandemiekrise
 Der Club wurde institutionell als „Kulturgut“ anerkannt.
 
 ## ● Schließung des Berghains und „Verwandlung in eine Galerie“
-Während der langfristigen Schließung des Berghains wurde der Innenraum als Galerieraum, „Studio Berlin“, der Öffentlichkeit zugänglich gemacht.
-Es erregte Aufmerksamkeit als Beispiel dafür, wie ein Techno-Club wie ein Museum behandelt wird.
+Während seiner langfristigen Schließung öffnete das Berghain seine Innenräume als Galerieraum, „Studio Berlin“, für die Öffentlichkeit.
+Es erregte Aufmerksamkeit als Beispiel dafür, wie ein Techno-Club wie ein Museum behandelt wurde.
 
 ## ● Auch alteingesessene Geschäfte wie Tresor sind stark betroffen.
 Clubs wie Tresor, Watergate und ://about blank verloren ihre Einnahmen aus den Eintrittskarten.
@@ -194,8 +194,8 @@ Von hier an ändert sich die Musik drastisch.
 ### Funktionen nach dem Neustart:
 - 150-170 BPM sind üblich
 - Stärkere Trance-Elemente
-- Die Rave-Sounds der 90er sind zurück
-- Industrie-x-Transformator-Hybrid hat sich etabliert
+- Der Rave-Stil der 90er ist zurück
+- Industrie-x-Transformator-Hybrid wird etabliert
 - „Hochgeschwindigkeits-4-Takt“ ist weltweit zum Mainstream geworden
 
 Die Ästhetik des Hochgeschwindigkeits-Techno, die während der Pandemie in den sozialen Medien auftauchte
@@ -205,12 +205,12 @@ Es ist, als ob der Sound des tatsächlichen Clubs überschrieben wurde.
 Im Zeitraum 2022–2023 ist die Zahl junger Touristen, insbesondere aus der EU, gestiegen.
 Als Gründe dafür werden ein „Freiheitsgefühl“ nach der Pandemie und die Visualisierung der Clubkultur durch soziale Medien genannt.
 
-Berliner Wochenendveranstaltungen
-Partys, die **30–40 Stunden am Stück** dauern, sind häufiger geworden.
+Wochenendveranstaltungen in Berlin
+Partys, die **30–40 Stunden am Stück** dauern, sind immer häufiger geworden.
 
 ## ● High-Speed-Techno breitet sich in den umliegenden Städten aus
 - Frankfurt: Zunahme harter Ereignisse
-- Leipzig: IfZ lockt Highspeed-Techno-Publikum an
+- Leipzig: IfZ lockt Highspeed-Techno-Kunden an
 - Hamburg: Der Aufstieg junger DJs bei PAL
 - Dresden: Lokaler Rave ist zurück
 
@@ -257,8 +257,8 @@ Vor und nach der Pandemie veränderte sich die Tonproduktion wie folgt:
 
 ### 2022–2024:
 - 150–170 BPM
-- Betont das digitale Clip-Feeling
-- Verzerrung auf ultrahohe Frequenzen ausgeweitet
+- Betont das Gefühl des digitalen Ausschnitts
+- Verzerrung auf ultrahohen Bereich erweitert
 - Trance-Akkordarbeit der 90er
 
 Mit anderen Worten,
@@ -285,8 +285,8 @@ timeline
 Ab 2024 werden 150-170 BPM der Mainstream sein.
 Es ist unklar, ob dies so weitergehen wird, aber es kann aufgrund der folgenden Faktoren so weitergehen:
 
-- Die visuelle Präsentation auf SNS passt gut zu Hochgeschwindigkeitsmusik
-- Jüngere Ästhetiker bevorzugen „hohe Informationsdichte“
+- Die visuelle Präsentation auf SNS passt gut zu High-Speed-Musik
+- Junge Ästhetiker bevorzugen „hohe Informationsdichte“
 - Der internationale Markt für Hard Techno wächst
 
 ## ● 2) Der Club wird als kulturelle Ressource der Stadt geschützt.
@@ -308,7 +308,7 @@ Der deutsche Techno der 2020er Jahre war vor und nach der Pandemie völlig ander
 - **Berlin ist wieder einmal eine internationale Rave-Stadt**
 
 Die Pandemie hat Zerstörung gebracht, aber auch eine „Neudefinition der Kultur“ verursacht.
-Der deutsche Techno der späten 2020er Jahre ist eine Kultur, die vielfältiger, internationaler und schneller ist als zuvor.
+Der deutsche Techno ist Ende der 2020er Jahre zu einer vielfältigeren, internationaleren und schnelleren Kultur geworden als zuvor.
 
 Dieser Wandel wird wahrscheinlich als „2020er Jahre = Ära der Diskontinuität“ in die zukünftige Geschichte der elektronischen Musik eingehen.
 

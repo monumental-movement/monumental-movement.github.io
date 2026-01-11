@@ -44,7 +44,7 @@ color: #fff;
 
 ## Kapitel 1: Das Wunder der Zusammenarbeit – Eno und Cale, die Schnittstelle zweier Gehirne
 
-In den 1970er Jahren verließ Eno Roxy Music und wurde zu einem führenden Vertreter der experimentellen Musik.
+In den 1970er Jahren verließ Eno Roxy Music und wurde zu einem führenden Anbieter experimenteller Musik.
 John Cale hingegen hatte den Einfluss des Velvet Underground verlassen und schwankte zwischen Klassik und Avantgarde.
 In den 1980er Jahren fühlten sich die beiden distanziert voneinander, trafen sich aber schließlich 1990 in einem Londoner Studio.
 
@@ -135,14 +135,14 @@ Hier überlagern sich Ton und Bild perfekt und schaffen eine moderne „Illusion
 ---
 
 Wohin werden wir im 21. Jahrhundert rennen?
-In einer Zeit, in der soziale Medien die Welt verbinden und KI eine Rolle in der Vorstellungskraft spielt, klingt der Satz „Wrong Way Up“** noch realistischer.
+In einer Zeit, in der soziale Medien die Welt verbinden und KI eine Rolle in der Vorstellungskraft spielt, klingt der Ausdruck „Wrong Way Up“** noch realistischer.
 „Falscher Aufstieg“ ist heute eine Metapher für Zivilisation.
 
 Das Album von Eno & Cale hatte eine Vorahnung von „Musik, nachdem man das Paradies aufgegeben hatte“.
 Die Melodie fragt leise. „Wenn Sie das Paradies nicht finden können, bauen Sie es in der Musik.“
 
 Der Moment am Ende von „The Beach“, als Richard mit einem Lächeln im Gesicht auf seinen Computerbildschirm starrt.
-Es gibt keine tropischen Lichter und keine Träume mehr von Gemeinschaft.
+Es gibt keine tropischen Lichter oder Träume von Gemeinschaft mehr.
 Der „Nachhall ferner Klänge“ bleibt jedoch in seinem Herzen.
 
 ---

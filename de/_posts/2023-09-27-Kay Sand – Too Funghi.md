@@ -13,9 +13,9 @@ title: Kay Sand – Too Funghi
 ---
 
 
-Kay Sand ist ein Projekt des italienischen DJs Francesco Sperotto, das 2009 auf dem deutschen Label Deep Moves veröffentlicht wurde.
+Kay Sand ist ein Projekt des italienischen DJ Francesco Sperotto, das 2009 auf dem deutschen Label Deep Moves veröffentlicht wurde.
 
-Auch die Remixe sind hervorragend, darunter das italienische Lied „Minimono“ und Domenico Ciprianis richtiger Name „Lucreito“.
+Auch die Remixe sind hervorragend, darunter das italienische Lied „Minimono“ und der bürgerliche Name Domenico Cipriani, „Lucreito“.
 
 #### Trackliste
 ```md

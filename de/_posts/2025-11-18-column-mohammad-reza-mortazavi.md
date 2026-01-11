@@ -19,7 +19,7 @@ title: '[Kolumne] Poesie des Herzschlags: Die Welt des iranischen genialen Perku
 
 Text: mmr｜Thema: Verfolgen Sie sorgfältig seinen Weg von seiner Kindheit bis zur Gegenwart und erforschen Sie den Kern seiner Innovation, Philosophie, Zusammenarbeit und Erfahrung, die er den Zuhörern vermittelt.
 
-Mohammad Reza Mortazavi ist ein seltener Perkussionist, der traditionelle persische Schlaginstrumente im modernen musikalischen Ausdruck grundlegend neu interpretiert. Seine Auftritte sind nicht nur eine Zurschaustellung rhythmischer Technik, sondern werden von einer tiefen Spiritualität begleitet, die manchmal in Trance versetzt und das Publikum auf eine körperliche und bewusste Reise einlädt. In diesem Sinne sind seine Aktivitäten wichtig für die Schaffung neuer musikalischer Horizonte, die über die binären Gegensätze „traditionelle Musik und experimentelle Musik“, „Ost und West“ und „Vergangenheit und Zukunft“ hinausgehen.
+Mohammad Reza Mortazavi ist ein seltener Perkussionist, der traditionelle persische Schlaginstrumente im modernen musikalischen Ausdruck grundlegend neu interpretiert. Seine Auftritte sind nicht nur eine Zurschaustellung rhythmischer Technik, sondern werden von einer tiefen Spiritualität begleitet, die manchmal in Trance versetzt und das Publikum auf eine körperliche und bewusste Reise einlädt. In diesem Sinne sind seine Aktivitäten wichtig für die Schaffung neuer musikalischer Horizonte, die über die binären Gegensätze von „traditioneller Musik und experimenteller Musik“, „Ost und West“ und „Vergangenheit und Zukunft“ hinausgehen.
 
 ---
 
@@ -52,7 +52,7 @@ In dieser Zeit ging seine Beziehung zu Musikinstrumenten in seinem Leben über e
 ### 3. Traditionelle Musikinstrumente namens Tambak und Duff – ihre Bedeutung und Hintergrund
 
 Sein Hauptinstrument, die Tombak, ist ein traditionelles Schlaginstrument, das den Kern der persischen Musik bildet. Es hat einen kelchförmigen Körper und wird durch Klopfen der Lederoberfläche mit den Händen oder Fingern hergestellt, was ihm einen äußerst satten Klang und Ausdruckskraft verleiht.
-Durch eine Vielzahl von Spieltechniken hat sich das Tamback in der Vergangenheit nicht nur als Begleitinstrument, sondern auch als Soloinstrument etabliert.
+Durch vielfältige Spieltechniken hat sich die Tambak nicht nur als Begleitinstrument, sondern auch als Soloinstrument etabliert.
 
 Die **Daf** ist eine große Rahmentrommel, manchmal mit Metallringen oder Glocken, und ein traditionelles Musikinstrument, das auch für feierliche und zeremonielle Zwecke verwendet wird. Mortazavi tritt nicht nur mit Tambacks, sondern auch mit Duffs auf und hat Solo- und Gemeinschaftsauftritte entwickelt, die sich die Eigenschaften jedes einzelnen zunutze machen.
 
@@ -77,8 +77,8 @@ Mortazavis bemerkenswerteste Leistung sind **mehr als 30 selbst entwickelte Schl
 
 Im Einzelnen umfassen die Ansätze:
 
-* **Verwendung verschiedener Schlagpunkte**: Angriffsbereiche, die traditionelle Spieler nicht nutzen, wie z. B. die Mitte des Leders, die Kante (Rand) und den Körper (Holzteil).
-* **Verschiedene Teile der Hand**: Die gesamte Hand des Spielers gilt als Musikinstrument, einschließlich der Fingerspitzen, Gelenke, Nägel, Handfläche, Daumenwurzel und anderer Teile, die als Tabu gelten.
+* **Verwendung verschiedener Angriffspunkte**: Angriffsbereiche, die traditionelle Spieler nicht nutzen, wie z. B. die Mitte des Leders, den Rand und den Körper (Holzteil).
+* **Verschiedene Teile der Hand**: Die gesamte Hand des Spielers gilt als Musikinstrument, einschließlich der Fingerspitzen, Gelenke, Nägel, Handfläche, Daumenwurzel und anderer Teile, die sonst als tabu gelten würden.
 * **Polyrhythmischer Ansatz**: Eine Technik, die es ermöglicht, dass mehrere Stimmen (Ebenen) gleichzeitig innerhalb desselben Instruments erklingen. Dies ermöglicht eine ensembleähnliche Darbietung durch nur einen Spieler.
 * **Dynamikbereich**: Von extrem leisen Berührungen bis hin zu explosiven Schlägen können Sie die Stärke, das Tempo und die Dichte des Klangs frei steuern.
 * **Resonanzbetrieb**: Steuert die Resonanz des Körpers und gestaltet den Nachgeschmack beim Schlagen. Auf diese Weise wird der „Nachhall“ des Klangs, der nach einem einzigen Schlag verbleibt, als Ausdruckselement genutzt.
@@ -106,7 +106,7 @@ Mortazavis Diskographie ist eine Karte der Entwicklung seiner Erkundungen. Im Fo
 
 #### 7.1 „Grüne Hände“
 
-Dieses 2010 veröffentlichte Album markiert einen symbolischen Abschied für Mortazavi. Obwohl es sich um einen Soloauftritt mit ausschließlich traditionellen Instrumenten (Tamback/Duff) handelt, sind seine technologische Innovation und sein Sounddesign bereits deutlich ausgeprägt. Jeder Titel verfügt über zarte, vielschichtige Rhythmen, die Finger, Handflächen und Nägel voll ausnutzen und dem Hörer die Illusion vermitteln, dass ein einzelnes Instrument mehrere Stimmen hätte.
+Dieses 2010 veröffentlichte Album ist ein symbolischer Aufbruch für Mortazavi. Obwohl es sich um einen Soloauftritt mit ausschließlich traditionellen Instrumenten (Tamback/Duff) handelt, sind seine technologische Innovation und sein Sounddesign bereits deutlich ausgeprägt. Jeder Titel verfügt über zarte, vielschichtige Rhythmen, die Finger, Handflächen und Nägel voll ausnutzen und dem Hörer die Illusion vermitteln, dass ein einzelnes Instrument mehrere Stimmen hätte.
 
 Bemerkenswert ist, dass sein Schlagstil nicht nur schnell, sondern auch äußerst dynamisch ist. Die Resonanz einer leisen Berührung, die Schärfe eines starken Schlags und der sanfte Übergang zwischen ihnen. Jedes Mal, wenn seine Hände über die Lederoberfläche gleiten, auf das Holz des Korpus treffen und seine Finger mit ihren Nägeln hüpfen, überlagern sich verschiedene Töne schichtweise und erzeugen so eine starke Präsenz.
 
@@ -114,7 +114,7 @@ Auch die Aufnahme/Mischung dieses Albums kann nicht ignoriert werden. Wenn seine
 
 #### 7.2 „Kodex“
 
-„Codex“ ist einer von Mortazavis Versuchen, seine eigene Fachsprache weiter zu systematisieren und aufzuschreiben (kodieren). Die Verschmelzung traditioneller Spielweisen und eigener innovativer Spielweisen ist weiter fortgeschritten und die Songstrukturen sind hochgradig ausgearbeitet. Er improvisiert nicht einfach, sondern präsentiert dem Zuhörer den als Werk konzipierten Takt und Rhythmus.
+„Codex“ ist einer von Mortazavis Versuchen, seine eigene Fachsprache weiter zu systematisieren und aufzuschreiben (kodieren). Die Verschmelzung traditioneller Spielmethoden und eigener innovativer Spielmethoden ist weiter fortgeschritten und die Songstrukturen sind hochgradig ausgearbeitet. Er improvisiert nicht einfach, sondern präsentiert dem Zuhörer den als Werk konzipierten Takt und Rhythmus.
 
 Dieses Album ist hinsichtlich der Auswahl der Schlagpunkte, der Periodizität des Rhythmus, der Balance zwischen Wiederholung und Veränderung sehr präzise strukturiert und es fühlt sich an, als würde der eigene innere Dialog des Interpreten so, wie er ist, nach außen getragen.
 
@@ -132,7 +132,7 @@ Kritiker zitierten seine Ansicht, dass „der menschliche Puls im Gegensatz zu e
 
 #### 7,5 „Prisma“
 
-Dieses im Jahr 2022 veröffentlichte Album stellt eine weitere Erweiterung von Mortazavis Musik dar. Den Aufführungsinformationen von Flussbad zufolge wurden neben Tombacks und Duffs auch verschiedene akustische Objekte eingeführt, darunter Vogelpfeifen, kleine Marimbas, Kalimbas und kleine Becken. Dies erweitert die Tonpalette und ermöglicht einen dreidimensionaleren und spirituelleren räumlichen Ausdruck.
+Dieses im Jahr 2022 veröffentlichte Album stellt eine weitere Erweiterung von Mortazavis Musik dar. Den Aufführungsinformationen von Flussbad zufolge wurden neben Tomback und Duff verschiedene Klangobjekte eingeführt, darunter eine Vogelpfeife, kleine Marimba, Kalimba und kleine Becken. Dies erweitert die Tonpalette und ermöglicht einen dreidimensionaleren und spirituelleren räumlichen Ausdruck.
 
 Durch diese Arbeit hat er seinen Darbietungsstil zu einer Mischung aus „Minimalismus + Vielschichtigkeit“ weiterentwickelt, wobei er mehr Wert auf die Erkundung der Leerstellen im Klang und die Balance zwischen Stille und Resonanz legt als auf die Brillanz der Technik.
 
@@ -165,7 +165,7 @@ Mortazavi live zu spielen ist eine sehr körperliche und spirituelle Erfahrung. 
 
 Sein Spiel vermischt meditative, sich wiederholende Strukturen mit schnellen, komplexen Wechselmustern, die den Zuhörer oft dazu bringen, das Zeitgefühl zu verlieren. In dem Moment, in dem sich das Tempo verlangsamt, setzt sich der Klang mit Nachhall fort, und diese Dauern überlappen sich allmählich und erzeugen Resonanz im Körper. Wenn sich der Rhythmus hingegen plötzlich beschleunigt, ist die Konzentration des Publikums am höchsten und es gelangt in eine Art tranceähnlichen Zustand.
 
-Ein solches Live-Erlebnis ist nicht nur etwas, das man mit den Ohren hört, sondern ein Erlebnis, das man mit seinem Körper „spürt“. Mortazavi erzeugt bei seinem Auftritt eine Resonanz beim Publikum und lässt sie in jedem Moment einen „gemeinsamen Puls“ teilen. Der Prozess hat einen rituellen Aspekt, der das Instrument und die Person, den Interpreten und das Publikum verbindet.
+Ein solches Live-Erlebnis ist nicht nur etwas, was man mit den Ohren hört, sondern ein Erlebnis, das man mit seinem Körper „spüren“ kann. Mortazavi erzeugt bei seinem Auftritt eine Resonanz beim Publikum und lässt sie in jedem Moment einen „gemeinsamen Puls“ teilen. Der Prozess hat einen rituellen Aspekt, der das Instrument und die Person, den Interpreten und das Publikum verbindet.
 
 ---
 
@@ -173,7 +173,7 @@ Ein solches Live-Erlebnis ist nicht nur etwas, das man mit den Ohren hört, sond
 
 Mortazavi hat internationale Anerkennung für sein Können, seine Kunstfertigkeit und seine Innovationskraft erhalten. 2003 gewann er den **RUTH Newcomer Award**. Er stieß auch bei den Medien auf großes Interesse und sein Stil und seine Philosophie wurden in verschiedenen Medien wie Deutschlandfunk, Pitchfork, Hardwax und Boomkat vorgestellt.
 
-Pitchfork machte insbesondere auf die Flexibilität menschlicher Impulse und den improvisatorischen Charakter der von ihm gespielten Rhythmen aufmerksam und beschrieb sie als „Musik, die Menschlichkeit und die Plastizität der Zeit verkörpert“. Hardwax und andere lobten die klangliche Raffinesse und spirituelle Tiefe, die durch seine mehr als 30 neuen Techniken geschaffen wurden.
+Insbesondere Pitchfork machte auf die Flexibilität menschlicher Impulse und den improvisatorischen Charakter der von ihm gespielten Rhythmen aufmerksam und beschrieb sie als „Musik, die Menschlichkeit und die Plastizität der Zeit verkörpert“. Hardwax und andere lobten die klangliche Präzision und spirituelle Tiefe seiner mehr als 30 neuen Techniken.
 
 Auch ihre Körperlichkeit und Spiritualität werden in Live-Rezensionen oft hervorgehoben. Drummerszone und andere haben die Schlagpunkte, Handteile und Resonanzoperationen, die er verwendet, ausführlich beschrieben und festgestellt, dass seine Hände so aussehen, als würden sie ein „Soundsystem“ spielen.
 
@@ -187,7 +187,7 @@ Wenn man über Mortazavis Musik spricht, ist seine **philosophische Perspektive*
 
 Seine repetitiven Strukturen erinnern an Meditation, und sein Umgang mit der Aufrechterhaltung und Resonanz von Klängen lässt den Zuhörer durch die Zeit gleiten. Tempozyklen, subtile Verschiebungen, Veränderungen und gleichzeitige Beharrlichkeit – das alles sind für ihn Möglichkeiten, die Zeit zu „formen“ und den Raum in einen Bereich voller Spiritualität zu verwandeln.
 
-Auch die Resonanz mit dem Publikum (Co-Pulse) betrachtet er als wichtiges Element der Aufführung. Bei seinen Live-Shows ist das Publikum nicht nur Zuhörer, sondern Mitgestalter, der an der Rhythmusgenerierung der Szene teilnimmt. Er baut einen rhythmischen Dialog zwischen sich und dem Publikum auf und schafft so ein Gefühl der „Gemeinschaft“, auch wenn er alleine spielt.
+Auch die Resonanz mit dem Publikum (Co-Pulse) betrachtet er als wichtiges Element der Aufführung. Bei seinen Live-Auftritten ist das Publikum nicht nur Zuhörer, sondern Mitgestalter, der an der Rhythmusgenerierung der Szene teilnimmt. Er baut einen rhythmischen Dialog zwischen sich und dem Publikum auf und schafft so ein Gefühl der „Gemeinschaft“, auch wenn er alleine spielt.
 
 In diesem Ansatz spürt man den tiefen Willen, Dualitäten wie Tradition und Moderne, Körper und Bewusstsein, Individualität und Resonanz sowie Stille und Dynamik zu überwinden. Seine Rhythmen sind nicht nur technische Demonstrationen, sondern entstehen als philosophische Praktiken, die die Bedeutung von Selbsterforschung, Gemeinschaft und Zeit in Frage stellen.
 
@@ -195,7 +195,7 @@ In diesem Ansatz spürt man den tiefen Willen, Dualitäten wie Tradition und Mod
 
 ### 12. Bildungs- und Workshop-Aktivitäten
 
-Auch die Bildung der jüngeren Generation liegt Mortazavi leidenschaftlich am Herzen. Er hat zahlreiche Workshops in Europa (insbesondere in Deutschland) abgehalten und eine Vielzahl von Teilnehmern, vom Anfänger bis zum erfahrenen Spieler, in Tamback, Duff und Handtrommeln unterrichtet.
+Auch die Bildung der jüngeren Generation liegt Mortazavi leidenschaftlich am Herzen. Er hat viele Workshops in Europa (insbesondere in Deutschland) abgehalten und eine Vielzahl von Teilnehmern, vom Anfänger bis zum erfahrenen Spieler, in Tamback, Duff und Handtrommeln unterrichtet.
 
 Bei einem Workshop (z. B. im norddeutschen Dorf Thandorf) sagte er: „Musik ist Liebe, und Liebe sollte keine Grenzen kennen.“ Im Gegensatz zum Konservatismus und Ruleismus der traditionellen Musikwelt ist er fest davon überzeugt, dass Musik ein Ort des freien Dialogs und der Erkundung sein sollte, und er verkörpert dies in seinem Unterricht.
 
@@ -218,13 +218,13 @@ Seine Technik haucht dem traditionellen Instrument, dem Tambak, neues Leben ein 
 Seine Zusammenarbeit mit Produzenten elektronischer Musik und seine Auseinandersetzung mit Rhythmus und zyklischen Strukturen machen die Schnittstelle zwischen Tradition und Moderne deutlich.
 
 - **Fusion mit Performance-Kunst**
-Seine Live-Auftritte beinhalten Körperlichkeit, Rituale und Trance, und seine Auftritte gehen über bloße musikalische Darbietungen hinaus und werden zu physischer und räumlicher Kunst.
+Seine Live-Auftritte beinhalten Körperlichkeit, Rituale und Trance, und seine Auftritte gehen über bloße musikalische Darbietungen hinaus und werden zu körperlicher und räumlicher Kunst.
 
 - **Gemeinschaft und Bildung**
 Durch Workshops fördert er die Demokratisierung des Rhythmus, die Weitergabe und Transformation traditioneller Techniken sowie das interkulturelle Verständnis.
 
-- **Präsentation philosophischer und spiritueller Fragen**
-Seine Musik wirft durch den Rhythmus grundlegende Fragen wie Zeit, Selbst, Gemeinschaft und Bewusstsein auf und führt die Zuhörer zu tiefer Selbstbeobachtung.
+- **Präsentation philosophischer und spiritueller Fragestellungen**
+Seine Musik wirft durch Rhythmus grundlegende Fragen wie Zeit, Selbst, Gemeinschaft und Bewusstsein auf und führt die Zuhörer zu tiefer Selbstbeobachtung.
 
 All diese Elemente wirken zusammen und etablieren Mortazavi als „Philosoph des Rhythmus“ in der zeitgenössischen Musik.
 
@@ -232,11 +232,11 @@ All diese Elemente wirken zusammen und etablieren Mortazavi als „Philosoph des
 
 ### 14. Fazit: Implikationen für die Zukunft
 
-Mohammad Reza Mortazavis Reise ist eine Reise, die Traditionen neu definiert, die Technik erweitert und neue Dialoge zwischen Rhythmus und Bewusstsein schafft. Die ihnen zugrunde liegenden polyphonen Klänge, vielschichtigen Rhythmen, Sustain, nachklingenden Klänge und die tiefe Philosophie gehen über die bloße Darbietung hinaus und bieten dem Zuhörer ein Erlebnis, das Zeit und Raum überschreitet.
+Mohammad Reza Mortazavis Reise ist eine Reise, die Traditionen neu definiert, die Technik erweitert und neue Dialoge zwischen Rhythmus und Bewusstsein schafft. Die polyphonen Klänge, vielschichtigen Rhythmen, Sustain, nachklingenden Klänge und die tiefe Philosophie, die ihnen zugrunde liegt, gehen über die bloße Darbietung hinaus und bieten dem Zuhörer ein Erlebnis, das Zeit und Raum überschreitet.
 
 Er bewahrt das klassische Instrument, das Tamback, nicht nur, sondern transformiert es für die Zukunft. Im Prozess der Transformation kreuzen sich Musik, Körper, Gemeinschaft und Bewusstsein und es eröffnen sich neue Horizonte.
 
-Der Weg, den er von nun an einschlagen wird, ist klar. Weitere technologische Erkundungen, neue Kooperationen und Expansion in unbekannte Klangräume. Wichtiger ist jedoch, dass er weiterhin jemand ist, der ständig fragt: „Was ist Rhythmus?“
+Der Weg, den er von nun an einschlagen wird, ist klar. Weitere technologische Erkundungen, neue Kooperationen und Expansion in unbekannte Klangräume. Was jedoch noch wichtiger ist, ist, dass er weiterhin jemand ist, der ständig fragt: „Was ist Rhythmus?“
 
 Seine Musik zu hören bedeutet nicht nur, sich dem Rhythmus hinzugeben, sondern eine Reise, um die Resonanz zwischen dem eigenen inneren Herzschlag und dem Herzschlag der Welt zu finden. Mortazavi ist der Führer, die Karte und das Ziel dieser Reise.
 
@@ -246,11 +246,11 @@ Seine Musik zu hören bedeutet nicht nur, sich dem Rhythmus hinzugeben, sondern 
 
 * **1978/1979** – Geboren in Isfahan, Iran.
 * **1984–1985 (ca. 6 Jahre alt)** – Beginnt Tamback zu spielen.
-* **1987–1989 (ca. 9–10 Jahre alt)** – Er verfügt über anerkannte Fähigkeiten, die über die seines Meisters hinausgehen, und gewann sein erstes nationales Turnier.
+* **1987–1989 (ungefähr 9–10 Jahre alt)** – Er besaß anerkannte Fähigkeiten, die über die seines Meisters hinausgingen, und gewann sein erstes nationales Turnier.
 * **1990er Jahre** – Gewann mehrere Meisterschaften in nationalen Tambak-Wettbewerben im Iran.
 * **Um 2001 (ungefähr 20 Jahre alt)** – Bereits im In- und Ausland hochgelobt.
 * **2003** – Erhielt den **RUTH Newcomer Award (World Music Young Talent Award)** in Deutschland.
-* **2005** – Verantwortlich für Soloauftritte und Workshops beim Total Music Meeting (Berlin).
+* **2005** – Verantwortlich für Soloauftritt und Workshop beim Total Music Meeting (Berlin).
 * **2010** – Solokonzert in der Berliner Philharmonie.
 * **2010** – Veröffentlichung des Albums „Green Hands“.
 * **2011** – Auftritt auf der WOMEX (World Music Expo).

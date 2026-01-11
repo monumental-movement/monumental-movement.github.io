@@ -20,7 +20,7 @@ title: '[Spalte] Chillstep / Liquid Dubstep'
 
 Text: mmr｜Thema: Über den „emotionalen Dubstep“, der zwischen Stille und Bass entsteht
 
-Chillstep und Liquid Dubstep sind Spin-off-Genres, die etwa 2010 im Internet Gestalt anzunehmen begannen und die melodischen und Ambient-Aspekte von Dubstep hervorheben. Im Gegensatz zum aggressiven Wobble-Bass, der harschen Filtermodulation und den Post-Brostep-Metal-Leads des herkömmlichen Dubstep bringt Chillstep „Ruhe, Transparenz und einen weich definierten Tieftonbereich“ in den Vordergrund.
+Chillstep und Liquid Dubstep sind Spin-off-Genres, die etwa 2010 im Internet Gestalt anzunehmen begannen und die melodischen und Ambient-Aspekte von Dubstep hervorheben. Im Gegensatz zum aggressiven Wobble-Bass, der harschen Filtermodulation und den Post-Brostep-Metal-Leads des traditionellen Dubstep bringt Chillstep „Ruhe, Transparenz und eine weiche Kontur des tiefen Bereichs“ in den Vordergrund.
 
 Der Hintergrundablauf ist wie folgt.
 
@@ -80,7 +80,7 @@ Das Symbol von Chillstep ist „sanfter Subbass“.
 
 * Sinuswellenzentrum
 * Passen Sie die Wärme mit leichter Verzerrung an (weiches Clipping).
-* Erzeugen Sie eine atemähnliche Fluktuation mit leichtem LFO (1/4, 1/8 usw.)
+* Erzeugen Sie atemähnliche Schwankungen mit leichtem LFO (1/4, 1/8 usw.)
 * Fügen Sie Emotionen durch Lautstärkeänderungen hinzu, ohne übermäßige Filtermodulation zu verwenden
 
 ### 2-3 Melodie und Synthesizer-Design
@@ -104,7 +104,7 @@ Das Symbol von Chillstep ist „sanfter Subbass“.
 Liquid Dubstep übernimmt das Spielgefühl von Liquid Drum’n’Bass, mit einer „transparenteren, wasserähnlichen“ Textur.
 
 * Klarer High-End- und funkelnder Eindruck
-* Hohes Stimm-Chop-Verhältnis
+*Hohes Stimm-Chop-Verhältnis
 *Die Basis ist glatter und weniger nervös
 * Verwendet oft einmalige Effekte wie Blasen
 
@@ -144,13 +144,13 @@ MitiS hat einen Hintergrund im klassischen Klavier und bringt eine einzigartige 
 * Transparente und unzerbrechliche Mischung
 * Tranceartiges aufsteigendes Gefühl
 * Sorgfältig verarbeiteter Stimmschnitt
-* Überlagert mit einem Stakkato-Synth-Lead
+* Überlagert mit einem Stakkato-Synthesizer-Lead
 
 Die Arbeit von MitiS überspannt sanft die Grenze zwischen Chillstep und Melodic Dubstep und weist eine dramatischere Struktur auf.
 
 ---
 
-## 4. Videokultur und Internetverbreitung von Chillstep
+## 4. Chillsteps Videokultur und Internetverbreitung
 
 Es ist wichtig, dass sich Chillstep zusammen mit der Musik als „visuelle Kultur“ verbreitet.
 
@@ -164,7 +164,7 @@ Chillstep-Zusammenstellungen auf YouTube verbreiteten sich, sie kombinierten vis
 
 ### Visuelle Komposition
 
-1. Stille Seeoberfläche, fernes Licht, langsam ziehender Nebel
+1. Stille Seeoberfläche, entferntes Licht, langsam ziehender Nebel
 2. Pad-Sound, der sich sanft darüber ausbreitet
 3. Spiegelungen auf der Wasseroberfläche schwingen mit den Obertönen der Hauptmelodie mit
 4. Die Basis versinkt im Nachglühen der nächtlichen Stadt
@@ -200,7 +200,7 @@ Der Schwerpunkt liegt eher auf „Nachhaltigkeit“ und „nachhaltiger Resonanz
 #### Lead Synth
 
 * Sägewelle + Rauschen-Mischung
-* Langsamerer Angriff, längeres Release
+* Langsamerer Angriff, längere Freigabe
 * Analogen Stildrift hinzufügen
 
 #### Unterlage
@@ -232,7 +232,7 @@ Der Schwerpunkt liegt eher auf „Nachhaltigkeit“ und „nachhaltiger Resonanz
 
 ### 5-6 mischen
 
-* Unterdrücken und glätten Sie die 5-7-kHz-Stimulation
+*Unterdrückt sanft die 5-7-kHz-Stimulation
 * Hintergrundgeräusche minimieren (analoges Rauschen, Wind, Regen usw.)
 * Nebelartige Textur mit hochgeschnittenem Hall
 * Sidechain ist unterdrückend, erzeugt nur Bewegung
@@ -273,7 +273,7 @@ flowchart TD
 
 ## 8. Aktueller Stand und Zukunftsaussichten des Genres
 
-Chillstep/Liquid Dubstep ist nicht nur ein Ableger von Dubstep, sondern ein typisches Beispiel dafür, wie das Internet und die visuelle Kultur ein Musikgenre geprägt haben. Selbst in den 2020er Jahren hat es sich nahtlos in Genres wie Lo-Fi-Kultur, Ambient, melodischer Bass und Future Garage integriert und wurde weithin als eine Form der „ruhigen Elektronik“ akzeptiert.
+Chillstep/Liquid Dubstep ist nicht nur ein Ableger von Dubstep, sondern ein repräsentatives Beispiel dafür, wie das Internet und die visuelle Kultur ein Musikgenre bilden. Selbst in den 2020er Jahren hat es sich nahtlos in Genres wie Lo-Fi-Kultur, Ambient, melodischer Bass und Future Garage integriert und wurde weithin als eine Form der „ruhigen Elektronik“ akzeptiert.
 
 Darüber hinaus wurden in den letzten Jahren folgende Trends beobachtet.
 

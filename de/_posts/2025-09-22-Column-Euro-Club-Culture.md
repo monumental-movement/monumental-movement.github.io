@@ -56,7 +56,7 @@ Hochwertige Musikvideos von Künstlern wie Real McCoy, Culture Beat und 2 Unlimi
 
 In Japan übertragen J-WAVE und Bay FM aktiv den Euro.
 
-In Verbindung mit der „Super Eurobeat“-Serie von avex entstand ein Euro-Phänomen, das sich über Clubs und TV-Werbespots erstreckt.
+In Verbindung mit der „Super Eurobeat“-Serie von avex entstand ein Euro-Phänomen, das Clubs und TV-Werbespots umfasst.
 
 ---
 
@@ -65,7 +65,7 @@ In Verbindung mit der „Super Eurobeat“-Serie von avex entstand ein Euro-Phä
 
 **● Verbindung zur Rave-Kultur**
 
-Euromusic übernahm ursprünglich Klänge, die ihren Ursprung in Schwulenclubs hatten, wie „Italo Disco“ und „Hi-NRG“. In den 1990er Jahren fand sie dann mit der Explosion der Rave-Kultur ihren Widerhall.
+Euromusic übernahm ursprünglich Klänge, die ihren Ursprung in Schwulenclubs hatten, wie „Italo Disco“ und „Hi-NRG“. In den 1990er Jahren fand sie dann ihren Widerhall mit der Explosion der Rave-Kultur.
 
 Deutschland: Viele Euro-Stücke wurden auf Loveparade und Mayday gespielt
 
@@ -109,7 +109,7 @@ Obwohl es sich um ein kommerzielles Paket handelt, hat die Songauswahl Club-Flai
 
 **● Brücke von Euro zu Trance**
 
-Eurotrance, eine Verbindung zwischen Euro-Tanz und Trance, erschien Ende der 90er Jahre.
+Eurotrance, eine Verbindung zwischen Eurodance und Trance, entstand Ende der 90er Jahre.
 
 ATB, Fragma, Darude und andere präsentieren einen Sound, der sich zwischen Pop und Club bewegt
 

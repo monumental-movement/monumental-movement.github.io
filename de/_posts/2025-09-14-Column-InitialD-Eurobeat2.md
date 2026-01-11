@@ -27,7 +27,7 @@ Text: mmr｜Thema: „Nach“ Eurobeat-Spreads von Initial D
 
 ### Eurobeats „Ausstieg“ und „Rückkehr“
 „Initial D“ war ein maßgebliches Werk, das Eurobeat in der japanischen Jugend stark prägte und gleichzeitig ein „Ventil“ für die Weitergabe dieser Musik an die Internet-Generation darstellte.
-In den späten 2000er Jahren, als Napster und YouTube populär wurden, erfreuten sich Anime-Ausschnitte und von Fans herausgegebene „Eurobeat Drift Compilations“ explosionsartiger Beliebtheit. Für junge Menschen in Europa und Amerika wurde „Initial D“ zum „Eingang“ zum Eurobeat, und umgekehrt kehrte aus Japan importierte Musik in die Welt zurück und schuf einen Doppelzyklus.
+In den späten 2000er Jahren, als Napster und YouTube populär wurden, explodierten Anime-Ausschnitte und von Fans bearbeitete „Eurobeat Drift Compilations“. Für junge Menschen in Europa und Amerika wurde „Initial D“ zum „Eingang“ zum Eurobeat, und umgekehrt kehrte aus Japan importierte Musik in die Welt zurück und schuf einen Doppelzyklus.
 
 ### Vom Gebirgspass zur Simulation —— Fahrer im digitalen Raum
 Der in „Initial D“ abgebildete Gebirgspass ist ein echter Gebirgspass in Gunma, aber seit den 2000er Jahren ist Eurobeat mit einer Gaming-Kultur verbunden, die man als „digitalen Gebirgspass“ bezeichnen kann.
@@ -44,7 +44,7 @@ Hier fungiert sie nicht nur als Hintergrundmusik, sondern als Symbol, um die „
 
 ### An die Generation, die das „Gedächtnis der Beschleunigung“ geerbt hat
 Viele der Jugendlichen, die heute auf Spotify oder Apple Music auf die Playlist „Eurobeat – Initial D“ klicken, sind nicht unbedingt auf Bergpässen gelaufen.
-Aber sie beschleunigen mit ihren Kopfhörern, treiben im virtuellen Raum, lachen im Internet und überlassen ihre Körper den gleichen Klängen.
+Aber sie geben mit ihren Kopfhörern Gas, treiben im virtuellen Raum, lachen im Internet und geben sich den immer gleichen Klängen hin.
 Eurobeat ist zu einem Medium geworden, das über die physische Geschwindigkeit hinausgeht und das „Gedächtnis der Beschleunigung“ mit jeder Generation aktualisiert.
 
 ### Liste repräsentativer Eurobeat-Songs (Anfangsbuchstabe D)
@@ -71,7 +71,7 @@ color: #fff;
 | Nacht des Feuers | Niko | Ein Klassiker, der die Flip-Flop-Generation und die Anime-Generation verbindet |
 | Weltraumjunge | Dave Rodgers | Beliebt für sein schnelles Tempo und seine starke Melodie |
 | Tanzen | Vicky Vale | Beeindruckend in der frühen Rennszene eingesetzt |
-| Schlag der aufgehenden Sonne | Dave Rodgers | Hochgefühl und dramatische Entwicklungen |
+| Schlag der aufgehenden Sonne | Dave Rodgers | Hochgefühl und dramatische Entwicklung |
 | Niemand schläft in Tokio | Edo Boys | Tokio Klangbild und Geschwindigkeitsgefühl |
 | Schneller Speed-Boy | Marko Polo | Titel und Rhythmus, die das Gefühl von Geschwindigkeit verkörpern |
 | Erinnere dich an mich | Leslie Parrish | Ein melodisches, emotionales und beliebtes Lied |
@@ -177,7 +177,7 @@ Autosound: ▒▒▒▒▒▒→ GT-R-Beschleunigungssound </div>
 | 1990er Jahre | Akai MPC60/3000 | Drum-Programmierung |
 | 1990er Jahre | Roland TR-909 | Fahrhilfe |
 | 2000er | DAW (Cubase, Pro Tools) | Digitale Bearbeitung/Mischung |
-| 2010er | FL Studio, Ableton Live | Trap/EDM-Ansatz |
+| 2010er | FL Studio, Ableton Live | Trap/EDM approach |
 | 2020er | Soft-Synth (Serum, Massiv) | Moderner Leadbass |
 
 ---

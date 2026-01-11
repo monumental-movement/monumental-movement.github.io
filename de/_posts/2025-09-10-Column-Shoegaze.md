@@ -139,7 +139,7 @@ Manchmal | Immer | JAMC & Hope Sandoval | Die Grenze zwischen Lärm und Pop |
 
 ## 2010er – Neo Shoegaze
 ### Historischer Hintergrund
-- Von der Internet-Generation entdeckt und neue Unterstützung gewonnen.
+- Von der Generation Internet entdeckt und neue Unterstützung gewonnen.
 - Bands der neuen Generation wie DIIV und Nothing entstehen.
 - Fusion mit Dreampop und Chillwave.
 

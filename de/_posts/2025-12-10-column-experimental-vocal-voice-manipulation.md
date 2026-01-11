@@ -43,11 +43,11 @@ color: #fff;
 
 ### 1-1. Aufnahmetechnik und Tonbanderzeugung
 
-Mitte des 20. Jahrhunderts waren Aufnahmen und Tonbandmanipulationen die ersten großen Einsatzmöglichkeiten für Stimmmanipulationen. Techniken wie das Ändern der Geschwindigkeit des Bandes, das Zerschneiden und das Rückwärtsspielen schufen eine Möglichkeit, die zeitlichen und Frequenzeigenschaften der Stimme strategisch zu verändern und neue musikalische Bedeutungen abzuleiten. In Radioarbeiten und Experimenten mit elektronischer Musik wurden Stimmen manchmal von ihren vorhandenen sprachlichen Bedeutungen getrennt und in Klangtexturen umgewandelt.
+Mitte des 20. Jahrhunderts waren Aufnahmen und Tonbandmanipulationen die ersten großen Einsatzmöglichkeiten für Stimmmanipulationen. Techniken wie das Ändern der Geschwindigkeit des Bandes, das Zerschneiden und das Rückwärtsspielen schufen eine Möglichkeit, die zeitlichen und frequenzmäßigen Eigenschaften der Stimme strategisch zu verändern und neue musikalische Bedeutungen abzuleiten. In Radioarbeiten und Experimenten mit elektronischer Musik wurden Stimmen teilweise von ihren bestehenden sprachlichen Bedeutungen getrennt und in Klangtexturen umgewandelt.
 
 ### 1-2. Die Ära der Synthese und der analogen Ausrüstung
 
-Seit den 1970er Jahren erfreuen sich Vocoder und analoge Synthesizer großer Beliebtheit, und es sind Crossovers zwischen Stimmen und synthetisierten Klängen entstanden. Der Vocoder übertrug die spektrale Hüllkurve der Stimme auf einen anderen Trägerton und ermöglichte so die Verschmelzung der menschlichen Stimme mit elektronischen Klängen. Infolgedessen sind robotische/mechanische Töne weit verbreitet.
+Seit den 1970er Jahren erfreuen sich Vocoder und analoge Synthesizer großer Beliebtheit und führen zu Crossovers zwischen Stimmen und synthetisierten Klängen. Der Vocoder übertrug die spektrale Hüllkurve der Stimme auf einen anderen Trägerton und ermöglichte so die Verschmelzung der menschlichen Stimme mit elektronischen Klängen. Infolgedessen sind robotische/mechanische Töne weit verbreitet.
 
 ---
 
@@ -75,13 +75,13 @@ Björk hat deutlich einen Produktionsansatz gezeigt, der die Stimme als Hauptkla
 
 ### 3-2. Imogen Heap – Echtzeitkontrolle und Körperlichkeit
 
-Imogen Heap demonstrierte, dass die Stimme durch Live-Ausdruck mithilfe von Echtzeit-Effektsteuerung, Gesten und Controllern instrumental gespielt werden kann. Durch den Einsatz eines Harmonizers und einer selbst entwickelten Signalverarbeitung, um die Textur und Harmonien der Stimme während einer Aufführung zu manipulieren, visualisierte er die Unmittelbarkeit und Wandelbarkeit der Stimme.
+Imogen Heap demonstrierte, dass die Stimme durch Live-Ausdruck mithilfe von Echtzeit-Effektsteuerung, Gesten und Controllern instrumental gespielt werden kann. Mithilfe eines Harmonizers und einer selbst entwickelten Signalverarbeitung visualisierte er die Unmittelbarkeit und Wandelbarkeit der Stimme, indem er die Textur und Harmonien der Stimme während der Aufführung manipulierte.
 
 ---
 
 ## Kapitel 4: Klassifizierung von Techniken und akustischen Effekten
 
-Im Folgenden fassen wir die wichtigsten Techniken zusammen, die häufig im experimentellen Gesang verwendet werden, und ihre akustischen und ausdrucksstarken Auswirkungen.
+Im Folgenden fassen wir die wichtigsten Techniken zusammen, die häufig beim experimentellen Gesang verwendet werden, und ihre akustischen und ausdrucksstarken Auswirkungen.
 
 ### 4-1. Pitch-Verarbeitung
 
@@ -152,7 +152,7 @@ Hier zeigen wir Ihnen einen grundlegenden Arbeitsablauf, mit dem Sie tatsächlic
 
 ## Kapitel 8: Bildungs- und Forschungsperspektiven
 
-Stimmmanipulation ist ein Bereich, der eng mit der Akustik, Psychologie und der Forschung zu künstlicher Intelligenz verbunden ist. Die Wahrnehmung der Stimmqualität, die Parametrisierung für die Stimmsynthese und das physiologische Verständnis der Vokalisierung werden zur technischen Vertiefung experimentellen Gesangs beitragen.
+Stimmmanipulation ist ein Bereich, der eng mit Akustik, Psychologie und der Forschung zu künstlicher Intelligenz verbunden ist. Die Wahrnehmung der Stimmqualität, die Parametrisierung für die Stimmsynthese und das physiologische Verständnis der Vokalisierung werden zur technischen Vertiefung experimentellen Gesangs beitragen.
 
 ---
 

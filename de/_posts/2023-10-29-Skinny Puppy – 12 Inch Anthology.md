@@ -14,11 +14,11 @@ title: Skinny Puppy – 12-Zoll-Anthologie
 ---
 
 
-Skinny Puppy ist eine Elektro-Industrial-Band, die 1982 von dem in Kanada geborenen Kelvin Key und Kevin Ogilvy gegründet wurde.
+Skinny Puppy ist eine Elektro-Industrial-Band, die 1982 von dem in Kanada geborenen Kelvin Key und Kevin Ogilvie gegründet wurde.
 
 Skinny Puppy gilt als einer der Begründer der Genres Industrial Rock und Electro-Industrial.
 
-Bei diesem Album handelt es sich um ein Compilation-Album, das die frühen Singles und B-Seiten der Band enthält.
+Dieses Album ist ein Compilation-Album, das die frühen Singles und B-Seiten der Band enthält.
 
 #### Trackliste
 ```md

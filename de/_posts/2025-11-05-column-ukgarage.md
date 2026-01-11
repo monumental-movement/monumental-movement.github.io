@@ -51,7 +51,7 @@ Nach „Second Summer of Love“ im Jahr 1988 breitete sich die Rave-Kultur aus,
 
 ---
 
-## Kapitel 2: Geburt von Speed ​​Garage und 2-Step
+## Kapitel 2: Geburt von Speed ​​​​Garage und 2-Step
 
 ### Entstehung von Speed ​​Garage (1996-1998)
 Frühe britische Werkstätten waren als „Speed ​​​​Garage“ bekannt. Dies ist ein amerikanischer House-Stil mit einer **Dschungel-Basslinie**, und einige typische Titel sind:
@@ -112,7 +112,7 @@ Um das Jahr 2000 herum erlebte die britische Garage ihr goldenes Zeitalter in de
 Von 2001 bis 2003 entstand in Clubs ein aggressiverer und düstererer Sound. Dies wurde zum Ausgangspunkt für spätere **Grime** und **Dubstep**.
 
 | Zweig | Funktionen | Repräsentativer Künstler |
-|------|------|-------------------|
+|------|------|-----|
 | **Schmutz** | Etwa BPM140, MC-basierter harter Sound | Wiley, Dizzee Rascal |
 | **Dubstep** | Betonung auf Bass, dunkler Raum | Skream, Benga, Digital Mystikz |
 | **Bassline** | 4/4-Return, Pop-Gesang | T2, DJ Q |
@@ -126,7 +126,7 @@ Es ist diese Vielfalt, die die „Schwankung“ des Rhythmus erzeugt.
 
 - **Afro-karibischer Rhythmus** (abgeleitet von Jungle und Reggae)
 - **Amerikanische R&B-Melodie**
-- **Der DIY-Geist des urbanen Großbritanniens**
+- **Der DIY-Geist britischer Städte**
 
 Dieser Schnittpunkt bildete die einzigartige Klangidentität Großbritanniens.
 Die UKG-Partei war auch ein gemeinsamer Raum, der über Klasse und Rasse hinausging und jungen Menschen als positives Ausdrucksmittel als Reaktion auf die damaligen sozialen Unruhen (Unruhen, Arbeitslosigkeit, Politik unter der Blair-Regierung) diente.

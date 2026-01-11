@@ -46,7 +46,7 @@ color: #fff;
 
 Seit den 1950er Jahren, mit der Entwicklung elektronischer Musikstudios, wurde der Klang von der Darbietung von Musikinstrumenten getrennt und ist zu einem Objekt geworden, das als Signal manipuliert werden kann. Technologien wie Magnetband, Oszillatoren und Filter machten es möglich, Ton aufzunehmen, zu verarbeiten und neu zu arrangieren.
 
-Mit diesem Wandel sind musikalische Werke nicht mehr auf Aufführungsorte beschränkt, sondern halten Einzug in Museen, Galerien und öffentliche Räume. Der Begriff Klangkunst wird verwendet, um eine Gruppe von Werken zu bezeichnen, deren Hauptmaterial Klang ist, die jedoch nicht unbedingt musikalischen Systemen oder Aufführungskonventionen folgen.
+Mit diesem Wandel sind musikalische Werke nicht mehr auf Aufführungsorte beschränkt, sondern halten Einzug in Museen, Galerien und öffentliche Räume. Der Begriff „Klangkunst“ wird verwendet, um eine Gruppe von Werken zu bezeichnen, deren Hauptmaterial Klang ist, die jedoch nicht unbedingt musikalischen Systemen oder Aufführungskonventionen folgen.
 
 ### 1-2 Von der Zeitkunst zur Raumkunst
 
@@ -56,7 +56,7 @@ In der Klangkunst ist die räumliche Anordnung wichtiger als die zeitliche Entwi
 
 ## Kapitel 2: Avantgardistische Instrumentalkonzepte
 
-### 2-1 Instrumente neu definieren
+### 2-1 Neudefinition von Musikinstrumenten
 
 In der avantgardistischen Instrumentalmusik haben Instrumente keine feste Form. Bestehende Instrumente werden erweitert oder verändert, oder die Umgebung selbst wird als Instrument behandelt. Mikrofone, Lautsprecher, Resonatoren und architektonische Räume sind gleichwertige Komponenten.
 
@@ -72,7 +72,11 @@ Bei der Leistung geht es nicht darum, körperliche Fähigkeiten zu demonstrieren
 
 Alvin Lucier ist ein Komponist, der das physikalische Verhalten von Schallwellen in den Mittelpunkt seiner Werke stellt. In seinen Werken ist die absichtliche Manipulation des Komponisten auf ein Minimum beschränkt und die akustischen Phänomene entfalten sich autonom.
 
-In seinem berühmtesten Werk „I Am Sitting in a Room“ werden durch die wiederholte Wiedergabe und erneute Aufnahme des gesprochenen Wortes im selben Raum die für den Raum spezifischen Resonanzfrequenzen betont, und die Sprache verschwindet schließlich. Dieser Prozess veranschaulicht deutlich den Übergang des Klangs von der Information zum physikalischen Phänomen.
+In seinem berühmtesten Werk „I Am Sitting in a Room“ werden durch die wiederholte Wiedergabe und erneute Aufnahme des gesprochenen Wortes im selben Raum die für den Raum spezifischen Resonanzfrequenzen betont, und die Sprache verschwindet schließlich. Dieser Prozess zeigt deutlich, wie sich Schall von einer Information zu einem physikalischen Phänomen entwickelt.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bhtO4DsSazc?si=V4qjAe3Nm9Ow7ycC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 ### 3-2 Feedback und Selbstgenerierung
 
@@ -93,7 +97,7 @@ flowchart LR
 
 ### 4-1 Architekturakustik
 
-Luciers Arbeit basiert stark auf räumlichen Dimensionen, Materialien und reflektierenden Eigenschaften. Selbst wenn das Stück gleich ist, können die akustischen Ergebnisse stark variieren, wenn der Installationsort unterschiedlich ist.
+Luciers Arbeit basiert stark auf räumlichen Dimensionen, Materialien und reflektierenden Eigenschaften. Selbst wenn das Stück gleich ist, werden die akustischen Ergebnisse stark variieren, wenn es an einem anderen Ort installiert wird.
 
 ### 4-2 Zuschauerposition
 
@@ -102,6 +106,10 @@ Die Standposition und Bewegung des Publikums sind Faktoren, die das akustische E
 ---
 
 ## Kapitel 5: Die Produktionsumgebung von Christian Fennesz
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BU7-TwdQhyo?si=_iskop-M4YBKi38X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 ### 5-1 Gitarre und digitale Verarbeitung
 
@@ -117,7 +125,7 @@ Faktoren wie Verzerrung, Komprimierung und fehlende Daten werden als Komponenten
 
 ### 6-1 Parallele Platzierung mit Video
 
-In Fennesz‘ Werk werden Bilder als parallele Elemente angeordnet und nicht als Erklärungen für Ton. Ton und Video sind oft nicht synchronisiert.
+In Fennesz‘ Werk werden Bilder als parallele Elemente angeordnet und nicht als Erklärungen für Klang. Ton und Video sind oft nicht synchronisiert.
 
 <div class="mermaid">
 flowchart LR

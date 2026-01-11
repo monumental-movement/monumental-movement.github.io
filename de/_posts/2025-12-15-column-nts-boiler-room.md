@@ -41,7 +41,7 @@ color: #fff;
 </style>
 
 
-## Kapitel 1 Etablierung der NTS-Radio- und Rundfunkkultur
+## Kapitel 1: Etablierung der NTS-Radio- und Rundfunkkultur
 
 NTS Radio ist ein Internetradio mit Sitz in London, das rund um die Uhr DJ-Programme und Live-Auftritte sendet. Die ausgestrahlten Inhalte sind vielfältig und umfassen Clubmusik, experimentelle Musik, Volksmusik und Improvisationsdarbietungen.
 
@@ -191,7 +191,7 @@ Wenn Bilder existieren, haben körperliche Bewegungen und räumliche Konfigurati
 
 ---
 
-## Ergänzungskapitel 6 Improvisation managen
+## Ergänzungskapitel 6 Improvisation verwalten
 
 Improvisation ist nicht chaotisch. Live-Streaming-Künstler entwerfen Improvisationen basierend auf Bedingungen wie Streaming-Zeit, Anzahl der Zuhörer und technischen Einschränkungen.
 

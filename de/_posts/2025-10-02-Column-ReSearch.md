@@ -113,7 +113,7 @@ RE/Search ist mehr als nur eine Veröffentlichung; es dient auch als Subkulturar
 - **Geburt von Search & Destroy**
 Während seiner Arbeit in der Buchhandlung City Lights in San Francisco gründete Vale mit Hilfe von Lawrence Ferlinghetti und Allen Ginsberg Search & Destroy. Ziel war es, die Energie der Punkszene zu vermitteln.
 
-- **Der DIY-Geist des Handbuchs zur Industriekultur**
+- **Der DIY-Geist des Industrial Culture Handbook**
 Direkte Interviews mit Throbbing Gristle und Cabaret Voltaire per Telefon und Post. Das Layout wurde von Vale mit einer Schreibmaschine fertiggestellt und per Hand an den Drucker übergeben.
 
 - **Schock erzeugt durch moderne Primitive**

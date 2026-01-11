@@ -32,7 +32,7 @@ Text: mmr｜Thema: Über den künstlerischen Meilenstein der zweiten Hälfte des
 
 In diesem Film gibt es keine Erzählung oder Dialoge.
 Gezeigt werden lediglich Bilder der Natur und der menschlichen Gesellschaft. Und was sie durchdringt, ist die **minimalistische Musik** von Glass.
-Seine rhythmische Struktur und Ästhetik der Wiederholung, die mit dem Fluss der Bilder in Resonanz steht, stellen die „Transformation der modernen Zivilisation“ in Klangform dar.
+Seine rhythmische Struktur und Ästhetik der Wiederholung bilden, während sie mit dem Fluss der Bilder in Resonanz stehen, die „Transformation der modernen Zivilisation“ in Form von Klang ab.
 
 ---
 
@@ -117,7 +117,7 @@ Reggio ist auch eine spirituelle Figur mit Erfahrung in einem Kloster, und der g
 
 ---
 
-## Kapitel 5: Die Beziehung zwischen Videokomposition und Musik
+## Kapitel 5: Die Korrespondenzbeziehung zwischen Videokomposition und Musik
 
 | Szene | Musikmotiv | Bedeutung/Wirkung |
 | ----------- | -------- | ---------- |
@@ -192,7 +192,7 @@ Am Ende von „Koyanisqatsi“, den Überresten einer Rakete, die nicht gestarte
 Es fällt langsam zu Boden.
 In dem Moment, in dem Glass‘ Musik leise verklingt, ist das Publikum plötzlich in „Stille“ gehüllt.
 
-Es ist kein Zusammenbruch der Zivilisation, sondern ein leerer Raum für eine Wiedergeburt.
+Es ist nicht der Zusammenbruch der Zivilisation, sondern ein leerer Raum für eine Wiedergeburt.
 
 > Wenn der Ton aufhört, beginnen wir endlich, die Welt zu hören.
 

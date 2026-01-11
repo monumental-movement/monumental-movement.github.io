@@ -213,7 +213,7 @@ timeline
 
 ## 10. Zusammenfassung
 
-James Chance and the Contortions ist eine Band, die die Verschmelzung von Avantgarde-Musik und Performance auf die Spitze treibt. Der Rhythmus, die Improvisation und der körperliche Ausdruck ihrer Alben und Live-Auftritte wurden zur Grundlage des späteren Dance-Punk und Post-Punk. Obwohl ihre Musik nur von kurzer Dauer war, gilt sie weiterhin als Symbol der Innovation.
+James Chance and the Contortions ist eine Band, die die Verschmelzung von Avantgarde-Musik und Performance auf die Spitze treibt. Der Rhythmus, die Improvisation und der körperliche Ausdruck ihrer Alben und Live-Auftritte wurden zur Grundlage des späteren Dance-Punk und Post-Punk. Obwohl ihre Musik nur von kurzer Dauer war, gilt sie weiterhin als Symbol für Innovation.
 
 
 ---

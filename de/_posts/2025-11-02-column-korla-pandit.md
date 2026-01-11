@@ -59,7 +59,7 @@ color: #fff;
 5. [Kapitel 5: Die Wahrheit hinter der Maske – Geständnisse von John Rowland] (#Kapitel 5)
 6. [Kapitel 6: Nachhall von Exotica – Von der Longines Symphonette zum Lo-Fi-Revival] (#Kapitel 6)
 7. [Kapitel 7: Moderne Neubewertung und kulturelle Verwerfung] (#Kapitel 7)
-8. [Chronologie: Korla Pandit und die Geschichte der Exotica-Musik (1940–2020)] (#chronology)
+8. [Chronologie: Korla Pandit und die Geschichte der Exotica-Musik (1940–2020)] (#Chronologie)
 9. [Diagramme und Analysen](#Charts)
 10. [Schlussfolgerung: Zwischen Fiktion und Wahrheit] (#Schlussfolgerung)
 
@@ -80,7 +80,7 @@ Diese „Geschichte der Maske“ geht über eine einfache Künstlernamen-Anekdot
 
 ---
 
-## Kapitel 2: Nachkriegsamerika und „fremde Träume“ {#Kapitel 2}
+## Kapitel 2: Nachkriegsamerika und „ausländische Träume“ {#Kapitel 2}
 
 Im Amerika der frühen 1950er Jahre, im Schatten des Sieges im Zweiten Weltkrieg und im Kalten Krieg,
 „Sehnsucht nach dem Unbekannten“ = **Exotik** ist zu einem kulturellen Boom geworden.
@@ -89,7 +89,7 @@ Im Amerika der frühen 1950er Jahre, im Schatten des Sieges im Zweiten Weltkrieg
 - Tiki-Bars erfreuten sich in Privathäusern großer Beliebtheit, und Bambusmöbel und Vorhänge mit tropischen Mustern erfüllten die Träume des einfachen Mannes.
 - Musikalisch wurde lateinamerikanische, hawaiianische, arabische und indische Musik als „Fantasy-Hintergrundmusik“ konsumiert.
 
-In diesem Zusammenhang symbolisierten das Schweigen und die Maske des Pandit eine idealisierte „exotische Ruhe“.
+In diesem Zusammenhang symbolisierten das Schweigen und die Maske des Pandit eine idealisierte „fremde Ruhe“.
 
 ---
 
@@ -124,10 +124,10 @@ Referenz/Quelle:
 
 ---
 
-Die Korla Pandit Show, die ab 1951 ausgestrahlt wurde, war eine der ersten amerikanischen Musikfernsehshows.
+Die Korla Pandit Show, die ab 1951 ausgestrahlt wurde, war eine der ersten Musikfernsehshows Amerikas.
 Die Inszenierung, die nur aus Bild und Ton ohne gesprochene Worte aufgebaut war, bot den weißen Zuschauern damals ein „sicheres fremdes Land“.
 
-Pundit hatte mehr als 1.000 Sendungen, was ihr mehr Fernsehpräsenz verschaffte als ihrem Zeitgenossen Nat King Cole.
+Pundit hatte mehr als 1.000 Sendungen, was ihr mehr Fernsehpräsenz bescherte als ihrem Zeitgenossen Nat King Cole.
 Allerdings konnte er nur dadurch Erfolg haben, dass er seine Identität als schwarzer Künstler verbarg;
 Es ist auch eine symbolische Anekdote, die den Zusammenhang zwischen Unterhaltung und Rassismus verdeutlicht.
 

@@ -41,7 +41,7 @@ color: #fff;
 
 ## ■ Hardrock und Outlaw-Lifestyle
 
-Hard Rock ist mehr als nur ein Musikgenre, es wird oft als eine untrennbare „Lebensweise“ bezeichnet.
+Hardrock ist mehr als nur ein Musikgenre, es wird oft als eine untrennbare „Lebensweise“ bezeichnet.
 Symbole dafür waren die **Muscle Cars** und **Harley-Davidsons**, die aus dem Hintergrund der amerikanischen Kultur entstanden sind.
 
 Die 1960er und 1970er Jahre waren eine turbulente Zeit für die Vereinigten Staaten, in der der Vietnamkrieg, die Bürgerrechtsbewegung und der Konflikt zwischen konservativen Werten und Gegenkultur zu einem Sumpf wurden. Junge Menschen, die sich gegen die bestehende Ordnung und gesellschaftliche Normen auflehnten, suchten unter dem Stichwort „Freiheit“ ihren Ausdruck, Rock und Motorkultur waren hierfür symbolische Mittel.
@@ -64,16 +64,16 @@ Man kann sagen, dass dieser Film die enge Beziehung zwischen Hardrock und Autoku
 Die globalen Hardrock-Bands **AC/DC** und **KISS** haben ihr Publikum fasziniert, indem sie die Autokultur nicht nur in ihre Musik, sondern auch in ihre Auftritte integriert haben.
 
 - AC/DC, am Beispiel von Songs wie „Highway to Hell“ und „Thunderstruck“, überlagerte Rockmusik mit Bildern von „Road“, „Thunder“ und „Speeding“, wodurch Musik direkt mit dem Fahrgefühl verknüpft wurde.
-- Beim Live-Auftritt von KISS hallte das Geräusch eines Harley-Motors vor dem Hintergrund der Flammen wider und vermittelte dem Publikum ein Erlebnis, als wäre die Bühne selbst in ein amerikanisches Roadmovie verwandelt worden.
+- Beim Live-Auftritt von KISS hallte das Geräusch eines Harley-Motors mit den Flammen im Hintergrund wider und vermittelte dem Publikum ein Erlebnis, als wäre die Bühne selbst in ein amerikanisches Roadmovie verwandelt worden.
 
-Dies spiegelte die amerikanische „Kultur der Geschwindigkeit“ der 1970er Jahre wider, und im Hardrock wurden Autos und Motorräder stark als symbolische Ikonen der Populärkultur akzeptiert.
+Dies spiegelte die amerikanische „Kultur der Geschwindigkeit“ der 1970er Jahre wider, und im Hardrock waren Autos und Motorräder stark als symbolische Ikonen der Populärkultur verankert.
 
 ---
 
 ## ■ Motorgeräusch = ein weiterer Rock-Sound
 
 Hardrock wird von mehr als nur explosiven Gitarren und schwerem Schlagzeug getragen.
-Für die Fans war der Sound des Motors selbst „eine andere Art von Rock’n’Roll“.
+Für die Fans war der Klang des Motors selbst „eine andere Art von Rock’n’Roll“.
 
 - **Das Dröhnen des V8-Motors** schwingt mit dem Gitarrenriff mit und vermittelt dem Hörer ein Gefühl der körperlichen Befreiung.
 - Das Geräusch eines Motors ist „unkontrollierter Lärm“ und überschneidet sich mit dem rebellischen Geist des Rock, da er die soziale Ordnung und Stille stört.
@@ -134,7 +134,7 @@ Wenn das Dröhnen des Motors und das Gitarrenriff mitschwingen, erschüttert die
 
 | Songtitel | Künstler | Kommentar |
 |------|---------------|------|
-| Kickstart mein Herz | Mötley Crüe | Ein Meisterwerk, das aus der Erfahrung eines Motorradunfalls entstanden ist. |
+| Kickstart My Heart | Mötley Crüe | Ein Meisterwerk, das aus der Erfahrung eines Motorradunfalls entstanden ist. |
 | Verrückter Zug | Ozzy Osbourne | Ein rasantes Riff, das zum Fahren geeignet ist. |
 | Von einem Gebet leben | Bon Jovi | Singt über Jugend- und Roadmovie-Szenen. |
 | Pik-Ass | Motörhead | Lieder, die am engsten mit der Motorradkultur verbunden sind. |
@@ -155,9 +155,9 @@ Vor allem in den USA ist die Musikalität der Bands anspruchsvoller geworden und
 Andererseits haben sich in Europa und Japan Stile entwickelt, die Lyrik und Technik betonen, und Hardrock symbolisiert weiterhin den „Outlaw-Geist, der sich mit der Zeit verändert“.
 
 | Künstler | Album | Erscheinungsjahr | Funktionen |
-|--------------|----------|---------|------|
+|-------------|----------|---------|------|
 | Guns N‘ Roses | Benutze deine Illusion I & II | 1991 | Ein Meisterwerk, das Hardrock und Balladen vereint |
-| Metallica | Schwarzes Album | 1991 | „Enter Sandman“ durchbricht die Grenze zwischen Metal und Rock |
+| Metallica | Schwarzes Album | 1991 | Mit „Enter Sandman“ | durchbrechen sie die Grenzen zwischen Metal und Rock
 | Foo Fighters | Die Farbe und die Form | 1997 | Rockhymne der neuen Generation nach Grunge |
 | Audioslave | Audioslave | 2002 | Rage x Soundgarden Crossover |
 | Samtrevolver | Schmuggelware | 2004 | Rückkehr ehemaliger GNR-Mitglieder zum klassischen Rock nach den 90ern |
@@ -168,7 +168,7 @@ Andererseits haben sich in Europa und Japan Stile entwickelt, die Lyrik und Tech
 ## Repräsentative Albumliste
 
 | Künstler | Album | Erscheinungsjahr | Funktionen |
-|--------------|----------|---------|------|
+|-------------|----------|---------|------|
 | Led Zeppelin | Led Zeppelin IV | 1971 | Enthält „Stairway to Heaven“, Mythical Being |
 | AC/DC | Zurück in Schwarz | 1980 | Unsterbliche Hardrock-Hymne mit weltweiten Verkäufen |
 | Tiefviolett | Maschinenkopf | 1972 | „Smoke on the Water“ etabliert ein klassisches Riff |
@@ -179,7 +179,7 @@ Andererseits haben sich in Europa und Japan Stile entwickelt, die Lyrik und Tech
 
 ## Hardrock und Outlaw-Lifestyle
 
-Hardrock ist mehr als nur ein Musikgenre und wird oft als „Lifestyle“ bezeichnet. Symbolisch dafür sind amerikanische Muscle-Cars und Harley-Davidson.
+Hardrock ist mehr als nur ein Musikgenre und wird oft als „Lifestyle“ bezeichnet. Symbol dafür sind amerikanische Muscle-Cars und Harley-Davidson.
 Das Dröhnen des großvolumigen Motors hallt durch die Stadt und ähnelt der Verzerrung eines Gitarrenverstärkers. Als ob Musik und Maschinen auf der gleichen Frequenz schwingen, stellen Fahrer und Fahrer ihre Präsenz zur Schau.
 
 Es ist auch eng mit der Outlaw-Kultur verbunden. Biker-Banden und die Straßenkultur der 70er Jahre hatten oft Hardrock als Soundtrack. Der Wunsch nach Freiheit und Abweichung von der Norm ist Ausdruck starker, unwiderstehlicher Impulse, genau wie ein Hardrock-Gitarrenriff.
@@ -198,9 +198,9 @@ Die Kultur von Harley-Davidson und amerikanischen Muscle-Cars hat die japanische
 
 | Künstler | Lied | Erscheinungsjahr | Funktionen |
 |--------------|------|--------|------|
-| LAUTHEIT | Verrückte Nächte | 1985 | Ein monumentales Stück japanischer Hardrock, das sich in der ganzen Welt ausgebreitet hat |
+| LAUTHEIT | Verrückte Nächte | 1985 | Ein monumentales Stück japanischer Hardrock, das sich auf der ganzen Welt ausgebreitet hat |
 | X JAPAN | Rostiger Nagel | 1994 | Symphonischer und lyrischer Hardrock |
-| B'z | LIEBE PHANTOM | 1995 | Fusion aus Hardrock- und J-POP-Melodien |
+| B’z | LIEBE PHANTOM | 1995 | Fusion aus Hardrock- und J-POP-Melodien |
 | SEX-MASCHINENGEWEHRE | Deutsche Macht | 1998 | Japanischer HR-Vertreter der 90er Jahre mit Humor und Spannung |
 | Dir und grau | Unklar | 2003 | Düster und avantgardistisch, international gefeiert |
 

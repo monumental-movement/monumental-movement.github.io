@@ -20,7 +20,7 @@ title: '[Kolumne] Nyege Nyege: Eine Musikgruppe aus Uganda, die Afrikas musikali
 Text: mmr｜Thema: Über eine wichtige Musikgruppe, die „Outsider-Musik“ verbreitet, die traditionelle afrikanische Musik und moderne elektronische Musik in der Welt verbindet
 
 
-„Nyege Nyege“ ist eine Musikgruppe mit Sitz in Kampala, Uganda, und gilt als Pionier bei der weltweiten Verbreitung der afrikanischen Underground-Musikszene. Sein Name bedeutet auf Luganda „der unwiderstehliche Drang zum Tanzen“ und vermittelt eine kraftvolle Botschaft, die Menschen durch Musik und Tanz zusammenbringt.
+„Nyege Nyege“ ist eine Musikgruppe mit Sitz in Kampala, Uganda, und gilt als Pionier bei der weltweiten Verbreitung der afrikanischen Underground-Musikszene. Sein Name bedeutet auf Luganda „ein unwiderstehlicher Drang zum Tanzen“ und vermittelt eine kraftvolle Botschaft, die Menschen durch Musik und Tanz zusammenbringt.
 
 ---
 
@@ -294,7 +294,7 @@ flowchart LR
 
 #### Electro Maloya (Zusammenfassung)
 Electro Maloya ist ein experimentelles Genre, das traditionelle Maloya-Musik mit elektronischer Musik rekonstruiert.
-Es erregt weltweite Aufmerksamkeit als Musikstil, der gleichzeitig das Erbe der Geschichte weiterführt, Kultur neu interpretiert, sich in die städtische Clubkultur integriert und international kommuniziert.
+Als Musikstil, der gleichzeitig das Erbe der Geschichte weiterführt, Kultur neu interpretiert, sich in die städtische Clubkultur integriert und international kommuniziert, erregt er weltweite Aufmerksamkeit.
 
 ---
 

@@ -14,7 +14,7 @@ title: The Prodigy – Eindringlinge müssen sterben
 ---
 
 
-Dieses Album ist das fünfte Studioalbum der britischen Gruppe für elektronische Tanzmusik The Prodigy. Das 2009 veröffentlichte Album war das erste, bei dem alle Bandmitglieder in den Produktionsprozess einbezogen wurden, und war ein kommerzieller Erfolg.
+Dieses Album ist das fünfte Studioalbum der britischen Gruppe für elektronische Tanzmusik The Prodigy. Das 2009 erschienene Album war das erste, bei dem alle Bandmitglieder in den Produktionsprozess einbezogen wurden, und war ein kommerzieller Erfolg.
 
 Enthält Hits wie „Invaders Must Die“, „Omen“, „Warrior’s Dance“ und „Take Me to the Hospital“.
 

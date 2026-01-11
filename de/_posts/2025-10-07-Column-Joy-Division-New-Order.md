@@ -22,7 +22,7 @@ Text: mmr | Thema: From Joy Division to New Order – Eine Geschichte über die 
 
 In den späten 1970er Jahren befand sich die Industriestadt Manchester inmitten von Verwüstung und Stagnation. Steigende Arbeitslosigkeit, soziale Unruhen und grauer Himmel. Unter ihnen verwandelte Joy Division mit anorganischen Beats und kalter Poesie die Verzweiflung junger Menschen in Klang. Ian Curtis‘ Stimme erklang als Symbol für den Schmerz und die Einsamkeit der Zeit und öffnete die Tür zu einer neuen Ära des Post-Punk.
 
-Der Tod von Curtis im Jahr 1980 setzte dieser Geschichte jedoch ein jähes Ende. Die verbleibenden Mitglieder entscheiden sich für eine Wiedergeburt aus ihrer Traurigkeit und treten in die Zukunft der elektronischen Musik ein. Die Geburt von New Order markierte den Beginn eines neuen Kapitels im Manchester-Sound, das sich über die Tragödie hinaus entwickelt hat.
+Der Tod von Curtis im Jahr 1980 setzte dieser Geschichte jedoch ein jähes Ende. Die verbleibenden Mitglieder entscheiden sich für eine Wiedergeburt aus ihrer Traurigkeit und treten in die Zukunft der elektronischen Musik ein. Die Geburt von New Order war der Beginn eines neuen Kapitels im Manchester-Sound, das sich über eine Tragödie hinaus entwickelt hatte.
 
 ---
 
@@ -42,13 +42,13 @@ color: #fff;
 ### Kapitel 1: Schatten von Manchester
 
 **„Embryonale Post-Punk-Bewegung“**
-Ende der 1970er Jahre befand sich Großbritannien mitten in einer wirtschaftlichen Rezession und einem industriellen Niedergang, und die Jugendkultur entwickelte sich in städtischen Gebieten eigenständig. Manchester war keine Ausnahme, und unter dem Rauch der Fabrik und dem grauen Himmel existierte Musik als Medium, um Verzweiflung und Hoffnung zugleich auszudrücken.
+Ende der 1970er Jahre befand sich Großbritannien mitten in einer wirtschaftlichen Rezession und einem industriellen Niedergang, und in städtischen Gebieten entwickelte sich die Jugendkultur eigenständig. Manchester war keine Ausnahme, und unter dem Rauch der Fabrik und dem grauen Himmel existierte Musik als Medium, um Verzweiflung und Hoffnung zugleich auszudrücken.
 
 **"Anbruch der Bandgründung"**
 1976 trafen sich Bernard Sumner, Peter Hook und Stephen Morris und gründeten Joy Division. Die frühen Mitglieder verbanden sich durch die Schule und die lokale Punkszene und spielten zunächst Coversongs, entwickelten sich aber schließlich zu eigenen Songs, die ihr Gefühl der Isolation und der Düsterkeit der Stadt widerspiegelten.
 
-**„Faden des Einflusses“**
-Krautrock von Kraftwerk und Neu!, die kalten, harten Klänge des Velvet Underground und die avantgardistischen Elemente von David Bowie und Roxy Music bildeten die Grundlage für den frühen Sound von Joy Division.
+**"Einflussfaden"**
+Kraftrock von Kraftwerk und Neu!, die kalten, harten Klänge von Velvet Underground und die avantgardistischen Elemente von David Bowie und Roxy Music bildeten die Grundlage für den frühen Sound von Joy Division.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9ryJB-FF_Jg?si=L5cecdtz45JglfbR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -57,13 +57,13 @@ Krautrock von Kraftwerk und Neu!, die kalten, harten Klänge des Velvet Undergro
 ### Kapitel 2: Despair of Sound – The World of Joy Division
 
 **"Interner Sound"**
-Die Texte von Ian Curtis schildern Selbstentfremdung, soziale Ängste und innere Dunkelheit. Lieder wie „Transmission“ und „She’s Lost Control“ sind Meisterwerke, die die Einsamkeit des Einzelnen mit der anorganischen Natur der Stadt überlagern.
+Die Texte von Ian Curtis schildern Selbstentfremdung, soziale Ängste und innere Dunkelheit. Lieder wie „Transmission“ und „She's Lost Control“ sind Meisterwerke, die die Einsamkeit des Einzelnen mit der anorganischen Natur der Stadt überlagern.
 
 **„Produktionsinnovation“**
 Produzent Martin Hannett nutzte Aufnahmetechniken, um einen räumlichen Klang zu erzielen, der sich von traditioneller Rockmusik unterschied. Der Hall am Schlagzeug und die dreidimensionale Platzierung des Basses waren wichtige Elemente, die die Kälte und Spannung des Sounds von Joy Division erzeugten.
 
 **„Die Magie der Live-Performance“**
-Die frühen Live-Shows von Joy Division überwältigten das Publikum mit ihrer gedämpften Beleuchtung und den einzigartigen Tanzbewegungen von Curtis. Die Bühne, die bei einem begrenzten Publikum legendär wurde, hatte großen Einfluss auf die spätere New-Wave-/Post-Punk-Generation.
+Die frühen Live-Shows von Joy Division mit ihrer gedämpften Beleuchtung und den einzigartigen Tanzbewegungen von Curtis überwältigten das Publikum. Der Bühnenauftritt, der bei einem begrenzten Publikum legendär wurde, hatte großen Einfluss auf die spätere New-Wave-/Post-Punk-Generation.
 
 Amazonで購入 → [Unknown Pleasures](https://amzn.to/4h2l8BW)
 
@@ -86,7 +86,7 @@ Amazonで購入 → [Closer](https://amzn.to/48mYLF8)
 
 ### Kapitel 4: Wiederaufbau des Vermächtnisses – Umwandlung in eine neue Ordnung
 
-**„Diejenigen, die zurückgelassen haben“**
+**„Die Zurückgebliebenen“**
 Nach Curtis‘ Tod lösten die verbliebenen Mitglieder die Band nicht auf und suchten stattdessen eine neue Richtung. Mit Bernard Sumner am Gesang entsteht eine elektronischere und tanzbarere Musikalität.
 
 **"Fusion aus Synthesizer und Tanz"**
@@ -120,7 +120,7 @@ Amazonで購入 → [Movement](https://amzn.to/4mXprzN)
 Mit Songs wie „Power, Corruption & Lies“, „Low-Life“ und „Technique“ vertieften sie ihre Fusion aus Rock, Synthesizer und Dance weiter. Sie experimentierten auf jedem Album mit unterschiedlichen Produktionstechniken und steigerten so ihre Resonanz in Clubs und im Radio.
 
 **„Fusion von Video/Design und Ton“**
-Das Kunstwerk von Peter Saville verbindet Musik und Visuals und etabliert die Markenidentität von New Order. Das Design wurde zu einem wichtigen Element, das den Inhalt des Albums symbolisch zum Ausdruck brachte.
+Das Kunstwerk von Peter Saville verbindet Musik und Visuals und etabliert die Markenidentität von New Order. Das Design wurde zu einem wichtigen Element, um den Inhalt des Albums symbolisch auszudrücken.
 
 **„Kooperation und Reibung zwischen Mitgliedern“**
 Die Rollenverteilung und die gegensätzlichen Meinungen zwischen Sumner, Hook, Morris und Gillian Gilbert erzeugen Spannungen innerhalb der Band, während sich die Musik weiterentwickelt. Reibung wurde auch zu einer treibenden Kraft für Kreativität.
@@ -150,7 +150,7 @@ Amazonで購入 → [Still](https://amzn.to/4mXpD1Z)
 Die BBC-Sessions und Demoaufnahmen umfassen viele berühmte Songs, die später nicht in Alben aufgenommen wurden. Die Ausgrabungen durch Fans gehen auch jetzt noch weiter.
 
 **„Live-Improvisation und Unfälle“**
-Auch Geräteprobleme und improvisierte Arrangements bei Live-Auftritten stärken die Ausdruckskraft der Band. Ihr legendärer Live-Auftritt sorgte bei den Fans für Gesprächsstoff.
+Auch Geräteprobleme und improvisierte Arrangements bei Live-Auftritten verstärken die Ausdruckskraft der Band. Ihr legendärer Live-Auftritt sorgte bei den Fans für Gesprächsstoff.
 
 **„Änderungen in der Ausstattung und Aufnahmetechnik“**
 Von Martin Hannetts Produktionstechniken bis zur Einführung von Synthesizern und Drum Machines war die Wahl der Ausrüstung eng mit Veränderungen in der Musikalität verbunden.
@@ -171,7 +171,7 @@ Mit anderen Worten: Im Schweigen von Joy Division keimte der Rhythmus von New Or
 
 Die Stadt Manchester war für junge Menschen ein Ort, an dem sie inmitten der wirtschaftlichen Verwüstung Ausdruck finden konnten.
 Musik hat die Emotionen der Zeit ehrlicher aufgezeichnet als Politik oder Religion.
-Und was dieses Geräusch unterstützte, war eine seltsame Temperaturverschmelzung, bei der Technologie den menschlichen Schmerz umhüllt.
+Was dieses Geräusch unterstützte, war eine seltsame Temperaturverschmelzung, bei der Technologie den menschlichen Schmerz umhüllt.
 Martin Hannetts Nachhall, Peter Savilles Design, Haçiendas Beleuchtung und Architektur –
 All diese Dinge bildeten zusammen einen Kulturraum namens Manchester Sound.
 

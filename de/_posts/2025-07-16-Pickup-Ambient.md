@@ -191,7 +191,7 @@ Veröffentlicht: 2004 (Etikett minimieren)
 
 Format: Vinyl
 
-Eigenschaften: Aus Irland, exzellentes Werk minimalistischer Ambient-Musik.
+Eigenschaften: Aus Irland, exzellentes Werk minimaler Ambient-Musik.
 
 #### Trackliste
 ```md

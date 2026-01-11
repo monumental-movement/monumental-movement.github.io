@@ -184,7 +184,7 @@ color: #fff;
 
 
 ## 2000er: Laptops und Globalisierung
-- **Hintergrund:** Noise, Electronica und Field Recordings verbreiten sich international. „Laptop-Performance“ bei Live-Auftritten ist mittlerweile alltäglich.
+- **Hintergrund:** Noise, Electronica und Field Recording verbreiteten sich international. „Laptop-Performance“ bei Live-Auftritten ist mittlerweile alltäglich.
 - **Ausrüstung:** Ableton Live, SuperCollider, Kontakt, Laptop.
 
 ### Meisterwerk

@@ -53,7 +53,7 @@ Er gründete außerdem ein Unterlabel namens Podium, das sich auf Techno-Kreativ
 
 ### 1.3 Internationale Aktivitäten
 
-Len Faki ist für seine langen DJ-Sets bekannt und während seiner Residency im Berghain ist er als Headliner und Key-Act in Clubs und Festivals auf der ganzen Welt aufgetreten.
+Len Faki ist für seine ausgedehnten DJ-Sets bekannt und während seiner Residency im Berghain ist er als Headliner und Key-Act in Clubs und Festivals auf der ganzen Welt aufgetreten.
 In den letzten Jahren haben wir auch Online-Vertriebssets und neue Albumprojekte (z. B. Fusion) entwickelt.
 Ihr Stil beeinflusst weiterhin die internationale Techno-Szene, indem er moderne Klänge vereint und gleichzeitig die Techno-Tradition bewahrt.
 
@@ -72,7 +72,7 @@ Wir nehmen Len Fakis Signature-Tracks und analysieren sie im Detail, einschließ
 
 #### Songstruktur und Rhythmus
 Ab dem Intro werden nach und nach Kicks und Hi-Hats hinzugefügt und der Song entwickelt sich zu einem Aufbau.
-Nach dem Drop treiben Tieftonkick und Bass den Boden an, während weißes Rauschen und Sirenen ein Gefühl der Spannung erzeugen.
+Nach dem Drop treiben Basskick und Bass den Boden an, während weißes Rauschen und Sirenen ein Gefühl der Spannung erzeugen.
 Dies ist eine typische Vereinskonfiguration, bei der das Spielfeld in der Pause sanfter wird und dann ein Gefühl der Aufregung aufbaut, während es sich darauf vorbereitet, wieder abzufallen.
 
 #### Akustische Eigenschaften (geschätzt)
@@ -138,7 +138,7 @@ Es wird verwendet, um den Groove in der Mitte eines Satzes aufrechtzuerhalten od
 
 #### Songstruktur und Rhythmus
 Es hat ein starkes melodisches Element, wobei Pads und Synthesizer allmählich mit dem Rhythmus im Intro verschmelzen.
-Nach dem Drop entwickeln sich Melodie und Beat schichtweise, und der Break beruhigt sich für eine Weile und bildet eine Brücke zum nächsten Aufbau.
+Nach dem Drop entwickeln sich Melodie und Beat in mehreren Schichten, und der Break beruhigt sich für eine Weile und schlägt eine Brücke zum nächsten Aufbau.
 
 #### Akustische Eigenschaften (geschätzt)
 - Niedrig: Stabilisieren Sie den Boden mit Tritten und Bässen
@@ -164,7 +164,7 @@ Klare Build-Break-Drop-Struktur, perfekt für Festivals und Peak-Sets.
 #### Akustische Eigenschaften (geschätzt)
 - Tief: Starker Subbass und Kick
 - Mitteltonbereich: Mechanischer Synthesizer, rhythmische Muster
-- Hochfrequenz: Spannung durch Effekte und Lärm verlängern
+- Hochfrequenz: Spannung durch Effekte und Geräusche verlängern
 
 #### Rolle im DJ-Set
 Es wird zu Spitzenzeiten aufgestellt, um das Publikum zu begeistern und eine futuristische und kraftvolle Darbietung zu bieten.

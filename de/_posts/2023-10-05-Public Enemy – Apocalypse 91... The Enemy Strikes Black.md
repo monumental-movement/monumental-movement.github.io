@@ -9,7 +9,7 @@ permalink: /de/public-enemy-apocalypse-91-the-enemy-strikes-black/
 tags:
 - Hiphop
 - Classic
-title: Public Enemy – Apokalypse 91... Der Feind schlägt schwarz
+title: Staatsfeind – Apokalypse 91... Der Feind schlägt schwarz
 ---
 
 

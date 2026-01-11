@@ -14,7 +14,7 @@ title: VA – Das ist Eurobeat Vol. 22
 ---
 
 
-Der 22. Teil der Italo-Disco/Hi-NRG/Eurobeat-Compilation-Reihe, veröffentlicht 1990 auf dem Alfa-Label. Illustration von Shigenari Onishi.
+Der 22. Teil der Italo-Disco/Hi-NRG/Eurobeat-Compilation-Reihe, veröffentlicht 1990 auf dem Label Alfa. Illustration von Shigenari Onishi.
 
 #### Trackliste
 ```md

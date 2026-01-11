@@ -62,7 +62,7 @@ Durch die Kombination dieser Eigenschaften entstand ein einzigartiges Klangbild,
 ## 2. Bedeutende Künstler und ihre Rollen
 ### ● Bohren & der Club of Gore (1992–)
 Gegründet in Nordrhein-Westfalen, Deutschland.
-Obwohl es mehrere Mitgliederwechsel gab, sind die folgenden Punkte konsistent geblieben.
+Obwohl es mehrere Mitgliederwechsel gab, sind die folgenden Punkte gleich geblieben.
 
 - Ursprünglich von einer Slow-Doom-/Hardcore-Band
 - In den 1990er Jahren wandte er sich dem Ansatz zu, „Jazz in einem extrem langsamen Tempo zu spielen“.
@@ -101,7 +101,7 @@ Es gab auch ein verwandtes Projekt, **The Mount Fuji Doomjazz Corporation**, das
 
 ---
 
-Der Name geht auf die Videoarbeit von David Lynch zurück und wirbt für einen stärker auf Drohnen ausgerichteten Ansatz.
+Der Name geht auf David Lynchs Videoarbeit zurück und wirbt für einen stärker auf Drohnen ausgerichteten Ansatz.
 Mit Baritonsaxophon und elektronischer Bearbeitung schafft er einen akustischen Raum, der sich anfühlt, als wäre er in Nebel gehüllt.
 
 ---
@@ -113,7 +113,7 @@ Es nehmen Musiker aus Finnland, Polen, Russland, den Vereinigten Staaten und and
 ---
 
 ## 3. Musikalische Struktur des Dark Jazz
-Dark Jazz klingt wie „ruhiger, dunkler Jazz“, ist aber tatsächlich eine Kombination mehrerer musikalischer Eigenschaften.
+Dark Jazz klingt wie „ruhiger, dunkler Jazz“, ist aber tatsächlich eine Kombination mehrerer musikalischer Merkmale.
 
 ### ● 1. Tempo: Extrem langsam, erinnert an Doom Metal
 - BPM 30~60
@@ -152,7 +152,7 @@ Das Klangbild des Dark Jazz lässt viel „Leerraum“, sodass die Videoseite fr
 Diese Szenen und dunkler Jazz passen sehr gut zusammen.
 
 ### ● Grund 3: Struktur der Filmmusik
-Die Lieder von Bohren & der Club of Gore legen den Schwerpunkt eher auf eine „anhaltende Atmosphäre“ als auf klare Melodien, wodurch sie sich natürlich in filmische Kontexte einfügen.
+Die Lieder von Bohren & der Club of Gore legen den Schwerpunkt eher auf eine „beständige Atmosphäre“ als auf klare Melodien, wodurch sie sich natürlich in filmische Kontexte einfügen.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1vxl0Yd7TOY?si=_cIKvS-nnEUq7wOO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -218,7 +218,7 @@ flowchart TD
 
 ## 8. Aktueller Stand des Dark Jazz
 Durch lange Mixe auf YouTube und „Night View + Dark Jazz“-Videos von Zuschauern,
-Seit den 2020er Jahren kommt es vor allem bei jungen Hörern zu einer Neubewertung der Musik.
+Seit den 2020er Jahren kommt es zu einer Aufarbeitung bei jungen Hörern.
 
 - „Leise Musik“ erfreut sich neben dem Trend des Lo-Fi-Hip Hop zunehmender Beliebtheit
 - Wird als Hintergrundmusik für Videoproduktionen, VJ und unabhängige Filme verwendet

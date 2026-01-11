@@ -21,7 +21,7 @@ title: '[Kolumne] Electronic World Fusion: Der Punkt, an dem sich elektronische 
 
 Text: mmr｜Thema: Von den Ursprüngen von Electronic World Fusion bis zu seinen technischen Aspekten, repräsentativen Werken, regionalen Besonderheiten und zeitgenössischer Bedeutung
 
-In der zweiten Hälfte des 20. Jahrhunderts entwickelte sich die elektronische Musik rund um Synthesizer und Sampler, doch gleichzeitig begann auch traditionelle Musik aus aller Welt Einzug in die westliche Popkultur zu halten. Electronic World Fusion ist ein Bereich, in dem die beiden wirklich miteinander verbunden sind, und es ist ein seltenes Genre, in dem sich Geschichte, Kultur und Ideologie von Technologie und Volksmusik überschneiden.
+In der zweiten Hälfte des 20. Jahrhunderts entwickelte sich die elektronische Musik rund um Synthesizer und Sampler, doch gleichzeitig begann auch traditionelle Musik aus aller Welt Einzug in die westliche Popkultur zu halten. Electronic World Fusion ist ein Bereich, in dem die beiden vollständig miteinander verbunden sind, und es ist ein seltenes Genre, in dem sich Geschichte, Kultur und Ideologie von Technologie und Volksmusik überschneiden.
 
 Zu den repräsentativen Künstlern zählen **Nitin Sawhney**, der indische klassische Musik und soziale Themen einbezieht, und **Thievery Corporation**, der Downtempo mit verschiedenen musikalischen Elementen aus Lateinamerika, dem Nahen Osten und Asien verbindet.
 
@@ -57,7 +57,7 @@ In den 1980er und 1990er Jahren wurden mit der Verbreitung von Samplern Quellen 
 
 ### 2-1 Nitin Sawhney: Darstellung einer multikulturellen Gesellschaft durch Klang
 
-Britischer Komponist und Multiinstrumentalist. Er ist bekannt für seine Werke, die indische klassische Musik, elektronische Akustik, Streicher und Jazz verbinden.
+Britischer Komponist und Multiinstrumentalist. Er ist bekannt für seine Werke, die klassische indische Musik, elektronische Akustik, Streicher und Jazz verbinden.
 
 #### Musikalische Features
 
@@ -197,11 +197,11 @@ Es gibt eine wachsende Bewegung, Elemente der Weltmusik in die Clubmusik zu inte
 
 ### 7-2 Vererbung an Ambient
 
-In Ambient-Werken werden häufig Drohnen von Volksinstrumenten, vielschichtige anhaltende Klänge und Aufnahmen natürlicher Umgebungen verwendet.
+Drones von Volksinstrumenten, vielschichtige anhaltende Klänge und Aufnahmen natürlicher Umgebungen werden häufig in Ambient-Werke integriert.
 
 ### 7-3 Umgang mit regionaler Musik im KI-Zeitalter
 
-In der heutigen Zeit schreitet die Analyse und Generierung von Schallquellen mithilfe von KI-Technologie voran, aber Fragen des kulturellen Hintergrunds und der Rechte sind immer ein Diskussionsthema.
+In der heutigen Zeit schreitet die Analyse und Erzeugung von Schallquellen mithilfe von KI-Technologie voran, Fragen des kulturellen Hintergrunds und der Rechte werden jedoch ständig diskutiert.
 
 ---
 

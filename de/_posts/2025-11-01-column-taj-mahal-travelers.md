@@ -82,7 +82,7 @@ Er verwirklichte die Philosophie, dass „der Ort selbst zum Instrument wird“.
 
 ---
 
-## V. Reisen durch Klang: von Indien nach Europa (1971–1972)
+## V. Reisen durch Klang: Von Indien nach Europa (1971–1972)
 
 1971 bricht die Taj Mahal Tour Group zu einer Europareise auf.
 Ihre Reise war nicht nur eine Tour, sondern eine „Klangpilgerreise“.
@@ -114,12 +114,12 @@ Die Improvisationsaufführungen an verschiedenen Orten reichten von lokalen Kult
 
 ## VI. Dekonstruktion und Erweiterung von Klang: das Ritual der Improvisation
 
-Die Aufführungen der Taj Mahal Tourists haben nicht die üblichen „Lieder“ oder „Strukturen“.
+Die Aufführungen der Taj Mahal Tourists haben nicht die übliche „Lieder“ oder „Struktur“.
 Vielmehr ähnelt es eher dem Vorgang, Schall in die Umgebung auszusenden und auf eine zufällige Resonanz zu warten.
 
 Sie nutzen Beschallungsanlagen und Mikrofone kreativ,
 Der gesamte Raum wurde als eine Art „Resonator“ behandelt.
-Kosugi, der Anführer, befestigt ein Kontaktmikrofon an der Geige und manipuliert beim Spielen die Rückkopplung und Funkgeräusche.
+Kosugi, der Anführer, befestigt ein Kontaktmikrofon an der Geige und manipuliert beim Spielen die Rückkopplung und die Funkgeräusche.
 Wir haben ein Ökosystem geschaffen, in dem Schall „vorkommt und verschwindet“.
 
 ---
@@ -132,7 +132,7 @@ Dies ist eine Live-Aufnahme einer Improvisationsaufführung rund um das Taj Maha
 Es wird hoch gelobt als „Klanglandschaft“, die Zeit, Raum und Klang perfekt vereint.
 
 Auf dem Album gibt es weder Rhythmus noch Melodie.
-Stattdessen kreuzen sich sanft Windgeräusche, elektronische Klänge, Stimmen und die Resonanz der Saiten,
+Stattdessen kreuzen sich der Klang von Bläsern, elektronischen Klängen, Stimmen und der Resonanz von Saiten sanft,
 Es stellt ein Erlebnis dar, das den Zuhörer einlädt, „in den Klang hinein“ zu gehen.
 
 ---
@@ -147,7 +147,7 @@ Er beeinflusste auch Brian Eno und Robert Ashley.
 
 ---
 
-## IX. Aktivitäten und Auswertung in späteren Jahren
+## IX. Spätere Aktivitäten und Auswertung
 
 Seit den 1980er Jahren ist Kosugi Musikdirektor der Merce Cunningham Dance Company.
 Während er die Philosophie von John Cage übernahm, vertiefte er die Integration von Tanz und Klang.
@@ -178,7 +178,7 @@ Das ist die wichtigste Botschaft, die Kosugi uns hinterlassen hat.
 | 1972 | „Taj Mahal Travelers – 15. Juli 1972“ Ankündigung |
 | 1975 | Solowerk „Catch-Wave“ veröffentlicht |
 | 1977–90er | Musikdirektor der Merce Cunningham Dance Company |
-| 2018 | Verstorben. Er verstarb im Alter von 80 Jahren. |
+| 2018 | Verstorben. Im Alter von 80 Jahren verstorben. |
 
 ---
 

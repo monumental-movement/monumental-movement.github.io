@@ -46,9 +46,9 @@ color: #fff;
 
 ### 1.1 Entstehung und erste Stufe
 
-1962 gründete Toots Hibbert mit Freddie McGregor und Raleigh Gordon die Maytals. Ihre erste Bühne veranstalteten sie in einem kleinen Club in Kingston namens Chocomo Lounge. Trotz des einfachen Aufbaus mit nur einem Mikrofon, einer Gitarre, einem Bass und einem Schlagzeug dominierte Toots‘ Stimme den gesamten Saal.
+1962 gründete Toots Hibbert mit Freddie McGregor und Raleigh Gordon die Maytals. Ihre erste Bühne veranstalteten sie in einem kleinen Club in Kingston namens Chocomo Lounge. Trotz des einfachen Aufbaus mit nur einem Mikrofon, einer Gitarre, einem Bass und einem Schlagzeug dominierte Toots' Stimme den gesamten Saal.
 
-Das Publikum beteiligt sich durch Klatschen und Tanzen, und Gelächter hallt durch die spontanen Gespräche zwischen den Liedern. Während der Aufführung von „54-46 Was My Number“ hielten die Leute auf dem Boden Händchen und tanzten im Kreis. Als Toots „Schritt nach rechts! Schritt nach links!“ ruft, reagiert das Publikum sofort und die Aufführung wird eins mit dem Publikum.
+Das Publikum beteiligt sich durch Klatschen und Tanzen, und Gelächter hallt durch die spontanen Gespräche zwischen den Liedern. Während der Aufführung von „54-46 Was My Number“ hielten die Menschen auf dem Boden Händchen und tanzten im Kreis. Als Toots „Schritt nach rechts! Schritt nach links!“ ruft, reagiert das Publikum sofort und die Aufführung wird eins mit dem Publikum.
 
 **Setlist-Beispiel (erstes Live)**
 
@@ -97,14 +97,14 @@ Bei Live-Auftritten lud Toots das Publikum manchmal zum Tanzen ein und verwandel
 
 1975, mit der Veröffentlichung des Albums „Funky Kingston“, tourten sie durch New York. Lieder wie „Pressure Drop“, „Monkey Man“ und „Funky Kingston“ wurden gespielt und das Publikum tanzte und sang zu Toots‘ Rufen.
 
-**Merkmale der Live-Performance**:
+**Merkmale der Live-Aufführung**:
 
 * Durch die Einführung eines Soundsystems sind tiefe Bässe im gesamten Raum zu hören.
 * Toots' spontaner Vortrag ermöglicht es dem Publikum, eins mit der Aufführung zu werden.
 
 * Die Lichteffekte betonen die Atmosphäre des Songs und sind optisch überwältigend.
 
-Live-Auftritte in dieser Zeit zeigten nicht nur Fortschritte in Ton und Produktion, sondern dienten auch als wichtiger Ort für die Etablierung der Popularität von Reggae in Amerika.
+Die Live-Auftritte in dieser Zeit zeigten nicht nur die Entwicklung von Sound und Produktion, sondern dienten auch als wichtiger Ort für die Etablierung der Popularität von Reggae in Amerika.
 
 ---
 
@@ -119,7 +119,7 @@ In den 1980er Jahren waren Toots and the Maytals Headliner auf Jamaikas größte
 * Die Basslinie von „54-46 Was My Number“ lässt das Publikum erzittern.
 * Toots schaut sich um, improvisiert Liedtexte und interagiert mit dem Publikum.
 
-* Tanzaufrufe und Witze, die das Publikum einbeziehen, sind zwischen den Liedern eingeklemmt und verstärken so das Zusammengehörigkeitsgefühl während der Live-Aufführung.
+* Tanzaufrufe und Witze, die das Publikum einbeziehen, sind zwischen den Liedern eingeklemmt, was das Zusammengehörigkeitsgefühl während der Live-Aufführung verstärkt.
 
 ---
 
@@ -139,8 +139,8 @@ Die Live-Aufnahme wurde als „Live at Madison Square Garden“ veröffentlicht 
 
 **Live-Darstellung**:
 
-* Das Publikum bildet einen Kreis und hält sich beim Intro von „Do the Reggay“ an den Händen.
-* Auch wenn Toots' Stimme schwächer geworden ist, bleibt seine Ausdruckskraft stark und das Publikum singt den Text mit.
+* Das Publikum bildet einen Kreis und hält sich beim Intro zu „Do the Reggay“ an den Händen.
+* Auch wenn Toots‘ Stimme schwächer geworden ist, bleibt seine Ausdruckskraft stark und das Publikum singt den Text mit.
 
 * Während der MC zwischen den Songs kann er improvisieren, indem er die Songreihenfolge anpasst und dabei die Reaktion des Publikums beobachtet.
 
@@ -148,7 +148,7 @@ Die Live-Aufnahme wurde als „Live at Madison Square Garden“ veröffentlicht 
 
 ### 4.2 50-jähriges Jubiläum Live (2012)
 
-Ungefähr 10.000 Menschen versammelten sich zum 50-jährigen Jubiläumskonzert im Nationalstadion von Kingston. Das gesamte Publikum sang bei Toots' Live-Auftritt mit und die Grenzen zwischen Bühne und Publikum verschwanden.
+Ungefähr 10.000 Menschen versammelten sich zum 50-jährigen Jubiläumskonzert im Nationalstadion von Kingston. Das gesamte Publikum sang bei Toots‘ Live-Auftritt mit und die Grenzen zwischen Bühne und Publikum verschwanden.
 
 **Detaillierte Beschreibung**:
 
@@ -183,7 +183,7 @@ Durch Live-Auftritte in Europa und Amerika verbreitete sich Reggae auf der ganze
 
 | Jahr | Veranstaltungen | Live-Episoden | Kulturelle Bedeutung |
 | ---- | -------------------- | ------------- | --------------- |
-| 1962 | Bildung | Kingston „Chocomo Lounge“ erste Live-Show | Call & Response-Modell |
+| 1962 | Bildung | Kingston „Chocomo Lounge“ erste Live-Show | Call & Response-Prototyp |
 | 1966 | „Do the Reggay“ veröffentlicht | Publikum tanzt im Kreis | Geburt des Wortes „Reggae“ |
 | 1968 | Nationaler Festivalauftritt | Mehrere tausend Menschen | Visualisierung der Entwicklung von Musikgenres |
 | 1970 | Erste Europatournee | Londoner „Carnival Club“ | Pionier der weltweiten Verbreitung |

@@ -49,7 +49,7 @@ Obwohl es keine klare einheitliche Definition gibt, sind die folgenden Punkte ge
 - „Die Leistung selbst“ unterliegt ebenfalls der Wertschätzung.
 - Obwohl es sich um eine Generation vor der Live-Codierung handelt, liegt der Schwerpunkt auf der elektrischen Bedienung
 
-Obwohl EAI oft im Zusammenhang mit improvisierter Musik erwähnt wird, ist es angemessener, es als „praktischen Bereich“ zu bezeichnen und nicht als einzelnes Genre, da es mehrere Bereiche wie Akustiktechnologie, Elektrotechnik und Geräuschkultur umfasst.
+Obwohl EAI oft im Zusammenhang mit improvisierter Musik erwähnt wird, ist es angemessener, es als „praktischen Bereich“ und nicht als einzelnes Genre zu bezeichnen, da es mehrere Bereiche wie Akustiktechnologie, Elektrotechnik und Geräuschkultur umfasst.
 
 ---
 
@@ -65,7 +65,7 @@ Die von Eddie Prévost und Keith Rowe demonstrierte „Befreiung nichtinstrument
 
 ### 2-3. Herkunft ③: Noise/alternativer elektronischer Sound der 1980er-1990er Jahre
 Japanischer Lärm (Merzbow, Incapacitants usw.) enthüllte die „Materialität des Klangs“ durch die ultimative Suche nach akustischen Materialien.
-Andererseits führten Otomo Yoshihide und Sachiko M minimale und raffinierte elektronische Klänge (Sinuswellen) in ihre Improvisationen ein und schufen damit die Grundlagen von EAI: „Reduzierung der Anzahl von Klängen“ und „Betonung des Raums“.
+Andererseits führten Otomo Yoshihide und Sachiko M minimale und raffinierte elektronische Klänge (Sinuswellen) in ihre Improvisationen ein und schufen so die Grundlagen von EAI: „Reduzierung der Anzahl von Klängen“ und „Betonung des Raums“.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-N2JpUSOGQw?si=2iITe93bkSmd8sOW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -106,7 +106,7 @@ Merkmale:
 - Selbstgebaute/modifizierte Synthesizerschaltungen, Signalgeneratoren usw.
 - Spielt „steuerbare elektronische Signale“ anstelle von Rauschen
 - Behandeln Sie elektronische Klänge wie Jazzphrasen
-- Verfolgung des Zusammenspiels zwischen körperlichen Bewegungen und elektronischen Reaktionen
+- Verfolgung der Übereinstimmung zwischen körperlichen Bewegungen und elektronischen Reaktionen
 
 Toral ist einzigartig unter EAI in seiner Gründlichkeit beim „Handspielen elektronischer Klänge“ und ist ein repräsentatives Beispiel für die Improvisationsmöglichkeiten des modularen Betriebs.
 
@@ -117,7 +117,7 @@ Toral ist einzigartig unter EAI in seiner Gründlichkeit beim „Handspielen ele
 # 3-3. Otomo Yoshihide / Sachiko M (Japan)
 Die asiatischen Wurzeln von EAI entstanden in einem Bereich, der sich mit der „Onkyoha“-Bewegung der späten 1990er Jahre überschnitt.
 
-- Sachiko M stellt extremen Minimalismus mithilfe des internen Testtons (Sinuswelle) des Samplers her.
+- Sachiko M etabliert extremen Minimalismus mithilfe des internen Testtons (Sinuswelle) des Samplers.
 - Otomo Yoshihide entwickelt akustische Improvisationen mit Plattenspielern, Gitarren und Samplern
 - Filament (Otomo x Sachiko M) ist eine wichtige Einheit im EAI-Kontext
 

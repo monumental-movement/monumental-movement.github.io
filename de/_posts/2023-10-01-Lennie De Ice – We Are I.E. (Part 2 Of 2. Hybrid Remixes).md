@@ -24,7 +24,7 @@ B1. We Are I.E. (Hybrid's Lite Mix)
 B2. We Are I.E. (Hybrid's Dark Mix)
 ```
 
-„Wir sind I.E.“ ist ein Lied des britischen Breakbeat- und Hardcore-Produzenten Lennie De Ice (richtiger Name Lenworth Green). Hybrid-Remixe des Dschungelklassikers.
+„Wir sind I.E.“ ist ein Lied des britischen Breakbeat- und Hardcore-Produzenten Lennie De Ice (richtiger Name Lenworth Green). Hybrid remixt den Dschungelklassiker.
 
 [メルカリで購入](https://jp.mercari.com/item/m42932508768?afid=6142608987){: .button1}
 

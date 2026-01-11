@@ -18,7 +18,7 @@ title: Erdbeerfeld – Warten Sie schon lange?
 
 Erdbeerfeld ist ein Duo bestehend aus der Klangkünstlerin Susanne Feld und dem Sampling-Künstler Sascha Wild.
 
-„Warten Sie schon lange?“ ist ein Electro/Synth-Pop/Tech House-Track, der 2005 auf dem deutschen Label Hal 9000 veröffentlicht wurde. Der Vertrieb erfolgt durch Kompakt.
+„Warten Sie schon lange?“ ist ein Electro/Synth-Pop/Tech-House-Track, der 2005 vom deutschen Label Hal 9000 veröffentlicht wurde. Der Vertrieb erfolgt durch Kompakt.
 
 A2 ist ein Remix von Hal 9000 (Falk Meinunger), einem deutschen Elektromusiker, der in den 90er Jahren in der Frankfurter Clubszene aktiv war, und der DJ/Produzentin Sylvie Marks.
 

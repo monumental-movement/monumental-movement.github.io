@@ -214,7 +214,7 @@ Psy-Trance entstand aus der Schnittstelle von Hippie-Kultur und Technologie, ver
 
 Wir haben mit analogem Equipment angefangen, haben die Digitalisierung durchlaufen und befinden uns nun in der Phase der Fusion, die über Genres hinausgeht. **Gore-Spiritualität der 1990er-Jahre**, **High-Tech-Explosivität der 2000er-Jahre**, **Digital-Crossover der 2010er-Jahre** und **genreübergreifende Weiterentwicklung der 2020er-Jahre**. Jede Epoche schuf ihre eigene Ästhetik.
 
-Was diesem Fluss gemeinsam ist, ist „Bewusstseinserweiterung“ und „gemeinsames Erleben“. Obwohl sich die Bühne von Strandpartys über riesige Festivals bis hin zu Online-Streaming verändert hat, bleibt der Wunsch nach psychedelischen Erlebnissen derselbe.
+Was diesem Fluss gemeinsam ist, ist „Bewusstseinserweiterung“ und „gemeinsames Erleben“. Obwohl sich die Bühne von Strandpartys über riesige Festivals bis hin zum Online-Streaming verändert hat, bleibt der Wunsch nach psychedelischen Erlebnissen derselbe.
 
 In Zukunft können wir mit weiteren Entwicklungen rechnen, die über die Dimensionen hinausgehen, wie zum Beispiel Sounddesign mittels KI, psychedelische Erlebnisse in Verbindung mit VR und AR sowie Live-Auftritte, die Eurorack modular und digital verbinden.
 

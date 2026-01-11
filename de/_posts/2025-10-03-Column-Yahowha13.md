@@ -61,7 +61,7 @@ Journalismus und Sachartikel haben diese Doppelnatur untersucht, mit Anekdoten �
 Während die Gemeinde aktiv war, gab es Aufzeichnungen zufolge Streitigkeiten, die typisch für Sektenoperationen sind, wie zum Beispiel „Herausgabe von persönlichem Eigentum“, „Entfernung von Verwandten“ und „Erlaubnis, junge Mitglieder zu heiraten“.
 
 
-Am 25. August 1975 kam er bei einem Unfall ums Leben, als er auf Hawaii seinen ersten Drachenflug versuchte (er soll abgestürzt sein und etwa 9 Stunden später gestorben sein). Dieser Unfall wurde praktisch zu einem Ereignis, das das „Ende“ von Yahooha13 symbolisierte.
+Am 25. August 1975 kam er bei einem Unfall ums Leben, als er auf Hawaii seinen ersten Drachenflug versuchte (er stürzte ab und starb etwa 9 Stunden später). Dieser Unfall wurde praktisch zu einem Ereignis, das das „Ende“ von Yahooha13 symbolisierte.
 
 
 Danach zerstreuten sich die Mitglieder der Gemeinde, was jedoch durch Tonarchive und Folklore neu bewertet wurde. Insbesondere die 13 CDs umfassende Box „God and Hair“ (Yahowha Collection), die 1998 vom japanischen Label Captain Trip veröffentlicht wurde, deckte die Klangquellen von Yahowha13/Source Family umfassend ab und wurde zu einer Gelegenheit für die Wiederbelebung der Legende.
@@ -73,10 +73,10 @@ Danach zerstreuten sich die Mitglieder der Gemeinde, was jedoch durch Tonarchive
 
 #### Konstituierende Mitglieder und Namensgeschichte
 
-Kernbesetzung: Hauptsächlich Djin Aquarian (Gitarre), Octavius ​​​​Aquarian (Schlagzeug) und Sunflower Aquarian (Bass), zusammen mit anderen Musikern, die an den „Aquarian Nachnamen“ glauben, wie Lovely, Hom, Rhythm, Pythias, Aquarian.
+Kernbesetzung: Hauptsächlich Djin Aquarian (Gitarre), Octavius ​​​​Aquarian (Schlagzeug) und Sunflower Aquarian (Bass), zusammen mit anderen Musikern mit Aquarian-Nachnamen wie Lovely, Hom, Rhythm, Pythias und Aquarian.
 
 
-Ursprünglich unter dem Namen „Father Yod & The Spirit of ’76“ veröffentlicht. Danach wurden mit einigen Schwankungen Schreibweisen wie „Ya Ho Wa 13 / Yahowha13 / YaHoWha13 / Yahowa 13“ verwendet.
+Ursprünglich unter dem Namen „Father Yod & The Spirit of ’76“ veröffentlicht. Danach wurde mit einigen Schwankungen die Notation wie „Ya Ho Wa 13 / Yahowha13 / YaHoWha13 / Yahowa 13“ verwendet.
 
 
 Es gab auch eine Zeit, in der sie in Bands unter verschiedenen Namen wie „Savage Sons of Ya Ho Wa“, „Fire, Water, Air“ und „Yodship“ aktiv waren.
@@ -154,7 +154,7 @@ Im Folgenden finden Sie eine Liste der wichtigsten Werke im Zusammenhang mit Yah
 
 
 | Jahr | Albumname | Erklärung | Link |
-| ---------- | ------------------------------------ | ------------------------------------- | ------------------------------------------------------------- |
+| ---------- | ------------------------------------ | ------------------------------------- | ---------------------------------------------------------------------------- |
 | 1973       | *Kohoutek*                           | Spirit of ’76 名義の最初期録音、実験性と荒さを特徴とする | [Amazon](https://amzn.to/4ny1yQf)                   |
 | 1974       | *Contraction*                        | 音響実験深化、初期 YaHoWa 期の過渡期              | [Amazon](https://amzn.to/4nW1868)                |
 | 1974 | *Erweiterung* | Enthält viele konzeptionelle Improvisationsfragmente | - |
@@ -238,7 +238,7 @@ Es wird argumentiert, dass seine Orientierung an Improvisation, Räumlichkeit un
 
 In Bereichen wie Kommunalkultur, Kultbewegungen und Outsider-Musikforschung ist die Existenz von Yahowha13/Source Family zu einem typischen Beispiel und Forschungsgegenstand geworden.
 
-Andererseits beinhaltet es auch einen kontroversen Ansatz, der ethische und historische Kritik an den Verdiensten und Fehlern von Gläubigen und Musikern, der Fragmentierung von Aufzeichnungen sowie Anekdoten und Legenden beinhaltet, deren Authentizität unbekannt ist.
+Andererseits umfasst es auch kontroverse Themen wie ethische und historische Kritik an den Verdiensten und Verdiensten von Gläubigen und Musikern, die Fragmentierung von Aufzeichnungen sowie Anekdoten und Legenden, deren Authentizität unbekannt ist.
 
 ---
 
@@ -319,7 +319,7 @@ Verweise auf das Archetyp „Reise/Reinigung/Elemente (Feuer/Wasser/Luft/Erde)�
 Doktrinäre/rituelle Phrasen (Wörter, die durch redigierte Titelnamen wie „Mann, der Messias“ gekennzeichnet sind) – Wörter, die als Erklärung eines Führers improvisiert und geschichtet sind.
 
 
-Analyse: Anstatt die Texte einfach nur als „Lyrik = Übertragung von Bedeutung“ zu lesen, ist es am nützlichsten, sie wie folgt zu lesen: „(1) Die Klänge selbst sind Rituale / (2) Worte sind suggestive und poetische Auslöser, die ein unmittelbares Gemeinschaftserlebnis erzeugen.“ Mit anderen Worten, die partizipative religiöse Führung durch „Klang/Wiederholung“ ist der Kern des Albums.
+Analyse: Anstatt die Texte einfach nur als „Lyrik = Bedeutungsübertragung“ zu lesen, ist es am nützlichsten, sie wie folgt zu lesen: „(1) Der Klang selbst ist ein Ritual / (2) Worte sind suggestive und poetische Auslöser, die vor Ort ein Gemeinschaftserlebnis erzeugen.“ Mit anderen Worten: Die partizipative religiöse Führung durch „Klang/Wiederholung“ ist der Kern des Albums.
 
 ---
 
@@ -329,12 +329,12 @@ Analyse: Anstatt die Texte einfach nur als „Lyrik = Übertragung von Bedeutung
 
 - **Vater Yod (James Edward Baker)**
 
-Ein religiöser Führer und das „Gesicht“ der Band. Er betreibt das Naturkostrestaurant The Source, leitet eine Kommune und wirkt bei Aufnahmen mit Gesang, Gesängen und Pauken mit. Er soll 1975 (25. August 1975) bei einem Drachenfliegerunfall auf Hawaii ums Leben gekommen sein.
+Ein religiöser Führer und das „Gesicht“ der Band. Er betreibt das Naturkostrestaurant The Source, leitet eine Kommune und wirkt bei Aufnahmen mit Gesang, Gesängen und Pauken mit. Es wird angenommen, dass er 1975 (25. August 1975) bei einem Drachenfliegerunfall auf Hawaii ums Leben kam.
 
 
 - **Djin Aquarian (Gitarre)**
 
-Das Hauptmitglied, das die „Improvisationsgitarre“ der Band spielte. In späteren Jahren arbeitete er weiterhin alleine/zusammen. In Interviews und Archiven wird er oft als zentrale Figur der damaligen Zeit bezeichnet.
+Das Hauptmitglied, das die „Improvisationsgitarre“ der Band spielte. In späteren Jahren arbeitete er weiterhin alleine/zusammen. In Interviews und Archiven wird er oft als zentrale Figur dieser Zeit bezeichnet.
 
 
 - **Sonnenblume (Patrick Sunflower Aquarian, Basis)**
@@ -354,7 +354,7 @@ Archiv/Herausgeber/Aufzeichner von Source Family. Sein Buch „The Source: The U
 
 - **Sky Saxon (aus The Seeds)**
 
-Er ist dafür bekannt, eine Zeit lang Teil der Source Family zu sein und an den Aufnahme-/Neuveröffentlichungsprojekten von Ya Ho Wha beteiligt zu sein (einschließlich der Japan-Box von 1998).
+Er ist dafür bekannt, dass er eine Zeit lang Teil der Source Family war und an den Aufnahme-/Neuveröffentlichungsprojekten von Ya Ho Wha beteiligt war (einschließlich der Japan-Box von 1998).
 
 
 ---
@@ -379,7 +379,7 @@ Bei Neuauflagen variiert der Grad der Bearbeitung der Tonquelle je nach Verlag u
 
 ---
 
-### Hör-Highlights und empfohlene Hörreihenfolge (für Anfänger → Fortgeschrittene → Forscher)
+### Highlights und empfohlene Hörreihenfolge (Anfänger → Mittelstufe → Forscher)
 
 **Repräsentatives Lied/Repräsentatives Board (Einführung)**: Gehen Sie zunächst einmal „Penetration: An Aquarian Symphony“ durch.
 
@@ -458,7 +458,7 @@ Der Klang „Ya Ho Wha“ selbst ist ein heiliges Mantra der Quellfamilie, ein A
 
 **Bewertungstendenzen**: Es galt als „nah an der europäischen Avantgarde- und Improvisationsmusik“ und es wurde Wert auf musikalische Reinheit gelegt.
 
-→ Es wird oft eher als „akustisches Experiment“ denn als religiöses Thema gesehen.
+→ Es wird oft eher als „akustisches Experiment“ denn als religiöses Thema angesehen.
 
 
 ---
@@ -512,7 +512,7 @@ Mitglied Octavius ​​​​bezeugt: „Er ließ uns spielen, aber gleichzeiti
 
 #### Gemeinschaftsleben und Musik
 
-Die Source-Familie lebte zusammen in einer Hollywood-Villa namens The Father House, wo sie täglich Meditation, Vegetarismus, Yoga und Gruppenaktivitäten praktizierte.
+Die Source-Familie lebte zusammen in einem Hollywood-Herrenhaus namens The Father House, wo sie täglich Meditation, Vegetarismus, Yoga und Gruppenaktivitäten praktizierte.
 
 Musik machen war eine „Verlängerung des Alltagslebens“ und sein Wohnzimmer und Keller wurden zu seinem Studio.
 
@@ -563,4 +563,4 @@ Die Musik von Yahowha 13 und Father Yod war mehr als nur psychedelischer Rock, s
 
 Seine Aufnahmen, wie die Alben „Penetration: An Aquarian Symphony“ und „I’m Gonna Take You Home“, dokumentieren eine Verschmelzung von religiösem Ritual und psychedelischer Improvisation, die auch für moderne Hörer noch immer eine eindrucksvolle Wirkung hat. In den USA wurde es als Dokument der Kultgeschichte, in Deutschland als akustisches Experiment und in Japan als esoterische psychedelische Religion neu bewertet, wobei jede Kultur ihre eigenen, einzigartigen Interpretationen entwickelte.
 
-Heute ist die Musik von Yahowha 13 durch Streaming und Neuauflagen allgemein zugänglich, und ihre Kultvergangenheit hat in ihrem Einfluss auf die zeitgenössische Musikszene ihren Höhepunkt gefunden. Der Geist von Pater Yod und der experimentelle Geist von Source Family gehen über die bloße Musik hinaus und fordern auch neue Generationen heraus, die Möglichkeiten von Gemeinschaft, Improvisation und Spiritualität zu entdecken.
+Heute ist die Musik von Yahowha 13 durch Streaming und Neuauflagen allgemein zugänglich und ihre Kultvergangenheit beeinflusst weiterhin die zeitgenössische Musikszene. Der Geist von Pater Yod und der experimentelle Geist von Source Family gehen über die bloße Musik hinaus und fordern auch neue Generationen heraus, die Möglichkeiten von Gemeinschaft, Improvisation und Spiritualität zu entdecken.

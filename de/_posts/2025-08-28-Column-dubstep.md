@@ -26,7 +26,7 @@ Text: mmr｜Thema: Die Geburt und der kulturelle Einfluss von Dubstep
 
 Dubstep wurde Ende der 1990er und Anfang der 2000er Jahre in der Underground-Szene im Süden Londons geboren. Es zeichnet sich durch eine Ästhetik aus, die man als „Bass-Überlegenheit“ bezeichnen kann, während es sich an den Trends von UK Garage, 2-Step, Jungle und Drum'n'Bass orientiert.
 
-London war zu dieser Zeit ein Schmelztiegel der Einwandererkulturen mit tiefen Wurzeln im Reggae, Dub und der jamaikanischen Soundsystem-Kultur.
+London war damals ein Schmelztiegel der Einwandererkulturen mit tiefen Wurzeln im Reggae, Dub und der jamaikanischen Soundsystem-Kultur.
 
 Dubstep, das auf diesem Boden geboren wurde, hat eine einzigartige Entwicklung durchgemacht, die auf schwerem Subbass, dunkler und enger Räumlichkeit und unterteilten Rhythmen basiert.
 
@@ -40,7 +40,7 @@ Dubstep wird durch den physischen Druck von Bassklängen unterstützt, so sehr, 
 
 - **Rhythmus**: Vom 2-Step abgeleitete Broken-Beat-Struktur. Der Kick ist kein viertaktiger Schlag, aber die Snare wird auf dem dritten Schlag betont.
 
-- **Bass**: Gekennzeichnet durch tiefen Subbass, verzerrte Basslinie, sogenannter „Wobble Bass“.
+- **Bass**: Charakterisiert durch tiefen Subbass, verzerrte Basslinie und sogenannten „Wobble Bass“.
 
 - **Stimmung**: Dunkles, minimalistisches oder experimentelles Sounddesign.
 

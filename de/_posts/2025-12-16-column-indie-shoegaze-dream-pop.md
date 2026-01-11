@@ -21,14 +21,14 @@ title: '[Kolumne] Indie Shoegaze / Dream Pop'
 
 Text: mmr｜Thema: Zur Geschichte der Rekonstruktion von Klangbildern und Empfindungen
 
-Shoegaze und Dream Pop, die zwischen Ende der 1980er und Anfang der 1990er Jahre vor allem im Vereinigten Königreich aufkamen, veränderten den Ausdrucksbereich der Rockmusik erheblich von „Performance“ hin zu „Klangbild“.
+Shoegaze und Dream Pop, die in den späten 1980er bis frühen 1990er Jahren vor allem im Vereinigten Königreich aufkamen, veränderten den Ausdrucksbereich der Rockmusik erheblich von „Performance“ hin zu „Klangbild“.
 Diese Musik konzentriert sich auf den Raum, den Nachhall und die sinnliche Dauer, die durch überlappende Klänge entstehen, und nicht auf den unmittelbaren Reiz der Melodie oder die klare Wiedergabe von Texten.
 
-Der Begriff „Shoegaze“ entstand aus der Art und Weise, wie Menschen während der Aufführung auf die Effektorbretter zu ihren Füßen blickten, und der Begriff etablierte sich als Symbol für die introvertierte Natur der Aufführung. Dream Pop hingegen entstand als Ergebnis der Verschmelzung einer früheren Ambient-Pop-Sensibilität mit der Post-Punk-Klangorientierung des Post-Punks.
+Der Begriff „Shoegaze“ entstand aus der Art und Weise, wie Menschen während der Aufführung auf die Effektorbretter zu ihren Füßen blickten, und der Begriff etablierte sich als Symbol für die introvertierte Natur der Aufführung. Dream Pop hingegen entstand als Ergebnis der Verschmelzung einer früheren Ambient-Pop-Sensibilität mit der klanglichen Ausrichtung des Post-Punk.
 
 Obwohl die beiden unterschiedlichen Ursprungs sind, sind sie hinsichtlich der Klangverarbeitung, der Stimmverarbeitung und der visuellen Sensibilität eng miteinander verbunden.
 
-[„Der Genrename war ein nachträglicher Einfall, und viele der Beteiligten waren sich seiner Klassifizierung zunächst nicht bewusst.“]
+[„Der Genrename war ein nachträglicher Einfall, und viele Beteiligten waren sich seiner Klassifizierung zunächst nicht bewusst.“]
 
 ---
 
@@ -94,7 +94,7 @@ My Bloody Valentine ist eine Ikone von Shoegaze.
 Ihre Musik ist nicht nur Verzerrung, sondern basiert auf Tonhöhenschwankungen, Tonhöheninstabilität und winzigen Verschiebungen.
 
 Kevin Shields nutzt eine einzigartige Spieltechnik mit einem Tremoloarm, um ein Klangbild zu erzeugen, das den gesamten Akkord weiter zum Beben bringt.
-Dadurch verliert die Gitarre ihren perkussiven Anschlag und erhält eine kontinuierliche wellenartige Struktur.
+Dadurch verliert die Gitarre ihren perkussiven Anschlag und erhält eine kontinuierliche wellenartige Textur.
 
 [„Die Instabilität der Darbietung schafft Stabilität in der Musik“]
 
@@ -102,9 +102,9 @@ Dadurch verliert die Gitarre ihren perkussiven Anschlag und erhält eine kontinu
 
 ## Kapitel 4: Shoegaze-Geräuschanalyse
 
-### 4-1. Struktur der Dehnungsschicht
+### 4-1. Dehnungsschichtstruktur
 
-In den Liedern von My Bloody Valentine sind mehrere verzerrte Gitarren geschichtet, die jeweils eine andere Besetzung besetzen.
+In den Liedern von My Bloody Valentine sind mehrere verzerrte Gitarren übereinander geschichtet, die jeweils eine andere Band besetzen.
 Dadurch geht die Klarheit einzelner Töne verloren, es entsteht aber insgesamt eine dickere Klangmasse.
 
 ### 4-2. Stimmplatzierung
@@ -202,13 +202,13 @@ Durch diese Anordnung entsteht der Effekt, dass der Zuhörer den gesamten Klang 
 Der Rhythmus in Shoegaze und Dream Pop dient nicht als Mittel zur Herbeiführung von Entwicklung, sondern als Mittel zur Aufrechterhaltung eines Zustands.
 Das Drum-Pattern ist relativ einfach und legt weniger Wert auf Füllungen und Akzente.
 
-Daher betont das Lied eher die „Zeit, die bleibt“, als die „Zeit, die fortschreitet“.
+Daher betont das Lied die „Zeit, die weiter vergeht“ und nicht die „Zeit, die fortschreitet“.
 
 ---
 
 ### B-2. Körperliche Steigerung neu definieren
 
-Auf den ersten Blick mag Shoegaze bei hoher Lautstärke wie aggressive Musik erscheinen, aber das körperliche Erlebnis ist ein anderes.
+Auf den ersten Blick mag bei hoher Lautstärke gespielter Shoegaze wie aggressive Musik erscheinen, aber das körperliche Erlebnis ist ein anderes.
 Der Fokus liegt nicht auf rhythmischen Sprüngen, sondern auf Umhüllung durch Schalldruck und Immersion durch Sustain.
 
 Dies ist ein Erlebnis, bei dem der Körper des Publikums nicht nach vorne gedrückt wird, sondern in den Klang eintaucht.
@@ -221,7 +221,7 @@ Dies ist ein Erlebnis, bei dem der Körper des Publikums nicht nach vorne gedrü
 
 ### C-1. Sprachabstraktion
 
-Im Dream Pop, wie ihn die Cocteau Twins verkörpern, wird die Bedeutung der Texte absichtlich verschleiert.
+Im Dream-Pop, wie ihn die Cocteau Twins verkörpern, wird die Bedeutung der Texte absichtlich verschleiert.
 Aussprache, Vokallänge und Verhältnis zum Rhythmus stehen im Vordergrund und die lexikalische Klarheit tritt in den Hintergrund.
 
 Dies war ein Versuch, Sprache als Klangmaterial und nicht als Mittel zur Übermittlung von Informationen neu zu definieren.

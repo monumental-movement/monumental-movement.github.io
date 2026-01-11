@@ -48,7 +48,7 @@ Die Wurzeln von D&B liegen im Jungle-Genre. Dies war eine chaotische Beatmusik, 
 
 **Gründungszeitraum von Drum & Bass**
 
-Von diesem Zeitpunkt an änderte sich der Name „Jungle“ nach und nach in „D&B“. Das bedeutet einen verfeinerten Klang, verbesserte Subbass- und Produktionstechniken. Seine Funktionalität als Clubmusik nimmt zu und die Szene wird reifer.
+Von diesem Zeitpunkt an änderte sich der Name „Jungle“ nach und nach in „D&B“. Dadurch ist der Klang verfeinert und der Subbass und die Produktionstechnik wurden verbessert. Seine Funktionalität als Clubmusik nimmt zu und die Szene wird reifer.
 
 #### Repräsentative Künstler:
 

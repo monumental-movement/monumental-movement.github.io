@@ -13,7 +13,7 @@ title: Elastica – Verbindung
 ---
 
 
-„Connection“ ist eine Single der britischen Alternative-Rock-Band Elastica. Der Song wurde als Lead-Single ihres selbstbetitelten Debütalbums „Elastica“ (1995) veröffentlicht. Elastica ist eine in den 1990er Jahren aktive Band, die für ihren einzigartigen Sound bekannt ist, der Elemente aus Punkrock und Pop kombiniert.
+„Connection“ ist eine Single der britischen Alternative-Rock-Band Elastica. Der Song wurde als Lead-Single ihres selbstbetitelten Debütalbums „Elastica“ (1995) veröffentlicht. Elastica ist eine in den 1990er Jahren aktive Band, die für ihren einzigartigen Sound bekannt ist, der Elemente aus Punkrock und Pop verbindet.
 
 „Connection“ ist ein energiegeladener und eingängiger Song mit einem schweren Gitarrenriff und Carolyn Andersons charakteristischem Gesang. Das Lied hat eine einfache, kurze Melodie, zeichnet sich durch sein helles Gitarrenspiel aus und ist eines der berühmtesten Lieder von Elastica, dessen Popmelodie und eingängige Hook bei vielen Zuhörern Anklang finden. Der Song erreichte hohe Platzierungen in den britischen Single-Charts und wurde zum Signature-Song der Band.
 

@@ -46,7 +46,7 @@ In Westdeutschland erkundeten junge Menschen der Nachkriegsgeneration Ende der 1
 
 - **Streben nach sich wiederholenden Rhythmen**: Der „Motorik Beat“ von Neu! ist besonders ikonisch. Durch die mechanische Wiederholung von 4/4 der Trommel entsteht ein tranceartiges und meditatives Gefühl.
 - **Elektronische Klangexperimente**: Nutzen Sie analoge Synthesizer wie Kraftwerk und Tangerine Dream voll aus.
-- **Unabhängige Produktion und Anti-Kommerzialismus**: Alben werden auf unabhängigen Labels und kleinen Studios aufgenommen, wobei experimentelle Elemente im Vordergrund stehen.
+- **Unabhängige Produktion und Antikommerzialisierung**: Alben werden auf unabhängigen Labels und kleinen Studios aufgenommen, wobei experimentelle Elemente im Vordergrund stehen.
 - **Genreübergreifende Fusion**: Flexibilität zur übergreifenden Integration von Jazz, Folk, Rock und Klassik.
 
 Zu den ikonischen Bands zählen Can, Neu!, Kraftwerk, Faust und Amon Düül II, deren Sound den späteren Neo-Krautrock direkt beeinflusste.
@@ -187,7 +187,7 @@ flowchart TD
 
 ## 8. Fazit
 
-Neo-Krautrock bringt den Geist des Krautrock zurück ins 21. Jahrhundert und wird zu einer Brücke zwischen Vergangenheit und Zukunft. Künstler wie Tropic of Cancer und Panda Lux bewahren die ursprüngliche Krautrock-Ästhetik und fördern gleichzeitig neue musikalische Experimente. Mit Fortschritten in der Musiktheorie, der Aufnahmetechnik und dem Live-Ausdruck wird Neo-Krautrock weiterhin im Zentrum der experimentellen Musikszene stehen.
+Neo-Krautrock bringt den Geist des Krautrock zurück ins 21. Jahrhundert und wird zu einer Brücke zwischen Vergangenheit und Zukunft. Künstler wie Tropic of Cancer und Panda Lux bewahren die ursprüngliche Krautrock-Ästhetik und fördern gleichzeitig neue musikalische Experimente. Mit Fortschritten in der Musiktheorie, der Aufnahmetechnik und dem Live-Ausdruck wird Neo-Krautrock weiterhin im Mittelpunkt der experimentellen Musikszene stehen.
 
 ---
 

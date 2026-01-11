@@ -11,7 +11,7 @@ tags:
 - Detroit Techno
 - Minimal
 title: '[Kolumne] Von den Ursprüngen des Techno bis zur Gegenwart – Eine chronologische
-  Geschichte anhand berühmter Platten und Geräte'
+  Geschichte, die anhand berühmter Platten und Geräte nachgezeichnet wird'
 ---
 
 
@@ -75,12 +75,12 @@ Die Geschichte des Techno entstand und entwickelte sich aus der Beziehung zwisch
 - Jeff Mills – „The Bells“ (1997)
 
 **Ausrüstung**
--Akai S3000/S3200
+- Akai S3000/S3200
 - E-mu ESI/E4
 - Ensoniq ASR-10
 - Mackie 1604/8-Bus
 -Roland JP-8000
-- Zugriffsvirus
+- Greifen Sie auf den Virus zu
 - ADAT/DAT
 
 ---
@@ -144,7 +144,7 @@ Die Geschichte des Techno entstand und entwickelte sich aus der Beziehung zwisch
 - ASM Hydrasynth
 - Polyend Tracker / Dirtywave M8
 - Akai MPC One/Live II
-- KI-Mastering, Stammtrennungswerkzeuge
+- KI-Mastering, Stammtrennungstool
 
 ---
 
@@ -169,7 +169,7 @@ Die Geschichte des Techno entstand und entwickelte sich aus der Beziehung zwisch
 
 ### Zusammenfassung
 Der Kern von Techno ist „Wiederholung“ und „Sounddesign“.
-Rhythmen stammen direkt von x0x ab, Klangbilddesign von Samplern, Bearbeitungsästhetik aus der PC-Ära, die Zufälligkeit der Modularität, sogar KI-Unterstützung – die Rhythmen von Maschinen und Städten entwickeln sich auch im Wandel der Zeit weiter.
+Rhythmen, die direkt von x0x abstammen, Klangbilddesign von Samplern, Bearbeitungsästhetik der PC-Ära, die Zufälligkeit der Modularität, sogar KI-Unterstützung – die Rhythmen von Maschinen und Städten entwickeln sich auch im Wandel der Zeit weiter.
 
 
 ---

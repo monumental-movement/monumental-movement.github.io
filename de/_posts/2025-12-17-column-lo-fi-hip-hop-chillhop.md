@@ -20,9 +20,9 @@ title: '[Kolumne] Lo-Fi Hip Hop / Chillhop (selbst aufgenommene Beatkultur)'
 
 ## 1. Konzeptdefinition und Namensanordnung
 
-Text: mmr｜Thema: Historische Fakten über die selbst aufgenommene Beat-Kultur, die zusammen als Lo-Fi Hip Hop / Chillhop bekannt ist, einschließlich ihres Hintergrunds, ihrer technischen Bedingungen, ihrer Vertriebsstruktur, ihrer Ästhetik und ihrer gesellschaftlichen Akzeptanz.
+Text: mmr｜Thema: Historische Fakten über die Home-Recorded-Beat-Kultur, die zusammenfassend als Lo-Fi Hip Hop/Chillhop bekannt ist, einschließlich ihres Hintergrunds, ihrer technischen Bedingungen, ihrer Vertriebsstruktur, ihrer Ästhetik und ihrer gesellschaftlichen Akzeptanz.
 
-Lo‑Fi Hip Hop hat sich zu einem etablierten Namen für eine Musikpraxis entwickelt, die auf der Hip-Hop-Beat-Produktion basiert und sich durch bewusst niedrig aufgelöste Klangqualität, einfache Organisation und stark repetitive Strukturen auszeichnet. Chillhop ist ein abgeleiteter Name, der seinen Hörgebrauch hervorhebt, insbesondere den Aspekt, der im Kontext von Arbeits-/Umweltmusik konsumiert wird.
+Lo‑Fi Hip Hop hat sich zu einem etablierten Namen für eine Musikpraxis entwickelt, die auf der Hip-Hop-Beat-Produktion basiert und sich durch absichtlich niedrig aufgelöste Klangqualität, einfache Organisation und stark repetitive Strukturen auszeichnet. Chillhop ist ein abgeleiteter Name, der seinen Hörgebrauch hervorhebt, insbesondere den Aspekt, der im Kontext von Arbeits-/Umweltmusik konsumiert wird.
 
 Der Begriff Lo-Fi bedeutet „Low Fidelity“ und bezieht sich auf eine Einstellung, die Einschränkungen der Aufnahmetechnologie und Rauschen als Ausdruckselement und nicht als Fehler betrachtet. Andererseits ist Chillhop weniger ein Genrename als vielmehr ein Label, das sich innerhalb der Kategorisierungs- und Playlist-Kultur auf Vertriebsplattformen gebildet hat.
 
@@ -77,7 +77,7 @@ Diese spiegeln eine Haltung wider, die Atmosphäre und Nachhaltigkeit über Perf
 
 ## 5. Instrumentalisierung und funktionale Musikalität
 
-Ein Großteil des Lo-Fi Hip Hop ist ein Instrumentalformat, das keinen Rap beinhaltet. Diese Tendenz hat zur Eliminierung sprachlicher Informationen und zu einer erhöhten Funktionalität als Hintergrundmusik geführt.
+Ein Großteil des Lo-Fi Hip Hop ist ein Instrumentalformat, das keinen Rap beinhaltet. Dieser Trend hat zur Eliminierung sprachlicher Informationen und zu einer erhöhten Funktionalität als Hintergrundmusik geführt.
 
 Durch die Verknüpfung mit konzentrierten Aktivitäten wie Lernen, Lesen und Arbeiten wurde Lo-Fi Hip Hop sowohl zum Hörobjekt als auch zur Ambient-Musik.
 
@@ -117,7 +117,7 @@ Während diese Formalisierung die Eintrittsbarriere senkt, schränkt sie auch di
 
 ## 10. Kommerzialisierung und kritische Perspektive
 
-Lo‑Fi Hip Hop/Chillhop ist stark an ein Umsatzmodell gebunden, das auf gestreamten Aufrufen basiert. Für die Langzeitwiedergabe geeignete Strukturen sind sehr gut mit Algorithmen kompatibel und es gibt viele Fälle von kommerziellem Erfolg.
+Lo‑Fi Hip Hop/Chillhop war stark an ein Umsatzmodell gebunden, das auf gestreamten Aufrufen basierte. Für die Langzeitwiedergabe geeignete Strukturen sind sehr gut mit Algorithmen kompatibel und es gibt viele Fälle von kommerziellem Erfolg.
 
 Andererseits wird auch kritisiert, dass der Konsum von Musik als Hintergrund die Bewertung einzelner Werke erschwert.
 
@@ -155,7 +155,7 @@ Diese Kultur ist nicht auf eine bestimmte Region beschränkt, sondern wird gleic
 
 ### 2020er Jahre
 
-* Der Konsum von Umweltmusik ist alltäglich geworden
+* Der Konsum von Umweltmusik wird alltäglich
 
 ---
 
@@ -173,7 +173,7 @@ D --> E[長時間再生]
 
 ## 15. Soziale Akzeptanz und Normalisierung
 
-Das Besondere an Lo-Fi Hip Hop/Chillhop ist, dass es den Alltag durchdrungen hat, ohne auf eine bestimmte Subkultur beschränkt zu sein. Im Zusammenhang mit Aktivitäten wie dem Weg zur Arbeit oder zur Schule, der Arbeit von zu Hause aus, Lernen und Lesen hat sich ein Hörstil durchgesetzt, bei dem Musik eher in den Hintergrund als in den Vordergrund des Bewusstseins gestellt wird.
+Das Besondere an Lo-Fi Hip Hop/Chillhop ist, dass es den Alltag durchdrungen hat, ohne auf eine bestimmte Subkultur beschränkt zu sein. Im Zusammenhang mit Aktivitäten wie dem Weg zur Arbeit oder zur Schule, der Arbeit von zu Hause aus, Lernen und Lesen ist ein Hörstil üblich geworden, bei dem Musik eher in den Hintergrund als in den Vordergrund des Bewusstseins gestellt wird.
 
 Diese Alltäglichkeit weist auf den Prozess hin, durch den sich Musik von einem „Objekt der Wertschätzung“ zu einem „Umweltzustand“ entwickelt. Lo-Fi-Hip Hop wurde als etwas akzeptiert, das im Fluss bleibt, statt dass man ihm zuhört.
 
@@ -183,7 +183,7 @@ Diese Erweiterung der Kultur wurde durch die Verlagerung der Rolle der Musik hin
 
 ## 16. Musikstruktur im Zeitalter der Algorithmen
 
-Empfehlungsalgorithmen in Vertriebsplattformen hatten einen starken Einfluss auf die Strukturbildung von Lo-Fi Hip Hop/Chillhop. Stabilität, die die Abbrecherquote senkt, ist wichtiger geworden als Vorstellungen, die in kurzer Zeit Eindruck machen oder dramatische Entwicklungen.
+Empfehlungsalgorithmen in Vertriebsplattformen hatten einen starken Einfluss auf die Strukturbildung von Lo-Fi Hip Hop/Chillhop. Stabilität, die die Abbrecherquote senkt, ist wichtiger geworden als Einführungen, die in kurzer Zeit Eindruck machen oder dramatische Entwicklungen.
 
 Dadurch machten sich folgende Trends bemerkbar.
 
@@ -215,7 +215,7 @@ Durch die Vermeidung übermäßiger Aufregung und Anspannung wird der Körper de
 
 ## 19. Unterdrückung des emotionalen Ausdrucks und der Anonymität
 
-In dieser Kultur besteht die Tendenz, die starke Darstellung von Autorenschaft und persönlichen Gefühlen zu unterdrücken. In vielen Fällen wurden die Namen und Porträts der Künstler nicht genannt, und Anonymität war mit der Natur des Genres vereinbar. Anonymität diente dazu, das Hörerlebnis zu entpersonalisieren.
+In dieser Kultur besteht die Tendenz, die starke Darstellung von Autorenschaft und persönlichen Gefühlen zu unterdrücken. In vielen Fällen wurden die Namen und Porträts der Künstler nicht genannt, und die Anonymität war mit der Natur des Genres vereinbar. Anonymität diente dazu, das Hörerlebnis zu entpersonalisieren.
 
 ---
 

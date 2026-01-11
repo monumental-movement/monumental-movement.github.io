@@ -156,7 +156,7 @@ Wurde Dutzende Male verhaftet. Das meiste davon ist jedoch das Ergebnis von Drog
 
 | Songtitel | Thema | Charakteristische Texte | Interpretation |
 | --------------------- | ----- | ----------------------------------------------------------------- | --------------- |
-| *Ruff Ryders‘ Hymne* | Konflikt und Einheit | „Halt an, lass sie fallen, schalt sie ab, mach den Laden auf!“ | Koexistenz von Aggression und Straßendisziplin |
+| *Ruff Ryders‘ Hymne* | Konflikt und Einheit | „Halt an, lass sie fallen, schalt sie aus, mach den Laden auf!“ | Koexistenz von Aggression und Straßendisziplin |
 | *Slippin’* | Selbstbeobachtung und Wiedergeburt | „Sehen Sie, leben bedeutet leiden, aber überleben bedeutet, im Leiden einen Sinn zu finden.“ | Musikalisierung von Nietzsches Leidensphilosophie |
 | *Herr, gib mir ein Zeichen* | Glaube/Erlösung | „Ich muss wirklich mit dir reden, Herr.“ | Ein verzweifelter Anruf zu Gott |
 | *Wer wir sind* | Soziales Bewusstsein | „Der Schmerz, der Kampf, die Freunde, der Ärger.“ | Der Höhepunkt der rhythmischen Katalogpoesie |
@@ -193,7 +193,7 @@ Diese Worte dienen vielen jungen Menschen auch heute noch als Mantra der Selbstv
 ## X. Fazit: Mythische Struktur namens DMX
 
 Die Geschichte von DMX ist mehr als nur eine Hip-Hop-Biografie.
-Es war ein **modernes religiöses Drama** und ein Mythos über die Koexistenz von **Gewalt und Gebet**.
+Es war ein **modernes religiöses Drama** und ein Mythos, der die **Koexistenz von Gewalt und Gebet** darstellte.
 
 *Sein „Gebrüll“ ist keine Wut, sondern ein Schrei, um seine Existenz zu beweisen**
 *Sein „Gebet“ ist keine Erlösung, sondern **Fortsetzung des Kampfes**

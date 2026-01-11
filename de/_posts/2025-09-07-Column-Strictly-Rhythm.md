@@ -42,15 +42,15 @@ color: #fff;
 
 ## 1989-1992: Geburt und „NY Local Experiment Station“-Zeitraum
 
-**Historischer Hintergrund**: House/Techno, der in Chicago und Detroit entstanden war, hielt Anfang der 1990er Jahre Einzug in New Yorker Clubs. Es war eine Zeit, in der die Clubkultur im Begriff war, kommerzialisiert zu werden, und es blieb ein Underground-Experimentiergeist bestehen.
+**Historischer Hintergrund**: House/Techno, das in Chicago und Detroit entstanden war, hielt Anfang der 1990er Jahre Einzug in New Yorker Clubs. Es war eine Zeit, in der die Clubkultur im Begriff war, kommerzialisiert zu werden, und es blieb ein Underground-Experimentiergeist bestehen.
 
-**Was ist passiert**: 1989 von Mark Finkelstein und Gladys Pizarro gegründet. Seit seiner Gründung konzentriert sich das Unternehmen auf DJ-orientierte 12-Zoll-Musik und produziert Sound, der direkt auf die Tanzfläche trifft und in örtlichen Clubs beliebt ist.
+**Was ist passiert**: 1989 von Mark Finkelstein und Gladys Pizarro gegründet. Seit unserer Gründung konzentrieren wir uns auf DJ-orientierte 12-Zoll-Musik und produzieren Sound, der direkt auf die Tanzfläche trifft und in örtlichen Clubs beliebt ist.
 
 **Repräsentatives Meisterwerk (früh)**
 - Roger Sanchez – *Luv Dancin'* (1990, unter dem Namen Underground Solution)
 
 **Ausrüstungstrends**
-Es gab viele Produktionen mit Plattenspielern und Samplern (frühe SP-Serie und Akai), die sich das „Loop-Feeling“ von Schallplatten zunutze machten.
+Viele der Produktionen nutzten Plattenspieler und Sampler (frühe SP-Serie und Akai), um das „Loop-Feeling“ von Schallplatten auszunutzen.
 
 ---
 
@@ -131,7 +131,7 @@ DAWs und Software-Plug-Ins haben begonnen, in den Produktionsworkflow Einzug zu 
 
 ---
 
-## 2007~2010: Neustart und internationale Expansion
+## 2007–2010: Neustart und internationale Expansion
 
 **Hintergrund**: Digitale Verbreitung und Globalisierung von Tanzmusik.
 
@@ -164,7 +164,7 @@ DAW-Schwerpunkt, Plug-in-Soundquellen und Software-/Analogmodellierung wurden zu
 
 **Hintergrund der Zeit**: Der Investitionswert von Musikkatalogen steigt. Der Tanzkatalog der 90er Jahre wird mit gesampeltem Material, Neuveröffentlichungen und Lizenzen neu bewertet.
 
-**Was ist passiert**: Im Jahr 2013 erwarb BMG den Strictly Rhythm-Masterkatalog. Danach wurden auch die Verlagsrechte übertragen.
+**Was ist passiert**: Im Jahr 2013 erwarb BMG den Strictly Rhythm-Masterkatalog. Die Veröffentlichungsrechte wurden anschließend übertragen.
 
 **Aktuelle Position**
 Die Marke/der Katalog ist immer noch aktiv und wird als „Asset“ für Neuauflagen, Zusammenstellungen, Lizenzen usw. verwendet.
@@ -173,7 +173,7 @@ Die Marke/der Katalog ist immer noch aktiv und wird als „Asset“ für Neuaufl
 
 | Nein | Künstler | Verfolgen | Kommentare |
 |---|---|---|---|
-| 1 | Könige von morgen | Endlich (Remaster 2014) | Traditioneller Deep House neu gemastert, sanfte Klangqualität. |
+| 1 | Könige von morgen | Endlich (Remaster 2014) | Traditioneller Deep House neu gemastert mit sanfter Klangqualität. |
 | 2 | Dennis Ferrer | Maniac 3000 | Verfügt über einen modernen und raffinierten House-Beat. |
 | 3 | Quentin Harris | Meine Freude (Neubearbeitung) | Deep House für Clubs neu aufgelegt. |
 | 4 | Barbara Tucker | Think (About It) 2015 Mix | Eine Neuinterpretation des Vocal-House voller Emotionen. |
@@ -190,7 +190,7 @@ Die Marke/der Katalog ist immer noch aktiv und wird als „Asset“ für Neuaufl
 
 | Zeiteinteilung | Hauptausrüstung |
 |---|---|
-| 1989~Anfang der 90er | Roland TR-909 / TR-808, TB-303, Plattenspieler + Mixer |
+| 1989~Anfang der 90er Jahre | Roland TR-909 / TR-808, TB-303, Plattenspieler + Mixer |
 | Mitte der 90er | E-MU SP-12 / SP-1200, Akai MPC-Serie, Außenborder/Band |
 | 2000er bis heute | DAW (Pro Tools, Ableton, Logic), Plug-Ins/Software-Synthesizer |
 

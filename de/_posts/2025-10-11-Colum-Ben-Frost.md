@@ -55,7 +55,7 @@ Es entstand eine spannungsgeladene Spannung zwischen klassischer Struktur und el
 
 „**By the Throat**“ aus dem Jahr 2009 ist ein wahrhaft symbolisches Werk.
 Hier knurren, atmen und greifen Geräusche an wie Tiere.
-Feldaufnahmen von Wolfsgeheul, Atemgeräuschen und niederfrequentem Knurren.
+Feldaufnahmen von Wolfsgeheul, Atemgeräuschen und tieffrequentem Knurren.
 Dabei handelt es sich nicht um Umgebungsgeräusche, sondern um „Angriffsgeräusche“.
 
 ---
@@ -124,7 +124,7 @@ Fragmente metallischen Rauschens zeigen einen kosmischen Raum.
 Steve Albinis Mix ist überraschend trocken;
 Der Nachhall des Klangs wird entfernt, um die von Frost beabsichtigte „sauerstofffreie Akustik“ zu visualisieren.
 
-„A U R O R A“ basiert auf meiner Erfahrung im Kongo, Afrika.
+„A U R O R A“ basiert auf meinen Erfahrungen im Kongo, Afrika.
 Inspiriert wurde es von extremen physikalischen Bedingungen wie Sonnenlicht, Hitze und der Instabilität der Elektrizität.
 Es ist die Gewalt des Lichts, der Aufbau von Schall durch Photonen.
 

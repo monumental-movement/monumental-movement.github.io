@@ -21,7 +21,7 @@ title: '[Kolumne] Blawan: Pleasure of Steel and the Body Deep in the Night – E
 Text: mmr｜Thema: Über Blawans kalten, aber irgendwie menschlichen Beat, der weiterhin seine Wurzeln im britischen Underground hat
 
 Es war einmal, als die Industriegebiete Nordenglands vom Geruch von Dampf und Metall erfüllt waren.
-Jamie Roberts oder Blawan ist möglicherweise damit aufgewachsen, den Nachhall unbewusst einzuatmen.
+Jamie Roberts – oder Blawan – ist möglicherweise damit aufgewachsen, den Nachhall unbewusst einzuatmen.
 Die Blutlinie der elektronischen Musik kommt aus Sheffield (Cabaret Voltaire, Warp Records, The Black Dog)
 Es spiegelt gleichzeitig den Rhythmus der Arbeit und den Atem der Stadt wider.
 
@@ -77,7 +77,7 @@ Es liegt jedoch ein seltsames **„Vergnügen“** darin.
 Es komprimierte den Körper des Zuhörers und ließ ihn gleichzeitig los – es war ein Moment der **Angst und Euphorie**.
 
 Viele DJs lassen diesen Track zu Spitzenzeiten fallen,
-Berichten zufolge herrschte auf dem Clubgelände ein Moment „heftiger Euphorie“.
+Berichten zufolge herrschte im Club ein Moment „heftiger Euphorie“.
 Dieses Lied ist nicht nur ein Hit,
 Es war ein Symbol für die Wiederbelebung von „Gefühlen ohne Emotionen“ im Techno.
 
@@ -113,7 +113,7 @@ Jedes Lied verbirgt unter seiner Kälte eine leichte Wärme.
 Inmitten des ausdruckslosen, metallischen Klangs gibt es gelegentlich Pausen, die wie Atmen wirken.
 Durch diese kleine Lücke dringen menschliche Emotionen durch.
 
-Reduzieren Sie den Ton und lassen Sie nur die Struktur übrig.
+Entfernen Sie den Ton und lassen Sie nur die Struktur übrig.
 Im Gegenteil, sein Stoizismus lässt Blawans „Emotion“ hervorstechen.
 
 ---
@@ -142,7 +142,7 @@ Und die zarten Partikel von Skee Mask.
 All das wird in ihm wieder aufgebaut.
 
 Anstelle der Sterilität Berlins bevorzuge ich die Luftfeuchtigkeit Londons.
-Verwenden Sie eher den Druck Ihrer Handfläche als den digitalen.
+Verwenden Sie eher Handdruck als digitalen Druck.
 Blawan wählt weiterhin **Landgewicht**.
 Es ist auch eine Form des Widerstands für den Verein, wieder ein „Ort“ zu sein.
 
@@ -241,7 +241,7 @@ flowchart TD
 
 > „Ich habe Karenns Live-Auftritt von der Seitenlinie aus verfolgt,
 > Es fühlte sich an, als wäre man in einem Stahlwerk.
->Klingt, als würden Funken fliegen.
+> Hört sich an, als würden Funken fliegen.
 >Trotzdem waren die Gesichter des Publikums irgendwie freundlich. ”
 > —— **Chirurg (Anthony Child)**
 

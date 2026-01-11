@@ -20,7 +20,7 @@ title: '[Kolumne] Interaktionsgeschichte von Musikkultur und „Outlaws“ nach 
 
 ## „Musik kommt vom Rand der Gesellschaft“
 
-Text: mmr｜Thema: Langgelesene Kolumne, die Subkulturforschung und die Temperatur des Feldes verbindet
+Text: mmr｜Thema: Lang gelesene Kolumne, die Subkulturforschung und die Temperatur des Feldes verbindet
 
 „Musik kommt vom Rand der Gesellschaft.“ Dieser Satz ist alt, aber er verfehlt nicht den Kern. Das Gefühl von Dringlichkeit, Antinormativität und gemeinschaftlicher Leidenschaft, das aus der Marginalität resultiert, wird oft als „Gesetzloser“ visualisiert und kristallisiert sich in Form von Klang, Raumnutzung, Mode und Körpertechniken heraus. In diesem Artikel verfolgen wir die wichtigsten Genres/Szenen ab den 1950er Jahren nach Alter und betrachten die Schnittstelle zwischen „Musik und Outlaws“ aus der Perspektive der Soziologie und Kulturwissenschaften (Hebdidge, Cohen, Beaudrieu, Becker usw.).
 
@@ -40,7 +40,7 @@ Rock and Roll/Rockabilly ist eine grenzüberschreitende Fusion aus weißer Jugen
 
 ---
 
-**Mechanismus**: Mischung aus Musik, die Rassen- und Klassengrenzen überschreitet, + nächtliche Unterhaltung = „moralische Panik“ auslösen (Volksteufel und moralische Panik: Stanley Cohen). Vorschriften von Polizei, Schulen und Religionsgemeinschaften stärken vielmehr die Einheit der Szene.
+**Mechanismus**: Mischung aus Musik, die Rassen- und Klassengrenzen überschreitet + nächtliche Unterhaltung = „moralische Panik“ auslösen (Volksteufel und moralische Panik: Stanley Cohen). Vorschriften von Polizei, Schulen und Religionsgemeinschaften stärken vielmehr die Einheit der Szene.
 
 
 <hr>
@@ -72,7 +72,7 @@ Garage/Protopunk ist ein DIY-Geist und Anti-Kommerzialismus. Schulhallen und Lag
 
 ### 1970er Jahre: Punk, Reggae, Disco: Kampf und Flucht, geboren aus der städtischen Krise
 
-Punk (NY/UK) baut Anti-Establishment-Slogans und minimale Kapitalinfrastruktur (Indie-Labels, Zines, besetzte Veranstaltungsorte) vor dem Hintergrund von Arbeitslosigkeit, Verwüstung und Rassenkonflikten auf. Gruben, Stacheln und DIY-Sicherheitsnadeln sind visuelle Symbole für „illegales Einfädeln“.
+Punk (NY/UK) baut Anti-Establishment-Parolen und eine minimale Kapitalinfrastruktur (Indie-Labels, Zines, besetzte Veranstaltungsorte) vor dem Hintergrund von Arbeitslosigkeit, Verwüstung und Rassenkonflikten auf. Gruben, Stacheln und DIY-Sicherheitsnadeln sind visuelle Symbole für „illegales Einfädeln“.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IwsVWZ-c8Eo?si=6qD5twRzmr6LVRzf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -84,7 +84,7 @@ Reggae/Dub wird mit der Soundsystemkultur in Verbindung gebracht und ist für di
 
 ---
 
-Disco ist ein Zufluchtsort für die LGBTQ+/Schwarze/Latinx-Gemeinschaft, die sich das Recht zum Tanzen an der Grenze zwischen Legal und Illegalität verschafft, aber auch ihre Schattenseiten wie Nachtclubsicherheit und Diskriminierung beim Einlass hat.
+Disco ist ein Zufluchtsort für die LGBTQ+/Black/Latinx-Community, die sich das Recht zum Tanzen an der Grenze zwischen Legal und Illegalität verschafft, aber auch ihre Schattenseiten wie Nachtclubsicherheit und Diskriminierung beim Einlass hat.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4KUL9-eNXzQ?si=0RcRn_F0ErMntOI7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -197,7 +197,7 @@ Die Hybridisierung sozialer Bewegungen und Musikveranstaltungen (Spendenpartys, 
 
 **Großbritannien/Europa**: Kollektiver Charakter, verflochten mit Klasse, Einwanderung und Fußballkultur. Rave-Kultur neigt dazu, mit Stadtplanung und privaten Landsystemen in Konflikt zu geraten.
 
-**Japan**: Von der frühen Akzeptanz von Rockabilly/Punk bis zur „Underground-Box“ des Hardcore und dem Aufkommen von Clubs sind Konflikte mit Verwaltungsvorschriften (Late-Night-Geschäft/Unterhaltung) an der Tagesordnung. Der Import und die Lokalisierung von Klängen sowie die Selbstverwaltung von Veranstaltungsorten haben sich entwickelt.
+**Japan**: Von der frühen Akzeptanz von Rockabilly/Punk bis zur „Underground-Box“ des Hardcore und dem Aufkommen von Clubs sind Konflikte mit Verwaltungsvorschriften (Late-Night-Geschäft/Unterhaltung) weit verbreitet. Der Import und die Lokalisierung von Klängen sowie die Selbstverwaltung von Veranstaltungsorten haben sich entwickelt.
 
 
 <hr>
@@ -214,9 +214,9 @@ Die Hybridisierung sozialer Bewegungen und Musikveranstaltungen (Spendenpartys, 
 
 **Radikalisierung der Erzählung**: Der Realismus/die Übertreibung des Textes wird von den Medien als Kriminalwarnung fehlinterpretiert.
 
-**Medienapparat**: Berichterstattung schafft einen „populären Teufel“ (Cohens Moral Panic).
+**Medienapparat**: Berichterstattung schafft einen „Volksteufel“ (Cohens moralische Panik).
 
-**Reflexion mit dem System**: Der Kreislauf von Razzia → Untergrund → Stärkung der Solidarität → kommerzieller Aufschwung → erneute Abweichung.
+**Reflexion mit dem System**: Der Kreislauf von Razzia → Untergrund → Stärkung der Solidarität → kommerzielle Erholung → erneute Abweichung.
 
 
 <hr>

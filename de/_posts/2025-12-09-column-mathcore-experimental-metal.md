@@ -54,7 +54,7 @@ DEP entstand Ende der 1990er Jahre im Nordosten der USA, zu einer Zeit, als die 
 
 ---
 
-## Die Innovation des Dillinger Escape Plan
+## Innovation des Dillinger Escape Plans
 
 DEP wurde 1997 gegründet. Seine Debüt-EP „Under the Running Board“ (1998) und sein bahnbrechendes Debütalbum „Calculated Infinity“ (1999) brachten ihm sofort große Anerkennung ein.
 
@@ -79,12 +79,12 @@ Diese „Unabhängigkeit“ ist stärker als in anderen Genres und verstärkt de
 
 ## Polyrhythmische Struktur von Meshuggah
 
-Die schwedische Band Meshuggah ist eine von Mathcore getrennte Gruppe, die jedoch durch die Integration von Polyrhythmik und Metal äußerst wichtig ist.
+Meshuggah aus Schweden ist eine von Mathcore getrennte Gruppe, ist jedoch äußerst wichtig in der Integration von Polyrhythmik und Metal.
 
 ### Typische Methoden:
 
 * Die Grundtaktart ist 4/4
-* Aber Gitarrenriffs finden in Zyklen von **5 Schlägen, 7 Schlägen, 9 Schlägen** usw. statt.
+* Aber Gitarrenriffs haben Zyklen von **5 Schlägen, 7 Schlägen, 9 Schlägen** usw.
 *Infolgedessen „verschieben“ sich die Riff- und Drum-Akzente regelmäßig.
 
 Dadurch kann der Hörer gleichzeitig einen linearen Groove und einen nichtlinearen Akzent erleben.
@@ -194,7 +194,7 @@ Während die komplexe rhythmische Struktur gleich blieb, kam es immer häufiger 
 
 ## Aktueller Standort von Mathcore
 
-Mathcore von Ende der 2010er bis 2020er Jahre ist stärker in die Technologie integriert, und während die rhythmischen Unregelmäßigkeiten gleich bleiben, ist das Sounddesign ausgefeilter geworden.
+Mathcore aus den späten 2010er bis 2020er Jahren ist stärker in die Technologie integriert, und während die rhythmischen Unregelmäßigkeiten gleich bleiben, ist das Sounddesign ausgefeilter geworden.
 
 Car Bomb, Frontierer, Rolo Tomassi und andere bilden die neue Generation.
 

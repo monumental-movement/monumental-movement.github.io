@@ -60,7 +60,7 @@ Der Moment, in dem Körper, Stimme, Raum und Zeit zusammenkommen, um in Resonanz
 ## Kapitel 2: 80 Arten von „Gruppenklängen“ aus aller Welt – Suche nach einer universellen musikalischen Struktur
 
 Geino Yamashiro-gumi war von Ende der 1970er bis in die 1980er Jahre aktiv.
-Er hat tatsächlich **„80 Arten ethnischer Darbietungen aus der ganzen Welt“ aufgeführt und recherchiert.
+Er hat tatsächlich „80 Arten ethnischer Darbietungen aus der ganzen Welt“ aufgeführt und recherchiert.
 Dies war nicht nur eine Sammlung von Volksmusik, sondern eine Untersuchung der grundlegenden Frage: „Welchen Klang erzeugen Menschen als Gruppe?“
 
 ### ◇ Beispiele für Forschungs-/Leistungsziele

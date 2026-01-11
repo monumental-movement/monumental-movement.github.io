@@ -9,15 +9,15 @@ permalink: /de/modjo-chillin-old/
 tags:
 - House
 - French House
-title: Modjo – Chillin’ old
+title: Modjo – Chillin’ alt
 ---
 
 
 „Modjo – Chillin‘“ ist ein 2001 vom französischen Duo Modjo veröffentlichtes Lied. Dieses Lied ist auf ihrem selbstbetitelten Debütalbum Modjo enthalten.
 
-„Chillin‘“ ist ein Song, der Elemente aus Disco- und House-Musik mit einem leichten, groovigen Beat, einer funkigen Basslinie und fesselnden Vocals vereint.
+„Chillin‘“ ist ein Song, der Elemente aus Disco- und House-Musik mit einem leichten und groovigen Beat, einer funkigen Basslinie und fesselnden Vocals kombiniert.
 
-Dieses Lied ist als Pop-Tanzmusik bekannt, die eine entspannte Atmosphäre und eine helle Melodie ausstrahlt.
+Dieses Lied ist als Pop-Dance-Musik bekannt, die eine entspannte Atmosphäre und eine helle Melodie ausstrahlt.
 
 *Es gibt eine britische und eine italienische Version, aber dies ist die italienische Version.
 

@@ -18,7 +18,7 @@ title: '[Spalte] Dark Ambient / Ritual Ambient'
 
 ## 1. Neudefinition des Genrebegriffs
 
-Text: mmr｜Thema: Bildung immersiver Erfahrung durch Akustik, Raum und rituelle Struktur
+Text: mmr｜Thema: Bildung immersiver Erfahrung durch Klang, Raum und rituelle Struktur
 
 Dark Ambient ist keine semantische Erweiterung von Ambient-Musik, sondern ein klanglicher Ausdruck, der durch die bewusste Reduzierung musikalischer Elemente entsteht.
 
@@ -29,7 +29,7 @@ Die charakteristischen Elemente der Musik, wie Metrum, Melodie und Instrumentali
 * Räumlicher Nachhall
 *Unbekannte Tonquelle
 
-Ritual Ambient zeichnet sich dadurch aus, dass es diese Dark Ambient-ähnliche Methode verwendet und gleichzeitig eine klare „progressive Struktur“ einführt. Ritualismus entsteht nicht durch Symbole, sondern durch die Anordnung von Klängen und die Gestaltung ihrer Dauer.
+Ritual Ambient zeichnet sich dadurch aus, dass es diese Dark-Ambient-ähnliche Methode verwendet und gleichzeitig eine klare „progressive Struktur“ einführt. Ritualismus entsteht nicht durch Symbole, sondern durch die Gestaltung der Anordnung von Klängen und ihrer Dauer.
 
 
 ---
@@ -79,7 +79,7 @@ Durch diese Methodik wird Musik als ein Seinszustand dargestellt und nicht als e
 
 ### 4.1 Ungleichgewicht im Frequenzband
 
-Das Design konzentriert sich auf die untere Grenze des Hörbereichs und erzeugt eine Wahrnehmung, die von einem physischen Vibrationsempfinden begleitet wird.
+Das Design konzentriert sich auf die untere Grenze des Hörbereichs und erzeugt eine Wahrnehmung, die von einer physischen Vibrationsempfindung begleitet wird.
 
 ### 4.2 Umgang mit räumlicher Aufnahme
 
@@ -121,7 +121,7 @@ Ritual Ambient vereint folgende Elemente:
 
 Raison d’être etablierte Ritual Ambient als „System“ und nicht als Einzelwerk.
 
-Seine Produktion zeichnet sich dadurch aus, dass er religiöse Themen in Klangstrukturen umwandelt, anstatt sie emotional auszudrücken.
+Seine Produktion zeichnet sich dadurch aus, dass er religiöse Themen nicht emotional ausdrückt, sondern in Klangstrukturen umwandelt.
 
 ---
 

@@ -20,7 +20,7 @@ title: '[Kolumne] Experimentelle Hip-Hop-Instrumente'
 
 Text: mmr｜Thema: Die Geschichte der Etablierung experimenteller Hip-Hop-Instrumentalmusik, der Produktionsprozess, Sampling-Techniken, Klangstruktur und die Produktionspraktiken von Knxwledge und Madlib.
 
-Hip-Hop ist im Wesentlichen eine Kultur, in der sich der verbale Ausdruck des MC und die sich wiederholende Struktur des Beats ergänzen. Seit den 1990er-Jahren jedoch eigenständige Instrumentalwerke ohne Rap zu kursieren begannen, traten Beats als Thema und nicht als Begleitung in den Vordergrund. Insbesondere bei experimentellen Instrumenten ist keine homogene Beatstruktur oder ein Entwicklungsdesign für den Rap erforderlich, und Zeit, Textur und Fragmentierung werden zu den Hauptdesignzielen.
+Hip-Hop ist im Wesentlichen eine Kultur, in der sich der verbale Ausdruck des MC und die sich wiederholende Struktur des Beats ergänzen. Doch seit in den 1990er-Jahren Instrumentalwerke ohne Rap unabhängig voneinander zu kursieren begannen, traten Beats als Thema und nicht als Begleitung in den Vordergrund. Insbesondere bei experimentellen Instrumenten ist keine homogene Beat-Struktur oder ein Entwicklungsdesign für den Rap erforderlich, und Zeit, Textur und Fragmentierung werden zu den Hauptdesignzielen.
 
 > „Der Verzicht auf Wrap ist kein Versäumnis, sondern eine Erweiterung der Gestaltungsfreiheit.“
 
@@ -62,13 +62,17 @@ Als Geräte zur Aufnahme und Wiedergabe kurzer Audiofragmente wurden digitale Sa
 
 ## Von der Schleifenkultur zur Fragmentkultur
 
-In der traditionellen Hip-Hop-Produktion waren Loops von zwei bis acht Takten die Grundeinheit eines Songs. Bei experimentellen Instrumenten ist diese Einheit extrem verkürzt, wodurch Fragmente von weniger als einem Schlag, manchmal mehreren zehn Millisekunden, wiederholt und unterbrochen werden. Dadurch wird vom Zuhörer verlangt, der Dichte der Veränderungen in der Akustik zu folgen, statt die Schläge zu zählen.
+In der traditionellen Hip-Hop-Produktion waren Loops von zwei bis acht Takten die Grundeinheit eines Songs. Bei experimentellen Instrumenten ist diese Einheit extrem verkürzt und wiederholt und unterbricht Fragmente von weniger als einem Schlag, manchmal mehreren zehn Millisekunden. Dadurch wird vom Zuhörer verlangt, der Dichte der Veränderungen in der Akustik zu folgen, statt die Schläge zu zählen.
 
 > „Wiederholung ist nicht stabil, sondern fungiert als eine Reihe von Beschwerden“
 
 ---
 
 ## Madlib-Produktionspraktiken
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMkGcEGW4U4?si=QLXLfNXsUYZPG0OW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 Madlibs Produktion zeichnet sich durch eine Improvisationsmethode aus, die sich auf Hardware-Sampler konzentriert. Bei der Produktion mit der SP-Serie hat die physische Manipulation Vorrang vor der visuellen Bearbeitung, sodass Sample-Verschiebungen und -Fluktuationen in der Musik erhalten bleiben.
 
@@ -85,10 +89,14 @@ flowchart LR
     C --> D["短尺ビート"]
 </div>
 
-
 ---
 
+
 ## Knxwledge-Produktionspraktiken
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yK91vjg2Hsg?si=r18TMv3pzhtatHbh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 Knxwledge basiert auf einer DAW und zeichnet sich durch extrem kurze Loops und isolierte Bearbeitung aus. Der Platzierungsvorgang auf der visuellen Zeitleiste dient dazu, das Taktgefühl von den Zahlen zu trennen.
 
@@ -105,8 +113,8 @@ flowchart LR
     C --> D["断章化"]
 </div>
 
-
 ---
+
 
 ## Zerlegung der Probenahmetechniken
 
@@ -137,7 +145,7 @@ Die Struktur, in der viele kurze Stücke hintereinander angeordnet sind, hat ehe
 ## Chronologie: Experimentelle Hip-Hop-Instrumente
 
 * 1990er Jahre: Unabhängiger Vertrieb von Instrumentalwerken
-* 2000er Jahre: Zunahme von Sampler-basierten Beat-Sammlungen
+* 2000er Jahre: Erhöhte Anzahl Sampler-basierter Beat-Sammlungen
 * 2010er Jahre: Verkürzung der digitalen Vertriebsprämisse
 * 2020er Jahre: Visualisierung des Produktionsprozesses
 

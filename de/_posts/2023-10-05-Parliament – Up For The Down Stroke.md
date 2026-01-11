@@ -19,7 +19,7 @@ Der Titelsong „Up for the Down Stroke“ ist mit seiner hellen Bläsersektion,
 
 Weitere bemerkenswerte Songs sind „Testify“ und „Presence of a Brain“. Diese Lieder gehören zu den lebendigsten Klängen und Darbietungen unter den Liedern des Parlaments.
 
-„Up for the Down Stroke“ erlangte aufgrund seiner Kreativität und seines von Funk durchdrungenen Sounds breite Unterstützung bei Funk-Musik-Enthusiasten.
+„Up for the Down Stroke“ fand aufgrund seiner Kreativität und seines von Funk durchdrungenen Sounds breite Unterstützung bei Funk-Musik-Enthusiasten.
 
 #### Trackliste
 ```md

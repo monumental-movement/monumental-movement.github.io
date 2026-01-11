@@ -28,7 +28,7 @@ title: '[Kolumne] Dungeon Synth – Eine Underground-Ambient-Ästhetik, die vom 
 Text: mmr｜Thema: Über die Geschichte, Produktionstechniken und die kulturelle Stellung von Dungeon Synth, einem vom Black Metal abgeleiteten Underground-Ambient-Genre
 
 Dungeon Synth ist ein Musikgenre, das die Spiritualität von Black Metal und Fantasy/mittelalterlicher Weltanschauung durch minimalistische Synthesizer-Sounds zum Ausdruck bringt.
-Seine Ursprünge liegen in der europäischen Extremmusikszene der frühen 1990er Jahre, doch ab Ende der 2010er Jahre, mit der Ausbreitung der Bandcamp-Kultur, wuchs die zweite und dritte Generation rasch an und hat sich mittlerweile zu einem riesigen DIY-Netzwerk entwickelt.
+Seine Ursprünge lassen sich auf die europäische Extremmusikszene der frühen 1990er-Jahre zurückführen, doch seit Ende der 2010er-Jahre hat sich die zweite und dritte Generation mit der Ausweitung der Bandcamp-Kultur rasant vergrößert und hat sich inzwischen zu einem gigantischen DIY-Netzwerk entwickelt.
 
 ---
 
@@ -70,7 +70,7 @@ Daher wird die Musik oft als „Soundtrack ohne Film“, „Ambient-Musik für e
 Im Folgenden fassen wir die wichtigen Trends von der Geburt des Genres bis zur Gegenwart zusammen.
 
 ### ● 2-1. Frühzeit (1991–1994)
-In den frühen 1990er Jahren, am Rande des skandinavischen Black Metal, begannen Künstler, „dunkles, auf Keyboards basierendes Ambient“ zu kreieren, das die Anzahl der Sounds auf das Nötigste reduzierte.
+In den frühen 1990er Jahren, am Rande des skandinavischen Black Metal, begannen Künstler, „dunkles, auf Keyboards basierendes Ambient“ zu kreieren, das die Anzahl der Sounds auf das absolute Minimum reduzierte.
 
 Von besonderer Bedeutung sind:
 - **Mortiis (Norwegen)**
@@ -89,7 +89,7 @@ Da das Genre außerhalb des Mainstreams der Metal-Szene lag, blieb es bis Mitte 
 Doch Ende der 2000er Jahre, als der frühe Black Metal neu bewertet wurde, wurde **Mortiis Era I neu aufgelegt** und begann weltweit erneute Aufmerksamkeit zu erregen.
 
 ### ● 2-4. Zweite Welle (2010–2015)
-Ausschlaggebend waren Veränderungen im Internetumfeld und die Verbreitung von Bandcamp.
+Veränderungen im Internetumfeld und die Verbreitung von Bandcamp waren der entscheidende Faktor.
 
 - **Rise of Bandcamp (Anfang der 2010er Jahre)**
 - **Der Name „Dungeon Synth“ hat sich auf Reddit/Forum etabliert**
@@ -149,9 +149,9 @@ Im Folgenden fassen wir die Tonquellen, MIDI-Bedienung und Effektmethoden zusamm
 ### ■ Klassische PCM-Tonquelle
 Viele Künstler suchten das Gefühl von Spielekonsolen und PCM-Tastaturen aus den 90er Jahren.
 
-- **Roland JV/XP-Serie (aktuell oder als Probe)**
+- **Roland JV/XP-Serie (aktuell oder Probenahme)**
 - **Yamaha PSR-Serie** (günstige Heimtastatur)
-- **Korg Triton / M1 Beispiel-Soundquelle**
+- **Korg Triton / M1 Beispieltonquelle**
 - **General MIDI-Ton (GM-Klangquelle)**
 
 GM-Klaviere, Chor-Aahs, Streicher, Pads usw. Billigkeit und Nostalgie werden als Werte behandelt.

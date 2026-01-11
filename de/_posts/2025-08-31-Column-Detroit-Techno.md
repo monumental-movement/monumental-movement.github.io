@@ -24,7 +24,7 @@ Detroit Techno ist „elektronische Musik mit menschlicher Note“, die aus der 
 
 ### Ursprünge und Definition – Wann und wer nannte es „Techno“?
 
-In den frühen 1980er Jahren wuchs in Detroit die elektronische Tanzmusik, die Synthesizer und Rhythmusmaschinen voll ausnutzte.
+In Detroit wuchs Anfang der 1980er Jahre elektronische Tanzmusik, die Synthesizer und Rhythmusmaschinen voll ausnutzte.
 
 Angeführt von Juan Atkins, Derrick May und Kevin Saunderson (nicht das sogenannte „Berlin-Trio“, sondern das „Detroit-Trio“) präsentierten sie eine Klangästhetik, die sich von den bestehenden „Elektro“ und „House“ unterschied und sich als „Techno“ etablierte.
 
@@ -45,7 +45,7 @@ Andererseits vermischten sich afroamerikanische Radio-DJ-Kultur (z. B. Kuratoren
 
 <hr>
 
-### Klangeigenschaften – Mechanisch, aber warm
+### Klangeigenschaften – mechanisch, aber warm
 
 - Basierend auf Drum Machines (TR-808/909) und Synthesizern (Roland-Typ, analog).
 
@@ -57,7 +57,7 @@ Die Grenze zwischen DJ und Produzent verschwamm und die Songs wurden durch Spiel
 
 <hr>
 
-### Hauptfiguren und „repräsentative Lieder“
+### Hauptcharaktere und „Signature Songs“
 
 #### **Juan Atkins / Cybotron / Modell 500**
 
@@ -71,7 +71,7 @@ Die Grenze zwischen DJ und Produzent verschwamm und die Songs wurden durch Spiel
 
 #### **Derrick May / Rhythim Is Rhythim**
 
-„Strings of Life“ (1987) ist eine Hymne, die mit ihrem emotionalen, klavierphrasenartigen Synthesizer und dem treibenden Rhythmus den Club erschütterte. Es ist ein Song, der sowohl im Techno als auch im House Einfluss hat.
+„Strings of Life“ (1987) ist eine Hymne, die den Club mit ihrem emotionalen, klavierphrasenartigen Synthesizer und treibenden Rhythmus erschütterte. Es ist ein Song, der sowohl im Techno als auch im House Einfluss hat.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HE8x4EZgOos?si=dWyKg9KfmJMEky5F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -95,7 +95,7 @@ Eines der Meisterwerke von Jeff Mills, „The Bells“, wurde weltweit über 500
 
 #### **Andere (Szenenerweiterung)**
 
-Es folgten verschiedene Generationen, darunter Richie Hawtin (eine zweite Generation, deren späteres Werk eine Brücke zwischen Detroit und der internationalen Szene schlug).
+Es folgten verschiedene Generationen, darunter Richie Hawtin (eine zweite Generation, deren späteres Werk die Kluft zwischen Detroit und der internationalen Szene überbrückte).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JKPScOuCkws?si=Jnj_0pWQz950yOZv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -103,7 +103,7 @@ Es folgten verschiedene Generationen, darunter Richie Hawtin (eine zweite Genera
 
 ### Rolle wichtiger Labels und Veröffentlichungen
 
-Lokale Indie-Labels wie Metroplex (Juan Atkins) und Transmat (Derrick May, gegründet Mitte der 1980er Jahre) gaben den Kreativen direkte Freiheit und wurden zu Stützpunkten für den Export in die Welt. Singles dieser Labels wuchsen in Clubs und wurden schließlich durch Alben und Compilations international. *(Wir empfehlen, für jedes Werk die detaillierten Gründungsinformationen und das Erscheinungsjahr zu prüfen.)
+Lokale Indie-Labels wie Metroplex (Juan Atkins) und Transmat (Derrick May, *Transmat wurde Mitte der 1980er Jahre gegründet) gaben den Kreativen direkte Freiheit und wurden zu Stützpunkten für den Export in die Welt. Singles dieser Labels wuchsen in Clubs und wurden schließlich durch Alben und Compilations international. *(Wir empfehlen, für jedes Werk die detaillierten Gründungsinformationen und das Erscheinungsjahr zu prüfen.)
 
 <hr>
 

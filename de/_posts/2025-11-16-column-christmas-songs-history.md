@@ -51,7 +51,7 @@ Im Amerika der Nachkriegszeit war Bing Crosbys „White Christmas“ (veröffent
 - Universelle Themen, die Sie an Familie und Heimatstadt erinnern
 - Wärme und Glamour mit Arrangement im Big-Band-Stil
 
-Nat King Coles „The Christmas Song“ (1950) enthält Jazzelemente und zeigt eine Versammlung am Kamin und eine Winterszene. „Little Drummer Boy“ (1963) des Harry Simone Chors verwandelte Elemente der Kirchenmusik in Popmusik.
+Nat King Coles „The Christmas Song“ (1950) enthält Jazzelemente und zeigt eine Versammlung am Kamin und eine Winterszene. „Little Drummer Boy“ (1963) des Harry Simone Choir verwandelte Elemente der Kirchenmusik in Popmusik.
 
 #### Repräsentative Songs/Alben
 
@@ -167,7 +167,7 @@ flowchart TD
 
 * Liebeszentrierte Texte
 * R&B- und Pop-Fusion
-*Gesangs-Overdubbing-Harmonie
+* Stimmliche Overdub-Harmonie
 * In Japan Neubewertung von Yumi Matsutoyas „Lover is Santa Claus“.
 
 ---
@@ -188,7 +188,7 @@ flowchart TD
 * Zunahme von Online-Live- und virtuellen Veranstaltungen aufgrund der Coronavirus-Pandemie
 * Die kommerzielle Strategie konzentriert sich auf Vertrieb und SNS und beschleunigt die Neubewertung alter Songs
 
-### Chronologie/Illustration (1990er-2020er)
+### Chronologie/Illustrationen (1990er-2020er)
 
 
 <div class="mermaid">

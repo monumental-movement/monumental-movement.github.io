@@ -136,7 +136,7 @@ Dieses System wurde in vielen Produktionen eingesetzt und spielte eine wichtige 
 
 Seit den 1980er Jahren interessiert sich Subotnick für die Beziehung zwischen Akustik und Schnittstellen und arbeitet an der Erstellung interaktiver Musikunterrichtsmaterialien mithilfe von Computern.
 Zu seinen repräsentativen Projekten gehört die Reihe „Making Music“ (1980er Jahre).
-Hierbei handelt es sich um eine Software, die es Kindern ermöglicht, beim Bedienen etwas über Geräusche und Strukturen zu lernen, und die in amerikanischen Bildungseinrichtungen weit verbreitet war.
+Hierbei handelt es sich um eine Software, mit der Kinder beim Bedienen etwas über Geräusche und Strukturen lernen können und die in amerikanischen Bildungseinrichtungen weit verbreitet ist.
 
 ---
 

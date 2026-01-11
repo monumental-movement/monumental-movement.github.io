@@ -16,7 +16,7 @@ title: Tintenfisch – Ausleben
 ---
 
 
-Inkfish, ein Schwergewicht der Underground-House-Szene, ist ein seit den 90er Jahren aktives Produzenten- und DJ-Kollektiv. Die Mitglieder sind Mattias Lindblom, Jesper Lindquist, Andreas Hermansson und Johan Hermansson aus Schweden.
+Inkfish, ein fester Bestandteil der Underground-House-Szene, ist ein seit den 90er Jahren aktives Produzenten- und DJ-Kollektiv. Die Mitglieder sind Mattias Lindblom, Jesper Lindquist, Andreas Hermansson und Johan Hermansson aus Schweden.
 
 Inkfish hat unter verschiedenen Namen mit namhaften Produzenten/DJs wie David West, Hardy Heller, Tomas Andersson und der Progressive-Legende Ian Ossia zusammengearbeitet. Er hat auch Künstler wie Medway, Tom Novy & Jerome Isma-ae und Matt Darey produziert.
 

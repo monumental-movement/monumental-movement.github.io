@@ -14,7 +14,7 @@ title: Jeff Mills – Lebensechte E.P
 ---
 
 
-„Condor To Mallorca“ von Jeff Mills ist, wie der Titel schon sagt, ein Track mit mystischem Trip-Feeling, der mit inspirierten Keyboardklängen beginnt, die von einem Calypso-ähnlichen Rhythmusprogramm unterstützt werden, das mit einer Kickdrum konvergiert.
+„Condor To Mallorca“ von Jeff Mills ist, wie der Titel schon sagt, ein Track mit mystischem Trip-Feeling, der mit inspirierten Keyboardklängen beginnt, die von einem Calypso-ähnlichen Rhythmusprogramm unterstützt werden, das mit einer Kickdrum zusammenläuft.
 
 Der Track erhält dann einen bedrohlicheren Aspekt, wenn die Streicherelemente hinzukommen.
 

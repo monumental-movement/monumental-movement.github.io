@@ -48,13 +48,13 @@ Eurorack ist kleiner und erschwinglicher als die traditionellen Modelle Moog und
 
 **Repräsentative Module**: Plonk, Metropolis, Tetrapad
 
-Features: Wir produzieren viele hochwertige digitale Module und sind besonders stark bei Sequenzern und Performance-Interfaces.
+Merkmale: Wir produzieren viele hochwertige digitale Module und sind besonders stark bei Sequenzern und Performance-Schnittstellen.
 
 #### Veränderliche Instrumente
 
 **Repräsentative Module**: Braids, Rings, Clouds
 
-**Funktionen**: Als Open Source entwickelt, bietet Module, die eine flexible Klangerstellung ermöglichen. Besonders hervorzuheben ist die Klangvielfalt.
+**Funktionen**: Als Open Source entwickelt, bietet Module, die eine flexible Klangerstellung ermöglichen. Es verfügt über eine besonders hervorragende Klangvielfalt.
 
 ---
 
@@ -157,7 +157,7 @@ Das Live-Setup von Surgeon zeichnet sich durch das Streben nach maximalem Ausdru
 <hr>
 
 
-### Von einer kleinen Box zu unendlichem Klang
+### Von einer kleinen Box zum unendlichen Klang
 
 Die modularen Synthesizer von Eurorack bieten Künstlern mit ihrer Flexibilität und Erweiterbarkeit neue kreative Freiheiten. Mit seiner Weiterentwicklung wird seine Rolle in der Musikszene noch wichtiger.
 

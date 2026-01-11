@@ -62,7 +62,7 @@ Auch Spotify-Playlists sind nur ein neues Format.
 ## Kapitel 2: Aufnahme und Wiedergabe – Geburt von „Recorded Time“
 
 Als zu Beginn des 20. Jahrhunderts **Edisons Phonograph** erschien, war die Menschheit erstmals in der Lage, die „Geräusche der Vergangenheit“ zu reproduzieren.
-Es war eine Revolution in der Musikgeschichte und gleichzeitig die Geburtsstunde der „Zeiterhaltungstechnologie“.
+Es war eine Revolution in der Musikgeschichte und zugleich die Geburtsstunde einer „Technologie zur Zeiterhaltung“.
 
 Schallplatten, Kassetten, CDs, MP3s und Streaming.
 Die Aufnahmetechnologie hat die „Archivierung von Ton“ vorangetrieben und das menschliche Gedächtnis erweitert.
@@ -74,7 +74,7 @@ Musik zeichnet die „Temperatur der Zeit“ direkter auf als Geschichtsbücher.
 
 ---
 
-## Kapitel 3: Die Wissenschaft der Nostalgie und des emotionalen Gedächtnisses
+## Kapitel 3: Die Wissenschaft von Nostalgie und emotionalem Gedächtnis
 
 Musik bringt Menschen zum Weinen, nicht so sehr wegen des Klangs selbst, sondern weil sie mit ihrem „vergangenen Selbst“ wieder vereint sind.
 Psychologisch gesehen fungieren Melodien und Harmonien als Erinnerungs-„Tags“.
@@ -120,7 +120,7 @@ Was Benedict Anderson eine „imaginierte Gemeinschaft“ nennt, ist
 Unterstützt wurde es durch „gemeinsame Musik“ wie die Nationalhymne und das Schullied.
 
 Allerdings entsteht in der heutigen Zeit das „kollektive Gedächtnis“ auf den Bühnen von Festivals und Clubs, nicht in Ländern.
-Sobald Menschen in einer Menschenmenge dasselbe Lied hören, überwinden sie das Individuum und verbinden sich zu einer „Klanggemeinschaft“.
+In dem Moment, in dem Menschen in einer Menschenmenge dasselbe Lied hören, überwinden sie das Individuum und verbinden sich zu einer „Klanggemeinschaft“.
 
 Es ist ein neues „Ritual“ des 21. Jahrhunderts und eine Erneuerung der Erinnerung.
 
@@ -184,7 +184,7 @@ flowchart TD
 ### Referenzen
 
 | Buchtitel | Autor | Herausgeber | Link |
-|------|-------|-----------|---------------|
+|------|--------|----------|---------------|
 | 音楽嗜好症 ― 脳と音楽が出会うとき | オリヴァー・サックス | 早川書房 | [Amazon](https://amzn.to/3IVGnc9) |
 | あなたの脳は音楽をどう感じるか | ダニエル・J・レヴィティン | 白揚社 | [Amazon](https://amzn.to/43k1Hig) |
 | 音楽と脳：響きあう人間の心 | 伊藤正男 | 中央公論新社 | [Amazon](https://amzn.to/3Wd4DJI) |

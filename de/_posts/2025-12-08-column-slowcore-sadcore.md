@@ -133,7 +133,7 @@ Songs wie „Katy Song“ und „Funhouse“ haben eine Struktur, bei der die �
 - Clean-orientierte Verstärker wie Fender Twin Reverb, Vox und Mesa/Boogie
 
 ### ■ Wirkung
-- Reverb (Platte, Hall)
+- Reverb (Platte, Halle)
 - Verzögerung (Analogverzögerung / Digitalverzögerung)
 - Tremolo
 - Chor (mindestens erforderlich)
@@ -192,7 +192,7 @@ Auf YouTube haben sich Videogenres wie „Slowcore Edit“ und „Sadcore-Atmosp
 
 ---
 
-# 7. Slowcore seit den 2000ern
+# 7. Slowcore seit 2000
 ## ■ Beispiele für geerbte Künstler
 - **Duster** (1996~) Neubewertung
 - **Zigaretten nach dem Sex** (2012~)
@@ -236,7 +236,7 @@ flowchart TD
 # 10. Zusammenfassung
 Slowcore/Sadcore ist ein Genre, das in den 1990er Jahren im amerikanischen Indie-Genre entstanden ist und Wert auf „Ruhe“ legt. Langsames Tempo, wenige Noten, entfernter Nachhall und introspektive Texte. Diese wurden als Gegenteil von intensiver Musik geboren, stehen aber jetzt wieder im Rampenlicht der visuellen Kultur und der sozialen Medien.
 
-Vielmehr erlaubt die Beschränkung auf „wenige Töne“ **dem Zuhörer, tiefer in die Musik einzutauchen und die Konturen der Welt klarer hervortreten zu lassen**.
+Vielmehr erlaubt die Beschränkung auf „wenige Töne“ **dem Zuhörer, tiefer in die Musik einzutauchen und die Konturen der Welt deutlicher hervortreten zu lassen**.
 Slowcore ist eine einzigartige Musikrichtung, die kleinste Emotionseinheiten leise darstellt.
 
 

@@ -15,10 +15,10 @@ title: Futureshock – Pride’s Paranoia
 ---
 
 
-Futureshock sind die britischen DJs/Produzenten Alex Tepper und Phil Dockerty.
+Futureshock ist eine Band bestehend aus den britischen DJs und Produzenten Alex Tepper und Phil Dockerty.
 elektronisches Duo von. Hauptsächlich von 1998 bis 2003 aktiv.
 
-„Pride’s Paranoia“ ist ein Progressive-House-Track, der 2003 vom Label Parlophone veröffentlicht wurde.
+„Pride’s Paranoia“ ist ein Progressive-House-Track, der 2003 auf dem Label Parlophone veröffentlicht wurde.
 
 Der zweite Titel auf Seite A ist ein Remix von Ewan Pearson, der verschiedene Künstler wie Cortney Tidwell, Seelenluft, Ladytron, Depeche Mode, The Rapture, Goldfrapp und The Chemical Brothers remixt hat.
 

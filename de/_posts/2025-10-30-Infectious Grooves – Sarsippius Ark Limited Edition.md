@@ -11,7 +11,7 @@ tags:
 - Rock
 - Funk Metal
 - 90s
-title: Infectious Grooves – Sarsippius' Ark (Limited Edition)
+title: Infectious Grooves – Sarsippius' Ark (Limitierte Auflage)
 ---
 
 

@@ -114,7 +114,7 @@ Dieser multikulturelle Mix war der Vorläufer des späteren **Balearic Sound**, 
 
 In diesem Club war „Driften“ wichtiger als „Tanzen“.
 Der Besucher wird vom Klang mitgerissen und verliert sein Zeitgefühl.
-Kosmisch war „Meditation in der Nacht“.
+Cosmic war „Meditation in der Nacht“**.
 
 ---
 

@@ -80,7 +80,7 @@ In dieser Zeit war sein Duett mit Tami Terrell von großer Bedeutung für seine 
 Die Tragödie von Tami Terrells sich verschlechterndem Zustand, ihrem Bühnenzusammenbruch und ihrem Tod hatte jedoch tiefe psychologische Auswirkungen auf Gay und beschleunigte die Schwankungen in ihrer inneren Welt.
 
 ### Die Anfänge des Selbstausdrucks
-1968 hatten sie mit „I Heard It Through the Grapevine“ einen der größten Hits in der Motown-Geschichte. Mit dieser Gelegenheit begann sie sich von einer „Sängerin, die Hits macht“ zu einer „Künstlerin, die etwas zu sagen hat“ zu wandeln.
+1968 hatten sie mit „I Heard It Through the Grapevine“ einen der größten Hits in der Motown-Geschichte. Mit dieser Gelegenheit begann sie sich von einer Sängerin, die Hits macht, zu einer Künstlerin zu wandeln, die etwas zu sagen hat.
 Die Erfahrungen dieser Zeit bilden den Hintergrund, der zum Wendepunkt von „What’s Going On“ führt, der im nächsten Kapitel behandelt wird.
 
 
@@ -95,7 +95,7 @@ Bei diesem Album war er selbst am Schreiben, Komponieren und Produzieren des Alb
 
 ### „Let’s Get It On“ (1973) und die Erforschung der Sexualität
 In „Let's Get It On“ von 1973 beschäftigte sie sich tiefer mit dem Thema Liebe/Begierde und demonstrierte ihren „Sexappeal“ als Soulsängerin. Es gibt eine deutliche Verschiebung vom früheren „sozialen Vorwurf“ hin zur „inneren Leidenschaft“.
-In dieser Zeit erlebte Gaye sowohl die Freude am Schaffen als auch das Scheitern von Liebe und finanziellem Druck in seinem Privatleben, und diese Schwankungen warfen einen Schatten auf seine Arbeit.
+In dieser Zeit erlebte Gaye die Freude am Schaffen, aber auch das Scheitern der Liebe und den finanziellen Druck in seinem Privatleben, und diese Schwankungen warfen einen Schatten auf seine Arbeit.
 
 ### „Here, My Dear“ (1976) – Etablierung als Beichtalbum
 1976 veröffentlichte er das Album Here, My Dear, das die Bedingungen seiner Scheidung von seiner Frau Anna Gordy widerspiegelte. Obwohl dies kein kommerzieller Erfolg war, wurde es als „Geständnisalbum“ positioniert, das später neu bewertet wurde.
@@ -108,12 +108,12 @@ Nach der Veröffentlichung dieses Albums war Gaye sowohl körperlich als auch ge
 
 ### Steuervermeidung, Flucht aus Europa, Vorbereitung auf den Neustart
 In den späten 1970er und frühen 1980er Jahren standen schwule Männer in den Vereinigten Staaten vor vielen Herausforderungen, darunter Steuerprobleme, Drogenkonsum und kreative Stagnation. Nach Belgien zu ziehen und mehr Zeit in Europa zu verbringen, wurde sowohl musikalisch als auch körperlich zu einem „Eskapismus“.
-Inmitten all dessen suchte er nach einem Comeback und suchte nach neuen Klängen und neuen Umgebungen.
+Inmitten all dessen suchte er nach einem Comeback, nach neuen Klängen und neuen Umgebungen.
 
 ### „Midnight Love“ (1982)/„Sexuelle Heilung“
 Am 8. November 1982 veröffentlichte Marvin Gaye sein erstes Album nach der Übertragung, „Midnight Love“, und feierte damit ein großes Comeback.
 
-Ein wesentlicher Punkt dieses Albums ist die durchgehende Verwendung des berühmten Roland TR-808.
+Ein wichtiger Punkt dieses Albums ist die durchgehende Verwendung des berühmten Roland TR-808.
 
 #### Aussehen und Bedeutung von Roland TR-808
 Der Roland TR-808 (allgemein bekannt als „808“) ist eine analoge/programmierbare Rhythmusmaschine, die in den frühen 1980er Jahren eingeführt wurde und damals keinen kommerziellen Erfolg hatte.
@@ -135,15 +135,15 @@ Diese plötzliche Tragödie symbolisierte den Gegensatz seines Lebens: Erfolg un
 
 ---
 
-## Kapitel 5: Vermächtnis, Einfluss und das seltsame „Was wäre wenn“
+## Kapitel 5: Vermächtnis, Einfluss und die seltsamen „Was wäre wenn“
 
 ### Pionier der Befreiung der Musikindustrie und der Künstler
 Marvin Gaye war nicht nur ein Hitmacher, sondern auch jemand, der Künstlern den Weg ebnete, selbständig Musik zu machen. Das Album „What’s Going On“ war ein Werk, an dem er maßgeblich am Schreiben, Komponieren und Produzieren der Texte beteiligt war und das einen großen Einfluss auf den späteren R&B/Neo-Soul hatte.
 
-Darüber hinaus zeigte der Einsatz des Roland TR-808 in „Midnight Love“ auch neue Möglichkeiten für die Fusion von elektronischem Equipment und Soulmusik auf.
+Darüber hinaus zeigte der Einsatz des Roland TR-808 bei „Midnight Love“ auch neue Möglichkeiten für die Fusion von elektronischem Equipment und Soulmusik auf.
 
 ### Persönliches seltsames Schicksal
-Gays Leben ist erfüllt von dem „merkwürdigen“ Schicksal häuslicher Gewalt in der Kindheit, zerbrochener Liebe, finanziellen und Drogenproblemen und der Erschießung durch seinen Vater. Dieser Trend geht über den Rahmen eines bloßen „tragischen Sterns“ hinaus und offenbart das menschliche Bild eines Mannes, dessen „Talent und Leid“ ineinandergreifen.
+Gays Leben ist erfüllt von dem „merkwürdigen“ Schicksal häuslicher Gewalt in der Kindheit, zerbrochener Liebe, finanziellen und Drogenproblemen und der Erschießung durch seinen Vater. Dieser Trend geht über den Rahmen eines bloßen „tragischen Sterns“ hinaus und offenbart ein menschliches Bild eines Mannes, dessen „Talent und Leid“ ineinandergreifen.
 Wenn man darüber hinaus aus der „Was wäre wenn“-Perspektive darüber nachdenkt, kommen einem viele Hypothesen in den Sinn: Was wäre, wenn er die Beziehung zu seinem Vater abgebrochen hätte, was wäre, wenn er nicht vollständig im Motown-System gefangen gewesen wäre, was wäre, wenn er weitergelebt hätte? Sie zeugen von einem „seltsamen Leben“, in dem Zufall und Notwendigkeit ineinander greifen.
 
 ### Neubewertung und Erweiterung des Ausdrucks in der Neuzeit
@@ -171,7 +171,7 @@ Ich hoffe, dass dieses Manuskript eine Gelegenheit bietet, Marvin Gaye, seine Mu
 | Jahr | Veranstaltungen |
 |----|--------|
 | 2. April 1939 | Marvin Pentz Gay Jr. wird in Washington, D.C. geboren |
-| Um 1955-56 | Trat der US Air Force bei und wurde nach kurzer Zeit entlassen. |
+| Um 1955-56 | Trat der US-Luftwaffe bei und wurde nach kurzer Zeit entlassen. |
 | 1961 | Debüt als Solosänger. |
 | 1964 | Hit „How Sweet It Is (To Be Loved by You)“ veröffentlicht. |
 | 1968 | „I Heard It Through the Grapevine“ wird Motowns größter Hit. |

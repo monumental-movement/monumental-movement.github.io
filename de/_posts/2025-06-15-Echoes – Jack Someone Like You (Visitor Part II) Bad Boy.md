@@ -21,7 +21,7 @@ A. Jack -Willkommen im Lost Child Club〜Jack-
 B1. Jemand wie du (Besucher Teil II)
 B2. Böser Junge
 
-Echoes ist eine japanische Rockband, die 1981 unter der Leitung von Hitoshi Tsuji gegründet wurde. Sie veröffentlichten sieben Originalalben und lösten sich 1991 auf.
+Echoes ist eine japanische Rockband, die 1981 von Hitoshi Tsuji gegründet wurde. Sie veröffentlichten sieben Originalalben und lösten sich 1991 auf.
 
 Bei dieser Platte handelt es sich um eine Maxi-Single, die 1985 von CBS/Sony veröffentlicht wurde. Der Produzent ist Akira Inoue.
 

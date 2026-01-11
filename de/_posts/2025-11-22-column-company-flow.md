@@ -27,8 +27,8 @@ title: '[Kolumne] Company Flow: Der vom DIY-Geist eröffnete Horizont des altern
 
 Text: mmr｜Thema: Von der Gründung bis zur Auflösung von Company Flow, Analyse der Arbeit, Klangstruktur, Geschichte der Mitglieder, historische Bedeutung
 
-In New York entwickelte sich Hip-Hop Ende der 1990er Jahre zu einer riesigen kommerziellen Industrie, und gleichzeitig wirbelte eine reaktionäre Untergrundenergie um ihn herum.
-Große Musikgruppen unter der Leitung von Bad Boy Records erweiterten ihre glitzernden Klänge, doch auf der Straßenseite suchten immer mehr Künstler nach einem strengeren und politisch aufgeladeneren Ausdrucksstil.
+Im New York der späten 1990er Jahre, als sich Hip-Hop zu einer riesigen kommerziellen Industrie entwickelte, gab es auch eine reaktionäre Untergrundenergie um ihn herum.
+Große Musikgruppen unter der Leitung von Bad Boy Records weiteten ihre glitzernden Klänge aus, doch auf der Straßenseite suchten immer mehr Künstler nach einem strengeren und politisch aufgeladeneren Ausdrucksstil.
 
 Im Mittelpunkt stand dabei **Company Flow**.
 Ihr 1997 erschienenes Album **Funcrusher Plus** ist ein Meilenstein in der Indie-Hip-Hop-Geschichte.
@@ -74,7 +74,7 @@ Als nächstes **Mr. Len** kam als DJ hinzu und vervollständigte die dreiköpfig
 Nach der Bildung der Einheit hatten sie keine großen Ambitionen,
 **Wir haben Musik in unserem eigenen Tempo veröffentlicht und die Haltung bewahrt, die Autonomie der Künstler strikt zu schützen**.
 
-Ein Symbol dafür ist der Start ihres eigenen Indie-Labels **Official Recordings**.
+Ein Symbol dafür ist die Gründung ihres eigenen Indie-Labels **Official Recordings**.
 
 „Company Flow“ war 1995 die erste 12-Zoll-Single des Labels.
 **„Juvenile Techniques“** veröffentlicht.
@@ -216,7 +216,7 @@ Es besteht aus aufwändigen Metaphern und abstrakten Ausdrücken.
 ## ● Klangkomposition
 
 * Tiefer, knurrender Bass
-* bedrohliche Sample-Schleife
+* Unheilvolle Sample-Schleife
 * Zeitweiliges Synthesizer-Rauschen
 * Detaillierte Percussion mit MPC-Chop
 * Durchgehend eine Mischung aus coolen Texturen
@@ -227,12 +227,12 @@ Es besteht aus aufwändigen Metaphern und abstrakten Ausdrücken.
 
 „The Fire in Which You Burn“ wird aus folgenden Gründen hoch gelobt:
 
-* Repräsentative Songs, die die Politik von Company Flow deutlich machen
+* Repräsentative Lieder, die die Politik von Company Flow deutlich machen
 * Die Sounddesign-Fähigkeiten von El-P sind hervorragend.
 * Inhalte, die den Underground-Hip-Hop der späten 90er Jahre symbolisieren
 * Viele Prototypelemente späterer Werke von Def Jux (Cannibal Ox usw.) sind zu sehen.
 
-Es heißt, dass „Funcrusher Plus“ rund um dieses Lied „den Underground als Ideologie“ etabliert habe.
+Es heißt, dass „Funcrusher Plus“ um dieses Lied herum eine „Underground-Ideologie“ etabliert habe.
 
 ---
 
@@ -262,7 +262,7 @@ Durch die Eliminierung von Rap tritt die Beat-Ästhetik von El-P in den Vordergr
 
 ### ● Ausweitung des Experimentierens
 
-* Beseitigen Sie DJ-Rufe
+* Eliminiert DJ-Ruf
 * BPM, Struktur und Anzahl der Ebenen sind komplexer als zuvor
 * Erhöhte elektronische Elemente
 * Mischen von Lo-Fi- und Hi-Fi-Texturen
@@ -369,7 +369,7 @@ Es verkörperte den Untergrund als „vom Kommerz unabhängigen Gedanken“.
 
 ---
 
-## ● 3. Aufbau des Fundaments des experimentellen Hip-Hop
+## ● 3. Die Grundlage für experimentellen Hip-Hop schaffen
 
 Die akustische Philosophie von El-P
 
@@ -397,7 +397,7 @@ Das Erbe von Company Flow ist
 Es geht über den Wert bloßer Musikwerke hinaus.
 
 * Möglichkeit von Indie
-* Künstlerautonomie
+* Autonomie des Künstlers
 * Bedeutung der Politik
 * Untergrund als Ästhetik
 * Der Wert experimenteller Klänge

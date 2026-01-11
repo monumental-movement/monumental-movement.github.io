@@ -19,7 +19,7 @@ Toni Childs ist eine Grammy-nominierte Singer-Songwriterin.
 
 1979 fungierte er kurzzeitig als Leadsänger von Berlin, einem New-Wave-Act aus Orange County, Kalifornien, bevor er zu Terri Nunn wechselte.
 
-Das 1988 erschienene Album „Union“ war Toni Childs‘ erstes Soloalbum und war ein Riesenerfolg, der in den USA Gold und in Australien Doppelplatin erhielt. 1989 wurde sie für zwei Grammy Awards nominiert, als beste neue Künstlerin und für die beste Rock-Gesangsdarbietung, und war in diesem Jahr die Vorgruppe von Bob Dylan auf Tournee.
+Das 1988 erschienene Album „Union“ war Toni Childs‘ Debüt-Soloalbum und war ein Riesenerfolg, der in den USA Gold und in Australien Doppelplatin erhielt. 1989 wurde sie für zwei Grammy Awards nominiert, als beste neue Künstlerin und für die beste Rock-Gesangsdarbietung, und war in diesem Jahr die Vorgruppe von Bob Dylan auf Tournee.
 
 #### Trackliste
 ```md

@@ -22,9 +22,9 @@ title: Modjo – Chillin' – Großbritannien
  
 „Modjo – Chillin‘“ ist ein 2001 vom französischen Duo Modjo veröffentlichtes Lied. Dieses Lied ist auf ihrem selbstbetitelten Debütalbum Modjo enthalten.
 
-„Chillin‘“ ist ein Song, der Elemente aus Disco- und House-Musik mit einem leichten, groovigen Beat, einer funkigen Basslinie und fesselnden Vocals vereint.
+„Chillin‘“ ist ein Song, der Elemente aus Disco- und House-Musik mit einem leichten und groovigen Beat, einer funkigen Basslinie und fesselnden Vocals kombiniert.
 
-Dieses Lied ist als Pop-Tanzmusik bekannt, die eine entspannte Atmosphäre und eine helle Melodie ausstrahlt.
+Dieses Lied ist als Pop-Dance-Musik bekannt, die eine entspannte Atmosphäre und eine helle Melodie ausstrahlt.
 
 ※UK盤とItaly盤がありますが、こちらはUK盤となります。 Italy盤は[こちら](https://monumental-movement.jp/Modjo-Chillin/)
 

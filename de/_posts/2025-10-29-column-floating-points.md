@@ -21,7 +21,7 @@ title: '[Kolumne] Floating Points und Akustik als Wissenschaft – Analytische E
 Text: mmr | Thema: Floating Points vom Neurowissenschaftler Sam Shepherd. Entdecken Sie die wissenschaftliche Struktur, die in seiner Musik verborgen ist, und ihre Neudefinition als Ambient-Jazz
 
 **Sam Shepherd**, auch bekannt als Floating Points, war Neurowissenschaftler, bevor er Musiker wurde.
-Das „präzise Sounddesign“ und die „organische Improvisation“, die seine Arbeit charakterisieren, sind genau die Gedanken, die ihm entstehen, wenn er zwischen Labor und Bühne hin und her geht. Elektronische Klänge sind keine anorganischen Daten, sondern können als Wellenformen betrachtet werden, die auf die gleiche Weise schwanken wie Gehirnreaktionen. Für ihn ist Klang sowohl ein „messbares Naturphänomen“ als auch der „unkontrollierbare Atem des Lebens“.
+Das „präzise Sounddesign“ und die „organische Improvisation“, die seine Arbeit charakterisieren, sind genau die Gedanken, die ihm entstehen, wenn er zwischen Labor und Bühne hin und her pendelt. Elektronische Klänge sind keine anorganischen Daten, sondern können als Wellenformen betrachtet werden, die auf die gleiche Weise schwanken wie Gehirnreaktionen. Für ihn ist Klang sowohl ein „messbares Naturphänomen“ als auch der „unkontrollierbare Atem des Lebens“.
 
 ---
 
@@ -70,7 +70,7 @@ Es handelt sich um „von einer Maschine ausgeführte Improvisation“ und zugle
 ### 4. Resonanz des Lichts – Versprechenszeitraum (2021)
 „Promises“, gemeinsam mit Pharoah Sanders geschrieben, ist ein Werk, in dem Floating Points wissenschaftliches Klangdenken den Bereich der Seele erreicht.
 Dieses Album überschneidet die physische „Klangmessung“ und das metaphysische „Zeitgefühl“.
-Das Motiv, das sich durch die neun Kapitel umfassende Suite zieht, ist eine Wiederholung nur weniger Noten, die sich wie Quanteninterferenzmuster ändern.
+Das Motiv, das sich durch die neun Kapitel umfassende Suite zieht, ist die Wiederholung nur weniger Noten, die sich wie Quanteninterferenzmuster verändern.
 
 Das Saxophon von Pharoah Sanders fügt sich in elektronische Klänge ein und behält dabei seine menschliche „Atmung“-Qualität.
 Das Gleichgewicht ist wie die Beziehung zwischen dem Beobachter und dem beobachteten Objekt.

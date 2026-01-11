@@ -14,7 +14,7 @@ title: De’Lacy – Versteck
 ---
 
 
-De'Lacy ist eine US-amerikanische House-Musikgruppe aus den 1990er Jahren. Mitglieder sind De'Lacy Davis, Gary Griffin, Glen Branch und Rainie Lassiter. „Hideaway“ ist De’Lacys Signature-Song.
+De'Lacy ist eine US-amerikanische House-Musikgruppe aus den 1990er Jahren. Mitglieder sind De'Lacy Davis, Gary Griffin, Glen Branch und Rainie Lassiter. „Hideaway“ ist De'Lacys Signature-Song.
 
 Der A-Side-Remix stammt vom iranisch-amerikanischen Künstler Ali Shirazinia, auch bekannt als Dubfire, und Sharams Elektro-Duo Deep Dish.
 

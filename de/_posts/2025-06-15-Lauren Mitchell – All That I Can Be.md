@@ -16,7 +16,7 @@ title: Lauren Mitchell – Alles, was ich sein kann
 
 
 
-Europop erschien 1989 auf dem Label Trax Music.
+Europop wurde 1989 vom Label Trax Music veröffentlicht.
 
 Der Produzent ist der britische Sänger John Parr, der für „St. Elmo’s Fire“, das Titellied zum Film „St. „Elmos Feuer.“
 

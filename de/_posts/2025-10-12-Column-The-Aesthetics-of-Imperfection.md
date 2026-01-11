@@ -119,7 +119,7 @@ Die Tatsache, dass es nicht perfekt ist, schwingt mit „Aufrichtigkeit“ mit.
 ### 4-1. Freiheit, nicht sichtbar zu sein
 Die von Instagram und TikTok dominierte Ära des „wohlgeformten Selbstausdrucks“ hat sich verändert.
 Es geht langsam zu Ende.
-Heutzutage möchte die jüngere Generation, dass die Dinge „schwingen“ statt „hervorstechen“.
+Heutzutage möchte die jüngere Generation, dass die Dinge „schwingen“ und nicht „hervorstechen“.
 Schlecht fokussierte Fotos, verrauschte Aufnahmen und unbearbeitete Videos.
 In ihnen finde ich Beweise für mein wahres Selbst.
 

@@ -27,7 +27,7 @@ Text: mmr｜Thema: Chemische Reaktionen von Klang und kulturelle Transformation
 ### Ursprung: Strahlung aus dem Untergrund in Chicago
 Acid House ist ein Musikgenre, das Mitte der 1980er Jahre aus der Underground-Clubszene in Chicago, USA, entstand und ein Subgenre der House-Musik ist.
 
-Der Ursprung dieses Genres liegt im „versehentlichen Missbrauch“ eines elektronischen Instruments namens Roland TB-303 Bass Line Synthesizer. Ursprünglich als Bassgitarrenersatz entwickelt, wurde der TB-303 von DJs und Produzenten (insbesondere von einer Einheit namens Phuture) verwendet, um ihn auf unerwartete Weise zu manipulieren und wellige, flüssige und psychedelische Basslinien zu erzeugen.
+Der Ursprung dieses Genres liegt im „versehentlichen Missbrauch“ eines elektronischen Instruments namens Roland TB-303 Bass Line Synthesizer. Ursprünglich als Ersatz für eine Bassgitarre entwickelt, wurde der TB-303 von DJs und Produzenten (insbesondere von einer Einheit namens **Phuture**) auf unerwartete Weise eingesetzt und erzeugte wellenförmige, „flüssige“ und „psychedelische“ Basslinien.
 
 Phutures Single „Acid Tracks“ aus dem Jahr 1987 wurde zum Prototyp dieses neuen Stils, sowohl im Klangcharakter als auch im Namen.
 
@@ -53,7 +53,7 @@ Die wichtigsten Merkmale von Acid House sind die folgenden Klangelemente:
 
 <hr>
 
-#### Vierfachkick
+#### Vier Tritte
 
 - BPM ist ein stabiles Tempo von etwa 120-130
 
@@ -173,7 +173,7 @@ Heute wird Acid House inmitten der Retro-Kultur und der Wiederbelebung analoger 
 
 - Explosive Verbreitung von TB-303-Klonflugzeugen (Nachbildung analoger Ausrüstung)
 
-Acid House ist mehr als nur ein Musikgenre, es steht weiterhin an der Schnittstelle zwischen elektronischer Musik und Gegenkultur.
+Acid House ist mehr als nur ein Musikgenre, es bleibt die Schnittstelle zwischen elektronischer Musik und Gegenkultur.
 
 
 <hr>

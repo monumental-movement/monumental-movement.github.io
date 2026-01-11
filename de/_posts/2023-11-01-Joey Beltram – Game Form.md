@@ -24,7 +24,7 @@ Er wandte sich 1985 der House-Musik zu, im selben Jahr, in dem die erste Welle d
 
 Ein Jahr später erregten sie die Aufmerksamkeit des belgischen Verlags R&S Records, der Mitte 1990 seine erste große Platte, Energy Flash, herausbrachte, der eine Reihe ebenso beeindruckender Veröffentlichungen folgten.
 
-In den 90er Jahren machte er weiterhin zeitlose Musik mit dem damals hochmodernen Label.
+In den 1990er Jahren schuf er weiterhin zeitlose Musik auf dem damals angesagten Label.
 
 1999 gründete er sein eigenes Label STX Records, das derzeit sowohl mit JB³ als auch mit Joey Beltram aufnimmt.
 

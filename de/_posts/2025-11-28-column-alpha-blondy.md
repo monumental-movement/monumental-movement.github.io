@@ -110,9 +110,9 @@ Ein Werk, das die Apartheid direkt kritisiert.
 - **„Apartheid ist Nationalsozialismus“**
 - Englischer Text: „Unterdrückung und Hass, genau wie die dunklen Tage Europas“
 - Japanische Übersetzung: „Unterdrückung und Hass, es ist wie in den dunklen Tagen Europas.“
-- Kommentar: Vergleich der Apartheid mit dem Nationalsozialismus, um internationale Sympathie zu wecken. Es machte schwarzen Zuhörern in Südafrika Mut.
+- Kommentar: Apartheid mit Nationalsozialismus vergleichen und internationale Sympathie wecken. Es machte schwarzen Zuhörern in Südafrika Mut.
   
-- **"Frieden in Simbabwe"**
+- **„Frieden in Simbabwe“**
 - Englischer Text: „Frieden muss in jedes Land kommen, Simbabwe und darüber hinaus“
 - Japanische Übersetzung: „Frieden wird in allen Ländern kommen, in Simbabwe und darüber hinaus.“
 - Kommentar: Ein Lied über die Unabhängigkeitsbewegungen der umliegenden Länder und Hoffnungen auf Frieden.
@@ -167,7 +167,7 @@ Ausdruck des „Geistes der Freiheit und des Friedens“, basierend auf der Rast
 - Die Aktivitäten von Alpha Blondy machten südafrikanischen Reggae-Künstlern Mut.
 - Einige Künstler ahmen seine Lieder nach und kreieren eigene Protestlieder.
 
-### 7.2 Internationale Auswirkungen
+### 7.2 Internationaler Einfluss
 - Informieren Sie Zuhörer auf der ganzen Welt über den aktuellen Zustand der Apartheid und fördern Sie die internationale Solidarität.
 - Seine Lieder wurden bei vielen Wohltätigkeitsveranstaltungen und Anti-Apartheid-Konzerten verwendet.
 

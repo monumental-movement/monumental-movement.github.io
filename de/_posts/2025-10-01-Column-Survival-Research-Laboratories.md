@@ -68,7 +68,7 @@ Derzeit: Leitet SRL von seinem Sitz in Petaluma, Kalifornien aus.
 
 Rolle: Sounddesign, mechanische Musik (hauptsächlich 1980er bis 1990er Jahre)
 
-Erfolge: Roboter in Musikinstrumente verwandelt, sodass Maschinen Musik komponieren und aufführen können. Später machte er sich selbstständig und gründete das „Mechanical Sound Orchestra (MSO)“.
+Erfolge: Umwandlung von Robotern in Musikinstrumente, wodurch es möglich wird, Musik durch Maschinen zu komponieren und aufzuführen. Später machte er sich selbstständig und gründete das „Mechanical Sound Orchestra (MSO)“.
 
 Einfluss: Etablierter SRL-Sound, der zwischen „Lärm und Musik“ liegt.
 
@@ -134,7 +134,7 @@ SRL veröffentlicht auch DVDs und Alben mit akustischen Auftrittserlebnissen. Na
 
 ### SRL-Einfluss und kulturelle Bedeutung
 
-SRL ist eine bahnbrechende Verschmelzung von Robotik, Performance-Kunst und gesellschaftspolitischer Satire. Ihre Arbeiten verwischen die Grenzen zwischen Technologie und Kunst und hinterlassen beim Publikum einen starken Eindruck. Die Aktivitäten von SRL beeinflussten Veranstaltungen wie Burning Man und Battlebots und hatten großen Einfluss auf die moderne Maker-Kultur und kinetische Kunst.
+SRL ist eine bahnbrechende Verschmelzung von Robotik, Performance-Kunst und gesellschaftspolitischer Satire. Ihre Arbeiten verwischen die Grenzen zwischen Technologie und Kunst und hinterlassen beim Publikum einen starken Eindruck. Die Aktivitäten von SRL beeinflussten Veranstaltungen wie Burning Man und Battlebots und hatten großen Einfluss auf die moderne Maker-Kultur und die kinetische Kunst.
 
 
 ---
@@ -151,7 +151,7 @@ Im Jahr 2007 zog SRL nach Petaluma, etwa eine Stunde nördlich von San Francisco
 
 #### Aktuelle Aktivitäten und Perspektiven
 
-SRL setzt weiterhin Maschinen und Roboter ein und hat in den letzten Jahren an Veranstaltungen wie Burning Man teilgenommen. Wir verfolgen auch die Verschmelzung von Technologie und Kunst, beispielsweise durch die Entwicklung von Maschinen, die über das Internet ferngesteuert werden können.
+SRL führt seine Auftritte weiterhin mit Maschinen und Robotern durch und hat in den letzten Jahren an Veranstaltungen wie Burning Man teilgenommen. Wir verfolgen auch die Verschmelzung von Technologie und Kunst, beispielsweise durch die Entwicklung von Maschinen, die über das Internet ferngesteuert werden können.
 
 
 ---

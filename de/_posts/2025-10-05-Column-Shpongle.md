@@ -19,7 +19,7 @@ title: '[Kolumne] Shpongle: Reinkarnation des Klangs und Reise des Bewusstseins'
 Text: mmr｜Thema: Philosophie des akustischen Universums, gezeichnet von Raja Ram und Simon Posford
 
 
-Shpongle ist ein monumentales psychedelisches Electronica/Psychedelic-Projekt rund um Simon Posford und Raja Ram. 1996 gegründet, inspiriert von der totalen Sonnenfinsternis in Indien, präsentierten sie eine „Audio-Reise“, die ethnisches Sampling, akustische Instrumentierung und meisterhafte Studioproduktion vereint. Ihr Klangbild unterscheidet sich vom Club-Trance und lädt den Zuhörer zu einer Geschichte ein, die Zeit und Raum überschreitet.
+Shpongle ist ein monumentales psychedelisches Electronica/Psychedelic-Projekt rund um Simon Posford und Raja Ram. 1996 gegründet, inspiriert von der totalen Sonnenfinsternis in Indien, präsentierten sie eine „Audio-Reise“, die ethnisches Sampling, akustische Instrumentierung und meisterhafte Studioproduktion vereint. Ihr Klangbild unterscheidet sich vom Club-orientierten Trance und lädt den Zuhörer zu einer Geschichte ein, die Zeit und Raum überschreitet.
 
 ---
 
@@ -53,7 +53,7 @@ Ihr Klang ist ein einzigartiges „Klangmandala“, das Bewusstsein, Meditation,
 ## Kapitel 1: Geburt von Shpongle und historischer Hintergrund von Twisted Records
 
 In den 1990er Jahren befand sich die britische psychedelische Kultur an einem Scheideweg ihrer Entwicklung.
-Eine Zeit, in der der Goa-Trance-Trend Europa erfasste und die LSD-Kultur mit Technologie verschmolz.
+Eine Zeit, in der der Goa-Trance-Trend Europa erfasste und die LSD-Kultur mit der Technologie verschmolz.
 Im Zentrum dieses Trends stand Twisted Records (1996-).
 
 Twisted veröffentlicht spirituelle und intellektuelle Trance-Musik rund um Posford, darunter Hallucinogen, Younger Brother, Prometheus und Celtic Cross.
@@ -144,7 +144,7 @@ flowchart TD
 
 #### Shpongletron: Mandala aus Ton und Licht
 
-Während des Live-Auftritts kommt ein riesiges Videogerät namens Shpongletron zum Einsatz.
+Während der Live-Performance kommt ein riesiges Videogerät namens Shpongletron zum Einsatz.
 Die Bilder von Android Jones werden mit dem Ton synchronisiert.
 Raja Ram wird als „zeremonieller Guru“ auf der Bühne stehen und Posford wird als „Klangalchemist“ auf der Bühne stehen.
 Die Live-Performance selbst wird zu einer Erweiterung des meditativen Erlebnisses.
@@ -197,7 +197,7 @@ Für Raja Ram ist Klang Gebet und Shpongle sein Mantra.
 
 ## Kapitel 6: Simon Posford – Die Produktionsphilosophie des Klangmagiers
 
-Posford kombiniert klassische Synthesizer (Virus, Nord Lead, Roland SH-101) und moderne DAWs (Logic Pro, Ableton).
+Posford kombiniert klassische Synthesizer (Virus, Nord Lead, Roland SH-101) mit modernen DAWs (Logic Pro, Ableton).
 Dutzende Klangschichten werden geschichtet, um absichtlich eine „Resonanz mit Gehirnwellen“ zu erzeugen.
 Seine Werke haben eine konsistente dreischichtige Struktur: tiefer Ton = Körper, Obertöne = Bewusstsein und Nachhall = Spiritualität.
 
@@ -240,7 +240,7 @@ Seine Werke haben eine konsistente dreischichtige Struktur: tiefer Ton = Körper
 
 ---
 
-#### Jüngerer Bruder „Spinning in to Place“
+#### Jüngerer Bruder „Spinning in Place“
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SXLbA7KSYvA?si=KKwi8Vfwl33-CnDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
@@ -309,7 +309,7 @@ Diese Struktur verursacht ein psychologisches Phänomen, das als „akustischer 
 ---
 
 | Akustische Elemente | Physiologische Wirkungen | Psychologische Erfahrungen |
-| ------ | -------- | --------- |
+| ------ | -------- | -------- |
 | Niederfrequenzbasis | Synchronisation von Atmung und Herzschlag | Erdungsgefühl |
 | Hochfrequente Obertöne | Aktivität der Zirbeldrüse | Visuelle Halluzinationen/Zeitdilatation |
 | Nachhall | Nachhall | Erweiterung der räumlichen Lokalisierung | Auflösung des Ego |
@@ -345,7 +345,7 @@ Der Klang geht über Wissenschaft, Philosophie, Religion und Technologie hinaus.
 Er rekonstruiert das menschliche Bewusstsein selbst als Klang.
 
 Es ist nicht nur Musik.
-Es ist die Weiterentwicklung des Aktes des „Zuhörens“ selbst,
+Es ist eine Weiterentwicklung des Aktes des „Zuhörens“ selbst,
 Es ist das Mandala des Bewusstseins, das Raja Ram und Simon Posford der Menschheit hinterlassen haben.
 
 > „Klang wird geboren, verschwindet und kehrt wieder zurück. Das ist Shpongle.“

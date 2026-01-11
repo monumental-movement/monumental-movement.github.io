@@ -17,12 +17,12 @@ title: '[Kolumne] „10 Sekunden Klang“, der mein Leben verändert hat – Kla
 ## Prolog: Wenn Klang das „Leben“ verändert
 
 
-Text: mmr｜Thema: Fragmente von „10 Sekunden“, die mir immer wieder in Erinnerung bleiben
+Text: mmr｜Thema: Fragmente von „10 Sekunden“, die mir immer wieder im Gedächtnis nachklingen
 
 Wenn Sie auf Ihr Leben zurückblicken, gibt es Momente, in denen nur wenige Sekunden Klang Ihre Gedanken, Handlungen und den Rest Ihres Lebens verändert haben.
-Es könnte das Intro eines Liedes sein, ein Geräusch aus dem Radio, ein Riff, das man zufällig in einem Club gehört hat, oder eine Melodie, die jemand nachts an einer Straßenecke summt.
+Es könnte das Intro eines Liedes sein, ein Geräusch aus dem Radio, ein Riff, das Sie zufällig in einem Club gehört haben, oder eine Melodie, die jemand nachts an einer Straßenecke summt.
 
-In dieser Kolumne werde ich meine eigene Erfahrung mit „10 Sekunden Klang“ als Ausgangspunkt nutzen, um zu untersuchen, wie Klang mit Erinnerungen verbunden ist, Kultur prägt und unsere „Lebensweise“ beeinflusst.
+In dieser Kolumne werde ich meine eigene Erfahrung mit „10 Sekunden Klang“ als Ausgangspunkt nutzen, um zu untersuchen, wie Klang mit Erinnerungen verbunden ist, Kultur prägt und unsere Lebensweise beeinflusst.
 
 ---
 
@@ -99,7 +99,7 @@ Der Algorithmus wählt den Klang aus, der die Emotionen am schnellsten anregt, u
 ## Kapitel 4: „Fragmente“, die in der Dunkelheit des Clubs widerhallen – die Struktur kollektiver Trance
 
 In Clubs und Festivals scheint die Musik lange zu dauern, in Wirklichkeit besteht sie jedoch aus einer Aneinanderreihung von „mehreren Sekunden“.
-DJs „organisieren den Raum unbewusst alle 10 Sekunden neu“.
+DJs organisieren den Raum unbewusst alle 10 Sekunden neu.
 Phrasenwechsel, Bassauslassungen, Snare-Wiederholungen——
 Jeder Moment kalibriert die Atmung und Energie des Bodens neu.
 
@@ -122,7 +122,7 @@ Vielmehr werden sie auf ihre Sensibilität getestet, in einem Meer von Möglichk
 
 ## Kapitel 6: Warum vergessen wir dieses Geräusch nie?
 
-Der 10-sekündige Klang ist mit den körperlichen Empfindungen dieses Augenblicks verknüpft und wird gespeichert.
+Ein 10-Sekunden-Ton ist mit der körperlichen Empfindung dieses Augenblicks verknüpft und wird gespeichert.
 Der Geruch von Regen, das Licht im Raum, der Rhythmus deines Herzschlags.
 Selbst wenn die Zeit vergeht, bringt das bloße Hören des Klangs die „gesamte Erfahrung“ der Vergangenheit zurück.
 

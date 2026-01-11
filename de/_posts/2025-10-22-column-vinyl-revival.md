@@ -18,7 +18,7 @@ title: '[Kolumne] Rotierende Nostalgie: Die Psychologie des Vinyl-Revivals'
 Text: mmr | Thema: Hinzufügen einer Datenperspektive zur Psychologie der Datensatzregression. Grafische Darstellung des weltweiten Vinyl-Revivals von 2000 bis 2025
 
 
-In den 2020er Jahren, als der Musikkonsum vollständig digitalisiert wurde, schreitet hinter den vom Spotify-Algorithmus abgespielten Playlists still und leise eine „Rückkehr zum Analogen“ voran.
+In den 2020er Jahren, als der Musikkonsum vollständig digital wurde, schritt hinter den vom Spotify-Algorithmus abgespielten Playlists still und leise eine „Rückkehr zum Analogen“ voran.
 
 ---
 
@@ -115,7 +115,7 @@ In einer Zeit, in der KI unendlich viele Musik erzeugen kann,
 „Klänge, die nicht reproduziert werden können“ und „Spur von Materie“ sind es
 Paradoxerweise beginnt es einen Seltenheitswert zu erlangen.
 
-Schallplatten im Zeitalter KI-generierter Musik
+Schallplatten im Zeitalter der KI-generierten Musik
 **Es wird weiterhin eine „anti-algorithmische Einheit“ sein**.
 
 ---

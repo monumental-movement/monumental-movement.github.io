@@ -15,7 +15,7 @@ title: Aquasky – Ruhe Kauna
 
 Dies ist eine EP von Aquasky, die 1996 auf dem britischen Label „Moving Shadow“ veröffentlicht wurde.
 
-Aquasky hat mit 4/4-Aliasnamen wie Black Noise wie Southern Fried und Wearhouse Music zusammengearbeitet, aber dieses Mal kehren sie mit einem Track zu ihren Wurzeln zurück, der sie in ihre Acid-House-Tage zurückversetzt.
+Aquasky hat mit 4/4-Aliasnamen wie Black Noise wie Southern Fried und Wearhouse Music zusammengearbeitet, doch dieses Mal kehren sie mit einem Track zu ihren Wurzeln zurück, der sie in ihre Acid-House-Tage zurückversetzt.
 
 Eine EP aus dieser Ära, die man unbedingt hören muss, von diesem Trio, dessen Karriere sich über Acid, Jungle, Drum and Bass und Breakbeat erstreckte und nun alle Formen der Bassmusik umfasst.
 

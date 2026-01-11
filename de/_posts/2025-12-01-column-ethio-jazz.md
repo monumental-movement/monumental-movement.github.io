@@ -83,7 +83,7 @@ Diese bildeten die Grundlage für die Entstehung des einzigartigen Genres, das s
 Mulatu gilt als der erste, der seine Musik „Ethio-Jazz“** nannte.
 In den späten 1960er Jahren versuchte er, die traditionelle äthiopische Musik zu modernisieren, indem er die äthiopische Tonleiter (Kinet) mit Improvisations- und Arrangiertechniken des Jazz verband.
 
-Zu den repräsentativen frühen Werken gehören:
+Zu den repräsentativen Frühwerken zählen:
 
 * **Serie „Afro-Latin Soul (1966–67)“**
 * **《Mulatu von Äthiopien (1972)》**
@@ -216,7 +216,7 @@ International neu bewertet mit der Éthiopiques-Reihe.
 
 ### ■ Tilahun Gessesse
 
-Ein Sänger, der als „König der äthiopischen Musik“ bekannt ist. Er ist ehemaliges Mitglied einer Militärkapelle und verfügt über hervorragende Gesangskünste.
+Ein Sänger, der als „König der äthiopischen Musik“ bekannt ist. Er ist ehemaliges Mitglied einer Militärkapelle und verfügt über fortgeschrittene Gesangsfähigkeiten.
 
 ### ■ Hailu Mergia
 
@@ -228,7 +228,7 @@ Später wurde es in Washington, D.C. wiederentdeckt und tourte um die Welt.
 # # 10. Meisterwerk-Anleitung
 
 * **Mulatu von Äthiopien (1972) / Mulatu Astatke**
-* **Éthiopiques Vol. 4: Ethio Jazz & Musique Instrumentale**
+* **Ethiopiques Vol. 4: Ethio Jazz & Musique Instrumentale**
 * **Hailu Mergia & the Walias Band – Tche Belew (1977)**
 * **Alemayehu Eshete – Éthiopiques Vol. 22**
 

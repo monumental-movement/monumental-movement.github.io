@@ -92,7 +92,7 @@ Man kann sagen, dass dies die Ära war, in der Toops Stil etabliert wurde, der K
 
 „Ocean of Sound“, bekannt für seine Metapher des „Meeres aus Klang“, enthielt Erkenntnisse, die die Verbreitung des Streamings vorwegnahmen.
 Der Text, eine Mischung aus Essays, Kritik und Literatur, geht über den Rahmen eines Musikbuchs hinaus und fungiert als „Hörliteratur“.
-Auch seine Ambient-Werke präsentierten eine Welt aus sanften und diffusen Klängen.
+Auch seine eigenen Ambient-Werke präsentierten eine Welt aus sanften und diffusen Klängen.
 
 | Jahr | Ausgewählte Tonquellen/Künstler | Kommentar |
 |------|----------------|------|

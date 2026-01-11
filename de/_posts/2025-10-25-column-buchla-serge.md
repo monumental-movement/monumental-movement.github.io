@@ -52,7 +52,7 @@ color: #fff;
 Im Tape Music Center in San Francisco erkundeten Anfang der 1960er Jahre Künstler wie Morton Subotnick und Pauline Oliveros neue Beziehungen zwischen experimenteller Musik und Technologie.
 Was sie suchten, war „ein Instrument, das keine Erweiterung des Klaviers oder der Gitarre war“.
 
-Die **Buchla Series 100 (1963–1966)** erschien als Antwort auf Subotnicks Anfrage.
+Die **Buchla Series 100 (1963–1966)** erschien auf Anfrage von Subotnick.
 Auf traditionelle musikalische Bedienbarkeit wurde bewusst verzichtet, etwa auf die Konfiguration der akustischen Schaltung mit Knöpfen und Patchkabeln sowie auf die Touch-Plate-Tastatur (eigentlich ein Spannungseingabegerät ohne Skala).
 
 > „Keine schwarzen und weißen Tasten.“ – Don Buchla
@@ -60,7 +60,7 @@ Auf traditionelle musikalische Bedienbarkeit wurde bewusst verzichtet, etwa auf 
 ### 1-2. Buchlas Philosophie: Performative Elektronik
 
 Buchla entwarf Musikinstrumente als „ein Ökosystem, in dem Kontrolle und Erzeugung koexistieren“.
-Der Klang kommt nicht direkt vom Körper des Künstlers, sondern wird durch das **abstrakte Verhalten** von Spannungsänderungen erzeugt.
+Der Klang kommt nicht direkt vom Körper des Darstellers, sondern wird durch das abstrakte Verhalten von Spannungsänderungen erzeugt.
 Dadurch wird die Aufführung zu einem improvisatorischen „Akt“ und der Klang ist flüssig.
 
 ---
@@ -84,7 +84,7 @@ Das Low Pass Gate (ein Element, das sowohl Lautstärke als auch Klangfarbe steue
 
 ---
 
-## 2. Serge Tochenin: Demokratisiertes Modul
+## 2. Serge Tochenin: demokratisiertes Modul
 
 ### 2-1. Geburt von „The People’s Synthesizer“
 

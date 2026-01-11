@@ -47,7 +47,7 @@ color: #fff;
 
 #### 2.1 Genesis P-Orridge- und COUM-Getriebe
 
-Genesis Breyer P-Orridge (1950–2020) ist eine der einflussreichsten Figuren der britischen Avantgarde. Schon in jungen Jahren beteiligte er sich an gegenkulturellen Aktivitäten und leitete in den 1970er Jahren eine Performance-Gruppe namens COUM Transmissions. COUM entwickelt vom Fluxismus beeinflusste Performance-Kunst und bezieht provokante und politische Themen in ihre Kunst ein.
+Genesis Breyer P-Orridge (1950–2020) ist eine der einflussreichsten Figuren der britischen Avantgarde. Schon in jungen Jahren beteiligte er sich an gegenkulturellen Aktivitäten und leitete in den 1970er Jahren eine Performance-Gruppe namens COUM Transmissions. COUM entwickelt vom Fluxismus beeinflusste Performance-Kunst und bezieht provokative und politische Themen in ihre Kunst ein.
 
 Durch seine Arbeit mit COUM Transmissions entwickelte Genesis ein starkes Interesse an der Integration von bildender Kunst, Musik und Performance, was den Grundstein für seine spätere Arbeit legte. Er gründete auch Throbbing Gristle, die als Pioniere der Industrial-Musik international anerkannt wurden.
 
@@ -55,7 +55,7 @@ Durch seine Arbeit mit COUM Transmissions entwickelte Genesis ein starkes Intere
 
 Throbbing Gristle wurde 1976 gegründet und schockierte die Musikwelt Ende der 1970er Jahre mit ihrem Lärm, ihrer Industrial-Musik und ihren Live-Auftritten im Guerilla-Stil. 1981 löste sich die Gruppe jedoch auf. Kurz darauf startete Genesis ein neues musikalisches und künstlerisches Projekt mit Peter Christopherson und Alex Fergusson. Das ist Psychic TV.
 
-Psychic TV war nicht nur eine Musikband, sondern wurde als „Multimedia-Kollektiv“ konzipiert, das Musik, Video, Performance und Okkultismus integriert und von Anfang an eine Struktur hatte, die Experimente und Provokation in den Vordergrund stellte.
+Psychic TV wurde nicht nur als Musikband konzipiert, sondern als „Multimedia-Kollektiv“, das Musik, Video, Performance und Okkultismus integriert und von Anfang an eine Struktur hatte, die den Schwerpunkt auf Experimente und Provokation legte.
 
 ---
 
@@ -69,7 +69,7 @@ Frühe Musik zeichnete sich durch Innovationen aus, die über traditionelle Genr
 
 #### 3.2 Live-Auftritte und Videokunstaktivitäten
 
-Auch bei der Live-Performance war Psychic TV innovativ. Bei vielen Live-Auftritten wurden Videogeräte und mehrere Bildschirme eingesetzt, um dem Publikum ein herausforderndes und zeremonielles Erlebnis zu bieten. Es wurde versucht, die Live-Performance selbst als eine Art rituellen Raum zu rekonstruieren, nicht nur durch Musik, sondern auch durch Bilder und körperlichen Ausdruck.
+Auch bei der Live-Performance war Psychic TV innovativ. Bei vielen Live-Auftritten wurden Videogeräte und mehrere Bildschirme eingesetzt, um dem Publikum ein herausforderndes und rituelles Erlebnis zu bieten. Es wurde versucht, die Live-Performance selbst als eine Art rituellen Raum zu rekonstruieren, nicht nur durch Musik, sondern auch durch Bilder und körperlichen Ausdruck.
 
 #### 3.3 Geburt von Thee Temple ov Psychick Youth (T.O.P.Y.)
 
@@ -85,7 +85,7 @@ Auch bei der Live-Performance war Psychic TV innovativ. Bei vielen Live-Auftritt
 
 #### 4.2 Transformation von Musikstilen
 
-In dieser mittleren Periode wurden neben traditionellem Industrielärm und Punk verschiedene Elemente wie psychedelische, Pop- und experimentelle Musik integriert, und der Musikstil veränderte sich erheblich. Bei ihren Live-Auftritten und Alben waren Musik, Video und Performance eng miteinander verbunden, und die Kunstfertigkeit, die Hör-, Bild- und Spiritualität miteinander verknüpfte, stach heraus.
+In dieser mittleren Periode wurden neben traditionellem Industrielärm und Punk verschiedene Elemente wie psychedelische, Pop- und experimentelle Musik integriert, und der Musikstil veränderte sich erheblich. In ihren Live-Shows und Alben waren Musik, Video und Performance eng miteinander verbunden, und die Kunstfertigkeit, die Hör-, Bild- und Spiritualität miteinander verknüpfte, stach heraus.
 
 #### 4.3 Magie, Chaosmagie und vertiefendes Denken
 

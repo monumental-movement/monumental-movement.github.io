@@ -43,7 +43,7 @@ color: #fff;
 Mitte der 1990er Jahre entwickelten sich Jazz-Funk und Drum and Bass in der britischen Clubszene rasant. In diesem Zusammenhang entstand Musik mit freieren und unregelmäßigeren Rhythmen als Ableger des traditionellen Four-on-the-Floor-House und des Jazz-Funk. Dies bildete die Grundlage für das Genre, das später Broken Beat genannt wurde.
 
 - **Jazz-Funk-Swing-Feeling**: Komplexe Akkordfolgen und unregelmäßige Taktart-Rhythmen
-- **Komplexe Drum-and-Bass- und Jungle-Rhythmen**: schnelle Breakbeats und unregelmäßige Snare-Platzierungen
+- **Komplexität von Drum and Bass und Dschungelrhythmen**: schnelle Breakbeats und unregelmäßige Snare-Platzierungen
 - **Fusion mit der Hip-Hop-Sampling-Kultur**: Gleichzeitiger Einsatz von Live-Musik und Sampling
 
 > „Damals ging es nicht nur um Tanzen oder Musikhören, es machte mehr Spaß, den Swing und Groove zu spüren, der hinter dem Rhythmus entstand.“
@@ -58,7 +58,7 @@ Die Verschmelzung dieses vielschichtigen Rhythmusgefühls und jazzähnlicher Har
 In den Anfängen von Broken Beat waren wichtige Künstler und Labels vertreten.
 
 - **Dego (4hero)**: Während er als Mitglied von 4hero aktiv ist, greift er in seinen Solowerken auch Elemente von Broken Beat auf. „Live in Tokyo“ zeichnet sich insbesondere durch die Methode aus, das Gefühl einer Live-Performance direkt auf Club-Tracks zu übertragen.
-- **IG Culture**: Ein Pionier des Broken Beat-Stils, der Jazz-Funk und Soul verbindet. Wir haben das Genre um komplexe Phrasen auf Keyboards und Synthesizern erweitert.
+- **IG Culture**: Ein Pionier des Broken Beat-Stils, der Jazz-Funk und Soul kombiniert. Wir haben das Genre um komplexe Phrasen auf Keyboards und Synthesizern erweitert.
 - **Kaidi Tatham**: Mit ihren vielseitigen Keyboard-Darbietungen und ungewöhnlichen Taktrhythmen trug sie dazu bei, die Bandbreite der Genres zu erweitern.
 - **2000Black**: Label und Künstlerkollektiv, Heimat der Broken Beat-Community. Neben Veröffentlichungen kam es auch bei regelmäßigen Veranstaltungen zu reger Interaktion.
 

@@ -51,7 +51,7 @@ B6. In Sickness & In Health
 <a href="https://jp.mercari.com/item/m64968588416?afid=6142608987"><img src="../assets/images/The%20Gang%20%E2%80%93%20Barricada%20Rumble%20Beat.webp"></a>
 
 
-Ein Werk einer Punkband aus Italien. Ein seltenes Stück, an dem Billy Bragg aus Großbritannien mitwirkte.
+Ein Werk einer italienischen Punkband. Ein seltenes Stück, an dem Billy Bragg aus Großbritannien mitwirkte.
 
 #### Trackliste
 ```md

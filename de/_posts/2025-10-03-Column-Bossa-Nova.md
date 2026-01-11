@@ -16,7 +16,7 @@ title: '[Kolumne] Bossa Nova Charme und Meisterwerk-Guide: Empfohlene Alben nach
 
 ## Der Charme und die Geschichte von Bossa Nova
 
-Text: mmr｜Thema: Diskographie bedeutender Bossa-Nova-Künstler wie Joao Gilberto, Antonio Carlos Jobim, Stan Getz und Sergio Mendes, geordnet in chronologischer Reihenfolge und Erklärung jedes Albums.
+Text: mmr｜Thema: Diskographie bedeutender Bossa-Nova-Künstler wie Joao Gilberto, Antonio Carlos Jobim, Stan Getz und Sergio Mendes, geordnet in chronologischer Reihenfolge und Erklärung jedes Albums
 
 
 
@@ -74,7 +74,7 @@ color: #fff;
 
 **Geburtsjahr**: 10. Juni 1931 (Juazeiro, Bahia, Brasilien)
 
-**Eigenschaften**: Bekannt als der Gründer von Bossa Nova, ist er aufgrund seines einzigartigen Gitarrenspiels und seines zurückhaltenden Gesangsstils als „Gott des Bossa Nova“ bekannt.
+**Eigenschaften**: Bekannt als der Gründer von Bossa Nova, ist er aufgrund seines einzigartigen Gitarrenspiels und seines bescheidenen Gesangsstils als „Gott des Bossa Nova“ bekannt.
 
 **逸話**: 1958年、アルバム[『Chega de Saudade』](https://amzn.to/3W7J1yt)の制作時、音響技師が彼のギターの音量が小さすぎると指摘した際、ジルベルトは「ギターの音量を上げるのではなく、他の音を下げれば良い」と返答し、彼の音楽哲学を体現しました。
 
@@ -210,9 +210,9 @@ Bossa Nova hat verschiedene Genres wie Jazz, Pop und klassische Musik beeinfluss
 
 ## Zusammenfassung
 
-Bossa Nova ist ein seltenes Genre, das Ende der 1950er Jahre in einer Wohnung in Rio de Janeiro begann und die musikalische Weltkarte neu geschrieben hat. João Gilbertos flüsternde Gitarre und Stimme, Antonio Carlos Jobims anspruchsvolle Kompositionen, Stan Getz' Jazz-Interpretation und Sergio Mendes' Pop-Internationalisierung. Obwohl ihre individuellen Persönlichkeiten und Aktivitäten unabhängig sind, sind sie organisch miteinander verbunden und werden im Laufe der Jahrhunderte weiterhin gehört.
+Bossa Nova ist ein seltenes Genre, das Ende der 1950er Jahre in einer Wohnung in Rio de Janeiro begann und die musikalische Weltkarte neu geschrieben hat. João Gilbertos flüsternde Gitarre und Stimme, Antonio Carlos Jobims anspruchsvolle Kompositionen, Stan Getz' Jazz-Interpretation und Sergio Mendes' Pop-Internationalisierung. Obwohl ihre individuellen Persönlichkeiten und Aktivitäten unabhängig voneinander sind, sind sie organisch miteinander verbunden und werden im Laufe der Jahrhunderte weiterhin gehört.
 
-Auch heute noch geht das Wort „Bossa Nova“ über eine reine Musikgenre hinaus und fungiert als Symbol für „brasilianische Kultur“ und eine „entspannte Atmosphäre“. Durch digitale Plattformen wie Spotify und YouTube wird es von der jüngeren Generation frisch aufgenommen und taucht häufig in KI-Empfehlungen und Playlists auf.
+Auch heute noch ist das Wort „Bossa Nova“ mehr als nur ein Musikgenre und fungiert als Symbol für „brasilianische Kultur“ und eine „entspannte Atmosphäre“. Durch digitale Plattformen wie Spotify und YouTube wird es von der jüngeren Generation frisch aufgenommen und taucht häufig in KI-Empfehlungen und Playlists auf.
 
 Der Charme von Bossa Nova liegt in seiner einzigartigen Musikalität, die die Freiheit des Jazz, den Rhythmus des Samba und den Sinn für Harmonie klassischer Musik vereint. Betrachtet man seine Geschichte, so spiegeln sich darüber hinaus auch gesellschaftliche Hintergründe wie der internationale Kulturaustausch während des Kalten Krieges, die Urbanisierung in Brasilien und die Interaktion mit dem amerikanischen Musikmarkt wider.
 

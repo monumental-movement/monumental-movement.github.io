@@ -13,7 +13,7 @@ title: Manix – Manische Köpfe
 ---
 
 
-„Manix“ ist das Soloprojekt von Marc Clair von 4 Hero. Manix war zu dieser Zeit einer der bedeutendsten Künstler der britischen Rave-Szene, die sich auf Old-School-Breakbeats konzentrierte.
+„Manix“ ist das Soloprojekt von Marc Clair von 4 Hero. Manix war zu dieser Zeit einer der bedeutendsten Künstler der britischen Rave-Szene, die sich um Old-School-Breakbeats drehte.
 
 [Beispielliste]
 Verfolgen Sie die KI

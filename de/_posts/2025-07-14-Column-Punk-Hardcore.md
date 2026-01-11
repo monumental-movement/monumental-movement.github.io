@@ -13,7 +13,7 @@ title: '[Kolumne] Definition von Punk und Hardcore: der Wendepunkt von Wut und A
 ---
 
 
-## Definition von Punk und Hardcore ─ Der Schnittpunkt von Wut und Ausdruck
+## Definition von Punk und Hardcore: der Schnittpunkt von Wut und Ausdruck
 
 Text: mmr｜Thema: Punk/Hardcore
 
@@ -60,7 +60,7 @@ Politisch war es die Entstehungsphase des Thatcherismus. Musik fungierte als Geg
 
 - Schneller, härter, kürzer (oft weniger als eine Minute)
 
-- Betont die Verzerrung der Gitarre und die Zerstörungskraft des Rhythmus
+- Betont die Verzerrung der Gitarre und die Zerstörungskraft des Rhythmus.
 
 - Scream- und Shout-basierter Gesang
 
@@ -70,7 +70,7 @@ Politisch war es die Entstehungsphase des Thatcherismus. Musik fungierte als Geg
 
 – Eine Form, die den Anti-Establishment-Charakter des Punk weiter vorantreibt.
 
-- Auch introspektive und ethische Orientierungen wie die Straight-Edge-Bewegung (Abstinenz von Alkohol, Nichtraucher und Vegetarismus) werden abgeleitet.
+- Auch introspektive und ethische Orientierungen wie die Straight-Edge-Bewegung (Abstinenz, Nichtraucher, Vegetarismus) haben sich herausgebildet.
 
 - Stark politisch, mit Botschaften wie Antikrieg, Antidiskriminierung und Schutz der Tierrechte.
 
@@ -131,7 +131,7 @@ Politisch war es die Entstehungsphase des Thatcherismus. Musik fungierte als Geg
 </table>
 </div>
 
-Die beiden stehen jedoch nicht in einer widersprüchlichen Beziehung. Man kann sagen, dass Hardcore eine weiterentwickelte oder verzweigte Form von Punk ist, oder vielmehr kann man es so interpretieren, dass Hardcore radikaler wird, weil man versucht, die fundamentalistischen Aspekte des Punks beizubehalten.
+Die beiden stehen jedoch nicht in einer widersprüchlichen Beziehung. Man kann sagen, dass Hardcore eine weiterentwickelte oder verzweigte Form des Punk ist, oder vielmehr kann man es so interpretieren, dass Hardcore radikaler wird, weil man versucht, die fundamentalistischen Aspekte des Punks beizubehalten.
 
 
 <hr>

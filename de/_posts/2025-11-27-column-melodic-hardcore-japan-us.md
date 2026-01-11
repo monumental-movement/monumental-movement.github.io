@@ -17,7 +17,7 @@ title: '[Kolumne] Detaillierte Geschichte des Melodic Hardcore in Japan und Amer
 
 ## 1. Einführung: Was ist Melocore?
 
-Text: mmr｜Thema: Über japanischen und amerikanischen Melocore, der weltweit wegen seiner „Wärme“ und „Bedeutung der Melodie“ geschätzt wird
+Text: mmr｜Thema: Über japanischen und amerikanischen Melocore, der weltweit wegen seiner „Hitze“ und „Bedeutung der Melodie“ geschätzt wird
 
 
 Melodic Hardcore ist ein Subgenre des Hardcore-Punks, das sich Ende der 1980er Jahre in den USA entwickelte.
@@ -52,7 +52,7 @@ color: #fff;
 ### 2.1 Frühe Pioniere
 
 #### Descendents (gegründet 1978)
-- 1979 „Milo Goes to College“ veröffentlicht
+- 1979 erschien „Milo Goes to College“.
 - Bauen Sie die Grundlage für Pop und melodischen Hardcore
 - Features: kurze Lieder, eingängige Refrains, persönliche Texte
 - Repräsentative Lieder: „Myage“, „Suburban Home“
@@ -60,12 +60,12 @@ color: #fff;
 #### Bad Religion (gegründet 1980)
 - Melocore wurde 1988 mit „Suffer“ fertiggestellt
 - Mit intelligenten Texten und dreiteiligem Refrain
-- Wurde in den 1990er Jahren zum Symbol des amerikanischen Westküsten-Melocores
+- Wurde in den 90er Jahren zum Symbol des amerikanischen Westküsten-Melocores
 - Repräsentative Lieder: „Do What You Want“, „American Jesus“
 
 #### NOFX (gegründet 1983)
 -Kommerzieller Erfolg mit Ribbed im Jahr 1991
-- Anführer der Melocore-Szene der 90er basierend auf Fat Wreck Chords
+- Anführer der Melocore-Szene der 90er Jahre, basierend auf Fat Wreck Chords
 - Features: Text mit Humor und Gesellschaftssatire
 - Repräsentative Lieder: „Linoleum“, „Bob“
 
@@ -188,7 +188,7 @@ flowchart TD
 
 - Fusion mit Pop-Punk
 - Screamo Melocore (A Day to Remember usw.)
-- In Japan wird der Schwerpunkt auf die Melodie gelegt, während die jugendlichen/alltäglichen Texte beibehalten werden.
+- In Japan liegt der Schwerpunkt auf der Melodie, während die jugendlichen/alltäglichen Texte beibehalten werden.
 - In Amerika stehen politische Botschaften und kraftvolle Live-Auftritte im Mittelpunkt
 
 ---
@@ -204,7 +204,7 @@ flowchart TD
 
 ## 9. Fazit
 
-Obwohl japanischer und amerikanischer Melocore unterschiedliche kulturelle Hintergründe haben, haben sie aufgrund ihrer gemeinsamen Leidenschaft und Bedeutung für Melodien internationale Unterstützung gewonnen.
+Obwohl japanischer und amerikanischer Melocore unterschiedliche kulturelle Hintergründe haben, haben sie aufgrund ihrer gemeinsamen „Leidenschaft“ und „Bedeutung der Melodie“ internationale Unterstützung gewonnen.
 Die Szenen in beiden Ländern werden sich weiterhin gegenseitig beeinflussen und an jüngere Generationen weitergegeben werden.
 
 ---

@@ -13,7 +13,7 @@ title: Reibung – '79 Live
 ---
 
 
-Friction war eine japanische Punkrockband, die Ende der 1970er Jahre im Zentrum der „Tokyo Rockers“-Bewegung stand.
+Friction war eine japanische Punkrockband, die Ende der 1970er Jahre im Zentrum der Tokyo Rockers-Bewegung stand.
 
 „'79 Live“ Eine Neuauflage des Live-Albums aus dem Jahr 2005 mit dem Live-Auftritt von 1979 (inkl. DVD).
 

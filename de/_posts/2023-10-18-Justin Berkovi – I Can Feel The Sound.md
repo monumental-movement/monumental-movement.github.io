@@ -14,7 +14,7 @@ title: Justin Berkovi – Ich kann den Klang spüren
 
 
 Justin Berkovi ist ein in London ansässiger Techno-DJ/Produzent und Gründer von Predicaments.
-Darüber hinaus beteiligt sich Justin Berkovi zusammen mit Si Begg, Jamie Lidell und anderen an der Musik- und Kunstgruppe „NO FUTURE“, die von Christian Vogel geleitet wird.
+Darüber hinaus beteiligt sich Justin Berkovi zusammen mit Si Begg, Jamie Lidell und anderen an der Musik- und Kunstgruppe NO FUTURE, die von Christian Vogel geleitet wird.
 
 „I Can Feel The Sound“ wurde 2004 vom belgischen Techno-Label Music Man Records veröffentlicht. Side A ist ein Remix von DJ/Produzent Phil Kieran aus Belfast, Nordirland. Der erste Song auf Seite B ist ein Remix des französischen DJs Max Waldern.
 

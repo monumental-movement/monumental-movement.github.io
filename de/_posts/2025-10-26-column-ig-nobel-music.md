@@ -100,9 +100,9 @@ Es erregte auch große gesellschaftliche Aufmerksamkeit als Beispiel für die Vi
 
 Im Jahr 2020 Forschung von **Takeshi Nishimura** und Kollegen am Primate Research Institute der Universität Kyoto
 Erhielt den **Akustikpreis**.
-Das Forschungsteam platzierte Krokodile in einer Mischgasumgebung aus Helium und Sauerstoff (Heliox).
+Das Forschungsteam brachte Krokodile in eine Helium-Sauerstoff-Mischgasumgebung (Heliox).
 Analyse der Formanten (Resonanzkomponenten) des Schreis.
-Als Ergebnis konnten wir bestätigen, dass sich auch die Resonanzstruktur verändert, wenn sich die Luftdichte ändert.
+Als Ergebnis haben wir bestätigt, dass sich auch die Resonanzstruktur ändert, wenn sich die Luftdichte ändert.
 
 Dies war eine experimentelle Demonstration, dass **die Stimmresonanz von der Körpergröße und der Struktur des Stimmapparats abhängt**.
 Mit anderen Worten, biologische Kommunikation nennt man „Schreie“
@@ -140,7 +140,7 @@ Die beiden teilen den gleichen Forschungsgeist mit unterschiedlichen Methoden.
 ### 3.3 Publikum als „Subjekt“ – zwischen Emotionen und Daten
 
 In neueren neurowissenschaftlichen Forschungen wurde fMRT verwendet, um die Gehirnaktivität beim Musikhören zu messen.
-Derzeit werden Anstrengungen unternommen, um die Mechanismen zu analysieren, durch die Freude und Empathie entstehen.
+Es werden Anstrengungen unternommen, die Mechanismen zu analysieren, durch die Freude und Empathie entstehen.
 Beim Ig-Friedensnobelpreis 2019 (Niederlande/Polnistik)
 Der Preis ging an eine Studie, die „wütende Reaktionen beim Hören unangenehmer Geräusche“ untersuchte.
 Wie reagieren Menschen auf Geräusche? Die Frage ist,

@@ -46,7 +46,7 @@ color: #fff;
 
 Ricardo Villalobos wurde 1970 in Santiago, Chile, geboren. Als er jung war, zog seine Familie nach Deutschland, doch die Rhythmen Südamerikas blieben ihm erhalten. Die Klänge von Congas und Bongos wurden später als subtile Percussion in seinen Tracks wiederbelebt. Als er in seinen frühen Zwanzigern in der Berliner Clubszene arbeitete, kam er mit der neuesten Generation des Minimal Techno in Kontakt und durch die Verbindung dieser mit einem lateinamerikanischen Rhythmusgefühl entwickelte er seine eigene Musiksprache.
 
-Seine frühen EP-Werke zeichneten sich durch einen „immersiven“ Sound mit dezenter Percussion und langen Tracks aus. „Halma“ und „Que Belle Epoque“ beispielsweise gehen über reine Tanzmusik hinaus und verfügen über Strukturen, die den Hörer in den Fluss der Zeit einbeziehen.
+Seine frühen EP-Werke zeichneten sich durch einen „immersiven“ Sound mit dezenter Percussion und langen Tracks aus. „Halma“ und „Que Belle Epoque“ beispielsweise gehen über reine Tanzmusik hinaus und haben Strukturen, die den Hörer in den Fluss der Zeit einbeziehen.
 
 ### Lucianos Flugbahn
 
@@ -58,13 +58,13 @@ Das von ihm später gegründete Label Cadenza brachte Künstler hervor, die süd
 
 ## Kapitel 2: Begegnung und die Geburt von Sense Club
 
-Als Villalobos Ende der 1990er Jahre in einem chilenischen Club an einem Plattenteller saß, spürte Luciano die rhythmischen Konturen und fand sofort Resonanz bei ihm. Die beiden werden ein gemeinsames Projekt namens „Sense Club“ starten. Dieser Veranstaltungsort, der lateinamerikanische Rhythmen und europäischen Techno verbindet, ist über den Rahmen einer bloßen musikalischen Einheit hinausgegangen und hat sich zu einem Testgelände für Kultur und Körper entwickelt.
+Als Villalobos Ende der 1990er-Jahre in einem chilenischen Club am Plattenspieler saß, spürte Luciano die rhythmischen Konturen und fand sofort Resonanz bei ihm. Die beiden werden ein gemeinsames Projekt namens „Sense Club“ starten. Dieser Ort, an dem sich lateinamerikanische Rhythmen und europäischer Techno kreuzen, hat den Rahmen einer einfachen musikalischen Einheit überschritten und ist zu einem Testgelände für Kultur und Körper geworden.
 
 Die Philosophie des Sense Clubs war klar. „Tanzen ist nicht nur eine Bewegung, sondern ein Ritual, das Kultur und Körper verbindet.“ Lange Sets, subtile Percussion und die gelegentliche Kakophonie von Klängen hauchen der Tanzfläche neues Leben ein.
 
 ### Sense Club frühe Live-Anekdoten
 
-Eines Abends waren etwa 300 Leute auf der Clubetage. Villalobos spielt lange Titel nacheinander ab und nimmt dabei winzige Anpassungen am Plattenspieler vor. Währenddessen mischte Luciano in Echtzeit Samples von Schlaginstrumenten. Das Publikum tanzte lange und am Ende des Sets schien es, als sei es mit dem Fluss der Zeit verschmolzen. Dieses Erlebnis war ein Moment, der die musikalischen Philosophien der beiden symbolisierte.
+Eines Abends waren etwa 300 Leute auf der Clubetage. Villalobos spielt lange Titel nacheinander ab und nimmt dabei winzige Anpassungen am Plattenteller vor. Währenddessen mischte Luciano in Echtzeit Samples von Schlaginstrumenten. Das Publikum tanzte lange und am Ende des Sets schien es, als sei es mit dem Fluss der Zeit verschmolzen. Dieses Erlebnis war ein Moment, der die musikalischen Philosophien der beiden symbolisierte.
 
 ---
 
@@ -92,7 +92,7 @@ Etwa zur gleichen Zeit gründete Luciano das in der Schweiz ansässige Label Cad
 
 ## Kapitel 4 Schnittstelle von Kultur und Klang
 
-Ihre Musik besteht aus mehr als nur Beats. Durch die Kombination von Villalobos‘ deutscher Präzision mit elektronischer Musik und Lucianos südamerikanischem Rhythmusgefühl wurde der Club mehr als nur ein Spielplatz, sondern eine kulturelle Verkörperung. Das Publikum bewegte sich unwissentlich zwischen zwei Welten, als es sich dem Takt hingab.
+Ihre Musik besteht aus mehr als nur Beats. Durch die Kombination von Villalobos‘ deutscher Präzision mit elektronischer Musik und Lucianos südamerikanischem Rhythmusgefühl hat sich der Club von einem einfachen Spielplatz zu einem Ort verwandelt, der Kultur verkörpert. Das Publikum bewegte sich unwissentlich zwischen zwei Welten, als es sich dem Takt hingab.
 
 ### Revolution von Rhythmus und Körper
 
@@ -124,7 +124,7 @@ Beide treten live in ganz Europa, Südamerika und Nordamerika auf. Vor allem Auf
 - *Rise of Angel* (2002, Cadenza)
 - *No Friends* (2004, Cadenza)
 - *Crimen* (2005, Cadenza)
-- *Luciano DJ Mix*-Reihe (2003–2010, Cadenza)
+- *Luciano DJ Mix*-Serie (2003–2010, Cadenza)
 
 ---
 

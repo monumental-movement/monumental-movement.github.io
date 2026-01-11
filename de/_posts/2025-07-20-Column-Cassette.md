@@ -23,7 +23,7 @@ Text: mmr｜Thema: Kassette, eine Nebenrolle bei der analogen Musikaufnahme
 <hr>
 
 ### Tragbare Musikrevolution im analogen Zeitalter
-Die Kassette (Compact Cassette) wurde 1963 von Philips entwickelt und erlangte in den 1970er bis 1990er Jahren weltweite Popularität als eines der führenden Musikmedien.
+Die Kassette (Compact Cassette) wurde 1963 von Philips entwickelt und erlangte in den 1970er bis 1990er Jahren als eines der führenden Musikmedien weltweite Popularität.
 
 - Das Aufkommen tragbarer Player (Walkmans)
 
@@ -220,7 +220,7 @@ Kassetten sind ein sowohl praktisches als auch analoges Format, das in der Gesch
 
 Mit der Verbesserung der Materialien und der Entwicklung der Aufnahmetechnik hat sich auch die Klangqualität weiterentwickelt und jeder Typ weist unterschiedliche akustische Eigenschaften auf.
 
-Obwohl es in Bezug auf Frequenzband und Signal-Rausch-Verhältnis nicht so gut wie das digitale Gerät ist, erfreut es sich aufgrund seines warmen Klangs und seiner Benutzerfreundlichkeit weiterhin großer Beliebtheit.
+Obwohl es in Bezug auf Frequenzband und Signal-Rausch-Verhältnis nicht so gut wie das digitale Gerät ist, erfreut es sich aufgrund seines warmen Klangs und seiner einfachen Bedienung nach wie vor großer Beliebtheit.
 
 <hr>
 

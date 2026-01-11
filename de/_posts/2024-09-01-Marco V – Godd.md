@@ -16,7 +16,7 @@ title: Marco V – Godd
 
 Marinus Verkuijlen, auch bekannt als Marco V, ist ein niederländischer DJ für elektronische Musik. Er ist ein Pionier des Tech-Trance und gilt als einer der bedeutendsten Trance-Künstler. Er ist auch unter anderen Namen wie VISION20/20 aktiv.
 
-„Godd“ ist ein Hard-Trance-/Tech-Trance-Track, der 2002 vom deutschen Independent-Plattenlabel Superstar Recordings veröffentlicht wurde.
+„Godd“ ist ein Hard-Trance/Tech-Trance-Track, der 2002 vom deutschen Independent-Plattenlabel Superstar Recordings veröffentlicht wurde.
 
 Der zweite Song auf Seite B ist ein Remix von DJ Errik, der Resident-DJ im Poison Club in Düsseldorf ist und auf vielen berühmten Festivals spielt.
 

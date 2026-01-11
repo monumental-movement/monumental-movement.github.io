@@ -119,7 +119,7 @@ B5. Makin' Love
 ### Amany & The Badawist – Komm schon, Bassem
 <a href="https://jp.mercari.com/item/m46511656290?afid=6142608987"><img src="../assets/images/Amany%20and%20The%20Badawist%20%E2%80%93%20Come%20on%20Bassem.webp"></a>
 
-2024 Stammes-/Weltmusik, nahöstlicher/afrikanischer Stammesklang.
+2024 Tribal/Weltmusik Tribal-Sound aus dem Nahen Osten und Afrika.
 
 #### Trackliste
 ```md
@@ -264,7 +264,7 @@ B. Side B
 ### Verschiedenes – Das Vergnügen! Geschichte
 <a href="https://jp.mercari.com/item/m75930589194?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20The%20Enjoy!%20Story.webp"></a>
 
-1990er Jahre? Klassische Hip-Hop-Zusammenstellung aus der frühen Zulu-Nation-Ära
+1990er? Klassische Hip-Hop-Zusammenstellung aus der frühen Zulu-Nation-Ära
 
 #### Trackliste
 ```md

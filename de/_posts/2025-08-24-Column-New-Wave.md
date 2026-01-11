@@ -43,7 +43,7 @@ Mit der Verbreitung analoger Synthesizer und Drum Machines entstanden mechanisch
 
 - **Genreübergreifend**
 
-Sie haben Funk-Rhythmen (Talking Heads), Reggae-Grooves (The Police) und Disco-Dance-Feeling (Blondie) frei integriert und dabei Genregrenzen überschritten.
+Sie haben Funk-Rhythmen (Talking Heads), Reggae-Grooves (The Police) und Disco-Tanz-Feeling (Blondie) frei integriert und dabei Genregrenzen überschritten.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zPwMdZOlPo8?si=P34k6oSAFvO22UK3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -47,7 +47,7 @@ color: #fff;
 
 Die Idee von Glitch selbst geht auf die Ästhetik der Electronica in den späten 1990er Jahren zurück (Oval, Alva Noto, Ryoji Ikeda usw.). Er behandelte CD-Lesefehler und digitale Signalstörungen als musikalisches Material und zitierte aktiv die „Ästhetik des Scheiterns“.
 
-Glitch war in dieser Zeit experimenteller, wobei der Schwerpunkt eher auf Textur, Raum und Struktur als auf Rhythmus lag. Andererseits unterschied sich der spätere Glitchcore definitiv dadurch, dass er stark mit der Pop- und Internetkultur verbunden war.
+Glitch-Musik aus dieser Zeit war experimenteller und legte den Schwerpunkt eher auf Textur, Raum und Struktur als auf Rhythmus. Andererseits unterscheidet sich der spätere Glitchcore entscheidend dadurch, dass er stark mit der populären Pop- und Internetkultur verbunden ist.
 
 ---
 
@@ -94,7 +94,7 @@ Typische Verarbeitung:
 * Hinzufügen eines Charaktergefühls durch Formantenmanipulation
 * Gemischte Verwendung von Vocaloid-Soundquellen
 
-Die Methode, „mehrere Stimmenebenen gleichzeitig abzuspielen“ wie 100 Gecs, gilt als Symbol für Hyper-Glitch.
+Die Methode, „mehrere Stimmenebenen gleichzeitig abzuspielen“, wie etwa 100 Gecs, gilt als Symbol für Hyper-Glitch.
 
 ---
 
@@ -133,7 +133,7 @@ Typische Merkmale:
 
 ### 3-2　100 Gecs
 
-100 gecs (Laura Les & Dylan Brady) ist eine Ikone des Glitchcore. Sie mischten Emo, Ska, Metal, Trap und Bubblegum Pop zu einem Rausch und verwandelten den „Genre-Kollaps“ in Pop.
+100 gecs (Laura Les & Dylan Brady) ist eine Ikone des Glitchcore. Sie vermischten Emo, Ska, Metal, Trap und Bubblegum Pop zu einem rasenden Zustand und verwandelten den „Genre-Kollaps“ in Pop.
 
 Merkmale:
 
@@ -186,7 +186,7 @@ Beispielmethode:
 
 ### 4-2 Ästhetik als „überladener Mix“
 
-Im Fall von Hyper-Glitch geht es bei Mixen nicht um „Reparieren“, sondern um „Bauen und gleichzeitig Zerstören“.
+Im Fall von Hyper-Glitch geht es bei Mixen nicht um „Aufbauen“, sondern um „Bauen und gleichzeitig Zerstören“.
 
 Punkt:
 
@@ -262,7 +262,7 @@ Ein weiteres wichtiges Merkmal ist, dass Ausdrücke im Anime-Stil, Vocaloid-Kult
 * Hartes, elastisches Klangbild
 * Fusion metallischer und elektronischer Klänge
 * Elektronische Klänge mit „Materialität“
-* Dreidimensionaler Effekt, der dem Klang ein körperliches Gefühl verleiht
+* 3D-Effekt, der dem Klang ein physisches Gefühl verleiht
 
 ---
 
@@ -288,7 +288,7 @@ Die beschleunigte Version von auf TikTok populären Songs hat eine hohe Affinit�
 
 ---
 
-### 9-2 Ansatz von KI-Gesang und Glitchcore
+### 9-2 Ansatz zwischen KI-Gesang und Glitchcore
 
 Die Synthese von Gesangsstimmen und die Generierung von Charakterstimmen mithilfe von KI sind eine Erweiterung von Glitchcores „nichtmenschlicher Stimme“.
 Die Tonhöhenschwankungen und die Unnatürlichkeit von KI-Stimmen sind ästhetisch akzeptabel.

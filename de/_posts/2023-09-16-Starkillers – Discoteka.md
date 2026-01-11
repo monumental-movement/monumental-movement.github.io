@@ -16,7 +16,7 @@ title: Starkillers – Discoteka
 
 „Discoteka“ ist Tanzmusik, die Elemente aus Genres wie Electro House und Progressive House enthält.
 
-Es spiegelt den charakteristischen Soundstil der Starkillers wider und zeichnet sich durch energiegeladene Beats, schwere Basslinien und treibende Melodien aus. Dies ist ein beliebter Titel in Clubs, Partys und Festivals.
+Es spiegelt den charakteristischen Soundstil der Starkillers wider und zeichnet sich durch energiegeladene Beats, schwere Basslinien und treibende Melodien aus. Es ist ein beliebter Titel in Clubs, Partys und Festivals.
 
 #### Trackliste
 ```md

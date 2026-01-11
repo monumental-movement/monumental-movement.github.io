@@ -13,7 +13,7 @@ title: Dharma Bums – Dharma bedeutet Wahrheit
 ---
 
 
-Dharma Bums ist ein britisches Duo für elektronische Tanzmusik, das von Jason Hayward (DJ Phats) und Martin Tyrell (DJ Dharma 900) gegründet wurde.
+Dharma Bums ist ein britisches Duo für elektronische Tanzmusik, bestehend aus Jason Hayward (DJ Phats) und Martin Tyrell (DJ Dharma 900).
 
 „Dharma Means Truth“ wurde 1994 vom britischen Label Zoom Records veröffentlicht.
 

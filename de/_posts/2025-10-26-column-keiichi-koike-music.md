@@ -47,7 +47,7 @@ color: #fff;
 Er fällt als jüngster ausgewählter Kandidat auf.
 - **1981**: Umzug in die Vereinigten Staaten und Teilnahme an der kommerziellen Produktion bei Richard Williams Animation Inc.
 Lernen Sie durch Animationstechniken die Bedeutung von Bewegung und Rhythmus.
-- **1983**: „LANDED“ wurde in Marvels „Epic Illustrated“ veröffentlicht.
+- **1983**: „LANDED“ veröffentlicht in Marvels „Epic Illustrated“.
 Erweitern Sie die Bandbreite des visuellen Ausdrucks, indem Sie Ihre Arbeiten international präsentieren.
 
 In dieser Zeit wurden die Grundlagen des **zeitlichen/rhythmischen Ausdrucks** in der Zeilen- und Bildkomposition gelegt.
@@ -78,7 +78,7 @@ Präzise Linien und visuelle Rhythmen vermitteln dem Leser ein musikalisches Erl
 Die langfristige Serialisierung vertieft die spirituelle Welt und verfeinert die Komposition und Linienführung.
 
 - **2009**: Band 3 von „ULTRA HEAVEN“ veröffentlicht.
-Die neuen Bücher, die alle vier Jahre erscheinen, sind eine echte Lektüre.
+Die neuen Bücher, die alle vier Jahre erscheinen, sind ein echtes Lesevergnügen.
 
 ---
 
@@ -109,7 +109,7 @@ Obwohl Koike von diesen Einflüssen beeinflusst ist, ist er insofern einzigartig
 
 ---
 
-## Kapitel 6: Vergleich von Arbeitsmotiven und Techniken
+## Kapitel 6: Vergleich von Arbeitsmotiven und -techniken
 
 <div class="mermaid">
 

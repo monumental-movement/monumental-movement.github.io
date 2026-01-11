@@ -126,9 +126,9 @@ G[高周波電子音] --> H[実験的回避]
 
 - **Hokkaido-Obstgarten (2015–2018)**: Invasionsrate durch den Einsatz von Feuerwerkskörpern um 40 % reduziert
 
-- **Kyushu elektronischer Klangversuch (2019–2021)**: Kurzfristige Vermeidung durch den Einsatz von Hochfrequenzgeräten, langfristige Gewöhnung tritt ein
+- **Kyushu elektronischer Klangversuch (2019–2021)**: Kurzfristige Vermeidung durch den Einsatz von Hochfrequenzgeräten, langfristige Gewöhnung erfolgt
 
-- **Demonstration von Tohoku-KI-Sprechern (2020–2023)**: Erfolgsquote der Warnung vor der Bäreninvasion 65 %
+- **Tohoku AI Speaker Demonstration (2020–2023)**: Erfolgsquote der Warnung vor Bäreneinbruch 65 %
 
 ---
 
@@ -156,7 +156,7 @@ Klangerzeugung nach Verhaltensmustern mittels KI-Analyse. Decken Sie ein großes
 
 ### 6.2 Internationale Fälle
 
-- **Kalifornien, USA**: Einbruchschutz mit elektronischen Klängen und menschlicher Stimme
+- **Kalifornien, USA**: Einbruchschutz mit elektronischen Klängen und menschlichen Stimmen
 
 - **BC, Kanada**: Nicht-tödliches Akustikmanagement reduziert Ernteschäden
 
@@ -166,7 +166,7 @@ Klangerzeugung nach Verhaltensmustern mittels KI-Analyse. Decken Sie ein großes
 
 Schadensbegrenzung ist eine Frage der Koexistenz, nicht der Schädlingsbekämpfung.
 
-Gegenmaßnahmen mit Schall sind nicht tödlich und wirksam
+Vernünftige Gegenmaßnahmen sind nicht tödlich und wirksam
 
 - **Herausforderungen**: Gewöhnung, Auswirkungen auf das Ökosystem, Kosten
 

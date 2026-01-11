@@ -18,7 +18,7 @@ title: '[Kolumne] Das afrokubanische Skelett – Die Genealogie des Herzschlags,
 ## Einführung: Eine weitere Geschichte amerikanischer Musik, erzählt von Taiko-Trommeln
 
 
-Text: mmr｜Thema: Im Mittelpunkt stehen Sabu Martinez und Arsenio Rodríguez
+Text: mmr｜Thema: Basierend auf Sabu Martinez und Arsenio Rodríguez
 Die Wendepunkte der lateinamerikanischen Musikgeschichte im Längsschnitt verfolgen
 
 In den 1950er Jahren erschütterte ein Rhythmus, der an der Hintertür eines Jazzclubs ausgetauscht wurde, das Gefüge der amerikanischen Musik.
@@ -52,7 +52,7 @@ Dadurch entstand eine vielschichtige rhythmische Struktur.
 
 * **Religiöse Elemente: ** Rituelle Rhythmen wie die „Bata-Trommel“ von Santería und die kongolesische „Makuta“ sind zu urbaner Musik geworden.
 * **Soziale Faktoren:** Nach der Abschaffung der Sklaverei bildete sich in Havanna eine afroamerikanische Gemeinschaft und die Professionalisierung schwarzer Musiker schritt voran.
-* **Technische Elemente:** Die Standardisierung der Tres (dreisaitige Gitarre) und der Conga ermöglichte die spätere Montuno-Struktur.
+* **Technische Elemente:** Die Standardisierung der Tres (dreisaitige Gitarre) und Congas ermöglichte die spätere Montuno-Struktur.
 
 Vor diesem Hintergrund erscheint ein blinder Revolutionär namens **Arsenio Rodríguez** (1911–1970).
 
@@ -121,7 +121,7 @@ Sie waren tief in der **Bronx-Harlem Afro-Diaspora-Kultur** verwurzelt.
 | 1960er Jahre | Späte Aufnahme in New York | Erweiterung der Fusion von Jazz und Afro |
 | 1970er Jahre | Posthum neu bewertet | Nach Europa ausgewandert, vertiefte Spiritualität im *Afro Temple* |
 
-In dieser Zeit entstand New Yorks Latin Jazz
+In dieser Zeit entstand New Yorks Latin-Jazz
 **„Afro Cuban“ → „Afro Jazz“ → „Spiritueller Afro“**
 Sabu und Arsenio befanden sich am entgegengesetzten Ende des Spektrums.
 
@@ -178,7 +178,7 @@ Es ist auch der Prototyp der „rhythmischen Symmetrie“ im Hip-Hop-Loop-Aufbau
 
 ---
 
-## **Kapitel 8: Fazit – Auf die „Wurzeln“ des Afro-Kubanern hören**
+## **Kapitel 8: Fazit – Auf die „Wurzeln“ des Afro-Kubaner hören**
 
 Sabu Martinez und Arsenio Rodriguez――
 Die beiden starteten auf verschiedenen Inseln und landeten im selben Herzschlag.
@@ -217,7 +217,7 @@ timeline
 ## **Referenzdiskographie**
 
 | Künstler | Album | Etikett / Jahr | Notizen |
-| ----------------- | ------------------------------------------------------------- | ---------------- | ---------------- |
+| ----------------- | ---------------------------------------------------------------------------- | ---------------- | ---------------- |
 | Sabu Martinez     | [*Palo Congo*](https://amzn.to/49pTYTA)                    | Blue Note, 1957  | アフロ・キューバン・ジャズ金字塔 |
 | Sabu Martinez     | [*Afro Temple*](https://amzn.to/4nwZIhX)                   | Philips, 1973    | スピリチュアル・アフロの頂点   |
 | Arsenio Rodríguez | [*Bruca Maniguá*](https://amzn.to/4314IUD)                 | RCA Victor, 1947 | 初期ソン革命期代表作       |

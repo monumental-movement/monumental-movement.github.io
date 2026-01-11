@@ -14,7 +14,7 @@ title: Takayuki Inoue Band – Taiyou ni hoero4
 ---
 
 
-„Takayuki Inoue Band – Hoero ni Taiyo! 4“ ist der Originalsoundtrack für das TV-Drama „Hoero ni Taiyo!“
+„Takayuki Inoue Band – Hoero ni Taiyo! 4“ ist der Original-Soundtrack für das TV-Drama „Hoero ni Taiyo!“
 
 1976 von Polydor veröffentlicht.
 

@@ -9,7 +9,7 @@ permalink: /de/crushed-insect-the-yellow-blood/
 tags:
 - Techno
 - Electro
-title: Zerquetschtes Insekt – Das gelbe Blut
+title: Zerkleinertes Insekt – Das gelbe Blut
 ---
 
 

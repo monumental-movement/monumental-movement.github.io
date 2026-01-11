@@ -42,12 +42,12 @@ color: #fff;
 ## Kapitel 1: Echoes of Detroit, Solitude of Windsor
 Richie Hawtin wurde 1970 in Banbury, England, geboren und zog als Kind nach Windsor, Kanada. Von dieser Stadt jenseits des Detroit River aus konnte er die Anfänge des Detroit Techno in den Underground-Clubs Music Institute und The Shelter sehen.
 
-Hawtin wurde von der **Seele, die in den mechanischen Rhythmen liegt** von Juan Atkins und Derrick May beeinflusst und rekonstruierte diese aus der Perspektive ruhiger struktureller Schönheit. In seiner Musik gibt es immer ein Paradox: **Hitze durch Distanz**. Städte und Vororte, schwarze und weiße Kultur, Emotionen und Geometrie. Plastikman war „Musik im mittleren Bereich“, die dazwischen entstand.
+Hawtin wurde vom **Geist, der in den mechanischen Rhythmen** von Juan Atkins und Derrick May wohnt, beeinflusst und rekonstruierte dies aus der Perspektive ruhiger struktureller Schönheit. In seiner Musik gibt es immer ein Paradox: **Hitze durch Distanz**. Städte und Vororte, schwarze und weiße Kultur, Emotionen und Geometrie. Plastikman war „Musik im mittleren Bereich“, die dazwischen entstand.
 
 ---
 
 ## Kapitel 2: Die Geburt von Plastikman – Säurereste und Techno-Selbstbeobachtung
-1993 wurde „_Sheet One_“ veröffentlicht. Der traditionelle Acid-House-Sound des TB-303 wurde aufs Äußerste gebleicht, wodurch ein akustischer Raum entsteht, der wie **Herzschläge und Nervensignale** klingt. Vielmehr ist die Stille, die zwischen den Klängen schwebt, als Hauptfigur zu hören.
+1993 wurde „_Sheet One_“ veröffentlicht. Der traditionelle TB-303-Sound von Acid House wurde bis zum Äußersten gebleicht, wodurch ein akustischer Raum geschaffen wurde, der wie **Herzschlag und Nervensignale** klingt. Vielmehr ist die Stille, die zwischen den Klängen schwebt, als Hauptfigur zu hören.
 
 そして、1994年にレーベルNovaMuteからリリースしたアルバム[『_Musik_』](https://monumental-movement.jp/Plastikman-Musik)。Richie Hawtinとしては3枚目、Plastikman名義では2枚目のスタジオアルバムとなる。
 
@@ -91,14 +91,14 @@ Mit dieser Arbeit ist Hawtin der erste Künstler, der „Minimalismus“ mit „
 
 ## Kapitel 4: Technologie und der Körper – Neuaufbau des LIVE-Konzepts
 Hawtin leistete auch Pionierarbeit bei der Verschmelzung von Technologie und Leistung.
-In den 2000er Jahren **definierte er das DJ-Spiel neu** mit der „DE9“-Serie und etablierte den „**Prototyp des digitalen DJs**“, der Ableton Live und Traktor nutzte, um Tracks in Echtzeit zu rekonstruieren.
+In den 2000er Jahren definierte er mit der DE9-Serie das DJ-Spiel neu und etablierte den „Prototyp des digitalen DJs“, der Ableton Live und Traktor nutzt, um Tracks in Echtzeit zu rekonstruieren.
 
-Auf seiner Bühne wurde eine Umgebung aufgebaut, in der MacBook, MIDI-Controller, Beleuchtung und Video vollständig synchronisiert waren und ein neues Konzept von „Live = Atemdaten“ präsentierte.
+Auf seiner Bühne wurde eine Umgebung aufgebaut, in der MacBook, MIDI-Controller, Beleuchtung und Video vollständig synchronisiert waren und ein neues Konzept von „Live = Atemdaten“** präsentierte.
 
 ---
 
 ## Kapitel 5: Plastikman mit „EX“ spielen
-„_EX_“, das 2014 in der Londoner Tate Modern enthüllt wurde, war ein Werk, das Plastikmans Ästhetik auf den Museumsraum übertrug.
+„_EX_“, das 2014 in der Londoner Tate Modern enthüllt wurde, war ein Werk, das Plastikmans Ästhetik auf einen Museumsraum übertrug.
 Die Bühne ist in Dunkelheit gehüllt und Houtin steht wie eingesperrt in einem leuchtenden Käfig. Das Publikum teilt die Erfahrung, „die Struktur des Klangs zu beobachten“, anstatt „einem DJ zuzuschauen“.
 
 > „Plastikman bleibt die Musik einer inneren Reise.“
@@ -111,7 +111,7 @@ Sein Minimalismus entwickelte sich weiter und löste die Grenzen zwischen Musik 
 Plastikmans Gene durchdringen Villalobos, Donato Dozzy, Cio D'Or und die moderne Modulszene.
 „Genuss an der Struktur“, „Introspektion des Klangs“ und „Temporisierung des Raums“ – diese Elemente bilden heute die Grundlage des Techno.
 
-Insbesondere „Consumed in Key“ (2022, Zusammenarbeit: Chilly Gonzales) betrat Neuland in **einem Dialog zwischen Klavier und Minimalismus**. Es war der Moment, in dem Plastikman erneut die „Grenze zwischen Menschlichkeit und Anorganizität“ überschritt.
+Insbesondere „Consumed in Key“ (2022, Zusammenarbeit: Chilly Gonzales) betrat als Dialog zwischen Klavier und Minimalismus neue Wege. Es war der Moment, in dem Plastikman erneut die „Grenze zwischen Menschlichkeit und Anorganizität“ überschritt.
 
 ---
 
@@ -146,7 +146,7 @@ Die DE9-Serie ist nicht nur eine Mix-CD, sondern fungiert auch als Aufnahme eine
 
 ---
 
-## Kapitel 9: Geschichte des Minus-Labels – das Testgelände für Minimalismus
+## Kapitel 9: Minus-Label-Geschichte – Minimalistisches Testgelände
 
 ### 1. Festgelegtes Minus
 1998 gründete Plastikman sein eigenes Label **Minus**.
@@ -163,7 +163,7 @@ Minus war mehr als nur eine Vertriebsplattform, es fungierte als Ort zur Verkör
 
 ### 3. Einfluss kennzeichnen
 - **Eine Fusion aus Live-Sets und Veröffentlichungen**: digital rekonstruierbare Klangquellen
-- **Ästhetik von Klang-Leerräumen**: Experimentieren mit „wie man Leerräume nutzt“
+- **Ästhetik des Klang-Leerraums**: Experimentieren mit „wie man Leerraum nutzt“
 - **Internationaler Einfluss**: Direkter Einfluss auf Clubszenen in Berlin, Deutschland und Tokio
 
 > Minus ist ein „akustisches Labor“, um Plastikmans Musikphilosophie an die nächste Generation weiterzugeben.
@@ -281,7 +281,7 @@ timeline
 ## Letztes Kapitel: Hawtin als Klangbildhauer
 
 Plastikman ist der Schlüssel dazu, dass Techno „nach drinnen“ statt „nach draußen“ geht.
-Dies war keine Demontage der Clubmusik, sondern eine Rekonstruktion des Rhythmus, der im Körper mitschwingt, und eine Auseinandersetzung mit der grundlegenden Frage der Musik: „Was bedeutet es zuzuhören?“
+Dabei handelte es sich nicht um eine Demontage der Clubmusik, sondern um eine Rekonstruktion des Rhythmus, der im Körper mitschwingt, und um eine Auseinandersetzung mit der Grundfrage der Musik: „Was bedeutet es zuzuhören?“
 
 Heute dreht Richie Hawtin weiterhin schweigend an Knöpfen und sagt nur wenige Worte.
 Denn er weiß besser als jeder andere, dass nur eine Drehung die Grenze zwischen Klang und Stille verändern kann.

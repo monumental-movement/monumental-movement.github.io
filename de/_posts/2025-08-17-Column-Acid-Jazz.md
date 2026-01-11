@@ -55,7 +55,7 @@ Infolgedessen etablierte der Acid Jazz einen neuen Stil „intellektueller und t
 
 ### Britischer sozialer Hintergrund
 
-In den 1980er Jahren befand sich Großbritannien unter der Thatcher-Regierung in einem Umfeld wachsender wirtschaftlicher Ungleichheiten, des Wachstums von Einwanderergemeinschaften und des Aufstiegs der Rave-Kultur.
+In den 1980er Jahren befand sich Großbritannien unter der Thatcher-Regierung in einem Umfeld zunehmender wirtschaftlicher Ungleichheit, des Wachstums von Einwanderergemeinschaften und des Aufstiegs der Rave-Kultur.
 
 - **Einwandererkultur**: Karibische und afrikanische Einwanderergemeinschaften brachten Reggae, Funk und Soul mit und bildeten die Grundlage der Londoner Clubszene.
 
@@ -107,7 +107,7 @@ Die Verbreitung von Acid Jazz war auch eng mit der Geopolitik in Europa, den Ver
 
 #### US-Szene
 
-Acid Jazz wurde als „Reimport“ wahrgenommen. In den Vereinigten Staaten existierten Jazz-Funk und Soul der 70er Jahre als Originale, so dass die Bezeichnung „Acid Jazz“ aus Großbritannien frisch wirkte und in den Clubszenen von New York und Chicago übernommen wurde.
+Acid Jazz wurde als „Reimport“ wahrgenommen. In den Vereinigten Staaten existierten 70er-Jahre-Jazz-Funk und -Soul als Originale, so dass die Bezeichnung „Acid Jazz“ aus Großbritannien frisch wirkte und in den Clubszenen von New York und Chicago übernommen wurde.
 
 そして[ディー・ライト（Deee-Lite）](https://amzn.to/3W7JKj0)のように、ヒップホップとリンクしながら拡張。
 一方で、ヒップホップとの接点が強調され、[A Tribe Called Quest](https://amzn.to/4n1XXZO) や [Gang Starr](https://amzn.to/46QAJBa) のようなジャズ・ヒップホップへの橋渡し役を果たしました。
@@ -121,7 +121,7 @@ Acid Jazz wurde als „Reimport“ wahrgenommen. In den Vereinigten Staaten exis
 
 日本は1980〜90年代に「クラブ・ジャズ」ムーブメントが盛り上がり、[United Future Organization (UFO)](https://amzn.to/4om4AXX) や [Kyoto Jazz Massive](https://amzn.to/3J3bJNV) などが Acid Jazz の流れを継承。
 
-Es hatte eine Affinität zur Konsumkultur der Zeit der Blasenwirtschaft und der Shibuya-kei-Szene und wurde zu einer Brücke zwischen Europa und Asien.
+Es hatte eine Affinität zur Konsumkultur der Blasenwirtschaft und der Shibuya-Szene und wurde zu einer Brücke zwischen Europa und Asien.
 
 Ab Ende der 1990er Jahre gewann es mit der Ausbreitung der Clubkultur in Ländern wie Südkorea und Taiwan allmählich an Akzeptanz.
 
@@ -148,7 +148,7 @@ Die Ausbreitung des Acid Jazz vor allem in Europa wurde auch durch die kulturell
 
 Das Ende des Kalten Krieges in den 1990er Jahren → Die Clubkultur wurde in Osteuropa und der ehemaligen Sowjetunion befreit und Musik, die Jazz, Funk und Elektronik kombinierte, war willkommen.
 
-Globalisierung → Die in London zentrierte Einwandererkultur verbreitete sich musikalisch über das Netzwerk der „Weltstädte“.
+Globalisierung → Die in London zentrierte Einwandererkultur verbreitete sich musikalisch über das Netzwerk „Weltstadt“.
 
 
 
@@ -170,7 +170,7 @@ Acid Jazz war mehr als nur ein Musikgenre; Es war ein Symbol der Club- und Stadt
 
 ### Ablehnung und Neubewertung
 
-In den späten 1990er Jahren entwickelte sich der Acid Jazz zu Nu-Jazz, Lounge und Broken Beat, und seine Dynamik als Szene konvergierte. In den letzten Jahren wurde es jedoch auf Spotify und YouTube wiederentdeckt und seine entspannte Struktur, die an Lo-Fi-Hip-Hop und Chill-Hop erinnert, wird von jungen Hörern neu bewertet.
+In den späten 1990er Jahren entwickelte sich der Acid Jazz zu Nu-Jazz, Lounge und Broken Beat, und seine Dynamik als Szene konvergierte. In den letzten Jahren wurde es jedoch auf Spotify und YouTube wiederentdeckt, und junge Hörer schätzen seine entspannte Struktur, die an Lo-Fi-Hip-Hop und Chill-Hop erinnert, wieder.
 
 また、クラブミュージックとジャズの架け橋として果たした役割は大きく、現代のジャズ・リヴァイヴァル（ロンドンの[Shabaka Hutchings](https://amzn.to/3W0xMYx)らによる新世代ジャズ）にも影響を与えている。
 

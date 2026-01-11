@@ -44,7 +44,7 @@ Ambient/Post-Rock hat einen großen Einfluss auf die Filmmusik und hat sich als 
 
 | Filme | Musik | Jahr | Funktionen |
 |------|----------|----|------|
-| *Ankunft* | Jóhann Jóhannsson | 2016 | Das Gefühl der Zeitzirkulation mit drohnenartigen Klängen zum Ausdruck bringen |
+| *Ankunft* | Jóhann Jóhannsson | 2016 | Das Gefühl der Zeitzirkulation mit dröhnartigen Klängen zum Ausdruck bringen |
 | *Blade Runner 2049* | Hans Zimmer & Benjamin Wallfisch | 2017 | Ambient-Darstellung der Kälte und Weite einer futuristischen Stadt |
 | *Der Wiedergänger* | Ryuichi Sakamoto & Alva Noto | 2015 | Den Druck von Natur und Zeit mit elektronischen und umweltbezogenen Klängen zum Ausdruck bringen |
 | *Solaris* (Ausgabe 2002) | Eduard Artemjew | 2002 | Erweiterung des psychologischen Raums mit kosmischem Ambiente |
@@ -163,7 +163,7 @@ Post-Rock/Ambient ist nicht nur ein Musikgenre, sondern hat sich als Methode zur
 
 Psychologische Erweiterung im Film: Zeitmanipulation mit Drohnen, Loops und Soundscapes
 
-Anwendungen in Architektur und Stadtplanung: das Erlebnis des Aufenthalts in einem Raum, des Gehens und der Harmonie mit städtischen Umgebungsgeräuschen
+Anwendungen in der Architektur und Stadtplanung: das Erlebnis des Aufenthalts in einem Raum, des Gehens und der Harmonie mit städtischen Umgebungsgeräuschen
 
 Zukünftig wird die Fusion von VR/AR und KI-generierter Musik das immersive räumliche Musikerlebnis weiterentwickeln.
 

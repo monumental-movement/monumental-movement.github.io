@@ -15,7 +15,7 @@ title: '[Kolumne] Ambient: Von „Musik hören“ zu „Musik fühlen“ II'
 ---
 
 
-## Von „Musik zum Hören“ zu „Musik zum Fühlen“ II
+## Von „Musik zum Anhören“ zu „Musik zum Fühlen“ II
 
 Text: mmr｜Thema: Ambient, Umweltmusik, Theorie der elektronischen Musikkultur
 
@@ -120,7 +120,7 @@ Die instabile Weltlage nach dem 11. September. Inmitten des Stresses der Urbanis
 - Drohne mit E-Gitarre + Effektpedal
 
 ### Merkmale
-Streifzüge durch Kunst, Filmmusik und Installation. Ambient-Musik hat sich vom „Hören“ zum „Erleben“ entwickelt.
+Streifzüge durch Kunst, Filmmusik und Installation. Ambient-Musik hat sich vom „Zuhören“ zum „Erleben“ entwickelt.
 
 ---
 
@@ -282,10 +282,10 @@ color: #fff;
 - Die Einsamkeit der Stadt mit Umgebungsgeräuschen umgeben.
 
 ### Museum/Installation
-- **Brian Eno „77 Million Paintings“** (2006~)
+- **Brian Eno „77 Millionen Gemälde“** (2006~)
 - Eine generative Installation, die Video und Ton kombiniert.
 - **Ryoji Ikeda „Datamatics“** (2006~)
-- Konvertieren Sie Daten in Audio und Video. Erzeugt einen minimalistischen, immersiven Raum.
+- Konvertieren Sie Daten in Audio und Video. Schaffen Sie einen minimalistischen, immersiven Raum.
 - **Ryuichi Sakamoto „async – Installation“** (2017, Watari Museum of Art, etc.)
 - Ambient-Kunst, die die Sicht auf Leben, Tod und Erinnerung erforscht und dabei Umgebungsgeräusche und elektronische Klänge kombiniert.
 - **Olafur Eliasson „The Weather Project“** (2003, Tate Modern)
@@ -334,7 +334,7 @@ Ambient hat den Aspekt einer „akustischen Architektur“.
 **andere**
 
 - Yasuhiro Yoshigaki, ACO, CHIhei Hatakeyama usw.
-- Japans einzigartige „Ma“ und „Wabi-Sabi“ erzeugen eine Textur, die sich von der der Ambient-Musik aus Übersee unterscheidet.
+- Japans einzigartiges „ma“ und „wabi-sabi“ erzeugen eine Textur, die sich von der ausländischer Ambient-Musik unterscheidet.
 
 ---
 

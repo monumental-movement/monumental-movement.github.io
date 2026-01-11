@@ -30,7 +30,7 @@ Deep House ist eine House-Variante, die Ende der 1980er Jahre im Raum Chicago-Ne
 
 **1985–90: Early Early (Chicago/NJ)**
 
-[Larry Heard (Mr. Fingers)](https://amzn.to/4q97ot4) präsentiert den Prototyp mit „Can You Feel It“ und „Mystery of Love“. Dem Fluss von [Frankie Knuckles](https://amzn.to/4nUwWJ4) und [Marshall Jefferson](https://amzn.to/3KOf4AV) folgend, verschmilzt das süße Soul-Feeling von Jersey Garage ([Blaze](https://amzn.to/4ooZuuc) und [Kerri Chandler](https://amzn.to/4qbd4CR)).
+[Larry Heard (Mr. Fingers)](https://amzn.to/4q97ot4) präsentiert den Prototyp mit „Can You Feel It“ und „Mystery of Love“. In Anlehnung an [Frankie Knuckles](https://amzn.to/4nUwWJ4) und [Marshall Jefferson](https://amzn.to/3KOf4AV) eine Fusion aus dem süßen Soul-Feeling von Jersey Garage ([Blaze](https://amzn.to/4ooZuuc) und [Kerri Chandler](https://amzn.to/4qbd4CR)).
 
 **1990er Jahre: Vertiefung und Diversifizierung**
 
@@ -93,7 +93,7 @@ Anjunadeep und All Day I Dream wandten sich der melodischen/organischen Musik zu
 
 **Chicago Deep**: Schwerer Kick + Soul-Reverb. Beispiel: Mr. Fingers, Ron Trent.
 
-**Jersey/Garage-Typ**: Klavier/Orgel und Gospel-ähnlicher Gesang. Beispiel: Kerri Chandler, Blaze.
+**Jersey-/Garage-Typ**: Klavier/Orgel und Gospel-ähnlicher Gesang. Beispiel: Kerri Chandler, Blaze.
 
 **Detroit Deep**: Lo-Fi-Textur mit Jazz-Soul-Feeling. Beispiel: Moodymann, Theo Parrish (an der Grenze).
 
@@ -116,7 +116,7 @@ Anjunadeep und All Day I Dream wandten sich der melodischen/organischen Musik zu
 
 - Dynamische Wellen: „Erhöhen Sie die Hitze etwas und bringen Sie sie schnell wieder zurück“ für 30-45 Minuten.
 
-- Nicht zu schnelle BPM-Einstellung: Erstellen Sie eine „Schrittlänge“ bei 118–121 und erhöhen Sie sie in der zweiten Hälfte auf 122–124.
+- BPM-Einstellung, die nicht zu schnell ist: Erstellen Sie eine „Schrittlänge“ bei 118–121 und gehen Sie dann in der zweiten Hälfte auf 122–124 über.
 
 
 <hr>
@@ -155,7 +155,7 @@ Anjunadeep und All Day I Dream wandten sich der melodischen/organischen Musik zu
 
 **Früher Höhepunkt**: Ron Trent/Chez Damiers treibende Kraft
 
-**Plateau**: Verfeinerung von Jimpster zu Freerange
+**Plateau**: Verfeinerung von Jimpster ~ Freerange
 
 **Farbwechsel**: Henrik Schwarzs Live-Feeling
 
@@ -183,7 +183,7 @@ Anjunadeep und All Day I Dream wandten sich der melodischen/organischen Musik zu
 
 ・Larry Heard präsentiert Mr. White – „The Sun Can’t Compare“
 
-・Kerri Chandler – „Atmosphäre“
+・Kerri Chandler – „Atmosphere“
 
 ・Ron Trent – ​​„Altered States“
 

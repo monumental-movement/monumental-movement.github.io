@@ -24,12 +24,12 @@ title: '[Spalte] Dego & Kaidi und Sound Signature'
 
 
 
-## Einleitung – Entstehung und Kontext von Broken Beat
+## Einleitung – Geburt und Kontext von Broken Beat
 
 Text: mmr｜Thema: EUK Über die Schnittstelle von Broken Beat und globaler schwarzer Musik
 
 
-In den späten 1990er Jahren entstand eine neue Musikbewegung in der Clubkultur im Westen Londons. Es handelt sich um ein Genre namens „Broken Beat“ (auch bekannt als „Bruk“), das sich vom traditionellen 4/4 House oder Drum and Bass unterscheidet und mutig komplexe, springende Rhythmen und Elemente aus Jazz, Funk und Soul einbezieht. Broken Beat ist mehr als nur ein Musikstil. Er entwickelte sich aus der schwarzen Community im Westen Londons, der Clubkultur und kreativen Underground-Netzwerken.
+In den späten 1990er Jahren entstand eine neue Musikbewegung in der Clubkultur im Westen Londons. Es handelt sich um ein Genre namens „Broken Beat“ (auch bekannt als „Bruk“), das sich vom traditionellen 4/4 House oder Drum and Bass unterscheidet und mutig komplexe, springende Rhythmen und Elemente aus Jazz, Funk und Soul einbezieht. Broken Beat ist mehr als nur ein Musikstil. Er entwickelte sich aus den schwarzen Communities im Westen Londons, der Clubkultur und kreativen Underground-Netzwerken.
 
 <div class="mermaid">
 flowchart TD
@@ -67,7 +67,7 @@ Künstler wie Dego, Kaidi Tatham, IG Culture, Bugz in the Attic und Neon Phusion
 
 ### Dego (Dennis McFarlane)
 
-Dego begann seine Karriere als Teil der bahnbrechenden britischen Jungle/Drum & Bass-Gruppe 4Hero. Durch seine Erfahrung mit 4Hero strebte er nach rhythmischer Komplexität und elektronischem Ausdruck und integrierte Elemente aus Jazz und Funk. 1998 gründete er sein eigenes Label 2000Black und baute eine neue Basis für britische schwarze Musik rund um Broken Beat auf. Durch seine Soloaktivitäten und Aktivitäten unter verschiedenen Pseudonymen hat Dego ein vielfältiges Spektrum an Musikstilen in verschiedenen Genres wie Jazz, Funk, House, Drum and Bass und Broken Beat präsentiert.
+Dego begann seine Karriere als Teil der bahnbrechenden britischen Jungle/Drum & Bass-Gruppe 4Hero. Durch seine Erfahrung mit 4Hero strebte er nach rhythmischer Komplexität und elektronischem Ausdruck und integrierte Elemente aus Jazz und Funk. 1998 gründete er sein eigenes Label 2000Black und baute eine neue Basis für britische schwarze Musik rund um Broken Beat auf. Durch seine Soloaktivitäten und Aktivitäten unter verschiedenen Pseudonymen hat Dego ein vielfältiges Spektrum an Musikstilen in verschiedenen Genres wie Jazz, Funk, House, Drum & Bass und Broken Beat präsentiert.
 
 ### Kaidi Tatham
 
@@ -90,7 +90,7 @@ flowchart LR
 
 ---
 
-2000Schwarz spielte bei diesem Trend eine zentrale Rolle. Degos Lauf des Labels brachte viele Künstler und Veröffentlichungen von Broken Beat hervor und machte es zu einem kulturellen Zentrum für britische schwarze Musik. In diesem Umfeld entwickelte sich auch die Zusammenarbeit zwischen Kaidi und Dego, die zahlreiche Clubhits und Studioveröffentlichungen hervorbrachte.
+2000Schwarz spielte bei diesem Trend eine zentrale Rolle. Degos Lauf des Labels brachte viele Künstler und Veröffentlichungen von Broken Beat hervor und machte es zu einem kulturellen Zentrum für britische schwarze Musik. In diesem Umfeld wurde auch die Zusammenarbeit zwischen Kaidi und Dego gefördert, die zahlreiche Clubhits und Studioveröffentlichungen hervorbrachte.
 
 ---
 
@@ -126,13 +126,13 @@ Diese „Begegnung“ war nicht nur eine musikalische Zusammenarbeit, sondern au
 
 ## Musikalität von „A So We Gwarn“
 
-A So We Gwarn ist ein 14-Track-Album, das Elemente aus Jazz, Soul, House, Hip-Hop und Afro vereint. Komplexe Rhythmen, jazzige Tasten, Live-Streicher und ein Bläserensemble kreuzen die Sensibilität der britischen Urban Black und die Sensibilität des Detroit House.
+A So We Gwarn ist ein 14-Track-Album, das Elemente aus Jazz, Soul, House, Hip-Hop und Afro vereint. Komplexe Rhythmen, jazzige Tasten, Live-Streicher und ein Hornensemble kreuzen die Sensibilität der britischen Urban Blacks und die Sensibilität des Detroit House.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5XQlv0cAryQ?si=h78NsmjUFPwCldKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-Ihr Signature-Song „Treasure Beach“ versucht, Afrobeat in britischen Jazz zu verwandeln, wobei Rhodes und Hörner die Hauptbestandteile sind und Wayne Francis‘ Hörner einen beeindruckenden Akzent setzen. Das gesamte Album definiert Broken Beat und seine Bedeutung als Kreuzung britisch-amerikanischer schwarzer Musik neu.
+Ihr Signature-Song „Treasure Beach“ versucht, Afrobeat in britischen Jazz zu verwandeln, wobei Rhodes und Hörner die Hauptbestandteile sind, wobei Wayne Francis‘ Hörner einen beeindruckenden Akzent setzen. Das gesamte Album definiert Broken Beat und seine Bedeutung als Kreuzung britisch-amerikanischer schwarzer Musik neu.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3iG2UeZfUbQ?si=csNxYA4plEZQ2nnG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -166,7 +166,7 @@ Anstatt als Phänomen der Vergangenheit zu reden, wird Broken Beat fortlaufend a
 
 ## Schließung
 
-Die Zusammenarbeit zwischen Dego & Kaidi und Sound Signature war mehr als nur die Produktion eines Albums, sie war eine Neudefinition schwarzer Musik, die über Genres hinausging. Dieser Versuch, die Grammatik der Musik durch Hin- und Herwechseln zwischen Vergangenheit, Gegenwart und Zukunft zu rekonstruieren, ist im wahrsten Sinne des Wortes ein Akt des Herausarbeitens einer „Klangsignatur“.
+Die Zusammenarbeit zwischen Dego & Kaidi und Sound Signature ging über die bloße Produktion eines Albums hinaus, sie war eine Neudefinition schwarzer Musik, die über Genres hinausging. Dieser Versuch, die Grammatik der Musik durch Hin- und Herwechseln zwischen Vergangenheit, Gegenwart und Zukunft zu rekonstruieren, ist im wahrsten Sinne des Wortes ein Akt des Schnitzens einer „Klangsignatur“.
 
 In der heutigen Zeit, in der die Grenzen zwischen den Genres verschwimmen, ist ihre Musik wie ein Leuchtturm, der das Erbe der Vergangenheit trägt und gleichzeitig in die Zukunft weist. Dieses Werk fragt Zuhörer, was es bedeutet, schwarze Musik zu hören und was es bedeutet, Genregrenzen zu überschreiten.
 

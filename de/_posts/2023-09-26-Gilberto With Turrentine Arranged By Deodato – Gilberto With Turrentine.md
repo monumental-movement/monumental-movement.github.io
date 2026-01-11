@@ -10,7 +10,7 @@ permalink: /de/gilberto-with-turrentine-arranged-by-deodato-gilberto-with-turren
 tags:
 - Bossa Nova
 - Jazz
-title: Gilberto mit Turrentine, arrangiert von Deodato – Gilberto mit Turrentine
+title: Gilberto With Turrentine Arrangiert von Deodato – Gilberto With Turrentine
 ---
 
 

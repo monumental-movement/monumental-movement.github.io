@@ -121,7 +121,7 @@ Noise überschneidet sich mit Rock, Metal, Post-Rock und Electronica.
 Diversifizierung durch modulares Synthesizer-Revival und Laptop-Akustik.
 
 ### Repräsentative Trends
-- Verbindung mit Eurorack-Rauschen, Live-Coding und Sound Art.
+- Verbindung mit Eurorack-Noise, Live-Coding und Sound Art.
 
 ### Ausrüstung/Technologie
 - Modular (Eurorack), Max/MSP, SuperCollider, Circuit Bending.

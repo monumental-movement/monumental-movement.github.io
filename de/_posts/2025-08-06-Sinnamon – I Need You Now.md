@@ -22,7 +22,7 @@ A1 ist ein Remix von Todd Terry, auch bekannt als Tee.
 A2 ist ein Remix von Masters At Work, einer Gruppe bestehend aus „Little“ Louie Vega und Kenny „Dope“ Gonzalez.
 
 B1 ist ein Remix von Deep Zone, dem Duo aus DJ und Produzenten Matthias Heilbronn und Mike Delgado.
-B2 ist ein Remix des Duos JohNick aus Johnny „D“ De Mairo und Nicholas Palermo Jr.
+B2 ist ein Remix von JohNick, einem Duo bestehend aus Johnny „D“ De Mairo und Nicholas Palermo Jr.
 
 
 #### Trackliste

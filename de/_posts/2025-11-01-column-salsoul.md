@@ -14,7 +14,7 @@ title: '[Kolumne] Salsoul Orchestra und MFSB – Entwicklung von Philadelphia zu
 ---
 
 
-## Der Moment, als Philadelphia Strings die Welt zum Tanzen brachten
+## Der Moment, als die Streicher aus Philadelphia die Welt zum Tanzen brachten
 
 
 Text: mmr｜Thema: Über die musikalische Revolution, die die Grundlage der „Disco“ bildete
@@ -62,7 +62,7 @@ Die sanften Grooves dieser Spieler wurden zu einer weltweiten Marke, die als „
 ## MFSB – Der Moment, in dem Streicher den Groove dominieren
 
 1973 erschien das Album „**Love Is The Message**“ unter dem Namen MFSB.
-Das gleichnamige Lied wurde zu einer Hymne, die die Geschichte Seouls repräsentierte, und wurde von DJs in den frühen Tagen der Disco als „Standard-Bridge-Song“ geliebt.
+Das gleichnamige Lied wurde zu einer Hymne, die die Geschichte Seouls repräsentierte, und wurde in den frühen Tagen der Disco von DJs als „Standard-Bridge-Song“ geliebt.
 
 Earl Youngs „Four-on-the-Floor“-Rhythmus wurde später zum Grundschlag von Disco und House.
 Darüber hinaus verliehen Vincent Montana Jr.s Vibes und Streicharrangements den Rhythmen der schwarzen Musik eine klassische Eleganz.

@@ -117,7 +117,7 @@ Attraktiver Punkt: Enthält ein luxuriöses Lineup, das die Berliner Technoszene
 Zusammenfassung: Die 7. Tresor-Compilation, veröffentlicht im Jahr 1999. Eine wunderschöne Sammlung von Songs weltberühmter Künstler wie Sven Väth, Ben Sims, James Ruskin, Daniel Bell und DJ Shufflemaster.
 
 
-Attraktiver Punkt: Mit diesem Stück, das ein breites Spektrum an Stilen wie Dub-Techno und Ambient abdeckt, können Sie die Essenz des Tresor-Labels voll und ganz erleben. Empfohlen für Anfänger.
+Attraktiver Punkt: Deckt ein breites Spektrum an Stilen wie Dub Techno und Ambient ab und ermöglicht es Ihnen, die Essenz des Tresor-Labels voll und ganz zu erleben. Empfohlen für Anfänger.
 
 #### Trackliste
 ```md

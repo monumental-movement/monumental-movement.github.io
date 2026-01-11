@@ -20,7 +20,7 @@ title: '[Spalte] Machen Sie Ihre Ausrüstung weicher – Die Wirkung von ReBirth
 
 Text: mmr｜Thema: ReBirth nicht nur als „Innovation als Werkzeug“ neu denken, sondern auch als Chance für „Veränderungen in Kultur/Ausdruck/Industriestruktur“, von der Vorgeschichte bis zum Entwicklungshintergrund, technischen Merkmalen, Verbreitung in der Musikkultur, industrieller Bedeutung, Wendepunkt und Ende und dem heutigen Erbe.
 
-In den späten 1990er Jahren kam es zu einem tiefgreifenden Wandel in der Produktion elektronischer Musik. Während die analoge/gerätebasierte Produktion mit Hardware-Synthesizern und Drum-Machines die Norm war, brachte eine Software diese „Normalität“ durcheinander. Das ist der ReBirthRB-338 von Propellerhead Software, einem Software-/Musikproduktionstool-Hersteller aus Schweden.
+In den späten 1990er Jahren kam es zu einem tiefgreifenden Wandel in der Produktion elektronischer Musik. Während die analoge/gerätebasierte Produktion mit Hardware-Synthesizern und Drum-Machines die Norm war, brachte eine Software diese „Normalität“ durcheinander. Das ist ReBirthRB-338 von Propellerhead Software, einem Software-/Musikproduktionstool-Hersteller aus Schweden.
 Was diese Software bot, war die Möglichkeit, „diese legendären Geräte (Roland TB-303, Roland TR-808, Roland TR-909) auf Ihrem PC nutzbar zu machen“.
 ReBirth umging die Hürden bei der Beschaffung von Hardware, die Kosten für deren Wartung sowie die Schwierigkeiten bei Transport und Betrieb und leitete eine neue Welle der „Demokratisierung durch Software“ ein, weshalb es sich um ein Ereignis handelte, das man als „Schock“ bezeichnen könnte.
 
@@ -42,10 +42,10 @@ color: #fff;
 
 
 ## Vorgeschichte: Kontext der Ära der analogen Geräte/Hardware-Synthesizer
-Rückblickend auf die elektronische Musik-/Clubmusikszene von den 1980er bis Mitte der 1990er Jahre nahmen viele berühmte Instrumente wichtige Positionen als „Equipment“ ein. Unter diesen waren der Roland TB-303 (Bassline-Synthesizer) und der TR-808/TR-909 (Drum-Maschinen) der Katalysator, der den Ton, den Spielstil und die Kultur veränderte.
+Rückblickend auf die elektronische Musik-/Clubmusikszene von den 1980er bis Mitte der 1990er Jahre nahmen viele berühmte Instrumente wichtige Positionen als „Equipment“ ein. Unter ihnen waren die Roland TB-303 (Bassline-Synthesizer) und TR-808/TR-909 (Drum-Maschinen) die Katalysatoren, die den Ton, den Spielstil und die Kultur veränderten.
 
 ### Geburt von TB-303 und „Säure“
-Der TB-303 war ein Basslinien-Synthesizer, der um 1981 auf den Markt kam. Obwohl er ursprünglich als „Gerät zur Nachahmung des Bassspiels“ konzipiert war, erfüllte er in den Anfangsjahren seinen Zweck nicht und war ein Misserfolg auf dem Markt, so dass er begann, gebraucht zu einem niedrigen Preis vertrieben zu werden.
+Der TB-303 war ein Basslinien-Synthesizer, der um 1981 auf den Markt kam. Obwohl er ursprünglich als „Gerät zur Nachahmung des Bassspiels“ konzipiert war, erfüllte er in den Anfangsjahren seinen Zweck nicht und war ein Misserfolg auf dem Markt, und er wurde zu einem niedrigen Preis aus zweiter Hand vertrieben.
 In den späten 1980er Jahren wurden jedoch im Kontext von Club House/Acid House die „verzerrten Filter“- und „Grilling Bassline“-Töne des TB-303 wiederentdeckt und wurden zum charakteristischen Sound von Acid House, wie beispielsweise bei Acid Tracks (Phuture).
 
 Der Umgang mit dem TB-303 erforderte jedoch besondere Gewohnheiten und Geschick beim Einstellen der Anzahl der Noten, Akzente, Folien und der Bedienung des Step-Sequenzers. Darüber hinaus war es kein Gerät, das jeder problemlos nutzen konnte, da nur wenige im Umlauf waren und der Preis in die Höhe schoss.
@@ -95,7 +95,7 @@ Interessant ist auch, dass diese Art von „Mod-Kultur“ (Benutzermodifikation)
 Darüber hinaus war ReBirth auch kein Allheilmittel. PC-Rechenleistung, Soundkartenleistung, Latenz (Verzögerung) und Klangrealität (physikalische Eigenschaften analoger Schaltkreise) waren in mancher Hinsicht der Hardware-Ausstattung unterlegen. Es gibt beispielsweise Kritik, dass es das „Rauschen/Gewohnheiten/Verzerrungen“ des echten TB-303 nicht vollständig reproduziert.
 Allerdings hatte ReBirth zu diesem Zeitpunkt das beste Gleichgewicht hinsichtlich der Bereitstellung einer „ausreichend nutzbaren“ Qualität und einer „günstigen, einfachen und integrierten Softwareumgebung“ erreicht. Tatsächlich heißt es in Rezensionen, es handele sich um „eine beachtliche Software-Erfolgsgeschichte von 1997“.
 
-Auf diese Weise kann man sagen, dass ReBirth nicht nur eine „technologische Innovation“ war, sondern auch ein Tool, das „die Benutzererfahrung veränderte“.
+Auf diese Weise war ReBirth nicht nur eine technologische Innovation, sondern auch ein Tool, das die Benutzererfahrung veränderte.
 
 ---
 
@@ -105,7 +105,7 @@ Die Wirkung von ReBirth geht über die bloße Funktion eines Software-Synthesize
 ### Wieder Acid-Techno: Popularisierung des TB-303-Sounds
 Der Klang des TB-303 war ein symbolisches Element des Genres Acid House/Acid Techno, aber Mitte der 1990er Jahre war die Ausrüstung seltener und der Sound wahnsinniger geworden. Dann realisierte eine Software namens ReBirth eine „TB-303-ähnliche Basslinie + TR-808/909-ähnliches Schlagzeug“ in der Software und öffnete damit die Tür für „Acid-/Techno-Musik, die man machen kann, ohne dass man irgendwelche Geräte besitzen muss“.
 
-Dies stellte das Vorurteil in Frage, dass „Hardware-Besitz = Produktionsstil“ sei, und diente als Gelegenheit, die Schöpferbasis zu erweitern.
+Dies stellte die vorgefasste Meinung in Frage, dass „Hardware-Besitz = Produktionsstil“ sei, und diente als Gelegenheit, die Schöpferbasis zu erweitern.
 
 ### Erweiterung „Bedroom Production“
 ReBirth ist zu einem „Einstieg“ für Schöpfer/Produzenten geworden, die nicht über die entsprechende Ausrüstung verfügen. Das Konzept der „Heim-/Einzelproduktion“ ist konkreter geworden, da eine Umgebung zur Realität geworden ist, in der jeder mit der Produktion beginnen kann, solange er über einen Computer verfügt. Dies führte später zur Verbreitung von DAWs (Digital Audio Workstations) und Produktionsumgebungen auf Basis von Software-Plug-Ins.
@@ -117,7 +117,7 @@ Auf diese Weise führte ReBirth durch die drei Schlüsselfaktoren „Ton, Bedien
 
 ---
 
-## Änderungen in der Branche/Software/Ökosystem (ReWire/VST/Pluginisierung)
+## Veränderungen in Branche, Software und Ökosystemen (ReWire, VST, Plug-Ins)
 Die Einführung von ReBirth war nicht nur der Erfolg eines einzelnen Software-Synthesizers, sondern löste auch einen strukturellen Wandel in der Musikproduktionsumgebung selbst aus.
 
 ### „Modularisierung“ und Koordination der Produktionswerkzeuge
@@ -125,12 +125,12 @@ ReBirth war nicht nur als eigenständige Software vollständig, sondern verfügt
 Auf diese Weise entstand während der ReBirth-Ära ganz natürlich die Richtung, „eine Kombination von Software/Modulen zu verwenden“ statt „komplett mit einer einzigen Software“.
 
 ### Beschleunigung der Verbreitung von Plug-Ins/VST/Software-Synthesizern
-Von Ende der 1990er bis in die 2000er Jahre verbreiteten sich Plug-in-Formate wie VST (Virtual Studio Technology) und AU (AudioUnits). Man kann sagen, dass ReBirth das Software-Synthesizer-Genre „praktiziert“ hat und den Grundstein für den Übergang von einer Produktionsumgebung, die sich auf Hardware-Ausrüstung konzentriert, zu einer, die sich auf Software konzentriert, gelegt hat. Im Testbericht wird auch der Ausdruck „die erste Soft-Synth-Emulation“ verwendet.
+Von Ende der 1990er bis in die 2000er Jahre verbreiteten sich Plug-in-Formate wie VST (Virtual Studio Technology) und AU (AudioUnits). Man kann sagen, dass ReBirth das Software-Synthesizer-Genre „praktiziert“ hat und den Grundstein für den Übergang von einer Produktionsumgebung, die sich auf Hardware-Ausrüstung konzentriert, zu einer, die sich auf Software konzentriert, gelegt hat. Im Testbericht wird auch von der „ersten Soft-Synth-Emulation“ gesprochen.
 
 Diese industriellen Veränderungen stellten auch einen Wendepunkt dar, an dem Musikproduktionssoftware als „gleichwertig oder sogar besser als Ausrüstung“ positioniert wurde. Infolgedessen hat sich der Software-Instrumenten-/Effektmarkt erweitert und viele Unternehmen sind in den Markt eingetreten.
 
 ### Umstrukturierung des Produktionsprozesses/Workflows
-Noch wichtiger ist, dass sich der Produktionsablauf selbst geändert hat. In der Vergangenheit bestand der Hauptablauf darin, „die Ausrüstung zusammenzustellen, sie einzurichten und aufzuführen/aufzunehmen“, aber nach ReBirth ist ein „vollständig im Computer durchgeführter“ Ablauf Realität geworden: „Software starten → Muster erstellen → MIDI und Audio synchronisieren → Ausgabe“.
+Noch wichtiger ist, dass sich der Produktionsablauf selbst geändert hat. In der Vergangenheit bestand der Hauptablauf darin, „die Ausrüstung zusammenzustellen, sie einzurichten und aufzuführen/aufzunehmen“, aber nach ReBirth ist ein „vollständig im Computer durchgeführter“ Ablauf Realität geworden: „Starten Sie die Software, erstellen Sie ein Muster, synchronisieren Sie MIDI und Audio und geben Sie es dann aus.“
 Diese Änderung war besonders bedeutsam im Kontext des „Heim-/persönlichen Studios“. Durch die Schaffung einer Umgebung, in der Platz, Ausrüstung und Aufwand bis zu einem gewissen Grad eingespart werden können, hat sich das Spektrum der Kreativen erweitert.
 
 ---
@@ -147,13 +147,13 @@ Während ReBirth in den wenigen Jahren nach seiner Einführung große Popularit�
 - 15. Juni 2017: iOS-Version aus AppStore entfernt.
 
 ### Fluss und Bedeutung vom Desktop zum Mobilgerät
-Nach dem Ende des Supports für ReBirth wurden seine Ideen und Funktionen von anderen Software- und mobilen Apps übernommen. Die Veröffentlichung der iOS-Version ist ein Symbol dafür. Der Trend, das mechanische Erlebnis mithilfe der Smartphone-/Tablet-Plattform „abzumildern“, gewinnt zunehmend an Bedeutung.
+Nach dem Ende des Supports für ReBirth wurden seine Ideen und Funktionen von anderen Software- und mobilen Apps übernommen. Die Veröffentlichung der iOS-Version ist ein Symbol dafür. Der Trend, das mechanische Erlebnis mithilfe der Smartphone-/Tablet-Plattform „abzumildern“, gewinnt zunehmend an Dynamik.
 Andererseits wurde die mobile Version einige Jahre nach der Veröffentlichung aufgrund von IP-Rechten/Markenproblemen auch aus dem App Store entfernt. Dieser Vorfall zeigte einmal mehr, dass softwarebasierte Geräte die „Grenze des geistigen Eigentums“ berühren.
 
 ### „Das Ende“ und seine Lesart
 Obwohl die ReBirth-Software in ihrer jetzigen Form nicht weiter weiterentwickelt wurde, hat ihr „Tod“ selbst mehrere Bedeutungsebenen.
 - Ein Grund dafür ist, dass der Trend von der Ausrüstung zur Software einen gewissen Reifegrad erreicht hat und in die „nächste Stufe“ übergegangen ist.
-- Darüber hinaus sind Fragen des geistigen Eigentums, der Emulation, des Eigentums und des Zugriffs offensichtlicher geworden als erwartet.
+- Darüber hinaus sind Probleme mit geistigem Eigentum, Emulation, Eigentum und Zugriff offensichtlicher als erwartet.
 - Und da persönliche Produktions-/Software-zentrierte Umgebungen alltäglich geworden sind, beginnt man, das Thema der „Reproduktion von Hardware-Geräten mit Software“ neu zu überdenken.
 Daher ist es sinnvoll, das „Ende“ von ReBirth nicht einfach als das Ende des Dienstes zu betrachten, sondern als einen „Punkt der Veränderung“ in der Produktionsumgebung.
 
@@ -168,7 +168,7 @@ Wenn wir auf ReBirth zurückblicken, können wir uns noch einmal an die Idee eri
 
 ### Vom „Eigentum“ zum „Zugriff“, von der Hardware zur Software
 Vor ReBirth kann man sagen, dass das Modell Produktionsausrüstung = Eigentum stark war. Das Vorhandensein der Ausrüstung war ebenfalls ein Status und die erste Voraussetzung für die Produktionsumgebung. ReBirth hat dies in die Form von „Softwarekauf“ umgeschrieben und einen Hintergrund geschaffen, in dem „Eigentum“ selbst relativiert wird.
-Heutzutage sind Abonnement-/Cloud-Sharing-/Miet-Musiktools alltäglich geworden. Die Tür, die ReBirth öffnete, kann als „Ausgangspunkt“ in diesem Fluss angesehen werden.
+Heutzutage sind Abonnement-/Cloud-Sharing-/Miet-Musiktools alltäglich. Die Tür, die ReBirth öffnete, kann als „Ausgangspunkt“ in diesem Fluss angesehen werden.
 
 ### Neubewertung des „Geschmacks/der Gewohnheit“ von Hardware-Geräten
 Andererseits gehen mit der Weiterentwicklung der Software oft Dinge verloren, wie zum Beispiel die physikalischen Besonderheiten, Geräusche, Verzerrungen und das Betriebsgefühl, das Hardware-Geräten innewohnt. Tatsächlich wurde die Emulation von ReBirth dafür kritisiert, dass sie die Verzerrungen und Macken des echten TB-303 nicht vollständig reproduzieren konnte.
@@ -176,7 +176,7 @@ Andererseits gehen mit der Weiterentwicklung der Software oft Dinge verloren, wi
 Aus dieser Perspektive kann man sagen, dass ReBirth die Unterschiede, Reize und Grenzen von Hard- und Soft-Equipment visualisiert hat. Und heute haben der aktuelle Trend zu Hardware- und Software-Hybridgeräten (Controller + Soft-Sound-Quelle) und die Wiederbelebung modularer Synthesizer diese Fragen geerbt.
 
 ### Neuinterpretation/Retro-Regression und Modifikationskultur
-ReBirth hatte eine „Mod“-Kultur, die es Benutzern ermöglichte, Skins und Sounds zu modifizieren. Dies förderte eine schöpferische Einstellung, die Produktionswerkzeuge nicht nur nutzte, sondern sie auch veränderte, weitergab und umbaute. Diese Trends haben heute nicht zuletzt zur Verbreitung der Open-Source-/benutzerdefinierten Soundquellen-/Sample-Austauschkultur beigetragen.
+ReBirth hatte eine „Mod“-Kultur, die es Benutzern ermöglichte, Skins und Sounds zu modifizieren. Dies förderte eine schöpferische Haltung, Produktionswerkzeuge nicht nur zu verwenden, sondern sie auch zu modifizieren, zu teilen und neu zu erstellen. Diese Trends haben heute nicht zuletzt zur Verbreitung der Open-Source-/benutzerdefinierten Soundquellen-/Sample-Austauschkultur beigetragen.
 Darüber hinaus wird von einem Projekt berichtet, das ReBirth etwa im Jahr 2023 in einen Hard-Controller/Modul umwandeln soll. Dabei kann man auch von einer Erweiterung der „freien Möglichkeit der Modifikation“ durch Software sprechen.
 
 ---
@@ -200,13 +200,13 @@ Nachfolgend finden Sie eine Zusammenfassung der wichtigsten Chronologie von ReBi
 
 ## Abschließend: „Möglichkeiten“ von ReBirth und zukünftige Trends in Musik/Technologie
 Rückblickend war ReBirth mehr als nur ein „Software-Synthesizer“; Es war ein Ereignis, das die Natur der Musikproduktion grundlegend veränderte.
-Es überdenkte das Konzept von „Geräteeigentum, physischen Einschränkungen und hohen Kosten“ und präsentierte einen neuen Horizont der „Klangerzeugung, auf die über Software zugegriffen werden kann + einfache Bedienbarkeit + eine Basis für Schöpfer (PC)“.
+Es überdenkte das Konzept von „Geräteeigentum, physischen Einschränkungen und hohen Kosten“ und präsentierte einen neuen Horizont der „Klangerzeugung, auf die über Software zugegriffen werden kann + einfache Bedienbarkeit + eine Basis für Schöpfer (PC).“
 Heute akzeptieren wir die Cloud-/Abonnement-Plugin-/Mobile-Audio-Umgebung als „so wie sie ist“. Wir dürfen jedoch nicht vergessen, dass hinter dieser „normalen“ Sache „Pioniere“ wie ReBirth standen.
 
 Gleichzeitig gibt es Dinge, die man von ReBirth neu lernen kann. Das Problem besteht darin, dass die Benutzerfreundlichkeit und Zugänglichkeit analoger Geräte zwar zugenommen hat, der einzigartige Wert analoger Geräte, wie z. B. ihre Besonderheiten, körperlichen Empfindungen und Bedienbarkeit, jedoch an Bedeutung verloren hat. ReBirth ist ein Tool, das diese Lücke verkörpert.
 Und von nun an wird die Frage „wie einfach/wie kreativ“ weiterhin gestellt. Die von ReBirth präsentierte „Tür“ hat sich noch nicht geschlossen. Man kann vielmehr sagen, dass es der Funke war, der die nächste Generation und die nächste Produktionsumgebung eröffnete.
 
-Wenn Sie schließlich diese Kolumne lesen und den Klang alter Geräte bewundern, aber auch Lust haben, mit Ihrem PC/Ihrer Software Klänge zu erzeugen, kann das an sich schon ein Beweis dafür sein, dass Sie den Geist von ReBirth geerbt haben.
+Wenn Sie schließlich diese Kolumne lesen und den Klang alter Geräte bewundern, aber auch Lust haben, Klänge mit Ihrem PC/Ihrer Software zu erzeugen, kann das an sich schon ein Beweis dafür sein, dass Sie den Geist von ReBirth geerbt haben.
 Jetzt könnte ein guter Zeitpunkt sein, auf die Ära zurückzublicken, in der die Grenzen zwischen Retro und Moderne verschwanden, und einen neuen Blick auf die Möglichkeiten „softwarebasierter Geräte“ zu werfen.
 
 ---

@@ -9,13 +9,13 @@ permalink: /de/dj-krush-feataco-twigy-tragicomic/
 tags:
 - Hiphop
 - Triphop
-title: DJ Krush FeatACO, Twigy – Tragikomisch
+title: DJ Krush FeatACO, Twigy –Tragicomic
 ---
 
 
 DJ Krush ist ein hoch angesehener Track-Produzent in den Genres japanischer Hip-Hop-, Trip-Hop- und Downtempo-Musik und bekannt für seinen einzigartigen Sound und seine Beat-Making-Fähigkeiten.
 
-ACO ist einer der Sänger, die in Japan und im Ausland großes Lob für seinen gefühlvollen und emotionalen Gesangsstil erhalten haben, und Twigy hat durch seine Rap-Fähigkeiten und seine Karriere Aufmerksamkeit erregt.
+ACO ist einer der Sänger, die sowohl in Japan als auch im Ausland großes Lob für seinen gefühlvollen und emotionalen Gesangsstil erhalten haben, und Twigy hat durch seine Rap-Fähigkeiten und seine Karriere Aufmerksamkeit erregt.
 
 „Tragicomic“ wurde als Teil der Alben und Singles von DJ Krush veröffentlicht und erfreut sich bei Trip-Hop- und Electronica-Enthusiasten großer Beliebtheit.
 

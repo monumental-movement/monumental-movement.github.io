@@ -53,7 +53,7 @@ EDM war die „Festivalarchitektur“ des 21. Jahrhunderts.
 Ursprünglich war das Wort EDM eher ein Marketingbegriff als ein Genrename.
 Diese Zweideutigkeit war jedoch ein Symbol der Zeit.
 Egal ob House, Techno oder Trance – wichtig war das Erlebnis.
-Jeder glaubte mindestens einmal an die Illusion, dass ein einziger Ton die Welt erschüttern kann.
+Jeder hat mindestens einmal an die Illusion geglaubt, dass ein einziger Ton die Welt erschüttern kann.
 
 ---
 
@@ -114,7 +114,7 @@ In den späten 2010er Jahren wurde EDM zu einem Meme.
 Der Drop wird auf TikTok geschnitten und der Rhythmus geht viral wie ein GIF.
 Der „Closer“ der Chainsmokers ist ein Symbol dafür.
 Ein DJ ist sowohl Produzent als auch **Marke**.
-Logos, Parfums, NFTs, Kopfhörer – sie alle sind zu „Sound-bezogenen Branchen“ geworden.
+Logos, Parfums, NFTs, Kopfhörer – sie alle sind zu „Industrien rund um den Klang“ geworden.
 
 ---
 
@@ -170,7 +170,7 @@ EDM ist gleichzeitig eine Hommage an die Technologie.
 ### Ⅸ. Letztes Kapitel: Auf dem Weg zu einem Post-EDM-Musikerlebnis
 
 Der Begriff „EDM“ mag heute wie ein Relikt der Vergangenheit erscheinen.
-Aber sein Erbe durchdringt bereits alle Genres.
+Doch sein Erbe durchdringt bereits alle Genres.
 Pop, Hip Hop, Gamemusik...
 Erbt die Ästhetik der Tropfenstruktur und des Schalldrucks.
 

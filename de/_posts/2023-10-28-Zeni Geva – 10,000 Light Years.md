@@ -15,7 +15,7 @@ title: Zeni Geva – 10000 Lichtjahre
 
 
 „Zeni Geva – 10000 Lichtjahre“ lautet
-Album-Promo, aufgenommen bei Chicago Electrical Audio im Oktober 2000.
+Promo-Album für das im Oktober 2000 bei Chicago Electrical Audio aufgenommene Album.
 
 #### Trackliste
 ```md

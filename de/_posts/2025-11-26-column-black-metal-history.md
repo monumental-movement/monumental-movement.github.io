@@ -113,7 +113,7 @@ Der Fokus lag auf jungen norwegischen Underground-Musikern.
 * Etablierung von Lo-Fi-Aufnahmen als „Ästhetik“
 *Tremolo-Riff
 * Scream Vo
-* Ausdruck von „Eisödland“ durch Wiederholung und Geschwindigkeit
+* Ausdruck von „Ice Wasteland“ durch Wiederholung und Geschwindigkeit
 * Leichenbemalung
 * Natürlicher Blick auf Winter, Wald und Einsamkeit
 
@@ -141,7 +141,7 @@ Es ist zu einem **kulturellen Phänomen** geworden.
 
 # **Kapitel 4: Dritte Welle (1998-2005) – Globale Ausbreitung und Mutation**
 
-Während das Klangbild der zweiten Welle geerbt wird,
+Während das Klangbild der zweiten Welle geerbt wurde,
 Seit 1998 schreiten Internationalisierung und Diversifizierung rasant voran.
 
 ## ■ Haupttrends
@@ -178,7 +178,7 @@ Es hat sich zu „konzeptueller Musik entwickelt, die aus den Reaktionen von Kul
 ---
 
 
-## **Kapitel 6: Abschnitt mit Details zu einzelnen Bands (Gedanken, Musikalität und sozialer Einfluss großer Bands)**
+## **Kapitel 6: Abschnitt mit einzelnen Banddetails (Gedanken, Musikalität und sozialer Einfluss großer Bands)**
 
 Hier werden wir systematisch nach Epoche, Region und Trend in die Bands eintauchen, die zum Eckpfeiler der Black-Metal-Geschichte geworden sind.
 
@@ -221,10 +221,10 @@ Hauptwerke: *Bathory* (1984), *The Return…* (1985), *Under the Sign of the Bla
 
 * Die Mitgliederzusammensetzung, Vorfälle und Ideologie sind allesamt Symbole der zweiten Welle des Black Metal.
 * Bühnenauftritt von Dead (Per Ohlin) (Leichen-Make-up, rohes Fleisch usw.)
-**Ein entscheidendes Ereignis, das rituelle Elemente von „Tod und Unmenschlichkeit“ in den Black Metal brachte.
+**Ein entscheidendes Ereignis, das rituelle Elemente von „Tod und Unmenschlichkeit“ in den Black Metal brachte**.
 * Euronymous hat seinen Sitz in Helvete (einem Plattenladen in Oslo).
 **Bildung eines Black-Metal-Innenkreises (enge kleine Gemeinschaft). **
-* Später erregte der Mordfall Euronymous (1993) und der Brandstiftungsvorfall in der Kirche weltweite Aufmerksamkeit.
+* Später erregte der Mordfall Euronymous (1993) und der Kirchenbrandvorfall weltweite Aufmerksamkeit.
 
 ---
 
@@ -234,7 +234,7 @@ Hauptwerke: *Bathory* (1984), *The Return…* (1985), *Under the Sign of the Bla
 Hauptwerke: *Burzum* (1992), *Det Som Engang Var* (1993), *Hvis lyset tar oss* (1994)**
 
 * Die Musik zielt auf gründlichen Minimalismus ab,
-**Ein Stil, der darauf abzielt, durch Wiederholung eine tranceartige Natur und den Zusammenbruch des eigenen Zeitgefühls zu erzeugen**.
+**Ein Stil, der darauf abzielt, durch Wiederholung eine tranceartige Natur und den Zusammenbruch des Zeitgefühls zu erzeugen**.
 * Weiterhin ein starkes Statement in der norwegischen Kultur- und Religionsdebatte Anfang der 1990er Jahre setzend,
 Aufgrund der übermäßigen Berichterstattung in den Medien wurde das „gefährliche Image“ des Black Metal etabliert.
 * Nach dem Vorfall (Mord an Euronymous) und der Verhaftung wurde Burzums Tonquelle stärker auf die Umgebung ausgerichtet.
@@ -448,7 +448,7 @@ Nachfolgend finden Sie eine **faktenbasierte Zeitleiste**. Vorfälle und Arbeite
 
 ### **2011–2020 (Globalisierung und Crossover)**
 
-* Auf dem Weg zu einer Ära, in der regionale Besonderheiten berücksichtigt werden, vor allem in Japan, Osteuropa, Nordamerika und Südamerika
+* Auf dem Weg zu einer Ära, in der regionale Besonderheiten einbezogen werden, hauptsächlich in Japan, Osteuropa, Nordamerika und Südamerika
 * Der Blackgaze-Typ (schwarzes Gebrüll + Shoegaze) verbreitet sich in Europa und Amerika
 * Wiederaufleben des rohen Black Metal (insbesondere in Verbindung mit der Bandcamp-Kultur)
 

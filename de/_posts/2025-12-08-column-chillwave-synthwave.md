@@ -69,14 +69,14 @@ Chillwave liegt irgendwo zwischen Indie-Rock und Electronica und fällt mit der 
 
 # 2. Was ist Synthwave?
 ## 2-1. Entstehung (Mitte der 2000er bis Anfang der 2010er Jahre)
-Die Ursprünge von Synthwave liegen früher als Chillwave und lassen sich auf die französische elektronische Musik (insbesondere Kavinsky und College) Mitte der 2000er Jahre zurückführen.
+Die Ursprünge von Synthwave liegen früher als bei Chillwave und lassen sich auf die französische elektronische Musik (insbesondere Kavinsky und College) Mitte der 2000er Jahre zurückführen.
 „A Real Hero“ von College & Electric Youth, das im frühen Film „Drive“ (2011) verwendet wurde, wurde zum Katalysator für seine Verbreitung im Mainstream.
 
 Merkmale:
 
 - **Musik, die Filme, Science-Fiction und Synth-Pop der 1980er Jahre direkt reproduziert**
 - **Konzentriert sich auf analoge Synthesizer (Juno-106, DX7, Prophet usw.)**
-- **treibender 4/4-Beat (Synthwave)**
+- **4/4 treibender Beat (Synthwave)**
 - **Langsamer Ambient (Dreamwave/Retrowave)**
 - **Neon, Gitter, Pink x Blau 80er-Jahre-Visuals**
 
@@ -91,7 +91,7 @@ Hauptkünstler:
 - **Kavinsky**
 - „Nightcall“ (2010) soll ein Symbollied sein.
 
-Synthwave entwickelte sich in den 2010er Jahren zu einem großen unabhängigen Genre im Internet.
+Synthwave entwickelte sich im Laufe der 2010er Jahre zu einem großen, unabhängigen Online-Genre.
 
 ---
 
@@ -148,7 +148,7 @@ Auch die Ausrüstung, die bei Chillwave und Synthwave zum Einsatz kommt, ist seh
 -Roland Juno-106
 - Yamaha DX7
 - Sequential Prophet-Reihe
--Korg Polysix
+- Korg Polysix
 - **Drum Machine**
 - LinnDrum / LM-1
 -Roland TR-707, TR-808

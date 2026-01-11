@@ -15,7 +15,7 @@ title: '[Kolumne] Das goldene Zeitalter des britischen Techno'
 
 ## Das goldene Zeitalter des britischen Techno: eine Aufzeichnung der Sounds und Kämpfe der 1990er Jahre
 
-Text: mmr｜Thema: Britische Technokultur
+Text: mmr｜Thema: UK Techno Culture
 
 
 <hr>
@@ -76,7 +76,7 @@ Ein Unterlabel von Mute Records. Mit Künstlern wie Luke Slater, Speedy J und La
 
 [**● Peacefrog**](https://amzn.to/42BtHxw)
 
-Ein Label, das tieferen, aus Detroit stammenden britischen Techno einführte. Auf der Liste stehen Luke Slater, Stacey Pullen und Paul Mac.
+Ein Label, das tieferen, in Detroit ansässigen britischen Techno einführte. Auf der Liste stehen Luke Slater, Stacey Pullen und Paul Mac.
 
 
 
@@ -84,7 +84,7 @@ Ein Label, das tieferen, aus Detroit stammenden britischen Techno einführte. Au
 
 ### Starr, experimentell und rebellisch
 
-Der UK-Techno der 90er hat die folgenden klanglichen Eigenschaften:
+Der UK-Techno der 90er Jahre hat die folgenden klanglichen Eigenschaften:
 
 - Einfluss von Industrial/EBM (insbesondere Downwards-Stil)
 
@@ -94,13 +94,13 @@ Der UK-Techno der 90er hat die folgenden klanglichen Eigenschaften:
 
 - Verinnerlichung sozialer und politischer Botschaften (Einfluss der Rave-Kultur)
 
-Es ist anzumerken, dass im Vereinigten Königreich nicht nur ein stärkeres Bewusstsein für die „Funktionalität“ von Techno bestand, sondern auch für „Ausdruckskraft“ und „Nachdenklichkeit“.
+Es ist anzumerken, dass es im Vereinigten Königreich nicht nur ein stärkeres Bewusstsein für die „Funktionalität“ von Techno gab, sondern auch für „Ausdruckskraft“ und „Nachdenklichkeit“.
 
 
 <hr>
 
 ### Politik von Musik und Raum
-In den 1990er Jahren war der britische Techno eine Kultur, die den Ort mehr schätzte als die Musik. Von illegalen Raves, die in ländlichen Lagerhäusern und auf Feldern im Freien abgehalten wurden, bis hin zu freien Party-Crews (wie Spiral Tribe), die mit auf Lastwagen geladenen Soundsystemen umherzogen, eroberte Sound den physischen Raum und brachte die bestehende Gesellschaftsordnung durcheinander.
+Der britische Techno war in den 1990er Jahren eine Kultur, die den Ort mehr schätzte als die Musik. Von illegalen Raves, die in ländlichen Lagerhäusern und auf Feldern im Freien abgehalten wurden, bis hin zu freien Party-Crews (wie Spiral Tribe), die mit auf Lastwagen geladenen Soundsystemen umherzogen, eroberte Sound den physischen Raum und brachte die bestehende Gesellschaftsordnung durcheinander.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dSDJsqSGhqM?si=rvn6yH969EiyUfjC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

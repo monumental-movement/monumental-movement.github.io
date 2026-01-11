@@ -17,7 +17,7 @@ title: '[Kolumne] South African Amapiano – Eine neue Tanzmusikkultur aus Süda
 
 ## Einleitung – Warum jetzt Amapiano?
 
-Text: mmr｜Thema: Ursprünge von Amapiano, musikalische Merkmale, Entwicklungsgeschichte, Hauptkünstler und Prozess der Internationalisierung
+Text: mmr｜Thema: Amapianos Ursprünge, musikalische Eigenschaften, Entwicklungsgeschichte, bedeutende Künstler und Prozess der Internationalisierung
 
 In den letzten Jahren hat das aus Südafrika stammende Tanzmusikgenre **Amapiano** nicht nur in Japan, sondern auch in Clubszenen in ganz Afrika, Europa, Nordamerika und Asien für Aufmerksamkeit gesorgt.
 
@@ -83,7 +83,7 @@ graph LR
 
 ### Geographie und Zeit
 
-Der Geburtsort von Amapiano ist Gauteng, Südafrika. Besonders wichtig sind die Townships **Johannesburg** und **Pretoria**.
+Der Geburtsort von Amapiano ist Gauteng in Südafrika. Besonders wichtig sind die Townships **Johannesburg** und **Pretoria**.
 
 Mehreren Quellen zufolge begannen die Experimente mit Amapiano um 2012, und später wurde der einheitliche Name „Amapiano“ als Genre etabliert.
 
@@ -111,7 +111,7 @@ graph TD
 
 ---
 
-Ich habe es. Jetzt werde ich Kapitel 3 und darüber hinaus erweitern und einen **vollständigen Entwurf auf Japanisch** erstellen und gleichzeitig Markdown-Diagramme einfügen.
+Ich habe es. Jetzt erweitere ich Kapitel 3 und die folgenden und erstelle einen **vollständigen Entwurf auf Japanisch**, während ich auch Markdown-Diagramme einfüge.
 
 ---
 
@@ -136,13 +136,13 @@ Infolgedessen hat sich Amapiano von reiner Underground-Musik zu einem Genre entw
 * Förderung des Durchbruchs und der Kommerzialisierung des Genres im ganzen Land
 * Fortsetzung **Die Rückkehr der Skorpionkönige (November 2019)** war ebenfalls ein Erfolg
 
-Diese Zeit machte Amapiano nicht nur zu einer Township-Musik, sondern zu einem landesweit und kommerziell anerkannten Genre.
+In dieser Zeit wurde Amapiano mehr als nur eine Township-Musik, es wurde zu einem landesweit und kommerziell anerkannten Genre.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u2V08RBLOdM?si=ajNfLm30b3Pom53A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Abbildung 3: Künstlerbeziehungen während der Etablierung des Genres
+### Abbildung 3: Künstlerbeziehungen während der Genre-Etablierung
 
 <div class="mermaid">
 graph LR
@@ -156,7 +156,7 @@ graph LR
 
 ---
 
-## Kapitel 4: Pandemieperiode und beschleunigte Verbreitung (2020–2022)
+## Kapitel 4: Pandemiezeit und beschleunigte Verbreitung (2020–2022)
 
 ### COVID-19 und Online-Verbreitung
 

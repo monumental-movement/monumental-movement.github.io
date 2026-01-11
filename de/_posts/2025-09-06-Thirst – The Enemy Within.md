@@ -14,7 +14,7 @@ title: Durst – Der Feind im Inneren
 ---
 
 
-Thirst war eine britische House-/Hip-House-Einheit, bestehend aus Jake Reilly (J. Reilly), M. Thompson und S. Francis, die von Ende der 1980er bis Anfang der 1990er Jahre aktiv waren.
+Thirst war eine britische House-/Hip-House-Einheit, bestehend aus Jake Reilly (J. Reilly), M. Thompson und S. Francis, die von Ende der 1980er bis Anfang der 1990er Jahre aktiv war.
 
 „The Enemy Within“ ist ein House-/Hip-House-Song, der 1991 vom Label 10 Records veröffentlicht wurde. Der Remix und Co-Produzent von A&B1 ist PKA (Philip Kelsey), ein Progressive-House-Produzent und DMC-Remixer aus den 1990er Jahren, der vor allem für den Dancefloor-Hit „Let Me Hear You (Say Yeah)“ bekannt ist.
 

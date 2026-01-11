@@ -147,7 +147,7 @@ A5: [想い出波止場『水中joe』](https://amzn.to/4pJINuQ)や[ROVOのラ�
 
 ### Zusammenfassung
 
-Japans Rockgeschichte hat sich parallel zur „Mainstream“-Front und dem „Underground“ hinter den Kulissen entwickelt. Die Linie von Naked Larry's bis Guitar Wolf setzt sich bis in die aktuelle KI-Ära fort und erweitert die Möglichkeiten des Rocks weiter. Der japanische Rock wird der Weltmusikszene weiterhin „Experimente und Impulse“ verleihen.
+Japans Rockgeschichte hat sich parallel zum „Mainstream“ auf der Vorderseite und dem „Underground“ auf der Rückseite entwickelt. Die Linie von Naked Larry's bis Guitar Wolf setzt sich bis in die aktuelle KI-Ära fort und erweitert die Möglichkeiten des Rocks weiter. Der japanische Rock wird der Weltmusikszene weiterhin „Experimente und Impulse“ verleihen.
 
 ---
 

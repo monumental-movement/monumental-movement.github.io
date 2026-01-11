@@ -97,7 +97,7 @@ Mit anderen Worten: Musik ist kein Material, sondern ein „Ort“ – diese Phi
 
 ## Kapitel 4: Kettenreaktion──Abstraktionskette
 
-Im Jahr 1995 gründete Basic Channel ein Unterlabel, **Chain Reaction**.
+1995 gründete Basic Channel ein Unterlabel, **Chain Reaction**.
 Hier entwickelte sich ein eher anonymes und experimentelles Projekt.
 Hier kreuzt sich die Genealogie der späteren Berliner elektronischen Musik, darunter Monolake, Porter Ricks, Vladislav Delay und Substance.
 
@@ -214,7 +214,7 @@ Der Grund dafür ist, dass sie nicht nur Techno geschaffen haben, sondern den Ak
 Das Echo hört nie auf.
 Es ist ein anhaltender Duft der Zeit und ein Tunnel, der den Zuhörer an die Außenseite des Raums führt.
 
-Und die Wellen, die am Ende des 20. Jahrhunderts von Berlin ausgingen, hallen weiterhin lautlos im Untergrund auf der ganzen Welt nach.
+Und die Wellen, die am Ende des 20. Jahrhunderts von Berlin ausgingen, hallen weiterhin lautlos im Untergrund auf der ganzen Welt wider.
 
 > „Wenn Sie den Ton von Basic Channel hören, hören Sie den Raum selbst, nicht die Musik.“
 

@@ -17,7 +17,7 @@ title: '[Kolumne] Ween – Ein seltsames Universum, geboren aus einer Vorstadtga
 
 ## „Was ist Ween?“
 
-Text: mmr | Thema: Boognish, ein seltsamer Gott, geboren in einer Vorstadtgarage in Amerika. Von seinem Abstieg bis zur Lo-Fi-Alchemie und der Tiefsee-Mythologie zeichnet „The Mollusk“ das musikalische Universum nach, das von den seltsamen Brüdern Ween geschaffen wurde.
+Text: mmr | Thema: Boognish, ein seltsamer Gott, geboren in einer Vorstadtgarage in Amerika. Von seinem Abstieg bis zur Lo-Fi-Alchemie und der Tiefseemythologie zeichnet „The Mollusk“ das musikalische Universum nach, das von den seltsamen Brüdern Ween geschaffen wurde.
 
 
 > Eine versteckte Garage in einem Vorort von Amerika.
@@ -48,7 +48,7 @@ Eine ruhige Wohngegend in Pennsylvania Mitte der 1980er Jahre.
 Zwei Jungen schnappen sich eine Kassette und einen 4-Spur-Recorder und beginnen ein seltsames Ritual.
 **Aaron Freeman (Gene Ween)** und **Mickey Melchiondo (Dean Ween)**.
 
-Die Existenz von „**Boognish**“, die sie geschaffen haben, ist mehr als nur ein Logo oder eine Figur.
+Das von ihnen geschaffene „**Boognish**“ ist mehr als nur ein Logo oder eine Figur.
 Als fiktiver Gott des Lachens und des Wahnsinns war er ein Symbol für Weens Musik selbst.
 Die Geräusche, seltsamen Stimmen und ungewöhnlichen Tonartwechsel, die über die Heimaufnahmen verstreut waren, waren alle von Boognish gesegnet.
 
@@ -85,7 +85,7 @@ Der frühe Ween-Sound war die Magie des Homerecordings auf **4-Spur-Kassetten-MT
 Rauschen und Verzerrungen bleiben erhalten. Es war kein „Dreck“, es war „Wahrheit“.
 Ihre Homerecordings sind eine Art Lo-Fi-Alchemie.
 „The Pod“ ist eine bizarre Mischung aus krankhaftem Lachen und psychedelischer Struktur.
-Es löste bei den Zuhörern Angst aus, löste aber gleichzeitig auch ein süchtig machendes Gefühl der Freude aus.
+Es löste bei den Zuhörern ein Unbehagen aus und löste gleichzeitig ein süchtig machendes Gefühl der Freude aus.
 
 ### Kontakt zur Underground-Szene
 
@@ -159,7 +159,7 @@ Der Klang selbst erzählt den Mythos der Tiefsee.
 Live Ween war völliges Chaos.
 „**Live in Toronto 1996**“ ignoriert die Reihenfolge der Songs.
 Lachen und Lärm prallen aufeinander, die Grenzen zum Publikum verschwimmen.
-Es fühlte sich eher wie ein Ritual als wie eine Band an.
+Es war eher ein Ritual als eine Band.
 
 > „Jede Show ist ein Zufall, der nur darauf wartet, schön zu sein.“
 > — *Dean Ween, 1997*
@@ -242,7 +242,7 @@ flowchart TD
 
 ---
 
-## Letztes Kapitel: Götter, die auf dem Meeresgrund lachen – Der ewige Witz von Ween
+## Letztes Kapitel: Götter, die unter dem Meer lachen – Der ewige Witz von Ween
 
 Weens Geschichte lässt sich nicht einfach als „verrückte Band“ zusammenfassen.
 Es ist eine Aufnahme zweier Männer, die lachend durch das weite Meer der Musik schwammen.
