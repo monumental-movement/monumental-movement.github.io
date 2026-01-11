@@ -9,7 +9,7 @@ permalink: /ko/synthesys-your-fantasy/
 tags:
 - Italo
 - Disco
-title: Synthesys - 당신의 환상
+title: Synthesys – 당신의 환상
 ---
 
 

@@ -10,7 +10,7 @@ tags:
 - House
 - Minimal
 - Electro
-title: Lee Burridge와 Dan F - 'Em Mean을 대우하고, Keep'Em Keen을 유지하세요.
+title: Lee Burridge와 Dan F - Treat 'Em Mean, Keep 'Em Keen
 ---
 
 

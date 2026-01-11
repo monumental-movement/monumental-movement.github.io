@@ -14,7 +14,7 @@ title: 나가이 토시 - D.O.S 드럼
 ---
 
 
-나가이 토시미츠(Toshimitsu Nagai)는 GLAY, 히무로 쿄스케, EXILE TAKAHIRO 등의 그룹에서 서포트 드러머로 활동하고 있는 일본의 드러머이다.
+나가이 토시미츠(Toshimitsu Nagai)로도 알려진 나가이 토시는 GLAY, 히무로 쿄스케, EXILE TAKAHIRO 등의 그룹에서 서포트 드러머로 활동하고 있는 일본의 드러머입니다.
 
 D.O.S Drum은 1999년에 발매된 나가이 토시(Toshi Nagai)의 두 번째 솔로 앨범이다.
 

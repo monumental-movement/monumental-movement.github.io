@@ -8,7 +8,7 @@ layout: post
 permalink: /ko/elevate-virtual-dreams-all-i-need/
 tags:
 - Happy Hardcore
-title: Elevate – 나에게 필요한 것은 가상의 꿈
+title: Elevate – 나에게 꼭 필요한 가상의 꿈
 ---
 
 

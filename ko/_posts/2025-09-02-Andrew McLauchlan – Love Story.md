@@ -10,15 +10,15 @@ tags:
 - Techno
 - Latin
 - 00s
-title: 앤드류 맥라우클란 – 러브 스토리
+title: Andrew McLauchlan – Love Story
 ---
 
 
-Andrew McLauchlan은 스코틀랜드 출신의 프로듀서입니다. 1998년에 그는 Dan March와 함께 Figment라는 레이블을 설립했습니다.
+Andrew McLauchlanは、スコットランド出身のプロデューサー 。1998年にDan MarchとレーベルFigment(フィグメント)を設立。
 
-Andrew McLauchlan의 걸작으로 알려진 'Love Story'는 원래 1999년 Figment 컴필레이션 'Chorusline EP''로 발매되었으며, 유서 깊은 영국 레이블 Bush의 라이센스 및 리믹스를 거쳐 2000년에 다시 발매되었습니다.
+Andrew McLauchlanの代表作として知られている「Love Story 」は、元々1999年にFigmentのコンピレーション「Chorusline EP」でリリースされ、2000年にUKの老舗レーベルBush(ブッシュ・レコード)にライセンス&リミックスされ、再リリースされた。
 
-A는 스웨덴 테크노 듀오 Devilfish의 리믹스입니다.
+Aは、スウェーデン拠点のテクノ・デュオDevilfish（デヴィルフィッシュ）によるremix。
 
 #### 트랙리스트
 ```md

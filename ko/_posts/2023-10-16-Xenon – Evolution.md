@@ -9,7 +9,7 @@ permalink: /ko/xenon-evolution/
 tags:
 - Italo
 - Disco
-title: 제논 – 진화
+title: 제논 - 진화
 ---
 
 

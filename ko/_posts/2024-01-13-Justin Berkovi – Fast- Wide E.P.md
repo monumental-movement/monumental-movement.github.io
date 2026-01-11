@@ -9,7 +9,7 @@ permalink: /ko/justin-berkovi-fast-wide-e-p/
 tags:
 - Techno
 - 90s
-title: 저스틴 버코비(Justin Berkovi) - 패스트와이드 E.P
+title: 저스틴 버코비(Justin Berkovi) - 패스트 와이드 E.P
 ---
 
 

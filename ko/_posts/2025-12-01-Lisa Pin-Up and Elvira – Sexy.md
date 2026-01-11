@@ -14,7 +14,7 @@ title: 리사 핀업 & 엘비라 – 섹시
 ---
 
 
-Lisa Pin-Up(Lisa Chilcott)은 영국의 하드 하우스 DJ/프로듀서입니다. 그는 또한 Hard House/Nu NRG 그룹 Tidy Girls의 멤버이기도 합니다.
+Lisa Pin-Up(Lisa Chilcott)은 영국의 하드 하우스 DJ/프로듀서입니다. 그녀는 또한 Hard House/Nu NRG 그룹 Tidy Girls의 멤버이기도 합니다.
 
 Elvira라고도 알려진 Poll Young은 영국의 프로듀서/DJ입니다. 90년대 중반 영국 고딕 록 밴드 로제타 스톤의 멤버였다.
 

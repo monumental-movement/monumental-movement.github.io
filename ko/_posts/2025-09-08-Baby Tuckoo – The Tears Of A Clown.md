@@ -10,7 +10,7 @@ tags:
 - Hard Rock
 - Heavy Metal
 - 80s
-title: 아기 터쿠 – 광대의 눈물
+title: 아기 터쿠 - 광대의 눈물
 ---
 
 

@@ -51,13 +51,13 @@ color: #fff;
 ## 1장: 의회의 탄생 / Funkadelic - 1950년대~70년대 초반
 
 ### ■ 뉴저지 이발소에서 시작된 '두왑 드림'
-P-Funk의 기원은 George Clinton이 일했던 Newark의 Plainfield Barber Shop에서 1950년대 후반으로 거슬러 올라갑니다.
+P-Funk의 기원은 1950년대 후반 George Clinton이 일했던 Newark의 Plainfield Barber Shop에서 시작되었습니다.
 손님을 기다리는 동안 그는 친구들과 화합하여 **The Parliaments**라는 두왑 그룹을 결성했습니다.
 
 당시 흑인 청년들의 꿈은 '모타운 사운드'였다.
 조지 클린턴(George Clinton)은 스모키 로빈슨(Smokey Robinson)의 작곡 기술을 연구하고 이를 아름다운 합창과 눈길을 끄는 멜로디에 기초를 두었습니다.
 
-### 미니 일러스트: 의회 → P-Funk의 진화
+### 미니 일러스트레이티드: 의회 → P-Funk의 진화
 
 <div class="mermaid">
 
@@ -114,7 +114,7 @@ Larry Graham의 슬랩 이후 funk는 빠르게 리듬 중심으로 변했지만
 
 ## 4장: 음악적 기법에 대한 심층 분석 - P-Funk의 사운드는 왜 그토록 "우주적"일까요?
 
-P-Funk를 독특하게 만드는 것은 그루브의 강점뿐만 아니라 "구조적 제어"입니다.
+P-Funk를 독특하게 만드는 것은 그루브의 강도뿐만 아니라 "구조적 제어"입니다.
 
 ### ■ 1. 부시 콜린스(Bootsy Collins)의 “Rubbery Bass”
 
@@ -278,11 +278,11 @@ P-Funk가 미래를 말하는 흑인 음악의 중심에 있는 한, 그들의 �
 * 펑카델릭 “Cosmic Slop”
 *의회 『모선연결』
 * 의회 『Funkentelechy 대 플라시보 증후군』
-* 부스티의 고무밴드 "Stretchin' Out in Bootsy's Rubber Band"
+* 부씨의 고무밴드 "Stretchin' Out in Bootsy's Rubber Band"
 
 ---
 
-### 부록: 라이브 작곡(1976년 Mothership Tour 재현 다이어그램)
+### 부록: 실황 구성(1976년 모선 투어 재현 지도)
 
 <div class="mermaid">
 

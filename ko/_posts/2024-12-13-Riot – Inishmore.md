@@ -14,7 +14,7 @@ title: 폭동 – 이니시모어
 ---
 
 
-"Inishmore"는 1997년 일본에서 발매된 미국의 하드록/헤비메탈 밴드 Riot의 열 번째 정규 앨범이다. 이 앨범은 켈트족과 아일랜드 신화의 전설을 바탕으로 한다. 12번 트랙은 일본어판에서만 볼 수 있는 보너스 트랙이다. 발매 당시 멤버로는 Mike DiMeo, Mark Reale, Mike Flyntz, Pete Perez, Bobby Jarzombek이 있었습니다.
+"Inishmore"는 1997년 일본에서 발매된 미국의 하드록/헤비메탈 밴드 Riot의 열 번째 정규 앨범이다. 이 앨범은 켈트족과 아일랜드 신화의 전설을 바탕으로 하고 있다. 12번 트랙은 일본어판에서만 볼 수 있는 보너스 트랙이다. 발매 당시 멤버로는 Mike DiMeo, Mark Reale, Mike Flyntz, Pete Perez, Bobby Jarzombek이 있었습니다.
 
 #### 트랙리스트
 ```md

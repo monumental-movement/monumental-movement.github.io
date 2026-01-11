@@ -16,7 +16,7 @@ title: 파파디 – 아일랜드 록
 
 Papa Dee라고도 알려진 David Christopher Daniel Wahlgren은 스웨덴 출신의 래퍼입니다. 그의 스타일은 라가, 더빙, 댄스홀, 레게, 힙합 요소가 혼합되어 있습니다.
 
-"Island Rock"은 WEA가 1998년에 발매한 팝 랩 앨범이다. 공동 프로듀서는 스웨덴 프로듀서 Kent Gillström이다.
+"Island Rock"은 WEA가 1998년에 발표한 팝 랩 앨범입니다. 공동 프로듀서는 스웨덴 프로듀서 Kent Gillström입니다.
 
 #### 트랙리스트
 ```md

@@ -11,7 +11,7 @@ tags:
 - Rock
 - Improvisation
 - Experimental
-title: '[칼럼] 리듬 혁명가들: 세계와 일본을 잇는 드러머들의 리듬 최전선'
+title: '[칼럼] 리듬 혁명가들: 일본과 세계를 잇는 드러머들의 리듬 최전선'
 ---
 
 
@@ -91,7 +91,7 @@ Bonham의 "When the Levee Breaks"에 나오는 스네어 리버브는 다음과 
 ### 1-3. 정통 축: 버디 리치(Buddy Rich), 토니 윌리엄스(Tony Williams), 스티브 갓(Steve Gadd)
 
 버디 리치(Buddy Rich)는 속도의 상징, 토니 윌리엄스(Tony Williams)는 자유의 상징, 스티브 갓(Steve Gadd)은 정확성의 상징입니다.
-그들이 만들어낸 '드러머의 이상형'은 바로 20세기 음악의 틀이었다.
+그들이 만들어낸 '이상적인 드러머의 모습'은 바로 20세기 음악의 틀이었다.
 그러나 동시에 지하에서는 **기율을 벗어난 북**이 몸부림치고 있었습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9esWG6A6g-k?si=t_bBIlRHycXe1C4D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -101,7 +101,7 @@ Bonham의 "When the Levee Breaks"에 나오는 스네어 리버브는 다음과 
 ### 1-4. 아프리카의 심장 박동: 토니 앨런과 정치 혁명
 
 Fela Kuti의 조수로 더 잘 알려진 Tony Allen은 "Afrobeat"를 발명한 사람입니다.
-리듬은 '반체제'의 상징이었으며 군사 통치 하에 있던 나이지리아 국민의 에너지를 시각화했다.
+리듬은 '반체제'의 상징이자 군사 통치 하에 있던 나이지리아 국민의 에너지를 시각화한 것이다.
 드럼은 정치였습니다. 소리는 항의였다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aqG-jGPppSI?si=j03o7AflXhY68RXf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -155,7 +155,7 @@ Boredoms의 거대 드럼 앙상블 '77BOADRUM'은 도시를 뒤흔든 의식이
 
 ### 2-3. 우치다 유야 이후의 반군: 나카무라 타츠야, 이케바타 준지
 
-나카무라 타츠야(Tatsuya Nakamura)는 드럼을 폭력적이면서 시적인 것으로 변화시켰습니다.
+나카무라 타츠야(Tatsuya Nakamura)는 드럼을 폭력이면서 시적인 것으로 변화시켰습니다.
 『이마와노 기요시로』와 『블랭키 제트시티』의 맥락을 넘어,
 몸의 울부짖음을 소리로 형상화한 존재.
 이케바타 준지는 블루스를 일본어로 번역하는 드럼을 연주합니다.
@@ -180,7 +180,7 @@ Boredoms의 거대 드럼 앙상블 '77BOADRUM'은 도시를 뒤흔든 의식이
 
 ### 2-5. 신세대 흐름 : 이시와카 슌, 고바야시 우테나, 사카모토 아키라, Yo2ro
 
-이시와카 슌은 도쿄 J-재즈의 상징이지만, 밀레니엄 퍼레이드, 세로 등 팝 분야를 자유자재로 넘나드는 인물이다.
+이시와카 슌은 도쿄 J-재즈의 상징이지만 밀레니엄 퍼레이드, 세로 등 팝 분야를 자유자재로 넘나드는 인물이다.
 고바야시 우테나(블랙 미디풍 폴리리듬 + 일본북 구조)는 성별과 장르를 초월합니다.
 사카모토 아키라(DOWNY, MONO NO AWARE)는 평온함과 폭력 사이의 경계를 밟습니다.
 그리고 **Yo2ro**는 Boredoms를 포함한 현대음악과 즉흥 연주 프로젝트에서 쌓은 경험을 바탕으로,
@@ -200,7 +200,7 @@ AI 드럼, MIDI 트리거 및 햅틱 장치.
 
 제프 밀스가 말했듯이,
 "드럼 머신은 재즈의 미래입니다."
-그의 라이브 쇼에서 TR-909는 마치 살아있는 것 같은 소리를 냅니다.
+그의 라이브 쇼에서 TR-909는 살아있는 것 같은 소리를 냈습니다.
 그리고 하이노 케이지가 계속해서,
 "침묵은 음악의 일부입니다."
 
@@ -222,7 +222,7 @@ AI 드럼, MIDI 트리거 및 햅틱 장치.
 
 언뜻 보면 서로 다른 세계처럼 보입니다.
 하지만 듣는 이들의 마음속에 깃든 리듬은 똑같다.
-그것은 "지상과 지하를 연결하는 심장의 고동"──
+그것은 "지상과 지하를 연결하는 심장박동"──
 그리고 그것은 미래에도 지속될 음악적 기억입니다.
 
 ---

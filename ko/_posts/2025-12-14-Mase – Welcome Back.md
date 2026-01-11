@@ -15,7 +15,7 @@ title: Mase – 돌아온 것을 환영합니다
 
 Mase(Ma$e)는 Jay-Z, DMX, Lil' Kim 등이 참여한 1997년 히트 앨범 Harlem World로 유명한 플로리다 래퍼입니다.
 
-1999년 2집 'Double Up'을 발매한 뒤 은퇴했으나 2004년 'Welcome Back'으로 돌아왔다.
+1999년 2집 'Double Up'을 발표한 뒤 은퇴했으나 2004년 'Welcome Back'으로 돌아왔다.
 
 'Welcome Back'은 배드보이 엔터테인먼트가 발매한 곡으로, B의 'Breathe, Stretch, Shake'에는 P. Diddy가 피처링으로 참여했다.
 

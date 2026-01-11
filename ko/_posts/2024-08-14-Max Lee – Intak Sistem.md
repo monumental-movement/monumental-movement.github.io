@@ -10,15 +10,15 @@ tags:
 - Hardcore
 - Techno
 - 90s
-title: Max Lee – 인탁시스템
+title: Max Lee – Intak Sistem
 ---
 
 
-Massimo Favarin으로도 알려진 Max Lee는 이탈리아의 프로듀서이자 DJ입니다. 그는 또한 이탈리아 테크노 프로젝트인 Klima와 Adrenalina의 멤버로도 활동했습니다.
+Max LeeことMassimo Favarinは、イタリアのプロデューサー・DJ。イタリアのテクノプロジェクトKlimaやAdrenalinaのメンバーとしても活躍した。
 
-프로듀서는 1980년대 초부터 댄스/디스코 트랙을 발표해 온 이탈리아 DJ 겸 프로듀서 OTTOMIX(Ottorino Menardi)이다.
+プロデューサーは、80年代初頭からダンス/ディスコトラックをリリースしているイタリアのDJ・プロデューサーOTTOMIX（Ottorino Menardi）。
 
-"Intak Sistem"은 Ottorino Menardi와 Massimo Favarin이 설립한 이탈리아 테크노 댄스 레이블 Tax Disk에서 1992년 발표한 하드코어 테크노 트랙입니다.
+「 Intak Sistem」は、Ottorino MenardiとMassimo Favarinが設立したイタリアのテクノダンスレーベルTax Diskから1992年にリリースされたハードコア・テクノトラック。
 
 #### 트랙리스트
 ```md

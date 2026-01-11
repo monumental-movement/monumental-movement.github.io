@@ -10,7 +10,7 @@ tags:
 - Industrial
 - Psy-Trance
 - 00s
-title: 팀 슐트(Tim Schuldt) – 추적된 역/비밀
+title: 팀 슐트(Tim Schuldt) - 역추적/비밀
 ---
 
 

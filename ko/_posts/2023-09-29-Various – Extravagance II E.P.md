@@ -9,13 +9,13 @@ permalink: /ko/various-extravagance-ii-e-p/
 tags:
 - Techno
 - Hardcore Techno
-title: 다양 – 사치 II E.P
+title: Various – Extravagance II E.P
 ---
 
 
-"Adrenalin"과 "I Think I Want Some More"는 1992년에 나온 노래이며 시대를 초월한 트랙입니다.
+「Adrenalin」と「I Think I Want Some More」は、1992年からの楽曲で、タイムレスなトラックです。
 
-이 EP의 트랙은 Basement Phil의 History of Rave 쇼에도 소개되었습니다.
+このEPのトラックはBasement PhilのHistory of Rave番組でも取り上げられていました。
 
 #### 트랙리스트
 ```md

@@ -10,7 +10,7 @@ tags:
 - Disco
 - Synth-Pop
 - 7inch
-title: 열정나타 - 히미코
+title: 열정나타 – 히미코
 ---
 
 

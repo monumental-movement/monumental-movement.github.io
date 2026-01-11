@@ -67,7 +67,7 @@ flowchart TD
 
 #### 부정적
 
-샘플링/콜라주를 활용한 미디어 비평 작업으로 유명한 샌프란시스코 지역에서 활동하는 그룹입니다. 1980년대 후반의 <소음에서 탈출> 등의 작품은 소음과 대중문화의 교차점을 보여주는 중요한 작품으로, DIY 라디오와 가짜 광고 기법 등을 통해 논란과 관심을 끌었다.
+샘플링/콜라주를 활용한 미디어 비평 작업으로 유명한 샌프란시스코 지역에서 활동하는 그룹입니다. 1980년대 후반 <소음에서 탈출> 등의 작품은 소음과 대중문화의 교차점을 보여주는 중요한 작품으로, DIY 라디오와 가짜 광고 기법 등을 통해 논란과 관심을 끌었다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t8veXrYh1cc?si=YU9J8AUiD9LLiFVe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -75,7 +75,7 @@ flowchart TD
 
 #### Matmos 및 지역 파생
 
-Matmos는 1990년대 샌프란시스코에서 결성되었으며 샘플링을 사용한 개념적 작업으로 국제적인 호평을 받았습니다. 2000년대 이후에는 예술기관, 현대음악축제와의 연계를 강화하며 실험음악의 '개념적 측면'을 계속해서 선도해왔다.
+Matmos는 1990년대 샌프란시스코에서 결성되었으며 샘플링을 사용한 개념적 작업으로 국제적인 호평을 받았습니다. 2000년대 이후로는 예술기관, 현대음악축제와의 연계를 강화하며 실험음악의 '개념적 측면'을 계속해서 선도해왔다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MvOAA49Usq8?si=h38WAM6UQDKAd6xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

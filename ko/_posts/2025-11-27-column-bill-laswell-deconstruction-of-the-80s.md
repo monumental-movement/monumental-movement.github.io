@@ -16,7 +16,7 @@ title: '[칼럼] 빌 라스웰과 친구들: 80년대의 해체 - 음향파괴�
 
 ## '80년대의 해체'라는 제목을 선택한 이유는 무엇인가요?
 
-빌 라스웰이 1980년대에 실천했던 '음향적 해체와 재구성'을 팩트만을 이용해 분석하는 장문의 칼럼입니다. About Material, Herbie Hancock의 "Future Shock", Last Exit, 월드 뮤직과의 연결 등.
+빌 라스웰이 1980년대에 실천한 '음향적 해체와 재구성'을 사실만을 이용해 분석하는 장문의 칼럼입니다. About Material, Herbie Hancock의 "Future Shock", Last Exit, 월드 뮤직과의 연결 등.
 
 
 1980년대 빌 라스웰의 음악 활동은 장르와 문화, 공연 형식, 국경을 자유롭게 넘나드는 '해체와 재구성'의 연속이었다.
@@ -59,7 +59,7 @@ color: #fff;
 - 발매된 작품들은 장르 정의가 모호해졌습니다.
 
 이 글에서는 빌 라스웰과 그 주변의 음악가들을 소개합니다.
-**1980년대 음향학이 어떻게 '해체되고 재구성'되었는가**를 사실을 바탕으로 추적해 본다.
+**1980년대 음향학이 어떻게 '해체되고 재편성'되었는지** 사실을 바탕으로 추적해 본다.
 
 ---
 
@@ -71,11 +71,11 @@ John Zorn, Arto Lindsay, Fred Frith, Sonny Sharrock 및 Ronald Shannon Jackson�
 '크로스보더' 네트워크가 형성됐고, 그 중심에는 라스웰이 있다.
 
 ## 1-2. 재료 형성
-Material(1955년 결성, 1979년부터 활동)은 Laswell, Michael Beinhorn, Fred Maher를 중심으로 한 프로젝트입니다.
-처음에는 노웨이브(no-wave), 미니멀(minimal), 펑크(funk)에 중점을 두다가 나중에는 댄스, 힙합, 에스닉 요소까지 확장했다.
+Material(1955년 결성, 1979년부터 활동)은 Laswell, Michael Beinhorn 및 Fred Maher를 중심으로 한 프로젝트입니다.
+처음에는 노웨이브(no-wave), 미니멀(minimal), 펑크(funk)에 초점을 맞췄고, 나중에는 댄스, 힙합, 에스닉 요소까지 확장했다.
 
 **주요 사실:**
-- 소니 샤록(Sonny Sharrock)과 헨리 스레드길(Henry Threadgill)이 함께한 ``Memory Serves''(1981)
+- 소니 샤록(Sonny Sharrock)과 헨리 스레드길(Henry Threadgill)이 함께한 'Memory Serves'(1981)
 - '펑크×아방가르드' 구도 확립
 - 1980년대 중반부터 허비 행콕 등 주요 아티스트들과의 접점이 됨
 
@@ -107,9 +107,9 @@ Laswell은 '제작자, 연주자, 편집자'로 자리매김했습니다.
 
 ---
 
-#4. 월드뮤직의 재편성: 아프리카와 아시아를 연결하다
+# 4. 월드뮤직의 재편성: 아프리카와 아시아를 연결하다
 Laswell의 "World Music Compilation"은 상업용 월드 뮤직과 다릅니다.
-아티스트 주도의 '어쿠스틱 문화 재구성'으로 진행될 예정이다.
+아티스트 주도의 '어쿠스틱 문화의 재구성'으로 진행될 예정이다.
 
 **주요 사실:**
 - Fela Kuti의 녹음 및 편집 작업
@@ -121,7 +121,7 @@ Laswell의 "World Music Compilation"은 상업용 월드 뮤직과 다릅니다.
 ---
 
 # 5. 노이즈와 재즈의 통합: 마지막 출구(1986~1988)
-라스웰은 1980년대 후반 '전복적인 재즈'의 상징이라 할 수 있는 프로젝트인 라스트 엑시트(Last Exit)에 참여했다.
+라스웰은 1980년대 후반 '파괴적인 재즈'의 상징이라 할 수 있는 프로젝트인 라스트 엑시트(Last Exit)에 참여했다.
 
 **사실:**
 - 멤버: Sonny Sharrock, Peter Brötzmann, Ronald Shannon Jackson, Bill Laswell

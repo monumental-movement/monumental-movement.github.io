@@ -10,15 +10,16 @@ permalink: /ko/dolls-united-feat-jim-knopf-and-lukas-der-lokomotivfuhrer-eine-in
 tags:
 - Euro House
 - House
-title: 돌스 유나이티드 Feat. Jim Knopf와 Lukas Der Lokomotivfuhrer – Eine Insel Mit Zwei Bergen
+title: Dolls United Feat. Jim Knopf and Lukas Der Lokomotivfuhrer – Eine Insel Mit
+  Zwei Bergen
 ---
 
 
-"Dolls United"는 독일의 유로댄스 그룹입니다. 그들은 0~10세 어린이들에게 인기가 있는 TV 쇼 Augsburger Puppenkiste의 캐릭터와 노래의 목소리를 샘플링합니다.
+「Dolls United」は、ドイツのユーロダンスグループです。彼らは、0歳から10歳の子供たちに人気のあるテレビ番組「アウクスブルガー・プッペンキステ」のキャラクターや楽曲の声をサンプリングしています。
 
-그들의 릴리스에서는 샘플링된 캐릭터를 "Dolls United feat. Jim Knopf & Lukas Der Lokomotivführer" 및 "Dolls United feat. Die Blechbüchsenarmee"와 같은 "추가 아티스트"로 참조합니다.
+彼らのリリースでは、サンプリングされたキャラクターを「追加アーティスト」として言及しており、たとえば「Dolls United feat. Jim Knopf & Lukas Der Lokomotivführer」や「Dolls United feat. Die Blechbüchsenarmee」といった形で表示されています。
 
-실제로 이들은 진정한 추가 아티스트가 아닙니다.
+実際には、これらは本物の追加アーティストではありません。
 
 #### 트랙리스트
 ```md

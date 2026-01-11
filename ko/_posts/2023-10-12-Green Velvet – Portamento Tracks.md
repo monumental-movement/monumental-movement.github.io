@@ -9,13 +9,13 @@ permalink: /ko/green-velvet-portamento-tracks/
 tags:
 - House
 - Techno
-title: 그린 벨벳 – 포르타멘토 트랙
+title: Green Velvet – Portamento Tracks
 ---
 
 
-Green Velvet으로 더 잘 알려진 Curtis Alan Jones는 시카고 출신의 가수/레코드 프로듀서/DJ입니다.
+Green Velvet（グリーン・ベルベット）として知られるCurtis Alan Jones（カーティス・アラン・ジョーンズ）は、シカゴ出身のシンガー/レコードプロデューサー/DJ。 
 
-Cajmere, Geo Vogt, Half Pint, Curan Stone 및 Gino Vittori라고도 알려져 있습니다.
+別名義でCajmere、Geo Vogt、Half Pint、Curan Stone、Gino Vittori としても知られている。
 
 #### 트랙리스트
 ```md

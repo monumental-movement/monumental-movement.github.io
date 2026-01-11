@@ -14,7 +14,7 @@ title: 현실 – 욜란다
 ---
 
 
-Reality는 Afrika Bambaataa의 사촌인 Kool Rock Steady(일명 Edward Rudolph)가 보컬을 맡은 힙합 하우스 트리오입니다.
+Reality는 Edward Rudolph라고도 알려진 Afrika Bambaataa의 사촌 Kool Rock Steady가 보컬을 맡은 힙합 하우스 트리오입니다.
 
 1993년 하우스 레이블 Strictly Rhythm을 통해 발매된 "Yolanda"는 전 세계적으로 큰 히트를 쳤던 하우스 트랙입니다.
 

@@ -9,7 +9,7 @@ permalink: /ko/hoodlum-priest-heart-of-darkness/
 tags:
 - Hiphop
 - Leftfiled
-title: Hoodlum Priest – 어둠의 심장
+title: Hoodlum Priest - 어둠의 심장
 ---
 
 
@@ -17,7 +17,7 @@ title: Hoodlum Priest – 어둠의 심장
 
 'Heart of Darkness'는 이름 그대로 내면의 갈등과 어둠의 깊이를 주제로 한 곡으로, 곡의 진행이 긴장감 넘치고, 섬뜩한 음향 효과와 묵직한 리듬이 어우러져 있다. 가사는 어두운 주제에 맞춰 깊고 성찰적인 내용을 탐구합니다.
 
-'Heart of Darkness'는 푸드럼프리스트만의 독특한 음악적 스타일과 예술적 표현력을 고스란히 담아낸 앨범이다.
+'Heart of Darkness'는 푸드럼프리스트만의 독특한 음악적 스타일과 예술적인 표현력을 고스란히 담아낸 앨범이다.
 
 #### 트랙리스트
 ```md

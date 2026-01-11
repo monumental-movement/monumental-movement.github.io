@@ -9,17 +9,17 @@ permalink: /ko/ascension-someone/
 tags:
 - Trance
 - 00s
-title: 승천 – 누군가
+title: Ascension – Someone
 ---
 
 
-Ascension은 영국 댄스 음악 프로듀서 Rick Simmonds와 Stephen Jones의 프로젝트입니다.
+Ascension(アセンション)は、UKダンスミュージックのプロデューサーRick SimmondsとStephen Jones によるプロジェクト。
 
-"Someone"은 영국 Trance & House 레이블 Code Blue가 2000년에 발표한 트랜스 트랙입니다.
+「Someone」は、UKのTrance & HouseレーベルCode Blueから2000年にリリースされたトランストラック。
 
-A는 영국의 Trance DJ이자 프로듀서인 Steve Helstrip(일명 Thrillseekers)의 리믹스입니다.
+Aは、Thrillseekers ことUK Trance DJ&プロデューサーSteve Helstripによるリミックス。
 
-B는 영국 일렉트로닉 댄스 뮤직(EDM) 듀오 Binary Finaly의 리믹스입니다.
+Bは、UKのエレクトロニックダンスミュージック(EDM)デュオ、Binary Finary(バイナリーファイナリー)によるリミックス。
 
 
 #### 트랙리스트

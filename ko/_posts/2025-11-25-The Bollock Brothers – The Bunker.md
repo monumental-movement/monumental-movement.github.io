@@ -11,13 +11,13 @@ tags:
 - Synth-pop
 - Rock
 - 80s
-title: 볼록 형제 – The Bunker(향후 영화에서)
+title: The Bollock Brothers – The Bunker (From The Forthcoming Film)
 ---
 
 
-Bollock Brothers는 런던 프로모터/DJ/매니저이자 4" Be 2"의 전 멤버인 Jock McDonald가 1979년에 결성한 영국의 펑크/뉴 웨이브 밴드입니다.
+The Bollock Brothers(ボロック・ブラザーズ)は、ロンドンのプロモーター/ DJ /マネージャーであり、 4" Be 2"のメンバーだったJock McDonald(ジョック・マクドナルド)によって1979年に結成されたイギリスのPunk ／New Waveバンド。
 
-1980년에 발표된 "The Bunker"는 볼록 브라더스(The Bollock Brothers)의 대표곡으로 잘 알려져 있습니다. 프로듀서는 Sex Pistols의 John Lydon의 형제인 Jimmy Lydon입니다.
+1980年にリリースした「The Bunker」は、The Bollock Brothersの代表曲としてよく知られている。プロデューサーは、セックス・ピストルズ のJohn Lydon(ジョン・ライドン) の兄弟のJimmy Lydon。
 
 #### 트랙리스트
 ```md

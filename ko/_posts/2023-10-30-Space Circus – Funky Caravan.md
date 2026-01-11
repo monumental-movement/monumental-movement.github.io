@@ -14,7 +14,7 @@ title: 우주 서커스 - 펑키 캐러밴
 ---
 
 
-"Funky Caravan"은 1970년대 후반에 활동한 일본 프로그레시브 록 및 퓨전 밴드 Space Circus의 데뷔 앨범입니다. 베이시스트 오카노 하지메는 음악 프로듀서로 Starlin, POLYSICS, L'Arc~en~Ciel 등 수많은 밴드에 참여해 왔습니다.
+"Funky Caravan"은 1970년대 후반에 활동한 일본 프로그레시브 록 및 퓨전 밴드 Space Circus의 데뷔 앨범입니다. 베이시스트 하지메 오카노는 음악 프로듀서로 Starlin, POLYSICS, L'Arc~en~Ciel 등 수많은 밴드에 참여해 왔습니다.
 
 #### 트랙리스트
 ```md

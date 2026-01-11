@@ -11,14 +11,14 @@ tags:
 - Pop
 - Europop
 - 80s
-title: 로렌 미첼 – 내가 될 수 있는 모든 것
+title: Lauren Mitchell – All That I Can Be
 ---
 
 
 
-Trax Music 레이블이 1989년에 발매한 Europop입니다.
+1989年にレーベルTrax Music からリリースされたユーロポップ。
 
-프로듀서는 'St. 엘모의 불(Elmo's Fire)'은 영화 '세인트루이스'의 주제곡이다. 엘모의 불.''
+プロデューサーは、映画『セント・エルモス・ファイアー』の主題歌「セント・エルモス・ファイアー」 で知られるイギリスの歌手John Parr(ジョン・パー)。
 
 
 #### 트랙리스트

@@ -14,7 +14,7 @@ title: Haines Gang – So Hot (The Razor's Edge 믹스)
 
 
 "So Hot (The Razor's Edge Mix)"는
-1982년 런던 레코드에서 발매된 페리 헤인즈(Perry Haines)의 프로젝트 'The Haines Gang'의 신스 팝 곡이다.
+1982년 런던 레코드에서 발매된 페리 헤인즈(Perry Haines)의 프로젝트 'The Haines Gang'의 신스 팝곡이다.
 
 #### 트랙리스트
 ```md

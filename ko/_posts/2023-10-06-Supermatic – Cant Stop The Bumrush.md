@@ -14,7 +14,7 @@ title: Supermatic - Can't Stop The Bumrush
 
 
 'Can't Stop The Bumrush'는
-이것은 1992년 Sonic Records 레이블로 출시된 Otto van den Toorn의 Supermatic 프로젝트의 EP입니다.
+이것은 1992년 Sonic Records 레이블로 발매된 Otto van den Toorn의 Supermatic 프로젝트의 EP입니다.
 
 #### 트랙리스트
 ```md

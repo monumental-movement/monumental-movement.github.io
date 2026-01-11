@@ -16,7 +16,7 @@ title: 첼로니스 R. 존스 – 르 바토 이브르
 
 Chelonis R. Jones는 2000년대부터 유럽 일렉트로/테크 하우스 씬에서 활동해온 미국 출신의 뮤지션, 싱어송라이터, 비주얼 아티스트입니다.
 
-"Le Bateau Ivre"는 Electro/Tech House에서 2005년 Get Physical Music 레이블로 데뷔 앨범 "Dislocation Genius"(2005)의 리드 싱글로 발매되었습니다.
+"Le Bateau Ivre"는 2005년 Electro/Tech House에서 Get Physical Music 레이블로 데뷔 앨범 "Dislocation Genius"(2005)의 리드 싱글로 발매되었습니다.
 
 A1&B2는 Jesper Dahlbäck과 Tiga Sontag의 유닛 The Fairy가 리믹스한 곡입니다.
 

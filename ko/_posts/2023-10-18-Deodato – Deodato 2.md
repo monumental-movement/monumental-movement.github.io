@@ -12,9 +12,9 @@ title: 데오다토 – 데오다토 2
 ---
 
 
-Deodato라고도 알려진 Eumir Deodato는 브라질 음악가, 작곡가, 편곡가 및 프로듀서입니다.
+Deodato로도 알려진 Eumir Deodato는 브라질 음악가, 작곡가, 편곡가 및 프로듀서입니다.
 
-1973년 발매된 데오다토의 2집 '랩소디 인 블루(Rhapsody in Blue)'에는 조지 거슈윈(George Gershwin)의 '랩소디 인 블루(Rhapsody In Blue)', 모리스 라벨(Maurice Ravel)의 '죽은 공주를 위한 파반(Pavane for a Dead Princess)', 무디 블루스(The Moody Blues)의 '새틴 나이트(Satin Night)' 등을 데오다토 스타일의 편곡으로 담았다.
+1973년 발매된 데오다토의 2집 '랩소디 인 블루'에는 조지 거슈윈의 '랩소디 인 블루', 모리스 라벨의 '죽은 공주를 위한 파반', 더 무디 블루스의 '새틴 나이트' 등을 데오다토 스타일의 편곡으로 담았다.
 
 #### 트랙리스트
 ```md

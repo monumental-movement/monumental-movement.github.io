@@ -9,13 +9,13 @@ permalink: /ko/squeeze-babylon-and-on-vinyl/
 tags:
 - New-Wave
 - Pops
-title: 스퀴즈 - 바빌론과 비닐에
+title: Squeeze – Babylon And On Vinyl
 ---
 
 
-"Babylon and On"은 영국 밴드 "Squeeze"가 1987년에 발매한 앨범이다.
+「Babylon and On」は、イギリスのバンド「Squeeze（スクイーズ）」によって1987年にリリースされたアルバムです。
 
-스퀴즈(Squeeze)는 팝 록과 뉴 웨이브의 요소를 결합한 노래로 유명한 1980년대 성공적인 밴드였습니다. '바빌론 앤 온(Babylon and On)' 앨범 역시 특유의 팝 사운드와 세련된 노래로 주목을 받았다. 특히 'Hourglass' 등의 곡은 스퀴즈의 대표곡으로 알려져 있다.
+スクイーズは、ポップロックやニューウェイヴの要素を取り入れた楽曲で知られるバンドで、1980年代の音楽シーンで成功を収めました。「Babylon and On」アルバムも、その特徴的なポップサウンドと洗練された楽曲が注目されました。特に「Hourglass」などの楽曲は、スクイーズの代表曲として知られています。
 
 #### 트랙리스트
 ```md

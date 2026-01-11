@@ -16,7 +16,7 @@ title: Anthill Mob – 당신도 알았어야 했어요
 
 Anthill Mob은 런던 동부를 대표하는 영국 차고 그룹입니다.
 
-핵심 멤버는 프로듀서이자 보컬인 Tosh(Yoush)(일명 Andrew Alcee)와 프로듀서 Just Juice(일명 Justin Jones)입니다. Studio 2라는 이름으로도 출시되었습니다.
+핵심 멤버는 프로듀서이자 보컬리스트인 Tosh(Yoush)(일명 Andrew Alcee)와 프로듀서 Just Juice(일명 Justin Jones)입니다. Studio 2라는 이름으로도 출시되었습니다.
 
 
 A1, A2, B2는 1990년대 초 스피드 개러지와 개러지 하우스의 창시자 중 한 명으로 꼽히는 미국 DJ이자 프로듀서인 토드 에드워즈(Todd Edwards)의 리믹스다.

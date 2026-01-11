@@ -17,7 +17,7 @@ title: 외부 – 의심스러운
 
 Outside는 Matt Cooper, Andreas Allen, Patrice Blanchard가 결성한 영국 재즈 펑크 그룹입니다.
 
-트랙 2와 8에는 영국 가수 Cleveland Watkiss가 피쳐링했습니다.
+트랙 2와 8에는 영국 가수 Cleveland Watkiss가 피처링으로 참여했습니다.
 
 트랙 4와 7에는 영국 애시드 재즈 그룹 Galliano의 Constantine Weir가 피처링으로 참여했습니다.
 

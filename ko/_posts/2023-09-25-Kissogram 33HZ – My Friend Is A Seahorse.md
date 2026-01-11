@@ -9,15 +9,15 @@ permalink: /ko/kissogram-33hz-my-friend-is-a-seahorse/
 tags:
 - House
 - Tech House
-title: Kissogram / 33HZ – 내 친구는 해마 / Hot Flashes
+title: Kissogram / 33HZ – My Friend Is A Seahorse / Hot Flashes
 ---
 
 
-"내 친구는 해마 / Hot Flashes"는 Kissogram과 33HZ가 공동 프로듀싱한 곡입니다. 키소그램(Kissogram)은 독일의 일렉트로닉 뮤직 듀오이고, 33HZ는 미국의 일렉트로닉 팝 밴드이다.
+「My Friend Is A Seahorse / Hot Flashes」は、キソグラムと33HZが共同制作した楽曲です。キソグラムはドイツのエレクトロニックミュージックデュオ、33HZはアメリカのエレクトロニックポップバンドです。
 
-'내 친구는 해마'는 키토그램 특유의 일렉트로닉 사운드와 팝적인 요소가 어우러진 곡으로, 캐치한 멜로디와 리듬, 독특한 보컬이 곡 전체에 유쾌함과 긍정적인 에너지를 가득 담고 있다.
+「My Friend Is A Seahorse」は、キソグラムのシグネチャーサウンドであるエレクトロニックミュージックとポップの要素を組み合わせた楽曲で、キャッチーなメロディとリズム、独特なボーカルなど楽曲全体に遊び心とポジティブなエネルギーが溢れています。
 
-'핫플래시'는 댄스 가능한 비트와 캐치한 멜로디, 일렉트로닉 팝 요소가 어우러져 33HZ의 음악적 스타일을 반영한 곡이다.
+「Hot Flashes」は、ダンサブルなビートとキャッチーなメロディ、エレクトロニックポップの要素が前面に出ており、33HZの音楽スタイルを反映した一曲となっています。
 
 #### 트랙리스트
 ```md

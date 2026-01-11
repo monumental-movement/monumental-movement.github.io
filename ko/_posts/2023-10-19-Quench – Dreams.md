@@ -13,7 +13,7 @@ title: 담금질 – 꿈
 ---
 
 
-Quench로도 알려진 Christopher J. Dolan(CJ Dolan)은 호주의 댄스 음악 프로듀서이자 음악가입니다. "Quench – Dreams"는 전 세계적으로 히트를 쳤습니다. 공동프로듀서: 션 퀸.
+Quench로도 알려진 Christopher J. Dolan(CJ Dolan)은 호주의 댄스 음악 프로듀서이자 음악가입니다. "Quench - Dreams"는 전 세계적으로 히트를 쳤습니다. 공동프로듀서: 션 퀸.
 
 B면의 첫 번째와 두 번째 곡은 영국 프로그레시브 하우스 듀오 크런치(Crunch)의 리믹스이다.
 

@@ -9,11 +9,11 @@ permalink: /ko/various-exterminator-presents-turn-on-the-heat/
 tags:
 - Reggae
 - Dancehall
-title: 다양한 – 익스터미네이터(Exterminator)가 열을 가합니다.
+title: 다양한 – Exterminator가 열을 가하는 선물을 드립니다.
 ---
 
 
-'Exterminator Presents Turn On The Heat'는
+'Exterminator Presents Turn On The Heat' 는
 1989년 영국 레이블 "Sir Coxsone"이 발매한 매우 클래식한 Fatis Burrell 원리딤 컴필레이션 앨범입니다.
 이다.
 

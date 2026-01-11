@@ -23,7 +23,7 @@ title: 독일 테크노 작품 따기
 <a href="https://jp.mercari.com/item/m32845023734?afid=6142608987"><img src="../assets/images/Tresor%20Compilation%20Vol.%207.webp"></a>
 
 
-매력 포인트: Sven Väth, Maurizio, Ben Sims, James Ruskin, Pacou 등 테크노계 유명 인사들의 고급스러운 트랙을 포함하는 유명한 독일 레이블 Tresor의 컴필레이션입니다. 베를린-독일을 상징하는 하드하고 미니멀하며 혁신적인 테크노의 매력을 마음껏 경험할 수 있는 작품이다.
+매력 포인트: Sven Väth, Maurizio, Ben Sims, James Ruskin, Pacou 등 테크노계 유명 인사들의 고급스러운 트랙을 포함하는 유명한 독일 레이블 Tresor의 컴필레이션입니다. 독일 베를린을 상징하는 하드하고 미니멀하며 혁신적인 테크노의 매력을 마음껏 경험할 수 있는 작품이다.
 
 
 #### 트랙리스트
@@ -58,7 +58,7 @@ title: 독일 테크노 작품 따기
 
 
 
-매력포인트 : 독일 DJ/프로듀서 스플랭크(Splank)의 프로젝트 좀비네이션(Zombie Nation)의 명작! (플로리안 센프터) 특히 A면 "Souls At Zero (오리지널 앨범 버전)"은 Sven Väth의 리믹스 B면과 짝을 이룹니다. Sven Väth의 리믹스는 독일 테크노의 깊이와 드라마를 결합한 강력한 마무리를 가지고 있습니다.
+매력 포인트 : 독일 DJ/프로듀서 스플랭크(Splank)의 프로젝트 좀비네이션(Zombie Nation)의 명작! (플로리안 센프터). 특히 A면 "Souls At Zero (오리지널 앨범 버전)"은 Sven Väth의 리믹스 B면과 짝을 이룹니다. Sven Väth의 리믹스는 독일 테크노의 무거움과 드라마를 결합한 강력한 마무리를 가지고 있습니다.
 
 
 #### 트랙리스트
@@ -83,7 +83,7 @@ B. Souls At Zero (Sven Väth Remix)
 <a href="https://jp.mercari.com/item/m39474275698?afid=6142608987"><img src="../assets/images/Cygnus%20X%20%E2%80%93%20The%20Orange%20Theme%20(The%20Remixes).webp"></a>
 
 
-매력 포인트: 독일 유닛 Cygnus X의 에너제틱하고 경쾌한 트랜스 테크노 명곡 "The Orange Theme"의 리믹스. Moonman, Bervoets & De Goeij, Mark Van Dale with Enrico 등의 다양한 리믹스가 포함되어 있어 원곡의 본질을 담은 클럽 친화적인 편곡을 즐길 수 있습니다.
+매력 포인트: 독일 유닛 Cygnus X의 에너제틱하고 경쾌한 트랜스 테크노 명작 'The Orange Theme'의 리믹스 앨범. Moonman, Bervoets & De Goeij, Mark Van Dale with Enrico 등의 다양한 리믹스가 수록되어 있어 원곡의 본질을 담아낸 클럽 친화적인 편곡을 즐길 수 있습니다.
 
 
 #### 트랙리스트
@@ -112,7 +112,7 @@ B2. The Orange Theme (Mark Van Dale With Enrico Mix)
 
 
 
-매력포인트 : 2001년 토마스 슈마허의 솔로 프로젝트 'Elektrochemie LK' 발매. 탄탄한 비트와 독일의 클래식 테크노 미학이 결합된 매력적인 작품입니다. 자유분방하고 엣지있는 트랙 전개가 빛을 발합니다.
+매력 포인트: 2001년 토마스 슈마허의 솔로 프로젝트 "Elektrochemie LK" 발매. 탄탄한 비트와 독일의 클래식 테크노 미학이 결합된 매력적인 작품입니다. 자유분방하고 엣지있는 트랙 전개가 빛을 발합니다.
 
 
 #### 트랙리스트
@@ -205,7 +205,7 @@ B2. Get On Up!
 <a href="https://jp.mercari.com/item/m77843863379?afid=6142608987"><img src="../assets/images/Bazz-Dee%20and%20Waldhaus%20Weichentechnikk%20%E2%80%93%20Brachial%202004%2004.webp"></a>
 
 
-매력포인트 : KISS의 'I Was Made For Loving You'를 과감하게 샘플링한 트랙을 비롯해 Waldhaus와 Bazz-Dee의 인더스트리얼적 풍미가 강한 하드 테크노. 제목에서 알 수 있듯이 '팔'(급진적이고 투박한) 스타일은 팬들에게 거부할 수 없는 스타일이다.
+매력 포인트: KISS의 'I Was Made For Loving You'를 과감하게 샘플링한 트랙을 비롯해 발트하우스(Waldhaus)와 Bazz-Dee의 인더스트리얼적 풍미가 강한 하드 테크노. 제목에서 알 수 있듯이 '상완'(급진적이고 투박한) 스타일은 팬들에게 거부할 수 없는 스타일이다.
 
 
 #### 트랙리스트
@@ -227,7 +227,7 @@ A2. Bazz-Dee &amp; Weichentechnikk – Samurai Pizza Cats
 
 
 
-### 요하네스 하일(Johannes Heil) - 미래 원시적
+### 요하네스 하일(Johannes Heil) – 미래 원시적
 <a href="https://jp.mercari.com/item/m46295753268?afid=6142608987"><img src="../assets/images/Johannes%20Heil%20%E2%80%93%20Future%20Primitive.webp"></a>
 
 

@@ -10,7 +10,7 @@ tags:
 - Soul
 - Disco
 - 7inch
-title: 조니 테일러 - 디스코 레이디
+title: 조니 테일러 – 디스코 레이디
 ---
 
 

@@ -10,7 +10,7 @@ tags:
 - House
 - Electro
 - 00s
-title: 스페이스 카우보이 – 도망가다
+title: 스페이스 카우보이 - 도망가다
 ---
 
 

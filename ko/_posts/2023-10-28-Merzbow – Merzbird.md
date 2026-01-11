@@ -9,7 +9,7 @@ permalink: /ko/merzbow-merzbird/
 tags:
 - Noise
 - Experimental
-title: 메르츠보우(Merzbow) – 메르츠버드(Merzbird)
+title: 메르츠보우(Merzbow) - 메르츠버드(Merzbird)
 ---
 
 

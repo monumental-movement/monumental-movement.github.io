@@ -13,7 +13,7 @@ title: 폴리에스터 – 문화클럽
 ---
 
 
-폴리에스터는 Bernard Garcia가 Bruno Quartier, Etienne Vandeveer와 함께 진행한 프로젝트입니다.
+폴리에스테르는 Bernard Garcia가 Bruno Quartier, Etienne Vandeveer와 함께 진행한 프로젝트입니다.
 
 그것은 많은 히트작을 만들어냈고 벨기에 라디오 방송국에서 자주 방영되었습니다.
 

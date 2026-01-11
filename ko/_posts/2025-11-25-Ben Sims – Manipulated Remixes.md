@@ -16,7 +16,7 @@ title: Ben Sims – 조작된 리믹스
 
 Primate Recordings 레이블이 2000년에 출시한 2개의 디스크 세트입니다.
 
-Adam Beyer, Joel Mull, Jel Ford, Samuel L. Sessions 등 최고의 테크노 DJ/프로듀서가 영국 테크노 전설 Ben Sims의 'Manipulated'를 리믹스했습니다.
+Adam Beyer, Joel Mull, Jel Ford 및 Samuel L. Sessions를 포함한 최고의 테크노 DJ/프로듀서가 영국 테크노 전설 Ben Sims의 'Manipulated'를 리믹스했습니다.
 
 #### 트랙리스트
 ```md

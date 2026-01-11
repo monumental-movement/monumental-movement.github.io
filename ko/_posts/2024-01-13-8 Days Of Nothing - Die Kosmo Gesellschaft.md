@@ -10,15 +10,15 @@ tags:
 - Noise
 - Rare
 - 10inch
-title: 8일의 아무것도 아닌 것 - Die Kosmo Gesellschaft
+title: 8 Days Of Nothing - Die Kosmo Gesellschaft
 ---
 
 
-8 Days Of Nothing은 1997년에 결성된 스웨덴의 전설적인 펑크 밴드입니다.
+8 Days Of Nothing(8デイズオブナッシング) は、1997年に結成されたスウェーデンの伝説的なパンクバンド。
 
-Die Kosmo Gesselschaft는 1997년 독일 베를린에서 결성된 포스트 하드코어/이모 밴드입니다.
+Die Kosmo Gesselschaft は、1997年にドイツのベルリンで結成されたポスト・ハードコア/エモ・バンド。
 
-600부 한정 희귀 음반.
+600枚限定のレアレコード。
 
 #### 트랙리스트
 ```md

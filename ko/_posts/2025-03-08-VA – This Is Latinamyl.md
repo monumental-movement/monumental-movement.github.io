@@ -16,7 +16,7 @@ title: VA – 이것은 라티나밀이다
 ---
 
 
-멀티 장르 일렉트로닉 음악 프로듀서이자 영화 The Matrix의 음악 작업도 했던 DJ Simon Shackleton(일명 Elite Force)이 설립한 브레이크비트 레이블 Fused & Bruised가 1997년에 발매한 컴필레이션 앨범입니다.
+멀티 장르 일렉트로닉 뮤직 프로듀서이자 영화 The Matrix의 음악 작업도 했던 DJ Simon Shackleton(일명 Elite Force)이 설립한 브레이크비트 레이블 Fused & Bruised가 1997년에 발매한 컴필레이션 앨범입니다.
 
 Simon Shackleton은 또한 Elite Force뿐만 아니라 pHrack R, fUtUrEcOrE라는 이름으로 활동합니다.
 

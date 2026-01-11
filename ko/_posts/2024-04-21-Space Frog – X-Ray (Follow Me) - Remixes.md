@@ -14,13 +14,13 @@ title: Space Frog – X-Ray (Follow Me) - 리믹스
 ---
 
 
-Space Frog로도 알려진 독일 베를린 출신의 하드 트랜스/트랜스 DJ Cet Merlin의 트랜스 트랙입니다.
+Space Frog라고도 알려진 독일 베를린 출신의 하드 트랜스/트랜스 DJ Cet Merlin의 트랜스 트랙입니다.
 
-"X-Ray(Follow Me)"는 1997년 Mysterious Art, P.M. 등 당시 독일 댄스 차트를 석권했던 레이블 Dance Pool에서 발매되었습니다. 샘슨(Sampson), 컬쳐비트(Culture Beat).
+"X-Ray(Follow Me)"는 1997년 Mysterious Art, P.M. 등 당시 독일 댄스 차트를 석권했던 레이블 Dance Pool에서 발매되었습니다. 샘슨(Sampson), 컬처 비트(Culture Beat).
 
 Side A는 "Ecuador"로 유명한 Sash!의 리믹스입니다.
 
-B면은 DJ Errik(Erich Schmeier)과 Jurgen Driessen의 프로젝트 Two Phunky People의 리믹스입니다.
+B면은 DJ Errik(Erich Schmeier)과 Jurgen Driessen의 프로젝트 Two Phunky People이 리믹스한 곡입니다.
 
 #### 트랙리스트
 ```md

@@ -10,11 +10,11 @@ tags:
 - Hard Trance
 - Trance
 - 00s
-title: 이상한 – 정규화
+title: Weirdo – Normalisation
 ---
 
 
-하드 트랜스는 2002년 영국 하드 하우스/NRG/하드 트랜스 프로듀서 Jon Bell이 운영하는 레이블인 Tinrib Recordings에서 Weirdo라고도 알려진 영국 하드 트랜스 프로듀서 Dominic Harding에 의해 출시되었습니다.
+UK出身のハードトランスプロデューサーWeirdo（ウィアード）ことDominic Hardingが、イギリスのハードハウス・NRG・ハードトランスのプロデューサーJon Bellが運営するレーベルTinrib Recordingsから2002年にリリースしたハードトランス。
 
 #### 트랙리스트
 ```md

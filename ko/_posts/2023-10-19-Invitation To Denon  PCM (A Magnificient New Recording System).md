@@ -9,7 +9,7 @@ permalink: /ko/invitation-to-denon-pcm-a-magnificient-new-recording-system/
 tags:
 - Classic
 - Compilation
-title: Denon PCM(훌륭한 새 녹음 시스템)으로의 초대
+title: Denon PCM(훌륭한 새로운 녹음 시스템)으로의 초대
 ---
 
 

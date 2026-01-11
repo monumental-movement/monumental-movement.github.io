@@ -9,7 +9,7 @@ permalink: /ko/paul-hardcastle-walk-in-the-night/
 tags:
 - Acid Jazz
 - Synth-Pop
-title: 폴 하드캐슬 - Walk In The Night
+title: 폴 하드캐슬 – Walk In The Night
 ---
 
 

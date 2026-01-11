@@ -13,7 +13,7 @@ title: 브라이언 젠츠 - 조플린
 ---
 
 
-Bryan Zentz는 80년대 펑크 밴드 Disarm의 보컬리스트였으며, 90년대 초반 Richie Hawtin과 John Aquaviva의 Definitive 레이블에서 Barada라는 이름으로 테크노 음악을 발표했습니다. 이후 인텍 레코드(Intec Records)를 통해 작품을 발표했는데, 특히 'D-Clash'는 브라이언 젠츠(Bryan Zentz)의 시그니처 곡으로 칼 콕스(Carl Cox)의 리믹스로도 유명한 곡이다. 다른 이름으로는 Faculty X, Bryan Never 및 Stare가 있습니다.
+Bryan Zentz는 80년대 펑크 밴드 Disarm의 보컬이었고, 90년대 초반 Richie Hawtin과 John Aquaviva의 Definitive 레이블에서 Barada라는 이름으로 테크노 음악을 발표했습니다. 이후 인텍 레코드(Intec Records)를 통해 작품을 발표했는데, 특히 'D-Clash'는 브라이언 젠츠(Bryan Zentz)의 시그니처 곡으로 칼 콕스(Carl Cox)의 리믹스로도 유명한 곡이다. 다른 이름으로는 Faculty X, Bryan Never 및 Stare가 있습니다.
 
 "Joplin"은 Intec Records가 2002년에 발표한 테크노 곡입니다. Bryan Zentz의 데뷔 앨범 "Seven Breaths"의 싱글 컷입니다.
 

@@ -13,13 +13,13 @@ title: 말하는 머리 – 방언으로 말하기
 ---
 
 
-Talking Heads의 "Speaking In Tongues"는 1983년에 발매되었습니다. 이 앨범은 Talking Heads의 가장 상업적으로 성공한 앨범 중 하나였으며 그들의 음악적 발전과 혁신을 표시했습니다.
+Talking Heads의 "Speaking In Tongues"는 1983년에 발매되었습니다. 이 앨범은 Talking Heads의 가장 상업적으로 성공한 음반 중 하나였으며 그들의 음악적 발전과 혁신을 표시했습니다.
 
-이번 앨범은 토킹 헤즈(Talking Heads) 특유의 포스트 펑크와 뉴 웨이브 요소가 가득 담겨 있으며, 데이비드 번(David Byrne)의 보컬 스타일과 기발한 가사, 중독성 있는 리듬과 멜로디가 어우러져 독특한 사운드를 만들어낸다.
+이번 앨범은 토킹 헤즈(Talking Heads) 특유의 포스트 펑크와 뉴 웨이브 요소가 가득 담겨 있으며, 데이빗 번(David Byrne)의 보컬 스타일, 기발한 가사, 중독성 있는 리듬과 멜로디가 결합되어 독특한 사운드를 만들어낸다.
 
 'Burning Down the House', 'This Must Be the Place(Naive Melody)' 등 수많은 히트곡이 수록되어 있습니다.
 
-이번 앨범은 Talking Heads 팬이라면 꼭 들어야 할 앨범으로, 'Speaking In Tongues'의 독특한 사운드와 지적인 가사가 록 음악사에 한 획을 그었습니다.
+이번 앨범은 Talking Heads 팬이라면 꼭 들어봐야 할 앨범으로, 'Speaking In Tongues'의 독특한 사운드와 지적인 가사가 록 음악사에 한 획을 그었습니다.
 
 
 #### 트랙리스트

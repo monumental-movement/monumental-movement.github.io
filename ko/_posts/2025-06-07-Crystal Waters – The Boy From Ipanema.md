@@ -14,9 +14,9 @@ title: 크리스탈 워터스 - 이파네마에서 온 소년
 ---
 
 
-Crystal Waters는 1990년대 히트곡 "Gypsy Woman"과 "100% Pure Love"로 유명한 미국 하우스 및 댄스 음악 싱어송라이터입니다.
+Crystal Waters는 1990년대 히트곡 "Gypsy Woman"과 "100% Pure Love"로 유명한 미국의 하우스 및 댄스 음악 싱어송라이터입니다.
 
-"The Boy From Ipanema"는 1996년에 발매된 하우스 트랙입니다.
+"The Boy From Ipanema"는 1996년에 발표된 하우스 트랙입니다.
 
 A-side는 하우스 음악 DJ/프로듀서 Frankie Knuckles의 리믹스입니다.
 

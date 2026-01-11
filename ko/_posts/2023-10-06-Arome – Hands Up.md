@@ -9,12 +9,12 @@ permalink: /ko/arome-hands-up/
 tags:
 - Trance
 - Hard Trance
-title: 아롬 – Hands Up
+title: Arome – Hands Up
 ---
 
 
-'핸즈업'은
-이것은 2002년 독일 레이블 Overdose에서 발매된 Frank Zenker의 프로젝트 Arome의 EP입니다.
+「Hands Up」は、
+2002年にドイツのレーベル「Overdose」からリリースされたFrank ZenkerによるプロジェクトAromeによるEPです。
 
 #### 트랙리스트
 ```md

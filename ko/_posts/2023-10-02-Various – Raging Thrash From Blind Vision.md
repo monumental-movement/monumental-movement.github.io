@@ -9,7 +9,7 @@ permalink: /ko/various-raging-thrash-from-blind-vision/
 tags:
 - Punk
 - Hardcore
-title: 다양함 – 맹목적인 시야의 맹렬한 난타
+title: 다양함 - 맹목적인 시야의 맹렬한 난타
 ---
 
 

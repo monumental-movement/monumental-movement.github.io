@@ -9,13 +9,13 @@ permalink: /ko/the-mack-feat-kysia-bostic-i-want-you/
 tags:
 - House
 - Garage
-title: 맥 Feat. 키시아 보스티치(Kysia Bostic) – 나는 당신을 원해요
+title: The Mack Feat. Kysia Bostic – I Want You
 ---
 
 
-Mack의 두 번째 싱글인 이 곡은 시카고 하우스와 디트로이트 테크노의 풍미를 뉴욕 개러지와 혼합한 하우스 클래식입니다.
+Mackの2ndシングルでシカゴハウスやデトロイトテクノの趣とNYガラージをミックスしたようなハウスクラシックです。
 
-가끔 하우스 클래식 모음집에서 들을 수 있는 필수 청취 버전입니다.
+ハウスクラシック系のコンピでも時折耳にする必聴版です。
 
 #### 트랙리스트
 ```md

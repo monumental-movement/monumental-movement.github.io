@@ -10,23 +10,23 @@ tags:
 - Techno
 - Downtempo
 - Rare
-title: Abe Duque – 너무 못되게 굴지 마세요 파트 1
+title: Abe Duque – Don't Be So Mean Part I
 ---
 
 
-Abe Duque는 뉴욕 지하 산성 현장에서 활동하고 있습니다.
+NYアンダーグラウンドアシッド・シーンで活躍するAbe Duque（アベ・デューク）。
 
-90년대 초반에는 당시 NY 클럽씬에서 주목을 받았던 PROGRAM2에 참여하기도 했다.
+90年代初頭は、当時のNYクラブ・シーンで注目されたPROGRAM2に参加。
 
-이후 KILRIAN이라는 이름으로 활동한 후 2002년 DJ Matuss와 함께 Abe Duque Records를 설립했다.
+その後、KILRIAN名義で活動したのち、02年にはDJ Matussと共にAbe Duque Recordsを設立。
 
-Abe Duque Records는 발매 정보와 크레딧을 디스크에 각인하면서 의도적으로 지하 경로를 택합니다.
+Abe Duque Recordsは敢えてアングラ路線をとり、リリース情報などクレジットは盤面に刻印するスタイルをとっている。
 
-그는 Chemical Brothers와 Pet Shop Boys의 리믹스 작업에 참여했으며, 2005년 WIRE, 2007년 Asagiri JAM에서 라이브 공연을 펼쳤습니다.
+Chemical Brothers（ケミカルブラザーズ）やPet Shop Boys（ペットショップボーイズ）などのリミックスを手がけたり、05年のWIREや07年の朝霧JAMでライヴパフォーマンスをおこなっている。
 
-2008년에 발매된 "Don't be So Mean"은 전 세계 댄스 플로어에서 인기를 얻은 테크노 트랙입니다.
+2008年にリリースした「Don't be So Mean」は、世界中のダンスフロアで人気を博したテクノトラック。
 
-B면에는 Boiler room, Panorama Bar 등 전 세계 유명 클럽에서 연주하고 있는 세르비아 출신 DJ Tijana T의 보컬이 피쳐링되어 있습니다.
+B面は、Boiler roomやPanorama Barなど世界の有名クラブでプレイするセルビア出身のDJ Tijana Tがヴォーカルで参加。
 
 #### 트랙리스트
 ```md

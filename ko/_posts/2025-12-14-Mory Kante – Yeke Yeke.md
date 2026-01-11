@@ -11,7 +11,7 @@ tags:
 - Acid
 - African
 - 90s
-title: 모리 캉테 – 예케 예케
+title: 모리 캉테 - 예케 예케
 ---
 
 

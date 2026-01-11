@@ -13,9 +13,9 @@ title: 녹턴알(Knoc-Turn'al) - 녹(Knoc)
 ---
 
 
-롱비치 출신인 Knoc-Turn'al은 Dr. Dre의 Chronic 2001 앨범에 출연했으며 Dr. Dre와 Snoop Dogg 사운드트랙인 The Wash를 공동 집필했으며 그중에는 대히트 히트작인 Bad Intentions도 있었습니다.
+롱비치 출신인 Knoc-Turn'al은 Dr. Dre의 Chronic 2001 앨범에 출연했고, Dr. Dre와 Snoop Dogg 사운드트랙인 The Wash를 공동 집필했으며, 대히트인 Bad Intentions를 가졌습니다.
 
-2001년 Elektra에서 발매된 "knoc"은 Knoc-Turn'al의 첫 번째 싱글로 Missy Elliott와 Dr. Dre가 출연했습니다. (프로모션 에디션)
+2001년 Elektra에서 발매된 "knoc"은 Knoc-Turn'al의 첫 싱글로 Missy Elliott와 Dr. Dre가 출연했습니다. (프로모션 에디션)
 
 #### 트랙리스트
 ```md

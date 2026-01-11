@@ -15,7 +15,7 @@ title: Eric B. & Rakim – 전액 지불
 
 Eric B. & Rakim은 DJ Eric B.와 래퍼 Rakim이 1986년 뉴욕 롱아일랜드에서 결성한 미국 힙합 듀오입니다.
 
-1987년에 발매된 "Paid in Full"은 그들의 데뷔 앨범이었으며 "Eric B. Is President", "I Ai n't No Joke", "I Know You Got Soul", "Move the Crowd", "Paid in Full" 등 미국에서 많은 히트 싱글을 포함했습니다. 황금시대 힙합의 벤치마크 앨범으로도 알려져 있다. 이 CD는 재발행판입니다.
+1987년에 발매된 "Paid in Full"은 그들의 데뷔 앨범이었으며 "Eric B. Is President", "I Ai n't No Joke", "I Know You Got Soul", "Move the Crowd" 및 "Paid in Full"을 포함하여 미국에서 많은 히트 싱글을 포함했습니다. 황금시대 힙합의 벤치마크 앨범으로도 알려져 있다. 이 CD는 재발행판입니다.
 
 
 #### 트랙리스트

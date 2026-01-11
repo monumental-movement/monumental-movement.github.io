@@ -10,17 +10,17 @@ tags:
 - Synth Pop
 - Pops
 - 80s
-title: 탐험가 - 비너스 데 밀로
+title: The Explorers – Venus De Milo
 ---
 
 
-The Explorers는 프로그레시브 록 밴드 Roxy Music의 전 멤버인 Phil Manzanera와 Andy MacKay가 결성한 그룹으로 James Wraith가 보컬을 맡았습니다.
+The ExplorersはプログレッシブロックバンドRoxy Music(ロキシーミュージック)の元メンバー Phil ManzaneraとAndy MacKayがJames Wraithをvocal迎え結成したグループ。
 
-Explorers는 1985년 Virgin Records에서 자칭 LP "Explorers"를 발매했지만 1986년에 해체되었습니다.
+The Explorersは1985年にvirginレコードからセルフタイトルLP「Explorers」をリリースするが、1986年に解散。
 
-이 음반은 셀프 타이틀 앨범의 싱글 컷입니다.
+このレコードはセルフタイトルアルバムからのシングルカット。
 
-The Explorers가 해체된 후 Phil Manzanera와 Andy MacKa는 각각 솔로 활동을 추구했습니다.
+The Explorers解散後、Phil ManzaneraとAndy MacKaはそれぞれソロ活動をしている。
 
 #### 트랙리스트
 ```md

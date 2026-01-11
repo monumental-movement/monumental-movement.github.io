@@ -9,13 +9,13 @@ permalink: /ko/black-4-white-so-i-love-you-baby/
 tags:
 - Italo
 - Euro House
-title: 블랙 4 화이트 – 그래서 사랑해요 베이비
+title: Black 4 White – So I Love You Baby
 ---
 
 
-'So I Love You Baby'는 중독성 있는 멜로디와 리듬, 긍정적인 가사가 돋보이는 곡으로, 팝과 댄스가 가능한 사운드가 듣는 이들에게 즐거움을 선사할 예정이다.
+「So I Love You Baby」は、キャッチーなメロディとリズム、ポジティブな歌詞が特徴の楽曲で、ポップで踊りやすいサウンドが聴く人々を楽しませます。
 
-'So I Love You Baby'는 블랙포화이트의 대표곡 중 하나로, 이들의 음악적 스타일과 매력을 느낄 수 있는 곡이다.
+「So I Love You Baby」は、Black 4 Whiteの楽曲の中でも特に知名度が高く、彼らの音楽スタイルと魅力を体感することができる一曲です。
 
 #### 트랙리스트
 ```md

@@ -9,7 +9,7 @@ permalink: /ko/led-zeppelin-led-zeppelin-ii/
 tags:
 - Rock
 - Hard Rock
-title: 레드 제플린 - 레드 제플린 II
+title: 레드 제플린 – 레드 제플린 II
 ---
 
 

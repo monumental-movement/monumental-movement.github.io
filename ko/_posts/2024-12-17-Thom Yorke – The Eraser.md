@@ -12,13 +12,13 @@ tags:
 - Indie Rock
 - Experimental
 - Rock
-title: 톰 요크 - 지우개
+title: 톰 요크 – 지우개
 ---
 
 
 "The Eraser"는 XL Recordings가 2006년에 발매한 영국 음악가 Thom Yorke의 데뷔 솔로 앨범입니다. 프로듀서는 Thom Yorke의 밴드 Radiohead의 오랜 프로듀서인 Nigel Godrich입니다.
 
-이 앨범은 NME와 Rolling Stone 잡지에서 2006년 최고의 앨범 중 하나로 선정되었으며, 2006 Mercury Music Awards 및 2007 Grammy Awards에서 최우수 얼터너티브 음악 앨범 후보에 올랐습니다.
+이 앨범은 NME와 Rolling Stone 잡지에서 2006년 최고의 앨범 중 하나로 선정되었으며, 2006년 Mercury Music Awards와 2007년 Grammy Awards에서 최우수 얼터너티브 음악 앨범 후보에 올랐습니다.
 
 수록곡은 각각 'Analyse'와 'Black Swan'이다.
 영화 '프레스티지', '스캐너 다클리'의 엔딩 크레딧에 사용됐다.

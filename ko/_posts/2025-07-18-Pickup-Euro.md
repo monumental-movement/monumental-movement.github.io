@@ -283,7 +283,7 @@ B #2. Around The World (Global House Mix)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2ae0MbbPPb8?si=TKON2zCX1nrR9_s5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-### 탐 애로우(Tam Arrow) – 원샷걸(One Shot Girl)
+### 탐 애로우(Tam Arrow) - 원샷걸(One Shot Girl)
 <a href="https://jp.mercari.com/item/m53285819387?afid=6142608987"><img src="../assets/images/Tam%20Arrow%20%E2%80%93%20One%20Shot%20Girl.webp"></a>
 
 형식: 비닐
@@ -317,7 +317,7 @@ B2. P. Stone–Kosmic Woofer (Extended Version)
 
 형식: 비닐
 
-장르 : 유로 / 유로하우스
+장르 : 유로 / 유로 하우스
 
 딥포레스트 멤버들이 1994년 이탈리아에서 발매한 작품 ◆
 

@@ -13,7 +13,7 @@ title: 에이옥스 – 소년이야 E.P
 ---
 
 
-AeoX는 Al.X.E(Alexander Koepke, & tafkatafta)와 Hanno Hinkelbein으로 구성된 베를린 출신의 테크노 펑크 밴드입니다. 그는 Null 레코드와 Mental Industries에서 수많은 릴리스를 발표했습니다.
+AeoX는 Al.X.E(Alexander Koepke, & tafkatafta)와 Hanno Hinkelbein이 결성한 베를린 출신의 테크노 펑크 밴드입니다. 그는 Null 레코드와 Mental Industries에서 수많은 릴리스를 발표했습니다.
 
 "소년 E.P입니다." 널 레코드(Null Records)가 2000년에 발표한 테크노 일렉트로 트랙이다.
 

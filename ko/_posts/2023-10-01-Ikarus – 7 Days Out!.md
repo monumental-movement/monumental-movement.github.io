@@ -15,7 +15,7 @@ title: 이카루스 - 7 Days Out!
 
 Ikarus는 Toru Shimada의 프로젝트로 1998년 그의 레이블 Philosomatik Records에서 발매되었습니다.
 
-“이카루스 – 7 Days Out!” Danny Tenaglia, Peter Rauhofer, Cevin Fisher, Junior Vasquez 등 많은 DJ들이 연주한 음반입니다.
+“이카루스 - 7 Days Out!” Danny Tenaglia, Peter Rauhofer, Cevin Fisher, Junior Vasquez 등 많은 DJ들이 연주한 음반입니다.
 
 #### 트랙리스트
 ```md

@@ -17,13 +17,13 @@ title: '[칼럼] 포크트로니카(Folk-Tronica) / 인디트로니카(Indietron
 
 ## 어쿠스틱과 일렉트로닉 음악이 만들어내는 21세기 새로운 형태의 노래
 
-글 : mmr｜주제 : Four Tet, Caribou, Bonobo를 중심으로 Folk-Tronica/Indietronica의 역사, 기술, 영향, 장비, 음악적 특징에 대해 설명합니다.
+글 : mmr │ 주제 : Four Tet, Caribou, Bonobo를 중심으로 Folk-Tronica/Indietronica의 역사, 기술, 영향, 장비 및 음악적 특성에 대해 설명합니다.
 
 포크-트로니카(Folk-Tronica)/인디트로니카(Indietronica)는 어쿠스틱 악기의 단순한 사운드와 일렉트로닉 사운드의 질감이 교차하는 21세기 이후의 하이브리드 음악 트렌드입니다.
 포크 선율과 기타 아르페지오, 자연음의 현장 녹음, 노트북 일렉트로니카 샘플링 문화의 결합으로 탄생했습니다.
 
-Four Tet(Kieran Hebden), Caribou(Daniel Snaith), Bonobo(Simon Green)는 이 장르를 세상에 확실하게 선보인 사람들 중 하나입니다.
-이들은 모두 일렉트로닉 음악을 전공했지만, 2000년대 이후 재즈, 포크, 에스닉, 포스트록 등 다양한 음악을 샘플링하고 재구성해 일렉트로니카의 맥락을 확장해 왔다.
+이 장르를 세계에 확실하게 알린 아티스트로는 **Four Tet(Kieran Hebden)**, **Caribou(Daniel Snaith)**, **Bonobo(Simon Green)** 등이 있습니다.
+이들은 모두 전자음악을 전공했지만, 2000년대 이후 재즈, 포크, 에스닉, 포스트록 등 다양한 음악을 샘플링하고 재구성해 일렉트로니카의 맥락을 확장해 왔다.
 
 ---
 
@@ -52,11 +52,11 @@ color: #fff;
 - 디지털 편집(컷업, 세분화된 처리)
 - 현장 녹음 텍스처
 - 단순하지만 감성적인 멜로디
-- '촉각'과 '인공물'의 공존
+- '터치'와 '인공물'의 공존
 
 ### ■ 인디트로니카란?
 인디록의 맥락에 일렉트로닉음악을 도입하는 흐름.
-Folk-Tronica가 포크적인 요소를 기반으로 한다면, Indietronica는 **밴드 사운드 + 일렉트로닉**이라는 방향성이 강합니다.
+Folk-Tronica가 포크 요소를 기반으로 한 반면 Indietronica는 **밴드 사운드 + 전자 장치**에 중점을 두고 있습니다.
 
 예: The Postal Service, Hot Chip, Múm 등
 
@@ -100,7 +100,7 @@ Folk-Tronica가 포크적인 요소를 기반으로 한다면, Indietronica는 *
 
 ---
 
-## 3. 기술적 특징: 어쿠스틱과 전자음을 융합하는 방식
+## 3. 기술적 특징: 어쿠스틱 사운드와 전자 사운드를 결합하는 방식
 
 Folk-Tronica/Indietronica에서는 **녹음, 편집, 작곡**의 모든 단계에서 '하이브리드화'가 이루어집니다.
 
@@ -197,7 +197,7 @@ Folk-Tronica/Indietronica는 다음 장르에 영향을 미쳤습니다.
 포크트로니카/인디트로니카(Folk-Tronica/Indietronica)는 전자음악 편집 기술을 이용하여 포크음악의 단순성과 서사성을 재구성하는 방법이다.
 디지털 시대에 '따뜻함', '촉감', '간극의 미학'을 불어넣는 장르이다.
 
-Four Tet, Caribou, Bonobo의 작품은
+Four Tet, Caribou, Bonobo의 작품은 다음과 같습니다.
 샘플 편집, 현장 녹음, 어쿠스틱 악기 녹음 기술이 전자음악의 영역을 확장할 수 있음을 여실히 보여줍니다.
 
 앞으로는 노트북 제작과 AI 오디오 기술의 발전으로

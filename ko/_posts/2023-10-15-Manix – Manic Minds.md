@@ -9,11 +9,11 @@ permalink: /ko/manix-manic-minds/
 tags:
 - Techno
 - Break Beat
-title: 마닉스 – 매닉 마인드
+title: 마닉스 - 매닉 마인드(Manic Minds)
 ---
 
 
-"Manix"는 4 Hero의 Marc Clair의 솔로 프로젝트입니다. Manix는 당시 영국의 레이브 씬에서 가장 중요한 아티스트 중 한 명으로, 올드 스쿨 브레이크비트를 중심으로 활동했습니다.
+"Manix"는 4 Hero의 Marc Clair의 솔로 프로젝트입니다. Manix는 당시 영국의 레이브 씬에서 가장 중요한 아티스트 중 한 명으로, 이는 올드 스쿨 브레이크비트를 중심으로 이루어졌습니다.
 
 [샘플 목록]
 AI 추적

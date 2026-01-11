@@ -9,13 +9,13 @@ permalink: /ko/shantel-ep/
 tags:
 - House
 - Future Jazz
-title: 샨텔 – EP
+title: Shantel – EP
 ---
 
 
-Shantel로도 알려진 Stefan Hantel은 독일 출신의 DJ/음악가/음악 프로듀서입니다.
+ShantelことStefan Hantel（ステファン・ハンテル）は、ドイツ出身のDJ/ミュージシャン/音楽プロデューサー。
 
-Shantel – EP는 Stefan Hantel과 Daniel Haaksman이 설립한 독일 레이블인 Essay Recordings에서 1997년에 출시되었습니다.
+「Shantel – EP」は、Stefan HantelとDaniel Haaksmanによって設立されたドイツのレーベルEssay Recordingsより1997年にリリース。
 
 #### 트랙리스트
 ```md

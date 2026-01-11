@@ -9,13 +9,13 @@ permalink: /ko/fantasia-tonights-the-night/
 tags:
 - House
 - Tech House
-title: 판타지아 – 오늘 밤
+title: 판타지아 – 오늘의 밤
 ---
 
 
 판타지아(Fantasia)는 헬렌 셰퍼드(Helen Sheppard)와 팀 고딘(Tim Gordine)이 1988년에 발표한 프로젝트입니다.
 
-영국 'Chrysalis''가 발표한 80년대 신스팝 곡입니다.
+영국의 80년대 신스팝 "Chrysalis"입니다.
 
 #### 트랙리스트
 ```md

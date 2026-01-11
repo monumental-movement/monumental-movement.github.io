@@ -14,7 +14,7 @@ title: Tony de Vit – 모두 준비됐나요 UFO
 ---
 
 
-Tony de Vit으로도 알려진 Anthony de Vit는 영국의 DJ이자 프로듀서입니다. 그는 버밍엄과 런던의 언더그라운드 씬에서 널리 퍼졌던 하드 하우스와 하드 NRG 사운드를 주류 클럽에 도입한 공로를 인정받았으며, 그 시대의 가장 영향력 있는 인물 중 한 명으로 여겨집니다.
+Tony de Vit으로도 알려진 Anthony de Vit는 영국의 DJ이자 프로듀서입니다. 그는 버밍엄과 런던의 언더그라운드 씬에서 유행했던 하드 하우스와 하드 NRG 사운드를 주류 클럽에 도입한 공로를 인정받았으며, 그 시대의 가장 영향력 있는 인물 중 한 명으로 여겨집니다.
 
 "Are You All Ready / UFO"는 Tony De Vit와 Simon Parkes가 운영하는 레이블인 Jump Wax Records에서 1996년에 발매한 하드 하우스 트랙입니다.
 

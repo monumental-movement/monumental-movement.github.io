@@ -24,6 +24,6 @@ Peter Grummich는 Lee Anderson과 Classic Action이라는 이름으로도 작업
 A. Stereo Jack
 ```
 
-*단면
+※단면
 
 [メルカリで購入](https://jp.mercari.com/item/m32057039971?afid=6142608987){: .button1}

@@ -9,11 +9,11 @@ permalink: /ko/adam-beyer-tasty-bits/
 tags:
 - Techno
 - Minimal
-title: 아담 베이어 – 테이스티 비트
+title: Adam Beyer – Tasty Bits
 ---
 
 
-1990년대 후반 스웨덴 미니멀 테크노 씬의 중심 인물이었던 스웨덴 테크노 DJ/프로듀서 Adam Beyer가 운영하는 Drumcode 레이블이 1997년에 발매한 2장의 디스크 세트입니다.
+90年代後期、スウェーデン・ミニマル・テクノ・シーンの中心人物として活躍するスウェーデンのテクノDJ/プロデューサーAdam Beyer（アダム・ベイヤー）が、自身が運営するレーベルDrumcode より1997年にリリースされた２枚組。
 
 #### 트랙리스트
 ```md

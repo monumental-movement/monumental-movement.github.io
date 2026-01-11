@@ -16,7 +16,7 @@ title: Pick up Noise Music 작품
 
 <hr>
 
-### 메르츠보우(Merzbow) – 메르츠버드(Merzbird)
+### Merzbow – Merzbird
 <a href="https://monumental-movement.jp/Merzbow-Merzbird/"><img src="../assets/images/Merzbow%20%E2%80%93%20Merzbird.webp"></a>
 
 - **배경**: 일본 소음에서 가장 중요한 인물인 Merzbow. 2004년 중요 음반사에서 발매된 새 제목의 노래가 줄지어 있던 시절의 앨범 중 하나이다.
@@ -47,7 +47,7 @@ title: Pick up Noise Music 작품
 <a href="https://monumental-movement.jp/Zeni-Geva-Desire-For-Agony/"><img src="../assets/images/Zeni%20Geva%20%E2%80%93%20Desire%20For%20Agony.webp"></a>
 
 - **배경**: 1987년 도쿄에서 결성. KK.Null과 Tatsuya Yoshida가 출연한 그들은 프로그레시브 록/HC/메탈/노이즈 록을 넘나든다. 1993년 시카고에서 녹음.
-- **하이라이트**: 대담한 리프부터 즉흥적인 폭발까지 공격적인 사운드 이미지 범위. 노이즈와 록의 교차점을 대표하는 작품.
+- **하이라이트**: 대담한 리프부터 즉흥적인 폭발까지 공격적인 사운드 이미지 범위. 소음과 바위의 교차점을 대표합니다.
 
 #### 트랙리스트
 ```md
@@ -79,7 +79,7 @@ B4. The Body = ザ ボディー
 <a href="https://monumental-movement.jp/Les-Rallizes-Denudes-Live-1972/"><img src="../assets/images/%E8%A3%B8%E3%81%AE%E3%83%A9%E3%83%AA%E3%83%BC%E3%82%BA%20%E2%80%93%20Live%201972.webp"></a>
 
 - **배경**: 1967년 교토에서 결성. 1960년대부터 1990년대까지 활동하며 국내외 노이즈 록에 큰 영향을 미친 전설적인 밴드. 컬트적인 인기를 유지하고 있습니다.
-- **하이라이트**: 황량한 지속 사운드, 포효하는 드론, 최소한의 반복 그루브. 일본 소음 정신의 원래 경험이 당신에게 직접적으로 다가옵니다.
+- **하이라이트**: 황량하고 지속되는 사운드, 윙윙거리는 드론 소리, 최소한으로 반복되는 그루브. 일본 소음 정신의 원래 경험이 당신에게 직접적으로 다가옵니다.
 
 #### 트랙리스트
 ```md
@@ -107,7 +107,7 @@ B4. The Body = ザ ボディー
 <a href="https://monumental-movement.jp/Hair-Stylistics-Impression-Of-Nasty-Dread-Best-Of-Hair-Style-In-My-Life/"><img src="../assets/images/Hair%20Stylistics%20%E2%80%93%20Impression%20Of%20Nasty%20Dread%20Best%20Of%20Hair-Style%20In%20My%20Life.webp"></a>
 
 
-- **배경**: Hair Stylistics라는 이름의 나카하라 마사야. 1999년에 출시된 7인치 모델은 오늘날까지 계속해서 실험적이고 소음적인 맥락을 선도하고 있습니다.
+- **배경**: Hair Stylistics라는 이름의 나카하라 마사야. 1999년에 출시된 7인치 모델은 오늘날까지 계속해서 실험적, 소음적 맥락을 선도하고 있습니다.
 - **하이라이트**: 숏버전에는 잘라내고 편집하는 느낌과 과도한 소음의 순간 최대 풍속이 포함되어 있습니다. 초보자와 컬렉션에 적합합니다.
 
 #### 트랙리스트
@@ -128,7 +128,7 @@ B. Best Of Hair-Style In My Life
 ### SebastiAn – 흡연으로 인한 사망
 <a href="https://monumental-movement.jp/SebastiAn-Smoking-Kills/"><img src="../assets/images/SebastiAn%20%E2%80%93%20Smoking%20Kills.webp"></a>
 
-- **배경**: Ed Banger 주변의 프랑스 일렉트로닉 표준 보유자. 미래적인 일렉트로닉에 "비명소리"를 주입한 싱글입니다.
+- **배경**: Ed Banger 주변의 프랑스 일렉트로닉 표준 보유자. 미래적인 일렉트로닉에 '비명소리'를 주입한 싱글.
 - **하이라이트**: "Dolami"의 날카로운 끊김과 채도. 클럽 형식으로 소음의 질감을 즐기는 좋은 예입니다.
 
 #### 트랙리스트
@@ -182,7 +182,7 @@ B2. Space Golf (Venusian Swing Mix)
 <a href="https://monumental-movement.jp/Buffalo-Daughter-WXBD/"><img src="../assets/images/Buffalo%20Daughter%20%E2%80%93%20WXBD.webp"></a>
 
 - **배경**: 일본의 실험적인 록 트리오. 다양한 리믹서들의 참여로 일렉트로니카/노이즈적인 면을 강화한 기획앨범.
-- **하이라이트**: 빅 비트와 브레이크 비트의 맥락에서 어쿠스틱 콜라주. 코넬리우스와 다른 사람들의 손길을 포함하여 편집의 즐거움을 즐겨보세요.
+- **하이라이트**: 빅 비트와 브레이크 비트의 맥락에서 어쿠스틱 콜라주. 코넬리우스와 다른 사람들의 손길을 포함해 편집의 즐거움을 즐겨보세요.
 
 #### 트랙리스트
 ```md
@@ -213,7 +213,7 @@ B4. Super Blooper (Remix Live From Lee's Palace, Toronto)
 - **로얄 포효에서 입장한다면** *머즈버드*/네이키드 랠리즈.
 - 클럽 상황에서 소음의 질감을 경험하고 싶다면 *흡연이 죽습니다*.
 - **콜라주 접근법**의 경우 Hair Stylistics/Tipsy/WXBD를 사용해 보세요.
-- 직접 장비를 제작하고 싶은 분들은 듣기 전에 Eurorack 칼럼을 통해 최고의 장비에 대해 알아보세요.
+- **스스로 물건을 만들고 싶은 분들**, 유로랙 칼럼을 통해 최고의 장비를 먼저 찾아보시고 들어보세요.
 
 ---
 

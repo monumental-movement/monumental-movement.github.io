@@ -11,11 +11,11 @@ tags:
 - Downtempo
 - Deep House
 - 90s
-title: Electribe 101 – 당신은 걷고 있습니다
+title: Electribe 101 – You're Walking
 ---
 
 
-Electribe 101은 1988년부터 1992년까지 활동한 그룹이다. 프론트는 빌리 레이 마틴이다.
+Electribe 101は、1988年〜1992年に活動したグループ。フロントはBillie Ray Martin(ビリー・レイ・マーティン)。
 
 다크, 사이키델릭, 블루지, 일렉트로닉 소울풀 하우스를 전문으로 하는 그는 1990년 'World Violation Tour'에서 Depeche Mode를 지원했습니다.
 

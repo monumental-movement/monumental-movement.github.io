@@ -57,7 +57,7 @@ color: #fff;
 
 ### 1990년대 이후
 
-신체 개조, 컬트 영화, 사이버펑크 등을 선보입니다. 출판을 넘어 이벤트와 전시회까지 확장했습니다.
+신체 개조, 컬트 영화, 사이버펑크 등을 선보입니다. 출판을 넘어 이벤트와 전시회까지 확장되었습니다.
 
 ---
 
@@ -70,8 +70,8 @@ RE/Search는 단순한 출판 그 이상입니다. 서브컬처 아카이브 역
 
 ## 추천 RE/연령별 잡지 검색
 
-| 잡지 제목 | 출판 연도 | 주요 내용/특징 | 기여자 | 링크 |
-|------|---------------|---------|---|---------------|------------|
+| 잡지 제목 | 출판연도 | 주요 내용/특징 | 기여자 | 링크 |
+|------|----------------|---------|---|---------------|------------|
 | **RE/Search #1: Industrial Culture Handbook** | 1980 | インダストリアル音楽の原点を記録 | Throbbing Gristle, Cabaret Voltaire | [Amazon](https://amzn.to/4mOAmMf) |
 | **RE/Search Modern Primitives** | 1981 | ボディモディフィケーション文化特集 | Fakir Musafar | [Amazon](https://amzn.to/46ygAja) |
 | **RE/Search Incredibly Strange Films** | 1983 | B級映画・カルト映画特集 | Nick Zedd, John Waters | [Amazon](https://amzn.to/46T0YFX) |
@@ -112,7 +112,7 @@ RE/Search의 출판 활동에는 많은 일화가 있습니다. 일반적인 예
 - **수색 및 파괴의 탄생**
 샌프란시스코의 City Lights 서점에서 근무하는 동안 Vale은 Lawrence Ferlinghetti와 Allen Ginsberg의 도움을 받아 Search & Destroy를 설립했습니다. 펑크 씬의 에너지를 전달하는 것이 목표였습니다.
 
-- **산업문화수첩의 DIY정신**
+- **산업문화수첩의 DIY 정신**
 Throbbing Gristle 및 Cabaret Voltaire와 전화 및 우편으로 직접 인터뷰합니다. Vale은 타자기를 사용하여 레이아웃을 완성하고 이를 프린터에 직접 전달했습니다.
 
 - **Modern Primitives가 만들어낸 충격**

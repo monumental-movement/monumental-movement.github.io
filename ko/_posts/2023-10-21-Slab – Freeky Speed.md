@@ -9,7 +9,7 @@ permalink: /ko/slab-freeky-speed/
 tags:
 - Big Beat
 - Break Beat
-title: 슬래브 – 프리키 스피드
+title: 슬래브 - 프리키 스피드
 ---
 
 

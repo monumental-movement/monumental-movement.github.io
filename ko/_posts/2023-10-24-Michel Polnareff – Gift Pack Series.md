@@ -10,11 +10,11 @@ tags:
 - Rock
 - Pops
 - 70s
-title: 미셸 폴나레프 – 선물 팩 시리즈
+title: Michel Polnareff – Gift Pack Series
 ---
 
 
-Michel Polnareff – Gift Pack 시리즈는 1973년 Epic에서 출시되었습니다.
+「Michel Polnareff – Gift Pack Series」は、	1973年にEpicからリリースされました。
 
 #### 트랙리스트
 ```md

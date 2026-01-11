@@ -9,11 +9,11 @@ permalink: /ko/dj-zank-back-stretch-ep/
 tags:
 - Techno
 - 90s
-title: DJ Zank – 백 스트레치 EP
+title: DJ Zank – Back Stretch EP
 ---
 
 
-"Back Stretch EP"는 DJ Zank(사쿠마 히데오/Subvoice/사쿠마 히데오)가 1999년 Subvoice Electronic Music 레이블에서 발표한 테크노 곡입니다.
+「Back Stretch EP」は、DJ Zank (佐久間 英夫 / Subvoice / Hideo Sakuma)がレーベルSubvoice Electronic Musicから1999年にリリースしたTechno。
 
 #### 트랙리스트
 ```md

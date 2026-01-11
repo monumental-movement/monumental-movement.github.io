@@ -11,11 +11,11 @@ tags:
 - Tech House
 - House
 - 00s
-title: 가이거 – 낮
+title: Geiger – Day
 ---
 
 
-Geiger(Alexander P.J. Geiger)가 2006년 독일 Cologne 레이블 Firm에서 발표한 Downtempo/Tech House 트랙입니다. Geiger는 Fahrland, Nass라는 이름으로도 활동했습니다.
+Geiger(Alexander P.J. Geiger)が、ドイツ・ケルンのレーベルFirmから2006年にリリースしたDowntempo／Tech Houseトラック。Geigerは、Fahrland, Nass名義でも活動していた。
 
 #### 트랙리스트
 ```md

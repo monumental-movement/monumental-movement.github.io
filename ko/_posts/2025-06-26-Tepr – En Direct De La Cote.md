@@ -14,14 +14,14 @@ title: Tepr – En Direct De La Côte
 ---
 
 
-Tepr로도 알려진 Tanguy Destable은 프랑스 음악가, 작곡가 및 예술 감독입니다.
+Tepr(テプル)ことTanguy Destable(タンギー・デスタブル)は、フランス出身のミュージシャン、作曲家、芸術監督。
 
-"En Direct De La Côte"는 영국 레이블 WOS(Wall Of Sound)가 2007년 발표한 House & Electro의 트랙입니다.
+「En Direct De La Côte」は、2007年にイギリスのレーベルWall Of Sound(WOS)からリリースされたHouse & Electroトラック。
 
-A2는 Roxour 레이블의 수장이자 Funk & Electronics 전문 DJ이자 프로듀서인 Alavi라고도 알려진 Patrick Alavi의 리믹스입니다.
+A2は、レーベルRoxourの主宰であり、Funk & Electronic専門のDJ・プロデューサーAlaviことPatrick Alavi(パトリック・アラヴィ)によるremix。
 
-B1과 B2의 공동 프로듀서는 그랑 마르니에(Grand Marnier)이다.
-B2는 David Guillon으로도 알려진 프랑스 프로듀서 datA의 리믹스입니다.
+B1、B2の共同プロデューサーはGrand Marnier。
+B2は、フレンチプロデューサーdatAことDavid Guillonによるremix。
 
 #### 트랙리스트
 ```md

@@ -11,7 +11,7 @@ tags:
 - Eurobeat
 - Hi NRG
 - 90s
-title: 그루브 트윈스 – 액션
+title: 그루브 트윈스 - 액션
 ---
 
 

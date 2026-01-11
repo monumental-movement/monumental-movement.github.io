@@ -10,7 +10,7 @@ permalink: /ko/gilberto-with-turrentine-arranged-by-deodato-gilberto-with-turren
 tags:
 - Bossa Nova
 - Jazz
-title: Deodato가 편곡한 Turrentine이 있는 Gilberto – Turrentine이 있는 Gilberto
+title: Deodato가 편곡한 Turrentine과 Gilberto – Turrentine과 Gilberto
 ---
 
 

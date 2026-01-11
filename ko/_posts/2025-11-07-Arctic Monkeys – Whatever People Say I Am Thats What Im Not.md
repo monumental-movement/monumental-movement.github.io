@@ -11,7 +11,7 @@ tags:
 - Indie Rock
 - Rock
 - 00s
-title: Arctic Monkeys – 사람들이 나를 뭐라고 하든 그건 내가 아닙니다.
+title: 악틱 몽키스(Arctic Monkeys) – 사람들이 나를 뭐라고 하든 그건 내가 아니다
 ---
 
 

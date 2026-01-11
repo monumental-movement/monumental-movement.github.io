@@ -10,7 +10,7 @@ tags:
 - Jazz
 - Band
 - 80s
-title: 광장 – 별과 달
+title: 광장 - 별과 달
 ---
 
 

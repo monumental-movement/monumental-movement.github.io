@@ -13,7 +13,7 @@ title: Q-ic과 Stephenson – In Stereo EP
 ---
 
 
-Q-ic(Luc Byltiauw)은 벨기에 출신 DJ 겸 음악 프로듀서로 앤트워프 테크노 운동을 탄생시킨 Creation Tecnologiq의 원동력으로도 알려져 있습니다.
+Q-ic(Luc Byltiauw)은 벨기에 출신 DJ이자 음악 프로듀서로, 앤트워프 테크노 운동을 탄생시킨 Creation Tecnologiq의 원동력으로도 알려져 있습니다.
 
 "In Stereo EP"는 Q-ic And Stephenson의 첫 번째 EP입니다.
 

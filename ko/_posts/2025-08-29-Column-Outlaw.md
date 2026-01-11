@@ -34,18 +34,18 @@ title: '[칼럼] 음악문화의 상호작용사와 세대별 ''무법자'''
 
 ---
 
-로큰롤/로커빌리(Rock and Roll/Rockabilly)는 백인 노동계층의 청년문화와 흑인 음악의 국경을 넘나드는 융합이다. 가죽 재킷, 퐁파두르, 핫로드는 '반권위' 의상이 되었고, 그리스인과 바이커의 아이콘이 확립되었습니다.
+로큰롤/로커빌리는 백인 노동계층의 청년 문화와 흑인 음악이 국경을 넘나들며 융합된 장르이다. 가죽 재킷, 퐁파두르, 핫로드는 '반권위' 의상이 되었고, 그리스인과 바이커의 아이콘이 확립되었습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9KJzeOmHgc4?si=AJx_tAvARl4oGOBG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-**메커니즘**: 인종과 계층의 경계를 넘나드는 음악 + 야간 오락 = "도덕적 패닉" 유발(민속 악마와 도덕적 패닉: 스탠리 코헨). 경찰, 학교, 종교단체의 규제는 오히려 현장의 화합을 강화한다.
+**메커니즘**: 인종과 계층의 경계를 넘나드는 음악의 혼합 + 야간 오락 = "도덕적 패닉" 유발(민속 악마와 도덕적 패닉: 스탠리 코헨). 실제로 경찰, 학교, 종교단체의 규제는 현장의 화합을 강화한다.
 
 
 <hr>
 
-### 1960년대: 모드 대 락커, 히피, 차고: 스타일 투쟁과 반문화
+### 1960년대: 모드 대 로커, 히피, 차고: 스타일 투쟁과 반문화
 
 영국 모드에는 맞춤 양복, 스쿠터, 소울/R&B 취향이 포함됩니다. 로커는 가죽 자켓과 카페 레이서입니다. 해변 휴양지에서의 집단 충돌은 젊은이들의 비행의 상징이 되었습니다.
 
@@ -103,7 +103,7 @@ Garage/protopunk는 DIY 정신이자 반상업주의입니다. 학교 체육관�
 
 ---
 
-스킨헤드/오이! 노동계급의 자존심과 음악의 연결고리이지만 좌파와 우파의 정치적 분기점이 존재한다. SHARP 등 반인종차별 운동도 병행하고 있다.
+스킨헤드/오이! 노동계급의 자존심과 음악의 연결고리이지만 좌파와 우파의 정치적 분기점이 존재한다. SHARP와 같은 반인종차별 운동도 병행하고 있습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LlbUVlutS5Y?si=1inTVSVnv7B9WY6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -126,7 +126,7 @@ Garage/protopunk는 DIY 정신이자 반상업주의입니다. 학교 체육관�
 
 <hr>
 
-1990년대: 레이브/애시드 하우스, 그런지, 갱스터 랩 - 합법과 불법의 경계를 협상하다
+### 1990년대: 레이브/애시드 하우스, 그런지, 갱스터 랩 - 합법과 불법의 경계를 협상하다
 
 레이브/애시드하우스는 창고 및 야외에서의 불법 파티, 마약 문제 등을 두고 당국과 대립하고 있다. 휴대폰과 인터넷 게시판의 등장은 '모바일 파티'를 가속화시켰다.
 
@@ -134,7 +134,7 @@ Garage/protopunk는 DIY 정신이자 반상업주의입니다. 학교 체육관�
 
 ---
 
-그런지/얼터너티브 음악은 반상업적 입장을 옹호했지만, 반권위 상징이 재활용되어 소비되는 고전적인 패턴을 드러내며 빠르게 주류가 되었습니다.
+그런지/얼터너티브 음악은 반상업적 입장을 옹호했지만, 빠르게 주류가 되었고, 소비를 위해 재활용되는 반권위 상징의 고전적인 패턴을 드러냈습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ywsBvp4PyXY?si=Y-szzMIkuUtNlbFT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -146,7 +146,7 @@ Garage/protopunk는 DIY 정신이자 반상업주의입니다. 학교 체육관�
 
 ---
 
-**메커니즘**: 법과 규정(소음, 모임, 엔터테인먼트 사업 관련)과 창의적인 회피(비밀 장소, 무료 파티) 사이의 고양이와 쥐 게임입니다.
+**메커니즘**: 법과 규정(소음, 모임, 엔터테인먼트 사업 관련)과 창의적인 회피(비밀 장소, 자유 파티) 사이의 고양이와 쥐 게임입니다.
 
 
 <hr>
@@ -167,7 +167,7 @@ EMO/Screamo와 Nu Metal의 자기 폭로와 분노 표현은 가정과 학교 �
 
 ### 2010년대: 트랩, 사운드클라우드 랩, 레프트필드 클럽: 취약한 경제와 셀프 브랜딩
 
-Trap은 808의 깊은 저음과 반복을 통해 경제적 주변부(약물 경제, 감시 사회)의 현실과 연결된 표현을 미학적으로 표현합니다.
+Trap은 808의 깊은 저음과 반복을 통해 경제적 주변부(마약경제, 감시사회)의 현실과 연결된 표현을 미학적으로 표현합니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/He7kMCAdi1c?si=xm_InrhaTIwanafp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -197,14 +197,14 @@ Leftfield/Queer Clubs는 안전한 야간 공간을 재건하고 차별에 대�
 
 **영국/유럽**: 계급, 이민, 축구 문화와 얽혀 있는 집단적 성격. 레이브 문화는 도시 계획 및 사유 토지 시스템과 충돌하는 경향이 있습니다.
 
-**일본**: 로커빌리/펑크의 초기 수용부터 하드코어의 '언더그라운드 박스' 및 클럽의 여명기에 이르기까지 행정 규정(심야 업무/연예 관련)과의 충돌이 흔한 일입니다. 소리의 수입과 현지화, 장소의 자체 관리가 발전했습니다.
+**일본**: 로커빌리/펑크의 초기 수용부터 하드코어의 "언더그라운드 박스" 및 클럽의 여명기까지, 행정 규정(심야 업무/연예 관련)과의 충돌이 흔합니다. 소리의 수입과 현지화, 장소의 자체 관리가 발전했습니다.
 
 
 <hr>
 
 ### “무법자 상태”를 생성하는 7개의 회로
 
-**공간의 전환** : 창고/폐허/거리 → 클럽/행사장(불법건축물, 소음, 점거 등의 문제)
+**공간의 전환** : 창고/폐허/거리 → 클럽/행사장(불법건축물, 소음, 점거 문제)
 
 **경제적 주변부**: 비공식 배포(부팅, 혼합, 수동 판매)와 저작권 체제 간의 마찰.
 
@@ -216,7 +216,7 @@ Leftfield/Queer Clubs는 안전한 야간 공간을 재건하고 차별에 대�
 
 **미디어 장치**: 보도는 "인기 있는 악마"(코헨의 도덕적 공황)를 만듭니다.
 
-**시스템에 대한 반성** : 탄압 → 지하 → 결속력 강화 → 상업적 회복 → 다시 일탈의 순환.
+**시스템에 대한 반성** : 단속 → 지하 → 결속력 강화 → 상업적 회복 → 다시 일탈의 순환.
 
 
 <hr>
@@ -250,4 +250,4 @@ Leftfield/Queer Clubs는 안전한 야간 공간을 재건하고 차별에 대�
 ### 경계를 정하는 사람은 누구인가요?
 
 음악과 무법자의 관계는 범죄를 미화하는 것이 아닙니다. 오히려 그것은 '누가, 무엇을, 어떻게 일탈이라 부를 것인가'의 권력 역학을 시각화하는 동시에 주변부의 창의성에 대한 이야기이다.
-1950년대 로커빌리부터 2020년대 마이크로 레이브까지 음악은 규범의 경계를 허물고 사회적 경직성을 완화하며 새로운 대중 감성을 실험해 왔습니다. 그들의 무법자 성격은 위험하지만, 그 불꽃에서 촉발되는 비트는 종종 다음 주류 운동을 형성합니다.
+1950년대 로커빌리부터 2020년대 마이크로 레이브까지 음악은 규범의 경계를 허물고 사회적 경직성을 완화하며 새로운 대중 감성을 실험해 왔습니다. 그들의 무법자 성격은 위험하지만, 그 불꽃에서 촉발되는 비트는 종종 다음 주류 무브먼트를 형성합니다.

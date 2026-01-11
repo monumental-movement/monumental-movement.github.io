@@ -9,15 +9,15 @@ permalink: /ko/glam-prove-your-love/
 tags:
 - Euro Beat
 - Rare
-title: 글램 - 당신의 사랑을 증명
+title: Glam – Prove Your Love
 ---
 
 
-Glam은 Roberto Ferrante가 제작한 Italo 디스코/하우스 프로젝트입니다.
+Glamは、Roberto Ferrante（ロベルト・フェランテ）プロデュースのイタロディスコ/ハウスプロジェクト。
 
-Glam은 Kay Bianco가 보컬을 맡은 "Prove Your Love"와 함께 "Prove Your Love"와 "More Than Ever"라는 두 곡만 발표했습니다.
+Glamがリリースしたのは、「Prove Your Love」と「More Than Ever」の２曲だけで、「Prove Your Love」はKay Bianco（ケイ・ビアンコ）がヴォーカルを務めた。
 
-1991년 발매된 'Prove Your Love'는 90년대 초반 당시 댄스음악 클럽계에서 자주 연주되던 곡으로, 이후 클래식이 되었다.
+1991年にリリースされた「Prove Your Love」は、当時のダンスミュージック・クラブシーンで頻繁にプレイされた90年代初頭のアンセムで、その後もクラシックとして評価されている。
 
 #### 트랙리스트
 ```md

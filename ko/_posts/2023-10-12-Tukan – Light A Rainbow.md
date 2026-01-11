@@ -15,7 +15,7 @@ title: 투칸 – Light A Rainbow
 
 Tukan은 덴마크 프로듀서 Lars Frederiksen과 Søren Weile로 구성된 트랜스 프로젝트입니다. 그는 Zekt, ATN 등 다른 이름으로도 활동하고 있습니다.
 
-"Light A Rainbow"는 독일 트랜스/하드 트랜스 레이블 Drizzly가 2000년에 출시했으며 당시 클럽 히트작이 되었으며 종종 클럽과 파티에서 연주되었습니다.
+"Light A Rainbow"는 독일 트랜스/하드 트랜스 레이블 Drizzly가 2000년에 발매했으며 당시 클럽 히트작이 되었으며 종종 클럽과 파티에서 연주되었습니다.
 
 Side A는 독일 트랜스 아티스트 Green Court의 리믹스입니다. B면의 두 번째 곡은 독일 DJ Worris(Lars Höhler)의 리믹스입니다.
 

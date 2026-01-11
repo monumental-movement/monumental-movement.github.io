@@ -12,7 +12,7 @@ tags:
 - Techno
 - Acid
 - 90s
-title: 샴 쌍둥이 – 샐러드이터
+title: The Siamese Twins – Saladeater
 ---
 
 
@@ -22,9 +22,9 @@ title: 샴 쌍둥이 – 샐러드이터
 
 
 
-Siamese Twins는 쌍둥이 Arndt Pecher와 Markus Pecher로 구성된 듀오입니다. 그들은 또한 요코 다다오(Tadao Yokoo)의 HAIZUKA PRINTING을 모방한 재킷으로 유명한 이전 Adam & Eve Records 레이블의 창립자이기도 했습니다.
+The Siamese Twinsは、双子のArndt Pecher, Markus Pecherによるデュオ。彼らは、横尾忠雄のHAIZUKA PRINTING（はいづか印刷）を真似たジャケで知られる、かつて存在したレーベルAdam & Eve Recordsの創設者でもあった。
 
-"샐러드이터"는 1993년 발매된 The Siamese Twins의 걸작입니다. Side A는 Arndt Pecher가 프로듀싱하고 Side B는 Markus Pecher가 프로듀싱했습니다.
+「Saladeater」は、1993年にリリースされたThe Siamese Twinsの名盤。 Side A はArndt Pecher 、Side B はMarkus Pecherがそれぞれプロデュースしている。
 
 #### 트랙리스트
 ```md

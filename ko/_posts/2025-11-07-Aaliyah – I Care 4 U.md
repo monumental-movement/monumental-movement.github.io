@@ -10,7 +10,7 @@ tags:
 - Hiphop
 - R&B
 - 90s
-title: 알리야(Aaliyah) - 아이 케어 포 유(I Care 4 U)
+title: 알리야(Aaliyah) – 아이 케어 포 유(I Care 4 U)
 ---
 
 
