@@ -27,7 +27,7 @@ Texte : mmr｜Thème : Le tableau complet de la culture musicale européenne d
 L'« Euro Music » des années 1990 n'était pas un genre spécifique, mais plutôt un terme général désignant la musique dance-pop populaire qui s'est développée principalement en Europe continentale.
 Les plus emblématiques d'entre eux étaient « Eurobeat » et « Eurodance », mais d'autres genres tels que l'Eurotrance, la haute énergie et la synth pop existaient également en même temps.
 
-En d’autres termes, l’euro des années 1990 était « l’image pop de l’Europe moderne », une fusion de culture de la fête, de musique dance, de mélodies entraînantes et de technologie.
+En d’autres termes, l’euro des années 1990 était « l’image pop de l’Europe moderne » qui fusionnait culture de la fête, musique dance, mélodies entraînantes et technologie.
 
 
 <hr>
@@ -159,12 +159,12 @@ Produit en Italie et en Allemagne, prévu au Japon, CD national (par exemple MAH
 
 **Fusion avec la culture visuelle** : culture européenne non occidentale
 
-- Il a également été incorporé dans les OP d'anime et dans les musiques de fond des jeux, créant ainsi une « culture non occidentale de l'euro ».
+- Il a également été incorporé dans les OP d’anime et dans les musiques de fond des jeux, créant ainsi une « culture non occidentale de l’euro ».
 
 
 <hr>
 
-### Pourquoi les critiques l'ont-ils ignoré ? ──"Légèreté" et "Anti-Art"
+### Pourquoi les critiques l'ont-ils ignoré ? ──"Légèreté" et "Anti-art"
 
 Pendant longtemps, la musique européenne n’a pas été bien accueillie par la critique. La raison est la suivante :
 
@@ -189,7 +189,7 @@ Ces dernières années, Euromusic a été réévalué des manières suivantes :
 
 - Comme City Pop, l'Eurobeat du Japon a été redécouvert par la génération Internet.
 
-De plus, l'euro des années 90 touche un nouveau public grâce à une lecture accrue sur Spotify et YouTube.
+De plus, l'euro des années 90 touche un nouveau public grâce à une écoute accrue sur Spotify et YouTube.
 
 
 

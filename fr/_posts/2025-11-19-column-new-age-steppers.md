@@ -124,7 +124,7 @@ Chanson représentative
 
 * *Fondu*
 * *Mon amour*
-* *Amour pour toujours*
+* *L'amour pour toujours*
 
 ## ■ « Champ de bataille d'action » (1981)
 
@@ -136,7 +136,7 @@ La participation de Mark Stewart a renforcé l'agitation.
 C'est la chanson la plus « reggae-like » comme NAS, et la sensation de groove stable augmente.
 Ce travail a également des thèmes socio-politiques forts.
 
-## ■ « L'amour pour toujours » (2012)
+## ■ « L'amour pour toujours » (2012)
 
 Après la mort d'Ari Up, Sherwood a publié une œuvre commémorative comprenant des enregistrements inédits.
 Un document très important qui contient l'énergie finale d'Ari.
@@ -165,9 +165,9 @@ Il est également emblématique de l’histoire culturelle britannique pour sa c
 
 # Chapitre 7 Technologie d'enregistrement et esthétique du studio
 
-La méthode de Sherwood en studio est
+La méthode du studio de Sherwood est
 **« Environ la moitié de l'œuvre est créée après l'enregistrement »**
-C’était tellement dub que l’ingénierie elle-même était un acte de composition.
+C'était tellement dub que l'ingénierie elle-même était un acte de composition.
 
 ### Technologies clés
 
@@ -206,7 +206,7 @@ Mais son influence s’étendit largement.
 
 ## ● Zone affectée
 
-* L'attaque massive de Bristol, Tricky, Smith & Mighty
+* L'attaque massive de Bristol, Tricky, Smith et Mighty
 * Doublage britannique, doublage numérique
 * Expérimental / Post-Industriel
 *Danse alternative
@@ -239,17 +239,17 @@ Et cette pensée
 *Éthique de collaboration
 Il est encore profondément vivant aujourd'hui sous la forme de
 
-Le prototype de la « création inter-genres » à laquelle les musiciens du 21ème siècle s'adonnent régulièrement est étonnamment proche de ce qu'a fait NAS.
+Le prototype de la « création multi-genres » dans laquelle les musiciens du 21e siècle s'adonnent régulièrement est étonnamment proche de ce qu'a fait NAS.
 
 ---
 
-# Chronologie
+# 年表
 
 
 1979 Adrian Sherwood commence les préparatifs pour lancer On-U Sound
 1980 Début de l'enregistrement de New Age Steppers (Ari Up, Mark Stewart, Roots Radics participent)
 1981 Sortie de « New Age Steppers »
-1981 Sortie de « Action Battlefield »
+1981 Sortie de « Action Battlefield »
 1983 Sortie de « Foundation Steppers »
 1984-2000 Les activités du NAS ont pratiquement cessé
 2010　Ari Up est décédé
@@ -295,7 +295,7 @@ C’est le principe de la production musicale après Internet.
 
 NAS, pionnier de ces tendances au début des années 1980, peut être considéré comme le prototype de la musique moderne.
 
-Le son qu’ils ont laissé derrière eux était intense, rugueux, swinguant, rebondissant et parfois destructeur, mais à la base, il s’agissait d’être libre.
+Leur son était intense, rugueux, swinguant, rebondissant et parfois destructeur, mais fondamentalement, il s'agissait de liberté.
 Cette liberté continue de se ressentir dans le travail d'On-U Sound et sur les scènes underground du monde entier.
 
 ---

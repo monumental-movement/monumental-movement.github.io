@@ -45,7 +45,7 @@ color: #fff;
 
 ### Rave, un espace sans média
 
-** ● L'essence de la rave est « anti-média »**
+** ● L'essence du rave est « anti-média »**
 
 La culture rave des années 1990 (en particulier les raves underground au Royaume-Uni, en Allemagne, aux Pays-Bas et au Japon) évitait l'exposition et la documentation médiatiques.
 
@@ -53,7 +53,7 @@ Risques juridiques (fêtes illégales et problèmes de drogue)
 
 Rébellion contre le mercantilisme (pas « la musique qui vend »)
 
-L’« expérience physique » de ce moment est tout (réalisée à partir d’enregistrements)
+L’« expérience physique » à ce moment-là est tout (réalisée à partir d’enregistrements)
 
 En d’autres termes, la rave était « live » dans tous les sens du terme. C’était une question d’esthétique et de politique de se démarquer des médias.
 
@@ -79,7 +79,7 @@ Rave n’était pas une source sonore ou une partition, mais un phénomène en s
 
 ### Qui archive ? Détérioration des médias
 
-** ● Archives spontanées de l'underground **
+** ● Archives spontanées du métro **
 
 Depuis les années 2000, les tentatives suivantes ont commencé à travers le monde.
 
@@ -104,7 +104,7 @@ Selon la loi sur les entreprises de divertissement, les clubs étaient classés 
 
 Il était facile d'éviter de prendre des photos et des vidéos (surtout à Shibuya et Roppongi)
 
-Les médias magazines (tels que « LOUD » et « ele-king ») ne pouvaient suivre qu'un champ d'action limité.
+Les médias magazines (tels que « LOUD » et « ele-king ») ne pouvaient suivre qu'un champ d'application limité.
 
 En conséquence, la rave tokyoïte des années 1990 n’existe que « de mémoire ».
 

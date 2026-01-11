@@ -50,7 +50,7 @@ color: #fff;
 
 ## 1. Les débuts et le parcours musical d'Alpha Blondy
 
-Alpha Blondy (vrai nom : Seydou Koné) est né en 1953 à Gigre en Côte d'Ivoire. Élevé dès son plus jeune âge dans un environnement multiculturel, il s'est familiarisé avec les langues française, diura et igbo. Dans sa jeunesse, il a découvert la musique reggae jamaïcaine et a été profondément impressionné par son rythme et son message.
+Alpha Blondy (vrai nom : Seydou Koné) est né en 1953 à Gigure en Côte d'Ivoire. Élevé dès son plus jeune âge dans un environnement multiculturel, il s'est familiarisé avec les langues française, diura et igbo. Dans sa jeunesse, il a découvert la musique reggae jamaïcaine et a été profondément impressionné par son rythme et son message.
 
 ### 1.1 Départ musical
 - **1977** : Début des activités musicales à Abidjan
@@ -127,12 +127,12 @@ Un ouvrage qui critique directement l'apartheid.
 ## 4. Actualités et réactions en Afrique du Sud à l'époque
 
 - En 1986, la tournée internationale d'Alpha Blondy attire l'attention et les images de leur concert à Johannesburg se répandent clandestinement dans les communautés non blanches.
-- Les médias sud-africains ont attribué au concert une mauvaise note pour l'establishment blanc, mais la communauté noire l'a accueilli comme un "symbole d'espoir".
+- Les médias nationaux sud-africains ont attribué au concert une mauvaise note pour l'establishment blanc, mais la communauté noire l'a accueilli comme un "symbole d'espoir".
 - Article d'un journal local (traduit à l'époque) : "Un chanteur du continent africain a chanté notre désir de liberté. Nous sommes encouragés par sa musique."
 
 ---
 
-## 5. Chronologie : Alpha Blondy et l'apartheid
+## 5. Chronologie : Alpha Blondy et l'Apartheid
 
 <div class="mermaid">
 timeline
@@ -167,7 +167,7 @@ Exprimer « l'esprit de liberté et de paix » basé sur l'idéologie rastafarie
 - Les activités d'Alpha Blondy ont donné du courage aux artistes du reggae sud-africains.
 - Certains artistes imitent ses chansons et créent leurs propres chansons contestataires.
 
-### 7.2 Impact international
+### 7.2 Influence internationale
 - Informer les auditeurs du monde entier sur l'état actuel de l'apartheid et promouvoir la solidarité internationale.
 - Ses chansons ont été utilisées lors de nombreux événements caritatifs et concerts anti-apartheid.
 

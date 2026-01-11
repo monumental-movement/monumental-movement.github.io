@@ -131,7 +131,7 @@ Depuis lors, des sons locaux sont nés dans tout le Japon et un espace culturel 
 ### ▪ Impact sur la pop mondiale
 
 Sean Paul, Vybz Kartel, Popcaan et d'autres ont pris d'assaut le courant dominant.
-Dans les années 2010, « One Dance »** de **Drake et « Lean On »** de **Major Lazer ont fait de la pop dancehall.
+Dans les années 2010, « One Dance »** de **Drake et « Lean On »** de **Major Lazer ont fait la pop dancehall.
 Le motif rythmique « Dem Bow » a été étendu au reggaeton, aux Afrobeats et à la K-Pop.
 
 ### ▪ Bass en tant que diaspora
@@ -256,7 +256,7 @@ graph TD
 </div>
 
 Ce diagramme montre le réseau de cultures de sound system indépendantes formé par région.
-Les caractéristiques suivantes sont claires : « Yokohama = orientation vers la compétitivité internationale », « Osaka = connexion directe avec les rues » et « Okinawa = point de connexion entre les Caraïbes et l'Asie ».
+Les caractéristiques suivantes sont claires : « Yokohama = orienté vers la compétitivité internationale », « Osaka = connexion directe avec les rues » et « Okinawa = le point de connexion entre les Caraïbes et l'Asie ».
 
 ---
 

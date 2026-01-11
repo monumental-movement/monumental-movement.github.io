@@ -54,7 +54,7 @@ Les origines de PCO remontent à un événement étrange survenu en 1972, lorsqu
 C’est à ce moment-là qu’il a eu une inspiration de rêverie qui est devenue plus tard connue sous le nom de « vision Penguin Cafe ».
 Il existait une « utopie » où les gens pouvaient se rassembler librement et continuer à faire de la musique sans discipline ni forme.
 
-Pour concrétiser cette vision, Jeffes construit une musique unique qui mélange l'orchestration de chambre classique, l'élan rustique du folk, la vitalité des rythmes africains et sud-américains et les structures répétitives de la musique minimale.
+Pour concrétiser cette vision, Jeffes construit une musique unique qui mélange l'orchestration de chambre classique, l'élan rustique du folk, la vitalité des rythmes africains et sud-américains et la structure répétitive de la musique minimale.
 La musique n'était ni traditionnelle ni avant-gardiste, mais cristallisée comme un son qu'on ne pouvait trouver qu'ici.
 
 ---
@@ -96,7 +96,7 @@ Ce chapitre analyse la structure interne des chansons emblématiques de PCO.
 ### 3-1. **Musique pour un harmonium retrouvé (1984)**
 
 La chanson signature du BCP.
-Une anecdote emblématique est qu'il a composé de la musique en jouant sur un harmonium cassé qu'il avait trouvé dans les rues de Kyoto.
+Une anecdote emblématique est qu'il composait de la musique en jouant sur un harmonium cassé qu'il avait trouvé dans les rues de Kyoto.
 
 **Caractéristiques structurelles**
 
@@ -133,7 +133,7 @@ C'est une chanson calme mais dramatique qui donne l'impression que l'expansion e
 
 * Boucle audio du téléphone par manipulation de bande
 * Son électronique qui existe comme un « objet étranger » au-dessus de l'ensemble
-* Humoristique mais postmoderne à la fois
+* Humour mais postmoderne à la fois
 
 En termes de son minimal + trouvé, cette œuvre recoupe la lignée de Brian Eno.
 
@@ -169,7 +169,7 @@ Comprend « Perpetuum Mobile ».
 
 La dernière œuvre en studio de Simon Jeffes avant sa mort.
 La structure globale est plus méditative, l’acoustique plus transparente.
-C'est une œuvre qui exprime fortement la spiritualité de Jeffes dans ses dernières années et qui a été rapidement acclamée au cours des années suivantes.
+C'est une œuvre qui exprime fortement la spiritualité de Jeffes dans ses dernières années et qui a été rapidement acclamée au cours des dernières années.
 
 ---
 
@@ -235,7 +235,7 @@ timeline
 </div>
 ---
 
-## Illustration : Plan de structure acoustique du PCO
+## Illustration : Carte de la structure acoustique du PCO
 
 <div class="mermaid">
 
@@ -283,7 +283,7 @@ flowchart TD
 
 ---
 
-# Conclusion : Pourquoi PCO résonne « intemporellement »
+# Conclusion : Pourquoi le PCO résonne « intemporellement »
 
 La musique du Penguin Cafe Orchestra reste fraîche près de 50 ans plus tard.
 Ce qui soutient cette longévité est――

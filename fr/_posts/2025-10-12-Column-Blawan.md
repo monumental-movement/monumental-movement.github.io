@@ -10,7 +10,7 @@ tags:
 - Industrial
 - UK Techno
 - Techno
-title: '[Chronique] Blawan : Le plaisir de l''acier et le corps au fond de la nuit
+title: '[Chronique] Blawan : Le plaisir de l''acier et le corps au fond de la nuit
   — Echoes of the Dreams of UK Techno'
 ---
 
@@ -18,10 +18,10 @@ title: '[Chronique] Blawan : Le plaisir de l''acier et le corps au fond de la n
 ## Prologue Rythme qui s'est développé à l'ombre des usines, du parfum persistant de l'industrie
 
 
-Texte : mmr｜Thème : À propos du rythme froid mais en quelque sorte humain de Blawan qui continue d'avoir des racines dans l'underground britannique
+Texte : mmr｜Thème : À propos du rythme froid mais en quelque sorte humain de Blawan qui continue d'avoir ses racines dans l'underground britannique
 
 Autrefois, les zones industrielles du nord de l’Angleterre étaient remplies d’odeurs de vapeur et de métal.
-Jamie Roberts, ou Blawan, a peut-être grandi en inhalant inconsciemment ses réverbérations.
+Jamie Roberts – ou Blawan – a peut-être grandi en inhalant inconsciemment ses réverbérations.
 La lignée de la musique électronique venue de Sheffield (Cabaret Voltaire, Warp Records, The Black Dog)
 Il fait écho à la fois au rythme du travail et à la respiration de la ville.
 
@@ -67,7 +67,7 @@ C'était la sensation physique de « jouer » des sons électroniques qui rendai
 ## Chapitre 2 « Pourquoi ils cachent leur corps sous mon garage. » —— La frontière entre la peur et le plaisir
 
 En 2012, la scène mondiale des clubs a tremblé.
-"Pourquoi ils cachent leurs corps sous mon garage."
+"Pourquoi cachent-ils leurs corps sous mon garage."
 Cette seule chanson a rendu le nom de Blawan définitif.
 
 Le titre est troublant.
@@ -142,7 +142,7 @@ Et les particules délicates du Skee Mask.
 Tout cela se reconstruit en lui.
 
 Plutôt que la stérilité de Berlin, je préfère l’humidité de Londres.
-Utilisez la pression de votre paume plutôt que celle du numérique.
+Utilisez la pression de la paume plutôt que le numérique.
 Blawan continue de choisir le **poids du terrain**.
 C'est aussi une forme de résistance pour le club de continuer à être à nouveau un « lieu ».
 
@@ -275,12 +275,12 @@ flowchart TD
 Le son de Blawan est tantôt froid, tantôt rugueux.
 Cependant, au plus profond de nous, il y a certainement une « prière humaine ».
 L'acte de danser est un rituel pour « survivre » dans le bruit de la ville.
-"Pourquoi ils cachent leurs corps sous mon garage." attire toujours les gens parce que
+"Pourquoi cachent-ils leurs corps sous mon garage." attire toujours les gens parce que
 Parce qu’il y a à la fois de la peur et du soulagement.
 
 Un bruit comme de l'acier.
 Mais à chaque fois que je l’écoute, ma température monte.
-Blawan est un artiste dont le sang coule à flot dans le monde froid.
+Blawan est un artiste dont le sang coule à travers le monde froid.
 
 > "Le son est l'ombre du corps"
 >——Blawan (d'après une interview)
@@ -367,7 +367,7 @@ Sa techno conserve donc une « instabilité humaine ».
 
 Des basses lourdes résonnent dans la ville nocturne.
 À une époque où tout le monde consomme du son sur son smartphone,
-Blawan essaie de faire revivre le son du toucher.
+Blawan tente de faire revivre le son du toucher.
 
 Il y a une chaleur humaine dans ce son d’acier.
 Cette contradiction est la raison de son existence.

@@ -56,7 +56,7 @@ Leur esprit expérimental se connecte à la culture communautaire qui a suivi le
 > "Nous n'avons pas le blues. Nous devons juste créer notre propre son."
 > — Holger Czukay (CAN)
 
-Cette attitude de recherche du « son de son propre pays » est à l'origine du krautrock.
+Cette attitude de recherche du « son de son propre pays » est à l’origine du krautrock.
 
 ---
 
@@ -75,7 +75,7 @@ Il a fini par devenir membre du groupe.
 
 Leur musique est un « rythme fluide » qui rejette toute structure.
 Surtout sur l'album "Tago Mago" (1971), les chansons ont été réarrangées grâce au montage.
-Cela a donné naissance au concept selon lequel la bande d’enregistrement elle-même est un instrument.
+Cela a donné naissance au concept selon lequel « l’enregistrement sur bande est en soi un instrument ».
 Les techniques d'édition de Shukai étaient similaires à celles de l'échantillonnage hip-hop ultérieur.
 
 > "Le rythme régit le temps. Mais l'improvisation libère du temps."
@@ -90,7 +90,7 @@ Cela influencera plus tard Radiohead, The Fall et même Aphex Twin.
 
 ## Chapitre 3 : NEU ! - Minimalisme et course vers le futur
 
-NOUVEAU! a été formé après que les premiers membres de Kraftwerk, **Klaus Dinger** et **Michael Lotter**, ont quitté le groupe.
+NOUVEAU ! a été formé après que les premiers membres de Kraftwerk, **Klaus Dinger** et **Michael Lotter**, ont quitté le groupe.
 Le son était un "pur mouvement" avec toutes les décorations inutiles supprimées.
 
 Le tambour de Dinger continue de tourner à une vitesse constante, comme un convoyeur sans fin.
@@ -98,8 +98,8 @@ Ce rythme est finalement devenu connu sous le nom de « Motorik ».
 La guitare et la basse de Rotor glissent comme un courant,
 La musique a fait d'"avancer" un objectif.
 
-NOUVEAU! enregistré en studio faute de fonds.
-Faites pivoter la bande vers l'arrière, changez la vitesse, coupez et collez les sons,
+NOUVEAU ! enregistré en studio faute de fonds.
+Faire tourner la bande en sens inverse, changer la vitesse, couper et coller les sons,
 Cela a ébranlé la frontière entre « vie » et « machine ».
 
 > "Motorik est le son d'une "continuation humaine", pas d'une machine."
@@ -169,7 +169,7 @@ Le « futur » qu’ils voyaient se trouve désormais dans notre paysage musical
 ### Révolution en silence
 Unité **Cluster** de **Dieter Möbius** et **Hans-Joachim Roedelius**.
 Contrairement à CAN et Faust, ils ne sont guère du « bruit » ou du « rock ».
-Entre les sons électroniques inorganiques et le silence, les réverbérations et la respiration de la ville se faisaient sentir.
+Les réverbérations et la respiration de la ville se faisaient sentir entre les sons électroniques inorganiques et le silence.
 
 Son premier album, Cluster 71 (1971), est une série de sons de bandes expérimentaux, mais aussi quelque peu méditatifs.
 La suite, « Zuckerzeit » (1974), a été produite par Klaus Dinger de Neu! et a introduit un rythme minimaliste et confortable.
@@ -206,8 +206,8 @@ Le leader **Florian Fricke** était profondément dévoué à la musique et à l
 Cependant, ce qu'il visait n'était pas la froideur de l'électronique, mais le **mystère et le son intérieur**.
 
 ### Résonance avec Herzog
-Le réalisateur **Werner Herzog** est tombé amoureux de leurs sons spirituels et les a utilisés dans plusieurs de ses films, notamment « Aguirre », « Nosferatu » et « Fitzcarraldo ».
-La musique d'« Aguirre » (1975) a secoué la conscience du public comme une hallucination résonnant dans les montagnes des Andes.
+Le réalisateur **Werner Herzog** est tombé amoureux de leurs sons spirituels et les a utilisés dans plusieurs de ses films, notamment « Aguirre : La colère de Dieu », « Nosferatu » et « Fitzcarraldo ».
+La musique de « Aguirre » (1975) a secoué la conscience du public comme une hallucination résonnant dans les montagnes des Andes.
 
 > « Le son du Popol Vu était les paroles de prière que l'âme entendait. »
 
@@ -224,7 +224,7 @@ Il a développé le krautrock en travaillant en solitaire en studio plutôt qu'e
 Ils ont construit de longs morceaux, chacun durant plus de 30 minutes, et les ont créés comme pour « sculpter » le temps avec le son.
 
 Ses chefs-d'œuvre « Timewind » (1975) et « Moondawn » (1976) sont des méditations électroniques aux rythmes et séquenceurs sans fin.
-Pour plus tard Jean-Michel Jarre, Vangelis et même les écrivains techno, il devient le point de départ du « philosophe des électrons ».
+Pour plus tard Jean-Michel Jarre, Vangelis et même les écrivains Techno, il est devenu le point de départ du « philosophe électronique ».
 
 > "Le synthétiseur est mon univers. La solitude est le carburant de la créativité." - Klaus Schulze
 
@@ -247,7 +247,7 @@ C'est l'esprit même de « trouver son propre son ».
 
 ---
 
-## Chronologie des principaux groupes de krautrock
+## Chronologie des grands groupes de krautrock
 
 <div class="mermaid">
 
@@ -298,7 +298,7 @@ flowchart TD
 | **Motorik** | Battement constant à 4/4 établi par Neu! Un rythme linéaire, proche de la transe.           |
 | **Musique cosmique** | Musique électronique orientée vers l'espace par Tangerine Dream, Klaus Schulze et d'autres. |
 | **Rocher continental** | Expression musicale dans une perspective européenne, par opposition au rock anglo-américain.                |
-| **Croute** | Argot britannique à l’origine. C'était à l'origine un terme péjoratif, mais il a ensuite été redéfini comme un mot de fierté.         |
+| **Croute** | Argot britannique à l’origine. C’était à l’origine un terme péjoratif, mais il a ensuite été redéfini comme un mot de fierté.         |
 | **Motorik Groove** | Le rythme de "Ein-zwei-drei-vier...". Un symbole de minimalisme et d'euphorie.    |
 
 

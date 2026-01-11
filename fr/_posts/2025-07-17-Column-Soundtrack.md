@@ -74,13 +74,13 @@ Depuis les années 1980, il est devenu populaire en tant que format offrant une 
 
 Il est devenu possible d’enregistrer des partitions complètes, créant ainsi un âge d’or pour l’appréciation de la musique de film.
 
-Des labels spécialisés dans les bandes sonores (La-La Land Records, Intrada, Varese Sarabande…) sont également apparus.
+Des labels spécialisés dans la bande originale (La-La Land Records, Intrada, Varese Sarabande…) sont également apparus.
 
 ■DVD/Blu-ray : Vidéo + Musique
 
 Un support pour « revivre » les bandes sonores des œuvres vidéo.
 
-L'expression spatiale de la musique a considérablement évolué avec la technologie stéréophonique telle que le 5.1ch/DTS.
+L'expression spatiale de la musique a considérablement évolué grâce à la technologie stéréophonique telle que le 5.1ch/DTS.
 
 ■Source sonore numérique (MP3/WAV/FLAC/AAC)
 
@@ -88,7 +88,7 @@ Ventes de sources musicales sur iTunes et Amazon MP3.
 
 Des compositeurs de films indépendants sont également présentés sur des plateformes telles que Bandcamp.
 
-Les partitions complètes, les chansons inédites et les prises alternatives peuvent être distribuées en haute résolution.
+Les partitions complètes, les chansons inédites et les prises alternatives peuvent être diffusées en haute résolution.
 
 ■Abonnement (Spotify / Apple Music, etc.)
 

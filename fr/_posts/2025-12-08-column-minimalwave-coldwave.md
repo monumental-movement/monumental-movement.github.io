@@ -48,7 +48,7 @@ color: #fff;
 - **Principales régions : Amérique/Belgique/Pays-Bas/Royaume-Uni**
 - **Période centrale : 1978-1986**
 - **Caractéristiques : Synthés principalement analogiques, structure minimale, plus rustique et expérimental que la techno pop**
-- Culture de cassettes principalement DIY et labels de distribution indépendants
+- Culture cassettes DIY principalement et labels de distribution indépendants
 - Systématisé par le label new-yorkais **Minimal Wave Records (Veronica Vasicka)** dans les années 2000
 
 ### ● Vague de froid
@@ -172,14 +172,14 @@ Minimal Wave/Coldwave a été largement oublié dans les années 90, mais a ét�
 
 ### ● 6-1. Enregistrements Minimal Wave (NY)
 Créée en 2005. L'animatrice, **Veronica Vasicka**, travaille comme DJ tout en
-Il a acquis une attention mondiale en tant que label qui compile et réédite des œuvres de synthétiseur minimales découvertes.
+Il a attiré l'attention du monde entier en tant que label qui compilait et rééditait les œuvres de synthétiseur minimales qu'il avait découvertes.
 
 Compilation représentative :
 - *The Minimal Wave Tapes Vol.1 (2010, Stones Throw)*
 - *The Minimal Wave Tapes Vol.2 (2012, Stones Throw)*
 
 ### ● 6-2. Internet et redécouverte
-- Avec la diffusion des Discogs, des sources sonores rares de l'époque des cassettes se partagent.
+- Avec la diffusion des Discogs, des sources sonores rares de l'ère des cassettes se partagent.
 - D'anciens enregistrements téléchargés sur YouTube se sont répandus parmi les jeunes
 - La culture des blogs (par exemple Mutant Sounds) introduit des sources sonores rares
 

@@ -64,7 +64,7 @@ color: #fff;
 
 ###Nissan/Infiniti
 
-- **Modèle représentatif** : Infiniti QX80 (système de haut-parleurs Bose 16)
+- **Modèle représentatif** : Infiniti QX80 (système d'enceintes Bose 16)
 - **Technologie** : analysez le placement des enceintes et les réflexions des matériaux et effectuez les réglages en collaboration avec BOSE pour optimiser l'acoustique de la voiture
 
 ---

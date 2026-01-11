@@ -16,7 +16,7 @@ title: Kiss – Rock and Roll Over
 
 Une cassette du cinquième album studio de Kiss, « Hell's Rock Fire », sorti par Casablanca en 1976. Version nationale (version japonaise).
 
-Les chansons "Hard Luck Woman" et "Calling Dr. Love" sont devenues des singles à succès. C'était également le premier album de Kiss à ne pas comporter de crédit d'écriture d'Ace Frehley, et a été une fois de plus produit par Eddie Kramer, qui a produit le double disque Kiss Live de 1975.
+Les chansons "Hard Luck Woman" et "Calling Dr. Love" sont devenues des singles à succès. C'était également le premier album de Kiss à ne pas comporter de crédit d'écriture d'Ace Frehley, et a de nouveau été produit par Eddie Kramer, qui a produit le double disque Kiss Live de 1975.
 
 #### Liste des chansons
 ```md

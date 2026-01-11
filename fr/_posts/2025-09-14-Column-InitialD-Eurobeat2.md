@@ -44,7 +44,7 @@ Ici, elle ne fonctionne pas seulement comme musique de fond, mais comme symbole 
 ### À la génération qui hérite de la « mémoire de l’accélération »
 Aujourd'hui, bon nombre des jeunes qui cliquent sur la playlist « Eurobeat – Initial D » sur Spotify ou Apple Music n'ont pas forcément couru sur des cols.
 Mais ils accélèrent dans leurs écouteurs, dérivent dans l'espace virtuel, rient sur Internet et abandonnent leur corps aux mêmes sons.
-Eurobeat est devenu un média qui transcende la vitesse physique et met à jour la « mémoire de l'accélération » à chaque génération.
+L'Eurobeat est devenu un média qui transcende la vitesse physique et met à jour la « mémoire de l'accélération » à chaque génération.
 
 ### Liste des chansons représentatives d'Eurobeat (liées à Initial D)
 
@@ -70,7 +70,7 @@ color: #fff;
 | Nuit de feu | Niko | Un classique qui relie la génération flip-flop et la génération anime |
 | Garçon de l’espace | Dave Rodgers | Populaire pour son rythme rapide et sa mélodie forte |
 | Danse | Vicky Vale | Utilisé de manière impressionnante au début de la scène de course |
-| Battement du Soleil Levant | Dave Rodgers | Exaltation et développement dramatique |
+| Battement du Soleil Levant | Dave Rodgers | Exaltation et développements dramatiques |
 | Personne ne dort à Tokyo | Garçons Edo | Image sonore de Tokyo et sensation de vitesse |
 | Garçon de vitesse rapide | Marko Polo | Titre et rythme qui incarnent la sensation de vitesse |
 | Souviens-toi de moi | Leslie Parrish | Une chanson mélodique, émotionnelle et populaire |
@@ -120,7 +120,7 @@ Coup de pied : █▄█▄█▄█▄█▄█▄
 Caisse claire : ▄▄▄▄██▄▄▄▄
 Charleston : -x-x-x-x-x-
 Basse : ▂▄▆█▇▆▄▂
-Synthétiseur : Valeur :
+Synthétique : °°°██°°██°°██°° </div>
 
 
 ### Le morceau emblématique d'Initial D dans le style "Deja Vu"

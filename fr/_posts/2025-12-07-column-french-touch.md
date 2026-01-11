@@ -51,7 +51,7 @@ color: #fff;
 ## 2. Implantation de la French Touch : Situation à Paris à la fin des années 1990
 ### ● Contexte : Une rencontre entre house et disco
 Au milieu des années 1990, la scène club parisienne absorbe la house américaine tout en formant une structure unique mettant en avant les samples disco/soul.
-Bien que fortement influencée par la Chicago House, la house a commencé à fonctionner comme un nouveau type de « musique pop » car elle se mélangeait à une « sensation mélodique sophistiquée » unique à l'Europe.
+Bien que fortement influencée par la Chicago House, la house a commencé à fonctionner comme un nouveau type de « musique pop » en se mélangeant à une « sensation mélodique sophistiquée » unique à l'Europe.
 
 ### ● Existence d'étiquette/base
 - **Roulé (Thomas Bangalter)**
@@ -97,7 +97,7 @@ En 1998, l'unité "Stardust" de Thomas Bangalter + Alan Braxe + Benjamin Diamond
 Caractéristiques:
 - Samples le riff de "Fate" de Chaka Khan
 - Traitement du filtre de type étiquette Roulé
-- Mélodie extrêmement sophistiquée et sensation disco
+- Mélodie extrêmement sophistiquée et ambiance disco
 
 Ce succès a établi la culture de la French Touch selon laquelle « la pop est une extension du jeu et de l'expérimentation ».
 Bien qu’il ne s’agisse que d’une chanson, elle est devenue un mythe car elle résume toute l’esthétique de la French Touch.
@@ -138,7 +138,7 @@ Caractéristiques de Nu Disco :
 - Lent (105-120 BPM)
 - Synthés épais et mélodieux
 - Voir le funk électronique des années 1980
-- Réexpansion de la culture de la fouille de disques
+- Réexpansion de la culture de recherche de disques
 
 Dans ce contexte, « l’esthétique de l’échantillonnage », le « travail de filtrage » et la « température analogique » de French Touch constituent une base importante.
 
@@ -190,7 +190,7 @@ Le balayage du filtre de French Touch reposait sur des changements harmoniques a
 
 ### ◆ ② Culture du disque : production musicale basée sur l'échantillonnage
 Une grande partie de la French Touch commence avec des échantillons de vinyles.
-Voici la « joie de découvrir » la musique**.
+C'est là que réside la « joie de découvrir » la musique**.
 C’était l’ambiance de l’époque où la culture des clubs et la culture du disque étaient directement liées.
 Creuser des archives en soi était la porte d’entrée vers la création.
 
@@ -258,7 +258,7 @@ En incorporant le **renouveau disco~80s**,
 Les sons de la house française suscitent un regain d’intérêt.
 
 ### ● 3) « Re-creuser » chez les jeunes
-sur YouTube, SoundCloud et TikTok
+Sur YouTube, SoundCloud et TikTok
 Les classiques de la French Touch ont été redécouverts et diffusés auprès d’une génération peu familière avec la culture club.
 
 ---

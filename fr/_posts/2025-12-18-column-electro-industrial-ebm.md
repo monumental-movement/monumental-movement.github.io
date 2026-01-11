@@ -44,7 +44,7 @@ color: #fff;
 
 Le terme EBM a été introduit au début des années 1980 et fonctionnait initialement davantage comme un concept désignant une attitude créative et une direction musicale que comme un nom de genre. Comme le nom « Electronic Body Music » le suggère, l'accent est mis sur la conduite directe du mouvement physique à travers des sons électroniques.
 
-D'un autre côté, Electro-Industrial est un nom qui s'est développé à partir de la structure d'EBM, incorporant un traitement acoustique plus complexe, des éléments sonores et des thèmes psychologiques et introspectifs. Les deux genres ne sont pas discontinus, mais se distinguent par un développement continu avec l'EBM comme épine dorsale.
+D'un autre côté, Electro-Industrial est un nom qui s'est développé à partir de la structure d'EBM, incorporant un traitement acoustique plus complexe, des éléments sonores et des thèmes psychologiques et introspectifs. Les deux genres ne sont pas discontinus, mais se distinguent par un développement continu avec l'EBM comme colonne vertébrale.
 
 ---
 
@@ -68,7 +68,7 @@ Ce que ces régions ont en commun, c'est un environnement urbain industrialisé 
 
 ## 4. Analyse détaillée de la structure du rythme
 
-La structure rythmique d'EBM est basée sur la mesure 4/4 et se caractérise par un arrangement clair et linéaire. La grosse caisse indique fortement chaque battement, et la caisse claire et les claps font partie de la structure plutôt que de la décoration.
+La structure rythmique d'EBM est basée sur le temps 4/4 et se caractérise par un arrangement clair et linéaire. La grosse caisse indique fortement chaque battement, et la caisse claire et les claps font partie de la structure plutôt que de la décoration.
 
 La sensation swing du funk et du disco a été intentionnellement évitée et un arrangement a été choisi pour minimiser les fluctuations temporelles. Cela permet au rythme d’agir sur le corps plus comme une pression que comme un groove.
 
@@ -108,7 +108,7 @@ Comme l'illustre Nitzer Ebb, le chant fait partie du rythme et joue un rôle en 
 
 ## 8. Configuration des équipements et environnement de production
 
-Les boîtes à rythmes, les synthétiseurs analogiques et les séquenceurs matériels ont joué un rôle central dans les premiers débuts de l'EBM. Ceux-ci ont été sélectionnés en mettant l'accent sur la reproductibilité non seulement pour la production en studio mais également pour les performances live.
+Les boîtes à rythmes, les synthétiseurs analogiques et les séquenceurs matériels ont joué un rôle central dans les débuts de l'EBM. Ceux-ci ont été sélectionnés en mettant l'accent sur la reproductibilité non seulement pour la production en studio mais également pour les performances live.
 
 Le processus de production se déroule souvent par étapes : conception du timbre, construction du motif et vérification itérative.
 
@@ -116,11 +116,19 @@ Le processus de production se déroule souvent par étapes : conception du timbr
 
 ## 9. Apport structurel du Front 242
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j9sW556IBjo?si=RCXeEWWFMSm7oPwZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 Front 242 est une société qui a formulé l'EBM en trois niveaux : concept, structure et son. Leurs chansons se caractérisent par une conception rythmique claire conçue pour le jeu en club et une utilisation du langage sans émotion et fragmentée.
 
 ---
 
 ## 10. Le minimalisme de Nitzer Ebb
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dfwicqniOMw?si=7nDOtCdu22Rt8j3m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 Nitzer Ebb a mis le côté physique au premier plan en réduisant les éléments de l'EBM au strict minimum. Le nombre minimal de notes, les cris répétés et les rythmes emphatiques symbolisent le côté stoïque du genre.
 
@@ -156,7 +164,7 @@ EBM et Electro-Industrial ont eu une influence structurelle sur la techno, la te
 | -------- | ------------------------------------ |
 | Fin des années 1970 | Développement expérimental de la musique industrielle |
 | Début des années 1980 | Présentation du concept EBM |
-| Début des années 1980 | Création d'EBM compatible avec les clubs |
+| Début des années 1980 | Mise en place d'EBM compatible avec les clubs |
 | Fin des années 1980 | Expansion électro-industrielle |
 
 ---

@@ -11,13 +11,13 @@ tags:
 - Heavy Metal
 - Glam Metal
 - 80s
-title: Ailier – Ailier
+title: Winger – Winger
 ---
 
 
-Winger est un groupe de rock américain formé à New York en 1987. Winger a sorti deux albums de platine à la fin des années 1980 et au début des années 1990, « Winger » et « In the Heart of the Young ». En 1990, ils ont été nominés pour le « Meilleur nouveau groupe de heavy metal » aux American Music Awards.
+Winger（ウィンガー）は、1987年にNYで結成されたアメリカのロックバンド。ウィンガーは、1980年代後半から1990年代前半にかけて、2枚のプラチナアルバム「Winger（ウィンガー）」と「イン・ザ・ハート・オブ・ザ・ヤング」をリリース。1990年には、アメリカンミュージックアワードの「Best New Heavy Metal Band」にノミネートされた。
 
-Sorti en 1988, "Winger" était le premier album studio de Winger et a été produit par Beau Hill.
+1988年にリリースした「Winger」は、Wingerのデビュースタジオアルバムで、Beau Hillがプロデュースした。
 
 #### Liste des chansons
 ```md

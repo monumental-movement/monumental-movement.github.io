@@ -9,7 +9,7 @@ permalink: /fr/stevie-wonder-hotter-than-july/
 tags:
 - Funk
 - Soul
-title: Stevie Wonder – Plus chaud que juillet
+title: Stevie Wonder – Hotter Than July
 ---
 
 

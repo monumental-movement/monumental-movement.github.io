@@ -17,7 +17,7 @@ title: Esprit de l'arbre – Esprit de l'arbre
 
 Tree Spirit est un groupe californien. Le groupe énergique et respectueux de la terre a un style unique qu'il appelle « earth rock », qui est une fusion de rock, de folk et de psychédélique.
 
-"Tree Spirit", qui porte le titre du nom du groupe, est une sortie privée sortie en 1985 sur leur propre label Tree Spirit Records. Une source sonore assez rare et une cassette rare.
+« Tree Spirit », qui porte le titre du nom du groupe, est une sortie privée sortie en 1985 sur leur propre label Tree Spirit Records. Une source sonore assez rare et une cassette rare.
 
 #### Liste des chansons
 ```md

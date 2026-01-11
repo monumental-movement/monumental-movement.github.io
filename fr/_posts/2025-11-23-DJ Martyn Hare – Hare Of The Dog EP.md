@@ -13,7 +13,7 @@ title: DJ Martyn Hare – Hare Of The Dog EP
 ---
 
 
-Martyn Hare est un DJ/producteur techno actif depuis le début des années 2000. Il dirige le label techno basé au Royaume-Uni Emetic. En plus de ses projets solo, ses projets incluent Hareball avec Jamie Ball et The Risen avec Ian Void.
+Martyn Hare est un DJ/producteur techno actif depuis le début des années 2000. Il dirige le label techno britannique Emetic. En plus de son travail solo, ses projets incluent Hareball avec Jamie Ball et The Risen avec Ian Void.
 
 "Hare Of The Dog EP" est un morceau techno sorti en 2003 par Potential, un label techno britannique fondé par Ben Long.
 

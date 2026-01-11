@@ -20,7 +20,7 @@ title: '[Chronique] Anticon — Généalogie des anti-icônes et de leur musique
 Texte : mmr | Thème : L'histoire de la musique expérimentale hip-hop/indie d'Anticon (fondée en 1998) et la discographie d'artistes majeurs.
 
 
-Anticon (anticon.) est un label/collectif américain de hip-hop indie/expérimental fondé en 1998. Alors que de nombreux membres fondateurs ont élargi leur champ d'activités au « hip-hop d'avant-garde » et à l'indie/electronica, passant des actes solos aux unités dérivées, les activités du label ont décliné à la fin des années 2010 après des changements importants (départ d'un co-fondateur, décès d'un membre, etc.).
+Anticon (anticon.) est un label/collectif américain de hip-hop indie/expérimental fondé en 1998. Alors que de nombreux membres fondateurs ont élargi leurs activités au « hip-hop d'avant-garde » et à l'indie/electronica à travers des activités solo et des unités dérivées, les activités du label ont décliné à la fin des années 2010 après des changements importants (départ d'un co-fondateur, décès d'un membre, etc.).
 
 ---
 
@@ -265,7 +265,7 @@ Selon certaines informations, le site officiel et les activités ont diminué de
 
 **Expérimentation de la production** : les morceaux qui utilisent des enregistrements sur le terrain, du bruit et une ambiance subtile doivent être écoutés avec une métrique différente de celle du hip-hop traditionnel axé sur le rythme.
 
-**Politique de la communauté** : les conflits et les résolutions de la gestion du label, de la propriété et de la politique artistique sont des matériaux utiles pour réfléchir à la politique de la musique indépendante. Le départ de Sole en 2010 et la dissolution d'Alias ​​après son décès sont des études de cas importantes.
+**Politique de communauté** : les conflits et les résolutions de la gestion du label, de la propriété et de la politique artistique sont des matériaux utiles pour réfléchir à la politique de la musique indépendante. Le départ de Sole en 2010 et la dissolution d'Alias ​​après son décès sont des études de cas importantes.
 
 ---
 

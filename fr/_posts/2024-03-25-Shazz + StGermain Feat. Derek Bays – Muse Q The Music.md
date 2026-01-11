@@ -10,15 +10,15 @@ tags:
 - House
 - Jazz
 - Deep House
-title: Shazz + StGermain Feat. Derek Bays – Muse Q La Musique
+title: Shazz + StGermain Feat. Derek Bays – Muse Q The Music
 ---
 
 
-Un morceau house/deep house du producteur/remixeur français Shazz et du musicien House&Nu Jazz StGermain.
+フランスのレコードプロデューサー・リミキサーのShazz（シャズ）とHouse&Nu JazzミュージシャンのStGermain（サンジェルマン）によるハウス・ディープハウストラック。
 
-La face A est particulièrement superbe, avec sa ligne de basse bouillonnante contrastant magnifiquement avec les sublimes accords de rose, créant une harmonie exquise.
+特に素晴らしいのはA面で、泡立つようなベースラインが崇高なローズコードと美しく対比し、絶妙なハーモニーを生み出しています。
 
-Ce morceau est l'une des nombreuses grandes créations de Shazz et constitue un véritable numéro de deep house, avec une boucle apaisante de touches douces, des percussions rebondissantes et la voix fascinante de Derek Bays.
+このトラックは、Shazzによる数々の素晴らしい作品の中のひとつで、滑らかな鍵盤の音色が心地よくループし、跳ねるパーカッションと、Derek Baysの魅惑的なボーカルが加わっている、まさにディープハウス・ナンバーです。
 
 #### Liste des chansons
 ```md

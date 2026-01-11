@@ -10,19 +10,19 @@ tags:
 - House
 - Garage House
 - 90s
-title: Sinnamon – J'ai besoin de toi maintenant
+title: Sinnamon – I Need You Now
 ---
 
 
-Sinnamon est un trio vocal R&B américain. "I Need You Now" (1983) est connue comme l'une des chansons représentatives du R&B/électro/post-disco des années 1980.
+Sinnamonは、アメリカ出身の女性R&Bヴォーカルトリオ。「I Need You Now」(1983)は、1980年代のR&B／エレクトロ／ポスト・ディスコ系の代表曲の一つとして知られている。
 
-Ce disque, sorti par le label Worx Records en 1996, est un mix House/Garage House de "I Need You Now".
+1996年にレーベルWorx Recordsからリリースされたこのレコードは、「I Need You Now」のHouse／Garage House MIX。
 
-A1 est un remix de Todd Terry, également connu sous le nom de Tee.
-A2 est un remix de Masters At Work, une unité composée de "Little" Louie Vega et Kenny "Dope" Gonzalez.
+A1は、TeeことTodd Terry(トッド・テリー)によるremix。
+A2は、 "Little" Louie VegaとKenny "Dope" GonzalezによるユニットMasters At Workによるremix。
 
-B1 est un remix de Deep Zone, le duo de DJ et producteurs Matthias Heilbronn et Mike Delgado.
-B2 est un remix du duo Johnny "D" De Mairo et Nicholas Palermo Jr. JohNick.
+B1は、DJ&プロデューサーMatthias HeilbronnとMike DelgadoのデュオDeep Zoneによるremix。
+B2は、Johnny "D" De MairoとNicholas Palermo Jr.によるデュオJohNickによるremix。
 
 
 #### Liste des chansons

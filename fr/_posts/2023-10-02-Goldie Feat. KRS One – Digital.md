@@ -9,13 +9,13 @@ permalink: /fr/goldie-feat-krs-one-digital/
 tags:
 - Drum n Bass
 - Hiphop
-title: Goldie Feat. KRS One – Numérique
+title: Goldie Feat. KRS One – Digital
 ---
 
 
-"Digital" est une chanson du musicien britannique Goldie avec le rappeur américain KRS-One et est sortie en tant que premier single de l'album Saturnz Return de Goldie en 1998.
+「Digital」は、イギリスのミュージシャンであるゴールディ（Goldie）がアメリカのラッパーKRS-Oneをフィーチャーした楽曲で、ゴールディの1998年のアルバム「Saturnz Return」からの最初のシングルとしてリリースされました。
 
-La chanson a atteint la 13e place du UK Singles Chart le 1er novembre 1997, ce qui en fait son record le plus élevé, avec " Temper Temper " de Goldie (avec une chanson mettant en vedette Noel Gallagher). Le single a été influencé par le speed garage alors émergent et a été l'une des premières tentatives de fusion de la drum and bass et du rap.
+この曲は、1997年11月1日にイギリスのシングルチャートで13位に達し、ゴールディの「Temper Temper」（Noel Gallagherをフィーチャーした楽曲と並ぶ）とともに、彼の最高のチャート記録となりました。このシングルは、当時新たに現れつつあったスピードガラージの影響を受けており、ドラムンベースとラップを融合させようとする最初の試みの1つでした。
 
 
 #### Liste des chansons

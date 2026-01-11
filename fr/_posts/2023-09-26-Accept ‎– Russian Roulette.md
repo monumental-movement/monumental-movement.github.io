@@ -9,7 +9,7 @@ permalink: /fr/accept-russian-roulette/
 tags:
 - Heavy Metal
 - Rock
-title: Accepter – Roulette Russe
+title: Accepter – Roulette russe
 ---
 
 

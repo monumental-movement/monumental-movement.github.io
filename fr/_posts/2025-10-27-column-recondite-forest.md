@@ -71,7 +71,7 @@ Cette structure correspond au mécanisme par lequel les bains de forêt stimulen
 
 Lors des performances live de Recondite, on a l'impression qu'un «**feuillet électronique**» enveloppe la salle.
 Bien qu'il s'agisse d'une **nature artificielle** reproduite avec un équipement numérique,
-Pour une raison quelconque, l’auditeur ressent l’illusion d’être plus proche de la forêt.
+Pour une raison quelconque, l'auditeur ressent l'illusion d'être plus proche de la forêt.
 
 ---
 
@@ -83,7 +83,7 @@ Mais l'approche de Recondite est à l'opposé. Il considère les synthés comme 
 Le philosophe environnemental Timothy Morton a proposé le concept d'« **écologie sombre** ».
 Il est impossible pour les humains de se séparer complètement de la nature, et nous devrions plutôt accepter un **état mixte inconfortable**.
 La musique de Recondite incarne cette philosophie.
-Une boîte à rythmes artificielle imite les battements de cœur de la forêt et un séquenceur recrée le rythme du vent.
+Une boîte à rythmes artificielle imite le battement du cœur de la forêt et un séquenceur recrée le rythme du vent.
 C’est une écologie sonore qui dépeint la coexistence ambiguë de la nature et de l’homme.
 
 ---
@@ -149,7 +149,7 @@ timeline
 ## Chapitre 8 : Analyse acoustique - Structure rythmique de la forêt
 
 Lorsque vous analysez la forme d'onde de la piste de Recondite,
-**Conçu pour faire fluctuer organiquement les médiums-aigus dans la bande 2-6 kHz**.
+**Conçu pour faire fluctuer organiquement la gamme moyenne-haute dans la bande 2-6 kHz**.
 Ceci est proche du spectre des sons du vent et du bruissement des arbres.
 
 <div class="mermaid">
@@ -180,7 +180,7 @@ En d’autres termes, il présente une nouvelle physicalité appelée **Music = 
 
 ---
 
-## Chapitre 10 : Conclusion – La techno revient dans la forêt
+## Chapitre 10 : Conclusion – La techno revient en forêt
 
 La musique de Recondite n'est pas de nature mécanique, mais
 **Il maintient un équilibre comme une machine qui respire dans la nature**.

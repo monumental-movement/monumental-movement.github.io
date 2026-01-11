@@ -10,15 +10,15 @@ tags:
 - Rock
 - Noise
 - 10inch
-title: Towa Tei – Un EP de félicitations pour l’anneau
+title: Towa Tei – A Ring Congraturations EP
 ---
 
 
-Towa Tei (ancien membre de Deee-Lite) est un producteur de musique, DJ et artiste japonais connu pour son style musical unique qui combine des genres tels que la house, l'électronique et la techno.
+Towa Tei(元Deee-Liteのメンバー)は、日本の音楽プロデューサー、DJ、アーティストで、ハウス、エレクトロニック、テクノなどのジャンルを組み合わせた独自の音楽スタイルで知られています。
 
-"A Ring" est une chanson avec un rythme dansant et une mélodie entraînante, mettant en valeur l'arrangement sonore unique et l'échantillonnage créatif de Towa Tei.
+「A Ring」は、ダンサブルなビートとキャッチーなメロディが特徴の楽曲で、Towa Teiの独特なサウンドアレンジとクリエイティブなサンプリングが際立っています。
 
-"Félicitations!" est une chanson avec des éléments plus expérimentaux et électroniques, reflétant le large éventail de styles musicaux et l'approche créative de Towa Tei.
+「Congraturations!」は、よりエクスペリメンタルでエレクトロニックな要素を持った楽曲で、Towa Teiの幅広い音楽スタイルとクリエイティブなアプローチが反映されています。
 
 #### Liste des chansons
 ```md

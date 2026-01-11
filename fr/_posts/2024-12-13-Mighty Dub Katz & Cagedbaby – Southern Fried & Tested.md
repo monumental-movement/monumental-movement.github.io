@@ -9,11 +9,11 @@ permalink: /fr/mighty-dub-katz-cagedbaby-southern-fried-tested/
 tags:
 - House
 - 00s
-title: Mighty Dub Katz & Cagedbaby – Southern Fried & Testé
+title: Mighty Dub Katz & Cagedbaby – Southern Fried & Tested
 ---
 
 
-Un ensemble de 2 CD de mix house de Mighty Dub Katz et Cagedbaby, une unité de Fatboy Slim, alias Norman Cook, et Gareth Hansome, sorti en 2007.
+2007年にリリースされた、Fatboy SlimことNorman CookとGareth HansomeのユニットMighty Dub Katz とCagedbabyによるハウスmix CD2枚組。
 
 #### Liste des chansons
 ```md

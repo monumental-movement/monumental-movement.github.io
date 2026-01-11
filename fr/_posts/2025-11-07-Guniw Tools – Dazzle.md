@@ -15,7 +15,7 @@ title: Outils Guniw – Éblouir
 ---
 
 
-Guniw Tools est un groupe actif depuis le début des années 1990. Son style unique consiste à utiliser des accessoires, des photographies, du montage, etc., et à visualiser tous ses albums, exprimant ainsi sa vision du monde visuellement et auditivement.
+Guniw Tools est un groupe actif depuis le début des années 1990. Son style distinctif consiste à créer des visuels et des images de tous ses albums, en utilisant des accessoires, des photographies, du montage, etc., pour exprimer visuellement et audiblement sa vision du monde.
 
 Ce CD est la version originale "Dazzle" sortie en 1998 par le label Happy House. Livré avec un autocollant 3D fourni uniquement avec la version originale
 

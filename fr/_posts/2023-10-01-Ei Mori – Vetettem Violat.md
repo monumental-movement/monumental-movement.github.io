@@ -13,13 +13,13 @@ title: Ei Mori – Vetettem Violat
 ---
 
 
-Ei Mori est une unité composée de Herman Gillis, Jo Casters et Roland Beelen.
+Ei Moriは、Herman Gillis、Jo Casters、Roland Beelenからなるユニットです。
 
-Herman Gillis forme son premier groupe, les Primitifs, à l'âge de 18 ans. Il a construit plusieurs instruments pour le groupe. Cela inclut les air scratchers, les boîtes à rythmes (y compris les pads de batterie faits maison), les systèmes informatiques primitifs, le MIDI, et bien plus encore.
+Herman Gillisは18歳のときに最初のバンドである「プリミティフス」を結成しました。彼はそのバンドのためにいくつかの楽器を製作しました。これにはエアスクラッチャーやドラムマシン（自作のドラムパッドを含む）、プリミティフなコンピューターシステム、MIDIなどが含まれています。
 
-Jo Casters est un important musicien et producteur belge qui joue un rôle important sur la scène musicale belge depuis plus de 20 ans. A l'origine fondateur de Poésie Noire, il fera ensuite partie du trio belge Morton, Sherman et Belluci.
+Jo Castersは、ベルギーの重要な音楽家兼プロデューサーで、20年以上にわたりベルギーの音楽シーンで重要な役割を果たしてきました。もともとはPoésie Noireの創設者で、その後、ベルギーのトリオ、Morton、Sherman、Belluciの一員でした。
 
-étaient parmi les fondateurs et les artistes les plus prolifiques du mouvement New Beat en 1987. Ils ont sorti une centaine d'enregistrements en un an sous différents noms.
+1987年のNew Beat運動の創設者および最も多産なアーティストの一部でした。彼らはさまざまな名前のもとに、1年間で約100の録音をリリースしました。
 
 #### Liste des chansons
 ```md

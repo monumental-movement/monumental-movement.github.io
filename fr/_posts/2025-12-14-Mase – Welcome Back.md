@@ -17,7 +17,7 @@ Mase (Ma$e) est un rappeur de Floride connu pour son album à succès Harlem Wor
 
 Après avoir sorti leur deuxième album, « Double Up », en 1999, ils ont pris leur retraite, mais sont revenus en 2004 avec « Welcome Back ».
 
-"Welcome Back" a été publié par Bad Boy Entertainment, et "Breathe, Stretch, Shake" de B présente P. Diddy.
+"Welcome Back" a été publié par Bad Boy Entertainment, et "Breathe, Stretch, Shake" de B met en vedette P. Diddy.
 
 #### Liste des chansons
 ```md

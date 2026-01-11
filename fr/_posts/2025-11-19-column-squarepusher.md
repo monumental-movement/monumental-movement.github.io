@@ -174,7 +174,7 @@ graph TD
 
 ### 5.2 Papa normal dur (1997)
 
-**Matériel utilisé** : Akai S3000, TR-808/909, Novation Bass Station, Moog Voyager
+**Matériel utilisé** : Akai S3000, TR-808/909, Novation Bass Station, Moog Voyager
 
 1. **Ma voiture rouge chaude**
 

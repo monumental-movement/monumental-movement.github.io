@@ -24,7 +24,7 @@ title: Récupérez des œuvres ambiantes
 
 Genre : Techno ambiante
 
-Sortie : 2012 (label américain Kimochi)
+Sortie : 2012 (label américain Kimochi)
 
 Format : Limité à 200 albums (Vinyle)
 
@@ -256,7 +256,7 @@ D4. The End Game
 <a href="https://jp.mercari.com/item/m99158480308?afid=6142608987"><img src="../assets/images/Deep%20Forest%20%E2%80%93%20Deep%20Forest.webp"></a>
 Genre : Ambient/Downtempo/New Age
 
-Sortie : 1992
+Sortie : 1992
 
 Format : CD
 

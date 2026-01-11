@@ -12,13 +12,13 @@ tags:
 - Garage Rock
 - Alternative
 - 90s
-title: Blues Explosion – Largeur supplémentaire
+title: Blues Explosion – Extra Width
 ---
 
 
-The Jon Spencer Blues Explosion était un trio de rock new-yorkais actif de 1991 à 2016. Leur style est basé sur le rock et combine des éléments de punk, de blues, de garage, de rockabilly, de soul, de noise rock, de rythme et de blues et de hip-hop.
+The Jon Spencer Blues Explosion（ジョン・スペンサー・ブルース・エクスプロージョン）は、1991年〜2016年まで活動したNY出身の3人組ロックバンド。ロックをベースにパンク、ブルース、ガレージ、ロカビリー、ソウル、ノイズロック、リズムアンドブルース、ヒップホップの要素が融合したスタイルが特徴。
 
-"Extra width" est leur troisième album sorti en 1993 et ​​sorti au Japon en 1995. Les pistes 12 et 13 sont des pistes bonus uniquement sur la version japonaise.
+「Extra Width」1993年に発表した3rdアルバムで、日本では1995年にリリースされた。12,13曲目は日本盤のみボーナストラック。
 
 #### Liste des chansons
 ```md

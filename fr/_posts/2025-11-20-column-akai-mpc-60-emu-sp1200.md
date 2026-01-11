@@ -42,7 +42,7 @@ color: #fff;
 
 ### 2.1 Bases de l'échantillonnage
 
-Le processus de division des signaux analogiques en valeurs numériques (échantillonnage) a deux paramètres principaux : **fréquence d'échantillonnage (Hz)** et **profondeur de bits de quantification (bit)**. La fréquence d'échantillonnage est décrite par la théorie de Nyquist et la profondeur de bits de quantification est liée à la plage dynamique et au bruit de quantification.
+Il existe deux paramètres principaux dans le processus (échantillonnage) de division des signaux analogiques en valeurs numériques en les divisant en intervalles de temps fixes : **fréquence d'échantillonnage (Hz)** et **profondeur de bits de quantification (bit)**. La fréquence d'échantillonnage est décrite par la théorie de Nyquist et la profondeur de bits de quantification est liée à la plage dynamique et au bruit de quantification.
 
 * **12 bits** : Théoriquement, la plage dynamique est d'environ 72 dB (conditions idéales). En réalité, la plage dynamique effective varie en fonction de l'équipement utilisé, en raison des effets du bruit du circuit et des chemins analogiques.
 
@@ -81,7 +81,7 @@ Le SP-1200 a été conçu en tenant compte des contraintes de temps d'un échant
 
 * Casser l'échantillonnage et le hachage
 * Pitch down après un échantillonnage rapide (induisant un effet passe-bas)
-* Créez des grooves en utilisant des ajustements de boucles et des swings de timing
+* Créez des grooves en utilisant des réglages de boucle et des swings de timing
 
 ### 4.2 Akai MPC60 (1988) — Réalisation en tant qu'instrument de musique
 
@@ -93,7 +93,7 @@ Le SP-1200 a été conçu en tenant compte des contraintes de temps d'un échant
 **Philosophie et fonctionnalités de conception**
 Avec l'aide de Roger Linn dans la conception, le MPC60 se voulait un « sampler jouable ». De grands pads et un séquenceur qui met l'accent sur le sens du groove améliorent considérablement la convivialité pour les performances d'improvisation et la production live. La fiche technique met l'accent sur la précision du séquenceur et le mécanisme de détection des pads du MPC60.
 
-### 4.3Akai S900/S950
+### 4.3 Akai S900 / S950
 
 * S900 (1986) : premier échantillonneur de type rack. La précision de l'échantillon atteint une bande passante de 12 bits et comporte des fonctions d'édition et de synchronisation externe.
 * S950 (1988) : Une version avancée du S900, offrant une fonction d'étirement temporel plus flexible (fonction de conversion grossière). Les records de ventes et les articles de l’époque confirment qu’il était largement utilisé dans la production de musique de club.
@@ -110,7 +110,7 @@ Bien que Mirage ne soit pas 12 bits, il est très influent en tant qu'échantill
 
 *Année de sortie : 1985
 * Profondeur de bits : 12 bits
-* Caractéristiques : En combinant la lecture d'échantillons avec un filtre analogique, il est possible de "synthétiser des échantillons de tonalités".
+* Caractéristiques : En combinant la lecture d'échantillons avec un filtre analogique, il est possible de « synthétiser des échantillons de tonalités ».
 
 ---
 
@@ -146,7 +146,7 @@ Dans la section d'analyse technique, la réponse en fréquence générale des é
 
 ### 6.2 Bruit de quantification
 
-* Le bruit de quantification peut être estimé sous forme de rapport signal sur bruit (SNR). Le SNR 12 bits idéal est d'environ 72 dB, mais dans les équipements réels, il est généralement inférieur.
+* Le bruit de quantification peut être estimé sous forme de rapport signal/bruit (SNR). Le SNR 12 bits idéal est d'environ 72 dB, mais dans les équipements réels, il est généralement inférieur.
 
 ---
 
@@ -154,7 +154,7 @@ Dans la section d'analyse technique, la réponse en fréquence générale des é
 
 ### 7.1 Rôle du SP-1200 dans le Hip Hop
 
-Le SP-1200 a un son optimisé pour retravailler les bootlegs et les breaks, et il est devenu l'outil standard de facto dans de nombreux contextes de production hip-hop de l'âge d'or. Plusieurs articles ont confirmé que des producteurs tels que Pete Rock, DJ Premier et The Bomb Squad avaient réalisé des échantillons de type SP.
+Le SP-1200 a un son optimisé pour retravailler les bootlegs et les breaks, et il est devenu l'outil standard de facto dans de nombreux contextes de production hip-hop de l'âge d'or. Plusieurs articles ont confirmé que des producteurs tels que Pete Rock, DJ Premier et The Bomb Squad avaient effectué des échantillons de type SP.
 
 ### 7.2 Relation entre R&B et MPC
 
@@ -190,7 +190,7 @@ flowchart TD
 
 ## Chapitre 9 : UI/UX et instrumentation — Mise en place d'une démarche de performance à l'aide de MPC
 
-La série MPC a popularisé le concept de « sampler = instrument à jouer ». En particulier, les 16 pads, la sensibilité des pads, la faible latence pour une lecture instantanée et le séquenceur intégré permettent d'improviser, et son utilisation dans les performances live et les sessions impromptues s'est étendue. Le fait que la fusion de la philosophie de conception de Roger Linn (mettant l'accent sur le sens humain de la performance) et de la conception des produits d'Akai a contribué au succès du MPC60 est étayé par de multiples entretiens avec des développeurs.
+La série MPC a popularisé le concept de « sampler = instrument à jouer ». En particulier, les 16 pads, la sensibilité des pads, la faible latence pour une lecture instantanée et le séquenceur intégré permettent d'improviser, et son utilisation dans les performances live et les sessions impromptues s'est étendue. Le fait que la fusion de la philosophie de conception de Roger Linn (mettant l'accent sur le sens humain du jeu) et de la conception des produits d'Akai a contribué au succès du MPC60 est étayé par de multiples entretiens avec des développeurs.
 
 ---
 
@@ -202,7 +202,7 @@ Depuis les années 2010, le nombre de plug-ins et de produits de reproduction ma
 
 ## Chapitre 11 : Matériaux/Références
 
-* Manuel d'entretien E-mu SP-1200 (Spécifications techniques)
+* Manuel de service E-mu SP-1200 (Spécifications techniques)
 * Manuel d'utilisation Akai MPC60 (manuel du produit)
 * Magazine de technologie musicale de l'époque (numéro 1987-1995)
 * Interviews de producteurs (Pete Rock, DJ Premier, Dr. Dre, etc.)

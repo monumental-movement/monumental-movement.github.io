@@ -16,7 +16,7 @@ title: Prodige – La graisse de la terre
 
 Prodigy est un groupe britannique de punk rock électronique formé en 1990 par le producteur Liam Howlett.
 
-Cet album est le troisième album studio de Prodigy, sorti en 1997 sur le label XL Recordings. Cet album est devenu un succès mondial et est devenu l'œuvre phare de Prodigy.
+Cet album est le troisième album studio de Prodigy, sorti en 1997 sur le label XL Recordings. Cet album est devenu un succès mondial et est devenu l'œuvre signature de Prodigy.
 En 1999, il est entré dans le Livre Guinness des records comme l'album de danse le plus vendu au Royaume-Uni.
 
 

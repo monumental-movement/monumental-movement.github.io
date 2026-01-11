@@ -88,7 +88,7 @@ Sentiment d'outlaw : l'esprit de la techno comme battement de cœur de l'undergr
 <br>
 
 
-### Divers – Compilation Trésor Vol. 6
+### Various – Tresor Compilation Vol. 6
 <a href="https://jp.mercari.com/item/m83834888135?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Tresor%20Compilation%20Vol.%206.webp"></a>
 
 Format : CD
@@ -163,7 +163,7 @@ Outlaw sentiment : Un pèlerinage vers le côté obscur de la ville sonore, comb
 <br>
 
 
-### VA – Berlin 1992 Tresor Compilation – Der Klang Der Family
+### VA – Berlin 1992 Tresor Kompilation – Der Klang Der Familie
 <a href="https://jp.mercari.com/item/m20174423933?afid=6142608987"><img src="../assets/images/VA%E2%80%93%20Berlin%201992.webp"></a>
 
 Format : Vinyle

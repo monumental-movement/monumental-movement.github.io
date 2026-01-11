@@ -14,10 +14,10 @@ title: Tiësto & Junkie XL – Obsession
 ---
 
 
-Un remix de "Obsession" du DJ et producteur néerlandais Tiesto, considéré comme le parrain des meilleurs DJ et EDM des 20 dernières années, et Tom Holkenborg, également connu sous le nom de Junkie XL, figure centrale du mouvement big beat des années 1990 et pionnier de la scène crossover rock et dance.
+過去20年間で最高のDJ＆EDMのゴッドファーザーと評されるオランダのDJ・プロデューサーTiesto（ティエスト）と1990年代のビッグビートムーヴメントの中心人物であり、ロックとダンスのクロスオーバーシーンのパイオニアとして知られるJunkie XL（ジャンキーXL）ことTom Holkenborgによる「Obsession」のremix。
 
-Side A est un remix du DJ/producteur belge Bert Wilmaers et du duo Filterheadz de Maarten Wilmaers.
-La face B est un remix de NuBreed, un projet de Jase (Jason Catherine), Mykel (Michael Walburgh) et DB (Danny Bonnici).
+A面はベルギーのDJ・プロデューサーBert WilmaersとMaarten WilmaersのデュオFilterheadzによるremix。
+B面はJase (Jason Catherine)、Mykel (Michael Walburgh)、DB (Danny Bonnici) によるプロジェクトNuBreedによるremix。
 
 #### Liste des chansons
 ```md

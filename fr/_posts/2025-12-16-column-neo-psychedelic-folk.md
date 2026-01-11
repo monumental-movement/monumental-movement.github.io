@@ -22,7 +22,7 @@ Texte : mmr｜Thème : Non pas un genre qui préserve le psychédélisme du pass
 
 Le folk néo-psychédélique est un courant musical qui a été reconstruit à l'aide de la technologie d'enregistrement, des sensibilités visuelles et des concepts rythmiques depuis les années 2000, tout en faisant référence à l'esthétique du folk psychédélique et du folk acide des années 1960 et 1970. Il se caractérise par son utilisation active du traitement en studio, du montage et des effets électroniques, tout en s'appuyant sur des textures acoustiques dérivées du folk, des mélodies ethniques et des progressions d'accords répétitives.
 
-Cette tendance ne se limitait pas à une géographie ou à une scène spécifique, mais se formait de manière intermittente en Amérique du Nord, en Océanie et en Europe. La prédominance de la culture DIY, des labels indépendants et des environnements d’enregistrement numérique a influencé toutes les étapes de production, de distribution et de réception, ce qui en fait une différence cruciale par rapport aux mouvements traditionnels de renouveau folk.
+Cette tendance ne se limitait pas à une géographie ou à une scène spécifique, mais se formait de manière intermittente en Amérique du Nord, en Océanie et en Europe. La prédominance de la culture DIY, des labels indépendants et des environnements d’enregistrement numérique a influencé toutes les étapes de production, de distribution et de réception, ce qui en fait une différence cruciale par rapport aux mouvements de renouveau folk traditionnels.
 
 > "Les Forks ont été traités comme du matériel à rééditer, pas comme quelque chose à sauvegarder."
 
@@ -54,7 +54,7 @@ En raison des limites de la technologie d'enregistrement, le folk psychédéliqu
 
 De la fin des années 1990 au début des années 2000, le folk acide et le folk psychédélique ont été réévalués au fur et à mesure des rééditions et des archives. Cela permet aux jeunes générations de musiciens de commencer à les intégrer comme points de référence historiques.
 
-Ce qui est important, c'est qu'il ne s'agit pas seulement d'une restauration, mais d'une réinterprétation dans un environnement offrant une liberté accrue d'enregistrement et de montage.
+Ce qui est important, c'est qu'il ne s'agit pas seulement d'une reprise, mais d'une réinterprétation dans un environnement où la liberté d'enregistrement et de montage est accrue.
 
 > "Des sources historiques sont citées, mais la reproduction acoustique n'est pas le but."
 
@@ -164,7 +164,7 @@ Dans les premières œuvres d'Animal Collective, les percussions et les claqueme
 
 La voix est l’un des éléments les plus importants du folk néo-psychédélique. La répartition des rôles entre chanteur principal et accompagnateur est affaiblie et plusieurs voix sont placées dans la même ligne. La qualité vocale, le chevauchement et la réverbération sont prioritaires sur la clarté des paroles.
 
-C’est le résultat du transfert de la nature chantée en groupe de la musique folklorique vers l’espace du studio.
+C’est le résultat du transfert de la nature chantée en groupe du folk vers l’espace du studio.
 
 > "Les chansons ne sont pas un moyen de raconter une histoire, mais un matériau qui remplit un espace."
 
@@ -182,7 +182,7 @@ Dans les premières œuvres de Tame Impala, les frontières entre majeur et mine
 
 ## Chapitre 12 : Environnement et technologie de production
 
-Un changement dans l'environnement de production était essentiel pour l'établissement du folk néo-psychédélique. La prolifération d'équipements d'enregistrement, de DAW et de plug-ins bon marché a permis aux individus et aux petits groupes d'expérimenter sur de longues périodes.
+Un changement dans l'environnement de production était essentiel pour l'établissement du Neo-Psychedelic Folk. La prolifération d'équipements d'enregistrement, de DAW et de plug-ins bon marché a permis aux individus et aux petits groupes d'expérimenter sur de longues périodes.
 
 Dans cet environnement, les frontières entre production et montage s’estompent. Les chansons sont présentées avec un historique d'édition plutôt qu'avec un produit fini. ["L'achèvement est juste au moment où vous arrêtez de modifier"]
 

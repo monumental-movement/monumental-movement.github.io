@@ -52,7 +52,7 @@ Amapiano est influencé par les genres suivants :
 
 En particulier, la sensibilisation communautaire à travers les clubs municipaux, les fêtes de rue, les stations de taxis, etc. a joué un rôle important dans la naissance d'Amapiano.
 
-### Caractéristiques acoustiques
+### 音響的特徴
 
 Le son d'Amapiano se compose des éléments suivants :
 
@@ -84,7 +84,7 @@ graph LR
 
 ### Géographie et temps
 
-Le lieu de naissance d’Amapiano est Gauteng, en Afrique du Sud. Les townships de **Johannesburg** et **Pretoria** sont particulièrement importants.
+Le lieu de naissance d'Amapiano est **Gauteng** en Afrique du Sud. Les townships de **Johannesburg** et **Pretoria** sont particulièrement importants.
 
 Selon plusieurs sources, les expériences avec l'Amapiano ont commencé vers 2012, et le nom unifié « Amapiano » en tant que genre a été établi plus tard.
 

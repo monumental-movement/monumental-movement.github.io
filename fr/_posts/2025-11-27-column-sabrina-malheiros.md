@@ -11,21 +11,20 @@ tags:
 - Bossanova
 - Samba
 - MPB
-title: '[Chronique] Sabrina Malheiros : L''éclat de la soul brésilienne moderne -
-  L''horizon d''une nouvelle génération de samba soul révélé par Clareia et son remix'
+title: 【コラム】 Sabrina Malheiros：現代ブラジリアン・ソウルの光彩 - Clareiaとそのリミックスが示した新世代サンバ・ソウルの地平
 ---
 
 
 
-## **Introduction**
+## **イントロダクション**
 
-Texte : mmr｜Thème : Comment la musique brésilienne a évolué et a été reconnectée depuis le 21e siècle, en se concentrant sur l'histoire musicale de Sabrina Mallheiros, sa relation avec Azimuth, l'évolution de son travail et le symbolisme de « Clareia ».
+文：mmr｜テーマ：サブリナ・マリェイロスの音楽史、Azimuthとの関係、作品の進化、そして“Clareia”の持つ象徴性を軸に、ブラジル音楽が21世紀以降どのように進化・再接続されてきたかについて 
 
 
-Alors que la musique brésilienne continue d'être réévaluée dans le monde entier, Sabrina Mallheiros est la personne qui a combiné avec souplesse les sensibilités de la samba soul, du funk, de la bossa nova et de la néo-soul. Descendants d'Azimuth, dirigés par Aza Mallheiros, ils ont été soutenus avec enthousiasme par les communautés musicales de Londres, du Japon et d'Europe.
+ブラジリアン・ミュージックが世界的に再評価され続けるなか、サンバ・ソウル、ファンク、ボサノヴァ、そしてネオ・ソウルの感性をしなやかに結び合わせてきた存在がサブリナ・マリェイロスである。アザ・マリェイロス率いるAzimuthの血脈を継ぎ、ロンドンや日本、ヨーロッパの音楽コミュニティからも熱烈に支持されてきた。
 
-En particulier, son album **Clareia** de 2017 a été le moment où son univers musical s'est le plus clairement épanoui.
-Sa chanson titre **« Clareia »** a ensuite trouvé une nouvelle vie dans la communauté de la danse underground, donnant naissance à des remix de personnalités clés du jazz/broken beat britannique, notamment **Henry Wu (Kamaal Williams)**, **2000 Black (Dego & Kaidi)** et **IG Culture**.
+特に2017年のアルバム **『Clareia』** は、彼女の音楽世界が最も明晰に開花した瞬間だった。
+そのタイトル曲 **“Clareia”** は、後に **Henry Wu（Kamaal Williams）**、**2000 Black（Dego & Kaidi）**、**IG Culture** といったUKジャズ～ブロークンビートの中心人物によるリミックスを生み、地下ダンス・コミュニティで新たな命を得た。
 
 
 ---
@@ -44,137 +43,137 @@ color: #fff;
 </style>
 
 
-## **1. Première vie et influence d'Azimut**
+## **1. 生い立ちとAzimuthの影響**
 
-Sabrina Mallheiros est originaire de Rio de Janeiro.
-Son père est **Alex Malheiros**, le bassiste d'Azimuth (plus tard également connu sous le nom d'Azymuth). La musique d'Azimuth, à laquelle elle est exposée depuis l'enfance, oscille librement entre le funk, le jazz, la samba et la fusion.
+サブリナ・マリェイロスはリオ・デ・ジャネイロ出身。
+父はAzimuth（後にAzymuth表記でも知られる）のベーシスト **Alex Malheiros**。彼女が幼い頃から接してきたAzimuthの音楽は、ファンク、ジャズ、サンバ、フュージョンを自由に行き来するものだった。
 
-Azimuth est populaire dans le monde entier depuis les années 1970 et a été échantillonné par un large éventail d'artistes du club jazz, du futur jazz, de la house et du hip-hop. Le « sentiment de flottement », le « groove doux » et le « sentiment d'accord cosmique » de la performance live sont fortement hérités des œuvres de Sabrina.
+Azimuth は1970年代から世界的な人気を誇り、クラブ・ジャズ、フューチャー・ジャズ、ハウス、ヒップホップまで幅広いアーティストにサンプリングされてきた。その生演奏の“浮遊感”“柔らかいグルーヴ”“宇宙的なコード感”は、サブリナの作品にも色濃く受け継がれる。
 
-Cependant, la musique de Sabrina n'est pas une imitation directe de son père, mais a un fort sentiment d'« élégance en tant que chanteuse » et d'« âme urbaine ». Tout en prenant la souplesse rythmique d'Azimuth comme leur ADN, ils l'ont transformé en une texture plus lyrique et plus douce.
-
----
-
-## **2. Premiers travaux : signes d’une nouvelle génération de samba soul**
-
-### ● **« Équilibres » (2005)**
-
-Dans cette première œuvre, la combinaison de la « voix chantante transparente » de Sabrina et du « rythme moderne » était déjà établie. Tout en mêlant samba, MPB et soul, il présente une texture qui brouille les frontières entre acoustique et électrique.
-
-### ● **« Nouveau matin » (2011)**
-
-Cet album a un ton plus fort de jazz-funk et de soul urbaine, et a fortement séduit les auditeurs des clubs. Il est devenu particulièrement populaire dans la communauté européenne du jazz des clubs et a gagné le soutien des DJ de Londres.
-
-Depuis ses débuts, Sabrina a toujours visé une « coexistence de la tradition brésilienne et des rythmes modernes », mais à la fin des années 2010, elle a considérablement approfondi son orientation.
+しかしサブリナの音楽には、父の直接的な模倣ではなく、“女性ボーカリストとしてのエレガンス”と“都会的ソウル”が強く感じられる。Azimuthの持つリズムのしなやかさをDNAとして受け取りつつ、それをよりリリックで柔らかい質感へと変換してきた。
 
 ---
 
-## **3. « Clareia » (2017) : Image sonore éclairée par la lumière**
+## **2. 初期作品：新世代サンバ・ソウルの兆し**
 
-### ● Photo globale de l'album
+### ● **『Equilibria』（2005）**
 
-« Clareia » signifie « éclairer » et « éclairer ». Tout comme le titre l'indique, l'album entier est plein d'une clarté semblable à celle du soleil et de grooves doux.
+デビュー作となる本作では、すでにサブリナの“透明感のある歌声”と“現代的ビート”の組み合わせが確立されていた。サンバ、MPB、ソウルを織り交ぜながら、アコースティックとエレクトリックの境界を曖昧にするような質感を提示している。
 
-Il y a des moments de jazz-funk doux qui vous donnent une impression directe de la lignée d'Azimuth, tandis que les mélodies sophistiquées, les belles cordes et les percussions légères de MPB sont délicieusement combinées.
+### ● **『New Morning』（2011）**
 
-### ● Chanson titre « Clareia »
+本作では、ジャズ・ファンクやアーバン・ソウルの色彩が濃くなり、クラブ系リスナーにも強く訴求した。ヨーロッパのクラブジャズ・コミュニティで特に人気を博し、ロンドンのDJたちから支持を得るきっかけとなる。
 
-Cette chanson, qui peut être considérée comme un symbole de l'album, combine la voix douce de Sabrina, les percussions dynamiques et les lignes fluides du clavier pour créer une texture claire de lumière.
-
-« Clareia » a attiré l'attention dans le monde européen du jazz et des clubs dès sa sortie, conduisant à un projet de remix ultérieur.
+デビューから一貫して“ブラジルの伝統とモダンなビートの共存”を志向していたサブリナは、2010年代後半にその方向性を大きく深化させることになる。
 
 ---
 
-## **4. Remix de « Claireia »**
+## **3. 『Clareia』（2017）：光の差す音像**
 
-### - Pont avec le Royaume-Uni créé par Henry Wu, 2000 Black, IG Culture -**
+### ● アルバムの全体像
 
-L'attention enthousiaste que la musique de Sabrina a reçue de la scène britannique peut être considérée comme un symbole de la « nouvelle réévaluation brésilienne » de la fin des années 2010.
-En particulier, le remix de « Clareia » par les trois groupes suivants qui ont formé le mouvement jazz/broken beat à Londres est important.
+『Clareia』は意味として「明るくする」「照らす」といったニュアンスを持つ。まさにそのタイトル通り、アルバム全体が陽光のような透明度と、柔らかいグルーヴに満ちている。
+
+Azimuthの血脈を直接感じさせるメロウなジャズ・ファンクの瞬間もありつつ、MPBの洗練されたメロディ、美しいストリングス、そして軽やかなパーカッションが絶妙に組み合わされる。
+
+### ● タイトル曲 “Clareia”
+
+アルバムの象徴とも言えるこの曲は、サブリナの柔らかい歌声、躍動的なパーカッション、鍵盤の流れるようなラインが一体となって、明快な光の質感を作り出している。
+
+“Clareia” は発表当時からヨーロッパのジャズ／クラブ界隈で注目され、後のリミックス・プロジェクトへとつながることになる。
 
 ---
 
-### ** ● Remix de Henry Wu (Kamaal Williams) **
+## **4. “Clareia” のリミックス**
 
-Henry Wu était une figure centrale du mouvement de renaissance du jazz du sud de Londres, également connu sous le nom de Yussef Kamaal.
+### ― Henry Wu、2000 Black、IG Culture が紡いだUKとの橋梁 ―**
 
-Son remix met l'accent sur un travail de batterie complexe dans la veine du rythme brisé et de la sophistication du jazz électrique. Tout en conservant la « lumière » de la chanson originale, en ajoutant une touche urbaine à la London, elle a une finition plus club-friendly.
+サブリナの音楽に対するUKシーンからの熱視線は、2010年代後半の“新たなブラジリアン再評価”の象徴とも言える。
+特にロンドンのジャズ〜ブロークンビート・ムーブメントを形成してきた次の3組による “Clareia” リミックスは重要だ。
 
-・ Battement rebondissant
-・Rhodes doux
-・Base de référence en mettant l'accent sur la syncope
+---
 
-En conséquence, "Clareia" a acquis un nouveau look qui se fond naturellement sur les pistes de danse de Londres.
+### **● Henry Wu（Kamaal Williams） Remix**
+
+Henry WuはSouth Londonのジャズ再興ムーブメントの中心人物で、Yussef Kamaalとしても知られる。
+
+彼のリミックスは、ブロークンビートの流れを汲む複雑なドラムワークと、エレクトリック・ジャズの洗練を強調。原曲の“光”を保ちつつ、ロンドン的なアーバンフィールを加えることで、よりクラブユースな仕上がりにしている。
+
+・跳ねるビート
+・柔らかいRhodes
+・シンコペーションを強調したベースライン
+
+これにより、“Clareia” はロンドンのダンスフロアで自然に混ざり合う新たな表情を獲得した。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tGKTAHvAkG0?si=PdoogKBlxjEmegiN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### **Quantity 2000 Black (Dego & Kaidi) Remix**
+### **● 2000 Black（Dego & Kaidi） Remix**
 
-2000 Black, de Dego et Kaidi Tatham, est connu comme l'un des labels et projets les plus importants du Broken Beat.
+Dego と Kaidi Tatham による2000 Blackは、ブロークンビートの最重要レーベル／プロジェクトとして知られる。
 
-La version 2000 Black de « Clareia » est composée d'un rythme brisé plus entraînant et d'une ligne de basse épaisse, créant un beau contraste avec la voix chantée de Sabrina. Tout en héritant de la « progression d'accords fluide » que l'on peut appeler le style d'Azimuth, il est réinterprété avec la sensation funk futuriste unique à 2000 Black.
+2000 Black版の “Clareia” は、よりドライブ感の強いブロークンビートと太いベースラインで構成されており、サブリナの歌声とのコントラストが美しい。Azimuth的とも言える“流動するコード進行”を引き継ぎつつ、2000 Black特有の未来的なファンク感で再解釈している。
 
-La sensation est exactement
-**« Âme du futur brésilien »**
-digne d'être appelé.
+その手触りはまさに
+**“ブラジリアン・フューチャー・ソウル”**
+と呼ぶにふさわしい。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/40NoabXBKSo?si=RRrzmGMTIILRnnbD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### **• IG Culture Remix**
+### **● IG Culture Remix**
 
-IG Culture est une légende du Broken Beat londonien dont l’influence musicale et culturelle est incommensurable.
+IG Cultureはロンドンのブロークンビート・レジェンドであり、音楽的・文化的な影響力は計り知れない存在。
 
-La version IG Culture de « Clareia » a un rythme avec un centre de gravité plus bas et une forte sensation soul et street.
-Le rythme n'est pas brutal, mais plutôt doux, créant une image sonore profonde qui enveloppe la voix chantée de Sabrina.
+IG Culture版 “Clareia” は、より重心の低いリズムと、ソウルフルかつストリート感を帯びたフィーリングが強い。
+ビートは粗削りではなく、むしろ滑らかだが、サブリナの歌声を包み込むような深い音像を作り上げている。
 
-On peut dire que c'est la finition la plus « underground » avec une forte texture noire.
+最も“アンダーグラウンド”で、黒い質感の強い仕上がりと言える。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6qSBdxCCHyw?si=EkzFM7VxM3t_RP_2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## **5. UK Jazz ~ Résonance avec rythme brisé**
+## **5. UKジャズ〜ブロークンビートとの共振**
 
-Il est facile de comprendre pourquoi les chansons de Sabrina ont autant trouvé un écho auprès des artistes britanniques.
+サブリナの楽曲がUKのアーティストたちに強く響いた理由は明快だ。
 
-* Azimuth ~ Un groove « chaloupté » qui mène à la musique brésilienne
-* Langage jazz et travail d'accords doux
-* Affinité avec Soul/Neo Soul
-* Rythme léger qui correspond à la structure de la musique de club
+* Azimuth〜ブラジル音楽に通じる“揺れる”グルーヴ
+* ジャズの語法と柔らかいコードワーク
+* ソウル／ネオソウルとの親和性
+* クラブミュージックの構造に馴染む軽快なリズム
 
-La musique de Sabrina comportait intrinsèquement des éléments qui s'inscrivaient naturellement dans les deux contextes du mouvement jazz londonien et du Broken Beat.
+ロンドンのジャズ・ムーブメントと、ブロークンビートの2つの文脈に自然に溶け込む要素を、サブリナの音楽は元来備えていた。
 
-Pour cette raison, le groupe de remix de « Clareia » a été acclamé dans le monde entier comme un nouveau pont entre « Brésil x Royaume-Uni ».
-
----
-
-## **6. Caractéristiques du style musical**
-
-Les chansons de Sabrina Malleiros présentent systématiquement les caractéristiques suivantes :
-
-### ● **Voix douce et élégance urbaine**
-
-La voix chantée est légère, l’humidité n’est pas trop élevée, et elle est urbaine et sophistiquée.
-
-### ● **Mélange de jazz/funk/samba/soul**
-
-Tout en héritant de l'ADN d'Azimuth, il se connecte aussi naturellement à la néo-soul contemporaine et à la musique club.
-
-### ● **La frontière entre acoustique et électrique est floue**
-
-Il y a à la fois la chaleur des instruments live et la clarté des rythmes modernes.
-
-### ● **Texture de « lumière »**
-
-Ses œuvres contiennent des images fortes de « lumière », de « vent » et de « transparence », tant dans le titre que dans la production sonore.
+そのため “Clareia” のリミックス群は、“ブラジル × UK” の新たな橋梁として世界的に評価された。
 
 ---
 
-## **7. Chronologie : L'histoire de Sabrina Malleiros (version simplifiée)**
+## **6. 音楽スタイルの特徴**
+
+サブリナ・マリェイロスの楽曲には、次の特徴が安定して見られる。
+
+### ● **柔らかいボーカルと都市的エレガンス**
+
+歌声は軽く、湿度は高すぎず、都会的で洗練されている。
+
+### ● **ジャズ／ファンク／サンバ／ソウルの混融**
+
+AzimuthのDNAを継ぎながら、現代的なネオソウルやクラブミュージックとも自然に結びつく。
+
+### ● **アコースティックとエレクトリックの境界が曖昧**
+
+生楽器の暖かさと、現代的なビートの明瞭さが同時に存在する。
+
+### ● **“光”の質感**
+
+彼女の作品はタイトルからも音作りからも“光”“風”“透明感”といったイメージが強い。
+
+---
+
+## **7. 年表：サブリナ・マリェイロスの歩み（簡易版）**
 
 <div class="mermaid">
 timeline
@@ -191,7 +190,7 @@ timeline
 
 ---
 
-## **8. Structure de « Clareia » : Illustration (éléments de la chanson)**
+## **8. “Clareia” の構造：図解（楽曲要素）**
 
 <div class="mermaid">
 flowchart TD
@@ -209,22 +208,22 @@ flowchart TD
 
 ---
 
-## **9. Résumé : Pourquoi Sabrina Mallheiros est un « symbole du brésilienisme moderne »**
+## **9. 総括：なぜサブリナ・マリェイロスは“現代ブラジリアンの象徴”なのか**
 
-Bien que la musique de Sabrina soit ancrée dans la tradition brésilienne, elle comporte des éléments qui résonnent naturellement au-delà des frontières.
+サブリナの音楽は、ブラジルの伝統に根ざしながらも、国境を超えて自然に共振する要素を持っている。
 
-* Samba Soul brésilienne
-* Jazz funk d'Azimut
-* Douceur néo-soul/R&B
-* Affinité avec le rythme brisé de Londres
+* ブラジルのサンバ・ソウル
+* Azimuth由来のジャズ・ファンク
+* ネオソウル／R&B的なメロウネス
+* ロンドンのブロークンビートとの親和性
 
-Tout cela s’est croisé et « Clareia » de 2017 et son remix sont devenus un symbole de sa carrière.
+そのすべてが交差し、2017年の “Clareia” とそのリミックスは彼女のキャリアを象徴する存在となった。
 
-Sabrina Mallheiros n'est pas seulement une « héritière de la musique brésilienne » ;
-**Artiste brésilien moderne avec « son de lumière »**
-Il a acquis une position unique en tant que
+サブリナ・マリェイロスは単なる“ブラジル音楽の継承者”ではなく、
+**“光の音”を持つ現代ブラジルの表現者**
+として独自の位置を築いたのである。
 
-Dans ses œuvres futures, il continuera à être au centre de la manière dont la musique brésilienne se connecte à la scène mondiale de la danse et du jazz.
+今後の作品でも、ブラジルの音楽と世界のダンス／ジャズ・シーンがどのように接続されるのか、その中心に立ち続けるだろう。
 
 ---
 

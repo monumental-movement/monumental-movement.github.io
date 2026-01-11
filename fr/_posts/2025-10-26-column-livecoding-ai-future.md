@@ -51,7 +51,7 @@ Le Live Coding a porté cela dans le 21e siècle et a ramené la réalité physi
 
 En 2004, la communauté « TOPLAP » a été proposée par Alex McLean et Nick Collins.
 Le slogan était « Montrez-nous vos écrans ! »
-En partageant le processus de création de sons (codes) avec le public,
+En partageant le processus (code) de production sonore avec le public,
 L’idée était de transformer le processus de production lui-même en spectacle.
 
 Les environnements tels que TidalCycles, SuperCollider et Sonic Pi sont
@@ -71,7 +71,7 @@ En d’autres termes, l’IA est une intelligence algorithmique « extérieure �
 Cependant, ces dernières années, les frontières se sont rapidement estompées.
 
 Par exemple, les utilisateurs de TidalCycles utilisent GPT pour suggérer des codes en temps réel,
-Des cas commencent à apparaître dans lesquels l'IA analyse les performances en direct et prédit le prochain rythme.
+Des cas commencent à apparaître où l'IA analyse les performances en direct et prédit le prochain rythme.
 Cette fusion laisse présager un avenir où l’IA deviendra une co-star du Live Coding.
 
 ---
@@ -80,12 +80,12 @@ Cette fusion laisse présager un avenir où l’IA deviendra une co-star du Live
 
 Les Human Live Coders **apprécient les erreurs et le hasard**.
 Des sons inattendus et des malentendus animent la musique.
-En revanche, l’improvisation de l’IA est une **« reconstruction » basée sur des données passées**,
+D’un autre côté, l’improvisation de l’IA est une **« reconstruction » basée sur des données passées**,
 Pour l’essentiel, cela reste dans les limites du vraisemblable.
 
 Mais cette différence est aussi source de créativité.
 L’IA propose des combinaisons infinies et les humains y trouvent un sens.
-La relation entre les deux n’est pas une relation de « domination et subordination », mais plutôt une relation créatrice mutuellement complémentaire.
+La relation entre les deux n’est pas une relation de « domination et subordination », mais plutôt une relation créative mutuellement complémentaire.
 
 ---
 
@@ -130,7 +130,7 @@ La philosophie de TOPLAP « ouvrir le processus » est
 Lorsque l'IA rejoint cette culture,
 Nous devons résister à la « boîte noire ».
 
-Si une IA générative propose un code, son processus d’apprentissage et ses critères de décision devraient également être rendus publics.
+Si une IA générative propose un code, son processus d’apprentissage et ses critères de décision doivent également être rendus publics.
 C’est la clé pour ouvrir l’avenir de la musique algorithmique.
 
 ---
@@ -197,7 +197,7 @@ Nous essayons de créer une **culture de partage de « l'intelligence du spectac
 
 Algorithmes et humains, machines et émotions.
 Où les frontières fondent,
-Un nouvel horizon musical s’élèvera.
+Un nouvel horizon musical s'ouvre.
 
 > Les accords transcendent les partitions et l'IA apprend à improviser.
 > La musique n'est plus un « brevet exclusif humain » ;

@@ -25,7 +25,7 @@ Texte : mmr｜Thème : 40 ans d'histoire jusqu'à ce que la contre-culture dev
 
 Bien que le terme « rock alternatif » soit devenu populaire au début des années 1990, ses origines remontent aux scènes underground des États-Unis et de Grande-Bretagne au début des années 1980.
 
-Dans les années 1980, le rock grand public était centré sur le hard rock bruyant de la taille d'une arène, l'AOR commercialement poli et le pop rock associé à MTV. D'autre part, dans les villes régionales et les villes universitaires, un nouveau mouvement de groupes ancrés dans l'esprit DIY et non fondés sur le succès commercial commence à émerger.
+Dans les années 1980, le rock grand public était centré sur le hard rock bruyant de la taille d'une arène, l'AOR commercialement raffiné et le pop rock associé à MTV. D'autre part, dans les villes régionales et les villes universitaires, un nouveau mouvement de groupes ancrés dans l'esprit DIY et non fondés sur le succès commercial commence à émerger.
 
 Aux États-Unis, à l'époque, des labels indépendants tels que SST Records, Twin/Tone et Touch and Go produisaient une variété de styles qui ne dépendaient pas du genre. Il s'agissait d'un mouvement appelé « college rock », un groupe qui héritait de la vitesse et de l'anti-autoritarisme du punk hardcore, mais avait un esprit expérimental plus libre.
 
@@ -54,7 +54,7 @@ color: #fff;
 
 Le Murmur de R.E.M. de 1983 est particulièrement important en tant que point de départ d'une approche alternative. Tout en s'éloignant du commercialisme, ils présentent des mélodies influencées par le folk rock et des paroles ambiguës, et gagnent un large public, notamment dans les villes universitaires américaines. Le succès de R.E.M. a été le moment qui a prouvé qu'« un nouveau type de rock, différent du mainstream, mais disposant d'un public fiable » pouvait être créé.
 
-À peu près à la même époque, des groupes tels que The Replacements, Hüsker Dü, The Feelies et Sonic Youth ont émergé, mélangeant avec souplesse bruit, mélodie et expérimentation. En particulier, l'exploration par Sonic Youth de l'accordage de la guitare et de la structure du bruit a eu une influence majeure sur la musique alternative ultérieure.
+À peu près à la même époque, des groupes tels que The Replacements, Hüsker Dü, The Feelies et Sonic Youth émergent, mélangeant avec souplesse bruit, mélodie et expérimentation. En particulier, l'exploration par Sonic Youth de l'accordage de la guitare et de la structure du bruit a eu une influence majeure sur la musique alternative ultérieure.
 
 Au Royaume-Uni, The Smiths a fait ses débuts en 1984. Combinant la délicatesse de la guitar pop avec des thèmes sociaux, il a déterminé les valeurs du rock indépendant ultérieur.
 
@@ -118,7 +118,7 @@ Ce mouvement se connecte à des groupes lyriques et expérimentaux comme Radiohe
 La montée de Tortue, Mogwai, Godspeed You ! Black Emperor et d’autres ont repoussé les limites du rock.
 
 L’alternative n’est plus un style unique ;
-**"Un ​​terme général désignant la créativité qui n'est pas capturé par le commercialisme"**
+**"Un ​​terme général désignant la créativité qui n'est pas récupérée par le mercantilisme"**
 Il est désormais compris comme.
 
 ---
@@ -133,7 +133,7 @@ Dans le même temps, des groupes tels que Arcade Fire, Modest Mouse, The Nationa
 
 ---
 
-## **Chapitre 6 : Alternatives à l'ère du streaming (2010-2020)**
+## **Chapitre 6 : Alternatives à l'ère du streaming (2010-2020)**
 
 Depuis les années 2010, les frontières des genres rock se sont estompées en raison de la diffusion du streaming, et l’alternative a fini par avoir des significations plus diverses.
 
@@ -178,7 +178,7 @@ flowchart TD
 
 # **Chapitre 7 : Localisation actuelle et avenir des alternatives**
 
-Dans les années 2020, le mot « alternatif » est de plus en plus utilisé pour désigner un « lieu » ou une « communauté » plutôt qu'un genre.
+Dans les années 2020, le mot « alternative » est de plus en plus utilisé pour désigner un « lieu » ou une « communauté » plutôt qu'un genre.
 Avec une distribution indépendante centrée sur Bandcamp, l'expansion de Bedroom Pop et la diffusion d'environnements de production multi-genres, l'alternative continue d'être un concept qui symbolise « l'esprit de production indépendante ».
 
 Bien qu'il soit peu probable qu'un mouvement aussi important que celui du passé se produise, on peut dire que « l'esprit d'indépendance » s'est enraciné plus largement.
@@ -193,7 +193,7 @@ Quelle est l’histoire du rock alternatif ?
 C'est.
 
 Il est né en marge du rock commercial, absorbé par le mainstream, puis transformé à nouveau sous terre.
-Ce cycle est le symbole d’Alternative et son plus grand attrait au cours des 40 dernières années.
+Ce cycle est le symbole d'Alterna et son plus grand attrait au cours des 40 dernières années.
 
 Peu importe comment la musique du futur évolue,
 « Une créativité qui ne se contente pas du centre existant »

@@ -9,12 +9,12 @@ permalink: /fr/ying-yang-twins-shake-feat-pitbull-shake-remix-feat-pitbull-and-e
 tags:
 - Hiphop
 - 00s
-title: Ying Yang Twins – Shake feat. Pitbull / Shake Remix feat. Pitbull et l'homme
-  éléphant
+title: Ying Yang Twins – Shake feat. Pitbull / Shake Remix feat. Pitbull & Elephant
+  Man
 ---
 
 
-"Shake", sorti en 2005, est un single extrait de l'album "USA" des Ying Yang Twins. Avec Pitbull et Elephant Man. La chanson comprend un extrait de " Din Daa Daa " de George Kranz .
+2005年にリリースされた「Shake」は、Ying Yang Twinsのアルバム「U.S.A.」からのシングルカット。Pitbull (ピットブル)とElephant Man (エレファントマン)をフィーチャーしている。この曲には、George Kranz(ジョージ・クランツ)の「Din Daa Daa」のサンプリングが含まれている。
 
 #### Liste des chansons
 ```md

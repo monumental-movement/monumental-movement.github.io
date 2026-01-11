@@ -10,11 +10,11 @@ tags:
 - R&B
 - Soul
 - Gospel
-title: Kierra Sheard – Juste jusqu'à
+title: Kierra Sheard – Just Until
 ---
 
 
-Kierra Kiki Sheard est une chanteuse de gospel de Détroit, aux États-Unis. Au Japon, on l'appelle KiKi. Sa mère est Karen Clark Sheard de la légende du gospel, les Clark Sisters.
+Kierra Kiki Sheard（キエラ・キキ・シェアード）は、USデトロイト出身のゴスペルシンガー。日本ではKiKi（キキ）として知られている。母親はゴスペル界の名門、クラーク・シスターズのKaren Clark Sheard（カレン・クラーク・シェアード）。
 
 #### Liste des chansons
 ```md

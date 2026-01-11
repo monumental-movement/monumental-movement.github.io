@@ -76,7 +76,7 @@ B. Cosmic Minefield
 Caractéristiques : La combinaison de Distance, Skream, qui dominent la scène dubstep depuis sa naissance, et Goth-Trad, représentant le Japon, est une collaboration de rêve.
 
 
-Charme : Skream est un « beat destructeur » qui utilise l'essence de la chanson originale, tandis que Goth-Trad est une reconstruction sombre et orientée texture, qui peut être considérée comme étant des images sonores complètement opposées contenues dans un album. Cet article a une grande valeur en tant que classique et est très demandé par les amateurs d'analogique et les DJ.
+Charm : Skream est un « beat destructeur » qui utilise l'essence de la chanson originale, tandis que Goth-Trad est une reconstruction sombre et orientée texture, qui peut être considérée comme étant des images sonores complètement opposées contenues dans un album. Cet article a une grande valeur en tant que classique et est très demandé par les amateurs d'analogique et les DJ.
 
 #### Liste des chansons
 ```md

@@ -14,7 +14,7 @@ title: '[Chronique] L''impact de la Drum & Bass : Une poétique urbaine tissée 
 ---
 
 
-## Un rythme hybride né en ville
+## Beat hybride né en ville
 
 Texte : mmr｜Thème : Réflexions sur le son Drum & Bass/Jungle/UK
 
@@ -48,7 +48,7 @@ Les racines de D&B se situent dans le genre jungle. C'était une musique rythmé
 
 **Période de création de Drum & Bass**
 
-A partir de cette époque, le nom « jungle » se change progressivement en « D&B ». Cela signifie un son plus raffiné, des basses et des techniques de production améliorées. Sa fonctionnalité augmente à mesure que la musique de club augmente et que la scène mûrit.
+A partir de cette époque, le nom « jungle » se change progressivement en « D&B ». Cela signifie que le son est plus raffiné et que les techniques de basse et de production se sont améliorées. Sa fonctionnalité augmente à mesure que la musique de club augmente et que la scène mûrit.
 
 #### Artistes représentatifs :
 
@@ -104,7 +104,7 @@ A partir de cette époque, le nom « jungle » se change progressivement en « D
 
 ** ● Jungle **
 
-D&Bの原点。 Comprend des voix ragga, des basses reggae et des breaks brutaux.
+L'origine de D&B. Comprend des voix ragga, des basses reggae et des breaks bruts.
 
 ** ● Étape technique **
 
@@ -112,7 +112,7 @@ Un son sombre, industriel et inorganique. Les représentants incluent Ed Rush & 
 
 ** ● Neurofunk **
 
-Évolution de l'étape technologique. Des lignes de basse principalement nerveuses et distordues. Noisia, Phace, Mefjus, etc.
+Évolution de l'étape technologique. Des lignes de basse principalement nerveuses et déformées. Noisia, Phace, Mefjus, etc.
 
 ** ● Liquid Funk **
 
@@ -135,7 +135,7 @@ Un sous-genre influencé par la mi-temps et le dubstep. Excision, liaison descen
 
 **Hospital Records (Tony Colman alias London Elektricity)** : La maison du funk liquide.
 
-**Ram Records (Andy C)** : leader du marché grand public.
+**Ram Records (Andy C)** : leader du grand public.
 
 **Shogun Audio (Friction)** : prend en charge un large éventail de styles.
 
@@ -152,7 +152,7 @@ Né dans des villes multiethniques comme Londres et Bristol, D&B a grandi à l'i
 
 **Influence Black British** : culture sound system, techniques reggae/dub.
 
-**L'esprit DIY de la classe ouvrière blanche** : Radio pirate, labels indépendants.
+**L'esprit DIY de la classe ouvrière blanche** : Radios pirates, labels indépendants.
 
 **Intersection avec la techno/IDM** : Squarepusher, Autechre, etc. développent des rythmes D&B.
 
@@ -163,7 +163,7 @@ Né dans des villes multiethniques comme Londres et Bristol, D&B a grandi à l'i
 
 **Clubwear** : Vêtements de sport, nylon, casquettes, maillots.
 
-**Street Culture** : graffiti, patinage et idéologie junglist.
+**Street Culture** : Graffiti, patinage et idéologie junglist.
 
 **Visuel** : Futuriste et cyberpunk. Les œuvres d’art sont également importantes.
 
@@ -176,7 +176,7 @@ Actuellement, D&B règne comme la base de la bass music dans le monde. Les scèn
 
 ** ● Artistes contemporains en vedette **
 
-**Noisia (dissous)** : compétences de production au niveau de Dieu.
+**Noisia (dissous)** : technologie de production au niveau de Dieu.
 
 **Alix Perez** : Une alchimiste sonique qui peut tout faire, du dub au demi-pas.
 

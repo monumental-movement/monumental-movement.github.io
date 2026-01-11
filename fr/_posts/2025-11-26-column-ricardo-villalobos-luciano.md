@@ -92,7 +92,7 @@ Exemples de chansons incluses dans l'album :
 
 ## Chapitre 4 Intersection de la culture et du son
 
-Leur musique est bien plus que de simples rythmes. En combinant la précision allemande de Villalobos avec la musique électronique et les sensibilités rythmiques sud-américaines de Luciano, le club est devenu plus qu'un simple terrain de jeu, mais une incarnation culturelle. Le public se déplaçait sans le savoir entre deux mondes alors qu’il s’abandonnait au rythme.
+Leur musique est bien plus que de simples rythmes. En combinant la précision allemande de Villalobos avec la musique électronique et les sensibilités rythmiques sud-américaines de Luciano, le club est passé d'un simple terrain de jeu à un lieu qui incarne la culture. Le public se déplaçait sans le savoir entre deux mondes alors qu’il s’abandonnait au rythme.
 
 ### Révolution du rythme et du corps
 

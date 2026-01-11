@@ -35,7 +35,7 @@ Dans la scène des clubs des années 1980, il y avait un mouvement croissant pou
 
 <hr>
 
-### Fonctionnalités musicales
+### 音楽的特徴
 
 L'acid jazz a tendance à faire référence à un « sentiment hybride » plutôt qu'à un genre unique. Les éléments caractéristiques comprennent :
 
@@ -136,7 +136,7 @@ Il a progressivement été accepté dans des pays comme la Corée du Sud et Taiw
 
 - **France/Allemagne** : En France, il a été intégré à la "Nouvelle Scène Jazz" et à la culture des clubs à Paris, et en Allemagne, il a été intégré à l'esprit expérimental des jazz/clubs centrés à Berlin-Ouest au moment de la réunification (1990).
 
-- **Italie/Espagne** : Lié au tourisme, Acid Jazz s'impose dans la culture des stations et sur la scène des clubs. Surtout à Ibiza, il était mélangé à la house et aux Baléares.
+- **Italie/Espagne** : Lié au tourisme, Acid Jazz s'impose dans la culture des stations et sur la scène des clubs. Particulièrement à Ibiza, il était mélangé à la house et aux Baléares.
 
 
 
@@ -185,8 +185,8 @@ L'acid jazz est une « musique intellectuelle et dansante » née de la culture 
 
 La musique est née de la fusion de la culture immigrée de Londres, de la culture des clubs et du mécontentement de la société postindustrielle.
 
-En Europe, il s'est développé dans le tourisme et la culture urbaine post-réunification, aux États-Unis, il s'est combiné avec le hip-hop et au Japon, il s'est développé dans le Shibuya-kei et le club jazz.
+En Europe, il s'est développé dans le tourisme et la culture urbaine après la réunification, aux États-Unis, il s'est combiné avec le hip-hop et au Japon, il s'est développé dans le Shibuya-kei et le club jazz.
 
 La fin de la guerre froide et la mondialisation ont favorisé sa prolifération et ont servi de symbole géopolitique de liberté et d’échange.
 
-L'acid jazz est la cristallisation de sons qui traduisent la diversité et la sophistication urbaines en grooves.
+L’acid jazz est la cristallisation de sons qui traduisent la diversité et la sophistication urbaines en grooves.

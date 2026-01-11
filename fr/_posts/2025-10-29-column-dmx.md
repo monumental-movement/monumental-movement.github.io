@@ -71,7 +71,7 @@ Il existe souvent une structure dans laquelle ils parlent à leurs démons inté
 > ― * Slippin' * (1998)
 
 ### 2. Métaphore animale
-DMX se présente souvent comme « chien ».
+DMX se présente souvent comme un « chien ».
 C'est un symbole de violence et indique en même temps **la loyauté, la solitude et la sauvagerie**.
 Le chien était le seul compagnon en qui il pouvait avoir confiance et l'objet de ses prières.
 
@@ -130,7 +130,7 @@ Il s'agit de son rituel d'auto-purification, indiquant que la musique est « une
 > ― *Prière III*, 1999
 
 Pour lui, Dieu n'était pas un « symbole de salut », mais une « existence qui donne des épreuves ».
-Sa foi n'est pas celle du pardon mais de la **foi dans la bataille**.
+Sa foi n'est pas une foi de pardon mais une **foi dans la bataille**.
 
 ---
 
@@ -193,7 +193,7 @@ Ces mots servent encore aujourd’hui de mantra de pardon à de nombreux jeunes.
 ## X. Conclusion : Structure mythique appelée DMX
 
 L'histoire de DMX est bien plus qu'une simple biographie hip-hop.
-C'était un **drame religieux moderne** et un mythe sur la coexistence de **la violence et de la prière**.
+Il s'agissait d'un **drame religieux moderne** et d'un mythe illustrant **la coexistence de la violence et de la prière**.
 
 *Son « rugissement » n'est pas de la colère, mais un cri pour prouver son existence**
 *Sa « prière » n'est pas le salut mais **la poursuite de la bataille**
@@ -239,7 +239,7 @@ timeline
 
 ---
 
-## Annexe : Analyse de la structure sonore (relation entre le rythme et la voix)
+## Annexe : Analyse de la structure sonore (relation entre le rythme et la voix)
 
 <div class="mermaid">
 
@@ -257,7 +257,7 @@ D -->|静寂| F[祈りの独白]
 
 ## Chapitre final : Prière d'aboiement
 
-La musique de DMX n'est pas un « témoignage de la rue » mais un « disque de l'âme ».
+La musique de DMX n'est pas un « témoignage de rue » mais un « disque de l'âme ».
 Ce cri est la vérité même de ceux qui ont vécu leur vie en s’accrochant à leur foi sans céder à la violence.
 
 > "Si tu es réel, tu vas le ressentir." -DMX

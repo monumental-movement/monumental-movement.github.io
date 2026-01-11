@@ -15,9 +15,9 @@ title: Don Diablo – Casa Del Diablo
 ---
 
 
-Don Diablo est un DJ, artiste numérique et producteur de disques néerlandais. Il est connu comme l'un des pionniers du futur genre house, un sous-genre de l'EDM, et dirige le label house néerlandais HEXAGON.
+Don Diablo（ドン ディアブロ）は、オランダ出身のDJ・デジタルアーティスト・レコードプロデューサー。EDMのサブジャンル、フューチャーハウスのジャンルの先駆者の一人として知られており、ダッチハウスレーベルHEXAGONを運営している。
 
-"Casa Del Diablo" est un morceau trance/techno/hard trance de Don Diablo sorti en 2002 sur le label londonien Y2K.
+「Casa Del Diablo」はロンドンのレーベルY2Kから2002年にリリースされたDon Diabloのトランス・テクノ・ハードトランストラック。
 
 #### Liste des chansons
 ```md

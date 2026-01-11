@@ -10,7 +10,7 @@ tags:
 - Latin
 - Jazz
 - Techno
-title: Andreas Saag – Leçon de Jazz
+title: Andreas Saag – Cours de Jazz
 ---
 
 

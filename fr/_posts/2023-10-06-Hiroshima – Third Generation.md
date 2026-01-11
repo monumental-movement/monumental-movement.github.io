@@ -9,17 +9,17 @@ permalink: /fr/hiroshima-third-generation/
 tags:
 - Jazz
 - Modern Jazz
-title: Hiroshima – Troisième génération
+title: Hiroshima – Third Generation
 ---
 
 
-"Third Generation" est un album d'Hiroshima, un groupe de jazz fusion américain. Cet album est sorti en 1983. Hiroshima est connu pour son style musical unique, qui combine la musique traditionnelle japonaise avec des éléments de jazz, de R&B et de pop.
+「Third Generation」は、アメリカのジャズフュージョンバンドであるHiroshimaのアルバムです。このアルバムは1983年にリリースされました。Hiroshimaは、日本の伝統音楽とジャズ、R&B、ポップスなどの要素を融合させた独自の音楽スタイルで知られています。
 
-"Third Generation" est le troisième album d'Hiroshima, et c'est une œuvre qui montre leur maturité musicale et leur évolution. L'album intègre des instruments traditionnels tels que des instruments japonais, Tsugaru shamisen et kalimba, tout en développant un son jazz fusion moderne.
+「Third Generation」は、Hiroshimaのサードアルバムであり、彼らの音楽的な成熟と進化を示す作品となりました。アルバムは、和楽器や津軽三味線、カリンバなどの伝統的な楽器を取り入れながらも、モダンなジャズフュージョンサウンドを展開しています。
 
-L'album comprend les chansons « One Wish », « Thousand Cranes » et « Sandalwood ». Ces chansons combinaient le son distinctif d'Hiroshima et la structure mélodique des chansons pour créer une expérience musicale agréable pour le public.
+アルバムには、楽曲「One Wish」や「Thousand Cranes」、「Sandalwood」などが収録されています。これらの曲は、Hiroshimaの特徴的なサウンドとメロディックな楽曲構成が組み合わさり、聴衆に心地よい音楽体験をもたらしました。
 
-"Troisième génération" a reçu les éloges des critiques musicaux, qui l'ont salué comme une œuvre démontrant le caractère unique de la musique d'Hiroshima et de sa technique d'interprétation sophistiquée. L'album a reçu le soutien non seulement des amateurs de jazz fusion, mais aussi d'un large public.
+「Third Generation」は、音楽評論家から高い評価を受け、Hiroshimaの音楽の独自性と洗練された演奏技術を示す作品として称賛されました。アルバムはジャズフュージョンの愛好家だけでなく、広範な聴衆からも支持を受けました。
 
 #### Liste des chansons
 ```md

@@ -12,7 +12,7 @@ tags:
 - Art
 - 80s
 - 90s
-title: '[Chronique] Psychic TV : Une histoire complète d''un groupe multimédia qui
+title: '[Chronique] Psychic TV : L''histoire complète d''un groupe multimédia qui
   croise musique, rituel et idéologie'
 ---
 
@@ -63,7 +63,7 @@ Psychic TV a été conçu non seulement comme un groupe de musique, mais comme u
 
 #### 3.1 Composition des membres et premiers travaux
 
-La programmation initiale de Psychic TV était composée de Genesis P-Orridge (chant, paroles), Peter Christopherson (vidéo, son) et Alex Fergusson (guitare). La première chanson, « Just Drifting », reflète la vision poétique de Genesis et sert de point de départ musical au groupe.
+La programmation initiale de Psychic TV était composée de Genesis P‑Orridge (chant, paroles), Peter Christopherson (vidéo, son) et Alex Fergusson (guitare). La première chanson, « Just Drifting », reflète la vision poétique de Genesis et sert de point de départ musical au groupe.
 
 La musique ancienne était caractérisée par une innovation qui transcendait les frontières traditionnelles des genres, combinant l'agressivité punk, la liberté psychédélique et le bruit expérimental.
 
@@ -117,7 +117,7 @@ En 2003, Psychic TV a été réunie sous le nom de PTV3, a accueilli de nouveaux
 
 #### 6.2 Albums et œuvres conceptuelles
 
-Les albums ultérieurs incluaient "Hell Is Invisible...Heaven Is Her/e", "Mr. Alien Brain vs. The Skinwalkers'' et ``Alienist'', qui ont poursuivi leur expérimentalisme antérieur tout en présentant un concept structuré.
+Les albums ultérieurs incluaient "Hell Is Invisible...Heaven Is Her/e", "Mr. Alien Brain vs. The Skinwalkers'' et 'Alienist'', qui ont poursuivi leur expérimentalisme antérieur tout en présentant un concept structuré.
 
 #### 6.3 Dernière année et mort de Genesis
 

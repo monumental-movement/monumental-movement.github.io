@@ -14,7 +14,7 @@ title: Tracy Chapman – Tracy Chapman
 ---
 
 
-Tracy Chapman est une auteure-compositrice-interprète américaine largement connue pour ses singles à succès « Fast Car » (1988) et « Give Me One Reason » (1995).
+Tracy Chapman est une auteure-compositrice-interprète américaine largement connue pour ses singles à succès "Fast Car" (1988) et "Give Me One Reason" (1995).
 
 "Tracy Chapman" est son premier album sorti par Elektra Records en 1988. Son apparition réussie au concert hommage au 70e anniversaire de Nelson Mandela lui a valu une certification platine et six nominations aux Grammy Awards, dont l'album de l'année, dont trois pour le meilleur nouvel artiste, la meilleure performance vocale pop féminine pour le single "Fast Car" et le meilleur album folk contemporain.
 

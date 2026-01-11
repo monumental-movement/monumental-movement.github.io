@@ -9,13 +9,13 @@ permalink: /fr/tina-there-must-be-an-angel/
 tags:
 - JPop
 - Soul
-title: Tina – Il doit y avoir un ange
+title: Tina – There Must Be An Angel
 ---
 
 
-Il s'agit d'une reprise de la célèbre chanson EURYTHMIC de la période NEW WAVE.
+NEW WAVE期の名曲ユーリズミックス (EURYTHMIC)のカバーです。
 
-Une œuvre populaire des années 90 qui aborde l'anglais d'une manière légère et émouvante.
+軽やかでソウルフルに英語カバーした９０年代の人気作。
 
 #### Liste des chansons
 ```md

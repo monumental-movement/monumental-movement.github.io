@@ -16,7 +16,7 @@ title: Benji Candelario présente Arnold Jarvis – Apprenez à donner
 
 Benji Candelario est un DJ/producteur house de New York qui a été acclamé pour son son DeepHouse soul et a gagné en popularité sur la scène house underground dans les années 1990 et au début des années 2000.
 
-"Learn To Give" est sorti en 2000 sur Hysteria, le label House/Deep House dirigé par Eric Kupper, célèbre pour sa chanson "Whistle Song" (1992) avec Frankie Knuckles. "Learn To Give" est un morceau deep house mettant en vedette le chanteur house/garage soul Arnold Jarvis.
+"Learn To Give" est sorti en 2000 sur Hysteria, le label House/Deep House dirigé par Eric Kupper, célèbre pour sa chanson "Whistle Song" (1992) avec Frankie Knuckles. "Learn To Give" est un morceau deep house mettant en vedette le chanteur soul house/garage Arnold Jarvis.
 
 
 

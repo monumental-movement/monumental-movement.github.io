@@ -13,7 +13,7 @@ title: Terry Brookes et Aaron Soul – La vie en ville (Partie 1)
 ---
 
 
-City Life (Part 1) est un morceau house sorti en 2005 par le label néerlandais Rush Hour, basé à Amsterdam, fondé en 1999 par Christiaan Macdonald et Antal Heitlager.
+City Life (Part 1) est un morceau house sorti en 2005 par Rush Hour, un label néerlandais basé à Amsterdam fondé en 1999 par Christiaan Macdonald et Antal Heitlager.
 
 La face A est un remix de Carl Craig.
 

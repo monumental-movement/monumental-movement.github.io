@@ -40,7 +40,7 @@ color: #fff;
 </style>
 
 
-## L'étrange mythe du frère de Ween — Une contre-attaque depuis la banlieue américaine
+## Le mythe étrange du frère Ween – Une contre-attaque depuis la banlieue américaine
 
 ### L'avènement de Boognish, le dieu du polypropylène
 
@@ -48,7 +48,7 @@ Un quartier résidentiel calme de Pennsylvanie au milieu des années 1980.
 Deux garçons s'emparent d'une cassette et d'un enregistreur 4 pistes et entament un étrange rituel.
 **Aaron Freeman (Gene Ween)** et **Mickey Melchiondo (Dean Ween)**.
 
-L'existence de « **Boognish** » qu'ils ont créé est plus qu'un simple logo ou un personnage.
+Le « **Boognish** » qu'ils ont créé est plus qu'un simple logo ou un personnage.
 Dieu fictif du rire et de la folie, il était un symbole de la musique de Ween elle-même.
 Les bruits, les voix étranges et les changements de tonalité inhabituels qui étaient dispersés dans les enregistrements personnels ont tous été bénis par Boognish.
 
@@ -62,7 +62,7 @@ Les bruits, les voix étranges et les changements de tonalité inhabituels qui �
 ### Gene et Dean – frères imaginaires ou doubles spirituels ?
 
 Gène et Dean.
-Bien que la sonorité de leurs noms suggère « frères », ils ne sont pas liés par le sang.
+La sonorité de leurs noms suggère « frères », mais ils ne sont pas liés par le sang.
 Mais musicalement, ils étaient presque comme des jumeaux.
 Gene est l'incarnation de l'émotion et du chaos, Dean est le maître de la construction et de l'artisanat.
 Au moment où les deux entrent en collision, le chaos et la magie typiques de Ween naissent.
@@ -85,7 +85,7 @@ Le son des débuts de Ween était la magie de l'enregistrement à domicile sur *
 Laisse le bruit et la distorsion intacts. Ce n’était pas de la « saleté », c’était de la « vérité ».
 Leurs enregistrements maison sont une sorte d’alchimie lo-fi.
 The Pod est un mélange bizarre de rires morbides et de structure psychédélique.
-Cela rendait les auditeurs anxieux, mais en même temps cela leur procurait un sentiment de plaisir addictif.
+Cela mettait les auditeurs mal à l’aise tout en leur procurant un sentiment de plaisir addictif.
 
 ### Contact avec la scène underground
 
@@ -171,7 +171,7 @@ Dean a formé **The Dean Ween Group** et a connecté l'esprit de Ween d'une autr
 
 ---
 
-## « Québec » ~ « La Cucaracha » : Laboratoire du Crépuscule
+## « Québec » ~ « La Cucaracha » : Laboratoire Twilight
 
 [『Quebec』](https://amzn.to/4gZ8SlA)（2003）は、  
 Ce travail se situe à l’intersection de l’introspection et du psychédélisme.
@@ -250,7 +250,7 @@ Dean et Gene se rencontrent en amis d'enfance, armés de cassettes et de matéri
 Il a sérieusement continué à jouer avec les sons, ce qu’aucun artiste majeur ne pouvait faire.
 
 Ce chemin était à la fois une parodie de la culture américaine et l’amour le plus pur.
-Une mélodie de qualité B qui a été traitée comme une poubelle, une scène rurale à laquelle personne n'a prêté attention,
+Une mélodie de qualité B traitée comme une poubelle, une scène rurale à laquelle personne n'a prêté attention,
 Rires ivres – ils ont récupéré tout cela et en ont fait un « mythe ».
 
 Ween n'a créé ni un genre ni un mouvement.

@@ -146,7 +146,7 @@ Même si la qualité sonore était plus claire qu'auparavant, les mixages qui av
 ---
 
 ## 5. Années 2020 : Post-lo-fi et retour acoustique
-Dans les années 2020, le Lo-Fi Folk s’oriente vers une approche plus statique. Avec des compositions minimalistes, un accent mis sur l'enregistrement en direct et une réduction du bruit apparent, Bedroom Folk se dirige vers une scène où « réalisme sonore de la vie » et « intimité haute résolution » coexistent.
+Dans les années 2020, le Lo-Fi Folk s’oriente vers une approche plus statique. Avec des compositions minimalistes, un accent mis sur l'enregistrement en direct et une réduction du bruit manifeste, Bedroom Folk se dirige vers une scène où « réalisme sonore de la vie » et « intimité haute résolution » coexistent.
 
 - Prix réduits pour les microphones à condensateur de haute qualité
 - Plug-ins standards DAW améliorés
@@ -189,7 +189,7 @@ flowchart TD
 ### 8-1. Iron & Wine — Le ruisseau a bu le berceau (2002)
 - enregistrement à domicile
 - L'enregistrement est à volume extrêmement faible
-- Enregistrement à courte distance tout en supprimant le bruit de la pièce
+- Enregistrement à courte distance tout en supprimant le bruit ambiant
 - Haut de gamme souple de type cassette
 - Mix qui retient activement le bruit des doigts de guitare
 
@@ -215,7 +215,7 @@ Ceux-ci ont eu une grande influence sur la culture moderne de la Bedroom Pop et 
 
 ## 10. Conclusion
 Lo-Fi Folk / Bedroom Folk a été le pionnier d'une nouvelle expression de la musique folk, prenant en compte les limites de l'équipement d'enregistrement et de l'espace de vie personnel.
-Les premières œuvres d'Iron & Wine et de Sufjan Stevens sont des exemples emblématiques du charme de l'enregistrement à domicile, et elles continuent d'influencer de nombreux artistes aujourd'hui.
+Iron & Wine et les premières œuvres de Sufjan Stevens sont des exemples emblématiques du charme de l'enregistrement à domicile, et ils continuent d'influencer de nombreux artistes aujourd'hui.
 
 Les petites voix enregistrées dans la pièce ont enregistré la « sensation de la vie quotidienne » sous la forme d'un son qui n'était pas disponible en production en studio et ont ouvert un nouveau chapitre dans l'histoire de la musique folk.
 

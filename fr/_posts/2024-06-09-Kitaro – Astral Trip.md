@@ -15,7 +15,7 @@ title: Kitaro – Voyage Astral
 ---
 
 
-Kitaro jouait du clavier en tant que membre du groupe de rock progressif japonais "Far East Family Band" au début des années 1970. Lors d'une visite en Europe pour enregistrer avec son groupe, il rencontre le synthétiseur allemand Klaus Schulze et s'intéresse aux synthétiseurs.
+Kitaro jouait du clavier en tant que membre du groupe de rock progressif japonais "Far East Family Band" au début des années 1970. Lors d'une visite en Europe pour enregistrer avec son groupe, il rencontre le synthétiseur allemand Klaus Schulze et développe un intérêt pour les synthétiseurs.
 
 Après avoir quitté le groupe en 1976 et voyagé à travers l'Asie (Chine, Laos, Thaïlande et Inde), Kitaro sort son premier album solo, « Tenkai », en 1978.
 

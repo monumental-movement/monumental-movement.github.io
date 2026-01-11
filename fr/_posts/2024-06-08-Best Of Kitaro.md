@@ -11,13 +11,13 @@ tags:
 - Relaxation
 - Healing
 - 80s
-title: Le meilleur de Kitarō
+title: Best Of Kitaro
 ---
 
 
-Kitaro, claviériste et synthétiseur japonais, a remporté le Golden Globe Award de la meilleure musique originale pour le film « Heaven & Earth » de 1994 réalisé par Oliver Stone. En 2001, il a remporté le 43e Grammy Award du meilleur album New Age.
+日本のキーボーディスト＆シンセサイザー奏者である喜多郎（きたろう）は、1994年にオリバー・ストーン監督の映画「天と地 (Heaven & Earth)」でゴールデングローブ賞作曲賞受賞。2001年には第43回グラミー賞最優秀ニューエイジ・アルバム賞を受賞している。
 
-"Best of Kitaro" est une compilation de cassettes de Kitaro sortie en 1985 par le label allemand Kuckuck.
+「Best Of Kitaro」は、ドイツのレーベルKuckuckから1985年にリリースされた喜多郎のコンピレーションカセットテープ。
 
 #### Liste des chansons
 ```md

@@ -110,7 +110,7 @@ Grâce à ce travail, Hisaishi est devenu largement reconnu comme un « composit
 ## Chapitre 6 : « Kiki's Delivery Service » (1989) – Croissance et rythme urbain
 
 Kiki's Delivery Service, sorti en 1989, présente un son léger et aérien centré sur le piano et les cuivres.
-Puisque l'histoire se déroule dans une ville européenne moderne, Hisaishi a introduit des éléments de jazz et de pop.
+Puisque l’histoire se déroule dans une ville européenne moderne, Hisaishi a introduit des éléments de jazz et de pop.
 
 Cette diversité a influencé ses œuvres ultérieures, montrant que les idiomes musicaux d'Hisaishi étaient orientés vers le « franchissement des frontières des genres ».
 
@@ -138,7 +138,7 @@ Cette année-là, Hisaishi compose également la musique de « HANA-BI » de Tak
 ## Chapitre 9 : Le Voyage de Chihiro (2001) – Établir une réputation mondiale
 
 En 2001, Spirited Away du Studio Ghibli est sorti et la musique d'Hisaishi a attiré l'attention internationale.
-La chanson thème «Always Again and Again» (composée par Joe Hisaishi, chantée par Yumi Kimura) a remporté le prix de la meilleure musique lors de la 25e cérémonie des Japan Academy Awards.
+La chanson thème « Itsou Dogode » (composée par Joe Hisaishi, chantée par Yumi Kimura) a remporté le prix de la meilleure musique lors de la 25e cérémonie des Japan Academy Awards.
 
 La musique se caractérise par la clarté de la mélodie et la beauté du « ma », qui rehausse la fantaisie de l'histoire.
 Cette œuvre a remporté l'Oscar du meilleur long métrage d'animation en 2003 et le nom d'Hisaishi s'est répandu dans le monde entier.
@@ -159,7 +159,7 @@ Tout au long de ces œuvres, la musique d'Hisaishi devient un élément qui rég
 
 ## Chapitre 11 : « Comment vis-tu ? » (2023) - Abstraction sonore et nouveaux défis
 
-Comment vivez-vous, qui sortira en 2023, est le premier long métrage du réalisateur Hayao Miyazaki depuis 10 ans.
+Comment vivez-vous ?, qui sortira en 2023, est le premier long métrage du réalisateur Hayao Miyazaki depuis 10 ans.
 Joe Hisaishi était à nouveau en charge de la musique.
 
 Cette œuvre utilise une structure sonore abstraite, mettant l'accent sur la résonance et la texture plutôt que sur la mélodie.

@@ -99,7 +99,7 @@ Hiroshi Yoshimura (1940-2003) est le compositeur le plus important en matière d
 Il a été créé en pensant à l’espace d’exposition d’un musée d’art. Phrase piano/synthé transparente.
 - **《Vert》(1986)**
 L'une des œuvres les plus appréciées. Une fusion de sons naturels et de sons électroniques doux.
-- **Série 《Soundscape》 (1986~)**
+- Série **《Soundscape》 (1986~)**
 « La musique comme paysage » à partir d'enregistrements de terrain.
 
 ## ● Fonctionnalités musicales
@@ -128,7 +128,7 @@ Un chef-d'œuvre qui utilise des instruments à percussion, du marimba, de la vo
 - Application de la structure de la musique africaine gamelan
 
 ## ● Philosophie de production
-Elle traite les instruments à percussion non pas comme des symboles du « temps », mais comme des « appareils qui font sonner l'espace »**, créant une musique qui dépeint un « voyage » spirituel à travers des réverbérations et des harmoniques acoustiques.
+Elle traite les instruments à percussion non pas comme des symboles du « temps », mais comme des « appareils qui font sonner l'espace »**, créant une musique qui dépeint un « voyage » spirituel à travers des réverbérations acoustiques et des harmoniques.
 
 ---
 
@@ -178,8 +178,8 @@ Dans les années 1980, les fabricants japonais d’instruments de musique élect
 - Enregistreur de terrain (cassette/bobine à bobine)
 
 ## ● 3-2. Enregistrement à domicile et culture du home studio
-Le matériel d'enregistrement domestique s'est très tôt répandu au Japon et de nombreux compositeurs ont réalisé une production sonore expérimentale chez eux.
-C'était une caractéristique majeure par rapport à l'Europe et à l'Amérique, et c'est devenu la base pour l'approfondissement de la musique environnementale au niveau individuel.
+Les équipements d'enregistrement domestique se sont très tôt répandus au Japon et de nombreux compositeurs ont réalisé une production sonore expérimentale chez eux.
+C'était une caractéristique majeure par rapport à l'Europe et à l'Amérique, et c'est devenu la toile de fond pour l'approfondissement de la musique environnementale au niveau individuel.
 
 ## ● 3-3. Coopération avec la conception et l'architecture acoustiques
 Hiroshi Yoshimura et Inoyama Land ont également participé à la conception acoustique d'espaces architecturaux, d'équipements publics, de showrooms d'entreprise, etc., et l'accent a été mis sur la fonctionnalité de la musique et son influence sur l'espace.

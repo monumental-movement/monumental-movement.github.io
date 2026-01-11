@@ -46,15 +46,15 @@ Hawtin a été influencé par **l'esprit qui réside dans les rythmes mécanique
 
 ---
 
-## Chapitre 2 : La naissance de Plastikman – Vestiges d'acide et introspection techno
-En 1993, "_Sheet One_" est sorti. Le son traditionnel du TB-303 de l'acid house a été blanchi à l'extrême, créant un espace acoustique qui ressemble à des **battements cardiaques et signaux nerveux**. Au contraire, le silence qui dérive entre les sons peut être entendu comme le personnage principal.
+## Chapitre 2 : La naissance de Plastikman – Vestiges d'acide et introspection techno
+En 1993, "_Sheet One_" est sorti. Le son traditionnel de l'acid house TB-303 a été blanchi à l'extrême, créant un espace acoustique qui ressemble à des **battements cardiaques et signaux nerveux**. Au contraire, le silence qui dérive entre les sons peut être entendu comme le personnage principal.
 
 そして、1994年にレーベルNovaMuteからリリースしたアルバム[『_Musik_』](https://monumental-movement.jp/Plastikman-Musik)。Richie Hawtinとしては3枚目、Plastikman名義では2枚目のスタジオアルバムとなる。
 
 > « Plastikman est un projet qui utilise le son pour visualiser mon intérieur. »
 > — Richie Hawtin
 
-Les spectacles en direct à cette époque avaient des lumières stroboscopiques rouges clignotant momentanément dans la salle presque noire, symbolisant la matérialisation du son. Plutôt que de danser, le public avait l'impression de « s'enfoncer » dans le son.
+Les performances live à cette époque avaient des lumières stroboscopiques rouges clignotant momentanément dans une salle presque noire, symbolisant la matérialisation du son. Plutôt que de danser, le public avait l'impression de « s'enfoncer » dans le son.
 
 #### Plastikman – Musique
 
@@ -98,7 +98,7 @@ Sur sa scène, un environnement a été construit dans lequel MacBook, contrôle
 ---
 
 ## Chapitre 5 : Jouer à Plastikman avec « EX »
-``_EX_'', dévoilée à la Tate Modern de Londres en 2014, était une œuvre qui transférait l'esthétique de Plastikman dans un espace muséal.
+``_EX_'', dévoilée à la Tate Modern de Londres en 2014, était une œuvre qui transférait l'esthétique de Plastikman à l'espace muséal.
 La scène est plongée dans l’obscurité et Houtin se tient comme emprisonné dans une cage lumineuse. Le public partage l'expérience de « observer la structure du son » plutôt que de « regarder un DJ ».
 
 > "Plastikman reste la musique d'un voyage intérieur."
@@ -111,7 +111,7 @@ Son minimalisme évolue, dissolvant complètement les frontières entre musique 
 Les gènes de Plastikman imprègnent Villalobos, Donato Dozzy, Cio D'Or et la scène modulaire moderne.
 « Plaisir de la structure », « introspection du son » et « temporisation de l'espace » : ces éléments constituent désormais la base de la techno.
 
-En particulier, "Consumed in Key" (2022, collaboration : Chilly Gonzales) a innové en tant que dialogue entre piano et minimalisme. C'est à ce moment-là que Plastikman a une fois de plus franchi la « frontière entre l'humanité et l'inorganicité ».
+En particulier, "Consumed in Key" (2022, collaboration : Chilly Gonzales) a innové dans **un dialogue entre piano et minimalisme**. C'est à ce moment-là que Plastikman a une fois de plus franchi la « frontière entre l'humanité et l'inorganicité ».
 
 ---
 
@@ -161,7 +161,7 @@ Minus se caractérise par le respect de l'individualité de l'artiste tout en ma
 
 Minus était plus qu'une simple plateforme de distribution, elle fonctionnait comme un lieu pour incarner l'idée de techno minimale.
 
-### 3. Influence des étiquettes
+### 3. Influence du label
 - **Une fusion de sets live et de releases** : sources sonores reconstructibles numériquement
 - **Esthétique de l'espace vide sonore** : Expérimenter « comment utiliser l'espace blanc »
 - **Influence internationale** : Influence directe sur les scènes des clubs de Berlin, d'Allemagne et de Tokyo
@@ -188,10 +188,10 @@ flowchart TD
 
 ## Analyse détaillée de la série DE9
 
-### 1. DE9 : Plus près de l'édition (2001)
+### 1. DE9 : Plus près de l'édition (2001)
 - **Concept** : Une œuvre innovante qui réédite la forme d'onde de la piste échantillon par échantillon pour lui donner un potentiel de performance live.
 - **Analyse de piste représentative** :
-- *Spastik* : Boucle ultra rapide de charleys continus. Dans le diagramme de forme d'onde, vous pouvez voir comment la densité d'impulsion change progressivement.
+- *Spastik* : Boucle super rapide de charleys continus. Dans le diagramme de forme d'onde, vous pouvez voir comment la densité d'impulsion change progressivement.
 - *Moins/Orange* : La réverbération basse fréquence agrandit l'espace. Bien que la forme d’onde soit périodique et régulière, le bruit infime crée une sensation physiologique.
 - **Exemple d'illustration** :
 
@@ -242,7 +242,7 @@ graph TD
 ---
 
 
-## Illustration : Structure du son Plastikman
+## Illustration : Structure sonore Plastikman
 
 <div class="mermaid">
 
@@ -295,7 +295,7 @@ En effet, il sait mieux que quiconque qu’une seule rotation peut modifier la f
 | ---- | ------------- | -------------------------------- | ----------------------- |
 | 1994 | Plastikman | **Musique** EP | Le summum de l'Acid Techno sous le nom de Plastikman. |
 | 1998 | Plastikman | **Moins** EP | Le premier volet de Minus. Son extrêmement minimal. |
-| 1999 | Magda | **Piste 1** | Une éprouvette sombre et minimaliste.             |
+| 1999 | Magda | **Piste 1** | Pièce d’essai sombre et minimaliste.             |
 | 2000 | Richie Hawtin | **EX/PE** | Remix live avant DE9.         |
 | 2001 | Plastikman | **DE9 : Plus proche de l'édition** | Révolution du DJ numérique.               |
 | 2003 | Villalobos | **Allez-Allez** | Influence berlinoise de Minus.       |

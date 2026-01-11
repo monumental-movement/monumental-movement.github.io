@@ -52,12 +52,12 @@ Clarksdale est connu comme le centre historique du blues, et certaines de ses ra
 
 Enfant, il a déménagé avec sa famille à **Long Beach, en Californie**.
 C'est ici qu'il rencontre les amis qui le soutiendront plus tard tout au long de sa carrière : Snoop Dogg et Warren G**.
-Tous les trois avaient de l'expérience en chantant à l'église, Nate Dogg en particulier ayant une vaste expérience dans le **chœur gospel**.
+Tous les trois avaient de l'expérience en chantant à l'église, et Nate Dogg en particulier avait une vaste expérience dans le **chœur gospel**.
 
 Cette base du chant gospel a eu une influence décisive sur son style ultérieur.
 Même si sa voix était linéaire avec peu de vibrato, elle avait une résonance profonde et un sens du rythme naturellement ancré dans son corps.
 
-### Rejoindre le Corps des Marines
+### Rejoindre les Marines
 
 Après avoir obtenu son diplôme d'études secondaires, Nate Dogg ** s'est enrôlé dans le Corps des Marines des États-Unis ** et a été libéré après avoir servi pendant environ trois ans.
 Cette expérience a changé ses circonstances de vie, mais ce fut aussi une période qui l'a essentiellement obligé à retourner à Long Beach et à la musique.
@@ -86,7 +86,7 @@ Sa participation à cette époque était presque comme un début, mais il avait 
 
 ---
 
-## 4. L'impact du «Regulate» : La naissance du hook type G-Funk
+## 4. L’impact du «Regulate» : La naissance du hook type G-Funk
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1plPyJdXKIY?si=rx9XunHS0vwUPsA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -134,7 +134,7 @@ Nate Dogg est très apprécié pour ses apparitions en tant qu'invité, mais il 
 #### ■ "G-Funk Classics, Vol. 1 et 2" (1998)
 
 Sorti après une longue période de problèmes de production et de transfert d'étiquettes.
-De nombreux artistes de la côte ouest tels que Snoop Dogg, Warren G et Kurupt y ont participé, et c'était une œuvre qui montrait les os du G-Funk dans sa forme la plus pure.
+De nombreux artistes de la côte ouest tels que Snoop Dogg, Warren G et Kurupt ont participé, et c'était une œuvre qui montrait les os du G-Funk dans sa forme la plus pure.
 
 #### ■ « La musique et moi » (2001)
 
@@ -174,7 +174,7 @@ Bien qu'il s'agisse d'un doux son R&B, il est important que la voix de Nate Dogg
 
 ## 8. 213 « À la dure » : Le fruit de l'amitié
 
-213, composé de Snoop, Warren et Nate, ont sorti leur album studio officiel, The Hard Way, en 2004.
+213, le trio composé de Snoop, Warren et Nate, a sorti son album studio officiel, The Hard Way, en 2004.
 L'album a atteint le numéro un sur Billboard et a été le point culminant de la longue amitié et carrière des trois.
 
 ---

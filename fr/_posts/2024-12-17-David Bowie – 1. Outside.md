@@ -15,7 +15,7 @@ title: David Bowie – 1. Dehors
 ---
 
 
-Le 18e album de David Bowie est sorti en 1995 avec le producteur Brian Eno. La 20ème chanson est un morceau bonus exclusif à la première édition + édition Japon.
+Le 18ème album de David Bowie est sorti en 1995 avec le producteur Brian Eno. La 20ème chanson est un morceau bonus exclusif à la première édition + édition Japon.
 
 #### Liste des chansons
 ```md

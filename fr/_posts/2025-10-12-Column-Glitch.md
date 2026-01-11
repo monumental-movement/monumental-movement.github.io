@@ -68,7 +68,7 @@ C'est pourquoi la beauté instable créée par la corruption JPEG et le bruit du
 
 Glitch a également imprégné la mode et la publicité.
 La méthode consistant à incorporer des pixels désordonnés dans le design a pris d'assaut la culture de la rue à la fin des années 2010 sous le nom de « design brisé ».
-Nous pouvons enfin apprécier le fait que ce n'est pas parfait et que même les produits numériques contiennent du « bruit ».
+On peut enfin se réjouir du fait que ce n'est pas parfait, et que même le numérique a du "bruit".
 
 ---
 
@@ -101,7 +101,7 @@ Ce sont tous des **problèmes structurels** de la société numérique.
 
 L'émergence de l'art NFT est aussi un bruit qui a changé le concept de « propriété » à l'ère de la reproduction numérique.
 Même si les données devraient pouvoir être copiées à l'infini, elles redéfinissent la rareté comme un « élément unique en son genre ».
-Les contradictions continuent d'exister en tant que contradictions – c'est l'essence même de Glitch.
+Les contradictions continuent d’exister en tant que contradictions – c’est l’essence même de Glitch.
 
 La société deviendra de plus en plus « optimisée ».
 Cependant, le monde optimisé est en quelque sorte étouffant.

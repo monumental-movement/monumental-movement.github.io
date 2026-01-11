@@ -9,14 +9,14 @@ permalink: /fr/saturnalia-greenpeace-release/
 tags:
 - Happy Hardcore
 - Hardcore
-title: Saturnales – Sortie de Greenpeace
+title: Saturnalia – Greenpeace Release
 ---
 
 
-Saturnalia est le projet des producteurs britanniques Jim Sullivan et Steve McGarrigle. Tous les bénéfices de cette sortie ont été reversés à Greenpeace.
+Saturnaliaは、UKプロデューサーJim SullivanとSteve McGarrigleのプロジェクト。このリリースによる利益は全てGreenpeace（グリーンピース）に寄付された。
 
-Le piano et le chant de la face A sont un extrait de "Blue Sky Day" de Mo Lester, et le chant est un échantillon de "In Zaire" d'African Business.
-La réplique de la face B est tirée du film Star Trek IV : The Long Walk Home.
+A面のPiano & vocalは、Mo Lester「Blue Sky Day」、vocalはAfrican Business 「In Zaire」からのサンプリング。 
+B面のセリフは、映画『スタートレックIV 故郷への長い道』から。
 
 #### Liste des chansons
 ```md

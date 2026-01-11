@@ -15,7 +15,7 @@ title: '[Chronique] Shoji Yamashiro (Riki Ohashi) et le groupe de divertissement
 ---
 
 
-## Prologue : Un lieu où se croisent cyber et primitif - Une personne nommée Shoji Yamashiro
+## Prologue : Là où le cyber et le primitif se croisent - Une personne nommée Shoji Yamashiro
 
 
 Texte : mmr｜Thème : À propos du divertissement Yamashiro-gumi formé au début des années 1970
@@ -46,7 +46,7 @@ color: #fff;
 ## Chapitre 1 : Naissance du divertissement Yamashiro Gumi - L'art en "groupe"
 
 Le point de départ du Geino Yamashiro Gumi a été la formation d'un « collectif » de personnes réunies à travers les universités, les entreprises et les professions.
-Médecins, enseignants, ingénieurs, étudiants, femmes au foyer – des personnes de professions et de philosophies différentes partageaient un désir intuitif de « vivre dans le son ».
+Médecins, enseignants, ingénieurs, étudiants, femmes au foyer – des personnes aux métiers et aux philosophies différentes partageaient un désir intuitif de « vivre dans le son ».
 
 Dès le début, Yamashiro a défini l’art non pas comme un acte d’expression individuelle, mais comme l’expression d’un groupe.
 Par conséquent, leurs répétitions n’étaient pas seulement des performances, mais le processus de « génération sonore d’un champ ».
@@ -74,7 +74,7 @@ Il ne s'agissait pas simplement d'une collection de musique folklorique, mais d'
 | Tibet/Mongolie | Homie chantant | Résonance laryngée et séparation harmonique |
 
 Plutôt que de les traiter comme des « matériaux », Yamashiro et al. observé et reconstruit leur structure, leur fonction et leur signification sociale.
-En particulier, la « structure acoustique qui transcende le temps et l'espace » de la musique gamelan à Bali est fondamentale pour la « création de groupe », « l'environnement informationnel » et les « études environnementales saines » du Geino Yamashiro Gumi.
+En particulier, la « structure acoustique qui transcende le temps et l'espace » de la musique gamelan à Bali est fondamentale pour la « création de groupe », l'« environnement informationnel » et les « études environnementales sonores » de Geino Yamashiro Gumi.
 
 > "Les gens forment des groupes basés sur le son. Le son évolue à travers les groupes."
 > — Shoji Yamashiro

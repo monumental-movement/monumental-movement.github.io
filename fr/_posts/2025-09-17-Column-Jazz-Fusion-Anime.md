@@ -44,7 +44,7 @@ color: #fff;
 « Cowboy Bebop » du réalisateur Shinichiro Watanabe, diffusé en 1998, est une œuvre monumentale qui a montré au monde l'affinité entre l'anime et le jazz.
 La musique a été composée par The Seatbelts, un groupe dirigé par Yoko Kanno. Utilisant tout, du jazz big band au scat et aux solos de guitare fusion, il a décrit le monde de l'histoire de l'anime comme « la musique elle-même ».
 
-La chanson d'ouverture « Tank ! » avait un son de big band rappelant un film d'espionnage, mais elle avait aussi un « coolness adulte » qui était inhabituel pour une chanson d'ouverture d'anime à l'époque, captivant les fans du monde entier.
+La chanson d'ouverture « Tank ! » avait un son de big band rappelant un film d'espionnage, mais elle avait aussi un « coolness adulte » qui était inhabituel pour un OP d'anime à l'époque, captivant les fans du monde entier.
 Depuis ce succès, le jazz est souvent considéré comme un symbole de coolitude et d’urbanité dans les anime.
 
 ---
@@ -55,7 +55,7 @@ D’un autre côté, le jazz n’est pas seulement « urbain ».
 Cafés, coins de rue les jours de pluie, après-midi calmes - il est souvent utilisé comme musique de fond pour égayer la vie quotidienne décontractée.
 
 Par exemple, « Apollo sur la pente » (2012). Le manga original utilise le jazz lui-même comme thème, mais les sons des sessions qui résonnent dans la ville de Nagasaki, où se déroule l'histoire, soutiennent les fluctuations de la vie quotidienne et de la jeunesse avec la nature improvisée propre au jazz.
-De plus, bien que « Nodame Cantabile » se concentre sur la musique classique, des arrangements de style swing et jazz léger sont insérés dans des scènes quotidiennes, soulignant la nature libre d'esprit des personnages.
+De plus, bien que « Nodame Cantabile » se concentre sur la musique classique, des arrangements de style swing et jazz léger sont insérés dans les scènes du quotidien, soulignant la nature libre d'esprit des personnages.
 
 ---
 
@@ -112,7 +112,7 @@ flowchart TD
 | Lupin Troisième traverse la ville nocturne | Dave Brubeck « Prenez cinq » | La légèreté de la quintuple signature souligne le style de Lupin |
 | Spike contre Vicious (confrontation finale de Cowboy Bebop) | John Coltrane « Un amour suprême » | Symbolise une tension sublime et une bataille fatidique |
 | Une scène du travail de Makoto Shinkai un jour de pluie | Bill Evans « Valse pour Debby » | Le piano transparent résonne avec la beauté de l'image |
-| Séance à Sakamichi no Apollon | Art Blakey « Gémissement » | La chaleur des tambours et des cors amplifie l'ivresse de la jeunesse |
+| Session à Sakamichi no Apollon | Art Blakey « Gémissement » | La chaleur des tambours et des cors amplifie l'ivresse de la jeunesse |
 | Grave guerre psychologique (Eva et Death Note) | Miles Davis «Et alors» | Le jazz en mode cool soutient la tension intellectuelle |
 | LAZARUS : Scène de bataille finale avec limite de temps | Kamasi Washington « Changement de la garde » | Un son grandiose et spirituel met l'accent sur le thème de la survie humaine |
 

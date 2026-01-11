@@ -14,13 +14,13 @@ title: Crystal Waters – Le garçon d’Ipanema
 ---
 
 
-Crystal Waters est une auteure-compositrice-interprète américaine de house et de dance music connue pour ses chansons à succès "Gypsy Woman" et "100% Pure Love" dans les années 1990.
+Crystal Waters est une auteure-compositrice-interprète américaine de house et de dance music connue pour ses chansons à succès « Gypsy Woman » et « 100% Pure Love » dans les années 1990.
 
 "The Boy From Ipanema" est un morceau house sorti en 1996.
 
 La face A est un remix du DJ/producteur de musique house Frankie Knuckles.
 
-La face B est un remix du DJ et producteur de house music Todd Terry.
+La face B est un remix du DJ et producteur de musique house Todd Terry.
 
 #### Liste des chansons
 ```md

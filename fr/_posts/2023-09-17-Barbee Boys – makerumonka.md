@@ -10,17 +10,17 @@ tags:
 - JPop
 - 80s
 - Rock
-title: Barbee Boys – Je ne vais pas perdre.
+title: Barbee Boys – 負けるもんか
 ---
 
 
-"Barbee Boys - Loser Monka" est une chanson du groupe de rock japonais Barbee Boys. « Yeru Monka » est une chanson comportant un riff de guitare exaltant, une voix puissante, une mélodie entraînante et un son rock puissant et énergique.
+「Barbee Boys - 負けるもんか」は、日本のロックバンドであるBarbee Boys（バービーボーイズ）による楽曲です。「負けるもんか」は、爽快なギターリフ、パワフルなボーカル、そしてキャッチーなメロディ、力強くエネルギッシュなロックサウンドが特徴の楽曲です。
 
-Les paroles parlent de la force de s'en tenir à ses convictions et du courage d'affronter les difficultés, et contiennent un message positif.
+歌詞は、自分の信念を貫く強さや困難に立ち向かう勇気をテーマにしており、ポジティブなメッセージが込められています。
 
-Barbee Boys était un groupe actif dans les années 1980 et 1990 qui a gagné en popularité grâce à son style musical et ses performances uniques.
+Barbee Boysは、1980年代から1990年代にかけて活動したバンドで、その個性的な音楽スタイルとパフォーマンスで人気を博しました。
 
-Leurs chansons ont le pouvoir de donner de l'énergie et du courage aux auditeurs, et elles ont gagné le soutien des fans en transmettant des messages positifs.
+彼らの楽曲は、リスナーにエネルギーと勇気を与える力を持っており、ポジティブなメッセージを伝えることでファンの支持を集めました。
 
 #### Liste des chansons
 ```md

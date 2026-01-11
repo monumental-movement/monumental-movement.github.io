@@ -11,7 +11,7 @@ tags:
 - Thrash
 - Hardcore
 - Punk
-title: RytmihairiovAmen – La fin de l’évolution... ...est proche
+title: RytmihairiovAmen – La fin de l’évolution... ...est au coin de la rue
 ---
 
 

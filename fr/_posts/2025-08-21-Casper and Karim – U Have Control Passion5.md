@@ -16,7 +16,7 @@ title: Casper & Karim – Vous avez le contrôle / Passion5
 
 HardHouse est créé par Chris Payne (Casper), un DJ/producteur de hard house britannique, et Karim Lamouri (Karim), un DJ/producteur britannique actif dans les scènes hard house et techno.
 
-Il est sorti en 2003 sur Passion Records, un label britannique de Hard Dance spécialisé dans NRG.
+Il est sorti en 2003 sur Passion Records, un label britannique Hard Dance spécialisé dans NRG.
 
 
 #### Liste des chansons

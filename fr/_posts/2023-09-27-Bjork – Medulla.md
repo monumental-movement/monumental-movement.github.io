@@ -14,7 +14,7 @@ title: Björk – Médulla
 
 "Björk – Medúlla" est un album de l'auteur-compositeur-interprète islandais Björk. Cet album est sorti en 2004.
 
-"Medúlla" est une œuvre hautement expérimentale et innovante de Björk, connue comme un album vocal centré sur la voix humaine. Björk utilise la voix humaine et les sons du corps humain dans la plupart de ses chansons, construisant son son sans recourir aux instruments traditionnels.
+"Medúlla" est une œuvre hautement expérimentale et innovante de Björk, connue comme un album vocal centré sur la voix humaine. Björk utilise la voix humaine et les sons du corps humain dans la plupart de ses chansons, construisant son son sans s'appuyer sur des instruments traditionnels.
 
 #### Liste des chansons
 ```md

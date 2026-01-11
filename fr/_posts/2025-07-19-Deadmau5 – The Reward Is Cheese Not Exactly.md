@@ -21,7 +21,7 @@ Joel Thomas Zimmerman, également connu sous le nom de Deadmau5, est un DJ et pr
 
 A est une coproduction avec le DJ et producteur canadien Jelo.
 
-B est inclus dans le troisième album studio du groupe, « Random Album Title ».
+B est inclus dans le troisième album studio du groupe, « Random Album Title ».
 
 #### Liste des chansons
 ```md

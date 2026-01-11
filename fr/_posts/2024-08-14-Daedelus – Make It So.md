@@ -21,7 +21,7 @@ Le producteur de musique américain Alfred Weisberg-Roberts, connu sous le nom d
 La première chanson de la face A est un remix de XXXchange, ancien membre de Spank Rock.
 
 La première chanson de la face B est celle du vétéran de la musique électronique DJ Moonstarr.
-remixé par
+remixer par
 
 La deuxième chanson de la face B est un remix de Samiyam, un producteur hip-hop américain basé à Los Angeles qui travaille également avec le duo de production FLYamSAM avec Flying Lotus.
 

@@ -189,7 +189,7 @@ flowchart TD
 
 ---
 
-# 8. Grands travaux
+# 8. Travaux majeurs
 
 ##8-1. Chef-d'œuvre de Chillwave
 

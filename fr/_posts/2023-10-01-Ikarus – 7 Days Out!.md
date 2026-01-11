@@ -15,7 +15,7 @@ title: Ikarus – 7 jours d'excursion !
 
 Ikarus est un projet de Toru Shimada et est sorti en 1998 sur son label Philosomatik Records.
 
-« Ikarus – 7 jours d’excursion ! » est un disque joué par de nombreux DJ dont Danny Tenaglia, Peter Rauhofer, Cevin Fisher et Junior Vasquez.
+"Ikarus - 7 jours d'excursion!" est un disque joué par de nombreux DJ dont Danny Tenaglia, Peter Rauhofer, Cevin Fisher et Junior Vasquez.
 
 #### Liste des chansons
 ```md

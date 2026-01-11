@@ -12,8 +12,7 @@ tags:
 - Underground
 - 90s
 - 00s
-title: '[Chronique] Company Flow : L''horizon du hip-hop alternatif ouvert par l''esprit
-  DIY'
+title: 【コラム】 Company Flow：DIY精神が切り開いたオルタナティヴ・ヒップホップの地平
 ---
 
 
@@ -23,15 +22,15 @@ title: '[Chronique] Company Flow : L''horizon du hip-hop alternatif ouvert par l
 
 
 
-## Introduction——L'existence qui a brisé les « limites de l'indie »
+## はじめに——“インディの限界”を打ち破った存在
 
-Texte : mmr｜Thème : De la formation à la dissolution de Company Flow, analyse de l'œuvre, structure solide, histoire des membres, signification historique
+文：mmr｜テーマ：Company Flow の結成から解散、作品分析、サウンド構造、メンバーの歩み、歴史的意義について
 
-À New York, à la fin des années 1990, alors que le hip-hop devenait une énorme industrie commerciale, une énergie réactionnaire underground tourbillonnait autour de lui.
-Les grands groupes de musique dirigés par Bad Boy Records élargissaient leurs sons scintillants, mais du côté de la rue, un nombre croissant d'artistes recherchaient un style d'expression plus rigide et politiquement chargé.
+1990年代後半のニューヨークは、ヒップホップが商業的巨大産業へと成長する中、同時にアンダーグラウンドの反動的なエネルギーが渦巻いていた。
+Bad Boy Records を筆頭とするメジャー勢は煌びやかなサウンドを拡大していたが、それに対しストリート側では、硬質で政治性の高い表現を求めるアーティストが増加していた。
 
-**Company Flow** était au centre de cette démarche.
-Leur album **Funcrusher Plus** de 1997 est un jalon dans l'histoire du hip-hop indépendant.
+その中心に立っていたのが **Company Flow（コンパニー・フロー）** であり、
+彼らの1997年作 **『Funcrusher Plus』** はインディ・ヒップホップ史の象徴となっている。
 
 ---
 
@@ -49,200 +48,200 @@ color: #fff;
 </style>
 
 
-# Chapitre 1 : Jeune MC de Brooklyn – Le point de départ d'El-P (1990-1993)
+# 第1章：ブルックリンの若きMC——El-P の出発点（1990–1993）
 
-Le personnage principal de Company Flow, **El-P (El Producto)**, est originaire de Brooklyn, New York.
-Il a passé son enfance à une époque où le mouvement hip-hop se développait de manière explosive à New York et travaillait déjà au rap et à la production de cassettes lorsqu'il était adolescent.
+Company Flow の中心人物 **El-P（El Producto）** は、ニューヨーク・ブルックリン出身。
+ヒップホップのムーブメントがNYで爆発的に拡大していた時代に少年期を過ごし、10代の頃から既にラップ作成・自主カセット制作に取り組んでいた。
 
-Les lieux suivants étaient importants dans l’underground new-yorkais au début des années 1990.
+1990年代初頭のNYアンダーグラウンドは、以下の場が重要だった。
 
-* **Salon des paroliers**
-* **Stretch & Bobbito Show** (programme radio légendaire)
-* **Vitrine locale de New York**
-* **Réseau de distribution indépendant (disquaires, culture 12 pouces)**
+* **Lyricist Lounge**
+* **Stretch & Bobbito Show**（伝説的ラジオプログラム）
+* **NYローカルのショーケース**
+* **インディ流通ネットワーク（レコード店、12インチ文化）**
 
-El-P a également perfectionné ses compétences dans ce milieu, augmentant progressivement sa présence clandestine.
+El-P もこうした環境で腕を磨き、徐々にアンダーグラウンドの存在感を高めていく。
 
-Vers 1993, il rencontre **Bigg Jus**, qui deviendra plus tard un partenaire clé de Company Flow, et ils commencent à travailler ensemble.
+1993年頃、彼は後に Company Flow の重要パートナーとなる **Bigg Jus** と出会い、互いに協働するようになる。
 
-Ensuite, **M. Len** a rejoint le groupe en tant que DJ, complétant ainsi la structure à trois que nous connaissons aujourd'hui.
-
----
-
-# Chapitre 2 : Les premières activités de Company Flow et son esprit indépendant (1993-1995)
-
-Après avoir formé l'unité, ils n'avaient plus d'aspirations majeures,
-**Nous avons sorti de la musique à notre rythme et maintenu une attitude de protection farouche de l'autonomie des artistes**.
-
-Un symbole en est le lancement de leur propre label indépendant **Official Recordings**.
-
-En 1995, Company Flow était le premier single de 12 pouces du label.
-**"Techniques juvéniles"** sorti.
-
-Ce single est devenu un sujet brûlant parmi les auditeurs underground de New York à l'époque.
-Ce fut l’occasion pour leur nom de se répandre rapidement.
+続いて、DJとして **Mr. Len** が参加し、現在知られる3人組の体制が完成する。
 
 ---
 
-# Chapitre 3 : EP « Funcrusher » et son impact sur la scène underground new-yorkaise (1996)
+# 第2章：Company Flow の初期活動とインディ精神（1993–1995）
 
-En 1996, Company Flow a auto-publié l'EP **Funcrusher**.
+ユニット結成後、彼らはメジャー志向を持たず、
+**自分たちのペースで音楽を発表し、アーティストの自主性を死守する姿勢** を貫いた。
 
-Ce travail dépasse le cadre typique du boom-bap.
-C'était distinctif en termes de son, de politique et d'expérimentation.
+その象徴となるのが、彼ら自身のインディ・レーベル **Official Recordings** の立ち上げである。
 
----
+1995年、Company Flow は同レーベルから初の12インチシングル
+**「Juvenile Techniques」** をリリース。
 
-## Caractéristiques de l'EP « Funcrusher »
-
-### ● 1. Industriel × Boom-Bap
-
-Les battements construits par El-P ont la texture suivante.
-
-* Principalement du SP-1200, mais utilise beaucoup de « saleté »
-* bruit industriel
-* Rythme minimal mais inquiétant, tendu
-* Utilisation fréquente de « Chop » pour couper des échantillons en petits morceaux
-
-### ● 2. Le caractère unique des paroles
-
-Le rap de Bigg Jus et El-P était plus idéologique et politique que la musique de rue.
-
-Les éléments suivants sont particulièrement visibles.
-
-* Critique de l'industrie musicale corporatisée
-* Doutes sur la société de manipulation de l'information et de surveillance
-* Défendre l'autonomie des artistes
-* Flux orienté rythmique et plein de métaphores abstraites
-
-### ● 3. Symbole du succès indépendant
-
-« Funcrusher » est devenu un succès de bouche à oreille underground,
-Il parviendra aux oreilles des personnes impliquées dans le label émergent **Rawkus Records**.
+このシングルは、当時のNYアンダーグラウンドのリスナーの間で話題となり、
+彼らの名が一気に広まる契機となった。
 
 ---
 
-# Chapitre 4 : Contrat avec Rawkus Records (1997)
+# 第3章：『Funcrusher』EP と NY地下シーンへの衝撃（1996）
 
-Avec l'enthousiasme underground derrière eux, Company Flow signe avec Rawkus Records en 1997.
+1996年、Company Flow は EP **『Funcrusher』** を自主リリースする。
 
-À l'époque, Rawkus était
-
-* Mos Def
-*Talib Kweli
-* Haut et puissant
-*Shabaam Sahdeeq
-*Réflexion éternelle
-
-Il se développait rapidement en tant que centre du métro new-yorkais.
-
-Company Flow est devenu un signe important du label,
-Ils sortiront un album **Funcrusher Plus**, qui est une extension majeure de l'EP.
+この作品は、一般的なブームバップの枠から外れ、
+サウンド面・政治性・実験性の全てで異彩を放った。
 
 ---
 
-# Chapitre 5 : Analyse approfondie de « Funcrusher Plus » dans l'histoire underground (1997)
+## 『Funcrusher』EP の特徴
 
-«Funcrusher Plus» a été largement acclamé bien qu'il s'agisse d'une œuvre indépendante.
-C’est devenu une référence du hip-hop underground.
+### ● 1. Industrial × Boom-Bap
 
-Dans ce chapitre, comme texte principal de la classe de 20 000 caractères,
-**Analyse détaillée des sons/paroles/fond culturel/influences sociales**.
+El-P が構築したビートは、以下のような質感を持つ。
 
----
+* SP-1200 を中心にしながらも“汚し”を多用
+* 工業的なノイズ
+* ミニマルだが不穏、緊張感のあるリズム
+* サンプルを細かく刻む“Chop”の多用
 
-## 1. Caractéristiques musicales
+### ● 2. リリックの異質さ
 
-### ● Bruit industriel et décomposition des échantillons
+Bigg Jus と El-P のラップは、ストリート性よりも思想性、政治性が強かった。
 
-Le rythme d'El-P est remarquable des manières suivantes par rapport au boom-bap traditionnel.
+特に以下が顕著。
 
-* « Déconstruire » et remonter l'échantillon
-* Incorporer activement la distorsion
-* La caisse claire/kick est nette et sèche
-* Utilisation minimale de synthés mais textures futuristes
+* 企業化した音楽産業への批判
+* 情報操作・監視社会への疑念
+* アーティスト自治の擁護
+* 抽象的比喩に満ちたリズム重視のフロー
 
-### ● Esthétique de la dissonance
+### ● 3. インディ成功の象徴
 
-Ce qui sous-tend l'intégralité de « Funcrusher Plus » est une esthétique qui met l'accent sur la « tension » plutôt que sur le « plaisir ».
-
-### ● Le scratch du DJ M. Len
-
-Des rayures pointues sont placées tout au long du mix, renforçant la sensation dure du rythme.
+『Funcrusher』は地下で口コミ的にヒットし、
+新興レーベル **Rawkus Records** の関係者の耳に届くことになる。
 
 ---
 
-## 2. Direction des paroles
+# 第4章：Rawkus Records との契約（1997）
 
-El-P et Bigg Jus abordent fréquemment les sujets suivants :
+アンダーグラウンドの熱気を背景に、Company Flow は1997年に Rawkus Records と契約する。
 
-* Critique de l'industrie musicale corporatisée
-* Défendre l'autonomie et la créativité
-* Métaphores politiques et sociales
-* Méfiance envers la technologie et les structures de pouvoir
-* Style narratif expérimental/abstrait
+当時の Rawkus は、
 
-La chanson qui a eu une grande influence ici était « The Fire in Which You Burn ».
+* モス・デフ
+* タリブ・クウェリ
+* High & Mighty
+* Shabaam Sahdeeq
+* Reflection Eternal
+
+などを擁し “NYアンダーグラウンドの中心地” として急成長していた。
+
+Company Flow は同レーベルの重要な看板となり、
+彼らはEPを大幅に拡張したアルバム **『Funcrusher Plus』** を発表する。
 
 ---
 
-# Chapitre 6 : Analyse approfondie de « Le feu dans lequel vous brûlez »
+# 第5章：アンダーグラウンド史に残る『Funcrusher Plus』徹底分析（1997）
 
-**Enregistré : "Funcrusher Plus" (1997)**
-Cette chanson est connue comme une chanson qui symbolise le message de Company Flow.
+『Funcrusher Plus』は、インディ作品ながら広範な評価を獲得し、
+アンダーグラウンド・ヒップホップの基準点となった。
+
+本章では20,000字級本文の中心として、
+**サウンド／リリック／文化的背景／社会的影響** を詳細に分析する。
+
+---
+
+## 1. 音楽的特徴
+
+### ● 工業ノイズとサンプル分解
+
+El-P のビートは、従来のブームバップに比べ以下が顕著。
+
+* サンプルを“解体”し再構成
+* 歪みを積極的に取り入れる
+* スネア／キックが鋭く乾いている
+* シンセの使用は最小限だが質感は未来的
+
+### ● 不協和の美学
+
+『Funcrusher Plus』全体を支えるのは、“快”より“緊張”を重視した美学である。
+
+### ● DJ Mr. Len のスクラッチ
+
+ミックスの随所に鋭いスクラッチが配置され、ビートの硬質感を補強する。
+
+---
+
+## 2. リリックの方向性
+
+El-P と Bigg Jus は、次のトピックを頻繁に扱う。
+
+* 企業化した音楽業界への批判
+* 自主性とクリエイティビティの擁護
+* 政治的・社会的メタファー
+* テクノロジーと権力構造への疑念
+* 実験的・抽象的な語り口
+
+ここで特に大きな影響を残した楽曲が**「The Fire in Which You Burn」**である。
+
+---
+
+# 第6章：「The Fire in Which You Burn」徹底分析
+
+**収録：『Funcrusher Plus』(1997)**
+この曲は Company Flow のメッセージを象徴する楽曲として知られる。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rrUn2Qf3UXI?si=ez3YLxIa9fEDVal4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## ● Thème de la chanson
+## ● 曲のテーマ
 
-**Culture hacker/société de surveillance/manipulation de l'information/liberté individuelle et résistance**
-Ceux-ci sont présentés dans des métaphores complexes.
+**ハッカー文化／監視社会／情報操作／個人の自由と抵抗**
+これらが複雑な比喩で提示される。
 
-Le contenu des paroles comprend les instructions suivantes (*Uniquement les points principaux dans le cadre des faits) :
+リリックの内容は以下の方向性を含む（※事実の範囲内で要点のみ）：
 
-* Critiquer la structure de la société de surveillance
-* Méfiez-vous de la position de l'individu à l'ère de la guerre de l'information
-* Les dangers de combiner technologie et puissance
-* Perspective selon laquelle les artistes eux-mêmes peuvent être soumis à une surveillance
-* Rejet et mise en garde contre le complexe politico-industriel
+* 監視社会の構造を批判
+* 情報戦争時代の個人の立ち位置への警戒
+* テクノロジーと権力が結びつく危険性
+* アーティスト自身も監視対象になりうるという視点
+* 政治・産業の複合体に対する拒絶と警告
 
-Le choix des mots n’est pas de la propagande directe ;
-Il est composé de métaphores élaborées et d'expressions abstraites.
-
----
-
-## ● Composition sonore
-
-* Basses basses et grogneuses
-* Boucle d'échantillon inquiétante
-* Bruit de synthé intermittent
-* Percussion détaillée avec côtelette MPC
-* Un mélange de textures sympas partout
+言葉選びは直接的プロパガンダではなく、
+緻密な比喩と抽象表現で構成されている。
 
 ---
 
-## ●Importance
+## ● サウンド構成
 
-« Le feu dans lequel vous brûlez » est très acclamé pour les raisons suivantes :
-
-* Chansons représentatives qui démontrent clairement la politique de Company Flow
-* La capacité de conception sonore d'El-P est exceptionnelle.
-* Des contenus qui symbolisent le hip-hop underground de la fin des années 90
-* De nombreux éléments prototypes des œuvres ultérieures de Def Jux (Cannibal Ox, etc.) peuvent être vus.
-
-On dit que « Funcrusher Plus » a établi une « idéologie underground » autour de cette chanson.
+* 低く唸るようなベース
+* 不穏なサンプル・ループ
+* 断続的なシンセ的ノイズ
+* MPC チョップによる細かなパーカッション
+* 全体に冷たい質感のミックス
 
 ---
 
-# Chapitre 7 : Divergence avec Rawkus et retour à l'indépendance (1998-1999)
+## ● 重要性
 
-Funcrusher Plus a été un succès, mais à mesure que Rawkus élargissait sa taille et formait des alliances capitalistiques,
-Company Flow a donné la priorité au **maintien de l'autonomie des artistes**.
+「The Fire in Which You Burn」は、以下の理由で高く評価されている。
 
-Les divergences d'opinions avec le label se sont progressivement creusées,
-En 1999, ils quittent Rawkus Records.
+* Company Flow の政治性を明確に示した代表曲
+* El-P のサウンドデザイン能力の高さが顕著
+* 90年代後半のアンダーグラウンド・ヒップホップを象徴する内容
+* 後の Def Jux 作品（Cannibal Ox など）の原型要素が多数みられる
+
+この曲を中心に、『Funcrusher Plus』が“思想としてのアンダーグラウンド”を確立したと言われる。
+
+---
+
+# 第7章：Rawkus との乖離と独立への回帰（1998–1999）
+
+『Funcrusher Plus』は成功したが、Rawkus が規模拡大・資本提携を進める中で、
+Company Flow は**アーティスト自治の維持**を最優先とした。
+
+レーベルとの意見の相違は次第に大きくなり、
+1999年、彼らは Rawkus Records を離脱する。
 
 Se tenir à distance des « grands systèmes »,
 Le retour à l'indie a été un événement qui a défini l'esthétique de Company Flow.

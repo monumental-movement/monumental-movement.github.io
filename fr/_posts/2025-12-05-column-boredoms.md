@@ -11,7 +11,7 @@ tags:
 - Noise
 - Trance
 - Tribal
-title: '[Chronique] Les ennuis : la trajectoire du bâtisseur du chaos et de l''univers
+title: '[Chronique] L''ennui : la trajectoire du bâtisseur du chaos et de l''univers
   en expansion'
 ---
 
@@ -19,10 +19,10 @@ title: '[Chronique] Les ennuis : la trajectoire du bâtisseur du chaos et de l'
 
 ## Prologue : Qui étaient les Ennuis ?
 
-Texte : mmr｜Thème : Suivre l'évolution de Boredoms et comment leur forme de travail, leurs performances live et leurs unités dérivées se sont développées.
+Texte : mmr｜Thème : Suivre l'évolution de Boredoms et comment sa forme d'œuvre, ses performances live et ses unités dérivées se sont développées.
 
 Dans l'histoire de la musique japonaise, les **ennuis** occupent une position unique en tant qu'entité qui ne peut être pleinement expliquée dans aucun contexte.
-Formés à Osaka à la fin des années 1980, ils ont influencé les musiciens du monde entier, se transformant en ensembles noise, hardcore, avant-gardiste, psychédélique et plus tard rythmiques.
+Formés à Osaka à la fin des années 1980, ils ont influencé les musiciens du monde entier, se transformant en ensembles noise, hardcore, avant-garde, psychédélique et plus tard rythmiques.
 
 Parce que Boredoms transcende les frontières des genres, il ne peut pas être capturé dans un simple récit historique. Cependant, leurs activités étaient certes liées à leur époque, et en même temps déconnectées d'elle.
 
@@ -43,7 +43,7 @@ color: #fff;
 
 
 ## Chapitre 1 : Histoire de la pré-formation et strates du sous-sol d'Osaka
-Dans les années 1980, Osaka avait une culture underground unique, différente de celle de Tokyo. Un mélange de théâtres, de bâtiments abandonnés et de salles de concert a créé de nombreux lieux où les frontières entre le punk, le hardcore, le bruit et l'art de la performance étaient floues. **Yamatsuka Ai**, le membre principal de Boredoms, a recherché sa propre expression tout en s'imprégnant de cet environnement encombré.
+Dans les années 1980, Osaka avait une culture underground unique, différente de celle de Tokyo. Un mélange de théâtres, de bâtiments abandonnés et de salles de concert a créé de nombreux endroits où les frontières entre le punk, le hardcore, le bruit et l'art de la performance étaient floues. **Yamatsuka Ai**, le membre principal de Boredoms, a recherché sa propre expression tout en s'imprégnant de cet environnement encombré.
 
 Dans ses premières années, les activités d'Ai étaient fortement axées sur la performance et il pratiquait non seulement le son, mais aussi le mouvement du corps, les objets et les expressions de type collage.
 Après avoir franchi cette étape « pré-musique », **Hanatarash**, qui deviendra plus tard le prototype de Boredoms, commence à prendre forme.
@@ -144,7 +144,7 @@ Des éléments d'enregistrement sur la plage, de longs drones, des structures m�
 
 ---
 
-Ici, le nom du groupe s'écrit souvent V∞redoms, et le concept de Boredoms lui-même se transforme en un « corps créatif collectif » plutôt qu'en une unité musicale.
+Ici, le nom du groupe est souvent écrit comme V∞redoms, et le concept de Boredoms lui-même se transforme en un « corps créatif collectif » plutôt qu'en une unité musicale.
 Dans les années 2000, Boredoms a connu de nouveaux développements, y compris le nom **V∞redoms**, et le plus emblématique était l'ensemble de batterie à grande échelle qui a débuté avec le live « 7x7x7 » tenu le 7 juillet**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vjk01Wo-aEs?si=NY65yyeeoj0-m5te" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -171,7 +171,7 @@ flowchart TD
 ---
 
 ## Chapitre 5 : Activités depuis les années 2010
-Depuis les années 2010, Boredoms continue de donner des performances live par intermittence, tandis que les activités créatives de chaque membre s'approfondissent.
+Depuis les années 2010, Boredoms continue de se produire en direct par intermittence, tandis que les activités créatives de chaque membre s'approfondissent.
 En particulier, **les activités d'art visuel de Eye** et **les activités de Yoshimi avec OOIOO/SAICOBABA** se sont développées, donnant l'impression que Boredoms était plus un « projet collectif » qu'un « groupe ».
 
 ---
@@ -212,7 +212,7 @@ Dans ce chapitre, j'organiserai systématiquement les activités personnelles de
 ### 7.1 Intérêt initial
 - Collage, Manga, Art Concret
 - Performances destructrices
-- Plus intéressé par le « lieu » que par le son
+- Intéressé par le « lieu » plutôt que par le son
 
 ### 7.2 Formation du sens d'échantillonnage
 Depuis le début des années 1990, Ai utilise des platines vinyles et des cassettes comme matériaux, se spécialisant dans le « montage tactile » qui relie des fragments de son physique.
@@ -220,7 +220,7 @@ Depuis le début des années 1990, Ai utilise des platines vinyles et des casset
 ## 7.3 Inclinaison au rythme (années 2000)
 Pendant la période du bore drum, l'intérêt d'Ai s'est considérablement déplacé vers les aspects physiques du rythme, et son rôle de chef d'orchestre est devenu central.
 
-### Évolution de l'expression des yeux
+### Evolution de l'expression des yeux
 
 <div class="mermaid">
 flowchart TD

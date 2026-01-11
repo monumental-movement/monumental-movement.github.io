@@ -11,13 +11,13 @@ tags:
 - Minimal
 - Tech House
 - 00s
-title: Mark & ​​​​John – Jagging (Remixes)
+title: Mark & John – Jagging (Remixes)
 ---
 
 
-Mark & ​​​​John est un projet du DJ et producteur house suédois John Dahlbäck et Mark O'Sullivan, qui fait partie de l'unité DK7 avec Jesper Dahlbäck. John Dahlbäck et Jesper Dahlbäck sont cousins ​​​​et collaborent sous les noms de Hugg & Pepp et Pepp & Kaliber.
+Mark & Johnは、スウェーデンのDJ・ハウスプロデューサーJohn Dahlbäckと、Jesper DahlbäckとのユニットDK７として活動するMark O'Sullivanによるプロジェクト。John Dahlbäck（ジョン・ダールバック）とJesper Dahlbäck（ジェスパー・ダールバック）は従兄弟でHugg & Pepp、Pepp & Kaliber名義でコラボレーションしている。
 
-Side A est un remix du DJ et producteur de musique suédois Özgür Can. Le deuxième morceau de la face B est un remix de Tony Senghore, un producteur house suédois qui dirige des labels tels que Anonym, Gungeligung, Horehaus et Wack !.
+A面はスウェーデンのDJ・音楽プロデューサーÖzgür Canによるremix。B面２曲目はAnonym、Gungeligung、Horehaus、Wack! などのレーベルを運営するスウェディッシュハウスのプロデューサーTony Senghoreによるremix。
 
 #### Liste des chansons
 ```md

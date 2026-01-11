@@ -40,7 +40,7 @@ color: #fff;
 
 ## Chapitre 1 : Historique du label et contexte d'implantation
 
-### 1-1 Contexte des débuts de la culture vaporwave et Internet
+### 1-1 Contexte des débuts de la vaporwave et de la culture Internet
 
 La création de Vaporwave est étroitement liée à la culture des blogs de la fin des années 2000, à la culture de collecte d'images de Tumblr et à l'aube de l'ère des algorithmes de YouTube. En particulier, le traitement au ralenti excessif par Eccojams (Oneohtrix Point Never) est devenu le germe des genres ultérieurs et s'est imposé comme une « méthode de destruction du temps réel ».
 
@@ -101,7 +101,7 @@ On peut dire qu’il s’agit de techniques de reconstruction de la « matérial
 
 ### 4-1 Contexte : L'art est né à une époque d'avenir perdu
 
-Vers 2010, lorsque le sentiment d'enfermement après la crise financière et la culture d'archives d'Internet se sont chevauchés, la vaporwave est devenue un dispositif culturel qui reconstruisait « l'image future du passé ».
+Vers 2010, lorsque le sentiment d'enfermement après la crise financière et la culture d'archives d'Internet se sont superposés, la vaporwave est devenue un dispositif culturel qui reconstruisait « l'image future du passé ».
 
 ### 4-2 Sémiotique
 

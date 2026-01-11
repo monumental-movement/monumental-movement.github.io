@@ -15,7 +15,7 @@ title: Hiromi Go – Garçons et filles
 
 
 "Hiromi Go - Garçons et Filles"
-Il s'agit du premier single (première chanson) de Hiromi Go sorti en 1972.
+Il s'agit du premier single (première chanson) d'Hiromi Go sorti en 1972.
 
 Paroles – Tokiko Iwatani
 

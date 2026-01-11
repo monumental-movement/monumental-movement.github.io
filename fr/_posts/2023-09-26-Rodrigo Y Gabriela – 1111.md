@@ -18,7 +18,7 @@ Rodrigo y Gabriela est un duo de guitares mexicain.
 
 "11:11" est un album sorti par Rodrigo y Gabriela en 2009, exprimant le rythme, la mélodie et l'harmonie en utilisant uniquement leur guitare acoustique signature.
 
-Leurs chansons originales et des reprises d'autres artistes sont incluses, avec des éléments de rythmes latino-américains et de flamenco présents, ainsi que des influences du rock et du jazz. Leur style de performance unique et leur expressivité passionnée ont fait forte impression sur le public.
+Leurs chansons originales et des reprises d'autres artistes sont incluses, avec des éléments de rythmes latino-américains et de flamenco présents, ainsi que des influences du rock et du jazz. Leur style d'interprétation unique et leur expressivité passionnée ont fait forte impression sur le public.
 
 Rodrigo y Gabriela a développé un large éventail d'activités musicales et a acquis une renommée internationale.
 

@@ -25,7 +25,7 @@ title: '[Chronique] La techno allemande et la pandémie dans les années 2020 :
 ## Pandémie : Une véritable histoire de tout, du confinement à la réouverture en passant par la redéfinition de la musique
 
 
-Texte : mmr | Thème : Comment la techno allemande a changé dans les années 2020, ce qui a été perdu et ce qui a été gagné
+Texte : mmr｜Thème : Comment la techno allemande a changé dans les années 2020, qu'est-ce qui a été perdu et qu'a-t-il gagné ?
 
 
 La techno allemande des années 2020 a connu un changement sismique dramatique centré sur la **pandémie de COVID-19 (2020-2022)**.
@@ -88,16 +88,16 @@ Pour la première fois de son histoire, la ville techno de renommée mondiale a 
 
 ### Impact:
 - Tous les clubs fermés (mars 2020 à début 2021)
-- Tous fermés incluant Berghain et Trésor
+- Tous fermés y compris Berghain et Trésor
 - Les revenus du tourisme des clubs sont réduits à zéro
-- Des professions telles que les DJ, le personnel, l'éclairage et le son ont perdu leurs revenus.
+- Les professions telles que les DJ, le personnel, l'éclairage et le son ont perdu leurs revenus.
 - Aide du gouvernement avec le « Kurzarbeitegeld » (indemnité de chômage partiel)
 
 Les statistiques et les médias confirment que des dizaines de milliers de travailleurs qui dépendent des clubs comme source de revenus ont été touchés.
 
 ---
 
-# Chapitre 3 : L'ère du ligne et « United We Stream » (2020-2021)
+# Chapitre 3 : L’ère du ligne et « United We Stream » (2020-2021)
 La pandémie a poussé la culture des clubs en ligne.
 
 ## ● Lancement de « United We Stream »
@@ -114,7 +114,7 @@ Aller en ligne a bousculé le stéréotype selon lequel les clubs sont une cultu
 Cela a prouvé que la culture des clubs peut également fonctionner comme un support numérique.
 
 ## ● La musique devient introvertie à cause des DJ sets sans public
-Puisqu'il n'y a pas de plancher,
+Puisqu'il n'y a pas de sol,
 Les DJ sets se sont orientés vers les tendances suivantes :
 
 - Le BPM diminue

@@ -9,15 +9,15 @@ permalink: /fr/psycomex-mexican-trance-compilation-ep4/
 tags:
 - Trance
 - Psychedelic
-title: Compilation de transe mexicaine Psycomex EP4
+title: Psycomex Mexican Trance Compilation EP4
 ---
 
 
-"Psycomex - Mexican Trance Compilation - EP4" est une compilation EP de musique trance avec la participation de plusieurs artistes. Cet EP présente des morceaux soigneusement sélectionnés de la scène trance mexicaine, mettant en valeur la diversité et la qualité de la musique trance mexicaine.
+「Psycomex - Mexican Trance Compilation - EP4」は、複数のアーティストが参加したトランス音楽のコンピレーションEPです。このEPは、メキシコのトランスシーンから厳選されたトラックを収録しており、メキシコのトランスミュージックの多様性とクオリティを紹介しています。
 
-L'EP4 comprend des morceaux originaux d'artistes de transe mexicains. Chaque morceau présente les caractéristiques de la musique transe, notamment des lignes de basse puissantes, des mélodies émotionnelles et des rythmes dynamiques.
+EP4には、メキシコのトランスアーティストたちによるオリジナルのトラックが含まれています。各トラックは、パワフルなベースライン、エモーショナルなメロディ、ダイナミックなビートなど、トランス音楽の特徴を持っています。
 
-"Psycomex - Mexican Trance Compilation - EP4" séduira les fans de musique trance et ceux qui s'intéressent à la scène musicale mexicaine.
+「Psycomex - Mexican Trance Compilation - EP4」は、トランスミュージックのファンやメキシコの音楽シーンに興味のある人々にとって魅力的な作品です。
 
 #### Liste des chansons
 ```md

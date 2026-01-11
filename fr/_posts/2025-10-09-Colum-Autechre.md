@@ -22,7 +22,7 @@ Texte : mmr | Thème : Autechre de Sean Booth et Rob Brown. Retracer l'évolutio
 Autechre est bien plus qu'un simple duo de musique électronique.
 Leur son est à la fois mathématique et brut. Cela paraît froid et laisse une aspérité un peu humaine. Sean Booth et Rob Brown, deux jeunes hommes qui se sont rencontrés dans le nord de Manchester, se sont engagés sur la voie d'une redéfinition de la structure même du son, en utilisant le hip-hop et la curiosité de l'ingénierie comme points de départ.
 
-Au début des années 1990, Autechre se fait remarquer dans la série Intelligence Artificielle de Warp Records. Ils cherchaient un moyen de « convertir les sons mécaniques en émotion ». Sean Booth a déclaré plus tard dans une interview :
+Au début des années 1990, Autechre se démarque parmi les séries sur l'intelligence artificielle de Warp Records. Ils cherchaient un moyen de « convertir les sons mécaniques en émotion ». Sean Booth a déclaré plus tard dans une interview :
 
 > « Pour nous, la techno ne consiste pas à éliminer l'émotion, mais à l'exprimer à travers une structure. »
 
@@ -89,7 +89,7 @@ Leur musique est devenue quelque chose à vivre plutôt qu’à entendre.
 ## Chapitre 4 : La vie à l'intérieur d'un algorithme — « Confield » et « Draft 7.30 »
 
 "Confield" de 2001 était l'introduction à part entière de **Max/MSP** par Autechre.
-À partir de ce moment, ils ont adopté une méthode dans laquelle les sons étaient générés automatiquement à l’aide d’un « algorithme créé par eux-mêmes » et dans lequel les humains intervenaient.
+À partir de cette période, ils ont adopté une méthode dans laquelle les sons étaient générés automatiquement à l’aide d’un algorithme qu’ils avaient eux-mêmes créé, et dans lequel les humains intervenaient.
 Sean Booth dit : « Il s'agit moins de composer que de coordonner des événements. »
 
 "Confield" a dérouté de nombreux auditeurs. Le rythme et la mélodie n'existent plus au sens traditionnel du terme. Cependant, plus je l’écoute, plus un étrange ordre semblable à celui d’un écosystème émerge.
@@ -139,7 +139,7 @@ Même après avoir épuisé le terme IDM, Autechre continue de laisser ses « g�
 
 La musique d'Autechre n'est pas destinée à être comprise.
 Il restructure la perception de l'auditeur et élargit la notion même de son.
-Leur existence a précédé la question : « Qu'est-ce que la création humaine ? à l’ère de l’IA.
+Leur existence a précédé la question « Qu'est-ce que la création humaine ? » à l’ère de l’IA.
 
 > « Les humains utilisent peut-être des machines pour écouter des parties inconnues de leur cerveau. »
 

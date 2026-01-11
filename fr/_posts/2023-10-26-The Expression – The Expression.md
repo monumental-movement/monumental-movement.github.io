@@ -9,13 +9,13 @@ permalink: /fr/the-expression-the-expression/
 tags:
 - New-Wave
 - Rock
-title: L'expression – L'expression
+title: The Expression – The Expression
 ---
 
 
-The Expression est un groupe de synthpop rock formé à Sydney, en Australie, en 1981.
+The Expression（ザ・エクスプレッション）1981年にオーストラリア・シドニーで結成されたシンセポップ・ロックバンド。
 
-« The Expression » est un album au style pop « new wave », avec des riffs de guitare aiguisés, des synthétiseurs et un style vocal unique.
+「The Expression」は、鋭いギターリフとシンセサイザー、ユニークなボーカルスタイルが特徴で、「ニューウェーブ」ポップスタイルが前面に出たアルバムとなっている。
 
 
 #### Liste des chansons

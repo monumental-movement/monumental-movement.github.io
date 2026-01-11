@@ -13,20 +13,19 @@ tags:
 - Berlin
 - Detroit
 - Industrial
-title: '[Chronique] Le monde de la Techno Modulaire : Fusion du synthé modulaire et
-  de la techno'
+title: '【コラム】 Modular Technoの世界: モジュラーシンセとテクノの融合'
 ---
 
 
-# Qu'est-ce que la Techno Modulaire ?
+# Modular Technoとは
 
-Texte : mmr｜Thème : À propos de la scène Techno Modulaire
+文：mmr｜テーマ：Modular Techno（モジュラーシンセ×テクノ）のシーンについて
 
-**Modular Techno** est un genre de musique électronique qui combine une conception sonore centrée sur des synthétiseurs modulaires avec la structure rythmique de la techno. Particulièrement dans les performances live, il se caractérise par la capacité de l'artiste à improviser des sons et des rythmes en patchant des modules de synthétiseur et en faisant fonctionner CV/Gate en temps réel.
+**Modular Techno**は、モジュラーシンセサイザーを中心とした音響設計と、テクノのリズム構造を融合させた電子音楽ジャンルである。特にライブパフォーマンスにおいて、アーティストがシンセモジュールのパッチングやCV/Gate操作をリアルタイムで行い、音色やリズムを即興的に構築する点が特徴である。
 
-Bien que ses origines en tant que genre remontent au début des années 2000, ses éléments fondateurs sont profondément enracinés dans l'émergence des synthés modulaires analogiques dans les années 1970 et dans la formation de la techno de Détroit dans les années 1980. En raison du haut degré de liberté des synthés modulaires, il est souvent possible de développer des sons uniques qui mettent l'accent sur la texture et l'étendue spatiale du son, plutôt que de simplement jouer des morceaux techno.
+ジャンルとしての起源は2000年代初頭にさかのぼるが、その基盤となる要素は1970年代のアナログモジュラーシンセの登場、1980年代のデトロイト・テクノの形成に深く根ざしている。モジュラーシンセの自由度の高さにより、単なるテクノトラックの演奏ではなく、音のテクスチャや空間的広がりを強調した独自のサウンドが展開されることが多い。
 
-Dans son live, il manipule le rythme, la ligne de basse, les percussions et les effets de bruit dans chaque module pour créer un espace musical improvisé qui change. En conséquence, les auditeurs peuvent vivre une expérience qui ressemble davantage à « vivre une performance » qu'à « écouter un morceau ».
+ライブセットでは、リズム、ベースライン、パーカッション、ノイズエフェクトをモジュールごとに操作し、即興的に変化する音楽空間を作り上げる。そのため、リスナーは「トラックを聴く」というより「パフォーマンスを体験する」感覚に近い体験を得られる。
 
 
 ---
@@ -45,13 +44,13 @@ color: #fff;
 </style>
 
 
-# Contexte historique et origine
+# 歴史的背景と起源
 
-## Début de la techno et du synthétiseur analogique
+## 初期テクノとアナログシンセ
 
-Dans les années 1970, les synthétiseurs modulaires développés par Robert Moog, ARP et d'autres offraient de nouvelles possibilités pour la production musicale. Ces synthés étaient révolutionnaires dans la mesure où ils permettaient la connexion individuelle de modules de sources sonores, de filtres, de LFO, de générateurs d'enveloppe, etc., ainsi que la possibilité de construire librement des structures sonores.
+1970年代、ロバート・モーグ（Robert Moog）やARPなどによって開発されたモジュラーシンセサイザーは、音楽制作における新しい可能性を提示した。これらのシンセは音源モジュール、フィルター、LFO、エンベロープジェネレーターなどを個別に接続し、自由に音響構造を構築できる点で画期的であった。
 
-Au début des années 1980, Juan Atkins, Derrick May, Kevin Saunderson et d'autres ont fondé la musique électronique appelée « techno » à Détroit. La première Techno de Detroit était principalement basée sur des séquenceurs et des machines à rythmes, mais les sons chauds et les techniques de séquençage complexes propres aux synthés analogiques sont devenus un pont vers la Techno Modulaire ultérieure.
+1980年代初頭、デトロイトにおいてJuan Atkins、Derrick May、Kevin Saundersonらが「テクノ」と呼ばれる電子音楽を確立する。初期デトロイトテクノはシーケンサーとリズムマシンを主体にしていたが、アナログシンセ特有の温かみのある音色や複雑なシーケンスの手法が後のModular Technoへの橋渡しとなった。
 
 <div class="mermaid">
 graph TD
@@ -60,11 +59,11 @@ graph TD
     TechnoOrigins --> ModularTechno[Modular Technoの基盤]
 </div>
 
-## Evolution des synthés modulaires
+## モジュラーシンセの進化
 
-Dans les années 1990, des modules hybrides analogiques/numériques de Roland, Korg, Doepfer et d'autres sont apparus, abaissant les barrières liées à l'utilisation de synthétiseurs modulaires et permettant à de nombreux artistes de créer des sons expérimentaux dans leurs studios ou petits clubs.
+1990年代になると、Roland、Korg、Doepferなどからアナログ/デジタルのハイブリッドモジュールが登場し、モジュラーシンセの敷居が下がるとともに、多くのアーティストが自宅スタジオや小規模クラブで実験的な音作りを行えるようになった。
 
-Depuis 1995 notamment, le standard Eurorack proposé par Doepfer a rendu les modules compatibles et compacts, facilitant ainsi la construction d'ensembles modulaires par les particuliers. Cela conduit directement à l’expansion de la scène Modular Techno à partir des années 2000.
+特に1995年以降、Doepfer社が提唱したEurorack規格は、モジュールの互換性と小型化を実現し、個人レベルでのモジュラーセットの構築を容易にした。このことが2000年代以降のModular Technoシーンの拡大に直結する。
 
 <div class="mermaid">
 timeline
@@ -75,11 +74,11 @@ timeline
     2000 : "Modular Technoシーンの始動"
 </div>
 
-## Point de connexion à la scène
+## シーンへの接続点
 
-Au début des années 2000, les artistes qui utilisaient pleinement les synthés modulaires ont commencé à attirer l'attention sur la scène des clubs, principalement à Berlin. Surgeon, Ø [Phase], SNTS et d'autres ont créé des textures uniques avec leurs sets live combinant des modules analogiques, offrant une expérience différente des clubs techno traditionnels. Les performances dans des clubs berlinois tels que le Berghain et le Sisyphos sont reconnues comme des événements emblématiques de la Modular Techno.
+2000年代初頭、ベルリンを中心としたクラブシーンで、モジュラーシンセを駆使するアーティストたちが注目され始める。Surgeon、Ø [Phase]、SNTSなどは、アナログモジュールを組み合わせたライブセットで独自のテクスチャを生み出し、既存のテクノクラブとは異なる体験を提供した。ベルリンのBerghainやSisyphosなどのクラブでのパフォーマンスは、Modular Technoの象徴的イベントとして認知されている。
 
-De plus, la publication de vidéos de performances sur les communautés en ligne, les forums et YouTube a grandement contribué à la diffusion mondiale. Cela a conduit à un échange actif d'informations sur la technologie et les configurations des synthétiseurs modulaires, accélérant la maturation de la scène dans son ensemble.
+また、オンラインコミュニティやフォーラム、YouTubeでのパフォーマンス動画の公開も、世界的な拡散に大きく寄与した。これにより、モジュラーシンセの技術やセットアップの情報交換が活発化し、シーン全体の成熟が加速した。
 
 <div class="mermaid">
 graph LR
@@ -92,29 +91,29 @@ graph LR
 ---
 
 
-# Artistes et œuvres représentatifs
+# 代表的アーティストと作品
 
-Lorsqu'on parle du genre Modular Techno, ce qui est particulièrement important est de savoir qui utilise les synthés modulaires, comment ils sont utilisés et quel type d'œuvres et de performances ils ont utilisés pour façonner la scène. Ici, nous nous concentrerons sur des artistes représentatifs reconnus internationalement et organiserons leurs styles et leurs approches live en fonction de faits.
+Modular Technoというジャンルを語る上で、特に重要なのは「誰がどのようにモジュラーシンセを使い、どのような作品やパフォーマンスを通じてシーンを形成してきたのか」という点である。ここでは、国際的に認知されている代表的アーティストを中心に、彼らの作風やライブアプローチを事実に基づいて整理する。
 
-## Chirurgien (Anthony Child)
+## Surgeon（Anthony Child）
 
-Surgeon, d'origine britannique, est connu comme l'un des premiers artistes à introduire les synthés modulaires dans la tendance techno-industrielle. Depuis les années 2010, ses sets live sont construits autour de modules Eurorack, établissant un style caractérisé par une « génération sonore complètement improvisée » plutôt que par la lecture de pistes. Ses compositions live progressent grâce à une combinaison de changements de tonalité grâce à des changements de patch et à la génération de rythme à l'aide d'un séquenceur, permettant au public d'expérimenter les changements physiques de rythme et de bruit en temps réel.
+イギリス出身のSurgeonは、テクノ・インダストリアル系の流れの中でモジュラーシンセの導入をいち早く進めたアーティストのひとりとして知られる。2010年代以降のライブセットでは、Eurorackモジュールを中心に構築され、トラック再生ではなく「完全即興的な音響生成」を特徴としたスタイルを確立した。彼のライブ構成はパッチングの変更による音色変化と、シーケンサーによるリズム生成の組み合わせによって進行し、観客はリズムとノイズの物理的な変化をリアルタイムで体験する。
 
 ## Ø [Phase]
 
-Ø [Phase], dont le travail se concentre sur une esthétique sonore minimale et stoïque au sein de la techno, utilise activement des synthés modulaires en studio et en production live. Il se caractérise particulièrement par son approche complexe de modulation de phase et l'introduction d'éléments de type drone qui utilisent des boucles de rétroaction, et a été félicité pour donner un mouvement organique à la techno minimale.
+テクノの中でもミニマルかつストイックな音響美学を軸に活動するØ [Phase] は、スタジオ制作とライブ制作の両面でモジュラーシンセを積極的に活用している。特に複雑な位相変調的アプローチや、フィードバックループを活用したドローン的要素の導入が特徴で、ミニマルテクノの中に有機的な動きを与える点が評価されている。
 
 ## Richie Hawtin
 
-Richie Hawtin, profondément impliqué dans la techno de Détroit et la techno minimale, a également incorporé des synthés modulaires dans ses performances depuis les années 2010. Son set est un composite de mixeurs, d'effets, d'ordinateurs et de modules Eurorack, et en manipulant finement la dynamique sonore, il crée une structure plus fluide que la techno minimale traditionnelle.
+デトロイトテクノとミニマルテクノの双方に深く関与してきたRichie Hawtinも、2010年代以降のライブにおいてモジュラーシンセを組み込んだパフォーマンスを展開した。彼のセットはミキサー、エフェクター、コンピュータ、そしてEurorackモジュールの複合構成となっており、音響のダイナミクスを細かく操作することで、従来のミニマルテクノよりも流動的な構造をつくり出した。
 
 ## SNTS
 
-SNTS, connu comme un artiste très anonyme, est fortement présent dans les domaines de la dark techno et de la techno industrielle. Dans son live, il exploite pleinement la saturation analogique, les modules de distorsion, les sources de bruit, etc. pour créer un espace acoustique tridimensionnel et violent. Ce son a gagné de nombreux adeptes et a eu une forte influence sur la texture des lignes de basse et des kicks.
+匿名性の高いアーティストとして知られるSNTSは、ダークテクノ、インダストリアルテクノの領域で強い存在感を示している。ライブセットではアナログサチュレーション、ディストーションモジュール、ノイズ源などを駆使し、立体的かつ暴力的な音響空間を構築する。そのサウンドは多くのフォロワーを生み、ベースラインやキックの質感に強く影響を与えた。
 
 ---
 
-## Cartographie des artistes et du matériel
+## アーティストと機材のマッピング
 
 <div class="mermaid">
 graph TD
@@ -126,39 +125,39 @@ graph TD
 
 ---
 
-# Aspects techniques (jonction entre synthé modulaire et techno)
+# 技術的側面（モジュラーシンセとテクノの接合点）
 
-L'arrière-plan technique de Modular Techno est un mécanisme qui contrôle chaque module à l'aide du CV (Control Voltage), de la flexibilité de la structure des patchs et d'une attitude qui intègre activement « l'instabilité » propre au modulaire dans le son. Dans ce chapitre, nous résumerons comment les éléments uniques du modulaire influencent la production et la performance de la techno.
+Modular Technoの技術的背景には、モジュール同士をCV（Control Voltage）によって制御する仕組み、パッチ構造の柔軟性、そしてモジュラー特有の「不安定さ」を積極的に音響として取り入れる姿勢がある。この章では、モジュラー特有の要素がテクノの制作・演奏にどのように影響しているかを整理する。
 
-## Structure de base du synthétiseur modulaire
+## モジュラーシンセの基礎構造
 
-Les synthés modulaires génèrent du son en combinant des modules avec des fonctions telles que des sources sonores, des filtres, des enveloppes, des LFO, des VCF et des VCA, et en les connectant avec des câbles. La structure acoustique dépend entièrement de la conception de l'utilisateur et il n'y a pas de préréglages fixes. Ce point va bien avec l’approche de la techno, qui met l’accent sur l’improvisation.
+モジュラーシンセは、音源・フィルター・エンベロープ・LFO・VCF・VCAなどの機能を持つモジュールを組み合わせ、ケーブルによって接続することで音を生成する。音響構造は完全にユーザーの設計次第であり、固定的なプリセットがない。この点が即興性を重視するテクノのアプローチと相性が良い。
 
-Une caractéristique majeure de la norme Eurorack est que les modules de différents fabricants peuvent être librement combinés en standardisant la taille 3U, la largeur du module HP et les spécifications d'alimentation. Cela a été un facteur d’expansion de la culture des synthétiseurs modulaires à l’échelle mondiale depuis les années 2000.
+Eurorack規格は3Uサイズ・モジュール幅HP・電源仕様の標準化によって、各メーカーのモジュールを自由に組み合わせられる点が大きな特徴である。これが2000年代以降、世界的規模でモジュラーシンセ文化を押し広げる要因となった。
 
-## Rôle du séquenceur et du CV/Gate
+## シーケンサーとCV/Gateの役割
 
-Le rythme et le groove jouent un rôle central dans la techno. Un séquenceur modulaire contrôle les changements de hauteur et de filtrage en modifiant la valeur CV pour chaque pas, et joue également le rôle d'une machine à rythme. De plus, en synchronisant plusieurs modules à l'aide de CV/Gate, il est possible de générer des rythmes incluant des polyrythmies complexes et du caractère aléatoire.
+テクノにおいてリズムとグルーヴは中心的役割を担う。モジュラーにおけるシーケンサーは、ステップごとにCV値を変化させることでピッチやフィルタリングの変化を制御し、リズムマシン的な役割も果たす。また、CV/Gateによって複数モジュールを同期させ、複雑なポリリズムやランダム性を内包したビートを生成することが可能である。
 
-En particulier, Modular Techno utilise largement la fonction de randomisation du séquenceur et la génération de séquences stochastiques. Cela crée un rythme organique qui subit constamment des changements subtils, plutôt qu'une boucle fixe.
+特にModular Technoでは、シーケンサーのランダム化機能や確率的シーケンス生成が多用される。これによって、固定されたループではなく、常に微細な変化が続く有機的リズムが形成される。
 
-## Utiliser des filtres, des effets et des modules de bruit
+## フィルター、エフェクト、ノイズモジュールの活用
 
-Les synthés modulaires disposent d'une grande variété de filtres et d'enveloppes, qui contribuent grandement à la conception tonale de la techno. Des modules d'effets tels qu'un VCF à résonance aigre, un dossier d'onde qui crée une structure harmonique complexe, une distorsion et un peu de broyage soutiennent la texture unique de Modular Techno.
+モジュラーシンセにはフィルターやエンベロープの種類が豊富に存在し、テクノの音色デザインに深く貢献している。酸味のあるレゾナンスを持つVCF、複雑な倍音構成を生むウェーブフォルダー、ディストーションやビットクラッシャーなどのエフェクトモジュールは、Modular Techno特有の質感を支えている。
 
-Les sources de bruit et les générateurs aléatoires sont également utilisés dans la techno pour renforcer la composante d'attaque et créer des textures sonores ambiantes, créant des fluctuations accidentelles du rythme.
+またノイズ源やランダムジェネレーターは、テクノにおけるアタック成分の強化や環境音的テクスチャ生成に用いられ、リズムの中に偶発的な揺らぎを生み出す。
 
-## Construction et fonctionnement dans un live set
+## ライブセットにおける構築と操作
 
-Les sets live de Modular Techno sont très différents des sets de DJ classiques ou des spectacles live sur ordinateur. Préparation et improvisation vont de pair, car elles nécessitent une manipulation physique continue des modules.
+Modular Technoのライブセットは、通常のDJセットやコンピュータ中心のライブとは大きく異なる。モジュールを物理的に操作し続ける必要があるため、事前準備と即興演奏が密接に結びつく。
 
-Un exemple de configuration typique pour un live set ressemblerait à ceci :
+ライブセットにおける典型的構成例は以下のようになる：
 
-- Source sonore de percussion (onde sinusoïdale, bruit, module kick analogique)
-- Séquenceur de base + VCO
-- Chaine d'effets (delay, reverb, distorsion)
-- Module mixeur (ajustement en temps réel des balances de plusieurs sources sonores)
-- Module horloge (contrôle global du tempo)
+- パーカッション用音源（サイン波、ノイズ、アナログキックモジュール）
+- ベースライン用シーケンサー＋VCO
+- エフェクトチェーン（ディレイ、リバーブ、ディストーション）
+- ミキサーモジュール（複数の音源バランスをリアルタイム調整）
+- クロックモジュール（全体のテンポ統制）
 
 <div class="mermaid">
 graph LR
@@ -171,19 +170,19 @@ graph LR
     FX --> Out[最終出力]
 </div>
 
-Cette nature en temps réel est au cœur de l'attrait de Modular Techno.
+このリアルタイム性こそ、Modular Technoの魅力の中心にあると言える。
 
 ---
 
-# Scène et Culture
+# シーンと文化
 
-Le développement de la scène Modular Techno n'est pas seulement influencé par des facteurs musicaux, mais aussi par la culture club, l'esprit DIY et le développement de la communauté équipementière. Depuis les années 2000 notamment, dans les villes de musique électronique comme Berlin, Londres et Barcelone, des performances et des ateliers centrés sur les synthés modulaires ont été organisés fréquemment, permettant aux artistes et au public de partager techniques et esthétiques avec le même enthousiasme.
+Modular Technoのシーン形成には、音楽的要素だけでなく、クラブカルチャー、DIY精神、機材コミュニティの発展が深く関わっている。特に2000年代以降のベルリン、ロンドン、バルセロナなどの電子音楽都市では、モジュラーシンセを中心にしたパフォーマンスイベントやワークショップが頻繁に開催され、アーティストと観客が同じ熱量で技術や美学を共有してきた。
 
-## Connexion avec la culture des clubs centrée autour de Berlin
+## ベルリンを中心としたクラブ文化との接続
 
-Berlin a servi non seulement de plaque tournante internationale pour la techno, mais aussi de terrain d'essai pour la culture des synthés modulaires. Des clubs tels que Berghain, Tresor et Griessmuehle ont introduit un nouveau format de performance dans le contexte de la culture club, mettant en vedette des artistes modulaires dans le cadre de « live électroacoustique », qui différait des DJ sets.
+ベルリンは、テクノの国際的なハブとしてだけでなく、モジュラーシンセ文化の実験場としても機能してきた。Berghain、Tresor、Griessmuehle といったクラブでは、DJセットとは異なる「電子音響ライブ」の枠組みでモジュラー主体のアーティストが出演し、クラブカルチャーの文脈に新しいパフォーマンス形式を導入した。
 
-De plus, Superbooth (une exposition de synthétiseurs organisée chaque année à Berlin) joue un rôle décisif dans le développement de la culture modulaire. En réunissant de nombreux fabricants, artistes et créateurs et en partageant directement des informations techniques et un savoir-faire en matière de création sonore, la sophistication sonore de Modular Techno a progressé rapidement.
+また、Superbooth（毎年ベルリンで開催されるシンセサイザー展示会）は、モジュラー文化の発展に決定的な役割を果たしている。多数のメーカー、アーティスト、クリエイターが集まり、技術情報や音作りのノウハウが直接共有されることで、Modular Technoの音響的洗練が急速に進んだ。
 
 <div class="mermaid">
 graph LR
@@ -193,43 +192,43 @@ graph LR
     Superbooth --> ModularTechno
 </div>
 
-## Diffusion de la culture DIY/maker
+## DIY・メーカー文化の広がり
 
-La diffusion de la norme Eurorack a créé un environnement dans lequel le nombre de fabricants a augmenté et une variété de modules de sources sonores et d'effets ont été développés. Un certain nombre de fabricants de pointe ont vu le jour, notamment Mutable Instruments, Make Noise, Intellijel et ALM Busy Circuits, permettant aux artistes de créer des systèmes adaptés à leurs besoins musicaux.
+Eurorack規格の普及は、メーカーが増加し、多様な音源・エフェクトモジュールが開発される土壌を生み出した。Mutable Instruments、Make Noise、Intellijel、ALM Busy Circuitsなど、多数の先鋭的メーカーが登場し、アーティストは自らの音楽的ニーズに合うシステムを構築できるようになった。
 
-Cette « culture du bricolage » correspond à l'esprit DIY de la techno et est un facteur dans la formation d'une esthétique sonore complètement différente pour chaque artiste.
+この「自分で組む文化」は、テクノのDIY精神と合致し、アーティストごとにまったく異なる音響美学を形成する要因となっている。
 
 ---
 
-# Caractéristiques musicales et analyse
+# 音楽的特徴と分析
 
-Modular Techno présente plusieurs caractéristiques acoustiques et structurelles communes. Ci-dessous, nous classifierons les éléments typiques et expliquerons quelles fonctions ils jouent dans le cadre techno.
+Modular Technoには、いくつかの共通した音響的・構造的特徴が見られる。以下では代表的な要素を分類し、テクノの枠組みの中でどのような機能を果たしているか整理する。
 
-## 1. « Fluctuations » du rythme et changements stochastiques
+## 1. リズムの「揺らぎ」と確率的変化
 
-La techno traditionnelle est centrée sur un rythme 4/4 régulier. D'un autre côté, les synthés modulaires utilisent souvent des séquenceurs stochastiques qui changent de valeurs à chaque étape.
-- Un charley légèrement différent à chaque fois
-- Attaque de base aléatoire
-- Modulation qui s'écarte de la grille rythmique
-Cela ajoute un élément de « tremblement ».
+従来のテクノは、4/4の安定したビートを軸にしている。一方、モジュラーシンセではステップごとに値を変化させる確率的シーケンサーが多用されるため、  
+- 毎回微妙に違うハイハット  
+- ランダマイズされたベースのアタック  
+- リズムグリッドからズレるモジュレーション  
+といった「揺れ」の要素が加わる。
 
-Cette instabilité fait en grande partie l'attrait de Modular Techno, donnant à ses boucles rythmiques mécaniques une fraîcheur tout en gardant un côté humain.
+この不安定さはModular Technoの大きな魅力であり、人間的な質感を持ちながらも機械的リズムのループに新鮮さを与える。
 
-## 2. Utilisation active du bruit et de la texture
+## 2. ノイズとテクスチャの積極的活用
 
-L'utilisation de sources de bruit, de tensions aléatoires, de saturation et de modulation FM pour créer des surfaces sonores (textures) est particulièrement importante dans Modular Techno.
+ノイズ源、ランダム電圧、サチュレーション、FM変調などを使って音の表面（テクスチャ）を作り込む点は、Modular Technoにおいて特に重要だ。
 
-- un bruit granuleux
-- résonance métallique
-- Harmoniques irrégulières dues au feedback inter-modules
+- 砂のようなノイズ  
+- 金属的レゾナンス  
+- モジュール間フィードバックによる不規則な倍音  
 
-En les mélangeant avec la ligne de kick et de basse, une forte sensation de densité et de substance est créée.
+これらがキックやベースラインに混ざることで、強烈な密度感や物質感が生まれる。
 
-## 3. « Fluidité » de la structure
+## 3. 構造の「流動性」
 
-La techno modulaire adopte souvent une approche plus proche de la « sculpture sonore », dans laquelle l'état du son continue de changer lentement, plutôt que du développement traditionnel à 16 mesures.
+Modular Technoは、従来の16小節単位の展開よりも、音の状態がゆっくり変化し続ける「サウンドスカルプチャ（音の彫刻）」に近いアプローチをとることが多い。
 
-Les couches rythme → texture → bruit → basse transition en douceur au fil du temps. Cette structure améliore également la connectivité avec Ambient Techno, Drone et Industrial.
+リズム→テクスチャ→ノイズ→低音という層が、時間とともに滑らかに移行していく。こうした構造は、Ambient Techno、Drone、Industrialとの接続性も高めている。
 
 <div class="mermaid">
 flowchart TD
@@ -240,9 +239,9 @@ flowchart TD
 
 ---
 
-# Chronologie (détails)
+# 年表（詳細）
 
-Vous trouverez ci-dessous une chronologie du développement de Modular Techno organisée à la fois du point de vue modulaire et techno.
+Modular Technoの発展を、モジュラー側・テクノ側の両視点で整理した年表を以下に示す。
 
 <div class="mermaid">
 timeline
@@ -259,12 +258,12 @@ timeline
 
 ---
 
-# Critique/Réception des médias
+# 批評・メディアの受容
 
-Au début, la Modular Techno était considérée comme trop expérimentale et inadaptée aux clubs, mais à la fin des années 2010, les médias grand public et les critiques ont commencé à s'intéresser à sa sophistication sonore.
+Modular Technoは初期こそ「実験的すぎる」「クラブ向きではない」と捉えられることもあったが、2010年代後半になると主要メディアや評論家がその音響的洗練に注目しはじめた。
 
-- Dans les critiques, l'image sonore complexe et tridimensionnelle unique de Modular a reçu de nombreux éloges.
-- Dans le reportage en direct, la performance improvisée et physique a été mise en avant.
+- レビューでは、モジュラー独自の複雑で立体的な音像が高い評価を得た  
+- ライブレポートでは、即興性・物理性を持ったパフォーマンスが注目ポイントとされた  
 - Du point de vue des producteurs, cette nouvelle méthode de production a suscité beaucoup d'intérêt et le nombre de matériels pédagogiques et de cours a augmenté.
 
 Le passage de la « reproduction de piste » à la « génération sonore » a également influencé la théorie de l'interprétation de la musique électronique.
@@ -293,7 +292,7 @@ graph LR
 
 ---
 
-# résumé
+# まとめ
 
 La Techno Modulaire est un genre extrêmement unique et innovant formé par l'intersection de la liberté des synthés modulaires et de la structure rythmique de la techno. La technologie, la culture, le son et la performance sont étroitement liés de manière complexe et continuent d’évoluer et de se développer dans le monde entier.
 À la base de tout cela se trouve la joie la plus fondamentale de la musique électronique : « manipuler le moment où un son est créé en direct ».
@@ -335,12 +334,12 @@ Ce qui suit est une compilation de catégories d'équipements souvent utilisées
 - Ingénierie du bruit – Digitale mimétique (CV aléatoire)
 
 ## Module batterie et percussions
-- Erica Synths – Série Bassline/Drum
+- Erica Synths – Série Bassline / Drum
 - Ingénierie du bruit – Basimilus Iteritas Alter (BIA)
 - Tiptop Audio – Série de batterie 808/909
 -Jomox-ModBase 09
 
-## Effets (Délai / Réverbération / Distorsion)
+## Effets (Delay / Reverb / Distorsion)
 - Strymon – Magnéto
 - Erica Synths – Trou noir DSP
 - Ingénierie du bruit – Desmodus Versio

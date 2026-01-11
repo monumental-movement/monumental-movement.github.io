@@ -145,7 +145,7 @@ C’est là la sensibilité d’une nouvelle ère.
 
 ### 5-2. « Réensauvagement » de la pop
 Après « brat », les artistes lâchent leurs micros.
-Enregistrement improvisé avec smartphone,
+Enregistrez de manière impromptue avec votre smartphone,
 J'ai commencé à télécharger des chansons inachevées.
 Ce qu’ils ont tous en commun, c’est l’attitude de « laisser les choses telles qu’elles sont ».
 La pop redevient sauvage.
@@ -157,7 +157,7 @@ C'est aussi une tentative de retour au « rythme humain ».
 ## 6. Le futur de l'imperfection ─ Vers une nouvelle réalité
 
 Nous sommes enfin sur le point d’être libérés des chaînes de la « perfection ».
-En dehors du monde organisé par les algorithmes,
+En dehors du monde créé par les algorithmes,
 Les erreurs, les distorsions et les obscurités brillent à nouveau.
 
 C'est une évolution, pas une régression.

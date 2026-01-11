@@ -9,13 +9,13 @@ permalink: /fr/april-wine-the-nature-of-the-beast/
 tags:
 - Rock
 - Hard Rock
-title: Vin d'avril – La nature de la bête
+title: April Wine – The Nature Of The Beast
 ---
 
 
-"The Nature Of The Beast" est un album sorti par le groupe de rock canadien April Wine en 1981. Cet album est hautement considéré comme l'un des chefs-d'œuvre du groupe, et en particulier, "Just Between You and Me" et "Sign of the Gypsy Queen" ont connu un succès commercial et sont toujours célèbres comme les chansons emblématiques d'April Wine.
+「The Nature Of The Beast」は、カナダのロックバンドApril Wineが1981年にリリースしたアルバム。このアルバムは、バンドの代表作の一つとして高く評価されており、特に「Just Between You and Me」と「Sign of the Gypsy Queen」は、商業的にも成功を収め今でもエイプリル・ワインの代表曲として有名。
 
-Le succès de l'album a accru le profil international du groupe et en a fait un élément important de la scène rock canadienne.
+このアルバムの成功により、バンドは国際的な知名度を高め、カナダのロックシーンで重要な位置を占めることになった。
 
 #### Liste des chansons
 ```md

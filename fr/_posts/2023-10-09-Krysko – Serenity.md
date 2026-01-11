@@ -9,13 +9,13 @@ permalink: /fr/krysko-serenity/
 tags:
 - Drum n Bass
 - Rare
-title: Krysko – Sérénité
+title: Krysko – Serenity
 ---
 
 
-Krysko est un DJ qui a effectué des résidences au Redlight et au Warehouse Project au Royaume-Uni, et est soutenu et respecté par de nombreux fans de musique dance.
+UKのThe RedlightやThe Warehouse Projectでレジデントを務め、多くダンスミュージックファンに支持され尊敬されているDJ、Krysko（クリスコ）。
 
-"Serenity" est un morceau de jungle masterisé par le légendaire ingénieur de mixage Mike Marsh à The Exchange à Londres et sorti sur le label britannique Which que ce soit en 1994.
+「Serenity」は、ロンドンのThe Exchangeで伝説的なミキシングエンジニアとして知られているMike Marsh氏によってマスタリングされ、1994年にUKレーベルWhatever からリリースされたジャングルトラック。
 
 #### Liste des chansons
 ```md

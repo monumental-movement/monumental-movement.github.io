@@ -11,13 +11,13 @@ tags:
 - House
 - Bleep
 - 90s
-title: Monsieur Lundi – Avenir
+title: Mr Monday – Future
 ---
 
 
-«Future» est sorti en 1990 sur le tout nouveau label de Judge Jules et Roy The Roache, Elevation Inc Recordings.
+「Future」 は、1990年にJudge JulesとRoy The Roacheが立ち上げたばかりのレーベル、Elevation Inc Recordings からリリースされた。
 
-Bien que cette chanson ait attiré l'attention en tant qu'hymne méga-rave, seul un petit nombre d'exemplaires a été vendu dans les magasins en raison des problèmes liés au démarrage du label et à la faillite de la société de distribution. En conséquence, il est devenu un disque rare parmi les DJ, et des DJ comme Tony Humphries ont continué à le jouer à la fin de leurs sets pendant de nombreuses années, consolidant ainsi son statut de classique.
+この曲は メガ・レイヴ・アンセムとして注目されたものの、レーベルの立ち上げに伴うトラブルや流通会社の倒産が重なり、店頭に並んだ枚数はごくわずか。そのためDJの間で入手困難なレア盤となり、Tony Humphries(トニー・ハンフリーズ)のようなDJが長年にわたってセットの最後にかけ続けたことで、クラシックとして不動の地位を築くことになった。
 
 #### Liste des chansons
 ```md

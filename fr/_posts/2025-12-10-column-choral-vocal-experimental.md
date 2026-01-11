@@ -39,7 +39,7 @@ color: #fff;
 }
 </style>
 
-# 1. Présentation
+# 1. Introduction
 
 L’instrument de musique le plus primitif de l’histoire de l’humanité est la voix, et l’expression collaborative de plusieurs personnes par la voix s’est développée en étroite collaboration avec les rituels religieux et les structures communautaires.
 Cependant, l'image moderne du « chœur = harmonie disciplinée et homogène » n'est en réalité qu'un ensemble de valeurs devenues dominantes au cours d'une période limitée du 19e au 20e siècle.
@@ -80,7 +80,7 @@ Ces œuvres marquent un tournant dans le traitement du chœur comme « une subst
 
 La musique spectrale, qui s'est développée principalement à Paris, mettait l'accent sur la structure harmonique de la voix, les phénomènes de résonance et les changements dynamiques du timbre.
 
-Exemple typique :
+代表例：
 
 * Gérard Grisée
 *Tristan Murail
@@ -165,11 +165,11 @@ L'analyse spectrale électroacoustique a été introduite, permettant une constr
 ##4-5. Bruit de voix
 
 * Allongement des consonnes
-* Utilisation de bruits respiratoires
+* Utilisation des bruits respiratoires
 * Onomatopée/bourdonnement/chuchotement
 Une technique qui utilise activement les voix sans hauteur comme matériau musical.
 
-##4-6. Traitement électronique/spatialisation
+## 4-6. Traitement électronique/spatialisation
 
 Des expériences récentes utilisent parfois le traitement en temps réel et la diffusion multicanal.
 
@@ -297,7 +297,7 @@ C’est un exemple typique de la transformation de la voix en instrument.
 
 # 9. Tendances au 21ème siècle
 
-Modern Vocal Experimental a réalisé de nouveaux progrès dans les domaines suivants.
+Modern Vocal Experimental a encore progressé dans les domaines suivants.
 
 ##9-1. Intégration de la voix et du son électronique
 
@@ -322,7 +322,7 @@ Les collaborations avec des compagnies de danse et des arts du spectacle intégr
 # 10. Résumé
 
 Choral / Vocal Experimental ne considère pas la voix comme un ensemble de hauteurs, mais plutôt
-**C'est un domaine qui traite de manière globale les phénomènes acoustiques, spatiaux, physiques et sociaux**.
+**C'est un domaine qui traite de manière globale des phénomènes acoustiques, spatiaux, physiques et sociaux**.
 
 Les possibilités vocales démontrées par Ligeti et Whittaker ont été encore élargies par les compositeurs modernes.
 La voix est aujourd’hui le matériau acoustique le plus flexible et le plus complexe de la musique.

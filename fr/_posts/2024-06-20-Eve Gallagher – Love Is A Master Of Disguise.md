@@ -16,7 +16,7 @@ title: Eve Gallagher - L'amour est un maître du déguisement
 
 Eve Gallagher est une chanteuse de house music britannique.
 
-"Love Is A Master Of Disguise" est le deuxième single, produit par Mark Brydon. Frankie Knuckles a participé en tant que producteur pour le premier morceau de la face A et de la face B, et le troisième morceau de la face B a été remixé par Steve Anderson du groupe de production Brothers In Rhythm.
+"Love Is A Master Of Disguise" est le deuxième single, produit par Mark Brydon. Frankie Knuckles a participé en tant que producteur du premier morceau de la face A et de la face B, et le troisième morceau de la face B a été remixé par Steve Anderson du groupe de production Brothers In Rhythm.
 
 #### Liste des chansons
 ```md

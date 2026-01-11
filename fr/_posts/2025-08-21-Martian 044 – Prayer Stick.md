@@ -10,13 +10,13 @@ tags:
 - Techno
 - Electro
 - 90s
-title: Martien 044 – Bâton de prière
+title: Martian 044 – Prayer Stick
 ---
 
 
-Martian 044 est le nom du projet de Gerald Foster Mitchell, un pilier de la scène techno et house de Détroit. Ce nom vient du numéro de version 044 = "Hardlife" d'Underground Resistance (UR).
+Martian 044 は、デトロイトテクノ・ハウスシーンの重鎮Gerald Foster Mitchellのプロジェクト名。この名義はUnderground Resistance(UR)のリリース番号044 = 「Hardlife」に由来している。
 
-"Prayer Stick" est une chanson Techno/Electro publiée par le sous-label Red Planet d'Underground Resistance (distribué par Submerge) en 1998. Le label Hitechfunk Productions de Chuck Gibson est impliqué dans la production.
+「Prayer Stick」は、1998年にUnderground ResistanceのサブレーベルRed Planet(配給はSubmerge)からリリースされたTechno ／Electro。制作にはChuck Gibson のレーベルHitechfunk Productions が関わっている。
 
 
 #### Liste des chansons

@@ -52,7 +52,7 @@ Le mixage/mastering automatique, la génération d'IA, le partage de projets clo
 
 ### Origine et débuts (ère de la bande vers l'analogique)
 
-L'origine du DTM est l'acte lui-même de « créer une œuvre en enregistrant et en éditant du son ». Les expériences avec des supports physiques, tels que le montage sur bande (couper et coller), le bouclage de bande (création de sons répétés), l'inversion de bande et la manipulation de vitesse, ont façonné la musique électronique au milieu du XXe siècle. C’était une époque où les grands équipements de studio et les ingénieurs qualifiés étaient au centre des préoccupations.
+L'origine du DTM est l'acte lui-même de « créer une œuvre en enregistrant et en éditant du son ». Les expériences avec des supports physiques, tels que le montage sur bande (couper et coller), le bouclage de bande (création de sons répétés), l'inversion de bande et la manipulation de vitesse, ont façonné la musique électronique au milieu du XXe siècle. C’était une époque où les grands équipements de studio et les ingénieurs qualifiés étaient au centre des préoccupations.
 
 <hr>
 
@@ -64,7 +64,7 @@ MIDI (Musical Instrument Digital Interface) est une norme permettant d'échanger
 
 ### L'essor des ordinateurs et des logiciels (années 1990)
 
-Les améliorations des performances informatiques et l'utilisation pratique de l'enregistrement sur disque dur ont rendu possible l'édition numérique des formes d'onde audio. Pro Tools d'Avid (à l'époque Digidesign) a activé numériquement les flux de travail d'enregistrement et de montage professionnels et est devenu la norme de l'industrie pour la production de films, de diffusion et de musique. Dans le même temps, les séquenceurs logiciels/DAW complets tels que Cubase de Steinberg et Logic d'Emagic (acquis plus tard par Apple) sont devenus populaires. De plus, le plug-in VST (Virtual Studio Technology) proposé par Steinberg a élargi l'écosystème en fournissant un mécanisme permettant à des tiers de développer des sources sonores et des effets logiciels.
+Les améliorations des performances informatiques et l'utilisation pratique de l'enregistrement sur disque dur ont rendu possible l'édition numérique des formes d'onde audio. Pro Tools d'Avid (à l'époque Digidesign) a permis des flux de travail d'enregistrement et de montage professionnels et est devenu la norme de l'industrie pour la production de films, de diffusion et de musique. Dans le même temps, les séquenceurs logiciels/DAW complets tels que Cubase de Steinberg et Logic d'Emagic (acquis plus tard par Apple) sont devenus populaires. De plus, le plug-in VST (Virtual Studio Technology) proposé par Steinberg a élargi l'écosystème en fournissant un mécanisme permettant à des tiers de développer des sources sonores et des effets logiciels.
 
 <hr>
 
@@ -76,7 +76,7 @@ Avec l’amélioration des performances des PC personnels, la multiplication des
 
 ### Années 2010 et au-delà : diversification, improvisation et cloud computing
 
-Les DAW ont évolué d'outils destinés simplement à « enregistrer, arranger et mixer » à des fonctionnalités multifonctionnelles telles que les performances en direct (Ableton Live), la collaboration en temps réel, la liaison vidéo et l'intégration modulaire. Les options d'utilisation s'étendent encore, notamment les applications mobiles/DAW pour iPad, la synchronisation de projets cloud et l'introduction de modèles d'abonnement.
+Les DAW ont évolué d'outils destinés simplement à « enregistrer, arranger et mixer » à des fonctionnalités multifonctions telles que les performances en direct (Ableton Live), la collaboration en temps réel, la liaison vidéo et l'intégration modulaire. Les options d'utilisation s'étendent encore, notamment les applications mobiles/DAW pour iPad, la synchronisation de projets cloud et l'introduction de modèles d'abonnement.
 
 <hr>
 

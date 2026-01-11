@@ -10,17 +10,17 @@ tags:
 - House
 - Hard House
 - UK House
-title: Bleu bébé – Trop fort
+title: Baby Blue – Too Loud
 ---
 
 
-Baby Blue est un duo britannique de musique dance composé de Darren Stokes et Lyndsey Edwards.
+Baby Blueは、Darren Stokes（ダレン・ストークス）とLyndsey Edwards.（リンジー・エドワーズ）によるUKダンスミュージックデュオ。
 
-Également actif sous un autre nom, Tin Tin Out.
+別名義で、Tin Tin Outとしても活躍した。
 
-La première chanson de la face B est un remix de Trevor Rockcliffe, actif dans des festivals tels que Love Parade, Dance Planet et Tribal Gathering, ainsi que dans des clubs de renommée mondiale.
+B面１曲目は、Love Parade, Dance Planet, Tribal Gatheringなどのフェスや世界的に有名なクラブで活躍するTrevor Rockcliffeによるremix。
 
-La deuxième chanson de la face B est un remix de Dave Aude, qui a remixé des artistes tels que Coldplay, Katy Perry, Rihanna, Lady Gaga, Pet Shop Boys et Beyoncé, et a remporté le Grammy Award du meilleur enregistrement de remix dans la catégorie non classique en 2016 pour son remix de "Uptown Funk" de Mark Ronson avec Bruno Mars.
+B面２曲目は、コールドプレイ、ケイティ・ペリー、リアーナ、レディー・ガガ、ペット・ショップ・ボーイズ、ビヨンセなどのremixを手がけ、2016年にブルーノ・マーズをフィーチャーしたマーク・ロンソンの「Uptown Funk」のリミックスでグラミー賞の非クラシック部門最優秀リミックス・レコーディング賞を受賞したDave Aude（デイヴ・オード）によるremix。
 
 #### Liste des chansons
 ```md

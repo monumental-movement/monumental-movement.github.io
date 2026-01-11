@@ -17,9 +17,9 @@ title: Gloria Gaynor – Hier soir
 
 Les première et deuxième chansons de la face A sont des remix du DJ/producteur italien HOUSE Andrea T. Mendoza et du duo de production T&F composé de Mauro Ferrucci et Frankie Tamburo.
 
-Le troisième morceau de la face A est un remix de l'écrivain et compositeur américain synth pop Dave Sears.
+Le troisième morceau de la face A est un remix de l'écrivain et compositeur synth pop américain Dave Sears.
 
-La face B est un remix du musicien, auteur-compositeur, DJ, directeur musical et arrangeur britannique Steve Anderson.
+B面は、イギリスのミュージシャン、ソングライター、DJ、音楽監督、アレンジャーSteve Anderson(スティーヴ・アンダーソン)によるremix。
 
 #### Liste des chansons
 ```md

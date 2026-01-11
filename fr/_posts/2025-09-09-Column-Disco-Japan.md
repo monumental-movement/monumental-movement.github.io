@@ -25,13 +25,13 @@ title: '[Chronique] De l''intersection du disco et de la culture japonaise jusqu
 Texte : mmr｜Thème : Réception et développement unique au Japon du disco, qui s'est développé principalement aux États-Unis dans les années 1970
 
 
-Le disco est né aux États-Unis dans les années 1970 et a explosé avec la culture urbaine, le sentiment de libération parmi les communautés noires et latines et les progrès technologiques. À peu près à la même époque, « l’engouement new-yorkais » a été importé au Japon et s’est répandu dans les centres de vie nocturne tels que Roppongi, Akasaka et Ginza. Dans cet article, nous retracerons la relation entre le disco et la culture japonaise par décennie et organiserons les chefs-d'œuvre représentatifs, l'équipement, l'histoire du club et les pistes recommandées.
+Le disco est né aux États-Unis dans les années 1970 et a explosé avec la culture urbaine, le sentiment de libération parmi les communautés noires et latines et les progrès technologiques. À peu près à la même époque, « l’engouement new-yorkais » a été importé au Japon et s’est répandu dans les centres de vie nocturne tels que Roppongi, Akasaka et Ginza. Dans cet article, nous retracerons la relation entre le disco et la culture japonaise par décennie, et organiserons les disques, l'équipement, l'histoire du club et les morceaux recommandés les plus célèbres.
 
 ---
 
 ## Années 1970 — Naissance du disco et son introduction au Japon
 - **Arrière-plan**
-Établi aux États-Unis comme carrefour des cultures gay, latine et afro-américaine. Après l'Expo d'Osaka (1970), la « discothèque » s'est répandue avec l'introduction rapide de la culture occidentale, Roppongi « Chianti » et Akasaka « Mugen » devenant symboliques.
+Établi aux États-Unis comme carrefour des cultures gay, latine et afro-américaine. Après l'Expo d'Osaka (1970), la « discothèque » s'est répandue au milieu de l'introduction rapide de la culture occidentale, Roppongi « Chianti » et Akasaka « Mugen » devenant symboliques.
 
 - **Chefs-d'œuvre représentatifs (à l'étranger)**
 -Donna Summer — *J'adore t'aimer bébé* (1975)
@@ -112,7 +112,7 @@ Formation des fondements de la « fan dance culture » qui s'est poursuivie avec
 - **Club/discothèque représentatif du Japon**
 -Roppongi "Maharaja"
 - Roppongi "Roi et Reine"
-- Osaka "Maharaja Exotique"
+- Osaka "Maharaja exotique"
 
 ### 10 morceaux recommandés (années 1980)
 
@@ -259,7 +259,7 @@ Tatsuro Yamashita, Taeko Onuki, Mariya Takeuchi et d'autres ont été redécouve
 | Je ne peux pas arrêter le sentiment | Justin Timberlake | Discothèque Pop |
 | La Baie | Métronomie | Nu-Disco Indépendant |
 | DANSE. | Justice | Électro x Disco |
-| Je me sens mieux | Puce chaude | Orienté électropop |
+| Je me sens mieux | Puce chaude | Électro-pop |
 | Feux rouges | Liens | Intersection de l'EDM et du Nu-Disco |
 
 

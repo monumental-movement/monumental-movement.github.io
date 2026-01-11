@@ -39,7 +39,7 @@ color: #fff;
 ## Années 1970-1980 : La naissance du hip-hop et ses débuts dorés
 
 * **Producteurs/DJ représentatifs** : DJ Kool Herc, Grandmaster Flash, Afrika Bambaataa
-* **Majors labels** : Sugar Hill Records, Def Jam (fin des années 80)
+* **Majors labels** : Sugar Hill Records, Def Jam (fin des années 80)
 * **Contexte culturel** : né de la culture festive des communautés noires et latino-américaines du Bronx. Le rap, le DJing, le breakdance et le graffiti se sont réunis pour former une culture hip-hop.
 * **Vidéo/Mode** : MV à petit budget, Adidas, Kangol et les chaînes en or sont symboliques.
 
@@ -153,8 +153,8 @@ color: #fff;
 
 ## résumé
 
-Le hip-hop de la côte Est est né des fêtes de quartier du Bronx, a connu un succès commercial dans les années 80 et a atteint son âge d'or dans les années 90. Il se caractérise par des paroles qui combinent critique sociale et réalisme de la rue, ainsi que par des échantillonnages détaillés de rythmes, et a influencé la vidéo, la mode, le cinéma et même l'expression littéraire.
-Depuis les années 2000, il y a eu des succès majeurs comme Jay-Z et 50 Cent, et des artistes conscients comme Mos Def et Talib Kweli. Depuis les années 2010, New York attire à nouveau l'attention grâce au renouveau de Griselda et Nas, et le hip hop dur et lyrique typique de la côte Est est hérité.
+Le hip-hop de la côte Est est né des fêtes de quartier du Bronx, a connu un succès commercial dans les années 80 et a atteint son âge d'or dans les années 90. Il se caractérise par des paroles qui combinent critique sociale et réalisme de la rue, ainsi que par des rythmes d'échantillonnage détaillés, et a influencé la vidéo, la mode, le cinéma et même l'expression littéraire.
+Depuis les années 2000, on y trouve des succès majeurs comme Jay-Z et 50 Cent, et des artistes conscients comme Mos Def et Talib Kweli. Depuis les années 2010, New York attire à nouveau l'attention grâce au renouveau de Griselda et Nas, et le hip hop dur et lyrique typique de la côte Est est hérité.
 
 ---
 

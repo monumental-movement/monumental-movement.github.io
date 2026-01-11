@@ -15,7 +15,7 @@ title: Le Mack Feat. Kysia Bostic – Je te veux
 
 Deuxième single de Mack, c'est un classique de la house qui mélange les saveurs de la house de Chicago et de la techno de Détroit avec le garage new-yorkais.
 
-Il s’agit d’une version incontournable que l’on peut parfois entendre sur les compilations de classiques house.
+Il s'agit d'une version incontournable que l'on peut parfois entendre sur les compilations de classiques house.
 
 #### Liste des chansons
 ```md

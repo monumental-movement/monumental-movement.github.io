@@ -89,7 +89,7 @@ flowchart TD
 - Avec le succès de « Dookie » de Green Day (1994) et de « Smash » de The Offspring (1994), Melocore a acquis une reconnaissance commerciale.
 - Distribution internationale de Fat Wreck Chords, un label indépendant d'Epitaph Records
 - Analyse des albums :
-- Green Day « Dookie » : axé sur la mélodie, conserve l'énergie punk
+- Green Day « Dookie » : Mélodie, conserve l'énergie punk
 - NOFX « Punk in Drublic » : Satire sociale, équilibre entre mélodie et vitesse
 
 ### 2.3 Culture live américaine Melocore
@@ -107,24 +107,24 @@ flowchart TD
 - En 1995, « Growing Up » crée un boom au Japon.
 - Signé avec Fat Wreck Chords en 1997, a fait une tournée avec succès en Amérique et a acquis une renommée internationale.
 - Caractéristiques : chansons courtes et rapides, mélodies pop, paroles jeunes
-- Chansons représentatives : « Stay Gold », « Summer of Love »
+- Chansons représentatives : « Stay Gold », « Summer of Love »
 
-#### ELLEGARDEN (créé en 1998)
-- Influencé par le mélocore américain, utilise habilement le japonais et l'anglais dans les paroles
-- Popularité accrue avec le premier album majeur « Bring Your Board !! » (2001)
-- Chansons représentatives : « Marry Me », « My Favorite Song »
+#### ELLEGARDEN (1998結成)
+- メロコアのアメリカ影響を受けつつ、歌詞に日本語と英語を巧みに使い分ける
+- メジャーデビューアルバム『Bring Your Board!!』(2001)で人気拡大
+- 代表曲：”Marry Me”, ”My Favorite Song”
 
-#### BRAHMAN (formé en 1995)
-- Existence intermédiaire entre hardcore et merocore
-- Passion et paroles philosophiques uniques au Japon
-- Chansons représentatives : « The Silent Cry », « A Man of Spirit »
+#### BRAHMAN (1995結成)
+- ハードコアとメロコアの中間的存在
+- 日本特有の情念と哲学的歌詞
+- 代表曲：”The Silent Cry”, ”A Man of Spirit”
 
 ---
 
-### 3.2 Scène et labels mélocore japonais
-- Pizza of Death Records : Activités centrées sur le Hi-Standard
-- Performances régulières dans de petits live house
-- De jeunes groupes (TOTALFAT, SHANK) sont actifs au Japon et à l'étranger
+### 3.2 日本メロコアのシーンとレーベル
+- Pizza of Death Records: Hi-Standardを中心とした活動
+- 小規模ライブハウスでの定期公演
+- 若手バンド(TOTALFAT, SHANK)が国内外で活動
 
 <div class="mermaid">
 flowchart TD
@@ -136,80 +136,80 @@ flowchart TD
 
 ---
 
-## 4. Chronologie : Événements importants et chefs-d'œuvre du mélocore japonais et américain
+## 4. 年表：日米メロコア重要イベント・名盤
 
-### Amérique
+### アメリカ
 
-| Année | Événement | Groupe/Album |
+| 年 | イベント | バンド/アルバム |
 |----|----------|----------------|
-| 1978 | Explosion Punk | Kennedys morts, drapeau noir |
-| 1981 | Descendants formés | — |
-| 1988 | « Souffrir » publié | Mauvaise religion |
-| 1991 | « Côtelé » | NOFX |
-| 1994 | Renaissance punk | Journée verte, la progéniture |
-| 1995 | Fondation de Fat Wreck Chords | Centré sur NOFX |
-| 1999 | Succès commercial de Melocore | Blink-182, la progéniture |
+| 1978 | Punk爆発 | Dead Kennedys, Black Flag |
+| 1981 | Descendents結成 | — |
+| 1988 | 『Suffer』リリース | Bad Religion |
+| 1991 | 『Ribbed』 | NOFX |
+| 1994 | Punk Revival | Green Day, The Offspring |
+| 1995 | Fat Wreck Chords設立 | NOFX中心 |
+| 1999 | メロコア商業的成功 | Blink-182, The Offspring |
 
 ---
 
-### Japon
+### 日本
 
-| Année | Événement | Groupe/Album |
+| 年 | イベント | バンド/アルバム |
 |----|----------|----------------|
-| 1991 | Salut-Standard formé | — |
-| 1995 | « Grandir » | Salut-Standard |
-| 1997 | Boom du mélocore japonais | ELLEGARDEN formé |
-| 1998 | Tournée américaine haut de gamme | Contrat d'accords Fat Wreck |
-| 2001 | Débuts majeurs | ELLEGARDEN « Apportez votre planche ! » |
+| 1991 | Hi-Standard結成 | — |
+| 1995 | 『Growing Up』 | Hi-Standard |
+| 1997 | 日本メロコアブーム | ELLEGARDEN結成 |
+| 1998 | Hi-Standardアメリカツアー | Fat Wreck Chords契約 |
+| 2001 | メジャーデビュー | ELLEGARDEN 『Bring Your Board!!』 |
 
 ---
 
-## 5. Comparaison musicale du mélocore japonais et américain
+## 5. 日米メロコアの音楽的比較
 
-| Article | Japon | Amérique |
+| 項目 | 日本 | アメリカ |
 |------|------|----------|
-| Thème lyrique | Jeunesse/Vie quotidienne/Amitié | Politique/Société/Conflit personnel |
-| Technologie | Progressions d'accords et mélodies avancées | L'accent est mis sur la vitesse et l'énergie vive |
-| Structure de la chanson | Chanson courte de 2-3 minutes | 2-4 minutes, équilibre entre vitesse et mélodie |
-| Étiquette | Pizza de la mort, BMG | Accords Fat Wreck, Épitaphe |
+| 歌詞テーマ | 青春・日常・友情 | 政治・社会・個人的葛藤 |
+| 技術 | 高度なコード進行・メロディ | スピードとライブエネルギー重視 |
+| 曲構成 | 2-3分の短い楽曲 | 2-4分、速さとメロディ両立 |
+| レーベル | Pizza of Death, BMG | Fat Wreck Chords, Epitaph |
 
 ---
 
-## 6. Échange international et influence de Melocore
+## 6. メロコアの国際交流と影響
 
-- Tournée à l'étranger Hi-Standard et contrat Fat Wreck Chords
-- Des groupes japonais participent à des festivals américains (Warped Tour, etc.)
-- Échange international via SNS et YouTube à l'ère d'Internet
-- Influence sur les jeunes groupes : TOTALFAT, SHANK, dustbox
-
----
-
-## 7. Sous-genres Melocore et évolution
-
-- Fusion avec le pop punk
-- Screamo melocore (Une journée inoubliable, etc.)
-- Au Japon, l'accent est mis sur la mélodie tout en conservant des paroles jeunes/quotidiennes.
-- Aux États-Unis, les messages politiques et les performances live puissantes sont au centre des préoccupations
+- Hi-Standardの海外ツアーとFat Wreck Chords契約
+- 日本バンドがアメリカフェス参加（Warped Tourなど）
+- インターネット時代のSNSやYouTubeによる国際交流
+- 若手バンドへの影響：TOTALFAT, SHANK, dustbox
 
 ---
 
-## 8. Impact social
+## 7. メロコアのサブジャンルと進化
 
-- Pénétration dans la culture des jeunes (mode/lifestyle)
-- Héritage de l'esprit DIY et de la culture live house
-- Développement de la communauté à travers des festivals nationaux et internationaux (Punk Spring, Warped Tour, etc.)
-- Sert de modèle pour l'éducation musicale et les activités de groupe
-
----
-
-## 9. Conclusion
-
-Bien que le mélocore japonais et américain aient des origines culturelles différentes, ils ont gagné un soutien international en raison de leur passion commune et de l'importance de la mélodie.
-Les scènes des deux pays continueront de s’influencer mutuellement et d’être transmises aux jeunes générations.
+- ポップパンクとの融合
+- スクリーモ・メロコア（A Day to Rememberなど）
+- 日本では青春・日常系の歌詞を保持しつつメロディ重視
+- アメリカでは政治的メッセージ、ライブでの迫力が中心
 
 ---
 
-## 10. Schéma conceptuel : Influence mutuelle entre le Japon et les États-Unis Melocore
+## 8. 社会的影響
+
+- 若者文化への浸透（ファッション・ライフスタイル）
+- DIY精神とライブハウス文化の継承
+- 国内外フェス（Punk Spring, Warped Tourなど）によるコミュニティ形成
+- 音楽教育・バンド活動の手本となる
+
+---
+
+## 9. 結論
+
+日本とアメリカのメロコアは、文化的背景は異なるが、共通する「熱量」と「メロディの重要性」により国際的に支持されている。  
+今後も両国のシーンは相互に影響を与え合いながら、若手世代へ受け継がれていくだろう。
+
+---
+
+## 10. 概念図：日米メロコアの相互影響
 
 <div class="mermaid">
 graph LR

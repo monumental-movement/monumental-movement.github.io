@@ -18,7 +18,7 @@ Il y a un hypothétique interrogatoire de police après l'arrestation de Paul Mc
 
 Le film est basé sur un interrogatoire policier fictif de Paul McCartney après son arrestation au Japon, où on lui demande à plusieurs reprises son autographe.
 
-En janvier 1980, Paul McCartney s'est rendu au Japon pour une représentation. Cependant, à son arrivée à l'aéroport de Narita, il a été arrêté pour possession d'une quantité excessive de marijuana. Après avoir été détenu pendant plusieurs jours, McCartney a été condamné à une amende et contraint de quitter le pays.
+En janvier 1980, Paul McCartney se rend au Japon pour une représentation. Cependant, à son arrivée à l'aéroport de Narita, il a été arrêté pour possession d'une quantité excessive de marijuana. Après avoir été détenu pendant plusieurs jours, McCartney a été condamné à une amende et contraint de quitter le pays.
 
 #### Liste des chansons
 ```md

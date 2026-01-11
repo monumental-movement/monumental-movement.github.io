@@ -10,11 +10,11 @@ tags:
 - Hiphop
 - Latin
 - 00s
-title: Unité d’âme – Cassanova
+title: Soul Unit – Cassanova
 ---
 
 
-L'EP "Casanova" de l'unité soul comprend un morceau de hip-hop latin produit par le créateur de morceaux de The Pharcyde, Spaceboy Boogie X.
+ソウルユニットによるEP 「カサノバ」に収録されているのは、The Pharcyde（ファーサイド）のトラックメイカーSpaceboy Boogie X（スペースボーイブギーX）がプロデュースしたラテン・ヒップホップトラック。
 
 #### Liste des chansons
 ```md

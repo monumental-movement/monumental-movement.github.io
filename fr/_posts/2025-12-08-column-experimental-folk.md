@@ -92,7 +92,7 @@ Dans les années 1980 et 1990, le « neofolk » avec des éléments acoustiques 
 L'un des acteurs centraux est **Current 93 (dirigé par David Tibet)**.
 
 ## Caractéristiques du courant 93
-- Au début, il y avait un fort élément bruit/industriel.
+- Au début, les éléments bruit/industriels étaient forts.
 - Depuis les années 1990, l'accent s'est déplacé vers les instruments acoustiques tels que l'harmonium, la guitare, la vielle et les percussions.
 - Accent sur le mysticisme et la récitation poétique
 - Héritage des approches Comus et folk britannique
@@ -165,7 +165,7 @@ Remarquable dans les séries Current 93 et ​​Neofolk
 modes, rythmes rituels, poésie religieuse, etc.
 
 ## Fonctionnalités thématiques
-- Mysticisme, fables et symboles religieux
+- Mysticisme/Fables/Symboles religieux
 - Naturalisme/scènes pastorales
 - Monde spirituel/introspection
 - Citations de contes/légendes populaires

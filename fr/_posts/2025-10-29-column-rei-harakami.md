@@ -104,7 +104,7 @@ C'est comme l'automne à Kyoto, et c'est une tristesse qui fait rire en regardan
 
 ## Chapitre 4 : Harakami et ses amis - UA, Ryuichi Sakamoto, Kazumi Nikaido
 
-La collaboration avec UA « Milk Tea » et Ryuichi Sakamoto est
+La collaboration avec UA « Milk Tea » et Ryuichi Sakamoto,
 Un nouvel élément de « voix humaine » a été ajouté à la musique de Rei Harakami.
 
 Ryuichi Sakamoto l'aurait décrit comme « le révolutionnaire le plus silencieux ».
@@ -186,8 +186,8 @@ graph TD
 
 ### Rei Harakami – [dévotion]
 
-« Rei Harakami – [lust] » est
-Le quatrième album original de Rei Harakami sorti en 2005.
+「Rei Harakami – [lust]」は、
+2005年リリースのレイハラカミ４枚目のオリジナルアルバム。
 
 
 #### Liste des chansons

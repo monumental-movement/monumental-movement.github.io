@@ -15,7 +15,7 @@ title: Monde souterrain – Cowgirl Rez
 
 "Cowgirl" sorti en 1994 et "Rez" sorti en 1993 sont les chansons emblématiques d'Underworld des années 90.
 
-"Cowgirl" est un morceau distinctif qui combine une mélodie émotionnelle et un son électronique. "Rez" est un mélange de rythmes techno énergiques et de house music, tous deux considérés comme des classiques de l'époque.
+"Cowgirl" est un morceau distinctif qui combine une mélodie émotionnelle avec des sons électroniques. "Rez" est une fusion de rythmes techno énergiques et de house music, tous deux considérés comme des classiques de l'époque.
 
 #### Liste des chansons
 ```md

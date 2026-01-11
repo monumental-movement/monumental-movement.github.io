@@ -42,7 +42,7 @@ color: #fff;
 #### ── L'incident de l'apparition du TR-1000
 
 Le **TR-1000** sorti par Roland en 2025 n'est pas qu'une extension de la série.
-808, 909, 707... Cette machine apparue à la fin de l'histoire, où ils symbolisaient le groove de l'époque, est une « machine à rythme intellectuelle » qui apprend et réinterprète les « rythmes humains ».
+808, 909, 707... Cette machine apparue à la fin de l'histoire, où ils symbolisaient le groove de l'époque, est une « machine à rythme intellectuelle » qui apprend et réinterprète le « sens humain du rythme ».
 
 Dans les années 1980, les rythmes électroniques étaient appelés « battements de cœur mécaniques ». Cependant, ce que présente le TR-1000 est le contraire : **"une machine comprend le battement du cœur humain"**.
 Numérique et analogique, IA et émotions. À cette frontière se trouve la philosophie que Roland a cultivée pendant un demi-siècle.
@@ -53,7 +53,7 @@ Numérique et analogique, IA et émotions. À cette frontière se trouve la phil
 ---
 
 ### Chapitre 2 Philosophie de conception : reconstruction analogique et contrôle intelligent
-#### ─ ``En prélevant le sang des 808 et 909, nous les dépassons.''
+#### ─ ``En puisant le sang des 808 et 909, nous les dépassons.''
 
 Le TR-1000 restructure la technologie **ACB (Analog Circuit Behaviour)** que Roland a cultivée et modélise le « comportement » même des circuits analogiques.
 La structure du module permet à chaque circuit d'être contrôlé individuellement, ce qui permet de faire varier la tonalité, les harmoniques et la sensation de conduite en temps réel.
@@ -78,7 +78,7 @@ Réactivité comme si le rythme était une « respiration ». C'est pourquoi Rol
 
 ---
 
-### Chapitre 4 Structure acoustique : Evolution des basses fréquences et texture rythmique
+### Chapitre 4 Structure acoustique : évolution du grave et de la texture du rythme
 #### ── Pour vaincre le « fantôme du coup de pied 808 »
 
 Au cœur du TR-1000 se trouve une philosophie de conception bas de gamme.
@@ -87,7 +87,7 @@ En conséquence, nous avons obtenu une « basse fréquence tridimensionnelle » 
 
 La caisse claire est construite à l'aide d'un circuit discret + méthode de mise en forme du bruit, et le charleston est construit à l'aide d'une source de bruit analogique qui comprend un micro-retard infime.
 Il a réalisé une « coexistence de réalisme acoustique et d'abstraction » qui va au-delà de la reproduction du 808/909.
-En conséquence, il n'est pas éclipsé, même dans les sonorisations de club, et maintient une riche sensation de séparation même sur les moniteurs de studio.
+En conséquence, il n'est pas éclipsé, même dans les sonorisations de club, et maintient un riche sentiment de séparation même sur les moniteurs de studio.
 
 ---
 

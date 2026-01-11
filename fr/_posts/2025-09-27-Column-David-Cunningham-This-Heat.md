@@ -74,7 +74,7 @@ Ici, nous analyserons les paroles de chaque chanson d'un point de vue socialemen
 
 This Heat (1976-1982) était un groupe de rock expérimental de Londres composé de Charles Hayward, Charles Burrell et Gareth Williams. Cunningham a été profondément impliqué dans l'enregistrement et le montage, fournissant un soutien technique pour l'introduction des boucles de bande, du feedback et du collage acoustique.
 
-En particulier, travailler au **Cold Storage Studio** (un studio expérimental converti à partir d'un entrepôt réfrigéré) est devenu un lieu où Cunningham a pu démontrer ses compétences techniques. Couper et assembler des bandes, les lire à l'envers et désassembler l'enregistrement en 24 pistes ont donné naissance à des sons qui deviendront plus tard directement liés aux scènes post-rock et noise.
+En particulier, travailler au **Cold Storage Studio** (un studio expérimental converti à partir d'un entrepôt réfrigéré) est devenu un lieu où Cunningham a pu démontrer ses compétences techniques. Couper et assembler des bandes, les lire à l'envers et désassembler l'enregistrement en 24 pistes ont donné naissance à des sons qui deviendront plus tard directement liés à la scène post-rock et noise.
 
 ---
 
@@ -83,7 +83,7 @@ En particulier, travailler au **Cold Storage Studio** (un studio expérimental c
 #### «Cette chaleur» (1979)
 
 - **"Not Waving"** : Le titre rappelle un poème de Stevie Smith. Symbolisant la solitude individuelle et l’aliénation nationale.
-- **"24 Track Loop"** : Pas de paroles, mais exprime la "répétition mécanique du capitalisme" avec le son. La boucle infinie est une métaphore de « l’ère de la stagnation ».
+- **"24 Track Loop"** : Pas de paroles, mais exprime la "répétition mécanique du capitalisme" avec le son. La boucle infinie est une métaphore de la « stagnation des temps ».
 - **"Horizontal Hold"** : extrait de la terminologie télévisée. Une satire de la « manipulation de l'information » et du « contrôle des médias » pendant la guerre froide.
 
 ---
@@ -100,7 +100,7 @@ Le meilleur travail du groupe. Le thème entier est **la peur et les mensonges (
 - **"Sleep"** : Les paroles ressemblant à une berceuse chuchotant "dors en paix" sont en fait ironiques car "le monde s'effondre pendant que tu dors".
 - **"Cénotaphe"** : Titre faisant référence au Cénotaphe. Un réquisitoire contre la folie de l’humanité, qui se souvient et répète les guerres.
 - **"Un ​​nouveau type d'eau"** : Nouvelle eau = contamination radioactive. Une métaphore des essais nucléaires et de la guerre nucléaire.
-- **"Independence"** : Il crie à l'indépendance et à la liberté, mais les paroles sont pleines de contradictions. Critique la fiction du nationalisme.
+- **"Independence"** : Il crie l'indépendance et la liberté, mais les paroles sont pleines de contradictions. Critique la fiction du nationalisme.
 
 #### « Rendu disponible (séances de peeling) » (1983)
 
@@ -176,10 +176,10 @@ flowchart TD
 ### Conclusion
 
 - **Interprétation lyrique** : This Heat critique la guerre froide à la fois sur le plan lyrique et sonore.
-- **Philosophie d'enregistrement de Cunningham** : utilise des équipements tels que Revox, Studer et EQ comme « dispositif métaphorique politique ».
-- **Importance historique de la musique expérimentale** : au-delà du post-punk, elle est directement liée aux fondements de la culture moderne d'échantillonnage/DAW et même à la production musicale basée sur l'IA.
+- **Philosophie d'enregistrement de Cunningham** : utilise des équipements tels que Revox, Studer et EQ comme « dispositifs métaphoriques politiques ».
+- **Importance historique de la musique expérimentale** : au-delà du post-punk, elle est directement liée aux fondements de la culture moderne d'échantillonnage/DAW et même à la production musicale IA.
 
-Leur musique est toujours un ensemble d'œuvres qui devraient être réévaluées comme « enregistrement = critique = expérience ».
+Leur musique est toujours un groupe d'œuvres qui devraient être réévaluées comme « enregistrement = critique = expérience ».
 
 David Cunningham lui-même était plus qu’un simple innovateur post-punk excentrique ; il était un innovateur dans le domaine de la technologie d'enregistrement. La musique de Heat, qui utilise des équipements tels que Revox et Studer et présente des paroles et des structures sonores critiques de la guerre froide, n'aurait pas été possible sans sa manipulation de bandes et son montage multipiste.
 

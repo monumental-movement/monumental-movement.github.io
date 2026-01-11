@@ -11,13 +11,13 @@ tags:
 - Techno
 - Electro
 - 00s
-title: Luke Slater – Expirez tous
+title: Luke Slater – All Exhale
 ---
 
 
-" All Exhale " est un single du DJ et producteur techno britannique Luke Slater, sorti en 2000 sur le label NovaMute (groupe Mute). La version originale figurait sur l'album classique "Wireless" sorti en 1999. Le puissant morceau techno entraînant était un énorme succès et un hymne fréquemment joué dans les clubs.
+「All Exhale」は、2000年にレーベルNovaMute （Muteグループ）からリリースされた、UKのテクノDJ・プロデューサーLuke Slater(ルーク・スレーター)によるシングル。オリジナル版は、1999年リリースの名作アルバム「Wireless」に収録されている。パワフルなドライビング・テクノトラックは大ヒットとなり、クラブで頻繁にプレイされたアンセム。
 
-La quatrième chanson est un remix de Futureshock, un duo électronique britannique actif de 1998 à 2003.
+4曲目は、1998年から2003年まで活動したイギリスのエレクトロニックデュオFutureshockによるremix。
 
 #### Liste des chansons
 ```md

@@ -59,7 +59,7 @@ color: #fff;
 ## Années 1990 : L'âge d'or et l'apogée du G‑Funk
 
 * **Producteurs représentatifs** : Dr. Dre, DJ Quik, Battlecat
-* **Principaux labels** : Death Row Records, Priority, Ruthless
+* **Majors labels** : Death Row Records, Priority, Ruthless
 * **Contexte culturel** : G-Funk était étroitement associé à la culture lowrider et automobile, avec son échantillonnage funk des années 70 et ses basses synthétisées épaisses.
 * **Conflit Est-Ouest** : Le conflit entre la côte Est et la côte Ouest s'intensifie, conduisant à la tragédie de 2Pac et The Notorious B.I.G.
 * **Vidéo/Mode** : les MV présentant des lowriders, des plages et les rues de South Central deviennent populaires. Dickies, Chuck Taylor et les bandanas sont emblématiques.

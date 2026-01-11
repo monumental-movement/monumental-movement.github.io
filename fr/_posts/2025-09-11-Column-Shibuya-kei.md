@@ -41,7 +41,7 @@ Le son Shibuya-kei est un mouvement musical japonais qui s'est répandu dans les
 - Les premières boîtes à rythmes telles que Roland TR-808
 - Culture d'enregistrement à domicile à l'aide de cassettes MTR
 
-### 10 chansons recommandées (années 1980)
+### 10 chansons recommandées (années 1980)
 
 <style type="text/css">
 
@@ -120,7 +120,7 @@ color: #fff;
 - Synthé logiciel (Native Instruments, Arturia)
 - Culture DJ sur ordinateur portable
 
-### 10 chansons recommandées (années 2000)
+### 10 chansons recommandées (années 2000)
 
 | Titre de la chanson | Artiste | Commentaires |
 |------|--------------|--------------|

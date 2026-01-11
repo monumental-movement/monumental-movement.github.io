@@ -104,7 +104,7 @@ De nombreuses productions utilisaient des platines vinyles et des échantillonne
 
 ## 1998-2002 : Expansion, confusion et fermeture
 
-**Contexte** : Le pic du boom et l'intensification de la concurrence sur le marché. Alors que la griffe cherche une stratégie globale, ses liens capitalistiques avec de grandes entreprises font sensation.
+**Contexte** : Le pic du boom et l'intensification de la concurrence sur le marché. Alors que la marque cherche une stratégie globale, ses liens capitalistiques avec de grandes entreprises font sensation.
 
 **Événement** : Après un partenariat avec Warner, l'activité a été temporairement suspendue en 2002.
 
@@ -173,7 +173,7 @@ La marque/catalogue est toujours active et est utilisée comme « atout » pour 
 
 | Non | Artiste | Piste | Commentaires |
 |---|---|---|---|
-| 1 | Rois de demain | Enfin (Remasterisé 2014) | Deep house traditionnelle remasterisée, qualité sonore douce. |
+| 1 | Rois de demain | Enfin (Remasterisé 2014) | Deep house traditionnelle remasterisée avec une qualité sonore fluide. |
 | 2 | Denis Ferrer | Maniaque 3000 | Présente un rythme house moderne et sophistiqué. |
 | 3 | Quentin Harris | Ma joie (réédition) | Deep house rééditée pour les clubs. |
 | 4 | Barbara Tucker | Pensez (à ce sujet) 2015 Mix | Une réinterprétation de la house vocale, pleine d'émotion. |
@@ -181,7 +181,7 @@ La marque/catalogue est toujours active et est utilisée comme « atout » pour 
 | 6 | Louie Véga | Rituel de danse (2016) | Deep house aux saveurs latines. |
 | 7 | DJ Spen | L'esprit de la maison | Une version moderne de l'essence de la maison traditionnelle. |
 | 8 | David Penn | Escroc fils | Un air de club avec un groove et une mélodie douces. |
-| 9 | Riva Starr | Maison Nation 2020 | Maison énergique, des rythmes qui brillent au sol. |
+| 9 | Riva Starr | Nation Maison 2020 | Maison énergique, des rythmes qui brillent au sol. |
 | 10 | Barbara Tucker | Je me fais soulever (Remix 2021) | Un remix d'une chanson célèbre avec un arrangement moderne, où le chant brille. |
 
 ---

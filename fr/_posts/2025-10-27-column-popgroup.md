@@ -21,7 +21,7 @@ title: '[Chronique] The Pop Group - Le son rebelle et le background historique n
 
 Texte : mmr | Thème : Un mouvement musical rebelle qui a explosé à Bristol, en Angleterre, à la fin des années 1970 – retraçant l'intersection de la politique et de l'art joué par The Pop Group, et son impact ainsi que le contexte historique.
 
-En 1978, un groupe inhabituel est apparu dans la ville portuaire de Bristol, dans le sud-ouest de l'Angleterre.
+En 1978, un groupe inhabituel apparaît dans la ville portuaire de Bristol, dans le sud-ouest de l'Angleterre.
 Son nom est **The Pop Group**.
 Même s’ils se disaient pop, leur musique n’était pas du funk, du punk ou du jazz, mais plutôt une expérience dans laquelle tous les genres se heurtaient de manière explosive.
 
@@ -58,7 +58,7 @@ Une « déconnexion entre l'État et la rue » est devenue la norme.
 
 En tant que ville portuaire, Bristol avait une culture **reggae et dub** enracinée en raison des immigrants jamaïcains.
 Le rythme, le centre de gravité bas de la basse et l'esprit de rébellion,
-Cela a également imprégné la jeunesse du rocher blanc.
+Cela a également imprégné la jeunesse de White Rock.
 
 C’est dans ce mélange culturel que les jeunes de The Pop Group ont grandi.
 À l’école, il écoutait du punk et du funk, et le soir, il fréquentait les sound-systems des quartiers d’immigrés.

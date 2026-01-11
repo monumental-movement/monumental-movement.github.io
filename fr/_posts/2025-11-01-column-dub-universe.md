@@ -29,7 +29,7 @@ Une méthode sans précédent de **reconstruction** de chansons préenregistrée
 Son nom est --**DUB**.
 
 Supprimez les voix d'une chanson existante, ne laissant que le rythme et la basse,
-Jouez l’espace lui-même en utilisant pleinement l’écho et la réverbération.
+Jouez l'espace lui-même en utilisant pleinement l'écho et la réverbération.
 Cette innovation n'était pas seulement un « remix » mais une redéfinition de la musique.
 
 Cette idée dub est devenue plus tard **hip-hop, techno, ambient, noise**,
@@ -63,7 +63,7 @@ Dans le studio d'enregistrement, une piste instrumentale est enregistrée en tan
 Le DJ a enthousiasmé le public en chantant des toasts (narration du MC) au micro.
 C'est aussi le prototype de la **culture rap/hip-hop** ultérieure.
 
-Les ingénieurs du son de l'époque pensaient que cette version n'était pas qu'un sous-produit ;
+Les ingénieurs du son pensaient à l'époque que cette version n'était pas qu'un sous-produit ;
 Il a commencé à être utilisé comme **terrain d'essai acoustique**.
 Le plus radical d’entre eux était **King Tubby**.
 
@@ -101,7 +101,7 @@ Il a donné au reggae une dimension mythique et cosmique.
 > J'écoute juste la voix et je la mixe. »
 > ― Lee « Scratch » Perry
 
-Son chef-d'œuvre, **The Upsetters ``Super Ape'' (1976)**, est
+Son chef-d'œuvre, **The Upsetters "Super Ape" (1976)**, est
 C'est une « jungle sonore » où s'entremêlent la gravité des basses et le brouillard de la réverbération.
 L'Arche Noire a été détruite dans un incendie en 1979.
 La légende s'est répandue dans toutes les régions du monde, y compris au Royaume-Uni.
@@ -152,7 +152,7 @@ C'est l'esthétique du manque et l'idée de reproduction.
 
 Ce type de réflexion de type doublage est également courant dans la **génération musicale IA** et la **culture du remix** modernes.
 L'acte de « éditer » et de « recomposer » le son lui-même est
-C'est la base des actes créatifs du 21ème siècle.
+C'est la base des actes créatifs du 21e siècle.
 
 ---
 

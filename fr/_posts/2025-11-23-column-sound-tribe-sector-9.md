@@ -57,7 +57,7 @@ Cette direction a été formée et le nom Sound Tribe Sector 9 a été lancé.
 
 ---
 
-# 2. 1998–2002 : Premiers travaux et adaptation à la culture des tournées
+# 2. 1998-2002 : Premiers travaux et adaptation à la culture des tournées
 ##2-1. Debut Era ― *Véhicule d'évasion interplanétaire* (1998)
 
 Leur premier album, Interplanetary Escape Vehicle, sorti en 1998, avait une sensation de performance live plus forte que le STS9 actuel, avec un mélange d'étendues de guitare de type post-rock, de rythmes de type Afrobeat et d'ensembles de type jazz.
@@ -127,7 +127,7 @@ La structure live de la même période était
 - Downtempo
 - Modèle de type IDM
 - de longues improvisations
-Le public est passé à une expérience de type « piste/festival » avec comme prémisse la « danse ».
+Le public est passé à une expérience de type plancher/festival avec pour principe de « danser ».
 
 Ce qui est important ici, c'est que STS9 a développé une technique permettant de reproduire la « texture de la musique électronique » avec une guitare et une basse.
 De nombreux éléments sont passés par la chaîne d'effets, créant une caractéristique dans laquelle la pensée éditoriale de la DAW se reflétait directement dans la performance live.
@@ -148,7 +148,7 @@ Depuis le début de STS9
 - Accompagnement pédagogique
 - Protection de l'environnement
 - Activités locales
-Il a participé activement à des activités caritatives telles que :
+Il a participé activement à des activités caritatives telles que
 
 Il existe également de nombreux spectacles qui reversent une partie des recettes des billets en direct, et de nombreuses chansons ayant pour thème des problèmes sociaux.
 En particulier, « Peaceblaster » (2008) se positionne comme une œuvre conceptuelle ayant pour toile de fond des thèmes politiques et environnementaux.
@@ -178,7 +178,7 @@ Dans les années 2020, STS9 a maintenu une position ferme en tant que tête d'af
 La plus grande caractéristique de STS9 est sa structure d'ensemble, avec batterie et percussions au centre.
 Dans la musique électronique, la musique live joue le rôle d’une boîte à rythmes, avec une basse, une guitare, des synthés et des échantillons superposés.
 
-- Afrobeat
+-Afrobeat
 - des breakbeats
 - Percussions latines
 - Lotissement IDM
@@ -289,7 +289,7 @@ C’est également important car cela montre comment les artistes devraient êtr
 
 ---
 
-# 12. Conclusion : « des groupes qui évoluent grâce au live » du 21e siècle
+# 12. Conclusion : « les groupes qui évoluent grâce au live » du 21e siècle
 
 Le secteur 9 de la Sound Tribe est
 **Une tentative de transférer la structure de la musique électronique à la performance live tout en conservant le format du groupe**

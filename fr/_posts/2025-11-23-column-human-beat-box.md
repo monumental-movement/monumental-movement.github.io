@@ -21,7 +21,7 @@ title: '[Chronique] Human Beatbox Histoire mondiale et joueurs japonais - Evolut
 
 Texte : mmr｜Thème : Histoire du Human Beatbox, évolution des tournois mondiaux, styles des joueurs de chaque pays, caractéristiques des joueurs japonais et analyse de SO-SO/RUSY/Kohey
 
-Human Beatbox n’est pas seulement un art de produire des sons avec la bouche ; c'est une culture musicale dans laquelle des systèmes techniques existent dans les pays du monde entier, des concours internationaux ont été organisés et de nouvelles technologies ont été inventées à chaque génération. Dans cet article, nous organiserons l'histoire sur la base de faits et approfondirons la création des tournois mondiaux, les styles de joueurs dans chaque pays, les caractéristiques du Japon et les joueurs représentatifs tels que SO-SO, RUSY et Kohey.
+Human Beatbox n’est pas seulement un art de produire des sons avec la bouche ; c'est une culture musicale où des systèmes techniques existent dans les pays du monde entier, des compétitions internationales ont été organisées et de nouvelles technologies ont été inventées à chaque génération. Dans cet article, nous organiserons l'histoire sur la base de faits et approfondirons la création des tournois mondiaux, les styles de joueurs dans chaque pays, les caractéristiques du Japon et les joueurs représentatifs tels que SO-SO, RUSY et Kohey.
 
 ---
 
@@ -122,7 +122,7 @@ La croissance rapide a été remarquable ces dernières années.
 - Haute qualité de son
 - Rapidité d'adaptation aux genres
 
-En particulier, les atouts du Japon sont « la précision du son », la « capacité de composition » et la « compatibilité avec les images et la production ».
+Les atouts du Japon incluent notamment « la précision du son », la « capacité de composition » et la « compatibilité avec les images et la production ».
 
 ---
 
@@ -132,7 +132,7 @@ En particulier, les atouts du Japon sont « la précision du son », la « capac
 Au Japon, il s'est répandu dans les rues et lors d'événements depuis le milieu des années 2000, et les techniques sont partagées entre artistes à travers des séances d'entraînement et de participation à des compétitions.
 
 ## ◆ 2. Forte orientation technique
-Les joueurs japonais sont forts en termes de précision sonore et d'attention aux détails, et sont très appréciés même par les joueurs étrangers.
+Les joueurs japonais sont forts en termes de précision sonore et d'attention aux détails, et sont loués même par les joueurs étrangers.
 
 ## ◆ 3. Fusion avec la culture de la vidéo et du montage
 Principalement sur YouTube et SNS,
@@ -246,7 +246,7 @@ Avec le développement de Loopstation, le beatboxing
 Vers un territoire que l'on peut appeler
 
 ## ◆ 2. Combinaison avec la culture visuelle
-Le nombre de « vitrines vidéo » augmente dans les tournois du monde entier.
+Les « vitrines vidéo » se multiplient dans les compétitions du monde entier.
 Nous vivons à une époque où les SNS accélèrent le style.
 
 ## ◆ 3. L'avenir des atouts japonais
@@ -254,7 +254,7 @@ Le Japon est
 
 - Précision technique
 - Précision
-- Capacité d'arranger
+- Capacité d'arrangement
 -Expression visuelle
 
 À cet égard, elle dispose d’une force internationale.
@@ -264,8 +264,8 @@ On peut s’attendre à ce qu’il continue à être actif à la fois dans Loops
 
 # Conclusion - Le Human Beatbox en tant que culture
 
-Human Beatbox est une culture d’expression moderne qui combine de nombreux aspects tels que la musique, la performance, la vidéo et la composition.
-De nos jours, le beatboxing subit des changements majeurs tels que la maturation de la culture de la compétition, l'évolution de la technologie et la montée en puissance des artistes japonais, et le beatboxing devient plus qu'une simple « technique » mais s'impose comme un genre musical international.
+Human Beatbox est une culture expressive moderne qui combine de nombreux aspects tels que la musique, la performance, la vidéo et la composition.
+Maintenant que la culture de la compétition mûrit, que la technologie évolue et que des artistes japonais émergent, le beatboxing subit des changements majeurs et le beatboxing devient plus qu'une simple technique, il devient un genre musical international.
 
 J'espère que cet article vous aidera à comprendre l'histoire et l'avenir du beatboxing.
 

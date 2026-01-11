@@ -56,11 +56,11 @@ Chaque fois que la techno ou le hip-hop gravaient l'atmosphère urbaine, la bass
 
 ## II. Changements cruciaux dans le monde : histoire de la musique du XXe siècle guidée par les sons de basse
 
-### 1. A commencer par la rébellion du jazz
+### 1. Commençant par la rébellion du jazz
 
 Écouter la pièce de Charles Mingus
 Cela sonne plus qu’une simple ligne de basse, cela ressemble à une déclaration à la société.
-Colère et intelligence, improvisation et construction. Il y a de la poésie dans cette basse.
+Colère et intelligence, improvisation et construction. Il y a de la poésie dans ce ton de basse.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y9IMOUVJMVs?si=5wUdqiLWnOEP7O_n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -75,7 +75,7 @@ Un rythme qui parle entre les sons, c'est ce qui a élevé le jazz au rang d'art
 ---
 
 Yoshio Suzuki et Kunimitsu Inaba, qui ont soutenu les cafés de jazz d'après-guerre au Japon,
-Profitant de cette « liberté des sons de basse » avec les sensibilités de votre propre pays,
+Profitant de cette « liberté des sons graves » avec les sensibilités de notre propre pays,
 En peu de temps, ils créaient leur propre groove unique la nuit à Tokyo.
 
 ---
@@ -127,7 +127,7 @@ Ce qu’il a établi, c’est l’esthétique du « groove en japonais ».
 ---
 
 Hironori Ito du groupe Tatsuro Yamashita, Tsugutoshi Goto, Akira Okazawa──
-Ils ont créé un son qui relie le monde entre les chansons populaires et AOR.
+Ils ont créé un son de classe mondiale entre chansons populaires et AOR.
 La guitare basse ne joue plus un rôle en coulisses, mais devient un élément qui soutient la « dignité » de la musique.
 
 ---

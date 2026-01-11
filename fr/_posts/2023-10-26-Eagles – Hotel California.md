@@ -10,11 +10,11 @@ tags:
 - Rock
 - Nostalgic
 - 7inch
-title: Aigles – Hôtel Californie
+title: Eagles – Hotel California
 ---
 
 
-Chanson titre de l'album des Eagles « Hotel California ». Paroles et musique de Don Felder et Don Henley.
+Eagles（イーグルス）のアルバム「ホテル・カリフォルニア」のタイトル曲。作詞・作曲は、Don Felder（ドン・フェルダー）、Don Henley（ドン・ヘンリー）。
 
 #### Liste des chansons
 ```md

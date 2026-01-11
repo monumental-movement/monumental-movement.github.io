@@ -54,7 +54,7 @@ Surtout dans ce travail, **SP-303 Dr. Sample** détient la clé. Bien qu'il s'ag
 
 ### MF DOOM : Le poète masqué
 MF DOOM (de son vrai nom Daniel Dumile) est né d'une tragédie.
-Au début des années 1990, alors qu'il fait ses débuts sous le nom de KMD, il perd son jeune frère Subroc dans un accident et son contrat avec le label est annulé.
+Au début des années 1990, alors qu'il fait ses débuts sous le nom de KMD, il perd son jeune frère Subroc dans un accident et son contrat avec le label prend fin.
 Il est resté silencieux pendant plusieurs années et est revenu avec un masque métallique. **
 
 DOOM a fait du masque un symbole de « création » plutôt que d'« évasion ».
@@ -104,7 +104,7 @@ Par exemple, le passage suivant :
 
 > "Le reste est vide, sans cerveau sauf le nerd intelligent"
 
-Les rimes internes de « vide », « cerveau » et « intelligent » s’enchaînent, transcendant le contexte et créant un sens en elles-mêmes.
+Les rimes internes de « vide », « cerveau » et « intelligent » sont enchaînées, transcendant le contexte et créant un sens en elles-mêmes.
 Son rap fonctionne comme un dispositif sonore plutôt que comme de la poésie.
 
 ### Tout en majuscules
@@ -121,7 +121,7 @@ La photo de la pochette (prise par Eric Coleman) est un gros plan du masque mét
 La composition, dans laquelle la moitié du visage est immergée dans l’ombre, symbolise l’écart entre anonymat et exposition, mythe et réalité.
 Ce masque servait à la fois de moyen d’expression en tant qu’artiste noir et de forme de résistance aux médias commerciaux.
 
-Le masque de DOOM est une référence de la culture pop au Dr. Doom de Marvel, mais plus profondément, il représente un renversement de pouvoir et d'identité.
+Le masque de DOOM est une référence de la culture pop au Dr Doom de Marvel, mais plus profondément, il représente un renversement de pouvoir et d'identité.
 Il y a ici un paradoxe : « méchant = personne qui a la liberté de parler »**.
 
 ---
@@ -166,7 +166,7 @@ Mais son absence a également favorisé « l’héritage des masques ».
 Désormais, **DOOM n'existe pas en tant que personne mais en tant que « méthode »**. Relier des fragments, cacher des noms et parler à travers des sons.
 
 [『Madvillainy』](https://amzn.to/3JhySfH)を再生するたびに、リスナーは“誰でもない誰か”になる。  
-C'est le plaisir de l'anonymat du 21e siècle.
+C'est le plaisir de l'anonymat du 21ème siècle.
 
 ---
 

@@ -18,7 +18,7 @@ Une chanson de l'artiste hip-hop américain Afrika Bambaataa et de son groupe Th
 
 Elle est connue comme une chanson pionnière combinant des éléments de musique électronique, de funk et de hip-hop. La chanson présente un riff de synthétiseur et un échantillon vocal uniques, et son son innovant a eu une influence majeure sur l'évolution du hip-hop et de la musique dance.
 
-Il a acquis une énorme popularité avec la montée du breakdance et de la culture de rue et est reconnu comme un classique du hip-hop. La chanson a également été échantillonnée et réinterprétée par de nombreux artistes et producteurs, influençant les chansons de divers genres.
+Il a acquis une énorme popularité avec la montée du breakdance et de la culture de rue et est reconnu comme un classique du hip-hop. La chanson a également été échantillonnée et réinterprétée par de nombreux artistes et producteurs, influençant des chansons de divers genres.
 
 « Planet Rock » est largement acclamé comme l'œuvre emblématique d'Afrika Bambaataa et de The Soulsonic Force, dont le son innovant et l'approche pionnière occupent une place importante dans l'histoire du hip-hop et de la musique dance.
 

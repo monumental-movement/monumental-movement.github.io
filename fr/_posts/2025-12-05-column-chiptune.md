@@ -56,7 +56,7 @@ Le rapport cyclique peut être sélectionné parmi 12,5 % / 25 % / 50 % / 75 %, 
 Il est souvent utilisé pour les lignes de basse, mais il était également utilisé pour simuler la batterie.
 
 - **Bruit ×1 canal**
-Responsable de la plupart des sons de production du jeu, tels que les sons des caisses claires, des charleys et des explosions.
+Responsable de la plupart des sons de production du jeu, tels que les caisses claires, les charleys et les sons d'explosion.
 
 - **DPCM (lecture d'échantillons) x 1 canal**
 Bien que la qualité sonore soit faible, proche de 1 bit, il est possible de jouer des échantillons de batterie et des éléments vocaux.
@@ -77,7 +77,7 @@ La Game Boy est équipée d'une source sonore CPU + PSG appelée **Sharp LR35902
 - Canal qui vous permet de dessiner librement des formes d'onde 4 bits de 32 échantillons
 - **Canal de bruit**
 
-La mémoire de forme d'onde est au cœur de la créativité, et même dans le Game Boy Chiptune moderne, le canal Wave est largement utilisé pour générer des sons de basse, de lead, de kick et uniques. L'épaisseur des basses fréquences est particulièrement attrayante, et elle est appréciée comme un « son de type Game Boy », y compris le bruit DAC propre au matériel.
+La mémoire de forme d'onde est au cœur de la créativité, et même dans le Game Boy Chiptune moderne, ce canal d'onde est largement utilisé pour la génération de basses, de leads, de kick et de sons uniques. L'épaisseur des basses fréquences est particulièrement attrayante, et elle est appréciée comme un « son de type Game Boy », y compris le bruit DAC propre au matériel.
 
 ---
 
@@ -200,7 +200,7 @@ Chiptune ne se limite en aucun cas à une « reproduction de musique de jeu », 
 
 ---
 
-## Chapitre 7 : Généalogie de Chiptune
+## Chapitre 7 : Généalogie Chipune
 
 <div class="mermaid">
 flowchart TD
@@ -250,8 +250,8 @@ Il n’est pas seulement considéré comme un genre musical, mais aussi comme un
 ## Chapitre 10 : L'avenir de Chiptune et l'avenir de l'esthétique 8 bits
 
 La musique 8 bits n’est plus un symbole du rétro ;
-**Une entité qui donne de nouvelles idées à l'ère moderne en tant que « cluster d'esthétiques contraintes »**
-C'est devenu.
+**Une existence qui donne de nouvelles idées à l'ère moderne en tant que « cluster d'esthétiques contraintes »**
+C’est devenu.
 
 - Utilisation en Hyperpop et EDM
 - Textures lo-fi hiphop 8 bits

@@ -27,7 +27,7 @@ La magie de la production musicale, autrefois confinée aux murs d'un studio, es
 
 Un producteur de chambre n’est pas seulement quelqu’un qui crée du son seul.
 Ils sont l'incarnation de la « démocratisation » de l'industrie musicale, et en même temps ils sont aussi un symbole de la « créativité de la solitude ».
-Aujourd'hui, avec un accès direct au monde via Spotify et SoundCloud, la chambre n'est plus un « espace privé ». Grâce à son réseau, elle est devenue la base d'une nouvelle ville musicale = ville numérique.
+De nos jours, avec un accès direct au monde via Spotify et SoundCloud, la chambre n'est plus un « espace privé ». Grâce à son réseau, elle est devenue la base d'une nouvelle ville musicale = ville numérique.
 
 ---
 
@@ -181,4 +181,4 @@ Et ces mains ne sont plus connectées via la souris ou le clavier MIDI.
 Directement connecté au monde entier.
 
 > « De ma chambre à votre monde. »
->- C'est peut-être l'image la plus honnête de la musique au 21ème siècle.
+>- C'est peut-être l'image la plus honnête de la musique du 21ème siècle.

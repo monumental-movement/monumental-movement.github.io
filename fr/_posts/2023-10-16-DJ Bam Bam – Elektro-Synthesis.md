@@ -9,7 +9,7 @@ permalink: /fr/dj-bam-bam-elektro-synthesis/
 tags:
 - House
 - Hard House
-title: DJ Bam Bam – Électro-synthèse
+title: DJ Bam Bam – Électro-Synthèse
 ---
 
 

@@ -10,15 +10,15 @@ tags:
 - Downtempo
 - Broken Beat
 - 00s
-title: NSM – Ne le dites pas
+title: NSM – Don't Say It
 ---
 
 
-NSM est le nom de production de Ian Grant, également connu sous le nom d'IG Culture, l'un des premiers innovateurs de Broken Beat.
+NSMは、Broken Beat（ブロークンビーツ） の初期のイノベーターであり、IG Culture（IGカルチャー）名義で知られるIan Grant（イアングラント）のプロダクション名。
 
-Le chanteur de la première chanson de la face A et de la deuxième chanson de la face B est Eska Mtungwazi, également connue sous le nom d'Eska, une auteure-compositrice-interprète et multi-instrumentiste britannique née à Londres.
+A面１曲目とB面２曲目のヴォーカルは、ロンドン生まれのイギリスのシンガー ソングライター＆マルチ楽器奏者EskaことEska Mtungwazi。
 
-NSM (New Sector Movements) est une sorte de quasi-groupe, dont les membres sont pour la plupart issus de la communauté Broken Beat de l'ouest de Londres. Les anciens membres incluent Kaidi Tatum (sous le nom d'Agent K), Julie Dexter, Bembe Sege, Eska Mtungwazi et Eric Appapooulay (murky). Waters), le duo à cordes Chicks with Sticks (Izzy Dunn & Stella Page) et Frank McComb, ancien membre de Buckshot Refonke.
+NSM（New Sector Movements/ニュー・セクター・ムーヴメンツ）は、準グループのような存在で、メンバーは西ロンドンのブロークンビート・コミュニティ出身者を中心に流動的で、これまでに参加したメンバーには、カイディ・タタム（エイジェントK名義）、ジュリー・デクスター、ベンベ・セゲ、エスカ・ムトゥングワジ、エリック・アッパポウレイ（ murky waters名義）、弦楽デュオのチックス・ウィズ・スティックス（イジー・ダン & ステラ・ペイジ）、そして元バックショット・レフォンケのメンバー、フランク・マッコムなどがいます。
 
 #### Liste des chansons
 ```md

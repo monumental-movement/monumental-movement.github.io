@@ -21,14 +21,14 @@ title: '[Chronique] Qu''est-ce que la deep house ? ─ Explorer la profondeur du
 
 Texte : mmr｜Thème : Deep House, un genre qui continue d'évoluer tranquillement tout en intégrant l'histoire et le contexte.
 
-La deep house est une sorte de house qui a émergé dans la région de Chicago et du New Jersey à la fin des années 1980. Caractérisé par des harmonies soul/jazz, des basses douces et un groove retenu, c'est un type de musique de danse qui est « profonde, longue et réchauffe le corps » plutôt qu'un pic précipité. Le BPM est généralement de 118 à 124 (vitesse lente à moyenne), les accords 7ème/9ème, le piano électrique (Rhodes), l'orgue (série Korg M1) et les voix décontractées sont symboliques. Il a une "température nocturne" valable aussi bien pour le sol que pour l'écoute.
+La deep house est une variété de house qui a germé dans la région de Chicago et du New Jersey à la fin des années 1980. Caractérisé par des harmonies soul/jazz, des basses douces et un groove retenu, c'est un type de musique de danse qui est « profonde, longue et réchauffe le corps » plutôt qu'un pic précipité. Le BPM est généralement de 118 à 124 (vitesse lente à moyenne), les accords 7ème/9ème, le piano électrique (Rhodes), l'orgue (série Korg M1) et les voix décontractées sont symboliques. Il a une "température nocturne" valable aussi bien pour le sol que pour l'écoute.
 
 
 <hr>
 
 ### Contexte et développement de la naissance
 
-**1985-1990 : début précoce (Chicago/NJ)**
+**1985-1990 : tôt tôt (Chicago/NJ)**
 
 [Larry Heard (Mr. Fingers)](https://amzn.to/4q97ot4) présente le prototype avec "Can You Feel It" et "Mystery of Love". Suivant le flux de [Frankie Knuckles](https://amzn.to/4nUwWJ4) et [Marshall Jefferson](https://amzn.to/3KOf4AV), une fusion de la douce sensation soul de Jersey Garage ([Blaze](https://amzn.to/4ooZuuc) et [Kerri Chandler](https://amzn.to/4qbd4CR)).
 
@@ -47,13 +47,13 @@ Anjunadeep et All Day I Dream se sont tournés vers la musique mélodique/organi
 
 <hr>
 
-### Fonctionnalités musicales
+### 音楽的特徴
 
 **Harmonie** : 7ème/9ème majeur, accord de suspension, beaucoup de tension. Même en mode mineur, il y a une nuance de « tristesse≠tragique ».
 
 **Beat** : Le kick a un arrière-goût rond et profond. Le charleston est un mélange avec un léger swing. Les textures 909/707/727 et 808 sont standard.
 
-**Basse** : notes longues principalement ondulantes avec des sous-bandes soigneusement contrôlées.
+**Basse** : Notes longues principalement ondulantes avec des sous-bandes soigneusement contrôlées.
 
 **Clavier/Texture** : orgue Rhodes/M1/cordes douces, le type d'espace (délai/réverbération) est long mais pas dense.
 
@@ -155,7 +155,7 @@ Anjunadeep et All Day I Dream se sont tournés vers la musique mélodique/organi
 
 **Early Peak** : le moteur de Ron Trent/Chez Damier
 
-**Plateau** : Raffinement du Jimpster ~ Freerange
+**Plateau** : raffinement de Jimpster à Freerange
 
 **Changement de couleur** : la sensation live d'Henrik Schwarz
 

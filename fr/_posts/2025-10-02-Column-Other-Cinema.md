@@ -164,7 +164,7 @@ Le travail de Baldwin et « Other Cinema » ont eu une influence majeure sur le 
 
 ### résumé
 
-Pionnier du cinéma underground, Craig Baldwin a vivement critiqué les thèmes politiques et sociaux à travers des films expérimentaux qui exploitent pleinement les images trouvées. Son travail combine expérimentation visuelle et messages politiques pour susciter une réflexion profonde. «Autre cinéma» est un lieu important pour présenter ses œuvres et a eu une grande influence sur le développement du cinéma underground.
+Pionnier du cinéma underground, Craig Baldwin a vivement critiqué les thèmes politiques et sociaux à travers des films expérimentaux qui exploitent pleinement les images trouvées. Son travail combine expérimentation visuelle et messages politiques pour provoquer une réflexion profonde. «Autre cinéma» est un lieu important pour présenter ses œuvres et a eu une grande influence sur le développement du cinéma underground.
 
 Son travail continue d'élargir la gamme d'expression cinématographique et d'offrir au public de nouvelles perspectives. Le travail de Baldwin est un incontournable pour les cinéphiles et les chercheurs, et son travail devrait continuer à être regardé.
 

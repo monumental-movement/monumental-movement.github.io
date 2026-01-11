@@ -10,13 +10,13 @@ tags:
 - House
 - Deep House
 - 90s
-title: Ultra Naté – Trouvé un remède
+title: Ultra Naté – Found A Cure
 ---
 
 
-Ultra Nate est un auteur-compositeur-interprète, producteur et DJ américain connu pour ses chansons à succès telles que "Free", "If You Could Read My Mind" et "Automatic".
+Ultra Nate（ウルトラ ナテ）は、「Free」「If You Could Read My Mind」「Automatic」などのヒット曲で知られるUSのシンガーソングライター・プロデューサー・DJ。
 
-"Found a Cure" est sorti en tant que deuxième single de son troisième album, Situation: Critical, sorti en 1998. Un morceau house/deep house qui a dominé le palmarès américain Billboard Hot Dance Club Songs et est devenu un succès mondial.
+「Found a Cure」は、 1998年にリリースした 3 枚目のアルバム「Situation: Critical」の 2 枚目のシングルとしてリリースされた。アメリカの Billboard Hot Dance Club Songs チャートで 1 位を獲得し、世界的にもヒットしたハウス・ディープハウストラック。
 
 #### Liste des chansons
 ```md

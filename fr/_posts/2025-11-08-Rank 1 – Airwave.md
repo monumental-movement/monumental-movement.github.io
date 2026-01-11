@@ -14,7 +14,7 @@ title: Rang 1 – Onde
 ---
 
 
-Rank 1 est un projet lancé en 1999 par les DJ/producteurs trance néerlandais Piet Bervoets et Benno De Goeij. Ils ont de nombreuses chansons à succès telles que "Airwave", "Such is Life", "L.E.D." et "There be light", parmi lesquelles "Airwave" sorti en 2000 est connu comme la chanson représentative de Rank 1 et un hymne de la scène trance à l'époque.
+Rank 1 est un projet lancé en 1999 par les DJ/producteurs de trance néerlandais Piet Bervoets et Benno De Goeij. Ils ont de nombreuses chansons à succès telles que "Airwave", "Such is Life", "L.E.D." et "There be light", parmi lesquelles "Airwave" sorti en 2000 est connu comme la chanson représentative de Rank 1 et un hymne de la scène trance à l'époque.
 
 #### Liste des chansons
 ```md

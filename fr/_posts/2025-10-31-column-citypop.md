@@ -11,7 +11,7 @@ tags:
 - Citypop
 - History
 - 80s
-title: '[Chronique] Redécouvrir la City Pop : Pourquoi les DJ et YouTubeurs étrangers
+title: '[Chronique] Redécouvrir la City Pop : Pourquoi les DJ et YouTubers étrangers
   en sont accros'
 ---
 
@@ -51,7 +51,7 @@ color: #fff;
 Sa musicalité est à plusieurs niveaux. AOR, soul, funk, jazz, disco – basés sur la musique noire occidentale, ils allient beauté mélodique et poésie japonaise. L'harmonie vocale précise de Tatsuro Yamashita, la mélodie douce mais déchirante de Mariya Takeuchi et la production structurée d'Eiichi Otaki. Tous fonctionnaient comme une « redéfinition japonaise de la pop ».
 
 Les thèmes de cette musique sont résumés dans des motifs tels que l'amour, la vie nocturne, la solitude et le mouvement. Même si l’action se déroule en ville, il y a un certain sentiment d’être laissé pour compte.
-Il s'agissait d'une « peinture de paysage privé » représentant la richesse et le vide provoqués par une croissance économique rapide comme un sentiment personnel. C’est pourquoi il trouve un écho auprès des auditeurs étrangers modernes. Maintenant que l’urbanisation et la numérisation ont progressé, ils sont eux aussi confrontés à la même solitude.
+Il s'agissait d'une « peinture de paysage privé » représentant la richesse et le vide provoqués par une croissance économique rapide comme un sentiment personnel. C’est pourquoi il trouve un écho auprès des auditeurs étrangers modernes. En effet, à l’heure de l’urbanisation et de la numérisation, eux aussi sont confrontés à la même solitude.
 
 ---
 
@@ -74,7 +74,7 @@ La progression d'accords utilise fréquemment le 7e et le 9e majeur, créant une
 Bien que le rythme soit de type AOR, il absorbe les tendances disco et soul de l'époque, et se caractérise par un léger groove d'environ 110 BPM.
 
 En termes d'enregistrement, « l'esthétique de l'espace » créée par l'équipement analogique et les ingénieurs qualifiés de l'époque brille.
-Le traitement de la réverbération et la précision de l'égalisation du studio ont permis d'obtenir à la fois « transparence » et « humidité ».
+Le traitement de la réverbération et l'égalisation de précision du studio ont permis d'obtenir à la fois transparence et humidité.
 En particulier, « SPACY » (1978) de Tatsuro Yamashita est transmis comme une œuvre monumentale qui a élevé le talent artistique de l'enregistrement en studio à ses limites ultimes.
 La perfection de ce son est l’une des raisons pour lesquelles il a été « découvert » outre-mer plus de 40 ans plus tard.
 
@@ -132,7 +132,7 @@ En conséquence, la culture japonaise des années 1980 a été reconvertie en un
 De la même manière, le Lo-fi Hip Hop est connecté à la culture BGM de YouTube et se propage sous forme de « vibes japonaises des années 80 ».
 Un extrait de city pop joué comme musique de fond pour étudier a été joué des centaines de millions de fois.
 En d’autres termes, le contexte de la musique a été complètement déconstruit et la musique pop japonaise est devenue un matériau d’émotions mondiales.
-C'est là que réside l'essence de la « nostalgie numérique », qui va au-delà de la traduction culturelle.
+C’est là l’essence de la « nostalgie numérique », qui va au-delà de la traduction culturelle.
 
 ---
 
@@ -155,7 +155,7 @@ Il ne s’agit pas simplement de nostalgie, mais d’un renversement dans lequel
 Les images générées par l'IA, les villes sur le Metaverse, l'art NFT : toutes sont des extensions de City Pop.
 
 La musique est à la fois un miroir de son temps et un outil d’empathie qui transcende les époques.
-La city pop est appréciée dans le monde entier parce que son son ne « recrée pas le passé », mais « rêve d’un avenir perdu ».
+La city pop est appréciée dans le monde entier parce que son son ne « recrée pas le passé », mais « rêve d'un avenir perdu ».
 La nuit de la ville commence à s’éclairer à nouveau aux oreilles du monde.
 
 ---

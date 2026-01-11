@@ -9,12 +9,12 @@ permalink: /fr/synapsi-feat-conny-lee-are-you-leaving-me/
 tags:
 - Techno
 - Italo
-title: Synapsi feat Conny Lee – Est-ce que tu me quittes
+title: Synapsi feat Conny Lee – Are You Leaving Me
 ---
 
 
-"Est-ce que tu me quittes" est
-Il s'agit d'un EP de Synapsi sorti sur le label italien "Technology" en 1993.
+「Are You Leaving Me」は、
+1993年にイタリアのレーベル「Technology」からリリースされたSynapsiによるEPです。
 
 
 #### Liste des chansons

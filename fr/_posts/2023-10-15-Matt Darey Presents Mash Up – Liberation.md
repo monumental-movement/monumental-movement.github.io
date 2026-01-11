@@ -8,13 +8,13 @@ layout: post
 permalink: /fr/matt-darey-presents-mash-up-liberation/
 tags:
 - Trance
-title: Matt Darey présente Mash Up – Libération
+title: Matt Darey Presents Mash Up – Liberation
 ---
 
 
-Matt Darey est un producteur/DJ britannique.
+Matt Darey（マット・ダレイ）は、イギリス出身のプロデューサー/DJ。
 
-Le premier morceau de la face A est un remix de Ferry Corsten (SystemF).
+A面１曲目はFerry Corsten（フェリー・コーステン/SystemF）によるremix。
 
 #### Liste des chansons
 ```md

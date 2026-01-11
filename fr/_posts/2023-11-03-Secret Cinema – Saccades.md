@@ -17,7 +17,7 @@ Secret Cinema est le projet principal du DJ et producteur techno/house néerland
 
 Sous un autre nom, il est également actif sous le nom de Grooveyard, dont la sortie de 1996 "Watch Me Now" est célèbre.
 
-"Saccades" est un morceau techno sorti en 2007 par EC Records, un label house et techno progressif fondé en 1993 par le DJ techno et progressif néerlandais Michel De Hey, connu sous le nom de DJ Mac De Hey, et Jeroen Verheij.
+"Saccades" est un morceau techno sorti en 2007 par EC Records, un label house et techno progressif fondé en 1993 par les DJ techno et progressifs néerlandais Michel De Hey, connu sous le nom de DJ Mac De Hey, et Jeroen Verheij.
 
 #### Liste des chansons
 ```md

@@ -94,7 +94,7 @@ Les figures et labels importants suivants existent dans la scène Footwork/Juke.
 | Artiste/Producteur | Cotisation |
 |---------------------|------|
 | DJ Rashad | Une figure centrale qui a diffusé le jeu de jambes à l’échelle internationale. Déployer des rythmes complexes et des techniques d'échantillonnage innovantes |
-| DJ Spinn | Construit le son Footwork avec DJ Rashad, grande influence sur les jeunes |
+| DJ Spinn | Construit le son Footwork avec DJ Rashad, a une grande influence sur les jeunes |
 | RP Bouh | L'un des fondateurs des premiers jeux de jambes, Ghetto House s'est transformé en jeu de jambes |
 | Traxman | A contribué au développement de la scène Juke à Chicago |
 | Planète Mu | Le label britannique Footwork sort à l'international |
@@ -142,7 +142,7 @@ Le lien avec Ghetto House, le prototype des premiers Footwork, est clair.
 ---
 
 - **DJ Spinn – « Du tout »**
-Utilisation créative d'échantillons, lien étroit entre la danse et la musique.
+Utilisation créative d'échantillons et lien étroit entre la danse et la musique.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wg2qYnayYao?si=LwzenQVVy_QPQ9uY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

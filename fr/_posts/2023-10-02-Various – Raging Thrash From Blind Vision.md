@@ -9,12 +9,12 @@ permalink: /fr/various-raging-thrash-from-blind-vision/
 tags:
 - Punk
 - Hardcore
-title: Divers – Raging Thrash de Blind Vision
+title: Various – Raging Thrash From Blind Vision
 ---
 
 
-"Raging Thrash From Blind Vision" est
-Ce disque, sorti par Answer Records en 2000, est une compilation du HARDCORE local de Nagoya.
+「Raging Thrash From Blind Vision」は、
+2000年にAnswer Recordsからリリースされたこのレコードは、名古屋のローカルHARDCOREのコンピレーション・アルバム。
 
 #### Liste des chansons
 ```md

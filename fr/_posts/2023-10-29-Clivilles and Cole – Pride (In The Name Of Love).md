@@ -9,11 +9,11 @@ permalink: /fr/clivilles-and-cole-pride-in-the-name-of-love/
 tags:
 - House
 - 90s
-title: Clivilles et Cole – Fierté (au nom de l'amour)
+title: Clivilles and Cole – Pride (In The Name Of Love)
 ---
 
 
-La face A est une reprise techno/club de Pride (In The Name Of Love) de U2.
+A面は、U2のPride (In The Name Of Love) をテクノ/クラブアレンジでカバー。
 
 #### Liste des chansons
 ```md

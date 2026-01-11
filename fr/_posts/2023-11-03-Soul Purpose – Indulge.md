@@ -12,7 +12,7 @@ title: Objectif de l’âme – Se faire plaisir
 ---
 
 
-Soul Purpose, alias Martin Ikin (également connu sous le nom de DJ Mayhem), produit depuis le début des années 90 des morceaux hardcore, jungle techno et drum and bass pour des labels comme Basement, Face et Precious Materials.
+Soul Purpose, alias Martin Ikin (également connu sous le nom de DJ Mayhem), produit depuis le début des années 90 des morceaux de hardcore, de jungle techno et de drum and bass pour des labels comme Basement, Face et Precious Materials.
 
 Depuis, il a sorti de la house music à l'américaine et des morceaux de jungle en collaboration avec DJ Phantasy.
 

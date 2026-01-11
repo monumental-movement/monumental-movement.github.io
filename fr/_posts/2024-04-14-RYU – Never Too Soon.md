@@ -10,13 +10,13 @@ tags:
 - Break Beat
 - Hiphop
 - House
-title: RYU – Jamais trop tôt
+title: RYU – Never Too Soon
 ---
 
 
-RYU est un groupe de hip hop/trip hop abstrait composé de DJ Hide, DJ Sak et Hideaki Ishi (DJ Krush).
+RYU（流）は、DJ Hide, DJ Sak, Hideaki Ishi（DJ Krush）からなるアブストラクトヒップホップ/トリップホップグループ。
 
-"Never Too Soon" est un morceau breakbeat house downtempo sorti en 2000 par le label londonien Exceptional.
+「Never Too Soon」は、ロンドンのレーベルExceptionalから2000年にリリースされたブレイクビーツ・ハウス・ダウンテンポ トラック。
 
 #### Liste des chansons
 ```md

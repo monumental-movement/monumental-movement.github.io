@@ -14,7 +14,7 @@ title: '[Chronique] Des origines de Shoegaze à nos jours — 10 chefs-d''œuvre
 
 
 
-## Shoegaze - contexte historique, disques célèbres, changements d'équipement et 10 pistes recommandées -
+## Shoegaze - historique, disques célèbres, changements d'équipement et 10 pistes recommandées -
 
 
 Texte : mmr｜Thème : Des origines de Shoegaze à nos jours
@@ -40,7 +40,7 @@ Ci-dessous, nous reviendrons sur l'histoire de Shoegaze par décennie et présen
 - **Effet** : Big Muff, Boss DD-3 Delay, Electro-Harmonix Memory Man
 - **Ampli** : Vox AC30, Fender Twin Reverb
 
-### 10 chansons recommandées (années 1980)
+### 10 chansons recommandées (années 1980)
 
 <style type="text/css">
 
@@ -91,7 +91,7 @@ color: #fff;
 
 | Titre de la chanson | Artiste | Commentaires |
 |------|--------------|--------------|
-| Seulement peu profond | Ma sanglante Saint-Valentin | Pop rugissante qui a défini le genre |
+| Seulement peu profond | Ma sanglante Saint-Valentin | Une pop rugissante qui a défini le genre |
 | Quand le soleil frappe | Plongée lente | Un symbole d'une belle sensation de flottement |
 | Alison | Plongée lente | Une célèbre ballade éphémère et transparente |
 | Sentier de vapeur | Balade | Arrangement d'instruments à cordes et sentiment de rêve |
@@ -120,7 +120,7 @@ color: #fff;
 - **Synthétiseur logiciel et DAW** (Pro Tools, Logic)
 - **Guitare** : Fender Stratocaster, Telecaster également augmentées
 
-### 10 chansons recommandées (années 2000)
+### 10 chansons recommandées (années 2000)
 
 | Titre de la chanson | Artiste | Commentaires |
 |------|--------------|--------------|
@@ -161,7 +161,7 @@ Parfois | Toujours | JAMC et Espoir Sandoval | La frontière entre noise et pop 
 | Arrose | DIIV | Sensation de précipitation et réverbération profonde |
 | Clou plié | Rien | Lourde mur de son |
 | Vertige | Fossiles de plage | Fusion d'indie et de rêve |
-| Imaginez les cœurs | Ringo Étoile de la Mort | Coexistence d'explosion et de douceur |
+| Imaginez les coeurs | Ringo Étoile de la Mort | Coexistence d'explosion et de douceur |
 | Laissez-vous pour toujours | Ringo Étoile de la Mort | Un son rugissant plein de sensation live |
 | La porte de l'anxiété | Marchandise | Mélange de Punk et de Gaze |
 | Lovebuzz (Couverture) | Apprivoiser Impala | Intersection de la psyché et du regard |
@@ -191,7 +191,7 @@ Parfois | Toujours | JAMC et Espoir Sandoval | La frontière entre noise et pop 
 | Titre de la chanson | Artiste | Commentaires |
 |------|--------------|--------------|
 | Asile contre la famine | Rien | Rugissement moderne et profond |
-| Attrapez la brise (Rework) | Plongée lente | Symbole du nouveau Slowdive |
+| Attrapez la brise (refonte) | Plongée lente | Symbole du nouveau Slowdive |
 | Bisous | Plongée lente | Beauté mélodique transparente |
 | Dites moins | Rien | Mur de son sombre et écrasant |
 | Ne vous fanez pas | Ringo Étoile de la Mort | Beauté rugissante rafraîchie |

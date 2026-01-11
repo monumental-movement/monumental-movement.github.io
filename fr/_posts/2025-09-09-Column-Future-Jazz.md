@@ -36,7 +36,7 @@ L'Acid Jazz est devenu populaire principalement au Royaume-Uni, réinventant le 
 
 - **Caractéristiques de l'équipement**
 -Akai MPC60/S1000
--Roland TR-808/TR-909
+-Roland TR-808 / TR-909
 - Principalement platine et sampler
 
 <style type="text/css">
@@ -213,7 +213,7 @@ Future Jazz fusionne avec le hip-hop et le jazz contemporain et évolue de mani�
 | Non | Artiste | Piste | Commentaires |
 |---|---|---|---|
 | 1 | Brume Alfa | Continuez | Jazz futur mélancolique. |
-| 2 | Kamal Williams | Attendez | Une pièce représentative du jazz contemporain de Londres. |
+| 2 | Kamal Williams | Attendez | Une chanson de jazz contemporaine représentative de Londres. |
 | 3 | Clapiers Shabaka | Agitation | Spirituel et puissant. |
 | 4 | Nubya Garcia | Rythme | Le saxophone se démarque. |
 | 5 | Battements du laboratoire bleu | Ananas | Une fusion de hip-hop et de jazz. |
@@ -226,6 +226,6 @@ Future Jazz fusionne avec le hip-hop et le jazz contemporain et évolue de mani�
 ---
 
 # Un genre toujours à l'avant-garde de son temps
-Future Jazz a continué d’évoluer en tant que lieu où se croisent l’improvisation du jazz traditionnel et l’innovation électronique. Cela a commencé avec la culture club des années 90, est passé par le Broken Beat et le Nu-Jazz, et s'étend aujourd'hui vers une expression à plusieurs niveaux qui intègre également la modularité et l'IA.
+Future Jazz a continué d’évoluer en tant que lieu où se croisent l’improvisation du jazz traditionnel et l’innovation électronique. Cela a commencé avec la culture club des années 90, est passé par Broken Beat et Nu-Jazz, et s'étend maintenant vers une expression à plusieurs niveaux qui intègre également la modularité et l'IA.
 
 Comme il sied au nom de « jazz futuriste », c'est un genre toujours à l'avant-garde de son temps.

@@ -23,7 +23,7 @@ title: Récupération des œuvres de Detroit Techno
 
 Caractéristiques : : 1997, du label belge Elypsia. Ce travail combine le respect de Détroit avec mon propre sens de l'exploration.
 
-Points recommandés : Il présente une touche unique en termes de développement minimal sérieux et constitue une pièce sur laquelle vous pouvez compter lorsque vous souhaitez maintenir un flux serré dans votre ensemble.
+Points recommandés : Il présente une touche unique en matière de développement minimal sérieux et constitue une pièce sur laquelle vous pouvez compter lorsque vous souhaitez maintenir un flux serré dans votre ensemble.
 
 #### Liste des chansons
 ```md
@@ -46,7 +46,7 @@ B2. Fade
 
 
 
-### Modèle 500 – Espace profond
+### Modèle 500 – Espace lointain
 <a href="https://jp.mercari.com/item/m23829394850?afid=6142608987"><img src="../assets/images/Model%20500%20%E2%80%93%20Deep%20Space.webp"></a>
 
 
@@ -110,7 +110,7 @@ T2. The Flow M38 (Alex Reece Mix)
 <a href="https://jp.mercari.com/item/m22835584429?afid=6142608987"><img src="../assets/images/Carl%20Craig%20%E2%80%93%20Landcruising.webp"></a>
 
 
-Caractéristiques : Image sonore dramatique qui combine ambient, breakbeat, futur jazz, etc. avec une base minimaliste.
+Caractéristiques : Image sonore dramatique qui combine ambient, breakbeat, futur jazz, etc. avec une base minimaliste.
 
 Points recommandés : Un album plein de profondeur et de sophistication qui emmène l'auditeur dans un voyage émotionnel. C'est une œuvre que les DJ et les auditeurs voudront écouter attentivement.
 

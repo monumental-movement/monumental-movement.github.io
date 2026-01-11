@@ -230,7 +230,7 @@ timeline
 # 11. City pop et culture de l'enregistrement : Pourquoi le son de l'ère analogique est-il « spécial » ?
 
 La raison pour laquelle les chefs-d'œuvre de Tatsuro Yamashita ont été réévalués dans le monde entier en tant que city pop est la suivante.
-Ce n'est pas seulement le charme des chansons, mais aussi la texture de l'enregistrement analogique et la culture des studios japonais des années 1980.
+Il ne s'agit pas seulement du charme des chansons, mais aussi de la texture de l'enregistrement analogique et de la culture des studios japonais des années 1980.
 
 indiquer:
 
@@ -240,7 +240,7 @@ indiquer:
 - Riche médium-bas de gamme avec console NEVE
 - Culture de réverbération à plaques EMT
 
-Ces « conditions spécifiques à l'âge » rendent le son analogique de la city pop unique.
+Ces « conditions spécifiques au temps » rendent le son analogique de la city pop unique.
 
 ---
 

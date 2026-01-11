@@ -21,7 +21,7 @@ title: '[Chronique] Cyndi Lauper : L''histoire d''une personne qui a continué �
 Texte : mmr｜Thème : La vie de Cyndi Lauper, les épisodes au Japon avant ses débuts, le succès mondial, les anecdotes de We Are the World, l'avancement à Broadway, les activités sociales
 
 
-Cyndi Lauper. Lorsque beaucoup de gens entendent ce nom, ils pensent immédiatement aux couleurs vives des années 80. Sa couleur de cheveux, ses vêtements, sa voix chantée et même son mode de vie sont tous colorés. Cependant, quand on regarde le chemin qu'elle a parcouru depuis sa naissance, on voit que la diversité de son chemin s'apparente davantage à une strate composée de couches après couches de souffrance, d'échecs, d'anxiété, d'amour et de rébellion.
+Cyndi Lauper. Lorsque de nombreuses personnes entendent ce nom, elles pensent immédiatement aux couleurs vives des années 80. Sa couleur de cheveux, ses vêtements, sa voix chantée et même son mode de vie sont tous colorés. Cependant, quand on regarde le chemin qu'elle a parcouru depuis sa naissance, on voit que la diversité de son chemin s'apparente davantage à une strate composée de couches après couches de souffrance, d'échecs, d'anxiété, d'amour et de rébellion.
 
 
 ---
@@ -48,7 +48,7 @@ Quand Cindy était jeune, elle était le genre d’enfant qui chantait à peu pr
 
 De nos jours, sa voix est une marque mondiale, mais lorsqu'elle était enfant, Cindy manquait de confiance en sa propre voix, et il fut un temps où elle craignait que « tout le monde pensait que ma voix était étrange ».
 
-Cependant, sa mère aimait beaucoup cette voix. En effet, même au milieu de situations familiales difficiles, la voix chantée de Cindy apportait de la luminosité dans la maison.
+Cependant, sa mère aimait beaucoup cette voix. En effet, même au milieu de situations familiales difficiles, la voix chantée de Cindy a apporté de la luminosité dans la maison.
 
 ---
 
@@ -183,7 +183,7 @@ Cet incident a été transmis comme un épisode qui symbolise la « capacité de
 
 #**10. Fin des années 80 aux années 90 : de la pop star à l'artiste**
 
-De la fin des années 80 aux années 90, Cindy oscille entre succès commercial et désir d'expression artistique.
+De la fin des années 80 aux années 90, Cindy était tiraillée entre le succès commercial et le désir d'expression artistique.
 
 ### **Chapeau plein d'étoiles (1993)**
 

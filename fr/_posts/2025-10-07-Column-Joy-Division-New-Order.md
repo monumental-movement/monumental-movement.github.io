@@ -42,7 +42,7 @@ color: #fff;
 ### Chapitre 1 : Les ombres de Manchester
 
 **"Mouvement embryonnaire post-punk"**
-À la fin des années 1970, la Grande-Bretagne était en pleine récession économique et en déclin industriel, et la culture des jeunes se développait de manière indépendante dans les zones urbaines. Manchester ne faisait pas exception, et sous la fumée de l’usine et le ciel gris, la musique existait comme un moyen d’exprimer à la fois le désespoir et l’espoir.
+À la fin des années 1970, la Grande-Bretagne était en proie à une récession économique et à un déclin industriel, et la culture des jeunes se développait de manière indépendante dans les zones urbaines. Manchester ne faisait pas exception, et sous la fumée de l’usine et le ciel gris, la musique existait comme un moyen d’exprimer à la fois le désespoir et l’espoir.
 
 **"L'aube de la formation du groupe"**
 En 1976, Bernard Sumner, Peter Hook et Stephen Morris se rencontrent et fondent Joy Division. Les premiers membres se sont connectés grâce à l'école et à la scène punk locale, et au début ils ont joué des reprises, mais ont finalement évolué vers des chansons originales qui reflétaient leur sentiment d'isolement et la morosité de la ville.
@@ -57,7 +57,7 @@ Le kraftrock de Kraftwerk et Neu!, les sons froids et durs du Velvet Underground
 ### Chapitre 2 : Désespoir du son – Le monde de Joy Division
 
 **"Son interne"**
-Les paroles de Ian Curtis dépeignent l’aliénation de soi, l’anxiété sociale et l’obscurité intérieure. Des chansons telles que « Transmission » et « She's Lost Control » sont des chefs-d'œuvre qui chevauchent la solitude de l'individu avec la nature inorganique de la ville.
+Les paroles de Ian Curtis dépeignent l’aliénation de soi, l’anxiété sociale et l’obscurité intérieure. Des chansons telles que « Transmission » et « She's Lost Control » sont des chefs-d'œuvre qui chevauchent la solitude de l'individu et la nature inorganique de la ville.
 
 **"Innovation de production"**
 Le producteur Martin Hannett a utilisé des techniques d'enregistrement pour rechercher un son spatial différent de la musique rock traditionnelle. La réverbération de la batterie et le placement tridimensionnel de la basse étaient des éléments importants qui créaient la froideur et la tension du son de Joy Division.
@@ -120,7 +120,7 @@ Amazonで購入 → [Movement](https://amzn.to/4mXprzN)
 Avec des chansons telles que « Power, Corruption & Lies », « Low-Life » et « Technique », ils ont approfondi leur fusion de rock, de synthé et de danse. Ils expérimentent différentes techniques de production sur chaque album, augmentant ainsi leur réception dans les clubs et à la radio.
 
 **"Fusion vidéo/design et son"**
-L'œuvre de Peter Saville relie la musique et les visuels et établit l'identité de la marque New Order. Le design est devenu un élément important qui exprimait symboliquement le contenu de l'album.
+L'œuvre de Peter Saville relie la musique et les visuels et établit l'identité de la marque New Order. Le design est devenu un élément important pour exprimer symboliquement le contenu de l'album.
 
 **"Coopération et frictions entre les membres"**
 La division des rôles et les opinions contradictoires entre Sumner, Hook, Morris et Gillian Gilbert créent des tensions au sein du groupe à mesure que la musique évolue. La friction est également devenue un moteur de créativité.

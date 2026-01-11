@@ -50,7 +50,7 @@ color: #fff;
 En 2001, Holden a attiré l'attention avec la chanson "A Break in the Clouds" sortie sur Silver Planet.
 Leur son a brisé le moule de la house progressive de l'époque. Mélancolique mais architectural. Les mélodies flottantes ont transformé les soirées club en une expérience poétique.
 
-A partir de cette chanson, il dessine un espace sonore qui n'est ni transe ni house.
+A partir de ce morceau, il sculpte un son qui n'est ni trance ni house.
 Ce flux s’est ensuite cristallisé sous la forme d’une communauté frontalière.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8VFZ3hvWW_M?si=-7fU7hCMw43mOeW7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -121,7 +121,7 @@ Border Community s’est peut-être éloigné du courant dominant, mais son infl
 La « frontière » n'est pas une frontière entre les genres, mais une frontière entre les idées.
 Pour Holden, la musique était une réponse à la société et une question posée au monde.
 
-À mesure que la culture des clubs se commercialisait, Border Community est devenue une base permettant de retrouver « ses émotions » et son « autonomie ».
+À mesure que la culture des clubs devenait de plus en plus commercialisée, Border Community est devenue une base pour retrouver « les émotions » et « l’autonomie ».
 Le son n’est pas une nostalgie, mais une reconstruction de la mémoire.
 Il a le pouvoir d’amener les auditeurs à reconsidérer leurs propres limites.
 

@@ -15,7 +15,7 @@ title: Coeur – Dreamboat Annie
 
 " Dreamboat Annie " est le premier album studio du groupe de rock américain Heart .
 
-À l'époque, le groupe était basé à Vancouver, en Colombie-Britannique, et l'album y a été enregistré et sorti pour la première fois au Canada par le label local Mushroom Records en septembre 1975. L'album a ensuite atteint le numéro 20 du classement des meilleurs albums de RPM et a été certifié double platine.
+À l'époque, le groupe était basé à Vancouver, en Colombie-Britannique, et l'album y a été enregistré et sorti pour la première fois au Canada par le label local Mushroom Records en septembre 1975. L'album a ensuite atteint la 20e place du classement des meilleurs albums de RPM et a été certifié double platine.
 
 #### Liste des chansons
 ```md

@@ -10,13 +10,13 @@ tags:
 - House
 - Minimal
 - 00s
-title: Mendo – Souvenez-vous
+title: Mendo – Remember
 ---
 
 
-David Ortega, également connu sous le nom de Mendo, est un DJ, producteur et fondateur suisse du label Clarisse Records.
+Mendo こと David Ortegaは、スイス出身のDJ・プロデューサーであり、レーベルClarisse Recordsの創設者。
 
-"Remember" est un morceau House & Minimal sorti en 2009 par le label Cadenza de Luciano.
+「Remember」は、Luciano (ルチアノ)主宰のレーベルCadenza(カデンザ)から2009年にリリースされたHouse & Minimal トラック。
 
 #### Liste des chansons
 ```md

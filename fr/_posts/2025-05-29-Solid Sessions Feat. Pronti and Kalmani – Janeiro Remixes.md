@@ -15,9 +15,9 @@ title: Solid Sessions Feat. Pronti & Kalmani – Janeiro (Remixes)
 ---
 
 
-"Janeiro", un morceau de transe vocale du groupe de producteurs néerlandais Solid Sessions avec Pronti & Kalmani, a été remixé par de nombreux DJ célèbres depuis sa sortie en 2000.
+オランダのプロデューサーグループSolid SessionsがPronti & Kalmaniをフィーチャーしたヴォーカルトランストラック「Janeiro」は、2000年のリリース以降数々の有名DJにremixされている。
 
-Ce disque est une version remixée du DJ/producteur néerlandais Armin van Buuren et Paul Hutsch, sortie sur le label Alpha+ en 2002.
+このレコードは、2002年にレーベルAlpha+からリリースされた、オランダのDJ・プロデューサーArmin van Buuren(アーミン・ヴァン・ビューレン)とPaul Hutschによるremixバージョン。
 
 #### Liste des chansons
 ```md

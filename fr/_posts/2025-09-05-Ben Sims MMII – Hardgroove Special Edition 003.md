@@ -16,7 +16,7 @@ title: Ben Sims MMII – Hardgroove Édition Spéciale 003
 
 Ben Sims MMII est l'un des pseudonymes de la légende de la techno Ben Sims.
 
-Tribal Techno/Hardgroove est sorti en 2003 par Ben Sims, connu comme le porte-drapeau de Hardgroove Techno, sur son propre label Hardgroove. Il est sorti en tant que troisième volet de la série "Special Edition" du label Hardgroove. Une pièce où vous pourrez profiter pleinement du monde de Ben Sims.
+Tribal Techno/Hardgroove est sorti en 2003 par Ben Sims, connu comme le porte-drapeau de Hardgroove Techno, sur son propre label Hardgroove. Il est sorti en tant que troisième volet de la série "Special Edition" du label Hardgroove. Le personnage de Ben Sims.
 
 #### Liste des chansons
 ```md

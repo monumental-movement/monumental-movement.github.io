@@ -59,7 +59,7 @@ Le rythme est basé sur le **2-step** dérivé du garage, mais il inclut égalem
 - La grosse caisse varie de **110 à 130 BPM** au lieu d'environ 140
 - Snare a une tonalité d'attaque faible sans accentuer le backbeat
 - Les chapeaux sont souvent fabriqués à partir d'enregistrements de terrain traités plutôt qu'à partir de métal.
-- En plus des boîtes à rythmes, vous pouvez utiliser des échantillons courts tels que le bruit de petits objets qui frappent, le bruit de grattage de papier, etc.
+- Utilisez de courts échantillons non seulement de boîtes à rythmes, mais aussi de sons de petits objets frappants, de sons de grattage de papier, etc.
 
 ### 1-3 Espace acoustique : réverbération, particule, enregistrement sur le terrain
 Le post-dubstep peut être décrit comme un « genre qui crée de l'espace ». En particulier, les éléments suivants sont distinctifs.
@@ -102,7 +102,7 @@ Grâce à ces méthodes, les chansons de Burial reconstituaient « des souvenirs
 
 James Blake est unique en ce qu'il sort le post-dubstep du contexte de la culture club et le combine avec l'expression des auteurs-compositeurs-interprètes.
 
-### Caractéristiques acoustiques
+### 音響的特徴
 - Minimalisme extrême centré autour du piano et du chant
 - Les basses sont minimales et disposées en douceur autour de 50-70 Hz.
 - La progression d'accords a une sensation harmonique classique.

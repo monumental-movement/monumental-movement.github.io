@@ -131,7 +131,7 @@ Leur performance se situe quelque part entre rituel religieux et technologie.
 
 ---
 
-## Chapitre 2 : Les battements de cœur du Japon – Des rythmes qui se connectent au-dessus et au-dessous du sol
+## Chapitre 2 : Le battement de cœur du Japon – Des rythmes qui se connectent au-dessus et au-dessous du sol
 
 ### 2-1. Après Ponta — De l’artisan au penseur
 

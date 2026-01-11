@@ -14,13 +14,13 @@ title: Obi, Charlie Hall – Dreamtech
 ---
 
 
-Obi, "Dreamtech" de Charlie Hall est un disque très rare. A1 et B1 sont des morceaux véritablement sans genre, contenant tous deux des éléments de beat brisé/champ gauche/dub, avec des voix/chants africains créant une ambiance tribale des années 90.
+Obi, "Dreamtech" de Charlie Hall est un disque très rare. A1 et B1 sont des morceaux véritablement sans genre, contenant tous deux des éléments de beat cassé/champ gauche/dub, avec des voix/chants africains créant une ambiance tribale des années 90.
 
 Des percussions et des lignes de synthé émouvantes complètent cet excellent joyau d'After Hours. C'est comme quelque chose que l'on entendait dans les salles de détente de nombreuses discothèques des années 90.
 
 B2 est un chef-d'œuvre de deep house tribal complètement magique et hypnotique. Ce disque utilise des échantillons et des voix typiques de l'époque et dégage une merveilleuse ambiance mystique.
 
-Ce disque est le rêve de tout chercheur, et il est rare de trouver quelque chose comme ça dans un disque de 12 pouces. C’est définitivement un disque qui mérite plus d’attention.
+Ce disque est vraiment le rêve de tout chercheur, et il est rare de trouver quelque chose comme ça dans les disques 12 pouces que vous recherchez. C’est définitivement un disque qui mérite plus d’attention.
 
 #### Liste des chansons
 ```md

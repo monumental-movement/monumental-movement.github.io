@@ -11,13 +11,13 @@ tags:
 - Tech House
 - House
 - 00s
-title: David Alvarado – Bleu
+title: David Alvarado – Blue
 ---
 
 
-"Blue" est un morceau Progressive House/Tech House sorti en 2001 par David Alvarado, un vétéran de la scène house underground de Los Angeles qui a sorti des œuvres sur des labels tels que Ovum, Peacefrog, NRK, Plastic City et Ultra.
+「Blue」は、Ovum, Peacefrog, NRK, Plastic City, Ultraなどのレーベルから作品をリリースするロサンゼルスのアンダーグラウンドハウスシーンのベテランDavid Alvarado (デビッド・アルバラード)が2001年にリリースした Progressive House／Tech Houseトラック。
 
-A est un remix du DJ techno/tech house innovant Christian Smith et John Selway.
+Aは、テクノ／テックハウス界の革新的DJ Christian あSmith (クリスチャン・スミス)とJohn Selwayによるremix。
 
 #### Liste des chansons
 ```md

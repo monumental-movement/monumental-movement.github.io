@@ -42,13 +42,13 @@ color: #fff;
 
 ## 1. Prologue : Là où la science et la musique se rencontrent
 
-Le **Prix Ig Nobel** est connu comme le « petit frère excentrique » du Prix Nobel.
+Le **Prix Ig Nobel** est connu comme le « petit frère excentrique » du prix Nobel.
 Depuis sa création en 1991 par la revue scientifique satirique américaine *Annals of Improbable Research*,
 Le prix a été décerné à des recherches qui font rire et réfléchir.
 
 En plus de domaines tels que la physique, la médecine, la paix et la littérature, ce prix est décerné dans des domaines tels que la physique, la médecine, la paix et la littérature.
 Les recherches sur le « son » et la « musique » ont souvent attiré l'attention.
-En effet, la science du son n’est pas seulement un phénomène ondulatoire.
+En effet, la science du son n’est pas qu’un simple phénomène ondulatoire.
 C’est parce qu’il pénètre profondément dans les émotions humaines, la société et la physiologie.
 
 Retraçant l'histoire du prix Ig Nobel,
@@ -137,7 +137,7 @@ Les deux partagent le même esprit d’enquête avec des méthodologies différe
 
 ---
 
-### 3.3 Le public comme « sujet » – entre émotion et données
+### 3.3 Le public comme « sujet » – entre émotions et données
 
 Dans des recherches récentes en neurosciences, l’IRMf a été utilisée pour mesurer l’activité cérébrale tout en écoutant de la musique.
 Des efforts sont en cours pour analyser les mécanismes par lesquels le plaisir et l’empathie se produisent.

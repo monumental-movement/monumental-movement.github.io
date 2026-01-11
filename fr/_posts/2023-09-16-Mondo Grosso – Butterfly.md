@@ -9,13 +9,13 @@ permalink: /fr/mondo-grosso-butterfly/
 tags:
 - House
 - Deep House
-title: Mondo Grosso – Papillon
+title: Mondo Grosso – Butterfly
 ---
 
 
-« Mondo Grosso – Butterfly » est également soutenu par de nombreux auditeurs comme l'EP de Shinichi Osawa.
+「Mondo Grosso – Butterfly」は、大沢伸一のEPでも多くのリスナーに支持されています。
 
-"Butterfly" est l'une des chansons qui représente le style musical de Mondo Grosso et est connue pour son son unique qui combine divers éléments musicaux tels que l'électronique, la house, le jazz et le R&B.
+「Butterfly」はMondo Grossoの音楽スタイルを代表する曲の一つで、エレクトロニック、ハウス、ジャズ、R&Bなど、さまざまな音楽要素を組み合わせた独自のサウンドで知られています。
 
 #### Liste des chansons
 ```md

@@ -41,7 +41,7 @@ Le rock and roll/rockabilly est une fusion transfrontalière de la culture de la
 
 ---
 
-**Mécanisme** : Mélanger de la musique qui traverse les frontières raciales et de classe + divertissement nocturne = provoquer des « paniques morales » (Diables folkloriques et paniques morales : Stanley Cohen). Les réglementations de la police, des écoles et des groupes religieux renforcent en fait l'unité de la scène.
+**Mécanisme** : Mélange de musique qui traverse les frontières raciales et de classe + divertissement nocturne = induisant des « paniques morales » (Diables folkloriques et paniques morales : Stanley Cohen). Les réglementations de la police, des écoles et des groupes religieux renforcent en fait l'unité de la scène.
 
 
 <hr>
@@ -79,13 +79,13 @@ Punk (NY/UK) construit des slogans contestataires et une infrastructure financi�
 
 ---
 
-Le reggae/dub est associé à la culture du sound system et est responsable de l'autodéfense et de la fierté des communautés d'immigrants. Les tensions avec la police sont fréquentes et les paroles parlent de résistance au racisme systémique.
+Le reggae/dub est associé à la culture du sound system et est responsable de l'autodéfense et de la fierté des communautés immigrées. Les tensions avec la police sont fréquentes et les paroles parlent de résistance au racisme systémique.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HwY7eY5I-9I?si=KQNXax_3yLCDTEcN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-La discothèque est un refuge pour la communauté LGBTQ+/Black/Latinx, qui obtient le droit de danser à la frontière entre le légal et l'illégal, même si elle a ses côtés sombres comme la sécurité des boîtes de nuit et la discrimination à l'admission.
+La discothèque est un refuge pour la communauté LGBTQ+/Black/Latinx, obtenant le droit de danser à la frontière entre le légal et l'illégal, tout en ayant aussi ses côtés sombres comme la sécurité des boîtes de nuit et la discrimination à l'admission.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4KUL9-eNXzQ?si=0RcRn_F0ErMntOI7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -185,7 +185,7 @@ Les Leftfield/Queer Clubs reconstruisent des espaces nocturnes sécurisés et é
 
 ### Années 2020 : Espaces irréguliers après la pandémie : Micro-rave et communautés locales
 
-Pendant la période de confinement, des DJ/streaming en plein air de style guérilla se sont produits partout dans le monde. Des tentatives ont été faites pour « réoccuper les espaces publics » tels que les parcs, les toits et les rues, et les négociations avec la police et les habitants sont entrées dans une nouvelle étape.
+Pendant la période de confinement, des DJ/streaming en extérieur de style guérilla se sont produits partout dans le monde. Des tentatives ont été faites pour « réoccuper les espaces publics » tels que les parcs, les toits et les rues, et les négociations avec la police et les habitants sont entrées dans une nouvelle étape.
 
 L'hybridation des mouvements sociaux et des événements musicaux (soirées de collecte de fonds, cuisines communautaires d'entraide, etc.) progresse et l'accent est mis sur le soin et la recherche de consensus plutôt que sur la dichotomie « illégal/légal ».
 

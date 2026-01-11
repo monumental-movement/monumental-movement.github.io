@@ -43,7 +43,7 @@ color: #fff;
 
 ## 2. Relation historique entre musique pop et expérimentation
 
-Bien que la musique pop ait été fondée sur le principe d’une distribution massive et d’une compréhension immédiate, des éléments expérimentaux y ont toujours été introduits. Depuis les années 1960, avec les progrès de la technologie en studio, l’enregistrement lui-même est devenu reconnu comme un acte créatif. La manipulation de bande, la lecture inversée et la réverbération artificielle ont été utilisées pour étendre la structure de la chanson.
+Bien que la musique pop ait été fondée sur le principe d’une distribution de masse et d’une compréhension immédiate, des éléments expérimentaux y ont toujours été introduits. Depuis les années 1960, avec les progrès de la technologie en studio, l’enregistrement lui-même est devenu reconnu comme un acte créatif. La manipulation de bande, la lecture inversée et la réverbération artificielle ont été utilisées pour étendre la structure de la chanson.
 
 Dans les années 1970, les synthétiseurs sont devenus populaires et les sons électroniques se sont imposés dans le vocabulaire pop. Durant cette période, les sons électroniques fonctionnaient comme des images futuristes et des symboles d’artificialité, et la musique et la représentation visuelle étaient étroitement liées.
 
@@ -67,7 +67,7 @@ La Pop/Art Pop électronique expérimentale utilise activement ces caractéristi
 
 Depuis les années 2010, les œuvres musicales sont presque inévitablement liées aux images. Les clips musicaux, les vidéos en direct et les courtes vidéos destinées aux réseaux sociaux ont modifié la structure même de la réception musicale.
 
-Dans le contexte de l’Art Pop, la vidéo n’est pas conçue comme un complément à la chanson, mais comme une composante équivalente. Le son et la vidéo sont conçus en même temps, et l'œuvre a une structure dans laquelle aucun d'eux ne peut à lui seul achever l'œuvre.
+Dans le contexte de l’Art Pop, la vidéo n’est pas conçue comme un complément à la chanson, mais comme une composante équivalente. Le son et la vidéo sont conçus en même temps, et l'œuvre a une structure dans laquelle l'un ou l'autre ne peut à lui seul achever l'œuvre.
 
 ---
 
@@ -113,6 +113,8 @@ Les œuvres vidéo présentent des gros plans du corps, un éclairage contrôlé
 
 Les mouvements sont structurés avec une forte lenteur et rapidité, et correspondent strictement aux changements du son.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wZ2njttY3BA?si=LoipjfeBoX9zUWOa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 ## 10. Contexte des activités d'Arca
@@ -148,6 +150,8 @@ Cela met l’auditeur dans un état de tension physique.
 Dans les expressions visuelles d'Arca, le corps est traité comme un matériau transformable. Le corps humain, les objets artificiels et les images traitées numériquement se superposent et entretiennent une relation correspondante avec la distorsion acoustique.
 
 Les représentations du corps n’indiquent pas des identités fixes, mais sont présentées comme des structures en constante évolution.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4LaCgzhidY?si=3Ml1wlUr-tNSts8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

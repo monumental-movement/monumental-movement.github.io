@@ -10,13 +10,13 @@ tags:
 - Tribal
 - Techno
 - 90s
-title: Le Vectif vs. L’Expérience M. – Stimulation EP
+title: The Vectif vs. The M. Experience – Stimulation EP
 ---
 
 
-The Montini Experience (The M. Experience) est un projet belge Techno/Hardtrance de Bart Grinaert, Lajos Mészáros et Marc Van Campenhout (Zzino). Bart Grinaert est surtout connu sous le nom de Housetrap, Sinesweeper et dans le cadre du duo Filterheadz avec Maarten Wilmaers.
+The Montini Experience(The M. Experience)は、Bart Grinaert, Lajos Mészáros, Marc Van Campenhout(Zzino)によるベルギーのTechno / Hardtranceプロジェクト。Bart Grinaertは、 Housetrap・Sinesweeper名義や、Maarten WilmaersとのデュオFilterheadzとしてよく知られている。
 
-"Stimulation EP" est un morceau Techno/Tribal sorti par le label belge Spectron Records en 1998.
+「Stimulation EP」は、1998年にベルギーのレーベルSpectron Records からリリースされたTechno／Tribalトラック。
 
 #### Liste des chansons
 ```md

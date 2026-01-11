@@ -10,17 +10,17 @@ tags:
 - Deep House
 - House
 - 00s
-title: Budai & Vic – LuvU
+title: Budai & Vic – Luv U
 ---
 
 
-Imre Bugyik et Viktor Kámán, également connus sous le nom de Budai & Vic, ont commencé à produire de la musique en 2000 et ont créé leur propre label egoist records (egotraxx records). En 2005, il crée un sous-label, I Love Deep Records.
+Budai & VicことImre Bugyik & Viktor Kámánは、2000年から制作を開始し自主レーベルegoist records (egotraxx records) を設立。2005年にはサブレーベルI Love Deep Recordsを設立した。
 
-"Luv U" est sorti par Deep House sur I Love Deep Records en 2006.
+「Luv U」は、2006年にI Love Deep RecordsかたリリースされたDeep House。
 
-A est un remix du DJ/producteur allemand Terry Lee Brown Jr. (Norman Feller).
+Aは、ドイツのDJ/プロデューサーTerry Lee Brown Jr.(Norman Feller)によるremix。
 
-B2 est un remix du DJ/producteur hongrois Andro (Gábor Baki).
+B2は、ハンガリー出身のDJ/プロデューサーAndro(Gábor Baki)によるremix。
 
 #### Liste des chansons
 ```md

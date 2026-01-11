@@ -15,7 +15,7 @@ title: Capitaine Jack – Ensemble et pour toujours !
 ---
 
 
-Captain Jack est un projet de danse de Cologne, en Allemagne, qui représente la scène dance européenne des années 90. Les premiers membres étaient les producteurs Udo Niebergall et Richard Witte. Un fêtard qui a été la tête d'affiche de tous les festivals célèbres des années 90.
+Captain Jack est un projet de danse de Cologne, en Allemagne, qui représente la scène Eurodance des années 90. Les premiers membres étaient les producteurs Udo Niebergall et Richard Witte. Un fêtard qui a été la tête d'affiche de tous les festivals célèbres des années 90.
 
 "Ensemble et pour toujours !" est un morceau Eurodance, Euro House sorti en 1997 sur le sous-label de danse d'EMI Allemagne - Cologne Dance Label (CDL).
 

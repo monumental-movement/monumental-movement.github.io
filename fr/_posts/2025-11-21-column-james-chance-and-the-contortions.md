@@ -21,7 +21,7 @@ title: '[Chronique] James Chance and the Contortions : les pionniers de No Wave 
 
 Texte : mmr｜Thème : la vie de James Chance, les activités de Contortions, ainsi que la structure musicale, l'analyse des rythmes et le style d'interprétation de chaque album et chanson.
 
-À la fin des années 1970, le centre-ville de New York formait un espace musical unique où se croisaient les impulsions du punk et l’esprit d’improvisation du jazz d’avant-garde. En son cœur, **James Chance and the Contortions** a poussé la fusion de l'avant-garde et du dance-punk à l'extrême.
+À la fin des années 1970, le centre-ville de New York formait un espace musical unique où se croisaient les impulsions du punk et l’esprit d’improvisation du jazz d’avant-garde. Au fond, **James Chance and the Contortions** a poussé la fusion de l'avant-garde et du dance-punk à l'extrême.
 
 ---
 
@@ -85,7 +85,7 @@ B --> H["Lydia Lunch / Teenage Jesus and the Jerks"]
 - La ligne de basse est répétitive et funky, et le saxophone tourbillonne librement.
 - **Analyse des battements** :
 - Keynote 4/4, mais le placement décalé de la caisse claire et les changements d'accent donnent toujours une impression d'oscillation.
-- Met l'accent sur l'improvisation tout en conservant une sensation de danse
+- Met l'accent sur l'improvisation tout en conservant le sens de la danse
 
 ### Chanson « Fais fondre toi-même »
 
@@ -101,7 +101,7 @@ B --> H["Lydia Lunch / Teenage Jesus and the Jerks"]
 
 - « Flexi Disc » ajoute le disco quatre sur le sol au rythme funk, en conservant une structure qui permet au public de danser.
 - Les paroles reflètent des problèmes sociaux, raciaux et identitaires
-- La ligne de basse est simple, mais le saxophone et la guitare harmoniquement improvisés sont impliqués.
+- La ligne de basse est simple, mais il s'agit d'un saxophone et d'une guitare harmoniquement improvisés.
 
 <div class="mermaid">
 

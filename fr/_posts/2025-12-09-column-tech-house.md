@@ -56,7 +56,7 @@ La Tech House est souvent confondue avec « un sous-genre de techno » ou « un 
 
 ---
 
-## 2. Années 1980 à 1990 : contexte de création
+## 2. Années 1980 à 1990 : Contexte de la création
 
 Les origines de Tech House seraient la culture des clubs du début des années 1990 en Grande-Bretagne, en particulier autour de Londres.
 À l'époque, l'Acid House et le Rave étaient populaires en Grande-Bretagne, et une variété de styles tels que la Hard House, la Progressive House, la Techno et la Tribal House étaient mélangés.
@@ -66,9 +66,9 @@ En particulier, les tendances suivantes ont été à la base de la création de 
 * Minimalisme de la techno britannique (Surgeon, Regis, Dave Clarke, etc.)
 * Une version britannique du groove de l'US House (Chicago/NY)
 * Mélange de Tribal House, Garage et Progressive House
-* Styles DJ multi-genres de Pirate Radio et de la scène club londonienne (The End, etc.)
+* Styles DJ multi-genres issus de Pirate Radio et de la scène club londonienne (The End, etc.)
 
-Les gens réunis au club ne recherchaient pas seulement de la techno ou de la house, mais appréciaient de longues pièces de DJ mêlant des éléments des deux. Grâce à ce processus, il a développé un sens du mixage qui allie naturellement la « dureté de la techno » et la « chaleur de la house ».
+Les gens qui affluaient dans le club ne recherchaient pas seulement de la techno ou de la house, ils appréciaient de longues pièces de DJ mêlant des éléments des deux. Grâce à ce processus, il a développé un sens du mixage qui allie naturellement la « dureté de la techno » et la « chaleur de la house ».
 
 ---
 
@@ -131,7 +131,7 @@ En particulier, les artistes suivants sont importants car ils comblent le fossé
 
 * Steve Bug (Poker plat)
 * Booka Ombre
-*M.A.N.D.Y.
+* M.A.N.D.Y.
 * Ricardo Villalobos (minimal mais recoupe également Tech House)
 * Dés de locomotive
 *Lucien
@@ -169,7 +169,7 @@ Vers la fin des années 2000, Tech House a connu les changements suivants.
 
 Dans les années 2010, Tech House est devenu l'un des 4/4 les plus joués dans les clubs et festivals du monde entier. L'augmentation de la demande a été particulièrement importante à Ibiza.
 
-Exemples d'artistes vedettes :
+Exemples d'artistes notables :
 
 *Jamie Jones (Créations chaudes)
 *Lee Foss
@@ -230,7 +230,7 @@ Voici les labels qui définissent Tech House.
 
 * Se tortiller
 * Enregistrements de butin
-*Les enregistrements de fin
+*La fin des enregistrements
 * Poker plat
 *Mobile
 * Bedrock (plus progressif, mais recoupe Tech House)
@@ -300,11 +300,11 @@ flowchart TD
 
 ## 14. Résumé
 
-La Tech House est une musique de club qui allie la chaleur de la house à la structure minimale de la techno. Elle s'est développée principalement sur la scène des clubs britanniques dans les années 1990 et, depuis les années 2000, elle s'est répandue dans le monde entier, croisant étroitement l'Allemagne et les États-Unis.
+La Tech House est une musique de club qui combine la chaleur de la house avec la structure minimale de la techno. Elle s'est développée principalement sur la scène des clubs britanniques dans les années 1990 et, depuis les années 2000, elle s'est répandue dans le monde entier, croisant étroitement l'Allemagne et les États-Unis.
 
 Aujourd'hui, la Tech House a évolué vers une musique jouée dans un large éventail de contextes, de l'underground à la scène principale, et est devenue un élément essentiel de la culture DJ.
 
-Dans cet article, nous avons systématiquement organisé la façon dont le genre Tech House s'est formé et comment il s'est développé jusqu'à sa forme actuelle, en couvrant son histoire, son son, sa culture régionale, sa théorie de la production et ses artistes représentatifs. Tech House continuera à être un élément important de la culture du club à l’avenir.
+Dans cet article, nous avons systématiquement organisé comment le genre Tech House s'est formé et comment il s'est développé jusqu'à sa forme actuelle, en couvrant son histoire, son son, sa culture régionale, sa théorie de la production et ses artistes représentatifs. Tech House continuera à être un élément important de la culture du club à l’avenir.
 
 ---
 

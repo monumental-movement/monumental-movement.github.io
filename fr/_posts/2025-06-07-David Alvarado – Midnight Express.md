@@ -10,11 +10,11 @@ tags:
 - House
 - Deep House
 - 90s
-title: David Alvarado – Minuit Express
+title: David Alvarado – Midnight Express
 ---
 
 
-Un CD de compilation mix house/deep house sélectionné par le DJ/producteur américain David Alvarado, qui a produit des œuvres pour des labels tels que Ovum, Peacefrog, NRK, Plastic City et Ultra.
+Ovum、Peacefrog、NRK、Plastic City、Ultraなどのレーベルで作品を制作しているUSのDJ・プロデューサーDavid Alvaradoがセレクトしたハウス・ディープハウスコンピレーションミックスCD。
 
 
 #### Liste des chansons
