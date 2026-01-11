@@ -11,100 +11,100 @@ tags:
 - Modular
 - Ambient
 - Techno
-title: 【コラム】 ユーロラック・モジュラーシンセサイザーの変遷と音楽シーンへの影響
+title: 【專欄】Eurorack模塊化合成器的變化及其對樂壇的影響
 ---
 
 
-## 「無限に広がる音のレゴブロック」
+## “具有無限聲音的樂高積木”
 
-文：mmr｜テーマ：ユーロラック・モジュラーシンセサイザーの変遷と音楽シーンへの影響
+文：mmr｜主題：Eurorack 模塊化合成器的變化及其對樂壇的影響
 
-ユーロラック（Eurorack）モジュラーシンセサイザーは、1990年代初頭にドイツのエンジニア、ディーター・ドイプファー（Dieter Doepfer）が提唱しました。彼のA-100システムを起点に、モジュールのサイズや電源規格を統一したことで、異なるメーカーのモジュールを自由に組み合わせられる仕組みが誕生しました。
+Eurorack 模塊化合成器是由德國工程師 Dieter Doepfer 在 20 世紀 90 年代初發明的。以他的A-100系統為起點，通過標準化模塊尺寸和供電標準，一個允許不同製造商的模塊自由組合的系統誕生了。
 
-従来のモーグやブクラに比べて小型かつ手頃な価格で提供されたユーロラックは、多くのミュージシャンや愛好家に支持され、現在では世界中で300以上のメーカーが参加する大規模なエコシステムへと発展しています。
+Eurorack 比傳統的 Moog 和 Bucla 更小、更實惠，獲得了眾多音樂家和愛好者的支持，現已發展成為一個擁有全球 300 多家製造商參與的大型生態系統。
 
 <小時>
 
-### 主なモジュールとメーカーの特徴
+### 主要模塊及廠家特點
 
-#### Make Noise（メイクノイズ）
+#### 製造噪音
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hFvhsahHcpM?si=grWL0pmruhL5tqVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-**代表モジュール**: MATHS、Erbe-Verb、Phonogene
+**代表性模塊**：MATHS、Erbe-Verb、Phonegene
 
-**特徴**: 直感的な操作性と独創的な機能を持つモジュールを提供。MATHSはアナログコンピュータとして、複雑なモジュレーションを可能にします。
+**特點**：提供具有直觀可操作性和獨特功能的模塊。作為模擬計算機，MATHS 允許進行複雜的調製。
 
 ---
 
-#### Intellijel（インテリジェル）
+#### 英特爾利耶爾
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ui0gEcdWdsk?si=19pl-qrlE4OuxRGC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-**代表モジュール**: Plonk、Metropolis、Tetrapad
+**代表性模塊**：Plonk、Metropolis、Tetrapad
 
-特徴: 高品質なデジタルモジュールを多く手掛け、特にシーケンサーやパフォーマンス用のインターフェースに強みがあります。
+特點：我們生產許多高質量的數字模塊，並且在音序器和性能接口方面尤其強大。
 
-#### Mutable Instruments（ミュータブル・インストゥルメンツ）
+#### 可變樂器
 
-**代表モジュール**: Braids、Rings、Clouds
+**代表性模塊**：辮子、戒指、雲彩
 
-**特徴**: オープンソースで開発され、柔軟な音作りが可能なモジュールを提供。特に音色の多様性に優れています。
+**功能**：作為開源開發，提供允許靈活聲音創建的模塊。它具有特別出色的音調多樣性。
 
 ---
 
-#### Doepfer（ドイプファー）
+#### 多普弗
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NEsKKIOkx5k?si=Jow4l0OhJfpSzTXn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-**代表モジュール**: A-110（VCO）、A-120（SVF）、A-140（EG）
+**代表性模塊**：A-110 (VCO)、A-120 (SVF)、A-140 (EG)
 
-**特徴**: ユーロラック規格の提唱者として、基本的なモジュールを多くラインナップ。初心者にも扱いやすい設計が特徴です。
+**特點**：作為 Eurorack 標準的支持者，我們提供廣泛的基本模塊系列。它的設計即使對於初學者來說也很容易使用。
 
 ---
 
-#### Noise Engineering（ノイズ・エンジニアリング）
+#### 噪聲工程
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MhbaVXk5Mr8?si=89rfvzzrMWqoAlBx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-**代表モジュール**: Basimilus Iteritas、Loquelic Iteritas
+**代表模塊**：Basimilus Iteritas、Loquelic Iteritas
 
-**特徴**: デジタルシンセシスを駆使し、鋭い音色と高い音圧を持つモジュールを提供。特にエクストリームな音作りに適しています。
-
-
-<小時>
-
-### 音楽ジャンル・シーンへの影響
-
-ユーロラックモジュラーシンセサイザーは、特定の音楽ジャンルやシーンに多大な影響を与えてきました。
-
-#### エクスペリメンタル／アンビエント
-
-アレッサンドロ・コルティーニ（Alessandro Cortini）やケイト・フルターン・ウィットマン（Keith Fullerton Whitman）などのアーティストは、ユーロラックを用いて複雑で深遠な音世界を構築しています 。
-
-
-#### テクノ／IDM
-
-アーティストの中には、ユーロラックをライブパフォーマンスやスタジオ制作に活用し、即興的でダイナミックな音作りを行っている者も多くいます 。
-
-#### ポップ／ロック
-
-ColdplayやNine Inch Nailsなどのバンドもユーロラックを取り入れ、楽曲制作やライブパフォーマンスに新たな音色を加えています 。
+**特點**：採用數字合成，為模塊提供音色銳利、聲壓高的特點。特別適合極端的聲音創作。
 
 
 <小時>
 
-### ユーザーとアーティストの活用事例
+### 對音樂流派和場景的影響
 
-以下は、ユーロラックモジュラーシンセサイザーを活用している著名なアーティストとその代表的なモジュールの一部です。
+Eurorack 模塊化合成器對某些音樂流派和場景產生了巨大影響。
+
+#### 實驗/環境
+
+Alessandro Cortini 和 Keith Fullerton Whitman 等藝術家使用 Eurorack 創造複雜而深刻的聲音世界。
+
+
+#### 技術/IDM
+
+許多藝術家使用 Eurorack 進行現場表演和工作室製作，創造即興和動態的聲音。
+
+#### 流行/搖滾
+
+Coldplay 和 Nine Inch Nails 等樂隊也接受了 Eurorack，為他們的歌曲創作和現場表演增添了新的基調。
+
+
+<小時>
+
+### 用戶和藝術家的使用示例
+
+以下是一些著名藝術家及其使用 Eurorack 模塊化合成器的簽名模塊。
 
 <div class="table-border">
 <table>
@@ -146,9 +146,9 @@ ColdplayやNine Inch Nailsなどのバンドもユーロラックを取り入れ
 
 <小時>
 
-### Surgeonのライブセットアップの特徴
+### 外科醫生現場設置的特點
 
-Surgeonのライブセットアップは、最小限の機材で最大の表現を追求することを特徴としています。彼は、複雑な機材の組み合わせではなく、限られたモジュールを駆使して即興的なパフォーマンスを行います。これにより、観客との一体感や予測不可能な展開を生み出し、テクノのライブパフォーマンスに新たな次元をもたらしています。
+外科醫生的現場設置的特點是追求用最少的設備實現最大程度的表達。他使用有限數量的模塊而不是複雜的設備組合進行即興表演。這創造了一種與觀眾的團結感和不可預測性，為現場技術表演帶來了新的維度。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YzbRHySXq9s?si=opHMYGQNVsB-7qI6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -156,8 +156,8 @@ Surgeonのライブセットアップは、最小限の機材で最大の表現�
 <小時>
 
 
-### 小さな箱から、無限のサウンドへ
+### 從小盒子到無限聲音
 
-ユーロラックモジュラーシンセサイザーは、その柔軟性と拡張性により、アーティストに新たな創造の自由を提供しています。今後もその進化と共に、音楽シーンにおける役割はますます重要になっていくことでしょう。
+Eurorack 模塊化合成器以其靈活性和可擴展性為藝術家提供了新的創作自由。隨著它的不斷發展，它在音樂界的作用將變得更加重要。
 
 ---

@@ -9,23 +9,23 @@ permalink: /zh-hant/sly-and-the-family-stone-stand/
 tags:
 - Funk
 - Soul
-title: Sly & The Family Stone – Stand
+title: 狡猾的石頭家族 – 立場
 ---
 
 
-「Stand!」は、スライ＆ザ・ファミリー・ストーンの4枚目のスタジオアルバムであり、彼らの最も成功した作品の一つです。
+“站立！”是 Sly & the Family Stone 的第四張錄音室專輯，也是他們最成功的作品之一。
 
-アルバムは、ファンク、ソウル、ロック、ポップなど、様々なジャンルを融合させた音楽スタイルで注目を集めました。
+這張專輯因其融合了放克、靈魂、搖滾和流行等多種流派的音樂風格而受到關注。
 
-アルバムには多くのヒット曲が含まれており、「Everyday People」や「Stand!」、「I Want to Take You Higher」などが特に有名です。
+這張專輯收錄了許多熱門歌曲，其中最著名的是《Everyday People》、《Stand!》和“我想帶你更高”。
 
-これらの曲は、社会的な統合と平和への願いをテーマにしており、ポジティブなメッセージとキャッチーなメロディが特徴です。
+這些歌曲關於社會融合和對和平的渴望，並具有積極的信息和朗朗上口的旋律。
 
- 「Stand!」は、スライ＆ザ・ファミリー・ストーンの音楽的な革新性とその時代における社会的な意義を反映した作品です。
+“站立！”反映了斯萊和斯通家族的音樂創新和當時的社會意義。
 
- アルバムは、ファンクミュージックの進化とポップカルチャーへの影響を象徴するものとなりました。
+這張專輯成為放克音樂演變及其對流行文化影響的象徵。
 
- スライ＆ザ・ファミリー・ストーンの実験的なアプローチと積極的なメッセージは、多くのミュージシャンや聴衆に影響を与え、彼らを永遠のアーティストとして位置付けています。
+Sly & the Family Stone 的實驗方法和積極的信息影響了無數的音樂家和觀眾，將他們定位為永恆的藝術家。
 
 #### 曲目列表
 ```md
@@ -46,7 +46,7 @@ B2. Sex Machine
 B3. You Can Make It If You Try
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m58390542261?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m58390542261?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ttYXMjVsKA4?si=wGxjJ_SrqbWDbWga" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

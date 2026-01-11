@@ -11,15 +11,15 @@ tags:
 - Techno
 - Acid
 - 90s
-title: Aphrohead aka Felix Da Housecat – In The Dark We Live (Remixes)
+title: Aphrohead 又名 Felix Da Housecat – In The Dark We Live (Remixes)
 ---
 
 
-Aphroheadは、シカゴハウスの第2世代・ハウスレジェンドFelix Da Housecat の別名義。
+Aphrohead 是第二代芝加哥 House 傳奇人物 Felix Da Housecat 的別名。
 
-「In The Dark We Live (Remixes)」は1994年にベルギーのレーベルRe-load Recordsからリリースされたテクノ・アシッドトラック。
+《In The Dark We Live (Remixes)》是比利時唱片公司 Re-load Records 於 1994 年發行的一首高科技歌曲。
 
-A面1曲目とB面は、“テクノ男爵”(John Peelが命名)の異名を持つUKエレクトロニックダンスミュージックDJ、プロデューサー Dave Clarke (デビッド・クラーク)によるremix。
+A面和B面的第一首曲目是由英國電子舞曲DJ兼製作人戴夫·克拉克（Dave Clarke）混音而成，他被稱為“Techno Baron”（由約翰·皮爾命名）。
 
 #### 曲目列表
 ```md
@@ -34,7 +34,7 @@ B. In The Dark We Live (Dave Clarks 313 Mix)
 
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m60815233637?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m60815233637?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1xHa1OhEVgc?si=HxygP-FiynNRzY6Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

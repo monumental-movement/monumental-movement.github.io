@@ -13,7 +13,7 @@ title: 格蘭特·尼爾森 – 傑克的季節
 
 
 格蘭特·納爾遜
-) 是來自倫敦的 DJ/製作人、Nice 'N' Ripe 和 Swing City Records 的聯合創始人以及 Freeze Dried 的所有者。
+) 是一位來自倫敦的 DJ/製作人，Nice 'N' Ripe 和 Swing City Records 的聯合創始人，以及 Freeze Dred 的所有者。
 
 Grant Nelson 活躍於 90 年代的英國車庫界，也被稱為房屋/車庫製作人。
 

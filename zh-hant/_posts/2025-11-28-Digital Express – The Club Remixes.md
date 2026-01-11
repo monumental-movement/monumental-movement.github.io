@@ -10,7 +10,7 @@ permalink: /zh-hant/digital-express-the-club-remixes/
 tags:
 - Techno
 - 00s
-title: Digital Express – The Club (Remixes)
+title: 數字快車 – 俱樂部（混音）
 ---
 
 
@@ -20,13 +20,13 @@ title: Digital Express – The Club (Remixes)
 
 
 
-Digital Expressは、オランダテクノ界で最も影響力のあるプロデューサーの一人として知られるJeroen Searchと、オランダのアシッド・テクノレーベルX-Traxの創設者Mischa van der Heiden(DJ Misjah)によるAcid/Technoプロジェクト。
+Digital Express 是一個 Acid/Techno 項目，由荷蘭 techno 領域最具影響力的製作人之一 Jeroen Search 和荷蘭 Acid Techno 廠牌 X-Trax 創始人 Mischa van der Heiden (DJ Misjah) 共同打造。
 
-「The Club (Remixes)」は、スペインのレーベルBlanco Y Negroから2005年にリリースされた。
+《The Club (Remixes)》於 2005 年由西班牙唱片公司 Blanco Y Negro 發行。
 
-A1は、オランダのTechno DJ , Paco LesottoことPeter Horrevortsによるremix。
+A1 是荷蘭 techno DJ Peter Horrevorts（又名 Paco Lesotto）的混音版。
 
-A2hq、1990年初頭から活躍するオランダのDJ／プロデューサーMichel De Heyによるremix。
+A2hq，由自 20 世紀 90 年代初以來一直活躍的荷蘭 DJ/製作人 Michel De Hey 創作的混音版。
 
 #### 曲目列表
 ```md
@@ -36,7 +36,7 @@ A2. The Club (Michel De Hey Remix)
 B. The Club (Original Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m76248410916?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m76248410916?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0t-lQXBpCuw?si=oKfI-INbkMrZHsiy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

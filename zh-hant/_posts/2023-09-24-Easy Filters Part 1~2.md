@@ -13,7 +13,7 @@ title: FLR - 簡易過濾器第 1~2 部分
 ---
 
 
-這是 Ken Ishii 的別名“FLR”於 1998 年在日本 Reel Musiq 廠牌發行的 EP。
+這是 Ken Ishii 的化名“FLR”於 1998 年在日本 Reel Musiq 廠牌發行的 EP。
 
 它也被收錄在2001年的專輯《Easy Filters》中。
 

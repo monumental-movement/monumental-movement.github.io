@@ -10,34 +10,34 @@ tags:
 - Psy-Trance
 - Trance
 - 90s
-title: 【コラム】 Psy-Trance（サイケデリック・トランス）の歴史と名盤・おすすめトラック10選
+title: '[專欄] Psy-Trance 歷史、代表作以及 10 首推薦曲目'
 ---
 
 
 
-## サイケデリック・トランス（Psy-Trance） — 発祥から現在までの年代別クロニクルと機材の変遷
+## 迷幻恍惚 (Psy-Trance) — 設備從起源到現在的年表和變化的編年史
 
-文：mmr｜テーマ：Psy-Trance（サイケデリック・トランス）の発祥から現在までの歴史
+文：mmr｜主題：Psy-Trance 從起源到現在的歷史
 
 
-Goaでのヒッピー／レイブ文化を起点に生まれたGoa tranceは1990年代中盤に“サイケデリック・トランス（Psy-Trance）”として世界に拡散。以降、音像の洗練と機材のデジタル化によって多様な派生ジャンル（Full-on、Darkpsy、Progressive、Psybient 等）を生み、フェス文化とネット配信でグローバル化しました。
+果阿 trance 起源於果阿的嬉皮士/銳舞文化，於 20 世紀 90 年代中期以“迷幻 trance”的形式傳播到世界各地。此後，各種衍生流派（Full-on、Darkpsy、Progressive、Psybient等）通過聲音圖像的細化和設備的數字化被創造出來，並通過節日文化和在線發行而走向全球。
 
-以下、年代別の流れ・代表的名盤・機材の変遷、そして**各時代のおすすめトラック10選**をまとめます。
+下面，我們將按世代、代表性代表作、裝備變化以及**各個時代的10首推薦曲目**來總結。
 
 
 ---
 
-## 起源 — 1970s〜1980s
-- **背景:** ヒッピー文化と電子楽器の流入。中古シンセやリズムマシンがGoaに持ち込まれる。
-- **機材:** Roland TB-303, TR-808, TR-909 など。
+## 起源 — 1970 年代-1980 年代
+- **背景：** 嬉皮文化和電子樂器的湧入。用過的合成器和節奏機被帶到果阿。
+- **設備：** 羅蘭TB-303、TR-808、TR-909等
 
 ### 傑作
-- Kraftwerk – *Computer World* (1981)  
-- Tangerine Dream – *Exit* (1981)  
-- Charanjit Singh – *Ten Ragas to a Disco Beat* (1982)  
+- Kraftwerk – *計算機世界* (1981)
+- 橘夢 – *退出* (1981)
+- Charanjit Singh – *《迪斯科節奏十拉格》* (1982)
 
 
-### おすすめトラック 10選（1970s〜80s）
+### 10 首推薦曲目（1970 年代-80 年代）
 
 
 <style type="text/css">
@@ -53,170 +53,170 @@ color: #fff;
 }
 </style>
 
-| #  | アーティスト / 曲名 | 年 | 備考 |
+| ＃|藝術家/歌曲名稱 |年份|筆記|
 |----|--------------------|----|------|
-| 1  | Kraftwerk – Numbers | 1981 | 初期エレクトロの礎 |
-| 2  | Tangerine Dream – Exit | 1981 | 宇宙的シンセサウンド |
-| 3  | Charanjit Singh – Ten Ragas to a Disco Beat | 1982 | TB-303先駆的使用 |
-| 4  | Klaus Schulze – Trance 4 | 1983 | ヨーロッパ電子音響 |
-| 5  | Psychic TV – Tune In | 1982 | サイケ文化の継承 |
-| 6  | Jean-Michel Jarre – Ethnicolor | 1984 | エスノ＋電子音響 |
-| 7  | Front 242 – Headhunter | 1988 | EBMの代表曲 |
-| 8  | The KLF – What Time Is Love? | 1988 | レイブ黎明期 |
-| 9  | 808 State – Pacific State | 1989 | バレアリック影響 |
-| 10 | Goa Gil – DAT tape mixes | 1980s後期 | Goaサウンドの原型 |
+| 1 | Kraftwerk – 數字 | 1981 |早期電子的基礎 |
+| 2 |橘夢 – 退出 | 1981 |宇宙合成聲音 |
+| 3 | Charanjit Singh – 迪斯科節奏的十個拉格 | 1982 | TB-303 開創性使用 |
+| 4 |克勞斯·舒爾茨 – Trance 4 | 1983 |歐洲電聲學|
+| 5 |通靈電視 – 收看 | 1982 |心靈文化的傳承 |
+| 6 |讓-米歇爾·雅爾 (Jean-Michel Jarre) – Ethnicolor | 1984 |民族音樂+電子音樂|
+| 7 | Front 242 – 獵頭 | 1988 | EBM 的招牌歌曲 |
+| 8 | KLF——愛情是什麼時候？ | 1988 |狂歡的早期 |
+| 9 | 808 州 – 太平洋州 | 1989 |巴利阿里群島的影響 |
+| 10 | 10 Goa Gil – DAT 磁帶混音 | 20 世紀 80 年代末 |果阿原聲 |
 
 <br>
 
 ---
 
-##  Goa Tranceの成立 — 1990〜1994
-- **背景:** インド・ゴアのフルムーンパーティ。DATテープで流れるトランスサウンドが世界に拡散。
-- **機材:** DAT, Rolandシンセ、初期サンプラー。
+##  Goa Trance 成立 — 1990-1994
+- **背景：** 印度果阿滿月派對。 DAT 磁帶上播放的 Trance 聲音傳遍了全世界。
+- **設備：** DAT、Roland 合成器、早期採樣器。
 
 ### 傑作
-- Juno Reactor – *Transmissions* (1993)  
-- Man With No Name – *Moment of Truth* (1994)  
-- The Infinity Project – *Feeling Very Weird* (1994)  
+- 朱諾反應堆 – *傳輸* (1993)
+- 無名之人 – *關鍵時刻* (1994)
+- 無限計劃 – *感覺很奇怪* (1994)
 
 
-### おすすめトラック 10選（1990–94）
+### 10 首推薦曲目 (1990–94)
 
-| #  | アーティスト / 曲名 | 年 | 備考 |
+| ＃|藝術家/歌曲名稱 |年份|筆記|
 |----|--------------------|----|------|
-| 1  | Juno Reactor – Transmissions | 1993 | エスノ＋トランス融合 |
-| 2  | Man With No Name – Teleport | 1994 | Goaクラシック |
-| 3  | The Infinity Project – Feeling Very Weird | 1994 | Goaシーン象徴 |
-| 4  | Doof – Let's Turn On | 1994 | サイケデリックなリフ |
-| 5  | Total Eclipse – Le Lotus Bleu | 1994 | 仏産サイケ代表 |
-| 6  | Etnica – Trip Tonite | 1994 | 多層的シンセ |
-| 7  | Green Nuns of the Revolution – Conflict | 1994 | エネルギッシュ |
-| 8  | Prana – Geomantik | 1994 | 日本人参加ユニット |
-| 9  | Transwave – Hypnorhythm | 1994 | フランス代表格 |
-| 10 | Shakta – Lepton Head | 1994 | Goa傑作 |
+| 1 |朱諾反應堆 – 傳輸 | 1993 |民族 + Trance 融合 |
+| 2 |無名男子 – 傳送 | 1994 |果阿經典賽 |
+| 3 |無限計劃——感覺很奇怪| 1994 |果阿場景圖標|
+| 4 | Doof – 讓我們開啟吧 | 1994 |迷幻即興重複段 |
+| 5 |全食——Le Lotus Bleu | 1994 |法國迷幻代表|
+| 6 | Etnica – 今晚旅行 | 1994 |多層合成器 |
+| 7 |革命的綠色修女——衝突| 1994 |精力充沛 |
+| 8 | Prana – 風水 | 1994 |日本參展單位|
+| 9 | Transwave – Hypnorhythm | 1994 |代表法國 |
+| 10 | 10 Shakta – 輕子頭 | 1994 |果阿傑作|
 
 <br>
 
 ---
 
-## 1990年代後半：Psy-Tranceの確立
-- **時代背景**: ゴアトランスが欧州に広がり、より硬質でハイテクな音作りへ。イスラエルのシーンが大きく躍進。  
-- **代表的な機材**: Access Virus, Clavia Nord Lead, Roland JP-8000  
+## 20 世紀 90 年代末：Psy-Trance 成立
+- **背景**：Gore trance 傳播到歐洲，導致聲音製作變得更加困難和高科技。以色列的場景正在取得長足的進步。
+- **典型設備**：Access Virus、Clavia Nord Lead、Roland JP-8000
 
 ### 傑作
-- Hallucinogen – *Twisted* (1995)  
-- Infected Mushroom – *The Gathering* (1999)  
-- X-Dream – *Radio* (1998)  
+- 致幻劑 – *扭曲* (1995)
+- 受感染的蘑菇 – *聚會* (1999)
+- X-Dream – *廣播* (1998)
 
-### おすすめトラック 10選（1995–99）
+### 10 首推薦曲目 (1995–99)
 
-| #  | アーティスト / 曲名 | 年 | 備考 |
+| ＃|藝術家/歌曲名稱 |年份|筆記|
 |----|--------------------|----|------|
-| 1  | Hallucinogen – LSD | 1995 | ジャンルの象徴 |
-| 2  | Astral Projection – People Can Fly | 1995 | メロディックGoa |
-| 3  | Electric Universe – Solar Energy | 1995 | ハードシンセ使用 |
-| 4  | X-Dream – Freak | 1997 | ドイツ発サイケ |
-| 5  | Astral Projection – Dancing Galaxy | 1997 | 黄金期の名盤 |
-| 6  | Cosmosis – Howling at the Moon | 1996 | 幻覚的リフ |
-| 7  | Shpongle – Divine Moments of Truth | 1998 | Psybient誕生 |
-| 8  | Infected Mushroom – Release Me | 1999 | 次世代を象徴 |
-| 9  | Etnica – Alien Protein | 1996 | シーン定番 |
-| 10 | Blue Planet Corporation – Micromega | 1995 | 宇宙的サウンド |
+| 1 |致幻劑——LSD | 1995 |類型圖標|
+| 2 |星體投射——人可以飛| 1995 |旋律果阿 |
+| 3 |電力宇宙——太陽能| 1995 |硬合成器的使用 |
+| 4 | X-Dream – 怪胎 | 1997 |來自德國的Psych |
+| 5 |星體投射 – 舞動銀河 | 1997 |黃金時代的傑作|
+| 6 |宇宙——對著月亮嚎叫| 1996 |幻覺即興重複段 |
+| 7 | Shpongle – 神聖的真理時刻 | 1998 | Psybient 的誕生 |
+| 8 |受感染的蘑菇 – 釋放我 | 1999 |象徵著下一代|
+| 9 | Etnica – 外來蛋白質 | 1996 |場景經典|
+| 10 | 10藍色星球公司——Micromega | 1995 |宇宙之聲|
 
 <br>
 
 ---
 
-## 2000年代：世界規模のシーン拡大
-- **背景:** フェス文化の台頭（Boom Festival, Ozora）。サブジャンル化（フルオン、ダークPsy、プログレッシブPsy）が進む
-- **機材:** Cubase VST, Logic Audio, Access Virus TI, Waldorf Q 
+## 2000 年代：擴大全球視野
+- **背景：** 節日文化的興起（Boom Festival、Ozora）。子流派（全面型、黑暗型、進步型）正在不斷發展。
+- **設備：** Cubase VST、Logic Audio、Access Virus TI、Waldorf Q
 
 ### 傑作
-- Infected Mushroom – *Classical Mushroom* (2000)  
-- GMS – *No Rules* (2002)  
-- Atmos – *Headcleaner* (2000)  
+- 受感染的蘑菇 – *經典蘑菇* (2000)
+- GMS – *無規則* (2002)
+- Atmos – *頭部清潔器* (2000)
 
-### おすすめトラック 10選（2000s）
+### 10 首推薦曲目（2000 多首）
 
-| #  | アーティスト / 曲名 | 年 | 備考 |
+| ＃|藝術家/歌曲名稱 |年份|筆記|
 |----|--------------------|----|------|
-| 1  | Infected Mushroom – Bust a Move | 2000 | ポップ化の端緒 |
-| 2  | GMS – Juice | 2000 | Full-on代表格 |
-| 3  | Talamasca – Aries | 2001 | 仏産フルオン |
-| 4  | Skazi – Revolution | 2002 | ギター導入 |
-| 5  | Sesto Sento – Come Together | 2003 | メロディック志向 |
-| 6  | 1200 Micrograms – Ayahuasca | 2002 | サイケテーマ作 |
-| 7  | Psysex – New Wave Hooker | 2001 | 風刺的タイトル |
-| 8  | Dark Soho – Depth of Emotion | 2000 | Darkpsy系 |
-| 9  | Ott – Smoked Glass and Chrome | 2003 | ダウンテンポ |
-| 10 | Shpongle – Nothing Lasts... But Nothing is Lost | 2005 | Psybient名盤 |
+| 1 |受感染的蘑菇 – 採取行動 | 2000 |流行音樂的開始 |
+| 2 | GMS – 果汁 | 2000 |全面代表 |
+| 3 |塔拉馬斯卡 – 白羊座 | 2001 |法國福隆|
+| 4 |斯卡齊——革命| 2002 |吉他介紹|
+| 5 | Sesto Sento – 走到一起 | 2003 |旋律導向 |
+| 6 | 1200 微克 – 死藤水 | 2002 |迷幻主題 |
+| 7 | Psysex – 新浪潮妓女 | 2001 |諷刺標題|
+| 8 |黑暗蘇荷——情感深度| 2000 |達克西 |
+| 9 |奧特 – 煙色玻璃和鉻 | 2003 |慢節奏|
+| 10 | 10 Shpongle – 沒有什麼會持久……但沒有什麼會失去 | 2005 | Psybient傑作|
 
 <br>
 
 ---
 
-## 2010年代：デジタル時代とクロスオーバー
-- **背景:** DAWとプラグインで制作が主流化。EDMやベースミュージックとの交流。フェス主導で世界的に定着。  
-- **機材:** Ableton Live, Serum, Massive, UAD Plugins 
+## 2010 年代：數字時代與跨界
+- **背景：** 使用 DAW 和插件進行製作已成為主流。與 EDM 和低音音樂互動。在節日的帶動下，它已在世界範圍內建立起來。
+- **設備：** Ableton Live、Serum、Massive、UAD 插件
 
 ### 傑作
-- Vini Vici & Astrix – *Adhana* (2020)  
-- Liquid Soul – *Dreamcatcher* (2021)  
-- Outsiders – *Cosmic Awakenings* (2022)  
+- Vini Vici 和 Astrix – *Adhana* (2020)
+- 液體靈魂 – *捕夢網* (2021)
+- 局外人 – *宇宙覺醒* (2022)
 
-### おすすめトラック 10選（2010s）
+### 10 首推薦曲目（2010 年代）
 
-| #  | アーティスト / 曲名 | 年 | 備考 |
+| ＃|藝術家/歌曲名稱 |年份|筆記|
 |----|--------------------|----|------|
-| 1  | Vini Vici – Free Tibet (Remix) | 2016 | フェスアンセム |
-| 2  | Ace Ventura – Stomping Ground | 2014 | Prog Psy代表 |
-| 3  | Avalon – Rhythms of the Future | 2012 | 未来志向 |
-| 4  | Ajja – Juicy Shrooms | 2011 | サイケ要素満載 |
-| 5  | Outsiders – We Are Not Alone | 2015 | フルオン進化 |
-| 6  | Symbolic & Vertical Mode – Trance Logic | 2015 | 洗練された音像 |
-| 7  | Astrix – Deep Jungle Walk | 2012 | イスラエル重鎮 |
-| 8  | Tristan – Way of Life | 2017 | UK Psy代表 |
-| 9  | Liquid Soul – Nirvana | 2014 | プログレッシブ志向 |
-| 10 | Infected Mushroom – Head of NASA | 2018 | ベテランの進化形 |
+| 1 | Vini Vici – 自由西藏（混音）| 2016 | 2016節日頌歌|
+| 2 |王牌文圖拉 – 踩踏之地 | 2014 | Prog Psy 代表 |
+| 3 |阿瓦隆——未來的節奏| 2012 |面向未來|
+| 4 | Ajja – 多汁蘑菇| 2011 |充滿迷幻元素|
+| 5 |局外人——我們並不孤單| 2015 | 2015全面進化 |
+| 6 |符號和垂直模式 – Trance Logic | 2015 | 2015精緻的聲像 |
+| 7 | Astrix – 叢林深處漫步| 2012 |以色列重量級 |
+| 8 |特里斯坦——生活方式| 2017 | 2017英國心理代表|
+| 9 |液體靈魂 – Nirvana | 2014 |進取導向|
+| 10 | 10受感染的蘑菇——美國宇航局局長 | 2018 |老兵的進化|
 
 ---
 
-## 2020年代：新世代の融合と拡張
-- **背景**: Psy-Tranceとテクノ、ベースミュージック、サイケデリック・アンビエントの融合が進む。YouTubeや配信プラットフォームでの拡散により、若いリスナー層も急増。  
-- **機材**: Ableton Live 11, Arturia V Collection, Moog Subsequent 37, Eurorackモジュール  
+## 2020年代：新一代融合與擴張
+- **背景**：Psy-Trance、電子音樂、低音音樂和迷幻氛圍的融合仍在繼續。由於其在YouTube和發行平台上的傳播，年輕聽眾的數量正在迅速增加。
+- **設備**：Ableton Live 11、Arturia V Collection、Moog Subsequent 37、Eurorack 模塊
 
 ### 傑作
-- Vini Vici & Astrix – *Adhana* (2020)  
-- Liquid Soul – *Dreamcatcher* (2021)  
-- Outsiders – *Cosmic Awakenings* (2022)  
+- Vini Vici 和 Astrix – *Adhana* (2020)
+- 液體靈魂 – *捕夢網* (2021)
+- 局外人 – *宇宙覺醒* (2022)
 
-### おすすめトラック 10選（2020s）
+### 10 首推薦曲目（2020 年代）
 
-| # | アーティスト | トラック | 年 |
+| ＃|藝術家 |軌道 |年份|
 |---|-------------|----------|----|
-| 1 | Vini Vici & Astrix | Adhana | 2020 |
-| 2 | Ajja & Outsiders | Sacred Patterns | 2020 |
-| 3 | Liquid Soul | Dreamcatcher | 2021 |
-| 4 | Ace Ventura & Vertical Mode | Dimension 5 | 2021 |
-| 5 | Burn in Noise | Trance Mutation | 2021 |
-| 6 | Ajja | Starfall | 2022 |
-| 7 | Astrix | Sapana | 2022 |
-| 8 | Avalon & Laughing Buddha | The Journey | 2022 |
-| 9 | Outsiders | Cosmic Awakenings | 2022 |
-|10 | Vini Vici | In The Middle of Nowhere | 2023 |
+| 1 |維尼·維西 & Astrix |阿達納 | 2020 |
+| 2 |阿賈與局外人|神聖圖案| 2020 |
+| 3 |液體靈魂|捕夢網 | 2021 |
+| 4 | Ace Ventura 和垂直模式 |維度 5 | 2021 |
+| 5 |噪音燒毀|恍惚突變| 2021 |
+| 6 |阿賈 |星落| 2022 | 2022
+| 7 |阿斯特里克斯|薩帕納 | 2022 | 2022
+| 8 |阿瓦隆與笑佛|旅程 | 2022 | 2022
+| 9 |局外人|宇宙覺醒| 2022 | 2022
+|10 |維尼維西 |在偏僻的地方| 2023 |
 
 <br>
 
 ---
 
-### サイケデリックの未来へ
-Psy-Tranceはヒッピー文化とテクノロジーの交錯から生まれ、90年代の黄金期を経て多彩に分岐し、現在も世界のフェスを席巻しています。音響デザインの進化と機材の変遷を追うと、そのサウンドのダイナミズムと文化の深みが浮かび上がります。
+### 走向迷幻藥的未來
+Psy-Trance 誕生於嬉皮文化與科技的交匯點，在 90 年代的黃金時代之後衍生出多種不同的形式，並繼續主導世界各地的節日。追踪聲音設計的演變和設備的變化揭示了聲音的活力和文化的深度。
 
-アナログ機材から始まり、デジタル化を経て、現在はジャンルを超えた融合の段階にあります。**1990年代のゴア的スピリチュアル感覚**、**2000年代のハイテク・フルオンの爆発力**、**2010年代のデジタル・クロスオーバー**、そして**2020年代のジャンル横断的な進化**。それぞれの時代が独自の美学を生み出しました。  
+我們從模擬設備開始，經過數字化，現在已經到了超越流派的融合階段。 **1990 年代的血腥靈性**、**2000 年代高科技的全面爆發力**、**2010 年代的數字跨界**和**2020 年代的跨流派演變**。每個時代都創造了自己的審美。
 
-この流れの中で共通しているのは「意識の拡張」と「共同体験」です。ビーチパーティーから巨大フェス、さらにはオンライン配信へと舞台を変えつつも、サイケデリック体験を求める欲求は変わりません。  
+這個流程的共同點是“意識的擴展”和“共同體驗”。儘管舞台已經從海灘派對到大型節日再到在線流媒體，但對迷幻體驗的渴望仍然沒有改變。
 
-今後は、AIによる音響デザイン、VRやARと連動したサイケデリック体験、Eurorackモジュラーとデジタルを融合させたライブパフォーマンスなど、さらに次元を超えた展開が予想されます。  
+未來，我們可以期待超越維度的進一步發展，例如使用人工智能的聲音設計、與 VR 和 AR 相關的迷幻體驗，以及結合 Eurorack 模塊化和數字化的現場表演。
 
-**Psy-Tranceは単なる音楽ジャンルではなく「文化的・精神的運動」であり続けるでしょう。**  
-その歴史をたどることは、単なる音の記録ではなく、人類の「意識拡張の旅」の一部を共有することなのです。
+**Psy-Trance 將繼續成為一種“文化和精神運動”，而不僅僅是一種音樂流派。 **
+追溯這段歷史不僅僅是聲音的記錄，更是人類“意識擴張之旅”的共同組成部分。

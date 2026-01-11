@@ -53,13 +53,13 @@ color: #fff;
 
 ---
 
-## 二.世界的地殼變化：低音驅動的 20 世紀音樂史
+## 二.世界的地殼變化：貝斯驅動的 20 世紀音樂史
 
 ### 1、從爵士樂的反叛開始。
 
 聆聽 Charles Mingus 演奏
 這聽起來不僅僅是低音線，它聽起來像是對社會的聲明。
-憤怒與智慧、即興創作與建構。那低音中有詩意。
+憤怒與智慧、即興創作與建構。低音裡有詩意。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y9IMOUVJMVs?si=5wUdqiLWnOEP7O_n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -74,7 +74,7 @@ color: #fff;
 ---
 
 支持日本戰後爵士咖啡館的鈴木義夫和稻葉國光，
-帶著自己國家的感性享受這“自由的低音聲音”，
+用自己國家的情感享受這種“自由的低音聲音”，
 不久之後，他們在東京的夜晚創造了自己獨特的節奏。
 
 ---
@@ -98,7 +98,7 @@ Sid Vicious（性手槍樂隊）拒絕詭計，用他的存在發出叛逆的聲
 
 ---
 
-### 3. Funk與實驗：貝斯走在前列的時代
+### 3. Funk與實驗：貝斯脫穎而出的時代
 
 當拉里·格雷厄姆的巴掌演奏風格誕生的那一刻，
 貝斯本身就成了節奏。
@@ -137,7 +137,7 @@ Bootsy Collins 的宇宙放克，
 NUMBER GIRL 的中尾健太郎陷入了扭曲和憤怒的狀態，
 ZAZEN BOYS 的 Ichiro Yoshida 將奇怪的拍號提升為“構建智能”。
 
-ROVO和Shibusa Chizu的貝斯手，
+ROVO和Shibusa Shirazu的貝斯手，
 自由遊走於爵士樂與搖滾、即興創作與建構之間，
 它模糊了俱樂部文化和現場音樂之間的界限。
 

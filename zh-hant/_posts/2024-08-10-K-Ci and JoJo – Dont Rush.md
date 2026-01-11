@@ -20,7 +20,7 @@ K-Ci & JoJo 是美國 R&B 二人組，由 Cedric "K-Ci" Haley 和 Joel "JoJo" Ha
 
 K-Ci 和 JoJo 也是 R&B 樂隊 Jodeci 的主唱，他們 1998 年的熱門歌曲《All My Life》獲得了多項格萊美提名。
 
-《Don't Rush》是 K-Ci 和 JoJo 首張專輯《Love Always》中的單曲。
+《Don’t Rush》是 K-Ci 和 JoJo 首張專輯《Love Always》中的一首單曲。
 
 #### 曲目列表
 ```md

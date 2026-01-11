@@ -14,9 +14,9 @@ title: Good Groove w Soul – Funkin' You4
 ---
 
 
-Good Groove(Klaus Löschner)は、ドイツ・ミュンヘン出身のテクノDJ／プロデューサー。1985年に活動を始め、当時流行のBabalu ClubでSven Väth、Westbam、Dr. Motteと一緒にミュンヘンで最初のミュンヘンテクノパーティーをオーガナイズした。
+Good Groove (Klaus Löschner) 是一位來自德國慕尼黑的 techno DJ/製作人。他於 1985 年開始了自己的職業生涯，並與 Sven Väth、Westbam 和 Dr. Motte 一起在當時時尚的 Babalu Club 組織了第一屆慕尼黑 techno 派對。
 
-A2は、UKのエレクトロニックミュージシャン／DJ／プロデューサー Luke Slater (ルーク•スレーター )によるremix。
+A2 是英國電子音樂家/DJ/製作人 Luke Slater 的混音版。
 
 
 #### 曲目列表
@@ -32,7 +32,7 @@ Remix – Voodooamt
 B2. Funkin' You (Pleasure Boys Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m25560774268?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m25560774268?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/baVjKiHvIow?si=7sYMAgw4bYyySHlj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

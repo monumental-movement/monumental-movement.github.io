@@ -16,7 +16,7 @@ title: 恐龍 – 金剛五人組
 
 Dino Lenny，又名 Dino，是一位意大利 DJ/製作人，活躍於舞曲音樂界 30 多年。
 
-《金剛五人組》原本是法國樂隊Mano Negra的原創歌曲，收錄在他們1989年的專輯《Puta’s Fever》中並作為單曲發行。
+《金剛五人組》原本是法國樂隊Mano Negra的原創歌曲，收錄在他們1989年的專輯《Puta's Fever》中並作為單曲發行。
 
 Dino 的版本是對這首歌曲 House/Electro 的重新詮釋，該歌曲於 2004 年由 Ilario Drago 的舞曲音樂廠牌 Ego Music 發行。
 

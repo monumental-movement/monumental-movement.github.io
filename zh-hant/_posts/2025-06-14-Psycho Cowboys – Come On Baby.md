@@ -15,7 +15,7 @@ title: 瘋狂牛仔 – 來吧寶貝
 ---
 
 
-Psycho Cowboys（也稱為 Hedfu_k）是英國製作人/作曲家 Aaron Gilbert 和倫敦出生的電子 DJ/製作人 Stretch Silvester（又名 Stuart Collins）的一個項目。
+Psycho Cowboys（又名 Hedfu_k）是英國製作人/作曲家 Aaron Gilbert 和倫敦出生的電子 DJ/製作人 Stretch Silvester（又名 Stuart Collins）的一個項目。
 
 
 這張唱片是倫敦獨立唱片公司 Wall Of Sound 於 1999 年發行的 Breaks/Big Beat 曲目。

@@ -14,11 +14,11 @@ title: 蒂姆·赫頓 – 一直是個傻瓜
 ---
 
 
-蒂姆·赫頓 (Tim Hutton) 是一位英國製作人、詞曲作者和多樂器演奏家。他還與托馬斯·梅爾基奧 (Thomas Melchior) 一起活躍於實驗科技二人組 Vulva 和 Yoni。
+蒂姆·赫頓 (Tim Hutton) 是一位英國製作人、詞曲作者和多樂器演奏家。他還與托馬斯·梅爾基奧 (Thomas Melchior) 一起活躍在實驗性技術二人組 Vulva 和 Yoni 中。
 
 《Been A Fool》是一首 2000 年發行的浩室未來爵士曲目。
 
-B面的第一首歌曲是英國嘻哈樂隊 The Nextmen 的混音版，他們曾混音過《Public Enemy》、《Pharcyde》和《Blackalicious》等歌曲。
+B 面的第一首歌曲是英國嘻哈樂隊 The Nextmen 的混音版，他們曾為 Public Enemy、Pharcyde、Blackalicious 等樂隊創作過混音版。
 
 #### 曲目列表
 ```md

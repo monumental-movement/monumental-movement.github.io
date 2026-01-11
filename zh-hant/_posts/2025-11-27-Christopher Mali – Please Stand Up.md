@@ -9,7 +9,7 @@ layout: post
 permalink: /zh-hant/christopher-mali-please-stand-up/
 tags:
 - Hiphop
-title: Christopher Mali – Please Stand Up
+title: 克里斯托弗·馬里——請起立
 ---
 
 
@@ -19,7 +19,7 @@ title: Christopher Mali – Please Stand Up
 
 
 
-Armand Van Helden の重要作品をリリースした事で知られるハウス／ヒップホップのレーベルAV8 RecordsからリリースされたHip Hopトラック。
+AV8 Records 發行的嘻哈曲目，該唱片公司是一家以發行 Armand Van Helden 的重要作品而聞名的浩室/嘻哈唱片公司。
 
 #### 曲目列表
 ```md
@@ -29,7 +29,7 @@ B1. Please Stand Up (Dub Mix)
 B2. Please Stand Up (Inst. Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m61579217807?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m61579217807?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ODUHyo5qxoc?si=mn7z6y8RjJrRASjf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

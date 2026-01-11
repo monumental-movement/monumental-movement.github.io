@@ -11,196 +11,196 @@ tags:
 - Acid Jazz
 - 80s
 - 90s
-title: 【コラム】 ディープ・ハウスとは？──ソウルとジャズの温度をハウスに溶かし込んだ、音の深層を探る
+title: 【專欄】什麼是深屋？ ─ 探索聲音的深度，將靈魂樂和爵士樂的溫度融入浩室音樂中
 ---
 
 
-## そもそもディープ・ハウスとは？
+## 到底什麼是深屋？
 
 
-文：mmr｜テーマ：歴史と文脈を編み込みながら、静かに進化を続けるジャンル ― Deep House。
+文字：mmr｜主題：Deep House，一種在融入歷史和語境的同時不斷悄然演變的流派。
 
-ディープ・ハウスは1980年代後半のシカゴ～ニュージャージー周辺で芽生えたハウスの系統。ソウル／ジャズの和声感、滑らかな低音、抑制の効いたグルーヴが特徴で、ラッシュなピークではなく「深く、長く、身体を温める」タイプのダンスミュージックです。BPMは概ね118–124（遅め～中速）、7th/9th系のコード、エレピ（Rhodes）やオルガン（Korg M1系）、レイドバックしたボーカルが象徴的。フロアでもリスニングでも成り立つ“夜の温度”を持っています。
+Deep house 是 20 世紀 80 年代末在芝加哥-新澤西地區出現的一種 house 風格。它的特點是靈魂樂/爵士樂的和聲、流暢的低音和內斂的律動，是一種“深沉、悠長、溫暖身體”的舞曲音樂，而不是急速的高峰。 BPM一般為118-124（慢速至中速），7/9和弦，電鋼琴（Rhodes），管風琴（Korg M1系列），悠閒的人聲具有像徵意義。它具有對地板和聆聽都有效的“夜間溫度”。
 
 
 <小時>
 
-### 誕生の背景と展開
+### 誕生背景及發展
 
-**1985–90：原初期（Chicago/NJ）**
+**1985–90：早期早期（芝加哥/新澤西）**
 
-[Larry Heard (Mr. Fingers)](https://amzn.to/4q97ot4) が「Can You Feel It」「Mystery of Love」で原型を提示。[Frankie Knuckles](https://amzn.to/4nUwWJ4)、[Marshall Jefferson](https://amzn.to/3KOf4AV)の流れを受け、Jersey Garageの甘いソウル感（[Blaze](https://amzn.to/4ooZuuc)、[Kerri Chandler](https://amzn.to/4qbd4CR)）が融合。
+[Larry Heard (Mr. Fingers)](https://amzn.to/4q97ot4) 以“Can You Feel It”和“Mystery of Love”呈現原型。跟隨[Frankie Knuckles](https://amzn.to/4nUwWJ4)和[Marshall Jefferson](https://amzn.to/3KOf4AV)的潮流，融合了Jersey Garage甜美的靈魂感覺([Blaze](https://amzn.to/4ooZuuc)和[Kerri Chandler](https://amzn.to/4qbd4CR))。
 
-**1990年代：深化と多様化**
+**20世紀90年代：深化和多元化**
 
-シカゴの[Ron Trent & Chez Damier（Prescription）](https://amzn.to/4nOApsp)、NYの[Masters At Work（MAW）](https://amzn.to/3KTsg7y)、デトロイトの[Moodymann](https://amzn.to/4h9ZZWB)が“黒い”質感を拡張。UKや独でも拠点が増え、ディープ×テックの橋渡しが起きる。
+芝加哥的 [Ron Trent & Chez Damier (Prescription)](https://amzn.to/4nOApsp)、紐約的 [Masters At Work (MAW)](https://amzn.to/3KTsg7y) 和底特律的 [Moodymann](https://amzn.to/4h9ZZWB) 擴展了“黑色”紋理。英國和德國的基地數量將增加，在深度和科技之間架起一座橋樑。
 
-**2000年代：リスニング志向と洗練**
+**2000年代：聆聽導向和成熟度**
 
-Naked MusicやJimpster（Freerange）などがラウンジ～ソウルフルな洗練へ。ドイツ圏では[Henrik Schwarz](https://amzn.to/4h8i9I4)、[Âme](https://amzn.to/47pAIEq)、[Dixon（Innervisions）](https://amzn.to/4heIsN1)がミニマル～モダンな構築美で人気に。
+Naked Music、Jimpster（Freerange）等將帶您進入深情的精緻休息室。在德國，[Henrik Schwarz](https://amzn.to/4h8i9I4)、[Âme](https://amzn.to/47pAIEq) 和 [Dixon (Innervisions)](https://amzn.to/4heIsN1) 因其極簡主義到現代的建築美學而廣受歡迎。
 
-**2010年代以降：分岐とグローバル化**
+**2010 年代及以後：分歧與全球化**
 
-AnjunadeepやAll Day I Dreamがメロディック／オーガニック系へ。南アではBlack Coffeeがアフロ・ディープを世界水準に。DIYの波でLo-fi Houseも勃興。
+Anjunadeep 和 All Day I Dream 轉向旋律/有機音樂。在南非，黑咖啡使非洲深咖啡達到了世界一流的標準。隨著DIY浪潮的興起，低保真房屋也隨之興起。
 
 
 <小時>
 
 ### 音樂特點
 
-**和声**：メジャー7th／9th、サスコード、多めのテンション。短調でも“哀愁≠悲壮”のニュアンス。
+**和聲**：大調七度/九度，懸弦，張力很大。即使是小調，也有“悲傷≠悲劇”的細微差別。
 
-**ビート**：キックは丸く深い余韻。ハイハットはシャッフル～軽いスウィング。909/707/727や808質感が定番。
+**節拍**：踢腿的餘味圓潤深沉。踩镲是從拖曳到輕搖的節奏。 909/707/727 和 808 紋理是標準的。
 
-**ベース**：サブ帯域を丁寧にコントロールしたうねるロングノートが中心。
+**低音**：主要是起伏的長音符，帶有仔細控制的子帶。
 
-**鍵盤／質感**：Rhodes/M1オルガン/柔らかなストリングス、空間系（ディレイ/リバーブ）は長めでも密度は薄く。
+**鍵盤/質感**：羅德/M1風琴/軟弦，空間類型（延遲/混響）長而不密。
 
-**ボーカル**：語りかける低～中域、福音（Gospel）～ソウルの系譜。必要十分な言葉数で“間”を活かす。
-
-
-<小時>
-
-### 必聴アーティスト／レーベル
-
-**原典**：Larry Heard (Mr. Fingers)／Kerri Chandler／Blaze
-
-**中核**：Ron Trent & Chez Damier（Prescription）／Moodymann（KDJ）／MAW（Nuyorican Soul含む）
-
-**2000s洗練**：Jimpster（Freerange）／Miguel Migs & Blue Six（Naked Music）
-
-**モダン～メロディック**：Âme／Dixon（Innervisions）／Maya Jane Coles
-
-**アフロ・ディープ**：Black Coffee／Culoe De Song／Da Capo
-
-**日本勢（深いハウス感触）**：寺田創一／横田進（Far East Recording）／Mule Musiq周辺
-
-**主要レーベル**：Prescription、KDJ、Strictly Rhythm、Nu Groove、Guidance、Freerange、Delusions of Grandeur、Innervisions、Mule Musiq、Anjunadeep、All Day I Dream
-
-“まず3枚”
-
-- Mr. Fingers – Amnesia
-
-- Ron Trent – Altered States
-
-- Kerri Chandler – Atmosphere
+**人聲**：低中音，福音到靈魂血統。通過使用必要且足夠數量的單詞來使用“停頓”。
 
 
 <小時>
 
-### サブジャンルと周辺系譜
+### 必聽藝術家/唱片公司
 
-**シカゴ・ディープ**：骨太キック＋ソウルの残響。例：Mr. Fingers、Ron Trent。
+**原始來源**：Larry Heard（手指先生）/Kerri Chandler/Blaze
 
-**ジャージー／ガラージ系**：ピアノ／オルガンとゴスペル的Vo。例：Kerri Chandler、Blaze。
+**核心**：Ron Trent & Chez Damier（處方）/ Moodymann (KDJ) / MAW（包括 Nuyorican Soul）
 
-**デトロイト・ディープ**：ジャズ～ソウル感に粒立つロー・ファイ質感。例：Moodymann、Theo Parrish（境界上）。
+**2000 年代的精緻**：Jimpster (Freerange) / Miguel Migs & Blue Six (Naked Music)
 
-**ディープ・テック**：タイトなローエンドとミニマル反復。例：Smallville/Underground Quality勢。
+**現代 ~ 旋律**： Âme/Dixon (Innervisions)/Maya Jane Coles
 
-**メロディック／オーガニック**：広いパッドと情景的コード、生楽器や自然音。例：Anjunadeep、All Day I Dream。
+**深爆炸式**：黑咖啡/Culoe De Song/Da Capo
 
-**アフロ・ディープ**：ポリリズムとコール＆レスポンス、温度の高いパーカッション。
+**日語（深浩室感覺）**：Soichi Terada/Susumu Yokota（遠東錄音）/Mule Musiq 周圍
 
-**Lo-fi House**：ウォームなサチュレーション、90s的サンプル感。
+**主要標籤**： Prescription、KDJ、Strictly Rhythm、Nu Groove、Guidance、Freerange、Delusions of Grandeur、Innervisions、Mule Musiq、Anjunadeep、All Day I Dream
 
+“前三件”
 
-<小時>
+- 手指先生——失憶症
 
-### ディープ・ハウスの“良いDJ”がやっていること
+- 羅恩·特倫特 – 改變狀態
 
-- 長めのミックスでEQとフェーダーをじわじわ積層（16～32小節以上）。
-
-- キー（調性）とテッセラ（音色）の整合：隣接キー／近親調の選曲で空気を壊さない。
-
-- ダイナミクスの波：30～45分で“少しだけ熱を上げて、すぐ戻す”。
-
-- 早すぎないBPM設定：118–121で“歩幅”を作り、後半で122–124へ。
+- 凱里·錢德勒——氣氛
 
 
 <小時>
 
-### 制作Tips
+### 亞流派和外圍譜系
 
-**コード**：maj7、min9、sus2/4、6thで「柔らかい余白」。ルート＋9thの2音だけでも“深い”。
+**芝加哥深淵**：重底鼓+靈魂混響。示例：手指先生、羅恩·特倫特。
 
-**音色選び**：Rhodes、M1 Organ、Juno系パッド、アナログサブ。ハイハットは軽めのオープンを薄く。
+**澤西/車庫類型**：鋼琴/風琴和福音般的聲音。例如：Kerri Chandler，《Blaze》。
 
-**グルーヴ**：軽いスウィング（+5～+15%）とベロシティの微細変化で“呼吸”。
+**Detroit Deep**：具有爵士靈魂樂感覺的低保真質感。示例：Moodymann、Theo Parrish（在邊界上）。
 
-**ローパス／サイドチェイン**：踊らせつつ耳当たりを保つために“見えない揺れ”を付与。
+**深科技**：緊密的低頻和最少的重複。示例：超人前傳/地下質量。
 
-**サンプリング**：ジャズ／ソウルのフレーズを短くループし、ディケイ長めで空間に溶かす。
+**旋律/有機**：寬音墊和風景和弦、現場樂器和自然聲音。例如：Anjunadeep，《我整天都在做夢》。
 
-**ミックス**：キック40–60Hzは控えめに、80–120Hzで胴鳴りを作る。ボーカルは2–5kHzを出し過ぎない。
+**深爆炸式**：多節奏、呼喚和響應以及高溫打擊樂。
 
-
-<小時>
-
-### シーンとカルチャー
-
-**場所**：小箱／サブフロア／アフターアワーズに強い。
-
-**聴取文脈**：深夜のドライブ、作業／学習BGM、カクテルタイム。
-
-**美学**：「機能性より情緒の滲み」。煌びやかさより陰影。
+**Lo-fi House**：溫暖的飽和度，90 年代的樣本感覺。
 
 
 <小時>
 
-### プレイリスト雛形（流れの例）
+### “優秀的 Deep House DJ”做什麼
 
-**Warm-up**：Blaze系のオルガン・グルーヴ
+- 在長混音（16 到 32 小節或更多）上逐漸分層均衡器和推子。
 
-**Early peak**：Ron Trent／Chez Damierの推進力
+- 匹配調（音調）和鑲嵌（音色）：通過選擇相鄰調/密切相關音調的歌曲來避免破壞氣氛。
 
-**Plateau**：Jimpster～Freerangeの洗練
+- 動態波浪：“稍微提高一點熱量，然後在 30 到 45 分鐘內立即恢復”。
 
-**Color change**：Henrik Schwarzのライブ感
-
-**Late**：Black Coffeeのアフロ・ディープで温度を保ち、ラストにLarry Heardの余韻でクールダウン
+- BPM 設置不太快：創建 118-121 的“步幅長度”，然後在下半場增加到 122-124。
 
 
 <小時>
 
-### レコード収集・探し方のコツ
+### 製作技巧
 
-**キーワード**：「Deep」「Atmospheric」「Dub」「Garage」「Jersey」「Prescription」
+**代碼**：“軟邊距”，包含 maj7、min9、sus2/4、6。即使只是根音+九度的兩個音符也是“深”的。
 
-**年代感で選**ぶ：90s前半＝粗く温かい、00s＝洗練、10s以降＝音像ワイド。
+**音色選擇**：Rhodes、M1 Organ、Juno pad、模擬低音炮。踩镲稍微開放且薄。
 
-**レーベル買い**：Prescription/KDJ/Freerange/Innervisions/Mule Musiq/Anjunadeep。
+**Groove**：以輕微的擺動（+5 至 +15%）和微小的速度變化來“呼吸”。
 
-**B面も必聴**：ディープはB面ダブに名トラックが眠りがち。
+**低通/側鏈**：添加“隱形振盪”，使其在跳舞時保持耳朵接觸。
 
+**採樣**：循環一段簡短的爵士樂/靈魂樂樂句，讓它以長衰減融入到空間中。
 
-<小時>
-
-### クイック・ディスコグラフィ（入門10曲）
-
-・Mr. Fingers – “Can You Feel It”
-
-・Larry Heard Presents Mr. White – “The Sun Can’t Compare”
-
-・Kerri Chandler – “Atmosphere”
-
-・Ron Trent – “Altered States”
-
-・Chez Damier – “I Never Knew Love”
-
-・Moodymann – “Shades of Jae”
-
-・Masters At Work – “To Be In Love (MAW Dub)”
-
-・Jimpster – “Dangly Panther”
-
-・Âme – “Rej”
-
-・Black Coffee – “Turn Me On (feat. Bucie)”
+**混音**：底鼓 40–60Hz 是適度的，80–120Hz 會產生身體隆隆聲。人聲不應輸出太多 2-5kHz。
 
 
 <小時>
 
-### 一瞬ではなく、時間で味わう音楽
+### 場景與文化
 
-ディープ・ハウスは時間で味わう音楽です。目立つ一撃より、フロアとリスナーの呼吸を合わせ続ける“継続の心地よさ”。歴史的源流から現行サブスタイル、制作やDJの勘どころまで押さえれば、選盤も鑑賞もぐっと深まります。
+**位置**：在小盒子/底層地板/下班後很強大。
+
+**聆聽背景**：深夜開車、工作/學習背景音樂、雞尾酒時間。
+
+**美學**：“情感高於功能”。陰影多於閃光。
+
+
+<小時>
+
+### 播放列表模板（流程示例）
+
+**熱身**：Blaze 風格風琴律動
+
+**早期高峰**：Ron Trent/Chez Damier 的驅動力
+
+**高原**：Jimpster 的精煉 ~ Freerange
+
+**顏色變化**：Henrik Schwarz 的現場感覺
+
+**晚**：用 Black Coffee 的 Afro Deep 來維持溫度，最後用 Larry Heard 的餘音來降溫。
+
+
+<小時>
+
+### 收集和搜索記錄的技巧
+
+**關鍵詞**：“深沉”“大氣”“配音”“車庫”“澤西”“處方”
+
+**按時代選擇**：90年代初期=粗獷而溫暖，00年代=精緻，10年代及以後=寬廣的聲像。
+
+**標籤購買**：Prescription/KDJ/Freerange/Innervisions/Mule Musiq/Anjunadeep。
+
+**必須聽B面**：深層次的曲目往往隱藏在B面配音中。
+
+
+<小時>
+
+### 快速唱片目錄（10 首介紹歌曲）
+
+·先生。手指——“你能感覺到嗎”
+
+・拉里·赫德介紹懷特先生 – “太陽無法比較”
+
+・凱莉·錢德勒——《氛圍》
+
+・羅恩·特倫特 – “改變的狀態”
+
+・Chez Damier – “我從不知道愛”
+
+・穆迪曼 – 《Jae 的陰影》
+
+・工作大師——“戀愛（MAW Dub）”
+
+・金普斯特——《危險的黑豹》
+
+・ame – “Rej”
+
+・黑咖啡 – “Turn Me On (feat. Bucie)”
+
+
+<小時>
+
+### 音樂可以隨著時間的推移而不是瞬間被欣賞
+
+Deep house 是一種可以長期欣賞的音樂。不是單一的、引人注目的打擊，而是一種“舒適的延續”，使聽眾和聽眾保持同步。如果您了解從歷史起源到當前的子風格，以及製作和打碟的秘密，您將能夠大大加深您的選擇和欣賞。

@@ -9,7 +9,7 @@ permalink: /zh-hant/q-ic-and-stephenson-in-stereo-ep/
 tags:
 - Techno
 - Abstract
-title: Q-ic 和 Stephenson – 立體聲 EP
+title: Q-ic 和 Stephenson – In Stereo EP
 ---
 
 

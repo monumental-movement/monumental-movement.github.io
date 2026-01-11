@@ -10,19 +10,19 @@ tags:
 - Theme
 - Nostalgic
 - 7inch
-title: Takayuki Inoue Band - Taiyou ni hoero4
+title: 井上貴之樂隊 - Taiyou ni hoero4
 ---
 
 
-「井上堯之バンド – 太陽にほえろ！4」は、テレビドラマ 『太陽にほえろ』のオリジナル・サウンド・トラックです。
+《井上隆之樂隊 – Hoero ni Taiyo! 4》是電視劇《Hoero ni Taiyo!》的原聲帶。
 
-Polydorより1976年にリリースされました。
+由 Polydor 於 1976 年發布。
 
-演奏 – 井上堯之バンド
+表演——井上隆之樂隊
 
-作曲編曲 – 大野克夫
+作曲與編曲 – 大野勝夫
 
-プロデューサー – 石川浩二
+製作人 – 石川浩二
 
 #### 曲目列表
 ```md
@@ -34,5 +34,5 @@ B1. 新「愛」のテーマ
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m95573713723?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m95573713723?afid=6142608987){: .button1}
 

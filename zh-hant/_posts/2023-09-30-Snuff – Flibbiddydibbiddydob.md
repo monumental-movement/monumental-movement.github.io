@@ -13,9 +13,9 @@ title: 鼻煙 – Flibbiddydibbiddydob
 ---
 
 
-「Flibbidydibbidydob」は、イギリスのパンクロックバンド、SnuffによるカバーソングEPで、商業用ジングルやテレビのテーマ曲を含んでいます。
+《Flibbidydibbidydob》是英國朋克搖滾樂隊 Snuff 翻唱歌曲的 EP，其中包括商業歌曲和電視主題曲。
 
-このEPはもともと1990年にWorkers Playtime Recordsからイギリスでリリースされ、後に1996年8月にFat Wreck Chordsから再リリースされました。
+這張 EP 最初於 1990 年在英國由 Workers Playtime Records 發行，後來於 1996 年 8 月在 Fat Wreck Chords 上重新發行。
 
 
 #### 曲目列表

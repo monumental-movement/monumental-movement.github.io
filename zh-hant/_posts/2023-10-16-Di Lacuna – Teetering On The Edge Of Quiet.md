@@ -15,7 +15,7 @@ title: Di Lacuna——在安靜的邊緣搖搖欲墜
 
 Di Lacuna 是一支後搖滾樂隊，由約翰·塞夫頓 (John Sephton)、李·紐厄爾 (Lee Newell) 和保羅·海明菲爾德 (Paul Hemmingfield) 於 1998 年組建。成員 Lee Newell 自 2007 年以來一直在 Fields of the Nephilim 中擔任鼓手。
 
-《Teetering On The Edge Of Quiet...》由 FatCat Records 於 1999 年發行，FatCat Records 是一家位於英國布萊頓的電子噪音後搖唱片公司。
+“Teetering On The Edge Of Quiet...”由位於英國布萊頓的電子噪音後搖唱片公司 FatCat Records 於 1999 年發行。
 
 #### 曲目列表
 ```md

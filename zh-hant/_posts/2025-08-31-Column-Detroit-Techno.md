@@ -23,7 +23,7 @@ title: 【專欄】底特律Techno：從機器的心跳中誕生的人類舞蹈
 
 ### 起源和定義——何時何人將其稱為“Techno”？
 
-20 世紀 80 年代初，充分利用合成器和節奏機器的電子舞曲在底特律蓬勃發展。
+20 世紀 80 年代初的底特律，充分利用合成器和節奏機器的電子舞曲開始興起。
 
 在胡安·阿特金斯（Juan Atkins）、德里克·梅（Derrick May）和凱文·桑德森（Kevin Saunderson）（不是所謂的“柏林三重奏”，而是“底特律三重奏”）的帶領下，他們呈現了一種不同於現有“電子”和“浩室”的聲音美學，並被確立為“techno”。
 
@@ -164,7 +164,7 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
 
 ### 相關專欄
 
-🔗 [[專欄]從 techno 的起源到現在 - 通過著名唱片和設備追溯的年代史](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[專欄]從techno的起源到現在——通過著名的唱片和設備追溯的年代史](https://monumental-movement.jp/Column-Techno-History)
 
 🔗 [[Column] Tresor - 柏林地下改變世界的科技聖地](https://monumental-movement.jp/Column-Tresor)
 

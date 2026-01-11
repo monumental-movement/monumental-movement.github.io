@@ -14,7 +14,7 @@ title: Eclier – 博殼松打招呼
 ---
 
 
-Eclier是西伯利亞人，被博殼松唱片公司董事Julien Minet（又名DCFTD、DJ Cat）通過SNS發現，是一位以法國電子風格聞名的藝術家。
+Eclier是西伯利亞人，被博殼松唱片公司董事Julien Minet（又名DCFTD、DJ貓）通過SNS發現，是一位以法國電子風格聞名的藝術家。
 
 B2 是 Tom Deluxx 的混音作品，Tom Deluxx 是一位法國 DJ 兼製作人，他還與 Romain Grenier 一起活躍在 Just A Band 樂隊中。
 

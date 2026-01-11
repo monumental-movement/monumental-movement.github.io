@@ -9,15 +9,15 @@ permalink: /zh-hant/column-eastcoast-hiphop-history/
 tags:
 - Hiphop
 - Rap
-title: 【コラム】 東海岸ヒップホップ概史 — ブロンクスからブルックリン、そして世界へ
+title: 【專欄】東海岸嘻哈簡史——從布朗克斯到布魯克林再到世界
 ---
 
 
-## 東海岸ヒップホップは、1970年代ニューヨークのブロックパーティーから誕生
+## 東海岸嘻哈音樂誕生於 20 世紀 70 年代的紐約街區派對。
 
-文：mmr｜テーマ：東海岸ヒップホップの誕生から現在まで、プロデューサー、レーベル、抗争、代表作、映像表現、ファッション変遷まで
+文：mmr｜主題：從東海岸嘻哈誕生到現在，製作人、廠牌、衝突、傑作、視覺表達、時尚變遷
 
-東海岸ヒップホップは、ブロンクスのブロックパーティーとターンテーブル操作から始まり、詩的で社会的なリリックとジャズ／ソウルのサンプリングを武器に世界を席巻しました。本稿は年代別に主要人物、プロデューサー、レーベル、映像美学、ファッションの変遷、さらに参考文献とディスコグラフィーをまとめたものです。
+東海岸嘻哈音樂始於布朗克斯區的街區派對和轉盤，並以其詩意、社交的歌詞和爵士樂/靈魂樂採樣席捲了世界。本文總結了不同時代的主要人物、製作人、唱片公司、視覺美學和時尚的變化，以及參考文獻和唱片目錄。
 
 ---
 
@@ -35,125 +35,125 @@ color: #fff;
 }
 </style>
 
-## 1970年代〜1980年代：ヒップホップの誕生と黄金の始まり
+## 1970 年代至 80 年代：嘻哈音樂的誕生及其黃金開端
 
-* **代表的プロデューサー／DJ**：DJ Kool Herc、Grandmaster Flash、Afrika Bambaataa  
-* **主要レーベル**：Sugar Hill Records、Def Jam（80年代後半）  
-* **文化的背景**：ブロンクスの黒人・ラティーノコミュニティのパーティー文化から誕生。ラップ、DJ、ブレイクダンス、グラフィティが一体となったヒップホップ文化を形成。  
-* **映像・ファッション**：低予算MV、アディダス、カンゴール、ゴールドチェーンが象徴的。  
+* **代表製作人/DJ**：DJ Kool Herc、Grandmaster Flash、Afrika Bambaataa
+* **主要唱片公司**：Sugar Hill Records、Def Jam（80 年代末）
+* **文化背景**：誕生於布朗克斯黑人和拉丁裔社區的政黨文化。說唱、DJ、霹靂舞和塗鴉一起形成了嘻哈文化。
+* **視頻/時尚**：低成本MV，阿迪達斯、Kangol、金鍊子都是像徵。
 
-**おすすめアルバム**
+**推薦專輯**
 
-| アルバム | アーティスト | Amazonリンク | おすすめポイント |
-|----------|-------------|--------------|----------------|
-| *Rapper’s Delight* (1979) | The Sugarhill Gang | [Amazon](https://amzn.to/4gxF3s2) | 世界初のヒット・ヒップホップシングル |
-| *Paid in Full* (1987) | Eric B. & Rakim | [Amazon](https://amzn.to/48s2voA) | ラップのフロウを刷新した革命作 |
-| *Criminal Minded* (1987) | Boogie Down Productions | [Amazon](https://amzn.to/46gSv0b) | ハードコアと社会的リアリズムの先駆 |
-
----
-
-## 1990年代：黄金期とリアリズムの深化
-
-* **代表的プロデューサー**：DJ Premier、Pete Rock、RZA、Large Professor  
-* **主要レーベル**：Def Jam、Bad Boy Records、Loud Records  
-* **文化的背景**：サンプリングを駆使したビートと、社会批評的かつストリートのリアリズムを描くリリック。ブルックリン、クイーンズ、ハーレムが拠点に。  
-* **東西抗争**：2PacとThe Notorious B.I.G.の悲劇的死を含む東西対立が激化。  
-* **映像・ファッション**：ハーレムの高級ブティックやNYの街角を背景にしたMV。Timberland、Carhartt、AverX、バギージーンズが主流。  
-
-**おすすめアルバム**
-
-| アルバム | アーティスト | Amazonリンク | おすすめポイント |
-|----------|-------------|--------------|----------------|
-| *Illmatic* (1994) | Nas | [Amazon](https://amzn.to/3IwRSX4) | ニューヨークの叙事詩。リリシズムの頂点 |
-| *Ready to Die* (1994) | The Notorious B.I.G. | [Amazon](https://amzn.to/3It03Um) | ストリートのリアルを描いた傑作 |
-| *Enter the Wu-Tang (36 Chambers)* (1993) | Wu-Tang Clan | [Amazon](https://amzn.to/47PTQMw) | 武侠映画とストリートを融合した革命的作品 |
+|專輯 |藝術家 |亞馬遜鏈接 |推薦點|
+|----------|-------------|-------------|----------------|
+| *說唱歌手的喜悅* (1979) |糖山幫 | [亞馬遜](https://amzn.to/4gxF3s2) |世界上第一首熱門嘻哈單曲 |
+| *全額付款* (1987) |埃里克·B.和拉基姆 | [亞馬遜](https://amzn.to/48s2voA) |一部徹底改變說唱潮流的革命性作品 |
+| *犯罪心理* (1987) |布吉唐恩製作 | [亞馬遜](https://amzn.to/46gSv0b) |硬核和社會現實主義的先驅|
 
 ---
 
-## 2000年代：インディペンデントとミックステープ文化
+## 20 世紀 90 年代：黃金時代和現實主義的深化
 
-* **代表的プロデューサー**：Just Blaze、The Alchemist、Swizz Beatz  
-* **主要レーベル**：Roc-A-Fella、Rawkus Records、G-Unit Records  
-* **文化的背景**：Jay-Z、DMX、50 Centらが商業的成功を収める一方で、地下ではMos Def、Talib Kweliらが「コンシャス・ラップ」を展開。ミックステープ文化が隆盛。  
-* **映像・ファッション**：大規模なMV制作、RocawearやSean John、Eckoなどのブランドが流行。  
+* **代表製作人**：DJ Premier、Pete Rock、RZA、Large Professor
+* **主要唱片公司**：Def Jam、Bad Boy Records、Loud Records
+* **文化背景**：充分利用描繪社會批評和街頭現實主義的採樣和歌詞的節拍。總部位於布魯克林、皇后區和哈萊姆區。
+* **東西方衝突**：東西方衝突加劇，包括 2Pac 和 The Notorious B.I.G. 的慘死。
+* **視頻/時尚**：MV以哈萊姆區的一家高端精品店和紐約的一個街角為背景。 Timberland、Carhartt、AverX、寬鬆牛仔褲是主流。
 
-**おすすめアルバム**
+**推薦專輯**
 
-| アルバム | アーティスト | Amazonリンク | おすすめポイント |
-|----------|-------------|--------------|----------------|
-| *The Blueprint* (2001) | Jay-Z | [Amazon](https://amzn.to/46ho0Hs) | ソウルサンプリングの美学を確立 |
-| *Get Rich or Die Tryin’* (2003) | 50 Cent | [Amazon](https://amzn.to/46gmSUj) | ストリートとメジャーをつなぐ決定打 |
-| *Black on Both Sides* (1999) | Mos Def | [Amazon](https://amzn.to/4gA2mBJ) | コンシャスな視点とジャズ感覚の融合 |
-
----
-
-## 2010年代〜現在：多様化と世界的影響力
-
-* **代表的プロデューサー**：Metro Boomin（南部寄りだがNYにも影響）、Hit-Boy、Statik Selektah  
-* **主要レーベル**：Top Dawg（NYともリンク）、Griselda Records  
-* **文化的背景**：Kendrick Lamarの影響と並行して、ニューヨークではGriselda（Westside Gunn、Conway、Benny the Butcher）が90年代的質感を復活。インターネット発のアーティストも増加。  
-* **映像・ファッション**：ハイブランドとストリートが融合（Supreme、Off-White、Balenciaga）。ドキュメンタリー的MVが増加。  
-
-**おすすめアルバム**
-
-| アルバム | アーティスト | Amazonリンク | おすすめポイント |
-|----------|-------------|--------------|----------------|
-| *My Beautiful Dark Twisted Fantasy* (2010) | Kanye West | [Amazon](https://amzn.to/3IcnnFT) | 芸術性と商業性の極致 |
-| *Pray for Paris* (2020) | Westside Gunn | [Amazon](https://amzn.to/46OyiyL) | アートとラップを結ぶ美学的作品 |
-| *King’s Disease* (2020) | Nas | [Amazon](https://amzn.to/3Icom93) | ベテランの成熟を示す名盤 |
+|專輯 |藝術家 |亞馬遜鏈接 |推薦點|
+|----------|-------------|-------------|----------------|
+| *Illmatic* (1994) |納斯 | [亞馬遜](https://amzn.to/3IwRSX4) |紐約史詩。抒情的巔峰|
+| *準備去死* (1994) |臭名昭著的 B.I.G. | [亞馬遜](https://amzn.to/3It03Um) |描繪現實街道的傑作|
+| *武當堂（36室）* (1993) |武當派 | [亞馬遜](https://amzn.to/47PTQMw) |融合武俠電影與街景的革命性作品 |
 
 ---
 
-## 映画リスト
+## 2000 年代：獨立和混音帶文化
 
-| 映画タイトル | 年 | Amazonリンク |
+* **代表製作人**：Just Blaze、The Alchemist、Swizz Beatz
+* **主要唱片公司**：Roc-A-Fella、Rawkus Records、G-Unit Records
+* **文化背景**：在Jay-Z、DMX、50 Cent等人取得商業成功的同時，地下Mos Def、Talib Kweli等人則發展了“有意識的說唱”。混音帶文化蓬勃發展。
+* **視頻/時尚**：大型音樂視頻製作，Rocawear、Sean John、Ecko等品牌頗受歡迎。
+
+**推薦專輯**
+
+|專輯 |藝術家 |亞馬遜鏈接 |推薦點|
+|----------|-------------|-------------|----------------|
+| *藍圖* (2001) | Jay-Z | [亞馬遜](https://amzn.to/46ho0Hs) |建立靈魂採樣的美學|
+| *要么致富，要么去死* (2003) | 50 美分 | [亞馬遜](https://amzn.to/46gmSUj) |連接街頭與大聯盟的決定性一擊|
+| *兩面都是黑色* (1999) |莫斯·達夫 | [亞馬遜](https://amzn.to/4gA2mBJ) |意識視角與爵士感性的融合|
+
+---
+
+## 2010 年代至今：多元化和全球影響力
+
+* **代表性製作人**：Metro Boomin（偏南，但也受紐約影響）、Hit-Boy、Statik Selektah
+* **主要唱片公司**：Top Dawg（也與 NY 相關）、Griselda Records
+* **文化背景**：與 Kendrick Lamar 的影響力並行，Griselda（Westside Gunn、Conway、Benny the Butcher）正在紐約帶回 90 年代的感覺。來自互聯網的藝術家數量也在不斷增加。
+* **視頻/時尚**：高級品牌和街頭服飾（Supreme、Off-White、Balenciaga）的融合。紀錄片音樂視頻正在興起。
+
+**推薦專輯**
+
+|專輯 |藝術家 |亞馬遜鏈接 |推薦點|
+|----------|-------------|-------------|----------------|
+| *我美麗的黑暗扭曲幻想* (2010) |坎耶·維斯特 | [亞馬遜](https://amzn.to/3IcnnFT) |藝術性與商業性的巔峰|
+| *為巴黎祈禱* (2020) |西區岡恩 | [亞馬遜](https://amzn.to/46OyiyL) |連接藝術與說唱的美學作品 |
+| *國王病* (2020) |納斯 | [亞馬遜](https://amzn.to/3Icom93) |展現老將成熟的傑作|
+
+---
+
+## 電影列表
+
+|電影名稱 |年份|亞馬遜鏈接 |
 |--------------|----|--------------|
-| *Wild Style* | 1983 | [Amazon](https://amzn.to/423FBju) |
-| *Beat Street* | 1984 | [Amazon](https://amzn.to/3W1AT2c) |
-| *Juice* | 1992 | [Amazon](https://amzn.to/46fQe5j) |
-| *Notorious* | 2009 | [Amazon](https://amzn.to/424lamA) |
-| *Nas: Time Is Illmatic* | 2014 | [Amazon](https://amzn.to/46FoQwG) |
+| *狂野風格* | 1983 | [亞馬遜](https://amzn.to/423FBju) |
+| *擊敗街* | 1984 | [亞馬遜](https://amzn.to/3W1AT2c) |
+| *果汁* | 1992 | [亞馬遜](https://amzn.to/46fQe5j) |
+| *臭名昭著* | 2009 | [亞馬遜](https://amzn.to/424lamA) |
+| *Nas：時間不規律* | 2014 | [亞馬遜](https://amzn.to/46FoQwG) |
 
 ---
 
-## 参考文献・さらなる読み物
+## 參考資料/延伸閱讀
 
-* [Jeff Chang『Can’t Stop Won’t Stop: A History of the Hip-Hop Generation』](https://amzn.to/4gCxTmv)  
-* [Tricia Rose『Black Noise: Rap Music and Black Culture in Contemporary America』](https://amzn.to/4gwwIF4)  
-* [Dan Charnas『The Big Payback: The History of the Business of Hip-Hop』](https://amzn.to/4802iJj)  
-* 『The Source』『XXL』『Vibe』アーカイブ記事（選定）
+* [張信哲《不能停止不會停止：嘻哈一代的歷史》](https://amzn.to/4gCxTmv)
+* [特里西婭·羅斯“黑色噪音：當代美國的說唱音樂和黑人文化”](https://amzn.to/4gwwIF4)
+* [Dan Charnas“巨大的回報：嘻哈商業的歷史”](https://amzn.to/4802iJj)
+* 《The Source》《XXL》《Vibe》檔案文章（節選）
 
 ---
 
-## 代表的ディスコグラフィー（抜粋）
+## 代表性唱片（摘錄）
 
-### Nas
+### 納斯
 
-| アルバム | Amazonリンク |
+|專輯 |亞馬遜鏈接 |
 |----------|--------------|
-| *Illmatic* (1994) | [Amazon](https://amzn.to/3IwRSX4) |
-| *King’s Disease* (2020) | [Amazon](https://amzn.to/3Icom93) |
+| *Illmatic* (1994) | [亞馬遜](https://amzn.to/3IwRSX4) |
+| *國王病* (2020) | [亞馬遜](https://amzn.to/3Icom93) |
 
-### The Notorious B.I.G.
+### 臭名昭著的 B.I.G.
 
-| アルバム | Amazonリンク |
+|專輯 |亞馬遜鏈接 |
 |----------|--------------|
-| *Ready to Die* (1994) | [Amazon](https://amzn.to/3It03Um) |
-| *Life After Death* (1997) | [Amazon](https://amzn.to/48pnlVB) |
+| *準備去死* (1994) | [亞馬遜](https://amzn.to/3It03Um) |
+| *死後的生活* (1997) | [亞馬遜](https://amzn.to/48pnlVB) |
 
-### Wu-Tang Clan
+### 武當派
 
-| アルバム | Amazonリンク |
+|專輯 |亞馬遜鏈接 |
 |----------|--------------|
-| *Enter the Wu-Tang (36 Chambers)* (1993) | [Amazon](https://amzn.to/47PTQMw) |
-| *Wu-Tang Forever* (1997) | [Amazon](https://amzn.to/46yGDFE) |
+| *武當堂（36室）* (1993) | [亞馬遜](https://amzn.to/47PTQMw) |
+| *永遠的武當* (1997) | [亞馬遜](https://amzn.to/46yGDFE) |
 
 ---
 
 ## 概括
 
-東海岸ヒップホップは、ブロンクスのブロックパーティーに端を発し、80年代に商業的成功、90年代に黄金期を迎えました。社会批評性とストリートリアリズムを兼ね備えたリリック、緻密なサンプリング・ビートが特色であり、映像・ファッション・映画・文学的表現にまで影響を与えました。  
-2000年代以降はJay-Zや50 Centなどメジャー成功者と、Mos DefやTalib Kweliらのコンシャス派が並存。2010年代以降はGriseldaやNasの復活によって再びニューヨークが注目を集め、東海岸らしいハードかつ叙情的なヒップホップが継承されています。  
+東海岸嘻哈起源於布朗克斯區的街區派對，在上世紀80年代取得了商業上的成功，並在90年代達到了黃金時期。它的特點是結合了社會批評和街頭現實主義的歌詞，以及細緻的採樣節拍，並影響了視頻、時尚、電影，甚至文學表達。
+自 2000 年代以來，出現了 Jay-Z 和 50 Cent 等重大成功人士，以及 Mos Def 和 Talib Kweli 等有意識的藝術家。 2010年代以來，紐約因Griselda和Nas的複興而再次受到關注，東海岸典型的硬朗抒情嘻哈風格得以傳承。
 
 ---
 

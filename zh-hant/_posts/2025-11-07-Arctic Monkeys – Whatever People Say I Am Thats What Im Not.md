@@ -11,13 +11,13 @@ tags:
 - Indie Rock
 - Rock
 - 00s
-title: Arctic Monkeys – Whatever People Say I Am, That's What I'm Not
+title: 北極猴子——無論人們怎麼說我，我都不是
 ---
 
 
-Arctic Monkeys(アークティックモンキーズ)は、2002年に結成されたイングランド・シェフィールド出身のロックバンド。アークティック・モンキーズは、インターネットを通じて世間の注目を集めた「ブログ・ロック」時代の代表格。
+Arctic Monkeys是一支來自英國謝菲爾德的搖滾樂隊，成立於2002年。 Arctic Monkeys是“博客搖滾”時代的代表，通過互聯網獲得公眾關注。
 
-このアルバムは2006年にレーベルDominoからリリースされたデビュースタジオアルバム。
+這張專輯是多米諾唱片公司於2006年發行的首張錄音室專輯。
 
 #### 曲目列表
 ```md
@@ -36,7 +36,7 @@ Arctic Monkeys(アークティックモンキーズ)は、2002年に結成され
 13. A Certain Romance
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m72866996796?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m72866996796?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pK7egZaT3hs?si=gqjos97Utn1Hjnin" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

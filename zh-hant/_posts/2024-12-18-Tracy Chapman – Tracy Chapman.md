@@ -10,13 +10,13 @@ tags:
 - Folk Rock
 - Rock
 - 80s
-title: Tracy Chapman – Tracy Chapman
+title: 特雷西·查普曼 – 特雷西·查普曼
 ---
 
 
-Tracy Chapman(トレイシー・チャップマン)は、ヒットシングル「Fast Car」（1988年）と「Give Me One Reason」（1995年）で広く知られているUSのシンガーソングライター。
+特蕾西·查普曼 (Tracy Chapman) 是一位美國創作型歌手，因其熱門單曲《Fast Car》（1988 年）和《Give Me One Reason》（1995 年）而廣為人知。
 
-「Tracy Chapman」は1988年にElektraレコーズからリリースされたデビューアルバム。ネルソン・マンデラの70歳の誕生日トリビュートコンサートへの出演により成功を収め、プラチナ認定、アルバム・オブ・ザ・イヤーを含む6つのグラミー賞にノミネートされ、そのうち3つはベスト・ニュー・アーティスト、シングル「Fast Car」でベスト・フェミニン・ポップ・ボーカル・パフォーマンス、ベスト・コンテンポラリー・フォーク・アルバムを受賞した。
+《Tracy Chapman》是她於 1988 年由 Elektra Records 發行的首張專輯。她在納爾遜·曼德拉 (Nelson Mandela) 70 歲生日致敬音樂會上的成功亮相為她贏得了白金認證和六項格萊美提名，包括年度專輯獎，其中三項提名為最佳新人獎、單曲“Fast Car”的最佳女性流行聲樂表演獎和最佳當代民謠專輯獎。
 
 #### 曲目列表
 ```md
@@ -33,7 +33,7 @@ Tracy Chapman(トレイシー・チャップマン)は、ヒットシングル�
 11. For You
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m46950737330?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m46950737330?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AIOAlaACuv4?si=nw_2eBExIA760JgM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

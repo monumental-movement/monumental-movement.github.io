@@ -10,11 +10,11 @@ tags:
 - Rock
 - Pops
 - 7inch
-title: The Monkees - Words
+title: Monkees - 文字
 ---
 
 
-The Monkees(ザ・モンキーズ)は、Davy Jones（デイビー・ジョーンズ) 、Micky Dolenz（ミッキー・ドレンツ) 、Mike Nesmith （マイク・ネスミス) Peter Tork（ピーター・トーク) の４人で結成されたUSロックバンド。The Monkeesが自ら出演する一話完結型のドタバタコメディTV番組『ザ・モンキーズ・ショー』とレコード販売を連動するメディアミックス戦略をとっていた。
+Monkees 是一支美國搖滾樂隊，由 Davy Jones、Micky Dolenz、Mike Nesmith 和 Peter Tork 組成。他們制定了一項媒體組合策略，將唱片銷售與“The Monkees Show”聯繫起來，這是一集鬧劇喜劇電視節目，Monkees 本人也出現在其中。
 
 #### 曲目列表
 ```md
@@ -27,7 +27,7 @@ B1. A Little Bit Me, A Little Bit You
 B2. The Girl I Knew Somewhere
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m80412153029?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m80412153029?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4MhTAFljXKI?si=tPXBkHgcvv5FOUrl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

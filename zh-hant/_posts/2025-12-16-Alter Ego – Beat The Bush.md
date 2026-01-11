@@ -11,19 +11,19 @@ tags:
 - Minimal
 - Acid
 - 00s
-title: Alter Ego – Beat The Bush
+title: 改變自我——擊敗布什
 ---
 
 
-Alter Egoは、1992年にRoman FlügelとJörn Elling Wuttkeが結成したドイツのエレクトロニックミュージックデュオ。2004年の代表作「Rocker」でよく知られている。
+Alter Ego 是德國電子音樂二人組，由 Roman Flügel 和 Jörn Elling Wuttke 於 1992 年組建。他最出名的是2004年的代表作《Rocker》。
 
-「Beat The Bush 」は、2005年にドイツのレーベルKlang ElektronikからリリースされたTechno／Minimal／Acidリミックス。
+《Beat The Bush》是德國廠牌 Klang Elektronik 於 2005 年發行的 Techno/Minimal/Acid 混音版。
 
-Aは、ジャーマンハウスデュオTiefschwarzによるremix。
+A 是德國 house 二人組 Tiefschwarz 的混音作品。
 
-B1は、 Cortney Tidwell, Seelenluft, Ladytron, Depeche Mode, The Rapture, Goldfrapp, The Chemical Brothersなどのリミックスを手掛けるUK出身のremixer ／プロデューサー Ewan Pearsonによるremix。
+B1 是來自英國的混音師/製作人 Ewan Pearson 的混音作品，曾為 Cortney Tidwell、Seelenluft、Ladytron、Depeche Mode、The Rapture、Goldfrapp 和 The Chemical Brothers 等藝術家進行過混音。
 
-B2は、UKのelectronic music DJ／プロデューサーRitonによるremix。
+B2 是英國電子音樂 DJ/製作人 Riton 的混音作品。
 
 #### 曲目列表
 ```md
@@ -33,7 +33,7 @@ B1. Beat The Bush (Ewan Pearson's Slow NRG Edit)
 B2. Tubeaction (Riton Re-Rub)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m86236458601?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m86236458601?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tcnyL282c8A?si=tK71vwZYct-CSIRX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

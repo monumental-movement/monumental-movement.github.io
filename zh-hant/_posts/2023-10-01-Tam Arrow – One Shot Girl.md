@@ -13,8 +13,8 @@ title: Tam Arrow – 一擊女孩
 ---
 
 
-「One Shot Girl」は、
-2001年にイタリアのレーベル「Live Music」からリリースされたTam Arrow(本名Claudio Magnani)によるEPです。
+《一槍少女》是
+這是 Tam Arrow（真名 Claudio Magnani）於 2001 年在意大利唱片公司“Live Music”發行的一張 EP。
 
 
 #### 曲目列表

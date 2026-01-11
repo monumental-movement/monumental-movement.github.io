@@ -22,7 +22,7 @@ title: 各種 – 太空斗篷
 曲目 7 錄製於 1951 年 3 月 6 日 · 選自專輯“The Voices Of Walter Schumann”
 曲目 8 錄製於 1962 年 7 月 16 日 · 選自專輯“Zounds! What Sounds!”
 第 9 首（第一部分）錄製於 1953 年 11 月 6 日 · 來自 Capitol Records 單曲
-第 9 首（第二部分）錄製於 1961 年 5 月 2 日 · 選自專輯“Staging For Stereo - Highlights”
+第 9 首（第二部分）錄製於 1961 年 5 月 2 日 · 選自專輯“Staging For Stereo - Silhouettes”
 曲目 10 錄製於 1960 年 3 月 23 日 · 選自專輯“Accent On Bamboo”
 曲目 11 錄製於 1959 年 3 月 23 日 · 選自專輯“Les Baxter's Wild Guitars”
 曲目 12 錄製於 1949 年 8 月 4 日 · 選自專輯“Music For Piece Of Mind”

@@ -15,11 +15,11 @@ title: 配音拖拉機 – 可怕的 H H 循環 / 104 配音
 ---
 
 
-デンマーク・コペンハーゲンのエレクトロニックコミュニティの重鎮Dub TractorことAnders Remmer は、エレクトロニックミュージシャン・プロデューサー＆映画音楽作曲家。Thomas Knak（別名Opiate）とJesper Skaaning （別名Acustic）と共に「Future 3」「System」名義でも活動している。
+安德斯·雷默（Anders Remmer），又名Dub Tractor，是丹麥哥本哈根電子界的領軍人物，電子音樂家、製作人、電影音樂作曲家。他還以“Future 3”和“System”的名義與 Thomas Knak（又名 Opiate）和 Jesper Skaaning（又名 Acustic）合作。
 
-「Scary H H Loop / 104 Dub」は、1997年にリリースされたトリップポップ・エクスペリメンタル・アンビエントトラック。
+“Scary H H Loop / 104 Dub”是一首 1997 年發行的 Trip-pop 實驗環境曲目。
 
-B面１曲目は、コーンウォール一派の才人Luke Vibert（ルーク・ヴァイバート）がプロデュース＆remix。Wagon Christ（ワゴン・クライスト）はLuke Vibertの別名義。
+B面的第一首歌曲由康沃爾天才盧克·維伯特製作和混音。馬車基督是盧克·維伯特的另一個名字。
 
 #### 曲目列表
 ```md

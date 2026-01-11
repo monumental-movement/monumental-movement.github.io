@@ -10,13 +10,13 @@ tags:
 - Electro
 - Pops
 - 00s
-title: Momo – Make Me Happy
+title: 莫莫——讓我快樂
 ---
 
 
-PostPet（ポストペット/略称ポスペ）のピンクのクマ「MOMO（モモ）」の2000年にリリースされた企画レコード。プロデューサーはKen Ishii （ケンイシイ）。
+PostPet的粉紅小熊“MOMO”於2000年發行的項目唱片。製片人是石井健。
 
-A面２曲目はCo-Fusion（コフュージョン）の谷丙午によるremix。
+A面的第二首歌是Co-Fusion樂隊Heigo Tani的混音版。
 
 
 #### 曲目列表
@@ -30,5 +30,5 @@ B1. おつかいモモ
 B2. Make Me Happy (Instrumental)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m95229129822?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m95229129822?afid=6142608987){: .button1}
 

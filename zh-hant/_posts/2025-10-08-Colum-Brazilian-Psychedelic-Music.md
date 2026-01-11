@@ -71,7 +71,7 @@ Os Mutantes 特別具有創新性。 **塞爾吉奧·迪亞茲**的法茲吉他�
 
 ## 第三章：地下熱潮——壓抑與創造的交叉點
 
-20 世紀 70 年代，許多 Tropicália 的核心人物都被流放。然而，音樂之火轉入地下，並在當地蓬勃發展。聖保羅的學生樂隊和巴伊亞當地廣播電台繼續通過盒式磁帶網絡分享聲音。
+20 世紀 70 年代，許多 Tropicália 的核心人物都被流放。然而，音樂之火轉入地下，並在當地蓬勃發展。聖保羅的學生樂隊和巴伊亞當地的廣播電台繼續通過盒式磁帶網絡分享聲音。
 
 另一方面，總部位於米納斯吉拉斯州的 **Clube da Esquina** 出現。 Milton Nascimento 和 Lo Borges 於 1972 年推出的專輯《Clube da Esquina》是一張融合了迷幻、民謠和 MPB 之間界限的傑作，是“安靜之旅”的縮影。
 
@@ -122,16 +122,16 @@ flowchart TD
 
 |藝術家 |標題 |年份|鏈接 |
 |----------------|---------|----------------|----------------|
-|突變體 |熱帶：ou Panis et Circencis | 1968 | [亞馬遜](https://amzn.to/46LWn9K) |
-|卡埃塔諾·維羅索 |卡埃塔諾·維羅索 | 1969 | [亞馬遜](https://amzn.to/3IAc2Qc) |
+| Os Mutantes | Tropicália: ou Panis et Circencis | 1968 | [Amazon](https://amzn.to/46LWn9K) |
+| Caetano Veloso | Caetano Veloso | 1969 | [Amazon](https://amzn.to/3IAc2Qc) |
 |吉爾伯托·吉爾 |特快 2222 | 1972 | [亞馬遜](https://amzn.to/3WuzFg5) |
 |米爾頓·納西門托 & 洛·博爾赫斯 |埃斯基納俱樂部 | 1972 | [亞馬遜]https://amzn.to/4n2waIJ) |
-|布加林 |手冊| 2015 | 2015 [亞馬遜](https://amzn.to/3KIiftN) |
+|布加林 |手冊| 2015 | 2015 [Amazon](https://amzn.to/3KIiftN) |
 |膠水行程|膠水行程| 2016 | 2016 [亞馬遜](https://amzn.to/4h8CzAY) |
 
 ---
 
-## 最後一章：未來的願景——迷幻繼續
+## 最終章：未來的願景——迷幻繼續
 
 半個世紀後，Tropicalia 的精神仍在不斷演變。通過數字錄音、人工智能生成的音樂和視覺藝術的融合，巴西藝術家正在創造“新的幻覺”。
 這不是逃避現實，而是重建現實。

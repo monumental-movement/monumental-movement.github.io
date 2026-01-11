@@ -10,7 +10,7 @@ permalink: /zh-hant/modjo-chillin-uk/
 tags:
 - House
 - French House
-title: Modjo – Chillin' - UK
+title: Modjo – Chillin' – 英國
 ---
 
 
@@ -26,7 +26,7 @@ title: Modjo – Chillin' - UK
 
 這首歌曲被譽為流行舞曲，氣氛輕鬆，旋律明快。
 
-※UK盤とItaly盤がありますが、こちらはUK盤となります。 Italy盤は[こちら](https://monumental-movement.jp/Modjo-Chillin/)
+*有英國版和意大利版，但這是英國版。意大利語版本是[這裡](https://monumental-movement.jp/Modjo-Chillin/)
 
 #### 曲目列表
 ```md
@@ -37,7 +37,7 @@ B1  Chillin' Con Carne (Por Favor Mix by We In Music vs. The Buffalo Bunch)
 B2  The Art Of Chillin'
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m30941208338?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m30941208338?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hTl0F2cKzLk?si=NYr8r9NEkqTxBFCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

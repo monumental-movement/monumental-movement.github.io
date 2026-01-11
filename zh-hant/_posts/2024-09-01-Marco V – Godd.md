@@ -18,7 +18,7 @@ Marinus Verkuijlen，也稱為 Marco V，是一位荷蘭電子音樂 DJ。他是
 
 《Godd》是德國獨立唱片公司 Superstar Recordings 於 2002 年發行的一首硬 trance/tech trance 曲目。
 
-B面的第二首歌是DJ Errik的混音版，他是德國杜塞爾多夫Poison Club的常駐DJ，在許多著名的音樂節上演出。
+B面的第二首歌是DJ Errik的混音版，他是德國杜塞爾多夫Poison Club的常駐DJ，並在許多著名的音樂節上演奏。
 
 #### 曲目列表
 ```md

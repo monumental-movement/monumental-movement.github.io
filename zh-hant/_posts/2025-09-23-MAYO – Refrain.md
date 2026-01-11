@@ -11,11 +11,11 @@ tags:
 - Disco
 - City Pop
 - 70s
-title: Mayo Shono – 副歌 M・A・Y・O – 副歌
+title: Mayo Shono – 副歌 M·A·Y·O – 副歌
 ---
 
 
-《Refran》是莊野真夜的第四張原創專輯，其中收錄了她的代表曲《Flying to Istanbul》（由堤恭平作曲）。 City Pop 由 Nippon Columbia 的子廠牌 Nippon Columbia 於 1978 年發行。
+《Reflan》是莊野真夜的第四張原創專輯，其中收錄了她的代表曲《Flying to Istanbul》（由堤恭平作曲）。 City Pop 由 Nippon Columbia 的子廠牌 Nippon Columbia 於 1978 年發行。
 
 #### 曲目列表
 ```md

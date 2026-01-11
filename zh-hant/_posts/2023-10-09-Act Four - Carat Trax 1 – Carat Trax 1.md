@@ -14,7 +14,7 @@ title: 第四幕 - Carat Trax 1 – Carat Trax 1
 
 
 “Carat Trax 1”是
-這是由 Andres Romero 和 Stefan Wuyts 組成的組合 Act Four 的一張 EP，於 1994 年在比利時唱片公司 Circus 發行。
+這是由 Andres Romero 和 Stefan Wuyts 組成的 Act Four 單元的一張 EP，於 1994 年在比利時唱片公司 Circus 上發行。
 
 
 #### 曲目列表

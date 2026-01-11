@@ -15,7 +15,7 @@ title: 各種——King Britt 向未來展示黑色
 
 King Britt 的合集，他是費城 House 界的關鍵人物。
 
-《The Society》是 A 面的第一首曲目，是 Senor Coconut 巡演成員、作曲家/編曲家/薩克斯管演奏家 Thomas Hass 的一個項目。
+A 面的第一首曲目《The Society》是作曲家/編曲家/薩克斯管演奏家 Thomas Hass（Senor Coconut 巡演成員）的一個項目。
 
 #### 曲目列表
 ```md

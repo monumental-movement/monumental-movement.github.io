@@ -103,7 +103,7 @@ B2. Joe (Extended Dub)
 ### Akimbo 主演 Marcina Arnold – 《眾所周知》
 <a href="https://jp.mercari.com/item/m51213858343?afid=6142608987"><img src="../assets/images/Akimbo%20Featuring%20Marcina%20Arnold%20%E2%80%93%20Everybody%20Knows.webp"></a>
 
-簡介： 一首由放克靈魂樂搖滾樂隊 Akimbo 創作的未來爵士樂曲目，由 Brand New Heavies 樂隊的吉他手 Simon Bartholomew 等人擔綱演出。它於 1999 年由英國唱片公司 Acid Jazz 發行。
+簡介： 放克靈魂樂搖滾樂隊 Akimbo 創作的未來爵士樂曲目，由 Brand New Heavies 樂隊的吉他手 Simon Bartholomew 等人擔綱演出。它於 1999 年由英國唱片公司 Acid Jazz 發行。
 
 推薦要點：這是一首精緻的曲目，感覺像是現代放克/爵士樂的融合，具有“未來爵士”風格，可以說是Acid Jazz的演變。
 
@@ -132,7 +132,7 @@ B2. Flight To Havana
 簡介： 這是一張全明星酸性爵士樂合輯，於 1992 年由英國 Acid Jazz 廠牌發行。包含在舞池中流行的各種藝術家的簽名曲目。
 先生
 
-推薦要點：一首有價值的作品，收錄了迷幻爵士樂早期的著名歌曲，如《Corduroy》、《Mother Earth》和《Sons of Judah》。您可以同時享受流派的擴展和律動的感覺。
+推薦要點：一首有價值的作品，收錄了迷幻爵士樂早期的著名歌曲，如《Corduroy》、《Mother Earth》和《Sons of Judah》。您可以同時享受流派的擴展和節奏感。
 
 
 #### 曲目列表
