@@ -15,12 +15,12 @@ title: Futureshock - 프라이드의 편집증
 ---
 
 
-Futureshock은 영국의 DJ/프로듀서인 Alex Tepper와 Phil Dockerty입니다.
-일렉트로닉 듀오 by. 1998년부터 2003년까지 주로 활동.
+Futureshock은 영국의 DJ이자 프로듀서인 Alex Tepper와 Phil Dockerty로 구성된 밴드입니다.
+일렉트로닉 듀오 by. 1998년부터 2003년까지 주로 활동했다.
 
 "Pride's Paranoia"는 2003년 Parlophone 레이블에서 발매된 프로그레시브 하우스 트랙입니다.
 
-A면의 두 번째 트랙은 Cortney Tidwell, Seelenluft, Ladytron, Depeche Mode, The Rapture, Goldfrapp, The Chemical Brothers 등 다양한 아티스트를 리믹스한 Ewan Pearson의 리믹스입니다.
+Side A의 두 번째 트랙은 Cortney Tidwell, Seelenluft, Ladytron, Depeche Mode, The Rapture, Goldfrapp, The Chemical Brothers 등 다양한 아티스트를 리믹스해 온 Ewan Pearson의 리믹스입니다.
 
 B-side는 Cirez D와 Pryda로도 활동하고 있는 스톡홀름 출신 DJ이자 프로듀서인 Eric Prydz의 리믹스입니다.
 

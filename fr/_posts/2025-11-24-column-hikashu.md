@@ -93,7 +93,7 @@ Parallèlement aux activités de groupe, le leader Koichi Makigami élargit le c
 
 - Exploration plus approfondie du chant diphonique
 - Collaboration avec la danse contemporaine
-- Connexion avec John Zorn (monde avant-gardiste de NY)
+- Connexion avec John Zorn (NY avant-garde mondiale)
 - A piloté le boom du thérémine à la fin des années 1990 et contribué à sa diffusion au Japon
 
 Hikashu lui-même a introduit des rythmes de musique ethnique, des gammes non occidentales et de la poésie abstraite, se transformant en « pop expérimentale de nationalité inconnue ».
@@ -131,7 +131,7 @@ Le style de Hikashu consistant à « réexpérimenter » en utilisant des œuvre
 ---
 
 # 7. Analyse détaillée des caractéristiques musicales
-—Éléments qui font du Hikashu Hikashu
+—Éléments qui font Hikashu Hikashu
 
 ### ■ 1. L'idée de transformer la voix en instrument
 La voix de Koichi Makigami est un mélange des éléments suivants :
@@ -148,7 +148,7 @@ Il ne s’agit pas seulement de voix, mais d’une exploration de la voix en tan
 Au début, les nouveaux rythmes stoïques ressemblant à des vagues se démarquent, mais à partir du milieu, des ensembles complexes avec plusieurs rythmes existant en même temps se multiplient.
 
 ### ■ 3. « L'humour structurel » plutôt que « l'absurdité »
-Les paroles et les performances de Hikashu peuvent sembler bizarres, mais beaucoup d'entre elles sont structurées de manière extrêmement précise.
+Les paroles et la production de Hikashu peuvent sembler bizarres, mais beaucoup d'entre elles sont structurées de manière extrêmement précise.
 Le non-sens n’est pas un « gag qui arrête la pensée », mais un moyen permettant de secouer la frontière entre le langage et le son.
 
 ### ■ 4. Thérémine et acoustique électronique

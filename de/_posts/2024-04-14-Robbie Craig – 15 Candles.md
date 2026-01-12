@@ -13,7 +13,7 @@ title: Robbie Craig – 15 Kerzen
 ---
 
 
-„15 Candles / L.O.V.E. Feeling“ ist ein britischer Garage-Track des East17-Sängers (2014-) Robbie Craig.
+„15 Candles / L.O.V.E. Feeling“ ist ein britischer Garagensong des East17-Sängers (2014-) Robbie Craig.
 
 Auf 700 Exemplare limitierte Promo-Edition.
 

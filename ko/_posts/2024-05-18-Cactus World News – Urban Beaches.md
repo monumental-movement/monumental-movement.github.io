@@ -14,7 +14,7 @@ title: 선인장 세계 뉴스 – 도시 해변
 ---
 
 
-캑터스 월드 뉴스(Cactus World News)는 1984년 4월 더블린에서 결성된 아일랜드 록 밴드이다. 1985년 영국 하드 록 밴드 더 컬트(The Cult)와 함께 영국 순회 공연을 펼친 뒤 MCA 레코드와 계약을 맺었다.
+Cactus World News는 1984년 4월 더블린에서 결성된 아일랜드 록 밴드입니다. 1985년 영국 하드 록 밴드 The Cult와 함께 영국을 순회하며 MCA Records와 계약을 맺었습니다.
 
 1986년 MCA 레코드가 발매한 'Urban Beaches''는 롤링 스톤즈와 작업했던 크리스 킴시(Chris Kimsey)가 프로듀싱한 캑터스 월드 뉴스(Cactus World News)의 데뷔 앨범이다.
 

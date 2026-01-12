@@ -82,7 +82,7 @@ Il a mis en pratique la philosophie selon laquelle « le lieu lui-même devient 
 
 ---
 
-## V. Voyager à travers le son : De l'Inde à l'Europe (1971-1972)
+## V. Voyager à travers le son : de l'Inde à l'Europe (1971-1972)
 
 En 1971, le Taj Mahal Tour Group part pour une tournée en Europe.
 Leur voyage n’était pas seulement une tournée, mais un « pèlerinage sonore ».
@@ -133,7 +133,7 @@ Il est très apprécié comme un « paysage sonore » qui combine parfaitement l
 
 Il n'y a ni rythme ni mélodie sur l'album.
 Au lieu de cela, le son du vent, les sons électroniques, les voix et la résonance des cordes se croisent doucement,
-Il présente une expérience qui invite l'auditeur à entrer « à l'intérieur du son ».
+Il présente une expérience qui invite l'auditeur « à l'intérieur du son ».
 
 ---
 
@@ -147,7 +147,7 @@ Il a également influencé Brian Eno et Robert Ashley.
 
 ---
 
-##IX. Activités et évaluation au cours des années suivantes
+##IX. Activités ultérieures et évaluation
 
 Depuis les années 1980, Kosugi est directeur musical de la Merce Cunningham Dance Company.
 Tout en héritant de la philosophie de John Cage, il approfondit l'intégration de la danse et du son.
@@ -160,7 +160,7 @@ Jusqu'à ses dernières années, convaincu que « le son est un phénomène natu
 Aujourd'hui, leurs activités incluent « l'art sonore », « l'enregistrement sur le terrain » et la « musique d'ambiance ».
 Il est réévalué en tant que source de diverses tendances musicales.
 Une attitude d'écoute du son comme un « phénomène » plutôt que comme un « matériel » ou une « information ».
-C'est le message le plus important que Kosugi nous a laissé.
+C’est le message le plus important que Kosugi nous a laissé.
 
 ---
 
@@ -178,7 +178,7 @@ C'est le message le plus important que Kosugi nous a laissé.
 | 1972 | 《Les voyageurs du Taj Mahal – 15 juillet 1972》 Annonce |
 | 1975 | Sortie de l'œuvre solo « Catch-Wave » |
 | 1977-90 | Directeur musical de la Merce Cunningham Dance Company |
-| 2018 | Décédé. Décédé à l'âge de 80 ans. |
+| 2018 | Décédé. Il est décédé à l'âge de 80 ans. |
 
 ---
 
@@ -196,7 +196,7 @@ C'est le message le plus important que Kosugi nous a laissé.
 
 ---
 
-## Conclusion - liberté de son et de prière
+## Conclusion – Liberté de son et de prière
 
 Le voyage du groupe de tournée du Taj Mahal n’était pas simplement une « performance d’un groupe à l’étranger ».
 C’était un voyage spirituel qui transcendait l’institution musicale et résonnait avec le monde.
@@ -205,6 +205,6 @@ C’était un voyage spirituel qui transcendait l’institution musicale et rés
 > – Takehisa Kosugi
 
 Aujourd’hui encore, un demi-siècle plus tard, les sons qu’ils émettaient résonnent encore.
-Il continue de vibrer doucement dans l’air, dans les souvenirs et au plus profond du cœur des auditeurs.
+Il continue de vibrer doucement dans l’air, dans la mémoire et au plus profond du cœur des auditeurs.
 
 ---

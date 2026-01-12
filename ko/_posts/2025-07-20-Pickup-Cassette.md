@@ -158,7 +158,7 @@ Come on, Bassem
 ### 토마스 뉴먼 – 여인의 향기
 <a href="https://jp.mercari.com/item/m80593383212?afid=6142608987"><img src="../assets/images/Thomas%20Newman%20%E2%80%93%20Scent%20Of%20A%20Woman.webp"></a>
 
-1992 영화 사운드트랙 고전 영화의 오리지널 스코어 테이프.
+1992년 영화 사운드트랙 고전 영화의 오리지널 스코어 테이프.
 
 #### 트랙리스트
 ```md

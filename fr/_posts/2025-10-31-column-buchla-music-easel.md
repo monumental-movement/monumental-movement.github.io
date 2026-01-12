@@ -17,7 +17,7 @@ title: '[Chronique] Buchla Music Easel et la philosophie de la « performance so
 
 ## Introduction : Qu'est-ce que le chevalet musical Buchla ?
 
-Texte : mmr｜Thème : Chevalet musical, qui, même à l'époque moderne, est salué par de nombreux artistes live comme le « plus petit orchestre pouvant être joué seul ».
+Texte : mmr｜Thème : Chevalet musical, qui, même à l'époque moderne, est salué par de nombreux artistes live comme le « plus petit orchestre pouvant être joué seul »
 
 
 Le **Buchla Music Easel**, apparu en 1973, est une version portable de la célèbre **série Buchla 200** modulaire analogique.
@@ -107,7 +107,7 @@ Easel lui-même fonctionne comme un « système musical complet » sans avoir be
 * **Enveloppe** : contrôlée automatiquement, fermée, bouclable.
 * **Reverb** : Réverbération naturelle avec réverbération à ressort.
 
-L'idée qui les intègre n'est pas la « portabilité » mais « l'improvisation », et le centre de la production musicale est passé de la « pensée » à la « sensation tactile ».
+L'idée qui les unifie n'est pas la « portabilité » mais « l'improvisation », et le centre de la production musicale est passé de la « pensée » à la « sensation tactile ».
 
 ---
 

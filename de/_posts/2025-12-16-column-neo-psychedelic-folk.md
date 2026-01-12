@@ -22,7 +22,7 @@ Text: mmr｜Thema: Kein Genre, das die Psychedelik der Vergangenheit bewahrt, so
 
 Neo-Psychedelic Folk ist ein Musiktrend, der seit den 2000er Jahren mithilfe von Aufnahmetechnik, visuellem Feingefühl und rhythmischen Konzepten rekonstruiert wird und sich dabei auf die Ästhetik des Psychedelic Folk und Acid Folk aus den 1960er und 1970er Jahren bezieht. Es zeichnet sich durch den aktiven Einsatz von Studiobearbeitung, Bearbeitung und elektronischen Effekten aus und baut gleichzeitig auf folkloristischen akustischen Texturen, ethnischen Melodien und sich wiederholenden Akkordfolgen auf.
 
-Dieser Trend war nicht auf eine bestimmte Region oder eine einzelne Szene beschränkt, sondern bildete sich zeitweise in Nordamerika, Ozeanien und Europa. Die Verbreitung der DIY-Kultur, von Indie-Labels und digitalen Aufnahmeumgebungen hat alle Phasen der Produktion, des Vertriebs und der Rezeption beeinflusst und sie zu einem entscheidenden Unterschied zu traditionellen Folk-Erneuerungsbewegungen gemacht.
+Dieser Trend war nicht auf eine bestimmte Region oder eine einzelne Szene beschränkt, sondern bildete sich zeitweise in Nordamerika, Ozeanien und Europa. Die Verbreitung der DIY-Kultur, von Indie-Labels und digitalen Aufnahmeumgebungen hat alle Phasen der Produktion, des Vertriebs und der Rezeption beeinflusst und sie zu einem entscheidenden Unterschied zu traditionellen Folk-Renewal-Bewegungen gemacht.
 
 > „Forks wurden als Material behandelt, das erneut bearbeitet werden musste, und nicht als etwas, das gespeichert werden musste.“
 
@@ -68,7 +68,7 @@ Die Lieder von Neo-Psychedelic Folk weisen strukturelle Tendenzen auf, wie die W
 
 ### 2-2. Akustische Verarbeitung
 
-Zum Einsatz kommen räumliche Erweiterungen mittels Hall und Delay, Tonhöhenschwankungen, die bandähnliche Schwankungen nachahmen, sowie eine Mischung aus Lo-Fi und Hi-Fi. Die Aufnahmen wurden zu Hause oder in einem provisorischen Studio gemacht, und die Ungleichmäßigkeit der Klangqualität wurde als ästhetischer Aspekt behandelt.
+Zum Einsatz kommen räumliche Erweiterungen mittels Hall und Delay, Tonhöhenschwankungen, die bandähnliche Schwankungen nachahmen, sowie eine Mischung aus Lo-Fi und Hi-Fi. Die Aufnahmen wurden zu Hause oder in einem provisorischen Studio gemacht, und die Ungleichmäßigkeit der Klangqualität wurde als ästhetischer Aspekt betrachtet.
 
 > „Fragmentierung der Erfahrung wird wichtiger als Homogenität“
 
@@ -118,7 +118,7 @@ Häufig kommen Abstraktion und Naturmotive, Loops, Zeitlupe und asynchrone Schni
 
 ## Kapitel 6: Akustische Erklärung – Gedanken zu Aufnahme und Mischung
 
-Der Schwerpunkt liegt eher auf dem Gefühl der Umhüllung als auf der Klarheit der Lokalisierung, und das Klangbild ist nicht in der Mitte konzentriert, sondern breitet sich wie ein Nebel aus. Umgebungsgeräusche, Verzerrungen und Übergänge werden nicht entfernt und bleiben als Teil des Songs erhalten.
+Der Schwerpunkt liegt eher auf dem Gefühl der Umhüllung als auf der Klarheit der Lokalisierung, und das Klangbild konzentriert sich nicht in der Mitte, sondern breitet sich wie ein Nebel aus. Umgebungsgeräusche, Verzerrungen und Übergänge werden nicht entfernt und bleiben als Teil des Songs erhalten.
 
 > „Eine Aufnahme ist ein Ereignis, keine Aufzeichnung.“
 
@@ -162,7 +162,7 @@ In den frühen Werken von Animal Collective sorgen Percussion und Händeklatsche
 
 ## Kapitel 10: Behandlung von Stimmen und Volkskollektivität
 
-Stimme ist eines der wichtigsten Elemente im neo-psychedelischen Folk. Die Rollenverteilung zwischen Leadsänger und Begleitung wird gelockert und mehrere Stimmen werden in einer Linie platziert. Stimmqualität, Überlappung und Nachhall haben Vorrang vor der Klarheit der Texte.
+Stimme ist eines der wichtigsten Elemente im Neo-Psychedelic Folk. Die Rollenverteilung zwischen Leadsänger und Begleitung wird gelockert und mehrere Stimmen werden in einer Linie platziert. Stimmqualität, Überlappung und Nachhall haben Vorrang vor der Klarheit der Texte.
 
 Dies ist das Ergebnis der Übertragung des Gruppengesangscharakters des Folk auf den Studioraum.
 
@@ -208,7 +208,7 @@ Diese Diskrepanz behindert das Eintauchen nicht, sondern hat eine unterstützend
 
 ## Kapitel 15: Genreübergänge und Einflussbeziehungen
 
-Neo-Psychedelic Folk hat mit Dream Pop, experimentellem Pop, Ambient und Post-Rock interagiert. Der Unterschied zwischen ihnen liegt jedoch in der volkstümlichen Einfachheit und dem Festhalten an der Kollektivität.
+Neo-Psychedelic Folk hat mit Dream Pop, experimentellem Pop, Ambient und Post-Rock interagiert. Der Unterschied zwischen ihnen liegt jedoch in der volkstümlichen Einfachheit und dem Festhalten an der Gruppenzugehörigkeit.
 
 ---
 

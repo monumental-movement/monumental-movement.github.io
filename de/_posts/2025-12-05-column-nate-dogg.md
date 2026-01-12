@@ -17,7 +17,7 @@ title: '[Kolumne] Nate Dogg: Die Flugbahn des „King of Hooks“, der G-Funk sy
 
 ## Einführung: Die „Stimme“ im Zentrum von G-Funk
 
-Text: mmr｜Thema: Die Stimme, der Groove und das Erbe im Herzen des Westküsten-Hip-Hop
+Text: mmr｜Thema: Die Stimme, der Groove und das Erbe im Herzen des Westküsten-Hip-Hops
 
 Es gibt eine Reihe von Elementen, die den amerikanischen Westküsten-Hip-Hop in den 1990er Jahren charakterisieren.
 Dr. Dre-Produktion, P-Funk-inspirierte Synthesizer-Wellen, dicke Basslinien und sanfte Sanftheit.
@@ -69,7 +69,7 @@ Um 1990 herum gründeten die Freunde aus Kindertagen, Nate Dogg, Snoop Dogg und 
 Das ist **213 (zwei eins drei)**.
 Der Name leitet sich von der Vorwahl 213 von Long Beach ab und spiegelt deutlich ihre lokale Identität wider.
 
-Lokale Aufnahmen aus der Zeit zeigten bereits, dass sich Nate Doggs Gesangsstimme von den Rappern um ihn herum abhob.
+Lokale Aufnahmen aus dieser Zeit zeigten bereits, dass Nate Doggs Gesangsstimme sich von den Rappern um ihn herum abhob.
 Seine Stimme erinnerte an die Straße, und indem er die Melodie sang, verlieh er dem gesamten Lied ein angenehm schwebendes Gefühl.
 Dieser Stil sollte später zum Kern der Gastspielkultur werden.
 
@@ -77,15 +77,15 @@ Dieser Stil sollte später zum Kern der Gastspielkultur werden.
 
 ## 3. Teilnahme und Durchbruch in Dr. Dres „The Chronic“
 
-Der entscheidende Wendepunkt in Nate Doggs Aufstieg zu nationaler Berühmtheit war **Dr. Dre's „The Chronic“** aus dem Jahr 1992.
+Der entscheidende Wendepunkt in Nate Doggs Aufstieg zu nationalem Ruhm war **Dr. Dre's „The Chronic“** aus dem Jahr 1992.
 Nachdem Warren G sein Talent mit Dre geteilt hatte, wirkte Nate Dogg an mehreren Songs des Albums mit.
 
 Seine Singstimme passt perfekt zu den schweren Bässen und Synthesizern von G-Funk und verleiht ihm einen anderen Charme als Rap.
-Obwohl seine Teilnahme zu diesem Zeitpunkt fast ein Debüt war, hatte er bereits eine etablierte Präsenz.
+Seine Teilnahme war zu diesem Zeitpunkt fast wie ein Debüt, aber er hatte bereits eine etablierte Präsenz.
 
 ---
 
-## 4. Die Wirkung von „Regulate“: Die Geburt des G-Funk-Hooks
+## 4. Die Wirkung von „Regulate“: Die Geburt des G-Funk-Typ-Hooks
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1plPyJdXKIY?si=rx9XunHS0vwUPsA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -108,7 +108,7 @@ Dieser Erfolg brachte Nate Dogg die Anerkennung als „bester Hakenmacher an der
 Die Singstimme von Nate Dogg ist auf den ersten Blick unverwechselbar, zerlegt man sie jedoch in ihre Elemente, lässt sie sich wie folgt zusammenfassen.
 
 ### ■ Dicke Stimme, abgeleitet von Gospelmusik
-Die Stimmbänder vibrieren stark und der Klang ist tief.
+Die Schwingung der Stimmbänder ist stark und die Resonanz ist tief.
 
 ### ■ Geradliniger Gesang mit wenig Vibrato
 Dadurch war es äußerst kompatibel mit den harten Beats des Hip-Hop.
@@ -128,7 +128,7 @@ Diese Eigenschaften machten Nate Doggs Stimme zu einem wesentlichen Bestandteil 
 
 ## 6. Solowerke und ihre Positionierung
 
-Nate Dogg wird für seine Gastauftritte hochgelobt, hat aber auch mehrere Soloalben veröffentlicht.
+Nate Dogg ist für seine Gastauftritte hochgelobt, hat aber auch mehrere Soloalben veröffentlicht.
 
 #### ■ „G-Funk Classics, Vol. 1 & 2“ (1998)
 
@@ -173,7 +173,7 @@ Obwohl es sich um einen süßen R&B-Sound handelt, ist es wichtig, dass Nate Dog
 
 ## 8. 213 „The Hard Way“: Die Frucht der Freundschaft
 
-213, bestehend aus Snoop, Warren und Nate, veröffentlichten 2004 ihr offizielles Studioalbum „The Hard Way“.
+213, das Trio aus Snoop, Warren und Nate, veröffentlichte 2004 ihr offizielles Studioalbum „The Hard Way“.
 Das Album erreichte Platz eins der Billboard-Charts und war der Höhepunkt der langen Freundschaft und Karriere der drei.
 
 ---
@@ -190,7 +190,7 @@ Insbesondere Snoop Dogg und Warren G haben gesagt, dass ihr Sound ohne Nate Dogg
 
 ---
 
-## 10. Nate Dogg Chronologie
+## 10. Nate Dogg-Zeitleiste
 
 <div class="mermaid">
 timeline
@@ -240,7 +240,7 @@ Die Beziehung zwischen G-Funk und der Stimme von Nate Dogg ist auch heute noch s
 
 ### ■ Ein seltenes Beispiel für die Definition der „Stimmtextur“ eines bestimmten Genres
 
-Ohne seine Stimme wäre das goldene Zeitalter des Westküsten-Hip-Hops nicht denkbar.
+Ohne seine Stimme wäre das goldene Zeitalter des Westküsten-Hip-Hop nicht denkbar.
 
 ---
 

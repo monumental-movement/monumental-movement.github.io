@@ -68,7 +68,7 @@ Barocke und impressionistische Melodien lösen sich in Yokotas Händen in einem 
 
 ### „Grinsende Katze“ (2000)
 Ein Album mit märchenhaftem Weltbild, mit angenehmer, fantastischer Akustik.
-Es entsteht ein Gefühl der Verspieltheit, das über den Rahmen bloßer Ambient-Musik hinausgeht. Es hat die Kraft, den Hörer dazu zu bringen, sich eine Geschichte vorzustellen und gleichzeitig die Form des Klangs zu verändern.
+Es entsteht ein Gefühl der Verspieltheit, das über den Rahmen bloßer Ambient-Musik hinausgeht. Es hat die Kraft, den Zuhörer dazu zu bringen, sich eine Geschichte vorzustellen und gleichzeitig die Form des Klangs zu verändern.
 
 ### „Der Junge und der Baum“ (2003)
 Es hat eine Atmosphäre, die sich anfühlt, als wäre es in einem Wald aufgenommen worden, und einen Rhythmus, der einen an den Herzschlag des Lebens denken lässt.
@@ -85,7 +85,7 @@ Die Songs konzentrieren sich auf Drohnen, Umgebungsgeräusche und harmonische St
 Für Yokota könnte man sagen, dass dieser Name ein „Kanal ist, der das Unbewusste und das Universum verbindet“.
 Wenn die Musik unter dem Namen Susumu Yokota „irdische Poesie“ ist, ist Anima Mundi „himmlisches Gebet“.
 
-Das 12-Zoll-Lied „Hebula“ ist ein Techno-Song, der einen verträumten, trippigen Sound mit Tribal-Rhythmen und -Elementen kombiniert. Dieser Song zeichnet sich durch komplexe akustische Effekte und vielschichtige Klangtexturen aus und entführt den Hörer in eine andere Welt.
+Das 12-Zoll-Lied „Hebula“ ist ein Techno-Song, der einen verträumten, trippigen Sound mit Tribal-Rhythmen und -Elementen verbindet. Dieser Song zeichnet sich durch komplexe akustische Effekte und vielschichtige Klangtexturen aus und entführt den Hörer in eine andere Welt.
 
 #### Trackliste
 ```md
@@ -129,7 +129,7 @@ Seine Haltung war ein seltenes Beispiel für die Kombination der tänzerischen K
 
 Yokotas Musikphilosophie besteht, einfach ausgedrückt, darin, „im Klang Leben zu finden“.
 Für ihn war Klang nicht nur ein Material, sondern eine lebendige Einheit.
-Deshalb gibt es in seinen Werken keine künstliche Kälte. Obwohl es ein elektronischer Klang ist, hat er ein warmes, pflanzliches Gefühl.
+Deshalb gibt es in seinen Werken keine künstliche Kälte. Obwohl es sich um einen elektronischen Klang handelt, hat er ein warmes, pflanzliches Gefühl.
 
 Seine Musik ist auch eine poetische Auseinandersetzung mit der Zeit.
 Die Zeit fühlt sich nicht so an, als würde sie „fließen“, sondern eher „wiegen“.
@@ -169,5 +169,5 @@ Susumu Yokotas Musik wird nicht durch auffällige Melodien und Beats erzählt, s
 In dieser Stille wohnen der Lärm der Stadt, der Atem der Natur und die menschliche Erinnerung.
 Die Musik, die er hinterlassen hat, ist nicht nur eine Sammlung von Werken, sondern ein Spiegel, der das innere Selbst des Zuhörers widerspiegelt.
 
-Auch wenn der Ton verstummt, bleibt etwas in deinem Herzen.
+Selbst nachdem der Ton verstummt ist, bleibt etwas in meinem Herzen.
 Das ist der großartigste „Sound“, den der Musiker Susumu Yokota der Welt hinterlassen hat.

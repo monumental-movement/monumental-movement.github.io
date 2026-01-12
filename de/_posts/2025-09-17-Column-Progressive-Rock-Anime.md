@@ -18,7 +18,7 @@ title: '[Kolumne] Progressive Rock und Anime: Eine epische, sich überschneidend
 
 Text: mmr｜Thema: Progressive Rock, der eine hohe Affinität zu Anime hat
 
-Wenn wir über die Beziehung zwischen Anime und Musik sprechen, fallen uns direkt miteinander verbundene Genres wie J-POP, Idol-Songs, Eurobeat und Electronica ein. Wenn Sie jedoch etwas tiefer graben, werden Sie feststellen, dass es eine überraschend starke Affinität zum **Progressive Rock** hat. Oberflächlich betrachtet scheint es weit von „Anime-Songs“ entfernt zu sein, aber seine lange Struktur, seine schwierigen Rhythmen und seine konzeptalbumartige Erzählweise stimmen tatsächlich in vielerlei Hinsicht mit den Eigenschaften des Anime-Mediums überein.
+Wenn wir über die Beziehung zwischen Anime und Musik sprechen, fallen uns direkt miteinander verbundene Genres wie J-Pop, Idol-Songs, Eurobeat und Electronica ein. Wenn Sie jedoch etwas tiefer graben, werden Sie feststellen, dass es eine überraschend starke Affinität zum **Progressive Rock** hat. Oberflächlich betrachtet scheint es weit von „Anime-Songs“ entfernt zu sein, aber seine lange Struktur, seine schwierigen Rhythmen und seine konzeptalbumartige Erzählweise stimmen tatsächlich in vielerlei Hinsicht mit den Eigenschaften des Anime-Mediums überein.
 
 ---
 
@@ -139,7 +139,7 @@ Die Affinität zwischen Anime und Progressive Rock ist nicht nur eine Kombinatio
 ### ■ Fazit
 Progressive Rock wurde im kommerziellen Anime nie zum „Mainstream“. Seine lange Komposition, sein schwieriger Rhythmus und seine konzeptionelle Natur weisen jedoch eine hohe Affinität zur Taiga-ähnlichen Entwicklung von Anime-Werken auf, die sich auf Science-Fiction und Fantasy konzentrieren.
 
-Beispiele wie Neon Genesis Evangelion, die Progressive-Rock-Techniken direkt integrieren, sind nur die Spitze des Eisbergs. Auch in Zukunft wird die Illusion „Was wäre, wenn Anime durch Progressive Rock erzählt würde“ weiterhin neue Überschneidungen zwischen Musik und Video aufzeigen.
+Beispiele wie Neon Genesis Evangelion, die Progressive-Rock-Techniken direkt integrieren, sind nur die Spitze des Eisbergs. Auch in Zukunft wird die Illusion „Was wäre, wenn Anime durch Progressive Rock erzählt würde“ weiterhin neue Schnittstellen zwischen Musik und Video aufzeigen.
 
 
 ---

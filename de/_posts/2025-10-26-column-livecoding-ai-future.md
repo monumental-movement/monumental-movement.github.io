@@ -46,7 +46,7 @@ color: #fff;
 ## Kapitel 1: Geburt einer Kultur des „Spielens“ von Akkorden
 
 Die Ursprünge des Live Coding liegen in der **Algorithmischen Komposition**.
-Zu den frühesten Beispielen zählen automatische Kompositionsexperimente von Lejaren Hiller und Iannis Xenakis in den 1950er Jahren.
+Zu den frühesten Beispielen gehören automatische Kompositionsexperimente von Lejaren Hiller und Iannis Xenakis in den 1950er Jahren.
 Live Coding hat dies ins 21. Jahrhundert getragen und Körperlichkeit und Echtzeitfunktionalität zurückgebracht.
 
 Im Jahr 2004 wurde die Community „TOPLAP“ von Alex McLean und Nick Collins vorgeschlagen.
@@ -96,7 +96,7 @@ Die Beziehung zwischen den beiden ist nicht eine von „Dominanz und Unterordnun
 | **Gezeitenzyklen** | Alex McLean | Haskell-basierte Live-Coding-Umgebung, spezialisiert auf Musterbeschreibung | Echtzeit-Codegenerierung mit ChatGPT-Integration möglich |
 | **SuperCollider** | James McCartney | Eine seit langem etablierte Umgebung für Klangsynthese und algorithmische Komposition | Die Steuerung der Klangparameter mithilfe von KI-Modellen ist in Arbeit |
 | **Sonic Pi** | Sam Aaron | Ruby-basiert mit Blick auf Bildung und Leistung | KI-gestützte Codebeispiele für den Einsatz im Bildungsbereich |
-| **Riffusion** | Seth Forsgren et al. | Diffusionsmodell, das Spektrogramme erzeugt | KI selbst erzeugt direkt Klang |
+| **Riffusion** | Seth Forsgren et al. | Diffusionsmodell, das Spektrogramme generiert | KI selbst erzeugt direkt Klang |
 | **Ozelot / Hydra** | Live-Coding-Umgebung, die generiertes Video + Ton integriert | KI-Synchronisation von Bild und Ton ist möglich |
 
 ---
@@ -188,10 +188,10 @@ flowchart TD
 
 ---
 
-## Fazit: Eine neue Demokratisierung der Schöpfung
+## Fazit: Eine neue Demokratisierung der Kreativität
 
 Live Coding erfolgt durch „improvisatorischen Ausdruck durch Akkorde“.
-Er machte Musik für einen Akt zugänglich, den jeder erschaffen konnte.
+Er machte Musik zu einem Akt, den jeder erschaffen konnte.
 KI wird die Demokratisierung weiter vorantreiben,
 Wir versuchen, eine **Kultur des Teilens der „Intelligenz der Leistung“** zu schaffen.
 

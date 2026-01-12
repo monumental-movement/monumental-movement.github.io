@@ -14,7 +14,7 @@ title: Glaubitz & Roc – Sunshine Day 프랑스 리믹스
 ---
 
 
-독일의 Electro/Tech-House/Minimal DJ이자 프로듀서인 Carsten Glaubitz와 Electro/Tech-House/Minimal 프로듀서 Oliver Rockstedt(Chris Powell)의 "Sunshine Day"의 프랑스 리믹스입니다.
+독일의 Electro/Tech-House/Minimal DJ이자 프로듀서인 Carsten Glaubitz와 Electro/Tech-House/Minimal 프로듀서 Oliver Rockstedt(Chris Powell)의 "Sunshine Day"를 프랑스어로 리믹스한 곡입니다.
 
 1999년 프랑스 & 필터 하우스 레이블 Full House에서 발매되었습니다.
 

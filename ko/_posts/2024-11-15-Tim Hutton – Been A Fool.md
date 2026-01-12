@@ -10,7 +10,7 @@ tags:
 - House
 - Future Jazz
 - 00s
-title: 팀 허튼 - 바보였어
+title: 팀 허튼 – 바보였어
 ---
 
 
@@ -18,7 +18,7 @@ Tim Hutton은 영국의 프로듀서이자 작곡가이자 다양한 악기 연�
 
 "Been A Fool"은 2000년에 발매된 하우스 퓨처 재즈 트랙입니다.
 
-B면의 첫 번째 트랙은 Public Enemy, the Pharcyde, Blackalicious 등의 리믹스를 만든 영국 힙합 그룹 The Nextmen의 리믹스입니다.
+B면의 첫 번째 곡은 Public Enemy, the Pharcyde, Blackalicious 등의 곡을 리믹스한 영국 힙합 그룹 The Nextmen의 리믹스 곡이다.
 
 #### 트랙리스트
 ```md

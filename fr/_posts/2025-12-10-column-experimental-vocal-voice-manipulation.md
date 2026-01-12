@@ -21,7 +21,7 @@ title: '[Chronique] Vocal Expérimental / Manipulation Vocale — Histoire et te
 
 Texte : mmr｜Thème : Des voix expérimentales qui traitent, génèrent et réorganisent la voix en tant que matériau/histoire, techniques, représentants et tendances contemporaines de la manipulation vocale
 
-Au 21ème siècle, la voix chantée est passée du simple fait de transmettre des mélodies à un matériau acoustique modifiable. Avec la disponibilité d’outils tels que la technologie d’enregistrement/édition, les effets, l’échantillonnage, le traitement en temps réel et la technologie de génération, la voix a acquis un rôle diversifié en tant qu’instrument, texture, description spatiale et même ressource de données. Des artistes comme Bjork et Imogen Heap, qui utilisent leur propre voix comme matériau principal pour leurs expériences, et les expressions créées par des avancées technologiques telles que la synthèse granulaire et la resynthèse basée sur l'IA, ont considérablement élargi les possibilités de la voix.
+Au 21e siècle, la voix chantée est passée du simple fait de transmettre des mélodies à un matériau acoustique modifiable. Avec la disponibilité d’outils tels que la technologie d’enregistrement/édition, les effets, l’échantillonnage, le traitement en temps réel et la technologie de génération, la voix a acquis un rôle diversifié en tant qu’instrument, texture, description spatiale et même ressource de données. Des artistes comme Bjork et Imogen Heap, qui utilisent leur propre voix comme matériau principal pour leurs expériences, et les expressions créées par des avancées technologiques telles que la synthèse granulaire et la resynthèse basée sur l'IA, ont considérablement élargi les possibilités de la voix.
 
 ---
 
@@ -47,7 +47,7 @@ Au milieu du 20e siècle, l’enregistrement et la manipulation de bandes ont co
 
 ### 1-2. L’ère de la synthèse et des équipements analogiques
 
-Depuis les années 1970, les vocodeurs et les synthétiseurs analogiques sont devenus populaires, donnant lieu à des croisements entre voix et sons synthétisés. Le vocodeur appliquait l’enveloppe spectrale de la voix à un autre son porteur, permettant ainsi de fusionner la voix humaine avec des sons électroniques. En conséquence, les tonalités robotiques/mécaniques sont devenues largement disponibles.
+Depuis les années 1970, les vocodeurs et les synthétiseurs analogiques sont devenus populaires, donnant lieu à des croisements entre voix et sons synthétisés. Le vocodeur appliquait l'enveloppe spectrale de la voix à un autre son porteur, permettant ainsi de fusionner la voix humaine avec des sons électroniques. En conséquence, les tonalités robotiques/mécaniques sont devenues largement disponibles.
 
 ---
 

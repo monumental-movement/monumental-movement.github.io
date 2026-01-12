@@ -82,9 +82,9 @@ Empfohlene Punkte: Ein Meisterwerk, das den zukunftsorientierten und coolen Soun
 ### Modell 500 – Durchfluss
 <a href="https://jp.mercari.com/item/m38778885235?afid=6142608987"><img src="../assets/images/Model%20500%20%E2%80%93%20The%20Flow.webp"></a>
 
-Features: Minimale Trackstruktur mit einfachen Synthesizerlinien und Rhythmus. Es zeichnet sich durch seine räumliche, schwebende Synthesizerarbeit und seinen kühlen, mechanischen Rhythmus aus.
+Features: Minimale Trackstruktur mit einfachen Synthesizerlinien und Rhythmus. Es zeichnet sich durch seine räumliche, schwebende Synthesizerarbeit und seinen coolen, mechanischen Rhythmus aus.
 
-Empfohlener Punkt: Ein Song, der Sie die Ursprünge des Detroit Techno erleben lässt. Indem Sie es zu Beginn eines DJ-Sets hinzufügen, können Sie ein „Detroit-ähnliches kosmisches Gefühl“ auf dem Boden erzeugen. Auch für Anfänger leicht zu hören, perfekt, um das Weltbild des Model 500 zu verstehen.
+Empfohlener Punkt: Ein Song, der Sie die Ursprünge des Detroit Techno erleben lässt. Wenn Sie es zu Beginn eines DJ-Sets einsetzen, können Sie ein „Detroit-ähnliches kosmisches Gefühl“ auf dem Boden erzeugen. Auch für Anfänger leicht zu hören, perfekt, um das Weltbild des Model 500 zu verstehen.
 
 #### Trackliste
 ```md
@@ -142,7 +142,7 @@ Empfohlene Punkte: Ein Album mit Tiefe und Raffinesse, das den Hörer auf eine e
 <a href="https://jp.mercari.com/item/m73570341601?afid=6142608987"><img src="../assets/images/Ultradyne%20%E2%80%93%20Unknown%20Works.webp"></a>
 
 
-Eigenschaften: Balance zwischen tanzbaren Grooves und abstrakten Experimenten. Trackbeispiele: „Tangible–Theory Proliferation (Ultradyne Remix)“ und „Fantasy Era“.
+Eigenschaften: Balance zwischen tanzbaren Grooves und abstraktem Experimentieren. Trackbeispiele: „Tangible–Theory Proliferation (Ultradyne Remix)“ und „Fantasy Era“.
 
 Empfohlene Punkte: Perfekt für Hörer, die ein exploratives Techno-Erlebnis suchen. Ob auf dem Boden oder über Kopfhörer – der experimentelle Klang wird Sie begeistern.
 
@@ -172,7 +172,7 @@ B2. Ultradyne–War Drum - Live
 
 Eigenschaften: Dunkler, melodiöser, energiegeladener und tanzbarer Rhythmus.
 
-Empfohlene Punkte: Moderner und höchst einzigartiger Klang. Dies ist ein Song, der die Tanzfläche dramatisch belebt, wenn er in einem Late-Night-Club oder in der Hauptsaison gespielt wird.
+Empfohlene Punkte: Moderner und höchst einzigartiger Klang. Dies ist ein Song, der die Tanzfläche dramatisch beleben wird, wenn Sie ihn in einem Late-Night-Club oder zu Spitzenzeiten spielen.
 
 #### Trackliste
 ```md
@@ -227,9 +227,9 @@ B3. Untitled
 ### Jeff Mills – Lebensechte E.P.
 <a href="https://jp.mercari.com/item/m92521663560?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Lifelike%20E.P.webp"></a>
 
-Features: „Condor To Mallorca“ ist ikonisch, da sein Calypso-ähnlicher Rhythmus und die Keyboard-Resonanz ein einzigartiges schwebendes Gefühl erzeugen.
+Features: „Condor To Mallorca“ ist ikonisch, da sein Calypso-ähnlicher Rhythmus und die Tastaturresonanz ein einzigartiges schwebendes Gefühl erzeugen.
 
-Empfohlene Punkte: Mit seiner trippigen und spirituellen Atmosphäre ist es ein „magisches Stück“, das die Atmosphäre sofort verändert, wenn es in ein DJ-Set eingefügt wird.
+Empfohlene Punkte: Mit seiner trippigen und spirituellen Atmosphäre ist dies ein „magisches Stück“, das die Atmosphäre sofort verändert, wenn es in ein DJ-Set eingefügt wird.
 
 #### Trackliste
 ```md

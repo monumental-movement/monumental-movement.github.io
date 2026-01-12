@@ -87,7 +87,7 @@ Tendance du spectrogramme :
 
 Les hautes fréquences (15 kHz ~) sont progressivement atténuées
 
-La plage basse est riche, mais des fluctuations peuvent survenir en raison d'une rotation inégale et d'une pression du stylet.
+La plage basse est riche, mais des fluctuations peuvent survenir en raison d'une rotation inégale et de la pression du stylet.
 
 Bruit (crépitement, sirène) réparti aléatoirement
 
@@ -111,7 +111,7 @@ La plage moyenne-basse est relativement stable
 
 Un sifflement d'environ -50 dB se propage toujours aux hautes fréquences
 
-L'utilisation du Dolby NR réduit certains bruits haute fréquence, mais la rondeur du son demeure.
+L'utilisation du Dolby NR réduit certains bruits hautes fréquences, mais la rondeur du son demeure.
 
 Audition : Légèrement étouffée, avec des hautes fréquences modestes. C'est doux et chaud, mais le bruit est perceptible.
 

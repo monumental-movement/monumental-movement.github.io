@@ -114,7 +114,7 @@ flowchart TB
 
 ### 3-2. Styles régionaux
 
-| Région | Caractéristiques | Artistes principaux |
+| Région | Caractéristiques | Principaux artistes |
 |---------------|-------------------------------|---------------------------------------|
 | Banlieue de Paris | Critique politique et sociale, fort sentiment de rue | NTM, Rohff, La Fouine |
 | Marseille | Influences musicales afro-caribéennes, paroles philosophiques | IAM, juillet, soprano |
@@ -192,7 +192,7 @@ timeline
 
 ---
 
-## 8. Conclusion
+## 8. 結論
 
 Le hip-hop français est bien plus qu’un simple genre musical ; c'est un symbole de la culture urbaine et du mouvement social.
 À partir de NTM et IAM, des styles régionaux ont été établis et, grâce à la commercialisation et à l'internationalisation, se sont développés dans les diverses scènes d'aujourd'hui.

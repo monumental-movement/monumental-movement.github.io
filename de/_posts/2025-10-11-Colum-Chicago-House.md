@@ -48,13 +48,13 @@ color: #fff;
 ### Chicago Club – Lagerhaus und seine Räume
 
 Das Haus in Chicago entwickelte sich rund um den „Warehouse Club“.
-Das 1977 eröffnete Warehouse war eine verlassene städtische Fabrik, die in einen Warehouse-Club umgewandelt wurde, der legendär wurde, als Frankie Knuckles dort als DJ auflegte.
+Das 1977 eröffnete Warehouse war eine verlassene städtische Fabrik, die in einen Warehouse-Club umgewandelt wurde, der legendär wurde, als Frankie Knuckles dort als DJ auftrat.
 
 Der riesige Raum des Lagerhauses, die Höhe der Decke und das Echo des Betons verliehen der Musik eine einzigartige Tiefe und Dynamik. Die Klänge auf dem Boden hallten in den Körpern des Publikums wider und schufen so ein Gemeinschaftserlebnis, das über ein bloßes Musikerlebnis hinausging.
 
 ### Sozialer Hintergrund von Chicago in den 1980er Jahren
 
-Die frühen 1980er Jahre waren für Chicago eine schwierige wirtschaftliche Zeit.
+Die frühen 1980er Jahre waren für Chicago wirtschaftlich schwierige Zeiten.
 
 - Erhöhte Arbeitslosenquote aufgrund des industriellen Niedergangs
 - Gemeindespaltung aufgrund städtebaulicher Sanierung
@@ -121,7 +121,7 @@ Larry Heards selbstproduziertes Can You Feel It ist eine Anekdote, die die Demok
 
 ---
 
-## Kapitel 6: Überraschende Beziehungen
+## Kapitel 6: Unerwartete Beziehungen
 
 Chicago House überschneidet sich mit scheinbar nicht zusammenhängenden Bereichen.
 

@@ -10,7 +10,7 @@ tags:
 - RnB
 - Swing
 - Garage House
-title: K-Ci & JoJo – Don't Rush
+title: K-Ci & JoJo – Don’t Rush
 ---
 
 

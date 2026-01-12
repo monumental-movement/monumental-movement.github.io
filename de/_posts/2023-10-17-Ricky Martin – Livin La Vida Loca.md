@@ -9,7 +9,7 @@ permalink: /de/ricky-martin-livin-la-vida-loca/
 tags:
 - House
 - Pops
-title: Ricky Martin – Livin' La Vida Loca
+title: Ricky Martin – Livin‘ La Vida Loca
 ---
 
 

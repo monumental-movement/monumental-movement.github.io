@@ -23,7 +23,7 @@ Text: mmr｜Thema: Tiefe Beziehung zur New-Age-Ideologie und Gegenkultur
 ### Definition und Merkmale
 
 New-Age-Musik ist ein Musikgenre, das sich in den späten 1970er bis 1980er Jahren vor allem in Europa und Amerika verbreitete und sich auf einen Stil bezieht, der oft im Kontext von Meditation, Entspannung und der spirituellen Welt gehört wird.
-Es hat sich durch eine Mischung aus Ambient-, zeitgenössischer, Folk- und Umweltmusik entwickelt und zeichnet sich durch einen meditativen, nicht aggressiven Sound aus, der Synthesizer und akustische Instrumente voll ausnutzt. Die Melodien sind einfach, oft mit lang gehaltenen Tönen und sich wiederholenden Strukturen, und die Rhythmen werden oft absichtlich weggelassen oder sind sehr langsam.
+Es hat sich durch eine Mischung aus Ambient-, zeitgenössischer, ethnischer und Umweltmusik entwickelt und zeichnet sich durch einen meditativen, nicht aggressiven Sound aus, der Synthesizer und akustische Instrumente voll ausnutzt. Die Melodien sind einfach, oft mit lang gehaltenen Tönen und sich wiederholenden Strukturen, und die Rhythmen werden oft absichtlich weggelassen oder sind sehr langsam.
 
 Aus diesem Grund spielte sie eine Rolle als „heilende Musik“ und wurde mit spirituellen Lebensstilen und Zurück-zur-Natur-Bewegungen in Verbindung gebracht.
 

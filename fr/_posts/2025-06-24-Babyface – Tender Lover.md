@@ -11,13 +11,13 @@ tags:
 - Soul
 - RnB
 - 80s
-title: Babyface – Amant tendre
+title: Babyface – Tender Lover
 ---
 
 
-"Tender Lover" est le deuxième album studio de l'auteur-compositeur-interprète R&B américain Babyface, sorti en 1989 par le label SOLAR (Sound of Los Angeles Records).
+「Tender Lover」は、1989年にレーベルSOLAR（Sound of Los Angeles Records）からリリースされた、アメリカのR&BシンガーソングライターBabyfaceのセカンドスタジオアルバム。
 
-Cet album, qui comprenait les chansons à succès de Babyface « It's No Crime », « Tender Lover » et « Whip Appeal », était l'album R&B monumental de Babyface et a remporté de nombreux prix, dont une nomination aux Grammy Awards et le Soul Train Music Award du meilleur album R&B/Soul.
+Babyfaceのヒット曲「It's No Crime」「Tender Lover」、「Whip Appeal」などが収録されたこのアルバムは、Babyfaceの金字塔的R&Bアルバムであり、グラミー賞のノミネートやSoul Train Music Award for Best R&B/Soul Album受賞など、数多くの賞を受賞した。
 
 #### Liste des chansons
 ```md

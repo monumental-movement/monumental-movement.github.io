@@ -47,7 +47,7 @@ B. The Flirting Kind
 <br>
 
 
-### 버글 – 플라스틱의 시대
+### Buggles - 플라스틱 시대
 <a href="https://jp.mercari.com/item/m56132888760?afid=6142608987"><img src="../assets/images/Buggles%20%E2%80%93%20The%20Age%20Of%20Plastic.webp"></a>
 
 발매: 2025년 5월 1일 게시. The Buggles(Trevor Horn과 Geoff Downes로 구성된 영국 뉴 웨이브 유닛)의 데뷔 앨범.
@@ -172,7 +172,7 @@ B1. I Can't Crack (Broken Mix)
 ### Devo – 새로운 전통주의자
 <a href="https://jp.mercari.com/item/m80101540352?afid=6142608987"><img src="../assets/images/Devo%20%E2%80%93%20New%20Traditionalists.webp"></a>
 
-발매: 2024년 5월 18일 게시. 미국 뉴 웨이브의 대표주자 Devo의 네 번째 자체 프로듀싱 앨범(1981).
+발매: 2024년 5월 18일 게시. 미국 뉴 웨이브를 대표하는 Devo의 네 번째 자체 프로듀싱 앨범(1981).
 
 
 추천 포인트 : 미니멀하고 쿨한 신스 라인과 일렉트로닉 퍼커션, '디볼루션'이라는 테마가 어우러진 혁신적인 앨범. '쿨하게 지내면서' 등 대표곡이 수록되어 있다.

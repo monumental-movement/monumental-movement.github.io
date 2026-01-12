@@ -9,11 +9,11 @@ permalink: /ko/lani-our-way-to-the-sun-ep/
 tags:
 - Trance
 - Psychedelic
-title: 라니 – 태양을 향한 길 EP
+title: Lani – Our Way To The Sun EP
 ---
 
 
-"Our Way To The Sun EP"는 Tim Kaelen과 Tom Moons의 유닛 "Lani"의 EP로, 2003년 벨기에 레이블 "Kairoo Records"에서 발매되었습니다.
+「Our Way To The Sun EP」は、2003年にベルギーのレーベル「Kairoo Records」からリリースされたTim KaelenとTom Moonsによるユニット「Lani」のEPです。
 
 #### 트랙리스트
 ```md

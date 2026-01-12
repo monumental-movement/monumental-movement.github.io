@@ -71,7 +71,7 @@ Burning Man attire depuis longtemps les célébrités – entrepreneurs, artiste
 
 ### Anecdote/Légende
 
-Lorsqu'il a été déplacé en 1990, l'interdiction par la police de brûler les plages a constitué un tournant et la décision a été prise de déménager dans le désert.
+Lorsqu'il a été déplacé en 1990, l'interdiction par la police de brûler les plages a constitué un tournant et la décision a été prise de s'installer dans le désert.
 Homme brûlant
 
 Une histoire intéressante selon laquelle les racines de "Google Doodle" sont liées à l'annonce de vacances du fondateur à Burning Man (le carrefour de la culture d'entreprise et des festivals).
@@ -90,7 +90,7 @@ Depuis les années 2000, les « véhicules mutants » géants et les sculpture
 ### Livres connexes
 
 
-| Année | Magazines/Médias | Notes/Relation | Lien |
+| Année | Magazines/Média | Notes/Relation | Lien |
 | ---- : | -------------------------------- | -------------------- | ----------------- |
 |    書籍 | *Burning Man: Art on Fire*（写真集） | 祭りのアートを網羅する定番書  | [Amazon](https://amzn.to/3VFwNge)  |
 |    書籍 | *Once Upon a Time in the Dust*（Roxane Jessi） | グローバルなBurning文化に迫る紀行      |  [Amazon](https://amzn.to/4nv3MQw)              |
@@ -169,7 +169,7 @@ Inferno en 1995 a été une année importante dans la mesure où elle a fait pre
 
 #### 1996 : Démarchandisation
 
-1996 a été l'année où Burning Man a accéléré sa transformation d'un « festival » à une ville expérimentale communautaire.
+1996 a été l’année où Burning Man a accéléré sa transformation d’un « festival » en une ville expérimentale communautaire.
 
 Les valeurs qui « trouvent de la valeur dans l'expérience elle-même » ont imprégné les participants et ont soutenu la formation ultérieure d'œuvres d'art à grande échelle et de villes thématiques.
 
@@ -179,7 +179,7 @@ Les valeurs qui « trouvent de la valeur dans l'expérience elle-même » ont im
 
 #### 1997 : Fécondité
 
-1997 a été l'année où le symbolisme de la nature, de la vie et de la renaissance de Burning Man est devenu pour la première fois le thème central.
+1997 est l'année où le symbolisme de la nature, de la vie et de la renaissance de Burning Man est devenu pour la première fois le thème central.
 
 Le prototype de la « célébration de la vie et de la créativité » dont ont hérité les thèmes ultérieurs (Voûte céleste 2004, Fertilité 2.0 2012, etc.).
 
@@ -187,7 +187,7 @@ Le prototype de la « célébration de la vie et de la créativité » dont ont 
 
 ---
 
-#### 1998 : Entité nébuleuse
+#### 1998 : Entité nébuleuse
 
 Un thème qui explore l'existence mystérieuse et l'ambiguïté de l'univers et de la conscience. Les œuvres interactives utilisant la lévitation ou la lumière participative se sont démarquées.
 
@@ -309,7 +309,7 @@ Un réexamen et une mise à jour de "Fertilité" de 1997. Le thème est la créa
 
 En utilisant le culte du cargo (le fossé entre la culture matérielle et la foi) comme motif, nous réexaminons la société de consommation moderne, la distribution des marchandises et la ritualisation.
 
-De nombreux camps et structures expriment le fossé entre la « matière vénérée » et « l’économie du don ».
+De nombreux camps et structures expriment le fossé entre « la matière vénérée » et « l’économie du don ».
 
 ---
 

@@ -71,7 +71,7 @@ color: #fff;
 ### 혼다
 
 - **대표모델** : Accord (ELS Studio 14 스피커)
-- **기술**: 음악가가 감수한 자연스러운 사운드 재현
+- **기술**: 음악가가 감수한 자연스러운 사운드 재생
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I_OMh104IWw?si=TI7U_7JShGuRlnFe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -217,7 +217,7 @@ color: #fff;
 
 ### 벤틀리
 
-- **대표모델**: 벤테이가, 컨티넨탈 GT (벤틀리 20스피커용 네임, 1,960W)
+- **대표모델** : 벤테이가, 컨티넨탈 GT (벤틀리 20스피커용 네임, 1,960W)
 - **기술**: 속도와 환경에 따라 자동으로 음질을 보정합니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TK_AtrJVwIs?si=RXNnhkf3O6NhKWI3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

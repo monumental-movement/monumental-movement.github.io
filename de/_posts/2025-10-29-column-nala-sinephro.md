@@ -20,7 +20,7 @@ title: '[Kolumne] Nala Sinephro – Klangatmung und kosmische Stille: Der aktuel
 
 Text: mmr｜Thema: Beim Jazz geht es nicht um Technik oder Genreerweiterung, sondern um die grundlegende Frage, was Klang dem Menschen bringen kann.
 
-Wenn wir zum ersten Mal mit der Musik von Nala Sinephro in Berührung kommen, sind wir gezwungen, das Konzept eines „Liedes“ loszulassen.
+Wenn wir Nala Sinephros Musik zum ersten Mal hören, sind wir gezwungen, das Konzept eines „Liedes“ aufzugeben.
 Sein Debütalbum Space 1.8, das 2021 bei Warp Records erschien, war ein Werk, das die Grenzen zwischen Jazz und Ambient, modularer Synthese und Improvisation verschmolz, als ob es atmen würde.
 
 Harfe, Tenorsaxophon, modularer Synthesizer und der Raum selbst.
@@ -55,7 +55,7 @@ Er hat eine einzigartige Klangsprache geschaffen, die sich frei zwischen Harfe u
 > „Klang ist für mich wie Partikel in der Luft.“
 > ― Nala Sinephro
 
-Wie sie sagt, ist der Klang als „Körner“ geschichtet und bricht die Zeit wie Licht.
+Wie sie sagt, besteht der Klang aus Schichten von „Partikeln“ und bricht die Zeit wie Licht.
 
 ---
 
@@ -83,7 +83,7 @@ Dies ist ein Fluss, der das von Brian Eno vorgeschlagene Konzept der „Umweltmu
 Nala Sinephros Musik steht im Geiste von Harold Budd, Alice Coltrane und Laraaji.
 Es ist der „kontemplative Modernismus“, der in der Post-Club-Ära des 21. Jahrhunderts neu definiert wurde.
 
-Ihre Harfe und ihre Synthesizer verbreiten „jazzartige Improvisationen“ im Raum und fügen Klangebenen hinzu.
+Ihre Harfe und ihre Synthesizer verbreiten „jazzartige Improvisationen“ im Raum, indem sie Klangebenen hinzufügen.
 Der Rhythmus verschwindet, die Melodie driftet und alles, was bleibt, ist das **Gefühl von Zeit und Raum**.
 
 
@@ -104,7 +104,7 @@ Wie dieses Diagramm zeigt, ist Ambient Jazz eine Bewegung, die gleichzeitig das 
 ## Kapitel 4: Modulare Synthesizer und der „Hörkörper“
 
 Bei Live-Auftritten bedient Nala gleichzeitig mit der Harfe das **Eurorack-Modulsystem**.
-Hier ist das Patchen selbst eine improvisatorische Performance, die den Körper und den Raum des Zuhörers verändert.
+Hier ist das Patchen selbst eine improvisatorische Performance, die den Körper und Raum des Zuhörers verändert.
 
 > Beispiel einer Gerätekonfiguration:
 > - Machen Sie Lärm-Mathematik
@@ -114,8 +114,8 @@ Hier ist das Patchen selbst eine improvisatorische Performance, die den Körper 
 > - Ableton Live (zur Loop-Verarbeitung)
 
 Diese Konfiguration ist wirklich ein „Atemgerät für Mensch und Maschine“.
-Wellenformen umhüllen die Echos der Harfe, die analoge Temperatur neutralisiert die elektronische Klarheit.
-Es ist auch ein Akt der Sublimierung von Musik in ein **Technologiegebet**.
+Wellenformen umhüllen die Echos der Harfe, analoge Temperaturen neutralisieren die elektronische Transparenz.
+Es ist auch ein Akt der Sublimierung von Musik zu einem **Technologiegebet**.
 
 ---
 
@@ -125,9 +125,9 @@ Nach der Pandemie, als die Welt von Lärm und Angst umgeben war,
 Musik wie Nala erschien nicht als „Heilung“, sondern als eine Form des Widerstands.
 
 „Stille“ ist nicht nur Ruhe.
-Es ist auch eine Politik der Selbstfürsorge, bei der man angesichts der Hektik der Welt seinen eigenen Rhythmus wiederfindet.
+Es ist auch die Politik der Selbstfürsorge, in der man seinen eigenen Rhythmus gegen die Hektik der Welt wiederfindet.
 
-Ihre Musik zu hören ist ein Akt, in sich selbst zurückzukehren.
+Das Hören ihrer Musik ist ein Akt der Rückkehr zu sich selbst.
 Gleichzeitig ist es aber auch ein Zeichen der Langsamkeit als Reaktion auf die Geschwindigkeit der Gesellschaft.
 
 ---
@@ -139,9 +139,9 @@ Gleichzeitig ist es aber auch ein Zeichen der Langsamkeit als Reaktion auf die G
 | 1998 | Geboren als Belgier mit St.-Lucian-Abstammung |
 | 2015 | Übersiedelte nach London und begann in der Jazzszene zu arbeiten |
 | 2018 | Treten Sie dem Total Refreshment Center bei und beginnen Sie mit Improvisationssitzungen |
-| 2021 | „Space 1.8“ von Warp Records veröffentlicht |
-| 2022 | International anerkannt von Gilles Peterson und anderen |
-| 2024 | Start neuer Produktion/modulares Live-Projekt |
+| 2021 | „Space 1.8“ veröffentlicht von Warp Records |
+| 2022 | Internationale Anerkennung durch Gilles Peterson und andere |
+| 2024 | Neue Produktion/modulares Live-Projekt gestartet |
 
 ---
 
@@ -173,6 +173,6 @@ Nala Sinephros Musik wirft die Frage erneut auf: „Was ist Jazz?“
 Hierbei handelt es sich nicht um eine Erweiterung einer Technik oder eines Genres, sondern vielmehr um eine grundlegende Frage dessen, was Klang dem Menschen bringen kann.
 
 Im Mittelpunkt des Ambient-Jazz steht die Hoffnung, dass „Musikhören“ wieder zu „einem Akt der Verbindung mit der Welt“ werden kann.
-Jeder Ton von Nalas Harfe ist so leise wie der Atem des Universums, aber er ist auf jeden Fall lebendig.
+Jeder Ton, den Nalas Harfe ausstößt, ist so leise wie der Atem des Universums, aber er ist auf jeden Fall lebendig.
 
 ---

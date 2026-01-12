@@ -127,7 +127,7 @@ Was er etablierte, war die Ästhetik des „Grooves auf Japanisch“.
 ---
 
 Hironori Ito von der Tatsuro Yamashita Band, Tsugutoshi Goto, Akira Okazawa──
-Sie haben einen Sound geschaffen, der die Welt zwischen populären Liedern und AOR verbindet.
+Sie haben einen Weltklasse-Sound zwischen populären Songs und AOR geschaffen.
 Die Bassgitarre spielte hinter den Kulissen keine Rolle mehr, sondern wurde zu einem Element, das die „Würde“ der Musik unterstützte.
 
 ---

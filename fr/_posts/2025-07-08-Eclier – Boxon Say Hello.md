@@ -16,7 +16,7 @@ title: Eclier – Boxon dit bonjour
 
 Eclier, d'origine sibérienne découvert par le directeur de Boxon Records Julien Minet (alias DCFTD, DJ Cat) via SNS, est un artiste connu pour son style électro français.
 
-B2 est un remix de Tom Deluxx, DJ et producteur français également actif dans le groupe Just A Band avec Romain Grenier.
+B2 est un remix de Tom Deluxx, DJ et producteur français également actif dans l'unité Just A Band avec Romain Grenier.
 
 "Boxon Say Hello" est un morceau Electro, Tech House sorti par Boxon Records en 2008.
 

@@ -105,7 +105,7 @@ Ein 234-minütiges Meisterwerk mit 4 CDs. Man kann sagen, dass es der Höhepunkt
 - Disc 3: Stille und Drohne
 - Disc 4: Long Ambient
 
-Dies ist das Werk, in dem Pan Sonics „Zeit“ und „Struktur“ am deutlichsten demonstriert werden.
+Dies ist das Werk, das Pan Sonics „Zeit“ und „Struktur“ am deutlichsten demonstriert.
 
 ## 3-5. *Gravitoni* (2010)
 Ein spätes Meisterwerk mit einer tieferen elektronischen Textur und minimalistischer Struktur. Dies ist im Wesentlichen das letzte Werk vor der Pause, und es übt einen schwerkraftähnlichen Druck aus.
@@ -131,7 +131,7 @@ Während des Live-Auftritts konzentrierte er sich auf seine Hände, während er 
 Der Einfluss von Pan Sonic geht über ein bestimmtes Genre hinaus.
 
 ### 5-1. Minimaler Techno
-Die Berliner Minimalisten (Basic Channel, Thomas Brinkmann usw.) fanden Resonanz in der Klangstruktur von Pan Sonic.
+Berlins Minimalisten (Basic Channel, Thomas Brinkmann usw.) fanden Resonanz in der Klangstruktur von Pan Sonic.
 Seine **Reinheit der Wiederholung** markierte einen neuen Weg für die Clubmusik.
 
 ### 5-2. Experimentell/Lärm
@@ -145,7 +145,7 @@ Mika Vainio hat zahlreiche Werke unter dem Solonamen Ø (Zero) veröffentlicht. 
 
 ---
 
-# 6. Aussetzung und Ende der Aktivitäten und was zurückbleibt
+# 6. Aussetzung und Ende der Aktivitäten, was zurückbleibt
 
 Um 2010 legte Pan Sonic eine Pause ein und Mika Vainio verstarb 2017.
 Damit endeten die Aktivitäten von Pan Sonic, doch die verbleibenden Werke beeinflussen weiterhin elektronische Musiker auf der ganzen Welt.

@@ -65,7 +65,7 @@ La « libération des sons non instrumentaux » démontrée par Eddie Prévost e
 
 ### 2-3. Origine ③ : bruit des années 1980-1990/son électronique alternatif
 Le bruit japonais (Merzbow, Incapacitants, etc.) a exposé la « matérialité du son » à travers la recherche ultime des matériaux acoustiques.
-De leur côté, Otomo Yoshihide et Sachiko M ont improvisé des sons électroniques minimaux et sophistiqués (ondes sinusoïdales) et ont posé les bases de l'EAI : « réduire le nombre de sons » et « mettre l'accent sur l'espace ».
+De leur côté, Otomo Yoshihide et Sachiko M ont introduit des sons électroniques minimaux et sophistiqués (ondes sinusoïdales) dans leurs improvisations, créant ainsi les fondements de l'EAI : « réduire le nombre de sons » et « mettre l'accent sur l'espace ».
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-N2JpUSOGQw?si=2iITe93bkSmd8sOW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -131,7 +131,7 @@ Un accent particulier a été mis sur « l'espace blanc » et « le traitement d
 AMM, actif depuis les années 1960, est l'un des groupes les plus anciens à intégrer des équipements électroniques dans leurs performances.
 La « guitare horizontale » de Keith Rowe est devenue le prototype de l'utilisation ultérieure par EAI du bruit radio et des microphones de contact.
 
-EAI hérite de l'esthétique d'AMM : « la nature sociale de la performance », « l'utilisation du silence » et « le respect de la contingence du son ».
+EAI hérite de l'esthétique d'AMM : « la nature sociale de la performance », « l'utilisation du silence » et le « respect de la contingence du son ».
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u-T8rmnHtbg?si=Lg5jvSyXo2LDfG8h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

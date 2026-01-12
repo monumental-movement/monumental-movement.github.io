@@ -13,7 +13,7 @@ title: Dolly Dots – Amerikanischer Traum
 ---
 
 
-Dolly Dots war eine niederländische Girlgroup, die von Ende der 1970er bis Ende der 1980er Jahre aktiv war. Es war nicht nur in den Niederlanden erfolgreich, sondern auch in Belgien, Japan und der Türkei.
+Dolly Dots war eine niederländische Girlgroup, die von Ende der 1970er bis Ende der 1980er Jahre aktiv war. Es war nicht nur in den Niederlanden, sondern auch in Belgien, Japan und der Türkei erfolgreich.
 
 #### Trackliste
 ```md

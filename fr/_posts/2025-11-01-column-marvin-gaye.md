@@ -11,7 +11,7 @@ tags:
 - 60s
 - 70s
 - 80s
-title: '[Chronique] Marvin Gaye : Entre amour et douleur – Le salut et la destruction
+title: '[Chronique] Marvin Gaye : Entre amour et douleur - Le salut et la destruction
   vus par le Dieu des âmes'
 ---
 
@@ -89,12 +89,12 @@ Les expériences de cette période constituent le contexte qui mène au tournant
 ## Chapitre 3 : Points tournants – De « What’s Going On » à « Here, My Dear » (1970-1976)
 
 ### « What’s Going On » (1971) : Accusation musicale et transformation
-Le 21 mai 1971, sort l’album « What’s Going On ». En se concentrant sur des problèmes sociaux tels que la guerre du Vietnam, la pauvreté et la destruction de l'environnement, il s'est imposé comme quelqu'un qui non seulement chante mais parle aussi. Il s’agissait d’un événement révolutionnaire au sein de « l’usine à succès » qu’était la Motown.
+Le 21 mai 1971 sort l’album « What’s Going On ». En se concentrant sur des problèmes sociaux tels que la guerre du Vietnam, la pauvreté et la destruction de l'environnement, il s'est imposé comme quelqu'un qui non seulement chante mais parle aussi. Il s’agissait d’un événement révolutionnaire au sein de « l’usine à succès » qu’était la Motown.
 
 Avec cet album, il a participé lui-même à l'écriture, à la composition et à la production de l'album, montrant ainsi son indépendance en tant qu'artiste.
 
 ### « Let's Get It On » (1973) et l'exploration de la sexualité
-Dans « Let's Get It On » de 1973, elle approfondit le thème de l'amour et du désir, démontrant son « sex-appeal » en tant que chanteuse soul. Il y a un net glissement de l'ancienne « accusation sociale » vers la « passion intérieure ».
+Dans « Let's Get It On » de 1973, elle approfondit le thème de l'amour/désir, démontrant son « sex-appeal » en tant que chanteuse soul. Il y a un net glissement de l'ancienne « accusation sociale » vers la « passion intérieure ».
 Durant cette période, Gaye a connu la joie de la création, ainsi que l'échec amoureux et la pression financière dans sa vie personnelle, et ces fluctuations jettent une ombre sur son œuvre.
 
 ### « Here, My Dear » (1976) – Etablissement comme album confessionnel
@@ -144,7 +144,7 @@ De plus, l'utilisation du Roland TR-808 sur « Midnight Love » a également m
 
 ### Destin personnel étrange
 La vie de Gay est remplie du sort « curieux » de la violence domestique durant son enfance, des ruptures amoureuses, des problèmes financiers et de drogue, et du fait d'être abattu par son père. Cette tendance dépasse le cadre d'une simple « étoile tragique » et révèle l'image humaine d'un homme dont « le talent et la souffrance » s'entremêlent.
-De plus, lorsqu'on y réfléchit sous l'angle du « et si », de nombreuses hypothèses viennent à l'esprit : et s'il avait rompu sa relation avec son père, et s'il n'avait pas été complètement piégé dans le système Motown, et s'il avait continué à vivre. Ils témoignent d'une « vie étrange » où le hasard et la nécessité s'entremêlent.
+De plus, lorsqu'on y réfléchit sous l'angle du « et si », de nombreuses hypothèses viennent à l'esprit : et s'il avait rompu sa relation avec son père, et s'il n'était pas complètement piégé dans le système Motown, et s'il avait continué à vivre. Ils témoignent d'une « vie étrange » où le hasard et la nécessité s'entremêlent.
 
 ### Réévaluation et expansion de l'expression à l'époque moderne
 Même après la mort de Gaye, sa musique a été remasterisée, redécouverte, échantillonnée et continue aujourd'hui d'influencer les nouvelles générations. Par exemple, la découverte de sources sonores de démonstration inédites a également été signalée.

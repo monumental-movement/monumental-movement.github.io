@@ -16,7 +16,7 @@ title: '[Chronique] Illusions tropicales — le monde des psychédéliques brés
 
 ## Prologue : L'aube des psychédéliques brésiliens
 
-Texte : mmr | Thème : Retracer la généalogie de la musique psychédélique née au Brésil, du mouvement Tropicália au revival moderne
+Texte : mmr | Thème : Retracer la généalogie de la musique psychédélique née au Brésil, du mouvement Tropicália au renouveau moderne
 
 À la fin des années 1960, tensions politiques et expérimentations culturelles cohabitent étrangement à Rio de Janeiro et à São Paulo. Alors que la parole était de plus en plus contrôlée sous le régime militaire, les jeunes s'inspiraient du rock britannique et américain et recherchaient une nouvelle liberté sonore. À l’avant-garde de ce mouvement se trouvait le mouvement Tropicália.
 
@@ -71,7 +71,7 @@ Une autre innovation importante était la fusion d'instruments ethniques et de s
 
 ## Chapitre 3 : La fièvre souterraine – l'intersection de l'oppression et de la création
 
-Dans les années 1970, de nombreuses personnalités centrales de Tropicália ont été exilées. Cependant, le feu de la musique est devenu underground et était bien vivant sur la scène locale. Les groupes étudiants de São Paulo et la radio locale de Bahia ont continué à partager leurs sons via des réseaux de cassettes.
+Dans les années 1970, de nombreuses personnalités centrales de Tropicália furent exilées. Cependant, le feu de la musique est devenu underground et était bien vivant sur la scène locale. Les groupes étudiants de São Paulo et la radio locale de Bahia ont continué à partager leurs sons via des réseaux de cassettes.
 
 D'autre part, le **Clube da Esquina**, basé dans l'état de Minas Gerais, apparaît. Clube da Esquina, l'album de 1972 de Milton Nascimento et Lo Borges, est un chef-d'œuvre qui fusionne les frontières entre psychédélique, folk et MPB, et incarne le « voyage tranquille ».
 
@@ -91,7 +91,7 @@ Au XXIe siècle, les jeunes groupes brésiliens ont retrouvé leur « illusion t
 
 ## Chapitre 5 : Revue en direct — Expérience de transe tropicale
 
-Le spectacle des Boogarins au Cine Joia de São Paulo en 2018 a été le moment où le fantôme de Tropicália a ressuscité.
+Le spectacle live des Boogarins au Cine Joia de São Paulo en 2018 a été le moment où le fantôme de Tropicália a repris vie.
 Derrière la scène se trouvent des images animées de plantes tropicales, un éclairage qui vous donne une sensation d'humidité et un bourdonnement de guitare sans fin. Plutôt que de danser, le public **« flottait »**, immergé dans le son.
 
 Le rappel de "Lucifernandis" a créé un son chaotique qui ressemblait à la seconde venue d'Os Mutantes, et les acclamations du public ont secoué l'air.

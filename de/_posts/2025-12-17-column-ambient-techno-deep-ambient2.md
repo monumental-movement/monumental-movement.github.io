@@ -19,7 +19,7 @@ title: '[Spalte] Ambient Techno / Deep Ambient 2'
 
 Text: mmr｜Thema: Über „Tiefseeakustik“, die den Akt des Musikhörens neu definiert
 
-Wir behandeln Ambient Techno/Deep Ambient nicht als „akustisches Genre“, sondern als eine „Praxis, die den Akt des Zuhörens selbst neu gestaltet“. Während wir die im ersten Teil behandelte Entstehungsgeschichte, Klangtechnologie und Kontraststruktur annehmen, verlagern wir hier unseren Fokus auf die Produktionsumgebung, die Hörumgebung, die Wiedergabemedien und die Art und Weise, wie Zeit genutzt wird.
+Wir behandeln Ambient Techno/Deep Ambient nicht als „akustisches Genre“, sondern als eine „Praxis, die den Akt des Hörens selbst neu gestaltet“. Während wir die im ersten Teil behandelte Entstehungsgeschichte, Klangtechnologie und Kontraststruktur annehmen, verlagern wir hier unseren Fokus auf die Produktionsumgebung, die Hörumgebung, die Wiedergabemedien und die Art und Weise, wie Zeit genutzt wird.
 
 ---
 
@@ -37,7 +37,7 @@ color: #fff;
 </style>
 
 
-## 2. Designkonzept für Langzeitmusik
+## 2. Designkonzept der Langzeitmusik
 
 Eines der wichtigen Merkmale von Deep Ambient und Ambient Techno besteht darin, dass sie der „Wiedergabezeit“ Vorrang vor einzelnen Songs einräumen. Das Durchhalten für 10, 20 oder mehr Minuten ist ein Design-Gebot und kein Mangel an Bereitstellung.
 
@@ -47,7 +47,7 @@ Bei längerer Spieldauer verlieren kurzfristige Reize und symbolische Entwicklun
 
 ## 3. Grenze zwischen Schleife und Nicht-Schleife
 
-Die Loops in Ambient Techno/Deep Ambient sind keine Spielerei, um Wiederholungen selbst hörbar zu machen. Vielmehr handelt es sich um ein Gerät zur künstlichen Schaffung eines Zustands, in dem es den Anschein hat, als gäbe es keine Veränderung.
+Die Loops in Ambient Techno/Deep Ambient sind keine Spielerei, um Wiederholungen selbst hörbar zu machen. Vielmehr handelt es sich um ein Mittel zur künstlichen Schaffung eines Zustands, in dem es den Anschein hat, dass es keine Veränderung gibt.
 
 Es gibt keine perfekte Schleife; es gibt immer gewisse Schwankungen. Öffnen/Schließen des Filters, Zunahme/Abnahme der Geräuschanteile, Länge der Nachhallfahne. Diese winzigen Unterschiede sind die einzigen Hinweise, die dem Zuhörer ein Gefühl für den Lauf der Zeit vermitteln.
 
@@ -143,7 +143,7 @@ C --> D[意識の変化]
 
 ## 16. Zusammenfassung
 
-Ambient Techno / Deep Ambient definiert den Akt des Musikhörens neu. Die Tiefseeakustik ist hierfür das optimierte Format und wird mit weiteren Anwendungen weiter ausgebaut.
+Ambient Techno / Deep Ambient definiert den Akt des Musikhörens neu. Die Tiefseeakustik ist dafür das optimierte Format und wird mit Anwendungen weiter zunehmen.
 
 ---
 

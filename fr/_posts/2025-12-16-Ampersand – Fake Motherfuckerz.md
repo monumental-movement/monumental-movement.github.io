@@ -10,13 +10,13 @@ tags:
 - Techno
 - Electro
 - 00s
-title: Esperluette – Fake Motherfuckerz
+title: Ampersand – Fake Motherfuckerz
 ---
 
 
-Ampersand est une unité formée par Benjamin Westermann et Henrik Bueren.
+Ampersand (アンパサンド)は、Benjamin Westermann と Henrik Bueren によるユニット。
 
-"Fake Motherfuckerz" est un morceau Techno/Electro sorti en 2008 sur le label électro belge Lektroluv, dirigé par le DJ/producteur belge Stefaan Vandenberghe alias Dr. Lektroluv.
+「Fake Motherfuckerz」は、ベルギーのDJ／プロデューサーStefaan Vandenberghe別名Dr. Lektroluv主宰のベルギー・エレクトロレーベルLektroluvから、2008年にリリースしたTechno／Electroトラック。
 
 #### Liste des chansons
 ```md

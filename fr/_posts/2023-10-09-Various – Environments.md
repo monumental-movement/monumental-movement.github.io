@@ -9,12 +9,12 @@ permalink: /fr/various-environments/
 tags:
 - Jazz
 - Abstract
-title: Divers – Environnements
+title: Various – Environments
 ---
 
 
-« Environnements » est
-Il s'agit d'un album compilation sorti par le label "OM Records" en 2001.
+「Environments」は、
+2001年にレーベル「OM Records 」からリリースされたコンピレーション・アルバムです。
 
 #### Liste des chansons
 ```md

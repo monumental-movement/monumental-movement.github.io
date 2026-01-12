@@ -15,7 +15,7 @@ title: FLR - Filtres faciles, partie 1 ~ 2
 
 Il s'agit d'un EP de Ken Ishii, alias "FLR", sorti en 1998 sur le label japonais Reel Musiq.
 
-Il a également été inclus dans l'album de 2001 "Easy Filters".
+Il a également été inclus sur l'album de 2001 "Easy Filters".
 
 #### Liste des chansons
 ```md

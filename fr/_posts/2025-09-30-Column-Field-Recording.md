@@ -19,7 +19,7 @@ title: '[Chronique] Enregistrement sur le terrain : techniques, historique et g
 Texte : mmr｜Thème : couvre l'histoire de l'enregistrement sur le terrain, les caractéristiques des principaux équipements, les artistes/producteurs représentatifs et les albums recommandés par génération.
 
 
-L'enregistrement sur le terrain est l'acte de quitter le studio et d'enregistrer les « sons du terrain » tels qu'ils sont. Les sons naturels, les sons de l’environnement urbain, les chansons folkloriques, les bruits des chemins de fer et des machines d’usine : il ne s’agit pas seulement d’effets sonores, mais d’archives culturelles et de matériaux musicaux. Il s'agit d'une technologie essentielle pour les films, les jeux, la production musicale et l'art sonore.
+L'enregistrement sur le terrain est l'acte de quitter le studio et d'enregistrer les « sons du terrain » tels qu'ils sont. Les sons naturels, les sons de l’environnement urbain, les chansons folkloriques, les bruits des chemins de fer et des machines d’usine : ce ne sont pas seulement des effets sonores, mais des archives culturelles et des matériaux musicaux. Il s'agit d'une technologie essentielle pour les films, les jeux, la production musicale et l'art sonore.
 
 ---
 
@@ -146,7 +146,7 @@ L'enregistrement sur site est la trinité « microphone + enregistreur + aliment
 
 - Depuis 2011, il enregistre également les sons locaux du grand tremblement de terre de l'est du Japon, approfondissant ainsi son intérêt pour les sons environnementaux.
 
-- Concernant « async », il a dit : « Une musique pour laisser derrière elle des fragments de temps ».
+- Concernant « async », il a dit : « Une musique pour laisser derrière elle des fragments de temps. »
 
 
 ---

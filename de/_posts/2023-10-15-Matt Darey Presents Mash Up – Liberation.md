@@ -14,7 +14,7 @@ title: Matt Darey präsentiert Mash Up – Liberation
 
 Matt Darey ist ein Produzent/DJ aus Großbritannien.
 
-Der erste Titel auf Seite A ist ein Remix von Ferry Corsten (SystemF).
+Der erste Track auf Seite A ist ein Remix von Ferry Corsten (SystemF).
 
 #### Trackliste
 ```md

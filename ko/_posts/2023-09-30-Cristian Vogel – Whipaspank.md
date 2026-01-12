@@ -13,7 +13,7 @@ title: 크리스티안 보겔 - 위파스팽크
 ---
 
 
-Christian Vogel(1972년 칠레 산티아고 출생)은 1980년대 후반 Cabbage Head Collective와 함께 일렉트로닉 음악 작곡을 시작한 실험적인 일렉트로닉 음악가입니다.
+Christian Vogel(1972년 칠레 산티아고 출생)은 1980년대 후반 Cabbage Head Collective와 함께 일렉트로닉 음악 작곡을 시작한 실험적인 일렉트로닉 뮤지션입니다.
 
 그는 서식스 대학교(University of Sussex)에서 마틴 버틀러(작곡가)와 조나단 하비(Jonathan Harvey)(작곡가)와 함께 공부했으며, 그곳에서 20세기 음악학 학위를 받았습니다. No Future Collective의 창립 멤버로 1990년대 중반 브라이튼에서 활동했습니다.
 

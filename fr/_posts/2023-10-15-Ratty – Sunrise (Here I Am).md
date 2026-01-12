@@ -9,13 +9,13 @@ permalink: /fr/ratty-sunrise-here-i-am/
 tags:
 - Trance
 - Hard Trance
-title: Ratty – Lever du soleil (Me voici)
+title: Ratty – Sunrise (Here I Am)
 ---
 
 
-Ratty est le projet côté transe de l'artiste allemand Scooter, spécialisé dans le happy hardcore, le rebondissant, la techno, la techno, la transe et le hardstyle.
+Rattyは、ハッピーハードコア・バウンシー・テクノ・テクノ・トランス・ハードスタイルを専門とするドイツのアーティストscooter（スクーター）のトランスサイドプロジェクト。
 
-La face B "Sunrise (Here I Am) (Instrumental)" est la version originale du single "She's The Sun" de Scooter en 2000 appelé "Sunrise (Ratty's Inferno)".
+B面の「Sunrise (Here I Am) (Instrumental)」は、scooter（スクーター）の 2000年リリースのシングル「She's The Sun」のオリジナルバージョン「Sunrise (Ratty's Inferno)」。
 
 #### Liste des chansons
 ```md

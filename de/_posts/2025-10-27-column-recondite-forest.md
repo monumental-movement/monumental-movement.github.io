@@ -17,7 +17,7 @@ title: '[Kolumne] Recondite und Waldbaden – Wenn Techno in den Wald zurückkeh
 ## Prolog: Ein Beat, der im Wald versinkt
 
 
-Text: mmr | Thema: Deutscher Minimal-Techno-Künstler Recondite. Die Musik lässt in ihren künstlichen Sequenzen das Atmen des Waldes hören. Hier erkunden wir die philosophische Schnittstelle zwischen seiner Arbeit und dem Waldbaden (Shinrin-yoku).
+Text: mmr | Thema: Deutscher Minimal-Techno-Künstler Recondite. In der Musik hört man in seinen künstlichen Sequenzen das Atmen des Waldes. Hier erkunden wir die philosophische Schnittstelle zwischen seiner Arbeit und dem Waldbaden (Shinrin-yoku).
 
 Recondite – richtiger Name Lorenz Brunner.
 Wenn viele Menschen seine Musik zum ersten Mal hören, verspüren sie ein Gefühl von „Einsamkeit“ und „Ruhe“.
@@ -70,7 +70,7 @@ Diese Struktur entspricht dem Mechanismus, durch den Waldbaden den Parasympathik
 > Es soll Stresshormone beim Menschen reduzieren (Umfrage der Forstbehörde, 2004).
 
 Bei den Live-Auftritten von Recondite fühlt es sich an, als ob ein „**elektronisches Laubreiben**“ den Veranstaltungsort umhüllt.
-Obwohl es sich um **künstliche Natur** handelt, die mit digitaler Ausrüstung reproduziert wird,
+Obwohl es sich um **künstliche Natur** handelt, die mit digitalen Geräten reproduziert wird,
 Aus irgendeinem Grund verspürt der Zuhörer die Illusion, näher am Wald zu sein.
 
 ---
@@ -176,7 +176,7 @@ Es ist wie ein **akustisches Waldbaden**.
 Der Philosoph Maurice Merleau-Ponty
 „Der Körper ist Teil der Welt und Empfindungen sind Phänomene der Interaktion mit der Welt.“
 Die Musik von Recondite setzt diese phänomenologische Perspektive elektronisch um.
-Mit anderen Worten präsentiert er eine neue Körperlichkeit namens **Musik = Wald der Sinne**.
+Mit anderen Worten: Es präsentiert eine neue Körperlichkeit namens **Musik = Wald der Sinne**.
 
 ---
 
@@ -187,7 +187,7 @@ Die Musik von Recondite ist nicht mechanischer Natur, sondern
 
 Wenn das Baden im Wald ein Akt der „Rückkehr des Menschen zur Natur“ ist,
 Die Musik von Recondite ist ein Akt der „Rückführung von Techno in die Natur“.
-Künstlich und organisch, Stadt und Wald, Beat und Stille – sie alle verschmelzen in ihm.
+Künstlich und organisch, Stadt und Wald, Takt und Stille – sie alle verschmelzen in ihm.
 Es schwingt mit als eine neue „**Poetik der digitalen Natur**.“
 
 > Hören Sie Recondite, als würden Sie ein Waldbad nehmen.

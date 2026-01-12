@@ -21,7 +21,7 @@ title: '[Kolumne] Orchestra Veve: Eine vollständige Geschichte der renommierten
 
 Text: mmr｜Thema: Hintergrund der Gründung von Orchestra Veve, musikalische Merkmale der goldenen Ära, technische Aspekte, Analyse repräsentativer Songs, Vergleich mit anderen Bands
 
-Orchestra Veve ist eine Band, die eine wichtige Position in der Musikgeschichte des Kongo (ehemals Zaire) einnimmt. Sie waren am Wendepunkt des Übergangs von der Rumba Congolaise zum Soukous aktiv und führten die Szene vor allem in den 1970er Jahren mit ihren kraftvollen Aufnahmen und innovativen Ensembles an.
+Orchestra Veve ist eine Band, die eine wichtige Position in der Musikgeschichte des Kongo (ehemals Zaire) einnimmt. Sie waren am Wendepunkt des Übergangs von Rumba Congolaise zu Soukous aktiv und führten die Szene vor allem in den 1970er Jahren mit ihren kraftvollen Aufnahmen und innovativen Ensembles an.
 
 ---
 
@@ -43,7 +43,7 @@ color: #fff;
 
 Bereits Ende der 1960er Jahre hatte die kongolesische Musik im Grande Quartier eine wettbewerbsfähige Live-Kultur geformt. Als starke Bands wie OK Jazz, African Fiesta und Zaïko miteinander konkurrierten und die Verfeinerung von Gitarrenensembles und Gesangspolyphonie zunahm, nahm die Zahl unabhängiger Labels zu, die den Erfolg junger Musiker unterstützten.
 
-Orchestra Veve wurde inmitten dieser musikalischen Fluidität geboren, die durch die Urbanisierung und Medienexpansion in der Zeit nach der Unabhängigkeit hervorgerufen wurde. Es war insbesondere eine Zeit, in der aufgrund der Kombination aus der starken Tanzkultur des Kongo, dem wachsenden Einfluss von Rundfunkanstalten und der Nachfrage nach Auftritten in Straßenbars mehrere aufstrebende Bands entstanden.
+Orchestra Veve wurde inmitten dieser musikalischen Fluidität geboren, die durch die Urbanisierung und Medienexpansion in der Zeit nach der Unabhängigkeit hervorgerufen wurde. Insbesondere zu dieser Zeit entstanden aufgrund der Kombination aus der starken Tanzkultur des Kongo, dem wachsenden Einfluss der Rundfunkanstalten und der Nachfrage nach Auftritten in Straßenbars mehrere aufstrebende Bands.
 
 ---
 
@@ -86,7 +86,7 @@ Der Grund, warum dieses „Koexistenz von Quantität und Qualität“ möglich w
 - **Systematisierung zur Maximierung der Betriebsrate Ihres eigenen Studios**
 - **Rotationssystem zwischen den Darstellern**
 - **Reduzierte Aufnahmezeit pro Song (ein Song ist in mehreren Stunden fertig)**
-- **Verbesserte Reproduzierbarkeit durch Erstellen von Ensemble-Vorlagen**
+- **Verbesserte Reproduzierbarkeit durch die Erstellung von Ensemble-Vorlagen**
 
 Dieser Artikel konzentriert sich auf die folgenden drei Lieder als repräsentative Lieder, die in diesem goldenen Zeitalter entstanden sind.
 
@@ -94,7 +94,7 @@ Dieser Artikel konzentriert sich auf die folgenden drei Lieder als repräsentati
 - **„Mfumbwa“**
 - **"Nitarudia"**
 
-Diese Lieder zeigen den Kern von Veves Tanzmusik, zeigen aber auch deutlich die Merkmale des lyrischen Inhalts, der Gitarrenstruktur und der Mischung.
+Diese Lieder zeigen den Kern von Veves Tanzmusik, zeigen aber auch deutlich die Merkmale des lyrischen Inhalts, der Gitarrenstruktur und des Mixes.
 
 ---
 
@@ -117,7 +117,7 @@ Verglichen mit der einzeiligen Musik von ZAïko und der auf tiefen Harmonien bas
 
 ## Innovation in der Rhythmusgruppe
 
-Veves Rhythmusgruppe hat eine ausgeprägte Sprungkraft. Die Hi-Hat prägt die Rückseite der 16. Minute nicht stark, sondern erzeugt stattdessen einen Groove im Bereich der 8. Minute mit einem weiten horizontalen Schwung, wodurch sie sanfter als die Soukous aus derselben Zeit wird und eine Textur beibehält, die der einer Rumba ähnelt.
+Veves Rhythmusgruppe hat eine ausgeprägte Sprungkraft. Die Hi-Hat prägt die Rückseite der 16. Minute nicht stark, sondern erzeugt stattdessen einen Groove im Bereich der 8. Minute mit einem weiten horizontalen Schwung, wodurch sie sanfter ist als die Soukous aus derselben Zeit und eine Textur beibehält, die der einer Rumba ähnelt.
 
 ---
 
@@ -129,11 +129,11 @@ Veves Rhythmusgruppe hat eine ausgeprägte Sprungkraft. Die Hi-Hat prägt die R�
 
 ### Technische Analyse
 - **Tempo: ca. 118–122 BPM**
-- **Gitarre: 3-Schichten-Struktur (Begleitgitarre betont Off-Beat)**
+- **Gitarre: 3-Lagen-Struktur (Begleitgitarre betont Off-Beat)**
 - **Bass: Absteigende Linie → steigende Linie alle 4 Takte wiederholen**
 - **Mischung: Gesang in der Mitte, Gitarren links und rechts getrennt**
 
-### Rhythmuseigenschaften
+### Merkmale des Rhythmus
 
 <div class="mermaid">
 
@@ -153,7 +153,7 @@ graph TD
 
 ### Technische Analyse
 
-* **Saxophon präsentiert Melodie am Anfang → Gitarre imitiert**
+* **Das Saxophon präsentiert die Melodie zu Beginn → die Gitarre imitiert**
 * **Gesang ist „Fragen“ und Refrain ist „Antwort“**
 * **Lineares, hohes Gitarrensolo**
 
@@ -182,8 +182,8 @@ In diesem Lied erscheint eine schnellere und segmentiertere Gitarre als Vorläuf
 ### Technische Analyse
 
 * **Hi-Hat: 16-Minuten-Schritte jetzt verfügbar**
-* **Gitarre: Auf einem Pentagramm (Notenzeile) betrachtet steigt das Arpeggio treppenförmig an**
-* **Bass: Phrase, die in Einheiten von 2 Takten „hüpft“**
+* **Gitarre: Auf einem Pentagramm (Notenzeile) betrachtet, steigt das Arpeggio treppenförmig an**
+* **Bass: Phrase, die in 2-Takt-Einheiten „hüpft“**
 
 ### Struktur des Gitarrenansatzes
 
@@ -202,7 +202,7 @@ flowchart LR
 # Kapitel 7 Aufnahmetechnik, Studioumgebung, Produktionssystem
 
 Veves Aufnahmeumgebung war zu dieser Zeit eine der fortschrittlichsten in Afrika.
-Es verfügte über ein eigenes Studio, mehrere Toningenieure und verfügte über folgende technische Merkmale:
+Es verfügte über ein eigenes Studio, in dem immer mehrere Toningenieure anwesend waren, und verfügte über die folgenden technischen Merkmale.
 
 - **Nutzen Sie schnell die Übergangszeit von der 2- bis 4-Spur-Aufnahme zur 4- bis 8-Spur-Aufnahme**
 - **Stereo-Methode zum Schwingen der Gitarre nach links und rechts**
@@ -240,7 +240,7 @@ Obwohl beide aus derselben Zeit stammen, sind ihre Richtungen sehr unterschiedli
 ## Musikalische Distanz mit OK Jazz
 
 Da Veran selbst von OK Jazz ist, haben sie den gleichen Sinn für Harmonie und Tiefe der melodischen Verarbeitung, aber
-Veve ist im Vergleich zu OK Jazz moderner und tanzbarer.
+Veve ist moderner und tanzbarer als OK Jazz.
 
 ## Gemeinsamkeiten mit Afrisa International
 

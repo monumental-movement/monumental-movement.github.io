@@ -113,7 +113,7 @@ In den 1980er Jahren brachte der TR-808 den Hip-Hop hervor, der 909 den Techno u
 Die TR-Serie stand schon immer an einem Wendepunkt in der Musikgeschichte.
 
 Der TR-1000 schafft auch ein neues Symbol in der modernen Clubkultur, in der KI und Live-Performance nebeneinander existieren.
-Detroits DJ Bone beschreibt den TR-1000 als „atmende Rhythmusmaschine“, und der Tokioter Produzent Seiho sagt: „Rhythmus hat begonnen, Emotionen zu entwickeln.“
+Detroits DJ Bone beschreibt den TR-1000 als „atmende Rhythmusmaschine“, und der Tokioter Produzent Seiho sagt: „Rhythmus hat begonnen, Emotionen zu erzeugen.“
 Im kulturellen Kontext bedeutet der TR-1000 keine „Erweiterung der Nostalgie“, sondern eine „Erweiterung des rhythmischen Bewusstseins“.
 
 ---
@@ -124,7 +124,7 @@ Im kulturellen Kontext bedeutet der TR-1000 keine „Erweiterung der Nostalgie�
 Die Designphilosophie des TR-1000 konvergiert letztlich in einer Frage.
 **„Wer macht den Beat?“**
 Es ist eine Maschine, die das Tempo im Auge behält, aber warum spüre ich darin ein Gefühl der Menschlichkeit?
-Durch die Kombination von KI und Analog hat der TR-1000 Beats auf die Stufe des „Teilens“ gebracht, anstatt sie zu „generieren“.
+Durch die Verschmelzung von KI und Analog hat der TR-1000 Beats auf die Stufe des „Teilens“ gebracht, anstatt sie zu „generieren“.
 
 Musik ist der Ausdruck von Intelligenz, die im Rhythmus liegt.
 Diese Maschine hinterfragt ihre Wurzeln und ist nicht nur ein Gadget.

@@ -19,7 +19,7 @@ Sound Fiction a été créé à Moscou en 2002 par les producteurs et DJ russes 
 Side A est un remix du DJ et producteur suédois trance/progressif Mike Shiver.
 
 
-Kate Cameron est une chanteuse professionnelle de house et de transe avec une voix d'alto riche, surtout connue pour son travail avec Jones & Simmons, notamment en tant qu'artiste vedette sous leurs alias Space Brothers et Chakra, qui ont connu du succès avec des crossovers tels que I Am et Home.
+Kate Cameron est une chanteuse professionnelle de house et de transe avec une voix d'alto riche, surtout connue pour son travail avec Jones & Simmons, notamment en tant qu'artiste vedette sous leurs pseudonymes Space Brothers et Chakra, qui ont connu du succès avec des crossovers tels que I Am et Home.
 
 Ses crédits incluent « P.A.S.S.I.O.N » avec John of Norman Cooke/ Pleased Women, « Far From In Love » avec Above & Beyond et « What Ya » avec le groupe néerlandais Signum. Il est extrait de son morceau hard house "You Better" sous le pseudonyme Mount Rushmore Presents the Knack, qui a connu un succès dans les charts en tant qu'artiste solo avec un producteur de premier plan, notamment "Got 4 Me".
 

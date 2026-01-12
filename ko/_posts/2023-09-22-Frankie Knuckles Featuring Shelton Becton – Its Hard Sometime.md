@@ -9,13 +9,13 @@ permalink: /ko/frankie-knuckles-featuring-shelton-becton-its-hard-sometime/
 tags:
 - House
 - Deep House
-title: Shelton Becton이 출연하는 Frankie Knuckles – 언젠가는 힘들어요
+title: Shelton Becton이 출연하는 Frankie Knuckles - 언젠가는 힘들어요
 ---
 
 
 Frankie Knuckles는 디스코 및 하우스 음악의 선구자이며 Shelton Becton은 싱어송라이터/보컬리스트입니다.
 
-'힘들다'는 소울풀한 멜로디와 섬세한 리듬, 애절한 가사와 우아한 하우스 사운드가 돋보이는 이들의 협업곡이다.
+'언젠가 힘들어'는 소울풀한 멜로디와 섬세한 리듬, 감동적인 가사와 우아한 하우스 사운드가 돋보이는 이들의 협업곡이다.
 
 #### 트랙리스트
 ```md

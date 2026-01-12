@@ -10,7 +10,7 @@ tags:
 - Indie Rock
 - Rock
 - 90s
-title: The Boo Radleys – Barney (...And Me)
+title: The Boo Radleys – Barney (…And Me)
 ---
 
 

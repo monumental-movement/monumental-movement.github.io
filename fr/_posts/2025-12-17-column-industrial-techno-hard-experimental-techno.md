@@ -111,7 +111,7 @@ Dans un environnement modulaire, le bruit ne sert pas de mélodie ou de décorat
 
 Le morceau de Perc incarne la « violence contrôlée » de la techno industrielle. Le kick a un centre clair et la distorsion est concentrée dans les médiums. La portée basse n'est pas détruite et la stabilité physique est assurée lors du jeu en club.
 
-Le développement est minime et la structure est formée en modifiant la texture de la distorsion et en ajustant la densité du bruit plutôt qu'en augmentant ou en diminuant le nombre de sons. Le déphasage rythmique est minimal et la fidélité à la grille est maintenue.
+Le développement est minime et la structure est formée en modifiant la texture de la distorsion et en ajustant la densité du bruit plutôt qu'en augmentant ou en diminuant le nombre de sons. Le déphasage rythmique est minimal et la fidélité au réseau est maintenue.
 
 ---
 

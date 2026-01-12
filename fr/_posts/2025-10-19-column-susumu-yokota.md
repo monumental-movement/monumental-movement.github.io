@@ -59,10 +59,10 @@ Ce qui est remarquable, c'est qu'il a publié ses œuvres sous plusieurs noms. P
 Le chef-d'œuvre de Susumu Yokota et une œuvre monumentale dans l'histoire de la musique ambiante.
 La faible mélodie et les sons environnementaux se superposent, guidant doucement la conscience de l'auditeur vers l'intérieur. Il a une fugacité qui capture le moment de la chute des fleurs de cerisier dans le son, et c'est une fusion de lyrisme japonais et de beauté universelle.
 
-L'album a une excellente structure, et l'ensemble de l'album coule comme une seule « respiration ». Cela commence doucement, créant un léger rythme puis disparaissant. C'est comme le cycle de la vie et les saisons elles-mêmes.
+L'album a une excellente structure, et l'ensemble de l'album coule comme un seul « souffle ». Cela commence doucement, créant un léger rythme puis disparaissant. C'est comme le cycle de la vie et les saisons elles-mêmes.
 La raison pour laquelle "Sakura" continue d'être appréciée par les fans de musique ambiante du monde entier est probablement parce qu'elle dépeint parfaitement cette "sensation du temps" à travers le son.
 
-### « Symbole » (2001)
+### "Symbole" (2001)
 Construisez votre propre image sonore tout en utilisant pleinement l'échantillonnage de musique classique.
 Les mélodies baroques et impressionnistes se dissolvent dans une mer d'électronique entre les mains de Yokota. L'œuvre entière est comme une « mémoire reconstruite » et, comme le titre l'indique, c'est une musique « symbolique ».
 
@@ -119,7 +119,7 @@ On sait également qu'Aphex Twin et Four Tet ont soutenu son travail.
 
 La performance live de Yokota n'était pas seulement une reconstitution, mais une tentative de « jouer l'espace lui-même ».
 Il a éliminé autant que possible l'éclairage et les images, transformant l'espace avec la « densité de l'air » que possède le son.
-Le public est enveloppé de particules sonores et perd la notion du temps. C’était une expérience où chacun avait l’impression de se fondre dans le son.
+Le public est enveloppé de particules sonores et perd la notion du temps. C’était une expérience où chaque personne se fondait dans le son.
 
 Sa position était un exemple rare de combinaison de la physicalité dansante de la techno avec la nature méditative de l’ambient.
 

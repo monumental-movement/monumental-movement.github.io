@@ -10,7 +10,7 @@ tags:
 - Psy-Trance
 - Trance
 - Psychedelic
-title: '[Chronique] Shpongle : Le cycle du son et le voyage de la conscience'
+title: '[Chronique] Shpongle : Réincarnation du son et voyage de conscience'
 ---
 
 
@@ -312,7 +312,7 @@ Cette structure provoque un phénomène psychologique appelé « trip acoustiqu
 | ------ | -------- | -------- |
 | Base basse fréquence | Synchronisation de la respiration et du rythme cardiaque | Sentiment d'ancrage |
 | Harmoniques haute fréquence | Activité de la glande pinéale | Hallucinations visuelles/dilatation du temps |
-| Réverbération réverbération | Expansion de la localisation spatiale | Dissolution de l'ego |
+| Réverbération de réverbération | Expansion de la localisation spatiale | Dissolution de l'ego |
 | Polyrythmie | Retard cognitif | Sentiment de flottement de rêve |
 
 Scientifiquement, Shpongle est un projet visant à « reconstruire le cerveau avec le son ».
@@ -345,7 +345,7 @@ Le son transcende la science, la philosophie, la religion et la technologie.
 Il reconstruit la conscience humaine elle-même sous forme sonore.
 
 Ce n'est pas seulement de la musique.
-C'est l'évolution de l'acte d'« écouter » lui-même,
+C'est une évolution de l'acte d'« écouter » lui-même,
 C'est le mandala de conscience laissé à l'humanité par Raja Ram et Simon Posford.
 
 > "Le son naît, disparaît et revient. C'est ce qu'est Shpongle."

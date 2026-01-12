@@ -18,7 +18,7 @@ title: '[Chronique] Haute énergie et LGBTQ : une musique de danse qui symbolise
 ## Musique de danse qui symbolise la libération et l'identité
 
 
-Texte : mmr｜Thème : Culture gay américaine, musique symbolique de « libération et solidarité » qui recoupe l'ère de la crise du VIH/SIDA
+Texte : mmr｜Thème : Musique symbolique de « libération et solidarité » qui recoupe la culture gay américaine et l'ère de la crise du VIH/SIDA
 
 <hr>
 

@@ -19,7 +19,7 @@ title: '[Kolumne] DMC World DJ Championship: Der Weg des Turntablismus zur globa
 
 # DMC World DJ Championship – Weltgeschichte des Turntablism
 
-Text: mmr｜Thema: Geschichte der DMC World DJ Championship, technologische Innovation, Crowdfunding, Veränderungen in der Weltmeisterschaft, Erfolge japanischer Spieler, Ausrüstungskultur, Turntablism
+Text: mmr｜Thema: Geschichte der DMC World DJ Championship, technologische Innovation, Crowdfunding, Geschichte der Weltmeisterschaft, Erfolge japanischer Spieler, Ausrüstungskultur, Turntablism
 
 Die **DMC World DJ Championship (im Folgenden als DMC bezeichnet)** ist als einer der größten DJ-Battles der Welt bekannt und hat sich seit ihrer Gründung im Jahr 1985 mit dem Wachstum der Turntablism-Kultur weiterentwickelt.
 Der Prozess, durch den Hip-Hop-DJ-Techniken als „musikalischer Ausdruck“ unabhängig wurden und als „Weltwettbewerb“ weiter institutionalisiert wurden, ist eine einzigartige Geschichte, die mit keinem anderen Genre vergleichbar ist.
@@ -75,7 +75,7 @@ Vor allem in den frühen 1990er Jahren entwickelten DJ Aladdin, Cutmaster Swift,
 # Kapitel 3 Analoges goldenes Zeitalter (ca. 1990-2000)
 
 ## 3-1 „Weltturnier“-Format etabliert
-In den 1990er Jahren etablierte DMC das „6-Minuten-Routinesystem“, das bis heute Bestand hat, und zusätzlich zum **Einzelwettbewerb (World DJ Championship)**
+In den 1990er Jahren etablierte DMC das „6-Minuten-Routinesystem“, das bis heute andauert, und zusätzlich zum **Einzelwettbewerb (World DJ Championship)**
 - **Kampf um die Weltherrschaft**
 - **Team-Division (Weltmeisterschaft der Mannschaften)**
 
@@ -106,7 +106,7 @@ Daraus ergibt sich
 Eine solche Entwicklung findet statt.
 
 ## 4-2　Video-Qualifikation/online
-Um das Jahr 2011 herum wurde eine **Online-DJ-Meisterschaft** über YouTube eingeführt, die DJs aus aller Welt die Tür zur Teilnahme öffnete.
+Um das Jahr 2011 herum wurde eine **Online-DJ-Meisterschaft** über YouTube eingeführt, die DJs aus der ganzen Welt die Möglichkeit zur Teilnahme öffnete.
 
 ---
 
@@ -114,7 +114,7 @@ Um das Jahr 2011 herum wurde eine **Online-DJ-Meisterschaft** über YouTube eing
 
 ## 5-1　Die Kraft der Community, die die Fortsetzung des Turniers unterstützt hat
 Obwohl DMC ein Weltklasse-Turnier ist, ist es keine kommerziell große Organisation und stand schon immer vor finanziellen Herausforderungen.
-Insbesondere in den späten 2010er Jahren, als die Belastung durch die Betriebskosten zunahm, führte DMC mehrfach **Crowdfunding** durch, das sich an Fans und die DJ-Community richtete.
+Insbesondere Ende der 2010er Jahre, als die Belastung durch die Betriebskosten zunahm, führte DMC mehrfach **Crowdfunding** für Fans und die DJ-Community durch.
 
 ### Wichtigste Fakten
 - Die **DMC Foundation** führte ein Spendenprojekt durch und es wurden Mittel für die Fortsetzung des Turniers bereitgestellt.
@@ -124,7 +124,7 @@ Insbesondere in den späten 2010er Jahren, als die Belastung durch die Betriebsk
 Infolgedessen entwickelte sich DMC eher zu einem von der Gemeinschaft geführten und geschützten Kulturgut als zu einer „kommerziellen Veranstaltung“.
 
 ## 5-2　Pandemiezeit: Umstellung auf Fernwettbewerb
-Im Zeitraum 2020–2021 erschwerte die neue Infektionskrankheit die Durchführung einer physischen Veranstaltung, weshalb DMC das Weltturnier vollständig online abhielt.
+Im Zeitraum 2020–2021 erschwerte die neue Infektionskrankheit die Durchführung einer physischen Veranstaltung, sodass DMC das Weltturnier vollständig online abhielt.
 Ausrüstungsunternehmen wie Rane und Technics unterstützten den Wettbewerb und leiteten eine Ära ein, in der Routinen als Videoarbeiten geschätzt wurden.
 
 ---
@@ -183,7 +183,7 @@ Dies wird einen neuen DJ-Stil beschleunigen, der DVS und Analog kombiniert.
 # Kapitel 8 Globale Bewegung, die DMC unterstützt
 
 ## 8-1 Institutionalisierung regionaler Qualifikationsrunden
-DMC etablierte den Ablauf der nationalen Vorrunden → nationale Meister → Weltturniere und schuf damit die Grundlage für die unabhängige Entwicklung der Szene jedes Landes.
+DMC etablierte den Ablauf der nationalen Vorrunden → nationale Meister → Weltturniere und schuf so die Grundlage für die unabhängige Entwicklung der Szene jedes Landes.
 
 ## 8-2 Auswirkungen auf Bildung/Schulen
 Turntablism gibt es seit den 2000er Jahren.
@@ -250,7 +250,7 @@ Wie durch Crowdfunding symbolisiert, ist DMC eine Kultur, die von Fans auf der g
 
 *Unten finden Sie ein Diagramm zur Kategorisierung der Turntablism-Techniken.
 
-## **① Turntablism-Technik/systematisches Diagramm (Klassifizierung der Scratch-Technik)**
+## **① Turntablism-Technik/Systemdiagramm (Klassifizierung der Scratch-Technik)**
 
 ### Systematisches Diagramm der Scratch-Techniken
 

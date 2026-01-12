@@ -19,7 +19,7 @@ title: '[Chronique] L''illusion de l''EDM : célébrer et reconstruire à l''è
 ## Il y a un moment où le son devient architecture
 
 
-Texte : mmr｜Thème : Festivals et villes, son et lumière, foules et technologie. Comment le phénomène de l’EDM a-t-il changé la forme des célébrations au 21e siècle ?
+Texte : mmr | Thème : Festivals et villes, son et lumière, foules et technologie. Comment le phénomène de l’EDM a-t-il changé la forme des célébrations au 21e siècle ?
 
 Un éclair de lumière laser divise le ciel nocturne, la basse tremble profondément dans son corps et d'innombrables bras se lèvent à l'unisson.
 Le phénomène appelé « EDM » était plus qu’un simple genre musical, c’était une célébration de l’ère numérique.
@@ -81,7 +81,7 @@ Ces développements ont abouti à une « militarisation du son ».
 
 Surtout la compression de la chaîne latérale.
 Ce « pompage » unique qui fait respirer tout le corps au rythme du coup de pied.
-C'est le cœur de l'EDM.
+C'est le battement de cœur d'EDM.
 C’est l’époque où les techniques de la musique de club furent étendues au grand public.
 
 ---
@@ -114,7 +114,7 @@ Des DJ du monde entier échangeaient des sons en un seul clic.
 Le drop est coupé sur TikTok et le rythme devient viral comme un GIF.
 Le « Closer » des Chainsmokers en est un symbole.
 Un DJ est à la fois un producteur et une **marque**.
-Logos, parfums, NFT, écouteurs : tous sont devenus des « industries autour du son ».
+Logos, parfums, NFT, écouteurs : tous sont devenus des « industries liées au son ».
 
 ---
 
@@ -230,7 +230,7 @@ flowchart TD
 | DAW | Logique Pro | Environnement intégré pour la composition/mixage |
 | Synthé | Sérum Xfer | Symbolise le design tonal de l'EDM moderne |
 | Synthé | NI Massif | Pilier de la fin des années 2000 et du début des années 2010 |
-| Synthé | Sylenth1 | Fort dans les sons lead classiques |
+| Synthé | Sylenth1 | Fort dans les sons leads classiques |
 | Plugin | Waves L2/FabFilter Pro-L | Norme de mastering qui a soutenu les guerres du volume |
 | Matériel DJ | Série CDJ pionnière | Équipement de jeu DJ standard mondial |
 | Moniteur | KRK Rokit/Yamaha HS5 | Un moniteur indispensable pour les producteurs de chambres |

@@ -14,7 +14,7 @@ title: 톨레도 - 조
 ---
 
 
-Toledo(Toledo Diamond)의 하우스 애시드 재즈 트랙입니다. 프로듀서는 블랙그레이프 전 멤버 대니 세이버(Danny Saber)이다.
+Toledo(Toledo Diamond)의 하우스 애시드 재즈 트랙입니다. 프로듀서는 블랙그레이프(Black Grape) 전 멤버 대니 세이버(Danny Saber)이다.
 
 1994년 미국 독립 레이블 Moonshine Music에 의해 발매되었습니다.
 

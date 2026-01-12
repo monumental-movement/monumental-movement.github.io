@@ -18,7 +18,7 @@ title: '[칼럼] Korla Pandit과 엑조티카의 비전: 전후 미국의 꿈과
 ## 프롤로그: 엑조티카란 무엇이었나요?
 
 
-글: mmr｜주제: 전후 미국 문화에서 이국적 창조와 오리엔탈리즘 미학 창조에 있어서 Korla Pandits의 역할 탐구
+글: mmr｜주제: 이국주의 초기의 Korla Pandit의 역할과 전후 미국 문화에서의 오리엔탈리즘 미학 탐구
 
 ![Korla Pandit at the organ](https://upload.wikimedia.org/wikipedia/en/4/4d/Korlaorgan.jpg) 
 出典：[Wikipedia - Korla Pandit](https://en.wikipedia.org/wiki/Korla_Pandit)
@@ -59,7 +59,7 @@ color: #fff;
 5. [5장: 가면 뒤의 진실 - 존 롤랜드의 고백] (#5장)
 6. [6장: 엑조티카의 반향 - 론진 심포네트에서 로파이 리바이벌까지] (#Chapter 6)
 7. [7장: 현대적 재평가와 문화적 전위] (#7장)
-8. [연대기: Korla Pandit과 엑조티카 음악의 역사(1940-2020)] (#연대기)
+8. [연대기: Korla Pandit과 엑조티카 음악의 역사(1940~2020)] (#연대기)
 9. [차트 및 분석](#Charts)
 10. [결론 : 허구와 진실 사이] (#결론)
 
@@ -163,7 +163,7 @@ Pandit의 정체는 **John Roland Redd**로 밝혀졌습니다.
 
 ## 연대기: Korla Pandit과 이국적인 음악사(1940~2020) {#연대기}
 
-| 연도 | 이벤트 |
+| 年 | 出来事 |
 |----|---------|
 | 1916 | John Roland Redd(이후 Korla Pandit) 탄생 |
 | 1948 | KTLA에서 "Korla Pandit"이라는 이름을 사용하여 TV에 출연하기 시작 |

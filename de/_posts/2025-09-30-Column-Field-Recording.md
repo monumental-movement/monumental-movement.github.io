@@ -16,7 +16,7 @@ title: '[Spalte] Feldaufnahme: Techniken, Geschichte und empfohlener Disc-Leitfa
 
 ## Warum Field Recording?
 
-Text: mmr｜Thema: Behandelt die Geschichte der Feldaufnahme, Merkmale wichtiger Geräte, repräsentative Aufnahmekünstler/Produzenten und empfohlene Alben nach Generation.
+Text: mmr｜Thema: Behandelt die Geschichte der Außenaufnahme, Merkmale wichtiger Geräte, repräsentative Aufnahmekünstler/Produzenten und empfohlene Alben nach Generation.
 
 
 Bei der Feldaufnahme wird das Studio verlassen und die „Geräusche des Feldes“ so aufgenommen, wie sie sind. Naturgeräusche, städtische Umgebungsgeräusche, Volkslieder, Geräusche von Eisenbahnen und Fabrikmaschinen – das sind nicht nur Soundeffekte, sondern kulturelle Archive und musikalische Materialien. Es ist eine wesentliche Technologie für Filme, Spiele, Musikproduktion und Klangkunst.
@@ -151,7 +151,7 @@ Die Aufnahme vor Ort ist die Dreifaltigkeit von „Mikrofon + Aufnahmegerät + S
 
 ---
 
-### Anekdoten über jeden Künstler und seine Ausrüstung
+### Anekdoten zu jedem Künstler und seiner Ausrüstung
 
 #### Alan Lomax und Ampex
 

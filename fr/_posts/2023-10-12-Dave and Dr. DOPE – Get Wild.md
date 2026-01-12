@@ -9,13 +9,13 @@ permalink: /fr/dave-and-dr-dope-get-wild/
 tags:
 - Techno
 - Hyper Techno
-title: Dave et le Dr DOPE – Get Wild
+title: Dave and Dr. DOPE – Get Wild
 ---
 
 
-Un mix d'arrangements hyper-techno de "Get Wild" de TM NETWORK par les producteurs italiens Dave Rodgers et Dr. D.O.P.E.
+イタリアのプロデューサーDave Rodgers（デイヴロジャース）とDr. D.O.P.E.（ドクター・ドープ）によるTM NETWORK（TMネットワーク）の「Get Wild（ゲットワイルド）」のハイパーテクノ・アレンジミックス。
 
-Producteurs : Alberto Contini et Dave Rodgers.
+プロデューサーは、Alberto Contini（アルベルト・コンティニ）とDave Rodgers（デイヴロジャース）。
 
 #### Liste des chansons
 ```md

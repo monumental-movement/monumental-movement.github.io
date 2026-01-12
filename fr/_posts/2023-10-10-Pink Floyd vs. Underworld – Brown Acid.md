@@ -9,11 +9,11 @@ permalink: /fr/pink-floyd-vs-underworld-brown-acid/
 tags:
 - Techno
 - Mashup
-title: Pink Floyd contre Underworld – Brown Acid
+title: Pink Floyd vs. Underworld – Brown Acid
 ---
 
 
-"Brown Acid" est un gros mashup sombre de "Born Slippy" d'Underworld et de "Is There Anybody Out There? Is There Anybody Out There?" par le producteur de disques et remixeur koweïtien/américain Hani de New York et le DJ/producteur Jonathan Peters de New York.
+「Brown Acid」は、NY出身のクウェート/アメリカ人のレコードプロデューサー兼リミキサーHani（ハニ）と、NY出身のDJ/プロデューサーJonathan Peters（ジョナサン・ピータース）による、Underworld の「Born Slippy ボーン・スリッピー」とPink Floydの「Is There Anybody Out There? イズ・ゼア・エニバディ・アウト・ゼア」のビッグ・ダーク・マッシュアップ。
 
 
 #### Liste des chansons

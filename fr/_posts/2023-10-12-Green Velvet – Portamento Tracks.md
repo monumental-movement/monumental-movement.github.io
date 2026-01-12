@@ -13,7 +13,7 @@ title: Green Velvet – Pistes de portamento
 ---
 
 
-Curtis Alan Jones, mieux connu sous le nom de Green Velvet, est un chanteur/producteur de disques/DJ de Chicago.
+Curtis Alan Jones, mieux connu sous le nom de Green Velvet, est un chanteur/producteur de disques/DJ originaire de Chicago.
 
 Également connu sous les noms de Cajmere, Geo Vogt, Half Pint, Curan Stone et Gino Vittori.
 

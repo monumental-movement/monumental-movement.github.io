@@ -31,7 +31,7 @@ Indem wir das Drama und den emotionalen Ausdruck aufgeben, die traditionelle wes
 Stattdessen hat es sich in eine Kunst verwandelt, die es uns ermöglicht, auf „Zeit und Struktur“ selbst zu hören.
 Terry Rileys „In C“, Steve Reichs „Piano Phase“,
 Und Philip Glass‘ „Einstein on the Beach“——
-Sie machten die Wiederholung von Klängen zu einem meditativen und nicht zu einem langweiligen Erlebnis.
+Sie machten die Klangwiederholung zu einem meditativen Erlebnis und nicht zu einem langweiligen Erlebnis.
 
 Schließlich durchdrang diese Philosophie die Welt der elektronischen Musik.
 Im konstanten Rhythmus von TR-808 und 909,
@@ -67,7 +67,7 @@ color: #fff;
 ## Kapitel 1: Die Ursprünge der Minimal Music – Terry Riley und Steve Reich
 
 1964 wurde In C von Terry Riley uraufgeführt.
-Dieses Stück hatte eine beispiellose Struktur, bei der die Interpreten 53 kurze Notenmuster frei wiederholten.
+Dieses Stück hatte eine beispiellose Struktur, wobei die Interpreten 53 kurze Notenmuster frei wiederholten.
 Jede Phrase überlagert sich mit einer leichten Verschiebung und erzeugt so einen Klang, der scheinbar endlos anhält.
 Diese „freie Wiederholung“ ist eine Idee, die später zur elektronischen Musik und DJ-Kultur führen sollte.
 
@@ -82,7 +82,7 @@ Diese „freie Wiederholung“ ist eine Idee, die später zur elektronischen Mus
 
 Steve Reichs nächstes Werk, Piano Phase (1967), kontrollierte die „Diskrepanzen“ in der Wiederholung streng.
 Indem zwei Pianisten dieselbe Phrase spielen und einer das Tempo leicht beschleunigt,
-Das Klangmuster verschiebt sich allmählich. Diese „Phasenverschiebung“ ist es
+Das Klangmuster verschiebt sich allmählich. Diese „Phasenverschiebung“ ist was
 Es sah die Ästhetik von Loop-Strukturen im späteren Techno voraus.
 
 ---
@@ -110,7 +110,7 @@ Beispielsweise lässt sich der Einfluss von Grass‘ „anhaltendem Rhythmus“ 
 
 ### Detroiter geometrischer Minimalismus
 **Minimal Techno** wurde von Derrick May, Jeff Mills, Robert Hood und anderen kreiert.
-Es handelte sich um ein „mentales Konstrukt“, das auf der Abstraktion des Rhythmus basierte.
+Es war ein „mentales Konstrukt“, das auf rhythmischer Abstraktion basierte.
 Robert Hoods „Minimal Nation“ (1994) wird von der TR-909 Drum Machine gespielt.
 Aus minimalen Mustern extreme Spannung erzeugen.
 
@@ -134,7 +134,7 @@ Durch die Wiederholung und den Nachhall niedriger Frequenzen entstand ein akusti
 
 Brian Enos Musik für Flughäfen (1978)
 Es ist nicht nur der Vater der Ambient-Musik, sondern auch der Ursprung des „statischen Minimalismus“.
-Die zufällige Überlappung von Loop-Tapes erweiterte die auditive Zeitachse.
+Die zufällige Überlappung von Looptapes erweiterte die auditive Zeitlinie.
 
 Später, in Radioheads „Everything in Its Right Place“ (2000),
 Sich wiederholende Synthesizer und Gesangsloops verleihen der Popmusik ein Reichsches Phasengefühl.
@@ -166,11 +166,11 @@ Der akustische Raum wurde als „digitaler Minimalismus“ präsentiert.
 
 | Künstler | Hauptwerke | Funktionen |
 |------|------------|------|
-| Isao Tomita | 《Mondlicht》《Planet》 | Elektronische klassische Musik/akustische Verfeinerung |
+| Isao Tomita | 《Mondlicht》《Planet》 | Elektronische Klassik/akustische Verfeinerung |
 | Ryoji Ikeda | 《Dataplex》《Testmuster》 | Mathematischer/Frequenz-Minimalismus |
 | Alva Noto + Ryuichi Sakamoto | 《Vrion》《Summvs》 | Fusion von Elektroakustik und Klavier |
 | Rei Harakami | 《Red Curb》《lust》 | Warme Wiederholung der Lo-Fi-Elektronik |
-| Asa-Chang & Pilgerfahrt | 《Blumen》 | Schnittstelle zwischen Minimalismus und menschlicher Stimme |
+| Asa-Chang & Pilgerreise | 《Blumen》 | Schnittstelle zwischen Minimalismus und menschlicher Stimme |
 
 ---
 

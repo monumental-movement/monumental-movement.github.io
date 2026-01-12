@@ -10,11 +10,11 @@ tags:
 - Electroclash
 - Electro House
 - 00s
-title: 마약 펑크 - 마약 펑크
+title: The Drug Punks – Drug Punk
 ---
 
 
-"Drug/Punk"는 영국 레이블 City Rockers가 2002년에 발매한 Electroclash, Electro House 트랙입니다. 프로듀서: JJ Clam, The Wurlitzer.
+「Drug / Punk」は、UKのレーベルCity Rockersから2002年にリリースされたElectroclash, Electro Houseトラック。プロデューサーは、JJ Clam, The Wurlitzer。
 
 
 #### 트랙리스트

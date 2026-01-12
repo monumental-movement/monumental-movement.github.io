@@ -142,7 +142,7 @@ B3. Transcendastral Voyage
 Features: Ein Werk des amerikanischen Jazz-Perkussionisten und Produzenten Stephen Reed.
 
 
-Charme: Spirituelle Musik, die Elemente des Jazz einbezieht und Ihnen das Gefühl gibt, eins mit der Natur zu sein.
+Charme: Spirituelle Musik, die Jazzelemente einbezieht, dieses Werk lässt Sie eins mit der Natur werden.
 
 
 #### Trackliste
@@ -169,7 +169,7 @@ Charme: Spirituelle Musik, die Elemente des Jazz einbezieht und Ihnen das Gefüh
 <br>
 
 
-### Tony O’Connor – Hidden Forest
+### Tony O'Connor – Verborgener Wald
 <a href="https://jp.mercari.com/item/m61126062656?afid=6142608987"><img src="../assets/images/Tony%20OConnor%20%E2%80%93%20Hidden%20Forest.webp"></a>
 
 Features: Eine Doppel-LP aus dem Jahr 1996 des australischen Ambient-/Entspannungsmusik-Schöpfers Tony O'Connor.

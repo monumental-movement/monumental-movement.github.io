@@ -16,7 +16,7 @@ title: 스티비 원더 – 파트타임 연인
 
 "Part-Time Lover"는 R&B 싱어송라이터 Stevie Wonder의 20번째 정규 앨범 In Square Circle(1985)의 첫 번째 싱글로 발매되었습니다.
 
-이 노래는 빌보드 핫 100, R&B, 댄스, 어덜트 컨템포러리 차트에서 1위를 차지하며 스티비 원더의 마지막 1위 히트곡이 되었습니다.
+이 노래는 빌보드 핫 100, R&B, 댄스, 어덜트 컨템포러리 차트에서 1위에 올랐으며 스티비 원더의 마지막 1위 히트곡이 되었습니다.
 
 이 노래에는 R&B 가수 Luther Vandross의 애드립과 백 보컬이 포함되어 있으며 Earth, Wind and Fire의 Syreeta Wright와 Philip Bailey가 피처링으로 참여했습니다.
 

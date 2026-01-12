@@ -20,7 +20,7 @@ title: '[Kolumne] Vier Deutschland, vier Technos – Wandhall und minimalistisch
 Text: mmr | Thema: Wenn Sie Deutschland anhand der Einteilung in vier Metropolregionen betrachten, werden Sie feststellen, dass Techno nicht nur Musik ist, sondern eine „kulturelle Landkarte“, die Erinnerungen an Geographie und Geschichte widerspiegelt.
   
 November 1989. Auf der anderen Seite des bröckelnden Betons holte jemand einen Lautsprecher hervor und gab einen Beat von sich. In diesem Moment begann das Land Deutschland mit dem **rhythmischen Wiederaufbau** vor der „Wiedervereinigung“.
-Verlassene Fabriken, leere Lagerhallen, unterirdische Tunnel – die dort fließenden Geräusche sind keine Kopien der britischen und amerikanischen Geräusche. **„Hergestellt nach der Mauer“**. Es war keine Musik zum Überschreiten von Grenzen, sondern Musik, die am Ort der Grenzen entstand.
+Verlassene Fabriken, leere Lagerhallen, unterirdische Tunnel – die dort fließenden Geräusche sind keine Kopien der britischen und amerikanischen Geräusche. **„Hergestellt nach der Mauer“**. Es war keine Musik zum Überschreiten von Grenzen, sondern Musik, die an der Stelle der Grenze entstand.
 
 ---
 
@@ -55,7 +55,7 @@ Berlins Techno war sowohl eine Bewunderung für Detroit als auch ein Stadterneue
 ### 1-2. Die Geburt des Minimalismus und der „Ästhetik des Bauens“
 
 Basiskanal, Kettenreaktion, Raster-Noton.
-Gestalten Sie den Klang, bauen Sie ihn auf und dominieren Sie den Raum. Der Berliner Minimalismus, der den Reichtum des „Nichts“ betrachtet, steht im Einklang mit den Ideen von Architektur und Design.
+Gestalten Sie den Klang, bauen Sie ihn auf und dominieren Sie den Raum. Der Berliner Minimalismus, der den Reichtum des „Nichts“ in den Blick nimmt, steht im Einklang mit den Ideen von Architektur und Design.
 Für die Akustik sorgen nicht die Wände, sondern die **Luftstruktur**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oC21EzpdnFQ?si=NoFYMbnwAXwUHE68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -140,7 +140,7 @@ Techno war ein Gebet, ein weiterer Herzschlag, der hinter der Wirtschaft schlug.
 
 ## Kapitel 4 Hamburg-Leipzig: Widerstand von der Grenze
 
-### 4-1. Hamburg, die Experimentalstadt des Nordens
+### 4-1. Hamburg, die Experimentierstadt des Nordens
 
 Dial Records, Pantha du Prince, Lawrence.
 Northern Techno ist voller **Einsamkeit und Poesie**.

@@ -15,7 +15,7 @@ title: 사이코 카우보이스 - 컴 온 베이비
 ---
 
 
-Psycho Cowboys(Hedfu_k라고도 함)는 영국 기반 프로듀서/작곡가 Aaron Gilbert와 런던 출신 일렉트로닉 DJ/프로듀서 Stretch Silvester(일명 Stuart Collins)의 프로젝트입니다.
+Psycho Cowboys(일명 Hedfu_k)는 영국 기반 프로듀서/작곡가 Aaron Gilbert와 런던 출신 일렉트로닉 DJ/프로듀서 Stretch Silvester(일명 Stuart Collins)의 프로젝트입니다.
 
 
 이 음반은 런던의 독립 음반사인 Wall Of Sound가 1999년에 발표한 Breaks/Big Beat 트랙입니다.

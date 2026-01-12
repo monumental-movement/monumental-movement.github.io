@@ -27,7 +27,7 @@ Das Hörerlebnis auf Spotify und Apple Music wird je nach Stimmung, Zeit und Anl
 „An einem regnerischen Tag hören“, „Track um 2 Uhr morgens“, „Morgen mit Kaffee“ – diese Listentitel weisen auf einen neuen Wert hin: „Kontext über Genre“.
 Über Musik spricht man nicht danach, woraus sie besteht, sondern danach, wie sie mitschwingt bzw. zu Situationen passt.
 
-Im Zentrum dieser Veränderung stehen KI, Nostalgie und die eigenen Erinnerungen der Zuhörer.
+Im Zentrum dieser Veränderung stehen KI, Nostalgie und das eigene „Gedächtnis“ des Hörers.
 
 ---
 
@@ -53,7 +53,7 @@ Das „Schaffen“ von Musik ist keine Spezialkompetenz mehr, sondern hat sich z
 
 #### KI „macht Geräusche“, Menschen „wählen Bedeutungen“
 
-Der Electronica-Künstler Arca beispielsweise behandelt KI-Sound als Material und kombiniert ihn mit seiner eigenen echten Stimme. Was sie macht, ist „Kontextdesign, das fragt, warum man sich für eine der unzähligen Möglichkeiten der KI entscheiden sollte.“
+Der Electronica-Künstler Arca nutzt beispielsweise KI-Sound als Material und kombiniert ihn mit seiner eigenen echten Stimme. Was sie macht, ist „Kontextdesign, das fragt, warum man sich für eine der unzähligen Möglichkeiten der KI entscheiden sollte.“
 同様に、UK発のJames BlakeはAIを「共作者」として扱いながら、“人間の脆さ”をテーマにアルバム[『Playing Robots Into Heaven』（2024）](https://amzn.to/3L1hE6D)を構築した。
 
 Diese Beispiele zeigen, dass KI immer weniger zu einem „Klangerzeuger“ wird, sondern eher zu einem „Spiegel, der hervorhebt, was Menschen wählen“.
@@ -64,7 +64,7 @@ Gerade weil die Werkzeuge allen offen stehen, wird die kontextuelle Macht des Ei
 ### Kapitel 2: Nostalgie und Klangbilder rund um „die Zukunft der Vergangenheit“
 
 Der „2000er-Jahre-Rückblick“ sorgt in der Musikszene, insbesondere auf TikTok, für große Wellen.
-Songs von Avril Lavigne und The Killers gehen wieder viral, während junge Künstler die Y2K-Ästhetik neu erfinden.
+Songs von Avril Lavigne und The Killers gehen wieder viral und gleichzeitig erfinden junge Künstler die „Y2K-Ästhetik“ neu.
 
 #### Die Klänge der 2000er Jahre recyceln und neu erfinden
 
@@ -76,7 +76,7 @@ Mit anderen Worten: Wir inszenieren die „Zukunft von damals“ unter Verwendun
 
 #### Auf dem Weg zu „Nostalgie, die das Alter nicht imitiert“
 
-Wichtig hierbei ist die Haltung „Neubearbeitung statt Nachahmung“.
+Wichtig dabei ist die Haltung „Neubearbeitung statt Nachahmung“.
 Wie Playlists wie „Retro-Future Pop“ und „Y2K Wave“ auf Spotify zeigen, bringt die aktuelle Nostalgie die „Klangtextur“ in die Vergangenheit, aber der „Produktionskontext“ ist modern.
 „BRAT“ (2024) von Charli XCX beispielsweise ist ein Beispiel für die Clubkultur der 90er Jahre und beschäftigt sich gleichzeitig mit dem Thema des Selbstbewusstseins nach dem Internet.
 Man kann sagen, dass ihre „Methode, vergangene Klänge in Material umzuwandeln“, ein Sampling der Musikgeschichte selbst ist.
@@ -109,7 +109,7 @@ Die Kultur des Live-Streamings, die sich durch die Corona-Pandemie ausgebreitet 
 
 #### Vom Metaverse zur „Augmented Reality“
 
-Travis Scotts „Utopia Experience“ im Jahr 2024 kombinierte einen realen Veranstaltungsort und eine AR-Projektion, um ein „Live-Raumerlebnis“ für das Publikum zu schaffen.
+Travis Scotts „Utopia Experience“ im Jahr 2024 kombinierte einen realen Veranstaltungsort und eine AR-Projektion, um ein „Live-Erlebnis zu schaffen, das das Publikum räumlich erleben kann“.
 In Japan integrierte Perfume auch die AR-Produktion, um den Fans über ihre Smartphones eine „Alternative-Reality-Bühne“ zu zeigen.
 Der Wert einer Live-Aufführung hat sich dahingehend verlagert, wie sehr man die „Erinnerungen an den Ort“ und „gemeinsame Momente“ gestalten kann.
 
@@ -123,7 +123,7 @@ Dieser Wandel vom „Zuhören“ zum „Mitmachen“ verwandelt Musik in ein „
 
 ### Kapitel 5: Klangtrends – Koexistenz von Stille und Dichte
 
-Auch die Klangtrends selbst verändern sich.
+Auch die Klangtrends selbst ändern sich.
 Charakteristisch für das Jahr 2025 ist das Nebeneinander von Stille (Minimal) und Dichte (Maximum).
 
 #### „Quiet Club“ und „introspektive Electronica“
@@ -175,7 +175,7 @@ Was wir jetzt brauchen, ist--
 
 - Es geht nicht darum, um welches Genre es sich handelt, sondern darum, welche Art von Moment es erzeugt.
 
-- Anstatt die Technologie voranzutreiben, geht es vielmehr um die Frage, wie die emotionale Resonanz aktualisiert werden kann.
+- Wie aktualisieren wir die emotionale Resonanz statt der technologischen Entwicklung?
 
 Die Musik des Jahres 2025 stellt uns alle diese Frage.
 Und die Antwort ist nicht KI oder Algorithmen.

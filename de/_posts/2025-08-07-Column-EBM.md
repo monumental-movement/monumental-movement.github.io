@@ -205,7 +205,7 @@ Diese Künstler sind von EBM beeinflusst, kombinieren es jedoch mit Elementen wi
 <hr>
 
 ### Ästhetik, die physischen Körper und Elektronik vereint
-Wie der Name schon sagt, handelt es sich bei EBM um „elektronische Körpermusik“. Es war mehr als nur Tanzmusik, es war eine umfassende Ausdrucksform: politisch, mechanisch, körperlich und rebellisch.
+Wie der Name schon sagt, handelt es sich bei EBM um „elektronische Körpermusik“. Es war mehr als nur Tanzmusik, es war eine umfassende Ausdrucksform, die politisch, mechanisch, körperlich und rebellisch war.
 
 Derzeit breitet sich der Einfluss von EBM auf viele Bereiche aus, von Clubkultur und Festivals bis hin zur DIY-Szene, Kunst und Mode.
 

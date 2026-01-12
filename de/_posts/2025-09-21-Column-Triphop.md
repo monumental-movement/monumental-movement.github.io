@@ -20,7 +20,7 @@ title: '[Kolumne] Tiefer Einblick in Trip Hop: Massive Attack / Portishead / DJ 
 
 Text: mmr｜Thema: Trip Hop (abstrakter Hip Hop) Empfohlene Werke nach Epoche, Anekdoten und Legenden aus der Branche
 
-Trip-Hop (abstrakter Hip-Hop) ist ein Genre, das Sampling-/Turntable-Kultur mit filmischer Klangsensibilität verbindet. Hier werden wir uns mit den vier Gruppen **Massive Attack, Portishead, DJ Shadow und DJ Krush** befassen, einschließlich ihrer empfohlenen Werke nach Epoche sowie Anekdoten und Legenden, die vor Ort erzählt werden.
+Trip Hop (abstrakter Hip Hop) ist ein Genre, das Sampling-/Turntable-Kultur mit filmischer Klangsensibilität verbindet. Hier werden wir uns mit den vier Gruppen **Massive Attack, Portishead, DJ Shadow und DJ Krush** befassen, einschließlich ihrer empfohlenen Werke nach Jahrzehnten sowie Anekdoten und Legenden, die auf diesem Gebiet erzählt werden.
 
 ---
 
@@ -50,7 +50,7 @@ Trip Hop ist mehr als nur ein Musikgenre, es hat sich auf die Welt der **Soundtr
 
 ---
 
-### Die Genealogie des Trip Hop
+### Trip-Hop-Genealogie
 
 <div class="mermaid">
 flowchart TD
@@ -109,7 +109,7 @@ Abgeleitet vom Bristol-Soundsystem „Wild Bunch“. 3D (Robert Del Naja) ist au
 
 #### Produktionstechnik
 
-Statt eines Plattenspielers „verwandelt er das Studio in ein Instrument“ und vermischt Samples und Live-Auftritte. Zeichnet sich durch tiefe Bässe und Dub-artige räumliche Verarbeitung aus.
+Anstelle eines Plattenspielers „verwandelt er das Studio in ein Instrument“ und vermischt Samples und Live-Auftritte. Zeichnet sich durch tiefe Bässe und Dub-artige räumliche Verarbeitung aus.
 
 #### Video funktioniert
 

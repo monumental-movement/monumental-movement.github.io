@@ -277,7 +277,7 @@ Seit den 2000er Jahren spielen Musikspiele wie **Guitar Hero** und **Rock Band**
 | GuitarFreaks 4. (2001) | Feuer | Mutsuhiko Izumi | Royal Road Rockriff |
 | DrumMania 7. (2002) | Die wenigsten 100 Sekunden | BEMANI Sound Team | Progressiver Rock x Hardrock-Stil |
 | GF/DM V-Serie (2005~) | MODELL DD-Serie | Mutsuhiko Izumi | Legendär als schwieriges Gitarrenstück |
-| GF/DM V4 (2007) | TAGTRAUM | Mutsuhiko Izumi | Ein Meisterwerk, das die Spieler mit seiner explosiven Gitarre quält |
+| GF/DM V4 (2007) | TAGTRAUM | Mutsuhiko Izumi | Ein Meisterwerk, das Spieler mit seiner explosiven Gitarre quält |
 
 ---
 
@@ -369,7 +369,7 @@ Seit den 2000er Jahren spielen Musikspiele wie **Guitar Hero** und **Rock Band**
 ## Wirkung und Bedeutung
 
 - In Übersee wurde tatsächlich die Bewegung „Guitar Hero“ → Fang an, Gitarre zu spielen“ geboren.
-- In Japan war **GuitarFreaks/DrumMania** der Pionier der Idee des „echten Performance-Feelings“ und legte den Grundstein für die Musikspielkultur.
+- In Japan war **GuitarFreaks/DrumMania** Vorreiter bei der Idee des „echten Performance-Feelings“ und legte den Grundstein für die Musikspielkultur.
 - **Taiko no Tatsujin** konzentriert sich auf Popmusik, aber mit ihren Originalsongs im Hardrock-/Metal-Stil prägten sie jungen Leuten einen gitarrenähnlichen Sound ein.
 - **SOUND VOLTEX** hat einen starken Electro-Ton, integriert aber aktiv Hardrock- und Metal-Elemente, um die „rockartige Wirkung“ einer neuen Generation auszudrücken.
 

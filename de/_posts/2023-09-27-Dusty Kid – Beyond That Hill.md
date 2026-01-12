@@ -14,7 +14,7 @@ title: Dusty Kid – Beyond That Hill
 
 Dusty Kid ist der Pseudonym von Paolo Alberto Lodde, einem italienischen Produzenten und DJ elektronischer Musik.
 
-„Beyond That Hill“ ist ein 2009 von Dusty Kid veröffentlichtes Album. Pulsierende Basslinien, atmosphärische Texturen und komplexe Melodien kombinieren Techno, House und Progressive-Geschmäcker und erschaffen Dusty Kids einzigartiges Weltbild.
+„Beyond That Hill“ ist ein 2009 von Dusty Kid veröffentlichtes Album. Pulsierende Basslinien, atmosphärische Texturen und komplexe Melodien vereinen Techno, House und Progressive-Geschmäcker und erschaffen Dusty Kids einzigartiges Weltbild.
 
 #### Trackliste
 ```md

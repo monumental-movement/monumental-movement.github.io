@@ -11,13 +11,13 @@ tags:
 - Psychedelic Rock
 - Rock
 - 00s
-title: Moé. – Tramage
+title: Moe. – Dither
 ---
 
 
-Moe est un groupe de jam rock américain formé à l'Université de Buffalo en 1989.
+Moe は、1989年にバッファロー大学で結成されたアメリカのジャムロックバンド。
 
-"Dither" est le cinquième album studio de Moe. Il est sorti en 2001 sur le propre label du groupe, Fatboy Records, et présente DJ Logic, Kirk Juhas et les frères Nykw-ILL.
+「Dither」は、moeの5枚目のスタジオアルバム。2001年にバンド自身のレーベルFatboy Recordsからリリースされ、DJ Logic、Kirk Juhas、Nykw-ILL brosが参加している。
 
 
 #### Liste des chansons

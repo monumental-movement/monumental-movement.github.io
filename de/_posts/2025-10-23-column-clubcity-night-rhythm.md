@@ -13,12 +13,12 @@ title: '[Kolumne] Rhythmus der Stadtnacht: Soziologie der Clubkultur'
 ---
 
 
-## Der Moment, in dem die Nacht der Stadt einzuläuten beginnt
+## Der Moment, in dem die Nacht der Stadt zu läuten beginnt
 
 
 Text: mmr｜Thema: Entschlüsselung der Clubkultur, die sich zusammen mit Veränderungen in der sozialen Struktur von Städten entwickelt hat, aus soziologischer, kulturgeschichtlicher und technologischer Perspektive.
 
-Die Stadt ist tagsüber ein Ort zum Arbeiten und gleichzeitig ein Mittel zur Wiedererlangung der Freiheit in der Nacht.
+Die Stadt ist sowohl tagsüber ein Arbeitsplatz als auch nachts ein Mittel zur Wiedererlangung der Freiheit.
 Die Clubkultur ist nur ein weiteres Gesicht der modernen Gesellschaft, die diese „Nachtstadt“ geschaffen hat.
 Nach der Industriellen Revolution, als die Grenzen zwischen Arbeit und Freizeit, Tag und Nacht sowie Ordnung und Abweichung klar abgegrenzt waren, flüchteten die Menschen auf die nächtlichen Straßen und gründeten durch Musik und ihre Körper neue Gemeinschaften.
 

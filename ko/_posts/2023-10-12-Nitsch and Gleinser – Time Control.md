@@ -9,7 +9,7 @@ permalink: /ko/nitsch-and-gleinser-time-control/
 tags:
 - Electro
 - Synth-Pop
-title: Nitsch와 Gleinser – 시간 제어
+title: Nitsch와 Gleinser - 시간 제어
 ---
 
 

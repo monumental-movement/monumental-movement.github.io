@@ -17,7 +17,7 @@ title: Schlachten – gespiegelt
 
 Battles ist eine experimentelle Rockband, die 2002 von Ian Williams, ehemals Don Caballero & Storm & Stress, gegründet wurde.
 
-„Mirrored“ ist Battles‘ Debütalbum, das 2007 von Warp Records veröffentlicht wurde. Battles‘ Meisterwerk, das großes Lob erhielt und unter anderem von prominenten Medien zum besten Album des Jahres 2007 gewählt wurde.
+„Mirrored“ ist Battles‘ Debütalbum, das 2007 von Warp Records veröffentlicht wurde. Battles‘ Meisterwerk, das großes Lob erhielt und unter anderem von berühmten Medien zum besten Album des Jahres 2007 gewählt wurde.
 
 Bei dieser CD handelt es sich um eine japanische Version mit Bonustracks, Aufklebern und Postern.
 

@@ -15,7 +15,7 @@ title: Mylo contre Miami Sound Machine – Docteur Pression
 
 "Doctor Pressure" est une chanson collaborative entre le DJ et producteur écossais Mylo et le groupe pop américain Miami Sound Machine. Cette chanson est sortie en 2005.
 
-"Doctor Pressure" est un remix intelligent du tube "Drop the Pressure" de Mylo et du tube "Dr. Beat" de Miami Sound Machine. Mylo est un artiste de musique électronique connu pour "Drop the Pressure" et Miami Sound Machine est un groupe dirigé par Gloria Estefan, qui a connu une série de succès pop dans les années 1980.
+"Doctor Pressure" est un remix intelligent du hit "Drop the Pressure" de Mylo et du hit "Dr. Beat" de Miami Sound Machine. Mylo est un artiste de musique électronique connu pour "Drop the Pressure" et Miami Sound Machine est un groupe dirigé par Gloria Estefan, qui a connu une série de succès pop dans les années 1980.
 
 
 #### Liste des chansons

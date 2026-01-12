@@ -17,7 +17,7 @@ title: '[Kolumne] Hikashu: Eine grenzüberschreitende Geschichte des Avantgarde-
 
 ## Behandelt kreative Methoden, Mitglieder, Chronologie und Diagramme
 
-Text: mmr | Thema: Eine lange Kolumne von Hikashu, der Ende der 1970er Jahre zu Beginn des Techno/New Wave erschien und Pionier des „japanischen experimentellen Pop“ war. Flugbahn von der Entstehung bis zur Gegenwart
+Text: mmr | Thema: Eine lange Kolumne von Hikashu, der Ende der 1970er Jahre zu Beginn des Techno/New Wave erschien und Pionier des „japanischen experimentellen Pop“ war. Flugbahn von der Gründung bis zur Gegenwart
 
 Hikashu ist eine Gruppe, die in der japanischen Pop-/Rock-Geschichte eine einzigartige Stellung einnimmt.
 Seit ihrem Debüt im Jahr 1978 haben sie Elemente wie **New Wave, Avantgarde-Musik, Musiktheater, Improvisation, elektronische Musik und Volksmusik** frei gekreuzt und dabei ihre einzigartigen Kreationen beibehalten, die „das Konzept des Genres weiterhin aufrütteln“.
@@ -45,7 +45,7 @@ color: #fff;
 
 Hikashus Wurzeln liegen im Underground-Theater, im Avantgarde-Tanz und in der freien Improvisationskultur, die sich in den 1970er Jahren in Tokio verbreitete.
 
-- Koichi Makigami hat Erfahrung mit theatralischen Lautäußerungen und spontanem körperlichen Ausdruck und widmet sich Methoden, die die Stimme als „Instrument“ behandeln.
+- Koichi Makigami hat einen Hintergrund in theatralischen Vokalisationen und improvisierten körperlichen Ausdrucksformen und widmet sich Methoden, die die Stimme als „Instrument“ behandeln.
 - Chojin Mita (Gitarre) erforscht einen klanglichen Ansatz, der Rock und zeitgenössische Musik verbindet
 - Makoto Inoue (Keyboard) beschäftigte sich auch mit elektronischer Musik und Tonbandwerken, was später zu seinem einzigartigen Synthesizerwerk führte.
 
@@ -59,7 +59,7 @@ Dieser vielfältige Hintergrund hat den Grundstein für Hikashu gelegt, nicht nu
 1978 begann das offizielle „Hikashu“.
 Etwa zur gleichen Zeit debütierte YMO in Japan und die Brücke zwischen elektronischer Musik und Popmusik wurde sofort sichtbar. Obwohl Hikashu diesem Trend nahe bleibt, entwickelt er jedoch einen seltsamen Pop, der kaum von der Grammatik des populären Pop abweicht.
 
-Insbesondere die Aufführungen der Jahre 1979 bis 1980 seien mehr als nur ihre Klänge, sondern ihr „Dasein an sich sei avantgardistisch“, und sie hätten folgende Charakteristika:
+Insbesondere die Aufführungen von 1979 bis 1980 seien nicht nur klanglich, sondern „das Sein selbst sei avantgardistisch“ und hätten folgende Charakteristika:
 
 - **Absurder Text**
 - **Auch akustische Stimmmanipulation** (harmonischer Gesang, Ausatmungsmodulation, bedeutungslose Silben)
@@ -89,7 +89,7 @@ Es ist der Beginn eines Bruchs mit dem Genre und kann nicht als sogenannter „N
 # 4. Ausweitung der Aktivitäten von Koichi Makigami (Ende der 1980er – 1990er Jahre)
 – Zu Techno, Volksmusik, Theremin und darstellender Kunst
 
-Parallel zu den Aktivitäten der Gruppe erweitert Leiter Koichi Makigami den Umfang seiner Aktivitäten mit einem Schwerpunkt auf der **Erweiterung der Stimme**.
+Parallel zu den Gruppenaktivitäten erweitert Leiter Koichi Makigami den Umfang seiner Aktivitäten mit einem Schwerpunkt auf der **Erweiterung der Stimme**.
 
 - Weitere Erforschung des Obertongesangs
 - Zusammenarbeit mit zeitgenössischem Tanz
@@ -124,7 +124,7 @@ Hikashu ist bis in die 2020er Jahre hinein aktiv und obwohl es sich um eine lang
 - Neuinterpretation von Stimme und Körper
 - Einführung ethnischer Instrumente
 - Abstraktes Werk mit minimalem Ensemble
-– Ein Live-Arrangement, das Lieder aus der Vergangenheit mutig rekonstruiert.
+– Ein Live-Arrangement, das Lieder aus vergangenen Zeiten kühn rekonstruiert.
 
 Hikashus Stil, mit früheren Werken „neu zu experimentieren“, anstatt „berühmte Lieder aus der Vergangenheit zu reproduzieren“, ist einzigartig in Hikashu.
 
@@ -148,7 +148,7 @@ Dabei handelt es sich nicht nur um Gesang, sondern um eine Erkundung der Stimme 
 Im Anfangsstadium stechen die neuen wellenartigen stoischen Beats hervor, ab der Mitte nehmen jedoch komplexe Ensembles mit mehreren gleichzeitig existierenden Beats zu.
 
 ### ■ 3. „Struktureller Humor“ statt „Absurdität“
-Hikashus Texte und Produktion mögen bizarr erscheinen, aber viele von ihnen sind äußerst präzise strukturiert.
+Hikashus Texte und Darbietungen mögen bizarr erscheinen, viele von ihnen sind jedoch äußerst präzise strukturiert.
 Nonsense ist kein „Denkstopp-Gag“, sondern ein Mittel, um die Grenze zwischen Sprache und Klang zu erschüttern.
 
 ### ■ 4. Theremin und elektronische Akustik

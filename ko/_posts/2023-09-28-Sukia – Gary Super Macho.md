@@ -9,7 +9,7 @@ permalink: /ko/sukia-gary-super-macho/
 tags:
 - Hiphop
 - Triphop
-title: 수키아 – 게리 슈퍼마초
+title: 수키아 – 게리 슈퍼 마초
 ---
 
 

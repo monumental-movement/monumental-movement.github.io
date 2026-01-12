@@ -22,7 +22,7 @@ Armand Van Helden ist ein DJ, Plattenproduzent, Remixer und Songwriter aus Bosto
 
 Er wurde am 16. Februar 1970 als Sohn eines Vaters niederländischer und indonesischer Abstammung und einer Mutter französischer und libanesischer Abstammung geboren.
 
-Da sein Vater bei der US-Luftwaffe war, verbrachte er seine Kindheit damit, um die Welt zu reisen, unter anderem in die Niederlande, Lettland, die Türkei und Italien.
+Da sein Vater bei der US-Luftwaffe war, verbrachte er seine Kindheit damit, um die Welt zu reisen, unter anderem in den Niederlanden, Lettland, der Türkei und Italien.
 
 Mit 13 Jahren kaufte er sich einen Drumcomputer und begann zwei Jahre später mit dem DJing.
 

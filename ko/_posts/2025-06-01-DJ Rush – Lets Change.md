@@ -16,7 +16,7 @@ title: DJ Rush – 변화하자
 
 DJ Rush로도 알려진 Isaiah Major는 시카고 출신이며 독일에 거주하는 테크노 및 하우스 DJ이자 프로듀서입니다. 그는 또한 Major Rush와 Russian Roulette라는 이름으로 활동하고 있습니다.
 
-"Let's Change"는 전 Spiral Tribe 멤버 Charlie Hall의 레이블 Pro-Jex가 2003년에 발매한 테크노 트랙입니다.
+"Let's Change"는 전 Spiral Tribe 멤버 Charlie Hall의 레이블 Pro-Jex가 2003년에 발표한 테크노 트랙입니다.
 
 #### 트랙리스트
 ```md

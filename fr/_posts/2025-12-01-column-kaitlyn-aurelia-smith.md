@@ -19,9 +19,9 @@ title: '[Chronique] Kaitlyn Aurelia Smith — Les échos de la « vie électriqu
 
 Texte : mmr｜Thème : À propos de son éducation et de son parcours, des changements dans son travail et son son, et de la « philosophie du son » à travers Buchla
 
-Dans le monde de la musique électronique et des synthés modulaires, les synthés sont souvent traités comme des symboles de « machines ». Pourtant, son son bouleverse ces a priori. Le son est chaud et riche, comme si « vous pouviez sentir un être vivant ou une respiration organique au plus profond des câbles et des boutons d'un synthétiseur modulaire ».
+Dans le monde de la musique électronique et des synthés modulaires, les synthés sont souvent traités comme des symboles de « machines ». Pourtant, son son bouleverse ces a priori. Le son est chaud et riche, comme si « vous pouviez sentir un être vivant ou un souffle organique au plus profond des câbles et des boutons d'un synthétiseur modulaire ».
 
-En choisissant du matériel vintage ou modulaire, notamment du matériel modulaire de style Buchla, elle crée un écosystème sonore par « accidentalité », « instabilité », « manuelité », ou encore « vibrations électriques et résonance avec le corps », plutôt que de simples sons de synthèse.
+En choisissant du matériel vintage ou modulaire, notamment du matériel modulaire de style Buchla, elle crée un écosystème sonore par « accidentalité », « instabilité », « manuelité », ou « vibrations électriques et résonance avec le corps », plutôt que de simples sons de synthèse.
 
 En mêlant soigneusement les voix, les instruments live, les enregistrements sur le terrain, la nature et la physicalité, il élève le modulaire d'une « machine froide » à un « vaisseau sonore vivant ». Les amateurs de synthés modulaires et de style Buchla seront fortement attirés par cette attitude.
 
@@ -50,7 +50,7 @@ Sa ville natale est Orcas Island, dans l'État de Washington, au nord-ouest des 
 
 La brise de l'île, le bruissement du vent dans les arbres, le chant des oiseaux, les ondulations de l'eau... ces sensations naturelles et ces sons environnementaux ont été inculqués dans ses oreilles et son corps au fur et à mesure qu'elle grandissait.
 
-Parallèlement, il est exposé dès son plus jeune âge aux instruments traditionnels tels que le piano et la guitare et s'essaye à la composition musicale, développant ainsi son sens de la tonalité et de la musique. Cet environnement de « nature x instruments traditionnels x apprentissage indépendant » est devenu la base du passage ultérieur au module.
+Parallèlement, il est exposé dès son plus jeune âge aux instruments traditionnels tels que le piano et la guitare et s'essaye à la composition musicale, développant ainsi son sens de la hauteur et de la musique. Cet environnement de « nature x instruments traditionnels x apprentissage indépendant » est devenu la base du passage ultérieur au module.
 
 Ces expériences lui ont fourni les axes du « naturel », de la « spatialité » et de la « physicalité » alors qu'elle s'est ensuite tournée vers la musique électronique/modulaire.
 
@@ -60,9 +60,9 @@ Ces expériences lui ont fourni les axes du « naturel », de la « spatialité 
 
 En grandissant, elle a étudié la composition et la théorie du son dans un établissement d'enseignement musical aux États-Unis, tout en étant active dans un duo folk utilisant la guitare, le chant et le piano.
 
-Cependant, après avoir quitté le cadre de ses années d'étudiant et être retourné dans sa ville natale, un changement inattendu se produit : il rencontre une Buchla 100 que lui a prêtée un voisin. Lorsqu'elle a acheté pour la première fois un synthétiseur modulaire, elle ne l'a pas vu comme un « outil fragile », mais comme une « co-star », « un être vivant » et « un corps électrique ».
+Cependant, après avoir quitté le cadre de ses années d'étudiant et être retourné dans sa ville natale, un changement inattendu se produit : il rencontre une Buchla 100 que lui a prêtée un voisin. Lorsqu’elle a acheté pour la première fois un synthétiseur modulaire, elle ne l’a pas vu comme un « outil fragile », mais comme une « co-star », « un être vivant » et « un corps électrique ».
 
-L'instabilité, le patch manuel et les changements sonores imprévisibles de Buchla - à travers une telle contingence et instabilité, elle choisit de faire ressortir le « son vivant », la « vibration », « l'espace » et la « physique » du synthé.
+L'instabilité de Buchla, les patchs manuels et les changements sonores imprévisibles - à travers une telle contingence et instabilité, elle choisit de faire ressortir le « son vivant », la « vibration », « l'espace » et la « physique » du synthé.
 
 Cette transformation est à la base de toutes ses œuvres ultérieures.
 
@@ -74,7 +74,7 @@ Cette transformation est à la base de toutes ses œuvres ultérieures.
 
 Ses premiers travaux comprenaient des morceaux folk et expérimentaux autoproduits. Cependant, ce n'est que lorsqu'il a commencé à enregistrer avec le Buchla Music Easel qu'il a commencé à explorer sérieusement la musique modulaire/électronique.
 
-Cet enregistrement a ensuite été publié sous la forme de Tides : Music for Meditation and Yoga. Carillons éoliens, bruissements d'arbres, chants d'oiseaux, bruits d'eau, petits bruits naturels - cette œuvre combine des sons environnementaux/enregistrements sur le terrain avec des formes d'onde électroniques modulaires.
+Cet enregistrement a ensuite été publié sous forme d'œuvre intitulée Tides: Music for Meditation and Yoga. Carillons éoliens, bruissements d'arbres, chants d'oiseaux, bruits d'eau, petits bruits naturels - cette œuvre combine des sons environnementaux/enregistrements sur le terrain avec des formes d'onde électroniques modulaires.
 
 À ce stade, cela n’a pas encore fait sensation. Cependant, la direction « modulaire + sons naturels/sons environnementaux + spatialité » était déjà claire et le sentiment sous-jacent de sa musique émergeait.
 

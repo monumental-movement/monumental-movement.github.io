@@ -18,7 +18,7 @@ Die DJ-Karriere von Dave Owens begann in den frühen 2000er Jahren und er hat in
 
 Er war außerdem Resident-DJ im PureFilth in Manchester.
 
-Daves Produktionsarbeit ist für seinen harten Sound bekannt, selbst in der Tanzmusik, und er hat Werke auf den Labels Hard House und NRG veröffentlicht, die die Szene repräsentieren.
+Daves Produktionsarbeit ist für seinen harten Sound in der Tanzmusik bekannt und er hat Werke auf den Hard House- und NRG-Labels veröffentlicht, die die Szene repräsentieren.
 
 Er arbeitet auch eng mit Nick Denton zusammen und hilft bei der Entwicklung von Toolbox Music sowie bei den führenden Unterlabels Toolbox Recordings, Hammerheads und Turtle Dog Digital.
 

@@ -62,7 +62,7 @@ In ihren frühen Werken, die sich auf Noise Rock und Hardcore konzentrieren, kö
 ---
 
 ## 2. Leap (1991–1995): Begegnung mit Albini und internationale Anerkennung
-1991 erreichte Zeni Geva einen großen Wendepunkt. Es ist eine Zusammenarbeit mit dem amerikanischen Ingenieur/Produzenten **Steve Albini**. Aufgrund seiner Aufnahmephilosophie ist Albini für seine Aufnahmemethoden bekannt, die die lebendige Atmosphäre eines Raumes einfangen.
+Im Jahr 1991 erreichte Zeni Geva einen großen Wendepunkt. Es ist eine Zusammenarbeit mit dem amerikanischen Ingenieur/Produzenten **Steve Albini**. Aufgrund seiner Aufnahmephilosophie ist Albini für seine Aufnahmemethoden bekannt, die die lebendige Atmosphäre eines Raumes einfangen.
 
 ### „Totale Kastration (1991)“
 Das erste von Albini aufgenommene Album in voller Länge.
@@ -86,14 +86,14 @@ Es gilt als das Album mit der ausgewogensten Integration von Akustik, Struktur u
 Im Jahr 1996 kam es zu einem Schlagzeugwechsel, Blake Fleming stieß für kurze Zeit zur Band. Später trat **Masataka Fujikake** der Band bei und Zeni Gevas Rhythmen wurden komplexer, schneller und vielschichtiger.
 
 ### Stärkung der strukturellen Musikalität
-In dieser Zeit wurden die Lieder von Zeni Geva länger und strukturierter, darunter auch Lieder mit einer Länge von mehr als 16 Minuten.
+In dieser Zeit wurden die Lieder von Zeni Geva länger und strukturierter, darunter auch Lieder, die länger als 16 Minuten waren.
 - Mehrere Teile divergieren und laufen wieder zusammen
 - Kontrapunktisches Riff mit zwei Gitarren
 - Verstärkter Einsatz elektronischer Geräte wie Nulltron
 
 ### „10.000 Lichtjahre (2001)“
 - Erhöhte elektronische Texturen
-- Vielschichtige Kombination aus Noise/metallischer Gitarre/ungewöhnlicher Taktart/elektronischen Klängen
+- Noise/metallische Gitarre/ungewöhnliche Taktart/elektronische Klänge verflechten sich in mehreren Schichten
 - Zeni Geva als Klangskulptur, anders als in den 1980er-90er Jahren
 
 In dieser Zeit erreichte die Band ihre musikalische Reife, doch gleichzeitig nahmen Nulls Soloaktivitäten und andere Projekte zu und die Zeit zwischen den Veröffentlichungen als Band wurde länger.
@@ -113,7 +113,7 @@ Für Zeni Geva hatte die Hinzufügung von Yoshida erneut einen starken Einfluss.
 
 ---
 
-## 5. Zweite Periode Zeni Geva (2010–): Neubewertung und weltweit erneuerte Aufmerksamkeit
+## 5. Zweite Periode Zeni Geva (2010–): Neubewertung und globale Neuaufmerksamkeit
 ### „Lebendig und aufstrebend (2010)“
 - Live-Soundquelle aus dem Lineup von 2009
 - Tatsuya Yoshidas perverses Schlagzeug und Null & Tabatas Gitarrenduell sind spektakulär
@@ -147,10 +147,10 @@ Zeni Geva erfährt erneut Aufmerksamkeit in der Noise-/Metal-/Hardcore-/Avantgar
 
 ---
 
-## 7. Stellung in der japanischen Untergrundgeschichte
+## 7. Position in der japanischen Untergrundgeschichte
 Zeni Geva ist eine fast einzigartige Band in Japan, die eine Kombination aus „Noise x Hardcore x Metal x experimenteller Musik“ geschaffen hat.
 
-- Lärmkultur der 1980er Jahre (Hijikaidan, Merzbow, YBO2)
+- Lärmkultur der 1980er Jahre (Hijiki Kaidan, Merzbow, YBO2)
 - Internationale Lärmbewegung der 1990er Jahre
 - Experimenteller Klang/Elektroakustik ab den 2000er Jahren
 

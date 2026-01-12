@@ -18,7 +18,7 @@ title: '[Chronique] Rendre votre équipement plus doux : l''impact du ReBirthRB
 ## Introduction : Pourquoi ReBirth était « choquant »
 
 
-Texte : mmr | Thème : Repenser ReBirth non seulement comme « l'innovation en tant qu'outil » mais aussi comme une opportunité de « changement de culture/expression/structure industrielle », de la préhistoire au contexte de développement, aux caractéristiques techniques, aux retombées sur la culture musicale, à la signification industrielle, au tournant et à la fin, et à l'héritage d'aujourd'hui.
+Texte : mmr｜Thème : Repenser ReBirth non seulement comme « l'innovation en tant qu'outil » mais aussi comme une opportunité de « changements dans la culture/expression/structure industrielle », de la préhistoire au contexte de développement, aux caractéristiques techniques, à la propagation à la culture musicale, au sens industriel, au tournant et à la fin, et à l'héritage d'aujourd'hui.
 
 À la fin des années 1990, un changement radical se produisait dans les frontières de la production de musique électronique. Alors que la production analogique/basée sur des équipements utilisant des synthétiseurs matériels et des boîtes à rythmes était la norme, un logiciel a bouleversé cette « normale ». Il s'agit du ReBirthRB‑338 de Propellerhead Software, un fabricant suédois de logiciels/outils de production musicale.
 Ce logiciel offrait la possibilité de « rendre ces équipements légendaires (Roland TB‑303, Roland TR‑808, Roland TR‑909) utilisables sur votre ordinateur personnel ».
@@ -66,10 +66,10 @@ Fondée en Suède en 1994, Propellerhead Software se concentre depuis le début 
 ReBirth a reconstruit deux TB‑303, un TR‑808 dans le logiciel, et a ensuite ajouté le TR‑909 dans la version 2.0.
 
 L'approche choisie par Propellerhead était de « réinterpréter le son, l'opérabilité et l'expérience sur un ordinateur » plutôt que de « copier le matériel tel quel ».
-En d'autres termes, les « équipements » tels que les TB-303 et TR-808/909 se transforment en un « outil logiciel » en réponse aux changements des temps et de l'environnement. On peut dire que cette idée elle-même a bouleversé le style de production traditionnel centré sur la possession d’équipements.
+En d'autres termes, les « équipements » tels que les TB-303 et TR-808/909 se transforment en un « outil logiciel » en réponse aux changements des temps et de l'environnement. On peut dire que cette idée elle-même a bouleversé le style de production traditionnel centré sur la possession d’équipement.
 
 De plus, ReBirth n'était pas seulement un logiciel de source sonore ; il avait le potentiel d'être utile pour l'ensemble du flux de production, comme les fonctions de commutation séquenceur/motif, l'entrée/sortie MIDI et la synchronisation avec d'autres logiciels (plus tard compatible ReWire).
-De cette manière, l'apparition de ReBirth est devenue un exemple de « reconstruction d'équipement à l'aide de logiciels » et a servi d'opportunité d'élargir considérablement « l'entrée » à la production de musique électronique.
+De cette manière, l'apparition de ReBirth est devenue un cas modèle pour « reconstruire des équipements à l'aide de logiciels » et a servi d'opportunité d'élargir considérablement « l'entrée » à la production de musique électronique.
 
 ---
 
@@ -108,7 +108,7 @@ Le son du TB-303 était un élément symbolique du genre acid house/acid techno,
 Cela a remis en question l'idée préconçue selon laquelle « propriété du matériel = style de production » et a servi d'opportunité d'élargir la base de créateurs.
 
 ### Expansion de la « Production de chambres »
-ReBirth est devenu une « porte d'entrée » pour les créateurs/producteurs qui ne disposent pas du matériel nécessaire. Le concept de « production domestique/individuelle » est devenu plus concret à mesure que l'environnement est devenu une réalité où n'importe qui peut commencer à produire à condition de disposer d'un ordinateur. Cela conduira plus tard à la diffusion des DAW (stations de travail audio numériques) et des environnements de production basés sur des plug-ins logiciels.
+ReBirth est devenu une « porte d'entrée » pour les créateurs/producteurs qui ne disposent pas du matériel nécessaire. Le concept de « production domestique/individuelle » est devenu plus concret à mesure que l'environnement est devenu une réalité où n'importe qui peut commencer à produire à condition de disposer d'un ordinateur. Cela a ensuite conduit à la diffusion des DAW (stations de travail audio numériques) et des environnements de production basés sur des plug-ins logiciels.
 En outre, des activités telles que la modification par l'utilisateur (mods), l'échange de modèles et le partage communautaire ont prospéré, et une culture non seulement « d'utilisation d'outils », mais également de « modification et partage d'outils/de sons » s'est développée. Cet esprit DIY a enrichi l’écosystème créatif de la musique électronique.
 
 ### Diversification des genres musicaux/conception sonore
@@ -117,8 +117,8 @@ De cette manière, ReBirth a apporté des changements dans la scène de producti
 
 ---
 
-## Changements dans l'industrie/logiciel/écosystème (ReWire/VST/pluginisation)
-L’introduction de ReBirth n’a pas seulement été le succès d’un seul synthétiseur logiciel, mais a également provoqué un changement structurel dans l’environnement de production musicale lui-même.
+## Changements dans l'industrie, les logiciels et les écosystèmes (ReWire, VST, plug-ins)
+L’introduction de ReBirth n’est pas seulement le succès d’un seul synthétiseur logiciel, mais elle a également provoqué un changement structurel dans l’environnement de production musicale lui-même.
 
 ### « Modularisation » et coordination des outils de production
 ReBirth n'était pas seulement complet en tant que logiciel autonome, mais possédait également des « fonctions de liaison » telles que la compatibilité MIDI, la liaison séquenceur et la synchronisation avec d'autres logiciels utilisant le dernier protocole ReWire. Par exemple, ReWire est une technologie qui permet d'échanger de l'audio/MIDI entre plusieurs applications et fait preuve de ce type d'extensibilité depuis l'époque de ReBirth.
@@ -130,8 +130,8 @@ De la fin des années 1990 aux années 2000, les formats de plug-ins tels que VS
 Ces changements industriels ont également marqué un tournant où les logiciels de production musicale ont été positionnés comme « égaux, voire meilleurs, que l'équipement ». En conséquence, le marché des instruments et effets logiciels s'est développé et de nombreuses entreprises sont entrées sur le marché.
 
 ### Restructuration du processus de production/workflow
-Plus important encore, le flux de production lui-même a changé. Dans le passé, le flux principal consistait à « rassembler l'équipement, à le configurer et à jouer/enregistrer », mais après ReBirth, un flux « entièrement exécuté au sein de l'ordinateur » est devenu une réalité : « Démarrez le logiciel, créez un motif, synchronisez le MIDI et l'audio, et sortez. »
-Ce changement était particulièrement significatif dans le contexte du « studio maison/personnel ». En créant un environnement dans lequel l'espace, l'équipement et les efforts peuvent être économisés dans une certaine mesure, l'éventail des créateurs s'est élargi.
+Plus important encore, le flux de production lui-même a changé. Dans le passé, le flux principal consistait à « rassembler l'équipement, à le configurer et à jouer/enregistrer », mais après ReBirth, un flux « entièrement exécuté au sein de l'ordinateur » est devenu une réalité : « Démarrez le logiciel, créez un motif, synchronisez le MIDI et l'audio, puis sortez. »
+Ce changement était particulièrement significatif dans le contexte du « studio personnel/maison ». En créant un environnement dans lequel l'espace, l'équipement et les efforts peuvent être économisés dans une certaine mesure, l'éventail des créateurs s'est élargi.
 
 ---
 
@@ -168,7 +168,7 @@ En revenant sur ReBirth, on peut une fois de plus rappeler l'idée selon laquell
 
 ### De la « propriété » à « l'accès », du matériel au logiciel
 Avant ReBirth, on peut dire que le modèle équipement de production = propriété était fort. Avoir le matériel était aussi un statut, et c'était aussi la condition première de l'environnement de production. ReBirth a réécrit cela sous la forme d'un « achat de logiciel » et a créé un contexte dans lequel la « propriété » elle-même devient relativisée.
-Aujourd’hui, les outils d’abonnement/partage cloud/location de musique sont devenus monnaie courante. La porte ouverte par ReBirth peut être considérée comme un « point de départ » dans ce flux.
+Aujourd’hui, les outils d’abonnement/partage dans le cloud/location de musique sont monnaie courante. La porte ouverte par ReBirth peut être considérée comme un « point de départ » dans ce flux.
 
 ### Réévaluer le « goût/habitude » des équipements matériels
 D'un autre côté, à mesure que les logiciels progressent, des éléments ont tendance à se perdre, comme les bizarreries physiques, le bruit, la distorsion et la sensation opérationnelle inhérentes aux équipements matériels. En fait, l'émulation de ReBirth a été critiquée pour ne pas être capable de reproduire pleinement les distorsions et les bizarreries du vrai TB-303.
@@ -201,7 +201,7 @@ Vous trouverez ci-dessous un résumé de la chronologie majeure de ReBirth et de
 ## En conclusion : « Possibilités » montrées par ReBirth et tendances futures en matière de musique/technologie
 Avec le recul, ReBirth était plus qu'un simple « synthétiseur logiciel » ; c'était un événement qui a changé la nature même de la production musicale.
 Il reconsidère le concept de « propriété d'équipement, contraintes physiques et coûts élevés » et présente un nouvel horizon de « création sonore accessible via un logiciel + une opérabilité facile + une base pour les créateurs (PC). »
-Aujourd'hui, nous acceptons l'environnement audio cloud/plugin d'abonnement/mobile comme « tel qu'il est ». Il ne faut cependant pas oublier que derrière cette « normalité », il y avait des « pionniers » comme ReBirth.
+Aujourd'hui, nous acceptons l'environnement audio cloud/plugin d'abonnement/mobile comme « tel qu'il est ». Cependant, il ne faut pas oublier que derrière cette chose « normale », il y avait des « pionniers » comme ReBirth.
 
 En même temps, il y a des choses à réapprendre de ReBirth. Le problème est que, même si la facilité et l’accessibilité des équipements analogiques ont augmenté, leur valeur unique, comme leurs bizarreries, leurs sensations physiques et leur opérabilité, est devenue moins importante. ReBirth est un outil qui incarne cette lacune.
 Et à partir de maintenant, la question « à quel point est-ce facile/à quel point créatif » continuera à se poser. La « porte » présentée par ReBirth n’est pas encore fermée. On peut plutôt dire que c’est l’étincelle qui a ouvert la voie à la prochaine génération et au prochain environnement de production.

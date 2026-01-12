@@ -184,7 +184,7 @@ Assoziierte Künstler: William Basinski, Tim Hecker.
 
 ✦ [Saint Laurent](https://amzn.to/3KlN6we)
 
-Betont Industrial-Rock- und Noise-Elemente.
+Betont industrielle Rock- und Noise-Elemente.
 
 Eine Affinität zu schwarzem Leder und Gebrüll.
 
@@ -249,7 +249,7 @@ Auch im Bereich Noise/experimentelle Musik war der Kontakt zu High-End-Marken wi
 
 ### COMME des GARÇONS / Gucci / Prada
 
-Archiv von Materialien im Zusammenhang mit „Lärm/Experimentalkünstler/Akustik, die tatsächlich in Shows/Kampagnen verwendet wurden (oder über deren Zusammenhang eindeutig berichtet wurde)“
+Materialarchiv von „Lärm/Experimentalkünstler/Akustik, die tatsächlich in Shows/Kampagnen eingesetzt wurden (oder über deren Zusammenhang klar berichtet wurde)“
 
 COMME des GARÇONS – Eine Tradition der Einbindung experimenteller Klänge/Geräusche in „Showmusik“
 
@@ -265,7 +265,7 @@ COMME des GARÇONS – Eine Tradition der Einbindung experimenteller Klänge/Ger
 <iframe width="800" height="450" src="https://www.youtube.com/embed/YW0q4spnnj8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Bemerkenswerte Punkte (kurze Rezension)**
-- Der niederfrequente Dröhn, der erklingt, während der Veranstaltungsort dunkel wird, verstärkt die Lautstärke des Schwarzen mit „Sound“ („texturale Synchronisation“ von Kleidung und Sound). Referenz: Offizielles Video.
+- Während der Veranstaltungsort dunkel wird, ertönt ein niederfrequentes Dröhnen, das die Lautstärke des Schwarzen mit „Sound“ („texturale Synchronisation“ von Kleidung und Sound) verstärkt. Referenz: Offizielles Video.
 
 ---
 
@@ -309,7 +309,7 @@ COMME des GARÇONS – Eine Tradition der Einbindung experimenteller Klänge/Ger
 
 ---
 
-### Balenciaga / Rick Owens / Alexander McQueen / Louis Vuitton / Dior (jedes Video + verwandte Künstler)
+### Balenciaga / Rick Owens / Alexander McQueen / Louis Vuitton / Dior (jedes Video + zugehöriger Künstler)
 
 | Marke | Repräsentatives Video | Ausgewählter Künstler (Bericht/Kredit) |
 | ------------------- | -------------------- |------------------------- |

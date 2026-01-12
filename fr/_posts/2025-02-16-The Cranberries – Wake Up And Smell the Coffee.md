@@ -14,7 +14,7 @@ title: Les canneberges – Réveillez-vous et sentez le café
 ---
 
 
-The Cranberries est un groupe de rock alternatif irlandais formé en 1989. Leur style se caractérise par l'incorporation d'éléments de rock indépendant, de jungle pop, de dream pop, de folk rock, de post-punk et de pop rock.
+The Cranberries est un groupe de rock alternatif irlandais formé en 1989. Leur style se caractérise par l'incorporation d'éléments d'indie rock, de jungle pop, de dream pop, de folk rock, de post-punk et de pop rock.
 
 "Réveillez-vous et sentez le café" est le cinquième album studio des Cranberries, sorti en 2001, et leur dernier album avant une interruption de six ans. C'est devenu un énorme succès partout dans le monde.
 

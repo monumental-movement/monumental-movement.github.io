@@ -191,7 +191,7 @@ LSD = Ein „Höhepunkt des harten Minimalismus“, zusammengestellt von drei Me
 
 #### Soloname Luke Slater
 
-Unter seinem Solonamen ist er für eine breite Palette an Werken bekannt, die Techno, Elektro und Breakbeat umfassen.
+Unter seinem Solonamen ist er für eine breite Palette von Werken bekannt, die Techno, Elektro und Breakbeat umfassen.
 
 **Merkmale**
 
@@ -203,7 +203,7 @@ Unter seinem Solonamen ist er für eine breite Palette an Werken bekannt, die Te
 
 **Position**
 
-Slater gilt als flexibler, szeneübergreifender Künstler, der die Härte des Techno mit einer Pop-Sensibilität verbindet.
+Slater gilt als flexibler Künstler, der die Szene durchquert und die Härte des Techno mit einer Pop-Sensibilität in Einklang bringt.
 Es legte den Grundstein für spätere Pseudonyme wie Planetary Assault Systems und The 7th Plain.
 
 ---

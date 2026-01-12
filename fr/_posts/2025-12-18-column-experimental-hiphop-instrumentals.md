@@ -70,6 +70,10 @@ Dans la production hip-hop traditionnelle, les boucles de deux à huit mesures c
 
 ## Pratiques de production de Madlib
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMkGcEGW4U4?si=QLXLfNXsUYZPG0OW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 La production de Madlib se caractérise par une méthode d'improvisation centrée autour de samplers matériels. Lors de la production à l'aide de la série SP, la manipulation physique prime sur l'édition visuelle, laissant intacts les décalages et les fluctuations des échantillons dans la musique.
 
 * Les échantillons sont sélectionnés dans le but de préserver le son original.
@@ -85,10 +89,14 @@ flowchart LR
     C --> D["短尺ビート"]
 </div>
 
-
 ---
 
+
 ## Pratiques de production de connaissances
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yK91vjg2Hsg?si=r18TMv3pzhtatHbh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 Knxwledge est basé sur un DAW et propose des boucles extrêmement courtes et une édition isolée. L'opération de placement sur la timeline visuelle sert à séparer le sens du rythme des chiffres.
 
@@ -105,8 +113,8 @@ flowchart LR
     C --> D["断章化"]
 </div>
 
-
 ---
+
 
 ## Décomposition des techniques d'échantillonnage
 
@@ -145,7 +153,7 @@ La structure, dans laquelle de nombreuses pièces courtes sont disposées succes
 
 ## Intersection avec d'autres genres
 
-L'instrumental expérimental s'identifie au hip-hop par la présence d'un rythme, tout en se connectant à l'improvisation ambiante, noise et jazz.
+L'instrument expérimental s'identifie au hip-hop par la présence d'un rythme, tout en se connectant à l'ambiance, au bruit et à l'improvisation jazz.
 
 ---
 

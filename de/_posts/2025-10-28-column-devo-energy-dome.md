@@ -46,7 +46,7 @@ color: #fff;
 
 ## Kapitel 1: Die Idee der De-Evolution
 
-Der Bandname DEVO kommt von „De-Evolution“ – dem paradoxen Konzept, dass „die Menschheit sich nicht weiterentwickelt, sondern eher degeneriert“.
+Der Bandname DEVO kommt von „De-Evolution“ – dem paradoxen Konzept, dass „die Menschheit sich nicht weiterentwickelt, sondern vielmehr degeneriert“.
 Diese Idee entstand als Reaktion auf die Unruhen in Amerika in den späten 1960er bis 1970er Jahren: den Vietnamkrieg, die Umweltverschmutzung und die außer Kontrolle geratene Konsumgesellschaft.
 
 **Mark Mothersbaugh** und **Gerald Casale** aus Akron, Ohio, entwickelten während ihres Kunst- und Politikstudiums „Zweifel am Mythos der Evolution“.
@@ -109,7 +109,7 @@ Dies ähnelt Warhols repetitiver Ästhetik und gilt deshalb als die erste Musikg
 
 ## Kapitel 6: Kostümkultur als Gesellschaftssatire
 
-Energy Dome parodierte mit futuristischen Uniformen den Gehorsam, während ihre Punk-Zeitgenossen mit Sicherheitsnadeln und Leder ihre Rebellion zum Ausdruck brachten.
+Energy Dome parodierte mit futuristischen Uniformen den Gehorsam, während ihre Punk-Zeitgenossen ihre Rebellion mit Sicherheitsnadeln und Leder zum Ausdruck brachten.
 „Gehorsam zu leisten ist die radikalste Form des Widerstands.“ Das war DEVOs paradoxe Botschaft.
 
 Der Aufbau lässt sich leicht in einem Diagramm wie folgt visualisieren:
@@ -151,7 +151,7 @@ In den 2020er Jahren aktualisiert er seine Degenerationstheorie weiter, um NFTs 
 
 ---
 
-## Kapitel 9: DEVOs Flugbahn in Chronologie
+## Kapitel 9: DEVOs Flugbahn in der Chronologie
 
 <div class="mermaid">
 
@@ -195,7 +195,7 @@ Vielmehr wird diese Entscheidung zu einem Mittel zur Wiederherstellung der mensc
 > ─ DEVO, Freedom of Choice (1980)
 
 Energy Dome ist kein Helm, der die Zukunft verschließt.
-**Vielleicht ist es ein Symbol dafür, dass wir wieder die Freiheit haben zu wählen.**
+**Es könnte eine Ikone für uns sein, wieder die Freiheit zu wählen.**
 ---
 
 ## Verwandte Materialien/Referenzen

@@ -43,9 +43,9 @@ color: #fff;
 
 ## 1. Historische Vorgeschichte: Die Schnittstelle von Industrial Music und Techno
 
-Die ab den späten 1970er Jahren entstandene Industriemusik zerstörte bewusst die moderne musikalische Prämisse von Ton, Melodie und Harmonie und behandelte nichtmusikalische Materialien wie Metallklänge, Geräusche, mechanische Klänge und Tonbandschleifen als strukturelle Einheiten. Diese Idee, „das Material selbst in Musik umzuwandeln“, wurde zur Grundlage des späteren Sounddesigns des Industrial Techno.
+Die ab den späten 1970er Jahren entstandene Industriemusik zerstörte bewusst die moderne musikalische Prämisse musikalischer Töne, Melodien und Harmonien und behandelte nichtmusikalische Materialien wie Metallklänge, Geräusche, mechanische Klänge und Tonbandschleifen als strukturelle Einheiten. Diese Idee, „das Material selbst in Musik umzuwandeln“, wurde zur Grundlage des späteren Sounddesigns des Industrial Techno.
 
-Andererseits zeichnet sich der in den 1980er Jahren etablierte Techno durch Wiederholung, Synchronisation und gerasterte Zeit aus und hat sich in Richtung der Eliminierung menschlicher Schwankungen entwickelt. Industrial Techno entstand durch die direkte Kombination der Zeitstruktur von Techno mit der materiellen Ausrichtung von Industrial-Musik.
+Andererseits zeichnet sich der in den 1980er Jahren etablierte Techno durch Wiederholung, Synchronisation und gerasterte Zeit aus und hat sich in Richtung der Eliminierung menschlicher Schwankungen entwickelt. Industrial Techno entstand durch die direkte Verbindung der Zeitstruktur von Techno mit der materiellen Ausrichtung von Industrial-Musik.
 
 ---
 
@@ -61,7 +61,7 @@ Der Rhythmus ist linear, Swing und Funk sind äußerst zurückhaltend. Anhaltend
 
 In den 2010er Jahren erlangte Industrial Techno erneut eine starke Präsenz. Die klangliche Raffinesse von Post-Minimal-Techno und industrieller Gewalt wurden verschmolzen und auf kontrollierte Weise neu definiert.
 
-Ein Merkmal dieser Ära ist, dass Verzerrungen und Rauschen nicht zufällig platziert werden, sondern nach strenger Kontrolle von Band, Phase und Dynamik eingearbeitet werden. Die Zerstörbarkeit war ein Designziel und wurde für die Spielumgebung eines Clubs optimiert.
+Ein Merkmal dieser Ära ist, dass Verzerrungen und Rauschen nicht zufällig platziert werden, sondern nach strenger Kontrolle von Band, Phase und Dynamik eingearbeitet werden. Die Zerstörbarkeit war ein Designziel und wurde für die Spielumgebung des Clubs optimiert.
 
 ---
 

@@ -13,7 +13,7 @@ title: Billy Nightmare – Vérification de la réalité
 ---
 
 
-Il s'agit d'un EP de « Mystic Bill » Torres, également connu sous le nom de Billy Nightmare, issu de la scène rave de Chicago.
+Il s'agit d'un EP de « Mystic Bill » Torres, alias Billy Nightmare, issu de la scène rave de Chicago.
 
 À l'origine, le projet devait s'intituler "Billy's Nightmare", mais pour éviter toute une vie de malchance, Torres a décidé de le remplacer par Billy Nightmare, a mis de côté son pseudonyme de Mystic Bill, s'est coupé les cheveux, a changé son son et a assumé ce nouveau personnage.
 

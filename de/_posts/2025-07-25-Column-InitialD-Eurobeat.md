@@ -34,7 +34,7 @@ Von Ende der 1990er bis in die 2000er Jahre veränderte ein japanischer Anime di
 
 <hr>
 
-### Eine Geschichte von Bergpässen und Geistern
+### Die Geschichte des Gebirgspasses und des Geistes
 „Initial D“ ist ein Manga von Shuichi Shigeno, der seit 1995 im „Weekly Young Magazine“ erscheint. Die Geschichte spielt auf einem Gebirgspass in der Präfektur Gunma, und die Hauptfigur, Takumi Fujiwara, erlernt Driftfähigkeiten, während er im AE86 (Toyota Sprinter Trueno) seines Vaters Tofu ausliefert, und erwacht allmählich als Läufer zum Läufer.
 
 Es wurde 1998 in einen Anime umgewandelt und wurde wegen seiner CG-basierten 3D-Auto-Action und rasanten Musik zu einem heißen Thema.
@@ -87,7 +87,7 @@ Durch die mutige Einführung des in Italien hergestellten Eurobeat in die rein j
 
 ● 1. Phänomen der Neubewertung/Wiederbelebung
 
-Viele junge Leute wurden durch „Initial D“ zum ersten Mal mit Eurobeat bekannt gemacht und Songs wie „Initial D Remix“ und „Drift Compilation“ sorgten auf YouTube für Aufsehen. Dies führte zu einem Phänomen, bei dem Lieder aus den 90ern in der Generation Z wiederbelebt wurden.
+Viele junge Leute wurden durch „Initial D“ zum ersten Mal mit Eurobeat bekannt gemacht und Songs wie „Initial D Remix“ und „Drift Compilation“ sorgten auf YouTube für Aufsehen. Dies führte zu einem Phänomen, bei dem Songs aus den 90ern von der Generation Z wiederbelebt wurden.
 
 ● 2. Definition als „laufende Musik“
 
@@ -102,11 +102,11 @@ Eurobeat wird in TikTok- und MAD-Videos auf neue Weise neu interpretiert.
 <hr>
 
 ### Ist Eurobeat „Memory Fuel“?
-„Initial D“ verlieh der Musik namens Eurobeat eine Geschichte und Emotion. Es handelte sich nicht nur um „Tanzmusik“, sondern wurde als eine Erfahrung eingraviert, die mit „beschleunigter Jugend“ und „Erinnerungen an Niederlagen und Siege“ verbunden war.
+„Initial D“ verlieh der Musik namens Eurobeat eine Geschichte und Emotion. Es handelte sich nicht nur um „Tanzmusik“, sondern um eine Erfahrung, die mit „beschleunigter Jugend“ und „Erinnerungen an Niederlagen und Siege“ verbunden war.
 
 Dadurch wurde Eurobeat in Japan zu einer ungewöhnlich „emotionalen“ Musik. Mit anderen Worten:
 
-Eurobeat ist Musik, die von Geschwindigkeit spricht, und gleichzeitig ist es zu einem Medium geworden, das die Geschichte davon erzählt, wie man durch etwas hindurchläuft und dabei etwas verliert.
+Eurobeat ist Musik, die von Geschwindigkeit spricht, aber gleichzeitig ist es zu einem Medium geworden, das die Geschichte davon erzählt, wie man durch etwas hindurchläuft und dabei etwas verliert.
 
 
 <hr>

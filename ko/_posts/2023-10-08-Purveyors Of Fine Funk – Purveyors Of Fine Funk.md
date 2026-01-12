@@ -9,7 +9,7 @@ permalink: /ko/purveyors-of-fine-funk-purveyors-of-fine-funk/
 tags:
 - Techno
 - House
-title: 파인 펑크 납품업자 - 파인 펑크 납품업자
+title: 파인 펑크 납품업자 – 파인 펑크 납품업자
 ---
 
 

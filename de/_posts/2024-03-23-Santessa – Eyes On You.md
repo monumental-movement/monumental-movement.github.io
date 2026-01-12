@@ -16,7 +16,7 @@ title: Santessa – Eyes On You
 
 „Eyes On You“ von Santessa wurde im Jahr 2000 auf dem Label Disco Volante veröffentlicht.
 
-Der Produzent ist Stuart Matthewman, der Gitarrist/Saxophonist der Band Sade mit Sade Adu, Paul S. Denman und Andrew Hale war.
+Der Produzent ist Stuart Matthewman, der zusammen mit Sade Adu, Paul S. Denman und Andrew Hale Gitarrist/Saxophonist der Band Sade war.
 
 Side A ist ein Remix des britischen Soul/Neo-Soul/Pop-Duos Hil St Soul, bestehend aus der Sängerin Hilary Mwelwa und dem Produzenten Victor Redwood-Sawyer.
 

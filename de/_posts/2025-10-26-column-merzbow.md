@@ -17,7 +17,7 @@ title: '[Kolumne] MERZBOW ── Lärm, die befreiende Akustik'
 ## Prolog: Lärm als Umkehrung der Stille
 
 
-Text: mmr｜Thema: Erkundung der Philosophie und kulturhistorischen Bedeutung der Noise-Musik, die von Masami Akita = Merzbow entwickelt wurde
+Text: mmr｜Thema: Erkundung der Philosophie und kulturhistorischen Bedeutung der von Masami Akita/Merzbow entwickelten Noise-Musik
 
 Seit den 1980er Jahren hat die aus Japan stammende „Noise-Musik“ eine einzigartige Entwicklung in der Geschichte der Weltmusik eingeschlagen. Die Person, die weiterhin im Mittelpunkt steht, ist **Masami Akita (Merzbow)**. Sein Sound ist gewalttätig und dennoch meditativ, destruktiv und dennoch organisch.
 Es geht über den Rahmen von „Musik“ hinaus und sollte stattdessen als **ein „klangphilosophisches Experiment“** betrachtet werden.
@@ -43,10 +43,10 @@ color: #fff;
 
 ## Hintergrund: Japans avantgardistische Boden- und DIY-Kultur
 Ende der 1970er Jahre herrschte im Untergrund Tokios eine vielfältige Experimentierfreude. Der Kontext zeitgenössischer Musik von Yuji Takahashi und Toru Takemitsu, die Impulse von Punk/Free Jazz und die Happening-Praktiken der Kunstwelt überschneiden sich.
-Akita studierte Kunstgeschichte an einer Kunstuniversität und erforschte dabei die Beziehung zwischen Körper und Klang.
+Während dieser Zeit studierte Akita Kunstgeschichte an einer Kunstuniversität und erforschte die Beziehung zwischen Körper und Klang.
 
 Früher wurde Merzbow als „Aktionskunst“ entwickelt, die das Publikum und den Raum durch Live-Geräusche einbezog, ähnlich dem Action Painting.
-Auch die Kassettenkultur (Kassetten-Underground) unterstützte seinen Ausdruck. Der DIY-Geist des **Homerecording + Mailing-Netzwerks** war ein Vorläufer der späteren Verbreitung des Internets.
+Auch die Kassettenkultur (Kassetten-Underground) unterstützte seinen Ausdruck. Der DIY-Geist des **Homerecording + Mailing-Netzwerks** war ein Vorläufer dessen, was später zu einem internetähnlichen Phänomen werden sollte.
 
 ---
 
@@ -60,7 +60,7 @@ Die unendliche Faltung der Klangpartikel eröffnet dem Hörer neue Sinneshorizon
 
 Merzbows kreativer Prozess wird oft mit der Struktur eines Ökosystems verglichen.
 Analoges Rauschen (Feedback, Bandschleifen, wild laufende Effekte) und postdigitale glitchige Präzision greifen wie biologische Mutationen ineinander.
-Es gibt eine „Resonanz zwischen dem Anorganischen und dem Organischen“.
+Es besteht eine „Resonanz zwischen Anorganischem und Organischem“.
 
 ---
 
@@ -70,13 +70,13 @@ Mitte der 1990er Jahre änderte sich mit der Einführung von Macs und digitalen 
 Allerdings zielt Akita nicht auf Kontrolle ab, sondern verlagert sich stattdessen auf Experimente, um den „Punkt des Zusammenbruchs der Kontrolle“ zu finden.
 
 Sein Studio ist ein eigener Organismus, in dem unzählige analoge Geräte und Patchkabel miteinander verflochten sind.
-Merzbows „Sound“ ist eine Aufzeichnung des wechselseitigen Interaktionsprozesses zwischen Mensch und Maschine.
+Merzbows „Sound“ ist eine Aufzeichnung des gegenseitigen Beeinflussungsprozesses zwischen Mensch und Maschine.
 
 ---
 
 ## Sozialer Kontext: Tierschutz und Antikapitalismus
 Seit den 2000er Jahren setzt sich Akita offen für Tierrechtsbewegungen und Veganismus ein und hat begonnen, diese Ideen in seine Musik zu integrieren.
-In seinen repräsentativen Werken Animal Liberation und der Ecoid-Reihe definierte er Lärm als Kritik des Anthropozentrismus neu.
+In seinen repräsentativen Werken „Animal Liberation“ und „Ecoid“ definierte er Lärm als Kritik des Anthropozentrismus neu.
 Mit anderen Worten: Lärm ist nicht nur ein Geräusch, sondern hat die Bedeutung einer ökologischen Widerstandsbewegung.
 
 Merzbows Musik ist auch die Antithese zur kapitalistischen Warenform.

@@ -14,7 +14,7 @@ title: ZUSHii – 사랑이 충분하지 않습니다('94 리믹스) 서프라�
 
 
 ZUSHii는 Carol McLeod, Gary Bent, Jason Halliday 및 Sharon Benson의 프로젝트입니다.
-1994년 발매된 'There Ai n't Enough Love/서프라이즈 서프라이즈'는 언더그라운드, 미니멀, 러프한 분위기가 특징인 영국 스트리트 소울 트랙이다.
+1994년 발매된 'There Ai n't Enough Love/Surprise Surprise'는 언더그라운드, 미니멀, 러프한 분위기가 특징인 영국의 스트리트 소울 트랙이다.
 
 #### 트랙리스트
 ```md

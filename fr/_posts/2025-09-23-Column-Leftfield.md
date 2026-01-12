@@ -58,7 +58,7 @@ Leftfield a un double sens :
 
 **Japonais**
 
-- Début des années 1990 : Né dans la culture rave britannique.
+- Début des années 1990 : né dans la culture rave britannique.
 - 1995 : Son premier travail "*Leftism*" a reçu des éloges au-delà de la scène des clubs.
 - Depuis les années 2000 : Le mot « leftfield » est devenu synonyme de « musique innovante en dehors du mainstream ».
 - Temps modernes : réévalué dans le contexte de la génération de musique par l'IA et de la production de bandes sonores de films.

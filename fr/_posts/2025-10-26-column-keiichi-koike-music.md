@@ -43,7 +43,7 @@ color: #fff;
 
 ## Chapitre 1 : Débuts et premières activités (1976-1983)
 
-- **1976** : A remporté le 12ème Prix Tezuka pour « Urashima » et a fait ses débuts en tant qu'artiste manga.
+- **1976** : A remporté le 12ème prix Tezuka pour « Urashima » et a fait ses débuts en tant qu'artiste manga.
 Il attire l'attention en tant que plus jeune sélectionné.
 - **1981** : Déménage aux États-Unis et participe à la production commerciale chez Richard Williams Animation Inc.
 Apprenez l'importance du mouvement et du rythme grâce à des techniques d'animation.

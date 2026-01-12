@@ -10,13 +10,13 @@ tags:
 - Euro Beat
 - Italo
 - Hi NRG
-title: 맥스 쿠 & 스티브 쿠 – 부기 댄서
+title: Max Coo & Steve Coo – Boogie Dancer
 ---
 
 
-1990년 아시아 레코드가 발표한 이 작품은 히트곡 'UPSIDE DOWN'으로 유명한 COO COO의 유닛 '맥스 쿠&스티브 쿠'의 작품이다.
+1990年にAsia Recordsからリリースされた本作はUPSIDE DOWNのヒットで有名なCOO COOによるユニット「Max Coo & Steve Coo」のもの。
 
-MAURO FARINA가 약속한 Eurobeat.
+MAURO FARINAによるお約束のユーロビートです。
 
 #### 트랙리스트
 ```md

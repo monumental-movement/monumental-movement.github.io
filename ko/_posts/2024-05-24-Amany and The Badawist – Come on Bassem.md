@@ -18,7 +18,7 @@ title: Amany & The Badawist – 어서, Bassem
 "Come on, Bassem"은 레바논 레이블 Badawist Phone에서 발매한 카세트 테이프입니다.
 Amany로도 알려진 Angel Nabil Ayyoub은 레바논 출신의 댄서이자 안무가입니다.
 
-프로듀서 – 나지 디아
+프로듀서 - 나지 디아
 
 보컬 – 만 알 아미르
 

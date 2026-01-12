@@ -18,7 +18,7 @@ Ian O'Brien ist ursprünglich ein britischer Musikwissenschaftler, der stark vom
 
 Dieser Sound inspirierte ihn dazu, seine eigene Musik zu produzieren.
 
-Diese „Mad Mike Disease“-Leidenschaft veranlasste ihn, Tracks zunächst unter dem Namen Memory Tree mit Asad Rizvi und später solo für verschiedene britische Techno-Labels zu produzieren.
+Diese „Mad Mike Disease“-Leidenschaft veranlasste ihn, Tracks zunächst mit Asad Rizvi unter dem Spitznamen Memory Tree und später Solo für verschiedene britische Techno-Labels zu produzieren.
 
 „Ian O'Brien – Desert Scores“ wurde 1997 veröffentlicht und gilt als Meisterwerk und gilt noch immer als Teil des Tech-Jazz-Genres, das mit der Galaxy 2 Galaxy EP Pionierarbeit geleistet hat.
 

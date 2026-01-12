@@ -17,10 +17,10 @@ title: '[Kolumne] Buchla Music Easel und die Philosophie der „Solitary Perform
 
 ## Einführung: Was ist Buchla Music Easel?
 
-Text: mmr｜Thema: Music Easel, das auch heute noch von vielen Live-Künstlern als „kleinstes Orchester, das alleine gespielt werden kann“ gepriesen wird
+Text: mmr｜Thema: Musikstaffelei, die auch in der Neuzeit von vielen Live-Künstlern als „kleinstes Orchester, das alleine gespielt werden kann“ gepriesen wird
 
 
-Die 1973 eingeführte **Buchla Music Easel** ist eine tragbare Version der berühmten analogen modularen **Buchla 200-Serie**.
+Die **Buchla Music Easel**, die 1973 erschien, ist eine tragbare Version der berühmten analogen modularen **Buchla 200-Serie**.
 Der Designer Don Buchla nannte das Instrument eine „tragbare Kompositionsumgebung“.
 Es handelte sich nicht nur um ein kleines Modul, sondern um ein „persönliches improvisiertes Gerät“.
 
@@ -107,7 +107,7 @@ Easel selbst fungiert als „komplettes Musiksystem“, ohne dass externe Gerät
 * **Hüllkurve**: Automatisch gesteuert, getornt, schleifbar.
 * **Reverb**: Natürlicher Nachhall mit Federhall.
 
-Die Idee, die diese integriert, ist nicht „Portabilität“, sondern „Improvisation“, und das Zentrum der Musikproduktion hat sich vom „Denken“ zum „taktilen Empfinden“ verlagert.
+Die Idee, die diese vereint, ist nicht „Portabilität“, sondern „Improvisation“, und das Zentrum der Musikproduktion hat sich vom „Denken“ zum „taktilen Empfinden“ verlagert.
 
 ---
 
@@ -146,7 +146,7 @@ Bei seinen Live-Shows bricht das Konzept des Tempos zusammen und Pulser dehnt si
 Cohen sagte: „Staffelei ist ein Werkzeug zur Gestaltung der Zeit.“
 
 In seiner Performance führt die Wellenformfaltung des Komplexen Oszillators dazu, dass Obertöne zusammenbrechen und sich kontinuierlich reproduzieren.
-Es erzeugt einen Klang, als würde sich ein akustisches Instrument selbst neu aufbauen.
+Es erzeugt einen Klang, der so ist, als würde sich ein akustisches Instrument selbst rekonstruieren.
 
 ### Klangtechnologieanalyse: Cohens Improvisationsstruktur
 
@@ -206,7 +206,7 @@ Dieser „antidigitale“ Trend ist auch ein Zeichen dafür, die physische Reali
 ## Fazit: Die Zukunft als Orchester
 
 Die Staffelei ist funktional klein und der Ausdruckskraft grenzenlos.
-Der im Inneren flackernde elektrische Strom erzeugt einen „lebendigen Klang“, der synchron mit der Atmung des Künstlers synchronisiert ist.
+Der im Inneren flackernde elektrische Strom erzeugt einen „lebendigen Klang“ im Takt der Atmung des Künstlers.
 
 Wie Charles Cohen sagte: „Staffelei ist ein einsamer Gesprächspartner.“
 Wie Suzanne Ciani gezeigt hat, „ist es das Organ, das menschliche Emotionen in elektronische Form übersetzt.“

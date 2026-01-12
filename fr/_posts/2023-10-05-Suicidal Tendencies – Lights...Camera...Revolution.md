@@ -9,15 +9,15 @@ permalink: /fr/suicidal-tendencies-lights-camera-revolution/
 tags:
 - Hardcore
 - Punk
-title: Tendances suicidaires – Lumières... Caméra... Révolution
+title: Suicidal Tendencies – Lights...Camera...Revolution
 ---
 
 
-« Lights...Camera...Revolution ! » est une œuvre phare dans la carrière de Suicidal Tendencies, incarnant l'ampleur et l'énergie de leur musique. L'album se caractérise par des riffs de guitare intenses, une batterie rapide et la voix puissante de Mike Muir.
+「Lights...Camera...Revolution!」は、Suicidal Tendenciesのキャリアの中でも重要な作品であり、彼らの音楽の幅広さとエネルギーを体現しています。アルバムは、激しいギターリフ、スピーディなドラム、Mike Muirのパワフルなヴォーカルによって特徴づけられています。
 
-L'album comprend des chansons emblématiques telles que « You Can't Bring Me Down » et « Send Me Your Money ».
+アルバムには、代表曲である「You Can't Bring Me Down」や「Send Me Your Money」などが収録されています。
 
-L'album a été acclamé par la critique et a montré l'évolution musicale de Suicidal Tendencies, et a été un succès commercial. Le groupe a attiré de nombreux fans avec son style unique de fusion de heavy metal et de punk, et leur influence est devenue une présence importante sur la scène musicale crossover.
+このアルバムは、Suicidal Tendenciesの音楽的な進化を示す作品として高く評価されており、商業的にも成功を収めました。バンドは、ヘヴィメタルとパンクの融合という独自のスタイルで多くのファンを魅了し、その影響力はクロスオーバーミュージックシーンにおいて重要な存在となりました。
 
 #### Liste des chansons
 ```md

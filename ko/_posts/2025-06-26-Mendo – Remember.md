@@ -16,7 +16,7 @@ title: 멘도 - 기억해
 
 Mendo로도 알려진 David Ortega는 스위스 DJ이자 프로듀서이자 Clarisse Records 레이블의 창립자입니다.
 
-"Remember"는 Luciano의 레이블 Cadenza가 2009년에 발표한 House & Minimal 트랙입니다.
+"Remember"는 Luciano의 Cadenza 레이블이 2009년에 발표한 House & Minimal 트랙입니다.
 
 #### 트랙리스트
 ```md

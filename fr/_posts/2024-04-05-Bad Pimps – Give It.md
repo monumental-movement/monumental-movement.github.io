@@ -10,13 +10,13 @@ tags:
 - Techno
 - Tech House
 - German Techno
-title: Mauvais proxénètes – Donnez-le
+title: Bad Pimps – Give It
 ---
 
 
-Bad Pimps est un projet entre Patrick Lindsey, l'un des fondateurs du label Kanzleramt, et Stanny Franssen (alias G-Force), l'un des artistes phares de la scène techno belge.
+Bad Pimps（バッドピンプス）は、レーベル Kanzleramtの創設者の１人Patrick Lindseyとベルギーのテクノシーンを代表するアーティストの１人Stanny Franssen（aka. G-Force）のプロジェクト。
 
-Un morceau techno/tech house sorti en 2002 sur le label Terminal M de Monika Kruse.
+Monika Kruse（モニカクルス）のレーベルTerminal Mから2002年にリリースされたテクノ・テックハウストラック。
 
 #### Liste des chansons
 ```md

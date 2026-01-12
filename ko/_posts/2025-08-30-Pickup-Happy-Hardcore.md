@@ -23,7 +23,7 @@ title: Happy Hardcore 작품을 선택하세요
 
 출시: 1994/네덜란드 해피 하드코어 걸작
 
-특징: 눈길을 끄는 멜로디와 긍정적인 에너지로 90년대 유로댄스/레이브 씬을 휩쓸었던 클래식입니다. 오늘날에도 많은 클럽과 레이브에게 계속 사랑받고 있습니다.
+특징: 눈길을 끄는 멜로디와 긍정적인 에너지로 90년대 유로댄스/레이브 씬을 휩쓸었던 클래식입니다. 오늘날에도 많은 클럽과 레이브에게 계속해서 사랑받고 있습니다.
 
 #### 트랙리스트
 ```md
@@ -44,7 +44,7 @@ B2. Wonderfull Days (Radio Mix)
 
 
 
-### 스쿠터 - 전화해 마냐나(Mañana)
+### 스쿠터 – 마냐나(Mañana)라고 불러주세요
 <a href="https://jp.mercari.com/item/m42566110205?afid=6142608987"><img src="../assets/images/Scooter%20%E2%80%93%20Call%20Me%20Manana.webp"></a>
 
 발매: 1998년, "No Time to Chill"의 싱글
@@ -95,7 +95,7 @@ B2. Sunrise (Here I Am) (Instrumental)
 <br>
 
 
-### 페이즈 vs. DJ 스나이퍼 Feat. 카렌 – 영원히 / 점화 시퀀스
+### 페이즈 vs DJ 스나이퍼 Feat. 카렌 – 영원히 / 점화 시퀀스
 <a href="https://jp.mercari.com/item/m40097768990?afid=6142608987"><img src="../assets/images/Phase%20vs.%20DJ%20Sniper%20Feat.%20Karen%20%E2%80%93%20Forevermore%20Ignition%20Sequence.webp"></a>
 
 발매사: 영국 레이블 Sonic Boom
@@ -125,7 +125,7 @@ B2. Forevermore (Original)
 
 아티스트: 영국의 인기 DJ/프로듀서 Mark Breeze
 
-특징 : 신나는 멜로디와 에너제틱한 비트가 돋보이는 곡으로 'Kick Your Legs In The Air', 'Don't Make Me Wait (Special Version)' 샘플을 포함해 많은 클럽에서 지지를 받고 있는 곡이다.
+특징 : 신나는 멜로디와 에너제틱한 비트가 돋보이는 곡으로, 'Kick Your Legs In The Air', 'Don't Make Me Wait (Special Version)' 샘플을 비롯해 많은 클럽에서 지지를 받고 있는 곡이다.
 
 #### 트랙리스트
 ```md

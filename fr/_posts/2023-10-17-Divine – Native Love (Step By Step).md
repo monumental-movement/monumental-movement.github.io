@@ -9,12 +9,12 @@ permalink: /fr/divine-native-love-step-by-step/
 tags:
 - House
 - Techno
-title: Divin – Amour natif (étape par étape)
+title: Divine – Native Love (Step By Step)
 ---
 
 
-« Native Love (Step By Step) » est
-Il s'agit d'un EP de Divine sorti en 2002 sur le label britannique "Burns".
+「Native Love (Step By Step)」は、
+2002年にUKのレーベル「Burns」からリリースされたDivineによるEPです。
 
 #### Liste des chansons
 ```md

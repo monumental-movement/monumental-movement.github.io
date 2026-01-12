@@ -111,7 +111,7 @@ Der Klang wurde vielschichtiger, ein Trance-Feeling schlüpfte in den sich wiede
 
 ---
 
-Die Vision Creation Newsun des darauffolgenden Jahres 1999 war eines der prägenden Werke in Boredoms‘ Karriere.
+Im folgenden Jahr war „Vision Creation Newsun“ aus dem Jahr 1999 eines der prägenden Werke in Boredoms‘ Karriere.
 Natürliche Klänge, ethnische Percussion, anhaltende Klänge und zyklische Strukturen, Gitarrendrohnen, vielschichtige Rhythmen ...
 
 Die Boredoms waren hier nicht einmal eine „Rockband“, sondern vertieften sich stattdessen in kosmischen Minimalismus und rituellen Trance.
@@ -119,8 +119,8 @@ Die Boredoms waren hier nicht einmal eine „Rockband“, sondern vertieften sic
 ---
 
 ### 3.3 Hintergrund der Psychedelisierung
-– Ais Perspektive wechselt von impulsiver Zerstörung zu „kosmischer Expansion“
-- Yuka Yoshimura (Yoshimi) spielt eine zentrale Rolle und sorgt für wichtige Entwicklungen in den Bereichen Schlagzeug, Gesang und Elektronik.
+- Ais Perspektive wechselt von impulsiver Zerstörung zu „kosmischer Expansion“
+- Yuka Yoshimura (Yoshimi) spielt eine zentrale Rolle und sorgt für wichtige Entwicklungen in den Bereichen Schlagzeug/Gesang/Elektronik.
 - Erhöhtes Interesse an Minimalismus und sich wiederholenden Strukturen
 
 Dadurch veränderten sich seine Werke Ende der 1990er Jahre zu einem „Lichtwirbel“-Sound und erlangten internationale Anerkennung.
@@ -138,14 +138,14 @@ Der vielschichtige Schlagzeug- und Percussionstil rund um Yoshimi P-We sollte zu
 ### 4-2. Neue Phase mit „Seadrum / House of Sun“
 
 Im Jahr 2004 erschien „Seadrum / House of Sun“.
-Elemente von Strandaufnahmen, lange Drones, meditative Strukturen, Umgebungsgeräusche und Wiederholungen verbinden sich zu einer Welt, die sich wie ein „Klangritual“ anfühlt.
+Elemente von Strandaufnahmen, lange Borduntöne, meditative Strukturen, Umgebungsgeräusche und Wiederholungen verbinden sich zu einer Welt, die sich wie ein „Klangritual“ anfühlt.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ObBwAq-Nx0A?si=Rg_siWf8KjzNuZaE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 Hier wird der Bandname oft als V∞redoms geschrieben, und das Konzept von Boredoms selbst ändert sich zu einem „kollektiven kreativen Körper“ und nicht zu einer musikalischen Einheit.
-In den 2000er Jahren starteten Boredoms neue Entwicklungen, darunter den Namen **V∞redoms**, und das ikonischste davon war das große Schlagzeugensemble, das mit dem „7x7x7“-Konzert am 7. Juli begann**.
+In den 2000er Jahren starteten Boredoms neue Entwicklungen, darunter den Namen **V∞redoms**, und das kultigste davon war das große Schlagzeugensemble, das mit dem „7x7x7“-Konzert am 7. Juli begann**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vjk01Wo-aEs?si=NY65yyeeoj0-m5te" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -154,7 +154,7 @@ In den 2000er Jahren starteten Boredoms neue Entwicklungen, darunter den Namen *
 ### 4.3 Bedeutung der Bohrtrommel
 - Riesige Polyrhythmik-Struktur mit Multiplayer-Schlagzeug
 - Kreisförmiger Veranstaltungsort, der das Publikum anzieht
-- Betonung der visuellen/körperlichen Erfahrung unter der Leitung von Ai
+- Betonung der visuellen/physischen Erfahrung unter der Leitung von Ai
 
 ### Strukturdiagramm der Bohrtrommel
 
@@ -171,7 +171,7 @@ flowchart TD
 ---
 
 ## Kapitel 5: Aktivitäten seit 2010er Jahren
-Seit den 2010er Jahren gibt Boredoms weiterhin zeitweise Live-Auftritte, während sich die kreativen Aktivitäten jedes Mitglieds vertieft haben.
+Seit den 2010er Jahren führt Boredoms weiterhin zeitweise Live-Auftritte durch, während sich die kreativen Aktivitäten jedes Mitglieds vertiefen.
 Insbesondere **Eyes visuelle Kunstaktivitäten** und **Yoshimis Aktivitäten mit OIOOO/SAICOBABA** nahmen zu, was den Eindruck erweckte, dass Boredoms eher ein „kollektives Projekt“ als eine „Band“ sei.
 
 ---
@@ -202,7 +202,7 @@ flowchart TD
 
 ---
 
-Die Aktivitäten von OOOIOO interagieren mit dem Spätrhythmus-Ensemble von Boredoms, und die Struktur weist eine Struktur auf, in der Yoshimuras Richtung zum Sound von Boredoms zurückkehrt.
+Die Aktivitäten von OOIOO interagieren mit dem Spätrhythmus-Ensemble von Boredoms, und die Struktur weist eine Struktur auf, in der Yoshimuras Richtung zum Sound von Boredoms zurückkehrt.
 
 ---
 
@@ -217,7 +217,7 @@ In diesem Kapitel werde ich die bisher fragmentarisch erwähnten persönlichen A
 ### 7.2 Bildung des Sampling-Senses
 Seit den frühen 1990er Jahren verwendet Ai Plattenspieler und Kassetten als Materialien und ist auf die „taktile Bearbeitung“ spezialisiert, bei der Fragmente physischen Klangs miteinander verbunden werden.
 
-## 7.3 Rhythmusneigung (2000er)
+## 7.3 Neigung zum Rhythmus (2000er)
 Während der Zeit der Langweiler verlagerte sich Ais Interesse stark auf die physikalischen Aspekte des Rhythmus, und seine Rolle als Dirigent rückte in den Mittelpunkt.
 
 ### Entwicklung des Augenausdrucks
@@ -279,7 +279,7 @@ timeline
 Boredoms ist mehr als nur eine Band, man kann sagen, es ist ein „Ort selbst“, der im Laufe der Zeit seine Form verändert.
 Ais philosophische Perspektive, Yoshimis körperlicher Rhythmus und die Einzigartigkeit jedes einzelnen Mitglieds sind eng miteinander verbunden und die Gruppe ist wie ein riesiger lebender Organismus gewachsen.
 
-Wenn Sie einen Blick darauf werfen, einschließlich der persönlichen Geschichte von OIOOO und Eye, breiten sich die Aktivitäten von Boredoms weiterhin wie ein „zentrloser Wirbel“ aus, und auf ihren Einfluss wird weiterhin auf der ganzen Welt verwiesen.
+Wenn Sie einen Blick darauf werfen, einschließlich der persönlichen Geschichte von OIOOO und Eye, breiten sich die Aktivitäten von Boredoms weiterhin wie ein „zentrloser Wirbel“ aus, und ihr Einfluss wird weiterhin auf der ganzen Welt erwähnt.
 
 ---
 

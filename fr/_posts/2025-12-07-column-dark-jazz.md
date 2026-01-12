@@ -218,7 +218,7 @@ flowchart TD
 
 ## 8. État actuel du dark jazz
 A travers de longs mixages sur YouTube et des vidéos « night view + dark jazz » des téléspectateurs,
-Depuis les années 2020, on assiste à une remise en question de la musique, notamment auprès des jeunes auditeurs.
+Depuis les années 2020, il y a une remise en question chez les jeunes auditeurs.
 
 - La « musique calme » gagne en popularité parallèlement à la tendance du Lo-fi Hip Hop
 - Utilisé comme BGM pour la production vidéo, le VJ et les films indépendants
@@ -231,7 +231,7 @@ Elle continue de se développer en tant que « musique qui crée une atmosphère
 
 ## 9. Où va le dark jazz ?
 Avec la diffusion de vidéos générées par l'IA, de logiciels VJ et de jeux indépendants,
-Nous sommes désormais dans une époque où les visuels et les sons sont évoqués dans le même souffle.
+Nous sommes entrés dans une ère où les visuels et les sons sont évoqués dans le même souffle.
 
 En raison de la nature du dark jazz, qui est « lent et comporte de nombreux espaces vides »,
 On pense qu’il continuera à avoir une nouvelle valeur en se mélangeant aux images.

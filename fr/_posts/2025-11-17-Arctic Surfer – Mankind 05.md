@@ -15,7 +15,7 @@ title: Surfeur arctique – L’humanité 05
 
 Johan Bacto (Johan Svensson), également connu sous le nom d'Arctic Surfer, est un producteur techno suédois. Il dirige des labels tels que Mankind, Zync et Countdown 2000.
 
-" Mankind 05 " est une chanson techno publiée par le label Mankind de Johan Bacto en 1999.
+"Mankind 05" est une chanson techno publiée par le label Mankind de Johan Bacto en 1999.
 
 #### Liste des chansons
 ```md

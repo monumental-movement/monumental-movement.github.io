@@ -45,7 +45,7 @@ color: #fff;
 
 Le swing jazz s'est développé en Amérique dans les années 1930 et était étroitement lié à la culture dancehall. Les ensembles basés sur des rythmes à quatre temps, des syncopes et des sections de cuivres se sont répandus comme divertissement populaire.
 
-En revanche, la musique dance électronique, qui s'est développée depuis les années 1970, est passée par le disco, la house et la techno et s'est imposée comme une musique caractérisée par des structures répétitives et une précision mécanique. Electro Swing a été créé d’une manière qui traverse ces deux histoires de la musique dance.
+En revanche, la musique électronique dance, qui s'est développée depuis les années 1970, est passée par le disco, la house et la techno et s'est imposée comme une musique caractérisée par des structures répétitives et une précision mécanique. Electro Swing a été créé d’une manière qui traverse ces deux histoires de la musique dance.
 
 ---
 
@@ -56,7 +56,7 @@ Pour qu’Electro Swing puisse exister, les conditions techniques et culturelles
 
 * Vulgarisation de la technologie d'échantillonnage numérique
 *Première culture Internet où la gestion des droits d'auteur était relativement souple
-* Jeu multi-genres par le DJ du club
+* Jeu multi-genres par DJ du club
 * Réévaluer l'esthétique rétro
 
 C'est notamment entre la fin des années 1990 et le début des années 2000 que l'environnement DAW est devenu populaire au niveau personnel, permettant de rééditer des sources sonores passées.
@@ -80,7 +80,7 @@ La musique de Parov Stelar est unique en ce sens qu'elle combine l'impact imméd
 
 ## 5. Unicité du Caravan Palace
 
-Le Caravan Palace en France est unique en ce sens qu'il a développé l'Electro Swing sous la forme d'un groupe. Il a créé une combinaison de performances instrumentales en direct et de programmation électronique, en mettant l'accent sur la performance visuelle et physique.
+Le Caravan Palace français est unique en ce sens qu'il a développé l'Electro Swing sous la forme d'un groupe. Il a créé une combinaison de performances instrumentales en direct et de programmation électronique, en mettant l'accent sur la performance visuelle et physique.
 
 Leurs chansons mélangent des éléments non seulement de swing mais aussi de jazz manouche, de pop et d'électro, élargissant ainsi la gamme expressive de l'Electro Swing.
 
@@ -88,7 +88,7 @@ Leurs chansons mélangent des éléments non seulement de swing mais aussi de ja
 
 ## 6. Structure musicale
 
-La structure d’Electro Swing se compose souvent des éléments suivants :
+La structure d'Electro Swing se compose souvent des éléments suivants :
 
 * Fragments mélodiques dérivés du swing
 * Rythme de danse clair
@@ -166,7 +166,7 @@ La structure, qui ne dépend d'aucun grand marché particulier, a contribué à 
 
 L'échantillonnage dans Electro Swing ne fonctionne pas seulement comme une citation, mais comme un réarrangement. Le contexte de la chanson originale est coupé et le rythme, le tempo et la dynamique sont réorganisés dans un style moderne.
 
-Cette méthode est cohérente avec la culture d'échantillonnage post-hip-hop, mais l'Electro Swing est unique en ce sens qu'il visualise intentionnellement l'ère du son original. Le bruit, les limitations des bandes de fréquences et les fluctuations analogiques restent des symboles du passé.
+Cette méthode est cohérente avec la culture de l'échantillonnage après le hip-hop, mais l'Electro Swing est unique en ce sens qu'il visualise intentionnellement l'ère du son original. Le bruit, les limitations des bandes de fréquences et les fluctuations analogiques restent des symboles du passé.
 
 ---
 
@@ -196,7 +196,7 @@ D’un autre côté, une autre caractéristique est qu’il était difficile de 
 
 ## 19. Comparaison avec d'autres genres
 
-L'Electro Swing est parfois confondu avec le Nu Jazz, le Swing House et le Retro House, mais la plus grande différence est qu'il met en avant le symbolisme de l'ère swing. Cela donne la priorité à la lisibilité culturelle plutôt qu’à la complexité musicale.
+L'Electro Swing est parfois confondu avec le Nu Jazz, le Swing House et le Retro House, mais la plus grande différence est qu'il met en avant la symbolique de la période swing. Cela donne la priorité à la lisibilité culturelle plutôt qu’à la complexité musicale.
 
 Même si cette structure a affaibli la capacité du genre à résister aux critiques, elle a été efficace pour gagner des auditeurs à long terme.
 

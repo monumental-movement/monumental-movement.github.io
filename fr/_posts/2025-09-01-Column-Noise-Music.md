@@ -16,7 +16,7 @@ title: '[Chronique] Noise Music — De ses origines à nos jours : contexte hist
 
 ## Bruit = Esthétique : Conversion des sons considérés comme durs à l'oreille en « plaisir » et « art ».
 
-Texte : mmr | Thème : Rébellion et destruction – un défi à la musique et à l'ordre social existants.
+Texte : mmr | Thème : Rébellion et destruction - un défi à la musique et à l'ordre social existants.
 
 Le « bruit » n'est pas simplement « bruit », mais fait référence à un champ d'expression qui s'écarte des idiomes musicaux établis (mélodie, harmonie, rythme) et met l'accent sur le son lui-même, la texture, l'impact physique et la stimulation auditive. Née d'une combinaison d'horizons artistiques, technologiques et sociaux, elle n'a cessé de changer de forme depuis plus de 100 ans.
 
@@ -53,7 +53,7 @@ Après la Seconde Guerre mondiale, le développement de la bande magnétique et 
 - musique concrète (1948-) de Pierre Schaeffer.
 
 ### Œuvres représentatives
-- Œuvres de Pierre Henry et Tod Dockstader.
+- Œuvres de Pierre Henri et Tod Dockstader.
 
 ### Équipement/Technologie
 - Montage de bandes (rotation inverse, bouclage, découpage/épissure).
@@ -131,7 +131,7 @@ Diversification grâce au renouveau des synthés modulaires et à l'acoustique d
 ---
 
 ## Résumé des changements d'équipement
-- **Initial** : Machine à bruit, son environnemental
+- **Initial** : machine à bruit, son environnemental
 - **Période Tape** : Montage sur bande magnétique
 - **Période analogique** : Synthé, guitare + effets
 - **Période cassette** : Bruit DIY, distribution de cassettes
@@ -142,7 +142,7 @@ Diversification grâce au renouveau des synthés modulaires et à l'acoustique d
 
 ## Liste représentative des chefs-d'œuvre
 - Luigi Russolo — *L'Art des Bruits* (1913, théorie/performance)
-- Pierre Schaeffer — *musique concrète* œuvres
+- Pierre Schaeffer — œuvres *musique concrète*
 - Lou Reed — *Musique Metal Machine* (1975)
 - Throbbing Gristle — premiers travaux
 -Einstürzende Neubauten — *Kollaps*
@@ -154,4 +154,4 @@ Diversification grâce au renouveau des synthés modulaires et à l'acoustique d
 ---
 
 ## A la fin
-La musique noise est toujours un défi pour l’esthétique existante et une tentative d’élargir les frontières de la musique. Des sons mécaniques de Russolo aux synthés modulaires, même après plus de 100 ans d'histoire, l'essence de tous les instruments est « d'écouter le son lui-même ».
+La musique noise est toujours un défi pour l’esthétique existante et une tentative d’élargir les frontières de la musique. Des sons mécaniques de Russolo aux synthés modulaires, même après plus de 100 ans d'histoire, leur essence réside dans « l'écoute du son lui-même ».

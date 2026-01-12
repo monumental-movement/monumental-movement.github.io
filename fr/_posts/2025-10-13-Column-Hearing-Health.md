@@ -142,7 +142,7 @@ Les recherches sur la structure hiérarchique complexe sont également appliqué
 
 ## 4. Entre bruit et silence : une théorie culturelle de la prévention
 
-Les bruits forts des concerts de rock, l’utilisation excessive des écouteurs et le bruit de la ville.
+Les bruits forts des concerts de rock, l’usage excessif des écouteurs et le bruit de la ville.
 Celles-ci peuvent être qualifiées de « pollution auditive » d’aujourd’hui.
 La campagne #KeepListening de HHF est un mouvement social qui reconsidère la relation entre volume et distance.
 
@@ -155,7 +155,7 @@ Protéger son audition est aussi une forme de « soin personnel artistique » qu
 ## 5. Le destin des musiciens et de l'oreille : « Histoire culturelle de l'audition » interprétée à travers des anecdotes
 
 - **Beethoven** : A terminé la Neuvième dans le désespoir de la perte auditive.
-- **Pete Townshend (The Who)** : a perdu l'audition à cause du bruit d'un concert et a commencé une campagne de sensibilisation à la protection auditive.
+- **Pete Townshend (The Who)** : a perdu l'audition à cause du bruit fort d'un spectacle en direct et a commencé une campagne de sensibilisation à la protection auditive.
 - **Phil Collins** : En tournée malgré une perte auditive d'une oreille.
 - Thom Yorke de **Radiohead** : Malgré ses acouphènes, il a sublimé ses "sons intérieurs" dans des chansons.
 
@@ -183,7 +183,7 @@ Il présente des expériences réelles et des chroniques d'experts, et propose l
 La science de l’audition est aussi la science de notre sensibilité.
 La reproduction du son peut être la « reproduction de l'existence humaine ».
 Les activités de la Hearing Health Foundation transcendent les frontières entre la médecine et l'art.
-Il éclaire discrètement l’avenir de la culture entourant « l’écoute ».
+Il éclaire discrètement l’avenir de la culture autour de « l’écoute ».
 
 ---
 

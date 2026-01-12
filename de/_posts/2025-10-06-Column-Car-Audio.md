@@ -65,7 +65,7 @@ color: #fff;
 ### Nissan/Infiniti
 
 - **Repräsentatives Modell**: Infiniti QX80 (Bose 16-Lautsprechersystem)
-- **Technologie**: Um die Akustik im Auto zu optimieren, wurden die Lautsprecherplatzierung und Materialreflexionen in Zusammenarbeit mit BOSE analysiert und abgestimmt.
+- **Technologie**: Analysieren Sie die Lautsprecherplatzierung und Materialreflexionen und führen Sie in Zusammenarbeit mit BOSE eine Abstimmung durch, um die Akustik im Auto zu optimieren
 
 ---
 
@@ -256,10 +256,10 @@ color: #fff;
 ## Zusammenfassung: Vom Motorsound zur Klangkunst – eine Vision der Zukunft von Autos und Sound
 
 Autos waren früher „Transportmaschinen“. Heute ist es jedoch ein „Raum, der Klang umfasst“ und eine Erweiterung der Kultur.
-Deutschland hat den Klang mit Präzisionstechnik durchdrungen, England mit Tradition und Formalität, Amerika mit Freiheit und Macht und Japan mit zarter Harmonie.
+Deutschland hat Klang mit Präzisionstechnik erfüllt, Großbritannien mit Tradition und Formalität, Amerika mit Freiheit und Macht und Japan mit zarter Harmonie.
 Car-Audio ist in jedem Land auch eine Verkörperung des ästhetischen Sinns und der Industriephilosophie dieser Gesellschaft.
 
-Die „stille Bühne“ von Rolls-Royce ist das Nonplusultra der Stille.
+Die „Stille Bühne“ von Rolls-Royce ist das Nonplusultra der Stille.
 Die DSP-Steuerung von Tesla verknüpft elektrische Signale und Emotionen.
 Und Mark Levinson von Lexus spielt mit Materialien und Raum als „Instrumente“.
 Hierbei handelt es sich nicht nur um Lautsprechersysteme, sondern um „Architekturen des Klangs“, in denen sich Menschen und Maschinen, Technik und Sensibilität kreuzen.
@@ -275,5 +275,5 @@ Das akustische Design wird durch KI korrigiert und der Sitz wird zu einer Resona
 Am Ende werden wir einen Bereich klanglicher Gleichheit haben, der über Länder und Marken hinausgeht.
 Das Zuhören beim Laufen schärft die menschlichen Sensibilitäten noch einmal.
 
-Was Autos uns erzählen, ist nicht die Reise, sondern die Reise des Klangs.
+Was Autos uns erzählen, ist nicht die Straße, sondern die Reise des Klangs.
 Und diese Reise hat gerade erst begonnen.

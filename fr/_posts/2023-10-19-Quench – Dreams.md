@@ -9,13 +9,13 @@ permalink: /fr/quench-dreams/
 tags:
 - Trance
 - 90s
-title: Désaltérer – Rêves
+title: Quench – Dreams
 ---
 
 
-Christopher J. Dolan (CJ Dolan), également connu sous le nom de Quench, est un producteur et musicien australien de musique de danse. « Quench – Dreams » est devenu un succès mondial. Coproducteur : Sean Quinn.
+Quenchこと、Christopher J. Dolan（クリストファー・J・ドーラン/CJ Dolan）は、オーストラリア出身のダンスミュージックプロデューサー兼ミュージシャン。「Quench – Dreams」は、世界的なヒットとなった。共同プロデューサーは、Sean Quinn（ショーン・クイン）。
 
-Les première et deuxième chansons de la face B sont des remixes du duo britannique de house progressive Crunch.
+B面1,2曲目は、イギリス出身のプログレッシブハウスデュオCrunchによるremix。
 
 #### Liste des chansons
 ```md

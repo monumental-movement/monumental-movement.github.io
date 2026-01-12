@@ -86,7 +86,7 @@ Curtis‘ Falsettgesang ist eine ewige Botschaft der „sich weiterentwickelnden
 ---
 
 #### 7. Bob James – „Take Me to the Mardi Gras“ (1975)
-Der Kuhglocken- und Glockenklang des Schlagzeugs war unverwechselbar und wurde von Run-D.M.C., Beastie Boys, Eric B. & Rakim und anderen geliebt.
+Der Kuhglocken- und Glockenklang der Trommeln war unverwechselbar und wurde von Run-D.M.C., Beastie Boys, Eric B. & Rakim und anderen geliebt.
 Bob James ist ein Symbol des Smooth Jazz, und der „harte Bruch“, den dieser Song hervorbrachte, wurde in der Sampling-Kultur der 1990er Jahre vergöttert.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ove38w3ztG4?si=BgFRFe1VL3bIC6HV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -110,7 +110,7 @@ Obwohl die Melodie bescheiden ist, bildet der „Raum“ zwischen Snare und Kick
 ---
 
 #### 10. The Honey Drippers – „Impeach the President“ (1973)
-Ein Drumbreak, bei dem politische Botschaften und Grooves nebeneinander existieren. Nas, The Notorious B.I.G. und sogar J. Cole.
+Ein Drumbreak, bei dem politische Botschaften und Grooves nebeneinander existieren. Zitiert von Nas, The Notorious B.I.G. und sogar J. Cole.
 Der Grund, warum der Titel ironischerweise über die Zeit hinweg nachhallt, liegt darin, dass die im Rhythmus eingravierte „Ästhetik des Widerstands“ universell ist.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7hNr8WpVYI0?si=IEACVEwNdD9Xf7Rb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -164,7 +164,7 @@ Der Moment, als der experimentelle Funk der 70er Jahre im Zeitalter der Technolo
 ---
 
 #### 17. Dennis Coffey – „Scorpio“ (1971)
-Ein Meisterwerk des instrumentalen Funks, das von LL Cool J und Public Enemy als Breakout-Song bezeichnet wurde. Die Verzerrung der E-Gitarre symbolisiert die Rauheit der Stadt.
+Ein Meisterwerk des Instrumental-Funks, das von LL Cool J und Public Enemy als Breakout-Song bezeichnet wurde. Die Verzerrung der E-Gitarre symbolisiert die Rauheit der Stadt.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KBn_oUH8Uo0?si=KqkkcQDOxXHnDnXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -186,7 +186,7 @@ Wird bei Pete Rock & C.L. verwendet. Smooths „They Reminisce Over You“. Dies
 ---
 
 #### 20. The Soul Searchers – „Ashley’s Roachclip“ (1974)
-Wird von The Roots, Eric B. & Rakim, Arrested Development und anderen verwendet. Die Transparenz und Dichte des Drum-Breaks wurde von der „warmen Sampling-Ästhetik“ der 1990er Jahre übernommen.
+Wird von The Roots, Eric B. & Rakim, Arrested Development und anderen verwendet. Die Transparenz und Dichte des Drum-Breaks wurde von der „warmen Sampling-Ästhetik“ der 1990er Jahre geerbt.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/md9veYbl7wI?si=X2sEcu_lKxFEpBAx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -197,7 +197,7 @@ Wird von The Roots, Eric B. & Rakim, Arrested Development und anderen verwendet.
 | Jahre | Veranstaltungen |
 |------|---------|
 | 1960er Jahre | Die Soul/Funk-Aufnahmetechnologie entwickelt sich. Die aufkeimende Drum-Break-Kultur. |
-| 1973 | Kool Herc spielt auf einer Blockparty zwei Kopien von „Apache“. Geburtsstunde des Hip Hop. |
+| 1973 | Kool Herc spielt auf einer Blockparty zwei Exemplare von „Apache“. Geburtsstunde des Hip Hop. |
 | 1984 | Run-D.M.C. erzielt den ersten kommerziellen Sampling-Hit. |
 | 1989 | „Fear of a Black Planet“ von Public Enemy etabliert mehrere Sampling-Techniken. |
 | 1994 | Wu-Tang Clan, RZAs „Noise Sampling“ schafft einen neuen Trend. |

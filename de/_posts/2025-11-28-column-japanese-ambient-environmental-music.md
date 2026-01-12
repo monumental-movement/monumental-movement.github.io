@@ -20,7 +20,7 @@ title: '[Kolumne] Japanische Ambient-/Umweltmusik'
 Text: mmr｜Thema: Der Kern japanischer Umweltmusik aus den 1980er Jahren und ihre historische Neubewertung
 
 
-In den späten 2010er Jahren erregten „Japanese Ambient“ und „Japanese Environmental Music“ bei Musikhörern auf der ganzen Welt große Aufmerksamkeit. Es gibt mehrere Gründe. Dazu gehören Neuauflagen westlicher Labels, die automatischen Empfehlungen von YouTube, der Algorithmus von Spotify und eine Neubewertung elektronischer Musik/New Age.
+In den späten 2010er Jahren erregten „Japanese Ambient“ und „Japanese Environmental Music“ bei Musikhörern auf der ganzen Welt große Aufmerksamkeit. Es gibt mehrere Gründe. Dabei handelt es sich um Neuauflagen westlicher Labels, die automatischen Empfehlungen von YouTube, den Algorithmus von Spotify und eine Neubewertung elektronischer Musik/New Age.
 Es gibt jedoch wichtige Punkte, die nicht allein durch diese Faktoren erklärt werden können.
 
 Dies liegt daran, dass Japans „Umweltmusik“ in den 1980er Jahren auf einem anderen kulturellen Boden entstand als Ambient-Musik auf der ganzen Welt.
@@ -56,7 +56,7 @@ color: #fff;
 
 Das Aufkommen japanischer Ambient-Musik ging mit der Entwicklung elektronischer Musikstudios in den 1970er Jahren einher. Viele Universitäten und Forschungsinstitute erforschten elektronische Akustik, Tonbandmusik und Musique Concrète, und gleichzeitig nahmen „Klanginstallationen“ im Bereich der zeitgenössischen Kunst zu.
 
-Während seines Studiums der Raumkunst an einer Kunstuniversität begann Hiroshi Yoshimura schon früh mit der Schaffung von Werken, die Umwelt und Klang miteinander verknüpften, und befasste sich auch mit der akustischen Planung öffentlicher Räume.
+Während seines Studiums der Raumkunst an einer Kunstuniversität begann Hiroshi Yoshimura schon früh mit der Schaffung von Werken, die Umgebung und Klang miteinander verknüpften, und war auch an der akustischen Planung öffentlicher Räume beteiligt.
 
 Japanische Ambient-Musik zeichnet sich dadurch aus, dass sie an der Schnittstelle dieser Künste, Tontechnik und Stadtplanung entsteht.
 
@@ -134,7 +134,7 @@ Sie behandelt Schlaginstrumente nicht als Symbole der „Zeit“, sondern als �
 
 # **2-3. Takashi Kokubo – Entdecker von Komfort und Wohnakustik**
 
-Takashi Kokubo (1956-) hat nach einer Karriere in der Produktion von Soundeffekten und Rundfunkton seit den 1980er Jahren zahlreiche Werke zum Thema „angenehme Akustik“ veröffentlicht.
+Takashi Kokubo (1956-) hat nach einer Karriere in der Produktion von Soundeffekten und Rundfunkaudio seit den 1980er Jahren zahlreiche Werke zum Thema „angenehme Akustik“ veröffentlicht.
 
 ## ● Repräsentative Werke
 - **《Ion-Serie》(1980er-Jahre)**
@@ -170,7 +170,7 @@ Ein elektronisches und zugleich idyllisches Meisterwerk.
 ## ● 3-1. Synthesizer-Kultur
 In den 1980er Jahren dominierten japanische Hersteller elektronischer Musikinstrumente den Weltmarkt und hatten großen Einfluss auf die Ambient-Musik.
 
-Geräte, die häufig verwendet wurden (innerhalb des nachweisbaren Bereichs)
+Geräte, die häufig genutzt wurden (innerhalb des nachweisbaren Bereichs)
 - Yamaha DX7
 - Roland Juno-Serie
 - Roland RE-201 (Bandecho)
@@ -271,7 +271,7 @@ Japanische Umweltmusik ist nicht nur „heilend“ oder „Hintergrundgeräusch�
 **Klangkunst geschaffen durch urbane Kultur, Design und Lebensphilosophie**
 Es ist.
 
-- Zwischenfeld zwischen Kunst und Musik
+- Zwischenbereich zwischen Kunst und Musik
 - Reaktion auf die Urbanisierung
 - Lebensstilkultur und Hausgerätetechnik
 - Synthesizer-Innovation

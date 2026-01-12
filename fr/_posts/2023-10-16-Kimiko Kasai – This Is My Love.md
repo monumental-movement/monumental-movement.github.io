@@ -9,11 +9,11 @@ permalink: /fr/kimiko-kasai-this-is-my-love/
 tags:
 - Soul
 - Jazz
-title: Kimiko Kasai – C'est mon amour
+title: Kimiko Kasai – This Is My Love
 ---
 
 
-"This Is My Love" est un album sorti en 1975. Arrangé par Bobby Scott.
+「This Is My Love」は、1975年にリリースされたアルバム。アレンジはBobby Scott（ボビー・スコット）。
 
 #### Liste des chansons
 ```md

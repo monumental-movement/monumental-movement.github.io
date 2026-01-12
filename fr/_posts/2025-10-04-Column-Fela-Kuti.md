@@ -84,7 +84,7 @@ Période londonienne → enregistrement aux États-Unis → établissement en Af
 
 ---
 
-**Tony Allen** : Batteur qui a co-créé les rythmes Afrobeat. Sa mort (2020) a été une grande perte pour le genre, mais le cœur de l’Afrobeats demeure.
+**Tony Allen** : batteur qui a co-créé les rythmes Afrobeat. Sa mort (2020) a été une grande perte pour le genre, mais le cœur de l’Afrobeats demeure.
 
 ---
 

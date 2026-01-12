@@ -24,7 +24,7 @@ Folk-Tronica/Indietronica ist ein hybrider Musiktrend des 21. Jahrhunderts und d
 Es entstand aus der Verbindung von Volksmelodien, Gitarrenarpeggios, Feldaufnahmen natürlicher Klänge und der Sampling-Kultur der Laptop-Elektronik.
 
 Zu den Künstlern, die dieses Genre der Welt deutlich präsentiert haben, gehören **Four Tet (Kieran Hebden)**, **Caribou (Daniel Snaith)** und **Bonobo (Simon Green)**.
-Obwohl sie alle einen Hintergrund in der elektronischen Musik haben, haben sie eine Vielzahl von Musikstücken wie Jazz, Folk, Ethno-Musik und Post-Rock gesampelt und rekonstruiert und so den Kontext der Electronica seit den 2000er Jahren erweitert.
+Obwohl sie alle einen Hintergrund in der elektronischen Musik haben, haben sie seit den 2000er Jahren den Kontext der Electronica erweitert, indem sie eine Vielzahl von Musikstücken wie Jazz, Folk, ethnische Musik und Post-Rock gesampelt und rekonstruiert haben.
 
 ---
 
@@ -57,7 +57,7 @@ Hauptmerkmale:
 
 ### ■ Was ist Indietronica?
 Der Fluss der Einführung elektronischer Musik in den Kontext des Indie-Rock.
-Während Folk-Tronica auf Folk-Elementen basierte, hat Indietronica eine starke Ausrichtung auf **Bandsound + Elektronik**.
+Während Folk-Tronica auf Folk-Elementen basierte, liegt bei Indietronica ein starker Fokus auf **Bandsound + Elektronik**.
 
 Beispiele: The Postal Service, Hot Chip, Múm usw.
 
@@ -196,7 +196,7 @@ Darüber hinaus entwickelte sich ein neuer Stil des Live-Managements, bei dem de
 ## 8. Zusammenfassung: Wo akustische „Erinnerung“ und digitale „Rekonstruktion“ aufeinandertreffen
 
 Folk-Tronica/Indietronica ist eine Methode zur Rekonstruktion der Einfachheit und des narrativen Charakters von Volksmusik mithilfe elektronischer Musikbearbeitungstechnologie.
-Es ist ein Genre, das „Wärme“, „Textur“ und „Ästhetik der Lücken“ in das digitale Zeitalter bringt.
+Es ist ein Genre, das „Wärme“, „Berührung“ und „Ästhetik der Lücken“ in das digitale Zeitalter bringt.
 
 Die Werke von Four Tet, Caribou und Bonobo sind
 Es zeigt deutlich, dass Sample-Bearbeitung, Feldaufnahme und Aufnahmetechniken für akustische Instrumente den Bereich der elektronischen Musik erweitern können.

@@ -22,7 +22,7 @@ title: '[Chronique] DJ Harvey et la collection de disques : le DJ comme corps qu
 Texte : mmr｜Thème : Pas seulement un DJ, mais une considération du dernier « chaman » de l'ère analogique
 
 
-DJ Harvey - Le simple fait d'entendre ce nom fait se détendre le visage de nombreux amateurs de club.
+DJ Harvey - Le simple fait d'entendre ce nom donne un air relâché à de nombreux amateurs de club.
 Co-fondateur du légendaire club londonien **Tonka Sound System**, il s'est fait connaître dans les années 90 en tant que résident au **Ministry of Sound**, a déménagé à **Ibiza** dans les années 2000 et est désormais basé à **Los Angeles**.
 
 dit Harvey. "Les disques sont des fragments de mon âme. Quand l'aiguille tombe, Dieu y demeure."
@@ -58,7 +58,7 @@ Ce sentiment de « respiration » a donné naissance plus tard à sa philosophie
 
 ---
 
-## Chapitre 2 : L'essence de la culture de fouille d'Harvey
+## Chapitre 2 : L'essence de la culture de fouille d'Harvey
 
 La collection de disques de DJ Harvey est bien plus qu'une simple collection.
 Pour lui, un document est « l’acte de conserver une trace de la vie de quelqu’un d’autre ».
@@ -123,7 +123,7 @@ DJ Harvey a récemment déclaré dans une interview :
 > "Je ne suis plus un 'collectionneur'. Je vis juste avec la musique."
 
 En ces mots, il y a la **liberté** que j'ai atteinte à la fin de ma carrière de DJ de plus de 40 ans.
-Collectionner des disques n'était pas un acte de « possession » de la musique, mais plutôt une façon de vivre du temps ensemble.
+Collectionner des disques n'était pas un acte de « possession » de la musique, mais plutôt une manière de vivre du temps ensemble.
 
 Les murs de sa maison sont tapissés de disques analogiques. Il ne s’agit cependant en aucun cas d’archives statiques.
 Chaque fois qu'Harvey laisse tomber l'aiguille, le temps inscrit au tableau reprend vie.
@@ -273,7 +273,7 @@ Ce diagramme montre visuellement comment Harvey « garde le son vivant ».
 ## Résumé
 
 Grâce à ceux-ci, la philosophie du DJ d'Harvey devient claire.
-Il ne s’agit pas simplement d’une reproduction musicale, mais d’un acte d’accordage du temps, du corps et de l’espace.
+Cela signifie qu’il ne s’agit pas simplement de jouer de la musique, mais d’accorder le temps, le corps et l’espace.
 La boîte à disques est sa vision du monde,
 Chaque disque est vivant comme un « fragment de mémoire et d'expérience ».
 

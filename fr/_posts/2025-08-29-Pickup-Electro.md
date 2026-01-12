@@ -99,7 +99,7 @@ B. Like No Other (Rennie Pilgrem Mix Pt 2)
 ### Cari Lekebusch – Universalsessions – Instrumentalicks
 <a href="https://jp.mercari.com/item/m21088903450?afid=6142608987"><img src="../assets/images/Cari%20Lekebusch%20%E2%80%93%20Universalsessions.webp"></a>
 
-Le point : « Side B » est un morceau sombre avec un côté électro particulièrement fort. Une « tension mécanique » flotte dans l'atmosphère tranquille, vous entraînant dans une vision du monde à la fois froide et profonde.
+Le point : "Side B" est un morceau sombre avec un côté électro particulièrement fort. Une « tension mécanique » flotte dans l'atmosphère tranquille, vous entraînant dans une vision du monde à la fois froide et profonde.
 
 Charme : Electro sombre et tendue
 
@@ -124,7 +124,7 @@ B. Video Hi 8 (Instrumental)
 ### Beroshima – Danse la machine
 <a href="https://jp.mercari.com/item/m78848372644?afid=6142608987"><img src="../assets/images/Beroshima%20%E2%80%93%20Dance%20The%20Machine.webp"></a>
 
-Point : Une sortie de Frank Muller du projet électro allemand Beroshima formé en 1994. Ulrich Schnauss a également participé, et leur son électro est une fusion d'approches minimales et disco.
+Point : Un album de Frank Muller du projet électro allemand Beroshima formé en 1994. Ulrich Schnauss a également participé, et leur son électro est une fusion d'approches minimales et disco.
 
 Charme : Electro minimal et disco
 

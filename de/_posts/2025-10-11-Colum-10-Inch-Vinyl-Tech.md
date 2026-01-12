@@ -20,7 +20,7 @@ title: '[Kolumne] Ergänzung zur 10-Zoll-Schallplattentechnologie: Die Wahrheit 
 ## 10-Zoll-Designkonzept: Präzision im Medium Format
 
 
-Text: mmr | Thema: Eintauchen in den technischen Hintergrund von 10-Zoll-Schallplatten, wie z. B. deren Struktur, Rotationsgeschwindigkeit und Mastering, und Überdenken der Einzigartigkeit des durch das Format erzeugten Klangs.
+Text: mmr｜Thema: Eintauchen in den technischen Hintergrund von 10-Zoll-Schallplatten, wie z. B. deren Struktur, Rotationsgeschwindigkeit und Mastering, und Überdenken der Einzigartigkeit des durch das Format erzeugten Klangs.
 
 
 Die physische Struktur einer Schallplatte verkörpert die Philosophie des Musikformats in ihrer reinsten Form.
@@ -51,7 +51,7 @@ color: #fff;
 Einer der Faktoren, die die Klangqualität einer Schallplatte bestimmen, ist die Rotationsgeschwindigkeit (U/min) und die lineare Geschwindigkeit.
 
 - **7 Zoll Single: 45 U/min**
-Der Klang ist an der Außenperipherie sehr kraftvoll und die hohen Frequenzen werden hervorragend wiedergegeben. Allerdings nimmt die Verzerrung am Innenumfang zu.
+Der Klang ist an der äußeren Peripherie sehr kraftvoll und die hohen Frequenzen werden hervorragend wiedergegeben. Allerdings nimmt die Verzerrung am Innenumfang zu.
 
 - **12 Zoll LP: 33⅓U/min**
 Es eignet sich für die Langzeitwiedergabe und sorgt für eine stabile Klangqualität, allerdings sind die hohen Frequenzen etwas gedämpft.
@@ -61,7 +61,7 @@ Die Grenze liegt bei etwa 12 Minuten pro Seite bei 33⅓ und etwa 8 bis 9 Minute
 Mit anderen Worten: Die Stärke des 10-Zoll-Geräts liegt darin, dass es möglich ist, ein System zu entwickeln, bei dem die Klangqualität Vorrang vor der Zeit hat.
 
 Die durchschnittliche lineare Geschwindigkeit ist etwa 15 % höher als bei 12 Zoll und es gibt weniger Verzerrungen am Innenumfang.
-Besonders bei Musik mit starkem Anschlag, wie Jazz oder Indie-Rock, erzeugt diese Geschwindigkeitscharakteristik ein klares Gefühl für Rhythmus und räumliche Trennung.
+Besonders bei Musik mit starkem Anschlag, wie etwa Jazz oder Indie-Rock, erzeugt diese Geschwindigkeitseigenschaft ein klares Gefühl für Rhythmus und räumliche Trennung.
 
 ---
 
@@ -114,7 +114,7 @@ Dieser Vorgang ist besonders bei 10-Zoll-Modellen wichtig, da die Stabilität de
 Bei 10-Zoll-Scheiben beträgt die Dicke im Allgemeinen etwa 1,8 bis 2,0 mm und das Gewicht etwa 120 bis 150 g.
 Beeinflusst durch den Boom bei 12-Zoll-Schallplatten mit einem Gewicht von 180 g neigen wir dazu zu denken, dass „schwerer eine bessere Klangqualität bedeutet“, aber in Wirklichkeit sind die Dichte und die Ebenheit des Materials wichtiger.
 
-Die geringe Größe des 10-Zoll-Boards erhöht natürlich die Steifigkeit des gesamten Boards, wodurch es weniger dazu neigt, sich zu verziehen und weniger Resonanzen zu verursachen.
+Die geringe Größe des 10-Zoll-Boards erhöht natürlich die Steifigkeit des gesamten Boards, wodurch es weniger wahrscheinlich ist, dass es sich verzieht und weniger Resonanzen verursacht.
 Mit anderen Worten: Auch wenn es dünn ist, ist der Klang satt. Aus diesem Grund gibt es auch bei einer leichten 10-Zoll-Scheibe nahezu keinen Nachteil hinsichtlich der Klangqualität.
 
 ---
@@ -129,7 +129,7 @@ Aus akustischer Sicht zeigen die Wiedergabefrequenzeigenschaften von 10-Zoll-Dis
 | 1kHz bis 4kHz | ±0dB | Flach, klar |
 | 8kHz oder höher | −1 bis 2 dB | Die Hochfrequenzdämpfung ist ziemlich schnell (physikalische Einschränkungen) |
 
-Diese Eigenschaft führt zu einem Klangbild mit einem „nahen Gefühl“ mit Schwerpunkt im Mitteltonbereich.
+Diese Eigenschaft führt zu einem Klangbild mit einem „nahen Gefühl“, das sich auf den Mitteltonbereich konzentriert.
 Der Grund dafür, dass 10-Zoll-Discs ein „Live-Sound“ zugeschrieben wird, liegt in der hohen Dichte des Mitteltonbereichs.
 
 ---
@@ -148,7 +148,7 @@ Aus diesem Grund entscheiden sich Club- und Noise-Künstler häufig für den 10-
 
 ---
 
-### Mastering Philosophy: Technik, um in begrenzter Zeit „ein Werk zu schnitzen“.
+### Beherrschung der Philosophie: Technik, um in begrenzter Zeit „ein Werk zu schnitzen“.
 
 10-Zoll-Schneiden ist nicht nur eine Technik, sondern auch eine „Bearbeitungsästhetik“.
 Da die Zeit begrenzt ist, ist es wichtig zu entscheiden, welche Geräusche beibehalten und welche entfernt werden sollen.
@@ -159,7 +159,7 @@ Es handelt sich nicht mehr um ein Format der Vergangenheit, sondern um ein 10-Zo
 
 ---
 
-### Fazit: Die Philosophie der Musik, die in der Physik der Platte liegt
+### Fazit: Musikphilosophie in der Physik einer Scheibe
 
 Wenn es um die technische Attraktivität von 10-Zoll-Discs geht, fällt vor allem die „Freiheit durch Zwänge“ auf.
 Designbeschränkungen, Zeitbeschränkungen und Größenbeschränkungen.

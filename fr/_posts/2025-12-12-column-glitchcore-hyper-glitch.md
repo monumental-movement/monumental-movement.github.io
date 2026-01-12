@@ -21,7 +21,7 @@ title: '[Chronique] Glitchcore / Hyper-Glitch Pop continue de s''effondrer, le f
 Texte : mmr｜Thème : Processus de formation du Glitchcore/Hyper-Glitch, techniques acoustiques, contexte culturel, artistes représentatifs, développement dans les années 2020 et perspectives d'avenir
 
 Le Glitchcore et l'Hyper-Glitch sont une tendance de la musique pop/électronique générée sur Internet qui se produit depuis la fin des années 2010, avec la « corruption », la « fragmentation » et la « surcharge » au centre de son esthétique.
-Clics, bruit, distorsion numérique, pitch shifts, traitement de type Vocaloid, développement rapide des chansons, fluctuations bizarres du tempo - la caractéristique la plus distinctive de cet album est qu'il tente d'exprimer un « équilibre entre excès et déclin » en fusionnant ces éléments dans un contexte hautement pop.
+Clics, bruit, distorsion numérique, pitch shifts, traitement de type Vocaloid, développement rapide des chansons, étranges fluctuations de tempo - la caractéristique la plus distinctive de cet album est qu'il tente d'exprimer un « équilibre entre excès et déclin » en fusionnant ces éléments dans un contexte hautement pop.
 
 Des groupes tels que SOPHIE, A. G. Cook et 100 gecs ont porté cette « pop brisée » à un niveau international, prouvant que de nombreux artistes pouvaient « créer un langage musical global depuis leur propre chambre » grâce à des DAW et des packs d'échantillons.
 
@@ -131,7 +131,7 @@ Caractéristiques typiques :
 
 ---
 
-### 3-2　100 gecs
+### 3-2　100 gés
 
 100 gecs (Laura Les & Dylan Brady) est une icône du Glitchcore. Ils ont mélangé l'emo, le ska, le métal, la trap et le Bubblegum Pop dans un état frénétique, transformant « l'effondrement du genre » en pop.
 
@@ -192,7 +192,7 @@ indiquer:
 
 * Tir simultané des tiges
 * Superposition de couches denses
-* Gamme basse excessive
+* Trop de basses
 * Utilisation extrême de limiteurs de pression acoustique
 
 ---

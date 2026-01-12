@@ -24,7 +24,7 @@ Text: mmr｜Thema: Über Butthole Surfers‘ **Tonquelle, Live-Auftritt, Aufnahm
 
 
 Nur wenige Figuren im amerikanischen Untergrund der 1980er Jahre waren so bizarr, gewalttätig und halluzinatorisch wie die Butthole Surfers.
-Ihre Live-Shows werden oft mit den Begriffen „Shock Rock“, „Heavy Psychedelic“ und „Mayhem“ beschrieben, aber ihr Wesen ist viel komplexer.
+Ihre Live-Auftritte werden oft als „Shock Rock“, „Heavy Psychedelic“ und „Chaos“ beschrieben, ihr Wesen ist jedoch viel komplexer.
 
 *Verwirrung entsteht durch Berechnung,
 Dissonanz entsteht durch Improvisation,
@@ -54,12 +54,12 @@ Die Band wurde in Texas gegründet und hatte von Anfang an Elemente, die zum Syn
 
 Obwohl sich die Mitglieder im Laufe der Zeit ändern, sind die anfänglichen Kernmitglieder wie folgt.
 
-* **Gibby Haynes** – Gesang, Gitarre, visuelle Regie
+* **Gibby Haynes** – Gesang, Gitarre, visuelle Leitung
 * **Paul Leary** – Gitarre
 * **King Coffey** – Schlagzeug
 * **Teresa Taylor** – Schlagzeug (Doppeltrommelkonfiguration)
 
-Insbesondere Gibby Haynes und Paul Leary fanden trotz unterschiedlicher musikalischer Ausrichtung Harmonie und gründeten eine Aktivität, die einer Kunstgruppe ähnelte.
+Vor allem Gibby Haynes und Paul Leary fanden trotz unterschiedlicher musikalischer Ausrichtung Harmonie und gründeten eine Aktivität, die einer Kunstgruppe ähnelte.
 
 ---
 
@@ -127,7 +127,7 @@ flowchart TD
 
 <div class="mermaid"></div>
 flowchart TD
-    A[„Gitarrenriff/Geräusch“] --> B[„Mehrschichtige Drum-Aufnahme“]
+    A[„Gitarrenriff/Lärm“] --> B[„Mehrschichtige Drum-Aufnahme“]
     B --> C[„Saxophonimprovisation“]
     C --> D[„Stereofeldanpassung“]
     D --> E[„Mixing und Mastering“]
@@ -234,7 +234,7 @@ flowchart TD
 
 <div class="mermaid"></div>
 flowchart TD
-    A[„Gitarrenriff/Geräusch“] --> B[„Mehrschichtige Drum-Aufnahme“]
+    A[„Gitarrenriff/Lärm“] --> B[„Mehrschichtige Drum-Aufnahme“]
     B --> C[„Saxophonimprovisation“]
     C --> D[„Stereofeldanpassung“]
     D --> E[„Mixing und Mastering“]
@@ -331,9 +331,9 @@ flowchart LR
 <div class="mermaid"></div>
 flowchart TD
     A[„Gitarre: Hochleistungsverstärker“] --> B[„Geräuschschicht“]
-    B --> C[„PA: Mittel-Hochton-Anhebung“]
+    B --> C[„PA: Anhebung des Mittelhochtonbereichs“]
     C --> D[„Hinter der Bühne: Bildprojektion“]
-    D --> E[„Publikumserlebnis: Immersiver psychedelischer Raum“]
+    D --> E[„Zuschauererlebnis: Immersiver psychedelischer Raum“]
 
 ---
 

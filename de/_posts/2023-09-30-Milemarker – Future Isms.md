@@ -13,7 +13,7 @@ title: Meilenstein – Zukunfts-Ismen
 ---
 
 
-Milemarker ist eine Post-Hardcore-Band aus North Carolina, USA. Ihr Sound ist ein Stilmix aus experimenteller Elektronik, New Wave und Alternative Rock.
+Milemarker ist eine Post-Hardcore-Band aus North Carolina, USA. Ihr Sound ist eine Stilmischung aus experimenteller Elektronik, New Wave und Alternative Rock.
 
 #### Trackliste
 ```md

@@ -13,7 +13,7 @@ title: 다양한 – 총 집 약속 EP
 ---
 
 
-샌프란시스코 하우스 레이블 THC(Total House Commitment)가 출시한 딥 하우스/테크 하우스 컴필레이션입니다.
+샌프란시스코 하우스 레이블 THC - Total House Commitment에서 출시한 딥 하우스/테크 하우스 편집본입니다.
 
 #### 트랙리스트
 ```md

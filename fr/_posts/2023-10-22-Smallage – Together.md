@@ -16,7 +16,7 @@ title: Smallage – Ensemble
 
 Smallage est un projet du DJ italien Stefano Mango, DJ Lino Lodi et Denis Quarin.
 
-Les voix de "Together" sont extraites de "Touch Me (All Night Long)" de Fonda Rae.
+Les voix de « Together » sont extraites de « Touch Me (All Night Long) » de Fonda Rae.
 
 #### Liste des chansons
 ```md

@@ -15,7 +15,7 @@ title: Astuce bon marché – En couleur
 
 Cheap Trick est un groupe de rock américain formé à Rockford, dans l'Illinois, en 1974 par Robin Zander, Rick Nielsen, Tom Peterson et Van E. Carlos.
 
-"In Color" est le deuxième album de Cheap Trick. Le producteur est Tom Werman, connu comme le producteur de Ted Nugent.
+"In Color" est le deuxième album de Cheap Trick. Le producteur est Tom Werman, connu pour avoir produit Ted Nugent.
 
 #### Liste des chansons
 ```md

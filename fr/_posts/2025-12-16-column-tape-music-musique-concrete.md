@@ -22,11 +22,11 @@ Texte : mmr｜Thème : « Redéfinir la musique sur bande/musique concrète dans
 
 ### 1.1 Isolement des phénomènes acoustiques
 
-Avant la musique concrète, la musique était traitée comme une combinaison d’éléments abstraits tels que la hauteur, le rythme et l’harmonie. Cependant, avec le développement de la technologie d’enregistrement, le son a été isolé en tant qu’événement temporel et spatial et est devenu un objet réorganisable. Cette idée est devenue le point de départ du démantèlement de la distinction entre sons instrumentaux et sons environnementaux.
+具体音楽以前、音楽は音高・リズム・和声といった抽象化された要素の組み合わせとして扱われてきた. Cependant, avec le développement de la technologie d'enregistrement, le son a été isolé en tant qu'événement temporel et spatial et est devenu un objet qui peut être réorganisé.
 
 ### 1.2 Technologie de radiodiffusion et espace expérimental
 
-Le centre de recherche rattaché à la station de radiodiffusion fonctionnait comme un espace expérimental différent de la salle de spectacle. Les sons joués dans un espace exclusivement destiné à la reproduction ont été séparés du corps de l'interprète et l'acte d'écoute lui-même a été restructuré.
+L'installation de recherche rattachée à la station de radiodiffusion fonctionnait comme un espace expérimental différent de la salle de spectacle. Les sons joués dans un espace exclusivement destiné à la reproduction ont été séparés du corps de l'interprète et l'acte d'écoute lui-même a été restructuré.
 
 
 ---
@@ -141,7 +141,7 @@ Le processus par lequel les sons réels étaient abstraits obligeait les auditeu
 
 ---
 
-## 10. Diffusion d'influence
+## 10. Diffusion de l'influence
 
 ### 10.1 Musique expérimentale et au-delà
 
@@ -156,7 +156,7 @@ C’est à cette époque que s’est enracinée la reconnaissance du fait que le
 ## 11. Chronologie
 
 * Années 1940 : diffusion de l'enregistrement sur bande magnétique
-* Années 1950 : Systématisation de la musique Gutai
+* Années 1950 : Systématisation de la musique Gutai
 * Années 1960 : Développement des studios de musique électronique
 * Années 1970 : Réévaluation par la fusion de l'improvisation, de la noise et de la musique électronique
 

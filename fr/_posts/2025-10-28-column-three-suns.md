@@ -10,20 +10,19 @@ tags:
 - Exotica
 - 40s
 - Lounge
-title: '[Chronique] Trois Soleils et la magie de l''accordéon - une fable acoustique
-  née dans l''Amérique d''après-guerre'
+title: 【コラム】 Three Sunsとアコーディオンの魔法 ― 戦後アメリカが生んだ音響の寓話
 ---
 
 
-## Prologue : Trois soleils résonnent dans le salon au crépuscule
+## 序章：夕暮れのリヴィングに響く三つの太陽
 
 
-Texte : mmr｜Thème : Exploration du paysage sonore de l'Amérique d'après-guerre dessiné par un trio accordéon, guitare et orgue
+文：mmr｜テーマ：アコーディオン、ギター、オルガンの三重奏が描いた、戦後アメリカのサウンドスケープを探る
 
-Une douce mélodie retentit à la radio. Ce qui sonnait là-bas, c'était **Trois Soleils**――
-C'était un symbole de la musique familiale américaine dans les années 1940, composé d'un accordéon, d'une guitare et d'un orgue électrique.
+ラジオから流れる柔らかな旋律。そこに鳴っていたのは、**Three Suns（スリー・サンズ）**――
+アコーディオン、ギター、エレクトリック・オルガンという編成で構築された、1940年代アメリカの家庭音楽の象徴だった。
 
-C’était une époque où la guerre était finie et où la télévision n’était pas encore très répandue.
+戦争が終わり、テレビがまだ普及していなかった時代。
 La musique qui jouait dans les salons des gens n'était ni du jazz ni de la musique classique, mais le son qui symbolisait la « relaxation » elle-même.
 Au centre de ce son se trouvait l'**accordéon**.
 
@@ -65,7 +64,7 @@ Ce son était une « lumière sonore » qui réchauffait le microcosme de la mai
 
 L'accordéon de Morty Nevins n'était pas seulement un accompagnement, c'était un créateur de mélodie et d'espace.
 Le lead bouge comme une diapositive, le soufflet bouge comme une respiration et le tempo fluctue légèrement.
-Ceux-ci créent la **sentiment unique de flottement et de bonheur** de Three Suns.
+Ceux-ci créent la **sentiment unique de flottement et de bonheur** des Trois Soleils.
 
 Dans les années 1950, ils signent un contrat avec RCA et publient une série d'œuvres expérimentales intégrant l'enregistrement magnétique et la technologie stéréo.
 "Movin' 'n' Groovin'" (1956), "Midnight for Two" (1957), etc.
@@ -92,7 +91,7 @@ C'était vraiment du **design intérieur du son**.
 | Audio haute fidélité | Vulgarisation de la lecture stéréo dans les foyers | Enregistrement avec des effets acoustiques à l'esprit |
 | Culture des cocktails | Symbole des loisirs urbains | Musique fusionnée avec « ivresse » |
 | Films maison | BGM à l’ère du film 8 mm | Trois Soleils était fréquemment utilisé |
-| Orienté vers l'espace | Esthétique de l'ère spatiale | Le son flottant résonne |
+| Orienté vers l'espace | Esthétique de l’ère spatiale | Le son flottant résonne |
 
 ---
 
@@ -105,7 +104,7 @@ Cependant, au 21ème siècle, leurs enregistrements ont regagné l'attention ave
 En particulier, le son de l'accordéon a été redéfini comme un « son électronique organique » antérieur aux synthétiseurs analogiques.
 
 > L'accordéon est un symbole de nostalgie,
-> Réincarné en « son futur lo-fi et psychédélique ».
+> Réincarné en "futur son lo-fi et psychédélique".
 
 ---
 
@@ -164,7 +163,7 @@ Cela commence à nouveau à paraître au nom d’un « avenir analogique ».
 
 | Année | Titre | Étiquette | Remarques |
 | ---- | ------------------- | ---- | ------------------ |
-| 1944 | Temps du crépuscule | RCA | Chanson signature, reprise plus tard par Platters |
+| 1944 | Temps crépusculaire | RCA | Chanson signature, reprise plus tard par Platters |
 | 1953 | Sur un tapis magique | RCA | Le germe du son exotique |
 | 1956 | Bouger et groover | RCA | Un chef-d'œuvre des débuts de la stéréo |
 | 1957 | Minuit pour deux | RCA | Enregistrement Hi-Fi complet |

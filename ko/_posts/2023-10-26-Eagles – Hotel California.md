@@ -14,7 +14,7 @@ title: 이글스 – 호텔 캘리포니아
 ---
 
 
-이글스 앨범 'Hotel California'' 타이틀곡. Don Felder와 Don Henley의 가사와 음악.
+이글스 앨범 '호텔 캘리포니아'의 타이틀곡. 돈 펠더(Don Felder)와 돈 헨리(Don Henley)가 작사와 작곡을 맡았습니다.
 
 #### 트랙리스트
 ```md

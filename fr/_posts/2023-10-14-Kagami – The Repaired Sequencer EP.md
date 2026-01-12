@@ -9,15 +9,15 @@ permalink: /fr/kagami-the-repaired-sequencer-ep/
 tags:
 - Techno
 - Disco
-title: Kagami – Le séquenceur réparé EP
+title: Kagami – The Repaired Sequencer EP
 ---
 
 
-Un morceau techno-disco de Kagami sorti sur le label techno Frogman Records en 2001.
+2001年にテクノレーベルFrogman RecordsよりリリースされたKagami（カガミ）によるテクノ・ディスコ・トラック。
 
-Le premier morceau de la face B est un remix de l'unité Sound Associates de Ben Tisdall et Daz Saund.
+B面１曲目は、Ben TisdallとDaz SaundのユニットSound Associatesによるremix。
 
-Le deuxième morceau de la face B est un remix du DJ et producteur allemand Thomas Schumacher.
+B面２曲目は、ドイツ出身のDJ兼プロデューサーThomas Schumacher（トーマス・シューマッハ）によるremix。
 
 #### Liste des chansons
 ```md

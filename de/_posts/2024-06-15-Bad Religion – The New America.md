@@ -15,7 +15,7 @@ title: Schlechte Religion – Das neue Amerika
 ---
 
 
-Bad Religion ist eine in Los Angeles gegründete Punkrockband und eine wichtige Figur des modernen Punkrocks, bekannt als eine der Gruppen, die den melodischen Hardcore-Stil geschaffen haben.
+Bad Religion ist eine in Los Angeles gegründete Punkrockband und eine führende Figur des modernen Punkrocks, bekannt als eine der Gruppen, die den melodischen Hardcore-Stil geschaffen haben.
 
 „The New America“, veröffentlicht im Jahr 2000, ist ihr 11. Studioalbum, wobei die Titel 14 und 15 Bonustracks auf der japanischen Version sind.
 

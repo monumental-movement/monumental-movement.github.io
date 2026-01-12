@@ -10,13 +10,13 @@ tags:
 - Indie Rock
 - Rock
 - 90s
-title: 부 래들리스 – 바니(…그리고 나)
+title: The Boo Radleys – Barney (...And Me)
 ---
 
 
-1988년부터 1999년까지 활동했다가 2021년에 재결합한 슈게이즈, 브릿팝 관련 영국 얼터너티브 록 밴드.
+1988年〜1999年まで活動し、2021年に再結成したシューゲイザーとブリットポップに関連したUKのオルタナティヴ・ロック・バンド。
 
-"Barney (...And Me)"는 1993년 발매된 앨범 "Giant Steps"의 싱글 컷으로, 2025년 TV 애니메이션 "Lazarus"의 엔딩곡으로 사용된 "Lazarus"도 포함되어 있다. Indie Rock은 1994년 Oasis, Primal Scream이 소속된 영국 인디 레이블인 Creation Records에서 발매되었다.
+「Barney (...And Me)」は、2025年にテレビアニメ『Lazarus ラザロ』のエンディング曲に使用された「Lazarus」も収録されている1993年リリースのアルバム『Giant Steps 』からのシングルカット。1994年にオアシスやプライマルスクリーム等が在籍したUKのインディーズレーベルCreation Records (クリエイション・レコーズ)からリリースされたIndie Rock。
 
 #### 트랙리스트
 ```md

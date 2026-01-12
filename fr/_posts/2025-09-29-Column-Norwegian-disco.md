@@ -160,16 +160,16 @@ Un film documentaire racontant l'histoire et le développement de la scène musi
 
 ---
 
-### Analyse : Pourquoi la discothèque norvégienne est-elle acclamée à l'échelle internationale
+### Analyse : Pourquoi la discothèque norvégienne est acclamée à l'échelle internationale
 
-1. **Esthétique de la texture** : La coexistence des manières scandinaves de créer un « espace » (réverbération et espace) avec une sensation analogique chaleureuse.
+1. **Esthétique de la texture** : La coexistence des méthodes scandinaves de création d'« espace » (réverbération et espace) avec une sensation analogique chaleureuse.
 2. **Culture du long track** : Un style qui met l'accent sur le « voyage » à travers les albums plutôt que les clubs.
 3. **Références interculturelles** : références gratuites à des éléments de musique italo, disco française et même folk.
 
 
 ---
 
-### dernièrement
+### 最後に
 
 Prins Thomas, Lindstrøm et Mungolian Jet Set continuent d'envoyer de la « disco à température » depuis la Norvège vers le monde. Compte tenu de leur parcours musical et de leur travail de production, leurs morceaux vont au-delà de la simple musique de danse et offrent une expérience d'écoute teintée d'une idée scandinave du temps et du paysage.
 

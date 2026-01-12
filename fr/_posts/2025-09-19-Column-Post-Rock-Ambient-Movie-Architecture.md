@@ -14,12 +14,12 @@ title: '[Chronique] Interaction post-rock/ambient avec le cinéma et l''architec
 ---
 
 
-## Interaction avec le cinéma post-rock/ambiant et l'architecture
+## Interaction avec le cinéma et l'architecture post-rock/ambient
 
 Texte : mmr｜Thème : Post Rock/Ambient et films/architecture
 
 L'évolution du post-rock/ambient ne se limite pas à un seul genre musical, mais a une affinité avec l'art spatial tel que le **film, l'architecture et l'urbanisme**.
-Ici, en plus des chefs-d'œuvre historiques, nous organiserons des interactions avec des films et des expériences architecturales et ambiantes dans les espaces urbains.
+En plus des chefs-d'œuvre historiques, nous organiserons également des interactions avec le cinéma et l'architecture, ainsi que des expériences ambiantes dans les espaces urbains.
 
 ---
 

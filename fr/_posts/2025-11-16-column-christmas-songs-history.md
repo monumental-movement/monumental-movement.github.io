@@ -20,7 +20,7 @@ title: '[Chronique] Changements dans les chants de Noël : des années 1950 aux
 ## Prologue L'attrait mondial des chants de Noël
 
 
-Texte : mmr｜Thème : À propos des chansons de Noël, qui ne sont pas seulement de la musique saisonnière, mais des phénomènes culturels qui reflètent les changements dans la technologie, le milieu social et l'industrie musicale de l'époque.
+Texte : mmr｜Thème : À propos des chansons de Noël, qui ne sont pas seulement de la musique saisonnière, mais des phénomènes culturels qui reflètent les changements dans la technologie, le milieu social et l'industrie musicale de l'époque.
 
 
 Les chansons de Noël ont une existence particulière, réchauffant le cœur pendant le froid de l’hiver et racontant des histoires d’amour, de famille et d’amitié dans des mélodies. Il a été apprécié par des générations et son expression et son format de distribution ont évolué au fil du temps. Si nous suivons les changements survenus entre les années 1950 et les années 2020, nous pouvons voir comment la technologie musicale, l’environnement social et la stratégie médiatique l’ont influencé.
@@ -43,7 +43,7 @@ color: #fff;
 
 ## Prototype de chants de Noël des années 1950 aux années 1970
 
-### Chansons pop des années 1950 représentant des familles et des scènes hivernales
+### Chansons pop des années 1950 illustrant des familles et des scènes hivernales
 
 Dans l’Amérique d’après la Seconde Guerre mondiale, « White Christmas » de Bing Crosby (sorti en 1942) était emblématique. Il dépeint un Noël idéal à la maison et a été largement diffusé à la radio et sur des disques uniques.
 
@@ -177,7 +177,7 @@ En 1994, "All I Want For Christmas Is You" de Mariah Carey est devenu un succès
 
 * Augmentation des arrangements R&B, acoustiques et club
 * De nombreuses reprises et remakes de chansons standards
-* Les frontières entre les chansons anciennes et les nouvelles s'estompent en raison de la généralisation des services de distribution.
+* Les frontières entre les chansons anciennes et les nouvelles s'estompent en raison de la diffusion des services de distribution.
 * Au Japon, les reprises de chansons city pop et hivernales se multiplient.
 
 ---

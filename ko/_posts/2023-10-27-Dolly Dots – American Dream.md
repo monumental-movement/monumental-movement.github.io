@@ -9,11 +9,11 @@ permalink: /ko/dolly-dots-american-dream/
 tags:
 - Disco
 - 80s
-title: 돌리 도트 – 아메리칸 드림
+title: Dolly Dots – American Dream
 ---
 
 
-돌리닷츠(Dolly Dots)는 1970년대 후반부터 1980년대 후반까지 활동한 네덜란드 걸그룹이다. 네덜란드뿐만 아니라 벨기에, 일본, 터키에서도 성공했습니다.
+Dolly Dots（ドリー ドッツ）は、1970年後半から1980年後半まで活動したオランダのガールズグループです。オランダだけでなく、ベルギー、日本、トルコでも成功を収めました。
 
 #### 트랙리스트
 ```md

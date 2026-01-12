@@ -57,7 +57,7 @@ L'arrangement de base de la grosse caisse et de la caisse claire est relativemen
 
 ### 2.3 Conception sonore
 
-Dans Glitch Hop, le ton joue un rôle plus important que la mélodie. La basse est conçue avec une structure multicouche allant des basses aux médiums, et la distorsion, le broyeur de bits, la mise en forme d'onde, etc. sont appliqués par étapes. Dans les hautes fréquences, des bruits, des clics et de courts fragments granulaires sont placés comme des accents spatiaux.
+Dans Glitch Hop, le ton joue un rôle plus important que la mélodie. La basse est conçue avec une structure multicouche allant des basses aux médiums, et la distorsion, le broyeur de bits, la mise en forme des ondes, etc. sont appliqués par étapes. Dans les hautes fréquences, des bruits, des clics et de courts fragments granulaires sont placés comme des accents spatiaux.
 
 ---
 
@@ -69,11 +69,17 @@ Le Glitch Mob a établi une méthode de division et d'intégration approfondie d
 
 La basse est conçue pour être la force motrice de la chanson, et sa relation de phase avec le kick est strictement contrôlée. La sous-bande est souvent disposée de manière monaurale et se caractérise par une conception qui met l'accent sur la stabilité pendant la lecture en club.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xbbwjfa9JQE?si=-2_64kU--YmohV0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ### 3.2 Son KOAN
 
 KOAN Sound est connu pour son montage audio extrêmement précis et ses techniques de mixage avancées. Dans leurs chansons, différentes enveloppes et paramètres de filtre sont appliqués à chaque note, et le même ton est rarement utilisé consécutivement.
 
 Les bandes de fréquences occupées par chaque note sont clairement séparées, minimisant les collisions entre les basses, les médiums et les aigus. Cette conception maintient une clarté claire même dans les rythmes complexes.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ach8lgF6-AY?si=h70zKmxpWEPZPRgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -110,7 +116,7 @@ Dans la production de Glitch Hop, l’automatisation constitue la structure mêm
 
 ## 6. Matériel utilisé et environnement de production
 
-L'environnement de production principal est un DAW, et celui qui peut fortement intégrer l'édition audio et le contrôle MIDI est préféré. Il est important de pouvoir effectuer un montage non destructif clip par clip.
+L'environnement de production principal est un DAW, et un environnement capable d'intégrer fortement l'édition audio et le contrôle MIDI est préférable. Il est important de pouvoir effectuer un montage non destructif clip par clip.
 
 La distorsion, le traitement granulaire, le compresseur multibande et le limiteur en sont au cœur. En particulier, le traitement multibande est essentiel pour obtenir à la fois un contrôle des basses fréquences et une précision des hautes fréquences.
 
@@ -187,7 +193,7 @@ La gamme des hautes fréquences est responsable des informations spatiales et de
 
 Dans un mixage Glitch Hop, la profondeur ne s'exprime pas par la quantité de réverbération, mais par la netteté de l'attaque et le taux de décroissance. Les notes placées au recto ont des queues courtes, tandis que les notes placées au verso ont de longues queues.
 
-Alors que la gamme basse est fixée presque au centre, les éléments glitch des gammes moyenne et haute sont activement placés à gauche et à droite. Autopan est souvent utilisé pour éviter le positionnement statique.
+Alors que la plage basse est fixée presque au centre, les éléments glitch dans la plage moyenne et haute sont activement placés à gauche et à droite. Autopan est souvent utilisé pour éviter le positionnement statique.
 
 ---
 
@@ -195,17 +201,10 @@ Alors que la gamme basse est fixée presque au centre, les éléments glitch des
 
 La concurrence excessive en matière de pression sonore n’est pas nécessairement le but principal de Glitch Hop. L'accent est plutôt mis sur le contraste entre les pics momentanés et le silence. Le limiteur fonctionne donc comme un dispositif de sécurité et il existe une forte tendance à ce que l'expression elle-même soit complétée au stade du mixage.
 
----
-
-## 15. Point de vue des Monumental Movement Records
-
-Lorsqu’on considère le Glitch Hop dans le contexte de Monumental Movement Records, ce qui est important n’est pas l’imitation des styles, mais l’attitude consistant à traiter le montage lui-même comme un acte de critique. La fragmentation n’est pas une destruction mais un préalable à la réorganisation, et la musique est toujours présentée comme une structure reconstruite.
-
-Le Glitch Hop est très artificiel en théorie, mais en conséquence extrêmement physique. Cette contradiction reste irrésolue, formant en soi une tension de genre.
 
 ---
 
-## 16. Chronologie élargie
+## 15. Chronologie élargie
 
 <div class="mermaid">
 timeline
@@ -218,7 +217,7 @@ timeline
 
 ---
 
-## 17. Résumé
+## 16. Résumé
 
 Le Glitch Hop est un genre qui a été créé en augmentant au maximum la résolution d'édition de la musique rythmée. Les jugements effectués en une mesure, une note et même en millisecondes sont directement liés à la sensation physique finale. En ce sens, le Glitch Hop n’est pas seulement un ensemble de techniques de production, mais aussi un système de pensée qui conçoit l’expérience d’écoute elle-même.
 

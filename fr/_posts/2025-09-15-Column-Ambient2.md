@@ -39,7 +39,7 @@ Après la Seconde Guerre mondiale, avec l'accélération de l'urbanisation et de
 
 ### Équipement/Technologie
 - Montage avec magnétophone (découpage, rotation inverse, changement de vitesse)
-- Enregistrement sur le terrain (foule en ville, sons naturels)
+- Enregistrement sur le terrain (foule de la ville, sons naturels)
 - C'était un précédent conceptuel et est devenu plus tard le fondement philosophique de la musique ambiante.
 
 ---
@@ -164,7 +164,7 @@ color: #fff;
 
 <br>
 
-### Années 1970
+### 1970年代
 
 | Albums | Artiste | Année |
 |------|--------------|----|
@@ -198,7 +198,7 @@ color: #fff;
 
 <br>
 
-### années 1990
+### Années 1990
 
 | Albums | Artiste | Année |
 |------|--------------|----|
@@ -215,7 +215,7 @@ color: #fff;
 
 <br>
 
-### Années 2000
+### 2000年代
 
 | Albums | Artiste | Année |
 |------|--------------|----|
@@ -256,7 +256,7 @@ color: #fff;
 | années 1960 | Synthétiseur modulaire Moog | Le premier synthétiseur modulaire disponible dans le commerce au monde. Utilisé pour générer des sons soutenus et des drones. |
 | années 1970 | EMS VCS3 / Synthi A | Utilisé par Brian Eno et d'autres. Traitement du son compact mais polyvalent. |
 | années 1970 | Magnétophone Revox | Traitement du son ambiant avec boucle de bande et système flipback. |
-| années 1980 | YamahaDX7 | Son transparent de la source sonore FM. Un symbole de l'ambiance des années 80. |
+| années 1980 | YamahaDX7 | Son transparent provenant d'une source sonore FM. Un symbole de l'ambiance des années 80. |
 | années 1980 | Roland Juno-60 | Ton de corde chaud adapté à l'espace méditatif. |
 | années 1980 | Fairlight CMI | Échantillonneur coûteux. Introduire des sons naturels et des effets sonores dans la musique ambiante. |
 | années 1990 | Akai S1000/S3000 | Un échantillonneur classique prenant en charge la musique ambiante de club. |
@@ -286,7 +286,7 @@ color: #fff;
 - **Brian Eno « 77 millions de peintures »** (2006~)
 - Une installation générative qui allie vidéo et son.
 - **Ryoji Ikeda « datamatiques »** (2006~)
-- Convertir les données en audio et vidéo. Crée un espace immersif minimal et ambiant.
+- Convertir les données en audio et vidéo. Créez un espace immersif minimal et ambiant.
 - **Ryuichi Sakamoto « async – Installation »** (2017, Watari Museum of Art, etc.)
 - Art ambiant qui explore la vision de la vie, de la mort et de la mémoire, combinant sons environnementaux et sons électroniques.
 - **Olafur Eliasson « Le projet météo »** (2003, Tate Modern)
@@ -335,7 +335,7 @@ Ambient a l’aspect d’une « architecture acoustique ».
 **autres**
 
 - Yasuhiro Yoshigaki, ACO, CHIhei Hatakeyama, etc.
-- Les « ma » et « wabi-sabi » uniques au Japon forment une texture différente de la musique ambiante d'outre-mer.
+- Les « ma » et « wabi-sabi » uniques au Japon créent une texture différente de celle de la musique ambiante d'outre-mer.
 
 ---
 

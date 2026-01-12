@@ -20,9 +20,9 @@ title: '[Chronique] Art instrumental/sonore d''avant-garde'
 
 Texte : mmr｜Thème : En nous concentrant sur Alvin Lucier et Christian Fennesz, nous organiserons la lignée continue depuis les expériences sonores analogiques jusqu'au traitement numérique et clarifierons la structure de l'art sonore, y compris sa relation avec les images.
 
-Depuis le XXe siècle, la musique s’est éloignée du cadre de l’art temporel centré sur la mélodie et l’harmonie pour s’étendre à un domaine d’expression complet incluant les phénomènes physiques, l’espace et le support d’enregistrement lui-même. L’art instrumental et sonore d’avant-garde n’est pas une forme qui met en valeur l’habileté et la capacité d’interprétation d’un instrument, mais présente plutôt l’ensemble du processus par lequel le son est généré, propagé, réfléchi, modifié et perçu comme une œuvre.
+Depuis le XXe siècle, la musique s’est éloignée du cadre de l’art temporel centré sur la mélodie et l’harmonie pour s’étendre à un domaine d’expression complet incluant les phénomènes physiques, l’espace et le support d’enregistrement lui-même. L’art instrumental et sonore d’avant-garde n’est pas une forme qui met en valeur l’habileté ou la capacité d’interprétation d’un instrument, mais présente plutôt l’ensemble du processus par lequel le son est généré, propagé, réfléchi, modifié et perçu comme une œuvre.
 
-Dans ce domaine, les œuvres musicales ne sont pas nécessairement réduites à des partitions musicales et la possibilité de rejouabilité n'est pas non plus supposée. Le travail existe plutôt comme un ensemble de conditions, produisant chacune des résultats différents. temps.うに立ち上がり、空間や技術と結びつくかという構造そのものである。
+Dans ce domaine, les œuvres musicales ne sont pas nécessairement réduites à des partitions musicales et la possibilité de rejouabilité n'est pas non plus supposée. Le travail existe plutôt comme un ensemble de conditions, produisant à chaque fois des résultats différents. Ce qui importe ici, plutôt que les intentions du compositeur, c'est la structure elle-même, c'est-à-dire la manière dont les phénomènes acoustiques naissent et se connectent à l'espace et à la technologie.
 
 ---
 
@@ -44,9 +44,9 @@ color: #fff;
 
 ### 1-1 De la musique expérimentale à l'art acoustique
 
-Années 1950器演奏から切り離され、信号として操作可能な対象となった。 Des technologies telles que la bande magnétique, les oscillateurs et les filtres ont permis d'enregistrer, de traiter et de réorganiser le son.
+Depuis les années 1950, avec le développement des studios de musique électronique, le son s’est séparé de la performance des instruments de musique et est devenu un objet manipulable comme un signal. Des technologies telles que la bande magnétique, les oscillateurs et les filtres ont permis d'enregistrer, de traiter et de réorganiser le son.
 
-Avec ce changement, les œuvres musicales ne se limitent plus aux salles de spectacle, mais s'installent dans les musées, les galeries et les espaces publics. Le concept d'art sonore a été utilisé pour désigner un groupe d'œuvres qui utilisent le son comme matériau principal mais ne suivent pas nécessairement les systèmes musicaux ou les conventions de performance.
+Avec ce changement, les œuvres musicales ne se limitent plus aux salles de spectacle, mais s'installent dans les musées, les galeries et les espaces publics. Le concept d'art sonore a été utilisé pour désigner un groupe d'œuvres qui utilisent le son comme matériau principal, mais ne suivent pas nécessairement les systèmes musicaux ou les conventions de performance.
 
 ### 1-2 De l'art temporel à l'art spatial
 
@@ -62,7 +62,7 @@ Dans la musique instrumentale d’avant-garde, les instruments n’ont pas de fo
 
 ### 2-2 Modifications du comportement en matière de performances
 
-La performance ne fait pas référence à la démonstration d’habiletés physiques, mais plutôt à la définition de conditions et de systèmes d’exploitation. L’interprète ne contrôle pas directement le son, mais est responsable de la conception des conditions dans lesquelles le son est produit.
+La performance ne consiste pas à démontrer une habileté physique, mais plutôt à définir des conditions et des systèmes d'exploitation. L’interprète ne contrôle pas directement le son, mais est responsable de la conception des conditions dans lesquelles le son est produit.
 
 ---
 
@@ -73,6 +73,10 @@ La performance ne fait pas référence à la démonstration d’habiletés physi
 Alvin Lucier est un compositeur qui place le comportement physique des ondes sonores au centre de ses œuvres. Dans ses œuvres, les manipulations intentionnelles du compositeur sont réduites au minimum et les phénomènes acoustiques se déroulent de manière autonome.
 
 Dans son œuvre la plus célèbre, I Am Sitting in a Room, en reproduisant et en réenregistrant à plusieurs reprises la parole prononcée dans le même espace, les fréquences de résonance uniques à la pièce sont accentuées et le langage finit par disparaître. Ce processus montre clairement comment le son passe de l’information au phénomène physique.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bhtO4DsSazc?si=V4qjAe3Nm9Ow7ycC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 ### 3-2 Rétroaction et auto-génération
 
@@ -93,7 +97,7 @@ flowchart LR
 
 ### 4-1 Acoustique architecturale
 
-Le travail de Lucier s'appuie fortement sur les dimensions spatiales, les matériaux et les propriétés réfléchissantes. Même si la pièce est la même, les résultats acoustiques varieront considérablement si le lieu d'installation est différent.
+Le travail de Lucier s'appuie fortement sur les dimensions spatiales, les matériaux et les propriétés réfléchissantes. Même si la pièce est la même, les résultats acoustiques varieront considérablement si elle est installée dans un endroit différent.
 
 ### 4-2 Position du spectateur
 
@@ -103,9 +107,13 @@ La position debout et les mouvements du public sont des facteurs qui modifient l
 
 ## Chapitre 5 : L'environnement de production de Christian Fennesz
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BU7-TwdQhyo?si=_iskop-M4YBKi38X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ### 5-1 Guitare et traitement numérique
 
-Christian Fennesz utilise le traitement numérique pour déconstruire et reconstruire les sons de guitare électrique. Le son original est modifié par le traitement des effets et les calculs informatiques, et la relation causale entre les actions de performance et les résultats auditifs devient floue.
+Christian Fennesz déconstruit et reconstruit les sons de guitare électrique grâce au traitement numérique. Le son original est modifié par le traitement des effets et les calculs informatiques, et la relation causale entre les actions de performance et les résultats auditifs devient floue.
 
 ### 5-2 Bruit et résolution
 
@@ -130,7 +138,7 @@ flowchart LR
 
 ## Chapitre 7 : Continuité analogique et numérique
 
-Le son physique dont s'occupe Lucier et le traitement numérique dont s'occupe Fennesz ne sont pas discontinus, mais un flux continu. Tous deux respectent l’autonomie du son et limitent le contrôle humain.
+Le son physique abordé par Lucier et le traitement numérique abordé par Fennesz ne sont pas discontinus, mais un flux continu. Tous deux respectent l’autonomie du son et limitent le contrôle humain.
 
 ---
 
@@ -148,7 +156,7 @@ Les alimentations électriques, le câblage et le placement des équipements son
 
 ## Chapitre 9 : Transformation du comportement d'écoute
 
-En art sonore, l’écoute n’est pas un acte passif. Les spectateurs bougent, choisissent et expérimentent partiellement. Le tableau d’ensemble n’est possible que comme un ensemble d’expériences individuelles.
+En art sonore, l’écoute n’est pas un acte passif. Les spectateurs bougent, choisissent et expérimentent partiellement. L’ensemble n’est possible que comme un ensemble d’expériences individuelles.
 
 ---
 
@@ -165,7 +173,7 @@ En art sonore, l’écoute n’est pas un acte passif. Les spectateurs bougent, 
 
 ## Conclusion : Pratiques structurelles autour du son
 
-L’art instrumental/sonore d’avant-garde est une pratique qui brise les frontières entre musique et art, performance et environnement, production et reproduction. Bien qu'Alvin Lucier et Christian Fennesz utilisent des époques et des techniques différentes, ils partagent une direction commune : exposer le son comme un phénomène.
+L’art instrumental/sonore d’avant-garde est une pratique qui brise les frontières entre musique et art, performance et environnement, production et reproduction. Même si Alvin Lucier et Christian Fennesz utilisent des époques et des techniques différentes, ils partagent une direction commune : exposer le son comme un phénomène.
 
 ---
 

@@ -9,7 +9,7 @@ permalink: /fr/les-masques-brasilian-sound/
 tags:
 - Bossa Nova
 - Jazz
-title: Les Masques – Son Brésilien
+title: Les Masques – Brasilian Sound
 ---
 
 

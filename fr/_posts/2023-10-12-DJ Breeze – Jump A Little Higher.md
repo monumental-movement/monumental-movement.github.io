@@ -9,17 +9,17 @@ permalink: /fr/dj-breeze-jump-a-little-higher/
 tags:
 - Happy Hardcore
 - Hardcore
-title: DJ Breeze – Sauter un peu plus haut
+title: DJ Breeze – Jump A Little Higher
 ---
 
 
-DJ Breeze (Mark Breeze) était un DJ et producteur populaire sur la scène dance music britannique dans les années 1990 et 2000. Spécialisé dans les styles happy hardcore et hardcore breakbeat, il a créé de nombreux succès de club.
+DJ Breeze（Mark Breeze/マーク・ブリーズ）は、1990年代から2000年代にかけて、イギリスのダンス・ミュージックシーンで人気を博したDJとプロデューサー。ハッピーハードコアやハードコアブレイクビーツのスタイルを得意とし、多くのクラブヒットを生み出した。
 
-"Jump A Little Higher" présente une mélodie inspirante et un rythme énergique, et est un morceau fréquemment joué dans les scènes hardcore et rave.
+「Jump A Little Higher」は、アップリフティングなメロディやエネルギッシュなビートが特徴で、ハードコアシーンやRaveで頻繁にプレイされたトラック。
 
-Side A est un remix du DJ britannique Brisk.
+A面はイギリスのDJ Brisk（DJブリスク）によるremix。
 
-"Jump A Little Higher" échantillonne les voix de "Kick Your Legs In The Air" de Poor Pocket Productions et les effets sonores de "Don't Make Me Wait (Special Version)" de Peech Boys.
+「Jump A Little Higher」は、ヴォーカルを Poor Pocket Productions 「Kick Your Legs In The Air」から、サウンドエフェクトをPeech Boys 「Don't Make Me Wait (Special Version)」からサンプリング。
 
 #### Liste des chansons
 ```md

@@ -48,7 +48,7 @@ color: #fff;
 
 Le premier album de Jamal en tant que leader fut New Talent en 1951, un album centré autour d'un petit format trio. À l’époque, les big bands constituaient la norme dans le monde du jazz, mais Jamal proposait une approche unique de l’utilisation de l’espace et du rythme à travers son trio avec piano.
 
-### 1955-1956 — Le succès de At the Pershing : But Not for Me
+### 1955-1956 — Le succès de At the Pershing : mais pas pour moi
 
 Formé en 1955, le trio Ahmad Jamal (Israel Crosby à la basse, Vernel Fournier à la batterie) se produit régulièrement au Pershing Lounge de Chicago. Un enregistrement de cette performance live, sorti en 1958, At the Pershing : But Not for Me, fut un énorme succès commercial et critique. L'interprétation de "Poinciana" en particulier a été un succès et a eu un grand impact non seulement sur les fans de jazz mais aussi sur le grand public.
 
@@ -60,7 +60,7 @@ Cet album contient :
 
 Ce style a également influencé Miles Davis et a contribué au développement ultérieur du jazz modal.
 
-### Années 1960 — activités internationales et développement ultérieur
+### Années 1960 – activités internationales et développement ultérieur
 
 Dans les années 1960, Jamal débute ses activités internationales. Il a effectué des tournées à travers l'Europe, l'Asie et le Moyen-Orient, et ses performances uniques en trio ont influencé les pianistes de jazz du monde entier. En termes d'enregistrement, nous avons introduit des harmonies expérimentales et un nouveau sens du rythme, établissant une approche qui dépasse le cadre traditionnel du jazz moderne.
 
@@ -151,7 +151,7 @@ La musique d'Ahmad Jamal occupe une place unique dans l'histoire du jazz. Son in
 
 ### 1. Influence sur Miles Davis
 Miles Davis a cité à plusieurs reprises Jamal comme son « pianiste le plus influent » de son vivant.
-En particulier, les points suivants sont importants :
+Les points suivants sont particulièrement importants :
 
 - **Le concept « Espace »**
 Le jeu de Jamal avec les espaces vides a eu une forte influence sur l'ère de la mode de Miles à partir de la fin des années 1950.
@@ -181,7 +181,7 @@ L’impact se reflète dans :
 - Élargissement des horizons culturels après la conversion à l'Islam (converti dans les années 1950)
 - Changer les perspectives musicales pour un public mondial
 
-En particulier, le fait qu'il se soit converti dans les années 1950 et ait pris le nom de « Ahmad Jamal » symbolise son attitude d'artiste indépendant culturellement.
+En particulier, le fait qu'il se soit converti dans les années 1950 et ait pris le nom de « Ahmed Jamal » symbolise son attitude d'artiste indépendant culturellement.
 
 ### 4. Hériter de « l’art de l’espace »
 Le style signature de Jamal, l'esthétique de la tranquillité, a été transmis aux générations suivantes :

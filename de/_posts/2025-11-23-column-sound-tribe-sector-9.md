@@ -47,7 +47,7 @@ color: #fff;
 
 Die Ursprünge von STS9 lassen sich bis in die Mitte der 1990er Jahre zurückverfolgen, als sich im Raum Atlanta aktive Musiker gründeten
 **„Ist es möglich, mit Live-Musik die Atmosphäre zu schaffen, die ein DJ in einem Club schafft?“**
-Mit dieser Frage soll es begonnen haben.
+Mit dieser Frage soll es angefangen haben.
 
 Die Mitglieder hatten ein breites Spektrum an Hintergründen, darunter Rock, Jazz, Funk, elektronische Musik und sogar Weltmusik. Insbesondere das vom Drum/Percussion-Team betonte „Groove-First-Ensemble“ wurde zu einem wichtigen Kern, der von Anfang an bis heute Bestand hat.
 
@@ -130,7 +130,7 @@ Die Live-Struktur der gleichen Zeit war
 Das Publikum wechselte zu einem Floor-/Festival-ähnlichen Erlebnis mit der Prämisse des „Tanzens“.
 
 Wichtig hierbei ist, dass STS9 eine Technik verfolgte, um die „Textur elektronischer Musik“ mit Gitarre und Bass zu reproduzieren.
-Viele Teile durchliefen die Effektkette und schufen so eine Charakteristik, in der sich das redaktionelle Denken in der DAW direkt in der Live-Performance widerspiegelte.
+Viele Teile durchliefen die Effektkette, wodurch sich die Eigenschaft ergab, dass sich das redaktionelle Denken in der DAW direkt in der Live-Performance widerspiegelte.
 
 ---
 
@@ -148,7 +148,7 @@ Seit Beginn von STS9
 - Pädagogische Unterstützung
 - Umweltschutz
 - Lokale Aktivitäten
-Er hat aktiv an Wohltätigkeitsaktivitäten teilgenommen, wie z
+Er hat aktiv an Wohltätigkeitsaktivitäten teilgenommen wie:
 
 Es gibt auch viele Auftritte, bei denen ein Teil des Live-Ticket-Erlöses gespendet wird, und viele Lieder, die soziale Themen zum Thema haben.
 Insbesondere „Peaceblaster“ (2008) wird als konzeptionelle Arbeit mit politischen und ökologischen Themen als Hintergrund positioniert.
@@ -168,7 +168,7 @@ Bei den Live-Arrangements gab es viele Versuche, vergangene Songs im EDM-Stil zu
 
 ## 5-3. Aktueller STS9
 
-In den 2020er Jahren behauptete STS9 eine feste Position als Festival-Headliner, veranstaltete gleichzeitig seine eigene Veranstaltung „WAVE SPELL“ und verstärkte seine gemeinschaftsähnlichen Aktivitäten.
+In den 2020er Jahren hat sich STS9 eine feste Position als Festival-Headliner behauptet, veranstaltete aber auch seine eigene Veranstaltung „WAVE SPELL“ und verstärkte seine Community-ähnlichen Aktivitäten.
 
 ---
 
@@ -176,7 +176,7 @@ In den 2020er Jahren behauptete STS9 eine feste Position als Festival-Headliner,
 ## 6-1. Rhythmusstruktur: percussiongetriebener Groove
 
 Das größte Merkmal von STS9 ist seine Ensemblestruktur, bei der Schlagzeug und Percussion im Mittelpunkt stehen.
-In der elektronischen Musik spielt Live-Musik die Rolle einer Drum-Machine, auf der Bass, Gitarre, Synthesizer und Samples geschichtet sind.
+In der elektronischen Musik spielt Live-Musik die Rolle eines Drumcomputers, auf dem Bass, Gitarre, Synthesizer und Samples geschichtet sind.
 
 - Afrobeat
 - Breakbeats
@@ -193,7 +193,7 @@ Um das Gefühl von Electronica bei Live-Auftritten zu reproduzieren,
 - Granulare Verarbeitung
 Jedes Instrument nutzt diese aktiv.
 
-Dies gewährleistet auch bei Live-Auftritten eine **akustische Dichte** und erzeugt ein dreidimensionales Gefühl, das dem eines DJ-Sets ähnelt.
+Dies sorgt auch bei Live-Auftritten für **akustische Dichte** und erzeugt ein dreidimensionales Gefühl, das dem eines DJ-Sets ähnelt.
 
 ---
 
@@ -211,12 +211,12 @@ und gestaltet Live-Auftritte mit einer Struktur, die einem DJ-Set ähnelt.
 
 Die Beleuchtung ist bei STS9-Live-Auftritten äußerst wichtig.
 Eine Besonderheit besteht darin, dass die Bewegung des Lichts mit Veränderungen im Lied verknüpft ist.
-Bei den Nachtvorstellungen des Festivals fungiert die Beleuchtung selbst als gigantisches „Bühnenbild“ und verstärkt das Gefühl des Eintauchens beim Publikum.
+Während der Nachtvorstellung des Festivals fungiert die Beleuchtung selbst als gigantisches „Bühnenbild“ und verstärkt das Gefühl des Eintauchens beim Publikum.
 
 ## 7-3. Gemeinschaftskultur
 
 STS9-Fans sind stark gemeinschaftsorientiert, was typisch für die Jam-Band-Szene ist.
-Es gibt auch viele „reisende Fans“, die die Tour verfolgen.
+Es gibt auch viele „Reisefans“, die die Tour verfolgen.
 
 ---
 
@@ -280,9 +280,9 @@ Die Live-Shows von STS9 passen gut zu Festivals.
 - Bonnaroo
 - Elektrischer Wald
 - Suwannee Hulaween
-Ihre „Late-Night-Sets“ auf großen Festivals wie „Late Night“ sind legendär.
+Ihre „Late Night Sets“ auf großen Festivals wie „Late Night“ sind legendär.
 
-## 11-3. Wegweisende Beispiele von Community-Künstlern
+## 11-3. Pionierbeispiele von Community-Künstlern
 
 Unabhängiges Labelmanagement, Wohltätigkeitsaktivitäten, Durchführung origineller Festivals usw.
 Es ist auch deshalb wichtig, weil es zeigt, wie Künstler im 21. Jahrhundert und darüber hinaus sein sollten.

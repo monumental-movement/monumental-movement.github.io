@@ -58,7 +58,7 @@ B. Planet Rock (Instrumental)
 
 Sie nutzt Synthesizer voll aus und präsentiert eine sexuelle und dekadente Weltanschauung. Ein Lied, das die Westküstenszene symbolisiert.
 
-Electro war nicht nur ein Musikgenre, sondern eine Kultur, die untrennbar mit Breakdance und Street Fashion verbunden war. Die silbernen Kostüme und die Cyber-ähnlichen Bilder verkörpern die Sensibilität der Ära der „Verschmelzung von Maschinen und Menschen“.
+Electro war nicht nur ein Musikgenre, sondern eine Kultur, die untrennbar mit Breakdance und Street Fashion verbunden war. Die silbernen Kostüme und die Cyber-ähnlichen Bilder verkörperten die Sensibilität der Ära der „Verschmelzung von Maschinen und Menschen“.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9zrH1QnqU_k?si=QCbJvz_2kbZxDmWq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -94,7 +94,7 @@ In den frühen 2000er Jahren rückte Elektro wieder ins Rampenlicht.
 
 **Electro House Connection**: Französisch-deutsche Künstler wie Justice und Digitalism haben die Clubszene im Sturm erobert, indem sie Electro-inspirierte Synthesizer-Riffs mit House 4/4 verschmolzen.
 
-Das Debütalbum von Justice, einer seit 2003 aktiven französischen Electronic-Dance-Band, wurde 2007 beim französischen Label Ed Banger Records veröffentlicht und war ein weltweiter Erfolg, einschließlich einer Grammy-Nominierung für das beste Electronic/Dance-Album.
+Das Debütalbum von Justice, einer seit 2003 aktiven französischen Band für elektronischen Tanz, wurde 2007 vom französischen Label Ed Banger Records veröffentlicht und war ein weltweiter Erfolg, einschließlich einer Grammy-Nominierung für das beste elektronische/Tanz-Album.
 
 #### Trackliste
 ```md
@@ -149,5 +149,5 @@ In der japanischen Szene haben Ken Ishii und Goth-Trad Elektroelemente integrier
 
 ### Ein elektrischer Groove, der die Grenze zwischen Maschine und Mensch erschüttert
 
-Electro ist nicht nur ein vorübergehendes Genre, sondern ein Grundpfeiler der Entwicklung elektronischer Musik. Seine DNA lebt in Hip-Hop, Techno, House, Electroclash und sogar moderner elektronischer Tanzmusik weiter.
+Elektro ist nicht nur ein vorübergehendes Genre, sondern ein Grundpfeiler der Entwicklung elektronischer Musik. Seine DNA lebt in Hip-Hop, Techno, House, Electroclash und sogar moderner elektronischer Tanzmusik weiter.
 Der Klang von Maschinen und Menschen ist der Kern von Elektro und der Grund, warum er weiterhin die Zukunft der Musik vorhersagt.

@@ -9,7 +9,7 @@ permalink: /ko/atari-teenage-riot-revolution-action-e-p/
 tags:
 - Techno
 - Hardcore Techno
-title: 아타리 십대 폭동 – 혁명 액션 E.P.
+title: Atari Teenage Riot – 레볼루션 액션 E.P.
 ---
 
 

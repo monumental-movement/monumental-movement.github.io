@@ -19,7 +19,7 @@ title: '[Chronique] Space Jazz / Généalogie et transformation cosmique de Cosm
 
 Texte : mmr｜Thème : Space Jazz / Histoire du Cosmic Jazz
 
-Dans la seconde moitié du XXe siècle, le jazz a commencé à se concentrer non seulement sur l’excitation des soirées et des clubs urbains, mais également sur le vaste domaine de l’espace. Au centre de cette initiative se trouvaient des artistes dont **Sun Ra** et **Pharoah Sanders**. Ils ont non seulement innové dans les styles musicaux, mais ont également traité « l'espace » comme un art global incluant la présentation visuelle, la pensée et la philosophie.
+Dans la seconde moitié du XXe siècle, le jazz a commencé à se concentrer non seulement sur l’excitation des soirées et des clubs urbains, mais également sur le vaste domaine de l’espace. Au centre de cela se trouvaient des artistes dont **Sun Ra** et **Pharoah Sanders**. Ils ont non seulement innové dans les styles musicaux, mais ont également traité « l'espace » comme un art global incluant la présentation visuelle, la pensée et la philosophie.
 
 
 ---
@@ -136,7 +136,7 @@ flowchart TD
 
 ---
 
-# résumé
+# まとめ
 
 Space Jazz / Cosmic Jazz n'est pas simplement une musique sur le thème de « l'espace », mais un mouvement artistique qui intègre globalement l'idéologie, la vision, la culture et la technologie. La cosmologie radicale de Sun Ra, la cosmologie spirituelle de Pharoah Sanders, l'esthétique méditative d'Alice Coltrane et les réimaginations d'artistes contemporains. Ceux-ci sont entrelacés en plusieurs couches, et c’est un genre qui continue d’évoluer.
 

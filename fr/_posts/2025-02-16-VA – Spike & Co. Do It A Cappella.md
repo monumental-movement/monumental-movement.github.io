@@ -11,11 +11,11 @@ tags:
 - Rhythm & Blues
 - Vocal
 - 90s
-title: VA – Spike & Co. Faites-le a cappella
+title: VA – Spike & Co. Do It A Cappella
 ---
 
 
-Cet album est la bande originale d'un documentaire PBS de 1990 sur la musique a cappella réalisé par Spike Lee.
+このアルバムは、1990年にSpike Leeが監督した、アカペラ音楽をテーマ にしたPBSドキュメンタリーのサウンドトラック。
 
 #### Liste des chansons
 ```md

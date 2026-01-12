@@ -11,8 +11,8 @@ tags:
 - History
 - 90s
 - 00s
-title: '[Spalte] Seltsame Musikspielzeuge – Spielzeuge mit seltsamen Klängen aus der
-  ganzen Welt'
+title: '[Spalte] Seltsame Musikspielzeuge – Spielzeuge mit seltsamen Geräuschen aus
+  der ganzen Welt'
 ---
 
 
@@ -51,8 +51,8 @@ Im 21. Jahrhundert wurden elektronische Klänge auch auf Kinderspielzeug und Ler
 ## Ⅱ. Klangspielzeugkultur in Asien
 
 ### Radel Electronic Tanpura
-Die elektronische Tabla, die Ende der 1970er Jahre von der indischen Firma Radel entwickelt wurde, ist ein Gerät, das die anhaltenden Klänge traditioneller Raga-Aufführungen portabel macht. Es erfreut sich bei vielen Menschen, von Kindern bis hin zu Erwachsenen, großer Beliebtheit, da es den einfachen Nachbau komplexer Saiteninstrumente zu Hause ermöglicht.
-Die Vereinfachung elektronischer Klänge öffnete tatsächlich die Tür zu neuen Improvisationen. Die elektronische Tanpura auf dem heimischen Schreibtisch ist zu einem „heimeligen Ritual“ geworden, das an der Grenze zwischen Lernen und Spiel schwingt.
+Die elektronische Tabla, die Ende der 1970er Jahre von der indischen Firma Radel entwickelt wurde, ist ein Gerät, das die anhaltenden Klänge der traditionellen Raga-Darbietung tragbar macht. Es erfreut sich bei vielen Menschen, von Kindern bis hin zu Erwachsenen, großer Beliebtheit, da es den einfachen Nachbau komplexer Saiteninstrumente zu Hause ermöglicht.
+Die Vereinfachung elektronischer Klänge öffnete tatsächlich die Tür zu neuen Improvisationen. Das elektronische Tanpura, das zu Hause auf dem Schreibtisch platziert wird, ist zu einem „heimeligen Ritual“ geworden, das an der Grenze zwischen Lernen und Spiel schwingt.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k2sYalri8oo?si=XlAvOI4CTDOG2yH_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -95,9 +95,9 @@ Eine Fusion aus subtilen elektronischen Klängen und analogem Feeling. Das zarte
 
 ## Ⅳ. Europäische seltsame Tongeräte
 
-### Stylophon und Optigan
-Das British Stylophone ist ein Schreibtisch-Synthesizer, der aus Fernsehwerbespots der 1970er Jahre bekannt ist. Wenn Sie mit den Fingerspitzen über die Metallkontakte fahren, ertönt ein deutlicher Piepton. Seine Leichtigkeit und sein lautes Gefühl wurden in die frühe Techno-Pop- und Avantgarde-Musik integriert.
-Die Optigan ist ein Orgelspielzeug, das mithilfe optischer Platten Klänge abspielt und sich durch unvorhersehbare Muster und Rhythmen auszeichnet.
+### Stylophone und Optigan
+Das British Stylophone ist ein Schreibtisch-Synthesizer, der aus Fernsehwerbespots der 1970er Jahre bekannt ist. Wenn Sie mit den Fingerspitzen über die Metallkontakte fahren, ertönt ein markanter Piepton. Seine Leichtigkeit und sein lautes Gefühl wurden in die frühe Techno-Pop- und Avantgarde-Musik integriert.
+Der Optigan ist ein Orgelspielzeug, das mithilfe optischer Platten Klänge abspielt und sich durch unvorhersehbare Muster und Rhythmen auszeichnet.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EL8PH9Fx0hw?si=aRc6EJ8WPVcaAXI9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -143,13 +143,13 @@ Ein experimentelles Geräuschstück, das modifizierte elektronische Geräte und 
 
 ## Ⅵ. Japans goldenes Zeitalter des elektronischen Spielzeugs
 
-In den 1970er und 1980er Jahren wurden tragbare Synthesizer und elektronische Musikspielzeuge in japanischen Haushalten populär.
+In den 1970er und 1980er Jahren wurden tragbare Synthesizer und elektronische Musikinstrumente in japanischen Haushalten populär.
 
 - Yamaha Portasound-Serie
 - CASIO VL-TONE
 - Pädagogische Synthesizer wie der SX-150 von Gakken
 
-Elektronische Klänge können problemlos auf Schreibtischen zu Hause oder in der Schule erlebt werden, und Kinder haben sich mit der Kultur des „Spielens mit Klängen“ vertraut gemacht. In der heutigen Zeit sind digitale Spielzeuge wie Otamatone mit der YouTube-Kultur verbunden und schaffen eine neue Welt „süßer Klänge“.
+Elektronische Klänge können problemlos auf Schreibtischen zu Hause oder in der Schule erlebt werden, und Kinder sind mit der Kultur des „Spielens mit Klängen“ vertraut geworden. In der heutigen Zeit sind digitale Spielzeuge wie Otamatone mit der YouTube-Kultur verbunden und schaffen eine neue Welt „süßer Klänge“.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VKfsCbe47Os?si=djdl5n1qjmiP3Scw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -170,7 +170,7 @@ In Skandinavien sind kleine, hochentwickelte Synthesizer aufgetaucht.
 - Teenager-Ingenieurwesen OP-1
 - Pocket Operator-Serie
 
-Seine einfache, intuitive Bedienbarkeit und der cartoonartige Ton vereinen skandinavischen Humor und Raffinesse. Einzigartig ist, dass es seinen Spielzeugcharakter behält, aber auch von professionellen Künstlern verwendet wird.
+Seine einfache, intuitive Bedienbarkeit und der cartoonartige Ton vereinen skandinavischen Humor und Raffinesse. Einzigartig ist, dass es seinen Spielzeugcharakter beibehält, aber auch von professionellen Künstlern verwendet wird.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VBwU-d_WDmU?si=D_5-7a06v6wQYoNz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -208,7 +208,7 @@ Der Begriff „Spiel“ rückt wieder in den Mittelpunkt des Musikschaffens und 
 
 ## Anhang
 
-### Evolutionsgeschichte seltsamer Musikspielzeuge auf der ganzen Welt (einfache Chronologie)
+### Entwicklungsgeschichte seltsamer Musikspielzeuge auf der ganzen Welt (einfache Chronologie)
 
 <div class="mermaid">
 

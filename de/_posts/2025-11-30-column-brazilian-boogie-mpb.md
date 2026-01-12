@@ -63,7 +63,7 @@ Charakteristische Elemente sind wie folgt:
 - Rhythmus-Sektion mit ausgeprägtem Groove-Gefühl
 - Verwendung von E-Pianos und Synthesizern
 - Anspruchsvolle Chorarbeit
-- Songtext über Stadtleben und Liebe
+- Liedtext über Stadtleben und Liebe
 
 Zu den repräsentativen Künstlern gehören **Tim Maia, Cassiano, Hyldon und Carlos Dafé**.
 
@@ -76,7 +76,7 @@ Zu den repräsentativen Künstlern gehören **Tim Maia, Cassiano, Hyldon und Car
 | Tim Maia | 1960er-1998 | *Racional*, *Tim Maia Disco Club* | Souliger, funkorientierter Disco-Stil |
 | Cassiano | 1970er Jahre | *Realce* | Sanfter Funk, raffinierter Groove |
 | Hyldon | 1970er Jahre | *Na Rua, Na Chuva, Na Fazenda* | Funk x MPB, Club-Popularität |
-| Carlos Dafé | 1970er-1980er Jahre | *Brasilien Afrosamba* | Fusion aus Afro-Samba und Funk |
+| Carlos Dafé | 1970er-1980er Jahre | *Brasilien Afrosamba* | Afro-Samba und Funk-Fusion |
 
 ### 2-1. Tim Maia
 
@@ -171,7 +171,7 @@ graph TD
 
 ---
 
-## 8. Beispiel für eine Musikanalyse
+## 8. Beispiel einer Musikanalyse
 
 ### 8-1. Aus „Racional“ von Tim Maia
 
@@ -189,7 +189,7 @@ graph TD
 
 - Funk x MPB-Groove
 - Fusion von Synthesizer und Percussion
-- Ein Gefühl für Rhythmus, das im Vereinsspiel glänzt
+- Ein Gefühl für Rhythmus, das im Vereinsspiel zum Tragen kommt
 
 ---
 

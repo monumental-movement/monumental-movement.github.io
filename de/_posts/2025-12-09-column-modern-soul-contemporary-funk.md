@@ -104,7 +104,7 @@ Anderson Paak ist
 * Soul Funk
 * Westküsten-Hip-Hop
 * Jazz/Gospel
-Er integrierte die Elemente der Band und erweiterte den zeitgenössischen Funk mit seinem einzigartigen Stil als Schlagzeuger und Sänger in den Popbereich.
+Durch die Integration der Elemente der Band erweiterte er den zeitgenössischen Funk mit seinem einzigartigen Stil sowohl als Schlagzeuger als auch als Sänger in den Popbereich.
 
 ---
 
@@ -117,7 +117,7 @@ Er integrierte die Elemente der Band und erweiterte den zeitgenössischen Funk m
 * **Dilla-Beat (Snare mit etwas Verzögerung)**
 * **Zusammengesetztes Metrum, Polyrhythmus**
 * **Großer Einsatz von Geisternoten**
-* **Schwenken in 32-Minuten-Schritten**
+* **32-Minuten-Schwankungen**
 
 #### Moderne Soul-Rhythmus-Struktur
 
@@ -134,7 +134,7 @@ flowchart TD
 ### 3-2. Harmonie
 
 * Häufige Spannungsakkorde wie 7., 9., 11., 13
-* Vom melodischen Moll abgeleitete Akkorde
+* Akkorde aus melodischem Moll abgeleitet
 * Jazz-Viertelharmonie
 * Rootless Voicing
 * Chromatische Umkehrung und modaler Ansatz
@@ -142,7 +142,7 @@ flowchart TD
 ### 3-3. Grundlinie
 
 * Betonung auf „Interlock mit Trommel“
-* Starker Einsatz des Schiebers, Hämmern/Ziehen
+* Starker Einsatz von Schiebern, Hämmern/Ziehen
 * Hauptsächlich Fender-E-Bass-Sounds
 * Melodischer Ansatz (z. B. Thundercat)
 
@@ -198,10 +198,10 @@ Die Produktion von Modern Soul/Contemporary Funk ist eine perfekte Fusion aus DA
 
 #### Musikalität
 
-*Die Songstruktur ist eine suiteartige Struktur, in der mehrere Abschnitte miteinander verbunden sind.
+* Die Songstruktur ist eine suiteartige Struktur, in der mehrere Abschnitte miteinander verbunden sind.
 * Komplexe Akzente am Schlagzeug
 * Atypische Synthesizer-/Gitarrenstimmen
-* Starker Gebrauch von Offbeat
+* Starker Einsatz von Offbeat
 
 #### Struktur von Hiatus Kaiyote
 

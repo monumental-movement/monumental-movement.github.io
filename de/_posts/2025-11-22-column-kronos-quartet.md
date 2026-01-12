@@ -59,9 +59,9 @@ Das frühe Repertoire umfasste neben barocken und klassischen Werken auch neue W
 
 ## 3. Herausforderung an die moderne Musik (1980er–1990er)
 
-In den 1980er Jahren wurde das Kronos Quartett zu einer wichtigen Präsenz in der amerikanischen Welt der zeitgenössischen Musik. Das Kronos Quartett begann mit Meistern der zeitgenössischen Musik wie Philip Glass, Steve Reich und Terry Riley zusammenzuarbeiten und erlangte durch die Aufführung und Aufnahme ihrer Werke weltweite Anerkennung.
+In den 1980er Jahren wurde das Kronos Quartett zu einem wichtigen Vertreter der zeitgenössischen amerikanischen Musik. Das Kronos Quartett begann mit Meistern der zeitgenössischen Musik wie Philip Glass, Steve Reich und Terry Riley zusammenzuarbeiten und erlangte durch die Aufführung und Aufnahme ihrer Werke weltweite Anerkennung.
 
-Diese Zeit war geprägt von **Innovationen in der Aufführungstechnik**. Zusätzlich zu den traditionellen Spieltechniken für Saiteninstrumente hat die Studioarbeit zugenommen, wobei Elektronik zum Einsatz kam, nicht-westliche Rhythmen und Tonleitern eingeführt wurden und Sampling und Mehrspuraufnahmen voll ausgeschöpft wurden.
+Diese Zeit war geprägt von **Innovationen in der Aufführungstechnik**. Zusätzlich zu den traditionellen Spieltechniken für Streichinstrumente hat die Studioarbeit zugenommen, wobei Elektronik zum Einsatz kam, Rhythmen und Tonleitern aus nicht-westlicher Musik eingeführt wurden und Sampling und Mehrspuraufnahmen voll ausgeschöpft wurden.
 
 ### Wichtige Alben (Zeitgenössische Musik)
 
@@ -83,7 +83,7 @@ Besonders hervorzuheben sind Innovationen in der Filmmusik mit dem im Jahr 2000 
 
 * Wiederholte kurze Motive (rhythmische Wiederholung)
 * Spannungsgefühl aufgrund plötzlicher Dynamikänderungen
-* Kontinuierliche Verwendung von Crescendo und Diminuendo durch Streichinstrumente
+* Kontinuierlicher Einsatz von Crescendo und Diminuendo durch Streichinstrumente
 * **Technische Innovation**:
 
 * Anwendung minimaler Musiktechniken auf Filmmusik
@@ -123,7 +123,7 @@ Besonders hervorzuheben sind Innovationen in der Filmmusik mit dem im Jahr 2000 
 
 ---
 
-### Filmmusik in die Timeline integrieren
+### Integrieren Sie Filmmusik in die Chronologie
 
 
 <div class="mermaid">
@@ -162,7 +162,7 @@ graph TD
 
 ## 5. Bildung/Soziale Aktivitäten/Neue Projekte (2000er – heute)
 
-Neben der Auftrittstätigkeit liegt der Schwerpunkt des Kronos Quartetts auch auf pädagogischen und sozialen Projekten.
+Neben der Aufführung liegt der Schwerpunkt des Kronos Quartetts auch auf pädagogischen und sozialen Projekten.
 
 * **Workshop/Ausbildungsprogramm**: Betreuung an Universitäten und Musikschulen, Ausbildung junger Musiker.
 * **Aktivitäten zum kulturellen Austausch**: Konzerte auf der ganzen Welt, gemeinsame Auftritte mit lokalen Musikern.

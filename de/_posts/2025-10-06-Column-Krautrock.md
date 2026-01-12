@@ -51,7 +51,7 @@ Seine abstrakte, mathematische Klangkonstruktion vermittelte späteren jungen Me
 
 Die CAN-Gründer Holger Czukay und Irmin Schmidt waren seine Schüler.
 Nachdem sie eine klassische Ausbildung erhalten hatten, betrachteten sie Rock als eine Erweiterung der modernen Musik und nicht als Anti-Kunst.
-Ihr Experimentiergeist verbindet sich mit der Kommunalkultur, die der Studentenbewegung folgte, und das Studio verwandelt sich in einen „sozialen Experimentierort“.
+Ihr experimenteller Geist verbindet sich mit der Kommunalkultur, die der Studentenbewegung folgte, und das Studio verwandelt sich in einen „sozialen Experimentierort“.
 
 > „Wir haben keinen Blues. Wir müssen einfach unseren eigenen Sound machen.“
 > — Holger Czukay (CAN)
@@ -64,7 +64,7 @@ Diese Haltung der Suche nach dem „Sound des eigenen Landes“ war der Ursprung
 
 „Inner Space Studio“ ist ein altes Schloss am Stadtrand von Köln.
 Hier wurde der Mythos von CAN geboren.
-**Jaki Liebezeit**'s metronomartiges Schlagzeug,
+**Jaki Liebezeit**s metronomartiges Schlagzeug,
 **Michael Caroli** Gitarre,
 Und **Damo Suzuki**, ein Sänger, der aus Japan eingewandert ist.
 
@@ -75,7 +75,7 @@ Am Ende wurde er Mitglied der Band.
 
 Ihre Musik ist ein „fließender Rhythmus“, der Struktur ablehnt.
 Vor allem auf dem Album „Tago Mago“ (1971) wurden die Lieder durch Bearbeitung neu arrangiert.
-Daraus entstand die Vorstellung, dass das Aufnahmeband selbst ein Instrument ist.
+Daraus entstand die Vorstellung, dass „das Tonband selbst ein Instrument ist“.
 Shukais Bearbeitungstechniken ähnelten dem späteren Hip-Hop-Sampling.
 
 > „Rhythmus regiert die Zeit. Aber Improvisation befreit dich von der Zeit.“
@@ -99,7 +99,7 @@ Rotors Gitarre und Bass gleiten wie eine Stromlinie,
 Die Musik hat sich das „Weitermachen“ zum Ziel gemacht.
 
 NEU! aus Geldmangel im Studio aufgenommen.
-Drehen Sie das Band rückwärts, ändern Sie die Geschwindigkeit, schneiden Sie die Sounds aus und fügen Sie sie ein.
+Das Band rückwärts drehen, die Geschwindigkeit ändern, die Töne ausschneiden und einfügen,
 Es erschütterte die Grenze zwischen „Leben“ und „Maschine“.
 
 > „Motorik ist der Klang der „menschlichen Fortsetzung“, nicht einer Maschine.“
@@ -116,7 +116,7 @@ Im Klang von NEU! wird dem Zuhörer bewusst, dass die Zeit keine gerade Linie, s
 ## Kapitel 4: Faust – Die Kunst der Collage und Zerstörung
 
 Dieses Studio ist ein umgebautes Bauernhaus in der Landschaft von Wünme.
-Eine Gruppe von Leuten, die sich dort verkrochen haben und Bänder, Lärm, Radioschnipsel, Samples, alles gemischt haben – das ist **Faust**.
+Eine Gruppe von Leuten, die sich dort verschanzt haben, Kassetten, Lärm, Radioschnipsel, Samples, alles – das ist **Faust**.
 Sie schufen neue Musik, indem sie das „Rockformat“ völlig zerstörten.
 
 Mitglied **Jan Ermler** sagt.
@@ -169,7 +169,7 @@ Die „Zukunft“, die sie sahen, liegt jetzt in unserer aktuellen Musiklandscha
 ### Revolution im Schweigen
 Einheit **Cluster** von **Dieter Möbius** und **Hans-Joachim Roedelius**.
 Im Gegensatz zu CAN und Faust sind sie kaum „Lärm“ oder „Rock“.
-Der Nachhall und Atem der Stadt war zwischen den anorganischen elektronischen Klängen und der Stille zu spüren.
+Der Nachhall und das Atmen der Stadt waren zwischen den anorganischen elektronischen Klängen und der Stille zu spüren.
 
 Sein Debütalbum Cluster 71 (1971) ist eine Reihe experimenteller Tonbandklänge, aber auch irgendwie meditativ.
 Der Nachfolger „Zuckerzeit“ (1974) wurde von Klaus Dinger von Neu! produziert und führte einen minimalistischen und angenehmen Rhythmus ein.
@@ -201,7 +201,7 @@ Der von Forst geborene Klanggeist wurde an Ambient, Post-Rock und sogar zeitgen�
 
 ## Kapitel 8: Popol Vuh – Spiritualität und Klang in Bildern
 
-**Popol Vuh** sticht aus dem Krautrock hervor.
+**Popol Vuh** sticht aus dem Krautrock heraus.
 Leiter **Florian Fricke** widmete sich intensiv der religiösen Musik und Philosophie und war einer der ersten Anwender des Moog-Synthesizers.
 Sein Ziel war jedoch nicht die Kälte der Elektronik, sondern **Geheimnis und innerer Klang**.
 
@@ -224,7 +224,7 @@ Er erweiterte den Krautrock eher durch Einzelarbeit im Studio als in einer Grupp
 Sie konstruierten lange Tracks, von denen jeder über 30 Minuten dauerte, und schufen so, als wollten sie die Zeit mit Sound „formen“.
 
 Seine Meisterwerke „Timewind“ (1975) und „Moondawn“ (1976) sind elektronische Meditationen mit endlosen Rhythmen und Sequenzern.
-Für spätere Jean-Michel Jarre, Vangelis und sogar Techno-Autoren wurde er zum Ausgangspunkt für den „Philosophen der Elektronen“.
+Für spätere Jean-Michel Jarre, Vangelis und sogar Techno-Autoren wurde er zum Ausgangspunkt für den „elektronischen Philosophen“.
 
 > „Der Synthesizer ist mein Universum. Einsamkeit ist der Treibstoff für Kreativität.“ - Klaus Schulze
 
@@ -326,7 +326,7 @@ flowchart TD
 Krautrock war eine Bewegung, die in der Zeit des nationalen Wiederaufbaus mithilfe von Klang die Frage „Was ist Freiheit?“ stellte.
 Was da war, war die Weigerung, der bestehenden Kultur zu folgen und der Wille, eine eigene Zukunft zu gestalten.
 
-Es ist eher eine Geschichte eines „universellen kreativen Geistes“ als einer „deutschen Herkunft“.
+Es ist eher die Geschichte eines „universellen kreativen Geistes“ als einer „deutschen Herkunft“.
 Tonbänder, Rhythmen, elektronische Wellen – sie spielen immer noch im Untergrundstudio.
 
 > „Krautrock ist noch nicht vorbei. Es geht immer noch in deinen Ohren.“

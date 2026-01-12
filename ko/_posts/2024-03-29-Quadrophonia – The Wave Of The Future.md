@@ -10,7 +10,7 @@ tags:
 - Techno
 - Break Beat
 - Hard Techno
-title: Quadrophonia – 미래의 물결
+title: Quadrophonia - 미래의 물결
 ---
 
 

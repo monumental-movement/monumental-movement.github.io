@@ -20,8 +20,8 @@ title: '[Kolumne] Charlotte de Witte: Königin der Techno-Welt'
 
 Text: mmr | Thema: Entdecken Sie, wie Charlotte de Witte ihre „Techno-Welt“ durch ihre Diskographie, die Geschichte ihrer Festivalauftritte, Liedkommentare, Chronologie und Illustrationen aufgebaut hat.
 
-Die belgische DJ/Produzentin Charlotte de Witte gilt derzeit als eine der wichtigsten Figuren der Techno-Welt.
-Ihr tiefer, minimalistischer Sound, ihre energiegeladenen Live-Sets und historischen Auftritte auf großen Festivals haben ihr den Spitznamen „Techno Queen“ eingebracht.
+Die belgische DJ/Produzentin **Charlotte de Witte** gilt derzeit als eine der wichtigsten Figuren der Techno-Welt.
+Ihr tiefer, minimalistischer Sound, ihre energiegeladenen Live-Sets und ihre historischen Auftritte auf großen Festivals haben ihr den Spitznamen „Techno Queen“ eingebracht.
 
 Ihre Karriere ist eine epische Geschichte, von bescheidenen Anfängen in Underground-Clubs in ihrer Heimatstadt Gent bis hin zu den Hauptbühnen internationaler Festivals wie Tomorrowland und Movement Festival.
 
@@ -43,7 +43,7 @@ color: #fff;
 
 ## Kindheit und Herkunft (~2010)
 
-Charlotte Aloïs de Witte wurde am **21. Juli 1992** in Gent, Belgien, geboren.
+Charlotte Aloïs de Witte wurde **21. Juli 1992** in Gent, Belgien, geboren.
 Als Teenager besuchte er lokale Clubs und Underground-Partys und entwickelte eine starke Faszination für elektronische Musik und Underground-Clubkultur.
 Die in dieser Zeit gepflegte „Liebe zu Nachtclubs“ und der „Respekt vor dem Untergrund“ bildeten die Grundlage für die spätere Entstehung einer starken Techno-Welt.
 
@@ -173,10 +173,10 @@ Er hat auch experimentelle Werke wie „The Heads That Know (feat. Comma Dee)“
 | 2015 | Startete Aktivitäten unter echtem Namen, kündigte Weltschmerz EP | an
 | 2017 | EP „Closer, Wisdom“ veröffentlicht, erregt Aufmerksamkeit in Europa und Amerika |
 | 2018 | BBC Radio 1 Essential Mix-Auftritt |
-| 2019 | Gründung von KNTXT |
+| 2019 | KNTXT gegründet |
 | 2022 | Abschluss der Hauptbühne von Tomorrowland |
 | 2023 | Abschluss des Bewegungsfestivals |
-| 2024 | KNTXT-Store eröffnet, Label Époque gegründet |
+| 2024 | KNTXT-Store eröffnet, Époque-Label gegründet |
 | 2025,4 | Single „The Realm“ angekündigt |
 | 2025,7 | Zeitplan für den Eröffnungs- und Abschlussauftritt von Tomorrowland |
 | 2025.11 | Debütalbum „Charlotte de Witte“ veröffentlicht |

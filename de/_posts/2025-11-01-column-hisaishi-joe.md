@@ -75,7 +75,7 @@ Dieser Name wurde erstmals 1981 offiziell auf dem Album Information verwendet.
 1984 wurde Hisaishi ausgewählt, die Musik für den Film „Nausicaa aus dem Tal des Windes“ von Tokuma Shoten und Top Craft zu leiten.
 Das Lied verwendet eine Kombination aus Synthesizern und ethnischen Instrumenten, was für Animationsmusik ungewöhnlich ist.
 
-Ursprünglich wollte Regisseur Hayao Miyazaki „Musik, die den Atem zwischen Natur und Maschinerie spüren lässt“.
+Ursprünglich wollte Regisseur Hayao Miyazaki „Musik, die den Atem zwischen Natur und Maschinerie spüren lässt.“
 Als Reaktion darauf schlug Hisaishi einen „Environmental-Music-Ansatz“ vor, der eine Weltanschauung durch Rhythmus und Ton darstellt.
 
 Das Hauptthema, „Legend of the Wind“, wurde später zu einem von Hisaishis Erkennungsliedern.
@@ -138,7 +138,7 @@ In diesem Jahr komponierte Hisaishi auch die Musik für Takeshi Kitanos „HANA-
 ## Kapitel 9: Spirited Away (2001) – Aufbau eines weltweiten Rufs
 
 Im Jahr 2001 erschien „Chihiros Reise ins Zauberland“ von Studio Ghibli und Hisaishis Musik erregte internationale Aufmerksamkeit.
-Der Titelsong „Always Again and Again“ (komponiert von Joe Hisaishi, gesungen von Yumi Kimura) gewann den Best Music Award bei den 25. Japan Academy Awards.
+Der Titelsong „Itsou Dogode“ (komponiert von Joe Hisaishi, gesungen von Yumi Kimura) gewann den Preis für die beste Musik bei den 25. Japan Academy Awards.
 
 Die Musik zeichnet sich durch die Klarheit der Melodie und die Schönheit des „Ma“ aus, was die Fantasie der Geschichte verstärkt.
 Dieses Werk gewann 2003 den Oscar für den besten Animationsfilm und Hisaishis Name verbreitete sich auf der ganzen Welt.
@@ -159,7 +159,7 @@ In diesen Werken wird Hisaishis Musik zu einem Element, das die „innere Zeit d
 
 ## Kapitel 11: „Wie lebst du?“ (2023) – Klangabstraktion und neue Herausforderungen
 
-„How do you live“, der 2023 in die Kinos kommt, ist der erste abendfüllende Film von Regisseur Hayao Miyazaki seit 10 Jahren.
+„How do you live?“, der 2023 in die Kinos kommt, ist der erste abendfüllende Film von Regisseur Hayao Miyazaki seit 10 Jahren.
 Für die Musik war erneut Joe Hisaishi verantwortlich.
 
 Dieses Werk verwendet eine abstrakte Klangstruktur und betont eher Resonanz und Textur als Melodie.
@@ -169,7 +169,7 @@ Dieses Werk ist das jüngste Beispiel für Hisaishis kontinuierliche Verbindung 
 
 ---
 
-## Chronologie: Liste der Gemeinschaftswerke von Joe Hisaishi x Studio Ghibli
+## Chronologie: Liste der Gemeinschaftswerke von Joe Hisaishi und Studio Ghibli
 
 | Jahr | Titel | Regisseur | Titellied/Repräsentationslied | Notizen |
 |----|---------|------|----------------|------|

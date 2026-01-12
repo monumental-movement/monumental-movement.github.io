@@ -103,7 +103,7 @@ Cette "ambiance MTV du sud de l'Inde" a ensuite été héritée par A.R. Rehman 
 C’était une époque où la chaîne de télévision publique Doordarshan s’ouvrait à la diffusion commerciale et où les jeunes des zones rurales rêvaient de devenir des stars.
 
 Le décor dans lequel le personnage principal de « Dance Raja Dance », Raja, devient célèbre grâce à une émission télévisée symbolise véritablement la germination des valeurs néolibérales.
-Surmonter les contraintes du travail, de la classe sociale et de la famille et réussir grâce au talent et au travail acharné : c'est ce que l'on peut appeler la « version indienne du rêve américain ».
+Surmonter les contraintes du travail, de la classe et de la famille et réussir grâce au talent et au travail acharné : c'est ce que l'on peut appeler la « version indienne du rêve américain ».
 
 ---
 

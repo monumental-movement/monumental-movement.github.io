@@ -109,7 +109,7 @@ color: #fff;
 | 1980 | Pac-Man | Icône de la culture pop |
 | 1981 | Âne Kong | Symbole de la percée de Nintendo |
 | 1983 | Le repaire du dragon | Animation innovante et production musicale |
-| 1986 | Dépasser | BGM with a rock driving feel |
+| 1986 | Dépasser | BGM avec une sensation de conduite rock |
 | 1987 | Contre | Expérience de jeu explosive et affinité hard rock |
 | 1989 | Combat final | Son de combat et de hard rock |
 
@@ -292,7 +292,7 @@ Depuis les années 2000, des jeux musicaux comme **Guitar Hero** et **Rock Band*
 
 ---
 
-### Bandai Namco : série Taiko no Tatsujin
+### Bandai Namco : Série Taiko no Tatsujin
 
 | Titre | Pistes | Artiste | Remarques |
 |--------------|---------|-------------|------|
@@ -340,7 +340,7 @@ Depuis les années 2000, des jeux musicaux comme **Guitar Hero** et **Rock Band*
 | Titre | Pistes | Artiste | Remarques |
 |--------------|---------|-------------|------|
 | Arcées (2017) | Vainqueur du monde | vide | Son RH numérique |
-| Arcées (2018) | Rayon de fracture | Sakuzyō | Style RH progressif |
+| Arcées (2018) | Rayon de fracture | Sakuzyo | Style RH progressif |
 | Arcée (2020) | PRAGMATISME | Équipe Grimoire | Développement de noyau métallique solide |
 
 ---

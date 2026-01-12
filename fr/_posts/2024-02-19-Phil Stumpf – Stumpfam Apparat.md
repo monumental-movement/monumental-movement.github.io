@@ -14,7 +14,7 @@ title: Phil Stumpf – Appareil Stumpfam
 ---
 
 
-Un morceau minimal de Phil Stumpf, également membre du groupe post-rock allemand « OH » ​​et également actif au sein de l'unité « DUPLEX 100 » avec Sam Rouanet.
+Un morceau minimal de Phil Stumpf, qui est également membre du groupe post-rock allemand « OH ». Et également actif au sein de l'unité « DUPLEX 100 » avec Sam Rouanet.
 
 Sorti en 2005 sur le label house allemand Tom Bone Vibrating Music.
 
@@ -24,9 +24,9 @@ Phil Stumpf (né en 1973 en Allemagne) est musicien actif depuis 1993 et ​​a
 
 À la fin des années 80 et au début des années 90, j’étais dans le domaine du rock indépendant et j’étais fasciné et influencé par des groupes comme Mouse on Mars et Tortoise, ainsi que par la musique électronique et sa structure minimaliste.
 
-Ayant trouvé son chemin sur la piste de danse principalement grâce à son groupe oh., il découvre le groove minimal et commence à produire des morceaux de club sous son propre nom en 1999.
+Principalement initié au dancefloor grâce à son groupe oh., il découvre les grooves minimaux et commence à produire des morceaux club sous son propre nom en 1999.
 
-Il travaillera également sous le nom de Duplex 100 avec son partenaire français Samuel Rouanat.
+Il travaillera également sous le nom de Duplex 100 avec son partenaire français Samuel Ruanat.
 
 En 2001, il s'installe à Paris et co-fonde une soirée club appelée « Minimal Dancin » au Nouveau Casino avec Samuel Rouanat.
 

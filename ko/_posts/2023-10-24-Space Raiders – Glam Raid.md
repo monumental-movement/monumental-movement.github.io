@@ -10,13 +10,13 @@ tags:
 - Big Beat
 - Techno
 - 7inch
-title: 스페이스 레이더스 – 글램 레이드
+title: Space Raiders – Glam Raid
 ---
 
 
-Space Raiders는 1997년에 결성된 영국 미들즈브러 출신의 영국 일렉트로 트리오입니다.
+Space Raiders(スペース・レイダーズ)は、1997年に結成したイギリスのミドルズブラ出身のUKエレクトロ・トリオ。
 
-"Glam Raid"는 Fatboy Slim, Freq Nasty, Midfield General, Lo-Fidelity Allstars 등 초기 빅 비트 씬을 이끌었던 레이블인 Skint에 의해 1998년에 발매되었습니다.
+「Glam Raid」は、Fatboy Slim(ファットボーイ スリム), Freq Nasty(フリーク ナスティ), Midfield General(ミッドフィールド ジェネラル), Lo-Fidelity Allstars(ローフィデリティ オールスターズ) など、初期のビッグビートシーンをリードしたレーベルSkintからの1998年リリース。
 
 #### 트랙리스트
 ```md

@@ -14,7 +14,7 @@ title: Klaxons – Goldene Skans
 ---
 
 
-Ein Remix von „Golden Skans“ von Klaxons, einer 2005 in New Cross, Großbritannien, gegründeten Rockband.
+Ein Remix von „Golden Skans“ der 2005 in New Cross, Großbritannien gegründeten Rockband Klaxons.
 
 Der erste Titel auf Seite A ist ein Remix von SebastiAn, einem Elektronikmusiker und DJ, der mit Ed Banger Records/Ed Rec verbunden ist.
 

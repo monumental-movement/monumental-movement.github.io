@@ -11,7 +11,7 @@ tags:
 - Electro
 - Disco
 - 00s
-title: 벤저민 테베스 – 텍사스
+title: 벤저민 테베스 - 텍사스
 ---
 
 

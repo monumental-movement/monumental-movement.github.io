@@ -14,7 +14,7 @@ title: 오리지널 카스트 – 미스터 먼데이 / 스위트 시카고
 ---
 
 
-오리지널 카스트(The Original Caste)는 캐나다의 민속 그룹입니다. 1966년 앨버타 주 캘거리에서 결성된 그들은 노스 컨트리 싱어즈(The North Country Singers)로 알려졌습니다.
+오리지널 카스트(The Original Caste)는 캐나다의 민속 그룹입니다. 1966년 앨버타 주 캘거리에서 결성된 이들은 노스 컨트리 싱어즈(The North Country Singers)로 알려졌습니다.
 
 #### 트랙리스트
 ```md

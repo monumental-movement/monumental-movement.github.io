@@ -9,13 +9,13 @@ permalink: /ko/the-lassie-foundation-pacifico/
 tags:
 - Shoegaze
 - Rare
-title: Lassie 재단 - 파시피코
+title: The Lassie Foundation – Pacifico
 ---
 
 
-Lassie Foundation은 1996년부터 2006년까지 활동한 로스앤젤레스 출신의 노이즈 팝/드림 팝 슈게이즈 밴드였습니다.
+The Lassie Foundation（ラッシー・ファンデーション）は、1996年から2006年まで活動したロサンゼルスのノイズポップ/ドリームポップ・シューゲイザーバンド。
 
-멤버 Jeff Schroeder는 2007년 James Iha를 대신하여 Smashing Pumpkins의 기타리스트가 되었습니다.
+メンバーのJeff Schroeder（ジェフ・シュローダー）は、James Iha（ジェームス・イハ）の後釜として2007年にSmashing Pumpkins（スマッシング パンプキンズ）のギタリストになった。
 
 #### 트랙리스트
 ```md

@@ -113,7 +113,7 @@ Ceux-ci ont créé le terrain musical qui a directement conduit aux Shabazz Pala
 ### ● Nourrisseur de cerveau (2008～)
 - Label fondé par Flying Lotus.
 - Avec Teebs, Samiyam, Tokimonsta, Thundercat et plus encore.
-- Diffusez la culture du beat abstrait à l'échelle mondiale.
+- Diffuser la culture du beat abstrait à l'échelle mondiale.
 
 ---
 
@@ -123,7 +123,7 @@ Ceux-ci ont créé le terrain musical qui a directement conduit aux Shabazz Pala
 
 ---
 
-Shabazz Palaces a été créé vers 2009, dirigé par Ishmael Butler (anciennement de Digable Planets).
+Shabazz Palaces a été lancé vers 2009, dirigé par Ishmael Butler (anciennement de Digable Planets).
 
 ### Caractéristiques
 - Une combinaison de percussions ouest-africaines, de psychédélisme, de son ambiant et expérimental.
@@ -132,7 +132,7 @@ Shabazz Palaces a été créé vers 2009, dirigé par Ishmael Butler (ancienneme
 
 ---
 
-## 5. Expérience de battement : « désalignement » et grooves non linéaires d'après J Dilla
+## 5. Expérience de battement : « désalignement » et grooves non linéaires d'après J Dilla
 
 Au cœur du hip-hop expérimental depuis les années 2000 se trouve la « réinvention du rythme ».
 

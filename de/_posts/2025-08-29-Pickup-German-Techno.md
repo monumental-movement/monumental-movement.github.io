@@ -23,7 +23,7 @@ title: Aufgreifen deutscher Techno-Werke
 <a href="https://jp.mercari.com/item/m32845023734?afid=6142608987"><img src="../assets/images/Tresor%20Compilation%20Vol.%207.webp"></a>
 
 
-Attraktiver Punkt: Eine Zusammenstellung des renommierten deutschen Labels Tresor mit einer luxuriösen Auswahl an Titeln einiger der größten Namen des Techno, darunter Sven Väth, Maurizio, Ben Sims, James Ruskin und Pacou. Dies ist ein Stück, das es Ihnen ermöglicht, den Charme des harten, minimalistischen und innovativen Techno, der Berlin – Deutschland, symbolisiert, voll und ganz zu erleben.
+Attraktiver Punkt: Eine Zusammenstellung des renommierten deutschen Labels Tresor mit einer luxuriösen Auswahl an Titeln einiger der größten Namen des Techno, darunter Sven Väth, Maurizio, Ben Sims, James Ruskin und Pacou. Dies ist ein Stück, das es Ihnen ermöglicht, den Charme des harten, minimalistischen und innovativen Techno, der Berlin-Deutschland symbolisiert, voll und ganz zu erleben.
 
 
 #### Trackliste
@@ -58,7 +58,7 @@ Attraktiver Punkt: Eine Zusammenstellung des renommierten deutschen Labels Treso
 
 
 
-Attraktiver Punkt: Ein Meisterwerk von Zombie Nation, einem Projekt des deutschen DJ/Produzenten Splank! (Florian Senfter). Insbesondere wird die A-Seite „Souls At Zero (Original Album Version)“ mit einer Remix-B-Seite von Sven Väth gepaart. Der Remix von Sven Väth hat einen kraftvollen Abgang, der die Tiefe und Dramatik des deutschen Techno vereint.
+Attraktiver Punkt: Ein Meisterwerk von Zombie Nation, einem Projekt des deutschen DJ/Produzenten Splank! (Florian Senfter). Insbesondere wird die A-Seite „Souls At Zero (Original Album Version)“ mit einer Remix-B-Seite von Sven Väth gepaart. Der Remix von Sven Väth hat einen kraftvollen Abgang, der die Härte und Dramatik des deutschen Techno vereint.
 
 
 #### Trackliste

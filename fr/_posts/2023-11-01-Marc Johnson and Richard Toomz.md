@@ -9,18 +9,18 @@ permalink: /fr/marc-johnson-and-richard-toomz/
 tags:
 - House
 - Hard House
-title: Marc Johnson et Richard Toomz
+title: Marc Johnson & Richard Toomz
 ---
 
 
 
-La carrière de DJ de Dave Owens a décollé au début des années 2000 et il a été DJ dans certaines des salles les plus emblématiques de la scène club, notamment Insomniacz, Housework, Insekt, Byte, Ultim-8, Incisions, Hard Up North, Out of Order, Toast, Housewives Choice et Forbidden.
+Dave Owens（デーブオーウェンズ）のDJキャリアは、2000年代初頭に軌道に乗り、Insomniacz、Housework、Insekt、Byte、Ultim-8、Incisions、Hard Up North、Out of Order、Toast、Housewives Choice、Forbiddenなどのクラブシーンを代表する場所でDJを務めています。
 
-Il était également DJ résident au PureFilth de Manchester.
+マンチェスターのPureFilthではレジデントDJも務めていました。
 
-Le travail de production de Dave est connu pour son son résolu dans la musique dance, et il a publié des œuvres sur les labels hard house et NRG qui représentent la scène.
+デーブのプロデュース作品は、ダンスミュージックの中でもハード寄りなサウンドで知られ、シーンを代表するハードハウスやNRGレーベルから作品をリリースしています。
 
-Il travaille également en étroite collaboration avec Nick Denton et participe au développement de Toolbox Music, ainsi que des principaux sous-labels Toolbox Recordings, Hammerheads et Turtle Dog Digital.
+また、ニック・デントンと緊密に協力し、Toolbox Musicの発展に貢献しているほか、サブレーベルであるToolbox Recordings、Hammerheads、Turtle Dog Digitalも率いています。
 
 #### Liste des chansons
 ```md

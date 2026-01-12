@@ -19,7 +19,7 @@ Tippfehler bei Titel A2: Der Künstler wird falsch als „Grandmaster Flash“ g
 
 Songwriter-Fehler bei Track B4: Credit wird fälschlicherweise als „Treacherous Three“ statt „Doug E. Fresh“ geschrieben.
 
-Künstlerfehler bei Track B5: Der Künstler wird fälschlicherweise als „Treacherous Three“ geschrieben, statt wie ursprünglich als „Treacherous Three featuring Spoonie Gee“.
+Künstlerfehler bei Track B5: Der Künstler wird fälschlicherweise als „Treacherous Three“ statt als ursprünglich „Treacherous Three featuring Spoonie Gee“ aufgeführt.
 
 Falsche Künstlerbeschreibung für Titel B6: Der Künstler wird als „Funky Four & One“ anstelle des ursprünglichen „Funky 4 + 1“ bezeichnet.
 

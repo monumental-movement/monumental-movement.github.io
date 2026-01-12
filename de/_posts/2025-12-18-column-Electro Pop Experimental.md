@@ -43,7 +43,7 @@ color: #fff;
 
 ## Kapitel 1 Prämisse der elektronischen Musik vor dem Elektropop
 
-Um die Entstehung elektronischer Pop-Experimente zu verstehen, ist es notwendig, die Geschichte der Verbindung von elektronischer Musik und Popmusik in der zweiten Hälfte des 20. Jahrhunderts aus der Vogelperspektive zu betrachten.
+Um die Entstehung des elektronischen Pop-Experimentsystems zu verstehen, ist es notwendig, die Geschichte der Verbindung von elektronischer Musik und Popmusik in der zweiten Hälfte des 20. Jahrhunderts aus der Vogelperspektive zu betrachten.
 
 ### Kombination von Synthesizer- und Pop-Strukturen
 
@@ -75,7 +75,7 @@ Diese dienen später als Grundlage für erweiterte Experimente.
 * Klangbildgestaltung, die Künstlichkeit nicht verbirgt
 * Gleichzeitiger visueller Ausdruck und Musikproduktion
 
-Dieser experimentelle Charakter zerlegt das Erlebnis des Hörers in mehrere Ebenen und erweitert das Musikhören zu einem „rein auditiven Akt“.
+Dieser experimentelle Charakter zerlegt die Erfahrung des Hörers in mehrere Ebenen und erweitert das Musikhören zu einer „rein auditiven Aktivität“.
 
 ---
 
@@ -129,7 +129,7 @@ Der experimentelle Charakter von Carpenter Brut manifestiert sich weniger in der
 
 ## Kapitel 7 Visuelle Kultur und Elektropop-Experimente
 
-In der experimentellen Elektropop-Musik wirken die folgenden Elemente zusammen und nicht nur Musik allein.
+In der experimentellen Elektropop-Musik wirken die folgenden Elemente zusammen und nicht nur die Musik allein.
 
 * Albumcover
 * Musikvideo
@@ -199,7 +199,7 @@ Durch die Einbeziehung des Produktionsprozesses und visueller Informationen erle
 
 * Musik hören
 * Vorstellung des Produktionsprozesses
-* Beobachtung der Persönlichkeit des Schöpfers
+* Beobachtung der Schöpferpersönlichkeit
 * Visuelle narrative Interpretation
 
 Dies macht das Stück eher zu einem kontinuierlichen Interpretationsprozess als zu einem fertigen Werk.

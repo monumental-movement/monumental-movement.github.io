@@ -65,15 +65,21 @@ Beim Glitch Hop spielt der Ton eine wichtigere Rolle als die Melodie. Der Bass i
 
 ### 3.1 Der Glitch Mob
 
-The Glitch Mob hat eine Methode etabliert, um Beats und Sounddesign durch den Einsatz eines Mehrpersonen-Produktionssystems stark zu unterteilen und zu integrieren. Ihre Lieder vermeiden einfache Wiederholungen von Loops und die Dichte von Rhythmus und Ton ändert sich mit jeder Entwicklung.
+The Glitch Mob hat eine Methode etabliert, um Beats und Sounddesign durch den Einsatz eines Mehrpersonen-Produktionssystems stark zu unterteilen und zu integrieren. Ihre Lieder verzichten auf einfache Schleifenwiederholungen und verändern stattdessen mit jeder Entwicklung die rhythmische und klangliche Dichte.
 
-Der Bass ist so konzipiert, dass er die treibende Kraft des Songs ist, und seine Phasenbeziehung zur Kick wird streng kontrolliert. Das Subband ist oft monaural angeordnet und zeichnet sich durch ein Design aus, das die Stabilität bei der Clubwiedergabe betont.
+Der Bass soll die treibende Kraft des Songs sein und sein Phasenverhältnis zum Bass wird streng kontrolliert. Das Subband ist oft monaural angeordnet und zeichnet sich durch ein Design aus, das die Stabilität bei der Clubwiedergabe betont.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xbbwjfa9JQE?si=-2_64kU--YmohV0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 ### 3.2 KOAN-Sound
 
 KOAN Sound ist bekannt für äußerst präzise Audiobearbeitung und fortschrittliche Mischtechniken. In ihren Songs werden auf jede Note unterschiedliche Hüllkurven und Filtereinstellungen angewendet, und derselbe Ton wird selten nacheinander verwendet.
 
 Die Frequenzbänder, die jede Note einnimmt, sind klar getrennt, wodurch Kollisionen zwischen Bässen, Mitten und Höhen minimiert werden. Dieses Design sorgt auch bei komplexen Rhythmen für klare Klarheit.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ach8lgF6-AY?si=h70zKmxpWEPZPRgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -120,7 +126,7 @@ Verzerrung, granulare Verarbeitung, Multiband-Kompressor und Limiter sind der Ke
 
 Während Dubstep auf langsame Tempi und räumliche Abstände Wert legt, legt Glitch Hop Wert auf Bearbeitungsdichte und rhythmische Fragmentierung.
 
-Das intellektuelle Experimentieren von IDM wird von Glitch Hop geerbt, der Unterschied besteht jedoch darin, dass es mehr physische Grooves in den Vordergrund rückt.
+Das intellektuelle Experimentieren von IDM wird von Glitch Hop geerbt, unterscheidet sich jedoch dadurch, dass es mehr physische Grooves in den Vordergrund rückt.
 
 ---
 
@@ -173,9 +179,9 @@ flowchart LR
 
 ## 12. Klanganalyse nach Frequenzband
 
-Der niedrige Bereich ist der Kern von Glitch Hop und der Bereich, der direkt eine physische Reaktion hervorruft. Hier wird der Subbass oft als intermittierender Impuls und nicht als anhaltender Ton behandelt. Die Kompression wird stark ausgeübt, die Freigabezeit wird jedoch relativ kurz eingestellt, um eine übermäßige Expansion zu vermeiden.
+Der niedrige Bereich ist der Kern von Glitch Hop und der Bereich, der direkt eine physische Reaktion hervorruft. Hier wird der Subbass oft als intermittierender Impuls und nicht als anhaltender Klang behandelt. Die Kompression wird stark ausgeübt, die Freigabezeit wird jedoch relativ kurz eingestellt, um eine übermäßige Expansion zu vermeiden.
 
-In diesem Band überlappen sich das Körpergeräusch und die Bassobertöne des Kicks häufig, was zu Trübungen führt. Bei Glitch Hop liegt der Schwerpunkt auf der Differenzierung in der Klanggestaltungsphase und nicht auf der Reduzierung durch EQ. Dadurch kommt es in vielen Fällen vor, dass das Band selbst relativ hohl wird.
+In diesem Band überlappen sich das Körpergeräusch und die Bassobertöne des Kicks oft, was zu Trübungen führt. Bei Glitch Hop liegt der Schwerpunkt auf der Differenzierung in der Klanggestaltungsphase und nicht auf der Reduzierung durch EQ. Dadurch kommt es in vielen Fällen vor, dass das Band selbst relativ hohl wird.
 
 Der Mitteltonbereich ist der Bereich, der für die Lesbarkeit rhythmischer Informationen verantwortlich ist und in dem sich Klickgeräusche, kurze Geräusche und verarbeitete Percussion konzentrieren. Hierbei werden Transienten betont und eine extrem kurze Notenlänge eingestellt, um die Klarheit des Klangbildes zu gewährleisten.
 
@@ -195,17 +201,10 @@ Während der Tieftonbereich nahezu in der Mitte fixiert ist, werden die Glitch-E
 
 Übermäßiger Schalldruckwettbewerb ist nicht unbedingt der Hauptzweck von Glitch Hop. Der Schwerpunkt liegt vielmehr auf dem Kontrast zwischen momentanen Spitzen und Stille. Daher fungiert der Begrenzer als Sicherheitsvorrichtung und es besteht die starke Tendenz, dass der Ausdruck selbst in der Mischphase vervollständigt wird.
 
----
-
-## 15. Perspektive der Monumental Movement Records
-
-Wenn man Glitch Hop im Kontext von Monumental Movement Records betrachtet, kommt es nicht auf die Nachahmung von Stilen an, sondern auf die Haltung, das Editieren selbst als einen Akt der Kritik zu betrachten. Fragmentierung ist keine Zerstörung, sondern eine Voraussetzung für Neuordnung, und Musik wird immer als rekonstruierbare Struktur präsentiert.
-
-Glitch Hop ist in der Theorie hochgradig künstlich und dennoch äußerst physisch. Dieser Widerspruch bleibt ungelöst und bildet eine eigene Genrespannung.
 
 ---
 
-## 16. Erweiterte Chronologie
+## 15. Erweiterte Chronologie
 
 <div class="mermaid">
 timeline
@@ -218,7 +217,7 @@ timeline
 
 ---
 
-## 17. Zusammenfassung
+## 16. Zusammenfassung
 
 Glitch Hop ist ein Genre, das durch die maximale Bearbeitungsauflösung von Beat-Musik entstanden ist. Beurteilungen, die in einem Takt, einer Note und sogar in Millisekunden getroffen werden, stehen in direktem Zusammenhang mit der endgültigen körperlichen Empfindung. In diesem Sinne ist Glitch Hop nicht nur eine Sammlung von Produktionstechniken, sondern auch ein Gedankensystem, das das Hörerlebnis selbst gestaltet.
 

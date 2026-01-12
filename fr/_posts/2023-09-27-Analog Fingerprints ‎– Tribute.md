@@ -13,7 +13,7 @@ title: Empreintes digitales analogiques – Hommage
 ---
 
 
-"Tribute" d'Analog Fingerprints est un morceau électro house cahoteux avec une ambiance rave sur la face A. B1 et B2 sont des morceaux très minimalistes.
+"Tribute" d'Analog Fingerprints est un morceau électro house cahoteux avec une ambiance rave sur la face A. B1 et B2 sont des morceaux très minimes.
 
 Le vrai nom d'Analog Fingerprints est Marco Passarani.
 

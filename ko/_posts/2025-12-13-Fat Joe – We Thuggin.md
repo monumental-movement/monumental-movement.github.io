@@ -9,7 +9,7 @@ permalink: /ko/fat-joe-we-thuggin/
 tags:
 - Hiphop
 - 00s
-title: 팻 조 – We Thuggin'
+title: 팻 조 - We Thuggin'
 ---
 
 

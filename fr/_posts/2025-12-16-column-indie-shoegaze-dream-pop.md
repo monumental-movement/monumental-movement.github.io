@@ -22,7 +22,7 @@ title: '[Chronique] Indie Shoegaze / Dream Pop'
 Texte : mmr｜Thème : À propos de l'histoire de la reconstruction des images et des sensations sonores
 
 Le Shoegaze et la dream pop, qui ont émergé principalement au Royaume-Uni entre la fin des années 1980 et le début des années 1990, ont considérablement modifié le domaine expressif de la musique rock de la « performance » à l'« image sonore ».
-Ces musiques se concentrent sur l'espace, la réverbération et le sustain sensuel créés par des sons qui se chevauchent, plutôt que sur l'attrait immédiat de la mélodie ou la clarté des paroles.
+Ces musiques se concentrent sur l'espace, la réverbération et la durée sensuelle créés par des sons qui se chevauchent, plutôt que sur l'attrait immédiat de la mélodie ou la clarté des paroles.
 
 Le terme « shoegaze » vient de la façon dont les gens regardaient les planches effectrices à leurs pieds pendant qu'ils jouaient, et le terme s'est imposé comme un symbole de la nature introvertie de la performance. La dream pop, quant à elle, est née de la fusion d'une sensibilité pop ambiante antérieure avec l'orientation sonore du post-punk.
 
@@ -50,7 +50,7 @@ color: #fff;
 
 ### 1-1. Sensation acoustique après le post-punk
 
-À la fin des années 1970 et au début des années 1980, le postpunk a déconstruit les structures du rock et a porté son attention sur le timbre, la texture et le traitement spatial.
+À la fin des années 1970 et au début des années 1980, le postpunk a déconstruit la structure du rock et a porté son attention sur le timbre, la texture et le traitement spatial.
 Les synthétiseurs, la réverbération et le delay ne sont plus de simples décorations, mais fonctionnent comme des éléments qui façonnent la structure de la chanson elle-même.
 
 Au cours de ce processus, la voix chantée est passée du statut de corps principal racontant l’histoire à celui de simple partie du son.
@@ -72,12 +72,12 @@ Les paroles étaient souvent abstraites ou improvisées et le sens du langage de
 ### 2-1. Guitare et traitement spatial
 
 Les guitares dream pop sont disposées sous forme de sons soutenus, plutôt que de riffs ou de progressions d'accords.
-Le delay est utilisé pour créer des réverbérations qui se chevauchent plutôt que d'être synchronisées avec le rythme, et la réverbération joue le rôle de fondre les contours du son.
+Le delay est utilisé pour créer des réverbérations superposées plutôt que d'être synchronisé avec le rythme, et la réverbération joue le rôle de fondre les contours du son.
 
 ### 2-2. Rythme en arrière-plan
 
 La batterie et la basse n'agissent pas comme la force motrice de la chanson, mais fonctionnent comme un centre de gravité pour soutenir l'image sonore.
-Le rythme est relativement constant et l’accent est mis sur la continuation d’un État plutôt que sur un développement spectaculaire.
+Le rythme est relativement constant et l’accent est mis sur la continuation d’un État plutôt que sur des développements dramatiques.
 
 ---
 
@@ -134,7 +134,7 @@ Le travail de caméra et le montage évitent également une mise au point claire
 
 | Éléments | Pop de rêve | Regard sur les chaussures |
 | ---- | ------- | ------- |
-| Volume | Relativement supprimé | Volume fort/haute densité |
+| Volumes | Relativement supprimé | Volume fort/haute densité |
 | Distorsion | Moins | Multicouche |
 | Traitement des voix | Flottant | Enterré |
 | Sensations | Rêve/Introspection | Oppression/Euphorie |
@@ -158,11 +158,11 @@ timeline
 
 ## Dernier chapitre : Quand la musique devient décor
 
-Le shoegaze indie et la dream pop ont transformé la musique d'un objet à écouter en un espace dans lequel s'immerger.
+L'indie shoegaze et la dream pop ont transformé la musique d'un objet à écouter en un espace dans lequel s'immerger.
 Il ne s’agit pas d’une démonstration d’habileté, mais d’une conception des sens, d’une expression globale qui relie les sensations visuelles et physiques.
 
 My Bloody Valentine et Cocteau Twins, dans leurs directions différentes, ont montré jusqu'où la musique pouvait être abstraite.
-L’image sonore qu’ils ont laissée continue de se retrouver, directement ou indirectement, dans de nombreuses œuvres indépendantes, même aujourd’hui.
+L’image sonore qu’ils ont laissée continue de se retrouver, directement ou indirectement, dans de nombreuses œuvres indépendantes, encore aujourd’hui.
 
 ["Cette musique ne s'arrête jamais. Elle est toujours rejouée sous une forme différente."]
 
@@ -230,7 +230,7 @@ Il s'agissait d'une tentative de redéfinir le langage comme un matériau sonore
 
 ### C-2. L'obscurité des paroles dans shoegaze
 
-Dans les œuvres de My Bloody Valentine, il y a de nombreuses parties où les paroles sont totalement inaudibles.
+Dans les œuvres de My Bloody Valentine, il y a de nombreuses parties où les paroles sont complètement inaudibles.
 Cependant, ce n’est pas un manque, mais le résultat de la conception.
 
 À mesure que les mots perdent leur sens, les auditeurs sont amenés à recevoir leurs émotions sans les verbaliser.
@@ -279,7 +279,7 @@ Cette superposition de type shoegaze et le traitement spatial dream-pop ont ét�
 
 | Point de vue | Ma sanglante Saint-Valentin | Jumeaux Cocteau |
 | ----- | ------------------- | ------------- |
-| Volume | Extrêmement fort | Relativement supprimé |
+| Volumes | Extrêmement fort | Relativement supprimé |
 | Fluctuation du son | Physique/Performance | Spatial/Traitement |
 | Rôle de la voix | Partie d'un instrument de musique | Moyen d'émotion |
 | Vision du monde | Étanchéité/Compression | Diffusion/Flottant |

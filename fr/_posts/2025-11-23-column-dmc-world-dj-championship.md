@@ -19,7 +19,7 @@ title: '[Chronique] DMC World DJ Championship : La trajectoire du platinisme ve
 
 # DMC World DJ Championship——Histoire mondiale du platinisme
 
-Texte : mmr｜Thème : Histoire du DMC World DJ Championship, innovation technologique, financement participatif, histoire du championnat du monde, réalisations des joueurs japonais, culture de l'équipement, Turntablism
+Texte : mmr｜Thème : Histoire du DMC World DJ Championship, innovation technologique, financement participatif, évolution du championnat du monde, réalisations des joueurs japonais, culture de l'équipement, Turntablism
 
 Connu comme l'une des plus grandes batailles de DJ au monde, le **DMC World DJ Championship (ci-après dénommé DMC)** a progressé avec la croissance de la culture du platinisme depuis sa création en 1985.
 Le processus par lequel les techniques des DJ hip-hop sont devenues indépendantes en tant qu'« expression musicale » et ont été institutionnalisées en tant que « compétition mondiale » est une histoire unique, sans précédent dans aucun autre genre.
@@ -45,7 +45,7 @@ color: #fff;
 DMC (Disco Mix Club) a été créé au Royaume-Uni en 1983 en tant que service de pool de disques pour les DJ de clubs, dans le but principal de fournir des sources sonores remixées aux DJ.
 Le contexte était la **culture des clubs** en croissance rapide en Europe et le **profession de DJ professionnels**.
 
-À l’époque, la technologie DJ était dominée par des mixages reliant de manière transparente les chansons, et le scratch et les tricks n’étaient encore développés que dans certaines régions du hip-hop.
+À l’époque, la technologie DJ était dominée par des mixages qui connectaient parfaitement les chansons, et le scratch et les tricks n’étaient encore développés que dans certaines régions du hip-hop.
 
 ## 1-2 En 1985, l'invention du « DJing compétitif »
 Le fondateur de DMC, Tony Prince, a eu l'idée de présenter la créativité des DJ sous la forme d'une « compétition » et a organisé le premier Championnat du monde de DJ DMC à Londres en 1985.
@@ -61,7 +61,7 @@ Lors du tournoi de 1986, il a exécuté une routine mettant l'accent sur le grat
 
 À partir de ce moment, le monde a commencé à partager la valeur selon laquelle « le turntablism, y compris le scratch, décide du jeu ».
 
-## 2-2　1988-1990 : Vers l'ère du sampling, du beat jonglerie et de la composition
+## 2-2　1988-1990 : Vers l'ère du sampling, du beat juggling et de la composition
 Après Cheese, les DJ ne se contentaient pas de jouer des chansons ;
 - Reconfigurer manuellement les rythmes
 - hacher les morceaux
@@ -87,7 +87,7 @@ Le Japon a eu une influence majeure sur le monde DMC depuis la fin des années 1
 ### Principaux sujets historiques
 - **1997 : DJ KRUSH rejoint le jury (symbole de reconnaissance internationale)**
 - **2000 : DJ KENTARO devient le premier Japonais à remporter le championnat du monde (score le plus élevé de l'histoire)**
-- Depuis, DJ YASA, DJ HI-C, Kireek (5 victoires consécutives dans la catégorie équipe), etc. ont acquis une renommée mondiale.
+- Depuis, DJ YASA, DJ HI-C, Kireek (5 victoires consécutives dans la catégorie équipe) et d'autres ont acquis une renommée mondiale.
 
 En particulier, la routine de KENTARO est considérée comme « exceptionnelle en termes de vitesse, de précision, de composition et de musicalité », ce qui en fait l'une des années les plus symboliques de l'histoire de DMC.
 
@@ -152,7 +152,7 @@ L'histoire du DMC est aussi l'**histoire technique du platinisme**.
 Ces innovations technologiques permettront aux DJ d'accéder à une position similaire à celle des « beatmakers » et des « compositeurs ».
 
 ## 6-2 Division et ensemble d'équipe
-Comme l'ont démontré C2C (France), Kireek (Japon), The Mixfitz (Canada), etc., la catégorie équipe est plus qu'une simple exposition de compétences de grattage ;
+Comme l'ont démontré C2C (France), Kireek (Japon), The Mixfitz (Canada), etc., la catégorie équipe est plus qu'une simple exposition de compétences de scratch ;
 - Orchestration avec 4 personnes en même temps
 - Composé comme une performance live
 - Production synchronisée avec la vidéo
@@ -189,7 +189,7 @@ DMC a établi le flux des préliminaires nationaux → des champions nationaux �
 Le turntablism existe depuis les années 2000.
 - École de DJ
 - Atelier
-- Département Universitaire de Musique et Médias
+- Département universitaire de musique et d'études médiatiques
 Il a également été intégré au club et a fini par être évalué comme un genre de musique plutôt que comme une simple technique de club.
 
 ---
@@ -250,7 +250,7 @@ Comme le symbolise le financement participatif, DMC est une culture protégée p
 
 *Vous trouverez ci-dessous un diagramme catégorisant les techniques de turntablism.
 
-## **① Technique/schéma du système du turntablism (classification des techniques de scratch)**
+## **① Technique du turntablism/schéma systématique (classification des techniques de scratch)**
 
 ### Schéma systématique des techniques de scratch
 

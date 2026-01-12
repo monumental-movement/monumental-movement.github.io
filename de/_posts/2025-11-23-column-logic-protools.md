@@ -23,7 +23,7 @@ Text: mmr｜Thema: Geschichte der Logic/Pro Tools/Steinberg/MOTU/Adobe DAW-Techn
 
 
 Das zentrale Werkzeug für die Musikproduktion ist ab 2025 fast ausnahmslos eine DAW (Digital Audio Workstation).
-Der Weg der Branche zu ihrer heutigen Form war jedoch nicht einfach. Das Unternehmen blickt auf eine komplexe Geschichte zurück, die sich über mehr als 40 Jahre mit **Unternehmensübernahmen**, der **Erfindung von Technologiestandards**, der **Integration von Hardware und Software** und der **Verknüpfung von Video und Rundfunk** erstreckt.
+Der Weg der Branche zu ihrer heutigen Form war jedoch nicht einfach. Das Unternehmen blickt auf eine komplexe Geschichte zurück, die mehr als 40 Jahre voller **Unternehmensübernahmen**, **Erfindung von Technologiestandards**, **Integration von Hardware und Software** und **Verknüpfung von Video und Rundfunk** umfasst.
 
 Folgende sechs Unternehmen prägten das Gesamtbild:
 
@@ -94,7 +94,7 @@ Die von Pro Tools eingeführte nichtlineare Bearbeitung entsprach nicht mehr dem
 
 ### ■ Steinbergs Transformation: Cubase Audio (1992)
 
-*MIDI- und Audio-Integration
+* MIDI- und Audio-Integration
 * Damals innovative Bearbeitungsfunktionen
 * **VST 1.0** wurde 1996 eingeführt und hatte einen der größten Einfluss in der DAW-Geschichte.
 
@@ -124,7 +124,7 @@ Im Jahr 1996 kam es zum größten Wendepunkt in der DAW-Geschichte.
 VST wurde später zu Apple AU, Digidesign RTAS/AAX, Propellerhead Rack Extensions usw.
 Es ist der „Vorfahre“ aller Plug-in-Standards.
 
-### ■ MOTU: Verbesserte Videosynchronisierung mit Digital Performer 2.0
+### ■ MOTU: Verbessern Sie die Videosynchronisierung mit Digital Performer 2.0
 
 In dieser Zeit begannen Hollywood-Komponisten, DP zu verwenden.
 Insbesondere die **SMPTE-Synchronisation und die Bearbeitungsgenauigkeit der Tempo-Map** wurden hoch gelobt.
@@ -191,7 +191,7 @@ Auch nach der Übernahme bleibt die Ausrichtung unverändert und die technologis
 
 * Die Genauigkeit der Videosynchronisation hat sich in der DP5/6-Ära weiter erhöht
 * Da es nur für den Mac geeignet ist, ist es mit Videosystemen kompatibel.
-* Wird häufig von Musikkomponisten verwendet, die häufig Soft-Synthesizer verwenden
+* Wird häufig von Komponisten verwendet, die häufig Soft-Synthesizer verwenden
 
 ### ■ Adobe: Cool Edit → Broadcast-Bearbeitung mit Audition integrieren
 
@@ -226,10 +226,10 @@ In dieser Zeit wurden DAWs mit **CPU-abhängiger nativer Verarbeitung** zum Main
 ### ■ Steinberg, MOTU und Adobe werden ebenfalls weiterhin aktualisiert
 
 *Steinberg hat seine VST3-Engine aktualisiert.
-*MOTU geht mit DP9/10 in den modernen Workflow über
+* MOTU geht mit DP9/10 in den modernen Workflow über
 * Die Marktdurchdringung von Adobe Audition ist auf die steigende Nachfrage nach Podcasts zurückzuführen
 
-Zu diesem Zeitpunkt war das Wort „DAW“ völlig populär.
+Zu diesem Zeitpunkt war das Wort „DAW“ völlig gebräuchlich,
 In Verbindung mit der Ausweitung der Homerecording-Kultur wird der Gesamtmarkt schnell wachsen.
 
 ---
@@ -263,7 +263,7 @@ In den letzten Jahren hat die Geschichte der DAWs einen weiteren großen Wandel 
 ### ■ Adobe: Steigende Nachfrage nach Vertrieb und Rundfunk
 
 * Vorteile der Integration mit Premiere
-* Stark im YouTube-/Podcast-Zeitalter
+* Stark in der YouTube-/Podcast-Ära
 
 ---
 

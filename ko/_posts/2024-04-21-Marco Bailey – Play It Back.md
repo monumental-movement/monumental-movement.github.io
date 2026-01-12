@@ -10,17 +10,17 @@ tags:
 - Techno
 - Electro
 - 00s
-title: 마르코 베일리 – 다시 재생해 보세요
+title: Marco Bailey – Play It Back
 ---
 
 
-Marco Bailey는 벨기에 출신의 프로듀서이자 DJ입니다. 그는 자신의 레이블인 Session Recordings와 Cristian Varela와 함께 PORNOGRAPHIC 레이블을 운영하고 있습니다.
+Marco Bailey（マルコ・ベイリー）は、ベルギー出身のプロデューサー兼DJ。自身のレーベルSession RecordingsやCristian Varela（クリスチャン・ヴァレラ）と共にレーベルPORNOGRAPHICを運営している。
 
-2023년에 그는 테크노 레이블 Elektronik Zoo Sounds를 설립했습니다.
+2023年には、テクノレーベルElektronik Zoo Soundsを設立。
 
-"Play It Back"은 Redhead라고도 알려진 Steve Vangilbergen과 공동 제작한 테크노 일렉트로 트랙입니다.
+「Play It Back」は、Redhead（レッドヘッド）ことSteve Vangilbergenと共同プロデュースしたテクノ・エレクトロトラック。
 
-Carl Cox와 DJ C1이 설립한 테크노 레이블 Intec Records에서 2000년에 발매되었습니다.
+カール・コックスとDJ C1が立ち上げたテクノレーベルIntec Recordsから2000年にリリース。
 
 #### 트랙리스트
 ```md

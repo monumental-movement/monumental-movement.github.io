@@ -23,8 +23,8 @@ Texte : mmr｜Thème : Hip-hop et anime japonais - Explorer l'intersection de la
 De là est né un groupe appelé « Xiaolin » qui a bouleversé l’histoire du hip-hop.
 **Wu-Tang Clan** - La chaîne de mots combatifs et philosophiques tissés par neuf MC était une forme d'art étrange qui combinait la violence de rue avec la tranquillité bouddhiste.
 
-Au cœur de leur vision du monde, **les films de kung-fu, la philosophie orientale et « l'imagination animée »** coexistaient.
-Pour la jeunesse noire américaine des années 1990, la culture asiatique était une « arme spirituelle exotique » et un moyen d’échapper à l’oppression sociale.
+Au cœur de leur vision du monde, **les films de kung-fu, la philosophie orientale et « l’imagination animée »** coexistaient.
+Pour la jeunesse noire américaine des années 1990, la culture asiatique était à la fois une « arme spirituelle exotique » et un moyen d’échapper à l’oppression sociale.
 Wu-Tang Clan a échantillonné Bruce Lee, Sun Tzu et Lao Tzu, et a ensuite résonné fortement avec l'esthétique de l'anime japonais.
 
 ---
@@ -47,7 +47,7 @@ color: #fff;
 
 Le mot « Shaolin » apparaît à plusieurs reprises dans les premiers travaux du Wu-Tang Clan.
 Ce n'est pas seulement un passe-temps asiatique.
-Pour eux, « Shaolin » était une métaphore de l'entraînement intérieur, de l'entraînement au milieu de la pauvreté et de la violence.
+Pour eux, "Shaolin" était une métaphore de l'entraînement intérieur, de l'entraînement au milieu de la pauvreté et de la violence.
 
 Cette structure est similaire aux anime japonais, en particulier « Dragon Ball », « Fist of the North Star » et « Naruto ».
 Son Goku et Kenshiro se transcendent en combattant des ennemis extérieurs.
@@ -117,7 +117,7 @@ En particulier, la musique de Nujabes combine échantillonnage et esthétique du
 Il était spirituellement connecté au clan Wu-Tang, le « Samouraï du Son ».
 
 Dans les années 2020, des références claires apparaissent dans les œuvres d’animation japonaises.
-L'influence du hip-hop lo-fi peut être vue dans la musique de fond de "Jujutsu Kaisen".
+L'influence du hip-hop lo-fi est visible dans la musique de fond de "Jujutsu Kaisen".
 Plusieurs artistes hip-hop participeront à la fin de « Chainsaw Man ».
 Ici, l’anime renoue une fois de plus avec le langage de la « rue ».
 

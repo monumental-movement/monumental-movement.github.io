@@ -15,7 +15,7 @@ title: Cygnus X – The Orange Theme (Die Remixe)
 
 Cygnus X ist eine deutsche Techno-Einheit, die in den 1990er Jahren aktiv war. Sie sind bekannt für ihre Trance-Musik und harten Trance-Sounds.
 
-„The Orange Theme“ ist der Signature-Song von Cygnus Sein großartiger Klang und seine einzigartigen Melodien werden Fans von Trance-Musik bekannt sein.
+„The Orange Theme“ ist der Signature-Song von Cygnus Its magnificent sound and unique melodies will be familiar to fans of trance music.
 
 Remixer haben den Songs ihre eigenen, einzigartigen Herangehensweisen hinzugefügt und so neue Interpretationen und Sounds hervorgebracht. Dies ermöglichte es uns, verschiedene Musikstile und Künstlerperspektiven zu integrieren und gleichzeitig Elemente des Originalsongs beizubehalten.
 

@@ -13,7 +13,7 @@ title: Nouvel ordre – Quelqu'un comme vous
 ---
 
 
-"Someone Like You" est inclus sur l'album "Music Complete" de New Order en 2015 et est une chanson qui combine des éléments pop et électroniques, mettant en valeur le son caractéristique des synthétiseurs et des rythmes de danse de New Order.
+"Someone Like You" est tiré de l'album "Music Complete" de New Order en 2015 et est une chanson qui combine des éléments pop et électroniques, mettant en valeur le son caractéristique des synthétiseurs et des rythmes de danse de New Order.
 
 Le remix Heavy Dub de James Holden et le remix de Funk D'Void de "New Order - Someone Like You" contiennent des éléments groove et pop et sont appréciés par beaucoup, tout comme la chanson originale.
 

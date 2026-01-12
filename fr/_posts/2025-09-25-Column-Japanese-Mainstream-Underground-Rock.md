@@ -137,7 +137,7 @@ A3 : C'est parce que notre production live unique qui combine psychédélique, n
 
 **Q4 : Pourquoi Melt-Banana est-il populaire à l'étranger ? **
 
-A4 : Nous avons acquis une renommée internationale pour nos performances live époustouflantes, notre sens de la vitesse et nos relations avec des musiciens expérimentaux tels que John Zorn.
+A4 : Nous avons acquis une renommée internationale pour nos performances live éblouissantes, notre sens de la vitesse et nos relations avec des musiciens expérimentaux tels que John Zorn.
 
 **Q5 : Quelle est l'œuvre la plus célèbre de Seiichi Yamamoto ? **
 
@@ -147,7 +147,7 @@ A5: [想い出波止場『水中joe』](https://amzn.to/4pJINuQ)や[ROVOのラ�
 
 ### résumé
 
-L'histoire du rock japonais a évolué parallèlement au « mainstream » au premier plan et au « underground » au dos. La lignée de Naked Larry's à Guitar Wolf se poursuit dans l'ère actuelle de l'IA, continuant d'élargir les possibilités du rock. Le rock japonais continuera de fournir « expérimentation et impulsion » à la scène musicale du monde.
+L’histoire du rock japonais a évolué parallèlement au « mainstream » au premier plan et au « underground » au revers. La lignée de Naked Larry's à Guitar Wolf se poursuit dans l'ère actuelle de l'IA, continuant d'élargir les possibilités du rock. Le rock japonais continuera de fournir « expérimentation et impulsion » à la scène musicale du monde.
 
 ---
 

@@ -36,7 +36,7 @@ Tresor(독일어로 '안전하다'라는 뜻)는 1991년 독일 베를린에서 
 버려진 건물, 사용하지 않는 공장, 지하 공간이 클럽으로 바뀌었습니다.
 
 서양과 동양의 문화가 융합되고, 자유의 상징인 댄스음악이 울려 퍼졌습니다.
-그 중 Tresor는 옛 백화점의 금고를 개조하여 오픈했습니다. 닫혀진 철문 뒤에서 들려오는 깊은 중저음은 새로운 시대의 시작을 상징했다.
+그 중 Tresor는 옛 백화점의 금고를 개조하여 오픈했습니다. 닫혀진 철문 너머로 들려오는 깊은 중저음은 새로운 시대의 시작을 상징했다.
 
 <hr>
 
@@ -47,7 +47,7 @@ Tresor(독일어로 '안전하다'라는 뜻)는 1991년 독일 베를린에서 
 [Juan Atkins](https://amzn.to/4pKH2gP), [Derrick May](https://amzn.to/4mz3EhL), [Kevin Saunderson](https://amzn.to/4nhZU5g)ら「Belleville Three」と呼ばれるデトロイトの創始者たち。
 
 [Jeff Mills](https://amzn.to/4mz3K97), [Blake Baxter](https://amzn.to/4gLRznV), [Underground Resistance](https://amzn.to/4gIEprP)などがベルリンで活動し、Tresorでプレイ。
-그 결과 미국에서 탄생한 미래 지향적이고 정치적인 테크노는 유럽의 클럽 문화와 연결되어 '글로벌 테크노 네트워크'의 기반을 마련하게 됐다.
+그 결과, 미국에서 탄생한 미래적이고 정치적인 테크노는 유럽의 클럽 문화와 연결되어 '글로벌 테크노 네트워크'의 기반을 마련하게 되었다.
 
 <hr>
 
@@ -76,7 +76,7 @@ Tresor(독일어로 '안전하다'라는 뜻)는 1991년 독일 베를린에서 
 
 **24시간 클럽문화**
 
-규제가 느슨했던 베를린에는 아침, 점심, 밤에도 계속해서 춤을 출 수 있는 공간이 만들어졌다. 그의 스타일은 아직도 전 세계가 부러워하는 대상이다.
+규제가 느슨했던 베를린에서는 아침, 점심, 밤에도 계속해서 춤을 출 수 있는 공간이 만들어졌다. 그의 스타일은 아직도 전 세계가 부러워하는 대상이다.
 
 **테크노 = 도시의 정체성**
 
@@ -94,9 +94,9 @@ Tresor(독일어로 '안전하다'라는 뜻)는 1991년 독일 베를린에서 
 
 <hr>
 
-### Tresor와 다른 클럽의 비교
+### 트레소르와 다른 클럽의 비교
 
-**베르겐**: 폐허 문화를 이어받은 2000년대 아이콘.
+**베르겐**: 폐허 문화를 계승한 2000년대 아이콘.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0buhM4bbAx4?si=GJQwz5IQiaf9wYeG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -128,7 +128,7 @@ Tresor(독일어로 '안전하다'라는 뜻)는 1991년 독일 베를린에서 
 
 <hr>
 
-### 트레저 체험 꼭 들어보세요 (추천선곡 10선)
+### Tresor 체험 꼭 들어보세요 (추천선곡 10선)
 
 - [Jeff Mills – Waveform Transmission Vol.1 (1992, Tresor)](https://amzn.to/4nKBG3w)
 
@@ -154,8 +154,8 @@ Tresor(독일어로 '안전하다'라는 뜻)는 1991년 독일 베를린에서 
 
 ### 테크노 음악을 '일시적 유행'에서 '보편적 문화'로 승격
 
-단순한 클럽이나 레이블이 아닌 Tresor는 베를린의 역사, 냉전 이후 도시 공간, 디트로이트 흑인 음악의 미래를 연결하는 '문화적 교차로'입니다.
-그 금고에서 흘러나오는 소리는 여전히 전 세계의 클럽 문화에 반향을 일으키며 테크노 음악을 '일시적 유행'에서 '보편적 문화'로 끌어올렸습니다.
+단순한 클럽이나 레이블이 아닌 Tresor는 베를린의 역사, 냉전 이후 도시 공간, 디트로이트 흑인 음악의 미래를 연결하는 문화적 교차로입니다.
+그 금고에서 흘러나오는 소리는 여전히 전 세계의 클럽 문화에 반향을 일으키며 테크노 음악을 '일시적인 유행'에서 '보편적인 문화'로 끌어올렸습니다.
 
 ---
 

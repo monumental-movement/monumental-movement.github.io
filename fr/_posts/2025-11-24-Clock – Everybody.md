@@ -11,13 +11,13 @@ tags:
 - Euro House
 - Eurodance
 - 90s
-title: Horloge – Tout le monde
+title: Clock – Everybody
 ---
 
 
-Un projet Europop/dance music formé à Manchester, en Angleterre, en 1993 par Stu Allan et Pete Pritchard. Le groupe a été actif jusqu'en 2000.
+1993年にイギリス・マンチェスターでStu AllanとPete Pritchardによって結成されたユーロポップ/ダンスミュージックプロジェクト。バンドは2000年まで活動した。
 
-"Everybody" est un morceau House/Euro House/Hardcore/Eurodance/Bouncy Techno sorti en 1995.
+「Everybody」は、1995年にリリースされたHouse／Euro House／Hardcore／Eurodance／Bouncy Technoトラック。
 
 #### Liste des chansons
 ```md

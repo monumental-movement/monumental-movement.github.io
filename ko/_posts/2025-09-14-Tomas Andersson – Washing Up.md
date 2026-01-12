@@ -19,7 +19,7 @@ Tomas Andersson은 스웨덴 출신의 일렉트로/테크노/신스웨이브 �
 
 A1은 북아일랜드 벨파스트 출신 DJ/프로듀서 Tim Deluxe의 리믹스입니다.
 
-B1은 몬트리올에 본사를 둔 캐나다 프로듀서/DJ Tiga의 리믹스입니다.
+B1은 몬트리올에 기반을 둔 캐나다 프로듀서/DJ Tiga의 리믹스입니다.
 
 B2는 David Parr와 James Day의 리믹스입니다.
 

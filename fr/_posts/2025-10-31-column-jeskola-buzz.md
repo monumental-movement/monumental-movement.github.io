@@ -76,7 +76,7 @@ Dans ce chapitre, nous analyserons en détail « ce qui était technologiquement
 
 ### 3.1 Les sources sonores et les effets peuvent être gérés dans des unités « machine »
 
-Buzz dispose d'une machine « Générateur » qui crée du son et d'une machine « Effet » qui traite le son, et les utilisateurs peuvent les organiser et les connecter sur la « Vue Machine ».
+Buzz dispose d'une machine « Générateur » qui produit du son et d'une machine « Effet » qui traite le son, et les utilisateurs peuvent les organiser et les connecter sur la « Vue Machine ».
 Par exemple, j'ai pu visualiser et construire un flux machine de génération de forme d'onde (Oscillateur)/machine d'échantillonnage (Sampler) → filtre → enveloppe/LFO → réverbération/délai → sortie.
 Cette configuration permet un « routage libre » rarement vu dans les trackers/séquenceurs conventionnels.
 
@@ -91,8 +91,8 @@ Une autre innovation de Buzz est l'existence d'un grand nombre de machines cré�
 Cela a conduit aux tendances suivantes :
 
 * Les développeurs individuels publient des sources/effets sonores, et vous pouvez profiter de nouveaux sons/traitements simplement en les téléchargeant et en les incorporant.
-* Les utilisateurs ont commencé à relever le défi de « jusqu'où ils pouvaient créer des circuits » et « jusqu'où ils pouvaient obtenir des sons expérimentaux ».
-* Il y a eu une augmentation du nombre de cas dans lesquels des personnes créant des œuvres expérimentales qui traversent les genres musicaux choisissent Buzz comme « outil ».
+* Les utilisateurs ont commencé à relever le défi de « jusqu'où ils pouvaient créer des circuits » et « jusqu'où ils pouvaient obtenir du son expérimental ».
+* Les personnes qui créent des œuvres expérimentales qui traversent les genres musicaux choisissent de plus en plus Buzz comme « outil ».
 
 ### 3.4 Léger, immédiat et supérieur en tant qu'environnement expérimental
 
@@ -108,7 +108,7 @@ Un autre aspect important de Buzz était qu'il était activement soutenu, partag
 ### 4.1 Partage de plug-ins gratuits et culture du marché des sources sonores
 
 Les utilisateurs de Buzz créaient des machines à sources sonores/machines à effets et les distribuaient gratuitement sur des forums et des sites Web. Par exemple, de nombreuses machines ont été publiées sur BuzzMachines.com et sur les forums demoscene.
-Cela a rendu courant le téléchargement de la machine de quelqu'un d'autre et l'insertion dans vos propres chansons. En d’autres termes, un cycle est né dans lequel « les utilisateurs créent des équipements (équipements logiciels) puis les partagent avec leurs amis et sur Internet ».
+Cela a rendu courant le téléchargement de la machine de quelqu'un d'autre et l'insertion dans vos propres chansons. En d'autres termes, un cycle est né dans lequel « les utilisateurs créent des équipements (équipements logiciels) puis les partagent avec des amis et sur Internet ».
 
 ### 4.2 Relation profonde avec la démoscène
 
@@ -118,7 +118,7 @@ Pour cette raison, le style de « création de vos propres sources sonores et cr
 ### 4.3 Création d'un forum/tutoriel en ligne
 
 Des informations sur l'utilisation de Buzz, des conseils de câblage de la machine, des exemples de traitement d'échantillons/de construction de chaînes d'effets, etc. ont été accumulées sur des forums, des blogs et YouTube. En conséquence, nous avons créé un environnement dans lequel même les débutants peuvent apprendre relativement facilement « ce que Buzz peut faire ».
-Cette culture de l'apprentissage a créé une tendance consistant à « apprendre à utiliser/modifier/partager » et a élevé Buzz du statut d'« outil » à celui de « plateforme ».
+Cette culture de l'apprentissage a créé une tendance à « apprendre à utiliser/modifier/partager » et a élevé Buzz du statut d'« outil » à celui de « plateforme ».
 
 ### 4.4 Utilisation dans tous les genres musicaux et création d'une sous-culture
 
@@ -178,7 +178,7 @@ Dans ce chapitre, nous résumerons la manière dont Buzz a influencé les genres
 Buzz est plus qu'un simple DAW pour la techno et la house, il a joué un rôle important dans les genres et applications suivants :
 
 * **Breakcore/IDM (Intellectual Dance Music)** : un genre qui utilise des rythmes complexes, un traitement des glitchs et des chaînes d'effets profondes, et les connexions modulaires et le format de suivi de Buzz étaient idéaux pour ce genre.
-* **Système Chiptune/8 bits** : En tant qu'environnement léger et hautement improvisé, Buzz est devenu un outil permettant d'essayer rapidement la configuration « échantillonneur + génération de forme d'onde + filtre ».
+* **Système Chiptune/8 bits** : En tant qu'environnement léger et hautement improvisé, Buzz est devenu un outil permettant d'essayer rapidement la configuration « échantillonneur + génération de forme d'onde + filtre ».
 * **Musique ambiante/expérimentale** : au-delà des signatures rythmiques et des structures fixes, la possibilité de patch de Buzz a été utilisée pour explorer les espaces acoustiques, les textures et la conception sonore.
 * **Performance/Improvisation Live** : Comme mentionné ci-dessus, il était également utilisé comme outil d'improvisation sur ordinateur portable et de sets live car il était léger et très réactif.
 
@@ -226,7 +226,7 @@ Cette structure de stagnation/reprise a également été influencée par des fac
 L'héritage de Buzz peut être globalement classé en trois éléments :
 
 - 1. **Diffusion de la pensée modulaire** : L'idée d'assembler des correctifs sur des logiciels est devenue populaire et l'image selon laquelle « créer du son = connecter des câbles » s'est imposée.
-- 2. **Culture des extensions/plugins utilisateur** : Une culture d'utilisateurs créant et partageant des équipements a pris racine et peut être considérée comme le prototype de la communauté VST/plugin d'aujourd'hui.
+- 2. **Culture d'expansion des utilisateurs/plugins** : Une culture d'utilisateurs créant et partageant des équipements a pris racine et peut être considérée comme le prototype de la communauté VST/plugin d'aujourd'hui.
 - 3. **Promotion des créateurs individuels/DIY music** : La production de musique électronique indie/underground a été revitalisée grâce à la disponibilité d'un environnement acoustique sophistiqué à bas prix ou gratuitement.
 
 Ce ne sont pas seulement des reliques des « outils rétro » du passé, mais ils influencent également l'environnement de production musicale actuel et même le contexte des équipements live/modulaires.

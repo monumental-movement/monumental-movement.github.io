@@ -9,17 +9,17 @@ permalink: /fr/steve-angello-voices/
 tags:
 - House
 - Electro
-title: Steve Angello – Voix
+title: Steve Angello – Voices
 ---
 
 
-Steve Angello est un DJ, producteur de disques et remixeur gréco-suédois.
+Steve Angello（スティーブアンジェロ）は、ギリシャ系スウェーデン人の DJ・レコードプロデューサー・リミキサー。
 
-Steve Angello est membre de la Swedish House Mafia, avec Axwell et Sebastian Ingrosso.
+Steve Angelloは、Axwell（アクスウェル）、Sebastian Ingrosso（セバスチャン・イングロッソ ）と共にSwedish House Mafia（スウェディッシュハウスマフィア）の一員である。
 
-Le premier morceau de la face A est un remix du DJ et producteur suédois Eric Prydz, qui travaille également sous le nom de Cirez D et Pryda.
+A面１曲目は、Cirez D、Pryda名義でも活動するスウェーデンのDJ・プロデューサーEric Prydz（エリック・プライズ）によるremix。
 
-La deuxième chanson de la face B est un remix de Laidback Luke, un DJ techno house néerlandais qui a remixé divers artistes tels que « Show Me Love » de Robin S, Denki Groove et Jark Prongo.
+B面２曲目はRobin S「Show Me Love」や電気グルーヴ、Jark Prongo（ジャーク・ブロンコ）など様々なアーティストのリミックスを手がけるダッチ・テクノハウスDJ、Laidback Luke（レイドバック・ルーク）によるremix。
 
 #### Liste des chansons
 ```md

@@ -9,11 +9,11 @@ permalink: /fr/johannes-heil-paranoid-dancer/
 tags:
 - Techno
 - Minimal Electro
-title: Johannes Heil – Danseur paranoïaque
+title: Johannes Heil – Paranoid Dancer
 ---
 
 
-Une version remasterisée du classique Paranoid Dance de Johannes Heil, sortie sur le label Kanzleramt de Heiko Laux.
+Heiko Laux（ヘイコ・ラウ）のレーベルKanzleramtからリリースされた、Johannes Heil（ヨハネス・ヘイル）の名作Paranoid Danceのリマスター盤。
 
 #### Liste des chansons
 ```md

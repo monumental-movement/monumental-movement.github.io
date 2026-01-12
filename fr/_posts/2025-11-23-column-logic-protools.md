@@ -143,7 +143,7 @@ Une répartition des rôles a été établie.
 
 ---
 
-## 4. Début des années 2000 : Deux acquisitions ont changé l'histoire du DAW
+## 4. Début des années 2000 : deux acquisitions ont changé l'histoire du DAW
 
 À ce stade, une « acquisition d’entreprise » qui a changé l’histoire de manière décisive s’est produite.
 
@@ -255,14 +255,14 @@ Au cours des dernières années, l’histoire des DAW a connu un autre changemen
 *Compatible Dolby Atmos
 * Présence croissante dans l'industrie audio des jeux
 
-### ■ MOTU : Entrez dans une nouvelle ère avec DP11
+### ■ MOTU : Entrez dans une nouvelle ère avec le DP11
 
 * Flux de travail amélioré de synchronisation composition-vidéo
 * Soutien continu des compositeurs instrumentaux et des auteurs d'accompagnements musicaux
 
 ### ■ Adobe : Augmentation de la demande en matière de distribution et de diffusion
 
-* Avantage d'intégration avec Premiere
+* Avantages de l'intégration avec Premiere
 * Fort à l'ère YouTube/Podcast
 
 ---
@@ -278,7 +278,7 @@ Les six sociétés qui soutiennent l’histoire de DAW ont une répartition clai
 | **Steinberg** | Standardisation (VST)/DAW complète | Base technologique qui a influencé tous les DAW |
 | **MOTU** | Synchronisation vidéo/composition d'accompagnement | Norme de musique de film |
 | **Adobe** | Diffusion, montage et distribution | Pour la production vidéo avec intégration Premiere |
-| **émagique / Digidesign** | Origines avant acquisition | Utilisation exclusive/formation de la base du son du film sur Mac |
+| **émagique / Digidesign** | Origines avant acquisition | Utilisation exclusive de Mac/formation de la base du son du film |
 
 ---
 

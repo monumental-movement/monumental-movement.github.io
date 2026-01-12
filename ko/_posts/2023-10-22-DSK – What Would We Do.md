@@ -9,7 +9,7 @@ permalink: /ko/dsk-what-would-we-do/
 tags:
 - House
 - 90s
-title: DSK - 우리는 무엇을 할 것인가
+title: DSK – 우리는 무엇을 할 것인가
 ---
 
 

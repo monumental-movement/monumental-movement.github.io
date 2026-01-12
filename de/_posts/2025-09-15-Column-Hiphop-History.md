@@ -184,7 +184,7 @@ Unautorisierte Probe in „Übertragung von Livedaten vom Mars“. Seitdem war D
 
 - Mixtapes von **DJ Clue, DJ Drama, DJ Screw** und anderen schlugen in den 90er Jahren und darüber hinaus eine Brücke vom Underground zum Mainstream.
 - **Southern (Houston, ATL)** „Screw Tape“ und „Gangsta Grillz“ prägten die Szene und ermöglichten es, Künstler unabhängig von Labels zu entdecken.
-- In den 2000er Jahren wurde Mixtape zu „SoundCloud“ und „DatPiff“ und entwickelte sich zu einem Werbemittel im Internetzeitalter.
+- In den 2000er Jahren wechselte Mixtape zu „SoundCloud“ und „DatPiff“ und entwickelte sich zu einem Werbemittel im Internetzeitalter.
 
 ---
 
@@ -432,7 +432,7 @@ Bass : ▂▄▇█▇█▇█▄▂
 </tr>
 </table>
 
-**Ergänzende Überlegungen**
+**Zusätzliche Überlegungen**
 
 Genealogiediagramme ermöglichen es Schülern, „Meister-Schüler-Beziehungen“ und „Einflussbeziehungen“ intuitiv zu verstehen.
 

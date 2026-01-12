@@ -115,7 +115,7 @@ Diese Charaktere sind in die Musik, die Kostüme, die Regie, die Liner und das A
 
 ## Kapitel 4: Ein tiefer Einblick in die Musiktechnik – Warum ist der Sound von P-Funk so „kosmisch“?
 
-Die Charakteristika von P-Funk liegen nicht nur in der Stärke seines Grooves, sondern auch in seiner „strukturellen Kontrolle“.
+Was P-Funk einzigartig macht, ist nicht nur die Stärke seines Grooves, sondern auch seine „strukturelle Kontrolle“.
 
 ### ■ 1. „Rubbery Bass“ von Bootsy Collins
 
@@ -130,7 +130,7 @@ Das Trommeln von Jerome „Bigfoot“ Braley und anderen weist die folgenden Mer
 
 * Minimale Bassdrum
 * Snare ist tief und zurück
-*Hi-Hat hat ein bisschen Shuffle
+*Hi-Hat hat ein wenig Shuffle
 
 Dadurch fühlt es sich an, als würde sich der Beat vorwärts bewegen, während er schwebt.
 
@@ -215,7 +215,7 @@ Insbesondere die folgenden Künstler haben ausgiebig gesampelt.
 ### ■ (3) Verbreitung in Mode, Kunst und politischem Denken
 
 * Buntes Haar, Raumanzug, riesige Stiefel
-*Antidiskriminierungsbotschaft durch Weltraummythologie
+* Antidiskriminierungsbotschaft durch Weltraummythologie
 *George Clinton bot eine „Funk-Philosophie der Befreiung“ an
 
 ---
@@ -266,7 +266,7 @@ timeline
 ## Fazit: P-Funk ist ein „riesiges Archiv schwarzer Futures“
 
 George Clinton ist mehr als nur ein Funk-Leader.
-Er war ein „Kulturdesigner“, der **Musik, den Körper, das Universum, Mythologie und Gesellschaftskritik** zusammenbrachte.
+Er war ein „Kulturarchitekt“, der **Musik, den Körper, das Universum, Mythologie und Gesellschaftskritik** zusammenbrachte.
 
 Die Weltanschauung von P-Funk ist bis heute lebendig und bildet die Grundlage für aktuellen Hip-Hop, R&B, Elektrokunst und Mode.
 Solange P-Funk im Zentrum der schwarzen Musik bleibt, die von der Zukunft spricht, wird ihr Raumschiff „Mothership“ niemals landen.
@@ -279,7 +279,7 @@ Solange P-Funk im Zentrum der schwarzen Musik bleibt, die von der Zukunft sprich
 * Funkadelic „Cosmic Slop“
 *Parlament 『Mutterschaftsverbindung』
 * Parlament „Funkentelechie vs. das Placebo-Syndrom“
-* Bootsy’s Rubber Band „Ausstrecken in Bootsy’s Rubber Band“
+* Bootsy’s Rubber Band „Stretchin’ Out in Bootsy’s Rubber Band“
 
 ---
 

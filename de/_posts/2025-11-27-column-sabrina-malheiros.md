@@ -23,10 +23,10 @@ title: '[Kolumne] Sabrina Malheiros: Die Brillanz des modernen brasilianischen S
 Text: mmr｜Thema: Wie sich die brasilianische Musik seit dem 21. Jahrhundert weiterentwickelt und neu verbunden hat, im Mittelpunkt steht die Musikgeschichte von Sabrina Mallheiros, ihre Beziehung zu Azimuth, die Entwicklung ihrer Arbeit und die Symbolik von „Clareia“.
 
 
-Während die brasilianische Musik weltweit immer wieder neu bewertet wird, ist Sabrina Mallheiros die Person, die die Sensibilitäten von Samba Soul, Funk, Bossa Nova und Neo-Soul flexibel kombiniert. Als Nachkomme von Azimuth, angeführt von Aza Mallheiros, wurden sie von Musikgemeinschaften in London, Japan und Europa begeistert unterstützt.
+Während die brasilianische Musik weltweit immer wieder neu bewertet wird, ist Sabrina Mallheiros die Person, die die Sensibilitäten von Samba Soul, Funk, Bossa Nova und Neo-Soul flexibel kombiniert. Als Nachkomme von Azimuth unter der Leitung von Aza Mallheiros wurden sie von Musikgemeinschaften in London, Japan und Europa begeistert unterstützt.
 
-Insbesondere ihr Album **Clareia** aus dem Jahr 2017 war der Moment, in dem ihre musikalische Welt am deutlichsten aufblühte.
-Sein Titeltrack „Clareia“** fand später neues Leben in der Underground-Dance-Community und brachte Remixe von Schlüsselfiguren des britischen Jazz/Broken Beat hervor, darunter **Henry Wu (Kamaal Williams)**, **2000 Black (Dego & Kaidi)** und **IG Culture**.
+Insbesondere ihr Album **Clareia** aus dem Jahr 2017 war der Moment, in dem ihre musikalische Welt am deutlichsten erblühte.
+Sein Titelsong „Clareia“** fand später neues Leben in der Underground-Dance-Community und brachte Remixe von Schlüsselfiguren des britischen Jazz/Broken Beat hervor, darunter **Henry Wu (Kamaal Williams)**, **2000 Black (Dego & Kaidi)** und **IG Culture**.
 
 
 ---
@@ -50,7 +50,7 @@ color: #fff;
 Sabrina Mallheiros kommt aus Rio de Janeiro.
 Sein Vater ist **Alex Malheiros**, der Bassist von Azimuth (später auch bekannt als Azymuth). Azimuths Musik, mit der sie seit ihrer Kindheit vertraut ist, bewegt sich frei zwischen Funk, Jazz, Samba und Fusion.
 
-Azimuth ist seit den 1970er Jahren weltweit beliebt und wurde von einer Vielzahl von Künstlern aus den Bereichen Club Jazz, Future Jazz, House und Hip-Hop gesampelt. Das „schwebende Gefühl“, der „sanfte Groove“ und das „kosmische Akkordgefühl“ der Live-Performance sind stark von Sabrinas Werken übernommen.
+Azimuth ist seit den 1970er Jahren weltweit beliebt und wurde von einer Vielzahl von Künstlern aus den Bereichen Club Jazz, Future Jazz, House und Hip-Hop gesampelt. Das „schwebende Gefühl“, der „sanfte Groove“ und das „kosmische Akkordgefühl“ von Live-Auftritten sind stark in Sabrinas Werken vererbt.
 
 Allerdings ist Sabrinas Musik keine direkte Nachahmung ihres Vaters, sondern hat ein starkes Gespür für „Eleganz als Sängerin“ und „urbanen Soul“. Während sie die rhythmische Geschmeidigkeit von Azimuth als ihre DNA übernommen haben, haben sie sie in eine lyrischere und weichere Textur umgewandelt.
 
@@ -82,7 +82,7 @@ Es gibt Momente sanften Jazz-Funks, die einem ein direktes Gefühl von Azimuths 
 
 Dieses Lied, das man als Symbol des Albums bezeichnen kann, kombiniert Sabrinas sanfte Singstimme, dynamische Percussion und fließende Linien des Keyboards zu einer klaren Lichttextur.
 
-„Clareia“ erregte vom Zeitpunkt seiner Veröffentlichung an Aufmerksamkeit in der europäischen Jazz-/Clubwelt und führte zu einem späteren Remix-Projekt.
+„Clareia“ erregte vom Zeitpunkt seiner Veröffentlichung an Aufmerksamkeit in europäischen Jazz-/Clubkreisen, was zu späteren Remix-Projekten führte.
 
 ---
 
@@ -90,7 +90,7 @@ Dieses Lied, das man als Symbol des Albums bezeichnen kann, kombiniert Sabrinas 
 
 ### – Brücke mit Großbritannien, geschaffen von Henry Wu, 2000 Black, IG Culture –**
 
-Die Begeisterung, die Sabrinas Musik in der britischen Szene hervorrief, kann als Symbol für die „neue Neubewertung der Brasilianer“ Ende der 2010er Jahre bezeichnet werden.
+Die begeisterte Aufmerksamkeit, die Sabrinas Musik in der britischen Szene erhielt, kann als Symbol der „neuen brasilianischen Neubewertung“ Ende der 2010er Jahre bezeichnet werden.
 Besonders wichtig ist der Remix von „Clareia“ durch die folgenden drei Gruppen, die die Jazz/Broken-Beat-Bewegung in London begründeten.
 
 ---
@@ -149,13 +149,13 @@ Es ist leicht zu erkennen, warum Sabrinas Lieder bei britischen Künstlern so gr
 
 Sabrinas Musik hatte von Natur aus Elemente, die sich auf natürliche Weise in die beiden Kontexte der Londoner Jazzbewegung und des Broken Beat einfügen.
 
-Infolgedessen wurde die Remix-Gruppe für „Clareia“ weltweit als neue Brücke zwischen „Brazil x UK“ gefeiert.
+Aus diesem Grund wurde die Remix-Gruppe „Clareia“ weltweit als neue Brücke zwischen „Brazil x UK“ gefeiert.
 
 ---
 
 ## **6. Merkmale des Musikstils**
 
-Die Lieder von Sabrina Mallheiros weisen durchweg folgende Merkmale auf:
+Die Lieder von Sabrina Malleiros weisen durchweg folgende Merkmale auf:
 
 ### ● **Sanfter Gesang und urbane Eleganz**
 

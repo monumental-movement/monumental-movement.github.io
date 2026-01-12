@@ -17,14 +17,14 @@ title: '[Kolumne] Wu-Tang-Clan und japanische Anime-Kultur: Resonanz zwischen or
 
 ## Prolog: Von Brooklyn nach Edo – Der Kulturapparat des Wu-Tang-Clans
 
-Text: mmr｜Thema: Hip-Hop und japanischer Anime – Erkundung der Schnittstelle zwischen „orientalischem Denken“ und „Straßengeist“ des Wu-Tang-Clans
+Text: mmr｜Thema: Hip-Hop und japanischer Anime – Erkundung der Schnittstelle zwischen „orientalischem Denken“ und „Straßengeist“, demonstriert durch den Wu-Tang-Clan
 
 1993, Staten Island, New York, USA.
 Daraus entstand eine Gruppe namens „Xiaolin“, die die Geschichte des Hip-Hop schockierte.
 **Wu-Tang Clan** – Die Kette kämpferischer und philosophischer Worte, die von neun MCs gewebt wurde, war eine seltsame Kunstform, die Straßengewalt mit buddhistischer Ruhe verband.
 
 Im Kern ihrer Weltanschauung existierten **Kung-Fu-Filme, orientalische Philosophie und „Anime-Fantasie“** nebeneinander.
-Für die schwarze amerikanische Jugend der 1990er Jahre war die asiatische Kultur eine „exotische spirituelle Waffe“ und ein Mittel, um der sozialen Unterdrückung zu entkommen.
+Für die schwarze amerikanische Jugend der 1990er Jahre war die asiatische Kultur sowohl eine „exotische spirituelle Waffe“ als auch ein Mittel, um der sozialen Unterdrückung zu entkommen.
 Der Wu-Tang-Clan probierte Bruce Lee, Sun Tzu und Lao Tzu aus und lehnte sich später stark an die Ästhetik japanischer Animes an.
 
 ---
@@ -93,7 +93,7 @@ Gleichzeitig wurde es zum Pionier der „Fusion mit Hip-Hop“ für die japanisc
 
 ---
 
-## Kapitel 4: Ein neuer Horizont für Hip-Hop, eröffnet durch eine animeartige Weltanschauung
+## Kapitel 4: Ein neuer Horizont für Hip-Hop, eröffnet durch eine Anime-Weltanschauung
 
 Nach dem Wu-Tang-Clan erlangte Hip-Hop die „Sprache, um über Anime zu sprechen“.
 Tyler, The Creator bezieht sich auf „Akira“ und „Neon Genesis Evangelion“,
@@ -113,10 +113,10 @@ Mit anderen Worten: Die „asiatische Ausrichtung“ des Wu-Tang-Clans ist nicht
 In Japan breitete sich der Einfluss des Wu-Tang-Clans langsam aus.
 Künstler wie DJ Krush, Nujabes und Shing02.
 Es betonte den „Zen“-Aspekt des Hip-Hop und spiegelte die spirituelle Welt von RZA wider.
-Insbesondere Nujabes‘ Musik verbindet Sampling und die Ästhetik von ma.
+Insbesondere Nujabes‘ Musik verbindet Sampling und die Ästhetik von Ma.
 Er war spirituell mit dem Wu-Tang-Clan verbunden, dem „Samurai des Klangs“.
 
-In den 2020er Jahren tauchen auch in japanischen Anime-Werken deutliche Bezüge auf.
+In den 2020er Jahren tauchen deutliche Bezüge in japanischen Anime-Werken auf.
 Der Einfluss von Lo-Fi-Hip-Hop ist in der Hintergrundmusik von „Jujutsu Kaisen“ zu erkennen.
 Am Ende von „Chainsaw Man“ werden mehrere Hip-Hop-Künstler mitwirken.
 Hier verbindet sich Anime erneut mit der Sprache der „Straße“.

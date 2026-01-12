@@ -28,7 +28,7 @@ Veröffentlichung: 24. Single, veröffentlicht im Jahr 1984. Ein Lied von Elvis 
 Die Band wurde Ende 1977 in London gegründet und hinterließ mit ihrer vielfältigen Musikalität große Spuren in der Rockwelt. Außerdem wurde er 2003 in die Rock and Roll Hall of Fame aufgenommen.
 
 Empfohlene Punkte
-Eine perfekte Mischung aus kantiger New-Wave-Gitarre und Rhythmus und raffiniertem Pop-Feeling. Dies ist ein wichtiger Song, der die Energie der britischen Rock-/New-Wave-Szene der 80er Jahre spüren lässt.
+Eine perfekte Mischung aus kantiger New-Wave-Gitarre und -Rhythmus und raffiniertem Pop-Feeling. Dies ist ein wichtiger Song, der die Energie der britischen Rock-/New-Wave-Szene der 80er Jahre spüren lässt.
 
 #### Trackliste
 ```md
@@ -234,7 +234,7 @@ B3. Stephen
 ### Die Entrückung – In der Gnade Deiner Liebe
 <a href="https://jp.mercari.com/item/m73702880151?afid=6142608987"><img src="../assets/images/The%20Rapture%20%E2%80%93%20In%20The%20Grace%20Of%20Your%20Love.webp"></a>
 
-Veröffentlichung: Veröffentlicht am 18. Dezember 2024. Das dritte Album (veröffentlicht 2011) einer Post-Punk/Dance Punk/New Wave-Band aus New York.
+Veröffentlichung: Veröffentlicht am 18. Dezember 2024. Das dritte Album (veröffentlicht 2011) einer Post-Punk/Dance-Punk/New-Wave-Band aus New York.
 m.m.r
 Empfohlene Punkte: Ihr Ansatz ist eine mutige Mischung aus Post-Punk, Elektro, Disco usw. Auch in den letzten Jahren als tanzende neue Welle mit Revival-Feeling empfohlen.
 

@@ -63,7 +63,7 @@ In dieser Zeit, so Tatsuro, habe er bereits die Idee gefestigt, dass „Aufnahme
 - Live-Aufnahme von Hörnern/Streichern
 - Analogspezifischer **dicker Mittel-Tief-Bereich**
 
-Hier wurde bereits mit auf analoge Eigenschaften optimierten Arrangements und Aufnahmen begonnen.
+Mit den für analoge Eigenschaften optimierten Arrangements und Aufnahmen wurde bereits begonnen.
 
 ---
 
@@ -97,7 +97,7 @@ Im Mittelpunkt stand dabei das **CBS Sony Shinanomachi Studio**.
 Der Sound aus dieser Zeit wird oft als „Idealform des City-Pop“ bezeichnet.
 
 ## ■ Aufnahmeästhetik von „FOR YOU“ (1982)
-Ein Werk, das als eines der Spitzenwerke von Tatsuro gilt.
+Dieses Werk gilt als eines der Spitzenwerke von Tatsuro.
 Akustische Eigenschaften:
 
 1. **Höchste Klarheit bei analogen Aufnahmen**
@@ -105,7 +105,7 @@ Akustische Eigenschaften:
 3. Perfekte Chordichte und Lokalisierung
 4. Die Höhenseite ist abgerundet und fühlt sich an wie ein analoges Ohr.
 
-Ein seltenes Werk, das vollständig analog ist und dennoch eine moderne Auflösung aufweist.
+Ein seltenes Werk, das völlig analog ist, aber eine moderne Auflösung hat.
 
 ---
 
@@ -155,7 +155,7 @@ Tatsuro sagt: „Selbst bei der digitalen Aufnahme kann man ein Temperaturgefüh
 # 6. 2000er Jahre: Die Reife der digitalen Produktion und die Etablierung von „analog digital“
 
 ## ■ Aufnahmephilosophie der 2000er Jahre
-- Die Produktionsumgebung ist vollständig digitalisiert
+- Die Produktionsumgebung ist vollständig digital
 - Konzentrieren Sie sich jedoch während der Aufnahmephase auf die Mikrofonauswahl und den Raumklang.
 - „Entwerfen Sie analoge Texturen, auch wenn sie digital sind“
 
@@ -186,7 +186,7 @@ Heutzutage steigt die Nachfrage nach analogen Schallplatten wieder.
 Tatsuro behält im digitalen Zeitalter die folgende Haltung bei:
 
 - Die Aufnahme erfolgt hauptsächlich digital
-- Der Schwerpunkt liegt jedoch auf der Veröffentlichung analoger Discs.
+- Aber konzentrieren Sie sich auf die analoge Veröffentlichung
 - Der Mix behält ein analoges Gefühl
 - Vermeiden Sie übermäßigen Schalldruck
 - Behält die Rundheit des Hochtonbereichs und die Dicke des Mitteltonbereichs bei
@@ -217,7 +217,7 @@ timeline
 ### – Unterschiede in der Akustik basierend auf Tatsuros Werken
 
 | Artikel | Analoge Zeit (~1980er Jahre) | Digitale Periode (1990er-Jahre) |
-|------|-------------|-------------------------|
+|------|-------------|--------------------------|
 | Aufnahmemedien | Klebeband (2 Zoll) | PCM/ProTools |
 | Klangeindruck | Warm, dick, rund | Klar, scharf |
 | Chor | Je mehr Sie schichten, desto mehr fügt es sich zusammen | Es neigt dazu, steif zu werden, wenn es geschichtet wird |

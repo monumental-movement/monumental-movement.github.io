@@ -9,13 +9,13 @@ permalink: /fr/outlines-feat-rza-now-that-im-free-this-world/
 tags:
 - Hiphop
 - Wu-Tang
-title: Aperçus Feat. RZA –Maintenant que je suis libre / Ce monde
+title: Outlines Feat. RZA –Now That I'm Free / This World
 ---
 
 
-"Maintenant que je suis libre" est une chanson du trio français Outlines et RZA (Wu-Tang Clan). En plus du rythme groovy et de la mélodie attrayante, cette chanson présente la performance vocale d'Outlines et de RZA avec un message positif sur la libération et la liberté.
+「Now That I'm Free」は、フレンチ・トリオOutlinesとRZA(Wu-Tang Clan)による楽曲です。この曲は、グルーヴィなリズムや魅力的なメロディに加えて、OutlinesとRZAの解放感や自由をテーマにしたポジティブなメッセージ性のあるボーカルパフォーマンスが特徴です。
 
-"This World" est également une chanson de collaboration entre Outlines et RZA, et cette chanson envoie un message sur l'état actuel du monde et les problèmes sociaux. Cette chanson combine un son mélodieux et des paroles puissantes.
+「This World」は、同じくOutlinesとRZAのコラボレーション曲であり、この曲は世界の現状や社会的な問題に対してメッセージを発信しています。メロディアスなサウンドとリリックの力強さが組み合わさった一曲です。
 
 #### Liste des chansons
 ```md

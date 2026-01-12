@@ -137,7 +137,7 @@ flowchart TB
 
 ---
 
-## 4. Nach 2010: Internationalisierung und Genrefusion
+## 4. 2010er Jahre und darüber hinaus: Internationalisierung und Genrefusion
 
 - Zunehmende Fusion mit Trap, Grime und Afrobeat
 – Aufstieg einer neuen Generation von Rappern durch SNS und YouTube
@@ -146,7 +146,7 @@ flowchart TB
 ### 4-1. Beispiele für Wrapper der neuen Generation
 
 - **PNL (Peace N’ Loves)**
-- Selbstproduzierte Beats, Autotune, Ausdruck der urbanen Kultur
+- Selbstproduzierter Beat, Autotune, Ausdruck der urbanen Kultur
 - **Verdammt**
 – Aus Belgien, Mischung aus sozialen Themen und Liebesliedern
 - **Niska**

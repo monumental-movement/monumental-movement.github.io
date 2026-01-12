@@ -22,7 +22,7 @@ Tout au long de l'album, Brown montre son talent pour fusionner différents genr
 
 Les paroles de "Hustle !!! (Dead On It)" explorent les thèmes du travail acharné, de la persévérance et de la quête du succès.
 
-Les chansons et performances dynamiques et rythmées de James Brown créent une atmosphère globalement positive.
+Les chansons et les performances dynamiques et rythmées de James Brown créent une atmosphère globalement positive.
 
 La chanson est connue non seulement pour sa musicalité mais aussi pour son message de motivation, ce qui en fait l'une des préférées des amateurs de funk et de soul parmi ses fans.
 

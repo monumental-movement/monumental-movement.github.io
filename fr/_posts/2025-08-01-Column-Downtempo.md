@@ -24,12 +24,12 @@ Texte : mmr｜Thème : Chill-out et esthétique du rythme profond
 <hr>
 
 ### Qu'est-ce que le downtempo ?
-Le "Downtempo", comme son nom l'indique, est un type de musique électronique au tempo lent. Généralement, le BPM (tempo) se situe autour de 60 à 110, et il se caractérise par des rythmes et des sons relaxants destinés à l'écoute et à la détente, plutôt que par des rythmes intenses pour les clubs.
+"Downtempo", comme son nom l'indique, est un type de musique électronique au tempo lent. Généralement, le BPM (tempo) se situe autour de 60 à 110, et il se caractérise par des rythmes et des sons relaxants destinés à l'écoute et à la détente, plutôt que par des rythmes intenses pour les clubs.
 
 Entre les battements de cœur palpitants et l’agitation, un soudain silence apparaît. Si c'est de la musique, le downtempo est ce moment de respiration profonde. Dans le monde de la culture club et de la musique électronique, c'est un genre musical qui se situe à l'opposé des rythmes rapides de la techno et de la house, mais qui est proche des émotions de l'auditeur et se fond dans la nuit de la ville. C'est du downtempo.
 
-Le downtempo est créé à l'intersection de plusieurs genres, notamment la sensation flottante de l'ambient, le groove du hip-hop et les éléments organiques du jazz et de la soul.
-Bien qu'il recoupe souvent des styles tels que la musique chillout, le trip hop et la musique lounge, il est également utilisé comme terme général pour désigner un groove doux qui englobe ces styles.
+Le downtempo est créé à l'intersection de plusieurs genres, notamment la sensation flottante de l'ambient, les grooves du hip-hop et les éléments organiques du jazz et de la soul.
+Bien qu'il recoupe souvent des styles tels que le chillout, le trip hop et la musique lounge, il est également utilisé comme terme général pour désigner un groove doux qui englobe ces styles.
 
 
 <hr>
@@ -57,7 +57,7 @@ La structure des chansons downtempo varie, mais le dénominateur commun est un r
 
 - Beats Loopy (breakbeats et batterie dérivée du hip-hop)
 
-- ligne de basse profonde et chaude
+- ligne de basse chaude et profonde
 
 - Pads et échantillons traités par effets
 
@@ -94,7 +94,7 @@ Downtempo a connu diverses évolutions grâce à sa fusion avec la culture local
 ### Modernité et réévaluation : les dirigeants silencieux de l'ère Spotify
 À l'ère du streaming des années 2020, le downtempo est réévalué comme une « playlist relaxante » et une « musique de fond pour le travail ». En particulier, le style downtempo moderne connu sous le nom de post-trip hop a trouvé sa place dans la musique de film, la musique de jeu et même dans l'industrie de la mode.
 
-**Bien qu'il retient à nouveau l'attention dans le contexte du « chill », de la « relaxation » et de la « concentration »**, il existe de nombreuses listes de lecture sur Spotify et YouTube appelées «Lo-Fi», «Chillhop» et «Study Beats», qui sont familières aux auditeurs sous le nom de downtempo au sens large.
+**Bien qu'il retient à nouveau l'attention dans le contexte du « chill », de la « relaxation » et de la « concentration »**, il existe de nombreuses listes de lecture sur Spotify et YouTube appelées « Lo-Fi », « Chillhop » et « Study Beats », qui sont familières aux auditeurs sous le nom de downtempo au sens large.
 
 De plus, les frontières entre la musique environnementale et la musique ambiante sont devenues floues, et la musique continue d'évoluer vers une musique plus étroitement adaptée à l'état psychologique et à la scène de vie d'un individu.
 

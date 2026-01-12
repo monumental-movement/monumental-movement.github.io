@@ -17,7 +17,7 @@ title: '[Chronique] L''analyse approfondie de la techno par Len Faki : De Berlin
 
 ## Introduction
 
-Texte : mmr｜Thème : De la carrière et du parcours de Len Faki, analyse de la structure, du rythme et des caractéristiques acoustiques de ses chansons représentatives, de l'axe temporel des DJ sets, des techniques de production/mixage et de l'influence sur la scène
+Texte : mmr｜Thème : De la carrière et du parcours de Len Faki, analyse de la structure, du rythme et des caractéristiques acoustiques de ses chansons représentatives, l'axe temporel des DJ sets, les techniques de production/mixage et l'influence sur la scène
 
 Len Faki est une figure emblématique à l’avant-garde de la techno moderne, un DJ et producteur profondément connecté au cœur de la culture club berlinoise.
 Son travail et ses DJ sets offrent une expérience qui va bien au-delà de la simple musique, créant une structure unique d'espace et de temps sur les sols des clubs et des festivals.
@@ -68,7 +68,7 @@ Nous prenons les morceaux emblématiques de Len Faki et les analysons en détail
 
 #### informations de base
 -BPM : 125
-- Tonalité : Sol Majeur
+- Tonalité : Sol majeur
 - Sortie : Berghain 03 mix CD inclus, 2009
 
 #### Structure et rythme de la chanson
@@ -90,7 +90,7 @@ Il est souvent utilisé du milieu au sommet d’un set et constitue la piste pri
 
 #### informations de base
 -BPM : 129
-- Tonalité : Sol Majeur
+- Tonalité : Sol majeur
 - Durée : Environ 8 minutes 15 secondes
 
 #### Structure et rythme de la chanson
@@ -139,7 +139,7 @@ Il sert à maintenir la rainure en milieu de set ou à faire une pause en milieu
 
 #### Structure et rythme de la chanson
 Il a un fort élément mélodique, avec des pads et des synthés fusionnant progressivement avec le rythme de l'intro.
-Après le drop, la mélodie et le rythme se développent en couches, et le break s'installe pendant un moment, créant un pont vers la construction suivante.
+Après le drop, la mélodie et le rythme se développent en plusieurs couches, et le break se calme pendant un moment, créant un pont vers la construction suivante.
 
 #### Caractéristiques acoustiques (estimées)
 - Low : Stabilise le sol avec des kicks et des basses

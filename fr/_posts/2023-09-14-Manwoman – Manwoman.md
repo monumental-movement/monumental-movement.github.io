@@ -10,11 +10,11 @@ tags:
 - Punk
 - Japanese Punk
 - 10inch
-title: Homme-femme – Homme-femme
+title: Manwoman – Manwoman
 ---
 
 
-Il s'agit du premier single du groupe hardcore/punk japonais Man Woman, sorti en 1995.
+95年にリリースされた日本のハードコア / パンクバンド「マンウーマン」のファーストシングルです。
 
 #### Liste des chansons
 ```md

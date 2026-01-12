@@ -19,9 +19,9 @@ title: '[Kolumne] Teo Macero und Miles Davis —— Der Moment, in dem die Bearb
 ## Prolog: „Ein anderes Instrument“ namens Aufnahmeraum
 
 
-Text: mmr｜Thema: „Musikalische Revolution durch Bearbeitung“, erstellt von Miles Davis und Theo Macero – Auf der Suche nach neuen Horizonten in der Aufnahmekunst durch die Magie des Bandspleißens und der Komposition.
+Text: mmr | Thema: „Musikalische Revolution durch Bearbeitung“, zusammengestellt von Miles Davis und Teo Macero – Erforschung neuer Horizonte in der Aufnahmekunst durch die Magie des Bandspleißens und der Komposition.
 
-Ende der 1960er Jahre war die Musik von Miles Davis nicht mehr eine Erweiterung seiner Live-Auftritte, sondern verwandelte sich in eine „Klangarchitektur“, die durch Aufnahme und Bearbeitung konstruiert wurde. Hinter der Änderung steht Produzent und Herausgeber **Teo Macero**.
+Ende der 1960er Jahre war die Musik von Miles Davis nicht mehr eine Erweiterung seiner Live-Auftritte, sondern verwandelte sich in eine durch Aufnahme und Bearbeitung konstruierte „Klangarchitektur“. Hinter der Änderung steht Produzent und Herausgeber **Teo Macero**.
 
 Masero war nicht nur eine Person „hinter den Kulissen“. Unter seinen Händen wurde eine große Anzahl von Sitzungskassetten ausgeschnitten, zusammengefügt und wieder zusammengesetzt, was zu einem Gesamtwerk führte, das man als „Komposition durch Bearbeitung“ bezeichnen könnte.
 „In a Silent Way“ (1969) und „Bitches Brew“ (1970) sind Paradebeispiele. Es gibt eine **Revolution in der Bearbeitungsästhetik**, die über die Grenzen zwischen „Aufführung“ und „Komposition“ hinausgeht.
@@ -44,13 +44,13 @@ color: #fff;
 
 ## Kapitel 1: Die Geburt eines Herausgebers namens Teo Macero
 
-Theo Macero wurde 1925 in Glens Falls, New York geboren. Er begann seine Karriere als Jazz-Saxophonist und studierte später Komposition an der Columbia University, wo er mit avantgardistischer zeitgenössischer Musik vertraut wurde.
+Teo Macero wurde 1925 in Glens Falls, New York geboren. Er begann seine Karriere als Jazz-Saxophonist und studierte später Komposition an der Columbia University, wo er mit avantgardistischer zeitgenössischer Musik vertraut wurde.
 Wie Stockhausen und Varèse entwickelte Macero schon früh ein Bewusstsein dafür, Klang als Material zu behandeln.
 
 In den späten 1950er Jahren wurde er Mitarbeiterproduzent bei Columbia Records und arbeitete mit Künstlern wie Miles Davis und Dave Brubeck zusammen.
 Was ihn jedoch von anderen Produzenten unterschied, war, dass er den Schnitt selbst als einen Ort der Schöpfung verstand.
 
-> „Auch nach dem Ende der Aufführung endet die Musik nicht. Im Schnittraum beginnt sie von vorne.“
+> „Auch nach dem Ende der Aufführung hört die Musik nicht auf. Im Schnittraum beginnt sie von vorne.“
 > — Teo Macero
 
 ---
@@ -83,13 +83,13 @@ flowchart LR
 
 ## Kapitel 3: „Bitches Brew“ – Der Operationstisch, der Ordnung aus dem Chaos schafft
 
-Mit „Bitches Brew“ aus den 1970er Jahren explodierten Maceros Bearbeitungstechniken noch weiter.
+Mit Bitches Brew aus den 1970er Jahren explodierten Maceros Bearbeitungstechniken noch mehr.
 Mehr als sechs Tonbandgeräte liefen gleichzeitig, sodass das Studio wie ein Labor wirkte.
 
-Keiner der Interpreten hat ein gemeinsames Thema, wodurch eine Flut fragmentierter Improvisationen entsteht.
+Nicht jeder Interpret hat ein gemeinsames Thema, was zu einer **Flut fragmentierter Improvisation** führt.
 Macero fügte diese Fragmente zu Einheiten von mehreren Metern zusammen und gestaltete durch Bearbeitung den rhythmischen Fluss und den akustischen „Ort“.
 
-> „Ich habe die Klänge zerhackt und rekonstruiert. Es war derselbe Akt wie Komponieren.“
+> „Ich habe Geräusche zerhackt und rekonstruiert. Es war derselbe Akt wie Komponieren.“
 > — Teo Macero
 
 Seine Methode ähnelte der Musique Concrète, war aber auch mit der freien Improvisation des Jazz verbunden.
@@ -118,7 +118,7 @@ graph TD
 ## Kapitel 4: Die Idee der Bearbeitung = Komposition
 
 Der größte Beitrag von Teo Macero bestand darin, die Aufnahmetechnologie von einem Hilfswerkzeug zu einem kreativen Medium zu machen.
-Dies war der Vorläufer des Paradigmas „Bearbeiten = Komponieren“.
+Es war der Vorläufer des Paradigmas „Bearbeiten = Komponieren“.
 
 - Strukturumwandlung durch physikalisches Schneiden (Bandspleiß)
 
@@ -148,7 +148,7 @@ In den späten 1970er Jahren verließ Macero Columbia, doch sein Einfluss breite
 Insbesondere in den folgenden Bereichen wurde Maseros redaktionelle Philosophie eindeutig übernommen.
 
 | Feld | Repräsentativer Künstler | Vererbung |
-| ---------- | ---------- | ---------- |
+| ------------ | -------------------- | ------------ |
 | Ambient/Elektronische Musik | Brian Eno | Räumliche Bearbeitung und sich wiederholende Strukturen |
 | Hip-Hop | DJ Shadow, Madlib | Beispielbearbeitung = Konstruktive Komposition |
 | Techno/Experimentelle Musik | Plastikman, Autechre | Zeitmanipulation und fragmentierte Ästhetik |
@@ -218,7 +218,7 @@ Es war ein Akt des Komponierens, so wie ein Architekt einen Raum entwirft.
 
 ## Kapitel 9: Philosophische Aspekte von Bearbeitungstechniken —— Die Idee des „Komponierens von Ohren“
 
-Maceros redaktionelle Philosophie besteht darin, Aufnahmen nicht als „objektive Aufzeichnungen“, sondern als „rekonstruierte Erfahrungen“ zu betrachten.
+Macellos redaktionelle Philosophie besteht darin, Aufnahmen nicht als „objektive Aufzeichnungen“, sondern als „rekonstruierte Erfahrungen“ zu betrachten.
 Hier gibt es eine philosophische Grundlage, die sich durch die gesamte Kunst des 20. Jahrhunderts zieht.
 
 | Ideologische Elemente | Inhalt | Verwandte Bereiche |
@@ -238,7 +238,7 @@ Für ihn war Improvisation die „Generierung von Materialien“ und der Schnitt
 
 ## Kapitel 10: Akustische Analyse – „Hörstruktur“, erstellt durch Bearbeitung
 
-Die Bearbeitung durch Teo Macero veränderte nicht nur die Songstruktur, sondern veränderte auch den akustischen Raum und die Struktur des Hörens.
+Die Bearbeitung durch Teo Macero veränderte nicht nur die Komposition der Musik, sondern veränderte auch den akustischen Raum und die Struktur des Hörens.
 Besonders beim Vergleich von „In a Silent Way“ und „Bitches Brew“ erkennt man eine klare Klangphilosophie in der Schnittrichtung.
 
 | Elemente | „In a Silent Way“ (1969) | „Bitches Brew“ (1970) |
@@ -281,11 +281,11 @@ graph LR
 
 → Konzentrieren Sie sich auf die „Tiefenachse“ und nicht auf Stereo links und rechts.
 
-Man kann sagen, dass Maceros bearbeiteter Sound bereits die „Skulptur der Zeit“ in die Tat umsetzte, die später Techno, Ambient und Electronica anstrebten.
+Man kann sagen, dass Maceros Tonbearbeitung bereits die „Skulptur der Zeit“ in die Tat umsetzte, die später Techno, Ambient und Electronica anstrebten.
 
 ---
 
-## Ergänzende Abbildung: „Komposition durch Bearbeitung“-Modell im Masero-Stil
+## Ergänzende Abbildung: „Komposition durch Bearbeitung“-Modell im Macero-Stil
 
 <div class="mermaid">
 
@@ -469,7 +469,7 @@ Es war ein Versuch, den Studioraum als „ein weiteres Instrument“ zu nutzen.
 ## Letztes Kapitel: Das Erbe von Teo Maceros „Ohr“
 
 Maceros Schnitt war nicht nur eine „Nachbearbeitung“, sondern eine Neudefinition der Aufnahmekunst selbst.
-Er zog keine klare Grenze zwischen Aufführung und Bearbeitung. Vielmehr war diese Lücke die Quelle der Kreativität.
+Er zog keine klare Grenze zwischen Aufführung und Schnitt. Vielmehr war diese Lücke die Quelle der Kreativität.
 
 In der modernen Musikproduktion sind die Handlungen, die wir unbewusst ausführen, wie „Cut and Loop“, „Automatisierung“ und „Remix“, allesamt Erweiterungen von Maceros Philosophie.
 Seine Leistung besteht in nichts Geringerem, als die Technologie der Aufnahme in eine Kunstform als Erweiterung des menschlichen Denkens zu verwandeln.

@@ -53,7 +53,7 @@ Ihr Sound war weniger Lärm als vielmehr ein experimentelles Ritual, das den „
 > „Es ist, als würde man die Landschaft selbst aufnehmen, nicht die Musik.“
 > — Thurston Moore (Sonic Youth)
 
-Charalambides' Aktivitäten verbreiteten sich über die Labels **Kranky** und **Wholly Other** und hatten großen Einfluss auf spätere texanische Noise-Künstler.
+Charalambides' Aktivitäten verbreiteten sich über die Labels **Kranky** und **Wholly Other** und hatten großen Einfluss auf spätere Noise-Künstler aus Texas.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1phVgCjUwSo?si=C6sHhwxXloYKbD0E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

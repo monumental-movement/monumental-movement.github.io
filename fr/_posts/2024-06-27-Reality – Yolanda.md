@@ -14,7 +14,7 @@ title: Réalité – Yolande
 ---
 
 
-Reality est un trio house branché dont la voix est celle du cousin d'Afrika Bambaataa, Kool Rock Steady, alias Edward Rudolph.
+Reality est un trio house branché dont la voix est celle du cousin d'Afrika Bambaataa, Kool Rock Steady, également connu sous le nom d'Edward Rudolph.
 
 "Yolanda", sorti en 1993 sur le label house Strictly Rhythm, est un morceau house devenu un énorme succès mondial.
 

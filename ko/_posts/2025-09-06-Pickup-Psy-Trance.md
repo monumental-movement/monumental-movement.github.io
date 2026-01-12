@@ -10,7 +10,7 @@ tags:
 - Psy-Trance
 - Goa
 - Trance
-title: 싸이-트랜스(Psy-Trance) 작품을 선택하세요
+title: Psy-Trance 작품을 선택하세요
 ---
 
 
@@ -211,7 +211,7 @@ AA. Inner Child
 
 - **출시일**: 2024-05-13
 
-- **해설**: DJ Tsuyoshi가 MATSURI 레이블을 편집했습니다. 90년대 트랜스 헤리티지와 현대성을 결합한 훌륭한 작품입니다.
+- **해설**: DJ Tsuyoshi가 MATSURI 레이블을 편집했습니다. 90년대의 트랜스 헤리티지와 현대성을 연결한 훌륭한 작품입니다.
 
 #### 트랙리스트
 ```md

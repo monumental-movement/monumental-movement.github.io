@@ -22,8 +22,8 @@ Texte : mmr｜Thème : Du punk de Leeds à la nature sauvage américaine. Les 45
 > **"Ça a commencé par des rires, pas par une rébellion."**
 
 1977, Université de Leeds, nord de l'Angleterre.
-Les Mekons ont été fondés par des étudiants dans un coin d'une salle de cours, pensant en plaisantant : « Peut-être que nous pourrions former un groupe nous-mêmes. » Jon Langford, Tom Greenhalgh, Kevin Lycett et d'autres deviendront des symboles de la culture post-punk. Ils n'avaient aucune compétence musicale et avaient même emprunté des instruments.
-À cette époque, le punk était une révolution que n’importe qui pouvait lancer. Le nom Mekons viendrait du personnage « rebelle » de la pièce de Byron, La Malédiction de Minerva.
+Les Mekons ont été fondés par des étudiants dans un coin d'une salle de cours, pensant en plaisantant : « Peut-être que nous pourrions former un groupe nous-mêmes. » Jon Langford, Tom Greenhalgh, Kevin Lycett et d'autres allaient devenir des symboles de la culture post-punk. Ils n'avaient aucune compétence musicale et avaient même emprunté des instruments.
+À cette époque, le punk était une révolution que n’importe qui pouvait lancer. Le nom Mekons viendrait du personnage « rebelle » de la pièce de Byron La Malédiction de Minerve.
 
 Le single « Where Were You / I'll Have To Dance Then (On My Own) », sorti en 1978, symbolise leur esprit punk précoce.
 « Where Were You ? » dépeint la solitude des jeunes et leurs doutes sur la société avec des riffs de guitare aigus et des voix mêlées de bruit. La face B, I'll Have To Dance Then (On My Own), exprime l'aliénation de soi et le désir de liberté avec une énergie punk.
@@ -50,7 +50,7 @@ color: #fff;
 
 
 ### Chapitre 1 : Échapper au punk brutal et maladroit
-> **"La maladresse était la sincérité."**
+> **« La maladresse était la sincérité. »**
 
 1979年発表のデビュー・アルバム[『The Quality of Mercy Is Not Strnen』](https://amzn.to/477GZ6y)。タイトルは“ストレン”という誤植そのものがバンドの姿勢を象徴していた。  
 Enregistré aux Virgin Studios à Londres. À l'époque, ils disaient : «C'était la première fois que je voyais une table de mixage.»
@@ -71,7 +71,7 @@ Ils quittent Londres et se transforment en un groupe de critique sociale qui cro
 Les membres ne sont pas fixes et des amis de l'époque universitaire vont et viennent, enregistrant parfois avec jusqu'à 10 personnes. Sa nature de collectif artistique se renforce.
 
 1989年の代表作[『The Mekons Rock ’n’ Roll』](https://amzn.to/4nIWLMc)は、その総括だった。  
-Une composition spatiale unique avec un double suivi de la guitare, une réverbération excessive et des basses fréquences supprimées de la basse. Il s'agissait de gadgets destinés à déformer intentionnellement la « beauté formelle du rock ».
+Une composition spatiale unique avec un double suivi de la guitare, une réverbération excessive et des basses fréquences supprimées. Il s'agissait de gadgets destinés à déformer intentionnellement la « beauté formelle du rock ».
 Avec cet album, ils présentent le paradoxe de « Le rock n'est-il pas le système lui-même ? »
 
 > "Nous savons que le rock and roll est dangereux. Il peut détruire des pays."
@@ -79,7 +79,7 @@ Avec cet album, ils présentent le paradoxe de « Le rock n'est-il pas le syst�
 
 ---
 
-### Chapitre 3 : Rencontre avec la musique américaine et l'aube du « country alternatif »
+### Chapitre 3 : Rencontre avec la musique américaine et l'aube du « alt-country »
 > **"Au milieu du vin et de la poussière, il y avait la vérité."**
 
 1985年の[『Fear and Whiskey』](https://amzn.to/4mV4QMk)で、Mekonsは完全に新しい地平へ踏み出す。  
@@ -105,7 +105,7 @@ Durant cette période, les Mekons existaient comme une « communauté artistique
 On a dit que "la musique de Mekons semble n'avoir sa place nulle part".
 Comme les immigrants, ils se déplaçaient entre les contextes musicaux, y créant des foyers temporaires.
 アルバム[『Journey to the End of the Night』（2000）](https://amzn.to/4q3A5HR)はその象徴であり、ブラスやヴァイオリンを加えた音響構成が“異郷性”を強調する。  
-Bien qu'il ait utilisé Pro Tools pour ce travail, il a intentionnellement utilisé une console analogique pour le mixage, créant ainsi un « déséquilibre humain ».
+Bien qu'il ait utilisé Pro Tools pour ce travail, il a délibérément utilisé une console analogique pour le mixage, créant ainsi un « déséquilibre humain ».
 
 ---
 
@@ -139,7 +139,7 @@ Ce « son marqué » était le réalisme auquel croyait Mekons.
 
 ---
 
-### Chapitre 7 : Au-delà de la déconstruction et de la réorganisation
+### Chapitre 7 : Au-delà de la déconstruction et des retrouvailles
 > **"Même si nous nous séparons, ça ne finira pas. Parce que ça ne finira pas, c'est Mekons."**
 
 Les Mekons se sont dissous et se sont reformés à plusieurs reprises.

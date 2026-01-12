@@ -15,7 +15,7 @@ title: '[Kolumne] DJ Harvey und Plattensammlung: DJ als Körper, der „Sound“
 ---
 
 
-## Prolog: Die mythische DJ-Harvey-Statue
+## Prolog: Der Mythos von DJ Harvey
 
 
 Text: mmr｜Thema: Nicht nur ein DJ, sondern eine Betrachtung des letzten „Schamane“ der analogen Ära
@@ -49,7 +49,7 @@ London in den 1980er Jahren. Harvey war durch Skateboarden und Punk in die Stra�
 Damals waren Schallplatten nicht nur eine Tonquelle, sondern eine Kultur, auf die man zugreifen konnte. Die Textur der Jacke, der Geruch der Linernotes, die Tiefe des Schnitts. All das war Teil des „musikalischen Erlebnisses“.
 
 Das erste Album, das er kaufte, war „Pull Up to the Bumper“ von Grace Jones.
-In dem Moment, als sein Körper sich zu dieser Basslinie bewegte, erkannte Harvey seine Bestimmung als DJ.
+In dem Moment, als sich sein Körper zu dieser Basslinie bewegte, erkannte Harvey seine Bestimmung als DJ.
 
 > „Für mich sind Schallplatten wie Atmen. Ich atme Geräusche ein und lasse sie wieder aus. Das ist alles.“
 
@@ -64,7 +64,7 @@ Für ihn ist eine Aufzeichnung „der Akt, das Leben eines anderen aufzuzeichnen
 Über Märkte und Flohmärkte schlendern und verstaubte Schallplatten ausgraben. Dort sind nicht nur Geräusche, sondern auch **Spuren der Zeit** eingraviert.
 
 Harvey sagt: „Je mehr menschliche Fingerabdrücke auf einer Schallplatte sind, desto lebendiger ist der Klang.“
-Sein Set umfasst eine Mischung aus unbekanntem Italo-Disco, 70er-Jahre-Rock, 80er-Synth-Boogie und sogar hawaiianischem AOR.
+Sein Set umfasst eine Mischung aus unbekanntem Italo-Disco, Rock der 70er Jahre, Synth-Boogie der 80er Jahre und hawaiianischem AOR.
 Die Auswahl der Lieder erfolgt nicht zufällig, sondern basiert auf der Intuition, den „Luftstrom des Klangs“ zu lesen.
 
 Seine DJ-Tasche ist wie ein Reisetagebuch. Jede Aufzeichnung enthält Erinnerungen an eine Nacht.

@@ -15,7 +15,7 @@ title: Loop Da Loop – Hazel
 ---
 
 
-Nicolas Jean-Pierre Dresti, également connu sous le nom de Loop Da Loop, est l'un des pseudonymes utilisés par le DJ/producteur britannique Space Cowboy. Il est également actif sous d'autres noms tels que DJ Supreme et DJ Chrome.
+Nicolas Jean-Pierre Dresti, alias Loop Da Loop, est l'un des pseudonymes utilisés par le DJ/producteur britannique Space Cowboy. Il est également actif sous d'autres noms tels que DJ Supreme et DJ Chrome.
 
 "Hazel" est une chanson House/Breaks/UK Garage sortie sur le label house et trance Manifesto en 1999. Une chanson à succès qui est également entrée dans les charts britanniques.
 

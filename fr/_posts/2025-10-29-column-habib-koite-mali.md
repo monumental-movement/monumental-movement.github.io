@@ -56,7 +56,7 @@ Sa musique ne parle pas de politique. Cependant, au sein de cette tranquillité 
 ## Chapitre 1 : L'univers musical du Mali
 
 La République du Mali est un pays enclavé situé en Afrique de l'Ouest. Dans la géographie où se croisent le désert du Sahara et le fleuve Niger, il existe un riche patrimoine culturel remontant à l'empire du Mali au XIIIe siècle.
-La musique de cette terre a été héritée par les griots (conteurs/musiciens traditionnels). Leur rôle n'est pas seulement celui d'interprètes, mais celui de **gardiens de la mémoire nationale**.
+La musique de cette terre a été héritée par les griots = conteurs/musiciens traditionnels. Leur rôle n'est pas seulement celui d'interprètes, mais celui de **gardiens de la mémoire nationale**.
 
 Bambara, Songhaï, Touareg, Peul, Dogon... Chaque ethnie possède son propre instrument de musique et son propre système mélodique, et les rythmes s'entremêlent en de multiples couches.
 Cette diversité est la « polyphonie fondamentale » de la musique malienne, et Koité a repositionné la « guitare » en son centre.
@@ -65,7 +65,7 @@ Cette diversité est la « polyphonie fondamentale » de la musique malienne, et
 
 ## Chapitre 2 : Origine et années de formation d'Habib Koite
 
-Habib Koité est née à Kayazi, au Mali, en 1958. Sa grand-mère appartenait à la famille de Geri et elle a grandi entourée de musique et d'histoires dès son plus jeune âge.
+Habib Koité est née à Kayazi, au Mali, en 1958. Sa grand-mère faisait partie de la famille de Geri et elle a grandi entourée de musique et d'histoires dès son plus jeune âge.
 Dans sa jeunesse, il étudie à l'**Institut National des Arts (INA)** de Bamako, où il maîtrise la guitare classique et le solfège.
 Après avoir obtenu son diplôme, il a commencé à innover dans son style de jeu de guitare.
 
@@ -114,7 +114,7 @@ En effet, le son est un médium qui transmet non seulement des émotions mais au
 ## Chapitre 6 : Koité comme traductrice culturelle
 
 Koité se positionne non pas comme un « gardien de la tradition », mais comme un « traducteur ».
-Son objectif est de convertir les sons du Mali en un « langage compréhensible ».
+Son objectif est de convertir les sonorités maliennes en un « langage compréhensible ».
 Mais il ne s’agit pas uniquement de mondialisation. Il s’agit plutôt d’une recherche de **sons qui peuvent atteindre le monde sans être occidentalisés**.
 
 Par exemple, dans ses performances live, il utilise six langues différentes (Bambara, Dogon, Français, Anglais, Songhaï, Peul).
@@ -146,7 +146,7 @@ En d’autres termes, Habib Koité a été le premier à faire le lien entre la 
 
 ## Chapitre 9 : Analyse sonore - Poétique structurale dans « Ma Ya »
 
-Prenons comme exemple la chanson « **Wassiye** » de « Ma Ya ».
+Prenons l'exemple de la chanson « **Wassiye** » de « Ma Ya ».
 
 * **Tempo** : environ 80 BPM (signature rythmique détendue 6/8)
 * **Structure du rythme** : polyrythmie à 3 couches (guitare/cajon/calebasse)

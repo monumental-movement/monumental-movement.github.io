@@ -18,18 +18,18 @@ title: '[Chronique] Ambiance sombre / Ambiance rituelle'
 
 ## 1. Redéfinir la notion de genre
 
-Texte : mmr｜Thème : Formation d'une expérience immersive à travers l'acoustique, l'espace et la structure rituelle
+Texte : mmr｜Thème : Formation d'une expérience immersive à travers le son, l'espace et la structure rituelle
 
 Dark Ambient n'est pas une extension sémantique de la musique ambiante, mais une expression sonore créée en réduisant intentionnellement des éléments musicaux.
 
-Les éléments d'identification de la musique, tels que la mesure, la mélodie et l'instrumentalité, s'éloignent et les éléments suivants sont mis au premier plan :
+Les éléments d’identification de la musique, tels que la mesure, la mélodie et l’instrumentalité, s’éloignent et les éléments suivants sont mis au premier plan :
 
 * Son soutenu
 * Déséquilibre de bande de fréquence
 * Réverbération spatiale
 *Source sonore inconnue
 
-Ritual Ambient se distingue par le fait qu'il utilise cette méthode de type Dark Ambient tout en introduisant une « structure progressive » claire. Le ritualisme ne s’établit pas à travers des symboles, mais à travers l’agencement des sons et la conception de leur durée.
+Ritual Ambient se distingue par le fait qu'il utilise cette méthode de type Dark Ambient tout en introduisant une « structure progressive » claire. Le ritualisme ne s’établit pas à travers des symboles, mais à travers la conception de l’agencement des sons et de leur durée.
 
 
 ---
@@ -89,7 +89,7 @@ Les matériaux enregistrés dans les grottes, les installations souterraines et 
 
 La réverbération et le delay ne sont pas utilisés pour la direction, mais pour reconstruire l'espace lui-même.
 
-[« Chez Lustmord, le traitement acoustique n'est pas une décoration, mais un réaménagement des conditions physiques. »]
+[« Chez Lustmord, le traitement acoustique n'est pas une décoration, mais un réarrangement des conditions physiques. »]
 
 ---
 
@@ -214,7 +214,7 @@ Ce qu’ils ont en commun, c’est que le son ne fournit pas d’explications.
 *Expérience acoustique environnementale d'Industrial
 * Établissement Dark Ambient par Lustmord
 
-### années 1990
+### Années 1990
 
 * Reconnaissance du genre Dark Ambient
 * Systématisation Ritual Ambient par Raison d’être
@@ -239,7 +239,7 @@ Bien que le nombre produit soit limité, il conserve sa valeur de référence.
 
 Lustmord et Raison d’être sont les références qui ont établi la méthodologie Dark Ambient / Ritual Ambient.
 
-Leur influence n'est pas une imitation musicale ;
+Leur influence n’est pas une imitation musicale ;
 
 * Conception d'espace
 * Manipulation perceptuelle

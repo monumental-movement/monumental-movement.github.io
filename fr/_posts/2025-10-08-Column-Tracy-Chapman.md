@@ -61,9 +61,9 @@ Ces expériences ont ensuite conduit à une prise de conscience sociale et à un
 Après avoir fréquenté une école locale, Chapman est entré à la Wooster School dans le Connecticut grâce au programme de bourses « A Better Chance ».
 
 Il a ensuite transmis sa passion pour la musique et la littérature à l'Université Tufts, où il a étudié l'art et les sciences humaines tout en poursuivant sa carrière musicale.
-On dit que pendant ses années universitaires, ses activités quotidiennes comprenaient des performances live sur le campus, des performances d'improvisation avec des amis et la fusion de la poésie et de la musique.
+On dit que pendant ses années universitaires, ses activités quotidiennes comprenaient des spectacles en direct sur le campus, des performances d'improvisation avec des amis et la fusion de la poésie et de la musique.
 
-Les interactions qu’il a eues avec les personnes qu’il a rencontrées au cours de cette période – amis universitaires, amis musiciens locaux et seniors de la scène folk – sont devenues la base de réseaux créatifs ultérieurs et d’une compréhension mutuelle.
+Les interactions qu'il a eues avec les personnes qu'il a rencontrées au cours de cette période -- amis universitaires, amis musiciens locaux et seniors de la scène folk -- sont devenues la base de réseaux créatifs ultérieurs et d'une compréhension mutuelle.
 
 ---
 
@@ -86,7 +86,7 @@ Un forum d'atelier d'enregistrement déclare :
 > "Deux microphones, deux compresseurs et 5 égaliseurs… il a fallu un équilibrage minutieux pour que le chant solo ou la guitare solo sonnent seuls, mais ensemble, ils ont fusionné comme par magie."
 
 En d’autres termes, plutôt que d’enregistrer le chant et la guitare séparément, une approche a été adoptée pour les mélanger tout en conservant un sentiment de synchronisation et d’atmosphère.
-Ils ont envisagé d'utiliser une DI (entrée directe) pour la guitare, mais la technologie de l'époque présentait un risque élevé de bruit et de déphasage, ils se sont donc concentrés sur l'amélioration de l'enregistrement du microphone.
+Ils ont envisagé d'utiliser la DI (entrée directe) pour la guitare, mais la technologie de l'époque présentait un risque élevé de bruit et de déphasage, ils se sont donc concentrés sur l'amélioration de l'enregistrement du microphone.
 
 De plus, Chapman a déclaré publiquement qu'au début de la production, il avait développé la chanson en utilisant du papier, un stylo et un magnétophone portable, plutôt que de s'appuyer sur des ordinateurs ou des équipements numériques.
 Cette méthode a probablement été choisie pour préserver la fraîcheur de la création.
@@ -128,7 +128,7 @@ Elle cite les chanteurs de gospel, de soul et de folk comme ses influences music
 Les versions live et enregistrées de « Talkin' 'bout a Revolution » utilisent souvent une légère réverbération en arrière-plan, permettant au chant et à la guitare de se fondre dans l'espace.
 Afin d'utiliser l'espace blanc dans les paroles, les sons excessifs sont évités et le mixage est conscient de la "pause". Cette idée est possible parce que ses chansons ont un caractère qui s'apparente à « parler aux gens ».
 
-De plus, en termes de technologie d'enregistrement, l'égalisation est souvent choisie pour laisser les contours des médiums-basses clairs, sans superposer le chant ou la guitare de manière trop épaisse. Cela donne à l’auditeur l’illusion que la voix lui parvient directement.
+De plus, en termes de technologie d'enregistrement, l'égalisation est souvent choisie pour laisser les contours des médiums et des graves clairs, sans superposer le chant ou la guitare de manière trop épaisse. Cela donne à l’auditeur l’illusion que la voix lui parvient directement.
 
 ---
 
@@ -182,7 +182,7 @@ Chapman est connue pour ne pas faire beaucoup d'apparitions publiques, mais pour
 Par exemple, certaines informations indiquent qu'il est un ami proche de la romancière Alice Walker et qu'ils ont eu une relation pendant un certain temps, mais il n'a pas rendu publics les détails de sa vie privée.
 
 De plus, leur interprétation de « Fast Car » aux Grammys 2024 symbolisait leur lien musical intergénérationnel avec Luke Combs.
-Le processus de négociation pour cette étape aurait été prudent, les Grammys ayant adopté une approche mettant l'accent sur la confiance et évitant de mettre trop de pression sur elle.
+On dit qu'il y a eu une certaine prudence dans le processus de négociation au cours de cette étape, les Grammys ayant adopté une approche qui mettait l'accent sur la confiance et évitait de mettre trop de pression sur elle.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pLfH9HSUyf4?si=xIapcYqmaMISuyS1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -230,7 +230,7 @@ J'espère qu'à travers cette chronique vous pourrez reconsidérer les contours 
 
 ---
 
-### Discographie complète de l'album de Tracy Chapman
+### Tracy Chapman Discographie complète de l'album
 
 | Année | Titre | Remarques/Caractéristiques | Lien |
 | ---- | ------------------------------------ | ------------------ | ---------------------------------- |

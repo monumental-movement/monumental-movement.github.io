@@ -13,7 +13,7 @@ title: 화요일 어린이 – 2 Bad E.P.
 ---
 
 
-Tuesdays Child는 Robert Chetcuti의 전자/하우스 프로젝트에 대한 별칭입니다. Robert Chetcuti는 Steve Mac과 함께 하우스 듀오 Rhythm Masters로 활동한 것으로 가장 잘 알려져 있으며, 이는 1990년대부터 2000년대 초반까지 유럽 클럽 현장에서 인기를 얻었습니다.
+Tuesdays Child는 Robert Chetcuti의 전자/하우스 프로젝트 별칭입니다. Robert Chetcuti는 Steve Mac과 함께 하우스 듀오 Rhythm Masters로 활동한 것으로 가장 잘 알려져 있으며, 이는 1990년대부터 2000년대 초반까지 유럽 클럽 현장에서 인기를 얻었습니다.
 
 그는 또한 Armand Van Helden, Junior Jack, Michael Jackson 등을 위한 많은 리믹스를 만들었습니다.
 

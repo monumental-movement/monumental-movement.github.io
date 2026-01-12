@@ -15,7 +15,7 @@ title: 저렴한 트릭 - 컬러로
 
 Cheap Trick은 Robin Zander, Rick Nielsen, Tom Peterson 및 Van E. Carlos가 1974년 일리노이주 록퍼드에서 결성한 미국의 록 밴드입니다.
 
-"In Color"는 Cheap Trick의 두 번째 앨범입니다. 프로듀서는 Ted Nugent의 프로듀서로 알려진 Tom Werman입니다.
+"In Color"는 Cheap Trick의 두 번째 앨범입니다. 프로듀서는 테드 누젠트(Ted Nugent) 프로듀싱으로 유명한 톰 워먼(Tom Werman)입니다.
 
 #### 트랙리스트
 ```md

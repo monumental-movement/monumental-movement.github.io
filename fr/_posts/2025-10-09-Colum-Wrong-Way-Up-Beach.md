@@ -75,7 +75,7 @@ Par exemple, « Spinning Away » est un mélange parfait de sentiments flottants
 > Avec mon crayon transformant les instants en lignes… »
 
 La mélodie est comme un « croquis de mémoire ».
-Cet album était un précurseur de la « pop environnementale » d'Eno à partir des années 1990, et a été hérité des sons de Coldplay et de Moby.
+Cet album était un précurseur du mouvement « pop environnemental » d'Eno à partir des années 1990, et a été hérité des sons de Coldplay et de Moby.
 La « fausse ascension » peut faire référence au chemin que nous empruntons et que nous croyons être le bon chemin.
 
 ---
@@ -118,7 +118,7 @@ C'est une « impatience transparente ».
 Tous deux ont une pointe d’anxiété dans leur luminosité tropicale.
 
 Bien que la structure rythmique de « Wrong Way Up » soit électronique, elle donne l'impression d'une « respiration humaine ».
-De même, la bande originale de The Beach explore l'équilibre entre les rythmes du club et les sons naturels.
+La bande originale de Beach explore de la même manière l’équilibre entre les rythmes du club et les sons naturels.
 Le thème sous-jacent est « l’intersection entre la nature et la technologie » et l’idée de **Ambient = Landscape of Mind**, que prône Eno depuis les années 1980.
 
 > "L'idée de la musique d'ambiance est de vous faire sentir comme faisant partie d'un paysage qui n'existe peut-être pas." —Brian Eno
@@ -134,11 +134,11 @@ Ici, le son et les images se chevauchent parfaitement, créant une « illusion d
 
 ---
 
-Où irons-nous au 21e siècle ?
+Où irons-nous au 21ème siècle ?
 À une époque où les médias sociaux connectent le monde et où l’IA joue un rôle dans l’imagination, l’expression **« Wrong Way Up »** semble encore plus réaliste.
 La « fausse ascension » est désormais une métaphore de la civilisation.
 
-L'album d'Eno & Cale avait une prémonition de « musique après avoir abandonné le paradis ».
+L'album d'Eno & Cale avait une prémonition de "musique après avoir abandonné le paradis".
 La mélodie demande doucement. "Si vous ne trouvez pas le paradis, construisez-le en musique."
 
 Le moment à la fin de "La Plage" où Richard regarde son écran d'ordinateur avec un sourire aux lèvres.

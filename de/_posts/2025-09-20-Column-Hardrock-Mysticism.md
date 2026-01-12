@@ -16,7 +16,7 @@ title: '[Kolumne] Die Schnittstelle zwischen Hard Rock, orientalischer Philosoph
 
 ## „West“ und „Ost“ im harten Fels versteckt
 
-Text: mmr | Thema: Erforschung der Beziehung zwischen Hardrock, östlicher Philosophie und Mystik anhand der Beispiele von Led Zeppelin und Deep Purple
+Text: mmr｜Thema: Erforschung der Beziehung zwischen Hardrock, östlicher Philosophie und Mystik anhand der Beispiele von Led Zeppelin und Deep Purple
 
 Hardrock ist ein bedeutendes Rockgenre, das in den späten 1960er- bis 1970er-Jahren eine explosionsartige Entwicklung erlebte. Seine Musikalität zeichnet sich durch die kühne Einbeziehung östlicher Philosophie und mystischer Elemente sowie westlichem Machoismus und Stärke aus.
 
@@ -101,7 +101,7 @@ In der heutigen Zeit entwickeln sich die **Soundtrack-Produktion** und die **KI-
 
 * Metal-Sound mit orientalischen Tonleitern → Perfekt für Spiel-Hintergrundmusik
 * Drohnensound, der eine geheimnisvolle Stimmung erzeugt → Für Filmtrailer
-* Filmischer, KI-generierter Soundtrack → Wird auf Science-Fiction-Werke und Fantasy angewendet
+* Filmischer, KI-generierter Soundtrack → Wird auf Science-Fiction- und Fantasy-Werke angewendet
 
 ---
 
@@ -110,7 +110,7 @@ In der heutigen Zeit entwickeln sich die **Soundtrack-Produktion** und die **KI-
 **F1: ​​Was ist der Unterschied zwischen Hard Rock und Heavy Metal? **
 A1: Hardrock ist eine Erweiterung des Bluesrocks und behält ein starkes Gespür für Groove- und Rock'n'Roll-Elemente. Heavy Metal hingegen ist aggressiver und legt eher Wert auf Riffs und Geschwindigkeit.
 
-**F2: In welchen spezifischen musikalischen Elementen kommt orientalisches Denken vor? **
+**F2: In welchen spezifischen musikalischen Elementen taucht das östliche Denken auf? **
 A2: Wir drücken „Exotik“ und „Mystik“ aus, indem wir orientalische Tonleitern wie pentatonische Tonleitern und Ragas (indische Musikmodi) verwenden.
 
 **F3: Kann Hardrock mit KI-Musikgenerierung nachgebildet werden? **
@@ -123,7 +123,7 @@ A4: Ja. Ideal, um eine kraftvolle und geheimnisvolle Atmosphäre zu schaffen, in
 
 ## Zusammenfassung
 
-Hard Rock ist mehr als nur „Loud Rock“; Es handelt sich um ein einzigartiges kulturelles Phänomen, das eine Mischung aus westlichem Machismo und östlichem Mystizismus darstellt. Seine Essenz wird auch heute noch in der Welt der **Soundtrack-Produktion** für Filme und Spiele und der sich ständig weiterentwickelnden Welt der **KI-Musikgenerierung** angewendet. Dadurch können wir das musikalische Erbe der Vergangenheit mit der Technologie der Zukunft verbinden und so neue musikalische Möglichkeiten eröffnen.
+Hard Rock ist mehr als nur „Loud Rock“; Es handelt sich um ein einzigartiges kulturelles Phänomen, das eine Verschmelzung von westlichem Machismo und östlichem Mystizismus darstellt. Seine Essenz wird auch heute noch in der Welt der **Soundtrack-Produktion** für Filme und Spiele und der sich ständig weiterentwickelnden Welt der **KI-Musikgenerierung** angewendet. Dadurch können wir das musikalische Erbe der Vergangenheit mit der Technologie der Zukunft verbinden und so neue musikalische Möglichkeiten eröffnen.
 
 
 ---

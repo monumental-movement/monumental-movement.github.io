@@ -15,7 +15,7 @@ title: 다양한 – King Britt가 Black을 미래에 선보입니다
 
 필라델피아 하우스 씬의 핵심 인물인 King Britt의 편집물입니다.
 
-Side A의 첫 번째 트랙인 The Society는 Senor Coconut의 투어 멤버인 작곡가/편곡/색소폰 연주자 Thomas Hass의 프로젝트입니다.
+A면의 첫 번째 트랙인 The Society는 Senor Coconut의 투어 멤버인 작곡가/편곡/색소폰 연주자 Thomas Hass의 프로젝트입니다.
 
 #### 트랙리스트
 ```md

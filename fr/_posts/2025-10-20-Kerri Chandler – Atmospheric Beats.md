@@ -10,13 +10,13 @@ tags:
 - House
 - Deep House
 - 00s
-title: Kerri Chandler – Battements atmosphériques
+title: Kerri Chandler – Atmospheric Beats
 ---
 
 
-"Atmospheric Beats" est une chanson célèbre de la pionnière de la house music Kerri Chandler.
+ハウスミュージックのパイオニアKerri Chandler(ケリー・チャンドラー)の名曲「Atmospheric Beats」。
 
-Une édition promotionnelle limitée publiée par le label Ibadan en 2000.
+2000年にレーベルIbadanからリリースされた限定プロモ盤。
 
 #### Liste des chansons
 ```md

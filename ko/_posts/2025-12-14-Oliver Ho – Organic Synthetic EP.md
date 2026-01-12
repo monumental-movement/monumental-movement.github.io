@@ -13,7 +13,7 @@ title: 올리버 호 – 유기 합성 EP
 ---
 
 
-영국의 테크노에 충실한 Oliver Ho가 자신의 레이블 Meta에서 2003년에 발표한 테크노 트랙입니다.
+영국의 테크노에 충실한 Oliver Ho가 자신의 레이블인 Meta에서 2003년에 발표한 테크노 트랙입니다.
 
 James Brown의 "Get Up (I Feel Like Being A) Sex Machine" 샘플입니다.
 

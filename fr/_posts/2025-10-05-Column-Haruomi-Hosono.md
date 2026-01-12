@@ -59,7 +59,7 @@ Un ami a ajouté des effets sonores et des rires aux enregistrements, et son sen
 ### Chapitre 1 : Happy End - L'aube du rock japonais (1969-1972)
 
 #### Œuvre représentative : « Kazamachi Roman » (1971)
-Une œuvre monumentale qui dépeint pour la première fois l'atmosphère poétique de la ville de Tokyo dans le contexte du rock.
+Une œuvre monumentale qui dépeint pour la première fois l’atmosphère poétique de la ville de Tokyo dans le contexte du rock.
 Durant cette période, Hosono a joué un rôle important dans la composition musicale tout en jouant de la basse.
 Des chansons telles que « It's Summer » et « Gather the Wind » ont un son urbain mais nostalgique.
 
@@ -73,7 +73,7 @@ Les enregistrements à cette époque ont été réalisés dans le studio prédé
 Bien qu'influencés par des groupes américains tels que The Band et Buffalo Springfield, ils mettent en avant les paroles littéraires japonaises.
 
 #### Anecdote
-Hosono, frustré par les nombreux problèmes d'équipement lors de l'enregistrement, aurait déclaré : « Je veux un endroit où je peux enregistrer un peu mieux le son. »
+Hosono, frustré par les nombreux problèmes d'équipement lors de l'enregistrement, aurait déclaré: «Je veux un endroit où je peux enregistrer un peu mieux le son.»
 Après cela, c’est devenu la base pour lui permettre de poursuivre ses propres idéaux sonores.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3vGkvlNZS5Y?si=Ri3xftRPb2Awn9EP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -128,7 +128,7 @@ Il y a eu beaucoup d'essais et d'erreurs dans la création de chansons parmi les
 
 ### Chapitre 4 : Trilogie tropicale – Exploration de l'exotisme (1973-1978)
 
-#### Travaux représentatifs :
+#### 代表作：
 
 - "Dandy tropical" (1975)
 - "Taian Yoko" (1976)
@@ -158,7 +158,7 @@ Cette atmosphère détendue se reflète dans le son chaleureux et organique.
 
 ### Chapitre 5 : Révolution Technopop - YMO et l'avenir de l'électronique (1978-1983)
 
-#### Travaux représentatifs :
+#### 代表作：
 - **Yellow Magic Orchestra『Solid State Survivor』(1979)**
 - **"BGM" (1981)**
 - **"Technodélique" (1981)**
@@ -186,7 +186,7 @@ Le public a ri, les membres aussi. Hosono aurait dit : « Les machines sont comm
 
 ### Chapitre 6 : Pop in Silence - Travail ambiant et solo (1984-1990)
 
-#### Travaux représentatifs :
+#### 代表作：
 - "Philharmonie" (1982)
 - « Omni Sight Seeing » (1989)
 
@@ -212,13 +212,13 @@ Hosono a dit en plaisantant : « La musique, c'est vivre avec le hasard. »
 
 ### Chapitre 7 : Musique de paysage – Bandes sonores et sons ambiants (1990-2000)
 
-#### Travaux représentatifs :
+#### 代表作：
 - "Nuit sur le chemin de fer galactique" (1985)
 - "Minima Moralia" (1986)
 - "EMI" (1995)
 
 C'était une époque où il travaillait sur la musique pour une grande variété de médias, notamment l'animation, les films et les publicités.
-``Night on the Galactic Railway'' brille par des compositions délicates qui semblent traduire en son la littérature fantastique de Kenji Miyazawa.
+``Night on the Galaxy Express'' brille par des compositions délicates qui semblent traduire en son la littérature fantastique de Kenji Miyazawa.
 
 #### Contexte historique
 Après l'éclatement de la bulle économique, les valeurs du Japon ont été ébranlées.
@@ -240,7 +240,7 @@ Ce son reste faiblement dans le morceau final.
 
 ### Chapitre 8 : Chansons country et folkloriques - Sons de terre et de mémoire (2000-2015)
 
-#### Travaux représentatifs :
+#### 代表作：
 - «HoSoNoVa» (2011)
 - « Musique céleste » (2013)
 
@@ -258,7 +258,7 @@ Pendant l'enregistrement, il a éteint le climatiseur et s'est concentré sur «
 
 #### Anecdote
 Quand l'ingénieur du son a arrêté de mixer pendant l'enregistrement de "HoSoNoVa",
-Hosono aurait déclaré : « J'aime la façon dont le son se repose. » Vous pouvez avoir un aperçu de son attention inhabituelle envers « l'espace » du son.
+Hosono aurait déclaré : « J'aime la façon dont le son repose. » Vous pouvez avoir un aperçu de son attention inhabituelle envers « l'espace » du son.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qeHTFlkBBcM?si=pM6PE5l2p5zEWcoy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -266,7 +266,7 @@ Hosono aurait déclaré : « J'aime la façon dont le son se repose. » Vous pou
 
 ### Chapitre 9 : « L’hosono-isme » à l’ère numérique – De la logique tranquille à nos jours (2015–)
 
-#### Travaux représentatifs :
+#### 代表作：
 - « Logique tranquille » (2024)
 - « Vu Jà Dé » (2018)
 

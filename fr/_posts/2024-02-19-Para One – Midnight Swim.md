@@ -11,7 +11,7 @@ tags:
 - Techno
 - Electro
 - French Electro
-title: Para One – Nage de minuit
+title: Para One – Midnight Swim
 ---
 
 
@@ -21,11 +21,11 @@ title: Para One – Nage de minuit
 
 
 
-Para One est un producteur électronique français. Il est célèbre pour avoir produit la bande originale du film français « Nymphéas » de 2007 (titre original : Naissance Des Pieuvres).
+Para One(パラワン)は、フランスのエレクトロニックプロデューサー。2007年のフランス映画「Water Lilies （邦題：水の中のつぼみ）（原題：Naissance Des Pieuvres」の オリジナルサウンドトラック製作で有名。
 
-Le deuxième morceau de la face A est un remix du DJ/producteur britannique de musique électronique Riton.
+A面２曲目はイギリスのエレクトロニックミュージックDJ/プロデューサーRitonによるremix。
 
-Le deuxième morceau de la face B est un remix de Surkin, un producteur français qui dirige le label Marble avec Para One & Bobmo.
+B面２曲目は、Para One＆Bobmoと共にレーベルMarbleを運営するフランスのプロデューサーSurkinによるremix。
 
 #### Liste des chansons
 ```md

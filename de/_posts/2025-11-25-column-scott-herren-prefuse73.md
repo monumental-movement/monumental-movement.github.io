@@ -42,7 +42,7 @@ color: #fff;
 
 Guillermo Scott Herren wurde 1976 in Miami, Florida, USA geboren. Ihr Vater stammt aus Katalonien und ihre Mutter ist irischer und kubanischer Abstammung, sodass sie schon in jungen Jahren in einem multikulturellen Umfeld aufwuchs. Er erhielt von seiner Mutter Musikunterricht und war mit mehreren Instrumenten, darunter dem Klavier, vertraut.
 
-Als Junge interessierte er sich für Hip-Hop, Punk und elektronische Musik und wurde von der Musikszene seiner Heimatstadt Miami beeinflusst. Als Teenager begann er mit dem DJing, spielte in Nachtclubs in Atlanta und engagierte sich schon früh in der Musikproduktion und -aufführung. Durch seine Erfahrung im Studio verfeinerte er seine Klangexperimente und Sampling-Techniken.
+Als Junge interessierte er sich für Hip-Hop, Punk und elektronische Musik und wurde von der Musikszene seiner Heimatstadt Miami beeinflusst. Als Teenager begann er als DJ, spielte in Nachtclubs in Atlanta und engagierte sich schon früh in der Musikproduktion und -aufführung. Durch seine Erfahrung im Studio verfeinerte er seine Klangexperimente und Sampling-Techniken.
 
 Als er zum Studium nach New York zog, begann er ernsthaft mit der Entwicklung seines eigenen Musikprojekts.
 
@@ -64,7 +64,7 @@ Um das Jahr 2000 startete das Projekt unter dem Pseudonym **Savath & Savalas**.
 
 Im Jahr 2004 veröffentlichte er *Apropa’t*. Sie spiegelten spanisch-katalanischen Gesang, Post-Rock und lateinamerikanische Einflüsse wider und verfolgten einen anderen musikalischen Ausdruck als Prefuse 73.
 
-Dieses Projekt positioniert sich als eine weitere Form seines Selbstausdrucks und zeigt seine vielfältigen musikalischen Aktivitäten, einschließlich der Beziehung zum experimentellen Charakter von Prefuse 73.
+Dieses Projekt stellt für ihn eine weitere Form des Selbstausdrucks dar und zeigt seine vielfältigen musikalischen Aktivitäten, einschließlich seiner Beziehung zum experimentellen Charakter von Prefuse 73.
 
 ---
 
@@ -102,7 +102,7 @@ Das neue Label ermöglicht die Zusammenarbeit mit verschiedenen Künstlern, wie 
 
 # Retouren und aktuelle Veröffentlichungen
 
-Im Jahr 2015 wurden gleichzeitig das Album *Rivington Não Rio* und die EPs *Forsyth Gardens* und *Every Color of Darkness* veröffentlicht.
+Im Jahr 2015 wurden gleichzeitig das Album *Rivington Não Rio* und die EPs *Forsyth Gardens* und *Every Colour of Darkness* veröffentlicht.
 
 Im Jahr 2018 veröffentlichte er *Sacrifices* und markierte damit eine Rückkehr zu den spärlichen Beats und Cut-and-Paste-Techniken der frühen Prefuse 73.
 
@@ -125,7 +125,7 @@ Im Jahr 2024 wird er *New Strategies for Modern Crime Vol.1* und *Vol.2* veröff
 
 # Musikstile und Einflüsse
 
-– Fusion aus Hip-Hop (1990er), Miami-Bass, IDM und Jazz.
+- Fusion aus Hip-Hop (1990er), Miami Bass, IDM und Jazz.
 - Verfügt über eine Technologie, die Samples und Gesang ausschneidet und in extrem kleine Einheiten einfügt, um sie zu rekonstruieren.
 - Mehr als nur experimentelle Musik, sie drückt urbane Emotionen und Menschlichkeit in Fragmenten aus.
 - Erweitern Sie Ihr musikalisches Spektrum durch Zusammenarbeit und vernetzen Sie sich mit Künstlern der neuen Generation.

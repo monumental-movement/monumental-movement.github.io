@@ -18,7 +18,7 @@ title: 엔니오 모리꼬네 – Nuovo Cinema Paradiso (Musica Originale Del Fi
 
 이탈리아 작곡가 엔니오 모리꼬네가 작곡한 1989년 영화 '뉴 시네마 파라다이스'의 사운드트랙. 엔니오 모리코네를 유명하게 만든 CD.
 
-엔니오 모리코네(Ennio Morricone)는 쿠엔틴 타란티노(Quentin Tarantino)가 각본 및 감독을 맡은 영화 '헤이트풀 에이트(The Hateful Eight)'의 음악으로 제88회 아카데미 시상식에서 아카데미 최우수 오리지널 스코어상을 수상했습니다.
+엔니오 모리코네(Ennio Morricone)는 쿠엔틴 타란티노(Quentin Tarantino)가 각본 및 감독을 맡은 영화 '헤이트풀 에이트(The Hateful Eight)'의 음악으로 제88회 아카데미 시상식에서 최우수 오리지널 음악상(Academy Award for Best Original Score)을 수상했습니다.
 
 #### 트랙리스트
 ```md

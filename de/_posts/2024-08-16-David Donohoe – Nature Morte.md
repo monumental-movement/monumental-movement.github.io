@@ -16,7 +16,7 @@ title: David Donohoe – Nature Morte!
 
 David Donohoe ist ein Kreativdirektor, Grafikdesigner, elektronischer Musiker und experimenteller Musiker mit Sitz in Dublin, Irland.
 
-„Nature Morte!“ ist ein Minimal-Ambient-Track, der 2004 von Minimise veröffentlicht wurde, einem Label von Donnacha Costello, einer Veteranin der Minimal-Techno-Szene mit Sitz in Dublin, Irland.
+„Nature Morte!“ ist ein Minimal-Ambient-Track, der 2004 auf Minimise veröffentlicht wurde, einem Label von Donnacha Costello, einer Veteranin der Minimal-Techno-Szene mit Sitz in Dublin, Irland.
 
 #### Trackliste
 ```md

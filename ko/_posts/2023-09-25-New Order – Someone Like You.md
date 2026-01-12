@@ -15,7 +15,7 @@ title: 새로운 질서 - 당신 같은 사람
 
 'Someone Like You'는 뉴오더의 2015년 앨범 'Music Complete' 수록곡으로, 팝과 일렉트로닉 요소가 결합된 곡으로, 뉴오더 특유의 신디사이저 사운드와 댄스 비트가 돋보이는 곡이다.
 
-James Holden의 Heavy Dub 리믹스와 Funk D'Void의 "New Order - Something Like You" 리믹스는 그루브와 팝적 요소를 담고 있어 원곡 못지않게 많은 사랑을 받고 있다.
+James Holden의 Heavy Dub 리믹스와 Funk D'Void의 "New Order - Something Like You" 리믹스는 그루브와 팝적인 요소를 담고 있어 원곡 못지않게 많은 사랑을 받고 있습니다.
 
 #### 트랙리스트
 ```md

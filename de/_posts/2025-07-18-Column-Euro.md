@@ -24,7 +24,7 @@ Text: mmr｜Thema: Das Gesamtbild der europäischen Musikkultur in den 90er Jahr
 
 ### Was ist die wahre Identität der Musik namens Euro?
 
-Die „Euromusik“ der 1990er Jahre war kein bestimmtes Genre, sondern ein allgemeiner Begriff für populäre Dance-Pop-Musik, die sich hauptsächlich in Kontinentaleuropa entwickelte.
+Die „Euromusik“ der 1990er Jahre war kein bestimmtes Genre, sondern vielmehr ein allgemeiner Begriff für populäre Dance-Pop-Musik, die sich hauptsächlich in Kontinentaleuropa entwickelte.
 Die bekanntesten davon waren „Eurobeat“ und „Eurodance“, aber gleichzeitig liefen auch andere Genres wie Eurotrance, High Energy und Synth-Pop.
 
 Mit anderen Worten: Der Euro der 1990er Jahre war das „Popbild des modernen Europas“, das Partykultur, Tanzmusik, eingängige Melodien und Technologie vereinte.
@@ -172,7 +172,7 @@ Euro-Musik kam bei Kritikern lange Zeit nicht gut an. Der Grund ist wie folgt:
 
 - Massenproduktion/Anonymität (die Präsenz bestimmter Künstler ist schwach)
 
-- Kommerzieller Erfolg = Missachtung der Kunst
+- Kommerzieller Erfolg = Missachtung der Kunstfertigkeit
 
 Andererseits beweist es aber auch, dass Musik jeden erreichen kann.
 
@@ -185,11 +185,11 @@ In den letzten Jahren wurde Euromusic auf folgende Weise neu bewertet:
 
 - Euro Dance als Ursprung von Hyperpop- und Y2K-Sounds
 
-- Rückkehr der 90er Jahre (Post-Eurodance) in der Clubszene
+- Rückkehr der 90er Jahre (Post-Eurodance) in die Clubszene
 
 - Eurobeat aus Japan wurde wie City Pop von der Internet-Generation wiederentdeckt.
 
-Darüber hinaus erreicht 90's Euro durch die verstärkte Wiedergabe auf Spotify und YouTube ein neues Publikum.
+Darüber hinaus erreicht 90's Euro mit verstärkter Wiedergabe auf Spotify und YouTube ein neues Publikum.
 
 
 

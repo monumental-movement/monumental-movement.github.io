@@ -9,11 +9,11 @@ permalink: /ko/rosetta-stone-rock-pictures/
 tags:
 - Rock
 - Hard Rock
-title: 로제타 스톤 – 록 픽쳐스
+title: Rosetta Stone – ROCK PICTURES
 ---
 
 
-Rosetta Stone은 전 Bay City Rollers 기타리스트 Ian Mitchell이 ​​결성한 북아일랜드 록 밴드입니다.
+Rosetta Stone(ロゼッタストーン)は、Bay City Rollers(ベイシティローラーズ)の元ギタリストIan Mitchell(イアン・ミッチェル)が中心となって結成した北アイルランドのロックバンド。
 
 #### 트랙리스트
 ```md

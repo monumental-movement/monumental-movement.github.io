@@ -9,7 +9,7 @@ permalink: /ko/accept-russian-roulette/
 tags:
 - Heavy Metal
 - Rock
-title: 수락 – 러시안 룰렛
+title: 수락 - 러시안 룰렛
 ---
 
 
@@ -19,7 +19,7 @@ title: 수락 – 러시안 룰렛
 
 'Aiming High' - 기타 솔로와 트윈 리드가 돋보이는 빠르고 파워풀한 곡이다. Accept의 전형적인 헤비메탈 사운드를 마음껏 즐기실 수 있는 곡입니다.
 
-'러시안 룰렛'은 Accept 팬을 위한 클래식으로, 80년대 헤비메탈의 맛을 선사합니다.
+'러시안 룰렛'은 Accept 팬을 위한 고전이며 80년대 헤비메탈의 맛을 선사할 것입니다.
 
 
 #### 트랙리스트

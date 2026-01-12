@@ -13,7 +13,7 @@ title: 블랙 – 태양 그 이상
 ---
 
 
-Black은 영국의 싱어송라이터 Colin Vearncombe의 별칭이자 그가 소속된 밴드의 이름입니다.
+Black은 영국의 싱어송라이터 Colin Vearncombe의 별칭이자 그의 밴드 이름입니다.
 
 #### 트랙리스트
 ```md

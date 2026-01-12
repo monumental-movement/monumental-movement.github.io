@@ -13,11 +13,11 @@ title: Freddie McGregor – Carry Go Bring Come
 ---
 
 
-Freddie McGregor est un musicien de reggae jamaïcain. Il n'a que sept ans lorsqu'il commence à enregistrer pour le label Studio One en 1963. En 1975, il se convertit au rastafarianisme.
+Freddie McGregorは、ジャマイカ出身のレゲエミュージシャン。1963年にレーベルStudio One (スタジオ・ワン)でレコーディングを始めた時は、わずか7歳だった。75年にはラスタファリアンに改宗している。
 
-Il est devenu célèbre avec la sortie de "Bobby Babylon" au début des années 1980 et a continué avec de nombreuses chansons à succès, dont "Big Ship", "Push Comes to Shove" et "Just Don't Want to Be Lonely".
+1980年初頭にリリースした「Bobby Babylon」で一躍有名になり、「Big Ship」「Push Comes to Shove」「Just Don't Want to Be Lonely」など数多くのヒット曲を生み出した。
 
-"Carry Go Bring Come" est un album reggae sorti en 1994 avec le producteur Augustus "Gussie" Clarke. Le 14ème morceau est un morceau bonus disponible uniquement sur la version japonaise.
+「Carry Go Bring Come」は、プロデューサーにAugustus "Gussie" Clarke (オーガスタスガッシークラーク)を迎え、1994年にリリースされたレゲエアルバム。14曲目は日本盤のみのボーナストラック。
 
 #### Liste des chansons
 ```md

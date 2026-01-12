@@ -12,13 +12,13 @@ tags:
 - British
 - Folk
 - 80s
-title: Coin de lune – Coin de lune
+title: Mooncoin – Mooncoin
 ---
 
 
-Mooncoin est un duo formé par Mickie Zekley et Michael Hubbert, dont le style est une combinaison de musique irlandaise, de musique celtique et de musique britannique.
+Mooncoinは、Mickie Zekley（ミッキー・ゼクリー）とMichael Hubbert（マイケル・ハバート）によるデュオで、アイルランド音楽、ケルト音楽＆イギリス音楽を組み合わせたスタイルが特徴。
 
-"Mooncoin" est une source sonore rare sortie en 1982 par le label américain Kicking Mule Records.
+「Mooncoin」は、USのレーベルKicking Mule Recordsから1982年にリリースされたレア音源。
 
 
 #### Liste des chansons

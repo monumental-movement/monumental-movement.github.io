@@ -17,7 +17,7 @@ title: '[Kolumne] Tribal House – Vom „primitiven“ Beat zur modernen Fusion
 ## Was ist Stammeshaus?
 
 
-Text: mmr｜Thema: Stammeshaus, das vielschichtige Schlaginstrumente wie afrikanische/lateinische (Conga, Bongo usw.) integriert, um Four-on-the-Floor unterzubringen.
+Text: mmr｜Thema: Stammeshaus, das vielschichtige Schlaginstrumente wie afrikanische/lateinamerikanische Musik (Congas, Bongos usw.) integriert, um Four-on-the-Floor unterzubringen.
 
 
 Tribal House ist ein Subgenre, das das Four-on-the-Floor-House mit vielschichtigen Schlaginstrumenten wie afrikanischer/lateinamerikanischer Musik (Congas, Bongos usw.) kombiniert. Es zeichnet sich durch eine erlebnisorientierte Struktur aus, die den Schwerpunkt auf Percussion legt, und entwickelte sich in enger Verbindung zu Club-Floor-Formaten und der DJ-Kultur.
@@ -32,7 +32,7 @@ In den späten 1980er und frühen 1990er Jahren begann sich die Clubkultur in Ch
 
 **Sehenswürdigkeiten/Standort**
 - In den Clubs in New York und Chicago waren Anfang der 1990er Jahre DJ-Sets selbst von zentraler Bedeutung für den Ausdruck des Genres.
-- In den Anfängen war die Live-Bearbeitung mit Schallplatten und Plattenspielern der Mainstream.
+- In der Anfangszeit war der Live-Schnitt mit Schallplatten und Plattenspielern der Mainstream.
 
 **Repräsentative Tools (damals)**
 - ターンテーブル：<a href="https://en.wikipedia.org/wiki/Technics_SL-1200">Technics SL-1200</a> 系（現場の標準）。
@@ -60,7 +60,7 @@ In den späten 1980er und frühen 1990er Jahren begann sich die Clubkultur in Ch
 ## Transformation und Kommerzialisierung (2000er Jahre)
 
 **Hintergrund der Zeit**
-In den 2000er Jahren wurden Tribal-Elemente mit Progressive/Electro usw. verschmolzen und die Zahl abgeleiteter Genres nahm zu. Die Produktionsumgebung hat sich von einer Hardware-basierten zu einer DAW-basierten Umgebung verlagert, was es ermöglicht, anspruchsvollere Sounddesigns zu erstellen.
+In den 2000er Jahren wurden Tribal-Elemente mit Progressive/Electro usw. verschmolzen und die Zahl abgeleiteter Genres nahm zu. Die Produktionsumgebung hat sich von einer hauptsächlich auf Hardware basierenden zu einer auf einer DAW basierenden Produktionsumgebung verlagert, wodurch es möglich wird, anspruchsvollere Sounddesigns zu erstellen.
 
 **Änderung der Produktionsmethode**
 - Bearbeitung von Schlaginstrumenten unter umfangreicher Nutzung der Effektverarbeitung (Filter/Reverb/Delay).
@@ -131,7 +131,7 @@ color: #fff;
 
 ---
 
-## Rhythmusreise
+## Reise des Rhythmus
 Tribal House ist nicht nur Clubmusik, sondern eine „rhythmische Reise“, die sich weltweit verbreitet hat und sich mit jeder Ära verändert. Es wird weiterhin Aufmerksamkeit erregen als ein Genre, das sich durch die Verschmelzung von Technologie weiterentwickelt und gleichzeitig seine afrikanischen Wurzeln übernimmt.
 
 

@@ -10,15 +10,15 @@ tags:
 - Disco
 - Soul
 - 80s
-title: Stevie Wonder - Amant à temps partiel
+title: Stevie Wonder – Part-Time Lover
 ---
 
 
-"Part-Time Lover" est sorti en tant que premier single du 20e album studio de l'auteur-compositeur-interprète R&B Stevie Wonder, In Square Circle (1985).
+「Part-Time Lover」は、R&BシンガーソングライターのStevie Wonder の20枚目のスタジオアルバム「In Square Circle(イン・スクエア・サークル)」（1985年）のシングル第1弾としてリリースされた。
 
-La chanson a atteint le numéro un des charts Billboard Hot 100, R&B, Dance et Adult Contemporary, ce qui en fait le dernier succès numéro un de Stevie Wonder.
+この曲は、ビルボード・ホット100、R&B、ダンス、アダルト・コンテンポラリー・チャートで1位を獲得し、Stevie Wonder最後のナンバーワン・ヒット曲となった。
 
-La chanson contient des ad-libs et des chœurs du chanteur R&B Luther Vandross, ainsi que Syreeta Wright et Philip Bailey de Earth, Wind and Fire.
+この曲は、R&BシンガーLuther Vandross(ルーサー・ヴァンドロス)がアドリブとバックボーカルを担当し、Earth, Wind and FireのSyreeta Wright(シリータ・ライト)とPhilip Bailey (フィリップ・ベイリー)をフィーチャーしている。
 
 #### Liste des chansons
 ```md

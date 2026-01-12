@@ -55,7 +55,7 @@ Musik in Science-Fiction-Filmen ist mehr als nur ein „Hintergrund“, der die 
 * **Star Wars 1977**: John Williams‘ symphonische Partitur verlieh der Weltraumoper eine epische Größe.
 * **Blade Runner, 1982**: Vangelis‘ Synthesizermusik symbolisierte die städtischen Neonlichter und die regennasse Dystopie.
 
-### 1990er-2000er Jahre
+### 1990er-2000er
 
 * **1995 Ghost in the Shell**: Kenji Kawais Fusion aus Volksmusik und elektronischer Musik verkörpert eine „posthumane“ Welt.
 * **2001 „A.I.“ und „Minority Report“ **: John Williams erweckte die klassische Struktur erneut zum Leben und verlieh der Stadt der Zukunft eine humanistische Lyrik.
@@ -63,7 +63,7 @@ Musik in Science-Fiction-Filmen ist mehr als nur ein „Hintergrund“, der die 
 ### Seit 2010
 
 * **2014 Interstellar**: Hans Zimmer kombiniert Pfeifenorgel und Synthesizer, um gleichzeitig die Größe des Universums und das Innenleben der Menschen darzustellen.
-* **2021 „DUNE/Dune“**: Ausdruck eines Wüstenplaneten mit Folkmusikelementen + elektronischem Sound, wodurch eine außerirdische Fremdheit entsteht.
+* **2021 „DUNE/Dune“**: Ein Wüstenplanet wird mit Folkmusikelementen + elektronischem Sound zum Ausdruck gebracht, wodurch eine fremdartige Fremdheit entsteht.
 
 ---
 
@@ -86,7 +86,7 @@ Die in Science-Fiction-Filmen verwendete Musik weist die folgenden charakteristi
 * Die Stille des Weltraums und die Präsenz des Unbekannten.
 * Beispiel: Silent Space + klassische Musik aus „2001: Odyssee im Weltraum“.
 
-4. **Fusion von Orchester und elektronischem Sound**
+4. **Fusion von Orchester- und elektronischen Klängen**
 
 * Sowohl Erhabenheit als auch futuristisches Gefühl.
 * Beispiele: „Star Wars“ und „Interstellar“.
@@ -149,7 +149,7 @@ A3. Derzeit werden KI-Kompositionstools zur Erstellung von Science-Fiction-Filmt
 
 * Science-Fiction-Filme und Musik sind untrennbar miteinander verbunden, weil sie ein Gefühl für die Zukunft und eine andere Welt vermitteln.
 * Es wurde auf vielfältige Weise zum Ausdruck gebracht, darunter elektronische Klänge, Synthesizer, Orchester und Ambient.
-* Im Laufe der Geschichte kann man sagen, dass die **Beziehung zwischen Mensch und Technologie** durch Ton visualisiert wurde.
+* Im Laufe der Geschichte kann man sagen, dass die Beziehung zwischen Mensch und Technologie durch Klang visualisiert wurde.
 
 > Zukünftige Science-Fiction-Filmmusik wird durch die Zusammenarbeit zwischen KI und menschlichen Komponisten eine neue Welt eröffnen.
 

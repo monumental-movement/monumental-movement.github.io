@@ -79,7 +79,7 @@ Im Gegensatz zum Rave in Großbritannien konzentriert sich die Szene in Japan au
 
 - **Spielkultur**: DDR- und Musikspiele machten Happy Hardcore vertrauter.
 
-- **Reimportationsphänomen**: Ein Genre, das seinen Ursprung im Vereinigten Königreich hat, entwickelt sich in Japan unabhängig und beeinflusst erneut die Welt.
+- **Reimportationsphänomen**: Ein Genre, das seinen Ursprung in Großbritannien hat, entwickelt sich in Japan unabhängig und beeinflusst erneut die Welt.
 
 <hr>
 
@@ -98,4 +98,4 @@ Im Gegensatz zum Rave in Großbritannien konzentriert sich die Szene in Japan au
 ### Die einzigartige Rolle der japanischen Kultur in der globalen Musikgeschichte
 
 Happy Hardcore entstand ursprünglich aus dem britischen Rave, verschmolz jedoch mit der japanischen Kultur (Anime, Spiele, Doujins, Musikspiele) und bildete eine einzigartige „J-Core“-Kultur.
-Heute wird es mit „Happy Hardcore = Anime-ähnliche Niedlichkeit“ in Verbindung gebracht und Japan hat sich zu einem wichtigen internationalen Stützpunkt entwickelt.
+Heute wird es mit „Happy Hardcore = Anime-ähnliche Niedlichkeit“ in Verbindung gebracht und Japan ist international zu einem wichtigen Stützpunkt geworden.

@@ -18,7 +18,7 @@ title: Morenas – Hazme Soñar(스페셜 보컬 리믹스)
 
 Morenas는 Angelino Albanese, Claudio Collino, Massimino Lippoli, Riccardo Persi와 함께 Italo 하우스 씬의 선구자로 알려진 이탈리아 DJ 겸 프로듀서 Andrea Gemolotto(Cutmaster-G)의 프로젝트입니다.
 
-이탈리아의 Dance/House/Trance/Techno 레이블 DFC에서 1990년에 발매된 Deep House/Ambient 트랙입니다.
+이탈리아 댄스/하우스/트랜스/테크노 레이블 DFC에서 1990년에 발매된 Deep House/Ambient 트랙입니다.
 
 #### 트랙리스트
 ```md

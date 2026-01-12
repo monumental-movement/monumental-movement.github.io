@@ -24,6 +24,6 @@ Peter Grummich travaille également sous les noms de Lee Anderson et Classic Act
 A. Stereo Jack
 ```
 
-*Simple face
+※Simple face
 
 [メルカリで購入](https://jp.mercari.com/item/m32057039971?afid=6142608987){: .button1}

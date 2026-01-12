@@ -75,7 +75,7 @@ Die Grundlagen des experimentellen/abstrakten Hip Hop wurden Ende der 1990er Jah
 
 ---
 
-– Eine wichtige Rolle im New Yorker Underground Ende der 1990er Jahre.
+– Eine wichtige Rolle im New Yorker Untergrund Ende der 1990er Jahre.
 - Einführung von lauten Klängen, segmentiertem Rap und elektronischer Musik.
 - Erweitert die Verbindung zwischen elektronischer Musik und Hip-Hop durch die Unterzeichnung bei Warp Records.
 
@@ -110,7 +110,7 @@ Diese schufen den musikalischen Boden, der direkt zu den späteren Shabazz Palac
 - Kreuzung von Jazz/elektronischer Musik/Hip-Hop mit „Los Angeles“ (2008) und „Cosmogramma“ (2010).
 - Gekennzeichnet durch „pulsierenden nichtlinearen Rhythmus“ und komplexe Abtaststruktur.
 
-### ● Brainfeeder (2008~)
+### ● Brainfeeder (2008～)
 - Von Flying Lotus gegründetes Label.
 - Mit Teebs, Samiyam, Tokimonsta, Thundercat und mehr.
 - Verbreiten Sie die abstrakte Beat-Kultur auf globaler Ebene.
@@ -140,7 +140,7 @@ Im Mittelpunkt des experimentellen Hip-Hop seit den 2000er Jahren steht die „N
 
 ### ● Einfluss von J Dilla
 - Der „humanisierte Swing“ und der „Drunk Beat“ in „Donuts“ aus dem Jahr 2006 hatten einen entscheidenden Einfluss auf spätere Generationen.
-- Sein Stil, sich nicht vollständig an das Raster zu halten und absichtliche Abweichungen und Störungen zu hinterlassen, durchdrang die LA-Beat-Szene und die Arbeit von Flying Lotus.
+- Sein Stil, dem Raster nicht vollständig zu folgen und absichtliche Abweichungen und Störungen zu hinterlassen, durchdrang die LA-Beat-Szene und die Arbeit von Flying Lotus.
 
 ### ● Struktur von „Drunk Beat“
 - Kick und Snare sind einige Millisekunden außerhalb der Reihenfolge.

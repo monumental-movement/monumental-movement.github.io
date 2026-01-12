@@ -37,7 +37,7 @@ Acid Jazz ist vor allem in Großbritannien populär geworden und interpretiert J
 
 - **Ausstattungsmerkmale**
 -Akai MPC60/S1000
-- Roland TR-808 / TR-909
+-Roland TR-808 / TR-909
 - Hauptsächlich Plattenspieler und Sampler
 
 <style type="text/css">
@@ -216,12 +216,12 @@ Im Zeitalter von Streaming und KI wurde Future Jazz neu bewertet und mit modular
 | 1 | Alfa Mist | Weiter so | Melancholischer Future Jazz. |
 | 2 | Kamaal Williams | Warte | Ein repräsentatives zeitgenössisches Jazzstück aus London. |
 | 3 | Shabaka Hutchings | Hektik | Spirituell und kraftvoll. |
-| 4 | Nubya Garcia | Tempo | Saxophon sticht hervor. |
+| 4 | Nubya Garcia | Tempo | Saxophon sticht heraus. |
 | 5 | Blue Lab Beats | Ananas | Eine Fusion aus Hip-Hop und Jazz. |
 | 6 | Kokoroko | Abusey-Kreuzung | Melancholisch und schön. |
 | 7 | Gleitkommazahlen | LesAlpx | Electronica und Jazz-Fusion. |
 | 8 | Tom Misch & Yussef Dayes | Was für eine Musik | Moderne Interpretationen von Pop und Jazz. |
-| 9 | Makaya McCraven | Herbst in New York | Eine Fusion aus Improvisation und Schnitt. |
+| 9 | Makaya McCraven | Herbst in New York | Eine Fusion aus Improvisation und Bearbeitung. |
 | 10 | Immanuel Wilkins | Ferguson – eine amerikanische Tradition | Eine Verschmelzung von Geselligkeit und musikalischem Ausdruck. |
 
 ---

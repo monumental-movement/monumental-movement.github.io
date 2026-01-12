@@ -9,12 +9,12 @@ permalink: /ko/yellow-magic-orchestra-x-multiplies-us/
 tags:
 - JPop
 - Techno
-title: 옐로 매직 오케스트라 - X무표기
+title: 옐로 매직 오케스트라 – X무표기
 ---
 
 
 1980년 7월 A&M 레코드가 미국에서 발매한 YMO의 베스트 앨범.
-옐로 매직 오케스트라 – 멀티프라이즈”.
+옐로 매직 오케스트라 - 멀티프라이즈'.
 
 日本盤は[こちら](https://monumental-movement.jp/Yellow-Magic-Orchestra-X-Multiplies/)
 

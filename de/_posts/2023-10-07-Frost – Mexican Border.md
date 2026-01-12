@@ -14,7 +14,7 @@ title: Frost – mexikanische Grenze
 
 
 „Mexikanische Grenze“ ist
-Dies ist eine Single von Kid Frost, richtiger Name Arturo Molina Jr., veröffentlicht von Ruthless Records.
+Dies ist eine Single von Kid Frost, der mit bürgerlichem Namen Arturo Molina Jr. heißt und von Ruthless Records veröffentlicht wurde.
 
 #### Trackliste
 ```md

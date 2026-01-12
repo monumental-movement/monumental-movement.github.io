@@ -11,7 +11,7 @@ tags:
 - Idol
 - Jpop
 title: '[Chronique] Pourquoi le visual kei et la culture des idoles traversent les
-  frontières : la structure de sympathie internationale de la musique de sous-culture'
+  frontières : la structure de sympathie internationale de la musique sous-culturelle'
 ---
 
 
@@ -97,15 +97,15 @@ En raison de cette « réédition », la musique de la sous-culture japonaise es
 
 ## Chapitre 4 : Identité post-nationale et croisement de genre
 
-Ce que les fans de visual kei et d’idoles étrangers ont en commun, c’est leur empathie pour la fluidité du genre et de l’identité.
-L'esthétique androgyne du Visual Kei et la grammaire du "mignon = renversement du pouvoir" dans la culture idole,
+Ce que les fans de visual kei et d’idols étrangers ont en commun, c’est leur empathie pour la fluidité du genre et de l’identité.
+L'esthétique androgyne du Visual Kei et la grammaire du « mignon = renversement du pouvoir » dans la culture idole,
 Il se connecte également à la communauté LGBTQ+ et à la théorie queer.
 
 Par exemple, YOSHIKI de X JAPAN et HYDE de L'Arc~en~Ciel portent des expressions féminines même s'ils sont masculins.
 Cela a été sublimé sous le nom de « direction ».
 Cette ambiguïté est la raison pour laquelle il a été accepté dans le monde entier comme une figure expressive de l’ère post-genre.
 
-De plus, la manière dont de jeunes idoles féminines comme BABYMETAL « subvertissent cérémonieusement » la scène métal dominée par les hommes,
+De plus, la manière dont de jeunes idoles féminines comme BABYMETAL « subvertissent cérémonieusement » la scène metal dominée par les hommes,
 Cela a également permis une interprétation féministe.
 En d’autres termes, la musique de la sous-culture japonaise exprime des expressions « non nationales » et « non sexuelles ».
 En conséquence, il s’est transformé en une structure empathique post-nationale.
@@ -120,7 +120,7 @@ Cependant, le visual kei et la culture des idoles ont survécu avec une « gramm
 
 Si la force de la K-POP réside dans sa précision en tant que « produit achevé »,
 La musique de la sous-culture japonaise parle d'« imperfection » et de « proximité ».
-En d'autres termes, la valeur est **beaucoup de marge pour l'intervention des fans**.
+En d’autres termes, la valeur correspond à la marge d’intervention du ventilateur.
 La raison pour laquelle les fans étrangers sont attirés par les idoles underground japonaises et le visual kei indépendant est que
 C'est parce que je sympathise avec sa « nature ouverte et inachevée ».
 
@@ -135,7 +135,7 @@ Aujourd'hui, le visual kei et les idoles ne sont plus exclusifs à la « culture
 Groupes de visual kei brésiliens, événements d'idoles underground françaises, festivals de doujin américains...
 Partout dans le monde, nous évoluons de « l’imitation » à la « co-création ».
 
-L'essence de la musique de sous-culture réside dans **le développement de l'empathie grâce à une traduction à plusieurs niveaux**.
+L'essence de la musique de sous-culture réside dans la **construction de l'empathie grâce à une traduction à plusieurs niveaux**.
 Les expressions originaires du Japon sont reconfigurées comme des miroirs d'autres cultures,
 Une nouvelle sensibilité s’y ajoute. Ce cycle est
 Il s'agit d'une nouvelle forme de « musique qui transcende les frontières ».

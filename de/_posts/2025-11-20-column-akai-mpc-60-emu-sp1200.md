@@ -18,7 +18,7 @@ title: '[Spalte] Das goldene Zeitalter der 12-Bit-Sampler: MPC60/SP-1200'
 ## Kapitel 1: Einführung – Warum 12bit?
 
 
-Text: mmr | Thema: Über den „12-Bit-Sampler“, der in den 1980er bis frühen 1990er Jahren eine zentrale Rolle in der Musikproduktion spielte.
+Text: mmr｜Thema: Über den 12-Bit-Sampler, der in den 1980er bis frühen 1990er Jahren eine zentrale Rolle in der Musikproduktion spielte.
 
 Der 12-Bit-Sampler war nicht nur ein „technologischer Zwischenschritt“, er erzeugte ungewollte Klangeigenschaften, was zu einer neuen Produktionsmethode und Musiksprache führte. In den Tagen, bevor „hohe Auflösung“ wie 16-Bit und 24-Bit idealisiert wurden, erzeugte 12-Bit in Kombination mit Speicherbeschränkungen einzigartige Klangkonturen, Verzerrungen und Quantisierungsrauschen. Für viele Produzenten war dies kein Nachteil, sondern eher ein Rohstoff für die Klanggestaltung.
 
@@ -44,7 +44,7 @@ color: #fff;
 
 Beim Prozess (Abtastung) der Aufteilung analoger Signale in numerische Werte durch Aufteilung in feste Zeitintervalle gibt es zwei Hauptparameter: **Abtastfrequenz (Hz)** und **Quantisierungsbittiefe (Bit)**. Die Abtastfrequenz wird durch die Nyquist-Theorie beschrieben und die Quantisierungsbittiefe hängt mit dem Dynamikbereich und dem Quantisierungsrauschen zusammen.
 
-* **12bit**: Theoretisch beträgt der Dynamikbereich etwa 72 dB (ideale Bedingungen). Tatsächlich variiert der effektive Dynamikbereich aufgrund der Auswirkungen von Schaltungsrauschen und analogen Pfaden je nach verwendeter Ausrüstung.
+* **12bit**: Theoretisch beträgt der Dynamikbereich ca. 72dB (ideale Bedingungen). Tatsächlich variiert der effektive Dynamikbereich aufgrund der Auswirkungen von Schaltungsrauschen und analogen Pfaden je nach verwendeter Ausrüstung.
 
 ### 2.2 12-Bit-Akustikeigenschaften
 
@@ -168,7 +168,7 @@ Samples mit niedriger Auflösung eignen sich effektiv zum Erstellen von Texturen
 
 ## Kapitel 8: Wichtige Künstler und Anwendungsbeispiele
 
-> Im Folgenden finden Sie einen Auszug von Anwendungsbeispielen, die auf sachlichen Informationen wie öffentlichen Interviews, Credits, Fachartikeln und offiziellen Dokumenten basieren.
+> Nachfolgend finden Sie Auszüge von Anwendungsbeispielen, die auf sachlichen Informationen wie öffentlichen Interviews, Credits, Fachartikeln und offiziellen Dokumenten basieren.
 
 <div class="mermaid">
 
@@ -190,7 +190,7 @@ flowchart TD
 
 ## Kapitel 9: UI/UX und Instrumentierung – Etablierung eines Leistungsansatzes mithilfe von MPC
 
-Die MPC-Serie machte das Konzept eines „Samplers = eines zu spielenden Instruments“ populär. Insbesondere die 16 Pads, die Pad-Empfindlichkeit, die geringe Latenz für sofortige Wiedergabe und der integrierte Sequenzer ermöglichen das Improvisieren, und der Einsatz bei Live-Auftritten und spontanen Sessions hat zugenommen. Die Tatsache, dass die Verschmelzung von Roger Linns Designphilosophie (die den menschlichen Spielsinn betont) und Akais Produktdesign zum Erfolg des MPC60 beitrug, wird durch mehrere Entwicklerinterviews untermauert.
+Die MPC-Serie machte das Konzept eines „Samplers = eines zu spielenden Instruments“ populär. Insbesondere die 16 Pads, die Pad-Empfindlichkeit, die geringe Latenz für sofortige Wiedergabe und der integrierte Sequenzer ermöglichen das Improvisieren, und der Einsatz bei Live-Auftritten und spontanen Sessions hat zugenommen. Die Tatsache, dass die Verschmelzung der Designphilosophie von Roger Linn (die den menschlichen Sinn für Leistung betont) und des Produktdesigns von Akai zum Erfolg des MPC60 beitrug, wird durch mehrere Entwicklerinterviews untermauert.
 
 ---
 

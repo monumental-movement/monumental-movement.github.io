@@ -21,7 +21,7 @@ title: '[Kolumne] Der „Klang des Euro“ ändert sich je nach Landesgrenze: It
 Text: mmr | Thema: Genre: Musikkolumne | Thema: Vergleichende Analyse der europäischen Musik der 90er Jahre nach Produktionsland
 
 
-Obwohl sie oft als „Euromusik“ bezeichnet wird, unterscheiden sich in Wirklichkeit die „Klangtextur“ und der „ästhetische Sinn“ je nach dem Land, in dem sie produziert wurde.
+Obwohl sie oft als „Euro-Musik“ bezeichnet wird, unterscheiden sich in Wirklichkeit die „Klangtextur“ und der „ästhetische Sinn“ je nach dem Land, in dem sie produziert wurde.
 In den 1990er Jahren waren die Hauptschauplätze für dieses Genre **Italien, Deutschland und Schweden**.
 Basierend auf ihrem jeweiligen kulturellen, industriellen und technologischen Hintergrund exportierten sie ihren eigenen „Sound des Euro“ in die Welt.
 
@@ -108,7 +108,7 @@ color: #fff;
 | Schnapp! | *Weltmacht* (1990) | Enthält die Welthits „The Power“ und „Rhythm Is a Dancer“ |
 | Kulturschlag | *Serenity* (1993) | Cluborientierter Eurotanz. „Mr. Vain“ ist das repräsentative Lied |
 | Echter McCoy | *Another Night* (1995) | Amerikanisch-deutsche Hybrideinheit. Hits „Another Night“ und „Run Away“ |
-| U96 | *Das Boot* (1992) | Techno/Trance-orientiert. Titelsong ist ein Clubhit |
+| U96 | *Das Boot* (1992) | Techno-Trance-orientiert. Titelsong ist ein Clubhit |
 | Roller | *Our Happy Hardcore* (1996) | Harter Tanz-Euro. Repräsentatives Lied „Hyper Hyper“ |
 
 ---
@@ -120,7 +120,7 @@ color: #fff;
 - **Eigenschaften**: Cooler Sound, pop-orientierte englische Texte, sanfter Mix
 
 **Klangeigenschaften**
-- Popartige Struktur, leicht zu hören und zugänglich
+- Pop-Struktur, leicht zu hören und zugänglich
 - Viele Songs sind mittelschnell und balladenartig.
 - Moderater Rhythmus, Schwerpunkt auf Melodie und Gesang
 - Polierte Mischung und Produktionsklarheit
@@ -166,6 +166,6 @@ color: #fff;
 
 ### Euro-Musik war keine „nationale Musik“, sondern „nationaler Klang“
 Der größte Reiz der europäischen Musik der 1990er-Jahre besteht darin, dass sie zwar als „universelle Sprache“ fungiert, aber tatsächlich tief in die Kulturen und Ästhetiken jedes Landes eingebettet ist.
-Auch wenn sie alle ähnlich sind, unterscheiden sich die Hitze Italiens, die Härte Deutschlands und die Kühle Schwedens deutlich.
+Auch wenn sie ähnlich sind, unterscheiden sich die Hitze Italiens, die Härte Deutschlands und die Kühle Schwedens deutlich.
 
 Musik entsteht an der Schnittstelle von Globalem und Lokalem. Das könnte die Essenz des Euro der 1990er Jahre sein.

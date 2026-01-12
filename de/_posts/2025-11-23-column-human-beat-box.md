@@ -51,7 +51,7 @@ In den 1990er Jahren verbreitete sich Beatboxing durch Radio- und Live-Auftritte
 # 2. Gründung und Internationalisierung der Weltkonvention
 
 ## ◆ Anfang der 2000er Jahre: Etablierung der Turnierkultur
-Erst nach den 2000er Jahren nahm eine globale Turnierkultur Gestalt an.
+Seit den 2000er Jahren hat sich eindeutig eine globale Turnierkultur herausgebildet.
 
 - **Beatbox Battle World Championship (BBWC)**
 Eine Weltmeisterschaft in Deutschland. Es wird mehrere Kategorien geben, z. B. Solo, Tag und Crew.
@@ -129,7 +129,7 @@ Zu den Stärken Japans gehören insbesondere „Tongenauigkeit“, „Kompositio
 # 5. Japanische Beatbox-Kultur und Eigenschaften
 
 ## ◆ 1. Gemeinschaftskultur
-In Japan hat es sich seit Mitte der 2000er Jahre auf Straßen und Veranstaltungen verbreitet, und Techniken werden durch Übungsstunden und Wettbewerbe zwischen Künstlern weitergegeben.
+In Japan hat es sich seit Mitte der 2000er Jahre auf den Straßen und bei Veranstaltungen verbreitet, und die Techniken werden zwischen den Künstlern durch Übungsstunden und die Teilnahme an Wettbewerben weitergegeben.
 
 ## ◆ 2. Starke technische Ausrichtung
 Japanische Spieler zeichnen sich durch Klanggenauigkeit und Liebe zum Detail aus und werden sogar von ausländischen Spielern gelobt.
@@ -179,7 +179,7 @@ Die Merkmale sind:
 - Klare und dichte Aussprache
 - Kompositionsfähigkeit in Einheiten eines Taktes
 
-Insbesondere gehört er zu den Spielertypen, die über ein hohes Maß an Organisation und technischen Fähigkeiten verfügen und von ausländischen Spielern für seine „japanische Präzision“ gelobt werden.
+Er gehört insbesondere zu den Spielertypen, die über ein hohes Maß an Organisation und technischen Fähigkeiten verfügen und von ausländischen Spielern als „japanische Präzision“ gelobt werden.
 
 ---
 
@@ -200,7 +200,7 @@ Es ist in diesem Teil.
 - Entwicklung, die den Schalldruck nutzt
 - Einbindung detaillierter Technologie in Schlüsselpunkte
 
-Unter den jüngsten japanischen Spielern ist er ein Spieler mit einem Ton, der bei Live-Auftritten heraussticht.
+Unter den neueren japanischen Spielern ist er ein Spieler mit einem Ton, der bei Live-Auftritten heraussticht.
 
 ---
 
@@ -218,7 +218,7 @@ Die Kategorie, die in den letzten Jahren die meiste Aufmerksamkeit erhalten hat,
 Es gibt ein starkes Musikproduktionselement.
 
 ## ◆ Vitrinen / Ausstellung
-Betonung der Musikalität. Mit zunehmender Reife der Turnierkultur kamen neue Formate hinzu.
+Schwerpunkt auf Musikalität. Mit zunehmender Reife der Turnierkultur kamen neue Formate hinzu.
 
 ---
 
@@ -240,13 +240,13 @@ timeline
 
 # 9. Beatbox-Trends auf der ganzen Welt und in der Zukunft
 
-## ◆ 1. Die Grenze zwischen Musikproduktion verschwimmt
+## ◆ 1. Die Grenze zwischen Musikproduktion ist fließend
 Mit der Entwicklung von Loopstation, Beatboxen
 **"Echtzeitversion der Musikproduktion"**
 Hin zu einem Bereich, der angerufen werden kann
 
 ## ◆ 2. Kombination mit visueller Kultur
-Die Zahl der „videobasierten Showcases“ nimmt bei Turnieren auf der ganzen Welt zu.
+„Videobasierte Showcases“ nehmen bei Wettbewerben auf der ganzen Welt zu.
 Wir leben in einer Zeit, in der SNS den Stil beschleunigt.
 
 ## ◆ 3. Zukunft der japanischen Stärken
@@ -254,7 +254,7 @@ Japan ist
 
 - Technische Präzision
 - Präzision
-- Organisationstalent
+- Arrangementfähigkeit
 - Visueller Ausdruck
 
 In dieser Hinsicht verfügt es über eine internationale Stärke.
@@ -267,6 +267,6 @@ Wir können davon ausgehen, dass er weiterhin sowohl im Loopstation-Bereich als 
 Human Beatbox ist eine moderne Ausdruckskultur, die viele Aspekte wie Musik, Performance, Video und Komposition vereint.
 Jetzt, wo die Wettbewerbskultur ausgereift ist, sich die Technologie weiterentwickelt und japanische Künstler auftauchen, erfährt Beatboxing große Veränderungen und Beatboxing wird mehr als nur eine Technik, es wird zu einem internationalen Musikgenre.
 
-Ich hoffe, dass dieser Artikel einen Hinweis zum Verständnis der Geschichte und Zukunft des Beatboxens liefert.
+Ich hoffe, dass dieser Artikel Ihnen hilft, die Geschichte und Zukunft des Beatboxens zu verstehen.
 
 ---

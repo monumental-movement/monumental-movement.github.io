@@ -14,7 +14,7 @@ title: James Brown – Es ist eine Männerwelt
 ---
 
 
-Dieses Lied wurde von James Brown geschrieben und gilt als eines seiner Meisterwerke. Das Lied wurde 1966 veröffentlicht und gilt aufgrund seiner kraftvollen und emotionalen Darbietung als Meisterwerk der Soulmusik.
+Dieses Lied wurde von James Brown geschrieben und gilt als eines seiner Meisterwerke. Dieses Lied wurde 1966 veröffentlicht und gilt mit seiner kraftvollen und emotionalen Darbietung als Meisterwerk der Soulmusik.
 
 Der Text dieses Liedes handelt von einer von Männern dominierten Welt, drückt aber gleichzeitig Dankbarkeit gegenüber Frauen aus. Browns kraftvoller Gesang und emotionaler Gesang hinterlassen beim Zuhörer tiefe Eindrücke und heben ihre Präsenz hervor.
 

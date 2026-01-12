@@ -16,7 +16,7 @@ title: 스피릿 캐처 – Voo Doo Knight
 
 Spirit Catcher는 벨기에 프로듀서 Jean Vanesse와 Thomas Sohet가 결성한 듀오입니다. 그는 Only Freak라는 이름으로도 활동하고 있습니다.
 
-"Voo Doo Knight"는 핀란드 DJ이자 프로듀서인 Sasse의 레이블 Moodmusic이 2004년에 발표한 Tech House 트랙입니다.
+"Voo Doo Knight"는 핀란드 DJ이자 프로듀서인 Sasse의 레이블 Moodmusic에서 2004년에 발표한 Tech House 트랙입니다.
 
 #### 트랙리스트
 ```md

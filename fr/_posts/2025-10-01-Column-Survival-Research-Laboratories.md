@@ -78,7 +78,7 @@ Influence : Le son établi de SRL qui se situe entre « le bruit et la musique �
 
 Rôle : Ingénieur en robotique
 
-Réalisations : Responsable du système de contrôle mécanique et de la conception électrique. Développement de grands bras robotisés et de machines mobiles.
+Réalisations : Responsable du système de contrôle mécanique et de la conception électrique. Développement de grands bras robotiques et de machines mobiles.
 
 ---
 

@@ -20,7 +20,7 @@ title: '[Chronique] Electronique Progressive / Berlin School'
 Texte : mmr｜Thème : Musique électronique progressive et musique électronique de la Berlin School de la fin des années 1960 à nos jours
 
 
-La musique électronique du XXe siècle a vu le jour dans le domaine de la recherche universitaire et de l’art expérimental. Suite au développement des instruments électroniques dans les années 1920 et 1930, à la technologie des bandes magnétiques après la guerre et à la création de studios de musique concrète et de musique électronique dans les années 1950, un environnement a commencé à émerger à la fin des années 1960 permettant aux compositeurs individuels de créer de la musique électronique en dehors du studio. Au milieu de ce changement, une série de musique électronique progressive, connue plus tard collectivement sous le nom d'« École de Berlin », s'est établie principalement en Allemagne de l'Ouest.
+La musique électronique du XXe siècle a vu le jour dans le domaine de la recherche universitaire et de l’art expérimental. Suite au développement des instruments de musique électroniques dans les années 1920 et 1930, à la technologie des bandes magnétiques après la guerre et à la création de studios de musique concrète et de musique électronique dans les années 1950, un environnement a commencé à émerger à la fin des années 1960 permettant aux compositeurs individuels de créer de la musique électronique en dehors du studio. Au milieu de ce changement, une série de musique électronique progressive, connue plus tard collectivement sous le nom d'« École de Berlin », s'est établie principalement en Allemagne de l'Ouest.
 
 La Berlin School n’est pas un mouvement unifié ni une école officielle au sens strict du terme. C'est un nom qui a été unifié dans les recherches et critiques ultérieures sur l'histoire de la musique en raison du fait que plusieurs compositeurs travaillaient dans une zone métropolitaine, un environnement technologique et des intérêts musicaux communs. Au cœur du groupe se trouvent des compositeurs et des projets tels que Tangerine Dream, Klaus Schulze et Ash Ra Tempel (plus tard Ashra).
 
@@ -50,7 +50,7 @@ Dans les années 1960, les synthétiseurs modulaires font leur apparition. Il es
 
 ### Point de contact entre rock et avant-garde
 
-Dans le même temps, un mouvement visant à fusionner le rock et l’art d’avant-garde prenait de l’ampleur en Allemagne de l’Ouest. En réponse au rock britannique et américain, des groupes intégrant activement l'improvisation, la répétition et les sons électroniques ont émergé. Le contexte de ce qui sera plus tard appelé « krautrock » et de la musique électronique de la Berlin School s'est développé de manière géographiquement et humainement imbriquée.
+Dans le même temps, un mouvement visant à fusionner le rock et l’art d’avant-garde prenait de l’ampleur en Allemagne de l’Ouest. En réponse au rock britannique et américain, des groupes intégrant activement l'improvisation, la répétition et les sons électroniques ont émergé. Le contexte de ce que l'on appellera plus tard le « krautrock » et la musique électronique de la Berlin School se sont développés de manière géographiquement et humainement imbriquée.
 
 ---
 
@@ -102,7 +102,7 @@ La Berlin School se situe entre la musique électronique académique et la musiq
 
 Avec la diffusion des synthétiseurs numériques et du MIDI, l'environnement de production a radicalement changé. Les limitations inhérentes aux équipements analogiques ont été réduites et la reproductibilité s'est améliorée. D’un autre côté, la contingence observée au début de la Berlin School est réduite.
 
-Durant cette période, la méthode de la Berlin School est réinterprétée comme le prototype de la techno et de la transe. La fusion de rythmes et de séquences répétitifs prend un nouveau sens dans le contexte de la musique dance.
+Durant cette période, la méthode de la Berlin School est réinterprétée comme le prototype de la techno et de la transe. La fusion de rythmes et de séquences répétitifs prend un nouveau sens dans le contexte de la dance music.
 
 ---
 
@@ -114,7 +114,7 @@ Au 21e siècle, les synthétiseurs modulaires sont réévalués. La méthode de 
 
 ## Chapitre 7 Analyse détaillée des fondements techniques
 
-Ce chapitre organise les éléments techniques spécifiques qui ont établi l'École de Berlin en les divisant en trois niveaux : les instruments de musique, les systèmes de contrôle et les techniques d'enregistrement.
+Dans ce chapitre, nous organiserons les éléments techniques spécifiques qui ont établi la Berlin School en les divisant en trois niveaux : les instruments de musique, les systèmes de contrôle et les techniques d'enregistrement.
 
 ### Synthétiseur modulaire analogique
 

@@ -45,7 +45,7 @@ color: #fff;
 
 ## Strukturannahmen in Metall
 
-Um Avantgarde-Metal zu verstehen, muss zunächst geklärt werden, was die Prämisse hinter normalem Metal ist.
+Um Avantgarde-Metal zu verstehen, muss zunächst geklärt werden, was die Prämisse hinter regulärem Metal ist.
 
 Traditionelles Metall wurde als eine Sammlung struktureller Annahmen wie die folgenden gebildet.
 
@@ -77,7 +77,7 @@ An diesem Wendepunkt wurde der Avantgarde-Metal geboren. Anstatt die Geschwindig
 
 ## Etablierung von strukturellem Avantgarde-Metall
 
-Wenn die Struktur problematisch wird, tritt Metall in eine neue Phase über. Riffs werden zu Fragmenten und nicht zu sich wiederholenden Einheiten, Taktarten werden zu Störungen statt zu Standards, und Songs entwickeln sich eher als irreversible Veränderungen als als Zyklen.
+Wenn die Struktur problematisch wird, tritt Metall in eine neue Phase ein. Riffs werden zu Fragmenten und nicht zu sich wiederholenden Einheiten, Taktarten werden zu Störungen statt zu Standards, und Songs entwickeln sich eher als irreversible Veränderungen als als Zyklen.
 
 ---
 
@@ -85,7 +85,7 @@ Wenn die Struktur problematisch wird, tritt Metall in eine neue Phase über. Rif
 
 Gorguts haben den Death Metal selbst von innen heraus zerlegt und dabei sein Vokabular voll ausgeschöpft.
 
-In ihrer Musik sind Riffs vorhanden, aber nicht treibend, Taktarten sind notiert, aber instabil, und Entwicklungen werden eher als Brüche denn als Kontinuität wahrgenommen. Dies ist keine Einführung von Elementen außerhalb des Genres, sondern ein avantgardistischer Effekt, der durch die Verzerrung der internen Grammatik entsteht.
+In ihrer Musik sind Riffs vorhanden, aber ohne treibende Kraft, Taktarten sind notiert, aber instabil, und Entwicklungen werden eher als Brüche als als Kontinuität wahrgenommen. Dabei handelt es sich nicht um eine Einführung von Elementen außerhalb des Genres, sondern um einen avantgardistischen Effekt, der durch die Verzerrung der internen Grammatik entsteht.
 
 ---
 
@@ -105,7 +105,7 @@ flowchart TD
 
 ## Rhythmusstruktur von Gorguts
 
-Gorguts löscht den Zähler nicht, sondern erzeugt einen Zustand, in dem dem Zähler nicht vertraut werden kann. Die Phrasen passen sich nicht dem Takt an, und anstatt die Doppelschläge zu betonen, spielen die Trommeln eine Rolle bei der Unterdrückung des Taktgefühls.
+Gorguts löscht den Zähler nicht, sondern erzeugt einen Zustand, in dem dem Zähler nicht vertraut werden kann. Die Phrasen passen sich nicht dem Takt an, und anstatt die Doppelschläge zu betonen, übernehmen die Trommeln die Aufgabe, den Takt zu unterbrechen.
 
 Dieser Rhythmus ist kein Polyrhythmus, sondern sollte als beat-dekonstruierter Rhythmus bezeichnet werden.
 
@@ -115,7 +115,7 @@ Dieser Rhythmus ist kein Polyrhythmus, sondern sollte als beat-dekonstruierter R
 
 In Obscura werden Gorguts‘ Strukturideen in extremer Form umgesetzt. Die Songs sind keine Ansammlung von Riffs, sondern eine Kette fragmentierter Tonhöhenanordnungen und instabiler Rhythmen.
 
-* Es gibt keine hierarchische Beziehung zwischen den Riffs
+* Es gibt keine hierarchische Beziehung zwischen Riffs
 * Eine Änderung der Taktart weist nicht auf eine strukturelle Änderung hin
 * Dissonanz wird zur Norm und die Konzepte von Spannung und Entspannung verschwinden.
 
@@ -154,7 +154,7 @@ flowchart TD
 
 ## Rhythmusatmung
 
-Ihr Rhythmus ist kein Takt, sondern ähnelt eher dem Atem oder der Länge einer Geschichte. Das Tempo ist nicht festgelegt und das Schlagzeug spielt eher eine Rolle bei der Regulierung der räumlichen Dichte als bei der Einhaltung der Zeit.
+Ihr Rhythmus ist kein Takt, sondern ähnelt eher dem Atem oder der Länge einer Geschichte. Das Tempo ist nicht festgelegt und das Schlagzeug spielt eher eine Rolle bei der Regulierung der räumlichen Dichte als als Zeitmesser.
 
 ---
 
@@ -166,7 +166,7 @@ In „Bath“ sind der intensive Metal-Teil und der ruhige Kammermusik-Teil klar
 
 ## Albumanalyse: Maudlin of the Well „Leaving Your Body Map“
 
-In dieser Arbeit geht die Trennung der Strukturen noch weiter. Die Lieder sind als Übergänge von Zuständen und nicht als Entwicklungen strukturiert, und das Konzept des Höhepunkts verschwindet praktisch.
+In dieser Arbeit geht die Trennung der Strukturen noch weiter. Die Lieder sind eher als Übergänge von Zuständen denn als Entwicklungen strukturiert, und das Konzept des Höhepunkts verschwindet praktisch.
 
 ---
 
@@ -177,7 +177,7 @@ In dieser Arbeit geht die Trennung der Strukturen noch weiter. Die Lieder sind a
 | Methode | Abriss | Schichtung |
 | Zeit | Bruch | Parallel |
 | Rhythmus | Zerstörung des Pulsgefühls | Atemkontrolle |
-| Dissonanz | Strukturelle Bewaffnung | Raumrichtung |
+| Dissonanz | Strukturelle Bewaffnung | Raumproduktion |
 
 ---
 

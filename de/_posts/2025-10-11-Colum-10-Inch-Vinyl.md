@@ -19,11 +19,11 @@ title: '[Spalte] 10-Zoll-Versuchung: Die Klangästhetik, die das Format vermitte
 ## „Zwischenformat“ von 10 Zoll
 
 
-Text: mmr｜Thema: Weder 7 Zoll noch 12 Zoll. Das 10-Zoll-Zwischenformat erzählt von Klangästhetik und Erinnerungen an die Zeit.
+Text: mmr｜Thema: Weder 7 Zoll noch 12 Zoll. Die Klangästhetik und Erinnerungen an die Zeit erzählt das 10-Zoll-Mittelformat
 
 
 10-Zoll-Schallplatte.
-In diesem Wort liegt eine gewisse Mehrdeutigkeit. Es hat eine einzigartige, aber halbfertige Präsenz, die sich von der unmittelbaren Wirkung einer 7-Zoll-Single oder dem befriedigenden Gefühl einer 12-Zoll-LP unterscheidet. Wenn wir einen Blick auf die Geschichte der Schallplatten werfen, können wir erkennen, dass dieses „Zwischenformat“ einen Wendepunkt in der Zeit markierte.
+In diesem Wort liegt eine gewisse Mehrdeutigkeit. Es hat eine einzigartige, aber halbfertige Präsenz, die sich von der unmittelbaren Wirkung einer 7-Zoll-Single oder dem befriedigenden Gefühl einer 12-Zoll-LP unterscheidet. Wenn wir einen Blick auf die Geschichte der Schallplatten werfen, können wir sehen, dass dieses „Zwischenformat“ einen Wendepunkt in der Zeit markierte.
 
 10 Zoll ist nicht nur eine Frage der Größe. Es war auch eine andere Philosophie, die „Zeitdauer“ und „Klangdichte“ neu definierte. Die Beschränkung auf etwa 10 Minuten pro Seite zwang Künstler und Ingenieure, sich für „Kondensation“ zu entscheiden, und das Ergebnis war ein überraschend klar definierter Klang und ein Hörerlebnis, das Konzentration erforderte.
 
@@ -57,7 +57,7 @@ Darüber hinaus reduziert die kleine Platinenoberfläche interne Verzerrungen, w
 
 ---
 
-### 10-Zoll-Goldenes Zeitalter der 1950er Jahre: Experimentierfeld für Jazz und klassische Musik
+### 10-Zoll-Goldenes Zeitalter der 1950er Jahre: Das Experimentierfeld für Jazz und klassische Musik
 
 Das 10-Zoll-Format erreichte seinen Höhepunkt zu Beginn des Jazz in den frühen 1950er Jahren.
 Labels wie Blue Note, Prestige und Clef beschränkten die Experimente der Künstler auf das 10-Zoll-Format.

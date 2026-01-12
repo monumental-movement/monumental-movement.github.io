@@ -43,7 +43,7 @@ color: #fff;
 
 Das primitivste Musikinstrument der Menschheitsgeschichte ist die Stimme, und der gemeinschaftliche Ausdruck mehrerer Menschen durch die Stimme hat sich eng mit religiösen Ritualen und Gemeinschaftsstrukturen entwickelt.
 Das moderne Bild von „Chor = disziplinierte, homogene Harmonie“ ist jedoch eigentlich nur eine Reihe von Werten, die während eines begrenzten Zeitraums vom 19. bis zum 20. Jahrhundert vorherrschend wurden.
-In der zweiten Hälfte des 20. Jahrhunderts, mit dem Aufkommen der Avantgarde-Musik und Fortschritten in der Akustik, wurde der Chorgesang dramatisch erweitert, da die Stimme wiederentdeckte, dass sie mehr konnte.
+In der zweiten Hälfte des 20. Jahrhunderts, mit dem Aufkommen der Avantgarde-Musik und Fortschritten in der Akustik, wurde der Chorgesang dramatisch ausgeweitet, da die Stimme wiederentdeckte, dass sie mehr konnte.
 
 Chor-/Gesangsexperimental ist ein Feld, das im Zuge der Wiederentdeckung etabliert wurde, und es ist zutreffender, es als eine Gruppe von Methoden zur Maximierung des künstlerischen Potenzials der Stimme zu betrachten und nicht nur als ein Genre.
 
@@ -177,7 +177,7 @@ Aktuelle Experimente verwenden manchmal Echtzeitverarbeitung und Mehrkanalvertei
 * Tonhöhenverschiebung
 * Granulare Verarbeitung
 
-Damit wird das statische Bild des Chores vollständig aufgelöst und die **partikuläre/räumliche Verteilung der Stimmen** zum Zentrum der musikalischen Struktur.
+Damit wird das statische Bild des Chores vollständig aufgelöst und die Partikelisierung und räumliche Verteilung der Stimmen zum Zentrum der musikalischen Struktur.
 
 ---
 
@@ -199,7 +199,7 @@ Ligetis Methode beeinflusste auch die Filmmusik und erlangte vor allem allgemein
 
 ## 5-2. Eric Whitacre
 
-Whittaker ist für ihre Chorwerke bekannt, die eine klassische Schönheit bewahren und gleichzeitig moderne Klangsensibilitäten überlagern.
+Whittaker ist bekannt für ihre Chorwerke, die eine klassische Schönheit bewahren und gleichzeitig moderne Klangsensibilitäten überlagern.
 
 ### Merkmale
 
@@ -209,12 +209,12 @@ Whittaker ist für ihre Chorwerke bekannt, die eine klassische Schönheit bewahr
 
 ### Virtueller Chor
 
-„Virtual Choir“, das in den 2010er Jahren stattfand, war ein Versuch, aus aller Welt aufgenommene Einzelstimmen zu einem gigantischen Chor zu integrieren.
+„Virtual Choir“, das in den 2010er Jahren stattfand, ist ein Versuch, aus aller Welt aufgenommene Einzelstimmen zu integrieren und einen gigantischen Refrain zu schaffen.
 Als **Erweiterung des Konzepts des Chorgesangs im Internetzeitalter** ist dies musikgeschichtlich bemerkenswert.
 
 ---
 
-## 5-3. Andere wichtige Personen
+## 5-3. Andere wichtige Leute
 
 * Meredith Monk: Ein minimalistischer Ansatz, der Stimme mit körperlichem Ausdruck verbindet
 * Karlheinz Stockhausen: Strukturelle Behandlung des Obertongesangs in Stimmung (1968)
@@ -324,7 +324,7 @@ Kooperationen mit Tanzkompanien und darstellenden Künsten, die Stimme und körp
 Choral/Vocal Experimental betrachtet die Stimme nicht als eine Ansammlung von Tonhöhen, sondern vielmehr als eine Ansammlung von Tonhöhen
 **Es handelt sich um einen Bereich, der sich umfassend mit akustischen, räumlichen, physikalischen und sozialen Phänomenen befasst**.
 
-Die von Ligeti und Whittaker demonstrierten stimmlichen Möglichkeiten wurden von modernen Komponisten weiter erweitert.
+Die von Ligeti und Whittaker demonstrierten stimmlichen Möglichkeiten wurden von modernen Komponisten weiter ausgebaut.
 Die Stimme ist heute das flexibelste und komplexeste akustische Material in der Musik.
 
 Der Chor ist ein Medium, das Tradition und Zukunft verbindet, und die Resonanz des physischen und universellen Elements der Stimme mit der neuesten Technologie und akustischen Forschung wird weiterhin neue Ausdrucksformen schaffen.

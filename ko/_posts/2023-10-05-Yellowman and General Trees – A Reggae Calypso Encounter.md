@@ -9,7 +9,7 @@ permalink: /ko/yellowman-and-general-trees-a-reggae-calypso-encounter/
 tags:
 - Reggae
 - Dancehall
-title: Yellowman & General Trees - 레게 칼립소 만남
+title: Yellowman & General Trees – 레게 칼립소 만남
 ---
 
 

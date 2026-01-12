@@ -17,7 +17,7 @@ title: '[Chronique] Poésie du battement de cœur : le monde du percussionniste 
 ## 1. Présentation
 
 
-Texte : mmr｜Thème : Suivez attentivement son chemin depuis son éducation jusqu'à nos jours, en explorant le cœur de son innovation, de sa philosophie, de sa collaboration et de son expérience qu'il apporte aux auditeurs.
+Texte : mmr｜Thème : Suivez attentivement son chemin depuis son éducation jusqu'à aujourd'hui, en explorant le cœur de son innovation, de sa philosophie, de sa collaboration et de son expérience qu'il apporte aux auditeurs.
 
 Mohammad Reza Mortazavi est un percussionniste rare qui réinterprète fondamentalement les instruments de percussion persans traditionnels dans une expression musicale moderne. Ses performances ne sont pas seulement une démonstration de technique rythmique, mais sont accompagnées d'une profonde spiritualité qui induit parfois une transe, invitant le public à un voyage physique et conscient. En ce sens, ses activités sont importantes dans la création de nouveaux horizons musicaux qui dépassent les oppositions binaires de « musique traditionnelle et musique expérimentale », « Orient et Occident », et « passé et futur ».
 
@@ -44,7 +44,7 @@ Ses parents ont une formation musicale et ont chaleureusement veillé sur son in
 
 À l'âge de six ans, il commence à apprendre le tombak (« tombak » en anglais, tonbak ou zarb en persan). Il a pris des cours avec un joueur de tambak traditionnel, mais après seulement quelques années, son talent a été reconnu comme dépassant celui de son professeur, et il y a une anecdote selon laquelle à l'âge de neuf ans, son professeur a admis qu'il ne pouvait plus lui enseigner.
 
-À l'âge de 10 ans, il remporte sa première victoire au concours annuel Tambak organisé en Iran. Depuis, il ne cesse de gagner et se fait connaître dans tout le pays comme un jeune talent.
+À l'âge de 10 ans, il remporte sa première victoire au concours Tambak organisé chaque année en Iran. Depuis, il ne cesse de gagner et se fait connaître dans tout le pays comme un jeune talent.
 Durant cette période, sa relation avec les instruments de musique dans sa vie est allée au-delà d'un simple passe-temps et est devenue le noyau de son identité.
 
 ---
@@ -52,11 +52,11 @@ Durant cette période, sa relation avec les instruments de musique dans sa vie e
 ### 3. Instruments de musique traditionnels appelés tambak et duff - leur signification et leur contexte
 
 Son instrument principal, le tombak, est un instrument de percussion traditionnel qui constitue le cœur de la musique persane. Il a un corps en forme de gobelet et est fabriqué en tapotant la surface du cuir avec les mains ou les doigts, ce qui lui confère un ton extrêmement riche et un pouvoir expressif.
-Grâce à une variété de techniques de jeu, le tambak s'est imposé non seulement comme instrument d'accompagnement, mais aussi comme instrument soliste.
+Grâce à une variété de techniques de jeu, le tambak s’est imposé non seulement comme instrument d’accompagnement mais aussi comme instrument soliste.
 
 Le **Daf** est un grand tambour sur cadre, parfois doté d'anneaux ou de cloches métalliques, et est un instrument de musique traditionnel qui a également des usages festifs et cérémoniaux. Mortazavi ne se produit pas seulement avec des tambacks, mais aussi avec des duffs, et a développé des performances solos et collaboratives qui tirent parti des caractéristiques de chacun.
 
-La raison derrière sa sélection de ces instruments traditionnels n'est pas seulement un retour aux instruments folkloriques, mais une forte volonté d'explorer en profondeur l'essence des instruments et d'en tirer des expressions inconnues.
+La raison derrière sa sélection de ces instruments traditionnels n'est pas seulement un retour aux instruments folkloriques, mais une forte volonté d'explorer en profondeur l'essence des instruments de musique et d'en tirer des expressions inconnues.
 
 ---
 
@@ -78,7 +78,7 @@ La réalisation la plus remarquable de Mortazavi est **plus de 30 techniques de 
 Plus précisément, les approches comprennent :
 
 * **Utiliser différents points d'attaque** : Zones d'attaque que les joueurs traditionnels n'utilisent pas, comme le centre du cuir, la jante et le corps (partie en bois).
-* **Diverses parties de la main** : La main entière du joueur est considérée comme un instrument de musique, y compris le bout des doigts, les articulations, les ongles, la paume, la racine du pouce et d'autres parties considérées comme taboues.
+* **Diverses parties de la main** : La main entière du joueur est considérée comme un instrument de musique, y compris le bout des doigts, les articulations, les ongles, la paume, la racine du pouce et d'autres parties qui seraient autrement considérées comme taboues.
 * **Approche polyrythmique** : Une technique qui permet à plusieurs voix (couches) de sonner simultanément au sein du même instrument. Cela permet une performance de type ensemble par un seul joueur.
 * **Plage dynamique** : Des touches extrêmement silencieuses aux coups explosifs, contrôlez librement la force, le tempo et la densité du son.
 * **Opération de résonance** : contrôle la résonance du corps et conçoit l'arrière-goût lors de la frappe. De cette manière, la « réverbération » du son qui reste après un seul coup est utilisée comme élément d'expression.
@@ -130,7 +130,7 @@ L'album, sorti sur le label Latency, reflète une exploration profonde du thème
 
 Les critiques ont cité son point de vue selon lequel « contrairement à un métronome, le pouls humain est flexible et non fixe ». Ce thème est également évident dans ses spectacles en direct, où il accorde de l'importance à la création d'un « pouls commun » avec le public.
 
-#### 7.5 "Prisma"
+#### 7.5 "Prisme"
 
 Sorti en 2022, cet album représente une nouvelle expansion de la musique de Mortazavi. Selon les informations sur les performances de Flussbad, en plus du tombback et du duff, divers objets sonores ont été introduits, notamment un sifflet d'oiseau, un petit marimba, un kalimba et de petites cymbales. Cela élargit la gamme de tons et permet une expression spatiale plus tridimensionnelle et spirituelle.
 
@@ -165,7 +165,7 @@ Jouer Mortazavi en live est une expérience très physique et spirituelle. Chaqu
 
 Son jeu mélange des structures méditatives et répétitives avec des schémas de changement rapides et complexes qui font souvent perdre la notion du temps aux auditeurs. Au moment où le tempo ralentit, le son continue avec la réverbération, et ces durées se superposent progressivement, créant une résonance au sein du corps. A l'inverse, lorsque le rythme s'accélère brusquement, la concentration du public atteint son paroxysme, l'entraînant dans une sorte d'état de transe.
 
-Une expérience live comme celle-ci n'est pas seulement quelque chose que vous entendez avec vos oreilles, mais une expérience que vous « ressentez » avec votre corps. Mortazavi crée une résonance avec le public à mesure qu'il se produit, lui faisant partager un « pouls commun » à chaque instant. Le processus a un aspect rituel qui relie l’instrument et la personne, l’interprète et le public.
+Une expérience en direct comme celle-ci n'est pas seulement quelque chose que vous entendez avec vos oreilles, mais une expérience que vous pouvez « ressentir » avec votre corps. Mortazavi crée une résonance avec le public à mesure qu'il se produit, lui faisant partager un « pouls commun » à chaque instant. Le processus a un aspect rituel qui relie l’instrument et la personne, l’interprète et le public.
 
 ---
 
@@ -173,7 +173,7 @@ Une expérience live comme celle-ci n'est pas seulement quelque chose que vous e
 
 Mortazavi a reçu une reconnaissance internationale pour ses compétences, son sens artistique et son innovation. En 2003, il a remporté le **RUTH Newcomer Award**. Il a également suscité beaucoup d'intérêt de la part des médias, et son style et sa philosophie ont été présentés dans divers médias tels que le Deutschlandfunk allemand, Pitchfork, Hardwax et Boomkat.
 
-Pitchfork a particulièrement attiré l'attention sur la flexibilité des pulsations humaines et la nature improvisée des rythmes qu'il jouait, et l'a décrit comme « une musique qui incarne l'humanité et la plasticité du temps ». Hardwax et d'autres ont loué la sophistication sonore et la profondeur spirituelle créées par ses plus de 30 nouvelles techniques.
+Pitchfork a particulièrement attiré l'attention sur la flexibilité des pulsations humaines et la nature improvisée des rythmes qu'il jouait, et l'a décrit comme « une musique qui incarne l'humanité et la plasticité du temps ». Hardwax et d'autres ont loué la précision sonore et la profondeur spirituelle de ses plus de 30 nouvelles techniques.
 
 De plus, leur aspect physique et leur spiritualité sont souvent soulignés dans les critiques en direct. Drummerszone et d'autres ont décrit en détail les points de frappe, les parties des mains et les opérations de résonance qu'il utilise, notant que ses mains semblent jouer sur un « système audio ».
 
@@ -189,7 +189,7 @@ Ses structures répétitives rappellent la méditation, et son traitement du sus
 
 Il considère également la résonance avec le public (co-pulse) comme un élément important de la performance. Lors de ses performances live, le public n'est pas seulement un auditeur, mais un co-créateur qui participe à la génération rythmique de la scène. Il construit un dialogue rythmé entre lui et le public, créant un sentiment de « communauté » même lorsqu'il joue seul.
 
-Dans cette approche, on peut sentir une profonde volonté de dépasser les dualités telles que tradition et modernité, corps et conscience, individualité et résonance, immobilité et dynamisme. Ses rythmes ne sont pas seulement des expositions de techniques, mais émergent comme des pratiques philosophiques qui remettent en question le sens de l'enquête sur soi, de la communauté et du temps.
+Dans cette approche, on peut sentir une profonde volonté de surmonter les dualités telles que la tradition et la modernité, le corps et la conscience, l'individualité et la résonance, et l'immobilité et le dynamisme. Ses rythmes ne sont pas seulement des expositions de techniques, mais émergent comme des pratiques philosophiques qui remettent en question le sens de l'enquête sur soi, de la communauté et du temps.
 
 ---
 
@@ -197,9 +197,9 @@ Dans cette approche, on peut sentir une profonde volonté de dépasser les duali
 
 Mortazavi est également passionné par l'éducation de la jeune génération. Il a organisé de nombreux ateliers en Europe (notamment en Allemagne) et a enseigné à une grande variété de participants, des débutants aux joueurs expérimentés de tamback, duff et de tambours à main.
 
-Lors d'un atelier (par exemple dans le village de Thandorf, dans le nord de l'Allemagne), il a déclaré : « La musique est amour, et l'amour ne devrait avoir aucune frontière. » Contrairement au conservatisme et au règneisme du monde de la musique traditionnelle, il est fermement convaincu que la musique doit être un lieu de dialogue et d'exploration libre, et il l'incarne dans son enseignement.
+Lors d'un atelier (par exemple dans le village de Thandorf, dans le nord de l'Allemagne), il a déclaré : « La musique est amour, et l'amour ne devrait avoir aucune frontière. » Contrairement au conservatisme et au règneisme du monde de la musique traditionnelle, il est fermement convaincu que la musique doit être un lieu de libre dialogue et d'exploration, et il l'incarne dans son enseignement.
 
-Il dirige également des ateliers « Finding the Common Pulse » dans des lieux tels que le festival de musique contemporaine Ultima d'Oslo, où il invite les participants à explorer l'universalité et l'inclusivité du rythme, depuis les petits instruments battus à la main jusqu'à la génération de rythme en utilisant le corps lui-même.
+Il dirige également des ateliers « Finding the Common Pulse » dans des lieux tels que le festival de musique contemporaine Ultima d'Oslo, où il invite les participants à explorer l'universalité et le caractère inclusif du rythme, depuis les petits instruments battus à la main jusqu'à la génération de rythmes utilisant le corps lui-même.
 
 Ces activités éducatives démontrent que son art n'est pas seulement le sien, mais qu'il constitue un pont vers la communauté au sens large.
 

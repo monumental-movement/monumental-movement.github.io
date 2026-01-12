@@ -16,7 +16,7 @@ title: Ailes – Ailes au-dessus de l’Amérique
 
 Présentant des enregistrements live de la tournée américaine de Wings en 1976, il capture de manière vivante la performance et l'énergie du groupe. L'album comprend un large éventail de chansons, dont les succès des Wings et le travail solo de Paul McCartney.
 
-Cet album est une œuvre qui symbolise la popularité et le succès de Wings, et a reçu de nombreux éloges de la part des fans et des mélomanes en tant qu'œuvre remplie d'un sentiment de présence qui ne peut être atteint que par la performance live et le charme des chansons de Wings.
+Cet album est une œuvre qui symbolise la popularité et le succès de Wings, et a reçu de nombreux éloges de la part des fans et des mélomanes en tant qu'œuvre remplie d'un sentiment de présence qui ne peut être obtenu que par la performance live et le charme des chansons de Wings.
 
 #### Liste des chansons
 ```md

@@ -146,7 +146,7 @@ La techno était une prière, un autre battement de cœur derrière l’économi
 Dial Records, Pantha du Prince, Lawrence.
 La techno du Nord est pleine de **solitude et de poésie**.
 Une mélancolie introspective, aux antipodes du Berlin scintillant.
-Pas de « musique pour danser », mais des « rythmes pour réfléchir ».
+Pas « de la musique pour danser », mais des « rythmes pour réfléchir ».
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U8KylRW2SNc?si=cgZ8SEtZQIceTH6K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -188,7 +188,7 @@ La techno allemande continue de rythmer les villes et les corps.
 
 ## Dernier chapitre « Country » dans une boucle infinie
 
-La techno est une « caractéristique rythmique nationale » qui perdure même après avoir traversé les frontières nationales.
+La techno est une « caractéristique rythmique nationale » qui persiste même après avoir traversé les frontières nationales.
 Plus de 30 ans se sont écoulés depuis la chute du mur de Berlin.
 L’Allemagne est devenue un pays unifié par le son et non par la politique.
 Et son cœur bat toujours à 4/4.

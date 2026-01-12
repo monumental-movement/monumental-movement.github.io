@@ -19,7 +19,7 @@ title: '[Chronique] Korla Pandit et la vision d''Exotica : rêves et masques de
 ## Prologue : Qu'est-ce que l'exotisme ?
 
 
-Texte : mmr｜Thème : Explorer le rôle des pandits Korla dans la création de l'exotisme et l'esthétique de l'orientalisme dans la culture américaine d'après-guerre
+Texte : mmr｜Thème : Explorer le rôle de Korla Pandit dans la période naissante de l'exotisme et l'esthétique de l'orientalisme dans la culture américaine d'après-guerre
 
 ![Korla Pandit at the organ](https://upload.wikimedia.org/wikipedia/en/4/4d/Korlaorgan.jpg) 
 出典：[Wikipedia - Korla Pandit](https://en.wikipedia.org/wiki/Korla_Pandit)
@@ -60,7 +60,7 @@ color: #fff;
 5. [Chapitre 5 : La vérité derrière le masque - Confessions de John Rowland] (#Chapitre 5)
 6. [Chapitre 6 : Réverbérations d'Exotica - De la Longines Symphonette au Lo-Fi Revival] (#Chapitre 6)
 7. [Chapitre 7 : Réévaluation moderne et bouleversement culturel] (#Chapitre 7)
-8. [Chronologie : Korla Pandit et l'histoire de la musique exotique (1940-2020)] (#chronologie)
+8. [Chronologie : Korla Pandit et l'histoire de la musique exotique (1940-2020)] (#Chronologie)
 9. [Graphiques et analyses](#Graphiques)
 10. [Conclusion : Entre fiction et vérité] (#Conclusion)
 
@@ -125,7 +125,7 @@ Référence/Source :
 
 ---
 
-Le Korla Pandit Show, diffusé à partir de 1951, fut l'une des premières émissions télévisées musicales américaines.
+Le Korla Pandit Show, diffusé à partir de 1951, fut l'une des premières émissions de télévision musicales américaines.
 La production, construite uniquement en utilisant la vue et l'ouïe sans prononcer de mots, offrait à l'époque un « pays étranger sûr » aux téléspectateurs blancs.
 
 Pundit a eu plus de 1 000 émissions, ce qui lui a donné plus de visibilité télévisée que son contemporain Nat King Cole.

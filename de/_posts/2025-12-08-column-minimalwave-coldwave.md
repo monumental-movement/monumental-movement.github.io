@@ -19,7 +19,7 @@ title: '[Kolumne] Minimal Wave / Coldwave ── Neubewertung und Wiederbelebung
 
 ## Minimale Welle / Kaltwelle
 
-Text: mmr｜Thema: Bedingungen für die Entstehung des Genres, regionale Besonderheiten, Kunstwerke, Ausstattungskultur, der Prozess der Neubewertung und sogar die zeitgenössische Szene
+Text: mmr｜Thema: Bedingungen für die Etablierung des Genres, regionale Besonderheiten, Kunstwerke, Ausstattungskultur, der Prozess der Neubewertung und sogar die zeitgenössische Szene
 
 **Eine Bewegung, die die elektronische Underground-Musik Europas aus den 70er und 80er Jahren wiederentdeckte und im 21. Jahrhundert neu bewertete. **
 Es ist ein Genre, das den DIY-Geist, analoge Synthesizer, Kassettenkultur und Post-Punk-Coolness vereint.
@@ -126,7 +126,7 @@ Es hat einen stark minimalistischen Ansatz zur elektronischen Akustik und kommt 
 ## 4. Klang: Analyse musikalischer Eigenschaften
 
 ### ● 4-1. Minimale Struktur
-- Wiederholen Sie eine Schleife von 2–4 Takten
+- Wiederholen Sie eine Schleife von 2-4 Takten
 - Änderungen sind subtil, wie z. B. das Öffnen/Schließen von Filtern und das Anpassen von Hüllkurven.
 - Baselines werden oft mit einem Sequenzer generiert
 

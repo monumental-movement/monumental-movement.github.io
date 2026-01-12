@@ -9,15 +9,15 @@ permalink: /fr/hypnotis-house-is-mine-92/
 tags:
 - Techno
 - Hardcore
-title: Hypnotiseur – La maison est à moi 92
+title: Hypnotist – House Is Mine 92
 ---
 
 
-Hypnotist est une unité techno britannique active sur la première scène techno. Leur musique est connue pour ses morceaux énergiques et adaptés au dancefloor.
+ヒプノティストは、イギリスのテクノユニットであり、初期のテクノシーンにおいて活躍しました。彼らの音楽は、エネルギッシュでダンスフロア向けのトラックとして知られています。
 
-"House Is Mine '92" est le chef-d'œuvre d'Hypnotist et est considéré comme un morceau classique de la musique techno. La chanson présentait un rythme puissant, une ligne de basse lourde et des voix échantillonnées, ce qui en faisait un succès sur les pistes de danse des clubs et des rave.
+「House Is Mine '92」は、ヒプノティストの代表作であり、テクノミュージックのクラシックな一曲とされています。曲は、パワフルなビート、重厚なベースライン、サンプリングされたボーカルなどが特徴であり、クラブやレイブのダンスフロアで人気を博しました。
 
-Cette chanson incarne le son et l'énergie de la scène techno du début des années 90. Avec ses rythmes dansants et son échantillonnage unique, les auditeurs seront entraînés dans un monde unique au sein de la musique d'Hypnotist.
+この曲は、90年代初頭のテクノシーンにおけるサウンドとエネルギーを象徴しています。そのダンサブルなリズムとユニークなサンプリングによって、聴く人々はヒプノティストの音楽の中で独自の世界に引き込まれるでしょう。
 
 #### Liste des chansons
 ```md

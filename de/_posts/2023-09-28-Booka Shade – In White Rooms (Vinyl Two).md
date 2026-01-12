@@ -15,9 +15,9 @@ title: Booka Shade – In White Rooms (Vinyl Two)
 
 „Booka Shade – In White Rooms (Vinyl Two)“ ist ein Lied des deutschen Elektronik-Duos Booka Shade.
 
-Das 2005 veröffentlichte Lied war eines der Signaturwerke von Booka Shade und wurde zu einem großen Erfolg in ihrer Karriere.
+Das 2005 veröffentlichte Lied war eines der herausragenden Werke von Booka Shade und wurde zu einem großen Erfolg in ihrer Karriere.
 
-Durch die Kombination aus einer schweren Basslinie, einer Synthesizer-Melodie und einem resonanten Rhythmus entsteht eine House-Musik, die Elemente elektronischer Musik enthält und so einen Song mit einer dunklen und mysteriösen Atmosphäre schafft.
+Eine schwere Basslinie, eine Synthesizer-Melodie und ein klangvoller Rhythmus vereinen sich zu einem House-Song, der Elemente elektronischer Musik enthält und ihm eine dunkle und mysteriöse Atmosphäre verleiht.
 
 #### Trackliste
 ```md

@@ -22,7 +22,7 @@ title: '[칼럼] Vaportrap/Cloud Rap의 역사와 발전'
 
 Cloud Rap은 2010년경에 생겨난 Bay Area와 미국 Internet Underground를 중심으로 포스트 베이퍼웨이브 서브컬쳐 미학과 Chopped & Screwed, Lo-Fi Hip-Hop, 모던 이모 랩 등을 연결하면서 발전했습니다. 특히 **Lil B**, **Clams Casino** 및 **Main Attrakionz**의 활동은 초기를 상징하며 나중에 **Lil Peep**, **XXXTENTACION**, **Bones** 및 **Yung Lean**으로 이어지는 계보의 기반을 형성했습니다.
 
-Cloud Rap은 기존 힙합보다 훨씬 더 주변 지향적인 사운드, 강력한 리버브가 포함된 보컬 처리, 공간 FX가 포함된 몽환적인 질감을 특징으로 하며 나중에 전자 음악과 Vaporwave와 같은 밈 문화를 흡수하는 Vaportrap으로 진화했습니다.
+Cloud Rap은 기존 힙합보다 훨씬 더 주변 지향적인 사운드, 강력한 리버브가 포함된 보컬 처리, 공간 FX가 포함된 몽환적인 질감을 특징으로 하며 나중에 전자 음악과 Vaporwave 밈 문화를 흡수하는 Vaportrap으로 진화했습니다.
 
 
 ---
@@ -49,7 +49,7 @@ color: #fff;
 
 ### ● 잘게 썬 것 및 나사로 만든 것의 영향
 
-DJ Screw의 방식에서 파생된 **스크류 처리(느린 속도, 음높이 변경, 잔향 강조)**는 이후 Cloud Rap의 '천상의 템포'에 크게 기여했습니다.
+DJ Screw의 방식에서 파생된 **스크루 처리(느린 속도, 음높이 변경, 잔향 강조)**는 이후 Cloud Rap의 '천상의 템포'에 크게 기여했습니다.
 
 ---
 
@@ -75,7 +75,7 @@ Clams Casino의 악기 컬렉션은 2011년경에 출시되었으며 A$AP Rocky�
 
 ---
 
-### ● 주요 Attrakionz 및 장면 확장
+### ● 주요 어트라키온즈 및 장면 확장
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/twVAlvBTnZ8?si=n8mCVXs2dkxNl9G5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -154,7 +154,7 @@ YouTube, SoundCloud, TikTok의 등장으로 Cloud Rap 기술이 전 세계로 �
 * **패드**: 깊은 리버브 신디사이저, 주변 코드
 * **드럼**: 트랩 타겟(808, 하이햇 롤, 딥 킥)
 * **BPM**: 120~150
-* **보컬 처리**: 더 깊은 리버브, 자동 튜닝, 더빙 처리
+* **보컬 처리**: 더 깊은 리버브, 자동 조정, 더빙 처리
 * **질감**: 90년대/Y2K 문화 인용문
 
 아래는 사운드 구조를 보여주는 관계 다이어그램입니다.

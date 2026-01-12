@@ -9,14 +9,14 @@ permalink: /ko/dj-bam-bam-elektro-synthesis/
 tags:
 - House
 - Hard House
-title: DJ Bam Bam - 일렉트로 합성
+title: DJ Bam Bam – Elektro-Synthesis
 ---
 
 
-DJ Bam Bam은 시카고 스타일의 하드하우스 DJ이자 프로듀서입니다.
-B사이드 첫 번째 곡의 보컬은 하우스 뮤직 씬에서 활발히 활동했던 론 캐롤(R.O.N.N)이다.
+DJ Bam Bamは、シカゴスタイル・ハードハウスのDJ兼プロデューサー。
+B面１曲目のヴォーカルは、ハウスミュージックシーンで活躍したRon Carroll（R.O.N.N ）。
 
-"Elektro-Synesis"는 2000년 미국 시카고에 본사를 둔 하드 하우스/테크 하우스 레이블인 Underground Construction에 의해 출시되었습니다.
+「Elektro-Synthesis」は、USシカゴに拠点を置くハードハウス・テックハウスレーベルUnderground Constructionより、2000年にリリース。
 
 #### 트랙리스트
 ```md

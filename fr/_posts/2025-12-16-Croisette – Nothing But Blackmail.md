@@ -9,14 +9,14 @@ permalink: /fr/croisette-nothing-but-blackmail/
 tags:
 - Disco
 - 80s
-title: Croisette – Rien que du chantage
+title: Croisette – Nothing But Blackmail
 ---
 
 
 
-Un projet Disco composé et produit par le duo de production Fiachra Trench et Ian Levine.
+プロダクションデュオFiachra TrenchとIan Levineが作曲・プロデュースしたDiscoプロジェクト。
 
-Un morceau disco sorti en 1986 sur le label de danse britannique des années 80 Passion.
+UK の80sダンスレーベルPassionから1986年にリリースされたDiscoトラック。
 
 #### Liste des chansons
 ```md

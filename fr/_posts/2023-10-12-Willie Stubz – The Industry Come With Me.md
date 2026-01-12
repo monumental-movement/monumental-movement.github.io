@@ -14,7 +14,7 @@ title: Willie Stubz – L’industrie vient avec moi
 
 
 "Willie Stubz - L'industrie vient avec moi"
-Les première et deuxième chansons de la face A présentent Musaliny et N.O.R.E. Le producteur de toutes les chansons est SPK (SPKilla). Une version promo publiée par Hydra Entertainment pour l'album "The Industry".
+Les faces A 1 et 2 présentent Musaliny et N.O.R.E. Le producteur de toutes les chansons est SPK (SPKilla). Une version promo publiée par Hydra Entertainment pour l'album "The Industry".
 
 #### Liste des chansons
 ```md

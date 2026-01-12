@@ -22,7 +22,7 @@ title: Blak Beat Niks – 태양이 빛날 것이다
 
 
 
-Blak Beat Niks는 Da Posse의 멤버이기도 한 Craig Simpkins와 Ed Matthews의 프로젝트입니다. 그는 또한 Boogie Bruthaz와 Serenity Project라는 이름으로 공연합니다.
+Blak Beat Niks는 Da Posse의 멤버이기도 한 Craig Simpkins와 Ed Matthews의 프로젝트입니다. 그는 또한 Boogie Bruthaz 및 Serenity Project라는 이름으로 작업하고 있습니다.
 
 "The Sun Will Shine"은 2004년 Slip 'n' Slide 레이블에서 발매된 라틴/딥 하우스 트랙입니다.
 

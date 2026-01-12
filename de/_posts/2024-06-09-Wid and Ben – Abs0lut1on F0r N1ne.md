@@ -14,7 +14,7 @@ title: Wid & Ben – Abs0lut1on F0r N1ne
 ---
 
 
-Wid & Ben ist eine Hard-Trance-Gruppe, die von Andrew Widdop und Ben Thomas gegründet wurde.
+Wid & Ben ist eine Hard-Trance-Einheit, die von Andrew Widdop und Ben Thomas gegründet wurde.
 
 „Abs0lut1on / F0r N1ne“ ist ein Hard-Trance-Track, der 2003 vom britischen Hard-Dance-Label Tidy Two veröffentlicht wurde. Der Ingenieur ist der Hard-House/Hard-Trance-DJ und Produzent Lee Pasch aus Leicester, Großbritannien.
 

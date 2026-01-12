@@ -42,7 +42,7 @@ color: #fff;
 
 ## 1. EBM und Electro-Industrial als Begriffe
 
-Der Begriff EBM wurde Anfang der 1980er Jahre eingeführt und diente zunächst eher als Konzept zur Angabe einer kreativen Haltung und musikalischen Richtung denn als Genrename. Wie der Name „Electronic Body Music“ vermuten lässt, liegt der Schwerpunkt auf der direkten Ansteuerung körperlicher Bewegung durch elektronische Klänge.
+Der Begriff EBM wurde Anfang der 1980er Jahre eingeführt und diente zunächst eher als Konzept zur Angabe einer kreativen Einstellung und musikalischen Ausrichtung denn als Genrename. Wie der Name „Electronic Body Music“ vermuten lässt, liegt der Schwerpunkt auf der direkten Ansteuerung körperlicher Bewegung durch elektronische Klänge.
 
 Andererseits ist Electro-Industrial ein Name, der sich aus der Struktur von EBM entwickelt hat und komplexere akustische Verarbeitung, Geräuschelemente sowie psychologische und introspektive Themen umfasst. Die beiden Genres sind keine diskontinuierlichen Genres, sondern zeichnen sich durch eine kontinuierliche Weiterentwicklung mit EBM als Rückgrat aus.
 
@@ -60,7 +60,7 @@ In den 1980er Jahren ermöglichte die Verbreitung von Synthesizern, Drum Machine
 
 An der Bildung von EBM sind mehrere Regionen beteiligt.
 
-In Belgien entwickelte sich die Verbindung zwischen elektronischer Musik und Avantgarde-Kunst schon relativ früh, und die Aktivitäten rund um Front 242 bildeten den Rahmen für EBM. In Großbritannien vereinten sich Post-Punk-Minimalismus und körperlicher Ausdruck zum stoischen Stil von Nitzer Ebb. In Deutschland unterstützten die Grundlagen der elektronischen Musiktechnologie und Clubkultur die Akzeptanz und Entwicklung von EBM.
+In Belgien hat sich die Verbindung zwischen elektronischer Musik und Avantgarde-Kunst schon relativ früh entwickelt, und die Aktivitäten rund um Front 242 bildeten den Rahmen für EBM. In Großbritannien vereinten sich Post-Punk-Minimalismus und körperlicher Ausdruck zum stoischen Stil von Nitzer Ebb. In Deutschland unterstützten die Grundlagen der elektronischen Musiktechnologie und Clubkultur die Akzeptanz und Entwicklung von EBM.
 
 Was diese Regionen gemeinsam haben, ist ein industrialisiertes städtisches Umfeld und die Existenz von Räumen, die repetitive Musik physisch akzeptieren.
 
@@ -86,7 +86,7 @@ flowchart LR
 
 Die Basslinie in EBM hat fast keine melodische Entwicklung und besteht aus Wiederholungen einzelner Noten oder extrem begrenzten Intervallen. Dieses Design maximiert die Integration in den Rhythmus und gibt der motorischen Funktion Vorrang vor dem musikalischen Ausdruck.
 
-Sequenzen basieren auf kurzen Mustern und Entwicklungen werden durch subtile Tonänderungen und Stummschaltungsvorgänge erzeugt.
+Sequenzen basieren auf kurzen Mustern und Entwicklungen werden durch subtile Tonänderungen und Stummschaltungen erzeugt.
 
 ---
 
@@ -116,11 +116,19 @@ Der Produktionsprozess verläuft häufig in mehreren Schritten: Klangfarbenentwu
 
 ## 9. Struktureller Beitrag von Front 242
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j9sW556IBjo?si=RCXeEWWFMSm7oPwZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 Front 242 ist ein Unternehmen, das EBM in drei Ebenen formuliert hat: Konzept, Struktur und Sound. Ihre Songs zeichnen sich durch eine klare, auf Clubspiel ausgelegte Rhythmusgestaltung und einen emotionslosen und fragmentierten Sprachgebrauch aus.
 
 ---
 
 ## 10. Nitzer Ebb Minimalismus
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dfwicqniOMw?si=7nDOtCdu22Rt8j3m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 Nitzer Ebb rückte die Körperlichkeit in den Vordergrund, indem er die Elemente des EBM auf das Nötigste reduzierte. Die minimale Anzahl an Noten, wiederholten Rufen und eindringlichen Rhythmen symbolisieren die stoische Seite des Genres.
 
@@ -134,7 +142,7 @@ Seit Ende der 1980er Jahre ist eine Werkgruppe entstanden, die die Struktur von 
 
 ## 12. Interaktion mit der Clubkultur
 
-EBM wurde mit der Prämisse der Wiedergabe in Clubräumen entwickelt. Schalldruck, Wiederholung und unmittelbare Reaktionsfähigkeit wurden betont und die Liedstrukturen an die Funktion auf dem Boden angepasst.
+EBM wurde mit der Prämisse der Wiedergabe in Clubräumen entwickelt. Lauter Druck, Wiederholung und unmittelbare Reaktionsfähigkeit wurden betont und die Liedstrukturen an die Funktion auf dem Boden angepasst.
 
 ---
 

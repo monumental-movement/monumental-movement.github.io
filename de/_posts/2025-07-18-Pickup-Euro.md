@@ -378,7 +378,7 @@ Format: CD
 
 Genre: 90er Euro / Euro Beat / Hi‑ERG House
 
-„Willy Use A Billy… Boy“ ist E-Rotics vierte Single in Deutschland und ihre Debütsingle in Japan.
+„Willy Use A Billy… Boy“ ist E-Rotics vierte Single in Deutschland und Debütsingle in Japan.
 
 #### Trackliste
 ```md

@@ -24,7 +24,7 @@ Die Stille wird oft durch eine einzelne Note auf dem Klavier oder eine eindringl
 Dieser Akt ist sowohl intuitiv als auch zutiefst wissenschaftlich.
 Musik ist ein „Resonator“ von Emotionen und die einzige Erfahrung, die man in Einsamkeit teilen kann.
 
-In diesem Artikel werden wir die Bereiche Psychologie, Neurowissenschaften und Kulturgeschichte untersuchen.
+In diesem Aufsatz kreuzen wir die Bereiche Psychologie, Neurowissenschaften und Kulturgeschichte.
 Wir gehen der Frage nach: „Warum hören Menschen Musik, wenn sie traurig sind?“
 
 ---
@@ -60,7 +60,7 @@ Dies ist einer der Hauptgründe, warum Menschen traurige Musik suchen.
 ## Kapitel 2: Musik als Mittel der Empathie
 
 Laut der Psychologin Catherine Mercier
-„Musik ist ein Mittel zur Nachahmung von Empathie.“
+„Musik ist ein Nachahmungsmittel für Empathie.“
 Wenn Zuhörer traurige Musik hören, „identifizieren“ sie sich mit den Emotionen des Komponisten und Sängers und
 Die Anwesenheit anderer in der Einsamkeit spüren.
 
@@ -85,7 +85,7 @@ Es fungiert als **zeitliches Medium**, das Erinnerungen und Emotionen verbindet.
 
 ---
 
-## Kapitel 4: „Klänge der Traurigkeit“ aus kulturhistorischer Sicht
+## Kapitel 4: „Klänge der Traurigkeit“ aus kulturhistorischer Perspektive
 
 Musik der Traurigkeit gab es in jeder Epoche in unterschiedlichen Formen.
 Die folgende Chronologie zeigt den typischen Ablauf.
@@ -113,7 +113,7 @@ Der Schmerz eines Einzelnen wird zur Stimme der Zeit.
 ## Kapitel 5: „Ästhetik der Traurigkeit“ in der japanischen Kultur
 
 In Japan gibt es seit der Antike ein Konzept namens „Mono-Aware“.
-Diese Idee leugnet die Traurigkeit nicht, sondern bekräftigt sie vielmehr als „schönes Gefühl“.
+Dies ist eine Idee, die Traurigkeit nicht leugnet, sondern sie vielmehr als „schönes Gefühl“ bekräftigt.
 Von Gagakus „Ettenraku“ bis zur Erzählung von Biwa-Priestern und sogar Enka,
 Musik in der japanischen Kultur enthält durchweg ein Gefühl der Traurigkeit.
 
@@ -190,10 +190,10 @@ Musik ist ein Medium, das Traurigkeit in Liebe verwandelt.
 
 | Emotionaler Zustand | Haupthirnregionen | Beeinflusste musikalische Elemente | Physiologische Reaktionen |
 | ---- | -------- | --------------- | -------- |
-| Traurigkeit | Amygdala/Inselrinde | Sanftes Tempo, Moll-Akkord | Stimulation der Tränendrüsen, langsame Herzfrequenz |
+| Traurigkeit | Amygdala/Inselrinde | Langsames Tempo, Moll-Akkord | Stimulation der Tränendrüsen, langsame Herzfrequenz |
 | Erleichterung | Präfrontaler Kortex/Nucleus accumbens | Sanfte Harmonie | Stabile Atmung, Anstieg der Alphawellen |
 | Empathie | Medialer präfrontaler Kortex | Stimmzentrierte Struktur | Oxytocin-Sekretion |
-| Regeneration | Cingulärer Kortex | Crescendo-Struktur | Dopamin-Anstieg |
+| Regeneration | Cingulärer Cortex | Crescendo-Struktur | Dopamin-Anstieg |
 
 
 >„Wenn du traurig bist, hörst du Musik, nicht weil du Angst vor der Stille hast.

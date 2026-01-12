@@ -10,13 +10,13 @@ tags:
 - Reggae
 - Dub
 - 90s
-title: Kazufumi Kodama A.K.A. 'Echo' de Dub Station – Requiem Dub
+title: Kazufumi Kodama A.K.A. 'Echo' From Dub Station – Requiem Dub
 ---
 
 
-Kazufumi Kodama est un trompettiste actif dans des groupes de dub tels que MUTE BEAT et KODAMA AND THE DUB STATION BAND. Il a également produit de nombreux artistes comme le premier album de Fishmans et CHIEKO BEAUTY.
+こだま和文は、ダブバンドMUTE BEATやKODAMA AND THE DUB STATION BANDなどで活躍するトランペット奏者。フィッシュマンズの1stアルバムやCHIEKO BEAUTYなど多数のアーティストのプロデュースも手掛けている。
 
-"Requiem Dub" est le deuxième album solo de Kazufumi Kodama, enregistré aux Wackies, connu comme un célèbre studio de reggae new-yorkais. Sorti en 1999 par Speedstar International. Kazufumi Kodama s'est lui-même occupé de toutes les performances et de la production de cet album.
+「Requiem Dub」は、NYレゲエの名スタジオとして知られるWackies(ワッキーズ)で録音した、こだま和文の2ndソロアルバム。1999年にSpeedstar International からリリースされた。このアルバムではこだま和文自身が全ての演奏＆プロデュースを手掛けている。
 
 #### Liste des chansons
 ```md

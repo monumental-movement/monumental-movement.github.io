@@ -12,7 +12,7 @@ tags:
 - Improvisation
 - Experimental
 title: '[Kolumne] Rhythmus-Revolutionäre: Die Rhythmus-Frontlinien von Schlagzeugern,
-  die die Welt und Japan verbinden'
+  die Japan und die Welt verbinden'
 ---
 
 
@@ -93,7 +93,7 @@ Es wurde auch zum Prototyp für spätere Hip-Hop-Beats.
 
 Buddy Rich ist ein Symbol für Geschwindigkeit, Tony Williams ist ein Symbol für Freiheit und Steve Gadd ist ein Symbol für Präzision.
 Das von ihnen geschaffene „Idealbild eines Schlagzeugers“ bildete den Grundrahmen der Musik des 20. Jahrhunderts.
-Allerdings wirbelten gleichzeitig im Untergrund **Trommeln, die von der Disziplin abweichen**.
+Doch gleichzeitig wirbelten im Untergrund **Trommeln, die von der Disziplin abweichen**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9esWG6A6g-k?si=t_bBIlRHycXe1C4D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

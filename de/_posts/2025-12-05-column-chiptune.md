@@ -19,7 +19,7 @@ title: '[Spalte] Aktueller Standort und Zukunft von Chiptune / 8-Bit-Musik'
 
 Text: mmr｜Thema: Umfassende Forschung zur Neuinterpretation von Famicom/Game Boy-Soundquellen in die Neuzeit
 
-Der als Chiptune oder 8-Bit-Musik bekannte Sound hat die Grenzen eines nostalgischen Genres überschritten, das lediglich an die Klänge von Retro-Spielen erinnert, und hat weiterhin eine einzigartige Kraft in der modernen Musikkultur. Dafür gibt es viele Gründe, aber der grundlegendste ist „universelle Musikalität, die aus Zwängen entsteht“**.
+Der als Chiptune oder 8-Bit-Musik bekannte Sound hat die Grenzen eines nostalgischen Genres überschritten, das lediglich an die Klänge von Retro-Spielen erinnert, und hat weiterhin eine einzigartige Kraft in der modernen Musikkultur. Es gibt viele Gründe, aber der grundlegendste ist „universelle Musikalität, die aus Zwängen entsteht“**.
 
 Die Sounds von Famicom/NES und Game Boy basieren beide auf einer begrenzten Anzahl von Kanälen, begrenzten Wellenformen und einer begrenzten Auswahl an Tönen. Allerdings sind die Melodien, die innerhalb dieser Zwänge entstanden sind, alle ungewöhnlich einprägsam. Es hat einen extrem hohen Melodius, sodass sich jeder die Melodie innerhalb weniger Sekunden nach dem Hören merken kann.
 
@@ -108,7 +108,7 @@ Mit dem WAVE-Kanal des Game Boy können Sie statt fester Wellenformen beliebige 
 
 ---
 
-## Kapitel 3: Tracker-Kultur und Chiptune-Produktion – LSDj / Nanoloop / Famitracker
+## Kapitel 3: Tracker-Kultur und Chipune-Produktion – LSDj / Nanoloop / Famitracker
 
 ### 3-1. Was ist Tracker?
 
@@ -196,11 +196,11 @@ Chiptune beschränkt sich keineswegs auf eine „Reproduktion von Spielemusik“
 
 - Passen Sie die Länge und Frequenz des Rauschkanals an
 - Kick wird durch fallendes Pitch reproduziert
-- Snare kombiniert kurzes Rauschen und Rechteckwelle
+- Snare kombiniert einen kurzen Lärm mit einer Rechteckwelle
 
 ---
 
-## Kapitel 7: Genealogie von Chiptune
+## Kapitel 7: Chipune-Genealogie
 
 <div class="mermaid">
 flowchart TD
@@ -234,7 +234,7 @@ Es wird nicht nur als Musikgenre betrachtet, sondern als umfassende Ausdrucksfor
 ### 9-1. Produktion mit realer Ausrüstung
 
 - Game Boy DMG-01-Modifikation
-- EverDrive・Flash-Wagen
+- EverDrive/Flash-Wagen
 - Austausch zerbrechlicher Teile
 - Methode zur Aufnahme von jeweils einem Kanal in Stereo
 
@@ -243,14 +243,14 @@ Es wird nicht nur als Musikgenre betrachtet, sondern als umfassende Ausdrucksfor
 - Reproduzieren Sie den Originalsound vollständig mit dem Plogue-Chipsynth
 - Sidechain/EQ-Korrektur
 - Trennen Sie Tonquellen wie ein Multi-Mikrofon
-- Passen Sie das Klangbild mit der 32-Bit-Float-Aufnahme an
+- Passen Sie das Klangbild mit 32-Bit-Float-Aufnahme an
 
 ---
 
 ## Kapitel 10: Die Zukunft von Chiptune und die Zukunft der 8-Bit-Ästhetik
 
 8-Bit-Musik ist kein Symbol mehr für Retro;
-**Existenz, die der Neuzeit als „Cluster eingeschränkter Ästhetik“ neue Ideen gibt**
+**Eine Existenz, die der Moderne als „Cluster eingeschränkter Ästhetik“ neue Ideen gibt**
 Es ist geworden.
 
 - Verwendung in Hyperpop und EDM

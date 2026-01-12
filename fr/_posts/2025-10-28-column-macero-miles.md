@@ -225,7 +225,7 @@ Il y a ici un fondement philosophique qui résonne dans tout l’art du XXe siè
 | -------------------------- | -------------------- | ------------- |
 | **Constructivisme** | Le sens se crée à travers l'agencement et le réarrangement des matériaux | Architecture/Musique contemporaine |
 | **Chance contrôlée** | Contrôler les fragments improvisés par le montage | Cage, Varèse |
-| **Sculpter dans le temps** | Concevoir un « temps auditif » par le montage | Montage de films (Tarkovsky) |
+| **Sculpter dans le temps** | Concevoir le « temps auditif » par le montage | Montage de films (Tarkovsky) |
 | **Méta-composition** | Reconfigurer les matériaux à un niveau de composition supérieur | Art sonore, culture DAW |
 
 Macero a été la première personne à incarner le concept de « composition en deux étapes », dans lequel la musique est composée après l'enregistrement.
@@ -251,7 +251,7 @@ Surtout lorsque l'on compare "In a Silent Way" et "Bitches Brew", vous pouvez vo
 | Objectif | Créer un son « intemporel » | Construire « l’ordre du chaos » |
 
 Ces conceptions acoustiques étaient également le résultat de l’exploitation des limites de la technologie analogique de l’époque.
-Même le « bruit de coupure » et la « connexion non naturelle » du montage sur bande ont été consciemment laissés par Masero comme des **effets structurels**.
+Même le « bruit de coupure » et la « connexion non naturelle » du montage sur bande ont été consciemment laissés de côté par Masero comme des **effets structurels**.
 
 <div class="mermaid">
 
@@ -281,7 +281,7 @@ graph LR
 
 → Concentrez-vous sur « l'axe de profondeur » plutôt que sur la stéréo gauche et droite.
 
-On peut dire que le son édité de Macero mettait déjà en pratique la « sculpture du temps » que visaient plus tard la techno, l'ambient et l'électro.
+On peut dire que le montage sonore de Macero mettait déjà en pratique la « sculpture du temps » que visaient plus tard la techno, l'ambient et l'électro.
 
 ---
 
@@ -305,10 +305,10 @@ graph TD
 
 ---
 
-## Chapitre 11 : « Bitches Brew » —— Composition de la bande et carte d'édition
+## Chapitre 11 : « Bitches Brew »—— Composition de la bande et carte d'édition
 
 Bitches Brew a été enregistré au Columbia Studio B entre le 19 et le 21 août 1969.
-Les sessions se sont étalées sur trois jours, chacune durant des dizaines de minutes **sous forme de jam impromptu**.
+Les sessions se sont étalées sur trois jours, chacune durant des dizaines de minutes **sous la forme d'un jam impromptu**.
 Teo Macero a assemblé et édité cette grande quantité de matériel enregistré pour créer la structure finale de l'album.
 
 ---
@@ -469,7 +469,7 @@ Il s'agissait d'une tentative d'utiliser l'espace du studio comme « un autre in
 ## Dernier chapitre : L'héritage de « l'oreille » de Teo Macero
 
 Le montage de Macero n'était pas seulement un « post-traitement » mais une redéfinition de l'art de l'enregistrement lui-même.
-Il n'a pas tracé de frontière claire entre la performance et le montage. Cet écart était plutôt la source de la créativité.
+Il n’a pas tracé de frontière claire entre la performance et le montage. Cet écart était plutôt la source de la créativité.
 
 Dans la production musicale moderne, les actes que nous effectuons inconsciemment, tels que le « cut and loop », l'« automation » et le « remix », sont tous des extensions de la philosophie de Macero.
 Son accomplissement n’est rien de moins que de transformer la technologie de l’enregistrement en une forme d’art en tant qu’extension de la pensée humaine.

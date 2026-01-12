@@ -67,7 +67,7 @@ B4. Charm–Walk On The Wild Side
 <hr>
 
 
-### Petter – Untitled Acid EP
+### Petter – Acid EP ohne Titel
 <a href="https://jp.mercari.com/item/m32455910195?afid=6142608987"><img src="../assets/images/Petter%20%E2%80%93%20Untitled%20Acid%20EP.webp"></a>
 
 Säure rekonstruieren mit moderner Klangkreation. Schwebend zwischen Minimal und Progressive Rock.
@@ -178,7 +178,7 @@ B2. 900lb Man (Original Mix)
 #### Aquasky – Ruhe / Kauna
 <a href="https://jp.mercari.com/item/m94343829211?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Tranquility%20Kauna.webp"></a>
 
-Ein einzigartiges Stück, das saure Elemente in den Drum'n'Bass einbringt. Ein Gefühl von Geschwindigkeit und ein Gefühl des Reisens sind beide vorhanden.
+Ein einzigartiges Stück, das saure Elemente in den Drum'n'Bass einbringt. Ein Gefühl des Laufens und ein Gefühl des Stolperns sind beide gleichzeitig.
 
 #### Trackliste
 ```md

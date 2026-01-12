@@ -9,17 +9,17 @@ permalink: /fr/planet-95-talk-to-me/
 tags:
 - House
 - 90s
-title: Planète 95 – Parle-moi
+title: Planet '95 – Talk To Me
 ---
 
 
-Planet 95 est une unité composée d'Antonio D'Ambrosio, Claudio Ferrante, Pasquale De Crescenzo et Renato De Crescenzo.
+Planet 95 は、Antonio D'Ambrosio, Claudio Ferrante, Pasquale De Crescenzo, Renato De Crescenzoによるユニット。
 
-« Talk To Me » est un ensemble de deux disques de morceaux house sortis sur le label de Glasgow Limbo Records en 1996.
+「Talk To Me」は、1996年にグラスゴーのレーベルLimbo Recordsからリリースされたハウストラック2枚組。
 
-La face B est un remix de Cotton Club.
-Le deuxième morceau du côté C&D est un remix de Michael Kilkie, un DJ et producteur basé à Glasgow qui résidait de longue date au légendaire club Tunnel en Écosse.
-Le premier morceau de la face D est un remix de l'ingénieur et producteur Andy Haldane d'Apollo Studios à Glasgow.
+B面は、Cotton Clubによるremix。
+C&D面2曲目は、グラスゴーを拠点に活動するDJ・プロデューサーであり、スコットランドの伝説的なクラブTunnel clubで長年レジデントをつとめたMichael Kilkieによるremix。
+D面1曲目は、グラスゴーにある Apollo Studiosのエンジニア＆プロデューサーAndy Haldaneによるremix。
 
 
 #### Liste des chansons

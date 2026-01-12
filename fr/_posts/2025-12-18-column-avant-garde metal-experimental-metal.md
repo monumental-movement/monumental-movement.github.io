@@ -152,7 +152,7 @@ flowchart TD
 
 ---
 
-## Rythme respiratoire
+## Respiration rythmée
 
 Leur rythme n’est pas un battement, mais plutôt une respiration ou la durée d’une histoire. Le tempo n’est pas fixe et les tambours jouent un rôle de régulation de la densité spatiale plutôt que de chronomètre.
 

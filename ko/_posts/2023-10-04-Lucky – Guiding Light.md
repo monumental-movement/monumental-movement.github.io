@@ -9,12 +9,12 @@ permalink: /ko/lucky-guiding-light/
 tags:
 - House
 - Euro Beat
-title: 럭키 – 인도하는 빛
+title: Lucky – Guiding Light
 ---
 
 
-"가이딩 라이트"는
-벨기에 레이블 'WL Records'에서 발매한 Lucky의 EP입니다.
+「Guiding Light」は、
+ベルギーのレーベル「WL Records」からリリースされたLuckyによるEPです。
 
 #### 트랙리스트
 ```md

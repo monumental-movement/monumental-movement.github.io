@@ -79,11 +79,11 @@ Seit seinem Debüt im Jahr 2006 gilt Burial als zentrales Symbol des Post-Dubste
 Seine wichtigste Eigenschaft ist seine Fähigkeit, das Gefühl der Einsamkeit in der Stadt hervorzurufen.
 
 ### Klangeigenschaften
-- Das Vokal-Sample ist stark in der Tonhöhe bearbeitet und enthält mehrere Formanten, was ihm ein „geschlechtsunbekanntes“ Gefühl verleiht.
+- Das Vokal-Sample ist extrem in der Tonhöhe bearbeitet und enthält mehrere Formanten, was ihm ein „geschlechtsunbestimmtes“ Gefühl verleiht.
 - Vinyl-Crackle (Plattengeräusch) in den Vordergrund rücken
 - Der Tritt ist ein leiser Angriff wie ein entfernter Donner mitten in der Nacht
 - Die Snare hat eine trockene Klangqualität, nicht metallisch, sondern wie „zerbrochene Holzstücke“
-- Insgesamt dominiert ein „nebliger Mitteltonbereich“, die Melodie bleibt ein kurzes Motiv.
+- Insgesamt dominiert ein „nebliger Mitteltonbereich“ und die Melodie bleibt ein kurzes Motiv.
 - Häufige Verwendung von kurzen Release-Pads, die schnell verschwinden
 
 ### Probenahmemethode

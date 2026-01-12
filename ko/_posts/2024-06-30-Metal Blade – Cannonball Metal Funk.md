@@ -9,11 +9,11 @@ permalink: /ko/metal-blade-cannonball-metal-funk/
 tags:
 - Techno
 - 00s
-title: 메탈 블레이드 – 캐논볼 메탈 펑크
+title: 메탈 블레이드 - 캐논볼 메탈 펑크
 ---
 
 
-Metal Blade는 일본의 테크노 DJ/프로듀서인 Fumiaki Kobayashi와 DJ/기타리스트 Masayuki Ozaki의 프로젝트입니다.
+Metal Blade는 일본의 테크노 DJ/프로듀서 Fumiaki Kobayashi와 DJ/기타리스트 Masayuki Ozaki의 프로젝트입니다.
 
 고바야시 후미아키는 테크노 레이블 게이트어레이 녹음을 운영하며 주로 테크노 파티 아키하바라 중공업에서 활동하고 있다. 2014년부터는 KURAYAMI라는 이름으로도 활동하고 있다.
 

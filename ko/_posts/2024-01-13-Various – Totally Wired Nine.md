@@ -10,11 +10,11 @@ tags:
 - Acid Jazz
 - Jazz
 - 90s
-title: 다양한 – 토탈리 와이어드 나인
+title: Various – Totally Wired Nine
 ---
 
 
-영국 레이블 Acid Jazz가 1992년에 발매한 애시드 재즈 컴필레이션 앨범.
+UKのレーベルAcid Jazzから1992年にリリースされた、アシッドジャズ・コンピレーション・アルバム。
 
 #### 트랙리스트
 ```md

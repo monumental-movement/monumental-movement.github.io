@@ -60,7 +60,7 @@ Tribal House est un sous-genre qui combine le quatre-on-the-floor de la house av
 ## Transformation et commercialisation (années 2000)
 
 **Contexte de l'époque**
-Dans les années 2000, les éléments tribaux ont fusionné avec le progressif/électro, etc., et le nombre de genres dérivés a augmenté. L'environnement de production est passé d'un environnement matériel à un environnement DAW, permettant de créer des conceptions sonores plus sophistiquées.
+Dans les années 2000, les éléments tribaux ont fusionné avec le progressif/électro, etc., et le nombre de genres dérivés a augmenté. L'environnement de production est passé d'un environnement principalement basé sur le matériel à un environnement DAW, ce qui permet de créer des conceptions sonores plus sophistiquées.
 
 **Changement de méthode de production**
 - Traitement des instruments de percussion avec utilisation intensive du traitement des effets (filtre/réverbération/delay).
@@ -118,7 +118,7 @@ color: #fff;
 
 | Année | Artiste | Nom de la piste | Caractéristiques |
 |------|--------------|-------------|------|
-| 1997 | Junior Vásquez | Si Madonna appelle | Des échantillons audacieux qui symbolisent la scène des clubs gays |
+| 1997 | Junior Vasquez | Si Madonna appelle | Des échantillons audacieux qui symbolisent la scène des clubs gays |
 | 1998 | Danny Tenaglia | Éléments | Percussion tribale et développement minimal |
 | 1998 | Plat profond | Échoué | Son mélodieux et profond |
 | 2001 | Pierre Rauhofer | J'ai la musique | Un morceau au sol avec le chant au premier plan |
@@ -131,7 +131,7 @@ color: #fff;
 
 ---
 
-## Voyage rythmique
+## Voyage du rythme
 Tribal House n'est pas seulement de la musique de club, mais un « voyage rythmique » qui s'est répandu à l'échelle mondiale, changeant à chaque époque. Il continuera d’attirer l’attention en tant que genre qui continue d’évoluer grâce à la fusion des technologies tout en héritant de ses racines africaines.
 
 

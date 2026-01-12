@@ -9,11 +9,11 @@ permalink: /ko/ian-lex-i-wanna-be-your-man/
 tags:
 - Euro Beat
 - House
-title: 이안 렉스 - 당신의 남자가 되고 싶어요
+title: Ian Lex – I Wanna Be Your Man
 ---
 
 
-이 곡은 1996년에 발매된 Rino Facchinetti의 프로젝트 "Ian Lex"의 싱글 릴리스입니다.
+1996年にリリースされた本名Rino Facchinettiによるプロジェクト「Ian Lex」のシングルリリースです。
 
 #### 트랙리스트
 ```md

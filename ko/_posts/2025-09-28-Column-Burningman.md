@@ -9,7 +9,7 @@ permalink: /ko/column-burningman/
 tags:
 - Rave
 - History
-title: '[칼럼] 버닝맨의 역사, 일화, 그리고 현대적 의미: 사막 속의 도시'
+title: '[칼럼] 사막의 도시: 버닝맨의 역사와 일화, 그리고 현대적 의미'
 ---
 
 
@@ -17,7 +17,7 @@ title: '[칼럼] 버닝맨의 역사, 일화, 그리고 현대적 의미: 사막
 
 글 : mmr｜주제 : 버닝맨의 역사를 안다는 것은 버닝맨이 단순한 축제를 넘어 “미래도시와 인간의 실험”임을 이해하는 것이다
 
-버닝맨은 단순한 축제가 아니라 블랙록 시티(Black Rock City)를 공동으로 만들기 위한 시험장입니다. 1986년 샌프란시스코 만 지역의 해변에서 시작되어 1990년대부터 매년 네바다주 블랙록 사막에서 개최되어 왔습니다. 예술, 불, 기술, 선물 문화가 교차하는 곳으로 Bay Area의 기업 및 스타트업 문화와 깊이 교차합니다.
+버닝맨은 단순한 축제가 아니라 블랙록 시티(Black Rock City)를 공동으로 만들기 위한 시험장입니다. 1986년 샌프란시스코 만 지역 해변에서 시작돼 1990년대부터 매년 네바다주 블랙록 사막에서 개최됐다. 예술, 불, 기술, 선물 문화가 교차하는 곳으로 Bay Area의 기업 및 스타트업 문화와 깊이 교차합니다.
 
 ---
 
@@ -42,35 +42,35 @@ color: #fff;
 
 ### 기원과 발전: 해변에서 사막까지
 
-버닝 맨(Burning Man)은 1986년 래리 하비(Larry Harvey)와 제리 제임스(Jerry James)가 샌프란시스코 베이커 비치에서 나무 조각상(The Man)을 불태우면서 시작되었습니다. 이후 참가자가 늘어나 1990년 처음으로 블랙록사막으로 옮긴 이후 행사는 사막에 임시 도시 건설 프로젝트로 변모했다.
+버닝 맨(Burning Man)은 1986년 래리 하비(Larry Harvey)와 제리 제임스(Jerry James)가 샌프란시스코 베이커 비치에서 나무 조각상(The Man)을 불태우면서 시작되었습니다. 이후 참가자 수가 늘어나 1990년 처음으로 블랙록사막으로 옮긴 후 행사는 사막에 임시 도시 건설 프로젝트로 변모했다.
 
 ---
 
 
 #### 2004년 '10대 원칙'과 그 영향
 
-조직이 발전함에 따라 2004년 래리 하비(Larry Harvey)가 제안한 '10가지 원칙'(급진적 포용, 선물, 탈상품화 등)은 커뮤니티의 가치를 정리하고 행사에 문화적 틀을 제공했습니다. 이것이 버닝맨의 '이념적 핵심'이며 전 세계 지역 화상으로 확산됐다.
+조직이 발전함에 따라 2004년 래리 하비(Larry Harvey)가 제안한 '10가지 원칙'(급진적 포용, 선물, 탈상품화 등)은 커뮤니티의 가치를 정리하고 행사에 문화적 틀을 제공했습니다. 이것이 버닝맨의 '이념적 핵심'이며 전 세계 지역화폐로 확산됐다.
 
 ---
 
 
 ### Bay Area/Tech와의 관계
 
-버닝맨은 실리콘밸리와 오랜 관계를 맺고 있다. 1990년대 후반, 구글 창업자들의 참여 일화와 함께 버닝맨이 베이지역 창조 산업의 문화 인프라로 활용됐다는 연구 결과가 나왔다. Stanford et al. 연구에 따르면 버닝맨은 "뉴미디어 산업"의 문화적 기반이 되었다고 합니다.
+버닝맨은 실리콘밸리와 오랜 관계를 맺고 있다. 1990년대 후반, 구글 창업자들의 참여 일화와 함께 버닝맨이 베이지역 창조 산업의 문화 인프라로 활용됐다는 연구 결과가 나왔다. 스탠포드 외. 연구에 따르면 버닝맨은 "뉴미디어 산업"의 문화적 기반이 되었다고 합니다.
 
 ---
 
 
 ### 유명인/연예인의 참여 및 논란
 
-Burning Man은 오랫동안 유명인사, 즉 기업가, 예술가, 심지어 정치인(Mark Zuckerberg, Elon Musk, Jeff Bezos와 같은 이름이 언론에서 언급되었습니다)을 끌어들이는 곳이었습니다. 이는 "탈상품화" 원칙과 부와 영향력을 가진 참가자의 실제 행동 사이에 마찰을 일으킬 수 있습니다.
+Burning Man은 오랫동안 유명인사, 기업가, 예술가, 심지어 정치인(Mark Zuckerberg, Elon Musk, Jeff Bezos와 같은 이름이 언론에서 언급되었습니다)을 끌어들이는 곳이었습니다. 이는 "탈상품화" 원칙과 부와 영향력을 가진 참가자의 실제 행동 사이에 마찰을 일으킬 수 있습니다.
 
 ---
 
 
 ### 일화/전설
 
-1990년 이전했을 때 경찰이 해변에서 소각을 금지한 것을 계기로 사막으로 이전을 결정하게 됐다.
+1990년 이전하면서 경찰이 해변에서 소각을 금지한 것을 계기로 사막으로 이전을 결정하게 됐다.
 버닝맨
 
 '구글두들'의 뿌리가 버닝맨(기업문화와 축제의 교차점)에서 창업자의 휴가 발표와 관련이 있다는 흥미로운 이야기.
@@ -170,7 +170,7 @@ flowchart TD
 
 1996년은 Burning Man이 "축제"에서 공동체 실험 도시로의 변화를 가속화한 해였습니다.
 
-'경험 자체에서 가치를 찾는다'는 가치관이 참가자들에게 스며들어 이후의 대규모 예술 작품과 테마 도시의 형성을 뒷받침했다.
+'경험 자체에서 가치를 찾는다'는 가치관이 참가자들에게 스며들어 이후 대규모 예술 작품과 테마형 도시의 형성을 뒷받침했다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vlZZ6RzrYtk?si=kATDPw7-4LoK8r_b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -230,7 +230,7 @@ flowchart TD
 
 #### 2003: 믿음을 넘어서
 
-종교성, 신앙, 신비, 환상, 초월성에 대한 탐구입니다. 주제와 미술 모두 의례와 기도, 의례공간을 의식한 구성이 많다.
+종교성, 신앙, 신비, 환상, 초월에 대한 탐구입니다. 주제와 미술 모두 의례와 기도, 의례공간을 의식한 구성이 많다.
 
 올해에는 테마아트로 등록된 프로젝트 수가 급증했습니다.
 
@@ -240,7 +240,7 @@ flowchart TD
 
 2004년은 '우주 비전'과 '공동체 기도'가 결합된 해로, '카고 컬트(2013)', '나, 로봇(2018)' 등 후속 과학/우주 주제의 선구자로 평가된다.
 
-베이지역 출신 NASA 엔지니어들과 MIT 미디어랩 관계자들도 참여해 '과학×예술×영성'의 삼위일체를 보여주는 상징적인 사례가 됐다.
+베이지역 출신 NASA 엔지니어와 MIT 미디어랩 관계자도 참여해 '과학×예술×영성'의 삼위일체를 보여주는 상징적인 사례가 됐다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MaloSn8beds?si=2XMtiZReALnV7h0L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -248,7 +248,7 @@ flowchart TD
 
 2005년: 프시케
 
-心性(씬씽)/영적 세계를 주제로 꿈, 무의식, 성찰 등을 다룬 작품이 많이 등장했다.
+心性(씬씽)/영적 세계를 주제로 꿈, 무의식, 성찰을 다룬 작품이 많이 등장했다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NTnrAeN8yYY?si=8B3V3PS82FebVBJh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -264,7 +264,7 @@ flowchart TD
 
 자연과 문명의 관계를 재고하는 테마입니다. "그린 맨(Green Man)"(식물과 자연적으로 발생하는 식물을 의인화한 인물)을 모티브로 한 구성입니다.
 
-그러나 그해 거대한 석유 굴착 장치를 모방한 그의 불타는 예술 'Crude Awakening'은 논란을 불러일으키고 비판을 받았다.
+그러나 그해 거대 석유 굴착 장치를 모방한 그의 불타오르는 예술 'Crude Awakening'이 논란을 불러일으키며 비판을 받았다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dyU2Wjrw3Do?si=C0LD82S702ZyNlGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -298,7 +298,7 @@ flowchart TD
 
 #### 2012: 출산율 2.0
 
-1997년 '출산'에 대한 재검토 및 업데이트. 주제는 창의성, 재탄생, 미래를 향한 싹틔움입니다.
+1997년 '불임'에 대한 재검토 및 업데이트. 주제는 창의성, 재탄생, 미래를 향한 싹틔움입니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xxRAg9Pcpm4?si=UmFXzznWDdCJXQTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -308,7 +308,7 @@ flowchart TD
 
 화물 숭배(물질문화와 신앙의 격차)를 모티브로 현대 소비사회와 화물 유통, 의식화를 재조명한다.
 
-많은 캠프와 구조물은 '숭배되는 물질'과 '선물 경제' 사이의 격차를 표현합니다.
+많은 캠프와 구조물은 "숭배되는 물질"과 "선물 경제" 사이의 격차를 표현합니다.
 
 ---
 
@@ -370,7 +370,7 @@ flowchart TD
 
 #### 2022: 깨어나는 꿈
 
-각성과 각성을 주제로 꿈과 현실의 변동에 대한 인식과 각성적 관점을 고려하여 구성을 제작하였습니다.
+각성과 각성을 주제로 꿈과 현실의 변동에 대한 인식과 각성적 관점을 고려하여 구성하였습니다.
 
 ---
 
@@ -398,11 +398,11 @@ flowchart TD
 
 ---
 
-### 참고사항 및 보충설명
+### 참고사항 및 보충 설명
 
 위 목록은 버닝맨의 공식 연간 아카이브와 여러 팬 및 음반 사이트의 테마 설명을 참조하여 구성되었습니다.
 
-성전(기도의 장소)과 사람 자체는 종종 주제에 따라 설계되며, 주제와는 별개이지만 매년 재구성되는 요소를 사용합니다.
+성전(기도의 장소)과 사람 자체는 종종 주제에 대한 반응으로 설계되며, 주제와는 독립적이지만 매년 재구성되는 요소를 사용합니다.
 
 또한, 테마는 모든 캠프/작품에 반드시 강제적으로 적용되는 것은 아니며, 오히려 '제안적 틀'로서 기능한다.
 
@@ -414,6 +414,6 @@ flowchart TD
 
 매년 바뀌는 주제와 대규모 작품은 참여자들이 자신의 경험을 통해 자신의 가치관과 사회적 관계에 대해 질문하는 장치로 기능한다. 사막에 건설된 덧없는 도시는 개인의 기억 속에 각인되어 사회, 문화, 창의성에 지속적인 영향을 미치고 있습니다.
 
-이것이 바로 Burning Man의 본질입니다. 사막의 모닥불이 꺼지더라도 그 정신은 내년과 우리의 상상 속에서 계속 불타오르고 있습니다.
+이것이 바로 Burning Man의 본질입니다. 사막의 모닥불이 꺼져도 영혼은 내년과 우리의 상상 속에서 계속 불타오르고 있습니다.
 
 

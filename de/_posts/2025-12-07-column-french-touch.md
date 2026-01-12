@@ -86,7 +86,7 @@ Insbesondere während der „Discovery“-Phase gilt es nicht, die Probe auf Hoc
 ### ● ③ Band-/Kompressionstextur
 Außenbordkompressoren (insbesondere der Alesis 3630) wurden damals häufig in Studioumgebungen eingesetzt.
 Dieser Kompressor hat eine „grobe“ Klangqualität, aber
-Im Gegenteil, es wurde zu einem entscheidenden Element bei der Schaffung von **dem druckvollen Kick + Crushed-Loop von French Touch**.
+Im Gegenteil, es wurde zu einem entscheidenden Element bei der Schaffung von **dem druckvollen Kick + Crushed Loop von French Touch**.
 
 ---
 
@@ -191,12 +191,12 @@ Der Filter-Sweep von French Touch basierte auf analogen harmonischen Änderungen
 ### ◆ ② Plattenkultur: Musikproduktion basierend auf Sampling
 Ein Großteil von French Touch beginnt mit Vinyl-Samples.
 Hier liegt die „Freude am Entdecken“ von Musik**.
-Es war die Atmosphäre der Zeit, als Clubkultur und Plattenkultur direkt miteinander verbunden waren.
+Es war die Atmosphäre jener Zeit, als Clubkultur und Plattenkultur unmittelbar miteinander verbunden waren.
 Das Ausgraben von Aufzeichnungen selbst war das Tor zur Schöpfung.
 
 Vinyl-Eigenschaften:
 - Lärm = Textur
-- Die Stärke des Tons ändert sich je nach Stiftdruck.
+- Die Dicke des Tons ändert sich je nach Stiftdruck.
 - Das Klangbild ändert sich je nach der Umgebung, in der Sie dieselbe Aufnahme rippen.
 
 Diese „Mehrdeutigkeit“ war French Touch sehr wichtig.
@@ -258,7 +258,7 @@ Durch die Einbindung von **Disco~80er-Revival**,
 Französische House-Sounds gewinnen erneut an Aufmerksamkeit.
 
 ### ● 3) „Umgraben“ bei jungen Menschen
-auf YouTube, SoundCloud und TikTok
+Auf YouTube, SoundCloud und TikTok
 French-Touch-Klassiker wurden wiederentdeckt und einer Generation zugänglich gemacht, die mit der Clubkultur nicht vertraut war.
 
 ---
@@ -271,7 +271,7 @@ Die Aufbaumethode ist dieselbe.
 
 - Mit Tiefpassfilter abschließen
 - nach und nach öffnen
-- Kontrollieren Sie den Groove durch Einsetzen und Entfernen von Kicks
+- Kontrollieren Sie den Groove, indem Sie Tritte einfügen und entfernen
 
 Dies ist seit Daft Punks „Da Funk“ ein beständiges Erbe.
 

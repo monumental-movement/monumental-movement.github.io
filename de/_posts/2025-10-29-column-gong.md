@@ -18,7 +18,7 @@ title: '[Kolumne] Gong-Legende: Ära, Mythos, Klang und Gemeinschaft'
 ## 1. Einführung: Musiker als Wissenschaftler
 
 
-Text: mmr｜Thema: Gong, die „kosmische Gemeinschaft“, gegründet von David Allen und Gilly Smith. Über Mythos, Klang und Erbe von den 1960er Jahren bis heute
+Text: mmr | Thema: Gong, die „kosmische Gemeinschaft“, aufgebaut von David Allen und Gilly Smith. Über Mythos, Klang und Erbe von den 1960er Jahren bis heute
 
 > „Wir waren eine fliegende Teekanne, die durch die Revolution segelte.“
 > - Daevid Allen
@@ -84,7 +84,7 @@ Ihre Aktivitätsbasis war nicht nur eine Band, sondern eine „Anarchie-Kommune�
 
 *Charaktere*: ​​**Zero the Hero** (Reisender), **Octave Doctor** (Klangwissenschaftler)
 
-> „Gong war ein freies Schiff zum Segeln.“ - Aussage eines Mitglieds
+> „Gong war ein freies Schiff, auf dem man segeln konnte.“ - Aussage eines Mitglieds
 
 Diese „Reise“ war nicht nur eine musikalische Aktivität, sondern ein **Live-Experiment**.
 
@@ -99,7 +99,7 @@ Beim Gleiten der Saiten verändert sich der Klang wie eine Flüssigkeit.
 - **Space Whisper** von Gilly Smith:
 Er murmelt mit leiser Stimme, als würde er durch den Raum schweben und die Klanglandschaft einhüllen.
 
-Hinzu kommen das Saxophon von Didier Margrive und die Percussion von Pierre Moherlin, wodurch eine harmonische Mischung aus Jazz, Rock und poetischer Rezitation entsteht.
+Hinzu kommen Didier Margrives Saxophon und Pierre Moherlins Percussion, wodurch eine harmonische Mischung aus Jazz, Rock und poetischer Rezitation entsteht.
 
 > 🎧 Hörempfehlungen: *Fliegende Teekanne*, *Angel’s Egg*, *You*
 
@@ -116,11 +116,11 @@ Dabei handelt es sich nicht nur um Alben, sondern um mythologische Epen von „P
 
 | Charakter | Funktionen |
 | :-- | :-- |
-| Zero the Hero | Ein Reisender, der zwischen der Erde und dem Gong-Planeten reist |
+| Null der Held | Ein Reisender, der zwischen der Erde und dem Gong-Planeten reist |
 | Pot Head Pixies | Geister des Glücks und des Chaos |
 | Oktavdoktor | Wissenschaftler, der Klang und Ordnung manipuliert |
 
-> „Ich bin dein Funkzwerg, direkt vom Planeten Gong …“
+> „Ich bin dein Radiozwerg, direkt vom Planeten Gong …“
 
 Gong begründete das Konzept des „narrativen Klangs“ in der Musik.
 
@@ -151,7 +151,7 @@ Gong war ein Symbol einer gegenkulturellen Praxis, die Gesellschaft und Kunst ni
 
 ---
 
-## Kapitel 7 Transformation und Vererbung – Moellan-Gong und Wiedergeburt {#chapter7}
+## Kapitel 7 Transformation und Vererbung – Moellan Gong und Wiedergeburt {#chapter7}
 
 Nach 1976 verließ David Allen das Unternehmen.
 Pierre Moerlan übernahm die Leitung und der Jazz-Fusion-orientierte **Pierre Moerlan's Gong** war geboren.

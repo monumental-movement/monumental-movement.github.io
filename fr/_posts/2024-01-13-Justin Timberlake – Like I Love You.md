@@ -17,7 +17,7 @@ Justin Randall Timberlake est un chanteur pop, chanteur R&B et acteur américain
 
 Il a déjà gagné en popularité en tant que leader du groupe de garçons Insync.
 
-En 2002, il sort son premier album solo "Justified", vendu à plus de 10 millions d'exemplaires dans le monde.
+En 2002, il sort son premier album solo, « Justified », qui se vend à plus de 10 millions d’exemplaires dans le monde.
 
 En 2006, sort son deuxième album solo "Futuresex/Lovesounds".
 

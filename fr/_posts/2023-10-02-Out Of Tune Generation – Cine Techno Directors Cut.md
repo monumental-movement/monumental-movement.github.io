@@ -9,15 +9,15 @@ permalink: /fr/out-of-tune-generation-cine-techno-directors-cut/
 tags:
 - Techno
 - House
-title: Génération désaccordée – Coupe du réalisateur Cine Techno
+title: Out Of Tune Generation – Cine Techno Director's Cut
 ---
 
 
-Out Of Tune Generation est un projet de Keitaro Takanami (Pizzicato Five). A1 est une reprise maison de la chanson "Mana Mana" du film Mondo "Sweden: Heaven and Hell".
+Out Of Tune Generationは高浪敬太郎（ピチカート・ファイブ）のプロジェクト。A1はモンド映画、「Sweden: Heaven and Hell」の挿入曲「マナ・マナ」のハウスカバー。
 
-A2 est une reprise du film gréco-britannique « The Day the Fish Came Out ».
+A2は、ギリシャ・イギリス映画「魚が出てきた日」のカバー。
 
-Linus & Lucy de B1 est une reprise de la chanson Linus & Lucy de Vince Guaraldi de 1964, qui est souvent jouée dans Peanuts (en particulier Merry Christmas de Snoopy). B2 est la couverture du film britannique "Knife from the Lips".
+B1のLinus & Lucyは、ピーナッツ（特にスヌーピーのメリー・クリスマス）で頻繁に流れるビンス・ガラルディが1964年に発表した楽曲Linus & Lucy（ライナス・アンド・ルーシー）のカバー。B2はイギリス映画「唇からナイフ」のカバー。
 
 #### Liste des chansons
 ```md

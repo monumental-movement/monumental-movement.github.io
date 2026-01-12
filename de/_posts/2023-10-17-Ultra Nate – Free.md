@@ -17,7 +17,7 @@ title: Ultra Naté – Kostenlos
 
 Der erste und zweite Song auf Seite A sind Remixe von M&S, einem Projekt des britischen Garage-DJs Ricky Morrison und Fran Sidoli.
 Der dritte Titel auf Seite A ist ein Remix der deutschen House-Gruppe Tiefschwarz.
-Der erste Titel auf der B-Seite ist ein Remix des in Miami geborenen DJ/Produzenten George Acosta.
+Der erste Song auf der B-Seite ist ein Remix des in Miami geborenen DJ/Produzenten George Acosta.
 
 #### Trackliste
 ```md

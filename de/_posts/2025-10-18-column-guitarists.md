@@ -11,7 +11,7 @@ tags:
 - Rock
 - Noise
 - Post Rock
-title: '[Spalte] Saiten, die Emotionen und Gedanken direkt transportieren – Gitarristen
+title: '[Kolumne] Saiten, die Emotionen und Gedanken direkt transportieren – Gitarristen
   aus aller Welt und Japan'
 ---
 
@@ -108,7 +108,7 @@ color: #fff;
 
 ---
 
-# III. Japan: Stille und rauschende Geschichte der Gitarristen
+# III. Japan: Eine Geschichte stiller und brüllender Gitarristen
 
 ## 1. Nach dem Krieg und dem Aufkommen der Elektrizität (1950er bis 1970er Jahre)
 
@@ -149,7 +149,7 @@ color: #fff;
 - Lange Improvisation über mehrere Stunden
 - Auftritt mit dem ganzen Körper (Streicher, Körper, Stimme)
 - Erlebnisdarbietung, die nicht nur das Gehör, sondern auch räumliche und körperliche Empfindungen anspricht
-- **Einfluss**: Hinterlässt einen großen Fußabdruck in der gesamten japanischen Underground-Szene und wird zu einem spirituellen Leuchtturm für nachfolgende Gitarristen und experimentelle Musiker.
+- **Einfluss**: Hinterlässt einen großen Fußabdruck in der gesamten japanischen Underground-Szene und wird zu einem spirituellen Leuchtturm für spätere Gitarristen und experimentelle Musiker.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/46TwKWh6zT0?si=qSt9UJBLZNcLMt3G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -177,7 +177,7 @@ color: #fff;
 
 ## 4. Die neue Generation der Einzelgänger (2010-2020er Jahre)
 
-**Ichika Nito** ist eine erfahrene Künstlerin der SNS-Generation, die Polyrhythmik, Klopfen und Harmoniebildung voll ausnutzt. Verbreitung in der Welt über YouTube.
+**Ichika Nito** ist eine erfahrene Künstlerin der SNS-Generation, die Polyrhythmik, Klopfen und Harmoniebildung voll ausnutzt. Über YouTube weltweit verbreitet.
 
 **Ichiko Aoba** nutzt eine Akustikgitarre, um traumhafte Volksmärchen auszudrücken.
 
@@ -187,13 +187,13 @@ color: #fff;
 
 ---
 
-# IV. Die Gitarre neu definieren: Gerät, Körper, Gebet
+#IV. Die Gitarre neu definieren: Gerät, Körper, Gebet
 
 Die Gitarre ist nicht nur ein Musikinstrument, sondern ein Mittel zur Selbstdarstellung.
 
 - **Pedalboard-Philosophie**: Klangerzeugung = Ego-Design. Jedes Pedal wird zu einer Erweiterung der Persönlichkeit des Spielers.
 - **Loop/Glitch/DAW**: Erweiterter „Fingerspeicher“. Ein einzelner Interpret kann einen Orchesterausdruck ausüben.
-- **Seiichi Yamamoto x Jim O’Rourke**: Überbrückung der Welt aus dem Untergrund von Kyoto. Beeinflusste improvisatorische und experimentelle Musik im In- und Ausland.
+- **Seiichi Yamamoto x Jim O’Rourke**: Überbrückung des Untergrunds von Kyoto mit der Welt. Beeinflusste improvisatorische und experimentelle Musik im In- und Ausland.
 
 Keiji Haino betrachtet die Gitarre als eine Erweiterung seines Körpers und Geistes und ist eine Präsenz, die die Sinne des Zuhörers mit den Extremen des Klangs erschüttert. Die Dreifaltigkeit von Improvisation, Zerstörung und Ausdruck wird zu einer wichtigen Koordinate in der Geschichte der japanischen Underground-Gitarre.
 

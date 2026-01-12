@@ -27,7 +27,7 @@ Dies war eine Zeit, als der Krieg vorbei war und das Fernsehen noch nicht weit v
 Die Musik, die in den Wohnzimmern der Menschen erklang, war weder Jazz noch klassische Musik, sondern der Klang, der „Entspannung“ selbst symbolisierte.
 Im Zentrum dieses Klangs stand das **Akkordeon**.
 
-Die Musik von Three Suns beeinflusste in aller Stille kommende Generationen und war Vorreiter bei Lounge, Exotica und Space-Age-Pop.
+Die Musik von Three Suns beeinflusste in aller Stille zukünftige Generationen und war Vorreiter bei Lounge, Exotica und Space-Age-Pop.
 
 ---
 
@@ -89,7 +89,7 @@ Es war wirklich **Innenarchitektur mit Klang**.
 
 | Element | Inhalt | Beziehung zu drei Sonnen |
 |------|------|-------|
-| Hi-Fi-Audio | Popularisierung der Stereowiedergabe zu Hause | Aufnahme mit Blick auf akustische Effekte |
+| Hi-Fi-Audio | Popularisierung der Stereowiedergabe in Privathaushalten | Aufnahme mit Blick auf akustische Effekte |
 | Cocktailkultur | Symbol urbaner Freizeit | Musik verschmolzen mit „Rausch“ |
 | Heimvideos | Hintergrundmusik im 8mm-Filmzeitalter | Drei Sonnen wurden häufig verwendet |
 | Raumorientiert | Ästhetik des Weltraumzeitalters | Schwebender Klang schwingt mit |
@@ -150,13 +150,13 @@ timeline
 
 Der Klang von Three Suns ist noch immer zu hören.
 Ein altes Café an der Ecke, ein alter YouTube-Kanal oder eine Lo-Fi-Playlist.
-Irgendwo da drin kann ich das Atmen einer Ziehharmonika hören.
+Irgendwo da drinnen höre ich das Atmen einer Ziehharmonika.
 
 > Das Akkordeon ist die „Lunge“ zwischen Maschine und Mensch.
 > Das war der Kern der Musik von Three Suns.
 
 Akkordeons sind nicht veraltet;
-Es fängt wieder an, nach einer „analogen Zukunft“ zu klingen.
+Es beginnt wieder einmal nach einer „analogen Zukunft“ zu klingen.
 
 ---
 
@@ -168,7 +168,7 @@ Es fängt wieder an, nach einer „analogen Zukunft“ zu klingen.
 | 1953 | Auf einem fliegenden Teppich | RCA | Der Keim des Exotica-Sounds |
 | 1956 | Movin' 'n' Groovin' | RCA | Ein Meisterwerk aus den Anfängen der Stereoanlage |
 | 1957 | Mitternacht für Zwei | RCA | Komplette Hi-Fi-Aufnahme |
-| 1960 | Fieber und Rauch | RCA | Stärkung der Jazz-Elemente |
+| 1960 | Fieber und Rauch | RCA | Stärkung der Jazzelemente |
 
 
 ---

@@ -15,7 +15,7 @@ title: Hypnotiseur – House Is Mine 92
 
 Hypnotist ist eine britische Techno-Einheit, die in der frühen Techno-Szene aktiv war. Ihre Musik ist für ihre energiegeladenen, tanzflächentauglichen Tracks bekannt.
 
-„House Is Mine '92“ ist das Meisterwerk von Hypnotist und gilt als Klassiker der Techno-Musik. Der Song verfügte über einen kraftvollen Beat, eine starke Basslinie und gesampelte Vocals, was ihn zu einem Hit auf Club- und Rave-Tanzflächen machte.
+„House Is Mine '92“ ist Hypnotists Meisterwerk und gilt als Klassiker der Techno-Musik. Der Song verfügte über einen kraftvollen Beat, eine schwere Basslinie und gesampelte Vocals, was ihn zu einem Hit auf Club- und Rave-Tanzflächen machte.
 
 Dieses Lied verkörpert den Sound und die Energie der Technoszene der frühen 90er Jahre. Mit seinen tanzbaren Rhythmen und dem einzigartigen Sampling werden Zuhörer in eine einzigartige Welt der Musik von Hypnotist entführt.
 

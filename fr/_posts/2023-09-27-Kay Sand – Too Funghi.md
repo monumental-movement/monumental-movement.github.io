@@ -15,7 +15,7 @@ title: Kay Sand – Trop Funghi
 
 Kay Sand est un projet du DJ italien Francesco Sperotto sorti en 2009 sur le label allemand Deep Moves.
 
-Les remixes sont également excellents, notamment la chanson italienne « Minimono » et le vrai nom de Domenico Cipriani « Lucreito ».
+Les remix sont également excellents, notamment la chanson italienne « Minimono » et le vrai nom de Domenico Cipriani, « Lucreito ».
 
 #### Liste des chansons
 ```md

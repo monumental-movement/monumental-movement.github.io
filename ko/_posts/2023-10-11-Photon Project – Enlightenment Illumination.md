@@ -9,7 +9,7 @@ permalink: /ko/photon-project-enlightenment-illumination/
 tags:
 - Trance
 - Progressive
-title: 포톤 프로젝트 - 계몽 조명
+title: 광자 프로젝트 - 계몽 조명
 ---
 
 

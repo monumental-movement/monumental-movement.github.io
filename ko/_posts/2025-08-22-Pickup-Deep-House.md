@@ -23,7 +23,7 @@ title: 딥하우스 작품 픽업
 
 개요 : '워크숍 04'는 바이닐로 발매된 미니멀리즘과 딥하우스의 요소를 결합한 작품이다. A면에는 독일 뮤지션 Move D(David Moufang)와 Fragment의 딥 하우스 트랙이, B1에는 Even Tuell의 딥 미니멀 하우스 트랙이, B2에는 Sascha Dive의 다운템포 트랙이 있습니다.
 
-추천 포인트 : 클럽 같은 그루브와 깊은 사운드 이미지가 매력적인 느낌. 세련된 유럽풍 하우스/미니멀한 장면을 즐기고 싶은 분들에게 딱 맞는 작품입니다.
+추천 포인트 : 클럽 같은 그루브와 깊은 사운드 이미지가 매력적인 느낌. 세련된 유러피안 하우스/미니멀한 장면을 즐기고 싶은 분들에게 딱 맞는 작품입니다.
 
 #### 트랙리스트
 ```md
@@ -69,12 +69,12 @@ B2. Cosmic Love (FS Cosmic Regroove)
 <br>
 
 
-### Danny Clark & ​​​​Jay Benham, Carla Prather 출연 – Into You
+### Danny Clark & ​​​​Jay Benham, Carla Prather – Into You 출연
 <a href="https://jp.mercari.com/item/m15102745172?afid=6142608987"><img src="../assets/images/Danny%20Clark%20&%20Jay%20Benham%20Featuring%20Carla%20Prather%20%E2%80%93%20Into%20You.webp"></a>
 
-요약: "Into You"는 Carla Prather가 피처링한 영국 하우스 뮤직 프로듀서 Danny Clark & ​​​Jay Benham의 딥 하우스/개러지 하우스 트랙입니다.
+요약: "Into You"는 Carla Prather가 피처링한 영국 하우스 뮤직 프로듀서 Danny Clark & ​​​​Jay Benham의 딥 하우스/개러지 하우스 트랙입니다.
 
-추천포인트 : 깊은 베이스라인과 부드러운 보컬이 돋보이는 감성적인 딥하우스 트랙입니다. 차고 풍미의 진수도 갖고 있어 다양한 상황에서 즐길 수 있습니다.
+추천 포인트 : 깊은 베이스 라인과 부드러운 보컬이 돋보이는 감성적인 딥하우스 트랙입니다. 차고 풍미의 진수도 갖고 있어 다양한 상황에서 즐길 수 있습니다.
 
 #### 트랙리스트
 ```md

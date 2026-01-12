@@ -25,7 +25,7 @@ title: '[Kolumne] Von der Schnittstelle zwischen Disco und japanischer Kultur bi
 Text: mmr｜Thema: Japans einzigartige Rezeption und Entwicklung der Disco, die sich in den 1970er Jahren hauptsächlich in den Vereinigten Staaten entwickelte
 
 
-Disco wurde in den 1970er Jahren in den USA geboren und erlebte zusammen mit der urbanen Kultur, einem Gefühl der Befreiung unter schwarzen und lateinamerikanischen Gemeinschaften sowie technologischen Fortschritten einen regelrechten Aufschwung. Etwa zur gleichen Zeit wurde der „New-York-Trend“ nach Japan importiert und verbreitete sich in Ausgehzentren wie Roppongi, Akasaka und Ginza. In diesem Artikel werden wir die Beziehung zwischen Disco und japanischer Kultur jahrzehntelang nachzeichnen und die berühmtesten Platten, Ausrüstung, Clubgeschichte und empfohlenen Titel ordnen.
+Disco wurde in den 1970er Jahren in den Vereinigten Staaten geboren und erlebte zusammen mit der urbanen Kultur, einem Gefühl der Befreiung unter schwarzen und lateinamerikanischen Gemeinschaften und Fortschritten in der Technologie einen regelrechten Aufschwung. Etwa zur gleichen Zeit wurde der „New-York-Trend“ nach Japan importiert und verbreitete sich in Nachtlebenzentren wie Roppongi, Akasaka und Ginza. In diesem Artikel werden wir die Beziehung zwischen Disco und japanischer Kultur jahrzehntelang nachzeichnen und die berühmtesten Platten, Ausrüstung, Clubgeschichte und empfohlenen Titel ordnen.
 
 ---
 
@@ -149,7 +149,7 @@ Auch nach dem Platzen der japanischen Blase entwickelte sich die Disco zu einer 
 Wechsel von „Juliana Tokyo“ zur Shibuya Club Culture. Aus der Disco-Generation entwickelte sich die Club-Generation.
 
 - **Hauptausrüstung**
--Akai MPC-Serie
+- Akai MPC-Serie
 - Pioneer CDJ-500 (1992)
 -Roland JP-8000
 
@@ -168,7 +168,7 @@ Wechsel von „Juliana Tokyo“ zur Shibuya Club Culture. Aus der Disco-Generati
 | Rund um die Welt | Daft Punk | Roboterhausrevolution. |
 | EZ DO DANCE | TRF | Ein Lied, das die japanische Clubkultur symbolisiert. |
 | Körpergefühle EXIT | Namie Amuro | Eine Tanznummer, die die Blütezeit des TK-Sounds repräsentiert. |
-| Rhythmus ist ein Tänzer | Schnapp! | Ein monumentales Stück Euro-Tanz. |
+| Rhythmus ist ein Tänzer | Schnapp! | Ein Meilenstein im Eurodance. |
 | Was ist Liebe | Haddaway | Eine Clubhymne, die auf der ganzen Welt geliebt wird. |
 | Kostenlos | Ultra Naté | Eine Fusion aus House- und Disco-Geist. |
 | ABFAHRTEN | Globus | Ein Hit, der Japans Clubszene der 90er Jahre prägte. |
@@ -177,7 +177,7 @@ Wechsel von „Juliana Tokyo“ zur Shibuya Club Culture. Aus der Disco-Generati
 
 ## 2000er – Der Aufstieg der Nu-Disco und die Umstrukturierung der Clubs
 - **Hintergrund**
-„Nu-Disco“ und Electroclash erfreuen sich weltweit großer Beliebtheit. Das Disco-Revival in Japan schreitet voran und die Clubszene steht erneut im Rampenlicht.
+„Nu-Disco“ und Electroclash erfreuen sich weltweit großer Beliebtheit. Auch in Japan schreitet das Disco-Revival voran und die Band steht erneut im Rampenlicht der Clubszene.
 
 - **Repräsentative Meisterwerke (Ausland)**
 - Daft Punk – *Discovery* (2001)
@@ -259,7 +259,7 @@ Tatsuro Yamashita, Taeko Onuki, Mariya Takeuchi und andere wurden wiederentdeckt
 | Ich kann das Gefühl nicht stoppen | Justin Timberlake | Pop-Disco |
 | Die Bucht | Metronomie | Indie Nu-Disco |
 | TANZEN. | Gerechtigkeit | Elektro x Disco |
-| Ich fühle mich besser | Heißer Chip | Elektropop-orientiert |
+| Ich fühle mich besser | Heißer Chip | Elektropop |
 | Rote Lichter | Tiësto | Schnittpunkt von EDM und Nu-Disco |
 
 

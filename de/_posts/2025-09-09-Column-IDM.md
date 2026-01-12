@@ -27,7 +27,7 @@ Ein Labyrinth aus Klängen, das die intellektuelle Neugier weckt – IDM (Intell
 
 ## Anfang der 1990er Jahre: Geburt – Der Keim der „Tanzmusik zum Zuhören“
 Ende der 1980er Jahre, inmitten der britischen Rave-Kultur und des Techno-Trends, begannen Underground-Labels und -Künstler, elektronische Musik für das Hören zu Hause und nicht nur als Club-Tool zu erforschen.
-Die 1992 von Warp Records veröffentlichte Serie „Artificial Intelligence“ stellte einen entscheidenden Wendepunkt dar und der Begriff „IDM“ wurde populär.
+Die 1992 von Warp Records veröffentlichte Serie „Artificial Intelligence“ stellte einen entscheidenden Wendepunkt dar und der Name „IDM“ verbreitete sich.
 
 - **Repräsentatives Meisterwerk**
 - Aphex Twin – *Selected Ambient Works 85-92* (1992)
@@ -64,7 +64,7 @@ color: #fff;
 | 7 | Die Kugel | Kleine flauschige Wolken | Ein Meisterwerk, das das Sampling voll ausnutzt |
 | 8 | Schneller J | De-Orbit | Der Ursprung des Ambient Techno |
 | 9 | Seefeel | Plainsong | Gitarrenlärm und IDM-Ansatz |
-| 10 | Globale Kommunikation | 14:31 | Meditative Ambient-Werke |
+| 10 | Globale Kommunikation | 14:31 | Meditative Ambient-Arbeiten |
 
 ---
 
@@ -99,7 +99,7 @@ Hardware-Synthesizer wie **Nord Lead** und **Access Virus** wurden populär.
 ---
 
 ## 2000er: Post-IDM und Crossover
-Durch die Verschmelzung mit Electronica, Post-Rock, Ambient usw. wird es einem breiteren Publikumskreis zugänglich gemacht. Mit der Verbreitung des Internets und P2P hat sich die Art der Veröffentlichungen verändert.
+Durch die Verschmelzung mit Electronica, Post-Rock, Ambient usw. wird es einem breiteren Hörerkreis zugänglich gemacht. Mit der Verbreitung des Internets und P2P hat sich auch die Art und Weise verändert, wie Veröffentlichungen durchgeführt werden.
 
 - **Repräsentatives Meisterwerk**
 - Boards of Canada – *Geogaddi* (2002)
@@ -171,7 +171,7 @@ Im Streaming-Zeitalter verschwimmen die Grenzen zwischen den Genres zunehmend. E
 **Verwendung von KI-Unterstützungstools und generativer Musiksoftware**.
 Hybride Produktion, die Modularität und Software kombiniert.
 
-### Liste mit 10 empfohlenen Songs (seit 2020)
+### Liste mit 10 empfohlenen Songs (2020er-heute)
 
 | Nein | Künstler | Songtitel | Kommentar |
 |---|---|---|---|

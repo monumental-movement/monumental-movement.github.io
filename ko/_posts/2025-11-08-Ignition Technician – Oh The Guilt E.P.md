@@ -15,7 +15,7 @@ title: 점화 기술자 – Oh The Guilt E.P.
 
 Ignition Technician은 영국 리즈 출신의 Pete Simpson과 Richard Wilkinson이 1999년에 설립한 테크노 프로덕션 팀입니다.
 
-Carl Cox에 의해 초기에 발견된 Dave Clarke, Laurent Garnier, Joey Beltram, Billy Nasty, Pete Tong, Judge Jules, Jon Peel 및 Colin Murry와 같은 DJ들이 Ignition Technician의 음반을 연주하기 시작했습니다.
+Carl Cox에 의해 초기에 발견된 Dave Clarke, Laurent Garnier, Joey Beltram, Billy Nasty, Pete Tong, Judge Jules, Jon Peel 및 Colin Murry와 같은 DJ들이 Ignition Technician의 레코드를 재생하기 시작했습니다.
 
 "오 죄책감 E.P." 는 Ignition Technician이 운영하는 레이블인 Ignition Records에서 2002년에 발표한 테크노 트랙입니다.
 

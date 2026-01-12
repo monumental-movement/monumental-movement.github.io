@@ -161,7 +161,7 @@ timeline
 Le Neo-Krautrock est plus qu'une simple réédition, il influence la musique contemporaine :
 
 - **Post-lock** : Introduction de structures répétitives et d'expressions spatiales.
-- **Electronica** : méthode de combinaison de sources sonores analogiques et numériques.
+- **Electronica** : Une méthode de combinaison de sources sonores analogiques et numériques.
 - **Indie Rock** : Héritage de l'esprit de la production indépendante et des performances live.
 - **Diversification des expressions live** : Les performances live multimédia liées à la vidéo et à l'éclairage ont également le vent en poupe.
 
@@ -185,7 +185,7 @@ flowchart TD
 
 ---
 
-## 8. Conclusion
+## 8. 結論
 
 Le Neo-Krautrock ramène l'esprit du Krautrock au 21ème siècle, devenant un pont entre le passé et le futur. Des artistes comme Tropic of Cancer et Panda Lux conservent l'esthétique originale du krautrock tout en promouvant de nouvelles expérimentations musicales. Avec les progrès de la théorie musicale, de la technologie d'enregistrement et de l'expression live, le Neo-Krautrock continuera d'être au centre de la scène musicale expérimentale.
 

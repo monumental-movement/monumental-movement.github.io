@@ -17,7 +17,7 @@ title: '[Chronique] New Wave : L''intersection de l''innovation musicale post-p
 ## La New Wave n'est pas seulement un genre, mais une « sensibilité de l'époque » qui hérite de l'esprit expérimental de l'ère post-punk et fusionne diverses musiques et cultures.**
 
 
-Texte : mmr｜Thème : Mouvement artistique de l'ère post-punk
+Texte : mmr｜Thème : Mouvements artistiques à l’ère post-punk
 
 <hr>
 

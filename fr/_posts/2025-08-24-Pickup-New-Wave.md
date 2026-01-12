@@ -172,7 +172,7 @@ B1. I Can't Crack (Broken Mix)
 ### Devo – Nouveaux traditionalistes
 <a href="https://jp.mercari.com/item/m80101540352?afid=6142608987"><img src="../assets/images/Devo%20%E2%80%93%20New%20Traditionalists.webp"></a>
 
-Sortie : Publié le 18 mai 2024. Le quatrième album autoproduit de Devo, représentant de la new wave américaine (1981).
+Sortie : Posté le 18 mai 2024. Le quatrième album autoproduit de Devo, représentant de la new wave américaine (1981).
 
 
 Points recommandés : Un album innovant qui combine des lignes de synthé minimales et cool, des percussions électroniques et le thème de la « déévolution ». Contient des chansons représentatives telles que « Through Being Cool ».

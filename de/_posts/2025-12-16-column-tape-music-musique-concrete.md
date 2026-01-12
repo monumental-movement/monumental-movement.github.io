@@ -22,7 +22,7 @@ Text: mmr｜Thema: „Neudefinition von Tonbandmusik/konkreter Musik im Kontext 
 
 ### 1.1 Isolierung akustischer Phänomene
 
-Vor der konkreten Musik wurde Musik als eine Kombination abstrahierter Elemente wie Tonhöhe, Rhythmus und Harmonie behandelt. Mit der Entwicklung der Aufnahmetechnik wurde der Klang jedoch als zeitliches und räumliches Ereignis isoliert und zu einem Objekt, das neu arrangiert werden kann. Diese Idee wurde zum Ausgangspunkt für die Aufhebung der Unterscheidung zwischen Instrumentalgeräuschen und Umgebungsgeräuschen.
+Vor der konkreten Musik wurde Musik als eine Kombination abstrahierter Elemente wie Tonhöhe, Rhythmus und Harmonie betrachtet. Mit der Entwicklung der Aufnahmetechnik wurde der Klang jedoch als zeitliches und räumliches Ereignis isoliert und zu einem Objekt, das neu arrangiert werden kann. Diese Idee wurde zum Ausgangspunkt für die Aufhebung der Unterscheidung zwischen Instrumentalgeräuschen und Umgebungsgeräuschen.
 
 ### 1.2 Rundfunktechnik und Experimentierraum
 
@@ -49,7 +49,7 @@ color: #fff;
 
 ### 2.1 Aufbau des Magnetbandes
 
-Magnetband ist ein flexibles physisches Medium. Vorgänge wie Schneiden, Spleißen, Abwickeln und Ändern der Geschwindigkeit wurden allesamt als physische Handlungen ausgeführt. Diese Körperlichkeit wurde in den 1970er Jahren zu einem wichtigen Faktor der Neubewertung.
+Magnetband ist ein flexibles physikalisches Medium. Vorgänge wie Schneiden, Spleißen, Abwickeln und Ändern der Geschwindigkeit wurden allesamt als physische Handlungen ausgeführt. Diese Körperlichkeit wurde in den 1970er Jahren zu einem wichtigen Faktor der Neubewertung.
 
 ### 2.2 Komposition als Bearbeitungsakt
 
@@ -65,7 +65,7 @@ Durch die extrem nahe Platzierung des Mikrofons an der Schallquelle wurden winzi
 
 ### 3.2 Mehrpunkt-Soundsammlung
 
-Die Tonaufnahme mit mehreren Mikrofonen war der Vorgang, eine einzelne Tonquelle aus verschiedenen Perspektiven einzufangen und wurde zur Grundlage für die Neugestaltung der räumlichen Struktur im späteren Bearbeitungsprozess.
+Bei der Tonaufnahme mit mehreren Mikrofonen handelte es sich um die Aufnahme einer einzelnen Tonquelle aus verschiedenen Perspektiven und wurde zur Grundlage für die Neugestaltung der räumlichen Struktur im späteren Bearbeitungsprozess.
 
 ---
 
@@ -135,7 +135,7 @@ Das Studio wird mittlerweile eher als Sound-Design-Raum denn als Aufführungsrau
 
 Tonbandmusik erforderte nicht unbedingt einen Anfang, eine Entwicklung und ein Ende.
 
-### 9.2 Umschulung des Zuhörens
+### 9.2 Umerziehung des Hörens
 
 Der Prozess der Abstraktion realer Geräusche erforderte von den Zuhörern, ihre Aufmerksamkeit auf eine neue Art und Weise zu lenken.
 
@@ -174,7 +174,7 @@ flowchart LR
 
 ## Fazit: Das Herzstück der Aufarbeitung der 1970er Jahre
 
-Tonbandmusik/konkrete Musik wurde in den 1970er Jahren in der Avantgarde-Musik als Grundlage zwischen Improvisation, Noise und elektronischem Klang wiederentdeckt. Die Methodik der Intervention in physischen Medien definierte Musik neu als zeitliches Ereignis, ein Einfluss, der bis heute anhält.
+Tonbandmusik/Konkrete Musik wurde in den 1970er Jahren in der Avantgarde-Musik als Grundlage zwischen Improvisation, Noise und elektronischem Klang wiederentdeckt. Die Methodik der Intervention in physischen Medien definierte Musik neu als zeitliches Ereignis, ein Einfluss, der bis heute anhält.
 
 ---
 

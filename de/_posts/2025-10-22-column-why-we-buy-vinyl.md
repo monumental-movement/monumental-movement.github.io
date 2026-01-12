@@ -21,7 +21,7 @@ Text: mmr | Thema: Warum geben Menschen die digitale Perfektion auf und kehren z
 
 Spotify, Apple Music, YouTube Music.
 Wir befinden uns jetzt in einer Zeit, in der Klänge aus aller Welt mit nur einem Fingertipp verfügbar sind.
-Doch trotz all dieser **perfekten Bequemlichkeit** kommt es zu einer seltsamen Gegenreaktion.
+Doch inmitten all dieser **perfekten Bequemlichkeit** kommt es zu einer seltsamen Gegenreaktion.
 
 --Es ist die Wiederbelebung der Rekorde.
 
@@ -70,7 +70,7 @@ Diese **Beschwerlichkeit erzeugt tatsächlich Bindung**.
 
 ## Kapitel 2: Erinnerungen im Lärm – Analog und Nostalgie
 
-In dem Moment, in dem die Nadel fällt, ertönt ein „Sah“-Geräusch.
+Das „knallende“ Geräusch in dem Moment, in dem die Nadel fällt.
 Aus irgendeinem Grund verspüren viele Menschen schon beim Hören Nostalgie.
 
 Dieses Phänomen wird psychologisch als „Proust-Effekt“ bezeichnet.

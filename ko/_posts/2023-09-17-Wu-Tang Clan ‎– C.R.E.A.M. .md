@@ -9,13 +9,13 @@ permalink: /ko/wu-tang-clan-c-r-e-a-m/
 tags:
 - Hiphop
 - Wu-Tang
-title: Wu-Tang Clan - C.R.E.A.M.
+title: Wu-Tang Clan – C.R.E.A.M.
 ---
 
 
-이 노래는 1993년 발매된 Wu-Tang Clan의 데뷔 정규 앨범 Enter the Wu-Tang(36 Chambers)에 수록되어 있습니다. "C.R.E.A.M." Wu-Tang Clan의 가장 상징적이고 영향력 있는 노래 중 하나입니다.
+この曲は、ウータン・クラン（Wu-Tang Clan）のデビュースタジオアルバム「Enter the Wu-Tang (36 Chambers)」に収録されており1993年にリリースされました。「C.R.E.A.M.」はウータン・クランの最も象徴的で影響力のある曲の一つです。
 
-The Charmels의 "As Long As I've Got You"를 샘플링한 중독성 있는 프로덕션과 성찰적인 가사로 유명한 이 곡은 가난한 동네에서의 삶의 어려움과 재정적 성공에 대한 열망을 반영합니다.
+The Charmelsの「As Long As I've Got You」をサンプリングした中毒性のあるプロダクションと内省的な歌詞で知られており、貧困地域での生活の苦境や経済的成功への願望を反映しています。
 
 #### 트랙리스트
 ```md

@@ -11,17 +11,17 @@ tags:
 - Jazz
 - 60s
 - 70s
-title: '[Chronique] Légende du Gong : époque, mythe, son et communauté'
+title: 【コラム】 Gong伝説：時代・神話・サウンドと共同体
 ---
 
 
-## 1. Introduction : Le musicien comme scientifique
+## 1. 導入：科学者としての音楽家
 
 
-Texte : mmr | Thème : Gong, la « communauté cosmique » construite par David Allen et Gilly Smith. À propos du mythe, du son et de l'héritage des années 1960 à nos jours
+文：mmr｜テーマ：デヴィッド・アレンとギリ・スミスが築いた“宇宙的共同体”Gong。その神話とサウンド、そして60年代から現代への継承について
 
-> « Nous étions une théière volante naviguant à travers la révolution. »
-> -Daevid Allen
+> “We were a flying teapot sailing through the revolution.”  
+> ― Daevid Allen
 
 ---
 
@@ -41,136 +41,136 @@ color: #fff;
 
 ## table des matières
 
-* [Chapitre 1 La France à la fin des années 1960 - période révolutionnaire d'exaltation et de chaos] (#chapitre1)
-* [Chapitre 2 Naissance et Anecdote - Commune anarchique qui crée un paradis] (#chapitre2)
-* [Chapitre 3 ADN Musical - Guitare Glissando et chant "Space Whisper"] (#chapitre3)
-* [Chapitre 4 Trilogie Radio Gnomes - Mythes et albums] (#chapitre4)
-* [Chapitre 5 Le Gong en tant que communauté - vie, création, membres fluides] (#chapitre5)
-* [Chapitre 6 Société et Gong – le point de contact avec la contre-culture](#chapitre6)
-* [Chapitre 7 Transformation et héritage——Gong Moellan et Renaissance](#chapitre7)
-* [Chapitre 8 Le monde de la mythologie Gong — Personnages, iconographie et vision du monde] (#chapitre8)
-* [Chapitre 9 Épisodes et anecdotes] (#chapitre9)
-* [Chapitre 10 Chronologie et chiffres de référence](#chapitre10)
+* [第1章　1960年代末フランス――高揚と混沌の革命期](#chapter1)
+* [第2章　誕生と逸話――楽園を作るアナーキー・コミューン](#chapter2)
+* [第3章　音楽的DNA――グリッサンド・ギターと詠唱「スペース・ウィスパー」](#chapter3)
+* [第4章　ラジオ・ノーム三部作――神話とアルバム群](#chapter4)
+* [第5章　共同体としてのGong――生活・創作・流動的メンバー](#chapter5)
+* [第6章　社会とGong——カウンターカルチャーとの接点](#chapter6)
+* [第7章　変容と継承——モエルラン=ゴングへ、そして再生](#chapter7)
+* [第8章　Gong神話の世界——キャラクターと図像・世界観](#chapter8)
+* [第9章　エピソード＆逸話集](#chapter9)
+* [第10章　年表と参考図](#chapter10)
 
 
 ---
 
-## Chapitre 1 Fin des années 1960 en France - Période révolutionnaire d'exaltation et de chaos {#chapter1}
+## 第1章　1960年代末フランス――高揚と混沌の革命期 {#chapter1}
 
-À la fin des années 1960, Paris était un terrain d’essai pour la révolution.
-Conflits universitaires, actions de rue et libération de l'art : l'enthousiasme de la « Révolution de Mai » engloutit les jeunes, et la musique, la poésie et la politique ne font plus qu'un.
+1960年代末、パリは革命の実験場であった。  
+大学紛争、ストリート・アクション、アートの解放――「五月革命」の熱気が若者たちを包み込み、音楽と詩と政治が混然一体となる。  
 
-Gong est né au milieu de tout cela. Anti-establishment, anarchie, monde spirituel, culture commune. En les mélangeant, Gong incarne un « fantasme communautaire à travers le son ».
+Gongの誕生はまさにその只中であった。反体制・アナーキー・精神世界・コミューン文化。これらが混ざり合い、Gongは“音による共同幻想”を体現していく。
 
-> 🎵 Sources recommandées : *Magick Brother* (1969), *Camembert Electrique* (1971)
+> 🎵 推奨音源: *Magick Brother* (1969), *Camembert Electrique* (1971)
 
-Le son de Gong était une réaction chimique entre le chaos social et les idées spirituelles utopiques.
+Gongのサウンドは、社会的混沌と霊的ユートピア思想の化学反応であった。
 
 ---
 
-## Chapitre 2 Naissance et anecdote - Commune anarchique créant un paradis {#chapter2}
+## 第2章　誕生と逸話――楽園を作るアナーキー・コミューン {#chapter2}
 
-En 1967, David Allen (anciennement de Soft Machine) s'est vu refuser l'entrée au Royaume-Uni et a fui vers la France.
-A Paris, il rencontre Gilli Smith, et grâce à une série de séances d'improvisation, « Gong » est formé.
+1967年、デヴィッド・アレン（元Soft Machine）は英国再入国を拒否され、フランスへ亡命。  
+パリでギリ・スミスと出会い、即興的セッションを重ねる中で「Gong」が形成されていく。
 
-De nombreuses légendes entourent la naissance du Gong, notamment des séances dans des grottes et des spectacles de protestation utilisant des ours en peluche.
-Leur base d'activité n'était pas seulement un groupe, mais une « commune anarchique » de son et d'idéologie.
+洞窟でのセッション、テディベアを使った抗議パフォーマンスなど、Gongの誕生は数々の伝説に彩られている。  
+その活動拠点は単なるバンドではなく、音と思想の“アナーキー・コミューン”であった。
 
-| Année | Anecdote/Incident |
+| 年 | 逸話・事件 |
 | :-- | :-- |
-| 1967 | Au plus fort de la Révolution de Mai à Paris, Allen se rend en France et s'exile |
-| 1968 | « Incident de l'ours en peluche » – Un animal en peluche lancé sur la police |
-| 1969 | Production *Magick Brother* et première performance live |
+| 1967 | パリ五月革命の高揚期、アレン渡仏・亡命 |
+| 1968 | 「テディベア事件」――警官にぬいぐるみを投げる |
+| 1969 | *Magick Brother* 制作・初ライブ |
 
-*Personnages* : **Zero the Hero** (voyageur), **Octave Doctor** (scientifique du son)
+*登場キャラ*: **Zero the Hero**（旅人）、**Octave Doctor**（音の科学者）
 
-> « Gong était un bateau libre sur lequel naviguer. » - Témoignage d'un membre
+> 「Gongは航海する自由な船だった」――メンバー証言
 
-Ce "voyage" n'était pas seulement une activité musicale, mais une **expérience live**.
-
----
-
-## Chapitre 3 ADN musical - Guitare Glissando et chant "Space Whisper" {#chapter3}
-
-Le noyau sonore du Gong est formé de deux éléments.
-
-- **Guitare Glissando** de David Allen :
-Au fur et à mesure que les cordes glissent, le son change comme un fluide.
-- **Space Whisper** de Gilly Smith :
-Il murmure à voix basse comme s'il dérivait dans l'espace, enveloppant le paysage sonore.
-
-S'y ajoutent le saxophone de Didier Margrive et les percussions de Pierre Moherlin, créant un mélange harmonieux de jazz, de rock et de récitation poétique.
-
-> 🎧 Écoutes recommandées : *Flying Teapot*, *Angel's Egg*, *You*
-
-La musique de Gong a créé un monde sous la forme d'une « poésie sonore » plutôt que d'un « rock + jazz ».
+この“航海”は単なる音楽活動ではなく、**生の実験**であった。
 
 ---
 
-## Chapitre 4 Trilogie Radio Gnomes - Mythes et albums {#chapter4}
+## 第3章　音楽的DNA――グリッサンド・ギターと詠唱「スペース・ウィスパー」 {#chapter3}
 
-Une trilogie sortie entre 1973 et 1974.
-« Théière volante », « Œuf d'ange » et « Vous ».
+Gongの音響的中核は二つの要素で形成される。
 
-Ce ne sont pas de simples albums, mais des épopées mythologiques de « Planet Gong ». Prenant la forme d'une émission de radio, Zero the Hero et Pot Head Pixies apparaissent, et le voyage à travers l'espace et la conscience est représenté.
+- デヴィッド・アレンによる**グリッサンド・ギター**：  
+  弦をスライドで滑らせ、音が流体のように変化していく。
+- ギリ・スミスによる**スペース・ウィスパー**：  
+  低い声で空間を漂うように呟き、サウンドスケープを包み込む。
 
-|Caractère |Caractéristiques |
+さらに、ディディエ・マルグリーヴのサックスやピエール・モエルランのパーカッションが加わり、ジャズ、ロック、詩的朗読が渾然となる。
+
+> 🎧 試聴推奨: *Flying Teapot*, *Angel’s Egg*, *You*
+
+Gongの音楽は「ロック＋ジャズ」ではなく、**“サウンド詩”**の形で世界を生成していた。
+
+---
+
+## 第4章　ラジオ・ノーム三部作――神話とアルバム群 {#chapter4}
+
+1973〜74年にかけてリリースされた三部作――  
+『Flying Teapot』『Angel’s Egg』『You』。  
+
+これらは単なるアルバムではなく、「惑星Gong」の神話的叙事詩である。ラジオ放送という形式をとりながら、Zero the HeroやPot Head Pixiesらが登場し、宇宙と意識の旅が描かれる。
+
+| キャラ | 特徴 |
 | :-- | :-- |
-| Zéro le héros | Un voyageur qui voyage entre la Terre et la planète Gong |
-| Pixies à tête de pot | Esprits du bonheur et du chaos |
-| Docteur Octave | Scientifique qui manipule le son et l'ordre |
+| Zero the Hero | 地球とGong惑星を行き来する旅人 |
+| Pot Head Pixies | 幸福と混沌の精霊 |
+| Octave Doctor | 音と秩序を操る科学者 |
 
-> "Je suis votre gnome radio, directement de la planète Gong..."
+> “I am your radio gnome, direct from the planet Gong...”
 
-Gong a établi le concept de « son narratif » en musique.
-
----
-
-## Chapitre 5 Le Gong en tant que communauté - vie, création, membres fluides {#chapter5}
-
-Un mode de vie communautaire basé dans un lodge du sud de la France.
-Là, l'enregistrement, l'improvisation, le dialogue philosophique, le végétarisme, l'éducation des enfants et l'écriture de poésie étaient tous continus.
-
-Les membres allaient et venaient rapidement, et la structure solide était aussi fluide que sa structure.
-Malgré cela, « l’esprit » de Gong est resté.
-C'est parce qu'ils n'étaient pas des « membres fixes » mais existaient en tant que **vision partagée**.
-
-Le gong était la forme idéale d'une « vie de musique » et de « jouer comme si vous la viviez ».
+Gongは音楽の中で**“物語るサウンド”**という概念を確立した。
 
 ---
 
-## Chapitre 6 Société et Gong——Intersection avec la contre-culture {#chapter6}
+## 第5章　共同体としてのGong――生活・創作・流動的メンバー {#chapter5}
 
-Le Gong était bien plus que de la musique.
-Le mouvement hippie européen, la culture du décrochage scolaire, l'idéologie communale, les manifestations antinucléaires et les mouvements environnementaux.
-Étroitement liées à celles-ci, leurs sons résonnaient comme la musique d'une « autre société ».
+南フランスのロッジを拠点とした共同生活。  
+そこでは録音、即興、哲学的対話、菜食主義、子育て、詩作――すべてが連続していた。  
 
-> "La musique n'était pas une arme, mais un moyen d'élargir la liberté mentale."
+メンバーの出入りは激しく、音の構造と同じく流動的であった。  
+にもかかわらず、Gongの「魂」は消えなかった。  
+それは「固定メンバー」ではなく、**共有されたビジョン**として存在したからだ。
 
-Le Gong était le symbole d’une pratique contre-culturelle qui ne séparait pas la société et l’art.
-
----
-
-## Chapitre 7 Transformation et héritage——Moellan-Gong et renaissance {#chapter7}
-
-Après 1976, David Allen part.
-Pierre Moerlan prend le relais et le **Pierre Moerlan's Gong**, orienté jazz fusion, est né.
-
-Cette innovation, qui a mis en avant les percussions et le marimba, a constitué une tendance importante du rock progressif européen à la fin des années 1970.
-
-Après cela, des dérivés tels que « Gong Maison » et « Acid Mothers Gong » sont nés.
-Même après le décès d'Allen en 2015, Gong continue de vivre comme une « conscience collective régénératrice ».
-
-> 🎼 Œuvres représentatives : *Expresso II*, *Downwind*, *Rejoice ! Je suis mort !*
+Gongは「音楽する生活」「生きるように奏でる」ことの理想形だった。
 
 ---
 
-## Chapitre 8 Le monde de la mythologie Gong : personnages, iconographie et vision du monde {#chapter8}
+## 第6章　社会とGong——カウンターカルチャーとの接点 {#chapter6}
 
-Le Gong est un art complet qui intègre la musique, la mythologie et l'art.
-Centrés autour de la trilogie Radio Gnomes, les personnages, les planètes, les langues, les stations de diffusion, etc. sont intimement liés.
+Gongは音楽以上のものを志向していた。  
+欧州のヒッピー運動、ドロップアウト文化、コミューン思想、反核デモ、環境運動――。  
+それらと密接にリンクし、彼らの音は“もう一つの社会”の音楽として響いた。
 
-Vous trouverez ci-dessous un diagramme montrant sa structure symbolique :
+> 「音楽は武器ではなく、**精神の自由を広げる装置**だった」
+
+社会と芸術を隔てない、カウンターカルチャー的実践の象徴がGongだった。
+
+---
+
+## 第7章　変容と継承——モエルラン=ゴングへ、そして再生 {#chapter7}
+
+1976年以降、デヴィッド・アレンが離脱。  
+代わってピエール・モエルランが中心となり、ジャズ・フュージョン志向の**Pierre Moerlan’s Gong**が誕生する。
+
+パーカッションとマリンバが前面に出た新機軸は、70年代後期ヨーロピアン・プログレの重要な潮流を形成した。  
+
+その後も「Gong Maison」「Acid Mothers Gong」など派生体が生まれ、  
+2015年のアレン死去後もGongは**“再生する集合意識”**として生き続けている。
+
+> 🎼 代表作：*Expresso II*, *Downwind*, *Rejoice! I’m Dead!*
+
+---
+
+## 第8章　Gong神話の世界——キャラクターと図像・世界観 {#chapter8}
+
+Gongは音楽と神話とアートを統合した総合芸術である。  
+ラジオ・ノーム三部作を中心に、登場人物・惑星・言語・放送局などが複雑に絡み合う。  
+
+以下はその象徴的構造を示す図：
 
 <div class="mermaid">
 
@@ -185,36 +185,36 @@ graph TD
 
 </div>
 
-L'univers de Gong est un mythe co-créé, dont l'auditeur devient partie intégrante.
+Gongの宇宙は共同創造される神話であり、聴き手もまたその一部となる。
 
 ---
 
-## Chapitre 9 Épisodes et anecdotes {#chapter9}
+## 第9章　エピソード＆逸話集 {#chapter9}
 
-- 1968 : Affronte la police avec un ours en peluche
+- 1968年：テディベアを掲げて警官と対峙
 
-- « Naissance du son » en séance grotte
+- 洞窟セッションでの「音の誕生」
 
-- 1970 : Spectacle live légendaire animé par Frank Zappa au BYG Festival
+- 1970年：BYGフェスでフランク・ザッパ司会のもと伝説的ライブ
 
-- Utiliser le « langage Gnome » pour la communication entre les membres
+- メンバー間通信に“Gnome語”を使用
 
-- Rituel « Zero's Holy Grail » créé par des fans (lors d'un festival au Royaume-Uni)
+- ファンが作る“Zeroの聖杯”儀式（英国フェスにて）
 
-Gong oscillait entre réalité et mythe, et les anecdotes elles-mêmes faisaient partie de l'art.
+Gongは現実と神話を往来し、逸話そのものが芸術の一部であった。
 
 ---
 
-## Chapitre 10 Chronologie et chiffres de référence {#chapter10}
+## 第10章　年表と参考図 {#chapter10}
 
-| Année | Principaux événements |
+| 年         | 主な出来事                         |
 | :-------- | :---------------------------- |
-| 1967 | Formé à Paris. Allen Exil |
-| 1969 | Production *Magick Brother* et première performance live |
-| 1971 | *Camembert Électrique* Annonce |
-| 1973-1974 | *Trilogie Radio Gnome* terminée |
-| 1976 | *Début de la période Gong* de Pierre Moerlan |
-| 1990-2015 | Allen retour, réorganisation en direct |
+| 1967      | パリで結成。アレン亡命                   |
+| 1969      | *Magick Brother* 制作・初ライブ      |
+| 1971      | *Camembert Electrique* 発表     |
+| 1973–74   | *Radio Gnome Trilogy* 完成      |
+| 1976      | *Pierre Moerlan’s Gong* 期開始   |
+| 1990–2015 | アレン復帰、再編ライブ                   |
 | 2016– | *Réjouir! Je suis mort!* Activités annoncées et en cours |
 
 <div class="mermaid">

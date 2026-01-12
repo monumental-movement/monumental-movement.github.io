@@ -13,7 +13,7 @@ title: Bullblast – 인치 단위로
 ---
 
 
-BULLBLAST는 TARO KAWAUCHI와 K-SOBAJIMA로 구성된 유닛입니다. "Inch By Inch"는 2000년 DJ Emma와 Taro Kawauchi가 설립한 레이블인 Nitelist Music에서 2006년 발매했습니다.
+BULLBLAST는 TARO KAWAUCHI와 K-SOBAJIMA로 구성된 유닛입니다. "Inch By Inch"는 2000년 DJ Emma와 Taro Kawauchi가 설립한 레이블 Nitelist Music에서 2006년 발매했습니다.
 
 #### 트랙리스트
 ```md

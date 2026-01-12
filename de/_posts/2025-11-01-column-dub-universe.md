@@ -98,7 +98,7 @@ Perry platziert den Klang zwischen dem Natürlichen und dem Übernatürlichen.
 Er verlieh Reggae eine mythische und kosmische Dimension.
 
 > „In der Maschine lebt ein Geist.
-> Ich höre mir einfach die Stimme an und mische sie ab. ”
+> I just listen to the voice and mix it. ”
 > ― Lee „Scratch“ Perry
 
 Sein Meisterwerk, **The Upsetters „Super Ape“ (1976)**, ist
@@ -120,7 +120,7 @@ Werke wie **African Head Charge**, **Dub Syndicate**, **New Age Steppers**,
 Es wird ein Ort sein, an dem sich jamaikanische spirituelle Wurzeln und europäischer Post-Punk-Geist kreuzen.
 
 Etwa zur gleichen Zeit wurde auch das **Ariwa Studio** von **Mad Professor** im Süden Londons eröffnet.
-Seine Dub Me Crazy-Serie war ein Klangabenteuer zwischen Technologie und Fantasy.
+Seine Dub Me Crazy-Serie war ein Klangabenteuer zwischen Technologie und Fantasie.
 
 ---
 
@@ -134,9 +134,9 @@ Sie verarbeiteten rhythmische Partikel räumlich und etablierten **Dub-Techno**.
 Zu seinen Nachfolgern gehören **Deepchord**, **Rhythm & Sound** und **Echospace**.
 
 Im Ambient-Bereich **The Orb**, **Bill Laswell**, **Kode9**, **Burial** und andere
-Er erkundete weiterhin den Dub-Bereich.
+Er erkundete weiterhin den Dub-ähnlichen Raum.
 Burials „Untrue“ (2007)
-Es kann wahrlich als **einsamer Dub des postdigitalen Zeitalters** bezeichnet werden.
+Es kann durchaus als **einsamer Dub des postdigitalen Zeitalters** bezeichnet werden.
 
 ---
 
@@ -150,9 +150,9 @@ Es ist die Ästhetik des Mangels und die Idee der Reproduktion.
 - Technologie als „improvisatorischen Ausdruck“ nutzen.
 - Neudefinition von „Original“ im Prozess der Reproduktion.
 
-Diese Art von Dub-Denken ist auch in der modernen **KI-Musikgeneration** und **Remix-Kultur** üblich.
+Diese Art des Dub-ähnlichen Denkens ist auch in der modernen **KI-Musikgeneration** und **Remix-Kultur** üblich.
 Der Vorgang des „Bearbeitens“ und „Neukomponierens“ des Klangs selbst ist
-Es ist die Grundlage kreativen Handelns im 21. Jahrhundert.
+Sie ist die Grundlage kreativen Handelns im 21. Jahrhundert.
 
 ---
 
@@ -177,7 +177,7 @@ timeline
 
 ---
 
-## Diagramm: Struktur des Dub-ähnlichen Denkens
+## Diagramm: Struktur des Dove-Denkens
 
 <div class="mermaid">
 

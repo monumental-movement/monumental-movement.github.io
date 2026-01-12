@@ -18,7 +18,7 @@ Michael Borrmann, auch bekannt als Latex, ist ein Produzent aus Deutschland. Er 
 
 „Encore“ ist ein Electro-Tech-House-Track, der 2001 von Frank Müllers Berliner Techno- und Electro-Label Müller Records veröffentlicht wurde.
 
-Das Mastering übernahm Ingenieur Christoph Grote-Beverborg von Dubplates & Mastering, auch bekannt als CGB.
+Das Mastering wurde vom Ingenieur Christoph Grote-Beverborg, auch bekannt als CGB, von Dubplates & Mastering durchgeführt.
 
 #### Trackliste
 ```md

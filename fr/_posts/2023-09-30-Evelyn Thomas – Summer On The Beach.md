@@ -14,7 +14,7 @@ title: Evelyn Thomas – L'été sur la plage
 ---
 
 
-"Evelyn Thomas" est un single de son vrai nom Ellen Lucille Thomas, sorti par le label britannique "Nightmare Gold Records" en 1987.
+"Evelyn Thomas" est un single de son vrai nom Ellen Lucille Thomas, sorti en 1987 par le label britannique "Nightmare Gold Records".
 
 #### Liste des chansons
 ```md

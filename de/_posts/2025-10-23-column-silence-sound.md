@@ -18,7 +18,7 @@ title: '[Kolumne] Stille Musik: Den Akt des Zuhörens neu entdecken'
 
 Text: mmr | Thema: Nach John Cages „4 Minuten und 33 Sekunden“ wurde Stille zu einem weiteren Aspekt der Musik. Was ist Zuhören? Betrachtet man die Rekonstruktion der Beziehung zwischen Mensch und Welt, wie sie durch Musik ohne Ton erzählt wird
 
-Als John Cages „4'33“ 1952 in New York uraufgeführt wurde, war das Publikum ratlos und aufgeregt.
+Als John Cages „4:33“ 1952 in New York uraufgeführt wurde, war das Publikum ratlos und aufgeregt.
 Der Pianist spielt keine einzige Note. Der Veranstaltungsort war jedoch voller Geräusche: Husten, knarrende Stühle und der Wind draußen.
 In diesem Moment wurde klar, dass Musik nicht nur aus komponierten Klängen besteht, sondern aus dem Akt des Zuhörens selbst.
 
@@ -75,7 +75,7 @@ timeline
 
 </div>
 
-In diesem Trend wird Stille nicht als „leerer Raum“, sondern als „Möglichkeit“ betrachtet.
+In diesem Trend wurde Stille nicht als „leerer Raum“, sondern als „Möglichkeit“ behandelt.
 Mit anderen Worten: Wenn der Akt des Zuhörens zum Thema wird, überschreitet die Musik ihren Rahmen. **
 
 ---
@@ -89,7 +89,7 @@ Dies war ein Versuch, Klang als Teil der Gesellschaft, Kultur und der natürlich
 „Wir leben in einer Klanglandschaft. Zuhören bedeutet, die Umgebung zu verstehen.“
 
 Das geschäftige Treiben der Stadt, das Rauschen des Waldes, das Plätschern des Flusses – alles aufzuzeichnen und zu bearbeiten wurde zu einem musikalischen Akt für sich.
-Diese Idee setzt sich in der heutigen Field-Recording-Kultur und bei Künstlern fort, die Umgebungsgeräusche einbeziehen (Ryuichi Sakamoto, Chris Watson usw.).
+Diese Idee setzt sich in der heutigen Field-Recording-Kultur und bei Künstlern fort, die Umgebungsgeräusche integrieren (Ryuichi Sakamoto, Chris Watson usw.).
 
 ---
 
@@ -135,7 +135,7 @@ graph TD
 </div>
 
 Wie dieses Diagramm zeigt, ist „Zuhören“ kein passiver Akt, sondern ein kreativer Akt.
-Stille fungiert nicht als Raum zum Musizieren, sondern als Raum des Nachdenkens und der Empathie.
+Stille fungiert nicht als „Raum“ zum Musizieren, sondern als Raum des Nachdenkens und der Empathie.
 
 ---
 
@@ -157,7 +157,7 @@ Musik verbindet uns wieder mit der Welt.
 | ----- | -------------------- | ------------- |
 | 1952 | „4:33“ Premiere | John Cage |
 | 1967 | „Soundwalk“-Konzept vorgeschlagen | Max Newhouse |
-| 1977 | „Tuning of the World“ Verlag | R. Marie Schäfer |
+| 1977 | „Tuning of the World“ Verlag | R. Marie Schaefer |
 | 1982 | Der Aufstieg der Ambient-Musik | Brian Eno |
 | 2000er | Ausbau der Field-Recording-Kultur | Chris Watson, Ryuichi Sakamoto |
 | 2020er | „Stille“ mit KI-generierter Musik neu bewerten | Klangkünstler aus verschiedenen Ländern |

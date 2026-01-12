@@ -16,7 +16,7 @@ title: VA – 탱크 소녀
 ---
 
 
-1995년 개봉한 레이첼 탈라레이(Rachel Talalay) 감독의 포스트 아포칼립스 SF 영화 '탱크 걸(Tank Girl)'의 사운드트랙. 탱크 걸(Tank Girl)은 영국 컬트 만화를 실사화한 작품이다. 사운드트랙은 Courtney Love가 작곡했으며 SPK의 Graeme Revell이 오리지널 음악을 제공했습니다. Devo는 만화의 열렬한 팬이었기 때문에 영화에 "Girl U Want"의 새 버전을 녹음했습니다.
+1995년 개봉한 레이첼 탈라레이(Rachel Talalay) 감독의 포스트 아포칼립스 공상과학 영화 '탱크 걸(Tank Girl)'의 사운드트랙. 탱크 걸(Tank Girl)은 영국에서 컬트 팬을 보유한 만화를 실사로 각색한 작품입니다. 사운드트랙은 Courtney Love가 작곡했으며 SPK의 Graeme Revell이 오리지널 음악을 제공했습니다. Devo는 만화의 열렬한 팬이었기 때문에 영화에 "Girl U Want"의 새 버전을 녹음했습니다.
 
 #### 트랙리스트
 ```md

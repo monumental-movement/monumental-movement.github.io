@@ -15,7 +15,7 @@ title: Tomita – Kosmos
 
 „Cosmos“ ist eines von Isao Tomitas musikalischen Werken mit Bezug zum Weltraum. Es wurde durch die Kombination von Wissenschaft und Musik komponiert, um das Geheimnis und die Erhabenheit des Universums auszudrücken, wobei elektronische Musik und Synthesizer voll genutzt wurden, um das Bild des Universums musikalisch auszudrücken.
 
-„Space Fantasy“ ist Musik, die von den Sternen, Galaxien und Planeten des Universums inspiriert ist, und ein Album, das Isao Tomitas Synthesizer-Technik und Sounddesign hervorhebt.
+„Space Fantasy“ ist Musik, die von den Sternen, Galaxien und Planeten des Universums inspiriert ist, und ein Album, das Isao Tomitas Synthesizertechnik und Sounddesign hervorhebt.
 
 #### Trackliste
 ```md

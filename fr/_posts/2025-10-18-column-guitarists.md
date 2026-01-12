@@ -58,7 +58,7 @@ color: #fff;
 ---
 
 
-**Lou Reed (The Velvet Underground)** utilise de simples progressions d'accords et des dissonances pour apporter une subversion artistique à sa musique. C'était pop, mais provocateur, et contenait un esprit underground.
+**Lou Reed (The Velvet Underground)** utilise des progressions d'accords simples et des dissonances pour apporter une subversion artistique à sa musique. C'était pop, mais provocateur, et contenait un esprit underground.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yV4jPq96KlY?si=xSh1gVU7WQ2KQjIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -88,7 +88,7 @@ color: #fff;
 
 **David Pajo (Slint/Papa ​​​​M)** est un pionnier du post-rock qui structure le silence. La combinaison d'arpèges et de rythmes délicats crée un contraste entre immobilité et mouvement, créant un monde sonore narratif.
 
-**Jim O'Rourke** fusionne le son expérimental et la mélodie pour développer un travail de guitare qui traverse les genres. Cela a permis d'obtenir à la fois l'acoustique et l'esprit chantant.
+**Jim O'Rourke** fusionne les sons expérimentaux et la mélodie pour développer un travail de guitare qui traverse les genres. Cela a permis d'obtenir à la fois l'acoustique et l'esprit chantant.
 
 ** Bonne chance à vous ! Black Emperor** traite la guitare comme un outil de poésie épique, peignant des paysages urbains et sociaux avec de longues chansons.
 
@@ -193,7 +193,7 @@ La guitare n'est pas seulement un instrument de musique, mais un moyen d'express
 
 - **Philosophie du pédalier** : Création sonore = ego design. Chaque pédale devient une extension de la personnalité du joueur.
 - **Loop/Glitch/DAW** : « mémoire des doigts » étendue. Un seul artiste peut interpréter une expression orchestrale.
-- **Seiichi Yamamoto x Jim O'Rourke** : Relier le monde depuis le sous-sol de Kyoto. A influencé la musique improvisée et expérimentale tant au niveau national qu'international.
+- **Seiichi Yamamoto x Jim O'Rourke** : Relier le sous-sol de Kyoto au monde. A influencé la musique improvisée et expérimentale tant au niveau national qu'international.
 
 Keiji Haino considère la guitare comme une extension de son corps et de son esprit, et c'est une présence qui ébranle les sens de l'auditeur avec les extrêmes du son. La trinité improvisation, destruction et expression devient une coordonnée importante dans l’histoire de la guitare underground japonaise.
 
@@ -205,7 +205,7 @@ Keiji Haino considère la guitare comme une extension de son corps et de son esp
 
 La guitare a toujours été un symbole de liberté d'expression, de l'underground au monde. L'ère est arrivée où « la température et l'idéologie de l'interprète » sont plus importantes que la technique.
 
-> Le tremblement des cordes de guitare continue de résonner à travers les âges.
+> Le tremblement des cordes de guitare continue de résonner à travers les époques.
 
 
 ---

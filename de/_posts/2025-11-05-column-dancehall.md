@@ -110,7 +110,7 @@ Es ist eine bekannte Geschichte, dass der Jamaikaner Kool Herc ein Soundsystem i
 ### ▪ Clash = Battle of Sound
 
 Sound Clash ist eine Veranstaltung, bei der mehrere Soundsysteme gegeneinander antreten.
-Der Unterschied zwischen Gewinnen und Verlieren besteht darin, wie viele **Original Dub Plate** (Spezialaufnahmen) Sie haben und wie sehr Sie das Publikum begeistern können.
+Der Unterschied zwischen Sieg und Niederlage besteht darin, wie viele **Original Dub Plate** (Spezialaufnahmen) Sie haben und wie sehr Sie das Publikum begeistern können.
 
 Repräsentative Klänge:
 - **Stone Love Movement** (Kingston)
@@ -156,7 +156,7 @@ Wichtigste japanische Spieler:
 ### ▪ DIY-Geist und modernes Erbe
 
 In den letzten Jahren kam es zu Überschneidungen mit Dubstep/Techno.
-**Tokyo Dub Attack**, **Zettai-Mu (Osaka)**, **Mura Masa System (Okinawa)** und andere sind derzeit aktiv.
+**Tokyo Dub Attack**, **Zettai-Mu (Osaka)**, **Mura Masa System (Okinawa)** sind derzeit aktiv.
 Die Grundlage dafür ist die Soundsystem-Philosophie, „unseren eigenen Sound mit unseren eigenen Händen zu erzeugen“.
 
 ---
@@ -256,7 +256,7 @@ graph TD
 </div>
 
 Dieses Diagramm zeigt das Netzwerk unabhängiger Soundsystemkulturen, die nach Regionen gebildet werden.
-Folgende Merkmale sind klar erkennbar: „Yokohama = international wettbewerbsfähig ausgerichtet“, „Osaka = direkte Verbindung zu den Straßen“ und „Okinawa = Verbindungspunkt zwischen der Karibik und Asien.“
+Folgende Merkmale sind klar erkennbar: „Yokohama = international wettbewerbsfähig ausgerichtet“, „Osaka = direkte Verbindung zu den Straßen“ und „Okinawa = der Verbindungspunkt zwischen der Karibik und Asien“.
 
 ---
 
@@ -323,6 +323,6 @@ graph TD
 
 Dieses Diagramm zeigt die Entwicklung der Soundsystemkultur im Zusammenhang mit Musikgenres auf der ganzen Welt.
 Hip-Hop (NY), Techno (Berlin), Afrobeats (Lagos) und japanische Clubkultur.
-Wir alle teilen eine „Basskultur = Bassgemeinschaft“.
+Wir alle teilen eine „Basskultur = Bass-Community“.
 
 ---

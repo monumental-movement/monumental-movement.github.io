@@ -19,7 +19,7 @@ title: '[Chronique] Drone modulaire / Drones expérimentaux'
 
 ## Introduction : Espace acoustique expérimental construit par des sons soutenus
 
-Texte : mmr｜Thème : Positionner les drones modulaires comme une intersection de l'histoire de la technologie acoustique, de l'histoire des instruments de musique et de la pensée compositionnelle, et organiser systématiquement leur formation et leur développement.
+文：mmr｜テーマ：モジュラードローンを音響技術史・楽器史・作曲思想の交差点として位置づけ、その成立と展開を体系的に整理
 
 
 Modular Drone/Experimental Drones (ci-après dénommés « drones modulaires ») est une tendance d'expérimentations acoustiques centrée sur les sons soutenus, et s'est développée en étroite relation avec les caractéristiques structurelles des synthétiseurs modulaires. Un continuum sonore qui ne suppose pas de mélodie ou de rythme crée du temps en modifiant minutieusement des éléments tels que la hauteur, le timbre, l'intensité, la phase et la disposition spatiale. Cette musique met l'accent sur « l'existence » plutôt que sur la « progression », et les changements apparaissent comme des transitions d'état plutôt que comme des événements.
@@ -44,7 +44,7 @@ color: #fff;
 
 ## Prémisses historiques du concept de drone
 
-Le concept de drone existait avant la musique électronique. Ses prototypes incluent des basses soutenues dans la musique traditionnelle, des harmonies soutenues dans la musique religieuse et des sons stationnaires dans les sons mécaniques et environnementaux. Dans l’histoire de la musique occidentale, les sons soutenus des organums et des cornemuses médiévales ont joué un rôle dans le soutien spatial de la musique.
+Le concept de drone existait avant la musique électronique. Ses prototypes incluent des basses soutenues dans la musique traditionnelle, des harmonies soutenues dans la musique religieuse et des sons stationnaires dans les sons mécaniques et environnementaux. Dans l’histoire de la musique occidentale, les sons soutenus des organums et des cornemuses médiévaux ont joué un rôle dans le soutien spatial de la musique.
 
 Au XXe siècle, l’industrialisation et l’électrification progressent, et le bruit mécanique persistant imprègne notre environnement quotidien. Ce changement environnemental a donné l’occasion aux musiciens de changer leur façon de percevoir le son. D’une vision de la musique centrée sur la mélodie à une focalisation sur la texture et la durée temporelle du son lui-même, les drones ont été redéfinis comme un élément important de la musique expérimentale.
 
@@ -52,7 +52,7 @@ Au XXe siècle, l’industrialisation et l’électrification progressent, et le
 
 ## Combinaison de sons électroacoustiques et soutenus
 
-Aux débuts de la musique électronique, les sons soutenus étaient l’élément qui indiquait le plus directement les caractéristiques des sons électroniques. La forme d’onde continue générée par un oscillateur, contrairement à un instrument physique, peut théoriquement être maintenue indéfiniment. Cette caractéristique a permis de rompre avec la structure musicale traditionnelle qui divise le temps en temps.
+Aux débuts de la musique électronique, les sons soutenus étaient l’élément qui indiquait le plus directement les caractéristiques des sons électroniques. Contrairement aux instruments physiques, la forme d’onde continue produite par un oscillateur peut théoriquement être maintenue indéfiniment. Cette caractéristique a permis de rompre avec la structure musicale traditionnelle qui divise le temps en temps.
 
 Dans la musique sur bande et la musique électroacoustique, des tentatives ont été faites pour maintenir les sons sur de longues périodes ou pour effectuer des changements progressifs, mais le contrôle en temps réel présentait des limites. C’est là qu’intervient le concept de contrôle de tension. Le mécanisme de contrôle de la hauteur et du timbre à l'aide de la tension est devenu la base des synthétiseurs modulaires ultérieurs et a fourni un moyen de modifier dynamiquement les sons soutenus.
 
@@ -156,7 +156,7 @@ flowchart TD
 
 Le son soutenu des drones modulaires n'est pas créé en maintenant une seule fréquence, mais par de lentes fluctuations de la structure harmonique globale. Le choix de la forme d'onde de l'oscillateur (sinusoïdale, triangulaire, en dents de scie, rectangulaire) détermine le spectre initial, mais au fil du temps, la distribution harmonique est constamment réorganisée à mesure que la coupure du filtre, la résonance et la quantité d'entraînement changent.
 
-En particulier dans un environnement modulaire, le filtre lui-même est souvent utilisé dans un état proche de l'oscillation, et la frontière entre fondamentale et harmoniques devient floue. De ce fait, le drone est perçu comme une transition de densité spectrale plutôt que comme un ensemble de hauteurs.
+En particulier dans un environnement modulaire, le filtre lui-même est souvent utilisé dans un état proche de l'oscillation, et la frontière entre fondamentale et harmoniques devient floue. En conséquence, le drone est perçu comme une transition de densité spectrale plutôt que comme un ensemble de hauteurs.
 
 > "Dans les drones modulaires, le pitch n'est pas un point fixe, mais fait office de centre de gravité du spectre."
 
@@ -216,7 +216,7 @@ Le son soutenu a une grande affinité avec les galeries et les espaces d’insta
 
 ## Perspective des enregistrements de mouvements monumentaux
 
-Dans le contexte de Monumental Movement Records, les drones modulaires se positionnent non seulement comme de la musique expérimentale, mais aussi comme une pratique sonore qui présente de manière critique le temps, la structure et l’instrumentalité. Ici, les longues durées et les changements différentiels ont plus de valeur que les changements flashy ou les effets immédiats.
+Dans le contexte de Monumental Movement Records, les drones modulaires se positionnent non seulement comme de la musique expérimentale, mais aussi comme une pratique sonore qui présente de manière critique le temps, la structure et l'instrumentalité. Ici, les longues durées et les changements différentiels ont plus de valeur que les changements flashy ou les effets immédiats.
 
 Le vocabulaire est descriptif plutôt que décoratif, et l’analyse structurelle est prioritaire sur l’expression émotionnelle. Le son est à la fois un objet sensoriel et un support de pensée.
 

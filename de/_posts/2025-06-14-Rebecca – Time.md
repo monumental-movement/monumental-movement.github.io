@@ -16,7 +16,7 @@ title: Rebecca – Zeit
 ---
 
 
-„Time“ ist Rebeccas fünftes Album, das 1986 auf dem Label FITZBEAT veröffentlicht wurde. Die Schlagworte für dieses Album lauten „Es geht nicht um Logik ...“ und „Langeweile und Krämpfe werden alle in den Mülleimer geworfen.“
+„Time“ ist Rebeccas fünftes Album, das 1986 auf dem Label FITZBEAT veröffentlicht wurde. Die Schlagworte dieses Albums lauten „Es geht nicht um Logik ...“ und „Langeweile und Krämpfe werden alle in den Mülleimer geworfen.“
 
 Enthält die Hits „LONELY BUTTERFLY“ und „CHEAP HIPPIES“.
 

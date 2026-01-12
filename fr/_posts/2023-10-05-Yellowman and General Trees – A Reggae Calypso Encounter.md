@@ -9,13 +9,13 @@ permalink: /fr/yellowman-and-general-trees-a-reggae-calypso-encounter/
 tags:
 - Reggae
 - Dancehall
-title: Yellowman & General Trees – Une rencontre Reggae Calypso
+title: Yellowman & General Trees – A Reggae Calypso Encounter
 ---
 
 
-Yellowman est un artiste de reggae dancehall très populaire sur la scène musicale jamaïcaine, et General Trees est un artiste dancehall tout aussi connu. Leur collaboration « A Reggae Calypso Encounter » offre un son unique qui combine des éléments du reggae jamaïcain et du calypso de Trinité-et-Tobago.
+イエローマンは、ジャマイカ音楽シーンで非常に人気のあるダンスホールレゲエのアーティストであり、ジェネラル・ツリーズも同様に知名度の高いダンスホールアーティストです。彼らの共演による「A Reggae Calypso Encounter」は、ジャマイカのレゲエとトリニダード・トバゴのカリプソの要素を融合させたユニークなサウンドを提供しています。
 
-La chanson alterne entre Yellowman et General Trees, combinant les rythmes du calypso avec le style énergique du reggae. Les paroles de la chanson décrivent l'atmosphère d'une scène de soirée dansante ou d'un festival de calypso, avec une atmosphère amusante et un rythme de danse.
+この曲では、イエローマンとジェネラル・ツリーズが交互に歌い、カリプソのリズムとレゲエのエネルギッシュなスタイルが組み合わさっています。曲の歌詞は、ダンスホールのパーティーシーンやカリプソの祭りの雰囲気を描写しており、楽しい雰囲気と踊りのリズムが感じられます。
 
 
 #### Liste des chansons

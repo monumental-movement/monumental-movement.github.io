@@ -19,7 +19,7 @@ P.Y.T. ist eine US-amerikanische Girlgroup aus Florida, die von 1998 bis 2002 ak
 
 Während seiner Karriere tourte er mit InSync, Britney Spears, Destiny's Child und 98 Degrees und trat beim Super Bowl 2001 auf.
 
-„Same Ol‘ Same Ol‘“ aus dem Jahr 2001 ist ein zeitgenössischer R&B-Song, der Dr. Dre's Next Episode als Titel verwendete und ein großer Hit wurde.
+„Same Ol‘ Same Ol‘“ aus dem Jahr 2001 ist ein zeitgenössischer R&B-Song, der mit der Folge „Dr. Dre's Next“ als Titel ein großer Hit wurde.
 
 
 #### Trackliste

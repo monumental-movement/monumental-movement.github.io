@@ -22,7 +22,7 @@ title: '[Chronique] Parlement / Funkadelic : Toute l''histoire de la révolution
 Texte : mmr｜Thème : À propos de la vision du monde du P-Funk, qui existe toujours comme fondement du hip-hop, du R&B, de l'électro, de l'art et de la mode actuels.
 
 
-Dans l'histoire de la musique noire américaine de la seconde moitié du XXe siècle, **Parliament/Funkadelic (communément appelé P-Funk)** est le groupe qui combine le plus grand mythe et l'innovation sonore.
+Dans l'histoire de la musique noire américaine de la seconde moitié du XXe siècle, **Parliament/Funkadelic (communément appelé P-Funk)** est le groupe qui combine la plus grande mythologie et innovation sonore.
 Dirigé par George Clinton, ce collectif était plus qu'un simple groupe, c'était un projet gigantesque mêlant une histoire multivers, une sensibilité technologique futuriste et les rythmes profondément physiques du funk.
 
 Le P-Funk devient clair lorsqu’on le comprend en fonction des trois axes suivants.
@@ -84,7 +84,7 @@ Après la gifle de Larry Graham, le funk est rapidement devenu plus rythmé, mai
 * **Appel et réponse de l'Évangile de l'Église noire**
 * **Paroles avec de fortes critiques politiques**
 
-En particulier, on se souvient de "Maggot Brain" de 1971 pour le solo de guitare de plus de 10 minutes d'Eddie Hazell.
+En particulier, "Maggot Brain" de 1971 est célèbre pour le solo de guitare de plus de 10 minutes d'Eddie Hazell.
 Il a été décrit comme « l’incarnation musicale de la tristesse et de la colère noires ».
 
 ---
@@ -115,7 +115,7 @@ Ces personnages sont intégrés dans la musique, les costumes, la mise en scène
 
 ## Chapitre 4 : Une plongée profonde dans la technique musicale - Pourquoi le son de P-Funk est-il si « cosmique » ?
 
-La caractéristique de P-Funk ne réside pas simplement dans la force de son groove, mais aussi dans son « contrôle structurel ».
+Ce qui rend P-Funk unique n'est pas seulement la force de son groove, mais aussi son « contrôle structurel ».
 
 ### ■ 1. « Rubber Bass » de Bootsy Collins
 
@@ -266,7 +266,7 @@ timeline
 ## Conclusion : P-Funk est une « immense archive des futurs noirs »
 
 George Clinton est bien plus qu’un simple leader funk.
-C'était un « designer culturel » qui réunissait **la musique, le corps, l'univers, la mythologie et la critique sociale**.
+C'était un « architecte culturel » qui réunissait **la musique, le corps, l'univers, la mythologie et la critique sociale**.
 
 La vision du monde de P-Funk est toujours vivante aujourd'hui en tant que fondement du hip-hop, du R&B, de l'art électro et de la mode actuels.
 Tant que P-Funk restera au centre d’une musique noire qui parle du futur, leur vaisseau spatial « Mothership » n’atterrira jamais.

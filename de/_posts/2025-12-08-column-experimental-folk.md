@@ -58,7 +58,7 @@ Schottisches Duo. Einführung östlicher Instrumente, eines mikrotonalen Ansatze
 Es soll die Gruppe sein, die den Prototyp von Psych Folk geschaffen hat.
 
 - **Comus** (1969–)
-Sein 1971 erschienenes Debüt „First Utterance“* spielte im Kontext des britischen Folk, aber
+Sein Debüt „First Utterance“ aus dem Jahr 1971 spielte im Kontext des britischen Folk, aber
 ・Gruseliger Gesang
 ・Dissonante Akustikgitarre
 ・Verrücktes Arrangement für Flöte und Violine
@@ -70,7 +70,7 @@ Obwohl Comus kein kommerzieller Erfolg war, haben die aktuellen 93 und viele and
 
 # 2. 1970er Jahre: Die Entstehung des amerikanischen introspektiven Folk und des Experimentierens
 
-In Amerika war Psych-Folk nicht so definiert wie eine kollektive Bewegung im Vereinigten Königreich, aber die folgenden Trends sind wichtig:
+In den Vereinigten Staaten war Psych-Folk nicht so definiert wie im Vereinigten Königreich als kollektive Bewegung, aber die folgenden Trends sind wichtig:
 
 - **John Fahey und die Genealogie der amerikanischen Primitiven**
 Fingerpicking mit Improvisations-, Drone- und Noise-Motiven.
@@ -86,13 +86,13 @@ Während dieser Zeit verbreitete sich der amerikanische Experimental-Folk als �
 
 ---
 
-# 3. 1980er-90er: Einfluss von Industrial/Neofolk und Rolle von Current 93
+# 3. 1980er-90er Jahre: Einfluss von Industrial/Neofolk und Rolle von Current 93
 
 In den 1980er und 1990er Jahren entstand aus der britischen Post-Industrial-Szene „Neofolk“ mit akustischen Elementen.
-Einer der zentralen Akteure ist **Current 93 (moderiert von David Tibet)**.
+Einer der zentralen Akteure ist **Current 93 (angeführt von David Tibet)**.
 
 ## Funktionen von Current 93
-- Schon früh gab es einen starken Lärm-/Industrieanteil.
+- Am Anfang waren die Lärm-/Industrieelemente stark.
 - Seit den 1990er Jahren hat sich der Schwerpunkt auf akustische Instrumente wie Harmonium, Gitarre, Drehleier und Percussion verlagert.
 - Schwerpunkt auf Mystik und poetischer Rezitation
 - Übernahme von Comus- und britischen Folk-Ansätzen
@@ -151,7 +151,7 @@ Es entwickelt sich verzweigt und überlappend.
 
 ## Akustische Eigenschaften
 1. **Hauptsächlich akustisch**
-Gitarre, Banjo, Harfe, Geige, Schlagzeug usw.
+Gitarre, Banjo, Harfe, Geige, Percussion usw.
 2. **Einführung nicht-westlicher Musikinstrumente**
 Sitar, Darbuka, Drehleier
 3. **Drohne**
@@ -219,7 +219,7 @@ flowchart TD
 
 ---
 
-# 10. Aktueller Stand: Grenzen verschwimmen
+# 10. Aktueller Stand: Grenzverwischung
 
 Experimental Folk hat sich in den 2020er Jahren als Genre erweitert,
 - Indie-Rock

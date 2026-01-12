@@ -10,13 +10,13 @@ permalink: /ko/the-pharcyde-forever-1992-till-eternity-best-tracks-and-future-re
 tags:
 - Hiphop
 - Jazzy Hiphop
-title: The Pharcyde – Forever 1992 Till Eternity, 베스트 트랙 및 퓨처 리믹스
+title: The Pharcyde – Forever 1992 Till Eternity, Best Tracks And Future Remixes
 ---
 
 
-더 파사이드(The Pharcyde)는 1989년 결성된 미국 LA 사우스센트럴 출신의 얼터너티브 힙합 그룹이다.
+The Pharcyde（ファーサイド） は、1989 年に結成された、LAのサウスセントラル出身のUSオルタナティブ・ヒップホップグループ。
 
-이 앨범은 Pharcyde의 최고의 트랙과 리믹스 모음입니다.
+このアルバムは、ファーサイドのベストトラックとリミックス集。
 
 #### 트랙리스트
 ```md

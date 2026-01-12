@@ -67,7 +67,7 @@ Szenen aus Stadtnächten und Bars → Die Klänge von Saxophon und Klavier schaf
 
 Komischer Dialog → Betonen Sie das Tempo mit leichtem Swing-Jazz.
 
-Ruhige psychologische Darstellung und anhaltender Klang → Die leisen Klänge von Cool Jazz und Mode Jazz sind wirksam.
+Ruhige psychologische Darstellung und anhaltender Klang → Die leisen Klänge von Cool Jazz und Mode Jazz sind wirkungsvoll.
 
 ---
 
@@ -121,16 +121,16 @@ flowchart TD
 ### ■ „LAZARUS“ und der Jazz-Spirit
 
 „LAZARUS“, das im Frühjahr 2025 ausgestrahlt wurde, ist ein Science-Fiction-Anime, der von Regisseur Shinichiro Watanabe, MAPPA und Kamasi Washington geschaffen wurde.
-Themen wie „Tod und Wiedergeburt“, „Zeitgrenzen“ und „Erlösung der Menschheit“ spiegeln die „improvisatorische Rekonstruktion des Lebens“ wider, die dem Jazz innewohnt.
-Insbesondere der spirituelle Jazz von Kamasi Washington wiederholt das Motiv „Lazarus = Auferstehung“ in mehreren Schichten durch die Geschichte.
+Themen wie „Tod und Wiedergeburt“, „Zeitgrenzen“ und „Erlösung der Menschheit“ spiegeln die dem Jazz innewohnende „improvisatorische Rekonstruktion des Lebens“ wider.
+Insbesondere Kamasi Washingtons spiritueller Jazz spiegelt das Motiv „Lazarus = Auferstehung“ in mehreren Schichten in der Geschichte wider.
 
 ### ■ Zusammenfassung
 
-Jazz/Fusion verleiht Anime Urbanität und Improvisation und symbolisiert manchmal „Leben und Tod“ und „Zerstörung und Wiedergeburt“ der gesamten Geschichte.
+Jazz/Fusion bringt Urbanität und Improvisation in den Anime und symbolisiert manchmal „Leben und Tod“ und „Zerstörung und Wiedergeburt“ der gesamten Geschichte.
 Der Stil von „Lupin the Third“, der Stil von „Cowboy Bebop“, die jugendliche Leidenschaft von „Apollo on the Slope“ und die Science-Fiction-Größe von „LAZARUS“──
 All dies sind Erweiterungen des „freien und regenerativen Geistes“ des Jazz.
 
-Und wie der Name „Lazarus“ vermuten lässt, wird Jazz in immer neuen Formen wiederbelebt und ist weiterhin eng mit der Welt des Anime verbunden.
+Und wie der Name „Lazarus“ schon vermuten lässt, wird Jazz in immer neuen Formen wiederbelebt und ist weiterhin eng mit der Welt des Anime verbunden.
 
 
 ---

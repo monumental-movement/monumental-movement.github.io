@@ -52,7 +52,7 @@ Felas Musik zeichnet sich durch lange (10 bis 30 Minuten) sich wiederholende Gro
 
 ### Politische und kulturelle Aktivitäten
 
-Fela erklärte seine Villa zur „Kalakuta-Republik“ und betrieb sie als Gemeinschafts-, Atelier- und Theaterraum. Es gibt immer wieder scharfe Kritik an der Militärregierung und es kommt zu zahlreichen Angriffen, Inhaftierungen und Folterungen durch Polizei und Militär (ein berühmter Vorfall ist die Anekdote „Teurer Scheiß“). Diese kämpferische Haltung hat ihn zwar zu Nigerias „Stimme der Stimmlosen“ gemacht, sie hat jedoch auch einen physischen Schaden verursacht.
+Fela erklärte sein Anwesen zur „Kalakuta-Republik“ und betrieb es als Gemeinschafts-, Atelier- und Theaterraum. Es gibt immer wieder scharfe Kritik an der Militärregierung und es kommt zu zahlreichen Angriffen, Inhaftierungen und Folterungen durch Polizei und Militär (ein berühmter Vorfall ist die Anekdote „Teurer Scheiß“). Diese kämpferische Haltung hat ihn zwar zu Nigerias „Stimme der Stimmlosen“ gemacht, hat aber auch physische Nachteile.
 
 ---
 
@@ -70,7 +70,7 @@ flowchart TD
   1958 --> 1969 --> 1970s --> 1975 --> 1977 --> 1980s --> 1997
 </div>
 
-Londoner Zeit → Aufnahme in den USA → Gründung in Afrika 1970 → politischer Höhepunkt Mitte der 1970er Jahre → Aktivität und Unterdrückung ab den 1980er Jahren, und starb 1997 (als Todesursache werden Komplikationen/AIDS-bedingt angegeben).
+Londoner Zeit → Aufnahme in den USA → Gründung in Afrika 1970 → politischer Höhepunkt Mitte der 1970er Jahre → Aktivität und Unterdrückung ab den 1980er Jahren, und starb 1997 (die Todesursache soll Komplikationen/AIDS-bedingt sein).
 
 ---
 
@@ -94,7 +94,7 @@ Londoner Zeit → Aufnahme in den USA → Gründung in Afrika 1970 → politisch
 
 ### Anekdote/Legende
 
-**„Expensive Shit“-Vorfall**: Fela nutzte den Vorfall, bei dem die Polizei angeblich einen Marihuana-Joint platziert hatte, als Vorwand für die Verhaftung und verwandelte daraus ein Lied (Album „Expensive Shit“). Diese Geschichte wird als Anekdote weitergegeben, die Felas Anti-Establishment-Image symbolisiert.
+**„Expensive Shit“-Vorfall**: Fela nutzte den Vorfall, bei dem die Polizei angeblich einen Marihuana-Joint platziert hatte, als Vorwand für die Verhaftung und verwandelte daraus ein Lied (Album „Expensive Shit“). Diese Geschichte wird als Anekdote überliefert, die Felas Anti-Establishment-Image symbolisiert.
 
 **Angriff auf Kalakuta und Tod der Mutter**: Der Vorfall, bei dem Felas Mutter angeblich verletzt wurde, als Kalakuta vom Militär angegriffen wurde, wurde zur treibenden Kraft hinter ihren späteren Liedern und Aktivitäten.
 
@@ -110,8 +110,8 @@ Dies ist sein frühes Werk nach seinem Auslandsstudium in London und konzentrier
 #### Anfang der 1970er Jahre: Etablierung des Afrobeat
 - **Gentleman (1973)**
 Ein Meisterwerk, das den Kolonialismus kritisiert. Dem Funk-Groove wird eine soziale Botschaft hinzugefügt.
-- **Verwirrung (1975)**
-Ein 20-minütiges Lied, das das urbane Chaos in Lagos im übertragenen Sinne darstellt.
+- **„Confusion“ (1975)**
+Ein 20-minütiges Lied, das das städtische Chaos in Lagos im übertragenen Sinne darstellt.
 
 #### Ende der 1970er Jahre: Politischer Höhepunkt
 - **„Teure Scheiße“ (1975)**
@@ -211,7 +211,7 @@ Auch „Black Times“ (2018) kreuzt sich mit Hip-Hop und Rock.
 Fela Kuti war nicht nur der „Vater des Afrobeats“, sondern auch ein Symbol des politischen Widerstands durch Musik. Dieses Erbe spiegelt sich weiterhin in seinen Söhnen Femi Kuti und Soon Kuti sowie in der Arbeit von Künstlern auf der ganzen Welt wider.
 Wenn Sie mehr über Afrobeat erfahren möchten, empfehlen wir Ihnen, mit „Gentleman“, „Expensive Shit“ und „Zombie“ zu beginnen.
 
-Die Worte und Rhythmen von Fela hallen noch immer in den Winden von Lagos und auf den Bühnen der Welt wider.
+Die Worte und Rhythmen von Fela hallen immer noch in der Brise von Lagos und auf den Bühnen der Welt wider.
 
 ---
 

@@ -20,7 +20,7 @@ title: '[Kolumne] Tech House: Minimale Präzision und die Neuerfindung des Groov
 
 Text: mmr｜Thema: Geburtshintergrund, Klangmerkmale, Hauptkünstler, Entwicklung in den einzelnen Regionen, Expansion seit den 2000er Jahren und aktuelle Situation
 
-Tech House ist ein Genre, das die minimalistische Struktur von Techno mit dem Groove von House verschmolz und so von Mitte der 1990er bis 2000er Jahre eine einzigartige Präsenz in Clubszenen auf der ganzen Welt etablierte. Um es ganz klar auszudrücken: Es ist „sanfter als Techno und härter als House“, aber in Wirklichkeit handelt es sich um eine komplexe Musikkultur, die den Prozess der Szenenbildung, regionale Besonderheiten und die Entwicklung der DJ-Kultur genau widerspiegelt.
+Tech House ist ein Genre, das die minimalistische Struktur des Techno mit dem Groove des House verschmolz und so von Mitte der 1990er bis 2000er Jahre eine einzigartige Präsenz in Clubszenen auf der ganzen Welt etablierte. Um es ganz klar auszudrücken: Es ist „sanfter als Techno und härter als House“, aber in Wirklichkeit handelt es sich um eine komplexe Musikkultur, die den Prozess der Szenenbildung, regionale Besonderheiten und die Entwicklung der DJ-Kultur genau widerspiegelt.
 
 
 ---
@@ -56,7 +56,7 @@ Tech House wird oft mit „einem Subgenre von Techno“ oder „einem Subgenre v
 
 ---
 
-## 2. 1980er bis 1990er Jahre: Hintergrund des Establishments
+## 2. 1980er-1990er Jahre: Hintergrund des Establishments
 
 Die Ursprünge von Tech House sollen in der Clubkultur der frühen 1990er Jahre in Großbritannien, insbesondere rund um London, liegen.
 Zu dieser Zeit waren Acid House und Rave in Großbritannien beliebt und verschiedene Stile wie Hard House, Progressive House, Techno und Tribal House wurden miteinander vermischt.
@@ -68,7 +68,7 @@ Insbesondere die folgenden Trends waren die Grundlage für die Gründung von Tec
 * Mischung aus Tribal House, Garage und Progressive House
 * Genreübergreifende DJ-Stile von Pirate Radio und der Londoner Clubszene (The End usw.)
 
-Die Leute, die in den Club strömten, waren nicht nur auf der Suche nach Techno oder House, sie genossen auch lange DJ-Auftritte, die Elemente aus beidem mischten. Durch diesen Prozess entwickelte er ein Gespür für das Mischen, das auf natürliche Weise die „Härte des Techno“ und die „Wärme des House“ vereint.
+Die Leute, die sich im Club versammelten, waren nicht nur auf der Suche nach Techno oder House, sondern genossen lange DJ-Auftritte, die Elemente aus beidem mischten. Durch diesen Prozess entwickelte er ein Gespür für das Mischen, das auf natürliche Weise die „Härte des Techno“ und die „Wärme des House“ vereint.
 
 ---
 
@@ -117,7 +117,7 @@ Seit seiner Eröffnung im Jahr 1999 zeigt Fabric der Welt mit seinen Mix-CD-Seri
 
 ---
 
-## 5. Anfang der 2000er: Verbindung mit Minimal
+## 5. Anfang der 2000er Jahre: Verbindung mit Minimal
 
 In den 2000er Jahren erregte Minimal Techno aus Berlin weltweite Aufmerksamkeit.
 Dadurch wird die Überschneidung mit Tech House rasch voranschreiten und das folgende Ökosystem wird stärker.
@@ -151,9 +151,9 @@ flowchart TD
 
 ---
 
-## 6. Klangveränderungen
+## 6. Änderungen im Klangaspekt
 
-Gegen Ende der 2000er Jahre erfuhr Tech House die folgenden Veränderungen.
+Gegen Ende der 2000er Jahre erlebte Tech House die folgenden Veränderungen.
 
 * **Detailliertere Rhythmusanordnung**
 * **Zunahme der Unterbasis** (verstärkter Einfluss Deutschlands und Südamerikas)
@@ -179,11 +179,11 @@ Beispiele namhafter Künstler:
 *Soldo
 * Fisher (kommerzieller Erfolg)
 
-In den späten 2010er Jahren erschien „Tech House im Festival-Stil“ mit seinen poppigeren und eingängigeren Hooks und breitete sich als Musik für Großveranstaltungen aus.
+In den späten 2010er Jahren erschien „Tech House im Festival-Stil“ mit seinen poppigeren und eingängigeren Hooks und verbreitete sich als Musik für Großveranstaltungen.
 
 ---
 
-### ■ Verzweigung des Tech House der 2010er Jahre
+### ■ Tech House-Zweig der 2010er Jahre
 
 <div class="mermaid">
 flowchart TD
@@ -249,7 +249,7 @@ Obwohl Tech House nicht an eine bestimmte Ausrüstung gebunden ist, sind im Allg
 * Drum-Machine-Soundquellen wie 909, 808, 707 usw.
 * Überwiegend probenbasierte Verarbeitung statt modular
 * Der Hall ist kurz
-* Den Mitteltonbereich mit dem EQ straffen
+* Den Mitteltonbereich mit dem EQ anziehen
 * Allmähliche Entwicklung in Einheiten von 16–24 bar
 
 Die Produktionsphilosophie betont die „Ästhetik der Subtraktion“ und die „Gestaltung von Leerräumen, die in einen Clubraum passen“.
@@ -258,7 +258,7 @@ Die Produktionsphilosophie betont die „Ästhetik der Subtraktion“ und die �
 
 ## 11. Tech House und DJ-Kultur
 
-Tech House ist untrennbar mit der DJ-Kultur verbunden. Es wird oft im Kontext eines DJ-Sets und nicht eines Genres verstanden.
+Tech House ist untrennbar mit der DJ-Kultur verbunden. Es wird oft eher im Kontext eines DJ-Sets als eines Genres verstanden.
 
 * Geeignet für lange Mischungen von 2 Stunden oder mehr
 * Angepasst an das Bodentemperaturmanagement (Aufwärmen → Spitzenwert → nach Stunden)

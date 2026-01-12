@@ -18,7 +18,7 @@ A면 "Iko Iko"는 The Bodysnatchers의 전 멤버들이 1980년 런던에서 결
 
 Iko Iko의 Belle Stars 버전은 영화 Rain Man(Dustin Hoffman 및 Tom Cruise 주연), 영화 Knockin' on Heaven's Door 및 영화 The Hangover에도 등장했습니다.
 
-B면 '라스베거스'는 유명 영화음악 작곡가 한스 짐머(Hans Zimmer)가 작곡했으며, 영화 '레인맨' 사운드트랙에도 수록됐다.
+B면 '라스베가스'는 유명 영화음악 작곡가 한스 짐머(Hans Zimmer)가 작곡한 곡으로, 영화 '레인맨' 사운드트랙에도 수록됐다.
 
 #### 트랙리스트
 ```md

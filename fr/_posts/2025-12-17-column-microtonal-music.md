@@ -18,7 +18,7 @@ title: '[Chronique] Musique microtonale'
 
 ## Musique microtonale - philosophie de composition, structure acoustique et techniques de production après la dissolution du tempérament
 
-Texte : mmr｜Thème : À propos du passage à une philosophie de production qui ne suppose pas un pas fixe
+Texte : mmr｜Thème : À propos du passage à une philosophie de production qui ne suppose pas un pas fixe
 
 La musique microtonale a non seulement remis en question le principe d’une musique moderne de tempérament égal, mais a également transformé l’unité de pensée dans la production musicale elle-même. Dans cet article, nous ne séparons pas l’histoire du tempérament musical, de la théorie, de la structure acoustique et de la pratique de production, mais nous les reconstruisons sous forme de mouvements interconnectés.
 
@@ -71,7 +71,7 @@ Dans la seconde moitié du XIXe siècle, les problèmes suivants sont apparus à
 
 * Véritable turbidité acoustique du 3ème et 6ème degré
 * Homogénéisation de la couleur harmonique
-* Dilution du sens de la tonalité
+* Dilution du sens tonal
 
 De nombreux compositeurs se sont tournés vers les techniques atonales et dodécaphoniques, mais
 Dans une autre lignée, la « redivision des intervalles » elle-même a été choisie.
@@ -107,7 +107,7 @@ L'importance de Harry Partch réside dans le fait qu'il a construit la musique m
 ### 5.1 Structure de l'intonation juste à 43 tons
 
 Partch a divisé l'octave en 43 hauteurs,
-Il ne s'agit pas d'une division égale, mais d'une **structure de réseau de rapport harmonique**.
+Il ne s'agit pas d'une division égale, mais d'une **structure en réseau de rapports harmoniques**.
 
 * Préférez un rapport entier simple
 * Le sens tonal existe, mais la transposition n'est pas possible
@@ -120,7 +120,7 @@ Les nouveaux tempéraments nécessitent de nouveaux instruments.
 
 Les instruments de Partch avaient les rôles suivants :
 
-* Visualisation de la structure des intervalles
+* Visualisation de la structure du terrain
 *Gravure directe sur le corps de l'interprète
 * Indissociabilité de la théorie et de la pratique
 
@@ -186,12 +186,12 @@ Cela nécessite une stratégie de mixage différente de celle d’une harmonie t
 
 ## 9. Jacob Collier - Sensualisation de la théorie du tempérament
 
-Jacob Collier a présenté la théorie microtonale d'une manière qui vous fait ressentir plutôt que vous faire comprendre.
+Jacob Collier a présenté la théorie microtonale d'une manière qui vous fait ressentir plutôt que de vous faire comprendre.
 
 ### 9.1 Application pratique des séries harmoniques
 
 * Utilisation de tierces et septièmes authentiques
-* Tonalité fixe en raison du multiplexage vocal
+* Hauteur fixe en raison du multiplexage vocal
 * Amélioration du contour émotionnel de l'harmonie
 
 ### 9.2 Coexistence avec la structure pop
@@ -235,7 +235,7 @@ La musique microtonale recycle votre audition.
 * Fluctuations du sens tonal
 * Attirer l'attention sur le pitch
 
-Ceci ne s’établit pas par une compréhension intellectuelle, mais par une écoute répétée.
+Ceci ne s’établit pas par une compréhension intellectuelle mais par une écoute répétée.
 
 ---
 
@@ -243,12 +243,12 @@ Ceci ne s’établit pas par une compréhension intellectuelle, mais par une éc
 
 La musique microtonale ne constitue pas un genre unique.
 
-* Musique expérimentale
-* Musique électronique
+* 実験音楽
+* musique électronique
 * À l'intérieur du Jazz/Pop
 * Vidéo/Installation
 
-Il n’existe pas comme « genre » mais comme philosophie de production.
+Il n'existe pas comme un « genre » mais comme une philosophie de production.
 
 ---
 

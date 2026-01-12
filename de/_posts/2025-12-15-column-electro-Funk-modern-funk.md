@@ -22,7 +22,7 @@ Text: mmr｜Thema: Die Genealogie des elektronischen Funks und die Struktur, Aus
 
 Electro-Funk/Modern Funk ist kein Name, der sich auf eine bestimmte Ära oder eine einzelne Bewegung bezieht. Dieser Name ist ein umfassender Rahmen, der sich auf den gesamten Prozess bezieht, durch den die in den 1970er Jahren etablierten Strukturprinzipien des Funk neu organisiert wurden und gleichzeitig elektronische Musikinstrumente und digitale Produktionsumgebungen umfassten.
 
-Beim Funk geht es weniger um Akkordfolgen und Melodien als vielmehr um wiederholte Rhythmen, Basslinien und ein körperliches Zeitgefühl. Electro-Funk/Modern Funk hat seine Produktionsmethoden und sein Sounddesign verändert, ohne seine Essenz zu verlieren. Infolgedessen wurden zahlreiche Erfolge erzielt, darunter studiobasierter elektronischer Funk und performancebasierter Extended Funk.
+Die Essenz von Funk liegt in sich wiederholenden Rhythmen, Basslinien und einem physischen Zeitgefühl und nicht in Akkordfolgen oder Melodien. Electro-Funk/Modern Funk hat seine Produktionsmethoden und sein Sounddesign verändert, ohne seine Essenz zu verlieren. Infolgedessen wurden zahlreiche Erfolge erzielt, darunter studiobasierter elektronischer Funk und performancebasierter Extended Funk.
 
 Chromeo- und Jamiroquai-Derivate sind Symbole dieser Parallelstruktur, und dieser Artikel konzentriert sich auf beide, um den Entstehungsprozess und die interne Struktur des Genres als Ganzes zu beschreiben.
 
@@ -56,7 +56,7 @@ Zu diesem Zeitpunkt hatte Funk bereits die Qualitäten einer Loop-basierten Musi
 ## Kapitel 2: Änderungen vor der Elektronikisierung
 
 
-In den späten 1970er Jahren begannen Fortschritte in der Studiotechnologie die Art und Weise, wie Funk produziert wurde, zu verändern. Mit der Verbreitung der Mehrspuraufzeichnung begann man, Aufführungen aufzuschlüsseln und als Material zu behandeln, das bearbeitet werden konnte. Dadurch wurde mehr Wert auf rhythmische Präzision und klangliche Einheitlichkeit gelegt.
+In den späten 1970er Jahren begannen Fortschritte in der Studiotechnologie die Art und Weise, wie Funk produziert wurde, zu verändern. Mit der Verbreitung der Mehrspuraufzeichnung wurden Aufführungen zunehmend zerlegt und als bearbeitbares Material behandelt. Dadurch wurde mehr Wert auf rhythmische Präzision und klangliche Einheitlichkeit gelegt.
 
 Etwa zur gleichen Zeit wurden E-Pianos und frühe Synthesizer eingeführt, und das Keyboard wandelte sich von einem reinen Harmonieinstrument zu einem Instrument zur Wiedergabe von Klangfarben. Zu diesem Zeitpunkt wurden die Ideen für spätere Synthesizer-Bässe und elektronische Leads vorbereitet.
 
@@ -78,7 +78,7 @@ Gleichzeitig wurden Synthesizer-Basslinien alltäglich, und der tiefe Bereich wu
 
 Seit den 1990er Jahren ist mit der Verbreitung von DAWs die individuelle Produktion zu einer realistischen Option geworden. Funk setzt nicht mehr auf große Bands, sondern wechselt zu Musik, die von einer kleinen Gruppe von Menschen oder von einem einzelnen Produzenten geschaffen werden kann.
 
-Im Modern Funk ist jedes Element klar organisiert. Es ist üblich geworden, einen Synthesizer-Bass für tiefe Frequenzen, programmierte Drums für den Rhythmus und polyphone Synthesizer für Akkorde zu verwenden, und das Frequenzmanagement in der Mix-Phase wird immer wichtiger.
+Im Modern Funk ist jedes Element klar organisiert. Es ist üblich geworden, einen Synthesizer-Bass für tiefe Frequenzen, eine programmierte Trommel für den Rhythmus und einen polyphonen Synthesizer für Akkorde zu haben, und das Frequenzmanagement in der Mix-Phase wird immer wichtiger.
 
 Dieses Arrangement verfeinerte die Musik, verzichtete auf übermäßige Dekoration und rückte den Groove selbst in den Vordergrund.
 
@@ -97,7 +97,7 @@ Diese Linie geht von einer Studioproduktion aus und die Songs sind als äußerst
 
 ## Kapitel 6: Struktur von Jamiroquai-Derivaten
 
-Jamiroquai-Derivate behalten die Leistungsstruktur einer Funkband bei und integrieren gleichzeitig elektronische Elemente. Das Zusammenspiel von Schlagzeug, Bass, Gitarre und Keyboard wird betont, rhythmische Schwankungen und Dynamik bleiben erhalten.
+Jamiroquai-Derivate behalten die Leistungsstruktur einer Funkband bei und integrieren elektronische Elemente. Das Zusammenspiel von Schlagzeug, Bass, Gitarre und Keyboard wird betont, rhythmische Schwankungen und Dynamik bleiben erhalten.
 
 Elektronische Musikinstrumente spielen eine unterstützende Rolle und werden zur Klangfarbenerweiterung und räumlichen Bearbeitung eingesetzt. Hier liegen Live-Auftritt und Studioproduktion auf einer Linie und die körperliche Überzeugungskraft geht über die Reproduzierbarkeit.
 

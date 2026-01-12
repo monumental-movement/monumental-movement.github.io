@@ -9,11 +9,11 @@ permalink: /ko/overrocket-weather-forecast/
 tags:
 - Techno
 - Synth-Pop
-title: 오버로켓 - 일기 예보
+title: Overrocket – Weather Forecast
 ---
 
 
-OVERROCKET은 덴키 그루브의 엔지니어인 와타나베 타카시, 혼다 미치요, 스즈키 미츠토로 구성된 일렉트로 팝 유닛입니다. B면 "Weather Forecast (Rain Hat Mix)"는 DJ Tasaka의 리믹스입니다.
+OVERROCKETは、電気グルーヴのエンジニア渡部高士、本田みちよ、鈴木光人のエレクトロポップ・ユニット。B面「Weather Forecast (Rain Hat Mix)」は、DJ TasakaによるRemix。
 
 #### 트랙리스트
 ```md

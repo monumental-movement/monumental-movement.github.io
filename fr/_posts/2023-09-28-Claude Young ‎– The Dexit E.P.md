@@ -14,7 +14,7 @@ title: Claude Young – The Dexit E.P.
 ---
 
 
-"Le Dexit EP" est sorti par Claude Young sur le label belge Elypsia en 1997 pour sortir le travail des producteurs de sa ville natale de Détroit.
+「The Dexit E.P.」は、1997年にベルギーのレーベルElypsiaからClaude Youngが、自身のホームタウンであるデトロイトのプロデューサー作品をリリースするために発表した1枚です。
 
 #### Liste des chansons
 ```md

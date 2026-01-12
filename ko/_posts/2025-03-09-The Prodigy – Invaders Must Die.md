@@ -10,13 +10,13 @@ tags:
 - Breaks
 - Big Beat
 - 00s
-title: 프로디지 - 침입자는 죽어야 한다
+title: The Prodigy – Invaders Must Die
 ---
 
 
-이번 앨범은 영국 일렉트로닉 댄스 뮤직 그룹 The Prodigy의 다섯 번째 정규 앨범이다. 2009년에 발매된 이 앨범은 처음으로 밴드 멤버 전체가 제작 과정에 참여했으며 상업적인 성공을 거두었습니다.
+このアルバムは、UKのエレクトロニックダンスミュージックグループ、The Prodigy(プロディジー)の5枚目のスタジオ・アルバム。2009年にリリースされたこのアルバムは、すべてのバンドメンバーが制作プロセスに参加した初めてのアルバムで、商業的にも成功を収めた。
 
-"Invaders Must Die", "Omen", "Warrior's Dance", "Take Me to the Hospital"과 같은 히트곡이 포함되어 있습니다.
+「Invaders Must Die」、「Omen」、「Warrior's Dance」、「Take Me to the Hospital」等のヒット曲が収録されている。
 
 
 #### 트랙리스트

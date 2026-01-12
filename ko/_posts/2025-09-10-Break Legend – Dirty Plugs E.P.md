@@ -11,13 +11,13 @@ tags:
 - Breakbeat
 - Breaks
 - 00s
-title: 브레이크 레전드 – 더티 플러그 E.P.
+title: Break Legend – Dirty Plugs E.P.
 ---
 
 
-Break Legend는 BSJ로도 알려진 이탈리아 DJ/프로듀서 Enrico Ferrari의 프로젝트 중 하나입니다.
+Break Legendは、BSJの名でも知られるイタリアのDJ／プロデューサーEnrico Ferrari(エンリコ・フェラーリ)のプロジェクトの一つ。
 
-Progressive Breaks/Breakbeat/Breaks는 2004년 Tech-Breaks 레이블 Mantra Breaks와 이탈리아 하우스/딥 하우스 레이블 Mantra Vibes에서 발매되었습니다.
+Tech-Breaks レーベルMantra Breaks とItalian House / Deep HouseレーベルMantra Vibes から2004年にリリースされたProgressive Breaks／Breakbeat／Breaks。
 
 
 #### 트랙리스트

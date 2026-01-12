@@ -9,13 +9,13 @@ permalink: /ko/deee-lite-dewdrops-in-the-garden/
 tags:
 - House
 - Hiphop
-title: Deee-Lite – 정원의 이슬방울
+title: Deee-Lite – Dewdrops In The Garden
 ---
 
 
-Dewdrops in the Garden은 Elektra Records가 1994년 8월 발매한 미국 댄스 음악 밴드 Deee-Lite의 세 번째이자 마지막 스튜디오 앨범입니다.
+『Dewdrops in the Garden』は、アメリカのダンスミュージックバンドDeee-Liteによる3枚目かつ最後のスタジオアルバムで、1994年8月にElektra Recordsからリリースされました。
 
-앨범은 전작의 정치적 서정적 내용에서 벗어나 춤과 친밀함을 주제로 하고 사이키델릭 음악에 중점을 두었습니다.
+このアルバムでは、前作の政治的な歌詞内容から離れ、ダンスと親密さのテーマに移行し、サイケデリック音楽への傾斜が強調されました。
 
 #### 트랙리스트
 ```md

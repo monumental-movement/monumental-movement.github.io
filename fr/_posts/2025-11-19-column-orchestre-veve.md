@@ -41,7 +41,7 @@ color: #fff;
 
 # Chapitre 1 Contexte de la formation et de la situation de la scène musicale congolaise
 
-À la fin des années 1960, la musique congolaise formait déjà une culture live compétitive dans le Grand Quartier. Alors que plusieurs groupes puissants tels que OK Jazz, African Fiesta et Zaïko se faisaient concurrence et que la sophistication des ensembles de guitares et des parties polyphoniques vocales s'accélérait, le nombre de labels indépendants soutenant le succès des jeunes musiciens augmentait.
+À la fin des années 1960, la musique congolaise formait déjà une culture live compétitive dans le Grand Quartier. Alors que des groupes puissants tels que OK Jazz, African Fiesta et Zaïko se faisaient concurrence et que la sophistication des ensembles de guitares et de la polyphonie vocale s'accélérait, le nombre de labels indépendants soutenant le succès des jeunes musiciens augmentait.
 
 Orchestra Veve est né au milieu de cette fluidité musicale apportée par l’urbanisation et l’expansion médiatique de l’ère post-indépendance. En particulier, c'était une époque où plusieurs groupes émergents émergeaient en raison de la combinaison de la forte culture de la danse du Congo, de l'influence croissante des diffuseurs et de la demande de spectacles dans les bars des coins de rue.
 
@@ -53,7 +53,7 @@ Le fondateur **Veve Verckys** était un saxophoniste et un homme d'affaires visi
 
 Orchestra Veve est bien plus qu'un simple groupe.
 **Équipe de performance + équipe d'enregistrement + direction de production + réseau de promotion**
-Elle avait une structure très organisée pour l’époque.
+C'était très organisé pour l'époque.
 
 La politique de gestion de Veran peut être résumée dans les trois points suivants.
 
@@ -102,7 +102,7 @@ Ces chansons montrent le cœur de la musique dance de Veve, tout en montrant cla
 
 ## Rôle de la guitare solo
 
-La guitare principale de Veve se caractérisait par une mélodie « notch » plus aiguë que celle des autres groupes de l'époque. Particulièrement visible dans les enregistrements des années 1970.
+La guitare solo de Veve se caractérisait par une mélodie « notch » plus aiguë que celle des autres groupes de l'époque. Particulièrement visible dans les enregistrements des années 1970.
 
 - Montée chromatique
 - trémolo rapide
@@ -123,7 +123,7 @@ La section rythmique de Veve a un rebond distinctif. Le charleston ne sculpte pa
 
 # Chapitre 6 Analyse des chansons représentatives
 
-## Chanson A : Zonga Andowe – fondement rythmique et structure mélodique
+## Chanson A : Zonga Andowe – fondation rythmique et structure mélodique
 
 "Zonga Andowe" est l'un des tubes les plus populaires de Veve, avec son refrain répétitif et sa structure mélodique de guitare.
 
@@ -153,7 +153,7 @@ graph TD
 
 ### Analyse technique
 
-* **Le saxophone présente la mélodie au début → La guitare imite**
+* **Le saxophone présente la mélodie au début → la guitare imite**
 * **Les voix sont des « questions » et les refrains sont des « réponses »**
 * **Solo de guitare linéaire et aigu**
 
@@ -177,7 +177,7 @@ sequenceDiagram
 
 ## Chanson C : Nitarudia — Réveillon de soukous orienté danse
 
-Dans cette chanson, une guitare plus rapide et plus fragmentée apparaît comme un précurseur de la chanson devenant sokusu. On dit que c'est le son le plus tourné vers l'avenir des œuvres de Veve.
+Dans cette chanson, une guitare plus rapide et plus segmentée apparaît comme un précurseur du style soukousu. On dit que c'est le son le plus tourné vers l'avenir des œuvres de Veve.
 
 ### Analyse technique
 
@@ -216,7 +216,7 @@ L'une des caractéristiques de cette œuvre est qu'elle donne la priorité à l'
 # Chapitre 8 Culture de la danse et histoire de la réception : le Congo et la diaspora
 
 La musique de Veve a eu une grande influence sur la culture de la danse urbaine du Congo.
-Il est particulièrement populaire dans les bars (salles de danse), et chaque fois que l'enregistrement d'un groupe est diffusé, certaines étapes s'établissent.
+Il est particulièrement populaire dans les bars (salles de danse), et chaque fois que l'enregistrement d'un groupe est joué, certaines étapes s'établissent.
 
 * **Style qui utilise de grands gestes de la main**
 * **Marches avec un fort mouvement latéral**
@@ -296,7 +296,7 @@ L'héritage musical de Veve est
 
 * **Augmentation de la vitesse de Soukusu**
 * **Musique urbaine dirigée par le saxophone**
-* **Subdivision de l'ensemble de guitares**
+* **Subdivision ensemble de guitares**
 Il a eu une profonde influence sur la musique congolaise contemporaine.
 
 En outre, le modèle de production musicale basé sur un système, qui créait une infrastructure d’enregistrement et formait de manière dynamique de jeunes interprètes, a servi de ligne directrice majeure pour la gestion ultérieure des labels.

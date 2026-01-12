@@ -92,7 +92,7 @@ Extrayez des phrases de disques soul, funk et jazz à l'aide d'un échantillonne
 
 ### Côte Est contre Côte Ouest
 Les tensions régionales influencent la musique, comme en témoigne le conflit entre The Notorious B.I.G. et 2Pac.
-Les clubs new-yorkais (Tunnel, Limelight) sont devenus des lieux de rap battles et de premières nouveautés, favorisant une culture rap battle.
+Les clubs new-yorkais (Tunnel, Limelight) sont devenus des lieux de battles de rap et de premières nouveautés, favorisant une culture de battle de rap.
 
 ### Sud (Atlanta, Houston, Nouvelle-Orléans)
 OutKast et UGK ont émergé et ont établi leur propre son unique. La distribution de cassettes dans les clubs a soutenu la diffusion du hip-hop régional.
@@ -129,7 +129,7 @@ Cela augmente la proportion de rythmes originaux.
 
 ---
 
-## Des années 2010 à aujourd'hui : l'ère du streaming et la mondialisation
+## Des années 2010 à aujourd'hui : l'ère du streaming et la mondialisation
 
 ### Combiner culture club et culture en ligne
 Principalement diffusé en version numérique sur SoundCloud, YouTube, Spotify, etc. Le club a immédiatement changé son rôle de lieu d'observation des réactions.
@@ -195,7 +195,7 @@ Un incident impliquant une utilisation non autorisée de la boucle de guitare de
 | années 1980 | *Payé en totalité*, *Il faut une nation de millions* | James Brown, Funk, période d'abus d'échantillonnage d'âme |
 | années 1990 | *La Chronique*, *Tous les regards sur moi* | Parlement-Funkadelic, G-Funk |
 | Années 2000 | *Stakonia*, *Tha Carter III* | Échantillonnage réduit/synthé mainstream |
-| Années 2010 | *DS2*, *Ma belle fantaisie sombre et tordue* | Réduction d'échantillonnage/battement fait maison + Auto-Tune |
+| Années 2010 | *DS2*, *Ma belle fantaisie sombre et tordue* | Réduction d'échantillonnage/battement maison + Auto-Tune |
 | Années 2020 | *M. Moral et les Big Steppers*, *L'intersaison* | Exemple de régression + expérience de battement générée par l'IA |
 
 ---
@@ -379,7 +379,7 @@ Bass : ▂▂▄▆██▆▄▂
 
 ---
 
-## Années 2010 (Trap era/sub bass et HiHat haute vitesse)
+## Années 2010 (ère Trap/sub bass et HiHat haute vitesse)
 
 <table class="table-wave">
 <tr>
@@ -444,7 +444,7 @@ La carte du pouvoir visualise vers quelle région le centre de la scène s'est d
 
 ## Conclusion
  
-Le hip-hop a évolué pour refléter la culture et le contexte social de chaque région. La côte Est, la côte Ouest et la côte Sud ont chacune leurs propres styles uniques, qui ont influencé non seulement la musique, mais aussi la mode, la langue et les mouvements sociaux. Le hip-hop continuera d’évoluer à mesure que de nouvelles techniques et méthodes d’expression émergeront.
+Le hip-hop a évolué pour refléter la culture et le contexte social de chaque région. La côte Est, la côte Ouest et la côte Sud ont chacune leurs propres styles qui ont influencé non seulement la musique, mais aussi la mode, la langue, les mouvements sociaux et bien plus encore. Le hip-hop continuera d’évoluer à mesure que de nouvelles techniques et méthodes d’expression émergeront.
 
 ---
 

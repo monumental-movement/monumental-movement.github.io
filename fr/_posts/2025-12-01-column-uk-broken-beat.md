@@ -44,7 +44,7 @@ color: #fff;
 Au milieu des années 1990, le jazz-funk et la drum and bass se développaient rapidement sur la scène des clubs britanniques. Dans ce contexte, une musique aux rythmes plus libres et irréguliers est apparue comme une émanation de la house traditionnelle à quatre sur le sol et du jazz-funk. Cela constitue la base du genre qui sera plus tard appelé Broken Beat.
 
 - **Sensation swing jazz-funk** : progressions d'accords complexes et rythmes de signature rythmique étranges
-- **Rythmes complexes de drum and bass et de jungle** : breakbeats rapides et placements irréguliers de la caisse claire
+- **Complexité rythmique de la batterie et de la basse et de la jungle** : breakbeats à grande vitesse et placements irréguliers de la caisse claire
 - **Fusion avec la culture du sampling hip-hop** : Utilisation simultanée de musique live et d'échantillonnage
 
 > "A cette époque, il ne s'agissait pas seulement de danser ou d'écouter de la musique, c'était plus amusant de ressentir le swing et le groove qui naissaient derrière le rythme."
@@ -198,7 +198,7 @@ graph TD
 ### Kaidi Tatham
 - **Début des activités** : Fin des années 1990
 - **Caractéristiques** : Diverses œuvres au clavier, motifs rythmiques complexes
-- **Analyse de chanson** : Dans des chansons telles que « Episode 1 », la ligne de basse répond au rythme et crée une mélodie fluctuante, créant la « sensation de flottement » propre à Broken Beat.
+- **Analyse de chanson** : Dans des chansons telles que "Episode 1", la ligne de basse répond au rythme et crée une mélodie fluctuante, créant la " sensation de flottement " propre à Broken Beat.
 
 ### Culture IG
 - **Début des activités** : 1996

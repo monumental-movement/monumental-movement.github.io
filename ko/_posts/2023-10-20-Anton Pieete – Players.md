@@ -9,7 +9,7 @@ permalink: /ko/anton-pieete-players/
 tags:
 - Techno
 - Minimal
-title: 안톤 피에테 – 플레이어
+title: 안톤 피에테 – 선수들
 ---
 
 

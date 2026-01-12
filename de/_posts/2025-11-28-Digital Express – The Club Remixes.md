@@ -26,7 +26,7 @@ Digital Express ist ein Acid/Techno-Projekt von Jeroen Search, bekannt als einer
 
 A1 ist ein Remix des niederländischen Techno-DJ Peter Horrevorts, auch bekannt als Paco Lesotto.
 
-A2hq, ein Remix von Michel De Hey, einem niederländischen DJ/Produzenten, der seit Anfang der 1990er Jahre aktiv ist.
+A2hq, ein Remix von Michel De Hey, einem niederländischen DJ/Produzenten, der seit den frühen 1990er Jahren aktiv ist.
 
 #### Trackliste
 ```md

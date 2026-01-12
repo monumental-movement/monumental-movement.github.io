@@ -27,7 +27,7 @@ Obwohl der Begriff „Alternative Rock“ in den frühen 1990er Jahren populär 
 
 In den 1980er Jahren konzentrierte sich der Mainstream-Rock auf lauten, arenagroßen Hardrock, kommerziell polierten AOR und Pop-Rock im Zusammenhang mit MTV. Andererseits begann in regionalen Städten und Universitätsstädten eine neue Bewegung von Bands zu entstehen, die im DIY-Geist verwurzelt waren und nicht auf kommerziellen Erfolg basierten.
 
-In den Vereinigten Staaten produzierten damals unabhängige Labels wie SST Records, Twin/Tone und Touch and Go eine Vielzahl von Stilen, die nicht vom Genre abhängig waren. Dies war eine Bewegung, die als „College-Rock“ bekannt war, eine Band, die die Geschwindigkeit und den Antiautoritarismus des Hardcore-Punks erbte, aber einen freieren experimentellen Geist hatte.
+In den Vereinigten Staaten produzierten damals unabhängige Labels wie SST Records, Twin/Tone und Touch and Go eine Vielzahl von Stilen, die nicht vom Genre abhängig waren. Dies war eine Bewegung namens „College Rock“, eine Band, die die Geschwindigkeit und den Antiautoritarismus des Hardcore-Punks erbte, aber einen freieren experimentellen Geist hatte.
 
 Etwa zur gleichen Zeit verzweigte sich in Großbritannien die Post-Punk-Szene auf komplizierte Weise im Untergrund.
 Labels wie Factory, 4AD und Creation hatten alle ihre eigene, einzigartige Ästhetik und veröffentlichten eine breite Palette von Bands von Gitarrenpop über Shoegaze bis hin zu Gothic Rock.
@@ -52,7 +52,7 @@ color: #fff;
 
 ## **Kapitel 1: Von Postpunk zum College Rock (1980–1987)**
 
-R.E.M.s „Murmur“ aus dem Jahr 1983 ist als Ausgangspunkt für Alternativen besonders wichtig. Während sie sich vom Kommerz distanzierten, präsentierten sie Melodien, die vom Folk-Rock beeinflusst waren, und zweideutige Texte und erlangten eine große Anhängerschaft, insbesondere in amerikanischen Universitätsstädten. Der Erfolg von R.E.M. war der Moment, der bewies, dass „eine neue Art von Rock geschaffen werden konnte, die sich vom Mainstream unterscheidet, aber ein verlässliches Publikum hat“.
+R.E.M.s Murmur von 1983 ist als Ausgangspunkt für Alternative besonders wichtig. Während sie sich vom Kommerz distanzierten, präsentierten sie Melodien, die vom Folk-Rock beeinflusst waren, und zweideutige Texte und erlangten eine große Anhängerschaft, insbesondere in amerikanischen Universitätsstädten. Der Erfolg von R.E.M. war der Moment, der bewies, dass „eine neue Art von Rock geschaffen werden konnte, die sich vom Mainstream unterscheidet, aber ein verlässliches Publikum hat“.
 
 Etwa zur gleichen Zeit entstanden Bands wie The Replacements, Hüsker Dü, The Feelies und Sonic Youth, die flexibel Lärm, Melodie und Experimente mischten. Insbesondere Sonic Youths Auseinandersetzung mit Gitarrenstimmung und Geräuschstruktur hatte großen Einfluss auf die spätere alternative Musik.
 
@@ -70,7 +70,7 @@ Diese drei wurden zur Grundlage für das spätere Alterna.
 
 Seit 1987 ist die US-amerikanische Indie-Musik anspruchsvoller geworden und die Methoden zur Albumproduktion haben sich erheblich weiterentwickelt. Pixies veröffentlichten 1988 „Surfer Rosa“ und verdeutlichten die dynamische Struktur von „Stille und Bewegung“. Diese Struktur wurde später von Nirvana übernommen, was zur Explosion des Grunge führte.
 
-Dinosaur Jr. brachte auch Gitarrensoli und eingefügtes Gebrüll zurück und definierte damit die Grammatik der späteren alternativen Gitarre.
+Dinosaur Jr. brachte auch das Gitarrensolo zurück und verschmolz es mit dröhnenden Klängen, wodurch die Grammatik der späteren alternativen Gitarre definiert wurde.
 Fugazi behielt den Hardcore-Geist bei, führte Melodien und strukturelle Arrangements ein und behauptete sich als DIY-Ikone.
 
 In Großbritannien traten Bands wie Stone Roses (1989) und My Bloody Valentine (1990) auf, und die Manchester-Szene und Shoegaze brachten einen neuen Trend nach Europa.
@@ -88,7 +88,7 @@ charakteristisch für Grunge
 ・Texte voller Instabilität
 ・Mischung aus Brüllen und Melodie
 ・Punk-Ethik
-Allerdings stellte er andere Werte dar als kommerzieller Rock und wurde zu einer weltweiten Bewegung mit Massenübertragungen durch MTV.
+Allerdings stellte er andere Werte dar als kommerzieller Rock und wurde zu einer weltweiten Bewegung mit Massenübertragungen auf MTV.
 
 Etwa zur gleichen Zeit erzielten Bands aus Seattle wie Pearl Jam, Soundgarden und Alice in Chains nacheinander Erfolge und wurden weltweit als „Vertreter des Grunge/Alternative“ anerkannt.
 
@@ -118,7 +118,7 @@ Diese Bewegung verbindet sich mit lyrischen und experimentellen Bands wie Radioh
 Der Aufstieg von Tortoise, Mogwai, Gott sei Dank! Black Emperor und andere haben die Grenzen des Rock überschritten.
 
 Alternative ist kein einzelner Stil mehr;
-**„Ein allgemeiner Begriff für Kreativität, der nicht durch Kommerzialisierung erfasst wird“**
+**„Ein allgemeiner Begriff für Kreativität, der nicht durch Kommerzialisierung wiederhergestellt wird“**
 Es wurde verstanden als.
 
 ---
@@ -135,13 +135,13 @@ In den späten 2000er Jahren wurde die amerikanische Festivalkultur (Coachella, 
 
 ## **Kapitel 6: Alternativen im Streaming-Zeitalter (2010–2020)**
 
-Seit den 2010er Jahren verschwimmen die Genregrenzen des Rock durch die Verbreitung von Streaming und Alternative erhält vielfältigere Bedeutungen.
+Seit den 2010er Jahren verschwimmen die Genregrenzen des Rock durch die Ausbreitung des Streamings und Alternative erhält vielfältigere Bedeutungen.
 
 Mit Tame Impalas psychedelischer Route, Bon Ivers digitaler/Folk-Fusion, Deerhunters Experimenten und dem Aufstieg weiblicher Künstler (St. Vincent, Mitski, Phoebe Bridgers) hat sich der Alternatismus vollständig zu „Altera als ästhetische Haltung“ gewandelt.
 
 Anstelle des „Anti-Kommerzialismus“ der Vergangenheit,
 **„Eine Produktionshaltung, die Unabhängigkeit und Experimentierfreude betont“**
-Dies blieb die Essenz von Alterna.
+Dies blieb die Essenz von alterna.
 
 ---
 

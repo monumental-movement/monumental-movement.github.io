@@ -15,7 +15,7 @@ title: Les Chemical Brothers – Simples 93-03
 ---
 
 
-"Singles 93-03" est un album de collection de singles qui commémore le 10e anniversaire de la formation du duo britannique de musique électronique The Chemical Brothers, sorti en 2003. Il s'agit d'une collection de singles sortis de 1993 à 2003. Livré avec un autocollant spécial inclus uniquement pour la première production.
+"Singles 93-03" est un album best-of de la collection de singles qui commémore le 10e anniversaire de la formation du duo britannique de musique électronique The Chemical Brothers, sorti en 2003. Il s'agit d'une collection de singles sortis de 1993 à 2003. Livré avec un autocollant spécial inclus uniquement pour la première production.
 
 
 #### Liste des chansons

@@ -24,7 +24,7 @@ title: '[Chronique] Au-delà de la dérive : Eurobeat/EDM et la future forme de 
 Texte : mmr｜Thème : Initial D, Eurobeat, et le sort de « l'accélération du son » qui s'ensuit.
 
 
-« Initiale D » et Eurobeat. L’époque où ces liens fonctionnaient comme un dispositif culturel ne peut plus être évoquée uniquement par « nostalgie ».
+«Initial D» et Eurobeat. L’époque où ces liens fonctionnaient comme un dispositif culturel ne peut plus être évoquée uniquement par « nostalgie ».
 De la fin des années 1990 au début des années 2000, la résonance des images de voitures traversant des cols de montagne et des sons au tempo élevé ont créé une expérience inconsciente et partagée.
 Vitesse = musique, et musique = accélération des émotions.
 
@@ -76,7 +76,7 @@ Par exemple, si vous suivez les balises « Eurobeat Remake » et « Nightcore Re
 Vous pouvez voir que d’innombrables morceaux sont créés à l’intersection de l’EDM, de la culture anime et de la musique de jeu.
 
 La montée en puissance de l’EDM, la coupe vocale de l’Hyperpop, l’ascenseur mélodique de la Trance.
-Ce qui les traverse, c’est l’idée d’un « son qui conçoit l’élévation ».
+Ce qui les traverse, c'est l'idée d'un « son qui conçoit l'élévation ».
 Et l’origine de cette philosophie n’est autre que l’Eurobeat des années 90.
 
 > "La vitesse est le langage de l'époque."
@@ -146,7 +146,7 @@ L'ère où « votre conduite devient une chanson » commence déjà à devenir
 
 ### ● La renaissance d'Eurobeat sur SNS
 
-Sur TikTok et YouTube, le nombre de publications combinant « Eurobeat x propre vidéo de conduite » a augmenté de manière explosive.
+Sur TikTok et YouTube, le nombre de publications combinant « Eurobeat x votre propre vidéo de conduite » a augmenté de manière explosive.
 Il ne s'agit pas seulement de nostalgie, mais fonctionnent comme un « nouveau format pour partager la sensation de conduire ».
 Il s'agit, pour ainsi dire, d'un « support de partage rapide ».
 
@@ -160,7 +160,7 @@ Eurobeat se transforme ainsi en **Accélération Sauvée**.
 
 ## 6. Conclusion : Eurobeat peut-il se transformer en « accélération sauvée » ?
 
-Ce que « Initial D » présentait était une « théorie sensorielle de la vitesse » dans laquelle les voitures et la musique ne faisaient qu'un.
+Ce que « Initial D » présentait était une « théorie sensorielle de la vitesse » dans laquelle les voitures et la musique ne faisaient plus qu'un.
 Cet esprit continue de perdurer, quoique sous une forme différente à l’ère numérique.
 L'Eurobeat est relancé non pas comme une chose nostalgique, mais comme un support qui enregistre, joue et génère de la vitesse.
 

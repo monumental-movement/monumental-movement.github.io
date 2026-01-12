@@ -68,9 +68,9 @@ Der Auslöser war die „akustische Alterung“ von Wein, die ein Weinbrauer in 
 Ich erfuhr von einem Versuch, die Reifung durch das Spielen klassischer Musik zu beschleunigen.
 Er kehrte zu Amami zurück und dachte: „Vielleicht könnte man es mit Shochu machen.“
 
-Im Jahr 2005 installierte ein bestimmtes Lagerhaus in Amami Oshima erstmals akustische Lautsprecher in seinem Lagerraum.
+Im Jahr 2005 wurde erstmals ein akustischer Lautsprecher in einem Lagerhaus auf Amami Oshima installiert.
 Die getesteten Themen waren klassische Musik (Bach, Mozart) und Insellieder (wie „Asahabushi“ von Satokuni Taka).
-Sechs Monate später waren die beteiligten Personen, die es probierten, überrascht.
+Sechs Monate später waren die Beteiligten, die es probierten, überrascht.
 „Obwohl es der gleiche rohe Sake ist, war er sanfter, als ich ihn hörte.“
 
 ### ● Mechanismus der akustischen Reifung
@@ -79,7 +79,7 @@ Eine Änderung der Frequenz erhöht die Molekülkollisionen und beschleunigt die
 Dadurch sollen die aromatischen Bestandteile erhöht und die Reizung durch Alkohol verringert werden.
 
 > „Basswellen bewegen die Flüssigkeit als tiefe Basswellen, und hohe Frequenzen lassen die Oberflächenschicht geringfügig vibrieren.“
-> Es ist wie eine Schallmassage. ”
+> Es ist, als würde man eine Schallmassage erhalten. ”
 > —— Forscher, Fakultät für Landwirtschaft, Abteilung für Lebensmittelwissenschaften, Universität Kagoshima
 
 ---
@@ -147,7 +147,7 @@ Dieser Tag naht.
 | Jahre | Veranstaltungen |
 |------|---------|
 | 1600er | Der Zuckerrohranbau beginnt in Amami |
-| 1800er | Beginn der Produktion von lokalem Shochu aus braunem Zucker |
+| 1800er | Die Produktion von lokalem Shochu aus braunem Zucker als Rohstoff beginnt |
 | 1949 | Rückgabe der Amami-Inseln an Japan, Sondergenehmigung für „Braunzucker-Shochu“ |
 | 2005 | Amami Oshimas erster akustisch gealterter Shochu-Test beginnt |
 | 2008 | Universität Kagoshima beginnt mit wissenschaftlicher Forschung zur akustischen Reifung |

@@ -109,7 +109,7 @@ Le son de Merzbow n'est plus un genre.
 C'est une extension de l'impulsion fondamentale de « vivre = écouter ».
 Incorporant même le silence dans le bruit, il a enregistré la **vibration de l'existence elle-même** à l'extrême du son.
 
-> "Le bruit est la voix de la vie qui n'a pas encore été nommée."
+> "Le bruit est la voix de la vie qui n'a pas encore de nom."
 
 ---
 
@@ -188,7 +188,7 @@ flowchart TD
 
 #### Merzbow – Merzbird
 
-"Merzbird" de Merzbow est sorti en 2004 par le label américain Important Records.
+Merzbowの「Merzbird」は、アメリカのレーベルImportant Recordsから2004年にリリースされました。
 
 #### Liste des chansons
 ```md

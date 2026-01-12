@@ -17,7 +17,7 @@ title: '[Kolumne] Bill Laswell & Friends: Dekonstruktion der 80er – Der Kern d
 
 ## Warum haben Sie den Titel „Dekonstruktion der 80er“ gewählt?
 
-Eine lange Kolumne, die ausschließlich Fakten verwendet, um die von Bill Laswell in den 1980er Jahren praktizierte „akustische Dekonstruktion und Rekonstruktion“ zu analysieren. Über Material, Herbie Hancocks „Future Shock“, Last Exit, Verbindung zur Weltmusik und mehr.
+Eine lange Kolumne, die ausschließlich Fakten verwendet, um die „akustische Dekonstruktion und Rekonstruktion“ zu analysieren, die Bill Laswell in den 1980er Jahren praktizierte. Über Material, Herbie Hancocks „Future Shock“, Last Exit, Verbindung zur Weltmusik und mehr.
 
 
 Bill Laswells musikalische Aktivitäten in den 1980er Jahren waren eine Reihe von „Dekonstruktionen und Rekonstruktionen“, die Genres, Kulturen, Aufführungsformen und nationale Grenzen frei überschritten.
@@ -25,7 +25,7 @@ Funk, Hip-Hop, Afrobeat, Weltmusik, Free Jazz, Noise ... Laswells Projekte in de
 
 Aufgrund seiner Vielfalt war es damals nicht einfach, einen Überblick über seine Aktivitäten zu erhalten. Da einzelne Werke fragmentiert und verstreut waren, war es den Zuhörern nicht möglich, das „Gesamtbild“ zu erfassen.
 
-Mit dem Compilation-Album „Deconstruction of the 80s“ änderte sich die Situation jedoch völlig. Dieses Album ist eine Zusammenstellung der genre- und projektübergreifenden Klangquellen, an denen Laswell in den 1980er Jahren beteiligt war, neu gemastert und rekonstruiert.
+Doch mit dem Compilation-Album „Deconstruction“ der 80er änderte sich alles völlig. Dieses Album ist eine Zusammenstellung der genre- und projektübergreifenden Klangquellen, an denen Laswell in den 1980er Jahren beteiligt war, neu gemastert und rekonstruiert.
 Mit anderen Worten kann man sagen, dass diese Zusammenstellung selbst als „vollendete Form der Dekonstruktion und Rekonstruktion“ erschien.
 
 Dieser Artikel konzentriert sich auf die Aufnahmen dieses Albums und Projekte aus dieser Zeit und verfolgt die Fakten, wie Bill Laswell & Friends die Akustik der 1980er Jahre dekonstruierte und neu organisierte.
@@ -57,7 +57,7 @@ Der Grund, warum Laswell es verdient, als „Dekonstruktion der 1980er Jahre“ 
 - Seine Aktivitäten waren eine „Kreuzung“ zwischen Pop und Underground
 - Die produzierten Werke werden über die Grenzen von Weltmusik, Jazz und Noise hinweg parallelisiert.
 - Die Klangformel der 80er brechen und das Studio in ein Testgelände verwandeln
-- Die veröffentlichten Werke haben die Genredefinition verwischt
+- Die veröffentlichten Werke haben die Genredefinition verwischt.
 
 In diesem Artikel stellen wir Bill Laswell und die Musiker um ihn herum vor.
 **Wie die Akustik der 1980er Jahre „dekonstruiert und neu organisiert“ wurde** wird anhand von Fakten nachgezeichnet.
@@ -72,7 +72,7 @@ Mit dabei waren John Zorn, Arto Lindsay, Fred Frith, Sonny Sharrock und Ronald S
 Es hat sich ein „grenzüberschreitendes“ Netzwerk gebildet, in dessen Mittelpunkt Laswell steht.
 
 ## 1-2. Materialbildung
-Material (gegründet 1955, aktiv seit 1979) ist ein Projekt, das sich um Laswell, Michael Beinhorn und Fred Maher dreht.
+Material (gegründet 1955, aktiv seit 1979) ist ein Projekt rund um Laswell, Michael Beinhorn und Fred Maher.
 Zunächst konzentrierte sich die Gruppe auf No-Wave, Minimal und Funk und erweiterte sie später um Tanz, Hip-Hop und ethnische Elemente.
 
 **Wichtige Fakten:**
@@ -95,7 +95,7 @@ Dieses Werk soll „ein Symbol dafür sein, die Grenzen zwischen 80er-Jahre-Pop 
 
 ---
 
-# 3. Dub-Nachfolger: Stoff „One Down“ (1982)
+# 3. Dub-Nachfolger: Material „One Down“ (1982)
 Laswells Sound hat eine starke Affinität zum jamaikanischen Dub.
 
 **Tatsache:**
