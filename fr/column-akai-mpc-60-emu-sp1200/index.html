@@ -389,7 +389,7 @@ color: #fff;
 
 <h3 id="21-bases-de-léchantillonnage">2.1 Bases de l’échantillonnage</h3>
 
-<p>Le processus de division des signaux analogiques en valeurs numériques (échantillonnage) a deux paramètres principaux : <strong>fréquence d’échantillonnage (Hz)</strong> et <strong>profondeur de bits de quantification (bit)</strong>. La fréquence d’échantillonnage est décrite par la théorie de Nyquist et la profondeur de bits de quantification est liée à la plage dynamique et au bruit de quantification.</p>
+<p>Il existe deux paramètres principaux dans le processus (échantillonnage) de division des signaux analogiques en valeurs numériques en les divisant en intervalles de temps fixes : <strong>fréquence d’échantillonnage (Hz)</strong> et <strong>profondeur de bits de quantification (bit)</strong>. La fréquence d’échantillonnage est décrite par la théorie de Nyquist et la profondeur de bits de quantification est liée à la plage dynamique et au bruit de quantification.</p>
 
 <ul>
   <li><strong>12 bits</strong> : Théoriquement, la plage dynamique est d’environ 72 dB (conditions idéales). En réalité, la plage dynamique effective varie en fonction de l’équipement utilisé, en raison des effets du bruit du circuit et des chemins analogiques.</li>
@@ -435,7 +435,7 @@ Le SP-1200 a été conçu en tenant compte des contraintes de temps d’un écha
 <ul>
   <li>Casser l’échantillonnage et le hachage</li>
   <li>Pitch down après un échantillonnage rapide (induisant un effet passe-bas)</li>
-  <li>Créez des grooves en utilisant des ajustements de boucles et des swings de timing</li>
+  <li>Créez des grooves en utilisant des réglages de boucle et des swings de timing</li>
 </ul>
 
 <h3 id="42-akai-mpc60-1988--réalisation-en-tant-quinstrument-de-musique">4.2 Akai MPC60 (1988) — Réalisation en tant qu’instrument de musique</h3>
@@ -450,7 +450,7 @@ Le SP-1200 a été conçu en tenant compte des contraintes de temps d’un écha
 <p><strong>Philosophie et fonctionnalités de conception</strong>
 Avec l’aide de Roger Linn dans la conception, le MPC60 se voulait un « sampler jouable ». De grands pads et un séquenceur qui met l’accent sur le sens du groove améliorent considérablement la convivialité pour les performances d’improvisation et la production live. La fiche technique met l’accent sur la précision du séquenceur et le mécanisme de détection des pads du MPC60.</p>
 
-<h3 id="43akai-s900s950">4.3Akai S900/S950</h3>
+<h3 id="43-akai-s900--s950">4.3 Akai S900 / S950</h3>
 
 <ul>
   <li>S900 (1986) : premier échantillonneur de type rack. La précision de l’échantillon atteint une bande passante de 12 bits et comporte des fonctions d’édition et de synchronisation externe.</li>
@@ -472,7 +472,7 @@ Avec l’aide de Roger Linn dans la conception, le MPC60 se voulait un « sample
 <p>*Année de sortie : 1985</p>
 <ul>
   <li>Profondeur de bits : 12 bits</li>
-  <li>Caractéristiques : En combinant la lecture d’échantillons avec un filtre analogique, il est possible de “synthétiser des échantillons de tonalités”.</li>
+  <li>Caractéristiques : En combinant la lecture d’échantillons avec un filtre analogique, il est possible de « synthétiser des échantillons de tonalités ».</li>
 </ul>
 
 <hr />
@@ -516,7 +516,7 @@ Avec l’aide de Roger Linn dans la conception, le MPC60 se voulait un « sample
 <h3 id="62-bruit-de-quantification">6.2 Bruit de quantification</h3>
 
 <ul>
-  <li>Le bruit de quantification peut être estimé sous forme de rapport signal sur bruit (SNR). Le SNR 12 bits idéal est d’environ 72 dB, mais dans les équipements réels, il est généralement inférieur.</li>
+  <li>Le bruit de quantification peut être estimé sous forme de rapport signal/bruit (SNR). Le SNR 12 bits idéal est d’environ 72 dB, mais dans les équipements réels, il est généralement inférieur.</li>
 </ul>
 
 <hr />
@@ -525,7 +525,7 @@ Avec l’aide de Roger Linn dans la conception, le MPC60 se voulait un « sample
 
 <h3 id="71-rôle-du-sp-1200-dans-le-hip-hop">7.1 Rôle du SP-1200 dans le Hip Hop</h3>
 
-<p>Le SP-1200 a un son optimisé pour retravailler les bootlegs et les breaks, et il est devenu l’outil standard de facto dans de nombreux contextes de production hip-hop de l’âge d’or. Plusieurs articles ont confirmé que des producteurs tels que Pete Rock, DJ Premier et The Bomb Squad avaient réalisé des échantillons de type SP.</p>
+<p>Le SP-1200 a un son optimisé pour retravailler les bootlegs et les breaks, et il est devenu l’outil standard de facto dans de nombreux contextes de production hip-hop de l’âge d’or. Plusieurs articles ont confirmé que des producteurs tels que Pete Rock, DJ Premier et The Bomb Squad avaient effectué des échantillons de type SP.</p>
 
 <h3 id="72-relation-entre-rb-et-mpc">7.2 Relation entre R&amp;B et MPC</h3>
 
@@ -563,7 +563,7 @@ flowchart TD
 
 <h2 id="chapitre-9--uiux-et-instrumentation--mise-en-place-dune-démarche-de-performance-à-laide-de-mpc">Chapitre 9 : UI/UX et instrumentation — Mise en place d’une démarche de performance à l’aide de MPC</h2>
 
-<p>La série MPC a popularisé le concept de « sampler = instrument à jouer ». En particulier, les 16 pads, la sensibilité des pads, la faible latence pour une lecture instantanée et le séquenceur intégré permettent d’improviser, et son utilisation dans les performances live et les sessions impromptues s’est étendue. Le fait que la fusion de la philosophie de conception de Roger Linn (mettant l’accent sur le sens humain de la performance) et de la conception des produits d’Akai a contribué au succès du MPC60 est étayé par de multiples entretiens avec des développeurs.</p>
+<p>La série MPC a popularisé le concept de « sampler = instrument à jouer ». En particulier, les 16 pads, la sensibilité des pads, la faible latence pour une lecture instantanée et le séquenceur intégré permettent d’improviser, et son utilisation dans les performances live et les sessions impromptues s’est étendue. Le fait que la fusion de la philosophie de conception de Roger Linn (mettant l’accent sur le sens humain du jeu) et de la conception des produits d’Akai a contribué au succès du MPC60 est étayé par de multiples entretiens avec des développeurs.</p>
 
 <hr />
 
@@ -576,7 +576,7 @@ flowchart TD
 <h2 id="chapitre-11matériauxréférences">Chapitre 11 : Matériaux/Références</h2>
 
 <ul>
-  <li>Manuel d’entretien E-mu SP-1200 (Spécifications techniques)</li>
+  <li>Manuel de service E-mu SP-1200 (Spécifications techniques)</li>
   <li>Manuel d’utilisation Akai MPC60 (manuel du produit)</li>
   <li>Magazine de technologie musicale de l’époque (numéro 1987-1995)</li>
   <li>Interviews de producteurs (Pete Rock, DJ Premier, Dr. Dre, etc.)</li>
@@ -1015,7 +1015,255 @@ flowchart TD
 
   
 
+    
+
+    
+
+    
+
   
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
 
   
 
@@ -1121,7 +1369,111 @@ flowchart TD
 
   
 
+    
+
+    
+
+    
+
   
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
 
   
 
@@ -1140,6 +1492,22 @@ flowchart TD
   
 
   
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
 
   
 
@@ -4488,7 +4856,7 @@ flowchart TD
                 <a class="text-dark" href="/fr/column-brenda-fassie/">[Chronique] Brenda Fassie — La diva du township : un voyage de gloire et de lutte</a>
                 
             </h2>
-            <h4 class="card-text">Introduction
+            <h4 class="card-text">はじめに
 </h4>
         </div>
         <div class="card-footer bg-white">
@@ -4857,7 +5225,7 @@ flowchart TD
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-scott-herren-prefuse73.webp" alt="[Chronique] Scott Herren / Préfuse 73 : Poète des rythmes et des fragments" loading="lazy" decoding="async">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-scott-herren-prefuse73.webp" alt="【コラム】 Scott Herren / Prefuse 73: ビートと断片の詩人" loading="lazy" decoding="async">
                     
 
                 
@@ -4865,10 +5233,10 @@ flowchart TD
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/fr/column-scott-herren-prefuse73/">[Chronique] Scott Herren / Préfuse 73 : Poète des rythmes et des fragments</a>
+                <a class="text-dark" href="/fr/column-scott-herren-prefuse73/">【コラム】 Scott Herren / Prefuse 73: ビートと断片の詩人</a>
                 
             </h2>
-            <h4 class="card-text">Introduction
+            <h4 class="card-text">はじめに
 </h4>
         </div>
         <div class="card-footer bg-white">
@@ -5765,7 +6133,7 @@ flowchart TD
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-psychic-tv.webp" alt="[Chronique] Psychic TV : Une histoire complète d'un groupe multimédia qui croise musique, rituel et idéologie" loading="lazy" decoding="async">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-psychic-tv.webp" alt="[Chronique] Psychic TV : L'histoire complète d'un groupe multimédia qui croise musique, rituel et idéologie" loading="lazy" decoding="async">
                     
 
                 
@@ -5773,7 +6141,7 @@ flowchart TD
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/fr/column-psychic-tv/">[Chronique] Psychic TV : Une histoire complète d'un groupe multimédia qui croise musique, rituel et idéologie</a>
+                <a class="text-dark" href="/fr/column-psychic-tv/">[Chronique] Psychic TV : L'histoire complète d'un groupe multimédia qui croise musique, rituel et idéologie</a>
                 
             </h2>
             <h4 class="card-text">1. Présentation
@@ -5811,7 +6179,7 @@ flowchart TD
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-kronos-quartet.webp" alt="[Chronique] Kronos Quartet : La trajectoire d'un quatuor à cordes qui ne cesse d'innover et de relever des défis" loading="lazy" decoding="async">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-kronos-quartet.webp" alt="[Chronique] Kronos Quartet : La trajectoire d'un quatuor à cordes qui continue d'innover et de relever des défis" loading="lazy" decoding="async">
                     
 
                 
@@ -5819,7 +6187,7 @@ flowchart TD
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/fr/column-kronos-quartet/">[Chronique] Kronos Quartet : La trajectoire d'un quatuor à cordes qui ne cesse d'innover et de relever des défis</a>
+                <a class="text-dark" href="/fr/column-kronos-quartet/">[Chronique] Kronos Quartet : La trajectoire d'un quatuor à cordes qui continue d'innover et de relever des défis</a>
                 
             </h2>
             <h4 class="card-text">1. Présentation
