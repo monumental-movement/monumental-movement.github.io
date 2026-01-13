@@ -4,7 +4,7 @@ title:  "Technotronic – Trip On This (The Remixes)"
 author: mmr
 categories: [ CD ]
 tags: [ House, Euro House, Garage House, 90s ]
-image: ../assets/images/Technotronic – Trip On This (The Remixes).webp
+image: ../assets/images/Technotronic - Trip On This (The Remixes).webp
 ---
 
 Technotronic(テクノトロニック)は、1989年のシングル「Pump Up the Jam」でよく知られている、Jo Bogaertによって結成されたベルギーのエレクトロニックミュージックプロジェクト。

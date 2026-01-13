@@ -4,7 +4,7 @@ title:  "Underworld – A Hundred Days Off"
 author: mmr
 categories: [ CD ]
 tags: [ Progressive House, Techno, Downtempo ]
-image: ../assets/images/Underworld – A Hundred Days Off.webp
+image: ../assets/images/Underworld - A Hundred Days Off.webp
 ---
 
 「A Hundred Days Off」は、2002年にイギリスのエレクトロニックミュージックグループUnderworld(アンダーワールド)がリリースした6枚目のアルバムであり、このアルバムは、これは2001年にダレン・エマーソンがグループ脱退後の最初のアルバム。アンセム「Two Months Off」が収録されている。(日本盤)
