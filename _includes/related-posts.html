@@ -31,22 +31,28 @@
 <div class="d-flex justify-content-center align-items-center">
 
 <!-- Categories -->
-{% assign sortedCategories = page.categories | sort %}
-{% for category in sortedCategories %}
-  <a class="smoothscroll badge badge-primary text-capitalize"
-     href="{{ site.baseurl }}/{{ lang_path }}categories#{{ category | slugify }}">
-    {{ category }}
-  </a>
-{% endfor %}
+{% if page.categories and page.categories.size > 0 %}
+  {% assign sortedCategories = page.categories | sort %}
+  {% for category in sortedCategories %}
+    <a class="smoothscroll badge badge-primary text-capitalize"
+       href="{{ site.baseurl }}/{{ lang_path }}categories#{{ category | slugify }}">
+      {{ category }}
+    </a>
+  {% endfor %}
+{% endif %}
+
 
 <!-- Tags -->
-{% assign sortedTags = page.tags | sort %}
-{% for tag in sortedTags %}
-  <a class="smoothscroll badge badge-primary text-capitalize"
-     href="{{ site.baseurl }}/{{ lang_path }}tags#{{ tag | slugify }}">
-    {{ tag }}
-  </a>
-{% endfor %}
+{% if page.tags and page.tags.size > 0 %}
+  {% assign sortedTags = page.tags | sort %}
+  {% for tag in sortedTags %}
+    <a class="smoothscroll badge badge-primary text-capitalize"
+       href="{{ site.baseurl }}/{{ lang_path }}tags#{{ tag | slugify }}">
+      {{ tag }}
+    </a>
+  {% endfor %}
+{% endif %}
+
 
 </div>
 
