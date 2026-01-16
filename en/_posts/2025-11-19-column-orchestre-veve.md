@@ -152,7 +152,7 @@ graph TD
 
 ### Technical analysis
 
-* **Saxophone presents melody at the beginning → Guitar imitates**
+* **The saxophone presents the melody at the beginning → the guitar imitates**
 * **Vocals are "questions" and choruses are "responses"**
 * **Linear, high-pitched guitar solo**
 
@@ -201,7 +201,7 @@ flowchart LR
 # Chapter 7 Recording technology, studio environment, production system
 
 Veve's recording environment was one of the most advanced in Africa at the time.
-It had its own studio and multiple recording engineers were always present, and had the following technical characteristics.
+It had its own studio, had multiple recording engineers on staff, and had the following technical characteristics:
 
 - **Quickly take advantage of the transition period from 2-4 track recording to 4-8 track recording**
 - **Stereo method of swinging the guitar left and right**

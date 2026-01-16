@@ -20,7 +20,7 @@ Text: mmr｜Theme: Rather than separating the two as genre names, the two are ab
 
 Ambient Techno is a field of electronic music that was established in the early 1990s, and is a musical style that combines the repetitive rhythmic structure of techno with the spatiality and sustainability of ambient music. Its distinctive feature is that it retains the sense of time of club music while also functioning as music for appreciation.
 
-Deep Ambient (so-called deep-sea ambient) has a higher level of abstraction and does not require the presence of beats. The main focus is on extremely deep sound images, sustained sounds centered on low frequencies, and compositions that obscure the contours of time.
+Deep Ambient (so-called deep-sea ambient) has a higher level of abstraction and does not require the presence of beats. The main focus is on extremely deep sound images, sustained sounds centered on low frequency bands, and compositions that obscure the contours of time.
 
 ---
 
@@ -75,7 +75,7 @@ In deep-sea acoustics, low frequencies exist not just for the sake of power. The
 
 Sub-bass often doesn't have a clear attack, rising slowly and decaying slowly. As a result, the listener is placed in a state where the listener does not "hear" the sound, but "feels" it as sound pressure.
 
-From the low-mid range to the mid-range, sustained sounds with suppressed overtones are placed, which serves to equalize the density of the sound.
+From the mid-low range to the mid-range, sustained sounds with suppressed overtones are placed, which serves to equalize the density of the sound.
 
 
 ---
@@ -118,7 +118,7 @@ The decisive difference from deep-sea ambient music lies in the master-slave rel
 
 ## 10. Comparison with Deep Techno
 
-Deep Techno is characterized by minimal structure, slow tempo, and restrained development, and is music that pursues depth while retaining the club context.
+Deep Techno is characterized by its minimal structure, slow tempo, and restrained development, and is music that pursues depth while retaining the club context.
 
 While Ambient Techno/Deep Ambient distances itself from the club-like nature, Deep Techno introduces deep-sea sound while retaining the floor function. This difference creates a clear difference in usage and listening posture.
 

@@ -175,7 +175,7 @@ Techniques that utilize signals beyond musical intent, such as contact microphon
 
 ---
 
-# 6. EAI related chronology
+# 6. EAI-related chronology
 
 <div class="mermaid">
 timeline

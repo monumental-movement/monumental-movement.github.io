@@ -74,7 +74,7 @@ The history of techno was born and evolved from the relationship between "cities
 - Jeff Mills – "The Bells" (1997)
 
 **equipment**
-- Akai S3000/S3200
+-Akai S3000/S3200
 - E-mu ESI/E4
 - Ensoniq ASR-10
 - Mackie 1604/8-Bus

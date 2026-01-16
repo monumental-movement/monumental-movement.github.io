@@ -15,7 +15,7 @@ title: Dodge City Productions – Unleash Your Love
 
 Dodge City Productions (DCP) is a project by early Broken Beat innovators Ian Grant (IG Culture) and Roger Drakes (Dodge). They are known as the duo responsible for the Acid Jazz movement.
 
-"Unleash Your Love" is a Trip Hop track released in 1993 on Island Records' sub-label (dance label) 4th & Broadway.
+"Unleash Your Love" is a Trip Hop track released on Island Records' sub-label (dance label) 4th & Broadway in 1993.
 
 #### Tracklist
 ```md

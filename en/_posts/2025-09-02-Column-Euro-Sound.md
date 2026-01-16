@@ -10,7 +10,7 @@ tags:
 - Euro Beat
 - Euro House
 title: '[Column] "Euro sounds" change depending on national borders: Italy, Germany,
-  and Sweden: Differences in Euro music created by the three major producing countries'
+  and Sweden: Differences in Euro music produced by the three major producing countries'
 ---
 
 
@@ -165,6 +165,6 @@ color: #fff;
 
 ### Euro music was not "national music" but "national sound"
 The greatest appeal of 1990s Euro music is that, while it functions as a ""universal language,'' it is actually deeply embedded with the cultures and aesthetics of each country.
-Even though they are similar, the heat of Italy, the hardness of Germany, and the coolness of Sweden are clearly different.
+Even though they are all similar, the heat of Italy, the hardness of Germany, and the coolness of Sweden are clearly different.
 
 Music born at the intersection of global and local. That may be the essence of the 1990s euro.

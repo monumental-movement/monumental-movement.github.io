@@ -17,7 +17,7 @@ title: Cajun Dance Party – The Colorful Life
 Cajun Dance Party is a five-piece rock band from London, England.
 
 Their debut album, ""The Colourful Life,'' released on the label XL Recordings in 2008, was produced by Bernard Butler of the British rock band Suede.
-After releasing this album, they performed at various festivals around the world including Reading and Leeds, Glastonbury, Oxegen, and Summersonic.
+After releasing this album, they performed at various festivals around the world including Reading and Leeds, Glastonbury, Oxegen, and Summer Sonic.
 
 #### Tracklist
 ```md

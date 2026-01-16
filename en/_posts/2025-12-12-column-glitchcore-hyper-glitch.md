@@ -46,7 +46,7 @@ color: #fff;
 
 The idea of ​​glitch itself goes back to the aesthetics presented by electronica in the late 1990s (Oval, Alva Noto, Ryoji Ikeda, etc.). He treated CD reading errors and digital signal malfunctions as musical materials, and actively cited the ""aesthetics of failure.''
 
-Glitch music from this era was more experimental, with an emphasis on texture, space, and structure rather than rhythm. On the other hand, the later Glitchcore was definitely different in that it was strongly connected to popular pop and Internet culture.
+Glitch music from this era was more experimental, with an emphasis on texture, space, and structure rather than rhythm. On the other hand, later Glitchcore differs decisively in that it is strongly connected to popular pop and Internet culture.
 
 ---
 

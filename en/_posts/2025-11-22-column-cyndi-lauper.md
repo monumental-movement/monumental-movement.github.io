@@ -182,7 +182,7 @@ This incident has been passed down as an episode that symbolizes Cindy's "abilit
 
 # **10. Late 80s to 90s: From pop star to artist**
 
-From the late '80s to the '90s, Cindy was torn between commercial success and a desire for artistic expression.
+From the late '80s to the '90s, Cindy oscillated between commercial success and a desire for artistic expression.
 
 ### **Hat Full of Stars (1993)**
 
@@ -200,7 +200,7 @@ Cindy did not place any value on ""repeating successful forms" and valued ""bein
 
 # **12. Challenge to Broadway: Wins Tony Award for "Kinky Boots"**
 
-In 2013, he was in charge of the lyrics and composition for the musical "Kinky Boots," which won him the Tony Award for Best Original Song.
+In 2013, he was in charge of the lyrics and composition for the musical "Kinky Boots" and won the Tony Award for Best Original Song.
 
 Originally, Cindy grew up not only as a singer, but also deeply influenced by expressive culture such as movies and theater. That came to fruition in the form of Broadway.
 
@@ -242,7 +242,7 @@ flowchart TD
   C --> D["1984 She"s So Unusual Big Hit"]
   D --> E["1985 We Are the World Participation"]
   E --> F["1993 Hat Full of Stars Release"]
-  F --> G["2000s Experimental Period"]
+  F --> G["2000s experimental period"]
   G --> H["2013 Kinky Boots Tony Award"]
   H --> I["2020s Farewell Tour"]
 </div>

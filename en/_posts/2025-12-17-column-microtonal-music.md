@@ -109,7 +109,7 @@ Partch divided the octave into 43 pitches,
 This is not an equal division, but a **network structure of overtone ratios**.
 
 * Prefer simple integer ratio
-* Tonal sense exists but transposition is not possible
+* Tonal sense exists, but transposition is not possible
 * Interval relationships can be visualized geometrically
 
 ### 5.2 Necessity of musical instrument design
@@ -119,7 +119,7 @@ New temperaments require new instruments.
 
 Partch's instruments had the following roles:
 
-* Visualization of pitch structure
+* Visualization of interval structure
 *Direct engraving on the performer's body
 * Inseparability of theory and practice
 
@@ -280,7 +280,7 @@ timeline
 
 ## 15. Conclusion
 
-Microtonal music is not an exercise in increasing pitch. This is a shift to a production philosophy that does not assume a fixed pitch. Harry Partch brought music back to the body and space, and Jacob Collier translated that theory into a modern sensibility. This movement will continue to work quietly in the depths of music production.
+Microtonal music is not an exercise in increasing pitch. This is a shift to a production philosophy that does not assume a fixed pitch. Harry Partch brought music back to the body and space, and Jacob Collier translated that theory into a modern sensibility. This movement will continue to work quietly in the deep layers of music production.
 
 
 ---

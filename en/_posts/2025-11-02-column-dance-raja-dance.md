@@ -77,7 +77,7 @@ The plot is simple, but what is noteworthy is the integration of the production 
 
 ## Chapter 3: "Disco" phenomenon in India in the 1980s
 
-After the success of ""Disco Dancer" (1982, Hindi) and ""Ilamai Oonjal Aadukirathu" (1978, Tamil), disco culture spread across India as a symbol of ""dance = freedom.''
+After the success of ""Disco Dancer" (1982, Hindi) and ""Ilamai Oonjal Aadukirathu" (1978, Tamil), disco culture spread throughout India as a symbol of ""dance = freedom.''
 
 In South India, this trend took on a unique variation. While Mumbai's discotheques depicted an ""urban dream", **discotheques in Kannada films were an expression of ""regional pride"**.
 
@@ -101,7 +101,7 @@ This "South Indian MTV feel" was later inherited by A.R. Rehman and Harris Jayar
 In the late 1980s, southern India was undergoing a period of expansion of television culture, along with a wave of urbanization.
 It was a time when the state-run broadcaster Doordarshan opened up to commercial broadcasting, and young people from rural areas dreamed of becoming stars.
 
-The setting in which the main character of ""Dance Raja Dance'', Raja, becomes famous through a television program truly symbolizes the germination of neoliberal values.
+The setting in which the main character of ""Dance Raja Dance'', Raja, becomes famous through a TV show truly symbolizes the germination of neoliberal values.
 Overcoming the constraints of work, class, and family and achieving success through talent and hard work—this can be called the ""Indian version of the American Dream.''
 
 ---
@@ -116,14 +116,14 @@ Overcoming the constraints of work, class, and family and achieving success thro
 | **Finale Medley** | Various | Reprise composition of all songs | Dance final scene |
 
 It has been confirmed that these songs were created using cutting-edge equipment at the time, such as FM synth (Yamaha DX7) and Roland TR-707.
-In particular, the **rising brass synth note** heard in the intro of ""Dance Raja Dance'' reminds me of the textures of Moroder and Depeche Mode.
+In particular, the **rising brass synth sound** heard in the intro of ""Dance Raja Dance'' reminds me of the textures of Moroder and Depeche Mode.
 
 ---
 
 ## Chapter Seven: Legacy of Vijaya Anand
 
 Vijaya Anand has composed scores for many films since the 1990s, but few have been as innovative as Dance Raja Dance.
-However, his music gave younger music directors the perspective of ""film as a testing ground for popular music.''
+However, his music gave younger music directors the perspective of ""movies as a testing ground for popular music.''
 
 A.R. Rehman's early works Roja (1992) and the foundations of urban soundtracks such as Gentleman (1993) are clearly an extension of the experiments of Vijaya Anand and Bappi Lahiri.
 

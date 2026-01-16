@@ -79,7 +79,7 @@ Labels specializing in soundtracks (La-La Land Records, Intrada, Varese Saraband
 
 A medium for ""re-experiencing'' soundtracks in video works.
 
-The spatial expression of music has greatly evolved with stereophonic technology such as 5.1ch/DTS.
+The spatial expression of music has greatly evolved through stereophonic technology such as 5.1ch/DTS.
 
 ■Digital sound source (MP3/WAV/FLAC/AAC)
 

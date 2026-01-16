@@ -19,7 +19,7 @@ title: '[Column] Anticon — Genealogy of anti-icons and their surrounding music
 Text: mmr | Theme: The history of experimental hip-hop/indie music by Anticon (founded in 1998) and the discography of major artists.
 
 
-Anticon (anticon.) is an American indie/experimental hip-hop label/collective that was founded in 1998. While many of the founding members expanded their activities into "avant-garde hip-hop" and indie/electronica through solo activities and derivative units, the label's activities declined in the late 2010s after significant changes (departure of a co-founder, death of a member, etc.).
+Anticon (anticon.) is an American indie/experimental hip-hop label/collective founded in 1998. While many of the founding members expanded their scope of activities into "avant-garde hip-hop" and indie/electronica, crossing over between solo acts and derivative units, the label's activities declined in the late 2010s after significant changes (departure of a co-founder, death of a member, etc.).
 
 ---
 
@@ -150,7 +150,7 @@ In the early days, the band"s core was fragmentary, abstract, and even literary 
 ### ■ Alias ​​(Brendon Whitney)
 
 | Year | Title | Notes | Link |
-| ---- | ------------------------------------- | -------- | ----------------------------------------------------- |
+| ---- | ------------------------------------- | -------- | --------------------------------------------------------------- |
 | 2000 | *The Other Side of the Looking Glass* | Debut work | [Amazon](https://amzn.to/4o9dFDz) |
 | 2003 | *Muted* | Suppressed sound world | [Amazon](https://amzn.to/4mPkFUO) |
 | 2008 | *Resurgam* | Post-rock | [Amazon](https://amzn.to/3Wsfz65) |

@@ -76,9 +76,9 @@ However, there is a strange **"pleasure"** within it.
 It compressed the listener's body and at the same time released it - it was a moment of **fear and euphoria**.
 
 Many DJs drop this track at peak times,
-For a moment, the club floor was engulfed in "violent euphoria."
+The club floor was reportedly engulfed in a moment of "violent euphoria."
 This song is not just a hit,
-It was a symbol of reviving "feelings without emotions" in techno.
+It was a symbol of reviving ""feelings without emotions'' in techno.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KL_Bbyi3ub8?si=vD2bUJQWTkle-n9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -271,7 +271,7 @@ flowchart TD
 
 ### Final Chapter: Prayer of Steel—Dancing is survival
 
-Blawan's sound is sometimes cold and sometimes rough.
+Blawan's sound is sometimes cold and sometimes harsh.
 However, deep within, there is certainly a ""human prayer.''
 The act of dancing is a ritual for "surviving" in the noise of the city.
 "Why They Hide Their Bodies Under My Garage." still attracts people because

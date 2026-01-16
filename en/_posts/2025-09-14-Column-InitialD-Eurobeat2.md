@@ -25,13 +25,13 @@ Text: mmr｜Theme: "After" Eurobeat spreads from Initial D
 
 ### Eurobeat's "exit" and "return"
 ""Initial D" was a definitive work that strongly imprinted Eurobeat on Japanese youth, and at the same time was an ""outlet" for that music to be recirculated to the Internet generation.
-In the late 2000s, when Napster and YouTube became popular, anime clippings and fan-edited ""Eurobeat Drift Compilations" exploded. For young people in Europe and America, ""Initial D" became the ""entrance'' to Eurobeat, and conversely, music imported from Japan returned to the world, creating a double cycle.
+In the late 2000s, as Napster and YouTube became popular, anime clippings and fan-edited ""Eurobeat Drift Compilations" exploded in popularity. For young people in Europe and America, ""Initial D" became the ""entrance'' to Eurobeat, and conversely, music imported from Japan returned to the world, creating a double cycle.
 
 ### From the mountain pass to simulation —— Riders in the digital space
 The mountain pass depicted in "Initial D" is a real mountain pass in Gunma, but since the 2000s, Eurobeat has been connected to a gaming culture that can be called a "digital mountain pass."
 Eurobeat naturally flowed into arcade games such as ""Initial D Arcade Stage" and ""Wangan Midnight," as well as the home game ""Gran Turismo'' and online racing communities. The high-speed beat is not just background music that moves the car, but a catalyst that enhances the "virtual sense of acceleration" in the digital world.
 
-### Acceleration of Internet culture and memes
+### Acceleration of internet culture and memes
 From the late 2000s to the 2010s, Eurobeat was absorbed into Internet meme culture with songs like "Deja Vu" and "Running in the 90s."
 Amidst the trend of short-form videos, from YouTube Poop to MAD videos to TikTok, Eurobeat has transformed into a strange entity that is both a gag and a serious one.
 This sense of speed and humor coexist functions as a ""rhythm of laughter that can be understood intuitively'' even for a generation that no longer knows Touge or anime.
@@ -42,7 +42,7 @@ Here, it functions not just as background music, but as a symbol to share the ""
 
 ### To the generation that inherits the "memory of acceleration"
 Today, many of the young people who click on the "Eurobeat – Initial D" playlist on Spotify or Apple Music have not necessarily run on mountain passes.
-But they're accelerating in their headphones, drifting in virtual space, laughing on the internet and surrendering to the same sounds.
+But they're accelerating in their headphones, drifting in virtual space, laughing on the internet and surrendering their bodies to the same sounds.
 Eurobeat has become a medium that transcends physical speed and updates the ""memory of acceleration'' with each generation.
 
 ### List of representative Eurobeat songs (Initial D related)
@@ -69,7 +69,7 @@ color: #fff;
 | Night of Fire | Niko | A classic that connects the flip-flop generation and the anime generation |
 | Space Boy | Dave Rodgers | Popular for its fast pace and strong melody |
 | Dancing | Vicky Vale | Used impressively in the early race scene |
-| Beat of the Rising Sun | Dave Rodgers | Exhilaration and dramatic development |
+| Beat of the Rising Sun | Dave Rodgers | Exhilaration and dramatic developments |
 | No One Sleep in Tokyo | Edo Boys | Tokyo sound image and sense of speed |
 | Speedy Speed ​​Boy | Marko Polo | Title and rhythm that embody the sense of speed |
 | Remember Me | Leslie Parrish | A melodic, emotional and popular song |

@@ -87,7 +87,7 @@ Many composers maintain a clear tonal center, but do not assume a functional har
 
 This harmonic processing is not a reproduction of 19th century Romanticism, but can be understood as a choice to ensure acoustic stability.
 
-### Sound design
+### Tone design
 
 In neo-minimalism, timbre is as important a component as melody and harmony, or even more so. Felt pianos, prepared pianos, string instruments with muted instruments, and electronically processed reverberations are used, and the duration and decay of the resonance itself forms the form.
 

@@ -85,7 +85,7 @@ The music used in science fiction movies has the following characteristic approa
 * The silence of space and the presence of the unknown.
 * Example: Silent space + classical music from ""2001: A Space Odyssey.''
 
-4. **Fusion of orchestra and electronic sounds**
+4. **Fusion of orchestra and electronic sound**
 
 * Both grandeur and futuristic feel.
 * Examples: ""Star Wars" and ""Interstellar."
@@ -147,8 +147,8 @@ A3. Currently, AI composition tools are being used to create sci-fi movie traile
 ## summary
 
 * Science fiction movies and music are inseparable because they create a sense of the future and another world.
-* It has been expressed in a variety of ways, including electronic sounds, synthesizers, orchestras, and ambient.
-* Throughout history, it can be said that the relationship between humans and technology has been visualized through sound.
+* It has been expressed in a variety of ways, including electronic sounds, synthesizers, orchestra, and ambient.
+* Throughout history, it can be said that the **relationship between humans and technology** has been visualized through sound.
 
 > Future science fiction film music will open up a new world through collaboration between AI and human composers.
 

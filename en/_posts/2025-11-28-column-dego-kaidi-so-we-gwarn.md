@@ -76,7 +76,7 @@ Kaidi Tatham is a multi-instrumentalist, producer, and composer who is well vers
 
 ## Broken Beat scene and 2000Black
 
-Broken Beat is a product of the club culture that developed around West London. IG Culture, Bugz in the Attic, Neon Phusion, Afronaught, and others pioneered the scene, and by freely combining elements of jazz, soul, funk, Latin, hip-hop, and house, they established a unique position as club music for adults.
+Broken Beat is a product of the club culture that developed around West London. Pioneers such as IG Culture, Bugz in the Attic, Neon Phusion, and Afronaught formed the scene, and by freely combining elements of jazz, soul, funk, Latin, hip-hop, and house, they established a unique position as club music for adults.
 
 <div class="mermaid">
 flowchart LR
@@ -89,7 +89,7 @@ flowchart LR
 
 ---
 
-2000Black played a central role in this trend. Dego's run of the label spawned many Broken Beat artists and releases, making it a cultural hub for UK black music. The collaboration between Kaidi and Dego was also nurtured in this environment, producing numerous club hits and studio releases.
+2000Black played a central role in this trend. Dego's run of the label spawned many Broken Beat artists and releases, making it a cultural hub for UK black music. The collaboration between Kaidi and Dego was also fostered in this environment, producing numerous club hits and studio releases.
 
 ---
 

@@ -150,7 +150,7 @@ In the 2020s, he continues to update his theory of degeneration to include NFTs 
 
 ---
 
-## Chapter 9: DEVO's trajectory in chronology
+## Chapter 9: DEVO's trajectory as seen in the chronology
 
 <div class="mermaid">
 
@@ -175,7 +175,7 @@ timeline
 ## Chapter 10: Today's Significance of Energy Dome
 
 The Energy Dome is still loved by DEVO fans as a "helmet of thought."
-During the coronavirus pandemic, **Energy dome with face shield** is sold,
+During the coronavirus pandemic, **Energy domes with face shields** are sold,
 It has once again attracted attention as a warning about environmental issues.
 
 In other words, the **Energy Dome is a social device that ""transforms'' with each era**.

@@ -75,7 +75,7 @@ Particularly in improvisational performances, intervals that were treated as "ex
 
 ### 3-1 Background and positioning
 
-Joe Maneri is a person who developed his own microtonal theory while active as a saxophonist and clarinetist. Although he was based on 24-equal temperament, he also emphasized the sense of just intonation, and was an educator who closely linked theory and practice.
+Joe Maneri is a person who developed his own microtonal theory while active as a saxophonist and clarinet player. Although he was based on 24-equal temperament, he also emphasized the sense of just intonation, and was an educator who closely linked theory and practice.
 
 ### 3-2 Structure of microtonal theory
 
@@ -117,7 +117,7 @@ His students are developing Maneri's methodology and applying it to larger ensem
 
 ### 4-1 Polyphonic/polytonal thinking
 
-Jacob Collier, known for his complex harmonic structures and polyphonic approach, deals with microtones as part of his theoretical explorations. In his case, microtonality is introduced as an extension of harmonic necessity rather than an avant-garde experiment.
+Jacob Collier, known for his complex harmonic structures and polyphonic approach, deals with microtones as part of his theoretical explorations. In his case, microtonality is introduced as an extension of harmonic necessity rather than as an avant-garde experiment.
 
 ### 4-2 Microtonal Harmony
 
@@ -141,7 +141,7 @@ In Collier's approach, individual voices may have different tonal assumptions. A
 
 ---
 
-## Chapter 5: Microtone use in improvisation
+## Chapter 5: Microtone operation in improvisation
 
 ### 5-1 Phrase construction
 
@@ -149,7 +149,7 @@ In microtonal jazz improvisation, the direction of pitch transition is more impo
 
 ### 5-2 Relationship with rhythm
 
-As the intervals are subdivided, the role of rhythm also changes. A method of presenting minute pitch differences using long note values, and a method of increasing pitch density by creating a series of short note values ​​are used in combination.
+By subdividing the pitch, the role of rhythm also changes. A method of presenting minute pitch differences using long note values, and a method of increasing pitch density by creating a series of short note values ​​are used in combination.
 
 ### 5-3 Deepening acoustic analysis
 

@@ -58,7 +58,7 @@ The beat is based on garage-derived **2-step**, but it also includes certain flu
 - Bass drum ranges from **110 to 130 BPM** instead of around 140
 - Snare has a weak attack tone without emphasizing the backbeat
 - Hats are often made from processed field recordings rather than metal.
-- In addition to drum machines, you can use short samples such as the sound of small objects hitting, the sound of paper scraping, etc.
+- Use short samples not only of drum machines, but also of small objects hitting sounds, paper scraping sounds, etc.
 
 ### 1-3 Acoustic space: reverberation, particleization, field recording
 Post-dubstep can be described as a ""genre that creates space.'' In particular, the following elements are distinctive.
@@ -101,9 +101,9 @@ Through these methods, Burial's songs reconstructed "memories of the city outsid
 
 James Blake is unique in taking post-dubstep out of the context of club culture and combining it with singer-songwriter expression.
 
-### Acoustic features
+### Acoustic characteristics
 - Extreme minimalism centered around piano and vocals
-- The bass is minimal and smoothly arranged around 50-70Hz.
+- The bass is minimal and smoothly arranged around 50 to 70Hz.
 - The chord progression has a classical harmonic feel.
 - Suppress formant manipulation and blur the boundary between natural sounds and electronic sounds
 - Depending on the depth of compression, "breathing" functions as the rhythm of the song

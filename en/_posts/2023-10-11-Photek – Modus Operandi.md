@@ -12,7 +12,7 @@ title: Photek – Modus Operandi
 ---
 
 
-Rupert Parkes, better known as Photek, is a Los Angeles-based British electronic music DJ, record producer, and television and film composer.
+Rupert Parkes, better known as Photek, is a British electronic music DJ, record producer, and television and film composer based in Los Angeles.
 
 Photek received three consecutive Grammy nominations in the Best Remix Recording, Non-Classical category, for Daft Punk"s "End of Line" on the soundtrack of the film Tron: Legacy in 2012, and for Moby"s "Lie Down in Darkness" in 2012.
 

@@ -191,7 +191,7 @@ Jamal's signature style, the aesthetics of tranquility, has been passed down to 
 - Brad Mehldau
 -Vijay Iyer et al.
 
-Particularly in contemporary jazz, **performances that make use of minimal structures and blank space** have become widely accepted, and Jamal is credited with laying the foundation for this.
+Particularly in contemporary jazz, **performances that make use of minimalist structures and blank space** have become widely accepted, and Jamal is credited with laying the foundation for this.
 
 ### 5. Late evaluation and activities in later years
 Since the 2000s, Jamal has developed activities with the following characteristics:

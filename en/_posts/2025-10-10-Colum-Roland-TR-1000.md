@@ -41,7 +41,7 @@ color: #fff;
 #### ── The incident of the appearance of TR-1000
 
 The **TR-1000** released by Roland in 2025 is not just an extension of the series.
-808, 909, 707... This machine that appeared at the end of history, where they symbolized the groove of the times, is an "intellectual rhythm machine" that learns and reinterprets "human beats."
+808, 909, 707... This machine that appeared at the end of history, where they symbolized the groove of the times, is an ""intellectual rhythm machine" that learns and reinterprets ""human sense of beat."
 
 In the 1980s, electronic rhythms were called the "mechanical heartbeat." However, what the TR-1000 presents is the opposite -- **"a machine understands the human heartbeat"**.
 Digital and analog, AI and emotions. On this border lies the philosophy that Roland has spent half a century cultivating.
@@ -77,7 +77,7 @@ Responsiveness as if the rhythm was "breathing". This is why Roland is so partic
 
 ---
 
-### Chapter 4 Acoustic Structure: Evolution of Low Range and Rhythm Texture
+### Chapter 4 Acoustic structure: Evolution of low frequencies and rhythmic texture
 #### ── To overcome the "ghost of the 808 kick"
 
 At the heart of the TR-1000 is a low-end design philosophy.

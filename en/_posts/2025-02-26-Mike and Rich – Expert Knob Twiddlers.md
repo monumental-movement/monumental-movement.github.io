@@ -20,7 +20,7 @@ The song was created over a few days during the 1994 World Cup and is said to ha
 
 Described by Paradinas as "an updated version of easy listening and funk," melodies reminiscent of 70s lounge music and elevator music are fused with distorted beats and the whimsical tones of analog synths.
 
-These tracks are the result of a combination of Aphex Twin"s unpredictable experimentalism and µ-Ziq"s melodic structure, creating a sonic adventure that goes beyond mere "written music".
+These tracks are the result of a fusion of Aphex Twin"s unpredictable experimentalism and µ-Ziq"s melodic structure, creating a sonic adventure that goes beyond mere "written music".
 
 #### Tracklist
 ```md

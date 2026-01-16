@@ -40,7 +40,7 @@ color: #fff;
 </style>
 
 
-## Chapter 1: The origins of 8-bit - Famicom and Game Boy sound source chips
+## Chapter 1: Origin of 8-bit - Famicom and Game Boy sound source chip
 
 ### 1-1. "Ricoh 2A03" that determined the sound of Famicom/NES
 
@@ -107,7 +107,7 @@ The Game Boy's WAVE channel allows you to create arbitrary waveforms rather than
 
 ---
 
-## Chapter 3: Tracker culture and Chiptune production - LSDj / Nanoloop / Famitracker
+## Chapter 3: Tracker culture and Chipune production - LSDj / Nanoloop / Famitracker
 
 ### 3-1. What is Tracker?
 
@@ -249,7 +249,7 @@ It is considered not just a musical genre, but a comprehensive form of expressio
 ## Chapter 10: The future of Chiptune and the future of 8-bit aesthetics
 
 8-bit music is no longer a symbol of retro;
-**An existence that gives new ideas to the modern era as a "cluster of constrained aesthetics"**
+**An entity that gives new ideas to the modern era as a "cluster of constrained aesthetics"**
 It has become.
 
 - Use in Hyperpop and EDM

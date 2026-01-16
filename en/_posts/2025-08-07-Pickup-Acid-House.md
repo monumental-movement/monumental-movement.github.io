@@ -177,7 +177,7 @@ B2. 900lb Man (Original Mix)
 #### Aquasky – Tranquility / Kauna
 <a href="https://jp.mercari.com/item/m94343829211?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Tranquility%20Kauna.webp"></a>
 
-A unique piece that injects acid elements into drum"n"bass. A feeling of running and a feeling of tripping are both at the same time.
+A unique piece that injects acid elements into drum"n"bass. A sense of speed and a sense of trip are both present.
 
 #### Tracklist
 ```md

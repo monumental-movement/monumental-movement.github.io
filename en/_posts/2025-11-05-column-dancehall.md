@@ -78,7 +78,7 @@ King Tubby, Lee Perry, Errol Thompson and others used the mixing table like a mu
 
 ### ▪ Speaker bass philosophy
 
-The "bass" of the sound system had a religious overtone.
+The "bass" of the sound system had a religious sound.
 Connected with the Rastafarian spirit, they express their view of the universe as ""low tone = earth" and ""treble tone = heaven".
 This idea was later inherited by **UK dub** (Jah Shaka, Aba Shanti-I) and **soundclash culture**.
 
@@ -155,7 +155,7 @@ Main Japanese players:
 ### ▪ DIY spirit and modern inheritance
 
 In recent years, it has intersected with dubstep/techno.
-**Tokyo Dub Attack**, **Zettai-Mu (Osaka)**, **Mura Masa System (Okinawa)** are currently active.
+**Tokyo Dub Attack**, **Zettai-Mu (Osaka)**, **Mura Masa System (Okinawa)** and others are currently active.
 At the root of this is the sound system philosophy of ""producing our own sounds with our own hands.''
 
 ---

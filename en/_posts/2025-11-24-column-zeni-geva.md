@@ -92,7 +92,7 @@ During this period, Zeni Geva's songs became longer and more structured, includi
 
 ### "10,000 Light Years (2001)"
 - Increased electronic textures
-- Noise/metallic guitar/unusual time signature/electronic sounds intertwine in multiple layers
+- Multi-layered combination of noise/metallic guitar/unusual time signature/electronic sounds
 - Zeni Geva as a sound sculpture, different from the 1980s-90s period
 
 The band reached musical maturity during this period, but at the same time, Null's solo activities and other projects increased, and the time between releases as a band became longer.

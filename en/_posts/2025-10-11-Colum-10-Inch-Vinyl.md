@@ -56,7 +56,7 @@ Furthermore, the small board surface reduces internal distortion, making the ris
 
 ---
 
-### 1950s 10-inch Golden Age: The Experimental Ground for Jazz and Classical Music
+### 1950s 10-inch Golden Age: Experimental Ground for Jazz and Classical Music
 
 The 10-inch was at its peak during the dawn of jazz in the early 1950s.
 Labels like Blue Note, Prestige, and Clef confined artists' experimentation to the 10-inch format.
@@ -110,13 +110,13 @@ It is a music experience that is conscious of the end, unlike a playlist that fl
 
 ---
 
-### Final Chapter: Time in the palm of your hand, 10-inch speaks about the "density of sound"
+### Final chapter: Time in the palm of your hand, the 10-inch ""density of sound''
 
 10 inches is incomplete yet complete.
 It's not a long story or a short story, but a "short story" format.
 Music in the palm of your hand. However, its density is not inferior to 12 inches.
 
-A format is not just a container, it is an idea.
+A format is not just a container, but an idea.
 Re-evaluating the 10-inch is an act of reconsidering the way music is listened to.
 
 There is always a ""middle'' between technologies.

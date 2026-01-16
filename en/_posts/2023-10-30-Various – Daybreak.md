@@ -12,7 +12,7 @@ title: Various – Daybreak
 ---
 
 
-"Daybreak" is a release from Break It Or Leave It (the breakbeat division of Wally's Groove World, founded in 1997 by DJ Koenie).
+"Daybreak" is a release from Break It Or Leave It (the breakbeat arm of Wally's Groove World, founded in 1997 by DJ Koenie).
 
 A4's DVL (Davy Van Laere) is also famous for his project After Hours with DJ AME. DVL is currently the most popular skateboard photographer.
 

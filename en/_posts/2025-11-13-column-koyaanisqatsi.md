@@ -185,7 +185,7 @@ With the trilogy as a whole, Reggio and Glass can be said to have reconstructed 
 
 ---
 
-## Final chapter: Toward rebirth in silence
+## Final chapter: Towards rebirth in silence
 
 At the end of "Koyanisqatsi", the remains of a rocket that failed to launch,
 It slowly falls to the ground.

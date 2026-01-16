@@ -50,7 +50,7 @@ color: #fff;
 | Album | Artist | Amazon link | Recommended points |
 |----------|-------------|-------------|----------------|
 | *Rhyme Pays* (1987) | Ice‑T | [Amazon](https://amzn.to/46NqVaQ) | An important work that laid the foundation for gangsta rap |
-| *Straight Outta Compton* (1988) | N.W.A | [Amazon](https://amzn.to/4neTnsc) | A controversial work that shook society. West Coast Icon |
+| *Straight Outta Compton* (1988) | N.W.A | [Amazon](https://amzn.to/4neTnsc) | A controversial work that shook society. Icon of the West Coast |
 | *On the Nile* (1984) | The Egyptian Lover | [Amazon](https://amzn.to/3VsfDCE) | An outstanding fusion of electro and rap |
 
 ---
@@ -59,7 +59,7 @@ color: #fff;
 
 * **Representative producers**: Dr. Dre, DJ Quik, Battlecat
 * **Major labels**: Death Row Records, Priority, Ruthless
-* **Cultural background**: G-Funk was closely associated with lowrider and car culture, with its 70s funk sampling and thick synth bass.
+* **Cultural context**: G-Funk was closely associated with lowrider and car culture, with its 70s funk sampling and thick synth bass.
 * **East-West Conflict**: The conflict between East Coast and West Coast intensifies, leading to the tragedy of 2Pac and The Notorious B.I.G.
 * **Video/Fashion**: MVs featuring lowriders, beaches, and the streets of South Central are becoming popular. Dickies, Chuck Taylor, and bandanas are iconic.
 
@@ -78,7 +78,7 @@ color: #fff;
 
 * **Representative producers**: Madlib, Daz Dillinger, Battlecat
 * **Major labels**: Stones Throw, Aftermath
-* **Cultural Background**: Mainstream G‑Funk is weakening, and LA underground bands such as Project Blowed and Freestyle Fellowship are gaining attention. The Bay Area Hyphy movement also occurred.
+* **Cultural Background**: Mainstream G‑Funk is weakening, and LA underground bands like Project Blowed and Freestyle Fellowship are gaining attention. The Bay Area Hyphy movement also occurred.
 * **Video/Fashion**: Skate, graffiti, and jazz club-like visual expressions are increasing, and street brands such as Supreme and BAPE are becoming popular.
 
 **Recommended album (excerpt)**
@@ -163,7 +163,7 @@ Below is a Mermaid format horizontal and vertical table that can be embedded in 
 flowchart TD
   style A fill:#0b1221,stroke:#ffffff,stroke-width:1px
   A["1970s–1980s\nKangol, Adidas, local sneakers"] --> B["1990s\nDickies, Chuck Taylor, bandanas, and lowrider culture"]
-  B --> C["2000s\nSupreme, Stüssy, BAPE, skate street brands"]
+  B --> C["2000s\nSupreme, Stüssy, BAPE, skate/street brands"]
   C --> D["2010s–current\nHigh brands x streetwear (Gucci, Off-White), genderless dressing"]
 
   classDef decades fill:#071428,color:#e6eef8
@@ -179,13 +179,13 @@ Low-budget music videos, unique fashion styles, and ties to lowrider culture cre
 
 Since the 2000s, diversity has expanded with the success of independent underground acts such as Madlib and The Game. In addition, Kendrick Lamar and other artists with global influence who make full use of SNS and the Internet have appeared, and their songs and visual expressions containing conscious messages are forming a new trend in West Coast hip-hop.
 
-More than just a music genre, hip-hop from this region continues to influence social messages, fashion, film, and culture as a whole, and continues to inspire artists and fans around the world.
+More than just a music genre, the region's hip-hop continues to influence social messages, fashion, film, and culture as a whole, and continues to inspire artists and fans around the world.
 
 
 ---
 
 ### Related columns
 
-🔗 [[Column] East Coast Hip Hop History — From the Bronx to Brooklyn and the World"](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)
+🔗 [[Column] East Coast Hip Hop Overview — From the Bronx to Brooklyn and the World"](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)
 
 🔗 [[Column] History of US Hip Hop: Overall picture including regions, clubs, media, and equipment](https://monumental-movement.jp/Column-Hiphop-History)

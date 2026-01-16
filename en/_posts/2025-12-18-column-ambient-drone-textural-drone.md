@@ -123,7 +123,7 @@ flowchart TB
 
 ### 5-2. Dynamics control
 
-Sudden volume changes are avoided and fine amplitude fluctuations are used. This design allows the music to function as an environment rather than an event.
+Sudden changes in volume are avoided and fine amplitude fluctuations are used. This design allows the music to function as an environment rather than an event.
 
 ### 5-3. Spatial processing
 

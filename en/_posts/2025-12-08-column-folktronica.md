@@ -22,7 +22,7 @@ Text: mmr｜Theme: About the history, techniques, influences, equipment, and mus
 Folk-Tronica/Indietronica is a hybrid musical trend of the 21st century and beyond, where the simple sounds of acoustic instruments intersect with the textures of electronic sounds.
 It was born from the marriage of folk melodies, guitar arpeggios, field recordings of natural sounds, and laptop electronica sampling culture.
 
-Some of the artists who clearly presented this genre to the world include **Four Tet (Kieran Hebden)**, **Caribou (Daniel Snaith)**, and **Bonobo (Simon Green)**.
+Four Tet (Kieran Hebden), Caribou (Daniel Snaith), and Bonobo (Simon Green) are among those who clearly presented this genre to the world.
 Although they all have a background in electronic music, they have expanded the context of electronica since the 2000s by sampling and reconstructing a variety of music such as jazz, folk, ethnic music, and post-rock.
 
 ---
@@ -52,11 +52,11 @@ Main features:
 - Digital editing (cut-up, granular processing)
 - Field recording texture
 - Simple but emotional melody
-- Coexistence of "touch" and "artificial object"
+- Coexistence of "touch" and "artificial objects"
 
 ### ■ What is Indietronica?
 The flow of introducing electronic music into the context of indie rock.
-While Folk-Tronica was based on folk elements, Indietronica has a strong focus on **band sound + electronics**.
+While Folk-Tronica was based on folk elements, Indietronica has a strong direction of **band sound + electronics**.
 
 Examples: The Postal Service, Hot Chip, Múm, etc.
 

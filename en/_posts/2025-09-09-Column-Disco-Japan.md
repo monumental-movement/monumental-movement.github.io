@@ -176,7 +176,7 @@ Moved from "Juliana Tokyo" to Shibuya Club Culture. The disco generation evolved
 
 ## 2000s — The rise of Nu-Disco and club restructuring
 - **Background**
-"Nu-Disco" and electroclash are popular worldwide. The disco revival is progressing in Japan as well, and the band is once again in the spotlight in the club scene.
+"Nu-Disco" and electroclash are popular worldwide. The disco revival is progressing in Japan, and the club scene is once again in the spotlight.
 
 - **Representative masterpieces (overseas)**
 - Daft Punk — *Discovery* (2001)
@@ -301,7 +301,7 @@ City pop/disco is spreading on TikTok and YouTube. Analog disco events are once 
 | Levitating | Dua Lipa | Popular on TikTok |
 | Say So | Doja Cat | Very popular in Japan |
 | Disco | Kylie Minogue | Modern disco as the title suggests |
-| Rain on Me | Lady Gaga & Ariana Grande | Dance-pop revival |
+| Rain on Me | Lady Gaga & Ariana Grande | Dance-pop comeback |
 | Funk to the Future | Night Tempo | Future Funk interpretation from Japan |
 | Leave the Door Open | Silk Sonic | Soul x Disco fusion |
 | Break My Soul | Beyoncé | House and disco fusion |

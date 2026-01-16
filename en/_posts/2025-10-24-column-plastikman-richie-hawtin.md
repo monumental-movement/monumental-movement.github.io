@@ -18,7 +18,7 @@ title: '[Column] Plastikman | Richie Hawtin - The depths of minimalism and the s
 
 Text: mmr｜Theme: Thoughts on how Plastikman, who inherited the spirit of the second generation of Detroit techno, stripped down the sound to the utmost limit and sublimated it into an art that allows you to hear the "reverberation" of rhythm itself.
 
-Richie Hawtin has been redefining "techno" since the early 1990s, not just as dance music, but as a "sound meditation device." His works under the name Plastikman, particularly ""_Sheet One_" (1993) and ""_Consumed_" (1998), are **an experiment in visualizing the internal space of the human body using electronic sound.** The sound, which resembles cold liquid, is also called ""abstract sculpture of sound.''
+Richie Hawtin has been redefining "techno" since the early 1990s, not just as dance music, but as a "sound meditation device." His works under the name Plastikman, particularly ""_Sheet One_" (1993) and ""_Consumed_" (1998), are **experiments in visualizing the internal space of the human body with electronic sound**, and the sound, which resembles cold liquid, is also called ""abstract sculpture of sound.''
 
 
 
@@ -41,7 +41,7 @@ color: #fff;
 ## Chapter 1: Echoes of Detroit, Solitude of Windsor
 Richie Hawtin was born in Banbury, England in 1970 and moved to Windsor, Canada as a child. From this city across the Detroit River, he could see the early days of Detroit techno at the underground clubs Music Institute and The Shelter.
 
-Hawtin was influenced by the **spirit that resides in the mechanical rhythms** of Juan Atkins and Derrick May, and reconstructed this from a perspective of calm structural beauty. There is always a paradox in his music: **heat through distance**. Cities and suburbs, black and white culture, emotion and geometry. Plastikman was ""music in the middle area'' that was formed in between.
+Hawtin was influenced by the **spirit that resides in the mechanical rhythms** of Juan Atkins and Derrick May, and reconstructed it from a perspective of calm structural beauty. There is always a paradox in his music: **heat through distance**. Cities and suburbs, black and white culture, emotion and geometry. Plastikman was ""music in the middle area'' that was formed in between.
 
 ---
 
@@ -82,7 +82,7 @@ An album released by Richie Hawtin under the alias Plastikman on the NovaMute la
 
 ## Chapter 3: "Consumed" – The aesthetics of "silence"
 1998's _Consumed_ is an outlier in the history of techno. The BPM is slow and the rhythm is no longer a drum, but a low frequency sound like breathing.
-This work, which seems to be floating in a zero-gravity space, inherits the lineage of Brian Eno's ambient music, but also opens up the realm of ""inner sculpture using electronic sounds.''
+This work, which seems to float in a zero-gravity space, inherits the lineage of Brian Eno's ambient music, but also opens up the realm of ""inner sculpture using electronic sounds.''
 
 With this work, Hawtin becomes the first artist to equate "minimalism" with "nihility." Plastikman's minimalism was not an omission, but a strategy of silence that highlighted the contours of existence.
 
@@ -90,14 +90,14 @@ With this work, Hawtin becomes the first artist to equate "minimalism" with "nih
 
 ## Chapter 4: Technology and the Body - Rebuilding the LIVE Concept
 Hawtin also pioneered the fusion of technology and performance.
-In the 2000s, he **redefined DJ play** with the DE9 series and established the ""prototype of digital DJ**'', which uses Ableton Live and Traktor to reconstruct tracks in real time.
+In the 2000s, he **redefined DJ play** with the "DE9" series, establishing the ""**prototype of digital DJ**'' that used Ableton Live and Traktor to reconstruct tracks in real time.
 
 On his stage, an environment was constructed in which MacBook, MIDI controller, lighting and video were completely synchronized, presenting a new concept of **""live = breathing data''**.
 
 ---
 
 ## Chapter 5: Playing Plastikman with "EX"
-""_EX_"', which was unveiled at London"s Tate Modern in 2014, was a work that transferred Plastikman's aesthetics to a museum space.
+""_EX_"', which was unveiled at London"s Tate Modern in 2014, was a work that transferred Plastikman's aesthetics to the museum space.
 The stage is shrouded in darkness, and Houtin stands as if imprisoned in a glowing cage. The audience shares the experience of ""observing the structure of sound" rather than ""watching a DJ."
 
 > "Plastikman remains the music of an inward journey."
@@ -241,7 +241,7 @@ graph TD
 ---
 
 
-## Illustration: Plastikman sound structure
+## Illustration: Structure of Plastikman sound
 
 <div class="mermaid">
 
@@ -282,7 +282,7 @@ timeline
 Plastikman is the key to techno going "inside" instead of "outside".
 This was not a dismantling of club music, but a reconstruction of the rhythm that resonates inside the body, and an exploration of the fundamental question of music: ""What does it mean to listen?''
 
-Today, Richie Hawtin continues to turn knobs in silence, saying few words.
+Today, Richie Hawtin continues to turn the knobs in silence, saying few words.
 This is because he knows better than anyone that just one rotation can change the boundary between sound and silence.
 
 

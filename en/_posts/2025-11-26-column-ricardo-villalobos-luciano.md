@@ -71,7 +71,7 @@ One night there were about 300 people on the club floor. Villalobos plays long t
 
 ### Evolution of Alcachofa and Villalobos
 
-In 2003, Villalobos released the album Alcachofa. This work is hailed as a masterpiece that redefines the language of club culture. Throughout the long track, which lasts over 10 minutes, the rhythm changes minutely and the beats intertwine incessantly. The listeners' bodies were naturally immersed in the flow of time, and the floor became a kind of ""ceremonial space.''
+In 2003, Villalobos released the album Alcachofa. This work is hailed as a masterpiece that redefines the language of club culture. In the long track, which lasts over 10 minutes, the rhythm changes minutely and the beats intertwine constantly. The listeners' bodies were naturally immersed in the flow of time, and the floor became a kind of ""ceremonial space.''
 
 Examples of songs included in the album:
 

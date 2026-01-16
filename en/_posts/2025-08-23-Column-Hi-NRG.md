@@ -74,7 +74,7 @@ A UK Hi-NRG singer who was so supported in the club scene that she was called th
 
 **Divine**
 
-While active as a drag queen, she gained worldwide attention with Hi-NRG. They boldly displayed sexual expression and integrated music and gender politics.
+While active as a drag queen, she gained worldwide attention with Hi-NRG. Boldly displaying sexual expression, they integrated music and gender politics.
 
 **Evelyn Thomas**
 A diva who defined the genre with her signature song "High Energy." It was explosively popular in gay clubs and spread Hi-NRG worldwide.
@@ -85,7 +85,7 @@ A diva who defined the genre with her signature song "High Energy." It was explo
 ### Hi-NRG and the HIV/AIDS crisis
 
 In the 1980s, HIV/AIDS struck the LGBTQ community and claimed many lives.
-During this period, Hi-NRG became both an escape to forget one's sorrows and a soundtrack of life and death to commemorate fallen comrades.
+During this period, Hi-NRG became both an escape to forget one's sorrows and a soundtrack of life and death in memory of fallen comrades.
 
 Sylvester himself died of AIDS, but his music continues to be played in clubs today.
 
