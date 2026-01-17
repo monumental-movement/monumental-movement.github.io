@@ -11,7 +11,7 @@ tags:
 - Deep House
 - Ambient
 - 90s
-title: Morenas – Hazme Soñar（特別聲樂混音）
+title: Morenas – Hazme Soñar（特別人聲混音）
 ---
 
 

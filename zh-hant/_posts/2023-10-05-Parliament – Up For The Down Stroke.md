@@ -9,7 +9,7 @@ permalink: /zh-hant/parliament-up-for-the-down-stroke/
 tags:
 - Funk
 - Soul
-title: 議會——向下衝程
+title: 議會 – 向下衝程
 ---
 
 

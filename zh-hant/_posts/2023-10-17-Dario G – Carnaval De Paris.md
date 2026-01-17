@@ -15,7 +15,7 @@ title: 達里奧·G – 巴黎狂歡節
 
 Dario G 是英國 DJ/製作人 Paul Spencer 的舞曲音樂項目。
 
-A面的第二首曲目是由達倫·皮爾斯（Darren Pearce）和朱利安·納波利塔諾（Julian Napolitano）組成的JDS樂隊混音的。 B面是英國DJ/製作人/混音師Tall Paul（Paul Newman，也稱為Camisra）的混音。
+A面的第二首曲目是JDS的混音版，JDS是由Darren Pearce和Julian Napolitano組成的組合。 B面是英國DJ/製作人/混音師Tall Paul（Paul Newman，也稱為Camisra）的混音。
 
 #### 曲目列表
 ```md

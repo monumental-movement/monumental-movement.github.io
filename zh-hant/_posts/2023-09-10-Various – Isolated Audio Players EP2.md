@@ -27,7 +27,7 @@ Deep House 的 Takayuki Shiraishi 創作了《Flicker》。這首歌也是由 DJ
 
 此外，JIN HIYAMA的《Tennis》以獨特質感的電音碎拍，以其粗獷的聲音和激動人心的節拍而吸引人。
 
-最後，收錄了為日本地下音樂做出貢獻的重要廠牌SOUND-CHANNEL的核心人物DOL-LOP的《Storm》。這首歌以獨特而酷的碎拍為特色，賦予其獨特的日本感覺。
+最後，收錄了為日本地下音樂做出貢獻的重要廠牌SOUND-CHANNEL的核心人物DOL-LOP的《Storm》。這首歌以獨特而酷的碎拍為特色，賦予其明顯的日本原創性。
 
 這張EP被譽為日本樂壇的重要作品之一。您將能夠享受到當時地下音樂的精髓。
 

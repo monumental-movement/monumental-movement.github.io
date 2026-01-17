@@ -18,9 +18,9 @@ Baby Blue 是英國舞曲二人組，由達倫·斯托克斯 (Darren Stokes) 和
 
 還以另一個名字“Tin Tin Out”活躍。
 
-B面的第一首歌曲是 Trevor Rockcliffe 的混音版，他活躍於 Love Parade、Dance Planet、Tribal Gathering 等音樂節以及世界著名的俱樂部。
+B 面的第一首歌曲是 Trevor Rockcliffe 的混音版，他活躍於 Love Parade、Dance Planet、Tribal Gathering 等音樂節以及世界著名的俱樂部。
 
-B面的第二首歌是戴夫·奧德(Dave Aude)的混音版，他曾對酷玩樂隊、凱蒂·佩里、蕾哈娜、Lady Gaga、Pet Shop Boys和碧昂絲等藝術家進行混音，並因對馬克·朗森與布魯諾·馬爾斯合作的《Uptown Funk》的混音獲得了2016年格萊美非古典類最佳混音唱片獎。
+B面的第二首歌是戴夫·奧德（Dave Aude）的混音版，他曾混音過酷玩樂隊、凱蒂·佩里、蕾哈娜、Lady Gaga、Pet Shop Boys、碧昂絲等樂隊，並因與布魯諾·馬爾斯合作的馬克·朗森（Mark Ronson）的《Uptown Funk》混音版而獲得了2016年格萊美非古典類最佳混音唱片獎。
 
 #### 曲目列表
 ```md

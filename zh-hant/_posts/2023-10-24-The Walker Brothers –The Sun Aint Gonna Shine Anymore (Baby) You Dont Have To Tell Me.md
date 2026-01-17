@@ -15,7 +15,7 @@ title: 沃克兄弟 - The Sun Ain't Gonna Shine Anymore (Baby) You Don't Have To
 ---
 
 
-沃克兄弟 (Walker Brothers) 是 20 世紀 60 年代在洛杉磯成立的聲樂團體。
+沃克兄弟 (The Walker Brothers) 是 20 世紀 60 年代在洛杉磯成立的聲樂團體。
 
 #### 曲目列表
 ```md

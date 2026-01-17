@@ -71,7 +71,7 @@ title: '[專欄]什麼是氛圍音樂？ “存在的聲音”而不是聽到的
 
 [Klaus Schulze](https://amzn.to/4pCnE5H)、[Tangerine Dream](https://monumental-movement.jp/Tangerine-Dream-Thief)：與德國電子產品的融合。
 
-[The Orb](https://amzn.to/4pA2F3v)、[Aphex Twin](https://amzn.to/46GS9Ps)：從技術到 IDM 角度重建環境。
+[The Orb](https://amzn.to/4pA2F3v)、[Aphex Twin](https://amzn.to/46GS9Ps)：從技術到 IDM 的角度重建環境。
 
 Ambient House/Ambient Techno 的興起。
 
@@ -151,7 +151,7 @@ Spotify 的“chill”和“lo-fi”播放列表也受到影響。
 
 **●環境工業**
 
-將工廠聲音和機器噪音音樂化。
+工廠聲音和機器噪音的音樂。
 
 **藝術家**：[有傷口的護士](https://amzn.to/46QgJyk)、[線圈](https://amzn.to/48sI7nd)
 

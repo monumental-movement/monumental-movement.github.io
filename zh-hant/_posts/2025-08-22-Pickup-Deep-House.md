@@ -48,7 +48,7 @@ B2. Sascha Dive –Untitled
 
 簡介： Paul Johnston (Peej) 於 2005 年在英國 house 音樂廠牌 Strictly 4 Groovers 的後繼者 DiY Discs 上發行了一首深浩室音樂。 A麵包括多種混音，例如“Cosmic Love (Interstellar Overdrive Mix)”。
 
-推薦要點： 柔和地包裹住聽者的深邃音色，融合美妙的音響效果，給您帶來深邃空間和低保真節拍的感覺。
+推薦要點：深邃的浩室，溫柔地包裹著聽者，將低保真節拍與夢幻般的聲音相結合，讓您感覺像深空一樣。
 
 #### 曲目列表
 ```md

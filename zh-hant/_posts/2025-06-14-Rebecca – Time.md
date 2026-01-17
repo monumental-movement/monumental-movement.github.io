@@ -16,7 +16,7 @@ title: 麗貝卡——時間
 ---
 
 
-「時間」は、reーベルFITZBEAT（ィッツビート）から 1986年にrikirisuされたRebecca(rebekka)5張目のarubamu。這張專輯的口號是「這不是邏輯……」和「無聊和抽筋是」都扔進垃圾桶了。 ”
+《Time》是 Rebecca 的第五張專輯，於 1986 年由 FITZBEAT 廠牌發行。這張專輯的口號是“這與邏輯無關……”和“無聊和抽筋都被扔進垃圾桶。”
 
 包含熱門歌曲“LONELY BUTTERFLY”和“CHEAP HIPPIES”。
 

@@ -10,7 +10,7 @@ tags:
 - Techno
 - Hardcore Techno
 - 90s
-title: Cubic 22 – Night In Motion
+title: Cubic 22 – 動感之夜
 ---
 
 

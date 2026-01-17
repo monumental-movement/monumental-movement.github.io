@@ -17,7 +17,7 @@ title: Beroshima – 機器舞
 
 Beroshima 是一個由 Frank Muller 於 1994 年創立的德國技術/電子項目。後來烏爾里希·施瑙斯 (Ulrich Schnauss) 加入，但現在是弗蘭克·穆勒 (Frank Muller) 的個人項目。
 
-《Dance The Machine》是一首科技電子歌曲，由 Frank Muller 本人經營的德國廠牌 Beroshima Music 於 2002 年發行。
+《Dance The Machine》是一首科技電子曲目，由 Frank Muller 本人經營的德國廠牌 Beroshima Music 於 2002 年發行。
 
 #### 曲目列表
 ```md

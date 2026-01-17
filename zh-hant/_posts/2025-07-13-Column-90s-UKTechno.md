@@ -189,4 +189,4 @@ Techno從工業的迴響中創造出詩歌，呈現出一種破壞與重建的�
 
 🔗 [[專欄] Luke Slater：英國techno及其音樂世界的先驅](https://monumental-movement.jp/Column-Luke-Slater)
 
-🔗 [[專欄]從techno的起源到現在——通過著名的唱片和設備追溯的年代史](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[專欄]從 techno 的起源到現在 - 通過著名唱片和設備追溯的年代史](https://monumental-movement.jp/Column-Techno-History)

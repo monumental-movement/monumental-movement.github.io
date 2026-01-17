@@ -16,7 +16,7 @@ title: 小克里奧爾語和椰子——我得手了
 
 Kid Creole And The Coconuts 是一個由 August Darnell 與 Andy Hernandez 和 Adriana Kaegi 創立的美國樂隊。他的風格融合了迪斯科、拉丁、加勒比和卡拉威風格元素。
 
-《I Got My Handy On》是一首 House、Euro House 曲目，由德國廠牌 SPV Recordings 於 1997 年發行。
+《I Got My Handy On》是一首 House、Euro House 曲目，由德國唱片公司 SPV Recordings 於 1997 年發行。
 
 #### 曲目列表
 ```md

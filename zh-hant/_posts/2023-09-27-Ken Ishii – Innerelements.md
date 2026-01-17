@@ -15,7 +15,7 @@ title: 石井健 – 《Innerelements》
 
 Ken Ishii 是一位在國內外享有盛譽的日本 techno 音樂家。這張專輯由R&S Records發行，是他的代表作之一。
 
-《Innerelements》發行於1994年，被譽為一首融合了trip-hop和電子樂元素的電子音樂。以環境音景和慢節奏節奏為特色，其創新的方法給許多聽眾留下了深刻的印象。
+《Innerelements》發行於1994年，被稱為一首融合了trip-hop和電子音樂元素的techno音樂。以環境音景和慢節奏節奏為特色，其創新的方法給許多聽眾留下了深刻的印象。
 
 
 #### 曲目列表

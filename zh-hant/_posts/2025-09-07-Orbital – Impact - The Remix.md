@@ -13,7 +13,7 @@ title: 軌道 – 影響 – 混音
 ---
 
 
-這部作品是從 Orbital 最受歡迎的專輯《Orbital 2 (Brown Album)》(1993) 中精選的單曲混音版，該專輯是英國主要的電子/電子音樂巨頭，與 The Chemical Brothers、Underworld、The Prodigy 等一起代表了 90 年代的電子音樂場景。
+這部作品是從 Orbital 最受歡迎的專輯《Orbital 2（Brown Album）》（1993 年）中精選的單曲混音版，該專輯是英國主要的電子/電子音樂巨頭，與 The Chemical Brothers、Underworld、The Prodigy 等代表了 90 年代的電子音樂場景。
 
 A 的《Impact USA》是《Impact (The Earth Is Burning)》的自我混音版。
 

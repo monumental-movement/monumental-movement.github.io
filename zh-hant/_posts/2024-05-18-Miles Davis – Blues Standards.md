@@ -14,11 +14,11 @@ title: 邁爾斯·戴維斯 – 藍調/標準
 ---
 
 
-Miles Davis 於 1988 年發行的四盒合輯之一。磁帶是鍍鉻磁帶。
+邁爾斯·戴維斯 (Miles Davis) 1988 年發行的四盒合輯之一。磁帶是鍍鉻磁帶。
 
 G-1 和 G-5 的鋼琴是 Keith Jarrett。
 
-G-2 和 H-1 的薩克斯管是比爾·埃文斯 (Bill Evans)。
+G-2 和 H-1 的薩克斯管是 Bill Evans。
 
 G-2 和 G-3 的貝斯手是 Darryl Jones。
 

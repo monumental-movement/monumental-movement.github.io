@@ -20,7 +20,7 @@ title: 【專欄】90年代至2000年代日本地下岩石與噪音的軌跡
 文：mmr｜主題：20世紀90年代至2000年代全球關注的日本地下樂壇
 
 20 世紀 90 年代和 2000 年代是**噪音音樂**的鼎盛時期，也是另類搖滾和前衛朋克的十字路口。
-特別是灰野敬二、Merzbow、Hijikaido、Melt-Banana、Boredoms 和 Violent Onsen Geisha 等藝術家破壞了現有的音樂流派，開闢了新的表達領域。
+特別是灰野敬二、Merzbow、Hijikadan、Melt-Banana、Boredoms 和 Violent Onsen Geisha 等藝術家破壞了現有的音樂流派，開闢了新的表達領域。
 
 ---
 

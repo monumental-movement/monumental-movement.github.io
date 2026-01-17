@@ -12,7 +12,7 @@ title: 深水炸彈 – 深水炸彈
 ---
 
 
-Depth Charge 是英國 DJ/音樂家 J.Saul Kane 的別名，他還以其他名字發行過專輯，包括 The Octagon Man、Alexander's Dark Ba​​​​nd、T.E.T 和 Grimm Death。 J Saul Kane 也是 DC Recordings 和 Electron Industries 的所有者。
+Depth Charge 是英國 DJ/音樂家 J.Saul Kane 的化名，他還以各種其他名字發行過專輯，包括 The Octagon Man、Alexander's Dark Ba​​​​nd、T.E.T 和 Grimm Death。 J Saul Kane 也是 DC Recordings 和 Electron Industries 的所有者。
 
 #### 曲目列表
 ```md

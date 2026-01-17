@@ -16,7 +16,7 @@ title: Tecmania Rebel – The Violet E.P.
 
 Tecmania Rebel 是 DJ Patrick，也稱為 Patrick Van Der Hart。他曾是荷蘭鹿特丹著名俱樂部好萊塢音樂廳的駐場嘉賓。
 
-《紫羅蘭 E.P.》是 Planet Dance Records 於 1996 年發行的前衛 house/hard house/techno 曲目。
+《紫羅蘭 E.P.》是 Planet Dance Records 於 1996 年發行的前衛浩室/硬浩室/電子音樂曲目。
 
 #### 曲目列表
 ```md

@@ -9,7 +9,7 @@ permalink: /zh-hant/blackburst-make-make-make/
 tags:
 - House
 - 90s
-title: 黑爆 – Make Make Make
+title: 黑爆——Make Make Make
 ---
 
 

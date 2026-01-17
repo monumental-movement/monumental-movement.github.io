@@ -13,7 +13,7 @@ title: 格蘭特·尼爾森——著迷
 ---
 
 
-Grant Nelson 是一位來自倫敦的製作人、混音師和 DJ，他在 90 年代中期以 Nice 'N' Ripe 廠牌發行了多首俱樂部熱門歌曲，影響了英國車庫音樂界。 20 世紀 90 年代末，他活躍於“2-Step”Garage 圈子，發行了諸如 James Brown 的“Funk On Ah Roll”混音版等歌曲。
+Grant Nelson 是一位來自倫敦的製作人、混音師和 DJ，他在 90 年代中期以 Nice 'N' Ripe 廠牌發行了許多俱樂部熱門歌曲，影響了英國車庫音樂界。 20 世紀 90 年代末，他活躍於“2-Step”Garage 圈子，發行了諸如 James Brown 的“Funk On Ah Roll”混音版等歌曲。
 
 《Spellbound》是 Bas NoirMy 的《Love Is Magic》的混音版，於 1988 年由 Nugrove 廠牌發行。
 

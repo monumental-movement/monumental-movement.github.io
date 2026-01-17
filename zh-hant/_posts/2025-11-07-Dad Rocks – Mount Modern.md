@@ -14,7 +14,7 @@ title: 爸爸搖滾！ – 現代山
 ---
 
 
-爸爸搖滾！是由冰島音樂家 Snaevar Albertsson 於 2010 年創立的一個項目，他因丹麥獨立搖滾樂隊 Mimas 而出名。
+爸爸搖滾！是由冰島音樂家 Snaevar Albertsson 於 2010 年創立的項目，他因丹麥獨立搖滾樂隊 Mimas 而聞名。
 
 《Mount Modern》是Dad Rocks!於2011年發行的首張專輯。
 

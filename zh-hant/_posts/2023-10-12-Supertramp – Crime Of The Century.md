@@ -13,7 +13,7 @@ title: 超級流浪漢——世紀犯罪
 ---
 
 
-Supertramp是一支英國前衛搖滾樂隊。
+Supertramp 是一支英國前衛搖滾樂隊。
 
 1974年發行的《Crime Of The Century》是Supertramp的第三張錄音室專輯，被高度評價為樂隊的代表作之一，尤其是專輯中收錄的《Dreamer》和《Bloody Well Right》更是被人們所熟知為樂隊的招牌歌曲。
 

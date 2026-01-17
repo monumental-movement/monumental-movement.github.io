@@ -34,7 +34,7 @@ title: 【專欄】各代音樂文化與“亡命之徒”的互動史
 
 ---
 
-搖滾樂/rockabilly是白人工人階級青年文化與黑人音樂的跨界融合。皮夾克、蓬巴杜髮型和改裝車成為“反權威”的服裝，油膩派和騎自行車的人的偶像也被確立。
+搖滾樂/rockabilly是白人工人階級青年文化與黑人音樂的跨界融合。皮夾克、蓬巴杜髮型和改裝車成為“反權威”的服裝，而油膩派和騎自行車的人的偶像也被確立。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9KJzeOmHgc4?si=AJx_tAvARl4oGOBG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -97,7 +97,7 @@ Garage/protopunk是一種DIY精神和反商業主義。學校體育館和倉庫�
 
 ### 20 世紀 80 年代：硬核音樂、光頭黨重組和嘻哈音樂的誕生——速度、部落化和敘事武器化
 
-硬核朋克是關於速度、短長度和由瞬時“協議”創造的自由空間（圓形坑、舞台跳水）。另一方面，存在暴力和仇外心理的衝突。
+硬核朋克是關於速度、短長度和由瞬時“協議”創造的地板自主權（圓形坑、舞台跳水）。另一方面，存在暴力和仇外心理的衝突。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5NAPYIMMbWQ?si=STcmncZQCWAsDeLN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -109,13 +109,13 @@ Garage/protopunk是一種DIY精神和反商業主義。學校體育館和倉庫�
 
 ---
 
-嘻哈有街區派對、塗鴉、DJ/MC 等“四大支柱”。許多街區都被幫派暴力所包圍，說唱作為表達城市現實和自我敘述的合法“武器”。
+嘻哈有街區派對、塗鴉、break、DJ/MC“四大支柱”。許多街區都被幫派暴力所包圍，說唱作為表達城市現實和自我敘述的合法“武器”。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KNb9sq-jMNI?si=PcwZilJPYaKNKsqR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-金屬被賦予了“妖魔化”的形象，並引起了對PMRC等自律監管的爭議。根據不同的子類型，它還可能因暴力事件和歧視性言論而引發社會衝突。
+金屬被賦予了“妖魔化”的形象，並引起了諸如PMRC等自律監管的爭議。根據不同的子類型，它還可能因暴力事件和歧視性言論而引發社會衝突。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G3LvhdFEOqs?si=4R5mtsKWW15IxBLC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -128,7 +128,7 @@ Garage/protopunk是一種DIY精神和反商業主義。學校體育館和倉庫�
 
 ### 1990 年代：Rave/Acid House、Grunge、Gangsta Rap - 合法與非法之間的界限談判
 
-Rave/acid house 因倉庫和戶外非法派對以及毒品問題與當局發生爭執。手機和互聯網公告牌的出現加速了“移動黨”的發展。
+Rave/acid house 因倉庫和戶外非法派對以及毒品問題與當局發生爭執。手機和互聯網公告板的出現加速了“移動黨”的發展。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-n8QdTg_z0?si=hCI-xBjaToWttwBq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

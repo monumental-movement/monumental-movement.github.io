@@ -96,7 +96,7 @@ flowchart LR
 
 #### 代表作品
 
-**1990s**: [Blue Lines（1991）](https://amzn.to/4gxB8eR)、[Protection（1994）](https://amzn.to/4pyVUPi)、[Mezzanine（1998）](https://amzn.to/48o9H55)
+**1990 年代**：[藍線 (1991)](https://amzn.to/4gxB8eR)、[保護 (1994)](https://amzn.to/4pyVUPi)、[夾層 (1998)](https://amzn.to/48o9H55)
 
 **2000 年代**：[第 100 個窗口 (2003)](https://amzn.to/46fHFrh)
 

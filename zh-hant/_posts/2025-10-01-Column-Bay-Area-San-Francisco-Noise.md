@@ -107,10 +107,10 @@ Matmos 於 20 世紀 90 年代在舊金山成立，因其使用採樣的概念�
 
 |藝術家/作品|年份|筆記|鏈接 |
 | ------ | ---- | ---------------- | ----------- | ---------------- |
-| Negativland — *遠離噪音* | 1987 |磁帶拼貼和短歌的混合，傑作 | [亞馬遜](https://amzn.to/47akMEX) |
+| Negativland — *遠離噪音* | 1987 |磁帶拼貼和短歌的混合，傑作| [亞馬遜](https://amzn.to/47akMEX) |
 | Matmos — *一次切割的機會就是一次治癒的機會* | 2001 |使用醫療聲音的概念作品| [亞馬遜](https://amzn.to/48IJtKN) |
 |馬特莫斯 — *內戰* | 2003 |概念的延續和抽樣實驗| [亞馬遜](https://amzn.to/4gKSuoA) |
-|灣區彙編（區域版）| 2010 年代 |以本地分佈為主。推薦從 Bandcamp 或當地品牌購買 | [Bay Improviser](https://www.bayimproviser.com/cds.aspx) |
+|灣區彙編（地區版）| 2010 年代 |以本地分佈為主。推薦從 Bandcamp 或當地品牌購買 | [Bay Improviser](https://www.bayimproviser.com/cds.aspx) |
 |比爾·奧卡特 — *跳上它* | 2023 |實驗聲學。灣區吉他作品的代表範例 |[Amazon](https://amzn.to/4o2jF0Q) |
 
 

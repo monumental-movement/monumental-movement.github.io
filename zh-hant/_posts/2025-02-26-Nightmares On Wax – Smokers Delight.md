@@ -15,7 +15,7 @@ title: 蠟上的噩夢——吸煙者的喜悅
 ---
 
 
-Nightmares On Wax 的 Smokers Delight (1995) 是英國製作人 George Evelyn 項目的第二張專輯，由 Warp Records 發行，鞏固了其在慢節奏和 Trip-Hop 歷史上的地位。這張專輯仍然是一張永恆的傑作，將聽眾帶入一個舒緩的放鬆境界，遠離俱樂部文化的喧囂。
+Nightmares On Wax 的 Smokers Delight (1995) 是英國製作人 George Evelyn 項目的第二張專輯，由 Warp Records 發行，鞏固了其在慢節奏和 Trip-Hop 歷史上的地位。這張專輯仍然是一部永恆的傑作，將聽眾帶入一個舒緩的放鬆境界，遠離俱樂部文化的喧囂。
 
 首先，《Smokers Delight》的核心在於它的“輕鬆節奏”。專輯以“Nights Introude”開頭，以柔和的弦樂和昆西·瓊斯的“Summer In The City”的輕柔節拍為特色，立即將聽眾帶入一個輕鬆的空間。
 

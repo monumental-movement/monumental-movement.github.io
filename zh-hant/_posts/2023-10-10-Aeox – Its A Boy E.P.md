@@ -13,7 +13,7 @@ title: Aeox – 這是一個男孩 E.P
 ---
 
 
-AeoX 是一支來自柏林的科技朋克樂隊，由 Al.X.E（Alexander Koepke 和 tafkatafta）和 Hanno Hinkelbein 組建。他發行了 Null Records 和 Mental Industries 的許多作品。
+AeoX 是一支來自柏林的科技朋克樂隊，由 Al.X.E（Alexander Koepke 和 tafkatafta）和 Hanno Hinkelbein 組成。他發行了 Null Records 和 Mental Industries 的許多作品。
 
 “這是一個男孩 E.P.”是 Null Records 於 2000 年發行的一首 techno 電子曲目。
 

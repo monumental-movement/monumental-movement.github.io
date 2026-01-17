@@ -9,7 +9,7 @@ permalink: /zh-hant/rawcotiks-nevertheless-real-heads/
 tags:
 - Hiphop
 - 90s
-title: Rawcotiks – 然而真正的頭腦
+title: Rawcotiks——然而真正的頭腦
 ---
 
 

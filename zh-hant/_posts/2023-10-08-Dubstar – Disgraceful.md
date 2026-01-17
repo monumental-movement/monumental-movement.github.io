@@ -12,7 +12,7 @@ title: Dubstar——可恥的
 ---
 
 
-這是英國樂隊Dubstar於1995年發行的專輯。這是他們的首張專輯，由EMI子公司Food Records於1995年10月發行。
+這是英國樂隊Dubstar於1995年發行的專輯。這是他們的首張專輯，於1995年10月由EMI子公司Food Records發行。
 
 這張專輯包括兩首翻唱歌曲。其中一首是“Not So Manic Now”，這首歌最初由 Brick Supply 在他們 1994 年的 EP“Somebody's Intermezzo”中錄製。另一首是“St. Swithin's Day”，這首歌最初由比利·布拉格錄製在他 1984 年的專輯“Brewing Up with Billy Bragg”中。
 

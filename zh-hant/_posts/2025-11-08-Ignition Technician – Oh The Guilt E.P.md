@@ -17,7 +17,7 @@ Ignition Technician 是一支技術製作團隊，由來自英國利茲的 Pete 
 
 很早就被 Carl Cox 發現，Dave Clarke、Laurent Garnier、Joey Beltram、Billy Nasty、Pete Tong、Judge Jules、Jon Peel 和 Colin Murry 等 DJ 開始播放 Ignition Technician 的唱片。
 
-《噢，罪惡 E.P》是 2002 年由 Ignition Technician 經營的唱片公司 Ignition Records 發行的一首 Techno 曲目。
+《噢，罪惡的 E.P.》是 2002 年由 Ignition Technician 經營的唱片公司 Ignition Records 發行的一首 Techno 曲目。
 
 #### 曲目列表
 ```md

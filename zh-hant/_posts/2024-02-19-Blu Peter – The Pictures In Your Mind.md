@@ -15,7 +15,7 @@ title: 布魯·彼得——你腦海中的畫面
 
 Peter Harris，也被稱為 Blu Peter，是一位來自南威爾士的英國電子舞曲製作人和 DJ。 20 世紀 90 年代初，他在著名的倫敦俱樂部 Heaven 和 Turnmills 駐場，並在 90 年代末活躍於 nu-NRG/Hard NRG 圈子。
 
-《The Pictures In Your Mind》是英國廠牌React於1996年發行的一首Trance歌曲，是90年代中期英國trance界最具代表性的歌曲之一，Kadoc的B1混音版至今仍被認為是經典。
+《The Pictures In Your Mind》是英國廠牌React於1996年發行的一首Trance歌曲，是90年代中期英國trance界最具代表性的歌曲之一，Kadoc對B1的混音版至今仍被認為是經典。
 
 #### 曲目列表
 ```md

@@ -110,7 +110,7 @@ flowchart TD
 
 ---
 
-次年的 1999 年《Vision Creation Newsun》是 Boredoms 職業生涯的決定性作品之一。
+次年，1999 年的 Vision Creation Newsun 成為 Boredoms 職業生涯的決定性作品之一。
 自然的聲音、民族打擊樂、持續的聲音和循環結構、吉他嗡嗡聲、多層節奏......
 
 無聊樂隊在這裡甚至不是一支“搖滾樂隊”，而是深入到宇宙極簡主義和儀式恍惚之中。
@@ -128,23 +128,23 @@ flowchart TD
 
 ## 第 4 章：V∞redoms/帶有孔鼓的節奏合奏時期（2000-2010）
 
-### 4-1.成員變動及新架構變動
+### 4-1. Movement of members and changes to new structure
 
 2000年代初，會員構成發生了重大變化。
 吉他手和貝斯手被排除在外，陣容轉向以“鼓和打擊樂”為中心的新結構。
 以 Yoshimi P-We 為中心的多層次的鼓和打擊樂風格將成為 Boredoms 的標誌。
 
-### 4-2. “Seadrum / House of Sun”的新階段
+### 4-2. 『Seadrum / House of Sun』による新局面
 
 2004年，發行《Seadrum / House of Sun》。
-海灘錄音、長長的嗡嗡聲、冥想結構、環境聲音和重複的元素相結合，創造了一個感覺像“聲音儀式”的世界。
+海灘錄音、長長的嗡嗡聲、冥想結構、環境聲音和重複的元素結合在一起，創造了一個感覺像“聲音儀式”的世界。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ObBwAq-Nx0A?si=Rg_siWf8KjzNuZaE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-在這裡，樂隊的名字經常被寫成V∞redoms，而Boredoms本身的概念也變成了“集體創作體”，而不是一個音樂單位。
-2000年代，Boredoms有了新的發展，包括**V∞redoms**這個名字，其中最具標誌性的就是以7月7日舉行的“7x7x7”現場演出**開始的大型鼓樂團。
+在這裡，樂隊名稱經常被寫成V∞redoms，而Boredoms本身的概念也變成了“集體創作體”，而不是一個音樂單位。
+進入2000年代，Boredoms有了新的發展，包括**V∞redoms**這個名字，其中最具標誌性的就是以7月7日舉行的“7x7x7”現場演出**開始的大型鼓樂團。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vjk01Wo-aEs?si=NY65yyeeoj0-m5te" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

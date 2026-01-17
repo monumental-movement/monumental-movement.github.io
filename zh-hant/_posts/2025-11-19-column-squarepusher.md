@@ -53,7 +53,7 @@ color: #fff;
 - 天氣預報：複雜的節奏
 - ELP：電子聲音與現場融合
 
-### 2.3 邂逅電子音樂
+### 2.3 與電子音樂的邂逅
 
 在接觸 Acid House 和早期 techno 後，他開始使用 Akai S1000 和 TR-808/909 在家錄音。
 
@@ -207,13 +207,13 @@ pie
 
 ---
 
-### 5.3 Music Is Rotted One Note (1998)
+### 5.3 音樂腐爛了一個音符 (1998)
 
 **使用的設備**：Fender Jazz Bass、Korg MS-20、Roland JP-8000
 
 1. **隆堡港**
 
-   * ライブ録音即興
+   * 現場錄音即興創作
 
 <div class="mermaid">
 

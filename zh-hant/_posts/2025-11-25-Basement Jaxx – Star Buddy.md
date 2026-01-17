@@ -17,7 +17,7 @@ A 面 [Kathy Sledge - Another Star 的混音（覆蓋 Stevie Wonder - Another St
 
 B 面 [Buddy Rich - Nuttville 的重新編輯（來自 The Roar Of '74）]
 
-Basement Jaxx 於 2000 年發布了非官方 House 混音版。
+Basement Jaxx 於 2000 年發布的非官方 House 混音版。
 
 A 是 House 曲目“Another Star”的混音版，是 Kathy Sledge 翻唱 Stevie Wonder 的“Another Star / Creepin'”。
 

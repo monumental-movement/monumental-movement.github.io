@@ -13,7 +13,7 @@ title: 胖喬——還有更多
 ---
 
 
-《So Much More》是 Fat Joe 於 2005 年發行的一首嘻哈歌曲。 （宣傳版）
+《So Much More》是 Fat Joe 於 2005 年發行的一首嘻哈歌曲。 （促銷版）
 製片人是邁阿密的製作組合 Cool & Dre。
 
 #### 曲目列表

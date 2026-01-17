@@ -16,7 +16,7 @@ title: 果醬和勺子壯舉。 Plavka – 萬花筒天空
 
 Jam & Spoon 是德國 techno/trance 二人組，由 Rolf Ellmer (Jam) 和 Markus Löffel (Spoon) 組成。他們在20世紀90年代創作了許多流行歌曲，並以其聲音和製作技巧而聞名。
 
-《萬花筒天空》是 Jam & Spoon 與 Plavka 合作製作的歌曲，以 trance/techno 元素結合情感旋律和電子節拍為特色，具有史詩般的音景。
+《萬花筒天空》是 Jam & Spoon 與 Plavka 合作製作的歌曲，具有 trance/techno 元素，結合情感旋律和電子節拍，具有史詩般的音景。
 
 Plavka 是一位來自塞爾維亞的歌手，她強有力的歌聲賦予了《萬花筒天空》深度和情感。她的歌聲為整首歌賦予了戲劇性的精髓，俘獲了聽眾的心。
 

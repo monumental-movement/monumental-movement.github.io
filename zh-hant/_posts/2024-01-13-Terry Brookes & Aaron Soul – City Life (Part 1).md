@@ -13,7 +13,7 @@ title: Terry Brookes 和 Aaron Soul – 城市生活（第 1 部分）
 ---
 
 
-City Life (Part 1) 是總部位於阿姆斯特丹的荷蘭唱片公司 Rush Hour 於 2005 年發行的一首 house 曲目，該唱片公司由 Christiaan Macdonald 和 Antal Heitlager 於 1999 年創立。
+City Life (Part 1) 是 Rush Hour 於 2005 年發行的一首 house 曲目，Rush Hour 是一家總部位於阿姆斯特丹的荷蘭唱片公司，由 Christiaan Macdonald 和 Antal Heitlager 於 1999 年創立。
 
 Side A 是 Carl Craig 的混音版。
 

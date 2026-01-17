@@ -109,7 +109,7 @@ Vaportrap 是一種將 Vaporwave 的方法論（採樣、重建 80-90 年代消�
 * 噪聲、模擬紋理、盒式磁帶失真
 * 隨著 Chillhop/Study Beats 的發展，流媒體文化不斷擴展
 
-Cloud Rap 的人聲處理輕鬆地與 Lo-Fi Hip Hop 混合，Lil Peep 和 XXXTENTACION 的作品結合了**吉他聲音 x Lo-Fi 處理 x Cloud Rap 般的漂浮感**。
+Cloud Rap 的人聲處理很容易與 Lo-Fi Hip Hop 混合，Lil Peep 和 XXXTENTACION 的作品結合了**吉他聲音 x Lo-Fi 處理 x Cloud Rap 般的漂浮感**。
 
 ---
 

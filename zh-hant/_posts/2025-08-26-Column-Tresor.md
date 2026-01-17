@@ -53,7 +53,7 @@ Tresor 尤其是底特律 techno 向歐洲擴張的跳板。
 
 ### 標籤“Tresor Records”
 
-Tresor Records 成立於 1991 年，是一個附屬俱樂部，是一個重要的科技唱片公司。
+Tresor Records 成立於 1991 年，是一個俱樂部的一部分，是一個重要的科技唱片公司。
 
 [Jeff Mills – 波形傳輸系列](https://amzn.to/4mJeXE1)
 
@@ -76,9 +76,9 @@ Tresor是“城市廢墟再利用文化”的象徵。它成為了整個柏林�
 
 **24小時俱樂部文化**
 
-在監管寬鬆的柏林，人們創建了一個可以在早上、中午和晚上繼續跳舞的空間。他的風格仍然是全世界羨慕的對象。
+在管制寬鬆的柏林，人們創建了一個可以在早上、中午和晚上繼續跳舞的空間。他的風格仍然是全世界羨慕的對象。
 
-**科技=城市認同**
+**科技=城市身份**
 
 正是在 Tresor 的影響下，柏林市正式承認俱樂部文化為城市品牌。
 
@@ -102,7 +102,7 @@ Tresor是“城市廢墟再利用文化”的象徵。它成為了整個柏林�
 
 ---
 
-**E-Werk、WMF**：這兩個名字均在 90 年代上市，但 Tresor 從長遠來看具有最持久的影響力。
+**E-Werk、WMF**：這兩個名字都在 90 年代上市，但 Tresor 的長期影響力最為持久。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zej35KafTZs?si=JiOgYJNaSh5dnTEx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -120,7 +120,7 @@ Tresor是“城市廢墟再利用文化”的象徵。它成為了整個柏林�
 
 - “科技=城市未來形象”的文化價值
 
-- 標籤中的歷史杰作
+- 品牌歷史杰作
 
 - 廢墟再利用的“場所”美學
 
@@ -154,14 +154,14 @@ Tresor是“城市廢墟再利用文化”的象徵。它成為了整個柏林�
 
 ### 將 techno 音樂從“一時時尚”提升為“普世文化”
 
-Tresor 不僅僅是一個俱樂部或唱片公司，它還是一個“文化十字路口”，連接著柏林的歷史、冷戰後的城市空間和底特律黑人音樂的未來。
-從這個金庫釋放的聲音仍然在世界各地的俱樂部文化中迴響，將電子音樂從“短暫的時尚”提升為“普遍文化”。
+Tresor 不僅僅是一個俱樂部或唱片公司，它還是一個文化十字路口，連接著柏林的歷史、冷戰後的城市空間和底特律黑人音樂的未來。
+從這個金庫釋放的聲音仍然在世界各地的俱樂部文化中迴響，將電子音樂從“暫時的時尚”提升為“普遍文化”。
 
 ---
 
 ### 相關專欄
 
-🔗 [[專欄]從techno的起源到現在——通過著名的唱片和設備追溯的年代史](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[專欄]從 techno 的起源到現在 - 通過著名唱片和設備追溯的年代史](https://monumental-movement.jp/Column-Techno-History)
 
 🔗 [[專欄]底特律Techno：機器心跳創造的人類舞蹈](https://monumental-movement.jp/Column-Detroit-Techno)
 

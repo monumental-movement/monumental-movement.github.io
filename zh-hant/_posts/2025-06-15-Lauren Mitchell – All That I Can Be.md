@@ -11,7 +11,7 @@ tags:
 - Pop
 - Europop
 - 80s
-title: 勞倫·米切爾——我所能做到的一切
+title: 勞倫·米切爾——我能做的一切
 ---
 
 

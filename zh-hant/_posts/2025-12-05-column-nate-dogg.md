@@ -10,7 +10,7 @@ permalink: /zh-hant/column-nate-dogg/
 tags:
 - Hiphop
 - classic
-title: 【專欄】Nate Dogg：象徵G-Funk的“鉤子之王”的軌跡
+title: 【專欄】Nate Dogg：象徵G-Funk的“鉤王”軌跡
 ---
 
 
@@ -23,7 +23,7 @@ title: 【專欄】Nate Dogg：象徵G-Funk的“鉤子之王”的軌跡
 Dr. Dre 製作，受 P-Funk 啟發的合成器聲音強勁，低音線厚實，圓潤流暢。
 但 **Nate Dogg（真名 Nathaniel Dwayne Hale，1969-2011）** 的聲音具有特殊意義。
 
-彼の歌声は、ラップでもなくR&Bでもなく、その中間にありながらどちらとも違う。  
+他的歌聲既不是說唱，也不是R&B，而是介於兩者之間，又不同於兩者。
 低音的干燥質感和深度，源自福音音樂的厚度和平滑度。他徹底改變了“歌曲”在嘻哈音樂中所扮演的角色，並持續影響著許多藝術家至今。
 
 最重要的是，他被認為是一位在唱副歌時比任何人都更強的藝術家，並且受到當時西海岸舞台上幾乎所有人的追捧。
@@ -70,7 +70,7 @@ color: #fff;
 該名稱源自長灘的區號 213，清楚地標記了他們的本地身份。
 
 當時的當地錄音帶已經顯示，內特·道格的歌聲在他周圍的說唱歌手中脫穎而出。
-他的聲音帶有街頭氣息，通過唱出旋律，給整首歌帶來了一種愉悅的漂浮感。
+他的聲音帶著街頭的氣息，通過唱出旋律，給整首歌帶來了一種愉悅的漂浮感。
 這種風格後來成為客座表演文化的核心。
 
 ---
@@ -108,13 +108,13 @@ color: #fff;
 Nate Dogg的歌聲乍一看很有特色，但如果將其分解為要素，可以概括如下。
 
 ### ■ 源自福音音樂的渾厚聲音
-聲帶振動強烈，聲音低沉。
+聲帶振動強烈，共鳴深沉。
 
 ### ■ 直線演唱，顫音少
 這使得它與嘻哈音樂的硬節奏非常兼容。
 
 ### ■ 旋律重複短句
-創造 G-Funk 所需的“催眠”品質。
+創造了 G-Funk 所必需的“催眠”品質。
 
 ### ■ 尊重節奏的“停頓”
 不要唱太多，在節拍上留出間隙。
@@ -130,7 +130,7 @@ Nate Dogg的歌聲乍一看很有特色，但如果將其分解為要素，可�
 
 內特·道格（Nate Dogg）因其客座表演而廣受好評，但他也發行了幾張個人專輯。
 
-#### ■“G-Funk 經典，第 1 捲和第 2 卷”（1998 年）
+#### ■ “G-Funk 經典，第 1 捲和第 2 卷”（1998 年）
 
 經過長時間的生產和標籤轉移問題後發布。
 Snoop Dogg、Warren G、Kurupt 等眾多西海岸藝術家參與其中，這是一部以最純粹的形式展現 G-Funk 骨子裡的作品。
@@ -153,7 +153,7 @@ Snoop Dogg、Warren G、Kurupt 等眾多西海岸藝術家參與其中，這是�
 
 ---
 
-在 90 年代末和 2000 年代初，Nate Dogg 幾乎每年都會客串熱門嘻哈音樂。
+從 90 年代末到 2000 年代初，Nate Dogg 幾乎每年都會客串熱門嘻哈音樂。
 
 代表參賽歌曲：
 
@@ -165,7 +165,7 @@ Snoop Dogg、Warren G、Kurupt 等眾多西海岸藝術家參與其中，這是�
 - “我得到了愛”
 
 其中，《21個問題》在美國排名第一。
-雖然是甜美的R&B聲音，但值得注意的是，Nate Dogg的聲音並沒有失去街頭的緊張感。
+雖然是甜美的R&B聲音，但重要的是Nate Dogg的聲音不失街頭的張力。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cDMhlvbOFaM?si=OavxoFCED3LL7j9J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -173,7 +173,7 @@ Snoop Dogg、Warren G、Kurupt 等眾多西海岸藝術家參與其中，這是�
 
 ## 8. 213“艱難之路”：友誼的果實
 
-213，Snoop、Warren 和 Nate 三人組，於 2004 年發行了他們的官方錄音室專輯《The Hard Way》。
+213 由 Snoop、Warren 和 Nate 組成，於 2004 年發行了他們的官方錄音室專輯《The Hard Way》。
 這張專輯在公告牌上排名第一，是三人長期友誼和事業的頂峰。
 
 ---

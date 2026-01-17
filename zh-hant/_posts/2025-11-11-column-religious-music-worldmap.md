@@ -45,7 +45,7 @@ color: #fff;
 ## 印度教音樂：宇宙之聲“Nada Brahma”
 
 * **主要形式**：咒語、Bhajans、Ragas
-* **主要樂器**：西塔琴、塔布拉琴、風琴
+* **主要樂器**：西塔琴、塔布拉鼓、風琴
 * **代表表演者**：Ravi Shankar、Bismara Khan
 * **心理影響**：
 

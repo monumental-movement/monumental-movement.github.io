@@ -17,7 +17,7 @@ Linoleum Lineage 是由洛杉磯節拍製作人 DJ Rylo 和 MC Omanjamari 組建
 
 
 歌詞 – Omanjamari
-大師——達蒙·特德斯科
+大師 – 達蒙·特德斯科
 製作人/混音/編曲 – DJ Rylo
 
 #### 曲目列表

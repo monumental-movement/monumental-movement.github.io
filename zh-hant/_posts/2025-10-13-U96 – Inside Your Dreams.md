@@ -18,7 +18,7 @@ title: U96 – 在你的夢裡
 
 U96是由DJ/製作人Alex Christensen和製作團隊Matiz組建的德國音樂項目。
 
-1994 年發行的非專輯歌曲“Inside Your Dreams”是歐洲排行榜上的 Progressive House/Trance/Euro House/Techno 熱門歌曲。
+1994 年發行的非專輯歌曲“Inside Your Dreams”是歐洲排行榜上的一首 Progressive House/Trance/Euro House/Techno 歌曲。
 
 #### 曲目列表
 ```md

@@ -13,7 +13,7 @@ title: 丹尼·克里維特 – Nite Life 011 – 擴展
 ---
 
 
-來自紐約最有經驗的唱片騎師之一的 Slammin' 和 jammin' 爵士浩室音樂。丹尼·克里維特 (Danny Krivit) 一直活躍於紐約迪斯科界，從 Paradise Garage 到 Danceteria，再到 Save the Robots，再到成為眾人矚目的焦點。他每週日都會演奏他的“Body & Soul”駐場演出。
+來自紐約最有經驗的唱片騎師之一的 Slammin' 和 jammin' 爵士浩室音樂。丹尼·克里維特 (Danny Krivit) 一直活躍於紐約迪斯科界，從 Paradise Garage 到 Danceteria，再到 Save the Robots，再到 Limelight，一直到今天。他每週日都會演奏他的“Body & Soul”駐場演出。
 
 CD1有一點不拘一格的感覺，CD2則充滿了高品質的聲音。尤其是當Klubfilter、Funk Against Jazz、Dennis Ferrer和Nigel Hayes全部混合在一起時，營造出現場樂器重的音樂會氛圍。像 Celebrate 這樣的東西，特別是 Octave One 的“Blackwater”和 Peckham Royal 及其令人驚嘆的鍵盤，讓這一切變得特別。
 

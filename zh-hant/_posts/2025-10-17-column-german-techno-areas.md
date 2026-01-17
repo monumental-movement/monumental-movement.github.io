@@ -237,7 +237,7 @@ flowchart TD
 |柏林 |基本頻道| *象限配音* | 1994 | [亞馬遜](https://amzn.to/42HRXhy) |
 |杜塞爾多夫-科隆 |發電廠| *橫貫歐洲快車* | 1977 | [亞馬遜](https://amzn.to/46VatWj) |
 |法蘭克福 |斯文·瓦斯 | *天堂裡的意外* | 1993 | [亞馬遜](https://amzn.to/3J2ouby) |
-|漢堡-萊比錫|潘薩杜王子| *黑噪音* | 2010 | [亞馬遜](https://amzn.to/4nSXkmu) |
+|漢堡-萊比錫|潘薩杜王子 | *黑噪音* | 2010 | [亞馬遜](https://amzn.to/4nSXkmu) |
 
 
 ---
@@ -347,7 +347,7 @@ flowchart TD
 
 🔗 [[專欄]英國Techno的黃金時代](https://monumental-movement.jp/Column-90s-UKTechno)
 
-🔗 [[專欄]從techno的起源到現在——通過著名的唱片和設備追溯的年代史](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[專欄]從 techno 的起源到現在 - 通過著名唱片和設備追溯的年代史](https://monumental-movement.jp/Column-Techno-History)
 
 🔗 [[專欄]底特律Techno：機器心跳創造的人類舞蹈](https://monumental-movement.jp/Column-Detroit-Techno)
 
