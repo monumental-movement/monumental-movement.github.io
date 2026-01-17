@@ -9,13 +9,13 @@ permalink: /ko/the-rurals-lush/
 tags:
 - House
 - Deep House
-title: The Rurals – Lush
+title: 시골 – 러쉬
 ---
 
 
-「Lush」は、
-2000年にUKのレーベル「Peng」からリリースされた本名Andy Compton
-によるプロジェクトThe RuralsのEPです。
+'러쉬'는
+2000년 영국 레이블 "Peng"(본명 Andy Compton)으로 출시되었습니다.
+이것은 The Rurals 프로젝트의 EP입니다.
 
 
 #### 트랙리스트

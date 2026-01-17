@@ -9,11 +9,11 @@ permalink: /ko/realside-high-noon/
 tags:
 - Jazz
 - Future Jazz
-title: Realside – High Noon
+title: 리얼사이드 - 정오
 ---
 
 
-「High Noon」は、2002年にUKのレーベルSirkusからリリースされたDominic Stanton & Mark Russellによるユニット「Realside」によるEPです。
+"High Noon"은 2002년 영국 레이블 Sirkus를 통해 발매된 Dominic Stanton과 Mark Russell의 유닛 "Realside"의 EP입니다.
 
 
 #### 트랙리스트

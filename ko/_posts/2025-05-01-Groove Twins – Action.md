@@ -15,7 +15,7 @@ title: 그루브 트윈스 - 액션
 ---
 
 
-그루브트윈스(Groove Twins)는 고고걸스, 킹앤퀸 등 보컬리스트 인턴이 참여한 A.Beat-C 프로젝트다.
+그루브트윈스(Groove Twins)는 고고걸스, 킹앤퀸 등 보컬리스트 인턴이 참여한 A.Beat-C 프로젝트이다.
 
 "Action"은 이탈리아 Eurobeat 레이블 A.Beat-C에서 1992년에 발표한 에너지 넘치는 Eurobeat 트랙입니다.
 

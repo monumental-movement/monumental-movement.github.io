@@ -10,15 +10,15 @@ tags:
 - Hiphop
 - 90s
 - Gangsta
-title: Gang Starr – Positivity
+title: 갱 스타 – 긍정
 ---
 
 
-Gang Starrは、1980年代後半から1990年代にかけて活動したアメリカのヒップホップデュオ(Guru&DJ Premier)です。「Positivity」は、彼らの3枚目のスタジオアルバムである「Daily Operation」（1992年）に収録されています。
+갱스타(Gang Starr)는 1980년대 후반부터 1990년대까지 활동한 미국의 힙합 듀오(Guru & DJ Premier)이다. "Positivity"는 세 번째 정규 앨범 "Daily Operation"(1992)에 등장합니다.
 
-この曲は、ポジティブなメッセージと前向きなエネルギーを伝えることをテーマにしています。
+긍정적인 메시지와 긍정적인 에너지를 전달하는 곡이다.
 
-Guruの独特なラップスタイルとPremierの特徴的なビートが組み合わさり、Gang Starrの代表作の一つとして、またヒップホップのクラシックとして高く評価されています。
+Guru의 독특한 랩 스타일과 Premier의 독특한 비트가 결합되어 Gang Starr의 걸작이자 힙합 클래식으로 호평을 받았습니다.
 
 #### 트랙리스트
 ```md

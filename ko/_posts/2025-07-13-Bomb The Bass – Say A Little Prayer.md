@@ -17,7 +17,7 @@ title: Bomb The Bass - 작은 기도를 해보세요
 
 Bomb The Bass라고도 알려진 Timothy Simenon(Tim Simenon)은 1980년대 후반 애시드 하우스 씬에 기여한 영국 전자 음악계의 주요 인물입니다. 그는 그의 걸작 "Beat Dis"로 가장 잘 알려져 있습니다.
 
-"Say A Little 기도"는 Burt Bacharach와 Hal David가 작곡하고 1967년 Dionne Warwick이 발매한 유명한 노래의 커버입니다.
+"Say A Little 기도"는 Burt Bacharach와 Hal David가 작곡하고 Dionne Warwick이 1967년 발표한 유명한 노래의 커버입니다.
 
 The Bomb The Bass 버전은 하우스와 애시드 하우스 전문 레이블인 Rhythm King이 1988년에 발매한 애시드 하우스와 다운템포 리믹스입니다.
 

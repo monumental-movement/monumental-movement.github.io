@@ -13,7 +13,7 @@ title: Chrislo – 낮음 (Tresor092)
 ---
 
 
-크리스로 하스(Chrislo Haas)는 Minus Delta t, D.A.F., CHBB/Liaisons Dangereuses, Crime & the City Solution 등의 밴드와 신디사이저(Korg MS-20) 제작을 통해 1980년대 독일 음악계에 큰 영향을 미친 독일 음악가로, 테크노와 현대 일렉트로닉 댄스 음악의 창시자 중 한 명으로 꼽힌다.
+크리스로 하스(Chrislo Haas)는 Minus Delta t, D.A.F., CHBB/Liaisons Dangereuses, Crime & the City Solution 등의 밴드와 함께 신디사이저(Korg MS-20) 제작을 통해 1980년대 독일 음악계에 큰 영향을 미친 독일 음악가로, 테크노와 현대 일렉트로닉 댄스 음악의 창시자 중 한 명으로 꼽힌다.
 
 #### 트랙리스트
 ```md

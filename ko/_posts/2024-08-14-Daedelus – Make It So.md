@@ -16,7 +16,7 @@ title: 다이델로스 – 그렇게 만들어라
 ---
 
 
-LA를 기반으로 활동하는 미국의 음악 프로듀서인 알프레드 와이즈버그-로버츠(Daedelus)는 다양한 음악적 요소를 혼합한 실험적인 방법을 통해 독특한 사운드를 구축하는 아티스트이다. 'Make It So'는 영국 명문 레이블 Ninja Tune이 2008년 발매한 정규 앨범 'Love to Make Music To'의 싱글 컷이다.
+LA를 기반으로 활동하는 미국의 음악 프로듀서, Daedelus로 알려진 Alfred Weisberg-Roberts는 다양한 음악적 요소를 혼합하는 실험적인 방법을 통해 독특한 사운드를 구성하는 아티스트입니다. 'Make It So'는 영국 명문 레이블 Ninja Tune이 2008년 발매한 정규 앨범 'Love to Make Music To'의 싱글 컷이다.
 
 Side A의 첫 번째 곡은 Spank Rock의 전 멤버인 XXXchange의 리믹스입니다.
 

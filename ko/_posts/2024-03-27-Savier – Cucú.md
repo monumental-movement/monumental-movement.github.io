@@ -10,11 +10,11 @@ tags:
 - House
 - Latin
 - Euro
-title: Savier – Cucú
+title: 사비에 – 쿠쿠
 ---
 
 
-「Cucú」は、90年代イタリアのラテンハウスアクトSavierによるユーロハウストラック。
+"Cucú"는 90년대 이탈리아 라틴 하우스 가수 Savier의 유로 하우스 트랙입니다.
 
 #### 트랙리스트
 ```md

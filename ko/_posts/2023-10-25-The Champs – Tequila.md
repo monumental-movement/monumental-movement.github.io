@@ -10,11 +10,11 @@ tags:
 - Rock
 - Latin
 - 7inch
-title: The Champs – Tequila
+title: 더 챔프 - 데킬라
 ---
 
 
-「The Champs（ザ・チャンプス） – Tequila（テキーラ）/ Patsy Cline（パッツィー・クライン） – Walkin' After Midnight（ウォーキング アフター ミッドナイト）」は、レーベルCollectablesからのリリース。
+"The Champs - Tequila / Patsy Cline - Walkin' After Midnight"는 Collectables 레이블에서 출시되었습니다.
 
 #### 트랙리스트
 ```md

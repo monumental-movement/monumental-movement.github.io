@@ -11,15 +11,15 @@ tags:
 - Trance
 - Vocal
 - 00s
-title: Deepest Blue – Give It Away
+title: 가장 깊은 파란색 – 포기하세요
 ---
 
 
-Deepest Blueは、Joel EdwardsとMatt SchwartzによるMinistry Of Soundのエレクトロ/ハウスプロジェクト。
+Deepest Blue는 Joel Edwards와 Matt Schwartz가 진행한 Ministry Of Sound의 일렉트로/하우스 프로젝트입니다.
 
-「Give It Away」は、2004年のデビューアルバム『 Late September』のセカンドシングルとしてリリースされたDeepest Blue の代表曲。
+'Give It Away'는 2004년 데뷔 앨범 'Late September'의 두 번째 싱글로 발매된 디피스트 블루의 시그니처 곡이다.
 
-B1は、プログレッシブハウス/エレクトロハウス/トランスなど、さまざまなEDMジャンルのプロデューサー/DJ/リミキサーであるMichael Woods(マイケル・ウッズ)によるremix。
+B1은 프로그레시브 하우스/일렉트로 하우스/트랜스 등 다양한 EDM 장르의 프로듀서/DJ/리믹서인 Michael Woods의 리믹스입니다.
 
 #### 트랙리스트
 ```md

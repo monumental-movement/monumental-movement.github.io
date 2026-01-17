@@ -14,7 +14,7 @@ title: 소울과 굿 그루브 – Funkin' You4
 ---
 
 
-Good Groove(Klaus Löschner)는 독일 뮌헨 출신의 테크노 DJ/프로듀서입니다. 그는 1985년에 경력을 시작했으며 Sven Väth, Westbam 및 Dr. Motte와 함께 당시 유행했던 Babalu Club에서 뮌헨의 첫 번째 뮌헨 테크노 파티를 조직했습니다.
+Good Groove(Klaus Löschner)는 독일 뮌헨 출신의 테크노 DJ/프로듀서입니다. 그는 1985년에 경력을 시작했으며 당시 유행했던 Babalu Club에서 Sven Väth, Westbam 및 Dr. Motte와 함께 첫 번째 뮌헨 테크노 파티를 조직했습니다.
 
 A2는 영국 전자 음악가/DJ/프로듀서 Luke Slater의 리믹스입니다.
 

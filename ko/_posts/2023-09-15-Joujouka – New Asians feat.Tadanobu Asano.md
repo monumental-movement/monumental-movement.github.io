@@ -10,7 +10,7 @@ tags:
 - House
 - Big Beat
 - Psychedelic
-title: 쥬쥬카 – 뉴 아시안즈 feat. 아사노 타다노부
+title: 쥬쥬카 – 뉴 아시안스 feat. 아사노 타다노부
 ---
 
 

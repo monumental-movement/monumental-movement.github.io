@@ -99,7 +99,7 @@ B. Like No Other (Rennie Pilgrem Mix Pt 2)
 ### Cari Lekebusch – Universalsessions – Instrumentalicks
 <a href="https://jp.mercari.com/item/m21088903450?afid=6142608987"><img src="../assets/images/Cari%20Lekebusch%20%E2%80%93%20Universalsessions.webp"></a>
 
-포인트: 'Side B'는 다크한 곡으로 특히 일렉트로닉한 느낌이 강한 곡이다. 고요한 분위기에 '기계적 긴장감'이 감돌며, 시원하면서도 심오한 세계관으로 빠져들게 합니다.
+포인트: 'Side B'는 다크한 곡으로 특히 일렉트로닉한 느낌이 강한 곡이다. 고요한 분위기에 '기계적 긴장감'이 감돌며, 시원하면서도 심오한 세계관으로 빠져들게 됩니다.
 
 매력 : 어둡고 긴장감 있는 일렉트로닉
 
@@ -176,7 +176,7 @@ B. Schmetterball
 <br>
 
 
-### 델 코스타 & 페드로 고야 - Freaky Mike
+### 델 코스타 & 페드로 고야 – Freaky Mike
 <a href="https://jp.mercari.com/item/m19923787002?afid=6142608987"><img src="../assets/images/Del%20Costa%20&%20Pedro%20Goya%20%E2%80%93%20Freaky%20Mike.webp"></a>
 
 하이라이트: 포르투갈의 베테랑 프로듀서 듀오의 작품. 오리지널 버전과 리믹스 버전이 포함되어 있어 미니멀하고 춤추기 좋은 일렉트로 트랙을 즐길 수 있습니다.

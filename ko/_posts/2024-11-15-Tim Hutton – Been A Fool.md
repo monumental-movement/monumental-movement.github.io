@@ -10,7 +10,7 @@ tags:
 - House
 - Future Jazz
 - 00s
-title: 팀 허튼 – 바보였어
+title: 팀 허튼 - 바보였어
 ---
 
 

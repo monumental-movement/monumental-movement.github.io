@@ -9,7 +9,7 @@ permalink: /ko/dance-hall-crashers-dance-hall-crashers/
 tags:
 - Ska
 - Ska Punk
-title: 댄스 홀 크래셔 – 오래된 기록(1989-1992)
+title: 댄스홀 크래셔 – 오래된 기록(1989-1992)
 ---
 
 

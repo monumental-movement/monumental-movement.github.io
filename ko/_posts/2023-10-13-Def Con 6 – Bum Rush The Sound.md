@@ -9,13 +9,13 @@ permalink: /ko/def-con-6-bum-rush-the-sound/
 tags:
 - Break Beat
 - Acid
-title: Def Con 6 – Bum Rush The Sound
+title: 데프콘 6 – Bum Rush The Sound
 ---
 
 
-Def Con 6 はBrandon SmithとJohn Sextonによるユニット。
+데프콘 6(Def Con 6)는 브랜든 스미스(Brandon Smith)와 존 섹스턴(John Sexton)으로 구성된 유닛이다.
 
-「Bum Rush The Sound」は、1998年にTweak! RecordsからリリースされたDef Con 6 のアシッド・ブレイクビーツ・ブレイクトラック。
+"Bum Rush The Sound"는 Tweak에서 공개된 Def Con 6의 애시드 브레이크비트 브레이크 트랙입니다! 1998년의 기록.
 
 #### 트랙리스트
 ```md

@@ -79,7 +79,7 @@ color: #fff;
 이제 고가의 모듈식 장비를 사용하는 대신 독립형 신디사이저 + 4트랙 카세트 레코더를 사용하여 음악을 만드는 것이 가능해졌습니다.
 
 ### ● 2-2. 펑크/포스트펑크의 영향
-- “누구나 음악을 만들 수 있다”는 펑크 아이디어
+- “음악은 누구나 만들 수 있다”는 펑크 발상
 - Joy Division, The Cure, Siouxsie 등의 어두운 이미지
 - 이를 전자악기와 결합하여 **어둡고, 차갑고, 미니멀한 전자음악**이 탄생했습니다.
 
@@ -89,7 +89,7 @@ color: #fff;
 - 지역별 소형 라벨:
 - 벨기에: 미친 음악
 - 프랑스: 뉴로즈, 생기 넘치는 예술
-- 영국: Neon Judgment 시리즈 독립 공연 환경
+- 영국: Neon Judgment 시리즈의 독립 공연 환경
 
 이것이 Minimal Wave/Coldwave의 기초가 되었습니다.
 
@@ -104,7 +104,7 @@ color: #fff;
 - Martin Dupont (프랑스이지만 Minimal Wave의 맥락에서 재평가됨)
 
 전자음악의 DIY 트렌드를 상징하는 사람들이 많다.
-특히 **Oppenheimer Analysis**의 'The Devil's Dancers'는 이후 Minimal Wave Records에서 재발매되어 시그니처곡이 되었습니다.
+특히 **Oppenheimer Analysis**의 'The Devil's Dancers'는 이후 Minimal Wave Records를 통해 재발매되어 시그니처곡이 되었습니다.
 
 ### ● 프랑스/벨기에: Coldwave의 중심
 - 삼염색체 21(FR)
@@ -214,7 +214,7 @@ Minimal Wave/Coldwave는 90년대에는 거의 잊혀졌으나 2000년대에 들
 
 ### ● 망명당(프랑스)
 - 1980년대 후반 활동
-- *Picture One*(1988) 등 높은 평가를 받음
+- *Picture One*(1988) 등이 높은 평가를 받음
 
 ### ● TR/ST(캐나다)
 - 현대 한파

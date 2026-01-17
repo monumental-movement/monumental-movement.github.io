@@ -8,7 +8,7 @@ layout: post
 permalink: /ko/pickup-cassette/
 tags:
 - Cassette
-title: 픽업 카세트 테이프 작동
+title: 카세트 테이프 작동
 ---
 
 

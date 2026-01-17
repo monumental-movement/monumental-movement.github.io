@@ -20,7 +20,7 @@ title: '[칼럼] 딥하우스란? ─ 소울과 재즈의 온도를 하우스에
 
 글 : mmr │ 주제 : 역사와 맥락을 접목하며 조용히 진화를 이어가는 장르 딥하우스.
 
-딥 하우스(Deep House)는 1980년대 후반 시카고-뉴저지 지역에서 생겨난 일종의 하우스입니다. 소울/재즈의 하모니와 부드러운 베이스, 절제된 그루브가 특징으로, 급상승보다는 '깊고 길며 몸을 따뜻하게 하는' 댄스음악의 일종이다. BPM은 일반적으로 118~124(느리거나 중간 속도)이며, 7/9 코드, 전자 피아노(Rhodes), 오르간(Korg M1 시리즈) 및 여유로운 보컬이 상징적입니다. 플로어와 청취 모두에 유효한 "밤 온도"를 가지고 있습니다.
+딥하우스(Deep House)는 1980년대 후반 시카고-뉴저지 지역에서 등장한 일종의 하우스입니다. 소울/재즈의 하모니와 부드러운 베이스, 절제된 그루브가 특징으로, 급상승보다는 '깊고 길며 몸을 따뜻하게 하는' 댄스음악의 일종이다. BPM은 일반적으로 118~124(느리거나 중간 속도)이며, 7/9 코드, 전자 피아노(Rhodes), 오르간(Korg M1 시리즈) 및 여유로운 보컬이 상징적입니다. 바닥과 청취 모두에 유효한 "밤 온도"를 가지고 있습니다.
 
 
 <hr>
@@ -29,11 +29,11 @@ title: '[칼럼] 딥하우스란? ─ 소울과 재즈의 온도를 하우스에
 
 **1985-90: 초기 초기(시카고/뉴저지)**
 
-[래리 허드(미스터 핑거스)](https://amzn.to/4q97ot4)는 'Can You Feel It'과 'Mystery of Love'의 프로토타입을 선보인다. [Frankie Knuckles](https://amzn.to/4nUwWJ4)와 [Marshall Jefferson](https://amzn.to/3KOf4AV)의 흐름을 따라 Jersey Garage의 감미로운 소울 느낌([Blaze](https://amzn.to/4ooZuuc)과 [Kerri Chandler](https://amzn.to/4qbd4CR))이 융합되었습니다.
+[래리 허드(미스터 핑거스)](https://amzn.to/4q97ot4)는 'Can You Feel It'과 'Mystery of Love'의 프로토타입을 선보인다. [Frankie Knuckles](https://amzn.to/4nUwWJ4)와 [Marshall Jefferson](https://amzn.to/3KOf4AV)의 흐름에 이어 Jersey Garage([Blaze](https://amzn.to/4ooZuuc)와 [Kerri Chandler](https://amzn.to/4qbd4CR))의 달콤한 소울 느낌이 융합되었습니다.
 
 **1990년대: 심화 및 다양화**
 
-시카고의 [Ron Trent & Chez Damier(처방전)](https://amzn.to/4nOApsp), 뉴욕의 [MAW(Masters At Work)](https://amzn.to/3KTsg7y), 디트로이트의 [Moodymann](https://amzn.to/4h9ZZWB)은 "검은색" 질감을 확장합니다. 영국과 독일의 기지 수가 늘어나 딥과 기술 간의 가교가 만들어질 것입니다.
+시카고의 [Ron Trent & Chez Damier(처방전)](https://amzn.to/4nOApsp), 뉴욕의 [MAW(Masters At Work)](https://amzn.to/3KTsg7y), 디트로이트의 [Moodymann](https://amzn.to/4h9ZZWB)은 "검은색" 질감을 확장합니다. 영국과 독일의 기지 수가 늘어나 딥과 기술 간의 가교가 될 것입니다.
 
 **2000년대: 듣기 지향성과 정교함**
 
@@ -67,7 +67,7 @@ Anjunadeep과 All Day I Dream은 멜로디/유기농 음악으로 전환했습�
 
 **코어**: Ron Trent & Chez Damier(처방전) / Moodymann(KDJ) / MAW(Nuyorican Soul 포함)
 
-**2000년대 세련미**: Jimpster(Freerange) / Miguel Migs & Blue Six(Naked Music)
+**2000년대 정교함**: Jimpster(Freerange) / Miguel Migs & Blue Six(Naked Music)
 
 **모던 ~ 멜로딕**: Âme/Dixon(Innervisions)/Maya Jane Coles
 
@@ -79,7 +79,7 @@ Anjunadeep과 All Day I Dream은 멜로디/유기농 음악으로 전환했습�
 
 “처음 3개 조각”
 
-- 미스터 핑거스 - 기억상실증
+- 미스터 핑거스 – 기억상실증
 
 - 론 트렌트 – Altered States
 
@@ -113,7 +113,7 @@ Anjunadeep과 All Day I Dream은 멜로디/유기농 음악으로 전환했습�
 
 - 매칭키(음조)와 테세라(음색) : 인접한 키/밀접한 음색의 곡을 선택하여 분위기를 파괴하지 않도록 합니다.
 
-- 다이내믹 웨이브: "열을 조금 올렸다가 빠르게 회복" 30~45분 동안 진행합니다.
+- 다이내믹한 파도: "열을 조금 올렸다가 빨리 회복시키세요" 30~45분 동안.
 
 - 너무 빠르지 않은 BPM 설정 : 118~121에 '보폭'을 만들고 후반부에는 122~124로 이동합니다.
 
@@ -139,7 +139,7 @@ Anjunadeep과 All Day I Dream은 멜로디/유기농 음악으로 전환했습�
 
 ### 풍경과 문화
 
-**위치**: 작은 상자/바닥/근무 시간 이후에 강력합니다.
+**위치**: 작은 상자/하층/영업 시간 이후에 강력합니다.
 
 **듣는 맥락**: 심야 드라이브, 업무/공부 BGM, 칵테일 타임.
 
@@ -176,13 +176,13 @@ Anjunadeep과 All Day I Dream은 멜로디/유기농 음악으로 전환했습�
 
 <hr>
 
-### 빠른 음반(소개곡 10곡)
+### 빠른 디스코그래피(소개곡 10곡)
 
-·씨. 핑거스 - '느끼나요'
+·씨. 핑거스 - '느껴지나요'
 
 ・래리 허드(Larry Heard)가 미스터 화이트(Mr. White)를 선보입니다 – “The Sun Can’t Compare”
 
-・케리 챈들러 – “대기권”
+・케리 챈들러 – “Atmosphere”
 
 ・론 트렌트 – “Altered States”
 
@@ -203,4 +203,4 @@ Anjunadeep과 All Day I Dream은 멜로디/유기농 음악으로 전환했습�
 
 ### 한 순간이 아닌 시간을 두고 즐길 수 있는 음악
 
-딥하우스는 시간이 지나도 즐길 수 있는 음악이다. 단번에 눈에 띄는 히트보다는 플로어와 청취자들의 싱크를 맞추는 '편안한 지속'이 있다. 역사적 기원부터 현재의 서브스타일까지, 프로듀싱과 디제잉의 비법까지 모두 이해한다면 선택과 감상의 폭이 훨씬 깊어질 수 있을 것입니다.
+딥하우스는 시간이 지나도 즐길 수 있는 음악이다. 단번에 눈에 띄는 히트보다는 플로어와 청취자들을 싱크로하게 만드는 '편안한 지속'이 있다. 역사적 기원부터 현재의 서브스타일까지, 프로듀싱과 디제잉의 비법까지 모두 이해한다면 선택과 감상의 폭이 훨씬 깊어질 수 있을 것입니다.

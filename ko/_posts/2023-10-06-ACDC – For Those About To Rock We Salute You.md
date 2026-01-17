@@ -9,7 +9,7 @@ permalink: /ko/acdc-for-those-about-to-rock-we-salute-you/
 tags:
 - Rock
 - Hard Rock
-title: ACDC – 락을 시작하려는 사람들에게 경의를 표합니다
+title: ACDC – 락을 시작하려는 분들에게 경의를 표합니다
 ---
 
 

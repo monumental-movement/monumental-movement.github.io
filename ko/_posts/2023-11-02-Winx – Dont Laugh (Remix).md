@@ -9,13 +9,13 @@ permalink: /ko/winx-dont-laugh-remix/
 tags:
 - Techno
 - Remix
-title: Winx – Don't Laugh (Remix)
+title: Winx - 웃지 마 (리믹스)
 ---
 
 
-B面はRichie Hawtin(リッチーホゥティン/リッチーホウティン)によるremix。
+B-side는 Richie Hawtin의 리믹스입니다.
 
-Richie Hawtin Remixは、真のクラシックとも言えるトラックでドラムプログラミング、パンニング、そして音量の使い方が特筆すべき点でしょう。
+Richie Hawtin Remix는 드럼 프로그래밍, 패닝 및 볼륨 사용으로 유명한 진정한 클래식입니다.
 
 #### 트랙리스트
 ```md

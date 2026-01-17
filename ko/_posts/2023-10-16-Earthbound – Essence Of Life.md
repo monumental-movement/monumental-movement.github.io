@@ -9,7 +9,7 @@ permalink: /ko/earthbound-essence-of-life/
 tags:
 - Trance
 - Progressive
-title: 지구에 묶인 – 생명의 정수
+title: Earthbound – 생명의 정수
 ---
 
 

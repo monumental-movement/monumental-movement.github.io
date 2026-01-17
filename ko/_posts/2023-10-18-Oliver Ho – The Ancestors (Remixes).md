@@ -13,7 +13,7 @@ title: 올리버 호 – The Ancestors (리믹스)
 ---
 
 
-Oliver Ho는 런던에 거주하는 DJ/프로듀서입니다. "The Ancestors (Remixes)"는 하드 미니멀 테크노를 전문으로 하는 독일 테크노 레이블인 Fine Audio Recordings에 의해 2002년에 발매되었습니다.
+Oliver Ho는 런던에 기반을 둔 DJ/프로듀서입니다. "The Ancestors (Remixes)"는 하드 미니멀 테크노를 전문으로 하는 독일 테크노 레이블인 Fine Audio Recordings에 의해 2002년에 발매되었습니다.
 
 B-side는 영국 런던 출신의 DJ/프로듀서인 Ben Sims의 리믹스입니다.
 

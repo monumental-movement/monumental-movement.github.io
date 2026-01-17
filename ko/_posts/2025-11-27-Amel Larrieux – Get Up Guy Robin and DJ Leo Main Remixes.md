@@ -11,7 +11,7 @@ tags:
 - House
 - Deep House
 - 00s
-title: Amel Larrieux – Get Up (Guy Robin 및 DJ Leo Main Remixes)
+title: Amel Larrieux – Get Up (Guy Robin 및 DJ Leo 메인 리믹스)
 ---
 
 

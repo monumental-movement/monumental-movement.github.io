@@ -13,7 +13,7 @@ title: 뉴 웨이브 작품을 픽업하세요
 ---
 
 
-"독특한 신디사이저 사운드와 아방가르드한 리듬이 인상적인 뉴 웨이브(New-Wave) 작품들로 이루어진 주목할만한 그룹."
+"독특한 신디사이저 사운드와 아방가르드한 리듬이 인상적인 뉴 웨이브(New-Wave) 작품군."
 
 <hr>
 
@@ -47,7 +47,7 @@ B. The Flirting Kind
 <br>
 
 
-### Buggles - 플라스틱 시대
+### 버글 – 플라스틱의 시대
 <a href="https://jp.mercari.com/item/m56132888760?afid=6142608987"><img src="../assets/images/Buggles%20%E2%80%93%20The%20Age%20Of%20Plastic.webp"></a>
 
 발매: 2025년 5월 1일 게시. The Buggles(Trevor Horn과 Geoff Downes로 구성된 영국 뉴 웨이브 유닛)의 데뷔 앨범.
@@ -209,7 +209,7 @@ B6. Working In The Coal Mine
 
 발매: 2023년 10월 13일 게시. 영국의 싱어송라이터 Colín Vearncombe의 솔로명 Black의 작품.
 
-추천 포인트 : 섬세한 멜로디와 멜랑콜리한 가사가 어우러진 뉴 웨이브/록 곡. 깊은 세계관이 매력적이다.
+추천 포인트 : 섬세한 멜로디와 멜랑콜리한 가사가 결합된 뉴 웨이브/록 곡. 깊은 세계관이 매력적이다.
 
 #### 트랙리스트
 ```md

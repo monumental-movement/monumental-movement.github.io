@@ -14,7 +14,7 @@ title: DJ Antoine 대 Mad Mark Pres. 하우스 로커스 - Reachin' 4 The Top
 ---
 
 
-DJ Zki & Dobre가 설립한 네덜란드 하우스 레이블인 Fresh Fruit Records에서 2000년에 발매한 DJ Antoine & Madmark의 하우스/차고 하우스 트랙입니다.
+DJ Zki & Dobre가 설립한 네덜란드 하우스 레이블인 Fresh Fruit Records에서 2000년에 발표한 DJ Antoine & Madmark의 하우스/차고 하우스 트랙입니다.
 
 #### 트랙리스트
 ```md

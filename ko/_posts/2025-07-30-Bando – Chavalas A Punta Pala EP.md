@@ -10,7 +10,7 @@ tags:
 - Tribal
 - Techno
 - 00s
-title: Bando – Chavalas A Punta Pala EP
+title: 반도 – Chavalas A Punta Pala EP
 ---
 
 

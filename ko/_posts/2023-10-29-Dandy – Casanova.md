@@ -9,11 +9,11 @@ permalink: /ko/dandy-casanova/
 tags:
 - Euro Beat
 - Hi NRG
-title: Dandy – Casanova
+title: 댄디 – 카사노바
 ---
 
 
-Dandy（ダンディ）の「Casanova（カサノバ）」は、イタリアのレーベルFlea Recordsから1989年にリリースされました。
+Dandy의 "Casanova"는 1989년 이탈리아 레이블 Flea Records에서 발매되었습니다.
 
 #### 트랙리스트
 ```md

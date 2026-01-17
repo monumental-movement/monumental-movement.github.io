@@ -9,11 +9,11 @@ permalink: /ko/player-player-fourteen/
 tags:
 - Techno
 - UK Techno
-title: Player – Player Fourteen
+title: 플레이어 – 플레이어 14
 ---
 
 
-Playerは、Jon Nuccle、Mark Turner、Pete Simpson、Richard Wilkinsonなど多彩なメンバーからなるテクノ集団。
+Player는 Jon Nuccle, Mark Turner, Pete Simpson, Richard Wilkinson 등 다양한 멤버로 구성된 테크노 그룹입니다.
 
 #### 트랙리스트
 ```md

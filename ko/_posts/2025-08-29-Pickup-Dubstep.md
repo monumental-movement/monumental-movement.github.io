@@ -21,7 +21,7 @@ title: Dubstep 작품 픽업
 ### Benga & Walsh Vs Darqwan – 중독자 / Megatection
 <a href="https://jp.mercari.com/item/m84498913064?afid=6142608987"><img src="../assets/images/Benga%20and%20Walsh%20Vs%20Darqwan%20%E2%80%93%20Addicts%20Megatection.webp"></a>
 
-특징 : 각기 다른 접근 방식을 가진 세 사람이 각 면을 맡아 양면적인 구성이 매력적인 작품이다.
+특징 : 각기 다른 접근 방식을 가진 세 사람이 각 면을 담당해 양면적인 구성이 매력적인 작품이다.
 
 
 이유: Benga의 베이스 깊이, Walsh의 그루브, Darqwan의 독창성이 각 트랙에서 빛을 발합니다.
@@ -76,7 +76,7 @@ B. Cosmic Minefield
 특징: 덥스텝 씬 탄생부터 선두를 지켜온 디스턴스(Distance), 스크림(Skream), 일본을 대표하는 고스-트라드(Goth-Trad)의 조합은 꿈의 콜라보레이션이다.
 
 
-매력 : Skream은 원곡의 본질을 살린 '파괴적인 비트'인 반면, Goth-Trad는 어둡고 질감 중심으로 재구성한 것으로, 한 앨범에 담긴 전혀 반대되는 사운드 이미지라고 할 수 있다. 이 아이템은 클래식으로서 큰 가치를 지니고 있으며 아날로그 매니아와 DJ들로부터 높은 수요를 보이고 있습니다.
+매력 : Skream은 원곡의 본질을 살린 '파괴적인 비트'라면, Goth-Trad는 어둡고 질감 중심으로 재구성한 곡으로, 한 앨범에 담긴 전혀 반대되는 사운드 이미지라고 할 수 있다. 이 아이템은 클래식으로서 큰 가치를 갖고 있으며 아날로그 매니아와 DJ들로부터 높은 수요를 보이고 있습니다.
 
 #### 트랙리스트
 ```md
@@ -98,9 +98,9 @@ B. Traffic (Goth-Trad Remix)
 ### Skrillex – 무서운 괴물과 멋진 스프라이트
 <a href="https://jp.mercari.com/item/m86556698095?afid=6142608987"><img src="../assets/images/Skrillex%20%E2%80%93%20Scary%20Monsters%20And%20Nice%20Sprites.webp"></a>
 
-특징: Skrillex의 이름을 전 세계적으로 확립한 EP이며, 특히 "Scary Monsters And Nice Sprites"는 덥스텝을 주류로 끌어올린 기념비적인 작품으로 평가됩니다.
+특징: Skrillex의 이름을 세계적으로 확립한 EP이며, 특히 "Scary Monsters And Nice Sprites"는 덥스텝을 주류로 끌어올린 기념비적인 작품으로 평가됩니다.
 
-Appeal : Noisia, Zedd, Bare Noize 등 유명 프로듀서들의 리믹스를 수록해, 각 아티스트 관점에서 곡의 새로운 매력을 끌어낸다.
+Appeal : Noisia, Zedd, Bare Noize 등 유명 프로듀서들의 리믹스를 수록해 각 아티스트의 관점에서 곡의 새로운 매력을 끌어낸다.
 
 #### 트랙리스트
 ```md
@@ -132,7 +132,7 @@ Appeal : Noisia, Zedd, Bare Noize 등 유명 프로듀서들의 리믹스를 수
 특징: 1996~97년 Moving Shadow 레이블로 발매된 이 앨범은 지나치게 재즈적인 사운드에서 벗어나 부드럽고 감성적인 피아노 섹션이 특징인 '부드러운' 브레이크비트를 제공합니다. 마치 자장가처럼 잔잔한 느낌이 들고, 덥스텝과 비슷한 묵직한 베이스의 질감도 느낄 수 있습니다.
 
 
-매력: 덥스텝의 어둡고 깊은 베이스라인과 비트를 좋아하는 분들이 듣기에 좋은 앨범입니다.
+매력: 덥스텝의 어둡고 깊은 베이스라인과 비트를 좋아하는 분들이 듣기 좋은 앨범입니다.
 
 
 #### 트랙리스트

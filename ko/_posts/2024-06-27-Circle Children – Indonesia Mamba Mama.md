@@ -10,7 +10,7 @@ tags:
 - House
 - Tribal House
 - 90s
-title: 어린이 동아리 – 인도네시아 맘바 마마
+title: 어린이 모임 – 인도네시아 맘바 마마
 ---
 
 

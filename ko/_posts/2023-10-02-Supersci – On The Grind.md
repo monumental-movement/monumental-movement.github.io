@@ -14,7 +14,7 @@ title: Supersci – 갈기에서
 
 
 '온 더 그라인드'는
-스웨덴 레이블 "Flyphonic Phonogram"이 2006년에 발매한 SUPERSCI의 앨범 "Pinetrees On The Pavement"의 싱글 컷입니다.
+2006년 스웨덴 레이블 "Flyphonic Phonogram"을 통해 발매된 SUPERSCI의 앨범 "Pinetrees On The Pavement"의 싱글 컷입니다.
 
 #### 트랙리스트
 ```md

@@ -8,11 +8,11 @@ layout: post
 permalink: /ko/soul-purpose-indulge/
 tags:
 - House
-title: 영혼의 목적 - 탐닉
+title: 영혼의 목적 – 탐닉
 ---
 
 
-Soul Purpose, 일명 Martin Ikin(DJ Mayhem으로도 알려짐)은 90년대 초반부터 Basement, Face 및 Precious Materials와 같은 레이블을 위해 하드코어, 정글 테크노, 드럼 및 베이스 트랙을 제작해 왔습니다.
+Martin Ikin(DJ Mayhem으로도 알려짐)으로 알려진 Soul Purpose는 90년대 초반부터 Basement, Face 및 Precious Materials와 같은 레이블을 위해 하드코어, 정글 테크노, 드럼 및 베이스 트랙을 제작해 왔습니다.
 
 이후 DJ Phantasy와 협업해 미국 스타일의 하우스 뮤직과 정글 트랙을 선보이고 있다.
 

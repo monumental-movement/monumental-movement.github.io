@@ -9,14 +9,14 @@ permalink: /ko/mauro-picotto-lizard/
 tags:
 - Trance
 - Hard Trance
-title: Mauro Picotto – Lizard
+title: 마우로 피코토 - 도마뱀
 ---
 
 
-Mauro Picotto（マウロ・ピコット ）は、90年代初頭から活躍するイタリア出身のプロデューサー兼 DJ 。 DJ TiëstoやMario Piuなど数多くのエレクトロニカ/トランス ミュージシャンとコラボレーションしている。
-「Lizard」は、1998年にEmpire State RecordsからリリースされたMauro Picottoの代表曲の一つ。
+마우로 피코토(Mauro Picotto)는 1990년대 초반부터 활동해온 이탈리아의 프로듀서이자 DJ이다. 그는 DJ Tiësto, Mario Piu 등 수많은 일렉트로니카/트랜스 뮤지션들과 협력해왔습니다.
+"Lizard"는 1998년 Empire State Records에서 발매된 Mauro Picotto의 시그니처 곡 중 하나입니다.
 
-A面はAndrea RemondiniとMauro PicottoによるユニットMegavoicesによるremix。
+Side A는 Andrea Remondini와 Mauro Picotto로 구성된 유닛 Megavoices의 리믹스입니다.
 
 #### 트랙리스트
 ```md

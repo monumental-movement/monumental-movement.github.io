@@ -16,7 +16,7 @@ title: 클랙슨 - 골든 스칸스
 
 2005년 영국 뉴 크로스에서 결성된 록 밴드 Klaxons의 "Golden Skans" 리믹스입니다.
 
-A면의 첫 번째 트랙은 Ed Banger Records/Ed Rec 소속 일렉트로닉 뮤지션이자 DJ인 SebastiAn의 리믹스입니다.
+A면의 첫 번째 트랙은 Ed Banger Records/Ed Rec에 소속된 일렉트로닉 뮤지션이자 DJ인 SebastiAn의 리믹스입니다.
 
 Side A의 두 번째 트랙은 Para One, Bobmo와 함께 Marble 레이블을 운영하는 프랑스 프로듀서 Surkin의 리믹스입니다.
 

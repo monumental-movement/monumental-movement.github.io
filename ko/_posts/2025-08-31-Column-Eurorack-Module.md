@@ -19,7 +19,7 @@ title: '[칼럼] Eurorack 모듈러 신디사이저의 변화와 음악계에 �
 
 글: mmr|주제: Eurorack 모듈러 신디사이저의 변화와 음악계에 미치는 영향
 
-Eurorack 모듈형 신디사이저는 1990년대 초 독일 엔지니어 Dieter Doepfer가 발명했습니다. 그의 A-100 시스템을 출발점으로 모듈 크기와 전원 공급 장치 표준을 표준화함으로써 다양한 제조업체의 모듈을 자유롭게 결합할 수 있는 시스템이 탄생했습니다.
+Eurorack 모듈형 신디사이저는 1990년대 초 독일 엔지니어 Dieter Doepfer가 발명했습니다. 그의 A-100 시스템을 시작으로 모듈 크기와 전원 공급 장치 규격을 표준화함으로써 다양한 제조업체의 모듈을 자유롭게 결합할 수 있는 시스템이 탄생했습니다.
 
 전통적인 Moog 및 Bucla보다 더 작고 저렴한 Eurorack은 많은 음악가와 애호가들의 지지를 얻었으며 현재 전 세계 300개 이상의 제조업체가 참여하는 대규모 생태계로 발전했습니다.
 
@@ -148,7 +148,7 @@ Coldplay 및 Nine Inch Nails와 같은 밴드도 Eurorack을 수용하여 작곡
 
 ### Surgeon's Live 설정의 특징
 
-Surgeon의 라이브 설정은 최소한의 장비로 최대의 표현을 추구하는 것이 특징입니다. 그는 복잡한 장비 조합보다는 제한된 수의 모듈을 사용하여 즉흥적으로 연주합니다. 이는 관객과의 일체감과 예측 불가능성을 만들어 라이브 테크노 공연에 새로운 차원을 선사합니다.
+Surgeon의 라이브 셋업은 최소한의 장비로 최대의 표현력을 추구하는 것이 특징입니다. 그는 복잡한 장비 조합보다는 제한된 수의 모듈을 사용하여 즉흥적으로 연주합니다. 이는 관객과의 일체감과 예측 불가능성을 만들어 라이브 테크노 공연에 새로운 차원을 선사합니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YzbRHySXq9s?si=opHMYGQNVsB-7qI6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

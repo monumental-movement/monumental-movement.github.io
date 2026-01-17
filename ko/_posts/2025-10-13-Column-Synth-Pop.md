@@ -88,7 +88,7 @@ Prince는 이러한 추세를 이어가며 미니애폴리스 사운드라는 �
 
 MTV의 등장은 신스팝의 확산에도 박차를 가했다.
 마돈나, 신디 로퍼, 마이클 잭슨 등 비주얼과 사운드가 점점 통합되면서 일렉트로닉 사운드가 하나의 '스타일'로 소비되기 시작했습니다.
-크라프트베르크의 아이디어가 미국 대중문화의 화려한 거울로 투영되는 순간이었다.
+크라프트베르크의 아이디어가 미국 대중문화의 화려한 거울에 투영되는 순간이었다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m4s7Vjp4Qkc?si=GiI4LjuHuA20G8BI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -98,7 +98,7 @@ MTV의 등장은 신스팝의 확산에도 박차를 가했다.
 
 그 무렵, 도쿄에서는 조용한 혁명이 시작되고 있었습니다.
 1978년 YMO(Yellow Magic Orchestra)가 프로듀스한 사운드는 단순한 모방이 아닌 일렉트로닉 음악을 '아시아적 맥락'으로 재해석한 것이었습니다.
-사카모토 류이치의 음악 이론, 호소노 하루오미의 팝 감성, 다카하시 유키히로의 리듬 감성: YMO의 사운드는 세계화 초기 일본이 세계에 선보인 최초의 '전자 보이스'였다.
+사카모토 류이치의 음악 이론, 호소노 하루오미의 팝 감성, 다카하시 유키히로의 리듬감: YMO의 사운드는 세계화 초기 일본이 세계에 발표한 최초의 '일렉트로닉 보이스'였습니다.
 
 사카모토 류이치는 나중에 이렇게 말했습니다.
 > "기술은 음악을 더욱 인간답게 만드는 방법입니다."
@@ -126,7 +126,7 @@ MTV의 등장은 신스팝의 확산에도 박차를 가했다.
 
 YMO의 영향력은 바다를 건너 많은 아티스트에게 퍼졌습니다.
 Daft Punk는 인터뷰에서 Ryuichi Sakamoto의 사운드 디자인을 칭찬했으며, 그들의 멜로디 감각은 분명히 일본 미니멀리즘의 영향을 받았습니다.
-라디오헤드의 'Kid A'는 '일렉트로닉 사운드로 감정을 표현한다'는 YMO의 생각을 성찰적으로 발전시킨 곡이다.
+라디오헤드의 'Kid A'는 YMO가 제시한 '일렉트로닉 사운드로 감정을 표현한다'는 아이디어를 더욱 성찰적으로 발전시킨 작품이다.
 "Everything in Its Right Place"는 마치 "BGM"과 "Technodelic"의 유령이 다시 살아난 것처럼 차갑고 아름답습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eOIHri4Jr-g?si=bcq15iuGffAiyAMv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -148,16 +148,16 @@ Grimes, Charli XCX, SOPHIE를 포함한 "네오 신스팝" 세대 역시 일본 
 이것은 '정확성'을 위한 도구가 아니라 '인간의 모호함'을 강조하기 위해 사용된 브러시였습니다.
 기계적인 것이 감정적일 수 있다는 것이 신스팝의 역설적인 매력입니다.
 
-21세기에는 '불완전성의 미학'이 재평가되고 있다.
+21세기에는 '불완전함의 미학'이 재평가되고 있다.
 Grimes의 목소리 흔들림, Charli XCX의 AI 보컬 처리, Yaeji의 모국어 혼합.
 이 모든 것은 '불완전한 소리'가 인간성을 전달한다는 것을 증명합니다.
-AI 작곡이 발전하면서 신스팝의 '인간적 인위성'은 음악의 마지막 낭만주의가 될 수도 있다.
+AI 작곡이 진화하면서 신스팝의 '인간적 인위성'은 음악의 마지막 낭만주의가 될 수도 있다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X73VZJKrPIc?si=nZlS67Av7Y748O_a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 7장 추천 재생목록(연령대 안내)
+## 7장 추천 재생목록 (연령대 안내)
 
 ### 1970년대: 새벽과 실험
 - Kraftwerk "로봇"
@@ -183,17 +183,17 @@ AI 작곡이 발전하면서 신스팝의 '인간적 인위성'은 음악의 마
 ### 2020년대: 포스트 AI 팝 시대
 - 캐롤라인 폴라체크 <토끼는 라이더>
 - 예지 '당연히'
-- A.G. 쿡 “아름답다”
+- A.G.쿡 '아름다워'
 
 ---
 
 ## 8장 결론: 일렉트로닉 사운드는 '미래의 향수'를 말한다
 
 신스팝은 "미래의 소리"이자 "과거에 대한 향수의 소리"입니다.
-왜 우리는 1980년대의 차가운 일렉트로닉 사운드에 감동을 받는 걸까요? '미래를 믿었던 시대의 온도'가 담겨 있기 때문이다.
+우리는 왜 1980년대의 차가운 일렉트로닉 사운드에 감동을 받는 걸까? '미래를 믿었던 시대의 온도'가 담겨 있기 때문이다.
 디지털 기술이 발전하고 AI가 음악을 작곡하기 시작한 지금도 인간은 기계의 소리 속에서 '나'를 계속해서 찾고 있다.
 
-류이치 사카모토가 끝까지 질문했던 '기술과 감성의 관계'는 이제 다시 한번 최전선의 주제가 됐다.
+류이치 사카모토가 끝까지 질문한 '기술과 감성의 관계'는 이제 다시 한번 최전선의 주제가 됐다.
 그리고 그 계보 어딘가에는 YMO의 전자적 미소, Perfume의 폴리리듬, Charli XCX의 픽셀화된 눈물이 있습니다.
 
 미래는 항상 전자의 꿈 속에서 울려퍼지고 있습니다.
@@ -250,7 +250,7 @@ flowchart TD
 
 - **Q1. 신스팝과 테크노팝의 차이점은 무엇인가요? **
 
-A1. 신스팝(Synthpop)은 팝송에 일렉트로닉 사운드를 접목시킨 장르이고, 테크노팝(technopop)은 이를 일본식으로 해석한 장르이다. YMO가 대표적인 예이다.
+A1. 신스팝(Synthpop)은 일렉트로닉 사운드를 팝송에 접목시킨 장르이고, 테크노팝(technopop)은 이를 일본식으로 해석한 장르이다. YMO가 대표적인 예이다.
 
 - **Q2. 80년대 대표적인 신스팝 아티스트는 누구인가요? **
 

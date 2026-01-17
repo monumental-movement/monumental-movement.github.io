@@ -16,7 +16,7 @@ title: T99 – 아나스타샤
 
 
 T99는 80년대 후반과 90년대 초반에 활동한 벨기에 듀오였습니다.
-T99는 원래 Patrick De Meyer의 솔로 프로젝트였지만 Patrick이 Olivier Abbeloos의 노래 'Anastasia'를 듣고 Abbeloos가 T99로 발매하자고 제안한 후 T99는 Patrick De Meyer와 Olivier Abbeloos의 녹음이 되었습니다.
+T99는 원래 Patrick De Meyer의 솔로 프로젝트였지만 Patrick이 Olivier Abbeloos의 노래 'Anastasia'를 듣고 Abbeloos가 T99로 발매하자고 제안한 후 T99는 Patrick De Meyer와 Olivier Abbeloos 녹음이 되었습니다.
 
 "Anastasia"는 레이브와 댄스 음악을 발매하는 영국 독립 레이블인 XL Recordings가 1991년에 발매한 테크노 브레이크비트 하드코어 트랙입니다.
 

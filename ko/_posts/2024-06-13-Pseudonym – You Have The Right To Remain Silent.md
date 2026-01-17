@@ -17,7 +17,7 @@ title: 가명 – 당신은 묵비권을 행사할 권리가 있습니다
 
 프로듀서는 영국의 DJ/프로듀서 Ian Levine과 에너지 넘치는 프로듀서 Steven Wagner입니다. Ian Levine은 영국 북부 소울 음악을 현대화했으며 Hi NRG 스타일의 창시자로도 알려져 있습니다.
 
-"You Have The Right To Remain Silent"는 1988년 Hi-NRG를 전문으로 하는 Nightmare Records의 하위 레이블인 Saturday Records에서 발매된 에너지 넘치는 유로하우스의 디스코 트랙입니다.
+"You Have The Right To Remain Silent"는 Hi-NRG를 전문으로 하는 Nightmare Records의 하위 레이블인 Saturday Records에서 1988년에 발매된 고에너지 유로하우스 디스코 트랙입니다.
 
 #### 트랙리스트
 ```md

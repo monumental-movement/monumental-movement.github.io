@@ -21,7 +21,7 @@ title: 숀 에스코퍼리 - 스페이스 라이더
 
 
 
-"Space Rider"는 영국 소울/R&B 가수 Shaun Escoffery의 메이저 데뷔 싱글입니다. 2001년 Oyster Music 레이블이 발표한 히트곡으로 BBC Radio 1의 DJ Trevor Nelson과 Dreem Teem이 많이 연주했습니다.
+"Space Rider"는 영국 소울/R&B 가수 Shaun Escoffery의 메이저 데뷔 싱글입니다. 2001년 Oyster Music 레이블에서 발매된 히트곡으로 BBC Radio 1의 DJ Trevor Nelson과 Dreem Teem이 많이 연주했습니다.
 
 A1은 영국의 차고 DJ/프로듀서/리믹서 MJ Cole의 리믹스입니다.
 

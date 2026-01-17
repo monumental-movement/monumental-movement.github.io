@@ -10,7 +10,7 @@ tags:
 - Minimal
 - Ambient
 - 00s
-title: 데이비드 도노호 - 네이처 모트!
+title: 데이비드 도노호 – 네이처 모트!
 ---
 
 

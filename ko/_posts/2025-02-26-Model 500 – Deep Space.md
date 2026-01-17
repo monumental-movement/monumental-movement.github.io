@@ -9,7 +9,7 @@ permalink: /ko/model-500-deep-space/
 tags:
 - Techno
 - 90s
-title: 모델 500 - 딥 스페이스
+title: 모델 500 – 딥 스페이스
 ---
 
 

@@ -9,7 +9,7 @@ permalink: /ko/love-boat-people-3-some-too-the-other-woorld-dontcha-know/
 tags:
 - House
 - Disco
-title: 러브 보트 피플 – 3 Some Too The Other World Dontcha Know
+title: Love Boat People – 3 Some Too The Other World Dontcha Know
 ---
 
 

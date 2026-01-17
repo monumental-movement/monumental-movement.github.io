@@ -9,11 +9,11 @@ permalink: /ko/cyndi-cee-starting-over/
 tags:
 - Hi NRG
 - 80s
-title: Cyndi Cee – Starting Over
+title: Cyndi Cee – 다시 시작
 ---
 
 
-1987年にカナダのレーベルBoulevard RecordsからリリースされたHi NRG(ハイエナジー)。カナダのレコードプロデューサーVincent DeGiorgioやAllan Coelhoが作曲&プロデュースしたダンストラック。
+Hi NRG(High Energy)는 1987년 캐나다 레이블 Boulevard Records에서 발매되었습니다. 캐나다 음반 프로듀서 Vincent DeGiorgio와 Allan Coelho가 작곡하고 프로듀싱한 댄스 트랙입니다.
 
 
 #### 트랙리스트

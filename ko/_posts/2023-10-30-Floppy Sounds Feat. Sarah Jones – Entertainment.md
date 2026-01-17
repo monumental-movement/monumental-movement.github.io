@@ -9,15 +9,15 @@ permalink: /ko/floppy-sounds-feat-sarah-jones-entertainment/
 tags:
 - House
 - Deep House
-title: Floppy Sounds Feat. Sarah Jones – Entertainment
+title: 플로피 사운드 Feat. 사라 존스 - 엔터테인먼트
 ---
 
 
-Floppy Soundsこと、Rob Rives(ロブ・リブス)はNYブルックリンを拠点とするUSモダンダンスシーンのプロデューサー兼エンジニア。
+Floppy Sounds로도 알려진 Rob Rives는 뉴욕 브루클린에 거주하는 미국 현대 무용계의 프로듀서이자 엔지니어입니다.
 
-ヴォーカルにSarah Jones(サラ・ジョーンズ)を迎えた「Entertainment」は、Francois Kevorkian(フランソワ・ケヴォーキアン)のレーベルWave Musicより97年にリリース。
+보컬 Sarah Jones가 출연한 "Entertainment"는 1997년 Francois Kevorkian의 레이블 Wave Music을 통해 발매되었습니다.
 
-A2の共同プロデューサーはVaughan Merrick。
+A2의 공동 프로듀서는 Vaughan Merrick입니다.
 
 #### 트랙리스트
 ```md

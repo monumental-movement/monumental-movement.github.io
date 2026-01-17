@@ -9,7 +9,7 @@ permalink: /ko/tuesdays-child-2-bad-e-p/
 tags:
 - House
 - 00s
-title: 화요일 어린이 – 2 Bad E.P.
+title: 화요일 어린이 - 2 Bad E.P.
 ---
 
 

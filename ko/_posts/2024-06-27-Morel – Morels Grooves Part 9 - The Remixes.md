@@ -10,13 +10,13 @@ tags:
 - House
 - NY House
 - 90s
-title: Morel – Morel's Grooves Part 9 - The Remixes
+title: 모렐 – 모렐의 그루브 파트 9 - 리믹스
 ---
 
 
-Morel こと George Morel（ジョージ モレル）は、90年代初期のニューヨークのガレージ・ハウスシーンの中心人物の一人と言われるNYのDJ・レコードプロデューサー。
+모렐(Morel)로도 알려진 조지 모렐(George Morel)은 1990년대 초 뉴욕 개러지 하우스 씬의 중심 인물 중 한 명으로 꼽히는 뉴욕 DJ 겸 음반 프로듀서입니다.
 
-「Morel's Grooves Part 9 - The Remixes」は、George Morelの12インチリリースシリーズの第９弾で、1996年にハウスレーベルStrictly Rhythmからリリースされたハウストラック。
+"Morel's Grooves Part 9 - The Remixes"는 1996년 하우스 레이블 Strictly Rhythm에서 발매된 하우스 트랙인 George Morel의 12인치 릴리스 시리즈 중 9번째입니다.
 
 #### 트랙리스트
 ```md

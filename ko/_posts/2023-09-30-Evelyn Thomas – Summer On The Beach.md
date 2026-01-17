@@ -10,7 +10,7 @@ tags:
 - Soul
 - Funk
 - Hi NRG
-title: 에블린 토마스 – 여름의 해변
+title: 에블린 토마스 - 해변에서의 여름
 ---
 
 

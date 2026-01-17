@@ -19,7 +19,7 @@ Wighnomy Bros는 상상조차 할 수 없는 일을 해냈습니다. 힙하고 �
 
 Slam은 글래스고 출신의 스코틀랜드 DJ 겸 프로듀서 듀오(Orde Meikle, Stuart McMillan)입니다.
 
-Soma Quality Recordings의 공동 창립자이자 Glasgow의 Atlantis 파티(1989-1992) 및 Slam 파티(1991-)의 프로모터입니다.
+Soma Quality Recordings의 공동 창립자이자 Glasgow에서 Atlantis 파티(1989-1992) 및 Slam 파티(1991-)의 프로모터입니다.
 
 우리는 1986년 셰필드에서 만났습니다. 당시 Ord는 대학에서 지리학을 공부하고 있었고 Stuart는 술집에서 일하고 있었습니다.
 

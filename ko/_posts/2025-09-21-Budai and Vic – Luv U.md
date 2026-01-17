@@ -14,7 +14,7 @@ title: Budai & Vic – Luv U
 ---
 
 
-Budai & Vic으로도 알려진 Imre Bugyik & Viktor Kámán은 2000년에 음악 제작을 시작했으며 자체 레이블인 egoist records(egotraxx records)를 설립했습니다. 2005년에는 I Love Deep Records라는 하위 레이블을 설립했습니다.
+Budai & Vic으로도 알려진 Imre Bugyik & Viktor Kámán은 2000년에 음악 제작을 시작했으며 자체 레이블인 egoist 레코드(egotraxx 레코드)를 설립했습니다. 2005년에는 I Love Deep Records라는 하위 레이블을 설립했습니다.
 
 "Luv U"는 2006년 Deep House가 I Love Deep Records를 통해 발매했습니다.
 

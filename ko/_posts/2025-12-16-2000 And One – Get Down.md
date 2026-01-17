@@ -15,7 +15,7 @@ title: 2000 앤 원 - 겟 다운(Get Down)
 
 2000 & One으로도 알려진 Dylan Hermelijn은 1980년대 후반부터 전자 음악계에서 활동해온 네덜란드 DJ/프로듀서입니다.
 
-"Get Down"은 2005년 Intacto Records에서 발매된 테크노 트랙으로, 2004년 암스테르담 DJ/프로듀서 Shinedoe와 Dylan Hermelijn의 콜라보레이션으로 시작되었습니다.
+"Get Down"은 2005년 Intacto Records에서 발매된 테크노 트랙으로, 2004년 암스테르담 DJ 겸 프로듀서 Shinedoe와 Dylan Hermelijn의 콜라보레이션으로 시작되었습니다.
 
 #### 트랙리스트
 ```md

@@ -64,7 +64,7 @@ Guillermo Scott Herren은 1976년 미국 플로리다주 마이애미에서 태�
 
 2004년에 그는 *Apropa't*를 발매했습니다. 스페인/카탈로니아 보컬, 포스트록, 라틴의 영향을 반영하며 Prefuse 73과는 다른 음악적 표현을 추구했습니다.
 
-이 프로젝트는 그에게 또 다른 자기표현의 형태로 자리매김하며, Prefuse 73의 실험성과의 관계를 포함해 그의 다각적인 음악적 활동을 보여준다.
+이번 프로젝트는 그의 자기표현의 또 다른 형태로 자리매김하며, Prefuse 73의 실험성과의 관계 등 그의 다각적인 음악적 활동을 보여준다.
 
 ---
 
@@ -84,15 +84,15 @@ MPC를 구사한 단편적인 샘플과 보컬 컷팅&페이스팅, 글리치 �
 
 *Surrounded by Silence*는 2005년 Ghostface Killah, El-P, Kazu(Blonde Redhead), The Books 등 다양한 게스트와 함께 사운드의 세계를 확장했습니다.
 
-같은 해 그는 The Books *Prefuse 73 Reads the Books*와 공동 작업한 EP를 발표하여 그의 협력 정신과 실험적 성격을 보여주었습니다.
+같은 해에 그는 The Books와 공동 작업한 EP인 *Prefuse 73 Reads the Books*를 발표하여 그의 협력 정신과 실험적 성격을 보여주었습니다.
 
 2006년에 그는 앨범 길이이지만 EP로 취급되는 *Security Screenings*를 발매했습니다.
 
-2007년에 그들은 *Preparations*를 발매했고 보너스 디스크 *Interregnums*는 주변 지향적인 음악을 선보였습니다.
+2007년에 그들은 *Preparations*를 발매했고, 보너스 디스크 *Interregnums*는 주변 지향적인 음악을 선보였습니다.
 
 ---
 
-# 라벨 설립 및 신규 개발
+# 레이블 설립 및 신규 개발
 
 Herren은 **Eastern Developments Music**을 설립하고 함께 레이블을 운영하기 시작했습니다. 또한 그는 **Yellow Year Records**를 시작하고 콜라보레이션 시리즈인 *Speak Soon*을 개발했습니다.
 

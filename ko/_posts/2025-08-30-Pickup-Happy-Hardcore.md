@@ -23,7 +23,7 @@ title: Happy Hardcore 작품을 선택하세요
 
 출시: 1994/네덜란드 해피 하드코어 걸작
 
-특징: 눈길을 끄는 멜로디와 긍정적인 에너지로 90년대 유로댄스/레이브 씬을 휩쓸었던 클래식입니다. 오늘날에도 많은 클럽과 레이브에게 계속해서 사랑받고 있습니다.
+특징: 눈길을 끄는 멜로디와 긍정적인 에너지로 90년대 유로댄스/레이브 씬을 휩쓸었던 클래식입니다. 오늘날에도 많은 클럽과 레이브에게 계속 사랑받고 있습니다.
 
 #### 트랙리스트
 ```md
@@ -49,7 +49,7 @@ B2. Wonderfull Days (Radio Mix)
 
 발매: 1998년, "No Time to Chill"의 싱글
 
-특징: "James Brown Is Dead"(L.A. Style)의 강력한 샘플 사용으로 빛나는 행복한 하드코어 지향 트랜스입니다. 해외 밴드 Scooter의 유니크한 작품입니다.
+특징: "James Brown Is Dead"(L.A. Style)의 강력한 샘플 사용으로 빛을 발하는 행복한 하드코어 지향 트랜스입니다. 해외 밴드 Scooter의 유니크한 작품입니다.
 
 #### 트랙리스트
 ```md
@@ -95,7 +95,7 @@ B2. Sunrise (Here I Am) (Instrumental)
 <br>
 
 
-### 페이즈 vs DJ 스나이퍼 Feat. 카렌 – 영원히 / 점화 시퀀스
+### 페이즈 vs. DJ 스나이퍼 Feat. 카렌 – 영원히 / 점화 시퀀스
 <a href="https://jp.mercari.com/item/m40097768990?afid=6142608987"><img src="../assets/images/Phase%20vs.%20DJ%20Sniper%20Feat.%20Karen%20%E2%80%93%20Forevermore%20Ignition%20Sequence.webp"></a>
 
 발매사: 영국 레이블 Sonic Boom
@@ -120,7 +120,7 @@ B2. Forevermore (Original)
 <br>
 
 
-### DJ 브리즈(DJ Breeze) – 조금 더 높이 점프(Jump A Little Higher)
+### DJ 브리즈(DJ Breeze) - 조금 더 높이 점프(Jump A Little Higher)
 <a href="https://jp.mercari.com/item/m45158763223?afid=6142608987"><img src="../assets/images/DJ%20Breeze%20%E2%80%93%20Jump%20A%20Little%20Higher.webp"></a>
 
 아티스트: 영국의 인기 DJ/프로듀서 Mark Breeze

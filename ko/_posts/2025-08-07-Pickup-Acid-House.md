@@ -14,7 +14,7 @@ title: 애시드 하우스 작업 픽업
 ---
 
 
-"TB-303의 롤링 사운드와 황홀한 비트로 시대를 뒤흔든 주목할 만한 애시드 하우스 작품 그룹입니다."
+"TB-303의 롤링 사운드와 황홀한 비트로 시대를 뒤흔든 주목할 만한 애시드 하우스 작품 그룹."
 
 <hr>
 
@@ -67,7 +67,7 @@ B4. Charm–Walk On The Wild Side
 <hr>
 
 
-### Petter – 제목 없는 산성 EP
+### 페터 – 제목 없는 애시드 EP
 <a href="https://jp.mercari.com/item/m32455910195?afid=6142608987"><img src="../assets/images/Petter%20%E2%80%93%20Untitled%20Acid%20EP.webp"></a>
 
 현대적인 사운드 창조로 산을 재구성합니다. 미니멀 록과 프로그레시브 록 사이를 떠돌고 있다.
@@ -89,10 +89,10 @@ B2. Everyday Balloon
 <hr>
 
 
-### Bomb The Bass – 작은 기도를 해보세요
+### Bomb The Bass - 작은 기도를 해보세요
 <a href="https://jp.mercari.com/item/m69818957140?afid=6142608987"><img src="../assets/images/Bomb%20The%20Bass%20%E2%80%93%20Say%20A%20Little%20Prayer.webp"></a>
 
-애시드x더빙x팝. 장르의 경계를 초월한 1988년 작품.
+애시드x더빙x팝. 장르의 경계를 뛰어넘는 1988년 작품.
 
 #### 트랙리스트
 ```md
@@ -178,7 +178,7 @@ B2. 900lb Man (Original Mix)
 #### Aquasky – 평온 / 카우나
 <a href="https://jp.mercari.com/item/m94343829211?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Tranquility%20Kauna.webp"></a>
 
-드럼앤베이스에 산성 성분을 주입하는 독특한 작품입니다. 달리는 느낌과 넘어지는 느낌이 동시에 있다.
+드럼앤베이스에 산성 성분을 주입하는 독특한 작품입니다. 속도감과 여행감이 모두 존재합니다.
 
 #### 트랙리스트
 ```md

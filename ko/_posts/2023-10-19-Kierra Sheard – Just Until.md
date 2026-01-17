@@ -10,7 +10,7 @@ tags:
 - R&B
 - Soul
 - Gospel
-title: 키에라 쉬어드 – 딱 전까지
+title: 키에라 쉬어드 - 딱 전까지만
 ---
 
 

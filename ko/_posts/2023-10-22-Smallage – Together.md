@@ -10,13 +10,13 @@ tags:
 - Italo
 - Disco
 - House
-title: Smallage – Together
+title: 소규모 – 함께
 ---
 
 
-Smallageは、イタリア出身のDJ Stefano Mango、DJ Lino Lodi、Denis Quarinによるプロジェクト。
+Smallage는 이탈리아 DJ Stefano Mango, DJ Lino Lodi, Denis Quarin이 진행하는 프로젝트입니다.
 
-「Together」のヴォーカルは、Fonda Rae(フォンダ・レイ) の「 Touch Me(All Night Long)」からのサンプリング。
+"Together"의 보컬은 Fonda Rae의 "Touch Me (All Night Long)"에서 샘플링되었습니다.
 
 #### 트랙리스트
 ```md

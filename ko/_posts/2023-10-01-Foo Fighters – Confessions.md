@@ -9,11 +9,11 @@ permalink: /ko/foo-fighters-confessions/
 tags:
 - Remix
 - Rare
-title: Foo Fighters – Confessions
+title: 푸 파이터스 – 고백
 ---
 
 
-フー・ファイターズ(foo fighters)、2005年リリースのアルバムIn Your Honorからのシングルカット、BEST OF YOUのハウスリミックス。片面プレスです。
+Foo Fighters의 2005년 앨범 In Your Honor에 수록된 BEST OF YOU 싱글의 하우스 리믹스입니다. 단면 프레스.
 
 #### 트랙리스트
 ```md

@@ -9,7 +9,7 @@ permalink: /ko/public-enemy-apocalypse-91-the-enemy-strikes-black/
 tags:
 - Hiphop
 - Classic
-title: Public Enemy – Apocalypse 91... 적의 공격
+title: Public Enemy – Apocalypse 91... 적은 흑암을 친다
 ---
 
 

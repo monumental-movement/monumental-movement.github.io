@@ -9,12 +9,12 @@ permalink: /ko/dj-rip-house-playerz-e-p/
 tags:
 - House
 - Hard House
-title: DJ Rip – House Playerz E.P
+title: DJ Rip - 하우스 플레이어즈 E.P
 ---
 
 
-「House Playerz E.P」は、
-1998年にレーベル「Underground Construction」からリリースされた本名Xavier JacomeことDJ RipのEPです。
+'하우스 플레이어즈 E.P'는
+본명은 Xavier Jacome인 DJ Rip의 EP로 1998년 "Underground Construction"이라는 레이블로 발매되었습니다.
 
 #### 트랙리스트
 ```md

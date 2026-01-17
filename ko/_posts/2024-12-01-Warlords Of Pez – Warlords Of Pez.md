@@ -13,7 +13,7 @@ title: 페즈의 전쟁군주 - 페즈의 전쟁군주
 ---
 
 
-Warlords Of Pez는 머나먼 은하계에서 온 듯한 아일랜드 록 밴드입니다. 멤버로는 아일랜드 인디 팝 밴드 The Chalets의 전 멤버였던 Chris Judge가 있습니다.
+Warlords Of Pez는 머나먼 은하계에서 온 듯한 아일랜드 록 밴드입니다. 멤버로는 아일랜드 인디 팝 밴드 The Chalets의 전 멤버인 Chris Judge가 있습니다.
 
 아일랜드 록/일렉트로니카 레이블 Trust Me I'm A Thief가 2006년에 발매한 컨셉 앨범입니다.
 

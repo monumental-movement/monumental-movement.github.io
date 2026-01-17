@@ -8,11 +8,11 @@ layout: post
 permalink: /ko/chayell-rio/
 tags:
 - New Beat
-title: Chayell – Rio
+title: 샤옐 – 리오
 ---
 
 
-「Rio」は、1988年にレーベル「Subway」からリリースされたPeter BonneとPick A NumberによるユニットChayellにようるEPです。
+"Rio"는 Peter Bonne과 Pick A Number의 유닛 Chayell이 1988년 "Subway" 레이블로 발매한 EP입니다.
 
 #### 트랙리스트
 ```md

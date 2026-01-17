@@ -50,7 +50,7 @@ color: #fff;
 
 ### RE/Search 창간호(1980년~)
 
-1980년부터 시작. 인더스트리얼 음악과 아방가르드 문화를 주제로 한 인터뷰와 리뷰를 담고 있습니다.
+1980년부터 시작되었습니다. 인더스트리얼 음악과 아방가르드 문화를 주제로 한 인터뷰와 리뷰를 담고 있습니다.
 대표적인 이슈로는 '산업문화 핸드북', '현대의 원시성', '놀랍도록 이상한 영화' 등이 있다.
 
 ---
@@ -71,7 +71,7 @@ RE/Search는 단순한 출판 그 이상입니다. 서브컬처 아카이브 역
 ## 추천 RE/연령별 잡지 검색
 
 | 잡지 제목 | 출판연도 | 주요 내용/특징 | 기여자 | 링크 |
-|------|----------------|---------|---|---------------|------------|
+|------|---------------|---------|---|---------------|------------|
 | **RE/Search #1: Industrial Culture Handbook** | 1980 | インダストリアル音楽の原点を記録 | Throbbing Gristle, Cabaret Voltaire | [Amazon](https://amzn.to/4mOAmMf) |
 | **RE/Search Modern Primitives** | 1981 | ボディモディフィケーション文化特集 | Fakir Musafar | [Amazon](https://amzn.to/46ygAja) |
 | **RE/Search Incredibly Strange Films** | 1983 | B級映画・カルト映画特集 | Nick Zedd, John Waters | [Amazon](https://amzn.to/46T0YFX) |

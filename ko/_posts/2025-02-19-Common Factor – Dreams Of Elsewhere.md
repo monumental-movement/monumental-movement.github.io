@@ -19,7 +19,7 @@ Common Factor라고도 알려진 Nick Calingaert는 시카고 출신의 DJ입니
 
 "Dreams Of Elsewhere"는 칼 크레이그의 클래식 테크노 레이블인 Planet E가 1999년에 발매한 앨범입니다.
 
-'Get Down', 'will', 'Horizons' 등 커먼팩터의 대표곡을 다수 수록한 명작.
+'Get Down', 'will', 'Horizons' 등 커먼팩터의 대표곡들을 다수 수록한 명반이다.
 
 #### 트랙리스트
 ```md

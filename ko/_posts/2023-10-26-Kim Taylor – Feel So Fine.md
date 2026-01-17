@@ -14,7 +14,7 @@ title: 킴 테일러 - Feel So Fine
 ---
 
 
-アレンジ＆コンポーズは、Proxyon（プロキシオン）のMichiel Van Eijk（ミシェル・ファン・エイク）。プロデューサーはErik van Vliet（エリック・ヴァン・ブリート）＆Rob Van Eijk（ロブ・ファン・エイク）。
+Proxyon의 Michiel Van Eijk가 편곡하고 작곡했습니다. 프로듀서는 Erik van Vliet와 Rob Van Eijk입니다.
 
 #### 트랙리스트
 ```md

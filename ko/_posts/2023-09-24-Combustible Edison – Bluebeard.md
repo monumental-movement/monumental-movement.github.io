@@ -13,7 +13,7 @@ title: 가연성 에디슨 - 푸른수염
 ---
 
 
-Combustible Edison은 1990년대 초 로드아일랜드 주 프로비던스에서 결성된 미국의 라운지/재즈/이지 리스닝 밴드입니다.
+Combustible Edison은 1990년대 초 로드아일랜드주 프로비던스에서 결성된 미국의 라운지/재즈/이지 리스닝 밴드입니다.
 
 Peter Thomas Sound Orchestra, Saint Etienne 등의 오리지널 앨범 버전과 리믹스가 포함되어 있습니다.
 

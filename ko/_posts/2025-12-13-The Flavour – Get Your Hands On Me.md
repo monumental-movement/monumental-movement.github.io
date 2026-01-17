@@ -16,7 +16,7 @@ title: 맛 – 나에게 손을 대세요
 
 The Flavor는 Development Corporation으로도 알려진 Neil Claxton과 Johnny Jay의 스튜디오 프로젝트입니다.
 
-1994년 Jive 레이블에서 발매된 "Get Your Hands On Me"는 시카고 하우스 가수 Darryl Pandy가 피쳐링한 하우스/유로 하우스 트랙입니다.
+1994년 Jive 레이블에서 발매된 "Get Your Hands On Me"는 시카고 하우스 가수 Darryl Pandy가 피처링한 하우스/유로 하우스 트랙입니다.
 
 #### 트랙리스트
 ```md

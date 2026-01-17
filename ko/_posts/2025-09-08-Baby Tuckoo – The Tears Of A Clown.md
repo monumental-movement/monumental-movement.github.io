@@ -20,7 +20,7 @@ title: 아기 터쿠 - 광대의 눈물
 
 A는 스모키 로빈슨 & 더 미라클스(Smokey Robinson & the Miracles)의 "The Tears of a Clown"(행크 코스비, 스모키 로빈슨 & 스티비 원더 프로듀스) 커버입니다.
 
-B는 베이비 터쿠의 앨범 'Force Majeure'의 싱글 컷이다.
+B는 베이비 터쿠의 앨범 'Force Majeure'의 싱글컷입니다.
 
 #### 트랙리스트
 ```md

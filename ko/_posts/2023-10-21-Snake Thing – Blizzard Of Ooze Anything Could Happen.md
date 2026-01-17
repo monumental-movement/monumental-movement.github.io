@@ -9,13 +9,13 @@ permalink: /ko/snake-thing-blizzard-of-ooze-anything-could-happen/
 tags:
 - Trance
 - Psychedelic
-title: Snake Thing – Blizzard Of Ooze Anything Could Happen
+title: 뱀의 일 – Ooze의 눈보라 무슨 일이든 일어날 수 있습니다
 ---
 
 
-Snake Thingは、Nick Taylorのソロプロジェクト。
+Snake Thing은 Nick Taylor의 솔로 프로젝트입니다.
 
-「Blizzard Of Ooze」は、Raja Ram（ラジャ・ラム）が運営するUKゴアトランスレーベルTIPより、1998年にリリース。
+"Blizzard Of Ooze"는 1998년 Raja Ram이 운영하는 영국 Goa 트랜스 레이블 TIP에서 발매되었습니다.
 
 #### 트랙리스트
 ```md

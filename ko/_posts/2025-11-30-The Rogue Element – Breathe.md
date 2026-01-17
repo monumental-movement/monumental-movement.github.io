@@ -10,7 +10,7 @@ permalink: /ko/the-rogue-element-breathe/
 tags:
 - Breaks
 - 00s
-title: The Rogue Element – Breathe
+title: 불량 요소 - 숨을 쉬다
 ---
 
 
@@ -20,11 +20,11 @@ title: The Rogue Element – Breathe
 
 
 
-The Rogue Element(ローグ・エレメント)は、受賞歴のあるプロデューサー/DJのBen Medcalf(ベン・メドカーフ)のプロジェクト。2013年からはThe Rogue Element にJames Tomlinsonが加わりグループとして活動している。
+Rogue Element는 수상 경력이 있는 프로듀서/DJ Ben Medcalf의 프로젝트입니다. 더로그엘리먼트(The Rogue Element)는 2013년부터 제임스 톰린슨(James Tomlinson)이 합류해 그룹으로 활동해왔다.
 
-「Breathe」は、ロンドンのレーベルExceptionalから2007年にリリースされたBreaksトラック。
+"Breathe"는 2007년 런던 레이블 Exceptional에서 발매된 Breaks 트랙입니다.
 
-Bは、Tech-Funkのパイオニアとして知られるマルチジャンル・エレクトロニックミュージックプロデューサー/DJ Elite Force (エリートフォース)ことSimon Shackletonによるremix。
+B는 DJ Elite Force로도 알려진 멀티 장르 일렉트로닉 음악 프로듀서이자 Tech-Funk의 선구자로 알려진 Simon Shackleton의 리믹스입니다.
 
 #### 트랙리스트
 ```md

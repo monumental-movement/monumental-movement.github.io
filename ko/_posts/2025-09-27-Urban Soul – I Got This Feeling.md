@@ -16,7 +16,7 @@ title: Urban Soul – 이런 느낌이 들었어
 
 Urban Soul로도 알려진 Roland Clark은 애틀랜타 출신의 House/Deep House 프로듀서/DJ/작곡가/보컬리스트입니다.
 
-"I Got This Feeling"은 미국 레이블 Music Station이 1993년에 발매한 하우스/개러지 하우스의 노래입니다.
+"I Got This Feeling"은 미국 레이블 Music Station이 1993년에 발표한 하우스/개러지 하우스의 노래입니다.
 
 #### 트랙리스트
 ```md

@@ -9,11 +9,11 @@ permalink: /ko/jungle-brothers-jungllenium-remixes/
 tags:
 - Hiphop
 - Drum n Bass
-title: Jungle Brothers – Jungllenium Remixes
+title: 정글 브라더스 – Jungllenium 리믹스
 ---
 
 
-「Jungllenium Remixes」は、Jungle Brothersの楽曲をさまざまなプロデューサーやリミキサーがリミックスした作品集です。
+"Jungllenium Remixes"는 Jungle Brothers의 노래를 다양한 프로듀서와 리믹서가 리믹스한 모음집입니다.
 
 
 #### 트랙리스트

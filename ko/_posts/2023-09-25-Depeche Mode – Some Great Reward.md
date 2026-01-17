@@ -9,15 +9,15 @@ permalink: /ko/depeche-mode-some-great-reward/
 tags:
 - New-Wave
 - Post Punk
-title: Depeche Mode – Some Great Reward
+title: Depeche 모드 – 엄청난 보상
 ---
 
 
-「Some Great Reward」は、デペッシュ・モードの1984年のアルバムであり、彼らの4枚目のスタジオアルバムです。このアルバムはバンドのキャリアにおいて重要な位置を占める作品の一つであり、彼らのサウンドの進化と成熟を示しています。
+"Some Great Reward"는 디페쉬 모드의 1984년 앨범이자 그들의 네 번째 정규 앨범이다. 이 앨범은 밴드의 커리어에서 중요한 작품 중 하나로, 사운드의 진화와 성숙을 보여줍니다.
 
-アルバムには、シングルとしてリリースされた「People Are People」や「Master and Servant」などデペッシュ・モードの代表的な楽曲が収録されています。
+앨범에는 싱글로 발매된 'People Are People', 'Master and Servant' 등 디페쉬 모드의 시그니처 곡들이 수록되어 있다.
 
-「Some Great Reward」はデペッシュ・モードの音楽スタイルやテーマの進化を示すアルバムであり、彼らのキャリアの中でも重要な節目となりました。ポストパンク、ニューウェイブ、エレクトロニックミュージックの要素を取り入れたサウンドと、リリース当時の社会的な問題をテーマにした歌詞が特徴です。
+Some Great Reward는 Depeche Mode의 경력에서 중요한 이정표였으며 음악 스타일과 테마의 진화를 표시했습니다. 포스트 펑크, 뉴 웨이브, 일렉트로닉 음악의 요소를 접목한 사운드와 발매 당시 사회적 이슈를 다룬 가사가 특징이다.
 
 #### 트랙리스트
 ```md

@@ -8,15 +8,15 @@ layout: post
 permalink: /ko/dj-shiva-vs-adam-jay-finality-ep/
 tags:
 - Techno
-title: DJ Shiva vs. Adam Jay – Finality EP
+title: DJ Shiva 대 Adam Jay – Finality EP
 ---
 
 
-DJ Shivaは、現在Noncompliant（ノンコンプライアンス）として知られているUSテクノDJ /プロデューサー。
+DJ Shiva는 현재 NonCompliance로 알려진 미국의 테크노 DJ/프로듀서입니다.
 
-Adam Jay（アダム・ジェイ）は、USのテクノ＆テックハウスDJ/プロデューサー。
+Adam Jay는 미국의 테크노 및 테크 하우스 DJ/프로듀서입니다.
 
-「Finality EP」は、Paul Birken（ポール・バーケン）, Woody McBride（ウディ・マクブライド）, Dustin Zahn（ダスティン・ザーン）, Adam Jay（アダム・ジェイ）などを含む多くの著名なアーティストの作品をリリースしているヴァイナルフォーマットのテクノレーベルInternal Error Recordsより、2005年にリリースされたテクノトラック。
+"Finality EP"는 Paul Birken, Woody McBride, Dustin Zahn, Adam Jay 등 많은 유명 아티스트의 작품을 발표한 비닐 형식 테크노 레이블인 Internal Error Records가 2005년에 발표한 테크노 트랙입니다.
 
 #### 트랙리스트
 ```md

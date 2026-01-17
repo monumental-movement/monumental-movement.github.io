@@ -9,13 +9,13 @@ permalink: /ko/corrina-joseph-live-your-life-with-me/
 tags:
 - House
 - Downtempo
-title: Corrina Joseph – Live Your Life With Me
+title: Corrina Joseph – 나와 함께 인생을 살아보세요
 ---
 
 
-Corrina Joseph（コリーナ・ジョセフ）はイギリスのシンガーで、Underground Solution、Kamasutra、Masterbuilders、Nightmares on Wax、Classen Collective、Russ Gabrielなどの様々なアーティストの作品に参加。
+코리나 조셉은 Underground Solution, Kamasutra, Masterbuilders, Nightmares on Wax, Classen Collective, Russ Gabriel 등 다양한 아티스트와 함께 활동한 영국 가수입니다.
 
-「 Live Your Life With Me」のプロデューサー/作曲はFelix Buxton（フェリックス・バクストン）とSimon Ratcliffe（サイモン・ラトクリフ）からなるUKエレクトロニック・ダンス・ミュージック・デュオBasement Jaxx。
+"Live Your Life With Me"는 Felix Buxton과 Simon Ratcliffe로 구성된 영국 일렉트로닉 댄스 음악 듀오 Basement Jaxx가 프로듀싱 및 작곡했습니다.
 
 #### 트랙리스트
 ```md

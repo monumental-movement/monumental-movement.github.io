@@ -13,7 +13,7 @@ title: 리피터 - 더 서펜츠 니즈 E.P
 ---
 
 
-리피터(Repeater)는 앨런 우드번(Alan Woodburn)과 해럴드 워커(Harold Walker)로 구성된 애시드 테크노 유닛이다. "The Serpents Knees E.P"는 영국 애시드 트랜스 레이블 Filterless에서 발매되었습니다.
+리피터(Repeater)는 앨런 우드번(Alan Woodburn)과 해롤드 워커(Harold Walker)로 구성된 애시드 테크노 유닛이다. "The Serpents Knees E.P"는 영국 애시드 트랜스 레이블 Filterless에서 발매되었습니다.
 
 #### 트랙리스트
 ```md
