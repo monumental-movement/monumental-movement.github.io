@@ -40,7 +40,7 @@ color: #fff;
 </style>
 
 
-## Chapter 1 Establishment of NTS Radio and broadcasting culture
+## Chapter 1: Establishment of NTS Radio and broadcasting culture
 
 NTS Radio is an internet radio based in London that broadcasts DJ programs and live performances 24 hours a day. Broadcast content is wide-ranging, including club music, experimental music, folk music, and improvisational performances.
 
@@ -184,7 +184,7 @@ Particularly on NTS, DJs create musical archives by continuing their programs ov
 
 ## Supplementary Chapter 5 Video Intervention and Refusal
 
-While Boiler Room actively incorporates video, NTS has maintained an audio-centric design. This difference has a direct impact on the direction of performance.
+While Boiler Room actively incorporates video, NTS has maintained an audio-centric design. This difference directly affects the direction of performance.
 
 When images exist, physical movements and spatial configurations have meaning. When the images are limited, the arrangement of sounds and temporal structure become foregrounded.
 

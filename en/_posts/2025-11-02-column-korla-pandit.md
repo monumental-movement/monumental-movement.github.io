@@ -124,7 +124,7 @@ Reference/Source:
 
 ---
 
-The Korla Pandit Show, which aired from 1951, was one of the first American music television shows.
+The Korla Pandit Show, which aired from 1951, was one of America's earliest music television shows.
 The production, which was constructed using only sight and sound without uttering words, provided a ""safe foreign country'' for white viewers at the time.
 
 Pundit has had more than 1,000 broadcasts, giving her more television exposure than her contemporaneous Nat King Cole.

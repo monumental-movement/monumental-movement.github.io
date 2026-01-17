@@ -288,7 +288,7 @@ flowchart TD
 
 <div class="mermaid">
 flowchart LR
-    A[1980s<br>The dawn of time] --> B[1990s<br>Mix ~ Battle competition]
+    A[1980s<br>Dawn] --> B[1990s<br>Mix ~ Battle competition]
     B --> C[2000s<br>DVS introduction and speedup]
     C --> D[2010s<br>Online/Visualization]
     D --> E[2020s<br>Hybrid tournament era]

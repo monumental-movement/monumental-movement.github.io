@@ -71,7 +71,7 @@ The band's first sound mixes the rapidity of late punk/hardcore with the amorpho
 ### **The Shah Sleeps in Lee Harvey's Grave**
 
 * Guitar mainly uses directly recorded feedback
-* The saxophone plays irregularly, destroying the melody.
+* The saxophone plays irregularly and destroys the melody.
 * Lyrics are fragmentary and performance-oriented.
 
 ### **Lady Sniff**
@@ -413,7 +413,7 @@ flowchart TD
     C --> D["1987–1989: Expansion into Europe and psychedelic period"]
     D --> E["1993: Transition to major period"]
     E --> F["1996: Electriclarryland period"]
-    F --> G["2001: Introduction of electronic sounds"]
+    F --> G["2001: Introduction of electronic sound"]
     G --> H["Afterwards: Continuation of irregular activities"]
 
 ---

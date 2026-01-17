@@ -13,7 +13,7 @@ title: ZUSHii – There Ain"t Enough Love ("94 Remix) Surprise
 
 
 ZUSHii is a project by Carol McLeod, Gary Bent, Jason Halliday, and Sharon Benson.
-"There Ain't Enough Love/ Surprise Surprise", released in 1994, is a UK street soul track characterized by an underground, minimal, or rough atmosphere.
+Released in 1994, "There Ain't Enough Love/ Surprise Surprise" is a UK street soul track characterized by an underground, minimal, or rough atmosphere.
 
 #### Tracklist
 ```md

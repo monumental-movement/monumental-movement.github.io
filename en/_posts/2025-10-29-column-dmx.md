@@ -147,7 +147,7 @@ That time wasn't entertainment, it was **ceremony**.
 
 ### 3. Chain of law and drugs
 
-He has been arrested dozens of times. However, most of this is the result of drug addiction and emotional trauma, and he himself says, ""My body broke before my mind died.''
+Has been arrested dozens of times. However, most of this is the result of drug addiction and emotional trauma, and he himself says, ""My body broke before my mind died.''
 
 ---
 
@@ -192,7 +192,7 @@ Those words still serve as a self-forgiveness mantra for many young people today
 ## X. Conclusion: Mythical structure called DMX
 
 DMX's story is more than just a hip-hop biography.
-It was a **modern religious drama** and a myth depicting **the coexistence of violence and prayer**.
+It was a **modern religious drama** and a myth about the coexistence of **violence and prayer**.
 
 *His "roar" is not anger, but a cry to prove his existence**
 *His "prayer" is not salvation but **continuation of the battle**

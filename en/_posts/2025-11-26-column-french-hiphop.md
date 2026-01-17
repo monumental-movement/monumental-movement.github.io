@@ -91,7 +91,7 @@ Main works and features:
 ### 2-2. IAM's philosophical and historical lyrics
 
 1. **L"École du Micro d"Argent (1997)**
-- Depicting the city of Marseille and social issues
+- Depicting the city and social issues of Marseille
 - Lyrics about ancient Egypt and French colonial history
 
 <div class="mermaid">
@@ -185,8 +185,8 @@ timeline
 ## 7. Social and cultural achievements of NTM and IAM
 
 | Group | Impact/Achievements |
-|-----------|-----------|
-| NTM | Establishment of socially critical rap, symbol of Paris suburban culture |
+|-----------|------------|
+| NTM | Establishment of socially critical rap, symbol of Parisian suburban culture |
 | IAM | Introduction of philosophical and historical themes, establishment of Marseille's musical individuality |
 
 ---

@@ -24,7 +24,7 @@ title: '[Column] German techno and the pandemic in the 2020s: Cultural transform
 ## Pandemic: A true history of everything from lockdown to reopening to redefining music
 
 
-Text: mmr | Theme: How German techno has changed in the 2020s, what has been lost, and what has been gained
+Text: mmr｜Theme: How German techno has changed in the 2020s, what has been lost, and what has been gained?
 
 
 German techno in the 2020s experienced a dramatic seismic shift centered on the **COVID-19 pandemic (2020–2022)**.
@@ -159,7 +159,7 @@ This strange phenomenon has progressed in 2020–2021.
 ## ● Clubs will be legally upgraded to "cultural facilities" (2021)
 In 2021, the German Bundestag took a historic decision.
 
-**Legally protect clubs as "cultural institutions"**
+**Legal protection of clubs as "cultural institutions" (Kultureinrichtung)**
 
 This is in fact a major turning point.
 Until then, clubs were treated as a nightlife industry.

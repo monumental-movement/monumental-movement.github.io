@@ -19,7 +19,7 @@ title: '[Column] A complete history of Krautrock - German experimental music as 
 Text: mmr｜Theme: Krautrock is an important trend that deeply influenced later generations of music such as experimental music, electronic music, post-rock, and techno that originated in Germany.
 
 "Krautrock"——. It was originally a derogatory name given by a British music magazine.
-"Sauerkraut" is a slang term for German people.
+"Sauerkraut" is a slang term for Germans.
 However, young people in the late 1960s reversed that label and used it as a banner for creating their own music.
 
 Postwar Germany. Memories of defeat, the flood of American and British culture, and the emptiness of not having a voice.
@@ -136,7 +136,7 @@ The punk, industrial, and sampling cultures that followed were all based on Faus
 
 ---
 
-## Chapter 5: Kraftwerk - The origins of techno and inorganic beauty
+## Chapter 5: Kraftwerk - The Origins of Techno and Inorganic Beauty
 
 Düsseldorf.
 The straight roads and cold texture of the industrial city became music.
@@ -168,7 +168,7 @@ The "future" that they saw is now in our current musical landscape.
 ### Revolution in silence
 Unit **Cluster** by **Dieter Möbius** and **Hans-Joachim Roedelius**.
 Unlike CAN and Faust, they are hardly "noise" or "rock".
-The reverberations and breathing of the city were felt between the inorganic electronic sounds and silence.
+Between the inorganic electronic sounds and silence, the reverberations and breathing of the city were felt.
 
 His debut album, Cluster 71 (1971), is a series of experimental tape sounds, but also somehow meditative.
 The follow-up, ""Zuckerzeit"' (1974), was produced by Neu!"s Klaus Dinger and introduced a minimalist and comfortable rhythm.

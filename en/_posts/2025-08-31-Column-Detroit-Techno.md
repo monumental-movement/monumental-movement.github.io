@@ -91,7 +91,7 @@ One of Jeff Mills' masterpieces, ""The Bells,'' has sold over 500,000 copies wor
 
 ---
 
-#### **Other (scene expansion)**
+#### **Other (Scene Expansion)**
 
 Diverse generations followed, including Richie Hawtin (a second generation whose later work bridged the gap between Detroit and the international scene).
 

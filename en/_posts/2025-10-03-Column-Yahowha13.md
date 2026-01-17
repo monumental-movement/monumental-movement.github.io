@@ -60,7 +60,7 @@ Journalism and non-fiction articles have explored this dual nature, with anecdot
 While the commune was in operation, there are records that there were disputes that are typical of cult operations, such as ""abandonment of personal property," ""cutting off of relatives," and ""permission to marry young members.''
 
 
-On August 25, 1975, he died in an accident while attempting his first hang gliding flight in Hawaii (he crashed and died about 9 hours later). This accident effectively became an event that symbolized the "end" of Yahooha13.
+On August 25, 1975, he died in an accident while attempting his first hang glider flight in Hawaii (he is said to have crashed and died approximately 9 hours later). This accident effectively became an event that symbolized the "end" of Yahooha13.
 
 
 After that, the members of the congregation dispersed, but it has been reevaluated through sound archives and folklore. In particular, the 13-disc box set God and Hair (Yahowha Collection), released by Japan"s Captain Trip label in 1998, comprehensively covered Yahowha13/Source Family"s sound sources and became an opportunity for the revival of the legend.
@@ -72,7 +72,7 @@ After that, the members of the congregation dispersed, but it has been reevaluat
 
 #### Constituent members and naming history
 
-Core lineup: Mainly Djin Aquarian (guitar), Octavius ​​Aquarian (drums), and Sunflower Aquarian (bass), along with other musicians with Aquarian surnames such as Lovely, Hom, Rhythm, Pythias, and Aquarian.
+Core lineup: Mainly Djin Aquarian (guitar), Octavius ​​Aquarian (drums), and Sunflower Aquarian (bass), along with other "Aquarian surname" believer musicians such as Lovely, Hom, Rhythm, Pythias, Aquarian.
 
 
 Initially released under the name "Father Yod & The Spirit of "76". After that, the notation such as "Ya Ho Wa 13 / Yahowha13 / YaHoWha13 / Yahowa 13" was used with some fluctuation.
@@ -106,7 +106,7 @@ Lyrics and vocals (Father Yod's chants, line-style recitations, and congregation
 
 ---
 
-#### Historical Phase (By Year)
+#### Historical Phase (by year)
 
 Yahooha13's music activities can be roughly divided into the following stages:
 
@@ -142,7 +142,7 @@ After 1975, the band disbanded due to Father Yod's passing. However, lay musicia
 In 1977, Golden Sunrise (under the name Fire Water Air) and Yodship Suite (Private Press) were released. There is also a collaboration with Sky Saxon (former of The Seeds) and vocal participation.
 
 
-Since the 2000s, there have been reissues and archive reprints, fragmentary new recordings, and member reunions (Sonic Portation by Djin, Sunflower, Octavius, etc.).
+Since the 2000s, there have been reissues and archive reprints, fragmentary new recordings, and member reunions (such as Sonic Portation by Djin, Sunflower, Octavius, etc.).
 
 
 ---
@@ -216,7 +216,7 @@ In 2009, a compilation of unreleased songs such as [Magnificence in the Memory](
 ---
 
 
-#### Reunion/activities
+#### Reunion/Activities
 
 In 2007, the original members (Sunflower, Octavius, Djin) reportedly performed live for the first time in 33 years.
 
@@ -237,7 +237,7 @@ It is argued that his orientation toward improvisation, spatiality, and transcen
 
 In fields such as commune culture, cult movements, and outsider music research, the existence of Yahowha13/Source Family has become a typical example and subject of research.
 
-On the other hand, it also includes controversial topics such as ethical and historical criticism regarding the merits and demerits of believers and musicians, the fragmentation of records, and anecdotes and legends whose authenticity is unknown.
+On the other hand, it also includes a controversial approach that includes ethical and historical criticism regarding the merits and demerits of believers and musicians, the fragmentation of records, and anecdotes and legends whose authenticity is unknown.
 
 ---
 
@@ -276,7 +276,7 @@ Point: The core of self-recording. While recording at Garage, the band began to 
 
 [Penetration: An Aquarian Symphony (1974)](https://amzn.to/4hdcYa5)
 
-Songs and highlights: Contains long tracks such as "Yod He Vau He," "Ho," "Journey Thru An Elemental Kingdom," and "Ya Ho Wha." It is the crystallization of "ritualistic" and "psychedelic jam", and is the most easily available representative album with many reissues. It has a large soundscape-like dynamic, and we recommend that first-time listeners start here.
+Songs and highlights: Contains long tracks such as "Yod He Vau He," "Ho," "Journey Thru An Elemental Kingdom," and "Ya Ho Wha." It is the crystallization of "ritualistic" and "psychedelic jam", and is the most easily available representative album with many reissues. It has a large soundscape-like dynamic, and we recommend starting here for first-time listeners.
 
 
 ---
@@ -309,7 +309,7 @@ Fact: Many tracks are centered around chants, fragmented lines, and religious de
 
 Main motif:
 
-Repetition of "Ya Ho Wha / Ya Ho Wa / YHWH (consonantal similarity)" - Divine name/sacred role.
+Repetition of "Ya Ho Wha / Ya Ho Wa / YHWH (consonantal similarity)" - divine name/sacred role.
 
 
 References to the archetypal "travel/purification/elements (fire/water/air/earth)" — a symbol that also appears in the album/song titles.
@@ -378,7 +378,7 @@ Reissues vary in the degree of editing of the sound source depending on the publ
 
 ---
 
-### Highlights & recommended listening order (beginner → intermediate → researchers)
+### Listening highlights & recommended listening order (for beginners → intermediate → researchers)
 
 **Representative song/representative board (introductory)**: First go through Penetration: An Aquarian Symphony once.
 
@@ -466,7 +466,7 @@ The sound "Ya Ho Wha" itself is a sacred mantra of the Source Family, an express
 
 **90s psych reissue boom**: P.S.F. Records and Captain Trip Records actively introduced Yahooha 13.
 
-It has been featured as a ""mysterious cult psychedelic" in magazines such as ""Eureka" and ""Eurorock Press,'' and is avidly collected by Japanese listeners.
+It has been featured as a ""phantom cult psychedelic" in magazines such as ""Eureka" and ""Eurorock Press,'' and Japanese listeners avidly collect it.
 
 **Evaluation trends**: In Japan, it is loved as ""heretical" and ""esoteric psychedelic," and has become a collector's item at imported disc shops (Disc Union, Melon, Manhattan Records, etc.).
 
@@ -505,7 +505,7 @@ According to family accounts, Yod (James Edward Baker) was originally a restaura
 
 It is said that he was aware of his role in music as a ""conduit of energy" rather than a ""performer."
 
-Member Octavius ​​testifies, ""He let us play, but at the same time he was 'listening' to us.His gaze and his breathing determined the direction of the session.''
+Member Octavius ​​says, ""He let us play, but at the same time he was 'listening' to us.His gaze and his breathing determined the direction of the session.''
 
 ---
 
@@ -562,4 +562,4 @@ More than just psychedelic rock, Yahowha 13 and Father Yod's music was a sonic r
 
 His recordings, such as the albums Penetration: An Aquarian Symphony and I"m Gonna Take You Home, document a fusion of religious ritual and psychedelic improvisation that remains evocative even to modern listeners. It has been reevaluated in the United States as a document of cult history, in Germany as an acoustic experiment, and in Japan as an esoteric psychedelic religion, with each culture developing its own unique interpretations.
 
-Today, through streaming and reissues, Yahowha 13's music is widely accessible, and their cult past continues to influence the contemporary music scene. The spirit of Father Yod and the experimental spirit of Source Family go beyond mere music and continue to challenge new generations to the possibilities of community, improvisation, and spirituality.
+Today, through streaming and reissues, Yahowha 13's music is widely accessible, and their cult past has culminated in their influence on the contemporary music scene. The spirit of Father Yod and the experimental spirit of Source Family go beyond mere music and continue to challenge new generations to the possibilities of community, improvisation, and spirituality.

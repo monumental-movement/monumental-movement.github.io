@@ -66,7 +66,7 @@ Arrangements and recordings optimized for analog characteristics had already beg
 
 ---
 
-# 2. Late 1970s: Early solo period and the completed version of "Analog Layer"
+# 2. Late 1970s: Early solo period and the completed form of "Analog Layer"
 
 ## ■ "SPACY" (1977), "GO AHEAD!" (1978)
 This period was the era when Tatsuro made full use of analog 24-track recording.
@@ -182,7 +182,7 @@ As a result, recent analog reissues have received high praise worldwide.
 # 8. 2020s: Latest works - era of analog return
 
 Nowadays, the demand for analog records is increasing again.
-Tatsuro maintains the following attitude amid the digital era:
+Tatsuro maintains the following attitude amid the digital age:
 
 - Recording is mainly digital
 - But focus on analog release

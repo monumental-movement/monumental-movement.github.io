@@ -49,7 +49,7 @@ color: #fff;
 
 ## 1. From "pass" to "orbit": the gradation of the musical space traced by Eurobeat
 
-As mentioned in the previous two works, the Eurobeat in Initial D was inseparable from Toge's story.
+As mentioned in the previous two works, the Eurobeat in Initial D was inseparable from Touge's story.
 However, it was not just an aid to the terrain and visual production, but a **device that translated the distortion of time into sound**.
 
 Looking back now, we can say that Eurobeat was a genre that acoustically visualized the ""internal time of a running body.''
@@ -80,7 +80,7 @@ And the origin of that philosophy is none other than the Eurobeat of the 90s.
 > "Speed ​​is the language of the times."
 > — anonymous Eurobeat producer, 1998 interview
 
-This word now takes on new meaning in the age of generative music.
+This word now takes on new meaning in the era of generative music.
 Speed ​​is not just a tempo, but exists as the speed at which emotions are calculated.
 
 ---
@@ -160,7 +160,7 @@ Eurobeat thus turns into **Saved Acceleration**.
 
 What ""Initial D" presented was a ""sensory speed theory" in which cars and music became one.
 That spirit continues to live on, albeit in a different form in the digital age.
-Eurobeat is being revived not as a nostalgia thing, but as a medium that records, plays, and generates speed.
+Eurobeat is being revived not as a nostalgic thing, but as a medium that records, plays, and generates speed.
 
 Acceleration reconstructed by AI.
 A mountain pass reenacted in VR.

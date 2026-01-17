@@ -112,7 +112,7 @@ The focus was on young Norwegian underground musicians.
 * Establishing lo-fi recording as "aesthetics"
 *Tremolo riff
 * Scream Vo
-* Expression of "ice wasteland" through repetition and speed
+* Expression of "Ice Wasteland" through repetition and speed
 * Corpse Paint
 * Natural view of winter, forest, and solitude
 
@@ -285,7 +285,7 @@ A pioneer who expanded black metal to orchestral sound**.
 *Cultural background
 
 * Discontinuation between Christianity (Lutheranism) as the national religion and ancient Nordic culture
-* Blockade of youth culture in the early 1990s
+* Blockage of youth culture in the early 1990s
 * Historical friction between politics and religion
 * Musical features
 

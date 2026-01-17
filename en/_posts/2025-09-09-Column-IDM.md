@@ -25,7 +25,7 @@ A labyrinth of sounds that tickles intellectual curiosity - IDM (Intelligent Dan
 ---
 
 ## Early 1990s: Birth - The germ of "dance music for listening"
-At the end of the 1980s, in the midst of the UK rave culture and techno craze, underground labels and artists began to explore electronic music for home listening, rather than just a club tool.
+At the end of the 1980s, in the midst of the UK rave culture and techno craze, underground labels and artists began to explore ""electronic music for home listening'' rather than just a club tool.
 The ""Artificial Intelligence" series released by Warp Records in 1992 was a decisive turning point, and the name ""IDM" became widespread.
 
 - **Representative masterpiece**
@@ -98,7 +98,7 @@ Hardware synths such as **Nord Lead** and **Access Virus** became popular.
 ---
 
 ## 2000s: Post-IDM and Crossover
-Fusing with electronica, post-rock, ambient, etc., it expands to a wider range of listeners. With the spread of the Internet and P2P, the way releases are done has also changed.
+Fusing with electronica, post-rock, ambient, etc., it expands to a wider range of listeners. With the spread of the Internet and P2P, the nature of releases has changed.
 
 - **Representative masterpiece**
 - Boards of Canada – *Geogaddi* (2002)

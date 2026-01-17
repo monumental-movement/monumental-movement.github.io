@@ -14,7 +14,7 @@ title: Ari Jukka – Boogie Basix
 ---
 
 
-Ari J. Ruokamo, also known as Ari Jukka, is an artist who started producing music in the late 1980s, mainly working in the Garage/Deep house genre. He also worked as part of the Deep House project Lifestyle People with Finnish DJ/producer Tuomas Salmela. In 1993, he co-founded the Finnish label Lumi Records with Jori Hulkkonen & Jukka Hautamäki.
+Ari J. Ruokamo, also known as Ari Jukka, is an artist who started producing music in the late 1980s and mainly worked in the Garage/Deep house genre. He also worked as part of the Deep House project Lifestyle People with Finnish DJ/producer Tuomas Salmela. In 1993, he co-founded the Finnish label Lumi Records with Jori Hulkkonen & Jukka Hautamäki.
 
 "Boogie Basix" is an Acid House/Techno/House track released in 1996 on the Swedish label Trainspotter's Nightmare, which was run by Glenn Wilson and Cari Lekebusch from 1995 to 1997.
 

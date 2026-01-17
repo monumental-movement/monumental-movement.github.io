@@ -76,7 +76,7 @@ Charli XCX's ""brat'' sublimated that feeling into pop music.
 ### 2-1. Casual reality
 When you listen to "brat", the first thing you feel is the comfort of being "unfinished."
 The vocals are rough, the mix is ​​staticy, and the lyrics are spit out impulsively.
-However, there is a "raw" quality to it that is not found in other pop music.
+However, there is a "raw" feel to it that is not found in other pop music.
 It is a ""human touch'' that is the opposite of the era of perfection.
 
 ### 2-2. The antithesis of a perfect world
@@ -94,7 +94,7 @@ It symbolizes a "departure from the belief in perfection."
 ### 3-1. Kesha and the "Joyride" parable
 Kesha's "Joyride" is a nod to 2000s Euro dance.
 I dared to revive it cheaply.
-Behind the sparkling synths, a rawness shines through, like a mixture of sweat and makeup.
+Behind the sparkling synths, a rawness shines through, like a mix of sweat and makeup.
 It was a carnivalesque rebellion against the world of overly controlled beauty.
 Charli XCX and Kesha's movements showed that
 It was the dawn of an era of ""openness'' rather than perfection.

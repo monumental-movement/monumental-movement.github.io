@@ -89,7 +89,7 @@ Representative song:
 - "Something"
 - "Arigato"
 -"Tokyo"
-- "People"
+-"Peoples"
 
 These are frequently played in the current setlist and best symbolize STS9's musical image.
 
@@ -129,7 +129,7 @@ The live structure of the same period was
 The audience transitioned to a floor/festival-type experience with the premise of ""dancing.''
 
 What's important here is that STS9 pursued a technique for reproducing the "texture of electronic music" with guitar and bass.
-Many parts passed through the effects chain, giving rise to the characteristic that the editorial thinking in the DAW was directly reflected in the live performance.
+Many parts passed through the effects chain, creating a characteristic in which the editorial thinking in the DAW was directly reflected in the live performance.
 
 ---
 
@@ -199,7 +199,7 @@ This ensures **acoustic thickness** even during live performances, creating a th
 # 7. STS9's Live Philosophy: Set Structure, Lighting, Community
 ## 7-1. Structuring the set list
 STS9 changes their set list every time they tour,
-- Opener (worldview presentation)
+- Opener (world view presentation)
 - Midfield build-up
 - floor peak
 - Deep downtempo part

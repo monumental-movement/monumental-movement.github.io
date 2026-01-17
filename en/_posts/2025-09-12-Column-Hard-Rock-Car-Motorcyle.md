@@ -156,7 +156,7 @@ On the other hand, in Europe and Japan, styles that emphasize lyricism and techn
 | Artist | Album | Release year | Features |
 |-------------|----------|---------|------|
 | Guns N" Roses | Use Your Illusion I & II | 1991 | A masterpiece that combines hard rock and balladry |
-| Metallica | Black Album | 1991 | "Enter Sandman" breaks the boundary between metal and rock |
+| Metallica | Black Album | 1991 | Breaking through the boundaries between metal and rock with "Enter Sandman" |
 | Foo Fighters | The Color and the Shape | 1997 | New generation rock anthem after grunge |
 | Audioslave | Audioslave | 2002 | Rage x Soundgarden crossover |
 | Velvet Revolver | Contraband | 2004 | Former GNR members' return to classic rock after the 90s |

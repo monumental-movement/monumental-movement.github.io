@@ -55,7 +55,7 @@ Tech House is often confused with ""a subgenre of techno" or ""a subgenre of hou
 
 ---
 
-## 2. 1980s-1990s: Background of establishment
+## 2. 1980s to 1990s: Background of establishment
 
 Tech House's origins are said to be the club culture of the early 1990s in Britain, particularly around London.
 At the time, Acid House and Rave were popular in Britain, and a variety of styles such as Hard House, Progressive House, Techno, and Tribal House were mixed together.
@@ -130,7 +130,7 @@ In particular, the following artists are important as they bridge the gap betwee
 
 * Steve Bug (Poker Flat)
 * Booka Shade
-* M.A.N.D.Y.
+*M.A.N.D.Y.
 * Ricardo Villalobos (minimal but also intersects with Tech House)
 * Loco Dice
 *Luciano
@@ -150,9 +150,9 @@ flowchart TD
 
 ---
 
-## 6. Changes in sound aspect
+## 6. Changes in sound
 
-Towards the late 2000s, Tech House experienced the following changes.
+Towards the end of the 2000s, Tech House underwent the following changes.
 
 * **More detailed arrangement of rhythm**
 * **Increase in sub-base** (increased influence of Germany and South America)
@@ -168,7 +168,7 @@ At this time, Tech House was characterized by being ""softer than minimal", ""da
 
 In the 2010s, Tech House became one of the most frequently played 4/4 in clubs and festivals around the world. The increase in demand was particularly large in Ibiza.
 
-Examples of notable artists:
+Examples of featured artists:
 
 *Jamie Jones (Hot Creations)
 *Lee Foss
@@ -182,7 +182,7 @@ In the late 2010s, ""festival-style tech house'' with its more poppy and catchy 
 
 ---
 
-### ■ 2010s Tech House Branch
+### ■ 2010s Tech House branching
 
 <div class="mermaid">
 flowchart TD

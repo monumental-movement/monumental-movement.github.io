@@ -74,7 +74,7 @@ In the early 1990s, on the fringes of Scandinavian black metal, artists began cr
 Of particular importance are:
 - **Mortiis (Norway)**
 Former member of Emperor. Established a medieval fantasy "Dark Dungeon Music" style.
-- **Burzum (Norway) early keyboard pieces**
+- **Early keyboard pieces by Burzum (Norway)**
 The final song of ""Hvis Lyset Tar Oss" and the ambient tracks from ""Filosofem" left a strong symbolism for later Dungeon Synth.
 
 Although these are sound sources that predated "Dungeon Synth as a genre name," they are clearly treated as the source by later generations.
@@ -314,7 +314,7 @@ Below is a plan for actually creating a song.
 
 # ■ 9. Cultural significance of Dungeon Synth
 
-Dungeon Synth is a rare type of music that combines the intense worldview of black metal with the tranquility of ambient music, and is a culture that aspires to "building an inner world."
+Dungeon Synth is a rare type of music that combines the intense worldview of black metal with the tranquility of ambient, and is a culture that aspires to "building an inner world."
 
 - Individual creators spin their own stories without relying on large-scale scenes
 - Strongly tied to the aesthetics of fantasy literature, TRPGs, and game music

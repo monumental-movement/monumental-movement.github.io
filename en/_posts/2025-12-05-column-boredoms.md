@@ -18,7 +18,7 @@ title: '[Column] Boredoms: The trajectory of the builder of chaos and the expand
 
 ## Prologue: Who were the Boredoms?
 
-Text: mmr｜Theme: Following the evolution of Boredoms, and how their work form, live performances, and derivative units have developed.
+Text: mmr｜Theme: Following the evolution of Boredoms, and how its work form, live performances, and derivative units have developed.
 
 In the history of Japanese music, **Boredoms** occupy a unique position as an entity that cannot be fully explained in any context.
 Formed in Osaka in the late 1980s, they went on to influence musicians around the world, morphing into noise, hardcore, avant-garde, psychedelia, and later rhythm ensembles.
@@ -110,7 +110,7 @@ The sound became layered, a trance feeling slipped into the repetitive rhythm, a
 
 ---
 
-The following year, 1999's Vision Creation Newsun was one of the defining works of Boredoms' career.
+The following year"s 1999"s Vision Creation Newsun was one of the defining works of Boredoms' career.
 Natural sounds, ethnic percussion, sustained sounds and cyclical structures, guitar drones, multi-layered rhythms...
 
 The Boredoms weren't even a "rock band" here, but instead deepened into cosmic minimalism and ritual trance.
@@ -143,7 +143,7 @@ Elements of beach recording, long drones, meditative structures, ambient sounds 
 
 ---
 
-Here, the band name is often written as V∞redoms, and the concept of Boredoms itself changes to a ""collective creative body'' rather than a musical unit.
+Here, the band's name is often written as V∞redoms, and the concept of Boredoms itself changes to a ""collective creative body'' rather than a musical unit.
 In the 2000s, Boredoms entered into new developments, including the name **V∞redoms**, and the most iconic one was the large-scale drum ensemble that started with the ""7x7x7'' live held on July 7th**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vjk01Wo-aEs?si=NY65yyeeoj0-m5te" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -194,7 +194,7 @@ OOIOO is a project started by **Yoshimi P-We** in the late 1990s, and although i
 flowchart TD
     A["Ethnic rhythm"] --> X["OOIOO"]
     B["Polyrhythm"] --> X
-    C["Environmental sound research"] --> X
+    C["Environmental Sound Research"] --> X
     D["Building a female ensemble"] --> X
 </div>
 
@@ -214,12 +214,12 @@ In this chapter, I will systematically organize the personal activities of **Yam
 - More interested in "place" than sound
 
 ### 7.2 Formation of sampling sense
-Since the early 1990s, Ai has used turntables and cassettes as materials, specializing in ""tactile editing'' that connects fragments of physical sound.
+Since the early 1990s, Ai has been using turntables and cassettes as materials, specializing in ""tactile editing'' that connects fragments of physical sound.
 
 ## 7.3 Inclination to Rhythm (2000s)
 During the bore drum period, Ai's interest shifted greatly to the physical aspects of rhythm, and his role as a conductor became central.
 
-### Evolution of Eye expression
+### Eye expression evolution
 
 <div class="mermaid">
 flowchart TD

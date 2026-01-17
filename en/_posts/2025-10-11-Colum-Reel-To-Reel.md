@@ -70,7 +70,7 @@ However, it is this "finiteness" that turns sound into a special event.
 
 ---
 
-## Chapter 3 Genealogy of analog revival and next wave
+## Chapter 3 Genealogy and next wave of analog revival
 Over the past 20 years, we have witnessed the ""analog comeback'' many times.
 Records revive the visual ritual** through the "object" of the jacket.
 Cassettes brought back the DIY spirit and **lo-fi freedom**.
@@ -102,7 +102,7 @@ It is an act of "believing in sound" rather than "consuming sound."
 
 ## Chapter 5 Reelism 2025: The birth of a new analog culture
 Reel-to-reel is currently undergoing a quiet update.
-Companies such as Recording The Masters and ATR Magnetics have resumed tape production;
+Companies such as Recording The Masters and ATR Magnetics have restarted tape production.
 Young engineers and artists are rebuilding the "Reel culture."
 
 In the area of ​​ambient and experimental music,

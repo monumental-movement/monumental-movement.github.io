@@ -19,7 +19,7 @@ title: '[Column] Fusion of Yoga and Music: History, Science, and Practical Guide
 
 Text: mmr | Theme: A comprehensive exploration of the historical background, scientific basis, cultural influences, and modern practices of yoga and music
 
-Yoga is more than just a physical exercise; it is an ancient wisdom that integrates the mind and body. Its origins date back to the Vedic period, around 1500 BC, when the recitation of mantras and poetry was closely associated with meditation and religious rituals. The sound vibrations played a role in calming the mind and sharpening the physical senses.
+Yoga is more than just a physical exercise; it is an ancient wisdom that integrates the mind and body. Its origins date back to the Vedic period, around 1500 B.C., when the recitation of mantras and poetry was closely associated with meditation and religious rituals. The sound vibrations played a role in calming the mind and sharpening the physical senses.
 
 For example, chanting ""Om'' (ॐ) causes the low-pitched vibrations to resonate throughout the body, which has the effect of regulating breathing and heartbeat. Ragas (combinations of scales) in Indian classical music were used as a means to adjust the state of mind and body depending on the season and time of day.
 
@@ -62,7 +62,7 @@ In ancient India, yoga and music were closely linked and were central to spiritu
 
 ### Indian classical music and yoga
 
-Indian classical music, which is composed of ragas (scale systems) and tala (rhythmic systems), is effective in awakening the physical senses and inducing a state of concentration when combined with yoga meditation and breathing techniques. Ragas were played in the morning to promote vitality, while relaxing ragas were used for evening meditation.
+Indian classical music, which is composed of ragas (scale systems) and tala (rhythm systems), is effective in awakening the physical senses and inducing a state of concentration when combined with yoga meditation and breathing techniques. Ragas were played in the morning to promote vitality, while relaxing ragas were used for evening meditation.
 
 ### Harmony of Mantra and Breathing
 
@@ -88,7 +88,7 @@ In the early 20th century, music therapy began to attract attention in the field
 
 ### Birth of new age music
 
-Since the 1970s, new age music for meditation and healing purposes has appeared. Songs using synthesizers and natural sounds were incorporated into yoga asanas and meditation, bringing spiritual depth. The combination of yoga and music has been established as an integrated approach that promotes health, spirituality, and personal growth.
+Since the 1970s, new age music for meditation and healing purposes has emerged. Songs using synthesizers and natural sounds were incorporated into yoga asanas and meditation, bringing spiritual depth. The combination of yoga and music has been established as an integrated approach that promotes health, spirituality, and personal growth.
 
 ---
 
@@ -129,7 +129,7 @@ flowchart TD
     C --> C1[meditation/relaxation]
     C1 --- CC["💡 Calm your mind with chanting and meditation music"]
     
-    D --> D1[light meditation/stabilization]
+    D --> D1[light meditation/stability]
     D1 --- DD["💡 Improve concentration with ambient/natural sounds"]
     
     E --> E1[Improve concentration and work efficiency]

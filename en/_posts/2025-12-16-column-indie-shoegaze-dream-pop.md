@@ -75,7 +75,7 @@ Delay is used to create overlapping reverberations rather than being synchronize
 
 ### 2-2. Rhythm in the background
 
-The drums and bass don't act as the driving force behind the song, but function as a center of gravity to support the sound image.
+The drums and bass don't act as a driving force behind the song, but function as a center of gravity to support the sound image.
 The tempo is relatively constant, and emphasis is placed on the continuation of a state rather than dramatic development.
 
 ---

@@ -14,7 +14,7 @@ title: Various – We Are Reasonable People
 
 Music Week gave the album a positive review, saying, "It will definitely appeal to existing fans and is a good introduction for those interested in underground sounds."
 
-""Brainwashed'' also ranks third among 1998 compilation albums. Additionally, in 2013, Fact magazine ranked "Freeman Hardy & Willis Acid" at number 10 on its list of the top 50 Aphex Twin tracks.
+""Brainwashed'' also ranks third among 1998 compilation albums. Furthermore, in 2013, Fact magazine ranked "Freeman Hardy & Willis Acid" at number 10 on its list of the top 50 Aphex Twin tracks.
 
 #### Tracklist
 ```md

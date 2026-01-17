@@ -99,7 +99,7 @@ Since the 2000s, giant "mutant vehicles" and sculptures made of fire have attrac
 
 ### Contemporary implications and challenges
 
-While Burning Man remains a hub of creativity, it faces commercialization, safety and environmental issues, and the question, "Who is Burning for?" The community is stepping up sustainability efforts (Leave No Trace, art grants) and sharing knowledge in regional networks.
+While Burning Man remains a hub of creativity, it faces commercialization, safety and environmental concerns, and the question, "Who is Burning for?" The community is stepping up sustainability efforts (Leave No Trace, art grants) and sharing knowledge in regional networks.
 
 ---
 
@@ -170,7 +170,7 @@ From around this time, participatory experiences that combined fire and art beca
 
 1996 was the year Burning Man accelerated its transformation from a "festival" to a community experimental city.
 
-The values ​​that ""find value in the experience itself'' permeated the participants, and supported the formation of large-scale art works and theme-based cities later on.
+The values ​​that ""find value in the experience itself'' permeated the participants, and supported the formation of later large-scale art works and themed cities.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vlZZ6RzrYtk?si=kATDPw7-4LoK8r_b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -264,7 +264,7 @@ A theme that explores the conflicting axes of hope and fear. There were structur
 
 A theme that reconsiders the relationship between nature and civilization. A composition based on the motif of the "Green Man" (an anthropomorphic figure of plants and naturally occurring plants).
 
-However, in that year, his burning art ""Crude Awakening,'' which imitated a giant oil rig, caused controversy and was criticized.
+However, in that year, his burning art ""Crude Awakening'', which imitated a giant oil rig, caused controversy and was criticized.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dyU2Wjrw3Do?si=C0LD82S702ZyNlGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -272,7 +272,7 @@ However, in that year, his burning art ""Crude Awakening,'' which imitated a gia
 
 #### 2008: American Dream
 
-American Dream/Question for consumer society. There is a lot of art featuring themes of consumerism, mythology, and social structure.
+American Dream/Questions about consumer society. There is a lot of art featuring themes of consumerism, mythology, and social structure.
 
 ---
 
@@ -392,7 +392,7 @@ The theme is unknown and unpredictability, and a challenging composition is deve
 
 #### 2025: Tomorrow Today
 
-Focusing on the near future, future inventions, and social plans. Art that embodies "Tomorrow into Today", prototyping, and design that induces a futuristic dialogue space.
+Focusing on the near future, future inventions, and social concepts. Art that embodies "Tomorrow into Today", prototyping, and design that induces a futuristic dialogue space.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5yrIwJo-RZ0?si=PF7ug6sEAIFeT2i1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -402,7 +402,7 @@ Focusing on the near future, future inventions, and social plans. Art that embod
 
 The above list was constructed by referring to the theme descriptions from Burning Man's official annual archive, as well as multiple fan and record sites.
 
-The Temple (a place of prayer) and the Man itself are often designed in response to the theme, with elements that are independent of the theme but reconfigured every year.
+The Temple (a place of prayer) and the Man itself are often designed in response to a theme, with elements that are independent of the theme but reconfigured every year.
 
 Furthermore, the theme is not necessarily compulsorily applied to all camps/works, but rather functions as a "suggestionary framework".
 

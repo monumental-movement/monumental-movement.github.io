@@ -20,7 +20,7 @@ Text: mmr｜Genre: Music culture study｜Theme: The intersection between the Eur
 
 Euro music, represented by ""Eurobeat" and ""Eurodance," is a genre that dominated clubs and charts in the 1990s, but it is often misunderstood as ""light music.'' However, in reality, it was a hybrid existence born at the intersection of mass media, centered on radio, and underground rave culture.
 
-This article explores the role that Euromusic played between the club scene and popular music from the two contexts of radio and rave.
+This article explores the role that Euromusic played between the club scene and popular music from two contexts: radio and rave.
 
 ---
 
@@ -43,7 +43,7 @@ color: #fff;
 
 **● "Turning dance music into a public good"**
 
-In the late 1980s and early 1990s, radio stations rapidly increased the number of channels specializing in dance music, and Euro music penetrated households. Particularly in Western Europe, radio stations such as ""Radio NRJ (France)" and ""Radio 538 (Netherlands)" play a central role.
+In the late 1980s and early 1990s, radio stations rapidly increased the number of channels specializing in dance music, and Euro music began to penetrate households. Particularly in Western Europe, radio stations such as ""Radio NRJ (France)" and ""Radio 538 (Netherlands)" play a central role.
 
 **● Television penetration of Euro dance**
 
@@ -131,7 +131,7 @@ Nostalgic yet functional sound for open air and festival scenes
 ### Conclusion: Euro lived on the border between "pop" and "club"
 
 Euro music was not just ""easy-going chart music" or ""hard club tracks."
-Its true value lies in the fact that it was music that maintained a balance between media and underground, melody and rhythm, system and physicality.
+Its true value lies in the music that maintained a balance between media and underground, melody and rhythm, system and physicality.
 
 Listen to it on the radio and dance in the club.
 That may have been the most "correct" way to spend the euro in the 1990s.

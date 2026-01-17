@@ -18,7 +18,7 @@ The title track "Up for the Down Stroke" is Parliament"s signature song, with it
 
 Other notable songs include "Testify" and "Presence of a Brain." These songs have some of the most vivid sounds and performances among Parliament's songs.
 
-""Up for the Down Stroke'' gained widespread support from funk music enthusiasts due to its creativity and funk-infused sound.
+""Up for the Down Stroke'' gained widespread support from funk music enthusiasts for its creativity and funk-infused sound.
 
 #### Tracklist
 ```md

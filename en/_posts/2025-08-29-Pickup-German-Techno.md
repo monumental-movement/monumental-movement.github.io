@@ -57,7 +57,7 @@ Attractive point: A compilation by the prestigious German label Tresor, with a l
 
 
 
-Attractive point: A masterpiece from Zombie Nation, a project by German DJ/producer Splank! (Florian Senfter). In particular, the A-side "Souls At Zero (Original Album Version)" is paired with a remix B-side by Sven Väth. The remix by Sven Väth has a powerful finish that combines the heaviness and drama of German techno.
+Attractive point: A masterpiece from Zombie Nation, a project by German DJ/producer Splank! (Florian Senfter). In particular, the A-side "Souls At Zero (Original Album Version)" is paired with a remix B-side by Sven Väth. The remix by Sven Väth has a powerful finish that combines the depth and drama of German techno.
 
 
 #### Tracklist
@@ -82,7 +82,7 @@ B. Souls At Zero (Sven Väth Remix)
 <a href="https://jp.mercari.com/item/m39474275698?afid=6142608987"><img src="../assets/images/Cygnus%20X%20%E2%80%93%20The%20Orange%20Theme%20(The%20Remixes).webp"></a>
 
 
-Attractive point: A remix album of the energetic and uplifting trance techno masterpiece ""The Orange Theme'' by the German unit Cygnus X. Contains a variety of remixes by Moonman, Bervoets & De Goeij, Mark Van Dale with Enrico, and more, allowing you to enjoy club-friendly arrangements that capture the essence of the original song.
+Attractive point: A remix of the energetic and uplifting trance techno masterpiece "The Orange Theme" by German unit Cygnus X. Contains a variety of remixes by Moonman, Bervoets & De Goeij, Mark Van Dale with Enrico, and more, allowing you to enjoy club-friendly arrangements that capture the essence of the original song.
 
 
 #### Tracklist

@@ -12,7 +12,7 @@ title: Ellie – Bitches In Babylon Let Me Be Me
 ---
 
 
-"Bitches In Babylon Let Me Be Me"
+"Bitches In Babylon Let Me Be Me" is
 This is Ellie's EP released by Crue-L in 1997.
 
 The A-side includes a remix by Takeshi Kubota, and the B-side is a remix by Shaka Zombie's Tucchi.

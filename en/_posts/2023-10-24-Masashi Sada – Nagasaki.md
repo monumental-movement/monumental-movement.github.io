@@ -9,7 +9,7 @@ tags:
 - JPop
 - Nostalgic
 - 7inch
-title: Masashi Sada – Nagasaki Yocque
+title: Masashi Sada – Nagasaki Yoyoku
 ---
 
 

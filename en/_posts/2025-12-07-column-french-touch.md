@@ -22,7 +22,7 @@ Text: mmr｜Theme: How the reappraisal of 2000s French house connected to Nu Dis
 About analog synths, record culture, and filter house techniques
 
 In the late 2020s, **French Touch** (French house) is being reevaluated in both club and internet culture. In terms of DJ performances, songs like Stardust"s ""Music Sounds Better With You" and Cassius' ""1999" are moving the younger crowd again, and Daft Punk"s early works are finding new audiences through vinyl reissues.
-Furthermore, as domestic and foreign producers actively incorporate *analog synths, tape textures, the roughness of sampling, and the texture of vinyl lips*, they are naturally connecting with the context of **Nu Disco**, which was established in the late 2000s.
+Furthermore, as domestic and foreign producers actively incorporate *analog synths, tape textures, roughness of sampling, and vinyl lip texture*, they are naturally connecting with the context of **Nu Disco**, which was established in the late 2000s.
 
 This phenomenon is not just nostalgia.
 Rather, it is precisely because the digital environment has become completely pervasive that
@@ -50,7 +50,7 @@ color: #fff;
 ## 2. Establishment of French Touch: Situation in Paris in the late 1990s
 ### ● Background: An encounter between house and disco
 In the mid-1990s, the Parisian club scene absorbed American house music while forming a unique structure that brought disco/soul samples to the fore.
-While the influence of Chicago House was strong, house began to function as a new type of ""pop music" by mixing in the ""sophisticated melodic feel" unique to Europe.
+While strongly influenced by Chicago House, house began to function as a new type of ""pop music" as it mixed with a ""sophisticated melodic feel" unique to Europe.
 
 ### ● Existence of label/base
 - **Roulé (Thomas Bangalter)**
@@ -205,7 +205,7 @@ This "ambiguity" was very important to French Touch.
 - Crushed loops due to compressor
 - Coarse sampling rate of MPC/SP-1200
 
-These qualities have been passed down to Nu Disco's texture.
+These qualities have been passed down to the texture of Nu Disco.
 
 ---
 
@@ -257,7 +257,7 @@ By incorporating **disco~80s revival**,
 French house sounds are gaining renewed attention.
 
 ### ● 3) "Re-digging" among young people
-On YouTube, SoundCloud, and TikTok
+on YouTube, SoundCloud, and TikTok
 French Touch classics were rediscovered and spread to a generation unfamiliar with club culture.
 
 ---

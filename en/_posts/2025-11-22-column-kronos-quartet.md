@@ -45,9 +45,9 @@ color: #fff;
 
 ## 2. From formation to early activities (1973–1980s)
 
-Since its inception in San Francisco, the Kronos Quartet has been exploring a performance style that is outside of the traditional framework of classical music. Founder David Harris studied classical music at the University of California, Berkeley, and then became active in the San Francisco music scene, forming a quartet with like-minded friends.
+Since its inception in San Francisco, the Kronos Quartet has been exploring a performance style outside of the traditional framework of classical music. Founder David Harris studied classical music at the University of California, Berkeley, and then became active in the San Francisco music scene, forming a quartet with like-minded friends.
 
-In addition to baroque and classical works, the early repertoire included new works by contemporary composers. Their debut album, ""Kronos Quartet,'' released in 1976, was highly praised by critics for its combination of the esoteric nature of contemporary music and the high level of performance technique. During this period, they performed throughout the United States, mainly in San Francisco, and built a reputation as an innovative quartet.
+In addition to baroque and classical works, the early repertoire included new works by contemporary composers. Their debut album, ""Kronos Quartet,'' released in 1976, was highly acclaimed by critics for its combination of difficult contemporary music and high performance technique. During this period, they performed throughout the United States, mainly in San Francisco, and built a reputation as an innovative quartet.
 
 ### Major albums (early)
 
@@ -73,7 +73,7 @@ This period was characterized by **innovations in performance techniques**. In a
 
 From the 1990s to the 2000s, the Kronos Quartet began to move beyond the boundaries of classical music, merging with genres such as world music, pop, film music, and jazz.
 
-Innovation in film music is particularly notable with the film ""Requiem for a Dream" released in 2000. Composed by Clint Mansell, performed by Kronos Quartet. The string quartet"s ""Lux Aeterna" and other pieces were overwhelmingly effective in their repeated motivation, building tension, and amplifying emotion, all of which are linked to the film"s psychological portrayal.
+Innovation in film music is particularly notable with the film ""Requiem for a Dream" released in 2000. Composed by Clint Mansell, performed by Kronos Quartet. The string quartet"s ""Lux Aeterna" and other pieces were overwhelmingly effective in their repetitive motive, building tension, and amplifying emotion, all of which are linked to the film"s psychological portrayal.
 
 ### Movie Soundtrack Features
 

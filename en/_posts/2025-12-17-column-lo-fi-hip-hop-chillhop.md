@@ -154,7 +154,7 @@ This culture is not limited to a specific region, but is formed simultaneously o
 
 ### 2020s
 
-* Consumption for environmental music has become commonplace
+* Consumption for environmental music becomes commonplace
 
 ---
 
@@ -176,11 +176,11 @@ What is distinctive about Lo-Fi Hip Hop/Chillhop is that it has permeated everyd
 
 This everydayization indicates the process by which music moves from being an ""object of appreciation" to being an ""environmental condition." Lo-Fi Hip Hop was accepted as something to keep flowing rather than being listened to.
 
-This cultural expansion was supported by the shift in the role of music to aiding behavior.
+This expansion of culture was supported by the shift in the role of music to aiding behavior.
 
 ---
 
-## 16. Musical structure in the age of algorithms
+## 16. Music structure in the age of algorithms
 
 Recommendation algorithms in distribution platforms had a strong influence on the structure formation of Lo-Fi Hip Hop/Chillhop. Stability that lowers the dropout rate has become more important than introductions that make an impression in a short period of time or dramatic developments.
 

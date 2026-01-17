@@ -117,7 +117,7 @@ In 2020, Autechre presents a new chapter of the two-disc set.
 Amidst the algorithmic precision, there is a tranquil, organic fluctuation.
 
 Among listeners, it is often said that "Autechre redefined Ambient."
-The tracks on ""SIGN" sound like a machine learning ""silence."
+The tracks on ""SIGN" sound like a machine learning ""silence".
 Their sound is always walking the middle ground between the future and nostalgia.
 
 ---

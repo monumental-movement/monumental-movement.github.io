@@ -141,7 +141,7 @@ A noise experimental piece that makes full use of modified electronic equipment 
 
 ## Ⅵ. Japan's golden age of electronic toys
 
-In the 1970s and 1980s, portable synths and electronic musical toys became popular in Japanese households.
+In the 1970s and 1980s, portable synths and electronic musical instruments became popular in Japanese households.
 
 - Yamaha Portasound Series
 - CASIO VL-TONE
@@ -206,7 +206,7 @@ The concept of "play" is once again returning to the center of music creation an
 
 ## Appendix
 
-### Evolutionary history of Strange Musical Toys around the world (simple chronology)
+### Evolution history of Strange Musical Toys around the world (simple chronology)
 
 <div class="mermaid">
 
@@ -219,7 +219,7 @@ flowchart TD
     E1990["1990: Establishment of Circuit Bending concept (USA)"]
     F2007["2007: Teenage Engineering OP-1 released (Sweden)"]
     G2010["2010: Pocket Operator Series (Sweden)"]
-    H2020["2020: Introducing AI toy music device"]
+    H2020["2020: AI toy music device introduced"]
     
     A1970 --> B1978 --> C1979 --> D1980 --> E1990 --> F2007 --> G2010 --> H2020
 

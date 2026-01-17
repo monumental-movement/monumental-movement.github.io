@@ -49,7 +49,7 @@ color: #fff;
 
 The term "post-rock" became established in the mid-1990s. It began to be used to describe music that uses rock instrumentation but distances itself from blues-derived riffs, vocal focus, and formulaic song structures. This concept did not refer to a specific sound, but rather to an attitude or methodology.
 
-The background lies in the multiple musical cultures that have accumulated since the 1970s. The repetition and minute changes exhibited by minimal music, the idea of ​​environmental music presented by ambient, the deconstructive attitude brought about by post-punk, and even the sense of spatial processing in dub and electronic music. Post-rock was formed as a result of these intersecting with the rock context.
+The background lies in the multiple musical cultures that have accumulated since the 1970s. The repetition and subtle changes exhibited by minimal music, the idea of ​​environmental music presented by ambient, the deconstructive attitude brought about by post-punk, and even the sense of spatial processing in dub and electronic music. Post-rock was formed as a result of these intersecting with the rock context.
 
 What is important is that post-rock was not a ""negation of rock.'' While the guitar, bass, and drum lineup was maintained, their roles were redefined. The guitar became a device for creating sustained sounds and textures rather than carving out riffs, and the drums moved from being a beat-setting device to one that controlled the flow of time and tension.
 
@@ -59,7 +59,7 @@ What is important is that post-rock was not a ""negation of rock.'' While the gu
 
 ## Changes in the listening experience brought about by instrumentalization
 
-One of the major turning points in post-rock was the elimination of vocals, or their extreme relegation to the background. With lyrics out of the foreground, the music was freed from concrete meanings and narratives, turning it into a more abstract experience.
+One of the major turning points in post-rock was the elimination of vocals, or their extreme relegation to the background. With lyrics out of the picture, the music was freed from concrete meanings and stories, and turned into a more abstract experience.
 
 With instrumental music, the listener doesn't have to follow the words. Instead, attention is directed to the overlapping sounds, changes in strength and weakness, and the passage of time itself. This is a listening experience that requires active immersion rather than passive consumption.
 
@@ -160,7 +160,7 @@ This trend is not an abrupt break, but can be understood as a continuum in which
 
 Currently, post-rock instrumental and cinematic rock have become established as expressive methods rather than specific genre names. Its structure continues to be referenced in different contexts such as videos, games, and installations.
 
-Two directions set forth by Explosions in the Sky and Godspeed You! Black Emperor still serve as creative reference points. Music, which has no words, continues to connect with the listener's own experiences, transcending eras and cultures.
+Two directions set forth by Explosions in the Sky and Godspeed You! Black Emperor still serve as creative reference points. Music without words continues to connect with the listener's own experiences, transcending eras and cultures.
 
 > Post-rock instrumental music will continue to create new stories through silence and time.
 
