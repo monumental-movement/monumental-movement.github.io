@@ -375,7 +375,14 @@
     <!-- End Toc -->
     <h2 id="1장-소개--왜-12비트인가요">1장: 소개 — 왜 12비트인가요?</h2>
 
-<p>글 : mmr │ 주제 : 1980년대부터 1990년대 초반까지 음악제작에 중심적인 역할을 했던 12비트 샘플러에 대하여.</p>
+<table>
+  <tbody>
+    <tr>
+      <td>텍스트: mmr</td>
+      <td>주제: 1980년대부터 1990년대 초반까지 음악 제작에서 중심적인 역할을 했던 “12비트 샘플러”에 대해.</td>
+    </tr>
+  </tbody>
+</table>
 
 <p>12비트 샘플러는 단순한 ‘기술적 중간점’이 아니라 의도하지 않은 음향 특성을 만들어내며 새로운 제작 방식과 음악적 언어를 탄생시켰습니다. 16비트 및 24비트와 같은 “고해상도”가 이상화되기 이전에는 12비트가 메모리 제약과 결합되어 고유한 음향 윤곽, 왜곡 및 양자화 노이즈를 생성했습니다. 이는 많은 제작자에게 단점이 아니라 오히려 음조 디자인의 원재료였습니다.</p>
 
@@ -394,11 +401,11 @@ color: #fff;
 }
 </style>
 
-<h2 id="2장-기본-기술-지식---샘플링-이론-및-12비트-특성">2장: 기본 기술 지식 - 샘플링 이론 및 12비트 특성</h2>
+<h2 id="2장-기술-기초---샘플링-이론-및-12비트-특성">2장: 기술 기초 - 샘플링 이론 및 12비트 특성</h2>
 
 <h3 id="21-샘플링의-기본">2.1 샘플링의 기본</h3>
 
-<p>아날로그 신호를 고정된 시간 간격으로 나누어 수치값으로 나누는 과정(샘플링)에는 <strong>샘플링 주파수(Hz)</strong>와 <strong>양자화 비트 심도(bit)</strong>라는 두 가지 주요 매개변수가 있습니다. 샘플링 주파수는 Nyquist 이론으로 설명되며 양자화 비트 깊이는 동적 범위 및 양자화 노이즈와 관련이 있습니다.</p>
+<p>아날로그 신호를 고정된 시간 간격으로 나누어 수치값으로 나누는 과정(샘플링)에는 <strong>샘플링 주파수(Hz)</strong>와 <strong>양자화 비트 심도(비트)</strong>라는 두 가지 주요 매개변수가 있습니다. 샘플링 주파수는 Nyquist 이론으로 설명되며 양자화 비트 깊이는 동적 범위 및 양자화 노이즈와 관련이 있습니다.</p>
 
 <ul>
   <li><strong>12비트</strong>: 이론적으로 다이나믹 레인지는 약 72dB(이상적인 조건)입니다. 실제로 유효 다이내믹 레인지는 회로 노이즈와 아날로그 경로의 영향으로 인해 사용하는 장비에 따라 다릅니다.</li>
@@ -420,7 +427,7 @@ color: #fff;
 
 <h2 id="3장-시장-배경---메모리-가격-및-생산-환경">3장: 시장 배경 - 메모리 가격 및 생산 환경</h2>
 
-<p>1980년대 중후반에는 반도체 메모리 가격이 지금보다 훨씬 높았다. 1MB의 RAM을 추가하는 것이 수백 달러의 가치가 있던 당시 장비 제조업체는 샘플링 시간을 절약할 수 있는 설계를 선택했습니다. 이로 인해 짧은 샘플 시간, 낮은 샘플링 주파수 및 12비트와 같은 사양이 실질적으로 절충됩니다. 한편, “샘플을 빠르게 채취하고 떨어뜨리는(고속 샘플링 → 피치 다운”) 기술 등 제약 조건을 활용하는 창의적인 방법이 개발되었습니다.</p>
+<p>1980년대 중후반에는 반도체 메모리 가격이 지금보다 훨씬 높았다. 1MB의 RAM을 추가하는 것이 수백 달러의 가치가 있던 당시 장비 제조업체는 샘플링 시간을 절약할 수 있는 설계를 선택했습니다. 이로 인해 짧은 샘플 시간, 낮은 샘플링 주파수 및 12비트와 같은 사양이 실질적으로 절충됩니다. 한편, “샘플을 빠르게 채취하고 떨어뜨리는(고속 샘플링 → 피치 다운”) 기술과 같이 제약 조건을 활용하는 창의적인 방법이 개발되었습니다.</p>
 
 <hr />
 
@@ -429,7 +436,7 @@ color: #fff;
 <h3 id="41-e-mu-sp-12001987--기술-및-실제-세부-사항">4.1 E-mu SP-1200(1987) — 기술 및 실제 세부 사항</h3>
 
 <ul>
-  <li><strong>출판연도</strong>: 1987년</li>
+  <li><strong>출판 연도</strong>: 1987</li>
   <li><strong>샘플링 주파수</strong>: 26.04kHz</li>
   <li><strong>비트 깊이</strong>: 12비트</li>
   <li><strong>총 샘플 길이</strong>: 약 10초(모노 전체)</li>
@@ -462,7 +469,7 @@ Roger Linn의 설계 지원을 통해 MPC60은 “재생 가능한 샘플러”�
 <h3 id="43-아카이-s900--s950">4.3 아카이 S900 / S950</h3>
 
 <ul>
-  <li>S900(1986): 초기 랙형 샘플러. 샘플 정확도는 최대 12비트 대역폭이며 편집 기능과 외부 동기화 기능이 있습니다.</li>
+  <li>S900(1986): 초기 랙형 샘플러. 샘플 정확도는 최대 12비트 대역폭이며 편집 기능과 외부 동기화 기능을 갖추고 있습니다.</li>
   <li>S950(1988): S900의 고급 버전으로, 보다 유연한 시간 확장 기능(대략 변환 기능)을 제공합니다. 당시의 판매 기록과 기사는 그것이 클럽 음악 제작에 널리 사용되었음을 확인시켜줍니다.</li>
 </ul>
 
@@ -503,8 +510,8 @@ Roger Linn의 설계 지원을 통해 MPC60은 “재생 가능한 샘플러”�
 <h3 id="52-mpc60형-제작-워크플로성능-강조">5.2 MPC60형 제작 워크플로(성능 강조)</h3>
 
 <ol>
-  <li>상대적으로 오랜 시간 동안 샘플을 녹음할 수 있습니다. (MPC60은 SP-1200보다 더 오랜 시간 동안 녹음이 가능합니다.)</li>
-  <li>패드에 로드하여 입력 및 필터 작업을 즉석에서 수행</li>
+  <li>상대적으로 오랜 시간 동안 샘플을 녹음합니다. (MPC60은 SP-1200보다 더 오랜 시간 동안 녹음이 가능합니다.)</li>
+  <li>패드에 로드하고 입력 및 필터 작동을 즉석에서 수행합니다.</li>
   <li>내장된 시퀀서를 사용하여 프레이즈를 만들고 각 음표의 속도와 위치를 변경하여 스윙을 추가합니다.</li>
   <li>MIDI 동기화를 사용하여 다른 장비와 연동하여 구축</li>
 </ol>
@@ -532,13 +539,13 @@ Roger Linn의 설계 지원을 통해 MPC60은 “재생 가능한 샘플러”�
 
 <h2 id="7장-장르별-영향힙합rb하우스테크노">7장: 장르별 영향(힙합/R&amp;B/하우스/테크노)</h2>
 
-<p>7.1 힙합에서 SP-1200의 역할</p>
+<h3 id="71-힙합에서-sp-1200의-역할">7.1 힙합에서 SP-1200의 역할</h3>
 
 <p>SP-1200은 해적판 및 브레이크 재작업에 최적화된 톤을 갖추고 있으며 많은 황금 시대 힙합 프로덕션 환경에서 사실상 표준 도구가 되었습니다. Pete Rock, DJ Premier, The Bomb Squad 등의 프로듀서들이 SP형 샘플 작업을 했다는 사실이 여러 기사에서 확인되었습니다.</p>
 
 <h3 id="72-rb와-mpc의-관계">7.2 R&amp;B와 MPC의 관계</h3>
 
-<p>MPC60의 높은 연주성과 MIDI 호환성으로 인해 R&amp;B 및 팝 음악 제작 현장에서 인기가 높아졌습니다. 여러 인터뷰를 통해 Teddy Riley와 같은 제작자가 제작에 MPC를 사용한 것으로 나타났습니다.</p>
+<p>MPC60의 높은 연주성과 MIDI 호환성으로 인해 R&amp;B 및 팝 음악 제작 현장에서 인기를 얻었습니다. 여러 인터뷰를 통해 Teddy Riley와 같은 제작자가 제작에 MPC를 사용한 것으로 나타났습니다.</p>
 
 <h3 id="73-하우스테크노-및-저해상도-샘플">7.3 하우스/테크노 및 저해상도 샘플</h3>
 
@@ -549,7 +556,7 @@ Roger Linn의 설계 지원을 통해 MPC60은 “재생 가능한 샘플러”�
 <h2 id="8장-주요-아티스트-및-사용-예">8장: 주요 아티스트 및 사용 예</h2>
 
 <blockquote>
-  <p>아래에는 공개 인터뷰, 크레딧, 기술 기사, 공식 문서 등 사실적 정보를 바탕으로 한 사용 사례를 발췌했습니다.</p>
+  <p>아래는 공개 인터뷰, 크레딧, 기술 기사, 공식 문서 등 사실적 정보를 바탕으로 한 사용 사례를 발췌한 것입니다.</p>
 </blockquote>
 
 <div class="mermaid">
@@ -587,7 +594,7 @@ flowchart TD
 <ul>
   <li>E-mu SP-1200 서비스 매뉴얼(기술사양)</li>
   <li>Akai MPC60 사용자 매뉴얼(제품 매뉴얼)</li>
-  <li>당시의 음악기술지(1987~1995년호)</li>
+  <li>당시 음악기술지(1987~1995년호)</li>
   <li>프로듀서 인터뷰 (Pete Rock, DJ Premier, Dr. Dre 등)</li>
 </ul>
 
@@ -1026,6 +1033,106 @@ flowchart TD
 
   
 
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
   
 
   
@@ -1039,6 +1146,92 @@ flowchart TD
   
 
   
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+    
+
+    
+
+    
 
   
 
@@ -1087,6 +1280,40 @@ flowchart TD
     
 
     
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+
+    
+
+    
+
+  
 
   
 
@@ -1923,7 +2150,7 @@ flowchart TD
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-lo-fi-hip-hop-chillhop.webp" alt="【コラム】 Lo-Fi Hip Hop / Chillhop（宅録ビート文化）" loading="lazy" decoding="async">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-lo-fi-hip-hop-chillhop.webp" alt="[칼럼] Lo-Fi Hip Hop / Chillhop (가정에서 녹음한 비트 문화)" loading="lazy" decoding="async">
                     
 
                 
@@ -1931,10 +2158,10 @@ flowchart TD
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/ko/column-lo-fi-hip-hop-chillhop/">【コラム】 Lo-Fi Hip Hop / Chillhop（宅録ビート文化）</a>
+                <a class="text-dark" href="/ko/column-lo-fi-hip-hop-chillhop/">[칼럼] Lo-Fi Hip Hop / Chillhop (가정에서 녹음한 비트 문화)</a>
                 
             </h2>
-            <h4 class="card-text">1. 概念定義と呼称の整理
+            <h4 class="card-text">1. 개념 정의 및 명칭 정리
 </h4>
         </div>
         <div class="card-footer bg-white">
@@ -5321,7 +5548,7 @@ flowchart TD
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-french-hiphop.webp" alt="【コラム】 フレンチ・ヒップホップ完全史：NTMから現代まで" loading="lazy" decoding="async">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-french-hiphop.webp" alt="[칼럼] 프랑스 힙합의 완전한 역사: NTM부터 현재까지" loading="lazy" decoding="async">
                     
 
                 
@@ -5329,10 +5556,10 @@ flowchart TD
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/ko/column-french-hiphop/">【コラム】 フレンチ・ヒップホップ完全史：NTMから現代まで</a>
+                <a class="text-dark" href="/ko/column-french-hiphop/">[칼럼] 프랑스 힙합의 완전한 역사: NTM부터 현재까지</a>
                 
             </h2>
-            <h4 class="card-text">フレンチ・ヒップホップ完全史
+            <h4 class="card-text">프랑스 힙합의 완전한 역사
 </h4>
         </div>
         <div class="card-footer bg-white">
@@ -6231,7 +6458,7 @@ flowchart TD
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Faith Evans Feat. Puff Daddy – All Night Long.webp" alt="Faith Evans Feat. Puff Daddy – All Night Long" loading="lazy" decoding="async">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Faith Evans Feat. Puff Daddy – All Night Long.webp" alt="페이스 에반스 Feat. 퍼프 대디 – 밤새도록" loading="lazy" decoding="async">
                     
 
                 
@@ -6239,10 +6466,10 @@ flowchart TD
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/ko/faith-evans-feat-puff-daddy-all-night-long/">Faith Evans Feat. Puff Daddy – All Night Long</a>
+                <a class="text-dark" href="/ko/faith-evans-feat-puff-daddy-all-night-long/">페이스 에반스 Feat. 퍼프 대디 – 밤새도록</a>
                 
             </h2>
-            <h4 class="card-text">USのR&amp;B シンガーであり、Notorious B.I.G. (ノートリアスBIG)の妻だったFaith EvansがPuff Daddyとコラボし、1999年にレーベルBad Boy EntertainmentからリリースされたR&amp;B／House。
+            <h4 class="card-text">미국 R&amp;B 가수이자 Notorious B.I.G.의 아내인 Faith Evans는 Puff Daddy와 협력하여 1999년 Bad Boy Entertainment 레이블에서 R&amp;B/House를 발표했습니다.
 </h4>
         </div>
         <div class="card-footer bg-white">
