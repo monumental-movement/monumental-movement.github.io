@@ -32,35 +32,21 @@ color: #fff;
 
 ### Leftfieldとは？ / What is Leftfield?
 
-**日本語** 
 
 Leftfield（レフトフィールド）は二重の意味を持つ言葉です。  
 1. UKのデュオ、Neil Barnes & Paul Daleyによるプロジェクト。  
 2. ジャンルを越境し、実験的で知的なダンスミュージックを指す表現。  
 
-**English**  
-
-Leftfield has a double meaning:  
-1. The UK electronic duo formed by Neil Barnes & Paul Daley.  
-2. A broader term for experimental, genre-defying electronic and dance music.  
-
 ---
 
 ### 歴史と文脈 / History and Context
 
-**日本語**  
 
 - 1990年代初頭: UKレイヴ文化の中で誕生。  
 - 1995年: デビュー作『*Leftism*』がクラブシーンを越えて高評価を獲得。  
 - 2000年代以降: 「leftfield」という言葉は「主流から外れた革新的な音楽」の代名詞に。  
 - 現代: AI音楽生成や映画サウンドトラック制作の文脈で再評価。  
 
-**English**  
-
-- Early 1990s: Emerged within UK rave culture.  
-- 1995: Debut album *Leftism* gained critical acclaim beyond the club scene.  
-- 2000s onward: “Leftfield” became synonymous with music outside the mainstream.  
-- Today: Re-evaluated in the contexts of AI music generation and soundtrack production.  
 
 ---
 
@@ -91,13 +77,13 @@ flowchart TD
 
 ### 関連キーワード / Related Keywords
 
-**日本語**: Leftfield ジャンルとは, UKエレクトロニカ, トリップホップとの関係
+Leftfield ジャンルとは, UKエレクトロニカ, トリップホップとの関係
 
-**English**: Leftfield genre, UK electronica, relation to trip hop, soundtrack production, AI music generation
+
 
 ---
 
-### FAQ（日本語）
+### FAQ
 
 Q1. Leftfieldはジャンルですか？アーティスト名ですか？
 
@@ -111,31 +97,13 @@ Q3. 初心者におすすめは？
 
 A. 『Leftism』から始めるのが最適。
 
-### FAQ (English)
-
-Q1. Is Leftfield a genre or an artist?
-
-A. Both. It refers to the UK duo and also to experimental, non-mainstream electronic music.
-
-Q2. How does Leftfield differ from trip hop?
-
-A. Trip hop is based on downtempo and hip hop, while Leftfield is rooted in house/techno with dub and world music influences.
-
-Q3. Where should beginners start?
-
-A. Leftism is the essential starting point.
 
 ---
 
-### まとめ / Conclusion
+### まとめ 
 
-**日本語**
 
 Leftfieldは、UKエレクトロニカの象徴であると同時に、「音楽的冒険心」の代名詞です。クラブカルチャーから逸脱しながらも、その知的で芸術的な実験精神は現代のAI音楽やサウンドトラック制作にも影響を与え続けています。
-
-**English**
-
-Leftfield represents both a pioneering UK duo and a symbol of musical adventurousness. While diverging from the mainstream, its intellectual and artistic experimentation continues to influence AI-generated music and soundtrack composition today.
 
 
 ---
