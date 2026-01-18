@@ -22,7 +22,7 @@ title: '[Columna] Indie Shoegaze / Dream Pop'
 Texto: mmr｜Tema: Sobre la historia de la reconstrucción de imágenes y sensaciones sonoras.
 
 El shoegaze y el dream pop, que surgieron principalmente en el Reino Unido desde finales de los 80 hasta principios de los 90, cambiaron significativamente el ámbito expresivo de la música rock de la "interpretación" a la "imagen sonora".
-Estas músicas se centran en el espacio, la reverberación y el sostenido sensual creado por la superposición de sonidos, en lugar del atractivo inmediato de la melodía o la letra clara.
+Estas músicas se centran en el espacio, la reverberación y la duración sensual creada por la superposición de sonidos, en lugar del atractivo inmediato de la melodía o la letra clara.
 
 El término "shoegaze" surgió de la forma en que la gente miraba las tablas efectoras a sus pies mientras actuaban, y el término se estableció como un símbolo de la naturaleza introvertida de la actuación. El dream pop, por otro lado, se formó como resultado de la fusión de una sensibilidad pop ambiental anterior con la orientación sonora del post-punk.
 

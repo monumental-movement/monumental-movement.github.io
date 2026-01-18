@@ -22,7 +22,7 @@ Texto: mmr | Tema: Autechre de Sean Booth y Rob Brown. Seguimiento de la evoluci
 Autechre es más que un simple dúo de música electrónica.
 Su sonido es a la vez matemático y crudo. Parece frío y deja una aspereza un tanto humana. Sean Booth y Rob Brown, dos jóvenes que se conocieron en el norte de Manchester, emprendieron un camino para redefinir la estructura misma del sonido, utilizando el hip-hop y la curiosidad por la ingeniería como puntos de partida.
 
-A principios de la década de 1990, Autechre se destacó en la serie Inteligencia Artificial de Warp Records. Estaban buscando una manera de "convertir sonidos mecánicos en emoción". Sean Booth dijo más tarde en una entrevista:
+A principios de la década de 1990, Autechre se destacó entre las series de Inteligencia Artificial de Warp Records. Estaban buscando una manera de "convertir sonidos mecánicos en emoción". Sean Booth dijo más tarde en una entrevista:
 
 > “Para nosotros el techno no se trata de eliminar la emoción, sino de expresarla a través de una estructura”.
 
@@ -59,7 +59,7 @@ La continuación, "Amber" (1994), cautivó a muchos oyentes con su lirismo y esp
 ## Capítulo 2: La era de la deconstrucción acústica: “Tri Repetae” y el colapso del minimalismo
 
 En 1995, Autechre llega a un punto de inflexión.
-``Tri Repetae'' es el primer álbum de ``experimento estructural'' que rompe el marco del IDM. El ritmo colapsa y la capa de sonido se vuelve tan dura como una placa de acero. Trataron las cajas de ritmos (Roland R8, Nord Lead) como materia prima, incorporando errores y ruido a la gramática de su música.
+``Tri Repetae'' es el primer álbum de ``experimento estructural'' que rompe el marco del IDM. El ritmo colapsa y la capa sonora se vuelve tan dura como una placa de acero. Trataron las cajas de ritmos (Roland R8, Nord Lead) como materia prima, incorporando errores y ruido a la gramática de su música.
 
 El diseño de portada inorgánico de The Designers Republic también encajaba perfectamente con el mundo sonoro de Autechre.
 También fue una "fusión minimalista de vista y sonido".
@@ -75,14 +75,14 @@ La pregunta "¿Qué es el ritmo y qué es la música?" se revela aquí por prime
 
 En 1997-1998, Autechre progresó hacia estructuras más complejas.
 Chiastic Slide (1997) es un experimento de polirritmia y repetición. LP5 (1998) está construido como una escultura sonora.
-De particular interés es la programación en vivo con **Nord Modular y MPC1000**. El método de cambiar datos en tiempo real se convirtió en el prototipo de la posterior música algorítmica en vivo.
+De particular interés es la programación en vivo con **Nord Modular y MPC1000**. El método de cambiar datos en tiempo real se convirtió en el prototipo de la música algorítmica en vivo posterior.
 
 Su música se ha convertido en algo para experimentar en lugar de algo para escuchar.
 “Fold 4, Wrap 5” de “LP5” está lleno de un lirismo sutil en su abstracción. Fue un **redescubrimiento de la emoción** escondida detrás de la frialdad.
 
 > “Las emociones no se pueden eliminar mientras seamos seres humanos.”
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VRGIZv4miuM?si=ci4YSD3fiAbLlj7x" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VRGIZv4miuM?si=ci4YSD3fiAbLlj7x" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
@@ -108,7 +108,7 @@ Esta naturaleza completamente inorgánica es una prueba de que su objetivo es "d
 En la década de 2010, lanzaron la **serie AE_LIVE**. Grabamos los sonidos que el programa improvisaba tal cual eran y presentamos una estructura diferente para cada ciudad.
 Además, “NTS Sessions 1–4” (2018) es una obra maestra que dura más de 8 horas. Este es un logro monumental en el que Autechre ha construido un "universo de algoritmos acústicos".
 
-> “La improvisación también consiste en tomar prestado el pensamiento de un programa”.
+> “La improvisación también implica tomar prestado el pensamiento de un programa”.
 
 ---
 
@@ -213,7 +213,7 @@ El viaje para encontrar la respuesta está lejos de terminar.
 
 🔗 [[Columna] Desde los orígenes del IDM hasta la actualidad - Entre la exploración intelectual y la pista de baile](https://monumental-movement.jp/Column-IDM)
 
-🔗 [[Columna] Desde los orígenes del techno hasta el presente: una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[Columna] Desde los orígenes del techno hasta la actualidad - Una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)
 
 🔗 [[Columna] La edad de oro del techno británico](https://monumental-movement.jp/Column-90s-UKTechno)
 

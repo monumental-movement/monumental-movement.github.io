@@ -122,7 +122,7 @@ El rápido crecimiento ha sido notable en los últimos años.
 - Alta calidad de sonido
 - Rapidez de adaptación a géneros
 
-En particular, los puntos fuertes de Japón incluyen la "precisión del sonido", la "capacidad de composición" y la "compatibilidad con las imágenes y la producción".
+En particular, los puntos fuertes de Japón son la "precisión del sonido", la "capacidad de composición" y la "compatibilidad con las imágenes y la producción".
 
 ---
 
@@ -132,7 +132,7 @@ En particular, los puntos fuertes de Japón incluyen la "precisión del sonido",
 En Japón, se ha extendido por las calles y eventos desde mediados de la década de 2000, y las técnicas se comparten entre los artistas a través de sesiones de práctica y participación en competiciones.
 
 ## ◆ 2. Fuerte orientación técnica
-Los músicos japoneses destacan por su precisión de sonido y atención al detalle, y son muy elogiados incluso por los músicos extranjeros.
+Los jugadores japoneses son fuertes en precisión de sonido y atención al detalle, y son elogiados incluso por jugadores extranjeros.
 
 ## ◆ 3. Fusión con la cultura del vídeo y la edición
 Principalmente en YouTube y SNS,
@@ -214,7 +214,7 @@ Se requiere sincronización, armonía y capacidad de composición por parte de v
 
 ## ◆ Estación de bucle
 La categoría que más atención ha recibido en los últimos años,
-"Construye tú mismo música de múltiples capas"
+“Construyendo solo música multicapa”
 Hay un fuerte elemento de producción musical.
 
 ## ◆ Vitrinas / Exposición
@@ -254,7 +254,7 @@ Japón es
 
 - Precisión técnica
 - Precisión
-- Capacidad de arreglo
+- Capacidad de organización
 - Expresión visual
 
 Tiene una fuerza internacional en este sentido.
@@ -264,7 +264,7 @@ Podemos esperar que continúe activo tanto en Loopstation como en solitario.
 
 # Conclusión - Human Beatbox como cultura
 
-Human Beatbox es una cultura expresiva moderna que combina muchos aspectos como música, interpretación, vídeo y composición.
+Human Beatbox es una cultura de expresión moderna que combina muchos aspectos como música, interpretación, vídeo y composición.
 Ahora que la cultura de la competencia está madurando, la tecnología está evolucionando y los artistas japoneses están surgiendo, el beatboxing está experimentando cambios importantes y el beatboxing se está convirtiendo en algo más que una simple técnica: se está convirtiendo en un género musical internacional.
 
 Espero que este artículo te ayude a comprender la historia y el futuro del beatboxing.

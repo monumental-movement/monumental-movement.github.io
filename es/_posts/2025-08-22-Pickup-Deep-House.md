@@ -23,7 +23,7 @@ title: Recoger trabajos de casa profunda
 
 Descripción general: "Workshop 04" es un trabajo que combina elementos de minimalismo y deep house editado en vinilo. El lado A presenta una pista de deep house de los músicos alemanes Move D (David Moufang) y Fragment, la B1 presenta un deep house minimalista de Even Tuell y la B2 presenta una pista downtempo de Sascha Dive.
 
-Puntos recomendados: Atractivo ritmo tipo club e imagen de sonido profunda. Esta pieza es perfecta para aquellos que quieren disfrutar de la sofisticada escena house/minimalista europea.
+Puntos recomendados: Atractivo ritmo tipo club e imagen de sonido profunda. Esta pieza es perfecta para aquellos que quieren disfrutar de la sofisticada escena house/minimal europea.
 
 #### Lista de canciones
 ```md

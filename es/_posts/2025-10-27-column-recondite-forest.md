@@ -17,7 +17,7 @@ title: '[Columna] Recóndito y baño de bosque - Cuando el techno vuelve al bosq
 ## Prólogo: Un ritmo que se hunde en el bosque
 
 
-Texto: mmr | Tema: Artista alemán de minimal techno Recondite. La música permite escuchar la respiración del bosque en sus secuencias artificiales. Aquí exploramos la intersección filosófica de su obra y los baños de bosque (Shinrin-yoku).
+Texto: mmr | Tema: Artista alemán de minimal techno Recondite. En la música se puede escuchar la respiración del bosque en sus secuencias artificiales. Aquí exploramos la intersección filosófica de su obra y los baños de bosque (Shinrin-yoku).
 
 Recóndito――nombre real Lorenz Brunner.
 Cuando muchas personas escuchan su música por primera vez, sienten una sensación de "soledad" y "tranquilidad".
@@ -96,7 +96,7 @@ Sus ritmos son meditativos y están diseñados para sincronizarse con los latido
 
 Desde la psicología musical se sabe que un determinado tempo promueve un estado en el que el sistema nervioso parasimpático es dominante.
 Por lo tanto, la experiencia en vivo de Recondite es más que un simple evento de club;
-Se puede decir que funciona como “**Baño de Bosque en la Ciudad**”.
+Se puede decir que funciona como "**baño de bosque en la ciudad**".
 
 ---
 
@@ -115,7 +115,7 @@ Es una **reproducción de un bosque digital** que lleva los sentidos humanos a l
 ## Capítulo 6: Recóndito y Japón: la intersección de la cultura forestal
 
 Lo interesante es que cuando Recondite visitó Japón,
-"Me influyó profundamente la tranquilidad de los bosques de Japón", dijo (de una entrevista de 2018).
+"Me influyó profundamente la tranquilidad de los bosques de Japón", dijo (en una entrevista de 2018).
 A diferencia de los bosques occidentales, los "signos forestales" de Japón tienen una **introspección mítica**.
 Esta influencia es evidente en el minimalismo de sus obras posteriores.
 
@@ -183,7 +183,7 @@ En otras palabras, presenta una nueva fisicalidad llamada **Música = Bosque de 
 ## Capítulo 10: Conclusión - El techno regresa al bosque
 
 La música de Recondite no es de naturaleza mecánica, sino
-**Mantiene un equilibrio como una máquina que respira en la naturaleza**.
+**Mantiene un equilibrio que se siente como una máquina respirando en la naturaleza**.
 
 Si los baños de bosque son un acto de "devolver a los humanos a la naturaleza",
 La música de Recondite es un acto de "devolver el techno a la naturaleza".

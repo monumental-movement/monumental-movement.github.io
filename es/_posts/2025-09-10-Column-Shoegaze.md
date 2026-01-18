@@ -30,7 +30,7 @@ A continuación, repasaremos la historia de Shoegaze por década e introduciremo
 - Siguiendo las tendencias del post-punk y new wave, se buscaba un nuevo enfoque para fusionar el ruido de guitarra y las melodías pop.
 - Los sellos independientes como Creation Records están liderando la escena.
 
-### Obra maestra representativa
+### Obras maestras representativas
 - [Mi San Valentín Sangriento – *No es nada* (1988)](https://amzn.to/4njxSGF)
 - [Gemelos Cocteau – *Blue Bell Knoll* (1988)](https://amzn.to/4mAovBh)
 - [La cadena de Jesús y María – *Psychocandy* (1985)](https://amzn.to/3IyW48K)
@@ -77,8 +77,8 @@ color: #fff;
 - Ride, Slowdive, Lush y otros lanzaron obras maestras una tras otra.
 - Aunque decayó temporalmente con el auge del britpop, fue muy elogiado por las generaciones posteriores.
 
-### Obra maestra representativa
-- [Mi San Valentín Sangriento – *Sin amor* (1991)](https://amzn.to/3Kijvne)
+### Obras maestras representativas
+- [Mi San Valentín Sangriento – *Sin Amor* (1991)](https://amzn.to/3Kijvne)
 - [Inmersión lenta – *Souvlaki* (1993)](https://amzn.to/4newBAp)
 - [Paseo – *A ninguna parte* (1990)](https://amzn.to/4o4V4IP)
 
@@ -110,7 +110,7 @@ color: #fff;
 - Una nueva generación de renacimiento del Shoegaze está progresando principalmente en Estados Unidos.
 - Con la difusión de la cultura de Internet, la reevaluación se está acelerando.
 
-### Obra maestra representativa
+### Obras maestras representativas
 - [M83 – *Ciudades muertas, mares rojos y fantasmas perdidos* (2003)](https://amzn.to/46Qy7D5)
 - [Cazador de ciervos – *Microcastillo* (2008)](https://amzn.to/4mu2OCC)
 - [Asobi Seksu – *Cítricos* (2006)](https://amzn.to/4nE4GtC)
@@ -143,7 +143,7 @@ A veces | Siempre | JAMC y Esperanza Sandoval | La línea entre el ruido y el po
 - Están surgiendo bandas de nueva generación como DIIV y Nothing.
 - Fusión con Dreampop y Chillwave.
 
-### Obra maestra representativa
+### Obras maestras representativas
 - [DIIV – *Oshin* (2012)](https://amzn.to/3KhoeFM)
 - [Nada – *Culpable de todo* (2014)](https://amzn.to/42C57wq)
 - [Ringo Deathstarr – *Viaje de color* (2011)](https://amzn.to/3IynMCB)
@@ -176,7 +176,7 @@ A veces | Siempre | JAMC y Esperanza Sandoval | La línea entre el ruido y el po
 - También es popular entre las generaciones más jóvenes debido a su difusión a través de festivales y streaming.
 - Las técnicas del Shoegaze también están ligadas al K-POP y a la revalorización del city pop japonés.
 
-### Obra maestra representativa
+### Obras maestras representativas
 - [Nada – *The Great Dismal* (2020)](https://amzn.to/4nNNmm8)
 - [Inmersión lenta – *Todo está vivo* (2023)](https://amzn.to/46PP5l8)
 - [Tamaryn – *Soñando en la oscuridad* (2019)](https://amzn.to/46sFjp7)

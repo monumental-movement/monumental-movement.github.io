@@ -56,7 +56,7 @@ Orb integra el procesamiento espacial de ambient, techno y dub, presentando una 
 
 Lo que es digno de mención es que incluso en las escenas donde el ritmo está en primer plano, nunca muestra su fuerza motriz. El compás no es un dispositivo que dirige el movimiento, sino que sirve como punto de referencia para medir la profundidad.
 
-Esta filosofía de diseño se convirtió en la base del Ambient Techno y tuvo una influencia decisiva en las posteriores expresiones del Deep Ambient y del deep sea techno.
+Esta filosofía de diseño se convirtió en la base del Ambient Techno y tuvo una influencia decisiva en las posteriores expresiones del Deep Ambient y del deep-sea techno.
 
 
 ---
@@ -94,7 +94,7 @@ Lo importante es que la reverberación funciona como indicador del paso del tiem
 
 Mantener bajas frecuencias, cambios lentos y reverberaciones prolongadas reduce psicológicamente el estado de alerta. Esto significa que la música no despierta emociones, sino que funciona como un dispositivo para regular los estados de conciencia.
 
-La música ambiental de las profundidades marinas tiene una gran afinidad con la concentración, la introspección y el estado de semivigilia, lo que la convierte en una opción natural para la música de fondo del trabajo y la meditación.
+La música ambiental de aguas profundas tiene una gran afinidad con la concentración, la introspección y el estado de semivigilia, lo que la convierte en una opción natural para la música de fondo del trabajo y la meditación.
 
 
 ---
@@ -119,7 +119,7 @@ La diferencia decisiva con la música ambiental de las profundidades marinas res
 
 ## 10. Comparación con el Deep Techno
 
-Deep Techno se caracteriza por su estructura mínima, tempo lento y desarrollo restringido, y es música que busca la profundidad manteniendo el contexto del club.
+Deep Techno se caracteriza por una estructura mínima, un tempo lento y un desarrollo restringido, y es música que busca la profundidad manteniendo el contexto del club.
 
 Mientras que Ambient Techno/Deep Ambient se distancia de la naturaleza de club, Deep Techno introduce un sonido de aguas profundas conservando la función de suelo. Esta diferencia crea una clara diferencia en el uso y la postura de escucha.
 
@@ -128,7 +128,7 @@ Mientras que Ambient Techno/Deep Ambient se distancia de la naturaleza de club, 
 
 ## 11. Profundización del techno moderno
 
-En la producción techno moderna, están muy extendidas las expresiones de baja velocidad y baja estimulación que difieren de los estilos orientados a las horas punta. No se trata de un declive del género, sino de una expansión de sus usos.
+En la producción techno moderna, están muy extendidas las expresiones de baja velocidad y baja estimulación que difieren de los estilos orientados a las horas pico. No se trata de un declive del género, sino de una expansión de sus usos.
 
 La acústica de las profundidades marinas se convirtió en un lenguaje común en clubes, galerías y espacios de trabajo privados.
 

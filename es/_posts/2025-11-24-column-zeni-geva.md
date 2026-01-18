@@ -68,7 +68,7 @@ En 1991, Zeni Geva alcanzó un importante punto de inflexión. Es una colaboraci
 El primer álbum de larga duración grabado por Albini.
 La violencia de Zeni Geva y el sonido seco y directo de Albini combinaron perfectamente, lo que les valió fuertes críticas en el extranjero.
 
-### “Deseo de agonía (1993)”
+### "Deseo de agonía (1993)"
 - Publicado por el sello estadounidense **Alternative Tentacles** (organizado por Jello Biafra)
 - La gira por el extranjero comienza en serio
 - Lanzó muchos EP y sencillos casi al mismo tiempo (Nai-Ha, Disgraceland, etc.)
@@ -113,7 +113,7 @@ Para Zeni Geva, la incorporación de Yoshida una vez más tuvo un fuerte impacto
 
 ---
 
-## 5. Segundo período Zeni Geva (2010–): reevaluación y atención renovada global
+## 5. Segundo período Zeni Geva (2010–): reevaluación y nueva atención global
 ### “Vivo y en ascenso (2010)”
 - Fuente de sonido en vivo de la programación de 2009.
 - La batería pervertida de Tatsuya Yoshida y el duelo de guitarras de Null & Tabata son espectaculares.

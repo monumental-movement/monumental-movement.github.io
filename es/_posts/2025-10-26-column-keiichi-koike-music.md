@@ -58,7 +58,7 @@ Durante este período, se establecieron las bases de la **expresión temporal/r�
 
 - **1986**: Publicación del primer libro "SPINOZA" (Sakushasha).
 Caracterizado por temas filosóficos y visuales abstractos.
-Al ajustar la densidad de las líneas, la composición de la pantalla y el ritmo temporal, se revela la **musicalidad visual**.
+**La musicalidad visual** se revela ajustando la densidad de las líneas, la composición de la pantalla y el ritmo temporal.
 
 - **1988**: Publicado ``Katajikenai'' (Hakusensha) y ``G (GATE 1)'' (Schola).
 Las líneas tensas en el escenario de ciencia ficción y la expresión del cuerpo humano son como polirritmos musicales.
@@ -71,7 +71,7 @@ Las líneas tensas en el escenario de ciencia ficción y la expresión del cuerp
 El tema son las experiencias alucinatorias, la división de la conciencia y la alteración del sentido del tiempo.
 La estructura de la página y el diseño del panel funcionan como una estructura musical (repetición, variación, onda).
 
-- **2003**: Publicación de la colección de cuentos ``HEAVEN'S DOOR'', reimpresión de ``G'' previamente publicada.
+- **2003**: Publicación de la colección de cuentos ``HEAVEN'S DOOR'', reimpresión de ``G'' publicada anteriormente.
 Líneas precisas y ritmos visuales brindan al lector una experiencia musical.
 
 - **2005**: Se publica el Volumen 2 de "ULTRA HEAVEN".

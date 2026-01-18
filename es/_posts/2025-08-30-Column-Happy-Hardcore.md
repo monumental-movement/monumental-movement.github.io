@@ -47,7 +47,7 @@ Ejemplo: en la escena Anime Rave/J-Core, se muestrean líneas y melodías de ani
 
 #### Conexión con J-Core
 
-Desde la década de 2000, ha surgido la escena "J-Core" única en Japón.
+Desde la década de 2000, ha surgido la escena "J-Core" única de Japón.
 
 Basado en happy hardcore, fusionado con la cultura otaku (anime, doujin, cultura del club de Akihabara).
 
@@ -57,7 +57,7 @@ Los fanáticos extranjeros reconocen la fórmula de "Happy Hardcore + Anime" com
 
 #### Cultura del juego de baile (BEMANI/DDR)
 
-Se incluyen muchas canciones alegres y hardcore en [Dance Dance Revolution (DDR)] (https://amzn.to/4mxxAe5) y [serie beatmania IIDX] (https://amzn.to/46ic1ta) de Konami.
+Se incluyen muchas canciones felices y hardcore en [Dance Dance Revolution (DDR)] (https://amzn.to/4mxxAe5) y [serie beatmania IIDX] (https://amzn.to/46ic1ta) de Konami.
 
 Como resultado, la cultura de los centros de juegos distintos de los clubes en Japón se ha extendido a los jóvenes.
 

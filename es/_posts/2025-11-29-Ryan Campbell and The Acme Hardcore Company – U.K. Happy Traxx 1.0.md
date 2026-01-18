@@ -11,7 +11,7 @@ tags:
 - Hardcore
 - Happy Hardcore
 - 90s
-title: Ryan Campbell y The Acme Hardcore Company – Reino Unido Happy Traxx 1.0
+title: Ryan Campbell y The Acme Hardcore Company - Reino Unido Happy Traxx 1.0
 ---
 
 

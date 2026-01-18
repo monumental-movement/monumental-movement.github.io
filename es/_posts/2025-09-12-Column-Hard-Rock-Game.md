@@ -78,7 +78,7 @@ color: #fff;
 
 - **Antecedentes temporales**: El hard rock estadounidense como Mötley Crüe y Van Halen estaba en auge en todo el mundo. Con la llegada de MTV, se conectó directamente con la cultura visual.
 - **Punto de contacto con los juegos**: La época dorada de los arcades ("Space Invaders", "Pacman", "Outrun"). En particular, Sega y Namco reproducen la sensación trepidante de la música rock con chips de sonido.
-- El sonido del solo de guitarra de Van Halen y la sensación de trituración de 8 bits del juego están vinculados de forma audible.
+- El sonido de solo de guitarra de Van Halen y la sensación de trituración de 8 bits del juego están audiblemente vinculados.
 
 **Obra maestra representativa**
 
@@ -309,7 +309,7 @@ Desde la década de 2000, juegos de música como **Guitar Hero** y **Rock Band**
 | STAND DE SONIDO VOLTEX (2012) | Emperador Negro | Bosquejo aproximado | Núcleo metálico + Electro |
 | SONIDO VOLTEX II (2013) | INFECCIÓN XROSA | BlackY contra siromaru | Núcleo Hard Rock x Speed ​​|
 | SONIDO VOLTEX III (2014) | Memorias de crecimiento | akhuta | Sonido de banda |
-| SONIDO VOLTEX ONDA VÍVIDA (2019) | yo | nora2r | Estilo hard rock digital |
+| SONIDO VOLTEX ONDA VÍVIDA (2019) | Yo | nora2r | Estilo hard rock digital |
 
 ---
 
@@ -370,7 +370,7 @@ Desde la década de 2000, juegos de música como **Guitar Hero** y **Rock Band**
 
 - En el extranjero, nació el movimiento **``Guitar Hero'' → Empieza a tocar la guitarra**.
 - En Japón, **GuitarFreaks/DrumMania** fue pionero en la idea de "sensación de interpretación real" y sentó las bases de la cultura de los juegos musicales.
-- **Taiko no Tatsujin** se centra en la música pop, pero con sus canciones originales de estilo hard rock/metal, imprimieron un sonido parecido a una guitarra en los jóvenes.
+- **Taiko no Tatsujin** se centra en la música pop, pero con sus canciones originales de estilo hard rock/metal, imprimieron un sonido parecido a una guitarra en la generación más joven.
 - **SOUND VOLTEX** tiene un fuerte tono electro, pero incorpora activamente elementos de hard rock y metal para expresar el "impacto rockero" de una nueva generación.
 
 ---

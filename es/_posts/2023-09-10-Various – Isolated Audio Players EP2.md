@@ -27,7 +27,7 @@ Hay un parpadeo de Takayuki Shiraishi de Deep House. Esta pista también fue rep
 
 Además, "Tennis" de JIN HIYAMA, que tiene un breakbeat eléctrico con una textura única, es atractivo por su sonido áspero y ritmo emocionante.
 
-Y finalmente se incluye “Storm” de DOL-LOP, figura central de SOUND-CHANNEL, importante sello que contribuyó a la escena underground de Japón. Esta pista presenta un breakbeat único y genial, lo que le da una sensación japonesa única.
+Y finalmente se incluye "Storm" de DOL-LOP, figura central de SOUND-CHANNEL, importante sello que contribuyó a la escena underground de Japón. Esta pista presenta un breakbeat único y genial, lo que le otorga una originalidad claramente japonesa.
 
 Este EP ha sido aclamado como uno de los trabajos importantes de la escena musical japonesa. Podrás disfrutar de la esencia de la música underground de la época.
 

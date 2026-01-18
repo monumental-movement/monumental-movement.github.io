@@ -54,7 +54,7 @@ En este artículo, Instrumentales Experimentales de Hip Hop se refiere a un grup
 
 ## Prehistoria tecnológica: muestreadores y limitaciones
 
-Los samplers digitales, que se han hecho populares desde finales de los años 1980, se introdujeron como dispositivos para grabar y reproducir fragmentos cortos de audio. Los primeros equipos tenían severas limitaciones en cuanto a capacidad de memoria, frecuencia de muestreo y polifonía. Estas limitaciones no sólo redujeron la eficiencia, sino que también provocaron inevitablemente un deterioro y distorsión de la calidad del sonido.
+Los samplers digitales, que se han vuelto populares desde finales de la década de 1980, se introdujeron como dispositivos para grabar y reproducir fragmentos cortos de audio. Los primeros equipos tenían severas limitaciones en cuanto a capacidad de memoria, frecuencia de muestreo y polifonía. Estas limitaciones no sólo redujeron la eficiencia, sino que también provocaron inevitablemente un deterioro y distorsión de la calidad del sonido.
 
 > “Las restricciones se establecen como individualidad musical”
 
@@ -69,6 +69,10 @@ En la producción tradicional de hip-hop, los bucles de dos a ocho compases eran
 ---
 
 ## Prácticas de producción de Madlib
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMkGcEGW4U4?si=QLXLfNXsUYZPG0OW" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
 
 La producción de Madlib se caracteriza por un método de improvisación centrado en samplers de hardware. Al producir con la serie SP, la manipulación física tiene prioridad sobre la edición visual, dejando intactos los cambios y fluctuaciones de la muestra en la música.
 
@@ -85,10 +89,14 @@ flowchart LR
     C --> D["短尺ビート"]
 </div>
 
-
 ---
 
+
 ## Prácticas de producción de conocimiento
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yK91vjg2Hsg?si=r18TMv3pzhtatHbh" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
 
 Knxwledge se basa en un DAW y presenta bucles extremadamente cortos y edición aislada. La operación de colocación en la línea de tiempo visual sirve para separar el sentido del ritmo de los números.
 
@@ -96,7 +104,7 @@ Knxwledge se basa en un DAW y presenta bucles extremadamente cortos y edición a
 *Formación de surcos mediante colocación manual.
 * Salida sin optimización de la presión sonora.
 
-> "Un sentimiento de incompletud no es una carencia, sino una forma completada."
+> "Un sentimiento de incompletud no es una carencia, sino una forma completa."
 
 <div class="mermaid">
 flowchart LR
@@ -105,8 +113,8 @@ flowchart LR
     C --> D["断章化"]
 </div>
 
-
 ---
+
 
 ## Descomposición de técnicas de muestreo.
 

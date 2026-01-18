@@ -160,8 +160,8 @@ El tono inestable del theremin perturba la estructura de la canción y le da una
 # 8. Descripción general de los miembros principales
 
 - **Koichi Makigami**: Voz: Theremin. el centro de la banda. Una amplia gama de actividades desde música de vanguardia pasando por teatro pasando por música folklórica.
-- **Mita Chojin**: Guitarra. Experto en procesamiento acústico y técnicas de interpretación irregular.
-- **Akira Toyama** (participación temporal): Batería. Introducir un sentido de jazz/improvisación en la banda.
+- **Mita Chojin**: Guitarra. Utiliza procesamiento acústico y técnicas de interpretación irregular.
+- **Akira Toyama** (participante temporal): Batería. Introducir un sentido de jazz/improvisación en la banda.
 - **Masami Sakaide**: Bajo. Contribuye a la complejidad de la estructura rítmica.
 - **Makoto Inoue** (inicial): Teclado. Esto determinó la sensación techno/new wave de Hikashu en los primeros días.
 

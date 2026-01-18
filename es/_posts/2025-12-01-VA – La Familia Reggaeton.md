@@ -14,7 +14,7 @@ title: VA – La Familia Reggaetón
 ---
 
 
-"La Familia Reggaeton", lanzado en 2005, es un disco de Hip Hop/Reggae en el que el grupo de música de ruido industrial/experimental SPK (Graeme Revell & Neil Hill) mezcló una canción del rapero de Queens N.O.R.E.
+"La Familia Reggaeton", lanzado en 2005, es un disco de Hip Hop/Reggae en el que el grupo de música de ruido experimental/industrial SPK (Graeme Revell & Neil Hill) mezcló una canción del rapero de Queens N.O.R.E.
 
 A1 es una pista con Big Mato, Chingo Bling, Fat Joe, Lumi Dee, Negra, Nina Sky y Pitbull.
 

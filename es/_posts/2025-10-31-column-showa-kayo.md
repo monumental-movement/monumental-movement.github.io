@@ -25,7 +25,7 @@ Texto: mmr｜Tema: Las canciones showa y el pop se fusionan con la cultura de In
 En la década de 2020, etiquetas como "Showa Retro", "Showa Kayo" y "Pop japonés de los 80" se están extendiendo explosivamente en las redes sociales y los servicios de streaming en todo el mundo.
 Fue un evento simbólico que "Midnight Door~Stay With Me" de Miki Matsubara y "Ride on Time" de Tatsuro Yamashita aparecieran repentinamente en las listas globales de Spotify.
 
-Sin embargo, este "renacimiento del pop Showa" no es sólo un pasatiempo nostálgico. Más bien, es un **redescubrimiento de sensaciones analógicas en la era digital** y un nuevo fenómeno cultural de **"compartir emociones"** global.
+Sin embargo, este "renacimiento del pop Showa" no es sólo un pasatiempo nostálgico. Más bien, es un **redescubrimiento de sensaciones analógicas en la era digital** y un nuevo fenómeno cultural de **"compartir emocional"** global.
 
 En este artículo, exploraremos cómo las canciones Showa resuenan en el extranjero y cómo se reciben y reconstruyen.
 Lo exploraremos desde múltiples ángulos, incluidos 1) antecedentes históricos, 2) entorno mediático, 3) estructura de recepción en el extranjero y 4) perspectivas de traducción musical.
@@ -76,7 +76,7 @@ En el extranjero, se ha traducido como "pop retrofuturista" y "nostalgia estéti
 ## Capítulo 3: Vaporwave y la ilusión de la era Showa
 
 Vaporwave es un movimiento artístico que surgió de la cultura estadounidense de los tablones de anuncios de Internet a principios de la década de 2010.
-Los viejos anuncios japoneses, los gráficos digitales de los años 1980 y las imágenes sonoras distorsionadas de los casetes han sido reconstruidos como las "reverberaciones" de la sociedad de consumo.
+Los viejos anuncios japoneses, los gráficos digitales de los años 80 y las imágenes sonoras distorsionadas de los casetes se han reconstruido como las "reverberaciones" de la sociedad de consumo.
 
 No es casualidad que las melodías y sonidos de las canciones de Showa se fusionaran aquí de forma natural.
 **Reverberación suave, dulzura urbana y romanticismo excesivo. **
@@ -103,7 +103,7 @@ En otras palabras, las canciones de Showa exportan "emoción como textura".
 ## Capítulo 5: La intersección de los archivos digitales y la política cultural japonesa
 
 Lo interesante es que este boom fue difundido por oyentes privados.
-No es que el gobierno japonés o la industria musical lo exportaran intencionalmente; más bien, la actividad de los fans en YouTube y Spotify tomó la iniciativa.
+No es que el gobierno japonés o la industria musical lo exportaran intencionalmente; más bien, la actividad de los fans en YouTube y Spotify tomó la delantera.
 
 Sin embargo, en la década de 2020, el contenido "Showa retro" aumentó rápidamente en festivales y exposiciones en el extranjero.
 NHK y las discográficas también han abierto canales oficiales con subtítulos en inglés.
@@ -153,7 +153,7 @@ Las canciones showa están quedando grabadas en el mapa emocional del mundo, tra
 Este eco es también un retorno a la "memoria individual" que se estaba perdiendo debido a la globalización.
 Las canciones de la era Showa se han convertido en un "refugio emocional" no sólo para los japoneses del pasado, sino para todos los jóvenes solitarios del siglo XXI.
 
-Aunque la era Showa ha quedado muy lejana, sigue repitiéndose en la mente de alguien en algún lugar del océano de Internet.
+Aunque la era Showa se ha vuelto muy lejana, continúa repitiéndose en la mente de alguien en algún lugar del océano de Internet.
 
 ---
 
@@ -164,7 +164,7 @@ Aunque la era Showa ha quedado muy lejana, sigue repitiéndose en la mente de al
 | Década de 1950 | Formación de canciones pop de posguerra, aparición de Hibari Misora ​​​​y Chiemi Eri | Fundación para compartir emociones entre las masas |
 | Década de 1970 | Nueva música y la época dorada de los ídolos | Yumi Matsutoya, Momoe Yamaguchi, Caramelos |
 | Década de 1980 | Madurez del pop urbano | Tatsuro Yamashita, Eiichi Otaki, Mariya Takeuchi |
-| Década de 2010 | Descubre el extranjero con YouTube y conéctate con la cultura vaporwave | Miki Matsubara reevaluando |
+| Década de 2010 | Descubre el extranjero con YouTube y conéctate con la cultura vaporwave | Reevaluación de Miki Matsubara |
 | Años 2020 | Auge global a través de TikTok y Spotify | “Showa Retro” reavivado, nacimiento de la música AI Showa |
 
 ---

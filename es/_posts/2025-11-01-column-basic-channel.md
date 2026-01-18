@@ -18,7 +18,7 @@ title: '[Columna] Canal Básico──El origen del dub techno berlinés'
 ## Prólogo: Del ruido anónimo a una revolución silenciosa
 
 
-Texto: mmr｜Tema: El “abismo del sonido” nacido del underground de Berlín en los años 1990—La historia de la creación de Basic Channel y Dub Techno
+Texto: mmr｜Tema: “Abyss of sound” nacido del underground de Berlín en los años 1990 - Historia de la creación de Basic Channel y Dub Techno
 
 
 En 1993, apenas unos años después de la caída del Muro de Berlín.
@@ -150,7 +150,7 @@ Hoy en día, la influencia de Basic Channel se puede ver en todas partes.
 |:--|:--|:--|
 | **Acorde profundo / Ecoespacio** | Techno espacial de Detroit | Ampliación orgánica del retraso |
 | **Flusión** | Doblaje mínimo de Grecia | El edificio se siente descendiente directamente de Chain Reaction |
-| **Gas (Wolfgang Voigt)** | Fusión de ambient + clásica | Una metáfora que utiliza la reverberación como “bosque” |
+| **Gas (Wolfgang Voigt)** | Fusión de ambient + clásica | Una metáfora que utiliza la reverberación como un “bosque” |
 | **Yagya** | Claridad islandesa | Transpirabilidad del ritmo |
 | **cv313** | Construcción de presión sonora orientada a lo analógico | Herencia espiritual del Canal Básico |
 
@@ -219,5 +219,17 @@ Y las ondas que emanan del Berlín de finales del siglo XX siguen resonando sile
 > "Cuando escuchas el sonido del Canal Básico, estás escuchando el espacio en sí, no la música".
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hDt9sExwwAk?si=J0JxJC1Z2OjdhlNU" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
+#### Podcast
+
+<iframe title="Canal básico: Los orígenes del Dub Techno berlinés" enabletransparency="true" height="300" width="100%" style="border: none; min-width: min(100%, 430px);height:300px;" desplazamiento="no" nombre-datos="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=i9ehm-19f955e-pb&from=pb6admin&square=1&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&logo_link=episode_page&btn-skin=ff6d00&size=300" cargando="lazy" enablefullscreen=""></iframe>
+
+---
+
+#### YouTube
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vWQDlU4uskw?si=oyKWaD4B9WwRvvGb" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---

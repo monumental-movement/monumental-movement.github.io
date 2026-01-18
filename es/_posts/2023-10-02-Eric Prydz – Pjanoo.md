@@ -17,7 +17,7 @@ title: Eric Prydz – Pjanoo
 
 "Pjanoo" es una pista house con teclado del DJ y productor sueco Eric Prydz. La canción recibió una difusión moderada en las estaciones de radio británicas y fue utilizada activamente por BBC Radio 1 en sus anuncios "Radio 1 Big Weekend" y "Weekend in Ibiza".
 
-El sencillo alcanzó el número 6 en la lista de sencillos suecos. Sin embargo, "Pjanoo" también tuvo éxito fuera de Suecia, particularmente en el Reino Unido, donde alcanzó el número dos en la lista de sencillos del Reino Unido y encabezó la lista de baile del país durante diez semanas.
+El sencillo alcanzó el número 6 en la lista de sencillos suecos. Sin embargo, "Pjanoo" fue un éxito fuera de Suecia, particularmente en el Reino Unido, donde alcanzó el número dos en la lista de sencillos del Reino Unido y encabezó la lista de baile del país durante diez semanas.
 
 #### Lista de canciones
 ```md

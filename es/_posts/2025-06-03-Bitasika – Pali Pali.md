@@ -15,7 +15,7 @@ title: Bitasika – Pali Pali
 ---
 
 
-Bitasika es una banda africana liderada por BB Mo-Franck, intérprete de la República Democrática del Congo y primer percusionista de la Compañía de Teatro Shiki ``The Lion King''. También participa el baterista y percusionista Jun Watanabe JunJun.
+Bitasika es una banda africana liderada por BB Mo-Franck, intérprete de la República Democrática del Congo y primer percusionista de la Compañía de Teatro Shiki ``El Rey León''. También participa el baterista y percusionista Jun Watanabe JunJun.
 
 #### Lista de canciones
 ```md

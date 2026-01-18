@@ -41,7 +41,7 @@ color: #fff;
 
 Fela Aníkúlápó Kútì nació en Abeokuta en 1938 y recibió su educación musical en Londres antes de regresar a Nigeria a finales de los años 1960 y crear su propio lenguaje musical, combinando blues/jazz/funk/highlife con ritmos tradicionales. Se volvió más político durante el período de Koola Lobitos en los años 1960 y África '70 en los años 1970, y más tarde se desarrolló en formaciones como Egipto 80.
 
-La música de Fela se caracteriza por ritmos repetitivos largos (de 10 a 30 minutos), secciones de viento fuertes, polirritmos y mensajes directos en inglés pidgin. El baterista Tony Allen fue una parte integral de la formación de Afrobeats, y su forma de tocar la batería sentó las bases del género.
+La música de Fela se caracteriza por ritmos repetitivos largos (de 10 a 30 minutos), fuertes secciones de viento, polirritmos y mensajes directos en inglés pidgin. El baterista Tony Allen fue una parte integral de la formación de Afrobeats, y su forma de tocar la batería sentó las bases del género.
 
 ---
 

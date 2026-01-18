@@ -25,7 +25,7 @@ Texto: mmr｜Tema: El chill-out y la estética del ritmo profundo
 ### ¿Qué es el downtempo?
 "Downtempo", como su nombre indica, es un tipo de música electrónica con un tempo lento. Generalmente, el BPM (tempo) oscila entre 60 y 110 y se caracteriza por ritmos y sonidos relajantes destinados a escuchar y relajarse, en lugar de ritmos intensos de discoteca.
 
-Entre los latidos palpitantes y el ajetreo, aparece un silencio repentino. Si se trata de música, el downtempo es ese momento de respiración profunda. En el mundo de la cultura de discoteca y la música electrónica, es un género musical que se encuentra en el extremo opuesto del espectro de los ritmos rápidos del techno y el house, pero que se acerca a las emociones del oyente y se integra en la noche de la ciudad. Eso es ritmo lento.
+Entre los latidos palpitantes y el ajetreo, aparece un silencio repentino. Si se trata de música, el downtempo es ese momento de respiración profunda. En el mundo de la cultura de discoteca y la música electrónica, se trata de un género musical que se sitúa en el extremo opuesto del espectro de los ritmos rápidos del techno y el house, pero que se acerca a las emociones del oyente y se integra en la noche de la ciudad. Eso es ritmo lento.
 
 Downtempo se crea a través de la intersección de múltiples géneros, incluida la sensación flotante del ambient, los ritmos del hip-hop y los elementos orgánicos del jazz y el soul.
 Aunque a menudo se superpone con estilos como el chillout, el trip hop y la música lounge, también se utiliza como término general para un ritmo suave que abarca estos estilos.
@@ -34,7 +34,7 @@ Aunque a menudo se superpone con estilos como el chillout, el trip hop y la mús
 <hora>
 
 ### Revolución Chill Out de los 90
-Desde finales de los 80 hasta principios de los 90, el concepto de "sala chill-out" se extendió en la cultura de los clubes, principalmente en el Reino Unido. Este es un espacio relajante lejos del ruido fuerte del piso principal. Se puede decir que la música que sonaba en este espacio es el prototipo del downtempo.
+Desde finales de los 80 hasta principios de los 90, el concepto de "sala chill-out" se extendió en la cultura de los clubes, principalmente en el Reino Unido. Este es un espacio relajante lejos del fuerte ruido del piso principal. Se puede decir que la música que sonaba en este espacio es el prototipo del downtempo.
 
 
 <hora>
@@ -85,7 +85,7 @@ Downtempo ha sufrido diversas evoluciones a través de su fusión con la cultura
 
 **Hiphop de baja fidelidad**: una nueva tendencia de jazz x downtempo x nostalgia que se ha expandido en YouTube, etc. (por ejemplo, Nujabes, Jinsang)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hN_4l80sMYM?si=BBD0ETFoll0fusbm" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hN_4l80sMYM?si=BBD0ETFoll0fusbm" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 
 <hora>

@@ -15,7 +15,7 @@ title: Darío G – Carnaval De Paris
 
 Dario G es un proyecto de música dance del DJ y productor británico Paul Spencer.
 
-La segunda pista de la cara A es un remix de JDS, una unidad compuesta por Darren Pearce y Julian Napolitano. La cara B es un remix del DJ, productor y remezclador británico Tall Paul (Paul Newman, también conocido como Camisra).
+La segunda pista de la cara A es un remix de JDS, una unidad compuesta por Darren Pearce y Julian Napolitano. La cara B es un remix del DJ/productor/remezclador británico Tall Paul (Paul Newman, también conocido como Camisra).
 
 #### Lista de canciones
 ```md

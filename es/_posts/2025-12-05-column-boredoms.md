@@ -21,7 +21,7 @@ title: '[Columna] Aburrimientos: La trayectoria del constructor del caos y del u
 
 Texto: mmr｜Tema: Siguiendo la evolución de Boredoms, y cómo se han desarrollado su forma de trabajo, presentaciones en vivo y unidades derivadas.
 
-En la historia de la música japonesa, los **aburrimientos** ocupan una posición única como entidad que no puede explicarse completamente en ningún contexto.
+En la historia de la música japonesa, el **aburrimiento** ocupa una posición única como entidad que no puede explicarse completamente en ningún contexto.
 Formados en Osaka a finales de la década de 1980, influyeron en músicos de todo el mundo, transformándose en ruido, hardcore, vanguardia, psicodelia y conjuntos rítmicos posteriores.
 
 Debido a que Boredoms trasciende las fronteras del género, no puede capturarse en una simple narrativa histórica. Sin embargo, sus actividades ciertamente estuvieron ligadas a los tiempos, y al mismo tiempo desconectadas de ellos.
@@ -111,7 +111,7 @@ El sonido se estratificó, una sensación de trance se deslizó en el ritmo repe
 
 ---
 
-Vision Creation Newsun del año siguiente, 1999, fue uno de los trabajos definitorios de la carrera de Boredoms.
+Al año siguiente, Vision Creation Newsun de 1999 fue uno de los trabajos definitorios de la carrera de Boredoms.
 Sonidos naturales, percusión étnica, sonidos sostenidos y estructuras cíclicas, drones de guitarra, ritmos multicapa...
 
 Los Boredoms ni siquiera eran aquí una "banda de rock", sino que profundizaban en el minimalismo cósmico y el trance ritual.
@@ -138,7 +138,7 @@ El estilo multicapa de batería y percusión centrado en Yoshimi P-We se convert
 ### 4-2. Nueva etapa con “Seadrum / House of Sun”
 
 En 2004, lanzó "Seadrum / House of Sun".
-Elementos de grabación en la playa, drones largos, estructuras meditativas, sonidos ambientales y repetición se combinan para crear un mundo que se siente como un "ritual sonoro".
+Elementos de grabaciones en la playa, drones largos, estructuras meditativas, sonidos ambientales y repeticiones se combinan para crear un mundo que se siente como un "ritual sonoro".
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ObBwAq-Nx0A?si=Rg_siWf8KjzNuZaE" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 

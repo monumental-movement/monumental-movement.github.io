@@ -188,7 +188,7 @@ flowchart TD
 
 - Fusión con el pop punk
 - Screamo melocore (Un día para recordar, etc.)
-- En Japón, se pone énfasis en la melodía manteniendo letras juveniles/cotidianas.
+- En Japón, se pone énfasis en la melodía manteniendo letras juveniles y cotidianas.
 - En Estados Unidos, los mensajes políticos y las poderosas actuaciones en vivo son el centro de atención.
 
 ---
@@ -204,7 +204,7 @@ flowchart TD
 
 ## 9. Conclusión
 
-Aunque el melocore japonés y estadounidense tienen diferentes orígenes culturales, han obtenido apoyo internacional debido a su pasión compartida y la importancia de la melodía.
+Aunque el melocore japonés y estadounidense tienen diferentes orígenes culturales, han obtenido apoyo internacional debido a su "pasión" compartida y la "importancia de la melodía".
 Las escenas de ambos países seguirán influyéndose mutuamente y se transmitirán a las generaciones más jóvenes.
 
 ---

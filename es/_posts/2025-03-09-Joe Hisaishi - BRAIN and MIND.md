@@ -14,7 +14,7 @@ title: Joe Hisaishi - BRAIN&MIND Banda sonora vol.1
 ---
 
 
-Banda sonora del especial de NHK ``Amazing Microcosm: Human Body 2: Brain and Mind'', compuesta por Joe Hisaishi, compositor conocido por el anime de Hayao Miyazaki. Aunque fue lanzado en 1993, este álbum, que expresa el microcosmos a través del sonido, es un álbum que será escuchado a través de los siglos.
+Banda sonora del especial de la NHK ``Amazing Microcosm: Human Body 2: Brain and Mind'', compuesta por Joe Hisaishi, compositor conocido por el anime de Hayao Miyazaki. Aunque fue lanzado en 1993, este álbum, que expresa el microcosmos a través del sonido, es un álbum que será escuchado a través de los siglos.
 
 #### Lista de canciones
 ```md
@@ -33,5 +33,5 @@ Banda sonora del especial de NHK ``Amazing Microcosm: Human Body 2: Brain and Mi
 
 [Comprar en Mercari](https://jp.mercari.com/item/m55176242690?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QHc0HGVOE5M?si=jGr5_YDtWORtXdKf" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

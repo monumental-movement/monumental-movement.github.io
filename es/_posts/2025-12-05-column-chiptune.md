@@ -41,7 +41,7 @@ color: #fff;
 </style>
 
 
-## Capítulo 1: Los orígenes de los 8 bits: chips fuente de sonido de Famicom y Game Boy
+## Capítulo 1: Origen de los 8 bits: chip fuente de sonido de Famicom y Game Boy
 
 ### 1-1. "Ricoh 2A03" que marcó el sonido de Famicom/NES
 
@@ -77,7 +77,7 @@ La Game Boy está equipada con una fuente de sonido CPU + PSG llamada **Sharp LR
 - Canal que le permite dibujar libremente formas de onda de 4 bits de 32 muestras
 - **Canal de ruido**
 
-La memoria de forma de onda es el corazón de la creatividad, e incluso en el Game Boy Chiptune moderno, el canal Wave se usa ampliamente para generar bajos, solistas, bombos y tonos únicos. El grosor de los graves es particularmente atractivo y es apreciado como un "tono similar al de Game Boy", incluido el ruido DAC peculiar del hardware.
+La memoria de forma de onda es fundamental para la creatividad, e incluso en el Game Boy Chiptune moderno, este canal de onda se usa ampliamente para la generación de bajos, solistas, bombos y tonos únicos. El grosor de los graves es particularmente atractivo y es apreciado como un "tono similar al de Game Boy", incluido el ruido DAC peculiar del hardware.
 
 ---
 
@@ -108,7 +108,7 @@ El canal WAVE de Game Boy te permite crear formas de onda arbitrarias en lugar d
 
 ---
 
-## Capítulo 3: Cultura de trackers y producción de Chiptune - LSDj / Nanoloop / Famitracker
+## Capítulo 3: Cultura Tracker y producción de Chipune - LSDj / Nanoloop / Famitracker
 
 ### 3-1. ¿Qué es el rastreador?
 
@@ -130,7 +130,7 @@ LSDj es un tracker portátil muy completo que controla directamente la fuente de
 
 ### 3-3. Famitracker: reproduce fielmente las fuentes de sonido de NES
 
-Famitracker reproduce con precisión la fuente de sonido de la APU de NES y es utilizado por compositores de todo el mundo para organizar música de juegos y crear Chipunes originales.
+Famitracker reproduce con precisión la fuente de sonido de la APU de NES y es utilizado por compositores de todo el mundo para organizar música de juegos y crear Chiptunes originales.
 
 ### 3-4. Nanoloop: estética minimalista
 
@@ -200,7 +200,7 @@ Chiptune no se limita en modo alguno a una "reproducción de música de juegos",
 
 ---
 
-## Capítulo 7: Genealogía Chipune
+## Capítulo 7: Genealogía de Chiptune
 
 <div class="mermaid">
 flowchart TD
@@ -221,7 +221,7 @@ Chiptune tiene comunidades en todo el mundo.
 Las características son las siguientes.
 
 - Actuación en vivo en Game Boy o NES real
-- La composición usando Tracker es el estándar mundial.
+- La composición con Tracker es el estándar mundial.
 - Altamente compatible con ilustraciones, vídeos y pixel art.
 - Espíritu DIY y cultura abierta.
 
@@ -243,7 +243,7 @@ Se considera no sólo un género musical, sino una forma integral de expresión.
 - Reproduce completamente el sonido original con el sintetizador de chips Plogue
 - Corrección de cadena lateral/EQ
 - Separe las fuentes de sonido como un micrófono múltiple
-- Ajusta la imagen del sonido con grabación flotante de 32 bits.
+- Ajustar la imagen del sonido con grabación flotante de 32 bits.
 
 ---
 

@@ -15,7 +15,7 @@ title: Banda de afinación menor - Éxito en discoteca
 ---
 
 
-El popular éxito disco de la banda de afinación menor en el 76 se lanzó en 1976.
+El popular éxito disco de la banda de afinación menor en el '76 se lanzó en 1976.
 
 #### Lista de canciones
 ```md

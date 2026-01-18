@@ -12,7 +12,7 @@ title: Marc Anthony – Me cantaste
 ---
 
 
-"You Sang to Me" es una canción del cantante estadounidense Marc Anthony que fue incluida en su cuarto álbum de estudio (1999). La canción fue producida por Corey Rooney, quien coescribió la canción con Anthony. La canción es una balada romántica pop de medio tiempo con elementos latinos, R&B y contemporáneo para adultos, y la letra cuenta la historia de un hombre que deja irse a su pareja a pesar de estar en una relación con otra persona.
+"You Sang to Me" es una canción del cantante estadounidense Marc Anthony que fue incluida en su cuarto álbum de estudio (1999). La canción fue producida por Corey Rooney, quien coescribió la canción con Anthony. La canción es una balada romántica pop de medio tiempo con elementos latinos, R&B y contemporáneo para adultos, y la letra cuenta la historia de un hombre que deja que su pareja se vaya a pesar de estar en una relación con otra persona.
 
 Anthony también grabó una versión en español de la canción, titulada "Muy Dentro de Mí", con contribuciones adicionales de Roberto Blais y Gaitanes en la letra.
 

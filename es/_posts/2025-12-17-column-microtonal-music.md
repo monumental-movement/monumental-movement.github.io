@@ -57,9 +57,9 @@ La subdivisión de intervalos no es una excepción en la música premoderna no o
 
 * El tono es funcionalmente variable en maqam, una música árabe.
 * En la música clásica india, el shruti es inseparable de la decoración melódica.
-* En el gamelán del sudeste asiático, existen sutiles diferencias de tono incluso dentro del mismo grupo de instrumentos.
+* En el gamelán del Sudeste Asiático, existen sutiles diferencias de tono incluso dentro del mismo grupo de instrumentos.
 
-Más que "microtonos", se trata de **culturas musicales en las que no existe la fijación del temperamento igual**.
+Más que "microtonos", se trata de **culturas musicales en las que no existe la fijación del temperamento igualitario**.
 
 La historia de la música occidental moderna no eliminó estas cosas, sino que más bien no las teorizó.
 
@@ -71,7 +71,7 @@ En la segunda mitad del siglo XIX, surgieron los siguientes problemas a medida q
 
 * Turbidez acústica genuina de 3.º y 6.º grado.
 * Homogeneización del color armónico.
-* Dilución del sentido de la tonalidad.
+* Dilución del sentido tonal
 
 Muchos compositores recurrieron a técnicas atonales y dodecafónicas, pero
 En otro linaje, se seleccionó la propia "redivisión de intervalos".
@@ -129,7 +129,7 @@ Los instrumentos de Partch tenían las siguientes funciones:
 Partch incorpora recitación y movimientos físicos,
 Trató el tono como una "extensión de la vocalización y el movimiento físico" más que como un valor numérico abstracto.
 
-Se trata de un intento de devolver la música microtonal a la dimensión de la psicología perceptual.
+Se trata de un intento de devolver la música microtonal a la dimensión de la psicología perceptiva.
 
 ---
 
@@ -160,7 +160,7 @@ Como resultado, el temperamento se convirtió en un **parámetro variable** en l
 
 ---
 
-## 8. Análisis acústico: fenómenos producidos por microtonos
+## 8. Análisis acústico: Fenómenos producidos por microtonos
 
 ### 8.1 Batidos e interferencias de fase
 
@@ -244,7 +244,7 @@ Esto no se establece mediante la comprensión intelectual sino mediante la escuc
 La música microtonal no forma un solo género.
 
 * Música experimental
-* Música electrónica
+* música electrónica
 * Dentro del Jazz/Pop
 * Vídeo/Instalación
 
@@ -281,7 +281,7 @@ timeline
 
 ## 15. Conclusión
 
-La música microtonal no es un ejercicio para aumentar el tono. Se trata de un cambio hacia una filosofía de producción que no asume un tono fijo. Harry Partch devolvió la música al cuerpo y al espacio, y Jacob Collier tradujo esa teoría a una sensibilidad moderna. Este movimiento seguirá funcionando silenciosamente en las capas más profundas de la producción musical.
+La música microtonal no es un ejercicio para aumentar el tono. Se trata de un cambio hacia una filosofía de producción que no asume un tono fijo. Harry Partch devolvió la música al cuerpo y al espacio, y Jacob Collier tradujo esa teoría a una sensibilidad moderna. Este movimiento seguirá trabajando silenciosamente en lo más profundo de la producción musical.
 
 
 ---

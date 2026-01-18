@@ -17,7 +17,7 @@ title: '[Columna] Disco noruego: Genealogía y discos recomendados de Prins Thom
 
 ## Disco noruego: la genealogía de Prins Thomas, Mungolian Jet Set y Lindstrøm
 
-Texto: mmr｜Tema: Historia de la discoteca/disco espacial moderna nacida en Noruega, trabajos en solitario, colaboraciones, trabajos producidos.
+Texto: mmr｜Tema: Historia de la discoteca moderna/disco espacial nacida en Noruega, trabajos en solitario, colaboraciones, trabajos producidos.
 
 A pesar de su clima frío y la tranquilidad escandinava, Noruega ha dado lugar a una importante tendencia de discoteca cálida/disco espacial. Prins Thomas, Lindstrøm y el Jet Set mungoliano han reinterpretado el toque disco, italiano y francés de los años 70 y 80 con una lente noruega, dándole a la música dance del siglo XXI su sabor único. En este artículo, presentaremos de manera integral el trabajo solista, la colaboración y las actividades de producción de cada artista, y enumeraremos los álbumes recomendados por grupo de edad.
 
@@ -86,7 +86,7 @@ Su verdadero nombre es Hans-Peter Lindstrøm. Su sonido es llamado el abanderado
 
 ### Jet Set mungol
 
-Principalmente activo como unidad de DJ/productor. Es conocido por sus mezclas que incorporan una gran cantidad de conocimiento discográfico y un sentido del ritmo tribal. Su serie de mezclas tipo Jet Set Trax aporta una nueva perspectiva editorial a la escena de clubes noruega.
+Principalmente activo como unidad de DJ/productor. Es conocido por su vasto conocimiento discográfico y sus mezclas que incorporan un sentido de ritmo tribal. Su serie de mezclas tipo Jet Set Trax aporta una nueva perspectiva editorial a la escena de clubes noruega.
 
 #### Composición de miembros
 
@@ -128,7 +128,7 @@ Los álbumes y mezclas de Mungolian Jet Set también cuentan con vocalistas e in
 
 #### Características del sonido
 
-Género cruzado: una mezcla de elementos disco, cosmic, house, jazz, afro e incluso rock y progresivo.
+Género cruzado: una mezcla de elementos disco, cósmico, house, jazz, afro e incluso rock y progresivo.
 
 Sentido del remix: Es conocido por sus remixes de “viajes espaciales” que cambian audazmente la estructura de la canción original y la extienden a más de 10 minutos.
 

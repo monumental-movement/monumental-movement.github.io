@@ -79,11 +79,11 @@ Rave no era una fuente sonora ni una partitura, sino un fenómeno en sí mismo. 
 
 ### ¿Quién archiva? Deterioro de los medios
 
-**● Archivos espontáneos del subsuelo**
+**● Archivo espontáneo desde el subsuelo**
 
 Desde la década de 2000, han comenzado los siguientes intentos en todo el mundo.
 
-**MixesDB, Discogs**: recopilación de información de setlists y fuentes de sonido menores.
+**MixesDB, Discogs**: recopilación de información de setlists y fuentes de sonido menores
 
 **YouTube/SoundCloud**: sube mixtapes antiguos y grabaciones pirateadas
 

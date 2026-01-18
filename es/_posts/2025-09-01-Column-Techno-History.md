@@ -130,7 +130,7 @@ La historia del techno nació y evolucionó a partir de la relación entre "ciud
 ### Década de 2020: Reavivar los ritmos duros, las presentaciones en vivo híbridas y la era de la asistencia de la IA
 **Antecedentes de la época**
 - Regreso al campo tras la cultura de distribución durante el periodo de pandemia
-- Aceleración BPM, reevaluación del transformador.
+- Aceleración de BPM, reevaluación del transformador.
 - Asistencia en producción y masterización mediante IA.
 
 **Tendencias de sonido**

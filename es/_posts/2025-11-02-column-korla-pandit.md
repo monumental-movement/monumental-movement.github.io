@@ -125,7 +125,7 @@ Referencia/Fuente:
 
 ---
 
-El Korla Pandit Show, que se emitió desde 1951, fue uno de los primeros programas de televisión musicales de Estados Unidos.
+El Korla Pandit Show, que se emitió desde 1951, fue uno de los primeros programas de televisión musicales estadounidenses.
 La producción, que se construyó utilizando sólo la vista y el sonido sin pronunciar palabras, proporcionó un "país extranjero seguro" para los espectadores blancos en ese momento.
 
 Pundit ha tenido más de 1.000 retransmisiones, lo que le ha dado más exposición televisiva que su contemporáneo Nat King Cole.
@@ -136,10 +136,10 @@ También es una anécdota simbólica que ilustra la relación entre entretenimie
 
 ## Capítulo 5: La verdad detrás de la máscara - Confesiones de John Rowland {#Capítulo 5}
 
-En 1998, según un artículo publicado por Los Angeles Magazine,
+En 1998, según un artículo publicado por Los Ángeles Magazine,
 Se revela que la verdadera identidad de Pandit es **John Roland Redd**.
 
-Nació en St. Louis, Missouri, en 1916 y se convirtió en un consumado pianista en su adolescencia.
+Nació en St. Louis, Missouri en 1916 y se convirtió en un consumado pianista en su adolescencia.
 Mientras trabajaba en una estación de radio en la década de 1940, creó el escenario ficticio de un "príncipe indio".
 
 En lugar de ser un "músico negro" en una era discriminatoria,

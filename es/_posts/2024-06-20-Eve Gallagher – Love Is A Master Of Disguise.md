@@ -16,7 +16,7 @@ title: Eve Gallagher - El amor es un maestro del disfraz
 
 Eve Gallagher es una cantante de música house del Reino Unido.
 
-"Love Is A Master Of Disguise" es el segundo sencillo, producido por Mark Brydon. Frankie Knuckles participó como productor de la primera pista de la cara A y la cara B, y la tercera pista de la cara B fue remezclada por Steve Anderson del grupo de producción Brothers In Rhythm.
+"Love Is A Master Of Disguise" es el segundo sencillo, producido por Mark Brydon. Frankie Knuckles participó como productor de la primera pista de las caras A y B, y la tercera pista de la cara B fue remezclada por Steve Anderson del grupo de producción Brothers In Rhythm.
 
 #### Lista de canciones
 ```md
@@ -32,4 +32,4 @@ B3. Love Is A Master Of Disguise (The Project Ozma Mix)
 [Comprar en Mercari](https://jp.mercari.com/item/m56427024362?afid=6142608987){: .button1}
 
 #### YouTube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZmdZPRcueWs?si=-PjWmbnxUSQaZbou" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZmdZPRcueWs?si=-PjWmbnxUSQaZbou" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -118,7 +118,7 @@ En lugar de embriagarnos por la destrucción, ¿qué podemos aprender de ella y 
 
 ## Capítulo Final: Hacia el Arte de la Supervivencia
 
-Creación y destrucción son siempre dos caras de la misma moneda.
+Creación y destrucción son siempre dos caras de una misma moneda.
 Sin embargo, la era del arte que sólo puede completarse con la muerte está llegando a su fin.
 Ahora que la IA está a cargo de la creación y las comunidades se están expandiendo donde las personas pueden compartir sus luchas personales,
 No hay necesidad de adorar la "ruina" como un mito.

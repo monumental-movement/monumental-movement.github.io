@@ -43,18 +43,18 @@ color: #fff;
 
 ### Capítulo 1: El “nuevo sonido aterrador” de A24
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iri0EM3hcBY?si=K6XXKGfUqPWdLpUj" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iri0EM3hcBY?si=K6XXKGfUqPWdLpUj" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-La llegada de A24 elevó el horror al contexto del cine artístico.
+La llegada de A24 elevó el terror al contexto del cine artístico.
 [“La Bruja” (2015)](https://amzn.to/48UASVp) es un símbolo de esto. La partitura de [Mark Korven](https://amzn.to/3KHRdTr) rechaza la melodía, con un zumbido orante compuesto de instrumentos de madera y microtonos que pone de los nervios al público.
-El diseño acústico que difumina la línea entre silencio y ruido fue el núcleo de la estética del A24.
+El diseño acústico que difumina la línea entre el silencio y el ruido fue el núcleo de la estética del A24.
 
 En lo siguiente [Hereditary/Hereditary (2018)](https://amzn.to/470xAxf), el zumbido saxofónico de [Colin Stetson](https://amzn.to/438tcv3) crea una tensión inusual.
 El sonido de la respiración, la resonancia de las cañas distorsionadas, las vibraciones de los graves profundos: estas cosas te hacen sentir físicamente la presencia de una "presencia invisible".
 
-En "Midsommar" (2019) (https://amzn.to/3WzeBFe), [The Haxan Cloak] (https://amzn.to/4mV3nFT) y [Bobby Krlic] (https://amzn.to/473kC1M) fusionan la música ritual folklórica nórdica con el ruido electrónico.
+En "Midsommar" (2019) (https://amzn.to/3WzeBFe), [The Haxan Cloak] (https://amzn.to/4mV3nFT) y [Bobby Krlic] (https://amzn.to/473kC1M) fusionan la música ritual folclórica nórdica con el ruido electrónico.
 A diferencia de las imágenes soleadas, el sonido desdibujó la línea entre celebración y locura, abriendo una nueva frontera para el horror.
 
 El sistema de sonido de terror de A24 sacude al público con "susurros" en lugar de "gritos".

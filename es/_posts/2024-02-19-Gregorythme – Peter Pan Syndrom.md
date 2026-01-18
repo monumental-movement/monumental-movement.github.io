@@ -15,7 +15,7 @@ title: Gregorythme – Síndrome de Peter Pan
 
 
 gregorio (
-Gregory Poncet (también conocido como Gregory Poncet) también está activo como dúo de deep techno Digitaline con Laps. Desde 2006, bajo el nombre de Gregorythme, ha publicado trabajos en sellos como Bruchstuecke, Minibar, Sushitech, Minimood, Rebirth, no19 y Cityfox.
+Gregory Poncet (también conocido como Gregorism) también está activo como dúo de deep techno Digitaline con Laps. Desde 2006, bajo el nombre de Gregorythme, ha publicado trabajos en sellos como Bruchstuecke, Minibar, Sushitech, Minimood, Rebirth, no19 y Cityfox.
 
 "Peter Pan Syndrom" es una pista de techno minimalista lanzada en 2008 por Sushitech Purple, un subsello de Sushitech especializado en sonidos de bajo deep house.
 

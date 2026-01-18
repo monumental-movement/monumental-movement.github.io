@@ -50,7 +50,7 @@ color: #fff;
 
 
 ### Capítulo 1: Escape del punk rudo y torpe
-> **“La torpeza era sinceridad.”**
+> **"La torpeza era sinceridad."**
 
 Álbum debut lanzado en 1979 [``The Quality of Mercy Is Not Strnen''] (https://amzn.to/477GZ6y). El error tipográfico en el título "Stolen" simbolizaba la actitud de la banda.
 Grabado en Virgin Studios de Londres. En ese momento, dijeron: "Era la primera vez que veía una mesa mezcladora".
@@ -68,10 +68,10 @@ En ese momento, los Mekon eran conscientes de "actuar" en lugar de representar u
 
 A principios de la década de 1980, a medida que el punk se hacía más popular, los Mekons cambiaron gradualmente de forma.
 Dejan Londres y se transforman en un grupo de crítica social que cruza política y cultura. En el contexto de los movimientos Teatro del Odio y Red Wedge, Mekons eligió "la comunidad sobre la música".
-Los miembros no son fijos, y los amigos de la época universitaria van y vienen, a veces grabando con hasta 10 personas. Su naturaleza como colectivo artístico es cada vez más fuerte.
+Los miembros no son fijos, y los amigos de la época universitaria van y vienen, a veces grabando con hasta 10 personas. Su naturaleza como colectivo de arte es cada vez más fuerte.
 
 Su obra maestra de 1989 [“The Mekons Rock ‘n’ Roll”] (https://amzn.to/4nIWLMc) fue el resumen de eso.
-Una composición espacial única con doble seguimiento de la guitarra, excesiva reverberación y bajas frecuencias suprimidas del bajo. Se trataba de trucos destinados a distorsionar intencionalmente la "belleza formal del rock".
+Una composición espacial única con doble seguimiento de la guitarra, reverberación excesiva y frecuencias de graves suprimidas. Se trataba de trucos destinados a distorsionar intencionalmente la "belleza formal del rock".
 Con este álbum, presentaron la paradoja de "¿No es el rock el sistema mismo?"
 
 > "Sabemos que el rock and roll es peligroso. Puede destruir países".
@@ -79,7 +79,7 @@ Con este álbum, presentaron la paradoja de "¿No es el rock el sistema mismo?"
 
 ---
 
-### Capítulo 3: Encuentro con la música americana y los albores del “alt-country”
+### Capítulo 3: Encuentro con la música americana y los albores del “country alternativo”
 > **"En medio del vino y el polvo, estaba la verdad."**
 
 Con ['Fear and Whiskey'] (https://amzn.to/4mV4QMk) de 1985, los Mekon se aventuraron hacia horizontes completamente nuevos.
@@ -90,7 +90,7 @@ Grabado en Woodlands, Leeds, un estudio independiente en ese momento. La guitarr
 Este sonido de baja fidelidad crea una "sensación poética de distancia" en lugar de un "olor a barro".
 Este álbum sería más tarde reevaluado como un precursor de artistas de "alt-country" como Uncle Tupelo y Wilco.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cTToDniWwdQ?si=cfNzh4SRSgb_Nbwy" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cTToDniWwdQ?si=cfNzh4SRSgb_Nbwy" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
@@ -105,7 +105,7 @@ Durante este período, Mekons existió como una "comunidad artística a la deriv
 Se dijo que "la música de Mekons suena como si no perteneciera a ningún lado".
 Al igual que los inmigrantes, se movían entre contextos musicales, creando allí hogares temporales.
 El álbum [Journey to the End of the Night (2000)] (https://amzn.to/4q3A5HR) es un símbolo de esto, y su composición acústica, que incluye metales y violín, enfatiza su "extrañeza".
-Aunque utilizó Pro Tools para este trabajo, utilizó deliberadamente una consola analógica para mezclar, dejando un "desequilibrio humano".
+Aunque usó Pro Tools para este trabajo, intencionalmente usó una consola analógica para mezclar, dejando un "desequilibrio humano".
 
 ---
 
@@ -129,7 +129,7 @@ En las presentaciones en vivo, hay muchas escenas en las que Sally lee en voz al
 > **"Su arte es un testimonio y una celebración."**
 
 El documental de 2013 [Revenge of the Mekons](https://amzn.to/3KJVhCA) ​​​​mostró el núcleo del movimiento.
-El director Joe Angio los describe como "obras de arte vivientes".
+El director Joe Angio las describe como "obras de arte vivientes".
 Este trabajo muestra cómo los Mekons han atravesado diversas formas de expresión, incluyendo no sólo la música sino también la pintura, la fotografía, la poesía y el activismo político.
 El propio Jon Langford fue un pintor activo y presentó una "imagen antirromántica de Estados Unidos" al representar simbólicamente los paisajes del Medio Oeste estadounidense.
 
@@ -173,7 +173,7 @@ Por eso todavía suenan.
 
 | Año de lanzamiento | Título | Notas | Enlace |
 |:--:|:--|:--|:--|
-| 1978 | *¿Dónde estabas / Entonces tendré que bailar (solo)* | Un single de debut anticipado, símbolo del espíritu punk | [Amazon](https://amzn.to/3ICpuDb) |
+| 1978 | *¿Dónde estabas / Entonces tendré que bailar (solo)* | Un primer single de debut, símbolo del espíritu punk | [Amazon](https://amzn.to/3ICpuDb) |
 | 1979 | *La cualidad de la misericordia no es estricta* | Disco punk temprano | [Amazon](https://amzn.to/475k7ED) |
 | 1985 | *Miedo y whisky* | Fusión post-punk + country | [Amazon](https://amzn.to/3J1VsbQ) |
 | 1989 | *El rock 'n' roll de Mekons * | El colmo de la crítica social | [Amazon](https://amzn.to/4pY2TSl) |

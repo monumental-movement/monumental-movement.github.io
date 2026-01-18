@@ -26,7 +26,7 @@ A mediados de la década de 1990, el mundo de la producción musical electrónic
 Mientras tanto, "Jeskola Buzz" del desarrollador finlandés Oskari Tammelin apareció alrededor de 1997 (o se dice que tuvo una versión alfa antes).
 Buzz es un rastreador/secuenciador modular gratuito (distribución gratuita) para Windows que ha sido compatible con muchos usuarios. La mayor atracción era el entorno en el que "las fuentes de sonido (generadores), los efectos (máquinas) y el enrutamiento (cableado) podían ensamblarse libremente para recrear "equipos modulares" en software".
 
-Esta configuración "modular + tracker", a diferencia de las DAW (estaciones de trabajo de audio digital) centradas en GUI de la época, permitía el "experimentalismo" y un enfoque "tipo parche", dando lugar a un alto grado de libertad en la exploración sonora. Buzz ha ido más allá de ser simplemente "software que crea sonido" y ha formado una "esfera cultural" donde los individuos pueden crear y expandir sus propias máquinas y hacerlas evolucionar junto con la comunidad. Algunos ahora consideran que esta tendencia ha influido en un entorno modular suave, una cultura enchufable e incluso un retorno a la modularidad estricta.
+Esta configuración "modular + tracker", a diferencia de las DAW (estaciones de trabajo de audio digital) centradas en GUI de la época, permitía el "experimentalismo" y un enfoque "tipo parche", dando lugar a un alto grado de libertad en la exploración sonora. Buzz ha ido más allá de ser simplemente "software que crea sonido" y ha formado una "esfera cultural" donde los individuos pueden crear y expandir sus propias máquinas y hacerlas evolucionar junto con la comunidad. Algunos ahora consideran que esta tendencia ha influido en un entorno modular suave, una cultura de complementos e incluso un retorno a la modularidad estricta.
 
 ---
 
@@ -53,7 +53,7 @@ Lo que lo distinguía era que el software en sí consistía en una máquina (fue
 
 * Inicial: Se ejecuta en Windows 95/98. Era liviano y tenía una pantalla de edición de patrones similar a un rastreador y una vista modular (Machine View).
 * Ecosistema de complementos: desde el comienzo del desarrollo, ha existido una especificación "Buzzlib" que permite a los usuarios crear y distribuir libremente fuentes y efectos de sonido, y han aparecido muchas máquinas en la comunidad.
-* Actualización de la versión: el desarrollo oficial se detuvo temporalmente (debido a la pérdida del código fuente), pero en junio de 2008 se anunció que el desarrollo se reanudaría.
+* Actualización de la versión: el desarrollo oficial se estancó temporalmente (debido a la pérdida del código fuente), pero en junio de 2008 se anunció que el desarrollo se reanudaría.
 *Última compilación: compilación 1503 lanzada el 16 de enero de 2016.
 
 ### Significado del nombre/antecedentes
@@ -76,7 +76,7 @@ En este capítulo analizaremos en detalle "lo que era tecnológicamente innovado
 
 ### 3.1 Las fuentes y efectos de sonido se pueden manejar en unidades “máquinas”
 
-Buzz tiene una máquina "generadora" que crea sonido y una máquina de "efectos" que procesa el sonido, y los usuarios pueden organizarlos y conectarlos en la "vista de máquina".
+Buzz tiene una máquina "Generadora" que produce sonido y una máquina de "Efectos" que procesa el sonido, y los usuarios pueden organizarlas y conectarlas en la "Vista de Máquina".
 Por ejemplo, pude visualizar y construir un flujo de máquina de generación de formas de onda (oscilador)/máquina de muestreo (muestreador) → filtro → envolvente/LFO → reverberación/retardo → salida.
 Esta configuración permite un "enrutamiento libre" que rara vez se ve en los rastreadores/secuenciadores convencionales.
 
@@ -143,7 +143,7 @@ Además, las publicaciones en los foros incluyen declaraciones como "La música 
 > “El Buzz me sorprendió por su forma modular de funcionar. La sensación de conectar fuentes de sonido despertó mi interés por los sintetizadores modulares más adelante”.
 > – James Holden (extracto de la entrevista de 2006)
 
-A partir de estos relatos, es muy confiable que Holden produjo algunos de sus primeros trabajos (por ejemplo, *The Idiots Are Winning*) en Buzz. Al utilizar Buzz, se puede analizar que su música refleja características tales como "parches modulares/enrutamiento libre" y "edición de patrones de alta velocidad usando formato tracker".
+A partir de estos relatos, es muy confiable que Holden produjo algunos de sus primeros trabajos (por ejemplo, *The Idiots Are Winning*) en Buzz. Utilizando Buzz, se puede analizar que su música refleja características tales como "parches modulares/enrutamiento libre" y "edición de patrones de alta velocidad usando formato tracker".
 
 #### Análisis de seguimiento de muestra (ejemplo)
 
@@ -197,7 +197,7 @@ Incluso después de que el desarrollo oficial de Buzz se estancara, se ha deriva
 
 * Proyectos derivados/de imitación sin licencia (por ejemplo, clon de BuzzTrak/Buzz), entorno del módulo Tracker ejecutándose en Linux, etc.
 * Maduración de la cultura del software modular/plugin. El estilo de "los usuarios agregan extensiones y las comparten en línea" se ha vuelto común.
-* El espíritu de Buzz de “modular + improvisación” se hace referencia en el renacimiento de la modularidad del hardware (por ejemplo, Eurorack). En el artículo anterior "Dreaming Of Wires", Holden dijo que "el pensamiento de cableado que aprendió de Buzz" se convirtió en el punto de partida para su transición al modular duro.
+* El espíritu de Buzz de “modular + improvisación” se hace referencia en el resurgimiento del hardware modular (por ejemplo, Eurorack). En el artículo anterior "Dreaming Of Wires", Holden dijo que "el pensamiento de cableado que aprendió de Buzz" se convirtió en el punto de partida para su transición al modular duro.
 
 ### 6.4 Contribuir a la producción musical/educación/cultura del bricolaje
 
@@ -212,7 +212,7 @@ Los rumores alcanzaron su punto máximo a principios de la década de 2000 y ent
 
 ### 7.1 Antecedentes de estancamiento
 
-Según la explicación oficial, los desarrolladores de Buzz perdieron el código fuente y el desarrollo se detuvo el 5 de octubre de 2000. Sin embargo, se anunció un reinicio en junio de 2008 y desde entonces se han llevado a cabo actualizaciones impulsadas por los usuarios/parches comunitarios.
+Según la explicación oficial, los desarrolladores de Buzz perdieron el código fuente y el desarrollo se detuvo el 5 de octubre de 2000. Sin embargo, se anunció un reinicio en junio de 2008 y desde entonces se han llevado a cabo actualizaciones impulsadas por los usuarios y parches comunitarios.
 Esta estructura de estancamiento/reanudación también estuvo influenciada por factores externos como las limitaciones del software, el entorno cambiante de la PC y la diversificación de los entornos de usuario (DAW más sofisticados).
 
 ### 7.2 No puedo decir que se acabó: Continuación y recuperación
@@ -226,7 +226,7 @@ Esta estructura de estancamiento/reanudación también estuvo influenciada por f
 El legado de Buzz se puede clasificar en términos generales en tres cosas:
 
 - 1. **Difusión del pensamiento modular**: Se popularizó la idea de juntar parches en software, y se estableció la imagen de que ``crear sonido = conectar cables''.
-- 2. **Expansión de usuarios/cultura de complementos**: se ha arraigado una cultura de usuarios que crean y comparten equipos, y se puede decir que es el prototipo de la comunidad VST/complementos actual.
+- 2. **Cultura de extensión/complemento de usuario**: se ha arraigado una cultura de usuarios que crean y comparten equipos, y se puede decir que es el prototipo de la comunidad VST/complemento actual.
 - 3. **Promoción de creadores individuales/música DIY**: La producción de música electrónica indie/underground se ha revitalizado gracias a la disponibilidad de un entorno acústico sofisticado a bajo precio o de forma gratuita.
 
 Estas no son sólo reliquias de las "herramientas retro" del pasado, sino que también influyen en el entorno de producción musical actual e incluso en el contexto de los equipos modulares/en vivo.
@@ -248,8 +248,8 @@ Dicho de otra manera, la existencia de Buzz ha roto el estereotipo de que "no pu
 A continuación se muestra una cronología de la historia y los principales eventos de Buzz.
 
 | Año | Eventos |
-| ------------ | ------------------------------------------------------------------------- |
-| Alrededor de 1997 | Jeskola Buzz publicado. Presentado como un rastreador modular para Windows.                                |
+| ------------ | ------------------------------------------------------------------- |
+| Alrededor de 1997 | Publicado Jeskola Buzz. Presentado como un rastreador modular para Windows.                                |
 | 1998 | La versión inicial activa la comunidad de usuarios. Han aparecido muchos complementos/máquinas.                                    |
 | 1999 | Uso generalizado entre escenas de demostración y música electrónica independiente.                                                 |
 | 2000 (5 de octubre) | El desarrollador perdió el código fuente y anunció la suspensión oficial del desarrollo.                                |

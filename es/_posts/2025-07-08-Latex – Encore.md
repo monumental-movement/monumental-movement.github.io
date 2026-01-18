@@ -18,7 +18,7 @@ Michael Borrmann, también conocido como Latex, es un productor alemán. Tambié
 
 "Encore" es una canción de Electro y Tech House lanzada en 2001 por el sello de techno y electro de Frank Müller, Müller Records, con sede en Berlín.
 
-La masterización fue realizada por el ingeniero Christoph Grote-Beverborg de Dubplates & Mastering, también conocido como CGB.
+La masterización estuvo a cargo del ingeniero Christoph Grote-Beverborg, también conocido como CGB, de Dubplates & Mastering.
 
 #### Lista de canciones
 ```md

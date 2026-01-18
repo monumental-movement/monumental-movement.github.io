@@ -108,7 +108,7 @@ Las siguientes son las principales obras mencionadas en el texto principal.
 
 | Artista / Obra | Año | Notas | Enlace |
 | ------ | ---- | --------------- | ----------- | --------------- |
-| Negativland — *Escape del ruido* | 1987 | Una mezcla de collages de cintas y canciones cortas, una obra maestra | [Amazon](https://amzn.to/47akMEX) |
+| Negativland — *Escape del ruido* | 1987 | Una mezcla de tape collage y canciones cortas, una obra maestra | [Amazon](https://amzn.to/47akMEX) |
 | Matmos — *Una oportunidad de cortar es una oportunidad de curar* | 2001 | Trabajo conceptual utilizando sonidos médicos | [Amazon](https://amzn.to/48IJtKN) |
 | Matmos — *La Guerra Civil* | 2003 | Continuación de los experimentos conceptuales y de muestreo | [Amazon](https://amzn.to/4gKSuoA) |
 | Compilación del Área de la Bahía (edición regional) | Década de 2010 | Distribución principalmente local. Recomendado para obtener de Bandcamp o sellos locales | [Bahía Improvisador](https://www.bayimproviser.com/cds.aspx) |
@@ -128,7 +128,7 @@ La música ruidosa/experimental en el Área de la Bahía se actualiza constantem
 
 ### Apéndice: Comunidades y eventos locales
 
-* [Bay Improviser](https://www.bayimproviser.com): una selección y un calendario para la comunidad improvisacional/experimental del Área de la Bahía, que incluye información de contacto de la administración e información de eventos mensuales.
+* [Bay Improviser](https://www.bayimproviser.com): una selección y un calendario para la comunidad improvisadora/experimental del Área de la Bahía, que incluye información de contacto de la administración e información de eventos mensuales.
 * [Noise Pop](https://www.noisepopfest.com): Festival anual en San Francisco. Proporciona oportunidades de exposición para actos locales independientes/experimentales.
 
 

@@ -69,11 +69,17 @@ Glitch Mob ha establecido un método para dividir e integrar en gran medida ritm
 
 El bajo está diseñado para ser la fuerza impulsora de la canción y su relación de fase con el bombo está estrictamente controlada. La subbanda suele estar dispuesta de forma monoaural y se caracteriza por un diseño que enfatiza la estabilidad durante la reproducción en un club.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xbbwjfa9JQE?si=-2_64kU--YmohV0Q" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
 ### 3.2 Sonido KOAN
 
 KOAN Sound es conocido por su edición de audio extremadamente precisa y sus técnicas de mezcla avanzadas. En sus canciones, se aplican diferentes envolventes y ajustes de filtro a cada nota, y rara vez se utiliza el mismo tono de forma consecutiva.
 
 Las bandas de frecuencia que ocupa cada nota están claramente separadas, minimizando las colisiones entre graves, medios y agudos. Este diseño mantiene una claridad clara incluso en ritmos complejos.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ach8lgF6-AY?si=h70zKmxpWEPZPRgc" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
@@ -195,17 +201,10 @@ Mientras que el rango bajo está fijo casi en el centro, los elementos de falla 
 
 La competencia excesiva de presión sonora no es necesariamente el objetivo principal de Glitch Hop. Más bien, el énfasis está en el contraste entre picos momentáneos y silencio. Por lo tanto, el limitador funciona como un dispositivo de seguridad y existe una fuerte tendencia a que la expresión misma se complete en la etapa de mezcla.
 
----
-
-## 15. Perspectiva de Registros de Movimiento Monumental
-
-Al considerar Glitch Hop en el contexto de Monumental Movement Records, lo importante no es la imitación de estilos, sino la actitud de tratar la edición misma como un acto de crítica. La fragmentación no es destrucción sino un requisito previo para la reorganización, y la música siempre se presenta como una estructura que puede reconstruirse.
-
-Glitch Hop es altamente artificial en teoría, pero extremadamente físico como resultado. Esta contradicción sigue sin resolverse, formando en sí misma una tensión de género.
 
 ---
 
-## 16. Cronología ampliada
+## 15. Cronología ampliada
 
 <div class="mermaid">
 timeline
@@ -218,7 +217,7 @@ timeline
 
 ---
 
-## 17. Resumen
+## 16. Resumen
 
 Glitch Hop es un género que se estableció a raíz de elevar al máximo la resolución de edición de la música beat. Los juicios realizados en un compás, en una nota e incluso en milisegundos están directamente relacionados con la sensación física final. En ese sentido, Glitch Hop no es sólo una colección de técnicas de producción, sino también un sistema de pensamiento que diseña la experiencia auditiva en sí.
 

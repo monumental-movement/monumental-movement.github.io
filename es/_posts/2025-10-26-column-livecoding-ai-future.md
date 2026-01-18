@@ -101,7 +101,7 @@ La relación entre ambos no es de "dominación y subordinación", sino más bien
 
 ---
 
-## Capítulo 5: Ejemplo de colaboración entre IA y Live Coding
+## Capítulo 5: Ejemplos de colaboración entre IA y Live Coding
 
 - **Experimento AI-DJ (2023, Festival CTM de Berlín)**
 Un Live Coder humano juega en TidalCycles y la IA analiza los BPM, la armonía y la disposición espacial.
@@ -145,7 +145,7 @@ El acto de seleccionar y editar a partir de ahí es en sí mismo una "actuación
 
 Además, al integrar el entorno Live Coding con IA,
 También existe la posibilidad de que se convierta en una "interfaz rápida = rendimiento".
-Ya no necesitas un mouse o MIDI.
+Ya no se necesita mouse ni MIDI.
 **Se acerca la era en la que el lenguaje y los pensamientos se convierten en sonidos**.
 
 ---
@@ -188,11 +188,11 @@ flowchart TD
 
 ---
 
-## Conclusión: Una nueva democratización de la creatividad
+## Conclusión: Una nueva democratización de la creación
 
 Live Coding se realiza a través de "expresión improvisada a través de acordes".
 Abrió la música a un acto que cualquiera podía crear.
-La IA promoverá aún más la democratización,
+La IA lo democratizará aún más,
 Estamos tratando de crear una **cultura de compartir la "inteligencia de la actuación"**.
 
 Algoritmos y humanos, máquinas y emociones.

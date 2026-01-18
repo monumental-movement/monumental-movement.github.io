@@ -24,7 +24,7 @@ title: '[Columna] Más allá de la deriva: Eurobeat/EDM y la forma futura de “
 Texto: mmr｜Tema: D inicial, Eurobeat y el destino de la “aceleración del sonido” que sigue”.
 
 
-『頭文字D』とユーロビート。 Ya no se puede hablar de la era en la que estas conexiones funcionaban como un dispositivo cultural únicamente a través de la "nostalgia".
+“D inicial” y Eurobeat. Ya no se puede hablar de la época en la que estas conexiones funcionaban como un dispositivo cultural únicamente a través de la "nostalgia".
 Desde finales de la década de 1990 hasta principios de la de 2000, la resonancia de imágenes de automóviles conduciendo a través de pasos de montaña y sonidos de alto ritmo crearon una experiencia inconsciente y compartida.
 Velocidad = música y música = aceleración de las emociones.
 
@@ -51,7 +51,7 @@ color: #fff;
 
 ## 1. Del “pase” a la “órbita”: la gradación del espacio musical trazada por Eurobeat
 
-Como se mencionó en los dos trabajos anteriores, el Eurobeat en Initial D fue inseparable de la historia de Touge.
+Como se mencionó en los dos trabajos anteriores, el Eurobeat en Initial D era inseparable de la historia de Toge.
 Sin embargo, no fue sólo una ayuda para el terreno y la producción visual, sino un **dispositivo que traducía la distorsión del tiempo en sonido**.
 
 Ahora, mirando hacia atrás, podemos decir que el eurobeat era un género que visualizaba acústicamente el "tiempo interno de un cuerpo en funcionamiento".
@@ -144,9 +144,9 @@ Cuando ingresa el registro de conducción (velocidad, ruta, información de curv
 Genera automáticamente una pista estilo Eurobeat que corresponde a ese estilo de conducción.
 La era en la que "tu conducción se convierte en la canción" ya está empezando a hacerse realidad en el banco de pruebas.
 
-### ● Resurgimiento del Eurobeat desde SNS
+### ● Resurgimiento del Eurobeat desde las redes sociales
 
-En TikTok y YouTube, el número de publicaciones que combinan "Eurobeat x vídeo de conducción propia" ha aumentado explosivamente.
+En TikTok y YouTube, el número de publicaciones que combinan "Eurobeat x tu propio vídeo de conducción" ha aumentado explosivamente.
 No son sólo nostalgia, sino que funcionan como un "nuevo formato para compartir la sensación de conducir".
 Es, por así decirlo, un "medio de velocidad compartida".
 

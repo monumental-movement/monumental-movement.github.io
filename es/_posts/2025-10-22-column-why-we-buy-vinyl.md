@@ -31,7 +31,7 @@ La acción de dejar caer la aguja, la sensación de abrir la chaqueta, la fluctu
 Es más un ritual que "escuchar".
 
 ¿Por qué la gente vuelve a los medios inconvenientes?
-El "deseo psicológico de contacto" y los "circuitos de memoria" están profundamente implicados.
+El "deseo psicológico de contacto" y los "circuitos de memoria" están profundamente involucrados.
 
 ---
 
@@ -148,7 +148,7 @@ Pero de eso se trata un "sonido vivo".
 
 Psicológicamente, las personas tienden a "apegarse a las imperfecciones" más que a la perfección.
 Acepta esa imperfección como parte de ti mismo.
-Ése es su atractivo como "fantasma de lo analógico".
+Ése es el atractivo del "fantasma de lo analógico".
 
 --Los discos no son lápidas de la música.
 Más bien, **la memoria humana en sí misma es un dispositivo giratorio**.

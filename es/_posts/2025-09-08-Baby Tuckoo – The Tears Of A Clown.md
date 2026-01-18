@@ -20,7 +20,7 @@ Este disco es un disco de Hard Rock/Heavy Metal lanzado por el sello independien
 
 A es una versión de "The Tears of a Clown" de Smokey Robinson & the Miracles (producida por Hank Cosby, Smokey Robinson y Stevie Wonder).
 
-B es un sencillo del álbum de Baby Tuckoo "Force Majeure".
+B es un sencillo del álbum "Force Majeure" de Baby Tuckoo.
 
 #### Lista de canciones
 ```md

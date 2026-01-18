@@ -16,7 +16,7 @@ title: Alter Ego – Rockero
 
 Alter Ego es un dúo alemán de música electrónica formado en 1992 por Roman Flügel y Jörn Elling Wuttke.
 
-Lanzado en 2004, "Rocker" se convirtió en un éxito mundial, siendo reproducido por DJ como Felix Da Housecat, 2 Many DJs y The Chemical Brothers, y fue un tema de Electro House que se convirtió en uno de los himnos dance de 2004 en Europa.
+Lanzado en 2004, "Rocker" se convirtió en un éxito mundial, siendo interpretado por DJ como Felix Da Housecat, 2 Many DJs y The Chemical Brothers, y fue un tema de Electro House que se convirtió en uno de los himnos dance de 2004 en Europa.
 
 #### Lista de canciones
 ```md

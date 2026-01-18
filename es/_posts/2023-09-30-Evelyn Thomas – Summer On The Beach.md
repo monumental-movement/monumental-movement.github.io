@@ -14,7 +14,7 @@ title: Evelyn Thomas - Verano en la playa
 ---
 
 
-"Evelyn Thomas" es un sencillo con el nombre real de Ellen Lucille Thomas, lanzado por el sello británico "Nightmare Gold Records" en 1987.
+"Evelyn Thomas" es un sencillo de nombre real Ellen Lucille Thomas, lanzado en 1987 por el sello británico "Nightmare Gold Records".
 
 #### Lista de canciones
 ```md

@@ -69,7 +69,7 @@ Los compositores ahora tienen estudios de escritorio y la música fluye desde su
 
 En la década de 2000, con la llegada de Pro Tools, Cubase, Logic Pro y Ableton Live, DTM evolucionó hasta convertirse en una DAW (estación de trabajo de audio digital).
 La grabación, edición, mezcla y masterización se pueden realizar en una sola PC.
-Además, la proliferación de **fuentes de sonido enchufables** y **paquetes de muestras** ha hecho que los equipos físicos de estudio sean innecesarios.
+Además, la proliferación de **fuentes de sonido enchufables** y **paquetes de muestras** ha hecho innecesario el equipo físico de estudio.
 
 Esto elimina la necesidad de que los productores de dormitorios "imiten" los estudios.
 Más bien, comenzaron a utilizar el "espacio restringido" mismo como fuente de expresión.

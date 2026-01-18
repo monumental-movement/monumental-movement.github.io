@@ -17,7 +17,7 @@ title: Toco – Guarapiranga
 
 La versión ``Dub'' del EP (Gerardo Frisina Dub) es una mezcla de club/pista de baile con énfasis en el ritmo y los efectos espaciales, con un tempo de alrededor de 120 bpm.
 
-"Remix" es un arreglo que mantiene un ritmo más brasileño sin dejar de conservar una estructura de jazz, y es una reinterpretación de las características del original. La mezcla original tiene un arreglo relativamente sobrio y una composición sonora que pone en primer plano elementos musicales brasileños como el canto y los instrumentos de guitarra/percusión.
+"Remix" es un arreglo que mantiene un ritmo más brasileño sin dejar de conservar una estructura de jazz, y es una reinterpretación de las características del original. La mezcla original tiene una composición relativamente sobria y una composición sonora que pone en primer plano elementos musicales brasileños como el canto y los instrumentos de guitarra/percusión.
 
 
 

@@ -17,7 +17,7 @@ En 1990, Jaimy fue uno de los primeros productores holandeses que logró ganarse
 Alrededor de 1998 conocí a mi compañero musical, Kenny D.
 En cuanto a la producción, Jaimy & Kenny D lanzaron música principalmente en Black Hole Recordings, pero también contribuyeron con pistas y proyectos para United Recordings, Combined Forces y Perfecto.
 
-En 2004, Jaimy tomó el camino independiente y fundó su propio sello, Fatal Music. Un año después, también fundó Drum Mode.
+En 2004, Jaimy tomó la ruta independiente y fundó su propio sello, Fatal Music. Un año después, también fundó Drum Mode.
 
 #### Lista de canciones
 ```md

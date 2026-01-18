@@ -22,7 +22,7 @@ Creció rodeada de música desde temprana edad, se familiarizó con el jazz bajo
 
 Desde entonces, ha lanzado muchos éxitos como "100% Pure Love" y "Destination Calabria" y se ha convertido en uno de los artistas líderes en el mundo de la música house.
 
-Conocido por su poderosa voz y melodías pegadizas, ha mostrado una actuación en vivo abrumadora. Actualmente, dirige su propio sello, IAH Records, y contribuye a la revitalización de la escena musical descubriendo y nutriendo a artistas prometedores.
+Conocido por su poderosa voz y melodías pegadizas, también muestra un desempeño abrumador en shows en vivo. Actualmente dirige su propio sello, IAH Records, y contribuye a la revitalización de la escena musical descubriendo y nutriendo a artistas emergentes.
 
 #### Lista de canciones
 ```md

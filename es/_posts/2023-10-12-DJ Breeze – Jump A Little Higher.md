@@ -15,7 +15,7 @@ title: DJ Breeze – Salta un poco más alto
 
 DJ Breeze (Mark Breeze) fue un DJ y productor popular en la escena de la música dance británica en las décadas de 1990 y 2000. Especializado en estilos happy hardcore y breakbeat incondicional, creó muchos éxitos de discoteca.
 
-"Jump A Little Higher" presenta una melodía edificante y un ritmo enérgico, y se tocaba con frecuencia en la escena hardcore y en Rave.
+"Jump A Little Higher" presenta una melodía edificante y un ritmo enérgico, y es una pista que se reproduce con frecuencia en escenas hardcore y rave.
 
 El lado A es un remix del DJ británico Brisk.
 

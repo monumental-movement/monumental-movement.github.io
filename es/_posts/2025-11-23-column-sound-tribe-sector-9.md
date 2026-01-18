@@ -89,8 +89,8 @@ Canción representativa:
 - “Atlas”
 - "Algo"
 - “Arigato”
-- “Tokio”
--“Pueblos”
+-“Tokio”
+- "Gente"
 
 Estos se reproducen con frecuencia en la lista de canciones actual y simbolizan mejor la imagen musical de STS9.
 
@@ -148,14 +148,14 @@ Desde el comienzo de STS9
 - Apoyo educativo
 - Protección del medio ambiente
 - Actividades locales
-Ha participado activamente en actividades benéficas como:
+Ha participado activamente en actividades benéficas como
 
 También hay muchas presentaciones que donan una parte de las ganancias de las entradas en vivo y muchas canciones que tienen temas sociales como tema.
 En particular, “Peaceblaster” (2008) se posiciona como una obra conceptual con temas políticos y ambientales como trasfondo.
 
 ---
 
-# 5. 2015–Presente: Cambio de miembro y nueva etapa
+# 5. 2015–Presente: Cambio de miembro y nueva fase
 ## 5-1. Transición al nuevo sistema.
 
 En 2014, el veterano guitarrista dejó el grupo y se estableció un nuevo sistema con Hunter Brown en el centro.

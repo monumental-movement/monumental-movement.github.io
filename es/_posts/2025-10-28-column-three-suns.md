@@ -89,7 +89,7 @@ Fue verdaderamente un **diseño interior de sonido**.
 
 | Elemento | Contenido | Relación con los Tres Soles |
 |------|------|----------------------|
-| Audio de alta fidelidad | Popularización de la reproducción estéreo en casa | Grabación pensando en los efectos acústicos |
+| Audio de alta fidelidad | Popularización de la reproducción estéreo en los hogares | Grabación pensando en los efectos acústicos |
 | Cultura del cóctel | Símbolo del ocio urbano | Música fusionada con "intoxicación" |
 | Películas caseras | Música de fondo en la era del cine de 8 mm | Se utilizaba con frecuencia Tres Soles |
 | Orientado al espacio | Estética de la era espacial | El sonido flotante resuena |
@@ -121,7 +121,7 @@ El "ma", donde la densidad del sonido es fina y existe como el aire, fue el prec
 | Aire | Dúo francés | Sensación analógica y melodía flotante |
 | Cornelio | Japón | Construcción de sonido acústico para el hogar |
 | Laboratorio estéreo | Británico y francés | Sonido Retro-Futuro |
-| Beirut | América | Abanderado de la restauración del acordeón |
+| Beirut | América | Abanderado del resurgimiento del acordeón |
 
 ---
 

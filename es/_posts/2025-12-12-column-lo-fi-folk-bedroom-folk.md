@@ -46,7 +46,7 @@ Las grabadoras de consumo se hicieron populares a finales de la década de 1970 
 
 #### Prácticas principales
 - Conecte el micrófono dinámico directamente a la platina de casete.
-- Grabaciones mezcladas con sonidos de la vida diaria.
+- Grabaciones que contienen sonidos de la vida diaria.
 - Grabación de una sola toma casi sin mezcla
 - Creación de sonido que conserva los ecos naturales de la habitación.
 
@@ -67,7 +67,7 @@ En la década de 1990, junto con la cultura del lanzamiento de casetes de los se
 
 ## 2. Principios de la década de 2000: establecimiento de la gente del dormitorio
 
-### 2-1. Entorno de grabación doméstico Iron & Wine (Sam Beam)
+### 2-1. Entorno de grabación doméstica Iron & Wine (Sam Beam)
 El primer trabajo de Iron & Wine, "The Creek Drank the Cradle" (2002), es conocido como un trabajo representativo de Bedroom Folk.
 Muchas de las grabaciones se realizan en la casa del artista e incluyen:
 
@@ -96,7 +96,7 @@ Los primeros trabajos de Sufjan Stevens, especialmente Seven Swans (2004), y sus
 - Completa tu propia mezcla en casa.
 - Grabación de órganos y banjos a corta distancia, preservando la textura Lo-Fi única
 
-En particular, en los primeros trabajos, la **rugosidad parecida a una cinta** y las **grabaciones vocales muy cercanas** se han convertido en símbolos de Bedroom Folk.
+En particular, en los primeros trabajos, la **rugosidad parecida a una cinta** y las **grabaciones vocales muy cercanas** son las características distintivas de Bedroom Folk.
 
 ---
 
@@ -214,7 +214,7 @@ Estos han tenido una gran influencia en el Bedroom Pop moderno y en la cultura d
 ---
 
 ## 10. Conclusión
-Lo-Fi Folk / Bedroom Folk ha sido pionero en una nueva expresión de la música folk, teniendo en cuenta las limitaciones de los equipos de grabación y el espacio vital personal.
+Lo-Fi Folk / Bedroom Folk ha sido pionero en una nueva expresión de la música folklórica, teniendo en cuenta las limitaciones de los equipos de grabación y el espacio vital personal.
 Los primeros trabajos de Iron & Wine y Sufjan Stevens son ejemplos icónicos del puro encanto de la grabación casera y continúan influyendo en muchos artistas de la actualidad.
 
 Las pequeñas voces grabadas en la sala registraron la "sensación de la vida cotidiana" como un sonido que no estaba disponible en la producción de estudio y abrieron un nuevo capítulo en la historia de la música folklórica.

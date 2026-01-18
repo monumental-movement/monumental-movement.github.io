@@ -94,7 +94,7 @@ El propio Sylvester murió de SIDA, pero su música sigue sonando en los clubes 
 
 ### El legado y el impacto moderno de Hi-NRG
 
-Hi-NRG eventualmente evolucionó hasta convertirse en Chicago House y Eurobeat, y ha dejado una influencia en el EDM y el hiperpop de hoy.
+Hi-NRG eventualmente evolucionó hasta convertirse en Chicago house y Eurobeat, y ha dejado una influencia en el EDM y el hiperpop actual.
 Particularmente en la comunidad LGBTQ, los clásicos de Hi-NRG se siguen reproduciendo en eventos del Orgullo y clubes gay, lo que brinda una manera de revivir esa sensación de libertad.
 
 La cultura contemporánea Drag Race y los artistas hiperpop (SOPHIE, Kim Petras, etc.) llevan el ADN de energía exagerada y expresión de género de Hi-NRG.

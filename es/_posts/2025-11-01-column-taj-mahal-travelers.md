@@ -22,10 +22,10 @@ title: '[Columna] Taj Mahal Travel Group y Takehisa Kosugi: un viaje para libera
 Texto: mmr｜Tema: Una peregrinación sonora donde la improvisación y los sonidos ambientales se entrelazan - Un registro de un viaje al exterior de la música, dibujado por Takehisa Kosugi y el Taj Mahal Travel Group
 
 
-A principios de la década de 1960, la escena musical de vanguardia de Japón florecía silenciosamente.
+A principios de la década de 1960, la escena musical de vanguardia japonesa florecía silenciosamente.
 Centrado en el Taller Experimental y el Centro de Arte Sogetsu dirigido por Toru Takemitsu, Kei Ichiyanagi y Joji Yuasa, se estaban derribando las fronteras entre géneros como la música, la danza, el vídeo y la iluminación.
 
-Durante este período, Takehisa Kosugi estudiaba violín en la Universidad de las Artes de Tokio, pero comenzaba a sentir los límites de las formas musicales tradicionales. Comenzó a ver el sonido como un "acontecimiento" más que como una "estructura", y eventualmente comenzó a explorar la improvisación y el azar.
+Durante este período, Takehisa Kosugi estudiaba violín en la Universidad de las Artes de Tokio, pero comenzaba a sentir los límites de las formas musicales tradicionales. Comenzó a ver el sonido como un "acontecimiento" más que como una "estructura", y finalmente comenzó a explorar la improvisación y el azar.
 
 
 > “El sonido comienza a vivir cuando se separa de la voluntad del intérprete”.
@@ -82,7 +82,7 @@ Puso en práctica la filosofía de que "el lugar mismo se convierte en un instru
 
 ---
 
-## V. Viajando a través del sonido: De la India a Europa (1971-1972)
+## V. Viajando a través del sonido: de la India a Europa (1971-1972)
 
 En 1971, el Taj Mahal Tour Group parte para una gira por Europa.
 Su viaje no fue sólo una gira, sino una "peregrinación sonora".
@@ -108,7 +108,7 @@ flowchart TD
 </div>
 
 **Nota**: Este itinerario es una ruta aproximada basada en registros y testimonios reales.
-Las actuaciones de improvisación en varios lugares abarcaron desde instalaciones culturales locales, al aire libre, hasta bases para movimientos estudiantiles.
+Las actuaciones de improvisación en diversos lugares abarcaron desde instalaciones culturales locales, al aire libre hasta bases para movimientos estudiantiles.
 
 ---
 
@@ -147,7 +147,7 @@ También influyó en Brian Eno y Robert Ashley.
 
 ---
 
-##IX. Actividades y evaluación en años posteriores.
+##IX. Actividades posteriores y evaluación.
 
 Desde la década de 1980, Kosugi se ha desempeñado como director musical de la Merce Cunningham Dance Company.
 Si bien heredó la filosofía de John Cage, profundizó en la integración de la danza y el sonido.
@@ -178,7 +178,7 @@ Este es el mensaje más importante que nos dejó Kosugi.
 | 1972 | 《Viajeros del Taj Mahal - 15 de julio de 1972》 Anuncio |
 | 1975 | Lanzamiento del trabajo en solitario “Catch-Wave” |
 | 1977–90 | Merce Cunningham Dance Company Director musical |
-| 2018 | Falleció. Falleció a la edad de 80 años. |
+| 2018 | Falleció. Falleció a los 80 años. |
 
 ---
 

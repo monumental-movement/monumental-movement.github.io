@@ -12,7 +12,7 @@ tags:
 - Techno
 - Modular
 - History
-title: '[Columna] Buchla y Serge: Otra genealogía de la acústica electrónica'
+title: '[Columna] Buchla y Serge: Otro linaje de acústica electrónica'
 ---
 
 

@@ -13,7 +13,7 @@ title: Sergio Del Río – Parazaar
 ---
 
 
-Sergio Del Rio es un DJ y productor de Italia. También trabaja bajo los nombres DJ Power, Ethnosonique, Gambafreaks, etc.
+Sergio Del Rio es un DJ y productor de Italia. También trabaja bajo los nombres de DJ Power, Ethnosonique, Gambafreaks, etc.
 
 "Parazaar" es un tema house lanzado en 2003 por la división de especialidad house del sello español Vale Music.
 

@@ -16,7 +16,7 @@ title: Croisette – Nada más que chantaje
 
 Un proyecto disco compuesto y producido por el dúo de producción Fiachra Trench e Ian Levine.
 
-Una pista disco lanzada en 1986 en el sello dance de los 80 del Reino Unido, Passion.
+Una pista disco lanzada en 1986 en el sello dance británico de los 80 Passion.
 
 #### Lista de canciones
 ```md

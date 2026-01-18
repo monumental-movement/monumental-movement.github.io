@@ -15,7 +15,7 @@ title: Herramientas Guniw – Deslumbrante
 ---
 
 
-Guniw Tools es una banda que ha estado activa desde principios de los noventa. Su estilo distintivo es crear visuales e imágenes de todos sus álbumes, utilizando accesorios, fotografía, edición, etc., para expresar su visión del mundo de manera visual y audible.
+Guniw Tools es una banda que ha estado activa desde principios de los noventa. Su estilo distintivo es crear visuales e imágenes de todos sus álbumes, usando accesorios, fotografía, edición, etc., para expresar su visión del mundo de manera visual y audible.
 
 Este CD es la versión original "Dazzle" lanzada en 1998 por el sello Happy House. Viene con una pegatina 3D que viene sólo con la versión original.
 

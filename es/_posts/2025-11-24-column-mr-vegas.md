@@ -68,7 +68,7 @@ Como resultado de su lesión en la mandíbula y del tratamiento, ha desarrollado
 - **Tema de la letra**
 Contiene mensajes críticos y morales sobre el comportamiento sexual y destaca el respeto por sí mismas de las mujeres y la fuerza de su insistencia en decir "no".
 - **Reconocimiento internacional**
-Fue un éxito no sólo en Jamaica, sino también en Inglaterra y Estados Unidos.
+Fue un éxito no sólo en Jamaica sino también en Inglaterra y Estados Unidos.
 - **Otorgar**
 Ganó el premio "Mejor Artista de Reggae" en los premios MOBO.
 
@@ -161,7 +161,7 @@ Firmamos un contrato con un sello en Los Ángeles y lanzamos el álbum ``Pull Up
 - Lanzamiento del álbum "Ghetto Reggae".
 - Los medios lo elogiaron como una "reintroducción del auténtico reggae de los 80 y 90".
 - También se sugirió la posibilidad de una nominación al premio Grammy.
-- En la presentación en vivo, combinaremos antiguas obras maestras con nuevas canciones y desarrollaremos una actuación que invite a la participación del público.
+- En la presentación en vivo, combinaremos viejas obras maestras con nuevas canciones y desarrollaremos una actuación que invite a la participación del público.
 
 ### 7.2 Perspectiva de futuro
 - Promover la reevaluación de la cultura sound system y el reggae.
@@ -172,9 +172,9 @@ Firmamos un contrato con un sello en Los Ángeles y lanzamos el álbum ``Pull Up
 
 ## Conclusión: Un cantante que teje tradición e innovación
 
-Vegas es un músico cuyo trabajo es una mezcla compleja de la cultura del sistema de sonido de Kingston, las luchas de la juventud, la fe, la responsabilidad social y una visión para el futuro.
+Vegas es un músico cuyo trabajo es una mezcla compleja de la cultura del sound system de Kingston, las luchas de la juventud, la fe, la responsabilidad social y una visión para el futuro.
 
-Sus canciones emblemáticas "Nike Air" y "Heads High" simbolizan el punto de partida de su carrera, mientras que "Kokane" presenta una advertencia de tentación y peligro. Su último álbum, "Ghetto Reggae", combina un homenaje a la época y el lugar en el que creció con un mensaje contemporáneo.
+Sus canciones emblemáticas "Nike Air" y "Heads High" simbolizan el punto de partida de su carrera, mientras que "Kokane" presenta una advertencia de tentación y peligro. Su último álbum, "Ghetto Reggae", combina un mensaje moderno con respeto por la época y el lugar en el que creció.
 
 Con una pasión por la educación, el comentario social y la preservación cultural, se desempeña no solo como músico sino también como portador, mensajero y líder cultural.
 

@@ -49,7 +49,7 @@ El establecimiento de vaporwave está estrechamente relacionado con la cultura d
 - **Beer On The Rug** es el sello que grabó de manera más emblemática los primeros vaporwave, produciendo muchos artistas icónicos como MACINTOSH PLUS, Laserdisc Visions y Luxury Elite.
 - **Constellation Tatsu** ha profundizado su enfoque de la música ambiental, fusionando la cultura de las cintas y la estética espiritual.
 - **Dream Catalog** enfatizó la reconstrucción de la imagen de China y Japón, una visión de ciencia ficción del futuro y la naturaleza fantasmal de las ciudades.
-- **Orange Milk Records** amplió las posibilidades de la música posterior al Vaporwave en el contexto de la música electrónica experimental y también estableció una posición única en términos de arte.
+- **Orange Milk Records** amplió las posibilidades de la música después de Vaporwave en el contexto de la música electrónica experimental y también estableció una posición única en términos de arte.
 
 ## Capítulo 2: Transformación de la estética de las ondas de vapor
 
@@ -60,7 +60,7 @@ Los primeros Eccojams no eran sólo desaceleraciones, sino dispositivos que crea
 ### 2-2 Dirección de la estética
 
 * **El colapso de una utopía artificial** (Utopian Virtual)
-* **Decadencia, industrialización y visión destructiva del futuro** (Hardvapour)
+* **Decadencia, industrialización, imagen destructiva del futuro** (Hardvapour)
 * **La dulzura y la ironía de la cultura de consumo** (Future Funk)
 * **Fusión de fantasmas urbanos y sonidos ambientales** (Mallsoft)
 
@@ -91,7 +91,7 @@ El sonido de las ondas de vapor se basa en los principios de "atenuación, alarg
 ### 3-4 Método de producción
 
 * Procesamiento de textura SP-404
-* Estiramiento de tiempo extremo por Audacity
+* Estiramiento de tiempo extremo de Audacity
 * Procesamiento de deterioro debido a la grabación real de VHS
 * Corte de ecualización y supresión de compresión en DAW
 
@@ -101,11 +101,11 @@ Se puede decir que son técnicas para reconstruir la "materialidad perdida".
 
 ### 4-1 Antecedentes: El arte nacido en una era de futuro perdido
 
-Alrededor de 2010, cuando se superpusieron el sentimiento de encierro tras la crisis financiera y la cultura de archivo de Internet, el vaporwave se convirtió en un dispositivo cultural que reconstruía la "imagen futura del pasado".
+Hacia 2010, con la combinación del sentimiento de encierro tras la crisis financiera y la cultura de archivo de Internet, el vaporwave se convirtió en un dispositivo cultural que reconstruía la "imagen futura del pasado".
 
 ### 4-2 Semiótica
 
-Estatuas, UI, rosa y cian, palmeras, japoneses... estos símbolos son todos restos de símbolos futuristas, y en Vaporwave están distorsionados y reproducidos como "fantasmas de un futuro intentado".
+Estatuas, UI, rosa y cian, palmeras, japonés... estos símbolos son todos restos de símbolos futuristas, y en Vaporwave están distorsionados y reproducidos como "fantasmas de un futuro intentado".
 
 ### 4-3 Psicología social
 

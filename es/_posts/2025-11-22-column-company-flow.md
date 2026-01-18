@@ -93,7 +93,7 @@ Fue distintivo en términos de sonido, política y experimentación.
 
 ---
 
-## Características del EP "Funcrusher"
+## Características del EP “Funcrusher”
 
 ### ● 1. Industrial × Boom-Bap
 
@@ -232,7 +232,7 @@ Se compone de metáforas elaboradas y expresiones abstractas.
 * Contenidos que simbolizan el hip-hop underground de finales de los 90.
 * Se pueden ver muchos elementos prototipo de trabajos posteriores de Def Jux (Cannibal Ox, etc.).
 
-Se dice que "Funcrusher Plus" estableció una "ideología underground" en torno a esta canción.
+Se dice que "Funcrusher Plus" estableció "el underground como una ideología" en torno a esta canción.
 
 ---
 

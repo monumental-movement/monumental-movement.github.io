@@ -18,7 +18,7 @@ title: '[Columna] Survival Research Laboratories (SRL): Pionero del arte mecáni
 Texto: mmr｜Tema: Sobre un grupo innovador que cuestiona la relación entre máquinas y humanos, tecnología y arte, y orden y caos.
 
 
-Survival Research Laboratories (SRL) es un colectivo estadounidense de artes escénicas fundado en San Francisco en 1978 por Mark Pauline. SRL es conocida por sus actuaciones a gran escala que utilizan máquinas y robots, cuyo objetivo es reutilizar la tecnología industrial, científica y militar en una sátira artística y sociopolítica. Su trabajo está asociado con el arte de Dadá y Jean Tinguely, y ha sido elogiado por cuestionar el estado y la dirección de la sociedad tecnológica.
+Survival Research Laboratories (SRL) es un colectivo estadounidense de artes escénicas fundado en San Francisco en 1978 por Mark Pauline. SRL es conocida por sus actuaciones a gran escala que utilizan máquinas y robots, cuyo objetivo es reutilizar la tecnología industrial, científica y militar en una sátira artística y sociopolítica. Su trabajo está asociado con el arte de Dada y Jean Tinguely, y ha sido elogiado por cuestionar el estado y la dirección de la sociedad tecnológica.
 
 ---
 
@@ -41,7 +41,7 @@ color: #fff;
 
 Las actuaciones de SRL consisten en interacciones ritualizadas con máquinas, robots y equipos de efectos especiales, en las que sólo el público y los operadores participan como humanos. Las actuaciones típicas incluyen:
 
-- **Machine Sex (1979)**: Primera actuación de SRL, que implicó utilizar The Demanufacturing Machine para romper objetos y arrojarlos al público.
+- **Machine Sex (1979)**: Primera actuación de SRL, que implicó utilizar The Demanufacturing Machine para romper objetos y lanzarlos al público.
 
 - **Ilusiones de abundancia desvergonzada (1989)**: Ambientada en el distrito SOMA de San Francisco, un piano en llamas, comida podrida, robots que escupen fuego y esculturas falsas que parecen explosivos provocan el cierre de playas y el envío de escuadrones antiexplosivos.
 
@@ -95,7 +95,7 @@ Logros: Participé en el desarrollo de la infraestructura de control de máquina
 
 #### Otros colaboradores clave
 
-Amy Critchett: Apoyo al productor/gerencia.
+Amy Critchett: Apoyo al productor/gerente.
 
 Karen Marcelo: Sirve de puente entre la cultura hacker y organiza "dorkbot SF".
 

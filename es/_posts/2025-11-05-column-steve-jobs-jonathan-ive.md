@@ -123,7 +123,7 @@ Ive dice: "La propia carcasa da forma al sonido" (entrevista a Fast Company, 201
 
 ## Capítulo 6 De los registros a la nube - herencia de memorias sonoras
 
-Cuando Jobs habló de su concepto iCloud, soñó con "un mundo donde se pueda reproducir música sin importar dónde estés".
+Cuando Jobs habló del concepto de iCloud, soñó con "un mundo donde se pueda reproducir música sin importar dónde estés".
 En su raíz está el concepto de nube como una extensión del acto de coger un disco y dejar caer la aguja.
 
 Por otro lado, he pasado por LoveFrom,

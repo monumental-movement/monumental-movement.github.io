@@ -59,7 +59,7 @@ El ritmo se basa en **2 pasos** derivado del garage, pero también incluye ciert
 - El bombo oscila entre **110 y 130 BPM** en lugar de alrededor de 140
 - La caja tiene un tono de ataque débil sin enfatizar el contratiempo.
 - Los sombreros suelen estar hechos de grabaciones de campo procesadas en lugar de metal.
-- Además de las cajas de ritmos, puedes utilizar muestras cortas como el sonido de pequeños objetos golpeando, el sonido del papel raspando, etc.
+- Utilice muestras breves no sólo de cajas de ritmos, sino también de sonidos de golpes de objetos pequeños, sonidos de raspado de papel, etc.
 
 ### 1-3 Espacio acústico: reverberación, partícula, grabación de campo
 El post-dubstep puede describirse como un "género que crea espacio". En particular, los siguientes elementos son distintivos.
@@ -89,7 +89,7 @@ Su característica más importante es su capacidad para extraer el sentimiento d
 ### Método de muestreo
 El muestreo de Burial es particularmente distintivo e incorpora varios ruidos como elementos musicales.
 
-- Procesa el sonido del anuncio del tren y úsalo como pad.
+- Procese el sonido del anuncio del tren y utilícelo como pad.
 - Convierte grabaciones de lluvia nocturna en partículas para crear material rítmico.
 - Segmentos de audio de juegos compuestos para formar matices humanos.
 - Corta el fragmento vocal extremadamente corto y dale una presencia fantasmal con procesamiento de reverberación inversa.
@@ -104,7 +104,7 @@ James Blake es único al sacar el post-dubstep del contexto de la cultura de clu
 
 ### Características acústicas
 - Minimalismo extremo centrado en el piano y la voz.
-- Los graves son mínimos y están dispuestos suavemente entre 50 y 70 Hz.
+- Los graves son mínimos y se distribuyen suavemente entre 50 y 70 Hz.
 - La progresión de acordes tiene un sentimiento armónico clásico.
 - Suprimir la manipulación de formantes y difuminar el límite entre los sonidos naturales y los sonidos electrónicos.
 - Dependiendo de la profundidad de la compresión, la "respiración" funciona como el ritmo de la canción.

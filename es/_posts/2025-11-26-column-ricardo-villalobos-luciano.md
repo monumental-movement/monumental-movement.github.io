@@ -22,7 +22,7 @@ Texto: mmr｜Tema: Trazar los caminos individuales de ambas partes, sus encuentr
 
 En un viejo club cubierto de polvo de Chile, hubo un momento en que el sonido renació. Ricardo Villalobos regresó a su Chile natal con la sensibilidad techno afinada en Berlín, Alemania, todavía aferrándose a los ritmos sudamericanos de su infancia. Esa misma noche, Luciano se encontraba explorando su música en la escena de discotecas chilena. Los dos se conocieron; no fue sólo una coincidencia, fue casi inevitable.
 
-Su música tiene el poder de ir más allá de los simples ritmos de baile y fusionar la cultura y el cuerpo, así como el tiempo y el espacio. Esta es una "historia" que quedará en la historia del club.
+Su música tiene el poder de ir más allá de los simples ritmos de baile y fusionar la cultura y el cuerpo, así como el tiempo y el espacio. Ésta es una "historia" que quedará en la historia del club.
 
 ---
 
@@ -44,7 +44,7 @@ color: #fff;
 
 ### La trayectoria de Villalobos
 
-Ricardo Villalobos nació en 1970 en Santiago, Chile. Su familia se mudó a Alemania cuando él era joven, pero los ritmos de Sudamérica permanecieron con él. Los sonidos de congas y bongos revivirían más tarde como sutiles percusiones en sus temas. Cuando tenía poco más de 20 años, mientras trabajaba en la escena de clubes de Berlín, estuvo expuesto a la vanguardia del minimal techno y, al fusionarlo con una sensibilidad rítmica derivada del latín, formó su propio lenguaje musical.
+Ricardo Villalobos nació en 1970 en Santiago, Chile. Su familia se mudó a Alemania cuando él era joven, pero los ritmos de Sudamérica permanecieron con él. Los sonidos de congas y bongos revivirían más tarde como sutiles percusiones en sus temas. Cuando tenía poco más de 20 años, mientras trabajaba en la escena de clubes de Berlín, estuvo expuesto a la vanguardia del techno minimalista y, al fusionarlo con una sensibilidad rítmica derivada del latín, formó su propio lenguaje musical.
 
 Sus primeros trabajos EP se caracterizaron por un sonido "inmersivo" con percusión sutil y temas largos. Por ejemplo, "Halma" y "Que Belle Epoque" van más allá de la mera música de baile y tienen estructuras que involucran al oyente en el flujo del tiempo.
 
@@ -156,7 +156,7 @@ timeline
 
 ## Conclusión
 
-Los esfuerzos de Ricardo Villalobos, Luciano y Sense Club fueron más allá de la mera popularidad de los clubes y abrieron nuevos horizontes en la música, la cultura y el cuerpo desde finales de los años 1990 hasta los años 2000. La música que dejaron atrás no es una gloria pasada, sino una pista para el futuro, y continúa teniendo una sólida influencia en la cultura de club actual.
+Los esfuerzos de Ricardo Villalobos, Luciano y Sense Club fueron más allá de la mera popularidad de club y abrieron nuevos horizontes en la música, la cultura y el cuerpo desde finales de los años 1990 hasta los años 2000. La música que dejaron atrás no es una gloria pasada, sino una pista para el futuro, y continúa teniendo una sólida influencia en la cultura de club actual.
 
 ---
 

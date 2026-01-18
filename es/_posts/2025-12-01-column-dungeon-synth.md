@@ -65,7 +65,7 @@ Como resultado, la música a menudo se describe como "una banda sonora sin pelí
 
 ---
 
-## ■ 2. Historia ─ Desde los primeros tiempos hasta nuestros días
+## ■ 2. Historia – desde los primeros tiempos hasta nuestros días
 
 A continuación, resumiremos las tendencias importantes desde el nacimiento del género hasta la actualidad.
 
@@ -78,7 +78,7 @@ Ex miembro del Emperador. Estableció un estilo de fantasía medieval "Dark Dung
 - **Primeras piezas para teclado de Burzum (Noruega)**
 La canción final de ``Hvis Lyset Tar Oss'' y las pistas ambientales de ``Filosofem'' dejaron un fuerte simbolismo para el posterior Dungeon Synth.
 
-Aunque estas son fuentes de sonido anteriores al término "Dungeon Synth como nombre de género", las generaciones posteriores las tratan claramente como la fuente.
+Aunque estas son fuentes de sonido anteriores a "Dungeon Synth como nombre de género", las generaciones posteriores las tratan claramente como la fuente.
 
 ### ● 2-2. Primera ola (1995-2000)
 De 1995 a 2000, un joven proyecto europeo que precedió a Mortiis "Era I", Cernunnos Woods, Depressed Silence y Old Tower publicó obras distribuidas principalmente en cinta.
@@ -203,7 +203,7 @@ Agregar una rugosidad de aproximadamente 8 a 12 bits mejorará la sensación de 
 De hecho, muchos artistas graban sus canciones en casetes.
 
 ### ■ Procesamiento de ecualización
-- **Eliminar bajos (por debajo de 100 Hz)** → Hacia textura monoaural/equipo antiguo
+- **Eliminar graves (por debajo de 100 Hz)** → Hacia una sensación monoaural/de equipo antiguo
 - **Elimina las frecuencias altas (por encima de 6-8kHz)** → Elimina el olor digital
 
 ### ■ Reverberación
@@ -269,7 +269,7 @@ La influencia visual es extremadamente grande y juega un papel para complementar
 ## ● Segunda ola (2010-2015)
 - **Murgrind**
 - **Erang** (produce muchas obras con fantasía medieval como tema)
-- **Torre del Castillo Secuestrado**
+- **Fortaleza secuestrada**
 
 ## ● Tercera ola (2016-2023)
 - **Torre Vieja (Países Bajos)**
@@ -277,7 +277,7 @@ La influencia visual es extremadamente grande y juega un papel para complementar
 - **Feudo (EE.UU.)**
 
 ## ● Hoy en día (2024–)
-- Importante multinacionalización y segmentación.
+- Importante multinacionalización y fragmentación.
 Se han incrementado temas como Bosque / Invierno / Heroico / Sinte cósmico.
 
 ---
@@ -296,7 +296,7 @@ A continuación se muestra un plan para crear una canción.
 - Agítalo un poco con simulación de cinta.
 
 ## ● Paso 3: Melodía
-- Repetición de motivos simples.
+- Repetir motivos simples
 - Crear un desarrollo “parecido a una historia” sin cambiar demasiado la armonía.
 
 ## ● Paso 4: Notas de gracia

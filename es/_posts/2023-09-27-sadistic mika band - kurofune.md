@@ -15,7 +15,7 @@ title: Banda Sádica Mika – Kurofune
 
 "Sadistic Mika Band" es una banda de rock japonesa que estuvo activa en la década de 1970, y "Kurofune" es el segundo álbum de Sadistic Mika Band, lanzado en 1974.
 
-Con la melodía pop única de Sadistic Mika Band, tuvo una gran influencia en los jóvenes de la época y es ampliamente conocida como una obra maestra en la escena del rock japonés.
+Con una melodía pop exclusiva de Sadistic Mika Band, tuvo una gran influencia en los jóvenes de la época y es ampliamente conocida como una obra maestra en la escena del rock japonés.
 
 La música de Sadistic Mika Band sigue siendo amada por mucha gente hoy en día y se considera una presencia importante que marcó los primeros días del rock japonés.
 

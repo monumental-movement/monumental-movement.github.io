@@ -18,7 +18,7 @@ Una pista house/deep house del productor y remezclador francés Shazz y el músi
 
 El lado A es especialmente genial, con su burbujeante línea de bajo que contrasta maravillosamente con los sublimes acordes de rosa, creando una armonía exquisita.
 
-Esta pista es una de las muchas grandes creaciones de Shazz y es un verdadero número de deep house, con un bucle relajante de teclas suaves, percusión vivaz y la fascinante voz de Derek Bays.
+Esta pista es una de las muchas grandes creaciones de Shazz y es un verdadero número de deep house, con un bucle relajante de suaves tonos de teclado, percusión vivaz y la fascinante voz de Derek Bays.
 
 #### Lista de canciones
 ```md

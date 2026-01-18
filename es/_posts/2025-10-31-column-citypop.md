@@ -74,7 +74,7 @@ La progresión de acordes utiliza la séptima y la novena mayor con frecuencia, 
 Aunque el ritmo es parecido al AOR, absorbe las tendencias disco y soul de la época y se caracteriza por un ritmo ligero de alrededor de 110 BPM.
 
 En términos de grabación, brilla la "estética del espacio" creada por los equipos analógicos y los hábiles ingenieros de la época.
-El procesamiento de reverberación y el ecualizador de precisión del estudio lograron transparencia y humedad.
+El procesamiento de reverberación y la precisión del ecualizador del estudio lograron tanto "transparencia" como "humedad".
 En particular, "SPACY" (1978) de Tatsuro Yamashita se transmite como una obra monumental que elevó el arte de la grabación de estudio a su límite máximo.
 La perfección de este sonido es una de las razones por las que fue "descubierto" en el extranjero más de 40 años después.
 
@@ -114,7 +114,7 @@ DJs de todas partes llevaron el City Pop a los clubes: Francia, Corea del Sur, L
 Night Tempo, Yung Bae, Macross 82-99 son algunos de los más icónicos.
 Probaron y reinventaron el pop urbano, creando un nuevo género llamado "Future Funk".
 
-Esta música no es sólo nostálgica, sino una fusión del brillo de los 80 y un tempo moderno.
+Esta música no es sólo nostálgica, sino una fusión del brillo de los años 80 y un tempo moderno.
 Para los DJ, el pop urbano es un "tempo cómodo y bailable" de 110 a 115 BPM.
 Tiene una calidad de sonido perfecta como material de muestreo.
 
@@ -143,7 +143,7 @@ Ese linaje incluye no sólo a Suchmos, Lucky Tapes, cero y Nulbarich, sino tambi
 Reconstruyen los acordes y ritmos de los años 80 de una manera moderna y representan las "emociones de vivir en la ciudad" en un nuevo lenguaje.
 
 En el extranjero, artistas como Khruangbin, Men I Trust y Crumb están incorporando conscientemente la "estética japonesa".
-Según datos de Spotify, la escucha de City Pop aumentó particularmente en Estados Unidos, Brasil, Corea del Sur y Francia.
+Según datos de Spotify, la escucha de City Pop aumentó especialmente en Estados Unidos, Brasil, Corea del Sur y Francia.
 En otras palabras, este género ha pasado de ser una "cultura japonesa local" a un "dispositivo posglobal para compartir emociones".
 
 ---

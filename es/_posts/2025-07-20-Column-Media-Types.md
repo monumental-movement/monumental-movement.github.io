@@ -167,7 +167,7 @@ Audición: Casi claro, pero en comparación con un CD puede sentirse un poco com
 
 #### Registros
 
-Situación actual: A nivel mundial, las ventas de discos analógicos se están recuperando constantemente, centrándose en la demanda vintage y la demografía orientada a la calidad del sonido. La regresión analógica es particularmente notable entre los jóvenes.
+Situación actual: a nivel mundial, las ventas de discos analógicos se están recuperando constantemente, centrándose en la demanda vintage y la demografía orientada a la calidad del sonido. La regresión analógica es particularmente notable entre los jóvenes.
 
 Futuro: Se espera un mercado pequeño pero sostenible con el apoyo de los entusiastas de las fuentes de sonido analógicas. También están disponibles productos híbridos (analógicos + digitales).
 

@@ -36,7 +36,7 @@ Acid Jazz se ha hecho popular principalmente en el Reino Unido, reimaginando el 
 
 - **Características del equipo**
 -Akai MPC60/S1000
--Roland TR-808 / TR-909
+-Roland TR-808/TR-909
 - Principalmente tocadiscos y sampler.
 
 <style type="text/css">
@@ -213,7 +213,7 @@ En la era del streaming y la IA, Future Jazz ha sido reevaluado y se ha cruzado 
 | No | Artista | Pista | Comentarios |
 |---|---|---|---|
 | 1 | Niebla Alfa | Sigue adelante | Melancolía del futuro jazz. |
-| 2 | Kamaal Williams | Espera | Una pieza representativa del jazz contemporáneo de Londres. |
+| 2 | Kamaal Williams | Espera | Una canción representativa del jazz contemporáneo de Londres. |
 | 3 | Shabaka Hutchings | Ajetreo | Espiritual y poderoso. |
 | 4 | Nubia García | ritmo | Destaca el saxofón. |
 | 5 | Latidos de laboratorio azul | Piña | Una fusión de hip-hop y jazz. |

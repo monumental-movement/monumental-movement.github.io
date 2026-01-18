@@ -25,7 +25,7 @@ En 1978, apareció un grupo inusual en la ciudad portuaria de Bristol, en el sur
 Su nombre es **El Grupo Pop**.
 Aunque se llamaban a sí mismos pop, su música no era funk, punk o jazz, sino más bien un experimento en el que todos los géneros chocaban explosivamente.
 
-Su sonido evoca el **desempleo, clase, corrupción política y alienación de los jóvenes** que cubrieron Inglaterra en los años 1970.
+Su sonido evoca el **desempleo, la clase social, la corrupción política y la alienación de los jóvenes** que cubrían Inglaterra en los años 1970.
 Fue sublimado como un "grito" del sonido mismo.
 No era sólo música, era "una expresión física antisistema" y "un arte que reúne fragmentos de ideas".
 
@@ -120,14 +120,14 @@ La influencia de The Pop Group está grabada en todos ellos.
 
 ---
 
-## Capítulo 5: Reevaluación y resurgimiento en el siglo XXI
+## Capítulo 5: Reevaluación y renacimiento en el siglo XXI
 
 El grupo pop ha sido durante mucho tiempo una figura de culto.
 Desde la década de 2000, ha sido reevaluado en medio del resurgimiento del post-punk.
 Especialmente desde 2005, después de las **reuniones de Gang of Four y Wire**,
 También reanudaron sus actividades en 2010. En 2015, lanzó su nuevo trabajo "Citizen Zombie".
 
-Si bien la naturaleza violenta del sonido todavía estaba presente, era más político y tenía un mensaje más claro que antes.
+Si bien la naturaleza violenta del sonido todavía estaba presente, era más político y tenía un mensaje más agudo que antes.
 Para ellos, la "reunión" no era una cuestión de nostalgia, sino de "continuación de la resistencia".
 
 > “No dejas de estar enojado porque pasa el tiempo”.
@@ -226,6 +226,6 @@ Esa actitud sigue influyendo en la cultura underground no sólo en Bristol sino 
 
 > “Esto no es entretenimiento, esto es resistencia”.
 
-Sus gritos aún resuenan en el silencio.
+Sus gritos todavía resuenan en el silencio.
 
 ---

@@ -86,7 +86,7 @@ Es sorprendente que hayan creado esta complejidad en un entorno anterior a DAW.
 ### 2.2 “Ven con papá” “Windowlicker” ─ Medios y pesadilla
 
 De 1997 a 1999, Aphex Twin combinó la música con el "horror visual".
-El grupo PV creado en colaboración con Chris Cunningham transformó la inestabilidad del sonido electrónico en la amorfa del vídeo.
+El grupo PV creado en colaboración con Chris Cunningham **convirtió la inestabilidad del sonido electrónico en la amorfa de las imágenes**.
 
 En esa época, MTV lo presentó como el "genio más extraño".
 Ya sentía que su música corría peligro de incorporarse a la cultura popular.

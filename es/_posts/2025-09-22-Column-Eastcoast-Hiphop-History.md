@@ -90,8 +90,8 @@ color: #fff;
 
 ## Década de 2010-presente: diversificación e influencia global
 
-* **Productores representativos**: Metro Boomin (sureño, pero también influenciado por Nueva York), Hit-Boy, Statik Selektah
-* **Principales sellos**: Top Dawg (también vinculado a Nueva York), Griselda Records
+* **Productores representativos**: Metro Boomin (de tendencia sureña, pero también influenciado por Nueva York), Hit-Boy, Statik Selektah
+* **Disqueras principales**: Top Dawg (también vinculado a Nueva York), Griselda Records
 * **Contexto cultural**: Paralelamente a la influencia de Kendrick Lamar, en Nueva York, Griselda (Westside Gunn, Conway, Benny the Butcher) revivió la sensación de los 90. También está aumentando el número de artistas procedentes de Internet.
 * **Video/Moda**: Una fusión de altas marcas y streetwear (Supreme, Off-White, Balenciaga). Los vídeos musicales documentales van en aumento.
 
@@ -119,7 +119,7 @@ color: #fff;
 
 ## Referencias/lecturas adicionales
 
-* [Jeff Chang “No puedo parar, no pararé: una historia de la generación del hip-hop”](https://amzn.to/4gCxTmv)
+* [Jeff Chang “No puedo parar, no pararé: una historia de la generación hip-hop”](https://amzn.to/4gCxTmv)
 * [Tricia Rose “Ruido negro: música rap y cultura negra en la América contemporánea”](https://amzn.to/4gwwIF4)
 * [Dan Charnas “La gran recuperación: la historia del negocio del hip-hop”](https://amzn.to/4802iJj)
 * Artículos de archivo “The Source” “XXL” “Vibe” (seleccionados)
@@ -153,7 +153,7 @@ color: #fff;
 
 ## resumen
 
-El hip-hop de la costa este se originó en las fiestas de barrio del Bronx, logró éxito comercial en los años 80 y alcanzó su edad de oro en los años 90. Se caracteriza por letras que combinan crítica social y realismo callejero, así como ritmos de muestreo detallados, y ha influido en el vídeo, la moda, el cine e incluso la expresión literaria.
+El hip-hop de la costa este se originó en las fiestas de barrio del Bronx, logró éxito comercial en los años 80 y alcanzó su edad de oro en los años 90. Caracterizados por letras que combinan crítica social y realismo callejero, así como ritmos de muestreo precisos, influyeron en el vídeo, la moda, el cine e incluso la expresión literaria.
 Desde la década de 2000, ha habido grandes éxitos como Jay-Z y 50 Cent, y artistas conscientes como Mos Def y Talib Kweli. Desde la década de 2010, Nueva York ha vuelto a llamar la atención con el resurgimiento de Griselda y Nas, y se ha heredado el hip hop duro y lírico típico de la Costa Este.
 
 ---

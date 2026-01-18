@@ -96,7 +96,7 @@ De esta manera, se formó y gradualmente se integró el exclusivo "mercado Eurob
 
 - Distribución de vídeos de coreografías (VHS, posteriormente DVD)
 
-- También están disponibles series como ``Parapara Paradise'' y ``Parapara Kyonen''.
+- También aparecen series como “Parapara Paradise” y “Parapara Kyonen”
 
 ● Producción de medios
 

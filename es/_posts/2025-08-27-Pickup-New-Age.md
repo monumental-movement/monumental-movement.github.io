@@ -20,7 +20,7 @@ title: Recoge obras New Age
 ### Schawkie Roth – Danza del Tao
 <a href="https://jp.mercari.com/item/m91290785378?afid=6142608987"><img src="../assets/images/Schawkie%20Roth%20%E2%80%93%20Dance%20Of%20The%20Tao.webp"></a>
 
-Características: Schawkie Roth es un compositor especializado en música de sanación, meditación, relajación y jazz acústico, y es considerado uno de los pioneros de la música espiritual New Age.
+Características: Schawkie Roth es un compositor especializado en música de curación, meditación, relajación y jazz acústico, y es considerado uno de los pioneros de la música espiritual New Age.
 
 
 Charm: Una fusión de filosofía oriental y música occidental, esta pieza es perfecta para la meditación y la relajación.

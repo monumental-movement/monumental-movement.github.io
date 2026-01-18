@@ -159,7 +159,7 @@ color: #fff;
 - **Equipo:** Akai S3000, Max/MSP, Cubase, Pro Tools.
 
 ### Obra maestra
-- [Oval – *94diskont* (1995)](https://amzn.to/4pIOKbx)
+- [Óvalo – *94diskont* (1995)](https://amzn.to/4pIOKbx)
 - [Aphex Twin – *Obras ambientales seleccionadas Volumen II* (1994)](https://amzn.to/47XIhmE)
 - [Autechre – *Tri Repetae* (1995)](https://amzn.to/4gI0iru)
 
@@ -268,7 +268,7 @@ color: #fff;
 ---
 
 ## El futuro de la música experimental
-La música experimental siempre ha seguido ampliando los límites de la música. Desde los experimentos preparados con piano y cintas en los años 40, pasando por el ruido y lo industrial en los 70, hasta los fallos digitales en los 90 y la música generada por IA en los 2020, está en constante cambio.
+La música experimental siempre ha seguido ampliando los límites de la música. Desde los experimentos preparados con piano y cintas en los años 40, pasando por el ruido y la industria en los 70, hasta los fallos digitales en los 90 y la música generada por IA en los 2020, está en constante cambio.
 
 La esencia de la música experimental es la imprevisibilidad y el espíritu de exploración. Incluso fuera de la música comercial, su influencia impregna el rock, la música de club, la música contemporánea y el pop, lo que la convierte en una fuerza a tener en cuenta.
 

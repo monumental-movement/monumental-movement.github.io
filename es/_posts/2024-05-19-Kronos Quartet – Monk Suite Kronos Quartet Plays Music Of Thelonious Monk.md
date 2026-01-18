@@ -15,7 +15,7 @@ title: Kronos Quartet – Monk Suite Kronos Quartet toca música de Thelonious M
 ---
 
 
-Kronos Quartet es un cuarteto de cuerda formado en Seattle en 1973 por el violinista David Harrington, y tiene su sede en San Francisco desde 1978.
+Kronos Quartet es un cuarteto de cuerda formado en Seattle en 1973 por el violinista David Harrington, y tiene su base en San Francisco desde 1978.
 
 La banda ha estado activa durante 50 años con un elenco rotativo de músicos, siendo la combinación de intérpretes más antigua (1978-1999) Harrington y John Schaba al violín, Hank Dutt a la viola y Joan Jeanrenot al violonchelo.
 

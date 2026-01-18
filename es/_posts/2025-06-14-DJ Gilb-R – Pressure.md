@@ -17,7 +17,7 @@ title: DJ Gilb-R – Presión
 
 DJ Gilb-R es el alias del productor francés de música electrónica Gilbert Cohen.
 
-"Pressure" fue lanzado en 1997 en el propio sello francés de Gilbert Cohen, Versatile Records.
+"Pressure" fue lanzado en 1997 en el sello francés Versatile Records de Gilbert Cohen.
 Lanzamiento de la pista Techno y Drum n Bass.
 
 La cara B es un remix de Laurent Garnier, el DJ mundialmente famoso conocido como Choice.

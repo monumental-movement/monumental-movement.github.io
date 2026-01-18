@@ -19,10 +19,10 @@ title: '[Columna] Salsoul Orchestra y MFSB - Evolución de Filadelfia a la disco
 
 Texto: mmr｜Tema: Sobre la revolución musical que formó la base de la “discoteca”
 
-A principios de la década de 1970, se produjo en Filadelfia, una ciudad de la costa este de Estados Unidos, una revolución musical que más tarde se convirtió en el prototipo de la "disco".
+A principios de la década de 1970, se produjo en Filadelfia, una ciudad de la costa este de Estados Unidos, una revolución musical que más tarde se convirtió en el prototipo de la "discoteca".
 En el centro de esto estaban **MFSB (Madre Padre Hermana Hermano)** y **Salsoul Orchestra**.
 
-Establecieron un nuevo sonido llamado "soul de orquesta" fusionando magníficos arreglos con muchas cuerdas y trompetas, una sección rítmica detallada y un espíritu conmovedor.
+Establecieron un nuevo sonido llamado "soul de orquesta" fusionando magníficos arreglos con muchas cuerdas y vientos, una sección rítmica detallada y un espíritu conmovedor.
 Este linaje se extendió más tarde a la cultura disco de todo el mundo y fue heredado por las culturas de muestreo house, latina e incluso hip-hop.
 
 ---
@@ -161,7 +161,7 @@ Hicieron la transición del soul a la discoteca con un diseño de sonido brillan
 
 La sangre de Filadelfia ciertamente fluye a través de la cultura de club actual: house y new disco.
 Es la belleza paradójica de **cuerdas tocando el ritmo**.
-La belleza arquitectónica creada por las manos de Montana continúa brillando en lo más profundo de la pista de baile.
+La belleza arquitectónica creada por las manos de Montana continúa brillando en lo profundo de la pista de baile.
 
 > “El sonido de Filadelfia nunca muere, simplemente sigue bailando”.
 > ―Vincent Montana Jr.

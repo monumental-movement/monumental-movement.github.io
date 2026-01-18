@@ -68,7 +68,7 @@ Las características más importantes del acid house son los siguientes elemento
 
 - Crea una sensación de éxtasis con preparaciones largas y cambios detallados.
 
-Este sonido tuvo un efecto tremendo como "sonido químico" que adormecía a los bailarines hasta un estado de trance en la oscuridad de un club o con luces estroboscópicas.
+Este sonido tuvo un efecto tremendo como un "sonido químico" que adormecía a los bailarines en un estado de trance en la oscuridad de un club o con luces estroboscópicas.
 
 
 <hora>
@@ -114,7 +114,7 @@ El acid house influyó no sólo en la música, sino también en la cultura visua
 
 - Altamente compatible con la cultura Zine y los periódicos gratuitos de la época.
 
-Esta moda continuó en la cultura rave, el trance, el techno, el breakbeat y otras escenas desde la década de 1990 en adelante.
+Esta moda continuó en la cultura rave, el trance, el techno, el breakbeat y otras escenas a partir de la década de 1990.
 
 
 <hora>
@@ -165,13 +165,13 @@ El acid house continuó evolucionando de diversas maneras en todo el mundo despu
 
 Hoy en día, el acid house está siendo reevaluado en medio de la cultura retro y el resurgimiento de los equipos analógicos. En particular, se destaca de las siguientes maneras:
 
-- Vuelta clásica a festivales y raves.
+- Regreso clásico a festivales y raves.
 
 - Revalorización cultural en fanzines, archivos y exposiciones de arte.
 
 - El ácido estableció popularidad en YouTube y Bandcamp.
 
-- Dispersión explosiva del avión clon TB-303 (reproducción de equipo analógico)
+- Lanzamiento explosivo del avión clon TB-303 (reproducción de equipo analógico)
 
 Más que un simple género musical, el acid house sigue estando en el nexo entre la música electrónica y la contracultura.
 

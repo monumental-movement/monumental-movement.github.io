@@ -22,7 +22,7 @@ Texto: mmr｜Tema: Acerca de “RE/Search”, un archivo histórico de subcultur
 
 
 V. Vale es un editor y editor radicado en San Francisco desde finales de los años 1970. Sus obras Search & Destroy y RE/Search se convirtieron en importantes archivos que registraron sistemáticamente la cultura underground.
-En este artículo, repasamos la historia de RE/Search por año y cubrimos música, películas y eventos artísticos relacionados.
+En este artículo, repasamos la historia de RE/Search por año y cubrimos eventos de música, películas y arte relacionados.
 
 
 ---
@@ -107,7 +107,7 @@ RE/Search es más que una simple publicación; también sirve como archivo de su
 
 ### RE/Buscar anécdotas e historias internas
 
-Hay muchas anécdotas sobre las actividades editoriales de RE/Search. A continuación se enumeran ejemplos representativos.
+Hay muchas anécdotas sobre las actividades editoriales de RE/Search. A continuación se enumeran ejemplos típicos.
 
 - **Nacimiento de Buscar y Destruir**
 Mientras trabajaba en la librería City Lights de San Francisco, Vale fundó Search & Destroy con la ayuda de Lawrence Ferlinghetti y Allen Ginsberg. El objetivo era transmitir la energía de la escena punk.

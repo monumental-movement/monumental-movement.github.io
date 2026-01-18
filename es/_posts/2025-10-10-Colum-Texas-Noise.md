@@ -91,7 +91,7 @@ Reconocida la cultura del ruido de Texas como parte de una red internacional de 
 
 ### Capítulo 4: Ruido tras ruido: Evolución después de la década de 2010
 
-En la década de 2010, el ruido pasó de "expresión acústica extrema" a "pensamiento estructural".
+En la década de 2010, el ruido pasó de ser una "expresión acústica extrema" a un "pensamiento estructural".
 Artistas de Texas están abriendo nuevos caminos al mezclar grabaciones ambientales, electroacústicas, de campo y más.
 
 Como ejemplo típico:
@@ -100,7 +100,7 @@ Como ejemplo típico:
 - Trabajos en cinta de **Rick Reed** (núcleo de la escena sonora electrónica de Austin)
 - **Poética de la memoria y el ruido** usando casetes en bucle de **Amulets (Randall Taylor)**
 
-Estos movimientos ya no consideran el ruido como “música destructiva” sino como **el ruido del tiempo y de la existencia**.
+Estos movimientos ya no consideran el ruido como "música destructiva" sino como **el ruido del tiempo y la existencia**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b0i3He1ZuX0?si=jgmkTZXvvxXgZCTb" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 

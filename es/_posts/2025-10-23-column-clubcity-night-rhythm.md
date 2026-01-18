@@ -55,7 +55,7 @@ A medida que todos se rinden al sonido como nadie, las fronteras de clase, géne
 ## Capítulo 2: De la discoteca a la rave: la democratización de la noche y la política del cuerpo
 
 Las discotecas de la década de 1970 sirvieron como plataforma para la expresión de la comunidad LGBTQ y la cultura negra.
-Studio 54 y Paradise Garage eran "zonas de emancipación sonora" para personas que fueron empujadas a los márgenes de la sociedad, pero también eran espacios políticos.
+Studio 54 y Paradise Garage eran "zonas sólidas de emancipación" para personas marginadas de la sociedad y, al mismo tiempo, espacios políticos.
 
 A finales de los años 80, la cultura rave surgió con el acid house y huyó fuera de la ciudad.
 Almacenes, campos, fábricas abandonadas: bailar en espacios incontrolados también era una forma de resistencia al control del tiempo por parte del Estado y el capital.

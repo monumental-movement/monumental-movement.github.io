@@ -50,7 +50,7 @@ B2. Fade
 <a href="https://jp.mercari.com/item/m23829394850?afid=6142608987"><img src="../assets/images/Model%20500%20%E2%80%93%20Deep%20Space.webp"></a>
 
 
-Características: Canciones como "Milky Way", "Orbit" y "The Flow" se caracterizan por un trabajo de sintetizador flotante que se siente como viajar a través del espacio profundo y ritmos espaciales y duros.
+Características: Canciones como "Milky Way", "Orbit" y "The Flow" se caracterizan por un trabajo de sintetizador flotante que se siente como viajar a través del espacio profundo y ritmos duros y espaciales.
 
 Puntos recomendados: Una obra maestra que condensa el sonido fresco y futurista del techno de Detroit. Colóquelo al comienzo de una sesión de DJ para crear una atmósfera cósmica en la pista.
 
@@ -110,7 +110,7 @@ T2. The Flow M38 (Alex Reece Mix)
 <a href="https://jp.mercari.com/item/m22835584429?afid=6142608987"><img src="../assets/images/Carl%20Craig%20%E2%80%93%20Landcruising.webp"></a>
 
 
-Características: Imagen sonora espectacular que combina ambient, breakbeat, jazz del futuro, etc. con una base minimalista.
+Características: Imagen sonora espectacular que combina ambient, breakbeat, jazz del futuro, etc. basado en el minimalismo.
 
 Puntos recomendados: Un álbum con profundidad y sofisticación que lleva al oyente a un viaje emocional. Este es un trabajo que tanto los DJ como los oyentes querrán escuchar con atención.
 
@@ -308,7 +308,7 @@ B. Circus (The Big Finale Mix)
 
 Características: Tema lanzado bajo el nombre “M” por Axis en 1992. Una canción que representa el minimal temprano de Detroit.
 
-Puntos recomendados: Un disco imprescindible para los coleccionistas que puedan experimentar la sensación underground de principios de los 90, con un sonido áspero pero potente.
+Puntos recomendados: Un disco imprescindible para los coleccionistas que puedan experimentar la sensación underground de principios de los 90, con una sensación áspera pero resistente.
 
 
 #### Lista de canciones

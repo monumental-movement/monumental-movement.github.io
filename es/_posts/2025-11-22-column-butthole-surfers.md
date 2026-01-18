@@ -59,7 +59,7 @@ Aunque los miembros cambian con el tiempo, los miembros principales iniciales so
 * **King Coffey** — Batería
 * **Teresa Taylor** — Batería (configuración de tambor doble)
 
-Gibby Haynes y Paul Leary, en particular, encontraron la armonía a pesar de tener orientaciones musicales diferentes y comenzaron una actividad que parecía un grupo de arte.
+Gibby Haynes y Paul Leary, en particular, encontraron la armonía a pesar de tener orientaciones musicales diferentes y comenzaron actividades que parecían un grupo de arte.
 
 ---
 
@@ -72,7 +72,7 @@ El primer sonido de la banda mezcla la rapidez del punk/hardcore tardío con la 
 ### **El Shah duerme en la tumba de Lee Harvey**
 
 * La guitarra utiliza principalmente retroalimentación grabada directamente.
-* El saxofón suena irregularmente, destruyendo la melodía.
+* El saxofón suena irregularmente y destruye la melodía.
 * Las letras son fragmentarias y orientadas a la interpretación.
 
 ### **Señora Sniff**
@@ -87,7 +87,7 @@ flowchart TD
     A["Grabación directa de guitarra"] --> B["Procesamiento de distorsión"]
     B --> C["Grabación improvisada de saxo"]
     C --> D["Grabación de la toma 1 de compás impar de batería"]
-    D --> E["Mezcla completa (Lo-Fi)"]
+    D --> E["Mezcla general (Lo-Fi)"]
 
 ---
 
@@ -203,7 +203,7 @@ flowchart TD
     A["Grabación directa de guitarra"] --> B["Procesamiento de distorsión"]
     B --> C["Grabación improvisada de saxo"]
     C --> D["Grabación de la toma 1 de compás impar de batería"]
-    D --> E["Mezcla completa (Lo-Fi)"]
+    D --> E["Mezcla general (Lo-Fi)"]
 
 ---
 
@@ -414,7 +414,7 @@ flowchart TD
     C --> D["1987-1989: expansión a Europa y período psicodélico"]
     D --> E["1993: transición al período principal"]
     E --> F["1996: período de Electriclarryland"]
-    F --> G["2001: Introducción de los sonidos electrónicos"]
+    F --> G["2001: Introducción del sonido electrónico"]
     G --> H["Después: Continuación de las actividades irregulares"]
 
 ---

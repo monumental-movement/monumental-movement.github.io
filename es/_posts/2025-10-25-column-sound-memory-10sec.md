@@ -22,7 +22,7 @@ Texto: mmr｜Tema: Fragmentos de “10 segundos” que siguen sonando en mi memo
 Cuando miras hacia atrás en tu vida, hay momentos en los que sólo unos segundos de sonido cambiaron tus pensamientos, acciones y el resto de tu vida.
 Podría ser la introducción de una canción, algún ruido de la radio, un riff que escuchaste en un club o una melodía que alguien tarareó en una esquina por la noche.
 
-En esta columna, utilizaré mi propia experiencia con "10 segundos de sonido" como punto de partida para explorar cómo el sonido está conectado con los recuerdos, da forma a la cultura e influye en nuestra "forma de vida".
+En esta columna, utilizaré mi propia experiencia con "10 segundos de sonido" como punto de partida para explorar cómo el sonido está conectado con los recuerdos, da forma a la cultura e influye en la forma en que vivimos.
 
 ---
 
@@ -92,7 +92,7 @@ Por ejemplo, la fanfarria olímpica, la introducción de una película de Star W
 Estos sonidos sutiles evocan respuestas emocionales comunes a través de generaciones y fronteras.
 
 No es coincidencia que TikTok y YouTube Shorts se hayan centrado en bucles de sonido de 10 a 15 segundos desde la década de 2000.
-El algoritmo selecciona el "sonido que estimula las emociones más rápidamente", lo que se ha convertido en un reflejo condicionado cultural.
+El algoritmo selecciona el sonido que estimula las emociones más rápidamente y se ha convertido en un reflejo culturalmente condicionado.
 
 ---
 
@@ -105,7 +105,7 @@ Cada momento recalibra la respiración y la energía del suelo.
 
 Para utilizar la "teoría del flujo" propuesta por el psicólogo Mihaly Csikszentmihalyi,
 Esta inmersión sónica de 10 segundos es de lo que se trata la meditación moderna.
-Mientras la gente baila, se disuelven en las ondas de sonido.
+Mientras la gente baila, se disuelve en las ondas de sonido.
 
 ---
 
@@ -127,7 +127,7 @@ El olor a lluvia, la luz de la habitación, el ritmo de los latidos de tu coraz�
 Por lo tanto, incluso si pasa el tiempo, simplemente escuchar el sonido trae de vuelta "la experiencia completa" del pasado.
 
 La música es un "medio que trasciende el tiempo".
-Y ese poder se activa no en 10 minutos o 10 horas, sino en apenas 10 segundos.
+Y ese poder se activa no en 10 minutos o 10 horas, sino en sólo 10 segundos.
 
 ---
 

@@ -13,7 +13,7 @@ title: '[Columna] Detroit Techno: Danza humana nacida del latido de las máquina
 ---
 
 
-## “El sonido del futuro nacido de una ciudad devastada”
+## "El sonido del futuro nacido de una ciudad devastada"
 
 Texto: mmr | Tema: Detroit Techno es un producto cultural que combina historia urbana, tecnología y creatividad afroamericana.
 
@@ -29,7 +29,7 @@ Liderados por Juan Atkins, Derrick May y Kevin Saunderson (no el llamado "trío 
 
 El lanzamiento de la compilación de 1988 "Techno! The New Dance Sound of Detroit" (https://amzn.to/4q9NMVF) jugó un papel decisivo en la difusión del nombre del género.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SYSagw7v4dU?si=9qLNd3HRNE_AfOPc" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SYSagw7v4dU?si=9qLNd3HRNE_AfOPc" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 <hora>
 
@@ -80,7 +80,7 @@ La línea entre DJ y productor se volvió borrosa, y las canciones se refinaron 
 
 Kevin desarrolló un enfoque del techno de club orientado al pop, y "Big Fun" y "Good Life" (1988) de Inner City se convirtieron en éxitos mundiales e historias de éxito comercial para la música de Detroit.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Gr-zG-IXDyo?si=4WxnonAAN-XCcRet" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gr-zG-IXDyo?si=4WxnonAAN-XCcRet" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
@@ -125,7 +125,7 @@ El techno de Detroit se combinó con la cultura rave y de clubes de Berlín en l
 
 ### Techno moderno de Detroit: herencia y reinterpretación
 
-Incluso en el siglo XXI, se sigue hablando de Detroit como el "lugar sagrado" del techno. Mientras los artistas de antaño continúan tocando en el campo, una generación más joven está remezclando y reinterpretando el espíritu de los clásicos, haciéndolo sonar en nuevos clubes y festivales. También existe un movimiento en el que la música se vincula a las cuestiones sociales urbanas y al contexto de recuperación, y la música se utiliza como medio de revitalización comunitaria.
+Incluso en el siglo XXI, se sigue hablando de Detroit como el "lugar sagrado" del techno. Mientras los artistas de antaño continúan tocando en el campo, una generación más joven está remezclando y reinterpretando el espíritu de los clásicos, haciéndolo sonar en nuevos clubes y festivales. También existe un movimiento donde la música se vincula a las cuestiones sociales urbanas y el contexto de recuperación, y la música se utiliza como un medio de revitalización comunitaria.
 
 <hora>
 
@@ -158,13 +158,13 @@ Las siguientes son las canciones "centrales" para comprender el techno de Detroi
 
 ### De Detroit al mundo - La eterna poesía de la electrónica
 
-El techno de Detroit es más que sólo música de baile; es un producto cultural que combina la historia, la tecnología y la creatividad afroamericana de la ciudad. Más bien, la repetición de ritmos mecánicos evoca emociones humanas y comunitarias: este es el "cálido sonido mecánico" de Detroit. Escuchando canciones famosas del pasado y experimentando el espíritu del lugar (DJ set o festival), podrás apreciar aún más la profundidad de esta música.
+El techno de Detroit es más que sólo música de baile; es un producto cultural que combina la historia, la tecnología y la creatividad afroamericana de la ciudad. Más bien, la repetición de ritmos mecánicos evoca emociones humanas y comunitarias: este es el "cálido sonido mecánico" de Detroit. Al escuchar canciones famosas del pasado y experimentar el espíritu del lugar (DJ set o festival), podrás apreciar aún más la profundidad de esta música.
 
 ---
 
 ### Columnas relacionadas
 
-🔗 [[Columna] Desde los orígenes del techno hasta el presente: una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[Columna] Desde los orígenes del techno hasta la actualidad - Una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)
 
 🔗 [[Columna] Tresor - El lugar sagrado del techno que cambió el mundo desde el underground en Berlín](https://monumental-movement.jp/Column-Tresor)
 

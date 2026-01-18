@@ -96,7 +96,7 @@ Una fusión de sutiles sonidos electrónicos y sensación analógica. La delicad
 ## Ⅳ. Dispositivos de sonido extraños europeos.
 
 ### Stylophone y Optigan
-El British Stylophone es un sintetizador de escritorio conocido por los anuncios de televisión de los años 70. Cuando recorre los contactos metálicos con las yemas de los dedos, suena un pitido distintivo. Su facilidad y sensación ruidosa se incorporaron al tecno-pop temprano y a la música de vanguardia.
+El Stylophone británico es un sintetizador de escritorio conocido por los anuncios de televisión de los años 70. Cuando recorre los contactos metálicos con las yemas de los dedos, suena un pitido distintivo. Su facilidad y sensación ruidosa se incorporaron al tecno-pop temprano y a la música de vanguardia.
 El Optigan es un órgano de juguete que reproduce sonidos mediante discos ópticos y se caracteriza por patrones y ritmos impredecibles.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EL8PH9Fx0hw?si=aRc6EJ8WPVcaAXI9" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
@@ -143,7 +143,7 @@ Una pieza experimental de ruido que aprovecha al máximo equipos electrónicos m
 
 ## Ⅵ. La edad de oro de los juguetes electrónicos en Japón
 
-En las décadas de 1970 y 1980, los sintetizadores portátiles y los juguetes musicales electrónicos se hicieron populares en los hogares japoneses.
+En las décadas de 1970 y 1980, los sintetizadores portátiles y los instrumentos musicales electrónicos se hicieron populares en los hogares japoneses.
 
 - Serie Yamaha Portasound
 - CASIO VL-TONE
@@ -202,13 +202,13 @@ Los sonidos de baja resolución y los ruidos accidentales se convierten en herra
 ## Ⅸ. Música de juguete del futuro
 
 Los juguetes musicales, como los juguetes con inteligencia artificial, los instrumentos táctiles y los juguetes sociales, continúan evolucionando como campo de pruebas para nuevas interfaces.
-El concepto de "juego" vuelve una vez más al centro de la creación musical y desempeña un papel cultural importante en el futuro del sonido electrónico.
+El concepto de "juego" vuelve una vez más al centro de la creación musical y desempeña un importante papel cultural en el futuro del sonido electrónico.
 
 ---
 
 ## Apéndice
 
-### Historia evolutiva de los juguetes musicales extraños en todo el mundo (cronología simple)
+### Historia de la evolución de Strange Musical Toys en todo el mundo (cronología simple)
 
 <div class="mermaid">
 

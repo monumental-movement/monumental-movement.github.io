@@ -23,7 +23,7 @@ Texto: mmr | Tema: ``Revolución musical a través de la edición'' construida p
 
 A finales de la década de 1960, la música de Miles Davis ya no era una extensión de sus actuaciones en vivo, sino que se transformaba en una "arquitectura sonora" construida a través de la grabación y la edición. Detrás del cambio está el productor y editor **Teo Macero**.
 
-Masero no era sólo una persona "detrás de escena". En sus manos, se cortaron, pegaron y reensamblaron una gran cantidad de cintas de sesiones, dando como resultado un conjunto de obras que pueden denominarse "composición mediante edición".
+Masero no era sólo una persona "detrás de escena". En sus manos, se cortó, pegó y volvió a ensamblar una gran cantidad de cintas de sesiones, dando como resultado un cuerpo de trabajo que podría llamarse "composición mediante edición".
 "In a Silent Way" (1969) y "Bitches Brew" (1970) son excelentes ejemplos. Hay una **revolución en la estética de la edición** que va más allá de los límites entre "actuación" y "composición".
 
 ---
@@ -50,7 +50,7 @@ Al igual que Stockhausen y Varèse, Macero desarrolló una temprana conciencia d
 A finales de la década de 1950, se convirtió en productor de Columbia Records, trabajando con artistas como Miles Davis y Dave Brubeck.
 Sin embargo, lo que lo diferenciaba de otros productores era que entendía la edición misma como un lugar de creación.
 
-> "Incluso después de que termina la actuación, la música no termina. Comienza de nuevo en la sala de edición".
+> "Incluso después de que termina la actuación, la música no termina. Comienza de nuevo en la sala de edición."
 >—Teo Macero
 
 ---
@@ -418,7 +418,7 @@ Se puede decir que precedió al "método de composición de estudio" defendido m
 
 | Elementos | Técnica | Intención Acústica |
 | ---------- | ------------------------ | ------------------------ |
-| Espacio estéreo | Localización (colocación del tambor a izquierda y derecha) que es imposible en una interpretación real | Ampliación del sentido visual del espacio |
+| Espacio estéreo | Localización (colocación del tambor a izquierda y derecha) que es imposible en una interpretación real | Ampliación del sentido visual espacial |
 | Repetición de cinta | Vuelva a insertar la misma frase (estructura recursiva) | Efecto de la hipnosis auditiva |
 | Operación de ecualizador/reverberación | Unificación de textura entre múltiples tomas | Pseudogeneración de continuidad espacio-temporal |
 | “Costuras” de reverberación fragmentada | Deliberadamente dejado atrás | Convertir las huellas de la edición en música (convertir las costuras sonoras en “estructura”) |

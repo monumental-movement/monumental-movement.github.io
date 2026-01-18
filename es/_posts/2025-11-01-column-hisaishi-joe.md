@@ -17,13 +17,13 @@ title: '[Columna] Joe Hisaishi y Studio Ghibli: 40 años de historias tejidas co
 ## Prólogo: Cuando la música mueve la historia
 
 
-Texto: mmr | Tema: Una larga columna que repasa la historia de la colaboración entre Joe Hisaishi y Studio Ghibli, basada en hechos. Un viaje musical de 40 años, desde el origen del nombre hasta la banda sonora principal.
+Texto: mmr | Tema: Una larga columna que repasa la historia de la colaboración entre Joe Hisaishi y Studio Ghibli, basada en hechos. Recorriendo 40 años de historia musical, desde el origen del nombre hasta la banda sonora principal
 
 
 En la historia del cine japonés, la existencia del compositor Joe Hisaishi (nombre en inglés: Joe Hisaishi) es única.
 Su música no es sólo un "acompañamiento de películas", sino que ha funcionado como un componente importante que forma el mundo de la obra misma.
 
-Desde Nausicaa del Valle del Viento de 1984, el universo musical creado en colaboración con el director Hayao Miyazaki ha trascendido el contexto de las películas animadas y ha recibido elogios internacionales.
+Desde Nausicaa del Valle del Viento de 1984, el universo musical creado en colaboración con el director Hayao Miyazaki ha ido más allá del contexto de las películas de animación y ha recibido reconocimiento internacional.
 Esta columna rastrea cuidadosamente la relación entre la historia musical de Joe Hisaishi y las obras de Studio Ghibli, basándose en hechos.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/faf98cNY8A8?si=ZJ3kmZ7G6yoA6-3m" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
@@ -159,7 +159,7 @@ A lo largo de estas obras, la música de Hisaishi se convierte en un elemento qu
 
 ## Capítulo 11: “¿Cómo vives?” (2023) - Abstracción sonora y nuevos retos
 
-Cómo vives, que se estrenará en 2023, es el primer largometraje del director Hayao Miyazaki en 10 años.
+¿Cómo vives?, que se estrenará en 2023, es el primer largometraje del director Hayao Miyazaki en 10 años.
 Joe Hisaishi volvió a estar a cargo de la música.
 
 Este trabajo utiliza una estructura sonora abstracta, enfatizando la resonancia y la textura más que la melodía.

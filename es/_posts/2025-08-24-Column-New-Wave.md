@@ -23,7 +23,7 @@ Texto: mmr｜Tema: Movimiento artístico de la era post-punk
 
 ### Del post-punk a la nueva ola
 
-El movimiento punk de 1976 sacudió la escena musical con su carácter directo de ser "simple, rápido y antisistema". Sin embargo, su poder explosivo duró poco y, a medida que el punk se comercializó cada vez más, muchos artistas buscaron expansión musical manteniendo al mismo tiempo el "espíritu punk".
+El movimiento punk de 1976 sacudió la escena musical con su franqueza de ser "simple, rápido y antisistema". Sin embargo, su poder explosivo duró poco y, a medida que el punk se comercializó cada vez más, muchos artistas buscaron expansión musical manteniendo al mismo tiempo el "espíritu punk".
 
 El término general que nació de este experimento fue "Nueva Ola". Desde una perspectiva académica, la nueva ola es un concepto que abarca una variedad de desarrollos musicales desde el post-punk, y más que un nombre estricto de género, es una etiqueta cultural que se refiere a la conciencia y sensibilidad de la época.
 

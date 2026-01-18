@@ -60,7 +60,7 @@ Al mismo tiempo, en Alemania Occidental estaba ganando impulso un movimiento par
 
 Tangerine Dream se formó en 1967 y sus primeros trabajos combinaban formaciones rocosas con improvisación de vanguardia. A principios de la década de 1970, comenzó a componer utilizando sintetizadores y secuenciadores.
 
-Lo que lo distingue es su estructura, que superpone cambios tonales y melodías improvisadas sobre un patrón de secuencia repetitivo. Este método creó una estructura de larga duración que musicaliza el propio flujo del tiempo, lo que difiere de los formatos de canciones tradicionales.
+Lo que lo distingue es su estructura, que superpone cambios tonales y melodías improvisadas sobre un patrón de secuencia repetitivo. Este método creó una estructura de formato largo que musicaliza el flujo del tiempo mismo, lo que difiere de los formatos de canciones tradicionales.
 
 ### Klaus Schulze
 
@@ -84,7 +84,7 @@ El elemento más distintivo de la Escuela de Berlín es el patrón de sonido rep
 
 Mientras que la música pop y rock tradicional se basa en estructuras de canciones que duran varios minutos, no es raro que una sola canción en la música de la Escuela de Berlín dure más de 20 minutos. Esta es una forma posible gracias al desarrollo de la interpretación de improvisación y la tecnología de grabación.
 
-### Diseño de tono
+### Diseño de sonido
 
 La inestabilidad y fluctuación de los sintetizadores analógicos se convirtieron en parte de la estética sonora de la Escuela de Berlín. Las pequeñas desviaciones causadas por cambios de temperatura y fluctuaciones de voltaje dan un aspecto orgánico a la repetición mecánica.
 
@@ -168,7 +168,7 @@ Para comprender con precisión la Escuela de Berlín es necesario organizar cron
 
 ### Antes de Kraftwerk
 
-Antes de Kraftwerk, la Escuela de Berlín hacía hincapié en la improvisación y las formas largas. El ritmo es fluido y la pieza se percibe como una transición más que como una progresión. En esta etapa, la música electrónica era una forma de escapar del rock y de la música electrónica académica.
+Antes de Kraftwerk, la Escuela de Berlín hacía hincapié en la improvisación y las formas largas. El ritmo es fluido y la pieza se percibe como una transición más que como una progresión. En esta etapa, la música electrónica era una forma de escapar del rock y también una liberación de la música electrónica académica.
 
 ### Después de Kraftwerk
 
@@ -178,22 +178,12 @@ Esta divergencia, como diferenciación entre techno/synthpop y ambient/dron, dio
 
 ---
 
-## Capítulo 11 Reorientación crítica (perspectiva de registros de movimiento monumental)
-
-Este capítulo redefine la escuela de Berlín no como un juicio de valor sino como una cuestión de ubicación.
-
-La Escuela de Berlín es una tendencia que transformó la música electrónica de "canción" a "movimiento". Su importancia radica en la sostenibilidad, no en la innovación. Esta actitud de no cortar, superponer y transformar el tiempo está directamente relacionada con la música electrónica experimental contemporánea.
-
-Desde la perspectiva de Monumental Movement Records, la Escuela de Berlín no es un estilo del pasado. Es un prototipo de pensamiento que trata la música como un gigantesco cuerpo en movimiento y es una metodología en curso.
-
----
-
 ## Cronología
 
 * Década de 1950 Establecimiento de un estudio académico de música electrónica.
 * Década de 1960: Popularización de los sintetizadores modulares.
 * 1967 Se forma Tangerine Dream
-* Principios de los años 1970: Establecimiento del método de composición de la Escuela de Berlín
+* Principios de los años 1970: Establecimiento del método de composición de la Escuela de Berlín.
 * Finales de los años 1970: Desarrollo en el campo de la música de cine.
 * Década de 1980, rama de la música electrónica después de Kraftwerk.
 * Desde la década de 2000: reevaluación modular y resurgimiento de la cultura de la improvisación.

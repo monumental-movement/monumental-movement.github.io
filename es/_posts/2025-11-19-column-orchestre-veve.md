@@ -73,7 +73,7 @@ A finales de la década de 1960, Veve siguió inicialmente el estilo tradicional
 - **Mezcla que pone el saxofón a la vanguardia**
 - **Uso de armonía de tres tonos para voces masculinas**
 
-En particular, las primeras grabaciones como "Nakomitunaka" y "Mfumbwa" han sido elogiadas por sus melodías fuertes y lineales y características de baile mejoradas, en lugar de la tradicional guitarra solista serpenteante. Además, las obras de este período introdujeron el patrón rítmico "colgante" único del sonido Veve, que se convirtió en el precursor de la rápida evolución posterior del soukousu.
+En particular, las primeras grabaciones como "Nakomitunaka" y "Mfumbwa" han sido elogiadas por sus melodías fuertes y lineales y características de baile mejoradas, en lugar de la tradicional guitarra solista serpenteante. Además, las obras de este período introdujeron el patrón rítmico "colgante" único del sonido Veve, que se convirtió en el precursor de la rápida evolución del soukousu posterior.
 
 ---
 
@@ -102,7 +102,7 @@ Estas canciones muestran el núcleo de la música de baile de Veve, al mismo tie
 
 ## Papel de la guitarra solista
 
-La guitarra principal de Veve se caracterizaba por una melodía de "muesca" más aguda que la de otras bandas de la época. Especialmente notable en grabaciones de los años 1970.
+La guitarra solista de Veve se caracterizaba por una melodía de "muesca" más aguda que la de otras bandas de la época. Especialmente notable en grabaciones de los años 1970.
 
 - Subida líder cromática.
 - trémolo rápido
@@ -133,7 +133,7 @@ La sección rítmica de Veve tiene un rebote distintivo. El charles no talla fue
 - **Bajo: Repetir línea descendente → línea ascendente cada 4 compases**
 - **Mezcla: voces en el centro, guitarras separadas a izquierda y derecha**
 
-### Características del ritmo.
+### Características del ritmo
 
 <div class="mermaid">
 
@@ -153,8 +153,8 @@ graph TD
 
 ### Análisis técnico
 
-* **El saxofón presenta la melodía al principio → la guitarra imita**
-* **Las voces son “preguntas” y los estribillos son “respuestas”**
+* **Saxofón presenta melodía al inicio → Guitarra imita**
+* **Las voces son “preguntas” y los coros son “respuestas”**
 * **Solo de guitarra lineal y agudo**
 
 ### Estructura de llamada y respuesta
@@ -177,7 +177,7 @@ sequenceDiagram
 
 ## Canción C: Nitarudia — Víspera de soukous orientada a la danza
 
-En esta canción aparece una guitarra más rápida y segmentada como precursora del estilo soukousu. Se dice que es el sonido más futurista de las obras de Veve.
+En esta canción, aparece una guitarra más rápida y fragmentada como precursora de que la canción se convierta en sokusu. Se dice que es el sonido más futurista de las obras de Veve.
 
 ### Análisis técnico
 
@@ -202,10 +202,10 @@ flowchart LR
 # Capítulo 7 Tecnología de grabación, entorno de estudio, sistema de producción.
 
 El entorno de grabación de Veve era uno de los más avanzados de África en ese momento.
-Tenía su propio estudio y siempre estuvieron presentes múltiples ingenieros de grabación, y tenía las siguientes características técnicas.
+Tenía su propio estudio, contaba con varios ingenieros de grabación en plantilla y contaba con las siguientes características técnicas:
 
 - **Aproveche rápidamente el período de transición de grabación de 2 a 4 pistas a grabación de 4 a 8 pistas**
-- **Método estéreo para mover la guitarra hacia la izquierda y hacia la derecha**
+- **Método estéreo para balancear la guitarra hacia la izquierda y hacia la derecha**
 - **Mezcla que pone el saxofón en primer plano**
 - **Un enfoque pionero que graba múltiples tomas del coro y las combina en la edición**
 
@@ -232,14 +232,14 @@ También estaba muy extendido en la diáspora congoleña (Francia, Bélgica y el
 
 ## Diferencia con Zaïko Langa Langa
 
-* **Zaïko: ligero, rápido, con mucha percusión, seben largo**
+* **Zaïko: ligero, rápido, con mucha percusión, largo seben**
 * **Veve: suave, estilo rumba, centro de gravedad de saxofón, polifonía de coro**
 
 Aunque ambos son de la misma época, sus rumbos son muy diferentes.
 
 ## Distancia musical con OK Jazz
 
-El propio Veran es de OK Jazz, por lo que tienen el mismo sentido de armonía y profundidad de procesamiento melódico, pero
+Como el propio Veran es de OK Jazz, tienen el mismo sentido de armonía y profundidad de procesamiento melódico, pero
 Veve es más moderno y bailable en comparación con OK Jazz.
 
 ## Puntos en común con Afrisa International
@@ -299,7 +299,7 @@ El legado musical de Veve es
 * **Subdivisión del conjunto de guitarras**
 Ha tenido una profunda influencia en la música congoleña contemporánea.
 
-Además, el modelo de producción musical basado en sistemas, que creó una infraestructura de grabación y nutrió dinámicamente a los jóvenes intérpretes, sirvió como guía importante para la gestión posterior del sello.
+Además, el modelo de producción musical basado en sistemas, que creó una infraestructura de grabación y nutrió de manera fluida a los jóvenes intérpretes, sirvió como guía importante para la gestión posterior del sello.
 
 ---
 

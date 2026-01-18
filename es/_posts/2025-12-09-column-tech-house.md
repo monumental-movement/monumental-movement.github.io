@@ -56,7 +56,7 @@ El Tech House a menudo se confunde con "un subgénero del techno" o "un subgéne
 
 ---
 
-## 2. Década de 1980 a 1990: antecedentes del establecimiento
+## 2. Década de 1980-1990: antecedentes del establecimiento
 
 Se dice que los orígenes de Tech House son la cultura de clubes de principios de la década de 1990 en Gran Bretaña, particularmente en Londres.
 En ese momento, Acid House y Rave eran populares en Gran Bretaña, y se mezclaron una variedad de estilos como Hard House, Progressive House, Techno y Tribal House.
@@ -66,9 +66,9 @@ En particular, las siguientes tendencias fueron la premisa para la creación de 
 * Minimalismo del Techno del Reino Unido (Surgeon, Regis, Dave Clarke, etc.)
 * Una versión británica del ritmo del House estadounidense (Chicago/NY)
 * Mezcla de Casa Tribal, Garaje y Casa Progresiva
-* Estilos de DJ de varios géneros de Pirate Radio y la escena de clubes de Londres (The End, etc.)
+* Estilos de DJ que cruzan géneros de Pirate Radio y la escena de clubes de Londres (The End, etc.)
 
-Las personas que se reunieron en el club no solo buscaban techno o house, sino que disfrutaban de largas sesiones de DJ que mezclaban elementos de ambos. A través de este proceso, desarrolló un sentido de mezcla que combina naturalmente la "dureza del techno" y la "calidez del house".
+La gente que acudió en masa al club no solo buscaba techno o house, sino que disfrutaban de actuaciones de DJ de larga duración que mezclaban elementos de ambos. A través de este proceso, desarrolló un sentido de mezcla que combina naturalmente la "dureza del techno" y la "calidez del house".
 
 ---
 
@@ -153,7 +153,7 @@ flowchart TD
 
 ## 6. Cambios en el sonido.
 
-Hacia finales de la década de 2000, Tech House experimentó los siguientes cambios.
+Hacia finales de la década de 2000, Tech House sufrió los siguientes cambios.
 
 * **Arreglo de ritmo más detallado**
 * **Aumento de subbase** (aumento de influencia de Alemania y Sudamérica)
@@ -165,7 +165,7 @@ En esta época, el Tech House se caracterizaba por ser “más suave que el mini
 
 ---
 
-## 7. Década de 2010: integración
+## 7. Década de 2010: Integración
 
 En la década de 2010, Tech House se convirtió en uno de los 4/4 más reproducidos en clubes y festivales de todo el mundo. El aumento de la demanda fue especialmente grande en Ibiza.
 
@@ -214,7 +214,7 @@ El Tech House se interpreta y cultiva de forma diferente en cada país. A contin
 
 ### ■ 3. América
 
-* Tech House funky y humorístico en la costa oeste (representado por Dirtybird)
+* Tech House divertido y divertido en la costa oeste (representado por Dirtybird)
 * La costa este tiene fuertes conexiones con NY/Chicago House
 
 ### ■ 4. América del Sur
@@ -252,7 +252,7 @@ Aunque Tech House no está sujeta a ningún equipo específico, en general se ob
 * Afina el rango medio con EQ
 * Desarrollo gradual en unidades de 16-24 bar.
 
-La filosofía de producción enfatiza la "estética de la resta" y "el diseño de espacios en blanco que funcionen en el espacio de un club".
+La filosofía de producción enfatiza la "estética de la resta" y "el diseño de espacios en blanco que funcionan en el espacio de un club".
 
 ---
 
@@ -300,7 +300,7 @@ flowchart TD
 
 ## 14. Resumen
 
-Tech House es música de club que combina la calidez del house con la estructura mínima del techno. Creció principalmente en la escena de clubes británica en la década de 1990 y, desde la década de 2000, se ha extendido por todo el mundo, cruzándose estrechamente con Alemania y Estados Unidos.
+Tech House es música de club que combina la calidez del house con la estructura minimalista del techno. Creció principalmente en la escena de clubes británica en la década de 1990 y, desde la década de 2000, se ha extendido por todo el mundo, cruzándose estrechamente con Alemania y Estados Unidos.
 
 Hoy en día, el Tech House ha evolucionado hasta convertirse en música que se reproduce en una amplia gama de contextos, desde el underground hasta el escenario principal, y se ha convertido en una parte esencial de la cultura de los DJ.
 

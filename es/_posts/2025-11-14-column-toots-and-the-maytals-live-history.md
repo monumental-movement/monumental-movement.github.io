@@ -186,7 +186,7 @@ A través de presentaciones en vivo en Europa y América, el reggae se extendió
 | ---- | -------------------- | ---------------------------- | --------------- |
 | 1962 | Formación | Kingston “Chocomo Lounge” primer show en vivo | Modelo de llamada y respuesta |
 | 1966 | Lanzamiento de “Do the Reggay” | Público bailando en círculo | Nacimiento de la palabra “Reggae” |
-| 1968 | Aparición en fiesta nacional | Varios miles de personas | Visualizando la evolución de los géneros musicales |
+| 1968 | Aparición en la Fiesta Nacional | Miles de personas | Visualizando la evolución de los géneros musicales |
 | 1970 | Primera gira europea | “Club de Carnaval” de Londres | Pionero de difusión mundial |
 | 1972 | Vivir en Londres | Introducción de PA y guía de danza de improvisación | Establecimiento de música en vivo con énfasis en el sonido |
 | 1975 | Lanzamiento de "Funky Kingston" | Gira por Nueva York, participación del público | Penetración del mercado estadounidense |
@@ -214,6 +214,6 @@ D -->|象徴的・歴史的| E[文化継承・追悼ライブ]
 
 ## 8. Resumen
 
-Los espectáculos en vivo de Toots and the Maytals fueron la encarnación del desarrollo del género musical, la construcción de comunidades y el intercambio cultural internacional. La interactividad con el público, la improvisación y la continuidad histórica a través de presentaciones en vivo son las razones por las que su música se ha transmitido a través de los siglos. Las presentaciones en vivo no son sólo presentaciones musicales, sino rituales culturales que encarnan el reggae en sí.
+Los espectáculos en vivo de Toots and the Maytals fueron la encarnación del desarrollo del género musical, la construcción de comunidades y el intercambio cultural internacional. La interactividad con el público, la improvisación y la continuidad histórica a través de presentaciones en vivo son las razones por las que su música se ha transmitido a través de los siglos. Las presentaciones en vivo no son sólo actuaciones musicales, sino rituales culturales que encarnan el reggae en sí.
 
 ---

@@ -96,7 +96,7 @@ color: #fff;
 ## Música islámica: una llamada melódica a la oración
 
 * **Formas principales**: Adhan, música sufí (Qawwali)
-* **Característica**: Purificación mental mediante el canto.
+* **Características**: Purificación mental mediante el canto.
 * **Efecto psicológico**:
 
 * El ritmo de la respiración y la melodía se sincronizan y entran en un **estado de trance**

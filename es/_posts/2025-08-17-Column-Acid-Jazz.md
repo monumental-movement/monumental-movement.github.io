@@ -39,7 +39,7 @@ En la escena de clubes de la década de 1980, hubo un movimiento creciente para 
 
 El acid jazz tiende a referirse a un "sentimiento híbrido" más que a un género único. Los elementos característicos incluyen:
 
-- **Énfasis del ritmo**: hereda la sensación rítmica del funk de los 70 y ritmos raros
+- **énfasis del ritmo**: hereda la sensación rítmica del funk de los 70 y ritmos raros
 
 - **Improvisación**: Introducción de solos e interacciones derivadas del jazz.
 
@@ -94,7 +94,7 @@ La difusión del Acid Jazz también estuvo estrechamente relacionada con la geop
 
 ---
 
-- [**Galliano**](https://amzn.to/48uBEIK): Producida por Gilles Peterson. La fusión de rap y jazz le da un aire más callejero.
+- [**Galliano**](https://amzn.to/48uBEIK): Producido por Gilles Peterson. La fusión de rap y jazz le da un aire más callejero.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9y1rLVH4DqU?si=YloLaxISyRsc7sAs" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -108,7 +108,7 @@ La difusión del Acid Jazz también estuvo estrechamente relacionada con la geop
 
 #### escena estadounidense
 
-Acid Jazz fue percibido como una "reimportación". En los Estados Unidos existía el jazz funk y soul original de los años 70, por lo que la etiqueta "Acid Jazz" del Reino Unido parecía fresca y fue adoptada por las escenas de clubes de Nueva York y Chicago.
+Acid Jazz fue percibido como una "reimportación". En los Estados Unidos, el jazz funk y soul de los 70 existían como originales, por lo que la etiqueta "Acid Jazz" del Reino Unido parecía fresca y fue adoptada en las escenas de clubes de Nueva York y Chicago.
 
 Y, al igual que [Deee-Lite](https://amzn.to/3W7JKj0), se expande al vincularse con el hip-hop.
 Por otro lado, se enfatizó la conexión con el hip-hop, y sirvió de puente hacia el jazz-hip-hop como [A Tribe Called Quest](https://amzn.to/4n1XXZO) y [Gang Starr](https://amzn.to/46QAJBa).
@@ -124,7 +124,7 @@ En Japón, el movimiento "club jazz" floreció en las décadas de 1980 y 1990, y
 
 Tenía afinidad con la cultura de consumo de la economía de la burbuja y la escena de Shibuya, y se convirtió en un puente entre Europa y Asia.
 
-Gradualmente ganó aceptación en países como Corea del Sur y Taiwán desde finales de la década de 1990 a medida que la cultura de club se expandía.
+Gradualmente ganó aceptación en países como Corea del Sur y Taiwán desde finales de la década de 1990 a medida que se expandía la cultura de club.
 
 En Japón, United Future Organization (UFO) en particular recibió elogios en todo el mundo y se convirtió en la cara del acid jazz en la escena de clubes de Tokio. Sucesores como [Ryota Nozaki (Jazztronik)](https://amzn.to/4nP9mxl) continúan esta tendencia.
 

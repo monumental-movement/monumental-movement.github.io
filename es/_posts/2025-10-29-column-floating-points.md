@@ -42,7 +42,7 @@ color: #fff;
 
 ### 2. Ciencia de la estructura - Período Elaenia (2015)
 Su álbum debut ``Elaenia'' supone un punto de inflexión en la reorganización científica del contexto del jazz ambiental.
-El sonido es una combinación de formas de onda de sintetizador modular, armónicos de Rhodes y reverberaciones de cuerdas superpuestas para crear un diálogo de frecuencia.
+El sonido consta de formas de onda de sintetizador modular, armónicos Rhodes y reverberaciones de cuerdas superpuestas para crear un diálogo de frecuencia.
 Este diálogo se parece más a una "resonancia como fenómeno físico", como la interferencia de ondas, que a una improvisación.
 
 > “Siluetas (I, II y III)” es un experimento sonoro de 10 minutos,

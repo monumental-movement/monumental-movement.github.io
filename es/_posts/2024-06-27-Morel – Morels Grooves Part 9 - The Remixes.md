@@ -16,7 +16,7 @@ title: Morel – Morel's Grooves Parte 9 - Los Remixes
 
 George Morel, también conocido como Morel, es un DJ y productor discográfico de Nueva York que se dice que es una de las figuras centrales de la escena garage house de Nueva York a principios de los años 1990.
 
-"Morel's Grooves Part 9 - The Remixes" es el noveno de la serie de lanzamientos de 12 pulgadas de George Morel, una canción house lanzada con el sello house Strictly Rhythm en 1996.
+"Morel's Grooves Part 9 - The Remixes" es el noveno de la serie de lanzamientos de 12 pulgadas de George Morel, una pista house lanzada con el sello house Strictly Rhythm en 1996.
 
 #### Lista de canciones
 ```md
@@ -32,4 +32,4 @@ B2. Todos Los Latinos (En La Casa) (Happy Drums)
 [Comprar en Mercari](https://jp.mercari.com/item/m13213347541?afid=6142608987){: .button1}
 
 #### YouTube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UhyCoFtN1YQ?si=ftarQB-GKUePsdEO" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UhyCoFtN1YQ?si=ftarQB-GKUePsdEO" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

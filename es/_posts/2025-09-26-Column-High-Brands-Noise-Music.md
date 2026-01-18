@@ -148,7 +148,7 @@ Calificó de punk y fue pionero en la introducción del espíritu del ruido.
 
 Basado en el sonido antisistema de los años 70.
 
-Artistas relacionados: Sex Pistols (Johnny Rotten), primer grupo industrial.
+Artistas relacionados: Sex Pistols (Johnny Rotten), grupo industrial temprano.
 
 ✦ [Prada](https://amzn.to/4nonZY9)
 
@@ -188,7 +188,7 @@ Destaca el rock industrial y los elementos ruidosos.
 
 Afinidad por el cuero negro y el rugido.
 
-Artistas relacionados: Cisnes, Goma laca.
+Artistas relacionados: Cisnes, Goma Laca.
 
 ---
 
@@ -251,7 +251,7 @@ Desde el punto de vista del ruido/música experimental, el contacto con marcas d
 
 Archivo de materiales relacionados con "ruido/artistas experimentales/acústica que realmente se utilizaron en espectáculos/campañas (o cuya relación se informó claramente)"
 
-COMME des GARÇONS — Una tradición de incorporar sonidos/ruidos experimentales a la “música de espectáculo”
+COMME des GARÇONS — Una tradición de incorporar sonidos/ruidos experimentales en la “música de espectáculo”
 
 | Mostrar / Materiales | Artistas destacados | Puntos suplementarios | Referencias |
 | ------------------------------------ | -------------------------------------------------: | ------------------------------------------------------------------------------ | ----------------- |
@@ -326,7 +326,7 @@ COMME des GARÇONS — Una tradición de incorporar sonidos/ruidos experimentale
 "Marca alta" y "música ruidosa" parecen no tener relación a primera vista.
 Sin embargo, ambos comparten una estética que deconstruye y reconstruye la belleza.
 El ruido desgarra las pretensiones del lujo y, paradójicamente, fortalece su valor de marca.
-El rugido que resuena en las pasarelas del siglo XXI es una prueba de que las marcas no son "existencias para consumir" sino "existencias que provocan".
+El rugido que resuena en las pasarelas del siglo XXI es una prueba de que las marcas no son "existencias para consumir", sino "existencias que provocan".
 
 ---
 

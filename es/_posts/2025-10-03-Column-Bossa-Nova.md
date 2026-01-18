@@ -84,7 +84,7 @@ color: #fff;
 
 #### Antonio Carlos Jobim
 
-**Año de nacimiento**: 25 de enero de 1927 (Río de Janeiro, Brasil)
+**Año de nacimiento**: 25 de enero de 1927 (Rio de Janeiro, Brasil)
 
 **Características**: Conocido como pianista, compositor y arreglista, fue responsable de canciones tan representativas de bossa nova como ``La chica de Ipanema'' y ``Waves''.
 
@@ -216,7 +216,7 @@ Incluso hoy en día, la palabra "Bossa Nova" va más allá de un simple género 
 
 El encanto de la bossa nova reside en su musicalidad única, que combina la libertad del jazz, el ritmo de la samba y el sentido de armonía de la música clásica. Además, si miramos su historia, también refleja contextos sociales como el intercambio cultural internacional durante la Guerra Fría, la urbanización en Brasil y la interacción con el mercado musical estadounidense.
 
-Siguiendo álbumes y discografía, además de conocer anécdotas de la época y la vida de los artistas, podrás comprender más profundamente la bossa nova. La música en sí resuena como un sonido relajante y "curativo", pero al mismo tiempo también puede disfrutarse como un "documento" que refleja el espíritu de la época. Ese es el verdadero valor del patrimonio cultural que es la Bossa Nova.
+Siguiendo álbumes y discografía, además de conocer anécdotas de la época y la vida de los artistas, podrás comprender más profundamente la bossa nova. La música en sí resuena como un sonido relajante y "curativo", pero al mismo tiempo también puede disfrutarse como un "documento" que refleja el espíritu de la época. Ese es el verdadero valor del patrimonio cultural de la bossa nova.
 
 ---
 

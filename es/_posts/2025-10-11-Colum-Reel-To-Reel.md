@@ -94,7 +94,7 @@ La intención es reproducirlas con una calidad lo más cercana posible a las cin
 
 Sin embargo, lo importante aquí no es la "calidad del sonido".
 "Alta Fidelidad" no es sólo "alta fidelidad" sino también **fidelidad a la realidad**.
-El ruido y la distorsión han sido eliminados por la ola de la digitalización,
+El ruido y la distorsión han sido eliminados por la ola de digitalización,
 De hecho, era una prueba de la imperfección humana que tenía la música.
 
 El esfuerzo de Rhino representa un cambio de la "reproducción perfecta" a la "reproducción honesta".

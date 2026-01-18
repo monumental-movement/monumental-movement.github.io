@@ -66,7 +66,7 @@ Las bandas globales de hard rock **AC/DC** y **KISS** han cautivado al público 
 - AC/DC, ejemplificado por canciones como "Highway to Hell" y "Thunderstruck", superpuso imágenes de "carretera", "trueno" y "exceso de velocidad" en la música rock, vinculando directamente la música con la sensación de conducir.
 - En la presentación en vivo de KISS, el sonido de un motor Harley hizo eco con las llamas de fondo, brindando al público una experiencia como si el escenario mismo se hubiera transformado en una road movie estadounidense.
 
-Esto se hizo eco de la "cultura de glorificación de la velocidad" de los años 1970 en Estados Unidos, y el hard rock abrazó fuertemente a los automóviles y las motocicletas como íconos simbólicos de la cultura popular.
+Esto se hizo eco de la "cultura de la velocidad" estadounidense de la década de 1970, y el hard rock abrazó fuertemente a los automóviles y motocicletas como íconos simbólicos de la cultura popular.
 
 ---
 
@@ -180,7 +180,7 @@ Por otro lado, en Europa y Japón se han desarrollado estilos que enfatizan el l
 ## Hard rock y estilo de vida fuera de la ley
 
 El hard rock es más que un simple género musical y a menudo se lo conoce como un "estilo de vida". Simbólicos de esto son los autos deportivos estadounidenses y las Harley-Davidson.
-El rugido del motor de gran cilindrada resuena por la ciudad, asemejándose a la distorsión emitida por un amplificador de guitarra. Como si la música y la maquinaria resuenan en la misma frecuencia, los pasajeros y conductores hacen alarde de su presencia.
+El rugido del motor de gran cilindrada resuena por la ciudad, asemejándose a la distorsión emitida por un amplificador de guitarra. Como si la música y la maquinaria resuenan en la misma frecuencia, los motociclistas y conductores hacen alarde de su presencia.
 
 También tiene profundos vínculos con la cultura ilegal. Las bandas de motociclistas y la cultura callejera de los años 70 a menudo tenían el hard rock como banda sonora. El deseo de libertad y desviación de la norma es una expresión de impulsos fuertes e irresistibles, como un riff de guitarra de hard rock.
 
@@ -194,7 +194,7 @@ Desde locales de música en vivo hasta autopistas, el hard rock siempre ha sido 
 
 El hard rock en Japón se arraigó gradualmente en la década de 1970, y en la década de 1980 bandas como LOUDNESS y EARTHSHAKER se abrieron paso en el mundo.
 Además, a partir de la década de 1990, grupos como X JAPAN, B'z y GLAY desarrollaron sus propias interpretaciones del hard rock, que tuvieron una fuerte influencia en el aspecto visual.
-La cultura de Harley-Davidson y los muscle cars estadounidenses ha impregnado la escena del rock japonés y se utilizan con frecuencia en producciones en vivo y videos musicales.
+La cultura de Harley-Davidson y los muscle cars estadounidenses ha permeado la escena del rock japonés y se utilizan con frecuencia en producciones en vivo y videos musicales.
 
 | Artista | Canción | Año de lanzamiento | Características |
 |--------------|------|--------|------|

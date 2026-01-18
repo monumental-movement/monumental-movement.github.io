@@ -45,7 +45,7 @@ Las vibraciones de mi cuerpo que sentí en el suelo del club. Una rave ilegal qu
 
 Muchas veces no se registran. No se informa en los medios y no queda registrado en la historia.
 
-Sin embargo, un medio de bricolaje llamado "Zine" está atrayendo actualmente la atención como medio para recoger los fragmentos y volver a contar la historia.
+Sin embargo, un medio de bricolaje llamado "zine" está atrayendo actualmente la atención como medio para recoger estos fragmentos y volver a contarlos.
 
 Un zine no es una revista, un diario o un informe. Sin embargo, está más cerca de las “voces de las personas involucradas” que cualquiera de ellas. En la cultura rave, que inherentemente se resiste a la grabación, las revistas tienen el potencial de servir como "ayudas para la memoria".
 
@@ -129,7 +129,7 @@ Así como el rave fue una "experiencia física", el zine también es un "medio f
 
 ### Archivo delirio
 
-Fundado en 2007, Rave Archive es un archivo que preserva y comparte recuerdos de la cultura rave de los noventa. Desde la perspectiva de un raver y un archivero, transmitiré una cultura que tiende a desaparecer a las generaciones futuras.
+Fundado en 2007, Rave Archive es un archivo que preserva y comparte recuerdos de la cultura rave de los años 90. Desde la perspectiva de un raver y un archivero, transmitiré una cultura que tiende a desaparecer a las generaciones futuras.
 
 [Archivo Rave](https://ravearchive.com)
 

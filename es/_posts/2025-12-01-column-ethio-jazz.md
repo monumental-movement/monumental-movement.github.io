@@ -133,7 +133,7 @@ Sin embargo, el propio Mulatu siguió trabajando en el extranjero y realizó gra
 # # 6. Finales de los años 1990: Reevaluación internacional con la serie Éthiopiques
 
 La serie ``Éthiopiques'' (Buda Musique), iniciada en 1997, está
-Se trata de un proyecto de archivo a gran escala que presentó al mundo las fuentes sonoras de la Edad de Oro de Etiopía.
+Se trata de un proyecto de archivo a gran escala que introdujo al mundo fuentes sonoras de la Edad de Oro de Etiopía.
 
 Obras de Mulatu, cantantes etíopes (Mahmoud Ahmed, Tilahun Gessesse, etc.),
 Se reeditaron grabaciones de bandas militares, lo que provocó una reevaluación mundial del Ethio-Jazz.
@@ -216,7 +216,7 @@ Reevaluado internacionalmente con la serie Éthiopiques.
 
 ### ■ Tilahun Gessesse
 
-Un cantante conocido como el "Rey de la música etíope". Es ex miembro de una banda militar y tiene habilidades avanzadas para el canto.
+Un cantante conocido como el "Rey de la música etíope". Es un ex miembro de una banda militar y tiene grandes habilidades para el canto.
 
 ### ■ Hailu Mergía
 

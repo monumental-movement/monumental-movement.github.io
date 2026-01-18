@@ -104,7 +104,7 @@ Aunque estas dos culturas pueden parecer contradictorias, estaban vagamente cone
 
 **● Roles como Pete Tong, Paul Oakenfold, DJ Bobo y más**
 
-La curación como DJ proporciona “discernimiento europeo”
+La curación como DJ proporciona “discernimiento del euro”
 
 Aunque se trata de un paquete comercial, la selección de canciones tiene un estilo de club.
 
@@ -119,7 +119,7 @@ ATB, Fragma, Darude y más presentan un sonido que se entrelaza entre el pop y e
 
 ### ¿Por qué se está reevaluando ahora?
 
-En la década de 2020, el euro de los 90 se redescubre en TikTok y YouTube. Las razones detrás de esto son las siguientes.
+En los años 2020, el euro de los 90 se redescubre en TikTok y YouTube. Las razones detrás de esto son las siguientes.
 
 Estructura melódica y clara **coincide con la “era de la visualización instantánea”**
 
@@ -133,7 +133,7 @@ Sonido nostálgico pero funcional para escenas al aire libre y festivales.
 ### Conclusión: el euro vivía en la frontera entre “pop” y “club”
 
 La música europea no era sólo "música sencilla de éxito" o "pistas duras de club".
-Su verdadero valor radica en el hecho de que era música que mantenía un equilibrio entre medios y underground, melodía y ritmo, sistema y fisicalidad.
+Su verdadero valor radica en la música que mantuvo un equilibrio entre medios y underground, melodía y ritmo, sistema y fisicalidad.
 
 Escúchalo en la radio y baila en la discoteca.
 Ésa puede haber sido la forma más "correcta" de gastar el euro en los años 1990.

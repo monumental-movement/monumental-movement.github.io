@@ -13,7 +13,7 @@ title: Criminal Element Orchestra – Cuando el funk golpea al fan
 ---
 
 
-Criminal Element Orchestra es el nombre del proyecto electrónico/breaks/garage house de Arthur Baker de los años 1980 a 1990.
+Criminal Element Orchestra es el nombre del proyecto electrónico/breaks/garage house de Arthur Baker de las décadas de 1980 a 1990.
 
 "When The Funk Hits The Fan" se lanzó en 1989 y se incluyó en el álbum "Locked Up" lanzado el mismo año.
 

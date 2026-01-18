@@ -26,7 +26,7 @@ El flujo de fondo es el siguiente.
 
 * Finales de la década de 2000: Profundización del dubstep en el Reino Unido (Skream, Benga, Digital Mystikz)
 * 2008-2010: Auge de los enfoques melódicos (por ejemplo, Mt. Eden)
-* Década de 2010: difusión de “Chillstep Compilation” en YouTube
+* Década de 2010: Difusión de “Chillstep Compilation” en YouTube
 * Artistas como Blackmill y MitiS han establecido un estilo orientado a la melodía.
 
 El resultado fue "el dubstep como expresión emocional", que absorbió elementos líquidos del ambient, el trance y el drum and bass, y creció hasta convertirse en un género profundamente conectado con el EDM, el lo-fi y la hermosa cultura de edición de videos.
@@ -70,7 +70,7 @@ Aquí organizaremos las características a nivel del proceso de producción.
 
 ### 2-1 BPM/Estructura
 
-* El BPM suele rondar los **140** (estándar de dubstep)
+* El BPM suele estar alrededor de **140** (estándar de dubstep)
 * Tambor de entretiempo (tiempo de caja 2)
 * Las gotas existen, pero usan "espacios en blanco" en lugar de agresión.
 
@@ -80,7 +80,7 @@ El símbolo de Chillstep es "subgrave suave".
 
 * Centro de onda sinusoidal
 * Ajuste la calidez con una ligera distorsión (recorte suave)
-* Produce una fluctuación similar a la respiración con un LFO ligero (1/4, 1/8, etc.)
+* Produce fluctuaciones similares a la respiración con un LFO ligero (1/4, 1/8, etc.)
 * Agregue emoción a través de cambios de volumen sin usar una modulación de filtro excesiva
 
 ### 2-3 Diseño de melodía y sintetizador
@@ -104,7 +104,7 @@ El símbolo de Chillstep es "subgrave suave".
 Liquid Dubstep hereda la sensación de Liquid Drum'n'Bass, con una textura más "transparente, parecida al agua".
 
 * Impresión clara de alta gama y brillante.
-* Alto ratio de corte vocal
+*Alta proporción de corte vocal
 *La base es más suave y menos nerviosa
 * A menudo utiliza efectos de una sola vez como burbujas.
 
@@ -273,7 +273,7 @@ flowchart TD
 
 ## 8. Estado actual y perspectivas futuras del género.
 
-Chillstep/Liquid Dubstep no es sólo una rama del dubstep, sino un caso representativo de Internet y la cultura visual formando un género musical. Incluso en la década de 2020, se ha integrado sin problemas con géneros como la cultura lo-fi, el ambient, el bajo melódico y el futuro garage, y ha sido ampliamente aceptado como una forma de "electrónica silenciosa".
+Chillstep/Liquid Dubstep no es sólo una rama del dubstep, sino un caso representativo de Internet y la cultura visual formando un género musical. Incluso en la década de 2020, se ha integrado sin problemas con géneros como la cultura lo-fi, el ambient, el bajo melódico y el garage del futuro, y ha sido ampliamente aceptado como una forma de "electrónica silenciosa".
 
 Además, en los últimos años se han observado las siguientes tendencias.
 

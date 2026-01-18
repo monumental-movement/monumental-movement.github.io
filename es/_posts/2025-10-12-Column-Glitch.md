@@ -62,7 +62,7 @@ Los píxeles perdidos cambian de forma como un fluido, difuminando los límites 
 Como escribe la artista multimedia **Rosa Menkman** en ``The Glitch Moment(um)'':
 > “Glitch es una estética que expone las estructuras invisibles de los medios”.
 
-Para ella, un error no es sólo una avería, sino una "auto-revelación" momentánea en la que un sistema se revela.
+Para ella, un error no es sólo una falla, sino una "auto-revelación" momentánea en la que un sistema se revela.
 Estamos acostumbrados a ver imágenes perfectas.
 Es por eso que la belleza inestable creada por la corrupción JPEG y el ruido de la señal parece algo humana.
 
@@ -75,7 +75,7 @@ Finalmente podemos disfrutar del hecho de que no es perfecto y de que incluso lo
 ### Glitch como filosofía
 
 Entonces, ¿por qué nos atraen las "cosas rotas"?
-Filosóficamente hablando, es un anhelo por lo incontrolable.
+Filosóficamente hablando, es un anhelo de lo incontrolable.
 
 Heidegger llamó a la esencia de la tecnología la "revelación del ser".
 Glitch es exactamente el momento en el que la tecnología revela sus propias "limitaciones"; en otras palabras, el mundo se desgarra.

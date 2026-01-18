@@ -58,7 +58,7 @@ Además, la pequeña superficie de la placa reduce la distorsión interna, hacie
 
 ---
 
-### Edad de oro de 10 pulgadas de los años 50: terreno experimental para el jazz y la música clásica
+### Edad de oro de 10 pulgadas de los años 50: el terreno experimental para el jazz y la música clásica
 
 El modelo de 10 pulgadas alcanzó su apogeo durante los albores del jazz a principios de los años cincuenta.
 Sellos como Blue Note, Prestige y Clef limitaron la experimentación de los artistas al formato de 10 pulgadas.
@@ -67,7 +67,7 @@ Miles Davis [“Joven con un cuerno”](https://amzn.to/4qkdGGC) (1952), Theloni
 
 Antes de la llegada del LP de 12 pulgadas, el de 10 pulgadas era el campo de pruebas para el nuevo concepto de "LP". En una época en la que aún no se había determinado el formato de las obras de larga duración, el formato de 10 pulgadas dio al artista una sensación de "cohesión" y al mismo tiempo dejó atrás la densidad de un "momento recortado".
 
-Lo que no se puede pasar por alto es la evolución del diseño de las chaquetas. Blue Note, que precedió a la aparición de Reid Miles, era conocida por sus composiciones simples que utilizaban tipografía y márgenes de fotografías, pero la proporción áurea se expresó más bellamente en la era de las 10 pulgadas.
+Lo que no se puede pasar por alto es la evolución del diseño de las chaquetas. Blue Note, que precedió a la aparición de Reid Miles, era conocida por sus composiciones simples que utilizaban tipografía y márgenes de fotografías, pero la proporción áurea se expresó más bellamente durante la era de las 10 pulgadas.
 
 ---
 
@@ -118,7 +118,7 @@ Es una experiencia musical consciente del final, a diferencia de una lista de re
 No es una historia larga ni una historia corta, sino un formato de "cuento corto".
 Música en la palma de tu mano. Sin embargo, su densidad no es inferior a 12 pulgadas.
 
-Un formato no es sólo un contenedor, sino una idea.
+Un formato no es sólo un contenedor, es una idea.
 Reevaluar el televisor de 10 pulgadas es un acto de reconsiderar la forma en que se escucha la música.
 
 Siempre hay un "medio" entre las tecnologías.

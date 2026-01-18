@@ -49,7 +49,7 @@ Desde la década de 1970, a medida que los instrumentos musicales electrónicos 
 
 ### 1-2 Muestreo y crítica de música étnica.
 
-En las décadas de 1980 y 1990, con la difusión de los samplers, las fuentes de la música folclórica se incorporaron y reconstruyeron en nuevos contextos. Sin embargo, también se discutieron cuestiones de ética y derechos al utilizar fuentes sonoras de diferentes orígenes culturales.
+En las décadas de 1980 y 1990, con la difusión de los samplers, se incorporaron y reconstruyeron fuentes de música folclórica en nuevos contextos. Sin embargo, también se discutieron cuestiones de ética y derechos al utilizar fuentes sonoras de diferentes orígenes culturales.
 
 ---
 
@@ -221,7 +221,7 @@ En los tiempos modernos, el análisis y la generación de fuentes de sonido util
 ### 8-3 Importancia de la colaboración
 
 * Grabación en vivo con instrumentistas tradicionales.
-*Debe producirse teniendo en cuenta el trasfondo cultural de la música regional.
+*Debe producirse teniendo en cuenta el trasfondo cultural de la música local.
 
 ---
 
@@ -288,7 +288,7 @@ flowchart TD
 
 ### ◆ Década de 1990: el surgimiento del downtempo y la fusión integrada
 
-* Trip-hop/downtempo va bien con la atmósfera de la música folk
+* Trip-hop/downtempo combina bien con la atmósfera de la música folk
 * Nitin Sawhney, Talvin Singh, Transglobal Underground y otros desempeñan papeles clave en el Reino Unido.
 * Thievery Corporation traduce elementos latinoamericanos y de Medio Oriente a contextos electrónicos urbanos.
 

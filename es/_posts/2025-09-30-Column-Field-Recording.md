@@ -183,7 +183,7 @@ La grabación in situ es la trinidad de "micrófono + grabadora + fuente de alim
 
 - Las cintas se deterioran debido al moho en la selva tropical y la grabación puede fallar.
 
-- López asume el reto de ``dejar el equipo en el entorno natural''.
+- López asume el reto de "dejar el equipo en el entorno natural".
 
 #### Micrófono de bricolaje de Toshiya Tsunoda
 
@@ -210,7 +210,7 @@ La grabación in situ es la trinidad de "micrófono + grabadora + fuente de alim
 | Edad | Artista | Álbum representativo | Comentar | Enlace |
 | --------------- | ---------------------- | ---------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
 | **Décadas de 1950 a 1960** | Alan Lomax | *La colección Alan Lomax | Sistematiza grabaciones folklóricas de mediados del siglo XX. El equipo de grabación es Ampex/Nagra. La base de la grabación de campo. | [Amazon](https://amzn.to/3IQh8rr) |
-| **Década de 1980** | Annea Lockwood | *Un mapa sonoro del río Hudson* (1989) | Mapee el río Hudson con "sonido". Un trabajo pionero en ecología acústica.              | [Amazon](https://amzn.to/3Inx2cR) |
+| **Década de 1980** | Anna Lockwood | *Un mapa sonoro del río Hudson* (1989) | Mapee el río Hudson con "sonido". Un trabajo pionero en ecología acústica.              | [Amazon](https://amzn.to/3Inx2cR) |
 | **década de 1990** | Hildegarda Westerkamp | *Transformaciones* (1996) | Trabajo basado en la teoría del paseo sonoro. Experimente la escucha urbana/naturaleza.                  | [archive.org](https://archive.org/details/transformationshwesterkamp) |
 | **década de 1990** | Toshiya Tsunoda (Toshiya Tsunoda) | *Extracto del archivo de grabaciones de campo* (1997–2001) | Graba con precisión sonidos diminutos en los puertos y en la ciudad. Llevar la grabación de campo japonesa a los estándares internacionales.                | [archive.org](https://archive.org/details/toshiya-tsunoda-extract-from-field-recording-archive-1) |
 | **década de 1990** | Francisco López | *La Selva* (1998) | Una pieza musical basada en la selva tropical de Costa Rica. Impactante investigación del paisaje sonoro mundial.            | [Amazon](https://amzn.to/46tHPeF) |

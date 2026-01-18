@@ -15,7 +15,7 @@ title: Thugfucker – Disco V / El jinete del caballero
 ---
 
 
-Thugfucker comenzó en 2004 como un dúo entre el DJ y productor estadounidense Greg Oreck y el DJ Holmar Filipsson, nacido en Irlanda y radicado en Nueva York, pero luego se convirtió en el proyecto en solitario de Greg Oreck.
+Thugfucker comenzó en 2004 como un dúo entre el DJ y productor estadounidense Greg Oreck y el DJ irlandés Holmar Filipsson, residente en Nueva York, pero luego se convirtió en el proyecto en solitario de Greg Oreck.
 
 "Disco V / Knight Rider" es una canción House/Electro/Disco lanzada por Thugfucker (Greg Oreck & Holmar Filipsson) en su propio sello Thugfucker Recordings en 2006.
 

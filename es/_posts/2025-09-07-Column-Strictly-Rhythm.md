@@ -44,7 +44,7 @@ color: #fff;
 
 **Antecedentes históricos**: El house/techno, que había surgido en Chicago y Detroit, entró en los clubes de Nueva York a principios de los años 1990. Era una época en la que la cultura de club estaba a punto de comercializarse y persistía un espíritu clandestino de experimentación.
 
-**Qué pasó**: Fundada en 1989 por Mark Finkelstein y Gladys Pizarro. Desde nuestra fundación, nos hemos centrado en música de 12 pulgadas orientada a DJ, produciendo sonido que se conecta directamente con la pista de baile y es popular en los clubes locales.
+**Qué pasó**: Fundada en 1989 por Mark Finkelstein y Gladys Pizarro. Desde su fundación, la compañía se ha centrado en música de 12 pulgadas orientada a DJ, produciendo sonido que se conecta directamente con la pista de baile y es popular en los clubes locales.
 
 **Obra maestra representativa (temprana)**
 - Roger Sanchez — *Luv Dancin'* (1990, bajo el nombre Underground Solution)
@@ -126,7 +126,7 @@ Las DAW y los complementos de software han comenzado a ingresar al flujo de trab
 | 6 | Armand Van Helden | No me conoces | House melódico, un elemento básico del club. |
 | 7 | India | Amor y felicidad | Deep house donde brilla la expresividad de las voces. |
 | 8 | Bárbara Tucker | Todo el mundo baila (La canción del cuerno) | Una canción de pista de baile con un impresionante efecto de trompeta. |
-| 9 | Mousse T. | Cachonda (edición estricta) | Un clásico con humor y groove. |
+| 9 | Mousse T. | Cachonda (edición estricta) | Un clásico con humor y ritmo. |
 | 10 | céleda | La música es la respuesta | Una fusión de mensajes positivos y ritmos de baile. |
 
 ---
@@ -180,7 +180,7 @@ La marca/catálogo sigue activo y se utiliza como "activo" para reediciones, com
 | 5 | Miel Dijon | Houze Muzik (estrictamente liberado) | A la vanguardia del house moderno, con énfasis en el groove. |
 | 6 | Luis Vega | Ritual de danza (2016) | Deep house con sabor latino. |
 | 7 | DJ Gasto | El espíritu de la casa | Una versión moderna de la esencia de la casa tradicional. |
-| 8 | David Penn | Con hijo | Una melodía de club que presenta un ritmo y una melodía suaves. |
+| 8 | David Penn | Con Hijo | Una melodía de club que presenta un ritmo y una melodía suaves. |
 | 9 | Riva Starr | Casa Nación 2020 | Casa energética, ritmos que brillan en el suelo. |
 | 10 | Bárbara Tucker | Me levantan (Remix 2021) | Un remix de una canción famosa con un arreglo moderno, donde brillan las voces. |
 

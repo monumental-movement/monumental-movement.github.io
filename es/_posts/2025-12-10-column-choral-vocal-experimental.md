@@ -61,7 +61,7 @@ Aquí observamos a vista de pájaro cómo la música coral adquirió elementos e
 ## 2-2. Primera mitad del siglo XX: el surgimiento de perspectivas vanguardistas sobre la voz
 
 * El uso de la voz también se expandió rápidamente, con la técnica dodecafónica de Schoenberg y Webern, los ritmos multicapa de Stravinsky y la introducción de Bartok de los aspectos acústicos de la música folclórica.
-* Carmina Burana (1937), de Carl Orff, se cita como una obra simbólica que trata la voz como una "fuente de energía primitiva".
+* Carmina Burana (1937) de Carl Orff se cita como una obra simbólica que trata la voz como una "fuente de energía primitiva".
 
 ## 2-3. Ligeti y el nuevo pensamiento acústico (década de 1960)
 
