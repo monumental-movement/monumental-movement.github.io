@@ -14,7 +14,7 @@ title: Aux 88 – 電子佈吉
 ---
 
 
-Studio K7 的第三張電子佈吉唱片於 1999 年發行。 Aux88 製作的底特律 techno/電子混音 CD。
+Studio K7 於 1999 年發行了第三張電子佈吉音樂。 Aux88 製作的底特律 techno/電子混音 CD。
 
 #### 曲目列表
 ```md

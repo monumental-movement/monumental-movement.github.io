@@ -16,7 +16,7 @@ title: Denzil & Dwayne - 습관의 힘
 
 Denzil & Dwayn은 네덜란드 트랜스 프로듀서이자 Armada Music의 창립자 중 한 명인 Maykel Piron과 네덜란드 음악가이자 음악 프로듀서인 Michiel Van Der Kuy의 프로젝트입니다.
 
-"Force Of Habit"은 네덜란드 레이블 Flammable이 1999년에 발매한 트랜스 트랙입니다.
+"Force Of Habit"은 네덜란드 레이블 Flammable이 1999년에 발표한 트랜스 트랙입니다.
 
 Side A는 네덜란드 트랜스 아티스트 Vincent de Moor의 리믹스입니다. 빈센트 드 무어는 음악 프로듀서 페리 코르스텐(Ferry Corsten)과 함께 '베라코차(Veracocha)'라는 유닛으로도 활동 중이다.
 

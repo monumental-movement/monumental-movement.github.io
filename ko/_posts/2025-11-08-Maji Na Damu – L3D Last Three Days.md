@@ -14,11 +14,11 @@ title: 마지 나 다무 – L3D(지난 3일)
 ---
 
 
-Maji Na Damu는 JUN JUN과 Ta가 결성한 일본의 여성 테크노/트랜스 유닛입니다. 프로듀서는 ageHa에서 레지던트 DJ로 활동하며 하마사키 아유미, 코다 쿠미, Globe 등의 아티스트를 프로듀싱, 리믹스한 DJ 19(다나카 히로)이다.
+Maji Na Damu는 JUN JUN과 Ta가 결성한 일본 여성 테크노/트랜스 유닛입니다. 프로듀서는 ageHa에서 레지던트 DJ로 활동하며 하마사키 아유미, 코다 쿠미, Globe 등의 아티스트를 프로듀싱, 리믹스한 DJ 19(다나카 히로)이다.
 
 "L3D(Last Three Days)"는 2000년에 Pizzicato Five의 전 멤버인 Keitaro Takanami가 설립한 레이블 Out Of Tune에서 발매되었습니다.
 
-A면과 B면 모두 DJ 19, H.Garden(Master Mind)(오가와 히로시 및 구로사와 에이키)이 리믹스했습니다.
+A면과 B면 모두 DJ 19, H.Garden(Master Mind)이 오가와 히로시와 구로사와 에이키에 의해 리믹스되었습니다.
 
 #### 트랙리스트
 ```md

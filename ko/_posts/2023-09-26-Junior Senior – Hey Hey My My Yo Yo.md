@@ -9,11 +9,11 @@ permalink: /ko/junior-senior-hey-hey-my-my-yo-yo/
 tags:
 - Synth-Pop
 - Disco
-title: 후배 선배 – 헤이 헤이 마이 마이 요요
+title: 후배 선배 - 헤이 헤이 마이 마이 요요
 ---
 
 
-이번 앨범은 덴마크 음악 듀오 주니어 시니어(Junior Senior)의 곡이다. 이 곡은 2002년 발매된 데뷔 앨범 'D-D-Don't Stop the Beat'의 수록곡이다.
+이번 앨범은 덴마크 음악 듀오 주니어 시니어(Junior Senior)의 곡이다. 이 곡은 2002년 발매된 데뷔 앨범 'D-D-Don't Stop the Beat'에 수록된 곡이다.
 
 '헤이 헤이 마이 마이 요요(Hey Hey My My Yo Yo)'는 경쾌한 멜로디와 댄스 가능한 비트, 유쾌한 가사가 돋보이는 업템포 팝 곡이다. Junior Senior의 음악은 댄스팝과 디스코의 요소를 결합한 팝 작곡으로 유명합니다.
 

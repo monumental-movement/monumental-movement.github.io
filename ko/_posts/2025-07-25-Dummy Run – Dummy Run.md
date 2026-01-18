@@ -11,13 +11,13 @@ tags:
 - Drum n Bass
 - Experimental
 - 90s
-title: Dummy Run – Dummy Run
+title: 더미 런 - 더미 런
 ---
 
 
-Dummy Run (ダミーラン)は、Andrew Sharpley, Nick BirminghamによるエクスペリメンタルエレクトロDuo 。
+Dummy Run은 Andrew Sharpley와 Nick Birmingham의 실험적인 일렉트로 듀오입니다.
 
-1996年にUKのレーベルHot Airからリリースしたセフルタイトルアルバムは、ドラムンベース+レフトフィールドなDummy Run独自のスタイルが堪能できる一枚。
+1996년 영국 레이블 Hot Air가 발매한 셀프 타이틀 앨범은 Dummy Run 특유의 드럼 앤 베이스 + 레프트 필드 스타일을 즐길 수 있는 앨범이다.
 
 #### 트랙리스트
 ```md

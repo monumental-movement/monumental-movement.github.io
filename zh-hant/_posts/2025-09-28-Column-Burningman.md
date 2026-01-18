@@ -90,7 +90,7 @@ color: #fff;
 
 
 |年份|雜誌/媒體 |筆記/關係 |鏈接 |
-| ----:| ------------------------ | | ------------------------ | ----------------- |
+| ----：| ------------------------ | | ------------------------ | ----------------- |
 |書籍 | *火人節：燃燒的藝術*（照片書）|一本涵蓋節日藝術的經典書籍| [亞馬遜](https://amzn.to/3VFwNge) |
 |書籍 | *塵埃中的往事*（羅克珊·傑西）|一部走近全球燃燒文化的遊記| [亞馬遜](https://amzn.to/4nv3MQw) |
 
@@ -230,7 +230,7 @@ flowchart TD
 
 #### 2003：難以置信
 
-對宗教、信仰、神秘、幻覺和超越的探索。無論是主題還是藝術，都更多地體現了儀式、祈禱和儀式空間的意義。
+對宗教、信仰、神秘、幻覺和超越的探索。無論是主題還是藝術，都更多地體現了儀式、祈禱和儀式空間的意識。
 
 今年，主題藝術登記項目數量快速增長。
 
@@ -264,7 +264,7 @@ flowchart TD
 
 重新思考自然與文明之間關係的主題。以“綠人”（植物和天然植物的擬人化形象）為主題的構圖。
 
-然而，當年他模仿巨型石油鑽井平台的燃燒藝術作品《粗暴的覺醒》卻引發了爭議和批評。
+然而，當年他模仿巨型石油鑽井平台的燃燒藝術作品《粗暴的覺醒》卻引起了爭議，受到批評。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dyU2Wjrw3Do?si=C0LD82S702ZyNlGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -10,13 +10,13 @@ tags:
 - Indie Rock
 - Rock
 - 90s
-title: Rudolf Rocker – The Exotic Sounds Of Rudolf Rocker
+title: 루돌프 로커 – 루돌프 로커의 이국적인 소리
 ---
 
 
-Rudolf Rocker(ルドルフ・ロッカー)は、Jeremy Dyson, Mark Goodall, Steven GoodallによるUKのシチュエーショニズムチェンバーポップアンサンブルバンド。キーボード担当のJeremy Dyson(ジェレミー・ダイソン)は、BBCのシットコム『リーグ・オブ・ジェントルマン 奇人同盟!』の制作メンバーでもあり脚本家・コメディアンとして活動している。
+루돌프 로커(Rudolf Rocker)는 제레미 다이슨(Jeremy Dyson), 마크 구달(Mark Goodall), 스티븐 구달(Steven Goodall)이 결성한 영국의 상황주의 챔버 팝 앙상블 밴드입니다. 키보드 연주자인 제레미 다이슨은 BBC 시트콤 '신사연맹(The League of Gentlemen)'의 제작 멤버이기도 하며, 시나리오 작가, 코미디언으로도 활동 중이다.
 
-「The Exotic Sounds Of Rudolf Rocker」は、1998年にレーベルMook Records からリリースされたインディーロックアルバム。
+"The Exotic Sounds Of Rudolf Rocker"는 Mook Records 레이블이 1998년에 발매한 인디 록 앨범입니다.
 
 #### 트랙리스트
 ```md

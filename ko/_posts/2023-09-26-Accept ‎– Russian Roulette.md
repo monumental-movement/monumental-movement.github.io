@@ -9,7 +9,7 @@ permalink: /ko/accept-russian-roulette/
 tags:
 - Heavy Metal
 - Rock
-title: 수락 - 러시안 룰렛
+title: 수락 – 러시안 룰렛
 ---
 
 

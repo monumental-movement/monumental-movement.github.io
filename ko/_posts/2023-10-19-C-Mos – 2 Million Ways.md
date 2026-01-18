@@ -8,15 +8,15 @@ layout: post
 permalink: /ko/c-mos-2-million-ways/
 tags:
 - House
-title: C-Mos – 2 Million Ways
+title: C-Mos - 200만 가지 방법
 ---
 
 
-C-Mosは、ベルギー出身のDJ Olivier Abbeloosの別名義。
+C-Mos는 벨기에 DJ Olivier Abbeloos의 별칭입니다.
 
-A面は、Swedish House Mafia（スウェディッシュ ハウス マフィア）のメンバーでもあるスウェーデンのDJ/プロデューサーAxwell（アクスウェル/Axel Hedfors）によるremix。
+A-side는 Swedish House Mafia의 멤버이기도 한 스웨덴 DJ 겸 프로듀서 Axwell(Axel Hedfors)의 리믹스입니다.
 
-B面は、Bhangra KnightsのメンバーJules Spinner（ジュールズ・スピナー）によるremix。
+B면은 Bhangra Knights 멤버 Jules Spinner의 리믹스입니다.
 
 #### 트랙리스트
 ```md

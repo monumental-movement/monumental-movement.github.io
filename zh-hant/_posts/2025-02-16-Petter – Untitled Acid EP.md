@@ -17,7 +17,7 @@ title: Petter – 無題 Acid EP
 
 Petter Nordkvist 是來自瑞典斯德哥爾摩的 DJ 兼製作人。他們獨特的風格是技術、電子、配音、環境、酸、休息和深屋的混合。他不僅在瑞典演出，還在倫敦和整個歐洲的邊境社區活動中演出。
 
-《Untitled Acid EP》是一首 Acid house/progressive house/tech house 曲目，於 2005 年在阿姆斯特丹廠牌 Deep Records 的子廠牌 Deep Focus 上發行。
+《Untitled Acid EP》是一首 Acid house/progressive house/tech house 曲目，於 2005 年在阿姆斯特丹唱片公司 Deep Records 的子廠牌 Deep Focus 上發行。
 
 
 #### 曲目列表

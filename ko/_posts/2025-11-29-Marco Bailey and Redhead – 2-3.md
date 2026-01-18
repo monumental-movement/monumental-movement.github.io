@@ -10,11 +10,11 @@ permalink: /ko/marco-bailey-and-redhead-2-3/
 tags:
 - Techno
 - 00s
-title: 마르코 베일리 & 빨간 머리 - 2 3
+title: 마르코 베일리 & 빨간 머리 – 2 3
 ---
 
 
-벨기에 테크노계의 최고 DJ 듀오인 Marco Bailey와 Redhead(Steve Vangilbergen)가 Invasion 레이블로 2000년에 발매한 테크노 트랙입니다.
+벨기에 테크노계의 최고 DJ 듀오인 Marco Bailey와 Redhead(Steve Vangilbergen)가 Invasion 레이블로 2000년에 발표한 테크노 트랙입니다.
 
 #### 트랙리스트
 ```md

@@ -10,17 +10,17 @@ tags:
 - House
 - Electro
 - 00s
-title: Brian Cross – Sunny Rain
+title: 브라이언 크로스 - 써니 레인
 ---
 
 
-Brian Cross (Brian Fortuny Cruz)は、スペインのDJ／プロデューサー。
+Brian Cross(Brian Fortuny Cruz)는 스페인 DJ/프로듀서입니다.
 
-このレコードは、イタリアのダンス/ハウスレーベルNet's Work Internationalから2008年にリリースされたHouse／Electro。(プロモ盤)
+이 음반은 이탈리아 댄스/하우스 레이블 Net's Work International이 2008년에 발표한 House/Electro입니다. (프로모션 에디션)
 
-A1は、マイアミのレーベルJuicy Musicの主宰Robbie Riveraによるremix。
+A1은 마이애미 레이블 Juicy Music의 수장인 Robbie Rivera의 리믹스입니다.
 
-B1は、 Robin S「Show Me Love」(1993)のリミックスやNe-Yo「Closer」(2008)のリミックスでグラミー賞にノミネートされた事で知られる、スウェーデン出身のDJ／プロデューサーStoneBridge(Sten Hallström)によるremix。
+B1은 Robin S의 "Show Me Love"(1993)와 Ne-Yo의 "Closer"(2008)에 대한 그래미상 후보 리믹스로 유명한 스웨덴 DJ/프로듀서 StoneBridge(Sten Hallström)의 리믹스입니다.
 
 #### 트랙리스트
 ```md

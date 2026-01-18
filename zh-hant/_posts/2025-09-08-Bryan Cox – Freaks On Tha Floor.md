@@ -14,7 +14,7 @@ title: 布萊恩·考克斯——樓上的怪胎
 ---
 
 
-布萊恩·考克斯 (Bryan Cox) 是一位來自紐約的 DJ/製作人。他的風格融合了迪斯科、電子、浩室和電子音樂。他曾在 Spinnin、Toolroom、100%pure、Detected、Great Stuff 和 Sublime 等知名唱片公司上發布過作品。
+Bryan Cox 是來自紐約的 DJ/製作人。他的風格融合了迪斯科、電子、浩室和電子音樂。他曾在 Spinnin、Toolroom、100%pure、Detected、Great Stuff 和 Sublime 等知名唱片公司發行過作品。
 
 《Freaks On Tha Floor》是美國廠牌 Eden Recordings 於 2005 年發行的一首 House/Techno 歌曲。
 

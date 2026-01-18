@@ -45,10 +45,10 @@ color: #fff;
 1970년대 말 영국은 경기침체와 산업쇠퇴의 늪에 빠졌고, 도시지역에서는 청년문화가 독자적으로 발전했다. 맨체스터도 예외는 아니었고, 공장의 연기와 잿빛 하늘 아래에서 음악은 절망과 희망을 동시에 표현하는 매개체로 존재했습니다.
 
 **"밴드 결성의 여명"**
-1976년 Bernard Sumner, Peter Hook, Stephen Morris가 만나 Joy Division을 결성했습니다. 초기 멤버들은 학교와 지역 펑크 씬을 통해 연결되어 처음에는 커버곡을 연주했지만 결국 도시의 우울함과 고립감을 반영한 오리지널 곡으로 진화했습니다.
+1976년 Bernard Sumner, Peter Hook, Stephen Morris가 만나 Joy Division을 결성했습니다. 초기 멤버들은 학교와 지역 펑크씬을 통해 연결되어 처음에는 커버곡을 연주했으나 결국 도시의 우울함과 고립감을 반영한 오리지널 곡으로 진화했다.
 
 **"영향력의 실"**
-Kraftwerk와 Neu! 등의 Kraftrock, Velvet Underground의 차갑고 하드한 사운드, David Bowie와 Roxy Music의 아방가르드 요소가 Joy Division 초기 사운드의 기반을 형성했습니다.
+Kraftwerk와 Neu!의 Kraftrock, Velvet Underground의 차갑고 하드한 사운드, David Bowie와 Roxy Music의 아방가르드한 요소가 조이 디비전 초기 사운드의 기반을 형성했습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9ryJB-FF_Jg?si=L5cecdtz45JglfbR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -123,7 +123,7 @@ Amazonで購入 → [Movement](https://amzn.to/4mXprzN)
 피터 사빌(Peter Saville)의 작품은 음악과 영상을 연결하며 뉴오더의 브랜드 아이덴티티를 확립합니다. 디자인은 앨범의 내용을 상징적으로 표현하는 중요한 요소가 되었다.
 
 **"멤버들 간의 협력과 마찰"**
-Sumner, Hook, Morris 및 Gillian Gilbert 사이의 역할 분담과 의견 충돌은 음악이 발전함에 따라 밴드 내에 긴장감을 조성합니다. 마찰은 창의성의 원동력이기도 했습니다.
+Sumner, Hook, Morris 및 Gillian Gilbert 간의 역할 분담과 의견 충돌은 음악이 발전함에 따라 밴드 내에 긴장감을 조성합니다. 마찰은 창의성의 원동력이기도 했습니다.
 
 Amazonで購入 → [Technique](https://amzn.to/4mREPgX)
 
@@ -137,7 +137,7 @@ Amazonで購入 → [Technique](https://amzn.to/4mREPgX)
 **"새로운 질서의 보편성"**
 이 곡은 클럽과 라디오를 통해 전 세계적으로 히트를 쳤습니다. 음악은 댄스와 일상생활의 일부로 소비되면서 팝과 언더그라운드의 경계가 모호해졌습니다.
 
-**"끝없는 여정"**
+**“끝이 없는 여행”**
 해체와 개편에도 불구하고 Joy Division의 유산은 New Order를 통해 계속 이어집니다. 음악과 인간의 이야기는 도시의 그림자와 희망을 비추는 거울이 됩니다.
 
 Amazonで購入 → [Still](https://amzn.to/4mXpD1Z)
@@ -176,7 +176,7 @@ Martin Hannett의 반향, Peter Saville의 디자인, Haçienda의 조명과 건
 이 모든 것들이 모여 맨체스터 사운드(Manchester Sound)라는 문화 지역을 형성했습니다.
 
 조이디비전의 사운드는 밤을 들여다보는 거울,
-뉴오더(New Order)의 소리는 밤새도록 춤추게 하는 신호등이었습니다.
+뉴 오더(New Order)의 소리는 밤새 춤을 추게 하는 등대였습니다.
 그들의 궤적은 '비극을 극복한 자만이 연주할 수 있는 희망의 비트'로 묘사된다.
 아직도 수많은 아티스트와 클럽 플로어에서 울려 퍼지고 있습니다.
 

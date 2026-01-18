@@ -13,7 +13,7 @@ title: 各種 – 黎明
 ---
 
 
-《Daybreak》是 Break It Or Leave It（Wally's Groove World 的碎拍部門，由 DJ Koenie 於 1997 年創立）發行的一張專輯。
+《Daybreak》是 Break It Or Leave It（Wally's Groove World 的霹靂部門，由 DJ Koenie 於 1997 年創立）發行的一張專輯。
 
 A4 的 DVL（Davy Van Laere）也因其項目 After Hours with DJ AME 而聞名。 DVL是目前最受歡迎的滑板攝影師。
 

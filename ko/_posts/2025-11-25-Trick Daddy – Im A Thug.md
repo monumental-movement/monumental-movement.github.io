@@ -10,11 +10,11 @@ tags:
 - Hiphop
 - Gangsta
 - 00s
-title: Trick Daddy – I'm A Thug
+title: Trick Daddy – 나는 Thug입니다
 ---
 
 
-『Let's Go (featuring Twista and Lil Jon)』で知られるフロリダ・マイアミ出身のラッパーTrick Daddy(トリックダディ)が2001年にリリースしたGangsta HipHopトラック。
+플로리다 주 마이애미 출신의 래퍼 Trick Daddy가 2001년에 발표한 Gangsta 힙합 트랙으로, "Let's Go(Twista 및 Lil Jon 출연)"로 유명합니다.
 
 #### 트랙리스트
 ```md

@@ -21,7 +21,7 @@ title: 拾起高能（Hi-NRG）作品
 ### E-Rotic – “威利使用比利......男孩”
 <a href="https://jp.mercari.com/item/m74466346239?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Willy%20Use%20A%20Billy%20Boy.webp"></a>
 
-來自德國的性感而朗朗上口的歐洲流行音樂。作為對 90 年代 Hi-NRG 的詮釋，這是一首非常容易上癮的歌曲，您會想哼唱。
+來自德國的性感而朗朗上口的歐洲流行音樂。作為對 90 年代 Hi-NRG 的詮釋，這是一首非常容易上癮的曲目，您會想哼唱。
 
 #### 曲目列表
 ```md

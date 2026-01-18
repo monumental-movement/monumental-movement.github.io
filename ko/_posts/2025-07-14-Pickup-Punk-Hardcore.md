@@ -17,10 +17,10 @@ title: 펑크/하드코어 작품 선택
 
 <hr>
 
-### 스너프 – Flibbiddydibbiddydob
+### 스너프 - Flibbiddydibbiddydob
 <a href="https://jp.mercari.com/item/m21120251672?afid=6142608987"><img src="../assets/images/Snuff%20%E2%80%93%20Flibbiddydibbiddydob.webp"></a>
 
-영국 펑크 밴드의 커버 EP. 1990년에 처음 출시되었고 1996년에 다시 출시되었습니다.
+영국 펑크 밴드의 커버 EP입니다. 1990년에 처음 출시되었고 1996년에 다시 출시되었습니다.
 
 #### 트랙리스트
 ```md

@@ -16,7 +16,7 @@ title: 데이브 타리다 – 좀비 드라이버 EP
 
 Dave Tarrida는 스코틀랜드 출신의 프로듀서입니다. 그는 Steve Glencross와 함께 Sativae Recordings를 운영했습니다.
 
-"Zombie Driver EP"는 영국의 테크노 DJ이자 프로듀서인 Justin Berkovi가 설립한 레이블인 Predicaments에서 1999년에 발매된 테크노/실험적 트랙입니다.
+"Zombie Driver EP"는 영국 테크노 DJ 겸 프로듀서인 Justin Berkovi가 설립한 레이블인 Predicaments에서 1999년에 발매된 테크노/실험적 트랙입니다.
 
 #### 트랙리스트
 ```md

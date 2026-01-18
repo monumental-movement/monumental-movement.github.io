@@ -25,7 +25,7 @@ Band Aid 是一個慈善項目組織，由 Bob Geldof 和 Midge Ure 於 1984 年
 
 ・米奇·烏爾、克里斯·克羅斯（Ultravox）
 
-・デュラン・デュラン
+・杜蘭杜蘭
 
 ・保羅·楊
 

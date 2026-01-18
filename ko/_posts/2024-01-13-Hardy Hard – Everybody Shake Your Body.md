@@ -9,7 +9,7 @@ permalink: /ko/hardy-hard-everybody-shake-your-body/
 tags:
 - House
 - Tech House
-title: 하디하드(Hardy Hard) - 모두가 몸을 흔들어요
+title: 하디하드(Hardy Hard) – 모두가 몸을 흔들어요
 ---
 
 

@@ -19,7 +19,7 @@ P.Y.T.是一個來自佛羅里達州的美國女子組合，活躍於 1998 年�
 
 在他的職業生涯中，他與 InSync、布蘭妮·斯皮爾斯、Destiny's Child 和 98 Degrees 一起巡演，並在 2001 年超級碗上表演。
 
-2001 年發行的《Same Ol' Same Ol'》是一首當代 R&B 歌曲，以 Dr. Dre 的 Next 劇集為歌曲而大受歡迎。
+2001 年發行的《Same Ol' Same Ol'》是一首當代 R&B 歌曲，以 Dr. Dre 的 Next 劇集為曲目而大受歡迎。
 
 
 #### 曲目列表

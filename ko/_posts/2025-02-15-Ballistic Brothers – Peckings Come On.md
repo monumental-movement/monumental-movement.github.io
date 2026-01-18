@@ -18,7 +18,7 @@ title: 발리스틱 브라더스 - Peckings Come On
 
 Ballistic Brothers는 X-Press 2의 Ashley Beedle, Rocky & Diesel 및 David Hill(Nuponic Records)이 결성한 90년대 영국을 기반으로 한 다운비트 밴드였습니다. 재즈의 영향을 받은 펑키한 일렉트로니카 스타일이 특징입니다.
 
-이 CD는 영국 레이블 Junior Boy's Own이 1995년 발매한 명작 앨범 London Hooligan Soul의 싱글 컷입니다.
+이 CD는 영국 레이블 Junior Boy's Own이 1995년 발매한 걸작 앨범 London Hooligan Soul의 싱글 컷입니다.
 
 두 번째 노래는 정글 드럼 및 베이스 DJ이자 프로듀서인 Simon Templar(일명 Paul Saunders)의 리믹스입니다.
 

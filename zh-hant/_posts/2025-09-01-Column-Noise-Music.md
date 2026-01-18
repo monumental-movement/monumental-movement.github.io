@@ -26,7 +26,7 @@ title: 【專欄】噪音音樂——從起源到現在：歷史背景、著名�
 工業化和城市化使城市人群和機器的噪音變得司空見慣的時代。聲音的“美感”擴大，傳統樂器以外的聲音開始融入藝術。
 
 ### 重要事件/人物
-- 1913年，意大利前衛藝術家路易吉·魯索洛出版了《噪音的藝術》。
+- 1913年，意大利前衛藝術家路易吉·魯索洛（Luigi Russolo）出版了《噪音的藝術》。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fYYkMux6Dgw?si=0wmaw6qZOSicyJq9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -61,7 +61,7 @@ title: 【專欄】噪音音樂——從起源到現在：歷史背景、著名�
 
 ---
 
-## 3）偏離搖滾和原始噪音（1960年代–1970年代）
+## 3）偏離搖滾和原始噪音（1960年代-1970年代）
 ### 歷史背景
 搖滾變得更具實驗性，噪音也被融入到搖滾環境中。
 
@@ -96,7 +96,7 @@ title: 【專欄】噪音音樂——從起源到現在：歷史背景、著名�
 - [Whitehouse（英國）](https://amzn.to/4hnbz0z)、[Merzbow（日本）](https://amzn.to/3L64TI1)
 
 ### 代表作品
-- 梅爾茲博的《脈衝惡魔》相關作品，懷特豪斯的早期版本。
+- 梅爾茲鮑的《脈衝惡魔》相關作品，懷特豪斯的早期版本。
 
 ### 設備/技術
 - 破壞性放大器、無線電噪音、失真踏板和盒式錄音。
@@ -153,4 +153,4 @@ title: 【專欄】噪音音樂——從起源到現在：歷史背景、著名�
 ---
 
 ## 在最後
-噪音音樂始終是對現有美學的挑戰，也是拓展音樂邊界的嘗試。從Russolo的機械聲音到模塊化合成器，即使經歷了100多年的歷史，所有樂器的本質都是“聆聽聲音本身”。
+噪音音樂始終是對現有美學的挑戰，也是拓展音樂邊界的嘗試。從Russolo的機械聲音到模塊化合成器，即使經歷了100多年的歷史，它們的本質仍在於“聆聽聲音本身”。

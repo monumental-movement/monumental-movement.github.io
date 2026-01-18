@@ -16,7 +16,7 @@ title: 丹尼·克拉克 (Danny Clark) 和傑伊·本納姆 (Jay Benham) 主演�
 ---
 
 
-英國 house 音樂製作人 Danny Clark 和 Jay Benham 創作的一首 Deep house/garage house 歌曲，由聲樂製作人 Carla Prather 擔綱演出，Carla Prather 曾與 MR. 等許多藝術家合作過。阿里、昆汀·哈里斯、維克·拉文德、LOFTSOUL 和 DJ SPEN。
+英國 house 音樂製作人 Danny Clark 和 Jay Benham 創作的一首 Deep house/garage house 曲目，由聲樂製作人 Carla Prather 擔綱演出，Carla Prather 曾與 MR. 等許多藝術家合作過。阿里、昆汀·哈里斯、維克·拉文德、LOFTSOUL 和 DJ SPEN。
 
 《Into You》於 2010 年在由 Danny Clark 和 Jay Benham 經營的 Solid Ground Recordings 發行。
 

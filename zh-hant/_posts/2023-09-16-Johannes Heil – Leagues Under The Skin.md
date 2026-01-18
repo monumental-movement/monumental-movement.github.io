@@ -9,7 +9,7 @@ permalink: /zh-hant/johannes-heil-leagues-under-the-skin/
 tags:
 - Techno
 - German Techno
-title: 約翰內斯·海爾 (Johannes Heil) – 皮膚下的聯盟
+title: 約翰內斯·海爾（Johannes Heil）——皮下聯盟
 ---
 
 

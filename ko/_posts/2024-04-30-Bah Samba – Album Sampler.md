@@ -16,7 +16,7 @@ title: 바 삼바 – 앨범 샘플러
 
 Bah Samba는 Julian Bendall, Kevin Alexander, Geoff Holroyd가 1996년에 결성했습니다.
 
-Side A의 두 번째 트랙은 파리 출신 Dimitri 등 다양한 DJ들이 연주해왔던 클럽 히트곡 'Reach Inside'를 Phil Asher와 Luke McCarty가 설립한 프로듀싱 팀인 Restless Soul이 리믹스한 곡이다.
+Side A의 두 번째 트랙은 파리 출신 Dimitri 등 다양한 DJ들이 연주했던 클럽 히트곡 'Reach Inside'를 Phil Asher와 Luke McCarty가 설립한 프로듀싱 팀인 Restless Soul이 리믹스한 곡이다.
 
 #### 트랙리스트
 ```md

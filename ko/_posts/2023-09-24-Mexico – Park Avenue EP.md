@@ -13,7 +13,7 @@ title: 멕시코 – 파크 애비뉴 EP
 ---
 
 
-Jun Yamabe의 프로젝트 "Mexico"는 2003년 일본 레이블 United Sounds Of Blue에서 출시되었습니다.
+Jun Yamabe의 프로젝트 "Mexico"는 2003년 일본 레이블 United Sounds Of Blue에서 발매되었습니다.
 
 V.A. 의 싱글컷 "U.S.B. -유나이티드 사운드 오브 블루-".
 

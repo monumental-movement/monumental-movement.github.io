@@ -14,7 +14,7 @@ title: Sandi & Matues – The World Pt. 1
 ---
 
 
-「Sandi & Matues – The World Pt. 1 」の原盤は、レアファンクDJ KEB DARGE(ケブ・ダージ)しか所有していないという噂もある稀少盤。
+"Sandi & Matues – The World Pt. 1"의 원본 버전은 희귀한 펑크 DJ인 KEB DARGE만이 소유하고 있다는 소문이 돌고 있는 희귀 음반입니다.
 
 #### 트랙리스트
 ```md

@@ -13,7 +13,7 @@ title: 비탈릭 – 팡파르
 ---
 
 
-Vitalic으로도 알려진 Pascal Arbez-Nicolas는 프랑스 DJ이자 프로듀서입니다. 그는 'La Rock 01'(2001), 데뷔 앨범 'OK Cowboy'(2005) 등의 작품으로 잘 알려져 있다.
+Vitalic으로도 알려진 Pascal Arbez-Nicolas는 프랑스 DJ이자 프로듀서입니다. 그는 'La Rock 01'(2001), 데뷔 앨범 'OK Cowboy'(2005) 등의 작품으로 유명하다.
 
 "Fanfares"는 일렉트로닉 음악 레이블 Different가 2004년에 발매한 테크노 트랙입니다.
 

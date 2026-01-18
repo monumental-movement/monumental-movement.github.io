@@ -14,7 +14,7 @@ title: 켄 라즐로 – 오늘 밤
 ---
 
 
-"Ken Laszlo - Tonight"은 이탈리아 이탈로(Italo) 디스코 아티스트 Ken Laszlo가 1985년에 발표한 노래입니다.
+"Ken Laszlo - Tonight"은 이탈리아 이탈로 디스코 아티스트 Ken Laszlo가 1985년에 발표한 노래입니다.
 
 Ken Laszlo는 Italo Disco 운동에서 활동한 예술가였으며 "Tonight"은 그의 걸작 중 하나로 평가됩니다.
 

@@ -17,7 +17,7 @@ title: Sha'dasious – U Kant Play Me
 Sha'dasious – U Kant Play Me / Phunk Wucha Heard
 陰暗的
 
-Sha'dasious 首張專輯《Phunk Wucha Heard》中的單曲片段。 《U Kant Play Me》是一部由嘻哈和R&B場景支撐的嘻哈經典。
+Sha'dasious 首張專輯《Phunk Wucha Heard》中的單曲剪輯。 《U Kant Play Me》是一部由嘻哈和R&B場景支撐的嘻哈經典。
 
 這張唱片是 RCA 於 1994 年發行的美國版本。
 

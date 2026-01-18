@@ -16,7 +16,7 @@ title: 農神節 – 綠色和平發布
 Saturnalia 是英國製片人 Jim Sullivan 和 Steve McGarrigle 的項目。此次發布的所有利潤均捐贈給綠色和平組織。
 
 A面的鋼琴和人聲是Mo Lester的《Blue Sky Day》的樣本，人聲是African Business的《In Zaire》的樣本。
-B面台詞來自電影《星際迷航IV：漫漫回家路》。
+B面台詞出自電影《星際迷航IV：漫漫回家路》。
 
 #### 曲目列表
 ```md

@@ -128,7 +128,7 @@ A.  Acid War (Liberator DJs RMX)
 
 發佈時間：1996 年
 
-Surgeon 的首張專輯 Downwards（英國）。在 Regis/Female 的支持下發布
+Surgeon 的首張專輯 Downwards（英國）。在Regis/女性的支持下發布
 
 #### 曲目列表
 ```md

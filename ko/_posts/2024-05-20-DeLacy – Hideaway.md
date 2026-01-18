@@ -10,13 +10,13 @@ tags:
 - House
 - Deep House
 - 90s
-title: De'Lacy – Hideaway
+title: De'Lacy - 하이드어웨이
 ---
 
 
-De'Lacyは、1990年代のUSハウスミュージックグループ。メンバーは、De'Lacy Davis、Gary Griffin、Glen Branch、Rainie Lassiter。「Hideaway（ハイダウェイ）」はDe'Lacyの代表曲。
+De'Lacy는 1990년대 미국 하우스 뮤직 그룹입니다. 회원은 De'Lacy Davis, Gary Griffin, Glen Branch 및 Rainie Lassiter입니다. "Hideaway"는 De'Lacy의 시그니처 곡입니다.
 
-A面のremixは、イラン系アメリカ人アーティスト、Dubfire（ダブファイア）ことAli ShiraziniaとSharam（シャラム）のエレクトロデュオDeep Dish（ディープ ディッシュ）。
+A면 리믹스는 Dubfire로도 알려진 이란계 미국인 아티스트 Ali Shirazinia와 Sharam의 일렉트로 듀오 Deep Dish가 함께 작업했습니다.
 
 #### 트랙리스트
 ```md

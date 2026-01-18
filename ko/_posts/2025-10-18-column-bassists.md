@@ -59,7 +59,7 @@ color: #fff;
 
 찰스 밍거스의 연주를 듣고
 이는 단순한 베이스 라인 그 이상으로 사회에 대한 선언처럼 들립니다.
-분노와 지능, 즉흥성과 건설. 그 베이스 톤에는 시가 있습니다.
+분노와 지능, 즉흥성과 건설. 그 베이스에는 시가 있습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y9IMOUVJMVs?si=5wUdqiLWnOEP7O_n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -74,7 +74,7 @@ Ray Brown 및 Ron Carter와 같은 플레이어
 ---
 
 전후 일본의 재즈 카페를 지탱한 스즈키 요시오와 이나바 구니미츠는
-이 "베이스 사운드의 자유"를 우리 나라의 감성으로 즐기며,
+이 "베이스 사운드의 자유"를 자국의 감성으로 즐기며,
 머지않아 그들은 도쿄의 밤에 자신들만의 독특한 그루브를 만들어가고 있었습니다.
 
 ---
@@ -126,7 +126,7 @@ YMO 이전에도 호소노 하루오미는 이미 일본 대중음악의 '중심
 ---
 
 야마시타 타츠로 밴드의 이토 히로노리, 고토 츠구토시, 오카자와 아키라──
-대중가요와 AOR을 넘나드는 세계적인 사운드를 만들어냈습니다.
+대중가요와 AOR의 세계를 연결하는 사운드를 만들어냈습니다.
 베이스 기타는 더 이상 무대 뒤에서의 역할을 하지 않고, 음악의 '품위'를 지탱하는 요소가 되었습니다.
 
 ---
@@ -146,13 +146,13 @@ ROVO와 Shibusa Shirazu의 베이시스트,
 ---
 
 솜털과 토우의 섬세한 베이스 사운드는 도시의 밤을 그린 시처럼 들린다.
-비명소리가 아니라 ``호흡의 고요함''이 있습니다.
+비명소리는 들리지 않고 '호흡의 고요함'이 들린다.
 
 ---
 
 ### 3. 클럽 문화 이후의 베이스 철학
 
-2000년대에 들어 베이스는 다시 한 번 모습을 바꾸었습니다.
+2000년대에 들어 베이스는 또 한 번 그 모습을 바꾸었습니다.
 오사와 신이치가 클럽 트랙에 "인간 베이스"를 도입,
 STUTS와 yahyel은 타이핑과 라이브 음악을 결합했습니다.
 
@@ -161,7 +161,7 @@ STUTS와 yahyel은 타이핑과 라이브 음악을 결합했습니다.
 ---
 
 킹그누(King Gnu)나 밀레니엄 퍼레이드(Millennium Parade) 같은 요즘 밴드들,
-베이스는 노래의 '서사'를 제어합니다.
+베이스는 노래의 '내러티브'를 제어합니다.
 하마오카모토는 전통과 현대가 결합된 곳입니다.
 연주성을 넘어 '음악적 정중함'을 제공합니다.
 
@@ -170,7 +170,7 @@ STUTS와 yahyel은 타이핑과 라이브 음악을 결합했습니다.
 ## IV. 세계의 지하: 베이스 사운드로 연결된 반문화
 
 Joy Division의 Peter Hook, PIL의 Jah Wobble,
-그리고 Talking Heads의 Tina Weymouth도 있습니다.
+Talking Heads의 Tina Weymouth도 있습니다.
 그들이 보여준 것은 베이스가 '지적 반란'의 상징이라는 것이었습니다.
 
 브리스톨에서는 Massive Attack과 Portishead가 트립홉을 확립했습니다.
@@ -213,7 +213,7 @@ Jaco 이후 Fretless는 침묵의 시인 같은 존재가 되었습니다.
 우리는 오늘도 여전히 서있습니다.
 
 귀가 아닌 마음으로 들어보세요.
-배스의 별은 아직 울림을 멈추지 않았습니다.
+베이스 행성은 아직 울리는 것을 멈추지 않았습니다.
 
 ---
 

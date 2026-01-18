@@ -13,14 +13,14 @@ title: 다운템포 작업 픽업
 ---
 
 
-깊은 그루브와 부드러운 비트로 마음을 감싸는 놀라운 다운템포 작품 모음입니다.”
+깊은 그루브와 부드러운 비트로 마음을 사로잡는 놀라운 다운템포 작품 모음입니다.”
 
 <hr>
 
 ### 겸손한 마우스 / 764‑HERO – 필요할 때마다
 <a href="https://jp.mercari.com/item/m99852743815?afid=6142608987"><img src="../assets/images/Modest%20Mouse%20764-HERO%20%E2%80%93%20Whenever%20You%20See%20Fit.webp"></a>
 
-조용한 리듬이 가득한 엉뚱한 인디 EP
+조용한 리듬으로 가득한 엉뚱한 인디 EP
 
 #### 트랙리스트
 ```md
@@ -62,7 +62,7 @@ B2. Family Affair (Plati Party Mix)
 <hr>
 
 
-### Swing Out Sister – 모양과 패턴
+### 스윙 아웃 시스터 – 모양과 패턴
 <a href="https://jp.mercari.com/item/m34567494829?afid=6142608987"><img src="../assets/images/Swing%20Out%20Sister%20%E2%80%93%20Shapes%20And%20Patterns.webp"></a>
 
 소프트 일렉트로닉 재즈와 소울, 일본에서 인기
@@ -96,7 +96,7 @@ B2. Family Affair (Plati Party Mix)
 ### 백색광 서커스 – 행진 명령
 <a href="https://jp.mercari.com/item/m33139936589?afid=6142608987"><img src="../assets/images/White%20Light%20Circus%20%E2%80%93%20Marching%20Orders.webp"></a>
 
-영국 일렉트로 느낌의 차분한 디스코 트랙입니다.
+UK 일렉트로 느낌의 차분한 디스코 트랙입니다.
 
 #### 트랙리스트
 ```md

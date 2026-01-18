@@ -14,7 +14,7 @@ title: Jeff Mills – Skin Deep EP
 ---
 
 
-《Call Of The Wild》採樣了邁克爾·傑克遜 1979 年專輯《Off The Wall》中的《Get on the Floor》的打擊樂片段。
+“Call Of The Wild”採樣了邁克爾·傑克遜 1979 年專輯“Off The Wall”中“Get on the Floor”的打擊樂休息部分。
 
 一首強大而時髦的曲目，是一首經典的技術曲目。
 

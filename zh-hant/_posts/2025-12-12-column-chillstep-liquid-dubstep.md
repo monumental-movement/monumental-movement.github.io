@@ -20,7 +20,7 @@ title: '[專欄] Chillstep / Liquid Dubstep'
 
 文：mmr｜主題：關於在寂靜與低音之間誕生的“情感迴響貝斯”
 
-Chillstep 和 Liquid Dubstep 是衍生流派，於 2010 年左右開始在互聯網上形成，強調 Dubstep 的旋律和環境方面。與傳統 Dubstep 激進的擺動低音、刺耳的濾波器調製和後 Brostep 金屬主音不同，Chillstep 帶來了“安靜、透明和軟定義的低頻範圍”。
+Chillstep 和 Liquid Dubstep 是衍生流派，於 2010 年左右開始在互聯網上形成，強調 Dubstep 的旋律和環境方面。與傳統 Dubstep 激進的擺動低音、刺耳的濾波器調製和後 Brostep 金屬主音不同，Chillstep 帶來了“安靜、透明和柔和的低頻輪廓”。
 
 後台流程如下。
 
@@ -142,7 +142,7 @@ MitiS 擁有古典鋼琴背景，為 Chillstep/Melodic Dubstep 帶來獨特的�
 
 * 鋼琴主旋律
 * 清晰一致的組合
-* 恍惚般的上升感覺
+* 恍惚般的提升感
 * 精心處理的聲帶
 * 與斷奏合成主音分層
 
@@ -239,7 +239,7 @@ Chillstep 有很多清晰的代碼。
 
 ---
 
-## 6. 按場景時間順序
+## 6.按場景時間順序
 
 ### Chillstep / Liquid Dubstep 發展歷史（簡述）
 
@@ -282,7 +282,7 @@ Chillstep/Liquid Dubstep 不僅僅是 Dubstep 的一個分支，更是互聯網�
 * 與電影聲音的聯繫
 * 與 VR、水下鏡頭、自然行走鏡頭等集成。
 
-Chillstep是“音樂+視覺+故事”的結合體，即使不是主流，它很可能會繼續在互聯網上佔有一席之地。
+Chillstep 是“音樂+視覺+故事”的組合，即使不是主流，它很可能會繼續在互聯網上佔有一席之地。
 
 ---
 

@@ -10,13 +10,13 @@ permalink: /ko/gilberto-with-turrentine-arranged-by-deodato-gilberto-with-turren
 tags:
 - Bossa Nova
 - Jazz
-title: Deodato가 편곡한 Turrentine과 Gilberto – Turrentine과 Gilberto
+title: Deodato가 편곡한 Turrentine이 있는 Gilberto – Turrentine이 있는 Gilberto
 ---
 
 
 이번 앨범은 브라질의 보사노바 가수 주앙 지우베르투(João Gilberto)와 미국의 테너 색소폰 연주자 스탠리 터렌타인(Stanley Turrentine)의 콜라보레이션이다.
 
-"Gilberto With Turrentine"은 João Gilberto의 뛰어난 보사노바 노래와 기타 연주를 Stanley Turrentine의 소울풀한 테너 색소폰과 결합합니다. Deodato의 편곡은 브라질 음악과 재즈의 요소를 융합하여 독특하고 매력적인 사운드를 만들어냅니다.
+"Gilberto With Turrentine"은 João Gilberto의 뛰어난 보사노바 노래와 기타 연주를 Stanley Turrentine의 소울풀한 테너 색소폰과 결합합니다. Deodato의 편곡은 브라질 음악과 재즈 요소를 융합하여 독특하고 매력적인 사운드를 만들어냅니다.
 
 
 #### 트랙리스트

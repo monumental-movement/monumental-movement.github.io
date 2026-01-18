@@ -9,7 +9,7 @@ permalink: /ko/divine-native-love-step-by-step/
 tags:
 - House
 - Techno
-title: 신성한 – 기본 사랑 (단계별)
+title: 신성한 – 기본 사랑(단계별)
 ---
 
 

@@ -24,7 +24,7 @@ Dan Findlay，也稱為 Dan F，是一位駐香港的 DJ 和酒吧老闆。
 
 Dan F 還以其他名字工作：Red Buddha、Random Source 和 Sinosine。
 
-“Treat 'Em Mean, Keep 'Em Keen”是一首電子音樂極簡曲目，由Almost Anonymous 廠牌於 2006 年發行。
+“Treat 'Em Mean, Keep 'Em Keen”是一首電子音樂極簡曲目，由Almost Anonymous 廠牌於2006 年發行。
 
 #### 曲目列表
 ```md

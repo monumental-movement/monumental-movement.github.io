@@ -14,7 +14,7 @@ title: Mike Dearborn – 의사 소통 없음
 ---
 
 
-Mike Dearborn은 시카고 출신으로 Majesty Recordings를 운영하는 DJ입니다.
+Mike Dearborn은 Majesty Recordings를 운영하는 시카고 출신의 DJ입니다.
 
 "No Communication"은 Norbert Wieschollek(Brixton)이 설립한 독일 레이블 Holzplatten에서 2002년에 발매한 테크노/테크하우스 트랙입니다.
 

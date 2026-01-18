@@ -10,7 +10,7 @@ tags:
 - Trance
 - Euro
 - 00s
-title: 그루브 커버리지 – 독
+title: 그루브 커버리지 - 포이즌
 ---
 
 

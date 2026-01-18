@@ -16,7 +16,7 @@ title: 豪華立體聲 – 靈魂醬
 
 Stereo de Luxe 是來自柏林的 DJ/製作人二人組。
 
-該樂隊最初由藝名 Stereo de Luxe 的獨奏 DJ Karsten“Kassi”Wolf 於 1994 年創立，活躍於柏林的休閒、輕鬆聆聽和俱樂部流行音樂場所。
+該樂隊最初由藝名 Stereo de Luxe 的獨奏 DJ Karsten“Kassi”Wolf 於 1994 年創立，活躍於柏林的休息室、輕鬆聆聽和俱樂部流行音樂場所。
 
 1998 年與 Thomas Mävers 組成二人組。音樂風格轉向碎拍、浩室和電子放克。他們的第一張雙人組合 EP“Aerocyclette 1999”由 Bungalow Records 唱片公司發行。
 

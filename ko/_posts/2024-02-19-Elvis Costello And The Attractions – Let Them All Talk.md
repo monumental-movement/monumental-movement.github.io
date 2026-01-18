@@ -14,7 +14,7 @@ title: 엘비스 코스텔로(Elvis Costello)와 관광명소 - 모두가 이야
 ---
 
 
-Elvis Costello는 Rolling Stone이 선정한 역대 가장 위대한 예술가 100인 목록에 포함되었으며, Elvis Costello and the Attractions의 일부로 2003년 로큰롤 명예의 전당에 헌액되었습니다.
+Elvis Costello는 Rolling Stone이 선정한 역대 가장 위대한 예술가 100인 목록에 포함되었으며, 2003년 Elvis Costello and the Attractions의 일부로 로큰롤 명예의 전당에 헌액되었습니다.
 
 "Let Them All Talk"는 1984년에 발매된 엘비스 코스텔로의 24번째 싱글이다.
 

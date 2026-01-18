@@ -16,7 +16,7 @@ title: 都市靈魂 – 都市靈魂 2 天
 
 Metrosoul 是德國 DJ/製作人 Carsten Sasiak、Daniel Kasprowicz、Frank Herbrechter (Herb LF)、Matthias Kunert (Matthew Boone)、Meikel Klein 和 Tim Bernhardt 的一個項目。 Carsten Sasiak 和 Meikel Klein (M. Petit & Cassique) 也以 Natural Funk 的身份活躍。
 
-《Metrosoul 2 Day》是一首 Deep House 曲目，於 2004 年由 Metromusic 廠牌發行。
+《Metrosoul 2 Day》是一首 Deep House 曲目，於 2004 年在 Metromusic 廠牌上發行。
 
 #### 曲目列表
 ```md

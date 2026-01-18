@@ -9,7 +9,7 @@ permalink: /ko/popsoda-luv-luv-robot/
 tags:
 - Electro
 - Synth-Pop
-title: 팝소다 - 러브러브로봇
+title: 팝소다 – 러브러브로봇
 ---
 
 

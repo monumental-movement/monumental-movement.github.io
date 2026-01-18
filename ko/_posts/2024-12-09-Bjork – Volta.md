@@ -12,11 +12,11 @@ tags:
 - Electro
 - Abstract
 - Ballad
-title: Björk – Volta
+title: 비요크 – 볼타
 ---
 
 
-Voltaは、2007年にリリースされたBjörkの6枚目のスタジオアルバム。Mark Bell、Timbaland、Danja、Antony & the JohnsonsのAntony Hegarty(Anohni Hegarty)など、複数のアーティストが参加している。
+Volta는 2007년 발매된 Björk의 여섯 번째 정규 앨범이다. Mark Bell, Timbaland, Danja, Antony & the Johnsons의 Antony Hegarty(Anohni Hegarty) 등 여러 아티스트가 참여하고 있다.
 
 #### 트랙리스트
 ```md

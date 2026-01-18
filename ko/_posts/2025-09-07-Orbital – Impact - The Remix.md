@@ -9,11 +9,11 @@ permalink: /ko/orbital-impact-the-remix/
 tags:
 - Techno
 - 90s
-title: 궤도 - 임팩트 - 리믹스
+title: 궤도 – 임팩트 – 리믹스
 ---
 
 
-이 작품은 The Chemical Brothers, Underworld, The Prodigy 등과 함께 90년대 테크노 씬을 대표했던 영국의 대표적인 일렉트로/테크노 음악 거물 Orbital의 최고 호평 앨범 'Orbital 2 (Brown Album)'(1993)의 싱글을 리믹스한 것입니다.
+이번 작품은 케미컬 브라더스(The Chemical Brothers), 언더월드(Underworld), 프로디지(The Prodigy) 등과 함께 90년대 테크노 씬을 대표했던 영국의 대표적인 일렉트로/테크노 음악 거물 오비탈의 최고 호평 앨범 'Orbital 2 (Brown Album)'(1993)의 싱글들을 리믹스한 작품이다.
 
 A씨의 'Impact USA'는 'Impact(The Earth Is Burning)'를 셀프 리믹스한 곡이다.
 

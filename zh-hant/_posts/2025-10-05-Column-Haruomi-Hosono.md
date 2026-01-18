@@ -72,7 +72,7 @@ Happy End 是第一支探索“並非模仿英語的日本節奏”的樂隊。
 儘管受到 The Band 和 Buffalo Springfield 等美國樂隊的影響，他們還是將日本的文學歌詞放在了首位。
 
 #### 軼事
-細野在錄音過程中因設備出現大量問題而感到沮喪，據說他說：“我想要一個可以更好地錄製聲音的地方。”
+據報導，細野對錄音過程中出現的設備問題感到沮喪，他說：“我想要一個可以更好地錄製聲音的地方。”
 此後，這成為他追求自己聲音理想的基礎。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3vGkvlNZS5Y?si=Ri3xftRPb2Awn9EP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -166,7 +166,7 @@ YMO（黃魔樂團）是一個革命性的樂隊，將電子流行音樂傳播�
 作為領導者，細野使用節奏機和音序器融合亞洲幽默和未來派聲音。
 
 #### 歷史背景
-20 世紀 80 年代初，日本達到了技術和經濟繁榮的頂峰。
+20世紀80年代初，日本達到了技術和經濟增長的頂峰。
 計算機、視頻遊戲和電子樂器的發展與音樂融合的時代。
 YMO的聲音是日本作為電子國家的象徵。
 
@@ -270,7 +270,7 @@ YMO的聲音是日本作為電子國家的象徵。
 - “Vu Jà Dé”（2018）
 
 在人工智能和流媒體時代，細野再次提出“寧靜”的主題。
-他的作品打破了電子聲音和自然聲音之間的界限，對年輕一代的藝術家產生了深遠的影響。
+他的作品打破了電子聲音和自然聲音之間的界限，對年輕一代的藝術家產生了強烈的影響。
 
 #### 歷史背景
 大流行以來的孤獨和數字化的加速。
@@ -295,11 +295,11 @@ YMO的聲音是日本作為電子國家的象徵。
 
 ---
 
-#### 參考文獻/鏈接
+#### 參考資料/鏈接
 
 - [細野晴臣官方網站](https://hosonoharuomi.jp/)
 - [YMO官方](https://ymo.org/)
 - 書：[“細野100次瀏覽”](https://amzn.to/4gSXIyF)
-- 採訪集：【《細野晴臣和他的時代》（文藝春秋）]（https://amzn.to/4pUbLbv）
+- 採訪集：【《細野晴臣和他的時代》（文藝春秋）】（https://amzn.to/4pUbLbv）
 - 視頻：[“禁止吸煙”（2019，佐渡竹敏導演）](https://amzn.to/4gShjPA)
 

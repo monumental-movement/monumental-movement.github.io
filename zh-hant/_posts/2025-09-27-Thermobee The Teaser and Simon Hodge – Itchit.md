@@ -15,7 +15,7 @@ title: Thermobee、The Teaser 和 Simon Hodge – Itchit
 
 
 Thermobee，預告片，作者：Simon Hodge
-《Itchit》是一首 Hard House/Techno 歌曲，由英國唱片公司 Cut N’Dry Records 於 2000 年發行。
+《Itchit》是一首 Hard House/Techno 歌曲，由英國廠牌 Cut N’Dry Records 於 2000 年發行。
 
 自發行以來，它就在地下音樂界引起了關注，其融合硬室音樂和電子音樂的充滿活力的歌曲至今仍然很受歡迎。
 

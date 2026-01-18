@@ -10,13 +10,13 @@ tags:
 - Techno
 - Experimental
 - 00s
-title: AeoX – How Do You Wannit Cooked EP
+title: AeoX – EP를 어떻게 요리하고 싶나요?
 ---
 
 
-AeoXは、1999年から活動するベルリンのテクノパンクバンド。レーベル Null records や Mental Industriesから多数リリースしている。メンバーのHanno Hinkelbeinは、Bill YoungmanとのデュオFurfriendとしても活動している。
+AeoX는 1999년부터 활동해온 베를린 테크노 펑크 밴드입니다. 그는 Null records 및 Mental Industries 레이블에서 수많은 앨범을 발매했습니다. 멤버 한노 힌켈바인도 빌 영만과 함께 퍼프렌드라는 듀오로 활동하고 있다.
 
-「How Do You Wannit Cooked EP」は、ベルリンを拠点とするCora SchneiderのレーベルMental.Ind.Recordsから2002年にリリースされたTechno／Experimentalトラック。マスタリングはDubplates & Mastering。
+"How Do You Wannit Cooked EP"는 Cora Schneider의 베를린 기반 레이블 Mental.Ind.Records에서 2002년에 발매된 테크노/실험 트랙입니다. 마스터링은 Dubplates & Mastering입니다.
 
 #### 트랙리스트
 ```md

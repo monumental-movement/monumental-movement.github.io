@@ -11,7 +11,7 @@ tags:
 - Techno
 - Acid
 - 90s
-title: 마루 바닥 – 결핵 소생술
+title: 마루바닥 – 결핵 소생술
 ---
 
 

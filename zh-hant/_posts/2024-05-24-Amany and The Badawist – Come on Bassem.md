@@ -11,7 +11,7 @@ tags:
 - Egypt
 - African
 - Lebanon
-title: Amany & The Badawist – 來吧，巴塞姆
+title: Amany & The Badawist – 來吧，Bassem
 ---
 
 

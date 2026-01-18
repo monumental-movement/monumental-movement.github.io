@@ -9,7 +9,7 @@ permalink: /zh-hant/sly-and-the-family-stone-stand/
 tags:
 - Funk
 - Soul
-title: 狡猾的石頭家族 – 立場
+title: 斯萊和斯通家族 – 看台
 ---
 
 
@@ -25,7 +25,7 @@ title: 狡猾的石頭家族 – 立場
 
 這張專輯成為放克音樂演變及其對流行文化影響的象徵。
 
-Sly & the Family Stone 的實驗方法和積極的信息影響了無數的音樂家和觀眾，將他們定位為永恆的藝術家。
+Sly & the Family Stone 的實驗方法和積極的信息影響了無數音樂家和觀眾，將他們定位為永恆的藝術家。
 
 #### 曲目列表
 ```md

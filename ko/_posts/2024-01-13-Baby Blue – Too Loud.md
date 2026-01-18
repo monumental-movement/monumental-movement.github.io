@@ -18,9 +18,9 @@ Baby Blue는 Darren Stokes와 Lyndsey Edwards로 구성된 영국의 댄스 음�
 
 Tin Tin Out이라는 다른 이름으로도 활동하고 있습니다.
 
-B면의 첫 곡은 러브 퍼레이드(Love Parade), 댄스 플래닛(Dance Planet), 트라이벌 개더링(Tribal Gathering) 등 페스티벌과 세계 유명 클럽에서 활발히 활동 중인 트레버 록클리프(Trevor Rockcliffe)의 리믹스이다.
+B면의 첫 번째 곡은 러브 퍼레이드(Love Parade), 댄스 플래닛(Dance Planet), 트라이벌 개더링(Tribal Gathering) 등 페스티벌과 세계 유명 클럽에서 활약 중인 트레버 록클리프(Trevor Rockcliffe)의 리믹스이다.
 
-B면의 두 번째 곡은 Coldplay, Katy Perry, Rihanna, Lady Gaga, Pet Shop Boys, Beyoncé 등을 리믹스한 Dave Aude의 리믹스이며, Bruno Mars가 피처링한 Mark Ronson의 "Uptown Funk"를 리믹스하여 2016년 비클래식 부문 그래미상 최우수 리믹스 녹음 부문을 수상했습니다.
+B면의 두 번째 곡은 콜드플레이(Coldplay), 케이티 페리(Katy Perry), 리한나(Rihanna), 레이디 가가(Lady Gaga), 펫샵 보이즈(Pet Shop Boys), 비욘세(Beyoncé) 등의 아티스트를 리믹스한 데이브 오드(Dave Aude)의 리믹스 곡으로, 브루노 마스(Bruno Mars)가 피쳐링한 마크 론슨(Mark Ronson)의 'Uptown Funk'를 리믹스해 2016년 그래미 비클래식 부문 최우수 리믹스 녹음 부문을 수상했다.
 
 #### 트랙리스트
 ```md

@@ -13,7 +13,7 @@ title: Gigi D'Agostino – 소음 발생기 테마 2000
 ---
 
 
-"Gigi D'Agostino - 노이즈 메이커 테마 2000"은
+"Gigi D'Agostino – 노이즈 메이커 테마 2000"은
 B면에는 94년의 훌륭한 원본이 포함되어 있습니다.
 
 

@@ -16,7 +16,7 @@ title: Lisa Stansfield – 전 세계 지금이 적절한 시기입니다
 
 Lisa Stansfield의 "All Around The World"는 전 세계적으로 히트를 쳤던 영국 R&B 클래식입니다.
 
-B면은 Ninja Tune의 창립자이기도 한 영국 DJ이자 프로덕션 활동인 Coldcut이 프로듀싱했습니다.
+B면은 Ninja Tune의 창립자이기도 한 영국 DJ이자 프로듀싱 행위인 Coldcut이 프로듀싱했습니다.
 
 #### 트랙리스트
 ```md

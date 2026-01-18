@@ -9,13 +9,13 @@ permalink: /ko/bel-amour-bel-amour/
 tags:
 - House
 - 00s
-title: Bel Amour – Bel Amour
+title: 벨 아무르 - 벨 아무르
 ---
 
 
-Bel Amour(ベルアムール)は、Édouard de Tricasse &Jean‑Claude Sindress によるフランス発のエレクトロ／ハウス・デュオ。
+Bel Amour는 Édouard de Tricasse와 Jean-Claude Sindress가 결성한 프랑스 출신의 일렉트로/하우스 듀오입니다.
 
-2001年にリリースされたデビューシングル「Bel Amour」は世界的に大ヒットとなったHouseトラック。このレコードは、Time RecordsのHouse部門Riseからリリースされたイタリア盤。
+2001년 발매된 데뷔 싱글 'Bel Amour'는 전 세계적으로 큰 히트를 쳤던 하우스 트랙이다. 이 음반은 Time Records의 House 부문 Rise에서 발매한 이탈리아어 버전입니다.
 
 
 

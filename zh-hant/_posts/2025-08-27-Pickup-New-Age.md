@@ -199,7 +199,7 @@ B3. Transcendastral Voyage
 ### 森林深處 – 森林深處
 <a href="https://jp.mercari.com/item/m99158480308?afid=6142608987"><img src="../assets/images/Deep%20Forest%20%E2%80%93%20Deep%20Forest.webp"></a>
 
-特點： 法國雙人組合 Deep Forest 於 1992 年發行的專輯。它的特點是混合民族音樂、電子音樂、舞曲節拍和休閒節拍的世界音樂風格。
+特點： 法國雙人組合 Deep Forest 於 1992 年發行的專輯。它的特點是混合了民族音樂、電子音樂、舞曲節拍和休閒節拍的世界音樂風格。
 
 魅力：融合多種民族音樂的聲音，帶你踏上不同文化的旅程。
 

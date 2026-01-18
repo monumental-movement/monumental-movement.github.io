@@ -10,7 +10,7 @@ tags:
 - Pops
 - Funk
 - 7inch
-title: 클라이맥스(Klymaxx) - 남자들 모두 멈춰 / 보고 싶어
+title: 클라이맥스(Klymaxx) – 남자들이 모두 멈춰 / 보고 싶어
 ---
 
 

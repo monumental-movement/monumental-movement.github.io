@@ -41,7 +41,7 @@ color: #fff;
 
 ## 20 世紀 70 年代末：布朗克斯的起源和俱樂部文化的基礎
 
-### 地區/歷史背景
+### 地域/時代背景
 布朗克斯區的年輕人在廢棄的公共場所和社區中心舉辦 DJ 派對。通過重複斷斷續續的節拍，B-Boy/B-Girl 舞蹈得以發展。
 俱樂部和街區派對不僅僅是音樂場所，也是音樂場所。它們是社區團結的象徵。
 
@@ -53,7 +53,7 @@ DJ Kool Herc 和 Afrika Bambaataa 在當地電台和聚會上播放了他們的�
 
 [糖山幫『說唱歌手的喜悅』(1979)](https://amzn.to/4ngQIOx)
 
-[閃電俠與蓋世五俠“訊息”(1982)](https://amzn.to/4nhcotO)
+[閃電俠與蓋世五俠“消息”(1982)](https://amzn.to/4nhcotO)
 
 ### 設備/採樣培養
 隆重推出 Technics SL-1200 轉盤、早期 MPC 型號和鼓機 (Roland TR-808)。從唱片中採樣成為音樂製作的核心，DJ 們建立了一種重複唱片“中斷”部分的方法。
@@ -91,7 +91,7 @@ Public Enemy 和 Eric B. & Rakim 出現，帶有政治和社會信息的說唱�
 
 ### 東海岸與西海岸
 地區緊張局勢影響音樂，The Notorious B.I.G. 之間的衝突就是例證。和2Pac。
-紐約的俱樂部（Tunnel、Limelight）成為說唱大戰和新專輯首映的場所，培育了說唱大戰文化。
+紐約的俱樂部（Tunnel、Limelight）成為說唱對戰和新專輯首映的場所，培育了說唱對戰文化。
 
 ### 南部（亞特蘭大、休斯頓、新奧爾良）
 OutKast 和 UGK 出現並建立了自己獨特的聲音。俱樂部中的磁帶發行支持了地區嘻哈音樂的傳播。
@@ -102,7 +102,7 @@ Dr. Dre 的《The Chronic》（1992）巧妙地使用了採樣，而 G-funk 使�
 
 ### 代表作
 
-**東海岸**：[臭名昭著的 B.I.G. “準備去死”（1994）]（https://amzn.to/3K94fcv）
+**East Coast**: [The Notorious B.I.G.『Ready to Die』(1994)](https://amzn.to/3K94fcv)
 
 **西海岸**：[2Pac“All Eyez on Me”(1996)](https://amzn.to/4261oak)
 
@@ -182,14 +182,14 @@ DAW（Ableton Live、FL Studio）
 ## 混音帶文化的作用
 
 - **DJ Clue、DJ Drama、DJ Screw** 等人的混音帶成為 90 年代及以後從地下音樂到主流音樂的橋樑。
-- **Southern（休斯頓，ATL）** “Screw Tape”和“Gangsta Grillz”形成了一個場景，使發現獨立於唱片公司的藝術家成為可能。
+- **Southern（休斯頓，ATL）** ``Screw Tape'' 和 'Gangsta Grillz'' 形成了這一景象，使發現獨立於唱片公司的藝術家成為可能。
 - 2000年代，Mixtape過渡為“SoundCloud”和“DatPiff”，演變成互聯網時代的一種推廣手段。
 
 ---
 
 ## 不同時代和採樣趨勢
 
-|年 |傑作|抽樣趨勢|
+|年 |傑作 |抽樣趨勢|
 |------|------|----------------|--------------------|----------------|
 | 20 世紀 80 年代 | *全額支付*，*需要數以百萬計的國家* |詹姆斯·布朗，Funk，靈魂採樣濫用時期 |
 | 20 世紀 90 年代 | *慢性病*，*所有人都注視著我* |議會放克音樂、G-Funk |
@@ -228,9 +228,9 @@ DAW（Ableton Live、FL Studio）
 |------|----------|------|
 | 20 世紀 80 年代 |東部（以紐約市為中心）|採樣黃金時代，強調抒情|
 | 20 世紀 90 年代 |西部（洛杉磯、海灣）| G-Funk 巔峰之作，2Pac 對陣 Biggie |
-| 2000 年代 |南部（ATL、休斯頓、邁阿密）| Trap eve, Crunk, and the rise of Screwstyle |
-| 2010 年代 | Trap (South) + Midwest (Chicago Drill, Kanye, Detroit beat) |採樣減少+FL Studio傳播|
-| 2020 年代 | Multipolarization (East, West, South, Midwest) | AI Beat, Sample Regression, Internet Decentralized Culture |
+| 2000 年代 |南部（ATL、休斯頓、邁阿密）| Trap eve、Crunk 和 Screwstyle 的崛起 |
+| 2010 年代 | Trap（南）+中西部（Chicago Drill、Kanye、底特律擊敗）|採樣減少+FL Studio傳播|
+| 2020 年代 |多極化（東、西、南、中西部）| AI節拍、樣本回歸、互聯網去中心化文化 |
 
 ---
 
@@ -443,7 +443,7 @@ Bass : ▂▄▇█▇█▇█▄▂
 
 ## 結論
  
-嘻哈音樂的發展反映了每個地區的文化和社會背景。東海岸、西海岸和南方各有自己獨特的風格，這些風格不僅影響音樂，還影響時尚、語言、社會運動等。隨著新技術和表達方式的出現，嘻哈音樂將不斷發展。
+嘻哈音樂的發展反映了每個地區的文化和社會背景。東海岸、西海岸和南方各有自己獨特的風格，這些風格不僅影響音樂，還影響時尚、語言和社會運動。隨著新技術和表達方式的出現，嘻哈音樂將不斷發展。
 
 ---
 

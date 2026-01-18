@@ -16,7 +16,7 @@ title: 德拉西 – 世外桃源
 
 De'Lacy 是一個 20 世紀 90 年代美國 house 音樂團體。成員包括德拉西·戴維斯、加里·格里芬、格倫·布蘭奇和雷妮·拉西特。 《Hideaway》是德拉西的標誌性歌曲。
 
-A 面混音由伊朗裔美國藝術家 Ali Shirazinia（又名 Dubfire）和 Sharam 的電子二人組 Deep Dish 創作。
+A 面混音由伊朗裔美國藝術家 Ali Shirazinia（也稱為 Dubfire）和 Sharam 的電子二人組 Deep Dish 創作。
 
 #### 曲目列表
 ```md

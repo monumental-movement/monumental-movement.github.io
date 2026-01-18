@@ -93,7 +93,7 @@ AA. Loop Progression
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m37201781569?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37201781569?afid=6142608987){: .button1}
 
 
 #### Youtube

@@ -20,7 +20,7 @@ title: '[칼럼] 호소노 하루오미 - 시대를 초월한 소리와 조용�
 
 **호소노 하루오미**는 반세기 동안 일본 팝 음악을 계속해서 변화시켜 온 음악가입니다.
 1960년대 후반부터 현재에 이르기까지 그의 음악은 '시대를 정의'하기보다는 '시대를 전환'함으로써 독특한 지평을 개척해왔다.
-다양한 문화, 유머, 향수, 기술 등 이 모든 것이 호소노의 사운드에 섞여 있습니다.
+다양한 문화, 유머, 향수, 기술, 이 모든 것이 호소노의 사운드에 섞여 있습니다.
 
 ---
 
@@ -72,7 +72,7 @@ color: #fff;
 더 밴드(The Band), 버팔로 스프링필드(Buffalo Springfield) 등 미국 밴드의 영향을 받았음에도 불구하고 그들은 문학적인 일본어 가사를 전면에 내세웠다.
 
 #### 일화
-녹음 중 수많은 장비 문제로 좌절감을 느낀 호소노는 "소리를 좀 더 잘 녹음할 수 있는 곳을 원한다"고 말했다고 한다.
+녹음 중 수많은 장비 문제로 좌절감을 느낀 호소노는 "소리를 좀 더 잘 녹음할 수 있는 곳을 원한다"고 말한 것으로 전해졌다.
 이후 이는 그가 자신만의 음향적 이상을 추구하는 기반이 됐다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3vGkvlNZS5Y?si=Ri3xftRPb2Awn9EP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -83,9 +83,9 @@ color: #fff;
 
 #### 걸작
 
-- “캐러멜 마마”(1975)
+- <캐러멜 마마>(1975)
   
-포크와 사이키델릭 록의 요소를 융합해 후기 해피엔드와 직결되는 음악성을 보여준다.
+포크, 사이키델릭 록의 요소를 융합해 후기 해피엔드와 직결되는 음악성을 보여준다.
 호소노는 베이스와 키보드에 참여해 즉흥 연주와 편곡 실력을 뽐냈다.
 
 #### 역사적 배경
@@ -95,7 +95,7 @@ color: #fff;
 캠퍼스 내 스튜디오나 친구 집에서 홈 녹음을 합니다. 어쿠스틱과 일렉트릭을 ​​융합해 보았습니다.
 
 #### 일화
-라이브 공연 중에는 관객들이 무대에 올라 즉흥 연주에 참여하는 등 자유로운 분위기가 이어졌다.
+라이브 공연 내내 관객들이 무대에 올라 즉흥 연주에 참여하는 등 자유로운 분위기가 이어졌다.
 이 경험은 나중에 트로피컬 3부작과 YMO의 유머 감각에 대한 작업으로 이어졌습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cL2o0NjDwHc?si=Ux66RTOFn4BIJ7Dw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -108,11 +108,11 @@ color: #fff;
 
 - “틴팬 골목”(1977)
 
-도쿄의 학교 축제와 라이브 음악 공연장에서 연주되는 음악을 중심으로 블루스, R&B, 비틀즈 스타일의 팝을 일본어로 소화합니다.
+도쿄의 학교 축제와 라이브 공연장에서 연주되는 음악을 중심으로 블루스, R&B, 비틀즈 스타일의 팝을 일본어로 소화합니다.
 호소노는 베이스와 작곡을 맡아 초기 도시적 감성을 보여줬다.
 
 #### 역사적 배경
-비틀즈와 롤링스톤스의 영향을 받은 일본의 어반 팝록 초기기.
+비틀즈와 롤링스톤즈의 영향을 받은 일본의 어반 팝록 초기기.
 
 #### 제작 환경
 캠퍼스 내 스튜디오와 소규모 라이브 음악 공연장에서 녹음합니다. 그는 집에서 간단한 녹음도 했으며, 이는 후기 홈레코딩 문화의 선구자가 됐다.
@@ -148,7 +148,7 @@ color: #fff;
 
 #### 일화
 'HOSONO HOUSE' 녹화 중 전원 차단기가 여러 번 작동했습니다.
-호소노는 '전기가 떨어지는 소리도 음악의 일부'라며 웃으며 녹음을 이어갔다고 한다.
+호소노는 "전기가 떨어지는 소리도 음악의 일부"라며 웃으며 녹음을 이어갔다고 한다.
 이 편안한 분위기는 따뜻하고 유기적인 사운드에 반영됩니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fQNPW0GAOsc?si=MwF-Fz9MSF5uHwD0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -166,8 +166,8 @@ YMO(Yellow Magic Orchestra)는 테크노 팝이라는 단어를 전 세계에 �
 리더로서 Hosono는 리듬 머신과 시퀀서를 사용하여 아시아 유머와 미래 지향적인 사운드를 융합했습니다.
 
 #### 역사적 배경
-1980년대 초, 일본은 기술 및 경제적 번영의 정점에 도달했습니다.
-컴퓨터와 비디오게임, 전자악기의 발전이 음악과 융합되던 시대.
+1980년대 초, 일본은 기술 및 경제 성장의 정점에 도달했습니다.
+컴퓨터, 비디오게임, 전자악기의 발달이 음악과 융합되던 시대.
 YMO의 사운드는 일렉트로닉 국가 일본의 상징이었다.
 
 #### 제작 환경
@@ -217,7 +217,7 @@ YMO의 초기 라이브 공연에서는 컴퓨터 오작동으로 인해 노래�
 - "N.D.E." (1995)
 
 애니메이션, 영화, 광고 등 다양한 매체의 음악 작업을 하던 시절이었다.
-'은하철도의 밤'은 미야자와 켄지의 판타지 문학을 소리로 번역한 듯한 섬세한 구성이 빛난다.
+'은하철도의 밤'은 미야자와 겐지의 판타지 문학을 소리로 번역한 듯한 섬세한 구성이 빛난다.
 
 #### 역사적 배경
 버블경제가 터진 뒤 일본의 가치관이 흔들렸다.
@@ -247,7 +247,7 @@ DAT 녹음 및 초기 디지털 믹싱을 실험했습니다. 나는 음악가�
 그들은 디지털 세대의 귀에 '그리운 미래'의 사운드를 전달했습니다.
 
 #### 역사적 배경
-지진과 경기침체 이후 일본사회는 '지역성'과 '정신회귀'를 추구하기 시작했다.
+지진과 경제침체 이후 일본사회는 '지역화'와 '정신회귀'를 추구하기 시작했다.
 호소노는 "향수는 미래를 밝힙니다."라고 말하면서 이러한 경향을 자신의 소리를 통해 구현합니다.
 
 #### 제작 환경
@@ -288,7 +288,7 @@ AI와 스트리밍 시대에 호소노는 다시 한번 '평온'이라는 주제
 
 ### 마지막 장: 소리의 가장자리에 있는 유머와 외로움
 호소노 하루오미의 음악은 언제나 '멈춤'과 '가벼움'으로 가득 차 있다.
-문화의 중심에 있는 것 같으면서도 멀리서 바라보는 거리감이다.
+마치 문화의 중심에 있는 것 같으면서도 멀리서 바라보는 거리감이다.
 음악의 형태가 계속 변하는 시대에도 그는 여전히 '소리의 고요함'을 믿는다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FWSz3J4OZQU?si=ZoThWCGL-zm6Kmkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

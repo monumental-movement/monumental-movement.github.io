@@ -10,13 +10,13 @@ tags:
 - JPop
 - Nostalgic
 - 7inch
-title: 佐田正志 – 長崎洋由
+title: 佐田正史 – 長崎洋由
 ---
 
 
 1982年，《佐田正史 – 長崎佐助曲》上映。
 
-A面編曲 – 渡邊敏之 B面編曲 – 佐田正史
+A面編曲 – 渡邊敏之 B面編曲 – 佐田正志
 
 Side A/B 歌詞和音樂 – Masashi Sada
 

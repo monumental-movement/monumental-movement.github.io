@@ -12,7 +12,7 @@ tags:
 - Tribal
 - Latin
 - 90s
-title: Dan Curtin – New World EP
+title: 丹·科廷 (Dan Curtin) – 新世界 EP
 ---
 
 

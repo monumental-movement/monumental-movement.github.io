@@ -11,11 +11,11 @@ tags:
 - House
 - Hiphop
 - 90s
-title: Faith Evans Feat. Puff Daddy – All Night Long
+title: 페이스 에반스 Feat. 퍼프 대디 – 밤새도록
 ---
 
 
-USのR&B シンガーであり、Notorious B.I.G. (ノートリアスBIG)の妻だったFaith EvansがPuff Daddyとコラボし、1999年にレーベルBad Boy EntertainmentからリリースされたR&B／House。
+미국 R&B 가수이자 Notorious B.I.G.의 아내인 Faith Evans는 Puff Daddy와 협력하여 1999년 Bad Boy Entertainment 레이블에서 R&B/House를 발표했습니다.
 
 #### 트랙리스트
 ```md

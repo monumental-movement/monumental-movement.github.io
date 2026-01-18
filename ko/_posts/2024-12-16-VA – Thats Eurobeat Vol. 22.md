@@ -14,7 +14,7 @@ title: VA – 그게 Eurobeat Vol. 22
 ---
 
 
-Italo-Disco/Hi-NRG/Eurobeat 편집 시리즈의 22번째 작품으로, 1990년 Alfa 레이블에서 출시되었습니다. 일러스트는 오니시 시게나리.
+Italo-Disco/Hi-NRG/Eurobeat 편집 시리즈의 22번째 작품으로, 1990년에 Alfa 레이블로 출시되었습니다. 일러스트는 오니시 시게나리.
 
 #### 트랙리스트
 ```md

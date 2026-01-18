@@ -23,7 +23,7 @@ Side A 是瑞典 trance/progressive DJ 兼製作人 Mike Shiver 的混音作品�
 
 她的作品包括與John of Norman Cooke/Pleased Women合作的《P.A.S.S.I.O.N》、與Above & Beyond合作的《Far From In Love》，以及與荷蘭家庭樂隊Signum合作的《What Ya》。這首歌曲摘自她的硬碟曲目《You Better》，又名《Mount Rushmore Presents the Knack》，這首歌曲作為一位獨唱藝術家與著名製作人一起在排行榜上取得了成功，其中包括《Got 4 Me》。
 
-她與 Angie Brown 一起，在 Freak Power 的熱門專輯 Drive Thru Booty 中擔任多首歌曲的伴唱，包括他們的第二張單曲《Rush》。她繼續與 Freak Power 一起巡演和錄製，
+她與 Angie Brown 一起擔任 Freak Power 熱門專輯 Drive Thru Booty 中多首歌曲的伴唱，其中包括他們的第二張單曲“Rush”。她繼續與 Freak Power 一起巡演並錄製唱片，
 
 她還曾在蘇塞克斯大學和奇切斯特大學任教，她的著名教練校友包括貝絲·勞裡、湯姆·奧德爾和盧克·普里查德。
 

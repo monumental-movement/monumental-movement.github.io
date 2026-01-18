@@ -50,10 +50,10 @@ color: #fff;
 ## 2、法式風情的建立：20世紀90年代末巴黎的情況
 ### ● 背景：浩室與迪斯科的邂逅
 20 世紀 90 年代中期，巴黎俱樂部場景吸收了美國 house 音樂，同時形成了獨特的結構，使迪斯科/靈魂樂樣本脫穎而出。
-雖然受到芝加哥 House 的強烈影響，House 開始作為一種新型的“流行音樂”發揮作用，因為它混合了歐洲特有的“複雜的旋律感覺”。
+雖然芝加哥浩室音樂的影響力很大，但浩室音樂開始通過融入歐洲特有的“複雜的旋律感”而成為一種新型的“流行音樂”。
 
 ### ● 標籤/底座的存在
-- **Roulé（托馬斯·班高特）**
+- **Roulé（托馬斯·班加特）**
 - **Crydamoure（蓋-曼努埃爾·德霍姆-克里斯托）**
 - **來自 Ed Banger、維珍法國航空等機構的大力支持**
 
@@ -94,7 +94,7 @@ Daft Punk 積極地將黑膠噪音和紋理作為他們音樂的一部分，讓�
 **僅發行一首歌曲就創下了全球熱門歌曲**。
 
 特徵：
-- 嘗試 Chaka Khan 的《Fate》中的即興重複段
+- 品嚐 Chaka Khan 的《Fate》中的即興重複段
 - Roule 標籤典型的過濾處理
 - 極其精緻的旋律和迪斯科感覺
 
@@ -144,7 +144,7 @@ Nu迪斯科的特點：
 ---
 
 ## 7. Nu Disco的代表製作人和French Touch的傳承
-### ● 托德·泰耶（挪威）
+### ●托德·泰耶（挪威）
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gHiqPG0526U?si=uMtmiTUfQuyJDj4p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -205,7 +205,7 @@ French Touch 的濾波器掃描依賴於模擬諧波變化。
 - 由於壓縮機壓壞了環路
 - MPC/SP-1200粗採樣率
 
-這些品質已被傳承到 Nu Disco 的質感中。
+這些品質已經傳承到 Nu Disco 的質感中。
 
 ---
 

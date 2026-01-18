@@ -26,7 +26,7 @@ title: 주변 작품 픽업
 
 발매: 2012년 (미국 레이블 Kimochi)
 
-형식: 앨범 200장 한정(바이닐)
+형식: 앨범 200개 한정(바이닐)
 
 특징 : 깊은 그루브와 공간적인 사운드스케이프를 결합한 작품
 
@@ -187,7 +187,7 @@ B2. People From The Sun And The Earth (MKL vs. Soy Sos Dark Ambient Mix)
 
 장르: 앰비언트/미니멀
 
-출시: 2004년 (미니라이즈 라벨)
+출시: 2004년 (미니라이즈 레이블)
 
 형식: 비닐
 
@@ -252,7 +252,7 @@ D4. The End Game
 
 <hr>
 
-### 딥 포레스트 - 딥 포레스트
+### 딥 포레스트 – 딥 포레스트
 <a href="https://jp.mercari.com/item/m99158480308?afid=6142608987"><img src="../assets/images/Deep%20Forest%20%E2%80%93%20Deep%20Forest.webp"></a>
 장르 : 앰비언트/다운템포/뉴에이지
 

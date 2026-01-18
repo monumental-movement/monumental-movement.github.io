@@ -11,11 +11,11 @@ tags:
 - Hiphop
 - Downtempo
 - 00s
-title: Nomak – Calm
+title: 노막 – 차분함
 ---
 
 
-PISMO & Shingo02『Velodrome』、坂本龍一 & Shing02『Rokkasho』などのRemixで知られるNomak (Masashi Kamon)が2007年にリリースしたInstrumental／Jazzy Hip-Hop／Downtempoアルバム。
+PISMO & Shingo02의 "Velodrome"과 Ryuichi Sakamoto & Shing02의 "Rokkasho"를 리믹스한 것으로 유명한 Nomak (Masashi Kamon)가 2007년에 발매한 Instrumental/Jazzy 힙합/다운템포 앨범입니다.
 
 #### 트랙리스트
 ```md

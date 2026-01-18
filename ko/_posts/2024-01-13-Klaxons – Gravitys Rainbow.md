@@ -9,7 +9,7 @@ permalink: /ko/klaxons-gravitys-rainbow/
 tags:
 - Electro
 - Pops
-title: Klaxons - 중력의 무지개
+title: Klaxons – 중력의 무지개
 ---
 
 
@@ -19,7 +19,7 @@ Side A의 두 번째 노래는 호주 일렉트로 팝 밴드 Van She의 리믹�
 
 B면의 첫 번째 노래는 Nightmoves라고도 알려진 Matt Waites의 리믹스입니다.
 
-B사이드 2번 트랙은 영국 인디 록/신스 팝 듀오 투 마이 보이(To My Boy)의 리믹스 곡이다.
+B사이드 2번 트랙은 영국 인디록/신스팝 듀오 투 마이 보이(To My Boy)의 리믹스 곡이다.
 
 #### 트랙리스트
 ```md

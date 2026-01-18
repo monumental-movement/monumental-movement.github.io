@@ -9,12 +9,12 @@ permalink: /ko/various-o-samba/
 tags:
 - Samba
 - Latin
-title: Various – O Samba
+title: 다양 – 오 삼바
 ---
 
 
-「Various – O Samba」は、
-1991年にリリースされたDavid Byrneによってコンパイルされたコンピレーションのカセッテテープです。
+'Various - O Samba'는
+1991년에 발매된 David Byrne이 편집한 편집 카세트 테이프입니다.
 
 #### 트랙리스트
 ```md

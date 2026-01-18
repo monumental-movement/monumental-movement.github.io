@@ -9,7 +9,7 @@ permalink: /ko/johannes-heil-paranoid-dancer/
 tags:
 - Techno
 - Minimal Electro
-title: 요하네스 하일 – 편집증 댄서
+title: 요하네스 하일 - 편집증 댄서
 ---
 
 

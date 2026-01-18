@@ -19,7 +19,7 @@ DJ Breeze（馬克·布雷茲）是一位在 20 世紀 90 年代和 2000 年代�
 
 Side A 是英國 DJ Brisk 的混音版。
 
-《Jump A Little High》採樣了 Poor Pocket Productions 的《Kick Your Legs In The Air》中的人聲以及 Peech Boys 的《Don't Make Me Wait (Special Version)》的音效。
+《Jump A Little High》採樣了 Poor Pocket Productions 的《Kick Your Legs In The Air》中的人聲以及 Peech Boys 的《Don’t Make Me Wait (Special Version)》的音效。
 
 #### 曲目列表
 ```md

@@ -11,7 +11,7 @@ tags:
 - Hard House
 - House
 - 00s
-title: 현실을 극복하세요 - 푹 빠져보세요
+title: 현실을 이길 – 푹 빠져보세요
 ---
 
 

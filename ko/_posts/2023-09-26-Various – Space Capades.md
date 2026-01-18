@@ -15,17 +15,17 @@ title: 다양한 – 우주 퍼레이드
 
 트랙 1은 1967년 4월 12일에 녹음되었습니다. 앨범 "Holiday For Strings"에 수록되어 있습니다.
 트랙 2가 녹음되었습니다. c. 1960년 · 앨범 "The Magic Beat!"에서
-트랙 3은 1946년 5월 8일에 녹음되었습니다. 앨범 "Music Out Of The Moon"에 수록되어 있습니다.
+트랙 3은 1946년 5월 8일에 녹음되었습니다. · 앨범 "Music Out Of The Moon"에 수록되어 있습니다.
 트랙 4가 녹음되었습니다. c. 1956년 · 앨범 "Power House" 중에서
 트랙 5는 1960년 6월 23일에 녹음되었습니다. · "Drums And More Drums" 앨범에 수록됨
 트랙 6은 1961년 10월 17일에 녹음되었습니다. · 앨범 "Sensational!"에 수록됨
-트랙 7은 1951년 3월 6일에 녹음되었습니다. · "The Voices Of Walter Schumann" 앨범에 수록됨
+트랙 7은 1951년 3월 6일 녹음되었습니다. · "The Voices Of Walter Schumann" 앨범에 수록됨
 트랙 8은 1962년 7월 16일에 녹음되었습니다. · 앨범 "Zounds! What Sounds!"에 수록되어 있음
-트랙 9(파트 I)는 1953년 11월 6일에 녹음되었습니다. · Capitol Records 싱글에서
+1953년 11월 6일 녹음된 트랙 9(파트 I) · Capitol Records 싱글에서
 1961년 5월 2일 녹음된 트랙 9(파트 II) · "Staged For Stereo - 하이라이트" 앨범에 수록됨
 트랙 10은 1960년 3월 23일 녹음되었습니다. · "Accent On Bamboo" 앨범에 수록됨
 트랙 11은 1959년 3월 23일에 녹음되었습니다. · "Les Baxter's Wild Guitars" 앨범에 수록됨
-트랙 12는 1949년 8월 4일에 녹음되었습니다. · 앨범 "Music For Piece Of Mind"에 수록되어 있음
+트랙 12는 1949년 8월 4일에 녹음되었습니다. · "Music For Piece Of Mind" 앨범에 수록됨
 트랙 13이 녹음되었습니다. c. 1959년 · "Felix Slatkin이 환상적인 타악기를 지휘합니다!"라는 앨범에서
 트랙 14가 녹음되었습니다. c. 1963년 · 앨범 "Organ Spectacular!"에서
 트랙 15는 1960년 8월 10일에 녹음되었습니다. · "Mr. Percussion" 앨범에 수록됨

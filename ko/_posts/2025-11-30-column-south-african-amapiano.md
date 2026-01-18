@@ -43,7 +43,7 @@ color: #fff;
 
 ### 음악 장르로서의 배경
 
-Amapiano는 다음 장르의 영향을 받습니다.
+Amapiano는 다음 장르의 영향을 받았습니다.
 
 * **Kwaito**: 1990년대 남아프리카 도시 지역에서 유행했던 댄스/하우스 음악
 * **Gqom**: 더반에서 시작된 클럽 음악
@@ -83,7 +83,7 @@ graph LR
 
 ### 지리 및 시간
 
-Amapiano의 탄생지는 남아프리카의 **Gauteng**입니다. 특히 중요한 것은 **요하네스버그**와 **프리토리아** 타운십입니다.
+Amapiano의 탄생지는 남아프리카의 Gauteng입니다. 특히 중요한 것은 **요하네스버그**와 **프리토리아** 타운십입니다.
 
 복수의 소식통에 따르면 아마피아노에 대한 실험은 2012년쯤부터 시작됐고, 이후 장르로서의 통일된 명칭인 '아마피아노'가 확립됐다.
 
@@ -168,7 +168,7 @@ graph LR
 
 * **Kabza De Small “나는 Amapiano의 왕입니다: Sweet & Dust”** (2020년 6월)
 
-* 장르적 완성도를 보여주는 앨범.
+* 장르적 성숙도를 보여주는 앨범.
 * 동아리뿐만 아니라 앨범 작업으로도 즐길 수 있는 작곡
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FnUpA0VsKRo?si=Q_xPDYh1HwCKRzFh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -252,7 +252,7 @@ graph TD
 ### 미래의 가능성
 
 *남아프리카공화국뿐만 아니라 아프리카 전역과 전 세계적으로 발전하고 있습니다.
-* 스트리밍, 디지털 유통, SNS 확산 등으로 추가 성장 기대
+* 스트리밍, 디지털 유통, SNS 확산으로 추가 성장 기대
 
 ---
 

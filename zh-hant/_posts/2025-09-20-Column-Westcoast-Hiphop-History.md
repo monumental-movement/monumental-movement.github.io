@@ -40,7 +40,7 @@ color: #fff;
 
 ## 1970 年代至 1980 年代：起源和早期創新
 
-* **代表製作人**：Egyptian Lover、早期Dr. Dre（世界級Wreckin’ Cru時期）
+* **代表製作人**：Egyptian Lover、早期Dr. Dre（世界級Wreckin’ Cru時代）
 * **主要唱片公司**：Priority Records、Ruthless Records（已故）
 * **文化背景**：洛杉磯的街道與黑幫社會（Crips、Bloods）之間有著緊密的聯繫，一種強調現實主義的表達方式由此誕生。
 * **視頻/時尚**：主要是低成本MV。 Kangol、阿迪達斯、本土運動鞋是基本款式。
@@ -78,7 +78,7 @@ color: #fff;
 ## 2000年代：獨立和地下復興
 
 * **代表製作人**：Madlib、Daz Dillinger、Battlecat
-* **主要レーベル**：Stones Throw、Aftermath
+* **主要標籤**：Stones Throw、Aftermath
 * **文化背景**：主流 G-Funk 正在衰落，Project Blowed 和 Freestyle Fellowship 等洛杉磯地下樂隊正在受到關注。灣區 Hyphy 運動也發生了。
 * **視頻/時尚**：滑板、塗鴉、爵士俱樂部般的視覺表現方式不斷增多，Supreme、BAPE等街頭品牌越來越受歡迎。
 
@@ -175,7 +175,7 @@ flowchart TD
 
 ## 概括
 
-西海岸嘻哈誕生於 20 世紀 70 年代末洛杉磯的街頭文化，經過 80 年代和 90 年代黑幫說唱和 G-Funk 的興起，逐漸成長為全球音樂潮流。
+西海岸嘻哈誕生於 20 世紀 70 年代末洛杉磯的街頭文化，並通過 80 年代和 90 年代黑幫說唱和 G-Funk 的興起，成長為全球音樂潮流。
 低成本音樂視頻、獨特的時尚風格以及與 Lowrider 文化的聯繫創造了西海岸的真實表達。
 
 自 2000 年代以來，隨著 Madlib 和 The Game 等獨立地下樂隊的成功，多元化不斷擴大。此外，肯德里克·拉馬爾（Kendrick Lamar）等充分利用SNS和互聯網的具有全球影響力的藝術家也出現了，他們的歌曲和包含有意識信息的視覺表達正在形成西海岸嘻哈的新趨勢。
@@ -187,6 +187,6 @@ flowchart TD
 
 ### 相關專欄
 
-🔗 [[專欄]東海岸嘻哈概述——從布朗克斯到布魯克林和世界”](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)
+🔗 [[專欄]東海岸嘻哈歷史——從布朗克斯到布魯克林和世界”](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)
 
 🔗 [[專欄]美國嘻哈歷史：包括地區、俱樂部、媒體和設備的整體圖景](https://monumental-movement.jp/Column-Hiphop-History)

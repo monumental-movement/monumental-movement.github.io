@@ -9,7 +9,7 @@ permalink: /zh-hant/tone-theory-limbo-of-vanished-possibilities/
 tags:
 - Techno
 - Deep House
-title: 語氣理論——消失的可能性的地獄邊境
+title: 語氣理論——消失的可能性的地獄邊緣
 ---
 
 

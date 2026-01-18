@@ -17,7 +17,7 @@ Nomad 是來自 90 年代的英國 house 二人組。
 
 《(I Wanna Give You) Devotion》由 Capitol Records 於 1991 年發行，是 Nomad 的標誌性歌曲，風靡全球。它被認為是90年代舞曲音樂的讚歌之一，也被稱為英國著名製作人史蒂夫·麥克的第一首作品。
 
-B1 是英國著名 DJ Dave Lee (Joey Negro) 的混音版。
+B1 是英國著名 DJ Dave Lee (Joey Negro) 的混音作品。
 B2 是 House DJ 和 Radio DJ Paul Anderson 的混音作品，他影響了早期英國 house 音樂。
 
 #### 曲目列表

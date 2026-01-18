@@ -103,7 +103,7 @@ Rhino的努力代表著從“完美繁殖”到“誠實繁殖”的轉變。
 
 ## 第5章Reelism 2025：新模擬文化的誕生
 捲到卷目前正在進行安靜的更新。
-Recording The Masters 和 ATR Magnetics 等公司已重新開始磁帶生產。
+Recording The Masters 和 ATR Magnetics 等公司已恢復磁帶生產；
 年輕的工程師和藝術家正在重建“Reel 文化”。
 
 在環境音樂和實驗音樂領域，
@@ -136,7 +136,7 @@ Reel 的有限時間將幫助您恢復專注於聆聽的能力。
 Reel-to-reel正試圖恢復其作為“材料”的記憶。
 
 Rhino High Fidelity 的重新發行只是像徵性的第一步。
-當聲音再次具有重力時，我們就會記住“聆聽”這一行為的意義。
+當聲音**再次具有重力**時，我們就會記住“聆聽”這一行為的意義。
 Reel再次轉動，記錄未來。
 
 ---
@@ -164,7 +164,7 @@ flowchart TD
 【犀牛銷售鏈接-RHINO HIGH FIDELITY】(https://store.rhino.com/en/rhino-store/special-edition-shops/rhino-high-fidelity)
 
 |藝術家 |標題 |年份|鏈接 |
-| :----- | :----- | :--: | :-------------------------------------------------- |
+| :-----| :-----| :--: | :-------------------------------------------------- |
 |霸王龍 |電動戰士| 1971 | [亞馬遜](https://amzn.to/4nMX4Wg) |
 |是的 |是的專輯| 1971 | [亞馬遜](https://amzn.to/4mZJxt9) |
 

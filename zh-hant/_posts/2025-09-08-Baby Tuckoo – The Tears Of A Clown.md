@@ -10,7 +10,7 @@ tags:
 - Hard Rock
 - Heavy Metal
 - 80s
-title: 塔谷寶寶——小丑的眼淚
+title: 布穀寶寶——小丑的眼淚
 ---
 
 

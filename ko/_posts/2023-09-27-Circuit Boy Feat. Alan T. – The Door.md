@@ -8,11 +8,11 @@ layout: post
 permalink: /ko/circuit-boy-feat-alan-t-the-door/
 tags:
 - Techno
-title: Circuit Boy Feat. Alan T. – The Door
+title: 서킷보이 Feat. 앨런 T. – 더 도어
 ---
 
 
-2001年にドイツのレーベルFleshからリリースされたJay Winborn & Mike Mucciによるユニット「Circuit Boy」によるテクノな１枚。
+2001년 독일 레이블 Flesh에서 발매된 Jay Winborn과 Mike Mucci의 유닛 "Circuit Boy"의 테크노 앨범입니다.
 
 #### 트랙리스트
 ```md

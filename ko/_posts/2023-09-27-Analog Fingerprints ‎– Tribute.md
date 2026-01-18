@@ -13,7 +13,7 @@ title: 아날로그 지문 – 추모
 ---
 
 
-Analog Fingerprints의 "Tribute"는 A면에 격찬적인 분위기를 더한 울퉁불퉁한 일렉트로 하우스 트랙입니다. B1과 B2는 매우 미니멀한 트랙이다.
+Analog Fingerprints의 "Tribute"는 A면에 격찬적인 분위기를 더한 울퉁불퉁한 일렉트로 하우스 트랙입니다. B1과 B2는 아주 미니멀한 트랙이다.
 
 Analog Fingerprints의 본명은 Marco Passarani입니다.
 

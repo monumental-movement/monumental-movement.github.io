@@ -156,7 +156,7 @@ B2. A C Tractor
 ### 冷靜——來自太陽和地球的人們
 <a href="https://jp.mercari.com/item/m88603722096?afid=6142608987"><img src="../assets/images/Calm%20%E2%80%93%20People%20From%20The%20Sun%20And%20The%20Earth.webp"></a>
 
-類型： 環境音樂 / 巴利阿里群島音樂
+類型： 氛圍音樂 / 巴利阿里群島音樂
 
 發佈時間：2023 年 10 月
 

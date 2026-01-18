@@ -49,7 +49,7 @@ color: #fff;
 
 #### 2004년 '10대 원칙'과 그 영향
 
-조직이 발전함에 따라 2004년 래리 하비(Larry Harvey)가 제안한 '10가지 원칙'(급진적 포용, 선물, 탈상품화 등)은 커뮤니티의 가치를 정리하고 행사에 문화적 틀을 제공했습니다. 이것이 버닝맨의 '이념적 핵심'이며 전 세계 지역화폐로 확산됐다.
+조직이 발전함에 따라 2004년 래리 하비(Larry Harvey)가 제안한 '10대 원칙'(급진적 포용, 선물, 탈상품화 등)은 커뮤니티의 가치를 정리하고 행사에 문화적 틀을 제공했다. 이것이 버닝맨의 '이념적 핵심'이며 전 세계 지역화폐로 확산됐다.
 
 ---
 
@@ -170,7 +170,7 @@ flowchart TD
 
 1996년은 Burning Man이 "축제"에서 공동체 실험 도시로의 변화를 가속화한 해였습니다.
 
-'경험 자체에서 가치를 찾는다'는 가치관이 참가자들에게 스며들어 이후 대규모 예술 작품과 테마형 도시의 형성을 뒷받침했다.
+'경험 자체에서 가치를 찾는다'는 가치관이 참가자들에게 스며들어 이후의 대규모 예술 작품과 테마 도시의 형성을 뒷받침했다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vlZZ6RzrYtk?si=kATDPw7-4LoK8r_b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -180,7 +180,7 @@ flowchart TD
 
 1997년은 버닝맨의 자연, 생명, 재생이라는 상징성이 처음으로 중심 주제가 된 해이다.
 
-이후의 테마(2004년 Vault of Heaven, 2012년 Fertility 2.0 등)로 계승되어 온 '생명과 창의성의 축하'의 원형입니다.
+이후의 주제(2004년 Vault of Heaven, 2012년 Fertility 2.0 등)로 계승되어 온 "생명과 창의성의 축하"의 원형입니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ztfr8tCtgKU?si=FvHFqF32tTShOAF2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -188,7 +188,7 @@ flowchart TD
 
 #### 1998: 모호한 존재
 
-신비한 존재와 우주와 의식의 모호함을 탐구하는 테마입니다. 참여형 공중부양이나 빛을 활용한 인터랙티브 작품이 돋보였다.
+신비로운 존재와 우주와 의식의 모호함을 탐구하는 테마입니다. 참여형 공중부양이나 빛을 활용한 인터랙티브 작품이 돋보였다.
 
 예를 들어 '30피트 발광 플로트 '네뷸러스 엔터티''라는 작품이 있는 것으로 전해졌다.
 
@@ -248,7 +248,7 @@ flowchart TD
 
 2005년: 프시케
 
-心性(씬씽)/영적 세계를 주제로 꿈, 무의식, 성찰을 다룬 작품이 많이 등장했다.
+心性(씬씽)/영적 세계를 주제로 꿈, 무의식, 성찰 등을 다룬 작품이 많이 등장했다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NTnrAeN8yYY?si=8B3V3PS82FebVBJh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -264,7 +264,7 @@ flowchart TD
 
 자연과 문명의 관계를 재고하는 테마입니다. "그린 맨(Green Man)"(식물과 자연적으로 발생하는 식물을 의인화한 인물)을 모티브로 한 구성입니다.
 
-그러나 그해 거대 석유 굴착 장치를 모방한 그의 불타오르는 예술 'Crude Awakening'이 논란을 불러일으키며 비판을 받았다.
+그러나 그해 거대한 석유 굴착 장치를 모방한 그의 불타는 예술 'Crude Awakening'은 논란을 불러일으키고 비판을 받았다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dyU2Wjrw3Do?si=C0LD82S702ZyNlGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -272,7 +272,7 @@ flowchart TD
 
 #### 2008: 아메리칸 드림
 
-아메리칸 드림/소비자 사회에 대한 질문. 소비주의, 신화, 사회 구조를 주제로 한 예술 작품이 많이 있습니다.
+아메리칸 드림/소비사회에 대한 질문. 소비주의, 신화, 사회 구조를 주제로 한 예술 작품이 많이 있습니다.
 
 ---
 
@@ -314,7 +314,7 @@ flowchart TD
 
 #### 2014: 캐러밴서리
 
-모티브는 캐러밴세라이(캐러밴세라이/교역소)입니다. 작품은 사람과 물건의 이동, 무역, 여행과 정류장, 문화교류 등을 주제로 구성됐다.
+카라반세라이(캐러밴세라이/교역소)가 모티브입니다. 작품은 사람과 물건의 이동, 무역, 여행과 정류장, 문화교류 등을 주제로 구성됐다.
 
 ---
 
@@ -392,7 +392,7 @@ flowchart TD
 
 #### 2025: 내일 오늘
 
-가까운 미래, 미래의 발명, 사회적 계획에 중점을 둡니다. '내일을 오늘로'를 구현하는 아트, 프로토타이핑, 미래적인 대화 공간을 유도하는 디자인.
+가까운 미래, 미래의 발명, 사회적 개념에 중점을 둡니다. '내일을 오늘로'를 구현하는 아트, 프로토타이핑, 미래적인 대화 공간을 유도하는 디자인.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5yrIwJo-RZ0?si=PF7ug6sEAIFeT2i1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -404,13 +404,13 @@ flowchart TD
 
 성전(기도의 장소)과 사람 자체는 종종 주제에 대한 반응으로 설계되며, 주제와는 독립적이지만 매년 재구성되는 요소를 사용합니다.
 
-또한, 테마는 모든 캠프/작품에 반드시 강제적으로 적용되는 것은 아니며, 오히려 '제안적 틀'로서 기능한다.
+또한, 테마는 모든 캠프/작품에 반드시 강제적으로 적용되는 것은 아니며, 오히려 '제안적 틀'로 기능한다.
 
 ---
 
 ### 결론: 사막에서의 미래도시 실험
 
-버닝맨은 인페르노(1995) → 탈상품화(1996) → 비옥함(1997) → 천국의 금고(2004) → 2010~2025년 테마를 거쳐 영성, 참여예술, 탈상업화, 삶의 표현이 융합된 현대문화 실험도시이다.
+버닝맨은 인페르노(1995) → 탈상품화(1996) → 비옥함(1997) → 천상의 볼트(2004) → 2010~2025년 테마를 거쳐 영성, 참여예술, 탈상업화, 삶의 표현이 융합된 현대문화 실험도시이다.
 
 매년 바뀌는 주제와 대규모 작품은 참여자들이 자신의 경험을 통해 자신의 가치관과 사회적 관계에 대해 질문하는 장치로 기능한다. 사막에 건설된 덧없는 도시는 개인의 기억 속에 각인되어 사회, 문화, 창의성에 지속적인 영향을 미치고 있습니다.
 

@@ -14,7 +14,7 @@ title: Todh Teri – 2020 年 Indernet 現場直播 / 科隆
 ---
 
 
-在 Masala Movement 主辦的活動“INDERNET 2020”中，巴利阿里群島的後起之秀和神秘製作人 Todh Teri 表演的 DJ 音源，他繼續發布寶萊塢迪斯科剪輯《Deep in India》等傑作。
+在 Masala Movement 主辦的活動“INDERNET 2020”中，巴利阿里群島的後起之秀和神秘製作人 Todh Teri 表演的 DJ 音源，他不斷發布寶萊塢迪斯科剪輯《Deep in India》等傑作。
 
 #### 曲目列表
 ```md

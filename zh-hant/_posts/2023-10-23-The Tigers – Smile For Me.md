@@ -14,7 +14,7 @@ title: 老虎隊——為我微笑
 ---
 
 
-《Smile For Me》是一首由比吉斯樂隊的巴里·吉布和莫里斯·吉布創作和創作的歌曲。
+《Smile For Me》是一首由 Bee Gees 樂隊的巴里·吉布 (Barry Gibb) 和莫里斯·吉布 (Maurice Gibb) 創作並創作的歌曲。
 
 #### 曲目列表
 ```md

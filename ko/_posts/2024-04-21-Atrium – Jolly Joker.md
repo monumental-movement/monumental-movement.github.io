@@ -10,7 +10,7 @@ tags:
 - Euro
 - Hi NRG
 - 90s
-title: 아트리움 – 졸리 조커
+title: 아트리움 - 졸리 조커
 ---
 
 

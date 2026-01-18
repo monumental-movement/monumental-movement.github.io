@@ -17,7 +17,7 @@ title: Ben Westbeech – 인생 최고의 해를 맞이한 것을 환영합니�
 
 Ben Westbeech는 영국 출신의 DJ이자 프로듀서입니다. KON(Christian Taylo) The Vision과의 협업 및 Breach라고도 합니다.
 
-Welcome To The Best Years Of Your Life는 Gilles Peterson의 영국 레이블 Brownswood Recordings에서 2007년에 발매된 Ben Westbeech의 데뷔 앨범입니다.
+Welcome To The Best Years Of Your Life는 Gilles Peterson의 영국 레이블 Brownswood Recordings에서 2007년 발매된 Ben Westbeech의 데뷔 앨범입니다.
 
 #### 트랙리스트
 ```md

@@ -10,7 +10,7 @@ tags:
 - Progressive House
 - House
 - 00s
-title: 하멜 & 블랙워치 – Discotek
+title: 하멜 & 블랙워치 - Discotek
 ---
 
 

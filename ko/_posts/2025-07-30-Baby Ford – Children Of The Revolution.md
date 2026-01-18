@@ -9,7 +9,7 @@ permalink: /ko/baby-ford-children-of-the-revolution/
 tags:
 - House
 - 80s
-title: 베이비 포드 – 혁명의 아이들
+title: 베이비 포드 - 혁명의 아이들
 ---
 
 

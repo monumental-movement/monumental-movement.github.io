@@ -13,7 +13,7 @@ title: 존슨 형제 – Kick It To The Curb
 ---
 
 
-브라더스 존슨(Brothers Johnson)은 미국의 소울/펑크/재즈/디스코 밴드입니다. 1975년 캘리포니아주 로스앤젤레스에서 결성된 이 그룹은 조지 존슨(George Johnson)과 루이스 존슨(Louis Johnson) 형제가 이끌고 있습니다. 초기 회원에는 그의 사촌 Alex Ware가 포함되었습니다.
+브라더스 존슨(Brothers Johnson)은 미국의 소울/펑크/재즈/디스코 밴드입니다. 1975년 캘리포니아 로스앤젤레스에서 결성된 이 그룹은 조지 존슨(George Johnson)과 루이스 존슨(Louis Johnson) 형제가 이끌고 있습니다. 초기 회원에는 그의 사촌 Alex Ware가 포함되었습니다.
 
 두 사람은 프로듀서 Quincy Jones에 의해 발견되기 전에 Bobby Womack 및 Billy Preston과 같은 백킹 뮤지션으로 경력을 시작했습니다.
 

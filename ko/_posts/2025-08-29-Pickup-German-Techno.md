@@ -23,7 +23,7 @@ title: 독일 테크노 작품 따기
 <a href="https://jp.mercari.com/item/m32845023734?afid=6142608987"><img src="../assets/images/Tresor%20Compilation%20Vol.%207.webp"></a>
 
 
-매력 포인트: Sven Väth, Maurizio, Ben Sims, James Ruskin, Pacou 등 테크노계 유명 인사들의 고급스러운 트랙을 포함하는 유명한 독일 레이블 Tresor의 컴필레이션입니다. 독일 베를린을 상징하는 하드하고 미니멀하며 혁신적인 테크노의 매력을 마음껏 경험할 수 있는 작품이다.
+매력 포인트: Sven Väth, Maurizio, Ben Sims, James Ruskin, Pacou 등 테크노계 유명 인사들의 고급스러운 트랙을 포함하는 유명한 독일 레이블 Tresor의 컴필레이션입니다. 독일 베를린을 상징하는 하드하고 미니멀하며 혁신적인 테크노의 매력을 마음껏 경험할 수 있는 작품입니다.
 
 
 #### 트랙리스트
@@ -83,7 +83,7 @@ B. Souls At Zero (Sven Väth Remix)
 <a href="https://jp.mercari.com/item/m39474275698?afid=6142608987"><img src="../assets/images/Cygnus%20X%20%E2%80%93%20The%20Orange%20Theme%20(The%20Remixes).webp"></a>
 
 
-매력 포인트: 독일 유닛 Cygnus X의 에너제틱하고 경쾌한 트랜스 테크노 명작 'The Orange Theme'의 리믹스 앨범. Moonman, Bervoets & De Goeij, Mark Van Dale with Enrico 등의 다양한 리믹스가 수록되어 있어 원곡의 본질을 담아낸 클럽 친화적인 편곡을 즐길 수 있습니다.
+매력 포인트: 독일 유닛 Cygnus X의 에너제틱하고 경쾌한 트랜스 테크노 명곡 "The Orange Theme"의 리믹스. Moonman, Bervoets & De Goeij, Mark Van Dale with Enrico 등의 다양한 리믹스가 포함되어 있어 원곡의 본질을 담은 클럽 친화적인 편곡을 즐길 수 있습니다.
 
 
 #### 트랙리스트
@@ -205,7 +205,7 @@ B2. Get On Up!
 <a href="https://jp.mercari.com/item/m77843863379?afid=6142608987"><img src="../assets/images/Bazz-Dee%20and%20Waldhaus%20Weichentechnikk%20%E2%80%93%20Brachial%202004%2004.webp"></a>
 
 
-매력 포인트: KISS의 'I Was Made For Loving You'를 과감하게 샘플링한 트랙을 비롯해 발트하우스(Waldhaus)와 Bazz-Dee의 인더스트리얼적 풍미가 강한 하드 테크노. 제목에서 알 수 있듯이 '상완'(급진적이고 투박한) 스타일은 팬들에게 거부할 수 없는 스타일이다.
+매력 포인트 : KISS의 'I Was Made For Loving You'를 과감하게 샘플링한 트랙을 비롯해 Waldhaus와 Bazz-Dee의 인더스트리얼 풍미가 강한 하드 테크노. 제목에서 알 수 있듯이 '상완'(급진적이고 투박한) 스타일은 팬들에게 거부할 수 없는 스타일이다.
 
 
 #### 트랙리스트
@@ -232,7 +232,7 @@ A2. Bazz-Dee &amp; Weichentechnikk – Samurai Pizza Cats
 
 
 
-매력포인트 : 요하네스 하일의 작품으로 어둡고 드라마틱한 연출이 특징이다. 깊은 비트와 사이키델릭한 접근 방식을 갖춘 미래 지향적인 테크노 경험입니다. 침묵과 폭발을 오가는 스토리가 인상적이다.
+매력 포인트 : 요하네스 하일의 작품으로 어둡고 드라마틱한 연출이 특징이다. 깊은 비트와 사이키델릭한 접근 방식으로 미래 지향적인 테크노 경험을 선사하는 작품입니다. 침묵과 폭발을 오가는 스토리가 인상적이다.
 
 
 #### 트랙리스트

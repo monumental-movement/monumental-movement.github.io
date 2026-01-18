@@ -10,15 +10,15 @@ tags:
 - Dubstep
 - Industrial
 - 00s
-title: Distance – Night Vision Traffic (Remixes)
+title: 거리 – 야간 투시경 교통(리믹스)
 ---
 
 
-レーベルPlanet Muから2009年にリリースされた、ダブステップのオリジネーターDJ Distance(Greg Sanders)によるDubstepトラックのremix。
+2009년 Planet Mu 레이블로 발매된 덥스텝 창시자 DJ Distance(Greg Sanders)의 덥스텝 트랙 리믹스입니다.
 
-A面は、ダブステップシーンの初期から活躍するUKのプロデューサーSkream（Oliver Dene Jonesオリバー・ディーン・ジョーンズ ）によるremix。
+Side A는 덥스텝 씬 초창기부터 활발히 활동해온 영국 출신 프로듀서 Skream(Oliver Dene Jones)의 리믹스이다.
 
-B面は、日本のダブステップミュージシャン/DJ/プロデューサーGoth-Trad（ゴス・トラッド）ことTakeaki Maruyamaによるremix。
+B면은 Goth-Trad라고도 알려진 일본의 덥스텝 뮤지션/DJ/프로듀서 Takeaki Maruyama의 리믹스입니다.
 
 #### 트랙리스트
 ```md

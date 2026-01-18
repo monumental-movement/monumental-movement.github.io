@@ -10,7 +10,7 @@ tags:
 - JPop
 - Nostalgic
 - 7inch
-title: 사다 마사시 - 나가사키 요크
+title: 사다 마사시 - 나가사키 요요쿠
 ---
 
 

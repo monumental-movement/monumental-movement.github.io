@@ -54,7 +54,7 @@ B2. Cotton Eye Joe (Overworked Mix)
 
 類型： 90 年代歐元/歐洲節拍
 
-收錄歌曲：《Feel the Heat of the Night》、《I Got to Give It Up》等1994年發行的德國歐洲舞曲傑作
+收錄歌曲：《Feel the Heat of the Night》、《I Got to Give It Up》等1994年發行的德國歐洲舞曲代表作
 
 #### 曲目列表
 ```md

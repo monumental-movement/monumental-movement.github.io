@@ -12,7 +12,7 @@ title: Dubstar – 수치스러운
 ---
 
 
-영국 밴드 Dubstar가 1995년에 발매한 앨범이다. 그들의 데뷔 앨범으로, EMI의 자회사인 Food Records에서 1995년 10월 발매했다.
+영국 밴드 Dubstar가 1995년에 발매한 앨범이다. EMI의 자회사인 Food Records가 1995년 10월에 발매한 데뷔 앨범이다.
 
 앨범에는 두 개의 커버 곡이 포함되어 있습니다. 하나는 Brick Supply의 1994년 EP "Somebody's Intermezzo"에 원래 녹음된 "Not So Manic Now"입니다. 다른 하나는 Billy Bragg가 1984년 앨범 "Brewing Up with Billy Bragg"에 처음 녹음한 노래인 "St. Swithin's Day"입니다.
 

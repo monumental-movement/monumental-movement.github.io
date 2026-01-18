@@ -9,19 +9,19 @@ permalink: /ko/jark-prongo-rocket-base/
 tags:
 - House
 - Techno
-title: Jark Prongo – Rocket Base
+title: Jark Prongo – 로켓 기지
 ---
 
 
-オランダのハウスとテクノに取り組むプロデューサーデュオ。Jark Prongo（ジャーク・プロンゴ）は、ガストン・スティーンキスト（アムステルダム）とレネ・テル・ホルスト（ハールレム）の2人からなります。
+네덜란드 하우스와 테크노를 작업하는 프로듀서 듀오. Jark Prongo는 Gaston Steenquist(암스테르담)와 Rene ter Horst(하를렘)로 구성되어 있습니다.
 
-また、DJ Zki & DobreおよびRené Et Gastonとしても知られており、1991年に共同作業を始めました。
+DJ Zki & Dobre와 René Et Gaston으로도 알려진 그들은 1991년에 함께 작업하기 시작했습니다.
 
-同じ年に、彼らはレコードレーベルFresh Fruitを設立しました。彼らがFresh Fruitでリリースしたほとんどのトラックは、1995年にレーベルを離れるまでのものでした。
+같은 해에 그들은 음반 레이블인 Fresh Fruit을 설립했습니다. 그들이 Fresh Fruit에서 발표한 트랙의 대부분은 1995년에 레이블을 떠나기 전의 곡이었습니다.
 
-彼らの離脱後、Jark ProngoはPssst Musicを設立し、それ以前と同様にさまざまな別名でプロダクションをリリースし、1998年にJark Prongoの本当のサクセスストーリーが始まりました。
+탈퇴 후 Jark Prongo는 Pssst Music을 설립하여 이전과 마찬가지로 다양한 별칭으로 작품을 발표했으며 1998년 Jark Prongo의 진정한 성공 스토리가 시작되었습니다.
 
-Sashaが "Movin' Thru Your System" をプレイし、高く評価されてGlobal Underground CDに収録されました。
+Sasha는 비평가들의 호평을 받았으며 Global Underground CD에 포함된 "Movin' Thru Your System"을 연주합니다.
 
 #### 트랙리스트
 ```md

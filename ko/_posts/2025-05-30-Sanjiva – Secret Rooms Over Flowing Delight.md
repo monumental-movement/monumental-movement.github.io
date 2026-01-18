@@ -11,7 +11,7 @@ tags:
 - Techno
 - Ambient
 - 90s
-title: Sanjiva – 흐르는 기쁨 위에 비밀의 방
+title: Sanjiva – 흐르는 기쁨 위의 비밀의 방
 ---
 
 

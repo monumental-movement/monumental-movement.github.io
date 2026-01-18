@@ -10,17 +10,17 @@ tags:
 - Electronic
 - Techno
 - 00s
-title: Unknown Artist – Just An Incident / Head, Booty & Beats
+title: 무명 아티스트 – Just An Incident / Head, Booty & Beats
 ---
 
 
-オランダのレーベルP Seriesは、有名なポップス&ダンストラックのBootleg(海賊)版remixをリリースしている非公式マッシュアップレーベル。
+네덜란드 레이블 P Series는 유명한 팝 및 댄스 트랙의 해적판 리믹스를 출시하는 비공식 매시업 레이블입니다.
 
-このレコードは2008年にリリースされたテクノトラック。
+이 음반은 2008년에 발표된 테크노 트랙입니다.
 
-A面は、2004年にリリースされたオランダ出身のDJ Joris Voorn(ヨリス・ヴォーン) 「Lost Memories Pt. 2」のA面Incident(※2012年リリースのIncident (Miyagi)はremake)のハードテクノミックス。
+Side A는 2004년에 발매된 네덜란드 DJ Joris Voorn의 "Lost Memories Pt. 2"의 Incident(*2012년에 발매된 Incident(Miyagi)는 리메이크임)를 하드 테크노 믹스한 곡입니다.
 
-B面は、マイアミを拠点に活動するヒップホップグループ2 Live Crewが1988年にリリースした2 Live Crewの「HBC(Head,Booty & Cock)」のハードミックス。
+B-side는 마이애미를 기반으로 활동하는 힙합 그룹 2 Live Crew가 1988년 발표한 2 Live Crew의 'HBC(Head, Booty & Cock)'를 하드 믹스한 곡이다.
 
 #### 트랙리스트
 ```md

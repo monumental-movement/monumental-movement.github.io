@@ -11,13 +11,13 @@ tags:
 - Roots Reggae
 - Rocksteady
 - 90s
-title: Bob Marley – Soul Almighty - The Formative Years Vol. 1
+title: Bob Marley – Soul Almighty – The Formative Years Vol. 1
 ---
 
 
-1967年〜1968年にかけて、ボブ・マーリー＆ザ・ウェイラーズがジャマイカで録音したオリジナルヴォーカルと1995年〜1996年頃のスタジオの楽器トラックとプロダクションをミックスしたリマスター作品。
+1967년부터 1968년까지 자메이카에서 ​​Bob Marley와 Wailers가 녹음한 오리지널 보컬과 1995년부터 1996년 사이의 스튜디오 악기 트랙 및 프로덕션을 혼합한 리마스터링 작품입니다.
 
-未発表曲も含んだ、1996年リリースのカセットテープ。
+1996년에 발매된 미발표곡이 수록된 카세트 테이프.
 
 #### 트랙리스트
 ```md

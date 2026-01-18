@@ -10,7 +10,7 @@ tags:
 - Hard House
 - House
 - 00s
-title: 캐스퍼 & 카림 - U Have Control / Passion5
+title: 캐스퍼 & 카림 – U Have Control / Passion5
 ---
 
 

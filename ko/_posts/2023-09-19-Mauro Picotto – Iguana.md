@@ -9,7 +9,7 @@ permalink: /ko/mauro-picotto-iguana/
 tags:
 - Trance
 - Euro
-title: 마우로 피코토 – 이구아나
+title: 마우로 피코토 - 이구아나
 ---
 
 

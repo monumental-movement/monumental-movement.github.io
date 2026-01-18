@@ -72,7 +72,7 @@ Orb 集成了環境、techno 和 dub 的空間處理，呈現出可以承受長�
 
 ## 5.技術篇：低頻設計與頻率分佈
 
-在深海聲學中，低頻的存在不僅僅是為了功率。 20Hz到80Hz左右的頻段不起到旋律作用，而是用來代表空間的壓力和質量。
+在深海聲學中，低頻的存在不僅僅是為了功率。 The band around 20Hz to 80Hz does not play a melodic role, but is used to represent the pressure and mass of space.
 
 低音通常沒有明顯的起音，上升緩慢，衰減緩慢。結果，聽者處於這樣的狀態：聽者沒有“聽到”聲音，而是“感覺到”聲音作為聲壓。
 
@@ -153,7 +153,7 @@ Ambient Techno/Deep Ambient 與俱樂部性質保持距離，而 Deep Techno 在
 * 20 世紀 80 年代末：techno 的建立
 * 20 世紀 90 年代初期：Ambient Techno 的出現
 * 20 世紀 90 年代中期：The Orb 的表現力擴張
-* 2000 年代後：Deep Ambient sound 確立
+* 自 2000 年代以來：深沉的環境聲音已經確立
 * 2010年代及以後：深海技術的普及
 
 ---

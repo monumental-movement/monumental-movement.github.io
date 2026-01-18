@@ -9,13 +9,13 @@ permalink: /ko/boys-town-gang-disc-charge/
 tags:
 - Disco
 - Hi NRG
-title: Boys Town Gang – Disc Charge
+title: 보이즈 타운 갱 – 디스크 차지
 ---
 
 
-Boys Town Gang（ボーイズ・タウン・ギャング）は、サンフランシスコのディスコDJ・プロデューサー Bill Motley（ビル・モトリー）によって 1980年に結成されたポストディスコ・ハイエナジーグループ。
+Boys Town Gang은 샌프란시스코 디스코 DJ이자 프로듀서인 Bill Motley가 1980년에 결성한 포스트 디스코 고에너지 그룹입니다.
 
-1981年にリリースされた「Disc Charge」は、Boys Town Gang２枚目のアルバムで、彼らのヒット曲「Can't Take My Eyes Off You（君の瞳に恋してる/フランキー ヴァリ）」のカバーも収録されている。
+1981년에 발매된 Disc Charge는 Boys Town Gang의 두 번째 앨범으로 그들의 히트곡 "Can't Take My Eyes Off You"의 커버를 포함했습니다.
 
 #### 트랙리스트
 ```md

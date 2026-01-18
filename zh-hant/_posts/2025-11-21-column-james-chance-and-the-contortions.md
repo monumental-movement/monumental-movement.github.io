@@ -94,7 +94,7 @@ B --> H["Lydia Lunch / Teenage Jesus and the Jerks"]
 
 ---
 
-## 4. 詹姆斯·懷特和黑人 名字：Off White (1979)
+## 4. 詹姆斯·懷特與黑人 名稱：Off White (1979)
 
 **Off White**，以 Contortions 名義發布，將迪斯科元素與無波浪的即興本質結合在一起。
 

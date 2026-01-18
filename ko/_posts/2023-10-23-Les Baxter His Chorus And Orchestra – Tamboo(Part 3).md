@@ -10,7 +10,7 @@ tags:
 - Jazz
 - Space-Age
 - 7inch
-title: Les Baxter 그의 합창과 오케스트라 - Tamboo(3부)
+title: Les Baxter 그의 합창과 오케스트라 – Tamboo(3부)
 ---
 
 

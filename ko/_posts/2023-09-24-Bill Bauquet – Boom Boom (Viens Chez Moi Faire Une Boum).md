@@ -9,11 +9,11 @@ permalink: /ko/bill-bauquet-boom-boom-viens-chez-moi-faire-une-boum/
 tags:
 - Italo
 - Hi NRG
-title: Bill Bauquet – Boom Boom (Viens Chez Moi Faire Une Boum)
+title: 빌 보케 – Boom Boom (Viens Chez Moi Faire Une Boum)
 ---
 
 
-1987年にベルギー＆オランダのレーベル「Indisc」からリリースされた本作は、イタロディスコ／ハイエナジーとして当時人気を博しました。
+1987년 벨기에와 네덜란드 레이블 Indisc에서 발매된 이 앨범은 당시 Italo 디스코/하이 에너지 앨범으로 인기를 얻었습니다.
 
 
 #### 트랙리스트

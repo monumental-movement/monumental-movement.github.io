@@ -14,7 +14,7 @@ title: Jean-Michel Bernard - 수면의 과학
 ---
 
 
-Björk, The Chemical Brothers, Daft Punk, Radiohead 등의 뮤직비디오 작업에 참여한 Michel Gondry가 각본과 감독을 맡은 영화 'Sleep in Love'의 사운드트랙입니다.
+Björk, The Chemical Brothers, Daft Punk, Radiohead 등의 뮤직비디오 작업에 참여한 Michel Gondry가 각본 및 감독을 맡은 영화 '사랑의 격려'의 사운드트랙입니다.
 
 Michel Gondry는 프랑스 록 밴드 Oui Oui의 드러머이기도 했습니다.
 

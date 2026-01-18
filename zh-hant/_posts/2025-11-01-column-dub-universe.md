@@ -107,7 +107,7 @@ King Tubby（真名：Osbourne Ruddock）是一名電氣工程師。
 
 ---
 
-## 第 4 章：UK Dub – Diaspora 和 Sonic Reconstruction
+## 第 4 章：英國配音 – Diaspora 和 Sonic Reconstruction
 
 在 20 世紀 70 年代末，來自牙買加的移民，
 多夫的想法傳播到倫敦、布里斯托爾和伯明翰。
@@ -133,7 +133,7 @@ King Tubby（真名：Osbourne Ruddock）是一名電氣工程師。
 它的後繼者包括 **Deepchord**、**Rhythm & Sound** 和 **Echospace**。
 
 在環境場中，**The Orb**、**Bill Laswell**、**Kode9**、**Burial** 等
-他繼續探索著類似配音的空間。
+他繼續探索著類似於配音的空間。
 Burial 的“Untrue” (2007)
 真稱得上是**後數字時代的孤獨配音**。
 

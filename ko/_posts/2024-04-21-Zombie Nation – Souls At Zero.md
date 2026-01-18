@@ -15,7 +15,7 @@ title: 좀비 네이션 – Souls At Zero
 
 Zombie Nation은 1999년 'Kernkraft 400' 출시로 유명해졌습니다.
 
-원래는 독일 출신 DJ이자 프로듀서인 Splank로 구성된 테크노 듀오입니다! (Florian Senfter) 및 DJ Mooner (Emanuel Günther)가 이제 Splank입니다! (플로리안 센프터)는 혼자 활동하고 있다.
+원래는 독일 출신 DJ이자 프로듀서인 Splank로 구성된 테크노 듀오입니다! (Florian Senfter) 및 DJ Mooner (Emanuel Günther)가 이제 Splank입니다! (Florian Senfter)는 혼자 활동하고 있습니다.
 
 "Souls At Zero"는 Florian Senfter와 Wolfram "Wolfen" Gottardt가 설립한 레이블인 Dekathlon Records가 2003년에 발매한 테크노 일렉트로 트랙입니다.
 

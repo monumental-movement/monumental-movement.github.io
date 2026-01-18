@@ -14,7 +14,7 @@ title: DMX Krew – 오래된 쇼룸 인형
 
 
 "쇼룸 인형"은
-독일 레이블 "International Deejay Gigolo Records"가 1998년에 발매한 DMX Krew의 EP입니다.
+1998년 독일 레이블 "International Deejay Gigolo Records"가 발매한 DMX Krew의 EP입니다.
 
 
 #### 트랙리스트
