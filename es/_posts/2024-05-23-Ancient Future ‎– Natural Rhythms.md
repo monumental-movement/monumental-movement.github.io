@@ -17,7 +17,7 @@ title: Futuro antiguo – Ritmos naturales
 
 Ancient Future es un grupo de música fusión mundial formado en 1978 por Matthew Montfort, considerado uno de los 100 mejores guitarristas acústicos del mundo.
 
-Un conjunto musical multinacional global que se caracteriza por un estilo de fusión que combina música tradicional como ritmos de India, África, Bali, Medio Oriente y América del Sur, armonías de Europa y melodías de Asia con música contemporánea como jazz, rock, reggae y ambient, y colabora con músicos de varios países.
+Un conjunto musical multinacional global que se caracteriza por un estilo de fusión que combina música tradicional como ritmos de India, África, Bali, Medio Oriente y Sudamérica, armonías de Europa y melodías de Asia con música contemporánea como jazz, rock, reggae y ambient, y colabora con músicos de varios países.
 
 *) Todas las composiciones excepto A3,5 y B5 son de Matthew Montfort.
 

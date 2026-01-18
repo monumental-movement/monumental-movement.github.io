@@ -17,7 +17,7 @@ title: Equipo DMX – Nu Romantix
 
 Nu Romantix es un álbum lanzado por DMX Krew en 1998, con un sonido único que combina elementos de electro de la vieja escuela, synth pop, acid house y techno.
 
-El álbum utiliza sintetizadores y cajas de ritmos antiguos, rindiendo homenaje a la música electrónica de los años 80 y principios de los 90, al mismo tiempo que incorpora elementos contemporáneos, y es elogiado por su enfoque nostálgico de la música electrónica, así como por su sonido vanguardista.
+El álbum utiliza sintetizadores y cajas de ritmos antiguos, rindiendo homenaje a la música electrónica de los años 1980 y principios de los 90, al tiempo que incorpora elementos contemporáneos, y es elogiado por su enfoque nostálgico de la música electrónica, así como por su sonido vanguardista.
 
 #### Lista de canciones
 ```md

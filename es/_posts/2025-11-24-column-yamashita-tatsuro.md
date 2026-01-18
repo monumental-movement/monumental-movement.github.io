@@ -67,7 +67,7 @@ Ya habían comenzado los arreglos y grabaciones optimizadas para característica
 
 ---
 
-# 2. Finales de la década de 1970: período inicial en solitario y versión completa de “Analog Layer”
+# 2. Finales de la década de 1970: primer período en solitario y la forma completa de "Analog Layer"
 
 ## ■ “ESPACIOSO” (1977), “¡ADELANTE!” (1978)
 Este período fue la era en la que Tatsuro hizo pleno uso de la grabación analógica de 24 pistas.
@@ -170,7 +170,7 @@ A lo largo de la década de 2020, se han remasterizado muchas obras de la era an
 
 Incluso en la remasterización, Tatsuro ha dejado claro que no le gusta cambiar el sonido.
 
-### ▼ Funciones remasterizadas
+### ▼ Características de la remasterización
 - Reproduce fielmente la cinta original.
 - Sin ecualización extrema
 - No aumentar la presión sonora de forma poco natural (rechazar la guerra de sonoridad)

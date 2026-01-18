@@ -30,7 +30,7 @@ El deep house es una variedad de house que surgió en el área de Chicago-Nueva 
 
 **1985–90: Temprano Temprano (Chicago/Nueva Jersey)**
 
-[Larry Heard (Mr. Fingers)](https://amzn.to/4q97ot4) presenta el prototipo con "Can You Feel It" y "Mystery of Love". Siguiendo el flujo de [Frankie Knuckles](https://amzn.to/4nUwWJ4) y [Marshall Jefferson](https://amzn.to/3KOf4AV), una fusión del dulce sentimiento soul de Jersey Garage ([Blaze](https://amzn.to/4ooZuuc) y [Kerri Chandler](https://amzn.to/4qbd4CR)).
+[Larry Heard (Mr. Fingers)](https://amzn.to/4q97ot4) presenta el prototipo con "Can You Feel It" y "Mystery of Love". Siguiendo el flujo de [Frankie Knuckles](https://amzn.to/4nUwWJ4) y [Marshall Jefferson](https://amzn.to/3KOf4AV), se fusiona el dulce sentimiento del alma de Jersey Garage ([Blaze](https://amzn.to/4ooZuuc) y [Kerri Chandler](https://amzn.to/4qbd4CR)).
 
 **Década de 1990: Profundización y diversificación**
 
@@ -68,7 +68,7 @@ Anjunadeep y All Day I Dream recurrieron a la música melódica/orgánica. En Su
 
 **Núcleo**: Ron Trent y Chez Damier (Prescription) / Moodymann (KDJ) / MAW (incluido Nuyorican Soul)
 
-**Sofisticación de la década de 2000**: Jimpster (Freerange) / Miguel Migs & Blue Six (Naked Music)
+**Sofisticación de los años 2000**: Jimpster (Freerange) / Miguel Migs & Blue Six (Naked Music)
 
 **Moderno ~ Melódico**: Âme/Dixon (Innervisions)/Maya Jane Coles
 
@@ -112,7 +112,7 @@ Anjunadeep y All Day I Dream recurrieron a la música melódica/orgánica. En Su
 
 - Aplique gradualmente capas de ecualizador y atenuadores en mezclas largas (de 16 a 32 compases o más).
 
-- Tonalidad coincidente (tonalidad) y teselas (timbre): Evite destruir la atmósfera seleccionando canciones en tonalidades adyacentes/tonos estrechamente relacionados.
+- Coincidencia de clave (tonalidad) y teselas (timbre): evite destruir la atmósfera seleccionando canciones en claves adyacentes/tonos estrechamente relacionados.
 
 - Ondas dinámicas: “Sube un poco el calor y vuelve a subirlo rápidamente” durante 30-45 minutos.
 
@@ -129,11 +129,11 @@ Anjunadeep y All Day I Dream recurrieron a la música melódica/orgánica. En Su
 
 **Groove**: “Respira” con un ligero swing (+5 a +15%) y cambios mínimos en la velocidad.
 
-**Paso bajo/Cadena lateral**: Agrega "oscilación invisible" para mantenerlo en contacto con el oído mientras lo hace bailar.
+**Paso bajo/cadena lateral**: Agrega "oscilación invisible" para mantenerlo en contacto con el oído mientras lo hace bailar.
 
 **Muestreo**: reproduce una frase corta de jazz/soul y deja que se funda en el espacio con una larga caída.
 
-**Mezcla**: Kick 40–60Hz es modesto, 80–120Hz crea un estruendo corporal. Las voces no deben emitir demasiado entre 2 y 5 kHz.
+**Mezcla**: Kick 40–60 Hz es modesto, 80–120 Hz crea un estruendo corporal. Las voces no deben emitir demasiado entre 2 y 5 kHz.
 
 
 <hora>
@@ -179,7 +179,7 @@ Anjunadeep y All Day I Dream recurrieron a la música melódica/orgánica. En Su
 
 ### Discografía rápida (10 canciones introductorias)
 
-·Señor. Dedos – "¿Puedes sentirlo?"
+·Señor. Dedos - "¿Puedes sentirlo?"
 
 ・Larry Heard presenta al Sr. White – “El sol no se puede comparar”
 

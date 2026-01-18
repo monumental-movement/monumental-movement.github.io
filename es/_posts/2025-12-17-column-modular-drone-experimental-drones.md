@@ -52,7 +52,7 @@ En el siglo XX, la industrialización y la electrificación progresaron y el rui
 
 ## Combinación de sonidos electroacústicos y sostenidos.
 
-En los inicios de la música electrónica, los tonos sostenidos eran el elemento que indicaba más directamente las características de los sonidos electrónicos. La forma de onda continua generada por un oscilador, a diferencia de un instrumento físico, en teoría puede mantenerse indefinidamente. Esta característica permitió romper con la estructura musical tradicional que divide el tiempo en tiempos.
+En los inicios de la música electrónica, los tonos sostenidos eran el elemento que indicaba más directamente las características de los sonidos electrónicos. A diferencia de los instrumentos físicos, la forma de onda continua producida por un oscilador puede teóricamente mantenerse indefinidamente. Esta característica permitió romper con la estructura musical tradicional que divide el tiempo en tiempos.
 
 En la música en cinta y en la música electroacústica, se intentó mantener los sonidos durante largos períodos de tiempo o realizar cambios graduales, pero el control en tiempo real tenía limitaciones. Aquí es donde entra en juego el concepto de control de tensión. El mecanismo para controlar el tono y el timbre mediante voltaje se convirtió en la base de los sintetizadores modulares posteriores y proporcionó un medio para cambiar dinámicamente los sonidos sostenidos.
 
@@ -117,7 +117,7 @@ Los drones modulares comparten muchos elementos con la música ambiental, minima
 * Década de 1950: Exploración del sonido sostenido en acústica electrónica.
 * Década de 1960: Creación de sistemas modulares por Moog y Buchla
 * Década de 1970: Aumento de las obras con drones de larga duración en la música experimental.
-* Década de 1990: regresión modular y reevaluación de los drones.
+* Década de 1990: Regresión modular y reevaluación de los drones.
 * Década de 2010: Expansión de la producción experimental de drones debido a la difusión del Eurorack
 
 ---

@@ -76,7 +76,7 @@ Los BPM de Glitchcore no son fijos y, a menudo, fluctúan en un amplio rango de 
 **Elementos característicos:**
 
 * Cambios de tempo extremos
-* Edición que de repente cambia a una canción diferente en medio de una canción.
+* Edición que de repente pasa a otra canción en medio de la canción.
 * Ganchos cortos y melodías fragmentadas.
 *Céntrese en ganchos fuertes de 15 a 30 segundos para TikTok
 
@@ -110,7 +110,7 @@ Glitchcore utiliza activamente recortes y crujidos que pueden evitarse en la pro
 
 ---
 
-### 2-4 Reinterpretación de la estructura pop
+### 2-4　Reinterpretación de la estructura pop
 
 A pesar de la perturbadora acústica, las melodías suelen ser "muy pop" y fáciles de recordar. Ésta es la esencia de Glitchcore; No es sólo música noise, sino un género que vierte efectos sobrecargados en un recipiente pop.
 
@@ -192,7 +192,7 @@ punto:
 
 * Cocción simultánea de tallos.
 * Superposición de capas densas
-* Rango bajo excesivo
+* Demasiados graves
 * Uso extremo de limitadores de presión sonora.
 
 ---
@@ -268,13 +268,13 @@ Otra característica importante es que se citan activamente expresiones de estil
 
 ### 7-3 Personalidad de SoundCloud
 
-Osquinn y Glaive aportaron progresiones de acordes emo, toques de guitarra y voces ligeras a Glitchcore. Esto representa una dirección melódica más introvertida de la naturaleza "vanguardista" del Hyperpop.
+Osquinn y Glaive aportaron progresiones de acordes emo, toques de guitarra y voces aireadas a Glitchcore. Esto representa una dirección melódica más introvertida de la naturaleza "vanguardista" del Hyperpop.
 
 ---
 
 ## 8. Regionalidad: Estados Unidos, Reino Unido, comunidad en línea
 
-Lo que es muy importante acerca de Glitchcore es que se formó a través de "comunidades en línea" como Discord y SoundCloud, en lugar de fronteras nacionales.
+Lo muy importante de Glitchcore es que se formó a través de "comunidades en línea" como Discord y SoundCloud, en lugar de fronteras nacionales.
 
 Se puede decir que es un género en el que el concepto de fronteras nacionales se ha diluido, con 100 gecs y glaive de Estados Unidos y PC Music del Reino Unido influyéndose mutuamente.
 
@@ -317,13 +317,13 @@ A medida que la música se vuelve más corta y es más probable que se distribuy
 
 ### 10-2 ¿Se estandarizará el “pop roto”?
 
-El procesamiento destructivo como Hyper-Glitch ya está comenzando a abrirse camino en el pop convencional. En el futuro, es muy probable que "el glitch como idea de producción" se convierta en una herramienta estándar en lugar de las fronteras como género.
+El procesamiento destructivo como Hyper-Glitch ya está comenzando a abrirse camino en el pop convencional. En el futuro, existe una alta posibilidad de que "el glitch como idea de producción" se convierta en una herramienta estándar en lugar de las fronteras como género.
 
 ---
 
 ### 10-3 Cambios irreversibles en la era de la IA
 
-La IA facilita "grandes cantidades de fragmentos", "generación de alta velocidad" y "edición atípica", y tecnológicamente avanzará aún más el ideal de "sobrecarga de sonido" de Glitchcore.
+La IA facilita "grandes cantidades de fragmentos", la "generación de alta velocidad" y la "edición atípica", y tecnológicamente avanzará aún más el ideal de Glitchcore de "sobrecarga de sonido".
 
 ---
 

@@ -258,6 +258,6 @@ Puntos recomendados: Su enfoque es una mezcla audaz de post-punk, electro, disco
 
 
 #### YouTube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0d_ijro_PPQ?si=tMlx--dEITNLeFDg" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0d_ijro_PPQ?si=tMlx--dEITNLeFDg" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hora>
 <br>

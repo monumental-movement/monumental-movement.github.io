@@ -22,7 +22,7 @@ title: '[Columna] El sonido Shibuya-kei desde sus orígenes hasta el presente: 1
 Texto: mmr｜Tema: Antecedentes históricos del sonido Shibuya-kei, discos famosos y cambios en el equipo.
 
 
-El sonido Shibuya-kei es un movimiento musical japonés que se extendió por las tiendas de discos y clubes de Shibuya, Tokio, a principios de los años 1990. Se caracteriza por una musicalidad híbrida que reinterpreta la sensibilidad musical occidental al estilo japonés e incorpora diversos elementos como pop, jazz, bossa nova, soul, pop francés y electrónica.
+El sonido Shibuya-kei es un movimiento musical japonés que se extendió por las tiendas de discos y clubes de Shibuya, Tokio, a principios de los años 1990. Se caracteriza por una musicalidad híbrida que reinterpreta las sensibilidades musicales occidentales al estilo japonés e incorpora diversos elementos como pop, jazz, bossa nova, soul, pop francés y electrónica.
 
 ---
 
@@ -31,7 +31,7 @@ El sonido Shibuya-kei es un movimiento musical japonés que se extendió por las
 - En la década de 1980, el pop urbano y la nueva ola japoneses comenzaron a recibir elogios tanto a nivel nacional como internacional.
 - Las tiendas de discos importadas como ``CISCO'' y ``HMV Shibuya'' reunieron los últimos sonidos de Europa y Estados Unidos y cultivaron las habilidades musicales de los jóvenes.
 
-### Obra maestra representativa
+### Obras maestras representativas
 - [Eiichi Otaki — *UNAS LARGAS VACACIONES* (1981)](https://amzn.to/4nLyN2p)
 - [Tatsuro Yamashita — *PARA TI* (1982)](https://amzn.to/4neQyHk)
 - [Pizzicato Cinco primeras obras (período independiente, finales de los 80)](https://amzn.to/3W6W1UE)
@@ -61,7 +61,7 @@ color: #fff;
 |------|--------------|----------|
 | Eres color natural | Eiichi Otaki | Monumento pop de la ciudad |
 | Brillo | Tatsuro Yamashita | Sonido urbano sofisticado |
-| septiembre | Mariya Takeuchi | Pop ligero AOR |
+| Septiembre | Mariya Takeuchi | Pop ligero AOR |
 | Número de teléfono | Miki Matsubara | Obras maestras reevaluadas en el extranjero |
 | Me encanta hablar | Tatsuro Yamashita | Fusión de elementos boogie |
 | Centro de la ciudad | Nena de azúcar | Origen del pop urbano |
@@ -78,7 +78,7 @@ color: #fff;
 - Apareció en "Oricon" y "MTV Japan" y se convirtió en un gran éxito.
 - Enlaces a escenas de clubes en el extranjero.
 
-### Obra maestra representativa
+### Obras maestras representativas
 - [Pizzicato Five — *Hecho en EE. UU.* (1994)](https://amzn.to/3K92U5t)
 - [Guitarra de Flipper — *Camera Talk* (1990)](https://amzn.to/3W1ZP9P)
 - [Cornelio — *Fantasma* (1997)](https://amzn.to/4nJwCfx)
@@ -110,7 +110,7 @@ color: #fff;
 - Si bien Shibuya-kei desapareció comercialmente, influyó en el electropop de Capsule y Yasutaka Nakata.
 - Aumentará el desarrollo de la música de club, también conocida como neo-Shibuya-kei.
 
-### Obra maestra representativa
+### Obras maestras representativas
 - [Cápsula — *¡Más! ¡Más! ¡Más!* (2008)](https://amzn.to/47VqQDd)
 - [Fantástica máquina de plástico — *hermosa.* (2001)](https://amzn.to/4msAFMo)
 - [Kenji Ozawa — *Ecléctico* (2002)](https://amzn.to/4mtfA4k)
@@ -142,7 +142,7 @@ color: #fff;
 - Fue redescubierto por la generación de Internet y se convirtió en un género en el extranjero como "Shibuya-kei".
 - Renacimiento en paralelo con la reevaluación del City Pop.
 
-### Obra maestra representativa
+### Obras maestras representativas
 - [Cornelius — *Olas suaves* (2017)](https://amzn.to/4gzkWK2)
 - [Towa Tei — *EMO* (2017)](https://amzn.to/3VxjdeJ)
 - [cero — *Paseo oscuro* (2015)](https://amzn.to/47W866p)
@@ -174,7 +174,7 @@ color: #fff;
 - La influencia de "Shibuya-kei" está atrayendo nuevamente la atención en el contexto del K-POP y la reevaluación del pop urbano.
 - Ampliar la base de oyentes extranjeros a través de YouTube, Spotify, TikTok, etc.
 
-### Obra maestra representativa
+### Obras maestras representativas
 - [Cornelius — *Sueño en sueño* (2023)](https://amzn.to/46kD7zK)
 - [cero — *e o* (2021)](https://amzn.to/46LD7sJ)
 - [Varios artistas — Compilación de Neo Shibuya-kei *CONEXIÓN MÁGICA 2020* (década de 2020)](https://amzn.to/47S23zT)

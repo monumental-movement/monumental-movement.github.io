@@ -129,7 +129,7 @@ B2. Flight To Havana
 ### Varios – Totalmente cableado nueve
 <a href="https://jp.mercari.com/item/m73976121737?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Totally%20Wired%20Nine.webp"></a>
 
-Resumen: Este es un álbum recopilatorio de acid jazz estelar lanzado en 1992 por el sello británico Acid Jazz. Contiene temas exclusivos de una variedad de artistas que se han vuelto populares en la pista de baile.
+Resumen: Este es un álbum recopilatorio de acid jazz estelar lanzado en 1992 por el sello Acid Jazz del Reino Unido. Contiene temas exclusivos de una variedad de artistas que se han vuelto populares en la pista de baile.
 m.m.r
 
 Puntos recomendados: Una pieza valiosa que incluye canciones famosas de los inicios del acid jazz, como Corduroy, Mother Earth y Sons of Judah. Puedes disfrutar de la expansión del género y la sensación de ritmo, todo al mismo tiempo.

@@ -177,7 +177,7 @@ En este trabajo la separación de estructuras va aún más allá. Las canciones 
 | Método | Demolición | Capas |
 | Hora | Ruptura | Paralelo |
 | Ritmo | Destrucción de la sensación del pulso | Control de la respiración |
-| Disonancia | Armamento estructural | Producción espacial |
+| Disonancia | Armamento estructural | Dirección espacial |
 
 ---
 

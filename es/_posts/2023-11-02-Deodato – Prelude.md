@@ -15,7 +15,7 @@ title: Deodato – Preludio
 
 Una reedición de 1978 del álbum ``Thus Spoke Zarathustra'' lanzado bajo el nombre Deodato en el sello CTI en 1973.
 
-Este álbum organiza piezas clásicas en jazz eléctrico, y "Así habló Zaratustra" es conocida como una de las primeras canciones de fusión/crossover más famosas.
+Este álbum organiza piezas clásicas en jazz eléctrico, y ``Thus Spoke Zarathustra'' es conocida como una de las primeras canciones de crossover/fusión más famosas.
 
 #### Lista de canciones
 ```md

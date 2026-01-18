@@ -152,7 +152,7 @@ Artista: [Estrellas de la tapa](https://amzn.to/3Kztvsh), [William Basinski](htt
 
 **●Ambiente industrial**
 
-Musiciza sonidos de fábrica y ruidos de máquinas.
+Música de sonidos de fábrica y ruidos de máquinas.
 
 **Artista**: [Enfermera con herida](https://amzn.to/46QgJyk), [Bobina](https://amzn.to/48sI7nd)
 

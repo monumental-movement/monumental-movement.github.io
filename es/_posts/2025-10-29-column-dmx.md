@@ -193,7 +193,7 @@ Esas palabras todavía sirven como un mantra de perdón a sí mismos para muchos
 ## X. Conclusión: Estructura mítica llamada DMX
 
 La historia de DMX es más que una simple biografía de hip-hop.
-Fue un **drama religioso moderno** y un mito sobre la coexistencia de **violencia y oración**.
+Era un **drama religioso moderno** y un mito que representaba **la coexistencia de la violencia y la oración**.
 
 *Su “rugido” no es ira, sino un grito para demostrar su existencia**
 *Su “oración” no es salvación sino **continuación de la batalla**
@@ -257,7 +257,7 @@ D -->|静寂| F[祈りの独白]
 
 ## Capítulo final: Oración de ladridos
 
-La música de DMX no es un "testimonio callejero" sino un "disco del alma".
+La música de DMX no es un "testimonio de las calles" sino un "disco del alma".
 Ese grito es la verdad misma de personas que vivieron sus vidas aferrándose a su fe sin ceder a la violencia.
 
 > “Si eres real, lo sentirás”. -DMX

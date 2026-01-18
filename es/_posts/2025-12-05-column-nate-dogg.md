@@ -57,7 +57,7 @@ Los tres tenían experiencia cantando en la iglesia, y Nate Dogg en particular t
 Esta base del canto gospel tuvo una influencia decisiva en su estilo posterior.
 Aunque su voz era lineal con poco vibrato, tenía una resonancia profunda y un sentido del ritmo que estaba naturalmente arraigado en su cuerpo.
 
-### Unirse a los marines
+### Unirse a la Infantería de Marina
 
 Después de graduarse de la escuela secundaria, Nate Dogg **se alistó en el Cuerpo de Marines de EE. UU.** y fue dado de baja después de servir durante unos tres años.
 Esta experiencia cambió las circunstancias de su vida, pero también fue un período que esencialmente lo obligó a regresar a Long Beach y a la música.
@@ -71,7 +71,7 @@ Eso es **213 (dos uno tres)**.
 El nombre se deriva del código de área de Long Beach, 213, y marca claramente su identidad local.
 
 Las cintas locales de la época ya mostraban que la voz de Nate Dogg destacaba entre los raperos que lo rodeaban.
-Su voz tenía una vibra callejera y al cantar la melodía, le dio a toda la canción una agradable sensación de flotación.
+Su voz tenía aire de calle y al cantar la melodía le daba a toda la canción una agradable sensación de flotación.
 Este estilo se convertiría más tarde en el núcleo de la cultura de actuación de los invitados.
 
 ---
@@ -129,7 +129,7 @@ Estas características hicieron de la voz de Nate Dogg un componente esencial de
 
 ## 6. Trabajos en solitario y su posicionamiento.
 
-Nate Dogg es muy aclamado por sus apariciones especiales, pero también ha lanzado varios álbumes en solitario.
+Nate Dogg es muy aclamado por sus actuaciones como invitado, pero también ha lanzado varios álbumes en solitario.
 
 #### ■ “Clásicos de G-Funk, Vol. 1 y 2” (1998)
 
@@ -154,7 +154,7 @@ Este trabajo resalta la fuerza del bajo y deja una impresión más callejera.
 
 ---
 
-Nate Dogg fue estrella invitada en importantes éxitos del hip-hop casi todos los años a finales de los 90 y principios de los 2000.
+Nate Dogg fue estrella invitada en importantes éxitos del hip-hop casi todos los años desde finales de los 90 hasta principios de los 2000.
 
 Canciones participantes representativas:
 
@@ -163,18 +163,18 @@ Canciones participantes representativas:
 - “Códigos de Área” (Ludacris, 2001)
 - “21 preguntas” (50 Cent, 2003)
 - “Nadie lo hace mejor”
--“Tengo amor”
+- "Tengo amor"
 
 En particular, “21 Preguntas” alcanzó el número uno en Estados Unidos.
 Aunque es un dulce sonido R&B, es importante que la voz de Nate Dogg no pierda la tensión de la calle.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDMhlvbOFaM?si=OavxoFCED3LL7j9J" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDMhlvbOFaM?si=OavxoFCED3LL7j9J" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
 ## 8. 213 “El camino difícil”: El fruto de la amistad
 
-213, el trío formado por Snoop, Warren y Nate, lanzó su álbum de estudio oficial, The Hard Way, en 2004.
+213, formado por Snoop, Warren y Nate, lanzaron su álbum de estudio oficial, The Hard Way, en 2004.
 El álbum alcanzó el número uno en Billboard y fue la culminación de la larga amistad y carreras de los tres.
 
 ---
@@ -256,7 +256,7 @@ No hay nadie más con una voz que equilibre la dulzura y la dureza, la suavidad 
 **Nate Dogg es un símbolo del G-Funk y una revolución vocal en la historia del hip-hop. **
 Los ganchos que dejó atrás siguen vivos en el hip-hop de todo el mundo.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lfA6jewSunU?si=RC-arUXmBDq_mAje" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lfA6jewSunU?si=RC-arUXmBDq_mAje" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 

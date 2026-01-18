@@ -16,13 +16,13 @@ title: '[Columna] Jazz microtonal / Jazz de cuartos de tono'
 
 
 
-## Introducción: el jazz y la expansión de los conceptos tonales
+## Introducción: El jazz y la expansión de los conceptos tonales
 
 Texto: mmr｜Tema: Análisis de la teoría, interpretación y sistema educativo del jazz microtonal/jazz de cuartos de tono centrado en Joe Maneri y Jacob Collier
 
 Desde sus inicios, el jazz ha sido una música que relativiza un sistema de tono fijo. Históricamente ha habido prácticas que no encajan en el marco de los 12 temperamentos iguales, como la variabilidad de terceras y séptimas representada por la Nota Azul, la operación de embocadura en instrumentos de viento y el portamento en instrumentos de cuerda. La tendencia conocida como jazz microtonal o jazz de cuartos de tono se caracteriza por extender estas convenciones teórica y estructuralmente, y colocar explícitamente los "intervalos microtonales" en el centro de la organización sonora.
 
-En este artículo, organizaremos los antecedentes teóricos y las prácticas interpretativas del jazz microtonal, que se formó desde finales del siglo XX hasta el siglo XXI, y lo analizaremos desde las perspectivas de la composición, la improvisación y el funcionamiento del conjunto, con un enfoque particular en los esfuerzos de Joe Maneri y Jacob Collier. Además, explica la profundización de este género a través del sistema educativo para la generación de discípulos, el análisis acústico y los enfoques modernos.
+En este artículo, organizaremos los antecedentes teóricos y las prácticas interpretativas del jazz microtonal, que se formó desde finales del siglo XX hasta el siglo XXI, y lo analizaremos desde las perspectivas de la composición, la improvisación y la operación en conjunto, con un enfoque particular en los esfuerzos de Joe Maneri y Jacob Collier. Además, explica la profundización de este género a través del sistema educativo para la generación de discípulos, el análisis acústico y los enfoques modernos.
 
 ---
 
@@ -42,9 +42,9 @@ color: #fff;
 
 ## Capítulo 1: Microtonos y la Prehistoria del Jazz
 
-### 1-1 Posición histórica del intervalo microtonal
+### 1-1 Posición histórica de los intervalos microtonales
 
-Los intervalos microtonales existen en la música occidental desde antes del siglo XX. La diferencia de coma en el temperamento pitagórico y la entonación justa de la Edad Media y el Renacimiento incluye una diferencia de intervalo de menos de un semitono. Sin embargo, con el establecimiento del temperamento de 12 iguales con el fin de simplificar la notación musical y la enseñanza, estas ideas pasaron a un segundo plano teórico.
+Los intervalos microtonales existen en la música occidental desde antes del siglo XX. La diferencia de coma en el temperamento pitagórico y la entonación justa de la Edad Media y el Renacimiento incluye una diferencia de intervalo de menos de un semitono. Sin embargo, con el establecimiento del temperamento 12-igual con el fin de simplificar la notación musical y la enseñanza, estas ideas pasaron a un segundo plano teórico.
 
 A principios del siglo XX, los compositores comenzaron a utilizar intencionalmente intervalos microtonales y se desarrollaron sistemas que utilizaban 24 temperamentos iguales (cuartos de tono) y divisiones más altas. Esta tendencia es evidente en la música contemporánea, pero el jazz ha incorporado la microtonalidad de una manera más práctica a través de la improvisación y la manipulación física.
 
@@ -150,7 +150,7 @@ En la improvisación de jazz microtonal, la dirección de la transición del ton
 
 ### 5-2 Relación con el ritmo
 
-A medida que se subdividen los intervalos, el papel del ritmo también cambia. Se utilizan en combinación un método para presentar diferencias de tono mínimas utilizando valores de notas largas y un método para aumentar la densidad del tono mediante la creación de una serie de valores de notas cortas.
+Al subdividir el tono, también cambia el papel del ritmo. Se utilizan en combinación un método para presentar diferencias de tono mínimas utilizando valores de notas largas y un método para aumentar la densidad del tono mediante la creación de una serie de valores de notas cortas.
 
 ### 5-3 Profundización en el análisis acústico
 
@@ -193,7 +193,7 @@ timeline
 
 ## Capítulo 8: Desarrollos educativos e impacto moderno
 
-Los discípulos de Joe Maneri brindan educación microtonal en instituciones educativas de jazz en los Estados Unidos y el extranjero, y desarrollan sus propios proyectos de investigación e interpretación. Tienen influencia en las siguientes áreas:
+Los discípulos de Joe Maneri brindan educación microtonal en instituciones educativas de jazz en los Estados Unidos y en el extranjero, y desarrollan sus propios proyectos de investigación e interpretación. Tienen influencia en las siguientes áreas:
 
 * Entrenamiento del sentido del tono en educación de improvisación avanzada.
 * Aplicación práctica en conjuntos pequeños y grandes.

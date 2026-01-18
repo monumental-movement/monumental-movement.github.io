@@ -56,7 +56,7 @@ Las modificaciones británicas incluyen trajes a medida, scooters y gusto por el
 
 Protestas psicodélicas/hippies, resistencia al servicio militar obligatorio, expansión de la conciencia sobre las drogas y vida en comuna. Los festivales de música (Monterey, Woodstock) se convierten en campos de prueba para espacios autónomos.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QdCZR9M5EKY?si=X6LGSZL9V6faqler" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QdCZR9M5EKY?si=X6LGSZL9V6faqler" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
@@ -116,7 +116,7 @@ El hip-hop tiene los "cuatro pilares" de las fiestas de barrio, el graffiti, el 
 
 ---
 
-Se ha dado al metal la imagen de "demonizado" y ha suscitado polémicas en torno a la autorregulación como la del PMRC. Dependiendo del subgénero, también puede crear conflictos sociales por incidentes violentos y declaraciones discriminatorias.
+Se ha dado al metal la imagen de estar "demonizado" y ha suscitado polémicas sobre la autorregulación como la del PMRC. Dependiendo del subgénero, también puede crear conflictos sociales por incidentes violentos y declaraciones discriminatorias.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G3LvhdFEOqs?si=4R5mtsKWW15IxBLC" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -166,7 +166,7 @@ La autorrevelación y las expresiones de ira de EMO/Screamo y Nu Metal crean ten
 
 <hora>
 
-### Década de 2010: Trap, Soundcloud Rap y Leftfield Club: economía frágil y marca propia
+### Década de 2010: Trap, SoundCloud Rap y Leftfield Club: economía frágil y marca propia
 
 Trap estetiza representaciones conectadas con las realidades de la periferia económica (economía de las drogas, sociedad de la vigilancia) a través de los graves profundos y la repetición del 808.
 
@@ -198,7 +198,7 @@ La hibridación de movimientos sociales y eventos musicales (fiestas de recaudac
 
 **Gran Bretaña/Europa**: Naturaleza colectiva entrelazada con clase, inmigración y cultura futbolística. La cultura rave tiende a chocar con la planificación urbana y los sistemas de suelo privado.
 
-**Japón**: Desde la temprana aceptación del rockabilly/punk hasta la "caja underground" del hardcore y los albores de los clubes, los conflictos con las regulaciones administrativas (relacionadas con los negocios nocturnos/entretenimiento) son comunes. Se ha desarrollado la importación y localización de sonidos y la autogestión de espacios.
+**Japón**: Desde la temprana aceptación del rockabilly/punk hasta la "caja underground" del hardcore y los albores de los clubes, los conflictos con las regulaciones administrativas (relacionadas con los negocios nocturnos o el entretenimiento) son comunes. Se ha desarrollado la importación y localización de sonidos y la autogestión de espacios.
 
 
 <hora>

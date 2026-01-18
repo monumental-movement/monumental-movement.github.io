@@ -38,5 +38,5 @@ Will Wiesenfeld, también conocido como Baths, es conocido como un genio creador
 
 [Comprar en Mercari](https://jp.mercari.com/item/m40590639127?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YpUC6EIZf5o?si=lCKJswyxc2pwcRyq" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

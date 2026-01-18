@@ -19,7 +19,7 @@ East 17 es una boy band de pop del Reino Unido conocida por su exitoso sencillo 
 
 "Around The World" es una canción house Eurohouse lanzada por London Records en 1994.
 
-El segundo track de la cara B es una mezcla del remixer Ben Liebrand, quien ha remezclado a varios artistas como Sting, TLC, Fun Fun, Tavares, The Limit, Bill Withers, Frankie Valli & The Four Seasons, Hot Chocolate, Pia Zadora, The Doobie Brothers, The Art Of Noise, Dimples D, Phil Collins, Jeff Wayne, etc.
+El segundo track de la cara B es una mezcla del remezclador Ben Liebrand, quien ha remezclado a varios artistas como Sting, TLC, Fun Fun, Tavares, The Limit, Bill Withers, Frankie Valli & The Four Seasons, Hot Chocolate, Pia Zadora, The Doobie Brothers, The Art Of Noise, Dimples D, Phil Collins, Jeff Wayne, etc.
 
 #### Lista de canciones
 ```md

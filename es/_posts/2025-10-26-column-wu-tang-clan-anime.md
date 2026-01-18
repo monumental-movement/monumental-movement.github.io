@@ -69,14 +69,14 @@ Desde entonces, los motivos sonoros asiáticos han aparecido con frecuencia en l
 Mokugyo, el koto, el shakuhachi, el sonido de las campanas de los templos, eran símbolos del "Oriente" como sonidos.
 
 Sin embargo, en la década de 2000, su interés se expandió al "anime japonés".
-RZA mostró un gran respeto por **Nujabes**, quien fue el supervisor musical de "Samurai Champloo".
+RZA mostró un gran respeto por **Nujabes**, quien era el supervisor musical de "Samurai Champloo".
 Ghostface Killah amplió su alias de "Tony Starks" a "Iron Man".
 Más tarde se involucró en la producción de la banda sonora de Afro Samurai.
 En este punto, la cultura asiática pasa de la mera cita al ámbito de la coproducción = colaboración.
 
 ---
 
-## Capítulo 3: “Afro Samurai” y la cadena de reimportación
+## Capítulo 3: “Afro Samurai” y la cadena de reimportaciones
 
 En 2007, el anime japonés "Afro Samurai" se transmitió en todo el país.
 El actor de voz es Samuel L. Jackson.
@@ -116,7 +116,7 @@ Enfatizó el aspecto "Zen" del hip-hop y resonó con el mundo espiritual de RZA.
 En particular, la música de Nujabes combina el sampleo y la estética de ma.
 Estaba conectado espiritualmente con el Clan Wu-Tang, el "Samurái del Sonido".
 
-En la década de 2020, también aparecen claras referencias en las obras de anime japonés.
+En la década de 2020 aparecen claras referencias en las obras de anime japonés.
 La influencia del hip-hop de baja fidelidad se puede ver en la música de fondo de "Jujutsu Kaisen".
 Varios artistas de hip-hop participarán en el final de "Chainsaw Man".
 Aquí, el anime vuelve a reconectarse con el lenguaje de la “calle”.
@@ -209,6 +209,6 @@ Esta actitud sigue viva en los artistas contemporáneos.
 Los personajes de anime y los raperos se enfrentan todos a la misma pregunta.
 **“Cómo entrenarte y cómo luchar contra el mundo”**
 
-Ese es el mayor legado dejado por el Clan Wu-Tang.
+Ese es el mayor legado dejado por el clan Wu-Tang.
 
 ---

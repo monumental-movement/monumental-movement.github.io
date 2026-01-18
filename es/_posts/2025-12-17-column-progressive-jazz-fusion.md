@@ -55,7 +55,7 @@ Durante este período, muchos músicos de jazz introdujeron pianos eléctricos, 
 
 Weather Report se formó en 1970 y priorizó la integridad sonora de todo el conjunto sobre la excelencia de los solistas individuales. La tradicional división de roles entre tema, acompañamiento e improvisación se desdibujó intencionalmente, y las piezas fueron diseñadas como procesos que se generan y transforman con el tiempo en lugar de formas fijas.
 
-Esta idea se distingue por el hecho de que la improvisación se considera una "producción de sonido por parte de un grupo" en lugar de una "expresión individual". Cada instrumento se aleja de su papel fijo como melodía principal o acompañamiento y, en cambio, funciona como un elemento de timbre, densidad rítmica y disposición espacial.
+Esta idea se distingue por el hecho de que la improvisación se considera una "producción de sonido por parte de un grupo" en lugar de una "expresión individual". Cada instrumento se aleja de su papel fijo como melodía o acompañamiento principal y, en cambio, funciona como un elemento de timbre, densidad rítmica y disposición espacial.
 
 ### Características estructurales y diseño temporal.
 

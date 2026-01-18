@@ -127,7 +127,7 @@ La letra era más clara que la versión de estudio y el comentario social se ent
 
 #### Ecualizador analógico y externo
 - Utiliza ecualizador estilo Neve y Trident.
-- La animada actuación de la banda está deliberadamente "distorsionada" y "dispuesta espacialmente" para enfatizar su naturaleza experimental.
+- La vívida interpretación de la banda está deliberadamente "distorsionada" y "dispuesta espacialmente" para enfatizar su naturaleza experimental.
 - Se utilizó para crear una "incomodidad acústica" en lugar de una corrección estándar.
 
 ---
@@ -144,7 +144,7 @@ La letra era más clara que la versión de estudio y el comentario social se ent
 Cunningham y This Heat no fueron sólo un experimento sonoro, practicaron **la crítica a través de la grabación**.
 - “Repetición mecánica” de bucles de cinta = ciclo interminable del capitalismo
 - Voz distorsionada por EQ = distorsión de la propaganda nacional.
-- Estructura no lineal con edición de 24 pistas = discontinuación y repetición históricas
+- Estructura no lineal con edición de 24 pistas = discontinuación y repetición histórica
 
 El estudio no era sólo un espacio de grabación, sino un campo de pruebas para traducir en sonido las críticas de la Guerra Fría.
 
@@ -176,7 +176,7 @@ flowchart TD
 ### Conclusión
 
 - **Interpretación lírica**: This Heat critica la Guerra Fría tanto lírica como sonoramente.
-- **Filosofía de grabación de Cunningham**: Utiliza equipos como Revox, Studer y EQ como un "dispositivo metafórico político".
+- **Filosofía de grabación de Cunningham**: Utiliza equipos como Revox, Studer y EQ como "dispositivos metafóricos políticos".
 - **Importancia histórica de la música experimental**: más allá del post-punk, está directamente conectado con los fundamentos de la cultura moderna del muestreo/DAW e incluso con la producción musical de IA.
 
 Su música sigue siendo un grupo de obras que deberían reevaluarse como "grabación = crítica = experimento".

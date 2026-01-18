@@ -28,4 +28,4 @@ A. Every Home Should Have One (あこがれアイ・アイ・アイ)
 [Comprar en Mercari](https://jp.mercari.com/item/m72093615038?afid=6142608987){: .button1}
 
 #### YouTube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S_5RIEiOm-k?si=rGc_1OAh0z98dJ4L" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S_5RIEiOm-k?si=rGc_1OAh0z98dJ4L" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

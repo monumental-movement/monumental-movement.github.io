@@ -42,7 +42,7 @@ color: #fff;
 
 ### 1-1. Escena musical brasileña en la década de 1970
 
-En el Brasil de la década de 1970, la cultura musical estaba activa incluso bajo el gobierno militar, y MPB en particular creó un nuevo estilo musical que estaba influenciado por el soul, el funk y el disco estadounidenses, además de la samba y la bossa nova existentes.
+En Brasil en la década de 1970, la cultura musical estaba activa incluso bajo el gobierno militar, y MPB en particular creó un nuevo estilo musical que estaba influenciado por el soul, el funk y la música disco estadounidenses, además de la samba y la bossa nova existentes.
 
 <div class="mermaid">
 graph TD
@@ -80,7 +80,7 @@ Los artistas representativos incluyen **Tim Maia, Cassiano, Hyldon y Carlos Daf�
 
 ### 2-1. Tim Maia
 
-Tim Maia es un pionero de la música soul/funk brasileña. Después de vivir en Estados Unidos, desarrolló MPB que incorporó elementos disco-funk después de regresar a Japón. El disco *Racional*, lanzado en 1975, combinaba temas religiosos con funk-disco, y fue posteriormente reevaluado.
+Tim Maia es un pionero de la música soul/funk brasileña. Después de vivir en Estados Unidos, desarrolló MPB que incorporó elementos disco-funk después de regresar a Japón. El disco *Racional*, lanzado en 1975, combinaba temas religiosos con funk-disco, y posteriormente fue reevaluado.
 
 ### 2-2. casiano
 
@@ -133,7 +133,7 @@ En clubes fuera de Brasil, las sesiones de DJ se centraron en el Boogie brasile�
 - Línea de bajo: melódica y orientada al groove.
 - Progresión de acordes: acordes complejos como jazz o MPB
 - Letra: Vida en la ciudad, amor, alegrías y luchas cotidianas.
-- Sonido: Calidez de la grabación analógica, se utiliza sintetizador de piano eléctrico
+- Sonido: Calidez de la grabación analógica, sintetizador de piano eléctrico utilizado
 
 <div class="mermaid">
 graph LR

@@ -15,7 +15,7 @@ title: '[Columna] Enoch Light and Command Records: El linaje del hombre y el sel
 
 ## Command Records y el “diseño de sonido”: ¿qué tenía de innovador?
 
-Texto: mmr | Tema: Traza cuidadosamente la historia, las obras representativas, los artistas relacionados, las anécdotas y la influencia de Enoch Wright, quien elevó el "disco de demostración" de la era estéreo al nivel de arte, y de la empresa que fundó, Command Records, hasta el día de hoy.
+Texto: mmr | Tema: Traza cuidadosamente la historia, las obras representativas, los artistas relacionados, las anécdotas y la influencia de Enoch Wright, quien elevó el "disco de demostración" de la era del estéreo al nivel de arte, y de la empresa que fundó, Command Records, hasta el día de hoy.
 
 
 En las décadas de 1950 y 1960, hubo una persona entre los entusiastas del audio que cambió su orientación de "discos para escuchar" a "discos para escuchar". El director y productor Enoch Light fundó Command Records, un sello que busca sonido de alta calidad, en 1959, y se convirtió en un símbolo de la "cultura de alta fidelidad" con su obra de arte única y su tecnología de grabación de vanguardia. Este artículo resume la historia completa, incluido su contexto histórico, obras representativas, relación con Tony Mottola y evaluación de hoy.
@@ -101,7 +101,7 @@ El álbum fue grabado en el Carnegie Hall con un master de 35 mm. Permaneció en
 | 1959 | Percusión persuasiva (Terry Snyder & The All Stars) | Primero de la serie. “Grabación mostrable” que enfatiza el efecto estéreo.  | [Amazon](https://amzn.to/4pSSAyH) |
 | 1959 | Percusión provocativa (Enoch Light & The Light Brigade) | Una obra maestra junto con la serie Persuasive. También son dignos de mención aspectos visuales como la obra de arte de Josef Albers. | [Amazon](https://amzn.to/4gYbFLV) |
 | 1961 | Estéreo 35/MM (Enoch Light y Su Orquesta) | Grabación del Carnegie Hall. Trabajo experimental de alta fidelidad utilizando un máster de 35 mm. Comercialmente exitoso.   |[Amazon](https://amzn.to/3WjZT4T) |
-| Década de 1960 (descripción general) | CD recopilatorio Persuasivo/Provocativo | Compilación de reedición para compra al por mayor. En los últimos años se han visto reediciones de gran calidad aquí y allá.    | [Amazon](https://amzn.to/48gg2Qg) |
+| Década de 1960 (descripción general) | CD recopilatorio Persuasivo/Provocativo | Compilación de reedición para compra al por mayor. En los últimos años se han visto aquí y allá reediciones de gran calidad.    | [Amazon](https://amzn.to/48gg2Qg) |
 
 ---
 
@@ -156,7 +156,7 @@ Actúa en una amplia gama de géneros, que incluyen no solo jazz, sino también 
 
 ### Encuentro y relación con Enoch Luz
 
-- **Gran Premio → Guitarrista habitual durante el periodo Command Records**
+- **Gran Premio → Guitarrista habitual durante la era Command Records**
 
 Cuando Enoch Light fundó Grand Award and Command, reunió a los mejores talentos de sesión de Nueva York. Entre ellos, el guitarrista habitual es Tony Mottola.
 
@@ -195,7 +195,7 @@ Experimento de localización colocando guitarras en los lados estéreo izquierdo
 
 Enfatiza los efectos de la reverberación y el procesamiento de reverberación.
 
-→ El juego flexible de Mottola dio vida a la visión de Light.
+→ La forma de tocar flexible de Mottola dio vida a la visión de Light.
 
 ---
 
@@ -213,7 +213,7 @@ Enfatiza los efectos de la reverberación y el procesamiento de reverberación.
 
 ### Situación actual e impacto
 
-La propia Command Records llegó a su fin alrededor de 1970, pero sus obras todavía están en circulación a través de reediciones, remasterizaciones de alta calidad y reediciones para audiófilos. Las canciones y portadas persuasivas/provocativas siguen citándose en el contexto del "diseño de mediados de siglo" y la cultura del piso de soltero, y también son objeto de muestreo y remezcla. Su influencia en la cultura auditiva moderna (pasatiempos de audio antiguos, simulaciones de salas virtuales, etc.) es considerable.
+La propia Command Records llegó efectivamente a su fin alrededor de 1970, pero sus obras todavía están en circulación a través de reediciones, remasterizaciones de alta calidad y reediciones para audiófilos. Las canciones y portadas persuasivas/provocativas siguen citándose en el contexto del "diseño de mediados de siglo" y la cultura del piso de soltero, y también son objeto de muestreo y remezcla. Su influencia en la cultura auditiva moderna (pasatiempos de audio antiguos, simulaciones de salas virtuales, etc.) es considerable.
 
 
 ---

@@ -13,7 +13,7 @@ title: Recogiendo obras de techno británico de los años 90
 ---
 
 
-"Un notable grupo de obras que simbolizaron la escena techno británica de los 90 con sus ritmos rígidos y su diseño de sonido de vanguardia."
+"Un notable grupo de obras que simbolizaron la escena techno británica de los 90 con sus ritmos rígidos y su diseño de sonido de vanguardia".
 
 <hora>
 

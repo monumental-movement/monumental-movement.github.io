@@ -212,7 +212,7 @@ color: #fff;
 - **Modelo representativo**: Vantage, DB12 (Bowers & Wilkins 15 altavoces, 1.170W)
 - **Tecnología**: Sonido realista con tweeter Nautilus
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EUlBvw7PejY?si=WUD82ugLJO9g-9uc" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EUlBvw7PejY?si=WUD82ugLJO9g-9uc" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
@@ -268,7 +268,7 @@ Ahora que avanza el cambio hacia los vehículos eléctricos, el elemento simból
 La acústica del interior del automóvil está empezando a adquirir un nuevo papel.
 Es una "sala de escucha en movimiento" y un "universo acústico personal".
 Los fabricantes de todo el mundo ya no buscan potencia ni silencio;
-**"¿Qué tipo de sonidos puedes escuchar mientras corres?"** Este es un nuevo valor de experiencia.
+**"¿Qué tipo de sonidos puedes escuchar al correr?"** Este es un nuevo valor de experiencia.
 
 El audio del coche nunca deja de evolucionar.
 El diseño acústico se corrige mediante IA y el asiento se convierte en una placa resonante, cambiando el campo sonoro según los latidos del corazón y el estado de ánimo del conductor.

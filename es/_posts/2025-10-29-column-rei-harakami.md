@@ -104,7 +104,7 @@ Es como el otoño en Kioto, y es una tristeza que te hace reír mientras miras l
 
 ## Capítulo 4: Harakami y amigos - UA, Ryuichi Sakamoto, Kazumi Nikaido
 
-La colaboración con UA ​​“Milk Tea” y Ryuichi Sakamoto,
+La colaboración con UA ​​“Milk Tea” y Ryuichi Sakamoto es
 Se ha añadido un nuevo elemento de "voz humana" a la música de Rei Harakami.
 
 Se dice que Ryuichi Sakamoto lo describió como "el revolucionario más silencioso".

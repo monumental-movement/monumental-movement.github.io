@@ -15,7 +15,7 @@ title: Recoger trabajos electro
 ---
 
 
-"Una colección de obras electrónicas en las que la fantasía cibernética de los años 80 continúa bailando hasta el día de hoy".
+"Una colección de obras electrónicas en las que la ciberfantasía de los años 80 continúa bailando hasta el día de hoy".
 
 <hora>
 
@@ -99,7 +99,7 @@ B. Like No Other (Rennie Pilgrem Mix Pt 2)
 ### Cari Lekebusch – Universalsessions – Instrumentalicks
 <a href="https://jp.mercari.com/item/m21088903450?afid=6142608987"><img src="../assets/images/Cari%20Lekebusch%20%E2%80%93%20Universalsessions.webp"></a>
 
-Punto: "Side B" es una canción oscura con un sentimiento electro particularmente fuerte. Una "tensión mecánica" flota a través de la atmósfera tranquila, llevándote a una visión del mundo fría pero profunda.
+Punto: “Side B” es una canción oscura con un sentimiento electro particularmente fuerte. Una "tensión mecánica" flota a través de la atmósfera tranquila, llevándote a una visión del mundo fría pero profunda.
 
 Charm: Electro oscuro y tenso.
 
@@ -124,7 +124,7 @@ B. Video Hi 8 (Instrumental)
 ### Beroshima – Baila la máquina
 <a href="https://jp.mercari.com/item/m78848372644?afid=6142608987"><img src="../assets/images/Beroshima%20%E2%80%93%20Dance%20The%20Machine.webp"></a>
 
-Punto: Un lanzamiento de Frank Muller del proyecto electro alemán Beroshima formado en 1994. Ulrich Schnauss también participó, y su sonido electro es una fusión de enfoques minimalista y disco.
+Punto: Un lanzamiento de Frank Muller del proyecto electro alemán Beroshima formado en 1994. Ulrich Schnauss también ha participado, y su sonido electro es una fusión de enfoques minimalista y disco.
 
 Charm: Minimal y electro disco.
 

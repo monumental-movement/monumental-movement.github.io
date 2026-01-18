@@ -208,7 +208,7 @@ Continúa hoy en clubes, laboratorios y en tus auriculares de todo el mundo.
 
 | Artista | Obras representativas | Año | Enlaces |
 | :---------------------------- | :--------------------- | :--: | :----------------: |
-| Rey Tubby | *Doblaje de las raíces* | 1974 | [Amazonas](https://amzn.to/3XaIOL2) |
+| Rey Tubby | *Doblaje de las raíces* | 1974 | [Amazon](https://amzn.to/3XaIOL2) |
 | Lee "Scratch" Perry | *Súper Simio* | 1976 | [Amazon](https://amzn.to/4oFE24a) |
 | Científico | *Científico libera al mundo de la maldición de los vampiros* | 1981 | [Amazon](https://amzn.to/43775p1) |
 | Canal Básico | *BCD* | 1993 | [Amazon](https://amzn.to/3JdkwwZ) |

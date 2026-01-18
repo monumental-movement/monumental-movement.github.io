@@ -44,7 +44,7 @@ Establecido en Estados Unidos como un cruce de culturas gay, latina y afroameric
 - Jun Inoue — *Gracias por tu ayuda (arreglo estilo discoteca)*
 
 - **Relación con la cultura japonesa**
-Se asocia con la moda juvenil (pantalones acampanados, estampados psicodélicos) y la cultura de la vida nocturna de Ginza y Roppongi. La película "Fiebre del sábado noche" (1977) se convirtió en un fenómeno social también en Japón.
+Se asocia con la moda juvenil (pantalones acampanados, estampados psicodélicos) y la cultura de la vida nocturna de Ginza y Roppongi. La película "Fiebre del sábado por la noche" (1977) se convirtió también en un fenómeno social en Japón.
 
 - **Equipo principal**
 - Technics SL-1200 (tocadiscos/lanzado en 1972)
@@ -118,7 +118,7 @@ Formación de las bases de la "cultura fan dance" que continuó con Bodycon y Ju
 
 | Pista | Artista | Comentarios |
 |----------|--------------|----------|
-| Billie Jean | Michael Jackson | Una pieza de libro de texto sobre línea de bajo y ritmo. |
+| Billie Jean | Michael Jackson | Una pieza de libro de texto sobre línea de bajo y groove. |
 | Suspense | Michael Jackson | El mayor éxito e innovación visual del mundo. |
 | Como una virgen | Virgen | Simboliza el nacimiento de un ícono pop femenino. |
 | Lo siento por ti | Chaka Khan | Una fusión de hip-hop y disco. |
@@ -177,7 +177,7 @@ Se mudó de "Juliana Tokyo" a Shibuya Club Culture. La generación disco evoluci
 
 ## Década de 2000: el auge del Nu-Disco y la reestructuración de los clubes
 - **Fondo**
-"Nu-Disco" y electroclash son populares en todo el mundo. El renacimiento disco también avanza en Japón y la banda vuelve a ser el centro de atención en la escena de discotecas.
+"Nu-Disco" y electroclash son populares en todo el mundo. El resurgimiento de la música disco avanza en Japón y la escena de discotecas vuelve a estar en el centro de atención.
 
 - **Obras maestras representativas (en el extranjero)**
 - Daft Punk — *Descubrimiento* (2001)
@@ -314,4 +314,4 @@ El pop/disco urbano se está difundiendo en TikTok y YouTube. Los eventos de dis
 
 
 # La discoteca no es un “legado del pasado”, sino un ritmo vivo que sustenta los cimientos de la cultura pop y de discotecas moderna.
-La música disco comenzó como una subcultura en los Estados Unidos en la década de 1970 y evolucionó de forma independiente en Japón fusionándose con la cultura de la vida nocturna. En los años 1980, dio origen a "Juliana Tokyo" y "Maharaja" junto con la burbuja, y en los años 90 se integró en la cultura de discotecas, y desde los años 2000 ha sido reinterpretado en el contexto del Nu-Disco y el pop urbano. Hoy en día, continúa viviendo en la cultura de clubes y discotecas de Japón y sigue emocionando las pistas de baile de generaciones enteras.
+La música disco comenzó como una subcultura en los Estados Unidos en la década de 1970 y evolucionó de forma independiente en Japón fusionándose con la cultura de la vida nocturna. En los años 1980, dio origen a "Juliana Tokyo" y "Maharaja" junto con la burbuja, y en los años 90 se integró en la cultura de discotecas, y desde los años 2000 ha sido reinterpretado en el contexto del Nu-Disco y el pop urbano. Hoy en día, sigue vivo en la cultura de clubes y discotecas de Japón y sigue emocionando las pistas de baile de generaciones enteras.

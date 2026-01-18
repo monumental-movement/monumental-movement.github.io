@@ -53,7 +53,7 @@ Su sonido es un "mandala de sonido" único que combina conciencia, meditación, 
 ## Capítulo 1: Nacimiento de Shpongle y antecedentes históricos de Twisted Records
 
 En la década de 1990, la cultura psicodélica británica se encontraba en una encrucijada en su evolución.
-Una época en la que la moda del Goa Trance se extendió por Europa y la cultura del LSD se fusionó con la tecnología.
+Una época en la que la locura del Goa Trance se extendió por Europa y la cultura del LSD se fusionó con la tecnología.
 En el centro de esta tendencia estaba Twisted Records (1996-).
 
 Twisted lanza música trance espiritual e intelectual centrada en Posford, incluyendo Hallucinogen, Younger Brother, Prometheus y Celtic Cross.
@@ -197,7 +197,7 @@ Para Raja Ram, el sonido es oración y Shpongle es su mantra.
 
 ## Capítulo 6: Simon Posford - La filosofía de producción del mago del sonido
 
-Posford combina sintetizadores clásicos (Virus, Nord Lead, Roland SH-101) con DAW modernos (Logic Pro, Ableton).
+Posford combina sintetizadores clásicos (Virus, Nord Lead, Roland SH-101) y DAW modernos (Logic Pro, Ableton).
 Se superponen docenas de capas de sonido para diseñar intencionalmente "resonancia con ondas cerebrales".
 Sus obras tienen una estructura consistente de tres capas: rango bajo = cuerpo, armónicos = conciencia y reverberación = espiritualidad.
 
@@ -259,7 +259,7 @@ Esa es la reencarnación misma.
 
 - Respira en el cuarto oscuro.
 
-- Juega Momentos Divinos de la Verdad
+- Juega "Momentos Divinos de la Verdad"
 
 - Centrarse en el momento en que “nace” el sonido.
 

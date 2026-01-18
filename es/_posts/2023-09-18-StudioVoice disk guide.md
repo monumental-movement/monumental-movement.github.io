@@ -9,7 +9,8 @@ permalink: /es/studiovoice-disk-guide/
 tags:
 - Disk Guide
 - Studio Voice
-title: StudioVoice Volumen separado Guía de discos de todos los géneros Studio Voice
+title: StudioVoice Volumen independiente Guía de discos de todos los géneros Studio
+  Voice
 ---
 
 

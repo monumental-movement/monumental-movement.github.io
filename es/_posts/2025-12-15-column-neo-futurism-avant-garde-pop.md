@@ -73,7 +73,7 @@ En el pop neofuturista, los sintetizadores y los tonos procesados ​​digitalm
 
 ### 3-2. Ritmo y estructura
 
-Los ritmos no están necesariamente orientados a la pista de baile y, a menudo, son fragmentados y asimétricos. Por otro lado, los coros y los motivos están claramente establecidos y conservan su memorabilidad como música pop.
+Los ritmos no están necesariamente orientados a la pista de baile y, a menudo, son fragmentados y asimétricos. Por otro lado, los estribillos y los motivos están claramente establecidos y conservan su memorabilidad como canciones pop.
 
 ### 3-3. Procesamiento vocal
 
@@ -195,7 +195,7 @@ La integración de la música y las imágenes se está acelerando y se pone énf
 
 ### 13-3. 2020
 
-Las expresiones que cruzan género, cuerpo y tecnología se volvieron comunes y el neofuturismo se estableció como una estética.
+Las expresiones que trascienden el género, el cuerpo y la tecnología se volvieron comunes y el neofuturismo se estableció como estética.
 
 ---
 

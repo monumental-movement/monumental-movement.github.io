@@ -71,7 +71,7 @@ color: #fff;
 |----------|-------------|-------------|----------------|
 | *La Crónica* (1992) | Dr. Dre | [Amazon](https://amzn.to/42IAyVR) | El monumento que estableció G-Funk |
 | *Estilo perrito* (1993) | Snoop Doggy Dogg | [Amazon](https://amzn.to/4naENSj) | Una obra maestra que extendió la Costa Oeste al mundo con su fluidez |
-| *Todos los ojos puestos en mí* (1996) | 2Pac | [Amazon](https://amzn.to/47T8DGd) | Una obra maestra de un álbum doble. La obra maestra de 2Pac |
+| *Todos los ojos puestos en mí* (1996) | 2pac | [Amazon](https://amzn.to/47T8DGd) | Una obra maestra de un álbum doble. La obra maestra de 2Pac |
 
 
 ---
@@ -176,7 +176,7 @@ flowchart TD
 
 ## resumen
 
-El hip-hop de la costa oeste nació de la cultura callejera de Los Ángeles a finales de los años 1970 y, a través del auge del gangsta rap y el G-Funk en los años 1980 y 1990, creció hasta convertirse en una tendencia musical mundial.
+El hip-hop de la costa oeste nació de la cultura callejera de Los Ángeles a fines de la década de 1970 y, a través del auge del gangsta rap y el G-Funk en las décadas de 1980 y 1990, creció hasta convertirse en una tendencia musical global.
 Vídeos musicales de bajo presupuesto, estilos de moda únicos y vínculos con la cultura lowrider crearon una expresión auténtica de la costa oeste.
 
 Desde la década de 2000, la diversidad se ha ampliado con el éxito de actos underground independientes como Madlib y The Game. Además, han aparecido Kendrick Lamar y otros artistas con influencia global que hacen pleno uso de las redes sociales e Internet, y sus canciones y expresiones visuales que contienen mensajes conscientes están formando una nueva tendencia en el hip-hop de la costa oeste.
@@ -188,6 +188,6 @@ Más que un simple género musical, el hip-hop de la región continúa influyend
 
 ### Columnas relacionadas
 
-🔗 [[Columna] Descripción general del hip hop de la costa este: desde el Bronx hasta Brooklyn y el mundo"](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)
+🔗 [[Columna] Historia del hip hop de la costa este: desde el Bronx hasta Brooklyn y el mundo"](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)
 
 🔗 [[Columna] Historia del hip hop de EE. UU.: panorama general que incluye regiones, clubes, medios y equipos](https://monumental-movement.jp/Column-Hiphop-History)

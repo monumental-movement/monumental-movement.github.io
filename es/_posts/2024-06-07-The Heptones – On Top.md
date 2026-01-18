@@ -18,7 +18,7 @@ Los Heptones eran un trío vocal jamaicano de rocksteady y reggae que estuvo má
 
 Los Heptones eran contemporáneos de los Wailers y los Maytals, y eran conocidos como sus iguales a mediados de la década de 1960.
 
-"On Top" es un álbum lanzado por Studio One, un estudio de grabación y sello jamaicano que sentó las bases de los estilos de música popular jamaicanos, incluidos el ska, el rocksteady y el reggae. Este álbum también se conoce como Best Of The Heptones.
+"On Top" es un álbum lanzado por Studio One, un estudio de grabación y sello jamaicano que sentó las bases de los estilos de música popular jamaicana, incluidos el ska, el rocksteady y el reggae. Este álbum también se conoce como Best Of The Heptones.
 
 #### Lista de canciones
 ```md

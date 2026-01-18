@@ -30,7 +30,7 @@ A finales de la década de 2000, cuando Napster y YouTube se hicieron populares,
 
 ### Del puerto de montaña a la simulación —— Jinetes en el espacio digital
 El paso de montaña representado en "Initial D" es un paso de montaña real en Gunma, pero desde la década de 2000, Eurobeat ha estado conectado a una cultura de juego que se puede llamar un "paso de montaña digital".
-El eurobeat fluyó naturalmente hacia los juegos arcade como ``Initial D Arcade Stage'' y ``Wangan Midnight'', así como al juego casero ``Gran Turismo'' y a las comunidades de carreras en línea. El ritmo de alta velocidad no es sólo la música de fondo que mueve el coche, sino un catalizador que mejora la "sensación virtual de aceleración" en el mundo digital.
+El eurobeat fluyó naturalmente hacia los juegos arcade como "Initial D Arcade Stage" y "Wangan Midnight", así como al juego casero "Gran Turismo" y las comunidades de carreras en línea. El ritmo de alta velocidad no es sólo la música de fondo que mueve el coche, sino un catalizador que mejora la "sensación virtual de aceleración" en el mundo digital.
 
 ### Aceleración de la cultura y los memes de Internet
 Desde finales de la década de 2000 hasta la década de 2010, el Eurobeat fue absorbido por la cultura de los memes de Internet con canciones como "Deja Vu" y "Running in the 90s".
@@ -38,7 +38,7 @@ En medio de la tendencia de los videos de formato corto, desde YouTube Poop hast
 Este sentido de la velocidad y el humor coexisten funciona como un "ritmo de risa que puede entenderse intuitivamente" incluso para una generación que ya no conoce Touge ni el anime.
 
 ### Herencia de la cultura callejera y del “running”
-Por otro lado, el Eurobeat sigue siendo "música de calle". Eurobeat, que se reproduce en la autopista Shuto a altas horas de la noche, en eventos de deriva y en reuniones de tuning, se ha filtrado en la verdadera cultura de las carreras a través de Initial D.
+Por otro lado, el Eurobeat sigue siendo "música de calle". Eurobeat, que se reproduce en la autopista Shuto a altas horas de la noche, en eventos de drift y en reuniones de tuning, se ha filtrado en la verdadera cultura de las carreras a través de Initial D.
 Aquí, funciona no sólo como música de fondo, sino como un símbolo para compartir la "espiritualidad de la conducción". En otras palabras, la música sobrevive no sólo como una recreación del paso de montaña, sino también como una "contraseña comunitaria".
 
 ### A la generación que hereda la “memoria de la aceleración”

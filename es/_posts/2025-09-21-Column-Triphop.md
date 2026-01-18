@@ -44,13 +44,13 @@ color: #fff;
 Originario de Bristol, Inglaterra, en la década de 1990, el **Trip-Hop** es un estilo musical único que se basa en ritmos de hip-hop y combina downtempo, dub, jazz, ambient y más.
 Dirigido por artistas como Massive Attack, Portishead y Tricky, su sonido cinematográfico y melancólico a veces se denominaba "hip-hop abstracto".
 
-El trip hop es más que un simple género musical, se ha extendido al mundo de la **producción de bandas sonoras**, la moda y el arte contemporáneo, y tiene nuevas posibilidades en la era de la generación musical de IA.
+El trip hop es más que un simple género musical, se ha extendido al mundo de la **producción de bandas sonoras**, la moda y el arte contemporáneo, y tiene nuevas posibilidades en la era de la generación de música con IA.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hBpSJ-Lt94A?si=KJNPd6bX07mFW2dy" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-### La genealogía del trip hop
+### Genealogía del trip hop
 
 <div class="mermaid">
 flowchart TD
@@ -109,7 +109,7 @@ Derivado del sistema de sonido de Bristol "Wild Bunch". 3D (Robert Del Naja) tam
 
 #### Tecnología de producción
 
-En lugar de un tocadiscos, "convierte el estudio en un instrumento" y combina muestras y presentaciones en vivo. Caracterizado por graves profundos y procesamiento espacial tipo dub.
+En lugar de utilizar un tocadiscos, "convierte el estudio en un instrumento" y combina samples y música en vivo. Caracterizado por graves profundos y procesamiento espacial tipo dub.
 
 #### El vídeo funciona
 
@@ -157,7 +157,7 @@ Endtrousing.... está incluido en el Libro Guinness de los Récords Mundiales co
 Aprovechar al máximo la reconstrucción de ritmos, los malabarismos de ritmos y la ampliación del tiempo. Trate el plato giratorio como una "herramienta de collage".
 
 #### El vídeo funciona
-Apareció en el [documental cultural de DJ "Scratch" (2001)] (https://amzn.to/4pzrtso).
+Apareció en [el documental sobre cultura de DJ "Scratch" (2001)] (https://amzn.to/4pzrtso).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sO5PCru_Z-E?si=2yMWGUgtfSyW_Td9" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -167,7 +167,7 @@ Apareció en el [documental cultural de DJ "Scratch" (2001)] (https://amzn.to/4p
 
 #### Obra maestra
 
-**Década de 1990**: [Estrictamente girado (1994)](https://amzn.to/46uh8oZ), [Meiso (1995)](https://amzn.to/4ndVUCN)
+**Década de 1990**: [Estrictamente Turntablized (1994)](https://amzn.to/46uh8oZ), [Meiso (1995)](https://amzn.to/4ndVUCN)
 
 **Década de 2000〜**: [Jaku (2004)](https://amzn.to/4gv4hHs), en los últimos años fusión con instrumentos y sonidos japoneses
 
@@ -175,11 +175,11 @@ Apareció en el [documental cultural de DJ "Scratch" (2001)] (https://amzn.to/4p
 Presentar la "tranquilidad japonesa" a nivel mundial a través de giras mundiales. Es respetado por la escena hip-hop occidental.
 
 #### Tecnología de producción
-Un estilo que considera el tocadiscos como un "instrumento" e intenta fusionarlo con instrumentos musicales japoneses y sonidos ambientales. Se especializa no sólo en scratching sino también en producción espacial.
+Un estilo que considera el tocadiscos como un "instrumento" e intenta combinarlo con instrumentos musicales japoneses y sonidos ambientales. Se especializa no sólo en scratching sino también en producción espacial.
 
 #### El vídeo funciona
 
-Apareció en el [documental cultural de DJ "Scratch" (2001)] (https://amzn.to/4pzrtso).
+Apareció en [el documental sobre cultura de DJ "Scratch" (2001)] (https://amzn.to/4pzrtso).
 Hay DVD de archivo como ["History Of DJ Krush"](https://amzn.to/3KdMvwE).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aVjgRlto8PI?si=lOvhctuUkOJwkPo1" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

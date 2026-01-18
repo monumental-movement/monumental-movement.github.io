@@ -26,7 +26,7 @@ El símbolo de esto es el sombrero de plástico rojo que usaron en el escenario 
 
 Este extraño diseño futurista era más que un simple disfraz.
 Según DEVO, se trata de "un dispositivo para reutilizar la energía que los humanos desperdiciamos".
-También fue un dispositivo que encarnaba su filosofía de la De-Evolución a través del humor y la ironía.
+También fue un dispositivo que encarnaba su filosofía de De-Evolución a través del humor y la ironía.
 
 ---
 
@@ -96,7 +96,7 @@ En el sentido de que DEVO se convirtió en una "marca" y presentó las contradic
 
 ---
 
-## Capítulo 5: Funcionar como pop ─ “Whip It” y sus conceptos erróneos
+## Capítulo 5: Función como pop ─ “Whip It” y sus conceptos erróneos
 
 A primera vista, el gran éxito de 1980 “Whip It” suena simplemente como un synth-pop cómico.
 Sin embargo, la letra es una parodia del antiheroísmo y dice: "Arregla el mundo tú mismo".
@@ -127,7 +127,7 @@ graph TD
 
 </div>
 
-Esta "ejecución de obediencia" es el gen que más tarde condujo a Daft Punk y Kraftwerk, así como a la cultura del artista anónimo actual.
+Esta "ejecución de obediencia" es el gen que más tarde condujo a Daft Punk, Kraftwerk e incluso a la cultura del artista anónimo actual.
 
 ---
 
@@ -151,7 +151,7 @@ En la década de 2020, continúa actualizando su teoría de la degeneración par
 
 ---
 
-## Capítulo 9: La trayectoria de DEVO como se ve en la cronología
+## Capítulo 9: La trayectoria de DEVO en cronología
 
 <div class="mermaid">
 
@@ -195,7 +195,7 @@ Más bien, esa elección se convierte en un medio para restaurar la libertad hum
 > ─ DEVO, Libertad de elección (1980)
 
 La cúpula energética no es un casco que cierra el futuro.
-**Quizá sea un icono para que volvamos a tener la libertad de elegir.**
+**Quizás sea un icono para que volvamos a tener la libertad de elegir.**
 ---
 
 ## Materiales/referencias relacionados

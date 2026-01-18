@@ -44,7 +44,7 @@ color: #fff;
 </style>
 
 
-### Ⅰ. EDM como edificio de luz y sonido
+### Ⅰ. La EDM como edificio de luz y sonido.
 
 No fue una ampliación del club, sino un rediseño de la propia ciudad.
 Cientos de miles de personas saltan al mismo tiempo. El escenario es como la puerta de una ciudad futurista.
@@ -68,7 +68,7 @@ Finalmente, a finales de la década de 2000, la cultura de los clubes europeos f
 No eran sólo canciones, eran un "lenguaje de luz".
 En la década de 2010, el EDM ascendió al centro del pop. Los sueños subterráneos se convirtieron en aplausos en la arena.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oAHg2zHfCsk?si=hJI5ruJGYGumfgW8" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oAHg2zHfCsk?si=hJI5ruJGYGumfgW8" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
@@ -81,7 +81,7 @@ El resultado de estos acontecimientos fue la "conversión del sonido en un arma"
 
 Especialmente compresión de cadena lateral.
 Ese “bombeo” único que hace que todo el cuerpo respire al mismo tiempo que la patada.
-Ese es el latido del corazón del EDM.
+Ese es el corazón del EDM.
 Fue el momento en que las técnicas de la música de club se extendieron a las masas.
 
 ---
@@ -114,14 +114,14 @@ A finales de la década de 2010, el EDM se convirtió en un meme.
 La caída se corta en TikTok y el ritmo se vuelve viral como un GIF.
 "Closer" de The Chainsmokers es un símbolo de esto.
 Un DJ es a la vez productor y **marca**.
-Logotipos, perfumes, NFT, auriculares: todos se han convertido en "industrias que rodean el sonido".
+Logotipos, perfumes, NFT, auriculares: todos se han convertido en “industrias relacionadas con el sonido”.
 
 ---
 
 ### Ⅵ. Ramificación y mutación: horizonte post-EDM
 
 Con el tiempo, las celebraciones empiezan a agotarse.
-La gente cansada del resplandor del escenario principal comenzó a regresar a los clubes oscuros.
+La gente que estaba cansada del resplandor del escenario principal comenzó a regresar a los clubes oscuros.
 
 “EDM introspectivo” demostrado por Porter Robinson y Madeon——
 No fue un festival, fue un sonido que trataba sobre emociones individuales.

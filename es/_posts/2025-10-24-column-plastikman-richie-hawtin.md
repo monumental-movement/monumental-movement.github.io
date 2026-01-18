@@ -19,7 +19,7 @@ title: '[Columna] Plastikman | Richie Hawtin - Las profundidades del minimalismo
 
 Texto: mmr｜Tema: Reflexiones sobre cómo Plastikman, que heredó el espíritu de la segunda generación del techno de Detroit, despojó el sonido hasta el límite y lo sublimó hasta convertirlo en un arte que permite escuchar la "reverberación" del ritmo mismo.
 
-Richie Hawtin ha estado redefiniendo el "techno" desde principios de la década de 1990, no sólo como música de baile, sino como un "dispositivo de meditación sonora". Sus obras bajo el nombre de Plastikman, particularmente ``_Sheet One_'' (1993) y ``_Consumed_'' (1998), son **experimentos de visualización del espacio interno del cuerpo humano con sonido electrónico**, y el sonido, que se asemeja a un líquido frío, también se llama "escultura abstracta de sonido".
+Richie Hawtin ha estado redefiniendo el "techno" desde principios de la década de 1990, no sólo como música de baile, sino como un "dispositivo de meditación sonora". Sus obras bajo el nombre de Plastikman, particularmente ``_Sheet One_'' (1993) y ``_Consumed_'' (1998), son **un experimento para visualizar el espacio interno del cuerpo humano usando sonido electrónico**. El sonido, que se asemeja a un líquido frío, también se llama "escultura abstracta de sonido".
 
 
 
@@ -47,7 +47,7 @@ Hawtin fue influenciado por el **espíritu que reside en los ritmos mecánicos**
 ---
 
 ## Capítulo 2: El nacimiento de Plastikman - Restos ácidos y tecnointrospección
-En 1993, se lanzó "_Sheet One_". El sonido tradicional del acid house TB-303 se ha blanqueado hasta el límite, creando un espacio acústico que suena como **latidos del corazón y señales nerviosas**. Más bien, el silencio que flota entre los sonidos puede ser escuchado como el personaje principal.
+En 1993, se lanzó "_Sheet One_". El sonido tradicional del acid house TB-303 se ha blanqueado al extremo, creando un espacio acústico que suena como **latidos del corazón y señales nerviosas**. Más bien, el silencio que flota entre los sonidos puede ser escuchado como el personaje principal.
 
 Luego, en 1994, se lanzó el álbum [``_Musik_''] del sello NovaMute (https://monumental-movement.jp/Plastikman-Musik). Este es el tercer álbum de estudio de Richie Hawtin y el segundo bajo su nombre Plastikman.
 
@@ -91,14 +91,14 @@ Con esta obra, Hawtin se convierte en el primer artista en equiparar "minimalism
 
 ## Capítulo 4: La tecnología y el cuerpo - Reconstruyendo el concepto LIVE
 Hawtin también fue pionero en la fusión de tecnología y rendimiento.
-En la década de 2000, **redefinió el juego de DJ** con la serie DE9 y estableció el "prototipo de DJ digital**", que utiliza Ableton Live y Traktor para reconstruir pistas en tiempo real.
+En la década de 2000, **redefinió el juego de DJ** con la serie "DE9", estableciendo el ``**prototipo de DJ digital**'' que utilizaba Ableton Live y Traktor para reconstruir pistas en tiempo real.
 
-En su escenario, se construyó un entorno en el que la MacBook, el controlador MIDI, la iluminación y el vídeo estaban completamente sincronizados, presentando un nuevo concepto de **``en vivo = datos respirables''**.
+En su escenario, se construyó un entorno en el que la MacBook, el controlador MIDI, la iluminación y el video estaban completamente sincronizados, presentando un nuevo concepto de **``en vivo = datos respirables''**.
 
 ---
 
 ## Capítulo 5: Jugando a Plastikman con “EX”
-``_EX_'', que se presentó en la Tate Modern de Londres en 2014, fue una obra que transfirió la estética de Plastikman al espacio de un museo.
+``_EX_'', que se presentó en la Tate Modern de Londres en 2014, fue una obra que transfirió la estética de Plastikman al espacio del museo.
 El escenario está envuelto en oscuridad y Houtin está como si estuviera aprisionado en una jaula resplandeciente. El público comparte la experiencia de "observar la estructura del sonido" en lugar de "mirar a un DJ".
 
 > "Plastikman sigue siendo la música de un viaje interior."
@@ -111,7 +111,7 @@ Su minimalismo evolucionó, disolviendo por completo las fronteras entre música
 Los genes de Plastikman impregnan a Villalobos, Donato Dozzy, Cio D'Or y la escena modular moderna.
 "El placer de la estructura", la "introspección del sonido" y la "temporización del espacio": estos elementos forman ahora la base del techno.
 
-En particular, "Consumed in Key" (2022, colaboración: Chilly Gonzales) abrió nuevos caminos en **un diálogo entre piano y minimalismo**. Fue el momento en que Plastikman volvió a trazar la "línea entre humanidad e inorganicidad".
+En particular, "Consumed in Key" (2022, colaboración: Chilly Gonzales) abrió nuevos caminos como diálogo entre el piano y el minimalismo. Fue el momento en que Plastikman volvió a trazar la "línea entre humanidad e inorganicidad".
 
 ---
 
@@ -127,14 +127,14 @@ La verdadera filosofía de Plastikman es su continua transformación de la músi
 
 ### 1. Presentación de DE9
 En 2001, Plastikman lanzó DE9: Closer to the Edit.
-Las mezclas tradicionales de DJ se basan en el orden de las pistas y los fundidos, pero aquí Hawtin utiliza edición y reestructuración a nivel de forma de onda.
+Las mezclas de DJ tradicionales se basan en el orden de las pistas y los fundidos, pero aquí Hawtin utiliza edición y reestructuración a nivel de forma de onda.
 Al dividir cada pista en pequeñas muestras y reorganizar los pulsos mínimos, creamos una línea de tiempo de música dance completamente nueva.
 
 ### 2. Innovación tecnológica
 - Procesamiento en tiempo real usando **Ableton Live/Traktor**
 - Reflejo instantáneo de operaciones de efectos a través del control MIDI
 - El concepto de “edición = jugar” en unidades de muestra
-Como resultado, la manipulación física del DJ cambió al acto de reproducir material acústico en lugar de reproducir la música en sí.
+Como resultado, la manipulación física del DJ ha cambiado al acto de reproducir material acústico en lugar de reproducir la música en sí.
 
 ### 3. Significado musical
 La serie DE9 no es sólo un CD de mezclas, sino que también funciona como una grabación de una actuación en vivo = nueva canción.
@@ -295,7 +295,7 @@ Esto se debe a que él sabe mejor que nadie que una sola rotación puede cambiar
 | ---- | ------------- | --------------------------- | ----------------------- |
 | 1994 | Hombre de plástico | **Música** EP | La cima del Acid Techno bajo el nombre de Plastikman. |
 | 1998 | Hombre de plástico | **Menos** EP | La primera entrega de Minus. Sonido mínimo extremo. |
-| 1999 | Magda | **Pista 1** | Pieza de prueba minimalista oscura.             |
+| 1999 | Magda | **Pista 1** | Una pieza de prueba minimalista y oscura.             |
 | 2000 | Richie Hawtin | **EX/EP** | Remezcla en vivo antes de DE9.         |
 | 2001 | Hombre de plástico | **DE9: Más cerca de la edición** | Revolución del DJ digital.               |
 | 2003 | Villalobos | **Allez-Allez** | Influencia temprana de Berlín de Minus.       |

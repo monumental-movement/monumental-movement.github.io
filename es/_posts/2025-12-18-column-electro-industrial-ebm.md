@@ -116,11 +116,19 @@ El proceso de producción a menudo se desarrolla en etapas: diseño tímbrico, c
 
 ## 9. Aporte estructural del Frente 242
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j9sW556IBjo?si=RCXeEWWFMSm7oPwZ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
 Front 242 es una empresa que ha formulado EBM en tres capas: concepto, estructura y sonido. Sus canciones se caracterizan por un diseño rítmico claro diseñado para tocar en clubes y un uso del lenguaje fragmentado y sin emociones.
 
 ---
 
 ## 10. Minimalismo de Nitzer Ebb
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dfwicqniOMw?si=7nDOtCdu22Rt8j3m" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
 
 Nitzer Ebb puso lo físico en primer plano al reducir los elementos de la EBM al mínimo indispensable. El mínimo número de notas, los gritos repetidos y los ritmos enfáticos simbolizan el lado estoico del género.
 
@@ -128,7 +136,7 @@ Nitzer Ebb puso lo físico en primer plano al reducir los elementos de la EBM al
 
 ## 11. Expansión a Electroindustrial
 
-Desde finales de los años 1980 ha aparecido un grupo de obras que mantienen la estructura de la EBM al tiempo que aumentan su complejidad sonora. Caracterizado por capas de ruido, muestreo de múltiples capas y la construcción de espacios acústicos oscuros, llegó a ser conocido colectivamente como Electro-Industrial.
+Desde finales de los 80 ha aparecido un grupo de obras que mantienen la estructura de la EBM al tiempo que aumentan su complejidad sonora. Caracterizado por capas de ruido, muestreo de múltiples capas y la construcción de espacios acústicos oscuros, llegó a ser conocido colectivamente como Electro-Industrial.
 
 ---
 

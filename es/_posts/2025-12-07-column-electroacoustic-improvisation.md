@@ -65,7 +65,7 @@ La "liberación de los sonidos no instrumentales" demostrada por Eddie Prévost 
 
 ### 2-3. Origen ③: ruido de los años 80 y 90/sonido electrónico alternativo
 El ruido japonés (Merzbow, Incapacitants, etc.) expuso la "materialidad del sonido" a través de la búsqueda definitiva de materiales acústicos.
-Por otro lado, Otomo Yoshihide y Sachiko M introdujeron sonidos electrónicos minimalistas y sofisticados (ondas sinusoidales) en sus improvisaciones, creando las bases de EAI: "reducir el número de sonidos" y "enfatizar el espacio".
+Por otro lado, Otomo Yoshihide y Sachiko M improvisaron sonidos electrónicos minimalistas y sofisticados (ondas sinusoidales) y sentaron las bases de EAI: "reducir el número de sonidos" y "enfatizar el espacio".
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-N2JpUSOGQw?si=2iITe93bkSmd8sOW" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -92,7 +92,7 @@ Desde la perspectiva de la EAI, los siguientes puntos son importantes:
 - Trate su computadora portátil como un "segundo instrumento"
 - Incorporar el procesamiento de señales (filtrado, granular) como acto escénico.
 
-Particularmente en presentaciones en vivo, el proceso de capturar, procesar y crear espacio en tiempo real es responsable de la naturaleza de improvisación de los diminutos ruidos de la guitarra.
+Particularmente en presentaciones en vivo, el proceso de capturar, procesar y crear espacio en tiempo real es responsable de la naturaleza improvisada de los diminutos ruidos de la guitarra.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ibE5Spt4Pkw?si=rFolW3Ja88GV3WpB" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -121,7 +121,7 @@ Las raíces asiáticas de EAI se formaron en un área que se superpuso con el mo
 - Otomo Yoshihide desarrolla improvisación acústica utilizando tocadiscos, guitarras y samplers.
 - El filamento (Otomo x Sachiko M) es una unidad importante en el contexto de EAI
 
-Se puso especial énfasis en el "espacio en blanco" y el "tratamiento del silencio", que tuvieron una gran influencia en el posterior movimiento internacional de la EAI.
+Se puso especial énfasis en el "espacio en blanco" y el "tratamiento del silencio", que tuvieron una gran influencia en el posterior movimiento internacional EAI.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VPQHPCoF3Sk?si=idpKewbUugbRWurv" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -129,7 +129,7 @@ Se puso especial énfasis en el "espacio en blanco" y el "tratamiento del silenc
 
 # 3-4. AMM (Reino Unido)
 AMM, en activo desde los años 60, es uno de los grupos más antiguos en incorporar equipos electrónicos a sus actuaciones.
-La "guitarra horizontal" de Keith Rowe se convirtió en el prototipo para el uso posterior por parte de EAI del ruido de radio y los micrófonos de contacto.
+La "guitarra horizontal" de Keith Rowe se convirtió en el prototipo para el uso posterior por parte de EAI de ruido de radio y micrófonos de contacto.
 
 EAI hereda la estética de AMM: "la naturaleza social de la interpretación", "el uso del silencio" y "el respeto por la contingencia del sonido".
 

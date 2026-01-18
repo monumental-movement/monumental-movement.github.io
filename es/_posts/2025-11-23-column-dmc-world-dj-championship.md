@@ -19,7 +19,7 @@ title: '[Columna] DMC World DJ Championship: La trayectoria del turntablismo con
 
 # DMC World DJ Championship——Historia mundial del turntablismo
 
-Texto: mmr｜Tema: Historia del Campeonato Mundial de DJ DMC, innovación tecnológica, crowdfunding, historia del campeonato mundial, logros de los jugadores japoneses, cultura del equipamiento, Turntablism
+Texto: mmr｜Tema: Historia del Campeonato Mundial de DJ DMC, innovación tecnológica, crowdfunding, cambios en el campeonato mundial, logros de los jugadores japoneses, cultura del equipamiento, Turntablism
 
 Conocido como una de las batallas de DJ más grandes del mundo, el **DMC World DJ Championship (en adelante, DMC)** ha progresado con el crecimiento de la cultura del turntablismo desde sus inicios en 1985.
 El proceso por el cual las técnicas de DJ de hip-hop se volvieron independientes como una "expresión musical" y se institucionalizaron aún más como una "competencia mundial" es una historia única, sin paralelo a cualquier otro género.
@@ -100,7 +100,7 @@ A mediados de la década de 2000, cuando **DVS (Digital Vinyl System)** se hizo 
 En 2006, se permitió el uso de DVS en varios formatos, y el torneo, que anteriormente se había limitado a analógico, adoptó el estilo de "manipular fuentes de sonido digitales con un tocadiscos".
 
 Esto resulta en
-- Utilice libremente sus propias fuentes de sonido editadas
+- Utilice libremente fuentes de sonido originales.
 - Amplía enormemente la gama de configuraciones de rutina
 - Mayor juego de tonos y expresión melódica.
 Esta evolución se está produciendo.
@@ -114,7 +114,7 @@ Alrededor de 2011, se introdujo un **Campeonato de DJ en línea** a través de Y
 
 ## 5-1　El poder de la comunidad que apoyó la continuación del torneo
 Si bien DMC es un torneo de clase mundial, no es una organización comercialmente grande y siempre ha enfrentado desafíos financieros.
-En particular, a finales de la década de 2010, a medida que aumentaba la carga de los costos operativos, DMC llevó a cabo **crowdfunding** varias veces dirigida a los fans y a la comunidad de DJ.
+Particularmente a finales de la década de 2010, a medida que aumentaba la carga de los costos operativos, DMC llevó a cabo **crowdfunding** varias veces dirigida a los fanáticos y a la comunidad de DJ.
 
 ### Hechos principales
 - La **Fundación DMC** llevó a cabo un proyecto de recaudación de fondos y se asignaron fondos para la continuación del torneo.
@@ -165,7 +165,7 @@ Esto llevó al desarrollo de tocadiscos que se trataron como "instrumentos de co
 
 ## 7-1　La abrumadora presencia de Technics SL-1200
 El equipo que ha permanecido en el corazón de DMC es la **serie Technics SL-1200**.
-La robustez, el par motor, la precisión y la durabilidad estaban al más alto nivel, y reinaba como la máquina estándar para las batallas de DJ.
+La robustez, el par, la precisión y la durabilidad estaban al más alto nivel, y reinaba como la máquina estándar para las batallas de DJ.
 
 ## 7-2 Revolución Vestax
 En las décadas de 1990 y 2000, Vestax
@@ -183,14 +183,14 @@ Esto acelerará un nuevo estilo de DJ que combina DVS y analógico.
 # Capítulo 8 Movimiento global que apoya a DMC
 
 ## 8-1 Institucionalización de las eliminatorias regionales
-DMC estableció el flujo de preliminares nacionales → campeones nacionales → torneo mundial, creando las bases para que la escena de cada país se desarrolle de forma independiente.
+DMC estableció el flujo de preliminares nacionales → campeones nacionales → campeonatos mundiales, creando las bases para que la escena de cada país se desarrolle de forma independiente.
 
 ## 8-2 Impacto en la educación/escuelas
 El turntablismo existe desde la década de 2000.
 - Escuela de DJ
 - Taller
 - Departamento Universitario de Música y Medios
-También se incorporó al club y llegó a ser evaluado como un género musical más que simplemente una técnica de club.
+Ha llegado a ser reconocido como un género musical más que simplemente una técnica de club.
 
 ---
 
@@ -222,10 +222,10 @@ Su objetivo es combinar la rutina de una obra en vídeo con el entusiasmo de la 
 
 ## 10-2　Futuro donde el tocadiscos se convierte en un “instrumento musical”
 En el mundo de la música electrónica, los tocadiscos son
-- 即興演奏  
+- improvisación
 - Herramientas de composición
 - arte en vivo
-として扱われつつある。
+Se está tratando como tal.
 
 DMC está en el centro de esta tendencia y los DJ están siendo reconocidos como "artistas que crean música" en lugar de simplemente "tocar canciones".
 

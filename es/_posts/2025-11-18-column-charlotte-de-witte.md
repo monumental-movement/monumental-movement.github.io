@@ -52,7 +52,7 @@ El "amor por los clubes nocturnos" y el "respeto por el underground" cultivados 
 ## Comienza como DJ y era “Raving George” (2010-2014)
 
 Alrededor de **2010**, Charlotte comenzó su carrera como DJ. Se informa que inicialmente tocaron un estilo que se inclina hacia el electro y el EDM.
-Durante el inicio de su carrera, también usó el alias "Raving George" y en 2011 ganó un concurso de DJ patrocinado por la estación de radio belga Studio Brussel. Esto le valió una aparición en el escenario principal de Tomorrowland.
+Durante el inicio de su carrera, también utilizó el alias "Raving George" y en 2011 ganó un concurso de DJ patrocinado por la estación de radio belga Studio Brussel. Esto le valió una aparición en el escenario principal de Tomorrowland.
 
 También lanzó un EP y lanzó sus primeros trabajos en sellos como Bad Life y Crux Records. Poco a poco aumentó su reputación como DJ y comenzó a explorar formas de pasarse al techno.
 
@@ -173,7 +173,7 @@ También ha lanzado trabajos experimentales como “The Heads That Know (feat. C
 | 2015 | Iniciamos actividades con nuestro nombre real, anuncia Weltschmerz EP |
 | 2017 | Lanzamiento del EP Closer, Wisdom, que atrae la atención en Europa y América |
 | 2018 | Aparición de BBC Radio 1 Essential Mix |
-| 2019 | Establecimiento de KNTXT |
+| 2019 | KNTXT establecido |
 | 2022 | Clausura del escenario principal de Tomorrowland |
 | 2023 | Clausura del Festival del Movimiento |
 | 2024 | Se inauguró la tienda KNTXT y comenzó la marca Époque |

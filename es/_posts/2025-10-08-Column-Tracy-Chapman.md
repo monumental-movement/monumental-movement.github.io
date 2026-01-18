@@ -21,7 +21,7 @@ Texto: mmr | Tema: Tracy Chapman es una artista poco común que ha seguido canta
 
 
 "Hablando por los que no tienen voz": esta es probablemente una de las palabras más apropiadas para describir la música y la vida de Tracy Chapman.
-Desde su debut en 1988, ha evitado producciones llamativas y exageradas, y ha seguido representando a la sociedad con tonos acústicos y una voz tranquila, y su viaje conmueve profundamente el alma del oyente.
+Desde su debut en 1988, ha evitado producciones llamativas y exageradas, y ha seguido representando a la sociedad con tonos acústicos y una voz tranquila, y su viaje conmueve lentamente el alma del oyente.
 En este artículo, me gustaría rastrear su educación, su proceso creativo, su tecnología de sonido, sus relaciones importantes y su intersección con los tiempos, y descifrar por qué sus canciones todavía resuenan hoy.
 
 
@@ -58,7 +58,7 @@ Estas experiencias luego llevaron a la conciencia social y el enfoque en los dé
 ---
 
 ### ● Entre lo académico y la música
-Después de asistir a una escuela local, Chapman ingresó a la Escuela Wooster en Connecticut a través del programa de becas “A Better Chance”.
+Después de asistir a escuelas locales, Chapman ingresó a la Escuela Wooster en Connecticut a través del programa de becas “A Better Chance”.
 
 Posteriormente llevó su pasión por la música y la literatura a la Universidad de Tufts, donde estudió arte y humanidades mientras continuaba su carrera musical.
 Se dice que durante su época universitaria, sus actividades diarias incluían presentaciones en vivo en el campus, presentaciones de improvisación con amigos y la fusión de poesía y música.
@@ -94,7 +94,7 @@ Probablemente se eligió este método para preservar la frescura de la creación
 ---
 
 ### ● Anécdotas relacionadas con “Fast Car”
-“Fast Car” es una canción que a menudo se debate sobre si es verdadera o ficticia, pero el propio Chapman dice: “Es una historia y cuenta una verdad emocional”.
+A menudo se debate si "Fast Car" es real o ficticia, pero el propio Chapman dice: "Es una historia y cuenta una verdad emocional".
 En otras palabras, no todos los personajes de la canción son ella misma, pero son un reflejo de ella.
 
 La canción se convirtió en un éxito instantáneo tras su lanzamiento e incluso alcanzó la cima de las listas de Billboard.

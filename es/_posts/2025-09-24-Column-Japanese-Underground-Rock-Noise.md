@@ -21,7 +21,7 @@ title: '[Columna] La trayectoria del rock underground y el ruido japonés desde 
 Texto: mmr｜Tema: Atención mundial a la escena musical underground japonesa desde los años 1990 hasta los años 2000
 
 Las décadas de 1990 y 2000 fueron el apogeo de la **música noise** y también sirvieron como encrucijada con el rock alternativo y el punk de vanguardia.
-En particular, artistas como Keiji Haino, Merzbow, Hijikaido, Melt-Banana, Boredoms y Violent Onsen Geisha destruyeron géneros musicales existentes y abrieron nuevas áreas de expresión.
+En particular, artistas como Keiji Haino, Merzbow, Hijikadan, Melt-Banana, Boredoms y Violent Onsen Geisha destruyeron géneros musicales existentes y abrieron nuevas áreas de expresión.
 
 ---
 
@@ -54,7 +54,7 @@ Este período también vio el surgimiento de sellos independientes, apariciones 
 - **Merzbau**: Al pasar de los equipos analógicos al ruido de los portátiles, refleja los derechos de los animales y el vegetarianismo.
 - **Bombero**: Una existencia que desdibuja la línea entre "banda de ruido" y "arte escénico".
 - **Boredoms**: Fusionando psicodélico y ruido, influyendo en la escena alternativa americana.
-- **Melt-Banana**: "Nano Core" combina la velocidad del hardcore y la textura del ruido.
+- **Melt-Banana**: "Nano Core" combina velocidad extrema y textura de ruido.
 
 ---
 
@@ -102,7 +102,7 @@ Este período también vio el surgimiento de sellos independientes, apariciones 
 
 ### Aburrimientos
 
-- **Características**: Una fusión de noise, psicodélico y hardcore. Una banda que combina arte y caos.
+- **Características**: Una fusión de ruido, psicodélico y hardcore. Una banda que combina arte y caos.
 - **Transition**: En sus inicios eran noise punk, pero en los 90 se volvieron más polirrítmicos y psicodélicos con ``Super æ'' y ``Vision Creation Newsun''.
 - **Anécdota**: "77 Boadrum" se celebró en Brooklyn, NY el 7 de julio de 2007. Un evento legendario que dirigirá a 77 bateristas.
 

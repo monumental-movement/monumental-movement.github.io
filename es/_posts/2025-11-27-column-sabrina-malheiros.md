@@ -98,7 +98,7 @@ En particular, es importante el remix de “Clareia” de los siguientes tres gr
 
 Henry Wu fue una figura central en el movimiento de resurgimiento del jazz del sur de Londres, también conocido como Yussef Kamaal.
 
-Su remezcla enfatiza un complejo trabajo de batería en la línea del ritmo roto y la sofisticación del jazz eléctrico. Si bien mantiene la "luz" de la canción original, al agregar una sensación urbana londinense, tiene un final más amigable para los clubes.
+Su remezcla enfatiza el complejo trabajo de batería en la línea del ritmo roto y la sofisticación del jazz eléctrico. Si bien mantiene la "luz" de la canción original, al agregar una sensación urbana londinense, tiene un final más amigable para los clubes.
 
 ・ Ritmo que rebota
 ・Rodas suaves
@@ -139,7 +139,7 @@ Se puede decir que es el acabado más "underground" con una fuerte textura negra
 
 ## **5. Jazz del Reino Unido ~ Resonancia con ritmo roto**
 
-Es fácil ver por qué las canciones de Sabrina resonaron con tanta fuerza entre los artistas del Reino Unido.
+Es fácil ver por qué las canciones de Sabrina tuvieron tanto eco entre los artistas del Reino Unido.
 
 * Azimuth ~ Un ritmo “oscilante” que conduce a la música brasileña
 * Lenguaje de jazz y trabajo de acordes suaves.

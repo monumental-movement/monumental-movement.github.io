@@ -17,7 +17,7 @@ title: '[Columna] Amapiano sudafricano: una nueva cultura de música dance de Su
 
 ## Introducción — ¿Por qué Amapiano ahora?
 
-Texto: mmr｜Tema: Orígenes de Amapiano, características musicales, historia de desarrollo, principales artistas y proceso de internacionalización.
+Texto: mmr｜Tema: Orígenes del Amapiano, características musicales, historia de desarrollo, principales artistas y proceso de internacionalización.
 
 En los últimos años, el género de música dance **Amapiano**, que se originó en Sudáfrica, ha estado atrayendo la atención no sólo en Japón sino también en la escena de clubes de África, Europa, América del Norte y Asia.
 
@@ -126,7 +126,7 @@ Las características de este período son:
 * El tempo es de alrededor de 110-120 BPM, se establece un ritmo lento
 * Pruebe una variedad de expresiones que incluyen voces y coros.
 
-Como resultado, Amapiano ha pasado de ser una simple música underground a un género reconocido como estilo.
+Como resultado, Amapiano ha pasado de ser simplemente música underground a convertirse en un género reconocido como estilo.
 
 ### Artistas clave y puntos de inflexión
 
@@ -136,7 +136,7 @@ Como resultado, Amapiano ha pasado de ser una simple música underground a un g�
 * Promoción de la ruptura y comercialización del género a nivel nacional.
 *La secuela **El Regreso de los Reyes Escorpión (noviembre 2019)** también fue un éxito
 
-Este período convirtió al Amapiano no sólo en una música municipal, sino en un género reconocido a nivel nacional y comercial.
+Durante este período, Amapiano se convirtió en algo más que una música de pueblo, se convirtió en un género reconocido a nivel nacional y comercial.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u2V08RBLOdM?si=ajNfLm30b3Pom53A" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 

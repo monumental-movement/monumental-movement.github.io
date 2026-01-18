@@ -113,6 +113,8 @@ Los trabajos en video presentan primeros planos del cuerpo, iluminación control
 
 Los movimientos están estructurados con fuerte lentitud y velocidad, y corresponden estrictamente a cambios en el sonido.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wZ2njttY3BA?si=LoipjfeBoX9zUWOa" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
 ---
 
 ## 10. Antecedentes de las actividades de Arca
@@ -148,6 +150,8 @@ Esto pone al oyente en un estado de tensión física.
 En las expresiones visuales de Arca, el cuerpo es tratado como un material transformable. El cuerpo humano, los objetos artificiales y las imágenes procesadas digitalmente se superponen y tienen una relación correspondiente con la distorsión acústica.
 
 Las representaciones corporales no indican identidades fijas, sino que se presentan como estructuras en constante cambio.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4LaCgzhidY?si=3Ml1wlUr-tNSts8U" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 

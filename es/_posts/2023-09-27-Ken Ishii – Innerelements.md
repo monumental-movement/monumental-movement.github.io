@@ -9,7 +9,7 @@ permalink: /es/ken-ishii-innerelements/
 tags:
 - Techno
 - Ambient
-title: Ken Ishii - Elementos internos
+title: Ken Ishii – Elementos internos
 ---
 
 

@@ -46,7 +46,7 @@ color: #fff;
 
 ## 2. El hip-hop venció a la producción como cultura antecedente
 
-Los orígenes directos del Lo-Fi Hip Hop se encuentran en la cultura de producción beat del hip-hop de finales de los años 1980 y 1990. Técnicas como la construcción de ritmos repetitivos utilizando samplers y cajas de ritmos, muestreo de discos y reconstrucción de breakbeats se trasladaron a la producción de ritmos Lo-Fi posterior.
+Los orígenes directos del Lo-Fi Hip Hop se encuentran en la cultura de producción beat de hip-hop de finales de los años 1980 y 1990. Técnicas como la construcción de ritmos repetitivos utilizando samplers y cajas de ritmos, muestreo de discos y reconstrucción de breakbeats se trasladaron a la producción de ritmos Lo-Fi posterior.
 
 En ese momento, el entorno de producción se centraba en hardware como MPC, SP‑1200 y ASR‑10, y los tiempos de muestreo cortos y las bajas velocidades de bits afectaban directamente la calidad del sonido. Estas limitaciones dieron lugar a características acústicas que luego fueron reevaluadas como "calidez" y "rugosidad".
 
@@ -99,7 +99,7 @@ Esta categorización provocó un cierto nivel de conciencia del formato por part
 
 ---
 
-## 8. Cultura de representación visual y animación.
+## 8. Representación visual y cultura de la animación.
 
 Las representaciones visuales asociadas con la música también jugaron un papel importante en la difusión del Lo‑Fi Hip Hop. Las imágenes en bucle hechas de imágenes fijas y animaciones simples eran altamente compatibles con la naturaleza repetitiva de la música.
 
@@ -117,7 +117,7 @@ Si bien esta formalización reduce la barrera de entrada, también limita el ran
 
 ## 10. Comercialización y perspectiva crítica
 
-Lo‑Fi Hip Hop/Chillhop estaba fuertemente ligado a un modelo de ingresos basado en visualizaciones en streaming. Las estructuras adecuadas para la reproducción a largo plazo son altamente compatibles con los algoritmos y ha habido muchos casos de éxito comercial.
+Lo‑Fi Hip Hop/Chillhop está fuertemente ligado a un modelo de ingresos basado en visualizaciones en streaming. Las estructuras adecuadas para la reproducción a largo plazo son altamente compatibles con los algoritmos y ha habido muchos casos de éxito comercial.
 
 Por otro lado, también se critica que consumir música como fondo dificulta la evaluación de obras individuales.
 

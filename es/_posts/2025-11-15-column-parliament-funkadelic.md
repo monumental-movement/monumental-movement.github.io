@@ -22,7 +22,7 @@ title: '[Columna] Parlamento / Funkadelic: La historia completa de la revolució
 Texto: mmr｜Tema: Sobre la cosmovisión del P-Funk, que todavía existe como base del hip-hop, R&B, electro, arte y moda actuales.
 
 
-En la historia de la música negra estadounidense de la segunda mitad del siglo XX, **Parliament/Funkadelic (comúnmente conocido como P-Funk)** es el grupo que combina la mayor mitología y la innovación sonora.
+En la historia de la música negra estadounidense en la segunda mitad del siglo XX, **Parliament/Funkadelic (comúnmente conocido como P-Funk)** es el grupo que combina el mayor mito y la innovación sonora.
 Dirigido por George Clinton, este colectivo era más que una simple banda, era un proyecto gigantesco que combinaba una historia multiverso, una sensibilidad tecnológica futurista y los ritmos completamente físicos del funk.
 
 P-Funk queda claro cuando lo entiendes en términos de los siguientes tres ejes.
@@ -113,7 +113,7 @@ Estos personajes se integran en la música, el vestuario, la dirección escénic
 
 ---
 
-## Capítulo 4: Una inmersión profunda en la técnica musical - ¿Por qué el sonido de P-Funk es tan "cósmico"?
+## Capítulo 4: Una inmersión profunda en las técnicas musicales - ¿Por qué el sonido de P-Funk es tan "cósmico"?
 
 Lo que hace que P-Funk sea único no es sólo la fuerza de su ritmo, sino su "control estructural".
 
@@ -130,7 +130,7 @@ La forma de tocar la batería de Jerome "Bigfoot" Braley y otros tiene las sigui
 
 * Bombo mínimo
 * La trampa es profunda y trasera.
-*El charles tiene un poco de confusión.
+*El charles tiene un poco de movimiento aleatorio.
 
 Como resultado, el ritmo se siente como si avanzara mientras flota.
 
@@ -145,7 +145,7 @@ Como resultado, el ritmo se siente como si avanzara mientras flota.
 * Acento agudo al estilo de James Brown
 *Pero tiene más juego que JB y más armonía que el unísono.
 
-### ■ 5. Sonido futuro del sintetizador
+### ■ 5. Sonidos futuros de los sintetizadores
 
 El Minimoog de Barney Worrell trajo por primera vez "sonidos electrónicos cósmicos" a la música negra.
 **El origen del hip-hop, el G-funk y el electro**.
@@ -162,7 +162,7 @@ El Minimoog de Barney Worrell trajo por primera vez "sonidos electrónicos cósm
 
 ### ■ Parlamento “Conexión de la nave nodriza” (1975)
 
-* La obra central del mito del P-Funk
+* La obra central de la mitología P-Funk.
 * Éxitos globales como “Give Up the Funk” y “Mothership Connection”
 * Maximiza la teatralidad en vivo.
 
@@ -198,7 +198,7 @@ graph TD
 
 P-Funk dejó tres impactos importantes en la cultura negra.
 
-### ■ (1) Expansión de la expresión negra de ciencia ficción (afrofuturismo)
+### ■ (1) Expansión de la expresión de ciencia ficción negra (afrofuturismo)
 
 Junto con Sun Ra, P-Funk creó una base cultural para el futuro de los negros.
 
@@ -266,7 +266,7 @@ timeline
 ## Conclusión: P-Funk es un “enorme archivo de futuros negros”
 
 George Clinton es más que un simple líder funk.
-Fue un "arquitecto cultural" que aunó **la música, el cuerpo, el universo, la mitología y la crítica social**.
+Fue un "diseñador cultural" que aunó **la música, el cuerpo, el universo, la mitología y la crítica social**.
 
 La visión del mundo de P-Funk sigue viva hoy como base del hip-hop, el R&B, el electro art y la moda actuales.
 Mientras P-Funk siga en el centro de la música negra que habla del futuro, su nave espacial "Mothership" nunca aterrizará.

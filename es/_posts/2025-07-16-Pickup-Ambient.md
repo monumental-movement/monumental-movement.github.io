@@ -213,7 +213,7 @@ B. Our Ghosts
 ### Sr. Blank – En el terreno
 <a href="https://jp.mercari.com/item/m86675145742?afid=6142608987"><img src="../assets/images/Mr.%20Blank%20%E2%80%93%20On%20The%20Ground.webp"></a>
 
-Género: Ambient / Dub / Future Jazz / Hip‑House
+Género: Ambient / Dub / Future Jazz / Hip-House
 
 Lanzamiento: 1994
 

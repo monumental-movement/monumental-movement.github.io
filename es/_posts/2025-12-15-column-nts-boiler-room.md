@@ -42,7 +42,7 @@ color: #fff;
 </style>
 
 
-## Capítulo 1: Establecimiento de NTS Radio y cultura de radiodifusión
+## Capítulo 1 Establecimiento de NTS Radio y cultura de radiodifusión
 
 NTS Radio es una radio por Internet con sede en Londres que transmite programas de DJ y presentaciones en vivo las 24 horas del día. El contenido de transmisión es muy variado e incluye música de club, música experimental, música folclórica y actuaciones de improvisación.
 
@@ -56,7 +56,7 @@ Una característica de NTS es que no otorga ninguna ventaja a ningún género en
 
 Boiler Room comenzó como un proyecto para transmitir pequeños eventos de DJ en interiores en Londres. La cámara entra en el mismo espacio que el DJ, y se caracteriza por un formato que incluye la presencia del público.
 
-Este formato se diferencia de la grabación de vídeo tradicional, donde se coloca una cámara detrás de la cabina del DJ, en que la audiencia, el espacio y los artistas están todos en el mismo cuadro. Como resultado, la actuación de DJ se ha visualizado como una expresión que incluye "comportamiento físico y social" en lugar de un acto de "sólo sonido".
+Este formato se diferencia de la grabación de vídeo tradicional en la que se instala una cámara detrás de la cabina del DJ y tiene una estructura en la que el público, el espacio y los intérpretes están todos en el mismo encuadre. Como resultado, la actuación de DJ se ha visualizado como una expresión que incluye "comportamiento físico y social" en lugar de un acto de "sólo sonido".
 
 ---
 
@@ -66,7 +66,7 @@ Las sesiones de DJ en NTS y ​​Boiler Room tienden a ser diferentes de las co
 
 Particularmente en NTS, son comunes los sets largos que duran más de dos horas, y a menudo se ve un estilo que construye suavemente una narrativa mientras cruza géneros. Por otro lado, Boiler Room tiene muchos decorados relativamente cortos, enfatizando el desarrollo en sincronía con la calidez del espacio.
 
-> "La condición de transmisión en vivo ha cambiado el DJ set de una ``técnica que hace funcionar el espacio'' a una ``estructura que se escucha''.
+> "Las condiciones del streaming en vivo cambiaron el DJ set de una ``técnica que hace funcionar el espacio'' a una ``estructura que se escucha''.
 
 ---
 
@@ -74,13 +74,13 @@ Particularmente en NTS, son comunes los sets largos que duran más de dos horas,
 
 La música experimental se ha interpretado tradicionalmente en pequeños locales, museos e instalaciones universitarias. Sin embargo, con la difusión de la transmisión en vivo, el entorno de presentación se ha ampliado.
 
-NTS incorpora de forma natural ruido, drones, improvisación, música por ordenador, etc. a la programación de radio. El formato de presentación, que minimizaba la información visual, sirvió para fomentar la atención en la estructura acústica.
+NTS incorpora de forma natural ruido, drones, improvisación, música por ordenador, etc. a la programación de radio. El formato de entrega, que minimizaba la información visual, sirvió para fomentar la atención en la estructura acústica.
 
 Boiler Room también presentó actuaciones experimentales además de la música de baile, creando un espacio donde la música experimental podría reinterpretarse dentro de un contexto visual.
 
 ---
 
-## Capítulo 5 El concepto de actuación en vivo desconocida
+## Capítulo 5 El concepto de actuación en vivo desconocida.
 
 En un entorno de transmisión en vivo, aunque la reacción de la audiencia es físicamente limitada, existe un número indeterminado de oyentes al mismo tiempo. Esta situación crea un ambiente en el que el resultado es difícil de predecir para el ejecutante.
 
@@ -150,17 +150,17 @@ Los hechos resumidos en este artículo servirán como base para considerar futur
 La práctica de los artistas de streaming en vivo que aparecen en NTS y ​​Boiler Room tiene más que ver con "la música como cuerpo de movimiento" que con el nombre de un género.
 
 Las sesiones de DJ y las actuaciones experimentales en transmisiones en vivo se presentan como un estado de cambio continuo a lo largo del tiempo, más que como una obra terminada.
-Esto puede considerarse como "movimiento registrable".
+Esto puede verse como "movimiento registrable".
 
 > "En el momento en que la música rechaza los formatos fijos, su movimiento se hace más evidente."
 
 ---
 
-## Capítulo Suplementario 2 Desaparición de estudio y sitio
+## Capítulo 2 Suplementario Desaparición de estudio y sitio
 
 Tradicionalmente, existía una distinción entre producción musical en el estudio y interpretación en el sitio. Sin embargo, en un entorno de transmisión en vivo, esta distinción se vuelve borrosa. Viviendas, espacios temporales, equipamientos públicos, estudios sin público, etc. se convierten en espacios de producción y performance al mismo tiempo.
 
-En NTS se ha confirmado que hay muchos casos en los que material en plena producción o fuentes de sonido sin terminar se reproducen tal cual en el programa. Boiler Room también lanza ocasionalmente sets en vivo que están cerca de los ensayos.
+En NTS se ha confirmado que hay muchos casos en los que material en plena producción o fuentes de sonido inacabadas se reproducen tal cual en el programa. Boiler Room también lanza ocasionalmente sets en vivo que están cerca de los ensayos.
 
 > “La desaparición de estudios y localizaciones liberó a la música de la 'preparación'”
 
@@ -184,7 +184,7 @@ Especialmente en NTS, los DJ crean archivos musicales continuando sus programas 
 
 ---
 
-## Capítulo 5 Suplementario Video Intervención y Denegación
+## Capítulo Suplementario 5 Video Intervención y Rechazo
 
 Si bien Boiler Room incorpora video activamente, NTS ha mantenido un diseño centrado en el audio. Esta diferencia afecta directamente la dirección del desempeño.
 

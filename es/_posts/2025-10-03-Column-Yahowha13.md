@@ -61,7 +61,7 @@ El periodismo y los artículos de no ficción han explorado esta naturaleza dual
 Mientras la comuna estaba en funcionamiento, hay registros de que hubo disputas que son típicas de las operaciones de una secta, como "abandono de bienes personales", "separación de familiares" y "permiso para casarse con miembros jóvenes".
 
 
-El 25 de agosto de 1975, murió en un accidente mientras intentaba su primer vuelo en ala delta en Hawaii (se dice que se estrelló y murió aproximadamente 9 horas después). Este accidente efectivamente se convirtió en un evento que simbolizó el “fin” de Yahooha13.
+El 25 de agosto de 1975, murió en un accidente mientras intentaba su primer vuelo en ala delta en Hawaii (se estrelló y murió unas 9 horas después). Este accidente efectivamente se convirtió en un evento que simbolizó el “fin” de Yahooha13.
 
 
 Posteriormente los miembros de la congregación se dispersaron, pero ésta ha sido revalorizada a través de archivos sonoros y folclore. En particular, la caja de 13 discos God and Hair (Yahowha Collection), lanzada por el sello japonés Captain Trip en 1998, cubrió completamente las fuentes de sonido de Yahowha13/Source Family y se convirtió en una oportunidad para el resurgimiento de la leyenda.
@@ -128,7 +128,7 @@ Durante este período, exploraba la fusión de experimentos acústicos y sesione
 Ya Ho Wa 13 (1974), Savage Sons of Ya Ho Wa (1974), Penetración: una sinfonía de Acuario (1974), Voy a llevarte a casa (1974), A los principios para los niños (1975), La opereta (inédita en 1975 → publicada más tarde), etc.
 
 
-Durante este período, también se intentó incorporar más "estructuralidad" y "musicalidad", con un estilo que incluía una mezcla de riffs de guitarra distorsionados, frases repetitivas y poesía y canto fragmentados.
+Durante este período, también se intentó incorporar más "estructuralidad" y "musicalidad", con un estilo que incluía riffs de guitarra distorsionados, frases repetidas y poesía y canto fragmentados.
 
 
 En particular, se dice que Penetration: An Aquarian Symphony es el trabajo más popular y reevaluado en la historia de la banda, y ha sido reeditado muchas veces.
@@ -140,10 +140,10 @@ En particular, se dice que Penetration: An Aquarian Symphony es el trabajo más 
 Después de 1975, la banda se disolvió debido al fallecimiento del padre Yod. Sin embargo, los músicos no profesionales continuaron grabando y actuando.
 
 
-En 1977, se lanzaron Golden Sunrise (bajo el nombre de Fire Water Air) y Yodship Suite (Private Press). También hay colaboración con Sky Saxon (ex de The Seeds) y participación vocal.
+En 1977, se lanzaron Golden Sunrise (bajo el nombre Fire Water Air) y Yodship Suite (Private Press). También hay colaboración con Sky Saxon (ex de The Seeds) y participación vocal.
 
 
-Desde la década de 2000, ha habido reediciones y reimpresiones de archivos, nuevas grabaciones fragmentarias y reuniones de miembros (como Sonic Portation de Djin, Girasol, Octavius, etc.).
+Desde la década de 2000, ha habido reediciones y reimpresiones de archivos, nuevas grabaciones fragmentarias y reuniones de miembros (Sonic Portation de Djin, Girasol, Octavius, etc.).
 
 
 ---
@@ -217,7 +217,7 @@ En 2009, se lanzó una recopilación de canciones inéditas como [Magnifience in
 ---
 
 
-#### Reunión/Actividades
+#### Reunión/actividades
 
 En 2007, los miembros originales (Sunflower, Octavius, Djin) actuaron en vivo por primera vez en 33 años.
 
@@ -246,7 +246,7 @@ Por otro lado, también incluye temas controvertidos como la crítica ética e h
 
 ### Detalles del álbum (por obras seleccionadas/notables)
 
-*Los LP se concentran entre 1973 y 1975, y fueron grabados y vendidos inicialmente bajo el nombre de Father Yod & The Spirit of '76, y luego bajo el nombre de Ya Ho Wa / Ya Ho Wha 13. La información del disco varía mucho de una edición a otra porque es una prensa/archivo pequeño.
+*Los LP se concentran entre 1973 y 1975, y fueron inicialmente grabados y vendidos bajo el nombre de Father Yod & The Spirit of '76, y luego bajo el nombre de Ya Ho Wa / Ya Ho Wha 13. La información del disco varía mucho de una edición a otra porque es una prensa/archivo pequeño.
 
 
 ---
@@ -319,7 +319,7 @@ Referencias al arquetipo “viaje/purificación/elementos (fuego/agua/aire/tierr
 Frases doctrinales/rituales (palabras indicadas por nombres de temas redactados como “hombre el mesías”): palabras improvisadas y superpuestas como la declaración de un líder.
 
 
-Cómo analizar: En lugar de simplemente leer las letras como ``letra = transmisión de significado'', es más útil leerlas de la siguiente manera: ``(1) El sonido en sí es un ritual / (2) Las palabras son desencadenantes sugerentes y poéticos que generan una experiencia comunitaria en el acto''. En otras palabras, la guía religiosa participativa a través del “sonido/repetición” es el núcleo del álbum.
+Cómo analizar: En lugar de simplemente leer las letras como ``letra = transmisión de significado'', es más útil leerlas de la siguiente manera: ``(1) Los sonidos en sí mismos son rituales / (2) Las palabras son desencadenantes sugerentes y poéticos que generan una experiencia comunitaria inmediata''. En otras palabras, la guía religiosa participativa a través del “sonido/repetición” es el núcleo del álbum.
 
 ---
 
@@ -374,7 +374,7 @@ Es conocido por ser parte de Source Family por un tiempo y estar involucrado en 
 Muchos LP de primera edición son pequeñas ediciones de 500 a 1000 copias. Las ediciones originales son caras y raras.
 
 
-Las reediciones varían en el grado de edición de la fuente sonora dependiendo de la editorial y la época (hay una mezcla de ediciones editadas que incluyen canciones inéditas, reimpresiones con los originales, ediciones remasterizadas, etc.). Recomendamos comprobar la edición (año/etiqueta) al realizar la compra.
+Las reediciones varían en el grado de edición de la fuente sonora dependiendo de la editorial y la época (hay una mezcla de ediciones editadas que incluyen canciones inéditas, reimpresiones con los originales, ediciones remasterizadas, etc.). Recomendamos consultar la edición (año/etiqueta) al realizar la compra.
 
 
 ---
@@ -387,7 +387,7 @@ Las reediciones varían en el grado de edición de la fuente sonora dependiendo 
 **Comprensión de la composición y el canto (intermedio)**: escuche I'm Gonna Take You Home, Savage Sons of Ya Ho Wa y comprenda la diferencia entre los elementos de la canción y los elementos de la sesión.
 
 
-**Archivado/Inédito (Investigación)**: Profundice con Drag City's Magnificence in the Memory, Captain Trip's God and Hair (13CD). Alto valor de archivo.
+**Archivado/No publicado (Investigación)**: Profundice con La magnificencia en la memoria de Drag City, Dios y cabello del capitán Trip (13CD). Alto valor de archivo.
 
 
 ---
@@ -440,7 +440,7 @@ El sonido "Ya Ho Wha" en sí mismo es un mantra sagrado de la Familia Fuente, un
 
 #### 🇺🇸 América
 
-**Situación inicial**: En los años 1970, sólo había discos de producción propia (lotes muy pequeños) y seguía siendo un culto.
+**Situación inicial**: En los años 70, sólo había discos de producción propia (lotes muy pequeños) y seguía siendo un culto.
 
 **Década de 1990**: Reediciones de sellos independientes como Drag City y Swordfish en el contexto de una reevaluación psicodélica.
 
@@ -467,7 +467,7 @@ El sonido "Ya Ho Wha" en sí mismo es un mantra sagrado de la Familia Fuente, un
 
 **Auge de las reediciones psicológicas de los 90**: P.S.F. Records y Captain Trip Records presentaron activamente Yahooha 13.
 
-Ha aparecido como un "psicodélico de culto fantasma" en revistas como "Eureka" y "Eurorock Press", y los oyentes japoneses lo coleccionan con avidez.
+Ha aparecido como un "psicodélico de culto fantasma" en revistas como Eureka y Eurorock Press, y los oyentes japoneses lo coleccionan con avidez.
 
 **Tendencias de evaluación**: En Japón, se considera "herético" y "psicodélico esotérico" y se ha convertido en una pieza de colección en tiendas de discos importados (Disc Union, Melon, Manhattan Records, etc.).
 

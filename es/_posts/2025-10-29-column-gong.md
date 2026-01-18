@@ -64,7 +64,7 @@ Gong nació justo en medio de esto. Antisistema, anarquía, mundo espiritual, cu
 
 > 🎵 Fuentes recomendadas: *Magick Brother* (1969), *Camembert Electrique* (1971)
 
-El sonido de Gong fue una reacción química entre el caos social y las ideas espirituales utópicas.
+El sonido de Gong fue una reacción química entre el caos social y las ideas utópicas espirituales.
 
 ---
 
@@ -151,7 +151,7 @@ El gong era un símbolo de una práctica contracultural que no separaba la socie
 
 ---
 
-## Capítulo 7 Transformación y herencia——Moellan Gong y renacimiento {#chapter7}
+## Capítulo 7 Transformación y herencia——Moellan-Gong y renacimiento {#chapter7}
 
 Después de 1976, David Allen se fue.
 Pierre Moerlan tomó el relevo y nació el **Pierre Moerlan's Gong**, orientado al jazz fusión.

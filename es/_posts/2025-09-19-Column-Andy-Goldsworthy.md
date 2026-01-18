@@ -15,7 +15,7 @@ title: '[Columna] Andy Goldsworthy y la música: resonancia artística en torno 
 ---
 
 
-## Andy Goldsworthy y la música - Resonancia artística en torno al tiempo y la naturaleza
+## Andy Goldsworthy y la música: resonancia artística en torno al tiempo y la naturaleza
 
 Texto: mmr｜Tema: Las obras de Andy Goldsworthy y la resonancia sonora del ambiente, la grabación de campo y la música minimalista.
 

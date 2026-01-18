@@ -47,7 +47,7 @@ color: #fff;
 
 ## 1. La ciencia de escuchar: el universo dentro de tus oídos
 
-> “El sonido hace temblar el aire y hacer temblar el corazón”.
+> “El sonido hace temblar el aire y hace temblar el corazón”.
 > — Brian Eno
 
 El sonido captado por el oído externo hace vibrar el tímpano, pasa a través de los huesecillos auditivos y llega a la cóclea.
@@ -56,7 +56,7 @@ El sitio web de HHF proporciona una explicación fácil de entender de los mecan
 
 El sonido recogido en el oído externo viaja a través del tímpano hasta los huesecillos del oído medio y luego a la cóclea del oído interno.
 Desde allí, se convierte en una señal eléctrica y se envía al tronco del encéfalo y a la corteza auditiva a través del nervio auditivo.
-Escuchar sonido es verdaderamente la "música de la vida", que abarca desde fenómenos físicos hasta procesos neurológicos y cognitivos.
+Escuchar sonido es verdaderamente la "música de la vida", e involucra todo, desde fenómenos físicos hasta procesos neurológicos y cognitivos.
 
 ---
 
@@ -171,7 +171,7 @@ Por ejemplo, los ganadores de **Becas para investigación emergente** selecciona
 Desde la edición genética hasta la inteligencia artificial, describe el "futuro de la escucha" desde diversos ángulos.
 
 Además, en la revista online para el público general, **Hearing Health Magazine**,
-Presenta experiencias reales y columnas de expertos, y propone la salud del oído como estilo de vida.
+Cuenta con experiencias reales y columnas de expertos, y propone la salud del oído como estilo de vida.
 
 ---
 

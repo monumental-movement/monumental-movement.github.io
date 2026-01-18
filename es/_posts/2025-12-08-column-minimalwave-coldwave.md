@@ -66,7 +66,7 @@ Es fácil de entender si lo entiendes de la siguiente manera:
 
 ---
 
-## 2. Antecedentes del nacimiento del género: Revolución de la música electrónica desde finales de los 70 hasta los 80
+## 2. Antecedentes del nacimiento del género: revolución de la música electrónica desde finales de los 70 hasta los 80
 
 ### ● 2-1. Innovación tecnológica: Popularización de los sintetizadores analógicos
 A finales de la década de 1970, el precio de los sintetizadores cayó, haciéndolos asequibles para los músicos comunes y corrientes.
@@ -75,7 +75,7 @@ Modelos representativos:
 - **ARP Odisea**
 - **Roland SH-101**
 - **Circuitos Secuenciales Pro-One**
-- **Roland TR-606 / TR-808 (caja de ritmos)**
+- **Roland TR-606/TR-808 (caja de ritmos)**
 
 Ahora es posible crear música utilizando un sintetizador independiente + una grabadora de casetes de 4 pistas, en lugar de utilizar costosos equipos modulares.
 

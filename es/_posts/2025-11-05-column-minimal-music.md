@@ -31,7 +31,7 @@ Abandonando el dramatismo y la expresión emocional que ha perseguido la música
 Más bien, se ha transformado en un arte que nos permite escuchar el "tiempo y la estructura" mismos.
 "In C" de Terry Riley, "Piano Phase" de Steve Reich,
 Y "Einstein en la playa" de Philip Glass——
-Elevaron la repetición del sonido a una experiencia meditativa en lugar de aburrida.
+Elevaron la repetición del sonido a una experiencia meditativa en lugar de una experiencia aburrida.
 
 Con el tiempo, esta filosofía impregnó el mundo de la música electrónica.
 Al ritmo constante de TR-808 y 909,
@@ -154,7 +154,7 @@ Los sintetizadores repetidos y los loops vocales aportan un sentido reichiano de
 
 Isao Tomita utilizó un sintetizador para reconstruir la música clásica en "repetición electrónica".
 En Moonlight (1974), sutiles fluctuaciones de modulación dan forma al espacio sonoro.
-Esta sensación de "persistencia electrónica" también se aplica a la música tecno-ambiental posterior.
+Esta sensación de "persistencia electrónica" también se aplica a la música tecno-ambiente posterior.
 
 ### Ryoji Ikeda: Datos y frecuencia mínimos
 

@@ -22,7 +22,7 @@ Texto: mmr | Tema: De Joy Division a New Order - Una historia de la transformaci
 
 A finales de la década de 1970, la ciudad industrial de Manchester se encontraba en medio de la devastación y el estancamiento. Aumento del desempleo, malestar social y cielos grises. Entre ellos, Joy Division convirtió en sonido la desesperación de los jóvenes con sus ritmos inorgánicos y su fría poesía. La voz de Ian Curtis resonó como símbolo del dolor y la soledad de la época, abriendo la puerta a una nueva era del post-punk.
 
-Sin embargo, la muerte de Curtis en 1980 puso fin abruptamente a esa historia. Los miembros restantes eligen renacer de su tristeza y dar un paso hacia el futuro de la música electrónica. El nacimiento de New Order marcó el comienzo de un nuevo capítulo en el sonido de Manchester que ha evolucionado más allá de la tragedia.
+Sin embargo, la muerte de Curtis en 1980 puso fin abruptamente a esa historia. Los miembros restantes eligen renacer de su tristeza y dar un paso hacia el futuro de la música electrónica. El nacimiento de New Order fue el comienzo de un nuevo capítulo en el sonido de Manchester que había evolucionado más allá de la tragedia.
 
 ---
 
@@ -48,7 +48,7 @@ A finales de la década de 1970, Gran Bretaña se encontraba en medio de una rec
 En 1976, Bernard Sumner, Peter Hook y Stephen Morris se conocieron y formaron Joy Division. Los primeros miembros se conectaron a través de la escuela y la escena punk local, y al principio tocaron covers, pero eventualmente evolucionaron hacia canciones originales que reflejaban su sensación de aislamiento y la tristeza de la ciudad.
 
 **"Hilo de influencia"**
-Kraftrock de Kraftwerk y Neu!, los sonidos fríos y duros de Velvet Underground y los elementos vanguardistas de David Bowie y Roxy Music formaron la base del sonido inicial de Joy Division.
+Kraftrock de artistas como Kraftwerk y Neu!, los sonidos fríos y duros de Velvet Underground y los elementos vanguardistas de David Bowie y Roxy Music formaron la base del sonido inicial de Joy Division.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9ryJB-FF_Jg?si=L5cecdtz45JglfbR" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -120,7 +120,7 @@ Compra en Amazon → [Movimiento](https://amzn.to/4mXprzN)
 Con canciones como "Power, Corruption & Lies", "Low-Life" y "Technique", profundizaron aún más su fusión de rock, sintetizador y dance. Experimentaron con diferentes técnicas de producción en cada álbum, aumentando su recepción en clubes y en la radio.
 
 **"Fusión de vídeo/diseño y sonido"**
-La obra de arte de Peter Saville conecta la música y las imágenes y establece la identidad de marca de New Order. El diseño se convirtió en un elemento importante para expresar simbólicamente el contenido del álbum.
+La obra de arte de Peter Saville conecta la música y las imágenes y establece la identidad de marca de New Order. El diseño se convirtió en un elemento importante que expresaba simbólicamente el contenido del álbum.
 
 **"Cooperación y fricción entre miembros"**
 La división de roles y las opiniones encontradas entre Sumner, Hook, Morris y Gillian Gilbert crean tensión dentro de la banda a medida que evoluciona la música. La fricción también se convirtió en una fuerza impulsora de la creatividad.

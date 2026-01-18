@@ -54,7 +54,7 @@ Esto creó una estructura rítmica de múltiples capas.
 * **Factores sociales:** Después de la abolición de la esclavitud, se formó una comunidad afroamericana en La Habana y avanzó en la profesionalización de los músicos negros.
 * **Elementos técnicos:** La estandarización del tres (guitarra de tres cuerdas) y las congas hizo posible la posterior estructura montuno.
 
-Es en este contexto que aparece un revolucionario ciego llamado **Arsenio Rodríguez** (1911-1970).
+Es en este contexto que surge un revolucionario ciego llamado **Arsenio Rodríguez** (1911-1970).
 
 ---
 
@@ -63,7 +63,7 @@ Es en este contexto que aparece un revolucionario ciego llamado **Arsenio Rodrí
 ### “El Ciego Maravilloso (El jugador ciego milagroso)”
 
 Nacido en La Habana, Arsenio perdió la vista en un accidente cuando era niño.
-A cambio de este sentido, adquirió la habilidad sobrenatural de escuchar la "estructura interna del ritmo".
+A cambio de esta sensación, adquirió la habilidad sobrenatural de escuchar la "estructura interna del ritmo".
 
 ### Sus innovaciones:
 
@@ -111,7 +111,7 @@ Su sonido está conectado con el jazz afroespiritual posterior (Pharoah Sanders,
 
 Cuando Arsenio se mudó a los Estados Unidos en 1950 y comenzó a trabajar en Harlem,
 Sabu había estado haciendo sesiones en la misma ciudad.
-Aunque su punto de contacto no es una colaboración directa,
+Aunque su punto de contacto no es el coprotagonismo directo,
 Estaban profundamente entrelazados dentro de la **cultura de la diáspora afroBronx-Harlem**.
 
 | Época | Arsenio Rodríguez | Sabú Martínez |

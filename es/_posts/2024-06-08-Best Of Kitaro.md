@@ -15,7 +15,7 @@ title: Lo mejor de Kitaro
 ---
 
 
-Kitaro, teclista y sintetizador japonés, ganó el Globo de Oro a la mejor banda sonora original por la película de 1994 "Heaven & Earth", dirigida por Oliver Stone. En 2001, ganó el 43º premio Grammy al Mejor Álbum New Age.
+Kitaro, teclista y sintetizador japonés, ganó el Globo de Oro a la mejor banda sonora original en 1994 por la película Heaven & Earth de Oliver Stone. En 2001, ganó el 43º premio Grammy al Mejor Álbum New Age.
 
 "Best of Kitaro" es una cinta recopilatoria de Kitaro lanzada en 1985 por el sello alemán Kuckuck.
 

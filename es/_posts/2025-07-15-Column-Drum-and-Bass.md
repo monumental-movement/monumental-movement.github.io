@@ -19,7 +19,7 @@ title: '[Columna] El impacto del Drum & Bass: Poéticas urbanas tejidas por el s
 Texto: mmr｜Tema: Pensamientos sobre el sonido Drum & Bass/Jungle/UK
 
 
-Drum & Bass (D&B) es un género musical nacido en la escena de clubes underground de Londres a principios de los años 1990, y al mismo tiempo es el ritmo mismo de la vida urbana multicultural. Combinando ritmos rápidos, líneas de bajo rugientes y reggae/dub/hip-hop/techno, revolucionaron la historia de la música del Reino Unido.
+Drum & Bass (D&B) es un género musical nacido en la escena de clubes underground de Londres a principios de los años 90 y, al mismo tiempo, es el ritmo mismo de la vida urbana multicultural. Combinando ritmos rápidos, líneas de bajo rugientes y reggae/dub/hip-hop/techno, revolucionaron la historia de la música del Reino Unido.
 
 Su evolución ha sido increíble, con muchas ramas que van desde el jungla, el liquid funk y el techstep hasta el neurofunk, el jump-up y el drumstep.
 
@@ -48,7 +48,7 @@ Las raíces de D&B se encuentran en el género de la jungla. Se trataba de un ri
 
 **Periodo de establecimiento de Drum & Bass**
 
-A partir de ese momento, el nombre "jungla" cambió gradualmente a "D&B". Esto significa que el sonido es más refinado y las técnicas de producción y subgraves han mejorado. Su funcionalidad como música de club aumenta y la escena madura.
+A partir de ese momento, el nombre "jungla" cambió gradualmente a "D&B". Esto significa un sonido más refinado, subgraves y técnicas de producción mejoradas. Su funcionalidad como música de club aumenta y la escena madura.
 
 #### Artistas representativos:
 
@@ -176,7 +176,7 @@ Actualmente, D&B reina como la base de la música bass en todo el mundo. Las esc
 
 **● Artistas contemporáneos destacados**
 
-**Noisia (disuelta)**: tecnología de producción a nivel de Dios.
+**Noisia (disuelta)**: Habilidades de producción a nivel de Dios.
 
 **Alix Pérez**: Un alquimista sonoro que puede hacer de todo, desde doblaje hasta medio paso.
 

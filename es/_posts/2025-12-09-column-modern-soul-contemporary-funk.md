@@ -304,7 +304,7 @@ flowchart TD
 | 2016 | Anderson .Paak anuncia “Malibu” |
 | 2017 | Thundercat “Borracho” anunciado |
 | 2021 | Se anuncia pausa Kaiyote “Mood Valiant” |
-| Años 2020 | La cultura de la banda y la edición DAW se integran más y se difunden por todo el mundo |
+| Años 2020 | La cultura de la banda y la edición DAW se integran más y se extienden por todo el mundo |
 
 ---
 

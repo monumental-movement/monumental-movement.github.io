@@ -79,14 +79,14 @@ Aunque hay poco contacto directo entre los dos, es interesante que se desarrolla
 ### ■ Estudio de caso: Evangelion y el sentimiento del rock progresivo
 De hecho, no hay muchos ejemplos de rock progresivo introducido directamente en el anime. Sin embargo, hay obras que se han señalado por tener elementos de rock progresivo. Un ejemplo típico es **[``Neon Genesis Evangelion''](https://amzn.to/46uRu3i)**.
 
-La banda sonora de Shiro Sagisu está salpicada de desarrollos profundos y disonantes que recuerdan a King Crimson y Yes. En particular, canciones como "Decisive Battle" y "Thanatos" hacen uso frecuente de compases y cambios de clave extraños, y en lugar de brindar al oyente un placer fácil, despiertan ansiedad y tensión. Este es exactamente el método expresivo en el que el rock progresivo es bueno, y resuena con la "dificultad" y la "filosofía" de la obra en su conjunto.
+La banda sonora de Shiro Sagisu está salpicada de desarrollos profundos y disonantes que recuerdan a King Crimson y Yes. En particular, canciones como "Decisive Battle" y "Thanatos" hacen uso frecuente de compases y cambios de clave extraños, y en lugar de brindar al oyente un placer fácil, despiertan ansiedad y tensión. Éste es exactamente el método expresivo en el que el rock progresivo es bueno, y resuena con la "dificultad" y la "filosofía" de la obra en su conjunto.
 
 Además, las ideas occidentales y los motivos religiosos a los que Eva rinde homenaje también son elementos que aparecen con frecuencia en los álbumes conceptuales de rock progresivo. Como resultado, se puede decir que Evangelion encarna una cosmovisión del rock progresivo no sólo visual y narrativamente, sino también musicalmente.
 
 ---
 
 ### ■ ¿Por qué el rock progresivo no se convirtió en algo común en el anime?
-Sin embargo, la corriente principal de la música anime es el J-POP, el rock, el electro, etc., y hay pocos ejemplos de rock progresivo llevado a un primer plano. Una de las razones de esto puede ser la **diferencia con la comercialidad**. Las canciones de rock progresivo suelen ser difíciles de entender, largas y no tienen estribillos pegadizos. No combina bien con el "gancho corto e impactante" requerido para las aperturas y finales.
+Sin embargo, la corriente principal de la música anime es el J-POP, el rock, el electro, etc., y hay pocos ejemplos de rock progresivo llevado a un primer plano. Una de las razones de esto puede ser la **diferencia con la comercialidad**. Las canciones de rock progresivo suelen ser difíciles de entender, largas y no tienen estribillos pegadizos. No combina bien con el "gancho corto e impactante" necesario para las aperturas y los finales.
 
 Sin embargo, por otro lado, todavía hay espacio para que las técnicas del rock progresivo sigan existiendo en "lugares con un alto grado de libertad", como bandas sonoras, OVA y versiones cinematográficas. Teniendo en cuenta el auge del post-rock y el metal progresivo en los últimos años, las posibilidades son aún más amplias.
 
@@ -127,7 +127,7 @@ La afinidad entre el anime y el rock progresivo no es solo una combinación de g
 | [Acorazado espacial Yamato (1974)](https://amzn.to/3KgYE3F) | El momento en que Yamato dispara el arma de movimiento ondulatorio | La parte caótica del inicio de Yes "Close to the Edge" | La escala cósmica y el torrente sonoro coinciden |
 | [Mobile Suit Gundam (1979)](https://amzn.to/4nfbz4G) | La batalla final entre Amuro y Char | Pink Floyd "Perros" | Una larga historia enfatiza la fatídica batalla |
 | [AKIRA (1988)](https://amzn.to/42JuTie) | El alboroto y el colapso de Tetsuo | Rey Carmesí "Rojo" | Un terrorífico riff de guitarra se asimila al colapso del mundo |
-| [Neon Génesis Evangelion (1995)](https://amzn.to/42KUZ4t) | El clímax del plan de complementación humana | Dream Theatre "Metrópolis—Parte I" | Vínculos de la estructura filosófica y técnica con la complejidad de la historia |
+| [Neon Génesis Evangelion (1995)](https://amzn.to/42KUZ4t) | El clímax del plan de complementación humana | Dream Theatre “Metrópolis—Parte I” | Vínculos de la estructura filosófica y técnica con la complejidad de la historia |
 | [Fantasma en la Shell S.A.C. (2002)](https://amzn.to/4gyCJkA) | Escena donde Motoko Kusanagi se sumerge en internet | Herramienta "Lateral" | La música con una estructura de secuencia numérica se superpone con la sensación de construir un mundo cibernético |
 | [Proxy Ergo (2006)](https://amzn.to/3Iq2jvC) | La escena donde Rel sale de la ciudad | Árbol puercoespín “Las estrellas mueren” | Una belleza lúgubre donde se superponen decadencia y filosofía |
 | [Hecho en el abismo (2017)](https://amzn.to/4gzijI9) | El momento en que llegas a la sexta capa del mundo profundo | Steven Wilson “Vida perfecta” | Resuena una canción que combina tristeza y sublimidad |
@@ -137,7 +137,7 @@ La afinidad entre el anime y el rock progresivo no es solo una combinación de g
 
 
 ### ■ Conclusión
-El rock progresivo nunca llegó a ser "mainstream" en el anime comercial. Sin embargo, su larga composición, su difícil ritmo y su naturaleza conceptual tienen una gran afinidad con el desarrollo tipo taiga de las obras de anime centradas en la ciencia ficción y la fantasía.
+El rock progresivo nunca llegó a ser "mainstream" en el anime comercial. Sin embargo, sus características como estructura larga, ritmo difícil y naturaleza conceptual tienen una gran afinidad con el desarrollo taiga de obras de anime centradas en la ciencia ficción y la fantasía.
 
 Ejemplos como Neon Genesis Evangelion, que incorporan directamente técnicas de rock progresivo, son sólo la punta del iceberg. En el futuro, la ilusión de "¿y si el anime se contara a través del rock progresivo?" seguirá mostrando nuevas intersecciones entre la música y el vídeo.
 

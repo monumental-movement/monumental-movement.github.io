@@ -100,7 +100,7 @@ Debido a la disminución de las nevadas y las fluctuaciones en el crecimiento de
 
 - **Silbato**: Acción evasiva ligera
 
-- **Voz Humana**: Evasión Media
+- **Voz humana**: Evasión media
 
 - **Petardo**: Evasión fuerte
 
@@ -122,13 +122,13 @@ G[高周波電子音] --> H[実験的回避]
 
 ---
 
-### 4.2 Ejemplo de experimento
+### 4.2 Ejemplo experimental
 
 - **Hokkaido Orchard (2015-2018)**: Tasa de invasión reducida en un 40% debido al uso de petardos
 
 - **Prueba de sonido electrónico de Kyushu (2019-2021)**: evitación a corto plazo debido al uso de equipos de alta frecuencia, se produce una habituación a largo plazo
 
-- **Demostración de oradores de IA de Tohoku (2020-2023)**: Tasa de éxito de la advertencia de intrusión de osos 65%
+- **Demostración de oradores de IA en Tohoku (2020-2023)**: Tasa de éxito de la advertencia previa a la invasión de osos: 65%
 
 ---
 
@@ -156,7 +156,7 @@ Generación de sonido según patrones de comportamiento mediante análisis de IA
 
 ### 6.2 Casos internacionales
 
-- **California, EE.UU.**: Prevención de intrusiones mediante sonidos electrónicos y voz humana
+- **California, EE.UU.**: Prevención de intrusiones mediante sonidos electrónicos y voces humanas
 
 - **BC, Canadá**: La gestión acústica no letal reduce los daños a los cultivos
 

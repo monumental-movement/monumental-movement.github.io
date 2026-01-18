@@ -22,7 +22,7 @@ Texto: mmr | Tema: Una exploración integral de los antecedentes históricos, la
 
 El yoga es más que un simple ejercicio físico; es una sabiduría antigua que integra la mente y el cuerpo. Sus orígenes se remontan al período védico, alrededor del año 1500 a.C., cuando la recitación de mantras y poesía estaba estrechamente asociada con la meditación y los rituales religiosos. Las vibraciones sonoras desempeñaban un papel en calmar la mente y agudizar los sentidos físicos.
 
-Por ejemplo, cantar ``Om'' (ॐ) hace que las vibraciones graves resuenen en todo el cuerpo, lo que tiene el efecto de regular la respiración y los latidos del corazón. Las ragas (combinaciones de escalas) en la música clásica india se utilizaban como medio para ajustar el estado mental y corporal según la estación y la hora del día.
+Por ejemplo, cantar "Om (ॐ)" hace que las vibraciones graves resuenen en todo el cuerpo, lo que tiene el efecto de regular la respiración y los latidos del corazón. Las ragas (combinaciones de escalas) en la música clásica india se utilizaban como medio para ajustar el estado mental y corporal según la estación y la hora del día.
 
 Incluso hoy en día, el yoga y la música son inseparables. En el estudio, se reproduce música de fondo meditativa, sonidos naturales y música ambiental junto con ejercicios de respiración y asanas, lo que facilita que incluso los principiantes entren en un estado de concentración. La integración de la respiración, el movimiento y el ritmo musical crea naturalmente la armonía entre la mente y el cuerpo.
 
@@ -89,7 +89,7 @@ A principios del siglo XX, la musicoterapia comenzó a atraer la atención en lo
 
 ### Nacimiento de la música new age
 
-Desde la década de 1970, ha surgido la música new age con fines de meditación y curación. Se incorporaron canciones que utilizan sintetizadores y sonidos naturales a las asanas de yoga y la meditación, aportando profundidad espiritual. La combinación de yoga y música se ha establecido como un enfoque integrado que promueve la salud, la espiritualidad y el crecimiento personal.
+Desde la década de 1970, ha aparecido la música new age con fines de meditación y curación. Se incorporaron canciones que utilizan sintetizadores y sonidos naturales a las asanas de yoga y la meditación, aportando profundidad espiritual. La combinación de yoga y música se ha establecido como un enfoque integrado que promueve la salud, la espiritualidad y el crecimiento personal.
 
 ---
 
@@ -99,11 +99,11 @@ En el siglo XXI, el yoga se ha vuelto muy popular en todo el mundo. Se está inc
 
 ### Uso de BGM en el estudio
 
-En los estudios de yoga modernos, la elección de la música de fondo influye en el ambiente de la clase. Los suaves sonidos ambientales y naturales ayudan a los principiantes a concentrarse en su respiración y aliviar la tensión psicológica. Para flujos dinámicos como el vinyasa yoga, son adecuadas la música rítmica con un tempo y canciones con un bajo potente.
+En los estudios de yoga modernos, la elección de la música de fondo influye en el ambiente de la clase. Los suaves sonidos ambientales y naturales facilitan que los principiantes se concentren en su respiración y alivian la tensión psicológica. Para flujos dinámicos como el vinyasa yoga, son adecuadas la música rítmica con un tempo y canciones con un bajo potente.
 
 ### Fusión con EDM, Lo-Fi, Ambient
 
-En los últimos años también han aumentado los intentos de combinar música EDM, Lo-Fi y Ambient con el yoga. El hip-hop Lo-Fi, en particular, combina ritmos relajantes con sonidos ambientales para crear un espacio adecuado para la meditación o posturas estáticas.
+En los últimos años también han aumentado los intentos de combinar música EDM, Lo-Fi y Ambient con el yoga. El hip-hop Lo-Fi en particular combina ritmos relajantes con sonidos ambientales para crear un espacio adecuado para la meditación o posturas estáticas.
 
 ### Trinidad de respiración, movimiento y música.
 
@@ -152,7 +152,7 @@ La conexión entre el yoga y la música no sólo es relevante para la salud pers
 ---
 
 
-## Capítulo 6: Guía práctica {#chapter6}
+## Capítulo 6: Guía práctica {#capítulo6}
 
 La música de fondo recomendada para cada pose se muestra en un bocadillo. También se enumeran los BPM de la música que coincide con cada estilo.
 

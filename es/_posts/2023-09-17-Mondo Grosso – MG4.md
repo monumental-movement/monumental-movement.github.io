@@ -13,7 +13,7 @@ title: Mundo Grosso – MG4
 ---
 
 
-Música de club japonesa basada en las raíces de Shinichi Osawa en el jazz, el soul y la música brasileña, con delicados arreglos utilizando instrumentos en vivo y ritmos de baile 2Step.
+Música de club japonesa basada en las raíces de Shinichi Osawa en el jazz, el soul y la música brasileña, con delicados arreglos utilizando instrumentos en vivo y ritmos de baile de 2Step.
 
 También se incluyen "Life" y "Butterfly", que fueron éxitos en ese momento y presentaban a Bird.
 

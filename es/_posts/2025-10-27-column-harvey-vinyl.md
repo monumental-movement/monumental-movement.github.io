@@ -15,7 +15,7 @@ title: '[Columna] DJ Harvey y la colección de discos: DJ como cuerpo que vive e
 ---
 
 
-## Prólogo: Los mitos de DJ Harvey
+## Prólogo: La mítica estatua de DJ Harvey
 
 
 Texto: mmr｜Tema: No sólo un DJ, sino una consideración del último “chamán” de la era analógica
@@ -64,7 +64,7 @@ Para él, un registro es "el acto de llevar un registro de la vida de otra perso
 Deambulando por mercados y mercadillos, desenterrando discos polvorientos. No sólo hay sonidos sino también **rastros del tiempo** grabados allí.
 
 Harvey dice: "Cuanto más huellas humanas tiene un disco, más vivo es el sonido".
-Su set incluye una mezcla de Italo disco desconocido, rock de los 70, boogie sintetizado de los 80 y AOR hawaiano.
+Su set incluye una mezcla de Italo disco desconocido, rock de los 70, boogie sintetizado de los 80 e incluso AOR hawaiano.
 La selección de canciones no es aleatoria, sino que se basa en la intuición de leer el "flujo de aire del sonido".
 
 Su bolso de DJ es como un diario de viaje. Cada disco contiene recuerdos de alguna noche.
@@ -211,7 +211,7 @@ pie title DJ Harvey's Vinyl Box Composition
 
 **Explicación**:
 La caja de discos de Harvey es un archivo orgánico basado en la mezcla de géneros.
-Lo que llama la atención es que "Rock" y "House" están colocados en el mismo lugar.
+Lo que llama la atención es que "Rock" y "House" están colocados por igual.
 Esto simboliza el hecho de que es un DJ que siempre conecta con vibraciones, no con géneros.
 La tragamonedas "Rarezas" es el arma secreta de Harvey. Se activa durante las horas nocturnas y en la configuración del amanecer.
 

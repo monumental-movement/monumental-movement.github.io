@@ -142,16 +142,16 @@ Detrás de esto hay una estética tecnológica continua desde YMO hasta Perfume.
 
 ---
 
-## Capítulo 6 Tecnología y emociones: cuando las máquinas representan a los humanos
+## Capítulo 6 Tecnología y emociones: Cuando las máquinas dibujan a los humanos
 
 Secuenciador, sampler, autotune.
 Estas no eran herramientas para la "precisión", sino pinceles utilizados para resaltar la "ambigüedad humana".
 Algo mecánico puede ser emocional: ese es el encanto paradójico del synthpop.
 
 En el siglo XXI, "la estética de la imperfección" está siendo reevaluada.
-La voz vacilante de Grimes, el procesamiento vocal de inteligencia artificial de Charli XCX y la combinación de idiomas nativos de Yaeji.
+La voz vacilante de Grimes, el procesamiento vocal de IA de Charli XCX y la combinación de idiomas nativos de Yaeji.
 Todo esto demuestra que los "sonidos imperfectos" transmiten humanidad.
-A medida que evoluciona la composición de IA, la "artificialidad humana" del synthpop puede ser el último romanticismo en la música.
+A medida que avanza la composición de IA, la "artificialidad humana" del synthpop puede ser el último romanticismo en la música.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X73VZJKrPIc?si=nZlS67Av7Y748O_a" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -193,7 +193,7 @@ Synthpop es a la vez el "sonido del futuro" y el "sonido de la nostalgia por el 
 ¿Por qué nos conmueven tanto los fríos sonidos electrónicos de los años 80? Esto se debe a que contienen la "temperatura de una época en la que la gente creía en el futuro".
 Incluso ahora, a medida que avanza la tecnología digital y la IA comienza a componer música, los humanos continúan buscando su "yo" en los sonidos de las máquinas.
 
-La "relación entre tecnología y emoción" que Ryuichi Sakamoto siguió preguntando hasta el final vuelve a ser un tema de primera línea.
+La "relación entre tecnología y emoción", que Ryuichi Sakamoto siguió preguntando hasta el final, vuelve a ser un tema de primera línea.
 Y en algún lugar de ese linaje se encuentra la sonrisa electrónica de YMO, los polirritmos de Perfume y las lágrimas pixeladas de Charli XCX.
 
 El futuro siempre suena en sueños electrónicos.
@@ -238,7 +238,7 @@ flowchart TD
 | Década de 1980 | **Chicos de la tienda de mascotas** | *En realidad* (1987) | La cumbre del "pop intelectual" que combina frialdad urbana y humor.      | [Amazon](https://amzn.to/3ISMMon) |
 | Década de 1990 | **Bjork** | *Homogénico* (1997) | Una obra maestra “orgánica electrónica” que fusiona emociones humanas y mecánicas.       | [Amazon](https://amzn.to/4nR1xHw) |
 | Década de 1990 | **Daft Punk** | *Descubrimiento* (2001) | “Romance digital” influenciado por YMO. Resonancia entre humanos y robots. | [Amazon](https://amzn.to/490IBBn) |
-| Años 2000 | **Cornelio** | *Punto* (2002) | El pop como arte sonoro. Redefiniendo sonidos y ritmos ambientales.          | [Amazonas](https://amzn.to/3KKeAMe) |
+| Años 2000 | **Cornelio** | *Punto* (2002) | El pop como arte sonoro. Redefiniendo sonidos y ritmos ambientales.          | [Amazon](https://amzn.to/3KKeAMe) |
 | Años 2000 | **Perfumes** | *JUEGO* (2008) | Una pieza monumental de pop de alta tecnología de Japón. La estética perfeccionista de Yasutaka Nakata.     | [Amazon](https://amzn.to/4n5WHoC) |
 | Década de 2010 | **Grimes** | *Ángeles del arte* (2015) | Una fusión de cultura otaku y pop DIY. Anticipando las emociones en la era de la IA.      | [Amazon](https://amzn.to/4q6159R) |
 | Década de 2010 | **Charli XCX** | *Choque* (2022) | La forma completa del hiper pop. Encarnando la forma futura del synth pop.        | [Amazon](https://amzn.to/3JaMwRD) |
@@ -260,7 +260,7 @@ A2. Los ejemplos incluyen Depeche Mode, New Order, Pet Shop Boys y Human League.
 
 A3. El espíritu experimental de YMO y Ryuichi Sakamoto influyó en Daft Punk y Radiohead, y se convirtió en el origen de la "humanidad electrónica" en la era de la IA.
 
-- **P4. ¿Cuáles son las características del neo-synthpop de los últimos años? **
+- **P4. ¿Cuáles son las características del neo-synth pop de los últimos años? **
 
 A4. El punto es que incorporamos activamente “distorsión digital” como el hiper pop y la música AI. Charli XCX y Grimes son ejemplos de ello.
 

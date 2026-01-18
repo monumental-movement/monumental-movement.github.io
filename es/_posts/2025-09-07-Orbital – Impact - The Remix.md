@@ -9,7 +9,7 @@ permalink: /es/orbital-impact-the-remix/
 tags:
 - Techno
 - 90s
-title: Orbital - Impacto - El Remix
+title: Orbital – Impacto – El Remix
 ---
 
 

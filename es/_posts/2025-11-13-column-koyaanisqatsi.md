@@ -32,7 +32,7 @@ En 1982, surgió de la escena del cine independiente estadounidense un largometr
 
 No hay narración ni diálogo en esta película.
 Lo que se muestra son sólo imágenes de la naturaleza y la sociedad humana. Y lo que los atraviesa es la **música minimalista** de Glass.
-Su estructura rítmica y estética de la repetición, si bien resuenan con el flujo de las imágenes, representan la "transformación de la civilización moderna" en forma de sonido.
+Su estructura rítmica y estética de la repetición, si bien resuenan con el flujo de las imágenes, retratan la "transformación de la civilización moderna" en forma de sonido.
 
 ---
 
@@ -82,7 +82,7 @@ De hecho, el proceso de producción de Reggio y Glass implicó una edición en l
 El director de fotografía Ron Fricke también es un poeta visual que luego trabajó en "Baraka" y "Samsara".
 La técnica de fotografía a intervalos y cámara lenta que desarrolló todavía era poco común en ese momento.
 
-La película comenzó como una producción completamente independiente, sin apoyo estatal ni corporativo.
+La película comenzó como una producción completamente independiente, sin apoyo estatal ni empresarial.
 También es de destacar que, en medio de dificultades financieras, se adoptó un proceso inverso en el que primero solo se completó la música y luego se editó el video.
 
 ---
@@ -117,7 +117,7 @@ Reggio es también una figura espiritual con experiencia en un monasterio, y tod
 
 ---
 
-## Capítulo 5: La relación de correspondencia entre la composición de vídeo y la música
+## Capítulo 5: La relación entre la composición de vídeo y la música
 
 | Escena | Motivo musical | Significado/efecto |
 | ----------- | -------- | ---------- |

@@ -56,10 +56,10 @@ Lo que es digno de mención es que publicó sus obras con varios nombres. Entre 
 ## Capítulo 3: Deconstrucción del álbum: las profundidades de un gran álbum
 
 ### “Sakura” (1999)
-横田進の代表作であり、アンビエント音楽史に残る金字塔。  
+La obra maestra de Susumu Yokota y una obra monumental en la historia de la música ambiental.
 La débil melodía y los sonidos ambientales se superponen, guiando suavemente la conciencia del oyente hacia adentro. Tiene una fugacidad que captura el momento de la caída de las flores de cerezo en el sonido, y es una fusión de lirismo japonés y belleza universal.
 
-アルバムは構成的にも秀逸で、全体が一つの「呼吸」のように流れる。静かに始まり、かすかなリズムが生まれ、やがて消えていく。まるで人生や季節の循環そのものだ。  
+El álbum tiene una estructura excelente y todo el álbum fluye como un solo "aliento". Comienza silenciosamente, crea un ritmo débil y luego desaparece. Es como el ciclo de la vida y las estaciones mismas.
 La razón por la que "Sakura" sigue siendo amada por los fanáticos de la música ambiental de todo el mundo es probablemente porque representa perfectamente este "sentido del tiempo" a través del sonido.
 
 ### “Símbolo” (2001)
@@ -79,10 +79,10 @@ La "música de la vida" única de Yokota flotando entre la naturaleza y la elect
 ## Capítulo 4: Proyecto bajo el nombre de Anima Mundi
 
 "Anima Mundi" significa "alma del mundo" en latín.
-横田進がこの名義で展開した作品群は、まさにその名にふさわしい内容だった。  
-ドローン、環境音、そして倍音構造に重点を置いた楽曲群は、聴く者の内的空間を拡張する。そこに拍子も旋律もない。ただ「存在する音」だけがある。
+La serie de obras que Susumu Yokota desarrolló bajo este nombre fueron verdaderamente dignas de ese nombre.
+Las canciones se centran en drones, sonidos ambientales y estructuras armónicas, ampliando el espacio interior del oyente. No hay ritmo ni melodía. Sólo existe el "sonido que existe".
 
-この名義は、ヨコタにとって「無意識と宇宙をつなぐチャンネル」だったとも言える。  
+Para Yokota, se podría decir que este nombre es un "canal que conecta el inconsciente y el universo".
 Si la música bajo el nombre Susumu Yokota es "poesía terrenal", Anima Mundi es "oración celestial".
 
 "Hebula" de 12 pulgadas es una canción techno que combina un sonido alucinante y de ensueño con ritmos y elementos tribales. Esta canción presenta efectos acústicos complejos y texturas sonoras de múltiples capas, que transportan a los oyentes a otro mundo.
@@ -107,19 +107,19 @@ B2. Spring
 ## Capítulo 5: Reputación e impacto internacional
 
 A principios de la década de 2000, Susumu Yokota fue muy aclamado en la escena ambiental y electrónica europea y americana.
-特に『Sakura』は、Boards of CanadaやFennesz、Biosphereと並び称されるほどの完成度を誇った。  
+En particular, "Sakura" alardeaba de tal nivel de perfección que fue clasificada junto a las Juntas de Canadá, Fennesz y Biosphere.
 Su belleza trascendió las fronteras del género e influyó en la música posclásica y meditativa.
 
 También se sabe que Aphex Twin y Four Tet apoyaron su trabajo.
-海外では「日本が生んだブライアン・イーノ」と評されたが、実際のヨコタの音楽は、より感情的で詩的であった。
+En el extranjero, lo describían como "Brian Eno de Japón", pero la música de Yokota era en realidad más emotiva y poética.
 
 ---
 
 ## Capítulo 6: Vida y fisicalidad
 
-ヨコタのライブは、単なる再現ではなく「空間そのものを奏でる」試みだった。  
-彼は照明や映像を極力排し、音が持つ“空気の密度”で空間を変容させた。  
-観客は音の粒に包まれ、時の感覚を失う。まるで一人一人が音の中に溶けていくような体験だった。
+La actuación en vivo de Yokota no fue sólo una recreación, sino un intento de "representar el espacio mismo".
+Eliminó al máximo la iluminación y las imágenes y transformó el espacio utilizando la "densidad del aire" del sonido.
+El público queda envuelto en partículas de sonido y pierde el sentido del tiempo. Fue una experiencia en la que sentí como si cada persona se fundiera con el sonido.
 
 Su postura fue un raro ejemplo de combinación de la fisicalidad bailable del techno con la naturaleza meditativa del ambient.
 
@@ -128,8 +128,8 @@ Su postura fue un raro ejemplo de combinación de la fisicalidad bailable del te
 ## Capítulo 7: La filosofía musical de Susumu Yokota
 
 La filosofía musical de Yokota, en pocas palabras, es "encontrar vida en el sonido".
-彼にとって音は素材ではなく、生きている存在だった。  
-だからこそ、彼の作品には人工的な冷たさがない。電子音であっても、どこか草木のように温かい。
+Para él, el sonido no era sólo un material, sino una entidad viva.
+Por eso sus obras no tienen ninguna frialdad artificial. Aunque es un sonido electrónico, tiene una sensación cálida y vegetal.
 
 Su música es también una exploración poética del tiempo.
 El tiempo no parece "fluir", sino más bien "oscilar".
@@ -137,9 +137,9 @@ En este flujo, el oyente se olvida de sí mismo y se vuelve uno con el sonido.
 
 ---
 
-## 第8章：遺産と現代への継承
+## Capítulo 8: El patrimonio y su continuación hasta nuestros días
 
-2015年に彼がこの世を去ったとき、多くのファンやミュージシャンがその喪失を嘆いた。  
+Cuando falleció en 2015, muchos fans y músicos lamentaron su pérdida.
 Sin embargo, su música sigue viva en silencio. Las nuevas generaciones siguen expuestas a su sonido a través de Bandcamp y reediciones.
 Su música trasciende géneros como Ambient, Drone y Minimal, y está siendo redescubierta como "meditación auditiva".
 

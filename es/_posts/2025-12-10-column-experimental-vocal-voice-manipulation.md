@@ -55,7 +55,7 @@ Desde la década de 1970, los vocoders y los sintetizadores analógicos se han v
 
 ### 2-1. Popularización de DAW y samplers.
 
-La proliferación de estaciones de trabajo de audio digital (DAW) y samplers de hardware/software desde la década de 1990 ha hecho posible cortar y pegar voces libremente y manipular de forma independiente el eje de tiempo, el tono y el tempo. Las voces fueron fragmentadas y reorganizadas para asumir nuevas funciones rítmicas, texturales y melódicas.
+La proliferación de estaciones de trabajo de audio digital (DAW) y muestreadores de hardware/software desde la década de 1990 ha hecho posible cortar y pegar voces libremente y manipular de forma independiente el eje de tiempo, el tono y el tempo. Las voces fueron fragmentadas y reorganizadas para asumir nuevas funciones rítmicas, texturales y melódicas.
 
 ### 2-2. Corrección de formantes y procesamiento de tono.
 
@@ -128,7 +128,7 @@ Reproducir voces e imitar las voces de otros utilizando IA plantea cuestiones é
 
 ### 6-1. Extracción y conversión de funciones de audio
 
-El aprendizaje automático ha hecho posible extraer las características de tono, envolvente espectral, sincronización y pronunciación del habla con alta precisión y transferirlas a otras voces o sonidos sintetizados. Las aplicaciones de transferencia de estilos están atrayendo la atención como método para incorporar características del canto existente en nuevos contextos.
+El aprendizaje automático ha hecho posible extraer las características de tono, envolvente espectral, sincronización y pronunciación del habla con alta precisión y transferirlas a otras voces o sonidos sintetizados. Las aplicaciones de transferencia de estilo están atrayendo la atención como método para incorporar características del canto existente en nuevos contextos.
 
 ### 6-2. Límite entre el habla sintética y la creación
 

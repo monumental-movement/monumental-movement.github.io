@@ -15,13 +15,6 @@ title: '[Columna] Música ambiental / ambiental japonesa'
 ---
 
 
-
-
-
-
-
-
-
 ## **Introducción: Hasta que el silencio cubra el mundo**
 
 Texto: mmr｜Tema: El núcleo de la música ambiental japonesa de los años 80 y su reevaluación histórica

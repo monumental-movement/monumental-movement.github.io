@@ -10,7 +10,7 @@ tags:
 - Deep House
 - Tech House
 - 00s
-title: DJ Dakar – Joven en el paraíso / It’s Gonna Down
+title: DJ Dakar – Joven en el paraíso / It's Gonna Down
 ---
 
 
@@ -30,4 +30,4 @@ B. It's Gonna Down
 [Comprar en Mercari](https://jp.mercari.com/item/m82290413116?afid=6142608987){: .button1}
 
 #### YouTube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vto7YaCgvak?si=Gp_AENGprCuhG0P5" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vto7YaCgvak?si=Gp_AENGprCuhG0P5" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -18,7 +18,7 @@ title: '[Columna] La edad de oro de los samplers de 12 bits: MPC60/SP-1200'
 ## Capítulo 1: Introducción: ¿Por qué 12 bits?
 
 
-Texto: mmr｜Tema: Acerca del sampler de 12 bits, que jugó un papel central en la producción musical desde los años 1980 hasta principios de los 1990.
+Texto: mmr | Tema: Sobre el "sampler de 12 bits" que jugó un papel central en la producción musical desde los años 1980 hasta principios de los 1990.
 
 El sampler de 12 bits no fue sólo un "punto intermedio tecnológico", sino que creó características sonoras no deseadas, lo que resultó en un nuevo método de producción y lenguaje musical. En los días anteriores a que se idealizara la "alta resolución" como la de 16 y 24 bits, la de 12 bits, combinada con limitaciones de memoria, producía contornos sonoros, distorsión y ruido de cuantificación únicos. Para muchos productores esto no fue un inconveniente, sino más bien una materia prima para el diseño tonal.
 
@@ -38,7 +38,7 @@ color: #fff;
 </style>
 
 
-## Capítulo 2: Conocimientos técnicos básicos: teoría de muestreo y características de 12 bits
+## Capítulo 2: Conceptos básicos técnicos: teoría de muestreo y características de 12 bits
 
 ### 2.1 Conceptos básicos del muestreo
 
@@ -75,7 +75,7 @@ A mediados y finales de la década de 1980, los precios de las memorias de semic
 * **Características clave**: secuenciador de 8 pistas, filtro (analógico), salidas individuales
 
 **Filosofía y características del diseño**
-El SP-1200 fue diseñado teniendo en cuenta las limitaciones de tiempo de un muestreador y está optimizado para el flujo de trabajo de "cortar y organizar muestras cortas". Combinado con circuitos analógicos internos, el resultado es un rango grueso de baja frecuencia con "rugosidad" u "ondulación". Según las especificaciones y los documentos técnicos de E-mu de la época, se puede confirmar que la ruta A/D y el diseño del filtro del SP-1200 contribuyen a la coloración acústica.
+El SP-1200 fue diseñado teniendo en cuenta las limitaciones de tiempo de un muestreador y está optimizado para el flujo de trabajo de "cortar y organizar muestras cortas". Combinado con circuitos analógicos internos, el resultado es un rango grueso de baja frecuencia con "rugosidad" u "ondulación". Basándonos en las especificaciones y la documentación técnica de E-mu de la época, podemos confirmar que la ruta A/D y el diseño del filtro del SP-1200 contribuyen a su coloración acústica.
 
 **Uso práctico**
 
@@ -102,7 +102,7 @@ Con la ayuda de diseño de Roger Linn, el MPC60 pretendía ser un "muestreador r
 
 * Año de lanzamiento: 1984
 * Profundidad de bits: 8 bits (características de muestreo no lineales)
-* Rango de precios: Acelere la difusión de muestras en el rango de precios bajos.
+* Rango de precios: Acelere la difusión de muestras en el rango de precios bajo
 
 Aunque Mirage no es de 12 bits, es muy influyente como muestreador de baja resolución de la misma época. Favorecido por artistas que buscan texturas rugosas.
 
@@ -190,7 +190,7 @@ flowchart TD
 
 ## Capítulo 9: UI/UX e instrumentación: establecimiento de un enfoque de rendimiento utilizando MPC
 
-La serie MPC popularizó el concepto de "sampler = un instrumento para tocar". En particular, los 16 pads, la sensibilidad de los pads, la baja latencia para una reproducción instantánea y el secuenciador incorporado permiten improvisar, y se ha ampliado su uso en presentaciones en vivo y sesiones improvisadas. El hecho de que la fusión de la filosofía de diseño de Roger Linn (que enfatiza el sentido humano del rendimiento) y el diseño de producto de Akai respaldó el éxito del MPC60 está respaldado por múltiples entrevistas con desarrolladores.
+La serie MPC popularizó el concepto de "sampler = un instrumento para tocar". En particular, los 16 pads, la sensibilidad de los pads, la baja latencia para una reproducción instantánea y el secuenciador incorporado permiten improvisar, y su uso en presentaciones en vivo y sesiones improvisadas se ha ampliado. El hecho de que la fusión de la filosofía de diseño de Roger Linn (que enfatiza el sentido humano del rendimiento) y el diseño de producto de Akai respaldó el éxito del MPC60 está respaldado por múltiples entrevistas con desarrolladores.
 
 ---
 

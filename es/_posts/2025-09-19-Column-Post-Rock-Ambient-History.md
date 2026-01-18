@@ -18,7 +18,7 @@ title: '[Columna] Historia del post-rock/ambient y cambios en los equipos [Anál
 
 Texto: mmr｜Tema: Post-rock y ambient, desde sus orígenes en los años 70 hasta sus perspectivas de futuro
 
-El post-rock y la música ambiental tienen su origen en el espíritu experimental de los años 70 y han seguido evolucionando en medio de escenas e innovaciones tecnológicas.
+El post-rock y la música ambiental tienen su origen en el espíritu experimental de los años 1970 y han seguido evolucionando en medio de escenas e innovaciones tecnológicas.
 Aquí, le proporcionaremos una lista completa de obras maestras, equipos y antecedentes culturales para que pueda obtener una vista panorámica del período **desde la década de 1970 hasta la década de 2020**.
 
 ---
@@ -52,7 +52,7 @@ color: #fff;
 | *Música Discreta* | Brian Eno | 1975 | Experimento de bucle de cinta |
 
 **Equipo principal**
--MoogModular
+-Moog Modular
 -EMS Synthi AKS
 - Cinta Revox A77
 

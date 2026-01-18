@@ -49,7 +49,7 @@ Cuando se juega durante un largo período de tiempo, los estímulos a corto plaz
 
 Los loops en Ambient Techno/Deep Ambient no son un truco para hacerte escuchar la repetición misma. Más bien, es un dispositivo para crear artificialmente un estado en el que parece que no existe ningún cambio.
 
-No existe un bucle perfecto; siempre hay alguna fluctuación. Apertura y cierre de filtros, aumento/disminución de componentes de ruido, longitud de cola de reverberación. Estas pequeñas diferencias son las únicas pistas que dan al oyente una sensación del paso del tiempo.
+No existe un bucle perfecto; siempre hay alguna fluctuación. Apertura/cierre del filtro, aumento/disminución de los componentes del ruido, longitud de la cola de reverberación. Estas pequeñas diferencias son las únicas pistas que dan al oyente una sensación del paso del tiempo.
 
 ---
 
@@ -103,7 +103,7 @@ Incluso si se trata de un sonido artificial, si se diseñan la sensación de dis
 
 ## 10. Independencia del oyente
 
-En este tipo de música, el oyente no es una entidad pasiva. Siempre depende del oyente decidir cuánta atención prestar y cuándo dejar que la música se convierta en un fondo.
+En este tipo de música, el oyente no es una entidad pasiva. Siempre depende del oyente decidir cuánta atención prestar y cuándo dejar que la música se convierta en fondo.
 
 Ambient Techno/Deep Ambient es música extremadamente democrática en el sentido de que no fuerza la intensidad de la escucha.
 
@@ -115,7 +115,7 @@ En un entorno de streaming, la música se omite fácilmente. Sin embargo, la mú
 
 ---
 
-## 12. Relación de complementariedad con la primera parte
+## 12. Relación complementaria con la primera parte
 
 Si bien la primera parte trató sobre la estructura y la historia acústica, este artículo se centra en la práctica y el uso. Aunque ambos son independientes, comparten la misma filosofía de diseño.
 

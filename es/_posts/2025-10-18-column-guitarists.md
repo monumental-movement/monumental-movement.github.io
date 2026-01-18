@@ -179,7 +179,7 @@ color: #fff;
 
 **Ichika Nito** es una hábil artista de la generación SNS, que hace pleno uso de la polirritmia, el tapping y la construcción de armonía. Difundido al mundo a través de YouTube.
 
-**Ichiko Aoba** usa una guitarra acústica para expresar cuentos populares de ensueño.
+**Ichiko Aoba** usa una guitarra acústica para expresar cuentos populares oníricos.
 
 **Tabito Nanao** fusiona guitarra y letras para desarrollar expresiones musicales poéticas modernas.
 
@@ -193,11 +193,11 @@ La guitarra no es sólo un instrumento musical, sino un dispositivo de autoexpre
 
 - **Filosofía de la pedalera**: Creación de sonido = diseño del ego. Cada pedal se convierte en una extensión de la personalidad del intérprete.
 - **Loop/Glitch/DAW**: “memoria digital” extendida. Un solo intérprete puede realizar una expresión orquestal.
-- **Seiichi Yamamoto x Jim O’Rourke**: Uniendo el mundo desde el subsuelo de Kioto. Influyó en la música improvisada y experimental tanto a nivel nacional como internacional.
+- **Seiichi Yamamoto x Jim O’Rourke**: Uniendo el mundo subterráneo de Kioto al mundo. Influyó en la música improvisada y experimental tanto a nivel nacional como internacional.
 
 Keiji Haino trata la guitarra como una extensión de su cuerpo y mente, y es una presencia que sacude los sentidos del oyente con los extremos del sonido. La trinidad de improvisación, destrucción y expresión se convierte en una coordenada importante en la historia de la guitarra underground japonesa.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QloLYsK5v9A?si=zTitzaLilQelcW_o" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QloLYsK5v9A?si=zTitzaLilQelcW_o" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 

@@ -16,14 +16,14 @@ title: '[Columna] Folk-Tronica / Indietronica: Historia de la fusión de la mús
 
 
 
-## Una nueva forma de canción para el siglo XXI creada a partir de la música acústica y electrónica.
+## Una nueva forma de canción para el siglo XXI creada por la música acústica y electrónica
 
 Texto: mmr｜Tema: Sobre la historia, técnicas, influencias, equipamiento y características musicales del Folk-Tronica/Indietronica, con enfoque en Four Tet, Caribou y Bonobo.
 
-Folk-Tronica/Indietronica es una tendencia musical híbrida del siglo XXI y más allá, donde los sonidos simples de los instrumentos acústicos se cruzan con las texturas de los sonidos electrónicos.
+Folk-Tronica/Indietronica es una tendencia musical híbrida del siglo XXI y más allá, donde los sonidos simples de instrumentos acústicos se cruzan con las texturas de los sonidos electrónicos.
 Nació de la unión de melodías populares, arpegios de guitarra, grabaciones de campo de sonidos naturales y una cultura de muestreo de electrónica portátil.
 
-Algunos de los artistas que presentaron claramente este género al mundo incluyen **Four Tet (Kieran Hebden)**, **Caribou (Daniel Snaith)** y **Bonobo (Simon Green)**.
+Four Tet (Kieran Hebden), Caribou (Daniel Snaith) y Bonobo (Simon Green) se encuentran entre los que presentaron claramente este género al mundo.
 Aunque todos tienen experiencia en música electrónica, han ampliado el contexto de la electrónica desde la década de 2000 al muestrear y reconstruir una variedad de música como jazz, folk, música étnica y post-rock.
 
 ---
@@ -53,7 +53,7 @@ Características principales:
 - Edición digital (cut-up, procesamiento granular)
 - Textura de grabación de campo.
 - Melodía simple pero emotiva.
-- Coexistencia de “toque” y “objeto artificial”
+- Coexistencia de “tacto” y “objetos artificiales”
 
 ### ■ ¿Qué es Indietrónica?
 El flujo de introducir la música electrónica en el contexto del indie rock.
@@ -78,7 +78,7 @@ Cuatro puntos Tet:
 ---
 
 ### ■ Caribú (Daniel Snaith)
-- Publicación de obras electrónicas con el nombre inicial Manitoba (2000-2004).
+- Obras electrónicas publicadas con el nombre inicial Manitoba (2000-2004).
 - Posteriormente cambió el nombre a Caribou, fusionando melodías folk y ritmos electrónicos.
 - Conocido por su fusión de psicodélico y pop, incluyendo ``The Milk of Human Kindness'' (2005) y ``Andorra'' (2007).
 
@@ -155,7 +155,7 @@ flowchart LR
 
 ---
 
-## 6. Métodos de producción de cada artista.
+## 6. Métodos de producción para cada artista.
 
 ### ■ Cuatro funciones de producción del Tet
 

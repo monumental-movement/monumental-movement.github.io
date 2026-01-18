@@ -15,7 +15,7 @@ title: Supertramp – Crimen del siglo
 
 Supertramp es una banda británica de rock progresivo.
 
-"Crime Of The Century", lanzado en 1974, es el tercer álbum de estudio de Supertramp y está muy considerado como una de las obras maestras de la banda, especialmente "Dreamer" y "Bloody Well Right", que se incluyen en el álbum y son bien conocidas como las canciones emblemáticas de la banda.
+``Crime Of The Century'', lanzado en 1974, es el tercer álbum de estudio de Supertramp y está muy considerado como una de las obras maestras de la banda, especialmente ``Dreamer'' y ``Bloody Well Right'', que se incluyen en el álbum y son bien conocidas como las canciones emblemáticas de la banda.
 
 ``Crime Of The Century'', que incorpora elementos de rock progresivo y art rock, recibió grandes elogios de críticos musicales y fanáticos, y es considerado un álbum importante que sentó las bases para el éxito de Supertramp y es reconocido como una de las obras maestras de la música rock de los años 70.
 

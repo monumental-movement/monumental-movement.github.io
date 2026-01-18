@@ -64,7 +64,7 @@ Lo importante es que no se trata sólo de una restauración, sino de una reinter
 
 ### 2-1. Estructura musical
 
-Las canciones de Neo-Psychedelic Folk tienen tendencias estructurales como la repetición de motivos cortos, diluyendo la estructura clara de la melodía A/B, desdibujando la melodía con coros colectivos y fluctuaciones en la tonalidad. Estos no son la simplificación del folk tradicional, sino que se crean mediante la superposición de múltiples capas mediante la edición.
+Las canciones de Neo-Psychedelic Folk tienen tendencias estructurales como repetir motivos cortos, diluir la estructura clara de la melodía A/melodía B, desdibujar la melodía con coros colectivos y fluctuaciones en la tonalidad. Estos no son la simplificación del folk tradicional, sino que se crean mediante la superposición de múltiples capas mediante la edición.
 
 ### 2-2. Procesamiento acústico
 
@@ -82,7 +82,7 @@ Animal Collective se caracterizó por la fluidez de los roles de los miembros m�
 
 ### 3-2. Características acústicas
 
-Al tratar la voz como el instrumento principal, la superposición de coros de varias capas y los ritmos circulantes oscurecen el sentido del tiempo. Las melodías populares se deconstruyen y reconstruyen como collages acústicos.
+Tratando la voz como el instrumento principal, superponiendo coros de múltiples capas y ritmos circulantes oscurecen el sentido del tiempo. Las melodías populares se deconstruyen y reconstruyen como collages acústicos.
 
 ### 3-3. Conexión con el sentido visual.
 
@@ -164,7 +164,7 @@ En los primeros trabajos de Animal Collective, la percusión y las palmas propor
 
 La voz es uno de los elementos más importantes del folk neopsicodélico. La división de roles entre vocalista principal y acompañante se debilita y múltiples voces se colocan en la misma línea. Se prioriza la calidad vocal, la superposición y la reverberación sobre la claridad de las letras.
 
-Este es el resultado de trasladar la naturaleza del canto grupal de folk al espacio del estudio.
+Este es el resultado de trasladar la naturaleza del canto grupal de la música folclórica al espacio del estudio.
 
 > "Las canciones no son un dispositivo para contar una historia, sino un material que llena un espacio."
 

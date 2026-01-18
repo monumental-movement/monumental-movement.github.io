@@ -46,7 +46,7 @@ Por esta época, el significado de "banda sonora = material de audio de la pelí
 
 ■Grabación sobre la propia película (sonido en película)
 
-- Método de grabación óptica (banda sonora óptica)
+- Banda sonora óptica
 
 Popularizado entre los años 1930 y 1950.
 
@@ -88,7 +88,7 @@ Ventas de fuentes musicales en iTunes y Amazon MP3.
 
 Los compositores de cine independientes también aparecen en plataformas como Bandcamp.
 
-Las partituras completas, canciones inéditas y tomas alternativas se pueden entregar en alta resolución.
+Las partituras completas, canciones inéditas y tomas alternativas se pueden distribuir en alta resolución.
 
 ■Suscripción (Spotify / Apple Music, etc.)
 

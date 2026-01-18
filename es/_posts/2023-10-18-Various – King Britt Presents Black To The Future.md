@@ -15,7 +15,7 @@ title: Varios – King Britt presenta el negro al futuro
 
 Una recopilación de King Britt, figura clave de la escena house de Filadelfia.
 
-The Society, la primera pista de la cara A, es un proyecto del compositor, arreglista y saxofonista Thomas Hass, miembro de gira de Senor Coconut.
+La primera pista de la cara A, The Society, es un proyecto del compositor, arreglista y saxofonista Thomas Hass, miembro de gira de Senor Coconut.
 
 #### Lista de canciones
 ```md

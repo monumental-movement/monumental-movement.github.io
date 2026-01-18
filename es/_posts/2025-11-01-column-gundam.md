@@ -138,7 +138,7 @@ Hemos entrado en una era en la que la "música Gundam" no es sólo "música de f
 
 ### 3.2 Ejemplo: Composición de la banda sonora de la serie "Mobile Suit Gundam SEED"
 
-Para "Mobile Suit Gundam SEED" (2002-), Hiroyuki Kono y otros estuvieron a cargo de la música, en lugar del compositor Hiroyuki Sawano, y se desarrollaron el tema principal, la canción insertada, la canción del personaje, el disco de remezclas y el "Suit CD".
+Para ``Mobile Suit Gundam SEED'' ​​(2002-), Hiroyuki Kono y otros estuvieron en realidad a cargo del acompañamiento musical, en lugar del compositor Hiroyuki Sawano, y se desarrollaron el tema principal, la canción insertada, la canción del personaje, el álbum de remezclas y el ``Suit CD''.
 Esta estructura muestra que la música Gundam se ha convertido en "un producto/cultura que no puede separarse del trabajo". La música se ha convertido en una marca y ha llegado a funcionar en lugares distintos a las producciones (shows en vivo, CD extra, colaboraciones).
 
 ### 3.3 Trabajo reciente: Experimento musical en “Mobile Suit Gundam: Witch of Mercury”
@@ -165,7 +165,7 @@ De esta manera, descifrar el significado detrás de las letras y melodías de lo
 ### 4.3 Exploración profunda de BGM y la cosmovisión de la serie.
 
 Mientras que el tema principal actúa como una "canción" y abre la obra al mundo exterior, la música de fondo (música de fondo) es el héroe anónimo que respalda la visión del mundo dentro de la obra. Por ejemplo, durante las escenas de batalla, un ritmo con mucho bajo aumenta la tensión de una batalla espacial, y cuando un nuevo tipo despierta, un coro de cuerdas crea una sensación de tranquilidad.
-Dado que la serie Mobile Suit Gundam es una obra que cuestiona la cuestión del "hombre y la máquina/la humanidad y el universo", la música también existe como la "voz" de esa pregunta. A través de un análisis musical como este, podemos explorar por qué se sigue hablando de Gundam a través de generaciones.
+Dado que la serie Mobile Suit Gundam es una obra que cuestiona la cuestión del "hombre y la máquina/la humanidad y el universo", la música también existe como la "voz" de esa cuestión. A través de un análisis musical como este, podemos explorar por qué se sigue hablando de Gundam a través de generaciones.
 
 ---
 
@@ -173,7 +173,7 @@ Dado que la serie Mobile Suit Gundam es una obra que cuestiona la cuestión del 
 
 ### 5.1 Versión en vivo/cover del tema musical/insertar canción
 
-Otro aspecto de la música Gundam es su estrecha relación con la cultura de los fans/cultura en vivo. Por ejemplo, con motivo del 30 aniversario de Gundam, se lanzó un álbum llamado "Gundam Rock", en el que músicos extranjeros versionaron temas musicales de Gundam. Esto demuestra que la música ha trascendido la producción y se ha convertido en una "cultura global".
+Otro aspecto de la música Gundam es su estrecha relación con la cultura de los fans/cultura en vivo. Por ejemplo, con motivo del 30 aniversario de Gundam, se lanzó el álbum "Gundam Rock", en el que músicos extranjeros versionaron temas musicales de Gundam, lo que demuestra que la música ha trascendido la obra misma y se ha convertido en una "cultura global".
 
 Además, los temas musicales de Gundam siempre se incluyen en el repertorio de eventos en vivo de canciones de anime interpretados por artistas, y el número de experiencias en las que el público canta está aumentando. De esta manera, la música se ha convertido en un contenido que no sólo es algo que "escuchar" sino también algo en lo que "participar".
 
@@ -184,7 +184,7 @@ Estos remixes/arreglos desempeñan un papel en la promoción de "escuchar Gundam
 
 ---
 
-## Capítulo 6: Discusión y perspectivas de futuro
+## Capítulo 6: Discusión y perspectivas futuras
 
 ### 6.1 ¿Cuál es la universalidad de la música Gundam?
 
@@ -207,7 +207,7 @@ Después de 2025, se espera que la era de "escuchar música" pase de "escuchar m
 
 ## En lugar de una conclusión
 
-Se puede decir que "escuchar Gundam otra vez" es sinónimo de "ver Gundam otra vez". Esto se debe a que la música representa las emociones de los personajes y marca la trayectoria de la historia. Esperamos que a través de este artículo puedas retomar tu tema musical favorito de Gundam y escuchar la historia y el mundo que ha creado una vez más.
+Se puede decir que "escuchar Gundam otra vez" es sinónimo de "ver Gundam otra vez". Esto se debe a que la música representa las emociones de los personajes y marca la trayectoria de la historia. Esperamos que a través de este artículo puedas retomar tu tema musical favorito de Gundam nuevamente y escuchar la historia y el mundo que ha creado una vez más.
 Finalmente, para profundizar en la música de Gundam, asegúrese de buscar y recopilar carátulas de CD, videos en vivo, entrevistas con compositores y más. El viaje del sonido se expande enormemente más allá de su campo de visión.
 
 ---

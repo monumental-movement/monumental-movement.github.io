@@ -112,7 +112,7 @@ C --> D[世界的定番曲への橋渡し]
 
 ---
 
-Lanzado en 1984, "Last Christmas" combina sintetizador pop y un romance desgarrador. Un éxito de larga duración con muchas versiones y remezclas.
+Lanzado en 1984, "Last Christmas" combina pop sintético y un romance desgarrador. Un éxito de larga duración con muchas versiones y remezclas.
 
 ### Tatsuro Yamashita “Nochebuena”
 
@@ -147,13 +147,12 @@ timeline
 
 
 <div class="mermaid">
-
-graph TD
-A[1970s ソウル・ディスコ] --> B[1980s シンセポップ]
-B --> C[恋愛・都会的冬景色テーマ]
-C --> D[世界的定番曲確立]
-
+flowchart TD
+    A["1970s ソウル・ディスコ"] --> B["1980s シンセポップ"]
+    B --> C["恋愛・都会的冬景色テーマ"]
+    C --> D["世界的定番曲確立"]
 </div>
+
 
 
 ---

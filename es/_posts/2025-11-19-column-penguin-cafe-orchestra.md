@@ -62,7 +62,7 @@ La música no era ni tradicional ni vanguardista, sino que cristalizó como un s
 ## Capítulo 2 Organización y filosofía: Una “orquesta” no fijada
 
 La composición de PCO cambia con cada álbum y presentación en vivo, y es diferente de una "banda" con miembros fijos.
-Liderados por Simon Jeffes, participan ex músicos clásicos, músicos folclóricos y músicos experimentales, y actúan como un "grupo de música de cámara que se reúne en base a un proyecto".
+Liderados por Simon Jeffes, participan ex músicos clásicos, músicos folclóricos y músicos experimentales, que actúan como un "grupo de música de cámara que se reúne en base a un proyecto".
 
 ### ● Principales participantes
 
@@ -84,7 +84,7 @@ Liderados por Simon Jeffes, participan ex músicos clásicos, músicos folclóri
 ### ● El núcleo de su ideología
 
 Jeffes describió su música como "estructuras espontáneas".
-No se trata de las reglas de la música occidental ni de las tradiciones de la música folclórica, sino de un proceso orgánico en el que una colección de sonidos toma forma por casualidad.
+No se trata de las reglas de la música occidental ni de las tradiciones de la música folclórica, sino de un **proceso orgánico** en el que una acumulación de sonidos toma forma por casualidad.
 Esta "espontaneidad" es la razón por la cual el sonido de PCO, aunque a veces mágico, tiene una sensación cálida y cotidiana.
 
 ---
@@ -116,7 +116,7 @@ Tiene una estructura repetitiva similar a la música minimalista, pero no es tan
 
 **estructura**
 
-* Arpegio de teclado repetido
+* Repetición de arpegio en el teclado.
 * Crea espacio con notas largas de instrumentos de cuerda.
 * Se agrega percusión desde el medio para ganar fuerza motriz.
 * “Estructura recíproca” que vuelve a la tranquilidad al final

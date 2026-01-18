@@ -16,9 +16,9 @@ title: '[Columna] Ciudad del Desierto: Historia, anécdotas y significado modern
 
 ## Recuerdos de arte y temas tallados en el desierto.
 
-Texto: mmr｜Tema: Conocer la historia de Burning Man es entender que es más que un simple festival, es una “ciudad del futuro y un experimento humano”
+Texto: mmr｜Tema: Conocer la historia de Burning Man es entender que es más que un simple festival, es una “ciudad del futuro y experimento humano”
 
-Burning Man es más que un simple festival, es un campo de pruebas para crear de forma colaborativa una Black Rock City. Comenzó en las playas del Área de la Bahía de San Francisco en 1986 y desde la década de 1990 se celebra anualmente en el desierto Black Rock de Nevada. Es un lugar donde el arte, el fuego, la tecnología y la cultura del obsequio se cruzan, profundamente con la cultura corporativa y de startups del Área de la Bahía.
+Burning Man es más que un simple festival, es un campo de pruebas para crear colaborativamente una Black Rock City. Comenzó en las playas del Área de la Bahía de San Francisco en 1986 y desde la década de 1990 se celebra anualmente en el desierto Black Rock de Nevada. Es un lugar donde el arte, el fuego, la tecnología y la cultura del obsequio se cruzan, profundamente con la cultura corporativa y de startups del Área de la Bahía.
 
 ---
 
@@ -100,7 +100,7 @@ Desde la década de 2000, los "vehículos mutantes" gigantes y las esculturas he
 
 ### Implicaciones y desafíos contemporáneos
 
-Si bien Burning Man sigue siendo un centro de creatividad, enfrenta preocupaciones sobre la comercialización, la seguridad y el medio ambiente, y la pregunta: "¿Para quién está Burning?" La comunidad está intensificando sus esfuerzos de sostenibilidad (Leave No Trace, becas de arte) y compartiendo conocimientos en redes regionales.
+Si bien Burning Man sigue siendo un centro de creatividad, enfrenta problemas de comercialización, seguridad y medio ambiente, y la pregunta: "¿Para quién está Burning?" La comunidad está intensificando sus esfuerzos de sostenibilidad (Leave No Trace, becas de arte) y compartiendo conocimientos en redes regionales.
 
 ---
 
@@ -163,7 +163,7 @@ Inferno en 1995 fue un año importante porque difundió la conciencia entre los 
 
 A partir de esta época, las experiencias participativas que combinaban fuego y arte se convirtieron en la norma, formando la base de la cultura artística moderna de Burning Man.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/heDhfJuxlPs?si=pdADQN0HaFU1VGEZ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/heDhfJuxlPs?si=pdADQN0HaFU1VGEZ" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
@@ -207,13 +207,13 @@ El tema es la expresión y simbolismo del cuerpo y el cuerpo humano. Son muchas 
 
 Además, a partir de este año comenzaron a afianzarse las instalaciones de templos y aparecieron instalaciones que combinaban espiritualidad y estructura, como el "Templo de la Mente" (o conceptos similares).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X-G1CJizeBM?si=rBpoFPHdogWnBMbG" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X-G1CJizeBM?si=rBpoFPHdogWnBMbG" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
 #### 2001: Siete edades
 
-Los temas tratan de las siete etapas de la vida, el crecimiento y el cambio, y las relaciones intergeneracionales.
+Los temas tratan sobre las siete etapas de la vida, el crecimiento y el cambio, y las relaciones intergeneracionales.
 
 En algunos casos, se han creado estructuras para simbolizar la transición de la vida a través de múltiples artes y actuaciones.
 
@@ -309,7 +309,7 @@ Un reexamen y actualización de "Fertility" de 1997. El tema es la creatividad, 
 
 Utilizando el culto a la carga (la brecha entre la cultura material y la fe) como motivo, reexaminamos la sociedad de consumo moderna, la distribución de la carga y la ritualización.
 
-Muchos campos y estructuras expresan la brecha entre el "material que se adora" y la "economía del don".
+Muchos de los campos y estructuras expresan la brecha entre el "material que se adora" y la "economía del don".
 
 ---
 
@@ -393,7 +393,7 @@ El tema es el desconocimiento y la imprevisibilidad, y se desarrolla una composi
 
 #### 2025: Mañana Hoy
 
-Centrándose en el futuro próximo, futuros inventos y planes sociales. Arte que encarna "El mañana en el hoy", creación de prototipos y diseño que induce a un espacio de diálogo futurista.
+Centrándose en el futuro próximo, los inventos futuros y los conceptos sociales. Arte que encarna "El mañana en el hoy", creación de prototipos y diseño que induce a un espacio de diálogo futurista.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5yrIwJo-RZ0?si=PF7ug6sEAIFeT2i1" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -405,7 +405,7 @@ La lista anterior se construyó haciendo referencia a las descripciones de temas
 
 El Templo (un lugar de oración) y el Hombre mismo a menudo se diseñan en respuesta a un tema, con elementos que son independientes del tema pero que se reconfiguran cada año.
 
-Además, el tema no se aplica necesariamente de forma obligatoria a todos los campamentos/obras, sino que funciona como un "marco de sugerencias".
+Además, el tema no se aplica necesariamente de forma obligatoria a todos los campos/obras, sino que funciona como un "marco sugerente".
 
 ---
 

@@ -85,7 +85,7 @@ B --> H["Lydia Lunch / Teenage Jesus and the Jerks"]
 - La línea del bajo es repetitiva y funky, y el saxofón gira libremente.
 - **Análisis de ritmo**:
 - Nota clave de 4/4, pero la ubicación fuera de compás de la caja y los cambios de acento siempre dan una sensación de oscilación.
-- Enfatiza la improvisación manteniendo una sensación de baile.
+- Enfatiza la improvisación manteniendo el sentido de la danza.
 
 ### Canción "Derrítete"
 

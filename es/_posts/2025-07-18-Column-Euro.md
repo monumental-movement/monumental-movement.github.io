@@ -25,7 +25,7 @@ Texto: mmr｜Tema: El panorama completo de la cultura musical europea en los añ
 ### ¿Cuál es la verdadera identidad de la música llamada Euro?
 
 La "música europea" de los años 1990 no era un género específico, sino más bien un término general para la música popular dance-pop que se desarrolló principalmente en Europa continental.
-Los más emblemáticos fueron "Eurobeat" y "Eurodance", pero otros géneros como el Eurotrance, la alta energía y el synth pop también se presentaron al mismo tiempo.
+Los más emblemáticos fueron "Eurobeat" y "Eurodance", pero otros géneros como el Eurotrance, la alta energía y el synth pop también se ejecutaban al mismo tiempo.
 
 En otras palabras, el euro de los años 90 fue la "imagen pop de la Europa moderna" que fusionaba cultura de fiesta, música dance, melodías pegadizas y tecnología.
 
@@ -164,7 +164,7 @@ Producido en Italia y Alemania, previsto en Japón, CD nacional (por ejemplo, MA
 
 <hora>
 
-### ¿Por qué los críticos lo ignoraron? ──"Ligereza" y "Anti-Arte"
+### ¿Por qué los críticos lo ignoraron? ──"Ligereza" y "Anti-arte"
 
 La música europea no fue bien recibida por la crítica durante mucho tiempo. La razón es la siguiente:
 

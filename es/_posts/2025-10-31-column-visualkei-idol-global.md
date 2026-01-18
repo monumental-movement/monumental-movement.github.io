@@ -18,7 +18,7 @@ title: '[Columna] Por qué el visual kei y la cultura idol cruzan fronteras: La 
 ## Prólogo: Cuando la “música periférica” japonesa mueve el mundo
 
 
-Texto: mmr｜Tema: ¿Por qué la música de la subcultura japonesa llega al mundo? - Comprender la historia de la formación de fandoms extranjeros y la traducción cultural, con un enfoque en el visual kei y la cultura ídolo.
+Texto: mmr｜Tema: ¿Por qué la música de la subcultura japonesa llega al mundo? Descifrando la historia de la formación y traducción cultural de los fandoms extranjeros, con un enfoque en el visual kei y la cultura ídolo.
 
 
 "X JAPAN" "BABYMETAL" "Perfume" "Dir en grey"
@@ -72,8 +72,8 @@ Estos no son sólo entretenimiento, sino un plan inteligente para la "traducció
 La razón detrás del éxito de BABYMETAL en festivales extranjeros es
 Había una estrategia estructural para incorporar el concepto de "ídolos japoneses" dentro del estilo global del metal.
 
-La exportación de la cultura de los ídolos es también una fusión de ritual religioso y comunidad tecnológica.
-Los eventos de apretón de manos, transmisiones y eventos en vivo de SNS digitalizan el "contacto" ceremonial y convierten a los fanáticos en "seguidores".
+La exportación de la cultura de los ídolos es también una fusión de **ritual religioso y comunidad tecnológica**.
+Los eventos de apretón de manos, transmisiones y eventos en vivo de SNS digitalizan el "contacto" ceremonial y convierten a los fans en "seguidores".
 Esta estructura se tradujo en el extranjero como "cultura participativa" y, como resultado, se disolvieron las fronteras culturales.
 
 ---
@@ -120,7 +120,7 @@ Sin embargo, el visual kei y la cultura idol sobrevivieron con una "gramática d
 
 Si la fuerza del K-POP reside en su precisión como "producto completo",
 La música de la subcultura japonesa trata sobre la "imperfección" y la "cercanía".
-En otras palabras, el valor es la cantidad de espacio para la intervención del ventilador.
+En otras palabras, el valor es **mucho espacio para la intervención de los fanáticos**.
 La razón por la que los fans extranjeros se sienten atraídos por los ídolos underground japoneses y el visual kei indie es que
 Esto se debe a que simpatizo con su "naturaleza abierta e inacabada".
 

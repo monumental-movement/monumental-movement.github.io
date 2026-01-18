@@ -136,7 +136,7 @@ The 7th Plain = “El mundo profundo del techno ambiental” de Luke Slater.
 | Año | Nombre del álbum | Características | Enlace |
 | ---- | --------------------- | --------------------- | ------------------------------------------ |
 | 1994 | *La habitación de las 4 esquinas* | Una obra maestra del techno ambiental | [Amazon](https://amzn.to/4nttGUI) |
-| 1994 | *Mi alfombra sabia amarilla* | Trabajo experimental con un alto grado de espacialidad | [Amazon](https://amzn.to/3VOULWo) |
+| 1994 | *Mi alfombra sabia amarilla* | Trabajo experimental con un alto sentido del espacio | [Amazon](https://amzn.to/3VOULWo) |
 | 2016 | *Crónicas I* | Colección de archivos (período Warp Records) | [Amazon](https://amzn.to/4mK8uJ7) |
 | 2016 | *Crónicas II* | Segunda colección de archivos | [Amazon](https://amzn.to/4gYSJN4) |
 | 2018 | *Crónicas III* | Colección que incluye fuentes sonoras inéditas | [Amazon](https://amzn.to/4mPG9AW) |

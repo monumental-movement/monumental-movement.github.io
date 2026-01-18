@@ -101,7 +101,7 @@ Surgeon, nacido en Gran Bretaña, es conocido como uno de los primeros artistas 
 
 ## Ø [Fase]
 
-Ø [Phase], cuyo trabajo se centra en una estética sonora minimalista y estoica en el techno, utiliza activamente sintetizadores modulares tanto en estudio como en producción en vivo. Se caracteriza particularmente por su complejo enfoque de modulación de fase y la introducción de elementos similares a drones que utilizan bucles de retroalimentación, y ha sido elogiado por darle movimiento orgánico al techno minimalista.
+Ø [Phase], cuyo trabajo se centra en una estética sonora minimalista y estoica dentro del techno, utiliza activamente sintetizadores modulares tanto en estudio como en producción en vivo. Se caracteriza particularmente por su complejo enfoque de modulación de fase y la introducción de elementos similares a drones que utilizan bucles de retroalimentación, y ha sido elogiado por darle movimiento orgánico al techno minimalista.
 
 ##Richie Hawtin
 
@@ -127,7 +127,7 @@ graph TD
 
 # Aspectos técnicos (unión entre sintetizador modular y techno)
 
-La base técnica de Modular Techno es un mecanismo que controla cada módulo usando CV (Control de voltaje), la flexibilidad de la estructura del parche y una actitud que incorpora activamente la "inestabilidad" única del modular en el sonido. En este capítulo, resumiremos cómo los elementos únicos del modular influyen en la producción y ejecución del techno.
+La base técnica de Modular Techno es un mecanismo que controla cada módulo usando CV (Voltaje de control), la flexibilidad de la estructura del parche y una actitud que incorpora activamente la "inestabilidad" exclusiva del modular en el sonido. En este capítulo, resumiremos cómo los elementos únicos del modular influyen en la producción y ejecución del techno.
 
 ## Estructura básica del sintetizador modular.
 
@@ -139,11 +139,11 @@ Una característica importante del estándar Eurorack es que los módulos de var
 
 El ritmo y el groove juegan un papel central en el techno. Un secuenciador modular controla los cambios de tono y el filtrado cambiando el valor de CV para cada paso, y también desempeña el papel de una máquina de ritmo. Además, al sincronizar múltiples módulos usando CV/Gate, es posible generar ritmos que incluyen polirritmos complejos y aleatoriedad.
 
-En particular, Modular Techno hace un uso intensivo de la función de aleatorización del secuenciador y de la generación de secuencia estocástica. Esto crea un ritmo orgánico que sufre constantemente cambios sutiles, en lugar de un bucle fijo.
+En particular, Modular Techno hace un uso intensivo de la función de aleatorización del secuenciador y de la generación de secuencia estocástica. Esto crea un ritmo orgánico que sufre cambios sutiles constantemente, en lugar de un bucle fijo.
 
 ## Utilice filtros, efectos y módulos de ruido.
 
-Los sintetizadores modulares tienen una amplia variedad de filtros y envolventes, que contribuyen en gran medida al diseño tonal del techno. Los módulos de efectos como un VCF con resonancia agria, una carpeta de ondas que crea una estructura de armónicos compleja, distorsión y un poco de trituración respaldan la textura única del Modular Techno.
+Los sintetizadores modulares tienen una amplia variedad de filtros y envolventes, que contribuyen en gran medida al diseño tonal del techno. Los módulos de efectos como un VCF con resonancia agria, una carpeta de ondas que crea una estructura de armónicos compleja, distorsión y un poco de trituración respaldan la textura única de Modular Techno.
 
 En el techno también se utilizan fuentes de ruido y generadores aleatorios para fortalecer el componente de ataque y crear texturas de sonido ambiental, creando fluctuaciones accidentales en el ritmo.
 
@@ -260,7 +260,7 @@ timeline
 
 # Críticas/Recepción de los medios
 
-Al principio, el Modular Techno se consideraba demasiado experimental y no apto para clubes, pero a finales de la década de 2010, los principales medios y críticos comenzaron a prestar atención a su sofisticación sonora.
+En sus inicios, el Modular Techno se consideraba demasiado experimental y no apto para clubes, pero a finales de la década de 2010, los principales medios y críticos comenzaron a prestar atención a su sofisticación sonora.
 
 - En las revisiones, la imagen sonora tridimensional, compleja y única de Modular recibió grandes elogios.
 - En el reportaje en vivo se destacó la improvisación y la actuación física.
@@ -278,7 +278,7 @@ Se espera que Modular Techno continúe evolucionando y se esperan varias direcci
 Los avances en la tecnología DSP han llevado a un aumento de módulos digitales equipados con modelado físico, síntesis de partículas y algoritmos FM complejos. Esto hace posible manejar expresiones acústicas que antes eran imposibles en tiempo real.
 
 ## 2. Generalización del híbrido en vivo.
-La configuración modular + PC (Ableton, Bitwig) + caja de ritmos se volverá aún más común, y los límites entre los sets de clubes tradicionales y las presentaciones en vivo se volverán borrosos.
+La configuración modular + PC (Ableton, Bitwig) + caja de ritmos se volverá aún más común, y los límites entre los sets de club tradicionales y las presentaciones en vivo se volverán borrosos.
 
 ## 3. Profundización de la cultura comunitaria
 La comunidad está madurando tanto en línea como fuera de línea, con intercambio de módulos, lanzamientos de parches en vivo y un aumento en el contenido educativo.
@@ -314,7 +314,7 @@ La siguiente es una recopilación de categorías de equipos que suelen utilizar 
 
 ## VCF (filtro)
 - Doepfer – Filtro Avispa A-124
-- Dispositivos XAOC – Belgrado
+- Dispositivos XAOC - Belgrado
 - Instrumentos mutables – Ondas
 - Hacer ruido – QPAS
 - Erica Sintetizadores – VCF negro
@@ -366,7 +366,7 @@ Una unidad en vivo basada en hardware que actúa combinando cajas de ritmos y eq
 
 ## Cirujano & Daniel Bean (En Vivo)
 
-La actuación en vivo del dúo Surgeon con Daniel Bean se caracteriza por un enfoque en el que los dos construyen un sistema modular a gran escala que continúa generando sonido en tiempo real. Su directo, que combina el ritmo techno con la improvisación, se considera un ejemplo típico de actuación modular en directo.
+La actuación en vivo del dúo Surgeon con Daniel Bean se caracteriza por un enfoque en el que los dos construyen un sistema modular a gran escala que continúa generando sonido en tiempo real. Su set en vivo, que combina el ritmo techno con la improvisación, se considera un ejemplo típico de actuación modular en vivo.
 
 ## Métodos antiguos
 

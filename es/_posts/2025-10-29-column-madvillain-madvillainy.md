@@ -118,7 +118,7 @@ Esta canción, incluido el vídeo musical (estilo de dibujos animados), fue pion
 ## Capítulo 5: El arte y la política de las máscaras
 
 La foto de la portada (tomada por Eric Coleman) es un primer plano de la máscara metálica de DOOM.
-La composición, en la que la mitad del rostro está sumergida en la sombra, simboliza la brecha entre el anonimato y la exposición, el mito y la realidad.
+La composición, en la que la mitad del rostro está sumergida en las sombras, simboliza la brecha entre el anonimato y la exposición, el mito y la realidad.
 Esta máscara sirvió como medio de autoexpresión como artista negro y como forma de resistencia a los medios comerciales.
 
 La máscara de DOOM es una referencia de la cultura pop al Dr. Doom de Marvel, pero más profundamente representa una inversión de poder e identidad.
@@ -210,7 +210,7 @@ flowchart TD
 
 ## Conclusión: La eternidad en fragmentos
 
-[``Madvillainy''](https://amzn.to/3JhySfH) es un ``laberinto de sonido'' que deconstruye y reconstruye la forma misma del hip-hop.
+[“Madvillainy”](https://amzn.to/3JhySfH) es un “laberinto sonoro” que desmantela la forma del hip-hop y luego la reconstruye.
 No hay "finalización" ni "fin".
 Los sonidos muestreados recuperan significado incluso cuando pierden sus orígenes.
 La máscara que dejó DOOM todavía brilla en los estudios underground de todo el mundo.

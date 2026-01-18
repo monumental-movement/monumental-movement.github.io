@@ -50,8 +50,8 @@ color: #fff;
 
 ## 2. Establecimiento del toque francés: situación en París a finales de los años 1990
 ### ● Antecedentes: Un encuentro entre house y discoteca
-A mediados de la década de 1990, la escena de clubes parisina absorbió la música house estadounidense mientras formaba una estructura única que ponía en primer plano los samples disco/soul.
-Si bien estaba fuertemente influenciado por el Chicago House, el house comenzó a funcionar como un nuevo tipo de "música pop", ya que se mezclaba con una "sensación melódica sofisticada" única en Europa.
+A mediados de la década de 1990, la escena de clubes parisinos absorbió la música house estadounidense mientras formaba una estructura única que ponía en primer plano los samples disco/soul.
+Si bien la influencia del Chicago House era fuerte, el house comenzó a funcionar como un nuevo tipo de "música pop" al mezclarlo con el "sentimiento melódico sofisticado" exclusivo de Europa.
 
 ### ● Existencia de etiqueta/base
 - **Roulé (Thomas Bangalter)**
@@ -62,7 +62,7 @@ Estas etiquetas llevaron a French Touch a algún lugar entre el bricolaje y el p
 
 ---
 
-## 3. Daft Punk: Estética sonora y filosofía analógica
+## 3. Daft Punk: estética sonora y filosofía analógica
 Los primeros trabajos de Daft Punk (especialmente "Homework" y "Discovery") simbolizan el "límite entre lo analógico y lo digital" en French Touch.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FGBhQbmPwH8?si=f_ankujC_6cg3Lks" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
@@ -79,7 +79,7 @@ Los representativos son:
 Estos módulos de filtro tienen una estructura analógica, por lo que las fluctuaciones de armónicos durante el barrido son ricas. La imagen sonora de French Touch de "cerrar y abrir el filtro" se crea con una textura exclusiva del hardware.
 
 ### ● ② Grabar muestreo y trabajo de ecualización/filtro
-Daft Punk emplea activamente texturas y ruidos de vinilo como parte de su música dejando la imagen sonora de la muestra "áspera".
+Daft Punk emplea activamente el ruido y la textura del vinilo como parte de su música dejando la imagen sonora de la muestra "áspera".
 Especialmente durante el período de "Descubrimiento", en lugar de pulir la muestra a alta calidad,
 **La estética de hacer música pop ``tal como fue recogida en los discos**'' es una constante.
 

@@ -66,7 +66,7 @@ Aproximadamente a partir de 2008, el dubstep se extendió más allá del undergr
 
 ---
 
-- **Break in America**: Ha aparecido un ``Brostep'' más agresivo y llamativo, liderado por Skrillex.
+- **Ruptura en América**: Ha aparecido un ``Brostep'' más agresivo y llamativo, liderado por Skrillex.
 
 
 - **Cultura del remix**: los elementos del dubstep se incorporaron al pop, el rock y el hip-hop, ganando una amplia gama de oyentes.
@@ -84,7 +84,7 @@ Se formó una cultura dubstep exclusivamente japonesa a través de eventos celeb
 
 ### Influencia cultural del dubstep
 
-- **Penetración en la escena EDM**: Conectado con la cultura del festival y convirtiéndose en una presencia que resuena en el escenario principal.
+- **Penetración en la escena EDM**: Conectarse con la cultura del festival y convertirse en una presencia que resuene en el escenario principal.
 
 - **Reevaluación de la música bass**: Influyó significativamente en el desarrollo de géneros posteriores como el trap y el futuro bajo.
 

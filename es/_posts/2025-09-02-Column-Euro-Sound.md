@@ -167,6 +167,6 @@ color: #fff;
 
 ### La música europea no era “música nacional” sino “sonido nacional”
 El mayor atractivo de la música europea de los noventa es que, si bien funciona como un "lenguaje universal", en realidad está profundamente arraigado en las culturas y estéticas de cada país.
-Aunque son similares, el calor de Italia, la dureza de Alemania y el frío de Suecia son claramente diferentes.
+Aunque todos son similares, el calor de Italia, la dureza de Alemania y el frescor de Suecia son claramente diferentes.
 
 Música nacida en la intersección de lo global y lo local. Ésa puede ser la esencia del euro de los noventa.

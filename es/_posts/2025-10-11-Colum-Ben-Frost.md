@@ -129,7 +129,7 @@ Se inspiró en condiciones físicas extremas como la luz solar, el calor y la in
 Es la violencia de la luz, la construcción del sonido por los fotones.
 
 Después de este álbum, su sonido se volvió cada vez más arquitectónico e inorgánico.
-Al mismo tiempo, empezó a latir como un organismo vivo.
+Al mismo tiempo, empezó a latir como un organismo con "vida".
 Se puede decir que A U R O R A es una obra que realmente captura el momento en que el sonido se convierte en luz.
 
 

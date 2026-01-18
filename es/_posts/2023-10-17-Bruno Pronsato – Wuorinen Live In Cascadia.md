@@ -17,7 +17,7 @@ Bruno Pronsato (Steven Ford) es un DJ y productor estadounidense que vive en Ber
 
 "Wuorinen / Live In Cascadia" fue lanzado en 2005 por Orac Records, un sello con sede en Seattle que lanza techno de pista de baile desde experimental hasta minimalista.
 
-La segunda pista de la cara A es un remix de Michel Baumann, un DJ/productor con sede en Stuttgart, Alemania.
+La segunda pista de la cara A es un remix de Michel Baumann, un DJ/productor radicado en Stuttgart, Alemania.
 
 #### Lista de canciones
 ```md

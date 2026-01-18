@@ -24,7 +24,7 @@ Texto: mmr｜Tema: Trazando la filosofía de sonido única creada por una mezcla
 Finales de los años 70, a orillas del lago de Garda, en el norte de Italia.
 Nadie sabía que este lugar, que era sólo un centro turístico para turistas, más tarde se convertiría en el centro de un fenómeno acústico llamado **Cosmic Sound**.
 La figura central es **Daniele Baldelli**.
-Se ha convertido en algo más que un simple DJ: se ha hecho conocido como un "arquitecto que reconstruye la velocidad del sonido y el espacio".
+No es sólo un DJ, sino que se ha hecho conocido como un "arquitecto que reconstruye la velocidad del sonido y el espacio".
 
 La escena disco de la época estaba dominada por los ritmos 4/4, representados por el soul americano y la música house.
 Sin embargo, Baldelli entrelaza música étnica, sonidos electrónicos, rock progresivo, tambores africanos e incluso krautrock.
@@ -88,7 +88,7 @@ Durante toda la noche se siente como si una nave espacial descendiera y se salie
 ## 4. Ciencia de los materiales sonoros: reubicación de fuentes de sonido en Cosmic
 
 Baldelli fue un pionero de los DJ que trataban las canciones como "material".
-Tuve una fuerte sensación de "componer" nuevamente los sonidos grabados en el tocadiscos.
+Había una fuerte sensación de "componer" nuevamente los sonidos grabados en el tocadiscos.
 
 | Fuentes utilizadas | Ejemplos específicos |
 |:--|:--|
@@ -187,7 +187,7 @@ flowchart TD
 
 ## 10. Conclusión: Bailar a la velocidad del universo.
 
-Cosmic Sound es el área más indefinible en la historia del disco.
+Cosmic Sound es el área más indefinible en la historia de la discoteca.
 Allí, género, country, velocidad y cultura se mezclan y emerge una **"filosofía del sonido"**.
 Daniele Baldelli presentó la filosofía como una "traducción al espacio".
 

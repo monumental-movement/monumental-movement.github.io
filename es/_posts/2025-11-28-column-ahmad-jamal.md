@@ -23,7 +23,7 @@ Texto: mmr｜Tema: Influencia en los maestros del jazz moderno, incluido Miles D
 
 Ahmad Jamal nació el 2 de julio de 1925 en Pittsburgh, Pensilvania, Estados Unidos. Su nombre de nacimiento era Frederick Russell Jones y se interesó por la música desde una edad temprana. A la edad de cinco años, comenzó a tocar el piano y, animado por su madre, recibió formación musical formal. Pittsburgh era una próspera ciudad del jazz en ese momento, con muchas oportunidades para actuar en clubes y estaciones de radio locales.
 
-Mientras estaba en la escuela secundaria, comenzó a tocar en bandas de baile locales, sentando las bases del jazz. En 1944, comenzó a actuar profesionalmente en clubes locales. Durante la Segunda Guerra Mundial, sirvió como músico en el ejército, tocando el piano en la orquesta militar. Durante este período adquirió experiencia en la improvisación y en pequeños tríos, que influyeron en su estilo posterior.
+Mientras estaba en la escuela secundaria, comenzó a tocar en bandas de baile locales, sentando las bases del jazz. En 1944, comenzó a actuar profesionalmente en clubes locales. Durante la Segunda Guerra Mundial, sirvió como músico en el ejército, tocando el piano en la orquesta militar. Durante este período adquirió experiencia en la improvisación y en pequeños tríos, lo que influyó en su estilo posterior.
 
 Después de la guerra, Jamal se mudó a Nueva York e hizo su primera grabación en 1947. En 1949, grabó algunas obras bajo su propio nombre, y fue por esta época cuando comenzó a desarrollar las características de las "interpretaciones de piano minimalistas que hacen uso del espacio".
 
@@ -55,7 +55,7 @@ Formado en 1955, el Ahmad Jamal Trio (Israel Crosby al bajo, Vernel Fournier a l
 Este álbum presenta:
 
 - **Utilización del espacio (espacio)**: Enfatiza la tensión y la profundidad de la música tocando con conciencia del espacio en blanco.
-- **Frases mínimas**: Menos ornamentación, énfasis en repetir temas y ritmos.
+- **Frases mínimas**: Menos ornamentación, énfasis en repetir temas y ritmos
 - **Actuación en trío interactivo**: el bajo y la batería trabajan en estrecha colaboración con el piano.
 
 Este estilo también influyó en Miles Davis y contribuyó al desarrollo posterior del jazz modal.
@@ -113,7 +113,7 @@ La carrera de Ahmad Jamal está marcada por muchos álbumes clásicos. A continu
 
 ### Actividades desde la década de 2000
 - Realizar enérgicamente incluso en la vejez
-- Principalmente grabaciones en vivo, heredando la clásica actuación en trío.
+- Grabación principalmente en vivo, heredando la clásica actuación en trío.
 - Gran impacto en las actividades educativas y en los jóvenes músicos.
 
 ---

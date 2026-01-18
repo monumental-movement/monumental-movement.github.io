@@ -21,7 +21,7 @@ title: '[Columna] Historia completa del hip-hop francés: desde NTM hasta nuestr
 
 Texto: mmr｜Tema: Centrándose en NTM e IAM, explicaciones de cada álbum y canción, antecedentes sociales, análisis de estilo regional y cronología.
 
-El hip-hop francés es un movimiento cultural que nació en los suburbios de las ciudades francesas a finales de la década de 1980 y, aunque influenciado por el hip-hop estadounidense, se ha desarrollado para reflejar su propio entorno social y cultural.
+El hip-hop francés es un movimiento cultural que nació en los suburbios de las ciudades francesas a finales de la década de 1980 y, aunque está influenciado por el hip-hop estadounidense, se ha desarrollado para reflejar su propio entorno social y cultural.
 En particular, los jóvenes de comunidades de inmigrantes y familias de bajos ingresos han adoptado el rap como una forma de expresar sus voces, y las letras contienen mensajes políticos y sociales.
 
 ---
@@ -93,7 +93,7 @@ Principales obras y características:
 ### 2-2. Las letras filosóficas e históricas de IAM.
 
 1. **L'École du Micro d'Argent (1997)**
-- Representar la ciudad y los problemas sociales de Marsella.
+- Representar la ciudad de Marsella y las cuestiones sociales.
 - Letras sobre el antiguo Egipto y la historia colonial francesa.
 
 <div class="mermaid">
@@ -140,7 +140,7 @@ flowchart TB
 
 ## 4. Década de 2010 y más allá: internacionalización y fusión de géneros
 
-- Fusión creciente con Trap, Grime y Afrobeat
+- Fusión creciente con Trap, Grime y Afrobeat.
 - Surgimiento de una nueva generación de raperos a través de SNS y YouTube.
 - Expansión a los mercados internacionales, especialmente creciente popularidad en el África francófona.
 
@@ -187,7 +187,7 @@ timeline
 ## 7. Logros sociales y culturales de NTM e IAM
 
 | Grupo | Impacto/Logros |
-|-----------|------------|
+|-----------|-----------|
 | MNA | Implantación del rap socialmente crítico, símbolo de la cultura suburbana parisina |
 | YO AMO | Introducción de temas filosóficos e históricos, consolidación de la individualidad musical de Marsella |
 

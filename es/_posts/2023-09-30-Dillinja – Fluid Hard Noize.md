@@ -16,7 +16,7 @@ Esta es una pista que encantará a todos los fanáticos del drum & bass. Lo que 
 
 Este sonido de Reese se usó en una variedad de temas, incluidos "Nasty Ways", "Take My Life", "Love Is Not a Game Remix" y "Bambaata Remix", y también se usaron variaciones en "Tudor Rose" y "Go Dillinja".
 
-No es exagerado decir que este sonido de Reese es probablemente el sonido de drum & bass más genial jamás creado. Y parece una locura pensar que allá por 1998, durante las ondas del Britpop, alguien como Dillinja estaba en la clandestinidad, sin preocuparse por vender discos y produciendo cosas más interesantes.
+No es exagerado decir que este sonido de Reese es probablemente el sonido de drum & bass más genial jamás creado. Y parece una locura pensar que allá por 1998, durante las ondas del pop británico, alguien como Dillinja estaba en la clandestinidad, sin preocuparse por vender discos y produciendo cosas más interesantes.
 
 #### Lista de canciones
 ```md

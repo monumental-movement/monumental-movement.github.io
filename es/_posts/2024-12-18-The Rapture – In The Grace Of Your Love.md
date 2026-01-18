@@ -39,4 +39,4 @@ Lanzado en 2011 por DFA Records, "In The Grace Of Your Love" es el tercer y últ
 [Comprar en Mercari](https://jp.mercari.com/item/m73702880151?afid=6142608987){: .button1}
 
 #### YouTube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0d_ijro_PPQ?si=tMlx--dEITNLeFDg" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0d_ijro_PPQ?si=tMlx--dEITNLeFDg" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

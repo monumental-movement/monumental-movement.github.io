@@ -43,7 +43,7 @@ Pionero del Techno Inteligente (IDM). Aunque influenciados por Detroit, desarrol
 
 [**● Cirujano (Anthony Child)**](https://amzn.to/3J8lKJC)
 
-El abanderado del techno de Birmingham. Duro, industrial y sólido. Saltó a la fama con lanzamientos en Tresor y Downwards, y todavía está en el centro del techno del Reino Unido.
+El abanderado del techno de Birmingham. Duro, industrial y sólido. Saltó a la fama con lanzamientos en Tresor y Downwards, y todavía está en el centro del techno británico.
 
 [**● Luke Slater**](https://amzn.to/4mZWTpi)
 
@@ -100,7 +100,7 @@ Cabe señalar que en el Reino Unido había una mayor conciencia no sólo de la "
 <hora>
 
 ### Política de la música y el espacio.
-El techno británico de la década de 1990 era una cultura que valoraba el lugar más que la música. Desde raves ilegales celebradas en almacenes rurales y campos al aire libre hasta grupos de fiestas libres (como Spiral Tribe) que se movían con sistemas de sonido cargados en camiones, el sonido ocupó el espacio físico y sacudió el orden social existente.
+El techno británico en la década de 1990 era una cultura que valoraba el lugar más que la música. Desde raves ilegales celebradas en almacenes rurales y campos al aire libre hasta grupos de fiestas libres (como Spiral Tribe) que se movían con sistemas de sonido cargados en camiones, el sonido ocupó el espacio físico y sacudió el orden social existente.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dSDJsqSGhqM?si=rvn6yH969EiyUfjC" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -189,4 +189,4 @@ El techno creó poesía a partir de las reverberaciones de la industria, present
 
 🔗 [[Columna] Luke Slater: El pionero del techno británico y su mundo musical](https://monumental-movement.jp/Column-Luke-Slater)
 
-🔗 [[Columna] Desde los orígenes del techno hasta el presente: una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[Columna] Desde los orígenes del techno hasta la actualidad - Una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)

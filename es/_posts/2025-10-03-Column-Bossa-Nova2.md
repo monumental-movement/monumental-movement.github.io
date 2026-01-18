@@ -51,7 +51,7 @@ Otro factor detrás de la difusión de la bossa nova fueron las innovaciones tec
 
 La voz grave de João Gilberto era más adecuada para escuchar la radio en casa que para estadios ruidosos. Además, la razón por la que "Getz/Gilberto" con Stan Getz se convirtió en un éxito internacional se debió a la tecnología de grabación estéreo que hacía tan claro el contraste entre el saxofón estilo jazz y la guitarra estilo bossa nova.
 
-Además, los nuevos equipos de grabación de la época apoyaron la elaborada orquestación de Antonio Carlos Jobim. Así es como la bossa nova se convirtió en la música favorita de la tecnología, abriéndose paso desde las salas de estar brasileñas hasta los clubes y cafés de Nueva York en todo el mundo.
+Además, los nuevos equipos de grabación de la época apoyaron la elaborada orquestación de Antonio Carlos Jobim. Así es como la bossa nova se convirtió en la música favorita de la tecnología, abriéndose camino desde las salas de estar brasileñas hasta los clubes y cafés de Nueva York en todo el mundo.
 
 ---
 

@@ -14,7 +14,7 @@ title: Phauna – Naturalmente (Remixes)
 ---
 
 
-Una pista de deep house lanzada en 2003 en el sello house canadiense Play Records, fundado por Mellee Fresh y DJ Spydabrown.
+Una pista de deep house lanzada en 2003 en Play Records, un sello de house canadiense fundado por Mellee Fresh y DJ Spydabrown.
 
 #### Lista de canciones
 ```md

@@ -15,7 +15,7 @@ title: Zeni Geva – 10000 años luz
 
 
 “Zeni Geva – 10.000 años luz” es
-Promoción del álbum grabada en Chicago Electrical Audio en octubre de 2000.
+Álbum promocional del álbum grabado en Chicago Electrical Audio en octubre de 2000.
 
 #### Lista de canciones
 ```md

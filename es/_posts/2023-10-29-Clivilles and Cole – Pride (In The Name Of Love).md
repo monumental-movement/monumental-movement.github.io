@@ -9,7 +9,7 @@ permalink: /es/clivilles-and-cole-pride-in-the-name-of-love/
 tags:
 - House
 - 90s
-title: Clivilles y Cole - Orgullo (En nombre del amor)
+title: Clivilles y Cole – Orgullo (En nombre del amor)
 ---
 
 

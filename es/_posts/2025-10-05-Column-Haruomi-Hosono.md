@@ -84,7 +84,7 @@ Después de eso, se convirtió en la base para perseguir sus propios ideales son
 
 #### Obra maestra
 
-- “Mamá Caramelo” (1975)
+- "Mamá Caramelo" (1975)
 
 Fusionan elementos de folk y rock psicodélico y muestran una musicalidad directamente relacionada con el Happy End posterior.
 Hosono participó en el bajo y el teclado, demostrando sus habilidades de improvisación y arreglos.
@@ -144,7 +144,7 @@ En la televisión y el cine se difundió la idea de que "países tropicales = cu
 
 #### Entorno de producción
 Grabado en casa/estudio "HOSONO HOUSE" (Saitama, Sayama).
-Convirtieron la sala de una casa de madera en un estudio y grabaron utilizando una cinta analógica y una sencilla mesa de mezclas.
+Convirtieron la sala de una casa de madera en un estudio y grabaron usando una cinta analógica y una simple mesa de mezclas.
 Este estilo de grabación casera se convirtió en el origen del pop urbano posterior y de la cultura de grabación casera.
 
 #### Anécdota
@@ -167,7 +167,7 @@ YMO (Yellow Magic Orchestra) es una unidad revolucionaria que difundió la palab
 Como líder, Hosono utilizó máquinas de ritmo y secuenciadores para fusionar el humor asiático y los sonidos futuristas.
 
 #### Antecedentes históricos
-A principios de la década de 1980, Japón alcanzó la cima de su prosperidad tecnológica y económica.
+A principios de la década de 1980, Japón alcanzó la cima de su crecimiento tecnológico y económico.
 Una época en la que el desarrollo de las computadoras, los videojuegos y los instrumentos musicales electrónicos se fusionaron con la música.
 El sonido de YMO era un símbolo de Japón como nación electrónica.
 
@@ -206,7 +206,7 @@ La sala de estar se utilizó como cabina de grabación, e incluso los ecos de lo
 Se dice que en la grabación de "Philharmony", utilizó el sonido del llanto de un gato, que escuchó por casualidad, como "material sonoro".
 Hosono dijo en broma: "La música se trata de vivir con el azar".
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JCAt_v_VDEc?si=JNiOG-MhlGPzdQxx" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JCAt_v_VDEc?si=JNiOG-MhlGPzdQxx" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
@@ -218,7 +218,7 @@ Hosono dijo en broma: "La música se trata de vivir con el azar".
 - "ECM" (1995)
 
 Fue una época en la que trabajó en música para una amplia variedad de medios, incluyendo animación, películas y comerciales.
-"Night on the Galaxy Express" brilla con delicadas composiciones que parecen traducir la literatura fantástica de Kenji Miyazawa al sonido.
+"La noche en el ferrocarril galáctico" brilla con delicadas composiciones que parecen traducir la literatura fantástica de Kenji Miyazawa al sonido.
 
 #### Antecedentes históricos
 Tras el estallido de la burbuja económica, los valores de Japón se han visto sacudidos.
@@ -230,7 +230,7 @@ Simplificó el equipo que construyó durante su estancia en YMO y creó un entor
 Experimentó con la grabación DAT y las primeras mezclas digitales. Soy más un "artista sonoro" que un músico.
 
 #### Anécdota
-Durante la producción de "Galaxy Railway Night", grabamos sonidos ambientales nocturnos junto a las vías del tren para recrear la acústica.
+Durante la producción de "Night on the Galaxy Express", se grabaron sonidos ambientales junto a las vías del tren por la noche para reproducir la acústica.
 Ese sonido permanece débilmente en la pista final.
 
 

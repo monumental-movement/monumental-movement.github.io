@@ -16,7 +16,7 @@ title: Harry Connick, Jr. - Estamos enamorados
 Harry Connick, Jr. es un cantante y pianista de Nueva Orleans.
 Compuso la música para la película de 1989 "Lovers' Premonition" y también ha estado activo como actor desde la década de 1990, apareciendo en "Memphis Belle" y "Independence Day".
 
-A partir de 2019, se dice que Harry Connick Jr. ha vendido más de 30 millones de discos en todo el mundo, lo que lo sitúa entre los "60 artistas masculinos más vendidos en los Estados Unidos" de la Recording Industry Association of America.
+A partir de 2019, se dice que Harry Connick Jr. ha vendido más de 30 millones de discos en todo el mundo, lo que lo ubica entre los "60 artistas masculinos más vendidos en los Estados Unidos" de la Recording Industry Association of America.
 
 "We Are In Love" ganó un premio Grammy en 1991.
 

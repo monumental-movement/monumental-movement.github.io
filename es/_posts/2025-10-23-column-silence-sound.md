@@ -44,7 +44,7 @@ color: #fff;
 ## Capítulo 1: ¿Qué es escuchar sonido? — La escucha como reentrenamiento sensorial
 
 Hacemos demasiada "escucha inconsciente" en nuestra vida diaria.
-Sonidos de notificación de teléfonos inteligentes, anuncios de metro, ruidos de la calle.
+Sonidos de notificación de teléfonos inteligentes, anuncios del metro, ruidos de la calle.
 Pasan a un segundo plano de la conciencia y se convierten en sólo una pieza de información.
 
 Sin embargo, Cage y los compositores de música concreta nos animaron a practicar el redescubrimiento de la escucha.
@@ -113,7 +113,7 @@ Lo que ofrecen Spotify y YouTube es "silencio elegido".
 Por ejemplo, las listas de reproducción "Lo-Fi Chill" y "Focus" están llenas de "sonidos" destinados a crear silencio.
 Paradójicamente, hay un consumo de **producción de tranquilidad**.
 
-Por otro lado, la tecnología de generación de música mediante IA sigue produciendo infinitos sonidos.
+Por otro lado, la tecnología de generación de música mediante IA sigue produciendo sonidos infinitos.
 Entre ellos, lo que los oyentes pueden estar buscando es un "momento sin sonido".
 En otras palabras, el valor del silencio en una era de saturación digital está resurgiendo.
 

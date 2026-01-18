@@ -22,7 +22,7 @@ Texto: mmr｜Tema: Sobre la genealogía del rap en la nube que se cruza con el L
 
 Cloud Rap surgió alrededor de 2010, se centró en el Área de la Bahía y el Internet Underground de EE. UU., y se desarrolló mientras se conectaba con la estética de la subcultura post-vaporwave, Chopped & Screwed, Lo-Fi Hip-Hop y el rap emo moderno. En particular, las actividades de **Lil B**, **Clams Casino** y **Main Attrakionz** simbolizaron los primeros días, formando la base de un linaje que luego conduciría a **Lil Peep**, **XXXTENTACION**, **Bones** y **Yung Lean**.
 
-Cloud Rap estaba mucho más orientado al ambiente que el Hip Hop tradicional, presentando un sonido más orientado al ambiente, procesamiento vocal con fuerte reverberación y texturas de ensueño con efectos espaciales, y luego evolucionó a Vaportrap, absorbiendo música electrónica y la cultura de los memes Vaporwave.
+Cloud Rap estaba mucho más orientado al ambiente que el Hip Hop tradicional, presentando un sonido más orientado al ambiente, procesamiento vocal con fuerte reverberación y texturas de ensueño con efectos espaciales, y luego evolucionó a Vaportrap, absorbiendo música electrónica y una cultura de memes similar a Vaporwave.
 
 
 ---
@@ -127,7 +127,7 @@ Lil Peep desarrolló un estilo que mezclaba elementos de emo, punk y rap en la n
 
 ### ● Diversidad de XXXTENTACION
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DW3tI9HCslo?si=EBkDtIT7ikyQcmHj" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DW3tI9HCslo?si=EBkDtIT7ikyQcmHj" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
@@ -143,7 +143,7 @@ Con el auge de YouTube, SoundCloud y TikTok, las técnicas de Cloud Rap se está
 
 ### ● Cambios en la cultura beat debido a la IA generativa (basada en hechos)
 
-A finales de la década de 2020, las almohadillas en forma de nubes y la generación de texturas ambientales mediante modelos generativos y de difusión se han convertido en algo común, lo que acelera la producción en el entorno doméstico.
+A finales de la década de 2020, las almohadillas en forma de nubes y la generación de texturas ambientales mediante modelos generativos y de difusión se han convertido en algo común, lo que agiliza la producción en el entorno doméstico.
 
 ---
 

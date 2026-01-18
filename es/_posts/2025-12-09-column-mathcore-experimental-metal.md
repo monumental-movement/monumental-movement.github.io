@@ -54,7 +54,7 @@ El DEP apareció en el noreste de Estados Unidos a finales de los años 1990, en
 
 ---
 
-## Innovación del Plan de Escape Dillinger
+## La innovación del plan de escape Dillinger
 
 DEP se formó en 1997. Su EP debut *Under the Running Board* (1998) y su innovador álbum debut *Calculating Infinity* (1999) le valieron una aclamación instantánea.
 
@@ -130,7 +130,7 @@ flowchart TD
 
 * Lidiar con la **modulación métrica** (la ilusión del tempo)
 * Disposición de varias etapas de acentos de caja.
-* Pronunciación polirrítmica simultánea (por ejemplo, 5 figuras conectadas encima de 4/4)
+*Pronunciación polirrítmica simultánea (por ejemplo, 5 figuras conectadas encima de 4/4)
 
 ### Base
 

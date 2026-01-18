@@ -47,7 +47,7 @@ Cuando Pan Sonic se formó en Finlandia a principios de los 90, la escena de la 
 Mika Vainio estuvo originalmente activo en el género industrial/ruido y, a principios de la década de 1990, se dedicó a los experimentos de sonido eléctrico. Ilpo Vaisanen también se movió entre los ámbitos de la electrónica de bricolaje y el arte escénico.
 
 ### Debut bajo el nombre de Panasonic
-Alrededor de 1993, los dos comenzaron a colaborar bajo el nombre de **Panasonic** y lanzaron su primera fuente de sonido en 1994. Gran parte del equipo consistía en circuitos analógicos modificados, sistemas de retroalimentación y osciladores, y el componente principal eran "vibraciones físicas electrónicas" que eran completamente diferentes de las formas existentes de música de club.
+Alrededor de 1993, los dos comenzaron a colaborar bajo el nombre de **Panasonic** y lanzaron su primera fuente de sonido en 1994. Gran parte del equipo consistía en circuitos analógicos modificados, sistemas de retroalimentación y osciladores, y el componente principal eran vibraciones físicas electrónicas, que eran completamente diferentes de las formas existentes de música de club.
 En el panorama musical de la época eran pocos los que presentaban el minimalismo electroacústico en una forma tan pura.
 
 ### Problema de nombre con Matsushita Electric
@@ -68,7 +68,7 @@ Rara vez utiliza sintetizadores disponibles comercialmente y, en cambio, se cent
 - Circuito de control de voltaje
 - Materiales físicos como amplificadores, piezas metálicas, bobinas magnéticas, etc.
 
-Como resultado, el sonido de Pan Sonic tiene una crudeza que suena como una grabación del momento exacto en que opera un componente electrónico. El sonido es áspero, las partículas son grandes y se siente abrumadoramente físico.
+Como resultado, el sonido de Pan Sonic tiene una crudeza que suena como si hubiera sido grabado "en el momento en que los componentes electrónicos funcionan". El sonido es áspero, las partículas son grandes y se siente abrumadoramente físico.
 
 ## 2-2. Estructura mínima
 Aunque el material sonoro es extremadamente simple, la canción tiene una estructura detallada.

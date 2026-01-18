@@ -14,7 +14,7 @@ title: Sandi & Matues - El mundo pt. 1
 ---
 
 
-La versión original de "Sandi & Matues – The World Pt. 1" es un disco poco común que se rumorea que solo pertenece al raro DJ funk KEB DARGE.
+La versión original de "Sandi & Matues – The World Pt. 1" es un disco poco común que se rumorea que solo pertenece al raro DJ de funk KEB DARGE.
 
 #### Lista de canciones
 ```md

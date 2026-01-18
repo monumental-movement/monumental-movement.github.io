@@ -49,7 +49,7 @@ Sin embargo, las características comunes son las siguientes.
 ## ■ Características musicales (basadas en hechos)
 - **Tempo lento (alrededor de 50-80 BPM)**
 - **Las voces son contenidas e indiferentes**
-- **La guitarra utiliza principalmente limpieza, mucha reverberación y eco**
+- **La guitarra utiliza principalmente sonidos limpios, con mucha reverberación y eco**
 - **El número de notas es extremadamente pequeño y la dinámica de la canción es suave**
 - **Las letras tienden a tratar sobre introspección, soledad, memoria y vida cotidiana**
 - **Pincel, toque ligero, patrón simple para tambores**

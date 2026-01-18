@@ -17,7 +17,7 @@ title: Masterboy – Sueños diferentes
 
 Masterboy, activo desde 1990, es un proyecto alemán de Eurodance más conocido en Europa.
 
-"Different Dreams" es el tercer álbum de Masterboy, lanzado en 1994, e incluye éxitos como "Feel the Heat of the Night", "I Got to Give It Up", "Everybody Needs Somebody" e "Is This The Love".
+"Different Dreams" es el tercer álbum de Masterboy, lanzado en 1994, e incluye éxitos como "Feel the Heat of the Night", "I Got to Give It Up", "Everybody Needs Somebody" y "Is This The Love".
 
 #### Lista de canciones
 ```md

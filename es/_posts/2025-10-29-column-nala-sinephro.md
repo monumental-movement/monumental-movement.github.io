@@ -62,7 +62,7 @@ Como ella dice, el sonido tiene capas de "granos" y refracta el tiempo como la l
 ## Capítulo 2: Estructura del “Espacio 1.8” y transformación de la conciencia
 
 La estructura de pistas de Space 1.8 recuerda a una sesión de yoga o meditación.
-Desde el Espacio 1 al Espacio 8: todas las canciones están organizadas como "fases de respiración".
+Desde el Espacio 1 al Espacio 8, todas las canciones están organizadas como "fases de respiración".
 
 - **Espacio 1:** “Entrada” donde sutiles sonidos modulares abren el espacio
 - **Espacio 2:** Diálogo de arpa y saxofón, vibración interior
@@ -84,7 +84,7 @@ La música de Nala Sinephro sigue el espíritu de Harold Budd, Alice Coltrane y 
 Es el "modernismo contemplativo" el que ha sido redefinido en la era post-club del siglo XXI.
 
 Su arpa y sintetizadores difunden una "improvisación estilo jazz" en el espacio agregando capas de sonido.
-El ritmo desaparece, la melodía vaga y todo lo que queda es la **sensación del tiempo y el espacio**.
+El ritmo desaparece, la melodía vaga y todo lo que queda es la sensación del tiempo y el espacio.
 
 
 <div class="mermaid">
@@ -114,7 +114,7 @@ Aquí, el patching en sí es una actuación de improvisación que transforma el 
 > - Ableton Live (para procesamiento de bucles)
 
 Esta configuración es verdaderamente un "dispositivo respiratorio para humanos y máquinas".
-Las formas de onda envuelven los ecos del arpa y la temperatura analógica neutraliza la claridad electrónica.
+Las formas de onda envuelven los ecos del arpa, la temperatura analógica neutraliza la transparencia electrónica.
 También es un acto de sublimar la música en una **oración tecnológica**.
 
 ---
@@ -137,7 +137,7 @@ Al mismo tiempo, también es una declaración de lentitud frente a la velocidad 
 | Año | Eventos |
 |----|--------|
 | 1998 | Nacido como belga de ascendencia santalucensa |
-| 2015 | Se mudó a Londres y empezó a trabajar en la escena del jazz.
+| 2015 | Se mudó a Londres y comenzó a trabajar en la escena del jazz.
 | 2018 | Únete a Total Refreshment Center y comienza sesiones de improvisación |
 | 2021 | “Space 1.8” lanzado por Warp Records |
 | 2022 | Reconocimiento internacional obtenido por Gilles Peterson y otros |

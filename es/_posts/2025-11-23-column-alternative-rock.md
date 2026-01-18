@@ -25,7 +25,7 @@ Texto: mmr｜Tema: 40 años de historia hasta que la contracultura se generaliz�
 
 Aunque el término "rock alternativo" se hizo popular a principios de los años 1990, sus orígenes se remontan a las escenas underground de Estados Unidos y Gran Bretaña a principios de los años 1980.
 
-En la década de 1980, el rock convencional se centraba en el hard rock ruidoso del tamaño de un estadio, el AOR comercialmente pulido y el pop rock asociado con MTV. Por otro lado, en ciudades regionales y ciudades universitarias comenzó a surgir un nuevo movimiento de bandas arraigadas en el espíritu del bricolaje y no basadas en el éxito comercial.
+En la década de 1980, el rock convencional se centraba en el hard rock ruidoso del tamaño de un estadio, el AOR comercialmente pulido y el pop rock asociado con MTV. Por otro lado, en ciudades regionales y ciudades universitarias comenzó a surgir un nuevo movimiento de bandas arraigadas en el espíritu del bricolaje y no basado en el éxito comercial.
 
 En los Estados Unidos en ese momento, sellos independientes como SST Records, Twin/Tone y Touch and Go producían una variedad de estilos que no dependían del género. Se trataba de un movimiento llamado ``college rock'', una banda que heredó la velocidad y el antiautoritarismo del hardcore punk, pero tenía un espíritu experimental más libre.
 
@@ -118,7 +118,7 @@ Este movimiento conecta con bandas líricas y experimentales como Radiohead y Th
 ¡El ascenso de Tortuga, Mogwai, Godspeed You! Black Emperor y otros traspasaron los límites del rock.
 
 La alternativa ya no es un estilo único;
-**"Un ​​término general para la creatividad que no se refleja en el comercialismo"**
+**"Un ​​término general para la creatividad que no se recupera mediante el comercialismo"**
 Se ha llegado a entender como.
 
 ---
@@ -129,7 +129,7 @@ A principios de la década de 2000, bandas como The Strokes, The White Stripes, 
 
 Al mismo tiempo, bandas como Arcade Fire, Modest Mouse, The National y Franz Ferdinand surgieron en varios lugares, y la música alternativa se superpuso con la definición más amplia de "indie rock".
 
-A finales de la década de 2000, la cultura de los festivales estadounidenses (Coachella, Lollapalooza) se hizo más grande y más artistas independientes adornaron el escenario principal. Ver a bandas que alguna vez fueron clandestinas ocupando un lugar central en los festivales se ha convertido en algo común.
+A finales de la década de 2000, la cultura de los festivales estadounidenses (Coachella, Lollapalooza) se hizo más grande y más artistas independientes adornaron el escenario principal. Ver a bandas que alguna vez fueron clandestinas ocupar un lugar central en los festivales se ha convertido en algo común.
 
 ---
 

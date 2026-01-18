@@ -27,7 +27,7 @@ La experiencia auditiva en Spotify y Apple Music se está reorganizando para ada
 "Escuchando en un día lluvioso", "Pista a las 2 a.m." y "Una mañana tomando café". Los títulos de estas listas indican un nuevo valor: "contexto sobre género".
 Se habla de música no en términos de de qué está hecha, sino en términos de cómo resuena o se adapta a las situaciones.
 
-En el centro de este cambio están la IA, la nostalgia y la propia "memoria" del oyente.
+En el centro de este cambio se encuentran la IA, la nostalgia y la propia "memoria" del oyente.
 
 ---
 
@@ -128,7 +128,7 @@ La característica del 2025 es la coexistencia de quietud (Mínimo) y densidad (
 
 #### “Club tranquilo” y “electrónica introspectiva”
 
-La popularidad de los "ritmos lentos" como el Afro House y el Amapiano simboliza una era en la que el baile también puede ser "introspección".
+La popularidad de los "ritmos lentos" como el Afro House y el Amapiano simboliza una era en la que el baile también puede convertirse en "introspección".
 Los sets de 100 a 110 BPM se están convirtiendo en la norma en los clubes de Berlín y Seúl, creando un espacio donde puedes "pensar mientras bailas".
 En Japón, los festivales gastronómicos también conocidos como foodman y yahyel están explorando la "música tranquila de club".
 

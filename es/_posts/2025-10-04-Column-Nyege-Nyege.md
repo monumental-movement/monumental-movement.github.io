@@ -200,11 +200,11 @@ flowchart TD
 
 ---
 
-#### Actuación y danza
+#### Actuación y Danza
 
 - Integración con la danza de improvisación: En la tradición Rarakaraka la danza se integra con la música, y este carácter de improvisación se hereda en Acolitronics.
 
-- Expresión en festivales: Nyege En el Festival de Nyege, es común que el público baile libremente con música electrónica Akori.
+- Expresión en festivales: Nyege En el Festival de Nyege, es habitual que el público baile libremente con música electrónica Akori.
 
 ---
 

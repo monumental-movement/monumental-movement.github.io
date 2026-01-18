@@ -10,7 +10,7 @@ tags:
 - Soul
 - Funk
 - 7inch
-title: Stevie Wonder - Sólo llamé para decirte que te amo
+title: Stevie Wonder – Sólo llamé para decirte que te amo
 ---
 
 

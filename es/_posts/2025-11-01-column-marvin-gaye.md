@@ -49,7 +49,7 @@ color: #fff;
 
 La vida de Marvin Gaye, conocido como el "Príncipe del Soul" y el "Príncipe de Motown", estuvo llena de complicaciones familiares, conflictos consigo mismo, esfuerzos creativos constantes y un final trágico detrás de su espectacular éxito. Su música fue más que un simple "éxito pop"; fue una amalgama de mensajes sociales, confesiones personales y ritmos.
 
-En este artículo lo reconsideraremos no sólo como un genio musical, sino como un ser humano que vivió una “vida extraña”. Desentrañaremos su evolución desde dos ejes: los cambios en la música y sus propias oscilaciones internas.
+En este artículo lo reconsideraremos no sólo como un genio musical, sino como un ser humano que vivió una "vida extraña". Desentrañaremos su evolución desde dos ejes: los cambios en la música y sus propias oscilaciones internas.
 
 ---
 
@@ -64,7 +64,7 @@ A mediados de la década de 1950, Gaye se alistó en la Fuerza Aérea de los Est
 Finalmente, se mudó al área de Detroit/Motown y, en 1961, aprovechó la oportunidad para debutar como cantante solista.
 
 ### Encuentro con Motown
-Un encuentro casual con Berry Gordy, el fundador del sello Motown, le abrió el camino para convertirse en cantante solista. Después de su debut, mientras se adaptaba al sistema de producción masiva de éxitos para jóvenes de Motown, comenzó a desarrollar el deseo de "canciones para adultos" y "una voz que diga mucho".
+Un encuentro con Berry Gordy, fundador del sello Motown, le allanó el camino para convertirse en cantante solista. Después de su debut, mientras se adaptaba al sistema de producción masiva de éxitos para jóvenes de Motown, comenzó a desarrollar el deseo de "canciones para adultos" y "una voz que diga mucho".
 Durante este período, gradualmente comenzó a darse cuenta de que podía pasar de "simplemente cantar" a "hablar a través de canciones".
 
 ---
@@ -107,7 +107,7 @@ Después de lanzar este álbum, Gaye quedó agotado tanto física como mentalmen
 ## Capítulo 4: Un período de caos y renacimiento (1977-1983)
 
 ### Elusión fiscal, fuga de Europa, preparación para el reinicio
-A finales de los años 1970 y principios de los 1980, los hombres homosexuales enfrentaron muchos desafíos en los Estados Unidos, incluidos problemas fiscales, consumo de drogas y estancamiento creativo. Mudarse a Bélgica y pasar más tiempo en Europa supuso un "escapismo" tanto musical como físicamente.
+A finales de los años 1970 y principios de los años 1980, los hombres homosexuales enfrentaron muchos desafíos en los Estados Unidos, incluidos problemas fiscales, consumo de drogas y estancamiento creativo. Mudarse a Bélgica y pasar más tiempo en Europa supuso un "escapismo" tanto musical como físicamente.
 En medio de todo esto, buscaba un regreso, buscando nuevos sonidos y nuevos ambientes.
 
 ### "Amor de medianoche" (1982)/"Sanación sexual"
@@ -143,7 +143,7 @@ Marvin Gaye no sólo fue un creador de éxitos, sino también alguien que allan�
 Además, el uso del Roland TR-808 en "Midnight Love" también mostró nuevas posibilidades para la fusión de equipos electrónicos y música soul.
 
 ### Destino extraño personal
-La vida de Gay está llena del "curioso" destino de la violencia doméstica infantil, rupturas amorosas, problemas financieros y de drogas, y la muerte a tiros de su padre. Esta tendencia va más allá del marco de una simple "estrella trágica" y revela una imagen humana de un hombre cuyo "talento y sufrimiento" se entrelazan.
+La vida de Gay está llena del "curioso" destino de la violencia doméstica infantil, rupturas amorosas, problemas financieros y de drogas, y el asesinato a tiros de su padre. Esta tendencia va más allá del marco de una simple "estrella trágica" y revela una imagen humana de un hombre cuyo "talento y sufrimiento" se entrelazan.
 Además, cuando lo piensas desde una perspectiva de "qué pasaría si", te vienen a la mente muchas hipótesis: ¿y si hubiera roto la relación con su padre?, ¿y si no hubiera quedado completamente atrapado en el sistema Motown?, ¿y si hubiera seguido viviendo? Son evidencia de una "vida extraña" donde el azar y la necesidad se entrelazan.
 
 ### Reevaluación y ampliación de la expresión en los tiempos modernos.

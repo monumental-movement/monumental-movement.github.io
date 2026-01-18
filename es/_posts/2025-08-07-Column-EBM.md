@@ -186,7 +186,7 @@ Desde la década de 2010, junto con el resurgimiento tecnoindustrial, la EBM ha 
 
 - [Años de negación](https://amzn.to/46OccN4)
 
-Estos artistas están influenciados por la EBM, pero la combinan con elementos como el coldwave, el synthwave y el post-punk para crear una nueva forma de EBM.
+Estos artistas están influenciados por la EBM, pero la combinan con elementos como el coldwave, el synthwave y el post-punk para crear nuevas formas de EBM.
 
 
 <hora>

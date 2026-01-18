@@ -100,7 +100,7 @@ graph TD
 
 ### 4.2 Influencia del jazz fusión
 
-* Tocar el bajo muy improvisado.
+* Interpretación de bajo altamente improvisada
 * Elementos de fusión en progresiones de acordes y frases.
 
 ### 4.3 Fusión analógica + digital
