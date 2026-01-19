@@ -46,7 +46,7 @@ color: #fff;
 Reggae was established around 1968 after ska and rock steady. Lyrics with heavier rhythms, an emphasis on the bass, and messages became popular. It was also during this period that artists such as Bob Marley, Peter Tosh and Burning Spear became internationally known.
 
 - **Role of sound system**
-In Jamaica, it was difficult to own expensive record players and stereos, so huge sound systems, or groups of speakers installed on street corners, became the center of the musical experience. Producers and DJs independently played the latest 7-inch singles to appeal to the audience.
+In Jamaica, it was difficult to own expensive record players and stereos, so huge speakers (sound systems) installed on street corners became the center of the musical experience. Producers and DJs independently played the latest 7-inch singles to appeal to the audience.
 
 - **The advent of cassettes**
 Compact cassettes, introduced in the early 1970s under the Philips standard, soon found their way into Jamaica. Although it was still in its early stages of popularity, local reggae fans and DJs began to pay attention to the potential of this small media.
@@ -63,7 +63,7 @@ At sound system events and dance halls, a culture was born in which live recordi
 For example, recordings of specific sound system confrontations (sound clashes) and later distributing them on cassette were a valuable means of sharing experiences for fans.
 
 - **Diaspora and Cassette**
-For Caribbean immigrant communities in Britain and the United States, the cassettes sent from Jamaica were a real-time medium that conveyed the ""current state of their homeland.'' Through the mail and informal networks, Jamaica's latest reggae and dancehall music quickly spread overseas.
+For Caribbean immigrant communities in Britain and the United States, the cassettes sent from Jamaica were a real-time medium that conveyed the ""current state of their homeland.'' Through mail and informal networks, Jamaica's latest reggae and dancehall music quickly spread overseas.
 
 ---
 
@@ -109,7 +109,7 @@ A list of famous recordings that symbolize reggae cassette culture. These are no
 
 ## Representative reggae artists by era
 
-The sounds of representative artists closely related to cassette culture are organized by decade.
+The sounds of representative artists closely related to cassette culture are organized by era.
 
 | Era | Representative artists/sounds | Characteristics |
 |------|----------------------------|------|
@@ -134,7 +134,7 @@ In the 1990s, when the number of Japanese reggae fans rapidly increased, local c
 - **Introducing an independent mixtape**
 As Japanese sound systems (Mighty Crown, Fire Ball, etc.) grew, they started releasing their own mixes on cassette. This led to the fusion of Japan's unique reggae culture and styles imported directly from Jamaica.
 
-- **After 2000s: CD-R and digitalization wave**
+- **After the 2000s: CD-R and digitalization wave**
 In the 2000s, CD-R and MP3 became mainstream, and cassettes gradually disappeared. However, some collectors and DJs still preserve their cassettes and digitize them to give back to the scene. These continue to have value as a vivid archive of reggae's reception in Japan.
 
 - **Cultural Significance**

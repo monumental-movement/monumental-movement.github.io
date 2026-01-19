@@ -52,7 +52,7 @@ The most important characteristics of acid house are the following sound element
 
 <hr>
 
-#### Quadruple kick
+#### Four kicks
 
 - BPM is a stable tempo of around 120-130
 
@@ -172,7 +172,7 @@ Today, acid house is being reevaluated amidst retro culture and the revival of a
 
 - Explosive spread of TB-303 clone aircraft (reproduction of analog equipment)
 
-More than just a musical genre, acid house continues to be at the nexus of electronic music and counterculture.
+More than just a musical genre, acid house remains at the nexus of electronic music and counterculture.
 
 
 <hr>

@@ -44,7 +44,7 @@ Footwork/Juke was born in Chicago's ghetto communities in the late 1980s and ear
 
 - **Late 1980s**: As Chicago House flourishes, a more aggressive house sound known as "Ghetto House" develops at area clubs and parties.
 - **Early 1990s**: A culture of short breakbeats, repeated samples, and fast-moving dance steps known as Juke was established.
-- **Late 1990s**: The name Footwork appears. A culture in which dance and music are closely connected begins to spread.
+- **Late 1990s**: The name Footwork appears. A culture in which dance and music are closely linked begins to spread.
 
 <div class="mermaid">
 flowchart TD
@@ -119,7 +119,7 @@ Footwork has been attracting attention outside of the United States since the 20
 
 - **Europe**: Planet Mu and UK-based producers release, footwork battle event held
 - **Japan**: Footwork event held in underground club, influencing DJs and young creators
-- **SNS/Distribution Culture**: International dissemination through YouTube and SoundCloud
+- **SNS/Distribution Culture**: International spread through YouTube and SoundCloud
 
 ---
 

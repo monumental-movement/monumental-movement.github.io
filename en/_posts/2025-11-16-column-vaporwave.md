@@ -162,7 +162,7 @@ graph TD
     B[Technology UI] --> B2[Deterioration/noise]
     C[90s japanese statue] --> C2[abstraction]
     D[classical sculpture] --> D2[meta quote]
-    A2 --> Z[Vaporwave worldview]
+    A2 --> Z[Vaporwave world view]
     B2 --> Z
     C2 --> Z
     D2 --> Z
@@ -175,7 +175,7 @@ graph TD
 
 What is vaporwave and its core definition**
 
-### **5-1 Towards an existence that transcends "genre"**
+### **5-1　Beyond "genre"**
 
 Vaporwave was initially treated as a ""minor genre that originated on the Internet'', but
 After spreading for more than 10 years, it has become a cultural device that transcends genres, as shown below.

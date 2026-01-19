@@ -34,7 +34,7 @@ The following six companies shaped the overall picture:
 * **emagic/Digidesign (before acquisition)**
 
 The differences in the strategies adopted by these companies have led to the **multipolarization of DAW culture**.
-While Apple and Avid pursued "vertical integration" through acquisitions, Steinberg, MOTU, and Adobe established their influence through "technical standards" and "domain specialization."
+While Apple and Avid have pursued "vertical integration" through acquisitions, Steinberg, MOTU, and Adobe have established their influence through "technical standards" and "domain specialization."
 
 ---
 
@@ -261,7 +261,7 @@ Over the past few years, the history of DAWs has undergone another major change.
 
 ### ■ Adobe: Increase in demand for distribution and broadcasting
 
-* Integration advantage with Premiere
+* Integration advantages with Premiere
 * Strong in the YouTube/Podcast era
 
 ---

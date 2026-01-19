@@ -19,7 +19,7 @@ title: '[Column] Neo-Futurism / Avant-Garde Pop'
 
 Text: mmr｜Theme: Organized as an intersection of music history, art history, and technology history, and about actual artists' achievements and work trends
 
-Neo-futurism/avant-garde pop is a trend that has established experimental sound structures, physicality, and future-oriented visual expression within the distribution structure of pop music. In the 21st century, the aspiration for the "future" that originated in Futurist art in the early 20th century has been linked to digital production environments, post-internet visual culture, and the redefinition of gender and body representation, reconfiguring music and visual expression as inseparable.
+Neo-futurism/avant-garde pop is a trend that has established experimental sound structures, physicality, and future-oriented visual expression within the distribution structure of pop music. In the 21st century, the aspiration for the "future" that originated from Futurist art in the early 20th century has been linked to digital production environments, post-internet visual culture, and the redefinition of gender and body representation, reconfiguring music and visual expression as inseparable.
 
 FKA twigs and Arca are iconic in this context. Her/their work does not simply present innovative sounds, but functions as a comprehensive art that integrates the body, technology, emotion, and identity.
 
@@ -146,7 +146,7 @@ What FKA twigs and Arca's works have in common is a departure from a linear comp
 
 ### 9-2. Music construction starting from the body
 
-In FKA twigs' productions, dance and physical movement are often the inspiration for musical structures. Rhythm reflects the tension and release of the body, and is manifested in fluctuations in tempo and pauses. This is a body-driven composition method that differs from traditional beat-centered composition.
+In FKA twigs' productions, dance and physical movement are often the inspiration for musical structures. Rhythm reflects the tension and release of the body, and is manifested in the fluctuations in tempo and pauses. This is a body-driven composition method that differs from traditional beat-centered composition.
 
 ### 9-3. Distance between acoustic processing and emotion
 
@@ -194,7 +194,7 @@ The integration of music and visuals is accelerating, and emphasis is placed on 
 
 ### 13-3. 2020s
 
-Expressions that cut across gender, the body, and technology became commonplace, and neofuturism became established as an aesthetic.
+Expressions that cross gender, body, and technology became commonplace, and neofuturism became established as an aesthetic.
 
 ---
 

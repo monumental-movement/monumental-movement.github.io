@@ -18,7 +18,7 @@ title: '[Column] Plastikman | Richie Hawtin - The depths of minimalism and the s
 
 Text: mmr｜Theme: Thoughts on how Plastikman, who inherited the spirit of the second generation of Detroit techno, stripped down the sound to the utmost limit and sublimated it into an art that allows you to hear the "reverberation" of rhythm itself.
 
-Richie Hawtin has been redefining "techno" since the early 1990s, not just as dance music, but as a "sound meditation device." His works under the name Plastikman, particularly ""_Sheet One_" (1993) and ""_Consumed_" (1998), are **experiments in visualizing the internal space of the human body with electronic sound**, and the sound, which resembles cold liquid, is also called ""abstract sculpture of sound.''
+Richie Hawtin has been redefining "techno" since the early 1990s, not just as dance music, but as a "sound meditation device." His works under the name Plastikman, particularly ""_Sheet One_" (1993) and ""_Consumed_" (1998), are **an experiment in visualizing the internal space of the human body using electronic sound.** The sound, which resembles cold liquid, is also called ""abstract sculpture of sound.''
 
 
 
@@ -90,14 +90,14 @@ With this work, Hawtin becomes the first artist to equate "minimalism" with "nih
 
 ## Chapter 4: Technology and the Body - Rebuilding the LIVE Concept
 Hawtin also pioneered the fusion of technology and performance.
-In the 2000s, he **redefined DJ play** with the "DE9" series, establishing the ""**prototype of digital DJ**'' that used Ableton Live and Traktor to reconstruct tracks in real time.
+In the 2000s, he **redefined DJ play** with the DE9 series and established the ""prototype of digital DJ**'', which uses Ableton Live and Traktor to reconstruct tracks in real time.
 
 On his stage, an environment was constructed in which MacBook, MIDI controller, lighting and video were completely synchronized, presenting a new concept of **""live = breathing data''**.
 
 ---
 
 ## Chapter 5: Playing Plastikman with "EX"
-""_EX_"', which was unveiled at London"s Tate Modern in 2014, was a work that transferred Plastikman's aesthetics to the museum space.
+""_EX_"', which was unveiled at London"s Tate Modern in 2014, was a work that transferred Plastikman's aesthetics to a museum space.
 The stage is shrouded in darkness, and Houtin stands as if imprisoned in a glowing cage. The audience shares the experience of ""observing the structure of sound" rather than ""watching a DJ."
 
 > "Plastikman remains the music of an inward journey."
@@ -294,7 +294,7 @@ This is because he knows better than anyone that just one rotation can change th
 | ---- | ------------- | --------------------------- | ----------------------- |
 | 1994 | Plastikman | **Musik** EP | The pinnacle of Acid Techno under the name Plastikman. |
 | 1998 | Plastikman | **Minus** EP | The first installment of Minus. Extreme minimal sound. |
-| 1999 | Magda | **Track 1** | A dark minimalist test piece.             |
+| 1999 | Magda | **Track 1** | Dark minimalist test piece.             |
 | 2000 | Richie Hawtin | **EX/EP** | Live remix before DE9.         |
 | 2001 | Plastikman | **DE9: Closer to the Edit** | Digital DJ revolution.               |
 | 2003 | Villalobos | **Allez-Allez** | Early Berlin influence from Minus.       |

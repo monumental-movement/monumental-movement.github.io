@@ -29,7 +29,7 @@ Below, we will look back at the history of Shoegaze by decade, and introduce the
 - While following the trends of post-punk and new wave, a new approach was being sought to fuse guitar noise and pop melodies.
 - Indie labels such as Creation Records are leading the scene.
 
-### Representative masterpiece
+### Representative masterpieces
 - [My Bloody Valentine – *Isn't Anything* (1988)](https://amzn.to/4njxSGF)
 - [Cocteau Twins – *Blue Bell Knoll* (1988)](https://amzn.to/4mAovBh)
 - [The Jesus and Mary Chain – *Psychocandy* (1985)](https://amzn.to/3IyW48K)
@@ -76,7 +76,7 @@ color: #fff;
 - Ride, Slowdive, Lush and others released masterpieces one after another.
 - Although it temporarily declined with the rise of Britpop, it was highly praised by later generations.
 
-### Representative masterpiece
+### Representative masterpieces
 - [My Bloody Valentine – *Loveless* (1991)](https://amzn.to/3Kijvne)
 - [Slowdive – *Souvlaki* (1993)](https://amzn.to/4newBAp)
 - [Ride – *Nowhere* (1990)](https://amzn.to/4o4V4IP)
@@ -109,7 +109,7 @@ color: #fff;
 - A new generation of Shoegaze revival is progressing mainly in America.
 - With the spread of internet culture, re-evaluation is accelerating.
 
-### Representative masterpiece
+### Representative masterpieces
 - [M83 – *Dead Cities, Red Seas & Lost Ghosts* (2003)](https://amzn.to/46Qy7D5)
 - [Deerhunter – *Microcastle* (2008)](https://amzn.to/4mu2OCC)
 - [Asobi Seksu – *Citrus* (2006)](https://amzn.to/4nE4GtC)
@@ -142,7 +142,7 @@ Sometimes | Always | JAMC & Hope Sandoval | The line between noise and pop |
 - New generation bands such as DIIV and Nothing are emerging.
 - Fusion with Dreampop and Chillwave.
 
-### Representative masterpiece
+### Representative masterpieces
 - [DIIV – *Oshin* (2012)](https://amzn.to/3KhoeFM)
 - [Nothing – *Guilty of Everything* (2014)](https://amzn.to/42C57wq)
 - [Ringo Deathstarr – *Colour Trip* (2011)](https://amzn.to/3IynMCB)
@@ -175,7 +175,7 @@ Sometimes | Always | JAMC & Hope Sandoval | The line between noise and pop |
 - It is also popular among the younger generation due to its spread through festivals and streaming.
 - Shoegaze techniques are also linked to K-POP and the reappraisal of Japanese city pop.
 
-### Representative masterpiece
+### Representative masterpieces
 - [Nothing – *The Great Dismal* (2020)](https://amzn.to/4nNNmm8)
 - [Slowdive – *Everything Is Alive* (2023) ](https://amzn.to/46PP5l8)
 - [Tamaryn – *Dreaming The Dark* (2019)](https://amzn.to/46sFjp7)

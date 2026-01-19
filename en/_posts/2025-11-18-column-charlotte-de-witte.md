@@ -59,7 +59,7 @@ He also released an EP and released early works on labels such as Bad Life and C
 
 ## Working under his real name and turning to techno (2015–2018)
 
-In **2015**, Charlotte dropped the name ""Raving George'' and began performing under her real name **Charlotte de Witte**.
+In **2015**, Charlotte dropped the name ""Raving George'' and started working under her real name **Charlotte de Witte**.
 During this period, her sound took on a darker, more minimalist style, including acid techno and industrial elements.
 
 Representative works include:
@@ -172,7 +172,7 @@ He has also released experimental works such as "The Heads That Know (feat. Comm
 | 2015 | Started activities under real name, announced Weltschmerz EP |
 | 2017 | Closer, Wisdom EP released, attracting attention in Europe and America |
 | 2018 | BBC Radio 1 Essential Mix appearance |
-| 2019 | KNTXT established |
+| 2019 | Establishment of KNTXT |
 | 2022 | Tomorrowland Main Stage Closing |
 | 2023 | Movement Festival Closing |
 | 2024 | KNTXT store opened, Époque label started |

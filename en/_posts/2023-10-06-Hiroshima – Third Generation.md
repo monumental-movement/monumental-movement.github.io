@@ -16,7 +16,7 @@ title: Hiroshima – Third Generation
 
 "Third Generation" is Hiroshima's third album, and it is a work that shows their musical maturity and evolution. The album incorporates traditional instruments such as Japanese instruments, Tsugaru shamisen, and kalimba, while developing a modern jazz fusion sound.
 
-The album includes the songs "One Wish," "Thousand Cranes," and "Sandalwood." These songs combined Hiroshima's distinctive sound and melodic song structure to create a pleasant musical experience for the audience.
+The album includes the songs "One Wish," "Thousand Cranes," and "Sandalwood." These songs combined Hiroshima's signature sound with melodic song structures to create a pleasant musical experience for the audience.
 
 "Third Generation" received high praise from music critics, who praised it as a work that demonstrated the uniqueness of Hiroshima's music and sophisticated performance technique. The album received support not only from jazz fusion enthusiasts, but also from a wide audience.
 

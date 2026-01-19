@@ -21,7 +21,7 @@ title: '[Column] IDM × Jazz / Electronic Jazz Fusion'
 Text: mmr｜Theme: About music presented as the structure of time itself
 
 
-The fusion of IDM and jazz has progressed not as an addition of genres, but as a redesign of the sense of time and performance philosophy. By blurring the lines between improvisation and composition, groove and programming, and human power and machines, an aesthetic different from traditional fusion is being formed. Since the 1990s, as club culture and experimental jazz have deepened simultaneously, rhythmic structure itself has become the subject of music.
+The fusion of IDM and jazz has progressed not as an addition of genres, but as a redesign of the sense of time and performance philosophy. By blurring the boundaries between improvisation and composition, groove and programming, and human power and machines, an aesthetic different from traditional fusion is being formed. Since the 1990s, as club culture and experimental jazz have deepened simultaneously, rhythmic structure itself has become the subject of music.
 
 > If you understand IDM x Jazz not as a style, but as a methodology for processing time, it is easier to see the whole picture.
 
@@ -59,7 +59,7 @@ In IDM, multiple periods often exist simultaneously within a 4/4 time signature.
 
 ### Genealogy from electric jazz
 
-Electric jazz in the 1970s emphasized the expansion of the rhythm section and sustained grooves, but did not go as far as breaking down the beat. Since the 1990s, the introduction of samplers and sequencers has made it possible to repeat accurately and produce minute shifts that are difficult to perform manually.
+Electric jazz in the 1970s emphasized the expansion of the rhythm section and sustained grooves, but did not go as far as breaking down the beat. Since the 1990s, the introduction of samplers and sequencers has made it possible to repeat with precision and create minute shifts that would be difficult to perform manually.
 
 ### Coexistence of improvisation and programming
 
@@ -116,7 +116,7 @@ On the surface, simple repetition continues, but internally the accent positions
 
 ### Polyrhythm and Polymeter
 
-In IDM x Jazz, polyrhythm, in which multiple rhythm cycles run simultaneously, and polymeter, which have different time signatures, are used together. What is important is that they are mathematically consistent and not completely chaotic.
+IDM x Jazz uses both polyrhythm, which has multiple rhythm cycles running at the same time, and polymeter, which has a different time signature. What is important is that they are mathematically consistent and not completely chaotic.
 
 ### Micro timing control
 

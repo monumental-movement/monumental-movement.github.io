@@ -51,7 +51,7 @@ Encourages the process of objectively viewing one's own emotions.
 Music is not just an external stimulus, but a ""mirror of nerves.''
 When you listen to a sad melody, "sad neurons" resonate in your brain,
 The feel-good chemical **dopamine** is secreted there.
-This contradictory reaction—"pleasure in sadness"—is what
+This contradictory reaction—"pleasure amidst sadness"—is what
 This is one of the biggest reasons why people seek out sad music.
 
 ---

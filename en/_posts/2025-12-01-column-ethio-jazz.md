@@ -44,7 +44,7 @@ color: #fff;
 
 # # 1. The foundation of Ethiopian music: the pentatonic scale (kinet) and unique modal culture
 
-A multi-layered musical culture has existed in Ethiopia since ancient times, including Ethiopian Orthodox Christian chants (Zara), local Azmari minstrel culture, and the urban music of the capital Addis Ababa.
+Ethiopia has had a multi-layered musical culture since ancient times, including Ethiopian Orthodox chants (Zara), the Azmari culture of local bards, and the urban music of the capital Addis Ababa.
 
 Particularly famous is Ethiopia's unique modal system called ""qenet.''
 There are four typical Kinets:
@@ -132,7 +132,7 @@ However, Mulatu himself continued to work abroad and made intermittent recording
 # # 6. Late 1990s: International reappraisal with the Éthiopiques series
 
 The ""Éthiopiques'' series (Buda Musique), which started in 1997, is
-This is a large-scale archive project that introduced the world to the sound sources of Ethiopia's Golden Age.
+This is a large-scale archive project that introduced sound sources from the Golden Age of Ethiopia to the world.
 
 Mulatu's works, Ethiopian singers (Mahmoud Ahmed, Tilahun Gessesse, etc.),
 Military band recordings were reissued, and this triggered a worldwide re-evaluation of Ethio-Jazz.
@@ -215,7 +215,7 @@ Reevaluated internationally with the Éthiopiques series.
 
 ### ■ Tilahun Gessesse
 
-A singer known as the "King of Ethiopian Music." He is a former military band member and has advanced singing skills.
+A singer known as the "King of Ethiopian Music." He is a former military band member and has high singing skills.
 
 ### ■ Hailu Mergia
 
@@ -237,7 +237,7 @@ It was later rediscovered in Washington, D.C., and toured the world.
 
 ### ■ Jazz/Funk/Hip-hop
 
-* Expansion of jazz mode interpretation
+* Expanding the interpretation of jazz modes
 * Frequently used as sample material in hip-hop
 * Influence on Afrobeat/Afrofusion
 

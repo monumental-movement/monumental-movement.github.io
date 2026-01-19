@@ -63,7 +63,7 @@ In the mid-1950s, Gaye enlisted in the U.S. Air Force, but was discharged after 
 Eventually, he moved to the Detroit/Motown area, and in 1961, he seized the opportunity to make his debut as a solo singer.
 
 ### Encounter with Motown
-An encounter with Berry Gordy, founder of the Motown label, paved the way for him to become a solo singer. After his debut, while adapting to Motown's system of mass-producing hits for young people, he began to develop a desire for ""adult songs" and ""a voice that speaks volumes."
+A chance encounter with Berry Gordy, the founder of the Motown label, paved the way for him to become a solo singer. After his debut, while adapting to Motown's system of mass-producing hits for young people, he began to develop a desire for ""adult songs" and ""a voice that speaks volumes."
 During this period, he gradually began to realize that he could move from ""just singing" to ""talking through songs."
 
 ---

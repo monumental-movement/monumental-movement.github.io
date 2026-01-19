@@ -88,7 +88,7 @@ It was truly **interior design of sound**.
 
 | Element | Content | Relationship with Three Suns |
 |------|------|----------------------|
-| Hi-Fi audio | Popularization of stereo playback at home | Recording with acoustic effects in mind |
+| Hi-Fi audio | Popularization of stereo playback in homes | Recording with acoustic effects in mind |
 | Cocktail culture | Symbol of urban leisure | Music fused with "intoxication" |
 | Home movies | BGM in the 8mm film era | Three Suns was frequently used |
 | Space-oriented | Space-age aesthetics | Floating sound resonates |

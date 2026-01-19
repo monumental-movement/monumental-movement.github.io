@@ -95,7 +95,7 @@ The tempo is slow, the kick is deep, the bass is organic - "stillness for dancin
 
 #### City Pop Re-evaluation: Reimported from the East
 
-After the phenomenon of [**Mariya Takeuchi's "Plastic Love"**](https://amzn.to/3J6YPhZ), which originated in Japan, went viral overseas, City Pop was reorganized globally as "Asian Nostalgia."
+After the Japanese song [**Mariya Takeuchi "Plastic Love"**] (https://amzn.to/3J6YPhZ) became viral again overseas, City Pop was reorganized globally as "Asian Nostalgia."
 As of 2025, young artists from Thailand, Indonesia, and South Korea are re-creating the "Oriental Dream" by quoting City Pop-style chord progressions and textures.
 The center of global pop is not just Los Angeles, but has expanded to Bangkok, Seoul, and Tokyo.
 
@@ -127,7 +127,7 @@ The characteristic of 2025 is the coexistence of stillness (Minimal) and density
 
 #### "Quiet club" and "introspective electronica"
 
-The popularity of ""slow grooves" such as Afro House and Amapiano symbolizes an era in which dancing can also be ""introspection".
+The popularity of ""slow grooves" such as Afro House and Amapiano symbolizes an era in which dancing can also become ""introspection".
 Sets of 100 to 110 BPM are becoming the norm in clubs in Berlin and Seoul, creating a space where you can "think while dancing."
 In Japan, food festivals a.k.a foodman and yahyel are exploring "quiet club music."
 

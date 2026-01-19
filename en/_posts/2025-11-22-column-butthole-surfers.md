@@ -58,7 +58,7 @@ Although the members change over time, the initial core members are as follows.
 * **King Coffey** — Drums
 * **Teresa Taylor** — Drums (twin drum configuration)
 
-Gibby Haynes and Paul Leary, in particular, found harmony despite having different musical orientations and started an activity that resembled an art group.
+Gibby Haynes and Paul Leary, in particular, found harmony despite having different musical orientations and began activities that resembled an art group.
 
 ---
 
@@ -86,7 +86,7 @@ flowchart TD
     A["Direct guitar recording"] --> B["Distortion processing"]
     B --> C["Sax improvised recording"]
     C --> D["Drum odd time signature 1 take recording"]
-    D --> E["Whole mix (Lo-Fi)"]
+    D --> E["Overall mix (Lo-Fi)"]
 
 ---
 
@@ -126,7 +126,7 @@ flowchart TD
 
 <div class="mermaid"></div>
 flowchart TD
-    A["Guitar riff/noise"] --> B["Multi-layer drum recording"]
+    A["Guitar riff/noise"] --> B["Multilayer drum recording"]
     B --> C["Sax improvisation"]
     C --> D["Stereo field adjustment"]
     D --> E["Mixing and Mastering"]
@@ -202,7 +202,7 @@ flowchart TD
     A["Direct guitar recording"] --> B["Distortion processing"]
     B --> C["Sax improvised recording"]
     C --> D["Drum odd time signature 1 take recording"]
-    D --> E["Whole mix (Lo-Fi)"]
+    D --> E["Overall mix (Lo-Fi)"]
 
 ---
 
@@ -233,7 +233,7 @@ flowchart TD
 
 <div class="mermaid"></div>
 flowchart TD
-    A["Guitar riff/noise"] --> B["Multi-layer drum recording"]
+    A["Guitar riff/noise"] --> B["Multilayer drum recording"]
     B --> C["Sax improvisation"]
     C --> D["Stereo field adjustment"]
     D --> E["Mixing and Mastering"]

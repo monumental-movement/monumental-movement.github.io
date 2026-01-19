@@ -65,7 +65,7 @@ In particular, the following trends were the premise for the creation of Tech Ho
 * Minimalism of UK Techno (Surgeon, Regis, Dave Clarke, etc.)
 * A British take on the groove of US House (Chicago/NY)
 * Mix of Tribal House, Garage, and Progressive House
-* Genre-crossing DJ styles from Pirate Radio and the London club scene (The End, etc.)
+* Cross-genre DJ styles from Pirate Radio and the London club scene (The End, etc.)
 
 The people who gathered at the club weren't just looking for either techno or house, but were enjoying long DJ plays that mixed elements of both. Through this process, he developed a sense of mixing that naturally combines the "hardness of techno" and the "warmth of house."
 
@@ -130,7 +130,7 @@ In particular, the following artists are important as they bridge the gap betwee
 
 * Steve Bug (Poker Flat)
 * Booka Shade
-*M.A.N.D.Y.
+* M.A.N.D.Y.
 * Ricardo Villalobos (minimal but also intersects with Tech House)
 * Loco Dice
 *Luciano

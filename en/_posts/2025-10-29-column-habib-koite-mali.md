@@ -46,7 +46,7 @@ color: #fff;
 ## Introduction:
 
 At the end of the 20th century, music from the African continent began to permeate the world in new forms. While Nigeria"s Fela Kuti championed "political Afrobeat," Mali"s Habib Koité started a revolution in a quieter way.
-──With a single guitar, he recreated the sound of Mali's traditional stringed instrument ""Kamalengoni" and created ""Mali music without borders" with the band **Bamada**.
+──With just one guitar, he recreated the sound of Mali's traditional stringed instrument, ""kamarengoni," and created ""Mali music without borders" with the band ""**Bamada**.''
 
 His music doesn't talk politics. However, within that tranquility lies the **ethnic dignity and cultural continuity**. Koité was a "translator of African aesthetics" in the age of global music.
 

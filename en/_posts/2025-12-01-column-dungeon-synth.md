@@ -48,7 +48,7 @@ color: #fff;
 
 ## ■ 1. Definition and characteristics
 
-Dungeon Synth has the following features.
+Dungeon Synth は以下のような特徴を持つ。
 
 - **Spirituality derived from black metal**
 - Harsh climate, loneliness, romanticism, melancholy
@@ -64,7 +64,7 @@ As a result, the music is often described as "a soundtrack without a movie," "am
 
 ---
 
-## ■ 2. History ─ From the earliest times to the present day
+## ■ 2. History – from the earliest times to the present day
 
 Below, we will summarize the important trends from the birth of the genre to the present.
 
@@ -314,7 +314,7 @@ Below is a plan for actually creating a song.
 
 # ■ 9. Cultural significance of Dungeon Synth
 
-Dungeon Synth is a rare type of music that combines the intense worldview of black metal with the tranquility of ambient, and is a culture that aspires to "building an inner world."
+Dungeon Synth is a rare type of music that combines the intense worldview of black metal with the tranquility of ambient music, and is a culture that aspires to "building an inner world."
 
 - Individual creators spin their own stories without relying on large-scale scenes
 - Strongly tied to the aesthetics of fantasy literature, TRPGs, and game music

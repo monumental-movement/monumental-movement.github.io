@@ -77,7 +77,7 @@ color: #fff;
 
 - **Time background**: American hard rock such as Mötley Crüe and Van Halen were on the rise worldwide. With the advent of MTV, it was directly connected to visual culture.
 - **Point of contact with games**: The golden age of arcades ("Space Invaders", "Pacman", "Outrun"). In particular, Sega and Namco reproduce the fast-paced feel of rock music with sound chips.
-- Van Halen"s guitar solo sound and the game"s 8bit shred feel are audibly linked.
+- Van Halen"s guitar solo-like sound and the game"s 8-bit shred feel are audibly linked.
 
 **Representative masterpiece**
 
@@ -369,7 +369,7 @@ Since the 2000s, music games like **Guitar Hero** and **Rock Band** have played 
 
 - Overseas, the **""Guitar Hero'' → Start playing the guitar** movement was actually born.
 - In Japan, **GuitarFreaks/DrumMania** pioneered the idea of ​​""real performance feeling'' and laid the foundation for music game culture.
-- **Taiko no Tatsujin** focuses on pop music, but with their hard rock/metal style original songs, they imprinted a guitar-like sound on young people.
+- **Taiko no Tatsujin** focuses on pop music, but with their hard rock/metal style original songs, they imprinted a guitar-like sound on the younger generation.
 - **SOUND VOLTEX** has a strong electro tone, but actively incorporates hard rock and metal elements to express the "rock-like impact" of a new generation.
 
 ---

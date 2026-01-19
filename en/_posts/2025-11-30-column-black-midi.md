@@ -20,7 +20,7 @@ title: '[Column] Black Midi — The impact of experimental rock from London and 
 
 Text: mmr｜Theme: From their formation to their main works, their evaluation both domestically and internationally, and their influence on subsequent bands and culture.
 
-Black Midi is a young rock/experimental music band formed in London in 2017. Just a few years after their debut, they shocked the world of indie rock with their bold sound, overwhelming performance, and unpredictable live structure that went beyond the boundaries of conventional rock and post-punk.
+Black Midi is a young rock/experimental music band formed in London in 2017. Just a few years after their debut, they shocked the world of indie rock with their bold sound, overwhelming performance, and unpredictable live structure that went beyond traditional rock and post-punk.
 
 ---
 
@@ -48,7 +48,7 @@ color: #fff;
 - **Support/tour participants** (depending on the season): Keyboard player, saxophone player, etc. (e.g. keyboardist Seth Evans, saxophonist Kaidi Akinnibi)
 - **Musical style/genre**: He has a wide range of experimental styles, including math rock, progressive rock, post-punk, noise, and avant-jazz. Characterized by improvisation, structural complexity, and genre mixing.
 
-- **Origin of the band name**: They themselves took the name of the band from "Black Midi" (a musical score filled in "black" with many MIDI notes), which is an internet culture/music genre that originated in Japan. However, there is no direct relationship in terms of sound, and it is only a name reference.
+- **Origin of the band name**: They themselves took the name of the band from "Black Midi" (a musical score filled in "black" with many MIDI notes), which is an internet culture/music genre that originated in Japan. However, there is no direct relationship in terms of sound, and it is only a reference to the name.
 
 Black Midi started out in the live houses and indie/underground scene of south London, and despite their young age, they have rapidly gained attention since their debut in 2019, armed with outstanding technique and experimentalism.
 
@@ -88,16 +88,16 @@ In this way, during their debut period, Black Midi attracted intense attention f
 
 ### 3‑2. Cavalcade, Hellfire—A nod to expansion and a nod to esotericism
 
-- After the release of their 2nd album *Cavalcade*, many critics commented that it was ""more structured and ambitious," ""A labyrinth of madness that swallowed up many genres such as jazz, progressive rock, and experimental music," and ""It's rare for a young artist to be able to change and expand this much.'' In particular, praise has been given to the expanded composition that includes saxophone, keyboards, strings, etc., and the variety of musical developments.
+- After the release of their 2nd album *Cavalcade*, many critics commented that it was ""more structured and ambitious," ""A labyrinth of madness that swallowed up multiple genres such as jazz, progressive rock, and experimental music," and ""It's rare for a young artist to be able to change and expand this much.'' In particular, praise has been given to the expanded composition that includes saxophone, keyboards, strings, etc., and the variety of musical developments.
 
 - On the other hand, there were also comments such as ""the sound is too dense," ""the balance between noise and structure is difficult to find," and ""it gives the impression of being too elaborate, rather than the freedom of live improvisation." Some critics praised Cavalcade's opulence and structure, but felt that the ""raw danger" and ""improvisational impulse'' characteristic of their debut work had diminished.
 
-- Furthermore, regarding their third album *Hellfire*, there were compliments such as ""the most experimental and theatrical ever", ""a group of songs with a narrative, allegory, and character", ""it chooses the listener, but it has a strong impact", and ""a work of art that goes outside the framework of 'rock"." In particular, Hellfire"s radical structure and sound, as well as the multi-layered nature of the music, have been highly praised.
+- Furthermore, regarding their third album *Hellfire*, there were compliments such as ""the most experimental and theatrical ever", ""a group of songs with a narrative, allegory, and character", ""it chooses the listener, but it has a strong impact", and ""a work of art that goes outside the framework of 'rock"." In particular, Hellfire"s radical composition and sound, as well as the multi-layered nature of the music, have received high praise.
 
 - However, at the same time, there are also persistent complaints that ""the structure is too complex and the entrance is narrow", ""you have to listen to it more than the initial impact", and ""it"s a work that people either like or hate", and some say that Black Midi"s songs are difficult to say ""for everyone".
 In other words, Black Midi's period of growth was a period in which it expanded its techniques, composition, and musicality, and its radicalness and sophistication pushed the boundaries of music that could easily be divided into pros and cons and that could be chosen by the listener.
 
-### 3-3. The value of live performance and "performance/improvisation" — Live albums and re-evaluation
+### 3-3. The value of live performances and "performance/improvisation" — Live albums and re-evaluation
 
 - The live album *Live Fire* released in 2022 captures Black Midi's appearance as a "live band" in a different form from the studio recording. Many of the songs have been reconstructed, and the improvisation, changes, and passion of the performance are realistically conveyed. Their approach of "recording + live reinterpretation" was seen as a demonstration of their versatility and flexibility.
 

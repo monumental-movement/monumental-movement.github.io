@@ -119,7 +119,7 @@ This aesthetic is deeply embedded in anime and video works as well.
 Bug effects seen in "Cyber ​​Coil", "Ghost in the Shell SAC_2045", and "EVA:3.0+1.0"——
 It has become a device that symbolizes the ""fluctuation of cognition'' in an information-overloaded society.
 
-And now, in a night club in Tokyo,
+And now, at a night club in Tokyo,
 Fragments of sound made up of broken samples echo like the heartbeat of the city itself.
 Glitch has gone beyond the boundaries of art and has become our "everyday sound."
 

@@ -147,7 +147,7 @@ But that's what a "living sound" is all about.
 
 Psychologically, people tend to "attach to imperfections" rather than to perfection.
 Accept that imperfection as part of yourself.
-That's the appeal of it as the "ghost of analog."
+That's the appeal of the "ghost of analog".
 
 --Records are not tombstones for music.
 Rather, **human memory itself is a rotating device**.

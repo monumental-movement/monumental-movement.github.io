@@ -74,7 +74,7 @@ The history of techno was born and evolved from the relationship between "cities
 - Jeff Mills – "The Bells" (1997)
 
 **equipment**
--Akai S3000/S3200
+- Akai S3000/S3200
 - E-mu ESI/E4
 - Ensoniq ASR-10
 - Mackie 1604/8-Bus
@@ -168,7 +168,7 @@ The history of techno was born and evolved from the relationship between "cities
 
 ### summary
 The core of techno is "repetition" and "sound design."
-Rhythms directly descended from x0x, sound image design of samplers, editing aesthetics from the PC era, the randomness of modularity, even AI assistance--the rhythms of machines and cities continue to evolve even as times change.
+Rhythms directly descended from x0x, sound image design of samplers, editing aesthetics of the PC era, the randomness of modularity, even AI assistance--the rhythms of machines and cities continue to evolve even as times change.
 
 
 ---

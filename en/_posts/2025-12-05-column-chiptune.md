@@ -76,7 +76,7 @@ The Game Boy is equipped with a CPU + PSG sound source called **Sharp LR35902** 
 - Channel that allows you to freely draw 4-bit waveforms of 32 samples
 - **Noise Channel**
 
-Waveform memory is at the heart of creativity, and even in the modern Game Boy Chiptune, the Wave channel is widely used to generate bass, lead, kick, and unique tones. The low-end thickness is particularly attractive, and it is loved as a ""Game Boy-like tone'' including the DAC noise peculiar to the hardware.
+Waveform memory is central to creativity, and even in the modern Game Boy Chiptune, this wave channel is widely used for bass, lead, kick, and unique tone generation. The low-end thickness is particularly attractive, and it is loved as a ""Game Boy-like tone'' including the DAC noise peculiar to the hardware.
 
 ---
 
@@ -199,7 +199,7 @@ Chiptune is by no means limited to a "reproduction of game music", but is active
 
 ---
 
-## Chapter 7: Chipune Genealogy
+## Chapter 7: Genealogy of Chiptune
 
 <div class="mermaid">
 flowchart TD
@@ -242,14 +242,14 @@ It is considered not just a musical genre, but a comprehensive form of expressio
 - Completely reproduce the original sound with Plogue chipsynth
 - Sidechain/EQ correction
 - Separate sound sources like a multi-mic
-- Adjust the sound image with 32bit float recording
+- Adjust sound image with 32bit float recording
 
 ---
 
 ## Chapter 10: The future of Chiptune and the future of 8-bit aesthetics
 
 8-bit music is no longer a symbol of retro;
-**An entity that gives new ideas to the modern era as a "cluster of constrained aesthetics"**
+**An existence that gives new ideas to the modern era as a "cluster of constrained aesthetics"**
 It has become.
 
 - Use in Hyperpop and EDM

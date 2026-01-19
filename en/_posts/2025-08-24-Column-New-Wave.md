@@ -16,7 +16,7 @@ title: '[Column] New Wave: The intersection of post-punk music innovation and 19
 ## New Wave is not just a genre, but a ""sensibility of the times'' that inherits the experimental spirit of the post-punk era and fuses diverse music and cultures.**
 
 
-Text: mmr｜Theme: Art movements in the post-punk era
+Text: mmr｜Theme: Post-punk era art movement
 
 <hr>
 
@@ -24,7 +24,7 @@ Text: mmr｜Theme: Art movements in the post-punk era
 
 The punk movement of 1976 shook up the music scene with its directness of being ""simple, fast, and anti-establishment." However, its explosive power was short-lived, and as punk became increasingly commercialized, many artists sought musical expansion while maintaining the ""punk spirit."
 
-The general term that was born from this experiment was ""New Wave.'' From an academic perspective, new wave is a concept that encompasses a variety of musical developments since post-punk, and rather than a strict genre name, it is a cultural label that refers to the consciousness and sensibilities of the times.
+この試みの中から生まれた総称が"ニューウェーブ（New Wave）"である。 From an academic perspective, new wave is a concept that encompasses a variety of musical developments since post-punk, and rather than a strict genre name, it is a cultural label that refers to the consciousness and sensibilities of the times.
 
 <hr>
 

@@ -21,7 +21,7 @@ title: '[Column] Prime Minister Sanae Takaichi and Metal: Iron Will and Politics
 Text: mmr｜Theme: A politician who loves heavy metal—Sanae Takaichi. How has her musical sensibility given a steely resonance to her words, policies, and ideas?
 
 
-Sanae Takaichi is often described as a ""conservative," ""strong-minded," and ""a fighting woman." However, at its root lies the impact of the heavy metal music he heard in his youth. Metal is a music of passion and construction, an art that confines passion within order. Her school band played songs by Black Sabbath and Deep Purple, and she also likes to listen to bands like Judas Priest, and these sensibilities form the ""acoustic skeleton" of her political language and cultural outlook.
+Sanae Takaichi is often described as a ""conservative," ""strong-minded," and ""a fighting woman." However, at its root lies the impact of the heavy metal music he heard when he was young. Metal is a music of passion and construction, an art that confines passion within order. Her school band played songs by Black Sabbath and Deep Purple, and she also likes to listen to bands like Judas Priest, and these sensibilities form the ""acoustic skeleton" of her political language and cultural outlook.
 
 ---
 
@@ -77,7 +77,7 @@ At first glance, conservative ideology and metal seem to be contradictory. Howev
 
 Like Judas Priest, music that confines explosive passion within an orderly rhythm. This is exactly like Mr. Takaichi's political stance. Although the logical structure is cold, there is an intense "combustion" behind it.
 
-**"In cold construction lies true heat."** This phrase applies to both metal and politics. Through the character Sanae Takaichi, we can reconsider "politics that lives like sound."
+**"In cold construction lies true heat."** This phrase applies to both metal and politics. Through the person of Sanae Takaichi, we can reconsider "politics that lives like sound."
 
 ---
 
@@ -122,7 +122,7 @@ Within this structure, Takaichi plays with ""intellect that controls passion.''
 
 Just as metal has evolved by accepting noise, mature politics also becomes stronger when it embraces "unusual sounds." The existence of Sanae Takaichi symbolizes the "acceptance of noise" in Japanese politics. The noise doesn't sound like chaos, but creative distortion.
 
-""New sounds can only be born from silence.'' This phrase applies to both metal and politics. Through the character Sanae Takaichi, we can reconsider "politics that lives like sound."
+""New sounds can only be born from silence.'' This phrase applies to both metal and politics. Through the person of Sanae Takaichi, we can reconsider "politics that lives like sound."
 
 ---
 

@@ -64,7 +64,7 @@ DJ sets at NTS and Boiler Room tend to be different from peak-time club setups. 
 
 Particularly in NTS, long sets lasting over two hours are common, and a style that gently builds a narrative while crossing genres is often seen. On the other hand, Boiler Room has many relatively short sets, emphasizing the development in sync with the heat of the space.
 
-> "The condition of live streaming has changed the DJ set from a ""technique that makes the space function" to a ""structure that is listened to."
+> "The conditions of live streaming changed the DJ set from a ""technique that makes the space function" to a ""structure that is listened to."
 
 ---
 
@@ -184,7 +184,7 @@ Particularly on NTS, DJs create musical archives by continuing their programs ov
 
 ## Supplementary Chapter 5 Video Intervention and Refusal
 
-While Boiler Room actively incorporates video, NTS has maintained an audio-centric design. This difference directly affects the direction of performance.
+While Boiler Room actively incorporates video, NTS has maintained an audio-centric design. This difference has a direct impact on the direction of performance.
 
 When images exist, physical movements and spatial configurations have meaning. When the images are limited, the arrangement of sounds and temporal structure become foregrounded.
 

@@ -67,7 +67,7 @@ As a result of his jaw injury and treatment, he has developed a unique intonatio
 - **Lyrics Theme**
 It contains critical and moral messages about sexual behavior, and highlights women's self-respect and the strength of their insistence on saying "no."
 - **International recognition**
-It was a success not only in Jamaica, but also in England and the United States.
+It was a success not only in Jamaica but also in England and the United States.
 - **Award**
 Won "Best Reggae Artist" at the MOBO Awards.
 
@@ -173,7 +173,7 @@ Signed a contract with a label in Los Angeles and released the album ""Pull Up.'
 
 Mr.Vegas is a musician whose work is a complex mix of Kingston's sound system culture, the struggles of youth, faith, social responsibility, and a vision for the future.
 
-His signature songs "Nike Air" and "Heads High" symbolize the starting point of his career, while "Kokane" presents a warning of temptation and danger. His latest album, ""Ghetto Reggae,'' combines homage to the time and place he grew up in with a contemporary message.
+His signature songs "Nike Air" and "Heads High" symbolize the starting point of his career, while "Kokane" presents a warning of temptation and danger. His latest album, ""Ghetto Reggae,'' combines a modern message with respect for the time and place in which he grew up.
 
 With a passion for education, social commentary, and cultural preservation, he serves not only as a musician but also as a cultural bearer, messenger, and leader.
 

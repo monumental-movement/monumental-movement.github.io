@@ -95,7 +95,7 @@ Spotify"s ""Discover Weekly" and Apple Music"s ""Personal Mix" are attempts at a
 But there is also danger lurking there.
 We may be listening to "memory as data" rather than "our own memory."
 
-> Human nostalgia is being externalized by algorithms.
+> Human nostalgia is externalized by algorithms.
 
 At this time, music becomes not an individual's internal memory, but a network memory (collective digital memory).
 
@@ -171,7 +171,7 @@ flowchart TD
     B --> C[Hippocampus (memory formation)]
     B --> D[amygdala (emotion)]
     C --> E[episodic memory]
-    D --> F[emotional response]
+    D --> F[emotional reaction]
     E --> G[Re-experiencing the past through music]
     F --> G
     G --> H[Generation of nostalgia]

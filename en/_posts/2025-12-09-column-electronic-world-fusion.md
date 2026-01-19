@@ -196,7 +196,7 @@ There is a growing movement to incorporate elements of world music into club mus
 
 ### 7-2 Inheritance to Ambient
 
-Folk instrument drones, multi-layered sustained sounds, and recordings of natural environments are widely used in ambient works.
+Folk instrument drones, multi-layered sustained sounds, and recordings of natural environments are widely incorporated into ambient works.
 
 ### 7-3 Handling regional music in the AI ​​era
 
@@ -220,7 +220,7 @@ In modern times, sound source analysis and generation using AI technology is pro
 ### 8-3 Importance of collaboration
 
 * Live recording with traditional instrument players
-*Must be produced with an understanding of the cultural background of regional music.
+*Must be produced with an understanding of the cultural background of local music.
 
 ---
 
@@ -256,7 +256,7 @@ In order to more accurately capture Electronic World Fusion, we present a **deta
 flowchart LR
     A["Expansion of field recordings of folk music"] --> C["Archive accumulation"]
     B["Development of electronic music studios"] --> D["Trial processing/experiment"]
-    C --> E["The germination of electronic x ethnic sounds"]
+    C --> E["The germ of electronic x ethnic sounds"]
     D --> E
 </div>
 

@@ -57,7 +57,7 @@ B. Planet Rock (Instrumental)
 
 Making full use of synths, she presents a sexual and decadent worldview. A song that symbolizes the West Coast scene.
 
-Electro was not just a music genre, but a culture inseparable from breakdance and street fashion. The silver costumes and cyber-style visuals embodied the sensibility of the era of ""the fusion of machines and humans.''
+Electro was not just a music genre, but a culture inseparable from breakdance and street fashion. The silver costumes and cyber-style visuals embody the sensibility of the era of ""the fusion of machines and humans.''
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9zrH1QnqU_k?si=QCbJvz_2kbZxDmWq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -23,7 +23,7 @@ The core members are KK.Null, who is also known for his solo activities, and Mit
 
 After a long hiatus, they reunited in 2007 and resumed their activities in 2009.
 
-Tatsuya Yoshida, who was one of the original members, joined as a drummer. Mitsuru Tabata left the group in 2012, so they are currently active as a duo.
+Tatsuya Yoshida, who was one of the original members, joined on drums. Since Mitsuru Tabata left the group in 2012, they are currently active as a duo.
 
 current members
 

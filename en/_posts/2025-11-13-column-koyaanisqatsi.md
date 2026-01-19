@@ -125,7 +125,7 @@ Reggio is also a spiritual figure with experience in a monastery, and the entire
 | Close-up of the face | Chorus and deceleration | Questions about the recovery of humanity |
 | Collapsing Rocket | Silence and Decay | End of Civilization and Rebirth |
 
-As this table shows, music is not just an accompaniment, but constructs the ""emotional syntax'' of the video.
+As this table shows, music is not just an accompaniment, but constructs the ""emotional syntax'' of the image.
 
 ---
 

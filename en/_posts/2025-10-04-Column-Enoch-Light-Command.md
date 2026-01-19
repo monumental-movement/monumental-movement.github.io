@@ -44,7 +44,7 @@ Command Records clearly aimed at the market as an ""audio demonstration record,"
 
 - **Gatefold and Graphic Aesthetics**
 
-Command's LP covers were visually strong, sometimes featuring a cover by abstract artist Josef Albers. The design of the CD as something that went beyond a mere demo disc to something people would want to own stimulated the collector culture that followed.
+Command's LP covers were visually strong, sometimes featuring a cover by abstract painter Josef Albers. The design of the CD as something that went beyond a mere demo disc to something people would want to own stimulated the collector culture that followed.
 
 
 - **Promotional slogan: "You"ll be surprised the moment you hear it for the first time"**
@@ -155,7 +155,7 @@ He performs in a wide range of genres, including not only jazz, but also easy li
 
 ### Encounter and relationship with Enoch Light
 
-- **Grand Award → Regular guitarist during Command Records**
+- **Grand Award → Regular guitarist during the Command Records era**
 
 When Enoch Light founded Grand Award and Command, he assembled New York's top session talent. Among them, the regular guitar player is Tony Mottola.
 
@@ -180,7 +180,7 @@ Mottola was one of the pillars that supported Command's "lounge/easy listening r
 - **Command Records regular guitarist**
 
 He almost always participates in the recordings of the Grand Award~Command established by Light.
-He was responsible for the guitar localization experiments in the "Persuasive Percussion" series.
+He was responsible for conducting guitar localization experiments in the "Persuasive Percussion" series and other works.
 
 - **Solo album release**
 

@@ -59,7 +59,7 @@ What is important is that post-rock was not a ""negation of rock.'' While the gu
 
 ## Changes in the listening experience brought about by instrumentalization
 
-One of the major turning points in post-rock was the elimination of vocals, or their extreme relegation to the background. With lyrics out of the picture, the music was freed from concrete meanings and stories, and turned into a more abstract experience.
+One of the major turning points in post-rock was the elimination of vocals, or their extreme relegation to the background. With lyrics out of the foreground, the music was freed from concrete meanings and narratives, turning it into a more abstract experience.
 
 With instrumental music, the listener doesn't have to follow the words. Instead, attention is directed to the overlapping sounds, changes in strength and weakness, and the passage of time itself. This is a listening experience that requires active immersion rather than passive consumption.
 
@@ -160,7 +160,7 @@ This trend is not an abrupt break, but can be understood as a continuum in which
 
 Currently, post-rock instrumental and cinematic rock have become established as expressive methods rather than specific genre names. Its structure continues to be referenced in different contexts such as videos, games, and installations.
 
-Two directions set forth by Explosions in the Sky and Godspeed You! Black Emperor still serve as creative reference points. Music without words continues to connect with the listener's own experiences, transcending eras and cultures.
+Two directions set forth by Explosions in the Sky and Godspeed You! Black Emperor still serve as creative reference points. Music, which has no words, continues to connect with the listener's own experiences, transcending eras and cultures.
 
 > Post-rock instrumental music will continue to create new stories through silence and time.
 

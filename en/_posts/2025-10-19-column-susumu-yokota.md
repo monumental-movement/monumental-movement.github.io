@@ -58,7 +58,7 @@ What is noteworthy is that he published his works under multiple names. Among th
 Susumu Yokota's masterpiece and a monumental work in the history of ambient music.
 The faint melody and environmental sounds are layered, gently guiding the listener's consciousness inward. It has a transience that captures the moment of falling cherry blossoms in the sound, and it is a fusion of Japanese lyricism and universal beauty.
 
-The album has an excellent structure, and the whole album flows like a single "breathing". It starts quietly, creating a faint rhythm and then disappearing. It's like the cycle of life and seasons itself.
+The album has an excellent structure, and the whole album flows like a single "breath". It starts quietly, creating a faint rhythm and then disappearing. It's like the cycle of life and seasons itself.
 The reason "Sakura" continues to be loved by ambient music fans around the world is probably because it perfectly depicts this "sense of time" through sound.
 
 ### "Symbol" (2001)
@@ -79,7 +79,7 @@ Yokota's unique "music of life" floating between nature and electronics. It has 
 
 "Anima Mundi" means "soul of the world" in Latin.
 The series of works that Susumu Yokota developed under this name were truly worthy of that name.
-The songs focus on drones, ambient sounds, and harmonic structures, expanding the listener's inner space. There is no beat or melody. There is only the ""sound that exists''.
+The songs focus on drones, ambient sounds, and harmonic structures, expanding the listener's inner space. There is no beat or melody. There is only the ""sound that exists.''
 
 For Yokota, this name could be said to be a ""channel that connects the unconscious and the universe.''
 If the music under the name Susumu Yokota is "earthly poetry," Anima Mundi is "heavenly prayer."

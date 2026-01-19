@@ -64,7 +64,7 @@ The ""liberation of non-instrumental sounds'' demonstrated by Eddie Prévost and
 
 ### 2-3. Origin ③: 1980s-1990s noise/alternative electronic sound
 Japanese noise (Merzbow, Incapacitants, etc.) exposed the ""materiality of sound'' through the ultimate pursuit of acoustic materials.
-On the other hand, Otomo Yoshihide and Sachiko M improvised minimal and sophisticated electronic sounds (sine waves) and established the foundations of EAI: ""reducing the number of sounds" and ""emphasizing space."
+On the other hand, Otomo Yoshihide and Sachiko M introduced minimal and sophisticated electronic sounds (sine waves) into their improvisations, creating the foundations of EAI: ""reducing the number of sounds" and ""emphasizing space."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-N2JpUSOGQw?si=2iITe93bkSmd8sOW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -175,7 +175,7 @@ Techniques that utilize signals beyond musical intent, such as contact microphon
 
 ---
 
-# 6. EAI-related chronology
+# 6. EAI related chronology
 
 <div class="mermaid">
 timeline

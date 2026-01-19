@@ -109,7 +109,7 @@ T2. The Flow M38 (Alex Reece Mix)
 <a href="https://jp.mercari.com/item/m22835584429?afid=6142608987"><img src="../assets/images/Carl%20Craig%20%E2%80%93%20Landcruising.webp"></a>
 
 
-Features: Dramatic sound image that combines ambient, breakbeat, future jazz, etc. with a minimalist base.
+Features: Dramatic sound image that combines ambient, breakbeat, future jazz, etc. based on minimalism.
 
 Recommended points: An album with depth and sophistication that takes the listener on an emotional journey. This is a work that both DJs and listeners will want to listen to carefully.
 

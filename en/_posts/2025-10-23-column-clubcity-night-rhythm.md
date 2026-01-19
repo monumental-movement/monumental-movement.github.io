@@ -113,7 +113,7 @@ Digital clubs may be the germ of a new kind of "public nature" in 21st century u
 
 ---
 
-## Conclusion: Where is the urban rhythm headed?
+## Conclusion: Where is the urban rhythm heading?
 
 The city night has always been a mirror that reflects the shadows and desires of society.
 In its mirror, club culture has given form to the fundamental human desire for resonance.

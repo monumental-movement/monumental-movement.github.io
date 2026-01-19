@@ -126,7 +126,7 @@ The lyrics were clearer than the studio version, and the social commentary was d
 
 #### Analog EQ and Outboard
 - Uses Neve and Trident style EQ.
-- The band's vivid performance is purposefully ""distorted" and ""spatially arranged" to emphasize its experimental nature.
+- The band's lively performance is purposefully ""distorted" and ""spatially arranged" to emphasize its experimental nature.
 - It was used to create an "acoustic discomfort" rather than a standard correction.
 
 ---

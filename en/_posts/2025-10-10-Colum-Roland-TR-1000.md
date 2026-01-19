@@ -41,7 +41,7 @@ color: #fff;
 #### ── The incident of the appearance of TR-1000
 
 The **TR-1000** released by Roland in 2025 is not just an extension of the series.
-808, 909, 707... This machine that appeared at the end of history, where they symbolized the groove of the times, is an ""intellectual rhythm machine" that learns and reinterprets ""human sense of beat."
+808, 909, 707... This machine that appeared at the end of history, where they symbolized the groove of the times, is an "intellectual rhythm machine" that learns and reinterprets "human beats."
 
 In the 1980s, electronic rhythms were called the "mechanical heartbeat." However, what the TR-1000 presents is the opposite -- **"a machine understands the human heartbeat"**.
 Digital and analog, AI and emotions. On this border lies the philosophy that Roland has spent half a century cultivating.
@@ -67,7 +67,7 @@ The TR-1000 is, so to speak, a ""rhythm mirror image device.''
 ### Chapter 3 Physical Design and Interface
 #### ── Regaining the feeling of "playing" a machine
 
-The panel design of the TR-1000 follows the traditional layout of the 808/909, but combines a metallic texture with a modern layout.
+The TR-1000's panel design follows the traditional layout of the 808/909, but combines a metallic texture with a modern layout.
 Machined aluminum knob, step button with rounded edges.
 This tactile design is an expression of the belief that ""the hands remember the music before they can express the sound.''
 
@@ -82,7 +82,7 @@ Responsiveness as if the rhythm was "breathing". This is why Roland is so partic
 
 At the heart of the TR-1000 is a low-end design philosophy.
 A unique sub-oscillation and harmonic control circuit has been added to the **sine wave generation circuit**, which continues the tradition since the 808.
-As a result, we have achieved a ""three-dimensional low frequency'' that combines physical pressure and the texture of air.
+As a result, we achieved a ""three-dimensional low frequency'' that combines physical pressure and the texture of air.
 
 The snare is constructed using a discrete circuit + noise shaping method, and the hi-hat is constructed using an analog noise source that includes a minute micro-delay.
 It has achieved a ""coexistence of acoustic realism and abstraction'' that goes beyond the reproduction of the 808/909.
@@ -101,7 +101,7 @@ The "Humanize" function analyzes the performance history and models the player's
 It "learns" the rhythm of the player's fingertips and returns it as a sound.
 In other words, the TR-1000 is also a ""machine that listens to human performances.''
 
-This dialogue has evolved from the days when the 808 provided a ""mechanical groove" to a ""resonant rhythm."
+This dialogue has evolved from the days when the 808 provided a "mechanical groove" to a "resonant rhythm."
 
 ---
 
@@ -117,7 +117,7 @@ In a cultural context, the TR-1000 does not mean an "extension of nostalgia" but
 
 ---
 
-### Chapter 7 Philosophical Consequences of TR-1000
+### Chapter 7 Philosophical consequences of TR-1000
 #### ── What is "beat"?
 
 The design philosophy of the TR-1000 ultimately converges on one question.

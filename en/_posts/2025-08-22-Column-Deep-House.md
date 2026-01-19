@@ -29,7 +29,7 @@ Deep house is a strain of house that emerged in the Chicago-New Jersey area in t
 
 **1985–90: Early Early (Chicago/NJ)**
 
-[Larry Heard (Mr. Fingers)](https://amzn.to/4q97ot4) presents the prototype with "Can You Feel It" and "Mystery of Love." Following the flow of [Frankie Knuckles](https://amzn.to/4nUwWJ4) and [Marshall Jefferson](https://amzn.to/3KOf4AV), a fusion of Jersey Garage's sweet soul feel ([Blaze](https://amzn.to/4ooZuuc) and [Kerri Chandler](https://amzn.to/4qbd4CR)).
+[Larry Heard (Mr. Fingers)](https://amzn.to/4q97ot4) presents the prototype with "Can You Feel It" and "Mystery of Love." Following the flow of [Frankie Knuckles](https://amzn.to/4nUwWJ4) and [Marshall Jefferson](https://amzn.to/3KOf4AV), the sweet soul feeling of Jersey Garage ([Blaze](https://amzn.to/4ooZuuc) and [Kerri Chandler](https://amzn.to/4qbd4CR)) is fused.
 
 **1990s: Deepening and diversification**
 
@@ -154,7 +154,7 @@ Anjunadeep and All Day I Dream turned to melodic/organic music. In South Africa,
 
 **Early peak**: Ron Trent/Chez Damier's driving force
 
-**Plateau**: Refinement of Jimpster ~ Freerange
+**Plateau**: Refinement of Jimpster to Freerange
 
 **Color change**: Henrik Schwarz's live feel
 

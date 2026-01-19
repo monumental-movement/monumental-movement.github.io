@@ -193,7 +193,7 @@ In this sense, a modular synth is both a musical instrument and a self-contained
 
 ### Balance between autonomy and intervention
 
-Fully autonomous patches exhibit unpredictable changes over time. On the other hand, by adding human intervention, the directionality of the sound can be adjusted. The balance between the two is an important decision point in the production of modular drones.
+Fully autonomous patches exhibit unpredictable changes over time. On the other hand, by adding human intervention, the directionality of the sound can be adjusted. The balance between these two is an important decision point in the production of modular drones.
 
 > "Intervention is done as a dialogue with the system, not as a control"
 

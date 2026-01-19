@@ -181,7 +181,7 @@ It attracted attention as an example of a techno club being treated like a museu
 
 ## ● Long-established stores such as Tresor are also severely affected.
 Clubs such as Tresor, Watergate and ://about blank lost their gate revenue.
-We tried to maintain it through government support, donations, and online projects.
+It was maintained through government support, donations, and online projects.
 
 ---
 
@@ -193,7 +193,7 @@ From here on, the music changes drastically.
 ### Features after restart:
 - 150-170 BPM is common
 - Stronger trance elements
-- 90's rave style tone is back
+- 90's rave-style tones are back
 - Industrial x transformer hybrid is established
 - "High-speed 4-stroke" has become mainstream worldwide
 
@@ -237,7 +237,7 @@ From 2023 onwards, archive projects will be supported as part of cultural policy
 ---
 
 # Chapter 8: Changes in production technology and sound creation
-## ● 1) Home production becoming the norm
+## ● 1) Home production becomes the norm
 During the lockdown period, artists have had more time to create.
 the result:
 
@@ -257,7 +257,7 @@ Before and after the pandemic, sound production changed as follows:
 ### 2022–2024:
 - 150–170 BPM
 - Emphasizes the feeling of digital clipping
-- Distortion extended to ultra-high range
+- Distortion extended to ultra-high frequencies
 - 90s trance chord work
 
 In other words,
@@ -289,7 +289,7 @@ It is unclear whether this will continue, but it may continue due to the followi
 - The international market for hard techno is expanding
 
 ## ● 2) The club will be protected as a cultural resource of the city.
-Since Germany has already institutionalized clubs as "cultural facilities,"
+Germany has already institutionalized clubs as "cultural facilities," so
 It is predicted that protection policies will become more advanced from 2025 onwards.
 
 ## ● 3) Rise of regional cities

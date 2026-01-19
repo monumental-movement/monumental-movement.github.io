@@ -35,7 +35,7 @@ In 1989, the Berlin Wall fell. Spaces that were once controlled by the state hav
 
 Abandoned buildings, disused factories, and underground spaces have been turned into clubs.
 
-Western and Eastern cultures fused, and dance music, a symbol of freedom, resonated.
+西と東のカルチャーが融合し、自由の象徴としてのダンス・ミュージックが鳴り響いた。
 Among them, Tresor opened in a renovated vault of a former department store. The deep bass sound emanating from behind the closed iron door symbolized the beginning of a new era.
 
 <hr>
@@ -84,7 +84,7 @@ The influence of Tresor is behind the city of Berlin officially recognizing club
 
 <hr>
 
-### Relocation and current situation
+### Relocation and current status
 
 In 2005, the original location closed, but in 2007 it moved to a former power plant in East Berlin.
 

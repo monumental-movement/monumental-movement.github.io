@@ -252,7 +252,7 @@ This is because it is extremely modern.
 
 <div class="mermaid">
 graph LR
-    MUJI[MUJI<br>Environmental music project] --> YH[Hiroshi Yoshimura]
+    MUJI[MUJI <br>Environmental music project] --> YH[Hiroshi Yoshimura]
     YH --> JP[Establishment of 80s environmental music]
     MT[Midori Takada] --> JP
     TK[Takashi Kokubo] --> JP
@@ -270,7 +270,7 @@ Japanese environmental music is not just "healing" or "background sound."
 **Sound art created by urban culture, design, and philosophy of life**
 It is.
 
-- Intermediate area between art and music
+- Intermediate field between art and music
 - Response to urbanization
 - Lifestyle culture and home appliance technology
 - Synthesizer innovation

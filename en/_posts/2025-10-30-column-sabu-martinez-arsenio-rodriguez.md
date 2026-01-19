@@ -53,7 +53,7 @@ This created a multi-layered rhythmic structure.
 * **Social factors:** After the abolition of slavery, an Afro-American community was formed in Havana, and the professionalization of black musicians progressed.
 * **Technical elements:** The standardization of the tres (three-string guitar) and congas made the later montuno structure possible.
 
-It is against this background that a blind revolutionary named **Arsenio Rodríguez** (1911–1970) appears.
+It is against this background that a blind revolutionary named **Arsenio Rodríguez** (1911–1970) emerges.
 
 ---
 
@@ -110,7 +110,7 @@ His sound is connected to later Afro-spiritual jazz (Pharoah Sanders, Alice Colt
 
 When Arsenio moved to the United States in 1950 and started working in Harlem,
 Sabu had been doing sessions in the same city.
-Although their point of contact is not a direct collaboration,
+Although their point of contact is not direct co-starring,
 They were deeply intersected within the **Bronx-Harlem Afro-diaspora culture**.
 
 | Era | Arsenio Rodríguez | Sabu Martinez |

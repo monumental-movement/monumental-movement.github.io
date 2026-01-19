@@ -62,7 +62,7 @@ Textural Drone is characterized by a structure in which multiple tonal layers va
 
 ### 2-2. Layering techniques
 
-The overlaying of multiple tracks transforms the music from a linear structure to a planar structure. Each layer has an independent period and modulation speed, producing asynchronous fluctuations as a whole.
+The overlaying of multiple tracks transforms the music from a linear structure to a surface structure. Each layer has an independent period and modulation speed, producing asynchronous fluctuations as a whole.
 
 <div class="mermaid">
 flowchart LR

@@ -134,7 +134,7 @@ It is said that the feelings of a time when a relationship with a lover is not g
 
 ### **She Bop**
 
-It was a very daring song for its time, a pop song about sexuality.
+It was a very bold song for its time, a pop song about sexuality.
 
 ---
 
@@ -242,7 +242,7 @@ flowchart TD
   C --> D["1984 She"s So Unusual Big Hit"]
   D --> E["1985 We Are the World Participation"]
   E --> F["1993 Hat Full of Stars Release"]
-  F --> G["2000s experimental period"]
+  F --> G["2000s Experimental Period"]
   G --> H["2013 Kinky Boots Tony Award"]
   H --> I["2020s Farewell Tour"]
 </div>

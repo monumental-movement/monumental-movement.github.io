@@ -21,7 +21,7 @@ Text: mmr | Theme: From Joy Division to New Order - A story of the transformatio
 
 In the late 1970s, the industrial city of Manchester was in the midst of devastation and stagnation. Rising unemployment, social unrest, and gray skies. Among them, Joy Division turned the despair of young people into sound with their inorganic beats and cold poetry. Ian Curtis's voice resonated as a symbol of the pain and loneliness of the times, opening the door to a new era of post-punk.
 
-However, Curtis' death in 1980 brought that story to an abrupt end. The remaining members choose rebirth from their sadness and step into the future of electronic music. The birth of New Order marked the beginning of a new chapter in the Manchester sound that has evolved beyond tragedy.
+However, Curtis' death in 1980 brought that story to an abrupt end. The remaining members choose rebirth from their sadness and step into the future of electronic music. The birth of New Order was the beginning of a new chapter in the Manchester sound that had evolved beyond tragedy.
 
 ---
 
@@ -56,7 +56,7 @@ Kraftrock from the likes of Kraftwerk and Neu!, the cold, hard sounds of the Vel
 ### Chapter 2: Despair of Sound—The World of Joy Division
 
 **"Internal Sound"**
-Ian Curtis" lyrics depict self-alienation, social anxiety, and inner darkness. Songs such as ""Transmission" and ""She"s Lost Control" are masterpieces that overlap the loneliness of the individual with the inorganic nature of the city.
+Ian Curtis" lyrics depict self-alienation, social anxiety, and inner darkness. Songs such as ""Transmission" and ""She"s Lost Control" are masterpieces that overlap the solitude of the individual with the inorganic nature of the city.
 
 **"Production Innovation"**
 Producer Martin Hannett used recording techniques to pursue a spatial sound that was different from traditional rock music. The reverb on the drums and the three-dimensional placement of the bass were important elements that created the coldness and tension of Joy Division's sound.

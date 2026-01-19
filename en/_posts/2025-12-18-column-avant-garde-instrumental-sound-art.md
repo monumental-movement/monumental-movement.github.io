@@ -21,7 +21,7 @@ Text: mmr｜Theme: Focusing on Alvin Lucier and Christian Fennesz, we will organ
 
 Since the 20th century, music has moved away from the framework of temporal art centered on melody and harmony, and has expanded into a comprehensive realm of expression that includes physical phenomena, space, and the recording medium itself. Avant-garde instrumental and sound art is not a form that shows off the skill and performance ability of an instrument, but rather presents the entire process by which sound is generated, propagated, reflected, altered, and perceived as a work.
 
-In this field, musical works are not necessarily reduced to musical scores, nor is the possibility of replayability assumed. Rather, the work exists as a set of conditions, producing different results each time. What is important here, rather than the composer's intention, is the structure itself, how the acoustic phenomenon stands up and connects with space and technology.
+In this field, musical works are not necessarily reduced to musical scores, nor is the possibility of replayability assumed. Rather, the work exists as a set of conditions, producing different results each time. What is important here, rather than the composer's intentions, is the structure itself, how the acoustic phenomenon stands up and connects with space and technology.
 
 ---
 
@@ -55,7 +55,7 @@ In sound art, spatial arrangement is more important than temporal development. T
 
 ## Chapter 2: Avant-garde instrumental concepts
 
-### 2-1 Redefinition of musical instruments
+### 2-1 Redefining instruments
 
 In avant-garde instrumental music, instruments do not have a fixed form. Existing instruments are expanded or modified, or the environment itself is treated as an instrument. Microphones, speakers, resonators, and architectural spaces are equivalent components.
 
@@ -71,7 +71,7 @@ Performance is not about demonstrating physical skill, but rather about setting 
 
 Alvin Lucier is a composer who places the physical behavior of sound waves at the center of his works. In his works, the composer's intentional manipulation is kept to a minimum, and the acoustic phenomena unfold autonomously.
 
-In his most famous work, I Am Sitting in a Room, by repeatedly playing back and re-recording the spoken word in the same space, the resonant frequencies unique to the room are emphasized, and the language eventually disappears. This process clearly shows how sound moves from information to physical phenomenon.
+In his masterpiece "I Am Sitting in a Room," the recited audio is repeatedly played back and re-recorded in the same space, emphasizing the resonant frequencies unique to the room, until the language disappears. This process clearly shows how sound moves from information to physical phenomenon.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bhtO4DsSazc?si=V4qjAe3Nm9Ow7ycC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -161,7 +161,7 @@ In sound art, listening is not a passive act. Spectators move, choose, and parti
 
 ## Chapter 10: Chronology (Extended)
 
-* 1930s: Research on electroacoustic devices
+* 1930s: Research on electroacoustic equipment
 * 1950s: Establishment of electronic music studios
 * 1960s: Experimental music and minimalism
 * 1970s: Sound installation took hold

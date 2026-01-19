@@ -78,7 +78,7 @@ Through this methodology, music is presented as a state of being rather than a p
 
 ### 4.1 Frequency band imbalance
 
-The design, centered around the lower limit of the audible range, creates a perception accompanied by a physical vibrational sensation.
+The design, centered around the lower limit of the audible range, creates a perception accompanied by a physical sensation of vibration.
 
 ### 4.2 Handling spatial recording
 

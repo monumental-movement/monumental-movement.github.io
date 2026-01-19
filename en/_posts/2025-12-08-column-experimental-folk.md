@@ -164,7 +164,7 @@ Noticeable in Current 93 and Neofolk series
 modes, ritual rhythms, religious poetry, etc.
 
 ## Thematic features
-- Mysticism/Fables/Religious Symbols
+- Mysticism, fables and religious symbols
 - Naturalism/pastoral scenes
 - Spiritual world/introspection
 - Quotes from folk tales/legends

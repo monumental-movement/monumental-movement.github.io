@@ -99,7 +99,7 @@ The return to rhythm after the break creates a wave of emotion on the club floor
 #### Acoustic characteristics (estimated)
 - Low: Kick and bass support the floor
 - Mid-high range: The main synth and pads are expanded and spatially processed.
-- Stereo: Creates a three-dimensional effect with a layered structure that spreads left and right
+- Stereo: Creates a three-dimensional effect with a layer structure that spreads left and right
 
 #### Role in DJ set
 As a mid-range track with a driving feel, it is suitable for increasing energy towards the peak.
@@ -153,7 +153,7 @@ This is an important track that creates emotional peaks and calm moments in the 
 
 #### basic information
 - BPM: Estimated around 128
-- Key: Estimated A Minor
+- Key: Estimated A minor
 - Structure: Produces a futuristic feel with mechanical rhythms and synths
 
 #### Song structure and rhythm
