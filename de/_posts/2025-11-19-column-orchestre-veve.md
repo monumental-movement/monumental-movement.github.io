@@ -21,7 +21,7 @@ title: '[Kolumne] Orchestra Veve: Eine vollständige Geschichte der renommierten
 
 Text: mmr｜Thema: Hintergrund der Gründung von Orchestra Veve, musikalische Merkmale der goldenen Ära, technische Aspekte, Analyse repräsentativer Songs, Vergleich mit anderen Bands
 
-Orchestra Veve ist eine Band, die eine wichtige Position in der Musikgeschichte des Kongo (ehemals Zaire) einnimmt. Sie waren am Wendepunkt des Übergangs von Rumba Congolaise zu Soukous aktiv und führten die Szene vor allem in den 1970er Jahren mit ihren kraftvollen Aufnahmen und innovativen Ensembles an.
+Orchestra Veve ist eine Band, die eine wichtige Position in der Musikgeschichte des Kongo (ehemals Zaire) einnimmt. Sie waren am Wendepunkt des Übergangs von der Rumba Congolaise zum Soukous aktiv und führten die Szene vor allem in den 1970er Jahren mit ihren kraftvollen Aufnahmen und innovativen Ensembles an.
 
 ---
 
@@ -85,7 +85,7 @@ Der Grund, warum dieses „Koexistenz von Quantität und Qualität“ möglich w
 
 - **Systematisierung zur Maximierung der Betriebsrate Ihres eigenen Studios**
 - **Rotationssystem zwischen den Darstellern**
-- **Reduzierte Aufnahmezeit pro Song (ein Song ist in mehreren Stunden fertig)**
+- **Reduzierte Aufnahmezeit pro Song (ein Song wurde in mehreren Stunden fertiggestellt)**
 - **Verbesserte Reproduzierbarkeit durch die Erstellung von Ensemble-Vorlagen**
 
 Dieser Artikel konzentriert sich auf die folgenden drei Lieder als repräsentative Lieder, die in diesem goldenen Zeitalter entstanden sind.
@@ -94,7 +94,7 @@ Dieser Artikel konzentriert sich auf die folgenden drei Lieder als repräsentati
 - **„Mfumbwa“**
 - **"Nitarudia"**
 
-Diese Lieder zeigen den Kern von Veves Tanzmusik, zeigen aber auch deutlich die Merkmale des lyrischen Inhalts, der Gitarrenstruktur und des Mixes.
+Diese Lieder zeigen den Kern von Veves Tanzmusik, zeigen aber auch deutlich die Merkmale des lyrischen Inhalts, der Gitarrenstruktur und der Mischung.
 
 ---
 
@@ -117,13 +117,13 @@ Verglichen mit der einzeiligen Musik von ZAïko und der auf tiefen Harmonien bas
 
 ## Innovation in der Rhythmusgruppe
 
-Veves Rhythmusgruppe hat eine ausgeprägte Sprungkraft. Die Hi-Hat prägt die Rückseite der 16. Minute nicht stark, sondern erzeugt stattdessen einen Groove im Bereich der 8. Minute mit einem weiten horizontalen Schwung, wodurch sie sanfter ist als die Soukous aus derselben Zeit und eine Textur beibehält, die der einer Rumba ähnelt.
+Veves Rhythmusgruppe hat eine ausgeprägte Sprungkraft. Die Hi-Hat prägt die Rückseite der 16. Minute nicht stark, sondern erzeugt stattdessen einen Groove im Bereich der 8. Minute mit einem weiten horizontalen Schwung, wodurch sie sanfter als die Soukous aus derselben Zeit wird und eine Textur beibehält, die der einer Rumba ähnelt.
 
 ---
 
 # Kapitel 6 Analyse repräsentativer Lieder
 
-## Song A: Zonga Andowe – rhythmisches Fundament und melodische Struktur
+## Lied A: Zonga Andowe – rhythmisches Fundament und melodische Struktur
 
 „Zonga Andowe“ ist mit seinem sich wiederholenden Refrain und der melodischen Gitarrenstruktur einer der beliebtesten Hits von Veve.
 
@@ -149,7 +149,7 @@ graph TD
 
 ## Song B: Mfumbwa – melancholische Melodie und Call and Response
 
-„Mfumbwa“ ist ein Lied, das Veves „narrativen Charakter von Liedern“ symbolisiert und wunderschön aus Ruf und Antwort besteht.
+„Mfumbwa“ ist ein Lied, das Veves „narrative Natur von Liedern“ symbolisiert und wunderschön aus Ruf und Antwort komponiert ist.
 
 ### Technische Analyse
 
@@ -177,12 +177,12 @@ sequenceDiagram
 
 ## Lied C: Nitarudia – Tanzorientierter Soukous-Abend
 
-In diesem Lied erscheint eine schnellere und segmentiertere Gitarre als Vorläufer des Soukousu-Stils. Es gilt als der zukunftsorientierteste Klang von Veves Werken.
+In diesem Lied erscheint eine schnellere und fragmentiertere Gitarre als Vorläufer dafür, dass das Lied Sokusu wird. Es gilt als der zukunftsorientierteste Klang von Veves Werken.
 
 ### Technische Analyse
 
 * **Hi-Hat: 16-Minuten-Schritte jetzt verfügbar**
-* **Gitarre: Auf einem Pentagramm (Notenzeile) betrachtet, steigt das Arpeggio treppenförmig an**
+* **Gitarre: Auf einem Pentagramm (Notenzeile) betrachtet steigt das Arpeggio treppenförmig an**
 * **Bass: Phrase, die in 2-Takt-Einheiten „hüpft“**
 
 ### Struktur des Gitarrenansatzes
@@ -202,14 +202,14 @@ flowchart LR
 # Kapitel 7 Aufnahmetechnik, Studioumgebung, Produktionssystem
 
 Veves Aufnahmeumgebung war zu dieser Zeit eine der fortschrittlichsten in Afrika.
-Es verfügte über ein eigenes Studio, in dem immer mehrere Toningenieure anwesend waren, und verfügte über die folgenden technischen Merkmale.
+Es verfügte über ein eigenes Studio, mehrere Toningenieure und verfügte über folgende technische Merkmale:
 
 - **Nutzen Sie schnell die Übergangszeit von der 2- bis 4-Spur-Aufnahme zur 4- bis 8-Spur-Aufnahme**
 - **Stereo-Methode zum Schwingen der Gitarre nach links und rechts**
 - **Mixing, das das Saxophon in den Vordergrund stellt**
 - **Ein bahnbrechender Ansatz, der mehrere Takes des Refrains aufnimmt und sie beim Bearbeiten kombiniert**
 
-Eines der Merkmale dieses Werks besteht darin, dass es die Live-Spannung der Interpreten in den Vordergrund stellt, anstatt Zeit für den Schnitt aufzuwenden, und viele der Werke sind in einer Struktur aufgenommen, die fast einer Live-Aufnahme ähnelt.
+Eines der Merkmale dieses Werks besteht darin, dass es die Live-Spannung der Interpreten in den Vordergrund stellt, anstatt Zeit für die Bearbeitung aufzuwenden, und viele der Werke sind in einer Struktur aufgenommen, die fast einer Live-Aufnahme ähnelt.
 
 ---
 
@@ -239,7 +239,7 @@ Obwohl beide aus derselben Zeit stammen, sind ihre Richtungen sehr unterschiedli
 
 ## Musikalische Distanz mit OK Jazz
 
-Da Veran selbst von OK Jazz ist, haben sie den gleichen Sinn für Harmonie und Tiefe der melodischen Verarbeitung, aber
+Veran selbst ist von OK Jazz, daher haben sie den gleichen Sinn für Harmonie und Tiefe der melodischen Verarbeitung, aber
 Veve ist moderner und tanzbarer als OK Jazz.
 
 ## Gemeinsamkeiten mit Afrisa International

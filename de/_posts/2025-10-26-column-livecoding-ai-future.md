@@ -96,7 +96,7 @@ Die Beziehung zwischen den beiden ist nicht eine von „Dominanz und Unterordnun
 | **Gezeitenzyklen** | Alex McLean | Haskell-basierte Live-Coding-Umgebung, spezialisiert auf Musterbeschreibung | Echtzeit-Codegenerierung mit ChatGPT-Integration möglich |
 | **SuperCollider** | James McCartney | Eine seit langem etablierte Umgebung für Klangsynthese und algorithmische Komposition | Die Steuerung der Klangparameter mithilfe von KI-Modellen ist in Arbeit |
 | **Sonic Pi** | Sam Aaron | Ruby-basiert mit Blick auf Bildung und Leistung | KI-gestützte Codebeispiele für den Einsatz im Bildungsbereich |
-| **Riffusion** | Seth Forsgren et al. | Diffusionsmodell, das Spektrogramme generiert | KI selbst erzeugt direkt Klang |
+| **Riffusion** | Seth Forsgren et al. | Diffusionsmodell, das Spektrogramme erzeugt | KI selbst erzeugt direkt Klang |
 | **Ozelot / Hydra** | Live-Coding-Umgebung, die generiertes Video + Ton integriert | KI-Synchronisation von Bild und Ton ist möglich |
 
 ---
@@ -104,7 +104,7 @@ Die Beziehung zwischen den beiden ist nicht eine von „Dominanz und Unterordnun
 ## Kapitel 5: Beispiel für die Zusammenarbeit zwischen KI und Live Coding
 
 - **AI-DJ Experiment (2023, Berlin CTM Festival)**
-Ein menschlicher Live-Programmierer spielt auf TidalCycles und die KI analysiert den BPM, die Harmonie und die räumliche Anordnung.
+Ein menschlicher Live-Coder spielt auf TidalCycles und die KI analysiert den BPM, die Harmonie und die räumliche Anordnung.
 Erzeugen Sie reaktionsschnelle Mixe in Echtzeit.
 Dadurch konnten wir in einer Form mitspielen, bei der die KI dem „menschlichen Rhythmus“ folgt.
 
@@ -197,7 +197,7 @@ Wir versuchen, eine **Kultur des Teilens der „Intelligenz der Leistung“** zu
 
 Algorithmen und Menschen, Maschinen und Emotionen.
 Wo die Grenzen verschmelzen,
-Ein neuer musikalischer Horizont entsteht.
+Ein neuer musikalischer Horizont erhebt sich.
 
 > Akkorde gehen über Noten hinaus und KI lernt zu improvisieren.
 > Musik ist kein „exklusives Patent des Menschen“ mehr;

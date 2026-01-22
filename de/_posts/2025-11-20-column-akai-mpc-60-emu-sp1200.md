@@ -44,7 +44,7 @@ color: #fff;
 
 Beim Prozess (Abtastung) der Aufteilung analoger Signale in numerische Werte durch Aufteilung in feste Zeitintervalle gibt es zwei Hauptparameter: **Abtastfrequenz (Hz)** und **Quantisierungsbittiefe (Bit)**. Die Abtastfrequenz wird durch die Nyquist-Theorie beschrieben und die Quantisierungsbittiefe hängt mit dem Dynamikbereich und dem Quantisierungsrauschen zusammen.
 
-* **12bit**: Theoretisch beträgt der Dynamikbereich ca. 72dB (ideale Bedingungen). Tatsächlich variiert der effektive Dynamikbereich aufgrund der Auswirkungen von Schaltungsrauschen und analogen Pfaden je nach verwendeter Ausrüstung.
+* **12bit**: Theoretisch beträgt der Dynamikbereich etwa 72 dB (ideale Bedingungen). Tatsächlich variiert der effektive Dynamikbereich aufgrund der Auswirkungen von Schaltungsrauschen und analogen Pfaden je nach verwendeter Ausrüstung.
 
 ### 2.2 12-Bit-Akustikeigenschaften
 
@@ -75,7 +75,7 @@ Mitte bis Ende der 1980er Jahre waren die Preise für Halbleiterspeicher um Grö
 * **Hauptmerkmale**: 8-Spur-Sequenzer, Filter (analog), einzelne Ausgänge
 
 **Designphilosophie und Funktionen**
-Der SP-1200 wurde unter Berücksichtigung der Zeitbeschränkungen eines Probenehmers entwickelt und ist für den Arbeitsablauf „Schneiden und Anordnen kurzer Proben“ optimiert. In Kombination mit der internen analogen Schaltung ergibt sich ein dicker Tieftonbereich mit einer „Rauheit“ oder „Welle“. Basierend auf den Spezifikationen und der technischen Dokumentation von E-mu aus dieser Zeit können wir bestätigen, dass der A/D-Pfad und das Filterdesign des SP-1200 zu seiner akustischen Färbung beitragen.
+Der SP-1200 wurde unter Berücksichtigung der Zeitbeschränkungen eines Probenehmers entwickelt und ist für den Arbeitsablauf „Schneiden und Anordnen kurzer Proben“ optimiert. In Kombination mit der internen analogen Schaltung ergibt sich ein dicker Tieftonbereich mit einer „Rauheit“ oder „Welle“. Anhand der Spezifikationen und technischen Unterlagen von E-mu aus dieser Zeit kann bestätigt werden, dass der A/D-Pfad und das Filterdesign des SP-1200 zur akustischen Färbung beitragen.
 
 **Praktische Anwendung**
 
@@ -168,7 +168,7 @@ Samples mit niedriger Auflösung eignen sich effektiv zum Erstellen von Texturen
 
 ## Kapitel 8: Wichtige Künstler und Anwendungsbeispiele
 
-> Nachfolgend finden Sie Auszüge von Anwendungsbeispielen, die auf sachlichen Informationen wie öffentlichen Interviews, Credits, Fachartikeln und offiziellen Dokumenten basieren.
+> Nachfolgend finden Sie Auszüge von Anwendungsbeispielen, die auf sachlichen Informationen wie öffentlichen Interviews, Credits, technischen Artikeln und offizieller Dokumentation basieren.
 
 <div class="mermaid">
 
@@ -356,7 +356,7 @@ flowchart TD
 
 ---
 
-## Abschnitt „Spur-/Wellenform-/Frequenzanalyse“.
+## Abschnitt zur Spur-/Wellenform-/Frequenzanalyse
 
 ### Ebenenanalyse von Public Enemy (Bomb Squad) SP-1200
 

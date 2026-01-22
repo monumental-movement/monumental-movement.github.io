@@ -45,7 +45,7 @@ color: #fff;
 
 # # 1. Die Grundlage der äthiopischen Musik: die pentatonische Tonleiter (Kinet) und die einzigartige modale Kultur
 
-In Äthiopien existiert seit der Antike eine vielschichtige Musikkultur, darunter äthiopisch-orthodoxe christliche Gesänge (Zara), die lokale Azmari-Minnesängerkultur und die urbane Musik der Hauptstadt Addis Abeba.
+Äthiopien verfügt seit der Antike über eine vielschichtige Musikkultur, darunter äthiopisch-orthodoxe Gesänge (Zara), die Azmari-Kultur lokaler Barden und die urbane Musik der Hauptstadt Addis Abeba.
 
 Besonders berühmt ist Äthiopiens einzigartiges Modalsystem namens „Qenet“.
 Es gibt vier typische Kinets:
@@ -282,7 +282,7 @@ Derzeit ist Ethio-Jazz
 Es überschneidet sich mit anderen und zeigt eine neue Expansion.
 
 Mulatu selbst setzt seine Musikforschungs- und Bildungsaktivitäten fort.
-Die Bemühungen, eine Brücke zwischen traditionellen Tonleitern und moderner Musik zu schlagen, dauern noch an.
+Die Bemühungen, traditionelle Tonleitern und moderne Musik zu verbinden, dauern noch an.
 
 ---
 

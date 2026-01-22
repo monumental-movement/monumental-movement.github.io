@@ -14,7 +14,7 @@ title: Chirurg – Kommunikation
 ---
 
 
-Das erste Album von Surgeon erschien 1996 auf dem von Regis und Female gegründeten britischen Label Downwards. Dieses Album wurde von JEFF MILLS unterstützt und gilt als Durchbruch und Meisterwerk, das Surgeons Namen in der Welt bekannt machte.
+Das erste Album von Surgeon erschien 1996 auf dem von Regis und Female gegründeten britischen Label Downwards. Dieses Album wurde von JEFF MILLS unterstützt und gilt als Durchbruch und Meisterwerk, das Surgeons Namen der Welt bekannt machte.
 
 #### Trackliste
 ```md

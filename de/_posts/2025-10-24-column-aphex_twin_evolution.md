@@ -20,7 +20,7 @@ title: '[Kolumne] Die Anfänge und die Gegenwart von Aphex Twin – jenseits des
 
 Text: mmr｜Thema: Vergleich der frühen Werke von Aphex Twin mit ihren aktuellen Errungenschaften und kritische Interpretation der Veränderungen in ihrer akustischen Struktur, Philosophie und Technologie.
 
-Richard D. James (Aphex Twin) trat Anfang der 1990er Jahre als jemand hervor, der die bestehende Grammatik von Genres wie Techno und Ambient völlig auf den Kopf stellte. Seine frühen Werke sind Klangexperimente, in denen sich mechanische Träume und menschliche Illusionen vermischen, und sein aktueller Klang liegt zwischen einer Struktur künstlicher Intelligenz und einer Rückkehr zur Nostalgie.
+In den frühen 1990er-Jahren trat Richard D. James (Aphex Twin) als jemand hervor, der die bestehende Grammatik von Genres wie Techno und Ambient völlig auf den Kopf stellte. Seine frühen Werke sind Klangexperimente, in denen sich mechanische Träume und menschliche Illusionen vermischen, und sein aktueller Klang liegt zwischen einer Struktur künstlicher Intelligenz und einer Rückkehr zur Nostalgie.
 
 Im Folgenden werden wir diese „Veränderungen“ und „Unveränderungen“ auf den vier Achsen Arbeit, Technologie, Ästhetik und Ideologie vergleichen und untersuchen.
 
@@ -86,7 +86,7 @@ Es ist erstaunlich, dass sie diese Komplexität in einer Pre-DAW-Umgebung gescha
 ### 2.2 „Come to Daddy“ „Windowlicker“ ─ Medien und Albtraum
 
 Von 1997 bis 1999 verband Aphex Twin Musik mit „visuellem Horror“.
-Die in Zusammenarbeit mit Chris Cunningham gegründete PV-Gruppe verwandelte die Instabilität des elektronischen Klangs in die Amorphität des Videos.
+Die in Zusammenarbeit mit Chris Cunningham gegründete PV-Gruppe **wandelte die Instabilität des elektronischen Klangs in die Amorphität von Bildern um**.
 
 Ungefähr zu der Zeit, als MTV ihn als „seltsamstes Genie“ bezeichnete
 Er spürte bereits, dass seine Musik Gefahr lief, in die Populärkultur aufgenommen zu werden.
@@ -105,7 +105,7 @@ Die rätselhafte Natur von Songtiteln bekräftigt das „Recht des Klangs, sich 
 
 ### 3.1 „Syro“ (2014): Fertigstellung des Akustikarchivs
 
-Sein erstes Album seit 13 Jahren, „Syro“, ist eine Mischung aus analoger Rückgabe und digitaler Bearbeitung.
+Sein erstes Album seit 13 Jahren, „Syro“, ist eine Fusion aus analoger Rückkehr und digitaler Bearbeitung.
 Alle Songs verfügen über detaillierte Credits für das verwendete Equipment,
 Aphex Twin legt nahe, dass „jeder Ton eine technische Geschichte hat“.
 
@@ -153,7 +153,7 @@ In diesem Bereich gibt es Raum für den Zuhörer, seine eigenen Gefühle zum Aus
 
 Nach Aphex Twin ist elektronische Musik nicht mehr nur ein „Genre“.
 Zu den von ihm beeinflussten Künstlern gehören Burial, Oneohtrix Point Never, Autechre, Arca usw.
-Bei all diesen Fragen wird die Bedeutungserzeugung des Klangs selbst neu überdacht.
+Bei all diesen Fragen wird die „Bedeutungserzeugung“ des Klangs selbst neu überdacht.
 
 > „In einer Zeit, in der Musik in Daten umgewandelt wird, ist Aphex Twin zu einem „Bildhauer der Wahrnehmung“ geworden.
 

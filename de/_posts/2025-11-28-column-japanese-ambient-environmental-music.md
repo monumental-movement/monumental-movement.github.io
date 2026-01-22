@@ -56,7 +56,7 @@ color: #fff;
 
 Das Aufkommen japanischer Ambient-Musik ging mit der Entwicklung elektronischer Musikstudios in den 1970er Jahren einher. Viele Universitäten und Forschungsinstitute erforschten elektronische Akustik, Tonbandmusik und Musique Concrète, und gleichzeitig nahmen „Klanginstallationen“ im Bereich der zeitgenössischen Kunst zu.
 
-Während seines Studiums der Raumkunst an einer Kunstuniversität begann Hiroshi Yoshimura schon früh mit der Schaffung von Werken, die Umgebung und Klang miteinander verknüpften, und war auch an der akustischen Planung öffentlicher Räume beteiligt.
+Während seines Studiums der Raumkunst an einer Kunstuniversität begann Hiroshi Yoshimura schon früh mit der Schaffung von Werken, die Umwelt und Klang miteinander verknüpften, und befasste sich auch mit der akustischen Planung öffentlicher Räume.
 
 Japanische Ambient-Musik zeichnet sich dadurch aus, dass sie an der Schnittstelle dieser Künste, Tontechnik und Stadtplanung entsteht.
 
@@ -115,7 +115,7 @@ Wir strebten nach „Klang, der die Natur des Raumes verändert, nicht nur zur W
 
 # **2-2. Midori Takada – Musik aus Zeit und Raum, gezeichnet von Schlaginstrumenten**
 
-Midori Takada (1951–) hat als japanische Perkussionistin und Komponistin weltweite Anerkennung erlangt.
+Midori Takada (1951–) hat als japanische Perkussionistin und Komponistin weltweite Anerkennung gefunden.
 
 ## ● Repräsentative Werke
 - **《Through the Looking Glass》 (1983)**
@@ -198,7 +198,7 @@ Umweltmusik ging in diesem Zusammenhang über die bloße Hintergrundmusik hinaus
 
 ## ● 4-2. Verbindung mit „Komfortfunktionen“ von Haushaltsgeräten
 
-Ein Symbol dafür ist die Musik von Takashi Kokubo, die Luftreinigern beiliegt.
+Die Musik von Takashi Kokubo, die Luftreinigern beiliegt, ist ein Symbol dafür.
 Haushaltsgeräte x Umweltakustik
 Er begründete eine einzigartige japanische Idee.
 

@@ -14,7 +14,7 @@ title: Marc Anthony – You Sang To Me
 
 „You Sang to Me“ ist ein Lied des amerikanischen Sängers Marc Anthony, das in seinem vierten Studioalbum (1999) enthalten war. Das Lied wurde von Corey Rooney produziert, der das Lied gemeinsam mit Anthony schrieb. Das Lied ist eine romantische Pop-Ballade im mittleren Tempo mit Elementen aus Latin, R&B und Adult Contemporary. Der Text erzählt die Geschichte eines Mannes, der seine Partnerin gehen lässt, obwohl er mit einer anderen Person in einer Beziehung ist.
 
-Anthony nahm auch eine spanische Version des Liedes mit dem Titel „Muy Dentro de Mí“ auf, mit zusätzlichen Beiträgen von Roberto Blaze und Gaitanes zum Text.
+Anthony nahm auch eine spanische Version des Liedes mit dem Titel „Muy Dentro de Mí“ auf, mit zusätzlichen Beiträgen von Roberto Blais und Gaitanes zum Text.
 
 Musikkritiker bewerteten „You Sang to Me“ bei seiner Veröffentlichung positiv und lobten Anthonys Gesang und das Arrangement des Songs. Anthony gewann viele Auszeichnungen, darunter eine Nominierung für die beste männliche Pop-Gesangsdarbietung bei den 43. jährlichen Grammy Awards im Jahr 2001.
 

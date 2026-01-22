@@ -17,7 +17,7 @@ Oi Polloi ist eine Punkrock-Band (Anarcho-Punk), die um 1981 in Schottland gegr�
 
 Oi Polloi sind auch als schottisch-gälische Punks bekannt, die ihre Texte ganz oder teilweise auf schottisch-gälisch singen.
 
-Die Mitglieder von Oi Polloi sind Befürworter des Umweltschutzes (Earth First!) sowie des Widerstands gegen Rassismus, Sexismus, Homophobie, Faschismus und Imperialismus und verwenden das Motto „Keine Kompromisse zur Verteidigung unserer Erde“, eine Adaption des Mottos von Earth First!.
+Die Mitglieder von Oi Polloi sind Befürworter des Umweltschutzes (Earth First!) sowie des Widerstands gegen Rassismus, Sexismus, Homophobie, Faschismus und Imperialismus unter dem Motto „Keine Kompromisse zur Verteidigung unserer Erde“, einer Adaption des Mottos von Earth First!.
 
 „Total Anarchoi“ wurde 1992 auf dem britischen Punk-Label Step-1 Music veröffentlicht.
 

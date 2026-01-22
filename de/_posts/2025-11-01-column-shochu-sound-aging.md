@@ -105,7 +105,7 @@ Insbesondere „Taiko und Sanshin“ sind reich an niedrigen Frequenzen und weis
 
 Es werden auch experimentelle Daten gesammelt.
 Laut einer gemeinsamen Studie der Universität Kagoshima,
-Shochu, das einer klassischen akustischen Alterung unterzogen wurde, hat eine höhere
+Shochu, das einer klassischen akustischen Alterung unterzogen wurde, hat einen höheren
 **Durchschnittliche Reduzierung des Aldehydgehalts um 8 %**,
 **Esterverhältnis um 12 % erhöht**.
 
@@ -147,7 +147,7 @@ Dieser Tag naht.
 | Jahre | Veranstaltungen |
 |------|---------|
 | 1600er | Der Zuckerrohranbau beginnt in Amami |
-| 1800er | Die Produktion von lokalem Shochu aus braunem Zucker als Rohstoff beginnt |
+| 1800er | Beginn der Produktion von lokalem Shochu aus braunem Zucker |
 | 1949 | Rückgabe der Amami-Inseln an Japan, Sondergenehmigung für „Braunzucker-Shochu“ |
 | 2005 | Amami Oshimas erster akustisch gealterter Shochu-Test beginnt |
 | 2008 | Universität Kagoshima beginnt mit wissenschaftlicher Forschung zur akustischen Reifung |
@@ -286,7 +286,7 @@ E --> E2[南之風酒造<br>🎧 AI音響テスト導入 2024年～]
 
 Die Topographie von Amami erstreckt sich über 160 km von Norden nach Süden und die Luftfeuchtigkeit, Windrichtung und akustischen Eigenschaften der Küste variieren von Region zu Region.
 Ein Lagerhaus mit Blick auf die Tatsugo-Bucht nutzt beispielsweise das Rauschen der Wellen.
-In Berggebieten gelegene Lagerhäuser schaffen eine Reifeumgebung, die den natürlichen Nachhall nutzt.
+In Berggebieten gelegene Lagerhäuser schaffen eine reife Umgebung, die den natürlichen Nachhall nutzt.
 
 Akustische Reifung ist nicht nur ein „Gerät“;
 **Dies ist die „Resonanz der Insel“, bei der die Topographie selbst zum Instrument wird**.

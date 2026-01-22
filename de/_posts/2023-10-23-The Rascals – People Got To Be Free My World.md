@@ -14,7 +14,7 @@ title: The Rascals – People Got To Be Free My World
 ---
 
 
-The Rascals sind eine blauäugige Soulband, die 1964 in New York gegründet wurde. Von 1965 bis 1969 veröffentlichten sie eine Reihe von Hits, und People Got To Be Free (Hymn to Freedom) ist einer ihrer Hits und Signature-Songs.
+The Rascals sind eine blauäugige Soulband, die 1964 in New York gegründet wurde. Sie veröffentlichten von 1965 bis 1969 eine Reihe von Hits, und People Got To Be Free (Hymn to Freedom) ist einer ihrer Hits und Signature-Songs.
 
 Die Band beeinflusste auch japanische Musiker wie Shogo Hamada und Tatsuro Yamashita.
 #### Trackliste

@@ -12,7 +12,7 @@ title: N-Joi – Schlechte Dinge
 ---
 
 
-NJOI ist eine britische Rave-/Techno-Band, die 1989 von Nigel Champion und Mark Franklin gegründet wurde.
+NJOI ist eine britische Rave/Techno-Band, die 1989 von Nigel Champion und Mark Franklin gegründet wurde.
 
 Die Gesangsfront ist Saffron. Die Songs von NJOI hatten damals großen Einfluss auf die britische Rave-Szene.
 

@@ -156,7 +156,7 @@ Electro Swing hat seine explosive Phase hinter sich und ist mittlerweile als sta
 
 ## 14. Industriestruktur und Etiketten/Medien
 
-Electro Swing ist kein Genre, das von großen Labels etabliert wurde, sondern hat sich rund um unabhängige Labels, Eigenveröffentlichungen und den digitalen Vertrieb entwickelt. Daher erfolgte die Verbreitung des Genres eher über Clubs, Festivals, Videomedien und die Tanzgemeinschaft als über die Charts.
+Electro Swing ist kein von großen Labels etabliertes Genre, sondern hat sich rund um unabhängige Labels, Eigenveröffentlichungen und den digitalen Vertrieb entwickelt. Daher erfolgte die Verbreitung des Genres eher über Clubs, Festivals, Videomedien und die Tanzgemeinschaft als über die Charts.
 
 Die Struktur, die nicht an einen bestimmten großen Markt gebunden ist, hat zur Langlebigkeit des Genres beigetragen. Monumental Movement Records hat Merkmale mit anderen peripheren Genres gemeinsam, mit denen Monumental Movement Records zu tun hat, beispielsweise die Tatsache, dass eine übermäßige kommerzielle Optimierung weniger wahrscheinlich ist und die Ästhetik jedes Schöpfers relativ erhalten bleibt.
 
@@ -172,7 +172,7 @@ Diese Methode steht im Einklang mit der Sampling-Kultur nach dem Hip-Hop, aber E
 
 ## 16. Klangverarbeitung und Produktionstechniken
 
-Auf der Produktionsseite spielen Sample-Cutting und Time-Stretching, Beat-Quantisierung und Bass-Low-End-Design eine wichtige Rolle. Der Schwung des Schwungs wird nicht vollständig reproduziert, sondern im Vier-auf-der-Vier oder geraden Breakbeat absorbiert.
+Auf der Produktionsseite spielen Sample-Cutting und Time-Stretching, Beat-Quantisierung und Bass-Low-End-Design eine wichtige Rolle. Der Schwung des Schwungs wird nicht vollständig reproduziert, sondern im Vier-gegen-Vier- oder Straight-Breakbeat absorbiert.
 
 Infolgedessen hat Electro Swing eine Struktur, die für Jazz unnatürlich ist, für Tanzmusik jedoch sehr ansprechend ist. Dieses Kompromissdesign ist der technische Kern der Entstehung des Genres.
 
@@ -196,7 +196,7 @@ Ein weiteres Merkmal ist andererseits, dass es schwierig war, eine klare häusli
 
 ## 19. Vergleich mit anderen Genres
 
-Electro Swing wird manchmal mit Nu Jazz, Swing House und Retro House verwechselt, aber der größte Unterschied besteht darin, dass es die Symbolik der Swing-Ära in den Vordergrund stellt. Dabei steht die kulturelle Lesbarkeit über der musikalischen Komplexität.
+Electro Swing wird manchmal mit Nu Jazz, Swing House und Retro House verwechselt, aber der größte Unterschied besteht darin, dass es die Symbolik der Swing-Periode in den Vordergrund stellt. Dabei steht die kulturelle Lesbarkeit über der musikalischen Komplexität.
 
 Während diese Struktur die Fähigkeit des Genres, Kritik standzuhalten, schwächte, war sie wirksam bei der Gewinnung langfristiger Zuhörer.
 

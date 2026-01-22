@@ -14,9 +14,9 @@ title: Festgehaltene Entwicklung – 3 Jahre, 5 Monate und 2 Tage im Leben von
 ---
 
 
-„3 Years, 5 Months & 2 Days in the Life Of...“ war das Debütalbum von Arrested Development und ein großer Erfolg. Das Album basiert auf wahren Geschichten und persönlichen Erlebnissen der Bandmitglieder und spiegelt Inspirationen aus ihrem täglichen Leben wider.
+„3 Years, 5 Months & 2 Days in the Life Of...“ war das Debütalbum von Arrested Development und ein großer Erfolg. Das Album basiert auf wahren Geschichten und persönlichen Erfahrungen der Bandmitglieder und spiegelt Inspiration aus ihrem täglichen Leben wider.
 
-Das Album enthält Hits wie die Grammy-prämierten Songs „Tennessee“, „People Everyday“ und „Mr. Wendal“. Diese Lieder enthielten die charakteristischen Texte, Melodien und gefühlvollen Vocals von Arrested Development und vermittelten den Zuhörern positive Botschaften und ein Bewusstsein für soziale Themen.
+Das Album enthält Hits wie die Grammy-prämierten Songs „Tennessee“, „People Everyday“ und „Mr. Wendal“. Diese Songs enthielten die charakteristischen Texte, Melodien und gefühlvollen Vocals von Arrested Development und vermittelten den Zuhörern positive Botschaften und ein Bewusstsein für soziale Themen.
 
 
 #### Trackliste

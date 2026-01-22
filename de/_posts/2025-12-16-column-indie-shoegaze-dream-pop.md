@@ -102,7 +102,7 @@ Dadurch verliert die Gitarre ihren perkussiven Anschlag und erhält eine kontinu
 
 ## Kapitel 4: Shoegaze-Geräuschanalyse
 
-### 4-1. Dehnungsschichtstruktur
+### 4-1. Struktur der Dehnungsschicht
 
 In den Liedern von My Bloody Valentine sind mehrere verzerrte Gitarren übereinander geschichtet, die jeweils eine andere Band besetzen.
 Dadurch geht die Klarheit einzelner Töne verloren, es entsteht aber insgesamt eine dickere Klangmasse.
@@ -124,7 +124,7 @@ Die vagen Umrisse, der geringe Kontrast und die nahezu monochromatischen Farben 
 ### 5-2. Musikvideo-Trends
 
 Die Bilder erzählen keine Geschichte, sondern bestehen aus Lichtfragmenten, Zeitlupe und Überlagerungen.
-Auch die Kameraführung und der Schnitt vermeiden einen klaren Fokus und betonen das Gefühl des visuellen Schwebens.
+Auch Kameraführung und Schnitt vermeiden einen klaren Fokus und betonen das Gefühl des visuellen Schwebens.
 
 [„Bild existiert nicht als Erklärung, sondern als Erweiterung der Empfindung“]
 
@@ -185,7 +185,7 @@ Diese Technik trug sowohl zur räumlichen Räumlichkeit des Dream Pop als auch z
 
 ### A-2. Vordergrund und Hintergrund im Mix neu definieren
 
-Bei traditionellen Rockmixen stehen Gesang und Leadinstrumente typischerweise im Vordergrund.
+Bei traditionellen Rockmischungen stehen Gesang und Leadinstrumente typischerweise im Vordergrund.
 Im Shoegaze/Dream Pop wird dieses Prinzip jedoch bewusst gebrochen.
 
 Gesang wird in den Mitteltonbereich eingebettet und genauso behandelt wie der Nachhall von Gitarre und Synthesizer.
@@ -208,7 +208,7 @@ Daher betont das Lied die „Zeit, die weiter vergeht“ und nicht die „Zeit, 
 
 ### B-2. Körperliche Steigerung neu definieren
 
-Auf den ersten Blick mag bei hoher Lautstärke gespielter Shoegaze wie aggressive Musik erscheinen, aber das körperliche Erlebnis ist ein anderes.
+Auf den ersten Blick mag Shoegaze bei hoher Lautstärke wie aggressive Musik erscheinen, aber das körperliche Erlebnis ist ein anderes.
 Der Fokus liegt nicht auf rhythmischen Sprüngen, sondern auf Umhüllung durch Schalldruck und Immersion durch Sustain.
 
 Dies ist ein Erlebnis, bei dem der Körper des Publikums nicht nach vorne gedrückt wird, sondern in den Klang eintaucht.
@@ -221,7 +221,7 @@ Dies ist ein Erlebnis, bei dem der Körper des Publikums nicht nach vorne gedrü
 
 ### C-1. Sprachabstraktion
 
-Im Dream-Pop, wie ihn die Cocteau Twins verkörpern, wird die Bedeutung der Texte absichtlich verschleiert.
+Im Dream Pop, wie ihn die Cocteau Twins verkörpern, wird die Bedeutung der Texte absichtlich verschleiert.
 Aussprache, Vokallänge und Verhältnis zum Rhythmus stehen im Vordergrund und die lexikalische Klarheit tritt in den Hintergrund.
 
 Dies war ein Versuch, Sprache als Klangmaterial und nicht als Mittel zur Übermittlung von Informationen neu zu definieren.

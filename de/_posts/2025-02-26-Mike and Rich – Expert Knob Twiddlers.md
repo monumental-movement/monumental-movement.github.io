@@ -15,13 +15,13 @@ title: Mike & Rich – erfahrene Knob-Twiddler
 ---
 
 
-„Expert Knob Twiddlers“ (1996) von Mike & Rich ist ein Gemeinschaftsalbum von Richard D. James, alias Aphex Twin, und Mike Paradinas, alias µ-Ziq, zwei Genies, die in den 90er Jahren die elektronische Musikszene anführten.
+Mike & Richs „Expert Knob Twiddlers“ (1996) ist ein Gemeinschaftsalbum von Richard D. James, alias Aphex Twin, und Mike Paradinas, alias µ-Ziq, zwei Genies, die in den 90er Jahren die elektronische Musikszene anführten.
 
-Das Lied entstand innerhalb weniger Tage während der Weltmeisterschaft 1994 und soll aus einer betrunkenen Jam-Session entstanden sein. Dieser Hintergrund erzeugt eine leichte und freigeistige Atmosphäre in der Musik.
+Das Lied entstand innerhalb weniger Tage während der Weltmeisterschaft 1994 und soll aus einer betrunkenen Jam-Session entstanden sein. Dieser Hintergrund schafft eine leichte und freigeistige Atmosphäre in der Musik.
 
 Von Paradinas als „eine aktualisierte Version von Easy Listening und Funk“ beschrieben, werden Melodien, die an Lounge-Musik und Aufzugsmusik der 70er Jahre erinnern, mit verzerrten Beats und den skurrilen Tönen analoger Synthesizer verschmolzen.
 
-Diese Tracks sind das Ergebnis einer Kombination aus dem unvorhersehbaren Experimentalismus von Aphex Twin und der melodischen Struktur von µ-Ziq und schaffen ein Klangabenteuer, das über bloße „geschriebene Musik“ hinausgeht.
+Diese Tracks sind das Ergebnis einer Verschmelzung des unvorhersehbaren Experimentalismus von Aphex Twin und der melodischen Struktur von µ-Ziq und schaffen so ein Klangabenteuer, das über bloße „geschriebene Musik“ hinausgeht.
 
 #### Trackliste
 ```md

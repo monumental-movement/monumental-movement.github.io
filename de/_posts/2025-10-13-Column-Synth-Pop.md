@@ -98,7 +98,7 @@ Dies war der Moment, in dem sich Kraftwerks Ideen im wunderschönen Spiegel der 
 
 Zu dieser Zeit begann in Tokio eine stille Revolution.
 Der 1978 von YMO (Yellow Magic Orchestra) produzierte Sound war nicht nur eine Nachahmung, sondern eine Neuinterpretation elektronischer Musik in einen „asiatischen Kontext“.
-Ryuichi Sakamotos Musiktheorie, Haruomi Hosonos Pop-Gefühl und Yukihiro Takahashis rhythmisches Gespür: YMOs Sound war die erste „elektronische Stimme“, die Japan in den frühen Tagen der Globalisierung der Welt veröffentlichte.
+Ryuichi Sakamotos Musiktheorie, Haruomi Hosonos Pop-Sensibilität und Yukihiro Takahashis Rhythmusgefühl: YMOs Sound war die erste „elektronische Stimme“, die Japan in den frühen Tagen der Globalisierung der Welt veröffentlichte.
 
 Ryuichi Sakamoto sagte später:
 > „Technologie ist eine Möglichkeit, Musik menschlicher zu machen.“
@@ -133,7 +133,7 @@ Radioheads „Kid A“ ist eine introspektive Weiterentwicklung von YMOs Idee, �
 
 ---
 
-Auch die „Neo-Synthpop“-Generation, darunter Grimes, Charli XCX und SOPHIE, wurde stark von der japanischen Pop-Sensibilität beeinflusst.
+Auch die „Neo-Synthpop“-Generation, darunter Grimes, Charli XCX und SOPHIE, war stark von der japanischen Pop-Sensibilität beeinflusst.
 Ihre Klänge drücken einen elektronischen Körper des 21. Jahrhunderts aus und absorbieren gleichzeitig die Weltanschauung von Anime, Spielen und Vocaloids.
 „Kawaii“ ist kein japanisches Wort mehr, sondern ein globales Wort.
 Dahinter verbirgt sich eine durchgängige technologische Ästhetik von YMO bis Perfume.
@@ -151,7 +151,7 @@ Etwas Mechanisches kann emotional sein – das ist der paradoxe Charme von Synth
 Im 21. Jahrhundert wird die „Ästhetik der Unvollkommenheit“ neu bewertet.
 Die schwankende Stimme von Grimes, die KI-Gesangsverarbeitung von Charli XCX und Yaejis Mischung aus Muttersprachen.
 All dies beweist, dass „unvollkommene Klänge“ Menschlichkeit vermitteln.
-Während die KI-Komposition voranschreitet, könnte die „menschliche Künstlichkeit“ von Synthpop die letzte Romantik in der Musik sein.
+Während die KI-Komposition voranschreitet, könnte die „menschliche Künstlichkeit“ des Synthpop die letzte Romantik in der Musik sein.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X73VZJKrPIc?si=nZlS67Av7Y748O_a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -191,9 +191,9 @@ Während die KI-Komposition voranschreitet, könnte die „menschliche Künstlic
 
 Synthpop ist sowohl der „Sound der Zukunft“ als auch der „Sound der Nostalgie für die Vergangenheit“.
 Warum berühren uns die kalten elektronischen Klänge der 1980er Jahre so sehr? Denn sie enthalten die „Temperatur einer Zeit, als die Menschen an die Zukunft glaubten“.
-Selbst jetzt, da sich die digitale Technologie weiterentwickelt und KI begonnen hat, Musik zu komponieren, suchen Menschen weiterhin in den Klängen von Maschinen nach ihrem „Selbst“.
+Selbst jetzt, wo die digitale Technologie voranschreitet und KI beginnt, Musik zu komponieren, suchen Menschen weiterhin in den Geräuschen von Maschinen nach ihrem „Selbst“.
 
-Die „Beziehung zwischen Technologie und Emotion“, die Ryuichi Sakamoto bis zum Schluss immer wieder fragte, ist nun wieder ein vordergründiges Thema.
+Die „Beziehung zwischen Technologie und Emotion“, nach der Ryuichi Sakamoto bis zum Schluss immer wieder gefragt hat, ist nun wieder ein vordergründiges Thema.
 Und irgendwo in dieser Linie liegen YMOs elektronisches Lächeln, Perfumes Polyrhythmen und Charli XCXs pixelige Tränen.
 
 Die Zukunft klingelt immer in elektronischen Träumen.
@@ -260,9 +260,9 @@ A2. Beispiele hierfür sind Depeche Mode, New Order, Pet Shop Boys und Human Lea
 
 A3. Der experimentelle Geist von YMO und Ryuichi Sakamoto beeinflusste Daft Punk und Radiohead und wurde zum Ursprung der „elektronischen Menschheit“ im KI-Zeitalter.
 
-- **Q4. Was zeichnet den Neo-Synth-Pop der letzten Jahre aus? **
+- **Q4. Was zeichnet den Neo-Synthpop in den letzten Jahren aus? **
 
-A4. Der Punkt ist, dass wir „digitale Verzerrungen“ wie Hyperpop und KI-Musik aktiv einbauen. Beispiele dafür sind Charli XCX und Grimes.
+A4. Der Punkt ist, dass wir „digitale Verzerrungen“ wie Hyperpop und KI-Musik aktiv einbauen. Beispiele hierfür sind Charli XCX und Grimes.
 
 - **Q5. Welches Einsteigeralbum würden Sie Einsteigern empfehlen? **
 

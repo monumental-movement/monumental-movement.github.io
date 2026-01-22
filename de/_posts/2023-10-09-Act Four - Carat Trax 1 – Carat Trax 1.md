@@ -14,7 +14,7 @@ title: Vierter Akt – Carat Trax 1 – Carat Trax 1
 
 
 „Carat Trax 1“ ist
-Dies ist eine EP von Act Four, einer Gruppe bestehend aus Andres Romero und Stefan Wuyts, die 1994 auf dem belgischen Label Circus veröffentlicht wurde.
+Dies ist eine EP der Gruppe Act Four, bestehend aus Andres Romero und Stefan Wuyts, die 1994 auf dem belgischen Label Circus veröffentlicht wurde.
 
 
 #### Trackliste

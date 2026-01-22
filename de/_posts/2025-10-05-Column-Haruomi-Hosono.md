@@ -21,7 +21,7 @@ Text: mmr｜Thema: Von Happy End über YMO bis Ambient – ​​Auf den Spuren 
 
 **Haruomi Hosono** ist eine Musikerin, die seit einem halben Jahrhundert die japanische Popmusik verändert.
 Von den späten 1960er Jahren bis zur Gegenwart hat seine Musik einen einzigartigen Horizont geschaffen, indem sie „die Ära veränderte“, anstatt „die Ära zu definieren“.
-Verschiedene Kulturen, Humor, Nostalgie, Technologie – all das vermischt sich in Hosonos Sound.
+Unterschiedliche Kulturen, Humor, Nostalgie, Technologie – all das vermengt sich in Hosonos Sound.
 
 ---
 
@@ -41,7 +41,7 @@ color: #fff;
 
 #### Meisterwerk: „April Fool“ (1970, Soloprojekt)
 
-Eine Mischung aus Folk, Psychedelic und Pop im Beatles-Stil, die mit Texten auf Japanisch und Englisch eine urbane Sensibilität zum Ausdruck bringt.
+Eine Fusion aus Folk, Psychedelic und Pop im Beatles-Stil, die mit Texten auf Japanisch und Englisch eine urbane Sensibilität zum Ausdruck bringt.
 Dieses Werk wurde hauptsächlich von Hosono komponiert, arrangiert und aufgeführt und dient als Brücke zum Happy End.
 
 #### Historischer Hintergrund
@@ -69,11 +69,11 @@ Mit dem Aufkommen von Folk und GS begann die Suche nach einem neuen Ausdruck nam
 Happy End war die erste Band, die „japanische Rhythmen erkundete, die keine Imitationen englischer Rhythmen waren“.
 
 #### Produktionsumgebung
-Die damaligen Aufnahmen fanden im Vorgängerstudio des Yotsuya Onkyo House statt. Warmer Klang von analoger Bandaufnahme und Vintage-Geräten.
+Die damaligen Aufnahmen fanden im Vorgängerstudio des Yotsuya Onkyo House statt. Warmer Klang von analogen Bandaufnahmen und Vintage-Geräten.
 Obwohl sie von amerikanischen Bands wie The Band und Buffalo Springfield beeinflusst wurden, stellten sie literarische japanische Texte in den Vordergrund.
 
 #### Anekdote
-Hosono, der über die vielen Geräteprobleme während der Aufnahme frustriert war, soll gesagt haben: „Ich möchte einen Ort, an dem ich den Ton etwas besser aufnehmen kann.“
+Hosono, der über die vielen Geräteprobleme während der Aufnahme frustriert war, sagte Berichten zufolge: „Ich möchte einen Ort, an dem ich den Ton etwas besser aufnehmen kann.“
 Danach wurde es für ihn zur Grundlage, seine eigenen Klangideale zu verfolgen.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3vGkvlNZS5Y?si=Ri3xftRPb2Awn9EP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -110,7 +110,7 @@ Diese Erfahrung führte zu seiner späteren Arbeit an der Tropical Trilogy und d
 - „Tin Pan Alley“ (1977)
 
 Blues, R&B und Pop im Beatles-Stil werden auf Japanisch interpretiert, wobei der Schwerpunkt auf Musik liegt, die auf Schulfesten und Live-Musikveranstaltungen in Tokio gespielt wird.
-Hosono war für den Bass und die Komposition verantwortlich und demonstrierte ein frühes urbanes Gespür.
+Hosono war für den Bass und die Komposition verantwortlich und demonstrierte damit ein frühes urbanes Gespür.
 
 #### Historischer Hintergrund
 Die aufkommende Periode des urbanen Pop-Rock in Japan, beeinflusst von den Beatles und den Rolling Stones.
@@ -178,7 +178,7 @@ Ein Workflow, der seiner Zeit voraus war und bei dem das Heimstudio jedes Mitgli
 
 #### Anekdote
 Bei den frühen Live-Auftritten von YMO brachen die Songs aufgrund von Computerstörungen oft mittendrin ab.
-Das Publikum lachte, die Mitglieder auch. Hosono soll gesagt haben: „Maschinen sind genau wie Menschen, und es ist interessant, dass sie Fehler machen.“
+Hosono soll gesagt haben: „Maschinen sind genau wie Menschen, und es ist interessant, dass sie Fehler machen.“
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U-VSdvcJt_s?si=ElLQXkuoXPVMRDII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -191,14 +191,14 @@ Das Publikum lachte, die Mitglieder auch. Hosono soll gesagt haben: „Maschinen
 - „Omni Sight Seeing“ (1989)
 
 „Philharmony“ ist ein zu Hause aufgenommenes Meisterwerk, bei dem Sampling und Synthesizer voll zum Einsatz kommen.
-Andererseits kombiniert „Omni Sight Seeing“ Elemente ethnischer Musik und Umgebungsgeräusche und stellt den Höhepunkt einer „Klangreise“ dar.
+一方『Omni Sight Seeing』では、民族音楽的要素と環境音を融合し、**“音の旅”の集大成**を描いた。
 
 #### Historischer Hintergrund
-Japan während der Blasenwirtschaft. Inmitten einer Kultur des exzessiven Konsums ist Hosonos Musik hingegen auf „Stille“ und „Raum“ ausgerichtet.
+Japan während der Blasenwirtschaft.
 Auf der ganzen Welt befürworteten Brian Eno, Jon Hassell und andere Ambient-Musik, und Hosono folgte diesem Trend.
 
 #### Produktionsumgebung
-Heimstudio in Nishiazabu, Tokio. Fokussierung auf digitales Equipment von Roland und Yamaha,
+Heimstudio in Nishiazabu, Tokio. Roland, Yamaha
 Ein experimenteller Prozess, der „Tonbandfragmente“ und „Umgebungsgeräusche“ miteinander verwebt.
 Das Wohnzimmer wurde als Aufnahmekabine genutzt und sogar die Echos der Möbel wurden Teil des Klangs.
 
@@ -248,12 +248,12 @@ Rekonstruktion der japanischen Radiokultur der Nachkriegszeit und des Swings der
 Sie brachten den Klang einer „nostalgischen Zukunft“ in die Ohren der digitalen Generation.
 
 #### Historischer Hintergrund
-Nach dem Erdbeben und der wirtschaftlichen Stagnation begann die japanische Gesellschaft, nach einem „Lokalen“ und einer „Rückkehr zum Geist“ zu suchen.
+Nach der Erdbebenkatastrophe und der wirtschaftlichen Stagnation begann die japanische Gesellschaft, nach einem „Lokalen“ und einer „Rückkehr zum Geist“ zu suchen.
 Hosono verkörpert diesen Trend durch seine Klänge und sagt: „Nostalgie erleuchtet die Zukunft.“
 
 #### Produktionsumgebung
 „Daisyworld Studio“ ist ein privates Studio in Nakameguro.
-Verwendet Vintage-Mikrofon, Bandecho und Klavier.
+Verwendet Vintage-Mikrofone, Bandechos und Klaviere.
 Während der Aufnahme schaltete er die Klimaanlage aus und konzentrierte sich darauf, „den Klang einzuatmen“.
 
 #### Anekdote

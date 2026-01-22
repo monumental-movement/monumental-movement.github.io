@@ -13,7 +13,7 @@ title: Ellie – Bitches In Babylon Lass mich ich sein
 ---
 
 
-„Hündinnen in Babylon, lass mich ich sein“
+„Bitches In Babylon Let Me Be Me“ ist
 Dies ist Ellies EP, die 1997 von Crue-L veröffentlicht wurde.
 
 Die A-Seite enthält einen Remix von Takeshi Kubota und die B-Seite ist ein Remix von Shaka Zombies Tucchi.

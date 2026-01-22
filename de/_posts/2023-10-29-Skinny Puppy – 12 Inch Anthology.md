@@ -18,7 +18,7 @@ Skinny Puppy ist eine Elektro-Industrial-Band, die 1982 von dem in Kanada gebore
 
 Skinny Puppy gilt als einer der Begründer der Genres Industrial Rock und Electro-Industrial.
 
-Dieses Album ist ein Compilation-Album, das die frühen Singles und B-Seiten der Band enthält.
+Bei diesem Album handelt es sich um ein Compilation-Album, das die frühen Singles und B-Seiten der Band enthält.
 
 #### Trackliste
 ```md

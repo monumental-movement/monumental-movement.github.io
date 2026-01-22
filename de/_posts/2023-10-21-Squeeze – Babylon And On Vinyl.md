@@ -15,7 +15,7 @@ title: Squeeze – Babylon und auf Vinyl
 
 „Babylon and On“ ist ein 1987 veröffentlichtes Album der britischen Band „Squeeze“.
 
-Squeeze war in den 1980er Jahren eine erfolgreiche Band, die für ihre Songs bekannt war, die Elemente von Pop-Rock und New Wave enthielten. Auch das Album „Babylon and On“ erregte Aufmerksamkeit durch seinen unverwechselbaren Pop-Sound und die anspruchsvollen Songs. Insbesondere Songs wie „Hourglass“ gelten als die Signature-Songs von Squeeze.
+Squeeze war in den 1980er Jahren eine erfolgreiche Band, die für ihre Songs bekannt war, die Elemente aus Pop-Rock und New Wave enthielten. Auch das Album „Babylon and On“ erregte Aufmerksamkeit durch seinen unverwechselbaren Pop-Sound und die anspruchsvollen Songs. Insbesondere Songs wie „Hourglass“ gelten als die Signature-Songs von Squeeze.
 
 #### Trackliste
 ```md

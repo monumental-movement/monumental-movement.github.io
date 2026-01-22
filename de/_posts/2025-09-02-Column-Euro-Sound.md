@@ -10,8 +10,9 @@ tags:
 - Euro
 - Euro Beat
 - Euro House
-title: '[Kolumne] Der „Klang des Euro“ ändert sich je nach Landesgrenze: Italien,
-  Deutschland und Schweden: Unterschiede in der Euro-Musik der drei großen Produktionsländer'
+title: '[Spalte] „Euro-Sounds“ ändern sich je nach Landesgrenze: Italien, Deutschland
+  und Schweden: Unterschiede in der Euro-Musik, die von den drei großen Produktionsländern
+  produziert wird'
 ---
 
 
@@ -93,7 +94,7 @@ color: #fff;
 -Schnapp!
 -Culture Beat
 -Echter McCoy
--U96
+- U96
 -Roller
 
 **Kultureller Hintergrund**

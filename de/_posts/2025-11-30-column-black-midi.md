@@ -49,7 +49,7 @@ color: #fff;
 - **Betreuer/Tourteilnehmer** (je nach Saison): Keyboarder, Saxophonist, etc. (z.B. Keyboarder Seth Evans, Saxophonist Kaidi Akinnibi)
 - **Musikstil/Genre**: Er verfügt über eine breite Palette experimenteller Stile, darunter Math Rock, Progressive Rock, Post-Punk, Noise und Avant-Jazz. Gekennzeichnet durch Improvisation, strukturelle Komplexität und Genremischung.
 
-- **Herkunft des Bandnamens**: Sie selbst haben den Namen der Band von „Black Midi“ (eine in „Schwarz“ ausgefüllte Partitur mit vielen MIDI-Noten) übernommen, einem Internetkultur-/Musikgenre, das seinen Ursprung in Japan hat. Eine direkte klangliche Verwandtschaft besteht jedoch nicht, es handelt sich lediglich um einen Namensbezug.
+- **Herkunft des Bandnamens**: Sie selbst haben den Namen der Band von „Black Midi“ (eine in „Schwarz“ ausgefüllte Partitur mit vielen MIDI-Noten) übernommen, einem Internetkultur-/Musikgenre, das seinen Ursprung in Japan hat. Eine direkte klangliche Verwandtschaft besteht jedoch nicht, es handelt sich lediglich um eine Anspielung auf den Namen.
 
 Black Midi begann in der Live-House- und Indie-/Underground-Szene im Süden Londons und hat trotz ihres jungen Alters seit ihrem Debüt im Jahr 2019 schnell an Aufmerksamkeit gewonnen, ausgestattet mit herausragender Technik und Experimentierfreude.
 
@@ -89,13 +89,13 @@ Auf diese Weise erregten Black Midi während ihrer Debütperiode als „heller n
 
 ### 3‑2. Cavalcade, Hellfire – Eine Anspielung auf Expansion und eine Anspielung auf Esoterik
 
-- Nach der Veröffentlichung ihres zweiten Albums *Cavalcade* bemerkten viele Kritiker, dass es „strukturierter und ehrgeiziger“ sei, „ein Labyrinth des Wahnsinns, das mehrere Genres wie Jazz, Progressive Rock und experimentelle Musik verschlingt“ und „es ist selten, dass ein junger Künstler in der Lage ist, sich so stark zu verändern und zu erweitern.“ Besonders gelobt wurde die erweiterte Komposition, die Saxophon, Keyboards, Streicher usw. umfasst, und die Vielfalt des Musicals Entwicklungen.
+- Nach der Veröffentlichung ihres zweiten Albums *Cavalcade* bemerkten viele Kritiker, dass es „strukturierter und ehrgeiziger“ sei, „ein Labyrinth des Wahnsinns, das viele Genres wie Jazz, Progressive Rock und experimentelle Musik verschlang“ und „es ist selten, dass ein junger Künstler in der Lage ist, sich so stark zu verändern und zu erweitern.“ Besonders gelobt wurde die erweiterte Komposition, die Saxophon, Keyboards, Streicher usw. umfasst, und die Vielfalt des Musicals Entwicklungen.
 
 - Andererseits gab es auch Kommentare wie „Der Klang ist zu dicht“, „Das Gleichgewicht zwischen Lärm und Struktur ist schwer zu finden“ und „Es erweckt eher den Eindruck, zu aufwändig zu sein als die Freiheit einer Live-Improvisation.“ Einige Kritiker lobten Cavalcades Opulenz und Struktur, waren jedoch der Meinung, dass die „rohe Gefahr“ und der „Improvisationsimpuls“, die für ihr Debütwerk charakteristisch waren, nachgelassen hatten.
 
-- Darüber hinaus gab es in Bezug auf ihr drittes Album *Hellfire* Komplimente wie „das experimentellste und theatralischste aller Zeiten“, „eine Gruppe von Liedern mit Erzählung, Allegorie und Charakter“, „es wählt den Hörer, aber es hat eine starke Wirkung“ und „ein Kunstwerk, das über den Rahmen von ‚Rock‘ hinausgeht“. Besonders die radikale Struktur und der Sound von Hellfire sowie die Vielschichtigkeit der Musik wurden hoch gelobt gelobt.
+- Darüber hinaus gab es in Bezug auf ihr drittes Album *Hellfire* Komplimente wie „das experimentellste und theatralischste aller Zeiten“, „eine Gruppe von Liedern mit Erzählung, Allegorie und Charakter“, „es wählt den Hörer, aber es hat eine starke Wirkung“ und „ein Kunstwerk, das über den Rahmen von ‚Rock‘ hinausgeht“. Insbesondere die radikale Komposition und der radikale Sound von Hellfire sowie die Vielschichtigkeit der Musik wurden hoch gelobt Lob.
 
-- Allerdings gibt es gleichzeitig auch hartnäckige Beschwerden darüber, dass „die Struktur zu komplex und der Eingang zu eng ist“, „man muss sich mehr anhören als den ersten Eindruck“ und „es ist ein Werk, das die Leute entweder mögen oder hassen“, und einige sagen, dass die Songs von Black Midi schwer zu sagen seien „für jedermann“.
+- Allerdings gibt es gleichzeitig auch hartnäckige Beschwerden darüber, dass „die Struktur zu komplex und der Eingang zu eng ist“, „man muss sich mehr anhören als nur den ersten Eindruck“ und „es ist ein Werk, das die Leute entweder mögen oder hassen“, und einige sagen, dass die Songs von Black Midi schwer zu sagen seien „für jedermann“.
 Mit anderen Worten: Die Wachstumsphase von Black Midi war eine Zeit, in der es seine Techniken, seine Komposition und seine Musikalität erweiterte und seine Radikalität und Raffinesse die Grenzen der Musik verschob, die sich leicht in Vor- und Nachteile aufteilen ließ und die vom Hörer gewählt werden konnte.
 
 ### 3-3. Der Wert von Live-Auftritten und „Performance/Improvisation“ – Live-Alben und Neubewertung
@@ -138,7 +138,7 @@ Bands wie Black Midi sind aufgrund ihres experimentellen Charakters nicht immer 
 
 - Für Hörer, die „Improvisationschaos/Live-ähnliche Intensität“ suchen, kann sich der Studiobau manchmal wie ein „Mangel an Live-Feeling“ oder eine „übermäßige Produktion“ anfühlen. Tatsächlich gab es im Zuge der Weiterentwicklung der Band auch gemischte Kritiken.
 
-- Da es außerdem äußerst technisch ist, wird es von „intelligenten Leuten“, die Wert auf Darbietung und kompositorische Schönheit legen, gut angenommen, aber es ist schwierig für diejenigen, die Sentimentalität, emotionale Bewegung, eingängige Melodien und Vertrautheit suchen. Vor allem die Texte, der Gesang und die „Exzessivität“ und „verzerrte Struktur“ des Liedes neigen dazu, in „Gefällt mir“-/„Gefällt mir nicht“-Meinungen aufgeteilt zu werden.
+- Da es außerdem äußerst technisch ist, wird es von „intelligenten Menschen“, die Wert auf Darbietung und kompositorische Schönheit legen, gut aufgenommen. Für diejenigen, die Sentimentalität, emotionale Bewegung, eingängige Melodien und Vertrautheit suchen, ist es jedoch schwierig. Vor allem die Texte, der Gesang und die „Exzessivität“ und „verzerrte Struktur“ des Liedes neigen dazu, in „Gefällt mir“-/„Gefällt mir nicht“-Meinungen aufgeteilt zu werden.
 
 Dennoch liegt der Wert von Black Midi in den folgenden Punkten.
 

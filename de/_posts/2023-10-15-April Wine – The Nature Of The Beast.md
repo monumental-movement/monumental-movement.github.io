@@ -15,7 +15,7 @@ title: Aprilwein – Die Natur des Biests
 
 „The Nature Of The Beast“ ist ein 1981 von der kanadischen Rockband April Wine veröffentlichtes Album. Dieses Album gilt als eines der Meisterwerke der Band, und insbesondere „Just Between You and Me“ und „Sign of the Gypsy Queen“ waren kommerziell erfolgreich und gelten noch immer als die Signature-Songs von April Wine.
 
-Der Erfolg des Albums erhöhte den internationalen Bekanntheitsgrad der Band und machte sie zu einem wichtigen Bestandteil der kanadischen Rockszene.
+Der Erfolg des Albums steigerte das internationale Profil der Band und etablierte sie als wichtigen Teil der kanadischen Rockszene.
 
 #### Trackliste
 ```md

@@ -51,7 +51,7 @@ Im Amerika der Nachkriegszeit war Bing Crosbys „White Christmas“ (veröffent
 - Universelle Themen, die Sie an Familie und Heimatstadt erinnern
 - Wärme und Glamour mit Arrangement im Big-Band-Stil
 
-Nat King Coles „The Christmas Song“ (1950) enthält Jazzelemente und zeigt eine Versammlung am Kamin und eine Winterszene. „Little Drummer Boy“ (1963) des Harry Simone Choir verwandelte Elemente der Kirchenmusik in Popmusik.
+Nat King Coles „The Christmas Song“ (1950) enthält Jazzelemente und zeigt eine Versammlung am Kamin und eine Winterszene. „Little Drummer Boy“ (1963) des Harry Simone Chors verwandelte Elemente der Kirchenmusik in Popmusik.
 
 #### Repräsentative Songs/Alben
 

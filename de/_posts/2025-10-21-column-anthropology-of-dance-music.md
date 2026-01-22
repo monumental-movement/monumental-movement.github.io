@@ -114,7 +114,7 @@ Es war eine moderne Version eines alten Rituals.
 
 Unmittelbar nach dem Fall der Mauer war Berlin eine rechtsfreie Zone und ein Versuchsfeld für die Freiheit.
 Clubs wie Tresor und Berghain
-In einer Stadt, die auf eine politische und wirtschaftliche Umstrukturierung wartet, wurde eine neue physische Gemeinschaft geschaffen.
+Es schuf eine neue physische Gemeinschaft in einer Stadt, die auf eine politische und wirtschaftliche Umstrukturierung wartete.
 Da ist „Tanzen“ selbst
 Es war ein politischer Akt der Erinnerung und Wiedergeburt.
 
@@ -196,4 +196,4 @@ Mit jedem Schlag bekräftigen wir den Rhythmus des Lebens.
 
 Was ist Tanzen?
 Sobald ich mein individuelles Selbst zerlege,
-Es ist der älteste und neueste Akt der Neusynchronisation mit der Welt.
+Es ist der älteste und neueste Akt der Neusynchronisierung mit der Welt.

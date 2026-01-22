@@ -85,7 +85,7 @@ B --> H["Lydia Lunch / Teenage Jesus and the Jerks"]
 - Die Basslinie ist repetitiv und funky, und das Saxophon wirbelt frei.
 - **Beat-Analyse**:
 - 4/4-Grundton, aber die unkonventionelle Platzierung der Snare und Akzentwechsel vermitteln immer ein Gefühl von Oszillation.
-- Betont die Improvisation und bewahrt gleichzeitig den Sinn für Tanz
+- Betont die Improvisation und behält gleichzeitig das Tanzgefühl bei
 
 ### Lied „Melt Yourself Down“
 
@@ -139,7 +139,7 @@ D --> G["挑発的リズム + ダンス性"]
 - Jody Harris → Raybeats
 - George Scott III → John Cale Tour
 
-Dieser Übergang erfolgte im Zuge des Versuchs, innerhalb der Band ein Gleichgewicht zwischen Improvisation und Kontrolle herzustellen. Unter Beibehaltung seiner Führungsrolle hat James Chance eine Vereinbarung getroffen, die die Individualität jedes Mitglieds maximiert.
+Dieser Übergang erfolgte im Zuge des Versuchs, innerhalb der Band ein Gleichgewicht zwischen Improvisation und Kontrolle herzustellen. Unter Beibehaltung seiner Führungsrolle hat James Chance eine Vereinbarung getroffen, die die Individualität jedes einzelnen Mitglieds maximiert.
 
 <div class="mermaid">
 
@@ -213,7 +213,7 @@ timeline
 
 ## 10. Zusammenfassung
 
-James Chance and the Contortions ist eine Band, die die Verschmelzung von Avantgarde-Musik und Performance auf die Spitze treibt. Der Rhythmus, die Improvisation und der körperliche Ausdruck ihrer Alben und Live-Auftritte wurden zur Grundlage des späteren Dance-Punk und Post-Punk. Obwohl ihre Musik nur von kurzer Dauer war, gilt sie weiterhin als Symbol für Innovation.
+James Chance and the Contortions ist eine Band, die die Verschmelzung von avantgardistischer Musik und Performance auf die Spitze treibt. Der Rhythmus, die Improvisation und der körperliche Ausdruck ihrer Alben und Live-Auftritte wurden zur Grundlage des späteren Dance-Punk und Post-Punk. Obwohl ihre Musik nur von kurzer Dauer war, gilt sie weiterhin als Symbol der Innovation.
 
 
 ---

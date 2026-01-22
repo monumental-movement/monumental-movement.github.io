@@ -68,7 +68,7 @@ Dieses Lied war nicht nur eine Aufführung, sondern ein kulturelles Ritual mit B
 
 ---
 
-### 1.3 Kulturelle Bedeutung früher Live-Auftritte
+### 1.3 Kulturelle Bedeutung früher Live-Shows
 
 * Der Prototyp einer partizipativen Live-Performance basierend auf Call and Response
 * Musikveranstaltungen, die den Zusammenhalt der lokalen Gemeinschaft fördern
@@ -80,7 +80,7 @@ Dieses Lied war nicht nur eine Aufführung, sondern ein kulturelles Ritual mit B
 
 ### 2.1 Erste Europatournee (1970)
 
-1970 starteten Toots and the Maytals ihre erste Europatournee. Im Londoner Carnival Club mischten sich junge Briten, die mit der jamaikanischen Musik nicht vertraut waren, unter das Publikum und die Grenzen zwischen Bühne und Boden verschwanden.
+1970 starteten Toots and the Maytals ihre erste Europatournee. Im Londoner Carnival Club mischten sich junge Briten, die mit jamaikanischen Musik nicht vertraut waren, unter das Publikum und die Grenzen zwischen Bühne und Boden verschwanden.
 
 **Live-Darstellung**:
 
@@ -112,7 +112,7 @@ Die Live-Auftritte in dieser Zeit zeigten nicht nur die Entwicklung von Sound un
 
 ### 3.1 Reggae Sunsplash und großes Festival
 
-In den 1980er Jahren waren Toots and the Maytals Headliner auf Jamaikas größtem Festival, dem Reggae Sunsplash. Sobald das Publikum auf der Bühne ist, beginnt es mitzusingen, zu klatschen und zu tanzen, sodass der gesamte Veranstaltungsort in einen einzigen Rhythmus eingehüllt ist.
+In den 1980er Jahren waren Toots and the Maytals Headliner auf Jamaikas größtem Festival, dem Reggae Sunsplash. Auf der Bühne beginnt das Publikum mitzusingen, zu klatschen und zu tanzen, bis der gesamte Veranstaltungsort in einem Rhythmus versunken ist.
 
 **Anwesenheit der Leistung**:
 
@@ -125,7 +125,7 @@ In den 1980er Jahren waren Toots and the Maytals Headliner auf Jamaikas größte
 
 ### 3.2 Madison Square Garden-Aufführung (1988)
 
-Ein Live-Auftritt im New Yorker Madison Square Garden im Jahr 1988 hatte entscheidenden Einfluss auf die Akzeptanz von Reggae in den USA. Toots spielte eine Call-and-Response-Interpretation von „Funky Kingston“ mit dem Publikum, das aufstand und tanzte und so den gesamten Veranstaltungsort zusammenbrachte.
+Ein Live-Auftritt im New Yorker Madison Square Garden im Jahr 1988 hatte entscheidenden Einfluss auf die Akzeptanz von Reggae in den Vereinigten Staaten. Toots spielte eine Call-and-Response-Interpretation von „Funky Kingston“ mit dem Publikum, das aufstand und tanzte und so den gesamten Veranstaltungsort zusammenbrachte.
 
 Die Live-Aufnahme wurde als „Live at Madison Square Garden“ veröffentlicht und begeisterte Fans auf der ganzen Welt. Dieser Erfolg diente als Gelegenheit, den Status des Reggae in den Vereinigten Staaten zu etablieren.
 
@@ -139,8 +139,8 @@ Die Live-Aufnahme wurde als „Live at Madison Square Garden“ veröffentlicht 
 
 **Live-Darstellung**:
 
-* Das Publikum bildet einen Kreis und hält sich beim Intro zu „Do the Reggay“ an den Händen.
-* Auch wenn Toots‘ Stimme schwächer geworden ist, bleibt seine Ausdruckskraft stark und das Publikum singt den Text mit.
+* Das Publikum bildet einen Kreis und hält sich beim Intro von „Do the Reggay“ an den Händen.
+* Auch wenn Toots' Stimme schwächer geworden ist, bleibt seine Ausdruckskraft stark und das Publikum singt den Text mit.
 
 * Während der MC zwischen den Songs kann er improvisieren, indem er die Songreihenfolge anpasst und dabei die Reaktion des Publikums beobachtet.
 
@@ -148,7 +148,7 @@ Die Live-Aufnahme wurde als „Live at Madison Square Garden“ veröffentlicht 
 
 ### 4.2 50-jähriges Jubiläum Live (2012)
 
-Ungefähr 10.000 Menschen versammelten sich zum 50-jährigen Jubiläumskonzert im Nationalstadion von Kingston. Das gesamte Publikum sang bei Toots‘ Live-Auftritt mit und die Grenzen zwischen Bühne und Publikum verschwanden.
+Ungefähr 10.000 Menschen versammelten sich zum 50-jährigen Jubiläumskonzert im Nationalstadion von Kingston. Das gesamte Publikum sang bei Toots' Live-Auftritt mit und die Grenzen zwischen Bühne und Publikum verschwanden.
 
 **Detaillierte Beschreibung**:
 
@@ -183,7 +183,7 @@ Durch Live-Auftritte in Europa und Amerika verbreitete sich Reggae auf der ganze
 
 | Jahr | Veranstaltungen | Live-Episoden | Kulturelle Bedeutung |
 | ---- | -------------------- | ------------- | --------------- |
-| 1962 | Bildung | Kingston „Chocomo Lounge“ erste Live-Show | Call & Response-Prototyp |
+| 1962 | Bildung | Kingston „Chocomo Lounge“ erste Live-Show | Call & Response-Modell |
 | 1966 | „Do the Reggay“ veröffentlicht | Publikum tanzt im Kreis | Geburt des Wortes „Reggae“ |
 | 1968 | Nationaler Festivalauftritt | Mehrere tausend Menschen | Visualisierung der Entwicklung von Musikgenres |
 | 1970 | Erste Europatournee | Londoner „Carnival Club“ | Pionier der weltweiten Verbreitung |
@@ -213,6 +213,6 @@ D -->|象徴的・歴史的| E[文化継承・追悼ライブ]
 
 ## 8. Zusammenfassung
 
-Die Live-Shows von Toots and the Maytals verkörperten die Entwicklung musikalischer Genres, den Aufbau von Gemeinschaften und den internationalen kulturellen Austausch. Interaktivität mit dem Publikum, Improvisation und historische Kontinuität durch Live-Auftritte sind die Gründe, warum ihre Musik über die Jahrhunderte hinweg weitergegeben wurde. Live-Auftritte sind nicht nur musikalische Darbietungen, sondern kulturelle Rituale, die Reggae selbst verkörpern.
+Die Live-Shows von Toots and the Maytals verkörperten die Entwicklung musikalischer Genres, den Aufbau von Gemeinschaften und den internationalen Kulturaustausch. Interaktivität mit dem Publikum, Improvisation und historische Kontinuität durch Live-Auftritte sind die Gründe, warum ihre Musik über die Jahrhunderte hinweg weitergegeben wurde. Live-Auftritte sind nicht nur musikalische Darbietungen, sondern kulturelle Rituale, die Reggae selbst verkörpern.
 
 ---

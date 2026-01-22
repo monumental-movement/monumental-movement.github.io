@@ -34,7 +34,7 @@ Als Pioniere gelten insbesondere die folgenden zwei Gruppen:
 
 - [**DAF**](https://amzn.to/4ogYOH1)（Deutsch Amerikanische Freundschaft、ドイツ）
 
-Durch den vollen Einsatz kalter, scharfer Elektronik, heftiger Minimalbeats und militaristischer Vocals schufen sie eine neue Art „physischer elektronischer Musik“, die sich von herkömmlichem Pop und Rock unterscheidet.
+Indem sie kalte, scharfe Elektronik, gewalttätige Minimalbeats und militaristische Vocals voll ausnutzten, schufen sie eine neue Art „physischer elektronischer Musik“, die sich von herkömmlichem Pop und Rock unterscheidet.
 
 
 <hr>
@@ -139,7 +139,7 @@ Um es einfach auszudrücken: Der Sound von EBM ist „anorganisch und physisch�
 <hr>
 
 ### Szeneverbreitung und Einfluss
-EBM verbreitete sich von Ende der 1980er bis Anfang der 1990er Jahre rasch in der Clubszene und im Untergrund. Es hatte starken Einfluss auf die elektronische Musikszene in verschiedenen Teilen Europas, insbesondere in Deutschland, Schweden, Österreich und Frankreich.
+EBM verbreitete sich von Ende der 1980er bis Anfang der 1990er Jahre rasch in der Clubszene und im Underground. Es hatte starken Einfluss auf die elektronische Musikszene in verschiedenen Teilen Europas, insbesondere in Deutschland, Schweden, Österreich und Frankreich.
 
 EBM hatte auch großen Einfluss auf die folgenden Genres:
 
@@ -157,7 +157,7 @@ EBM hatte auch großen Einfluss auf die folgenden Genres:
 ### Verbindung zur Clubkultur: EBM als Körpermusik
 EBM ist nicht nur Musik, die man zu Hause hört, sondern hat einen sehr starken Aspekt als „Musik zum Tanzen“. Seit den späten 1980er Jahren hat sich EBM zu einer etablierten Kultur entwickelt, die sich auf bestimmte Nachtclubs und Festivals (z. B. Wave-Gotik-Treffen, Amphi Festival) konzentriert, begleitet von dunkler Kleidung, Leder und Cyberkostümen.
 
-In den 1990er Jahren, als man sie noch als „Old School EBM“ betrachtete, verzweigte sich die Szene wie folgt:
+In den 1990er Jahren, als man damals noch als „Old School EBM“ galt, verzweigte sich die Szene wie folgt:
 
 - Futurepop（[VNV Nation](https://amzn.to/4942pDT)、[Covenant](https://amzn.to/4n5mRYq)など）
 
@@ -205,10 +205,10 @@ Diese Künstler sind von EBM beeinflusst, kombinieren es jedoch mit Elementen wi
 <hr>
 
 ### Ästhetik, die physischen Körper und Elektronik vereint
-Wie der Name schon sagt, handelt es sich bei EBM um „elektronische Körpermusik“. Es war mehr als nur Tanzmusik, es war eine umfassende Ausdrucksform, die politisch, mechanisch, körperlich und rebellisch war.
+Wie der Name schon sagt, handelt es sich bei EBM um „elektronische Körpermusik“. Es war mehr als nur Tanzmusik, es war eine umfassende Ausdrucksform: politisch, mechanisch, körperlich und rebellisch.
 
 Derzeit breitet sich der Einfluss von EBM auf viele Bereiche aus, von Clubkultur und Festivals bis hin zur DIY-Szene, Kunst und Mode.
 
 Und vor allem——
-Die „Wärme“, die diesem anorganischen Rhythmus innewohnt, bewegt den Körper.
+Die „Wärme“, die in diesem anorganischen Rhythmus steckt, bewegt den Körper.
 Das ist der wesentliche Reiz von EBM.

@@ -198,7 +198,7 @@ Anstatt diese Elemente einfach zu verschmelzen, zeichnet es sich jedoch dadurch 
 Durch die Einbeziehung des Produktionsprozesses und visueller Informationen erleben die Zuhörer gleichzeitig Folgendes:
 
 * Musik hören
-* Vorstellung des Produktionsprozesses
+*Vorstellung des Produktionsprozesses
 * Beobachtung der Schöpferpersönlichkeit
 * Visuelle narrative Interpretation
 

@@ -64,7 +64,7 @@ Mitte der 1950er Jahre meldete sich Gaye zur US-Luftwaffe, wurde aber aufgrund s
 Schließlich zog er in die Gegend von Detroit/Motown und ergriff 1961 die Gelegenheit, sein Debüt als Solosänger zu geben.
 
 ### Begegnung mit Motown
-Eine zufällige Begegnung mit Berry Gordy, dem Gründer des Motown-Labels, ebnete ihm den Weg, Solosänger zu werden. Nach seinem Debüt, als er sich an Motowns System der Massenproduktion von Hits für junge Leute anpasste, entwickelte er ein Verlangen nach „Liedern für Erwachsene“ und „einer Stimme, die Bände spricht“.
+Eine Begegnung mit Berry Gordy, dem Gründer des Motown-Labels, ebnete ihm den Weg, Solosänger zu werden. Nach seinem Debüt, als er sich an Motowns System der Massenproduktion von Hits für junge Leute anpasste, entwickelte er ein Verlangen nach „Liedern für Erwachsene“ und „einer Stimme, die Bände spricht“.
 Während dieser Zeit wurde ihm allmählich klar, dass er vom „einfachen Singen“ zum „Sprechen durch Lieder“ übergehen konnte.
 
 ---

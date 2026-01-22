@@ -17,7 +17,7 @@ title: '[Kolumne] Wie man den Charme destruktiver Künstler wahrnimmt – Zwisch
 ## Prolog: Ein Herz, das sich zur Tragödie hingezogen fühlt
 
 
-Text: mmr｜Thema: Genie und Zerstörung, Schöpfung und Selbstzerstörung. Von Kurt Cobain über Amy Winehouse bis Yukio Mishima. Entdecken Sie aus der Perspektive der Psychologie, Kulturgeschichte und Hirnforschung, warum Menschen sich zu destruktiven Künstlern hingezogen fühlen.
+Text: mmr｜Thema: Genie und Zerstörung, Schöpfung und Selbstzerstörung. Von Kurt Cobain über Amy Winehouse bis Yukio Mishima. Entdecken Sie aus psychologischer, kulturgeschichtlicher und gehirnwissenschaftlicher Sicht, warum sich Menschen zu destruktiven Künstlern hingezogen fühlen.
 
 
 Warum fasziniert uns das Bild eines Künstlers, der auf die Zerstörung zusteuert, so sehr?
@@ -82,7 +82,7 @@ Die Menschen sehen im „zerbröckelnden Genie“ ihre eigenen Schatten.
 
 ---
 
-## Kapitel 4: Neurowissenschaftliche Perspektive – Freude an „Erhabenem“ und „Gefährlichem“
+## Kapitel 4: Neurowissenschaftliche Perspektive – Freude am „Erhabenen“ und „Gefährlichen“
 
 Das menschliche Gehirn hat eine Struktur, die „Freude“ an Angst und Traurigkeit findet.
 In dem Moment, in dem die Amygdala und der Nucleus accumbens gleichzeitig aktiviert werden, spüren wir die Schönheit der Tragödie.
@@ -111,7 +111,7 @@ Fans „verherrlichen“ unbewusst den Schmerz des Künstlers,
 Auch nach dem Tod wird das Leiden „vergöttlicht“.
 
 Empathie soll jedoch bedeuten, „ihren Schmerz zu verstehen und sich ihre Genesung zu wünschen“.
-Was können wir daraus lernen und wie können wir heilen, anstatt uns von der Zerstörung berauschen zu lassen?
+Was können wir daraus lernen, anstatt uns von der Zerstörung berauschen zu lassen, und wie können wir heilen?
 Das ist die neue Ethik für die Akzeptanz von Kunst im 21. Jahrhundert.
 
 ---

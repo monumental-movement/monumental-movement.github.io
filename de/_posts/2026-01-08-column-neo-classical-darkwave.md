@@ -74,14 +74,14 @@ In diesem Genre werden neben Dur- und Moll-Tonarten häufig auch Kirchentonarten
 
 ### Rhythmus und Tempo
 
-Das Tempo ist überwiegend mittel bis niedrig und selbst wenn der Rhythmus klar ist, wird die treibende Kraft unterdrückt. Der sich wiederholende Rhythmus betont den rituellen Charakter und dient dazu, das Zeitgefühl zu verschleiern.
+Das Tempo ist meist mittel bis niedrig und selbst wenn der Rhythmus klar ist, wird die treibende Kraft unterdrückt. Der sich wiederholende Rhythmus betont den rituellen Charakter und dient dazu, das Zeitgefühl zu verschleiern.
 
 ### Organisation
 
 Dabei spielen Streichinstrumente, Klavier, Chor und Schlaginstrumente eine zentrale Rolle, häufig wird auch die Elektronik unterstützend eingesetzt. Der Nachhall und die räumliche Anordnung von Live-Instrumenten sind wichtige Elemente der akustischen Gestaltung.
 
 
-> Die musikalische Struktur ist einfach, der Schwerpunkt liegt auf Klangfarbe und räumlicher Verarbeitung.
+> Die musikalische Struktur ist prägnant, der Schwerpunkt liegt auf Klangfarbe und räumlicher Verarbeitung.
 
 ---
 
@@ -126,7 +126,7 @@ Gesang spielt oft eher eine klangliche als eine sprachliche Bedeutung, und die L
 
 ---
 
-Dead Can Dance überschritt die Grenzen von Volksmusik, religiöser Musik und Ambient-Musik und hatte großen Einfluss auf den nachfolgenden neoklassischen Darkwave. Obwohl ihre Werke schwer einem bestimmten Genre zuzuordnen sind, werden sie dennoch in Bezug auf Klangästhetik und Spiritualität als Referenz herangezogen.
+Dead Can Dance überschritt die Grenzen von Volksmusik, religiöser Musik und Ambient-Musik und hatte großen Einfluss auf den nachfolgenden neoklassischen Darkwave. Auch wenn ihre Werke schwer einem bestimmten Genre zuzuordnen sind, werden sie dennoch in Bezug auf Klangästhetik und Spiritualität als Referenz herangezogen.
 
 ---
 

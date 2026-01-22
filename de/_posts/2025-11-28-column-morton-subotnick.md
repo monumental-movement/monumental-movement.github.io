@@ -23,14 +23,14 @@ title: '[Kolumne] Morton Subotnick: Ein Innovator der elektronischen Musik und d
 
 
 
-# **Prolog: Wer ist Morton Subotnick**
+# **序章：Morton Subotnick とは何者か**
 
 Text: mmr｜Thema: Über die „kontrollierbare Zukunft“, die von Innovatoren der elektronischen Musik entwickelt wurde
 
 Morton Subotnick (1933–) ist ein amerikanischer zeitgenössischer Musiker und Komponist elektronischer Musik und weithin bekannt als die Person, die mit Silver Apples of the Moon (1967) die weltweit erste kommerzielle Schallplatte veröffentlichte, die vollständig mit Synthesizern produziert wurde.
 Dieses Werk erschien bei Nonesuch Records, einem auf klassische Musik spezialisierten Label, und war insofern bahnbrechend, als es elektronische Klänge in einer damals noch nie dagewesenen Art und Weise als „Werk“ präsentierte.
 
-Subotnicks Innovationen gehen über das bloße Komponieren elektronischer Musik hinaus; Er ist auch als Schlüsselfigur bei der Entwicklung von Buchlas Westküsten-Synthesizer wichtig und hat die moderne modulare Synthesizer-Kultur nachhaltig beeinflusst.
+Subotnicks Innovationen gehen über das bloße Komponieren elektronischer Musik hinaus. Er ist auch als Schlüsselfigur bei der Entwicklung von Buchlas Westküsten-Synthesizer wichtig und hat die moderne modulare Synthesizer-Kultur nachhaltig beeinflusst.
 
 ---
 
@@ -181,7 +181,7 @@ Im Folgenden finden Sie eine Zusammenfassung der Hauptwerke Subotnicks aus struk
 | 1933 | Geboren in Los Angeles |
 | 1950er Jahre | Aktiv als Klarinettist, vertieftes Interesse an Avantgarde-Musik |
 | 1962 | Gründung des San Francisco Tape Music Center mit Oliveros, Sender und anderen |
-| 1963–65 | Beteiligt an der Entwicklung der Buchla-Serie 100 mit Don Buchla |
+| 1963–65 | Beteiligt an der Entwicklung der Buchla Series 100 mit Don Buchla |
 | 1967 | „Silberne Äpfel des Mondes“ angekündigt |
 | 1968 | „The Wild Bull“ angekündigt |
 | 1970er Jahre | Eine Reihe von Arbeiten mit dem Ghost Electronics-System |

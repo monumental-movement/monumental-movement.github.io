@@ -21,7 +21,7 @@ title: Das Aufnehmen von Hochenergie (Hi-NRG) funktioniert
 ### E-Rotic – „Willy Use A Billy... Boy“
 <a href="https://jp.mercari.com/item/m74466346239?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Willy%20Use%20A%20Billy%20Boy.webp"></a>
 
-Sexy und eingängiger Euro-Pop aus Deutschland. Als Interpretation von Hi-NRG aus den 90ern ist es ein äußerst süchtig machender Titel, den man unbedingt mitsummen möchte.
+Sexy und eingängiger Euro-Pop aus Deutschland. Als Interpretation von Hi-NRG aus den 90ern ist dies ein höchst süchtig machender Track, der Lust macht, ihn mitzusummen.
 
 #### Trackliste
 ```md
@@ -118,7 +118,7 @@ B3. Boogie Dancer (Verona Beat)
 ### Dave Hammond – „Afrika“
 <a href="https://jp.mercari.com/item/m93036918375?afid=6142608987"><img src="../assets/images/Dave%20Hammond%20%E2%80%93%20Africa.webp"></a>
 
-Ein in Europa entwickelter Stil der Italo-Disco, der sich am Eurobeat orientiert. Wenn Sie den Raum mit Tanzelementen aufwärmen möchten.
+Italo-Disco im europäischen Stil mit Eurobeat-Stil. Wenn Sie den Raum mit Tanzelementen aufwärmen möchten.
 
 #### Trackliste
 ```md

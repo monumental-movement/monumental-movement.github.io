@@ -29,9 +29,9 @@ Shibuya-kei-Sound ist eine japanische Musikbewegung, die sich Anfang der 1990er 
 ## 1980er Jahre – Eve (Keimung im Shibuya-Stil)
 ### Historischer Hintergrund
 – In den 1980er Jahren begannen japanischer City-Pop und New Wave sowohl im Inland als auch international Anerkennung zu finden.
-- Importierte Plattenläden wie „CISCO“ und „HMV Shibuya“ brachten die neuesten Klänge aus Europa und den Vereinigten Staaten zusammen und förderten die musikalischen Fähigkeiten junger Menschen.
+- Importierte Plattenläden wie „CISCO“ und „HMV Shibuya“ brachten die neuesten Sounds aus Europa und den Vereinigten Staaten zusammen und förderten die musikalischen Fähigkeiten junger Menschen.
 
-### Repräsentative Meisterwerke
+### Repräsentatives Meisterwerk
 - [大滝詠一 — *A LONG VACATION* (1981)](https://amzn.to/4nLyN2p)  
 - [山下達郎 — *FOR YOU* (1982)](https://amzn.to/4neQyHk)  
 - [Pizzicato Five初期作（インディー期, Late 1980s）](https://amzn.to/3W6W1UE)  
@@ -78,7 +78,7 @@ color: #fff;
 - Es wurde auf „Oricon“ und „MTV Japan“ gezeigt und wurde ein großer Hit.
 - Links zu Clubszenen im Ausland.
 
-### Repräsentative Meisterwerke
+### Repräsentatives Meisterwerk
 - [Pizzicato Five — *Made in USA* (1994)](https://amzn.to/3K92U5t)
 - [Flipper’s Guitar — *Camera Talk* (1990)](https://amzn.to/3W1ZP9P)  
 - [Cornelius — *Fantasma* (1997)](https://amzn.to/4nJwCfx)  
@@ -95,7 +95,7 @@ color: #fff;
 | Süße Soul-Revue | Pizzicato Five | Eine wunderschöne Zahl, die Shibuya Kei repräsentiert |
 | Baby-Liebe-Kind | Pizzicato Five | Berühmte Lieder, die im Ausland beliebt sind |
 | Kameragespräch | Flippers Gitarre | Fusion aus Pop und Indie |
-| Jung, lebendig, verliebt | Flippers Gitarre | Jugendlicher und westlicher Musik orientiert |
+| Jung, lebendig, verliebt | Flippers Gitarre | Jugendlich und westlich musikorientiert |
 | Perfekter Strahl | Kornelius | Experimentalität und Pop-Feeling |
 | Wenn Sie hier sind | Kornelius | Futuristisches Klangbild |
 | Starke Gefühle, starke Liebe | Kenji Ozawa | Die perfekte Form des Shibuya-kei-Pop |
@@ -110,7 +110,7 @@ color: #fff;
 - Während Shibuya-kei kommerziell ausstarb, beeinflusste es den Elektropop von Capsule und Yasutaka Nakata.
 - Die Entwicklung der Clubmusik, auch bekannt als Neo-Shibuya-kei, wird zunehmen.
 
-### Repräsentative Meisterwerke
+### Repräsentatives Meisterwerk
 - [Capsule — *More! More! More!* (2008)](https://amzn.to/47VqQDd)  
 - [Fantastic Plastic Machine — *beautiful.* (2001)](https://amzn.to/4msAFMo)  
 - [小沢健二 — *Eclectic* (2002)](https://amzn.to/4mtfA4k)  
@@ -142,7 +142,7 @@ color: #fff;
 - Es wurde von der Internet-Generation wiederentdeckt und wurde im Ausland als „Shibuya-kei“ zu einem Genre.
 - Wiederbelebung parallel zur Neubewertung von City Pop.
 
-### Repräsentative Meisterwerke
+### Repräsentatives Meisterwerk
 - [Cornelius — *Mellow Waves* (2017)](https://amzn.to/4gzkWK2)  
 - [Towa Tei — *EMO* (2017)](https://amzn.to/3VxjdeJ)  
 - [cero — *Obscure Ride* (2015)](https://amzn.to/47W866p)  
@@ -174,7 +174,7 @@ color: #fff;
 - Der Einfluss von „Shibuya-kei“ erregt im Kontext der K-POP- und City-Pop-Neubewertung erneut Aufmerksamkeit.
 - Erweitern Sie die Hörerbasis im Ausland durch YouTube, Spotify, TikTok usw.
 
-### Repräsentative Meisterwerke
+### Repräsentatives Meisterwerk
 - [Cornelius — *Dream in Dream* (2023)](https://amzn.to/46kD7zK)  
 - [cero — *e o* (2021)](https://amzn.to/46LD7sJ)  
 - [Various Artists — ネオ渋谷系コンピレーション *MAGICAL CONNECTION 2020* (2020s)](https://amzn.to/47S23zT)  
@@ -196,7 +196,7 @@ color: #fff;
 | Leuchtreklame | Metafünf | Zukunftsvision von Clubs und Shibuya |
 | Ryusei | null | organischer Groove |
 | Zukunft Vergangenheit | Kornelius | Generationenübergreifende Experimente |
-| Groove liegt in dir | Towa Tei | Die Grenze zwischen Tanz und Kunst |
+| Groove ist in dir | Towa Tei | Die Grenze zwischen Tanz und Kunst |
 | Nostalgie | Junger Indie | Aufkeimender Neo-Shibuya-Stil |
 
 ---

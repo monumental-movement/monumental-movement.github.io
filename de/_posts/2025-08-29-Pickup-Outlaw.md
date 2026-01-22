@@ -170,7 +170,7 @@ Format: Vinyl
 
 Genre: Acid / Techno / Trance
 
-Zusammenfassung: 1992 erschienen, eine großartige Zusammenstellung aus Tresors frühen Jahren. Ein historisches Stück, das die „Echos der Familie“ verkörpert.
+Zusammenfassung: 1992 erschienen, eine großartige Zusammenstellung aus den Anfängen von Tresor. Ein historisches Stück, das die „Echos der Familie“ verkörpert.
 
 
 Outlaw-Feeling: Erinnerungen an urbane Gemeinschaftsimprovisationen und dunkle Kämpfe, die die Entstehung der Szene prägen.

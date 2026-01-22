@@ -21,7 +21,7 @@ title: '[Kolumne] Charlotte de Witte: Königin der Techno-Welt'
 Text: mmr | Thema: Entdecken Sie, wie Charlotte de Witte ihre „Techno-Welt“ durch ihre Diskographie, die Geschichte ihrer Festivalauftritte, Liedkommentare, Chronologie und Illustrationen aufgebaut hat.
 
 Die belgische DJ/Produzentin **Charlotte de Witte** gilt derzeit als eine der wichtigsten Figuren der Techno-Welt.
-Ihr tiefer, minimalistischer Sound, ihre energiegeladenen Live-Sets und ihre historischen Auftritte auf großen Festivals haben ihr den Spitznamen „Techno Queen“ eingebracht.
+Ihr tiefer, minimalistischer Sound, ihre energiegeladenen Live-Sets und historischen Auftritte auf großen Festivals haben ihr den Spitznamen „Techno Queen“ eingebracht.
 
 Ihre Karriere ist eine epische Geschichte, von bescheidenen Anfängen in Underground-Clubs in ihrer Heimatstadt Gent bis hin zu den Hauptbühnen internationaler Festivals wie Tomorrowland und Movement Festival.
 
@@ -60,7 +60,7 @@ Außerdem veröffentlichte er eine EP und veröffentlichte frühe Werke auf Labe
 
 ## Unter seinem richtigen Namen arbeiten und sich dem Techno zuwenden (2015–2018)
 
-Im **2015** gab Charlotte den Namen „Raving George“ auf und begann unter ihrem richtigen Namen **Charlotte de Witte** aufzutreten.
+Im **2015** gab Charlotte den Namen „Raving George“ auf und begann unter ihrem richtigen Namen **Charlotte de Witte** zu arbeiten.
 In dieser Zeit nahm ihr Sound einen dunkleren, minimalistischeren Stil an, der Acid-Techno- und Industrial-Elemente enthielt.
 
 Zu den repräsentativen Werken gehören:
@@ -176,7 +176,7 @@ Er hat auch experimentelle Werke wie „The Heads That Know (feat. Comma Dee)“
 | 2019 | KNTXT gegründet |
 | 2022 | Abschluss der Hauptbühne von Tomorrowland |
 | 2023 | Abschluss des Bewegungsfestivals |
-| 2024 | KNTXT-Store eröffnet, Époque-Label gegründet |
+| 2024 | KNTXT-Store eröffnet, Label Époque gegründet |
 | 2025,4 | Single „The Realm“ angekündigt |
 | 2025,7 | Zeitplan für den Eröffnungs- und Abschlussauftritt von Tomorrowland |
 | 2025.11 | Debütalbum „Charlotte de Witte“ veröffentlicht |

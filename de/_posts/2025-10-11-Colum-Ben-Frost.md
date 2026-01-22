@@ -56,7 +56,7 @@ Es entstand eine spannungsgeladene Spannung zwischen klassischer Struktur und el
 „**By the Throat**“ aus dem Jahr 2009 ist ein wahrhaft symbolisches Werk.
 Hier knurren, atmen und greifen Geräusche an wie Tiere.
 Feldaufnahmen von Wolfsgeheul, Atemgeräuschen und tieffrequentem Knurren.
-Dabei handelt es sich nicht um Umgebungsgeräusche, sondern um „Angriffsgeräusche“.
+Hierbei handelt es sich nicht um Umgebungsgeräusche, sondern um „Angriffsgeräusche“.
 
 ---
 
@@ -107,7 +107,7 @@ Was stattdessen existiert, ist der „Druck“ des Raumes und die „Dauer“ de
 Ben Frost fungiert im Video als „Soundarchitekt“.
 
 Der Bass, der in der Dunkelheit widerhallt, ist wie der Herzschlag der Stadt,
-Es weckt die „Erinnerung an die Stille“, die der Mensch in der Zivilisation verloren hat.
+Es weckt die „Erinnerung an die Stille“, die die Menschen in der Zivilisation verloren haben.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dFs4yX4V7NQ?si=5uis91ei2caQPCcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

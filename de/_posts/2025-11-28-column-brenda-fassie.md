@@ -60,7 +60,7 @@ color: #fff;
 | Jahr | Veranstaltungen |
 | --------: | ----------------------------------------------------------------------------------- |
 | 1964 | Geboren am 3. November in Langua. Er wuchs als jüngstes von vielen Geschwistern auf.                                      |
-| Kindheit | Er wuchs in einem Umfeld auf, in dem seine Mutter sich mit Musik beschäftigte, und erlangte schon früh Berühmtheit, indem er vor Kirchen und bei Touristen sang.                               |
+|       幼少期 | 母親が音楽に携わる環境で育ち、教会や観光客相手に歌うことで早くから頭角を現す. |
 | Um 1981 | Habe mich schon in jungen Jahren ernsthaft mit Musik beschäftigt. Sammelte Erfahrungen in Gesangsgruppen und lokalen Bands.                                   |
 | 1983 | Erlangte landesweite Aufmerksamkeit mit Songs wie „Weekend Special“.                                      |
 | 1985 | Gebären Sie einen Sohn. Seitdem hat sie ihr Leben als Mutter und Kind mit ihrer Musikkarriere in Einklang gebracht.                                            |
@@ -77,7 +77,7 @@ color: #fff;
 
 # 2. Kindheit und Township-Landschaft
 
-Brenda Fassie ist in einem südafrikanischen Township (Ranga) geboren und aufgewachsen. Die Gemeinde war ein Produkt des städtischen Raums der Apartheid-Ära und ein Ort institutioneller Segregation und wirtschaftlicher Unterdrückung. Das Leben, die Religion, die gemeinschaftlichen Netzwerke und die Unterhaltung der dort lebenden Menschen bildeten eine einzigartige Kultur, und Musik war ein Ausdrucksmittel, das tief im täglichen Leben verwurzelt war.
+Brenda Fassie ist in einem südafrikanischen Township (Ranga) geboren und aufgewachsen. Die Gemeinde war ein Produkt des städtischen Raums der Apartheid-Ära und ein Ort institutioneller Segregation und wirtschaftlicher Unterdrückung. Das Leben, die Religion, die gemeinschaftlichen Netzwerke und die Unterhaltung der dort lebenden Menschen stellten eine einzigartige Kultur dar, und Musik war ein Ausdrucksmittel, das tief im täglichen Leben verwurzelt war.
 
 Da sie mit einer Mutter aufwuchs, die gerne Klavier spielte und sang, und schon früh ihr Taschengeld mit dem Singen in der Kirche und vor Touristen verdiente, erhielt sie eine frühe praktische Ausbildung, die den Grundstein für ihre Auftrittsfähigkeiten legte. Dieses Umfeld führte direkt zu späterer musikalischer Vielfalt (Gesang, der Englisch, Zulu und Xhosa mischte, Rhythmusgefühl und Improvisation).
 
@@ -93,7 +93,7 @@ Anschließend begann er seine Karriere als Leadsänger von Brenda and the Big Du
 
 # 4. Nationaler Erfolg und Meisterwerke (1983–1990)
 
-In den 1980er Jahren veröffentlichte sie eine Reihe von Singles und Alben und wurde zu einer führenden Figur des Black Pop in Südafrika. Ihr Ausdruck war reich an Bühnenkostümen, Choreografien und Darbietungen, die das Publikum einbezogen, und sie erfreute sich großer Beliebtheit in Bezug auf Medien und Konzertmobilisierung.
+In den 1980er Jahren veröffentlichte sie eine Reihe von Singles und Alben und wurde zu einer führenden Figur des Black Pop in Südafrika. Ihr Ausdruck war reich an Bühnenkostümen, Choreografien und Darbietungen, die das Publikum einbezogen, und sie war in Bezug auf die Medien- und Konzertmobilisierung sehr beliebt.
 
 Einige der repräsentativen Lieder
 
@@ -125,7 +125,7 @@ Brendas Texte vermischten sich oft mit dem Township-Leben, den Prüfungen der sc
 
 Seit 1996 konzentriert sie ihre Bemühungen auf die Musikproduktion und erzielte mit mehreren Alben kommerziellen Erfolg. Vor allem Werke wie „Memeza“ und „Nomakanjani“ waren große Erfolge und festigten ihren Status Ende der 1990er Jahre.
 
-In ihren Werken aus dieser Zeit kann man hören, wie Brendas stimmlicher Ausdruck reifer wird, auch wenn sie Kwaito- und Tanzbeats einbezieht. Ihr Charisma auf der Bühne, ihre geschickte Einbindung des Publikums und ihre produktionstechnische Raffinesse bei den Aufnahmen brachten ihnen erneut breite Unterstützung ein.
+In Werken aus dieser Zeit kann man hören, wie Brendas stimmlicher Ausdruck reifer wird, auch wenn sie Kwaito- und Tanzbeats einbezieht. Ihr Charisma auf der Bühne, die geschickte Einbindung des Publikums und ihre produktionstechnische Raffinesse bei den Aufnahmen brachten ihnen erneut breite Unterstützung ein.
 
 ---
 
@@ -139,9 +139,9 @@ Bühnenkostüme, Mimik und Aufführungsregie sind ebenfalls Teil ihrer Identitä
 
 # 9. Vor und nach Tod und Vermächtnis
 
-Im April 2004 brach Brenda zu Hause zusammen und wurde ins Krankenhaus gebracht. Nach mehrtägiger Behandlung verstarb er am 9. Mai. Es gab mehrere Berichte über die Todesursache, aber der Schlussbericht besagte, dass Asthmaanfälle und Komplikationen eine Rolle spielten.
+Im April 2004 brach Brenda zu Hause zusammen und wurde ins Krankenhaus gebracht. Nach mehrtägiger Behandlung verstarb er am 9. Mai. Es gab mehrere Berichte über die Todesursache, aber der Schlussbericht lautete, dass Asthmaanfälle und Komplikationen dazu beigetragen hätten.
 
-Ihr Tod löste in der südafrikanischen Musikwelt einen tiefen Schock aus und erntete zahlreiche Ehrungen aus dem In- und Ausland. Eine posthume Best-Of-Zusammenstellung und eine retrospektive Zusammenstellung bewahren Brendas Musik für Generationen von Künstlern und Hörern. In einigen Fällen führen ihre Söhne und Musikschüler ihr Erbe fort.
+Ihr Tod löste einen tiefen Schock in der südafrikanischen Musikwelt aus und erntete zahlreiche Ehrungen aus dem In- und Ausland. Eine posthume Best-Of-Zusammenstellung und eine retrospektive Zusammenstellung bewahren Brendas Musik für Generationen von Künstlern und Hörern. In einigen Fällen führen ihre Söhne und Musikschüler ihr Erbe fort.
 
 ---
 

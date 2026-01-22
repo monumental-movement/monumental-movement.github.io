@@ -17,7 +17,7 @@ title: '[Kolumne] Nate Dogg: Die Flugbahn des „King of Hooks“, der G-Funk sy
 
 ## Einführung: Die „Stimme“ im Zentrum von G-Funk
 
-Text: mmr｜Thema: Die Stimme, der Groove und das Erbe im Herzen des Westküsten-Hip-Hops
+Text: mmr｜Thema: Die Stimme, der Groove und das Erbe im Herzen des Westküsten-Hip-Hop
 
 Es gibt eine Reihe von Elementen, die den amerikanischen Westküsten-Hip-Hop in den 1990er Jahren charakterisieren.
 Dr. Dre-Produktion, P-Funk-inspirierte Synthesizer-Wellen, dicke Basslinien und sanfte Sanftheit.
@@ -58,7 +58,7 @@ Obwohl ihre Stimme linear und wenig Vibrato war, hatte sie eine tiefe Resonanz u
 
 ### Beitritt zu den Marines
 
-Nach seinem High-School-Abschluss meldete sich Nate Dogg zum US Marine Corps und wurde nach etwa drei Jahren Dienst entlassen.
+Nach seinem High-School-Abschluss meldete sich Nate Dogg zum US Marine Corps und wurde nach etwa dreijähriger Dienstzeit entlassen.
 Diese Erfahrung veränderte seine Lebensumstände, aber es war auch eine Zeit, die ihn im Wesentlichen dazu zwang, nach Long Beach und zur Musik zurückzukehren.
 
 ---
@@ -70,14 +70,14 @@ Das ist **213 (zwei eins drei)**.
 Der Name leitet sich von der Vorwahl 213 von Long Beach ab und spiegelt deutlich ihre lokale Identität wider.
 
 Lokale Aufnahmen aus dieser Zeit zeigten bereits, dass Nate Doggs Gesangsstimme sich von den Rappern um ihn herum abhob.
-Seine Stimme erinnerte an die Straße, und indem er die Melodie sang, verlieh er dem gesamten Lied ein angenehm schwebendes Gefühl.
+Seine Stimme klang wie eine Straße, und indem er die Melodie sang, verlieh er dem gesamten Lied ein angenehm schwebendes Gefühl.
 Dieser Stil sollte später zum Kern der Gastspielkultur werden.
 
 ---
 
 ## 3. Teilnahme und Durchbruch in Dr. Dres „The Chronic“
 
-Der entscheidende Wendepunkt in Nate Doggs Aufstieg zu nationalem Ruhm war **Dr. Dre's „The Chronic“** aus dem Jahr 1992.
+Der entscheidende Wendepunkt in Nate Doggs Aufstieg zu nationaler Berühmtheit war **Dr. Dre's „The Chronic“** aus dem Jahr 1992.
 Nachdem Warren G sein Talent mit Dre geteilt hatte, wirkte Nate Dogg an mehreren Songs des Albums mit.
 
 Seine Singstimme passt perfekt zu den schweren Bässen und Synthesizern von G-Funk und verleiht ihm einen anderen Charme als Rap.
@@ -240,7 +240,7 @@ Die Beziehung zwischen G-Funk und der Stimme von Nate Dogg ist auch heute noch s
 
 ### ■ Ein seltenes Beispiel für die Definition der „Stimmtextur“ eines bestimmten Genres
 
-Ohne seine Stimme wäre das goldene Zeitalter des Westküsten-Hip-Hop nicht denkbar.
+Ohne seine Stimme wäre das goldene Zeitalter des Westküsten-Hip-Hops nicht denkbar.
 
 ---
 

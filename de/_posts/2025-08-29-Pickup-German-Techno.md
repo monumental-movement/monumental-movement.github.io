@@ -23,7 +23,7 @@ title: Aufgreifen deutscher Techno-Werke
 <a href="https://jp.mercari.com/item/m32845023734?afid=6142608987"><img src="../assets/images/Tresor%20Compilation%20Vol.%207.webp"></a>
 
 
-Attraktiver Punkt: Eine Zusammenstellung des renommierten deutschen Labels Tresor mit einer luxuriösen Auswahl an Titeln einiger der größten Namen des Techno, darunter Sven Väth, Maurizio, Ben Sims, James Ruskin und Pacou. Dies ist ein Stück, das es Ihnen ermöglicht, den Charme des harten, minimalistischen und innovativen Techno, der Berlin-Deutschland symbolisiert, voll und ganz zu erleben.
+Attraktiver Punkt: Eine Zusammenstellung des renommierten deutschen Labels Tresor mit einer luxuriösen Auswahl an Titeln einiger der größten Namen des Techno, darunter Sven Väth, Maurizio, Ben Sims, James Ruskin und Pacou. Dies ist ein Stück, das es Ihnen ermöglicht, den Charme des harten, minimalistischen und innovativen Techno, der Berlin – Deutschland, symbolisiert, voll und ganz zu erleben.
 
 
 #### Trackliste
@@ -58,7 +58,7 @@ Attraktiver Punkt: Eine Zusammenstellung des renommierten deutschen Labels Treso
 
 
 
-Attraktiver Punkt: Ein Meisterwerk von Zombie Nation, einem Projekt des deutschen DJ/Produzenten Splank! (Florian Senfter). Insbesondere wird die A-Seite „Souls At Zero (Original Album Version)“ mit einer Remix-B-Seite von Sven Väth gepaart. Der Remix von Sven Väth hat einen kraftvollen Abgang, der die Härte und Dramatik des deutschen Techno vereint.
+Attraktiver Punkt: Ein Meisterwerk von Zombie Nation, einem Projekt des deutschen DJ/Produzenten Splank! (Florian Senfter). Insbesondere wird die A-Seite „Souls At Zero (Original Album Version)“ mit einer Remix-B-Seite von Sven Väth gepaart. Der Remix von Sven Väth hat einen kraftvollen Abgang, der die Tiefe und Dramatik des deutschen Techno vereint.
 
 
 #### Trackliste
@@ -83,7 +83,7 @@ B. Souls At Zero (Sven Väth Remix)
 <a href="https://jp.mercari.com/item/m39474275698?afid=6142608987"><img src="../assets/images/Cygnus%20X%20%E2%80%93%20The%20Orange%20Theme%20(The%20Remixes).webp"></a>
 
 
-Attraktiver Punkt: Ein Remix-Album des energiegeladenen und mitreißenden Trance-Techno-Meisterwerks „The Orange Theme“ der deutschen Band Cygnus
+Attraktiver Punkt: Ein Remix des energiegeladenen und mitreißenden Trance-Techno-Meisterwerks „The Orange Theme“ der deutschen Band Cygnus
 
 
 #### Trackliste
@@ -173,7 +173,7 @@ B1. When I Rock (Santos Remix)
 
 
 
-### Böse Zuhälter – Geben Sie es
+### Schlechte Zuhälter – Geben Sie es
 <a href="https://jp.mercari.com/item/m71741554299?afid=6142608987"><img src="../assets/images/Bad%20Pimps%20%E2%80%93%20Give%20It.webp"></a>
 
 
@@ -232,7 +232,7 @@ A2. Bazz-Dee &amp; Weichentechnikk – Samurai Pizza Cats
 
 
 
-Reizvoller Punkt: Ein Werk von Johannes Heil, geprägt von düsterer und dramatischer Regie. Es ist ein futuristisches Techno-Erlebnis mit tiefen Beats und einem psychedelischen Ansatz. Die Geschichte ist beeindruckend, da sie zwischen Stille und Explosion hin und her pendelt.
+Reizvoller Punkt: Ein Werk von Johannes Heil, geprägt von düsterer und dramatischer Regie. Ein Stück, das zu einem futuristischen Techno-Erlebnis mit tiefen Beats und einem psychedelischen Ansatz einlädt. Die Geschichte ist beeindruckend, da sie zwischen Stille und Explosion hin und her pendelt.
 
 
 #### Trackliste

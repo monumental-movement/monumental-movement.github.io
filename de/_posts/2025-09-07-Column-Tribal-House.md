@@ -31,8 +31,8 @@ Tribal House ist ein Subgenre, das das Four-on-the-Floor-House mit vielschichtig
 In den späten 1980er und frühen 1990er Jahren begann sich die Clubkultur in Chicago/New York von ihren Disco-basierten House-Wurzeln zu unterscheiden und zu diversifizieren. Einer seiner Ursprünge liegt darin, dass DJs ethnische und lateinamerikanische Platten aus der ganzen Welt ausgruben und der House-Musik durch Plattenbearbeitung und Sampling ein „Live-Percussion-Feeling“ überlagerten (dies war die Ära, in der die Long-Mix-Kultur der Clubs wuchs).
 
 **Sehenswürdigkeiten/Standort**
-- In den Clubs in New York und Chicago waren Anfang der 1990er Jahre DJ-Sets selbst von zentraler Bedeutung für den Ausdruck des Genres.
-- In der Anfangszeit war der Live-Schnitt mit Schallplatten und Plattenspielern der Mainstream.
+– In den Clubs in New York und Chicago waren Anfang der 1990er Jahre DJ-Sets selbst von zentraler Bedeutung für den Ausdruck des Genres.
+- In den Anfängen war die Live-Bearbeitung mit Schallplatten und Plattenspielern der Mainstream.
 
 **Repräsentative Tools (damals)**
 - ターンテーブル：<a href="https://en.wikipedia.org/wiki/Technics_SL-1200">Technics SL-1200</a> 系（現場の標準）。

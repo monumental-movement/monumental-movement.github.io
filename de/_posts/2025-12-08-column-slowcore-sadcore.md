@@ -133,7 +133,7 @@ Songs wie „Katy Song“ und „Funhouse“ haben eine Struktur, bei der die �
 - Clean-orientierte Verstärker wie Fender Twin Reverb, Vox und Mesa/Boogie
 
 ### ■ Wirkung
-- Reverb (Platte, Halle)
+- Reverb (Platte, Hall)
 - Verzögerung (Analogverzögerung / Digitalverzögerung)
 - Tremolo
 - Chor (mindestens erforderlich)
@@ -175,7 +175,7 @@ Aus musikpsychologischer Sicht fördert Musik mit langsamem Tempo und geringem I
 - **Emotionale Ruhe**
 - **Erweiterung des Zeitbewusstseins (Lieder fühlen sich länger an)**
 
-Wenn Slowcore daher häufig in Filmen, Fotos und Videoarbeiten verwendet wird, weist es eine äußerst starke Kompatibilität auf, wenn es um die Angabe „angehaltener Zeit“ geht.
+Wenn Slowcore daher häufig in Filmen, Fotos und Videoarbeiten verwendet wird, weist es eine äußerst hohe Kompatibilität auf, wenn es um die Angabe „angehaltener Zeit“ geht.
 
 ---
 
@@ -234,9 +234,9 @@ flowchart TD
 ---
 
 # 10. Zusammenfassung
-Slowcore/Sadcore ist ein Genre, das in den 1990er Jahren im amerikanischen Indie-Genre entstanden ist und Wert auf „Ruhe“ legt. Langsames Tempo, wenige Noten, entfernter Nachhall und introspektive Texte. Diese wurden als Gegenteil von intensiver Musik geboren, stehen aber jetzt wieder im Rampenlicht der visuellen Kultur und der sozialen Medien.
+Slowcore/Sadcore ist ein Genre, das in den 1990er Jahren in der amerikanischen Indie-Musik entstand und Wert auf „Ruhe“ legt. Langsames Tempo, wenige Noten, entfernter Nachhall und introspektive Texte. Diese wurden als Gegenstück zu intensiver Musik geboren, stehen nun aber wieder im Rampenlicht der visuellen Kultur und der sozialen Medien.
 
-Vielmehr erlaubt die Beschränkung auf „wenige Töne“ **dem Zuhörer, tiefer in die Musik einzutauchen und die Konturen der Welt deutlicher hervortreten zu lassen**.
+Vielmehr erlaubt die Beschränkung auf „wenige Töne“ **dem Zuhörer, tiefer in die Musik einzutauchen und die Konturen der Welt klarer hervortreten zu lassen**.
 Slowcore ist eine einzigartige Musikrichtung, die kleinste Emotionseinheiten leise darstellt.
 
 

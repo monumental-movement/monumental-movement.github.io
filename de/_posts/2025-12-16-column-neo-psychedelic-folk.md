@@ -22,7 +22,7 @@ Text: mmr｜Thema: Kein Genre, das die Psychedelik der Vergangenheit bewahrt, so
 
 Neo-Psychedelic Folk ist ein Musiktrend, der seit den 2000er Jahren mithilfe von Aufnahmetechnik, visuellem Feingefühl und rhythmischen Konzepten rekonstruiert wird und sich dabei auf die Ästhetik des Psychedelic Folk und Acid Folk aus den 1960er und 1970er Jahren bezieht. Es zeichnet sich durch den aktiven Einsatz von Studiobearbeitung, Bearbeitung und elektronischen Effekten aus und baut gleichzeitig auf folkloristischen akustischen Texturen, ethnischen Melodien und sich wiederholenden Akkordfolgen auf.
 
-Dieser Trend war nicht auf eine bestimmte Region oder eine einzelne Szene beschränkt, sondern bildete sich zeitweise in Nordamerika, Ozeanien und Europa. Die Verbreitung der DIY-Kultur, von Indie-Labels und digitalen Aufnahmeumgebungen hat alle Phasen der Produktion, des Vertriebs und der Rezeption beeinflusst und sie zu einem entscheidenden Unterschied zu traditionellen Folk-Renewal-Bewegungen gemacht.
+Dieser Trend war nicht auf eine bestimmte Region oder eine einzelne Szene beschränkt, sondern bildete sich zeitweise in Nordamerika, Ozeanien und Europa. Die Verbreitung der DIY-Kultur, von Indie-Labels und digitalen Aufnahmeumgebungen hat alle Phasen der Produktion, des Vertriebs und der Rezeption beeinflusst und sie zu einem entscheidenden Unterschied zu traditionellen Folk-Erneuerungsbewegungen gemacht.
 
 > „Forks wurden als Material behandelt, das erneut bearbeitet werden musste, und nicht als etwas, das gespeichert werden musste.“
 
@@ -54,7 +54,7 @@ Aufgrund der Einschränkungen der Aufnahmetechnologie verließen sich die psyche
 
 Von Ende der 1990er bis Anfang der 2000er Jahre wurden Acid Folk und Psychedelic Folk neu bewertet, als Neuauflagen und Archive ausgegraben wurden. Dies ermöglicht es jüngeren Generationen von Musikern, diese als historische Bezugspunkte zu übernehmen.
 
-Wichtig ist, dass es sich nicht nur um eine Wiederbelebung handelt, sondern um eine Neuinterpretation in einer Umgebung mit mehr Freiheit bei der Aufnahme und Bearbeitung.
+Wichtig ist, dass es sich nicht nur um eine Restaurierung handelt, sondern um eine Neuinterpretation in einer Umgebung mit mehr Freiheit bei der Aufnahme und Bearbeitung.
 
 > „Es werden historische Quellen zitiert, akustische Wiedergabe ist aber nicht das Ziel.“
 
@@ -68,7 +68,7 @@ Die Lieder von Neo-Psychedelic Folk weisen strukturelle Tendenzen auf, wie die W
 
 ### 2-2. Akustische Verarbeitung
 
-Zum Einsatz kommen räumliche Erweiterungen mittels Hall und Delay, Tonhöhenschwankungen, die bandähnliche Schwankungen nachahmen, sowie eine Mischung aus Lo-Fi und Hi-Fi. Die Aufnahmen wurden zu Hause oder in einem provisorischen Studio gemacht, und die Ungleichmäßigkeit der Klangqualität wurde als ästhetischer Aspekt betrachtet.
+Zum Einsatz kommen räumliche Erweiterungen mittels Hall und Delay, Tonhöhenschwankungen, die bandähnliche Schwankungen nachahmen, sowie eine Mischung aus Lo-Fi und Hi-Fi. Die Aufnahmen wurden zu Hause oder in einem provisorischen Studio gemacht und die Ungleichmäßigkeit der Klangqualität wurde als ästhetischer Aspekt betrachtet.
 
 > „Fragmentierung der Erfahrung wird wichtiger als Homogenität“
 
@@ -100,7 +100,7 @@ Die frühen Werke von Tame Impala waren fast ausschließlich Eigenproduktionen. 
 
 ### 4-2. Konvertierung von Gabelelementen
 
-Es zeichnet sich durch eine einfache Akkordfolge, eine melodiegetriebene Struktur und ein Arrangement aus, das eine Überbetonung des Rhythmus vermeidet. Die Einfachheit der Volksmusik bleibt erhalten, die akustische Verarbeitung verleiht ihr jedoch eine psychedelische Tiefe.
+Es zeichnet sich durch eine einfache Akkordfolge, eine melodiegetriebene Struktur und ein Arrangement aus, das eine Überbetonung des Rhythmus vermeidet. Während die Einfachheit der Volksmusik erhalten bleibt, verleiht ihr die akustische Bearbeitung eine psychedelische Tiefe.
 
 ### 4-3. Merkmale des anfänglichen Klangbildes
 
@@ -110,7 +110,7 @@ Dazu gehören das abgerundete Klangbild des Schlagzeugs, die Phasenlage der Gita
 
 ---
 
-## Kapitel 5: Visueller Kommentar – Bildsprache des Neo-Psychedelic Folk
+## Kapitel 5: Visueller Kommentar – Bildsprache des neo-psychedelischen Folk
 
 Häufig kommen Abstraktion und Naturmotive, Loops, Zeitlupe und asynchrone Schnitte zum Einsatz. Der Videoschnitt synchronisiert sich mit der repetitiven Struktur des Songs und dient der Erweiterung des Zeitgefühls.
 
@@ -162,9 +162,9 @@ In den frühen Werken von Animal Collective sorgen Percussion und Händeklatsche
 
 ## Kapitel 10: Behandlung von Stimmen und Volkskollektivität
 
-Stimme ist eines der wichtigsten Elemente im Neo-Psychedelic Folk. Die Rollenverteilung zwischen Leadsänger und Begleitung wird gelockert und mehrere Stimmen werden in einer Linie platziert. Stimmqualität, Überlappung und Nachhall haben Vorrang vor der Klarheit der Texte.
+Stimme ist eines der wichtigsten Elemente im neo-psychedelischen Folk. Die Rollenverteilung zwischen Leadsänger und Begleitung wird gelockert und mehrere Stimmen werden in einer Linie platziert. Stimmqualität, Überlappung und Nachhall haben Vorrang vor der Klarheit der Texte.
 
-Dies ist das Ergebnis der Übertragung des Gruppengesangscharakters des Folk auf den Studioraum.
+Dies ist das Ergebnis der Übertragung des Gruppengesangscharakters der Volksmusik auf den Studioraum.
 
 > „Lieder sind kein Mittel, um eine Geschichte zu erzählen, sondern ein Material, das einen Raum füllt.“
 

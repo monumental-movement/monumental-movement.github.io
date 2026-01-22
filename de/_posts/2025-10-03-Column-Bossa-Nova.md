@@ -74,7 +74,7 @@ color: #fff;
 
 **Geburtsjahr**: 10. Juni 1931 (Juazeiro, Bahia, Brasilien)
 
-**Eigenschaften**: Bekannt als der Gründer von Bossa Nova, ist er aufgrund seines einzigartigen Gitarrenspiels und seines bescheidenen Gesangsstils als „Gott des Bossa Nova“ bekannt.
+**Eigenschaften**: Bekannt als der Gründer von Bossa Nova, ist er wegen seines einzigartigen Gitarrenspiels und seines bescheidenen Gesangsstils als „Gott des Bossa Nova“ bekannt.
 
 **逸話**: 1958年、アルバム[『Chega de Saudade』](https://amzn.to/3W7J1yt)の制作時、音響技師が彼のギターの音量が小さすぎると指摘した際、ジルベルトは「ギターの音量を上げるのではなく、他の音を下げれば良い」と返答し、彼の音楽哲学を体現しました。
 
@@ -210,7 +210,7 @@ Bossa Nova hat verschiedene Genres wie Jazz, Pop und klassische Musik beeinfluss
 
 ## Zusammenfassung
 
-Bossa Nova ist ein seltenes Genre, das Ende der 1950er Jahre in einer Wohnung in Rio de Janeiro begann und die musikalische Weltkarte neu geschrieben hat. João Gilbertos flüsternde Gitarre und Stimme, Antonio Carlos Jobims anspruchsvolle Kompositionen, Stan Getz' Jazz-Interpretation und Sergio Mendes' Pop-Internationalisierung. Obwohl ihre individuellen Persönlichkeiten und Aktivitäten unabhängig voneinander sind, sind sie organisch miteinander verbunden und werden im Laufe der Jahrhunderte weiterhin gehört.
+Bossa Nova ist ein seltenes Genre, das Ende der 1950er Jahre in einer Wohnung in Rio de Janeiro begann und die musikalische Weltkarte neu geschrieben hat. João Gilbertos flüsternde Gitarre und Stimme, Antonio Carlos Jobims anspruchsvolle Kompositionen, Stan Getz' Jazz-Interpretation und Sergio Mendes' Pop-Internationalismus. Obwohl ihre individuellen Persönlichkeiten und Aktivitäten unabhängig voneinander sind, sind sie organisch miteinander verbunden und werden im Laufe der Jahrhunderte weiterhin gehört.
 
 Auch heute noch ist das Wort „Bossa Nova“ mehr als nur ein Musikgenre und fungiert als Symbol für „brasilianische Kultur“ und eine „entspannte Atmosphäre“. Durch digitale Plattformen wie Spotify und YouTube wird es von der jüngeren Generation frisch aufgenommen und taucht häufig in KI-Empfehlungen und Playlists auf.
 

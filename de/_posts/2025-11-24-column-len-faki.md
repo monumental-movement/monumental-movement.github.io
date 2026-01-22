@@ -72,11 +72,11 @@ Wir nehmen Len Fakis Signature-Tracks und analysieren sie im Detail, einschließ
 
 #### Songstruktur und Rhythmus
 Ab dem Intro werden nach und nach Kicks und Hi-Hats hinzugefügt und der Song entwickelt sich zu einem Aufbau.
-Nach dem Drop treiben Basskick und Bass den Boden an, während weißes Rauschen und Sirenen ein Gefühl der Spannung erzeugen.
+Nach dem Drop treiben Tieftonkick und Bass den Boden an, während weißes Rauschen und Sirenen ein Gefühl der Spannung erzeugen.
 Dies ist eine typische Vereinskonfiguration, bei der das Spielfeld in der Pause sanfter wird und dann ein Gefühl der Aufregung aufbaut, während es sich darauf vorbereitet, wieder abzufallen.
 
 #### Akustische Eigenschaften (geschätzt)
-- Die Trittenergie konzentriert sich auf den niedrigen Bereich (40–60 Hz).
+- Die Trittenergie ist auf den niedrigen Bereich (40–60 Hz) konzentriert.
 - Subbass- und Percussion-Layer im Mitteltonbereich
 - Weißes Rauschen, Sirene und Synth-Pads schaffen einen Raum im oberen Bereich
 

@@ -13,7 +13,7 @@ title: '[Kolumne] Rhythmus der Stadtnacht: Soziologie der Clubkultur'
 ---
 
 
-## Der Moment, in dem die Nacht der Stadt zu läuten beginnt
+## Der Moment, in dem die Nacht der Stadt einzuläuten beginnt
 
 
 Text: mmr｜Thema: Entschlüsselung der Clubkultur, die sich zusammen mit Veränderungen in der sozialen Struktur von Städten entwickelt hat, aus soziologischer, kulturgeschichtlicher und technologischer Perspektive.
@@ -118,7 +118,7 @@ Digitale Clubs könnten der Keim einer neuen Art von „öffentlichem Charakter�
 
 Die Stadtnacht war schon immer ein Spiegel, der die Schatten und Wünsche der Gesellschaft widerspiegelt.
 In ihrem Spiegel hat die Clubkultur dem grundlegenden menschlichen Wunsch nach Resonanz Gestalt verliehen.
-Selbst in einer Zeit sich weiterentwickelnder KI und digitaler Technologie wird der Rhythmus der Nacht nicht verschwinden.
+Auch im Zeitalter sich weiterentwickelnder KI und digitaler Technologie wird der Rhythmus der Nacht nicht verschwinden.
 Es ist der „Herzschlag“ des gigantischen Körpers der Stadt.
 
 ---

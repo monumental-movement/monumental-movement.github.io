@@ -59,7 +59,7 @@ Der Beat basiert auf dem aus der Garage abgeleiteten **2-Step**, enthält aber a
 - Die Bassdrum reicht von **110 bis 130 BPM** statt etwa 140
 - Snare hat einen schwachen Attack-Ton, ohne den Backbeat zu betonen
 - Hüte werden oft aus verarbeiteten Feldaufnahmen und nicht aus Metall hergestellt.
-- Verwenden Sie kurze Samples nicht nur von Drum Machines, sondern auch von Geräuschen beim Auftreffen kleiner Objekte, Geräuschen beim Kratzen von Papier usw.
+- Zusätzlich zu Drum Machines können Sie auch kurze Samples verwenden, z. B. das Geräusch von aufschlagenden kleinen Objekten, das Geräusch von kratzendem Papier usw.
 
 ### 1-3 Akustischer Raum: Nachhall, Partikelisierung, Feldaufzeichnung
 Post-Dubstep kann als „Genre, das Raum schafft“ beschrieben werden. Insbesondere die folgenden Elemente zeichnen sich aus.
@@ -81,9 +81,9 @@ Seine wichtigste Eigenschaft ist seine Fähigkeit, das Gefühl der Einsamkeit in
 ### Klangeigenschaften
 - Das Vokal-Sample ist extrem in der Tonhöhe bearbeitet und enthält mehrere Formanten, was ihm ein „geschlechtsunbestimmtes“ Gefühl verleiht.
 - Vinyl-Crackle (Plattengeräusch) in den Vordergrund rücken
-- Der Tritt ist ein leiser Angriff wie ein entfernter Donner mitten in der Nacht
+- Der Tritt ist ein leiser Angriff wie entfernter Donner mitten in der Nacht
 - Die Snare hat eine trockene Klangqualität, nicht metallisch, sondern wie „zerbrochene Holzstücke“
-- Insgesamt dominiert ein „nebliger Mitteltonbereich“ und die Melodie bleibt ein kurzes Motiv.
+- Insgesamt dominiert ein „nebliger Mitteltonbereich“, die Melodie bleibt ein kurzes Motiv.
 - Häufige Verwendung von kurzen Release-Pads, die schnell verschwinden
 
 ### Probenahmemethode
@@ -104,13 +104,13 @@ James Blake ist einzigartig darin, Post-Dubstep aus dem Kontext der Clubkultur h
 
 ### Akustische Merkmale
 - Extremer Minimalismus mit Schwerpunkt auf Klavier und Gesang
-- Der Bass ist minimal und gleichmäßig um 50-70 Hz verteilt.
+- Der Bass ist minimal und sanft um 50 bis 70 Hz verteilt.
 - Die Akkordfolge hat ein klassisches harmonisches Gefühl.
 - Unterdrücken Sie Formantenmanipulation und verwischen Sie die Grenze zwischen natürlichen Klängen und elektronischen Klängen
 - Je nach Kompressionstiefe fungiert die „Atmung“ als Rhythmus des Liedes
 
 ### Sampling-Beispiel
-- Kürzen Sie Ihre eigene Stimme, verschieben Sie sie in der Tonhöhe und verwandeln Sie sie in ein obertonreiches Pad
+- Kürzen Sie Ihre eigene Stimme, verschieben Sie sie in der Tonhöhe und wandeln Sie sie in ein obertonreiches Pad um
 - Klavierpedalgeräusch im Vordergrund mit Komprimierung
 - Kurzes Pulsgeräusch (Klick) im Tieftonbereich mischen und als Kick-Ersatz verwenden
 

@@ -15,7 +15,7 @@ title: Depeche Mode – Eine tolle Belohnung
 
 „Some Great Reward“ ist ein Album von Depeche Mode aus dem Jahr 1984 und ihr viertes Studioalbum. Dieses Album ist eines der wegweisenden Werke in der Karriere der Band und zeigt die Entwicklung und Reifung ihres Sounds.
 
-Das Album enthält die berühmtesten Songs von Depeche Mode, darunter „People Are People“ und „Master and Servant“, die als Singles veröffentlicht wurden.
+Das Album enthält die Signature-Songs von Depeche Mode wie „People Are People“ und „Master and Servant“, die als Singles veröffentlicht wurden.
 
 Some Great Reward war ein wichtiger Meilenstein in der Karriere von Depeche Mode und markierte die Entwicklung ihres Musikstils und ihrer Themen. Der Sound enthält Elemente von Post-Punk, New Wave und elektronischer Musik sowie Texte, die sich mit sozialen Themen zum Zeitpunkt der Veröffentlichung befassen.
 

@@ -27,7 +27,7 @@ Text: mmr｜Thema: „Nach“ Eurobeat-Spreads von Initial D
 
 ### Eurobeats „Ausstieg“ und „Rückkehr“
 „Initial D“ war ein maßgebliches Werk, das Eurobeat in der japanischen Jugend stark prägte und gleichzeitig ein „Ventil“ für die Weitergabe dieser Musik an die Internet-Generation darstellte.
-In den späten 2000er Jahren, als Napster und YouTube populär wurden, explodierten Anime-Ausschnitte und von Fans bearbeitete „Eurobeat Drift Compilations“. Für junge Menschen in Europa und Amerika wurde „Initial D“ zum „Eingang“ zum Eurobeat, und umgekehrt kehrte aus Japan importierte Musik in die Welt zurück und schuf einen Doppelzyklus.
+In den späten 2000er Jahren, als Napster und YouTube populär wurden, erfreuten sich Anime-Ausschnitte und von Fans herausgegebene „Eurobeat Drift Compilations“ explosionsartiger Beliebtheit. Für junge Menschen in Europa und Amerika wurde „Initial D“ zum „Eingang“ zum Eurobeat, und umgekehrt kehrte aus Japan importierte Musik in die Welt zurück und schuf einen Doppelzyklus.
 
 ### Vom Gebirgspass zur Simulation —— Fahrer im digitalen Raum
 Der in „Initial D“ abgebildete Gebirgspass ist ein echter Gebirgspass in Gunma, aber seit den 2000er Jahren ist Eurobeat mit einer Gaming-Kultur verbunden, die man als „digitalen Gebirgspass“ bezeichnen kann.
@@ -44,7 +44,7 @@ Hier fungiert sie nicht nur als Hintergrundmusik, sondern als Symbol, um die „
 
 ### An die Generation, die das „Gedächtnis der Beschleunigung“ geerbt hat
 Viele der Jugendlichen, die heute auf Spotify oder Apple Music auf die Playlist „Eurobeat – Initial D“ klicken, sind nicht unbedingt auf Bergpässen gelaufen.
-Aber sie geben mit ihren Kopfhörern Gas, treiben im virtuellen Raum, lachen im Internet und geben sich den immer gleichen Klängen hin.
+Aber sie beschleunigen in ihren Kopfhörern, treiben im virtuellen Raum, lachen im Internet und überlassen ihre Körper den gleichen Klängen.
 Eurobeat ist zu einem Medium geworden, das über die physische Geschwindigkeit hinausgeht und das „Gedächtnis der Beschleunigung“ mit jeder Generation aktualisiert.
 
 ### Liste repräsentativer Eurobeat-Songs (Anfangsbuchstabe D)
@@ -177,12 +177,12 @@ Autosound: ▒▒▒▒▒▒→ GT-R-Beschleunigungssound </div>
 | 1990er Jahre | Akai MPC60/3000 | Drum-Programmierung |
 | 1990er Jahre | Roland TR-909 | Fahrhilfe |
 | 2000er | DAW (Cubase, Pro Tools) | Digitale Bearbeitung/Mischung |
-| 2010er | FL Studio, Ableton Live | Trap/EDM approach |
+| 2010er | FL Studio, Ableton Live | Trap/EDM-Ansatz |
 | 2020er | Soft-Synth (Serum, Massiv) | Moderner Leadbass |
 
 ---
 
-### Übersichtstabelle zum Hintergrund des Zeitalters
+### Zusammenfassungstabelle zum Hintergrund des Zeitalters
 
 | Ära | Musikalische Besonderheiten | Verwandte Künstler | Beziehung zu Initial D |
 | ----- | ------------------- | ------------------------ | ----------- |
@@ -209,12 +209,12 @@ Drift: ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ → (Rutschgeräusch) </
 
 ---
 
-### Übersichtstabelle der kulturellen Kontaktpunkte
+###Übersichtstabelle der kulturellen Kontaktpunkte
 
 | Bereich | Repräsentative Elemente | Verbindung mit Eurobeat |
 | ------- | ------------------------------------ | -------------------- |
-| Toge-Läufer-Kultur | AE86, RX-7, GT-R | Synchronisiert mit der Fahrszene in „Initial D“ |
-| Clubkultur | Parapara, Velfarre | Direkt mit Avex Eurobeat | verbunden
+| Toge Runner-Kultur | AE86, RX-7, GT-R | Synchronisiert mit der Fahrszene in „Initial D“ |
+| Clubkultur | Parapara, Velfarre | Direkt verbunden mit Avex Eurobeat |
 | Internetkultur | Deja Vu Memes | Wiederexplosion auf YouTube/TikTok |
 | Spielkultur | Initial D Arcade Stage, Gran Turismo | Eurobeat wird zur Standard-Hintergrundmusik |
 | Drift-Wettbewerb | D1 Grand Prix, Formel Drift | Die Fahrerkultur wird international und koexistiert mit EDM in BGM |

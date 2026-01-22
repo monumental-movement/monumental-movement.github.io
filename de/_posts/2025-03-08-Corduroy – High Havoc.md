@@ -13,7 +13,7 @@ title: Cord – High Havoc
 ---
 
 
-Corduroy ist eine vierköpfige Acid-Jazz-Band mit Sitz in London.
+Corduroy ist eine vierköpfige Acid-Jazz-Band aus London.
 
 „High Havoc“ ist Corduroys zweites Konzeptalbum, das 1993 auf Acid Jazz Records veröffentlicht wurde. Der zweite Song, London England, gilt als Dancefloor-Klassiker der 1990er Jahre, und Corduroys Meisterwerk umfasst viele weitere Singles, die es in die Top 10 der britischen Indie-Charts schafften.
 

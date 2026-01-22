@@ -25,7 +25,7 @@ Para One ist ein französischer Elektronikproduzent. Er ist berühmt für die Pr
 
 Der zweite Titel auf Seite A ist ein Remix des britischen DJs/Produzenten für elektronische Musik Riton.
 
-Der zweite Song auf der B-Seite ist ein Remix von Surkin, einem französischen Produzenten, der mit Para One & Bobmo das Label Marble betreibt.
+Der zweite Song auf Seite B ist ein Remix von Surkin, einem französischen Produzenten, der mit Para One & Bobmo das Label Marble betreibt.
 
 #### Trackliste
 ```md

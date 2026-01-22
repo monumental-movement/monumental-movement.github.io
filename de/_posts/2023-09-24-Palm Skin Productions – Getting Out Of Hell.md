@@ -13,7 +13,7 @@ title: Palm Skin Productions – Raus aus der Hölle
 ---
 
 
-Palm Skin Productions ist ein Projekt des englischen Musikers, Produzenten und DJs Simon Richmond, dessen einzigartiger Stil Elemente aus elektronischer Musik, House, Techno und Trip-Hop kombiniert.
+Palm Skin Productions ist ein Projekt des englischen Musikers, Produzenten und DJs Simon Richmond, dessen einzigartiger Stil Elemente aus elektronischer Musik, House, Techno und Trip-Hop vereint.
 
 „Getting Out Of Hell“ bietet elektronische Beats, Dub-Elemente und einzigartiges Sampling und seine Einzigartigkeit und experimentelle Natur haben es zu einem Favoriten bei Fans elektronischer Musik und denen gemacht, die Originalsounds suchen.
 

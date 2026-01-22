@@ -42,11 +42,11 @@ color: #fff;
 
 ## Kapitel 1: Mikrotöne und die Vorgeschichte des Jazz
 
-### 1-1 Historische Position des mikrotonalen Intervalls
+### 1-1 Historische Stellung mikrotonaler Intervalle
 
-Mikrotonale Intervalle gibt es in der westlichen Musik bereits vor dem 20. Jahrhundert. Der Kommaunterschied in der pythagoreischen Stimmung und der reinen Intonation des Mittelalters und der Renaissance umfasst einen Intervallunterschied von weniger als einem Halbton. Mit der Einführung der 12-Temperament-Stimmung zur Vereinfachung der Musiknotation und des Musikunterrichts traten diese Ideen jedoch in den Hintergrund der Theorie.
+Mikrotonale Intervalle gibt es in der westlichen Musik bereits vor dem 20. Jahrhundert. Der Kommaunterschied in der pythagoräischen Stimmung und der reinen Intonation des Mittelalters und der Renaissance umfasst einen Intervallunterschied von weniger als einem Halbton. Mit der Einführung der Zwölftemperierung zur Vereinfachung der Musiknotation und des Musikunterrichts traten diese Ideen jedoch in den Hintergrund der Theorie.
 
-Zu Beginn des 20. Jahrhunderts begannen Komponisten, gezielt mikrotonale Intervalle zu verwenden, und es wurden Systeme entwickelt, die 24 gleichschwebende Stimmungen (Vierteltöne) und höhere Unterteilungen verwendeten. Dieser Trend ist in der zeitgenössischen Musik offensichtlich, aber der Jazz hat die Mikrotonalität durch Improvisation und physische Manipulation auf praktischere Weise integriert.
+Zu Beginn des 20. Jahrhunderts begannen Komponisten, absichtlich mikrotonale Intervalle zu verwenden, und es wurden Systeme entwickelt, die 24 gleichschwebende Stimmungen (Vierteltöne) und höhere Unterteilungen verwendeten. Dieser Trend ist in der zeitgenössischen Musik offensichtlich, aber der Jazz hat die Mikrotonalität durch Improvisation und physische Manipulation auf praktischere Weise integriert.
 
 ### 1-2 Blues und Tonhöhenmehrdeutigkeit
 
@@ -142,7 +142,7 @@ Im Ansatz von Collier können einzelne Stimmen unterschiedliche Klangannahmen ha
 
 ---
 
-## Kapitel 5: Verwendung von Mikrotönen in der Improvisation
+## Kapitel 5: Mikrotonoperation in der Improvisation
 
 ### 5-1 Phrasenkonstruktion
 
@@ -150,7 +150,7 @@ Bei der mikrotonalen Jazzimprovisation ist die Richtung des Tonhöhenübergangs 
 
 ### 5-2 Beziehung zum Rhythmus
 
-Durch die Unterteilung der Tonhöhe verändert sich auch die Rolle des Rhythmus. Eine Methode zur Darstellung kleinster Tonhöhenunterschiede mithilfe langer Notenwerte und eine Methode zur Erhöhung der Tonhöhendichte durch Erstellung einer Reihe kurzer Notenwerte werden in Kombination verwendet.
+Mit der Unterteilung der Intervalle verändert sich auch die Rolle des Rhythmus. Eine Methode zur Darstellung kleinster Tonhöhenunterschiede mithilfe langer Notenwerte und eine Methode zur Erhöhung der Tonhöhendichte durch Erstellung einer Reihe kurzer Notenwerte werden in Kombination verwendet.
 
 ### 5-3 Vertiefung der akustischen Analyse
 
@@ -199,7 +199,7 @@ Die Schüler von Joe Maneri bieten mikrotonale Ausbildung an Jazz-Ausbildungsein
 * Praktische Anwendung in kleinen und großen Ensembles
 * Mikrotonale Jazz-Aufnahme- und Veröffentlichungsaktivitäten
 
-Dieses Bildungsnetzwerk, das oft als Manneri-Schule bezeichnet wird, bildet die Spitze der zeitgenössischen Jazzimprovisations- und Kompositionsausbildung.
+Dieses Bildungsnetzwerk, oft als Manneri-Schule bezeichnet, bildet die Spitze der zeitgenössischen Jazzimprovisations- und Kompositionsausbildung.
 
 ---
 

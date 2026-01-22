@@ -73,7 +73,7 @@ Sherwood war seit den 1970er Jahren an Reggae-Labels und -Vertrieb beteiligt und
 Gleichzeitig interagierte er mit Post-Punk-Acts wie The Slits, The Pop Group, The Fall und Alternative TV und verstand intuitiv das „Misstrauen gegenüber dem bestehenden Musiksystem“, das sie empfanden.
 
 1979 gründete er **On-U Sound**, um seine Experimente zu maximieren.
-NAS war das früheste Symbol dafür und erweckte den Eindruck, dass „On-U Sound = ein grenzüberschreitendes DIY-Soundlabor“.
+NAS war das früheste Symbol dafür und erweckte den Eindruck, dass „On-U Sound = ein grenzüberschreitendes DIY-Klanglabor“.
 
 ---
 
@@ -97,7 +97,7 @@ Insbesondere die engen Grooves der Gruppe Roots Radics und die raue und wilde En
 Diese Fusion war damals selbst für Großbritannien schockierend.
 Dies liegt daran, dass es eine tiefe kulturelle Kluft zwischen der jamaikanischen Einwanderergemeinschaft und dem weißen Punk-/Avantgarde-Publikum in London gab und es nur sehr wenige Musikprojekte gab, die direkt miteinander interagierten.
 
-NAS gilt als frühes Beispiel dafür, diese Lücke zu schließen und Raum für Koproduktion zu schaffen.
+NAS gilt als frühes Beispiel dafür, diese Lücke zu schließen und einen Raum für Koproduktion zu schaffen.
 
 ---
 
@@ -133,7 +133,7 @@ Die Teilnahme von Mark Stewart verstärkte die Aufregung.
 
 ## ■ „Foundation Steppers“ (1983)
 
-Es ist der „Reggae-artigeste“ Song als NAS, und das Gefühl eines stabilen Grooves nimmt zu.
+Es ist der Reggae-ähnlicheste Song von NAS, mit einem stabileren Groove-Gefühl.
 Diese Arbeit hat auch starke gesellschaftspolitische Themen.
 
 ## ■ „Liebe für immer“ (2012)
@@ -204,7 +204,7 @@ Auch wenn NAS politische Texte nicht direkt veröffentlichte, war „Musik mache
 Nach „Foundation Steppers“ von 1983 wurden die Arbeiten unter dem Namen NAS eingestellt.
 Aber sein Einfluss breitete sich weit und breit aus.
 
-## ● Betroffener Bereich
+## ● Betroffenes Gebiet
 
 * Bristols Massive Attack, Tricky, Smith & Mighty
 * UK Dub, Digital Dub
@@ -250,7 +250,7 @@ Der Prototyp für die „genreübergreifende Schöpfung“, mit der sich Musiker
 1980 Beginn der Aufnahme von New Age Steppers (Ari Up, Mark Stewart, Roots Radics nehmen teil)
 1981 „New Age Steppers“ erscheint
 1981 erscheint „Action Battlefield“.
-1983 erscheint „Foundation Steppers“.
+1983 „Foundation Steppers“ erscheint
 1984-2000 Die NAS-Aktivitäten wurden praktisch eingestellt
 2010　Ari Up ist verstorben
 2012 „Love Forever“ veröffentlicht (Gedenkwerk inklusive unveröffentlichtem Material)
@@ -295,7 +295,7 @@ Dies ist die Prämisse der Musikproduktion nach dem Internet.
 
 NAS, das diesen Trends in den frühen 1980er Jahren Pionierarbeit leistete, kann als Prototyp der modernen Musik bezeichnet werden.
 
-Ihr Sound war intensiv, rau, schwungvoll, federnd und manchmal destruktiv, aber im Kern ging es um Freiheit.
+Der Sound, den sie hinterließen, war intensiv, rau, schwungvoll, federnd und manchmal destruktiv, aber im Kern ging es darum, frei zu sein.
 Diese Freiheit ist in der Arbeit von On-U Sound und in Underground-Szenen auf der ganzen Welt weiterhin spürbar.
 
 ---

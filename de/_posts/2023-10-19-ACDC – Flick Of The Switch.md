@@ -17,7 +17,7 @@ Flick of the Switch ist das neunte Studioalbum der australischen Hardrock-Band A
 
 Das Album verkaufte sich im Vergleich zu den vorherigen Alben der Band, „Back in Black“ aus den 1980ern und „For Those About to Rock“ aus den 1981ern, schlecht und galt als Beginn des kommerziellen Niedergangs der Band.
 
-Es ist das dritte Album von AC/DC mit Leadsänger Brian Johnson und das letzte, bevor Schlagzeuger Phil Rudd vorübergehend geht.
+Dies ist das dritte Album von AC/DC mit Leadsänger Brian Johnson und das letzte, bevor Schlagzeuger Phil Rudd vorübergehend geht.
 
 #### Trackliste
 ```md

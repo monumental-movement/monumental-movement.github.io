@@ -131,7 +131,7 @@ Wir haben einen Vertrag mit einem Label in Los Angeles unterzeichnet und das Alb
 
 ### 5.3 „Kokane (Kokane feat. Ayo)“
 - BPM ca. 96. Es gibt Remixe und mehrere Versionen.
-– In den Texten symbolisiert es Verführung, Manipulation, Vergnügen und Zerstörungswut. Verwendung von Drogen (Kokain) als Metapher.
+- In den Texten symbolisiert es Verführung, Manipulation, Vergnügen und Zerstörungswut. Verwendung von Drogen (Kokain) als Metapher.
 - Der Kontrast zwischen dem melodischen Refrain und dem rauen Gesang ist beeindruckend.
 - Stärken Sie die Botschaft und verbreiten Sie sie durch die Zusammenarbeit mit Ayo.
 

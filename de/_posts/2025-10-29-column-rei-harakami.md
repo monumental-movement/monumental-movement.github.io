@@ -31,7 +31,7 @@ Es ist nicht nur eine umgebende Stille, es ist wie ein Atem, der im „Ma“ zwi
 Sein Sound atmet zweifellos die „Ästhetik des Raums“, die die Stadt Kyoto ausstrahlt.
 
 Der anhaltende Klang einer Tempelglocke, die Feuchtigkeit eines Sommerregens, der klare Fluss von Shirakawa im Winter.
-Auch wenn sie nicht direkt gesampelt wurden, vermittelt Rei Harakamis Sound irgendwie die Atmosphäre von Kyoto.
+Auch wenn sie nicht direkt gesampelt wurden, vermittelt der Sound von Rei Harakami irgendwie die Atmosphäre von Kyoto.
 
 ---
 
@@ -56,7 +56,7 @@ Rei Harakami ist ein in Kyoto geborener Streckenproduzent, der Ende der 1990er J
 Er präsentierte einen „privaten Raum“ und einen „introspektiven“ elektronischen Sound, der sich von der glitzernden Atmosphäre Tokios unterschied.
 
 Sein repräsentatives Frühwerk „Red Curb“ (1999) ist ein Werk, das die Rundheit analoger Synthesizer mit minimalem Rhythmus harmoniert.
-**Elektronische Musik zum alleinigen Hören auf dem Tatami-Boden** statt der Aufregung eines Clubs.
+**Elektronische Musik zum alleinigen Zuhören auf dem Tatami-Boden** statt der Aufregung eines Clubs.
 Darin liegt der „unaufdringliche Humor“ und die „sanfte Einsamkeit“, die typisch für die Menschen in Kyoto sind.
 
 Seine Lieder sind nicht auffällig, aber **je mehr man sie hört, desto mehr erweitert sich die Welt**.
@@ -104,7 +104,7 @@ Es ist wie im Herbst in Kyoto und es ist eine Traurigkeit, die einen zum Lachen 
 
 ## Kapitel 4: Harakami und Freunde – UA, Ryuichi Sakamoto, Kazumi Nikaido
 
-Die Zusammenarbeit mit UA „Milk Tea“ und Ryuichi Sakamoto,
+Die Zusammenarbeit mit UA „Milk Tea“ und Ryuichi Sakamoto sind
 Der Musik von Rei Harakami wurde ein neues Element der „menschlichen Stimme“ hinzugefügt.
 
 Ryuichi Sakamoto soll ihn als „den stillsten Revolutionär“ bezeichnet haben.

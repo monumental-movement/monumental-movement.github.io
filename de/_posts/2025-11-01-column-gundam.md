@@ -106,7 +106,7 @@ Auf diese Weise kann man sagen, dass die frühe Gundam-Musik die Perspektive „
 
 ### 2.1 Ausbau der Marke „Gundam“ und Veränderungen in der Musikszene
 
-In den 1990er Jahren expandierte die Marke Gundam über die TV-Serie hinaus und umfasste OVAs, Filmversionen, Spiele und Plastikmodelle. Musikalisch haben sich Anime-Songs (Anisongs) als Genre etabliert und Titelsongs/Insert-Songs werden mittlerweile als „Gesicht“ von Künstlern beworben.
+In den 1990er Jahren expandierte die Marke Gundam über die TV-Serie hinaus und umfasste OVAs, Filmversionen, Spiele und Plastikmodelle. Musikalisch haben sich Anime-Songs (Anisongs) als Genre etabliert und Titelsongs/Insert-Songs werden als „Gesicht“ von Künstlern beworben.
 
 Gleichzeitig nahm die Zahl der Titelsongs mit Synthesizer-Sounds, Dance-Beats und Pop-ähnlichen Strukturen zu, und wir begannen eine Verschiebung der Musikalität von der traditionellen Struktur „ernsthafter Hintergrundmusik mit Kriegs- und Heldenhymnen“ hin zur Popkultur zu beobachten.
 
@@ -114,11 +114,11 @@ Gleichzeitig nahm die Zahl der Titelsongs mit Synthesizer-Sounds, Dance-Beats un
 
 Im TV-Anime „Mobile Suit Gundam W“ (New Mobile Suit Gundam W), der 1995 ausgestrahlt wurde, übernahm das Eröffnungsthema „Just Communication“ (gesungen von TWO-MIX) einen Synthesizer-Beat und eine Pop-Melodie, was es zu einem Werk macht, das sich von den traditionellen Gundam-Titelliedern abhebt.
 
-Das Erscheinen dieses Liedes war auch eine Gelegenheit, das konventionelle Bild von Gundam = Kriegsdrama + schwere Musik zu einer etwas leichteren Version eines Heldenlieds zu ändern, das in der Popmusik zu hören ist.
+Das Erscheinen dieses Liedes war auch eine Gelegenheit, das konventionelle Bild von Gundam = Kriegsdrama + schwere Musik zu einer etwas leichteren Version eines Heldenliedes zu ändern, das in der Popmusik zu hören ist.
 
 Darüber hinaus verfügen OVA- und Filmversionen jetzt über eine größere Auswahl an Musikprodukten, darunter Titelsongs, Insert-Songs, Charaktersongs und Remix-Discs. Musik hat sich von „exklusiv für Werke“ zu „exklusiv für Marken“ entwickelt.
 
-### 2.3 Theaterbegleitung, Titellieder und Einfügungslieder: Geschmacksveränderungen im Laufe der Zeit
+### 2.3 Dramatische Begleitung, Titellieder und Einfügungslieder: Geschmacksveränderungen im Laufe der Zeit
 
 In dieser Zeit erweiterte sich das Spektrum der Musikentwicklung erheblich. Neben Titelsongs wurden nacheinander Insert-Songs, Charakter-Songs (unter dem Namen des Charakters gesungene Lieder), Remix-Alben, beste Alben, Live-Alben usw. veröffentlicht und die Kategorisierung von Musikprodukten schritt voran.
 
@@ -138,7 +138,7 @@ Wir sind in eine Ära eingetreten, in der „Gundam-Musik“ nicht nur „Hinter
 
 ### 3.2 Beispiel: Soundtrack-Komposition der „Mobile Suit Gundam SEED“-Reihe
 
-Für „Mobile Suit Gundam SEED“ (2002-) waren Hiroyuki Kono und andere für die Musik verantwortlich und nicht der Komponist Hiroyuki Sawano, und es wurden der Titelsong, der Insert-Song, der Charaktersong, die Remix-CD und die „Suit-CD“ entwickelt.
+Für „Mobile Suit Gundam SEED“ (2002-) waren Hiroyuki Kono und andere tatsächlich für die musikalische Begleitung verantwortlich und nicht der Komponist Hiroyuki Sawano, und es wurden der Titelsong, der Insert-Song, der Charaktersong, das Remix-Album und die „Suit-CD“ entwickelt.
 Diese Struktur zeigt, dass Gundam-Musik zu „einem Produkt/einer Kultur geworden ist, die nicht vom Werk getrennt werden kann“. Musik ist zu einer Marke geworden und funktioniert auch außerhalb von Produktionen (Live-Shows, Bonus-CDs, Kollaborationen).
 
 ### 3.3 Aktuelle Arbeit: Musikalisches Experiment in „Mobile Suit Gundam: Witch of Mercury“
@@ -207,8 +207,8 @@ Nach 2025 wird erwartet, dass sich die Ära des „Musikhörens“ durch den Aus
 
 ## Anstelle einer Schlussfolgerung
 
-Man kann sagen, dass „Gundam noch einmal hören“ gleichbedeutend mit „Gundam noch einmal schauen“ ist. Dies liegt daran, dass Musik die Emotionen der Charaktere repräsentiert und den Verlauf der Geschichte vorgibt. Wir hoffen, dass Sie durch diesen Artikel Ihren Lieblings-Gundam-Titelsong wieder aufgreifen und der Geschichte und Geschichtenwelt, die er geschaffen hat, erneut lauschen können.
-Um schließlich tiefer in die Musik von Gundam einzutauchen, sollten Sie unbedingt CD-Hüllen, Live-Videos, Komponisteninterviews und mehr suchen und sammeln. Die Reise des Klangs geht weit über Ihr Sichtfeld hinaus.
+Man kann sagen, dass „Gundam noch einmal hören“ gleichbedeutend mit „Gundam noch einmal schauen“ ist. Dies liegt daran, dass Musik die Emotionen der Charaktere repräsentiert und den Verlauf der Geschichte vorgibt. Wir hoffen, dass Sie durch diesen Artikel Ihren „Lieblings-Gundam-Titelsong“ noch einmal in die Hand nehmen und der Geschichte und Geschichtenwelt, die er geschaffen hat, noch einmal zuhören können.
+Um schließlich tiefer in die Musik von Gundam einzutauchen, sollten Sie unbedingt CD-Hüllen, Live-Videos, Komponisteninterviews und mehr suchen und sammeln. Die Klangreise weitet sich weit über das Sichtbare hinaus.
 
 ---
 
@@ -254,7 +254,7 @@ Ein Komponist und Produzent, der die japanische Popmusikszene von den 1980er bis
 
 - **Neil Sedaka**
 
-US-amerikanischer Popkomponist/Sänger. Im Jahr 1985 beteiligte er sich an der Komposition des Eröffnungsliedes für „Mobile Suit Zeta Gundam“, „With Love to the Water Star“, und ist im Hinblick auf den Einsatz ausländischer Künstler eine bedeutende Präsenz.
+US-amerikanischer Popkomponist/Sänger. 1985 beteiligte er sich an der Komposition des Eröffnungsliedes von „Mobile Suit Zeta Gundam“, „To the Planet of Water with Love“, und ist in dem Sinne eine bedeutende Präsenz, dass er einen ausländischen Komponisten engagierte.
 
 - **ZWEI-MISCHUNG**
 

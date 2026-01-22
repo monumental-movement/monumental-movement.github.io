@@ -19,7 +19,7 @@ Pearl Brothers ist eine japanische Rockgruppe, die 1983 gegründet wurde und 198
 
 Die Mitglieder sind Kenzo Saeki, Haruo Kubota, Bakabon Suzuki, Toshiya Matsunaga, Tsunehiko Yashiro und andere.
 
-„Tetsu Kabuto no Onna“ ist die erste Single der Pearl Brothers, die 1986 von Polydor Records veröffentlicht wurde. Die Illustration der Jacke stammt von Kotobuki Shiriagari. Der Produzent ist Toru Okada.
+„Tetsu Kabuto no Onna“ ist die erste Single der Pearl Brothers, die 1986 von Polydor Records veröffentlicht wurde. Die Illustration der Hülle stammt von Kotobuki Shiriagari. Der Produzent ist Toru Okada.
 
 #### Trackliste
 ```md

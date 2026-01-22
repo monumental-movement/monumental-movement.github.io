@@ -15,7 +15,7 @@ title: Nightmares On Wax – Smokers Delight
 ---
 
 
-„Smokers Delight“ (1995) von Nightmares On Wax, das zweite Album des Projekts des britischen Produzenten George Evelyn, wurde auf Warp Records veröffentlicht und festigte seinen Platz in der Downtempo- und Trip-Hop-Geschichte. Das Album bleibt ein zeitloses Meisterwerk, das den Hörer in eine beruhigende Chill-out-Welt entführt, einen Schritt entfernt vom Trubel der Clubkultur.
+„Smokers Delight“ (1995) von Nightmares On Wax, das zweite Album des Projekts des britischen Produzenten George Evelyn, wurde auf Warp Records veröffentlicht und festigte seinen Platz in der Downtempo- und Trip-Hop-Geschichte. Dieses Album bleibt ein zeitloses Meisterwerk, das den Hörer in eine beruhigende Chill-out-Welt entführt, einen Schritt entfernt vom Trubel der Clubkultur.
 
 Zunächst einmal liegt der Kern von „Smokers Delight“ in seinem „entspannten Groove“. Das Album beginnt mit „Nights Introlude“ mit sanften Streichern und einem sanften Beat, der „Summer In The City“ von Quincy Jones sampelt und den Hörer sofort in eine entspannende Atmosphäre entführt.
 

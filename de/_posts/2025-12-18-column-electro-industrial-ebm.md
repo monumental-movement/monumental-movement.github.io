@@ -42,7 +42,7 @@ color: #fff;
 
 ## 1. EBM und Electro-Industrial als Begriffe
 
-Der Begriff EBM wurde Anfang der 1980er Jahre eingeführt und diente zunächst eher als Konzept zur Angabe einer kreativen Einstellung und musikalischen Ausrichtung denn als Genrename. Wie der Name „Electronic Body Music“ vermuten lässt, liegt der Schwerpunkt auf der direkten Ansteuerung körperlicher Bewegung durch elektronische Klänge.
+Der Begriff EBM wurde Anfang der 1980er Jahre eingeführt und fungierte zunächst eher als Konzept zur Angabe einer kreativen Einstellung und musikalischen Richtung denn als Genrename. Wie der Name „Electronic Body Music“ vermuten lässt, liegt der Schwerpunkt auf der direkten Ansteuerung körperlicher Bewegung durch elektronische Klänge.
 
 Andererseits ist Electro-Industrial ein Name, der sich aus der Struktur von EBM entwickelt hat und komplexere akustische Verarbeitung, Geräuschelemente sowie psychologische und introspektive Themen umfasst. Die beiden Genres sind keine diskontinuierlichen Genres, sondern zeichnen sich durch eine kontinuierliche Weiterentwicklung mit EBM als Rückgrat aus.
 
@@ -68,7 +68,7 @@ Was diese Regionen gemeinsam haben, ist ein industrialisiertes städtisches Umfe
 
 ## 4. Detaillierte Analyse der Rhythmusstruktur
 
-Die Rhythmusstruktur von EBM basiert auf dem 4/4-Takt und zeichnet sich durch eine klare und lineare Anordnung aus. Die Kick-Drum gibt jeden Schlag deutlich vor, und die Snare- und Claps-Drum fungieren eher als Teil der Struktur als als Dekoration.
+Die rhythmische Struktur von EBM basiert auf dem 4/4-Takt und zeichnet sich durch eine klare und lineare Anordnung aus. Die Kick-Drum gibt jeden Schlag deutlich vor, und die Snare- und Claps-Drum fungieren eher als Teil der Struktur als als Dekoration.
 
 Auf das Swing-Feeling von Funk und Disco wurde bewusst verzichtet und eine Anordnung gewählt, die zeitliche Schwankungen minimiert. Dadurch wirkt der Rhythmus eher wie ein Druck denn wie ein Groove auf den Körper.
 
@@ -136,7 +136,7 @@ Nitzer Ebb rückte die Körperlichkeit in den Vordergrund, indem er die Elemente
 
 ## 11. Erweiterung zu Electro-Industrial
 
-Seit Ende der 1980er Jahre ist eine Werkgruppe entstanden, die die Struktur von EBM beibehält und gleichzeitig ihre klangliche Komplexität steigert. Es zeichnet sich durch Rauschschichten, vielschichtiges Sampling und die Konstruktion dunkler akustischer Räume aus und wurde kollektiv als Electro-Industrial bekannt.
+Seit den späten 1980er Jahren ist eine Werkgruppe entstanden, die die Struktur von EBM beibehält und gleichzeitig ihre klangliche Komplexität steigert. Es zeichnet sich durch Rauschschichten, vielschichtiges Sampling und die Konstruktion dunkler akustischer Räume aus und wurde kollektiv als Electro-Industrial bekannt.
 
 ---
 
@@ -165,7 +165,7 @@ EBM und Electro-Industrial hatten einen strukturellen Einfluss auf späteren Tec
 | Ende der 1970er Jahre | Experimentelle Entwicklung industrieller Musik |
 | Anfang der 1980er Jahre | Vorstellung des EBM-Konzepts |
 | Anfang der 1980er Jahre | Aufbau vereinskompatibler EBM |
-| Ende der 1980er Jahre | Elektroindustrielle Expansion |
+| Ende der 1980er Jahre | Elektroindustrieller Ausbau |
 
 ---
 

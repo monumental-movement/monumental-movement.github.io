@@ -83,14 +83,14 @@ Viele der Produktionen nutzten Plattenspieler und Sampler (frühe SP-Serie und A
 - **E-MU SP-12 / SP-1200** (raue und warme Probentextur)
 - **Akai MPC-Serie** (MPC60~MPC2000-Serie)
 - **Roland TR-909 / TR-808** (Kick/Hi-Hat)
-- Technik zur Erzeugung von „Dicke“ mit Außenbord-/Bandverarbeitung
+- Technik zur Erzeugung von „Dicke“ mit Außenbord-/Bandbearbeitung
 
 ---
 
 | Nein | Künstler | Verfolgen | Kommentare |
 |---|---|---|---|
 | 1 | Rolle 2 Real ft. The Mad Stuntman | Ich bewege es gerne (1993) | Eine weltweit erfolgreiche Tanzhymne mit karibischem Rhythmus. |
-| 2 | Armand Van Helden | Hexendoktor | Einzigartiges Sampling und heftige Beats sind beeindruckend. |
+| 2 | Armand Van Helden | Hexendoktor | Einzigartiges Sampling und harte Beats sind beeindruckend. |
 | 3 | Barbara Tucker | Ich habe einen Platz gefunden | Gefühlvoller und warmer Vocal-House. |
 | 4 | George Morel | Morels Groove | Eine einfache Schlaufe, die auf dem Boden großartig aussieht. |
 | 5 | Indien | Verliebt sein | Ein Werk, das durch melodischen und sanften Gesang glänzt. |
@@ -112,7 +112,7 @@ Viele der Produktionen nutzten Plattenspieler und Sampler (frühe SP-Serie und A
 - Wamdue Project – *King of My Castle* (Hit 1997/1999)
 
 **Ausrüstungstrends**
-DAWs und Software-Plug-Ins haben begonnen, in den Produktionsworkflow Einzug zu halten, und die Bewegung, die Klänge von Hardwaregeräten mit DAWs zu reproduzieren und zu integrieren, hat sich beschleunigt.
+DAWs und Software-Plug-Ins haben begonnen, in den Produktionsworkflow Einzug zu halten, und der Trend, die Klänge von Hardwaregeräten mit DAWs zu reproduzieren und zu integrieren, hat sich beschleunigt.
 
 ---
 
@@ -219,5 +219,5 @@ Strictly Rhythm vermittelt A&R ein umfassendes Verständnis dafür, „was in ei
 - Wikipedia: Streng Rhythmus
 - Red Bull Music Academy: Gladys Pizarro
 - Resident Advisor / XLR8R: Etikettenschließung/-rekonstruktion
-- Offizielle BMG-Neuigkeit: Übernahme des Strictly Rhythm-Katalogs
+- Offizielle BMG-Neuigkeiten: Übernahme des Strictly Rhythm-Katalogs
 - Interview mit Todd Terry / Masters At Work: Ausrüstung und Produktionsmethoden

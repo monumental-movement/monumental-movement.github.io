@@ -14,7 +14,7 @@ title: AeoX – How Do You Wannit Cooked EP
 ---
 
 
-AeoX is a Berlin techno-punk band that has been active since 1999. He has released numerous releases from the labels Null records and Mental Industries. Mitglied Hanno Hinkelbein arbeitet auch als Duo namens Furfriend mit Bill Youngman.
+AeoX ist eine Berliner Techno-Punk-Band, die seit 1999 aktiv ist. Er hat zahlreiche Veröffentlichungen bei den Labels Null Records und Mental Industries veröffentlicht. Mitglied Hanno Hinkelbein arbeitet auch als Duo namens Furfriend mit Bill Youngman.
 
 „How Do You Wannit Cooked EP“ ist ein Techno/Experimental-Track, der 2002 auf Cora Schneiders Berliner Label Mental.Ind.Records veröffentlicht wurde. Mastering ist Dubplates & Mastering.
 

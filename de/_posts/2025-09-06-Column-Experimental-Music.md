@@ -83,7 +83,7 @@ color: #fff;
 
 | Künstler | Verfolgen | Jahr |
 |--------------|----------|----|
-| La Monte Young | Der zweite Traum vom Abwärtstransformator für Hochspannungsleitungen | 1962 |
+| La Monte Young | Der zweite Traum vom Abspanntransformator für Hochspannungsleitungen | 1962 |
 | Terry Riley | In C | 1968 |
 | Steve Reich | Klavierphase | 1967 |
 | Pauline Oliveros | Tschüss Schmetterling | 1965 |
@@ -184,7 +184,7 @@ color: #fff;
 
 
 ## 2000er: Laptops und Globalisierung
-- **Hintergrund:** Noise, Electronica und Field Recording verbreiteten sich international. „Laptop-Performance“ bei Live-Auftritten ist mittlerweile alltäglich.
+- **Hintergrund:** Noise, Electronica und Field Recordings verbreiten sich international. „Laptop-Performance“ bei Live-Auftritten ist mittlerweile alltäglich.
 - **Ausrüstung:** Ableton Live, SuperCollider, Kontakt, Laptop.
 
 ### Meisterwerk
@@ -268,7 +268,7 @@ color: #fff;
 ---
 
 ## Die Zukunft der experimentellen Musik
-Experimentelle Musik hat die Grenzen der Musik immer weiter erweitert. Angefangen bei **präparierten Klavier- und Tonbandexperimenten der 1940er Jahre**, **Lärm und Industrial der 70er Jahre**, **Digital Glitch der 90er Jahre** und **KI-generierter Musik der 2020er Jahre** ist es ständig im Wandel.
+Experimentelle Musik hat die Grenzen der Musik immer weiter erweitert. Von präparierten Klavier- und Tonbandexperimenten in den 1940er Jahren über Noise und Industrial in den 70er Jahren bis hin zu Digital Glitch in den 90er Jahren und KI-generierter Musik in den 2020er Jahren verändert es sich ständig.
 
 Die Essenz experimenteller Musik ist Unvorhersehbarkeit und Forschergeist. Auch außerhalb der kommerziellen Musik durchdringt ihr Einfluss Rock, Clubmusik, zeitgenössische Musik und Pop und macht sie zu einer Kraft, mit der man rechnen muss.
 

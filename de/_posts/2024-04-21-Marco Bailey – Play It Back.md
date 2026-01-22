@@ -14,7 +14,7 @@ title: Marco Bailey – Spielen Sie es zurück
 ---
 
 
-Marco Bailey ist ein Produzent und DJ aus Belgien. Er betreibt das Label PORNOGRAPHIC mit seinem eigenen Label Session Recordings und Cristian Varela.
+Marco Bailey ist ein Produzent und DJ aus Belgien. Er betreibt mit seinem eigenen Label Session Recordings und Cristian Varela das Label PORNOGRAPHIC.
 
 2023 gründete er das Techno-Label Elektronik Zoo Sounds.
 

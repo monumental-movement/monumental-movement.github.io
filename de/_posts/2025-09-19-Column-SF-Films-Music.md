@@ -123,7 +123,7 @@ Die in Science-Fiction-Filmen verwendete Musik weist die folgenden charakteristi
 
 ## Moderne Wirkung
 
-* **Spielemusik/VR-Erlebnis**: Folgt der Methode von Filmmusik wie „Mass Effect“ und „Cyberpunk 2077“.
+* **Spielmusik/VR-Erlebnis**: Folgt der Methode von Filmmusik wie „Mass Effect“ und „Cyberpunk 2077“.
 * **Aufteilung in Musikgenres**: Es gibt viele Genres, die von Science-Fiction-Filmmusik abgeleitet sind, wie zum Beispiel Synthwave, Dark Ambient und Electronica.
 * **KI-Musikgenerierung**: Die in Science-Fiction-Filmen dargestellte Zukunftsvision wird durch automatische Musikkomposition durch KI und immersive Erlebnisse im VR-Raum Wirklichkeit.
 
@@ -148,8 +148,8 @@ A3. Derzeit werden KI-Kompositionstools zur Erstellung von Science-Fiction-Filmt
 ## Zusammenfassung
 
 * Science-Fiction-Filme und Musik sind untrennbar miteinander verbunden, weil sie ein Gefühl für die Zukunft und eine andere Welt vermitteln.
-* Es wurde auf vielfältige Weise zum Ausdruck gebracht, darunter elektronische Klänge, Synthesizer, Orchester und Ambient.
-* Im Laufe der Geschichte kann man sagen, dass die Beziehung zwischen Mensch und Technologie durch Klang visualisiert wurde.
+* Es wurde auf vielfältige Weise ausgedrückt, einschließlich elektronischer Klänge, Synthesizer, Orchester und Ambient.
+* Im Laufe der Geschichte kann man sagen, dass die **Beziehung zwischen Mensch und Technologie** durch Ton visualisiert wurde.
 
 > Zukünftige Science-Fiction-Filmmusik wird durch die Zusammenarbeit zwischen KI und menschlichen Komponisten eine neue Welt eröffnen.
 

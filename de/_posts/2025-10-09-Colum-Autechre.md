@@ -104,7 +104,7 @@ Bei den Live-Auftritten von Autechre wird die visuelle Präsentation völlig aus
 Die Lichter gehen aus und die Bühne ist dunkel. Das Publikum wird in einen **Raum aus reinem Klang** eingehüllt.
 Diese völlig anorganische Natur ist ein Beweis dafür, dass sie darauf abzielen, „den Körper allein mit Klang zu beherrschen“.
 
-In den 2010er Jahren veröffentlichten sie die **AE_LIVE-Serie**. Die im Rahmen des Programms improvisierten Klänge wurden so aufgenommen, wie sie waren, und für jede Stadt wurden unterschiedliche Strukturen präsentiert.
+In den 2010er Jahren veröffentlichten sie die **AE_LIVE-Serie**. Wir haben die Klänge, die das Programm improvisierte, so aufgenommen, wie sie waren, und für jede Stadt eine andere Struktur präsentiert.
 Darüber hinaus ist „NTS Sessions 1–4“ (2018) ein über 8 Stunden langes Meisterwerk. Dies ist eine monumentale Leistung, mit der Autechre ein „Universum akustischer Algorithmen“ aufgebaut hat.
 
 > „Beim Improvisieren geht es auch darum, das Denken eines Programms zu übernehmen.“

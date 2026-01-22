@@ -21,7 +21,7 @@ Elektrochemie LK ist das Pseudonym von DJ Thomas Schumacher, einem deutschen Tec
 
 Der erste Song auf Seite A ist ein Remix von Christopher Just, bekannt für seinen großen Hit I'm a Disco Dancer (And a Sweet Romancer).
 
-Der zweite Track auf Seite A ist ein Remix des deutschen Techno-DJ und Produzenten Stephan Bodzin.
+Der zweite Track auf Seite A ist ein Remix des deutschen Techno-DJs und Produzenten Stephan Bodzin.
 
 Der erste Song auf der B-Seite ist ein Remix von ALEXANDER KOWALSKI, einem seit den 90er Jahren aktiven Techno-Produzenten und Performer.
 

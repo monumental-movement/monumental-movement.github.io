@@ -65,7 +65,7 @@ DEVO war von Anfang an eine „Musikeinheit“ und ein „Multimediaprojekt“.
 Sie werden Live-Diamaterial projizieren, handgemachte Videos erstellen und Performancekunst aufführen.
 Sein früher Film „The Truth About De-Evolution“ aus dem Jahr 1976 gilt als Experimentalfilm, der die amerikanische Dekadenz dokumentiert.
 
-Der Film gewann 1977 einen Preis beim Ann Arbor Film Festival und erregte die Aufmerksamkeit von David Bowie und Iggy Pop.
+Der Film gewann 1977 einen Preis beim Ann Arbor Film Festival und erregte die Aufmerksamkeit von **David Bowie** und **Iggy Pop**.
 Danach unterzeichneten DEVO einen Vertrag mit Warner Brothers und veröffentlichten ihr Debütalbum „Q: Are We Not Men?“ A: We Are DEVO!'' (1978) mit Brian Eno als Produzent.
 
 ---
@@ -98,7 +98,7 @@ In dem Sinne, dass DEVO selbst zu einer „Marke“ wurde und die Widersprüche 
 
 ## Kapitel 5: Funktion als Pop – „Whip It“ und seine Missverständnisse
 
-Oberflächlich betrachtet klingt der Hit „Whip It“ aus dem Jahr 1980 einfach nur nach komischem Synthie-Pop.
+Oberflächlich betrachtet klingt der Hit „Whip It“ von 1980 einfach nur nach komischem Synthie-Pop.
 Der Text ist jedoch eine Parodie auf Antiheldentum und besagt: „Repariere die Welt selbst.“
 DEVOs Humor war nicht nur Unsinn, sondern fungierte als Kritik an einer medienmanipulierten Gesellschaft.
 
@@ -176,7 +176,7 @@ timeline
 ## Kapitel 10: Die heutige Bedeutung von Energy Dome
 
 Der Energy Dome wird von DEVO-Fans immer noch als „Helm des Denkens“ geliebt.
-Während der Coronavirus-Pandemie wird **Energiekuppel mit Gesichtsschutz** verkauft,
+Während der Coronavirus-Pandemie werden **Energiekuppeln mit Gesichtsschutz** verkauft,
 Als Warnung vor Umweltproblemen hat es erneut Aufmerksamkeit erregt.
 
 Mit anderen Worten, der **Energy Dome ist ein soziales Gerät, das sich mit jeder Ära „transformiert“**.
@@ -195,7 +195,7 @@ Vielmehr wird diese Entscheidung zu einem Mittel zur Wiederherstellung der mensc
 > ─ DEVO, Freedom of Choice (1980)
 
 Energy Dome ist kein Helm, der die Zukunft verschließt.
-**Es könnte eine Ikone für uns sein, wieder die Freiheit zu wählen.**
+**Vielleicht ist es ein Symbol dafür, dass wir wieder die Freiheit haben zu wählen.**
 ---
 
 ## Verwandte Materialien/Referenzen

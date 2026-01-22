@@ -15,7 +15,7 @@ title: Nicole Lamons – Ich glaube, es wird dir gefallen
 ---
 
 
-Ein House-/Deep-House-/Garage-House-Track, der 1993 vom New Yorker House-Label Strictly Rhythm veröffentlicht wurde.
+Ein House/Deep House/Garage House-Track, der 1993 vom New Yorker House-Label Strictly Rhythm veröffentlicht wurde.
 
 DJ Pierre war in dieser Zeit der A&R von Strictly Rhythm.
 

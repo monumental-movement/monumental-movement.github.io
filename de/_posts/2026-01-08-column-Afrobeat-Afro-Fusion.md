@@ -21,7 +21,7 @@ title: '[Kolumne] Afrobeat / Afro-Fusion – Strukturelle Veränderungen und glo
 Text: mmr｜Thema: Die Tatsache, dass sich Afrobeat rund um die Live-Kultur Nigerias entwickelte, wie Afro-Fusion in einer grenzüberschreitenden Produktions- und Vertriebsumgebung eingesetzt wurde und die Geschichte der Musikindustrie und der Diasporabewegungen.
 
 
-Afrobeat und Afro-Fusion sind Musikkulturen, die ihren Ursprung in Westafrika, insbesondere Nigeria und Ghana, haben. Obwohl die beiden oft verwechselt werden, haben sie unterschiedliche historische Hintergründe, musikalische Strukturen und soziale Rollen. Dieser Artikel gliedert die Geschichte von der Etablierung des Afrobeat bis zur Entwicklung der Afro-Fusion ausschließlich auf der Grundlage nachprüfbarer Fakten und beschreibt umfassend Veränderungen in den musikalischen Merkmalen, Produktionstechniken, dem sozialen Kontext und der internationalen Rezeption.
+Afrobeat und Afro-Fusion sind Musikkulturen, die ihren Ursprung in Westafrika, insbesondere Nigeria und Ghana, haben. Obwohl die beiden oft verwechselt werden, haben sie unterschiedliche historische Hintergründe, musikalische Strukturen und soziale Rollen. Dieser Artikel gliedert die Geschichte von der Gründung des Afrobeat bis zur Entwicklung der Afro-Fusion ausschließlich auf der Grundlage nachprüfbarer Fakten und beschreibt umfassend Veränderungen in den musikalischen Merkmalen, Produktionstechniken, dem sozialen Kontext und der internationalen Rezeption.
 
 > „Dieser Artikel vermeidet eine Bewertung und subjektive Interpretation und besteht nur aus Informationen, die auf historischen Materialien, Zeugenaussagen und aufgezeichneten historischen Fakten basieren.“
 
@@ -53,7 +53,7 @@ Bei der Melodie liegt der Schwerpunkt eher auf Rhythmus und der Zirkulation von 
 
 ### Kolonialzeit und urbane Musik
 
-Die Kolonialherrschaft vom Ende des 19. bis zum 20. Jahrhundert brachte europäische Instrumente und harmonische Konzepte nach Westafrika. Im ganzen Land spielten Blaskapellen, Kirchenmusik und Militärkapellen und vermischten sie mit traditionellen Rhythmen. Das in Ghana entstandene Highlife ist ein repräsentatives Beispiel für diese Art der Hybridisierung und dient als wichtige Vorgeschichte für die spätere Entstehung des Afrobeat.
+Die Kolonialherrschaft vom Ende des 19. bis zum 20. Jahrhundert brachte europäische Instrumente und harmonische Konzepte nach Westafrika. Im ganzen Land spielten Blaskapellen, Kirchenmusik und Militärkapellen und vermischten sie mit traditionellen Rhythmen. Das in Ghana entstandene Highlife ist ein repräsentatives Beispiel dieser Hybridisierung und dient als wichtige Vorgeschichte für die spätere Entstehung des Afrobeat.
 
 ---
 
@@ -63,7 +63,7 @@ Die Kolonialherrschaft vom Ende des 19. bis zum 20. Jahrhundert brachte europäi
 
 Der Begriff Afrobeat wurde Ende der 1960er Jahre vom nigerianischen Musiker Fela Anikulapo Kuti geprägt. Fela erhielt seine musikalische Ausbildung in London und studierte Jazz, Highlife und Soul, bevor er nach Nigeria zurückkehrte. Während seines Aufenthalts in den Vereinigten Staaten im Jahr 1969 wurde er von der Black-Power-Bewegung und dem Funk beeinflusst und entschied sich für eine Richtung, die Musik und politischen Diskurs verbinden sollte.
 
-Seine Bands Africa 70 und später Egypt 80 etablierten eine Form, die sich von der bestehenden Tanzmusik unterschied und sich durch lange Auftritte, sich wiederholende Grooves und Bläserabschnitte auszeichnete.
+Seine Bands, Africa 70 und später Egypt 80, etablierten eine Form, die sich von der bestehenden Tanzmusik unterschied und sich durch lange Auftritte, sich wiederholende Grooves und Bläserabschnitte auszeichnete.
 
 ### Musikalische Features
 

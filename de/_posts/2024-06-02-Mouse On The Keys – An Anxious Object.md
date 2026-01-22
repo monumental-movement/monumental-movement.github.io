@@ -15,9 +15,9 @@ title: Maus auf den Tasten – ein ängstliches Objekt
 ---
 
 
-Mouse On The Keys wurde 2006 von den ehemaligen Mitgliedern der Post-Hardcore/Post-Rock-Band Nine Days Wonder, Akira Kawasaki (Schlagzeug, Klavier) und Atsushi Kiyota (Klavier, Keyboards), gegründet und wurde 2007 mit der Hinzufügung von Daisuke Niidome (Klavier, Keyboards) zu einem Trio. Mouse On The Keys zeichnet sich durch einen einzigartigen Stil aus, der Jazz, Funk, Post-Rock und elektronische Musik verbindet.
+Mouse On The Keys wurde 2006 von den ehemaligen Mitgliedern der Post-Hardcore/Post-Rock-Band Nine Days Wonder, Akira Kawasaki (Schlagzeug, Klavier) und Atsushi Kiyota (Klavier, Keyboards), gegründet und wurde 2007 mit der Hinzufügung von Daisuke Shindome (Klavier, Keyboards) zu einem Trio. Mouse On The Keys zeichnet sich durch einen einzigartigen Stil aus, der Jazz, Funk, Post-Rock und elektronische Musik verbindet.
 
-„An anxious object“, 2009 auf dem Label Machupicchu Industrias veröffentlicht, ist das erste Full-Length-Album von Mouse On The Keys.
+„An anxious object“, 2009 beim Label Machupicchu Industrias veröffentlicht, ist das erste Full-Length-Album von Mouse On The Keys.
 
 #### Trackliste
 ```md

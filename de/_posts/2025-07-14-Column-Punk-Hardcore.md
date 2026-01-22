@@ -17,7 +17,7 @@ title: '[Kolumne] Definition von Punk und Hardcore: der Wendepunkt von Wut und A
 
 Text: mmr｜Thema: Punk/Hardcore
 
-In den späten 1970er Jahren fühlten sich junge Menschen mit kommerzialisierter Rockmusik übersättigt und es entstand „Musik, die einfach und rau ist und vor allem ihre wahren Gefühle zum Ausdruck bringt“. Es ist Punk. Allerdings begann auch dieser Punk-Stil irgendwann, sich nach innen zu wenden, manchmal sogar formal. Es war Hardcore-Punk, der erneut die Flammen der Wut entfachte.
+In den späten 1970er Jahren fühlten sich junge Menschen mit kommerzialisierter Rockmusik übersättigt und es entstand „Musik, die einfach und rau ist und vor allem ihre wahren Gefühle zum Ausdruck bringt“. Es ist Punk. Doch selbst dieser Punk-Stil begann sich irgendwann nach innen zu wenden, manchmal sogar formal. Es war Hardcore-Punk, der erneut die Flammen der Wut entfachte.
 In dieser Kolumne befassen wir uns mit den Definitionen und Unterschieden zwischen Punk und Hardcore aus der Perspektive von Musik, Ideologie, Mode und Geschichte.
 
 
@@ -144,7 +144,7 @@ Es hat sich in verschiedene Subgenres wie Post-Hardcore, Emo, Crustcore und Melo
 
 In Japan hat Hardcore-Punk (GAUZE, Lip Cream, G.I.S.M. usw.) eine einzigartige Kultur geschaffen.
 
-Mittlerweile gibt es eine Neubewertung der Generation-Z- und DIY-Festivals und sie behalten weiterhin ihre Stärke als Subkultur.
+Heutzutage gibt es eine Neubewertung der Festivals der Generation Z und der DIY-Generation und sie behalten weiterhin ihre Stärke als Subkultur.
 
 
 <hr>

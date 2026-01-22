@@ -200,7 +200,7 @@ color: #fff;
 
 ### Land Rover
 
-- **Repräsentatives Modell**: Range Rover Evoque (Meridian 13–19 Lautsprecher, 825 W)
+- **Repräsentatives Modell**: Range Rover Evoque (Meridian 13-19 Lautsprecher, 825 W)
 - **Technologie**: Akustische Optimierung in der Fahrzeugdesignphase
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P9b2M4QzWKQ?si=AuLz_pyciWmkgTT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -228,7 +228,7 @@ color: #fff;
 ### Rolls Royce
 
 - **Repräsentative Modelle**: Phantom, Ghost, Cullinan (Bespoke Audio 13–18 Lautsprecher, max. 1.300 W)
-- **Technologie**: Reproduktion in Studioqualität, die die Geräuschlosigkeit des Fahrzeugs nutzt, Geräuschreduzierung durch Aluminium- und Magnesiummaterialien
+- **Technologie**: Reproduktion in Studioqualität, die die Geräuscharmut des Fahrzeugs nutzt, Geräuschreduzierung durch Aluminium- und Magnesiummaterialien
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CHd9ijz66Ek?si=VLPV_mLVy-L8t5zL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -275,5 +275,5 @@ Das akustische Design wird durch KI korrigiert und der Sitz wird zu einer Resona
 Am Ende werden wir einen Bereich klanglicher Gleichheit haben, der über Länder und Marken hinausgeht.
 Das Zuhören beim Laufen schärft die menschlichen Sensibilitäten noch einmal.
 
-Was Autos uns erzählen, ist nicht die Straße, sondern die Reise des Klangs.
+Was uns Autos erzählen, ist nicht die Straße, sondern die Reise des Klangs.
 Und diese Reise hat gerade erst begonnen.

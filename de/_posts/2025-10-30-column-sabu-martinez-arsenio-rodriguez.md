@@ -18,7 +18,7 @@ title: '[Kolumne] Das afrokubanische Skelett – Die Genealogie des Herzschlags,
 ## Einführung: Eine weitere Geschichte amerikanischer Musik, erzählt von Taiko-Trommeln
 
 
-Text: mmr｜Thema: Basierend auf Sabu Martinez und Arsenio Rodríguez
+Text: mmr｜Thema: Im Mittelpunkt stehen Sabu Martinez und Arsenio Rodríguez
 Die Wendepunkte der lateinamerikanischen Musikgeschichte im Längsschnitt verfolgen
 
 In den 1950er Jahren erschütterte ein Rhythmus, der an der Hintertür eines Jazzclubs ausgetauscht wurde, das Gefüge der amerikanischen Musik.
@@ -54,7 +54,7 @@ Dadurch entstand eine vielschichtige rhythmische Struktur.
 * **Soziale Faktoren:** Nach der Abschaffung der Sklaverei bildete sich in Havanna eine afroamerikanische Gemeinschaft und die Professionalisierung schwarzer Musiker schritt voran.
 * **Technische Elemente:** Die Standardisierung der Tres (dreisaitige Gitarre) und Congas ermöglichte die spätere Montuno-Struktur.
 
-Vor diesem Hintergrund erscheint ein blinder Revolutionär namens **Arsenio Rodríguez** (1911–1970).
+Vor diesem Hintergrund entsteht ein blinder Revolutionär namens **Arsenio Rodríguez** (1911–1970).
 
 ---
 
@@ -69,7 +69,7 @@ Als Gegenleistung für dieses Gefühl erlangte er die übernatürliche Fähigkei
 
 - 1. Erweiterter Sohn mit **Kombination aus Trompete und Locken**.
 - 2. **Montuno (repetitiver Teil)** wird als Grundlage des Rhythmus in den Vordergrund gerückt.
-- 3. Wandeln Sie **Call and Response** in Jazz-Interplay um.
+- 3. Konvertieren Sie **Call and Response** in Jazz-Interplay.
 - 4. Klärung des „Tumbao“-Konzepts durch **Stärkung der Grundlinie**.
 
 Dies führte dazu, dass seine Band als „afro-kubanisches Ensemble“ Pionierarbeit leistete.
@@ -80,7 +80,7 @@ Es beeinflusste auch später Tito Puente, Machito und Thelonious Monk.
 
 ---
 
-## **Kapitel 3: Sabu Martinez – Beat Poet with Fire**
+## **Kapitel 3: Sabu Martinez – Schlage den Dichter mit Feuer**
 
 ### „Der Herzschlag des Heiligen von Harlem“
 
@@ -217,7 +217,7 @@ timeline
 ## **Referenzdiskographie**
 
 | Künstler | Album | Etikett / Jahr | Notizen |
-| ----------------- | ---------------------------------------------------------------------------- | ---------------- | ---------------- |
+| ----------------- | ------------------------------------------------------------- | ---------------- | ---------------- |
 | Sabu Martinez     | [*Palo Congo*](https://amzn.to/49pTYTA)                    | Blue Note, 1957  | アフロ・キューバン・ジャズ金字塔 |
 | Sabu Martinez     | [*Afro Temple*](https://amzn.to/4nwZIhX)                   | Philips, 1973    | スピリチュアル・アフロの頂点   |
 | Arsenio Rodríguez | [*Bruca Maniguá*](https://amzn.to/4314IUD)                 | RCA Victor, 1947 | 初期ソン革命期代表作       |

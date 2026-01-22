@@ -13,7 +13,7 @@ title: Janet Jackson – Ist eigentlich egal
 ---
 
 
-„Doesn’t Really Matter“ ist ein Lied, das als Soundtrack für den Film „The Nutty Professor 2“ entstand. Der Song zeichnet sich durch einen schnellen, poppigen Sound und eine eingängige Melodie aus, und Janet Jacksons dynamischer Gesang sticht hervor.
+„Doesn’t Really Matter“ ist ein Lied, das als Soundtrack für den Film „The Nutty Professor 2“ entstand. Der Song zeichnet sich durch einen schnellen, poppigen Sound und eine eingängige Melodie aus, und Janet Jacksons dynamischer Gesang sticht heraus.
 
 Janet Jacksons kraftvolle Singstimme, kombiniert mit dem rhythmischen und energiegeladenen Sound, schafft einen Song, der den Zuhörern Selbstvertrauen und Positivität verleiht.
 

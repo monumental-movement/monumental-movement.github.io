@@ -112,7 +112,7 @@ flowchart TD
 
 ---
 
-### Warum sollte man im digitalen Zeitalter die Dinge auf Papier behalten?
+### Warum sollte man im digitalen Zeitalter alles auf Papier behalten?
 
 | Funktionen | Digital | Papier (Zine) |
 | --------- | --------------------------------- | ---------------------------------------- |

@@ -11,15 +11,15 @@ tags:
 - Healing
 - History
 title: '[Kolumne] Religiöse Musik auf der ganzen Welt und ihre psychologischen und
-  sozialen Auswirkungen – Die Geschichte der Musik und des Gebets, erklärt anhand
-  von Illustrationen und Zeitleisten –'
+  sozialen Auswirkungen – Die Geschichte von Musik und Gebet, erklärt durch Illustrationen
+  und Zeitleisten –'
 ---
 
 
 ## Prolog: Die Universalität von Musik und Religion
 
 
-Text: mmr｜Thema: Vergleich religiöser Musik aus der ganzen Welt aus der Perspektive von Geschichte, Psychologie und physiologischen Wirkungen und deren Verständnis anhand von Illustrationen
+Text: mmr｜Thema: Vergleichen Sie religiöse Musik aus der ganzen Welt aus der Perspektive der Geschichte, Psychologie und physiologischen Wirkungen und verstehen Sie sie anhand von Illustrationen
 
 Musik ist ein universelles Element, das religiöse Rituale, Gebete und Meditation unterstützt.
 Von alten Gesängen bis hin zu moderner Heilmusik haben Klänge, Rhythmen und Stimmen einen tiefgreifenden Einfluss auf den menschlichen Geist und Körper gehabt.

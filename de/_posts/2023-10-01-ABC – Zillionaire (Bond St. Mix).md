@@ -15,7 +15,7 @@ title: ABC – Zillionaire (Bond St. Mix)
 
 ABC ist eine 1980 in Sheffield, England, gegründete Popband, die vor allem für ihre 1980er-Jahre-Songs wie „The Look of Love“ und „When Smokey Sings“ bekannt ist. Seit 1997 ist ABC ein Soloprojekt des Sängers und Gründers Martin Fry, in dem er mit verschiedenen Musikern zusammenarbeitet.
 
-Frye engagierte Trevor Horn als Produzenten, um eine stärker Pop-orientierte Richtung einzuschlagen, und benannte die Gruppe in ABC um.
+Frye engagierte Trevor Horn als Produzenten, um eine Pop-orientierte Richtung einzuschlagen, und benannte die Gruppe in ABC um.
 
 ABC veröffentlichte im November 1981 ihre erste Single „Tears Are Not Enough“ und erreichte Platz 19 der britischen Charts.
 

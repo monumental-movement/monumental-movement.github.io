@@ -10,7 +10,7 @@ tags:
 - Rock
 - Pop
 - 90s
-title: Ursprüngliche Liebe – Singles zurück bis 1991-1995
+title: Ursprüngliche Liebe – Singles aus den Jahren 1991–1995
 ---
 
 

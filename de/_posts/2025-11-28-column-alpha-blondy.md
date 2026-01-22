@@ -94,7 +94,7 @@ Mit ihrem Debütalbum bekundeten sie erstmals ihr Interesse an gesellschaftliche
 - **"Jah Glory"**
 - Englischer Text: „Jah Glory soll uns Frieden und Freiheit bringen“
 - Japanische Übersetzung: „Die Herrlichkeit Jahs wird uns Frieden und Freiheit bringen.“
-- Kommentar: Eine Hymne, die Freiheit und Frieden lobt und Hoffnung angesichts der damaligen politischen Instabilität in Westafrika zum Ausdruck bringt.
+- Kommentar: Eine Hymne, die Freiheit und Frieden lobt und die Hoffnung angesichts der damaligen politischen Instabilität in Westafrika zum Ausdruck bringt.
   
 - **„Brigadier Sabari“**
 - Englischer Text: „Korruption und Machtmissbrauch, wir können es nicht ertragen“
@@ -127,7 +127,7 @@ Ein Werk, das die Apartheid direkt kritisiert.
 ## 4. Nachrichten und Reaktionen in Südafrika zu dieser Zeit
 
 - Im Jahr 1986 erregte die internationale Tournee von Alpha Blondy Aufmerksamkeit und Aufnahmen ihres Konzerts in Johannesburg verbreiteten sich im Untergrund in nicht-weißen Gemeinden.
-- Südafrikanische inländische Medien gaben dem weißen Establishment eine niedrige Bewertung des Konzerts, aber die schwarze Gemeinschaft begrüßte es als „Symbol der Hoffnung“.
+- Südafrikanische inländische Medien gaben dem Konzert eine niedrige Bewertung für das weiße Establishment, aber die schwarze Gemeinschaft begrüßte es als „Symbol der Hoffnung“.
 - Lokaler Zeitungsartikel (damals übersetzt): „Ein Sänger vom afrikanischen Kontinent hat unseren Wunsch nach Freiheit gesungen. Seine Musik ermutigt uns.“
 
 ---
@@ -167,7 +167,7 @@ Ausdruck des „Geistes der Freiheit und des Friedens“, basierend auf der Rast
 - Die Aktivitäten von Alpha Blondy machten südafrikanischen Reggae-Künstlern Mut.
 - Einige Künstler ahmen seine Lieder nach und kreieren eigene Protestlieder.
 
-### 7.2 Internationaler Einfluss
+### 7.2 Internationale Auswirkungen
 - Informieren Sie Zuhörer auf der ganzen Welt über den aktuellen Zustand der Apartheid und fördern Sie die internationale Solidarität.
 - Seine Lieder wurden bei vielen Wohltätigkeitsveranstaltungen und Anti-Apartheid-Konzerten verwendet.
 
@@ -223,7 +223,7 @@ graph LR
 
 ## 11. Fazit
 
-Die Musik von Alpha Blondy ging über die Unterhaltung hinaus und fungierte als soziales Medium. Durch seine Aktivitäten während der Apartheidszeit zeigte er, dass Musik ein Mittel des politischen und sozialen Widerstands sein kann.
+Die Musik von Alpha Blondy ging über die Unterhaltung hinaus und fungierte als soziales Medium. Durch seine Aktivitäten während der Apartheid-Ära zeigte er, dass Musik ein Mittel des politischen und sozialen Widerstands sein kann.
 In Anbetracht der Botschaft jedes Liedes und der lokalen Reaktionen ist seine Musik ein Symbol für die universellen Werte von Freiheit und Frieden und ein wichtiges Lehrmaterial für das Nachdenken über Musik und soziale Gerechtigkeit auch in der Neuzeit.
 
 ---

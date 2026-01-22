@@ -20,7 +20,7 @@ title: '[Kolumne] Tech House: Minimale Präzision und die Neuerfindung des Groov
 
 Text: mmr｜Thema: Geburtshintergrund, Klangmerkmale, Hauptkünstler, Entwicklung in den einzelnen Regionen, Expansion seit den 2000er Jahren und aktuelle Situation
 
-Tech House ist ein Genre, das die minimalistische Struktur des Techno mit dem Groove des House verschmolz und so von Mitte der 1990er bis 2000er Jahre eine einzigartige Präsenz in Clubszenen auf der ganzen Welt etablierte. Um es ganz klar auszudrücken: Es ist „sanfter als Techno und härter als House“, aber in Wirklichkeit handelt es sich um eine komplexe Musikkultur, die den Prozess der Szenenbildung, regionale Besonderheiten und die Entwicklung der DJ-Kultur genau widerspiegelt.
+Tech House ist ein Genre, das die minimalistische Struktur von Techno mit dem Groove von House verschmolz und so von Mitte der 1990er bis 2000er Jahre eine einzigartige Präsenz in Clubszenen auf der ganzen Welt etablierte. Um es ganz klar auszudrücken: Es ist „sanfter als Techno und härter als House“, aber in Wirklichkeit handelt es sich um eine komplexe Musikkultur, die den Prozess der Szenenbildung, regionale Besonderheiten und die Entwicklung der DJ-Kultur genau widerspiegelt.
 
 
 ---
@@ -56,7 +56,7 @@ Tech House wird oft mit „einem Subgenre von Techno“ oder „einem Subgenre v
 
 ---
 
-## 2. 1980er-1990er Jahre: Hintergrund des Establishments
+## 2. 1980er bis 1990er Jahre: Hintergrund des Establishments
 
 Die Ursprünge von Tech House sollen in der Clubkultur der frühen 1990er Jahre in Großbritannien, insbesondere rund um London, liegen.
 Zu dieser Zeit waren Acid House und Rave in Großbritannien beliebt und verschiedene Stile wie Hard House, Progressive House, Techno und Tribal House wurden miteinander vermischt.
@@ -131,7 +131,7 @@ Insbesondere die folgenden Künstler sind wichtig, da sie die Lücke zwischen Te
 
 * Steve Bug (Poker Flat)
 * Booka Shade
-* M.A.N.D.Y.
+*M.A.N.D.Y.
 * Ricardo Villalobos (minimal, überschneidet sich aber auch mit Tech House)
 * Lokwürfel
 *Luciano
@@ -151,9 +151,9 @@ flowchart TD
 
 ---
 
-## 6. Änderungen im Klangaspekt
+## 6. Klangveränderungen
 
-Gegen Ende der 2000er Jahre erlebte Tech House die folgenden Veränderungen.
+Gegen Ende der 2000er Jahre erfuhr Tech House die folgenden Veränderungen.
 
 * **Detailliertere Rhythmusanordnung**
 * **Zunahme der Unterbasis** (verstärkter Einfluss Deutschlands und Südamerikas)
@@ -169,7 +169,7 @@ Zu dieser Zeit zeichnete sich Tech House dadurch aus, dass es „weicher als Min
 
 In den 2010er Jahren entwickelte sich Tech House zu einem der am häufigsten gespielten 4/4-Takte in Clubs und Festivals auf der ganzen Welt. Besonders groß war der Nachfrageanstieg auf Ibiza.
 
-Beispiele namhafter Künstler:
+Beispiele vorgestellter Künstler:
 
 *Jamie Jones (Hot Creations)
 *Lee Foss
@@ -183,7 +183,7 @@ In den späten 2010er Jahren erschien „Tech House im Festival-Stil“ mit sein
 
 ---
 
-### ■ Tech House-Zweig der 2010er Jahre
+### ■ Verzweigung des Tech House der 2010er Jahre
 
 <div class="mermaid">
 flowchart TD
@@ -198,7 +198,7 @@ flowchart TD
 
 ## 8. Regionale Entwicklung
 
-Tech House wird in jedem Land anders interpretiert und gepflegt. Nachfolgend finden Sie eine Zusammenfassung repräsentativer Regionen.
+Tech House wird in jedem Land unterschiedlich interpretiert und gepflegt. Nachfolgend finden Sie eine Zusammenfassung repräsentativer Regionen.
 
 ### ■ 1. Vereinigtes Königreich
 
@@ -252,13 +252,13 @@ Obwohl Tech House nicht an eine bestimmte Ausrüstung gebunden ist, sind im Allg
 * Den Mitteltonbereich mit dem EQ anziehen
 * Allmähliche Entwicklung in Einheiten von 16–24 bar
 
-Die Produktionsphilosophie betont die „Ästhetik der Subtraktion“ und die „Gestaltung von Leerräumen, die in einen Clubraum passen“.
+Die Produktionsphilosophie betont die „Ästhetik der Subtraktion“ und „die Gestaltung von Leerräumen, die in einen Clubraum passen“.
 
 ---
 
 ## 11. Tech House und DJ-Kultur
 
-Tech House ist untrennbar mit der DJ-Kultur verbunden. Es wird oft eher im Kontext eines DJ-Sets als eines Genres verstanden.
+Tech House ist untrennbar mit der DJ-Kultur verbunden. Es wird oft im Kontext eines DJ-Sets und nicht eines Genres verstanden.
 
 * Geeignet für lange Mischungen von 2 Stunden oder mehr
 * Angepasst an das Bodentemperaturmanagement (Aufwärmen → Spitzenwert → nach Stunden)

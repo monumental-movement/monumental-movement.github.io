@@ -46,7 +46,7 @@ color: #fff;
 
 Ricardo Villalobos wurde 1970 in Santiago, Chile, geboren. Als er jung war, zog seine Familie nach Deutschland, doch die Rhythmen Südamerikas blieben ihm erhalten. Die Klänge von Congas und Bongos wurden später als subtile Percussion in seinen Tracks wiederbelebt. Als er in seinen frühen Zwanzigern in der Berliner Clubszene arbeitete, kam er mit der neuesten Generation des Minimal Techno in Kontakt und durch die Verbindung dieser mit einem lateinamerikanischen Rhythmusgefühl entwickelte er seine eigene Musiksprache.
 
-Seine frühen EP-Werke zeichneten sich durch einen „immersiven“ Sound mit dezenter Percussion und langen Tracks aus. „Halma“ und „Que Belle Epoque“ beispielsweise gehen über reine Tanzmusik hinaus und haben Strukturen, die den Hörer in den Fluss der Zeit einbeziehen.
+Seine frühen EP-Werke zeichneten sich durch einen „immersiven“ Sound mit dezenter Percussion und langen Tracks aus. „Halma“ und „Que Belle Epoque“ beispielsweise gehen über reine Tanzmusik hinaus und verfügen über Strukturen, die den Hörer in den Fluss der Zeit einbeziehen.
 
 ### Lucianos Flugbahn
 
@@ -92,11 +92,11 @@ Etwa zur gleichen Zeit gründete Luciano das in der Schweiz ansässige Label Cad
 
 ## Kapitel 4 Schnittstelle von Kultur und Klang
 
-Ihre Musik besteht aus mehr als nur Beats. Durch die Kombination von Villalobos‘ deutscher Präzision mit elektronischer Musik und Lucianos südamerikanischem Rhythmusgefühl hat sich der Club von einem einfachen Spielplatz zu einem Ort verwandelt, der Kultur verkörpert. Das Publikum bewegte sich unwissentlich zwischen zwei Welten, als es sich dem Takt hingab.
+Ihre Musik besteht aus mehr als nur Beats. Durch die Kombination von Villalobos‘ deutscher Präzision mit elektronischer Musik und Lucianos südamerikanischem Rhythmusgefühl wurde der Club mehr als nur ein Spielplatz, sondern eine kulturelle Verkörperung. Das Publikum bewegte sich unwissentlich zwischen zwei Welten, als es sich dem Takt hingab.
 
 ### Revolution von Rhythmus und Körper
 
-Die langen Stücke von Villalobos ziehen den Zuhörer/Tänzer in einen Strudel der Zeit. Die über 10 oder 15 Minuten wiederholten Minutenwechsel gewöhnen den Körper an den Rhythmus und verwandeln den Club in einen zeremoniellen Raum und nicht nur in einen Spielplatz. Lucianos lateinamerikanische Percussion erfüllt den Boden mit Wärme und Dynamik.
+Die langen Tracks von Villalobos ziehen den Zuhörer/Tänzer in einen Strudel der Zeit. Die über 10 oder 15 Minuten wiederholten Minutenwechsel gewöhnen den Körper an den Rhythmus und verwandeln den Club in einen zeremoniellen Raum und nicht nur in einen Spielplatz. Lucianos lateinamerikanische Percussion erfüllt den Boden mit Wärme und Dynamik.
 
 ---
 
@@ -149,7 +149,7 @@ timeline
 ## Musikalität und Klanganalyse
 
 - **Rhythmus**: Eine Fusion aus subtiler Percussion aus Südamerika und europäischen Minimal-Beats
-- **Langlänge Struktur**: Tracks mit einer Dauer von mehr als 10 bis 20 Minuten, um Zeit und Körpervertiefung zu fördern
+- **Langlänge Struktur**: Tracks mit einer Dauer von mehr als 10 bis 20 Minuten, um Zeit und körperliches Eintauchen zu fördern
 - **Transkulturalität**: Als Brücke zwischen den Kulturen des Nordens und des Südens koexistieren die Wärme des Lateinischen und die Präzision des Techno.
 
 ---

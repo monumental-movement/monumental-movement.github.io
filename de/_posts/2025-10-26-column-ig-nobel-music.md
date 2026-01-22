@@ -60,7 +60,7 @@ Es gibt eine Schnittstelle zwischen Kunst, die es uns ermöglicht, „die Welt d
 
 ## 2. Klang als Experiment – ​​der Moment, in dem Wissenschaft auf Musik trifft
 
-### 2.1 2013: Transplantationsexperiment mit Mäusen, die dazu gebracht wurden, Oper zu hören
+### 2.1 2013: Transplantationsexperiment von Mäusen, die dazu gebracht wurden, Oper zu hören
 
 Im Jahr 2013 hat ein Forschungsteam unter der Leitung von **Niimi Masanori** an der Teikyo-Universität,
 Aufsehen erregte er durch ein Experiment, bei dem er herztransplantierte Mäuse dazu brachte, Musik zu hören.
@@ -89,7 +89,7 @@ Dieses Team entwickelte einen **intravaginalen Lautsprecher** namens „Babypod�
 Wir haben untersucht, wie Föten im Mutterleib auf musikalische Reize reagieren.
 
 Untersuchungen zufolge ist es im Vergleich dazu, wenn der Ton über einen Lautsprecher von außerhalb des Körpers der Mutter abgespielt wird,
-Es wird gesagt, dass der Fötus darauf reagierte, indem er seinen Mund und seine Zunge bewegte, wenn die Vibrationen direkt über den Babypod angewendet wurden.
+Es heißt, dass der Fötus darauf reagierte, indem er seinen Mund und seine Zunge bewegte, wenn die Vibrationen direkt über den Babypod angewendet wurden.
 Dieses Ergebnis deutet auf eine „frühe Entwicklung der fötalen Hörreaktion“ hin.
 Wissenschaftlich bestätigte die Möglichkeit, dass Musik mit der physiologischen Entwicklung zusammenhängt.
 Es erregte auch große gesellschaftliche Aufmerksamkeit als Beispiel für die Visualisierung der „Verbindung zwischen Leben und Klang“.
@@ -137,7 +137,7 @@ Die beiden teilen den gleichen Forschungsgeist mit unterschiedlichen Methoden.
 
 ---
 
-### 3.3 Publikum als „Subjekt“ – zwischen Emotionen und Daten
+### 3.3 Publikum als „Subjekt“ – zwischen Emotion und Daten
 
 In neueren neurowissenschaftlichen Forschungen wurde fMRT verwendet, um die Gehirnaktivität beim Musikhören zu messen.
 Es werden Anstrengungen unternommen, die Mechanismen zu analysieren, durch die Freude und Empathie entstehen.

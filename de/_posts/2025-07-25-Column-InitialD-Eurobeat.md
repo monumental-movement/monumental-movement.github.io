@@ -78,7 +78,7 @@ Beim Abspielen dieser Lieder kann man die Geschwindigkeit des Autos auf dem Bild
 
 ● Grund 2: Inländischer Anime x importierte Musik fühlt sich an wie ein Reimport.
 
-Durch die mutige Einführung des in Italien hergestellten Eurobeat in die rein japanischen Anime-Medien entstand eine hybride Subkultur, die reimportiert wurde. Diese Struktur entspricht der Globalisierung von Anime und breitet sich auf die Fangemeinde in Europa und den Vereinigten Staaten aus.
+Durch die mutige Einführung des in Italien hergestellten Eurobeat in die rein japanischen Anime-Medien entstand eine hybride Subkultur, die reimportiert wurde. Diese Struktur entspricht der Globalisierung von Anime und verbreitet sich im Fandom in Europa und den Vereinigten Staaten.
 
 
 <hr>
@@ -87,7 +87,7 @@ Durch die mutige Einführung des in Italien hergestellten Eurobeat in die rein j
 
 ● 1. Phänomen der Neubewertung/Wiederbelebung
 
-Viele junge Leute wurden durch „Initial D“ zum ersten Mal mit Eurobeat bekannt gemacht und Songs wie „Initial D Remix“ und „Drift Compilation“ sorgten auf YouTube für Aufsehen. Dies führte zu einem Phänomen, bei dem Songs aus den 90ern von der Generation Z wiederbelebt wurden.
+『頭文字D』を通じて多くの若者が初めてユーロビートに触れ、YouTube上では「頭文字D Remix」「Drift Compilation」などがバズを生んだ. Dies führte zu einem Phänomen, bei dem Songs aus den 90ern von der Generation Z wiederbelebt wurden.
 
 ● 2. Definition als „laufende Musik“
 
@@ -106,12 +106,12 @@ Eurobeat wird in TikTok- und MAD-Videos auf neue Weise neu interpretiert.
 
 Dadurch wurde Eurobeat in Japan zu einer ungewöhnlich „emotionalen“ Musik. Mit anderen Worten:
 
-Eurobeat ist Musik, die von Geschwindigkeit spricht, aber gleichzeitig ist es zu einem Medium geworden, das die Geschichte davon erzählt, wie man durch etwas hindurchläuft und dabei etwas verliert.
+Eurobeat ist Musik, die von Geschwindigkeit spricht, und gleichzeitig ist es zu einem Medium geworden, das die Geschichte davon erzählt, wie man durch etwas hindurchläuft und dabei etwas verliert.
 
 
 <hr>
 
-### Die Erinnerung an die Geschwindigkeit wird niemals verblassen
+### Die Erinnerung an die Geschwindigkeit wird niemals verschwinden
 „Initial D“ ist zu Ende, aber die Erinnerungen an Eurobeat kursieren immer noch im Internet. Auch wenn das Rennen vorbei ist, beginnt das Rennen jedes Mal, wenn die Musik abgespielt wird, von neuem.
 
 Es ist auch ein Wiedererleben unserer eigenen „Jugend“ und unseres „Impulses“.

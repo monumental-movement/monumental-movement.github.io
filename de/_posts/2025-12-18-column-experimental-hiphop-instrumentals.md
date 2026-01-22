@@ -11,7 +11,7 @@ tags:
 - Experimental
 - Hiphop
 - Instrumental
-title: '[Kolumne] Experimentelle Hip-Hop-Instrumente'
+title: '[Kolumne] Experimentelle Hip-Hop-Instrumentale'
 ---
 
 
@@ -20,7 +20,7 @@ title: '[Kolumne] Experimentelle Hip-Hop-Instrumente'
 
 Text: mmr｜Thema: Die Geschichte der Etablierung experimenteller Hip-Hop-Instrumentalmusik, der Produktionsprozess, Sampling-Techniken, Klangstruktur und die Produktionspraktiken von Knxwledge und Madlib.
 
-Hip-Hop ist im Wesentlichen eine Kultur, in der sich der verbale Ausdruck des MC und die sich wiederholende Struktur des Beats ergänzen. Doch seit in den 1990er-Jahren Instrumentalwerke ohne Rap unabhängig voneinander zu kursieren begannen, traten Beats als Thema und nicht als Begleitung in den Vordergrund. Insbesondere bei experimentellen Instrumenten ist keine homogene Beat-Struktur oder ein Entwicklungsdesign für den Rap erforderlich, und Zeit, Textur und Fragmentierung werden zu den Hauptdesignzielen.
+Hip-Hop ist im Wesentlichen eine Kultur, in der sich der verbale Ausdruck des MC und die sich wiederholende Struktur des Beats ergänzen. Seit den 1990er-Jahren jedoch eigenständige Instrumentalwerke ohne Rap zu kursieren begannen, traten Beats als Thema und nicht als Begleitung in den Vordergrund. Insbesondere bei experimentellen Instrumenten ist keine homogene Beatstruktur oder ein Entwicklungsdesign für den Rap erforderlich, und Zeit, Textur und Fragmentierung werden zu den Hauptdesignzielen.
 
 > „Der Verzicht auf Wrap ist kein Versäumnis, sondern eine Erweiterung der Gestaltungsfreiheit.“
 
@@ -62,7 +62,7 @@ Als Geräte zur Aufnahme und Wiedergabe kurzer Audiofragmente wurden digitale Sa
 
 ## Von der Schleifenkultur zur Fragmentkultur
 
-In der traditionellen Hip-Hop-Produktion waren Loops von zwei bis acht Takten die Grundeinheit eines Songs. Bei experimentellen Instrumenten ist diese Einheit extrem verkürzt und wiederholt und unterbricht Fragmente von weniger als einem Schlag, manchmal mehreren zehn Millisekunden. Dadurch wird vom Zuhörer verlangt, der Dichte der Veränderungen in der Akustik zu folgen, statt die Schläge zu zählen.
+In der traditionellen Hip-Hop-Produktion waren Loops von zwei bis acht Takten die Grundeinheit eines Songs. Bei experimentellen Instrumenten ist diese Einheit extrem verkürzt, wodurch Fragmente von weniger als einem Schlag, manchmal mehreren zehn Millisekunden, wiederholt und unterbrochen werden. Dadurch wird vom Zuhörer verlangt, der Dichte der Veränderungen in der Akustik zu folgen, statt die Schläge zu zählen.
 
 > „Wiederholung ist nicht stabil, sondern fungiert als eine Reihe von Beschwerden“
 

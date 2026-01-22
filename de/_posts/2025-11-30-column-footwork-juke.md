@@ -64,7 +64,7 @@ Die musikalischen Eigenschaften von Footwork/Juke sind wie folgt.
 - **Tempo**: Sehr schnell, etwa 160 BPM.
 - **Rhythmusstruktur**: Komplexe Synkope, Verwendung von TR-808/909 Drum Machines.
 - **Sampling**: Hochgeschwindigkeitsaufnahme fragmentierter Vocals, Hip-Hop- und R&B-Phrasen.
-- **Songstruktur**: Wiederholt kurze Phrasen hauptsächlich in Schleifen. Es werden häufig ungerade Taktarten und unregelmäßige Pausen verwendet.
+- **Songstruktur**: Wiederholt kurze Phrasen hauptsächlich in Schleifen. Es werden oft ungerade Taktarten und unregelmäßige Pausen verwendet.
 - **Klangcharakteristik**: Die Bassdrum im tiefen Bereich wird betont, die Snare wird fein verteilt. Nutzt den Stereoraum gekonnt aus.
 
 ---
@@ -128,7 +128,7 @@ Seit den 2010er Jahren erregt Footwork auch außerhalb der USA Aufmerksamkeit. E
 ## 7. Musikalische Analyse/repräsentative Werke
 
 - **DJ Rashad – „Let It Go“**
-Ein klassisches Beispiel für schnelle BPM, fragmentierten Gesang und komplexe rhythmische Strukturen.
+Ein klassisches Beispiel für schnellen BPM, fragmentierten Gesang und komplexe rhythmische Strukturen.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qPecFEVst_c?si=dmLd03_NYbq-Dtzd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -142,7 +142,7 @@ Der Zusammenhang mit Ghetto House, dem Prototyp des frühen Footwork, ist klar.
 ---
 
 - **DJ Spinn – „At All“**
-Kreativer Einsatz von Samples und die enge Verbindung zwischen Tanz und Musik.
+Kreativer Sample-Einsatz, enge Verbindung zwischen Tanz und Musik.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wg2qYnayYao?si=LwzenQVVy_QPQ9uY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

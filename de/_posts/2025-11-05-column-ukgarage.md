@@ -19,7 +19,7 @@ title: '[Kolumne] Die embryonale Bewegung der britischen Garage: der schwankende
 ## Prolog: Zitternde Beats, hüpfender Bass – was ist UK Garage?
 
 
-Text: mmr｜Thema: Britische Garage, die in den 90er Jahren im Londoner Untergrund entstand. Wir verfolgen die Entstehung, den Wandel und die Schnittmenge der Clubkultur
+Text: mmr｜Thema: Britische Garage, die in den 90er Jahren im Londoner Untergrund entstand. Auf den Spuren seiner Entstehung, seines Wandels und der Schnittmenge der Clubkultur
 
 Mitte der 1990er Jahre fand in den Londoner Underground-Clubs still und leise eine Klangrevolution statt.
 Sein Name ist „UK Garage“. Basierend auf American Garage House haben sie einen einzigartigen „Shuffling Rhythm“ etabliert, indem sie Dschungelrhythmen, R&B-Gesang und jamaikanische Soundsystemkultur kombiniert haben.
@@ -54,7 +54,7 @@ Nach „Second Summer of Love“ im Jahr 1988 breitete sich die Rave-Kultur aus,
 ## Kapitel 2: Geburt von Speed ​​​​Garage und 2-Step
 
 ### Entstehung von Speed ​​Garage (1996-1998)
-Frühe britische Werkstätten waren als „Speed ​​​​Garage“ bekannt. Dies ist ein amerikanischer House-Stil mit einer **Dschungel-Basslinie**, und einige typische Titel sind:
+Frühe britische Werkstätten waren als „Speed ​​​​Garage“ bekannt. Dies ist ein amerikanischer House-Stil mit einer **Dschungel-Basslinie**, und einige typische Tracks sind:
 
 - **Double 99 – „RipGroove“ (1997)**
 - **Tuff Jam – „Need Good Love“ (1997)**
@@ -129,7 +129,7 @@ Es ist diese Vielfalt, die die „Schwankung“ des Rhythmus erzeugt.
 - **Der DIY-Geist britischer Städte**
 
 Dieser Schnittpunkt bildete die einzigartige Klangidentität Großbritanniens.
-Die UKG-Partei war auch ein gemeinsamer Raum, der über Klasse und Rasse hinausging und jungen Menschen als positives Ausdrucksmittel als Reaktion auf die damaligen sozialen Unruhen (Unruhen, Arbeitslosigkeit, Politik unter der Blair-Regierung) diente.
+Die UKG-Partei war auch ein gemeinsamer Raum, der über Klasse und Rasse hinausging und jungen Menschen als Mittel zur positiven Meinungsäußerung als Reaktion auf die damaligen sozialen Unruhen (Unruhen, Arbeitslosigkeit, Politik unter der Blair-Regierung) diente.
 
 ---
 

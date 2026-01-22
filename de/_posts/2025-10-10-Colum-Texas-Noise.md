@@ -21,7 +21,7 @@ Text: mmr｜Thema: Von Charalambides bis Black Leather Jesus, eine Nachverfolgun
 
 
 Von Ende der 1990er bis Anfang der 2000er Jahre hat sich Noise-Musik in der weiten Landschaft des amerikanischen Südens etabliert.
-Während New York und Los Angeles „Kunststädte“ waren, die in Kunstgalerien und Underground-Clubs Noise-Musik entwickelten, entwickelte Texas seine Grammatik als Ort der geografischen Isolation und des persönlichen Experimentierens.
+Während New York und Los Angeles „Kunststädte“ waren, die Noise-Musik in Kunstgalerien und Underground-Clubs entwickelten, entwickelte Texas seine Grammatik als Ort der geografischen Isolation und des persönlichen Experimentierens.
 
 Houston, Austin und San Antonio – oberflächlich betrachtet mögen diese Städte die „Heimatländer von Country und Blues“ sein, doch hinter den Kulissen wurden in aller Stille **Tape-Collage, Nicht-Musik und Drone** kultiviert.
 
@@ -50,10 +50,10 @@ Ihr Sound war weniger Lärm als vielmehr ein experimentelles Ritual, das den „
 - Gesangsphrase, die wie ein Gebet wiederholt wird
 - Harmonische Struktur, die nur durch die trockene texanische Luft erreicht werden kann
 
-> „Es ist, als würde man die Landschaft selbst aufnehmen, nicht die Musik.“
+> „Es ist, als würde man die Szenerie selbst aufnehmen, nicht die Musik.“
 > — Thurston Moore (Sonic Youth)
 
-Charalambides' Aktivitäten verbreiteten sich über die Labels **Kranky** und **Wholly Other** und hatten großen Einfluss auf spätere Noise-Künstler aus Texas.
+Charalambides' Aktivitäten verbreiteten sich über die Labels **Kranky** und **Wholly Other** und hatten großen Einfluss auf spätere texanische Noise-Künstler.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1phVgCjUwSo?si=C6sHhwxXloYKbD0E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -79,7 +79,7 @@ Ablegereinheiten wie **Werewolf Jerusalem** und **The Rita** entstanden ebenfall
 Austin ist die Stadt in Texas, in der der Lärm eine neue Richtung eingeschlagen hat, insbesondere als Hochburg der College-Kultur und der DIY-Kunst.
 In den späten 2000er Jahren verlagerten Künstler wie **Iron Lung, Pure Ground und Digital Leather** ihren Fokus von der Härte auf den Minimalismus.
 
-Auch die Aufnahmeumgebung hat sich geändert. Kassettenetiketten waren auf dem Vormarsch und auch der Austausch mit Ländern wie **Edition Mego und Hospital Productions** machte Fortschritte.
+Auch die Aufnahmeumgebung hat sich geändert. Kassettenetiketten waren auf dem Vormarsch und auch der Austausch mit Ländern wie **Edition Mego und Hospital Productions** schritt voran.
 Charakteristisch für diese Zeit war die Neudefinition von „Lärm als Kunst“.
 Insbesondere das „No Idea Festival“ fand in kleinen Galerien und Lagerhäusern in Austin statt.
 Anerkannte texanische Noise-Kultur als Teil eines internationalen Avantgarde-Musiknetzwerks.

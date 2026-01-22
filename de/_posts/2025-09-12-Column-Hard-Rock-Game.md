@@ -40,7 +40,7 @@ color: #fff;
 
 ## 1960er-1970er: Geburt des Hard Rock und der Vorabend der Spielhallen
 
-- **Hintergrund**: Led Zeppelin, Deep Purple und Black Sabbath traten in London und Los Angeles auf. Präsentiert ein neues Musikerlebnis mit explosiven Sounds und tiefgründigen Riffs.
+- **Hintergrund**: Led Zeppelin, Deep Purple und Black Sabbath treten in London und Los Angeles auf. Präsentiert ein neues Musikerlebnis mit explosiven Sounds und tiefgründigen Riffs.
 - **Berührungspunkt mit Spielen**: Diese Ära befand sich noch in den Anfängen der Spielhallen (am Vorabend von „Pong“ und „Space Invaders“). Obwohl die direkte Verbindung schwach ist, erzeugen die psychedelischen Kunstwerke und Experimente mit elektronischen Klängen Keime, die mit der Ästhetik der elektronischen Musik des Spiels in Einklang stehen.
 
 **Repräsentatives Meisterwerk**
@@ -157,7 +157,7 @@ color: #fff;
 
 - **Hintergrund**: Nu-Metal und Post-Grunge waren Hits. Obwohl die Tradition des Hard Rock fragmentiert ist, ist sie immer noch lebendig und wohlauf.
 - **Verbindung zu Spielen**: Die Serien „Guitar Hero“ und „Rock Band“ sind zu gesellschaftlichen Phänomenen geworden. Klassische Hardrock-Songs aus der Vergangenheit werden von einer neuen Generation wiederentdeckt.
-- Musikspiele wurden zu einem „Umerziehungsinstrument“ für Hardrock und führten Teenager an Led Zeppelin und Metallica.
+- Musikspiele wurden zu einem „Umerziehungsinstrument“ für Hardrock und führten Jugendliche an Led Zeppelin und Metallica heran.
 
 **Repräsentatives Meisterwerk**
 - Linkin Park – *Hybridtheorie* (2000)
@@ -298,7 +298,7 @@ Seit den 2000er Jahren spielen Musikspiele wie **Guitar Hero** und **Rock Band**
 | Taiko no Tatsujin 6 (2004) | NICHT SCHNEIDEN | Jimmy Weckl | Harte Fusion-Drums |
 | Taiko no Tatsujin 11 (2007) | Rumble Ranunculus | Seiya Murai | Rock auf Gitarrenbasis |
 | Taiko no Tatsujin 14 (2010) | Xa | Tatsh | Metal-Highspeed-Song |
-| Taiko no Tatsujin Green Ver. (2018) | MEGALOVANIEN | Toby Fox | Auf Gitarrenriffs basierend, Spielemusik-Ursprung |
+| Taiko no Tatsujin Green Ver. (2018) | MEGALOVANIA | Toby Fox | Auf Gitarrenriffs basierend, Spielemusik-Ursprung |
 
 ---
 

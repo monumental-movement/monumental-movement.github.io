@@ -17,9 +17,9 @@ title: '[Kolumne] MERZBOW ── Lärm, die befreiende Akustik'
 ## Prolog: Lärm als Umkehrung der Stille
 
 
-Text: mmr｜Thema: Erkundung der Philosophie und kulturhistorischen Bedeutung der von Masami Akita/Merzbow entwickelten Noise-Musik
+Text: mmr｜Thema: Erforschung der Philosophie und kulturhistorischen Bedeutung der von Masami Akita = Merzbow entwickelten Noise-Musik
 
-Seit den 1980er Jahren hat die aus Japan stammende „Noise-Musik“ eine einzigartige Entwicklung in der Geschichte der Weltmusik eingeschlagen. Die Person, die weiterhin im Mittelpunkt steht, ist **Masami Akita (Merzbow)**. Sein Sound ist gewalttätig und dennoch meditativ, destruktiv und dennoch organisch.
+Seit den 1980er Jahren hat die aus Japan stammende „Lärmmusik“ eine einzigartige Entwicklung in der Geschichte der Weltmusik eingeschlagen. Die Person, die weiterhin im Mittelpunkt steht, ist **Masami Akita (Merzbow)**. Sein Sound ist gewalttätig und dennoch meditativ, destruktiv und dennoch organisch.
 Es geht über den Rahmen von „Musik“ hinaus und sollte stattdessen als **ein „klangphilosophisches Experiment“** betrachtet werden.
 
 Der Name Merzbow stammt von Schulz' Dada-artiger Collagearbeit „Merzbau“. Mit anderen Worten: Schon der Akt der Demontage vorhandener Strukturen und die Rekonstruktion der Fragmente ist sein schöpferisches Prinzip.

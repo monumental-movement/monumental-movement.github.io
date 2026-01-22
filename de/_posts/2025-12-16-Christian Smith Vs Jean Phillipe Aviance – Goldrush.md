@@ -14,7 +14,7 @@ title: Christian Smith vs. Jean Phillipe Aviance – Goldrush
 ---
 
 
-Christian Smith ist ein Tech-House/Funky Techno-Produzent und DJ aus Schweden. Jean-Phillippe Aviance ist ein DJ und Produzent aus Washington DC, USA.
+Christian Smith ist ein Tech-House/Funky Techno-Produzent und DJ aus Schweden. Jean-Phillippe Aviance ist ein DJ und Produzent aus Washington, DC, USA.
 
 „Goldrush“ ist ein Techno/Tech-House-Track, der 1998 auf Christian Smiths eigenem Label Tronic veröffentlicht wurde.
 

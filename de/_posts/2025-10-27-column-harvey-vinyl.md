@@ -18,11 +18,11 @@ title: '[Kolumne] DJ Harvey und Plattensammlung: DJ als Körper, der „Sound“
 ## Prolog: Der Mythos von DJ Harvey
 
 
-Text: mmr｜Thema: Nicht nur ein DJ, sondern eine Betrachtung des letzten „Schamane“ der analogen Ära
+Text: mmr｜Thema: Nicht nur ein DJ, sondern eine Betrachtung des letzten „Schamane“ des analogen Zeitalters
 
 
 DJ Harvey – Wenn man nur diesen Namen hört, werden die Gesichter vieler Clubfreaks schlaff.
-Als Mitbegründer des legendären Londoner Clubs „Tonka Sound System“ erlangte er in den 90er Jahren als Resident des „Ministry of Sound“ Berühmtheit, zog in den 2000er Jahren nach „Ibiza“ und lebt heute in „Los Angeles“.
+Als Mitbegründer des legendären Londoner Clubs „Tonka Sound System“ erlangte er in den 90er Jahren als Resident bei „Ministry of Sound“ Berühmtheit, zog in den 2000er Jahren nach „Ibiza“ und lebt heute in „Los Angeles“.
 
 Harvey sagt. „Aufzeichnungen sind Fragmente meiner Seele. Wenn die Nadel fällt, wohnt Gott dort.“
 Diese Worte sagen uns alles über seine Sicht auf das DJing. Auch im 21. Jahrhundert, wo die Digitalisierung voranschreitet, glaubt er immer noch an „Musik als Substanz“. Dieser Glaube macht DJ Harvey zu einer Legende.
@@ -64,7 +64,7 @@ Für ihn ist eine Aufzeichnung „der Akt, das Leben eines anderen aufzuzeichnen
 Über Märkte und Flohmärkte schlendern und verstaubte Schallplatten ausgraben. Dort sind nicht nur Geräusche, sondern auch **Spuren der Zeit** eingraviert.
 
 Harvey sagt: „Je mehr menschliche Fingerabdrücke auf einer Schallplatte sind, desto lebendiger ist der Klang.“
-Sein Set umfasst eine Mischung aus unbekanntem Italo-Disco, Rock der 70er Jahre, Synth-Boogie der 80er Jahre und hawaiianischem AOR.
+Sein Set umfasst eine Mischung aus unbekanntem Italo-Disco, 70er-Jahre-Rock, 80er-Synth-Boogie und sogar hawaiianischem AOR.
 Die Auswahl der Lieder erfolgt nicht zufällig, sondern basiert auf der Intuition, den „Luftstrom des Klangs“ zu lesen.
 
 Seine DJ-Tasche ist wie ein Reisetagebuch. Jede Aufzeichnung enthält Erinnerungen an eine Nacht.
@@ -74,7 +74,7 @@ Seine DJ-Tasche ist wie ein Reisetagebuch. Jede Aufzeichnung enthält Erinnerung
 ## Kapitel 3: London – Ibiza – LA, eine bewegende Plattenkiste
 
 Harveys Aufzeichnungen waren schon immer in Bewegung.
-Von Londons Underground-Clubs über Ibizas **Pikes Hotel** bis hin zu LAs Lagerhaus-Events.
+Von Underground-Clubs in London über das **Pikes Hotel** auf Ibiza bis hin zu Lagerhaus-Events in LA.
 Wenn sich Städte verändern, ändern sich auch die Geräusche. Je nach Stimmung stellt er das Set neu zusammen.
 
 Während seiner Zeit auf Ibiza definierte Harvey das Wort „Balearen“ neu.
@@ -212,12 +212,12 @@ pie title DJ Harvey's Vinyl Box Composition
 **Erläuterung**:
 Harveys Plattenbox ist ein organisches Archiv, das auf der Mischung verschiedener Genres basiert.
 Bemerkenswert ist, dass „Rock“ und „House“ gleichberechtigt platziert sind.
-Dies symbolisiert die Tatsache, dass er ein DJ ist, der sich immer mit Vibes und nicht mit Genres verbindet.
+Dies symbolisiert die Tatsache, dass er ein DJ ist, der immer nach Stimmung und nicht nach Genre verbindet.
 Der „Oddities“-Slot ist Harveys Geheimwaffe. Wird während der Abend- und Sonnenaufgangseinstellungen aktiviert.
 
 ---
 
-## Harvey's Digging Map (Record Digging Map)
+## Harvey's Digging Map (Rekord-Grabungskarte)
 
 <div class="mermaid">
 

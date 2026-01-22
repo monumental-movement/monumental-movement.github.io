@@ -57,13 +57,13 @@ Kraftrock von Kraftwerk und Neu!, die kalten, harten Klänge von Velvet Undergro
 ### Kapitel 2: Despair of Sound – The World of Joy Division
 
 **"Interner Sound"**
-Die Texte von Ian Curtis schildern Selbstentfremdung, soziale Ängste und innere Dunkelheit. Lieder wie „Transmission“ und „She's Lost Control“ sind Meisterwerke, die die Einsamkeit des Einzelnen mit der anorganischen Natur der Stadt überlagern.
+Die Texte von Ian Curtis schildern Selbstentfremdung, soziale Ängste und innere Dunkelheit. Lieder wie „Transmission“ und „She’s Lost Control“ sind Meisterwerke, die die Einsamkeit des Einzelnen mit der anorganischen Natur der Stadt überlagern.
 
 **„Produktionsinnovation“**
 Produzent Martin Hannett nutzte Aufnahmetechniken, um einen räumlichen Klang zu erzielen, der sich von traditioneller Rockmusik unterschied. Der Hall am Schlagzeug und die dreidimensionale Platzierung des Basses waren wichtige Elemente, die die Kälte und Spannung des Sounds von Joy Division erzeugten.
 
 **„Die Magie der Live-Performance“**
-Die frühen Live-Shows von Joy Division mit ihrer gedämpften Beleuchtung und den einzigartigen Tanzbewegungen von Curtis überwältigten das Publikum. Der Bühnenauftritt, der bei einem begrenzten Publikum legendär wurde, hatte großen Einfluss auf die spätere New-Wave-/Post-Punk-Generation.
+Die frühen Live-Shows von Joy Division überwältigten das Publikum mit ihrer gedämpften Beleuchtung und den einzigartigen Tanzbewegungen von Curtis. Der Bühnenauftritt, der bei einem begrenzten Publikum legendär wurde, hatte großen Einfluss auf die spätere New-Wave-/Post-Punk-Generation.
 
 Amazonで購入 → [Unknown Pleasures](https://amzn.to/4h2l8BW)
 

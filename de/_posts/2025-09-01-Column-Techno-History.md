@@ -56,7 +56,7 @@ Die Geschichte des Techno entstand und entwickelte sich aus der Beziehung zwisch
 - Roland TR-808 / TR-909 / TB-303
 - SH-101 / Juno-106
 - Yamaha DX7
-- Akai S900/S950
+-Akai S900/S950
 - Atari ST + Cubase/Notator
 
 ---
@@ -169,7 +169,7 @@ Die Geschichte des Techno entstand und entwickelte sich aus der Beziehung zwisch
 
 ### Zusammenfassung
 Der Kern von Techno ist „Wiederholung“ und „Sounddesign“.
-Rhythmen, die direkt von x0x abstammen, Klangbilddesign von Samplern, Bearbeitungsästhetik der PC-Ära, die Zufälligkeit der Modularität, sogar KI-Unterstützung – die Rhythmen von Maschinen und Städten entwickeln sich auch im Wandel der Zeit weiter.
+Rhythmen stammen direkt von x0x ab, Klangbilddesign von Samplern, Bearbeitungsästhetik aus der PC-Ära, die Zufälligkeit der Modularität, sogar KI-Unterstützung – die Rhythmen von Maschinen und Städten entwickeln sich auch im Wandel der Zeit weiter.
 
 
 ---

@@ -20,7 +20,7 @@ title: '[Kolumne] Anticon – Genealogie der Anti-Ikonen und ihrer umgebenden Mu
 Text: mmr | Thema: Die Geschichte der experimentellen Hip-Hop/Indie-Musik von Anticon (gegründet 1998) und die Diskographie bedeutender Künstler.
 
 
-Anticon (anticon.) ist ein amerikanisches Indie-/Experimental-Hip-Hop-Label/Kollektiv, das 1998 gegründet wurde. Während viele der Gründungsmitglieder ihre Aktivitäten durch Soloaktivitäten und abgeleitete Einheiten auf „Avantgarde-Hip-Hop“ und Indie/Electronica ausweiteten, gingen die Aktivitäten des Labels Ende der 2010er Jahre nach bedeutenden Veränderungen (Abgang eines Mitbegründers, Tod eines Mitglieds usw.) zurück.
+Anticon (anticon.) ist ein amerikanisches Indie-/experimentelles Hip-Hop-Label/Kollektiv, das 1998 gegründet wurde. Während viele der Gründungsmitglieder ihren Tätigkeitsbereich auf „Avantgarde-Hip-Hop“ und Indie/Electronica ausweiteten und zwischen Solo-Acts und abgeleiteten Einheiten wechselten, gingen die Aktivitäten des Labels Ende der 2010er Jahre nach bedeutenden Veränderungen (Abgang eines Mitbegründers, Tod eines Mitglieds usw.) zurück.
 
 ---
 
@@ -134,7 +134,7 @@ In den frühen Tagen bestand der Kern der Band aus fragmentarischen, abstrakten 
 ### ■ Odd Nosdam (David Madson)
 
 | Jahr | Titel | Notizen | Link |
-| ---- | -------------- | -------------------- | -------------------------------------------------------------------------- |
+| ---- | -------------- | -------------------- | ------------------------------------------------------------ |
 | 2001 | *Plan 9… Meat Your Hypnotis.* | サンプルの異形美             | [Amazon](https://amzn.to/3VPgzBg)                                                                            |
 | 2005 | *Burner*                      | アンビエント的質感            | [Amazon](https://amzn.to/42nw4UB)           |
 | 2007 | *Level Live Wires*            | Boards of Canada的世界観 | [Amazon](https://amzn.to/42kl7TS) |
@@ -151,7 +151,7 @@ In den frühen Tagen bestand der Kern der Band aus fragmentarischen, abstrakten 
 ### ■ Alias ​​​​(Brendon Whitney)
 
 | Jahr | Titel | Notizen | Link |
-| ---- | ------------------------------------- | -------- | --------------------------------------------------------------- |
+| ---- | ------------------------------------- | -------- | ----------------------------------------------------- |
 | 2000 | *The Other Side of the Looking Glass* | デビュー作    | [Amazon](https://amzn.to/4o9dFDz) |
 | 2003 | *Muted*                               | 抑制された音世界 | [Amazon](https://amzn.to/4mPkFUO)                    |
 | 2008 | *Resurgam*                            | ポストロック寄り | [Amazon](https://amzn.to/3Wsfz65)                 |
@@ -287,7 +287,7 @@ Es gibt Berichte, dass die offizielle Website und die Aktivitäten seit 2018 ges
 
 Anticon war mehr als nur ein Hip-Hop-Label; Es war ein kulturelles Experiment, das neue Möglichkeiten für Worte und Klänge vorschlug und Elemente experimenteller Musik, Post-Rock und Electronica einbezog. Wichtige Mitglieder wie Sole, Doseone, Jel, Alias, Odd Nosdam und Why? Sie haben ihre poetischen Ausdrucksformen und Klangwelten durch Soloarbeiten, Bands und Kooperationen weiter aktualisiert.
 
-Im Mittelpunkt seiner Aktivitäten steht das Bewusstsein für die „Ausweitung des Underground-Hip-Hop“ von Ende der 1990er bis in die 2000er Jahre. Infolgedessen hat Anticon einen starken Charakter als „Kunstkollektiv“, „unabhängiges Labor“ und „ideologische Gemeinschaft“ angenommen. Die fantastischen Werke von cLOUDDEAD, die poporientierten Alben von Why? und die experimentelle Produktion von Alias und Odd Nosdam bleiben bestehen prägen bis heute viele Zuhörer und Musiker.
+Im Mittelpunkt seiner Aktivitäten steht das Bewusstsein für die „Ausweitung des Underground-Hip-Hop“ von Ende der 1990er bis in die 2000er Jahre. Infolgedessen hat Anticon einen starken Charakter als „Kunstkollektiv“, „unabhängiges Labor“ und „ideologische Gemeinschaft“ angenommen. Die fantastischen Werke von cLOUDDEAD, die poporientierten Alben von Why? und die experimentellen Produktionen von Alias ​​und Odd Nosdam werden fortgesetzt bis heute viele Zuhörer und Musiker prägen.
 
 Obwohl das Label Ende der 2010er Jahre mit dem Tod von Alias ​​​​und der Zerstreuung der Mitglieder faktisch zu Ende ging, pulsiert sein Geist weiterhin in den Aktivitäten jedes Künstlers. Anticons genreübergreifende Ästhetik ist zu einem der Eckpfeiler der modernen Indie-Musik und DIY-Kultur geworden und wurde auf Spotify und Bandcamp an eine neue Generation experimenteller Künstler weitergegeben.
 

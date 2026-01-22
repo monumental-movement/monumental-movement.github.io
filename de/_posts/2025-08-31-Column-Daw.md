@@ -64,7 +64,7 @@ MIDI (Musical Instrument Digital Interface) ist ein Standard zum Austausch von N
 
 ### Der Aufstieg von Computern und Software (1990er Jahre)
 
-Verbesserungen der Computerleistung und der praktische Nutzen der Festplattenaufzeichnung haben es möglich gemacht, Audiowellenformen digital zu bearbeiten. Avids Pro Tools (damals Digidesign) ermöglichte digital professionelle Aufnahme- und Bearbeitungsworkflows und wurde zum Industriestandard für Film-, Rundfunk- und Musikproduktion. Gleichzeitig wurden Software-Sequenzer/umfassende DAWs wie Cubase von Steinberg und Logic von Emagic (später von Apple übernommen) populär. Darüber hinaus erweiterte das von Steinberg vorgeschlagene VST-Plug-In (Virtual Studio Technology) das Ökosystem, indem es Dritten einen Mechanismus zur Entwicklung von Software-Soundquellen und -Effekten bereitstellte.
+Verbesserungen der Computerleistung und der praktische Einsatz der Festplattenaufzeichnung haben es möglich gemacht, Audiowellenformen digital zu bearbeiten. Avids Pro Tools (damals Digidesign) ermöglichte digital professionelle Aufnahme- und Bearbeitungsworkflows und wurde zum Industriestandard für Film-, Rundfunk- und Musikproduktion. Gleichzeitig wurden Software-Sequenzer/umfassende DAWs wie Cubase von Steinberg und Logic von Emagic (später von Apple übernommen) populär. Darüber hinaus erweiterte das von Steinberg vorgeschlagene VST-Plug-In (Virtual Studio Technology) das Ökosystem, indem es Dritten einen Mechanismus zur Entwicklung von Software-Soundquellen und -Effekten bereitstellte.
 
 <hr>
 
@@ -76,7 +76,7 @@ Mit Verbesserungen in der Leistung persönlicher PCs, der Verbreitung von Audios
 
 ### 2010er Jahre und darüber hinaus: Diversifizierung, Improvisation und Cloud Computing
 
-DAWs haben sich von Werkzeugen zum einfachen „Aufnehmen, Arrangieren und Mischen“ zu Multifunktionalitäten wie Live-Performance (Ableton Live), Zusammenarbeit in Echtzeit, Videoverknüpfung und modularer Integration entwickelt. Die Nutzungsmöglichkeiten werden weiter ausgebaut, darunter mobile Apps/DAWs für das iPad, Cloud-Projektsynchronisierung und die Einführung von Abo-Modellen.
+DAWs haben sich von Werkzeugen zum einfachen „Aufnehmen, Arrangieren und Mischen“ zu multifunktionalen Funktionen wie Live-Performance (Ableton Live), Zusammenarbeit in Echtzeit, Videoverknüpfung und modularer Integration entwickelt. Die Nutzungsmöglichkeiten werden weiter ausgebaut, darunter mobile Apps/DAWs für das iPad, Cloud-Projektsynchronisierung und die Einführung von Abo-Modellen.
 
 <hr>
 
@@ -92,7 +92,7 @@ DAWs haben sich von Werkzeugen zum einfachen „Aufnehmen, Arrangieren und Misch
 
 **Zeitdehnung/Tonhöhenkorrektur**: Länge und Tonhöhe von Klängen frei manipulieren (z. B. Audioquantisierung, Werkzeuge zur Tonhöhenkorrektur).
 
-**Automatisierung und Modulation**: Erzielen Sie Dynamik durch die Änderung von Parametern im Laufe der Zeit.
+**Automatisierung und Modulation**: Erzielen Sie Dynamik, indem Sie Parameter im Laufe der Zeit ändern.
 
 **Zerstörungsfreie Bearbeitung**: Kann bearbeitet werden, ohne die Originaldaten zu ändern. Grundfunktionen von DAW.
 

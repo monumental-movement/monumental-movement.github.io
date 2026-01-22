@@ -23,7 +23,7 @@ Text: mmr｜Thema: Geschichte der Logic/Pro Tools/Steinberg/MOTU/Adobe DAW-Techn
 
 
 Das zentrale Werkzeug für die Musikproduktion ist ab 2025 fast ausnahmslos eine DAW (Digital Audio Workstation).
-Der Weg der Branche zu ihrer heutigen Form war jedoch nicht einfach. Das Unternehmen blickt auf eine komplexe Geschichte zurück, die mehr als 40 Jahre voller **Unternehmensübernahmen**, **Erfindung von Technologiestandards**, **Integration von Hardware und Software** und **Verknüpfung von Video und Rundfunk** umfasst.
+Der Weg der Branche zu ihrer heutigen Form war jedoch nicht einfach. Das Unternehmen blickt auf eine komplexe Geschichte zurück, die sich über mehr als 40 Jahre mit **Unternehmensübernahmen**, der **Erfindung von Technologiestandards**, der **Integration von Hardware und Software** und der **Verknüpfung von Video und Rundfunk** erstreckt.
 
 Folgende sechs Unternehmen prägten das Gesamtbild:
 
@@ -76,7 +76,7 @@ In den Vereinigten Staaten führte die Verbreitung von Macintosh zum Aufstieg vo
 * **1985: MOTU „Performer“**
 * Kompatibel mit der grafischen Benutzeroberfläche des Macintosh, viele Komponisten haben sie übernommen.
 
-Vor dem digitalen Audio begannen MOTU und Steinberg als Werkzeuge des Komponisten.
+Vor digitalem Audio begannen MOTU und Steinberg als Werkzeuge des Komponisten.
 
 ---
 
@@ -155,7 +155,7 @@ Als Tatsachen bestätigte Punkte:
 * **Beenden Sie die Windows-Version von Logic und wechseln Sie nur zu Mac**
 * Übertragung auf die Entwicklung von GarageBand (2004).
 * Der Preis von Logic Pro wird deutlich sinken und seine Beliebtheit wird zunehmen
-* Deutlich erhöhte Anzahl an Original-Apple-Software-Soundquellen und Loop-Materialien
+* Deutlich erhöhte Anzahl originaler Apple-Software-Soundquellen und Loop-Materialien
 
 Diese Akquisition ist
 **Dies ist der größte Faktor, der das Image von „Musikproduktion = Mac“ bestimmt hat**.
@@ -191,7 +191,7 @@ Auch nach der Übernahme bleibt die Ausrichtung unverändert und die technologis
 
 * Die Genauigkeit der Videosynchronisation hat sich in der DP5/6-Ära weiter erhöht
 * Da es nur für den Mac geeignet ist, ist es mit Videosystemen kompatibel.
-* Wird häufig von Komponisten verwendet, die häufig Soft-Synthesizer verwenden
+* Wird häufig von Musikkomponisten verwendet, die häufig Soft-Synthesizer verwenden
 
 ### ■ Adobe: Cool Edit → Broadcast-Bearbeitung mit Audition integrieren
 
@@ -262,8 +262,8 @@ In den letzten Jahren hat die Geschichte der DAWs einen weiteren großen Wandel 
 
 ### ■ Adobe: Steigende Nachfrage nach Vertrieb und Rundfunk
 
-* Vorteile der Integration mit Premiere
-* Stark in der YouTube-/Podcast-Ära
+* Integrationsvorteil mit Premiere
+* Stark im YouTube-/Podcast-Zeitalter
 
 ---
 

@@ -18,7 +18,7 @@ title: '[Spalte] Dark Ambient / Ritual Ambient'
 
 ## 1. Neudefinition des Genrebegriffs
 
-Text: mmr｜Thema: Bildung immersiver Erfahrung durch Klang, Raum und rituelle Struktur
+Text: mmr｜Thema: Bildung immersiver Erfahrung durch Akustik, Raum und rituelle Struktur
 
 Dark Ambient ist keine semantische Erweiterung von Ambient-Musik, sondern ein klanglicher Ausdruck, der durch die bewusste Reduzierung musikalischer Elemente entsteht.
 
@@ -29,7 +29,7 @@ Die charakteristischen Elemente der Musik, wie Metrum, Melodie und Instrumentali
 * Räumlicher Nachhall
 *Unbekannte Tonquelle
 
-Ritual Ambient zeichnet sich dadurch aus, dass es diese Dark-Ambient-ähnliche Methode verwendet und gleichzeitig eine klare „progressive Struktur“ einführt. Ritualismus entsteht nicht durch Symbole, sondern durch die Gestaltung der Anordnung von Klängen und ihrer Dauer.
+Ritual Ambient zeichnet sich dadurch aus, dass es diese Dark-Ambient-ähnliche Methode verwendet und gleichzeitig eine klare „progressive Struktur“ einführt. Ritualismus entsteht nicht durch Symbole, sondern durch die Anordnung von Klängen und die Gestaltung ihrer Dauer.
 
 
 ---
@@ -79,7 +79,7 @@ Durch diese Methodik wird Musik als ein Seinszustand dargestellt und nicht als e
 
 ### 4.1 Ungleichgewicht im Frequenzband
 
-Das Design konzentriert sich auf die untere Grenze des Hörbereichs und erzeugt eine Wahrnehmung, die von einer physischen Vibrationsempfindung begleitet wird.
+Das Design konzentriert sich auf die untere Grenze des Hörbereichs und erzeugt eine Wahrnehmung, die von einem physischen Vibrationsempfinden begleitet wird.
 
 ### 4.2 Umgang mit räumlicher Aufnahme
 
@@ -201,7 +201,7 @@ Gemeinsam ist ihnen, dass der Ton keine Erklärungen liefert.
 
 ## 13. Zu beachtende Punkte in der zeitgenössischen Produktion
 
-* Zu viele Geräusche erschweren das Eintauchen
+* Zu viele Geräusche behindern das Eintauchen
 * Der Einsatz kann strukturell destruktiv sein
 * Schalldruckwettbewerb ist nicht unbedingt erforderlich
 
@@ -237,7 +237,7 @@ Obwohl die produzierte Stückzahl begrenzt ist, behält es seinen Wert als Refer
 
 ## 16. Fazit
 
-Lustmord und Raison d’être sind die Bezugspunkte, die die Dark Ambient/Ritual Ambient-Methodik begründet haben.
+Lustmord und Raison d’être sind die Bezugspunkte, die die Dark Ambient/Ritual Ambient-Methodik begründeten.
 
 Ihr Einfluss ist keine musikalische Nachahmung;
 

@@ -12,7 +12,7 @@ title: Circuit Boy Feat. Alan T. – Die Tür
 ---
 
 
-Ein Techno-Album von Jay Winborn und Mike Muccis Gruppe „Circuit Boy“, das 2001 auf dem deutschen Label Flesh veröffentlicht wurde.
+Ein Techno-Album der Gruppe „Circuit Boy“ von Jay Winborn & Mike Mucci, erschienen 2001 auf dem deutschen Label Flesh.
 
 #### Trackliste
 ```md

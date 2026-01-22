@@ -22,10 +22,10 @@ title: '[Kolumne] Sound Tribe Sector 9 (STS9) – Die Entwicklung einer Live-Ban
 Text: mmr｜Thema: Geschichte von STS9 von seiner Gründung bis zur Gegenwart, musikalische Merkmale, Live-Philosophie, repräsentative Werke sowie kultureller und sozialer Einfluss
 
 
-Sound Tribe Sector 9 (*STS9*) ist als Vertreter der „Livetronica“ bekannt, die in der amerikanischen Live-Szene von den späten 1990er Jahren bis heute eine einzigartige Entwicklung durchgemacht hat.
+Sound Tribe Sector 9 (*STS9*) ist als Vertreter der „Livetronica“ bekannt, die in der amerikanischen Live-Szene von Ende der 1990er Jahre bis heute eine einzigartige Entwicklung durchgemacht hat.
 Ihre Musik ist eine Mischung aus dem improvisatorischen Charakter einer Jam-Band, der Struktur und Textur elektronischer Musik und dem Groove der Clubkultur, was sie von einer einfachen Rockband oder einer Einheit für elektronische Musik unterscheidet.
 
-Ihr Standpunkt war schon immer, dass „Musik ein Erlebnis in einem lebendigen Raum ist“, und sie haben Wert auf die Bildung einer autonomen Gemeinschaft gelegt, von der Produktion über das Tourmanagement, die Regie bis hin zu sozialen Aktivitäten.
+Ihr Standpunkt war schon immer, dass „Musik ein Erlebnis in einem Live-Raum ist“, und sie haben Wert auf die Bildung einer autonomen Gemeinschaft gelegt, von der Produktion über das Tourmanagement, die Regie bis hin zu sozialen Aktivitäten.
 
 ---
 
@@ -90,7 +90,7 @@ Repräsentatives Lied:
 - "Etwas"
 - „Arigato“
 -"Tokio"
-- "Menschen"
+-„Völker“
 
 Diese werden in der aktuellen Setlist häufig gespielt und symbolisieren am besten das musikalische Image von STS9.
 
@@ -130,7 +130,7 @@ Die Live-Struktur der gleichen Zeit war
 Das Publikum wechselte zu einem Floor-/Festival-ähnlichen Erlebnis mit der Prämisse des „Tanzens“.
 
 Wichtig hierbei ist, dass STS9 eine Technik verfolgte, um die „Textur elektronischer Musik“ mit Gitarre und Bass zu reproduzieren.
-Viele Teile durchliefen die Effektkette, wodurch sich die Eigenschaft ergab, dass sich das redaktionelle Denken in der DAW direkt in der Live-Performance widerspiegelte.
+Viele Teile durchliefen die Effektkette und schufen so eine Charakteristik, in der sich das redaktionelle Denken in der DAW direkt in der Live-Performance widerspiegelte.
 
 ---
 
@@ -148,7 +148,7 @@ Seit Beginn von STS9
 - Pädagogische Unterstützung
 - Umweltschutz
 - Lokale Aktivitäten
-Er hat aktiv an Wohltätigkeitsaktivitäten teilgenommen wie:
+Er hat aktiv an Wohltätigkeitsaktivitäten teilgenommen, wie z
 
 Es gibt auch viele Auftritte, bei denen ein Teil des Live-Ticket-Erlöses gespendet wird, und viele Lieder, die soziale Themen zum Thema haben.
 Insbesondere „Peaceblaster“ (2008) wird als konzeptionelle Arbeit mit politischen und ökologischen Themen als Hintergrund positioniert.
@@ -176,7 +176,7 @@ In den 2020er Jahren hat sich STS9 eine feste Position als Festival-Headliner be
 ## 6-1. Rhythmusstruktur: percussiongetriebener Groove
 
 Das größte Merkmal von STS9 ist seine Ensemblestruktur, bei der Schlagzeug und Percussion im Mittelpunkt stehen.
-In der elektronischen Musik spielt Live-Musik die Rolle eines Drumcomputers, auf dem Bass, Gitarre, Synthesizer und Samples geschichtet sind.
+In der elektronischen Musik spielt Live-Musik die Rolle einer Drum-Machine, auf der Bass, Gitarre, Synthesizer und Samples geschichtet sind.
 
 - Afrobeat
 - Breakbeats
@@ -193,11 +193,11 @@ Um das Gefühl von Electronica bei Live-Auftritten zu reproduzieren,
 - Granulare Verarbeitung
 Jedes Instrument nutzt diese aktiv.
 
-Dies sorgt auch bei Live-Auftritten für **akustische Dichte** und erzeugt ein dreidimensionales Gefühl, das dem eines DJ-Sets ähnelt.
+Dies gewährleistet auch bei Live-Auftritten eine **akustische Dichte** und erzeugt ein dreidimensionales Gefühl, das dem eines DJ-Sets ähnelt.
 
 ---
 
-# 7. Die Live-Philosophie von STS9: Set-Struktur, Beleuchtung, Gemeinschaft
+# 7. Die Live-Philosophie von STS9: Set-Struktur, Beleuchtung, Community
 ## 7-1. Strukturierung der Setlist
 STS9 ändert ihre Setlist bei jeder Tour,
 - Opener (Weltanschauungspräsentation)
@@ -216,7 +216,7 @@ Während der Nachtvorstellung des Festivals fungiert die Beleuchtung selbst als 
 ## 7-3. Gemeinschaftskultur
 
 STS9-Fans sind stark gemeinschaftsorientiert, was typisch für die Jam-Band-Szene ist.
-Es gibt auch viele „Reisefans“, die die Tour verfolgen.
+Es gibt auch viele „reisende Fans“, die die Tour verfolgen.
 
 ---
 
@@ -280,7 +280,7 @@ Die Live-Shows von STS9 passen gut zu Festivals.
 - Bonnaroo
 - Elektrischer Wald
 - Suwannee Hulaween
-Ihre „Late Night Sets“ auf großen Festivals wie „Late Night“ sind legendär.
+Ihre „Late-Night-Sets“ auf großen Festivals wie „Late Night“ sind legendär.
 
 ## 11-3. Pionierbeispiele von Community-Künstlern
 

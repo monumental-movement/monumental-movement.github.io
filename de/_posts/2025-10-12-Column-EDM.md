@@ -19,7 +19,7 @@ title: '[Kolumne] Die Illusion von EDM: Feiern und Wiederaufbau im digitalen Zei
 ## Es gibt einen Moment, in dem Klang zur Architektur wird
 
 
-Text: mmr｜Thema: Festivals und Städte, Ton und Licht, Menschenmassen und Technologie. Wie hat das Phänomen EDM die Form von Feierlichkeiten im 21. Jahrhundert verändert?
+Text: mmr | Thema: Festivals und Städte, Ton und Licht, Menschenmassen und Technologie. Wie hat das Phänomen EDM die Form von Feierlichkeiten im 21. Jahrhundert verändert?
 
 Ein Laserlichtblitz zerteilt den Nachthimmel, der Bass zittert tief in seinem Körper und unzählige Arme heben sich gleichzeitig.
 Das Phänomen „EDM“ war mehr als nur ein Musikgenre, es war eine Feier des digitalen Zeitalters.
@@ -92,7 +92,7 @@ Tomorrowland, Ultra, EDC.
 Mittlerweile kennt jeder diese drei Initialen.
 
 Die Bühne ist nicht nur ein Bühnenbild, sondern eine **architektonische Installation**.
-Ein Bildschirm umhüllt den Wald und Feuerwerkskörper verweben den Himmel.
+Ein Bildschirm umhüllt den Wald und Feuerwerk überzieht den Himmel.
 Das Publikum wird zu „Lichtteilchen“ und Ton und Bild werden synchronisiert.
 EDM-Festivals waren ein neues Gemeinschaftsritual, das durch Technologie geschaffen wurde.
 
@@ -137,7 +137,7 @@ Die Resonanz zwischen Mensch und Maschine, dieses Vergnügen, war die Essenz von
 
 ### VII. EDM-Akzeptanz in Japan
 
-EDM hat in Japan um das Jahr 2013 herum Fuß gefasst.
+EDM hat sich in Japan etwa im Jahr 2013 ernsthaft etabliert.
 Als ULTRA JAPAN landete und ZEDD und Hardwell nach Japan kamen,
 Der Himmel über der Bucht war voller Licht.
 

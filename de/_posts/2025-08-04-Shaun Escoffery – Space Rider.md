@@ -21,7 +21,7 @@ title: Shaun Escoffery – Weltraumreiter
 
 
 
-„Space Rider“ ist die große Debütsingle des britischen Soul/R&B-Sängers Shaun Escoffery. Ein Hit, der 2001 vom Label Oyster Music veröffentlicht und stark von DJ Trevor Nelson und Dreem Teem von BBC Radio 1 gespielt wurde.
+„Space Rider“ ist die große Debütsingle des britischen Soul/R&B-Sängers Shaun Escoffery. Ein Hit, der 2001 auf dem Label Oyster Music veröffentlicht und stark von DJ Trevor Nelson und Dreem Teem von BBC Radio 1 gespielt wurde.
 
 A1 ist ein Remix des britischen Garage-DJ/Produzenten/Remixers MJ Cole.
 

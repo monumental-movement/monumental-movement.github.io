@@ -17,7 +17,7 @@ title: Babyface – Zärtlicher Liebhaber
 
 „Tender Lover“ ist das zweite Studioalbum des amerikanischen R&B-Singer-Songwriters Babyface, das 1989 vom Label SOLAR (Sound of Los Angeles Records) veröffentlicht wurde.
 
-Dieses Album, das Babyfaces Hits „It’s No Crime“, „Tender Lover“ und „Whip Appeal“ enthielt, war Babyfaces monumentales R&B-Album und gewann zahlreiche Auszeichnungen, darunter eine Grammy-Nominierung und den Soul Train Music Award für das beste R&B/Soul-Album.
+Dieses Album, das Babyfaces Hits „It’s No Crime“, „Tender Lover“ und „Whip Appeal“ enthielt, war Babyfaces monumentales R&B-Album und gewann zahlreiche Auszeichnungen, darunter eine Grammy-Nominierung und einen Soul Train Music Award für das beste R&B/Soul-Album.
 
 #### Trackliste
 ```md

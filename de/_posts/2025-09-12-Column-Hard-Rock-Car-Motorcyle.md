@@ -55,7 +55,7 @@ Das Dröhnen des großvolumigen Motors war so wild wie die Verzerrung eines Mars
 Der Film „Easy Rider“ aus dem Jahr 1969 ist ein Symbol für die Jugendkultur und den Hardrock-Lifestyle der damaligen Zeit.
 Die Reise der Protagonisten auf Motorrädern durch Amerika auf der Suche nach Freiheit war nicht nur eine Reise, sondern eine Metapher für den „Ausbruch aus dem System“. Steppenwolfs „Born To Be Wild“, das auf dem Soundtrack spielt, schwingt mit dem Dröhnen der Motorräder mit und wird bis heute als Hardrock-Hymne der Freiheit weitergegeben.
 
-Man kann sagen, dass dieser Film die enge Beziehung zwischen Hardrock und Autokultur definiert hat, indem er den Moment visualisierte, als Musik, Motorräder und Freiheit zusammenkamen.
+Man kann sagen, dass dieser Film die enge Beziehung zwischen Hardrock und der Autokultur definiert hat, indem er den Moment visualisierte, als Musik, Motorräder und Freiheit zusammenkamen.
 
 ---
 
@@ -66,7 +66,7 @@ Die globalen Hardrock-Bands **AC/DC** und **KISS** haben ihr Publikum fasziniert
 - AC/DC, am Beispiel von Songs wie „Highway to Hell“ und „Thunderstruck“, überlagerte Rockmusik mit Bildern von „Road“, „Thunder“ und „Speeding“, wodurch Musik direkt mit dem Fahrgefühl verknüpft wurde.
 - Beim Live-Auftritt von KISS hallte das Geräusch eines Harley-Motors mit den Flammen im Hintergrund wider und vermittelte dem Publikum ein Erlebnis, als wäre die Bühne selbst in ein amerikanisches Roadmovie verwandelt worden.
 
-Dies spiegelte die amerikanische „Kultur der Geschwindigkeit“ der 1970er Jahre wider, und im Hardrock waren Autos und Motorräder stark als symbolische Ikonen der Populärkultur verankert.
+Dies spiegelte die amerikanische „Kultur der Geschwindigkeit“ der 1970er Jahre wider, und im Hardrock wurden Autos und Motorräder stark als symbolische Ikonen der Populärkultur akzeptiert.
 
 ---
 
@@ -134,7 +134,7 @@ Wenn das Dröhnen des Motors und das Gitarrenriff mitschwingen, erschüttert die
 
 | Songtitel | Künstler | Kommentar |
 |------|---------------|------|
-| Kickstart My Heart | Mötley Crüe | Ein Meisterwerk, das aus der Erfahrung eines Motorradunfalls entstanden ist. |
+| Kickstart mein Herz | Mötley Crüe | Ein Meisterwerk, das aus der Erfahrung eines Motorradunfalls entstanden ist. |
 | Verrückter Zug | Ozzy Osbourne | Ein rasantes Riff, das zum Fahren geeignet ist. |
 | Von einem Gebet leben | Bon Jovi | Singt über Jugend- und Roadmovie-Szenen. |
 | Pik-Ass | Motörhead | Lieder, die am engsten mit der Motorradkultur verbunden sind. |
@@ -179,7 +179,7 @@ Andererseits haben sich in Europa und Japan Stile entwickelt, die Lyrik und Tech
 
 ## Hardrock und Outlaw-Lifestyle
 
-Hardrock ist mehr als nur ein Musikgenre und wird oft als „Lifestyle“ bezeichnet. Symbol dafür sind amerikanische Muscle-Cars und Harley-Davidson.
+Hardrock ist mehr als nur ein Musikgenre und wird oft als „Lifestyle“ bezeichnet. Symbolisch dafür sind amerikanische Muscle-Cars und Harley-Davidson.
 Das Dröhnen des großvolumigen Motors hallt durch die Stadt und ähnelt der Verzerrung eines Gitarrenverstärkers. Als ob Musik und Maschinen auf der gleichen Frequenz schwingen, stellen Fahrer und Fahrer ihre Präsenz zur Schau.
 
 Es ist auch eng mit der Outlaw-Kultur verbunden. Biker-Banden und die Straßenkultur der 70er Jahre hatten oft Hardrock als Soundtrack. Der Wunsch nach Freiheit und Abweichung von der Norm ist Ausdruck starker, unwiderstehlicher Impulse, genau wie ein Hardrock-Gitarrenriff.

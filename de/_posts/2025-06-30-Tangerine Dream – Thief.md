@@ -14,7 +14,7 @@ title: Tangerine Dream – Dieb
 ---
 
 
-Original-Soundtrack zu Michael Manns erstem Film als Regisseur (Originaltitel: Thief), erschienen 1981 (Originaltitel: Thief) (nach dem Roman von Frank Hochmer). Japanische Ausgabe.
+Original-Soundtrack zu Michael Manns erstem Film als Regisseur (Originaltitel: Thief), erschienen 1981 (Originaltitel: Thief) (nach dem Roman von Frank Hochmer). Japanische Version.
 
 Tangerine Dream, die für die Musik verantwortlich war, ist eine deutsche Band für elektronische Musik, die 1967 von Edgar Froese gegründet wurde. Zusammen mit CAN, Amon Düül II, Kraftwerk und NEU! gelten sie als eine der führenden Krautrock-Bands.
 

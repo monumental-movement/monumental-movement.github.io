@@ -37,7 +37,7 @@ color: #fff;
 </style>
 
 
-### Bossa Nova- und Brasilia-Architektur – Modernismus in Städten und Musik
+### Architektur von Bossa Nova und Brasilia – Modernismus in Städten und Musik
 
 Im Jahr 1956 wurde die futuristische Stadt Brasilia als Teil eines Plans zur Verlegung der brasilianischen Hauptstadt gebaut. Die geschwungene und kühne Betonkonstruktion des Architekten Oscar Niemeyer zeigte der Welt ein neues Bild von Brasilien. Zufälligerweise änderte João Gilberto zu dieser Zeit mit „Chega de Saudade“ die Musikgeschichte und Antonio Carlos Jobim erzielte mit „The Girl from Ipanema“ internationalen Erfolg.
 

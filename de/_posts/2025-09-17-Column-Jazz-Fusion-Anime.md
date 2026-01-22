@@ -109,7 +109,7 @@ flowchart TD
 
 | Anime-Szene | Jazz-/Fusion-Song, den Sie in Ihrer Fantasie spielen möchten | Erklärung |
 | ------------ | ------------------------------------ | ------------ |
-| Lupin der Dritte rennt durch die Nachtstadt | Dave Brubeck „Take Five“ | Die Leichtigkeit der fünftaktigen Signatur unterstreicht Lupins Stilsicherheit |
+| Lupin der Dritte rennt durch die nächtliche Stadt | Dave Brubeck „Take Five“ | Die Leichtigkeit der fünftaktigen Signatur unterstreicht Lupins Stilsicherheit |
 | Spike vs. Vicious (Cowboy Bebop letzter Showdown) | John Coltrane „A Love Supreme“ | Symbolisiert erhabene Spannung und einen schicksalhaften Kampf |
 | Eine Szene aus Makoto Shinkais Werk an einem regnerischen Tag | Bill Evans „Waltz for Debby“ | Transparentes Klavier spiegelt die Schönheit des Bildes wider |
 | Sitzung bei Sakamichi no Apollon | Art Blakey „Moanin‘“ | Die Hitze der Trommeln und Hörner verstärkt die Heiterkeit der Jugend |
@@ -126,7 +126,7 @@ Insbesondere Kamasi Washingtons spiritueller Jazz spiegelt das Motiv „Lazarus 
 
 ### ■ Zusammenfassung
 
-Jazz/Fusion bringt Urbanität und Improvisation in den Anime und symbolisiert manchmal „Leben und Tod“ und „Zerstörung und Wiedergeburt“ der gesamten Geschichte.
+Jazz/Fusion verleiht Anime Urbanität und Improvisation und symbolisiert manchmal „Leben und Tod“ und „Zerstörung und Wiedergeburt“ der gesamten Geschichte.
 Der Stil von „Lupin the Third“, der Stil von „Cowboy Bebop“, die jugendliche Leidenschaft von „Apollo on the Slope“ und die Science-Fiction-Größe von „LAZARUS“──
 All dies sind Erweiterungen des „freien und regenerativen Geistes“ des Jazz.
 

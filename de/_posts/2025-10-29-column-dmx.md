@@ -93,7 +93,7 @@ Seine Lieder unterwandern oft die normale 16-Takt-Struktur.
 Der Fluss bricht plötzlich ab und kommt wieder zurück. Denn „**emotionaler Rhythmus**“ hatte oberste Priorität.
 
 ### 3. Leistung
-Bei Live-Auftritten war es nicht ungewöhnlich, dass Zuschauer während DMXs Gebeten weinten.
+Bei Live-Auftritten war es nicht ungewöhnlich, dass die Zuschauer während DMXs Gebeten weinten.
 Als er schrie: „**Herr, gib mir ein Zeichen!**“, klang er eher wie ein Prediger als wie ein Rapper.
 
 ---
@@ -156,7 +156,7 @@ Wurde Dutzende Male verhaftet. Das meiste davon ist jedoch das Ergebnis von Drog
 
 | Songtitel | Thema | Charakteristische Texte | Interpretation |
 | --------------------- | ----- | ----------------------------------------------------------------- | --------------- |
-| *Ruff Ryders‘ Hymne* | Konflikt und Einheit | „Halt an, lass sie fallen, schalt sie aus, mach den Laden auf!“ | Koexistenz von Aggression und Straßendisziplin |
+| *Ruff Ryders‘ Hymne* | Konflikt und Einheit | „Halt an, lass sie fallen, schalt sie ab, mach den Laden auf!“ | Koexistenz von Aggression und Straßendisziplin |
 | *Slippin’* | Selbstbeobachtung und Wiedergeburt | „Sehen Sie, leben bedeutet leiden, aber überleben bedeutet, im Leiden einen Sinn zu finden.“ | Musikalisierung von Nietzsches Leidensphilosophie |
 | *Herr, gib mir ein Zeichen* | Glaube/Erlösung | „Ich muss wirklich mit dir reden, Herr.“ | Ein verzweifelter Anruf zu Gott |
 | *Wer wir sind* | Soziales Bewusstsein | „Der Schmerz, der Kampf, die Freunde, der Ärger.“ | Der Höhepunkt der rhythmischen Katalogpoesie |
@@ -257,7 +257,7 @@ D -->|静寂| F[祈りの独白]
 
 ## Letztes Kapitel: Bellendes Gebet
 
-Die Musik von DMX ist kein „Straßenzeugnis“, sondern eine „Platte der Seele“.
+Die Musik von DMX ist kein „Zeugnis der Straße“, sondern eine „Aufnahme der Seele“.
 Dieser Schrei ist die wahre Wahrheit von Menschen, die ihr Leben lang an ihrem Glauben festgehalten haben, ohne der Gewalt nachzugeben.
 
 > „Wenn du real bist, wirst du es spüren.“ ― DMX

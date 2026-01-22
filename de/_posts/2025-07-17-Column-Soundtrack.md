@@ -25,7 +25,7 @@ Text: mmr｜Thema: Aufnahme, Wiedergabe und Erleben von Filmmusik
 Filmmusik besteht aus musikalischer Begleitung (Hintergrundmusik) und
 Es handelt sich um ein „anderes Skript“, das verwendet wird, um menschliche Emotionen zusammen mit visuellen Bildern wie dem Einfügen von Liedern zu steuern.
 
-Filmmusik ist zwar Teil des Films selbst, aber auch ein eigenständiges Kunstwerk, das für sich allein erlebbar ist. In diesem Artikel werden wir herausfinden, wie diese Filmmusik im Laufe der Zeit aufgenommen, verbreitet, aufgenommen und aufbewahrt wurde.
+Während Filmmusik Teil des Films selbst ist, ist sie auch ein eigenständiges Kunstwerk, das für sich allein erlebbar ist. In diesem Artikel werden wir herausfinden, wie diese Filmmusik im Laufe der Zeit aufgenommen, verbreitet, aufgenommen und aufbewahrt wurde.
 
 
 <hr>
@@ -40,9 +40,9 @@ Ein Pianist und ein Orchester sorgten für Live-Musik im Kino. Daher gab es zu d
 
 [『ジャズ・シンガー』（1927）](https://amzn.to/3Wn4CTH)を皮切りに**光学式録音（Optical Sound）**が導入され、映像フィルムの中に音声情報（スコア）を記録する時代へ。
 
-Etwa zu dieser Zeit wurde die Bedeutung von „Soundtrack = Film-Audiomaterial“ klar.
+Etwa zu dieser Zeit wurde klar, was „Soundtrack = Audiomaterial eines Films“ bedeutet.
 
-**●Wichtige Medien für Filmmusik: Technologische Veränderungen bei Aufnahme und Wiedergabe**
+**●Wichtige Medien für Filmmusik: technologische Veränderungen bei Aufnahme und Wiedergabe**
 
 ■Aufnahme auf dem Film selbst (Ton auf Film)
 
@@ -80,7 +80,7 @@ Es sind auch auf Soundtracks spezialisierte Labels erschienen (La-La Land Record
 
 Ein Medium zum „Neuerleben“ von Soundtracks in Videoarbeiten.
 
-Der räumliche Ausdruck von Musik hat sich durch stereophone Technologien wie 5.1ch/DTS stark weiterentwickelt.
+Der räumliche Ausdruck von Musik hat sich mit stereofonen Technologien wie 5.1-Kanal/DTS stark weiterentwickelt.
 
 ■Digitale Tonquelle (MP3/WAV/FLAC/AAC)
 
@@ -88,7 +88,7 @@ Verkauf von Musikquellen auf iTunes und Amazon MP3.
 
 Auch unabhängige Filmkomponisten werden auf Plattformen wie Bandcamp vorgestellt.
 
-Vollständige Partituren, unveröffentlichte Songs und Alternativaufnahmen können in hoher Auflösung geliefert werden.
+Vollständige Partituren, unveröffentlichte Songs und alternative Takes können in hoher Auflösung verbreitet werden.
 
 ■Abonnement (Spotify / Apple Music usw.)
 

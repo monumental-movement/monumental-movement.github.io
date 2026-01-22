@@ -14,7 +14,7 @@ title: Robbie Craig – Besonderes
 ---
 
 
-Robbie Craig ist ein Singer-Songwriter aus London. Er ist seit 2014 als Leadsänger von East17 aktiv, nachdem Brian Harvey die Gruppe verlassen hatte.
+Robbie Craig ist ein Singer-Songwriter aus London. Er ist seit 2014 als Leadsänger von East17 aktiv, nachdem Brian Harvey die Band verlassen hatte.
 
 „Special“ ist ein House-/Garage-House-Track, der 1995 von Public Demand, einem wichtigen Label der britischen Garage- und 2-Step-Szene, veröffentlicht wurde.
 

@@ -120,7 +120,7 @@ Sie alle bilden das riesige Klangarchiv von Tokio.
 Woher kommt der nächste Tokio-Sound?
 KI-generierte Musik, virtuelle Clubs und Live-Musik auf der Straße.
 Obwohl sich die Form ändern kann, bleibt die Struktur einer „Stadt, die mit Klang spricht“ dieselbe.
-Die Nächte von Shinjuku, die Clubs von Shibuya und der Cyberspace von Akihabara werden als ein einziger „Tokyo-Beat“ auch in Zukunft nachhallen.
+Die Nächte in Shinjuku, die Clubs in Shibuya und der Cyberspace in Akihabara werden als ein einziger „Tokyo-Beat“ auch in Zukunft nachhallen.
 
 ---
 

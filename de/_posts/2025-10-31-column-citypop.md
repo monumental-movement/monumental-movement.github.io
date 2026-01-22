@@ -61,7 +61,7 @@ Von den späten 1970er bis in die 1980er Jahre erlangte die japanische Gesellsch
 Haushaltsgeräte, Autos, Mode und Musik symbolisierten den „urbanen Lebensstil“.
 Sonys Walkman (1979) leitete eine Revolution im „Musik-Mitnehmen“ ein und City Pop wurde zum idealen Soundtrack.
 
-Nach und nach eröffnen UKW-Sender und DJs spielen die neuesten Hits auf Englisch. Die Akkordfolge erinnert an die Winde der amerikanischen Westküste und wird mit Bildern von Städten wie Tokio, Yokohama und Kobe in Verbindung gebracht.
+Nach und nach eröffnen UKW-Sender und DJs spielen die neuesten Hits auf Englisch. Die Akkordfolge, die an die Winde der amerikanischen Westküste erinnert, ist mit Bildern von Städten wie Tokio, Yokohama und Kobe verknüpft.
 Man kann sagen, dass die damaligen Zuhörer durch City-Pop ihr „Leben in der Stadt“ zum Ausdruck brachten.
 In dieser Zeit erreichte Japans Aufnahmetechnologie das höchste Niveau der Welt und die Klangqualität der Schallplatten war extrem hoch. Es war eine Zeit, in der die Stadt sowohl akustisch als auch gesellschaftlich großen Anklang fand.
 
@@ -70,7 +70,7 @@ In dieser Zeit erreichte Japans Aufnahmetechnologie das höchste Niveau der Welt
 ## 4. Musikalische Eigenschaften: Akkorde, Grooves, Aufnahmeästhetik
 
 Das Herz des City-Pops liegt in harmonischer Raffinesse und rhythmischer Flexibilität.
-Die Akkordfolge verwendet häufig die Dur-7 und -9, wodurch ein schwebendes Gefühl entsteht. Der melancholische Moment der unerwarteten Veränderung in Diminish lädt den Hörer in die „Nachtstadt“ ein.
+Die Akkordfolge verwendet häufig die Dur-7 und -9, wodurch ein schwebendes Gefühl entsteht. Der melancholische Moment des unerwarteten Wechsels in Diminish lädt den Hörer in die „Nachtstadt“ ein.
 Obwohl der Rhythmus AOR-ähnlich ist, nimmt er die Disco- und Soul-Trends der Zeit auf und zeichnet sich durch einen leichten Groove von etwa 110 BPM aus.
 
 In Bezug auf die Aufnahme glänzt die „Ästhetik des Raums“, die von der analogen Ausrüstung und den erfahrenen Ingenieuren der damaligen Zeit geschaffen wurde.
@@ -88,7 +88,7 @@ An ihrer Stelle entstand „individualistischere Selbstdarstellungsmusik“ wie 
 
 Allerdings zeichnete sich im Untergrund ein anderer Trend ab. DJs entdeckten die japanische Musik der 1980er Jahre als seltenen Groove in der Clubkultur wieder.
 Kompilationen wurden von DJ MURO, DJ Nori, Gilles Peterson und anderen erstellt, und Plattenkäufer auf der ganzen Welt suchten nach der japanischen Version.
-Mit anderen Worten, der City-Pop starb nicht vollständig aus, sondern lebte ruhig am „Grund der Erinnerung“ weiter.
+Mit anderen Worten: Der City-Pop starb nicht vollständig aus, sondern lebte ruhig „am Boden der Erinnerung“ weiter.
 
 ---
 
@@ -110,7 +110,7 @@ Obwohl sie nichts über die 80er Jahre wissen, teilen sie durch Daten die „Eri
 
 ## 7. Die Perspektive ausländischer DJs: Vom Zuhören auf der Tanzfläche
 
-Überall brachten DJs City Pop in die Clubs: Frankreich, Südkorea, London, LA.
+Überall brachten DJs City Pop in Clubs: Frankreich, Südkorea, London, LA.
 Night Tempo, Yung Bae und Macross 82-99 gehören zu den bekanntesten.
 Sie probierten und interpretierten City-Pop neu und schufen so ein neues Genre namens „Future Funk“.
 
@@ -139,7 +139,7 @@ Hierin liegt die Essenz der „digitalen Nostalgie“, die über die kulturelle 
 ## 9. Einfluss auf zeitgenössische Künstler
 
 Im Japan der 2020er Jahre entsteht eine neue Generation, die die DNA des City-Pops geerbt hat.
-Nicht nur Suchmos, Lucky Tapes, Cero und Nulbarich, sondern auch junge Künstler wie Iri, Taichi Mukai und Vaundy gehören zu dieser Linie.
+Zu dieser Linie gehören nicht nur Suchmos, Lucky Tapes, Cero und Nulbarich, sondern auch junge Künstler wie Iri, Taichi Mukai und Vaundy.
 Sie rekonstruieren die Akkorde und Grooves der 1980er Jahre auf moderne Weise und schildern die „Emotionen des Lebens in der Stadt“ in einer neuen Sprache.
 
 Im Ausland integrieren Künstler wie Khruangbin, Men I Trust und Crumb bewusst „japanische Ästhetik“.

@@ -58,7 +58,7 @@ Diese Erfahrungen führten später zu dem sozialen Bewusstsein und der Konzentra
 ---
 
 ### ● Zwischen Wissenschaft und Musik
-Nachdem er eine örtliche Schule besucht hatte, trat Chapman über das Stipendienprogramm „A Better Chance“ in die Wooster School in Connecticut ein.
+Nachdem er örtliche Schulen besucht hatte, besuchte Chapman über das Stipendienprogramm „A Better Chance“ die Wooster School in Connecticut.
 
 Später brachte er seine Leidenschaft für Musik und Literatur an die Tufts University, wo er Kunst und Geisteswissenschaften studierte und gleichzeitig seine musikalische Karriere fortsetzte.
 Es heißt, dass zu seinen täglichen Aktivitäten während seiner Studienzeit Live-Auftritte auf dem Campus, Improvisationsaufführungen mit Freunden und die Verschmelzung von Poesie und Musik gehörten.
@@ -85,7 +85,7 @@ In einem Aufnahme-Workshop-Forum heißt es:
 
 > „Zwei Mikrofone, zwei Kompressoren und fünf Equalizer … mussten sorgfältig ausbalanciert werden, damit Sologesang oder Sologitarre allein gut klangen, aber zusammen verschmolzen sie auf magische Weise.“
 
-Mit anderen Worten: Anstatt Gesang und Gitarre getrennt aufzunehmen, wurde der Ansatz gewählt, sie miteinander zu mischen und dabei ein Gefühl der Synchronisation und Atmosphäre beizubehalten.
+Mit anderen Worten: Anstatt Gesang und Gitarre getrennt aufzunehmen, wurde der Ansatz gewählt, sie miteinander zu mischen und gleichzeitig ein Gefühl der Synchronisation und Atmosphäre beizubehalten.
 Sie überlegten, DI (Direkteingang) für die Gitarre zu verwenden, aber die damalige Technologie birgt ein hohes Risiko für Rauschen und Phasenverschiebungen und konzentrierte sich daher auf die Verbesserung der Mikrofonaufnahme.
 
 Darüber hinaus hat Chapman öffentlich erklärt, dass er den Song in den frühen Phasen der Produktion mit Papier, Stift und einem tragbaren Tonbandgerät entwickelt habe, anstatt sich auf Computer oder digitale Geräte zu verlassen.
@@ -117,7 +117,7 @@ Dieses Lied enthält jedoch den Willen, sich der Unterdrückung zu widersetzen, 
 
 ### ● Stimmen, die mit Charakterbeziehungen in Einklang stehen
 Chapmans musikalische Welten zeigen oft die Perspektiven anderer Menschen und die Geschichten anderer Charaktere.
-„Texte sind nicht unbedingt autobiografisch; sie sind eine Mischung aus Einflüssen, Emotionen und den Geschichten anderer Menschen“, sagte sie.
+„Texte sind nicht unbedingt autobiografisch; sie sind eine Mischung aus Einflüssen, Emotionen und den Geschichten anderer Menschen“, sagt sie.
 Diese Art zu sprechen hat eine Affinität zu Folk- und Blues-Traditionen.
 
 Sie nennt Gospel-, Soul- und Folk-Sänger als ihre musikalischen Einflüsse und hat ein starkes Gespür dafür, eher eine kollektive als eine individuelle Stimme zu formen.
@@ -126,7 +126,7 @@ Sie nennt Gospel-, Soul- und Folk-Sänger als ihre musikalischen Einflüsse und 
 
 ### ● Akustische Intention und Räumlichkeit
 Live- und aufgenommene Versionen von „Talkin’ ’bout a Revolution“ verwenden oft leichten Hall im Hintergrund, sodass Gesang und Gitarre mit dem Raum verschmelzen.
-Um den Leerraum im Liedtext auszunutzen, wird auf überhöhte Geräusche verzichtet und bei der Abmischung auf die „Pause“ geachtet. Diese Idee ist möglich, weil ihre Lieder einen Charakter haben, der dem „Mit Menschen reden“ ähnelt.
+Um den Leerraum im Liedtext auszunutzen, wird auf überhöhte Töne verzichtet und bei der Abmischung auf die „Pause“ geachtet. Diese Idee ist möglich, weil ihre Lieder einen Charakter haben, der dem „Mit Menschen reden“ ähnelt.
 
 Darüber hinaus wird aus aufnahmetechnischer Sicht die Entzerrung oft so gewählt, dass die Konturen des Mittel-Tief-Bereichs klar bleiben, ohne Gesang oder Gitarre zu dick zu überlagern. Dies gibt dem Zuhörer die Illusion, dass die Stimme ihn direkt erreicht.
 
@@ -179,10 +179,10 @@ Darüber hinaus nutzt sie selten Streaming, sondern bietet ihre Werke stattdesse
 
 ### ● Menschliche Beziehungen/Freundschaft/öffentliche Präsenz
 Chapman ist dafür bekannt, nicht oft in der Öffentlichkeit aufzutreten, aber aus diesem Grund haben die Interaktion und die vertrauensvollen Beziehungen, die sie mit ihren Kollegen und Co-Stars pflegt, ihren Produktionshintergrund gestärkt.
-Es gibt beispielsweise Berichte, dass er mit der Schriftstellerin Alice Walker eng befreundet ist und dass die beiden eine Zeit lang eine Beziehung hatten, Einzelheiten zu seinem Privatleben hat er jedoch nicht öffentlich gemacht.
+Es gibt beispielsweise Berichte, dass er eng mit der Schriftstellerin Alice Walker befreundet ist und dass die beiden eine Zeit lang eine Beziehung hatten, Einzelheiten zu seinem Privatleben hat er jedoch nicht öffentlich gemacht.
 
-Darüber hinaus symbolisierte ihr Auftritt von „Fast Car“ bei den Grammys 2024 ihre generationsübergreifende musikalische Verbindung mit Luke Combs.
-Es wird gesagt, dass in dieser Phase im Verhandlungsprozess eine gewisse Vorsicht herrschte und die Grammys einen Ansatz verfolgten, der Vertrauen in den Vordergrund stellte und es vermied, zu viel Druck auf sie auszuüben.
+Darüber hinaus symbolisierte sein Auftritt von „Fast Car“ bei den Grammys 2024 seine generationsübergreifende musikalische Verbindung mit Luke Combs.
+Der Verhandlungsprozess für diese Phase soll vorsichtig gewesen sein, da die Grammys einen Ansatz verfolgten, der Vertrauen in den Vordergrund stellte und es vermied, zu viel Druck auf sie auszuüben.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pLfH9HSUyf4?si=xIapcYqmaMISuyS1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -201,7 +201,7 @@ Dennoch sind ihre Lieder für viele Zuhörer eine Quelle der Empathie und des Wi
 ## Kapitel 6 Zuhörer und Lieder neu entdecken
 
 ### ● Trends bei Covern und Neuinterpretationen
-Insbesondere „Fast Car“ hat viele Coverversionen hervorgebracht, aber die vom Country-Stil inspirierte Neuinterpretation von Luke Combs sorgte in den 2020er Jahren für ein Wiederaufleben und sorgte für eine Resonanz zwischen dem Original und neuen Interpretationen.
+Vor allem „Fast Car“ hat viele Coverversionen hervorgebracht, aber die vom Country-Stil inspirierte Neuinterpretation von Luke Combs sorgte in den 2020er Jahren für ein Wiederaufleben und sorgte für eine Resonanz zwischen dem Original und neuen Interpretationen.
 Dadurch sind Chapmans Lieder nicht mehr nur „berühmte Lieder aus der Vergangenheit“, sondern zu etwas geworden, das über Generationen weitergegeben werden kann.
 
 Darüber hinaus sorgen Live-Auftritte und Neukonfigurationen in Akustik-Sessions für eine Leichtigkeit der Akustik und eine Neupräsentation der Texte.
@@ -212,15 +212,15 @@ Darüber hinaus sorgen Live-Auftritte und Neukonfigurationen in Akustik-Sessions
 Streaming, hochauflösende Klangquellen, intelligente Lautsprecher, Kopfhörerumgebungen – die Musikwelt des 21. Jahrhunderts wird vielfältiger und die Hörbedingungen der Hörer werden komplexer.
 Unter diesen weisen Chapmans Lieder einen hohen Reinheitsgrad auf, der unnötige Frequenzen eliminiert, sodass analysiert werden kann, dass das Design es ermöglicht, dass seine Stimme in jeder Umgebung gehört wird.
 
-Zum Beispiel die Entzerrung, um die Mitten klar zu halten, das Mischen, um eine übermäßige Anhebung der Tiefen zu vermeiden, und die Unterdrückung von Hall und räumlicher Verarbeitung – all das sind Faktoren, die dafür sorgen, dass ihre Songs so gestaltet sind, dass sie nicht mit dem Lärm verschmelzen.
+Zum Beispiel die Entzerrung, um den Mitteltonbereich klar zu halten, das Mischen, um eine übermäßige Anhebung des Tieftonbereichs zu vermeiden, und die Unterdrückung von Hall und räumlicher Verarbeitung – all das sind Faktoren, die dafür sorgen, dass ihre Songs so gestaltet sind, dass sie nicht mit dem Lärm verschmelzen.
 
-Darüber hinaus ist der Ansatz, das „Live-Feeling“ in der Original-Songaufnahme zu betonen (z. B. die oben erwähnten beiden Mikrofone und die Anpassung des Kompressors), auch heute noch wirksam, da „das Gefühl der Live-Performance = ein Element, das Menschen einander näher bringt“.
+Darüber hinaus ist der Ansatz, das „Live-Feeling“ in der Original-Songaufnahme zu betonen (wie die oben erwähnten zwei Mikrofone und die Anpassung des Kompressors), auch heute noch wirksam, da „das Gefühl der Live-Performance = ein Element, das Menschen näher zusammenbringt.“
 
 ---
 
 ## Letztes Kapitel: Ein ruhiges Licht, das die Dunkelheit erhellt
 
-Tracy Chapmans Lieder bestehen immer aus der Dreieinigkeit von „stillem Zorn“, „einem genauen Blick“ und „poetischer Distanz“.
+Tracy Chapmans Lieder bestehen immer aus der Dreifaltigkeit von „stillem Zorn“, „einem genauen Blick“ und „poetischer Distanz“.
 sie schreit nicht laut. Doch jedes Wort dringt langsam tief ins Herz des Zuhörers.
 
 Was sie hinterlässt, ist weder eine protzige Bühne noch eine überbordende Produktion.
@@ -230,7 +230,7 @@ Ich hoffe, dass Sie durch diese Kolumne in der Lage sein werden, die Konturen vo
 
 ---
 
-### Tracy Chapman Komplette Album-Diskografie
+### Tracy Chapman komplette Albumdiskographie
 
 | Jahr | Titel | Hinweise/Funktionen | Link |
 | ---- | --------------------- | ------------------- | ---------------------------------- |

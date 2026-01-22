@@ -18,7 +18,7 @@ title: '[Kolumne] Gong-Legende: Ära, Mythos, Klang und Gemeinschaft'
 ## 1. Einführung: Musiker als Wissenschaftler
 
 
-Text: mmr | Thema: Gong, die „kosmische Gemeinschaft“, aufgebaut von David Allen und Gilly Smith. Über Mythos, Klang und Erbe von den 1960er Jahren bis heute
+Text: mmr｜Thema: Gong, die „kosmische Gemeinschaft“, gegründet von David Allen und Gilly Smith. Über Mythos, Klang und Erbe von den 1960er Jahren bis heute
 
 > „Wir waren eine fliegende Teekanne, die durch die Revolution segelte.“
 > - Daevid Allen
@@ -99,7 +99,7 @@ Beim Gleiten der Saiten verändert sich der Klang wie eine Flüssigkeit.
 - **Space Whisper** von Gilly Smith:
 Er murmelt mit leiser Stimme, als würde er durch den Raum schweben und die Klanglandschaft einhüllen.
 
-Hinzu kommen Didier Margrives Saxophon und Pierre Moherlins Percussion, wodurch eine harmonische Mischung aus Jazz, Rock und poetischer Rezitation entsteht.
+Hinzu kommen das Saxophon von Didier Margrive und die Percussion von Pierre Moherlin, wodurch eine harmonische Mischung aus Jazz, Rock und poetischer Rezitation entsteht.
 
 > 🎧 Hörempfehlungen: *Fliegende Teekanne*, *Angel’s Egg*, *You*
 
@@ -114,9 +114,9 @@ Eine zwischen 1973 und 1974 veröffentlichte Trilogie.
 
 Dabei handelt es sich nicht nur um Alben, sondern um mythologische Epen von „Planet Gong“. In Form einer Radiosendung treten Zero the Hero und Pot Head Pixies auf und die Reise durch Raum und Bewusstsein wird geschildert.
 
-| Charakter | Funktionen |
+|Charakter |Eigenschaften |
 | :-- | :-- |
-| Null der Held | Ein Reisender, der zwischen der Erde und dem Gong-Planeten reist |
+| Zero the Hero | Ein Reisender, der zwischen der Erde und dem Gong-Planeten reist |
 | Pot Head Pixies | Geister des Glücks und des Chaos |
 | Oktavdoktor | Wissenschaftler, der Klang und Ordnung manipuliert |
 
@@ -151,7 +151,7 @@ Gong war ein Symbol einer gegenkulturellen Praxis, die Gesellschaft und Kunst ni
 
 ---
 
-## Kapitel 7 Transformation und Vererbung – Moellan Gong und Wiedergeburt {#chapter7}
+## Kapitel 7 Transformation und Vererbung – Moellan-Gong und Wiedergeburt {#chapter7}
 
 Nach 1976 verließ David Allen das Unternehmen.
 Pierre Moerlan übernahm die Leitung und der Jazz-Fusion-orientierte **Pierre Moerlan's Gong** war geboren.
@@ -189,19 +189,19 @@ Gongs Universum ist ein mitgeschaffener Mythos, dessen Teil der Zuhörer wird.
 
 ---
 
-## Kapitel 9 Episoden und Anekdoten {#chapter9}
+## 第9章　エピソード＆逸話集 {#chapter9}
 
-- 1968: Konfrontiert die Polizei mit einem Teddybären
+- 1968年：テディベアを掲げて警官と対峙
 
 - „Geburt des Klangs“ in einer Höhlensitzung
 
-- 1970: Legendäre Live-Show von Frank Zappa beim BYG Festival
+- 1970年：BYGフェスでフランク・ザッパ司会のもと伝説的ライブ
 
-- Verwenden Sie die „Gnome-Sprache“ für die Kommunikation zwischen Mitgliedern
+- メンバー間通信に“Gnome語”を使用
 
 - „Zero’s Holy Grail“-Ritual, kreiert von Fans (auf einem britischen Festival)
 
-Gong bewegte sich zwischen Realität und Mythos, und die Anekdoten selbst waren Teil der Kunst.
+Gongは現実と神話を往来し、逸話そのものが芸術の一部であった。
 
 ---
 
@@ -210,7 +210,7 @@ Gong bewegte sich zwischen Realität und Mythos, und die Anekdoten selbst waren 
 | Jahr | Hauptveranstaltungen |
 | :-------- | :-------------- |
 | 1967 | In Paris gegründet. Allen Exil |
-| 1969 | *Magick Brother*-Produktion und erster Live-Auftritt |
+| 1969      | *Magick Brother* 制作・初ライブ      |
 | 1971 | *Camembert Electrique* Ankündigung |
 | 1973–74 | *Radio Gnome Trilogy* abgeschlossen |
 | 1976 | *Pierre Moerlans Gong*-Periode beginnt |

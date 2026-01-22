@@ -77,7 +77,7 @@ Es liegt jedoch ein seltsames **„Vergnügen“** darin.
 Es komprimierte den Körper des Zuhörers und ließ ihn gleichzeitig los – es war ein Moment der **Angst und Euphorie**.
 
 Viele DJs lassen diesen Track zu Spitzenzeiten fallen,
-Berichten zufolge herrschte im Club ein Moment „heftiger Euphorie“.
+Berichten zufolge herrschte auf dem Clubgelände ein Moment „heftiger Euphorie“.
 Dieses Lied ist nicht nur ein Hit,
 Es war ein Symbol für die Wiederbelebung von „Gefühlen ohne Emotionen“ im Techno.
 
@@ -142,7 +142,7 @@ Und die zarten Partikel von Skee Mask.
 All das wird in ihm wieder aufgebaut.
 
 Anstelle der Sterilität Berlins bevorzuge ich die Luftfeuchtigkeit Londons.
-Verwenden Sie eher Handdruck als digitalen Druck.
+Verwenden Sie eher den Druck Ihrer Handfläche als den digitalen.
 Blawan wählt weiterhin **Landgewicht**.
 Es ist auch eine Form des Widerstands für den Verein, wieder ein „Ort“ zu sein.
 

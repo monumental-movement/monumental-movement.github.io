@@ -26,7 +26,7 @@ Ein Labyrinth aus Klängen, das die intellektuelle Neugier weckt – IDM (Intell
 ---
 
 ## Anfang der 1990er Jahre: Geburt – Der Keim der „Tanzmusik zum Zuhören“
-Ende der 1980er Jahre, inmitten der britischen Rave-Kultur und des Techno-Trends, begannen Underground-Labels und -Künstler, elektronische Musik für das Hören zu Hause und nicht nur als Club-Tool zu erforschen.
+Ende der 1980er Jahre, inmitten der britischen Rave-Kultur und des Techno-Wahnsinns, begannen Underground-Labels und Künstler, sich mit „elektronischer Musik für zu Hause“ und nicht nur mit einem Club-Tool zu befassen.
 Die 1992 von Warp Records veröffentlichte Serie „Artificial Intelligence“ stellte einen entscheidenden Wendepunkt dar und der Name „IDM“ verbreitete sich.
 
 - **Repräsentatives Meisterwerk**
@@ -99,7 +99,7 @@ Hardware-Synthesizer wie **Nord Lead** und **Access Virus** wurden populär.
 ---
 
 ## 2000er: Post-IDM und Crossover
-Durch die Verschmelzung mit Electronica, Post-Rock, Ambient usw. wird es einem breiteren Hörerkreis zugänglich gemacht. Mit der Verbreitung des Internets und P2P hat sich auch die Art und Weise verändert, wie Veröffentlichungen durchgeführt werden.
+Durch die Verschmelzung mit Electronica, Post-Rock, Ambient usw. wird es einem breiteren Hörerkreis zugänglich gemacht. Mit der Verbreitung des Internets und P2P hat sich die Art der Veröffentlichungen verändert.
 
 - **Repräsentatives Meisterwerk**
 - Boards of Canada – *Geogaddi* (2002)
@@ -129,7 +129,7 @@ Soft-Synthesizer wie **Reaktor und FM7** sind zum Standard geworden.
 ---
 
 ## 2010er Jahre: Wiederverbindung mit dem Club
-Gemischt mit Bassmusik, Grime und Ambient Techno. IDM wurde eher zu einer Ästhetik als zu einem Genre und durchdrang das Sounddesign von Underground-Clubs und Festivals.
+Gemischt mit Bassmusik, Grime und Ambient-Techno. IDM wurde eher zu einer Ästhetik als zu einem Genre und durchdrang das Sounddesign von Underground-Clubs und Festivals.
 
 - **Repräsentatives Meisterwerk**
 - Oneohtrix Point Never – *Replica* (2011)
@@ -152,7 +152,7 @@ Originalinstrumentenentwicklung mit **Max for Live**.
 | 5 | James Blake | CMYK | Überbrückung von Post-Dubstep und IDM |
 | 6 | Lorbeer-Halo | Sonnenlicht auf dem Verblassten | Experimenteller Gesang und Akustik |
 | 7 | Tim Hecker | Jungfrauen | Lärm- und IDM-Konstruktion |
-| 8 | Andy Stott | Luxusprobleme | Dunkler und tiefgründiger, cluborientierter IDM |
+| 8 | Andy Stott | Luxusprobleme | Dunkles und tiefgründiges, cluborientiertes IDM |
 | 9 | Holly Herndon | Chor | Pionier des KI-Ansatzes |
 | 10 | Lapalux | Ohne dich | Emotionaler IDM R&B |
 
@@ -171,7 +171,7 @@ Im Streaming-Zeitalter verschwimmen die Grenzen zwischen den Genres zunehmend. E
 **Verwendung von KI-Unterstützungstools und generativer Musiksoftware**.
 Hybride Produktion, die Modularität und Software kombiniert.
 
-### Liste mit 10 empfohlenen Songs (2020er-heute)
+### Liste mit 10 empfohlenen Songs (seit 2020)
 
 | Nein | Künstler | Songtitel | Kommentar |
 |---|---|---|---|

@@ -17,7 +17,7 @@ Stardust ist eine Gruppe bestehend aus Thomas Bangalter (Daft Punk), DJ Alan Bra
 
 „Music Sounds Better With You“, veröffentlicht 1998, enthält ein Sample von Chaka Khans „Fate“ und ist Stardusts einziges Lied.
 
-„Music Sounds Better With You“ wird als Meisterwerk der House-Musik gefeiert, das mit eingängigen Melodien, funkigen Rhythmen und Vocal-Sampling den Spaß auf der Tanzfläche verfolgt.
+„Music Sounds Better With You“ wird als Meisterwerk der House-Musik gefeiert, das mit eingängigen Melodien, funkigen Rhythmen und Vocal-Sampling Spaß auf der Tanzfläche bietet.
 
 Dieses Lied ist ein Klassiker für Fans von House-Musik und elektronischer Tanzmusik.
 

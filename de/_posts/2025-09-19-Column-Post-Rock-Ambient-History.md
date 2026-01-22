@@ -93,7 +93,7 @@ color: #fff;
 
 **Hauptausrüstung**
 - Zeile 6 DL4
-- Akai MPC2000
+-Akai MPC2000
 -Korg MS-20
 
 ---
@@ -146,7 +146,7 @@ color: #fff;
 | Arbeit | Künstler | Jahr | Funktionen |
 |------|--------------|----|------|
 | *Versprechen* | Gleitkommazahlen, Pharoah Sanders & LSO | 2021 | Jazz x Klassik x Ambient |
-| *Klagelieder* | William Basinski | 2020 | Kollapsästhetik im digitalen Zeitalter |
+| *Klagelieder* | William Basinski | 2020 | Kollabierte Ästhetik im digitalen Zeitalter |
 | KI-Ambient-Projekte | Verschiedene | 2020er | Unendlich generative Musik |
 | *Alles* | Langsame Wiese | 2022 | Meditative Postklassik |
 
@@ -176,7 +176,7 @@ flowchart TD
 ### Zusammenfassung
 
 Die Geschichte der Post-Rock-/Ambient-Musik war eine Reihe von Herausforderungen: „Wie kann man Raum und Zeit mit Klang darstellen, der über den Rahmen des Rock hinausgeht?“ Von Tonbandexperimenten in den 1970er Jahren bis hin zu KI-Musik in den 2020er Jahren verschiebt sich die Entwicklung von der „Materialität des Klangs“ zur „Umweltnatur des Klangs“.
-Die Zukunft wird mit einer „immersiven Klangarchitektur“, die generative KI und körperliche Empfindungen verbindet, weiter aktualisiert.
+Die Zukunft wird durch eine „immersive Klangarchitektur“, die generative KI und körperliche Empfindungen verbindet, weiter aktualisiert.
 
 ---
 

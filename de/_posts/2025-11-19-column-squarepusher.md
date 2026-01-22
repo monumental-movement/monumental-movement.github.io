@@ -56,7 +56,7 @@ Er erhielt eine klassische Jazzausbildung und beherrschte komplexe Rhythmen und 
 
 ### 2.3 Begegnung mit elektronischer Musik
 
-Nachdem er mit Acid House und frühem Techno in Berührung gekommen war, begann er zu Hause mit Akai S1000 und TR-808/909 aufzunehmen.
+Nachdem er mit Acid House und frühem Techno in Berührung gekommen war, begann er, zu Hause mit Akai S1000 und TR-808/909 aufzunehmen.
 
 ---
 
@@ -331,6 +331,6 @@ graph LR
 
 Squarepusher ist ein innovativer Künstler, der elektronische Musik, Jazz und Breakbeats verbindet.
 Live-Improvisationen, komplexe akustische Strukturen und Album-zu-Album-Experimente sind Indikatoren für Innovation in der zeitgenössischen elektronischen Musik.
-Die rhythmische Struktur, die Wellenformen und die fraktalen Illustrationen jedes Songs werden Ihnen helfen, Ihr Verständnis von Musik weiter zu vertiefen.
+Die rhythmische Struktur, die Wellenformen und die fraktalen Illustrationen jedes Songs werden Ihnen dabei helfen, Ihr Verständnis von Musik weiter zu vertiefen.
 
 ---

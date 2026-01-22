@@ -24,7 +24,7 @@ Text: mmr｜Thema: Über Butthole Surfers‘ **Tonquelle, Live-Auftritt, Aufnahm
 
 
 Nur wenige Figuren im amerikanischen Untergrund der 1980er Jahre waren so bizarr, gewalttätig und halluzinatorisch wie die Butthole Surfers.
-Ihre Live-Auftritte werden oft als „Shock Rock“, „Heavy Psychedelic“ und „Chaos“ beschrieben, ihr Wesen ist jedoch viel komplexer.
+Ihre Live-Shows werden oft mit den Begriffen „Shock Rock“, „Heavy Psychedelic“ und „Mayhem“ beschrieben, aber ihr Wesen ist viel komplexer.
 
 *Verwirrung entsteht durch Berechnung,
 Dissonanz entsteht durch Improvisation,
@@ -86,7 +86,7 @@ Der erste Sound der Band mischt die Schnelligkeit des späten Punk/Hardcore mit 
 flowchart TD
     A[„Direkte Gitarrenaufnahme“] --> B[„Verzerrungsverarbeitung“]
     B --> C[„Sax improvisierte Aufnahme“]
-    C --> D[„Schlagzeug ungerade Taktart 1 Take-Aufnahme“]
+    C --> D[„Drum ungerade Taktart 1 Take-Aufnahme“]
     D --> E[„Gesamtmix (Lo-Fi)“]
 
 ---
@@ -127,7 +127,7 @@ flowchart TD
 
 <div class="mermaid"></div>
 flowchart TD
-    A[„Gitarrenriff/Lärm“] --> B[„Mehrschichtige Drum-Aufnahme“]
+    A[„Gitarrenriff/Geräusch“] --> B[„Mehrschichtige Schlagzeugaufnahme“]
     B --> C[„Saxophonimprovisation“]
     C --> D[„Stereofeldanpassung“]
     D --> E[„Mixing und Mastering“]
@@ -202,7 +202,7 @@ flowchart TD
 flowchart TD
     A[„Direkte Gitarrenaufnahme“] --> B[„Verzerrungsverarbeitung“]
     B --> C[„Sax improvisierte Aufnahme“]
-    C --> D[„Schlagzeug ungerade Taktart 1 Take-Aufnahme“]
+    C --> D[„Drum ungerade Taktart 1 Take-Aufnahme“]
     D --> E[„Gesamtmix (Lo-Fi)“]
 
 ---
@@ -234,7 +234,7 @@ flowchart TD
 
 <div class="mermaid"></div>
 flowchart TD
-    A[„Gitarrenriff/Lärm“] --> B[„Mehrschichtige Drum-Aufnahme“]
+    A[„Gitarrenriff/Geräusch“] --> B[„Mehrschichtige Schlagzeugaufnahme“]
     B --> C[„Saxophonimprovisation“]
     C --> D[„Stereofeldanpassung“]
     D --> E[„Mixing und Mastering“]
@@ -414,7 +414,7 @@ flowchart TD
     C --> D[„1987–1989: Expansion nach Europa und psychedelische Periode“]
     D --> E[„1993: Übergang zur Hauptperiode“]
     E --> F[„1996: Electriclarryland-Zeit“]
-    F --> G[„2001: Einführung des elektronischen Sounds“]
+    F --> G[„2001: Einführung elektronischer Klänge“]
     G --> H[„Danach: Fortsetzung der unregelmäßigen Aktivitäten“]
 
 ---

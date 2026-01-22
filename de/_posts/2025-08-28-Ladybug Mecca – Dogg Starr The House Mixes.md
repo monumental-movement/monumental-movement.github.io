@@ -14,7 +14,7 @@ title: Marienkäfer-Mekka – Dogg Starr (The House Mixes)
 ---
 
 
-HOUSE-Mix aus „Dogg Starr“, einem Signature-Song von Ladybug Mecca (Mary Ann Vieira), bekannt als MC der Jazz-Hip-Hop-Gruppe Digable Planets. Es wurde 2007 von San Franciscos renommiertem Label OM Records veröffentlicht.
+HOUSE-Mix aus „Dogg Starr“, einem Signature-Song von Ladybug Mecca (Mary Ann Vieira), bekannt als MC der Jazz-Hip-Hop-Gruppe Digable Planets. Es wurde 2007 auf San Franciscos renommiertem Label OM Records veröffentlicht.
 
 A1 ist ein Remix des kanadischen DJs/Produzenten Fred Everything (Frédéric Blais), einem Schwergewicht der Deep-House-Szene.
 

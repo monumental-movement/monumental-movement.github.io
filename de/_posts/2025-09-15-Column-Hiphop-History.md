@@ -50,7 +50,7 @@ Clubs und Blockpartys waren mehr als nur Musikveranstaltungsorte; Sie waren ein 
 Damals wurde Hip-Hop durch Radiosendungen populär gemacht (z. B. „The Show“ von WBLS), und Demotapes waren ein wichtiges Mittel, um Künstler zu entdecken.
 DJ Kool Herc und Afrika Bambaataa spielten ihre Mixtapes im lokalen Radio und auf Partys und trugen so zur Verbreitung der Musik bei.
 
-### Repräsentative Meisterwerke
+### Repräsentatives Meisterwerk
 
 [The Sugarhill Gang『Rapper's Delight』(1979)](https://amzn.to/4ngQIOx)
 
@@ -73,7 +73,7 @@ In den Clubs und Partys der Westküste wurde ein einzigartiger G-Funk-Stil entwi
 ### Rolle von Demotapes und Radio
 Das neue Lied wurde auf lokalen Radiosendern (KDAY, KMEL) ausgestrahlt und junge Leute, die sich das Demoband anhörten, verbreiteten es mündlich. Insbesondere lokale Radio-DJs fungierten als Schiedsrichter der Szene.
 
-### Repräsentative Meisterwerke
+### Repräsentatives Meisterwerk
 
 [Run-D.M.C.『Raising Hell』(1986)](https://amzn.to/3IBasNE)
 
@@ -101,7 +101,7 @@ OutKast und UGK entstanden und etablierten ihren eigenen einzigartigen Sound. Di
 Aufgrund von Urheberrechtsproblemen und steigenden Kosten greifen immer mehr Künstler auf die Produktion von Originaltonquellen und Live-Auftritten zurück.
 Dr. Dres „The Chronic“ (1992) nutzt gekonnt Sampling, während G-Funk viele Synthesizer und originelle Basslinien verwendet.
 
-### Repräsentative Meisterwerke
+### Repräsentatives Meisterwerk
 
 **East Coast**: [The Notorious B.I.G.『Ready to Die』(1994)](https://amzn.to/3K94fcv)
 
@@ -121,7 +121,7 @@ Probenentnahme und Ausrüstungsänderungen
 Mit der Verbreitung von DAWs (Pro Tools, Ableton Live) ist es nun möglich, mithilfe von Synthesizern und Plug-Ins einzigartige Klangquellen zu erstellen, ohne auf Sampling angewiesen zu sein.
 Dadurch erhöht sich der Anteil der Original-Beats.
 
-### Repräsentative Meisterwerke
+### Repräsentatives Meisterwerk
 
 [Jay-Z『The Blueprint』(2001)](https://amzn.to/4pC13WW)
 
@@ -143,7 +143,7 @@ DAW (Ableton Live, FL Studio)
 
 Erweiterung der Verwendung von Plugins und Beispielpaketen
 
-### Repräsentative Meisterwerke
+### Repräsentatives Meisterwerk
 
 [Kendrick Lamar『good kid, m.A.A.d city』(2012)](https://amzn.to/4pCB4yv)
 
@@ -153,7 +153,7 @@ Erweiterung der Verwendung von Plugins und Beispielpaketen
 
 ### Kombinierter Einfluss von Region, Verein, Medien und Produktionsmethoden
 
-**Ostküste**: Breakbeat, Social Rap, Platten-Sampling-Kultur
+**East Coast**: Breakbeat, Social Rap, Platten-Sampling-Kultur
 
 **Westküste**: Gangsta-Rap, G-Funk, ausgelassene Partys in den Clubs
 
@@ -230,7 +230,7 @@ Unautorisierte Probe in „Übertragung von Livedaten vom Mars“. Seitdem war D
 | 1980er Jahre | Osten (zentriert in NYC) | Goldenes Zeitalter des Samplings, Schwerpunkt auf Lyrik |
 | 1990er Jahre | West (LA, Bay) | G-Funk auf dem Höhepunkt, 2Pac vs. Biggie |
 | 2000er | Süden (ATL, Houston, Miami) | Trap Eve, Crunk und der Aufstieg von Screwstyle |
-| 2010er | Trap (Süd) + Mittlerer Westen (Chicago Drill, Kanye, Detroit Beat) | Sampling-Reduktion + FL Studio-Spread |
+| 2010er | Trap (Süd) + Mittlerer Westen (Chicago Drill, Kanye, Detroit Beat) | Sampling-Reduzierung + FL Studio-Spread |
 | 2020er | Multipolarisierung (Ost, West, Süden, Mittlerer Westen) | KI-Beat, Stichprobenregression, dezentrale Internetkultur |
 
 ---

@@ -70,7 +70,7 @@ Daher wird die Musik oft als „Soundtrack ohne Film“, „Ambient-Musik für e
 Im Folgenden fassen wir die wichtigen Trends von der Geburt des Genres bis zur Gegenwart zusammen.
 
 ### ● 2-1. Frühzeit (1991–1994)
-In den frühen 1990er Jahren, am Rande des skandinavischen Black Metal, begannen Künstler, „dunkles, auf Keyboards basierendes Ambient“ zu kreieren, das die Anzahl der Sounds auf das absolute Minimum reduzierte.
+In den frühen 1990er Jahren, am Rande des skandinavischen Black Metal, begannen Künstler, „dunkles, auf Keyboards basierendes Ambient“ zu kreieren, das die Anzahl der Sounds auf das Nötigste reduzierte.
 
 Von besonderer Bedeutung sind:
 - **Mortiis (Norwegen)**
@@ -107,7 +107,7 @@ Neuinterpretation des frühen Lo-Fi-Feelings und der klassischen Fantasy-Weltans
 - **Lehen (USA)**
 Sie erweitern ihre Fangemeinde, indem sie eine helle und melodische Seite präsentieren.
 
-Zu dieser Zeit wurden zahlreiche Mix-Videos auf YouTube hochgeladen und von Twitch-Streamern als Hintergrundmusik verwendet, was die Bekanntheit dramatisch steigerte.
+Zu dieser Zeit wurden zahlreiche Mix-Videos auf YouTube hochgeladen und von Twitch-Streamern als Hintergrundmusik verwendet, was die Bekanntheit enorm steigerte.
 
 ### ● 2-6. Moderne (2024–)
 Folgende Charakteristika sind in der zweiten Hälfte der 2020er Jahre zu erkennen.
@@ -149,9 +149,9 @@ Im Folgenden fassen wir die Tonquellen, MIDI-Bedienung und Effektmethoden zusamm
 ### ■ Klassische PCM-Tonquelle
 Viele Künstler suchten das Gefühl von Spielekonsolen und PCM-Tastaturen aus den 90er Jahren.
 
-- **Roland JV/XP-Serie (aktuell oder Probenahme)**
+- **Roland JV/XP-Serie (aktuell oder als Probe)**
 - **Yamaha PSR-Serie** (günstige Heimtastatur)
-- **Korg Triton / M1 Beispieltonquelle**
+- **Korg Triton / M1 Beispiel-Soundquelle**
 - **General MIDI-Ton (GM-Klangquelle)**
 
 GM-Klaviere, Chor-Aahs, Streicher, Pads usw. Billigkeit und Nostalgie werden als Werte behandelt.
@@ -203,7 +203,7 @@ Das Hinzufügen einer Rauheit von etwa 8 bis 12 Bit verstärkt das 90er-Jahre-Fe
 Viele Künstler nehmen ihre Songs tatsächlich auf Kassetten auf.
 
 ### ■ EQ-Verarbeitung
-- **Niedrig (unter 100 Hz) entfernen** → In Richtung Mono/Textur alter Geräte
+- **Low (unter 100 Hz) entfernen** → In Richtung Mono/Altgeräte-Feeling
 - **Hohe Frequenzen (über 6–8 kHz) entfernen** → Digitalgeruch entfernen
 
 ### ■ Hall
@@ -213,7 +213,7 @@ Konkret eingesetzt werden:
 
 - Halle (gefühlt wie eine mittelalterliche Halle)
 - Platte (altmodischer metallischer Nachhall)
-- Weniger frühe Reflexionen/längerer Zerfall
+- Weniger frühe Reflexionen/längerer Verfall
 
 ### ■ Stereobreite
 - Das Pad ist breit
@@ -252,7 +252,7 @@ Zeitgenössische Künstler verwenden eine Vielzahl von Ausdrucksformen wie handg
 
 ## ● 6-2. Jackenkultur
 - Kleinformatige Kunst für Kassetten
-- Vertikales Bild für Bandcamp-Jacke
+- Vertikales Bild für die Bandcamp-Jacke
 - Leicht verschmierte Schrift
 
 Der visuelle Einfluss ist äußerst groß und trägt dazu bei, das Weltbild des Werkes zu ergänzen.
@@ -277,7 +277,7 @@ Der visuelle Einfluss ist äußerst groß und trägt dazu bei, das Weltbild des 
 - **Lehen (USA)**
 
 ## ● Moderne (2024–)
-- Erhebliche Multinationalisierung und Fragmentierung.
+- Signifikante Multinationalisierung und Segmentierung.
 Themen wie Wald / Winter / Heroisch / Cosmic Synth haben zugenommen.
 
 ---

@@ -15,7 +15,7 @@ title: Die Beatnuts – Nehmen Sie sie oder drücken Sie sie aus
 
 „The Beatnuts – Take It Or Squeeze It“ ist das vierte Studioalbum der Hip-Hop-Gruppe The Beatnuts. Dieses 2001 veröffentlichte Album zeigt den charakteristischen Produktionsstil und die witzigen Texte der Beatnuts.
 
-„Take It Or Squeeze It“ basiert auf fröhlichen, funkigen Tracks, die verschiedene musikalische Elemente und Samples enthalten. Auf diesem Album entwickeln die Beatnuts ihren eigenen, einzigartigen Sound, der geschickt Elemente aus Hip-Hop, Funk und lateinamerikanischer Musik einbezieht.
+„Take It Or Squeeze It“ besteht aus fröhlichen, funkigen Tracks, die verschiedene musikalische Elemente und Samples enthalten. Auf diesem Album entwickeln die Beatnuts ihren eigenen, einzigartigen Sound, der geschickt Elemente aus Hip-Hop, Funk und lateinamerikanischer Musik einbezieht.
 
 #### Trackliste
 ```md

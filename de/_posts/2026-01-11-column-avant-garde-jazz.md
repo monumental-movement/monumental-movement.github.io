@@ -19,7 +19,7 @@ title: '[Kolumne] Avantgarde-Jazz – eine Bewegung, die Strukturen auflöste un
 
 ## Prolog: Der Moment, als der Jazz ins „Unbekannte“ vordrang
 
-Text: mmr｜Thema: Zum Wesen des Avantgarde-Jazz, der sich als Lösungsmusik oft vom Mainstream distanziert.
+Text: mmr｜Thema: Über das Wesen des Avantgarde-Jazz, der als Lösungsmusik oft von anderen distanziert wird.
 
 
 Mitte des 20. Jahrhunderts schien Jazz eine ausgereifte Musik zu sein. Es gab unterschiedliche Stile: Swing, Bebop und Hard Bop sowie eine gemeinsame Sprache aus Akkordfolgen, Taktarten und Solostrukturen. Doch in den späten 1950er Jahren begann eine Bewegung, still aber sicher an genau dieser Prämisse zu zweifeln. Muss Musik wirklich Harmonie und Form folgen? Wie frei kann Improvisation sein? Aus diesen Fragen entstand die Bewegung, die später „Avantgarde-Jazz“ genannt wurde.
@@ -61,7 +61,7 @@ Insbesondere der Mode-Jazz ist eine wichtige Vorstufe. Die Methode des Improvisi
 
 ---
 
-Ornette Coleman ist das Symbol für den Ausgangspunkt des Avantgarde-Jazz. Sein Auftritt stellte nicht einfach nur einen neuen Stil vor, sondern stellte die eigentliche Struktur des Jazz in Frage. Wir entfernen Rahmenwerke wie Tonalität, Akkordfolge und Rollenverteilung und bauen die Beziehungen zwischen den Interpreten neu auf. Seine Ideen hatten großen Einfluss auf die spätere avantgardistische Improvisationsmusik insgesamt.
+Ornette Coleman ist das Sinnbild für den Ausgangspunkt des Avantgarde-Jazz. Sein Auftritt stellte nicht einfach nur einen neuen Stil vor, sondern stellte die eigentliche Struktur des Jazz in Frage. Wir entfernen Rahmenwerke wie Tonalität, Akkordfolge und Rollenverteilung und bauen die Beziehungen zwischen den Interpreten neu auf. Seine Ideen hatten großen Einfluss auf die spätere avantgardistische Improvisationsmusik insgesamt.
 
 ### Innovation des frühen Quartetts
 
@@ -69,7 +69,7 @@ Charakteristisch für Colemans Quartett, das Ende der 1950er Jahre gegründet wu
 
 ### 代表録音分析：[The Shape of Jazz to Come（1959）](https://amzn.to/49KxOLD)
 
-In diesem Werk sind die Grenzen zwischen Thema und Improvisation äußerst fließend. Die Eröffnungsmelodie ist klar vorgetragen, doch unmittelbar danach entwickelt jeder Spieler eine eigenständige Melodielinie. Wichtig ist, dass die Aufführung als Ganzes trotz des Fehlens von Akkordfolgen ein Gefühl der Einheit behält.
+In diesem Werk sind die Grenzen zwischen Thema und Improvisation äußerst fließend. Die Eröffnungsmelodie ist klar vorgetragen, doch unmittelbar danach entwickelt jeder Spieler eine eigenständige Melodielinie. Wichtig ist, dass trotz des Fehlens von Akkordfolgen die Aufführung als Ganzes ein Gefühl der Einheit behält.
 
 Colemans Altsaxophon nutzt häufig Tonhöhensprünge, die sich über die Tonhöhen erstrecken, und Phrasen dehnen und verkürzen sich wie Lieder. Der Bass bleibt nicht beim Gehen, sondern integriert melodische Bewegungen, und das Schlagzeug fungiert eher als Reaktionsmittel denn als Taktart. Hier wird das Konzept einer Rhythmusgruppe neu definiert.
 
@@ -89,7 +89,7 @@ In der Harmonik hat jeder Spieler die gleichen melodischen Rechte. Es ist nicht 
 
 Cecil Taylor verkörpert die ultimative Konstruktion im Avantgarde-Jazz. Obwohl seine Darbietungen oft als Ausdruck von Emotionen beschrieben werden, handelt es sich in Wirklichkeit um hochorganisierte Zeitkunst. Obwohl es improvisiert ist, ist sein größtes Merkmal, dass es die Dichte und Ordnung eines Gebäudes aufweist.
 
-### Klavierspielen neu definiert
+### Klavierspieltechniken neu definiert
 
 Taylors Spielstil behandelt die Tastatur nicht als eine Reihe von Melodien, sondern als eine Klangmasse. Hochgeschwindigkeits-Cluster mit beiden Händen und komplexe Polyrhythmen verwandelten das Klavier von einem Melodieinstrument in ein Schlaginstrument.
 
@@ -118,7 +118,7 @@ Sun Ra ist eine Person, die den Avantgarde-Jazz aus dem Rahmen der Musik befreit
 
 ### Eine Community namens Arkestra
 
-Die Gruppe hatte keine feste Zusammensetzung und die Anzahl der Mitglieder sowie die Zusammensetzung der Instrumente änderten sich je nach Zeit. Diese Fluidität steht in direktem Zusammenhang mit seiner Musikphilosophie, die auf kollektiver Improvisation basiert. Einzelne Aufführungen sind kostenlos, aber die Gesamtaufführung bewahrt ein Gefühl der rituellen Einheit.
+Das Sun Ra Arkestra hatte keine feste Zusammensetzung und die Anzahl der Mitglieder und die Zusammensetzung der Instrumente änderten sich je nach Epoche. Diese Fluidität steht in direktem Zusammenhang mit seiner Musikphilosophie, die auf kollektiver Improvisation basiert. Einzelne Aufführungen sind kostenlos, aber die Gesamtaufführung bewahrt ein Gefühl der rituellen Einheit.
 
 ### 代表録音分析：[The Magic City（1966）](https://amzn.to/3LGlHWG)
 

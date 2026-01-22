@@ -13,7 +13,7 @@ title: Hoodlum Priest – Herz der Dunkelheit
 ---
 
 
-„Heart of Darkness“ ist ein Lied, das unter den Werken von Fudrum Priest herausragt. Hudrum Priest ist das Projekt des britischen Musikers Derek Thompson. Seine Musik ist experimentell, integriert Elemente verschiedener Genres und zeichnet sich durch düstere Atmosphären und experimentelle Klanglandschaften aus.
+„Heart of Darkness“ ist ein Lied, das unter den Werken von Fudrum Priest herausragt. Hudrum Priest ist das Projekt des britischen Musikers Derek Thompson. Seine Musik ist experimentell, integriert Elemente aus verschiedenen Genres und zeichnet sich durch düstere Atmosphären und experimentelle Klanglandschaften aus.
 
 Wie der Name schon sagt, handelt es sich bei „Heart of Darkness“ um ein Lied, das sich mit den Themen innerer Konflikt und den Tiefen der Dunkelheit beschäftigt. Der Verlauf des Liedes ist voller Spannung, kombiniert mit unheimlichen Soundeffekten und schweren Rhythmen. Die Texte erforschen tiefe, introspektive Inhalte im Einklang mit dunklen Themen.
 

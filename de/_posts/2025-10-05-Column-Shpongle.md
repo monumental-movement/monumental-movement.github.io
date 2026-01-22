@@ -122,7 +122,7 @@ flowchart TD
 
 ---
 
-Shpongles Lieder erschaffen, zerstören und regenerieren Universen in einem einzigen Lied.
+Shpongles Lieder erschaffen, zerstören und regenerieren Universen in einem Lied.
 Zuhören selbst ist ein philosophischer Akt.
 
 ---
@@ -144,7 +144,7 @@ flowchart TD
 
 #### Shpongletron: Mandala aus Ton und Licht
 
-Während der Live-Performance kommt ein riesiges Videogerät namens Shpongletron zum Einsatz.
+Während des Live-Auftritts kommt ein riesiges Videogerät namens Shpongletron zum Einsatz.
 Die Bilder von Android Jones werden mit dem Ton synchronisiert.
 Raja Ram wird als „zeremonieller Guru“ auf der Bühne stehen und Posford wird als „Klangalchemist“ auf der Bühne stehen.
 Die Live-Performance selbst wird zu einer Erweiterung des meditativen Erlebnisses.
@@ -240,7 +240,7 @@ Seine Werke haben eine konsistente dreischichtige Struktur: tiefer Ton = Körper
 
 ---
 
-#### Jüngerer Bruder „Spinning in Place“
+#### Jüngerer Bruder „Spinning in to Place“
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SXLbA7KSYvA?si=KKwi8Vfwl33-CnDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

@@ -25,8 +25,8 @@ Text: mmr｜Thema: Wie sich die brasilianische Musik seit dem 21. Jahrhundert we
 
 Während die brasilianische Musik weltweit immer wieder neu bewertet wird, ist Sabrina Mallheiros die Person, die die Sensibilitäten von Samba Soul, Funk, Bossa Nova und Neo-Soul flexibel kombiniert. Als Nachkomme von Azimuth unter der Leitung von Aza Mallheiros wurden sie von Musikgemeinschaften in London, Japan und Europa begeistert unterstützt.
 
-Insbesondere ihr Album **Clareia** aus dem Jahr 2017 war der Moment, in dem ihre musikalische Welt am deutlichsten erblühte.
-Sein Titelsong „Clareia“** fand später neues Leben in der Underground-Dance-Community und brachte Remixe von Schlüsselfiguren des britischen Jazz/Broken Beat hervor, darunter **Henry Wu (Kamaal Williams)**, **2000 Black (Dego & Kaidi)** und **IG Culture**.
+Insbesondere ihr Album **Clareia** aus dem Jahr 2017 war der Moment, in dem ihre musikalische Welt am deutlichsten aufblühte.
+Sein Titeltrack „Clareia“** fand später neues Leben in der Underground-Dance-Community und brachte Remixe von Schlüsselfiguren des britischen Jazz/Broken Beat hervor, darunter **Henry Wu (Kamaal Williams)**, **2000 Black (Dego & Kaidi)** und **IG Culture**.
 
 
 ---
@@ -82,7 +82,7 @@ Es gibt Momente sanften Jazz-Funks, die einem ein direktes Gefühl von Azimuths 
 
 Dieses Lied, das man als Symbol des Albums bezeichnen kann, kombiniert Sabrinas sanfte Singstimme, dynamische Percussion und fließende Linien des Keyboards zu einer klaren Lichttextur.
 
-„Clareia“ erregte vom Zeitpunkt seiner Veröffentlichung an Aufmerksamkeit in europäischen Jazz-/Clubkreisen, was zu späteren Remix-Projekten führte.
+„Clareia“ erregte vom Zeitpunkt seiner Veröffentlichung an Aufmerksamkeit in der europäischen Jazz-/Clubwelt und führte zu einem späteren Remix-Projekt.
 
 ---
 

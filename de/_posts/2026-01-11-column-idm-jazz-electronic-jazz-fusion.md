@@ -60,13 +60,13 @@ Im IDM existieren innerhalb eines 4/4-Takts oft mehrere Perioden gleichzeitig. S
 
 ### Genealogie vom Elektro-Jazz
 
-Der elektrische Jazz der 1970er Jahre legte Wert auf die Erweiterung der Rhythmusgruppe und anhaltende Grooves, ging jedoch nicht so weit, den Beat herunterzubrechen. Seit den 1990er Jahren ist es durch die Einführung von Samplern und Sequenzern möglich, präzise Wiederholungen durchzuführen und winzige Verschiebungen zu erzeugen, die manuell nur schwer durchzuführen sind.
+Der elektrische Jazz der 1970er Jahre legte Wert auf die Erweiterung der Rhythmusgruppe und anhaltende Grooves, ging jedoch nicht so weit, den Beat herunterzubrechen. Seit den 1990er Jahren ist es durch die Einführung von Samplern und Sequenzern möglich, präzise Wiederholungen vorzunehmen und winzige Verschiebungen zu erzeugen, die manuell nur schwer durchzuführen sind.
 
 ### Koexistenz von Improvisation und Programmierung
 
 Auch im elektronischen Umfeld geht die Improvisation nicht verloren. Die Darsteller manipulieren Loops und Effekte in Echtzeit und improvisieren so die Struktur selbst. Die Improvisation erscheint hier nicht als Phrase, sondern als strukturelle Manipulation.
 
-> Die Elektronisierung hat dem Jazz den improvisatorischen Charakter nicht genommen, sondern ihn auf eine andere Ebene verschoben.
+> Die Elektronisierung hat dem Jazz den improvisatorischen Charakter nicht genommen, sondern ihn auf eine andere Ebene gebracht.
 
 ---
 
@@ -135,9 +135,9 @@ Der Sampler und die Drum Machine bilden das rhythmische Gerüst, die DAW ist fü
 
 ### Unterschied zwischen Live und Studio
 
-Im Studio ist eine äußerst detaillierte Bearbeitung möglich, bei Live-Auftritten ist jedoch die strukturelle Flexibilität wichtiger als die Reproduzierbarkeit. Daher entwerfen Interpreten Musik so, dass sie sofort zwischen mehreren Loops und Mustern wechseln kann.
+Im Studio ist eine äußerst detaillierte Bearbeitung möglich, bei Live-Auftritten ist jedoch die strukturelle Flexibilität wichtiger als die Reproduzierbarkeit. Daher gestalten Interpreten Musik so, dass sie sofort zwischen mehreren Loops und Mustern wechseln kann.
 
-> Die Ausrüstung wird für die Zeitkontrolle und nicht für die Klangfarbe ausgewählt.
+> Die Ausrüstung wird eher für die Zeitkontrolle als für die Klangfarbe ausgewählt.
 
 ---
 

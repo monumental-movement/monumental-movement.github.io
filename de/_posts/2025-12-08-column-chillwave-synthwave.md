@@ -42,7 +42,7 @@ color: #fff;
 
 
 # 1. Was ist Chillwave?
-## 1-1. Geburt (ca. 2009)
+## 1-1. Geburt (um 2009)
 Chillwave wurde im Allgemeinen um das Jahr 2009 gegründet.
 Der Name wurde populär, als das Musikmedium „Hipster Runoff“ im selben Jahr das Wort „Chillwave“ verwendete, und es verbreitete sich als Witz im Internet.
 
@@ -91,7 +91,7 @@ Hauptkünstler:
 - **Kavinsky**
 - „Nightcall“ (2010) soll ein Symbollied sein.
 
-Synthwave entwickelte sich im Laufe der 2010er Jahre zu einem großen, unabhängigen Online-Genre.
+Synthwave entwickelte sich in den 2010er Jahren zu einem großen unabhängigen Genre im Internet.
 
 ---
 
@@ -148,7 +148,7 @@ Auch die Ausrüstung, die bei Chillwave und Synthwave zum Einsatz kommt, ist seh
 -Roland Juno-106
 - Yamaha DX7
 - Sequential Prophet-Reihe
-- Korg Polysix
+-Korg Polysix
 - **Drum Machine**
 - LinnDrum / LM-1
 -Roland TR-707, TR-808
@@ -195,7 +195,7 @@ flowchart TD
 
 * Washed Out – **Life of Leisure (2009)**
 * Neon Indian – **Psychic Chasms (2009)**
-*Toro y Moi – **Ursachen davon (2010)**
+* Toro y Moi – **Ursachen davon (2010)**
 
 ## 8-2. Synthwave-Meisterwerke
 
@@ -219,7 +219,7 @@ Synthwave wurde stark von der elektronischen Musik und Visuals beeinflusst, die 
 
 ## 9-2. Kontext des digitalen Revivals
 
-Chillwave nutzte in großem Umfang visuelle Ausdrucksformen, die an die persönliche Medienkultur der 1990er Jahre erinnerten (VHS, Camcorder, Heimaufnahmen vom Meer) und war mit der Lo-Fi-Fotokultur des Internets (wie dem frühen Instagram) kompatibel.
+Chillwave nutzte in großem Umfang visuelle Ausdrucksformen, die an die persönliche Medienkultur der 1990er Jahre erinnerten (VHS, Camcorder, Heimaufnahmen vom Meer) und war mit der Lo-Fi-Fotografiekultur des Internets (wie dem frühen Instagram) kompatibel.
 
 Der von Grafikdesignern erstellte **Gitterhintergrund + Neontypografie** von Synthwave ist weltweit standardisiert und auch in Mix-Videos auf YouTube beliebt geworden.
 

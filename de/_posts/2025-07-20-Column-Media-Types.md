@@ -167,7 +167,7 @@ Hören: Fast klar, aber im Vergleich zu einer CD kann es sich etwas komprimiert 
 
 #### Datensätze
 
-Aktuelle Situation: Weltweit erholen sich die Verkäufe von analogen Schallplatten stetig, wobei der Schwerpunkt auf der Vintage-Nachfrage und der klangqualitätsorientierten Bevölkerungsgruppe liegt. Besonders bei jungen Menschen macht sich die analoge Regression bemerkbar.
+Aktuelle Situation: Weltweit erholen sich die Verkäufe analoger Schallplatten stetig, wobei der Schwerpunkt auf der Vintage-Nachfrage und der auf Klangqualität ausgerichteten Bevölkerungsgruppe liegt. Besonders bei jungen Menschen macht sich die analoge Regression bemerkbar.
 
 Zukunft: Mit der Unterstützung von Enthusiasten analoger Tonquellen wird ein kleiner, aber nachhaltiger Markt erwartet. Auch Hybridprodukte (analog + digital) sind verfügbar.
 
@@ -196,7 +196,7 @@ Zukunft: Obwohl es als verpacktes Medium schrumpft, liegt der Schlüssel darin, 
 
 Aktueller Stand: Fast vom Markt verschwunden. Auch in Japan gehört eine gewisse Unterstützung der Vergangenheit an.
 
-Zukünftig: Es wird nur noch für eine begrenzte Zeit zur Konservierung oder als Hobby verbleiben.
+Zukünftig: Es bleibt nur noch für eine begrenzte Zeit zur Konservierung oder als Hobby übrig.
 
 
 <hr>
@@ -241,7 +241,7 @@ Kombiniert mit hochauflösenden Klangquellen für ein noch intensiveres Hörerle
 
 Der Übergang von physischen Medien zu Streaming ist fast abgeschlossen
 
-Der Schwerpunkt der nächsten Generation liegt auf der Unterstützung hochwertiger Klangverteilung (hohe Auflösung, MQA) und räumlichen Audios (Dolby Atmos, Sony 360 Reality Audio).
+Der Schwerpunkt der nächsten Generation liegt auf der Unterstützung hochwertiger Klangverteilung (High Resolution, MQA) und räumlichen Audios (Dolby Atmos, Sony 360 Reality Audio).
 
 
 <hr>

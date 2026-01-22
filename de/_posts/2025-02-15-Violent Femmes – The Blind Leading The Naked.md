@@ -14,7 +14,7 @@ title: Violent Femmes – Die Blinden führen die Nackten
 ---
 
 
-Violent Femmes ist eine amerikanische Folk-Punk-Band aus Milwaukee, Wisconsin. Sie gelten als integraler Bestandteil der Underground-Folk-Punk- und Alternative-Rock-Szene der 1980er Jahre und hatten großen Einfluss auf nachfolgende Bewegungen, insbesondere in den Folk-Rock-, Indie-Rock-, Grunge-, Pop-Punk-, Emo- und Alternative-Rock-Szenen der späten 1980er und 1990er Jahre.
+Gewalttätig Femmes(バイオレントファムズ)は、ウィスコンシン州ミルウォーキー出身のUSフォークパンクバンド. Sie gelten als integraler Bestandteil der Underground-Folk-Punk- und Alternative-Rock-Szene der 1980er Jahre und hatten großen Einfluss auf nachfolgende Bewegungen, insbesondere in den Folk-Rock-, Indie-Rock-, Grunge-, Pop-Punk-, Emo- und Alternative-Rock-Szenen der späten 1980er und 1990er Jahre.
 
 Dieses 1986 veröffentlichte Album war das dritte Album der Violent Femmes und wurde von Jerry Harrison von den Talking Heads produziert.
 
