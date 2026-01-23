@@ -18,7 +18,7 @@ title: '[Kolumne] Warum Visual Kei und Idol-Kultur Grenzen überschreiten: Die i
 ## Prolog: Wenn Japans „periphere Musik“ die Welt bewegt
 
 
-Text: mmr｜Thema: Warum erreicht japanische Subkulturmusik die Welt? Entschlüsselung der Entstehungsgeschichte und kulturellen Übersetzung ausländischer Fangemeinden mit Schwerpunkt auf Visual Kei und Idolkultur
+Text: mmr｜Thema: Warum erreicht japanische Subkulturmusik die Welt? - Verständnis der Geschichte der Entstehung ausländischer Fangemeinden und der kulturellen Übersetzung, mit Schwerpunkt auf Visual Kei und Idol-Kultur
 
 
 „X JAPAN“ „BABYMETAL“ „Parfüm“ „Dir en grey“
@@ -72,7 +72,7 @@ Dabei handelt es sich nicht nur um Unterhaltung, sondern um eine clevere Blaupau
 Der Grund für den Erfolg von BABYMETAL auf Festivals in Übersee ist
 Es gab eine strukturelle Strategie, um das Konzept der „japanischen Idole“ in den globalen Metal-Stil einzubetten.
 
-Der Export der Götzenkultur ist auch eine Verschmelzung von **religiösem Ritual und technologischer Gemeinschaft**.
+Der Export der Götzenkultur ist auch eine Verschmelzung von religiösem Ritual und technologischer Gemeinschaft.
 Handshake-Events, Übertragungen und SNS-Live-Events digitalisieren den zeremoniellen „Kontakt“ und machen Fans zu „Followern“.
 Diese Struktur wurde im Ausland als „partizipative Kultur“ übersetzt und in der Folge wurden kulturelle Grenzen aufgehoben.
 
@@ -91,7 +91,7 @@ Er hat eine Kultur etabliert, in der japanische Musik nicht nur „gehört“, s
 Wenn wir diese Struktur aus medientheoretischer Perspektive betrachten,
 **Man kann sagen, dass „Aktivierung des Publikums“ = „Mitgestaltung der kulturellen Übersetzung“**.
 Fans schreiben ihre eigenen Untertitel, verbreiten Memes und rekonstruieren die Symbolik von Idolen und Künstlern.
-Aufgrund dieser „Wiederbearbeitbarkeit“ spielt japanische Subkulturmusik mittlerweile eine Rolle im globalen Pop.
+Aufgrund dieser „Wiederbearbeitbarkeit“ spielt die Musik der japanischen Subkultur mittlerweile eine Rolle im globalen Pop.
 
 ---
 
@@ -114,13 +114,13 @@ Dadurch entwickelte es sich zu einer postnationalen empathischen Struktur.
 
 ## Kapitel 5: Zweite Globalisierungswelle – Japanische Einzigartigkeit im Vergleich zu K-POP
 
-Als K-POP Ende der 2010er Jahre weltweite Erfolge erzielte,
+Ende der 2010er Jahre, mit dem weltweiten Erfolg von K-POP,
 Es hieß, die japanische Popkultur sei vorübergehend in Vergessenheit geraten.
 Allerdings überlebte die Visual Kei- und Idol-Kultur mit einer „anderen Grammatik“.
 
 Wenn die Stärke von K-POP in seiner Präzision als „fertiges Produkt“ liegt,
 In der Musik der japanischen Subkultur geht es um „Unvollkommenheit“ und „Nähe“.
-Mit anderen Worten: Der Wert liegt in **viel Spielraum für Faneingriffe**.
+Mit anderen Worten: Der Wert ist der Spielraum für den Eingriff des Ventilators.
 Der Grund, warum ausländische Fans von japanischen Underground-Idolen und Indie-Visual Kei angezogen werden, ist dieser
 Das liegt daran, dass ich mit seiner „offenen und unvollendeten Natur“ sympathisiere.
 

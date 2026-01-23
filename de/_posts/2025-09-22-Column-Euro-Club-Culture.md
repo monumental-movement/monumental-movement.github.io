@@ -21,7 +21,7 @@ Text: mmr｜Genre: Musikkulturstudie｜Thema: Die Schnittstelle zwischen dem Eur
 
 Euro-Musik, repräsentiert durch „Eurobeat“ und „Eurodance“, ist ein Genre, das in den 1990er Jahren die Clubs und Charts dominierte, aber oft als „Unterhaltungsmusik“ missverstanden wird. In Wirklichkeit handelte es sich jedoch um eine hybride Existenz, die an der Schnittstelle von Massenmedien mit Schwerpunkt auf Radio und Underground-Rave-Kultur entstand.
 
-Dieser Artikel untersucht die Rolle, die Euromusic zwischen der Clubszene und der Popmusik in zwei Kontexten spielte: Radio und Rave.
+Dieser Artikel untersucht die Rolle, die Euromusic zwischen der Clubszene und der Popmusik aus zwei Kontexten spielte: Radio und Rave.
 
 ---
 
@@ -56,7 +56,7 @@ Hochwertige Musikvideos von Künstlern wie Real McCoy, Culture Beat und 2 Unlimi
 
 In Japan übertragen J-WAVE und Bay FM aktiv den Euro.
 
-In Verbindung mit der „Super Eurobeat“-Serie von avex entstand ein Euro-Phänomen, das Clubs und TV-Werbespots umfasst.
+In Verbindung mit der „Super Eurobeat“-Serie von avex entstand ein Euro-Phänomen, das sich über Clubs und TV-Werbespots erstreckt.
 
 ---
 
@@ -65,7 +65,7 @@ In Verbindung mit der „Super Eurobeat“-Serie von avex entstand ein Euro-Phä
 
 **● Verbindung zur Rave-Kultur**
 
-Euromusic übernahm ursprünglich Klänge, die ihren Ursprung in Schwulenclubs hatten, wie „Italo Disco“ und „Hi-NRG“. In den 1990er Jahren fand sie dann ihren Widerhall mit der Explosion der Rave-Kultur.
+Euromusic übernahm ursprünglich Klänge, die ihren Ursprung in Schwulenclubs hatten, wie „Italo Disco“ und „Hi-NRG“. In den 1990er Jahren fand sie dann mit der Explosion der Rave-Kultur ihren Widerhall.
 
 Deutschland: Viele Euro-Stücke wurden auf Loveparade und Mayday gespielt
 

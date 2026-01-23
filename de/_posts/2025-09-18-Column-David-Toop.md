@@ -92,7 +92,7 @@ Man kann sagen, dass dies die Ära war, in der Toops Stil etabliert wurde, der K
 
 „Ocean of Sound“, bekannt für seine Metapher des „Meeres aus Klang“, enthielt Erkenntnisse, die die Verbreitung des Streamings vorwegnahmen.
 Der Text, eine Mischung aus Essays, Kritik und Literatur, geht über den Rahmen eines Musikbuchs hinaus und fungiert als „Hörliteratur“.
-Auch seine eigenen Ambient-Werke präsentierten eine Welt aus sanften und diffusen Klängen.
+Auch seine Ambient-Werke präsentierten eine Welt sanfter und diffuser Klänge.
 
 | Jahr | Ausgewählte Tonquellen/Künstler | Kommentar |
 |------|----------------|------|
@@ -106,7 +106,7 @@ Auch seine eigenen Ambient-Werke präsentierten eine Welt aus sanften und diffus
 
 In Werken wie „Sinister Resonance“ erforscht er Überlegungen zu „Dingen, die man nicht hören kann“ und „Nachhall“.
 Er hat seine Aktivitäten auf den Bereich der bildenden Kunst und der Klangkunst ausgeweitet und die Musikkritik in die räumliche und philosophische Praxis ausgeweitet.
-Anhand von Themen wie Erinnerung, Stille und Leerraum überdenkt er den Sinn des Ohrs von seinen Wurzeln her neu.
+Anhand von Themen wie Erinnerung, Stille und Leerraum überdenkt er den Sinn des Ohrs von seinen Wurzeln her.
 
 
 | Jahr | Ausgewählte Tonquellen/Künstler | Kommentar |
@@ -132,7 +132,7 @@ Jazz, Hip-Hop, Ambient, Klangkunst – er passt in keines davon, sondern erweite
   - [*Haunted Weather* (2004)](https://amzn.to/48lz4o3)
   - [*Sinister Resonance* (2010)](https://amzn.to/3Kd5l6N)
 
-- **Musik funktioniert**
+- **Musikwerke**
 - *Neue und wiederentdeckte Musikinstrumente* (mit Max Eastley, 1975)
 - *Screen Ceremonies* (1990)
 - *Museum of Fruit* (1996)

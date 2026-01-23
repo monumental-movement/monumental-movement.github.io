@@ -43,7 +43,7 @@ His parents have a musical background and warmly watched over his interest in mu
 
 At the age of six, he began learning tombak ("tombak" in English, tonbak or zarb in Persian). He took lessons with a traditional tambak player, but after only a few years his talent was recognized as surpassing that of his teacher, and there is an anecdote that at the age of nine, his teacher admitted that he could no longer teach him.
 
-At the age of 10, he won his first victory in the Tambak competition held every year in Iran. Since then, he has continued to win and become known throughout the country as a young talent.
+At the age of 10, he won his first victory in the annual Tambak competition held in Iran. Since then, he has continued to win and become known throughout the country as a young talent.
 During this period, his relationship with musical instruments in his life went beyond a mere hobby and grew into the core of his identity.
 
 ---
@@ -76,7 +76,7 @@ Mortazavi's most notable accomplishment is **more than 30 self-developed strikin
 
 Specifically, the approaches include:
 
-* **Use of different hitting points**: Attack areas that traditional players do not use, such as the center of the leather, the edge (rim), and the body (wooden part).
+* **Using different points of attack**: Attacking areas that traditional players do not use, such as the center of the leather, the rim, and the body (wooden part).
 * **Diverse parts of the hand**: The player's entire hand is considered a musical instrument, including the fingertips, joints, nails, palm, root of the thumb, and other parts that are considered taboo.
 * **Polyrhythmic approach**: A technique that allows multiple voices (layers) to sound simultaneously within the same instrument. This allows ensemble-like performance by just one player.
 * **Dynamic Range**: From extremely quiet touches to explosive blows, freely control the strength, tempo, and density of the sound.
@@ -107,7 +107,7 @@ Mortazavi's discography is a map of the evolution of his explorations. Below, we
 
 Released in 2010, this album is a symbolic departure for Mortazavi. Although it is a solo performance using only traditional instruments (tamback/duff), his technological innovation and sound design are already clearly imprinted. Each track features delicate, multi-layered rhythms that make full use of fingers, palms, and nails, giving the listener the illusion that a single instrument has multiple voices.
 
-What is noteworthy is that his style of hitting is not only fast, but also very dynamic. The resonance of a quiet touch, the sharpness of a strong blow, and the smooth gradation between them. Every time his hands slide over the leather surface, hit the wood of the body, and his fingers bounce with their nails, different tones intersect in a layered manner, creating a strong presence.
+What is noteworthy is that his style of hitting is not only fast, but also extremely dynamic. The resonance of a quiet touch, the sharpness of a strong blow, and the smooth gradation between them. Every time his hands slide over the leather surface, hit the wood of the body, and his fingers bounce with their nails, different tones intersect in a layered manner, creating a strong presence.
 
 Also, the recording/mixing of this album cannot be ignored. When his percussion instruments are recreated in space through a microphone, their echoes and reverberations are vividly captured, creating a soundscape that feels like listening to a microcosm.
 

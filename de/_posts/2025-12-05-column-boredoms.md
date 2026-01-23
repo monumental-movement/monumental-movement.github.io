@@ -19,7 +19,7 @@ title: '[Kolumne] Langeweile: Die Flugbahn des Erbauers des Chaos und des expand
 
 ## Prolog: Wer waren die Langeweile?
 
-Text: mmr｜Thema: Verfolgen Sie die Entwicklung von Boredoms und wie sich ihre Arbeitsform, Live-Auftritte und abgeleiteten Einheiten entwickelt haben.
+Text: mmr｜Thema: Verfolgen Sie die Entwicklung von Boredoms und wie sich seine Arbeitsform, Live-Auftritte und abgeleiteten Einheiten entwickelt haben.
 
 In der Geschichte der japanischen Musik nimmt **Langeweile** eine einzigartige Stellung als eine Einheit ein, die in keinem Kontext vollständig erklärt werden kann.
 Sie wurden Ende der 1980er Jahre in Osaka gegründet und beeinflussten Musiker auf der ganzen Welt, indem sie sich in Noise-, Hardcore-, Avantgarde-, Psychedelia- und später Rhythmus-Ensembles verwandelten.
@@ -103,7 +103,7 @@ Live-Auftritte waren in dieser Zeit immer unvorhersehbar und das Bühnengeschehe
 ---
 
 „Super æ“ (Super æ) aus dem Jahr 1998 ist ein Werk, das die traditionellen Elemente der Geräuschmischung beibehält, aber Klangordnung, Wiederholung und Minimalismus stark betont.
-Der Klang wurde vielschichtiger, ein Trance-Feeling schlüpfte in den sich wiederholenden Rhythmus und es begann eine psychedelische Atmosphäre anzunehmen.
+Der Klang wurde vielschichtiger, ein Trance-Feeling schlüpfte in den sich wiederholenden Rhythmus und es begann eine psychedelische Anmutung anzunehmen.
 
 ### 3-2. Der Höhepunkt von „Vision Creation Newsun“
 
@@ -111,7 +111,7 @@ Der Klang wurde vielschichtiger, ein Trance-Feeling schlüpfte in den sich wiede
 
 ---
 
-Im folgenden Jahr war „Vision Creation Newsun“ aus dem Jahr 1999 eines der prägenden Werke in Boredoms‘ Karriere.
+Die Vision Creation Newsun des darauffolgenden Jahres 1999 war eines der prägenden Werke in Boredoms‘ Karriere.
 Natürliche Klänge, ethnische Percussion, anhaltende Klänge und zyklische Strukturen, Gitarrendrohnen, vielschichtige Rhythmen ...
 
 Die Boredoms waren hier nicht einmal eine „Rockband“, sondern vertieften sich stattdessen in kosmischen Minimalismus und rituellen Trance.
@@ -119,7 +119,7 @@ Die Boredoms waren hier nicht einmal eine „Rockband“, sondern vertieften sic
 ---
 
 ### 3.3 Hintergrund der Psychedelisierung
-- Ais Perspektive wechselt von impulsiver Zerstörung zu „kosmischer Expansion“
+– Ais Perspektive wechselt von impulsiver Zerstörung zu „kosmischer Expansion“
 - Yuka Yoshimura (Yoshimi) spielt eine zentrale Rolle und sorgt für wichtige Entwicklungen in den Bereichen Schlagzeug/Gesang/Elektronik.
 - Erhöhtes Interesse an Minimalismus und sich wiederholenden Strukturen
 
@@ -144,15 +144,15 @@ Elemente von Strandaufnahmen, lange Borduntöne, meditative Strukturen, Umgebung
 
 ---
 
-Hier wird der Bandname oft als V∞redoms geschrieben, und das Konzept von Boredoms selbst ändert sich zu einem „kollektiven kreativen Körper“ und nicht zu einer musikalischen Einheit.
-In den 2000er Jahren starteten Boredoms neue Entwicklungen, darunter den Namen **V∞redoms**, und das kultigste davon war das große Schlagzeugensemble, das mit dem „7x7x7“-Konzert am 7. Juli begann**.
+Hier wird der Name der Band oft als V∞redoms geschrieben, und das Konzept von Boredoms selbst ändert sich zu einem „kollektiven kreativen Körper“ und nicht zu einer musikalischen Einheit.
+In den 2000er Jahren starteten Boredoms neue Entwicklungen, darunter den Namen **V∞redoms**, und das ikonischste davon war das große Schlagzeugensemble, das mit dem „7x7x7“-Konzert am 7. Juli begann**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vjk01Wo-aEs?si=NY65yyeeoj0-m5te" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 ### 4.3 Bedeutung der Bohrtrommel
-- Riesige Polyrhythmik-Struktur mit Multiplayer-Schlagzeug
+- Riesige Polyrhythmik-Struktur mit Multiplayer-Drums
 - Kreisförmiger Veranstaltungsort, der das Publikum anzieht
 - Betonung der visuellen/physischen Erfahrung unter der Leitung von Ai
 
@@ -171,7 +171,7 @@ flowchart TD
 ---
 
 ## Kapitel 5: Aktivitäten seit 2010er Jahren
-Seit den 2010er Jahren führt Boredoms weiterhin zeitweise Live-Auftritte durch, während sich die kreativen Aktivitäten jedes Mitglieds vertiefen.
+Seit den 2010er Jahren führt Boredoms weiterhin zeitweise Live-Auftritte auf, während sich die kreativen Aktivitäten jedes Mitglieds vertiefen.
 Insbesondere **Eyes visuelle Kunstaktivitäten** und **Yoshimis Aktivitäten mit OIOOO/SAICOBABA** nahmen zu, was den Eindruck erweckte, dass Boredoms eher ein „kollektives Projekt“ als eine „Band“ sei.
 
 ---
@@ -202,7 +202,7 @@ flowchart TD
 
 ---
 
-Die Aktivitäten von OOIOO interagieren mit dem Spätrhythmus-Ensemble von Boredoms, und die Struktur weist eine Struktur auf, in der Yoshimuras Richtung zum Sound von Boredoms zurückkehrt.
+Die Aktivitäten von OOOIOO interagieren mit dem Spätrhythmus-Ensemble von Boredoms, und die Struktur weist eine Struktur auf, in der Yoshimuras Richtung zum Sound von Boredoms zurückkehrt.
 
 ---
 
@@ -279,7 +279,7 @@ timeline
 Boredoms ist mehr als nur eine Band, man kann sagen, es ist ein „Ort selbst“, der im Laufe der Zeit seine Form verändert.
 Ais philosophische Perspektive, Yoshimis körperlicher Rhythmus und die Einzigartigkeit jedes einzelnen Mitglieds sind eng miteinander verbunden und die Gruppe ist wie ein riesiger lebender Organismus gewachsen.
 
-Wenn Sie einen Blick darauf werfen, einschließlich der persönlichen Geschichte von OIOOO und Eye, breiten sich die Aktivitäten von Boredoms weiterhin wie ein „zentrloser Wirbel“ aus, und ihr Einfluss wird weiterhin auf der ganzen Welt erwähnt.
+Wenn Sie einen Blick darauf werfen, einschließlich der persönlichen Geschichte von OIOOO und Eye, breiten sich die Aktivitäten von Boredoms weiterhin wie ein „zentrloser Wirbel“ aus, und auf ihren Einfluss wird weiterhin auf der ganzen Welt verwiesen.
 
 ---
 

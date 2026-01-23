@@ -243,7 +243,7 @@ This is established not through intellectual understanding but through repeated 
 Microtonal music does not form a single genre.
 
 * Experimental music
-* Electronic music
+* electronic music
 * Inside Jazz/Pop
 * Video/Installation
 
@@ -280,7 +280,7 @@ timeline
 
 ## 15. Conclusion
 
-Microtonal music is not an exercise in increasing pitch. This is a shift to a production philosophy that does not assume a fixed pitch. Harry Partch brought music back to the body and space, and Jacob Collier translated that theory into a modern sensibility. This movement will continue to work quietly in the deep layers of music production.
+Microtonal music is not an exercise in increasing pitch. This is a shift to a production philosophy that does not assume a fixed pitch. Harry Partch brought music back to the body and space, and Jacob Collier translated that theory into a modern sensibility. This movement will continue to work quietly in the depths of music production.
 
 
 ---

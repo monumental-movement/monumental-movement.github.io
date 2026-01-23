@@ -96,7 +96,7 @@ Montanas Arrangement-Philosophie war klar.
 Sein Ideal ist „Musik, die anmutig tanzt“.
 Sie verliehen der auf der Straße entstandenen Tanzkultur klassische architektonische Schönheit und erhoben die Musik zu einem „eleganten Fest“.
 
-Andererseits machte sein extremer Perfektionismus die Studiomusiker nervös, und es heißt, dass jede Aufnahmesitzung Dutzende von Takes erforderte.
+Andererseits machte sein extremer Perfektionismus die Studiomusiker nervös, und es heißt, dass jede Aufnahmesitzung Dutzende Takes erforderte.
 
 ---
 

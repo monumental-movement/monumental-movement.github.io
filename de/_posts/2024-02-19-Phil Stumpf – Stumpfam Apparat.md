@@ -22,11 +22,11 @@ Der zweite Song auf Seite A ist ein Remix von Gwen Maze.
 
 Phil Stumpf (*1973 in Deutschland) ist seit 1993 als Musiker aktiv und hat in verschiedenen Bands und Projekten mitgewirkt.
 
-In den späten 1980ern und frühen 90ern war ich im Indie-Rock-Bereich tätig und war fasziniert und beeinflusst von Bands wie Mouse on Mars und Tortoise sowie von elektronischer Musik und ihrer minimalistischen Struktur.
+In den späten 1980ern und frühen 90ern war ich im Indie-Rock-Bereich tätig und war fasziniert und beeinflusst von Bands wie Mouse on Mars und Tortoise sowie von elektronischer Musik und ihren minimalistischen Strukturen.
 
-Vor allem durch seine Band oh. auf die Tanzfläche gebracht, entdeckte er Minimal-Grooves und begann 1999 unter seinem eigenen Namen Club-Tracks zu produzieren.
+Nachdem er vor allem über seine Band oh. den Weg auf die Tanzfläche gefunden hatte, entdeckte er den Minimal-Groove und begann 1999 unter seinem eigenen Namen Club-Tracks zu produzieren.
 
-Er wird auch als Duplex 100 mit seinem französischen Partner Samuel Ruanat arbeiten.
+Er wird auch als Duplex 100 mit seinem französischen Partner Samuel Rouanat arbeiten.
 
 Im Jahr 2001 zog er nach Paris und gründete zusammen mit Samuel Rouanat einen Clubabend namens „Minimal Dancin“ im Nouveau Casino.
 

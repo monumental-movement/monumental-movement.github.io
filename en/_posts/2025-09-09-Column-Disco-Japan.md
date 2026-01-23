@@ -30,7 +30,7 @@ Disco was born in the United States in the 1970s and exploded along with urban c
 
 ## 1970s — Birth of disco and its introduction in Japan
 - **Background**
-Established in the United States as a crossroads of gay, Latin, and Afro-American cultures. After the Osaka Expo (1970), ""discotique" spread with the rapid introduction of Western culture, with Roppongi ""Chianti" and Akasaka ""Mugen'' becoming symbolic.
+Established in the United States as a crossroads of gay, Latin, and Afro-American cultures. After the Osaka Expo (1970), ""discotique" spread amidst the rapid introduction of Western culture, with Roppongi ""Chianti" and Akasaka ""Mugen'' becoming symbolic.
 
 - **Representative masterpieces (overseas)**
 - Donna Summer — *Love to Love You Baby* (1975)
@@ -122,7 +122,7 @@ Formation of the foundation of the "fan dance culture" that continued with Bodyc
 | Like a Virgin | Madonna | Symbolizes the birth of a female pop icon. |
 | I Feel for You | Chaka Khan | A fusion of hip-hop and disco. |
 | Dancing Hero | Yoko Oginome | A hit synonymous with Japanese disco. |
-| DESIRE -Passion- | Akina Nakamori | A fusion of disco beats and pop songs. |
+| DESIRE -Passion- | Akina Nakamori | A fusion of disco beat and pop songs. |
 | Let"s Groove | Earth, Wind & Fire | A bridge from funk to disco. |
 | Word Up! | Cameo | Funk-based disco classic. |
 | Celebration | Kool & The Gang | A classic festival song. |
@@ -176,7 +176,7 @@ Moved from "Juliana Tokyo" to Shibuya Club Culture. The disco generation evolved
 
 ## 2000s — The rise of Nu-Disco and club restructuring
 - **Background**
-"Nu-Disco" and electroclash are popular worldwide. The disco revival is progressing in Japan, and the club scene is once again in the spotlight.
+"Nu-Disco" and electroclash are popular worldwide. The disco revival is progressing in Japan as well, and the band is once again in the spotlight in the club scene.
 
 - **Representative masterpieces (overseas)**
 - Daft Punk — *Discovery* (2001)
@@ -258,7 +258,7 @@ Tatsuro Yamashita, Taeko Onuki, Mariya Takeuchi and others were rediscovered, an
 | Can't Stop the Feeling | Justin Timberlake | Pop Disco |
 | The Bay | Metronomy | Indie Nu-Disco |
 | D.A.N.C.E. | Justice | Electro x Disco |
-| I Feel Better | Hot Chip | Electropop-oriented |
+| I Feel Better | Hot Chip | Electro-pop |
 | Red Lights | Tiësto | Intersection of EDM and Nu-Disco |
 
 
@@ -301,7 +301,7 @@ City pop/disco is spreading on TikTok and YouTube. Analog disco events are once 
 | Levitating | Dua Lipa | Popular on TikTok |
 | Say So | Doja Cat | Very popular in Japan |
 | Disco | Kylie Minogue | Modern disco as the title suggests |
-| Rain on Me | Lady Gaga & Ariana Grande | Dance-pop comeback |
+| Rain on Me | Lady Gaga & Ariana Grande | Dance-pop revival |
 | Funk to the Future | Night Tempo | Future Funk interpretation from Japan |
 | Leave the Door Open | Silk Sonic | Soul x Disco fusion |
 | Break My Soul | Beyoncé | House and disco fusion |

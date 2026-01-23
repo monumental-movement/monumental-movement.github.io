@@ -109,7 +109,7 @@ Abgeleitet vom Bristol-Soundsystem „Wild Bunch“. 3D (Robert Del Naja) ist au
 
 #### Produktionstechnik
 
-Anstelle eines Plattenspielers „verwandelt er das Studio in ein Instrument“ und vermischt Samples und Live-Auftritte. Zeichnet sich durch tiefe Bässe und Dub-artige räumliche Verarbeitung aus.
+Anstatt einen Plattenspieler zu verwenden, „verwandelt er das Studio in ein Instrument“ und mischt Samples und Live-Musik. Zeichnet sich durch tiefe Bässe und Dub-artige räumliche Verarbeitung aus.
 
 #### Video funktioniert
 
@@ -154,7 +154,7 @@ Es gibt Dokumentationen über Tourneen aus den 90er-Jahren wie „Welcome to Por
 Endtroducing... steht im Guinness-Buch der Rekorde als „erstes Album, das vollständig aus Samples besteht“. Vervollständigt mit MPC und Plattenspieler.
 
 #### Produktionstechnik
-Nutzt die Breakbeat-Rekonstruktion, das Beat-Jonglieren und das Time-Stretching voll aus. Behandeln Sie den Plattenspieler als „Collage-Tool“.
+Vollständige Nutzung der Breakbeat-Rekonstruktion, des Beat-Jonglierens und des Time-Stretchings. Behandeln Sie den Plattenspieler als „Collage-Tool“.
 
 #### Video funktioniert
 [DJ文化ドキュメンタリー『Scratch』（2001）](https://amzn.to/4pzrtso)に出演。
@@ -175,7 +175,7 @@ Nutzt die Breakbeat-Rekonstruktion, das Beat-Jonglieren und das Time-Stretching 
 Weltweite Präsentation der „japanischen Ruhe“ durch Welttourneen. Er wird von der westlichen Hip-Hop-Szene respektiert.
 
 #### Produktionstechnik
-Ein Stil, der den Plattenspieler als „Instrument“ betrachtet und versucht, ihn mit japanischen Musikinstrumenten und Umgebungsgeräuschen zu verschmelzen. Spezialisiert nicht nur auf das Scratchen, sondern auch auf die Raumproduktion.
+Ein Stil, der den Plattenspieler als „Instrument“ betrachtet und versucht, ihn mit japanischen Musikinstrumenten und Umgebungsgeräuschen zu kombinieren. Spezialisiert nicht nur auf das Scratchen, sondern auch auf die Raumproduktion.
 
 #### Video funktioniert
 

@@ -13,7 +13,7 @@ title: Orbital – Impact – Der Remix
 ---
 
 
-Dieses Werk ist ein Remix von Singles aus Orbitals meistgelobtem Album „Orbital 2 (Brown Album)“ (1993), einem großen britischen Elektro-/Techno-Musikgiganten, der zusammen mit The Chemical Brothers, Underworld, The Prodigy und anderen die Technoszene der 90er Jahre repräsentierte.
+Dieses Werk ist ein Remix von Singles, die aus Orbitals meistgelobtem Album „Orbital 2 (Brown Album)“ (1993) ausgewählt wurden, einem großen britischen Elektro-/Techno-Musikgiganten, der zusammen mit The Chemical Brothers, Underworld, The Prodigy und anderen die Technoszene der 90er Jahre repräsentierte.
 
 A's „Impact USA“ ist ein Selbst-Remix von „Impact (The Earth Is Burning)“.
 

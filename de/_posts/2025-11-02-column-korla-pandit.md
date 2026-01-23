@@ -18,7 +18,7 @@ title: '[Kolumne] Korla Pandit und die Vision von Exotica: Träume und Masken de
 ## Prolog: Was war Exotica?
 
 
-Text: mmr｜Thema: Erkundung der Rolle von Korla Pandit in der aufkommenden Periode der Exotik und der Ästhetik des Orientalismus in der amerikanischen Nachkriegskultur
+Text: mmr｜Thema: Erforschung der Rolle der Korla Pandits bei der Schaffung von Exotika und der Ästhetik des Orientalismus in der amerikanischen Nachkriegskultur
 
 ![Korla Pandit at the organ](https://upload.wikimedia.org/wikipedia/en/4/4d/Korlaorgan.jpg) 
 出典：[Wikipedia - Korla Pandit](https://en.wikipedia.org/wiki/Korla_Pandit)
@@ -59,7 +59,7 @@ color: #fff;
 5. [Kapitel 5: Die Wahrheit hinter der Maske – Geständnisse von John Rowland] (#Kapitel 5)
 6. [Kapitel 6: Nachhall von Exotica – Von der Longines Symphonette zum Lo-Fi-Revival] (#Kapitel 6)
 7. [Kapitel 7: Moderne Neubewertung und kulturelle Verwerfung] (#Kapitel 7)
-8. [Chronologie: Korla Pandit und die Geschichte der Exotica-Musik (1940–2020)] (#Chronologie)
+8. [Chronologie: Korla Pandit und die Geschichte der Exotica-Musik (1940–2020)] (#chronology)
 9. [Diagramme und Analysen](#Charts)
 10. [Schlussfolgerung: Zwischen Fiktion und Wahrheit] (#Schlussfolgerung)
 
@@ -124,10 +124,10 @@ Referenz/Quelle:
 
 ---
 
-Die Korla Pandit Show, die ab 1951 ausgestrahlt wurde, war eine der ersten Musikfernsehshows Amerikas.
+Die Korla Pandit Show, die ab 1951 ausgestrahlt wurde, war eine der ersten amerikanischen Musikfernsehshows.
 Die Inszenierung, die nur aus Bild und Ton ohne gesprochene Worte aufgebaut war, bot den weißen Zuschauern damals ein „sicheres fremdes Land“.
 
-Pundit hatte mehr als 1.000 Sendungen, was ihr mehr Fernsehpräsenz bescherte als ihrem Zeitgenossen Nat King Cole.
+Pundit hatte mehr als 1.000 Sendungen, was ihr mehr Fernsehpräsenz verschaffte als ihrem Zeitgenossen Nat King Cole.
 Allerdings konnte er nur dadurch Erfolg haben, dass er seine Identität als schwarzer Künstler verbarg;
 Es ist auch eine symbolische Anekdote, die den Zusammenhang zwischen Unterhaltung und Rassismus verdeutlicht.
 

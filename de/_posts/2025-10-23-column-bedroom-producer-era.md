@@ -25,7 +25,7 @@ Es ist nicht mehr erst gestern, dass die Musikproduktion jetzt in einem „Raum�
 Dies ist jedoch seit dem 21. Jahrhundert, als die Digitalisierung ihren Höhepunkt erreicht hat, „normal“ geworden.
 Die Magie der Musikproduktion, die einst auf die Wände eines Studios beschränkt war, ist dank Laptops und kostengünstigen Audioschnittstellen, DAWs (Digital Audio Workstations), endlich in jedermanns Zimmer angekommen.
 
-Ein Schlafzimmerproduzent ist nicht nur jemand, der allein den Ton erzeugt.
+Ein Schlafzimmerproduzent ist nicht nur jemand, der allein Sound erzeugt.
 Sie sind der Inbegriff der „Demokratisierung“ der Musikindustrie und zugleich ein Symbol für die „Kreativität der Einsamkeit“.
 Heutzutage, mit direktem Zugang zur Welt über Spotify und SoundCloud, ist das Schlafzimmer kein „privater Raum“ mehr. Durch sein Netzwerk ist es zur Basis einer neuen Musikstadt = digitalen Stadt geworden.
 
@@ -129,7 +129,7 @@ Ihre Aktivitäten präsentierten eine neue Struktur namens „Popmusik ohne Auto
 ### Die Schnittstelle von Niconico Douga und YouTube
 
 Da Kommentarkultur und abgeleitete Werke auf mehreren Ebenen ineinandergreifen, hat sich das Schlafzimmer in einen Ort der gemeinschaftlichen Produktion verwandelt.
-„Das Schaffen durch eine Person“ erlangte schließlich in einem Netzwerk Bedeutung, in dem „viele Menschen gemeinsam Resonanz fanden“.
+„Das Schaffen durch eine Person“ wurde schließlich in einem Netzwerk bedeutsam, in dem „viele Menschen gemeinsam Resonanz fanden“.
 
 ---
 
@@ -181,4 +181,4 @@ Und diese Hände sind nicht mehr über die Maus oder das MIDI-Keyboard verbunden
 Direkt mit der ganzen Welt verbunden.
 
 >„Von meinem Zimmer in deine Welt.“
->- Das ist vielleicht das ehrlichste Bild der Musik des 21. Jahrhunderts.
+>- Das ist vielleicht das ehrlichste Bild der Musik im 21. Jahrhundert.

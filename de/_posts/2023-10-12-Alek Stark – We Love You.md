@@ -13,7 +13,7 @@ title: Alek Stark – Wir lieben dich
 ---
 
 
-„Alek Stark – We Love You“ ist ein Elektro-/Synth-Pop-Track des spanischen Elektroproduzenten/Künstlers Alek Stark (Serafín Gallego), der 2002 auf dem Münchner Elektromusik-Label Disko Bombs (Disko B) veröffentlicht wurde.
+„Alek Stark – We Love You“ ist ein Elektro-/Synth-Pop-Track des spanischen Elektro-Produzenten/Künstlers Alek Stark (Serafín Gallego), der 2002 auf dem Münchner Elektro-Musik-Label Disko Bombs (Disko B) veröffentlicht wurde.
 
 #### Trackliste
 ```md

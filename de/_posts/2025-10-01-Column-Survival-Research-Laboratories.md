@@ -18,7 +18,7 @@ title: '[Kolumne] Survival Research Laboratories (SRL): Pionier der mechanischen
 Text: mmr｜Thema: Über eine innovative Gruppe, die die Beziehung zwischen Maschinen und Menschen, Technologie und Kunst sowie Ordnung und Chaos hinterfragt.
 
 
-Survival Research Laboratories (SRL) ist ein amerikanisches Performance-Kunstkollektiv, das 1978 von Mark Pauline in San Francisco gegründet wurde. SRL ist bekannt für groß angelegte Aufführungen mit Maschinen und Robotern, die darauf abzielen, industrielle, wissenschaftliche und militärische Technologie in künstlerische und gesellschaftspolitische Satire umzuwandeln. Ihre Arbeit ist mit der Kunst von Dada und Jean Tinguely verbunden und wurde dafür gelobt, dass sie den Zustand und die Richtung der technologischen Gesellschaft in Frage stellt.
+Survival Research Laboratories (SRL) ist ein amerikanisches Performance-Kunstkollektiv, das 1978 von Mark Pauline in San Francisco gegründet wurde. SRL ist bekannt für groß angelegte Aufführungen mit Maschinen und Robotern, die darauf abzielen, industrielle, wissenschaftliche und militärische Technologie in künstlerische und gesellschaftspolitische Satire umzuwandeln. Ihre Arbeit ist mit der Kunst von Dada und Jean Tinguely verbunden und wurde dafür gelobt, den Zustand und die Richtung der technologischen Gesellschaft in Frage zu stellen.
 
 ---
 
@@ -134,7 +134,7 @@ SRL veröffentlicht auch DVDs und Alben mit akustischen Auftrittserlebnissen. Na
 
 ### SRL-Einfluss und kulturelle Bedeutung
 
-SRL ist eine bahnbrechende Verschmelzung von Robotik, Performance-Kunst und gesellschaftspolitischer Satire. Ihre Arbeiten verwischen die Grenzen zwischen Technologie und Kunst und hinterlassen beim Publikum einen starken Eindruck. Die Aktivitäten von SRL beeinflussten Veranstaltungen wie Burning Man und Battlebots und hatten großen Einfluss auf die moderne Maker-Kultur und die kinetische Kunst.
+SRL ist eine bahnbrechende Verschmelzung von Robotik, Performance-Kunst und gesellschaftspolitischer Satire. Ihre Arbeiten verwischen die Grenzen zwischen Technologie und Kunst und hinterlassen beim Publikum einen starken Eindruck. Die Aktivitäten von SRL beeinflussten Veranstaltungen wie Burning Man und Battlebots und hatten großen Einfluss auf die moderne Maker-Kultur und kinetische Kunst.
 
 
 ---

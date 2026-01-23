@@ -15,7 +15,7 @@ title: Tontheorie – Schwebezustand verschwundener Möglichkeiten
 
 „Limbo Of Vanished Possibilities“ von Tone Theory (Derrick Carter) ist mit seinem Beat, der komplizierten Percussion und der kraftvollen Basslinie perfekt für die Tanzfläche.
 
-Darüber hinaus zeugen der elektronische „Whistle“-Hook, die zarte und schöne kleine Melodie und der emotionale, aber geheimnisvolle Gesang von gutem Geschmack.
+Darüber hinaus zeugen der elektronische „Pfeif“-Haupteinstieg, die zarte und schöne kleine Melodie und der emotionale, aber geheimnisvolle Gesang von gutem Geschmack.
 
 Als nächstes gibt es wunderschöne Orgel- und Klavierlinien, kleine Hits und gefilterte Handclap-Percussion, und dann liefert DC eine Killer-Basslinie, die ein sattes Klangbild mit einer „federnden“ Textur zeichnet.
 

@@ -50,7 +50,7 @@ color: #fff;
 Its musicality is multi-layered. AOR, soul, funk, jazz, disco - based on Western black music, they combined Japanese melodic beauty and poetry. Tatsuro Yamashita"s precise vocal harmony, Mariya Takeuchi"s sweet yet heartrending melody, and Eiichi Otaki's structured production. All of them functioned as a "Japanese redefinition of pop."
 
 The themes of this music are summarized in motifs such as love, nightlife, loneliness, and movement. Even though it is set in a city, there is a certain feeling of being left behind.
-It was a ""private landscape painting"' depicting the richness and emptiness brought about by rapid economic growth as a personal feeling. That"s why it resonates with modern overseas listeners. This is because, in a time of urbanization and digitalization, they too face the same loneliness.
+It was a ""private landscape painting"' depicting the richness and emptiness brought about by rapid economic growth as a personal feeling. That"s why it resonates with modern overseas listeners. Now that urbanization and digitalization have progressed, they too face the same loneliness.
 
 ---
 
@@ -60,7 +60,7 @@ From the late 1970s to the 1980s, Japanese society rapidly achieved affluence.
 Home appliances, cars, fashion, and music symbolized the "urban lifestyle."
 Sony's Walkman (1979) ushered in a revolution in ""carrying music with you,'' and City Pop became the ideal soundtrack.
 
-FM stations open one after another, and DJs play the latest hits in English. The chord progression evokes the winds of the American West Coast, and is associated with images of cities such as Tokyo, Yokohama, and Kobe.
+FM stations open one after another, and DJs play the latest hits in English. The chord progression, which evokes the winds of the American West Coast, is linked to images of cities such as Tokyo, Yokohama, and Kobe.
 It can be said that listeners at the time were expressing themselves ""living in the city'' through city pop.
 During this period, Japan's recording technology reached the highest level in the world, and the sound quality of records was extremely high. It was a time when the city really resonated both acoustically and socially.
 
@@ -113,7 +113,7 @@ DJs everywhere brought City Pop to clubs: France, South Korea, London, LA.
 Night Tempo, Yung Bae, Macross 82-99 are some of the most iconic.
 They sampled and reimagined city pop, creating a new genre called "Future Funk."
 
-This music is not just nostalgic, but a fusion of the brightness of the 80s and a modern tempo.
+This music is not just nostalgic, but a fusion of the brightness of the 80's and a modern tempo.
 For DJs, city pop is a ""comfortable danceable tempo'' of 110 to 115 BPM.
 It has perfect sound quality as sampling material.
 

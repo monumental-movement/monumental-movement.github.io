@@ -20,7 +20,7 @@ title: '[Kolumne] Nala Sinephro – Klangatmung und kosmische Stille: Der aktuel
 
 Text: mmr｜Thema: Beim Jazz geht es nicht um Technik oder Genreerweiterung, sondern um die grundlegende Frage, was Klang dem Menschen bringen kann.
 
-Wenn wir Nala Sinephros Musik zum ersten Mal hören, sind wir gezwungen, das Konzept eines „Liedes“ aufzugeben.
+Wenn wir zum ersten Mal mit der Musik von Nala Sinephro in Kontakt kommen, sind wir gezwungen, das Konzept eines „Liedes“ loszulassen.
 Sein Debütalbum Space 1.8, das 2021 bei Warp Records erschien, war ein Werk, das die Grenzen zwischen Jazz und Ambient, modularer Synthese und Improvisation verschmolz, als ob es atmen würde.
 
 Harfe, Tenorsaxophon, modularer Synthesizer und der Raum selbst.
@@ -48,7 +48,7 @@ color: #fff;
 Wenn man über das Wiederaufleben des Jazz in London spricht, kommt einem immer die geografische Energie Südlondons in den Sinn.
 Die Söhne von Kemet, Nubya Garcia, Shabaka Hutchings, Moses Boyd und andere haben ein neues Jazz-Vokabular etabliert, aber Nala Sinephro ist diejenige, die den Sound von der „stillen Seite“ her neu aufgebaut hat.
 
-Sie hat st. Lucianische und belgische Wurzeln und studierte gleichzeitig klassische und elektronische Akustik.
+Sie hat St. Lucianer und belgische Wurzeln und studierte gleichzeitig klassische und elektronische Akustik.
 Bei einer Session im Londoner Jazzclub „Total Refreshment Centre“
 Er hat eine einzigartige Klangsprache geschaffen, die sich frei zwischen Harfe und modularem Synthesizer bewegt.
 
@@ -104,7 +104,7 @@ Wie dieses Diagramm zeigt, ist Ambient Jazz eine Bewegung, die gleichzeitig das 
 ## Kapitel 4: Modulare Synthesizer und der „Hörkörper“
 
 Bei Live-Auftritten bedient Nala gleichzeitig mit der Harfe das **Eurorack-Modulsystem**.
-Hier ist das Patchen selbst eine improvisatorische Performance, die den Körper und Raum des Zuhörers verändert.
+Hier ist das Patchen selbst eine improvisatorische Performance, die den Körper und den Raum des Zuhörers verändert.
 
 > Beispiel einer Gerätekonfiguration:
 > - Machen Sie Lärm-Mathematik
@@ -115,7 +115,7 @@ Hier ist das Patchen selbst eine improvisatorische Performance, die den Körper 
 
 Diese Konfiguration ist wirklich ein „Atemgerät für Mensch und Maschine“.
 Wellenformen umhüllen die Echos der Harfe, analoge Temperaturen neutralisieren die elektronische Transparenz.
-Es ist auch ein Akt der Sublimierung von Musik zu einem **Technologiegebet**.
+Es ist auch ein Akt der Sublimierung von Musik in ein **Technologiegebet**.
 
 ---
 
@@ -139,9 +139,9 @@ Gleichzeitig ist es aber auch ein Zeichen der Langsamkeit als Reaktion auf die G
 | 1998 | Geboren als Belgier mit St.-Lucian-Abstammung |
 | 2015 | Übersiedelte nach London und begann in der Jazzszene zu arbeiten |
 | 2018 | Treten Sie dem Total Refreshment Center bei und beginnen Sie mit Improvisationssitzungen |
-| 2021 | „Space 1.8“ veröffentlicht von Warp Records |
+| 2021 | „Space 1.8“ von Warp Records veröffentlicht |
 | 2022 | Internationale Anerkennung durch Gilles Peterson und andere |
-| 2024 | Neue Produktion/modulares Live-Projekt gestartet |
+| 2024 | Start neuer Produktion/modulares Live-Projekt |
 
 ---
 

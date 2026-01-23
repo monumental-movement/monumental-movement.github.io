@@ -50,7 +50,7 @@ Jamals erstes Album als Leader war 1951 „New Talent“, ein Album, das sich um
 
 ### 1955–56 – Der Erfolg von At the Pershing: But Not for Me
 
-Das 1955 gegründete Ahmad Jamal Trio (Israel Crosby am Bass, Vernel Fournier am Schlagzeug) trat regelmäßig in der Pershing Lounge in Chicago auf. Eine 1958 veröffentlichte Aufnahme dieses Live-Auftritts, At the Pershing: But Not for Me, war ein großer kommerzieller und kritischer Erfolg. Insbesondere die Aufführung von „Poinciana“ war ein Hit und hinterließ nicht nur bei Jazzfans, sondern auch beim allgemeinen Publikum großen Eindruck.
+Das 1955 gegründete Ahmad Jamal Trio (Israel Crosby am Bass, Vernel Fournier am Schlagzeug) trat regelmäßig in der Pershing Lounge in Chicago auf. Eine 1958 veröffentlichte Aufnahme dieses Live-Auftritts, At the Pershing: But Not for Me, war ein großer kommerzieller und kritischer Erfolg. Vor allem die Aufführung von „Poinciana“ war ein Hit und hinterließ nicht nur bei Jazzfans, sondern auch beim allgemeinen Publikum großen Eindruck.
 
 Dieses Album enthält:
 
@@ -73,7 +73,7 @@ In den 1960er Jahren begann Jamal seine internationalen Aktivitäten. Er tourte 
 Ahmad Jamals Spiel hat eine einzigartige Präsenz im modernen Jazz. Sein charakteristisches Merkmal ist, dass er den Schwerpunkt auf den Raum legt und sich nicht nur auf Technik oder schnelles Spiel verlässt. Durch die Nutzung der Leerstellen stechen die Resonanz jeder Note und die Veränderungen im Rhythmus hervor und hinterlassen beim Publikum einen tiefen Eindruck.
 
 ### 1. Nutzung des Rhythmusraums
-Jamal schafft Raum zwischen den Phrasen und baut Rhythmus und Melodie als Reaktion aufeinander auf. Diese Methode wurde später von Miles Davis als „einer der Pianisten, die mich am meisten beeinflusst haben“ bezeichnet und sie beeinflusste auch die Entwicklung des Modal Jazz.
+Jamal schafft Raum zwischen den Phrasen und baut Rhythmus und Melodie aufeinander auf. Diese Methode wurde später von Miles Davis als „einer der Pianisten, die mich am meisten beeinflusst haben“ bezeichnet und sie beeinflusste auch die Entwicklung des Modal Jazz.
 
 ### 2. Minimaler Ansatz
 Die Aufführung konzentriert sich auf einfache Phrasen ohne Verzierungen und stellt dem Zuhörer das Thema klar dar. Die Wiederholungen und rhythmischen Veränderungen verleihen der Aufführung ein Gefühl dynamischer Spannung.
@@ -121,7 +121,7 @@ Ahmad Jamals Karriere ist von vielen klassischen Alben geprägt. Nachfolgend fin
 ## Zeitleiste
 
 Nachfolgend finden Sie eine Zeitleiste, die sich auf die wichtigsten Ereignisse und Werke von Ahmad Jamal konzentriert.
-Um den Karriereverlauf zu veranschaulichen, sind auch Illustrationen in Mermaid-Notation enthalten.
+Um den Verlauf der Karriere zu veranschaulichen, sind auch Illustrationen in Mermaid-Notation enthalten.
 
 <div class="mermaid">
 timeline
@@ -151,14 +151,14 @@ Die Musik von Ahmad Jamal nimmt einen einzigartigen Platz in der Jazzgeschichte 
 
 ### 1. Einfluss auf Miles Davis
 Miles Davis bezeichnete Jamal im Laufe seines Lebens wiederholt als seinen „einflussreichsten Pianisten“.
-Insbesondere sind folgende Punkte wichtig:
+Dabei sind insbesondere folgende Punkte wichtig:
 
 - **Das Konzept des „Raums“**
 Jamals Spiel mit Leerstellen hatte einen starken Einfluss auf Miles‘ Modeära ab den späten 1950er Jahren.
 - **Minimalistische Themenpräsentation**
 Jamals Sinn für Struktur spiegelt sich auch in Miles' Arrangements aus seiner Quintettzeit wider.
 - **Trio-Dynamik**
-Der interaktive Ansatz zwischen Bass und Schlagzeug trug auch zur Entstehung von Miles' Band-Zusammenspiel bei.
+Der interaktive Ansatz zwischen Bass und Schlagzeug trug auch zur Entstehung von Miles‘ Bandzusammenspiel bei.
 
 Jamals Einfluss ist so bedeutend, dass man sagen kann, dass er ihn nicht nur „mochte“, sondern tatsächlich die Struktur von Miles‘ Musik veränderte.
 
@@ -167,7 +167,7 @@ Vor Jamal wurden Klaviertrios typischerweise vom Klavier geleitet und von einer 
 Aber Jamal hat die Struktur wie folgt geändert:
 
 - Positionierung von Bass und Schlagzeug als „gleichberechtigte Instrumente“
-- Das Klavier wechselt flexibel zwischen Hauptmelodie und Begleitrolle.
+- Das Klavier wechselt flexibel zwischen der Hauptmelodie und der Begleitrolle.
 - Komposition mit Schwerpunkt auf Dynamik und Raum
 
 Diese Innovation legte den Grundstein für das moderne Klaviertrio, das später von Bill Evans, Herbie Hancock, Keith Jarrett und anderen entwickelt wurde.
@@ -186,13 +186,13 @@ Insbesondere die Tatsache, dass er in den 1950er Jahren konvertierte und den Nam
 ### 4. „Die Kunst des Weltraums“ erben
 Jamals charakteristischer Stil, die Ästhetik der Ruhe, wurde an die folgenden Generationen weitergegeben:
 
-- Herbie Hancock
+-Herbie Hancock
 - McCoy Tyner
 - Keith Jarrett
 - Brad Mehldau
 -Vijay Iyer et al.
 
-Vor allem im zeitgenössischen Jazz haben sich **Aufführungen, die sich minimalistischer Strukturen und Leerräume bedienen** weithin durchgesetzt, und Jamal wird zugeschrieben, dass er dafür den Grundstein gelegt hat.
+Vor allem im zeitgenössischen Jazz haben sich **Aufführungen, die minimalistische Strukturen und Leerräume nutzen** durchgesetzt, und Jamal wird zugeschrieben, dass er dafür den Grundstein gelegt hat.
 
 ### 5. Späte Bewertung und Aktivitäten in späteren Jahren
 Seit den 2000er Jahren hat Jamal Aktivitäten mit folgenden Merkmalen entwickelt:

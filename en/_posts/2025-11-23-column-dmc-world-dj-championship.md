@@ -60,7 +60,7 @@ At the 1986 tournament, he performed a routine that emphasized scratching and be
 
 From this moment on, the world began to share the value that ""turntablism, including scratching, decides the game.''
 
-## 2-2　1988-1990: Towards the era of sampling, beat juggling, and composition
+## 2-2　1988-1990: Toward the era of sampling, beat juggling, and composition
 After Cheese, DJs didn't just play songs;
 - Manually reconfigure beats
 - chop the pieces
@@ -102,7 +102,7 @@ This results in
 - Freely use your own edited sound sources
 - Greatly expands the range of routine configurations
 - Increased tone play and melodic expression
-Such an evolution is taking place.
+Such an evolution will take place.
 
 ## 4-2　Video qualifying/online
 Around 2011, an **Online DJ Championship** using YouTube was introduced, opening the door for DJs from all over the world to participate.
@@ -305,7 +305,7 @@ flowchart TB
     A[1985: World DJ Championship (individual)] --> B[1990: Team Division]
     B --> C[1990s：Battle for World Supremacy]
     C --> D[2006: DVS authorization]
-    D --> E[2011: Online qualifying]
+    D --> E[2011: Online Qualifying]
     E --> F[2020: Fully online world tournament]
     F --> G[2023: Hybrid event]
 </div>
@@ -390,7 +390,7 @@ flowchart LR
     C --> C2[beat making]
 
     E --> E1[DJ school]
-    E --> E2[University lecture (sound/media)]
+    E --> E2[University lecture (acoustic/media)]
 
     F --> F1[turntable development]
     F --> F2[DVS system]

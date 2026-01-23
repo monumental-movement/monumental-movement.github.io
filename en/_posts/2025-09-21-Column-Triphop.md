@@ -127,7 +127,7 @@ There are short documentaries such as Unfinished: The Making of Massive Attack. 
 **2008**: [Third](https://amzn.to/3VZXagN) (Revival work with strong experimental flavor)
 
 #### Anecdote
-Beth Gibbons's ennui vocals are said to reflect the tension and loneliness she feels on stage in her sound.
+Beth Gibbons' ennui vocals are said to reflect the tension and loneliness she feels on stage in her sound.
 
 #### Production technology
 A fusion of turntable and live instruments. Multilayered use of sampling and analog recording.
@@ -153,7 +153,7 @@ There are documentaries about 90's tours such as "Welcome to Portishead".
 Endtroducing.... is set in the Guinness Book of World Records as the ""first album constructed entirely from samples.'' Completed using MPC and turntable.
 
 #### Production technology
-Making full use of breakbeat reconstruction, beat juggling, and time stretching. Treat the turntable as a "collage tool".
+Makes full use of breakbeat reconstruction, beat juggling, and time stretching. Treat the turntable as a "collage tool".
 
 #### Video works
 Appeared in [DJ culture documentary "Scratch" (2001)](https://amzn.to/4pzrtso).

@@ -147,7 +147,7 @@ In the 1970s and 1980s, portable synths and electronic musical instruments becam
 - CASIO VL-TONE
 - Educational synths such as Gakken's SX-150
 
-Electronic sounds can be easily experienced on desks at home or at school, and children have become familiar with the culture of ""playing with sounds.'' In modern times, digital toys like Otamatone are connected to YouTube culture, creating a new world of "cute sounds."
+Electronic sounds can be easily experienced on desks at home or school, and children have become familiar with the culture of ""playing with sounds.'' In modern times, digital toys like Otamatone are connected to YouTube culture, creating a new world of "cute sounds."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VKfsCbe47Os?si=djdl5n1qjmiP3Scw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

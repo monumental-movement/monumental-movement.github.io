@@ -13,7 +13,7 @@ title: Terry Brookes & Aaron Soul – Stadtleben (Teil 1)
 ---
 
 
-City Life (Part 1) ist ein House-Track, der 2005 von Rush Hour veröffentlicht wurde, einem 1999 von Christiaan Macdonald und Antal Heitlager gegründeten niederländischen Plattenlabel mit Sitz in Amsterdam.
+City Life (Part 1) ist ein House-Track, der 2005 vom in Amsterdam ansässigen niederländischen Plattenlabel Rush Hour veröffentlicht wurde, das 1999 von Christiaan Macdonald und Antal Heitlager gegründet wurde.
 
 Seite A ist ein Remix von Carl Craig.
 

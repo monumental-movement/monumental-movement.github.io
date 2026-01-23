@@ -21,7 +21,7 @@ Text: mmr｜Thema: Anstatt die beiden als Genrenamen zu trennen, geht es bei bei
 
 Ambient Techno ist ein Bereich der elektronischen Musik, der in den frühen 1990er Jahren gegründet wurde und ein Musikstil ist, der die repetitive rhythmische Struktur von Techno mit der Räumlichkeit und Nachhaltigkeit von Ambient-Musik verbindet. Seine Besonderheit besteht darin, dass es das Zeitgefühl der Clubmusik beibehält und gleichzeitig als Musik der Wertschätzung fungiert.
 
-Deep Ambient (sog. Deep-Sea-Ambient) weist einen höheren Abstraktionsgrad auf und erfordert keine Anwesenheit von Beats. Der Schwerpunkt liegt auf extrem tiefen Klangbildern, anhaltenden, auf tiefe Frequenzen konzentrierten Klängen und Kompositionen, die die Konturen der Zeit verschleiern.
+Deep Ambient (sog. Deep-Sea-Ambient) hat einen höheren Abstraktionsgrad und erfordert keine Anwesenheit von Beats. Der Schwerpunkt liegt auf extrem tiefen Klangbildern, anhaltenden Klängen mit Schwerpunkt auf niedrigen Frequenzbändern und Kompositionen, die die Konturen der Zeit verschleiern.
 
 ---
 
@@ -45,7 +45,7 @@ Die in den 1970er Jahren entstandene Ambient-Musik vertrat die Idee, dass Musik 
 
 Andererseits hat sich Techno, der Ende der 1980er Jahre etabliert wurde, zu einer Musik entwickelt, die körperliche Bewegung hervorruft und deren Kern repetitive Beats und mechanische Präzision sind. Obwohl diese beiden Trends auf den ersten Blick polare Gegensätze zu sein scheinen, haben sie gemeinsame Elemente wie „Beharrlichkeit“, „Wiederholung“ und „Nicht-Erzählung“.
 
-Von Ende der 1980er bis Anfang der 1990er Jahre, als die Clubkultur reifte, bestand ein Bedarf an Musik, die außerhalb der Tanzfläche funktionieren konnte, oder an Musik, die außerhalb der Hauptverkehrszeiten unterstützen konnte, und in der Praxis kamen sich beide näher.
+Von Ende der 1980er bis Anfang der 1990er Jahre, als die Clubkultur reifte, bestand ein Bedarf an Musik, die außerhalb der Tanzfläche funktionieren konnte, oder an Musik, die außerhalb der Hauptverkehrszeiten unterstützen konnte, und beide kamen sich in praktischer Hinsicht näher.
 
 ---
 
@@ -63,9 +63,9 @@ Diese Designphilosophie wurde zur Grundlage von Ambient Techno und hatte einen e
 
 ## 4. Metapher des Tiefseegefühls
 
-Das Wort „Tiefsee“ ist kein Musikgenre, sondern eine akustische Metapher. Der Kern von Deep-Sea-Ambient ist der Versuch, durch Klang eine Umgebung nachzubilden, die das Licht nicht erreicht, das Gefühl für Distanz verloren geht und das Gefühl für die Richtung mehrdeutig ist.
+Das Wort „Tiefsee“ ist kein Musikgenre, sondern eine akustische Metapher. Der Kern von Deep-Sea-Ambient ist der Versuch, durch Klang eine Umgebung nachzubilden, in die das Licht nicht gelangt, der Sinn für Distanz verloren geht und der Sinn für Richtung mehrdeutig ist.
 
-Diese Metapher ist kein Zufall. In tiefem Wasser werden hohe Frequenzen gedämpft und niedrige Frequenzen breiten sich über große Entfernungen aus. Der Standort der Schallquelle wird unklar und der Schall wird als Schicht und nicht als Punkt wahrgenommen. Deep Sea Ambient nutzt diesen physikalischen Zustand in seinem akustischen Design.
+Diese Metapher ist kein Zufall. In tiefem Wasser werden hohe Frequenzen gedämpft und niedrige Frequenzen breiten sich über große Entfernungen aus. Der Ort der Schallquelle wird unklar und der Schall wird als Schicht statt als Punkt wahrgenommen. Deep Sea Ambient nutzt diesen physikalischen Zustand in seinem akustischen Design.
 
 
 ---
@@ -76,7 +76,7 @@ In der Tiefseeakustik dienen tiefe Frequenzen nicht nur der Energiegewinnung. Da
 
 Subbass hat oft keinen klaren Anschlag, er steigt langsam an und klingt langsam ab. Dadurch wird der Hörer in einen Zustand versetzt, in dem er den Schall nicht „hört“, sondern als Schalldruck „spürt“.
 
-Vom Tiefmitteltonbereich bis zum Mitteltonbereich werden anhaltende Töne mit unterdrückten Obertönen platziert, was der Vergleichmäßigung der Klangdichte dient.
+Vom Mittel-Tief-Bereich bis zum Mitteltonbereich werden anhaltende Töne mit unterdrückten Obertönen platziert, was der Vergleichmäßigung der Klangdichte dient.
 
 
 ---
@@ -119,7 +119,7 @@ Der entscheidende Unterschied zur Tiefsee-Ambient-Musik liegt im Master-Slave-Ve
 
 ## 10. Vergleich mit Deep Techno
 
-Deep Techno zeichnet sich durch minimale Struktur, langsames Tempo und verhaltene Entwicklung aus und ist Musik, die nach Tiefe strebt und gleichzeitig den Clubkontext beibehält.
+Deep Techno zeichnet sich durch seine minimale Struktur, sein langsames Tempo und seine zurückhaltende Entwicklung aus und ist Musik, die nach Tiefe strebt und gleichzeitig den Clubkontext beibehält.
 
 Während sich Ambient Techno/Deep Ambient vom Clubcharakter distanziert, führt Deep Techno Tiefseesound ein, behält aber die Floor-Funktion bei. Dieser Unterschied führt zu einem deutlichen Unterschied in der Nutzung und Hörhaltung.
 

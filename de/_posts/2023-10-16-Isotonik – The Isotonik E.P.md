@@ -14,7 +14,7 @@ title: Isotonik – Die Isotonik E.P
 
 
 „Isotonik – Die Isotonik E.P“
-Der Produzent/Komponist/Mix für den ersten Track auf Seite A und B ist DJ Hype (Kevin Ford), ein britischer Jungle-Drum-and-Bass-Produzent/DJ.
+Der Produzent/Komponist/Mix des ersten Tracks auf Seite A und B ist DJ Hype (Kevin Ford), ein britischer Jungle-Drum-and-Bass-Produzent/DJ.
 
 #### Trackliste
 ```md

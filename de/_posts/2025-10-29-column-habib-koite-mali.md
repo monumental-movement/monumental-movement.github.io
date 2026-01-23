@@ -55,8 +55,8 @@ Seine Musik redet nicht über Politik. In dieser Ruhe liegt jedoch die **ethnisc
 
 ## Kapitel 1: Das musikalische Universum Malis
 
-Die Republik Mali ist ein Binnenstaat in Westafrika. In der Geographie, in der sich die Sahara und der Fluss Niger kreuzen, gibt es ein reiches kulturelles Erbe, das bis zum Mali-Reich im 13. Jahrhundert zurückreicht.
-Die Musik dieses Landes wurde von Griots = traditionellen Geschichtenerzählern/Musikern geerbt. Ihre Rolle besteht nicht nur darin, Darsteller zu sein, sondern auch als **Bewahrer des nationalen Gedächtnisses**.
+Die Republik Mali ist ein Binnenstaat in Westafrika. In der Geographie, in der sich die Sahara und der Niger kreuzen, gibt es ein reiches kulturelles Erbe, das bis zum Mali-Reich im 13. Jahrhundert zurückreicht.
+Die Musik dieses Landes wurde von Griots (traditionellen Geschichtenerzählern/Musikern) geerbt. Ihre Rolle besteht nicht nur darin, Darsteller zu sein, sondern auch als **Bewahrer des nationalen Gedächtnisses**.
 
 Bambara, Songhai, Tuareg, Peul, Dogon ... Jede ethnische Gruppe hat ihr eigenes Musikinstrumenten- und Melodiesystem, und die Rhythmen sind vielschichtig miteinander verflochten.
 Diese Vielfalt ist die „grundlegende Polyphonie“ der malischen Musik, und Koité hat die „Gitarre“ neu in den Mittelpunkt gestellt.
@@ -100,7 +100,7 @@ Nachdem Koité auf Weltmusikfestivals in Europa und den Vereinigten Staaten von 
 ## Kapitel 5: Malis Gitarrensprache
 
 Koités Gitarre ist nicht nur eine Begleitung, sondern eine „Erzählung“.
-Sein Spielstil weist drei Merkmale auf:
+Sein Spielstil zeichnet sich durch drei Merkmale aus:
 
 - 1. **Vielfalt in der Stimmung**: Ändern Sie die Stimmung entsprechend der Skala jeder ethnischen Gruppe (insbesondere Bambara, Peul usw.)
 - 2. **Koexistenz von Melodie und Rhythmus**: Die Melodielinie spielt gleichzeitig eine perkussive Rolle.
@@ -127,7 +127,7 @@ Es pendelt zwischen Musik und Worten hin und her und verkörpert die „mehrspra
 Seit den 1990er Jahren ist Mali Bürgerkrieg, ethnischen Konflikten und islamischem Extremismus ausgesetzt.
 Koités Musik kritisiert nicht direkt die Politik, sondern sendet symbolisch eine Botschaft des Friedens.
 
-„**Afriki**“ (2007) zum Beispiel ist ein Album, das zur Einheit auf dem afrikanischen Kontinent ruft und gleichzeitig eine Ode an den „lokalen Stolz“ ist, der inmitten der Globalisierung verloren geht.
+„**Afriki**“ (2007) zum Beispiel ist ein Album, das zur Einheit auf dem afrikanischen Kontinent ruft und gleichzeitig eine Ode an den „lokalen Stolz“ ist, der in der Globalisierung verloren geht.
 
 > „Ich mache Musik ohne Grenzen, aber ihre Wurzeln liegen in Mali.“
 
@@ -184,7 +184,7 @@ Es handelt sich um eine „stille Methode“, mit der Musik die soziale Solidari
 
 ---
 
-## Diagramm: Genealogie der malischen Musik und die Stellung von Koité
+## Diagramm: Genealogie der malischen Musik und die Position von Koité
 
 <div class="mermaid">
 

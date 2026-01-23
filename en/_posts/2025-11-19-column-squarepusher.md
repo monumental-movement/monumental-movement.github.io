@@ -99,7 +99,7 @@ graph TD
 
 ### 4.2 Jazz fusion influence
 
-* Highly improvised bass playing
+* Highly improvised bass performance
 * Fusion elements in chord progressions and phrases
 
 ### 4.3 Analog + digital fusion

@@ -168,7 +168,7 @@ Ambient-Musik zur Entspannung und Meditation.
 
 ### Ambient ist Raumkunst
 
-Ambient-Musik ist nicht nur Hintergrundmusik, sondern ist auch eng mit den folgenden Ideen und künstlerischen Konzepten verbunden.
+Ambient-Musik ist nicht nur Hintergrundmusik, sie ist auch eng mit den folgenden Ideen und künstlerischen Konzepten verbunden.
 
 **● Minimalismus und Zeitkunst**
 
@@ -206,7 +206,7 @@ Auch eine Fusion mit NFT-Kunst und generativer Musik ist im Gange.
 
 Ambient ist Musik, die nicht im Zentrum der Musik steht, sondern an der Peripherie. Es ist eine Kunst, bei der es nicht um Melodie oder Rhythmus geht, sondern um die Transformation von Atmosphäre, Zeit, Empfindung und Bewusstsein.
 
-Es ist ein Klang, der den Rahmen der Musik überschreitet und in die Stille inmitten des Lärms der Stadt und der Lücken zwischen Erinnerungen eindringt. Anstatt es mit den Ohren zu hören, ist es ein Klang, den man im Raum spüren kann.
+Es ist ein Klang, der den Rahmen der Musik überschreitet und in die Stille inmitten des Lärms der Stadt und der Lücken zwischen Erinnerungen eindringt. Anstatt es mit den Ohren zu hören, ist es ein Geräusch, das man im Raum spüren kann.
 
 <hr>
 

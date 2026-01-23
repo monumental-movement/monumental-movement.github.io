@@ -13,9 +13,9 @@ title: Leroy Hanghofer – Badezimmerboogie
 ---
 
 
-Diese EP hat ein sehr funkiges und wunderbar kreatives und skurriles Gefühl mit einem subtilen Sinn für Humor.
+Diese EP hat ein sehr funkiges und wunderbar kreatives und skurriles Gefühl, mit einem subtilen Sinn für Humor.
 
-Aber die dicke Basslinie und der knackige Synthesizer halten alles in einem engen Groove und sorgen dafür, dass die Dinge fröhlich voranschreiten.
+Aber die dicke Basslinie und der knackige Synthesizer halten alles in einem engen Groove und sorgen dafür, dass die Dinge fröhlich weitergehen.
 
 #### Trackliste
 ```md

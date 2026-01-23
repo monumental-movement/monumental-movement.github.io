@@ -152,7 +152,7 @@ example:
 | Kick --- | Snare ----- | Hat - |
 
 
-Controlling the ""margin length'' is more important than the tempo.
+Controlling ""margin length'' is more important than tempo.
 
 ---
 

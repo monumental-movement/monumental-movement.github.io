@@ -21,7 +21,7 @@ title: '[Spalte] Experimentelle Stimm-/Stimmanipulation – Geschichte und Techn
 
 Text: mmr｜Thema: Experimenteller Gesang, der die Stimme als Material/Geschichte, Techniken, Repräsentanten und zeitgenössische Trends der Stimmmanipulation verarbeitet, erzeugt und neu ordnet
 
-Im 21. Jahrhundert hat sich die Singstimme von einem bloßen Überbringer von Melodien zu einem bearbeitbaren akustischen Material entwickelt. Mit der Verfügbarkeit von Werkzeugen wie Aufnahme-/Bearbeitungstechnologie, Effekten, Sampling, Echtzeitverarbeitung und Erzeugungstechnologie hat die Stimme eine vielfältige Rolle als Instrument, Textur, räumliche Beschreibung und sogar Datenressource übernommen. Künstler wie Björk und Imogen Heap, die ihre eigenen Stimmen als Hauptmaterial für ihre Experimente und durch technologische Durchbrüche wie Granularsynthese und KI-basierte Resynthese geschaffene Ausdrucksformen verwenden, haben die Möglichkeiten der Stimme erheblich erweitert.
+Im 21. Jahrhundert hat sich die Singstimme von der reinen Melodieübertragung zu einem bearbeitbaren akustischen Material entwickelt. Mit der Verfügbarkeit von Werkzeugen wie Aufnahme-/Bearbeitungstechnologie, Effekten, Sampling, Echtzeitverarbeitung und Erzeugungstechnologie hat die Stimme eine vielfältige Rolle als Instrument, Textur, räumliche Beschreibung und sogar Datenressource übernommen. Künstler wie Björk und Imogen Heap, die ihre eigenen Stimmen als Hauptmaterial für ihre Experimente und durch technologische Durchbrüche wie Granularsynthese und KI-basierte Resynthese geschaffene Ausdrucksformen verwenden, haben die Möglichkeiten der Stimme erheblich erweitert.
 
 ---
 
@@ -43,7 +43,7 @@ color: #fff;
 
 ### 1-1. Aufnahmetechnik und Tonbanderzeugung
 
-Mitte des 20. Jahrhunderts waren Aufnahmen und Tonbandmanipulationen die ersten großen Einsatzmöglichkeiten für Stimmmanipulationen. Techniken wie das Ändern der Geschwindigkeit des Bandes, das Zerschneiden und das Rückwärtsspielen schufen eine Möglichkeit, die zeitlichen und frequenzmäßigen Eigenschaften der Stimme strategisch zu verändern und neue musikalische Bedeutungen abzuleiten. In Radioarbeiten und Experimenten mit elektronischer Musik wurden Stimmen teilweise von ihren bestehenden sprachlichen Bedeutungen getrennt und in Klangtexturen umgewandelt.
+Mitte des 20. Jahrhunderts waren Aufnahmen und Tonbandmanipulationen die ersten großen Einsatzmöglichkeiten für Stimmmanipulationen. Techniken wie das Ändern der Geschwindigkeit des Bandes, das Zerschneiden und das Rückwärtsspielen schufen eine Möglichkeit, die zeitlichen und Frequenzeigenschaften der Stimme strategisch zu verändern und neue musikalische Bedeutungen abzuleiten. In Radioarbeiten und Experimenten mit elektronischer Musik wurden Stimmen manchmal von ihren vorhandenen sprachlichen Bedeutungen getrennt und in Klangtexturen umgewandelt.
 
 ### 1-2. Die Ära der Synthese und der analogen Ausrüstung
 
@@ -81,7 +81,7 @@ Imogen Heap demonstrierte, dass die Stimme durch Live-Ausdruck mithilfe von Echt
 
 ## Kapitel 4: Klassifizierung von Techniken und akustischen Effekten
 
-Im Folgenden fassen wir die wichtigsten Techniken zusammen, die häufig beim experimentellen Gesang verwendet werden, und ihre akustischen und ausdrucksstarken Auswirkungen.
+Im Folgenden fassen wir die wichtigsten Techniken zusammen, die häufig im experimentellen Gesang verwendet werden, und ihre akustischen und ausdrucksstarken Auswirkungen.
 
 ### 4-1. Pitch-Verarbeitung
 
@@ -116,7 +116,7 @@ Die Transformation der Stimme in ein Material ist eine Erweiterung des Ausdrucks
 
 ### 5-1. Identität und Stimme
 
-Die Stimme spiegelt die körperlichen Merkmale einer Person wider, kann jedoch durch Verarbeitungstechniken leicht verändert werden. Dies ermöglicht es Künstlern, ihr Spektrum an Selbstdarstellungen zu erweitern und Zuhörern, ihr Bewusstsein für die Stimme zu aktualisieren.
+Die Stimme spiegelt die körperlichen Merkmale einer Person wider, kann jedoch durch Verarbeitungstechniken leicht verändert werden. Dies ermöglicht es Künstlern, ihr Spektrum an Selbstdarstellungen zu erweitern, und Zuhörern, ihr Bewusstsein für Stimmen zu aktualisieren.
 
 ### 5-2. Leistungsethik und Generationstechnik
 
@@ -152,7 +152,7 @@ Hier zeigen wir Ihnen einen grundlegenden Arbeitsablauf, mit dem Sie tatsächlic
 
 ## Kapitel 8: Bildungs- und Forschungsperspektiven
 
-Stimmmanipulation ist ein Bereich, der eng mit Akustik, Psychologie und der Forschung zu künstlicher Intelligenz verbunden ist. Die Wahrnehmung der Stimmqualität, die Parametrisierung für die Stimmsynthese und das physiologische Verständnis der Vokalisierung werden zur technischen Vertiefung experimentellen Gesangs beitragen.
+Stimmmanipulation ist ein Bereich, der eng mit der Akustik, Psychologie und der Forschung zu künstlicher Intelligenz verbunden ist. Die Wahrnehmung der Stimmqualität, die Parametrisierung für die Stimmsynthese und das physiologische Verständnis der Vokalisierung werden zur technischen Vertiefung experimentellen Gesangs beitragen.
 
 ---
 

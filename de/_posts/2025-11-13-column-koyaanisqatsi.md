@@ -67,10 +67,10 @@ Schließlich beginnen sich die Geräusche der Maschinen der menschlichen Zivilis
 ## Kapitel 2: Die Klangkonstruktion von Philip Glass
 
 Die Musik von Glass basiert auf Wiederholung, aber sie ist nicht nur Wiederholung.
-Durch die Überlagerung winziger Veränderungen entsteht ein **„Unterschied zwischen Stille und Bewegung“**.
+Die Überlagerung winziger Veränderungen erzeugt einen „Unterschied zwischen Stille und Bewegung“**.
 
 Seine Partitur stimmt exakt mit den Schnitten und dem Tempo des Filmmaterials überein, als ob das Filmmaterial zu Musik verarbeitet worden wäre.
-Tatsächlich umfasste der Produktionsprozess von Reggio und Glass eine Bearbeitung, bei der die Bilder und Töne miteinander harmonierten.
+Tatsächlich umfasste der Produktionsprozess von Reggio und Glass einen Schnitt, bei dem die Bilder und Töne miteinander in Resonanz standen.
 
 > „Ich habe die Musik geschnitten und das Video komponiert.“
 > ― Godfrey Reggio
@@ -117,7 +117,7 @@ Reggio ist auch eine spirituelle Figur mit Erfahrung in einem Kloster, und der g
 
 ---
 
-## Kapitel 5: Die Korrespondenzbeziehung zwischen Videokomposition und Musik
+## Kapitel 5: Die Beziehung zwischen Videokomposition und Musik
 
 | Szene | Musikmotiv | Bedeutung/Wirkung |
 | ----------- | -------- | ---------- |
@@ -190,7 +190,7 @@ Man kann sagen, dass Reggio und Glass mit der gesamten Trilogie einen „moderne
 
 Am Ende von „Koyanisqatsi“, den Überresten einer Rakete, die nicht gestartet werden konnte,
 Es fällt langsam zu Boden.
-In dem Moment, in dem Glass‘ Musik leise verklingt, ist das Publikum plötzlich in „Stille“ gehüllt.
+In dem Moment, in dem Glass‘ Musik leise verklingt, wird das Publikum plötzlich von „Stille“ umhüllt.
 
 Es ist nicht der Zusammenbruch der Zivilisation, sondern ein leerer Raum für eine Wiedergeburt.
 

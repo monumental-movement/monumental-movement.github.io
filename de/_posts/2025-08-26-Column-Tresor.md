@@ -54,7 +54,7 @@ Dadurch wurde der in den USA geborene futuristische und politische Techno mit de
 
 ### Label „Tresor Records“
 
-Tresor Records wurde 1991 als angeschlossener Club gegründet und fungiert als wichtiges Techno-Label.
+Tresor Records wurde 1991 als Teil eines Clubs gegründet und fungiert als wichtiges Techno-Label.
 
 [Jeff Mills – Waveform Transmissionシリーズ](https://amzn.to/4mJeXE1)
 
@@ -125,7 +125,7 @@ Heute treten dort DJs aus aller Welt auf und er dient weiterhin als Wallfahrtsor
 
 - Ästhetik der „Ortlichkeit“, die Ruinen wiederverwendet
 
-- Die Grundlage dafür, dass Berlin als „Techno-Hauptstadt der Welt“ bezeichnet wird
+- Die Grundlage dafür, dass Berlin „Techno-Hauptstadt der Welt“ genannt wird
 
 <hr>
 
@@ -155,7 +155,7 @@ Heute treten dort DJs aus aller Welt auf und er dient weiterhin als Wallfahrtsor
 
 ### Die Musik des Techno von einer „vorübergehenden Modeerscheinung“ zu einer „universellen Kultur“ erheben
 
-Tresor ist mehr als nur ein Club oder Label, es ist ein kultureller Knotenpunkt, der die Geschichte Berlins, den urbanen Raum nach dem Kalten Krieg und die Zukunft der schwarzen Musik in Detroit verbindet.
+Tresor ist mehr als nur ein Club oder ein Label, es ist ein „kultureller Knotenpunkt“, der die Geschichte Berlins, den Stadtraum nach dem Kalten Krieg und die Zukunft der schwarzen Musik in Detroit verbindet.
 Die aus diesem Gewölbe freigesetzten Klänge hallen immer noch in der Clubkultur auf der ganzen Welt nach und erheben die Musik des Techno von einer „vorübergehenden Modeerscheinung“ zur „universellen Kultur“.
 
 ---

@@ -85,7 +85,7 @@ Es fungiert als **zeitliches Medium**, das Erinnerungen und Emotionen verbindet.
 
 ---
 
-## Kapitel 4: „Klänge der Traurigkeit“ aus kulturhistorischer Perspektive
+## Kapitel 4: „Klänge der Traurigkeit“ aus kulturhistorischer Sicht
 
 Musik der Traurigkeit gab es in jeder Epoche in unterschiedlichen Formen.
 Die folgende Chronologie zeigt den typischen Ablauf.

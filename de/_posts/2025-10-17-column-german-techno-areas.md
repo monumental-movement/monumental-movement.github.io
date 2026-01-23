@@ -55,7 +55,7 @@ Berlins Techno war sowohl eine Bewunderung für Detroit als auch ein Stadterneue
 ### 1-2. Die Geburt des Minimalismus und der „Ästhetik des Bauens“
 
 Basiskanal, Kettenreaktion, Raster-Noton.
-Gestalten Sie den Klang, bauen Sie ihn auf und dominieren Sie den Raum. Der Berliner Minimalismus, der den Reichtum des „Nichts“ in den Blick nimmt, steht im Einklang mit den Ideen von Architektur und Design.
+Gestalten Sie den Klang, bauen Sie ihn auf und dominieren Sie den Raum. Der Berliner Minimalismus, der den Reichtum des „Nichts“ betrachtet, steht im Einklang mit den Ideen von Architektur und Design.
 Für die Akustik sorgen nicht die Wände, sondern die **Luftstruktur**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oC21EzpdnFQ?si=NoFYMbnwAXwUHE68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -66,7 +66,7 @@ Für die Akustik sorgen nicht die Wände, sondern die **Luftstruktur**.
 
 Ende der 1990er Jahre zogen Künstler aus aller Welt in diese Stadt.
 Richie Hawtin, Ellen Allien, Ben Klock.
-Berlin ist keine Nation, sondern eine Republik der Klänge geworden. Eine Stadt, in der Techno ein Beruf, ein Leben und eine Religion ist.
+Berlin ist eher eine Republik der Klänge als eine Nation geworden. Eine Stadt, in der Techno ein Beruf, ein Leben und eine Religion ist.
 Solange der Ton anhält, wird diese Stadt niemals schlafen.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nIcgIo1f3HY?si=IkC0BWGdXy6abSph" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -160,7 +160,7 @@ Für sie ist Musik sowohl politisch als auch alltäglich.
 
 ### 4-3. Bedeutung von „unzentriertem Techno“
 
-Es ist leicht, Berlin zu vergöttern.
+Es ist leicht, Berlin zu vergöttlichen.
 Doch die wahre Vielfalt des deutschen Techno liegt im **Widerstand der Peripherie**.
 Die Langsamkeit der Zeit und das analoge Gefühl der Landschaft.
 Dies spiegelt den zukünftigen Sound von Techno wider.

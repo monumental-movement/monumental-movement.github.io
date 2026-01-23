@@ -48,7 +48,7 @@ Eine ruhige Wohngegend in Pennsylvania Mitte der 1980er Jahre.
 Zwei Jungen schnappen sich eine Kassette und einen 4-Spur-Recorder und beginnen ein seltsames Ritual.
 **Aaron Freeman (Gene Ween)** und **Mickey Melchiondo (Dean Ween)**.
 
-Das von ihnen geschaffene „**Boognish**“ ist mehr als nur ein Logo oder eine Figur.
+Die Existenz von „**Boognish**“, die sie geschaffen haben, ist mehr als nur ein Logo oder eine Figur.
 Als fiktiver Gott des Lachens und des Wahnsinns war er ein Symbol für Weens Musik selbst.
 Die Geräusche, seltsamen Stimmen und ungewöhnlichen Tonartwechsel, die über die Heimaufnahmen verstreut waren, waren alle von Boognish gesegnet.
 
@@ -84,7 +84,7 @@ Es ist, als würde Boognish in der Ausrüstung leben.
 Der frühe Ween-Sound war die Magie des Homerecordings auf **4-Spur-Kassetten-MTR**.
 Rauschen und Verzerrungen bleiben erhalten. Es war kein „Dreck“, es war „Wahrheit“.
 Ihre Homerecordings sind eine Art Lo-Fi-Alchemie.
-„The Pod“ ist eine bizarre Mischung aus krankhaftem Lachen und psychedelischer Struktur.
+„The Pod“ ist eine bizarre Mischung aus morbidem Lachen und psychedelischer Struktur.
 Es löste bei den Zuhörern ein Unbehagen aus und löste gleichzeitig ein süchtig machendes Gefühl der Freude aus.
 
 ### Kontakt zur Underground-Szene
@@ -138,7 +138,7 @@ Der Klang ist sowohl lustig als auch warm genug, um einem die Tränen in die Aug
 
 ## Band-Modus und der Tiefsee-Mythos von „The Mollusk“
 
-> „Der Ozean ist grenzenlos. Wir wollen, dass unsere Musik auch so ist.“
+> „Der Ozean ist grenzenlos. Wir möchten, dass unsere Musik auch so ist.“
 > — *Gene Ween, Interview 1997*
 
 [『The Mollusk』](https://amzn.to/48VBtpT)は、  

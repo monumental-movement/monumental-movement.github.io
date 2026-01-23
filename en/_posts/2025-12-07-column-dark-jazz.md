@@ -125,7 +125,7 @@ Dark jazz sounds like ""quiet, dark jazz,'' but it is actually a combination of 
 - Harmony construction that prioritizes "atmosphere" over functional harmony in jazz
 
 ### ● 3. Acoustic processing
-- Spatial production with reverb
+- Spatial production using reverb
 - electronics sustained sounds
 - Lo-fi ingredients that add a tape-like texture
 
@@ -230,7 +230,7 @@ It continues to expand as "music that creates an atmosphere."
 
 ## 9. Where is dark jazz headed?
 With the spread of AI-generated video, VJ software, and indie games,
-We have entered an era where visuals and sounds are talked about in the same breath.
+We are now in an era where visuals and sounds are talked about in the same breath.
 
 Due to the nature of dark jazz, which is ""slow and has many blank spaces,''
 It is thought that it will continue to have new value by mixing with images.

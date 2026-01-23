@@ -43,7 +43,7 @@ Aus diesem Grund spielte sie eine Rolle als „heilende Musik“ und wurde mit s
 
 ---
 
-**1990er Jahre**: Unter Ausnutzung des „heilenden“ Booms der CD-Ära wurden Zusammenstellungen, die Umwelt- und Naturgeräusche kombinieren, in Massenproduktion hergestellt und in Japan als „heilende Musik“ populär. Bei den Grammy Awards wird es außerdem eine Kategorie „Bestes New-Age-Album“ geben.
+**1990er Jahre**: Unter Ausnutzung des „heilenden“ Booms der CD-Ära wurden Kompilationen, die Umwelt- und Naturgeräusche kombinierten, in Massenproduktion hergestellt und in Japan als „heilende Musik“ populär. Bei den Grammy Awards wird es außerdem eine Kategorie „Bestes New-Age-Album“ geben.
 
 Nach den 2000er Jahren: Es gab eine Zeit, in der es als „spirituelle Hintergrundmusik“ verachtet wurde, aber zusammen mit der Neubewertung von Ambient- und Drone-Musik wurde es neu überdacht und als Höroption auf Streaming-Diensten wie Spotify und YouTube wiederbelebt.
 
@@ -61,7 +61,7 @@ Nach den 2000er Jahren: Es gab eine Zeit, in der es als „spirituelle Hintergru
 
 - **Enigma**: Ein Welthit mit „Sadeness (Part I),“ einer Fusion aus gregorianischem Gesang und Synthesizer.
 
-- **Yanni**: Bekannt wurde sie in den 90er Jahren durch ihre Bühnenauftritte im symphonischen Stil.
+- **Yanni**: Bekanntheit erlangte sie in den 90er Jahren durch ihre Bühnenauftritte im symphonischen Stil.
 
 <hr>
 
@@ -96,4 +96,4 @@ Aktuelle New-Age-Musik ist nicht mehr nur „heilende Musik“ und wird im folge
 New-Age-Musik wurde, um es deutlich auszudrücken, oft als „Hintergrundmusik“ beschrieben. Sein meditativer und nicht aggressiver Klang verkörpert jedoch mittlerweile die „Klangoase“, die die Menschen im Zuge der fortschreitenden Urbanisierung und Informationstechnologie suchen.
 In der Neuzeit wurde es wieder in Genres wie Ambient und Chillout aufgenommen, aber seine Ideale – Harmonie mit der Natur, Selbstbeobachtung und Heilung – sind noch dringlicher geworden.
 
-New Age ist keine Modeerscheinung der Vergangenheit; Es ist eine Musikkultur, die stillschweigend, aber sicher weiterhin eine Rolle im Leben der Menschen spielt.
+New Age ist keine Modeerscheinung der Vergangenheit, sondern eine Musikkultur, die stillschweigend, aber sicher weiterhin eine Rolle im Leben der Menschen spielt.

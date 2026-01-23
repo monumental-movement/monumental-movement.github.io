@@ -19,7 +19,7 @@ title: '[Kolumne] Die Wirkung von Drum & Bass: Urbane Poetik, verwoben von Gesch
 Text: mmr｜Thema: Gedanken zu Drum & Bass/Jungle/UK-Sound
 
 
-Drum & Bass (D&B) ist ein Musikgenre, das Anfang der 1990er Jahre in der Londoner Underground-Clubszene entstand und gleichzeitig den Rhythmus des multikulturellen Stadtlebens verkörpert. Durch die Kombination von schnellen Breakbeats, dröhnenden Basslinien und Reggae/Dub/Hip-Hop/Techno revolutionierten sie die Musikgeschichte Großbritanniens.
+Drum & Bass (D&B) ist ein Musikgenre, das Anfang der 1990er Jahre in der Londoner Underground-Clubszene entstand und gleichzeitig den Rhythmus des multikulturellen Stadtlebens verkörpert. Mit der Kombination von schnellen Breakbeats, dröhnenden Basslinien und Reggae/Dub/Hip-Hop/Techno revolutionierten sie die Musikgeschichte Großbritanniens.
 
 Seine Entwicklung war unglaublich, mit vielen Zweigen, die von Jungle, Liquid Funk und Techstep bis hin zu Neurofunk, Jump-Up und Drumstep reichen.
 
@@ -48,7 +48,7 @@ Die Wurzeln von D&B liegen im Jungle-Genre. Dies war eine chaotische Beatmusik, 
 
 **Gründungszeitraum von Drum & Bass**
 
-Von diesem Zeitpunkt an änderte sich der Name „Jungle“ nach und nach in „D&B“. Dadurch ist der Klang verfeinert und der Subbass und die Produktionstechnik wurden verbessert. Seine Funktionalität als Clubmusik nimmt zu und die Szene wird reifer.
+Von diesem Zeitpunkt an änderte sich der Name „Jungle“ nach und nach in „D&B“. Das bedeutet einen verfeinerten Klang, verbesserte Subbass- und Produktionstechniken. Seine Funktionalität als Clubmusik nimmt zu und die Szene wird reifer.
 
 #### Repräsentative Künstler:
 
@@ -176,7 +176,7 @@ Derzeit gilt D&B als Grundlage der Bassmusik auf der ganzen Welt. Szenen sind vo
 
 **● Ausgewählte zeitgenössische Künstler**
 
-**Noisia (aufgelöst)**: Produktionstechnologie auf Gott-Ebene.
+**Noisia (aufgelöst)**: Produktionsfähigkeiten auf Gott-Niveau.
 
 **Alix Perez**: Eine Klangalchemistin, die von Dub bis Half Step alles kann.
 

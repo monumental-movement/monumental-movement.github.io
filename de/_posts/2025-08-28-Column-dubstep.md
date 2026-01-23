@@ -26,7 +26,7 @@ Text: mmr｜Thema: Die Geburt und der kulturelle Einfluss von Dubstep
 
 Dubstep wurde Ende der 1990er und Anfang der 2000er Jahre in der Underground-Szene im Süden Londons geboren. Es zeichnet sich durch eine Ästhetik aus, die man als „Bass-Überlegenheit“ bezeichnen kann, während es sich an den Trends von UK Garage, 2-Step, Jungle und Drum'n'Bass orientiert.
 
-London war damals ein Schmelztiegel der Einwandererkulturen mit tiefen Wurzeln im Reggae, Dub und der jamaikanischen Soundsystem-Kultur.
+London war zu dieser Zeit ein Schmelztiegel der Einwandererkulturen mit tiefen Wurzeln im Reggae, Dub und der jamaikanischen Soundsystem-Kultur.
 
 Dubstep, das auf diesem Boden geboren wurde, hat eine einzigartige Entwicklung durchgemacht, die auf schwerem Subbass, dunkler und enger Räumlichkeit und unterteilten Rhythmen basiert.
 
@@ -66,7 +66,7 @@ Ab etwa 2008 verbreitete sich Dubstep über den britischen Untergrund hinaus und
 
 ---
 
-- **Break in America**: Ein aggressiveres und auffälligeres „Brostep“ ist erschienen, angeführt von Skrillex.
+- **Pause in Amerika**: Ein aggressiveres und auffälligeres „Brostep“ ist erschienen, angeführt von Skrillex.
 
 
 - **Remix-Kultur**: Dubstep-Elemente wurden in Pop, Rock und Hip-Hop eingebracht und erreichten so ein breites Publikum.

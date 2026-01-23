@@ -50,7 +50,7 @@ color: #fff;
 
 ### 2.1 Early Pioneers
 
-#### Descendents (formed in 1978)
+#### Descendents (formed 1978)
 - 1979 "Milo Goes to College" released
 - Build the foundation of pop and melodic hardcore
 - Features: short songs, catchy choruses, personal lyrics

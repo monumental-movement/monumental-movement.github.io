@@ -20,7 +20,7 @@ Eine bemerkenswerte Sammlung von Downtempo-Werken, die Ihr Herz mit tiefen Groov
 ### Bescheidene Maus / 764-HERO – wann immer Sie es für richtig halten
 <a href="https://jp.mercari.com/item/m99852743815?afid=6142608987"><img src="../assets/images/Modest%20Mouse%20764-HERO%20%E2%80%93%20Whenever%20You%20See%20Fit.webp"></a>
 
-Eine dämliche Indie-EP voller ruhiger Rhythmen
+Eine verrückte Indie-EP voller ruhiger Rhythmen
 
 #### Trackliste
 ```md

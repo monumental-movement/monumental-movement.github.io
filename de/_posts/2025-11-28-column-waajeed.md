@@ -27,7 +27,7 @@ Eine Person im Mittelpunkt ist **Waajeed**.
 Er begann seine Karriere rund um Slum Village und hat mit Platinum Pied Pipers (PPP), Tiny Hearts und seinem eigenen Label **Dirt Tech Reck** die musikalische Ästhetik Detroits weiterhin als „Plattform für die Verbindung zur Zukunft“ fungieren lassen.
 
 Seit Ende der 2010er Jahre baut er ein Werk auf, das direkter dem Fluss des Detroit House/Techno folgt und gleichzeitig den Ausdruck schwarzer Wurzeln in den Vordergrund rückt.
-Insbesondere die „Shango EP“ (2017)** und eines ihrer aktuellen Meisterwerke, die „Mother EP“ (2018)**, werden als Werke positioniert, die die Spiritualität und den Gemeinschaftscharakter der Clubmusik stark zum Ausdruck bringen und gleichzeitig die Traditionen von Detroit übernehmen.
+Insbesondere **„Shango EP“ (2017)** und eines ihrer aktuellen Meisterwerke, **„Mother EP“ (2018)** werden als Werke positioniert, die die Spiritualität und den Gemeinschaftscharakter der Clubmusik stark zum Ausdruck bringen und gleichzeitig die Traditionen von Detroit übernehmen.
 
 
 ---
@@ -61,7 +61,7 @@ In den späten 1990er und frühen 2000er Jahren schuf Detroit einen neuen Standa
 * Direkt beeinflusst von der Kreativität von J Dilla
 
 Was Waajeed hier absorbierte, war mehr als nur das Erstellen von Beats.
-**Die Einstellung besteht darin, „das Erbe der schwarzen Musik als ‚Neuerfindung‘ für die Moderne weiterzuführen.“**
+**Die Einstellung besteht darin, das Erbe der schwarzen Musik als „Neuerfindung“ in der Moderne weiterzuführen**.
 
 ---
 
@@ -75,7 +75,7 @@ Dabei handelt es sich um ein Projekt, das Hip-Hop, R&B, Soul und Beat-Musik orga
 * PPPs Debütalbum
 * Mit Georgia Anne Muldrow, Tiombe Lockhart, Saadiq und mehr
 * Gilt als eines der „radikalsten und wärmsten Werke“ im damaligen Neo-Soul- und Hip-Hop-Kontext.
-* Ein wichtiges Werk, das Detroits Ästhetik der schwarzen Musik international bekannt machte.
+* Ein wichtiges Werk, das Detroits schwarze Musikästhetik international bekannt machte.
 
 In dieser Zeit verwischte Waajeed die Grenzen zwischen Sampling und Live-Musik und entwickelte einen „futuristischen Soul“-Stil, der keine Clubmusik war. **
 
@@ -171,7 +171,7 @@ Anstatt diese zu fragmentieren, werden sie als „musikalisches Gedächtnis der 
 
 ## **② Community-basierte Produktion**
 
-Nach der Dirt Tech Reck-Zeit begann Waajeed, Musik nicht mehr als „persönliche Kunst“, sondern als „persönliche Kunst“ zu betrachten
+Nach der Dirt-Tech-Reck-Zeit begann Waajeed, Musik nicht mehr als „persönliche Kunst“, sondern als „persönliche Kunst“ zu betrachten
 **Es besteht ein starker Wunsch, es als kulturelles Instrument in der örtlichen Gemeinschaft zu nutzen. **
 
 * Mitarbeit in Bildungsprojekten
@@ -217,7 +217,7 @@ Die Technik, Synthesizer, Pads, E-Piano, Live-Drums, Percussion usw. auf natürl
 
 * **PPP『Triple P』(2005)**
 * **PPP『Abundance』(2009)**
-* **『The War LP』 (2012)**
+* **„The War LP“ (2012)**
 * **『Shango EP』(2017)**
 * **『From The Dirt』 (2017)**
 * **„Ten Toes Down EP“ (2018)**

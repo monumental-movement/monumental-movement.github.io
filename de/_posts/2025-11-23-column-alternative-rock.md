@@ -92,7 +92,7 @@ Allerdings stellte er andere Werte dar als kommerzieller Rock und wurde zu einer
 
 Etwa zur gleichen Zeit erzielten Bands aus Seattle wie Pearl Jam, Soundgarden und Alice in Chains nacheinander Erfolge und wurden weltweit als „Vertreter des Grunge/Alternative“ anerkannt.
 
-Allerdings ist es nicht korrekt, über Alternative als Ganzes nur im Hinblick auf Grunge zu sprechen. Etwa zur gleichen Zeit traten Bands mit unterschiedlichen Stilrichtungen wie Pavement, Smashing Pumpkins, Breeders und Belly auf, und der Bereich der alternativen Musik expandierte rasch.
+Allerdings ist es nicht korrekt, über Alternative als Ganzes nur im Hinblick auf Grunge zu sprechen. Etwa zur gleichen Zeit traten Bands mit unterschiedlichen Stilrichtungen wie Pavement, Smashing Pumpkins, Breeders und Belly auf, und der Bereich der alternativen Musik erweiterte sich rasch.
 
 ---
 
@@ -118,7 +118,7 @@ Diese Bewegung verbindet sich mit lyrischen und experimentellen Bands wie Radioh
 Der Aufstieg von Tortoise, Mogwai, Gott sei Dank! Black Emperor und andere haben die Grenzen des Rock überschritten.
 
 Alternative ist kein einzelner Stil mehr;
-**„Ein allgemeiner Begriff für Kreativität, der nicht durch Kommerzialisierung wiederhergestellt wird“**
+**„Ein allgemeiner Begriff für Kreativität, der nicht durch Kommerzialisierung erfasst wird“**
 Es wurde verstanden als.
 
 ---
@@ -135,13 +135,13 @@ In den späten 2000er Jahren wurde die amerikanische Festivalkultur (Coachella, 
 
 ## **Kapitel 6: Alternativen im Streaming-Zeitalter (2010–2020)**
 
-Seit den 2010er Jahren verschwimmen die Genregrenzen des Rock durch die Ausbreitung des Streamings und Alternative erhält vielfältigere Bedeutungen.
+Seit den 2010er Jahren verschwimmen die Genregrenzen des Rock durch die Verbreitung von Streaming und Alternative erhält vielfältigere Bedeutungen.
 
 Mit Tame Impalas psychedelischer Route, Bon Ivers digitaler/Folk-Fusion, Deerhunters Experimenten und dem Aufstieg weiblicher Künstler (St. Vincent, Mitski, Phoebe Bridgers) hat sich der Alternatismus vollständig zu „Altera als ästhetische Haltung“ gewandelt.
 
 Anstelle des „Anti-Kommerzialismus“ der Vergangenheit,
 **„Eine Produktionshaltung, die Unabhängigkeit und Experimentierfreude betont“**
-Dies blieb die Essenz von alterna.
+Dies blieb die Essenz von Alterna.
 
 ---
 
@@ -197,6 +197,6 @@ Dieser Zyklus ist das Symbol von Alterna und seine größte Anziehungskraft in d
 
 Egal wie sich die Musik der Zukunft verändert,
 „Kreativität, die sich mit dem bestehenden Zentrum nicht zufrieden gibt“
-Solange dies der Fall ist, werden auch weiterhin Alternativen entstehen.
+Solange dies der Fall ist, wird es weiterhin Alternativen geben.
 
 ---

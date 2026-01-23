@@ -11,7 +11,7 @@ tags:
 - Art
 - Culture
 - Anime
-title: '[Spalte] Musikalischer Manga-Künstler Keiichi Koike – Visueller Rhythmus,
+title: '[Spalte] Musikähnlicher Manga-Künstler Keiichi Koike – Visueller Rhythmus,
   gespielt durch Linien'
 ---
 
@@ -78,7 +78,7 @@ Präzise Linien und visuelle Rhythmen vermitteln dem Leser ein musikalisches Erl
 Die langfristige Serialisierung vertieft die spirituelle Welt und verfeinert die Komposition und Linienführung.
 
 - **2009**: Band 3 von „ULTRA HEAVEN“ veröffentlicht.
-Die neuen Bücher, die alle vier Jahre erscheinen, sind ein echtes Lesevergnügen.
+Die neuen Bücher, die alle vier Jahre erscheinen, sind eine echte Lektüre.
 
 ---
 
@@ -109,7 +109,7 @@ Obwohl Koike von diesen Einflüssen beeinflusst ist, ist er insofern einzigartig
 
 ---
 
-## Kapitel 6: Vergleich von Arbeitsmotiven und -techniken
+## Kapitel 6: Vergleich von Arbeitsmotiven und Techniken
 
 <div class="mermaid">
 

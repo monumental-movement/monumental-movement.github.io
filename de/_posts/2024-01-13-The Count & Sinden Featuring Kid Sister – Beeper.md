@@ -18,9 +18,9 @@ Sinden & Count Of Monte Cristal ist das Duo von Graeme Sinden und Joshua Harvey.
 
 „Beeper“ mit der in Chicago lebenden amerikanischen Rapperin und Sängerin Melissa Lauren alias Kid Sister ist ein Track, der den britischen Speed-Garage-Stil der späten 90er Jahre verkörpert.
 
-„Beeper“ ist ein Titel, der sich durch seine Freigeistigkeit in der elektronischen Musik auszeichnet und gleichzeitig wie eine großartige Reminiszenz an die Speed-Garage der späten 90er wirkt.
+„Beeper“ ist ein Titel, der sich durch seine Freigeistigkeit in der elektronischen Musik auszeichnet und gleichzeitig wie eine Reminiszenz an die Speed-Garage der späten 90er wirkt.
 
-Als eine der kurzlebigen Mutationen der britischen Garage hat sie immer noch einen starken Einfluss.
+Es mag eine der kurzlebigen Mutationen der britischen Garage sein, aber sie hat immer noch einen starken Einfluss.
 
 #### Trackliste
 ```md

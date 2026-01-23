@@ -17,8 +17,8 @@ title: Cajun-Tanzparty – Das bunte Leben
 
 Cajun Dance Party ist eine fünfköpfige Rockband aus London, England.
 
-Ihr Debütalbum „The Colourful Life“, das 2008 auf dem Label XL Recordings erschien, wurde von Bernard Butler von der britischen Rockband Suede produziert.
-Nach der Veröffentlichung dieses Albums traten sie auf verschiedenen Festivals auf der ganzen Welt auf, darunter Reading und Leeds, Glastonbury, Oxegen und Summersonic.
+Ihr Debütalbum „The Colorful Life“, das 2008 auf dem Label XL Recordings erschien, wurde von Bernard Butler von der britischen Rockband Suede produziert.
+Nach der Veröffentlichung dieses Albums traten sie auf verschiedenen Festivals auf der ganzen Welt auf, darunter Reading und Leeds, Glastonbury, Oxegen und Summer Sonic.
 
 #### Trackliste
 ```md

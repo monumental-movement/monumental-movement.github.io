@@ -23,7 +23,7 @@ Text: mmr | Thema: Eine rebellische Musikbewegung, die Ende der 1970er Jahre in 
 
 1978 trat eine ungewöhnliche Band in der Hafenstadt Bristol im Südwesten Englands auf.
 Ihr Name ist **The Pop Group**.
-Obwohl sie sich selbst Pop nannten, war ihre Musik kein Funk, Punk oder Jazz, sondern ein Experiment, bei dem alle Genres explosionsartig aufeinander prallten.
+Obwohl sie sich selbst Pop nannten, war ihre Musik kein Funk, Punk oder Jazz, sondern ein Experiment, bei dem alle Genres explosionsartig aufeinanderprallten.
 
 Ihr Sound erinnert an die **Arbeitslosigkeit, Klasse, politische Korruption und Entfremdung junger Menschen**, die England in den 1970er Jahren beherrschte.
 Es wurde als „Schrei“ des Klangs selbst sublimiert.
@@ -82,7 +82,7 @@ Diese überschneiden sich als **sozialkritische Gedichte und poetische Schreie**
 > „Wir sind alle Prostituierte“
 > - Es war eine ergreifende Erklärung gegen eine Gesellschaft, die dem Kommerzialismus und dem System ausgeliefert war.
 
-Die **rhythmische Gewalt**, die **Anschwellen des Lärms** und **Mark Stewarts fluchähnlicher Gesang** dieses Songs sind es
+Die **rhythmische Gewalt**, die **Anschwellen des Lärms** und **Mark Stewarts fluchähnlicher Gesang** dieses Liedes sind es
 Man kann sagen, dass es der Prototyp des späteren industriellen/politischen Lärms ist.
 
 ---
@@ -98,7 +98,7 @@ Themen wie „Macht“, „Überwachung“ und „Medienmanipulation“ tauchen 
 Akustisch haben wir uns die damalige Aufnahmetechnik zunutze gemacht,
 **In großem Umfang räumliche Verarbeitung, Hall, Bandmanipulation und Improvisation eingesetzt**.
 Dies wurde später von Adrian Sherwood (On-U Sound) und Lee Perry entwickelt.
-Es überschneidet sich auch mit dem Prototyp des „Political Dub“.
+Es überschneidet sich auch mit dem Prototyp des „politischen Dubs“.
 
 > Sound war nicht nur Unterhaltung, sondern **Lärm zum Widerstand**.
 

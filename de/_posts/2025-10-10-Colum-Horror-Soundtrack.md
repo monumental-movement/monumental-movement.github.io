@@ -20,7 +20,7 @@ title: '[Kolumne] Western-Horrorfilme und ihre Soundtracks seit 2010'
 Text: mmr｜Thema: Von A24 über Blumhouse bis hin zu KI-Horror – wir enthüllen den „Horror des Klangs“, der Horrorfilme seit den 2010er Jahren dominiert, sowohl aus kulturgeschichtlicher als auch aus akustischer Sicht.
 
 In den 2010er Jahren haben sich Horrorfilme zu einer Kunstform entwickelt, die stärker auf Ton als je zuvor achtet.
-Jump-Scares gehören der Vergangenheit an und stattdessen dominieren niedrige Frequenzen, Umgebungslärm und Nachhall die Scares.
+Jump-Scares gehören der Vergangenheit an und stattdessen dominieren niedrige Frequenzen, Umgebungsgeräusche und Nachhall die Scares.
 Dies war auch eine Anwendung der psychoakustischen Entdeckung, dass das Hören die tiefere Psyche direkter beeinflusst als das Sehen.
 
 Horrorfilme dieser Zeit lösten nicht nur Angst aus, sondern „untergruben“ durch den Ton auch die innere Welt des Publikums.
@@ -121,7 +121,7 @@ Ben Frostの[『Dark』シリーズ](https://amzn.to/42B4KCn)や[『Super Dark T
 Mica Leviの[『Under the Skin』（2013）](https://amzn.to/3J4PJC6)は、エイリアン的異物感を**音階の逸脱**として提示した。  
 
 Darüber hinaus werden Horror-Soundtracks als analoge Schallplatten rezirkuliert,
-**Death Waltz** und **Waxwork Records** bewerteten Horrormusik als „kulturelles Erbe des Hörens“ neu.
+**Death Waltz** und **Waxwork Records** bewerteten Horrormusik neu als „kulturelles Erbe des Hörens“.
 Das Phänomen, dass Club-DJs Horror-Soundtracks in ihre Sets integrieren, ist weit verbreitet.
 Es war eine Zeit, in der Filmmusik und Clubkultur auf seltsame Weise miteinander verflochten waren.
 

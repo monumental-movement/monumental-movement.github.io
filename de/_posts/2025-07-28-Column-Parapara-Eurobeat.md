@@ -65,7 +65,7 @@ Diese Struktur passte perfekt zum Parapara-Tanz, der das gleiche Muster wiederho
 
 - Klare Melodie-/Refrain-Struktur → Einfache Erstellung von Tanz-Choreografien
 
-- Dramatische Songentwicklung → Passend zum Höhepunkt des Swings
+- Dramatische Songentwicklung → passend zum Höhepunkt des Swings
 
 
 <hr>
@@ -121,7 +121,7 @@ Auf diese Weise entstand Japans einzigartiger „Eurobeat-Markt“, der nach und
 
 - Ein zweiter Parapara-Boom findet lokal statt, da frühere Choreografievideos und Lieder online geteilt werden.
 
-- Es gibt auch Phänomene, bei denen ausländische Fans wiederentdeckt werden und gelobt werden, als wären sie reimportiert worden.
+- Es gibt auch Phänomene, bei denen ausländische Fans wiederentdecken und gelobt werden, als wären sie reimportiert.
 
 
 <hr>

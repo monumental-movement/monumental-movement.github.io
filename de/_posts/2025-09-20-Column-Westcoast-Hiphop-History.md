@@ -18,7 +18,7 @@ title: '[Kolumne] Überblick über den Westküsten-Hip-Hop – von seinen Urspr�
 
 Text: mmr｜Thema: Von der Geburt des Westküsten-Hip-Hop bis zur Gegenwart, Produzenten, Labels, Ost-West-Konflikt, Meisterwerke, visueller Ausdruck und Modeveränderungen
 
-Der Westküsten-Hip-Hop begann mit Block-Party- und Funk-Beats, und während er sich zur Mainstream-Musik ausweitete, hat er immer auch Underground-Kreativität einbezogen. Dieser Artikel fasst Veränderungen bei wichtigen Persönlichkeiten, Produzenten, Labels, visueller Ästhetik und Mode nach Epoche sowie akademische Referenzen und Diskographie zusammen.
+Der Westküsten-Hip-Hop begann mit Block-Party- und Funk-Beats, und während er sich in die Mainstream-Musik ausweitete, hat er immer auch Underground-Kreativität einbezogen. Dieser Artikel fasst Veränderungen bei wichtigen Persönlichkeiten, Produzenten, Labels, visueller Ästhetik und Mode nach Epoche sowie akademische Referenzen und Diskographie zusammen.
 
 ---
 
@@ -42,7 +42,7 @@ color: #fff;
 ## 1970er-1980er: Ursprünge und frühe Innovationen
 
 * **Repräsentativer Produzent**: Egyptian Lover, früher Dr. Dre (Weltklasse-Wreckin’-Cru-Zeit)
-* **Major Labels**: Priority Records, Ruthless Records (spät)
+* **Major-Labels**: Priority Records, Ruthless Records (spät)
 * **Kultureller Hintergrund**: Es besteht eine starke Verbindung zwischen den Straßen von Los Angeles und der Gang-Gesellschaft (Crips, Bloods) und es wurden Ausdrücke geboren, die den Realismus betonen.
 * **Video/Mode**: Hauptsächlich Low-Budget-MVs. Kangol, Adidas und lokale Sneaker sind die Grundstile.
 
@@ -61,7 +61,7 @@ color: #fff;
 
 * **Repräsentative Produzenten**: Dr. Dre, DJ Quik, Battlecat
 * **Große Labels**: Death Row Records, Priority, Ruthless
-* **Kultureller Hintergrund**: G-Funk war eng mit der Lowrider- und Autokultur verbunden, mit seinem 70er-Jahre-Funk-Sampling und dem dicken Synthesizer-Bass.
+* **Kultureller Kontext**: G-Funk war eng mit der Lowrider- und Autokultur verbunden, mit seinem 70er-Jahre-Funk-Sampling und dem dicken Synthesizer-Bass.
 * **Ost-West-Konflikt**: Der Konflikt zwischen Ost- und Westküste verschärft sich und führt zur Tragödie von 2Pac und The Notorious B.I.G.
 * **Video/Mode**: MVs mit Lowridern, Stränden und den Straßen von South Central werden immer beliebter. Dickies, Chuck Taylor und Bandanas sind ikonisch.
 
@@ -181,7 +181,7 @@ Low-Budget-Musikvideos, einzigartige Modestile und Verbindungen zur Lowrider-Kul
 
 Seit den 2000er Jahren hat die Vielfalt mit dem Erfolg unabhängiger Underground-Acts wie Madlib und The Game zugenommen. Darüber hinaus sind Kendrick Lamar und andere Künstler mit weltweitem Einfluss aufgetreten, die SNS und das Internet voll ausnutzen, und ihre Lieder und visuellen Ausdrucksformen mit bewussten Botschaften bilden einen neuen Trend im Westküsten-Hip-Hop.
 
-Hip-Hop aus dieser Region ist mehr als nur ein Musikgenre, er beeinflusst weiterhin soziale Botschaften, Mode, Film und Kultur im Allgemeinen und inspiriert weiterhin Künstler und Fans auf der ganzen Welt.
+Der Hip-Hop der Region ist mehr als nur ein Musikgenre, er beeinflusst weiterhin soziale Botschaften, Mode, Film und Kultur im Allgemeinen und inspiriert weiterhin Künstler und Fans auf der ganzen Welt.
 
 
 ---

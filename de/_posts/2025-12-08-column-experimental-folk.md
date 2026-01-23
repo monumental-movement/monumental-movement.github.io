@@ -58,7 +58,7 @@ Schottisches Duo. Einführung östlicher Instrumente, eines mikrotonalen Ansatze
 Es soll die Gruppe sein, die den Prototyp von Psych Folk geschaffen hat.
 
 - **Comus** (1969–)
-Sein Debüt „First Utterance“ aus dem Jahr 1971 spielte im Kontext des britischen Folk, aber
+Sein 1971 erschienenes Debüt „First Utterance“* spielte im Kontext des britischen Folk, aber
 ・Gruseliger Gesang
 ・Dissonante Akustikgitarre
 ・Verrücktes Arrangement für Flöte und Violine
@@ -86,14 +86,14 @@ Während dieser Zeit verbreitete sich der amerikanische Experimental-Folk als �
 
 ---
 
-# 3. 1980er-90er Jahre: Einfluss von Industrial/Neofolk und Rolle von Current 93
+# 3. 1980er-90er: Einfluss von Industrial/Neofolk und Rolle von Current 93
 
 In den 1980er und 1990er Jahren entstand aus der britischen Post-Industrial-Szene „Neofolk“ mit akustischen Elementen.
 Einer der zentralen Akteure ist **Current 93 (angeführt von David Tibet)**.
 
 ## Funktionen von Current 93
 - Am Anfang waren die Lärm-/Industrieelemente stark.
-- Seit den 1990er Jahren hat sich der Schwerpunkt auf akustische Instrumente wie Harmonium, Gitarre, Drehleier und Percussion verlagert.
+- Seit den 1990er Jahren verlagert sich der Schwerpunkt auf akustische Instrumente wie Harmonium, Gitarre, Drehleier und Perkussion.
 - Schwerpunkt auf Mystik und poetischer Rezitation
 - Übernahme von Comus- und britischen Folk-Ansätzen
 - Mit Nick Cave, Michael Cashmore, Ben Chasny (Six Organs of Admittance) und vielen mehr
@@ -117,7 +117,7 @@ In den 2000er Jahren entstand vor allem an der Ostküste der USA ein neuer Trend
 - Harmonie traditioneller Folklore von den britischen Inseln
 - Ruhiger und vielschichtiger Gesang
 - Elektro-/Drohnen-Folk-Elemente
-– Zeitgenössische Rekonstruktion des Acid-Folk-Kontexts der 1960er und 1970er Jahre
+- Zeitgenössische Rekonstruktion des Acid-Folk-Kontexts der 1960er und 1970er Jahre
 
 Sie schlugen eine Brücke zwischen Psych Folk und Indie-Rock/Ambient/Drone und spielten eine Schlüsselrolle beim Wiederaufleben des Experimental Folk in den 2000er Jahren.
 
@@ -151,7 +151,7 @@ Es entwickelt sich verzweigt und überlappend.
 
 ## Akustische Eigenschaften
 1. **Hauptsächlich akustisch**
-Gitarre, Banjo, Harfe, Geige, Percussion usw.
+Gitarre, Banjo, Harfe, Geige, Schlagzeug usw.
 2. **Einführung nicht-westlicher Musikinstrumente**
 Sitar, Darbuka, Drehleier
 3. **Drohne**

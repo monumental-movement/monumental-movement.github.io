@@ -64,7 +64,7 @@ Burning Man hat eine lange Beziehung zum Silicon Valley. In den späten 1990er-J
 
 ### Beteiligung und Kontroverse berühmter Personen/Prominenten
 
-Burning Man ist seit langem ein Magnet für Prominente – Unternehmer, Künstler und sogar Politiker (Namen wie Mark Zuckerberg, Elon Musk und Jeff Bezos wurden in den Medien erwähnt). Dies kann zu Spannungen zwischen dem Prinzip der „Dekommodifizierung“ und dem tatsächlichen Verhalten von Teilnehmern mit Reichtum und Einfluss führen.
+Burning Man ist seit langem ein Magnet für Prominente – Unternehmer, Künstler und sogar Politiker (Namen wie Mark Zuckerberg, Elon Musk und Jeff Bezos wurden in den Medien erwähnt). Dies kann zu Spannungen zwischen dem Prinzip der „Dekommodifizierung“ und dem tatsächlichen Verhalten der Teilnehmer mit Reichtum und Einfluss führen.
 
 ---
 
@@ -100,7 +100,7 @@ Seit den 2000er Jahren erregen riesige „Mutantenfahrzeuge“ und Skulpturen au
 
 ### Zeitgenössische Implikationen und Herausforderungen
 
-Während Burning Man nach wie vor ein Zentrum der Kreativität ist, steht es vor Kommerzialisierungs-, Sicherheits- und Umweltproblemen und der Frage: „Für wen ist Burning?“ Die Community verstärkt ihre Nachhaltigkeitsbemühungen (Leave No Trace, Kunststipendien) und teilt ihr Wissen in regionalen Netzwerken.
+Während Burning Man nach wie vor ein Zentrum der Kreativität ist, steht es vor Kommerzialisierungs-, Sicherheits- und Umweltbedenken und der Frage: „Für wen ist Burning?“ Die Community verstärkt ihre Nachhaltigkeitsbemühungen (Leave No Trace, Kunststipendien) und teilt ihr Wissen in regionalen Netzwerken.
 
 ---
 
@@ -171,7 +171,7 @@ Ab etwa dieser Zeit wurden partizipative Erlebnisse, die Feuer und Kunst kombini
 
 1996 war das Jahr, in dem Burning Man seine Transformation von einem „Festival“ zu einer experimentellen Gemeinschaftsstadt beschleunigte.
 
-Die Werte, die „in der Erfahrung selbst Wert finden“, durchdrangen die Teilnehmer und unterstützten später die Bildung großformatiger Kunstwerke und themenbasierter Städte.
+Die Werte, die „in der Erfahrung selbst Wert finden“, durchdrangen die Teilnehmer und unterstützten die Entstehung späterer Großkunstwerke und Themenstädte.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vlZZ6RzrYtk?si=kATDPw7-4LoK8r_b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -265,7 +265,7 @@ Ein Thema, das die widersprüchlichen Achsen von Hoffnung und Angst untersucht. 
 
 Ein Thema, das die Beziehung zwischen Natur und Zivilisation neu überdenkt. Eine Komposition basierend auf dem Motiv des „Grünen Mannes“ (einer anthropomorphen Figur aus Pflanzen und natürlich vorkommenden Pflanzen).
 
-Doch in diesem Jahr sorgte sein brennendes Kunstwerk „Crude Awakening“, das eine riesige Bohrinsel imitierte, für Kontroversen und wurde kritisiert.
+Allerdings sorgte in diesem Jahr sein brennendes Kunstwerk „Crude Awakening“, das eine riesige Bohrinsel imitierte, für Kontroversen und wurde kritisiert.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dyU2Wjrw3Do?si=C0LD82S702ZyNlGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -273,7 +273,7 @@ Doch in diesem Jahr sorgte sein brennendes Kunstwerk „Crude Awakening“, das 
 
 #### 2008: Amerikanischer Traum
 
-Amerikanischer Traum/Frage an die Konsumgesellschaft. Es gibt viel Kunst zu Themen wie Konsumismus, Mythologie und soziale Struktur.
+American Dream/Fragen zur Konsumgesellschaft. Es gibt viel Kunst zu Themen wie Konsumismus, Mythologie und soziale Struktur.
 
 ---
 
@@ -329,7 +329,7 @@ Das Thema des Spiegelkarnevals ist Gerät, Reflexion und Illusion. Mit Spiegelst
 
 #### 2016: Da Vincis Werkstatt
 
-Ein Thema, das Kunst, Technik, Erfindung und Fusion mit Bezug auf die italienische Renaissance erforscht. Die Schnittstelle zwischen Kreativität und Technologie wurde gestärkt.
+Ein Thema, das Kunst, Technik, Erfindung und Fusion mit Bezug zur italienischen Renaissance erforscht. Die Schnittstelle zwischen Kreativität und Technologie wurde gestärkt.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gt0evF196Fs?si=Wam42mTMxQ34x_co" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -403,7 +403,7 @@ Fokussierung auf die nahe Zukunft, zukünftige Erfindungen und Sozialpläne. Kun
 
 Die obige Liste wurde unter Bezugnahme auf die Themenbeschreibungen aus dem offiziellen Jahresarchiv von Burning Man sowie auf mehreren Fan- und Plattenseiten erstellt.
 
-Der Tempel (ein Ort des Gebets) und der Mann selbst werden oft als Reaktion auf das Thema gestaltet, mit Elementen, die vom Thema unabhängig sind, aber jedes Jahr neu konfiguriert werden.
+Der Tempel (ein Ort des Gebets) und der Mann selbst werden oft als Reaktion auf ein Thema gestaltet, mit Elementen, die vom Thema unabhängig sind, aber jedes Jahr neu konfiguriert werden.
 
 Darüber hinaus wird das Thema nicht zwangsläufig auf alle Lager/Werke angewendet, sondern fungiert eher als „suggestiver Rahmen“.
 

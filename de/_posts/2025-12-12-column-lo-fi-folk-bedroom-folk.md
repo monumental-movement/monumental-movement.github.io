@@ -42,7 +42,7 @@ color: #fff;
 ## 1. Ursprung: Die Entstehung des Takuroku-Volks (1970er–1990er Jahre)
 
 ### 1-1. 1970er Jahre: Aufstieg der Homerecording-Kultur
-Endverbraucher-Tonbandgeräte wurden in den späten 1970er Jahren populär, und mit dem Aufkommen preiswerter Kassettendecks verbreitete sich die Kultur des Aufnehmens zu Hause. In der Welt der Volksmusik ist der Prototyp des „home-recorded folk“ entstanden, bei dem Künstler sich selbst beim Spielen und Singen in ihren eigenen Räumen aufzeichnen.
+In den späten 1970er-Jahren erfreuten sich Tonbandgeräte für Privatanwender großer Beliebtheit, und mit dem Aufkommen kostengünstiger Kassettendecks verbreitete sich die Kultur des Aufnehmens zu Hause. In der Welt der Volksmusik ist der Prototyp des „home-recorded folk“ entstanden, bei dem Künstler sich selbst beim Spielen und Singen in ihren eigenen Räumen aufzeichnen.
 
 #### Hauptpraktiken
 - Schließen Sie das dynamische Mikrofon direkt an das Kassettendeck an
@@ -50,10 +50,10 @@ Endverbraucher-Tonbandgeräte wurden in den späten 1970er Jahren populär, und 
 - One-Take-Aufnahme fast ohne Abmischung
 - Klangerzeugung, die die natürlichen Echos des Raumes beibehält
 
-Obwohl die Klangqualität nicht hoch war, wurde es für seine Fähigkeit gelobt, den Abstand zwischen der Singstimme und der Gitarre sowie die Atmosphäre des Raumes zu wahren.
+Obwohl die Klangqualität keineswegs hoch war, wurde es für seine Fähigkeit gelobt, den Abstand zwischen der Singstimme und der Gitarre sowie die Atmosphäre des Raumes zu bewahren.
 
 ### 1-2. 1980er–1990er: Verbindung zwischen Indie-Folk und Takuroku
-In den späten 1980er Jahren kamen kostengünstige 4-Spur-Kassettenrecorder (z. B. TASCAM Portastudio) auf den Markt, und die Qualität des Homerecordings verbesserte sich dramatisch.
+In den späten 1980er-Jahren kamen kostengünstige 4-Spur-Kassettenrecorder (wie TASCAM Portastudio) auf den Markt, und die Qualität des Homerecordings verbesserte sich dramatisch.
 
 Die Aufnahme etablierte sich als Mittel des persönlichen Ausdrucks,
 - Mehrfachaufnahme
@@ -87,7 +87,7 @@ Viele der Aufnahmen werden im Haus des Künstlers gemacht und umfassen:
 Diese Elemente prägten ab den 2000er Jahren das Klangbild des Lo-Fi Folk.
 
 ### 2-2. Produktionsmethode der frühen Werke von Sufjan Stevens
-Sufjan Stevens‘ frühe Werke, insbesondere Seven Swans (2004), und seine früheren und späteren Gesangsaufnahmen zeigen den aktiven Einsatz von Homerecordings.
+Sufjan Stevens‘ frühe Werke, insbesondere Seven Swans (2004), und seine früheren und späteren Gesangsaufnahmen zeigen eine aktive Nutzung von Heimaufnahmen.
 
 ### ● Haupttechniken
 - Spielen Sie viele Instrumente selbst
@@ -114,7 +114,7 @@ Lo-Fi Folk zeichnet sich durch einen Stil aus, der die Einschränkungen des Aufn
 
 ### ● Charakteristischer Klang
 - Rundheit hoher Frequenzen aufgrund der Kassettensättigung
-- Raumlärm aufgrund der ruhigen Umgebung
+- Aufgrund der ruhigen Umgebung gibt es Raumlärm
 - Supernaher Gesangsklang
 - Kleinere Geräusche (Saitengeräusche, Bodengeräusche, Rascheln der Kleidung)
 - Aufnahmelayout mit starkem One-Take-Feeling
@@ -128,7 +128,7 @@ Die Texte von Bedroom Folk sind oft introspektiv und sprechen mit leiser Stimme 
 - Ruhige religiöse und spirituelle Inhalte
 - Ein Blick weg von der Hektik der Stadt
 
-Iron & Wine, ein Trend, den Sufjan Stevens‘ frühe Arbeiten teilen.
+Iron & Wine, ein Trend, der auch in den frühen Arbeiten von Sufjan Stevens vertreten ist.
 
 ---
 
@@ -146,7 +146,7 @@ Obwohl die Klangqualität klarer als zuvor war, wurden Mischungen, die immer noc
 ---
 
 ## 5. 2020er Jahre: Post-Lo-Fi und akustische Rückkehr
-In den 2020er Jahren tendiert Lo-Fi Folk zu einem statischeren Ansatz. Mit minimalistischen Kompositionen, einem Schwerpunkt auf Live-Aufnahmen und der Reduzierung von offensichtlichem Lärm bewegt sich Bedroom Folk auf eine Bühne zu, auf der „Lebensklang-Realismus“ und „hochaufgelöste Intimität“ nebeneinander existieren.
+In den 2020er Jahren tendiert Lo-Fi Folk zu einem statischeren Ansatz. Mit minimalistischen Kompositionen, einem Schwerpunkt auf Live-Aufnahmen und einer Reduzierung offener Geräusche bewegt sich Bedroom Folk auf eine Bühne zu, auf der „Lebensklang-Realismus“ und „hochaufgelöste Intimität“ nebeneinander existieren.
 
 - Niedrigere Preise für hochwertige Kondensatormikrofone
 - Verbesserte DAW-Standard-Plug-Ins
@@ -215,7 +215,7 @@ Diese hatten großen Einfluss auf die moderne Bedroom-Pop- und Gesangskultur.
 
 ## 10. Fazit
 Lo-Fi Folk/Bedroom Folk hat einen neuen Ausdruck der Volksmusik unter Berücksichtigung der Einschränkungen der Aufnahmeausrüstung und des persönlichen Wohnraums geschaffen.
-Iron & Wine und die frühen Werke von Sufjan Stevens sind ikonische Beispiele für den Charme des Homerecordings und beeinflussen auch heute noch viele Künstler.
+Die frühen Werke von Iron & Wine und Sufjan Stevens sind ikonische Beispiele für den Charme des Homerecordings und beeinflussen auch heute noch viele Künstler.
 
 Die im Raum aufgenommenen kleinen Stimmen zeichneten das „Gefühl des Alltags“ als Klang auf, der in der Studioproduktion nicht verfügbar war, und schlugen ein neues Kapitel in der Geschichte der Volksmusik auf.
 

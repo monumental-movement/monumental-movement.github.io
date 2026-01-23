@@ -57,7 +57,7 @@ Aufgenommen in den Virgin Studios in London. Damals sagten sie: „Es war das er
 Die Akustik ist rau und der Mikrofonabstand und die Balance sind instabil. Dennoch wurden die heulende Gitarre und die Verzerrung des Gesangs als „aus Unwissenheit geborene Kreativität“ aufgenommen. Es gibt keinen Produzenten und das Klangbild basiert auf dem DIY-Geist.
 
 „Wir waren weder politisch noch romantisch, wir waren nur verwirrt“, sagt Jon Langford.
-Zu dieser Zeit waren sich die Mekons bewusst, dass sie „handeln“ wollten, anstatt eine Rebellion auszuleben. Deshalb spiegelte ihr Sound den „Zweifel“ wider, den andere Punkbands losgelassen hatten.
+Zu dieser Zeit waren sich die Mekons bewusst, dass sie eher „handeln“ als eine Rebellion auszuleben. Deshalb spiegelte ihr Sound den „Zweifel“ wider, den andere Punkbands losgelassen hatten.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zU9zbbBMxTI?si=lm70X_cOq77g-pIy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -71,7 +71,7 @@ Sie verlassen London und verwandeln sich in eine gesellschaftskritische Gruppe, 
 Die Mitgliederzahl ist nicht festgelegt, Freunde aus der Studienzeit kommen und gehen und nehmen manchmal mit bis zu 10 Leuten auf. Sein Charakter als Kunstkollektiv wird immer stärker.
 
 1989年の代表作[『The Mekons Rock ’n’ Roll』](https://amzn.to/4nIWLMc)は、その総括だった。  
-Eine einzigartige räumliche Komposition mit doppeltem Tracking der Gitarre, übermäßigem Hall und unterdrückten Bassfrequenzen. Dabei handelte es sich um Spielereien, die die „formale Schönheit des Rock“ absichtlich verfälschen sollten.
+Eine einzigartige räumliche Komposition mit doppeltem Tracking der Gitarre, übermäßigem Hall und unterdrückten tiefen Frequenzen des Basses. Dabei handelte es sich um Spielereien, die die „formale Schönheit des Rock“ absichtlich verfälschen sollten.
 Mit diesem Album präsentierten sie das Paradoxon: „Ist Rock nicht das System selbst?“
 
 > „Wir wissen, dass Rock’n’Roll gefährlich ist. Er kann Länder zerstören.“
@@ -100,7 +100,7 @@ Dieses Album wurde später als Vorläufer des „Alt-Country“-Genres von Küns
 In den 1990er Jahren zogen die Mekons nach Chicago.
 Jon Langford vertieft seine Zusammenarbeit mit amerikanischen Musikern und entwickelt weitere Projekte wie die Waco Brothers und Pine Valley Cosmonauts.
 Sally Timms wird mit lokalen Dichtern zusammenarbeiten und Tom Greenhalgh wird an der Videoproduktion beteiligt sein.
-Während dieser Zeit existierte Mekons als „treibende Künstlergemeinschaft“, die über Nationalität und Genre hinausging.
+Während dieser Zeit existierten die Mekons als „treibende Künstlergemeinschaft“, die über Nationalität und Genre hinausging.
 
 Es hieß: „Die Musik von Mekons klingt, als ob sie nirgendwo hingehöre.“
 Wie Einwanderer bewegten sie sich zwischen musikalischen Kontexten und schufen dort vorübergehende Häuser.
@@ -135,7 +135,7 @@ Jon Langford war selbst als Maler tätig und zeichnete ein „antiromantisches B
 
 Während die analoge Aufnahme beibehalten wird, erzeugt ihr Klang absichtlich eine „Rauigkeit“.
 Langford sagte: „Lärm liegt uns im Blut“, und bei der Aufnahme zog er es vor, das Noise Gate zu entfernen und die Umgebungsgeräusche beizubehalten.
-Dieses „vernarbte Geräusch“ war der Realismus, an den Mekons glaubte.
+Dieser „vernarbte Klang“ war der Realismus, an den Mekons glaubte.
 
 ---
 
@@ -143,10 +143,10 @@ Dieses „vernarbte Geräusch“ war der Realismus, an den Mekons glaubte.
 > **„Selbst wenn wir uns auflösen, wird es nicht enden. Denn es wird nicht enden, es ist Mekons.“**
 
 Die Mekons lösten sich mehrmals auf und formierten sich neu.
-Allerdings ist es nicht das Ende, sondern eher ein Zyklus wie die Jahreszeiten.
+Allerdings handelt es sich dabei nicht um das Ende, sondern eher um einen Zyklus wie die Jahreszeiten.
 2019年の[『Deserted』](https://amzn.to/4nHdkYD)は、メンバーが砂漠に集まり数日で録音したセッション盤。  
 Man spürt die „stille Wut“ dieser Menschen, die ihre besten Jahre erreicht haben.
-Acoustic guitar, electronic drone, and distant wind sounds. Es klingt wie ein „Testament der Menschlichkeit“.
+Akustische Gitarre, elektronisches Dröhnen und entfernte Windgeräusche. Es klingt wie ein „Testament der Menschlichkeit“.
 
 > „Wir sind immer noch hier, nicht weil wir sein sollten, sondern weil wir es können.“
 > — *Jon Langford, 2019*
@@ -169,7 +169,7 @@ Deshalb klingeln sie immer noch.
 
 ---
 
-## Die Hauptdiskographie der Mekons
+## Die Mekons-Hauptdiskographie
 
 | Erscheinungsjahr | Titel | Notizen | Link |
 |:--:|:--|:--|:--|

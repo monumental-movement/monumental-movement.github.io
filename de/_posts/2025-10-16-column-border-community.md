@@ -50,7 +50,7 @@ color: #fff;
 Im Jahr 2001 machte Holden mit dem auf Silver Planet veröffentlichten Song „A Break in the Clouds“ auf sich aufmerksam.
 Ihr Sound sprengte damals die Grenzen des Progressive House. Melancholisch und doch architektonisch. Die schwebenden Melodien machten Clubabende zu einem poetischen Erlebnis.
 
-Beginnend mit diesem Song entwickelt er einen Sound, der weder Trance noch House ist.
+Beginnend mit diesem Song schafft er einen Klangraum, der weder Trance noch House ist.
 Dieser Fluss kristallisierte sich später in der Form der Grenzgemeinschaft heraus.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8VFZ3hvWW_M?si=-7fU7hCMw43mOeW7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -62,7 +62,7 @@ Dieser Fluss kristallisierte sich später in der Form der Grenzgemeinschaft hera
 Im Jahr 2003 gründete Holden sein eigenes Label Border Community.
 Im Gegensatz zur kommerziellen Clubmusik plädierte es für einen DIY-Geist, bei dem Künstler ihre eigenen Werke präsentieren, entwerfen und darüber sprechen.
 
-Nathan Fakes erste Veröffentlichung, „The Sky Was Pink“, markierte einen Wendepunkt in der Geschichte der Clubmusik.
+Nathan Fakes erste Veröffentlichung „The Sky Was Pink“ markierte einen Wendepunkt in der Geschichte der Clubmusik.
 Die emotionalen und introspektiven Tracks beeinflussten nachfolgende Post-Club-Generationen wie Four Tet und Caribou.
 
 Auch das Artwork und das Release-Design waren einzigartig. Illustrationen mit weichen Pinselstrichen, minimalistisches Design auf Weißbasis.
@@ -121,7 +121,7 @@ Border Community hat sich vielleicht vom Mainstream zurückgezogen, aber sein Ei
 „Grenze“ ist keine Grenze zwischen Genres, sondern eine Grenze zwischen Ideen.
 Für Holden war Musik eine Antwort auf die Gesellschaft und eine Frage an die Welt.
 
-Mit zunehmender Kommerzialisierung der Clubkultur wurde die Border Community zu einer Basis für die Wiedererlangung von „Emotionen“ und „Autonomie“.
+Mit der Kommerzialisierung der Clubkultur wurde die Border Community zu einer Basis für die Wiedererlangung von „Emotionen“ und „Autonomie“.
 Klang ist keine Nostalgie, sondern die Rekonstruktion der Erinnerung.
 Es hat die Kraft, Zuhörer dazu zu bringen, ihre eigenen Grenzen zu überdenken.
 

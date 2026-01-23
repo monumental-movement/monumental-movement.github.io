@@ -58,9 +58,9 @@ So wie Metal „eine Kunst ist, die Chaos in Ordnung verwandelt“, schwingt Tak
 
 ## Kapitel 2: Aufbau der Stimme – Die Politik der metallischen Stimme
 
-Für Politiker ist ihre „Stimme“ ein Instrument, das ihre Ideen verkörpert. Takaichis Lautäußerung ist bei Politikerinnen besonders leise und stabil. Akustisch basiert es auf dem Mittel-Tief-Bereich (ca. 170-180 Hz) mit geringen Tonhöhenschwankungen, was an die „Steel Control“ bei Metal-Gesang erinnert.
+Für Politiker ist ihre „Stimme“ ein Instrument, das ihre Ideen verkörpert. Takaichis Lautäußerung ist bei Politikerinnen besonders leise und stabil. Akustisch basiert es auf dem Mittel-Tief-Bereich (ca. 170–180 Hz) mit geringen Tonhöhenschwankungen, was an die „Steel Control“ bei Metal-Gesang erinnert.
 
-„Stimme ist die Kunst, Emotionen zum Ausdruck zu bringen, ohne ihnen freien Lauf zu lassen.“ Wie diese Worte symbolisieren, lebt sie Politik als „eiserne Struktur“.
+„Stimme ist die Kunst, Emotionen zum Ausdruck zu bringen, ohne ihnen freien Lauf zu lassen.“ Diese Worte symbolisieren, dass sie Politik als „eiserne Struktur“ lebt.
 
 ---
 
@@ -115,7 +115,7 @@ flowchart TD
 
 </div>
 
-Innerhalb dieser Struktur spielt Takaichi mit „dem Intellekt, der die Leidenschaft kontrolliert“.
+Innerhalb dieser Struktur spielt Herr Takaichi mit „dem Intellekt, der die Leidenschaft kontrolliert“.
 
 ---
 
@@ -173,11 +173,11 @@ flowchart LR
 | ----------------- | ------------ | ---- | -------------------------- | ---------------------------------------- |
 | **Black Sabbath** | **Black Sabbath** | 1970 | Ein Werk, das als Geburtsstunde des ersten Heavy Metal der Welt gilt. Die Verdunkelung des Blaus und die Kirchenglocke SE sind symbolisch.            |
 | | **Paranoid** | 1970 | Ein Meisterwerk, das den Prototyp des Metalls begründete. Geschwindigkeit, Geselligkeit und Ernsthaftigkeit existieren nebeneinander.    |
-| | **Meister der Realität** | 1971 | Entwicklung tiefer Bässe mit Drop-D-Stimmung. Der Vater des Doom Metal.      |
+| | **Meister der Realität** | 1971 | Entwicklung eines schweren Basses mit Drop-D-Stimmung. Der Vater des Doom Metal.      |
 | **Tiefes Lila** | **Deep Purple in Rock** | 1970 | Ein Meisterwerk, das den Grundstein für Hard Rock legte. Eine Mischung aus klassischer kompositorischer Schönheit und explosiver Kraft.                    |
 | | **Feuerball** | 1971 | Aggressiver und experimenteller. Es hat einen starken Tempowechsel und ein Blues-Feeling.                  |
 | | **Maschinenkopf** | 1972 | Ein Maß an Perfektion, das in der Rockgeschichte erhalten bleibt. Das goldene Verhältnis von Riff und Groove.          |
-| **Judas Priester** | **Traurige Flügel des Schicksals** | 1976 | Es entsteht eine Metal-Ästhetik aus Melancholie und Lyrik. Der Prototyp von Twin Leads.                           |
+| **Judas Priester** | **Traurige Flügel des Schicksals** | 1976 | Es entsteht eine Metal-Ästhetik der Melancholie und Lyrik. Der Prototyp von Twin Lead.                           |
 | | **Sünde nach Sünde** | 1977 | Großes Debütwerk. Produziert von Roger Glover (Deep Purple). Eine dramatische Entwicklung. |
 | | **Gefleckte Klasse** | 1978 | Die Anfänge des Speed ​​Metal. Präzises und kaltes Klangbild.          |
 

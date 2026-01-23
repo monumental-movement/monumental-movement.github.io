@@ -49,7 +49,7 @@ Anjunadeep und All Day I Dream wandten sich der melodischen/organischen Musik zu
 
 ### Musikalische Features
 
-**Harmonie**: Dur-7./9., Halteakkord, viel Spannung. Sogar in einer Moll-Tonart gibt es eine Nuance von „Traurigkeit≠Tragik“.
+**Harmonie**: Dur-7./9., Halteakkord, viel Spannung. Sogar in einer Moll-Tonart gibt es eine Nuance von „Traurigkeit≠tragisch“.
 
 **Beat**: Der Kick hat einen runden und tiefen Nachgeschmack. Die Hi-Hat ist ein Shuffle zu einem leichten Swing. Die Texturen 909/707/727 und 808 sind Standard.
 
@@ -204,4 +204,4 @@ Anjunadeep und All Day I Dream wandten sich der melodischen/organischen Musik zu
 
 ### Musik, die man im Laufe der Zeit genießen kann, nicht in einem Moment
 
-Deep House ist Musik, die man im Laufe der Zeit genießen kann. Anstelle eines einzelnen, auffälligen Hits gibt es eine „bequeme Fortsetzung“, die Publikum und Zuhörer miteinander synchron hält. Wenn Sie alles verstehen, von historischen Ursprüngen bis hin zu aktuellen Substilen und den Geheimnissen der Produktion und des DJings, können Sie Ihre Auswahl und Wertschätzung erheblich vertiefen.
+Deep House ist Musik, die man im Laufe der Zeit genießen kann. Anstelle eines einzelnen, auffälligen Hits gibt es eine „bequeme Fortsetzung“, die Publikum und Zuhörer miteinander synchron hält. Wenn Sie alles verstehen, von historischen Ursprüngen bis hin zu aktuellen Substilen und den Geheimnissen der Produktion und des DJings, können Sie Ihre Auswahl und Ihr Verständnis erheblich vertiefen.

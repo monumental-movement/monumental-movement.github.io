@@ -19,7 +19,7 @@ title: Pick up New Age works
 ### Schawkie Roth – Dance Of The Tao
 <a href="https://jp.mercari.com/item/m91290785378?afid=6142608987"><img src="../assets/images/Schawkie%20Roth%20%E2%80%93%20Dance%20Of%20The%20Tao.webp"></a>
 
-Characteristics: Schawkie Roth is a composer specializing in healing, meditation, relaxation music and acoustic jazz, and is considered one of the pioneers of New Age spiritual music.
+Features: Schawkie Roth is a composer specializing in healing, meditation, relaxation music and acoustic jazz, and is considered one of the pioneers of New Age spiritual music.
 
 
 Charm: A fusion of Eastern philosophy and Western music, this piece is perfect for meditation and relaxation.
@@ -168,7 +168,7 @@ Charm: Spiritual music that incorporates jazz elements, this work makes you feel
 <br>
 
 
-### Tony O'Connor – Hidden Forest
+### Tony O"Connor – Hidden Forest
 <a href="https://jp.mercari.com/item/m61126062656?afid=6142608987"><img src="../assets/images/Tony%20OConnor%20%E2%80%93%20Hidden%20Forest.webp"></a>
 
 Features: A 1996 double LP by Australian ambient/relaxation music creator Tony O'Connor.

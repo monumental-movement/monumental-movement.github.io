@@ -18,7 +18,7 @@ title: '[Kolumne] Stille Musik: Den Akt des Zuhörens neu entdecken'
 
 Text: mmr | Thema: Nach John Cages „4 Minuten und 33 Sekunden“ wurde Stille zu einem weiteren Aspekt der Musik. Was ist Zuhören? Betrachtet man die Rekonstruktion der Beziehung zwischen Mensch und Welt, wie sie durch Musik ohne Ton erzählt wird
 
-Als John Cages „4:33“ 1952 in New York uraufgeführt wurde, war das Publikum ratlos und aufgeregt.
+Als John Cages „4'33“ 1952 in New York uraufgeführt wurde, war das Publikum ratlos und aufgeregt.
 Der Pianist spielt keine einzige Note. Der Veranstaltungsort war jedoch voller Geräusche: Husten, knarrende Stühle und der Wind draußen.
 In diesem Moment wurde klar, dass Musik nicht nur aus komponierten Klängen besteht, sondern aus dem Akt des Zuhörens selbst.
 
@@ -51,7 +51,7 @@ Cage und die Komponisten der Musique Concrète ermutigten uns jedoch, das Wieder
 Zuhören ist ein Akt der Erneuerung der Beziehung zur Welt.
 Es ist eine Haltung, „die Klänge zu akzeptieren, die bereits existieren“, anstatt sich für einen Klang zu entscheiden.
 
-Diese Haltung wurde später auf Brian Enos Ambient-Musik übertragen.
+Diese Einstellung wurde später auf Brian Enos Ambient-Musik übertragen.
 er spricht. „Ambient-Musik ist Musik, die mit der Umgebung existiert, auch wenn man ihr nicht bewusst zuhört.“
 
 ---
@@ -135,7 +135,7 @@ graph TD
 </div>
 
 Wie dieses Diagramm zeigt, ist „Zuhören“ kein passiver Akt, sondern ein kreativer Akt.
-Stille fungiert nicht als „Raum“ zum Musizieren, sondern als Raum des Nachdenkens und der Empathie.
+Stille fungiert nicht als Raum zum Musizieren, sondern als Raum des Nachdenkens und der Empathie.
 
 ---
 
@@ -157,7 +157,7 @@ Musik verbindet uns wieder mit der Welt.
 | ----- | -------------------- | ------------- |
 | 1952 | „4:33“ Premiere | John Cage |
 | 1967 | „Soundwalk“-Konzept vorgeschlagen | Max Newhouse |
-| 1977 | „Tuning of the World“ Verlag | R. Marie Schaefer |
+| 1977 | „Tuning of the World“ Verlag | R. Marie Schäfer |
 | 1982 | Der Aufstieg der Ambient-Musik | Brian Eno |
 | 2000er | Ausbau der Field-Recording-Kultur | Chris Watson, Ryuichi Sakamoto |
 | 2020er | „Stille“ mit KI-generierter Musik neu bewerten | Klangkünstler aus verschiedenen Ländern |

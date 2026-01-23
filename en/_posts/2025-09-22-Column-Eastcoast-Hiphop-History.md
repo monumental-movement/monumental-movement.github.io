@@ -89,7 +89,7 @@ color: #fff;
 
 ## 2010s-present: Diversification and global influence
 
-* **Representative producers**: Metro Boomin (southern, but also influenced by NY), Hit-Boy, Statik Selektah
+* **Representative Producers**: Metro Boomin (Southern leaning, but also influenced by NY), Hit-Boy, Statik Selektah
 * **Major labels**: Top Dawg (also linked to NY), Griselda Records
 * **Cultural context**: Parallel to Kendrick Lamar"s influence, in New York, Griselda (Westside Gunn, Conway, Benny the Butcher) revived the "90s feel. The number of artists originating from the Internet is also increasing.
 * **Video/Fashion**: A fusion of high brands and streetwear (Supreme, Off-White, Balenciaga). Documentary music videos are on the rise.
@@ -152,7 +152,7 @@ color: #fff;
 
 ## summary
 
-East Coast hip-hop originated from the block parties of the Bronx, achieved commercial success in the '80s, and reached its golden age in the '90s. It is characterized by lyrics that combine social criticism and street realism, as well as detailed sampling beats, and has influenced video, fashion, film, and even literary expression.
+East Coast hip-hop originated from the block parties of the Bronx, achieved commercial success in the '80s, and reached its golden age in the '90s. Characterized by lyrics that combine social criticism and street realism, as well as precise sampling beats, they influenced video, fashion, film, and even literary expression.
 Since the 2000s, there have been major successes such as Jay-Z and 50 Cent, and conscious artists such as Mos Def and Talib Kweli. Since the 2010s, New York has once again attracted attention due to the revival of Griselda and Nas, and the hard and lyrical hip hop typical of the East Coast has been inherited.
 
 ---

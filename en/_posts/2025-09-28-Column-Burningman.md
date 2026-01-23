@@ -256,7 +256,7 @@ With the theme of xinxing/spiritual world, many works have appeared that deal wi
 
 #### 2006: Hope & Fear
 
-A theme that explores the conflicting axes of hope and fear. There were structures and media art that hinted at the fragility of human civilization and future orientation.
+希望と恐怖という対立軸を探索するテーマ。 There were structures and media art that hinted at the fragility of human civilization and future orientation.
 
 ---
 
@@ -392,7 +392,7 @@ The theme is unknown and unpredictability, and a challenging composition is deve
 
 #### 2025: Tomorrow Today
 
-Focusing on the near future, future inventions, and social concepts. Art that embodies "Tomorrow into Today", prototyping, and design that induces a futuristic dialogue space.
+Focusing on the near future, future inventions, and social plans. Art that embodies "Tomorrow into Today", prototyping, and design that induces a futuristic dialogue space.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5yrIwJo-RZ0?si=PF7ug6sEAIFeT2i1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

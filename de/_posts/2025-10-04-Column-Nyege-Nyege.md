@@ -349,5 +349,5 @@ Nachfolgend finden Sie einige empfohlene YouTube-Links zu Nyege Nyege:
 ### <a id="conclusion"></a>Zusammenfassung
 
 Nyege Nyege ist eine wichtige Musikgruppe, die „Outsider-Musik“ verbreitet, die traditionelle afrikanische Musik und moderne elektronische Musik in der Welt verbindet. Das Label Nyege Nyege Tapes steht an vorderster Front bei der Förderung der Fusion traditioneller afrikanischer Musik und elektronischer Musik, darunter Shingeli, Akolitronics, Electro Maloya usw.
-Wir sind gleichzeitig dafür verantwortlich, die lokale Kultur zu bewahren, Stadt- und Jugendkultur zum Ausdruck zu bringen und sie international zu verbreiten, und haben uns eine einzigartige Position in der Weltmusikszene erarbeitet. Ihre Aktivitäten erinnern uns daran, wie wichtig nicht nur Musik, sondern auch kulturelle Vielfalt und soziale Integration sind. Wir werden ihre Musik und Aktivitäten weiterhin im Auge behalten.
+Wir haben eine einzigartige Position in der Weltmusikszene geschaffen, indem wir gleichzeitig die lokale Kultur bewahren, Stadt- und Jugendkultur zum Ausdruck bringen und sie international verbreiten. Ihre Aktivitäten erinnern uns daran, wie wichtig nicht nur Musik, sondern auch kulturelle Vielfalt und soziale Integration sind. Wir werden ihre Musik und Aktivitäten weiterhin im Auge behalten.
 

@@ -65,7 +65,7 @@ Die von Eddie Prévost und Keith Rowe demonstrierte „Befreiung nichtinstrument
 
 ### 2-3. Herkunft ③: Noise/alternativer elektronischer Sound der 1980er-1990er Jahre
 Japanischer Lärm (Merzbow, Incapacitants usw.) enthüllte die „Materialität des Klangs“ durch die ultimative Suche nach akustischen Materialien.
-Andererseits führten Otomo Yoshihide und Sachiko M minimale und raffinierte elektronische Klänge (Sinuswellen) in ihre Improvisationen ein und schufen so die Grundlagen von EAI: „Reduzierung der Anzahl von Klängen“ und „Betonung des Raums“.
+Andererseits improvisierten Otomo Yoshihide und Sachiko M minimale und anspruchsvolle elektronische Klänge (Sinuswellen) und legten die Grundlagen von EAI fest: „Reduzierung der Anzahl von Klängen“ und „Betonung des Raums“.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-N2JpUSOGQw?si=2iITe93bkSmd8sOW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -117,7 +117,7 @@ Toral ist einzigartig unter EAI in seiner Gründlichkeit beim „Handspielen ele
 # 3-3. Otomo Yoshihide / Sachiko M (Japan)
 Die asiatischen Wurzeln von EAI entstanden in einem Bereich, der sich mit der „Onkyoha“-Bewegung der späten 1990er Jahre überschnitt.
 
-- Sachiko M etabliert extremen Minimalismus mithilfe des internen Testtons (Sinuswelle) des Samplers.
+- Sachiko M stellt extremen Minimalismus mithilfe des internen Testtons (Sinuswelle) des Samplers her.
 - Otomo Yoshihide entwickelt akustische Improvisationen mit Plattenspielern, Gitarren und Samplern
 - Filament (Otomo x Sachiko M) ist eine wichtige Einheit im EAI-Kontext
 

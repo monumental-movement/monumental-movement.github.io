@@ -141,7 +141,7 @@ Es ist zu einem **kulturellen Phänomen** geworden.
 
 # **Kapitel 4: Dritte Welle (1998-2005) – Globale Ausbreitung und Mutation**
 
-Während das Klangbild der zweiten Welle geerbt wurde,
+Während das Klangbild der zweiten Welle geerbt wird,
 Seit 1998 schreiten Internationalisierung und Diversifizierung rasant voran.
 
 ## ■ Haupttrends
@@ -178,7 +178,7 @@ Es hat sich zu „konzeptueller Musik entwickelt, die aus den Reaktionen von Kul
 ---
 
 
-## **Kapitel 6: Abschnitt mit einzelnen Banddetails (Gedanken, Musikalität und sozialer Einfluss großer Bands)**
+## **Kapitel 6: Abschnitt mit Details zu einzelnen Bands (Gedanken, Musikalität und sozialer Einfluss großer Bands)**
 
 Hier werden wir systematisch nach Epoche, Region und Trend in die Bands eintauchen, die zum Eckpfeiler der Black-Metal-Geschichte geworden sind.
 
@@ -234,7 +234,7 @@ Hauptwerke: *Bathory* (1984), *The Return…* (1985), *Under the Sign of the Bla
 Hauptwerke: *Burzum* (1992), *Det Som Engang Var* (1993), *Hvis lyset tar oss* (1994)**
 
 * Die Musik zielt auf gründlichen Minimalismus ab,
-**Ein Stil, der darauf abzielt, durch Wiederholung eine tranceartige Natur und den Zusammenbruch des Zeitgefühls zu erzeugen**.
+**Ein Stil, der darauf abzielt, durch Wiederholung eine tranceartige Natur und den Zusammenbruch des eigenen Zeitgefühls zu erzeugen**.
 * Weiterhin ein starkes Statement in der norwegischen Kultur- und Religionsdebatte Anfang der 1990er Jahre setzend,
 Aufgrund der übermäßigen Berichterstattung in den Medien wurde das „gefährliche Image“ des Black Metal etabliert.
 * Nach dem Vorfall (Mord an Euronymous) und der Verhaftung wurde Burzums Tonquelle stärker auf die Umgebung ausgerichtet.
@@ -448,7 +448,7 @@ Nachfolgend finden Sie eine **faktenbasierte Zeitleiste**. Vorfälle und Arbeite
 
 ### **2011–2020 (Globalisierung und Crossover)**
 
-* Auf dem Weg zu einer Ära, in der regionale Besonderheiten einbezogen werden, hauptsächlich in Japan, Osteuropa, Nordamerika und Südamerika
+* Auf dem Weg zu einer Ära, in der regionale Besonderheiten berücksichtigt werden, vor allem in Japan, Osteuropa, Nordamerika und Südamerika
 * Der Blackgaze-Typ (schwarzes Gebrüll + Shoegaze) verbreitet sich in Europa und Amerika
 * Wiederaufleben des rohen Black Metal (insbesondere in Verbindung mit der Bandcamp-Kultur)
 
@@ -480,7 +480,7 @@ Kälte, Dunkelheit, Spiritualität, Rebellion, Einsamkeit, Feier, Ritual.
 All dies existiert gleichzeitig im Black Metal.
 * Black-Metal-Musik entstand als Spiegelbild des Klimas, der Kultur und der Geschichte einer bestimmten Region.
 * Seit den 1990er Jahren hat die **Multipolarisierung (von Norwegen als Zentrum auf den Rest der Welt)** Fortschritte gemacht.
-* Vorkommnisse, Ideen und soziale Hintergründe hatten einen starken Einfluss auf die Genrebewertung und Bildbildung,
+* Vorfälle, Ideen und soziale Hintergründe hatten einen starken Einfluss auf die Genrebewertung und Bildbildung,
 **Im Hinblick auf die Musikgeschichte liegt das Wesentliche in den Veränderungen in der Arbeitsstruktur und der Aufnahmeästhetik jeder Band**.
 * Seit den 2000er Jahren wird es in **Avantgarde, Naturverehrung, DSBM und Post-BM** unterteilt.
 Der Ausbau dauert bis in die 2020er Jahre.

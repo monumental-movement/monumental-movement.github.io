@@ -82,7 +82,7 @@ Diese „freie Wiederholung“ ist eine Idee, die später zur elektronischen Mus
 
 Steve Reichs nächstes Werk, Piano Phase (1967), kontrollierte die „Diskrepanzen“ in der Wiederholung streng.
 Indem zwei Pianisten dieselbe Phrase spielen und einer das Tempo leicht beschleunigt,
-Das Klangmuster verschiebt sich allmählich. Diese „Phasenverschiebung“ ist was
+Das Klangmuster verschiebt sich allmählich. Diese „Phasenverschiebung“ ist es
 Es sah die Ästhetik von Loop-Strukturen im späteren Techno voraus.
 
 ---
@@ -136,7 +136,7 @@ Brian Enos Musik für Flughäfen (1978)
 Es ist nicht nur der Vater der Ambient-Musik, sondern auch der Ursprung des „statischen Minimalismus“.
 Die zufällige Überlappung von Looptapes erweiterte die auditive Zeitlinie.
 
-Später, in Radioheads „Everything in Its Right Place“ (2000),
+Später, in Radioheads „Alles an seinem richtigen Platz“ (2000),
 Sich wiederholende Synthesizer und Gesangsloops verleihen der Popmusik ein Reichsches Phasengefühl.
 
 **Vergleichstabelle: Wiederholungsstruktur in Eno und Radiohead**
@@ -166,7 +166,7 @@ Der akustische Raum wurde als „digitaler Minimalismus“ präsentiert.
 
 | Künstler | Hauptwerke | Funktionen |
 |------|------------|------|
-| Isao Tomita | 《Mondlicht》《Planet》 | Elektronische Klassik/akustische Verfeinerung |
+| Isao Tomita | 《Mondlicht》《Planet》 | Elektronische klassische Musik/akustische Verfeinerung |
 | Ryoji Ikeda | 《Dataplex》《Testmuster》 | Mathematischer/Frequenz-Minimalismus |
 | Alva Noto + Ryuichi Sakamoto | 《Vrion》《Summvs》 | Fusion von Elektroakustik und Klavier |
 | Rei Harakami | 《Red Curb》《lust》 | Warme Wiederholung der Lo-Fi-Elektronik |
@@ -201,7 +201,7 @@ Beim Minimalismus geht es nicht nur um „weniger“.
 Es ist die Kunst, innerhalb der Grenzen die größte Freiheit zu entdecken.
 Diese Linie setzt sich von Terry Rileys „In C“ bis zu Ryoji Ikedas „Dataplex“ fort.
 Während sich die Form von analog zu digital, vom Körper zu Daten verändert,
-Auch heute noch experimentiert er weiterhin „mit Klang und Zeit“.
+Auch heute noch „experimentiert er mit Klang und Zeit“.
 
 ---
 

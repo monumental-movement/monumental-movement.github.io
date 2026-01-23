@@ -43,7 +43,7 @@ color: #fff;
 
 **Historical background**: House/techno, which had sprouted in Chicago and Detroit, entered New York clubs in the early 1990s. It was a time when club culture was about to become commercialized, and an underground spirit of experimentation remained.
 
-**What happened**: Founded in 1989 by Mark Finkelstein and Gladys Pizarro. Since our founding, we have focused on DJ-oriented 12-inch music, producing sound that connects directly to the dance floor and is popular at local clubs.
+**What happened**: Founded in 1989 by Mark Finkelstein and Gladys Pizarro. Since its founding, the company has focused on DJ-oriented 12-inch music, producing sound that connects directly to the dance floor and is popular at local clubs.
 
 **Representative masterpiece (early)**
 - Roger Sanchez — *Luv Dancin'* (1990, under the name Underground Solution)
@@ -172,7 +172,7 @@ The brand/catalog is still active and is used as an "asset" for reissues, compil
 
 | No | Artist | Track | Comments |
 |---|---|---|---|
-| 1 | Kings Of Tomorrow | Finally (2014 Remaster) | Traditional deep house remastered, smooth sound quality. |
+| 1 | Kings Of Tomorrow | Finally (2014 Remaster) | Traditional deep house remastered with smooth sound quality. |
 | 2 | Dennis Ferrer | Maniac 3000 | Features a modern and sophisticated house beat. |
 | 3 | Quentin Harris | My Joy (Re-edit) | Deep house re-edited for clubs. |
 | 4 | Barbara Tucker | Think (About It) 2015 Mix | A reinterpretation of vocal house, full of emotion. |

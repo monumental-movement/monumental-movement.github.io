@@ -18,7 +18,7 @@ Obi, Charlie Halls „Dreamtech“ ist eine sehr seltene Platte. A1 und B1 sind 
 
 Percussion und bewegende Synthesizer-Linien runden dieses hervorragende After Hours-Juwel ab. Es ist wie etwas, das man in den Chillout-Räumen vieler Nachtclubs der 90er Jahre hören würde.
 
-B2 ist ein völlig magisches und hypnotisches Tribal-Broken-Beat-Deep-House-Meisterwerk. Diese Platte verwendet für die damalige Zeit typische Samples und Vocals und hat eine wunderbare mystische Stimmung.
+B2 ist ein völlig magisches und hypnotisches Tribal-Broken-Beat-Deep-House-Meisterwerk. Diese Platte verwendet für die Epoche typische Samples und Vocals und hat eine wunderbar mystische Stimmung.
 
 Diese Schallplatte ist wirklich ein Traum für jeden Liebhaber, und so etwas findet man bei den 12-Zoll-Schallplatten, die Sie suchen, nur selten. Dies ist definitiv eine Platte, die mehr Aufmerksamkeit verdient.
 

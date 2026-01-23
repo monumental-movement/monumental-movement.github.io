@@ -23,7 +23,7 @@ Text: mmr｜Thema: Über die Entstehung und Entwicklung des experimentellen elek
 
 Experimenteller elektronischer Pop/Art Pop ist ein Musikfeld, das durch die Einführung elektronischer Akustiktechnologie, experimenteller Kompositionsmethoden und zeitgenössischen künstlerischen Denkens unter Beibehaltung des Formats der Popmusik etabliert wurde. Das Genre wird tendenziell eher durch Produktionseinstellungen und strukturelle Ausrichtung definiert als durch einen gemeinsamen klaren Musikstil.
 
-Der Begriff Art Pop wurde als Oberbegriff verwendet, um die Schnittstelle von Popmusik mit Kunst und Denken zu bezeichnen. Andererseits bezieht sich Experimental Electronic Pop oft auf die Praxis des strukturellen Experimentierens im Rahmen von Pop, mit einem Schwerpunkt auf elektronischer Akustik. Die beiden haben sich überlappend entwickelt und werden seit den 2010er Jahren zunehmend als nahezu dasselbe Ausdrucksfeld anerkannt.
+Der Begriff Art Pop wurde als Oberbegriff verwendet, um die Schnittstelle von Popmusik mit Kunst und Denken zu bezeichnen. Andererseits bezieht sich Experimental Electronic Pop oft auf die Praxis des strukturellen Experimentierens im Rahmen von Pop, mit einem Schwerpunkt auf elektronischer Akustik. Die beiden haben sich überlappend entwickelt und werden seit den 2010er Jahren zunehmend als nahezu dasselbe Ausdrucksfeld erkannt.
 
 ---
 
@@ -155,7 +155,7 @@ Körperdarstellungen weisen nicht auf feste Identitäten hin, sondern werden als
 
 ---
 
-## 14. Gemeinsame Strukturmerkmale beider
+## 14. Strukturelle Merkmale, die beiden gemeinsam sind
 
 FKA Twigs und Arca haben gemeinsam, dass sie so konzipiert sind, dass Ton und Video nicht getrennt werden können. Beide basieren auf der Prämisse eines umfassenden Präsentationsformats und nicht auf der Grundlage eines einzelnen Musikstücks.
 

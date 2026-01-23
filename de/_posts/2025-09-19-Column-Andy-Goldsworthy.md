@@ -53,7 +53,7 @@ color: #fff;
 ### Goldsworthys repräsentative Werke/Projekte
 
 - **Schneeballserie**: Ein riesiger Schneeball wird in einer Stadt aufgestellt und zeigt, wie er mit der Zeit schmilzt.
-- **Eiszapfenstern**: Ein sternförmiges Stück Eis, das bei Sonnenaufgang schmilzt.
+- **Eiszapfenstern**: Ein Stück Eis, das sich zu einem Stern zusammenfügt und bei Sonnenaufgang schmilzt.
 - **Stone River (1997)**: Eine gewundene Steinmauer, die an der Stanford University in den Vereinigten Staaten errichtet wurde.
 - **Rowan Leaves and Hole**: Ein Werk, bei dem rote Blätter kreisförmig angeordnet sind und auf der Wasseroberfläche schwimmen.
 - **Storm King Wall (1997–98)**: Eine lange schlangenförmige Steinmauer im Storm King Art Center in New York.
@@ -95,7 +95,7 @@ color: #fff;
 
 ---
 
-### Strukturierte Playlist nach dem „Fluss der Zeit“
+### Playlist nach dem „Fluss der Zeit“ geordnet
 
 #### Morgen
 

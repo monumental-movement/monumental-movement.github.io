@@ -23,7 +23,7 @@ Text: mmr｜Thema: Über diesen Trend, basierend auf Fakten wie Kompositionstech
 
 Die klassische Musik hat sich seit der zweiten Hälfte des 20. Jahrhunderts durch Experimente mit Atonalität, Aleatorismus und elektronischer Musik in verschiedene Richtungen verzweigt. Im 21. Jahrhundert hat ein Trend, der „Tonalität“, „Wiederholung“, „Ruhe“ und „das Hörerlebnis selbst“ betont, erneut internationale Aufmerksamkeit erlangt. Dies ist der Bereich, der allgemein als zeitgenössische Klassik oder Neominimalismus bezeichnet wird.
 
-Dieser Trend ist insofern einzigartig, als er sich sowohl in traditionellen Institutionen für klassische Musik als auch in unabhängigen Musikproduktionsumgebungen herausgebildet hat. Künstler wie Max Richter, Nils Frahm und Hauschka haben alle einen klassischen Hintergrund, integrieren aber aktiv Aufnahmetechniken, Postproduktion, Improvisation und elektronische Instrumente.
+Dieser Trend ist insofern einzigartig, als er sowohl in traditionellen klassischen Musikinstitutionen als auch in unabhängigen Musikproduktionsumgebungen entstanden ist. Künstler wie Max Richter, Nils Frahm und Hauschka haben alle einen klassischen Hintergrund, integrieren aber aktiv Aufnahmetechniken, Postproduktion, Improvisation und elektronische Instrumente.
 
 
 ---
@@ -120,7 +120,7 @@ Nils Frahm ist ein deutscher Komponist und Pianist, der schon in jungen Jahren e
 
 ### Studio und Instrumente
 
-Frahm nutzt sein eigenes Studio als Zentrum seiner Kreationen und kombiniert mehrere Klaviere, Synthesizer und Bandmaschinen. Seine Arbeit zeichnet sich durch eine Produktionsmethode aus, die Improvisation und Schnitt kombiniert.
+Frahm nutzt sein eigenes Studio als Zentrum seiner Kreationen und kombiniert mehrere Klaviere, Synthesizer und Tonbandgeräte. Seine Arbeit zeichnet sich durch eine Produktionsmethode aus, die Improvisation und Schnitt kombiniert.
 
 > „Er unterscheidet sich von traditionellen klassischen Komponisten dadurch, dass Aufführung, Komposition und Aufnahme nicht getrennt sind.“
 
@@ -138,7 +138,7 @@ Die Technik selbst hat ihren Ursprung in der experimentellen Musik der Mitte des
 
 ### Komposition und Improvisation
 
-Seine Werke beinhalten sowohl streng notierte Muster als auch improvisatorische Elemente. Während ein bestimmtes rhythmisches Muster wiederholt wird, bestimmen winzige Veränderungen, die durch die körperliche Manipulation des Interpreten verursacht werden, die Musik.
+Seine Werke beinhalten sowohl streng notierte Muster als auch improvisatorische Elemente. Wenn ein bestimmtes rhythmisches Muster wiederholt wird, bestimmen winzige Veränderungen, die durch die körperliche Manipulation des Interpreten verursacht werden, die Musik.
 
 ### Verbindung mit anderen Bereichen
 
@@ -225,7 +225,7 @@ flowchart LR
 
 ## Abschluss
 
-Der zeitgenössische Klassik/Neo-Minimalismus wurde von mehreren Faktoren geprägt, darunter der Geschichte seit dem Minimalismus, Fortschritten in der Aufnahmetechnologie und Veränderungen in der Hörumgebung. Zu seinen repräsentativen Vertretern zählen Max Richter, Nils Frahm und Hauschka.
+Der zeitgenössische Klassik/Neo-Minimalismus wurde von mehreren Faktoren geprägt, darunter der Geschichte seit dem Minimalismus, Fortschritten in der Aufnahmetechnologie und Veränderungen in der Hörumgebung. Max Richter, Nils Frahm und Hauschka zählen zu seinen repräsentativen Vertretern.
 
 > „Moderner Klassik/Neo-Minimalismus ist eine Praxis, die die Musikproduktionsumgebung des 21. Jahrhunderts widerspiegelt.“
 

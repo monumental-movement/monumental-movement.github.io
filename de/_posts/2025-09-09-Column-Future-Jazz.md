@@ -221,7 +221,7 @@ Im Zeitalter von Streaming und KI wurde Future Jazz neu bewertet und mit modular
 | 6 | Kokoroko | Abusey-Kreuzung | Melancholisch und schön. |
 | 7 | Gleitkommazahlen | LesAlpx | Electronica und Jazz-Fusion. |
 | 8 | Tom Misch & Yussef Dayes | Was für eine Musik | Moderne Interpretationen von Pop und Jazz. |
-| 9 | Makaya McCraven | Herbst in New York | Eine Fusion aus Improvisation und Bearbeitung. |
+| 9 | Makaya McCraven | Herbst in New York | Eine Fusion aus Improvisation und Schnitt. |
 | 10 | Immanuel Wilkins | Ferguson – eine amerikanische Tradition | Eine Verschmelzung von Geselligkeit und musikalischem Ausdruck. |
 
 ---

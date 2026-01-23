@@ -15,20 +15,20 @@ title: '[Kolumne] Das goldene Zeitalter des britischen Techno'
 
 ## Das goldene Zeitalter des britischen Techno: eine Aufzeichnung der Sounds und Kämpfe der 1990er Jahre
 
-Text: mmr｜Thema: UK Techno Culture
+Text: mmr｜Thema: Britische Technokultur
 
 
 <hr>
 
 ### Techno, eine weitere britische Revolution
-In den 1990er Jahren vertiefte sich Techno und veränderte sich in Klang und Geist, wie ein in Detroit geborenes Kind, das im Vereinigten Königreich aufwächst. Großbritannien nahm diese Musik nicht nur auf, sondern weitete sie vom Untergrund auf Clubs, Raves und Veranstaltungsorte für Klangexperimente aus. In diesem Artikel werden wir das Gesamtbild des britischen Techno der 90er Jahre aus der Perspektive von Kultur, Musik, Menschen und Labels behandeln.
+In den 1990er Jahren vertiefte sich Techno und mutierte in Klang und Geist, wie ein in Detroit geborenes Kind, das im Vereinigten Königreich aufwächst. Großbritannien nahm diese Musik nicht nur auf, sondern weitete sie vom Untergrund auf Clubs, Raves und Veranstaltungsorte für Klangexperimente aus. In diesem Artikel werden wir das Gesamtbild des britischen Techno der 90er Jahre aus der Perspektive von Kultur, Musik, Menschen und Labels behandeln.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-n8QdTg_z0?si=NwaTDszY4gy47_3y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
 ### Fusion aus Rave-Kultur und Underground
-Nach dem „Second Summer of Love“ im Jahr 1988 wurde Großbritannien von einer Explosion aus Acid House und Rave erfasst. In der Folgezeit entstanden Anfang der 90er Jahre verschiedene Untervarianten von Hardcore, Breakbeat und Techno im Untergrund.
+Nach dem „Second Summer of Love“ im Jahr 1988 wurde Großbritannien von einer Explosion aus Acid House und Rave erfasst. In der Folgezeit entstanden Anfang der 90er Jahre verschiedene Unterarten von Hardcore, Breakbeat und Techno im Untergrund.
 
 Andererseits führten das Ende der Thatcher-Regierung und die zunehmende wirtschaftliche Ungleichheit dazu, dass sich die Unzufriedenheit und Rebellion junger Menschen in der Musik niederschlug. Britischer Techno war nicht nur Tanzmusik, sondern auch eine soziale Bewegung, bewaffnet mit Soundsystemen und illegalen Raves.
 

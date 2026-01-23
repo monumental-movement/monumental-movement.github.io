@@ -13,7 +13,7 @@ title: DJ Krush FeatACO, Twigy –Tragicomic
 ---
 
 
-DJ Krush ist ein hoch angesehener Track-Produzent in den Genres japanischer Hip-Hop-, Trip-Hop- und Downtempo-Musik und bekannt für seinen einzigartigen Sound und seine Beat-Making-Fähigkeiten.
+DJ Krush ist ein hoch angesehener Track-Produzent der japanischen Hip-Hop-, Trip-Hop- und Downtempo-Musikgenres, der für seinen einzigartigen Sound und seine Beat-Making-Fähigkeiten bekannt ist.
 
 ACO ist einer der Sänger, die sowohl in Japan als auch im Ausland großes Lob für seinen gefühlvollen und emotionalen Gesangsstil erhalten haben, und Twigy hat durch seine Rap-Fähigkeiten und seine Karriere Aufmerksamkeit erregt.
 

@@ -260,7 +260,7 @@ Veröffentlichung: 1992
 
 Format: CD
 
-Features: Fusion aus Volksmusik und elektronischen Klängen, Grammy-Nominierung, inklusive Signature-Song „Sweet Lullaby“.
+Features: Fusion aus Volksmusik und elektronischen Klängen, Grammy-Nominierung, Signature-Song „Sweet Lullaby“ inklusive
 
 #### Trackliste
 ```md

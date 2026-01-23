@@ -17,9 +17,9 @@ title: '[Column] Make your equipment softer—The impact of ReBirthRB‑338'
 ## Introduction: Why ReBirth was "shocking"
 
 
-Text: mmr｜Theme: Re-thinking ReBirth not only as ""innovation as a tool" but also as an opportunity for ""changes in culture/expression/industrial structure", from prehistory to development background, technical characteristics, spread to music culture, industrial meaning, turning point and end, and today's legacy.
+Text: mmr｜Theme: Re-thinking ReBirth not only as "innovation as a tool" but also as an opportunity for "changes in culture/expression/industrial structure", from prehistory to development background, technical characteristics, spread to music culture, industrial meaning, turning point and end, and today's legacy.
 
-In the late 1990s, a bright change was coming to the frontier of electronic music production. While analog/equipment-based production using hardware synthesizers and drum machines was the norm, one piece of software shook up that ""normal''. That is the ReBirthRB‑338 by Propellerhead Software, a software/music production tool manufacturer from Sweden.
+In the late 1990s, a bright change was coming to the frontier of electronic music production. While analog/equipment-based production using hardware synthesizers and drum machines was the norm, one piece of software shook up that ""normal''. That is ReBirthRB‑338 by Propellerhead Software, a software/music production tool manufacturer from Sweden.
 What this software offered was the possibility of ""making those legendary equipment (Roland TB‑303, Roland TR‑808, Roland TR‑909) usable on your personal computer.''
 ReBirth bypassed the hurdles of obtaining hardware, the cost of maintaining it, and the difficulty of transporting and operating it, and introduced a new wave of ""democratization through software," which is why it was an event that could be called a ""shock".
 
@@ -41,7 +41,7 @@ color: #fff;
 
 
 ## Prehistory: Context of the analog equipment/hardware synth era
-Looking back at the electronic music/club music scene, from the 1980s to the mid-1990s, many famous instruments occupied important positions as "equipment." Among these, the Roland TB-303 (bassline synth) and TR-808/TR-909 (drum machines) were the catalyst that changed the tone, performance style, and culture.
+Looking back at the electronic music/club music scene, from the 1980s to the mid-1990s, many famous instruments occupied important positions as "equipment." Among them, the Roland TB-303 (bassline synth) and TR-808/TR-909 (drum machines) were the catalysts that changed the tone, performance style, and culture.
 
 ### Birth of TB‑303 and "acid"
 The TB‑303 was a bass line synthesizer released around 1981. Although it was originally designed as a ""equipment to imitate bass playing,'' it failed to fulfill its purpose in the early years and was a failure in the market, and it began to be distributed second-hand at a low price.
@@ -84,7 +84,7 @@ Let's sort out some of the characteristics that ReBirth had.
 
 ### "Democratization" of user experience and operability
 What these features meant was that ""even if you didn't own the equipment, you could obtain, program, and transmit sounds similar to the equipment," or in other words, ""the entrance to music production has expanded."
-At the time, acquiring, maintaining, and operating the TB-303 and TR-808/909 was a major hurdle for many creators and producers. However, with ReBirth, you can generate sounds that sound like that with just a computer environment, and operability such as pattern switching and sequencer configuration has become much easier.
+At the time, acquiring, maintaining, and operating the TB-303 and TR-808/909 was a major hurdle for many creators and producers. However, with ReBirth, you can generate "similar" sounds as long as you have a computer environment, and operability such as "pattern switching" and "sequencer configuration" has become much easier.
 For example, one user said (via Reddit):
 > "The 303s are definitely software synths… The 808 and 909 were definitely samples and not synth emulations. I spent a ridiculous amount of time using Rebirth and many, many of its mods."
 
@@ -116,7 +116,7 @@ In this way, ReBirth brought about changes in the production scene through the t
 
 ---
 
-## Changes in industry, software, and ecosystems (ReWire, VST, plug-ins)
+## Changes in industry/software/ecosystem (ReWire/VST/pluginization)
 The introduction of ReBirth was not just the success of a single software synthesizer, but also prompted a structural change in the music production environment itself.
 
 ### "Modularization" and coordination of production tools
@@ -150,9 +150,9 @@ After ReBirth's support ended, its ideas and functionality were inherited by oth
 On the other hand, several years after the mobile version was released, it was also removed from the App Store due to IP rights/trademark issues. This incident once again demonstrated that software-based equipment touches the "boundary of intellectual property."
 
 ### "The End" and its reading
-Although the software called ReBirth did not continue to be expanded in active use, its "death" itself has multiple layers of meaning.
+Although the ReBirth software did not continue to expand in its current form, its "death" itself has multiple layers of meaning.
 - One reason is that the trend from equipment to software has reached a certain level of maturity and has moved to the "next stage."
-- In addition, intellectual property, emulation, ownership and access issues have become more apparent than expected.
+- In addition, problems with intellectual property, emulation, ownership, and access have become more apparent than expected.
 - And as personal production/software-centered environments have become commonplace, the theme of "reproducing hardware equipment with software" has begun to be reconsidered.
 Therefore, it is meaningful to view the "end" of ReBirth not as simply the end of the service, but as a "point of change" in the production environment.
 
@@ -167,7 +167,7 @@ By looking back at ReBirth, we can once again remember the idea that "anyone can
 
 ### From "ownership" to "access", from hardware to software
 Before ReBirth, it can be said that the model of production equipment = ownership was strong. Having the equipment was also a status, and it was also the first condition for the production environment. ReBirth has rewritten this into the form of "software purchase" and created a background where "ownership" itself becomes relativized.
-Today, subscription/cloud sharing/rental music tools have become commonplace. The door that ReBirth opened can be seen as a "starting point" in this flow.
+Today, subscription/cloud sharing/rental music tools are commonplace. The door that ReBirth opened can be seen as a "starting point" in this flow.
 
 ### Re-evaluating the "taste/habit" of hardware equipment
 On the other hand, as software advances, things tend to be lost, such as the physical quirks, noise, distortion, and operational feel inherent in hardware equipment. In fact, ReBirth's emulation has been criticized for not being able to fully reproduce the distortions and quirks of the real TB‑303.

@@ -133,7 +133,7 @@ Low frequency repetition and reverberation created an acoustic experience that e
 
 Brian Eno's Music for Airports (1978)
 It is not only the father of ambient music, but also the origin of ""static minimalism.''
-The accidental overlapping of loop tapes expanded the auditory timeline.
+The accidental overlapping of loop tapes expanded the aural timeline.
 
 Later, in Radiohead's ""Everything in Its Right Place'' (2000),
 Repeating synths and vocal loops bring a Reichian sense of phase to pop music.
@@ -152,20 +152,20 @@ Repeating synths and vocal loops bring a Reichian sense of phase to pop music.
 ### Isao Tomita: Symphony in the electrons
 
 Isao Tomita used a synthesizer to reconstruct classical music in ""electronic repetition.''
-In Moonlight (1974), subtle modulation fluctuations shape the sonic space.
+In "Moonlight" (1974), subtle modulation fluctuations shape the sonic space.
 This sense of "electronic persistence" also applies to later techno-ambient music.
 
 ### Ryoji Ikeda: Minimal data and frequency
 
 Ryoji Ikeda's works transform pure frequencies, numbers, and data into music.
-"dataplex" (2005) repeats and divides ultra-high frequency sounds that test the limits of human perception.
+""dataplex'' (2005) repeats and divides ultra-high frequency sounds that test the limits of human perception.
 The acoustic space was presented as "digital minimalism".
 
 ### List of Japanese minimalist artists
 
 | Artist | Main works | Features |
 |------|------------|------|
-| Isao Tomita | 《Moonlight》《Planet》 | Electronic classical music/acoustic refinement |
+| Isao Tomita | 《Moonlight》《Planet》 | Electronic classical/acoustic refinement |
 | Ryoji Ikeda | 《dataplex》《test pattern》 | Mathematical/frequency minimalism |
 | Alva Noto + Ryuichi Sakamoto | 《Vrion》《Summvs》 | Fusion of electro acoustics and piano |
 | Rei Harakami | 《Red Curb》《lust》 | Warm repetition of Lo-fi electronics |

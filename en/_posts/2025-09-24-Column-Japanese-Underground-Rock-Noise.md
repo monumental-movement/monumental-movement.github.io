@@ -20,7 +20,7 @@ title: '[Column] The trajectory of Japanese underground rock and noise from the 
 Text: mmr｜Theme: Global attention on the Japanese underground music scene from the 1990s to the 2000s
 
 The 1990s and 2000s were the heyday of **noise music** and also served as a crossroads with alternative rock and avant-garde punk.
-In particular, artists such as Keiji Haino, Merzbow, Hijikaido, Melt-Banana, Boredoms, and Violent Onsen Geisha destroyed existing musical genres and opened up new areas of expression.
+In particular, artists such as Keiji Haino, Merzbow, Hijikadan, Melt-Banana, Boredoms, and Violent Onsen Geisha destroyed existing musical genres and opened up new areas of expression.
 
 ---
 
@@ -53,7 +53,7 @@ This period also saw the rise of indie labels, appearances at international fest
 - **Merzbau**: While moving from analog equipment to laptop noise, it reflects animal rights and vegetarianism.
 - **Firefighter**: An existence that blurs the line between "noise band" and "performance art."
 - **Boredoms**: Fusing psychedelic and noise, influencing the American alternative scene.
-- **Melt-Banana**: "Nano Core" combines the speed of hardcore and the texture of noise.
+- **Melt-Banana**: "Nano Core" combines hardcore speed and noise texture.
 
 ---
 

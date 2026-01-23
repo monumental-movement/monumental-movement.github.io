@@ -104,7 +104,7 @@ Die Bay Area ist die Heimat von Indie-Festivals wie Noise Pop und improvisatoris
 
 ### Empfohlene Alben nach Generation
 
-Im Folgenden sind die im Haupttext erwähnten Hauptwerke aufgeführt.
+Im Folgenden sind die Hauptwerke aufgeführt, die im Haupttext erwähnt werden.
 
 | Künstler / Werk | Jahr | Notizen | Link |
 | ------ | ---- | --------------- | ----------- | --------------- |

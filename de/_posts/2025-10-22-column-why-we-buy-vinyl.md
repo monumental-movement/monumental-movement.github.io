@@ -21,7 +21,7 @@ Text: mmr | Thema: Warum geben Menschen die digitale Perfektion auf und kehren z
 
 Spotify, Apple Music, YouTube Music.
 Wir befinden uns jetzt in einer Zeit, in der Klänge aus aller Welt mit nur einem Fingertipp verfügbar sind.
-Doch inmitten all dieser **perfekten Bequemlichkeit** kommt es zu einer seltsamen Gegenreaktion.
+Doch trotz all dieser **perfekten Bequemlichkeit** kommt es zu einer seltsamen Gegenreaktion.
 
 --Es ist die Wiederbelebung der Rekorde.
 
@@ -148,7 +148,7 @@ Aber genau darum geht es bei einem „lebendigen Klang“.
 
 Psychologisch gesehen neigen Menschen eher dazu, „an Unvollkommenheiten festzuhalten“ als an Perfektion.
 Akzeptiere diese Unvollkommenheit als Teil von dir.
-Das ist der Reiz des „Ghost of Analog“.
+Das ist der Reiz daran als „Geist des Analogen“.
 
 --Platten sind keine Grabsteine ​​der Musik.
 Vielmehr ist **das menschliche Gedächtnis selbst ein rotierendes Gerät**.

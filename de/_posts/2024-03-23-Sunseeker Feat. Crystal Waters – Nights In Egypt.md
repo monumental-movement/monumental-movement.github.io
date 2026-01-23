@@ -20,7 +20,7 @@ Sie ist die Tochter des Jazzmusikers Junior Waters und Großnichte von Ethel Wat
 
 Sie wuchs schon in jungen Jahren umgeben von Musik auf, lernte unter dem Einfluss ihres Vaters den Jazz kennen und begann Ende der 1980er Jahre in der House-Musikszene zu arbeiten, wo sie 1991 mit der Single „Gypsy Woman (She's Homeless)“ einen Welthit landete.
 
-Seitdem hat er viele Hits wie „100 % Pure Love“ und „Destination Calabria“ veröffentlicht und sich zu einem der führenden Künstler der House-Musikwelt entwickelt.
+Seitdem hat er viele Hits wie „100 % Pure Love“ und „Destination Calabria“ veröffentlicht und ist zu einem der führenden Künstler der House-Musikwelt geworden.
 
 Bekannt für seinen kraftvollen Gesang und seine eingängigen Melodien, zeigt er auch bei Live-Shows eine überwältigende Leistung. Derzeit betreibt er sein eigenes Label IAH Records und trägt zur Wiederbelebung der Musikszene bei, indem er aufstrebende Künstler entdeckt und fördert.
 

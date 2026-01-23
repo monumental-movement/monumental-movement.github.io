@@ -15,7 +15,7 @@ title: Hiroshima – Dritte Generation
 
 „Third Generation“ ist ein Album von Hiroshima, einer amerikanischen Jazz-Fusion-Band. Dieses Album wurde 1983 veröffentlicht. Hiroshima ist für seinen einzigartigen Musikstil bekannt, der traditionelle japanische Musik mit Elementen aus Jazz, R&B und Pop verbindet.
 
-„Third Generation“ ist Hiroshimas drittes Album und ein Werk, das ihre musikalische Reife und Entwicklung zeigt. Das Album enthält traditionelle Instrumente wie japanische Instrumente, Tsugaru Shamisen und Kalimba und entwickelt gleichzeitig einen modernen Jazz-Fusion-Sound.
+„Third Generation“ ist Hiroshimas drittes Album und ein Werk, das ihre musikalische Reife und Entwicklung zeigt. Das Album integriert traditionelle Instrumente wie japanische Instrumente, Tsugaru Shamisen und Kalimba und entwickelt gleichzeitig einen modernen Jazz-Fusion-Sound.
 
 Das Album enthält die Songs „One Wish“, „Thousand Cranes“ und „Sandalwood“. Diese Lieder kombinierten Hiroshimas unverwechselbaren Klang und die melodische Liedstruktur, um ein angenehmes Musikerlebnis für das Publikum zu schaffen.
 

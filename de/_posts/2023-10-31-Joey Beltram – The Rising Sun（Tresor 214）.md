@@ -13,7 +13,7 @@ title: Joey Beltram – The Rising Sun (Tresor 214)
 ---
 
 
-Joey Beltrams CD wurde 2004 auf Tresor veröffentlicht.
+Tresor（トレゾア）から2004年にリリースされたJoey Beltram（ジョイ・ベルトラム）のCD。
 
 #### Trackliste
 ```md

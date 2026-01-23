@@ -79,7 +79,7 @@ King Tubby, Lee Perry, Errol Thompson und andere nutzten den Mischtisch wie ein 
 
 ### ▪ Lautsprecher-Bass-Philosophie
 
-Der „Bass“ des Soundsystems hatte einen religiösen Oberton.
+Der „Bass“ des Soundsystems hatte einen religiösen Klang.
 Verbunden mit dem Rastafari-Geist drücken sie ihre Sicht auf das Universum als „tiefer Ton = Erde“ und „hoher Ton = Himmel“ aus.
 Diese Idee wurde später von **UK Dub** (Jah Shaka, Aba Shanti-I) und **Soundclash Culture** übernommen.
 
@@ -156,7 +156,7 @@ Wichtigste japanische Spieler:
 ### ▪ DIY-Geist und modernes Erbe
 
 In den letzten Jahren kam es zu Überschneidungen mit Dubstep/Techno.
-**Tokyo Dub Attack**, **Zettai-Mu (Osaka)**, **Mura Masa System (Okinawa)** sind derzeit aktiv.
+**Tokyo Dub Attack**, **Zettai-Mu (Osaka)**, **Mura Masa System (Okinawa)** und andere sind derzeit aktiv.
 Die Grundlage dafür ist die Soundsystem-Philosophie, „unseren eigenen Sound mit unseren eigenen Händen zu erzeugen“.
 
 ---
@@ -193,7 +193,7 @@ D --> G["日本のSound System文化\n(1990s〜)"]
 
 ---
 
-## Fazit: Wohin geht der Bass?
+## Fazit: Wohin steuert der Bass?
 
 Ein Soundsystem ist mehr als nur Audiogeräte.
 Es ist eine Infrastruktur des Selbstausdrucks und ein Symbol des Widerstands und der Solidarität.
@@ -323,6 +323,6 @@ graph TD
 
 Dieses Diagramm zeigt die Entwicklung der Soundsystemkultur im Zusammenhang mit Musikgenres auf der ganzen Welt.
 Hip-Hop (NY), Techno (Berlin), Afrobeats (Lagos) und japanische Clubkultur.
-Wir alle teilen eine „Basskultur = Bass-Community“.
+Wir alle teilen eine „Basskultur = Bassgemeinschaft“.
 
 ---

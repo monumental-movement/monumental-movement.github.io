@@ -47,7 +47,7 @@ color: #fff;
 
 #### 2.1 Genesis P-Orridge- und COUM-Getriebe
 
-Genesis Breyer P-Orridge (1950–2020) ist eine der einflussreichsten Figuren der britischen Avantgarde. Schon in jungen Jahren beteiligte er sich an gegenkulturellen Aktivitäten und leitete in den 1970er Jahren eine Performance-Gruppe namens COUM Transmissions. COUM entwickelt vom Fluxismus beeinflusste Performance-Kunst und bezieht provokative und politische Themen in ihre Kunst ein.
+Genesis Breyer P-Orridge (1950–2020) ist eine der einflussreichsten Figuren der britischen Avantgarde. Schon in jungen Jahren beteiligte er sich an gegenkulturellen Aktivitäten und leitete in den 1970er Jahren eine Performance-Gruppe namens COUM Transmissions. COUM entwickelt vom Fluxismus beeinflusste Performance-Kunst und bezieht provokante und politische Themen in ihre Kunst ein.
 
 Durch seine Arbeit mit COUM Transmissions entwickelte Genesis ein starkes Interesse an der Integration von bildender Kunst, Musik und Performance, was den Grundstein für seine spätere Arbeit legte. Er gründete auch Throbbing Gristle, die als Pioniere der Industrial-Musik international anerkannt wurden.
 

@@ -38,7 +38,7 @@ color: #fff;
 
 ### Früher Hintergrund und musikalische Ausbildung
 
-Luke Slater kam durch den Einfluss seines Vaters mit der Musik in Berührung und wurde bereits im Alter von 12 Jahren Schlagzeuger. In den späten 1980er Jahren erlangte er als DJ in Londons Underground-Clubs Bekanntheit. Sie debütierten 1990 mit „Momentary Vision“ und sind seitdem aus der Entwicklung des Techno nicht mehr wegzudenken.
+Luke Slater kam durch den Einfluss seines Vaters mit der Musik in Berührung und wurde bereits im Alter von 12 Jahren Schlagzeuger. In den späten 1980er Jahren erlangte er als DJ in Londons Underground-Clubs Bekanntheit. Sie debütierten 1990 mit „Momentary Vision“ und sind seitdem aus der Techno-Entwicklung nicht mehr wegzudenken.
 
 In den 90er Jahren veröffentlichten sie mit Warp und NovaMute Werke von Ambient bis Minimal, seit den 2000er Jahren sind sie eng mit dem Berliner Prestigeclub Berghain und dem Label Ostgut Ton verbunden und haben sich schnell zu einem Vertreter der europäischen Technoszene entwickelt.
 

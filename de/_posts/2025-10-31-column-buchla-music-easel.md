@@ -107,7 +107,7 @@ Easel selbst fungiert als „komplettes Musiksystem“, ohne dass externe Gerät
 * **Hüllkurve**: Automatisch gesteuert, getornt, schleifbar.
 * **Reverb**: Natürlicher Nachhall mit Federhall.
 
-Die Idee, die diese vereint, ist nicht „Portabilität“, sondern „Improvisation“, und das Zentrum der Musikproduktion hat sich vom „Denken“ zum „taktilen Empfinden“ verlagert.
+Die Idee, die diese integriert, ist nicht „Portabilität“, sondern „Improvisation“, und das Zentrum der Musikproduktion hat sich vom „Denken“ zum „taktilen Empfinden“ verlagert.
 
 ---
 
@@ -146,7 +146,7 @@ Bei seinen Live-Shows bricht das Konzept des Tempos zusammen und Pulser dehnt si
 Cohen sagte: „Staffelei ist ein Werkzeug zur Gestaltung der Zeit.“
 
 In seiner Performance führt die Wellenformfaltung des Komplexen Oszillators dazu, dass Obertöne zusammenbrechen und sich kontinuierlich reproduzieren.
-Es erzeugt einen Klang, der so ist, als würde sich ein akustisches Instrument selbst rekonstruieren.
+Es erzeugt einen Klang, als würde sich ein akustisches Instrument selbst neu aufbauen.
 
 ### Klangtechnologieanalyse: Cohens Improvisationsstruktur
 
@@ -213,7 +213,7 @@ Wie Suzanne Ciani gezeigt hat, „ist es das Organ, das menschliche Emotionen in
 
 In der heutigen, von Laptops dominierten Live-Umgebung
 Buchla Music Easel bleibt ein „Einzelorchester“.
-Es birgt die Zukunft der Improvisation verborgen in der kleinsten Schaltkreiseinheit.
+Es verbirgt die Zukunft der Improvisation in der kleinsten Schaltungseinheit.
 
 ---
 

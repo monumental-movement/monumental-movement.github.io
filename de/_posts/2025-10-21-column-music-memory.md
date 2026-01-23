@@ -61,7 +61,7 @@ Auch Spotify-Playlists sind nur ein neues Format.
 
 ## Kapitel 2: Aufnahme und Wiedergabe – Geburt von „Recorded Time“
 
-Als zu Beginn des 20. Jahrhunderts **Edisons Phonograph** erschien, war die Menschheit erstmals in der Lage, die „Geräusche der Vergangenheit“ zu reproduzieren.
+Zu Beginn des 20. Jahrhunderts, als **Edisons Phonograph** auf den Markt kam, war der Mensch erstmals in der Lage, die „Geräusche der Vergangenheit“ zu reproduzieren.
 Es war eine Revolution in der Musikgeschichte und zugleich die Geburtsstunde einer „Technologie zur Zeiterhaltung“.
 
 Schallplatten, Kassetten, CDs, MP3s und Streaming.
@@ -74,7 +74,7 @@ Musik zeichnet die „Temperatur der Zeit“ direkter auf als Geschichtsbücher.
 
 ---
 
-## Kapitel 3: Die Wissenschaft von Nostalgie und emotionalem Gedächtnis
+## Kapitel 3: Die Wissenschaft der Nostalgie und des emotionalen Gedächtnisses
 
 Musik bringt Menschen zum Weinen, nicht so sehr wegen des Klangs selbst, sondern weil sie mit ihrem „vergangenen Selbst“ wieder vereint sind.
 Psychologisch gesehen fungieren Melodien und Harmonien als Erinnerungs-„Tags“.
@@ -102,7 +102,7 @@ Zu diesem Zeitpunkt wird Musik nicht zum internen Gedächtnis eines Individuums,
 
 ---
 
-## Kapitel 5: Der Körper, der sich erinnert – Synapsen zwischen Musik und Gehirn und Emotionen
+## Kapitel 5: Der Körper, der sich erinnert – Synapsen zwischen Musik, Gehirn und Emotionen
 
 Musik wird nicht nur im Gehirn, sondern auch im Körper gespeichert.
 So wie Musiker sagen, dass ihre Hände sich an eine Phrase erinnern, wenn sie sie einmal auswendig gelernt haben.

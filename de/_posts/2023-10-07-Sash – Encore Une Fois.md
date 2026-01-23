@@ -15,7 +15,7 @@ title: Schärpe! – Encore Une Fois
 
 „Encore une fois“ (was auf Französisch „noch einmal“ bedeutet) ist ein Lied der deutschen DJ-Gruppe Sash!, das im Januar 1997 von Polygram als zweite Single aus dem Debütalbum der Gruppe „It's My Life – The Album“ (1997) veröffentlicht wurde und einer der größten Hits von Sash! ist.
 
-Im Vereinigten Königreich wurde es im Februar desselben Jahres veröffentlicht, erreichte Platz zwei der britischen Single-Charts und wurde mit Gold ausgezeichnet. Es war ein Top-10-Hit in ganz Europa, darunter Belgien, Finnland, Frankreich, Island, Italien, Norwegen, Spanien und Schweden. In Griechenland und Irland erreichte das Lied die Spitze der Charts. Es war ein großer Clubhit in den USA, erreichte Platz eins der Billboard Hot Dance Club Play-Charts und blieb 14 Wochen lang dort. Das Musikvideo zu „Encore une fois“ wurde von Oliver Sommer gedreht.
+Im Vereinigten Königreich wurde es im Februar desselben Jahres veröffentlicht, erreichte Platz zwei der britischen Single-Charts und wurde mit Gold ausgezeichnet. Es war ein Top-10-Hit in ganz Europa, darunter Belgien, Finnland, Frankreich, Island, Italien, Norwegen, Spanien und Schweden. In Griechenland und Irland erreichte das Lied die Spitze der Charts. Es war ein großer Club-Hit in den USA, erreichte Platz eins der Billboard Hot Dance Club Play-Charts und blieb 14 Wochen lang dort. Das Musikvideo zu „Encore une fois“ wurde von Oliver Sommer gedreht.
 
 
 #### Trackliste

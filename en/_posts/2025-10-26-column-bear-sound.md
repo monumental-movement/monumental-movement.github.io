@@ -99,7 +99,7 @@ Due to the decrease in snowfall and fluctuations in fruit growth in early spring
 
 - **Whistle**: Light evasive action
 
-- **Human Voice**: Medium Evasion
+- **Human voice**: Medium Evasion
 
 - **Firecracker**: Strong Evasion
 
@@ -121,7 +121,7 @@ G[high frequency electronic sound] --> H[experimental avoidance]
 
 ---
 
-### 4.2 Experiment example
+### 4.2 Experimental example
 
 - **Hokkaido Orchard (2015–2018)**: Invasion rate reduced by 40% due to use of firecrackers
 

@@ -22,7 +22,7 @@ Text: mmr｜Thema: Über die Genealogie des Cloud Rap, der sich mit Lo-Fi Hip Ho
 
 Cloud Rap entstand um 2010, konzentrierte sich auf die Bay Area und den U.S. Internet Underground und entwickelte sich in Verbindung mit der Post-Vaporwave-Subkultur-Ästhetik, Chopped & Screwed, Lo-Fi-Hip-Hop und modernem Emo-Rap. Insbesondere die Aktivitäten von **Lil B**, **Clams Casino** und **Main Attrakionz** symbolisierten die frühen Tage und bildeten die Grundlage einer Linie, die später zu **Lil Peep**, **XXXTENTACION**, **Bones** und **Yung Lean** führen sollte.
 
-Cloud Rap war weitaus ambient-orientierter als traditioneller Hip Hop und zeichnete sich durch einen eher ambient-orientierten Sound, Gesangsverarbeitung mit starkem Hall und verträumte Texturen mit räumlichen Effekten aus. Später entwickelte sich Cloud Rap zu Vaportrap, das elektronische Musik und die Meme-Kultur von Vaporwave aufnahm.
+Cloud Rap war weitaus ambient-orientierter als traditioneller Hip Hop, zeichnete sich durch einen eher ambient-orientierten Sound, Gesangsverarbeitung mit starkem Hall und verträumte Texturen mit räumlichen Effekten aus und entwickelte sich später zu Vaportrap, das elektronische Musik und Vaporwave-ähnliche Meme-Kultur aufnahm.
 
 
 ---
@@ -143,7 +143,7 @@ Mit dem Aufkommen von YouTube, SoundCloud und TikTok verbreiten sich Cloud-Rap-T
 
 ### ● Veränderungen in der Beat-Kultur durch generative KI (faktenbasiert)
 
-In den späten 2020er Jahren sind wolkenartige Pads und die Erzeugung von Umgebungstexturen mithilfe von Diffusions- und generativen Modellen alltäglich geworden, was die Produktion in der häuslichen Umgebung beschleunigt.
+In den späten 2020er Jahren sind wolkenartige Pads und die Generierung von Umgebungstexturen mithilfe von Diffusions- und generativen Modellen alltäglich geworden, was die Produktion in der häuslichen Umgebung beschleunigt.
 
 ---
 

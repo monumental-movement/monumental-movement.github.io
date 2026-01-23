@@ -20,7 +20,7 @@ title: '[Spalte] Chillstep / Liquid Dubstep'
 
 Text: mmr｜Thema: Über den „emotionalen Dubstep“, der zwischen Stille und Bass entsteht
 
-Chillstep und Liquid Dubstep sind Spin-off-Genres, die etwa 2010 im Internet Gestalt anzunehmen begannen und die melodischen und Ambient-Aspekte von Dubstep hervorheben. Im Gegensatz zum aggressiven Wobble-Bass, der harschen Filtermodulation und den Post-Brostep-Metal-Leads des traditionellen Dubstep bringt Chillstep „Ruhe, Transparenz und eine weiche Kontur des tiefen Bereichs“ in den Vordergrund.
+Chillstep und Liquid Dubstep sind Spin-off-Genres, die etwa 2010 im Internet Gestalt anzunehmen begannen und die melodischen und Ambient-Aspekte von Dubstep hervorheben. Im Gegensatz zum aggressiven Wobble-Bass, der harschen Filtermodulation und den Post-Brostep-Metal-Leads des herkömmlichen Dubstep bringt Chillstep „Ruhe, Transparenz und einen weich definierten Tieftonbereich“ in den Vordergrund.
 
 Der Hintergrundablauf ist wie folgt.
 

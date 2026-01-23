@@ -196,7 +196,7 @@ For Raja Ram, sound is prayer and Shpongle is his mantra.
 
 ## Chapter 6: Simon Posford - The Sound Magician's Production Philosophy
 
-Posford combines classic synths (Virus, Nord Lead, Roland SH-101) with modern DAWs (Logic Pro, Ableton).
+Posford combines classic synths (Virus, Nord Lead, Roland SH-101) and modern DAWs (Logic Pro, Ableton).
 Dozens of layers of sound are layered to intentionally design "resonance with brain waves."
 His works have a consistent three-layered structure: low range = body, overtones = consciousness, and reverberation = spirituality.
 
@@ -258,7 +258,7 @@ That is reincarnation itself.
 
 - Breathe in the dark room
 
-- Play Divine Moments of Truth
+- Play "Divine Moments of Truth"
 
 - Focus on the moment when the sound is "born"
 

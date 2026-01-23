@@ -75,7 +75,7 @@ flowchart TD
 ## Kapitel 2: Der Aufstieg von Funkadelic – Die Psychedelisierung der schwarzen Musik (1968-)
 
 Im Jahr 1968 stellte sich George Clinton einen „schwarzen Jimi Hendrix“ vor und gründete **Funkadelic**.
-Nach Larry Grahams Ohrfeige wurde der Funk schnell rhythmischer, aber Funkadelic vermischte sich noch weiter:
+Nach Larry Grahams Ohrfeige wurde der Funk schnell rhythmischer, aber Funkadelic mischte sich weiter:
 
 ### ● Musikalische Eigenschaften von Funkadelic
 
@@ -84,7 +84,7 @@ Nach Larry Grahams Ohrfeige wurde der Funk schnell rhythmischer, aber Funkadelic
 * **Aufruf und Antwort zum Evangelium der schwarzen Kirche**
 * **Texte mit starker politischer Kritik**
 
-Insbesondere „Maggot Brain“ aus dem Jahr 1971 ist berühmt für Eddie Hazells über 10-minütiges Gitarrensolo.
+Insbesondere „Maggot Brain“ aus dem Jahr 1971 ist wegen Eddie Hazells über 10-minütigem Gitarrensolo in Erinnerung geblieben.
 Es wurde als „musikalische Verkörperung schwarzer Traurigkeit und Wut“ beschrieben.
 
 ---
@@ -140,7 +140,7 @@ Dadurch fühlt es sich an, als würde sich der Beat vorwärts bewegen, während 
 * Ordnen Sie mehrere Sänger mit unterschiedlichen Stimmqualitäten an
 * Antwort im Gospel-Stil
 
-### ■ 4. Horns funkiger „Anweisungsklang“
+### ■ 4. Horns funkiger „Anweisungssound“
 
 * Scharfer Akzent im James-Brown-Stil
 * Aber es hat mehr Spiel als JB und mehr Harmonie als Unisono.
@@ -279,11 +279,11 @@ Solange P-Funk im Zentrum der schwarzen Musik bleibt, die von der Zukunft sprich
 * Funkadelic „Cosmic Slop“
 *Parlament 『Mutterschaftsverbindung』
 * Parlament „Funkentelechie vs. das Placebo-Syndrom“
-* Bootsy’s Rubber Band „Stretchin’ Out in Bootsy’s Rubber Band“
+* Bootsy’s Rubber Band „Ausstrecken in Bootsy’s Rubber Band“
 
 ---
 
-### Anhang: Live-Komposition (Reproduktionskarte der Mothership Tour 1976)
+### Anhang: Live-Komposition (Reproduktionsdiagramm der Mothership Tour 1976)
 
 <div class="mermaid">
 

@@ -27,7 +27,7 @@ It was a symbolic event that Miki Matsubara"s ""Midnight Door~Stay With Me" and 
 However, this ""Showa pop revival'' is not just a nostalgic hobby. Rather, it is a **rediscovery of analog sensations in the digital age** and a new cultural phenomenon of **global "emotional sharing"**.
 
 In this article, we will explore how Showa songs resonate overseas and how they are being received and reconstructed.
-We will explore it from multiple angles, including (1) historical background, (2) media environment, (3) overseas reception structure, and (4) the perspective of musical translation.
+We will explore it from multiple angles, including 1) historical background, 2) media environment, 3) overseas reception structure, and 4) musical translation perspectives.
 
 ---
 
@@ -52,7 +52,7 @@ The range is extremely wide, from the enka-like sentiments of Hibari Misora, to 
 
 However, what they have in common is ""belief in melody" and ""romanticism in the shadow of the times."
 Showa songs, which grew along with post-war economic growth, established an ""emotional coordinate axis"' in people"s lives.
-For example, Takashi Miki"s melodies have a sense of nostalgia, and Kyohei Tsutsumi"s arrangements have urban dreams. **
+For example, Takashi Miki"s melodies have a sense of nostalgia, and Kyohei Tsutsumi"s arrangements have a dream of the city. **
 
 This "reverberation of dreams" will later become the driving force that attracts young people from overseas.
 
@@ -75,7 +75,7 @@ Overseas, it has been translated as "retrofuturistic pop" and "aesthetic nostalg
 ## Chapter 3: Vaporwave and the illusion of the Showa era
 
 Vaporwave is an art movement that grew out of American internet bulletin board culture in the early 2010s.
-Old Japanese advertisements, digital graphics from the 1980s, and the distorted sound images of cassettes have been reconstructed as the "reverberations" of consumer society.
+Old Japanese advertisements, digital graphics from the 1980s, and distorted sound images from cassettes have been reconstructed as the "reverberations" of consumer society.
 
 It is no coincidence that the melodies and sounds of Showa songs were naturally fused here.
 **Soft reverb, urban mellowness, and excessive romanticism. **

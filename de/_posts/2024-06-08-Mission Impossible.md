@@ -11,13 +11,13 @@ tags:
 - Movie
 - Film
 - 90s
-title: 'Adam Clayton & Larry Mullen – Thema aus Mission: Impossible'
+title: 'Adam Clayton & Larry Mullen – Theme From Mission: Impossible'
 ---
 
 
 Kassette mit dem Titelsong zum Film „Mission: Impossible“ der U2-Mitglieder Adam Clayton und Larry Mullen, veröffentlicht 1996.
 
-Die B-Seite ist ein Remix des US-House-DJ Junior Vasquez.
+B面はUSのハウスDJ Junior Vasquez（ジュニア・ヴァスケス）によるremix。
 
 #### Trackliste
 ```md

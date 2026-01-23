@@ -20,7 +20,7 @@ title: '[Column] Choral / Vocal Experimental'
 Text: mmr｜Theme: Historical development, representative artists, technique analysis, sound recording/video context, contemporary work trends
 
 "Choral/Vocal Experimental" is a field that was born from the intersection of experimental music, acoustic research, and electroacoustic ideas from the latter half of the 20th century on the oldest musical form of chorus.
-Its distinctive feature is that it goes beyond simply pursuing the beauty of harmonies, and spans a wide variety of techniques, including the exploration of acoustic phenomena using voice as a material, spatialization, microtonal manipulation, phase structure, and fusion with electronic processing.
+Its distinctive feature is that it goes beyond simply pursuing the beauty of harmonies, and spans a wide variety of techniques, including the exploration of acoustic phenomena using the voice as a material, spatialization, microtonal manipulation, phase structure, and fusion with electronic processing.
 This trend presented a new listening style to traditional choral culture and had a major impact on acoustic art as a whole.
 
 ---
@@ -92,7 +92,7 @@ Eric Whitacre is a bridge between traditional choral music and a spirit of sonic
 
 *《Lux Aurumque》(2000)
 *《Sleep》(2000)
-etc., are located between polyphony and rich parallel harmony, and are characterized by harmonic density and manipulation of textural density.
+etc. are located between polyphony and rich parallel harmony, and are characterized by harmonic density and manipulation of textural density.
 
 Furthermore, the "Virtual Choir" initiative was innovative in that it expanded the reality of choral singing into digital collaborative production.
 
@@ -176,7 +176,7 @@ Recent experiments sometimes use real-time processing and multichannel spreading
 * Pitch shift
 * Granular processing
 
-With these, the static image of the chorus is completely dismantled, and the particleization and spatial distribution of the voices becomes the center of the musical structure.
+With these, the static image of the chorus is completely dismantled, and the **particulate/spatial distribution of voices** becomes the center of the musical structure.
 
 ---
 
@@ -186,7 +186,7 @@ With these, the static image of the chorus is completely dismantled, and the par
 
 Ligeti was a composer who symbolized 20th century acoustic thinking and brought about the most radical innovations in choral music.
 
-### Characteristics of representative works
+### Features of representative works
 
 *《Lux Aeterna》: Micropolyphony without accompaniment
 * 《Requiem》: Dense texture and tension in "Kyrie"
@@ -209,7 +209,7 @@ Whittaker is known for her choral works that maintain a classical beauty while l
 ### Virtual Choir
 
 "Virtual Choir", which took place in the 2010s, is an attempt to integrate individual voices recorded from all over the world and create a gigantic chorus.
-This is noteworthy in terms of music history as an **expansion of the concept of choral singing in the internet age**.
+This is notable in music history as an **expansion of the concept of choral singing in the internet age**.
 
 ---
 

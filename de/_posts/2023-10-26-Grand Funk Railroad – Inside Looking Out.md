@@ -16,7 +16,7 @@ title: Grand Funk Railroad – Von innen nach außen
 
 Grand Funk Railroad (Grand Funk Railroad/Grand Funk/GFR) ist eine amerikanische Hardrock-Band, die in den 1970er Jahren aktiv war.
 
-„Inside Looking Out“ ist ein von ihnen veröffentlichter 7-Zoll-Film.
+„Inside Looking Out“ ist ein 7-Zoll-Album, das von ihnen veröffentlicht wurde.
 
 #### Trackliste
 ```md

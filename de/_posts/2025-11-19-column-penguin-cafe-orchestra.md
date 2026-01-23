@@ -54,7 +54,7 @@ Die Ursprünge von PCO gehen auf ein seltsames Ereignis im Jahr 1972 zurück, al
 Dabei hatte er eine tagtraumartige Inspiration, die später als „Penguin Café-Vision“ bekannt wurde.
 Es gab eine „Utopie“, in der sich Menschen frei versammeln und ohne Disziplin oder Form weiter Musik machen konnten.
 
-Um diese Vision zu verwirklichen, konstruiert Jeffes eine einzigartige Musik, die klassische Kammerorchestrierung, den rustikalen Antrieb des Folk, die Vitalität afrikanischer und südamerikanischer Rhythmen und die repetitive Struktur minimaler Musik verbindet.
+Um diese Vision zu verwirklichen, konstruiert Jeffes eine einzigartige Musik, die klassische Kammerorchestrierung, den rustikalen Antrieb des Folk, die Vitalität afrikanischer und südamerikanischer Rhythmen und die repetitiven Strukturen der Minimal Music vereint.
 Die Musik war weder traditionell noch avantgardistisch, sondern kristallisierte sich als ein Klang heraus, der nur hier zu finden war.
 
 ---
@@ -127,7 +127,7 @@ Es ist ein ruhiges, aber dramatisches Lied, das den Eindruck vermittelt, als sei
 
 ### 3-3. **Telefon und Gummiband (1981)**
 
-Ein seltsames Musikstück, in dem plötzlich ein zweifarbiges Telefon über einem klassischen Ensemble klingelt.
+Ein seltsames Musikstück, bei dem in einem klassischen Ensemble plötzlich ein zweifarbiges Telefon klingelt.
 
 **Merkmale**
 
@@ -153,7 +153,7 @@ Folklore und sich wiederholende Strukturen verschmelzen und der spätere Stil is
 ### ● *Penguin Cafe Orchestra* (1981)
 
 Enthält das berühmte Lied „Telephone and Rubber Band“.
-Er hat einen starken volksmusikalischen Ansatz und hat sich eine einzigartige „Tanzqualität“ angeeignet.
+Es hat einen starken volksmusikalischen Ansatz und hat eine einzigartige „Tanzqualität“ erlangt.
 
 ### ● *Rundfunk von zu Hause aus* (1984)
 
@@ -180,7 +180,7 @@ Die Musik von PCO wurde in vielen Ländern auf unterschiedliche Weise rezipiert,
 ### ● Affinität zur Café-/Lounge-Kultur
 
 Während des „Café-Musik“-Booms Ende der 1990er Jahre wurde es neu bewertet.
-Die „Ambient-Musik mit Aussage“, die leicht und angenehm zu hören war, aber dennoch nicht in den Hintergrund geriet, erregte Aufmerksamkeit.
+Die „Ambient-Musik mit Aussage“, die leicht und leicht zu hören war, aber dennoch nicht in den Hintergrund trat, erregte Aufmerksamkeit.
 
 ### ● Starke Mediennutzung
 
@@ -194,7 +194,7 @@ PCOs Musik ist emotional, aber nicht beschreibend, daher wird sie als „Sound, 
 ### ● Auswirkungen auf nachfolgende Generationen
 
 * Max Richter
-* Olafur Arnalds
+*Olafur Arnalds
 * Penguin Cafe (Nachfolgeprojekt von Sohn Arthur Jeffes)
 * Folk-/Minimalisten-Künstler
 

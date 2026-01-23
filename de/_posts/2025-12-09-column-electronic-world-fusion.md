@@ -57,7 +57,7 @@ In den 1980er und 1990er Jahren wurden mit der Verbreitung von Samplern Quellen 
 
 ### 2-1 Nitin Sawhney: Darstellung einer multikulturellen Gesellschaft durch Klang
 
-Britischer Komponist und Multiinstrumentalist. Er ist bekannt für seine Werke, die klassische indische Musik, elektronische Akustik, Streicher und Jazz verbinden.
+Britischer Komponist und Multiinstrumentalist. Er ist bekannt für seine Werke, die indische klassische Musik, elektronische Akustik, Streicher und Jazz verbinden.
 
 #### Musikalische Features
 
@@ -197,7 +197,7 @@ Es gibt eine wachsende Bewegung, Elemente der Weltmusik in die Clubmusik zu inte
 
 ### 7-2 Vererbung an Ambient
 
-Drones von Volksinstrumenten, vielschichtige anhaltende Klänge und Aufnahmen natürlicher Umgebungen werden häufig in Ambient-Werke integriert.
+In Ambient-Werken werden häufig Drohnen von Volksinstrumenten, vielschichtige anhaltende Klänge und Aufnahmen natürlicher Umgebungen verwendet.
 
 ### 7-3 Umgang mit regionaler Musik im KI-Zeitalter
 
@@ -231,7 +231,7 @@ Electronic World Fusion ersetzt nicht nur Volksmusik durch elektronische Klänge
 **„Der Prozess, durch den Klang Kultur übersetzt und verschiedene Werte verbindet“**
 kann verstanden werden als
 
-Das Genre verkörpert den Klangdialog, da Nitin Sawhney in seiner Arbeit multikulturelle Gesellschaften darstellt und Thievery Corporation Musik aus aller Welt mit urbanen elektronischen Musikkontexten verbindet.
+Das Genre verkörpert den klanglichen Dialog, da Nitin Sawhney in seiner Arbeit multikulturelle Gesellschaften darstellt und Thievery Corporation Musik aus der ganzen Welt mit urbanen Kontexten der elektronischen Musik verbindet.
 
 ---
 
@@ -275,7 +275,7 @@ flowchart LR
 
 * Frühe Sampler digitalisierten die Klänge ethnischer Instrumente
 * Melodien aus dem Nahen Osten, Südasien und Afrika haben nach und nach Eingang in die Tanzmusik gefunden.
-* Es finden Diskussionen über „kulturelle Zitate“ und „Sampling-Ethik“ statt.
+* Es gibt Diskussionen über „kulturelle Zitate“ und „Sampling-Ethik“.
 
 <div class="mermaid">
 flowchart TD

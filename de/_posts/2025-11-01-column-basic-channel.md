@@ -18,12 +18,12 @@ title: '[Kolumne] Basic Channel──Der Ursprung des Berliner Dub Techno'
 ## Prolog: Vom anonymen Lärm zur stillen Revolution
 
 
-Text: mmr｜Thema: „Abgrund des Klangs“, geboren aus dem Berliner Untergrund der 1990er Jahre – Entstehungsgeschichte von Basic Channel und Dub Techno
+Text: mmr｜Thema: Der „Abgrund des Klangs“, geboren aus dem Berliner Untergrund der 1990er Jahre – Die Entstehungsgeschichte von Basic Channel und Dub Techno
 
 
 1993, nur wenige Jahre nach dem Fall der Berliner Mauer.
 Die Stadt wird immer noch wieder aufgebaut, verlassene Fabriken und Lagerhäuser werden in Clubs umgewandelt. Tresor, E-Werk, Planet und schließlich Berghain.
-Inmitten dieses Chaos verursachte **Basic Channel** still und leise eine seismische Verschiebung in der Akustik.
+Inmitten dieses Chaos sorgte **Basic Channel** still und leise für eine seismische Verschiebung der Akustik.
 
 Ihre Musik war weder Minimal noch Techno oder House.
 **Der Raum schwingt in den Tiefen des Rhythmus mit**.
@@ -52,7 +52,7 @@ color: #fff;
 
 ## Kapitel 1: Moritz von Oswald und Mark Ernestus – zwei Menschen der Anonymität
 
-Basic Channel ist eine Einheit, die von den deutschen Musikern **Moritz von Oswald** und **Mark Ernestus** gegründet wurde.
+Basic Channel ist eine Gruppe der deutschen Musiker **Moritz von Oswald** und **Mark Ernestus**.
 Ihre Hintergründe sind überraschend unterschiedlich.
 
 - **Moritz von Oswald**: Ehemaliger Schlagzeuger. In den 1980er Jahren war er in der Popgruppe Palais Schaumburg aktiv. Er begann schon früh, sich mit afrikanischer Musik und Dub zu beschäftigen.
@@ -97,7 +97,7 @@ Mit anderen Worten: Musik ist kein Material, sondern ein „Ort“ – diese Phi
 
 ## Kapitel 4: Kettenreaktion──Abstraktionskette
 
-1995 gründete Basic Channel ein Unterlabel, **Chain Reaction**.
+Im Jahr 1995 gründete Basic Channel ein Unterlabel, **Chain Reaction**.
 Hier entwickelte sich ein eher anonymes und experimentelles Projekt.
 Hier kreuzt sich die Genealogie der späteren Berliner elektronischen Musik, darunter Monolake, Porter Ricks, Vladislav Delay und Substance.
 
@@ -214,7 +214,7 @@ Der Grund dafür ist, dass sie nicht nur Techno geschaffen haben, sondern den Ak
 Das Echo hört nie auf.
 Es ist ein anhaltender Duft der Zeit und ein Tunnel, der den Zuhörer an die Außenseite des Raums führt.
 
-Und die Wellen, die am Ende des 20. Jahrhunderts von Berlin ausgingen, hallen weiterhin lautlos im Untergrund auf der ganzen Welt wider.
+Und die Wellen, die am Ende des 20. Jahrhunderts von Berlin ausgingen, hallen weiterhin lautlos im Untergrund auf der ganzen Welt nach.
 
 > „Wenn Sie den Ton von Basic Channel hören, hören Sie den Raum selbst, nicht die Musik.“
 

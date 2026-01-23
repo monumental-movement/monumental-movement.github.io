@@ -75,7 +75,7 @@ Die Grundlagen des experimentellen/abstrakten Hip Hop wurden Ende der 1990er Jah
 
 ---
 
-– Eine wichtige Rolle im New Yorker Untergrund Ende der 1990er Jahre.
+– Eine wichtige Rolle im New Yorker Untergrund der späten 1990er Jahre.
 - Einführung von lauten Klängen, segmentiertem Rap und elektronischer Musik.
 - Erweitert die Verbindung zwischen elektronischer Musik und Hip-Hop durch die Unterzeichnung bei Warp Records.
 
@@ -144,7 +144,7 @@ Im Mittelpunkt des experimentellen Hip-Hop seit den 2000er Jahren steht die „N
 
 ### ● Struktur von „Drunk Beat“
 - Kick und Snare sind einige Millisekunden außerhalb der Reihenfolge.
-- Auch die Basslinie ist einen halben Schritt hinter dem Rhythmus, was zu Schwankungen mit der Körpertemperatur führt.
+- Auch die Basslinie liegt einen halben Schritt hinter dem Rhythmus zurück, wodurch eine Schwankung mit der Körpertemperatur entsteht.
 - Samiyam, Knxwledge, Mndsgn usw. haben diese Idee geerbt.
 
 ### ● Schnittpunkt mit elektronischer Musik
@@ -180,7 +180,7 @@ Daraus entstand ein Trend, der sich auf die Textur konzentrierte.
 
 ---
 
-- Entwickelt unter dem Einfluss von Noise-Musik und der Verbindung experimenteller elektronischer Musiktechniken mit Rap.
+- Entwickelt unter dem Einfluss von Noise-Musik und einer Verbindung experimenteller elektronischer Musiktechniken mit Rap.
 - Er fügt seinen Beats Lärm, Härte und Glitches hinzu und sein Vortrag ist mathematisch präzise.
 
 ---
@@ -272,6 +272,6 @@ flowchart TD
 Experimenteller/abstrakter Hip Hop ist nicht nur ein abgeleitetes Genre des Hip Hop, sondern ein intellektuelles Projekt, das rhythmische Strukturen, Erzählungen, Sample-Kultur und Ansätze der elektronischen Musik dekonstruiert und bis heute andauert.
 
 Die vielschichtige elektronische Musik von Flying Lotus, die abstrakte Rap-Poesie von Shabazz Palaces, der nichtlineare Swing von J Dilla, die Noise-Experimente von Clipping.
-Sie fungieren weiterhin als „Labore für die Zukunft des Hip-Hop“.
+Sie fungieren auch heute noch als „Labor für die Zukunft des Hip-Hop“.
 
 ---

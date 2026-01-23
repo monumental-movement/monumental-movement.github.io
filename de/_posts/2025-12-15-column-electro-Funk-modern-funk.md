@@ -67,7 +67,7 @@ Etwa zur gleichen Zeit wurden E-Pianos und frühe Synthesizer eingeführt, und d
 
 In den frühen 1980er Jahren markierte der flächendeckende Einsatz von Drum Machines einen entscheidenden Wendepunkt. Der Rhythmus wechselt vom Spielen zum Programmieren, und Tempo und Wiederholung werden vollständig kontrollierbar. Dies entfernte einige der menschlichen Schwankungen aus dem Funk und verlieh ihm eine mechanische Präzision.
 
-Allerdings untergräbt die völlige Mechanik den Reiz von Funk, weshalb eine „Pseudo-Physikalität“ mithilfe von Swing-Werten und Geschwindigkeitsänderungen eingeführt wird. Diese Idee wurde vom Electro-Funk zum Modern Funk übernommen.
+Allerdings untergräbt die völlige Mechanik die Attraktivität von Funk, weshalb eine „Pseudo-Physikalität“ eingeführt wird, die Swing-Werte und Geschwindigkeitsänderungen nutzt. Diese Idee wurde vom Electro-Funk zum Modern Funk übernommen.
 
 Gleichzeitig wurden Synthesizer-Basslinien alltäglich, und der tiefe Bereich wurde eher von der Klanggestaltung als von der Spieltechnik dominiert.
 
@@ -76,7 +76,7 @@ Gleichzeitig wurden Synthesizer-Basslinien alltäglich, und der tiefe Bereich wu
 ## Kapitel 4: Digitale Produktionsumgebung und Modern Funk
 
 
-Seit den 1990er Jahren ist mit der Verbreitung von DAWs die individuelle Produktion zu einer realistischen Option geworden. Funk setzt nicht mehr auf große Bands, sondern wechselt zu Musik, die von einer kleinen Gruppe von Menschen oder von einem einzelnen Produzenten geschaffen werden kann.
+Seit den 1990er Jahren ist mit der Verbreitung von DAWs die individuelle Produktion zu einer realistischen Option geworden. Funk setzt nicht mehr auf große Bands, sondern auf Musik, die von einer kleinen Gruppe von Menschen oder von einem einzelnen Produzenten geschaffen werden kann.
 
 Im Modern Funk ist jedes Element klar organisiert. Es ist üblich geworden, einen Synthesizer-Bass für tiefe Frequenzen, eine programmierte Trommel für den Rhythmus und einen polyphonen Synthesizer für Akkorde zu haben, und das Frequenzmanagement in der Mix-Phase wird immer wichtiger.
 
@@ -97,7 +97,7 @@ Diese Linie geht von einer Studioproduktion aus und die Songs sind als äußerst
 
 ## Kapitel 6: Struktur von Jamiroquai-Derivaten
 
-Jamiroquai-Derivate behalten die Leistungsstruktur einer Funkband bei und integrieren elektronische Elemente. Das Zusammenspiel von Schlagzeug, Bass, Gitarre und Keyboard wird betont, rhythmische Schwankungen und Dynamik bleiben erhalten.
+Jamiroquai-Derivate behalten die Leistungsstruktur einer Funkband bei und integrieren gleichzeitig elektronische Elemente. Das Zusammenspiel von Schlagzeug, Bass, Gitarre und Keyboard wird betont, rhythmische Schwankungen und Dynamik bleiben erhalten.
 
 Elektronische Musikinstrumente spielen eine unterstützende Rolle und werden zur Klangfarbenerweiterung und räumlichen Bearbeitung eingesetzt. Hier liegen Live-Auftritt und Studioproduktion auf einer Linie und die körperliche Überzeugungskraft geht über die Reproduzierbarkeit.
 

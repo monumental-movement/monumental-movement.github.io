@@ -102,7 +102,7 @@ Dieses „südindische MTV-Feeling“ wurde später von A.R. geerbt. Rehman und 
 In den späten 1980er Jahren erlebte Südindien eine Phase der Expansion der Fernsehkultur, begleitet von einer Urbanisierungswelle.
 Es war eine Zeit, in der sich der staatliche Sender Doordarshan dem kommerziellen Rundfunk öffnete und junge Menschen aus ländlichen Gebieten davon träumten, Stars zu werden.
 
-Die Kulisse, in der die Hauptfigur von „Dance Raja Dance“, Raja, durch eine Fernsehsendung berühmt wird, symbolisiert wirklich die Entstehung neoliberaler Werte.
+Die Kulisse, in der die Hauptfigur von „Dance Raja Dance“, Raja, durch eine TV-Show berühmt wird, symbolisiert wirklich die Entstehung neoliberaler Werte.
 Die Zwänge von Arbeit, Klasse und Familie überwinden und durch Talent und harte Arbeit Erfolg haben – das kann man die „indische Version des amerikanischen Traums“ nennen.
 
 ---
@@ -117,7 +117,7 @@ Die Zwänge von Arbeit, Klasse und Familie überwinden und durch Talent und hart
 | **Finale-Medley** | Verschiedene | Reprisekomposition aller Lieder | Tanz-Schlussszene |
 
 Es wurde bestätigt, dass diese Songs mit damals modernster Ausrüstung wie FM-Synthesizer (Yamaha DX7) und Roland TR-707 erstellt wurden.
-Insbesondere die **ansteigende Bläser-Synthesizer-Note** im Intro von „Dance Raja Dance“ erinnert mich an die Texturen von Moroder und Depeche Mode.
+Insbesondere der **aufsteigende Bläser-Synthesizer-Sound**, der im Intro von „Dance Raja Dance“ zu hören ist, erinnert mich an die Texturen von Moroder und Depeche Mode.
 
 ---
 

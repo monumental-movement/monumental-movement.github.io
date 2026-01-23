@@ -20,7 +20,7 @@ title: '[Kolumne] Drei Sonnen und die Magie des Akkordeons – eine akustische F
 
 Text: mmr｜Thema: Erkundung der Klanglandschaft des Nachkriegsamerikas, gezeichnet von einem Trio aus Akkordeon, Gitarre und Orgel
 
-Aus dem Radio erklingt eine sanfte Melodie. Was dort klingelte, waren **Drei Sonnen**――
+Aus dem Radio erklingt eine sanfte Melodie.
 Es war ein Symbol der amerikanischen Home-Musik der 1940er Jahre und bestand aus einem Akkordeon, einer Gitarre und einer elektrischen Orgel.
 
 Dies war eine Zeit, als der Krieg vorbei war und das Fernsehen noch nicht weit verbreitet war.
@@ -89,7 +89,7 @@ Es war wirklich **Innenarchitektur mit Klang**.
 
 | Element | Inhalt | Beziehung zu drei Sonnen |
 |------|------|-------|
-| Hi-Fi-Audio | Popularisierung der Stereowiedergabe in Privathaushalten | Aufnahme mit Blick auf akustische Effekte |
+| Hi-Fi-Audio | Popularisierung der Stereowiedergabe zu Hause | Aufnahme mit Blick auf akustische Effekte |
 | Cocktailkultur | Symbol urbaner Freizeit | Musik verschmolzen mit „Rausch“ |
 | Heimvideos | Hintergrundmusik im 8mm-Filmzeitalter | Drei Sonnen wurden häufig verwendet |
 | Raumorientiert | Ästhetik des Weltraumzeitalters | Schwebender Klang schwingt mit |
@@ -121,7 +121,7 @@ Das „Ma“, bei dem die Klangdichte dünn ist und wie Luft existiert, war der 
 | Luft | Französisches Duo | Analoges Feeling und schwebende Melodie |
 | Kornelius | Japan | Heimakustischer Klangbau |
 | Stereolab | Britisch und Französisch | Retro-Future-Sound |
-| Beirut | Amerika | Fahnenträger der Akkordeon-Restaurierung |
+| Beirut | Amerika | Fahnenträger der Wiederbelebung des Akkordeons |
 
 ---
 

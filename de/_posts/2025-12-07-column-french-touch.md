@@ -23,7 +23,7 @@ Text: mmr｜Thema: Wie die Neubewertung des französischen House der 2000er Jahr
 Über analoge Synthesizer, Plattenkultur und Filterhouse-Techniken
 
 In den späten 2020er Jahren wird **French Touch** (French House) sowohl in der Club- als auch in der Internetkultur neu bewertet. Was DJ-Auftritte angeht, bewegen Songs wie „Music Sounds Better With You“ von Stardust und „1999“ von Cassius wieder das jüngere Publikum, und die frühen Werke von Daft Punk finden durch Vinyl-Neuauflagen ein neues Publikum.
-Da in- und ausländische Produzenten darüber hinaus aktiv *analoge Synthesizer, Bandtexturen, die Rauheit des Samplings und die Textur von Vinyllippen* integrieren, stellen sie eine natürliche Verbindung zum Kontext von **Nu Disco** her, der Ende der 2000er Jahre entstand.
+Da in- und ausländische Produzenten darüber hinaus aktiv *analoge Synthesizer, Tape-Texturen, raues Sampling und Vinyl-Lippentexturen* integrieren, stellen sie eine natürliche Verbindung zum Kontext von **Nu Disco** her, der Ende der 2000er Jahre entstand.
 
 Dieses Phänomen ist nicht nur Nostalgie.
 Vielmehr liegt es gerade daran, dass das digitale Umfeld allgegenwärtig geworden ist
@@ -51,7 +51,7 @@ color: #fff;
 ## 2. Gründung von French Touch: Situation in Paris Ende der 1990er Jahre
 ### ● Hintergrund: Eine Begegnung zwischen House und Disco
 Mitte der 1990er Jahre nahm die Pariser Clubszene amerikanische House-Musik auf und bildete gleichzeitig eine einzigartige Struktur, die Disco-/Soul-Samples in den Vordergrund rückte.
-Während der Einfluss von Chicago House stark war, begann sich House als neue Art von „Popmusik“ zu etablieren, indem es das „anspruchsvolle melodische Gefühl“ einbrachte, das einzigartig für Europa ist.
+Während House stark vom Chicago House beeinflusst war, begann es als neue Art von „Popmusik“ zu fungieren, da es sich mit einem „anspruchsvollen melodischen Gefühl“ vermischte, das einzigartig in Europa ist.
 
 ### ● Vorhandensein von Label/Basis
 - **Roulé (Thomas Bangalter)**
@@ -70,7 +70,7 @@ Die frühen Werke von Daft Punk (insbesondere „Homework“ und „Discovery“
 ---
 
 ### ● ① Verwendung eines analogen Synthesizers
-Repräsentative sind:
+Repräsentativ sind:
 -Roland Juno-106
 -Roland TB-303
 - Sequentielle Schaltungen Pro-One
@@ -179,7 +179,7 @@ Diese Künstler haben das French-Touch-Gen im Nu-Disco-Kontext aktualisiert.
 
 ---
 
-## 8. Detaillierte Erklärung analoger Synthesizer und „Plattenkultur“
+## 8. Ausführliche Erklärung zu analogen Synthesizern und „Plattenkultur“
 
 ### ◆ ① Gründe, warum analoge Synthesizer bevorzugt wurden
 - Filtermodul ist ein physikalischer Schaltkreis → Schallschwankungen sind natürlich
@@ -195,8 +195,8 @@ Es war die Atmosphäre jener Zeit, als Clubkultur und Plattenkultur unmittelbar 
 Das Ausgraben von Aufzeichnungen selbst war das Tor zur Schöpfung.
 
 Vinyl-Eigenschaften:
-- Lärm = Textur
-- Die Dicke des Tons ändert sich je nach Stiftdruck.
+- Rauschen = Textur
+- Die Stärke des Tons ändert sich je nach Stiftdruck.
 - Das Klangbild ändert sich je nach der Umgebung, in der Sie dieselbe Aufnahme rippen.
 
 Diese „Mehrdeutigkeit“ war French Touch sehr wichtig.
@@ -254,11 +254,11 @@ Mit dem Wiederaufleben der Schallplatten gewann der „Touch“ von French Touch
 
 ### ● 2) Einfluss auf zeitgenössischen Pop
 Große Künstler wie The Weeknd und Dua Lipa
-Durch die Einbindung von **Disco~80er-Revival**,
+Durch die Einbindung von **Disco~80s-Revival**,
 Französische House-Sounds gewinnen erneut an Aufmerksamkeit.
 
 ### ● 3) „Umgraben“ bei jungen Menschen
-Auf YouTube, SoundCloud und TikTok
+auf YouTube, SoundCloud und TikTok
 French-Touch-Klassiker wurden wiederentdeckt und einer Generation zugänglich gemacht, die mit der Clubkultur nicht vertraut war.
 
 ---

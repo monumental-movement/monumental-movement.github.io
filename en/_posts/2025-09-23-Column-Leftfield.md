@@ -39,35 +39,21 @@ color: #fff;
 
 ### What is Leftfield? / What is Leftfield?
 
-**Japanese**
 
 Leftfield is a word with a double meaning.
 1. A project by UK duo Neil Barnes & Paul Daley.
 2. An expression that refers to experimental and intellectual dance music that transcends genre boundaries.
 
-**English**
-
-Leftfield has a double meaning:
-1. The UK electronic duo formed by Neil Barnes & Paul Daley.
-2. A broader term for experimental, genre-defying electronic and dance music.
-
 ---
 
 ### History and Context / History and Context
 
-**Japanese**
 
 - Early 1990s: Born in UK rave culture.
 - 1995: Debut work "*Leftism*" received high praise beyond the club scene.
 - Since the 2000s: The word "leftfield" has become synonymous with "innovative music outside the mainstream."
 - Modern day: Re-evaluated in the context of AI music generation and movie soundtrack production.
 
-**English**
-
-- Early 1990s: Emerged within UK rave culture.
-- 1995: Debut album *Leftism* gained critical acclaim beyond the club scene.
-- 2000s onward: "Leftfield" became synonymous with music outside the mainstream.
-- Today: Re-evaluated in the contexts of AI music generation and soundtrack production.
 
 ---
 
@@ -98,13 +84,13 @@ flowchart TD
 
 ### Related Keywords / Related Keywords
 
-**Japanese**: Leftfield genre, UK electronica, relationship with trip hop
+Leftfield genre, UK electronica, relationship with trip hop
 
-**English**: Leftfield genre, UK electronica, relation to trip hop, soundtrack production, AI music generation
+
 
 ---
 
-### FAQ (Japanese)
+### FAQ
 
 Q1. Is Leftfield a genre? Is it the artist name?
 
@@ -118,31 +104,13 @@ Q3. What do you recommend for beginners?
 
 A. "Leftism" is the best place to start.
 
-### FAQ (English)
-
-Q1. Is Leftfield a genre or an artist?
-
-A. Both. It refers to the UK duo and also to experimental, non-mainstream electronic music.
-
-Q2. How does Leftfield differ from trip hop?
-
-A. Trip hop is based on downtempo and hip hop, while Leftfield is rooted in house/techno with dub and world music influences.
-
-Q3. Where should beginners start?
-
-A. Leftism is the essential starting point.
 
 ---
 
-### Conclusion
+### summary
 
-**Japanese**
 
 Leftfield is an icon of UK electronica and synonymous with musical adventure. Although deviating from club culture, its intellectual and artistic spirit of experimentation continues to influence modern AI music and soundtrack production.
-
-**English**
-
-Leftfield represents both a pioneering UK duo and a symbol of musical adventurousness. While diving from the mainstream, its intellectual and artistic experimentation continues to influence AI-generated music and soundtrack composition today.
 
 
 ---

@@ -25,7 +25,7 @@ Funk, Hip-Hop, Afrobeat, Weltmusik, Free Jazz, Noise ... Laswells Projekte in de
 
 Aufgrund seiner Vielfalt war es damals nicht einfach, einen Überblick über seine Aktivitäten zu erhalten. Da einzelne Werke fragmentiert und verstreut waren, war es den Zuhörern nicht möglich, das „Gesamtbild“ zu erfassen.
 
-Doch mit dem Compilation-Album „Deconstruction“ der 80er änderte sich alles völlig. Dieses Album ist eine Zusammenstellung der genre- und projektübergreifenden Klangquellen, an denen Laswell in den 1980er Jahren beteiligt war, neu gemastert und rekonstruiert.
+Mit dem Compilation-Album „Deconstruction“ der 80er Jahre änderte sich jedoch alles völlig. Dieses Album ist eine Zusammenstellung der genre- und projektübergreifenden Klangquellen, an denen Laswell in den 1980er Jahren beteiligt war, neu gemastert und rekonstruiert.
 Mit anderen Worten kann man sagen, dass diese Zusammenstellung selbst als „vollendete Form der Dekonstruktion und Rekonstruktion“ erschien.
 
 Dieser Artikel konzentriert sich auf die Aufnahmen dieses Albums und Projekte aus dieser Zeit und verfolgt die Fakten, wie Bill Laswell & Friends die Akustik der 1980er Jahre dekonstruierte und neu organisierte.
@@ -91,7 +91,7 @@ Laswells größter Wendepunkt in den 1980er Jahren war der Kontakt mit Herbie Ha
 - Etablierung einer Fusion aus Turntablism und Elektro/Jazz
 - Unterstützung der weltweiten Verbreitung der Elektro-Hip-Hop-Kultur
 
-Dieses Werk soll „ein Symbol dafür sein, die Grenzen zwischen 80er-Jahre-Pop und Underground aufzubrechen“.
+Dieses Werk sei „ein Symbol dafür, die Grenzen zwischen 80er-Jahre-Pop und Underground aufzubrechen“.
 
 ---
 

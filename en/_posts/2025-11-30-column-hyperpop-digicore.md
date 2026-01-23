@@ -165,7 +165,7 @@ flowchart LR
 
 ---
 
-## 5-3. Minimal Trap / DnB Impact
+## 5-3. Minimal Trap / DnB impact
 
 * 808 base is modest
 * Kick is short
@@ -254,7 +254,7 @@ graph TD
 
 # 10. Summary
 
-Hyperpop and Digicore are trends that were born out of the democratization of music production tools and the maturation of Internet culture. The ease of production, remix culture, social media spread, and the experimental spirit of young creators combined to dismantle the traditional genre structure and present a new form of pop.
+Hyperpop and Digicore are trends that were born out of the democratization of music production tools and the maturation of Internet culture. The simplicity of production, remix culture, social media spread, and the experimental spirit of young creators combined to dismantle the traditional genre structure and present a new form of pop.
 
 In the future, it is likely to be further segmented and expanded due to advances in AI vocals, generated sound sources, real-time collaboration, etc.
 

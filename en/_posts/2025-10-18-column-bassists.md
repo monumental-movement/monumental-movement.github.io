@@ -74,8 +74,8 @@ Rhythm that speaks between sounds - this is what has elevated jazz to an art for
 ---
 
 Yoshio Suzuki and Kunimitsu Inaba, who supported postwar jazz cafes in Japan,
-Enjoying this "freedom of bass sounds" with the sensibilities of your own country,
-Before long, they were creating their own unique groove at night in Tokyo.
+Enjoying this "freedom of bass sounds" with the sensibilities of our own country,
+Eventually, they created their own unique groove at night in Tokyo.
 
 ---
 
@@ -146,7 +146,7 @@ It blurred the line between club culture and live music.
 ---
 
 The delicate bass sounds of downy and toe sounds like a poem depicting a city night.
-There is not a scream, but a ""breathing stillness''.
+There is not a scream, but a ""breathing stillness.''
 
 ---
 

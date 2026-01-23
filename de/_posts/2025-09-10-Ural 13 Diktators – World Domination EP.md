@@ -15,7 +15,7 @@ title: Ural 13 Diktators – World Domination EP
 ---
 
 
-Ural 13 Diktators sind ein Duo aus Helsinki, das 1997 von Lauri Kasti und Lupu Pitkänen gegründet wurde. Der Stil von Ural 13 Diktators zeichnet sich durch einen Crossover zwischen Musik der 80er Jahre (Hi NRG, Disco, Electro, Synth Pop), Sounds der 90er Jahre (Techno, House) und Videospielmusik aus.
+Ural 13 Diktators sind ein in Helsinki ansässiges Duo, das 1997 von Lauri Kasti und Lupu Pitkänen gegründet wurde. Der Stil von Ural 13 Diktators zeichnet sich durch einen Crossover zwischen Musik der 80er Jahre (Hi NRG, Disco, Electro, Synth Pop), Sounds der 90er Jahre (Techno, House) und Videospielmusik aus.
 
 „World Domination EP“ ist Trance/Techno/Hi NRG, die 2001 auf seinem eigenen Label Ural 13 Records veröffentlicht wurde. Limitierte Auflage von 1300 Exemplaren.
 

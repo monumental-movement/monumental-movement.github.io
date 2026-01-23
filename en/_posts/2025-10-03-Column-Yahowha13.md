@@ -75,7 +75,7 @@ After that, the members of the congregation dispersed, but it has been reevaluat
 Core lineup: Mainly Djin Aquarian (guitar), Octavius ​​Aquarian (drums), and Sunflower Aquarian (bass), along with other "Aquarian surname" believer musicians such as Lovely, Hom, Rhythm, Pythias, Aquarian.
 
 
-Initially released under the name "Father Yod & The Spirit of "76". After that, the notation such as "Ya Ho Wa 13 / Yahowha13 / YaHoWha13 / Yahowa 13" was used with some fluctuation.
+Initially released under the name "Father Yod & The Spirit of "76". After that, spellings such as "Ya Ho Wa 13 / Yahowha13 / YaHoWha13 / Yahowa 13" were used with some fluctuation.
 
 
 There was also a period when they were active in bands under different names such as "Savage Sons of Ya Ho Wa," "Fire, Water, Air," and "Yodship."
@@ -216,7 +216,7 @@ In 2009, a compilation of unreleased songs such as [Magnificence in the Memory](
 ---
 
 
-#### Reunion/Activities
+#### Reunion/activities
 
 In 2007, the original members (Sunflower, Octavius, Djin) reportedly performed live for the first time in 33 years.
 
@@ -237,7 +237,7 @@ It is argued that his orientation toward improvisation, spatiality, and transcen
 
 In fields such as commune culture, cult movements, and outsider music research, the existence of Yahowha13/Source Family has become a typical example and subject of research.
 
-On the other hand, it also includes a controversial approach that includes ethical and historical criticism regarding the merits and demerits of believers and musicians, the fragmentation of records, and anecdotes and legends whose authenticity is unknown.
+On the other hand, it also includes controversial topics such as ethical and historical criticism regarding the merits and demerits of believers and musicians, the fragmentation of records, and anecdotes and legends whose authenticity is unknown.
 
 ---
 
@@ -276,7 +276,7 @@ Point: The core of self-recording. While recording at Garage, the band began to 
 
 [Penetration: An Aquarian Symphony (1974)](https://amzn.to/4hdcYa5)
 
-Songs and highlights: Contains long tracks such as "Yod He Vau He," "Ho," "Journey Thru An Elemental Kingdom," and "Ya Ho Wha." It is the crystallization of "ritualistic" and "psychedelic jam", and is the most easily available representative album with many reissues. It has a large soundscape-like dynamic, and we recommend starting here for first-time listeners.
+Songs and highlights: Contains long tracks such as "Yod He Vau He," "Ho," "Journey Thru An Elemental Kingdom," and "Ya Ho Wha." It is the crystallization of "ritualistic" and "psychedelic jam", and is the most easily available representative album with many reissues. It has a large soundscape-like dynamic, and we recommend that first-time listeners start here.
 
 
 ---
@@ -309,7 +309,7 @@ Fact: Many tracks are centered around chants, fragmented lines, and religious de
 
 Main motif:
 
-Repetition of "Ya Ho Wha / Ya Ho Wa / YHWH (consonantal similarity)" - divine name/sacred role.
+Repetition of "Ya Ho Wha / Ya Ho Wa / YHWH (consonantal similarity)" - Divine name/sacred role.
 
 
 References to the archetypal "travel/purification/elements (fire/water/air/earth)" — a symbol that also appears in the album/song titles.
@@ -505,7 +505,7 @@ According to family accounts, Yod (James Edward Baker) was originally a restaura
 
 It is said that he was aware of his role in music as a ""conduit of energy" rather than a ""performer."
 
-Member Octavius ​​says, ""He let us play, but at the same time he was 'listening' to us.His gaze and his breathing determined the direction of the session.''
+Member Octavius ​​testifies, ""He let us play, but at the same time he was 'listening' to us.His gaze and his breathing determined the direction of the session.''
 
 ---
 

@@ -117,7 +117,7 @@ The appearance of this song was also an opportunity to change the conventional i
 
 Additionally, OVA and movie versions now have a richer variety of music products, including theme songs, insert songs, character songs, and remix discs. Music has expanded from being "exclusive for works" to "exclusive for brands."
 
-### 2.3 Drama accompaniment, theme songs, and insert songs: changing tastes over time
+### 2.3 Dramatic accompaniment, theme songs, and insert songs: changing tastes over time
 
 During this period, the range of music development expanded significantly. In addition to theme songs, insert songs, character songs (songs sung under the character's name), remix albums, best albums, live albums, etc. were released one after another, and the categorization of music products progressed.
 
@@ -137,7 +137,7 @@ We have entered an era in which "Gundam music" is not just "background music to 
 
 ### 3.2 Example: Soundtrack composition of the "Mobile Suit Gundam SEED" series
 
-For "Mobile Suit Gundam SEED" (2002-), Hiroyuki Kono and others were in charge of the music, rather than the composer Hiroyuki Sawano, and the theme song, insert song, character song, remix disc, and "Suit CD" were developed.
+For ""Mobile Suit Gundam SEED" ​​(2002-), Hiroyuki Kono and others were actually in charge of the musical accompaniment, rather than the composer Hiroyuki Sawano, and the theme song, insert song, character song, remix album, and ""Suit CD" were developed.
 This structure shows that Gundam music has become "a product/culture that cannot be separated from the work." Music has become a brand, and it has come to function in places other than productions (live shows, bonus CDs, collaborations).
 
 ### 3.3 Recent work: Musical experiment in "Mobile Suit Gundam: Witch of Mercury"
@@ -207,7 +207,7 @@ After 2025, it is expected that the era of "listening to music" will shift from 
 ## Instead of a conclusion
 
 "Listen to Gundam again" can be said to be synonymous with "watching Gundam again." This is because music represents the characters' emotions and carves out the trajectory of the story. We hope that through this article, you will be able to pick up your favorite Gundam theme song again and listen to the history and story world that it has created once again.
-Finally, to dig deeper into Gundam music, be sure to search and collect CD jackets, live videos, composer interviews, and more. The journey of sound expands richly beyond sight.
+Finally, to dig deeper into Gundam music, be sure to search and collect CD jackets, live videos, composer interviews, and more. The journey of sound expands richly beyond your field of vision.
 
 ---
 

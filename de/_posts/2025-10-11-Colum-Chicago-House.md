@@ -54,7 +54,7 @@ Der riesige Raum des Lagerhauses, die Höhe der Decke und das Echo des Betons ve
 
 ### Sozialer Hintergrund von Chicago in den 1980er Jahren
 
-Die frühen 1980er Jahre waren für Chicago wirtschaftlich schwierige Zeiten.
+Die frühen 1980er Jahre waren für Chicago eine schwierige wirtschaftliche Zeit.
 
 - Erhöhte Arbeitslosenquote aufgrund des industriellen Niedergangs
 - Gemeindespaltung aufgrund städtebaulicher Sanierung
@@ -67,7 +67,7 @@ Die Clubkultur füllte diese städtische Lücke und fungierte als neuer Ort des 
 Der Club hielt die Eintrittspreise auf ein Minimum und bot ein Umfeld, in dem lokale DJs und Künstler ungehindert auftreten konnten.
 Dieser freie Raum hat dem Chicago House einen DIY-Geist und eine Gemeinschaftskultur verliehen.
 
-Als Anekdote las Frankie Knuckles spät in der Nacht die Jubelschreie der Menge ab und veränderte auf subtile Weise den Rhythmus, wodurch ein Moment entstand, in dem alle Körper im Gleichklang schwankten. Das Publikum reagierte mit Jubel und Applaus und zeigte, dass Musik ein soziales und kulturelles Phänomen ist.
+Als Anekdote las Frankie Knuckles spät in der Nacht die Jubelrufe der Menge und änderte subtil den Rhythmus, wodurch ein Moment entstand, in dem alle Körper im Einklang schwankten. Das Publikum reagierte mit Jubel und Applaus und zeigte, dass Musik ein soziales und kulturelles Phänomen ist.
 
 ---
 
@@ -193,7 +193,7 @@ Chicagoer House-Rhythmen sind tief in der städtischen Kultur und den Körpern d
 ### Ausblick für die Zukunft
 
 Chicago House ist mehr als nur ein Musikgenre aus der Vergangenheit; Es beeinflusst weiterhin die zukünftige Clubkultur und Musikproduktion als Schnittstelle zwischen urbaner Kultur, sozialen Bewegungen, Technologie und Musik.
-Eine neue Generation von Künstlern sampelt klassische Lieder aus der Vergangenheit und interpretiert sie in modernen Rhythmen neu. Aufgrund der Stadterneuerung und der Fortschritte in der digitalen Technologie werden die physischen und virtuellen Erlebnisse in Clubräumen vielfältiger. Die Ideale der sozialen Inklusion und Vielfalt wurzeln im Konzept des Chicago House eines „freien und sicheren Raums der Meinungsäußerung“.
+Eine neue Generation von Künstlern sampelt klassische Lieder aus der Vergangenheit und interpretiert sie in modernen Rhythmen neu. Durch den Stadtumbau und Fortschritte in der digitalen Technologie werden die physischen und virtuellen Erlebnisse in Clubräumen vielfältiger. Die Ideale der sozialen Inklusion und Vielfalt wurzeln im Konzept des Chicago House eines „freien und sicheren Raums der Meinungsäußerung“.
 
 ---
 

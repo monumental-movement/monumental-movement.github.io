@@ -13,7 +13,7 @@ title: Cristian Vogel – Whipaspank
 ---
 
 
-Christian Vogel (geboren 1972 in Santiago, Chile) ist ein experimenteller elektronischer Musiker, der Ende der 1980er Jahre mit dem Komponieren elektronischer Musik für das Cabbage Head Collective begann.
+Christian Vogel (* 1972 in Santiago, Chile) ist ein experimenteller elektronischer Musiker, der Ende der 1980er Jahre mit dem Komponieren elektronischer Musik für das Cabbage Head Collective begann.
 
 Er besuchte die University of Sussex, studierte bei Martin Butler (Komponist) und Jonathan Harvey (Komponist) und erlangte dort einen Abschluss in Musik des 20. Jahrhunderts. Ein Gründungsmitglied des No Future Collective, das Mitte der 1990er Jahre in Brighton aktiv war.
 

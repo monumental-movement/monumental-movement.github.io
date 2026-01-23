@@ -172,7 +172,7 @@ He has helped raise the profile of Loopstation players in Japan, and has a great
 
 ### ● Precise technique
 RUSY is known for his highly accurate rhythms and smooth combination techniques, and has received high praise mainly at domestic tournaments in Japan.
-The characteristics are:
+Features include:
 
 - tight groove
 - Clear and dense pronunciation
@@ -213,7 +213,7 @@ Synchronization, harmony, and composition ability by multiple people are require
 
 ## ◆ Loopstation
 The category that has received the most attention in recent years,
-"Building multi-layered music by yourself"
+"Building multi-layered music alone"
 There is a strong music production element.
 
 ## ◆ Showcases / Exhibition
@@ -245,7 +245,7 @@ With the development of Loopstation, beatboxing
 Towards an area that can be called
 
 ## ◆ 2. Combination with visual culture
-The number of ""video-based showcases'' is increasing in tournaments around the world.
+""Video-based showcases'' are increasing in competitions around the world.
 We live in an era where SNS accelerates style.
 
 ## ◆ 3. Future of Japanese strengths

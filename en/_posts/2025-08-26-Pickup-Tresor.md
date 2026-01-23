@@ -116,7 +116,7 @@ Attractive point: Contains a luxurious lineup that symbolizes the Berlin techno 
 Summary: The 7th Tresor compilation released in 1999. A gorgeous collection of songs from world-famous artists such as Sven Väth, Ben Sims, James Ruskin, Daniel Bell, and DJ Shufflemaster.
 
 
-Attractive point: Covers a wide range of styles such as dub techno and ambient, and allows you to fully experience the essence of the Tresor label. Recommended for beginners.
+Attractive point: Covering a wide range of styles such as dub techno and ambient, this is a piece where you can fully experience the essence of the Tresor label. Recommended for beginners.
 
 #### Tracklist
 ```md

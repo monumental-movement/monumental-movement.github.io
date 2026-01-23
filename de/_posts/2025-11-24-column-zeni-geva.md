@@ -83,7 +83,7 @@ Es gilt als das Album mit der ausgewogensten Integration von Akustik, Struktur u
 ---
 
 ## 3. Vertiefungsexperimente (1996–2001): Längere Länge, Elektronisierung, Streben nach struktureller Schönheit
-Im Jahr 1996 kam es zu einem Schlagzeugwechsel, Blake Fleming stieß für kurze Zeit zur Band. Später trat **Masataka Fujikake** der Band bei und Zeni Gevas Rhythmen wurden komplexer, schneller und vielschichtiger.
+Im Jahr 1996 kam es zu einem Schlagzeugerwechsel, Blake Fleming stieß für kurze Zeit zur Band. Später trat **Masataka Fujikake** der Band bei und Zeni Gevas Rhythmen wurden komplexer, schneller und vielschichtiger.
 
 ### Stärkung der strukturellen Musikalität
 In dieser Zeit wurden die Lieder von Zeni Geva länger und strukturierter, darunter auch Lieder, die länger als 16 Minuten waren.
@@ -113,13 +113,13 @@ Für Zeni Geva hatte die Hinzufügung von Yoshida erneut einen starken Einfluss.
 
 ---
 
-## 5. Zweite Periode Zeni Geva (2010–): Neubewertung und globale Neuaufmerksamkeit
+## 5. Zweite Periode Zeni Geva (2010–): Neubewertung und weltweit erneuerte Aufmerksamkeit
 ### „Lebendig und aufstrebend (2010)“
 - Live-Soundquelle aus dem Lineup von 2009
 - Tatsuya Yoshidas perverses Schlagzeug und Null & Tabatas Gitarrenduell sind spektakulär
 
 Seitdem wurden die Live-Aktivitäten in Asien und Europa wieder aufgenommen.
-Zeni Geva erfährt erneut Aufmerksamkeit in der Noise-/Metal-/Hardcore-/Avantgarde-Musikszene und sein historischer Wert wird erneut bewertet.
+Zeni Geva erhält erneut Aufmerksamkeit aus der Noise-/Metal-/Hardcore-/Avantgarde-Musikszene und sein historischer Wert wird erneut bewertet.
 
 ---
 

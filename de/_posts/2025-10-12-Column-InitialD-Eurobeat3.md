@@ -30,7 +30,7 @@ Geschwindigkeit = Musik und Musik = Beschleunigung von Emotionen.
 
 Aber die Zeiten haben sich geändert, Autos sind leiser geworden und Musik ist zu Streaming geworden.
 Dennoch bleibt Eurobeats „Erinnerung an die Geschwindigkeit“ bestehen.
-Vielmehr verwandelt es sich nun in eine neue Art von „laufender Musik“ im Kontext von **digitalem Raum, KI-Generierung und Echtzeit-Sound**.
+Vielmehr verwandelt sie sich nun in eine neue Art von „laufender Musik“ im Kontext von **digitalem Raum, KI-Generierung und Echtzeit-Sound**.
 
 
 <style type="text/css">
@@ -55,7 +55,7 @@ Wie in den beiden vorherigen Werken erwähnt, war der Eurobeat in Initial D untr
 Allerdings war es nicht nur ein Hilfsmittel für das Gelände und die visuelle Produktion, sondern ein **Gerät, das die Verzerrung der Zeit in Ton übersetzte**.
 
 Rückblickend können wir sagen, dass Eurobeat ein Genre war, das die „innere Zeit eines laufenden Körpers“ akustisch visualisierte.
-Rauschende Beats, überschäumende Melodien und sich wiederholende Refrains übersetzten körperliche Geschwindigkeit in emotionale Geschwindigkeit.
+Rauschende Beats, überschäumende Melodien und sich wiederholende Refrains verwandelten körperliche Geschwindigkeit in emotionale Geschwindigkeit.
 
 Im 21. Jahrhundert haben EDM, Trance, Synthwave und sogar Hyperpop diese Linie geerbt.
 Es ist nicht das Erbe eines Genres, sondern das Erbe eines Gefühls der Beschleunigung.
@@ -105,8 +105,8 @@ Dies ist eine technologische Nachstellung dessen, was Initial D früher mit Vide
 ### ● VR/AR-Fahrraum
 
 Soundscapes spielen in virtuellen Fahrumgebungen eine wichtige Rolle.
-Windgeräusche, Reifenreibung, Tunnelechos, Motorschwankungen ...
-Durch die Synchronisierung all dessen auf ein Eurobeat-ähnliches Tempo verstärkt sich das Gefühl des Eintauchens dramatisch.
+Windgeräusche, Reifenreibung, Tunnelechos, Motorschwankungen...
+Durch die Synchronisierung all dessen mit einem Eurobeat-ähnlichen Tempo verstärkt sich das Gefühl des Eintauchens dramatisch.
 
 „Touge“ steckt jetzt in einem VR-Headset.
 Und die im Inneren erzeugten Geräusche sind keine Nachstellung der Vergangenheit, sondern werden als **zukünftige Fahrerinnerungen** rekonstruiert.
@@ -135,18 +135,18 @@ Was diese Bemühungen zeigen, ist die Tatsache, dass Eurobeat von „Hörmusik�
 
 ## 5. Medien, die das „Gedächtnis der Geschwindigkeit“ teilen: KI-Remix, generative Musik, partizipatorischer Ausdruck
 
-Da die Generierung von KI-Musik mittlerweile alltäglich geworden ist, ist Eurobeat über ein „reproduzierbares Genre“ hinausgegangen.
+Da die KI-Musikgenerierung mittlerweile alltäglich geworden ist, ist Eurobeat über ein „reproduzierbares Genre“ hinausgegangen.
 Es entwickelt sich zu einem Genre, das von den Benutzern gesteuert wird.
 
 ### ● AI Drift Remix
 
 Wenn Sie das Fahrtprotokoll (Geschwindigkeit, Route, Kurveninformationen) in die KI eingeben,
 Erzeugt automatisch einen Track im Eurobeat-Stil, der diesem Fahrstil entspricht.
-Die Ära, in der „Ihr Auto zum Song wird“, beginnt auf dem Prüfstand bereits Realität zu werden.
+Die Ära, in der „Ihr Fahren zum Song wird“, beginnt auf dem Prüfstand bereits Realität zu werden.
 
 ### ● Eurobeat-Revival von SNS
 
-Auf TikTok und YouTube ist die Zahl der Posts, die „Eurobeat x eigenes Fahrvideo“ kombinieren, explosionsartig gestiegen.
+Auf TikTok und YouTube ist die Zahl der Posts, die „Eurobeat x dein eigenes Fahrvideo“ kombinieren, explosionsartig gestiegen.
 Dabei handelt es sich nicht nur um Nostalgie, sondern um ein „neues Format zum Teilen des Fahrgefühls“.
 Es handelt sich sozusagen um ein „Speed-Sharing-Medium“.
 

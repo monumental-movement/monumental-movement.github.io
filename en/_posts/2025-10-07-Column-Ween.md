@@ -237,7 +237,7 @@ flowchart TD
 | 1997 | [The Mollusk](https://amzn.to/48VBtpT) | A milestone in psych-pop |
 | 2000 | [White Pepper](https://amzn.to/4o6RI7P) | "Beatles-like Ween" |
 | 2003 | [Quebec](https://amzn.to/4gZ8SlA) | Fusion of introspection and experimentation |
-| 2007 | [La Cucaracha](https://amzn.to/46STLa9) | The last work that marks the end |
+| 2007 | [La Cucaracha](https://amzn.to/46STLa9) | The last work that marks the end of life |
 
 ---
 

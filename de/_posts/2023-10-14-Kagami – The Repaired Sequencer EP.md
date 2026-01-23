@@ -17,7 +17,7 @@ Ein Techno-Disco-Track von Kagami, der 2001 vom Techno-Label Frogman Records ver
 
 Der erste Titel auf der B-Seite ist ein Remix von Ben Tisdall und Daz Saunds Einheit Sound Associates.
 
-Der zweite Song auf Seite B ist ein Remix des deutschen DJs und Produzenten Thomas Schumacher.
+Der zweite Titel auf der B-Seite ist ein Remix des deutschen DJs und Produzenten Thomas Schumacher.
 
 #### Trackliste
 ```md

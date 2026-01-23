@@ -149,7 +149,7 @@ Her death sent a deep shock through the South African music world, with tributes
 ## Main albums
 
 * Early band albums
-*Black President
+* Black President
 * Now Is the Time
 *Paparazzi
 *Memeza

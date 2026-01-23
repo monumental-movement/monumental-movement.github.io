@@ -44,7 +44,7 @@ color: #fff;
 ## ◆ 1980–90er: Beginnt mit der Hip-Hop-Kultur
 Human Beatbox (im Folgenden als Beatbox bezeichnet) expandierte in den 1980er Jahren mit der Hip-Hop-Kultur an der Ostküste der Vereinigten Staaten. Zu den frühen Vertretern zählen Buff Love von The Fat Boys und Doug E. Fresh, dessen technisches System sich aus einer Drum-Machine-ähnlichen Imitation entwickelte.
 
-In den 1990er Jahren verbreitete sich Beatboxing durch Radio- und Live-Auftritte auf der ganzen Welt und Beatboxen begann sich allmählich als Ausdruck und nicht nur als Begleitung zu verselbständigen.
+In den 1990er Jahren verbreitete sich Beatboxing durch Radio- und Live-Auftritte auf der ganzen Welt und Beatboxen begann sich nach und nach als Ausdruck und nicht nur als Begleitung zu verselbständigen.
 
 ---
 
@@ -129,10 +129,10 @@ Zu den Stärken Japans gehören insbesondere „Tongenauigkeit“, „Kompositio
 # 5. Japanische Beatbox-Kultur und Eigenschaften
 
 ## ◆ 1. Gemeinschaftskultur
-In Japan hat es sich seit Mitte der 2000er Jahre auf den Straßen und bei Veranstaltungen verbreitet, und die Techniken werden zwischen den Künstlern durch Übungsstunden und die Teilnahme an Wettbewerben weitergegeben.
+In Japan hat es sich seit Mitte der 2000er Jahre auf den Straßen und bei Veranstaltungen verbreitet, und Techniken werden zwischen Künstlern durch Übungsstunden und die Teilnahme an Wettbewerben weitergegeben.
 
 ## ◆ 2. Starke technische Ausrichtung
-Japanische Spieler zeichnen sich durch Klanggenauigkeit und Liebe zum Detail aus und werden sogar von ausländischen Spielern gelobt.
+Japanische Spieler zeichnen sich durch Klanggenauigkeit und Liebe zum Detail aus und werden selbst von ausländischen Spielern hoch gelobt.
 
 ## ◆ 3. Fusion mit Video- und Bearbeitungskultur
 Hauptsächlich auf YouTube und SNS,
@@ -173,7 +173,7 @@ Er hat dazu beigetragen, den Bekanntheitsgrad von Loopstation-Spielern in Japan 
 
 ### ● Präzise Technik
 RUSY ist für seine äußerst präzisen Rhythmen und geschmeidigen Kombinationstechniken bekannt und hat vor allem bei nationalen Turnieren in Japan großes Lob erhalten.
-Die Merkmale sind:
+Zu den Funktionen gehören:
 
 - enge Rille
 - Klare und dichte Aussprache
@@ -200,7 +200,7 @@ Es ist in diesem Teil.
 - Entwicklung, die den Schalldruck nutzt
 - Einbindung detaillierter Technologie in Schlüsselpunkte
 
-Unter den neueren japanischen Spielern ist er ein Spieler mit einem Ton, der bei Live-Auftritten heraussticht.
+Unter den jüngsten japanischen Spielern ist er ein Spieler mit einem Ton, der bei Live-Auftritten heraussticht.
 
 ---
 
@@ -218,7 +218,7 @@ Die Kategorie, die in den letzten Jahren die meiste Aufmerksamkeit erhalten hat,
 Es gibt ein starkes Musikproduktionselement.
 
 ## ◆ Vitrinen / Ausstellung
-Schwerpunkt auf Musikalität. Mit zunehmender Reife der Turnierkultur kamen neue Formate hinzu.
+Betonung der Musikalität. Mit zunehmender Reife der Turnierkultur kamen neue Formate hinzu.
 
 ---
 

@@ -106,7 +106,7 @@ Easel itself functions as a "complete music system" without the need for externa
 * **Envelope**: Automatically controlled, gated, loopable.
 * **Reverb**: Natural reverberation with spring reverb.
 
-The idea that integrates these is not "portability" but "improvisation", and the center of music production has shifted from "thinking" to "tactile sensation".
+The idea that unifies these is not "portability" but "improvisation", and the center of music production has shifted from "thinking" to "tactile sensation".
 
 ---
 

@@ -23,7 +23,7 @@ title: '[Column] Alpha Blondy and apartheid: the message of freedom and resistan
 
 ## Introduction
 
-Text: mmr｜Theme: Alpha Blondy's life, musical characteristics, relationship with apartheid, analysis of each album, local reactions, and the impact of his music on society.
+Text: mmr｜Theme: Alpha Blondy's life, musical characteristics, relationship with apartheid, analysis of each album, local reactions, and the impact his music had on society.
 
 
 Ivorian reggae artist **Alpha Blondy** has been active internationally since the late 1970s, and has made it his life's work to convey social and political messages in his music.
@@ -166,7 +166,7 @@ Expressing the "spirit of freedom and peace" based on Rastafarian ideology.
 - Alpha Blondy's activities gave courage to South African reggae artists.
 - Some artists imitate his songs and create their own protest songs.
 
-### 7.2 International impact
+### 7.2 International influence
 - Inform listeners around the world about the current state of apartheid and promote international solidarity.
 - His songs were used at many charity events and anti-apartheid concerts.
 
@@ -197,7 +197,7 @@ Even after apartheid ended in 1994, Alpha Blondy continued to put social message
 - Express the weight of social messages with a heavy base
 2. **Lyrics structure**
 - Uses both direct messages and metaphors to depict the reality of oppression
-3. **Multilingual Effects**
+3. **Multilingual effects**
 - Understandable to listeners from different cultures and countries
 - Arouses international sympathy
 

@@ -107,7 +107,7 @@ Die Verbreitung von Acid Jazz war auch eng mit der Geopolitik in Europa, den Ver
 
 #### US-Szene
 
-Acid Jazz wurde als „Reimport“ wahrgenommen. In den Vereinigten Staaten existierten 70er-Jahre-Jazz-Funk und -Soul als Originale, so dass die Bezeichnung „Acid Jazz“ aus Großbritannien frisch wirkte und in den Clubszenen von New York und Chicago übernommen wurde.
+Acid Jazz wurde als „Reimport“ wahrgenommen. In den Vereinigten Staaten gab es den ursprünglichen Funk- und Soul-Jazz der 70er Jahre, daher wirkte die Bezeichnung „Acid Jazz“ aus Großbritannien frisch und wurde von den Clubszenen von New York und Chicago übernommen.
 
 そして[ディー・ライト（Deee-Lite）](https://amzn.to/3W7JKj0)のように、ヒップホップとリンクしながら拡張。
 一方で、ヒップホップとの接点が強調され、[A Tribe Called Quest](https://amzn.to/4n1XXZO) や [Gang Starr](https://amzn.to/46QAJBa) のようなジャズ・ヒップホップへの橋渡し役を果たしました。
@@ -184,7 +184,7 @@ Acid Jazz ist „intellektuelle und tanzbare Musik“, die aus der urbanen Kultu
 
 Die Musik entstand aus der Verschmelzung der Londoner Einwandererkultur, der Clubkultur und der Unzufriedenheit der postindustriellen Gesellschaft.
 
-In Europa entwickelte es sich zum Tourismus und zur städtischen Kultur nach der Wiedervereinigung, in den Vereinigten Staaten wurde es mit Hip-Hop kombiniert und in Japan entwickelte es sich zu Shibuya-kei und Club-Jazz.
+In Europa entwickelte sich daraus nach der Wiedervereinigung Tourismus und Stadtkultur, in den USA wurde es mit Hip-Hop kombiniert und in Japan entwickelte sich daraus Shibuya-kei und Club-Jazz.
 
 Das Ende des Kalten Krieges und die Globalisierung förderten seine Verbreitung und es diente als geopolitisches Symbol für Freiheit und Austausch.
 

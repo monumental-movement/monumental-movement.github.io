@@ -74,7 +74,7 @@ Diese Zeit war geprägt von **Innovationen in der Aufführungstechnik**. Zusätz
 
 Von den 1990er bis 2000er Jahren begann das Kronos Quartett, über die Grenzen der klassischen Musik hinauszugehen und sich mit Genres wie Weltmusik, Pop, Filmmusik und Jazz zu vermischen.
 
-Besonders hervorzuheben sind Innovationen in der Filmmusik mit dem im Jahr 2000 veröffentlichten Film „Requiem for a Dream“. Komponiert von Clint Mansell, aufgeführt vom Kronos Quartet. „Lux Aeterna“ und andere Stücke des Streichquartetts waren durch ihre wiederholte Motivation, den Aufbau von Spannung und die Verstärkung von Emotionen überwältigend wirkungsvoll, was allesamt mit der psychologischen Darstellung des Films zusammenhängt.
+Besonders hervorzuheben sind Innovationen in der Filmmusik mit dem im Jahr 2000 veröffentlichten Film „Requiem for a Dream“. Komponiert von Clint Mansell, aufgeführt vom Kronos Quartet. „Lux Aeterna“ des Streichquartetts und andere Stücke waren durch ihre sich wiederholenden Motive, den Aufbau von Spannung und die Verstärkung von Emotionen überwältigend wirkungsvoll, was allesamt mit der psychologischen Darstellung des Films zusammenhängt.
 
 ### Film-Soundtrack-Funktionen
 
@@ -83,7 +83,7 @@ Besonders hervorzuheben sind Innovationen in der Filmmusik mit dem im Jahr 2000 
 
 * Wiederholte kurze Motive (rhythmische Wiederholung)
 * Spannungsgefühl aufgrund plötzlicher Dynamikänderungen
-* Kontinuierlicher Einsatz von Crescendo und Diminuendo durch Streichinstrumente
+* Kontinuierliche Verwendung von Crescendo und Diminuendo durch Streichinstrumente
 * **Technische Innovation**:
 
 * Anwendung minimaler Musiktechniken auf Filmmusik
@@ -123,7 +123,7 @@ Besonders hervorzuheben sind Innovationen in der Filmmusik mit dem im Jahr 2000 
 
 ---
 
-### Integrieren Sie Filmmusik in die Chronologie
+### Filmmusik in die Chronologie integrieren
 
 
 <div class="mermaid">
@@ -162,11 +162,11 @@ graph TD
 
 ## 5. Bildung/Soziale Aktivitäten/Neue Projekte (2000er – heute)
 
-Neben der Aufführung liegt der Schwerpunkt des Kronos Quartetts auch auf pädagogischen und sozialen Projekten.
+Neben der Auftrittstätigkeit liegt der Schwerpunkt des Kronos Quartetts auch auf pädagogischen und sozialen Projekten.
 
 * **Workshop/Ausbildungsprogramm**: Betreuung an Universitäten und Musikschulen, Ausbildung junger Musiker.
 * **Aktivitäten zum kulturellen Austausch**: Konzerte auf der ganzen Welt, gemeinsame Auftritte mit lokalen Musikern.
-* **Werke zu sozialen Themen**: Produktion von Musikwerken mit Bezug zu Konflikten, Umweltthemen und Menschenrechten.
+* **Werke zu sozialen Themen**: Produktion von Musikwerken mit Bezug zu Konflikten, Umweltproblemen und Menschenrechten.
 
 Ihr neuestes Album vertieft ihre Zusammenarbeit mit traditioneller Musik weiter und kombiniert technisch fortschrittliche Aufnahme und Performance.
 

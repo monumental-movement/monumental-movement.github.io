@@ -134,7 +134,7 @@ Der technische Hintergrund von Modular Techno ist ein Mechanismus, der jedes Mod
 
 Modulare Synthesizer erzeugen Klang, indem sie Module mit Funktionen wie Klangquellen, Filter, Hüllkurven, LFOs, VCFs und VCAs kombinieren und über Kabel verbinden. Der akustische Aufbau bleibt ganz dem Design des Nutzers überlassen und es gibt keine festen Voreinstellungen. Dieser Punkt passt gut zum Ansatz des Techno, bei dem die Improvisation im Vordergrund steht.
 
-Ein wesentliches Merkmal des Eurorack-Standards besteht darin, dass Module verschiedener Hersteller durch die Standardisierung der 3U-Größe, der Modulbreite HP und der Leistungsspezifikationen frei kombiniert werden können. Dies ist seit den 2000er Jahren ein Faktor für die weltweite Ausbreitung der modularen Synthesizer-Kultur.
+Ein wesentliches Merkmal des Eurorack-Standards besteht darin, dass Module verschiedener Hersteller durch die Standardisierung der 3U-Größe, der Modulbreite HP und der Netzteilspezifikationen frei kombiniert werden können. Dies ist seit den 2000er Jahren ein Faktor für die weltweite Ausbreitung der modularen Synthesizer-Kultur.
 
 ## Rolle von Sequenzer und CV/Gate
 
@@ -271,12 +271,12 @@ Der Wandel von der „Spurwiedergabe“ zur „Klangerzeugung“ hat auch die Au
 
 ---
 
-# Zukunftsaussichten
+# Zukunftsausblick
 
 Es wird erwartet, dass sich Modular Techno weiterentwickeln wird, und zwar in mehrere Richtungen.
 
 ## 1. Ausgereiftheit des digitalen Moduls
-Fortschritte in der DSP-Technologie haben zu einer Zunahme digitaler Module geführt, die mit physikalischer Modellierung, Partikelsynthese und komplexen FM-Algorithmen ausgestattet sind. Dadurch ist es möglich, akustische Ausdrücke zu verarbeiten, die bisher in Echtzeit nicht möglich waren.
+Fortschritte in der DSP-Technologie haben zu einer Zunahme digitaler Module geführt, die mit physikalischer Modellierung, Partikelsynthese und komplexen FM-Algorithmen ausgestattet sind. Dadurch ist es möglich, akustische Ausdrucksformen in Echtzeit zu verarbeiten, die bisher nicht möglich waren.
 
 ## 2. Verallgemeinerung von Hybrid-Live
 Die Konfiguration modular + PC (Ableton, Bitwig) + Drumcomputer wird noch häufiger vorkommen und die Grenzen zwischen traditionellen Club-Sets und Live-Auftritten werden verschwimmen.
@@ -301,7 +301,7 @@ Der Grund dafür ist die grundlegendste Freude an der elektronischen Musik: „d
 
 ---
 
-# Detaillierte Ausstattungsliste (häufig verwendete Module von Modular Techno)
+# Detaillierte Ausstattungsliste (Modular Techno häufig verwendete Module)
 
 Im Folgenden finden Sie eine Zusammenstellung von Gerätekategorien, die häufig von echten Modular-Techno-Künstlern verwendet werden, mit Schwerpunkt auf Eurorack.
 
@@ -371,7 +371,7 @@ Der Live-Auftritt des Surgeon-Duos mit Daniel Bean zeichnet sich durch einen Ans
 
 ## Alte Methoden
 
-Während er Techno mit einem starken Industrial-/EBM-Ton entwickelt, führt er bei Live-Auftritten auch Verzerrung und Rauschverarbeitung mithilfe analoger Module ein. Modularität wird häufig als Quelle für harte Texturen verwendet.
+Während er Techno mit einem starken Industrial-/EBM-Ton entwickelt, führt er bei Live-Auftritten auch Verzerrung und Geräuschverarbeitung mithilfe analoger Module ein. Modularität wird häufig als Quelle für harte Texturen verwendet.
 
 ## Rødhåd
 
@@ -408,7 +408,7 @@ flowchart TD
 
 ---
 
-### Patch-Beispiel 2: Rhythmuserzeugung mit Zufallselementen
+### Patch-Beispiel 2: Rhythmusgenerierung mit Zufallselementen
 
 <div class="mermaid">
 flowchart TD

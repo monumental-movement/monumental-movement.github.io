@@ -16,7 +16,7 @@ title: Marvin Gaye – I Heard It Through The Grapevine
 
 „I Heard It Through The Grapevine“ ist das achte Studioalbum des Soulmusikers Marvin Gaye.
 
-Das Album erschien ursprünglich unter dem Titel „In the Groove“, wurde aber in den gleichen Titel geändert, nachdem „I Heard It Through The Grapevine“ ein Hit wurde.
+Das Album erschien ursprünglich unter dem Titel „In the Groove“, wurde jedoch in den gleichen Titel geändert, nachdem „I Heard It Through The Grapevine“ ein Hit wurde.
 
 #### Trackliste
 ```md

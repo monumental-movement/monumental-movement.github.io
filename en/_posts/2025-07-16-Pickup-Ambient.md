@@ -319,7 +319,7 @@ Features: Fusion of folk music and electronic sounds, Grammy nominee, signature 
 <td><a href="https://jp.mercari.com/item/m94070661611?afid=6142608987">Dub Tractor <br />- <em>Scary H H Loop…</em></a></td>
 <td>1997</td>
 <td>12"</td>
-<td>Experimental trip hop/ambient</td>
+<td>Experimental Trip Hop/Ambient</td>
 </tr>
 <tr>
 <td><a href="https://jp.mercari.com/item/m88603722096?afid=6142608987">Calm <br />- <em>People From…</em></a></td>

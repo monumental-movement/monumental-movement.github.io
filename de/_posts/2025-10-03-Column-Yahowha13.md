@@ -43,7 +43,7 @@ color: #fff;
 Geboren am 4. Juli 1922 in Cincinnati, Ohio. Später spricht er über seine Erfahrungen als Marinesoldat (obwohl einige darauf hinweisen, dass seine Silver Star-Medaille nicht in offiziellen Aufzeichnungen zu finden ist).
 
 
-Als er an die Westküste zog, widmete er sich der Bewegung des natürlichen Lebens, dem Vegetarismus, der Hippie-Kultur und dem mystischen Denken. Er eröffnete ein Bio-Restaurant namens „The Source“ am Sunset Strip in Los Angeles, das Berichten zufolge viele berühmte Kunden anzog.
+Als er an die Westküste zog, widmete er sich der Bewegung des natürlichen Lebens, dem Vegetarismus, der Hippie-Kultur und dem mystischen Denken. Er eröffnete am Sunset Strip in Los Angeles ein Naturkostrestaurant namens „The Source“, das Berichten zufolge viele berühmte Kunden anzog.
 
 
 Schließlich gründete er, beeinflusst von Yogi Bhajans Kundalini-Yoga-Philosophie, seine eigene religiöse Bewegung, Source Family. Die von ihm geleitete Gruppe entwickelte einen Lebensstil, der Gemeinschaftsleben, spirituelle Praktiken, Musik, Ernährungs- und Gesundheitspraktiken sowie Rituale umfasste.
@@ -58,7 +58,7 @@ Ehe, Ehefrauen und Kinder: Seine rechtmäßige Ehefrau war Robin Popper (später
 Journalismus und Sachartikel haben diese Doppelnatur untersucht, mit Anekdoten über ihn als „Soldat/ehemaliger Marinesoldat/Kriegsheld“ und Geschichten über ihn als „Sektenführer/ehemaliger Marinesoldat/Bankräuber“ mit Vorwürfen der Beteiligung an Banküberfällen und Morden.
 
 
-Während die Gemeinde aktiv war, gab es Aufzeichnungen zufolge Streitigkeiten, die typisch für Sektenoperationen sind, wie zum Beispiel „Herausgabe von persönlichem Eigentum“, „Entfernung von Verwandten“ und „Erlaubnis, junge Mitglieder zu heiraten“.
+Es gibt Aufzeichnungen darüber, dass es während der Existenz der Kommune zu Streitigkeiten kam, die typisch für Sektenoperationen sind, wie zum Beispiel „Aufgabe von persönlichem Eigentum“, „Entfernung von Verwandten“ und „Erlaubnis, junge Mitglieder zu heiraten“.
 
 
 Am 25. August 1975 kam er bei einem Unfall ums Leben, als er auf Hawaii seinen ersten Drachenflug versuchte (er stürzte ab und starb etwa 9 Stunden später). Dieser Unfall wurde praktisch zu einem Ereignis, das das „Ende“ von Yahooha13 symbolisierte.
@@ -73,7 +73,7 @@ Danach zerstreuten sich die Mitglieder der Gemeinde, was jedoch durch Tonarchive
 
 #### Konstituierende Mitglieder und Namensgeschichte
 
-Kernbesetzung: Hauptsächlich Djin Aquarian (Gitarre), Octavius ​​​​Aquarian (Schlagzeug) und Sunflower Aquarian (Bass), zusammen mit anderen Musikern mit Aquarian-Nachnamen wie Lovely, Hom, Rhythm, Pythias und Aquarian.
+Kernbesetzung: Hauptsächlich Djin Aquarian (Gitarre), Octavius ​​​​Aquarian (Schlagzeug) und Sunflower Aquarian (Bass), zusammen mit anderen Musikern, die an den „Aquarian Nachnamen“ glauben, wie Lovely, Hom, Rhythm, Pythias, Aquarian.
 
 
 Ursprünglich unter dem Namen „Father Yod & The Spirit of ’76“ veröffentlicht. Danach wurde mit einigen Schwankungen die Notation wie „Ya Ho Wa 13 / Yahowha13 / YaHoWha13 / Yahowa 13“ verwendet.
@@ -101,7 +101,7 @@ Komplett improvisierte Darbietung: Viele der Aufnahmen wurden ohne Probe, ohne O
 Starker Einsatz von Stammestrommeln, Glocken, Dosen, Gesängen, weißem Rauschen, lauten Gitarren usw. Die Komposition ähnelt eher einer „zeremoniellen Akustik“ als einem Lied.
 
 
-Obwohl einige Lieder manchmal eine melodische/singende Struktur haben, liegt der Schwerpunkt insgesamt auf klanglichen Experimenten mit einem Schwerpunkt auf Räumlichkeit, Wiederholung und Ritual.
+Obwohl einige Lieder manchmal eine melodische/singende Struktur haben, liegt der Gesamtschwerpunkt auf klanglichen Experimenten mit einem Schwerpunkt auf Räumlichkeit, Wiederholung und Ritual.
 
 Texte und Gesang (Gesänge von Pater Yod, linienartige Rezitationen und Gemeindechöre) sind oft eng mit Lehren, Gesängen und meditativen Texten verbunden.
 
@@ -143,7 +143,7 @@ Nach 1975 löste sich die Band aufgrund des Todes von Pater Yod auf. Laienmusike
 1977 wurden Golden Sunrise (unter dem Namen Fire Water Air) und Yodship Suite (Private Press) veröffentlicht. Es gibt auch eine Zusammenarbeit mit Sky Saxon (ehemals The Seeds) und Gesangsbeteiligung.
 
 
-Seit den 2000er Jahren kam es zu Neuauflagen und Archivnachdrucken, fragmentarischen Neuaufnahmen und Mitgliedertreffen (Sonic Portation von Djin, Sunflower, Octavius ​​etc.).
+Seit den 2000er Jahren kam es zu Neuauflagen und Archivnachdrucken, fragmentarischen Neuaufnahmen und Mitgliedertreffen (wie Sonic Portation von Djin, Sunflower, Octavius ​​etc.).
 
 
 ---
@@ -154,7 +154,7 @@ Im Folgenden finden Sie eine Liste der wichtigsten Werke im Zusammenhang mit Yah
 
 
 | Jahr | Albumname | Erklärung | Link |
-| ---------- | ------------------------------------ | ------------------------------------- | ---------------------------------------------------------------------------- |
+| ---------- | ------------------------------------ | ------------------------------------- | ------------------------------------------------------------- |
 | 1973       | *Kohoutek*                           | Spirit of ’76 名義の最初期録音、実験性と荒さを特徴とする | [Amazon](https://amzn.to/4ny1yQf)                   |
 | 1974       | *Contraction*                        | 音響実験深化、初期 YaHoWa 期の過渡期              | [Amazon](https://amzn.to/4nW1868)                |
 | 1974 | *Erweiterung* | Enthält viele konzeptionelle Improvisationsfragmente | - |
@@ -270,7 +270,7 @@ Punkt: Eine Reihe „kosmischer“ Serien. Akustische Experimente (Schlagzeug, G
 [Ya Ho Wa 13（1974）](https://www.discogs.com/release/5024800-Ya-Ho-Wa-13-Ya-Ho-Wa-13)
 
 
-Punkt: Der Kern der Selbstaufzeichnung. Während der Aufnahmen in Garage begann die Band, eine improvisatorische Struktur zu bilden. Djin (Gitarre) / Sunflower (Bass) / Octavius ​​(Schlagzeug) und andere werden benötigt.
+Punkt: Der Kern der Selbstaufzeichnung. Während der Aufnahmen in Garage begann die Band, eine improvisatorische Struktur zu bilden. Djin (Gitarre) / Sunflower (Bass) / Octavius ​​​​(Schlagzeug) und andere werden benötigt.
 
 
 ---
@@ -334,7 +334,7 @@ Ein religiöser Führer und das „Gesicht“ der Band. Er betreibt das Naturkos
 
 - **Djin Aquarian (Gitarre)**
 
-Das Hauptmitglied, das die „Improvisationsgitarre“ der Band spielte. In späteren Jahren arbeitete er weiterhin alleine/zusammen. In Interviews und Archiven wird er oft als zentrale Figur dieser Zeit bezeichnet.
+Das Hauptmitglied, das die „Improvisationsgitarre“ der Band spielte. In späteren Jahren arbeitete er weiterhin alleine/zusammen. In Interviews und Archiven wird er oft als zentrale Figur der damaligen Zeit bezeichnet.
 
 
 - **Sonnenblume (Patrick Sunflower Aquarian, Basis)**
@@ -354,7 +354,7 @@ Archiv/Herausgeber/Aufzeichner von Source Family. Sein Buch „The Source: The U
 
 - **Sky Saxon (aus The Seeds)**
 
-Er ist dafür bekannt, dass er eine Zeit lang Teil der Source Family war und an den Aufnahme-/Neuveröffentlichungsprojekten von Ya Ho Wha beteiligt war (einschließlich der Japan-Box von 1998).
+Er ist dafür bekannt, eine Zeit lang Teil der Source Family zu sein und an den Aufnahme-/Neuveröffentlichungsprojekten von Ya Ho Wha beteiligt zu sein (einschließlich der Japan-Box von 1998).
 
 
 ---
@@ -467,7 +467,7 @@ Der Klang „Ya Ho Wha“ selbst ist ein heiliges Mantra der Quellfamilie, ein A
 
 **Psych-Reissue-Boom der 90er-Jahre**: P.S.F. Records und Captain Trip Records haben Yahooha 13 aktiv eingeführt.
 
-Es wurde in Magazinen wie „Eureka“ und „Eurorock Press“ als „geheimnisvolles Kult-Psychedelikum“ beschrieben und wird von japanischen Hörern eifrig gesammelt.
+In Magazinen wie „Eureka“ und „Eurorock Press“ wurde es als „Phantomkult-Psychedelikum“ beschrieben und japanische Hörer sammeln es eifrig.
 
 **Bewertungstendenzen**: In Japan wird es als „ketzerisch“ und „esoterisch-psychedelisch“ geliebt und ist in importierten Plattenläden (Disc Union, Melon, Manhattan Records usw.) zu einem Sammlerstück geworden.
 
@@ -512,7 +512,7 @@ Mitglied Octavius ​​​​bezeugt: „Er ließ uns spielen, aber gleichzeiti
 
 #### Gemeinschaftsleben und Musik
 
-Die Source-Familie lebte zusammen in einem Hollywood-Herrenhaus namens The Father House, wo sie täglich Meditation, Vegetarismus, Yoga und Gruppenaktivitäten praktizierte.
+Die Source-Familie lebte zusammen in einer Hollywood-Villa namens The Father House, wo sie täglich Meditation, Vegetarismus, Yoga und Gruppenaktivitäten praktizierte.
 
 Musik machen war eine „Verlängerung des Alltagslebens“ und sein Wohnzimmer und Keller wurden zu seinem Studio.
 
@@ -548,7 +548,7 @@ Die Musik von Yahowha 13 ist kein „Lied“, sondern eine „Aufzeichnung des G
 
 Die Texte hatten eher eine mantraartige Kraft als eine Bedeutung.
 
-Pater Yod ist kein Künstler, sondern ein „spiritueller Dirigent“.
+Pater Yod ist kein Performer, sondern ein „spiritueller Dirigent“.
 
 Auch nach seinem Tod lebt seine Musik als „spirituelles Erbe“ weiter.
 
@@ -563,4 +563,4 @@ Die Musik von Yahowha 13 und Father Yod war mehr als nur psychedelischer Rock, s
 
 Seine Aufnahmen, wie die Alben „Penetration: An Aquarian Symphony“ und „I’m Gonna Take You Home“, dokumentieren eine Verschmelzung von religiösem Ritual und psychedelischer Improvisation, die auch für moderne Hörer noch immer eine eindrucksvolle Wirkung hat. In den USA wurde es als Dokument der Kultgeschichte, in Deutschland als akustisches Experiment und in Japan als esoterische psychedelische Religion neu bewertet, wobei jede Kultur ihre eigenen, einzigartigen Interpretationen entwickelte.
 
-Heute ist die Musik von Yahowha 13 durch Streaming und Neuauflagen allgemein zugänglich und ihre Kultvergangenheit beeinflusst weiterhin die zeitgenössische Musikszene. Der Geist von Pater Yod und der experimentelle Geist von Source Family gehen über die bloße Musik hinaus und fordern auch neue Generationen heraus, die Möglichkeiten von Gemeinschaft, Improvisation und Spiritualität zu entdecken.
+Heute ist die Musik von Yahowha 13 durch Streaming und Neuauflagen allgemein zugänglich, und ihre Kultvergangenheit hat in ihrem Einfluss auf die zeitgenössische Musikszene ihren Höhepunkt gefunden. Der Geist von Pater Yod und der experimentelle Geist von Source Family gehen über die reine Musik hinaus und fordern auch neue Generationen heraus, die Möglichkeiten von Gemeinschaft, Improvisation und Spiritualität zu entdecken.

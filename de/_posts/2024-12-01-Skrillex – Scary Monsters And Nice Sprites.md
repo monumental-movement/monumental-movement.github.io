@@ -15,7 +15,7 @@ title: Skrillex – Gruselige Monster und nette Sprites
 ---
 
 
-Japanische Version, veröffentlicht im Jahr 2012. Die Titel 1 bis 6 sind Originalsongs von Skrillex. Das siebte Lied ist ein Remix des niederländischen Drum-and-Bass-Trios Noisia. Der 8. Song ist ein Remix von DJ und Produzent Zedd, bekannt für „Clarity“ und Ariana Grandes Hit „Break Free“.
+Japanische Version im Jahr 2012 veröffentlicht. 7. Song ist ein Remix von DJ und Produzent Zedd, der für „Clarity“ und den Hit von Ariana Grande bekannt ist ``Break Free.''
 
 Der neunte Titel ist ein Remix von Bare Noize, dem Produktionsduo Daniel Brown und Oliver Pile.
 

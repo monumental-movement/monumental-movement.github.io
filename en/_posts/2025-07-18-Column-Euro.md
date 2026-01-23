@@ -162,7 +162,7 @@ Produced in Italy and Germany, planned in Japan, domestic CD (e.g. MAHARAJA NIGH
 
 <hr>
 
-### Why did the critics ignore it? ──"Lightness" and "Anti-Art"
+### Why did the critics ignore it? ──"Lightness" and "Anti-art"
 
 Euro music was not well received by critics for a long time. The reason is as follows:
 
@@ -266,7 +266,7 @@ Is it nostalgia or newness for you?
 <td>Tam Arrow</td>
 <td><a href="https://jp.mercari.com/item/m53285819387?afid=6142608987">One ​​Shot Girl</a></td>
 <td>Vinyl</td>
-<td>Made in Italy 2001 Euro Beat EP</td>
+<td>2001 Made in Italy Euro Beat EP</td>
 </tr>
 <tr>
 <td>Dao Dezi</td>

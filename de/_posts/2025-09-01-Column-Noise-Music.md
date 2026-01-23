@@ -154,4 +154,4 @@ Diversifizierung durch modulares Synthesizer-Revival und Laptop-Akustik.
 ---
 
 ## Am Ende
-Noise-Musik ist immer eine Herausforderung an die bestehende Ästhetik und ein Versuch, die Grenzen der Musik zu erweitern. Von Russolos mechanischen Klängen bis hin zu modularen Synthesizern liegt ihr Wesen auch nach mehr als 100 Jahren Geschichte darin, „auf den Klang selbst zu hören“.
+Noise-Musik ist immer eine Herausforderung an die bestehende Ästhetik und ein Versuch, die Grenzen der Musik zu erweitern. Von Russolos mechanischen Klängen bis hin zu modularen Synthesizern besteht die Essenz aller Instrumente auch nach mehr als 100 Jahren Geschichte darin, „auf den Klang selbst zu hören“.

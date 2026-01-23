@@ -58,7 +58,7 @@ In ihrer Jugend wandte sich Cindy der Kunst zu, malte, schrieb Gedichte und prob
 
 Das Leben von Cyndi Lauper hat ein einheitliches Thema. Es ist ein starker Wille, der sagt: „Ich möchte ich selbst sein.“ Dieser Wille wurde geschärft, als sie etwa 20 Jahre alt war und durch die überfüllten Straßen von New York zog.
 
-Während dieser Zeit trug sie einzigartige Modekombinationen in Secondhand-Läden und auf Flohmärkten. Die „einzigartige und farbenfrohe Mode“, die später auf den Markt kam, entstand zum Teil, weil sich die Menschen in der Armut keine neuen Artikel leisten konnten.
+Während dieser Zeit trug sie einzigartige Modekombinationen in Secondhand-Läden und auf Flohmärkten. Die „einzigartige und farbenfrohe Mode“, die später auf den Markt kam, entstand zum Teil, weil die Menschen es sich in der Armut nicht leisten konnten, neue Artikel zu kaufen.
 
 Die Wurzeln der Musik sind Soul, Blues, Rock und Musicals. Die Stadt New York war für sie die beste „kostenlose Musikhochschule“.
 
@@ -135,7 +135,7 @@ Es heißt, dass sich in dem Lied die Gefühle einer Zeit widerspiegeln, in der d
 
 ### **She Bop**
 
-Es war für seine Zeit ein sehr gewagtes Lied, ein Popsong über Sexualität.
+Für die damalige Zeit war es ein sehr kühnes Lied, ein Popsong über Sexualität.
 
 ---
 
@@ -171,7 +171,7 @@ Währenddessen verursacht Cindy einen „Zwischenfall“.
 Die zahlreichen Accessoires, die sie um den Hals trug, trafen das Mikrofon und verursachten ein klapperndes Geräusch.
 
 Ingenieur: „Was ist das für ein Geräusch?“
-Quincy Jones: „Cindy, kannst du... das nehmen?“
+Quincy Jones: „Cindy, kannst du... das ertragen?“
 
 Cindy brach in Gelächter aus und sagte: „Oh, tut mir leid!“ Als sie ihre Accessoires abnahm, soll sich die Atmosphäre sofort entspannt haben.
 
@@ -201,7 +201,7 @@ Cindy legte keinen Wert darauf, „erfolgreiche Formen zu wiederholen“ und leg
 
 # **12. Herausforderung am Broadway: Gewinnt den Tony Award für „Kinky Boots“**
 
-2013 war er für den Text und die Komposition des Musicals „Kinky Boots“ verantwortlich, das ihm den Tony Award für den besten Originalsong einbrachte.
+2013 war er für Text und Komposition des Musicals „Kinky Boots“ verantwortlich und gewann den Tony Award für den besten Originalsong.
 
 Ursprünglich wuchs Cindy nicht nur als Sängerin auf, sondern war auch stark von der Ausdruckskultur wie Film und Theater beeinflusst. Dies wurde in Form des Broadway verwirklicht.
 
@@ -230,7 +230,7 @@ In den 2020er Jahren gab Cyndi Lauper ihren Abschied bekannt (nicht ihren Ruhest
 Aber sie geht nicht in den Ruhestand.
 Dies zeigt den starken Wunsch, kulturelle Aktivitäten auch über die Musik hinaus fortzusetzen.
 
-Jetzt entdecken jüngere Generationen Cindy über YouTube und TikTok wieder und schätzen ihre Stimme, Mode und Lebensweise.
+Jüngere Generationen entdecken Cindy jetzt über YouTube und TikTok wieder und schätzen ihre Stimme, Mode und Lebensweise.
 
 ---
 

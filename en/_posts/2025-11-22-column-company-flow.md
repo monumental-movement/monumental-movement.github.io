@@ -231,7 +231,7 @@ It is composed of elaborate metaphors and abstract expressions.
 * Contents that symbolize underground hip-hop in the late 90s
 * Many prototype elements of later Def Jux works (Cannibal Ox, etc.) can be seen.
 
-It is said that ""Funcrusher Plus" established an ""underground ideology" around this song.
+It is said that ""Funcrusher Plus" established ""the underground as an ideology" around this song.
 
 ---
 

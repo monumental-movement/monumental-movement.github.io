@@ -53,7 +53,7 @@ Andererseits vermischten sich afroamerikanische Radio-DJ-Kultur (z. B. Kuratoren
 
 - Der Detroit-Stil ist kälter und mechanischer als House, hat aber „Melodie und Emotion“.
 
-Die Grenze zwischen DJ und Produzent verschwamm und die Songs wurden durch Spielpraxis (Mischen/Reagieren) in Clubs verfeinert.
+Die Grenze zwischen DJ und Produzent verschwamm und die Songs wurden durch Spielpraxis (Mixing/Reagieren) in Clubs verfeinert.
 
 <hr>
 
@@ -71,7 +71,7 @@ Die Grenze zwischen DJ und Produzent verschwamm und die Songs wurden durch Spiel
 
 #### **Derrick May / Rhythim Is Rhythim**
 
-„Strings of Life“ (1987) ist eine Hymne, die den Club mit ihrem emotionalen, klavierphrasenartigen Synthesizer und treibenden Rhythmus erschütterte. Es ist ein Song, der sowohl im Techno als auch im House Einfluss hat.
+„Strings of Life“ (1987) ist eine Hymne, die mit ihrem emotionalen, klavierphrasenartigen Synthesizer und dem treibenden Rhythmus den Club erschütterte. Es ist ein Song, der sowohl im Techno als auch im House Einfluss hat.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HE8x4EZgOos?si=dWyKg9KfmJMEky5F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

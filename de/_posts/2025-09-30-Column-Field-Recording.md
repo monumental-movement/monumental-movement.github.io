@@ -77,7 +77,7 @@ Die Aufnahme vor Ort ist die Dreifaltigkeit von „Mikrofon + Aufnahmegerät + S
 | **Hildegard Westerkamp** | Soundwalk/Akustische Ökologie-Bewegung. Werke: *Kits Beach Soundwalk* | Ursprünglich Nagra-Band, jetzt komplett digitale Geräte |
 | **Toshiya Tsunoda** | Japanischer Klangkünstler. Nehmen Sie winzige Geräusche aus Containern und in der Stadt auf. Repräsentative Werke: *Auszug aus dem Field Recording Archive* | DAT-Recorder, Kondensatormikrofon, Kontaktmikrofon |
 | **Francisco López** | Unbearbeitete oder verarbeitete Umgebungsgeräusche aus aller Welt zur Schaffung von Werken. Repräsentative Werke: *La Selva* | DAT-Recorder (früh), derzeit Sound Devices, Schoeps-Mikrofon |
-| **Annea Lockwood** | Viele Arbeiten beschäftigen sich mit dem Thema Natur und Umwelt. Repräsentative Werke: *A Sound Map of the Hudson River* | Feldrekorder (Nagra → digital), Unterwassermikrofon (Hydrophon) |
+| **Annea Lockwood** | Viele Werke beschäftigen sich mit dem Thema Natur und Umwelt. Repräsentative Werke: *A Sound Map of the Hudson River* | Feldrekorder (Nagra → digital), Unterwassermikrofon (Hydrophon) |
 | **Ryuichi Sakamoto** | In seinen späteren Jahren sammelte er Umweltgeräusche und reflektierte sie in seinen Werken. Repräsentative Werke: *async* | Zoom H-Serie, DPA-Mikrofon, Unterwassermikrofon |
 
 
@@ -171,7 +171,7 @@ Die Aufnahme vor Ort ist die Dreifaltigkeit von „Mikrofon + Aufnahmegerät + S
 
 #### Nagra von Bernie Krause
 
-- Der Akku, den ich bei meinen frühen Naturaufnahmen auf dem Rücken trug, wog über 10 kg.
+- Die Batterie, die ich bei meinen frühen Naturaufnahmen auf dem Rücken trug, wog über 10 kg.
 
 - „Ich habe mehr Angst, etwas zu verpassen, als müde zu sein“, sagte er.
 
@@ -191,7 +191,7 @@ Die Aufnahme vor Ort ist die Dreifaltigkeit von „Mikrofon + Aufnahmegerät + S
 
 - Die Idee besteht darin, „die Resonanz zwischen Luft und Objekten zu messen“, anstatt „auf Geräusche zu hören“.
 
-- Probieren Sie immer „unerwartete Einsatzmöglichkeiten“ für handelsübliche Geräte aus.
+- Probieren Sie immer „unerwartete Verwendungsmöglichkeiten“ für handelsübliche Geräte aus.
 
 #### Ryuichi Sakamoto und seine tägliche Ausrüstung
 
@@ -205,7 +205,7 @@ Die Aufnahme vor Ort ist die Dreifaltigkeit von „Mikrofon + Aufnahmegerät + S
 ---
 
 
-### Feldaufzeichnungsverlauf und repräsentative Alben
+### Geschichte der Feldaufnahmen und repräsentative Alben
 
 | Alter | Künstler | Repräsentatives Album | Kommentar | Link |
 | --------------- | ---------------------- | ---------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |

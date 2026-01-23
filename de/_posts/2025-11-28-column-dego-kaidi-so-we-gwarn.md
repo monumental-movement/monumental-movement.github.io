@@ -59,7 +59,7 @@ color: #fff;
 
 Diese Bewegung zeichnet sich durch einen einzigartigen Groove aus, der Live-Instrumente und elektronische Beats kombiniert. Live-Musik umfasst Klavier, Keyboards, Hörner und Percussion, überlagert mit komplexen Drum-Patterns und House-Beats. Das Ergebnis ist ein einzigartiger Sound, der das Erbe von Jazz, Funk und Soul vereint und gleichzeitig die Unmittelbarkeit und Tanzbarkeit von Clubmusik aufweist.
 
-Künstler wie Dego, Kaidi Tatham, IG Culture, Bugz in the Attic und Neon Phusion haben maßgeblich zum Wachstum von Broken Beat beigetragen. Insbesondere Degos Label 2000Black diente als zentraler Knotenpunkt für das Genre und brachte viele talentierte Künstler hervor. Vor diesem Hintergrund werden Dego und Kaidi eine Kooperation eingehen, die den Kontext britischer schwarzer Musik erweitern wird.
+Künstler wie Dego, Kaidi Tatham, IG Culture, Bugz in the Attic und Neon Phusion haben maßgeblich zum Wachstum von Broken Beat beigetragen. Insbesondere Degos Label 2000Black diente als zentraler Knotenpunkt für das Genre und brachte viele talentierte Künstler hervor. Vor diesem Hintergrund haben Dego und Kaidi eine Zusammenarbeit aufgebaut, die den Kontext der britischen schwarzen Musik erweitert.
 
 ---
 
@@ -77,7 +77,7 @@ Kaidi Tatham ist eine Multiinstrumentalistin, Produzentin und Komponistin, die s
 
 ## Broken Beat-Szene und 2000Black
 
-Broken Beat ist ein Produkt der Clubkultur, die sich rund um West-London entwickelte. Pioniere wie IG Culture, Bugz in the Attic, Neon Phusion und Afronaught prägten die Szene und etablierten durch die freie Kombination von Elementen aus Jazz, Soul, Funk, Latin, Hip-Hop und House eine einzigartige Position als Clubmusik für Erwachsene.
+Broken Beat ist ein Produkt der Clubkultur, die sich rund um West-London entwickelte. IG Culture, Bugz in the Attic, Neon Phusion, Afronaught und andere waren Pioniere der Szene und etablierten durch die freie Kombination von Elementen aus Jazz, Soul, Funk, Latin, Hip-Hop und House eine einzigartige Position als Clubmusik für Erwachsene.
 
 <div class="mermaid">
 flowchart LR
@@ -90,7 +90,7 @@ flowchart LR
 
 ---
 
-2000Schwarz spielte bei diesem Trend eine zentrale Rolle. Degos Lauf des Labels brachte viele Künstler und Veröffentlichungen von Broken Beat hervor und machte es zu einem kulturellen Zentrum für britische schwarze Musik. In diesem Umfeld wurde auch die Zusammenarbeit zwischen Kaidi und Dego gefördert, die zahlreiche Clubhits und Studioveröffentlichungen hervorbrachte.
+2000Schwarz spielte bei diesem Trend eine zentrale Rolle. Degos Lauf des Labels brachte viele Künstler und Veröffentlichungen von Broken Beat hervor und machte es zu einem kulturellen Zentrum für britische schwarze Musik. In diesem Umfeld entwickelte sich auch die Zusammenarbeit zwischen Kaidi und Dego, die zahlreiche Clubhits und Studioveröffentlichungen hervorbrachte.
 
 ---
 
@@ -112,7 +112,7 @@ timeline
     2017–2025 : ソロ・コラボ活動継続
 </div>
 
-Dieses Label fungierte als Plattform für die Verfolgung von „Klangskulpturen“ als kreative Collage, die über musikalische Formen und Genres hinausging. Britische Broken-Beat-Künstler, allen voran Dego & Kaidi, fühlten sich von dem Label angezogen und fanden einen Ort, an dem sie ihre Musik in neuen Kontexten ausdrücken konnten.
+Dieses Label fungierte als Plattform für die Verfolgung von „Klangskulpturen“ als kreative Collage, die über musikalische Formen und Genres hinausging. Britische Broken-Beat-Künstler, insbesondere Dego & Kaidi, fühlten sich von dem Label angezogen und fanden einen Ort, an dem sie ihre Musik in neuen Kontexten ausdrücken konnten.
 
 ---
 
@@ -132,7 +132,7 @@ A So We Gwarn ist ein 14-Track-Album, das Elemente aus Jazz, Soul, House, Hip-Ho
 
 ---
 
-Ihr Signature-Song „Treasure Beach“ versucht, Afrobeat in britischen Jazz zu verwandeln, wobei Rhodes und Hörner die Hauptbestandteile sind, wobei Wayne Francis‘ Hörner einen beeindruckenden Akzent setzen. Das gesamte Album definiert Broken Beat und seine Bedeutung als Kreuzung britisch-amerikanischer schwarzer Musik neu.
+Ihr Signature-Song „Treasure Beach“ versucht, Afrobeat in britischen Jazz zu verwandeln, wobei Rhodes und Hörner die Hauptbestandteile sind und Wayne Francis‘ Hörner einen beeindruckenden Akzent setzen. Das gesamte Album definiert Broken Beat und seine Bedeutung als Kreuzung britisch-amerikanischer schwarzer Musik neu.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3iG2UeZfUbQ?si=csNxYA4plEZQ2nnG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -166,7 +166,7 @@ Anstatt als Phänomen der Vergangenheit zu reden, wird Broken Beat fortlaufend a
 
 ## Schließung
 
-Die Zusammenarbeit zwischen Dego & Kaidi und Sound Signature ging über die bloße Produktion eines Albums hinaus, sie war eine Neudefinition schwarzer Musik, die über Genres hinausging. Dieser Versuch, die Grammatik der Musik durch Hin- und Herwechseln zwischen Vergangenheit, Gegenwart und Zukunft zu rekonstruieren, ist im wahrsten Sinne des Wortes ein Akt des Schnitzens einer „Klangsignatur“.
+Die Zusammenarbeit zwischen Dego & Kaidi und Sound Signature war mehr als nur die Produktion eines Albums, sie war eine Neudefinition schwarzer Musik, die über Genres hinausging. Dieser Versuch, die Grammatik der Musik durch Hin- und Herwechseln zwischen Vergangenheit, Gegenwart und Zukunft zu rekonstruieren, ist im wahrsten Sinne des Wortes ein Akt des Herausarbeitens einer „Klangsignatur“.
 
 In der heutigen Zeit, in der die Grenzen zwischen den Genres verschwimmen, ist ihre Musik wie ein Leuchtturm, der das Erbe der Vergangenheit trägt und gleichzeitig in die Zukunft weist. Dieses Werk fragt Zuhörer, was es bedeutet, schwarze Musik zu hören und was es bedeutet, Genregrenzen zu überschreiten.
 

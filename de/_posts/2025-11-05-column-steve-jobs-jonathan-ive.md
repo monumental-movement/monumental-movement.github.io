@@ -47,10 +47,10 @@ color: #fff;
 
 ## Chapter 1 Records und die California Air
 
-Steve Jobs ist ein Produkt der kalifornischen Gegenkultur der späten 1960er und 1970er Jahre.
-Viele Biografien bestätigen, dass er Bob Dylan und die Beatles schon in jungen Jahren bewunderte.
+Steve Jobs war ein Produkt der kalifornischen Gegenkultur der späten 1960er und 1970er Jahre.
+Seine Bewunderung für Bob Dylan und die Beatles schon in jungen Jahren wird durch zahlreiche Biografien bestätigt.
 
-In Walter Isaacsons Biografie „Steve Jobs“ (2011) hat er einen **Röhrenverstärker und einen Plattenspieler** in seinem Wohnzimmer.
+In Walter Isaacsons Biografie „Steve Jobs“ (2011) gibt es in seinem Wohnzimmer einen **Röhrenverstärker und einen Plattenspieler**.
 Es heißt, er habe jeden Abend Alben von Bob Dylan und Joan Baez gehört.
 
 > „Dylans Worte haben Seele. Sie sind nicht die Geräusche einer Maschine.“
@@ -84,7 +84,7 @@ Im Jahr 2001 stellte Apple ein Produkt vor, das die Ära der digitalen Musik ein
 
 
 Der **iPod** repräsentiert die Verschmelzung der Ästhetik von Jobs und Ive.
-Jobs sagte: „1000 Songs in deiner Tasche.“
+Jobs sagte: „1000 Songs in der Tasche.“
 Ich habe mich auf die „Fingertaktilität“ der Radbetätigung konzentriert.
 
 Die Einführung des iTunes Store (2003) markierte die erste Revolution im Musikkonsum seit der Plattenära.
@@ -123,10 +123,10 @@ Ive sagt: „Das Gehäuse selbst prägt den Klang“ (Interview mit Fast Company
 
 ## Kapitel 6 Von Schallplatten in die Cloud – Vererbung klanglicher Erinnerungen
 
-Als Jobs über sein iCloud-Konzept sprach, träumte er von „einer Welt, in der Musik abgespielt werden kann, egal wo man ist.“
+Als Jobs über das iCloud-Konzept sprach, träumte er von „einer Welt, in der Musik abgespielt werden kann, egal wo man ist.“
 Im Kern geht es um das Konzept der Wolke als eine Erweiterung des Akts, eine Schallplatte in die Hand zu nehmen und die Nadel fallen zu lassen.
 
-Andererseits habe ich durch LoveFrom,
+Andererseits habe ich über LoveFrom,
 Wir streben nach „taktilem Klang“, dem Gegenteil von Cloud Computing.
 Die Vektoren dieser beiden Menschen scheinen jedoch gegensätzlich zu sein
 Tatsächlich eint sie die Philosophie, „Menschen durch Musik zu befreien“.
@@ -155,7 +155,7 @@ Nachdem Jobs gestorben war, habe ich ihn wie folgt beschrieben:
 > „Er betrachtete Produkte so, wie man Musik hört: Es gibt Rhythmus, es gibt Harmonie, es gibt Stille.“
 
 Ive selbst bezeichnet die Designarbeit, die er mit LoveFrom fortsetzt, als „soliden Prozess“.
-Mit anderen Worten: Design ist nicht nur eine visuelle Kunst, sondern auch ein Akt der Klangkonstruktion.
+Mit anderen Worten: Design ist sowohl visuelle Kunst als auch der Akt der Klangkonstruktion.
 
 ---
 

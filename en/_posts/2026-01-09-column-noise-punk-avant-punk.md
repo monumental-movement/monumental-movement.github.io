@@ -14,7 +14,7 @@ title: '[Column] Noise Punk / Avant-Punk ─ When destructive impulse becomes id
 
 
 
-## Prologue: Why Punk Had to Break
+## Prologue: Why did punk have to break?
 
 Text: mmr｜Theme: About noise punk/avant punk, which is a memory device for constantly rejecting the safe zone of music
 
@@ -46,7 +46,7 @@ color: #fff;
 
 Around 1977, punk spread rapidly and at the same time rapidly became formalized. 3 chords, short songs, aggressive attitude. They quickly became a style and began to be reproduced. Noise punk/avant punk was born out of a strong sense of discomfort with this situation.
 
-The problem for them was that rock was once again being reduced to ""easy-to-understand music.'' Rebellion becomes a symbol, and dissent becomes fashionable. In order to reject the process itself, the music intentionally moved in an incomprehensible direction.
+The problem for them was that rock was once again being reduced to ""easy-to-understand music''. Rebellion becomes a symbol, and dissent becomes fashionable. In order to reject the process itself, the music intentionally moved in an incomprehensible direction.
 
 This attitude seemed to deny punk, but in reality it was a thorough implementation of the fundamental spirit of punk.
 
@@ -137,7 +137,7 @@ timeline
 
 This trend occurred intensively in a short period of time and left a deep influence on subsequent alternative music.
 
-> Although the history of noise punk is short, its aftershocks continue for a long time.
+> The history of noise punk is short, but its aftershocks are long lasting.
 
 ---
 

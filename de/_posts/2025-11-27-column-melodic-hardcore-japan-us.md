@@ -17,7 +17,7 @@ title: '[Kolumne] Detaillierte Geschichte des Melodic Hardcore in Japan und Amer
 
 ## 1. Einführung: Was ist Melocore?
 
-Text: mmr｜Thema: Über japanischen und amerikanischen Melocore, der weltweit wegen seiner „Hitze“ und „Bedeutung der Melodie“ geschätzt wird
+Text: mmr｜Thema: Über japanischen und amerikanischen Melocore, der weltweit wegen seiner „Wärme“ und „Bedeutung der Melodie“ geschätzt wird
 
 
 Melodic Hardcore ist ein Subgenre des Hardcore-Punks, das sich Ende der 1980er Jahre in den USA entwickelte.
@@ -204,7 +204,7 @@ flowchart TD
 
 ## 9. Fazit
 
-Obwohl japanischer und amerikanischer Melocore unterschiedliche kulturelle Hintergründe haben, haben sie aufgrund ihrer gemeinsamen „Leidenschaft“ und „Bedeutung der Melodie“ internationale Unterstützung gewonnen.
+Obwohl japanischer und amerikanischer Melocore unterschiedliche kulturelle Hintergründe haben, haben sie aufgrund ihrer gemeinsamen Leidenschaft und Bedeutung für Melodien internationale Unterstützung gewonnen.
 Die Szenen in beiden Ländern werden sich weiterhin gegenseitig beeinflussen und an jüngere Generationen weitergegeben werden.
 
 ---

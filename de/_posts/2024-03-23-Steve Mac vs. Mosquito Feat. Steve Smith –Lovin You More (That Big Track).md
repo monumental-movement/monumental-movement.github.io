@@ -15,7 +15,7 @@ title: Steve Mac vs. Mosquito Feat. Steve Smith – Lovin' You More (That Big Tr
 ---
 
 
-Ein House-Track des britischen House-Produzenten Steve Mac und Steve Smith, der im britischen House-Trio Mosquito, Dirty Vegas und Squeeze aktiv ist, das auch in der Psytrance-Szene berühmt ist.
+Ein House-Track des britischen House-Produzenten Steve Mac und Steve Smith, der im britischen House-Trio Mosquito, Dirty Vegas und Squeeze aktiv ist, die auch in der Psytrance-Szene berühmt sind.
 
 Der erste Song auf Seite B ist ein Remix der Freemasons.
 

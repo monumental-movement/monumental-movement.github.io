@@ -19,7 +19,7 @@ title: '[Spalte] Glitch Hop – Niederfrequenzkultur, die aus fragmentierten Bea
 
 Text: mmr｜Thema: Hintergrund der Entstehung von Glitch Hop, akustische Eigenschaften, Produktionsmethoden repräsentativer Künstler, Beat-Analyse, Ausrüstung und Produktionsumgebung, Beziehung zu umgebenden Genres und nachfolgender Einfluss
 
-Glitch Hop ist ein Trend der elektronischen Musik, der auf der Beat-Struktur des Hip-Hop basiert und Glitch-Verarbeitung, präzise Mikrobearbeitung und tiefzentriertes Bass-Design kombiniert. Von Ende der 2000er bis Anfang der 2010er Jahre wurde es deutlich, als die digitale Produktionsumgebung immer ausgefeilter wurde, und es etablierte sich als funktionale Musik, die sich über Club-, Hör- und Videoanwendungen hinweg erstreckt. Obwohl der Genrename ein zusammengesetztes Wort aus „Glitch“ und „Hip Hop“ ist, handelt es sich nicht nur um eine Mischung aus Techniken, sondern um eine Produktionsphilosophie, die sich auf die Dekonstruktion und Rekonstruktion von Beats konzentriert.
+Glitch Hop ist ein Trend der elektronischen Musik, der auf der Beat-Struktur des Hip-Hop basiert und Glitch-Verarbeitung, präzise Mikrobearbeitung und tiefzentriertes Bass-Design kombiniert. Von Ende der 2000er bis Anfang der 2010er Jahre wurde es deutlich, als die digitale Produktionsumgebung immer ausgefeilter wurde, und es etablierte sich als funktionale Musik, die sich über Club-, Hör- und Videoanwendungen hinweg erstreckt. Obwohl der Genrename eine Kombination aus „Glitch“ und „Hip Hop“ ist, handelt es sich nicht nur um eine Mischung von Techniken, sondern um eine Produktionsphilosophie, die sich auf die Dekonstruktion und Rekonstruktion von Beats konzentriert.
 
 ---
 
@@ -67,7 +67,7 @@ Beim Glitch Hop spielt der Ton eine wichtigere Rolle als die Melodie. Der Bass i
 
 The Glitch Mob hat eine Methode etabliert, um Beats und Sounddesign durch den Einsatz eines Mehrpersonen-Produktionssystems stark zu unterteilen und zu integrieren. Ihre Lieder verzichten auf einfache Schleifenwiederholungen und verändern stattdessen mit jeder Entwicklung die rhythmische und klangliche Dichte.
 
-Der Bass soll die treibende Kraft des Songs sein und sein Phasenverhältnis zum Bass wird streng kontrolliert. Das Subband ist oft monaural angeordnet und zeichnet sich durch ein Design aus, das die Stabilität bei der Clubwiedergabe betont.
+Der Bass ist so konzipiert, dass er die treibende Kraft des Songs ist, und seine Phasenbeziehung zur Kick wird streng kontrolliert. Das Subband ist oft monaural angeordnet und zeichnet sich durch ein Design aus, das die Stabilität bei der Clubwiedergabe betont.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xbbwjfa9JQE?si=-2_64kU--YmohV0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -151,7 +151,7 @@ Die Bearbeitungstechniken von Glitch Hop beeinflussten Trap-, Bassmusik und soga
 
 ## 10. Fazit
 
-Glitch Hop ist ein Genre, das aus der Kombination von technologischer Entwicklung und Produktionsästhetik entstanden ist. Durch die Kombination der Körperlichkeit des Hip-Hop mit der Wahrnehmungsstimulation von Glitch wird es als eine der Grundlagen moderner Beatmusik positioniert und nicht nur als vorübergehender Stil.
+Glitch Hop ist ein Genre, das aus der Kombination von technologischer Entwicklung und Produktionsästhetik entstanden ist. Durch die Kombination der Körperlichkeit des Hip-Hop mit der Wahrnehmungsstimulation von Glitch wird es als eine der Grundlagen der modernen Beatmusik positioniert und nicht nur als vorübergehender Stil.
 
 ---
 

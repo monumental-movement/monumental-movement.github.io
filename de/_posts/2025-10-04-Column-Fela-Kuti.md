@@ -52,7 +52,7 @@ Felas Musik zeichnet sich durch lange (10 bis 30 Minuten) sich wiederholende Gro
 
 ### Politische und kulturelle Aktivitäten
 
-Fela erklärte sein Anwesen zur „Kalakuta-Republik“ und betrieb es als Gemeinschafts-, Atelier- und Theaterraum. Es gibt immer wieder scharfe Kritik an der Militärregierung und es kommt zu zahlreichen Angriffen, Inhaftierungen und Folterungen durch Polizei und Militär (ein berühmter Vorfall ist die Anekdote „Teurer Scheiß“). Diese kämpferische Haltung hat ihn zwar zu Nigerias „Stimme der Stimmlosen“ gemacht, hat aber auch physische Nachteile.
+Fela erklärte seine Villa zur „Kalakuta-Republik“ und betrieb sie als Gemeinschafts-, Atelier- und Theaterraum. Es gibt immer wieder scharfe Kritik an der Militärregierung und es kommt zu zahlreichen Angriffen, Inhaftierungen und Folterungen durch Polizei und Militär (ein berühmter Vorfall ist die Anekdote „Teurer Scheiß“). Diese kämpferische Haltung hat ihn zwar zu Nigerias „Stimme der Stimmlosen“ gemacht, sie hat jedoch auch einen physischen Schaden verursacht.
 
 ---
 

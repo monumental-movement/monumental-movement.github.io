@@ -15,7 +15,7 @@ title: Verschiedenes – Wir sind vernünftige Menschen
 
 Music Week bewertete das Album positiv und sagte: „Es wird auf jeden Fall bestehende Fans ansprechen und ist ein guter Einstieg für diejenigen, die sich für Underground-Sounds interessieren.“
 
-„Brainwashed“ belegt außerdem den dritten Platz unter den Compilation-Alben von 1998. Darüber hinaus platzierte das Fact-Magazin 2013 „Freeman Hardy & Willis Acid“ auf Platz 10 seiner Liste der 50 besten Aphex Twin-Tracks.
+„Brainwashed“ aus dem Jahr 1998 wurde 2013 von der Zeitschrift Fact ausgezeichnet "Freeman Hardy & Willis Acid" at number 10 on its list of the top 50 Aphex Twin tracks.
 
 #### Trackliste
 ```md

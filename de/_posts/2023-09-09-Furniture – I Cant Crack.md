@@ -27,7 +27,7 @@ Möbel erfreuten sich in den frühen 1980er-Jahren großer Beliebtheit und zeich
 
 Diese EP aus ihrem zweiten Album Furniture erschien 1985 und die Musik der Band zeichnete sich durch eingängige Melodien, atmosphärische Akustik und introspektive Texte aus.
 
-Die Musik von Furniture wurde von der Kritik für ihren einzigartigen Sound und ihr anspruchsvolles Songwriting gelobt. Sie integrierten Pop-Sensibilitäten und behielten gleichzeitig einen alternativen Ansatz bei, indem sie Kunstfertigkeit und Zugänglichkeit miteinander verbanden. Sie waren kommerziell jedoch nicht erfolgreich und lösten sich 1991 auf.
+Die Musik von Furniture wurde von der Kritik für ihren einzigartigen Sound und ihr anspruchsvolles Songwriting gelobt. Sie integrierten Pop-Sensibilitäten und behielten gleichzeitig einen alternativen Touch bei, indem sie Kunstfertigkeit und Zugänglichkeit vereinten. Sie waren kommerziell jedoch nicht erfolgreich und lösten sich 1991 auf.
 
 Die Musik von Furniture wird immer noch von Fans des britischen Pops und der alternativen Musik der 1980er Jahre geliebt.
 

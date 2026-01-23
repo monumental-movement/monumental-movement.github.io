@@ -112,7 +112,7 @@ Ahmad Jamal's career is marked by many classic albums. Below is a summary of rep
 
 ### Activities since 2000s
 - Perform energetically even in old age
-- Mainly live recordings, inheriting the classic trio performance
+- Mainly live recording, inheriting the classic trio performance
 - Great impact on educational activities and young musicians
 
 ---

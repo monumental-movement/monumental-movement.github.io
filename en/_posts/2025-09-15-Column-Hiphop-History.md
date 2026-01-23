@@ -49,7 +49,7 @@ Clubs and block parties were more than just music venues; they were a symbol of 
 At the time, hip-hop was popularized through radio programs (e.g. WBLS's "The Show"), and demo tapes were an important means of discovering artists.
 DJ Kool Herc and Afrika Bambaataa played their mixtapes on local radio and at parties, helping to spread the word.
 
-### Representative masterpiece
+### Representative masterpieces
 
 [The Sugarhill Gang"Rapper's Delight"(1979)](https://amzn.to/4ngQIOx)
 
@@ -72,7 +72,7 @@ A unique G-funk style was honed in the clubs and rolling parties of the West Coa
 ### Role of demo tapes and radio
 The new song was aired on local radio stations (KDAY, KMEL), and young people who listened to the demo tape spread it by word of mouth. In particular, local radio DJs acted as referees of the scene.
 
-### Representative masterpiece
+### Representative masterpieces
 
 [Run-D.M.C. "Raising Hell" (1986)](https://amzn.to/3IBasNE)
 
@@ -89,7 +89,7 @@ Extract phrases from soul, funk, and jazz records using a sampler (Akai MPC60/SP
 
 ## 1990s: East-West conflict, the rise of the South, clubs and record culture
 
-### East Coast vs West Coast
+### East Coast vs. West Coast
 Regional tensions influence music, as exemplified by the conflict between The Notorious B.I.G. and 2Pac.
 New York clubs (Tunnel, Limelight) became places for rap battles and the premiere of new releases, fostering a rap battle culture.
 
@@ -100,7 +100,7 @@ OutKast and UGK emerged and established their own unique sound. Tape distributio
 Due to copyright issues and rising costs, an increasing number of artists are turning to original sound source production and live performance.
 Dr. Dre's ""The Chronic'' (1992) skillfully uses sampling, while G-funk uses a lot of synths and original bass lines.
 
-### Representative masterpiece
+### Representative masterpieces
 
 **East Coast**: [The Notorious B.I.G. "Ready to Die" (1994)](https://amzn.to/3K94fcv)
 
@@ -114,13 +114,13 @@ Dr. Dre's ""The Chronic'' (1992) skillfully uses sampling, while G-funk uses a l
 
 ### Club culture
 DJ sets evolved at clubs in New York and LA. In an era before radio and streaming, songs became a buzz on club floors.
-Before demo tapes and the internet, rap battles were centered around clubs.
+Before demo tapes and the Internet, rap battles were centered around clubs.
 
 De-sampling and equipment changes
 With the spread of DAWs (Pro Tools, Ableton Live), it is now possible to create unique sound sources using synths and plug-ins without relying on sampling.
 This increases the proportion of original beats.
 
-### Representative masterpiece
+### Representative masterpieces
 
 [Jay-Z "The Blueprint" (2001)](https://amzn.to/4pC13WW)
 
@@ -142,7 +142,7 @@ DAW (Ableton Live, FL Studio)
 
 Expanding the use of plugins and sample packs
 
-### Representative masterpiece
+### Representative masterpieces
 
 [Kendrick Lamar "good kid, m.A.A.d city" (2012)](https://amzn.to/4pCB4yv)
 
@@ -333,7 +333,7 @@ Bass: ▂▄▅▄▂
 <tr>
 <td>
 - Akai MPC60
-- Akai MPC3000
+-Akai MPC3000
 - E-mu SP-1200
 -Roland TR-909
 </td>
@@ -431,7 +431,7 @@ Bass: ▂▄▇█▇█▇█▄▂
 </tr>
 </table>
 
-**Supplementary considerations**
+**Additional considerations**
 
 Genealogy diagrams allow students to intuitively understand ""master-pupil relationships" and ""influence relationships."
 

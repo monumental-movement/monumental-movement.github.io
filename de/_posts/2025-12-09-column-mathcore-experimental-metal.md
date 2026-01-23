@@ -19,7 +19,7 @@ title: '[Spalte] Mathcore / Experimental Metal Gründliche Erklärung: Extrem ko
 
 ## Mathcore / Experimenteller Metal
 
-Text: mmr｜Thema: Geschichte, technische Merkmale, Hauptwerke, Analyse der Songstruktur, Aufführungstechniken und Einfluss auf verwandte Genres
+Text: mmr｜Thema: Geschichte, technische Merkmale, Hauptwerke, Analyse der Liedstruktur, Aufführungstechniken und Einfluss auf verwandte Genres
 
 **Mathcore** ist einer der anspruchsvollsten Stile der Heavy-Musik, der sich von Ende der 1990er bis in die 2000er Jahre rasant weiterentwickelte und sich durch mathematische Komplexität, nichtlinearen Verlauf und extreme Dynamik auszeichnet. Während dieses Genre auf der Aggressivität von Hardcore und Metalcore basiert, integriert es Elemente von Jazz, experimenteller Musik und Progressive Metal, unterwandert aktiv den traditionellen 4/4-Takt und verfolgt eine seltsame Taktstruktur, die man als mathematisch bezeichnen kann.
 
@@ -63,7 +63,7 @@ Im Folgenden sind die Merkmale ihrer Liedstrukturen aufgeführt.
 ### 1. Ultraschnelle und fragmentierte Struktur
 
 Bemerkenswert ist die Technik, Phrasen von 1-2 Schlägen mit hoher Geschwindigkeit und nicht in Takteinheiten zu ändern.
-Der akustische Orientierungssinn wird durch die eingefügten Pausen, Polyrhythmen und verschobenen Akzente ständig erschüttert.
+Der akustische Orientierungssinn wird durch die eingefügten Pausen, Polyrhythmen und verschobenen Akzente immer wieder ins Wanken gebracht.
 
 ### 2. Einfluss vom Jazz
 
@@ -84,7 +84,7 @@ Meshuggah aus Schweden ist eine von Mathcore getrennte Gruppe, ist jedoch äuße
 ### Typische Methoden:
 
 * Die Grundtaktart ist 4/4
-* Aber Gitarrenriffs haben Zyklen von **5 Schlägen, 7 Schlägen, 9 Schlägen** usw.
+* Aber Gitarrenriffs finden in Zyklen von **5 Schlägen, 7 Schlägen, 9 Schlägen** usw. statt.
 *Infolgedessen „verschieben“ sich die Riff- und Drum-Akzente regelmäßig.
 
 Dadurch kann der Hörer gleichzeitig einen linearen Groove und einen nichtlinearen Akzent erleben.
@@ -130,7 +130,7 @@ flowchart TD
 
 * Umgang mit **metrischer Modulation** (der Illusion des Tempos)
 * Mehrstufige Anordnung von Snare-Akzenten
-* Polyrhythmische gleichzeitige Aussprache (z. B. 5 verbundene Figuren über 4/4)
+*Polyrhythmische simultane Aussprache (z. B. 5 verbundene Figuren über 4/4)
 
 ### Basis
 

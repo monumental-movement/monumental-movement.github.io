@@ -18,9 +18,9 @@ title: '[Kolumne] Avantgardistische Instrumental-/Klangkunst'
 
 ## Einleitung: Wie Klang zum Kunstwerk wird
 
-Text: mmr｜Thema: Mit Fokus auf Alvin Lucier und Christian Fennesz werden wir die kontinuierliche Linie von analogen Klangexperimenten bis hin zur digitalen Verarbeitung organisieren und die Struktur der Klangkunst, einschließlich ihrer Beziehung zu Bildern, klären.
+Text: mmr｜Thema: Mit Schwerpunkt auf Alvin Lucier und Christian Fennesz werden wir die kontinuierliche Linie von analogen Klangexperimenten bis hin zur digitalen Verarbeitung organisieren und die Struktur der Klangkunst, einschließlich ihrer Beziehung zu Bildern, klären.
 
-Seit dem 20. Jahrhundert hat sich die Musik vom Rahmen der zeitlichen Kunst, die sich auf Melodie und Harmonie konzentriert, entfernt und sich zu einem umfassenden Ausdrucksbereich ausgeweitet, der physische Phänomene, den Raum und das Aufnahmemedium selbst umfasst. Avantgardistische Instrumental- und Klangkunst ist keine Form, die das Können oder die Leistungsfähigkeit eines Instruments zur Schau stellt, sondern stellt vielmehr den gesamten Prozess dar, durch den Klang erzeugt, verbreitet, reflektiert, verändert und als Werk wahrgenommen wird.
+Seit dem 20. Jahrhundert hat sich die Musik vom Rahmen der zeitlichen Kunst, die sich auf Melodie und Harmonie konzentriert, entfernt und sich zu einem umfassenden Ausdrucksbereich ausgeweitet, der physische Phänomene, den Raum und das Aufnahmemedium selbst umfasst. Avantgardistische Instrumental- und Klangkunst ist keine Form, die das Können und die Leistungsfähigkeit eines Instruments zur Schau stellt, sondern stellt vielmehr den gesamten Prozess dar, durch den Klang erzeugt, verbreitet, reflektiert, verändert und als Werk wahrgenommen wird.
 
 Musikalische Werke werden in diesem Bereich nicht zwangsläufig auf Partituren reduziert, noch wird von der Möglichkeit der Wiederspielbarkeit ausgegangen. Vielmehr besteht die Arbeit aus einer Reihe von Bedingungen, die jedes Mal zu unterschiedlichen Ergebnissen führen. Wichtig ist hier nicht die Absicht des Komponisten, sondern die Struktur selbst, also die Art und Weise, wie akustische Phänomene entstehen und sich mit Raum und Technik verbinden.
 
@@ -58,7 +58,7 @@ In der Klangkunst ist die räumliche Anordnung wichtiger als die zeitliche Entwi
 
 ### 2-1 Neudefinition von Musikinstrumenten
 
-In der avantgardistischen Instrumentalmusik haben Instrumente keine feste Form. Bestehende Instrumente werden erweitert oder verändert, oder die Umgebung selbst wird als Instrument behandelt. Mikrofone, Lautsprecher, Resonatoren und architektonische Räume sind gleichwertige Komponenten.
+In der avantgardistischen Instrumentalmusik haben Instrumente keine feste Form. Bestehende Instrumente werden erweitert oder modifiziert, oder die Umgebung selbst wird als Instrument behandelt. Mikrofone, Lautsprecher, Resonatoren und architektonische Räume sind gleichwertige Komponenten.
 
 ### 2-2 Änderungen im Leistungsverhalten
 
@@ -125,7 +125,7 @@ Faktoren wie Verzerrung, Komprimierung und fehlende Daten werden als Komponenten
 
 ### 6-1 Parallele Platzierung mit Video
 
-In Fennesz‘ Werk werden Bilder als parallele Elemente angeordnet und nicht als Erklärungen für Klang. Ton und Video sind oft nicht synchronisiert.
+In Fennesz‘ Werk werden Bilder als parallele Elemente angeordnet und nicht als Erklärungen für Ton. Ton und Video sind oft nicht synchronisiert.
 
 <div class="mermaid">
 flowchart LR

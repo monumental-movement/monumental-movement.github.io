@@ -60,11 +60,11 @@ color: #fff;
 
 ## Kapitel 1: Alter Rhythmus und Spiritualität {#chapter1}
 
-Im alten Indien waren Yoga und Musik eng miteinander verbunden und standen im Mittelpunkt der spirituellen Praxis. Während der vedischen Zeit war das Rezitieren heiliger Gedichte und Mantras von zentraler Bedeutung für die Meditation, und man ging davon aus, dass der Klang selbst spirituelle Kraft besitzt. Klangvibrationen erleichterten die Integration körperlicher und geistiger Empfindungen und förderten einen Zustand der Konzentration.
+Im alten Indien waren Yoga und Musik eng miteinander verbunden und standen im Mittelpunkt der spirituellen Praxis. Während der vedischen Zeit war das Rezitieren heiliger Gedichte und Mantras von zentraler Bedeutung für die Meditation, und man ging davon aus, dass der Klang selbst spirituelle Kraft besitzt. Klangvibrationen erleichterten die Integration körperlicher und geistiger Empfindungen und ermöglichten einen Zustand der Konzentration.
 
 ### Indische klassische Musik und Yoga
 
-Die klassische indische Musik, die aus Ragas (Tonleitersystemen) und Tala (rhythmischen Systemen) besteht, weckt in Kombination mit Yoga-Meditation und Atemtechniken wirksam die körperlichen Sinne und löst einen Zustand der Konzentration aus. Morgens wurden Ragas gespielt, um die Vitalität zu fördern, während entspannende Ragas zur Abendmeditation genutzt wurden.
+Die klassische indische Musik, die aus Ragas (Tonleitersystemen) und Tala (Rhythmussystemen) besteht, weckt in Kombination mit Yoga-Meditation und Atemtechniken wirksam die körperlichen Sinne und löst einen Zustand der Konzentration aus. Morgens wurden Ragas gespielt, um die Vitalität zu fördern, während entspannende Ragas zur Abendmeditation genutzt wurden.
 
 ### Harmonie von Mantra und Atmung
 
@@ -90,17 +90,17 @@ Zu Beginn des 20. Jahrhunderts begann die Musiktherapie im Westen in den Bereich
 
 ### Geburt der New-Age-Musik
 
-Seit den 1970er Jahren taucht New-Age-Musik zu Meditations- und Heilzwecken auf. Lieder mit Synthesizern und natürlichen Klängen wurden in Yoga-Asanas und Meditation integriert und sorgten für spirituelle Tiefe. Die Kombination von Yoga und Musik hat sich als integrierter Ansatz etabliert, der Gesundheit, Spiritualität und persönliches Wachstum fördert.
+Seit den 1970er Jahren gibt es New-Age-Musik zu Meditations- und Heilzwecken. Lieder mit Synthesizern und natürlichen Klängen wurden in Yoga-Asanas und Meditation integriert und sorgten für spirituelle Tiefe. Die Kombination von Yoga und Musik hat sich als integrierter Ansatz etabliert, der Gesundheit, Spiritualität und persönliches Wachstum fördert.
 
 ---
 
 ## Kapitel 3: Modernes Yoga und Musik {#chapter3}
 
-Im 21. Jahrhundert erfreut sich Yoga weltweit großer Beliebtheit. Durch urbane Studios und Online-Dienste wird es in den Alltag integriert. Musik unterstützt den Atem- und Bewegungsrhythmus und fördert die Konzentration und Entspannung.
+Im 21. Jahrhundert erfreut sich Yoga weltweit großer Beliebtheit. Durch urbane Studios und Online-Dienste wird es in den Alltag integriert. Musik unterstützt den Atem- und Bewegungsrhythmus und fördert Konzentration und Entspannung.
 
 ### Hintergrundmusik-Nutzung im Studio
 
-In modernen Yogastudios beeinflusst die Wahl der Hintergrundmusik die Atmosphäre des Unterrichts. Sanfte Umgebungs- und Naturgeräusche helfen Anfängern, sich auf ihre Atmung zu konzentrieren und psychische Spannungen abzubauen. Für dynamische Abläufe wie Vinyasa Yoga eignen sich rhythmische Musik mit Tempo und Lieder mit starkem Bass.
+In modernen Yogastudios beeinflusst die Wahl der Hintergrundmusik die Atmosphäre des Unterrichts. Sanfte Umgebungs- und Naturgeräusche erleichtern Anfängern die Konzentration auf ihre Atmung und lösen psychische Spannungen. Für dynamische Abläufe wie Vinyasa Yoga eignen sich rhythmische Musik mit Tempo und Lieder mit starkem Bass.
 
 ### Fusion mit EDM, Lo-Fi, Ambient
 

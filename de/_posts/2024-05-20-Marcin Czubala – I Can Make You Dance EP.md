@@ -14,7 +14,7 @@ title: Marcin Czubala – I Can Make You Dance EP
 ---
 
 
-Marcin Czubala ist ein Minimal-Techno-DJ und Produzent aus Polen mit einem Hintergrund in klassischer Musik. Seit 2007 ist er Mitglied des Berliner deutschen Techno/House-Labels MOBILEE.
+Marcin Czubala ist ein Minimal-Techno-DJ und Produzent aus Polen mit einem Hintergrund in klassischer Musik. Seit 2007 ist er Mitglied des in Berlin ansässigen deutschen Techno/House-Labels MOBILEE.
 
 „I Can Make You Dance EP“ ist ein Techno-Track, der 2003 vom französischen Techno-Label ANLX veröffentlicht wurde.
 

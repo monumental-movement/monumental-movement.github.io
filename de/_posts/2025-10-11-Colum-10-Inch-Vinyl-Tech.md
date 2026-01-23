@@ -48,10 +48,10 @@ color: #fff;
 
 ### Rotationsgeschwindigkeit und Lineargeschwindigkeit: physikalische Gesetze, die den „Impuls“ des Schalls bestimmen
 
-Einer der Faktoren, die die Klangqualität einer Schallplatte bestimmen, ist die Rotationsgeschwindigkeit (U/min) und die lineare Geschwindigkeit.
+Einer der Faktoren, die die Klangqualität einer Schallplatte bestimmen, ist die Anzahl der Umdrehungen (U/min) und die lineare Geschwindigkeit.
 
 - **7 Zoll Single: 45 U/min**
-Der Klang ist an der äußeren Peripherie sehr kraftvoll und die hohen Frequenzen werden hervorragend wiedergegeben. Allerdings nimmt die Verzerrung am Innenumfang zu.
+Der Klang ist an der Außenperipherie sehr kraftvoll und die hohen Frequenzen werden hervorragend wiedergegeben. Allerdings nimmt die Verzerrung am Innenumfang zu.
 
 - **12 Zoll LP: 33⅓U/min**
 Es eignet sich für die Langzeitwiedergabe und sorgt für eine stabile Klangqualität, allerdings sind die hohen Frequenzen etwas gedämpft.
@@ -97,7 +97,7 @@ Passen Sie Schalldruck, Stereobreite und Phase an.
 2. **Lackschneiden**
 Schnitzen Sie Rillen in eine 10-Zoll-Lackplatte.
 Rillenbreite und Tonhöhenkontrolle sind wichtig.
-„Innerhalb von 12 Minuten bei 33⅓U/min“ ist eines der Designkriterien.
+„Innerhalb von 12 Minuten bei 33⅓ U/min“ ist eines der Designkriterien.
 
 3. **Elektroformung**
 Kopie mit Nickel in der Reihenfolge Master → Mutter → Stempel.
@@ -114,7 +114,7 @@ Dieser Vorgang ist besonders bei 10-Zoll-Modellen wichtig, da die Stabilität de
 Bei 10-Zoll-Scheiben beträgt die Dicke im Allgemeinen etwa 1,8 bis 2,0 mm und das Gewicht etwa 120 bis 150 g.
 Beeinflusst durch den Boom bei 12-Zoll-Schallplatten mit einem Gewicht von 180 g neigen wir dazu zu denken, dass „schwerer eine bessere Klangqualität bedeutet“, aber in Wirklichkeit sind die Dichte und die Ebenheit des Materials wichtiger.
 
-Die geringe Größe des 10-Zoll-Boards erhöht natürlich die Steifigkeit des gesamten Boards, wodurch es weniger wahrscheinlich ist, dass es sich verzieht und weniger Resonanzen verursacht.
+Die geringe Größe des 10-Zoll-Boards erhöht natürlich die Steifigkeit des gesamten Boards, wodurch es weniger dazu neigt, sich zu verziehen und weniger Resonanzen zu verursachen.
 Mit anderen Worten: Auch wenn es dünn ist, ist der Klang satt. Aus diesem Grund gibt es auch bei einer leichten 10-Zoll-Scheibe nahezu keinen Nachteil hinsichtlich der Klangqualität.
 
 ---

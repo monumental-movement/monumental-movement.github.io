@@ -302,7 +302,7 @@ City-Pop/Disco verbreitet sich auf TikTok und YouTube. Analoge Disco-Events sind
 | Schweben | Dua Lipa | Beliebt auf TikTok |
 | Sag es | Doja-Katze | Sehr beliebt in Japan |
 | Disco | Kylie Minogue | Moderne Disco, wie der Titel schon sagt |
-| Regen auf mich | Lady Gaga & Ariana Grande | Dance-Pop-Revival |
+| Regen auf mich | Lady Gaga & Ariana Grande | Dance-Pop-Comeback |
 | Funk in die Zukunft | Nachttempo | Future-Funk-Interpretation aus Japan |
 | Lass die Tür offen | Seidensonic | Soul x Disco-Fusion |
 | Brich meine Seele | Beyoncé | House- und Disco-Fusion |

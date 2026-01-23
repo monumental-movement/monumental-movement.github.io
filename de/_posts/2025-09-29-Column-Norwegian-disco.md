@@ -19,7 +19,7 @@ title: '[Kolumne] Norwegische Disco: Genealogie und empfohlene Aufzeichnungen vo
 
 Text: mmr｜Thema: Geschichte der modernen Disco/Space-Disco, geboren in Norwegen, Solowerke, Kollaborationen, produzierte Werke
 
-Trotz seines kalten Klimas und der skandinavischen Ruhe hat Norwegen einen wichtigen Trend des warmen Disco/Space-Disco hervorgebracht. Prins Thomas, Lindstrøm und das Mungolian Jet Set haben den Disco-, Italo- und französischen Touch der 70er und 80er Jahre mit einer norwegischen Linse neu interpretiert und der Tanzmusik des 21. Jahrhunderts ihre ganz eigene Note verliehen. In diesem Artikel werden wir die Soloarbeit, Zusammenarbeit und Produktionsaktivitäten jedes Künstlers umfassend vorstellen und empfohlene Alben nach Altersgruppe auflisten.
+Trotz seines kalten Klimas und der skandinavischen Ruhe hat Norwegen einen wichtigen Trend der warmen Disco/Space-Disco hervorgebracht. Prins Thomas, Lindstrøm und das Mungolian Jet Set haben den Disco-, Italo- und französischen Touch der 70er und 80er Jahre mit einer norwegischen Linse neu interpretiert und der Tanzmusik des 21. Jahrhunderts ihre ganz eigene Note verliehen. In diesem Artikel werden wir die Soloarbeit, Zusammenarbeit und Produktionsaktivitäten jedes Künstlers umfassend vorstellen und empfohlene Alben nach Altersgruppe auflisten.
 
 ---
 
@@ -112,7 +112,7 @@ Merkmale:
 
 Ein Ingenieur, der die Studioarbeit unterstützt.
 
-Er ist für das umfassende Sounddesign verantwortlich und nutzt dabei Synthesizer, Sampler, Programmierung usw. voll aus.
+Er ist für das reichhaltige Sounddesign verantwortlich und nutzt dabei Synthesizer, Sampler, Programmierung usw. voll aus.
 
 Jazz und
 Er bringt seinen klassischen Hintergrund mit und verleiht seinen Arrangements Tiefe.
@@ -128,7 +128,7 @@ Auf den Alben und Mixen von Mungolian Jet Set sind auch Gastsänger und Instrume
 
 #### Klangeigenschaften
 
-Genreübergreifend: Eine Mischung aus Disco-, Cosmic-, House-, Jazz-, Afro- und sogar Rock- und Prog-Elementen.
+Genreübergreifend: Eine Mischung aus Disco, Cosmic, House, Jazz, Afro und sogar Rock- und Progressive-Elementen.
 
 Remix-Sinn: Er ist bekannt für seine „Weltraumreise“-Remixe, die die Struktur des Originalsongs mutig verändern und ihn auf über 10 Minuten verlängern.
 

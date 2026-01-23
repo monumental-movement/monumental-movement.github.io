@@ -52,7 +52,7 @@ Melody emphasizes rhythm and the circulation of phrases rather than scale, and s
 
 ### Colonial period and urban music
 
-Colonial rule from the end of the 19th century to the 20th century brought European-derived instruments and harmonic concepts to West Africa. Brass bands, church music, and military bands played throughout the country, blending them with traditional rhythms. The highlife that developed in Ghana is a representative example of this hybridization, and serves as an important prehistory for the later formation of Afrobeat.
+Colonial rule from the end of the 19th century to the 20th century brought European-derived instruments and harmonic concepts to West Africa. Brass bands, church music, and military bands played throughout the country, blending them with traditional rhythms. The highlife that developed in Ghana is a representative example of this kind of hybridization, and serves as an important prehistory for the later formation of Afrobeat.
 
 ---
 
@@ -162,7 +162,7 @@ Afrobeat in the 1970s, when analog recording was the mainstream, was produced in
 
 ## Conclusion
 
-Afrobeat and Afro-Fusion are musics that were formed in different historical backgrounds and production environments, even though they share the same cultural area. The former is a collective expression rooted in a specific historical situation, and the latter is an individual and fluid expression after globalization. Through the facts presented in this paper, we can confirm continuity and discontinuity between the two.
+Afrobeat and Afro-Fusion are musics that were formed in different historical backgrounds and production environments, even though they share the same cultural sphere. The former is a collective expression rooted in a specific historical situation, and the latter is an individual and fluid expression after globalization. Through the facts presented in this paper, we can confirm continuity and discontinuity between the two.
 
 > "The two are not opposed concepts, but are understood as different stages placed on a historical timeline."
 

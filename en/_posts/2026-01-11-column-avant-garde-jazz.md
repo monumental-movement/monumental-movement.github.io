@@ -117,7 +117,7 @@ Sun Ra is a person who liberated avant-garde jazz from the framework of music an
 
 ### A community called Arkestra
 
-The group did not have a fixed composition, and the number of members and the composition of instruments changed depending on the period. This fluidity is directly connected to his musical philosophy, which centers on collective improvisation. Individual performances are free, but the overall performance maintains a sense of ritual unity.
+The Sun Ra Arkestra did not have a fixed composition, and the number of members and the composition of instruments changed depending on the period. This fluidity is directly connected to his musical philosophy, which centers on collective improvisation. Individual performances are free, but the overall performance maintains a sense of ritual unity.
 
 ### Representative recording analysis: [The Magic City (1966)](https://amzn.to/3LGlHWG)
 

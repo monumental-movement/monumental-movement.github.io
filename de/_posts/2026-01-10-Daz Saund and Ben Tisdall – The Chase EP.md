@@ -13,7 +13,7 @@ title: Daz Saund & Ben Tisdall – The Chase EP
 ---
 
 
-Ein Projekt von Daz Saund, der in den Clubs Garage und Trade lebte, und dem Produzenten Ben Tisdall (Rizzo). Die beiden arbeiten auch unter dem Namen Housewerk, Sound Associates.
+Ein Projekt von Daz Saund, der in den Clubs Garage und Trade lebte, und Produzent Ben Tisdall (Rizzo). Die beiden arbeiten auch unter dem Namen Housewerk, Sound Associates.
 
 „The Chase EP“ ist ein Techno-Track, der im Jahr 2000 auf Reel Musiq, einem Sublabel des japanischen Labels Sublime Records, veröffentlicht wurde.
 

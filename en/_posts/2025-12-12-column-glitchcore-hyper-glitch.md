@@ -109,9 +109,9 @@ Glitchcore actively uses clipping and crackling that can be avoided in normal mu
 
 ---
 
-### 2-4 Reinterpretation of pop structure
+### 2-4　Reinterpretation of pop structure
 
-Despite the disruptive acoustics, the melodies are often "very pop" and easy to remember. This is the essence of Glitchcore; it is not just noise music, but a genre that pours overloaded effects into a pop vessel.
+Despite the disruptive acoustics, the melodies are often "very pop" and easy to remember. This is the essence of Glitchcore; it's not just noise music, but a genre that pours overloaded effects into a pop vessel.
 
 ---
 
@@ -191,7 +191,7 @@ point:
 
 * Simultaneous firing of stems
 * Superimposition of dense layers
-* Excessive low range
+* Too much bass
 * Extreme use of sound pressure limiters
 
 ---

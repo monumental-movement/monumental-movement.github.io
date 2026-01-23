@@ -62,7 +62,7 @@ Das Sampling dieses Liedes ist nicht nur ein Klangmaterial, sondern wurde als �
 ---
 
 #### 4. Schick – „Good Times“ (1979)
-Die Basslinie von Bernard Edwards wurde in „Rapper's Delight“ der Sugarhill Gang berühmt. Als „Brücke“, die Disco und Hip-Hop verband, ist ihre Bedeutung in der Musikgeschichte unermesslich.
+Die Basslinie von Bernard Edwards wurde in „Rapper's Delight“ von Sugarhill Gang berühmt. Als „Brücke“, die Disco und Hip-Hop verband, ist ihre Bedeutung in der Musikgeschichte unermesslich.
 „Rekursiver Funk“, der dem späteren Daft Punk ähnelt und von Nile Rodgers selbst selbst gesampelt wurde.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RLTDpewIpfw?si=MSLW6XmAfDxZeEYB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -86,7 +86,7 @@ Curtis‘ Falsettgesang ist eine ewige Botschaft der „sich weiterentwickelnden
 ---
 
 #### 7. Bob James – „Take Me to the Mardi Gras“ (1975)
-Der Kuhglocken- und Glockenklang der Trommeln war unverwechselbar und wurde von Run-D.M.C., Beastie Boys, Eric B. & Rakim und anderen geliebt.
+Der Kuhglocken- und Glockenklang des Schlagzeugs war unverwechselbar und wurde von Run-D.M.C., Beastie Boys, Eric B. & Rakim und anderen geliebt.
 Bob James ist ein Symbol des Smooth Jazz, und der „harte Bruch“, den dieser Song hervorbrachte, wurde in der Sampling-Kultur der 1990er Jahre vergöttert.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ove38w3ztG4?si=BgFRFe1VL3bIC6HV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -141,7 +141,7 @@ Der sanfte Groove hat ein Maß an Perfektion, das sich anfühlt, als wäre er mi
 ---
 
 #### 14. Berg – „Long Red“ (1972)
-Der Gesang „Du weißt, was ich meine!“ wurde häufig von Public Enemy und De La Soul bei Live-Auftritten verwendet.
+Der Gesang „Du weißt, was ich meine!“ wurde oft von Public Enemy und De La Soul bei Live-Auftritten verwendet.
 Dies ist ein großartiges Beispiel dafür, wie ein einfacher Rocksong durch Vocal-Sampling zu einem Hip-Hop-„Teil“ wird.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a-0selX930s?si=YqL4own2TZXbBbBO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -171,7 +171,7 @@ Ein Meisterwerk des Instrumental-Funks, das von LL Cool J und Public Enemy als B
 ---
 
 #### 18. Barry White – „I’m Gonna Love You Just a Little More Baby“ (1973)
-In der Sampling-Welt ist es ein Symbol der Liebe. Das von The Dream und Kanye West zitierte Werk bewegt sich auf der Grenze zwischen Seele und Verlangen.
+In der Sampling-Welt ist es ein Symbol der Liebe. Der von The Dream und Kanye West zitierte Text bewegt sich auf der Grenze zwischen Seele und Verlangen.
 Der „nachhaltige Klang“ süßer Streicher verlieh Hip-Hop ein luxuriöses Gefühl.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x6AL1XnHJZs?si=BI01tmW68_iLGjqq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -197,7 +197,7 @@ Wird von The Roots, Eric B. & Rakim, Arrested Development und anderen verwendet.
 | Jahre | Veranstaltungen |
 |------|---------|
 | 1960er Jahre | Die Soul/Funk-Aufnahmetechnologie entwickelt sich. Die aufkeimende Drum-Break-Kultur. |
-| 1973 | Kool Herc spielt auf einer Blockparty zwei Exemplare von „Apache“. Geburtsstunde des Hip Hop. |
+| 1973 | Kool Herc spielt auf einer Blockparty zwei Kopien von „Apache“. Geburtsstunde des Hip Hop. |
 | 1984 | Run-D.M.C. erzielt den ersten kommerziellen Sampling-Hit. |
 | 1989 | „Fear of a Black Planet“ von Public Enemy etabliert mehrere Sampling-Techniken. |
 | 1994 | Wu-Tang Clan, RZAs „Noise Sampling“ schafft einen neuen Trend. |

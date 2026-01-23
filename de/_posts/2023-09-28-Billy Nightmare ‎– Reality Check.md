@@ -13,7 +13,7 @@ title: Billy Nightmare – Realitätscheck
 ---
 
 
-Dies ist eine EP von „Mystic Bill“ Torres, alias Billy Nightmare, der aus der Chicagoer Rave-Szene hervorgegangen ist.
+Dies ist eine EP von „Mystic Bill“ Torres, auch bekannt als Billy Nightmare, der aus der Chicagoer Rave-Szene hervorgegangen ist.
 
 Ursprünglich sollte das Projekt den Titel „Billy's Nightmare“ tragen, aber um ein Leben lang Pech zu vermeiden, beschloss Torres, es in „Billy Nightmare“ umzuwandeln, legte seinen Pseudonym „Mystic Bill“ beiseite, schnitt sich die Haare, änderte seinen Sound und nahm diese neue Rolle an.
 

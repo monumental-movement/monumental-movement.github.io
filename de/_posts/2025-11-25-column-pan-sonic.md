@@ -47,7 +47,7 @@ Als Pan Sonic Anfang der 90er Jahre in Finnland gegründet wurde, war die elektr
 Mika Vainio war ursprünglich im Industrial/Noise-Genre aktiv und wandte sich Anfang der 1990er Jahre elektrischen Klangexperimenten zu. Auch Ilpo Vaisanen bewegte sich zwischen den Bereichen DIY-Elektronik und Performance-Kunst.
 
 ### Debüt unter dem Namen Panasonic
-Um 1993 begannen die beiden unter dem Namen **Panasonic** zusammenzuarbeiten und brachten 1994 ihre erste Klangquelle heraus. Ein Großteil der Ausrüstung bestand aus modifizierten analogen Schaltkreisen, Rückkopplungssystemen und Oszillatoren, und die Hauptkomponente waren physikalische elektronische Schwingungen, die sich völlig von bestehenden Formen der Clubmusik unterschieden.
+Etwa 1993 begannen die beiden unter dem Namen **Panasonic** zusammenzuarbeiten und brachten 1994 ihre erste Klangquelle heraus. Ein Großteil der Ausrüstung bestand aus modifizierten analogen Schaltkreisen, Rückkopplungssystemen und Oszillatoren, und die Hauptkomponente waren „physikalische elektronische Schwingungen“, die sich völlig von bestehenden Formen der Clubmusik unterschieden.
 In der damaligen Musikszene gab es nur wenige, die den elektroakustischen Minimalismus in so reiner Form präsentierten.
 
 ### Namensproblem mit Matsushita Electric
@@ -68,10 +68,10 @@ Er verwendet selten handelsübliche Synthesizer, sondern konzentriert sich statt
 - Spannungsregelkreis
 - Physikalische Materialien wie Verstärker, Metallteile, Magnetspulen usw.
 
-Dadurch hat der Sound von Pan Sonic eine Rohheit, die wie eine Aufnahme des genauen Moments klingt, in dem eine elektronische Komponente in Betrieb ist. Der Klang ist hart, die Partikel sind groß und er ist überwältigend körperlich.
+Dadurch hat der Sound von Pan Sonic eine Rohheit, die wie eine Aufnahme des genauen Moments klingt, in dem eine elektronische Komponente in Betrieb ist. Der Klang ist hart, die Partikel sind groß und es fühlt sich überwältigend körperlich an.
 
 ## 2-2. Minimale Struktur
-Obwohl das Klangmaterial äußerst einfach ist, weist der Song eine detaillierte Struktur auf.
+Obwohl das Klangmaterial äußerst einfach ist, weisen die Songs eine detaillierte Struktur auf.
 
 - sich wiederholende Impulse
 - Fein schwankende Frequenz

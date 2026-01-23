@@ -49,7 +49,7 @@ B. Darqwan–Megatection
 
 Merkmale: Der Stil, der die Anfänge des Dubstep in den 2000er Jahren symbolisiert, wird stark widergespiegelt, und die Stärke des Beats und die Tiefe des Basses sind die Highlights.
 
-Reiz: Das Sounddesign von Zed Bias kombiniert einen Sinn für Struktur und Verspieltheit, der zu der Zeit auf dem neuesten Stand der britischen Elektronikszene war. Der Inhalt koexistiert mit spannenden Rhythmen und futuristischen Raumbeschreibungen und macht es zu einem wertvollen Sammlerstück.
+Reiz: Das Sounddesign von Zed Bias vereint einen Sinn für Struktur und Verspieltheit, der zu der Zeit auf dem neuesten Stand der britischen Elektronikszene war. Der Inhalt koexistiert mit spannenden Rhythmen und futuristischen Raumbeschreibungen und macht es zu einem wertvollen Sammlerstück.
 
 #### Trackliste
 ```md

@@ -75,7 +75,7 @@ Britische Elektro-/Techno-Arbeit von Sean Booth und Rob Brown. Eine CD mit exper
 
 Veröffentlicht: 1997
 
-Britischer Techno und Electronica. Veröffentlicht von NovaMute. Mixmags Top-5-Alben der 90er Jahre
+Britischer Techno und Electronica. Veröffentlicht von NovaMute. Mixmags Top-5-Alben der 90er
 
 #### Trackliste
 ```md

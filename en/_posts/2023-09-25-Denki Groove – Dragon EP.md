@@ -16,7 +16,7 @@ The title song "Dragon" is a danceable song that combines elements of electronic
 
 "Dragon EP" experiments with different musical styles and approaches. The experimental elements and playfulness of Denki Groove are reflected in the songs, which stand out for their uniqueness and creativity.
 
-This EP is a valuable piece for fans of Denki Groove, and allows you to feel the evolution of their music and new experiments. It will also be a great opportunity for those hearing Denki Groove's music for the first time to experience its unique sound and energy.
+This EP is a valuable piece for fans of Denki Groove, allowing you to feel the evolution of their music and new attempts. It will also be a great opportunity for those hearing Denki Groove's music for the first time to experience its unique sound and energy.
 
 
 #### Tracklist

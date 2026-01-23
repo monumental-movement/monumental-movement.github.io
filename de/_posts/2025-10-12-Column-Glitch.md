@@ -68,7 +68,7 @@ Deshalb fühlt sich die instabile Schönheit, die durch JPEG-Beschädigung und S
 
 Glitch hat auch Mode und Werbung durchdrungen.
 Die Methode, die ungeordneten Pixel in das Design zu integrieren, eroberte Ende der 2010er Jahre als „kaputtes Design“ die Straßenkultur im Sturm.
-Endlich können wir uns an der Tatsache erfreuen, dass es nicht perfekt ist und dass sogar das Digitale „Rauschen“ hat.
+Endlich können wir uns darüber freuen, dass es nicht perfekt ist und dass sogar digitale Produkte „Rauschen“ enthalten.
 
 ---
 
@@ -103,7 +103,7 @@ Das Aufkommen von NFT-Kunst ist auch ein Lärm, der den Begriff „Eigentum“ i
 Obwohl Daten unbegrenzt kopierbar sein sollten, wird Knappheit dadurch als „einmaliges Element“ neu definiert.
 Widersprüche bestehen weiterhin als Widersprüche – darum geht es bei Glitch.
 
-Die Gesellschaft wird zunehmend „optimiert“.
+Die Gesellschaft wird immer „optimierter“ werden.
 Allerdings ist die optimierte Welt irgendwie erdrückend.
 Deshalb empfinden wir bei unbeabsichtigten Geräuschen und Geräuschen ein Gefühl der Freiheit.
 
@@ -196,9 +196,9 @@ color: #fff;
 
 
 
-#### Glitch-Must-Listen-Diskografie
+#### Glitch-Must-Listen-Diskographie
 
-| Jahr | Künstler | Titel der Arbeit (Amazon-Link) | Notizen |
+| Jahr | Künstler | Werktitel (Amazon-Link) | Notizen |
 | ---- | -------------- | ---------------------------------------------------------------- | --------------- |
 | 1995 | Oval       | [94diskont](https://amzn.to/47k6D9b)           | “CD傷音”の金字塔      |
 | 1996 | Ryoji Ikeda                  | [+/-](https://amzn.to/46NnTU7)                 | ミニマル音響の頂点       |
