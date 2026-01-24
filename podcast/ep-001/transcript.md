@@ -6,7 +6,8 @@ lang: en
 description: "Full transcript of Episode 001."
 ---
 
-*This transcript has been lightly edited for clarity and readability.*
+> This transcript is provided for reference.
+> A separate editorial expands on the ideas discussed in this episode.
 
 ## Transcript
 
@@ -140,4 +141,5 @@ Co-host:
 Perhaps true rebellion is not always loud. Sometimes the most powerful statement exists in the space between the notes.
 
 ---
+
 

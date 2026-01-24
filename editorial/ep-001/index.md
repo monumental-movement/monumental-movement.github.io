@@ -2,6 +2,7 @@
 layout: default
 title: "Editorial Note Ep-001 | Ambient Music"
 description: "A paid editorial that reframes Ambient Music not as a genre, but as a designed mode of listening."
+lang: en
 ---
 
 <article class="editorial-sales">

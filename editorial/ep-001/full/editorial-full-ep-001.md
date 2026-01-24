@@ -1,5 +1,5 @@
 ---
-layout: editorial-full
+layout: default
 title: "Ambient Music Was Never Meant to Be Heard"
 subtitle: "Sound as environment, silence as philosophy"
 editorial_id: ep-001
@@ -8,7 +8,7 @@ category: Ambient Music
 price: "$5 USD"
 access: paid
 lang: en
-date: 2026-01-XX
+date: 2026-01-24
 
 # SEO / indexing control
 robots: noindex, nofollow
