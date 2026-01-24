@@ -64,9 +64,10 @@ lang: en
       Purchase the Editorial Note
     </a>
 
+<hr>
+
     <p class="purchase-note">
-      * After purchase, you will be redirected to the full reading page.<br>
-      * A downloadable PDF version is also included.
+      * After purchase, you will be redirected to the full reading page.
     </p>
   </section>
 
