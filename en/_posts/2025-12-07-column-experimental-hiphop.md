@@ -116,7 +116,7 @@ These created the musical ground that directly led to later Shabazz Palaces and 
 
 ---
 
-## 4. Shabazz Palaces: Redefining abstraction in hip-hop
+## 4. Shabazz Palaces: Redefining hip-hop abstraction
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zNXxd3yYDaM?si=kdXTFpn5kj1KpTDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -171,7 +171,7 @@ This gave rise to a trend that focused on texture.
 
 ---
 
-## 7. Expansion since 2010s: Clipping. / Milo / Open Mike Eagle
+## 7. Extensions since 2010s: Clipping. / Milo / Open Mike Eagle
 
 ### ● Clipping. (2010~)
 
@@ -190,7 +190,7 @@ This gave rise to a trend that focused on texture.
 
 ---
 
-- Poetry/philosophical usage.
+- Poetry/philosophical language.
 - Beats cross jazz/abstract/lo-fi.
 - The density and abstraction of the words are high.
 

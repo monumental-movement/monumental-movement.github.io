@@ -43,7 +43,7 @@ His parents have a musical background and warmly watched over his interest in mu
 
 At the age of six, he began learning tombak ("tombak" in English, tonbak or zarb in Persian). He took lessons with a traditional tambak player, but after only a few years his talent was recognized as surpassing that of his teacher, and there is an anecdote that at the age of nine, his teacher admitted that he could no longer teach him.
 
-At the age of 10, he won his first victory in the annual Tambak competition held in Iran. Since then, he has continued to win and become known throughout the country as a young talent.
+At the age of 10, he won his first victory in the Tambak competition held every year in Iran. Since then, he has continued to win and become known throughout the country as a young talent.
 During this period, his relationship with musical instruments in his life went beyond a mere hobby and grew into the core of his identity.
 
 ---
@@ -76,7 +76,7 @@ Mortazavi's most notable accomplishment is **more than 30 self-developed strikin
 
 Specifically, the approaches include:
 
-* **Using different points of attack**: Attacking areas that traditional players do not use, such as the center of the leather, the rim, and the body (wooden part).
+* **Use of different hitting points**: Attack areas that traditional players do not use, such as the center of the leather, the edge (rim), and the body (wooden part).
 * **Diverse parts of the hand**: The player's entire hand is considered a musical instrument, including the fingertips, joints, nails, palm, root of the thumb, and other parts that are considered taboo.
 * **Polyrhythmic approach**: A technique that allows multiple voices (layers) to sound simultaneously within the same instrument. This allows ensemble-like performance by just one player.
 * **Dynamic Range**: From extremely quiet touches to explosive blows, freely control the strength, tempo, and density of the sound.
@@ -164,7 +164,7 @@ Playing Mortazavi live is a very physical and spiritual experience. Every time h
 
 His playing mixes meditative, repetitive structures with fast, complex change patterns that often cause listeners to lose track of time. At the moment when the tempo slows down, the sound continues with reverberation, and these durations gradually overlap, creating resonance within the body. Conversely, when the rhythm suddenly accelerates, the audience's concentration peaks, leading them into a kind of trance-like state.
 
-A live experience like this is not just something you hear with your ears, but an experience that you can "feel" with your body. Mortazavi creates resonance with the audience as he performs, making them share a ""common pulse'' at each moment. The process has a ritual-like aspect that connects the instrument and the person, the performer and the audience.
+A live experience like this is not just something you hear with your ears, but an experience that you ""feel" with your body. Mortazavi creates resonance with the audience as he performs, making them share a ""common pulse" at each moment. The process has a ritual-like aspect that connects the instrument and the person, the performer and the audience.
 
 ---
 
@@ -172,7 +172,7 @@ A live experience like this is not just something you hear with your ears, but a
 
 Mortazavi has received international recognition for his skill, artistry, and innovation. In 2003, he won the **RUTH Newcomer Award**. He has also received a lot of interest from the media, and his style and philosophy have been featured in various outlets such as Germany's Deutschlandfunk, Pitchfork, Hardwax, and Boomkat.
 
-In particular, Pitchfork drew attention to the flexibility of human pulses and the improvisational nature of the rhythms he played, and described it as ""music that embodies humanity and the plasticity of time.'' Hardwax and others have praised the sonic precision and spiritual depth of his more than 30 new techniques.
+Pitchfork in particular drew attention to the flexibility of human pulses and the improvisational nature of the rhythms he played, and described it as ""music that embodies humanity and the plasticity of time.'' Hardwax and others have praised the sonic precision and spiritual depth of his more than 30 new techniques.
 
 Also, their physicality and spirituality are often emphasized in live reviews. Drummerszone and others have described in detail the striking points, hand parts, and resonance operations he uses, noting that his hands appear as if they were playing a "sound system."
 

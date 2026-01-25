@@ -19,7 +19,7 @@ title: '[Column] Black Flag - The turning point of Southern California hardcore'
 Text: mmr｜Theme: About a band that left a legacy of method and attitude rather than commercial success
 
 
-Black Flag was more than just a band name, it was a kind of structural change that pervaded the American West Coast underground from the late 1970s to the early 1980s. While they were known for their fast, harsh, and simple playing, they were laced with practices that would have a decisive influence on generations to come: DIY, self-sufficient touring, and record-making independence. Musically, they continued to reject the linear image of punk, changing from their early three-chord hardcore to the heavier, slower, experimental sound of their later years.
+Black Flag was more than just a band name, it was a kind of structural change that pervaded the American West Coast underground from the late 1970s to the early 1980s. While they were known for their fast, harsh, and simple playing, they were also beset by practices that would have a decisive influence on generations to come: DIY, self-sufficient touring, and record-making independence. Musically, they continued to reject the linear image of punk, changing from their early three-chord hardcore to the heavier, slower, experimental sound of their later years.
 
 The local characteristics of Southern California, suburban culture, repressive daily life, and a tense relationship with the police. Black Flag's music is inseparable from these specific environments. Anger and emptiness were not abstract things, but an extension of life. Each of their songs, tours, and records exists as a practical response to their environment.
 
@@ -61,7 +61,7 @@ The initial members changed drastically, with vocals, bass, and drums frequently
 
 ---
 
-The 7-inch EP Nervous Breakdown, released in 1979, was the first record that defined Black Flag. This work was released by SST Records, which was later established, and was distributed as a completely independent production. The songs were short, fast, and direct, and had an aggressiveness that was outstanding on the West Coast at the time.
+The 7-inch EP Nervous Breakdown, released in 1979, was the first record that defined Black Flag. This work was released by SST Records, which was later established, and was distributed as a completely independent production. The songs were short, fast, and direct, with an aggressiveness that was outstanding on the West Coast at the time.
 
 The title track, "Nervous Breakdown," is about mental breakdown, but it's full of urgent energy rather than introspection. The lyrics are concise, presenting emotions as raw rather than descriptive. This approach became the basis for later hardcore punk.
 
@@ -89,7 +89,7 @@ Importantly during this period of transition, Greg Ginn took full control and so
 
 ---
 
-The next important moment was the addition of Ron Reis (later known as Chavo Pederast). A representative example of the sound source recorded during the period when he was the vocalist is the 7-inch "Jealous Again". This work is particularly highly rated among the early Black Flag.
+The next important moment was the addition of Ron Reis (later known as Chavo Pederast). A representative example of the sound source recorded during the period when he was the vocalist is the 7-inch ""Jealous Again''. This work is particularly highly rated among the early Black Flag.
 
 "Jealous Again" is about simple jealousy, and has an aggressive yet somewhat sarcastic expression. Ron Reis" vocals are a little more restrained than Keith Morris"s, and the outline of his words is clearer. As a result, the structure and rhythm of the songs become more pronounced.
 
@@ -153,7 +153,7 @@ flowchart TD
 
 ---
 
-## Impact and legacy
+## Impact and Legacy
 
 Black Flag was a band whose legacy was more about method and attitude than commercial success. Their DIY ethos, grueling touring, and refusal to compromise musically became a reference point for countless bands.
 

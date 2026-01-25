@@ -99,7 +99,7 @@ Due to the decrease in snowfall and fluctuations in fruit growth in early spring
 
 - **Whistle**: Light evasive action
 
-- **Human voice**: Medium Evasion
+- **Human Voice**: Medium Evasion
 
 - **Firecracker**: Strong Evasion
 
@@ -121,7 +121,7 @@ G[high frequency electronic sound] --> H[experimental avoidance]
 
 ---
 
-### 4.2 Experimental example
+### 4.2 Experiment example
 
 - **Hokkaido Orchard (2015–2018)**: Invasion rate reduced by 40% due to use of firecrackers
 
@@ -155,7 +155,7 @@ Sound generation according to behavioral patterns using AI analysis. Cover a wid
 
 ### 6.2 International cases
 
-- **California, USA**: Intrusion prevention using electronic sounds and human voices
+- **California, USA**: Intrusion prevention using electronic sounds and human voice
 
 - **BC, Canada**: Non-lethal acoustic management reduces crop damage
 

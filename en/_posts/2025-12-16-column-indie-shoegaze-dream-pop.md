@@ -20,10 +20,10 @@ title: '[Column] Indie Shoegaze / Dream Pop'
 
 Text: mmr｜Theme: About the history of reconstructing sound images and sensations
 
-Shoegaze and dream pop, which emerged mainly in the UK from the late 1980s to the early 1990s, significantly shifted the expressive realm of rock music from "performance" to "sound image."
-These musics focus on the space, reverberation, and sensual duration created by overlapping sounds, rather than the immediate appeal of melody or the clear delivery of lyrics.
+Shoegaze and dream pop, which emerged mainly in the UK from the late 1980s to the early 1990s, significantly shifted the expressive realm of rock music from ""performance" to ""sound image."
+These musics focus on the space, reverberation, and sensual sustain created by overlapping sounds, rather than the immediate appeal of melody or the clear delivery of lyrics.
 
-The term "shoegaze" came from the way people looked at the effector boards at their feet while performing, and the term became established as a symbol of the introverted nature of the performance. Dream pop, on the other hand, was formed as a result of the fusion of an earlier ambient pop sensibility with the sonic orientation of post-punk.
+The term "shoegaze" came from the way people looked at the effector boards at their feet while performing, and the term became established as a symbol of the introverted nature of the performance. Dream pop, on the other hand, was formed as a result of the fusion of an earlier ambient pop sensibility with post-punk's post-punk sonic orientation.
 
 Although the two have different origins, they are closely connected in terms of sound processing, voice handling, and visual sensibilities.
 
@@ -49,8 +49,8 @@ color: #fff;
 
 ### 1-1. Acoustic sensation after post-punk
 
-In the late 1970s and early 1980s, postpunk deconstructed rock's structures and shifted its attention to timbre, texture, and spatial treatment.
-Synthesizers, reverb, and delay are no longer mere decorations, but function as elements that form the structure of the song itself.
+In the late 1970s and early 1980s, postpunk deconstructed rock's structure and shifted its attention to timbre, texture, and spatial treatment.
+Synthesizers, reverb, and delay are no longer mere decorations, but function as elements that shape the structure of the song itself.
 
 In this process, the singing voice changed from being the main body telling the story to becoming just a part of the sound.
 
@@ -261,7 +261,7 @@ This is an attempt to ensure visual anonymity similar to music.
 ### E-1. Succession to the late 1990s and beyond
 
 Even after shoegaze and dream pop temporarily lost commercial attention, their techniques continued underground.
-The emphasis on sound image is being reinterpreted in alternative rock, post-rock, and ambient pop.
+The emphasis on sound images is being reinterpreted in alternative rock, post-rock, and ambient pop.
 
 ---
 

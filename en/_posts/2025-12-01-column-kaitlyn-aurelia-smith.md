@@ -59,7 +59,7 @@ These experiences provided her with the axes of "naturalness," "spatiality," and
 
 Growing up, she studied composition and sound theory at a music educational institution in the United States, and at the same time was active in a folk duo using guitar, voice, and piano.
 
-However, after leaving the confines of his student days and returning to his hometown, an unexpected change occurs: he encounters a Buchla 100 loaned to him by a neighbor. When she first picked up a modular synth, she saw it not as a "flimsy tool" but as a "co-star," "a living thing," and "an electric body."
+However, after leaving the confines of his student days, he returns to his hometown and encounters an unexpected change: he encounters a Buchla 100 loaned to him by a neighbor. When she first picked up a modular synth, she saw it not as a "flimsy tool" but as a "co-star", a "living creature", and a "body of electricity".
 
 Buchla's instability, manual patching, and unpredictable sound shifts - through such contingency and instability, she chooses to bring out "living sound," "vibration," "space," and "physicality" from the synth.
 
@@ -73,7 +73,7 @@ This transformation is the basis for all of his subsequent works.
 
 Her early body of work included self-produced folk and experimental tracks. However, it wasn't until he started recording with the Buchla Music Easel that he began to seriously explore modular/electronic music.
 
-This recording was later published in the form of Tides: Music for Meditation and Yoga. Wind chimes, rustling trees, birdsong, water sounds, small natural noises - this work combines environmental sounds/field recordings with modular electronic waveforms.
+This recording was later released as a work, titled Tides: Music for Meditation and Yoga. Wind chimes, rustling trees, birdsong, water sounds, small natural noises - this work combines environmental sounds/field recordings with modular electronic waveforms.
 
 At this stage, it has not yet created a huge sensation. However, the direction of "modular + natural sounds/environmental sounds + spatiality" was already clear, and the underlying feeling of her music was emerging.
 
@@ -105,7 +105,7 @@ With this work, she went beyond the prejudice that ""electronic music = cold mec
 
 The sound that has matured over the years since 2017 reaches new horizons with the 2020 album *The Mosaic of Transformation*.
 
-In this work, she views modular synths as ""vibration mediating devices," ""an extension of the body," and ""a point of intersection between electricity and the body.'' In creating the piece, the idea was to conduct electricity along with daily movement, breathing, and physical sensations - in other words, the intention was not to simply make the modular sound, but to "feel" the vibrations with your body.
+In this work, she views modular synths as ""vibration mediating devices," ""an extension of the body," and ""a point of intersection between electricity and the body.'' In creating the piece, the idea was to conduct electricity along with daily movements, breathing, and physical sensations - in other words, the intention was not to simply make the modular sound, but to "feel" the vibrations with your body.
 
 As a result, this work has a sound that prioritizes "waves," "fluctuations," "spatial sensation," and "physical sensation" rather than structure or form. Droney silences, rolling pads, whispering voices, and layers of enveloping synths resonate across organic and electronic, physical and electric, time and space.
 
@@ -135,7 +135,7 @@ This philosophy redefines modular synths not just as sound sources or tools, but
 
 ## Sound evolution — time series and sound trajectory
 
-The following is a history of her sound, centered around her main works, moving back and forth between "electronic/experimental ⇔ organic/physical/spatial".
+The following is a trajectory of her sound, centered around her main works, as she moves back and forth between "electronic/experimental ⇔ organic/physical/spatial."
 
 <div class="mermaid">
 graph TD
@@ -169,7 +169,7 @@ In this way, her sound has not evolved in a linear manner, but has continued to 
 
 ---
 
-## Conclusion — Message to those who love Buchla
+## Closing — A message to those who love Buchla
 
 Kaitlyn Aurelia Smith's journey has never been a technical experiment or a show-off of skills. Her goal is to create a rich and poetic ""world of sensations" that interweaves ""the body, nature, electricity, time, and space" through the ""technical device'' of a modular synth.
 

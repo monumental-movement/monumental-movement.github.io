@@ -20,7 +20,7 @@ title: '[Column] The trajectory of Japanese underground rock and noise from the 
 Text: mmr｜Theme: Global attention on the Japanese underground music scene from the 1990s to the 2000s
 
 The 1990s and 2000s were the heyday of **noise music** and also served as a crossroads with alternative rock and avant-garde punk.
-In particular, artists such as Keiji Haino, Merzbow, Hijikadan, Melt-Banana, Boredoms, and Violent Onsen Geisha destroyed existing musical genres and opened up new areas of expression.
+In particular, artists such as Keiji Haino, Merzbow, Hijikaido, Melt-Banana, Boredoms, and Violent Onsen Geisha destroyed existing musical genres and opened up new areas of expression.
 
 ---
 
@@ -43,7 +43,7 @@ color: #fff;
 
 [**Fushitsusha**](https://amzn.to/4mBoM6K) led by Keiji Haino, Masami Akita"s [**Merzbow**](https://amzn.to/46qEmxw), Ai Yamazuka and Seiichi Yamamoto"s [BOREDOMS](https://amzn.to/4nKFfGO), [Incapacitors](https: Groups like //amzn.to/3IsJjwx) and [Violence Onsen Geisha](https://amzn.to/4gJWXbk) broke the boundaries of conventional rock and punk, creating a sonic world that combined noise and experimental spirit.
 
-This period also saw the rise of indie labels, appearances at international festivals, and accelerated interactions with the American and European underground. Furthermore, cutting-edge activities were developed that influenced film and soundtrack production, as well as later **AI music generation**.
+This period also saw the rise of indie labels, appearances at international festivals, and accelerated interaction with the American and European underground. Furthermore, cutting-edge activities were developed that influenced film and soundtrack production, as well as later **AI music generation**.
 
 ---
 
@@ -53,7 +53,7 @@ This period also saw the rise of indie labels, appearances at international fest
 - **Merzbau**: While moving from analog equipment to laptop noise, it reflects animal rights and vegetarianism.
 - **Firefighter**: An existence that blurs the line between "noise band" and "performance art."
 - **Boredoms**: Fusing psychedelic and noise, influencing the American alternative scene.
-- **Melt-Banana**: "Nano Core" combines hardcore speed and noise texture.
+- **Melt-Banana**: "Nano Core" combines the speed of hardcore and the texture of noise.
 
 ---
 

@@ -196,7 +196,7 @@ flowchart LR
 - 1. DI the guitar → Saturation
 - 2. Light drum (Trap keynote)
 - 3. Auto-Tune + Doubler
-- 4. Overlap crying top lines
+- 4. Layer crying top lines
 
 ---
 
@@ -254,7 +254,7 @@ graph TD
 
 # 10. Summary
 
-Hyperpop and Digicore are trends that were born out of the democratization of music production tools and the maturation of Internet culture. The simplicity of production, remix culture, social media spread, and the experimental spirit of young creators combined to dismantle the traditional genre structure and present a new form of pop.
+Hyperpop and Digicore are trends that were born out of the democratization of music production tools and the maturation of Internet culture. The ease of production, remix culture, social media spread, and the experimental spirit of young creators combined to dismantle the traditional genre structure and present a new form of pop.
 
 In the future, it is likely to be further segmented and expanded due to advances in AI vocals, generated sound sources, real-time collaboration, etc.
 

@@ -24,7 +24,7 @@ Text: mmr｜Theme: About the Modular Techno scene
 
 Although its origins as a genre date back to the early 2000s, its foundational elements are deeply rooted in the emergence of analog modular synths in the 1970s and the formation of Detroit techno in the 1980s. Due to the high degree of freedom of modular synths, it is often possible to develop unique sounds that emphasize the texture and spatial expanse of the sound, rather than simply playing techno tracks.
 
-In his live set, he manipulates rhythm, bass line, percussion, and noise effects in each module to create an improvised musical space that changes. As a result, listeners can experience an experience that is more like ""experiencing a performance" than ""listening to a track."
+In his live set, he manipulates rhythm, bass line, percussion, and noise effects module by module to create an improvised musical space. As a result, listeners can experience an experience that is more like ""experiencing a performance" than ""listening to a track."
 
 
 ---
@@ -60,7 +60,7 @@ graph TD
 
 ## Evolution of modular synths
 
-In the 1990s, hybrid analog/digital modules from Roland, Korg, Doepfer, and others appeared, lowering the barrier to using modular synths and allowing many artists to create experimental sounds in their home studios or small clubs.
+In the 1990s, analog/digital hybrid modules from Roland, Korg, Doepfer, and others appeared, lowering the barrier to using modular synths and allowing many artists to create experimental sounds in their home studios or small clubs.
 
 Especially since 1995, the Eurorack standard proposed by Doepfer has made modules compatible and compact, making it easier for individuals to build modular sets. This directly leads to the expansion of the Modular Techno scene from the 2000s onwards.
 
@@ -132,7 +132,7 @@ The technical background of Modular Techno is a mechanism that controls each mod
 
 Modular synths generate sound by combining modules with functions such as sound sources, filters, envelopes, LFOs, VCFs, and VCAs, and connecting them with cables. The acoustic structure is completely up to the user's design and there are no fixed presets. This point goes well with the approach of techno, which emphasizes improvisation.
 
-A major feature of the Eurorack standard is that modules from various manufacturers can be freely combined by standardizing the 3U size, module width HP, and power specifications. This has been a factor in the expansion of modular synth culture on a global scale since the 2000s.
+A major feature of the Eurorack standard is that modules from various manufacturers can be freely combined by standardizing the 3U size, module width HP, and power supply specifications. This has been a factor in the expansion of modular synth culture on a global scale since the 2000s.
 
 ## Role of sequencer and CV/Gate
 
@@ -269,7 +269,7 @@ The shift from ""track reproduction" to ""sound generation" has also influenced 
 
 ---
 
-# Future prospects
+# Future outlook
 
 Modular Techno is expected to continue to evolve, and several directions are expected.
 

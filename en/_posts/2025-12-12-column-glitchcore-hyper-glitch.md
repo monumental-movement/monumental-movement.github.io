@@ -20,7 +20,7 @@ title: '[Column] Glitchcore / Hyper-Glitch Pop continues to break down, the futu
 Text: mmr｜Theme: Glitchcore/Hyper-Glitch's formation process, acoustic techniques, cultural background, representative artists, development in the 2020s, and future prospects
 
 Glitchcore and Hyper-Glitch are a trend in Internet-generated pop/electronic music that has been occurring since the late 2010s, with "corruption," "fragmentation," and "overload" at the center of its aesthetic.
-Clicks, noise, digital distortion, pitch shifts, Vocaloid-like processing, rapid song development, bizarre tempo fluctuations -- the most distinctive feature of this album is that it attempts to express a ""balance between excess and decay'' by fusing these elements in a highly pop context.
+Clicks, noise, digital distortion, pitch shifts, Vocaloid-like processing, rapid song development, strange tempo fluctuations -- the most distinctive feature of this album is that it attempts to express a ""balance between excess and decay'' by fusing these elements in a highly pop context.
 
 Acts such as SOPHIE, A. G. Cook, and 100 gecs took this "broken pop" to an international level, proving that many artists could "create a global musical language from their own rooms" through DAWs and sample packs.
 
@@ -109,9 +109,9 @@ Glitchcore actively uses clipping and crackling that can be avoided in normal mu
 
 ---
 
-### 2-4　Reinterpretation of pop structure
+### 2-4 Reinterpretation of pop structure
 
-Despite the disruptive acoustics, the melodies are often "very pop" and easy to remember. This is the essence of Glitchcore; it's not just noise music, but a genre that pours overloaded effects into a pop vessel.
+Despite the disruptive acoustics, the melodies are often "very pop" and easy to remember. This is the essence of Glitchcore; it is not just noise music, but a genre that pours overloaded effects into a pop vessel.
 
 ---
 
@@ -191,7 +191,7 @@ point:
 
 * Simultaneous firing of stems
 * Superimposition of dense layers
-* Too much bass
+* Excessive low range
 * Extreme use of sound pressure limiters
 
 ---
@@ -267,7 +267,7 @@ Another major feature is that anime-style expressions, Vocaloid culture, Interne
 
 ### 7-3 SoundCloud personality
 
-osquinn and glaive brought emo chord progressions, guitar touches, and airy vocals to Glitchcore. This represents a more introverted, melodic direction to the "edgy" nature of Hyperpop.
+osquinn and glaive brought emo chord progressions, guitar touches, and light vocals to Glitchcore. This represents a more introverted, melodic direction to the "edgy" nature of Hyperpop.
 
 ---
 
@@ -316,7 +316,7 @@ As music becomes shorter and more likely to be distributed in fragments rather t
 
 ### 10-2 Will "broken pop" be standardized?
 
-Destructive processing like Hyper-Glitch is already starting to find its way into mainstream pop. In the future, there is a high possibility that ""glitch as a production idea'' will become a standard tool rather than boundaries as a genre.
+Destructive processing like Hyper-Glitch is already starting to find its way into mainstream pop. In the future, it is highly likely that "glitch as a production idea" will become a standard tool rather than boundaries as a genre.
 
 ---
 

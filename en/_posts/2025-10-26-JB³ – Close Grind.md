@@ -12,7 +12,7 @@ title: JB³ – Close Grind
 ---
 
 
-A Techno album released by American techno DJ/producer Joey Beltram under the name JB³ on the NovaMute label in 1996. The jacket was designed by UK graphic designer Paul Nicholson, who is known for designing the Aphex Twin logo.
+A Techno album released by American techno DJ/producer Joey Beltram under the name JB³ on the NovaMute label in 1996. The cover art is by Paul Nicholson, a UK graphic designer known for designing the Aphex Twin logo.
 
 #### Tracklist
 ```md

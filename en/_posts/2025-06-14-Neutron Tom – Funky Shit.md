@@ -14,7 +14,7 @@ title: Neutron Tom – Funky Shit
 ---
 
 
-Neutron Tom is the alias of UK hard dance producer, remixer and DJ, Thomas Ingamells. He is better known as Ingo.
+Neutron Tom is the alias of UK hard dance producer, remixer & DJ, Thomas Ingamells. He is better known as Ingo.
 
 "Funky Shit" is a hard house track released in 2002 on Ingo's own UK hard house label Vacuum Recordings.
 

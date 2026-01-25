@@ -74,7 +74,7 @@ For example, "Spinning Away" is a perfect mix of floating feelings and nostalgia
 > With my pencil turning moments into line…"
 
 The melody is like a ""memory sketch.''
-This album was a forerunner of Eno's ""environmental pop'' from the 1990s onward, and was inherited by the sounds of Coldplay and Moby.
+This album was a forerunner of Eno's ""environmental pop'' movement from the 1990s onward, and was inherited by the sounds of Coldplay and Moby.
 ""False ascension'' may refer to the path we take in what we believe is the correct path.
 
 ---

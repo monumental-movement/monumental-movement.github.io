@@ -154,7 +154,7 @@ Anjunadeep and All Day I Dream turned to melodic/organic music. In South Africa,
 
 **Early peak**: Ron Trent/Chez Damier's driving force
 
-**Plateau**: Refinement of Jimpster to Freerange
+**Plateau**: Refinement of Jimpster ~ Freerange
 
 **Color change**: Henrik Schwarz's live feel
 

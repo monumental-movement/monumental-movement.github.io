@@ -173,7 +173,7 @@ From a musical psychology point of view, music with a slow tempo and low informa
 - **Emotional calm**
 - **Expansion of time awareness (songs feel longer)**
 
-Therefore, when Slowcore is frequently used in movies, photographs, and video works, it exhibits extremely strong compatibility when expressing ""stopped time''.
+Therefore, when Slowcore is frequently used in movies, photographs, and video works, it exhibits an extremely strong compatibility when expressing ""stopped time''.
 
 ---
 

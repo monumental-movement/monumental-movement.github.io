@@ -114,7 +114,7 @@ The focus was on young Norwegian underground musicians.
 * Scream Vo
 * Expression of "Ice Wasteland" through repetition and speed
 * Corpse Paint
-* Nature view of winter, forest, and solitude
+* Natural view of winter, forest, and solitude
 
 ## ■ Representative band
 
@@ -127,7 +127,7 @@ The focus was on young Norwegian underground musicians.
 
 ### ■ Serious incident
 
-* 1991: Dead of Mayhem dies.
+* 1991: Dead of Mayhem passed away.
 * 1992: Church arson incident
 * 1993: Euronymous murder case
 * 1993–1994: Major album releases all at once
@@ -223,7 +223,7 @@ Major works: *Bathory* (1984), *The Return…* (1985), *Under the Sign of the Bl
 **A decisive event that brought ritual elements of "death and inhumanity" into black metal**.
 * Euronymous is based in Helvete (a record store in Oslo).
 **Formation of a black metal inner circle (close small community). **
-* Later received worldwide attention for the Euronymous murder case (1993) and the church arson incident.
+* Later gained worldwide attention for the Euronymous murder case (1993) and the church arson incident.
 
 ---
 
@@ -233,7 +233,7 @@ Major works: *Bathory* (1984), *The Return…* (1985), *Under the Sign of the Bl
 Major works: *Burzum* (1992), *Det Som Engang Var* (1993), *Hvis lyset tar oss* (1994)**
 
 * The music aims for thorough minimalism,
-**A style that aims to create a trance-like nature and the collapse of one's sense of time through repetition**.
+**A style that aims to create a trance-like nature and the collapse of the sense of time through repetition**.
 * Continuing to make a strong statement in the Norwegian cultural and religious debate in the early 1990s,
 Due to excessive media coverage, black metal's ""dangerous image'' was established.
 * After the incident (murder of Euronymous) and arrest, Burzum's sound source became more ambient-oriented.

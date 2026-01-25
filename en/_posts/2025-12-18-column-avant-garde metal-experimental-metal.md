@@ -44,7 +44,7 @@ color: #fff;
 
 ## Structural assumptions in metal
 
-In order to understand avant-garde metal, it is first necessary to clarify what normal metal is based on.
+To understand avant-garde metal, it is first necessary to clarify what is the premise behind regular metal.
 
 Traditional metal has been formed as a collection of structural assumptions such as the following.
 
@@ -176,7 +176,7 @@ In this work, the separation of structures goes even further. The songs are stru
 | Method | Demolition | Layering |
 | Time | Rupture | Parallel |
 | Rhythm | Destruction of pulse sensation | Breathing control |
-| Dissonance | Structural armament | Spatial production |
+| Dissonance | Structural Armament | Spatial Direction |
 
 ---
 
@@ -202,7 +202,7 @@ Avant-garde metal didn't create a genre, it left behind a way of thinking. In su
 
 Gorguts and Maudlin of the Well are not polar opposites of avant-garde metal. They are different coordinates that exist on the same structural axis.
 
-Avant-garde metal is not a movement that radicalizes music, but an act that continues to question the very conditions under which music exists. This question is still unfinished and continues to be updated.
+Avant-garde metal is not a movement that radicalizes music, but an act that continues to question the very conditions under which music exists. The question remains unfinished and is being updated.
 
 ---
 

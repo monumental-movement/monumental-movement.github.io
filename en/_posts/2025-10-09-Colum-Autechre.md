@@ -20,7 +20,7 @@ Text: mmr | Theme: Autechre by Sean Booth and Rob Brown. Tracing the evolution o
 Autechre is more than just an electronic music duo.
 Their sound is both mathematical and raw. It looks cold and leaves a somewhat human roughness. Sean Booth and Rob Brown, two young men who met in north Manchester, set out on a path to redefining the very structure of sound, using hip-hop and engineering curiosity as starting points.
 
-In the early 1990s, Autechre was a standout among Warp Records' Artificial Intelligence series. They were searching for a way to ""convert mechanical sounds into emotion.'' Sean Booth later said in an interview:
+In the early 1990s, Autechre stood out in Warp Records' Artificial Intelligence series. They were searching for a way to ""convert mechanical sounds into emotion.'' Sean Booth later said in an interview:
 
 > "Techno for us is not about eliminating emotion, but expressing it through structure."
 
@@ -211,7 +211,7 @@ The journey to find the answer is far from over.
 
 🔗 [[Column] From the origins of IDM to the present - Between intellectual exploration and the dance floor](https://monumental-movement.jp/Column-IDM)
 
-🔗 [[Column] From the origins of techno to the present - A chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[Column] From the origins of techno to the present - a chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)
 
 🔗 [[Column] The Golden Age of UK Techno](https://monumental-movement.jp/Column-90s-UKTechno)
 

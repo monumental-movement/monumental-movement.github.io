@@ -119,7 +119,7 @@ This aesthetic is deeply embedded in anime and video works as well.
 Bug effects seen in "Cyber ​​Coil", "Ghost in the Shell SAC_2045", and "EVA:3.0+1.0"——
 It has become a device that symbolizes the ""fluctuation of cognition'' in an information-overloaded society.
 
-And now, at a night club in Tokyo,
+And now, in a night club in Tokyo,
 Fragments of sound made up of broken samples echo like the heartbeat of the city itself.
 Glitch has gone beyond the boundaries of art and has become our "everyday sound."
 
@@ -167,7 +167,7 @@ flowchart TD
     A2000["2000: Clicks & Cuts movement start (Mille Plateaux)"]
     A2004["2004: Alva Noto & Ryuichi Sakamoto's "Vrion" released"]
     A2010["2010: Rosa Menkman"s "The Glitch Moment(um)' published"]
-    A2013["2013: Arca "&&&&&" announced — fusion of Glitch and physicality"]
+    A2013["2013: Arca's &&&&&' released — fusion of Glitch and physicality"]
     A2020["2020: Expanding the expression of "simulated bugs" in the age of AI art"]
     A2025["2025: Toward the Post-Glitch era—-Philosophy of error becomes everyday"]
 
@@ -197,7 +197,7 @@ color: #fff;
 
 #### Glitch must-listen discography
 
-| Year | Artist | Title of work (Amazon link) | Notes |
+| Year | Artist | Work title (Amazon link) | Notes |
 | ---- | -------------- | ---------------------------------------------------------------- | --------------- |
 | 1995 | Oval | [94diskont](https://amzn.to/47k6D9b) | Monument of "CD Kuon" |
 | 1996 | Ryoji Ikeda | [+/-](https://amzn.to/46NnTU7) | The pinnacle of minimal acoustics |

@@ -114,7 +114,7 @@ Hip-hop has the "four pillars" of block parties, graffiti, breaking, and DJ/MC. 
 
 ---
 
-Metal has been given the image of being "demonized" and aroused controversy over self-regulation such as the PMRC. Depending on the subgenre, it can also create social conflicts over violent incidents and discriminatory statements.
+Metal has been given the image of being "demonized" and has aroused controversy over self-regulation such as the PMRC. Depending on the subgenre, it can also create social conflicts over violent incidents and discriminatory statements.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G3LvhdFEOqs?si=4R5mtsKWW15IxBLC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -183,7 +183,7 @@ Leftfield/Queer Clubs are rebuilding safe night spaces and establishing internal
 
 ### 2020s: Irregular spaces after the pandemic: Micro-rave and local communities
 
-During the lockdown period, guerilla-style outdoor DJ/streaming occurred all over the world. Attempts have been made to "reoccupy public spaces" such as parks, rooftops, and streets, and negotiations with police and residents have entered a new stage.
+During the lockdown period, guerrilla-style outdoor DJ/streaming occurred all over the world. Attempts have been made to "reoccupy public spaces" such as parks, rooftops, and streets, and negotiations with police and residents have entered a new stage.
 
 The hybridization of social movements and music events (fundraising parties, mutual aid community kitchens, etc.) is progressing, and the focus is on care and consensus-building rather than the "illegal/legal" dichotomy.
 
@@ -196,7 +196,7 @@ The hybridization of social movements and music events (fundraising parties, mut
 
 **Britain/Europe**: Collective nature intertwined with class, immigration, and football culture. Rave culture tends to clash with urban planning and private land systems.
 
-**Japan**: From the early acceptance of rockabilly/punk to the "underground box" of hardcore and the dawn of clubs, conflicts with administrative regulations (late-night business/entertainment-related) are commonplace. The importation and localization of sounds and the self-management of venues have developed.
+**Japan**: From the early acceptance of rockabilly/punk to the "underground box" of hardcore and the dawn of clubs, conflicts with administrative regulations (late-night business/entertainment-related) are common. The importation and localization of sounds and the self-management of venues have developed.
 
 
 <hr>
@@ -213,7 +213,7 @@ The hybridization of social movements and music events (fundraising parties, mut
 
 **Radicalization of the narrative**: The realism/exaggeration of the lyrics is misinterpreted by the media as a crime warning.
 
-**Media Apparatus**: Reporting creates a "popular devil" (Cohen's Moral Panic).
+**Media apparatus**: Reporting creates a "popular devil" (Cohen's moral panic).
 
 **Reflection with the system**: The cycle of crackdown → underground → strengthening of solidarity → commercial recovery → deviation again.
 

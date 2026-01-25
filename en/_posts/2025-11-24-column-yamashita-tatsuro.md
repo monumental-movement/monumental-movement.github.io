@@ -123,7 +123,7 @@ Tatsuro began using digital equipment in earnest.
 
 Specifically, I avoided digital recording itself for the following reasons:
 
-- In the early stages of digital recording, high frequencies are hard and depth is easily lost.
+- In the early stages of digital recording, the high range is hard and depth is easily lost.
 - I hated losing the "roundness" of analog over-recording.
 - Analog was better for building my own chorus.
 
@@ -169,7 +169,7 @@ Throughout the 2020s, many analog era works have been remastered.
 
 Even in remastering, Tatsuro has made it clear that he strongly dislikes changing the sound.
 
-### ▼ Remastered features
+### ▼ Features of the remaster
 - Faithfully reproduces the original tape
 - No extreme EQ
 - Do not raise sound pressure unnaturally (reject loudness war)
@@ -239,7 +239,7 @@ point:
 - Rich mid-low range with NEVE console
 - EMT plate reverberation culture
 
-These "age-specific conditions" make the analog city pop sound unique.
+These "time-specific conditions" make the analog city pop sound unique.
 
 ---
 

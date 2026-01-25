@@ -20,7 +20,7 @@ title: '[Column] Complete history of French hip-hop: from NTM to the present day
 Text: mmr｜Theme: Focusing on NTM and IAM, explanations of each album and song, social background, regional style analysis, and chronology.
 
 French hip-hop is a cultural movement that was born in the suburbs of French cities in the late 1980s, and while influenced by American hip-hop, it has developed to reflect its own social and cultural background.
-In particular, young people from immigrant communities and low-income families have adopted rap as a means of expressing their voices, and the lyrics contain political and social messages.
+In particular, young people from immigrant communities and low-income families have adopted rap as a way to express their voices, and the lyrics contain political and social messages.
 
 ---
 
@@ -91,7 +91,7 @@ Main works and features:
 ### 2-2. IAM's philosophical and historical lyrics
 
 1. **L"École du Micro d"Argent (1997)**
-- Depicting the city of Marseille and social issues
+- Depicting the city and social issues of Marseille
 - Lyrics about ancient Egypt and French colonial history
 
 <div class="mermaid">
@@ -185,7 +185,7 @@ timeline
 ## 7. Social and cultural achievements of NTM and IAM
 
 | Group | Impact/Achievements |
-|-----------|-----------|
+|-----------|------------|
 | NTM | Establishment of socially critical rap, symbol of Parisian suburban culture |
 | IAM | Introduction of philosophical and historical themes, establishment of Marseille's musical individuality |
 

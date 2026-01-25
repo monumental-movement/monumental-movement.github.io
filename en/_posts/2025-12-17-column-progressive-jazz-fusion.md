@@ -44,7 +44,7 @@ color: #fff;
 
 In the late 1960s, jazz expanded its vocabulary beyond hard bop and gained flexibility in its temporal structure through modal playing and free improvisation. On the other hand, rock music was changing into music that was based on loud volumes and repetitive beats, and was designed for large-scale listening environments. The maturation of electric instruments and amplification technology has expanded the connection between the two on a physical rather than an ideological level.
 
-During this period, many jazz musicians introduced electric pianos, electric basses, and amplified guitars, building ensembles based on volume, sustain, and timbre manipulation that were impossible with traditional acoustic formations. As a result, new forms of performance featuring long structures, circular riffs, complex meters, and repetitive structures took hold, and progressive jazz/fusion came to be recognized as a distinct current.
+During this period, many jazz musicians introduced electric pianos, electric basses, and amplified guitars, building ensembles based on volume, sustain, and timbre manipulation that were impossible with traditional acoustic formations. As a result, new forms of performance featuring long structures, cyclical riffs, complex meters, and repetitive structures took hold, and progressive jazz/fusion came to be recognized as a distinct current.
 
 ---
 
@@ -52,7 +52,7 @@ During this period, many jazz musicians introduced electric pianos, electric bas
 
 ### Formation and basic philosophy of the band
 
-Weather Report was formed in 1970 and prioritized the sonic integrity of the entire ensemble over the excellence of individual soloists. The traditional division of roles between theme, accompaniment, and improvisation was intentionally blurred, and the pieces were designed as processes that generate and transform over time rather than fixed forms.
+Weather Report was formed in 1970 and prioritized the sonic integrity of the ensemble as a whole, rather than the excellence of individual soloists. The traditional division of roles between theme, accompaniment, and improvisation was intentionally blurred, and the pieces were designed as processes that generate and transform over time rather than fixed forms.
 
 This idea is distinctive in that improvisation is viewed as ""sound production by a group" rather than ""individual expression." Each instrument moves away from its fixed role as the main melody or accompaniment, and instead functions as an element of timbre, rhythmic density, and spatial arrangement.
 
@@ -83,7 +83,7 @@ The keyboard uses an electric piano or synthesizer, and rather than presenting a
 
 The Mahavishnu Orchestra began operations in the early 1970s and was characterized by extremely fast tempos, complex time signature structures, and strictly composed unison. While Weather Report emphasized fluid generation, Mahavishnu Orchestra contrasts with its emphasis on constructability and reproducibility.
 
-The improvisation here develops within a composed framework rather than in complete freedom. Each performer is required to perform within highly technical constraints, and the ensemble as a whole has the integrity of a precision machine.
+The improvisation here takes place within a composed framework rather than complete freedom. Each performer is required to perform within highly technical constraints, and the ensemble as a whole has the integrity of a precision machine.
 
 ### Rhythmic structure and form
 
@@ -150,7 +150,7 @@ Progressive jazz/fusion left a legacy of thinking that linked structural design 
 
 ## Conclusion
 
-Progressive Jazz/Fusion was more a methodology than a style, a collection of practices aimed at redesigning musical structure. The collective sonic production of Weather Report and the architectural complexity of Mahavishnu Orchestra represent the opposite ends of this trend. By understanding the two side by side, the essence of progressive jazz/fusion emerges more three-dimensionally.
+Progressive Jazz/Fusion was more of a methodology than a style, a collection of practices aimed at redesigning musical structure. The collective sonic production of Weather Report and the architectural complexity of Mahavishnu Orchestra represent the opposite ends of this trend. By understanding the two side by side, the essence of progressive jazz/fusion emerges more three-dimensionally.
 
 ---
 

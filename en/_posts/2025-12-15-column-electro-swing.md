@@ -87,7 +87,7 @@ Their songs mix elements of not only swing but also gypsy jazz, pop, and electro
 
 ## 6. Musical structure
 
-The structure of Electro Swing often consists of the following elements:
+Electro Swing's structure often consists of the following elements:
 
 * Melody fragments derived from swing
 * Clear dance beat

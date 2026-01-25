@@ -20,7 +20,7 @@ title: '[Column] Black Midi — The impact of experimental rock from London and 
 
 Text: mmr｜Theme: From their formation to their main works, their evaluation both domestically and internationally, and their influence on subsequent bands and culture.
 
-Black Midi is a young rock/experimental music band formed in London in 2017. Just a few years after their debut, they shocked the world of indie rock with their bold sound, overwhelming performance, and unpredictable live structure that went beyond traditional rock and post-punk.
+Black Midi is a young rock/experimental music band formed in London in 2017. Just a few years after their debut, they shocked the world of indie rock with their bold sound, overwhelming performance, and unpredictable live structure that went beyond the boundaries of conventional rock and post-punk.
 
 ---
 
@@ -48,7 +48,7 @@ color: #fff;
 - **Support/tour participants** (depending on the season): Keyboard player, saxophone player, etc. (e.g. keyboardist Seth Evans, saxophonist Kaidi Akinnibi)
 - **Musical style/genre**: He has a wide range of experimental styles, including math rock, progressive rock, post-punk, noise, and avant-jazz. Characterized by improvisation, structural complexity, and genre mixing.
 
-- **Origin of the band name**: They themselves took the name of the band from "Black Midi" (a musical score filled in "black" with many MIDI notes), which is an internet culture/music genre that originated in Japan. However, there is no direct relationship in terms of sound, and it is only a reference to the name.
+- **Origin of the band name**: They themselves took the name of the band from "Black Midi" (a musical score filled in "black" with many MIDI notes), which is an internet culture/music genre that originated in Japan. However, there is no direct relationship in terms of sound, and it is only a name reference.
 
 Black Midi started out in the live houses and indie/underground scene of south London, and despite their young age, they have rapidly gained attention since their debut in 2019, armed with outstanding technique and experimentalism.
 
@@ -64,7 +64,7 @@ A brief history of Black Midi's discography and the characteristics of each work
 | -------- | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **2018** | Single **"bmbmbm" and others** | **First release from Speedy Wunderground. **<br>From here on, the band's official activities began in earnest. Strong minimalism and repetitive noise aesthetics emerged as early characteristics.                                                                                            |
 | **2019** | **1st album "Schlagenheim"** | **Produced by: Dan Carey. Recorded in just a few days. **<br>Introducing a variety of tones such as synths, organs, banjos, and drum machines while maintaining a live-like energy. <br><br>**Critical review**: Top 50 UK charts, Mercury Prize nominee. <br>It has been described as "the most important debut work of the end of the 2010s" due to its rough yet dense construction. |
-| **2021** | **2nd album "Cavalcade"** | **The compositional and chamber music approach is clearly expanded from the previous work. **<br>Adds saxophone, viola, keyboard, etc., and integrates vocabulary such as jazz, progressive rock, post-punk, and contemporary music. <br>The signature song "John L" combines chaotic structure + cult fable + theatricality, and the band's "coexistence of frenzy and precision" reaches its peak.                                       |
+| **2021** | **2nd album "Cavalcade"** | **The compositional and chamber music approach is clearly expanded from the previous work. **<br>Adds saxophone, viola, keyboard, etc. and integrates vocabulary such as jazz, progressive rock, post-punk, and contemporary music. <br>The representative song "John L" combines chaotic structure + cult fable + theatricality, and the band's "coexistence of frenzy and precision" reaches its peak.                                       |
 | **2022** | **3rd album "Hellfire"** | **The most "theatrical" work with even stronger story, character, and allegory. **<br>A mixture of noise, odd time signatures, baroque developments, and kabare-style storytelling. <br>The structure is such that each song takes place in a different setting, with themes of black humor, war fables, and sin and redemption. <br><br>**Characteristics after this period**: A policy of actively creating differences between studio works and live reinterpretations has become established.          |
 | **2022** | **Live album "Live Fire"** | **Fest recording in Portugal. **<br>The songs from the "Hellfire" period have been reconstructed live, emphasizing improvisation and the passion of the performance. <br>This work contains many different interpretations from the studio version, and defines "Black Midi as a live band."                                                                    |
 
@@ -78,7 +78,7 @@ We will summarize the domestic and international criticism, media, and fan react
 
 ### 3‑1. Debut period — Shocking and fresh high praise
 
-- Their debut album *Schlagenheim* was highly praised by many critics as ""unpredictable," ""edgy sound," and ""breaking the boundaries of existing rock/post-punk." In particular, there were many compliments on his drumming technique (Morgan Simpson), with comments such as ""his playing ability being extraordinary at such a young age" and ""the rise of young talent.''
+- Their debut album *Schlagenheim* was highly praised by many critics as ""unpredictable," ""edgy sound," and ""breaking the boundaries of existing rock/post-punk." In particular, there were many compliments on the drum technique (Morgan Simpson), with comments such as ""his playing ability being extraordinary at such a young age" and ""the rise of young talent.''
 
 - They received attention in the Japanese media, and their debut was introduced as ""the most noteworthy overseas band of 2019" and ""a candidate for the best album of the year." Some Japanese listeners and writers have argued that their sound resonates with "games," Japanese jazz, alternative, and noise, and was accepted not only by traditional Western rock fans but also by subculture/alternative listeners.
 
@@ -121,9 +121,9 @@ In other words, Black Midi's period of growth was a period in which it expanded 
 - Black Midi's music spans a wide range of genres, including math rock, progressive rock, post-punk, noise, jazz/avant-jazz, improvisation, cabaret/theatrical elements, etc., and has a thorough attitude of crossing and mixing genres. This approach presented a new way of rock/experimental music that is not bound by traditional "rock-ness" or "genre-ness." For many subsequent bands and artists, mixing/eclectic/experimenting across genre boundaries became a model that could become the ""natural choice.''
 - In addition, Kuro midi's attitude of emphasizing not only studio recordings but also "live", "improvisation", "reconstruction", and "liveness of performance" has set new guidelines for young bands and indie/underground musicians. The idea that there is no strict line drawn between recorded works and live performances, and that both have equal value, is an important perspective in the way bands and music should be in the 21st century.
 
-### 4‑3. International/internet spread and influence on subcultures
+### 4‑3. International/internet spread and influence into subcultures
 
-- Black Midi"s works have spread not only to the UK, but also to indie listeners and subcultures/internet cultures all over the world, including Europe, America, and Japan. In particular, their sound"s hybridity, "unorthodoxy," improvisation, and free crossing of genres resonated across countries and cultures. As a result, the boundaries between experimental music and indie music were once again questioned, and many listeners were inspired to "explore music unbound by conventional boundaries."
+- Black Midi"s works have spread not only to the UK, but also to indie listeners and subcultures/internet cultures around the world, including Europe, America, and Japan. In particular, their sound"s hybridity, "unorthodoxy," improvisation, and free crossing of genres resonated across countries and cultures. As a result, the boundaries between experimental music and indie music were reconsidered, and many listeners were inspired to "explore music unbound by conventional boundaries."
 
 - In Japan, the band"s name refers to the word "Black Midi," and the sound"s affinity with not only Western music but also alternative music, Japanese jazz, gaming culture, and internet culture has made it clear that the band is not just imported rock, but also has an affinity with Japanese subcultures. These cross-cultural references strengthened Black Midi's international and cultural meaning.
 

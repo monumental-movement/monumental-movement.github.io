@@ -98,7 +98,7 @@ This "South Indian MTV feel" was later inherited by A.R. Rehman and Harris Jayar
 
 ## Chapter 5: Changes in social background and audience demographics
 
-In the late 1980s, southern India was experiencing a period of expansion of television culture, along with a wave of urbanization.
+In the late 1980s, southern India was undergoing a period of expansion of television culture, along with a wave of urbanization.
 It was a time when the state-run broadcaster Doordarshan opened up to commercial broadcasting, and young people from rural areas dreamed of becoming stars.
 
 The setting in which the main character of ""Dance Raja Dance'', Raja, becomes famous through a TV show truly symbolizes the germination of neoliberal values.
@@ -134,7 +134,7 @@ A.R. Rehman's early works Roja (1992) and the foundations of urban soundtracks s
 In the 21st century, ""Dance Raja Dance'' is being reevaluated through YouTube and Spotify.
 The images and music of that time are not "kitsch" but are being reinterpreted as **South Indian Futurism**.
 
-For young Kannada-speaking people, this is not just nostalgia, but a starting point for cultural self-expression that moves from the local to the global.
+For young people in the Kannada-speaking world, this is not just nostalgia, but a starting point for cultural self-expression that moves from the local to the global.
 
 ---
 

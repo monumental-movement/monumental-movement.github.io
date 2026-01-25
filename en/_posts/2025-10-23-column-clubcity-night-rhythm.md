@@ -55,7 +55,7 @@ As everyone surrenders to the sound as a nobody, boundaries of class, gender, an
 Discotheques in the 1970s served as a platform for expression of the LGBTQ community and black culture.
 Studio 54 and Paradise Garage were "sonic emancipation zones" for people who were pushed to the margins of society, but they were also political spaces.
 
-At the end of the 1980s, rave culture emerged with acid house and fled outside the city.
+At the end of the 1980s, the rave culture that emerged with acid house sought refuge outside the city.
 Warehouses, fields, abandoned factories—dancing in uncontrolled spaces was also a form of resistance to the control of time by the state and capital.
 Music is both protest and celebration.
 

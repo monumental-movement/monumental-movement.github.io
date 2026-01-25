@@ -82,7 +82,7 @@ B. Souls At Zero (Sven Väth Remix)
 <a href="https://jp.mercari.com/item/m39474275698?afid=6142608987"><img src="../assets/images/Cygnus%20X%20%E2%80%93%20The%20Orange%20Theme%20(The%20Remixes).webp"></a>
 
 
-Attractive point: A remix of the energetic and uplifting trance techno masterpiece "The Orange Theme" by German unit Cygnus X. Contains a variety of remixes by Moonman, Bervoets & De Goeij, Mark Van Dale with Enrico, and more, allowing you to enjoy club-friendly arrangements that capture the essence of the original song.
+Attractive point: A remix album of the energetic and uplifting trance techno masterpiece ""The Orange Theme'' by the German unit Cygnus X. Contains a variety of remixes by Moonman, Bervoets & De Goeij, Mark Van Dale with Enrico, and more, allowing you to enjoy club-friendly arrangements that capture the essence of the original song.
 
 
 #### Tracklist
@@ -231,7 +231,7 @@ A2. Bazz-Dee &amp; Weichentechnikk – Samurai Pizza Cats
 
 
 
-Attractive point: A work by Johannes Heil, characterized by dark and dramatic direction. A piece that invites a futuristic techno experience with deep beats and a psychedelic approach. The story is impressive as it moves back and forth between silence and explosion.
+Attractive point: A work by Johannes Heil, characterized by dark and dramatic direction. It's a futuristic techno experience with deep beats and a psychedelic approach. The story is impressive as it moves back and forth between silence and explosion.
 
 
 #### Tracklist

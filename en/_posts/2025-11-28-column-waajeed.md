@@ -50,7 +50,7 @@ Waajeed (real name Robert O'Bryant) was born in Detroit in the late 1970s.
 The artist's name is of Arabic origin and is taken from a word meaning "to find" or "to discover."
 
 From an early age, he grew up in an environment influenced by **Detroit's soul/gospel culture**, and later came into contact with Slum Village.
-In the late 1990s and early 2000s, Detroit was creating a new standard for neo-soul/hip-hop, symbolized by J Dilla. At the forefront of this field, Waajeed turned to music production while also working as a photographer.
+In the late 1990s and early 2000s, Detroit was creating a new standard for neo-soul/hip-hop, symbolized by J Dilla. Waajeed was at the forefront of this field, and while also working as a photographer, he turned to music production.
 
 ### **● Relationship with Slum Village**
 
@@ -215,7 +215,7 @@ The technique of naturally blending synths, pads, electric piano, live drums, pe
 
 * **PPP"Triple P"(2005)**
 * **PPP"Abundance"(2009)**
-* **"The War LP" (2012)**
+* **"The War LP"(2012)**
 * **"Shango EP"(2017)**
 * **"From The Dirt"(2017)**
 * **"Ten Toes Down EP" (2018)**
@@ -246,7 +246,7 @@ timeline
 
 <div class="mermaid">
 graph TD
-    A[Detroit Tradition<br>Gospel/Soul/Hip-Hop] --> B[PPP period<br>Experiment of future Seoul]
+    A[Detroit Tradition<br>Gospel/Soul/Hip-Hop] --> B[PPP period<br>Future Seoul experiment]
     B --> C[Dirt Tech Reck<br>Cultural Community]
     C --> D[Shango EP<br>Spiritual club music]
     D --> E[Mother<br>Achievement of spirituality x dance]

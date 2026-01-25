@@ -71,7 +71,7 @@ Next, **Mr. Len** joined as a DJ, completing the three-piece structure we know t
 # Chapter 2: Company Flow's early activities and indie spirit (1993–1995)
 
 After forming the unit, they had no major aspirations,
-**We released music at our own pace and maintained an attitude of fiercely protecting the autonomy of artists**.
+**They released music at their own pace and maintained an attitude of fiercely protecting the autonomy of artists**.
 
 A symbol of this is the launch of their own indie label **Official Recordings**.
 
@@ -165,7 +165,7 @@ El-P's beat is notable in the following ways compared to traditional boom-bap.
 
 What underpins the entirety of ""Funcrusher Plus" is an aesthetic that emphasizes ""tension" over ""pleasure.''
 
-### ● DJ Mr. Len's scratch
+### ● DJ Mr. Len's Scratch
 
 Sharp scratches are placed throughout the mix, reinforcing the hard feel of the beat.
 
@@ -231,7 +231,7 @@ It is composed of elaborate metaphors and abstract expressions.
 * Contents that symbolize underground hip-hop in the late 90s
 * Many prototype elements of later Def Jux works (Cannibal Ox, etc.) can be seen.
 
-It is said that ""Funcrusher Plus" established ""the underground as an ideology" around this song.
+It is said that ""Funcrusher Plus" established an ""underground ideology" around this song.
 
 ---
 

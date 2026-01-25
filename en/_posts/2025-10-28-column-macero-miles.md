@@ -56,7 +56,7 @@ However, what set him apart from other producers was that he understood editing 
 ## Chapter 2: "In a Silent Way"—— The magic of time editing
 
 ""In a Silent Way," recorded in 1969, can be said to be the ""starting point of editing" in the history of jazz.
-Miles, John McLaughlin, Chick Corea, Wayne Shorter and others improvised the session, but Theo Macero boldly reconstructed the recording.
+Miles, John McLaughlin, Chick Corea, Wayne Shorter and others improvised the sessions, but Theo Macero boldly restructured the recordings.
 
 What is particularly impressive is the ""ring structure'' in which the same take is used at the beginning and end.
 Phrases that were only played once in the actual recording "reappeared" through Macero's editing, musically embodying the concept of a **time loop**.
@@ -163,7 +163,7 @@ However, what is decisively different is the ""feel'' of editing and time.
 
 Editing in the tape era was irreversible, and every cut was always a risk.
 That tension gave the music "life."
-Masero's sensibility in the digital age is not just the operation of tools, but the awareness of designing time through editing.
+Masero's sensitivity in the digital age is not just the operation of tools, but the awareness of designing time through editing.
 
 ---
 
@@ -209,7 +209,7 @@ flowchart TD
 </div>
 
 The most important step in this process is the stage called ""**Blueprint = Edited Score**''.
-Macero designed the structure of the song by handwriting the time code and content on each fragment.
+Macero designed the song's structure by handwriting the time code and content on each fragment.
 It was an act of composing like an architect designing a space.
 
 ---
@@ -279,7 +279,7 @@ graph LR
 
 → Focus on the "depth axis" rather than stereo left and right.
 
-It can be said that Macero's edited sound was already putting into practice the ""sculpture of time'' that later techno, ambient, and electronica were aiming for.
+It can be said that Macero's sound editing was already putting into practice the ""sculpture of time'' that later techno, ambient, and electronica were aiming for.
 
 ---
 
@@ -416,7 +416,7 @@ It can be said that it preceded the ""studio composition method'' advocated by B
 
 | Elements | Technique | Acoustic Intention |
 | ---------- | ------------------------ | ------------------------ |
-| Stereo space | Localization (drum left and right placement) that is impossible in real performance | Expansion of visual spatial sense |
+| Stereo space | Localization (drum left and right placement) that is impossible in real performance | Expansion of visual sense of space |
 | Tape repeat | Re-insert the same phrase (recursive structure) | Auditory hypnosis effect |
 | EQ/reverb operation | Unification of texture between multiple takes | Pseudo-generation of spatio-temporal continuity |
 | "Seams" of fragmented reverberation | Deliberately left behind | Turning editing traces into music (turning sound seams into "structure") |
@@ -470,7 +470,7 @@ Macero's editing was not just "post-processing" but a redefinition of the art of
 He did not draw a clear line between performance and editing. Rather, that gap was the source of creativity.
 
 In modern music production, the acts we unconsciously perform, such as ""cut and loop," ""automation," and ""remix,'' are all extensions of Macero's philosophy.
-His accomplishment is nothing less than turning the technology of recording into an art form as an extension of human thinking.
+His accomplishment is nothing less than turning the technology of recording into an art form as an extension of human thought.
 
 > "Editing is putting scissors in time. And the cut time becomes new music."
 > — Teo Macero

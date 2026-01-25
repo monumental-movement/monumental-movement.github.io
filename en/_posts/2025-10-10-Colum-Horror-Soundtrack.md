@@ -134,7 +134,7 @@ It was a time when film music and club culture were intertwined in a strange way
 
 The unique horror sound is attracting attention in Asia as well.
 In [The Wailing (2016/Korea)](https://amzn.to/46NKuA5), folk ritual music blurs the line between fear and prayer.
-Japanese horror sound ──[Kenji Kawai ("Ring")](https://amzn.to/4h9avxd) and Hiroshi Takahashi"s methods—
+Japanese horror sound ── [Kenji Kawai ("Ring")](https://amzn.to/4h9avxd) and Hiroshi Takahashi"s method—
 It was passed down to the world as a **fear etiquette using silence and environmental sounds**.
 
 As Netflix titles consolidate the global market,

@@ -158,7 +158,7 @@ Many avant-garde jazz performers distance themselves from commercialism and esta
 <div class="mermaid">
 flowchart LR
 A[personal improvisation] --> B[group reaction]
-B --> C[instantaneous structure]
+B --> C[momentary structure]
 C --> A
 </div>
 

@@ -17,7 +17,7 @@ title: Dale Scott – You Bring Me Joy
 
 "You Bring Me Joy" is a deep house and garage house track released in 1994 on the New York label JoJo Records.
 
-The second track on the B-side is a remix by Kerri Chandler, an American DJ and record producer and house music pioneer.
+The second song on the B-side is a remix by Kerri Chandler, an American DJ and record producer and house music pioneer.
 
 #### Tracklist
 ```md

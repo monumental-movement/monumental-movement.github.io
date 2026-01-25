@@ -24,7 +24,7 @@ Text: mmr｜Theme: Post-punk era art movement
 
 The punk movement of 1976 shook up the music scene with its directness of being ""simple, fast, and anti-establishment." However, its explosive power was short-lived, and as punk became increasingly commercialized, many artists sought musical expansion while maintaining the ""punk spirit."
 
-この試みの中から生まれた総称が"ニューウェーブ（New Wave）"である。 From an academic perspective, new wave is a concept that encompasses a variety of musical developments since post-punk, and rather than a strict genre name, it is a cultural label that refers to the consciousness and sensibilities of the times.
+The general term that was born from this experiment was ""New Wave.'' From an academic perspective, new wave is a concept that encompasses a variety of musical developments since post-punk, and rather than a strict genre name, it is a cultural label that refers to the consciousness and sensibilities of the times.
 
 <hr>
 

@@ -100,7 +100,7 @@ The relationship between the two is not one of "dominance and subordination," bu
 
 ---
 
-## Chapter 5: Examples of collaboration between AI and Live Coding
+## Chapter 5: Example of collaboration between AI and Live Coding
 
 - **AI-DJ Experiment (2023, Berlin CTM Festival)**
 A human Live Coder plays on TidalCycles, and AI analyzes the BPM, harmony, and spatial arrangement.
@@ -144,7 +144,7 @@ The act of selecting and editing from there is itself a "performance."
 
 Furthermore, by integrating the Live Coding environment with AI,
 There is also a possibility that it will become a "prompt = performance interface."
-No need for mouse or MIDI anymore.
+No longer need a mouse or MIDI.
 **The era when language and thoughts themselves become sounds** is coming.
 
 ---
@@ -187,11 +187,11 @@ flowchart TD
 
 ---
 
-## Conclusion: A new democratization of creation
+## Conclusion: A new democratization of creativity
 
 Live Coding is through "improvisational expression through chords".
 He opened up music to an act that anyone could create.
-AI will further democratize it,
+AI will further promote democratization,
 We are trying to create a **culture of sharing the "intelligence of performing"**.
 
 Algorithms and humans, machines and emotions.

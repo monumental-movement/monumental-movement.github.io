@@ -63,9 +63,9 @@ This film can be said to have defined the intimate relationship between hard roc
 Global hard rock bands **AC/DC** and **KISS** have captivated audiences by incorporating car culture not only in their music but also in their performances.
 
 - AC/DC, as exemplified by songs such as ""Highway to Hell" and ""Thunderstruck," overlaid images of ""road," ""thunder," and ""speeding'' on rock music, directly linking music to the sensation of driving.
-- At KISS's live performance, the sound of a Harley engine echoed with the flames in the background, giving the audience an experience as if the stage itself had been transformed into an American road movie.
+- At KISS' live performance, the sound of a Harley engine echoed with the flames in the background, giving the audience an experience as if the stage itself had been transformed into an American road movie.
 
-This echoed the ""speed glorification culture'' of the 1970s in America, and hard rock strongly embraced cars and motorcycles as symbolic icons of popular culture.
+This echoed the 1970s American "culture of speed," and hard rock strongly embraced cars and motorcycles as symbolic icons of popular culture.
 
 ---
 

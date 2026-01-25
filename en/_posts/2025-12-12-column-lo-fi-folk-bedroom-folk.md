@@ -45,7 +45,7 @@ Consumer tape recorders became popular in the late 1970s, and with the advent of
 
 #### Main practices
 - Plug the dynamic microphone directly into the cassette deck
-- Recordings containing daily life sounds
+- Recordings mixed with daily life sounds
 - One-take recording with almost no mixdown
 - Sound creation that retains the natural echoes of the room
 
@@ -95,7 +95,7 @@ Sufjan Stevens's early works, especially Seven Swans (2004), and his earlier and
 - Complete your own mix at home
 - Recording organs and banjos from close range, preserving the unique Lo-Fi texture
 
-In particular, in the early works, the **tape-like roughness** and **very close vocal recordings** are the hallmarks of Bedroom Folk.
+In particular, in the early works, the **tape-like roughness** and **very close vocal recordings** have become symbols of Bedroom Folk.
 
 ---
 
@@ -127,7 +127,7 @@ Bedroom Folk's lyrics are often introspective, speaking in low voices about thei
 - Quiet religious and spiritual content
 - A look away from the hustle and bustle of the city
 
-Iron & Wine, a trend shared by Sufjan Stevens's early work.
+Iron & Wine, a trend shared by Sufjan Stevens' early work.
 
 ---
 
@@ -148,7 +148,7 @@ Although the sound quality was clearer than before, mixes that still had a "room
 In the 2020s, Lo-Fi Folk is moving towards a more static approach. With minimalist compositions, an emphasis on live recording, and a reduction in overt noise, Bedroom Folk is moving toward a stage where "life-sound realism" and "high-resolution intimacy" coexist.
 
 - Lower prices for high-quality condenser microphones
-- Improved DAW standard plugins
+- Improved DAW standard plug-ins
 - Simplify room tuning at home
 
 These factors are making modern home recording folk even more mature.

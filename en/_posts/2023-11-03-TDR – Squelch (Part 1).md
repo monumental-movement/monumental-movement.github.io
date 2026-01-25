@@ -14,7 +14,7 @@ title: TDR – Squelch (Part 1)
 
 Tom De Ridder "Squelch (Part 1)" by Tom De Ridder is a trance/tech house track released in 2005 on the Dutch tech/progressive house/trance label Oxygen Recordings.
 
-The first track on side A is a remix by Dutch DJ/producer Sander Van Doorn, who has remixed bands such as Sia, The Killers, Swedish House Mafia, and Depeche Mode.
+The first track on side A is a remix by Dutch DJ/producer Sander Van Doorn, who has created remixes for Sia, The Killers, Swedish House Mafia, Depeche Mode, and more.
 
 #### Tracklist
 ```md

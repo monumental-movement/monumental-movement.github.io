@@ -51,13 +51,13 @@ His early EP works were characterized by an "immersive" sound with subtle percus
 
 Luciano (real name Lucien Nicolet) was born in Switzerland in 1978 and grew up in Chile. He became familiar with the guitar from an early age and developed a sense of the rhythm of Latin music. He first encountered club music when he was a teenager, absorbing disco, house, and techno while searching for his own "warm minimalist" style.
 
-The label he later founded, Cadenza, produced artists who combined South American enthusiasm with European minimalism. Luciano's music always has a "dialogue with the dance floor" and focuses on the physical sensations of the dancer.
+The label he later founded, Cadenza, produced artists who combined South American energy with European minimalism. Luciano's music always has a "dialogue with the dance floor" and focuses on the physical sensations of the dancer.
 
 ---
 
 ## Chapter 2: Encounter and the birth of Sense Club
 
-While Villalobos sat at a turntable in a Chilean club in the late 1990s, Luciano sensed the rhythmic contours and instantly resonated with him. The two will launch a joint project called ""Sense Club.'' This place, where Latin rhythms and European techno intersect, has transcended the framework of a simple musical unit and has become a testing ground for culture and the body.
+While Villalobos sat at a turntable in a Chilean club in the late 1990s, Luciano sensed the rhythmic contours and instantly resonated with him. The two will launch a joint project called ""Sense Club.'' This venue, which intersects Latin rhythms and European techno, has gone beyond the framework of a mere musical unit, and has become a testing ground for culture and the body.
 
 Sense Club's philosophy was clear. ""Dancing is not just a movement, but a ritual that connects culture and the body.'' Long sets, subtle percussion, and the occasional cacophony of sounds all breathe new life into the dance floor.
 

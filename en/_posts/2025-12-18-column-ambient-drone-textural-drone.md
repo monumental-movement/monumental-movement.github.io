@@ -22,7 +22,7 @@ Text: mmr｜Theme: About drones that expand music from temporal art to spatial a
 
 Drone is a musical principle that uses sustained sound to transform our sense of time, spatial awareness, and auditory concentration. It is unique in that it uses pitch, overtones, timbre, and duration as structural units as an alternative to melody and harmonic progression. In the history of Western music, early examples include the bolden of the bagpipe, the pedal point of the organ, and the sustained bass notes of religious music.
 
-Since the late 20th century, with the development of recording technology and electronic acoustics, the drone has moved from being a mere accompaniment element to the main structure of an entire piece. Through this process, Ambient Drone was born, followed by Textural Drone, which emphasizes tonal changes and layering of physical texture.
+Since the late 20th century, with the development of recording technology and electronic acoustics, the drone has moved from being a mere accompaniment element to the main structure of the entire work. Through this process, Ambient Drone was born, followed by Textural Drone, which emphasizes tonal changes and layering of physical texture.
 
 ---
 
@@ -62,7 +62,7 @@ Textural Drone is characterized by a structure in which multiple tonal layers va
 
 ### 2-2. Layering techniques
 
-The overlaying of multiple tracks transforms the music from a linear structure to a surface structure. Each layer has an independent period and modulation speed, producing asynchronous fluctuations as a whole.
+The overlaying of multiple tracks transforms the music from a linear structure to a planar structure. Each layer has an independent period and modulation speed, producing asynchronous fluctuations as a whole.
 
 <div class="mermaid">
 flowchart LR
@@ -123,7 +123,7 @@ flowchart TB
 
 ### 5-2. Dynamics control
 
-Sudden changes in volume are avoided and fine amplitude fluctuations are used. This design allows the music to function as an environment rather than an event.
+Sudden volume changes are avoided and fine amplitude fluctuations are used. This design allows the music to function as an environment rather than an event.
 
 ### 5-3. Spatial processing
 

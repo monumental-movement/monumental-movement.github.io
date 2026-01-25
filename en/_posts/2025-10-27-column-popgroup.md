@@ -74,7 +74,7 @@ The members are in their late teens to early 20s.
 **Dan Catsis (bass)**, **John Waddington (guitar)** were the main players.
 
 Unlike the London punks, they were conscious of being **political and artistic**.
-Their debut album ""**Y**'' (1979) was a heresy among heretics even at the time.
+Their debut album, ""**Y**'' (1979), was a heresy of a heresy even at the time.
 The disorder of free jazz, the deep space of dub, the destructive impulse of punk...
 These intersect as **socially critical poems and poetic cries**.
 
@@ -119,10 +119,10 @@ The influence of The Pop Group is etched into all of them.
 
 ---
 
-## Chapter 5: Reassessment and Revival in the 21st Century
+## Chapter 5: Reassessment and revival in the 21st century
 
 The Pop Group has long been a cult figure.
-Since the 2000s, it has been reevaluated amidst the post-punk revival trend.
+Since the 2000s, it has been reevaluated amidst the post-punk revival.
 Especially since 2005, following the **Gang of Four and Wire reunions**,
 They also resumed their activities in 2010. In 2015, he released his new work ""Citizen Zombie.''
 

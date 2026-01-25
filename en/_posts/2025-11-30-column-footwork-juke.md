@@ -119,7 +119,7 @@ Footwork has been attracting attention outside of the United States since the 20
 
 - **Europe**: Planet Mu and UK-based producers release, footwork battle event held
 - **Japan**: Footwork event held in underground club, influencing DJs and young creators
-- **SNS/Distribution Culture**: International spread through YouTube and SoundCloud
+- **SNS/Distribution Culture**: International dissemination through YouTube and SoundCloud
 
 ---
 

@@ -74,13 +74,13 @@ D --> E[The emergence of an informal culture]
 
 DJs played the most central role in early hip-hop culture. However, DJs at this stage were more like event organizers than the musicians and artists they are today.
 
-The DJ was responsible for preparing the sound equipment, securing power, bringing in records, and making the party happen. In addition to ""selecting" the music, it was also necessary to ""create the space."
+The DJ was responsible for preparing the sound equipment, securing power, bringing in records, and making the party itself happen. In addition to ""selecting" the music, it was also necessary to ""create the space."
 
-The act of extracting rhythmic parts from funk and soul records and repeating them while observing the audience's reaction became spontaneous and sophisticated.
+The act of extracting rhythmic parts from funk and soul records and repeating them while observing the audience's reaction became spontaneously refined.
 
-At this stage, DJs were less creators than time controllers.
+At this stage, DJs were more time-manipulators than creators.
 
-> The DJ's role was not to play music, but to control the energy of the group.
+> The DJ was not a person who played music, but a person who controlled the energy of the group.
 
 ---
 
@@ -89,7 +89,7 @@ At this stage, DJs were less creators than time controllers.
 
 Funk and soul records often had short interludes that consisted of only instrumental music. At this moment, the DJ notices that the dancers' movements are at their most intense.
 
-By using two copies of the same record and playing parts of them alternately, a technique was created to intentionally lengthen the rhythm. This became the prototype for the structure that would later be called a breakbeat.
+By using two copies of the same record and playing parts of them alternately, a technique was created to intentionally lengthen the rhythm. This became the prototype of the structure that would later be called a breakbeat.
 
 What is important is that this method was not a theoretical invention, but was created as a result of observing audience reactions. The musical structure was reorganized by bodily responses.
 
@@ -169,7 +169,7 @@ Hip-hop was not an individual invention, but a collection of acts that responded
 
 The culture that would later be called hip-hop was initially unorganized, but it was flexible and strong to that extent.
 
-Before ideas and definitions were given, sounds were making sounds, bodies were moving, and cities were being used. Culture was done first and then talked about.
+Before ideas and definitions were given, sounds were heard, bodies moved, and cities were used. Culture was done first and then talked about.
 
 Understanding this early stage leads to a reconception of hip-hop as a cultural device that responds to circumstances rather than a fixed genre.
 

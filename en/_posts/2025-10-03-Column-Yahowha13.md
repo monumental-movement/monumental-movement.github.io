@@ -75,7 +75,7 @@ After that, the members of the congregation dispersed, but it has been reevaluat
 Core lineup: Mainly Djin Aquarian (guitar), Octavius ​​Aquarian (drums), and Sunflower Aquarian (bass), along with other "Aquarian surname" believer musicians such as Lovely, Hom, Rhythm, Pythias, Aquarian.
 
 
-Initially released under the name "Father Yod & The Spirit of "76". After that, spellings such as "Ya Ho Wa 13 / Yahowha13 / YaHoWha13 / Yahowa 13" were used with some fluctuation.
+Initially released under the name "Father Yod & The Spirit of "76". After that, the notation such as "Ya Ho Wa 13 / Yahowha13 / YaHoWha13 / Yahowa 13" was used with some fluctuation.
 
 
 There was also a period when they were active in bands under different names such as "Savage Sons of Ya Ho Wa," "Fire, Water, Air," and "Yodship."
@@ -127,7 +127,7 @@ During this period, he was exploring the fusion of acoustic experiments and chan
 Ya Ho Wa 13 (1974), Savage Sons of Ya Ho Wa (1974), Penetration: An Aquarian Symphony (1974), I"m Gonna Take You Home (1974), To the Principles for the Children (1975), The Operetta (unreleased in 1975 → released later), etc.
 
 
-During this period, attempts were also made to incorporate more "structurality" and "musicality," with a style that included a mixture of distorted guitar riffs, repetitive phrases, and fragmented poetry and singing.
+During this period, attempts were also made to incorporate more "structurality" and "musicality," with a style that included distorted guitar riffs, repeated phrases, and fragmented poetry and singing.
 
 
 In particular, Penetration: An Aquarian Symphony is said to be the most popular and re-evaluated work in the band's history, and has been reissued many times.
@@ -142,7 +142,7 @@ After 1975, the band disbanded due to Father Yod's passing. However, lay musicia
 In 1977, Golden Sunrise (under the name Fire Water Air) and Yodship Suite (Private Press) were released. There is also a collaboration with Sky Saxon (former of The Seeds) and vocal participation.
 
 
-Since the 2000s, there have been reissues and archive reprints, fragmentary new recordings, and member reunions (such as Sonic Portation by Djin, Sunflower, Octavius, etc.).
+Since the 2000s, there have been reissues and archive reprints, fragmentary new recordings, and member reunions (Sonic Portation by Djin, Sunflower, Octavius, etc.).
 
 
 ---
@@ -216,7 +216,7 @@ In 2009, a compilation of unreleased songs such as [Magnificence in the Memory](
 ---
 
 
-#### Reunion/activities
+#### Reunion/Activities
 
 In 2007, the original members (Sunflower, Octavius, Djin) reportedly performed live for the first time in 33 years.
 
@@ -276,7 +276,7 @@ Point: The core of self-recording. While recording at Garage, the band began to 
 
 [Penetration: An Aquarian Symphony (1974)](https://amzn.to/4hdcYa5)
 
-Songs and highlights: Contains long tracks such as "Yod He Vau He," "Ho," "Journey Thru An Elemental Kingdom," and "Ya Ho Wha." It is the crystallization of "ritualistic" and "psychedelic jam", and is the most easily available representative album with many reissues. It has a large soundscape-like dynamic, and we recommend that first-time listeners start here.
+Songs and highlights: Contains long tracks such as "Yod He Vau He," "Ho," "Journey Thru An Elemental Kingdom," and "Ya Ho Wha." It is the crystallization of "ritualistic" and "psychedelic jam", and is the most easily available representative album with many reissues. It has a large soundscape-like dynamic, and we recommend starting here for first-time listeners.
 
 
 ---
@@ -309,7 +309,7 @@ Fact: Many tracks are centered around chants, fragmented lines, and religious de
 
 Main motif:
 
-Repetition of "Ya Ho Wha / Ya Ho Wa / YHWH (consonantal similarity)" - Divine name/sacred role.
+Repetition of "Ya Ho Wha / Ya Ho Wa / YHWH (consonantal similarity)" - divine name/sacred role.
 
 
 References to the archetypal "travel/purification/elements (fire/water/air/earth)" — a symbol that also appears in the album/song titles.
@@ -318,7 +318,7 @@ References to the archetypal "travel/purification/elements (fire/water/air/earth
 Doctrinal/ritual phrases (words indicated by redacted track names such as "man the messiah")—words that are improvised and layered as a leader's declaration.
 
 
-How to analyze: Rather than simply reading the lyrics as ""lyrics = transmission of meaning," it is most useful to read them as follows: ""(1) The sound itself is a ritual / (2) Words are suggestive and poetic triggers that generate a communal experience on the spot." In other words, participatory religious guidance through "sound/repetition" is the core of the album.
+How to analyze: Rather than simply reading the lyrics as ""lyrics = transmission of meaning," it is most useful to read them as follows: ""(1) The sounds themselves are rituals / (2) Words are suggestive and poetic triggers that generate an on-the-spot communal experience." In other words, participatory religious guidance through "sound/repetition" is the core of the album.
 
 ---
 
@@ -378,7 +378,7 @@ Reissues vary in the degree of editing of the sound source depending on the publ
 
 ---
 
-### Listening highlights & recommended listening order (for beginners → intermediate → researchers)
+### Highlights & recommended listening order (beginner → intermediate → researchers)
 
 **Representative song/representative board (introductory)**: First go through Penetration: An Aquarian Symphony once.
 
@@ -466,7 +466,7 @@ The sound "Ya Ho Wha" itself is a sacred mantra of the Source Family, an express
 
 **90s psych reissue boom**: P.S.F. Records and Captain Trip Records actively introduced Yahooha 13.
 
-It has been featured as a ""phantom cult psychedelic" in magazines such as ""Eureka" and ""Eurorock Press,'' and Japanese listeners avidly collect it.
+It has been featured as a ""phantom cult psychedelic'' in magazines such as Eureka and Eurorock Press, and Japanese listeners avidly collect it.
 
 **Evaluation trends**: In Japan, it is loved as ""heretical" and ""esoteric psychedelic," and has become a collector's item at imported disc shops (Disc Union, Melon, Manhattan Records, etc.).
 

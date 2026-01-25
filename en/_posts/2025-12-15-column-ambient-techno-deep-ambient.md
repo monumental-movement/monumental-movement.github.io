@@ -55,7 +55,7 @@ The Orb integrates the spatial processing of ambient, techno, and dub, presentin
 
 What is noteworthy is that even in scenes where rhythm is in the foreground, he never shows off his driving force. The beat is not a device that directs movement, but rather serves as a reference point for measuring depth.
 
-この設計思想は、Ambient Technoの基礎となり、後続のDeep Ambientや深海的テクノ表現に決定的な影響を与えた。
+This design philosophy became the basis of Ambient Techno, and had a decisive influence on the subsequent Deep Ambient and deep-sea techno expressions.
 
 
 ---
@@ -100,7 +100,7 @@ Deep-sea ambient music has a high affinity with concentration, introspection, an
 
 ## 8. Redefining rhythm
 
-Rhythm in Ambient Techno is not a command to move the body. Pulses that appear at regular intervals are the basis for measuring time, like a depth meter.
+Rhythm in Ambient Techno is not a command to move the body. Pulses that appear at regular intervals are the basis for measuring time, like a depth gauge.
 
 In Deep Ambient, even this standard may be removed, but rather than being completely timeless, internal time is maintained through minute fluctuations.
 
@@ -118,7 +118,7 @@ The decisive difference from deep-sea ambient music lies in the master-slave rel
 
 ## 10. Comparison with Deep Techno
 
-Deep Techno is characterized by minimal structure, slow tempo, and restrained development, and is music that pursues depth while retaining the club context.
+Deep Techno is characterized by its minimal structure, slow tempo, and restrained development, and is music that pursues depth while retaining the club context.
 
 While Ambient Techno/Deep Ambient distances itself from the club-like nature, Deep Techno introduces deep-sea sound while retaining the floor function. This difference creates a clear difference in usage and listening posture.
 

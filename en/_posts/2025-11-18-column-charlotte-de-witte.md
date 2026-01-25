@@ -172,7 +172,7 @@ He has also released experimental works such as "The Heads That Know (feat. Comm
 | 2015 | Started activities under real name, announced Weltschmerz EP |
 | 2017 | Closer, Wisdom EP released, attracting attention in Europe and America |
 | 2018 | BBC Radio 1 Essential Mix appearance |
-| 2019 | Establishment of KNTXT |
+| 2019 | KNTXT established |
 | 2022 | Tomorrowland Main Stage Closing |
 | 2023 | Movement Festival Closing |
 | 2024 | KNTXT store opened, Époque label started |

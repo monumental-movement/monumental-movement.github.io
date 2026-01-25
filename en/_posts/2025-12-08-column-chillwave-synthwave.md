@@ -150,7 +150,7 @@ The equipment used in Chillwave and Synthwave is also very different.
 -Korg Polysix
 - **Drum Machine**
 - LinnDrum / LM-1
-- Roland TR-707, TR-808
+-Roland TR-707, TR-808
 - **80s style gated reverb snare**
 
 The sound itself is close to "reconstruction of 80s movies".
@@ -194,7 +194,7 @@ flowchart TD
 
 * Washed Out – **Life of Leisure (2009)**
 * Neon Indian – **Psychic Chasms (2009)**
-* Toro y Moi – **Causes of This (2010)**
+*Toro y Moi – **Causes of This (2010)**
 
 ## 8-2. Synthwave masterpieces
 
@@ -220,7 +220,7 @@ Synthwave was heavily influenced by the electronic music and visuals seen in the
 
 Chillwave made extensive use of visual expressions reminiscent of the personal media culture of the 1990s (VHS, camcorders, seaside home footage), and was compatible with the internet's lo-fi photo culture (such as early Instagram).
 
-Synthwave's **grid background + neon typography** created by graphic designers has become standardized worldwide, and it has also become popular in mix videos on YouTube.
+Synthwave's **grid background + neon typography** created by graphic designers has become standardized worldwide, and has also become popular in mix videos on YouTube.
 
 ---
 
