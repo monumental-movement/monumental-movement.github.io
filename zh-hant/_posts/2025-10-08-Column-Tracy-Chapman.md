@@ -21,7 +21,7 @@ title: 【專欄】特蕾西·查普曼：一個寂靜之聲動人的時代
 
 
 “為無聲者發聲”——這可能是描述特雷西·查普曼的音樂和生活最合適的詞語之一。
-自1988年出道以來，她避免了浮誇的製作和誇張的製作，繼續用原聲的音調和平靜的說話聲音來描繪社會，她的旅程慢慢地攪動著聽者的靈魂。
+自1988年出道以來，她避免華麗的製作和誇張的製作，繼續用原聲的音調和平靜的聲音描繪社會，她的旅程深深地震撼著聽者的靈魂。
 在這篇文章中，我想追溯她的成長經歷、創作過程、聲音技術、重要關係以及與時代的交集，並解讀為什麼她的​​歌曲至今仍能引起共鳴。
 
 
@@ -182,7 +182,7 @@ color: #fff;
 例如，有報導稱他與小說家艾麗絲·沃克是親密朋友，他們的關係已經有一段時間了，但他並沒有公開他的私生活細節。
 
 此外，他在 2024 年格萊美頒獎典禮上表演的《Fast Car》象徵著他與盧克·庫姆斯的代際音樂聯繫。
-據說這一階段的談判過程非常謹慎，格萊美採取了強調信任的方式，避免給她施加太大壓力。
+據稱，這一階段的談判過程有一定程度的謹慎，格萊美採取了強調信任的方式，避免給她太大壓力。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pLfH9HSUyf4?si=xIapcYqmaMISuyS1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -237,7 +237,7 @@ color: #fff;
 | 1988 | *特蕾西·查普曼* |出道作品。包括“快車” | [亞馬遜](https://amzn.to/3J02TQW) |
 | 1989 | *十字路口* |第二部具有更深政治焦點的作品 | [亞馬遜](https://amzn.to/3J1RqjS) |
 | 1992 | *心靈的事情* |內省而溫暖的聲音世界| [亞馬遜](https://amzn.to/3Wux7yx) |
-| 1995 | *新的開始* |具有濃郁藍調色彩的傑作 | [亞馬遜](https://amzn.to/3KHZGGf) |
+| 1995 | *新的開始* |具有濃郁藍調色彩的傑作| [亞馬遜](https://amzn.to/3KHZGGf) |
 | 2000 | 2000 *講故事* |成熟是講故事的藝術 | [亞馬遜](https://amzn.to/4q2Rkcg) |
 | 2002 | *讓它下雨* |寧靜色調的傑作 | [亞馬遜](https://amzn.to/4nAUK4u) |
 | 2005 | *你住在哪裡* |個人和親密的工作| [亞馬遜](https://amzn.to/4pZL4C6) |

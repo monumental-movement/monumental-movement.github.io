@@ -42,7 +42,7 @@ color: #fff;
 EAI是“Electroacoustic Improvination”的縮寫，2000年左右開始在國際上使用，指**使用電聲處理和處理技術的即興創作**。
 雖然沒有明確統一的定義，但有以下幾點共同點：
 
-- 電子設備的即興操作（模塊、筆記本電腦、效果器、採樣器）
+- 即興操作電子設備（模塊、筆記本電腦、效果器、採樣器）
 - 模糊現場樂器和電子聲音之間的界限
 - 積極使用持續的聲音和微妙的聲音（嗡嗡聲、嘶嘶聲、信號音）
 - 擺脫傳統的節奏和旋律結構
@@ -88,7 +88,7 @@ Eddie Prévost 和 Keith Rowe 所展示的“非樂器聲音的解放”後來�
 從EAI的角度來看，以下幾點很重要：
 
 - 在同一平面上處理原始吉他聲音和經過處理的聲音
-- 即興製作毛刺噪音
+- 引入毛刺噪聲來進行即興創作
 - 將筆記本電腦視為“第二台儀器”
 - 將信號處理（過濾、粒度）納入性能行為
 
@@ -108,7 +108,7 @@ Eddie Prévost 和 Keith Rowe 所展示的“非樂器聲音的解放”後來�
 - 像對待爵士樂句一樣對待電子聲音
 - 追求物理動作與電子反應的匹配
 
-Toral 在 EAI 中的獨特之處在於其徹底的“手演奏電子聲音”，並且是模塊化操作即興創作可能性的代表示例。
+Toral 在 EAI 中的獨特之處在於其徹底的“手奏電子聲音”，並且是模塊化操作即興創作可能性的代表示例。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eoJ3vPqkz-w?si=lldtAtTk2AVOX-Ax" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -161,7 +161,7 @@ Sachiko M示例是一個典型示例​​，其中僅使用內部測試音。
 
 ---
 
-# 5、區域擴張
+# 5. 區域擴張
 
 ### 5-1.歐洲：維也納/柏林/倫敦
 - Fennesz（維也納附近）
@@ -171,7 +171,7 @@ Sachiko M示例是一個典型示例​​，其中僅使用內部測試音。
 ### 5-2.日本：以東京為中心的聲學學校
 - Off Site（Sendagi，1990 年代末至 2000 年代初）是國際 EAI 交流的基地。
 
-### 5-3.葡萄牙：里斯本的電子即興演奏
+### 5-3.葡萄牙：里斯本的電子即興表演
 - 拉斐爾·托拉爾 (Rafael Toral) 發揮核心作用
 
 ---

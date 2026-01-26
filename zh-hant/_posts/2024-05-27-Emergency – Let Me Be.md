@@ -16,7 +16,7 @@ title: 緊急情況 – 讓我來吧
 ---
 
 
-《Emergency》是亞歷山德羅·卡里諾 (Alessandro Carino)、格拉齊亞諾·法內利 (Graziano Fanelli)、何塞·安東尼奧·曼薩諾 (Jose Antonio Manzano)、馬可·里齊 (Marco Rizzi) 和皮耶拉迪斯·羅西尼 (Pieradis Rossini) 的 Italo 舞蹈項目。
+Emergencyは、Alessandro Carino, Graziano Fanelli, Jose Antonio Manzano, Marco Rizzi, Pieradis Rossiniによるイタロダンスプロジェクト。
 
 編曲者和製作人是皮耶拉迪斯·羅西尼 (Pieradis Rossini)，他是一位意大利音樂家和舞曲音樂製作人，也是 Italo 舞蹈廠牌 DJ Movement 的創始人。
 

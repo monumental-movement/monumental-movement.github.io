@@ -15,7 +15,7 @@ title: Ben Westbeech – 歡迎來到你生命中最美好的歲月
 ---
 
 
-Ben Westbeech 是一位來自英國的 DJ 兼製作人。也稱為 Breach 以及與 KON（克里斯蒂安·泰勒）The Vision 的合作。
+Ben Westbeech 是一位來自英國的 DJ 兼製作人。也稱為 Breach 以及與 KON (Christian Taylo) The Vision 的合作。
 
 《Welcome To The Best Years Of Your Life》是 Ben Westbeech 的首張專輯，於 2007 年由 Gilles Peterson 的英國廠牌 Brownswood Recordings 發行。
 

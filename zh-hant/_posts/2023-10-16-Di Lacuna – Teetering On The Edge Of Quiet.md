@@ -9,7 +9,7 @@ permalink: /zh-hant/di-lacuna-teetering-on-the-edge-of-quiet/
 tags:
 - Rock
 - Post Rock
-title: Di Lacuna——在安靜的邊緣搖搖欲墜
+title: Di Lacuna – Teetering On The Edge Of Quiet
 ---
 
 

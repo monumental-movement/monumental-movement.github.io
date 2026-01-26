@@ -187,7 +187,7 @@ flowchart TD
 
 ## 八、結論
 
-Neo-Krautrock 將 Krautrock 精神帶回 21 世紀，成為連接過去與未來的橋樑。 Tropic of Cancer 和 Panda Lux 等藝術家保留了原來的德國泡菜搖滾美學，同時促進了新的音樂實驗。隨著音樂理論、錄音技術和現場表達的進步，新克勞特搖滾將繼續成為實驗音樂場景的中心。
+Neo-Krautrock 將 Krautrock 精神帶回 21 世紀，成為連接過去與未來的橋樑。 Tropic of Cancer 和 Panda Lux 等藝術家保留了原始的德國泡菜搖滾美學，同時促進了新的音樂實驗。隨著音樂理論、錄音技術和現場表達的進步，新克勞特搖滾將繼續成為實驗音樂場景的中心。
 
 ---
 

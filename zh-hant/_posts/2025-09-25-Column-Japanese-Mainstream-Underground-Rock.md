@@ -18,7 +18,7 @@ title: 【專欄】日本搖滾史：主流與地下的交匯
 
 文：mmr｜主題：日本主流與地下搖滾
 
-日本搖滾以[Group Sounds (GS)](https://amzn.to/4gP5wli)開始傳播，在20世紀60年代蓬勃發展。但與此同時，一股脫離公共舞台、具有實驗精神和破壞性能量的“地下搖滾”潮流誕生了。 Naked Larry's、Keiji Haino、Boredoms、Acid Mother's Temple 等樂隊幫助日本的噪音搖滾和迷幻音樂在國際上廣為人知。
+日本搖滾以[Group Sounds (GS)](https://amzn.to/4gP5wli)開始傳播，並在20世紀60年代蓬勃發展。但與此同時，一股脫離公共舞台、具有實驗精神和破壞性能量的“地下搖滾”潮流誕生了。 Naked Larry's、Keiji Haino、Boredoms、Acid Mother's Temple 等樂隊幫助日本的噪音搖滾和迷幻音樂在國際上廣為人知。
 
 ---
 
@@ -68,13 +68,13 @@ color: #fff;
 
 ---
 
-### 2000 年代：吉他狼的搖滾樂
+### 2000年代：ギターウルフの爆音ロックンロール
 
 [Guitar Wolf](https://amzn.to/42cIG0G) — “Jet Rock and Roll”的旗手。在海外巡演後，他們成為車庫搖滾復興的象徵。
 
 ---
 
-### 2010 年代至今：重新評估和數字時代
+### 2010年代〜現在：再評価とデジタル時代
 
 Shonen Knife、Keiji Haino、Boredoms 等在海外正在接受重新評估。
 
@@ -111,7 +111,7 @@ flowchart TD
 |酸母寺 | 2000 年代 | “拉諾維亞”|川端元的太空迷幻果醬，史詩般的旅行感覺 | [亞馬遜](https://amzn.to/47XWVKz) |
 |山本精一 | 2000 年代 | “模糊凹槽之冠”(2002) |實驗與旋律共存的獨奏傑作 | [亞馬遜](https://amzn.to/4pJ0ESq) |
 |吉他狼| 2000 年代 | 《噴氣一代》(1999) |世界上最響亮的搖滾專輯 | [亞馬遜](https://amzn.to/4pIAlMg) |
-|拉德溫普斯 | 2010 年代 | “你的名字。原聲帶”（2016）|搖滾與配樂製作的融合，國際議論| [亞馬遜](https://amzn.to/46Gp9XV) |
+|拉德溫普斯 | 2010 年代 | “你的名字。原聲帶”(2016) |搖滾與配樂製作的融合，國際議論| [亞馬遜](https://amzn.to/46Gp9XV) |
 |尤阿索比 | 2020 年代 | “這本書”（2021）|數字時代的流行搖滾包括人工智能方法 | [亞馬遜](https://amzn.to/4gHaMXT) |
 
 
@@ -140,13 +140,13 @@ A4：我們憑藉壓倒性的現場表演、速度感以及與約翰·佐恩等�
 
 **Q5：山本精一最著名的作品是什麼？ **
 
-A5：[Memory Wharf ``Underwater Joe''](https://amzn.to/4pJINuQ)、[ROVO的現場表演](https://amzn.to/4gJvJRT)和個人作品[``Crown of Fuzzy Groove''](https://amzn.to/4pJ0ESq)都很重要。
+A5：[Memory Wharf ``Underwater Joe''](https://amzn.to/4pJINuQ)、[ROVO 現場表演](https://amzn.to/4gJvJRT) 和個人作品 [``Crown of Fuzzy Groove''](https://amzn.to/4pJ0ESq) 都很重要。
 
 ---
 
 ### 概括
 
-日本的搖滾歷史與“主流”前沿和幕後“地下”並行發展。從 Naked Larry's 到 Guitar Wolf 的血統一直延續到當前的人工智能時代，繼續擴大搖滾樂的可能性。日本搖滾樂將繼續為世界樂壇提供“實驗和動力”。
+日本的搖滾史是與前面的“主流”和後面的“地下”並行發展的。從 Naked Larry's 到 Guitar Wolf 的血統一直延續到當前的人工智能時代，繼續擴大搖滾樂的可能性。日本搖滾樂將繼續為世界樂壇提供“實驗和動力”。
 
 ---
 

@@ -14,7 +14,7 @@ title: 伊芙琳·托馬斯——海灘上的夏天
 ---
 
 
-《Evelyn Thomas》是一首真名 Ellen Lucille Thomas 的單曲，由英國廠牌“Nightmare Gold Records”於 1987 年發行。
+《Evelyn Thomas》是一首真名 Ellen Lucille Thomas 的單曲，由英國唱片公司“Nightmare Gold Records”於 1987 年發行。
 
 #### 曲目列表
 ```md

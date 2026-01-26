@@ -112,7 +112,7 @@ color: #fff;
 
 ### ● 餵腦者（2008～）
 - 飛蓮花創立的品牌。
-- 參與藝術家包括 Teebs、Samiyam、Tokimonsta 和 Thundercat。
+- Teebs、Samiyam、Tokimonsta、Thundercat 等將參加。
 - 他在全球範圍內傳播抽象節拍文化。
 
 ---
@@ -134,7 +134,7 @@ Shabazz Palaces 於 2009 年左右成立，由 Ishmael Butler（前 Digable Plan
 
 ## 5.節拍實驗：J Dilla之後的“錯位”和非線性凹槽
 
-自 2000 年代以來，實驗嘻哈的核心是“節奏的重塑”。
+自 2000 年代以來，實驗嘻哈的核心就是“節奏的重塑”。
 
 ---
 
@@ -157,7 +157,7 @@ Shabazz Palaces 於 2009 年左右成立，由 Ishmael Butler（前 Digable Plan
 
 ### ● 1990-2000 年代：MPC 文化
 - MPC2000/2000XL是主流。
-- 重點是“切割培養”，其中模擬樣本被切成小塊並重建。
+- 重點是“切割文化”，其中涉及將模擬樣本切割成小塊並重建它們。
 - 代表性的例子包括 Madlib 和 J Dilla。
 
 ### ● 2000 年代末：DAW 加速推出

@@ -19,7 +19,7 @@ Nick Calingaert，也被稱為 Common Factor，是一位來自芝加哥的 DJ。
 
 《Dreams Of Elsewhere》是 Carl Craig 的經典科技廠牌 Planet E 於 1999 年發行的一張專輯。
 
-一張傑作專輯，收錄了 Common Factor 的許多標誌性歌曲，如“Get Down”、“will”和“Horizo​​​​ns”。
+這是一部傑作，收錄了 Common Factor 的許多標誌性歌曲，如“Get Down”、“will”和“Horizo​​​​ns”。
 
 #### 曲目列表
 ```md

@@ -10,7 +10,7 @@ tags:
 - Deep House
 - 80s
 - 90s
-title: 拿起深屋作品
+title: 拾起深屋作品
 ---
 
 

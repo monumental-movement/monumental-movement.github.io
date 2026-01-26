@@ -29,13 +29,13 @@ Deep house 是 20 世紀 80 年代末在芝加哥-新澤西地區出現的一種
 
 **1985–90：早期早期（芝加哥/新澤西）**
 
-[Larry Heard (Mr. Fingers)](https://amzn.to/4q97ot4) 以“Can You Feel It”和“Mystery of Love”呈現原型。跟隨[Frankie Knuckles](https://amzn.to/4nUwWJ4)和[Marshall Jefferson](https://amzn.to/3KOf4AV)的潮流，Jersey Garage([Blaze](https://amzn.to/4ooZuuc)和[Kerri Chandler](https://amzn.to/4qbd4CR))的甜美靈魂感覺融合在一起。
+[Larry Heard (Mr. Fingers)](https://amzn.to/4q97ot4) 以“Can You Feel It”和“Mystery of Love”呈現原型。跟隨[Frankie Knuckles](https://amzn.to/4nUwWJ4)和[Marshall Jefferson](https://amzn.to/3KOf4AV)的潮流，融合了Jersey Garage甜美的靈魂感覺([Blaze](https://amzn.to/4ooZuuc)和[Kerri Chandler](https://amzn.to/4qbd4CR))。
 
 **20世紀90年代：深化和多元化**
 
 芝加哥的 [Ron Trent & Chez Damier (Prescription)](https://amzn.to/4nOApsp)、紐約的 [Masters At Work (MAW)](https://amzn.to/3KTsg7y) 和底特律的 [Moodymann](https://amzn.to/4h9ZZWB) 擴展了“黑色”紋理。英國和德國的基地數量將增加，在深度和科技之間架起一座橋樑。
 
-**2000年代：傾聽導向和成熟度**
+**2000年代：聆聽導向和成熟度**
 
 Naked Music、Jimpster（Freerange）等將帶您進入深情的精緻休息室。在德國，[Henrik Schwarz](https://amzn.to/4h8i9I4)、[Âme](https://amzn.to/47pAIEq) 和 [Dixon (Innervisions)](https://amzn.to/4heIsN1) 因其極簡主義到現代的建築美學而廣受歡迎。
 
@@ -115,7 +115,7 @@ Anjunadeep 和 All Day I Dream 轉向旋律/有機音樂。在南非，黑咖啡
 
 - 動態波浪：“稍微提高一點熱量，然後在 30 到 45 分鐘內立即恢復”。
 
-- BPM 設置不太快：創建 118-121 的“步幅長度”，然後在下半場增加到 122-124。
+- BPM 設置不要太快：將“步幅”設置為 118-121，然後在下半場增加到 122-124。
 
 
 <小時>

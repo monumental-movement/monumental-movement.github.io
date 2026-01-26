@@ -11,7 +11,7 @@ tags:
 - Funk
 - Soul
 - 90s
-title: 塞西爾·帕克 – 跳舞吧
+title: 塞西爾·帕克——《大家跳舞》
 ---
 
 
@@ -19,7 +19,7 @@ title: 塞西爾·帕克 – 跳舞吧
 
 最著名的是 1980 年發行的深情民謠《真的，真的愛你》和《愛是》。
 
-「舞蹈大家」は、1992年に少年のUSハウsureーベルEcho USAのサブureーベルEcho DanceからuririsuされたHousetorakku。由Jeffrey Collins製作，由James Bratton和Marlon Grant混音。
+《DanceEverybody》是一首 House 歌曲，於 1992 年在 Echo Dance 上發行，Echo Dance 是美國早期 house 廠牌 Echo USA 的子廠牌。由杰弗裡·柯林斯製作，詹姆斯·布拉頓和馬龍·格蘭特混音。
 
 
 #### 曲目列表

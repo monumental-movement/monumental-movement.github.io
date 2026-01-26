@@ -9,7 +9,7 @@ permalink: /zh-hant/love-and-rockets-love-and-rockets/
 tags:
 - Rock
 - Goth
-title: 愛與火箭 – 愛與火箭
+title: Love And Rockets – Love And Rockets
 ---
 
 

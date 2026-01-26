@@ -125,7 +125,7 @@ Blue Angel 有著獨特的音樂風格，融合了搖滾樂、R&B 和新浪潮�
 
 ### **一次又一次**
 
-雖然是一首民謠，但Cindy的高音卻充滿力量，同時又細膩得足以讓你的心揪緊。
+雖然是民謠，但Cindy的高音卻充滿力量，同時又細膩得讓人心揪緊。
 據說這首歌反映了與戀人關係不順利時的感受。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VdQY7BusJNU?si=Mo3fY3kDRNf-o-HC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -138,7 +138,7 @@ Blue Angel 有著獨特的音樂風格，融合了搖滾樂、R&B 和新浪潮�
 
 ---
 
-# **8.在日本的接待和來日本的小插曲**
+# **8.日本的接待和來日本的經歷**
 
 20世紀80年代，日本流行文化迅速蓬勃發展，訪問日本的外國藝術家數量不斷增加。在這樣的情況下，Cyndi Lauper以與其他藝術家不同的方式受到日本民眾的喜愛。
 
@@ -255,7 +255,7 @@ flowchart TD
 **1970 年代** 藍天使成立/解散
 **1983** 個人合約
 **1984** “她如此不尋常”風靡全球
-**1985** 參加《我們是世界》
+**1985** 參加《我們是全世界》
 **1993** 『滿星帽子』
 **2000年代** 跨流派，如藍調/舞曲
 **2013** 憑藉《Kinky Boots》獲得托尼獎

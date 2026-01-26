@@ -14,7 +14,7 @@ title: Onnazae – 黑闇騎士 EP
 
 
 《黑闇騎士EP》是
-這是 Onnazae 的一張 EP，其真名是 Pete Prezzano，由“Subtitled Records”廠牌發行。
+這是 Pete Prezzano（真名 Pete Prezzano）的一張 EP，由“Subtitled Records”廠牌發行。
 
 
 #### 曲目列表

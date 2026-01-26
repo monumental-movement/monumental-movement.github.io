@@ -15,7 +15,7 @@ title: 布倫南·格林——900磅男子
 ---
 
 
-Brennan Green 是一位資深的紐約地下迪斯科/電子 DJ、製作人和工程師。他還因影響 Metro Area 和 DFA 廠牌而聞名，並因製作 Kid Creole & The Coconuts 和 ARTHUR RUSSELL 致敬樂隊 ARTHUR'S LANDING 的混音版而聞名。
+Brennan Green 是一位資深的紐約地下迪斯科/電子 DJ、製作人和工程師。 He is also known as a person who influenced Metro Area and the label DFA, and is also famous for producing remixes of Kid Creole & The Coconuts and ARTHUR RUSSELL tribute band ARTHUR'S LANDING.
 
 《900lb Man》是 Jet Set 於 2006 年發行的一首 House、Tech House、Acid House 曲目。
 

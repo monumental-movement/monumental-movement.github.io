@@ -13,7 +13,7 @@ title: 諾克-圖恩阿爾 – 諾克
 ---
 
 
-長灘人 Knoc-Turn'al 出現在 Dr. Dre 2001 年的 Chronic 專輯中，與他人共同創作了 Dr. Dre 和 Snoop Dogg 的配樂《The Wash》，並獲得了紅極一時的《Bad Intentions》。
+長灘本地人 Knoc-Turn'al 出現在 Dr. Dre 2001 年的 Chronic 專輯中，並與他人共同創作了 Dr. Dre 和 Snoop Dogg 的配樂《The Wash》，其中包括紅極一時的《Bad Intentions》。
 
 《knoc》於 2001 年在 Elektra 上發行，是 Knoc-Turn'al 的第一首單曲，由 Missy Elliott 和 Dr. Dre 合作。 （促銷版）
 

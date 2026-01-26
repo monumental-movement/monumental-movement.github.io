@@ -98,7 +98,7 @@ Bonham 的《When the Levee Breaks》中的軍鼓混響是
 
 ---
 
-### 1-4. The heartbeat of Africa: Tony Allen and the political revolution
+### 1-4.非洲的心跳：托尼·艾倫和政治革命
 
 托尼·艾倫（Tony Allen）更出名的是費拉·庫蒂（Fela Kuti）的助手，他是“非洲節奏”的發明者。
 這種節奏是“反體制”的象徵，體現了軍事統治下尼日利亞人民的能量。
@@ -121,7 +121,7 @@ Bonham 的《When the Levee Breaks》中的軍鼓混響是
 
 ### 1-6。北美地下：Greg Fox、Deantoni Parks
 
-Greg Fox（ex-Liturgy）はブラックメタルと即興の融合。  
+Greg Fox（前 Liturgy）是黑金屬和即興創作的融合。
 Deantoni Parks（The Mars Volta）用一隻手演奏採樣器，另一隻手演奏軍鼓。
 用你的身體來解決 21 世紀“人類與機器共存”的挑戰。
 他們的表演介於宗教儀式和技術之間。
@@ -235,7 +235,7 @@ YOSHIMIO 和 Yo2ro 的宇宙節拍。
 |埃爾文·瓊斯 | *住在燈塔* | 1972 | [亞馬遜](https://amzn.to/48CIQTe) |
 |托尼·艾倫 | *家庭烹飪* | 2002 | [亞馬遜](https://amzn.to/3WKLBKO) |
 |約翰·博納姆 (齊柏林飛艇) | *齊柏林飛艇 IV* | 1971 | [亞馬遜](https://amzn.to/4o06I87) |
-|薑餅麵包師（奶油）| *火輪* | 1968 | [亞馬遜](https://amzn.to/42NEdSu) |
+|薑餅麵包（奶油）| *火輪* | 1968 | [亞馬遜](https://amzn.to/42NEdSu) |
 |傑夫·米爾斯 | *在東京 Liquid Room 現場直播* | 1996 | [亞馬遜](https://amzn.to/42KKKNK) |
 |托尼·威廉姆斯 | *終生：緊急情況！ * | 1969 | [亞馬遜](https://amzn.to/49boXCJ) |
 |村上秀一《Ponta》 | *節奏設計師* | 1994 | [亞馬遜](https://amzn.to/4qi2XfH) |

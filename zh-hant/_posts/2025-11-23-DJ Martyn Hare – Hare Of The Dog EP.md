@@ -13,7 +13,7 @@ title: DJ Martyn Hare – Hare Of The Dog EP
 ---
 
 
-Martyn Hare 是一位自 2000 年代初以來一直活躍的 techno DJ/製作人。他經營著英國的科技廠牌 Emetic。除了他的個人項目外，他的項目還包括與 Jamie Ball 合作的 Hareball 和與 Ian Void 合作的 The Risen。
+Martyn Hare 是一位自 2000 年代初以來一直活躍的 techno DJ/製作人。他經營著英國的科技廠牌 Emetic。除了他的個人作品外，他的項目還包括與 Jamie Ball 合作的 Hareball 和與 Ian Void 合作的 The Risen。
 
 《Hare Of The Dog EP》是由 Ben Long 創立的英國科技唱片公司 Potential 於 2003 年發行的一首科技歌曲。
 

@@ -9,7 +9,7 @@ permalink: /zh-hant/scarfo-scarfo/
 tags:
 - Pops
 - Rock
-title: 斯卡福 – 斯卡福
+title: 斯卡福——斯卡福
 ---
 
 

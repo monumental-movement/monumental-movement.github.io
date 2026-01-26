@@ -84,7 +84,7 @@ B2. Fade
 
 特點： 最小的軌道結構，具有簡單的合成線和節奏。它的特點是其空間感、浮動的合成器作品和冷靜、機械的節奏。
 
-推薦點：一首讓你體驗底特律techno起源的歌曲。通過在 DJ 設備中儘早添加它，您可以在地板上營造出“底特律般的宇宙感”。即使對於初學者來說也很容易聽，非常適合理解 Model 500 的世界觀。
+推薦點：一首讓你體驗底特律techno起源的歌曲。如果您將其早期放入 DJ 設備中，您可以在地板上營造出“底特律般的宇宙感”。即使對於初學者來說也很容易聽，非常適合理解 Model 500 的世界觀。
 
 #### 曲目列表
 ```md
@@ -110,7 +110,7 @@ T2. The Flow M38 (Alex Reece Mix)
 <a href="https://jp.mercari.com/item/m22835584429?afid=6142608987"><img src="../assets/images/Carl%20Craig%20%E2%80%93%20Landcruising.webp"></a>
 
 
-特點：在極簡主義的基礎上融合了環境音樂、碎拍音樂、未來爵士樂等的戲劇性聲像。
+特點： 戲劇性的聲像，將環境音樂、碎拍音樂、未來爵士樂等與簡約的基礎結合在一起。
 
 推薦要點：一張有深度、精緻的專輯，帶領聽眾踏上情感之旅。這是一首無論是DJ還是聽眾都想仔細聆聽的作品。
 
@@ -142,7 +142,7 @@ T2. The Flow M38 (Alex Reece Mix)
 <a href="https://jp.mercari.com/item/m73570341601?afid=6142608987"><img src="../assets/images/Ultradyne%20%E2%80%93%20Unknown%20Works.webp"></a>
 
 
-特點：平衡可跳舞的節奏和抽象實驗。曲目示例：“Tangible–Theory Proliferation (Ultradyne Remix)”和“Fantasy Era”。
+特點：平衡可跳舞的節奏和抽象實驗。曲目示例：“Tangible – Theory Proliferation (Ultradyne Remix)”和“Fantasy Era”。
 
 推薦要點：非常適合尋求探索性科技體驗的聽眾。無論是在地板上還是在耳機中，您都會被其實驗性的聲音所吸引。
 
@@ -308,7 +308,7 @@ B. Circus (The Big Finale Mix)
 
 特點： Axis 於 1992 年以“M”為名發行的歌曲。一首代表早期底特律極簡音樂的歌曲。
 
-推薦要點：可以體驗90年代初期的地下感覺的收藏家必備的一張碟，粗獷而又堅固的感覺。
+推薦要點： 可以體驗90年代初地下感覺的收藏家必備的一張唱片，聲音粗獷卻渾厚。
 
 
 #### 曲目列表

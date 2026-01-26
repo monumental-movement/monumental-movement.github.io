@@ -343,11 +343,11 @@ flowchart TD
 
 ### 相關專欄
 
-🔗 【【專欄】德國Techno的譜係與呈現——從柏林傳播到世界的聲音美學】(https://monumental-movement.jp/Column-German-Techno)
+🔗 【【專欄】德國Techno的譜係與現狀——聲音美學從柏林傳播到世界】(https://monumental-movement.jp/Column-German-Techno)
 
 🔗 [[專欄]英國Techno的黃金時代](https://monumental-movement.jp/Column-90s-UKTechno)
 
-🔗 [[專欄]從 techno 的起源到現在 - 通過著名唱片和設備追溯的年代史](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[專欄]從techno的起源到現在——通過著名的唱片和設備追溯的年代史](https://monumental-movement.jp/Column-Techno-History)
 
 🔗 [[專欄]底特律Techno：機器心跳創造的人類舞蹈](https://monumental-movement.jp/Column-Detroit-Techno)
 

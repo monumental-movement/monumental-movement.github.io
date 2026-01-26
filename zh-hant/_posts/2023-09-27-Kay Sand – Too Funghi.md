@@ -15,7 +15,7 @@ title: 凱沙 – Too Funghi
 
 Kay Sand 是意大利 DJ Francesco Sperotto 於 2009 年在德國廠牌 Deep Moves 上發布的一個項目。
 
-混音也很出色，包括意大利歌曲“Minimono”和多梅尼科·西普里亞尼的真名“Lucreito”。
+混音也很出色，包括意大利歌曲“Minimono”和真名Domenico Cipriani“Lucreito”。
 
 #### 曲目列表
 ```md

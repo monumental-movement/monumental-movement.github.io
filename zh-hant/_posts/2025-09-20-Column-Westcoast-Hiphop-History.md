@@ -51,7 +51,7 @@ color: #fff;
 |專輯 |藝術家 |亞馬遜鏈接 |推薦點|
 |----------|-------------|-------------|----------------|
 | *韻有酬* (1987) |冰-T | [亞馬遜](https://amzn.to/46NqVaQ) |奠定黑幫說唱基礎的重要作品 |
-| *衝出康普頓* (1988) |西北地區 | [亞馬遜](https://amzn.to/4neTnsc) |一部震撼社會的有爭議的作品。西海岸的標誌|
+| *衝出康普頓* (1988) |西北地區 | [亞馬遜](https://amzn.to/4neTnsc) |一部震撼社會的有爭議的作品。西海岸圖標|
 | *尼羅河上* (1984) |埃及情人 | [亞馬遜](https://amzn.to/3VsfDCE) |電子與說唱的傑出融合 |
 
 ---
@@ -95,7 +95,7 @@ color: #fff;
 ## 2010 年代至今：多元化和全球影響力
 
 * **代表製作人**：DJ Mustard、Hit-Boy、Flying Lotus
-* **主要唱片公司**：Top Dawg Entertainment (TDE)、Stones Throw
+* **主要廠牌**：Top Dawg Entertainment (TDE)、Stones Throw
 * **文化背景**：隨著Kendrick Lamar等人的出現，“意識”這個表達方式又被復興了。互聯網和SNS正在加速音樂和時尚的傳播，提高其全球影響力。
 * **視頻/時尚**：音樂視頻具有電影感並具有強烈​​的信息，而時尚是高級品牌和街頭服飾（Gucci、Off-White、Supreme等）的融合。
 
@@ -124,7 +124,7 @@ color: #fff;
 
 ## 參考資料/延伸閱讀
 
-* [張信哲《停不下來：嘻哈一代的歷史》](https://amzn.to/4gCxTmv)
+* [張信哲《不能停止不會停止：嘻哈一代的歷史》](https://amzn.to/4gCxTmv)
 * [Eithne Quinn “Nuthin’ but a “G” Thang: The Culture and Commerce of Gangsta Rap”](https://amzn.to/4pxcP4X)
 * [謝麗爾·凱斯“說唱音樂和街頭意識”](https://amzn.to/3IuNrMj)
 * 《The Source》《XXL》《OG Magazine》檔案文章（節選）
@@ -175,7 +175,7 @@ flowchart TD
 
 ## 概括
 
-西海岸嘻哈誕生於 20 世紀 70 年代末洛杉磯的街頭文化，並通過 80 年代和 90 年代黑幫說唱和 G-Funk 的興起，成長為全球音樂潮流。
+西海岸嘻哈誕生於 20 世紀 70 年代末洛杉磯的街頭文化，經過 80 年代和 90 年代黑幫說唱和 G-Funk 的興起，逐漸成長為全球音樂潮流。
 低成本音樂視頻、獨特的時尚風格以及與 Lowrider 文化的聯繫創造了西海岸的真實表達。
 
 自 2000 年代以來，隨著 Madlib 和 The Game 等獨立地下樂隊的成功，多元化不斷擴大。此外，肯德里克·拉馬爾（Kendrick Lamar）等充分利用SNS和互聯網的具有全球影響力的藝術家也出現了，他們的歌曲和包含有意識信息的視覺表達正在形成西海岸嘻哈的新趨勢。
@@ -187,6 +187,6 @@ flowchart TD
 
 ### 相關專欄
 
-🔗 [[專欄]東海岸嘻哈歷史——從布朗克斯到布魯克林和世界”](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)
+🔗 [[專欄]東海岸嘻哈概述——從布朗克斯到布魯克林和世界”](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)
 
 🔗 [[專欄]美國嘻哈歷史：包括地區、俱樂部、媒體和設備的整體圖景](https://monumental-movement.jp/Column-Hiphop-History)

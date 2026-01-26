@@ -21,7 +21,7 @@ title: 【專欄】Autechre：超越結構——科技之後的聲學建築
 Autechre 不僅僅是一個電子音樂二人組。
 他們的聲音既數學又原始。看起來冷酷的，給人留下了幾分人性的粗糙感。肖恩·布斯 (Sean Booth) 和羅布·布朗 (Rob Brown) 這兩個在曼徹斯特北部相識的年輕人，以嘻哈音樂和工程好奇心為起點，踏上了重新定義聲音結構的道路。
 
-20 世紀 90 年代初，Autechre 是 Warp Records 的人工智能係列中的佼佼者。他們正在尋找一種“將機械聲音轉化為情感”的方法。肖恩·布斯後來在接受采訪時說道：
+20 世紀 90 年代初，Autechre 在 Warp Records 的人工智能係列中脫穎而出。他們正在尋找一種“將機械聲音轉化為情感”的方法。肖恩·布斯後來在接受采訪時說道：
 
 > “Techno 對我們來說不是要消除情感，而是通過結構來表達情感。”
 
@@ -73,7 +73,7 @@ The Designers Republic 的無機封面設計也與 Autechre 的聲音世界完�
 ## 第三章：數學與情感——從“Chiastic Slide”到“LP5”
 
 1997-1998年，Autechre發展到更複雜的結構。
-Chiastic Slide (1997) 是一個多節奏和重複的實驗。 LP5 (1998) 的構造就像一個聲音雕塑。
+Chiastic Slide (1997) 是一個多節奏和重複的實驗。 LP5 (1998) 的結構就像一個聲音雕塑。
 特別值得注意的是使用 **Nord Modular 和 MPC1000** 進行的現場編程。實時改變數據的方法成為後來算法現場音樂的原型。
 
 他們的音樂已經成為一種可以體驗的東西，而不是可以聽到的東西。
@@ -212,7 +212,7 @@ flowchart TD
 
 🔗 [[專欄]從IDM的起源到現在——智力探索與舞池之間](https://monumental-movement.jp/Column-IDM)
 
-🔗 [[專欄]從 techno 的起源到現在 - 通過著名唱片和設備追溯的年代史](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[專欄]從techno的起源到現在——通過著名的唱片和設備追溯的年代史](https://monumental-movement.jp/Column-Techno-History)
 
 🔗 [[專欄]英國Techno的黃金時代](https://monumental-movement.jp/Column-90s-UKTechno)
 

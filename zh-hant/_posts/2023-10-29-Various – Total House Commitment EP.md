@@ -9,7 +9,7 @@ permalink: /zh-hant/various-total-house-commitment-ep/
 tags:
 - House
 - Deep House
-title: 各種 – Total House Commitment EP
+title: Various – Total House Commitment EP
 ---
 
 

@@ -17,7 +17,7 @@ title: Rozalla – 每個人都是自由的（感覺良好）
 
 羅扎拉·米勒（Rozalla Miller），也被稱為羅扎拉（Rozalla），是一位津巴布韋電子音樂表演者，來自現在的讚比亞。一位全球成功的舞蹈藝術家，被譽為“狂歡女王”。
 
-1991 年，英國 house/rave 廠牌 Pulse 8 發行的《Everybody's Free (To Feel Good)》成為全球熱門歌曲。這首歌被譽為 20 世紀 90 年代初流行音樂和俱樂部場景的讚歌，迄今為止已被多次重新混音。其他熱門歌曲包括“Faith (In the Power of Love)”和“Are You Ready to Fly”。
+1991 年，英國 house/rave 廠牌 Pulse 8 發行的《Everybody's Free (To Feel Good)》成為全球熱門歌曲。這首歌被譽為 20 世紀 90 年代初期流行音樂和俱樂部場景的讚歌，迄今為止已被多次重新混音。其他熱門歌曲包括“Faith (In the Power of Love)”和“Are You Ready to Fly”。
 
 
 #### 曲目列表

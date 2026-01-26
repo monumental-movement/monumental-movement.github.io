@@ -167,7 +167,7 @@ Homestead 和 Shimmy Disc 等獨立唱片公司繼承了 Ween 的瘋狂風格。
 然而，在幕後，卻存在著酒精、毒品、疲勞、友情之間的衝突。
 2008年，吉恩·溫因個人原因離開了樂隊。
 他克服了酒精依賴，開始了一條安靜的康復之路。
-Dean 成立了**Dean Ween 集團**，並以另一種方式將 Ween 的精神聯繫在一起。
+Dean 成立了**Dean Ween 集團**，並以另一種方式將 Ween 的精神聯繫起來。
 
 ---
 
@@ -236,9 +236,9 @@ flowchart TD
 | 1994 | [巧克力和奶酪](https://amzn.to/46LSWQo) |工作室製作的轉折點|
 | 1996 | [12位金國偉人](https://amzn.to/470mzMs) |假鄉村 x 真實納什維爾 |
 | 1997 | [軟體動物](https://amzn.to/48VBtpT) |迷幻流行音樂的里程碑 |
-| 2000 | 2000 [白胡椒](https://amzn.to/4o6RI7P) | “披頭士般的溫”|
+| 2000 | 2000 [白胡椒](https://amzn.to/4o6RI7P) | “披頭士般的溫” |
 | 2003 | [魁北克](https://amzn.to/4gZ8SlA) |內省與實驗的融合|
-| 2007 | [La Cucaracha](https://amzn.to/46STLa9) |標誌著生命終結的最後一部作品 |
+| 2007 | [La Cucaracha](https://amzn.to/46STLa9) |標誌著結束的最後一部作品|
 
 ---
 

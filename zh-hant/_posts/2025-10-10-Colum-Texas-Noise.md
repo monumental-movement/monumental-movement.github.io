@@ -43,7 +43,7 @@ color: #fff;
 
 ### 第一章：孤獨的聲音實驗——查拉蘭皮迪斯和南方意識的擴張
 
-2000 年代初，**Charalambides**（克里斯蒂娜和湯姆·卡特）是德克薩斯州噪音界的中流砥柱。
+2000年代初頭、**Charalambides**（クリスティーナ＆トム・カーター夫妻）は、テキサスのノイズ・シーンにおける精神的支柱であった。  
 他們的聲音與其說是噪音，不如說是一種探索民謠和無人機“初級邊緣”的實驗儀式。
 
 - 無限延伸的吉他混響
@@ -76,12 +76,12 @@ BLJ的特點是噪音、肉體、同性戀美學的融合。
 
 ### 第三章：從無人機到環境聲音——奧斯汀和藝術噪音之間的聯繫
 
-奧斯汀是德克薩斯州的一座城市，噪音已呈現出新的方向，尤其是作為大學文化和 DIY 藝術的溫床。
+オースティンは、テキサスの中でも特に**大学文化とDIYアートの温床**として、ノイズが新しい方向に展開した都市である。  
 2000 年代末，**Iron Lung、Pure Ground 和 Digital Leather** 等藝術家將關注點從嚴酷轉向極簡主義。
 
-錄音環境也發生了變化。盒式磁帶廠牌不斷增加，與 **Edition Mego 和 Hospital Productions** 等國家的交流也在取得進展。
+錄音環境也發生了變化。 Cassette labels were on the rise, and exchanges with countries such as **Edition Mego and Hospital Productions** were also progressing.
 這一時期的一個特點是“噪音作為藝術”的重新定義。
-特別是“No Idea Festival”在奧斯汀的小畫廊和倉庫裡舉辦。
+特に、オースティンの小ギャラリーや倉庫で開催された「No Idea Festival」は、  
 承認德克薩斯州噪音文化是國際前衛音樂網絡的一部分。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SzNrAN1J08g?si=bO4Af2YmFXlnKHYl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -91,13 +91,13 @@ BLJ的特點是噪音、肉體、同性戀美學的融合。
 ### 第 4 章：一個又一個的噪音——2010 年代之後的發展
 
 2010年代，噪音從“極端的聲學表達”轉變為“結構思維”。
-來自德克薩斯州的藝術家通過混合環境、電聲、現場錄音等方式開闢了新天地。
+テキサス出身のアーティストたちは、**アンビエント、電子音響、フィールドレコーディング**などを交錯させる新しい地平を切り開いた。  
 
 舉一個典型的例子：
 
 - **湯姆·卡特**的個人作品《Long Time Underground》（2015）
 - **Rick Reed** 的磁帶作品（奧斯汀電子聲音場景的核心）
-- **記憶和噪音的詩學**使用**Amulets（蘭德爾·泰勒）的循環磁帶**
+- **Amulets（Randall Taylor）** によるループカセットを用いた**記憶とノイズの詩学**
 
 這些運動不再將噪音視為“破壞性音樂”，而是**時間和存在的噪音**。
 

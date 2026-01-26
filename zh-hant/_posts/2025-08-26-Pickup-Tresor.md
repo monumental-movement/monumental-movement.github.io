@@ -183,7 +183,7 @@ D2. Voov – It's Anything You Want It To Be And It's A Gas (Smoke Machine V2)
 簡介： 日本硬科技DJ/製作人DJ Shufflemaster（金森龍也）於2001年發行的全長專輯。被譽為Tresor發行的傑作。
 
 
-魅力點：深沉、硬朗的Techno聲音和細緻的作曲很有吸引力。他在國際上獲得了高度評價，是一位通過與 Tresor 的關係而傳播到世界各地的有價值的日本藝術家。
+魅力點：深沉、硬朗的Techno聲音和細緻的作曲很有吸引力。他在國際上獲得了很高的讚譽，是一位有價值的日本藝術家，通過與 Tresor 的關係而傳播到世界各地。
 
 #### 曲目列表
 ```md

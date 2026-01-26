@@ -16,9 +16,9 @@ title: 彈道兄弟 – 啄擊來吧
 ---
 
 
-Ballistic Brothers 是一支 90 年代英格蘭的悲觀樂隊，由 X-Press 2 的 Ashley Beedle、Rocky & Diesel 和 David Hill（Nuphonic Records）組建。其特點是受爵士樂影響的時髦電子音樂風格。
+Ballistic Brothers 是 90 年代英格蘭的一支悲觀樂隊，由 X-Press 2 的 Ashley Beedle、Rocky & Diesel 和 David Hill（Nuphonic Records）組建。其特點是受爵士樂影響的時髦電子音樂風格。
 
-這張 CD 是英國廠牌 Junior Boy's Own 於 1995 年發行的傑作專輯 London Hooligan Soul 中的單曲。
+這張 CD 是英國唱片公司 Junior Boy's Own 於 1995 年發行的傑作專輯《London Hooligan Soul》中的單曲。
 
 第二首歌曲是叢林鼓和貝斯 DJ 兼製作人 Simon Templar（又名 Paul Saunders）的混音版。
 

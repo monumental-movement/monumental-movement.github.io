@@ -17,7 +17,7 @@ title: 萌。 – 抖動
 
 Moe 是一支美國即興搖滾樂隊，於 1989 年在布法羅大學成立。
 
-《Dither》是moe的第五張錄音室專輯。該專輯於 2001 年在樂隊自己的廠牌 Fatboy Records 上發行，並由 DJ Logic、Kirk Juhas 和 Nykw-ILL 兄弟合作。
+《Dither》是moe的第五張錄音室專輯。該專輯於 2001 年在樂隊自己的唱片公司 Fatboy Records 上發行，並由 DJ Logic、Kirk Juhas 和 Nykw-ILL 兄弟合作。
 
 
 #### 曲目列表

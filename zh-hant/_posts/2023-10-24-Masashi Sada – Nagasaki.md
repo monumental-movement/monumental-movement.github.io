@@ -10,7 +10,7 @@ tags:
 - JPop
 - Nostalgic
 - 7inch
-title: 佐田正史 – 長崎洋由
+title: 佐田正志 – 長崎洋由
 ---
 
 

@@ -22,7 +22,7 @@ title: 【專欄】通靈電視：一個跨越音樂、儀式、意識形態的�
 文：mmr｜主題：歷史、哲學、音樂性、現場活動、儀式以及通靈電視從形成到消亡對後代的影響
 
 
-Psychic TV 於 1981 年在英國成立，它不僅僅是一支樂隊，還是一支樂隊。它是一個集音樂、影像、表演、神秘主義於一體的綜合性藝術團體。 Psychic TV 圍繞 Genesis Breyer P-Orridge 的想法和願景而建立，從 20 世紀 80 年代到 2000 年代一直走在反主流文化的最前沿，融合了工業音樂、迷幻劑、迷幻浩室、表演藝術和儀式文化。
+Formed in England in 1981, Psychic TV is more than just a music band; it is a comprehensive artistic collective that integrates music, video, performance, and occultism. Psychic TV 圍繞 Genesis Breyer P-Orridge 的想法和願景而建立，從 20 世紀 80 年代到 2000 年代一直走在反主流文化的最前沿，融合了工業音樂、迷幻劑、迷幻浩室、表演藝術和儀式文化。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MzJ2-whjIdU?si=1XcdXsK0ndcnXqFm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -54,7 +54,7 @@ Genesis Breyer P-Orridge（1950-2020）是英國前衛藝術界最有影響力�
 
 Throbbing Gristle 成立於 1976 年，以其噪音、工業音樂和游擊式現場表演震驚了 20 世紀 70 年代末的音樂界。然而，1981年，該團體解散了。不久之後，創世紀與彼得·克里斯托弗森和亞歷克斯·弗格森開始了一個新的音樂和藝術項目。那是心靈電視。
 
-Psychic TV 的設計不僅僅是一個樂隊，而是一個集音樂、視頻、表演和神秘主義為一體的“多媒體集體”，從一開始就有一個強調實驗和挑釁的結構。
+Psychic TV 的設計不僅僅是一個樂隊，而是一個集音樂、視頻、表演和神秘主義於一體的“多媒體集體”，從一開始就有一個強調實驗和挑釁的結構。
 
 ---
 
@@ -84,7 +84,7 @@ Psychic TV在現場表演上也有創新。許多現場表演都使用了視頻�
 
 #### 4.2 音樂風格的轉變
 
-在這個中期，除了傳統的工業噪音和朋克之外，還融入了迷幻、流行、實驗音樂等多種元素，音樂風格發生了顯著變化。在他們的現場表演和專輯中，音樂、視頻和表演緊密相連，聽覺、視覺和靈性融為一體的藝術性脫穎而出。
+在這個中期，除了傳統的工業噪音和朋克之外，還融入了迷幻、流行、實驗音樂等多種元素，音樂風格發生了顯著變化。在他們的現場表演和專輯中，音樂、視頻和表演緊密相連，聽覺、視覺和精神融為一體的藝術性脫穎而出。
 
 #### 4.3 魔法、混沌魔法和深化思想
 
@@ -127,7 +127,7 @@ Psychic TV在現場表演上也有創新。許多現場表演都使用了視頻�
 ### 7. 影響和遺產
 
 * 對迷幻浩室和實驗音樂的影響
-* 傳播混沌魔法
+* 混沌魔法的傳播
 * 性別、身體轉變和泛學實驗的文化意義
 * 對當代藝術家和樂隊的影響
 

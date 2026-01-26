@@ -15,7 +15,7 @@ title: 三百萬——我被搶劫了
 ---
 
 
-三百萬是由拉里·巴特勒、馬克·金和旺達·巴特勒組成的一個團隊。拉里（Larry）和旺達（Wanda）與吉姆·格蘭特（Jim Grant）在Today Records 中以Odds And Ends 的身份合作，但當他們在70 年代末轉到United Artists 時，吉姆·格蘭特被馬克·金（Mark King）取代。轉為 Cotilion 廠牌後，名稱改為 Three Million。
+三百萬是由拉里·巴特勒、馬克·金和萬達·巴特勒組成的一個團隊。拉里（Larry）和旺達（Wanda）與吉姆·格蘭特（Jim Grant）在Today Records 中以Odds And Ends 的身份合作，但當他們在70 年代末轉到United Artists 時，吉姆·格蘭特被馬克·金（Mark King）取代。轉為 Cotilion 廠牌後，名稱改為 Three Million。
 
 《I've Been Robbed》是一首迪斯科/放克/布吉歌曲，由 Cotillion 廠牌於 1983 年發行。由吉恩·勞森 (Gene Lawson) 和魯本·克羅斯 (Reuben Cross) 製作。
 

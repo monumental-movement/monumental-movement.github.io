@@ -128,13 +128,13 @@ flowchart TD
 
 ## 第 4 章：V∞redoms/帶有孔鼓的節奏合奏時期（2000-2010）
 
-### 4-1. Movement of members and changes to new structure
+### 4-1.成員變動及新架構變動
 
 2000年代初，會員構成發生了重大變化。
 吉他手和貝斯手被排除在外，陣容轉向以“鼓和打擊樂”為中心的新結構。
 以 Yoshimi P-We 為中心的多層次的鼓和打擊樂風格將成為 Boredoms 的標誌。
 
-### 4-2. 『Seadrum / House of Sun』による新局面
+### 4-2. “Seadrum / House of Sun”的新階段
 
 2004年，發行《Seadrum / House of Sun》。
 海灘錄音、長長的嗡嗡聲、冥想結構、環境聲音和重複的元素結合在一起，創造了一個感覺像“聲音儀式”的世界。
@@ -143,8 +143,8 @@ flowchart TD
 
 ---
 
-在這裡，樂隊名稱經常被寫成V∞redoms，而Boredoms本身的概念也變成了“集體創作體”，而不是一個音樂單位。
-進入2000年代，Boredoms有了新的發展，包括**V∞redoms**這個名字，其中最具標誌性的就是以7月7日舉行的“7x7x7”現場演出**開始的大型鼓樂團。
+在這裡，樂隊的名字經常被寫成V∞redoms，而Boredoms本身的概念也變成了“集體創作體”，而不是一個音樂單位。
+2000年代，Boredoms有了新的發展，包括**V∞redoms**這個名字，其中最具標誌性的就是以7月7日舉行的“7x7x7”現場演出**開始的大型鼓樂團。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vjk01Wo-aEs?si=NY65yyeeoj0-m5te" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -170,7 +170,7 @@ flowchart TD
 ---
 
 ## 第 5 章：2010 年代以來的活動
-自2010年代以來，Boredoms持續斷斷續續地進行現場表演，而每個成員的創作活動也不斷深化。
+自2010年代以來，Boredoms繼續斷斷續續地進行現場表演，而每個成員的創作活動也不斷深化。
 特別是，**Eye 的視覺藝術活動**和 **Yoshimi 與 OOIOO/SAICOBABA** 的活動不斷擴大，給人的印像是 Boredoms 更像是一個“集體項目”而不是一個“樂隊”。
 
 ---
@@ -278,7 +278,7 @@ timeline
 Boredoms 不僅僅是一支樂隊，它可以說是一個隨著時間的推移而改變形狀的“地方本身”。
 艾未未的哲學觀點、吉美的身體節奏以及每個成員的獨特性錯綜複雜地交織在一起，這個團體就像一個巨大的有機體一樣成長。
 
-如果你仔細看看，包括OOIOO和Eye的個人歷史，Boredoms的活動繼續像“無中心漩渦”一樣蔓延，他們的影響力繼續在全世界範圍內被提及。
+如果你仔細看看，包括OOIOO和Eye的個人歷史，Boredoms的活動繼續像“無中心漩渦”一樣蔓延，他們的影響力繼續在全世界範圍內被引用。
 
 ---
 

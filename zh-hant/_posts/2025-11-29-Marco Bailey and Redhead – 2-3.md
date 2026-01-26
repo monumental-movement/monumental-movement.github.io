@@ -14,7 +14,7 @@ title: 馬可·貝利 & 紅發女郎 – 2 3
 ---
 
 
-2000 年，比利時 techno 界頂級 DJ 二人組 Marco Bailey 和 Redhead（Steve Vangilbergen）在 Invasion 廠牌上發行了一首 Techno 曲目。
+比利時 techno 界頂級 DJ 二人組 Marco Bailey 和 Redhead（Steve Vangilbergen）於 2000 年在 Invasion 廠牌上發行的 Techno 曲目。
 
 #### 曲目列表
 ```md

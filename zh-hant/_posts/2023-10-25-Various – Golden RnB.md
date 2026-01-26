@@ -10,7 +10,7 @@ tags:
 - Soul
 - RnB
 - 7inch
-title: Various – Golden R&B
+title: 各種 – 金色 R&B
 ---
 
 

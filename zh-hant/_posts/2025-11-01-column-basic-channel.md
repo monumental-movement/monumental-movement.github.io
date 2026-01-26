@@ -64,7 +64,7 @@ Basic Channel 是由德國音樂家 **Moritz von Oswald** 和 **Mark Ernestus** 
 
 ---
 
-## 第2章：節奏空洞──“Phylyps Trak”的影響
+## 第2章 節奏空洞──“Phylyps Trak”的影響
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JU4dXv5ohbc?si=t394Uurx52afS_tJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -73,7 +73,7 @@ Basic Channel 是由德國音樂家 **Moritz von Oswald** 和 **Mark Ernestus** 
 他的早期作品 *Phylyps Trak* (1993) 讓世界各地的 DJ 感到困惑。
 這種聲音將底特律 techno 的硬節奏與配音的空間處理相結合，徹底改變了俱樂部聲音的深度。
 
-- 踢球並不渾濁，而是像空氣一樣滲出。
+- 踢腿並不泥濘，但它像空氣一樣滲出。
 - 小軍鼓即將消失，延遲的混響變成了主旋律。
 - 創造音樂的是“衰變”，而不是旋律。
 
@@ -142,7 +142,7 @@ Basic Channel 的理念深深植根於當代柏林俱樂部文化，包括 Bergh
 
 ---
 
-## 第7章：影響與擴散——Dub Techno的現狀
+## 第七章：影響與擴散——Dub Techno的現狀
 
 如今，Basic Channel的影響力隨處可見。
 
@@ -150,8 +150,8 @@ Basic Channel 的理念深深植根於當代柏林俱樂部文化，包括 Bergh
 |:--|:--|:--|
 | **深和弦/迴聲空間** |底特律的空間技術|有機擴張延遲|
 | **通量** |來自希臘的最小配音|建築感覺直接源自連鎖反應|
-| **天然氣（沃爾夫岡·沃伊特）** |氛圍+古典的融合 |用混響比喻“森林” |
-| **亞格亞** |冰島淨度|韻律透氣|
+| **天然氣（沃爾夫岡·沃伊特）** |氛圍+古典的融合|用混響比喻“森林”|
+| **亞格亞** |冰島淨度|韻律透氣 |
 | **cv313** |面向模擬的聲壓結構|基礎頻道的精神傳承 |
 
 這種趨勢在即使在數字環境下仍然追求“深度”的藝術家中很常見。
@@ -185,7 +185,7 @@ graph TD
 
 |年份|主要活動 |
 | :----- | :---------------------------------------------------- |
-| **1990** | Mark Ernestus 開設 Hard Wax（柏林）|
+| **1990** |馬克·埃內斯特斯 (Mark Ernestus) 開設 Hard Wax（柏林）|
 | **1993** | 《Phylyps Trak》以 Basic Channel 名義發布 |
 | **1994** |已完成該系列至基本頻道第6號。代表作品如《Quadrant Dub》|
 | **1995** |建立鍊式反應。實驗性 dub techno 開始傳播 |
@@ -193,7 +193,7 @@ graph TD
 | **1999** |創辦 Rhythm & Sound，開始與牙買加歌手合作 |
 | **2003** | “藝術家的節奏與聲音”發布|
 | **2010** |莫里茨·馮·奧斯瓦爾德三重奏組開始（與馬克斯·洛德鮑爾和托尼·艾倫） |
-| **2020年代** |重評風潮，Dub Techno復興，以Bandcamp為主蔓延|
+| **2020年代** |重新評價風潮，Dub Techno復興，以Bandcamp為主蔓延|
 
 ---
 

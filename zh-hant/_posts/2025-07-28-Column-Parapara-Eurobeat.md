@@ -72,7 +72,7 @@ Eurobeat 的根源是 20 世紀 80 年代誕生於意大利的“Italo Disco”�
 
 ### avex 策略：Eurobeat = 日本專用格式
 
-●“SUPER EUROBEAT”系列的誕生（1990年-）
+● “SUPER EUROBEAT”系列的誕生（1990年-）
 
 - 意大利製作的合輯系列，專供日本市場
 

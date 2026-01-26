@@ -13,7 +13,7 @@ title: 拾取鼓和貝斯作品
 ---
 
 
-“一組非凡的鼓和貝斯作品，以尖銳的節拍和沈重的低音線震撼地板。”
+“一組出色的鼓和貝斯作品，以尖銳的節拍和沈重的低音線震撼地板。”
 
 <小時>
 
@@ -93,7 +93,7 @@ AA. Loop Progression
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m37201781569?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m37201781569?afid=6142608987){: .button1}
 
 
 #### Youtube

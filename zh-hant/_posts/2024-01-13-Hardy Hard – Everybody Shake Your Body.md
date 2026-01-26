@@ -13,7 +13,7 @@ title: Hardy Hard – 每個人都搖動你的身體
 ---
 
 
-Hardy Hard，真名 Kay Lippert，是一位德國電子/電子音樂家和 DJ。
+Hardy Hardこと本名Kay Lippert（ケイ・リッパート）は、ドイツのテクノ／エレクトロのミュージシャンおよびDJ。
 
 1974年9月10日出生於德累斯頓。 1997年移居柏林。
 
