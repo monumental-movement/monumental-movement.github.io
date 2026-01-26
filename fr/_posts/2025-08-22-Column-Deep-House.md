@@ -21,7 +21,7 @@ title: '[Chronique] Qu''est-ce que la deep house ? ─ Explorer la profondeur du
 
 Texte : mmr｜Thème : Deep House, un genre qui continue d'évoluer tranquillement tout en intégrant l'histoire et le contexte.
 
-La deep house est une variété de house qui a germé dans la région de Chicago et du New Jersey à la fin des années 1980. Caractérisé par des harmonies soul/jazz, des basses douces et un groove retenu, c'est un type de musique de danse qui est « profonde, longue et réchauffe le corps » plutôt qu'un pic précipité. Le BPM est généralement de 118 à 124 (vitesse lente à moyenne), les accords 7ème/9ème, le piano électrique (Rhodes), l'orgue (série Korg M1) et les voix décontractées sont symboliques. Il a une "température nocturne" valable aussi bien pour le sol que pour l'écoute.
+La deep house est une sorte de house qui a émergé dans la région de Chicago et du New Jersey à la fin des années 1980. Caractérisé par des harmonies soul/jazz, des basses douces et un groove retenu, c'est un type de musique de danse qui est « profonde, longue et réchauffe le corps » plutôt qu'un pic précipité. Le BPM est généralement de 118 à 124 (vitesse lente à moyenne), les accords 7ème/9ème, le piano électrique (Rhodes), l'orgue (série Korg M1) et les voix décontractées sont symboliques. Il a une "température nocturne" valable aussi bien pour le sol que pour l'écoute.
 
 
 <hr>
@@ -47,15 +47,15 @@ Anjunadeep et All Day I Dream se sont tournés vers la musique mélodique/organi
 
 <hr>
 
-### 音楽的特徴
+### Fonctionnalités musicales
 
 **Harmonie** : 7ème/9ème majeur, accord de suspension, beaucoup de tension. Même en mode mineur, il y a une nuance de « tristesse≠tragique ».
 
 **Beat** : Le kick a un arrière-goût rond et profond. Le charleston est un mélange avec un léger swing. Les textures 909/707/727 et 808 sont standard.
 
-**Basse** : Notes longues principalement ondulantes avec des sous-bandes soigneusement contrôlées.
+**Basse** : notes longues principalement ondulantes avec des sous-bandes soigneusement contrôlées.
 
-**Clavier/Texture** : orgue Rhodes/M1/cordes douces, le type d'espace (délai/réverbération) est long mais pas dense.
+**Clavier/Texture** : orgue Rhodes/M1/cordes douces, le type d'espace (delay/reverb) est long mais pas dense.
 
 **Voix** : Parlant du grave au médium, du gospel à la lignée de l'âme. Utilisez la « pause » en utilisant le nombre de mots nécessaire et suffisant.
 
@@ -91,7 +91,7 @@ Anjunadeep et All Day I Dream se sont tournés vers la musique mélodique/organi
 
 ### Sous-genres et lignées périphériques
 
-**Chicago Deep** : coup de pied lourd + réverbération soul. Exemple : M. Fingers, Ron Trent.
+**Chicago Deep** : Coup de pied lourd + réverbération soul. Exemple : M. Fingers, Ron Trent.
 
 **Type Jersey/garage** : Piano/orgue et chant de type gospel. Exemple : Kerri Chandler, Blaze.
 
@@ -155,7 +155,7 @@ Anjunadeep et All Day I Dream se sont tournés vers la musique mélodique/organi
 
 **Early Peak** : le moteur de Ron Trent/Chez Damier
 
-**Plateau** : raffinement de Jimpster à Freerange
+**Plateau** : Raffinement du Jimpster ~ Freerange
 
 **Changement de couleur** : la sensation live d'Henrik Schwarz
 

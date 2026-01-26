@@ -105,7 +105,7 @@ Cette question est également la clé pour prédire l’avenir de la culture des
 
 ## Chapitre 6 : « Nuit » après la pandémie : clubs numériques et nouvelles communautés
 
-Lorsque les clubs ont fermé leurs portes en raison de la pandémie de coronavirus, le son s’est déplacé vers Internet.
+Lorsque la pandémie de coronavirus a fermé les portes des clubs, le son s’est déplacé vers Internet.
 De nouvelles communautés de clubs sont nées dans l'espace numérique, telles que « Boiler Room », « Club Quarantine » et « Twitch DJ distribution ».
 Même si la ville est devenue silencieuse, le rythme de la nuit ne s'est pas arrêté.
 

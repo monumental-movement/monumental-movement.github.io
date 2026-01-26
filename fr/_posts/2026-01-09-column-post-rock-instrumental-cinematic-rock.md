@@ -11,8 +11,8 @@ tags:
 - Post-Rock
 - Instrumental
 - Cinematic Rock
-title: '[Chronique] Post-Rock Instrumental / Cinematic Rock ─ Du silence à l''explosion
-  cinématographique'
+title: '[Chronique] Post-Rock Instrumental / Rock Cinématographique ─ Du silence à
+  l''explosion cinématographique'
 ---
 
 
@@ -50,9 +50,9 @@ color: #fff;
 
 Le terme « post-rock » s’est imposé au milieu des années 1990. Il a commencé à être utilisé pour décrire la musique qui utilise des instruments rock mais qui se distancie des riffs dérivés du blues, de la concentration vocale et des structures de chansons classiques. Ce concept ne faisait pas référence à un son spécifique, mais plutôt à une attitude ou une méthodologie.
 
-Le contexte réside dans les multiples cultures musicales qui se sont accumulées depuis les années 1970. La répétition et les changements infimes présentés par la musique minimale, l'idée de musique environnementale présentée par l'ambient, l'attitude déconstructrice apportée par le post-punk et même le sens du traitement spatial dans la musique dub et électronique. Le post-rock s'est formé à la suite de leur intersection avec le contexte rock.
+Le contexte réside dans les multiples cultures musicales qui se sont accumulées depuis les années 1970. La répétition et les changements infimes présentés par la musique minimale, l'idée de musique environnementale présentée par l'ambient, l'attitude déconstructrice apportée par le post-punk et même le sens du traitement spatial dans la musique dub et électronique. Le post-rock s'est formé à la suite de leur intersection avec le contexte rocheux.
 
-Ce qui est important, c'est que le post-rock n'était pas une « négation du rock ». Même si la formation de guitare, basse et batterie a été maintenue, leurs rôles ont été redéfinis. La guitare est devenue un appareil permettant de créer des sons et des textures soutenus plutôt que de créer des riffs, et la batterie est passée du statut d'appareil de réglage du rythme à celui de contrôle du flux du temps et de la tension.
+Ce qui est important, c'est que le post-rock n'était pas une « négation du rock ». Même si la formation de guitare, basse et batterie a été maintenue, leurs rôles ont été redéfinis. La guitare est devenue un outil permettant de créer des sons et des textures soutenus plutôt que de créer des riffs, et la batterie est passée du rôle de créateur de rythmes à celui de contrôle du flux du temps et de la tension.
 
 > Le post-rock n'était pas une tentative de mettre fin au rock, mais plutôt un acte de repositionnement du rock dans une chronologie différente.
 
@@ -60,7 +60,7 @@ Ce qui est important, c'est que le post-rock n'était pas une « négation du ro
 
 ## Modifications de l'expérience d'écoute induites par l'instrumentalisation
 
-L’un des tournants majeurs du post-rock a été l’élimination du chant, ou son extrême relégation au second plan. Avec les paroles au premier plan, la musique s'est libérée des significations et des récits concrets, la transformant en une expérience plus abstraite.
+L’un des tournants majeurs du post-rock a été l’élimination du chant, ou son extrême relégation au second plan. Les paroles étant retirées du tableau, la musique s'est libérée des significations et des histoires concrètes et s'est transformée en une expérience plus abstraite.
 
 Avec la musique instrumentale, l’auditeur n’est pas obligé de suivre les paroles. Au lieu de cela, l’attention est dirigée vers les sons qui se chevauchent, les changements de force et de faiblesse et le passage du temps lui-même. Il s’agit d’une expérience d’écoute qui nécessite une immersion active plutôt qu’une consommation passive.
 
@@ -102,7 +102,7 @@ La raison pour laquelle leur musique a été utilisée dans tant de productions 
 
 Bonne chance à vous ! Black Emperor est un collectif musical né à Montréal à la fin des années 1990. Il a un fort caractère de collectif fluide plutôt que de composition fixe, et se caractérise par une grande formation qui utilise plusieurs guitares, basses, batterie, instruments à cordes et enregistrements sur le terrain.
 
-Leur travail s'écarte grandement du cadre d'un album rock typique. La pièce est longue et structurée comme de multiples mouvements, alternant silence et bruit, mélodie et chaos. Il n’y a souvent pas d’accroches ou de résolutions claires, ce qui nécessite de la patience et de la concentration de la part de l’auditeur.
+Leur travail s'écarte grandement du cadre d'un album rock typique. La pièce est longue et structurée comme de multiples mouvements, alternant silence et bruit, mélodie et chaos. Les chansons n'ont souvent pas de refrain ou de résolution claire, ce qui nécessite de la patience et de la concentration de la part de l'auditeur.
 
 Quelle bonne chance pour vous ! Black Emperor présenté était une tentative d'enregistrer le temps social et historique avec des sentiments sonores plutôt que personnels. Les sons, les annonces et les récits fragmentés de la ville évoquent un sentiment collectif d’anxiété et de tension plutôt que de manifester un message spécifique.
 
@@ -161,7 +161,7 @@ Cette tendance ne constitue pas une rupture brutale, mais peut être comprise co
 
 Actuellement, le rock instrumental et cinématographique post-rock s'est imposé comme une méthode d'expression plutôt que comme un nom de genre spécifique. Sa structure continue d'être référencée dans différents contextes tels que des vidéos, des jeux et des installations.
 
-Deux directions énoncées par Explosions in the Sky et Godspeed You! Black Emperor sert toujours de points de référence créatifs. La musique, qui n'a pas de paroles, continue de se connecter aux propres expériences de l'auditeur, transcendant les époques et les cultures.
+Deux directions énoncées par Explosions in the Sky et Godspeed You! Black Emperor sert toujours de points de référence créatifs. La musique sans paroles continue de se connecter aux propres expériences de l'auditeur, transcendant les époques et les cultures.
 
 > La musique instrumentale post-rock continuera de créer de nouvelles histoires à travers le silence et le temps.
 

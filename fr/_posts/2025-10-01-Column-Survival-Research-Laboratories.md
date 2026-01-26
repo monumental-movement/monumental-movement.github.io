@@ -18,7 +18,7 @@ title: '[Chronique] Survival Research Laboratories (SRL) : pionnier de l''art m�
 Texte : mmr｜Thème : À propos d'un groupe innovant qui questionne la relation entre les machines et les humains, la technologie et l'art, l'ordre et le chaos.
 
 
-Survival Research Laboratories (SRL) est un collectif américain d'art de la performance fondé à San Francisco en 1978 par Mark Pauline. SRL est connu pour ses performances à grande échelle utilisant des machines et des robots, visant à réutiliser la technologie industrielle, scientifique et militaire en satire artistique et sociopolitique. Leur travail est associé à l'art de Dada et de Jean Tinguely et a été salué pour avoir remis en question l'état et l'orientation de la société technologique.
+Survival Research Laboratories (SRL) est un collectif américain d'art de la performance fondé à San Francisco en 1978 par Mark Pauline. SRL est connu pour ses performances à grande échelle utilisant des machines et des robots, visant à transformer la technologie industrielle, scientifique et militaire en satire artistique et sociopolitique. Leur travail est associé à l'art de Dada et de Jean Tinguely et a été salué pour avoir remis en question l'état et l'orientation de la société technologique.
 
 ---
 
@@ -168,4 +168,4 @@ SRL continue de se produire en utilisant des machines et des robots et a partici
 
 ### Conclusion
 
-Survival Research Laboratories est un groupe innovant qui questionne la relation entre les machines et les humains, la technologie et l’art, l’ordre et le chaos. Leur travail propose une critique pointue du rôle et de l’influence de la technologie dans la société moderne à travers des chocs visuels et auditifs. Les activités du SRL continueront d'inspirer de nombreux artistes et ingénieurs.
+Survival Research Laboratories est un groupe innovant qui questionne la relation entre les machines et les humains, la technologie et l'art, l'ordre et le chaos. Leur travail propose une critique pointue du rôle et de l’influence de la technologie dans la société moderne à travers des chocs visuels et auditifs. Les activités du SRL continueront d'inspirer de nombreux artistes et ingénieurs.

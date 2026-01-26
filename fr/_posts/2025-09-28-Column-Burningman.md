@@ -90,7 +90,7 @@ Depuis les années 2000, les « véhicules mutants » géants et les sculpture
 ### Livres connexes
 
 
-| Année | Magazines/Média | Notes/Relation | Lien |
+| Année | Magazines/Médias | Notes/Relation | Lien |
 | ---- : | -------------------------------- | -------------------- | ----------------- |
 |    書籍 | *Burning Man: Art on Fire*（写真集） | 祭りのアートを網羅する定番書  | [Amazon](https://amzn.to/3VFwNge)  |
 |    書籍 | *Once Upon a Time in the Dust*（Roxane Jessi） | グローバルなBurning文化に迫る紀行      |  [Amazon](https://amzn.to/4nv3MQw)              |
@@ -179,7 +179,7 @@ Les valeurs qui « trouvent de la valeur dans l'expérience elle-même » ont im
 
 #### 1997 : Fécondité
 
-1997 est l'année où le symbolisme de la nature, de la vie et de la renaissance de Burning Man est devenu pour la première fois le thème central.
+1997 a été l'année où le symbolisme de la nature, de la vie et de la renaissance de Burning Man est devenu pour la première fois le thème central.
 
 Le prototype de la « célébration de la vie et de la créativité » dont ont hérité les thèmes ultérieurs (Voûte céleste 2004, Fertilité 2.0 2012, etc.).
 
@@ -187,7 +187,7 @@ Le prototype de la « célébration de la vie et de la créativité » dont ont 
 
 ---
 
-#### 1998 : Entité nébuleuse
+#### 1998 : Entité nébuleuse
 
 Un thème qui explore l'existence mystérieuse et l'ambiguïté de l'univers et de la conscience. Les œuvres interactives utilisant la lévitation ou la lumière participative se sont démarquées.
 
@@ -361,7 +361,7 @@ A l’origine, le thème était le concept de multivers. Cependant, en raison du
 
 ---
 
-#### 2021 : Réflexion
+#### 2021 : Réflexion
 
 Une approche fusion hybride/virtuel/physique avec pour thème « réflexion et réflexion » dans un contexte de restrictions sur les événements sur place.
 
@@ -393,7 +393,7 @@ Le thème est inconnu et imprévisible, et une composition stimulante est dével
 
 #### 2025 : Demain aujourd'hui
 
-Se concentrer sur le futur proche, les inventions futures et les plans sociaux. Un art qui incarne "Demain à aujourd'hui", un prototypage et un design qui induit un espace de dialogue futuriste.
+Se concentrer sur le futur proche, les inventions futures et les concepts sociaux. Un art qui incarne "Demain à aujourd'hui", un prototypage et un design qui induit un espace de dialogue futuriste.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5yrIwJo-RZ0?si=PF7ug6sEAIFeT2i1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -409,7 +409,7 @@ De plus, le thème n'est pas nécessairement obligatoirement appliqué à tous l
 
 ---
 
-### Conclusion : expérience de ville du futur dans le désert
+### Conclusion : Expérience de ville du futur dans le désert
 
 Burning Man est une ville culturelle expérimentale moderne qui a évolué du thème Inferno (1995) → Démarchandification (1996) → Fertilité (1997) → Vault of Heaven (2004) → 2010-2025, fusionnant spiritualité, art participatif, décommercialisation et expression de la vie.
 

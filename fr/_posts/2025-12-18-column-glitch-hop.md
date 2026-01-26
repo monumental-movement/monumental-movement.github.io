@@ -116,7 +116,7 @@ Dans la production de Glitch Hop, l’automatisation constitue la structure mêm
 
 ## 6. Matériel utilisé et environnement de production
 
-L'environnement de production principal est un DAW, et un environnement capable d'intégrer fortement l'édition audio et le contrôle MIDI est préférable. Il est important de pouvoir effectuer un montage non destructif clip par clip.
+L'environnement de production principal est un DAW, et celui qui peut fortement intégrer l'édition audio et le contrôle MIDI est préféré. Il est important de pouvoir effectuer un montage non destructif clip par clip.
 
 La distorsion, le traitement granulaire, le compresseur multibande et le limiteur en sont au cœur. En particulier, le traitement multibande est essentiel pour obtenir à la fois un contrôle des basses fréquences et une précision des hautes fréquences.
 
@@ -163,7 +163,7 @@ Dans le Glitch Hop typique, un coup de pied fort est souvent placé sur le premi
 
 La caisse claire est souvent placée sur les deuxième et quatrième temps, mais les parties d'attaque et de queue peuvent être composées d'échantillons séparés. Cela permet de contrôler indépendamment la sensation de frappe et de réverbération, rendant le groove à la fois stable et instable.
 
-Le charleston n'est pas qu'un simple tick, il fonctionne comme un dispositif de réglage de la densité rythmique. En créant une section dans laquelle le nombre de notes est intentionnellement réduit au sein d'une mesure, et immédiatement après cette section, la musique est subdivisée en morceaux extrêmes, la notion du temps de l'auditeur est perturbée.
+Le charleston n'est pas qu'un simple tick, il fonctionne comme un dispositif de réglage de la densité rythmique. En créant une section dans laquelle le nombre de notes est intentionnellement réduit dans une mesure, et immédiatement après cette section, la musique est subdivisée en morceaux extrêmes, la notion du temps de l'auditeur est perturbée.
 
 <div class="mermaid">
 flowchart LR

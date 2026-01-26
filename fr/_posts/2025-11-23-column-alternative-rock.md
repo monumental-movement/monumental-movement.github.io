@@ -54,7 +54,7 @@ color: #fff;
 
 Le Murmur de R.E.M. de 1983 est particulièrement important en tant que point de départ d'une approche alternative. Tout en s'éloignant du commercialisme, ils présentent des mélodies influencées par le folk rock et des paroles ambiguës, et gagnent un large public, notamment dans les villes universitaires américaines. Le succès de R.E.M. a été le moment qui a prouvé qu'« un nouveau type de rock, différent du mainstream, mais disposant d'un public fiable » pouvait être créé.
 
-À peu près à la même époque, des groupes tels que The Replacements, Hüsker Dü, The Feelies et Sonic Youth émergent, mélangeant avec souplesse bruit, mélodie et expérimentation. En particulier, l'exploration par Sonic Youth de l'accordage de la guitare et de la structure du bruit a eu une influence majeure sur la musique alternative ultérieure.
+À peu près à la même époque, des groupes tels que The Replacements, Hüsker Dü, The Feelies et Sonic Youth ont émergé, mélangeant avec souplesse bruit, mélodie et expérimentation. En particulier, l'exploration par Sonic Youth de l'accordage de la guitare et de la structure du bruit a eu une influence majeure sur la musique alternative ultérieure.
 
 Au Royaume-Uni, The Smiths a fait ses débuts en 1984. Combinant la délicatesse de la guitar pop avec des thèmes sociaux, il a déterminé les valeurs du rock indépendant ultérieur.
 
@@ -90,7 +90,7 @@ caractéristique du grunge
 ・Éthique punk
 Cependant, il présentait un ensemble de valeurs différent du rock commercial et devint un mouvement mondial avec des diffusions massives sur MTV.
 
-À peu près à la même époque, des groupes de Seattle tels que Pearl Jam, Soundgarden et Alice in Chains connurent le succès les uns après les autres et furent reconnus dans le monde entier comme « représentants du grunge/alternatif ».
+À la même époque, des groupes de Seattle tels que Pearl Jam, Soundgarden et Alice in Chains connurent le succès les uns après les autres et furent reconnus dans le monde entier comme « représentants du grunge/alternatif ».
 
 Cependant, il n’est pas exact de parler d’alternative dans son ensemble en termes uniquement de grunge. À peu près à la même époque, des groupes aux styles variés tels que Pavement, Smashing Pumpkins, Breeders et Belly sont apparus, et le domaine de la musique alternative s'est rapidement développé.
 
@@ -118,7 +118,7 @@ Ce mouvement se connecte à des groupes lyriques et expérimentaux comme Radiohe
 La montée de Tortue, Mogwai, Godspeed You ! Black Emperor et d’autres ont repoussé les limites du rock.
 
 L’alternative n’est plus un style unique ;
-**"Un ​​terme général désignant la créativité qui n'est pas récupérée par le mercantilisme"**
+**"Un ​​terme général désignant la créativité qui n'est pas capturé par le commercialisme"**
 Il est désormais compris comme.
 
 ---
@@ -133,7 +133,7 @@ Dans le même temps, des groupes tels que Arcade Fire, Modest Mouse, The Nationa
 
 ---
 
-## **Chapitre 6 : Alternatives à l'ère du streaming (2010-2020)**
+## **Chapitre 6 : Alternatives à l'ère du streaming (2010-2020)**
 
 Depuis les années 2010, les frontières des genres rock se sont estompées en raison de la diffusion du streaming, et l’alternative a fini par avoir des significations plus diverses.
 
@@ -178,7 +178,7 @@ flowchart TD
 
 # **Chapitre 7 : Localisation actuelle et avenir des alternatives**
 
-Dans les années 2020, le mot « alternative » est de plus en plus utilisé pour désigner un « lieu » ou une « communauté » plutôt qu'un genre.
+Dans les années 2020, le mot « alternatif » est de plus en plus utilisé pour désigner un « lieu » ou une « communauté » plutôt qu'un genre.
 Avec une distribution indépendante centrée sur Bandcamp, l'expansion de Bedroom Pop et la diffusion d'environnements de production multi-genres, l'alternative continue d'être un concept qui symbolise « l'esprit de production indépendante ».
 
 Bien qu'il soit peu probable qu'un mouvement aussi important que celui du passé se produise, on peut dire que « l'esprit d'indépendance » s'est enraciné plus largement.

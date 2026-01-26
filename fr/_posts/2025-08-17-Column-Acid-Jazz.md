@@ -18,7 +18,7 @@ title: '[Chronique] Acid Jazz : Une fusion de sons créée par la culture club e
 ## Qu’est-ce que l’Acid Jazz ?
 
 
-Texte : mmr｜Thème : Contexte social et géopolitique derrière l’Acid Jazz
+Texte : mmr｜Thème : Contexte social et géopolitique derrière Acid Jazz
 
 
 
@@ -35,7 +35,7 @@ Dans la scène des clubs des années 1980, il y avait un mouvement croissant pou
 
 <hr>
 
-### 音楽的特徴
+### Fonctionnalités musicales
 
 L'acid jazz a tendance à faire référence à un « sentiment hybride » plutôt qu'à un genre unique. Les éléments caractéristiques comprennent :
 

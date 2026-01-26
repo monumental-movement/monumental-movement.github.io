@@ -10,11 +10,11 @@ tags:
 - Deep House
 - House
 - Techno
-title: Todh Teri – Live at Indernet 2020 / Cologne
+title: Todh Teri – Live à Indernet 2020 / Cologne
 ---
 
 
-バレアリックの新星でありボリウッド・ディスコ・エディットの手練、Deep in India など名作をリリースし続けるミステリアスプロデューサーTodh TeriがMasala Movement主宰のイベント「INDERNET 2020」で披露したDJ音源。
+Une source sonore DJ interprétée par Todh Teri, étoile montante des Baléares et mystérieux producteur qui continue de sortir des chefs-d'œuvre comme le montage disco de Bollywood, Deep in India, lors de l'événement "INDERNET 2020" organisé par Masala Movement.
 
 #### Liste des chansons
 ```md
@@ -22,6 +22,6 @@ title: Todh Teri – Live at Indernet 2020 / Cologne
 ```
 DJ Mix – Todh Teri
 
-Jet Set Novelty CD 2020 Summer
+Jet Set Nouveauté CD 2020 Été
 
 [メルカリで購入](https://jp.mercari.com/item/m46631373981?afid=6142608987){: .button1}

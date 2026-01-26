@@ -25,7 +25,7 @@ title: '[Chronique] La techno allemande et la pandémie dans les années 2020 :
 ## Pandémie : Une véritable histoire de tout, du confinement à la réouverture en passant par la redéfinition de la musique
 
 
-Texte : mmr｜Thème : Comment la techno allemande a changé dans les années 2020, qu'est-ce qui a été perdu et qu'a-t-il gagné ?
+Texte : mmr | Thème : Comment la techno allemande a changé dans les années 2020, ce qui a été perdu et ce qui a été gagné
 
 
 La techno allemande des années 2020 a connu un changement sismique dramatique centré sur la **pandémie de COVID-19 (2020-2022)**.
@@ -97,7 +97,7 @@ Les statistiques et les médias confirment que des dizaines de milliers de trava
 
 ---
 
-# Chapitre 3 : L’ère du ligne et « United We Stream » (2020-2021)
+# Chapitre 3 : L'ère du ligne et « United We Stream » (2020-2021)
 La pandémie a poussé la culture des clubs en ligne.
 
 ## ● Lancement de « United We Stream »
@@ -286,7 +286,7 @@ timeline
 On ne sait pas si cela va continuer, mais cela pourrait continuer en raison des facteurs suivants :
 
 - La présentation visuelle sur SNS se marie bien avec la musique à grande vitesse
-- Les jeunes esthétiques préfèrent la « haute densité d'informations »
+- Les esthétiques plus jeunes préfèrent une « haute densité d'informations »
 - Le marché international de la hard techno est en expansion
 
 ## ● 2) Le club sera protégé en tant que ressource culturelle de la ville.

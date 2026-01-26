@@ -47,7 +47,7 @@ color: #fff;
 ## table des matières
 1. [Chapitre 1 : Rythme ancien et spiritualité](#chapitre1)
 2. [Chapitre 2 : Yoga moderne et musicothérapie](#chapitre2)
-3. [Chapitre 3 : Yoga et musique modernes](#chapitre3)
+3. [Chapitre 3 : Yoga moderne et musique](#chapitre3)
 4. [Chapitre 4 : Perspective scientifique](#chapitre4)
 5. [Chapitre 5 : Aspects culturels et sociaux](#chapitre5)
 6. [Chapitre 6 : Guide pratique](#chapitre6)
@@ -63,7 +63,7 @@ Dans l’Inde ancienne, le yoga et la musique étaient étroitement liés et occ
 
 ### Musique classique indienne et yoga
 
-La musique classique indienne, composée de ragas (systèmes de gammes) et de tala (systèmes de rythmes), est efficace pour éveiller les sens physiques et induire un état de concentration lorsqu'elle est combinée avec la méditation et les techniques de respiration du yoga. Les ragas étaient joués le matin pour favoriser la vitalité, tandis que les ragas relaxants étaient utilisés pour la méditation du soir.
+La musique classique indienne, composée de ragas (systèmes de gammes) et de tala (systèmes rythmiques), est efficace pour éveiller les sens physiques et induire un état de concentration lorsqu'elle est combinée avec la méditation et les techniques de respiration du yoga. Les ragas étaient joués le matin pour favoriser la vitalité, tandis que les ragas relaxants étaient utilisés pour la méditation du soir.
 
 ### Harmonie du mantra et de la respiration
 
@@ -89,17 +89,17 @@ Au début du XXe siècle, la musicothérapie a commencé à attirer l’attentio
 
 ### Naissance de la musique new age
 
-Depuis les années 1970, la musique new age à des fins de méditation et de guérison est apparue. Des chansons utilisant des synthétiseurs et des sons naturels ont été incorporées aux asanas du yoga et à la méditation, apportant ainsi une profondeur spirituelle. La combinaison du yoga et de la musique a été établie comme une approche intégrée visant à promouvoir la santé, la spiritualité et la croissance personnelle.
+Depuis les années 1970, la musique new age à des fins de méditation et de guérison a émergé. Des chansons utilisant des synthétiseurs et des sons naturels ont été incorporées aux asanas du yoga et à la méditation, apportant ainsi une profondeur spirituelle. La combinaison du yoga et de la musique a été établie comme une approche intégrée qui favorise la santé, la spiritualité et la croissance personnelle.
 
 ---
 
 ## Chapitre 3 : Yoga moderne et musique {#chapter3}
 
-Au 21e siècle, le yoga est devenu très populaire dans le monde entier. Il est intégré dans la vie quotidienne via des studios urbains et des services en ligne. La musique soutient le rythme de la respiration et du mouvement et favorise la concentration et la relaxation.
+Au 21ème siècle, le yoga est devenu très populaire dans le monde entier. Il est intégré dans la vie quotidienne via des studios urbains et des services en ligne. La musique soutient le rythme de la respiration et du mouvement et favorise la concentration et la relaxation.
 
 ### Utilisation de la musique de fond en studio
 
-Dans les studios de yoga modernes, le choix de la musique d’ambiance influence l’ambiance du cours. Des sons ambiants doux et naturels permettent aux débutants de se concentrer plus facilement sur leur respiration et de soulager les tensions psychologiques. Pour les flux dynamiques tels que le vinyasa yoga, une musique rythmée avec un tempo et des chansons avec des basses fortes conviennent.
+Dans les studios de yoga modernes, le choix de la musique d’ambiance influence l’ambiance du cours. Des sons ambiants doux et naturels aident les débutants à se concentrer sur leur respiration et à soulager les tensions psychologiques. Pour les flux dynamiques tels que le vinyasa yoga, une musique rythmée avec un tempo et des chansons avec des basses fortes conviennent.
 
 ### Fusion avec EDM, Lo-Fi, Ambient
 
@@ -146,7 +146,7 @@ flowchart TD
 
 ## Chapitre 5 : Aspects culturels et sociaux {#chapter5}
 
-Le lien entre le yoga et la musique n’est pas seulement pertinent pour la santé personnelle et la spiritualité, mais a également des implications culturelles et sociales. Des festivals et événements de musique de yoga sont organisés partout dans le monde, contribuant au renforcement de la communauté et aux échanges culturels entre les participants. Grâce aux réseaux sociaux et aux services de distribution, l'expérience de partage de musique de yoga s'étend au-delà de la distance.
+Le lien entre le yoga et la musique n’est pas seulement pertinent pour la santé personnelle et la spiritualité, mais a également des implications culturelles et sociales. Des festivals et événements de musique de yoga sont organisés partout dans le monde, contribuant au renforcement de la communauté et aux échanges culturels entre les participants. Grâce aux réseaux sociaux et aux services de distribution, l’expérience du partage de musique de yoga s’étend au-delà de la distance.
 
 
 ---

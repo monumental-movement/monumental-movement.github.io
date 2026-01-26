@@ -48,7 +48,7 @@ Les racines de D&B se situent dans le genre jungle. C'était une musique rythmé
 
 **Période de création de Drum & Bass**
 
-A partir de cette époque, le nom « jungle » se change progressivement en « D&B ». Cela signifie que le son est plus raffiné et que les techniques de basse et de production se sont améliorées. Sa fonctionnalité augmente à mesure que la musique de club augmente et que la scène mûrit.
+A partir de cette époque, le nom « jungle » se change progressivement en « D&B ». Cela signifie un son plus raffiné, des basses et des techniques de production améliorées. Sa fonctionnalité augmente à mesure que la musique de club augmente et que la scène mûrit.
 
 #### Artistes représentatifs :
 
@@ -135,7 +135,7 @@ Un sous-genre influencé par la mi-temps et le dubstep. Excision, liaison descen
 
 **Hospital Records (Tony Colman alias London Elektricity)** : La maison du funk liquide.
 
-**Ram Records (Andy C)** : leader du grand public.
+**Ram Records (Andy C)** : leader du marché grand public.
 
 **Shogun Audio (Friction)** : prend en charge un large éventail de styles.
 
@@ -176,7 +176,7 @@ Actuellement, D&B règne comme la base de la bass music dans le monde. Les scèn
 
 ** ● Artistes contemporains en vedette **
 
-**Noisia (dissous)** : technologie de production au niveau de Dieu.
+**Noisia (dissous)** : compétences de production au niveau de Dieu.
 
 **Alix Perez** : Une alchimiste sonique qui peut tout faire, du dub au demi-pas.
 
@@ -187,6 +187,6 @@ Actuellement, D&B règne comme la base de la bass music dans le monde. Les scèn
 
 ### Drum & Bass est le « battement de cœur de la ville »
 
-La Drum & Bass est bien plus que de la simple musique de club. C’est le rythme de l’anxiété, de l’espoir, de la vitesse, de la tension et de la résistance des habitants de la ville.
+La Drum & Bass est bien plus que de la musique de club. C’est le rythme de l’anxiété, de l’espoir, de la vitesse, de la tension et de la résistance des habitants de la ville.
 
 Cette musique connecte, bouge et fait réfléchir dans une société divisée. Une fois que vous tomberez amoureux du rythme, D&B commencera à couler en vous.

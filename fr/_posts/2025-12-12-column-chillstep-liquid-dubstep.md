@@ -144,7 +144,7 @@ MitiS a une formation en piano classique et apporte une émotion unique au Chill
 * Mélange transparent et incassable
 * Sentiment de montée semblable à une transe
 * Coupe vocale soigneusement traitée
-* Superposé avec un synthétiseur staccato
+* Superposé avec un synthé staccato
 
 Le travail de MitiS chevauche doucement la frontière entre le Chillstep et le Melodic Dubstep, présentant une structure plus dramatique.
 
@@ -178,7 +178,7 @@ L'expérience visuelle Chillstep symbolise les caractéristiques de genre de l'�
 
 Ici, nous organiserons la création sonore et le mixage étape par étape du point de vue d'un producteur.
 
-### 5-1 Construction d'idées
+### 5-1 Création d'idées
 
 * Silence tard dans la nuit
 * Motifs naturels tels que l'eau, le brouillard et les étoiles
@@ -219,7 +219,7 @@ L'accent est mis sur la « durabilité » et la « résonance persistante »
 
 * Centre d'onde sinusoïdale
 * Mélangez des vagues triangulaires pour ajouter de la chaleur si vous le souhaitez
-*LFO est doux
+* Le LFO est doux
 * La chaîne latérale est fine
 * La version est courte et serrée
 
@@ -286,7 +286,7 @@ Chillstep, qui est une combinaison de « musique + visuels + histoire », est su
 
 ---
 
-## 9. まとめ
+## 9. Résumé
 
 Chillstep / Liquid Dubstep est une musique qui supprime les aspects agressifs du dubstep et le restructure autour de l'émotion, du décor et de la tranquillité. Des artistes tels que Blackmill et MitiS ont défini le genre par leur lyrisme et leur traitement sonore soigné, créant de nombreux adeptes.
 

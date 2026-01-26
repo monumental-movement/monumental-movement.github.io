@@ -65,7 +65,7 @@ Pour lui, un document est « l’acte de conserver une trace de la vie de quelqu
 Flâner dans les marchés et les brocantes, dénicher des dossiers poussiéreux. Il n'y a pas que des sons mais aussi des **traces du temps** gravées là-bas.
 
 Harvey dit : « Plus un disque comporte d'empreintes digitales humaines, plus le son est vivant. »
-Son set comprend un mélange de disco italo inconnu, de rock des années 70, de synth boogie des années 80 et d'AOR hawaïen.
+Son set comprend un mélange de disco italo inconnu, de rock des années 70, de boogie synthétisé des années 80 et même d'AOR hawaïen.
 La sélection des chansons n'est pas aléatoire, mais basée sur une intuition de lecture du « flux d'air du son ».
 
 Son sac de DJ est comme un carnet de voyage. Chaque disque contient des souvenirs d'une nuit.
@@ -213,7 +213,7 @@ pie title DJ Harvey's Vinyl Box Composition
 **Explication**:
 Harvey's record box est une archive organique fondée sur le mélange des genres.
 Ce qui est remarquable, c'est que « Rock » et « House » sont placés à égalité.
-Cela symbolise le fait qu’il est un DJ qui se connecte toujours aux ambiances, pas aux genres.
+Cela symbolise le fait qu’il est un DJ qui connecte toujours par ambiance et non par genre.
 La machine à sous "Oddities" est l'arme secrète d'Harvey. S'active pendant les réglages après les heures d'ouverture et au lever du soleil.
 
 ---

@@ -11,13 +11,13 @@ tags:
 - Detroit Techno
 - Tribal
 - 90s
-title: Jeff Mills – Very EP
+title: Jeff Mills – Très EP
 ---
 
 
-このEPは、デトロイト・アンダーグラウンド・ミュージックの核心そのもので、最高のウォームアップ・テクノレコードの一つです。
+Cet EP est le cœur même de la musique underground de Détroit et l'un des meilleurs disques techno d'échauffement.
 
-暗い雰囲気と実験的な要素が織り成す、独特な世界観は、まさにジェフ・ミルズならではと言えるでしょう。
+La vision du monde unique qui mêle une atmosphère sombre et des éléments expérimentaux peut être considérée comme unique à Jeff Mills.
 
 #### Liste des chansons
 ```md

@@ -19,7 +19,7 @@ title: '[Chronique] Drone modulaire / Drones expérimentaux'
 
 ## Introduction : Espace acoustique expérimental construit par des sons soutenus
 
-文：mmr｜テーマ：モジュラードローンを音響技術史・楽器史・作曲思想の交差点として位置づけ、その成立と展開を体系的に整理
+Texte : mmr｜Thème : Positionner les drones modulaires comme une intersection de l'histoire de la technologie acoustique, de l'histoire des instruments de musique et de la pensée compositionnelle, et organiser systématiquement leur formation et leur développement.
 
 
 Modular Drone/Experimental Drones (ci-après dénommés « drones modulaires ») est une tendance d'expérimentations acoustiques centrée sur les sons soutenus, et s'est développée en étroite relation avec les caractéristiques structurelles des synthétiseurs modulaires. Un continuum sonore qui ne suppose pas de mélodie ou de rythme crée du temps en modifiant minutieusement des éléments tels que la hauteur, le timbre, l'intensité, la phase et la disposition spatiale. Cette musique met l'accent sur « l'existence » plutôt que sur la « progression », et les changements apparaissent comme des transitions d'état plutôt que comme des événements.
@@ -194,7 +194,7 @@ En ce sens, un synthétiseur modulaire est à la fois un instrument de musique e
 
 ### Equilibre entre autonomie et intervention
 
-Les correctifs entièrement autonomes présentent des changements imprévisibles au fil du temps. D’un autre côté, en ajoutant une intervention humaine, la directivité du son peut être ajustée. L’équilibre entre les deux est un point de décision important dans la production de drones modulaires.
+Les correctifs entièrement autonomes présentent des changements imprévisibles au fil du temps. D’un autre côté, en ajoutant une intervention humaine, la directivité du son peut être ajustée. L’équilibre entre ces deux éléments est un point de décision important dans la production de drones modulaires.
 
 > "L'intervention se fait comme un dialogue avec le système, pas comme un contrôle"
 

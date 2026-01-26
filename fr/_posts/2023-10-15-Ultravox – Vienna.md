@@ -9,15 +9,15 @@ permalink: /fr/ultravox-vienna/
 tags:
 - New-Wave
 - Synth-Pop
-title: Ultravox – Vienna
+title: Ultravox – Vienne
 ---
 
 
-Ultravox (ウルトラヴォックス) は、UKのポストパンク・ロック・バンド。グループの創設者は、John Foxx（ジョン・フォックス）だがのちに脱退。1979年にはMidge Ure（ミッジ・ユーロ）が加入。
+Ultravox est un groupe de rock post-punk britannique. Le fondateur du groupe était John Foxx, qui a ensuite quitté le groupe. Midge Ure a rejoint le groupe en 1979.
 
-歴代のプロデューサーは、ブライアン・イーノ、スティーヴ・リリーホワイト、コニー・プランク。
+Les producteurs précédents incluent Brian Eno, Steve Lillywhite et Connie Plank.
 
-1980年にリリースした「Vienna（ヴィエナ）」は、シンセポップやニューウェイヴの要素を取り入れた4枚目のスタジオアルバム。このアルバムは、世界的なヒットとなり、Ultravoxのシグネチャーソング＆バンドの代表作。
+"Vienna", sorti en 1980, est leur quatrième album studio, incorporant des éléments de synth pop et de new wave. Cet album est devenu un succès mondial et présentait les chansons emblématiques d'Ultravox et le chef-d'œuvre du groupe.
 
 #### Liste des chansons
 ```md

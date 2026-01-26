@@ -50,7 +50,7 @@ Les clubs et les fêtes de quartier étaient bien plus que de simples salles de 
 À l'époque, le hip-hop était popularisé grâce à des programmes de radio (par exemple « The Show » de WBLS) et les cassettes démo étaient un moyen important de découvrir des artistes.
 DJ Kool Herc et Afrika Bambaataa ont diffusé leurs mixtapes à la radio locale et lors de soirées, contribuant ainsi à faire passer le message.
 
-### Chefs-d'œuvre représentatifs
+### Chef-d'œuvre représentatif
 
 [The Sugarhill Gang『Rapper's Delight』(1979)](https://amzn.to/4ngQIOx)
 
@@ -73,7 +73,7 @@ Un style G-funk unique a été affiné dans les clubs et les soirées roulantes 
 ### Rôle des cassettes de démonstration et de la radio
 La nouvelle chanson a été diffusée sur les stations de radio locales (KDAY, KMEL) et les jeunes qui ont écouté la démo l'ont diffusée de bouche à oreille. Les DJ des radios locales ont notamment fait office d’arbitres de la scène.
 
-### Chefs-d'œuvre représentatifs
+### Chef-d'œuvre représentatif
 
 [Run-D.M.C.『Raising Hell』(1986)](https://amzn.to/3IBasNE)
 
@@ -101,7 +101,7 @@ OutKast et UGK ont émergé et ont établi leur propre son unique. La distributi
 En raison des problèmes de droits d'auteur et de la hausse des coûts, un nombre croissant d'artistes se tournent vers la production de sources sonores originales et les performances live.
 « The Chronic » (1992) de Dr. Dre utilise habilement l'échantillonnage, tandis que le G-funk utilise beaucoup de synthés et de lignes de basse originales.
 
-### Chefs-d'œuvre représentatifs
+### Chef-d'œuvre représentatif
 
 **East Coast**: [The Notorious B.I.G.『Ready to Die』(1994)](https://amzn.to/3K94fcv)
 
@@ -121,7 +121,7 @@ Déséchantillonnage et changements d’équipement
 Avec la diffusion des DAW (Pro Tools, Ableton Live), il est désormais possible de créer des sources sonores uniques à l'aide de synthés et de plug-ins sans recourir à l'échantillonnage.
 Cela augmente la proportion de rythmes originaux.
 
-### Chefs-d'œuvre représentatifs
+### Chef-d'œuvre représentatif
 
 [Jay-Z『The Blueprint』(2001)](https://amzn.to/4pC13WW)
 
@@ -143,7 +143,7 @@ DAW (Ableton Live, FL Studio)
 
 Extension de l'utilisation des plugins et des packs d'échantillons
 
-### Chefs-d'œuvre représentatifs
+### Chef-d'œuvre représentatif
 
 [Kendrick Lamar『good kid, m.A.A.d city』(2012)](https://amzn.to/4pCB4yv)
 

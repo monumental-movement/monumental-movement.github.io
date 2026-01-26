@@ -85,7 +85,7 @@ Le reggae/dub est associé à la culture du sound system et est responsable de l
 
 ---
 
-La discothèque est un refuge pour la communauté LGBTQ+/Black/Latinx, obtenant le droit de danser à la frontière entre le légal et l'illégal, tout en ayant aussi ses côtés sombres comme la sécurité des boîtes de nuit et la discrimination à l'admission.
+La discothèque est un refuge pour la communauté LGBTQ+/Black/Latinx, qui obtient le droit de danser à la frontière entre le légal et l'illégal, même si elle a ses côtés sombres comme la sécurité des boîtes de nuit et la discrimination à l'admission.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4KUL9-eNXzQ?si=0RcRn_F0ErMntOI7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -185,7 +185,7 @@ Les Leftfield/Queer Clubs reconstruisent des espaces nocturnes sécurisés et é
 
 ### Années 2020 : Espaces irréguliers après la pandémie : Micro-rave et communautés locales
 
-Pendant la période de confinement, des DJ/streaming en extérieur de style guérilla se sont produits partout dans le monde. Des tentatives ont été faites pour « réoccuper les espaces publics » tels que les parcs, les toits et les rues, et les négociations avec la police et les habitants sont entrées dans une nouvelle étape.
+Pendant la période de confinement, des DJ/streaming en plein air de style guérilla se sont produits partout dans le monde. Des tentatives ont été faites pour « réoccuper les espaces publics » tels que les parcs, les toits et les rues, et les négociations avec la police et les habitants sont entrées dans une nouvelle étape.
 
 L'hybridation des mouvements sociaux et des événements musicaux (soirées de collecte de fonds, cuisines communautaires d'entraide, etc.) progresse et l'accent est mis sur le soin et la recherche de consensus plutôt que sur la dichotomie « illégal/légal ».
 
@@ -198,7 +198,7 @@ L'hybridation des mouvements sociaux et des événements musicaux (soirées de c
 
 **Grande-Bretagne/Europe** : nature collective étroitement liée à la classe sociale, à l'immigration et à la culture du football. La culture rave a tendance à entrer en conflit avec l’urbanisme et les systèmes fonciers privés.
 
-**Japon** : depuis l'acceptation précoce du rockabilly/punk jusqu'à la « boîte underground » du hardcore et l'aube des clubs, les conflits avec les réglementations administratives (affaires de fin de soirée/liées au divertissement) sont fréquents. L'importation et la localisation de sons ainsi que l'autogestion des lieux se sont développées.
+**Japon** : Depuis l'acceptation précoce du rockabilly/punk jusqu'à la « boîte underground » du hardcore et l'aube des clubs, les conflits avec les réglementations administratives (affaires de fin de soirée/liées au divertissement) sont monnaie courante. L'importation et la localisation de sons ainsi que l'autogestion des lieux se sont développées.
 
 
 <hr>

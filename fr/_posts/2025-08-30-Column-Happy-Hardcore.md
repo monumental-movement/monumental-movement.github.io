@@ -19,7 +19,7 @@ title: '[Chronique] Happy Hardcore et culture japonaise : la rencontre du High-S
 
 Texte : mmr｜Thème : La relation entre le Happy Hardcore et la culture japonaise
 
-Happy Hardcore est né de la scène rave britannique au début des années 1990.
+Happy Hardcore a émergé de la scène rave britannique au début des années 1990.
 La musique, qui combine des mélodies pop et émotionnelles avec des rythmes explosifs et rapides d'environ 170 BPM, a pris d'assaut l'Europe, puis s'est connectée de manière inattendue à la culture japonaise, réalisant un développement unique.
 L'affinité entre ce son « joyeux » et la « culture japonaise » n'est pas seulement une importation de genres musicaux, mais un nouvel hybride culturel.
 
@@ -39,7 +39,7 @@ Comme son nom l’indique, ce genre est une combinaison de « Happy » et de « 
 
 #### Affinité avec la musique d'anime/de jeu
 
-Happy Hardcore met l'accent sur les mélodies vives et entraînantes, ce qui lui permet de se marier bien avec le goût des chansons d'anime et de la musique de jeu.
+Happy Hardcore met l'accent sur les mélodies vives et entraînantes, ce qui se marie bien avec le goût des chansons d'anime et de la musique de jeu.
 
 En particulier, l'utilisation de matériel vocal provenant de l'anime bishoujo et des chiptunes de style Famicom/SNES sont populaires auprès des producteurs étrangers.
 

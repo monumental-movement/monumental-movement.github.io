@@ -10,47 +10,49 @@ tags:
 - Euro
 - Euro Beat
 - Euro House
-title: 【コラム】 国境で変わる“ユーロの音”──イタリア、ドイツ、スウェーデン：三大制作国が生んだユーロ・ミュージックの違い
+title: '[Chronique] Les « sons européens » changent en fonction des frontières nationales
+  : Italie, Allemagne et Suède : différences dans la musique européenne produite par
+  les trois principaux pays producteurs'
 ---
 
 
 
-## “ユーロの音” なぜ国別で音が違うのか？
+## « Le son de l'euro » Pourquoi les sons diffèrent-ils selon les pays ?
 
-文：mmr｜テーマ：ジャンル：音楽コラム｜テーマ：制作国別90年代ユーロ音楽の比較分析
+Texte : mmr | Thème : Genre : Chronique musicale | Thème : Analyse comparative de la musique européenne des années 90 par pays de production
 
 
-「ユーロ・ミュージック」と一括りに語られがちだが、実際には制作された国によって“音の質感”や“美意識”がまったく異なる。  
-90年代、このジャンルの主戦場となったのは主に **イタリア、ドイツ、スウェーデン**。  
-彼らはそれぞれの文化、産業、技術背景をもとに、独自の「ユーロの音」を世界へ輸出していた。
+Bien qu'on la qualifie souvent de « musique européenne », en réalité, la « texture sonore » et le « sens esthétique » diffèrent selon le pays dans lequel elle a été produite.
+Dans les années 1990, les principaux champs de bataille pour ce genre étaient l'**Italie, l'Allemagne et la Suède**.
+Sur la base de leurs origines culturelles, industrielles et technologiques respectives, ils exportaient leur propre « son de l'euro » dans le monde.
 
 ---
 
-### イタリア産ユーロ：「スピード」と「シンセの艶」
-**概要**  
-- **拠点**：ミラノ、ヴェローナ、パルマなど  
-- **主なレーベル**：Time Records、A-Beat-C、Discomagic  
-- **特徴**：高速BPM、派手なシンセ、分厚いユニゾンメロディ、感情過多なボーカル  
+### Euro italien : « Speed ​​» et « Synth Shine »
+**aperçu**
+- **Lieux** : Milan, Vérone, Parme, etc.
+- **Principaux labels** : Time Records, A-Beat-C, Discomagic
+- **Caractéristiques** : BPM rapide, synthétiseur sophistiqué, mélodie épaisse à l'unisson, voix émotionnelle
 
-**音の特徴**  
-- BPMは140～160と非常に高速  
-- 音数が多く、シンセは派手でキラキラ  
-- リズムよりメロディを最優先  
-- ドラマチックでエモーショナルな展開  
+**Caractéristiques sonores**
+- Le BPM est très rapide à 140-160
+- Il y a beaucoup de sons, et les synthés sont flashy et pétillants.
+- Privilégier la mélodie au rythme
+- Développement dramatique et émotionnel
 
-**代表アーティスト／ユニット**  
-- Dave Rodgers  
-- Domino  
-- Alexia  
-- Corona  
-- Eiffel 65  
+**Artiste/unité représentatif**
+-Dave Rodgers
+- Dominos
+-Alexia
+- Couronne
+-Eiffel 65
 
-**文化的背景**  
-- Italo Disco〜ハイエナジーの継承者  
-- 映画音楽大国イタリアらしく、構成やスケール感が演劇的  
-- 国内需要は限定的、国外（特に日本）向け輸出志向  
+**Contexte culturel**
+- Italo Disco ~ Successeur de High Energy
+- La structure et l'échelle sont théâtrales, typiques de l'Italie, pays majeur de la musique de film.
+- La demande intérieure est limitée, tournée vers l'exportation vers les pays étrangers (notamment le Japon)
 
-**代表ディスコグラフィ**  
+**Discographie représentative**
 
 <style type="text/css">
 
@@ -66,105 +68,105 @@ color: #fff;
 </style>
 
 
-| アーティスト | アルバム/シングル | 特徴・ヒット曲 |
+| Artiste | Album/Single | Caractéristiques/Chansons à succès |
 |---|---|---|
-| Dave Rodgers | *Eurobeat Compilation Vol.1* (1991) | 高速ユーロビートの代表作。代表曲「Deja Vu」など |
-| Domino | *S.A.X.* (1992) | キャッチーで派手なシンセラインが特徴 |
-| Alexia | *Fan Club* (1997) | ボーカル重視のメロディック・ユーロダンス。ヒット曲「Uh La La La」 |
-| Corona | *The Rhythm of the Night* (1995) | ユーロダンス系の代表作。「The Rhythm of the Night」が世界的ヒット |
-| Eiffel 65 | *Europop* (1999) | 後期Italo Dance。ヒット曲「Blue (Da Ba Dee)」 |
+| Dave Rodgers | *Compilation Eurobeat Vol.1* (1991) | Un chef-d'œuvre de l'Eurobeat à grande vitesse. Chanson représentative « Déja Vu », etc. |
+| Dominos | *SAX* (1992) | Comprend des lignes de synthé accrocheuses et flashy |
+| Alexie | *Fan-Club* (1997) | Eurodance mélodique avec accent sur le chant. Chanson à succès « Uh La La La » |
+| Couronne | *Le rythme de la nuit* (1995) | Un chef-d'œuvre de la danse européenne. « Le Rythme de la Nuit » devient un succès mondial |
+| Eiffel 65 | *Europop* (1999) | Danse italo tardive. Chanson à succès « Blue (Da Ba Dee) » |
 
 ---
 
-### ドイツ産ユーロ：「パワー」と「構造美」
-**概要**  
-- **拠点**：フランクフルト、ミュンヘン、ベルリンなど  
-- **主なレーベル**：Dance Pool（Sony Germany）、Zyx、Low Spirit  
-- **特徴**：重たいビート、機械的なベースライン、ミニマル構成、クラブ志向  
+### Euro allemand : « puissance » et « beauté structurelle »
+**aperçu**
+- **Lieux** : Francfort, Munich, Berlin, etc.
+- **Principaux labels** : Dance Pool (Sony Allemagne), Zyx, Low Spirit
+- **Caractéristiques** : Beat lourd, ligne de basse mécanique, composition minimale, orienté club
 
-**音の特徴**  
-- 太くて硬質なキックドラム、4つ打ちを強調  
-- メロディよりリズムと構造を重視  
-- コード進行はシンプルで暗め  
-- トランス的要素も多く、ループ感を活かす  
+**Caractéristiques sonores**
+- Grosse caisse épaisse et dure, accentuant les temps 4/4
+- Accent mis sur le rythme et la structure plutôt que sur la mélodie
+- La progression d'accords est simple et sombre
+- Il y a de nombreux éléments de transe, utilisant la sensation de boucle.
 
-**代表アーティスト／ユニット**  
-- Snap!  
-- Culture Beat  
-- Real McCoy  
-- U96  
-- Scooter  
+**Artiste/unité représentatif**
+-Instantané!
+- Battement culturel
+-Vrai McCoy
+-U96
+-Scooter
 
-**文化的背景**  
-- 工業国家としての精密さ、技術志向  
-- クラブ・レイヴ文化の浸透度が高く、より実践的なトラックが多い  
-- ベルリンの壁崩壊後、音楽的解放が進行  
+**Contexte culturel**
+- Précision et orientation technologique en tant que nation industrialisée
+- La culture club rave est très répandue et il existe de nombreuses autres pistes pratiques
+- La libération musicale progresse après la chute du mur de Berlin
 
-**代表ディスコグラフィ**  
+**Discographie représentative**
 
-| アーティスト | アルバム/シングル | 特徴・ヒット曲 |
+| Artiste | Album/Single | Caractéristiques/Chansons à succès |
 |---|---|---|
-| Snap! | *World Power* (1990) | 世界的ヒット「The Power」「Rhythm Is a Dancer」収録 |
-| Culture Beat | *Serenity* (1993) | クラブ志向のユーロダンス。「Mr. Vain」が代表曲 |
-| Real McCoy | *Another Night* (1995) | 米独混成ユニット。ヒット曲「Another Night」「Run Away」 |
-| U96 | *Das Boot* (1992) | テクノ・トランス寄り。タイトル曲がクラブヒット |
-| Scooter | *Our Happy Hardcore* (1996) | ハードダンス化ユーロ。代表曲「Hyper Hyper」 |
+| Instantané! | *Puissance mondiale* (1990) | Comprend les succès mondiaux « The Power » et « Rhythm Is a Dancer » |
+| Battement culturel | *Sérénité* (1993) | Danse européenne orientée club. « Mr. Vain » est la chanson représentative |
+| Vrai McCoy | *Une autre nuit* (1995) | Unité hybride américano-allemande. Chansons à succès « Another Night » et « Run Away » |
+| U96 | *Le démarrage* (1992) | Orienté techno-transe. La chanson titre est un succès en club |
+| Trottinette | *Notre Happy Hardcore* (1996) | Euro de danse dure. Chanson représentative « Hyper Hyper » |
 
 ---
 
-### スウェーデン産ユーロ：「洗練されたポップ感覚」
-**概要**  
-- **拠点**：ストックホルム、マルメなど  
-- **主なレーベル**：Stockholm Records、Mega Records  
-- **特徴**：清涼感あるサウンド、英語詞ポップ志向、ソフトなミックス  
+### Euro suédois : « Sensation pop sophistiquée »
+**aperçu**
+- **Localisation** : Stockholm, Malmö, etc.
+- **Principaux labels** : Stockholm Records, Mega Records
+- **Caractéristiques** : Son cool, paroles anglaises orientées pop, mix soft
 
-**音の特徴**  
-- ポップス的な構造、聴きやすく親しみやすい  
-- ミドルテンポ、バラード系の楽曲も多い  
-- リズムは控えめ、メロディとボーカル重視  
-- 洗練されたミックスとプロダクションの透明感  
+**Caractéristiques sonores**
+- Structure pop, facile à écouter et accessible
+- De nombreuses chansons sont de type mid-tempo et ballade.
+- Rythme modéré, accent mis sur la mélodie et le chant
+- Mélange raffiné et clarté de production
 
-**代表アーティスト／ユニット**  
-- Ace of Base  
-- Roxette  
-- Dr. Alban  
-- Rednex  
-- Army of Lovers  
+**Artiste/unité représentatif**
+- As de base
+-Roxette
+- Dr Alban
+-Rednex
+- Armée des Amoureux
 
-**文化的背景**  
-- スウェーデンは英語教育が高度で、歌詞も英語が基本  
-- ABBA以降、輸出志向のポップス作りが伝統  
-- ハードよりミドルでメロディ重視の音作り  
+**Contexte culturel**
+- La Suède a un niveau élevé d'éducation en anglais et les paroles sont pour la plupart en anglais.
+- Depuis ABBA, c'est une tradition de faire de la musique pop orientée vers l'exportation.
+- Création sonore qui met l'accent sur la mélodie au milieu plutôt que sur le dur
 
-**代表ディスコグラフィ**  
+**Discographie représentative**
 
-| アーティスト | アルバム/シングル | 特徴・ヒット曲 |
+| Artiste | Album/Single | Caractéristiques/Chansons à succès |
 |---|---|---|
-| Ace of Base | *Happy Nation / The Sign* (1993/1994) | 「All That She Wants」「The Sign」など全米ヒット |
-| Roxette | *Joyride* (1991) | ポップ・ロック融合。「Joyride」「Fading Like a Flower」収録 |
-| Dr. Alban | *One Love* (1992) | ユーロ・レゲエ融合。「Sing Hallelujah!」ヒット |
-| Rednex | *Sex & Violins* (1995) | カントリー×テクノ融合。「Cotton Eye Joe」世界的ヒット |
-| Army of Lovers | *Massive Luxury Overdose* (1991) | キャンプ＆耽美ユーロポップ。「Crucified」が代表曲 |
+| As de base | *Happy Nation / Le Signe* (1993/1994) | Succès américains tels que « All That She Wants » et « The Sign » |
+| Roxette | *Joyride* (1991) | Fusion pop-rock. « Joyride » et « Fading Like a Flower » inclus |
+| Dr Alban | *Un amour* (1992) | Fusion euro-reggae. « Chantez Alléluia ! » frappé |
+| Rednex | *Sexe et violons* (1995) | Fusion country x techno. « Cotton Eye Joe » à succès mondial |
+| Armée des Amoureux | *Surdose massive de luxe* (1991) | Camp & Esthétique Europop. « Crucified » est la chanson représentative |
 
 ---
 
-### 比較表まとめ：制作国別「ユーロの個性」
+### Récapitulatif du tableau comparatif : « Personnalité européenne » par pays de production
 
 
 
-|   | イタリア | ドイツ | スウェーデン |
+| | Italie | Allemagne | Suède |
 |---|---|---|---|
-| **BPM** | 高速（140〜160） | 標準〜やや速め（128〜140） | ミドル（110〜130） |
-| **美意識** | 派手・感情的・劇的 | 機械的・構造的 | ソフト・ポップ・洗練 |
-| **主戦場** | 日本市場・アニメ・パラパラ | クラブ／レイヴ | 国際ポップ市場 |
-| **メロディ傾向** | 明快・派手・リードシンセ | 繰り返し・暗め | 親しみやすく歌メロ中心 |
-| **文化的特徴** | Italo Discoの継承 | 精密工業的クラブ思考 | 北欧ポップの輸出志向 |
+| **BPM** | Rapide (140-160) | Standard à légèrement rapide (128-140) | Milieu (110-130) |
+| **Esthétique** | Flashy, émouvant, dramatique | Mécanique, structurel | Doux, pop, sophistiqué |
+| **Champ de bataille principal** | Marché japonais/Anime/Parapara | Club/Rave | Marché international de la pop |
+| **Tendance mélodique** | Synthé lead clair, flashy | Répétitif, sombre | Convivial, surtout des mélodies |
+| **Caractéristiques culturelles** | Héritage d'Italo Disco | Pensée de club industriel de précision | Orientation vers l'exportation de la pop nordique |
 
 
 ---
 
-### ユーロ・ミュージックは“国境の音楽”ではなく、“国民性の音”だった
-90年代ユーロ・ミュージックの最大の魅力は、「世界共通語」的に機能しながら、実はその中に各国の文化や美学が濃厚に埋め込まれていることだ。  
-同じような4つ打ちでも、イタリアの熱、ドイツの硬質さ、スウェーデンの清涼感は明らかに違う。  
+### La musique européenne n'était pas une « musique nationale » mais un « son national »
+Le plus grand attrait de la musique européenne des années 1990 est que, même si elle fonctionne comme un « langage universel », elle est en réalité profondément ancrée dans la culture et l’esthétique de chaque pays.
+Même si elles se ressemblent toutes, la chaleur de l’Italie, la dureté de l’Allemagne et la fraîcheur de la Suède sont clairement différentes.
 
-グローバルとローカルの交差点に生まれた音楽。 それが、90年代ユーロの本質なのかもしれない。
+Une musique née à l'intersection du global et du local. C’est peut-être là l’essence de l’euro des années 1990.

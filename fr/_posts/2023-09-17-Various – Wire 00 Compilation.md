@@ -15,7 +15,7 @@ title: Divers – Compilation Fil 00
 
 Il s'agit d'une compilation des artistes de "WIRE 00", la plus grande rave en salle de l'histoire organisée en 2000.
 
-Le double LP comprend également des morceaux de Sven Väth, DJ Hell et WestBam.
+L'ensemble de 2 LP comprend également des morceaux de Sven Väth, DJ Hell et WestBam.
 
 #### Liste des chansons
 ```md

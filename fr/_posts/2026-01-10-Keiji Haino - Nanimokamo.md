@@ -10,23 +10,23 @@ tags:
 - Experimental
 - Rock
 - 00s
-title: Keiji Haino - Nanimokamo 灰野敬二 – 何もかも
+title: Keiji Haino - Nanimokamo Keiji Haino – Tout
 ---
 
 
-灰野敬二 – 何もかも　
-パーカッション・ソロ
+Keiji Haino – Tout
+solo de percussions
 Keiji Haino
 
-VHS (ビデオテープ)
+VHS (cassette vidéo)
 
-ハイ・ライズ、アシッド・マザーズ・テンプル、メインライナー、ホワイト・ヘヴン、ゴースト、光束夜、高柳昌行、阿部薫、三上寛、石塚俊明、灰野敬二、不失者など数多くの日本のアンダーグラウンドミュージックをリリースしていたPSFレコードから2002年に発売されたVHS。
+VHS sorti en 2002 par PSF Records, qui a sorti de nombreuses musiques underground japonaises telles que High Rise, Acid Mother's Temple, Mainliner, White Heaven, Ghost, Koshu Yo, Masayuki Takayanagi, Kaoru Abe, Hiroshi Mikami, Toshiaki Ishizuka, Keiji Haino et Fushisha.
 
-監督は、三上寛『縄文から宇宙へ　縄文の唄 (Johmon Rock)』(VHS)など担当したVideoArtistの信木総一郎。
+Le réalisateur est Soichiro Nobiki, un artiste vidéo qui était en charge de « From Jomon to Space : Jomon Rock » (VHS) de Hiroshi Mikami.
 
-Art Directionは、灰野敬二、不失者、John Zorn、吉沢元治などのジャケを手がける新井康祝。
+La direction artistique est assurée par Yasuyoshi Arai, qui a créé des vestes pour Keiji Haino, Fushisha, John Zorn, Motoharu Yoshizawa et bien d'autres.
 
-プロデューサーは、P.S.F. Recordsのオーナー生悦住英夫。
+Le producteur est Hideo Ikuetsu, propriétaire de P.S.F. Enregistrements.
 
 #### Liste des chansons
 ```md

@@ -18,7 +18,7 @@ title: '[Chronique] Amapiano sud-africain — Une nouvelle culture de la musique
 
 ## Introduction — Pourquoi Amapiano maintenant ?
 
-Texte : mmr｜Thème : Origines d'Amapiano, caractéristiques musicales, histoire du développement, artistes majeurs et processus d'internationalisation
+Texte : mmr｜Thème : Origines de l'Amapiano, caractéristiques musicales, histoire du développement, principaux artistes et processus d'internationalisation
 
 Ces dernières années, le genre de musique dance **Amapiano**, originaire d'Afrique du Sud, a attiré l'attention non seulement au Japon, mais également dans les clubs d'Afrique, d'Europe, d'Amérique du Nord et d'Asie.
 
@@ -52,7 +52,7 @@ Amapiano est influencé par les genres suivants :
 
 En particulier, la sensibilisation communautaire à travers les clubs municipaux, les fêtes de rue, les stations de taxis, etc. a joué un rôle important dans la naissance d'Amapiano.
 
-### 音響的特徴
+### Caractéristiques acoustiques
 
 Le son d'Amapiano se compose des éléments suivants :
 
@@ -60,7 +60,7 @@ Le son d'Amapiano se compose des éléments suivants :
 * **Piano/Clavier** : le nom du genre "Amapiano" signifie "pianos" en zoulou
 * **Batterie et shakers discrets** : structures rythmiques qui utilisent des pauses et des espaces vides
 * **Tempo** : groove lent autour de 110-120 BPM
-* **Voix** : Différents styles tels que le chant, le rap, les refrains, etc.
+* **Vocal** : Différents styles tels que le chant, le rap, les refrains, etc.
 
 Ces éléments se sont combinés pour développer une musique qui exprimait la culture des jeunes des clubs et des rues du township.
 
@@ -137,7 +137,7 @@ En conséquence, Amapiano est passé d’une simple musique underground à un ge
 * Promouvoir la diffusion et la commercialisation du genre à l'échelle nationale
 * Suite **Le Retour des Rois Scorpions (novembre 2019)** a également été un succès
 
-Au cours de cette période, l'Amapiano est devenu plus qu'une simple musique de canton, il est devenu un genre reconnu au niveau national et commercial.
+Cette période a fait de l'Amapiano non seulement une musique de canton, mais un genre reconnu au niveau national et commercial.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u2V08RBLOdM?si=ajNfLm30b3Pom53A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

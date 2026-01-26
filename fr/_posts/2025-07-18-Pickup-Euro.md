@@ -378,7 +378,7 @@ Format : CD
 
 Genre : Euro des années 90 / Euro Beat / Hi‑ERG House
 
-"Willy Use A Billy Boy" est le quatrième single d'E-Rotic en Allemagne et le premier single au Japon.
+"Willy Use A Billy… Boy" est le quatrième single d'E-Rotic en Allemagne et le premier single au Japon.
 
 #### Liste des chansons
 ```md

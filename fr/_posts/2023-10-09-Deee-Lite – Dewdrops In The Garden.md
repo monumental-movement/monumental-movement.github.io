@@ -15,7 +15,7 @@ title: Deee-Lite – Gouttes de rosée dans le jardin
 
 Dewdrops in the Garden est le troisième et dernier album studio du groupe de dance music américain Deee-Lite, sorti en août 1994 par Elektra Records.
 
-L'album s'est éloigné du contenu lyrique politique de son prédécesseur, s'orientant vers des thèmes de danse et d'intimité, en mettant l'accent sur la musique psychédélique.
+L'album s'éloigne du contenu lyrique politique de son prédécesseur, s'orientant vers des thèmes de danse et d'intimité, en mettant l'accent sur la musique psychédélique.
 
 #### Liste des chansons
 ```md

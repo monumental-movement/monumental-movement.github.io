@@ -14,10 +14,10 @@ title: '[Chronique] Poésie du battement de cœur : le monde du percussionniste 
 ---
 
 
-## 1. Présentation
+## 1. Introduction
 
 
-Texte : mmr｜Thème : Suivez attentivement son chemin depuis son éducation jusqu'à aujourd'hui, en explorant le cœur de son innovation, de sa philosophie, de sa collaboration et de son expérience qu'il apporte aux auditeurs.
+Texte : mmr｜Thème : Suivez attentivement son chemin depuis son éducation jusqu'à nos jours, en explorant le cœur de son innovation, de sa philosophie, de sa collaboration et de son expérience qu'il apporte aux auditeurs.
 
 Mohammad Reza Mortazavi est un percussionniste rare qui réinterprète fondamentalement les instruments de percussion persans traditionnels dans une expression musicale moderne. Ses performances ne sont pas seulement une démonstration de technique rythmique, mais sont accompagnées d'une profonde spiritualité qui induit parfois une transe, invitant le public à un voyage physique et conscient. En ce sens, ses activités sont importantes dans la création de nouveaux horizons musicaux qui dépassent les oppositions binaires de « musique traditionnelle et musique expérimentale », « Orient et Occident », et « passé et futur ».
 
@@ -56,7 +56,7 @@ Grâce à une variété de techniques de jeu, le tambak s’est imposé non seul
 
 Le **Daf** est un grand tambour sur cadre, parfois doté d'anneaux ou de cloches métalliques, et est un instrument de musique traditionnel qui a également des usages festifs et cérémoniaux. Mortazavi ne se produit pas seulement avec des tambacks, mais aussi avec des duffs, et a développé des performances solos et collaboratives qui tirent parti des caractéristiques de chacun.
 
-La raison derrière sa sélection de ces instruments traditionnels n'est pas seulement un retour aux instruments folkloriques, mais une forte volonté d'explorer en profondeur l'essence des instruments de musique et d'en tirer des expressions inconnues.
+La raison derrière sa sélection de ces instruments traditionnels n'est pas seulement un retour aux instruments folkloriques, mais une forte volonté d'explorer en profondeur l'essence des instruments et d'en tirer des expressions inconnues.
 
 ---
 
@@ -78,7 +78,7 @@ La réalisation la plus remarquable de Mortazavi est **plus de 30 techniques de 
 Plus précisément, les approches comprennent :
 
 * **Utiliser différents points d'attaque** : Zones d'attaque que les joueurs traditionnels n'utilisent pas, comme le centre du cuir, la jante et le corps (partie en bois).
-* **Diverses parties de la main** : La main entière du joueur est considérée comme un instrument de musique, y compris le bout des doigts, les articulations, les ongles, la paume, la racine du pouce et d'autres parties qui seraient autrement considérées comme taboues.
+* **Diverses parties de la main** : La main entière du joueur est considérée comme un instrument de musique, y compris le bout des doigts, les articulations, les ongles, la paume, la racine du pouce et d'autres parties considérées comme taboues.
 * **Approche polyrythmique** : Une technique qui permet à plusieurs voix (couches) de sonner simultanément au sein du même instrument. Cela permet une performance de type ensemble par un seul joueur.
 * **Plage dynamique** : Des touches extrêmement silencieuses aux coups explosifs, contrôlez librement la force, le tempo et la densité du son.
 * **Opération de résonance** : contrôle la résonance du corps et conçoit l'arrière-goût lors de la frappe. De cette manière, la « réverbération » du son qui reste après un seul coup est utilisée comme élément d'expression.
@@ -130,7 +130,7 @@ L'album, sorti sur le label Latency, reflète une exploration profonde du thème
 
 Les critiques ont cité son point de vue selon lequel « contrairement à un métronome, le pouls humain est flexible et non fixe ». Ce thème est également évident dans ses spectacles en direct, où il accorde de l'importance à la création d'un « pouls commun » avec le public.
 
-#### 7.5 "Prisme"
+#### 7.5 « Prisme »
 
 Sorti en 2022, cet album représente une nouvelle expansion de la musique de Mortazavi. Selon les informations sur les performances de Flussbad, en plus du tombback et du duff, divers objets sonores ont été introduits, notamment un sifflet d'oiseau, un petit marimba, un kalimba et de petites cymbales. Cela élargit la gamme de tons et permet une expression spatiale plus tridimensionnelle et spirituelle.
 
@@ -173,7 +173,7 @@ Une expérience en direct comme celle-ci n'est pas seulement quelque chose que v
 
 Mortazavi a reçu une reconnaissance internationale pour ses compétences, son sens artistique et son innovation. En 2003, il a remporté le **RUTH Newcomer Award**. Il a également suscité beaucoup d'intérêt de la part des médias, et son style et sa philosophie ont été présentés dans divers médias tels que le Deutschlandfunk allemand, Pitchfork, Hardwax et Boomkat.
 
-Pitchfork a particulièrement attiré l'attention sur la flexibilité des pulsations humaines et la nature improvisée des rythmes qu'il jouait, et l'a décrit comme « une musique qui incarne l'humanité et la plasticité du temps ». Hardwax et d'autres ont loué la précision sonore et la profondeur spirituelle de ses plus de 30 nouvelles techniques.
+En particulier, Pitchfork a attiré l'attention sur la flexibilité des pulsations humaines et la nature improvisée des rythmes qu'il jouait, et les a décrits comme « une musique qui incarne l'humanité et la plasticité du temps ». Hardwax et d'autres ont loué la précision sonore et la profondeur spirituelle de ses plus de 30 nouvelles techniques.
 
 De plus, leur aspect physique et leur spiritualité sont souvent soulignés dans les critiques en direct. Drummerszone et d'autres ont décrit en détail les points de frappe, les parties des mains et les opérations de résonance qu'il utilise, notant que ses mains semblent jouer sur un « système audio ».
 
@@ -232,7 +232,7 @@ Tous ces éléments interagissent pour faire de Mortazavi un « philosophe du ry
 
 ### 14. Conclusion : Implications pour l'avenir
 
-Le voyage de Mohammad Reza Mortazavi est un voyage qui redéfinit la tradition, élargit la technique et crée de nouveaux dialogues entre rythme et conscience. Les sons polyphoniques, les rythmes multicouches, les sons sustain et persistants et la philosophie profonde qui les sous-tend vont au-delà de la simple performance et offrent à l'auditeur une expérience qui transcende le temps et l'espace.
+Le voyage de Mohammad Reza Mortazavi est un voyage qui redéfinit la tradition, élargit la technique et crée de nouveaux dialogues entre rythme et conscience. Les sons polyphoniques, les rythmes multicouches, les sons sustain et persistants et la philosophie profonde qui les sous-tendent vont au-delà de la simple performance et offrent à l'auditeur une expérience qui transcende le temps et l'espace.
 
 Il ne se contente pas de préserver l'instrument classique, le tamback, mais le transforme pour l'avenir. Dans le processus de transformation, la musique, le corps, la communauté et la conscience se croisent et de nouveaux horizons s'ouvrent.
 

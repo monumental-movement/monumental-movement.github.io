@@ -21,7 +21,7 @@ title: '[Chronique] Choral / Vocal Expérimental'
 Texte : mmr｜Thème : Développement historique, artistes représentatifs, analyse technique, contexte de l'enregistrement sonore/vidéo, tendances du travail contemporain
 
 Le « Choral/Vocal Experimental » est un domaine né de l’intersection de la musique expérimentale, de la recherche acoustique et des idées électroacoustiques de la seconde moitié du XXe siècle sur la forme musicale la plus ancienne du chœur.
-Sa particularité est qu'il va au-delà de la simple recherche de la beauté des harmonies et couvre une grande variété de techniques, y compris l'exploration des phénomènes acoustiques utilisant la voix comme matériau, la spatialisation, la manipulation microtonale, la structure de phase et la fusion avec le traitement électronique.
+Sa particularité est qu'il va au-delà de la simple recherche de la beauté des harmonies et couvre une grande variété de techniques, notamment l'exploration de phénomènes acoustiques utilisant la voix comme matériau, la spatialisation, la manipulation microtonale, la structure de phase et la fusion avec le traitement électronique.
 Cette tendance a présenté un nouveau style d’écoute de la culture chorale traditionnelle et a eu un impact majeur sur l’art acoustique dans son ensemble.
 
 ---
@@ -80,7 +80,7 @@ Ces œuvres marquent un tournant dans le traitement du chœur comme « une subst
 
 La musique spectrale, qui s'est développée principalement à Paris, mettait l'accent sur la structure harmonique de la voix, les phénomènes de résonance et les changements dynamiques du timbre.
 
-代表例：
+Exemple typique :
 
 * Gérard Grisée
 *Tristan Murail
@@ -165,11 +165,11 @@ L'analyse spectrale électroacoustique a été introduite, permettant une constr
 ##4-5. Bruit de voix
 
 * Allongement des consonnes
-* Utilisation des bruits respiratoires
+* Utilisation de bruits respiratoires
 * Onomatopée/bourdonnement/chuchotement
 Une technique qui utilise activement les voix sans hauteur comme matériau musical.
 
-## 4-6. Traitement électronique/spatialisation
+##4-6. Traitement électronique/spatialisation
 
 Des expériences récentes utilisent parfois le traitement en temps réel et la diffusion multicanal.
 
@@ -210,7 +210,7 @@ Whittaker est connue pour ses œuvres chorales qui conservent une beauté classi
 ### Chœur Virtuel
 
 « Virtual Choir », qui a eu lieu dans les années 2010, est une tentative d'intégrer des voix individuelles enregistrées du monde entier et de créer un chœur gigantesque.
-Ceci est remarquable en termes d’histoire de la musique en tant qu’**expansion du concept de chant choral à l’ère d’Internet**.
+Ceci est remarquable dans l’histoire de la musique comme une **expansion du concept de chant choral à l’ère d’Internet**.
 
 ---
 
@@ -297,7 +297,7 @@ C’est un exemple typique de la transformation de la voix en instrument.
 
 # 9. Tendances au 21ème siècle
 
-Modern Vocal Experimental a encore progressé dans les domaines suivants.
+Modern Vocal Experimental a réalisé de nouveaux progrès dans les domaines suivants.
 
 ##9-1. Intégration de la voix et du son électronique
 

@@ -9,11 +9,11 @@ permalink: /fr/milemarker-future-isms/
 tags:
 - New-Wave
 - Experimental
-title: Milemarker – Future Isms
+title: Jalon – Ismes futurs
 ---
 
 
-Milemarker(マイルマーカー)は、アメリカ・ノースカロライナ州出身のポストハードコアバンドです。彼らのサウンドは、実験的なエレクトロニック、ニューウェイブ、オルタナティヴ・ロックなどさまざまなスタイルがミックスされています。
+Milemarker est un groupe post-hardcore originaire de Caroline du Nord, aux États-Unis. Leur son est un mélange de styles incluant l'électronique expérimentale, la new wave et le rock alternatif.
 
 #### Liste des chansons
 ```md

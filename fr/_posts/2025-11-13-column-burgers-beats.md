@@ -23,7 +23,7 @@ Texte : mmr｜Thème : Sur l’évolution de la musique de restauration rapide e
 La musique du restaurant de hamburgers n'est pas seulement une chanson commerciale, mais un « portrait sonore de l'époque ».
 Quelles valeurs la société recherchait et à quel rythme elle vivait - tout cela est condensé dans un jingle et un logo sonore de 15 secondes.
 
-La pop familiale optimiste de McDonald's, les riffs de guitare rebelles de Burger King et les sons de ukulélé fabriqués à la main de Mos Burger.
+La pop familiale optimiste de McDonald's, les riffs de guitare rebelles de Burger King et la chaleur artisanale du ukulélé de Mos Burger.
 Plutôt que des publicités d’entreprise, ce sont les « souvenirs sonores de l’époque ».
 
 ---
@@ -51,7 +51,7 @@ Il avait une sensation édifiante semblable à une comédie musicale et symbolis
 
 > ♪ « Vous méritez une pause aujourd'hui, alors levez-vous et partez chez McDonald's ! »
 
-Cette chanson a été vendue en single aux États-Unis et a connu un succès inhabituel, entrant dans les charts radiophoniques.
+Cette chanson fut un succès inhabituel, se vendant en single aux États-Unis et entrant dans les charts radiophoniques.
 C’était la première fois que les publicités de restauration rapide entraient dans le domaine de la musique pop.
 
 ### 1-2 Lien avec l'industrie musicale : de la publicité aux chansons à succès
@@ -99,7 +99,7 @@ Une fusion de l'entrée numérique et de la production vidéo.
 
 ### 4-2 Freshness Burger : Connexion avec la culture du café
 **Toru Hashimoto (SUBURBIA)** supervise le magasin BGM.
-Introduction précoce du concept de « musique qui soutient le goût ».
+Introduction précoce du concept de « musique soutenant le goût ».
 
 ---
 

@@ -11,19 +11,19 @@ tags:
 - Minimal
 - Acid
 - 00s
-title: Alter Ego – Beat The Bush
+title: Alter Ego – Battre le buisson
 ---
 
 
-Alter Egoは、1992年にRoman FlügelとJörn Elling Wuttkeが結成したドイツのエレクトロニックミュージックデュオ。2004年の代表作「Rocker」でよく知られている。
+Alter Ego est un duo allemand de musique électronique formé en 1992 par Roman Flügel et Jörn Elling Wuttke. Il est surtout connu pour son chef-d'œuvre de 2004 "Rocker".
 
-「Beat The Bush 」は、2005年にドイツのレーベルKlang ElektronikからリリースされたTechno／Minimal／Acidリミックス。
+"Beat The Bush" est un remix Techno/Minimal/Acid sorti par le label allemand Klang Elektronik en 2005.
 
-Aは、ジャーマンハウスデュオTiefschwarzによるremix。
+A est un remix du duo house allemand Tiefschwarz.
 
-B1は、 Cortney Tidwell, Seelenluft, Ladytron, Depeche Mode, The Rapture, Goldfrapp, The Chemical Brothersなどのリミックスを手掛けるUK出身のremixer ／プロデューサー Ewan Pearsonによるremix。
+B1 est un remix d'Ewan Pearson, un remixeur/producteur britannique qui a remixé des artistes tels que Cortney Tidwell, Seelenluft, Ladytron, Depeche Mode, The Rapture, Goldfrapp et The Chemical Brothers.
 
-B2は、UKのelectronic music DJ／プロデューサーRitonによるremix。
+B2 est un remix du DJ/producteur britannique de musique électronique Riton.
 
 #### Liste des chansons
 ```md

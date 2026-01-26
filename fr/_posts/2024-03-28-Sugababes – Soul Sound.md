@@ -14,7 +14,7 @@ title: Sugababes – Son de l’âme
 ---
 
 
-La première face B de l'EP « Soul Sound » de Sugar Babes est un remix de Dave Lee, alias Joey Negro, un DJ et producteur de house music britannique également connu sous les noms de Jakatta, Doug Willis, Raven Maize et Sessomatto.
+La première face B de l'EP « Soul Sound » de Sugar Babes est un remix de Dave Lee, alias Joey Negro, un DJ et producteur de musique house britannique également connu sous les noms de Jakatta, Doug Willis, Raven Maize et Sessomatto.
 
 #### Liste des chansons
 ```md

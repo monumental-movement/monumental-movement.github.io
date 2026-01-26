@@ -24,7 +24,7 @@ Texte : mmr｜Thème : À propos de Butthole Surfers **source sonore, performanc
 
 
 Peu de figures de l’underground américain des années 1980 étaient aussi bizarres, violentes et hallucinatoires que les Butthole Surfers.
-Leurs performances live sont souvent décrites en termes de « rock de choc », de « psychédélique lourd » et de « chaos », mais leur essence est beaucoup plus complexe.
+Leurs concerts sont souvent décrits en termes de « rock de choc », de « psychédélique lourd » et de « chaos », mais leur essence est beaucoup plus complexe.
 
 *La confusion est créée par le calcul,
 La dissonance est créée par l'improvisation,
@@ -72,7 +72,7 @@ Le premier son du groupe mélange la rapidité du punk/hardcore tardif avec l'am
 ### **Le Shah dort dans la tombe de Lee Harvey**
 
 * La guitare utilise principalement des feedbacks directement enregistrés
-* Le saxophone joue de manière irrégulière, détruisant la mélodie.
+* Le saxophone joue de manière irrégulière et détruit la mélodie.
 * Les paroles sont fragmentaires et axées sur la performance.
 
 ### **Dame Sniff**
@@ -86,7 +86,7 @@ Le premier son du groupe mélange la rapidité du punk/hardcore tardif avec l'am
 flowchart TD
     A["Enregistrement direct de guitare"] --> B["Traitement de la distorsion"]
     B --> C["Enregistrement improvisé au sax"]
-    C --> D[« Signature rythmique impaire de la batterie, enregistrement de 1 prise »]
+    C --> D["Chiffre rythmique impair de batterie, enregistrement de 1 prise"]
     D --> E["Mélange complet (Lo-Fi)"]
 
 ---
@@ -202,7 +202,7 @@ flowchart TD
 flowchart TD
     A["Enregistrement direct de guitare"] --> B["Traitement de la distorsion"]
     B --> C["Enregistrement improvisé au sax"]
-    C --> D[« Signature rythmique impaire de la batterie, enregistrement de 1 prise »]
+    C --> D["Chiffre rythmique impair de batterie, enregistrement de 1 prise"]
     D --> E["Mélange complet (Lo-Fi)"]
 
 ---

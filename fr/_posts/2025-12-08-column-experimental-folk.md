@@ -19,7 +19,7 @@ title: '[Chronique] Qu''est-ce que le Folk Expérimental / Psych Folk ? : L''int
 
 ## Qu'est-ce que le Folk Expérimental / Psych Folk ?
 
-Texte : mmr｜Thème : évolutions au fil du temps, des techniques et du contexte culturel centrés sur Comus, Espers et Current 93
+Texte : mmr｜Thème : Changements au fil du temps, des techniques et du contexte culturel centrés sur Comus, Espers et Current 93
 
 **Experimental Folk** et **Psych Folk** sont basés sur des instruments acoustiques,
 ·Dissonance
@@ -142,7 +142,7 @@ Dans les années 2010, Experimental Folk a commencé à brouiller les frontière
 - Fusion avec **enregistrement sonore environnemental/terrain**
 
 À partir de cette époque, Experimental Folk a commencé à élargir ses frontières de genre.
-**Ambiance / Drone / Folk de chambre / Post-industriel / Minimalisme acoustique**
+**Ambiance / Drone / Chambre Folk / Post-Industriel / Minimalisme Acoustique**
 Il se développe de manière ramifiée et superposée.
 
 ---

@@ -20,8 +20,8 @@ title: '[Chronique] Nala Sinephro - Respiration sonore et silence cosmique : l''
 
 Texte : mmr｜Thème : Le jazz n'est pas une question de technique ou d'expansion des genres, mais de la question fondamentale de ce que le son peut apporter aux humains.
 
-Lorsque nous entendons pour la première fois la musique de Nala Sinephro, nous sommes obligés d’abandonner le concept de « chanson ».
-Son premier album Space 1.8, sorti chez Warp Records en 2021, était une œuvre qui faisait fondre les frontières entre jazz et ambient, synthèse modulaire et improvisation comme si elle respirait.
+Lorsque nous entrons pour la première fois en contact avec la musique de Nala Sinephro, nous sommes obligés d’abandonner le concept de « chanson ».
+Son premier album Space 1.8, sorti chez Warp Records en 2021, était une œuvre qui faisait fondre les frontières entre jazz et ambient, synthèse modulaire et improvisation, comme si elle respirait.
 
 Harpe, saxophone ténor, synthétiseur modulaire et l'espace lui-même.
 La musique de Nala dépeint le moment où le son lui-même devient un « environnement spirituel ».
@@ -53,16 +53,16 @@ A travers une séance au club de jazz londonien "Total Refreshment Centre",
 Il a formé un langage sonore unique qui évolue librement entre harpe et synthé modulaire.
 
 > « Pour moi, le son est comme des particules dans l’air. »
-> ― Nala Sinéphron
+> – Nala Sinéphron
 
-Comme elle le dit, le son est constitué de couches de « particules » et réfracte le temps comme la lumière.
+Comme elle le dit, le son est superposé sous forme de « grains » et réfracte le temps comme la lumière.
 
 ---
 
 ## Chapitre 2 : Structure de « l'Espace 1.8 » et transformation de la conscience
 
-La structure des pistes de Space 1.8 rappelle une séance de yoga ou de méditation.
-De l'Espace 1 à l'Espace 8, toutes les chansons sont arrangées comme des "phases respiratoires".
+La structure du morceau de Space 1.8 rappelle une séance de yoga ou de méditation.
+De l'Espace 1 à l'Espace 8, toutes les chansons sont arrangées comme des « phases respiratoires ».
 
 - **Espace 1 :** « Entrée » où de subtils sons modulaires ouvrent l'espace
 - **Espace 2 :** Dialogue harpe et saxophone, vibration intérieure
@@ -114,7 +114,7 @@ Ici, le patch lui-même est une performance improvisée qui transforme le corps 
 > - Ableton Live (pour le traitement des boucles)
 
 Cette configuration est véritablement un « appareil respiratoire pour les humains et les machines ».
-Les formes d'onde s'enroulent autour des échos de la harpe, la température analogique neutralisant la clarté électronique.
+Les formes d'onde s'enroulent autour des échos de la harpe, la température analogique neutralisant la transparence électronique.
 C'est aussi un acte de sublimation de la musique en une **prière technologique**.
 
 ---
@@ -141,7 +141,7 @@ En même temps, c’est aussi une déclaration de lenteur face à la vitesse de 
 | 2018 | Rejoignez Total Refreshment Center et démarrez des séances d'improvisation |
 | 2021 | « Space 1.8 » sorti chez Warp Records |
 | 2022 | Reconnaissance internationale acquise par Gilles Peterson et d'autres |
-| 2024 | Début d'un nouveau projet de production/live modulaire |
+| 2024 | Début d'un nouveau projet de production/modulaire en direct |
 
 ---
 

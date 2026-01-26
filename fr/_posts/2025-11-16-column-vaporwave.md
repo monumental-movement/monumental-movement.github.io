@@ -18,7 +18,7 @@ title: '[Chronique] Histoire complète de la culture vaporwave — histoire des 
 ## Introduction : Qu'est-ce que Vaporwave ?
 
 
-Texte : mmr｜Thème : Vaporwave, un mouvement qui a commencé comme un genre musical, est une vaste sphère culturelle entourant la mémoire, l'histoire, les médias et la psychologie sociale.
+Texte : mmr｜Thème : Vaporwave, un mouvement qui a commencé comme un genre musical, est une vaste sphère culturelle entourant la mémoire, l'histoire, les médias et la psychologie sociale.
 
 
 Vaporwave est un phénomène culturel né vers 2010 à l’intersection de la culture Internet, des émotions post-crise financière et des images archivées du passé. Cet article synthétise l'histoire des étiquettes, l'esthétique, la structure acoustique, la théorie socioculturelle, les genres dérivés, la sémiotique, la chronologie et les illustrations, et redéfinit la vaporwave comme un « art complet né dans une ère de futur perdu ».
@@ -40,7 +40,7 @@ color: #fff;
 
 ## Chapitre 1 : Historique du label et contexte d'implantation
 
-### 1-1 Contexte des débuts de la vaporwave et de la culture Internet
+### 1-1 Contexte des débuts de la culture vaporwave et Internet
 
 La création de Vaporwave est étroitement liée à la culture des blogs de la fin des années 2000, à la culture de collecte d'images de Tumblr et à l'aube de l'ère des algorithmes de YouTube. En particulier, le traitement au ralenti excessif par Eccojams (Oneohtrix Point Never) est devenu le germe des genres ultérieurs et s'est imposé comme une « méthode de destruction du temps réel ».
 
@@ -176,7 +176,7 @@ graph TD
 
 Qu'est-ce que Vaporwave et sa définition principale**
 
-### **5-1 Vers une existence qui transcende les « genres »**
+### **5-1　Au-delà du « genre »**
 
 Vaporwave a été initialement traité comme un « genre mineur né sur Internet », mais
 Après plus de 10 ans de diffusion, il est devenu un dispositif culturel qui transcende les genres, comme le montre ci-dessous.

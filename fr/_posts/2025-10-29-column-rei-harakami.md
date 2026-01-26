@@ -28,7 +28,7 @@ Texte : mmr｜Thème : La musique de Rei Harakami et l'atmosphère et l'esthéti
 
 Quand j'écoute la musique de Rei Harakami, la première chose que je ressens est la « tranquillité ».
 Ce n'est pas seulement un silence ambiant, c'est comme un souffle flottant dans le « ma » entre les sons.
-Son son respire certainement « l'esthétique de l'espace » de la ville de Kyoto.
+Son son respire certainement «l'esthétique de l'espace» de la ville de Kyoto.
 
 Le son persistant d'une cloche de temple, l'humidité d'une averse d'été, le flux clair de Shirakawa en hiver.
 Même s'ils n'ont pas été directement samplés, le son de Rei Harakami transmet en quelque sorte l'atmosphère même de Kyoto.
@@ -104,7 +104,7 @@ C'est comme l'automne à Kyoto, et c'est une tristesse qui fait rire en regardan
 
 ## Chapitre 4 : Harakami et ses amis - UA, Ryuichi Sakamoto, Kazumi Nikaido
 
-La collaboration avec UA « Milk Tea » et Ryuichi Sakamoto,
+La collaboration avec UA « Milk Tea » et Ryuichi Sakamoto est
 Un nouvel élément de « voix humaine » a été ajouté à la musique de Rei Harakami.
 
 Ryuichi Sakamoto l'aurait décrit comme « le révolutionnaire le plus silencieux ».
@@ -186,8 +186,8 @@ graph TD
 
 ### Rei Harakami – [dévotion]
 
-「Rei Harakami – [lust]」は、
-2005年リリースのレイハラカミ４枚目のオリジナルアルバム。
+« Rei Harakami – [lust] » est
+Le quatrième album original de Rei Harakami sorti en 2005.
 
 
 #### Liste des chansons

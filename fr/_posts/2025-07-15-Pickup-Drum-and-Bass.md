@@ -83,7 +83,7 @@ AA. Fluid
 ### Motiv One – Cosmik / Progression en boucle
 <a href="https://jp.mercari.com/item/m37201781569?afid=6142608987"><img src="../assets/images/Motiv%20One%20%E2%80%93%20Cosmik%20%20Loop%20Progression.webp"></a>
 
-Contient des sons légers, jazzy et futuristes avec un break principal.
+Contient un son léger, jazzy et futuriste centré sur des pauses amen.
 
 #### Liste des chansons
 ```md

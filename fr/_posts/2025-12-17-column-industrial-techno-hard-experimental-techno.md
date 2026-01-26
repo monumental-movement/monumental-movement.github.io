@@ -43,7 +43,7 @@ color: #fff;
 
 ## 1. Préhistoire historique : La jonction de la musique industrielle et de la techno
 
-La musique industrielle qui a émergé à la fin des années 1970 a intentionnellement détruit le principe musical moderne des sons, mélodies et harmonies musicales, et a traité les matériaux non musicaux tels que les sons métalliques, le bruit, les sons mécaniques et les boucles de bande comme des unités structurelles. Cette idée de « transformer le matériau lui-même en musique » est devenue le fondement de la conception sonore ultérieure de la techno industrielle.
+La musique industrielle qui a émergé à la fin des années 1970 a intentionnellement détruit le principe musical moderne du ton, de la mélodie et de l’harmonie, et a traité les matériaux non musicaux tels que les sons métalliques, le bruit, les sons mécaniques et les boucles de bande comme des unités structurelles. Cette idée de « transformer le matériau lui-même en musique » est devenue le fondement de la conception sonore ultérieure de la techno industrielle.
 
 D’autre part, la techno, née dans les années 1980, se caractérise par la répétition, la synchronisation et le temps quadrillé, et s’est développée dans le sens de l’élimination des fluctuations humaines. La Techno Industrielle est née en combinant directement la structure temporelle de la techno avec l'orientation matérielle de la musique industrielle.
 

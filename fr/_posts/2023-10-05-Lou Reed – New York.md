@@ -15,7 +15,7 @@ title: Lou Reed – New York
 
 "New York" est un album important dans la carrière de Lou Reed et se concentre sur sa ville natale de New York. Les paroles de l'album reflètent la réalité de New York et les problèmes sociaux. Mettant en vedette la poésie acérée de Lou Reed et son propre style vocal unique, il dépeint l'obscurité et la lumière de la ville de son point de vue.
 
-"New York" couvre une variété de thèmes, notamment la politique, la drogue, la criminalité, l'amour et les relations. Certaines des chansons les plus connues de l'album incluent « Dirty Blvd. », « Halloween Parade » et « Romeo Had Juliette ».
+« New York » couvre une variété de thèmes, notamment la politique, la drogue, la criminalité, l'amour et les relations. Certaines des chansons les plus connues de l'album incluent « Dirty Blvd. », « Halloween Parade » et « Romeo Had Juliette ».
 
 #### Liste des chansons
 ```md

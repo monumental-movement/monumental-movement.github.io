@@ -122,7 +122,7 @@ flowchart LR
 ##4-2. Chute de type glitch/effondrement
 
 *bitcrush
-* étirement extrême
+* étirement temporel extrême
 *bruit intense, base FM
 
 <div class="mermaid">

@@ -11,19 +11,19 @@ tags:
 - 00s
 - 10s
 - 20s
-title: 【コラム】 Charlotte de Witte：テクノワールドの女王
+title: '[Chronique] Charlotte de Witte : Reine du monde techno'
 ---
 
 
-## 序章 ─ テクノ女王の台頭
+## Prologue ─ L'avènement de la reine de la techno
 
 
-文：mmr｜テーマ：Charlotte de Witte がどのようにして自身の「テクノワールド」を築き上げたのかを、ディスコグラフィやフェス出演歴、曲解説、年表、図解を交えて探る
+Texte : mmr | Thème : Découvrez comment Charlotte de Witte a construit son « monde techno » à travers sa discographie, son historique d'apparitions en festival, ses commentaires de chansons, sa chronologie et ses illustrations.
 
-ベルギー出身のDJ／プロデューサー **Charlotte de Witte（シャーロット・デ・ウィッテ）** は、現在テクノ界における最重要人物の一人として知られています。  
-彼女の重厚でミニマルなサウンド、エネルギッシュなライブセット、そして主要フェスでの歴史的出演は、彼女を「テクノ女王（Techno Queen）」と称される理由です。
+La DJ/productrice belge **Charlotte de Witte** est actuellement connue comme l'une des figures les plus importantes du monde techno.
+Son son profond et minimaliste, ses concerts énergiques et ses apparitions historiques dans les grands festivals lui ont valu le surnom de « Techno Queen ».
 
-彼女のキャリアは、地元ゲントのアンダーグラウンドクラブでの静かなスタートから、TomorrowlandやMovement Festivalといった世界的フェスのメインステージを駆け上がる壮大な物語です。  
+Sa carrière est une histoire épique, depuis ses modestes débuts dans les clubs underground de sa ville natale de Gand jusqu'aux scènes principales de festivals internationaux tels que Tomorrowland et Movement Festival.
 
 ---
 
@@ -41,40 +41,40 @@ color: #fff;
 </style>
 
 
-## 幼少期と原点（〜2010）
+## Enfance et origines (~2010)
 
-Charlotte Aloïs de Witte は **1992年7月21日**、ベルギー・ゲントで生まれました。  
-ティーンエイジャーの頃、地元クラブやアンダーグラウンド・パーティに足を運び、エレクトロニック・ミュージックや地下クラブ文化に強く惹かれていきます。  
-この時期に培われた「ナイトクラブ愛」や「アンダーグラウンドへの敬意」が、後の強靭なテクノ・ワールド形成の基盤となりました。
-
----
-
-## DJとしてのスタートと「Raving George」時代（2010–2014）
-
-約 **2010年**、Charlotte はDJとしての活動を開始しました。当初はエレクトロやEDM寄りのスタイルをプレイしていたと報告されています。  
-初期キャリアでは「Raving George」という別名義も使用し、2011年にはベルギーのラジオ局 Studio Brussel 主催のDJコンテストで優勝。これにより、Tomorrowland のメインステージ出演を果たしました。  
-
-EPリリースも行い、Bad Life や Crux Records などから初期作品を発表。徐々にDJとしての名声を高めつつ、テクノへの転向を模索していきました。
+Charlotte Aloïs de Witte est née le **21 juillet 1992** à Gand, en Belgique.
+Adolescent, il fréquente les clubs locaux et les soirées underground et développe une forte fascination pour la musique électronique et la culture des clubs underground.
+L'« amour des boîtes de nuit » et le « respect de l'underground » cultivés au cours de cette période sont devenus plus tard le fondement de la formation d'un monde techno fort.
 
 ---
 
-## 本名での活動とテクノへの転向（2015–2018）
+## Débuts en tant que DJ et époque « Raving George » (2010-2014)
 
-**2015年**、Charlotte は「Raving George」の名義を捨て、本名 **Charlotte de Witte** で活動を開始。  
-この時期、彼女のサウンドはよりダークでミニマル、アシッド・テクノやインダストリアル要素を含むスタイルに変化します。
+Vers **2010**, Charlotte a commencé sa carrière en tant que DJ. On rapporte qu'au départ, ils jouaient un style qui penchait vers l'électro et l'EDM.
+Au début de sa carrière, il a également utilisé le pseudonyme de « Raving George » et a remporté en 2011 un concours de DJ sponsorisé par la radio belge Studio Brussel. Cela lui a valu une apparition sur la scène principale de Tomorrowland.
 
-代表作としては以下が挙げられます：
+Il a également sorti un EP et a sorti ses premiers travaux sur des labels tels que Bad Life et Crux Records. Peu à peu, augmentant sa réputation de DJ, il commence à explorer les moyens de passer à la techno.
 
-- **Weltschmerz EP (2015, Turbo)**
-  - 代表曲：「Weltschmerz」  
-  - ダークで重厚なビート、アシッドラインを特徴とする。  
+---
 
-- **Closer EP (2017, KNTXT)**
-  - 代表曲：「Closer」  
-  - ミニマルな構造と反復的リズムにより、フロアをトランス状態に誘導。  
+## Travailler sous son vrai nom et se tourner vers la techno (2015-2018)
 
-- **Wisdom EP (2017, KNTXT)**  
-  - 代表曲：「Wisdom」  
+En **2015**, Charlotte a abandonné le nom « Raving George » et a commencé à travailler sous son vrai nom **Charlotte de Witte**.
+Durant cette période, son son prend un style plus sombre et minimaliste, incluant de la techno acide et des éléments industriels.
+
+Les œuvres représentatives comprennent :
+
+- **EP Weltschmerz (2015, Turbo)**
+- Chanson représentative : « Weltschmerz »
+- Présente un rythme sombre et lourd et une ligne acide.
+
+- **EP plus proche (2017, KNTXT)**
+- Chanson représentative : « Closer »
+- Induisez le sol dans un état de transe avec sa structure minimaliste et son rythme répétitif.
+
+- **EP Sagesse (2017, KNTXT)**
+- Chanson représentative : « Wisdom »
 - Composé en pensant au contrôle du sol pour les sets live.
 
 Il a également attiré l'attention internationale en apparaissant sur Essential Mix (2018) de BBC Radio 1.
@@ -249,6 +249,6 @@ La carrière de Charlotte de Witte est bien plus qu’une simple success story.
 Il a construit un monde qui incarne sa philosophie et sa sensibilité musicale, et le partage à travers son label, ses concerts et ses disques.
 
 Son premier album en 2025 est une expression introspective de son univers techno.
-Le monde techno de Charlotte de Witte continuera de s'étendre à travers ses apparitions en festival et ses activités en label.
+Le monde techno de Charlotte de Witte continuera de s'étendre à travers ses apparitions en festival et ses activités sur son label.
 
 ---

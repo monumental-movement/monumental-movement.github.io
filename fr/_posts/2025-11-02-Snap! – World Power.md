@@ -12,7 +12,7 @@ tags:
 - Euro House
 - Hiphop
 - 90s
-title: Snap! – World Power
+title: Instantané! – Puissance mondiale
 ---
 
 
@@ -22,7 +22,7 @@ title: Snap! – World Power
 
 
 
-1990年にLogic RecordsからリリースされたドイツのEurodance(ユーロダンス)プロジェクト Snap! (スナップ)のデビューアルバム。ヒット曲「The Power」「Ooops Up」「Mary Had A Little Boy」などが収録されたSnap! の代表作。
+Le premier album du projet allemand Eurodance Snap!, sorti par Logic Records en 1990. Le chef-d'œuvre de Snap!, qui comprend les chansons à succès "The Power", "Ooops Up" et "Mary Had A Little Boy".
 
 #### Liste des chansons
 ```md

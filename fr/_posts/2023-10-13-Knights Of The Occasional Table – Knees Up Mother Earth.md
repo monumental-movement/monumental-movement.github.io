@@ -15,7 +15,7 @@ title: Knights Of The Occasional Table – À genoux la Terre Mère
 
 Knights Of The Occasional Table est un groupe électronique du sud-est de Londres composé de Steve Radford, Nygel Packett, Andrew Cowen et du chanteur Aquamanda.
 
-Lorsque cet album est sorti en 1993, il figurait dans les Peel Sessions de John Peel.
+Lorsque cet album est sorti en 1993, il figurait sur les Peel Sessions de John Peel.
 
 #### Liste des chansons
 ```md

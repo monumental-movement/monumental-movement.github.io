@@ -21,7 +21,7 @@ title: '[Chronique] Glitchcore / Hyper-Glitch Pop continue de s''effondrer, le f
 Texte : mmr｜Thème : Processus de formation du Glitchcore/Hyper-Glitch, techniques acoustiques, contexte culturel, artistes représentatifs, développement dans les années 2020 et perspectives d'avenir
 
 Le Glitchcore et l'Hyper-Glitch sont une tendance de la musique pop/électronique générée sur Internet qui se produit depuis la fin des années 2010, avec la « corruption », la « fragmentation » et la « surcharge » au centre de son esthétique.
-Clics, bruit, distorsion numérique, pitch shifts, traitement de type Vocaloid, développement rapide des chansons, étranges fluctuations de tempo - la caractéristique la plus distinctive de cet album est qu'il tente d'exprimer un « équilibre entre excès et déclin » en fusionnant ces éléments dans un contexte hautement pop.
+Clics, bruit, distorsion numérique, pitch shifts, traitement de type Vocaloid, développement rapide des chansons, fluctuations bizarres du tempo - la caractéristique la plus distinctive de cet album est qu'il tente d'exprimer un « équilibre entre excès et déclin » en fusionnant ces éléments dans un contexte hautement pop.
 
 Des groupes tels que SOPHIE, A. G. Cook et 100 gecs ont porté cette « pop brisée » à un niveau international, prouvant que de nombreux artistes pouvaient « créer un langage musical global depuis leur propre chambre » grâce à des DAW et des packs d'échantillons.
 
@@ -76,7 +76,7 @@ Le BPM de Glitchcore n'est pas fixe et fluctue souvent sur une large plage de 10
 **Éléments caractéristiques :**
 
 * Changements de tempo extrêmes
-* Montage qui passe soudainement à une autre chanson au milieu de la chanson
+* Montage qui passe soudainement à une chanson différente au milieu d'une chanson
 * Des refrains courts et des mélodies fragmentées
 * Concentrez-vous sur des accroches solides de 15 à 30 secondes pour TikTok
 
@@ -94,7 +94,7 @@ Traitement typique :
 * Ajout d'un sentiment de caractère grâce à la manipulation des formants
 * Utilisation mixte de sources sonores Vocaloid
 
-La méthode consistant à « jouer plusieurs couches de voix en même temps », comme 100 gecs, est considérée comme un symbole de l'Hyper-Glitch.
+La méthode consistant à « jouer plusieurs couches de voix en même temps » comme 100 gecs est considérée comme un symbole de l'Hyper-Glitch.
 
 ---
 
@@ -131,7 +131,7 @@ Caractéristiques typiques :
 
 ---
 
-### 3-2　100 gés
+### 3-2　100 gecs
 
 100 gecs (Laura Les & Dylan Brady) est une icône du Glitchcore. Ils ont mélangé l'emo, le ska, le métal, la trap et le Bubblegum Pop dans un état frénétique, transformant « l'effondrement du genre » en pop.
 
@@ -192,7 +192,7 @@ indiquer:
 
 * Tir simultané des tiges
 * Superposition de couches denses
-* Trop de basses
+* Gamme basse excessive
 * Utilisation extrême de limiteurs de pression acoustique
 
 ---
@@ -268,7 +268,7 @@ Une autre caractéristique majeure est que les expressions de style anime, la cu
 
 ### 7-3 Personnalité SoundCloud
 
-Osquinn et Glaive ont apporté des progressions d'accords emo, des touches de guitare et des voix aériennes au Glitchcore. Cela représente une direction mélodique plus introvertie par rapport à la nature « avant-gardiste » de l’Hyperpop.
+Osquinn et Glaive ont apporté des progressions d'accords emo, des touches de guitare et des voix légères au Glitchcore. Cela représente une direction mélodique plus introvertie par rapport à la nature « avant-gardiste » de l’Hyperpop.
 
 ---
 
@@ -317,7 +317,7 @@ Celles-ci sont tout à fait cohérentes avec les techniques du Glitchcore.
 
 ### 10-2 Le « pop cassé » sera-t-il standardisé ?
 
-Les traitements destructeurs comme Hyper-Glitch commencent déjà à trouver leur place dans la pop grand public. À l'avenir, il y a de fortes chances que le « glitch en tant qu'idée de production » devienne un outil standard plutôt que des limites en tant que genre.
+Les traitements destructeurs comme Hyper-Glitch commencent déjà à trouver leur place dans la pop grand public. À l'avenir, il est fort possible que le « glitch » en tant qu'idée de production devienne un outil standard plutôt que des limites en tant que genre.
 
 ---
 

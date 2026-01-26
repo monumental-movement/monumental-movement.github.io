@@ -9,7 +9,7 @@ permalink: /fr/johan-bacto-mankind-3/
 tags:
 - Techno
 - 90s
-title: Johan Bacto – L'humanité 3
+title: Johan Bacto – L’humanité 3
 ---
 
 

@@ -78,7 +78,7 @@ L'intrigue est simple, mais ce qui mérite d'être souligné, c'est l'intégrati
 
 ## Chapitre 3 : Phénomène « Disco » en Inde dans les années 1980
 
-Après le succès de « Disco Dancer » (1982, hindi) et « Ilamai Oonjal Aadukirathu » (1978, tamoul), la culture disco s'est répandue dans toute l'Inde comme symbole de « danse = liberté ».
+Après le succès de « Disco Dancer » (1982, hindi) et « Ilamai Oonjal Aadukirathu » (1978, tamoul), la culture disco s'est répandue à travers l'Inde comme symbole de « danse = liberté ».
 
 Dans le sud de l’Inde, cette tendance a pris une variante unique. Alors que les discothèques de Mumbai décrivaient un « rêve urbain », **les discothèques des films kannada étaient une expression de la « fierté régionale »**.
 
@@ -92,7 +92,7 @@ Cette « hybridité » est au cœur de la musique du sud de l’Inde.
 Les scènes de danse de « Dance Raja Dance » étaient si ingénieuses qu'elles dépassaient les limites de la technologie cinématographique indienne de l'époque. En utilisant pleinement les effets d'éclairage, de fumée et de miroir, une **composition d'art vidéo** qui semble destinée à la génération MTV est développée.
 
 Le chorégraphe était Mugur Sundar (plus tard le père du célèbre maître de danse Prabhu Deva), qui était alors prometteur.
-Tout en faisant référence à des pas de films hollywoodiens, il a hardiment mélangé des éléments de **gestes de la main Bharatanatyam (mudras)** et de danse folklorique.
+Tout en faisant référence à des pas de films hollywoodiens, il a mélangé avec audace des éléments de **gestes de la main Bharatanatyam (mudras)** et de danse folklorique.
 Cette "ambiance MTV du sud de l'Inde" a ensuite été héritée par A.R. Rehman et Harris Jayaraj.
 
 ---
@@ -112,7 +112,7 @@ Surmonter les contraintes du travail, de la classe et de la famille et réussir 
 | Titre de la chanson | Chanteur | Caractéristiques | Remarques |
 |------|------|------|------|
 | **Danse Raja Danse** | SP Balasubrahmanyam | Batterie électronique + rythme folk | Thème d'ouverture |
-| **Préma Préma** | S. Janaki | Pad de synthé + mélodie raga | Scène romantique |
+| **Préma Préma** | S. Janaki | Pad de synthétiseur + mélodie raga | Scène romantique |
 | **Ninna Preetige** | Mano, Vani Jairam | Structure d'appel et de réponse | Utilisé dans des situations de concours |
 | **Mélange final** | Divers | Reprise de la composition de toutes les chansons | Scène finale de danse |
 

@@ -167,7 +167,7 @@ Exprimer « l'esprit de liberté et de paix » basé sur l'idéologie rastafarie
 - Les activités d'Alpha Blondy ont donné du courage aux artistes du reggae sud-africains.
 - Certains artistes imitent ses chansons et créent leurs propres chansons contestataires.
 
-### 7.2 Influence internationale
+### 7.2 Impact international
 - Informer les auditeurs du monde entier sur l'état actuel de l'apartheid et promouvoir la solidarité internationale.
 - Ses chansons ont été utilisées lors de nombreux événements caritatifs et concerts anti-apartheid.
 

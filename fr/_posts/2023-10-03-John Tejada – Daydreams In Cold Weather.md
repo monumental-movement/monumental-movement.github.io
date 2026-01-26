@@ -9,12 +9,12 @@ permalink: /fr/john-tejada-daydreams-in-cold-weather/
 tags:
 - IDM
 - Electro
-title: John Tejada – Daydreams In Cold Weather
+title: John Tejada – Rêveries par temps froid
 ---
 
 
-「Daydreams In Cold Weather」は、
-2002年にUKのレーベル「Plug Research」からリリースされたJohn Tejadaによる２枚組LPです。
+« Rêveries par temps froid » est
+Il s'agit d'un double LP de John Tejada sorti en 2002 par le label britannique "Plug Research".
 
 #### Liste des chansons
 ```md

@@ -29,7 +29,7 @@ Une méthode sans précédent de **reconstruction** de chansons préenregistrée
 Son nom est --**DUB**.
 
 Supprimez les voix d'une chanson existante, ne laissant que le rythme et la basse,
-Jouez l'espace lui-même en utilisant pleinement l'écho et la réverbération.
+Jouez l’espace lui-même en utilisant pleinement l’écho et la réverbération.
 Cette innovation n'était pas seulement un « remix » mais une redéfinition de la musique.
 
 Cette idée dub est devenue plus tard **hip-hop, techno, ambient, noise**,
@@ -152,7 +152,7 @@ C'est l'esthétique du manque et l'idée de reproduction.
 
 Ce type de réflexion de type doublage est également courant dans la **génération musicale IA** et la **culture du remix** modernes.
 L'acte de « éditer » et de « recomposer » le son lui-même est
-C'est la base des actes créatifs du 21e siècle.
+C'est la base des actes créatifs du 21ème siècle.
 
 ---
 

@@ -59,12 +59,12 @@ Un ami a ajouté des effets sonores et des rires aux enregistrements, et son sen
 ### Chapitre 1 : Happy End - L'aube du rock japonais (1969-1972)
 
 #### Œuvre représentative : « Kazamachi Roman » (1971)
-Une œuvre monumentale qui dépeint pour la première fois l’atmosphère poétique de la ville de Tokyo dans le contexte du rock.
+Une œuvre monumentale qui dépeint pour la première fois l'atmosphère poétique de la ville de Tokyo dans le contexte du rock.
 Durant cette période, Hosono a joué un rôle important dans la composition musicale tout en jouant de la basse.
 Des chansons telles que « It's Summer » et « Gather the Wind » ont un son urbain mais nostalgique.
 
 #### Contexte historique
-Au milieu d’une forte croissance économique après la guerre.
+En pleine croissance économique d’après-guerre.
 Avec l'essor du folk et du GS, la recherche d'une nouvelle expression appelée « rock japonais » a commencé.
 Happy End a été le premier groupe à explorer « des rythmes japonais qui n'étaient pas des imitations de l'anglais ».
 
@@ -73,7 +73,7 @@ Les enregistrements à cette époque ont été réalisés dans le studio prédé
 Bien qu'influencés par des groupes américains tels que The Band et Buffalo Springfield, ils mettent en avant les paroles littéraires japonaises.
 
 #### Anecdote
-Hosono, frustré par les nombreux problèmes d'équipement lors de l'enregistrement, aurait déclaré: «Je veux un endroit où je peux enregistrer un peu mieux le son.»
+Hosono, frustré par les nombreux problèmes d'équipement lors de l'enregistrement, aurait déclaré : « Je veux un endroit où je peux enregistrer un peu mieux le son. »
 Après cela, c’est devenu la base pour lui permettre de poursuivre ses propres idéaux sonores.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3vGkvlNZS5Y?si=Ri3xftRPb2Awn9EP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -128,7 +128,7 @@ Il y a eu beaucoup d'essais et d'erreurs dans la création de chansons parmi les
 
 ### Chapitre 4 : Trilogie tropicale – Exploration de l'exotisme (1973-1978)
 
-#### 代表作：
+#### Travaux représentatifs :
 
 - "Dandy tropical" (1975)
 - "Taian Yoko" (1976)
@@ -145,7 +145,7 @@ Le Japon après le choc pétrolier. Mon désir de voyages à l’étranger et de
 #### Environnement de production
 Enregistré à la maison/studio "HOSONO HOUSE" (Saitama, Sayama).
 Ils ont transformé le salon d'une maison en bois en studio et ont enregistré à l'aide d'une bande analogique et d'un simple mixeur.
-Ce style d'enregistrement à domicile est devenu l'origine de la culture pop urbaine et de l'enregistrement à domicile plus tard.
+Ce style d'enregistrement à domicile est devenu l'origine de la culture pop urbaine et de l'enregistrement à domicile.
 
 #### Anecdote
 Pendant l'enregistrement de "HOSONO HOUSE", le disjoncteur s'est déclenché à plusieurs reprises.
@@ -158,7 +158,7 @@ Cette atmosphère détendue se reflète dans le son chaleureux et organique.
 
 ### Chapitre 5 : Révolution Technopop - YMO et l'avenir de l'électronique (1978-1983)
 
-#### 代表作：
+#### Travaux représentatifs :
 - **Yellow Magic Orchestra『Solid State Survivor』(1979)**
 - **"BGM" (1981)**
 - **"Technodélique" (1981)**
@@ -167,7 +167,7 @@ YMO (Yellow Magic Orchestra) est une unité révolutionnaire qui a fait connaît
 En tant que leader, Hosono a utilisé des machines à rythmes et des séquenceurs pour fusionner humour asiatique et sons futuristes.
 
 #### Contexte historique
-Au début des années 1980, le Japon atteint l’apogée de sa prospérité technologique et économique.
+Au début des années 1980, le Japon atteint le sommet de sa croissance technologique et économique.
 Une époque où le développement des ordinateurs, des jeux vidéo et des instruments de musique électroniques fusionnait avec la musique.
 Le son de YMO était un symbole du Japon en tant que nation électronique.
 
@@ -186,7 +186,7 @@ Le public a ri, les membres aussi. Hosono aurait dit : « Les machines sont comm
 
 ### Chapitre 6 : Pop in Silence - Travail ambiant et solo (1984-1990)
 
-#### 代表作：
+#### Travaux représentatifs :
 - "Philharmonie" (1982)
 - « Omni Sight Seeing » (1989)
 
@@ -212,7 +212,7 @@ Hosono a dit en plaisantant : « La musique, c'est vivre avec le hasard. »
 
 ### Chapitre 7 : Musique de paysage – Bandes sonores et sons ambiants (1990-2000)
 
-#### 代表作：
+#### Travaux représentatifs :
 - "Nuit sur le chemin de fer galactique" (1985)
 - "Minima Moralia" (1986)
 - "EMI" (1995)
@@ -240,7 +240,7 @@ Ce son reste faiblement dans le morceau final.
 
 ### Chapitre 8 : Chansons country et folkloriques - Sons de terre et de mémoire (2000-2015)
 
-#### 代表作：
+#### Travaux représentatifs :
 - «HoSoNoVa» (2011)
 - « Musique céleste » (2013)
 
@@ -258,7 +258,7 @@ Pendant l'enregistrement, il a éteint le climatiseur et s'est concentré sur «
 
 #### Anecdote
 Quand l'ingénieur du son a arrêté de mixer pendant l'enregistrement de "HoSoNoVa",
-Hosono aurait déclaré : « J'aime la façon dont le son repose. » Vous pouvez avoir un aperçu de son attention inhabituelle envers « l'espace » du son.
+Hosono aurait déclaré : « J'aime la façon dont le son se repose. » Vous pouvez avoir un aperçu de son attention inhabituelle envers « l'espace » du son.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qeHTFlkBBcM?si=pM6PE5l2p5zEWcoy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -266,7 +266,7 @@ Hosono aurait déclaré : « J'aime la façon dont le son repose. » Vous pouvez
 
 ### Chapitre 9 : « L’hosono-isme » à l’ère numérique – De la logique tranquille à nos jours (2015–)
 
-#### 代表作：
+#### Travaux représentatifs :
 - « Logique tranquille » (2024)
 - « Vu Jà Dé » (2018)
 

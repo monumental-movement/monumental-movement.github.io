@@ -64,7 +64,7 @@ La philosophie du Sense Club était claire. «La danse n'est pas seulement un mo
 
 ### Premières anecdotes live du Sense Club
 
-Un soir, il y avait environ 300 personnes à l'étage du club. Villalobos joue de longues pistes en séquence, effectuant des ajustements minutieux sur la platine. Pendant ce temps, Luciano mixait des échantillons d'instruments à percussion en temps réel. Le public a dansé longtemps et à la fin du set, il semblait s'être fondu dans le courant du temps. Cette expérience a été un moment qui symbolisait les philosophies musicales des deux.
+Un soir, il y avait environ 300 personnes à l'étage du club. Villalobos joue de longues pistes en séquence, effectuant des ajustements minutieux sur la platine. Pendant ce temps, Luciano mixait des échantillons d'instruments à percussion en temps réel. Le public a dansé longtemps et à la fin du set, il semblait s'être fondu dans le courant du temps. Cette expérience a été un moment qui symbolise les philosophies musicales des deux.
 
 ---
 
@@ -92,7 +92,7 @@ Exemples de chansons incluses dans l'album :
 
 ## Chapitre 4 Intersection de la culture et du son
 
-Leur musique est bien plus que de simples rythmes. En combinant la précision allemande de Villalobos avec la musique électronique et les sensibilités rythmiques sud-américaines de Luciano, le club est passé d'un simple terrain de jeu à un lieu qui incarne la culture. Le public se déplaçait sans le savoir entre deux mondes alors qu’il s’abandonnait au rythme.
+Leur musique est bien plus que de simples rythmes. En combinant la précision allemande de Villalobos avec la musique électronique et les sensibilités rythmiques sud-américaines de Luciano, le club est devenu plus qu'un simple terrain de jeu, mais une incarnation culturelle. Le public se déplaçait sans le savoir entre deux mondes alors qu’il s’abandonnait au rythme.
 
 ### Révolution du rythme et du corps
 
@@ -156,7 +156,7 @@ timeline
 
 ## Conclusion
 
-Les efforts de Ricardo Villalobos, Luciano et Sense Club sont allés au-delà de la simple popularité des clubs et ont ouvert de nouveaux horizons dans les domaines de la musique, de la culture et du corps, de la fin des années 1990 aux années 2000. La musique qu'ils ont laissée derrière eux n'est pas une gloire passée, mais un indice pour l'avenir et continue d'avoir une solide influence sur la culture des clubs d'aujourd'hui.
+Les efforts de Ricardo Villalobos, Luciano et Sense Club sont allés au-delà de la simple popularité des clubs et ont ouvert de nouveaux horizons dans la musique, la culture et le corps de la fin des années 1990 aux années 2000. La musique qu'ils ont laissée derrière eux n'est pas une gloire passée, mais un indice pour l'avenir et continue d'avoir une solide influence sur la culture des clubs d'aujourd'hui.
 
 ---
 

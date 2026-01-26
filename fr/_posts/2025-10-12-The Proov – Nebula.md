@@ -13,9 +13,9 @@ title: La preuve – Nébuleuse
 ---
 
 
-The Proov は、1996年に結成したオランダ出身のMC Gumshoe（Sven Willemsen）とMC CeeMajor（Cor Giesing）によるヒップホップデュオ。Proovはジャジーでダスティなファンクのスタイルから、エレクトロ的な響きまでをヒップホップとして表現する独自のスタイルが特徴。
+The Proov est un duo hip-hop néerlandais formé en 1996 par MC Gumshoe (Sven Willemsen) et MC CeeMajor (Cor Giesing). Proov a un style unique qui exprime tout, du funk jazzy et poussiéreux aux sons électro en passant par le hip-hop.
 
-「Nebula」は2003年にオランダのプロデューサーPerquisite主宰のレーベルUnexpected RecordsからリリースされたHip Hop。
+"Nebula" est une chanson hip hop sortie en 2003 par le label Unexpected Records du producteur néerlandais Perquisite.
 
 #### Liste des chansons
 ```md

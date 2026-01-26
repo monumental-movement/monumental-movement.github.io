@@ -9,15 +9,15 @@ permalink: /fr/rexanthony-live-in-rome/
 tags:
 - Techno
 - Hardcore
-title: Rexanthony – Live In Rome
+title: Rexanthony – Live à Rome
 ---
 
 
-「Live In Rome」は、イタリアのDJ・プロデューサーであるレクサンソニー（Rexanthony）によるライブアルバムです。このアルバムは、彼のライブパフォーマンスを収めた作品としてリリースされました。
+"Live In Rome" est un album live du DJ et producteur italien Rexanthony. Cet album est sorti comme une collection de ses performances live.
 
-レクサンソニーは、テクノやハードトランスなどのエレクトロニックミュージックジャンルで活躍しており、そのパフォーマンスのエネルギーと独自のスタイルで知られています。彼のライブセットは、パワフルなビート、ハードなシンセサウンド、エフェクトの使用など、クラブやフェスティバルの観客を魅了する要素が詰まっています。
+Lexanthony est actif dans les genres de musique électronique tels que la techno et la hard trance, et est connu pour l'énergie et le style unique de ses performances. Ses sets live sont remplis de rythmes puissants, de sons de synthétiseur durs et d'effets pour attirer les foules des clubs et des festivals.
 
-「Live In Rome」は、レクサンソニーのライブパフォーマンスをオーディオとして体験することができる作品です。アルバムには、彼の代表曲やリミックスが収録されており、会場のエネルギーと観客の反応を感じることができます。
+"Live In Rome" est une œuvre qui vous permet de vivre la performance live de Lexanthony sous forme audio. L'album comprend ses chansons et remixes signatures, vous permettant de ressentir l'énergie de la salle et la réaction du public.
 
 #### Liste des chansons
 ```md

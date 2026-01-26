@@ -11,7 +11,7 @@ tags:
 - Citypop
 - History
 - 80s
-title: '[Chronique] Redécouvrir la City Pop : Pourquoi les DJ et YouTubers étrangers
+title: '[Chronique] Redécouvrir la City Pop : Pourquoi les DJ et YouTubeurs étrangers
   en sont accros'
 ---
 
@@ -51,7 +51,7 @@ color: #fff;
 Sa musicalité est à plusieurs niveaux. AOR, soul, funk, jazz, disco – basés sur la musique noire occidentale, ils allient beauté mélodique et poésie japonaise. L'harmonie vocale précise de Tatsuro Yamashita, la mélodie douce mais déchirante de Mariya Takeuchi et la production structurée d'Eiichi Otaki. Tous fonctionnaient comme une « redéfinition japonaise de la pop ».
 
 Les thèmes de cette musique sont résumés dans des motifs tels que l'amour, la vie nocturne, la solitude et le mouvement. Même si l’action se déroule en ville, il y a un certain sentiment d’être laissé pour compte.
-Il s'agissait d'une « peinture de paysage privé » représentant la richesse et le vide provoqués par une croissance économique rapide comme un sentiment personnel. C’est pourquoi il trouve un écho auprès des auditeurs étrangers modernes. En effet, à l’heure de l’urbanisation et de la numérisation, eux aussi sont confrontés à la même solitude.
+Il s'agissait d'une « peinture de paysage privé » représentant la richesse et le vide provoqués par une croissance économique rapide comme un sentiment personnel. C’est pourquoi il trouve un écho auprès des auditeurs étrangers modernes. Maintenant que l’urbanisation et la numérisation ont progressé, ils sont eux aussi confrontés à la même solitude.
 
 ---
 
@@ -61,7 +61,7 @@ De la fin des années 1970 aux années 1980, la société japonaise a rapidement
 Les appareils électroménagers, les voitures, la mode et la musique symbolisaient le « mode de vie urbain ».
 Le Walkman de Sony (1979) a marqué le début d'une révolution en « transportant de la musique avec soi » et City Pop est devenu la bande originale idéale.
 
-Les stations FM s'ouvrent les unes après les autres et les DJ diffusent les derniers hits en anglais. La progression d'accords évoque les vents de la côte ouest américaine et est associée à des images de villes telles que Tokyo, Yokohama et Kobe.
+Les stations FM s'ouvrent les unes après les autres et les DJ diffusent les derniers hits en anglais. La progression d'accords, qui évoque les vents de la côte ouest américaine, est liée à des images de villes comme Tokyo, Yokohama et Kobe.
 On peut dire que les auditeurs de l'époque s'exprimaient « vivre en ville » à travers la city pop.
 Durant cette période, la technologie d'enregistrement japonaise a atteint le plus haut niveau au monde et la qualité sonore des disques était extrêmement élevée. C’était une époque où la ville résonnait vraiment tant sur le plan acoustique que social.
 
@@ -74,7 +74,7 @@ La progression d'accords utilise fréquemment le 7e et le 9e majeur, créant une
 Bien que le rythme soit de type AOR, il absorbe les tendances disco et soul de l'époque, et se caractérise par un léger groove d'environ 110 BPM.
 
 En termes d'enregistrement, « l'esthétique de l'espace » créée par l'équipement analogique et les ingénieurs qualifiés de l'époque brille.
-Le traitement de la réverbération et l'égalisation de précision du studio ont permis d'obtenir à la fois transparence et humidité.
+Le traitement de la réverbération et la précision de l'égalisation du studio ont permis d'obtenir à la fois « transparence » et « humidité ».
 En particulier, « SPACY » (1978) de Tatsuro Yamashita est transmis comme une œuvre monumentale qui a élevé le talent artistique de l'enregistrement en studio à ses limites ultimes.
 La perfection de ce son est l’une des raisons pour lesquelles il a été « découvert » outre-mer plus de 40 ans plus tard.
 
@@ -118,7 +118,7 @@ Cette musique n'est pas seulement nostalgique, mais une fusion de l'éclat des a
 Pour les DJ, la city pop est un « tempo dansant et confortable » de 110 à 115 BPM.
 Il a une qualité sonore parfaite comme matériau d'échantillonnage.
 
-Lorsqu'ils sont éclairés par les lumières du club, les sons de Mariya Takeuchi et Toshio Kadomatsu résonnent comme des airs de danse moderne.
+Lorsqu'ils sont illuminés par les lumières du club, les sons de Mariya Takeuchi et Toshio Kadomatsu résonnent comme des airs de danse moderne.
 C'était une nouvelle expérience consistant à « danser le futur avec le passé » plutôt que de « reconstituer le passé ».
 
 ---
@@ -131,8 +131,8 @@ En conséquence, la culture japonaise des années 1980 a été reconvertie en un
 
 De la même manière, le Lo-fi Hip Hop est connecté à la culture BGM de YouTube et se propage sous forme de « vibes japonaises des années 80 ».
 Un extrait de city pop joué comme musique de fond pour étudier a été joué des centaines de millions de fois.
-En d’autres termes, le contexte de la musique a été complètement déconstruit et la musique pop japonaise est devenue un matériau d’émotions mondiales.
-C’est là l’essence de la « nostalgie numérique », qui va au-delà de la traduction culturelle.
+En d’autres termes, le contexte musical a été complètement déconstruit et la musique pop japonaise est devenue un matériau d’émotions mondiales.
+C'est là que réside l'essence de la « nostalgie numérique », qui va au-delà de la traduction culturelle.
 
 ---
 

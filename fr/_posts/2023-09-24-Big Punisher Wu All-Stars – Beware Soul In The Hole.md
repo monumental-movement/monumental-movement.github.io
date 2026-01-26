@@ -10,15 +10,15 @@ tags:
 - Hiphop
 - Wu-Tang
 - 90s
-title: Big Punisher Wu All-Stars – Beware Soul In The Hole
+title: Big Punisher Wu All-Stars – Attention à l’âme dans le trou
 ---
 
 
-「Beware」 言葉遊びや素早いラップスタイルで知られる実力派ラッパー Big Punishe(BigPun)による楽曲です。彼の特徴的なフローと巧みな言葉遊びが際立っています。
+"Beware" Une chanson du talentueux rappeur Big Punishe (BigPun), connu pour son jeu de mots et son style de rap rapide. Son flux caractéristique et son jeu de mots intelligent se démarquent.
 
-「Soul In The Hole」 Wu-Tang Clanに関連するアーティストの集団 Wu All-Starsによる楽曲で、同名のバスケットボールのドキュメンタリー映画へのオマージュとなっており、ニューヨーク市のストリートバスケットボールカルチャーのグリッティなエッセンスを捉え、エネルギッシュなラップバースとキャッチーなコーラスを組み合わせています。
+"Soul In The Hole" Une chanson de Wu All-Stars, un groupe d'artistes associés au Wu-Tang Clan, cette chanson rend hommage au film documentaire sur le basket-ball du même nom, capturant l'essence brute de la culture du basket-ball de rue de New York et combinant un couplet de rap énergique avec un refrain accrocheur.
 
-どちらの曲も、1990年代後半の東海岸ヒップホップシーンが色濃くでています。
+Les deux chansons sont fortement influencées par la scène hip-hop de la côte Est de la fin des années 1990.
 
 #### Liste des chansons
 ```md

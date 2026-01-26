@@ -9,13 +9,13 @@ permalink: /fr/diego-ray-superhero/
 tags:
 - House
 - 00s
-title: Diego Ray – Superhero
+title: Diego Ray – Super-héros
 ---
 
 
-Diego Rayは、イタリア系アメリカ人のDJ・プロデューサー。
+Diego Ray est un DJ et producteur italo-américain.
 
-「Superhero」は、イタリアを拠点とするハウス / トライバルハウスのレーベルDee-P-erfectから2005年にリリースされたハウストラック。
+"Superhero" est un morceau house sorti en 2005 par le label house/tribal house italien Dee-P-erfect.
 
 #### Liste des chansons
 ```md

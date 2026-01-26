@@ -17,7 +17,7 @@ title: Vie en spirale – S'épanouir
 
 "Flourish", sorti en 1995, est le troisième album studio et le dernier album de Spiral Life.
 
-Spiral Life est une unité composée de Koji Kurumatani et Shokichi Ishida qui furent actifs de 1993 à 1996. Au cours de leurs trois années d'activités, ils ont sorti trois albums originaux, dont "Flourish" est devenu leur plus grand succès.
+Spiral Life (1993-1996) Au cours de leurs trois années d'activité, ils ont sorti trois albums originaux, avec "Flourish" devient leur plus gros succès.
 
 La chanson « GARDEN » a été utilisée comme thème d'ouverture du « Asakusabashi Young Clothing Store ».
 

@@ -11,7 +11,7 @@ tags:
 - RnB
 - Ragga
 - HipHop
-title: The Labrat – Eh
+title: Le Labrat – Eh
 ---
 
 
@@ -21,7 +21,7 @@ title: The Labrat – Eh
 
 
 
-Muy Caliente RecordsからリリースされたThe LabratによるHipHop／Ragga HipHopトラック。同じカテゴリーナンバーで、ラベルのテキストが黒文字ver.と赤文字ver.が存在し、このレコードは赤文字ver.。
+HipHop/Ragga HipHop track de The Labrat sorti sur Muy Caliente Records. Avec le même numéro de catégorie, il existe une version en texte noir et une version en texte rouge du texte de l'étiquette, et cet enregistrement est la version en texte rouge.
 
 #### Liste des chansons
 ```md

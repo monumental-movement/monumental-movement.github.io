@@ -19,7 +19,7 @@ Les première et deuxième chansons de la face A sont des remix du DJ/producteur
 
 Le troisième morceau de la face A est un remix de l'écrivain et compositeur synth pop américain Dave Sears.
 
-B面は、イギリスのミュージシャン、ソングライター、DJ、音楽監督、アレンジャーSteve Anderson(スティーヴ・アンダーソン)によるremix。
+La face B est un remix du musicien, auteur-compositeur, DJ, directeur musical et arrangeur britannique Steve Anderson.
 
 #### Liste des chansons
 ```md

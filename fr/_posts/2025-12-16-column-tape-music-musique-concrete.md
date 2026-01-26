@@ -22,11 +22,11 @@ Texte : mmr｜Thème : « Redéfinir la musique sur bande/musique concrète dans
 
 ### 1.1 Isolement des phénomènes acoustiques
 
-具体音楽以前、音楽は音高・リズム・和声といった抽象化された要素の組み合わせとして扱われてきた. Cependant, avec le développement de la technologie d'enregistrement, le son a été isolé en tant qu'événement temporel et spatial et est devenu un objet qui peut être réorganisé.
+Avant la musique concrète, la musique était traitée comme une combinaison d’éléments abstraits tels que la hauteur, le rythme et l’harmonie. Cependant, avec le développement de la technologie d’enregistrement, le son a été isolé en tant qu’événement temporel et spatial et est devenu un objet réorganisable. Cette idée est devenue le point de départ du démantèlement de la distinction entre sons instrumentaux et sons environnementaux.
 
 ### 1.2 Technologie de radiodiffusion et espace expérimental
 
-L'installation de recherche rattachée à la station de radiodiffusion fonctionnait comme un espace expérimental différent de la salle de spectacle. Les sons joués dans un espace exclusivement destiné à la reproduction ont été séparés du corps de l'interprète et l'acte d'écoute lui-même a été restructuré.
+Le centre de recherche rattaché à la station de radiodiffusion fonctionnait comme un espace expérimental différent de la salle de spectacle. Les sons joués dans un espace exclusivement destiné à la reproduction ont été séparés du corps de l'interprète et l'acte d'écoute lui-même a été restructuré.
 
 
 ---
@@ -109,7 +109,7 @@ La manipulation de bandes est devenue le prototype de l'électronique live ulté
 
 ### 7.1 Affirmation du bruit
 
-Avec la musique sur bande, la distorsion, le sifflement et les marques d'édition n'étaient pas éliminés, mais traités comme faisant partie de la structure musicale. Ceci est directement lié à l’esthétique de la pratique du bruit dans les années 1970.
+Avec la musique sur bande, la distorsion, le sifflement et les marques de montage n'étaient pas éliminés, mais traités comme faisant partie de la structure musicale. Ceci est directement lié à l’esthétique de la pratique du bruit dans les années 1970.
 
 ### 7.2 Bruit spécifique au média
 
@@ -137,7 +137,7 @@ La musique sur bande ne nécessite pas nécessairement un début, un développem
 
 ### 9.2 Recyclage de l'écoute
 
-Le processus par lequel les sons réels étaient abstraits obligeait les auditeurs à diriger leur attention d’une nouvelle manière.
+Le processus par lequel les sons réels étaient abstraits obligeait les auditeurs à diriger leur attention d’une manière nouvelle.
 
 ---
 

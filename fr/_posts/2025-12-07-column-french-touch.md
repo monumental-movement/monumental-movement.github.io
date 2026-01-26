@@ -151,7 +151,7 @@ Dans ce contexte, « l’esthétique de l’échantillonnage », le « travail d
 
 ---
 
-- Reconnaissance mondiale en tant qu'« inspecteur nordique », etc.
+- Mondialement acclamé comme « Inspecteur Norse », etc.
 - Utilisation intensive de synthés analogiques Roland et Korg
 - Moderniser ** la construction longue semblable à une maison de filtre **
 
@@ -190,7 +190,7 @@ Le balayage du filtre de French Touch reposait sur des changements harmoniques a
 
 ### ◆ ② Culture du disque : production musicale basée sur l'échantillonnage
 Une grande partie de la French Touch commence avec des échantillons de vinyles.
-C'est là que réside la « joie de découvrir » la musique**.
+Voici la « joie de découvrir » la musique**.
 C’était l’ambiance de l’époque où la culture des clubs et la culture du disque étaient directement liées.
 Creuser des archives en soi était la porte d’entrée vers la création.
 

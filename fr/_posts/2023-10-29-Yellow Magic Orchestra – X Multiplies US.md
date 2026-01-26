@@ -9,7 +9,7 @@ permalink: /fr/yellow-magic-orchestra-x-multiplies-us/
 tags:
 - JPop
 - Techno
-title: Yellow Magic Orchestra – X∞Multiplies
+title: Yellow Magic Orchestra – X∞Multiplie
 ---
 
 

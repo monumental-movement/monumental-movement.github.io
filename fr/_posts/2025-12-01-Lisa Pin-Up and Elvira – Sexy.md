@@ -14,13 +14,13 @@ title: Lisa Pin-Up & Elvira – Sexy
 ---
 
 
-Lisa Pin-Up (Lisa Chilcott)は、イギリスのハードハウス DJ／プロデューサー。Hard House/Nu NRGアクトTidy Girlsのメンバーとしても活動している。
+Lisa Pin-Up (Lisa Chilcott) est une DJ/productrice britannique de hard house. Il est également membre du groupe Tidy Girls de Hard House/Nu NRG.
 
-ElviraことPorl Youngは、UKのプロデューサー／DJ。90年代中頃は、UKのgothic rockバンドRosetta Stoneのメンバーとして活動していた。
+Porl Young, également connue sous le nom d'Elvira, est une productrice/DJ britannique. Au milieu des années 90, il était membre du groupe de rock gothique britannique Rosetta Stone.
 
-「Sexy」は2000年レーベルRock Hard RecordingsからリリースされたHard Houseトラック。
+"Sexy" est un morceau Hard House sorti par le label Rock Hard Recordings en 2000.
 
-Bは、ベルギーのエレクトロニックミュージックプロデューサーFred BakerのFrenchtek/jumpstyle 名義soloによるremix。
+B est un remix du solo du producteur de musique électronique belge Fred Baker sous le nom de Frenchtek/jumpstyle.
 
 #### Liste des chansons
 ```md

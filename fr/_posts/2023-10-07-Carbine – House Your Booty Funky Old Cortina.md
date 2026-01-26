@@ -9,19 +9,19 @@ permalink: /fr/carbine-house-your-booty-funky-old-cortina/
 tags:
 - Techno
 - Acid
-title: Carbine – House Your Booty Funky Old Cortina
+title: Carabine – Maison votre butin Funky Old Cortina
 ---
 
 
-「House Your Booty / Funky Old Cortina」は、Carbineのシングルとしてリリースされた楽曲であり、2つのトラックが収録されています。
+"House Your Booty / Funky Old Cortina" est une chanson sortie en single par Carbine et contient deux titres.
 
-「House Your Booty」は、エネルギッシュでグルーヴィなハウストラックであり、フロアを盛り上げるためのビートとリズムが特徴です。キャッチーなサンプリングやフンキーなベースラインが、踊りたくなる雰囲気を醸し出しています。
+"House Your Booty" est un morceau house énergique et groovy avec un rythme et un rythme qui font bouger la piste. Le sample accrocheur et la ligne de basse funky créent une ambiance qui donne envie de danser.
 
-一方、「Funky Old Cortina」は、よりファンキーでレトロな要素を持つ楽曲です。タイトなドラムビートやクラシックなファンクサウンドが特徴であり、ヴィンテージな雰囲気を楽しむことができます。
+D'un autre côté, "Funky Old Cortina" est une chanson avec des éléments plus funky et rétro. Il présente des rythmes de batterie serrés et des sons funk classiques, vous permettant de profiter d'une atmosphère vintage.
 
-Carbineの音楽は、ダンスフロアを意識したハウスミュージックのスタイルであり、グルーヴ感とポジティブなエネルギーが特徴です。彼の楽曲は、クラブやフェスティバルでプレイされ、ダンスミュージック愛好家にとってはおなじみの存在となっていました。
+La musique de Carbine est un style de musique house orienté dancefloor, caractérisé par un sentiment de groove et d'énergie positive. Ses chansons ont été jouées dans des clubs et des festivals, faisant de lui un nom bien connu des amateurs de musique dance.
 
-「House Your Booty / Funky Old Cortina」は、Carbineの音楽の一部を体験することができる特別なリリースであり、ハウスミュージックファンにとって興味深い作品となっています。
+"House Your Booty / Funky Old Cortina" est une version spéciale qui vous permet de découvrir une tranche de la musique de Carbine, ce qui en fait une œuvre intéressante pour les fans de house music.
 
 #### Liste des chansons
 ```md

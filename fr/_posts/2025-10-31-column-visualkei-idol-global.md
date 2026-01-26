@@ -67,8 +67,8 @@ Cette « identité performée » a trouvé un écho auprès des jeunes du monde 
 Les idoles sont souvent considérées comme quelque chose d’unique au Japon, mais leur soutien de l’étranger est plus fort que prévu.
 L'une des raisons à cela est que nous avons clairement conçu une « expérience de fan communautaire ».
 
-Les "Idoles que vous pouvez rencontrer" d'AKB48, la propreté de Nogizaka46, l'imitation de la grammaire métallique de BABYMETAL...
-Il ne s’agit pas simplement d’un divertissement, mais d’un modèle astucieux de « traduction culturelle ».
+Les "Idoles que vous pouvez rencontrer" d'AKB48, la propreté de Nogizaka46, l'imitation de la grammaire métallique par BABYMETAL...
+Il ne s’agit pas seulement d’un divertissement, mais d’un modèle astucieux de « traduction culturelle ».
 La raison du succès de BABYMETAL dans les festivals à l'étranger est
 Il y avait une stratégie structurelle pour intégrer le concept d'« idoles japonaises » dans le style mondial du métal.
 
@@ -98,7 +98,7 @@ En raison de cette « réédition », la musique de la sous-culture japonaise es
 ## Chapitre 4 : Identité post-nationale et croisement de genre
 
 Ce que les fans de visual kei et d’idols étrangers ont en commun, c’est leur empathie pour la fluidité du genre et de l’identité.
-L'esthétique androgyne du Visual Kei et la grammaire du « mignon = renversement du pouvoir » dans la culture idole,
+L'esthétique androgyne du Visual Kei et la grammaire du "mignon = renversement du pouvoir" dans la culture idole,
 Il se connecte également à la communauté LGBTQ+ et à la théorie queer.
 
 Par exemple, YOSHIKI de X JAPAN et HYDE de L'Arc~en~Ciel portent des expressions féminines même s'ils sont masculins.

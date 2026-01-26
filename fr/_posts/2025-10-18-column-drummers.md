@@ -50,7 +50,7 @@ color: #fff;
 Les instruments à percussion sont le début de la musique et le battement du cœur du monde.
 Les tambours des villages africains remplacent les paroles et les congas latino-américaines sont une continuation de la prière.
 Et dans les villes après la révolution industrielle, il s’est synchronisé avec le rythme des machines.
-La batterie est née au début du 20e siècle.
+La batterie est née au début du 20ème siècle.
 La combinaison de la caisse claire, de la grosse caisse et du charleston a été conçue comme une extension des membres humains,
 Le jazz en a fait une « structure d'improvisation ».
 
@@ -131,11 +131,11 @@ Leur performance se situe quelque part entre rituel religieux et technologie.
 
 ---
 
-## Chapitre 2 : Le battement de cœur du Japon – Des rythmes qui se connectent au-dessus et au-dessous du sol
+## Chapitre 2 : Les battements de cœur du Japon – Des rythmes qui se connectent au-dessus et au-dessous du sol
 
 ### 2-1. Après Ponta — De l’artisan au penseur
 
-Ce que Shuichi Murakami « Ponta » a créé, c’est le sentiment de « tapoter en japonais ».
+Ce que Shuichi Murakami « Ponta » a créé, c’est le sentiment de « taper en japonais ».
 Cependant, depuis les années 1990, une nouvelle génération est apparue qui a démantelé cette grammaire.
 Ils ont redéfini la gravité de la musique en **« décalant les écarts »**.
 

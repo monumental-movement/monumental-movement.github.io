@@ -9,13 +9,13 @@ permalink: /fr/polyester-culture-club/
 tags:
 - House
 - Electro
-title: Polyester – Culture Club
+title: Polyester – Club Culturel
 ---
 
 
-Polyesterは、ベルナール・ガルシアが、ブルーノ・クアルティエとエティエンヌ・ヴァンデヴィールによるプロジェクトです。
+Polyester est un projet de Bernard Garcia avec Bruno Quartier et Etienne Vandeveer.
 
-数多くのヒットを生み出し、ベルギーのラジオ局でよく放送されてました。
+Il a produit de nombreux succès et a été souvent diffusé sur les radios belges.
 
 #### Liste des chansons
 ```md

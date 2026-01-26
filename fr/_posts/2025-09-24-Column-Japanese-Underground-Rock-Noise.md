@@ -44,7 +44,7 @@ color: #fff;
 
 [**Fushitsusha**](https://amzn.to/4mBoM6K) dirigé par Keiji Haino, [**Merzbow**](https://amzn.to/46qEmxw) de Masami Akita, [BOREDOMS](https://amzn.to/4nKFfGO) d'Ai Yamazuka et Seiichi Yamamoto, [Incapacitors](https : groupes comme //amzn.to/3IsJjwx) et [Violence Onsen Geisha](https://amzn.to/4gJWXbk) ont brisé les frontières du rock conventionnel et du punk, créant un monde sonore combinant bruit et esprit expérimental.
 
-Cette période voit également l'essor des labels indépendants, des apparitions dans des festivals internationaux et une interaction accélérée avec l'underground américain et européen. En outre, des activités de pointe ont été développées qui ont influencé la production de films et de bandes sonores, ainsi que plus tard la **génération musicale IA**.
+Cette période voit également l'essor des labels indépendants, des apparitions dans des festivals internationaux et des interactions accélérées avec l'underground américain et européen. En outre, des activités de pointe ont été développées qui ont influencé la production de films et de bandes sonores, ainsi que plus tard la **génération musicale IA**.
 
 ---
 
@@ -91,7 +91,7 @@ Cette période voit également l'essor des labels indépendants, des apparitions
 
 - **Caractéristiques** : Le premier "groupe de bruit" au monde. En plus des performances bruitistes, ils sont devenus légendaires pour leurs performances extrêmes (lancements de nourriture, étincelles, danse nue).
 - **Changements** : Ils ont commencé leurs activités dans les années 80 et ont enregistré principalement des albums live dans les années 90. Depuis les années 2000, il développe des activités expérimentales comme le co-vedette avec des idoles.
-- **Anecdote** : Le fait de « dépecer un poulet » lors d'un spectacle live a provoqué un énorme débat dans les médias étrangers et a été traité comme un scandale social.
+- **Anecdote** : Le fait de « dépecer un poulet » lors d'un spectacle live a suscité un énorme débat dans les médias étrangers et a été traité comme un scandale social.
 
 | Albums | Caractéristiques | Liens |
 |--------------|------|--------------|

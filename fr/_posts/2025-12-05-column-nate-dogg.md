@@ -57,7 +57,7 @@ Tous les trois avaient de l'expérience en chantant à l'église, et Nate Dogg e
 Cette base du chant gospel a eu une influence décisive sur son style ultérieur.
 Même si sa voix était linéaire avec peu de vibrato, elle avait une résonance profonde et un sens du rythme naturellement ancré dans son corps.
 
-### Rejoindre les Marines
+### Rejoindre le Corps des Marines
 
 Après avoir obtenu son diplôme d'études secondaires, Nate Dogg ** s'est enrôlé dans le Corps des Marines des États-Unis ** et a été libéré après avoir servi pendant environ trois ans.
 Cette expérience a changé ses circonstances de vie, mais ce fut aussi une période qui l'a essentiellement obligé à retourner à Long Beach et à la musique.
@@ -86,7 +86,7 @@ Sa participation à cette époque était presque comme un début, mais il avait 
 
 ---
 
-## 4. L’impact du «Regulate» : La naissance du hook type G-Funk
+## 4. L'impact du «Regulate» : La naissance du hook type G-Funk
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1plPyJdXKIY?si=rx9XunHS0vwUPsA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -131,7 +131,7 @@ Ces caractéristiques ont fait de la voix de Nate Dogg une composante essentiell
 
 Nate Dogg est très apprécié pour ses apparitions en tant qu'invité, mais il a également sorti plusieurs albums solo.
 
-#### ■ "G-Funk Classics, Vol. 1 et 2" (1998)
+#### ■ « G-Funk Classics, Vol. 1 et 2 » (1998)
 
 Sorti après une longue période de problèmes de production et de transfert d'étiquettes.
 De nombreux artistes de la côte ouest tels que Snoop Dogg, Warren G et Kurupt ont participé, et c'était une œuvre qui montrait les os du G-Funk dans sa forme la plus pure.

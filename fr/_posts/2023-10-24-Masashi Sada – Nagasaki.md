@@ -14,7 +14,7 @@ title: Masashi Sada – Nagasaki Yoyoku
 ---
 
 
-"Masashi Sada – Nagasaki Sayokyoku" est sorti en 1982.
+"Masashi Sada - Nagasaki Sayokyoku" est sorti en 1982.
 
 Arrangement face A – ​​Toshiyuki Watanabe Arrangement face B – ​​Masashi Sada
 

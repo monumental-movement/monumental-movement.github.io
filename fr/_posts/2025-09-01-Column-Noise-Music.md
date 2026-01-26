@@ -56,7 +56,7 @@ Après la Seconde Guerre mondiale, le développement de la bande magnétique et 
 - Œuvres de Pierre Henri et Tod Dockstader.
 
 ### Équipement/Technologie
-- Montage de bandes (rotation inverse, bouclage, découpage/épissure).
+- Montage de bandes (rotation inversée, bouclage, découpage/épissure).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c4ea0sBrw6M?si=IEoPBBeF-a-9ZeH2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -141,7 +141,7 @@ Diversification grâce au renouveau des synthés modulaires et à l'acoustique d
 ---
 
 ## Liste représentative des chefs-d'œuvre
-- Luigi Russolo — *L'Art des Bruits* (1913, théorie/performance)
+- Luigi Russolo — *The Art of Noises* (1913, théorie/performance)
 - Pierre Schaeffer — œuvres *musique concrète*
 - Lou Reed — *Musique Metal Machine* (1975)
 - Throbbing Gristle — premiers travaux
@@ -154,4 +154,4 @@ Diversification grâce au renouveau des synthés modulaires et à l'acoustique d
 ---
 
 ## A la fin
-La musique noise est toujours un défi pour l’esthétique existante et une tentative d’élargir les frontières de la musique. Des sons mécaniques de Russolo aux synthés modulaires, même après plus de 100 ans d'histoire, leur essence réside dans « l'écoute du son lui-même ».
+La musique noise est toujours un défi pour l’esthétique existante et une tentative d’élargir les frontières de la musique. Des sons mécaniques de Russolo aux synthés modulaires, même après plus de 100 ans d'histoire, l'essence de tous les instruments est « d'écouter le son lui-même ».

@@ -66,7 +66,7 @@ BLJ a continué à être actif dans les années 2000 et au-delà en tant que « 
 
 BLJ se caractérise par sa fusion de bruit, de chair et d'esthétique homosexuelle.
 Leurs scènes présentent des contraintes, du cuir et des rituels religieux, accompagnés d'explosions physiques de bruit.
-C'était plus qu'une expérience sonore, c'était **une résistance et une célébration médiatisées par le corps**.
+C’était plus qu’une expérience sonore, c’était une résistance et une célébration médiatisées par le corps.
 
 Des unités dérivées telles que **Werewolf Jerusalem** et **The Rita** ont également vu le jour autour de BLJ, transformant la culture noise texane en un **empire clandestin**.
 
@@ -76,7 +76,7 @@ Des unités dérivées telles que **Werewolf Jerusalem** et **The Rita** ont ég
 
 ### Chapitre 3 : Des drones aux sons ambiants — le lien entre Austin et le bruit artistique
 
-Austin est une ville du Texas qui amène le bruit dans de nouvelles directions, notamment en tant que foyer de culture universitaire et d'art DIY.
+Austin est la ville du Texas où le bruit a pris de nouvelles directions, notamment en tant que foyer de culture universitaire et d'art DIY.
 À la fin des années 2000, des artistes comme **Iron Lung, Pure Ground et Digital Leather** ont délaissé la dureté pour se tourner vers le minimalisme.
 
 L'environnement d'enregistrement a également changé. Les labels de cassettes se multiplient et les échanges avec des pays comme **Edition Mego et Hospital Productions** progressent également.
@@ -111,7 +111,7 @@ La scène noise texane des années 2020 se situe entre le réseau et la terre.
 Tandis que de jeunes artistes de Houston et Dallas sont actifs en tant que collectif numérique via Bandcamp, YouTube, Discord, etc.
 Les artistes plus âgés continuent de travailler avec du matériel analogique.
 
-> "Le bruit n'est pas une question de technologie, c'est une question d'attitude."
+> "Le bruit est une question d'attitude, pas de technologie."
 > — Richard Ramirez (Jésus en cuir noir)
 
 Le bruit texan continue d’osciller entre sauvage et urbain.
@@ -158,7 +158,7 @@ flowchart TD
 
 Le bruit du Texas est un bruit d’horizon, pas un bruit de ville.
 Ce n'était pas un cri ou une résistance, mais une légère vibration pour confirmer son existence.
-Les artistes noise ici travaillent non seulement grâce à la technologie, mais aussi
+Ici, les artistes noise travaillent non seulement grâce à la technologie, mais aussi
 Il continue plutôt d'actualiser son « éthique du son » dans la solitude et la nature.
 
 > « Le bruit est une musique sous forme de silence. »

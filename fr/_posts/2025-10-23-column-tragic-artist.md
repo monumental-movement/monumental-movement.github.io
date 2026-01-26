@@ -106,13 +106,13 @@ On peut dire qu’il anticipait la structure du 21e siècle associée à la publ
 
 ## Chapitre 6 : Éthique et empathie – Sommes-nous des « consommateurs » ou des « complices » ?
 
-L’admiration pour la tragédie contient souvent une structure de perpétration.
+L’admiration pour la tragédie comporte souvent une structure de perpétration.
 Les fans « glorifient » inconsciemment la douleur de l'artiste,
 Même après la mort, la souffrance est « divinisée ».
 
 Cependant, l'empathie est censée signifier « comprendre leur douleur et souhaiter leur rétablissement ».
 Plutôt que de nous enivrer de la destruction, que pouvons-nous en tirer et comment pouvons-nous en guérir ?
-C’est la nouvelle éthique de l’acceptation de l’art au 21ème siècle.
+C’est la nouvelle éthique de l’acceptation de l’art au 21e siècle.
 
 ---
 

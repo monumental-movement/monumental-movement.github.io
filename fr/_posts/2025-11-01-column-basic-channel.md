@@ -18,7 +18,7 @@ title: '[Chronique] Basic Channel──L''origine de la dub techno berlinoise'
 ## Prologue : Du bruit anonyme à une révolution silencieuse
 
 
-Texte : mmr｜Thème : « Abysse du son » né de l'underground berlinois dans les années 1990 - Historique de la création de Basic Channel et Dub Techno
+Texte : mmr｜Thème : Le « gouffre sonore » né de l'underground berlinois dans les années 1990 – L'histoire de la création de Basic Channel et de la Dub Techno
 
 
 En 1993, quelques années seulement après la chute du mur de Berlin.
@@ -119,7 +119,7 @@ En conséquence, Basic Channel est devenu plus une **plateforme pour la philosop
 Dans les années 2000, les deux hommes entrent dans une nouvelle phase sous le nom de **Rhythm & Sound**.
 Ici, nous avons invité des chanteurs de reggae de Jamaïque et d'Allemagne, dont Tikiman, Cornell Campbell et Jennifer Lara, pour créer une fusion plus profonde de « voix » et de « réverbération ».
 
-Des chansons telles que « King In My Empire » et « See Mi Yah » ont une structure qui donne davantage l'impression qu'elles seraient jouées « à l'intérieur » des haut-parleurs plutôt que dans un club.
+Des chansons telles que « King In My Empire » et « See Mi Yah » ont une structure qui donne plus l'impression qu'elles seraient jouées « à l'intérieur » des haut-parleurs plutôt que dans un club.
 J'ai retrouvé mon tremblement humain dans la froideur du dub numérique.
 
 Ils continuent de refuser les entretiens et restent invisibles.
@@ -128,7 +128,7 @@ C'était une « spiritualité anonyme » et une **prière post-humaine** qui all
 
 ---
 
-## Chapitre 6 : La philosophie du sound system et le Berghain et au-delà
+## Chapitre 6 : Philosophie du sound system et Berghain et au-delà
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/691Bw3f2NNg?si=AmVEYFoIGmCr0syV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

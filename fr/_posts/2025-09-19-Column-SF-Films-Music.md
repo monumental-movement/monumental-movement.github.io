@@ -60,7 +60,7 @@ La musique dans les films de science-fiction est plus qu’un simple « arrière
 * **1995 Ghost in the Shell** : la fusion de musique folk et de musique électronique de Kenji Kawai incarne un monde « post-humain ».
 * **2001 « A.I. » et « Minority Report » ** : John Williams a une fois de plus donné vie à la structure classique, donnant un lyrisme humaniste à la ville du futur.
 
-### 2010年代以降
+### Depuis les années 2010
 
 * **2014 Interstellar** : Hans Zimmer combine orgue à tuyaux et synthétiseur pour décrire simultanément la grandeur de l'univers et la vie intérieure des humains.
 * **2021 "DUNE/Dune"** : Une planète désertique est exprimée avec des éléments de musique folk + un son électronique, créant une étrangeté semblable à celle d'un extraterrestre.
@@ -86,7 +86,7 @@ La musique utilisée dans les films de science-fiction présente les approches c
 * Le silence de l'espace et la présence de l'inconnu.
 * Exemple : Espace silencieux + musique classique de « 2001 : L'Odyssée de l'espace ».
 
-4. **Fusion d'orchestre et de sons électroniques**
+4. **Fusion de l'orchestre et du son électronique**
 
 * À la fois grandeur et sensation futuriste.
 * Exemples : « Star Wars » et « Interstellar ».
@@ -123,7 +123,7 @@ La musique utilisée dans les films de science-fiction présente les approches c
 
 ## Impact moderne
 
-* **Musique de jeu/expérience VR** : suit la méthode de la musique de film telle que "Mass Effect" et "Cyberpunk 2077".
+* **Musique de jeu/expérience VR** : suit la méthode des musiques de films telles que "Mass Effect" et "Cyberpunk 2077".
 * **Distribué en genres musicaux** : il existe de nombreux genres dérivés de la musique de film de science-fiction, tels que la synthwave, le dark ambient et l'électro.
 * **Génération musicale IA** : la vision du futur décrite dans les films de science-fiction devient une réalité sous la forme d'une composition musicale automatique par l'IA et d'expériences immersives dans l'espace VR.
 
@@ -139,7 +139,7 @@ A1. Les tonalités électroniques sont utilisées pour transmettre intuitivement
 
 A2. Des exemples représentatifs incluent « 2001 : L'Odyssée de l'espace », « Star Wars », « Blade Runner » et « Interstellar ».
 
-**T3. Comment l’IA est-elle impliquée dans la musique de films de science-fiction ? **
+**T3. Comment l’IA est-elle impliquée dans la musique de film de science-fiction ? **
 
 A3. Actuellement, les outils de composition d’IA sont utilisés pour créer des bandes-annonces de films de science-fiction et la production sonore de jeux, ce qui constitue un exemple de pratique futuriste.
 
@@ -151,7 +151,7 @@ A3. Actuellement, les outils de composition d’IA sont utilisés pour créer de
 * Il a été exprimé de diverses manières, notamment avec des sons électroniques, des synthétiseurs, un orchestre et de l'ambiance.
 * Tout au long de l'histoire, on peut dire que la relation entre les humains et la technologie a été visualisée à travers le son.
 
-> Les futures musiques de films de science-fiction ouvriront un nouveau monde grâce à la collaboration entre l'IA et les compositeurs humains.
+> La future musique de film de science-fiction ouvrira un nouveau monde grâce à la collaboration entre l'IA et les compositeurs humains.
 
 
 ---

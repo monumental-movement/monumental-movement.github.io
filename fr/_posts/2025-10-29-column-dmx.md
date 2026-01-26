@@ -130,7 +130,7 @@ Il s'agit de son rituel d'auto-purification, indiquant que la musique est « une
 > ― *Prière III*, 1999
 
 Pour lui, Dieu n'était pas un « symbole de salut », mais une « existence qui donne des épreuves ».
-Sa foi n'est pas une foi de pardon mais une **foi dans la bataille**.
+Sa foi n'est pas celle du pardon mais de la **foi dans la bataille**.
 
 ---
 
@@ -193,7 +193,7 @@ Ces mots servent encore aujourd’hui de mantra de pardon à de nombreux jeunes.
 ## X. Conclusion : Structure mythique appelée DMX
 
 L'histoire de DMX est bien plus qu'une simple biographie hip-hop.
-Il s'agissait d'un **drame religieux moderne** et d'un mythe illustrant **la coexistence de la violence et de la prière**.
+C'était un **drame religieux moderne** et un mythe sur la coexistence de **la violence et de la prière**.
 
 *Son « rugissement » n'est pas de la colère, mais un cri pour prouver son existence**
 *Sa « prière » n'est pas le salut mais **la poursuite de la bataille**
@@ -239,7 +239,7 @@ timeline
 
 ---
 
-## Annexe : Analyse de la structure sonore (relation entre le rythme et la voix)
+## Annexe : Analyse de la structure sonore (relation entre le rythme et la voix)
 
 <div class="mermaid">
 

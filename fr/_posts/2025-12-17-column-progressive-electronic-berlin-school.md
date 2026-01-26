@@ -50,7 +50,7 @@ Dans les années 1960, les synthétiseurs modulaires font leur apparition. Il es
 
 ### Point de contact entre rock et avant-garde
 
-Dans le même temps, un mouvement visant à fusionner le rock et l’art d’avant-garde prenait de l’ampleur en Allemagne de l’Ouest. En réponse au rock britannique et américain, des groupes intégrant activement l'improvisation, la répétition et les sons électroniques ont émergé. Le contexte de ce que l'on appellera plus tard le « krautrock » et la musique électronique de la Berlin School se sont développés de manière géographiquement et humainement imbriquée.
+Dans le même temps, un mouvement visant à fusionner le rock et l’art d’avant-garde prenait de l’ampleur en Allemagne de l’Ouest. En réponse au rock britannique et américain, des groupes intégrant activement l'improvisation, la répétition et les sons électroniques ont émergé. Le contexte de ce que l'on appellera plus tard le « krautrock » et la musique électronique de la Berlin School se sont développés de manière géographiquement et humainement imbriquées.
 
 ---
 
@@ -60,7 +60,7 @@ Dans le même temps, un mouvement visant à fusionner le rock et l’art d’ava
 
 Tangerine Dream a été formé en 1967 et leurs premiers travaux combinaient des formations rock et une improvisation avant-gardiste. Au début des années 1970, il commence à composer à l’aide de synthétiseurs et de séquenceurs.
 
-Ce qui le distingue est sa structure, qui superpose des changements tonals et des mélodies improvisées sur un motif séquentiel répétitif. Cette méthode a créé une structure de longue durée qui musicalise le flux du temps lui-même, ce qui diffère des formats de chansons traditionnels.
+Ce qui le distingue est sa structure, qui superpose des changements tonals et des mélodies improvisées sur un motif séquentiel répétitif. Cette méthode a créé une structure longue qui musicalise le flux du temps lui-même, ce qui diffère des formats de chansons traditionnels.
 
 ### Klaus Schulze
 
@@ -78,7 +78,7 @@ Ash Ra Tempel a commencé comme un projet fusionnant sons électroniques, guitar
 
 ### Répéter la structure avec le séquenceur
 
-L'élément le plus distinctif de la Berlin School est le motif sonore répétitif créé par des séquenceurs analogiques. Un motif fixe qui dure longtemps et change progressivement grâce aux opérations de filtrage et d'enveloppe. Cette méthode met l’accent sur la sensation du temps plutôt que sur la sensation du rythme.
+L'élément le plus distinctif de la Berlin School est le motif sonore répété créé par des séquenceurs analogiques. Un motif fixe qui dure longtemps et change progressivement grâce aux opérations de filtrage et d'enveloppe. Cette méthode met l’accent sur la sensation du temps plutôt que sur la sensation du rythme.
 
 ### Format long
 
@@ -100,7 +100,7 @@ La Berlin School se situe entre la musique électronique académique et la musiq
 
 ## Chapitre 5 Changements depuis les années 1980
 
-Avec la diffusion des synthétiseurs numériques et du MIDI, l'environnement de production a radicalement changé. Les limitations inhérentes aux équipements analogiques ont été réduites et la reproductibilité s'est améliorée. D’un autre côté, la contingence observée au début de la Berlin School est réduite.
+Avec la diffusion des synthétiseurs numériques et du MIDI, l'environnement de production a radicalement changé. Les limitations inhérentes aux équipements analogiques ont été réduites et la reproductibilité améliorée. D’un autre côté, la contingence observée au début de la Berlin School est réduite.
 
 Durant cette période, la méthode de la Berlin School est réinterprétée comme le prototype de la techno et de la transe. La fusion de rythmes et de séquences répétitifs prend un nouveau sens dans le contexte de la dance music.
 
@@ -108,7 +108,7 @@ Durant cette période, la méthode de la Berlin School est réinterprétée comm
 
 ## Chapitre 6 L'héritage des temps modernes
 
-Au 21e siècle, les synthétiseurs modulaires sont réévalués. La méthode de la Berlin School attire à nouveau l'attention dans les petits studios et l'improvisation live. Ce n’est pas lié à la nostalgie, mais à un intérêt croissant pour la musique générée en temps réel.
+Au 21e siècle, les synthétiseurs modulaires sont réévalués. La méthode de la Berlin School attire à nouveau l'attention dans les petits studios et dans l'improvisation live. Ce n’est pas lié à la nostalgie, mais à un intérêt croissant pour la musique générée en temps réel.
 
 ---
 
@@ -168,7 +168,7 @@ Afin de bien comprendre l’École de Berlin, il est nécessaire d’organiser c
 
 ### Avant Kraftwerk
 
-Avant Kraftwerk, l’école de Berlin mettait l’accent sur l’improvisation et les formes longues. Le rythme est fluide et le morceau est perçu comme une transition plutôt que comme une progression. À cette époque, la musique électronique était un moyen d’échapper au rock, mais aussi une libération de la musique électronique académique.
+Avant Kraftwerk, l’école de Berlin mettait l’accent sur l’improvisation et les formes longues. Le rythme est fluide et le morceau est perçu comme une transition plutôt que comme une progression. À cette époque, la musique électronique était un moyen d’échapper au rock et à la musique électronique académique.
 
 ### Après Kraftwerk
 

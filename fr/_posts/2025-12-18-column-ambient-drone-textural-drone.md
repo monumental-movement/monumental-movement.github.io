@@ -23,7 +23,7 @@ Texte : mmr｜Thème : À propos des drones qui font passer la musique de l'ar
 
 Drone est un principe musical qui utilise un son soutenu pour transformer notre perception du temps, notre conscience spatiale et notre concentration auditive. Il est unique en ce sens qu'il utilise la hauteur, les harmoniques, le timbre et la durée comme unités structurelles au lieu de la mélodie et de la progression harmonique. Dans l’histoire de la musique occidentale, les premiers exemples incluent le gras de la cornemuse, la pédale de l’orgue et les notes basses soutenues de la musique religieuse.
 
-Depuis la fin du XXe siècle, avec le développement de la technologie d’enregistrement et de l’acoustique électronique, le drone est passé du simple élément d’accompagnement à la structure principale de l’ensemble de l’œuvre. Grâce à ce processus, Ambient Drone est né, suivi de Textural Drone, qui met l'accent sur les changements de tons et la superposition de textures physiques.
+Depuis la fin du XXe siècle, avec le développement de la technologie d’enregistrement et de l’acoustique électronique, le drone est passé du simple élément d’accompagnement à la structure principale d’une pièce entière. Grâce à ce processus, Ambient Drone est né, suivi de Textural Drone, qui met l'accent sur les changements de tons et la superposition de textures physiques.
 
 ---
 
@@ -63,7 +63,7 @@ Textural Drone se caractérise par une structure dans laquelle plusieurs couches
 
 ### 2-2. Techniques de superposition
 
-La superposition de plusieurs pistes transforme la musique d'une structure linéaire en une structure superficielle. Chaque couche a une période et une vitesse de modulation indépendantes, produisant des fluctuations asynchrones dans leur ensemble.
+La superposition de plusieurs pistes transforme la musique d'une structure linéaire en une structure planaire. Chaque couche a une période et une vitesse de modulation indépendantes, produisant des fluctuations asynchrones dans leur ensemble.
 
 <div class="mermaid">
 flowchart LR
@@ -136,7 +136,7 @@ Les changements dans Textural Drone sont conçus à un niveau qui n’est pas im
 
 ### 5-5. Relation entre le bruit et les harmoniques
 
-La composante sonore n'est pas une impureté, mais sert plutôt de moyen permettant de rendre perceptible la structure harmonique. Dans Stars of the Lid, les grattements et les souffles des instruments à cordes obscurcissent les contours des harmonies, tandis que chez Robert Rich, les échantillons environnementaux dissolvent les contours des sons artificiels.
+La composante sonore n’est pas une impureté, mais sert plutôt de moyen permettant de rendre perceptible la structure harmonique. Dans Stars of the Lid, les grattements et les souffles des instruments à cordes obscurcissent les contours des harmonies, tandis que chez Robert Rich, les échantillons environnementaux dissolvent les contours des sons artificiels.
 
 La localisation de la source sonore est obscurcie par le long temps de réverbération et le traitement de diffusion. En conséquence, le son est perçu comme une texture de l’espace entier plutôt que comme une direction.
 
@@ -170,7 +170,7 @@ flowchart LR
 
 * L'émergence d'œuvres minimales centrées sur les sons soutenus
 
-### 1970年代
+### Années 1970
 
 * Vulgarisation des drones longue durée utilisant la technologie des bandes et l'acoustique électronique
 
@@ -178,7 +178,7 @@ flowchart LR
 
 * Augmentation des travaux de drones en contexte ambiant
 
-### Années 1990
+### années 1990
 
 * Mise en place d'une méthode Textural Drone-like
 * Stars of the Lid, les activités de Robert Rich

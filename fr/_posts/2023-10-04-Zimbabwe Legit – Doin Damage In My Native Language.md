@@ -12,7 +12,7 @@ title: Zimbabwe Legit – Faire des dégâts dans ma langue maternelle
 ---
 
 
-Zimbabwe Legit est un groupe de hip-hop américain dont la musique se caractérise par des messages politiques et des paroles qui intègrent la culture africaine.
+Zimbabwe Legit est un groupe de hip-hop américain dont la musique se caractérise par des messages politiques et des paroles intégrant la culture africaine.
 
 Il comprend également des chansons produites par DJ Shadow, Mista Lawnge de Black Sheep et d'autres.
 

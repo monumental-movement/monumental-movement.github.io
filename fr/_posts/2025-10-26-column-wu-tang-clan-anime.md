@@ -23,8 +23,8 @@ Texte : mmr｜Thème : Hip-hop et anime japonais - Explorer l'intersection de la
 De là est né un groupe appelé « Xiaolin » qui a bouleversé l’histoire du hip-hop.
 **Wu-Tang Clan** - La chaîne de mots combatifs et philosophiques tissés par neuf MC était une forme d'art étrange qui combinait la violence de rue avec la tranquillité bouddhiste.
 
-Au cœur de leur vision du monde, **les films de kung-fu, la philosophie orientale et « l’imagination animée »** coexistaient.
-Pour la jeunesse noire américaine des années 1990, la culture asiatique était à la fois une « arme spirituelle exotique » et un moyen d’échapper à l’oppression sociale.
+Au cœur de leur vision du monde, **les films de kung-fu, la philosophie orientale et « l'imagination animée »** coexistaient.
+Pour la jeunesse noire américaine des années 1990, la culture asiatique était une « arme spirituelle exotique » et un moyen d’échapper à l’oppression sociale.
 Wu-Tang Clan a échantillonné Bruce Lee, Sun Tzu et Lao Tzu, et a ensuite résonné fortement avec l'esthétique de l'anime japonais.
 
 ---
@@ -47,7 +47,7 @@ color: #fff;
 
 Le mot « Shaolin » apparaît à plusieurs reprises dans les premiers travaux du Wu-Tang Clan.
 Ce n'est pas seulement un passe-temps asiatique.
-Pour eux, "Shaolin" était une métaphore de l'entraînement intérieur, de l'entraînement au milieu de la pauvreté et de la violence.
+Pour eux, « Shaolin » était une métaphore de l'entraînement intérieur, de l'entraînement au milieu de la pauvreté et de la violence.
 
 Cette structure est similaire aux anime japonais, en particulier « Dragon Ball », « Fist of the North Star » et « Naruto ».
 Son Goku et Kenshiro se transcendent en combattant des ennemis extérieurs.
@@ -68,7 +68,7 @@ L'audio du film de kung-fu « Shaolin Thirty-Six Chambers » est échantillonné
 Depuis, les motifs sonores asiatiques sont fréquemment apparus dans la musique du Wu-Tang.
 Mokugyo, le koto, le shakuhachi, le son des cloches des temples, tels étaient les symboles de « l'Orient » en tant que sons.
 
-Cependant, dans les années 2000, son intérêt s’est étendu aux « anime japonais ».
+Cependant, dans les années 2000, son intérêt s'est étendu aux « anime japonais ».
 RZA a montré un grand respect pour **Nujabes**, qui était le superviseur musical de "Samurai Champloo".
 Ghostface Killah a étendu son pseudonyme de « Tony Starks » à « Iron Man ».
 Il s'est ensuite impliqué dans la production de la bande originale d'Afro Samurai.
@@ -76,7 +76,7 @@ Il s'est ensuite impliqué dans la production de la bande originale d'Afro Samur
 
 ---
 
-## Chapitre 3 : « Afro Samurai » et la chaîne de réimportation
+## Chapitre 3 : « Afro Samurai » et la chaîne des réimportations
 
 En 2007, l'anime japonais « Afro Samurai » a été diffusé dans tout le pays.
 Le doubleur est Samuel L. Jackson.
@@ -89,13 +89,13 @@ Cette œuvre était un véritable « remix mutuel » de la culture japonaise et 
 > Cette transformation symbolique est au cœur de l'esthétique hip-hop post-Wu-Tang Clan.
 
 Pour RZA, « Afro Samurai » est l'œuvre qui incarne le plus concrètement son « orientation orientale ».
-En même temps, il devient un pionnier de la « fusion avec le hip-hop » pour l'industrie japonaise de l'anime.
+En même temps, il devient un pionnier de la « fusion avec le hip-hop » pour l'industrie japonaise de l'animation.
 
 ---
 
-## Chapitre 4 : Un nouvel horizon pour le hip-hop ouvert par une vision du monde animée
+## Chapitre 4 : Un nouvel horizon pour le hip-hop ouvert par une vision du monde de type anime
 
-Après le Wu-Tang Clan, le hip-hop a acquis le « langage pour parler d’anime ».
+Après le Wu-Tang Clan, le hip-hop a acquis le « langage pour parler d'anime ».
 Tyler, The Creator fait référence à "Akira" et "Neon Genesis Evangelion",
 Kanye West dépeint un monde semblable à celui d'un anime dans le MV de "Strong Feeling",
 Lil Uzi Vert et Megan Thee Stallion intègrent fièrement la « culture otaku » dans leur identité.
@@ -125,7 +125,7 @@ Ici, l’anime renoue une fois de plus avec le langage de la « rue ».
 
 ## Conclusion : Épée et Microphone – A l'intersection de deux terrains d'entraînement
 
-L’« Orient » vu par le clan Wu-Tang n’est pas le fruit de l’imagination ;
+L’« Est » vu par le clan Wu-Tang n’est pas le fruit de l’imagination ;
 C'était un détournement structurel pour introduire des éléments philosophiques tels que **l'autodiscipline, la sérénité et l'unité spirituelle** dans un monde de violence.
 En même temps, cela correspond aux « histoires de bataille et de croissance » que les anime japonais ont dépeintes.
 

@@ -50,7 +50,7 @@ color: #fff;
 
 D'un point de vue archéologique, les premiers « instruments de musique » étaient des instruments à percussion.
 C'est une pierre ou un arbre battu pour la chasse ou la prière,
-Créer un « beat » était aussi un acte de création d'une communauté.
+Créer un « beat » était aussi un acte de création d’une communauté.
 
 Dans de nombreuses sociétés tribales d'Afrique et d'Océanie,
 Le tambour était à la fois un moyen de transmission d’informations et un élément central des rituels.
@@ -114,7 +114,7 @@ C'était une version moderne d'un ancien rituel.
 
 Immédiatement après la chute du Mur, Berlin était une zone de non-droit et un terrain d’essai pour la liberté.
 Des clubs comme Trésor et Berghain
-Une nouvelle communauté physique a été créée dans une ville en attente de restructuration politique et économique.
+Il a créé une nouvelle communauté physique dans une ville en attente de restructuration politique et économique.
 Là, la « danse » elle-même est
 C'était un acte politique de mémoire et de renaissance.
 
@@ -161,7 +161,7 @@ Les gens sont devenus des gens qui écoutent la voix des autres.
 
 La musique de club moderne est structurellement similaire.
 La répétition des BPM120-140 résonne avec les ondes cérébrales,
-Produire un moment où le corps dépasse la conscience.
+Produire un instant où le corps dépasse la conscience.
 Les drogues et l’éclairage ne sont également que des déclencheurs secondaires du son.
 
 ### 2. De « l’individu » au « groupe » : sociologie des foules dansantes

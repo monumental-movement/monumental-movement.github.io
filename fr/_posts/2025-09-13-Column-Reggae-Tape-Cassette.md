@@ -47,7 +47,7 @@ color: #fff;
 Le reggae a été créé vers 1968 après le ska et le rock stable. Les paroles avec des rythmes plus lourds, l'accent mis sur la basse et les messages sont devenus populaires. C'est également durant cette période que des artistes tels que Bob Marley, Peter Tosh et Burning Spear acquièrent une renommée internationale.
 
 - **Rôle de la sonorisation**
-En Jamaïque, il était difficile de posséder des tourne-disques et des chaînes stéréo coûteuses, c'est pourquoi d'énormes systèmes de sonorisation, ou des groupes de haut-parleurs installés aux coins des rues, sont devenus le centre de l'expérience musicale. Les producteurs et les DJ ont joué indépendamment les derniers singles de 7 pouces pour plaire au public.
+En Jamaïque, il était difficile de posséder des tourne-disques et des chaînes stéréo coûteuses, c'est pourquoi d'immenses systèmes de sonorisation, ou des groupes de haut-parleurs installés aux coins des rues, sont devenus le centre de l'expérience musicale. Les producteurs et les DJ ont joué indépendamment les derniers singles de 7 pouces pour plaire au public.
 
 - **L'avènement des cassettes**
 Les cassettes compactes, introduites au début des années 1970 sous la norme Philips, ont rapidement trouvé leur place en Jamaïque. Même s’il en était encore à ses débuts, les fans de reggae et les DJ locaux ont commencé à s’intéresser au potentiel de ce petit média.
@@ -61,7 +61,7 @@ Dans les années 1980, les cassettes sont devenues le support musical le plus po
 
 - **Enregistrement sur cassette en Jamaïque**
 Lors des événements sound system et des salles de danse, est née une culture dans laquelle les enregistrements live étaient enregistrés sur cassettes et immédiatement distribués. Bien que cela ait eu quelques aspects pirates, c'est devenu un mécanisme important pour emballer et diffuser l'enthousiasme du domaine.
-Par exemple, les enregistrements de confrontations spécifiques au sound system (sound clashs) et leur diffusion ultérieure sur cassette étaient un moyen précieux de partage d'expériences pour les fans.
+Par exemple, les enregistrements de confrontations spécifiques avec le sound system (clashs sonores) et leur diffusion ultérieure sur cassette étaient un moyen précieux de partage d'expériences pour les fans.
 
 - **Diaspora et Cassette**
 Pour les communautés d'immigrants caribéens de Grande-Bretagne et des États-Unis, les cassettes envoyées depuis la Jamaïque constituaient un média en temps réel qui transmettait « l'état actuel de leur pays d'origine ». Par le biais du courrier et des réseaux informels, la dernière musique reggae et dancehall jamaïcaine s'est rapidement répandue à l'étranger.
@@ -87,7 +87,7 @@ Les fans et DJ japonais de reggae se sont également rendus en Jamaïque dans le
 Dans les années 2000, le partage de fichiers CD-R et MP3 est devenu courant et les cassettes ont progressivement disparu du marché. La distribution de musique via les ordinateurs et Internet s'est établie en Jamaïque, et le rôle de la cassette en tant que support physique a pris fin.
 
 - **Réverbérations de la culture cassette**
-Cependant, les caractéristiques des cassettes, telles que l’immédiateté, l’enthousiasme sur place et les réseaux de distribution informels, ont été héritées de la culture des mixtapes numériques et des archives d’enregistrements en direct sur YouTube. De plus, au milieu de la tendance mondiale vers un retour à l’analogique, il existe également un mouvement visant à réévaluer les cassettes.
+Cependant, les caractéristiques des cassettes, telles que l’immédiateté, l’enthousiasme sur place et les réseaux de distribution informels, ont été héritées par la culture des mixtapes numériques et les archives d’enregistrements en direct sur YouTube. De plus, au milieu de la tendance mondiale vers un retour à l’analogique, il existe également un mouvement visant à réévaluer les cassettes.
 
 - **Repenser l'importance culturelle**
 Plus qu'un simple support d'enregistrement, la cassette symbolisait la nature communautaire du reggae, la diffusion de l'information à la base et l'indépendance hors-la-loi. Grâce aux cassettes, le reggae s'est imposé comme « leur musique » pour les masses.
@@ -110,11 +110,11 @@ Une liste d'enregistrements célèbres qui symbolisent la culture des cassettes 
 
 ## Artistes reggae représentatifs par époque
 
-Les sons d'artistes représentatifs étroitement liés à la culture de la cassette sont organisés par décennie.
+Les sons d'artistes représentatifs étroitement liés à la culture de la cassette sont organisés par époque.
 
 | Ère | Artistes/sons représentatifs | Caractéristiques |
 |------|----------------------------|------|
-| années 1970 | Bob Marley, Lance brûlante, Augustus Pablo | Principalement des disques, mais répandus dès les premiers jours des cassettes. Spiritualité Roots Reggae. |
+| années 1970 | Bob Marley, Burning Spear, Augustus Pablo | Principalement des disques, mais répandus dès les premiers jours des cassettes. Spiritualité Roots Reggae. |
 | années 1980 | Yellowman, Barrington Levy, Stone Love, Killamanjaro | L'âge d'or des cassettes. Une figure clé de l’enregistrement de Sound Clash. |
 | années 1990 | Buju Banton, Beenie Man, Bounty Killer, Silverhawk | L'âge d'or du dancehall. Les enregistrements sur cassette se sont répandus au Japon et au Royaume-Uni. |
 | Années 2000 | Sizzla, Capleton, Bass Odyssée | La veille de la diffusion numérique. Le dernier enthousiasme de la cassette. |
@@ -127,7 +127,7 @@ Les sons d'artistes représentatifs étroitement liés à la culture de la casse
 La culture de la cassette, originaire de la Jamaïque, a eu une influence majeure sur la scène reggae japonaise depuis les années 1980. Parallèlement aux disques importés, les **cassettes enregistrées localement** sont devenues une source d'informations extrêmement importante pour les fans et les DJ japonais.
 
 - **Années 1980 : l'aube**
-Dans les magasins de disques de Shibuya, Tokyo, et de Minami, Osaka, les cassettes d'enregistrement de systèmes audio ramenées de Jamaïque étaient commercialisées de manière clandestine. Il ne s'agissait pas de produits authentiques, mais de copies d'« enregistrements live » réalisés localement en Jamaïque et qui soutenaient les premières expériences dancehall de la scène des clubs japonais.
+Dans les magasins de disques de Shibuya, Tokyo, et Minami, Osaka, des cassettes d'enregistrement de systèmes audio ramenées de Jamaïque étaient commercialisées de manière clandestine. Il ne s'agissait pas de produits authentiques, mais de copies d'« enregistrements live » réalisés localement en Jamaïque et qui soutenaient les premières expériences dancehall de la scène des clubs japonais.
 
 - **Années 1990 : L'apogée des cassettes importées**
 Dans les années 1990, alors que le nombre de fans de reggae japonais augmentait rapidement, les cassettes locales étaient indispensables pour en savoir plus sur les derniers riddim. Il a été ramené par des voyageurs en Jamaïque et vendu dans les coins des magasins de disques et des lieux d'événements. Autour du **CLUB JAH JAH** à Osaka et du **CLUB Citta'** à Shibuya, les cassettes faisaient office de « première ligne d'information ».

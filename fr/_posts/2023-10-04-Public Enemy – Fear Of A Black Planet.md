@@ -9,11 +9,11 @@ permalink: /fr/public-enemy-fear-of-a-black-planet/
 tags:
 - Hiphop
 - Classic
-title: Public Enemy – Fear Of A Black Planet
+title: Public Enemy – Peur d’une planète noire
 ---
 
 
-Public Enemyの「Fear of a Black Planet」は、音楽的にもコンセプチュアルにも優れたアルバムとして高く評価されています。
+"Fear of a Black Planet" de Public Enemy a été très acclamé comme un excellent album musicalement et conceptuellement.
 
 
 #### Liste des chansons

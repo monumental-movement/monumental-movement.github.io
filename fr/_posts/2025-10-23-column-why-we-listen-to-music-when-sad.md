@@ -9,7 +9,7 @@ permalink: /fr/column-why-we-listen-to-music-when-sad/
 tags:
 - Neuroscience
 - Emotion
-title: '[Chronique] Pourquoi les gens écoutent de la musique quand ils sont tristes
+title: '[Chronique] Pourquoi les gens écoutent-ils de la musique quand ils sont tristes
   ? Le son comme empathie, mémoire et réglage neuronal'
 ---
 
@@ -20,7 +20,7 @@ title: '[Chronique] Pourquoi les gens écoutent de la musique quand ils sont tri
 Texte : mmr｜Thème : Explorer la relation entre la tristesse et la musique du point de vue de la psychologie, des neurosciences et de l'histoire culturelle
 
 Pourquoi les gens se tournent-ils vers la musique quand ils sont tristes ?
-Le silence est souvent rompu par une seule note du piano ou par une voix chantée envoûtante.
+Le silence est souvent rompu par une seule note du piano ou par une voix chantante envoûtante.
 Cet acte est à la fois intuitif et profondément scientifique.
 La musique est un « résonateur » d'émotions et la seule expérience qui peut être partagée dans la solitude.
 

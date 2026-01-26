@@ -51,7 +51,7 @@ color: #fff;
 ### Cassette MTR ouvre la porte à la production personnelle
 
 Dans les années 1980, la **cassette MTR (enregistreur multipiste)** lancée par des sociétés telles que TASCAM et Fostex a jeté les bases de la culture de l'enregistrement domestique.
-Le fait que même la qualité sonore basse fidélité puisse être superposée à la maison a donné aux musiciens amateurs la possibilité d'être « autosuffisants ».
+Le fait que même la qualité sonore basse fidélité puisse être superposée à la maison a donné aux musiciens amateurs la possibilité de « se suffire à eux-mêmes ».
 Les germes de ce développement avaient déjà commencé lorsque Ryuichi Sakamoto faisait des démos dans son home studio et que les artistes amateurs distribuaient leurs sources sonores ainsi que des zines.
 
 ### Révolution informatique et MIDI
@@ -128,7 +128,7 @@ Leurs activités présentaient une nouvelle structure appelée « musique pop sa
 
 ### L'intersection de Niconico Douga et YouTube
 
-Alors que la culture du commentaire et les œuvres dérivées s’entremêlent en plusieurs couches, la chambre s’est transformée en un lieu de production collaborative.
+Alors que la culture du commentaire et les œuvres dérivées s’entrelacent en plusieurs couches, la chambre s’est transformée en un lieu de production collaborative.
 « Créer par une seule personne » a finalement pris un sens dans un réseau où « de nombreuses personnes résonnaient ensemble ».
 
 ---
@@ -181,4 +181,4 @@ Et ces mains ne sont plus connectées via la souris ou le clavier MIDI.
 Directement connecté au monde entier.
 
 > « De ma chambre à votre monde. »
->- C'est peut-être l'image la plus honnête de la musique du 21ème siècle.
+>- C'est peut-être l'image la plus honnête de la musique au 21ème siècle.

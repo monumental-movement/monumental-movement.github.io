@@ -16,7 +16,7 @@ title: '[Chronique] Des origines de l''IDM à nos jours - Entre exploration inte
 
 
 
-## Qu'est-ce que l'IDM ?
+## Qu'est-ce qu'IDM ?
 
 
 Texte : mmr｜Thème : De la naissance de l'IDM à nos jours
@@ -26,7 +26,7 @@ Un labyrinthe de sons qui chatouille la curiosité intellectuelle - IDM (Intelli
 ---
 
 ## Début des années 1990 : Naissance – Le germe de la « musique dance à écouter »
-À la fin des années 1980, au milieu de la culture rave et de l'engouement techno au Royaume-Uni, les labels et artistes underground ont commencé à explorer la musique électronique pour une écoute à domicile, plutôt que comme un simple outil de club.
+À la fin des années 1980, au milieu de la culture rave et de l'engouement techno au Royaume-Uni, les labels et artistes underground ont commencé à explorer la « musique électronique pour une écoute à domicile » plutôt qu'un simple outil de club.
 La série « Artificial Intelligence » publiée par Warp Records en 1992 marque un tournant décisif et le nom « IDM » se généralise.
 
 - **Chef-d'œuvre représentatif**
@@ -90,7 +90,7 @@ Les synthétiseurs matériels tels que **Nord Lead** et **Access Virus** sont de
 | 3 | Poussoir carré | Ma voiture rouge chaude | Un mélange innovant de jazz et d'IDM |
 | 4 | µ-Ziq | Préparez-vous Jason | Développement et jeu semblables à ceux d'un exercice |
 | 5 | Conseils d'administration du Canada | Roygbiv | Son nostalgique et chaleureux |
-| 6 | Plaid | Abla Eedio | Mélodie géométrique et pop |
+| 6 | Plaid | Abla Eédio | Mélodie géométrique et pop |
 | 7 | Bogdan Raczynski | Battements mathématiques samouraï | Expérience de battement intense |
 | 8 | Cylob | Coupez les médiums, laissez tomber les basses | Un joyau humoristique du groupe Aphex |
 | 9 | Luc Vibert | J'aime l'acide | L'intersection de l'IDM et de l'acide |
@@ -99,7 +99,7 @@ Les synthétiseurs matériels tels que **Nord Lead** et **Access Virus** sont de
 ---
 
 ## Années 2000 : Post-IDM et Crossover
-Fusionnant avec l'électro, le post-rock, l'ambient, etc., il s'étend à un plus large éventail d'auditeurs. Avec la diffusion d’Internet et du P2P, la manière dont les versions sont réalisées a également changé.
+Fusionnant avec l'électro, le post-rock, l'ambient, etc., il s'étend à un plus large éventail d'auditeurs. Avec la diffusion d’Internet et du P2P, la nature des diffusions a changé.
 
 - **Chef-d'œuvre représentatif**
 - Conseils du Canada – *Geogaddi* (2002)
@@ -153,7 +153,7 @@ Développement d'instruments originaux à l'aide de **Max for Live**.
 | 6 | Halo de Laurier | La lumière du soleil sur les fanés | Chant expérimental et acoustique |
 | 7 | Tim Hecker | Vierges | Bruit et construction IDM |
 | 8 | Andy Stott | Problèmes de luxe | IDM sombre et profond orienté club |
-| 9 | Houx Herndon | Chœur | Pionnier de l’approche IA |
+| 9 | Houx Herndon | Chœur | Pionnier de l'approche IA |
 | 10 | Lapalux | Sans toi | R&B IDM émotionnel |
 
 ---

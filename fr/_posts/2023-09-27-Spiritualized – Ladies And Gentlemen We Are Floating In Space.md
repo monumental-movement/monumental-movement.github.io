@@ -19,7 +19,7 @@ Cet album est connu comme le chef-d'œuvre de Spiritualized et se caractérise p
 
 Spiritualized a été formé à Rugby, dans le Warwickshire, en Angleterre, en 1990, et à part le membre principal Jason Pearce, le groupe a toujours eu un casting de soutien fluide.
 
-Ils sont également reconnus comme l'un des groupes qui ont eu une influence majeure sur le rock alternatif et le rock indépendant à partir des années 1990.
+Ils sont également reconnus comme l’un des groupes qui ont eu une influence majeure sur le rock alternatif et le rock indépendant à partir des années 1990.
 
 Le nom du groupe vient du vaisseau spatial fictif « Spiritualized » qui apparaît dans le film 2001 : L'Odyssée de l'espace, et Jason Pearce est également connu comme l'ancien chanteur de Spacemen 3.
 

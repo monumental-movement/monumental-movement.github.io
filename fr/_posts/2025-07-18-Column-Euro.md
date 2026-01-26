@@ -9,7 +9,7 @@ permalink: /fr/column-euro/
 tags:
 - Euro
 - 90s
-title: '[Chronique] Qu''était-ce que la musique européenne des années 90 ? ──Un festin
+title: '[Chronique] Qu''était-ce que la musique européenne des années 90 ? ──Un festin
   de pistes de danse et de mélodies'
 ---
 
@@ -189,7 +189,7 @@ Ces dernières années, Euromusic a été réévalué des manières suivantes :
 
 - Comme City Pop, l'Eurobeat du Japon a été redécouvert par la génération Internet.
 
-De plus, l'euro des années 90 touche un nouveau public grâce à une écoute accrue sur Spotify et YouTube.
+De plus, l'euro des années 90 touche un nouveau public grâce à une lecture accrue sur Spotify et YouTube.
 
 
 

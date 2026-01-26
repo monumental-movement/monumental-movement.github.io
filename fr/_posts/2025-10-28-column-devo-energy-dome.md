@@ -76,7 +76,7 @@ Energy Dome est apparu pour la première fois sur l'album du groupe en 1980, Fre
 Sa forme rappelle l'architecture ancienne et les pyramides à degrés des Incas.
 Mark Mothersbaugh a déclaré plus tard :
 
-> "Il a été conçu selon des principes énergétiques anciens : il recycle l'énergie qui s'échappe du haut de votre tête."
+> « Il a été conçu selon des principes énergétiques anciens : il recycle l'énergie qui s'échappe du haut de votre tête. »
 > (Il a été conçu sur la base de principes énergétiques anciens, recyclant l'énergie qui s'échappe du haut de la tête)
 
 Ce mot « recycler » est important.
@@ -92,14 +92,14 @@ DEVO a utilisé des appareils électroniques et des synthétiseurs faits maison 
 Cette pratique peut être considérée comme le prototype du dernier **mouvement Indépendant/Lo-Fi**.
 
 Ils ont fait la satire du monde de l'entreprise tout en profitant des méthodes corporatives (logos, slogans, commercialisation).
-Dans le sens où DEVO est devenu lui-même une « marque » et a présenté les contradictions d’une marque anticapitaliste, ils ont également été les précurseurs des groupes artistiques postmodernes.
+Dans le sens où DEVO est devenu lui-même une « marque » et a présenté les contradictions d’une marque anticapitaliste, ils ont également été les précurseurs des groupes artistiques post-modernes.
 
 ---
 
 ## Chapitre 5 : Fonctionner comme pop ─ « Whip It » et ses idées fausses
 
 En apparence, le hit « Whip It » de 1980 ressemble à une simple synth-pop comique.
-Cependant, les paroles sont une parodie d'anti-héroïsme, disant : « Réparez le monde vous-même ».
+Cependant, les paroles sont une parodie d'anti-héroïsme, disant : « Réparez le monde vous-même ».
 L'humour de DEVO n'était pas seulement absurde, mais fonctionnait comme une critique d'une société manipulée par les médias.
 
 Dans leurs clips, ils condensent des laboratoires blancs, des sons synthétisés et des mouvements mécaniques dans un format pop-cynique.
@@ -176,7 +176,7 @@ timeline
 ## Chapitre 10 : L'importance actuelle du dôme énergétique
 
 L'Energy Dome est toujours apprécié par les fans de DEVO comme un « casque de pensée ».
-Pendant la pandémie de coronavirus, **Dôme énergétique avec écran facial** est vendu,
+Pendant la pandémie de coronavirus, des **dômes énergétiques avec écran facial** sont vendus,
 Il a une fois de plus attiré l'attention en tant qu'avertissement sur les problèmes environnementaux.
 
 En d'autres termes, le **Energy Dome est un dispositif social qui se « transforme » à chaque époque**.

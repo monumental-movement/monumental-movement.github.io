@@ -26,7 +26,7 @@ C'était le début de **Glitch**.
 
 Dans le passé, « l’erreur » était quelque chose qui devait être éliminé. Mais désormais, les erreurs sont devenues des « expressions ».
 Dans les petits défauts qui surviennent au sein d’un système parfait, nous trouvons quelque chose de nostalgique de notre humanité.
-Glitch est le langage esthétique du XXIe siècle, un poème né au moment où la technologie révèle ses limites.
+Glitch est le langage esthétique du 21ème siècle, un poème né au moment où la technologie révèle ses limites.
 
 ---
 
@@ -100,7 +100,7 @@ C'est aussi une métaphore qui reflète la structure même de la société.
 Ce sont tous des **problèmes structurels** de la société numérique.
 
 L'émergence de l'art NFT est aussi un bruit qui a changé le concept de « propriété » à l'ère de la reproduction numérique.
-Même si les données devraient pouvoir être copiées à l'infini, elles redéfinissent la rareté comme un « élément unique en son genre ».
+Même si les données devraient pouvoir être copiées à l’infini, elles redéfinissent la rareté comme un « élément unique en son genre ».
 Les contradictions continuent d’exister en tant que contradictions – c’est l’essence même de Glitch.
 
 La société deviendra de plus en plus « optimisée ».
@@ -144,7 +144,7 @@ Les humains eux-mêmes sont le plus gros Glitch.
 
 ---
 
-### Conclusion : l'espoir à l'intérieur du bug
+### Conclusion : l'espoir dans le bug
 
 Le monde continue de s'effondrer.
 Nos réseaux, nos villes et nous-mêmes.

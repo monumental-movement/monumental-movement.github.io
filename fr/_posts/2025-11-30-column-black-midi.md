@@ -20,7 +20,7 @@ title: '[Chronique] Black Midi — L''impact du rock expérimental de Londres et
 
 Texte : mmr｜Thème : De leur formation à leurs œuvres principales, leur évaluation tant au niveau national qu'international, et leur influence sur les groupes et la culture ultérieurs.
 
-Black Midi est un jeune groupe de rock/musique expérimentale formé à Londres en 2017. Quelques années seulement après leurs débuts, ils ont choqué le monde du rock indépendant avec leur son audacieux, leurs performances bouleversantes et leur structure live imprévisible qui dépassait les limites du rock conventionnel et du post-punk.
+Black Midi est un jeune groupe de rock/musique expérimentale formé à Londres en 2017. Quelques années seulement après leurs débuts, ils ont choqué le monde du rock indépendant avec leur son audacieux, leurs performances bouleversantes et leur structure live imprévisible qui dépassait les frontières du rock conventionnel et du post-punk.
 
 ---
 
@@ -48,7 +48,7 @@ color: #fff;
 - **Support/participants à la tournée** (selon la saison) : claviériste, saxophoniste, etc. (par exemple le claviériste Seth Evans, le saxophoniste Kaidi Akinnibi)
 - **Style/genre musical** : Il possède un large éventail de styles expérimentaux, notamment le math rock, le rock progressif, le post-punk, le noise et l'avant-jazz. Caractérisé par l'improvisation, la complexité structurelle et le mélange des genres.
 
-- **Origine du nom du groupe** : Ils ont eux-mêmes pris le nom du groupe de « Black Midi » (une partition musicale remplie de « noir » avec de nombreuses notes MIDI), qui est une culture/genre musical Internet originaire du Japon. Cependant, il n’y a pas de relation directe en termes de son, et ce n’est qu’une référence de nom.
+- **Origine du nom du groupe** : Ils ont eux-mêmes pris le nom du groupe de « Black Midi » (une partition musicale remplie de « noir » avec de nombreuses notes MIDI), qui est une culture/genre musical Internet originaire du Japon. Cependant, il n’y a pas de rapport direct en termes de son, et ce n’est qu’une référence au nom.
 
 Black Midi a fait ses débuts dans les live house et la scène indie/underground du sud de Londres, et malgré leur jeune âge, ils ont rapidement attiré l'attention depuis leurs débuts en 2019, armés d'une technique et d'un expérimental exceptionnels.
 
@@ -84,15 +84,15 @@ Nous résumerons les critiques nationales et internationales, les réactions des
 
 - L'origine de leur nom du genre musical noir "Black Midi" est également devenue un sujet brûlant en tant que lien culturel inattendu avec le Japon, et leur position de "jeune groupe britannique avec des références à la culture japonaise/à la culture Internet" a encore renforcé leur intérêt pour le Japon.
 
-De cette manière, au cours de leur première période, Black Midi a attiré une attention intense de la part des médias et des auditeurs en Europe, en Amérique et au Japon en tant que « nouvelle star brillante » et « un jeune groupe de rock plein d'expérimentation et d'impulsion ».
+De cette façon, au cours de leur première période, Black Midi a attiré une attention intense de la part des médias et des auditeurs en Europe, en Amérique et au Japon en tant que « nouvelle star brillante » et « un jeune groupe de rock plein d'expérimentation et d'impulsion ».
 
 ### 3‑2. Cavalcade, Hellfire – Un clin d’œil à l’expansion et un clin d’œil à l’ésotérisme
 
-- Après la sortie de leur 2ème album *Cavalcade*, de nombreux critiques ont commenté qu'il était « plus structuré et ambitieux », « Un labyrinthe de folie qui engloutit plusieurs genres tels que le jazz, le rock progressif et la musique expérimentale », et « Il est rare qu'un jeune artiste soit capable de changer et de s'élargir autant ».
+- Après la sortie de leur 2ème album *Cavalcade*, de nombreux critiques ont commenté qu'il était « plus structuré et ambitieux », « Un labyrinthe de folie qui engloutit de nombreux genres comme le jazz, le rock progressif et la musique expérimentale », et « Il est rare qu'un jeune artiste soit capable de changer et de s'élargir autant ».
 
 - D'un autre côté, il y a eu aussi des commentaires tels que « le son est trop dense », « l'équilibre entre le bruit et la structure est difficile à trouver » et « cela donne l'impression d'être trop élaboré, plutôt que la liberté d'improvisation live. » Certains critiques ont loué l'opulence et la structure de Cavalcade, mais ont estimé que le « danger brut » et « l'impulsion d'improvisation » caractéristiques de leur premier travail avaient diminué.
 
-- En outre, concernant leur troisième album *Hellfire*, il y a eu des compliments tels que « le plus expérimental et théâtral de tous les temps », « un groupe de chansons avec une narration, une allégorie et un caractère », « il choisit l'auditeur, mais il a un fort impact » et « une œuvre d'art qui sort du cadre du « rock ». » En particulier, la structure radicale et le son de Hellfire, ainsi que la nature multicouche de la musique, ont été très appréciés.
+- En outre, à propos de leur troisième album *Hellfire*, il y a eu des compliments tels que « le plus expérimental et théâtral de tous les temps », « un groupe de chansons avec une narration, une allégorie et un caractère », « il choisit l'auditeur, mais il a un fort impact » et « une œuvre d'art qui sort du cadre du « rock ». En particulier, la composition et le son radicaux de Hellfire, ainsi que la nature multicouche de la musique, ont reçu de nombreux éloges.
 
 - Cependant, en même temps, il y a aussi des plaintes persistantes selon lesquelles «la structure est trop complexe et l'entrée est étroite», «il faut l'écouter plus que l'impact initial», et «c'est une œuvre que les gens aiment ou détestent», et certains disent que les chansons de Black Midi sont difficiles à dire «pour tout le monde».
 En d'autres termes, la période de croissance de Black Midi a été une période au cours de laquelle il a élargi ses techniques, sa composition et sa musicalité, et sa radicalité et sa sophistication ont repoussé les limites d'une musique qui pouvait facilement être divisée en avantages et inconvénients et qui pouvait être choisie par l'auditeur.
@@ -121,7 +121,7 @@ En d'autres termes, la période de croissance de Black Midi a été une période
 - La musique de Black Midi couvre un large éventail de genres, notamment le math rock, le rock progressif, le post-punk, le noise, le jazz/avant-jazz, l'improvisation, le cabaret/éléments théâtraux, etc., et a une attitude approfondie de croisement et de mélange des genres. Cette approche a présenté une nouvelle manière de faire du rock/musique expérimentale qui n'est pas liée au « rock-ness » ou au « genre » traditionnel. Pour de nombreux groupes et artistes ultérieurs, le mixage/éclectique/expérimentation au-delà des frontières des genres est devenu un modèle qui pourrait devenir le « choix naturel ».
 - De plus, l'attitude de Kuro midi consistant à mettre l'accent non seulement sur les enregistrements en studio mais aussi sur le « live », l'« improvisation », la « reconstruction » et la « vivacité de la performance » a établi de nouvelles lignes directrices pour les jeunes groupes et les musiciens indie/underground. L’idée selon laquelle il n’y a pas de frontière stricte entre les œuvres enregistrées et les performances live, et que les deux ont la même valeur, est une perspective importante sur la manière dont les groupes et la musique devraient être au 21e siècle.
 
-### 4‑3. Propagation internationale/Internet et influence dans les sous-cultures
+### 4‑3. Diffusion internationale/Internet et influence sur les sous-cultures
 
 - Les œuvres de Black Midi se sont répandues non seulement au Royaume-Uni, mais également auprès des auditeurs indépendants et des sous-cultures/cultures Internet du monde entier, notamment en Europe, en Amérique et au Japon. En particulier, l'hybridité, la « non-orthodoxie », l'improvisation et le libre croisement des genres de leur son ont trouvé un écho à travers les pays et les cultures. En conséquence, les frontières entre la musique expérimentale et la musique indépendante ont été une fois de plus remises en question, et de nombreux auditeurs ont été incités à « explorer une musique sans limites conventionnelles ».
 
@@ -137,7 +137,7 @@ Des groupes comme Black Midi ne sont pas toujours populaires auprès de tout le 
 
 - Pour les auditeurs qui recherchent « un chaos d'improvisation/une intensité digne du live », la construction du studio peut parfois ressembler à un « manque de sensation live » ou à une « production excessive ». En fait, à mesure que le groupe évoluait, les critiques étaient également mitigées.
 
--De plus, parce qu'il est extrêmement technique, il est bien accueilli par les « personnes intelligentes » qui apprécient la performance et la beauté de la composition, mais il est difficile pour ceux qui recherchent la sentimentalité, le mouvement émotionnel, les mélodies entraînantes et la familiarité. En particulier, les paroles, le chant, le « caractère excessif » et la « structure déformée » de la chanson ont tendance à être divisés en opinions « j'aime/je n'aime pas ».
+-De plus, parce qu'il est extrêmement technique, il est bien accueilli par les « personnes intelligentes » qui apprécient la performance et la beauté de la composition, mais il est difficile pour ceux qui recherchent la sentimentalité, le mouvement émotionnel, les mélodies entraînantes et la familiarité. En particulier, les paroles, le chant, la « démesure » et la « structure déformée » de la chanson ont tendance à être divisés en opinions « j'aime/je n'aime pas ».
 
 Pourtant, la valeur de Black Midi réside dans les points suivants.
 

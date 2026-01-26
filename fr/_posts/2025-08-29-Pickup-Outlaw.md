@@ -88,7 +88,7 @@ Sentiment d'outlaw : l'esprit de la techno comme battement de cœur de l'undergr
 <br>
 
 
-### Various – Tresor Compilation Vol. 6
+### Divers – Compilation Trésor Vol. 6
 <a href="https://jp.mercari.com/item/m83834888135?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Tresor%20Compilation%20Vol.%206.webp"></a>
 
 Format : CD
@@ -163,14 +163,14 @@ Outlaw sentiment : Un pèlerinage vers le côté obscur de la ville sonore, comb
 <br>
 
 
-### VA – Berlin 1992 Tresor Kompilation – Der Klang Der Familie
+### VA – Berlin 1992 Tresor Compilation – Der Klang Der Family
 <a href="https://jp.mercari.com/item/m20174423933?afid=6142608987"><img src="../assets/images/VA%E2%80%93%20Berlin%201992.webp"></a>
 
 Format : Vinyle
 
 Genre : Acide / Techno / Trance
 
-Résumé : Sortie en 1992, une superbe compilation des premières années de Tresor. Une pièce historique qui incarne les « échos de la famille ».
+Résumé : Sortie en 1992, une superbe compilation des débuts de Tresor. Une pièce historique qui incarne les « échos de la famille ».
 
 
 Sentiment de hors-la-loi : souvenirs d'improvisation de la communauté urbaine et de sombres luttes qui entourent la naissance de la scène.

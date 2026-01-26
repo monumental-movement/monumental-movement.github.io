@@ -11,15 +11,15 @@ tags:
 - Dub
 - Downtempo
 - 80s
-title: Bomb The Bass – Say A Little Prayer
+title: Bomb The Bass – Dites une petite prière
 ---
 
 
-Bomb The Bass ことTimothy Simenon (Tim Simenon) は、1980年代後半のアシッドハウスシーンに貢献したUKエレクトロニックミュージックシーンの大御所。名作「Beat Dis」でよく知られている。
+Timothy Simenon (Tim Simenon), également connu sous le nom de Bomb The Bass, est une figure majeure de la scène musicale électronique britannique qui a contribué à la scène acid house de la fin des années 1980. Il est surtout connu pour son chef-d'œuvre "Beat Dis".
 
-「Say A Little Prayer」は、Burt Bacharach & Hal David 作、1967年に Dionne Warwick によってリリースされた名曲のカヴァー。
+"Say A Little Prayer" est une reprise de la célèbre chanson écrite par Burt Bacharach et Hal David et publiée par Dionne Warwick en 1967.
 
-Bomb The Bass バージョンは、アシッドハウス&ダウンテンポremix で、1988年にハウス・アシッドハウスを専門とするレーベルRhythm Kingからリリースされた。
+La version Bomb The Bass est un remix acid house et downtempo sorti en 1988 par Rhythm King, un label spécialisé dans la house et l'acid house.
 
 
 #### Liste des chansons

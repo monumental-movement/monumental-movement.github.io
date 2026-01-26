@@ -10,13 +10,13 @@ tags:
 - Techno
 - Acid
 - 00s
-title: Creeper IV – Shadowstorm Hula Map
+title: Creeper IV – Carte Hula Shadowstorm
 ---
 
 
-Creeperは、UK Acid/Techno DJ&プロデューサーであり、1980年代初頭のイギリスのanarcho-punk(アナーコパンク)バンドHagar The Wombのドラマーとしても活躍したChris Knowlesと、Techno DJ&プロデューサー Henry Cullen(D.A.V.E. The Drummer)によるプロジェクト。
+Creeper est un projet de Chris Knowles, un DJ et producteur britannique Acid/Techno qui était également le batteur du groupe anarcho-punk britannique Hagar The Womb au début des années 1980, et du DJ et producteur techno Henry Cullen (D.A.V.E. The Drummer).
 
-「Creeper IV – Shadowstorm / Hula / Map 」は、2000年にUK acid-techno レーベルCluster Records からリリースされた。Creeper Ⅰ〜Ⅴ名義でリリースされたシリーズの第4弾。
+"Creeper IV – Shadowstorm / Hula / Map" est sorti en 2000 sur le label britannique acid-techno Cluster Records. Le quatrième de la série sorti sous les noms Creeper I à V.
 
 
 #### Liste des chansons

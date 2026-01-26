@@ -52,11 +52,11 @@ En revanche, la musique électronique dance, qui s'est développée depuis les a
 ## 2. Conditions préalables à l'établissement d'un genre
 
 
-Pour qu’Electro Swing puisse exister, les conditions techniques et culturelles suivantes étaient nécessaires.
+Pour qu’Electro Swing puisse voir le jour, les conditions techniques et culturelles suivantes étaient nécessaires.
 
 * Vulgarisation de la technologie d'échantillonnage numérique
 *Première culture Internet où la gestion des droits d'auteur était relativement souple
-* Jeu multi-genres par DJ du club
+* Jeu multi-genres par le DJ du club
 * Réévaluer l'esthétique rétro
 
 C'est notamment entre la fin des années 1990 et le début des années 2000 que l'environnement DAW est devenu populaire au niveau personnel, permettant de rééditer des sources sonores passées.
@@ -80,7 +80,7 @@ La musique de Parov Stelar est unique en ce sens qu'elle combine l'impact imméd
 
 ## 5. Unicité du Caravan Palace
 
-Le Caravan Palace français est unique en ce sens qu'il a développé l'Electro Swing sous la forme d'un groupe. Il a créé une combinaison de performances instrumentales en direct et de programmation électronique, en mettant l'accent sur la performance visuelle et physique.
+Le Caravan Palace en France est unique en ce sens qu'il a développé l'Electro Swing sous la forme d'un groupe. Il a créé une combinaison de performances instrumentales en direct et de programmation électronique, en mettant l'accent sur la performance visuelle et physique.
 
 Leurs chansons mélangent des éléments non seulement de swing mais aussi de jazz manouche, de pop et d'électro, élargissant ainsi la gamme expressive de l'Electro Swing.
 
@@ -88,7 +88,7 @@ Leurs chansons mélangent des éléments non seulement de swing mais aussi de ja
 
 ## 6. Structure musicale
 
-La structure d'Electro Swing se compose souvent des éléments suivants :
+La structure d’Electro Swing se compose souvent des éléments suivants :
 
 * Fragments mélodiques dérivés du swing
 * Rythme de danse clair
@@ -196,7 +196,7 @@ D’un autre côté, une autre caractéristique est qu’il était difficile de 
 
 ## 19. Comparaison avec d'autres genres
 
-L'Electro Swing est parfois confondu avec le Nu Jazz, le Swing House et le Retro House, mais la plus grande différence est qu'il met en avant la symbolique de la période swing. Cela donne la priorité à la lisibilité culturelle plutôt qu’à la complexité musicale.
+L'Electro Swing est parfois confondu avec le Nu Jazz, le Swing House et le Retro House, mais la plus grande différence est qu'il met en avant le symbolisme de l'ère swing. Cela donne la priorité à la lisibilité culturelle plutôt qu’à la complexité musicale.
 
 Même si cette structure a affaibli la capacité du genre à résister aux critiques, elle a été efficace pour gagner des auditeurs à long terme.
 

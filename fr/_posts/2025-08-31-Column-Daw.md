@@ -52,7 +52,7 @@ Le mixage/mastering automatique, la génération d'IA, le partage de projets clo
 
 ### Origine et débuts (ère de la bande vers l'analogique)
 
-L'origine du DTM est l'acte lui-même de « créer une œuvre en enregistrant et en éditant du son ». Les expériences avec des supports physiques, tels que le montage sur bande (couper et coller), le bouclage de bande (création de sons répétés), l'inversion de bande et la manipulation de vitesse, ont façonné la musique électronique au milieu du XXe siècle. C’était une époque où les grands équipements de studio et les ingénieurs qualifiés étaient au centre des préoccupations.
+L'origine du DTM est l'acte lui-même de « créer une œuvre en enregistrant et en éditant du son ». Les expériences avec des supports physiques, tels que le montage sur bande (couper et coller), le bouclage de bande (création de sons répétés), l'inversion de bande et la manipulation de vitesse, ont façonné la musique électronique au milieu du XXe siècle. C’était une époque où les grands équipements de studio et les ingénieurs qualifiés étaient au centre des préoccupations.
 
 <hr>
 
@@ -76,7 +76,7 @@ Avec l’amélioration des performances des PC personnels, la multiplication des
 
 ### Années 2010 et au-delà : diversification, improvisation et cloud computing
 
-Les DAW ont évolué d'outils destinés simplement à « enregistrer, arranger et mixer » à des fonctionnalités multifonctions telles que les performances en direct (Ableton Live), la collaboration en temps réel, la liaison vidéo et l'intégration modulaire. Les options d'utilisation s'étendent encore, notamment les applications mobiles/DAW pour iPad, la synchronisation de projets cloud et l'introduction de modèles d'abonnement.
+Les DAW ont évolué d'outils destinés simplement à « enregistrer, arranger et mixer » à des fonctionnalités multifonctionnelles telles que les performances en direct (Ableton Live), la collaboration en temps réel, la liaison vidéo et l'intégration modulaire. Les options d'utilisation s'étendent encore, notamment les applications mobiles/DAW pour iPad, la synchronisation de projets cloud et l'introduction de modèles d'abonnement.
 
 <hr>
 

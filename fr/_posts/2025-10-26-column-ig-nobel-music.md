@@ -48,7 +48,7 @@ Le prix a été décerné à des recherches qui font rire et réfléchir.
 
 En plus de domaines tels que la physique, la médecine, la paix et la littérature, ce prix est décerné dans des domaines tels que la physique, la médecine, la paix et la littérature.
 Les recherches sur le « son » et la « musique » ont souvent attiré l'attention.
-En effet, la science du son n’est pas qu’un simple phénomène ondulatoire.
+En effet, la science du son n’est pas seulement un phénomène ondulatoire.
 C’est parce qu’il pénètre profondément dans les émotions humaines, la société et la physiologie.
 
 Retraçant l'histoire du prix Ig Nobel,

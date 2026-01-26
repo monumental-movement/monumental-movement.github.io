@@ -18,7 +18,7 @@ title: '[Chronique] Ambiance sombre / Ambiance rituelle'
 
 ## 1. Redéfinir la notion de genre
 
-Texte : mmr｜Thème : Formation d'une expérience immersive à travers le son, l'espace et la structure rituelle
+Texte : mmr｜Thème : Formation d'une expérience immersive à travers l'acoustique, l'espace et la structure rituelle
 
 Dark Ambient n'est pas une extension sémantique de la musique ambiante, mais une expression sonore créée en réduisant intentionnellement des éléments musicaux.
 
@@ -79,7 +79,7 @@ Grâce à cette méthodologie, la musique est présentée comme un état d’êt
 
 ### 4.1 Déséquilibre des bandes de fréquences
 
-Le design, centré autour de la limite inférieure de la plage audible, crée une perception accompagnée d'une sensation vibratoire physique.
+Le design, centré autour de la limite inférieure de la plage audible, crée une perception accompagnée d'une sensation physique de vibration.
 
 ### 4.2 Gestion de l'enregistrement spatial
 
@@ -214,7 +214,7 @@ Ce qu’ils ont en commun, c’est que le son ne fournit pas d’explications.
 *Expérience acoustique environnementale d'Industrial
 * Établissement Dark Ambient par Lustmord
 
-### Années 1990
+### années 1990
 
 * Reconnaissance du genre Dark Ambient
 * Systématisation Ritual Ambient par Raison d’être
@@ -239,7 +239,7 @@ Bien que le nombre produit soit limité, il conserve sa valeur de référence.
 
 Lustmord et Raison d’être sont les références qui ont établi la méthodologie Dark Ambient / Ritual Ambient.
 
-Leur influence n’est pas une imitation musicale ;
+Leur influence n'est pas une imitation musicale ;
 
 * Conception d'espace
 * Manipulation perceptuelle

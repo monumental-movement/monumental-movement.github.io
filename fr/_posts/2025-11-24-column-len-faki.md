@@ -155,7 +155,7 @@ Il s’agit d’un morceau important qui crée des pics d’émotion et des mome
 
 #### informations de base
 - BPM : Estimé autour de 128
-- Tonalité : Estimé La mineur
+- Tonalité : Estimé La Mineur
 - Structure : Produit une sensation futuriste avec des rythmes mécaniques et des synthés
 
 #### Structure et rythme de la chanson

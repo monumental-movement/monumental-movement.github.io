@@ -12,22 +12,23 @@ tags:
 - Punk
 - Jazz
 - History
-title: 【コラム】 10インチレコード技術補足編：溝幅・回転数・マスタリングの真実
+title: '[Chronique] Supplément sur la technologie du disque 10 pouces : La vérité
+  sur la largeur du groove, la vitesse de rotation et le mastering'
 ---
 
 
-## 10インチという設計思想：フォーマットの中庸に宿る精度
+## Concept de design 10 pouces : la précision dans le format
 
 
-文：mmr｜テーマ：10インチレコードの構造・回転数・マスタリングなどの技術的背景を掘り下げ、フォーマットが生む音の個性を再考する
+Texte : mmr｜Thème : Plonger dans le contexte technique des disques 10 pouces, comme leur structure, leur vitesse de rotation et leur mastering, et reconsidérer le caractère unique du son produit par le format.
 
 
-レコードの物理的構造は、音楽フォーマットの哲学を最も純粋な形で体現している。  
-10インチ盤はその中でも特に「設計的中庸」に位置するフォーマットだ。  
-直径25cmという盤面は、溝の線速度・溝幅・回転数のすべてにおいて、**7インチと12インチの中間特性**を示す。
+La structure physique d'un disque incarne la philosophie du format musical dans sa forme la plus pure.
+Le disque de 10 pouces est un format particulièrement « intermédiaire ».
+Une planche d'un diamètre de 25 cm présente des caractéristiques intermédiaires entre 7 pouces et 12 pouces en termes de vitesse de rainure linéaire, de largeur de rainure et de vitesse de rotation.
 
-これが意味するのは、**再生時間と音質のトレードオフの最適解**がここにあるということ。  
-10インチは、設計上の制約が少ない“美しいバランス点”に存在している。
+Cela signifie que voici la solution optimale pour le compromis entre temps de lecture et qualité sonore.
+La taille de 10 pouces existe à un « bel équilibre » avec peu de contraintes de conception.
 
 ---
 
@@ -45,45 +46,45 @@ color: #fff;
 </style>
 
 
-### 回転数と線速度：音の「勢い」を決める物理法則
+### Vitesse de rotation et vitesse linéaire : lois physiques qui déterminent la « quantité de mouvement » du son
 
-レコードの音質を決める要素のひとつが、**回転数（RPM）と線速度（linear velocity）**である。
+L'un des facteurs qui déterminent la qualité sonore d'un disque est le nombre de tours (RPM) et la vitesse linéaire.
 
-- **7インチシングル：45RPM**  
-  外周では音の勢いがあり、高域の再現に優れる。だが内周では歪みが増える。
+- **7 pouces simple : 45 tr/min**
+Il y a beaucoup de force dans le son à la périphérie externe et une excellente reproduction des hautes fréquences. Cependant, la distorsion augmente au niveau de la circonférence intérieure.
 
-- **12インチLP：33⅓RPM**  
-  長時間再生に適し、安定した音質を確保するが、高域はやや落ち着く。
+- **LP 12 pouces : 33⅓RPM**
+Il convient à une lecture à long terme et garantit une qualité sonore stable, mais les hautes fréquences sont quelque peu atténuées.
 
-- **10インチLP：33⅓RPMまたは45RPM**  
-  33⅓では片面約12分、45RPMでは約8〜9分が限界。  
-  つまり、**時間よりも音質を優先した設計が可能**なのが10インチの強みである。
+- **LP 10 pouces : 33⅓RPM ou 45RPM**
+La limite est d'environ 12 minutes par côté à 33⅓ et d'environ 8 à 9 minutes à 45 tr/min.
+Autrement dit, la force du 10 pouces, c’est qu’il est possible de concevoir un système privilégiant la qualité sonore dans le temps.
 
-線速度の平均値は、12インチに比べて約15％高く、内周歪みが少ない。  
-特にジャズやインディ・ロックのようにアタックの強い音楽では、この速度特性が明瞭なリズム感と空間の分離を生む。
-
----
-
-### 溝幅とカッティングレベル：音圧と再生時間の綱引き
-
-アナログ盤の溝幅は、音の振幅（ダイナミクス）に比例する。  
-つまり、**ラウドな音を刻むほど、再生時間は短くなる**。
-
-12インチ盤では1インチあたり約250〜300本の溝が刻まれるが、10インチ盤では音圧を優先する場合、溝本数を200本程度に抑えることが多い。  
-結果として音溝が太く、音の“エッジ”が強調される。
-
-この構造的特徴により、10インチ盤は以下のような音響傾向を示す：
-- 音圧感があり、低域のアタックが明確  
-- 中域の定位がタイト  
-- 高域はわずかに荒いが、勢いがある  
-
-まさに「ライブ盤やラフミックスに向く」特性であり、10インチを選ぶアーティストが実験性を重視する理由がここにある。
+La vitesse linéaire moyenne est d'environ 15 % supérieure à celle de 12 pouces et il y a moins de distorsion sur la périphérie interne.
+Surtout dans les musiques avec une forte attaque, comme le jazz ou le rock indépendant, cette caractéristique de vitesse crée une impression claire de rythme et de séparation spatiale.
 
 ---
 
-### マスタリング工程：ラッカーからスタンパーへ
+### Largeur du groove et niveau de découpe : Tir à la corde entre pression sonore et temps de lecture
 
-レコード制作における10インチ特有の工程上のポイントは、**ラッカー・カッティング**段階にある。  
+La largeur du groove sur un disque analogique est proportionnelle à l'amplitude (dynamique) du son.
+En d'autres termes, **plus le son est fort, plus la durée de lecture est courte**.
+
+Sur un disque de 12 pouces, on compte environ 250 à 300 sillons par pouce, mais sur un disque de 10 pouces, lorsque la pression acoustique est une priorité, le nombre de sillons est souvent maintenu aux alentours de 200.
+En conséquence, le sillon sonore est plus épais et le « bord » du son est accentué.
+
+En raison de cette caractéristique structurelle, les disques de 10 pouces présentent les tendances acoustiques suivantes :
+- Bonne pression sonore et attaque claire des basses fréquences
+- Localisation étroite des médiums
+- La gamme haute est légèrement rugueuse, mais a de l'élan
+
+Cette caractéristique le rend adapté aux enregistrements live et aux mixages bruts, et c'est pourquoi les artistes qui choisissent des disques de 10 pouces mettent l'accent sur l'expérimentation.
+
+---
+
+### Processus de maîtrise : du vernis au tampon
+
+Le point clé du processus de production de disques 10 pouces est l'étape de **découpe de laque**.
 En raison du diamètre plus petit du disque de 10 pouces, il y a moins d’erreur de suivi de la tête de coupe.
 Cela améliore la précision du groove sonore et rend la localisation stéréo plus stable.
 
@@ -96,7 +97,7 @@ Ajustez la pression sonore, la largeur stéréo et la phase.
 2. **Découpe de laque**
 Sculptez des rainures sur une planche de laque de 10 pouces.
 La largeur du groove et le contrôle du pas sont importants.
-« Dans les 12 minutes à 33⅓RPM » est l'un des critères de conception.
+« Dans les 12 minutes à 33⅓ tr/min » est l'un des critères de conception.
 
 3. **Électroformage**
 Copie avec nickel dans l'ordre maître → mère → tampon.
@@ -160,8 +161,8 @@ Il ne s'agit plus d'un format du passé, mais d'un **appareil de 10 pouces au no
 
 ### Conclusion : Philosophie musicale dans la physique d'un disque
 
-Lorsqu'on parle de l'attrait technique des disques de 10 pouces, ce qui ressort derrière c'est la « liberté créée par les contraintes ».
-Limites de conception, contraintes de temps et limites de taille.
+Lorsqu’on parle de l’attrait technique des disques de 10 pouces, ce qui ressort derrière c’est la « liberté créée par les contraintes ».
+Limites de conception, contraintes de temps et contraintes de taille.
 Tout cela rend la musique « condensée » et lui redonne son « ressenti ».
 
 Le format est la philosophie, l'ingénierie et la poésie.

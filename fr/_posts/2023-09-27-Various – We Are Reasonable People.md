@@ -9,13 +9,13 @@ permalink: /fr/various-we-are-reasonable-people/
 tags:
 - Techno
 - Downtempo
-title: Various – We Are Reasonable People
+title: Divers – Nous sommes des personnes raisonnables
 ---
 
 
-『Music Week』はこのアルバムに肯定的なレビューとして「既存のファンには間違いなくアピールし、アンダーグラウンドのサウンドに興味を持つ人にとっても良い紹介となるだろう」と掲載しました。
+Music Week a donné à l'album une critique positive, en déclarant: "Il plaira certainement aux fans existants et constitue une bonne introduction pour ceux qui s'intéressent aux sons underground."
 
-また、『Brainwashed』は1998年のコンピレーションアルバムの中で3番目にランク付け。さらに、2013年に『Fact』マガジンは「Freeman Hardy & Willis Acid」を、Aphex Twinのトラックのベスト50において10位に位置づけるほどの評価をしました。
+« Brainwashed » se classe également troisième parmi les albums de compilation de 1998. De plus, en 2013, le magazine Fact a classé « Freeman Hardy & Willis Acid » au 10e rang de sa liste des 50 meilleurs morceaux d'Aphex Twin.
 
 #### Liste des chansons
 ```md

@@ -47,7 +47,7 @@ color: #fff;
 
 La structure la plus fondamentale de la musique est le **rythme**.
 Le rythme est l'ordre du temps et, par la répétition, il ramène le passé au présent.
-Fêtes, prières et danses. Tous ces actes constituent une expérience du cercle du temps.
+Fêtes, prières et danses. Tous ces actes sont une expérience du cercle du temps.
 
 Tracer un rythme est l’acte même de consolider la mémoire.
 Dans la culture orale ancienne, les poèmes et les mythes étaient transmis en rythme.
@@ -61,7 +61,7 @@ Les listes de lecture Spotify ne sont également qu'un nouveau format.
 
 ## Chapitre 2 : Enregistrement et lecture — Naissance du « temps enregistré »
 
-Au début du 20e siècle, lorsque le **phonographe d'Edison** est apparu, l'humanité a été capable de reproduire pour la première fois les « sons du passé ».
+Au début du 20e siècle, lorsque le **phonographe d'Edison** est apparu, les humains ont été capables de reproduire pour la première fois les « sons du passé ».
 Ce fut une révolution dans l’histoire de la musique, et en même temps la naissance de la « technologie pour préserver le temps ».
 
 Disques, cassettes, CD, MP3 et streaming.
@@ -80,7 +80,7 @@ La musique fait pleurer les gens, pas tant à cause du son lui-même, mais parce
 Psychologiquement, les mélodies et les harmonies fonctionnent comme des « étiquettes » de mémoire.
 
 Lorsque nous écoutons une certaine chanson, nous rejouons inconsciemment « l'odeur, la lumière et le vent » de cette époque en même temps.
-Le son est une machine à remonter le temps et la mélodie est la clé de la mémoire.
+Le son est une machine à voyager dans le temps et la mélodie est la clé de la mémoire.
 
 La musique écoutée dans l'enfance, en particulier, a un niveau élevé de plasticité cérébrale, de sorte qu'elle devient un noyau émotionnel essentiel tout au long de la vie d'une personne.
 Le phénomène des « mélodies nostalgiques » qui reviennent sur Spotify et YouTube témoigne de leur rôle en tant que « dispositifs de reproduction de la mémoire » culturelle.
@@ -93,7 +93,7 @@ Dans le passé, dès qu’une personne sélectionnait un disque et laissait tomb
 Cependant, à l’époque moderne, l’IA prédit notre « humeur » en fonction de notre historique de lecture passé.
 
 « Discover Weekly » de Spotify et « Personal Mix » d'Apple Music sont des tentatives d'édition algorithmique de la mémoire.
-Mais il y a aussi un danger qui s’y cache.
+Mais il y a aussi un danger qui les guette.
 Nous écoutons peut-être « la mémoire en tant que données » plutôt que « notre propre mémoire ».
 
 > La nostalgie humaine est externalisée par les algorithmes.

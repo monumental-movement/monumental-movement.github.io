@@ -11,13 +11,13 @@ tags:
 - Garage House
 - UK House
 - 90s
-title: Mercedes – Living For The Moment
+title: Mercedes – Vivre pour le moment
 ---
 
 
-トリニダード出身でイギリスを拠点に活動するシンガーMercedes(メルセデス)が、Depth Charge、 Eon、Bizarre Inc、Andrew Meechamを輩出したことで有名なUKのレーベルVinyl Solutionから1994年にリリースしたハウス・ガラージハウストラック。
+Un morceau house/garage house sorti en 1994 par la chanteuse Mercedes, née à Trinidad et basée au Royaume-Uni, sur Vinyl Solution, un label britannique célèbre pour avoir produit Depth Charge, Eon, Bizarre Inc et Andrew Meecham.
 
-A面１曲目とB面は、ロンドンを拠点とする DJ・プロデューサーBooker TとMark Frankによるremix。A面２曲目はUKのマルチ楽器奏者、プロデューサー、ミキシング/マスタリング エンジニアAlan Scott（Al Scott）によるremix。
+Le premier morceau des faces A et B sont des remixes des DJ/producteurs londoniens Booker T et Mark Frank. Le deuxième morceau de la face A est un remix du multi-instrumentiste, producteur et ingénieur mixeur/mastering britannique Alan Scott (Al Scott).
 
 #### Liste des chansons
 ```md

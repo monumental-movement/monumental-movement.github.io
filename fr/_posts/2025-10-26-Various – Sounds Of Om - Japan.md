@@ -9,11 +9,11 @@ permalink: /fr/various-sounds-of-om-japan/
 tags:
 - House
 - 00s
-title: Various – Sounds Of Om - Japan
+title: Divers – Sounds Of Om - Japon
 ---
 
 
-ハウスレーベルOM RECORDSのベスト盤。日本のみの特別企画コンピレーションCD。
+Meilleur album du label house OM RECORDS. Un CD de compilation spécial pour le Japon uniquement.
 
 #### Liste des chansons
 ```md

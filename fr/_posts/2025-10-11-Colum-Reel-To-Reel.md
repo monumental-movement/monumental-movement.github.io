@@ -72,7 +72,7 @@ Mais c’est cette « finitude » qui fait du son un événement à part.
 
 ---
 
-## Chapitre 3 Généalogie et prochaine vague de renouveau analogique
+## Chapitre 3 Généalogie du renouveau analogique et de la prochaine vague
 Au cours des 20 dernières années, nous avons assisté à plusieurs reprises au « retour de l’analogique ».
 Les disques font revivre le rituel visuel** à travers « l’objet » de la veste.
 Les cassettes ont ramené l'esprit DIY et la **liberté lo-fi**.
@@ -104,7 +104,7 @@ Il s'agit de « croire au son » plutôt que de « consommer du son ».
 
 ## Chapitre 5 Reelism 2025 : La naissance d'une nouvelle culture analogique
 Reel-to-reel fait actuellement l'objet d'une mise à jour discrète.
-Des sociétés telles que Recording The Masters et ATR Magnetics ont relancé la production de bandes.
+Des sociétés telles que Recording The Masters et ATR Magnetics ont repris la production de bandes ;
 De jeunes ingénieurs et artistes reconstruisent la « culture Reel ».
 
 Dans le domaine de la musique ambiante et expérimentale,
@@ -127,7 +127,7 @@ Sa nature finie encourage les auditeurs à se concentrer et à s'immerger.
 Tout comme la boucle infinie du streaming a donné naissance à « l’écoute en écoutant »,
 Le temps limité de Reel vous aidera à retrouver votre capacité à vous concentrer sur l'écoute.
 L'analogique n'est plus rétro.
-C'est une autre façon pour la technologie d'élargir les sens humains.
+C'est une autre façon dont la technologie élargit les sens humains.
 
 ---
 

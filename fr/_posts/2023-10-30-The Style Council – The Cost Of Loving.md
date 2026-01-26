@@ -10,11 +10,11 @@ tags:
 - Pops
 - Soul
 - Synth-Pop
-title: The Style Council – The Cost Of Loving
+title: Le conseil de style – Le coût d’aimer
 ---
 
 
-The Style Council（スタイル・カウンシル）は、ニュー・ウェイヴ/モッズ・リバイバル・バンド the Jam（ザ・ジャム）の元シンガー＆ギタリストPaul Weller（ポール・ウェラー）と、Dexys Midnight Runners（デキシーズ・ミッドナイト・ランナーズ）、 the Bureau（ビューロー）、the Merton Parkasのメンバーだったキーボード奏者のMick Talbot（ミック・タルボット）によって1982年後半に結成されたイギリスのバンド。
+The Style Council est un groupe britannique formé fin 1982 par Paul Weller, ancien chanteur et guitariste du groupe new wave/mod revival the Jam, et le claviériste Mick Talbot, ancien membre des Dexys Midnight Runners, du Bureau et des Merton Parkas.
 
 #### Liste des chansons
 ```md

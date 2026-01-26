@@ -10,7 +10,7 @@ tags:
 - Techno
 - Remix
 - 10inch
-title: Mark NRG - Don't Stop (Les remixes)
+title: Mark NRG - Don't Stop (Les Remixes)
 ---
 
 
@@ -18,7 +18,7 @@ Mark NRG est un DJ et producteur de musique originaire de Francfort, en Allemagn
 
 Ayant produit plus de 50 disques dans différents projets et travaillé dans de nombreux studios d'enregistrement musical en tant qu'ingénieur du son et producteur, il a été félicité pour son attitude audacieuse envers l'expérimentation artistique.
 
-Au début de sa carrière, il était connu pour avoir réussi à fusionner des éléments du jazz et du hip-hop avec de la musique électronique comme la house, la techno et l'industrie. Même sur la scène techno, il a sorti de nombreuses œuvres acoustiquement remarquables dans les environnements de club, et ce "Don't Stop" en fait partie.
+Au début de sa carrière, il était connu pour avoir fusionné avec succès des éléments du jazz et du hip-hop avec de la musique électronique comme la house, la techno et l'industrie. Même sur la scène techno, il a sorti de nombreuses œuvres acoustiquement remarquables dans les environnements de club, et ce "Don't Stop" en fait partie.
 
 L'héritage de Mark NRG continue de résonner auprès des fans de musique électronique du monde entier, faisant de lui un artiste innovant au sein de l'industrie.
 

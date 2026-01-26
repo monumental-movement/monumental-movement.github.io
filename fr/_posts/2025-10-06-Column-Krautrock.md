@@ -75,7 +75,7 @@ Il a fini par devenir membre du groupe.
 
 Leur musique est un « rythme fluide » qui rejette toute structure.
 Surtout sur l'album "Tago Mago" (1971), les chansons ont été réarrangées grâce au montage.
-Cela a donné naissance au concept selon lequel « l’enregistrement sur bande est en soi un instrument ».
+Cela a donné naissance au concept selon lequel la bande d’enregistrement elle-même est un instrument.
 Les techniques d'édition de Shukai étaient similaires à celles de l'échantillonnage hip-hop ultérieur.
 
 > "Le rythme régit le temps. Mais l'improvisation libère du temps."
@@ -169,7 +169,7 @@ Le « futur » qu’ils voyaient se trouve désormais dans notre paysage musical
 ### Révolution en silence
 Unité **Cluster** de **Dieter Möbius** et **Hans-Joachim Roedelius**.
 Contrairement à CAN et Faust, ils ne sont guère du « bruit » ou du « rock ».
-Les réverbérations et la respiration de la ville se faisaient sentir entre les sons électroniques inorganiques et le silence.
+Entre les sons électroniques inorganiques et le silence, les réverbérations et la respiration de la ville se faisaient sentir.
 
 Son premier album, Cluster 71 (1971), est une série de sons de bandes expérimentaux, mais aussi quelque peu méditatifs.
 La suite, « Zuckerzeit » (1974), a été produite par Klaus Dinger de Neu! et a introduit un rythme minimaliste et confortable.
@@ -206,8 +206,8 @@ Le leader **Florian Fricke** était profondément dévoué à la musique et à l
 Cependant, ce qu'il visait n'était pas la froideur de l'électronique, mais le **mystère et le son intérieur**.
 
 ### Résonance avec Herzog
-Le réalisateur **Werner Herzog** est tombé amoureux de leurs sons spirituels et les a utilisés dans plusieurs de ses films, notamment « Aguirre : La colère de Dieu », « Nosferatu » et « Fitzcarraldo ».
-La musique de « Aguirre » (1975) a secoué la conscience du public comme une hallucination résonnant dans les montagnes des Andes.
+Le réalisateur **Werner Herzog** est tombé amoureux de leurs sons spirituels et les a utilisés dans plusieurs de ses films, notamment « Aguirre », « Nosferatu » et « Fitzcarraldo ».
+La musique d'« Aguirre » (1975) a secoué la conscience du public comme une hallucination résonnant dans les montagnes des Andes.
 
 > « Le son du Popol Vu était les paroles de prière que l'âme entendait. »
 
@@ -224,7 +224,7 @@ Il a développé le krautrock en travaillant en solitaire en studio plutôt qu'e
 Ils ont construit de longs morceaux, chacun durant plus de 30 minutes, et les ont créés comme pour « sculpter » le temps avec le son.
 
 Ses chefs-d'œuvre « Timewind » (1975) et « Moondawn » (1976) sont des méditations électroniques aux rythmes et séquenceurs sans fin.
-Pour plus tard Jean-Michel Jarre, Vangelis et même les écrivains Techno, il est devenu le point de départ du « philosophe électronique ».
+Pour plus tard Jean-Michel Jarre, Vangelis et même les écrivains techno, il devient le point de départ du « philosophe des électrons ».
 
 > "Le synthétiseur est mon univers. La solitude est le carburant de la créativité." - Klaus Schulze
 
@@ -232,11 +232,11 @@ Pour plus tard Jean-Michel Jarre, Vangelis et même les écrivains Techno, il es
 
 ---
 
-## Chapitre 10 : Gènes Krautrock – À la prochaine génération
+## Chapitre 10 : Les gènes Krautrock – À la prochaine génération
 
 À la fin des années 1970, la jeunesse allemande était à nouveau en pleine mutation.
 L'esprit expérimental de Krautrock se manifeste dans le punk et la new wave.
-À Berlin, David Bowie et Brian Eno ont créé la « Berlin Trilogy » et ont absorbé l'esthétique de Kraut.
+À Berlin, David Bowie et Brian Eno ont produit la « Berlin Trilogy » et ont absorbé l'esthétique de Kraut.
 
 - "Low" de Bowie (1977) est une fusion de Neu! et grappe.
 - Joy Division et The Fall ont réinjecté les rythmes motorik dans le rock.
@@ -247,7 +247,7 @@ C'est l'esprit même de « trouver son propre son ».
 
 ---
 
-## Chronologie des grands groupes de krautrock
+## Chronologie des principaux groupes de krautrock
 
 <div class="mermaid">
 

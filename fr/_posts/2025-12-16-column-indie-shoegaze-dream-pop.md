@@ -50,7 +50,7 @@ color: #fff;
 
 ### 1-1. Sensation acoustique après le post-punk
 
-À la fin des années 1970 et au début des années 1980, le postpunk a déconstruit la structure du rock et a porté son attention sur le timbre, la texture et le traitement spatial.
+À la fin des années 1970 et au début des années 1980, le postpunk a déconstruit les structures du rock et a porté son attention sur le timbre, la texture et le traitement spatial.
 Les synthétiseurs, la réverbération et le delay ne sont plus de simples décorations, mais fonctionnent comme des éléments qui façonnent la structure de la chanson elle-même.
 
 Au cours de ce processus, la voix chantée est passée du statut de corps principal racontant l’histoire à celui de simple partie du son.
@@ -77,7 +77,7 @@ Le delay est utilisé pour créer des réverbérations superposées plutôt que 
 ### 2-2. Rythme en arrière-plan
 
 La batterie et la basse n'agissent pas comme la force motrice de la chanson, mais fonctionnent comme un centre de gravité pour soutenir l'image sonore.
-Le rythme est relativement constant et l’accent est mis sur la continuation d’un État plutôt que sur des développements dramatiques.
+Le rythme est relativement constant et l’accent est mis sur la continuation d’un État plutôt que sur un développement spectaculaire.
 
 ---
 
@@ -134,7 +134,7 @@ Le travail de caméra et le montage évitent également une mise au point claire
 
 | Éléments | Pop de rêve | Regard sur les chaussures |
 | ---- | ------- | ------- |
-| Volumes | Relativement supprimé | Volume fort/haute densité |
+| Volume | Relativement supprimé | Volume fort/haute densité |
 | Distorsion | Moins | Multicouche |
 | Traitement des voix | Flottant | Enterré |
 | Sensations | Rêve/Introspection | Oppression/Euphorie |
@@ -186,7 +186,7 @@ Cette technique a contribué à la fois à l’espace spatial de la dream pop et
 ### A-2. Redéfinir le premier plan et l’arrière-plan dans le mix
 
 Les mixages rock traditionnels placent généralement le chant et les instruments principaux au premier plan.
-Cependant, dans la shoegaze/dream pop, ce principe est intentionnellement brisé.
+Cependant, dans la shoegaze/dream pop, ce principe est délibérément brisé.
 
 Les voix sont intégrées dans les médiums et traitées de la même manière que les réverbérations de guitare et de synthétiseur.
 Cet arrangement crée l'effet de donner à l'auditeur une vue plongeante sur l'ensemble du son, plutôt que de concentrer son attention sur un point.
@@ -279,7 +279,7 @@ Cette superposition de type shoegaze et le traitement spatial dream-pop ont ét�
 
 | Point de vue | Ma sanglante Saint-Valentin | Jumeaux Cocteau |
 | ----- | ------------------- | ------------- |
-| Volumes | Extrêmement fort | Relativement supprimé |
+| Volume | Extrêmement fort | Relativement supprimé |
 | Fluctuation du son | Physique/Performance | Spatial/Traitement |
 | Rôle de la voix | Partie d'un instrument de musique | Moyen d'émotion |
 | Vision du monde | Étanchéité/Compression | Diffusion/Flottant |

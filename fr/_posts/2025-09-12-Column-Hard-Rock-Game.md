@@ -21,7 +21,7 @@ title: '[Chronique] Histoire de l''intersection du hard rock et de la culture du
 Texte : mmr｜Thème : Relation entre hard rock et culture gaming
 
 
-Le hard rock est né du blues rock et du rock psychédélique à la fin des années 1960 et a explosé en popularité dans les années 1970. D’un autre côté, la culture du jeu vidéo a commencé à émerger à la fin des années 1970 et s’est imposée comme culture populaire dans les années 1980. Bien que les deux se soient développés indépendamment, ils ont partagé l’impact du son, de l’esthétique visuelle et de la culture de la jeunesse, créant des intersections inattendues à chaque époque. Ici, nous organiserons les relations par époque et reviendrons sur les liens entre les chefs-d’œuvre représentatifs et la culture du jeu.
+Le hard rock est né du blues rock et du rock psychédélique à la fin des années 1960 et a explosé en popularité dans les années 1970. D’un autre côté, la culture du jeu vidéo a commencé à émerger à la fin des années 1970 et s’est imposée comme culture populaire dans les années 1980. Bien que les deux se soient développés indépendamment, ils ont partagé l’impact du son, de l’esthétique visuelle et de la culture de la jeunesse, créant des intersections inattendues à chaque époque. Ici, nous organiserons les relations par époque et reviendrons sur les liens entre les chefs-d’œuvre représentatifs et la culture du jeu vidéo.
 
 ---
 
@@ -292,7 +292,7 @@ Depuis les années 2000, des jeux musicaux comme **Guitar Hero** et **Rock Band*
 
 ---
 
-### Bandai Namco : Série Taiko no Tatsujin
+### Bandai Namco : série Taiko no Tatsujin
 
 | Titre | Pistes | Artiste | Remarques |
 |--------------|---------|-------------|------|
@@ -340,7 +340,7 @@ Depuis les années 2000, des jeux musicaux comme **Guitar Hero** et **Rock Band*
 | Titre | Pistes | Artiste | Remarques |
 |--------------|---------|-------------|------|
 | Arcées (2017) | Vainqueur du monde | vide | Son RH numérique |
-| Arcées (2018) | Rayon de fracture | Sakuzyo | Style RH progressif |
+| Arcées (2018) | Rayon de fracture | Sakuzyō | Style RH progressif |
 | Arcée (2020) | PRAGMATISME | Équipe Grimoire | Développement de noyau métallique solide |
 
 ---

@@ -53,7 +53,7 @@ Le rugissement du moteur de grande cylindrée était aussi sauvage que la distor
 ## ■ « Easy Rider » et l'ambiance de l'époque
 
 Le film « Easy Rider » de 1969 est un symbole de la culture jeune et du style de vie hard rock de l'époque.
-Le voyage des protagonistes à travers l'Amérique à moto à la recherche de liberté n'était pas seulement un voyage, mais une métaphore de la « rupture avec le système ». « Born To Be Wild » de Steppenwolf, qui joue sur la bande originale, résonne avec le rugissement des motos et est toujours considéré comme un hymne hard rock de liberté.
+Le voyage des protagonistes à travers l'Amérique à moto à la recherche de liberté n'était pas seulement un voyage, mais une métaphore de la « rupture avec le système ». « Born To Be Wild » de Steppenwolf, qui joue sur la bande originale, résonne avec le rugissement des motos et est toujours transmis comme un hymne hard rock de liberté.
 
 On peut dire que ce film a défini la relation intime entre le hard rock et la culture automobile en visualisant le moment où la musique, les motos et la liberté se sont réunies.
 
@@ -64,7 +64,7 @@ On peut dire que ce film a défini la relation intime entre le hard rock et la c
 Les groupes de hard rock mondiaux **AC/DC** et **KISS** ont captivé le public en intégrant la culture automobile non seulement dans leur musique mais aussi dans leurs performances.
 
 - AC/DC, comme en témoignent des chansons telles que « Highway to Hell » et « Thunderstruck », des images superposées de « road », « Thunder » et « speeding » sur de la musique rock, liant directement la musique à la sensation de conduire.
-- Lors du live de KISS, le bruit d'un moteur Harley résonnait avec les flammes en arrière-plan, offrant au public une expérience comme si la scène elle-même avait été transformée en un road movie américain.
+- Lors de la performance live de KISS, le bruit d'un moteur Harley résonnait avec les flammes en arrière-plan, offrant au public une expérience comme si la scène elle-même avait été transformée en un road movie américain.
 
 Cela fait écho à la « culture de la vitesse » américaine des années 1970, et le hard rock a fortement adopté les voitures et les motos comme icônes symboliques de la culture populaire.
 
@@ -94,7 +94,7 @@ De nombreux fans japonais de hard rock et de heavy metal ont intégré les motos
 ## ■ Résonance entre musique et culture automobile
 
 Comprendre le hard rock ne se limite pas à écouter des albums.
-L'existence de « Harleys courant sur la route » et de « muscle cars traversant la nuit » est essentielle, et la combinaison de leurs visuels et de leurs rugissements forme l'image culturelle globale.
+L'existence de « Harleys qui courent sur la route » et de « muscle cars qui traversent la nuit » est essentielle, et la combinaison de leurs visuels et de leurs bruits rugissants forme l'image culturelle globale.
 
 Lorsque le rugissement du moteur et le riff de la guitare résonnent, la musique ébranle non seulement les sens auditifs mais aussi le corps tout entier, transformant le public en « expérimentateurs ». C'est là que réside le noyau du hard rock, contrairement à tout autre genre.
 
@@ -157,7 +157,7 @@ D'un autre côté, en Europe et au Japon, des styles mettant l'accent sur le lyr
 | Artiste | Albums | Année de sortie | Caractéristiques |
 |-------------|----------|---------|------|
 | Guns N'Roses | Utilisez votre illusion I et II | 1991 | Un chef-d'œuvre qui allie hard rock et ballade |
-| Métallique | Album noir | 1991 | Briser les frontières entre métal et rock avec « Enter Sandman » |
+| Métallique | Album noir | 1991 | « Enter Sandman » brise la frontière entre métal et rock |
 | Foo combattants | La couleur et la forme | 1997 | Hymne rock nouvelle génération après le grunge |
 | Audioesclave | Audioesclave | 2002 | Crossover Rage x Soundgarden |
 | Revolver en velours | Contrebande | 2004 | Retour des anciens membres de GNR au rock classique après les années 90 |
@@ -169,7 +169,7 @@ D'un autre côté, en Europe et au Japon, des styles mettant l'accent sur le lyr
 
 | Artiste | Albums | Année de sortie | Caractéristiques |
 |-------------|----------|---------|------|
-| Led Zeppelin | Led Zeppelin IV | 1971 | Comprend « Stairway to Heaven », Être mythique |
+| Led Zeppelin | Led Zeppelin IV | 1971 | Comprend « Stairway to Heaven », être mythique |
 | CA/CC | De retour en noir | 1980 | Hymne immortel du hard rock vendu dans le monde entier |
 | Violet profond | Tête de machine | 1972 | « Smoke on the Water » établit un riff classique |
 | Sabbat noir | Paranoïaque | 1970 | Un son sombre et lourd symbolise l'esprit hors-la-loi |
@@ -194,7 +194,7 @@ Des salles de concert aux autoroutes, le hard rock a toujours été indissociabl
 
 Le hard rock s'est progressivement implanté au Japon dans les années 1970 et, dans les années 1980, des groupes tels que LOUDNESS et EARTHSHAKER ont fait leur chemin vers le monde.
 Aussi, à partir des années 1990, des groupes comme X JAPAN, B'z et GLAY développent leurs propres interprétations du hard rock, qui ont une forte influence sur l'aspect visuel.
-La culture des Harley-Davidson et des muscle cars américains a imprégné la scène rock japonaise et elles sont souvent utilisées dans des productions live et des vidéoclips.
+La culture des Harley-Davidson et des muscle cars américains a imprégné la scène rock japonaise et elles sont fréquemment utilisées dans les productions live et les vidéoclips.
 
 | Artiste | Chanson | Année de sortie | Caractéristiques |
 |--------------|------|--------|------|

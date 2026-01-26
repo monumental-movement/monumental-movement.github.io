@@ -43,7 +43,7 @@ color: #fff;
 
 
 ## Chapitre 1 : Histoire de la pré-formation et strates du sous-sol d'Osaka
-Dans les années 1980, Osaka avait une culture underground unique, différente de celle de Tokyo. Un mélange de théâtres, de bâtiments abandonnés et de salles de concert a créé de nombreux endroits où les frontières entre le punk, le hardcore, le bruit et l'art de la performance étaient floues. **Yamatsuka Ai**, le membre principal de Boredoms, a recherché sa propre expression tout en s'imprégnant de cet environnement encombré.
+Dans les années 1980, Osaka avait une culture underground unique, différente de celle de Tokyo. Un mélange de théâtres, de bâtiments abandonnés et de salles de concert a créé de nombreux lieux où les frontières entre le punk, le hardcore, le bruit et l'art de la performance étaient floues. **Yamatsuka Ai**, le membre principal de Boredoms, a recherché sa propre expression tout en s'imprégnant de cet environnement encombré.
 
 Dans ses premières années, les activités d'Ai étaient fortement axées sur la performance et il pratiquait non seulement le son, mais aussi le mouvement du corps, les objets et les expressions de type collage.
 Après avoir franchi cette étape « pré-musique », **Hanatarash**, qui deviendra plus tard le prototype de Boredoms, commence à prendre forme.
@@ -73,7 +73,7 @@ Les performances live de Hanatarash sont connues pour leur caractère extrême e
 L'ennui a commencé à Osaka vers 1986, et les premiers membres comprenaient **Ai Yamazuka, Mitsuru Tabata, Toyohito Yoshikawa et HIRA**.
 Leurs premiers travaux étaient un mélange dense de la vitesse du hardcore et du pouvoir destructeur du bruit, avec des structures alternant entre cris, rythmes fragmentés et silences soudains.
 
-En 1988, ils ont commencé à attirer l’attention sur la scène indépendante étrangère et sont devenus un sujet brûlant dans la communauté underground des États-Unis.
+En 1988, ils ont commencé à attirer l’attention sur la scène indépendante d’outre-mer et sont devenus un sujet brûlant dans la communauté underground des États-Unis.
 En 1989, ils ont été fortement soutenus par **Sonic Youth** et grâce à leurs interactions, ils ont été connectés aux grands groupes indépendants américains.
 
 ### Structure musicale des premiers ennuis
@@ -171,7 +171,7 @@ flowchart TD
 ---
 
 ## Chapitre 5 : Activités depuis les années 2010
-Depuis les années 2010, Boredoms continue de se produire en direct par intermittence, tandis que les activités créatives de chaque membre s'approfondissent.
+Depuis les années 2010, Boredoms continue de donner des performances live par intermittence, tandis que les activités créatives de chaque membre s'approfondissent.
 En particulier, **les activités d'art visuel de Eye** et **les activités de Yoshimi avec OOIOO/SAICOBABA** se sont développées, donnant l'impression que Boredoms était plus un « projet collectif » qu'un « groupe ».
 
 ---
@@ -212,7 +212,7 @@ Dans ce chapitre, j'organiserai systématiquement les activités personnelles de
 ### 7.1 Intérêt initial
 - Collage, Manga, Art Concret
 - Performances destructrices
-- Intéressé par le « lieu » plutôt que par le son
+- Plus intéressé par le « lieu » que par le son
 
 ### 7.2 Formation du sens d'échantillonnage
 Depuis le début des années 1990, Ai utilise des platines vinyles et des cassettes comme matériaux, se spécialisant dans le « montage tactile » qui relie des fragments de son physique.

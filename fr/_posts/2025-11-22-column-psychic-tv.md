@@ -17,7 +17,7 @@ title: '[Chronique] Psychic TV : L''histoire complète d''un groupe multimédia 
 ---
 
 
-## 1. Présentation
+## 1. Introduction
 
 
 Texte : mmr｜Thème : Histoire, philosophie, musicalité, activités live, rituels et influence sur les générations futures de Psychic TV depuis sa formation jusqu'à sa disparition
@@ -63,13 +63,13 @@ Psychic TV a été conçu non seulement comme un groupe de musique, mais comme u
 
 #### 3.1 Composition des membres et premiers travaux
 
-La programmation initiale de Psychic TV était composée de Genesis P‑Orridge (chant, paroles), Peter Christopherson (vidéo, son) et Alex Fergusson (guitare). La première chanson, « Just Drifting », reflète la vision poétique de Genesis et sert de point de départ musical au groupe.
+La programmation initiale de Psychic TV était composée de Genesis P-Orridge (chant, paroles), Peter Christopherson (vidéo, son) et Alex Fergusson (guitare). La première chanson, « Just Drifting », reflète la vision poétique de Genesis et sert de point de départ musical au groupe.
 
 La musique ancienne était caractérisée par une innovation qui transcendait les frontières traditionnelles des genres, combinant l'agressivité punk, la liberté psychédélique et le bruit expérimental.
 
 #### 3.2 Spectacles vivants et activités d'art vidéo
 
-Psychic TV a également innové dans sa performance live. De nombreuses performances en direct utilisaient du matériel vidéo et des écrans multiples pour offrir au public une expérience stimulante et rituelle. Une tentative a été faite pour reconstruire le spectacle vivant lui-même comme une sorte d'espace rituel, non seulement à travers la musique mais aussi à travers les images et l'expression physique.
+Psychic TV a également innové dans sa performance live. De nombreuses performances en direct utilisaient du matériel vidéo et des écrans multiples pour offrir au public une expérience stimulante et cérémoniale. Une tentative a été faite pour reconstruire le spectacle vivant lui-même comme une sorte d'espace rituel, non seulement à travers la musique mais aussi à travers les images et l'expression physique.
 
 #### 3.3 Naissance de toi Temple de Psychick Youth (T.O.P.Y.)
 
@@ -101,7 +101,7 @@ En 1992, Psychic TV a fait l'objet d'un scandale dans le programme d'information
 
 #### 5.2 Immigration aux États-Unis et évolution des activités
 
-Après avoir déménagé aux États-Unis, Genesis a changé son orientation créative tout en conservant la spiritualité et l'expérimentation de PTV. Les collaborations avec de nouveaux collaborateurs et membres se sont multipliées et la gamme de musiques et de performances rituelles s'est élargie.
+Après avoir déménagé aux États-Unis, Genesis a changé son orientation créative tout en conservant la spiritualité et l'expérimentalisme de PTV. Les collaborations avec de nouveaux collaborateurs et membres se sont multipliées et la gamme de musique et de performances rituelles s'est élargie.
 
 #### 5.3 Dissolution et projets parallèles
 
@@ -117,7 +117,7 @@ En 2003, Psychic TV a été réunie sous le nom de PTV3, a accueilli de nouveaux
 
 #### 6.2 Albums et œuvres conceptuelles
 
-Les albums ultérieurs incluaient "Hell Is Invisible...Heaven Is Her/e", "Mr. Alien Brain vs. The Skinwalkers'' et 'Alienist'', qui ont poursuivi leur expérimentalisme antérieur tout en présentant un concept structuré.
+Les albums ultérieurs incluaient "Hell Is Invisible...Heaven Is Her/e", "Mr. Alien Brain vs. The Skinwalkers'' et ``Alienist'', qui ont poursuivi leur expérimentalisme antérieur tout en présentant un concept structuré.
 
 #### 6.3 Dernière année et mort de Genesis
 

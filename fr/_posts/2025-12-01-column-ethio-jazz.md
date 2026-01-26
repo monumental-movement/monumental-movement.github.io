@@ -11,19 +11,20 @@ tags:
 - Jazz
 - 50s
 - 60s
-title: 【コラム】 Ethio-Jazz（エチオピアン・ジャズ）とは何か — アフリカ音楽史に刻まれた革新の軌跡
+title: '[Chronique] Qu''est-ce que l''Ethio-Jazz (Jazz éthiopien) ? Une trajectoire
+  d’innovation gravée dans l’histoire de la musique africaine'
 ---
 
 
 
-## Ethio-Jazz（エチオピアン・ジャズ）はいかにして誕生したのか
+## Comment est né l’Ethio-Jazz ?
 
-文：mmr｜テーマ：Ethio-Jazz の成り立ち、技法、歴史的背景、名盤、そして今日への影響について
+Texte : mmr｜Thème : Les origines de l'Ethio-Jazz, les techniques, le contexte historique, les chefs-d'œuvre et l'influence sur aujourd'hui
 
-**アフリカ音楽史の中でも特異な存在**として位置づけられる音楽ジャンル——Ethio-Jazz。
-その象徴的存在が **ムラトゥ・アスタトゥケ（Mulatu Astatke）** である。
+L’Ethio-Jazz est un genre musical unique dans l’histoire de la musique africaine.
+Le symbole en est **Mulatu Astatke**.
 
-彼はエチオピアの伝統音階、黄金時代の音楽文化、西洋ジャズ教育、ラテン音楽、モダンなアレンジ技法を融合し、1960年代に独自のスタイルを確立した。
+Il a établi son propre style dans les années 1960 en fusionnant les gammes traditionnelles éthiopiennes, la culture musicale de l'âge d'or, l'enseignement du jazz occidental, la musique latine et les techniques d'arrangement modernes.
 
 ---
 
@@ -42,72 +43,72 @@ color: #fff;
 
 
 
-# # 1. エチオピア音楽の基層：5音階（キネット）と独自の旋法文化
+# # 1. Les fondements de la musique éthiopienne : la gamme pentatonique (kinet) et la culture modale unique
 
-エチオピア正教の聖歌（ザーラ）、地方の吟遊詩人アズマリ文化、首都アディスアベバの都市音楽など、エチオピアには古くから多層的な音楽文化が存在していた。
+Une culture musicale à plusieurs niveaux existe en Éthiopie depuis l'Antiquité, comprenant les chants chrétiens orthodoxes éthiopiens (Zara), la culture locale des ménestrels Azmari et la musique urbaine de la capitale Addis-Abeba.
 
-特に有名なのが、エチオピア独自の「キネット（qenet）」という旋法体系である。
-代表的なキネットは以下の４つ。
+Le système modal unique de l'Éthiopie appelé « qenet » est particulièrement célèbre.
+Il existe quatre Kinets typiques :
 
-* **Tizita（ティジタ）**：哀愁を帯びた旋法で、Ethio-Jazz の中心となるモード
-* **Bati（バティ）**
-* **Ambassel（アンバッセル）**
-* **Anchihoye（アンチホイエ）**
+* **Tizita** : Un mode mélancolique, le mode central de l'Ethio-Jazz.
+* **Bâti**
+* **Ambassadeur**
+* **Anchihoye**
 
-これらは西洋のメジャー／マイナーとは異なる特有の音階運動を持ち、
-後にムラトゥがジャズと融合させる重要な基盤となった。
-
----
-
-# # 2. 1950–60年代：ムラトゥ・アスタトゥケの海外修学と音楽的形成
-
-ムラトゥ・アスタトゥケ（1943–）はエチオピアのジンマ出身。
-若くして海外留学の道を選び、まずイギリスへ渡航し、当時のジャズやラテン音楽に触れる。
-その後、アメリカへ移り、**バークリー音楽大学でジャズとアレンジを学んだ最初期のアフリカ人学生**の一人となる。
-
-### ▼ 音楽的形成の要素
-
-* エチオピアの伝統旋法
-* ジャズ理論（特にモーダルジャズ）
-* ラテン音楽のリズム
-* アメリカのソウル／R&B
-* ビブラフォンやコンガといった多彩な楽器経験
-
-これらが、後の「Ethio-Jazz」という独自ジャンルを生む下地となった。
+Ceux-ci ont un mouvement d'échelle unique qui est différent du majeur/mineur occidental,
+Il devint plus tard une base importante pour la fusion de Mulatu avec le jazz.
 
 ---
 
-# # 3. 1960年代後半：Ethio-Jazz の誕生
+# # 2. Années 1950-1960 : études à l'étranger et formation musicale de Mulatu Astatuke
 
-ムラトゥは自身の音楽を **“Ethio-Jazz”** と呼び始めた最初の人物として知られている。
-彼は1960年代後半、エチオピアの音階（キネット）とジャズの即興・アレンジ手法を融合し、**エチオピアの伝統音楽をモダン化する試み**を進めた。
+Mulatu Astatuke (1943–) est née à Jimma, en Éthiopie.
+Très jeune, il choisit d'étudier à l'étranger, d'abord en Angleterre où il est exposé au jazz et à la musique latine de l'époque.
+Il s'installe ensuite aux États-Unis et devient l'un des premiers étudiants africains à étudier le jazz et l'arrangement au Berklee College of Music.
 
-代表的な初期作品としては、
+### ▼ Éléments de formation musicale
 
-* **《Afro-Latin Soul（1966–67）》シリーズ**
-* **《Mulatu of Ethiopia（1972）》**
+* Mode traditionnel éthiopien
+* Théorie du jazz (notamment jazz modal)
+* Rythme de la musique latine
+* Soul/R&B américain
+* Expérience avec divers instruments de musique tels que le vibraphone et la conga
+
+Celles-ci sont devenues la base de la création d'un genre unique qui deviendra plus tard connu sous le nom d'« Ethio-Jazz ».
+
+---
+
+##3. Fin des années 1960 : Naissance de l'Ethio-Jazz
+
+Mulatu est connu comme la première personne à avoir commencé à appeler sa musique **« Ethio-Jazz »**.
+À la fin des années 1960, il a tenté de moderniser la musique traditionnelle éthiopienne en fusionnant la gamme éthiopienne (kinet) avec les techniques d'improvisation et d'arrangement du jazz.
+
+Les premiers travaux représentatifs comprennent :
+
+* **《Série Afro-Latin Soul (1966-67)》**
+* **《Mulatu d'Ethiopie (1972)》**
 
 Les exemples incluent.
 
 ---
 
-# # 4. 黄金時代（1960–70年代）：アディスアベバの都市文化と音楽産業
+# # 4. Âge d'or (années 1960-1970) : culture urbaine et industrie musicale d'Addis-Abeba
 
-1960〜70年代、エチオピアは都市化と国際交流が進み、アディスアベバではクラブ、ホテル、軍楽隊出身のプレイヤーなどを中心とする音楽シーンが活性化した。
+Dans les années 1960 et 1970, l’urbanisation et les échanges internationaux ont progressé en Éthiopie, et la scène musicale d’Addis-Abeba a été revitalisée, centrée sur les clubs, les hôtels et les musiciens de fanfares militaires.
 
-**主な特徴：**
+**Caractéristiques principales :**
 
-* ビッグバンド編成のジャズ・オーケストラ
-* 皇帝ハイレ・セラシエ時代の文化支援
-* 数多くの歌手が登場し、録音産業が盛んに
-* エチオピア軍楽隊（Imperial Bodyguard Band）などの演奏力向上
+* Orchestre de jazz big band
+* Soutien culturel à l'époque de l'empereur Hailé Sélassié
+*De nombreux chanteurs sont apparus et l'industrie du disque a prospéré.
+* Améliorer les compétences d'interprétation de la fanfare militaire éthiopienne (Imperial Bodyguard Band), etc.
 
-この時代の中心レーベルが **Amha Records** や **Kaifa Records** であり、
-後に「Éthiopiques」シリーズとして世界的に再評価される音源の多くがこの時期に録られた。
+Les principaux labels de cette époque étaient **Amha Records** et **Kaifa Records**.
+Bon nombre des sources sonores qui ont ensuite été réévaluées dans le monde entier sous le nom de série «Éthiopiques» ont été enregistrées au cours de cette période.
 
 ---
 
-# Ethio-Jazz 音楽構造図
+# Schéma de structure de la musique Ethio-Jazz
 
 <div class="mermaid">
 flowchart TD
@@ -121,72 +122,72 @@ flowchart TD
 
 ---
 
-# # 5. 1970年代：社会変動と音楽シーンの衰退
+# # 5. Années 1970 : Changement social et déclin de la scène musicale
 
-1974年のエチオピア革命以降、政治状況の変化によりクラブ文化は停滞し、多くのミュージシャンが国外へ移った。録音環境も制限され、Ethio-Jazz は徐々に地下化していく。
+Après la révolution éthiopienne de 1974, la culture des clubs a stagné en raison des changements dans la situation politique et de nombreux musiciens ont déménagé à l'étranger. L'environnement d'enregistrement était également restreint et l'Ethio-Jazz est progressivement devenu clandestin.
 
-しかしムラトゥ自身はその後も海外で活動を続け、断続的な録音を残した。
-
----
-
-# # 6. 1990年代後半：Éthiopiques シリーズによる国際的再評価
-
-1997年より始まった **「Éthiopiques」シリーズ（Buda Musique）** は、
-エチオピア黄金時代の音源を世界に紹介した大規模アーカイブ企画である。
-
-ムラトゥの作品、エチオピアのシンガー（Mahmoud Ahmed、Tilahun Gessesse 等）、
-軍楽隊音源などが再発され、**世界的な Ethio-Jazz 再評価のきっかけ**となった。
+Cependant, Mulatu lui-même a continué à travailler à l’étranger et a réalisé des enregistrements intermittents.
 
 ---
 
-# # 7. 2000年代：映画『ブロークン・フラワーズ』と再ブレイク
+# # 6. Fin des années 1990 : Reconnaissance internationale avec la série Éthiopiques
 
-2005年、ジム・ジャームッシュ監督の映画 **『Broken Flowers』** の劇中音楽として
-ムラトゥの曲が多数使用され、大きな注目を集めた。
+La série « Éthiopiques » (Buda Musique), lancée en 1997, est
+Il s'agit d'un projet d'archives à grande échelle qui a fait découvrir au monde les sources sonores de l'âge d'or de l'Éthiopie.
 
-この出来事以降、ヨーロッパや北米のアーティストとのコラボレーションが増え、
-Ethio-Jazz は再び国際的な音楽ジャンルとして認識されるようになる。
-
----
-
-# # 8. 音楽理論：Ethio-Jazz のサウンドを構成する技法
-
-ここでは事実に基づいたサウンド構造を整理する。
+Les œuvres de Mulatu, les chanteurs éthiopiens (Mahmoud Ahmed, Tilahun Gessesse, etc.),
+Des enregistrements d'orchestres militaires ont été réédités, ce qui a déclenché une réévaluation mondiale de l'Ethio-Jazz.
 
 ---
 
-## ■ 8.1 旋法（モード）
+##7. Années 2000 : Percée avec le film « Broken Flowers »
 
-代表例：
+En 2005, comme la musique du film **Broken Flowers** réalisé par Jim Jarmusch.
+De nombreuses chansons de Mulatu ont été utilisées et ont attiré beaucoup d'attention.
 
-* **Tizita minor**（哀愁モード／Ethio-Jazzの象徴）
-* Ambassel, Bati major/minor など
-
-西洋のドリアンやミクソリディアンと似ているが、
-**特有の半音進行や旋法転換**がある。
+Après cet événement, les collaborations avec des artistes européens et nord-américains se multiplient.
+L'Ethio-Jazz redevient reconnu comme un genre musical international.
 
 ---
 
-## ■ 8.2 リズム
+# # 8. Théorie musicale : Techniques pour composer le son de l'Ethio-Jazz
 
-* 6/8 系
-* ラテン的シンコペーション
-* 軍楽隊由来のマーチ要素
-* アムハラ地方のダンスリズム
+Ici, nous organiserons la structure solide en fonction de faits.
 
 ---
 
-## ■ 8.3 編成
+## ■ 8.1 Modes
 
-* ビブラフォン（ムラトゥのシグネチャー）
-* ホーン・セクション（トランペット、テナーサックス）
-* コンガ／ボンゴ
-* エレキベース
-* オルガン／エレピ（特にFarfisaやRhodes）
+Exemple typique :
+
+* **Tizita minor** (Mode Tristesse/Symbole de l'Ethio-Jazz)
+* Ambassel, Bati majeur/mineur etc.
+
+Semblable au durian occidental et au mixolydien,
+**Il existe des progressions de demi-tons et des changements modaux uniques**.
 
 ---
 
-# ▼ Mermaid：Ethio-Jazz 編成フロー
+## ■ 8.2 Rythme
+
+* Série 6/8
+* Syncope latine
+* Éléments de marche dérivés de fanfares militaires
+* Rythmes de danse de la région Amhara
+
+---
+
+## ■ 8.3 Organisation
+
+* Vibraphone (signature Mulatu)
+* Section de cor (trompette, saxophone ténor)
+* Congas/Bongo
+* Basse électrique
+* Orgue/piano électrique (notamment Farfisa et Rhodes)
+
+---
+
+# ▼ Sirène : Flow de composition Ethio-Jazz
 
 <div class="mermaid">
 flowchart TD
@@ -201,47 +202,47 @@ flowchart TD
 
 ---
 
-# # 9. 主要アーティスト紹介
+# # 9. Présentation des artistes majeurs
 
 ### ■ Mulatu Astatke
 
-Ethio-Jazz の創始者。1960年代後半〜70年代に代表作を発表。
-ビブラフォン奏者、作編曲家として世界的に認知され、近年はハーバード大学などで音楽研究にも関与。
+Fondateur d'Ethio-Jazz. Ses œuvres représentatives ont été publiées à la fin des années 1960 et dans les années 1970.
+Il est internationalement reconnu comme vibraphoniste et compositeur/arrangeur et, ces dernières années, il a participé à la recherche musicale à l'Université Harvard et dans d'autres institutions.
 
 ### ■ Mahmoud Ahmed
 
-1960～70年代のアディスアベバを代表する歌手。
-Éthiopiques シリーズで国際的に再評価される。
+Chanteur représentant Addis-Abeba dans les années 1960 et 1970.
+Réévalué à l'international avec la série Éthiopiques.
 
 ### ■ Tilahun Gessesse
 
-「エチオピア音楽の王」と呼ばれた歌手。軍楽隊出身で高い歌唱技術を持つ。
+Un chanteur connu comme le « roi de la musique éthiopienne ». Il est un ancien membre d'un orchestre militaire et possède des compétences avancées en chant.
 
 ### ■ Hailu Mergia
 
-アコーディオン、オルガン奏者。1970年代に Walias Band と共に活動し、
-後にワシントンD.C.で再発見されて世界ツアーを行う。
+Joueur d'accordéon et d'orgue. Actif avec Walias Band dans les années 1970,
+Il a ensuite été redécouvert à Washington, D.C., et a fait le tour du monde.
 
 ---
 
-# # 10. 名盤ガイド
+# # 10. Guide des chefs-d'œuvre
 
-* **Mulatu of Ethiopia（1972） / Mulatu Astatke**
-* **Éthiopiques Vol. 4: Ethio Jazz & Musique Instrumentale**
-* **Hailu Mergia & the Walias Band – Tche Belew（1977）**
+* **Mulatu d'Éthiopie (1972) / Mulatu Astatke**
+* **Éthiopiques Vol. 4 : Ethio Jazz & Musique Instrumentale**
+* **Hailu Mergia & the Walias Band – Tche Belew (1977)**
 * **Alemayehu Eshete – Éthiopiques Vol. 22**
 
 ---
 
-# # 11. Ethio-Jazz が世界へ与えた影響
+# # 11. L'influence de l'Ethio-Jazz sur le monde
 
-### ■ ジャズ／ファンク／ヒップホップ
+### ■ Jazz/Funk/Hip-hop
 
-* ジャズのモード解釈の拡張
-* ヒップホップのサンプリング素材として頻繁に使用
-* アフロビート／アフロフュージョンへの影響
+* Élargir l'interprétation des modes jazz
+* Fréquemment utilisé comme échantillon dans le hip-hop
+* Influence sur l'Afrobeat/Afrofusion
 
-### ■ 映画音楽
+### ■ Musique de film
 
 Après « Broken Flowers », son utilisation dans les films et à la télévision a augmenté.
 
@@ -287,7 +288,7 @@ Les efforts visant à relier les gammes traditionnelles et la musique moderne so
 
 ##14. Résumé : Ce que laisse derrière lui Ethio-Jazz
 
-L'Ethio-Jazz n'est pas seulement « musique ethnique + jazz ».
+L'Ethio-Jazz, ce n'est pas seulement « musique ethnique + jazz ».
 **Histoire profonde de la musique éthiopienne, éducation au jazz occidental, culture urbaine, changements politiques, réévaluation internationale**
 ---C'est un phénomène musical complexe né de l'intersection de toutes ces choses.
 

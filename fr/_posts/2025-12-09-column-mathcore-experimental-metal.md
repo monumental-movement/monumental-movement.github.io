@@ -48,7 +48,7 @@ color: #fff;
 
 Les racines de Mathcore se situent dans le **hardcore punk** et le **metalcore** de la fin des années 80 et du début des années 90. En particulier, des groupes comme Converge, Botch et Coalesce ont commencé à introduire non seulement de l'agressivité, mais aussi des **structures de riffs irrégulières, des ruptures d'accords et des changements soudains de tempo**, ouvrant la voie à ce qui allait devenir Mathcore.
 
-### Scène underground Boston-New Jersey
+### Scène underground de Boston-New Jersey
 
 Le DEP est apparu dans le nord-est des États-Unis à la fin des années 1990, à une époque où la fusion du hardcore et du noise rock était active, et en combinant cela avec le « technocratisme », de nouvelles variations d'une rapidité et d'une complexité sans précédent sont nées.
 
@@ -62,7 +62,7 @@ Voici les caractéristiques de leurs structures de chansons.
 
 ### 1. Structure ultra-rapide et fragmentée
 
-La technique consistant à changer des phrases de 1 à 2 temps à grande vitesse, plutôt qu'en unités de mesures, est remarquable.
+La technique consistant à changer des phrases de 1 à 2 temps à grande vitesse, plutôt qu'en unités de mesure, est remarquable.
 Le sens de l’orientation auditive est constamment ébranlé par les pauses insérées, les polyrythmies et les accents mal alignés.
 
 ### 2. Influence du jazz
@@ -169,7 +169,7 @@ En particulier, les sons d'attaque ont tendance à être concentrés dans la ban
 
 ### Enregistrement de batterie
 
-* Met l'accent sur le « noyau » de la grosse caisse et de la caisse claire
+* Met l'accent sur le « noyau » du kick et de la caisse claire
 *La localisation de Tom n'est pas linéaire et est souvent arrangée de manière unique pour correspondre à la complexité de la chanson.
 
 ---

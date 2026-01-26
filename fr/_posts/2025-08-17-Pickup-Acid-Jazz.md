@@ -10,20 +10,20 @@ tags:
 - Acid Jazz
 - 80s
 - 90s
-title: アシッドジャズ作品をピックアップ
+title: Reprenez des morceaux de jazz acid
 ---
 
 
-「ジャズの即興性とクラブ・グルーヴが融合し、洗練された都会的サウンドを響かせる注目すべきアシッドジャズ作品群」
+"Une remarquable collection d'œuvres acid jazz qui fusionnent improvisation jazz et grooves de club pour créer un son urbain sophistiqué."
 
 <hr>
 
-### Corduroy – High Havoc
+### Velours côtelé – ravages importants
 <a href="https://jp.mercari.com/item/m60864061659?afid=6142608987"><img src="../assets/images/Corduroy%20%E2%80%93%20High%20Havoc.webp"></a>
 
-概要：ロンドン拠点の4人組アシッドジャズバンド・Corduroyによる、1993年リリースのコンセプトアルバムの2作目。Acid Jazz Recordsから発表されました。
+Résumé : Le deuxième album concept sorti en 1993 par Corduroy, un groupe de quatre musiciens d'acid jazz basé à Londres. Edité par Acid Jazz Records.
 
-おすすめポイント：2曲目の「London England」は1990年代のダンスフロアクラシックと称され、他にもUKインディーズチャートTOP10入りしたシングルが収録されるなど、彼らの代表作として高く評価されています。
+Points recommandés : La deuxième chanson "London England" est considérée comme un classique du dancefloor des années 1990, et elle est hautement considérée comme leur chef-d'œuvre, y compris d'autres singles qui sont entrés dans le top 10 des charts indépendants britanniques.
 
 #### Liste des chansons
 ```md
@@ -52,12 +52,12 @@ title: アシッドジャズ作品をピックアップ
 <br>
 
 
-### Raw Stylus – Use Me
+### Stylet Raw – Utilisez-moi
 <a href="https://jp.mercari.com/item/m32284587621?afid=6142608987"><img src="../assets/images/Raw%20Stylus%20%E2%80%93%20Use%20Me.webp"></a>
 
-概要：1990年代に活動した英国のアシッドジャズバンド・Raw Stylusが、Bill Withersの1972年のソウル／R&B楽曲「Use Me」をカヴァーしたシングル。Acid Jazzレーベルからリリースされました。
+Résumé : Un single de Raw Stylus, un groupe de jazz acid britannique actif dans les années 1990, reprenant la chanson soul/R&B de Bill Withers de 1972 « Use Me ». Sorti sur le label Acid Jazz.
 
-おすすめポイント：「Use Me」は名曲のカヴァーでありながら、オリジナルへのリスペクトとAcid Jazz的な解釈の融合が魅力となっており、ファンクやソウルを含む多層的なサウンドが楽しめます。
+Points recommandés : Bien que "Use Me" soit une reprise d'une chanson célèbre, son attrait est une fusion de respect de l'original et d'une interprétation de type acid jazz, vous permettant de profiter d'un son multicouche incluant funk et soul.
 
 #### Liste des chansons
 ```md
@@ -77,13 +77,13 @@ B2. Boom
 <br>
 
 
-### Toledo – Joe
+### Tolède – Joe
 <a href="https://jp.mercari.com/item/m22782567301?afid=6142608987"><img src="../assets/images/Toledo%20%E2%80%93%20Joe.webp"></a>
 
-概要：Toledo (Toledo Diamond) によるハウス × アシッドジャズトラック。元Black GrapeメンバーDanny Saberがプロデューサーとして関与しています。
+Résumé : Morceau house x acid jazz de Toledo (Toledo Diamond). L'ancien membre de Black Grape, Danny Saber, est impliqué en tant que producteur.
 
 
-おすすめポイント：アシッドジャズのエッセンスを持ちながらハウス音楽としての洗練を掛け合わせた、クロスジャンルな楽しさが魅力的なトラックです。
+Points recommandés : Il s'agit d'un morceau amusant et multi-genres attrayant qui combine l'essence de l'acid jazz avec la sophistication de la house music.
 
 #### Liste des chansons
 ```md
@@ -100,12 +100,12 @@ B2. Joe (Extended Dub)
 
 
 
-### Akimbo Featuring Marcina Arnold – Everybody Knows
+### Akimbo avec Marcina Arnold – Tout le monde le sait
 <a href="https://jp.mercari.com/item/m51213858343?afid=6142608987"><img src="../assets/images/Akimbo%20Featuring%20Marcina%20Arnold%20%E2%80%93%20Everybody%20Knows.webp"></a>
 
-概要：Brand New HeaviesのギタリストSimon Bartholomewらが参加する、ファンク・ソウル・ロックバンドAkimboによるFuture Jazzトラック。1999年にUKレーベルAcid Jazzからリリースされました 。
+Résumé : Un morceau Future Jazz du groupe funk-soul rock Akimbo, avec le guitariste Simon Bartholomew de Brand New Heavies et d'autres. Il est sorti en 1999 sur le label britannique Acid Jazz.
 
-おすすめポイント：Acid Jazzの進化系とも言える“Future Jazz”スタイルで、現代的なファンク／ジャズの融合を感じさせる、洗練されたトラックです。
+Points recommandés : Il s'agit d'un morceau sophistiqué qui ressemble à une fusion funk/jazz moderne, avec un style "Future Jazz" qui peut être considéré comme une évolution de l'Acid Jazz.
 
 #### Liste des chansons
 ```md
@@ -126,13 +126,13 @@ B2. Flight To Havana
 
 
 
-### Various – Totally Wired Nine
+### Divers – Totally Wired Nine
 <a href="https://jp.mercari.com/item/m73976121737?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Totally%20Wired%20Nine.webp"></a>
 
-概要：1992年、UKのAcid Jazzレーベルからリリースされたアシッドジャズのオールスター・コンピレーション・アルバムです。ダンスフロアで人気を博した多彩なアーティストの代表的トラックを収録。
+Résumé : Il s'agit d'une compilation all-star d'acid jazz sortie en 1992 sur le label britannique Acid Jazz. Contient des morceaux signature d'une variété d'artistes devenus populaires sur la piste de danse.
 m.m.r
 
-おすすめポイント：Corduroy、Mother Earth、Sons Of Judahなど、アシッドジャズの初期を彩った名曲が並ぶ貴重な一枚。ジャンルの広がりとグルーヴ感を一気に味わえます。
+Points recommandés : Un morceau précieux qui comprend des chansons célèbres des débuts de l'acid jazz, telles que Corduroy, Mother Earth et Sons of Judah. Vous pouvez profiter à la fois de l’expansion du genre et de la sensation de groove.
 
 
 #### Liste des chansons

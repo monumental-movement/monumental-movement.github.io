@@ -22,7 +22,7 @@ Texte : mmr | Thème : Des jouets d'enfants aux instruments d'artistes - Vers l'
 
 Il y a des endroits où la frontière entre musique et jeu devient floue. Nous vivons dans un monde où les sons électroniques des jouets tenus dans les mains des enfants finissent par être reconnus comme des outils créatifs pour les scènes et les artistes professionnels. Des sources sonores étranges comme Radel, Omnichord, Stylophone et Circuit Bending, qui modifiaient des circuits faits maison, sont devenues plus que des jouets et sont devenues des dispositifs expérimentaux culturels.
 
-Dans cette chronique, nous retraçons des jouets musicaux inhabituels du monde entier, dévoilant leur histoire, leur philosophie et leur réinterprétation par des artistes modernes.
+Dans cette rubrique, nous retraçons des jouets musicaux inhabituels du monde entier, dévoilant leur histoire, leur philosophie et leur réinterprétation par des artistes modernes.
 
 ---
 
@@ -43,7 +43,7 @@ color: #fff;
 ## Ⅰ. Le plaisir des mains jouant avec le son
 
 Il ne faut pas oublier que le « sens tactile » est à l'origine de l'acte musical. Lorsque vous pincez les cordes, appuyez sur les touches ou tournez les boutons, vous recevez une réponse au bout de vos doigts. Cette immédiateté est la même dans les jouets avec lesquels les enfants entrent en contact durant leur enfance.
-Au 21e siècle, les sons électroniques ont été étendus aux jouets pour enfants et aux gadgets éducatifs, et l'acte de « sonner » lui-même est désormais considéré comme faisant partie du jeu. La frontière entre jouets et instruments de musique devient de plus en plus floue.
+Au 21e siècle, les sons électroniques ont été étendus aux jouets pour enfants et aux gadgets éducatifs, et l'acte de « sonner » lui-même a été conçu comme faisant partie du jeu. La frontière entre jouets et instruments de musique devient de plus en plus floue.
 
 ---
 
@@ -70,7 +70,7 @@ Sorti en 1978, l'Omnichord est rapidement devenu apprécié dans le monde entier
 - Des accords simples faciles à jouer avec un seul doigt
 - Des tons lo-fi et cosmiques
 
-L'Omnichord est devenu plus qu'un accessoire pour les artistes techno-pop et indépendants lors de performances live et d'enregistrements. Le son est l'incarnation d'une philosophie de conception qui accueille le hasard et l'improvisation.
+L'Omnichord est devenu plus qu'un accessoire pour les artistes techno-pop et indépendants lors de performances live et d'enregistrements. Le son est l’incarnation d’une philosophie de conception qui accueille le hasard et l’improvisation.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pAIar0O-yvg?si=gI40JwCWCleSOUQD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -95,7 +95,7 @@ Une fusion de sons électroniques subtils et de sensations analogiques. La sensa
 ## Ⅳ. Appareils sonores étranges européens
 
 ### Stylophone et Optigan
-Le Stylophone britannique est un synthétiseur de bureau familier des publicités télévisées des années 1970. Lorsque vous tracez les contacts métalliques du bout des doigts, un bip distinctif retentit. Sa facilité et sa sensation bruyante ont été incorporées dans les premières musiques techno-pop et avant-gardistes.
+Le Stylophone britannique est un synthétiseur de bureau familier des publicités télévisées des années 1970. Lorsque vous tracez les contacts métalliques du bout des doigts, un bip distinctif retentit. Sa légèreté et son côté bruyant ont été incorporés dans les premières musiques techno-pop et avant-gardistes.
 L'Optigan est un jouet d'orgue qui joue des sons à l'aide de disques optiques et se caractérise par des motifs et des rythmes imprévisibles.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EL8PH9Fx0hw?si=aRc6EJ8WPVcaAXI9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -164,7 +164,7 @@ Les sons électroniques peuvent être facilement entendus sur les bureaux à la 
 
 ## VII. Esthétique irrégulière scandinave
 
-En Scandinavie, de petits synthétiseurs très conçus sont apparus.
+En Scandinavie, de petits synthés très conçus sont apparus.
 
 - Ingénierie adolescente OP-1
 - Série Opérateur de poche

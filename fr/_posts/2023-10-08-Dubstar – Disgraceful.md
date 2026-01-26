@@ -12,7 +12,7 @@ title: Dubstar – Honteux
 ---
 
 
-Il s'agit d'un album sorti par le groupe britannique Dubstar en 1995. C'était leur premier album et il est sorti en octobre 1995 par Food Records, une filiale d'EMI.
+Il s'agit d'un album sorti par le groupe britannique Dubstar en 1995. C'était leur premier album, sorti en octobre 1995 par Food Records, une filiale d'EMI.
 
 L'album comprend deux reprises. L'une d'elles est "Not So Manic Now", une chanson initialement enregistrée par Brick Supply sur leur EP "Somebody's Intermezzo" de 1994. L'autre est "St. Swithin's Day", une chanson initialement enregistrée par Billy Bragg sur son album de 1984 "Brewing Up with Billy Bragg".
 

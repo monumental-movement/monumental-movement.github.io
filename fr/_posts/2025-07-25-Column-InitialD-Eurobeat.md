@@ -35,7 +35,7 @@ De la fin des années 1990 aux années 2000, un anime japonais a complètement c
 <hr>
 
 ### L'histoire du col et de l'esprit
-"Initial D" est un manga de Shuichi Shigeno qui est publié en série dans "Weekly Young Magazine" depuis 1995. L'histoire se déroule sur un col de montagne dans la préfecture de Gunma, et le personnage principal, Takumi Fujiwara, apprend les techniques de dérive tout en livrant du tofu dans l'AE86 (Toyota Sprinter Trueno) de son père, et se réveille progressivement en tant que coureur.
+"Initial D" est un manga de Shuichi Shigeno publié en série dans "Weekly Young Magazine" depuis 1995. L'histoire se déroule sur un col de montagne dans la préfecture de Gunma, et le personnage principal, Takumi Fujiwara, apprend les techniques de dérive tout en livrant du tofu dans l'AE86 (Toyota Sprinter Trueno) de son père, et se réveille progressivement en tant que coureur.
 
 Il a été transformé en anime en 1998 et est devenu un sujet brûlant pour son action de voiture 3D basée sur CG et sa musique au tempo élevé.
 
@@ -106,7 +106,7 @@ L'Eurobeat est réinterprété de nouvelles manières sur les vidéos TikTok et 
 
 En conséquence, l'Eurobeat est devenu une musique inhabituellement « émotionnelle » au Japon. Autrement dit:
 
-L'Eurobeat est une musique qui parle de vitesse, mais en même temps, elle est devenue un média qui raconte l'histoire d'une traversée de quelque chose tout en perdant quelque chose.
+L'Eurobeat est une musique qui parle de vitesse, et en même temps, elle est devenue un média qui raconte l'histoire d'une traversée de quelque chose tout en perdant quelque chose.
 
 
 <hr>

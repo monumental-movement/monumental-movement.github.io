@@ -143,7 +143,7 @@ Une répartition des rôles a été établie.
 
 ---
 
-## 4. Début des années 2000 : deux acquisitions ont changé l'histoire du DAW
+## 4. Début des années 2000 : Deux acquisitions ont changé l'histoire du DAW
 
 À ce stade, une « acquisition d’entreprise » qui a changé l’histoire de manière décisive s’est produite.
 
@@ -262,7 +262,7 @@ Au cours des dernières années, l’histoire des DAW a connu un autre changemen
 
 ### ■ Adobe : Augmentation de la demande en matière de distribution et de diffusion
 
-* Avantages de l'intégration avec Premiere
+* Avantage d'intégration avec Premiere
 * Fort à l'ère YouTube/Podcast
 
 ---
@@ -278,7 +278,7 @@ Les six sociétés qui soutiennent l’histoire de DAW ont une répartition clai
 | **Steinberg** | Standardisation (VST)/DAW complète | Base technologique qui a influencé tous les DAW |
 | **MOTU** | Synchronisation vidéo/composition d'accompagnement | Norme de musique de film |
 | **Adobe** | Diffusion, montage et distribution | Pour la production vidéo avec intégration Premiere |
-| **émagique / Digidesign** | Origines avant acquisition | Utilisation exclusive de Mac/formation de la base du son du film |
+| **émagique / Digidesign** | Origines avant acquisition | Utilisation exclusive/formation de la base du son du film sur Mac |
 
 ---
 
@@ -307,7 +307,7 @@ timeline
 
 ---
 
-## 10. Conclusion : L'histoire de DAW est une immense histoire où se croisent « stratégie d'entreprise x normes techniques x besoins du marché »
+## 10. Conclusion : L'histoire de DAW est une histoire immense où se croisent « la stratégie d'entreprise x les normes techniques x les besoins du marché »
 
 Apple a acquis emagic et Avid a intégré Digidesign.
 Le marché des DAW a considérablement changé selon l'axe **OS x production vidéo x infrastructure de studio**.

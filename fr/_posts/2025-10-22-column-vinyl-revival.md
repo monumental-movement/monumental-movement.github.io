@@ -111,7 +111,7 @@ Il a pour effet de calmer le rythme des battements cardiaques et des ondes cér�
 
 ## Chapitre 5 : Futur analogique ─ Réaction à l'ère de l'IA
 
-À une époque où l'IA peut générer de la musique à l'infini,
+À une époque où l’IA peut générer de la musique à l’infini,
 Les « sons non reproductibles » et les « traces de matière » sont
 Paradoxalement, il commence à acquérir une valeur de rareté.
 

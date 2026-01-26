@@ -85,7 +85,7 @@ Lorsque la structure devient problématique, le métal passe à une nouvelle ét
 
 Gorguts a démantelé le death metal de l'intérieur, en utilisant son vocabulaire au maximum.
 
-Dans leur musique, les riffs sont présents mais sans force motrice, les signatures rythmiques sont notées mais instables, et le développement est perçu comme des ruptures plutôt que comme une continuité. Il ne s'agit pas d'une introduction d'éléments extérieurs au genre, mais d'un effet d'avant-garde créé par une distorsion de la grammaire interne.
+Dans leur musique, les riffs sont présents mais sans force motrice, les signatures rythmiques sont notées mais instables, et le développement est perçu comme des ruptures plutôt que comme une continuité. Il ne s’agit pas d’une introduction d’éléments extérieurs au genre, mais d’un effet d’avant-garde créé par une distorsion de la grammaire interne.
 
 ---
 
@@ -152,7 +152,7 @@ flowchart TD
 
 ---
 
-## Respiration rythmée
+## Rythme respiratoire
 
 Leur rythme n’est pas un battement, mais plutôt une respiration ou la durée d’une histoire. Le tempo n’est pas fixe et les tambours jouent un rôle de régulation de la densité spatiale plutôt que de chronomètre.
 

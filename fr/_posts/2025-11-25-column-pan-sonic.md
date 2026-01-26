@@ -47,7 +47,7 @@ Lorsque Pan Sonic a été formé en Finlande au début des années 90, la scène
 Mika Vainio était à l'origine actif dans le genre industriel/noise, et au début des années 1990, il s'est tourné vers les expériences sonores électriques. Ilpo Vaisanen a également évolué entre les domaines de l'électronique DIY et de l'art de la performance.
 
 ### Débuts sous le nom de Panasonic
-Vers 1993, les deux hommes ont commencé à collaborer sous le nom **Panasonic** et ont sorti leur première source sonore en 1994. Une grande partie de l'équipement était constituée de circuits analogiques modifiés, de systèmes de rétroaction et d'oscillateurs, et le composant principal était des vibrations électroniques physiques, qui étaient complètement différentes des formes existantes de musique de club.
+Vers 1993, les deux hommes ont commencé à collaborer sous le nom de **Panasonic** et ont sorti leur première source sonore en 1994. Une grande partie de l'équipement était constituée de circuits analogiques modifiés, de systèmes de rétroaction et d'oscillateurs, et le composant principal était des « vibrations électroniques physiques » qui étaient complètement différentes des formes existantes de musique de club.
 Sur la scène musicale de l’époque, rares étaient ceux qui présentaient le minimalisme électroacoustique sous une forme aussi pure.
 
 ### Problème de nom avec Matsushita Electric
@@ -68,7 +68,7 @@ Il utilise rarement des synthétiseurs disponibles dans le commerce, se concentr
 -Circuit de contrôle de tension
 - Matériaux physiques tels que amplificateurs, pièces métalliques, bobines magnétiques, etc.
 
-En conséquence, le son de Pan Sonic a une crudité qui ressemble à un enregistrement du moment exact où un composant électronique fonctionne. Le son est dur, les particules sont grosses et il est extrêmement physique.
+En conséquence, le son de Pan Sonic a une crudité qui ressemble à un enregistrement du moment exact où un composant électronique fonctionne. Le son est dur, les particules sont grosses et cela semble extrêmement physique.
 
 ##2-2. Structure minimale
 Bien que le matériel sonore soit extrêmement simple, la chanson a une structure détaillée.
@@ -81,7 +81,7 @@ Bien que le matériel sonore soit extrêmement simple, la chanson a une structur
 La combinaison de ces éléments crée « une musique électronique qui n'est pas artificielle, mais qui ressemble plutôt à un phénomène naturel ».**
 
 ##2-3. Infra-son et physicalité
-Beaucoup de ses œuvres incluent des sons extrêmement faibles, autour de 20 Hz, qui faisaient souvent trembler le corps même du public lors des performances live. La performance live de Pan Sonic ressemble plus à une **expérience physique de pression sonore** qu'à une « écoute de musique », où le contrôle du feedback et la génération de basses fréquences jouent un rôle important.
+Beaucoup de ses œuvres incluent des sons extrêmement faibles, autour de 20 Hz, qui faisaient souvent trembler le corps même du public lors des performances live. La performance live de Pan Sonic ressemble plus à une **expérience physique de pression acoustique** qu'à une « écoute de musique », où le contrôle du feedback et la génération de basses fréquences jouent un rôle important.
 
 ---
 

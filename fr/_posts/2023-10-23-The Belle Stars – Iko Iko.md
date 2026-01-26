@@ -16,7 +16,7 @@ title: Les Belles Étoiles – Iko Iko
 
 La face A, "Iko Iko", est une reprise de The Belle Stars, un groupe de filles pop britannique formé à Londres en 1980 par d'anciens membres des Bodysnatchers.
 
-La version Belle Stars d'Iko Iko a également été présentée dans le film Rain Man (avec Dustin Hoffman et Tom Cruise), le film Knockin' on Heaven's Door et le film The Hangover.
+La version Belle Stars d'Iko Iko a également été présentée dans le film Rain Man (avec Dustin Hoffman et Tom Cruise), Knockin' on Heaven's Door et The Hangover.
 
 La face B, « Las Vegas », a été écrite par le célèbre compositeur de films Hans Zimmer et a également été incluse dans la bande originale du film « Rain Man ».
 

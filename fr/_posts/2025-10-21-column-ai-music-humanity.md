@@ -24,7 +24,7 @@ Texte : mmr | Thème : Une époque où l’IA crée de la musique et où les hu
 En 2025, on ne parlera plus de musique en termes de « genre ».
 L'expérience d'écoute sur Spotify et Apple Music est réorganisée pour s'adapter à l'ambiance, au moment et à l'occasion, dépassant les catégories « rock », « hip-hop » et « électronique ».
 
-« Écouter un jour de pluie », « Piste à 2 heures du matin », « Matin avec café » : ces titres de liste indiquent une nouvelle valeur : « le contexte plutôt que le genre ».
+« Écouter un jour de pluie », « Piste à 2 heures du matin » et « Une matinée passée avec un café ». Ces titres de liste indiquent une nouvelle valeur : « le contexte plutôt que le genre ».
 On parle de la musique non pas en termes de ce dont elle est faite, mais en fonction de la façon dont elle résonne/s'adapte aux situations.
 
 Au cœur de ce changement se trouvent l’IA, la nostalgie et la propre « mémoire » de l’auditeur.
@@ -53,7 +53,7 @@ Outils de génération de musique IA - Suno, Udio, AIVA, Stable Audio.
 
 #### L'IA « fait des sons », les humains « choisissent des significations »
 
-Par exemple, l’artiste électronique Arca utilise le son de l’IA comme matériau et le combine avec sa propre voix réelle. Ce qu'elle fait, c'est « une conception de contexte qui demande pourquoi vous devriez choisir l'une des innombrables possibilités créées par l'IA ».
+Par exemple, l’artiste électronique Arca traite le son de l’IA comme un matériau et le combine avec sa propre vraie voix. Ce qu'elle fait, c'est « une conception de contexte qui demande pourquoi vous devriez choisir l'une des innombrables possibilités créées par l'IA ».
 同様に、UK発のJames BlakeはAIを「共作者」として扱いながら、“人間の脆さ”をテーマにアルバム[『Playing Robots Into Heaven』（2024）](https://amzn.to/3L1hE6D)を構築した。
 
 Ces exemples montrent que l’IA devient moins un « créateur de son » qu’un « miroir qui met en valeur ce que les gens choisissent ».
@@ -128,7 +128,7 @@ La caractéristique de 2025 est la coexistence du calme (Minimal) et de la densi
 
 #### « Club tranquille » et « electronica introspective »
 
-La popularité des « slow grooves » comme l'Afro House et l'Amapiano symbolise une époque où la danse peut aussi devenir « introspection ».
+La popularité des « slow grooves » comme l'Afro House et l'Amapiano symbolise une époque où la danse peut aussi être « introspection ».
 Des sets de 100 à 110 BPM deviennent la norme dans les clubs de Berlin et de Séoul, créant un espace où l'on peut « réfléchir en dansant ».
 Au Japon, les festivals gastronomiques, alias foodman et yahyel, explorent la « musique de club tranquille ».
 

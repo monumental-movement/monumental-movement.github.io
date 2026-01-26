@@ -140,7 +140,7 @@ color: #fff;
 
 | Artiste | Piste | Année |
 |--------------|----------|----|
-| Merzbow | Musique acoustique métal | 1981 |
+| Arc de Merz | Musique Acoustique Métallique | 1981 |
 | Infirmière avec plaie | Yagga Blues | 1982 |
 | Glenn Branca | Leçon n°1 | 1980 |
 | Actuel 93 | Le sang des chiens monte | 1984 |
@@ -178,13 +178,13 @@ color: #fff;
 | Scanner | Observation de masse | 1994 |
 | Matmos | Rhinoplastie en Californie | 1998 |
 | Ikeda + Alva Noto | Acronyme universitaire | 1999 |
-| Merzbow | Démon Pulse (piste 1) | 1996 |
+| Arc de Merz | Démon Pulse (piste 1) | 1996 |
 
 ---
 
 
 ## Années 2000 : ordinateurs portables et mondialisation
-- **Contexte :** L'enregistrement sonore, électronique et sur le terrain s'est répandu à l'échelle internationale. Les « performances sur ordinateur portable » lors de concerts sont devenues monnaie courante.
+- **Contexte :** Les enregistrements de bruit, d'électro et de terrain se sont répandus à l'échelle internationale. Les « performances sur ordinateur portable » lors de concerts sont devenues monnaie courante.
 - **Équipement :** Ableton Live, SuperCollider, Kontakt, ordinateur portable.
 
 ### Chef-d'œuvre
@@ -268,7 +268,7 @@ color: #fff;
 ---
 
 ## L'avenir de la musique expérimentale
-La musique expérimentale a toujours continué à repousser les frontières de la musique. À partir des **expériences préparées sur piano et bande des années 1940**, du **bruit et industriel des années 70**, du **problème numérique des années 90** et de la **musique générée par l'IA des années 2020**, tout est en constante évolution.
+La musique expérimentale a toujours continué à repousser les frontières de la musique. Depuis les expériences de piano et de bande préparées dans les années 1940, jusqu'au bruit et à l'industriel dans les années 70, en passant par les problèmes numériques dans les années 90, jusqu'à la musique générée par l'IA dans les années 2020, tout est en constante évolution.
 
 L'essence de la musique expérimentale est l'imprévisibilité et l'esprit d'exploration. Même en dehors de la musique commerciale, son influence imprègne le rock, la musique de club, la musique contemporaine et la pop, ce qui en fait une force avec laquelle il faut compter.
 

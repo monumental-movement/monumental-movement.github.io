@@ -14,7 +14,7 @@ title: Taco - Faisons face à la musique (et à la danse) Sayonara ('Til We Meet
 ---
 
 
-Taco est un chanteur indonésien-néerlandais connu pour la chanson à succès "Puttin' on the Ritz".
+Taco est un chanteur indonésien-néerlandais connu pour la chanson à succès « Puttin' on the Ritz ».
 
 Une reprise électropop et disco de la célèbre chanson d'Irving Berlin, Let's Face the Music.
 

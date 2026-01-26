@@ -10,12 +10,12 @@ tags:
 - Break Beat
 - Ambient
 - Electronica
-title: Rei Harakami – [lust]
+title: Rei Harakami – [dévotion]
 ---
 
 
-「Rei Harakami – [lust]」は、
-2005年リリースのレイハラカミ４枚目のオリジナルアルバム。
+« Rei Harakami – [lust] » est
+Le quatrième album original de Rei Harakami sorti en 2005.
 
 
 #### Liste des chansons

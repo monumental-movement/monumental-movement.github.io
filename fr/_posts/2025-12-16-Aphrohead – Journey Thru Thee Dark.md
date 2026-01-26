@@ -16,7 +16,7 @@ title: Aphrohead – Voyage à travers toi sombre
 
 Felix Stallings, également connu sous le nom d'Aphrohead, est un DJ et producteur américain.
 
-"Journey Thru Thee Dark" est un morceau de Tech House sorti sur le label britannique Bush en 1997.
+"Journey Thru Thee Dark" est un morceau Tech House sorti sur le label britannique Bush en 1997.
 
 A est un remix de l'unité 20:20 Vision de Carl A. Finlow et Ralph Lawson.
 

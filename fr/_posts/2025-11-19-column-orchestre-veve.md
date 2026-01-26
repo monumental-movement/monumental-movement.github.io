@@ -123,7 +123,7 @@ La section rythmique de Veve a un rebond distinctif. Le charleston ne sculpte pa
 
 # Chapitre 6 Analyse des chansons représentatives
 
-## Chanson A : Zonga Andowe – fondation rythmique et structure mélodique
+## Chanson A : Zonga Andowe – fondement rythmique et structure mélodique
 
 "Zonga Andowe" est l'un des tubes les plus populaires de Veve, avec son refrain répétitif et sa structure mélodique de guitare.
 
@@ -177,7 +177,7 @@ sequenceDiagram
 
 ## Chanson C : Nitarudia — Réveillon de soukous orienté danse
 
-Dans cette chanson, une guitare plus rapide et plus segmentée apparaît comme un précurseur du style soukousu. On dit que c'est le son le plus tourné vers l'avenir des œuvres de Veve.
+Dans cette chanson, une guitare plus rapide et plus fragmentée apparaît comme un précurseur de la chanson devenant sokusu. On dit que c'est le son le plus tourné vers l'avenir des œuvres de Veve.
 
 ### Analyse technique
 
@@ -202,7 +202,7 @@ flowchart LR
 # Chapitre 7 Technologie d'enregistrement, environnement studio, système de production
 
 L'environnement d'enregistrement de Veve était à l'époque l'un des plus avancés d'Afrique.
-Il possédait son propre studio et plusieurs ingénieurs du son étaient toujours présents et présentait les caractéristiques techniques suivantes.
+Il possédait son propre studio, comptait plusieurs ingénieurs du son parmi son personnel et présentait les caractéristiques techniques suivantes :
 
 - **Profitez rapidement de la période de transition de l'enregistrement 2-4 pistes à l'enregistrement 4-8 pistes**
 - **Méthode stéréo pour balancer la guitare à gauche et à droite**

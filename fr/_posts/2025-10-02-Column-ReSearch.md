@@ -117,7 +117,7 @@ Alors qu'il travaillait à la librairie City Lights de San Francisco, Vale a fon
 Entretiens directs avec Throbbing Gristle et Cabaret Voltaire par téléphone et par courrier. La mise en page a été réalisée par Vale à l'aide d'une machine à écrire et l'a remise en main propre à l'imprimeur.
 
 - **Choc créé par Modern Primitives**
-Présentation de la modification corporelle comme « art ». Il a élevé la culture du perçage et du tatouage du tabou au rang de culture. Cela a directement conduit à des événements et des performances artistiques ultérieurs.
+Présentation de la modification corporelle comme « art ». Il a élevé la culture du perçage et du tatouage du statut de tabou à celui de culture. Cela a directement conduit à des événements et des performances artistiques ultérieurs.
 
 - **Collaboration avec John Waters**
 John Waters a fourni de nombreux matériaux lors de la production d'Incredably Strange Films. «Vale était le seul endroit qui considérait mes films comme ayant une valeur culturelle», se souvient-il.

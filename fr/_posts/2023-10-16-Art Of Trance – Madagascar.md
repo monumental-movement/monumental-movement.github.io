@@ -12,7 +12,7 @@ title: Art De La Transe – Madagascar
 ---
 
 
-Side A est un remix du projet de transe allemand Cygnus X de Matthias Hoffmann et Ralf Hildenbeutel.
+La face A est un remix du projet de transe allemand Cygnus X de Matthias Hoffmann et Ralf Hildenbeutel.
 
 Le premier morceau de la face B est un remix du DJ/producteur néerlandais Ferry Corsten (System F).
 
