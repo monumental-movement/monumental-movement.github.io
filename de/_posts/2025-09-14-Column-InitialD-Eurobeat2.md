@@ -44,7 +44,7 @@ Hier fungiert sie nicht nur als Hintergrundmusik, sondern als Symbol, um die „
 
 ### An die Generation, die das „Gedächtnis der Beschleunigung“ geerbt hat
 Viele der Jugendlichen, die heute auf Spotify oder Apple Music auf die Playlist „Eurobeat – Initial D“ klicken, sind nicht unbedingt auf Bergpässen gelaufen.
-Aber sie beschleunigen in ihren Kopfhörern, treiben im virtuellen Raum, lachen im Internet und überlassen ihre Körper den gleichen Klängen.
+Aber sie beschleunigen mit ihren Kopfhörern, treiben im virtuellen Raum, lachen im Internet und überlassen ihre Körper den gleichen Klängen.
 Eurobeat ist zu einem Medium geworden, das über die physische Geschwindigkeit hinausgeht und das „Gedächtnis der Beschleunigung“ mit jeder Generation aktualisiert.
 
 ### Liste repräsentativer Eurobeat-Songs (Anfangsbuchstabe D)
@@ -182,7 +182,7 @@ Autosound: ▒▒▒▒▒▒→ GT-R-Beschleunigungssound </div>
 
 ---
 
-### Zusammenfassungstabelle zum Hintergrund des Zeitalters
+### Übersichtstabelle zum Hintergrund des Zeitalters
 
 | Ära | Musikalische Besonderheiten | Verwandte Künstler | Beziehung zu Initial D |
 | ----- | ------------------- | ------------------------ | ----------- |
@@ -209,11 +209,11 @@ Drift: ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ → (Rutschgeräusch) </
 
 ---
 
-###Übersichtstabelle der kulturellen Kontaktpunkte
+### Übersichtstabelle der kulturellen Kontaktpunkte
 
 | Bereich | Repräsentative Elemente | Verbindung mit Eurobeat |
 | ------- | ------------------------------------ | -------------------- |
-| Toge Runner-Kultur | AE86, RX-7, GT-R | Synchronisiert mit der Fahrszene in „Initial D“ |
+| Toge-Läufer-Kultur | AE86, RX-7, GT-R | Synchronisiert mit der Fahrszene in „Initial D“ |
 | Clubkultur | Parapara, Velfarre | Direkt verbunden mit Avex Eurobeat |
 | Internetkultur | Deja Vu Memes | Wiederexplosion auf YouTube/TikTok |
 | Spielkultur | Initial D Arcade Stage, Gran Turismo | Eurobeat wird zur Standard-Hintergrundmusik |

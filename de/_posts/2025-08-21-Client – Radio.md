@@ -13,7 +13,7 @@ title: Kunde – Radio
 ---
 
 
-Client ist ein 2002 gegründetes Electroclash/Synth-Pop-Duo aus Großbritannien.
+Client ist ein Electroclash/Synth-Pop-Duo aus Großbritannien, das 2002 gegründet wurde.
 
 „Radio“ ist ein Elektrosong, der 2004 vom Label Toast Hawaii von Depeche Mode-Mitglied Andy Fletcher veröffentlicht wurde. Der Produzent ist Joe Wilson, bekannt für Deuce von der britischen Trip-Hop-Band Sneaker Pimps.
 

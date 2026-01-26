@@ -10,7 +10,7 @@ tags:
 - Techno
 - Minimal
 - 90s
-title: Carl Craig – Landcruising
+title: Carl Craig – Landkreuzfahrt
 ---
 
 
@@ -18,7 +18,7 @@ Carl Craig gehört zur zweiten Generation des Detroit Techno, entdeckt von Derri
 
 Er kreiert einen Sound, der verschiedene Elemente wie innovatives Ambient, Techno, Breakbeat und Future Jazz beinhaltet.
 
-„Landcruising“, 2005 von WEAs Tochtergesellschaft Blanco Y Negro veröffentlicht, ist Carl Craigs erstes Album und gilt als Meisterwerk. Im Jahr 2005 wurde das Album neu gemastert, neu abgemischt und mit neuen Songs versehen. Es wurde unter dem Titel „The Album Formerly Known As...“ vom RushHour-Label veröffentlicht und neu bewertet.
+„Landcruising“, 2005 von WEAs Tochtergesellschaft Blanco Y Negro veröffentlicht, ist Carl Craigs erstes Album und gilt als Meisterwerk. Im Jahr 2005 wurde das Album remastered, neu abgemischt und mit neuen Songs versehen. Es wurde unter dem Titel „The Album Formerly Known As...“ vom RushHour-Label veröffentlicht und neu bewertet.
 
 #### Trackliste
 ```md

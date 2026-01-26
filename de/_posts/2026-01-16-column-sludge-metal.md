@@ -17,7 +17,7 @@ title: '[Kolumne] Sludge Metal ─ Akustische Ästhetik, die durch Gewicht und S
 
 
 
-## Prolog: Eine akustische Welt, die von Langsamkeit und Gewicht dominiert wird
+## Prolog: Eine akustische Welt, dominiert von Langsamkeit und Gewicht
 
 Text: mmr｜Thema: Über die Klangästhetik von Sludge Metal
 
@@ -48,7 +48,7 @@ color: #fff;
 
 ## Before Formation: Die Schnittstelle zwischen Doom Metal und Hardcore
 
-Sludge Metal ist kein isoliert entstandener Musikstil. Dahinter verbergen sich zwei Strömungen: Doom Metal, der sich seit den 1970er Jahren fortsetzt, und Hardcore Punk, der sich in den 1980er Jahren ausbreitet.
+Sludge Metal ist kein isoliert entstandener Musikstil. Dahinter verbergen sich zwei Strömungen: Doom Metal, der seit den 1970er-Jahren anhält, und Hardcore-Punk, der sich in den 1980er-Jahren verbreitet.
 
 Gekennzeichnet durch langsame Tempi und schwere Riffs hat Doom Metal düstere, stagnierende Emotionen in Musik verwandelt. Hardcore-Punk hingegen drückte soziale Unzufriedenheit und Wut direkt durch kurze, harsche Lieder und aggressive Einstellungen aus.
 
@@ -104,7 +104,7 @@ Sludge-Metal-Rhythmen treiben dich nicht voran, sie halten dich dort.
 
 Sludge-Metal-Gesang hat oft keine klare Melodie. Es ist nicht so tief wie Death Growl oder so linear wie Punk Shout. Was da ist, ist eine Stimme, die das Ergebnis emotionaler Abnutzung ist.
 
-Die Schreie sind rau, manchmal heiser und oft nicht als Worte zu verstehen. Dabei handelt es sich jedoch nicht um mangelndes Können, sondern vielmehr um Ausdruck einer Haltung, Emotionen nicht zu verarbeiten. Die Themen der Texte sind ebenfalls introspektiv und konzentrieren sich auf Selbsthass, Leere und geistige Erschöpfung.
+Die Schreie sind rau, manchmal heiser und oft nicht als Worte zu verstehen. Dabei handelt es sich allerdings nicht um mangelndes Können, sondern vielmehr um Ausdruck einer Haltung, Emotionen nicht zu verarbeiten. Die Themen der Texte sind ebenfalls introspektiv und konzentrieren sich auf Selbsthass, Leere und geistige Erschöpfung.
 
 Anstatt in den Vordergrund zu rücken, verschmilzt die Stimme mit der verzerrten Gitarre und dem Bass und fungiert als Teil der Akustik.
 
@@ -116,7 +116,7 @@ Anstatt in den Vordergrund zu rücken, verschmilzt die Stimme mit der verzerrten
 
 Viele der frühen Schlammmetallwerke wurden mit begrenzter Ausrüstung und begrenztem Budget errichtet. Dadurch ist der Klang nicht klar und die Trennung der einzelnen Instrumente ist schlecht. Es war jedoch diese Lo-Fi-Textur, die das Gewicht der Musik verstärkte.
 
-Raumgeräusche, Verstärkergeräusche, Mikrofon-Macken. Indem diese physischen Elemente so aufgezeichnet werden, wie sie sind, hat die Klangquelle die Qualität vor Ort. Präsenz hatte Vorrang vor perfekter Klangqualität.
+Raumgeräusche, Verstärkergeräusche, Mikrofon-Macken. Indem diese physischen Elemente so aufgezeichnet werden, wie sie sind, hat die Klangquelle eine Vor-Ort-Qualität. Präsenz hatte Vorrang vor perfekter Klangqualität.
 
 Im Sludge Metal war das Aufnehmen kein Prozess, um das Werk zu verschönern, sondern ein Akt, um die Musik so zu halten, wie sie ist.
 
@@ -170,7 +170,7 @@ graph TD
 
 Sludge Metal entstand als Reaktion auf eine Musikkultur, die um Geschwindigkeit und Können konkurrierte. In diesem Fall muss der Klang nicht angenehm sein, sondern unangenehm, schwer und ohne Entweichung.
 
-Selbst wenn sich Zeiten und Technologie ändern, werden die Stagnation und der Druck, den die Menschen verspüren, nicht verschwinden. Sludge Metal übertreibt oder reinigt diese Klänge nicht, sondern produziert sie einfach weiterhin als Klänge.
+Auch wenn sich Zeiten und Technologie ändern, werden die Stagnation und der Druck, den die Menschen verspüren, nicht verschwinden. Sludge Metal übertreibt oder reinigt diese Klänge nicht, sondern produziert sie einfach weiterhin als Klänge.
 
 > Sludge Metal ist Musik, die Präsenz in Frage stellt, nicht Geschwindigkeit.
 

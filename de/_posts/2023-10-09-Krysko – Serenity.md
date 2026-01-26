@@ -13,7 +13,7 @@ title: Krysko – Gelassenheit
 ---
 
 
-Krysko ist ein DJ, der Residencies bei The Redlight und The Warehouse Project in Großbritannien hatte und von vielen Tanzmusikfans unterstützt und respektiert wird.
+Krysko ist ein DJ, der Residencies bei The Redlight und The Warehouse Project in Großbritannien innehatte und von vielen Tanzmusikfans unterstützt und respektiert wird.
 
 „Serenity“ ist ein Dschungeltrack, der vom legendären Mischtechniker Mike Marsh im The Exchange in London gemastert und 1994 auf dem britischen Label Whatever veröffentlicht wurde.
 

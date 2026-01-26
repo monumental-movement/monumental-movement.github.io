@@ -93,11 +93,11 @@ In diesem Umfeld nehmen Musikwerke den Charakter von Aufzeichnungen des Produkti
 
 ## Kapitel 5 Produktionsprozess und visuelle Darstellung in Grimes
 
-Grimes ist ein Vertreter des experimentellen Elektropops, ein Künstler, der den Produktionsprozess und den visuellen Ausdruck als untrennbar dargestellt hat.
+Grimes ist ein Vertreter des experimentellen Elektropops, ein Künstler, der den Produktionsprozess und den visuellen Ausdruck als untrennbar darstellt.
 
 ### Musikalische Features
 
-* Tondesign mit Schwerpunkt auf digitalen Synthesizern
+* Klangdesign mit Schwerpunkt auf digitalen Synthesizern
 * Koexistenz von Popmelodie und instabiler Struktur
 * Vielschichtige Stimmverarbeitung und unrealistisches Klangbild
 
@@ -198,7 +198,7 @@ Anstatt diese Elemente einfach zu verschmelzen, zeichnet es sich jedoch dadurch 
 Durch die Einbeziehung des Produktionsprozesses und visueller Informationen erleben die Zuhörer gleichzeitig Folgendes:
 
 * Musik hören
-*Vorstellung des Produktionsprozesses
+* Vorstellung des Produktionsprozesses
 * Beobachtung der Schöpferpersönlichkeit
 * Visuelle narrative Interpretation
 

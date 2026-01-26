@@ -23,7 +23,7 @@ Text: mmr｜Thema: Zur Entwicklung der Fast-Food-Musik als „Kultur, die man mi
 Die Musik des Hamburgerladens ist kein bloßer Werbesong, sondern ein „Klangporträt der Zeit“.
 Welche Werte die Gesellschaft suchte und in welchem ​​Tempo sie lebte – all das ist in einem 15-sekündigen Jingle und Soundlogo verdichtet.
 
-Der fröhliche Family-Pop von McDonald's, die rebellischen Gitarrenriffs von Burger King und die handgefertigte Wärme von Mos Burger auf der Ukulele.
+Der fröhliche Family-Pop von McDonald's, die rebellischen Gitarrenriffs von Burger King und die handgefertigten Ukulele-Sounds von Mos Burger.
 Dabei handelt es sich nicht um Unternehmenswerbung, sondern um „akustische Erinnerungen an die Zeit“.
 
 ---
@@ -47,7 +47,7 @@ color: #fff;
 ### 1-1 „Hamburger = Glück“ singen: Früher Werbespot von McDonald’s
 „You Deserve a Break Today“ wurde 1971 von der amerikanischen Werbeagentur **DDB (Doyle Dane Bernbach)** produziert.
 Komponiert von Sid Woloshin, Text von Dan Kallis.
-Es hatte eine erhebende Wirkung, die einem Musical ähnelte, und symbolisierte McDonald's als „Heilung“ in einer Konsumgesellschaft.
+Es hatte eine erhebende Atmosphäre, die einem Musical ähnelte, und symbolisierte McDonald's als „Heilung“ in einer Konsumgesellschaft.
 
 > ♪ „Du hast dir heute eine Pause verdient, also steh auf und geh weg – zu McDonald’s!“
 
@@ -106,7 +106,7 @@ Frühe Einführung des Konzepts „Musik unterstützt den Geschmack“.
 ## Kapitel 5 Das digitale Zeitalter neu definieren: „Sound Brand Power“, vermittelt in 5 Sekunden (2010–2020er Jahre)
 
 ### 5-1 Rekonstruktion des Soundlogos
-- McDonald's: Universeller pentatonischer Jingle (betreut von Pharrell und Hiroshi Kawabe)
+- McDonald's: Universeller pentatonischer Jingle (betreut von Pharrell, Hiroshi Kawabe)
 - Ändern Sie Tempo/Tonartanordnung für jedes Land
 
 ### 5-2 Trends in der Zusammenarbeit zwischen SNS und Künstlern
@@ -122,7 +122,7 @@ Frühe Einführung des Konzepts „Musik unterstützt den Geschmack“.
 ## Kapitel 6 Psychologie des Sound Branding: Fusion von Geschmack und Gehör
 - Hohe Töne betonen die Süße
 - Niedriger Bereich betont die Bitterkeit
-- Erhöhte Fluktuationsrate um 15 % bei einer Filial-Hintergrundmusik von 120 bpm
+- Erhöhte Fluktuationsrate um 15 % bei einer Laden-Hintergrundmusik von 120 bpm
 
 ---
 

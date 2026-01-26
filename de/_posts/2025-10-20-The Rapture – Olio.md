@@ -14,7 +14,7 @@ title: Die Entrückung – Olio
 ---
 
 
-The Rapture ist eine Band aus New York, die 1998 gegründet wurde. Gekennzeichnet durch einen Stil, der die Geschmäcker verschiedener Genres wie Dance Punk, Post-Punk, Acid House, Disco, Electronica und Rock vermischt, sind sie eine zentrale Band der Dance-Punk-Bewegung, die mit dem Post-Punk-Revival in den frühen 2000er Jahren begann.
+The Rapture ist eine Band aus New York, die 1998 gegründet wurde. Sie zeichnet sich durch einen Stil aus, der die Geschmäcker verschiedener Genres wie Dance Punk, Post-Punk, Acid House, Disco, Electronica und Rock vermischt. Sie sind eine zentrale Band der Dance-Punk-Bewegung, die mit dem Post-Punk-Revival in den frühen 2000er Jahren begann.
 
 Limitierte Auflage von nur 1000 Exemplaren (einseitig)
 

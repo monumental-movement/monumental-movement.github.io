@@ -23,7 +23,7 @@ Text: mmr｜Thema: Kunstbewegung der Post-Punk-Ära
 
 ### Von Post-Punk bis New Wave
 
-Die Punk-Bewegung von 1976 erschütterte die Musikszene mit ihrer Direktheit, „einfach, schnell und gegen das Establishment“ zu sein. Ihre Sprengkraft war jedoch nur von kurzer Dauer, und als Punk zunehmend kommerzialisiert wurde, suchten viele Künstler nach musikalischer Erweiterung und gleichzeitiger Beibehaltung des „Punk-Geistes“.
+Die Punk-Bewegung von 1976 erschütterte die Musikszene mit ihrer Direktheit, „einfach, schnell und gegen das Establishment“ zu sein. Ihre Sprengkraft war jedoch nur von kurzer Dauer, und als Punk zunehmend kommerzialisiert wurde, suchten viele Künstler nach musikalischer Expansion und gleichzeitiger Beibehaltung des „Punk-Geistes“.
 
 Der allgemeine Begriff, der aus diesem Experiment entstand, war „New Wave“. Aus akademischer Sicht ist New Wave ein Konzept, das eine Vielzahl musikalischer Entwicklungen seit Post-Punk umfasst, und es handelt sich nicht um einen strengen Genrenamen, sondern um eine kulturelle Bezeichnung, die sich auf das Bewusstsein und die Sensibilität der Zeit bezieht.
 
@@ -89,7 +89,7 @@ Während die Neoromantik den DIY-Geist des Punk übernahm, präsentierte sie ein
 
 - **Beziehung zur Kunst**
 
-„Talking Heads“ aus New York dreht sich um den Absolventen der Kunsthochschule David Byrne und vereint Einflüsse aus der Minimal Art und der Konzeptkunst. In Großbritannien sind Vivienne Westwoods Mode- und Post-Pop-Art-Design-Sensibilität direkt miteinander verbunden.
+„Talking Heads“ aus New York dreht sich um den Absolventen der Kunsthochschule David Byrne und vereint Einflüsse aus der Minimal Art und der Konzeptkunst. Im Vereinigten Königreich sind Vivienne Westwoods Mode- und Post-Pop-Art-Design-Sensibilität direkt miteinander verbunden.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5IsSpAOD6K8?si=InBWbY0HDV2tsWxI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -129,7 +129,7 @@ New Wave war ein wichtiger Wendepunkt in der Musikgeschichte, da es „Genregren
 
 ### Kunstbewegung der Post-Punk-Ära, kein Genre
 
-New Wave entstand in den 1970er Jahren aus dem Punk und war eine wichtige Bewegung in der Musikgeschichte, die elektronische Technologie einbezog, genreübergreifend war und gesellschaftskritisch war. Gleichzeitig handelte es sich um eine umfassende kulturelle Bewegung, die die urbane Kultur der 1980er Jahre symbolisierte und Mode, Video, Kunst und Lebensstil umfasste.
+New Wave entstand in den 1970er Jahren aus dem Punk und war eine wichtige Bewegung in der Musikgeschichte, die elektronische Technologie einbezog, genreübergreifend war und gesellschaftskritisch war. Gleichzeitig war es eine umfassende kulturelle Bewegung, die die urbane Kultur der 1980er Jahre symbolisierte und Mode, Video, Kunst und Lebensstil umfasste.
 
 New Wave ist eine „umfassende Kunst der Ära“, in der Musik, Kunst, Gesellschaftskritik und Mode eng miteinander verbunden sind.
 

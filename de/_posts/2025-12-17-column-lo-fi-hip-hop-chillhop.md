@@ -85,7 +85,7 @@ Durch die Verknüpfung mit konzentrierten Aktivitäten wie Lernen, Lesen und Arb
 
 ## 6. Veränderungen in der Internet- und Vertriebsstruktur
 
-Seit Ende der 2000er Jahre ist Lo-Fi Hip Hop mit dem Aufkommen von Video-Sharing-Sites und Musikvertriebsdiensten schnell sichtbarer geworden. Hochgradig anonyme Account-Verwaltung, 24-Stunden-Streaming und eine auf Loop-Playback basierende Konfiguration bildeten eine in diesem Genre einzigartige Vertriebsform.
+Seit Ende der 2000er Jahre ist Lo-Fi Hip Hop mit dem Aufkommen von Video-Sharing-Sites und Musikvertriebsdiensten schnell sichtbarer geworden. Hochgradig anonyme Accountverwaltung, 24-Stunden-Streaming und eine auf Loop-Playback basierende Konfiguration bildeten eine in diesem Genre einzigartige Vertriebsform.
 
 Dies ist ein Beispiel dafür, wie das Vertriebsdesign das Musikformat direkt beeinflusst hat.
 

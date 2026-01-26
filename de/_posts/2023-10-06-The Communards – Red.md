@@ -17,7 +17,7 @@ title: Die Kommunarden – Rot
 
 „Red“ ist das Debütalbum der Communards und gilt weithin als eines ihrer erfolgreichsten Werke. Das Album enthält Songs mit emotionalem Gesang und tanzbaren Beats.
 
-Das Album enthält Hitsingles wie „Don’t Leave Me This Way“ und „Never Can Say Goodbye“. Diese Songs waren aufgrund des unverwechselbaren Sounds und der Beliebtheit auf der Tanzfläche der Communards kommerziell erfolgreich.
+Das Album enthält Hitsingles wie „Don’t Leave Me This Way“ und „Never Can Say Goodbye“. Diese Songs waren aufgrund des unverwechselbaren Sounds und der Beliebtheit der Communards auf der Tanzfläche kommerziell erfolgreich.
 
 #### Trackliste
 ```md

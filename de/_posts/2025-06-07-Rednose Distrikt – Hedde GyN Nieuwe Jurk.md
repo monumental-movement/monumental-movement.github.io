@@ -17,7 +17,7 @@ title: Rednose Distrikt – Hedde Gy'N Nieuwe Jurk
 
 
 Rednose Distrikt begann als Zusammenarbeit zwischen der Amsterdamer Band Kid Sublime und Steven de Peven, bevor Kid Sublime ging und Mike Kivits, alias Aardvarck, hinzukam.
-Ihr Sound zeichnet sich durch eine Mischung verschiedener Elemente aus, darunter gebrochener Beat, Offside-Techno, zerschnittener Soul und gesampelter Slapstick-Jazz.
+Ihr Sound zeichnet sich durch eine Mischung verschiedener Elemente aus, darunter gebrochener Beat, Offside-Techno, Cut-up-Soul und gesampelter Slapstick-Jazz.
 
 Bei dieser Platte handelt es sich um einen abstrakten Break-House-Track, der 2005 von Rockwell Records, einem Spin-off des niederländischen Labels Rockwell, veröffentlicht wurde. (Promo-Ausgabe)
 

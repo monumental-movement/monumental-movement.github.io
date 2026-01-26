@@ -51,7 +51,7 @@ Cage und die Komponisten der Musique Concrète ermutigten uns jedoch, das Wieder
 Zuhören ist ein Akt der Erneuerung der Beziehung zur Welt.
 Es ist eine Haltung, „die Klänge zu akzeptieren, die bereits existieren“, anstatt sich für einen Klang zu entscheiden.
 
-Diese Einstellung wurde später auf Brian Enos Ambient-Musik übertragen.
+Diese Haltung wurde später auf Brian Enos Ambient-Musik übertragen.
 er spricht. „Ambient-Musik ist Musik, die mit der Umgebung existiert, auch wenn man ihr nicht bewusst zuhört.“
 
 ---
@@ -143,7 +143,7 @@ Stille fungiert nicht als Raum zum Musizieren, sondern als Raum des Nachdenkens 
 
 Schweigen wird wahrscheinlich zu einer neuen Form des Widerstands in der zukünftigen Musikkultur werden.
 Informationsüberflutung, sofortiges Vergnügen und algorithmische Musikauswahl.
-In diesem Zusammenhang wird das Zuhören zu einer Art Übung des „langsamen Zuhörens“.
+In diesem Zusammenhang wird das Zuhören zu einer Art Übung des **langsamen Zuhörens**.
 
 Wenn wir das Verb „zuhören“ wiedererlangen,
 Musik verbindet uns wieder mit der Welt.
@@ -157,7 +157,7 @@ Musik verbindet uns wieder mit der Welt.
 | ----- | -------------------- | ------------- |
 | 1952 | „4:33“ Premiere | John Cage |
 | 1967 | „Soundwalk“-Konzept vorgeschlagen | Max Newhouse |
-| 1977 | „Tuning of the World“ Verlag | R. Marie Schäfer |
+| 1977 | „Tuning of the World“ Verlag | R. Marie Schaefer |
 | 1982 | Der Aufstieg der Ambient-Musik | Brian Eno |
 | 2000er | Ausbau der Field-Recording-Kultur | Chris Watson, Ryuichi Sakamoto |
 | 2020er | „Stille“ mit KI-generierter Musik neu bewerten | Klangkünstler aus verschiedenen Ländern |

@@ -47,7 +47,7 @@ NTS Radio ist ein Internetradio mit Sitz in London, das rund um die Uhr DJ-Progr
 
 Ein Merkmal von NTS ist, dass es keinem bestimmten Genre einen Vorteil bei der Programmprogrammierung verschafft. Künstler haben für jedes Programm die Rechte zur Kuration und dürfen nicht nur DJ-Sets, sondern auch Feldaufnahmen, unveröffentlichte Tonquellen und Live-Auftritte einbeziehen.
 
-> „Live-Streaming auf NTS wurde als ein Akt der gemeinsamen Nutzung des Prozesses der Songauswahl und Aufführung selbst positioniert und nicht als Präsentation abgeschlossener Werke.“
+> „Live-Streaming auf NTS wurde als ein Akt der gemeinsamen Nutzung des Prozesses der Songauswahl und Aufführung selbst positioniert, anstatt das fertige Werk zu präsentieren.“
 
 ---
 
@@ -55,7 +55,7 @@ Ein Merkmal von NTS ist, dass es keinem bestimmten Genre einen Vorteil bei der P
 
 Boiler Room begann als Projekt zum Streamen kleiner Indoor-DJ-Events in London. Die Kamera betritt den gleichen Raum wie der DJ und zeichnet sich durch ein Format aus, das die Anwesenheit des Publikums einbezieht.
 
-Dieses Format unterscheidet sich von herkömmlichen Videoaufzeichnungen, bei denen eine Kamera hinter der DJ-Kabine installiert ist, und hat eine Struktur, bei der sich Publikum, Raum und Künstler alle im selben Bild befinden. Infolgedessen wurde der DJ-Auftritt als ein Ausdruck visualisiert, der „körperliches und soziales Verhalten“ umfasst, und nicht als ein Akt „nur des Klangs“.
+Dieses Format unterscheidet sich von herkömmlichen Videoaufnahmen, bei denen eine Kamera hinter der DJ-Kabine platziert wird, dadurch, dass sich Publikum, Raum und Künstler alle im selben Bild befinden. Infolgedessen wurde der DJ-Auftritt als ein Ausdruck visualisiert, der „körperliches und soziales Verhalten“ umfasst, und nicht als ein Akt „nur des Klangs“.
 
 ---
 
@@ -63,9 +63,9 @@ Dieses Format unterscheidet sich von herkömmlichen Videoaufzeichnungen, bei den
 
 DJ-Sets im NTS und im Boiler Room unterscheiden sich in der Regel von Club-Setups zu Spitzenzeiten. Es gibt viele Szenen, in denen der Schwerpunkt eher auf den Zusammenhängen und Überraschungen der Songauswahl als auf der Konsistenz von Tempo und Energie liegt.
 
-Vor allem bei NTS sind lange Sets von mehr als zwei Stunden üblich, und oft sieht man einen Stil, der sanft eine Erzählung aufbaut und gleichzeitig Genres überschreitet. Andererseits gibt es in Boiler Room viele relativ kurze Sets, die die Entwicklung im Einklang mit der Hitze des Raums betonen.
+Vor allem bei NTS sind lange Sets mit einer Länge von mehr als zwei Stunden üblich, und oft sieht man einen Stil, der sanft eine Erzählung aufbaut und gleichzeitig Genres überschreitet. Andererseits gibt es in Boiler Room viele relativ kurze Sets, die die Entwicklung im Einklang mit der Hitze des Raums betonen.
 
-> „Der Zustand des Live-Streamings hat das DJ-Set von einer „Technik, die den Raum zum Funktionieren bringt“ zu einer „Struktur, der zugehört wird“ verändert.
+> „Die Bedingungen des Live-Streamings veränderten das DJ-Set von einer „Technik, die den Raum zum Funktionieren bringt“ zu einer „Struktur, der zugehört wird.“
 
 ---
 
@@ -101,7 +101,7 @@ Extreme Bassklänge und subtile Dynamiken lassen sich beispielsweise in einer St
 
 NTS und Boiler Room haben ihre Sendungen archiviert und zum späteren Ansehen und Anhören zur Verfügung gestellt. Dieser Archivcharakter verwandelt Live-Auftritte von kurzlebigen Ereignissen in referenzierbare Materialien.
 
-Zuhörer können die Aufführung nicht nur durch die Teilnahme in Echtzeit neu interpretieren, sondern auch durch späteres Anschauen.
+Die Zuhörer können die Aufführung nicht nur durch die Teilnahme in Echtzeit neu interpretieren, sondern auch durch das spätere Anschauen.
 
 ---
 
@@ -167,7 +167,7 @@ Auf NTS wurde bestätigt, dass es viele Fälle gibt, in denen Material mitten in
 
 ## Ergänzendes Kapitel 3 Beispieldichte über Genres hinweg
 
-Betrachtet man die Aktivitäten von Live-Streaming-Künstlern, ist Cross-Genre eher die Regel als die Ausnahme. Fragmente aus Tanzmusik, Noise, Jazz, Volksmusik und Pop werden im selben Set aneinandergereiht.
+Betrachtet man die Aktivitäten von Live-Streaming-Künstlern, ist Cross-Genre eher die Regel als die Ausnahme. Fragmente aus Tanzmusik, Noise, Jazz, Volksmusik und Pop werden im selben Set verkettet.
 
 Dies ist eher ein Ergebnis veränderter Hörbedingungen im Vertriebsumfeld als eine bewusste Avantgarde. Das Hören über längere Zeiträume in einer privaten Umgebung ermöglicht schnelle Genrewechsel.
 
@@ -185,7 +185,7 @@ Insbesondere auf NTS erstellen DJs Musikarchive, indem sie ihre Programme über 
 
 ## Ergänzendes Kapitel 5 Videointervention und -verweigerung
 
-Während Boiler Room aktiv Videos einbezieht, hat NTS ein audiozentriertes Design beibehalten. Dieser Unterschied wirkt sich direkt auf die Leistungsrichtung aus.
+Während Boiler Room aktiv Videos einbezieht, hat NTS ein audiozentriertes Design beibehalten. Dieser Unterschied hat direkte Auswirkungen auf die Leistungsrichtung.
 
 Wenn Bilder existieren, haben körperliche Bewegungen und räumliche Konfigurationen eine Bedeutung. Wenn die Bilder begrenzt sind, rücken die Anordnung der Töne und die zeitliche Struktur in den Vordergrund.
 
@@ -217,7 +217,7 @@ NTS und Boiler Room haben ein Modell demonstriert, das sich von der traditionell
 
 ---
 
-## Ergänzendes Kapitel 9 Bezug zur Musikgeschichte
+## Ergänzungskapitel 9 Bezug zur Musikgeschichte
 
 Diese Live-Streaming-Kulturen stehen im Einklang mit der Geschichte der Improvisationsmusik, der experimentellen Musik und der DJ-Kultur. Neue Technologien machen bestehende Praktiken nicht unsichtbar, sondern positionieren sie neu.
 

@@ -23,7 +23,7 @@ title: '[Kolumne] Sabrina Malheiros: Die Brillanz des modernen brasilianischen S
 Text: mmr｜Thema: Wie sich die brasilianische Musik seit dem 21. Jahrhundert weiterentwickelt und neu verbunden hat, im Mittelpunkt steht die Musikgeschichte von Sabrina Mallheiros, ihre Beziehung zu Azimuth, die Entwicklung ihrer Arbeit und die Symbolik von „Clareia“.
 
 
-Während die brasilianische Musik weltweit immer wieder neu bewertet wird, ist Sabrina Mallheiros die Person, die die Sensibilitäten von Samba Soul, Funk, Bossa Nova und Neo-Soul flexibel kombiniert. Als Nachkomme von Azimuth unter der Leitung von Aza Mallheiros wurden sie von Musikgemeinschaften in London, Japan und Europa begeistert unterstützt.
+Während die brasilianische Musik weltweit immer wieder neu bewertet wird, ist Sabrina Mallheiros die Person, die die Sensibilitäten von Samba Soul, Funk, Bossa Nova und Neo-Soul flexibel kombiniert. Als Nachkomme von Azimuth, angeführt von Aza Mallheiros, wurden sie von Musikgemeinschaften in London, Japan und Europa begeistert unterstützt.
 
 Insbesondere ihr Album **Clareia** aus dem Jahr 2017 war der Moment, in dem ihre musikalische Welt am deutlichsten aufblühte.
 Sein Titeltrack „Clareia“** fand später neues Leben in der Underground-Dance-Community und brachte Remixe von Schlüsselfiguren des britischen Jazz/Broken Beat hervor, darunter **Henry Wu (Kamaal Williams)**, **2000 Black (Dego & Kaidi)** und **IG Culture**.
@@ -80,7 +80,7 @@ Es gibt Momente sanften Jazz-Funks, die einem ein direktes Gefühl von Azimuths 
 
 ### ● Titelsong „Clareia“
 
-Dieses Lied, das man als Symbol des Albums bezeichnen kann, kombiniert Sabrinas sanfte Singstimme, dynamische Percussion und fließende Linien des Keyboards zu einer klaren Lichttextur.
+Dieses Lied, das als Symbol des Albums gelten kann, kombiniert Sabrinas sanfte Singstimme, dynamische Percussion und fließende Linien des Keyboards zu einer klaren Lichttextur.
 
 „Clareia“ erregte vom Zeitpunkt seiner Veröffentlichung an Aufmerksamkeit in der europäischen Jazz-/Clubwelt und führte zu einem späteren Remix-Projekt.
 
@@ -90,7 +90,7 @@ Dieses Lied, das man als Symbol des Albums bezeichnen kann, kombiniert Sabrinas 
 
 ### – Brücke mit Großbritannien, geschaffen von Henry Wu, 2000 Black, IG Culture –**
 
-Die begeisterte Aufmerksamkeit, die Sabrinas Musik in der britischen Szene erhielt, kann als Symbol der „neuen brasilianischen Neubewertung“ Ende der 2010er Jahre bezeichnet werden.
+Die Begeisterung, die Sabrinas Musik in der britischen Szene hervorrief, kann als Symbol für die „neue Neubewertung der Brasilianer“ Ende der 2010er Jahre bezeichnet werden.
 Besonders wichtig ist der Remix von „Clareia“ durch die folgenden drei Gruppen, die die Jazz/Broken-Beat-Bewegung in London begründeten.
 
 ---

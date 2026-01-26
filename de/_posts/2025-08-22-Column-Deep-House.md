@@ -30,7 +30,7 @@ Deep House ist eine House-Variante, die Ende der 1980er Jahre im Raum Chicago-Ne
 
 **1985–90: Early Early (Chicago/NJ)**
 
-[Larry Heard (Mr. Fingers)](https://amzn.to/4q97ot4) präsentiert den Prototyp mit „Can You Feel It“ und „Mystery of Love“. In Anlehnung an [Frankie Knuckles](https://amzn.to/4nUwWJ4) und [Marshall Jefferson](https://amzn.to/3KOf4AV) eine Fusion aus dem süßen Soul-Feeling von Jersey Garage ([Blaze](https://amzn.to/4ooZuuc) und [Kerri Chandler](https://amzn.to/4qbd4CR)).
+[Larry Heard (Mr. Fingers)](https://amzn.to/4q97ot4) präsentiert den Prototyp mit „Can You Feel It“ und „Mystery of Love“. Dem Fluss von [Frankie Knuckles](https://amzn.to/4nUwWJ4) und [Marshall Jefferson](https://amzn.to/3KOf4AV) folgend, verschmilzt das süße Soul-Feeling von Jersey Garage ([Blaze](https://amzn.to/4ooZuuc) und [Kerri Chandler](https://amzn.to/4qbd4CR)).
 
 **1990er Jahre: Vertiefung und Diversifizierung**
 
@@ -93,7 +93,7 @@ Anjunadeep und All Day I Dream wandten sich der melodischen/organischen Musik zu
 
 **Chicago Deep**: Schwerer Kick + Soul-Reverb. Beispiel: Mr. Fingers, Ron Trent.
 
-**Jersey-/Garage-Typ**: Klavier/Orgel und Gospel-ähnlicher Gesang. Beispiel: Kerri Chandler, Blaze.
+**Jersey/Garage-Typ**: Klavier/Orgel und Gospel-ähnlicher Gesang. Beispiel: Kerri Chandler, Blaze.
 
 **Detroit Deep**: Lo-Fi-Textur mit Jazz-Soul-Feeling. Beispiel: Moodymann, Theo Parrish (an der Grenze).
 
@@ -204,4 +204,4 @@ Anjunadeep und All Day I Dream wandten sich der melodischen/organischen Musik zu
 
 ### Musik, die man im Laufe der Zeit genießen kann, nicht in einem Moment
 
-Deep House ist Musik, die man im Laufe der Zeit genießen kann. Anstelle eines einzelnen, auffälligen Hits gibt es eine „bequeme Fortsetzung“, die Publikum und Zuhörer miteinander synchron hält. Wenn Sie alles verstehen, von historischen Ursprüngen bis hin zu aktuellen Substilen und den Geheimnissen der Produktion und des DJings, können Sie Ihre Auswahl und Ihr Verständnis erheblich vertiefen.
+Deep House ist Musik, die man im Laufe der Zeit genießen kann. Anstelle eines einzelnen, auffälligen Hits gibt es eine „bequeme Fortsetzung“, die Publikum und Zuhörer miteinander synchron hält. Wenn Sie alles verstehen, von historischen Ursprüngen bis hin zu aktuellen Substilen und den Geheimnissen der Produktion und des DJings, können Sie Ihre Auswahl und Wertschätzung erheblich vertiefen.

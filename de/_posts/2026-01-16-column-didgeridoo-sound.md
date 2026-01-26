@@ -46,7 +46,7 @@ color: #fff;
 
 ## Herkunft und historische Reichweite
 
-Es gibt keine archäologischen Materialien, die ein eindeutiges Datum für die Entstehung des Didgeridoos belegen. Da es aus Holz besteht, ist es schwierig, es physisch zu erhalten, und das derzeitige Wissen stützt sich auf Felsmalereien, mündliche Überlieferungen und ethnografische Materialien aus der Kolonialzeit. Felsmalereien im nördlichen Arnhemland zeigen Figuren, die lange Röhreninstrumente spielen, und es wurde vermutet, dass die Felskunst mindestens mehrere hundert Jahre und möglicherweise mehr als 1.000 Jahre alt sein könnte.
+Es gibt keine archäologischen Materialien, die eine eindeutige Datierung bezüglich der Entstehung des Didgeridoos belegen. Da es aus Holz besteht, ist es schwierig, es physisch zu erhalten, und das derzeitige Wissen stützt sich auf Felsmalereien, mündliche Überlieferungen und ethnografische Materialien aus der Kolonialzeit. Felsmalereien im nördlichen Arnhemland zeigen Figuren, die lange Röhreninstrumente spielen, und es wurde vermutet, dass die Felskunst mindestens mehrere hundert Jahre und möglicherweise mehr als 1.000 Jahre alt sein könnte.
 
 Wichtig ist, dass das Didgeridoo nicht in ganz Australien natürlich vorkam. Im Südosten, in Tasmanien und in weiten Teilen der zentralen Wüstenregion wurden keine ähnlichen Musikinstrumentenkulturen aus der Zeit vor dem Kontakt identifiziert. Mit anderen Worten: Das Didgeridoo war kein Symbol „der Aborigines im Allgemeinen“, sondern ein kulturelles Produkt einer bestimmten Region.
 
@@ -78,7 +78,7 @@ In der westlichen Region gibt es mehrere Namen wie „Mago“, „Panpi“ und �
 
 Das Volk der Yolngu ist eine große sprachliche und kulturelle Gruppe, die im östlichen Arnhemland lebt und für das Studium der Didgeridoo-Kultur von zentraler Bedeutung ist. In ihrer Gesellschaft sind die Gesangslinien sowohl an väterliche als auch mütterliche Abstammungslinien gebunden und die Leistungsqualifikationen werden streng kontrolliert.
 
-Ein Yidaki-Darsteller ist nicht nur ein Musiker; Er oder sie muss sich mit Texten, Tanz und Mythologie auskennen. Die Aufführung unterstützt immer das Singen und Tanzen und wird niemals als Soloaufführung behandelt.
+Ein Yidaki-Künstler ist nicht nur ein Musiker; Er oder sie muss sich mit Texten, Tanz und Mythologie auskennen. Die Aufführung unterstützt immer das Singen und Tanzen und wird niemals als Soloaufführung behandelt.
 
 > In der Yolngu-Gesellschaft wird Musik als Teil des Wissenssystems vererbt.
 
@@ -86,7 +86,7 @@ Ein Yidaki-Darsteller ist nicht nur ein Musiker; Er oder sie muss sich mit Texte
 
 ## Spezifisches Stammesbeispiel: Bininji (West-Arnheim)
 
-In den Bininji-Gruppen im westlichen Arnhemland spielt das Didgeridoo eine rhythmischere Rolle. Es haben sich lautmalerische Spieltechniken mit Zungenschnalzen und Stimmen entwickelt, häufig kommen Klangmuster zum Einsatz, die an Tiere und Naturphänomene erinnern.
+In den Bininji-Gruppen im westlichen Arnhemland spielt das Didgeridoo eine eher rhythmische Rolle. Es haben sich lautmalerische Spieltechniken mit Zungenschnalzen und Stimmen entwickelt, häufig kommen Klangmuster zum Einsatz, die an Tiere und Naturphänomene erinnern.
 
 Auch der Bau von Musikinstrumenten ist hier ein wichtiges Wissensgebiet, wobei die gewählte Holzart und die Schnittrichtung rituelle Bedeutung haben. In vielen Fällen sind Produktion und Leistung nicht getrennt.
 

@@ -59,7 +59,7 @@ flowchart TD
 Progressive Rock (im Folgenden Progressive Rock genannt) ist als „evolutionäre Form des Rock“ bekannt, die in den 1960er und 1970er Jahren entstand. Typische Merkmale sind wie folgt.
 
 - **Lange Komposition**: Es ist nicht ungewöhnlich, dass ein Lied mehr als 10 Minuten dauert und das gesamte Lied sich wie ein episches Gedicht entfaltet.
-- **Schwierige Rhythmen und ungewöhnliche Taktarten**: Eine komplexe Rhythmusstruktur, die den Hörer herausfordert, bringt intellektuelle Stimulation, die sich vom „Komfort“ normaler Popmusik unterscheidet.
+- **Schwierige Rhythmen und ungewöhnliche Taktarten**: Eine komplexe Rhythmusstruktur, die den Hörer herausfordert, bringt intellektuelle Anregungen mit sich, die sich vom „Komfort“ normaler Popmusik unterscheiden.
 - **Konzeptualität**: In vielen Fällen erzählt das gesamte Album eine einzige Geschichte oder ein einziges Thema, oft begleitet von einer Science-Fiction-/Fantasy-Weltanschauung.
 
 Diese Elemente überschneiden sich natürlich mit Animes „langfristigem Geschichtenerzählen“ und „komplexen menschlichen Beziehungen und der Konstruktion von Weltanschauungen“. Insbesondere in Genres wie Science-Fiction und Fantasy kann die „Taiga-Epos“-Struktur des Prog-Rock effektiv als musikalisches Mittel wirken, das die visuelle und erzählerische Breite ergänzt.
@@ -95,7 +95,7 @@ Andererseits gibt es jedoch immer noch Raum dafür, dass Progressive-Rock-Techni
 ### ■ Was wäre, wenn Progressive Rock in den Anime eingedrungen wäre?
 Stellen Sie sich das einfach vor.
 - Symphonischer Progressive Rock, der die Fantasiewelt von Hayao Miyazakis Werken unterstützt.
-- King-Crimson-artiges schneidendes Gitarrenriff, das durch Cyberpunk-Anime widerhallt.
+- King-Crimson-ähnliches, schneidendes Gitarrenriff, das durch Cyberpunk-Anime widerhallt.
 - Stellen Sie sich langfristige Serienwerke als Alben vor und entwerfen Sie Musik mit Progressive-Rock-Suiten für jede Staffel.
 
 Die Affinität zwischen Anime und Progressive Rock ist nicht nur eine Kombination aus Musikgenres und visuellen Ausdrucksformen, sondern hat das Potenzial, sich auf die strukturelle Gestaltung der gesamten Geschichte auszudehnen.
@@ -137,7 +137,7 @@ Die Affinität zwischen Anime und Progressive Rock ist nicht nur eine Kombinatio
 
 
 ### ■ Fazit
-Progressive Rock wurde im kommerziellen Anime nie zum „Mainstream“. Seine lange Komposition, sein schwieriger Rhythmus und seine konzeptionelle Natur weisen jedoch eine hohe Affinität zur Taiga-ähnlichen Entwicklung von Anime-Werken auf, die sich auf Science-Fiction und Fantasy konzentrieren.
+Progressive Rock wurde im kommerziellen Anime nie zum „Mainstream“. Seine Merkmale wie lange Struktur, schwieriger Rhythmus und konzeptioneller Charakter weisen jedoch eine hohe Affinität zur Taiga-Entwicklung von Anime-Werken auf, die sich auf Science-Fiction und Fantasy konzentrieren.
 
 Beispiele wie Neon Genesis Evangelion, die Progressive-Rock-Techniken direkt integrieren, sind nur die Spitze des Eisbergs. Auch in Zukunft wird die Illusion „Was wäre, wenn Anime durch Progressive Rock erzählt würde“ weiterhin neue Überschneidungen zwischen Musik und Video aufzeigen.
 

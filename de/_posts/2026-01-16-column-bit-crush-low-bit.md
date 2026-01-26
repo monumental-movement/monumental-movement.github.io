@@ -27,7 +27,7 @@ Wörter wie Bit Crush, Low-Bit-Musik und 8-Bit/12-Bit-Sound bedeuten technisch g
 
 In dieser Kolumne analysieren wir die Beziehung zwischen Bittiefe und Klang, die Einschränkungen früher digitaler Geräte und den Weg, der zu Spielekonsolen, Samplern und DAWs führte, und interpretieren die Anhäufung von Fakten darüber, warum niedrig aufgelöster Klang zu einer Form des musikalischen Ausdrucks wurde.
 
->Digitale Musik beinhaltet seit jeher sowohl „Verbesserung“ als auch „Zerstörung“ zugleich.
+>Digitale Musik beinhaltet seit jeher „Verstärken“ und „Destruieren“ zugleich.
 
 ---
 
@@ -54,7 +54,7 @@ color: #fff;
 Die Bittiefe ist ein Index, der angibt, wie viele Ebenen die Klangamplitude ausgedrückt werden kann.
 Wenn es 16 Bit ist, gibt es 65.536 Ebenen, und wenn es 8 Bit ist, gibt es nur 256 Ebenen. Je kleiner die Anzahl der Stufen ist, desto rauer ist die Lautstärkeänderung und desto auffälliger ist das Quantisierungsrauschen.
 
-Aufgrund von Kosten- und Verarbeitungsleistungsbeschränkungen waren in frühen digitalen Audiogeräten niedrige Bittiefen üblich. Dies war eine Designnotwendigkeit und nicht beabsichtigt.
+Niedrige Bittiefen waren in frühen digitalen Audiogeräten aufgrund von Kosten- und Verarbeitungsleistungsbeschränkungen üblich. Dies war eine Designnotwendigkeit und nicht beabsichtigt.
 
 > Low-Bit-Sound existierte zunächst als „unvermeidliche Einschränkung“.
 
@@ -87,7 +87,7 @@ Anstatt Abstriche bei der Klangqualität zu machen, war dies ein Kompromiss, dam
 
 ### Spielekonsole und Soundchip
 
-Familiencomputer, Arcade-Boards sowie Spielekonsolen der 8-Bit- und 16-Bit-Generation hatten äußerst eingeschränkte Klangquellenspezifikationen.
+Familiencomputer, Arcade-Boards sowie Spielekonsolen der 8-Bit- und 16-Bit-Generation hatten äußerst begrenzte Spezifikationen für die Tonquelle.
 Die Komposition aus Rechteckwellen, Dreieckwellen, Rauschen und einfacher Sample-Wiedergabe verlieh ihm einen deutlich digitalen Klang.
 
 Dieser Klang galt als „für Kinder“ und „einfach“, aber gleichzeitig prägte er sich tief in das Gedächtnis der Generationen ein.
@@ -162,7 +162,7 @@ Low-Bit-Rauschen und Glitches haben gemeinsam, dass beide auf digitale Unvollkom
 
 ### IDM und akustische Ästhetik
 
-Im sogenannten IDM-Kontext wurde die Textur des Klangs selbst als kompositorisches Element hervorgehoben.
+Im sogenannten IDM-Kontext wurde die Textur des Klangs selbst als kompositorisches Element betont.
 Bit-Crushing spielte bei der Gestaltung der Textur eine größere Rolle als Rhythmus und Melodie.
 
 Low-Bit-Sounds sind wie Pinselstriche in abstrakter Musik.
@@ -232,13 +232,13 @@ flowchart LR
 ## Letztes Kapitel: Die Idee, eine Auflösung zu wählen
 
 Bit-Crush- und Low-Bit-Musik sind mehr als nur Soundeffekte oder Genres.
-Es geht darum, zu entscheiden, wie präzise der Klang der Welt präsentiert werden soll.
+Es kommt darauf an, wie präzise der Klang der Welt präsentiert werden soll.
 
 Mit fortschreitender Technologie werden keine Grenzen mehr von außen gesetzt.
 Aus diesem Grund ist die absichtliche Herabsetzung der Auflösung eine klare Ideologie.
 
 Niedrige Bits sind kein Relikt der Vergangenheit.
-Es ist eine Ästhetik, die erst entstehen wird, wenn die digitale Musik ausgereift ist.
+Es ist eine Ästhetik, die erst dann zum Tragen kommt, wenn die digitale Musik ausgereift ist.
 
 > Die Wahl der Klangauflösung ist gleichbedeutend mit der Wahl der Ausdrucksposition.
 

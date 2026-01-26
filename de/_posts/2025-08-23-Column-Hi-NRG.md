@@ -26,7 +26,7 @@ Text: mmr｜Thema: Symbolische Musik der „Befreiung und Solidarität“, die s
 Von den späten 1970er bis 1980er Jahren entwickelte sich Hi-NRG (High Energy) zu einer elektronischen und rasanten Tanzmusik, die aus der Disco abgeleitet war.
 Der Sound zeichnete sich durch schnelle Tempi (120–140 BPM), Synthesizer-Riffs und dramatischen Frauengesang aus und wirkte kathartischer und energiegeladener als traditioneller Disco-Sound.
 
-Hi-NRG hatte eine besonders große Fangemeinde in Schwulenclubs. Nach den Stonewall-Unruhen in den 1970er Jahren suchte die LGBTQ-Community nach einem Platz für ihren Ausdruck und ihre Identität in der Clubszene, und Hi-NRG fungierte als ihre „Musik der Befreiung“.
+Hi-NRG hatte eine besonders große Anhängerschaft in Schwulenclubs. Nach den Stonewall-Unruhen in den 1970er Jahren suchte die LGBTQ-Community nach einem Platz für ihren Ausdruck und ihre Identität in der Clubszene, und Hi-NRG fungierte als ihre „Musik der Befreiung“.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fWy-B4Y-DfY?si=Tg-ELhkdwLjE4hHN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -70,7 +70,7 @@ Ein Sänger, der offen schwul war. Ihr Signature-Song „You Make Me Feel (Might
 
 **Hazell Dean**
 
-Eine britische Hi-NRG-Sängerin, die in der Clubszene so großen Anklang fand, dass sie als „Gay Queen“ bezeichnet wurde. Viele ihrer Lieder sprechen für die Liebe und das Verlangen von LGBTQ.
+Eine britische Hi-NRG-Sängerin, die in der Clubszene so großen Anklang fand, dass sie als „Gay Queen“ bezeichnet wurde. Viele ihrer Lieder sprechen für LGBTQ-Liebe und -Begierde.
 
 **Göttlich**
 
@@ -106,6 +106,6 @@ Zeitgenössische Drag-Race-Kultur und Hyper-Pop-Künstler (SOPHIE, Kim Petras us
 ### Mehr als nur Tanzmusik, es ist ein Symbol für Freiheit und Befreiung
 
 Hi-NRG ist mehr als nur „Tanzmusik“; Es ist ein Genre, das die Geschichte, den Kampf und die Befreiung der LGBTQ-Community verkörpert.
-Treibende Beats und flirrende Synthesizer waren für Schwulenclubs in den 1980er Jahren eine Hommage an das Leben und ein Mittel, der gesellschaftlichen Unterdrückung zu entkommen.
+Treibende Beats und flirrende Synthesizer waren in den 1980er Jahren für Schwulenclubs eine Hommage an das Leben und ein Mittel, der gesellschaftlichen Unterdrückung zu entkommen.
 
 Auch heute noch wird Hi-NRG als wesentliche Präsenz bei der Diskussion der Beziehung zwischen Musik und Sexualität neu bewertet.

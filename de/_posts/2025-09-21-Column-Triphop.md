@@ -151,7 +151,7 @@ Es gibt Dokumentationen über Tourneen aus den 90er-Jahren wie „Welcome to Por
 **2010s〜**: [The Less You Know, The Better（2011）](https://amzn.to/4nggcM5)、[Our Pathetic Age（2019）](https://amzn.to/3KchrgC)
 
 #### Anekdote
-Endtroducing... steht im Guinness-Buch der Rekorde als „erstes Album, das vollständig aus Samples besteht“. Vervollständigt mit MPC und Plattenspieler.
+Endtroducing... steht im Guinness-Buch der Rekorde als „erstes Album, das vollständig aus Samples erstellt wurde“. Vervollständigt mit MPC und Plattenspieler.
 
 #### Produktionstechnik
 Vollständige Nutzung der Breakbeat-Rekonstruktion, des Beat-Jonglierens und des Time-Stretchings. Behandeln Sie den Plattenspieler als „Collage-Tool“.
@@ -175,7 +175,7 @@ Vollständige Nutzung der Breakbeat-Rekonstruktion, des Beat-Jonglierens und des
 Weltweite Präsentation der „japanischen Ruhe“ durch Welttourneen. Er wird von der westlichen Hip-Hop-Szene respektiert.
 
 #### Produktionstechnik
-Ein Stil, der den Plattenspieler als „Instrument“ betrachtet und versucht, ihn mit japanischen Musikinstrumenten und Umgebungsgeräuschen zu kombinieren. Spezialisiert nicht nur auf das Scratchen, sondern auch auf die Raumproduktion.
+Ein Stil, der den Plattenspieler als „Instrument“ betrachtet und versucht, ihn mit japanischen Musikinstrumenten und Umgebungsgeräuschen zu verschmelzen. Spezialisiert nicht nur auf das Scratchen, sondern auch auf die Raumproduktion.
 
 #### Video funktioniert
 

@@ -140,7 +140,7 @@ Daher ist es schwierig, S.O.A. unabhängig zu bewerten. Allerdings ist S.O.A une
 1981 Einstellung der Aktivitäten/de facto Auflösung
 Nach 1981 zerstreuten sich die Mitglieder zu Hardcore-Bands im ganzen Land.
 
-> Obwohl die Aktivitäten von S.O.A. nur von kurzer Dauer sind, sind sie eng mit den Veränderungen der Zeit verknüpft.
+> Auch wenn die Aktivitäten von S.O.A. nur von kurzer Dauer sind, sind sie eng mit den Veränderungen der Zeit verknüpft.
 
 ## Beziehungsdiagramm mit Schwerpunkt auf S.O.A
 
@@ -157,7 +157,7 @@ E --> G[Cro-Mags]
 ---
 
 
-## Fazit: Klingt nach links in Alarmbereitschaft
+## Fazit: Geräusche, die in Alarmbereitschaft zurückgelassen wurden
 
 > S.O.A war kein abgeschlossenes Werk, sondern ein Alarmton an sich.
 

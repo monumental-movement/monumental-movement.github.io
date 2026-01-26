@@ -75,7 +75,7 @@ Es zeichnet sich durch fragmentarische Samples aus, die MPC, Gesangsausschneiden
 
 Im Jahr 2002 veröffentlichten sie die EP *The '92 vs. '02 Collection*. Der Inhalt wurde mit elektronischem Noise und experimentellen Beats angereichert.
 
-Im Jahr 2003 erschien das bahnbrechende Album *One Word Extinguisher*. Gleichzeitig wurde auch *Extinguished: Outtakes* veröffentlicht, eine Zusammenstellung ungenutzter Takes und Remixe.
+Im Jahr 2003 erschien das bahnbrechende Album *One Word Extinguisher*. Zur gleichen Zeit wurde auch *Extinguished: Outtakes* veröffentlicht, eine Zusammenstellung ungenutzter Takes und Remixe.
 Dieses Werk entwickelte die Sample-Fragmentierung und die präzise Beat-Konstruktion weiter und diente als Brücke zwischen IDM und Hip-Hop.
 
 ---
@@ -125,7 +125,7 @@ Im Jahr 2024 wird er *New Strategies for Modern Crime Vol.1* und *Vol.2* veröff
 
 # Musikstile und Einflüsse
 
-– Fusion aus Hip-Hop (1990er), Miami-Bass, IDM und Jazz.
+- Fusion aus Hip-Hop (1990er), Miami Bass, IDM und Jazz.
 - Verfügt über eine Technologie, die Samples und Gesang ausschneidet und in extrem kleine Einheiten einfügt, um sie zu rekonstruieren.
 - Mehr als nur experimentelle Musik, sie drückt urbane Emotionen und Menschlichkeit in Fragmenten aus.
 - Erweitern Sie Ihr musikalisches Spektrum durch Zusammenarbeit und vernetzen Sie sich mit Künstlern der neuen Generation.

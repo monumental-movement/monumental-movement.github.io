@@ -9,7 +9,7 @@ permalink: /de/column-david-cunningham-this-heat/
 tags:
 - Experimental
 - Post Punk
-title: '[Kolumne] David Cunningham – Der Begründer der Post-Punk/experimentellen Musik
+title: '[Kolumne] David Cunningham – Der Begründer der Post-Punk-/Experimentalmusik
   und der Genealogie der Flying Lizards'
 ---
 

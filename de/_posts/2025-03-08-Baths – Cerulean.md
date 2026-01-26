@@ -13,7 +13,7 @@ title: Bäder – Himmelblau
 ---
 
 
-Will Wiesenfeld, auch bekannt als Baths, ist als genialer Beatmaker bekannt und ein in LA lebender Elektronikmusiker.
+Will Wiesenfeld, auch bekannt als Baths, ist als genialer Beatmaker bekannt und ein in LA ansässiger elektronischer Musiker.
 
 „Cerulean“ ist Baths‘ Debütalbum, das 2010 auf dem von Daedelus eingeführten Independent-Label Anticon veröffentlicht wurde. Bei dieser CD handelt es sich um eine japanische Version, die 2013 von Tugboat Records veröffentlicht wurde.
 
@@ -38,5 +38,5 @@ Will Wiesenfeld, auch bekannt als Baths, ist als genialer Beatmaker bekannt und 
 
 [メルカリで購入](https://jp.mercari.com/item/m40590639127?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YpUC6EIZf5o?si=lCKJswyxc2pwcRyq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

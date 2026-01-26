@@ -18,10 +18,10 @@ title: '[Kolumne] Komplette Geschichte des französischen Hip-Hop: von NTM bis h
 
 # Vollständige Geschichte des französischen Hip-Hop
 
-Text: mmr｜Thema: Schwerpunkt auf NTM und IAM, Erklärungen zu jedem Album und Song, sozialer Hintergrund, regionale Stilanalyse und Chronologie.
+Text: mmr｜Thema: Schwerpunkt auf NTM und IAM, Erklärungen zu jedem Album und Lied, sozialer Hintergrund, regionale Stilanalyse und Chronologie.
 
 Französischer Hip-Hop ist eine kulturelle Bewegung, die in den späten 1980er-Jahren in den Vororten französischer Städte entstand. Obwohl sie vom amerikanischen Hip-Hop beeinflusst wurde, hat sie sich so entwickelt, dass sie ihren eigenen sozialen und kulturellen Hintergrund widerspiegelt.
-Vor allem junge Menschen aus Einwanderergemeinschaften und Familien mit niedrigem Einkommen nutzen Rap als Mittel, um ihrer Stimme Ausdruck zu verleihen, und die Texte enthalten politische und soziale Botschaften.
+Insbesondere junge Menschen aus Einwanderergemeinschaften und Familien mit niedrigem Einkommen haben Rap als Ausdrucksmittel für ihre Stimme übernommen, und die Texte enthalten politische und soziale Botschaften.
 
 ---
 
@@ -80,7 +80,7 @@ flowchart TD
 ### 2-1. NTM-Social-Botschaft
 
 NTM entwickelte sich in den 1990er Jahren zu einer Gruppe, die den französischen Hip-Hop vertrat.
-Hauptwerke und Merkmale:
+Hauptwerke und Funktionen:
 
 1. **Suprême NTM (1993)**
 - Darstellung der Realität der Pariser Vororte

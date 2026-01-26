@@ -43,7 +43,7 @@ Aus diesem Grund spielte sie eine Rolle als „heilende Musik“ und wurde mit s
 
 ---
 
-**1990er Jahre**: Unter Ausnutzung des „heilenden“ Booms der CD-Ära wurden Kompilationen, die Umwelt- und Naturgeräusche kombinierten, in Massenproduktion hergestellt und in Japan als „heilende Musik“ populär. Bei den Grammy Awards wird es außerdem eine Kategorie „Bestes New-Age-Album“ geben.
+**1990er Jahre**: Unter Ausnutzung des „heilenden“ Booms der CD-Ära wurden Zusammenstellungen, die Umwelt- und Naturgeräusche kombinieren, in Massenproduktion hergestellt und in Japan als „heilende Musik“ populär. Bei den Grammy Awards wird es außerdem eine Kategorie „Bestes New-Age-Album“ geben.
 
 Nach den 2000er Jahren: Es gab eine Zeit, in der es als „spirituelle Hintergrundmusik“ verachtet wurde, aber zusammen mit der Neubewertung von Ambient- und Drone-Musik wurde es neu überdacht und als Höroption auf Streaming-Diensten wie Spotify und YouTube wiederbelebt.
 
@@ -61,7 +61,7 @@ Nach den 2000er Jahren: Es gab eine Zeit, in der es als „spirituelle Hintergru
 
 - **Enigma**: Ein Welthit mit „Sadeness (Part I),“ einer Fusion aus gregorianischem Gesang und Synthesizer.
 
-- **Yanni**: Bekanntheit erlangte sie in den 90er Jahren durch ihre Bühnenauftritte im symphonischen Stil.
+- **Yanni**: Bekannt wurde sie in den 90er Jahren durch ihre Bühnenauftritte im symphonischen Stil.
 
 <hr>
 

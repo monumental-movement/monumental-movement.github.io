@@ -153,7 +153,7 @@ Erweiterung der Verwendung von Plugins und Beispielpaketen
 
 ### Kombinierter Einfluss von Region, Verein, Medien und Produktionsmethoden
 
-**East Coast**: Breakbeat, Social Rap, Platten-Sampling-Kultur
+**Ostküste**: Breakbeat, Social Rap, Platten-Sampling-Kultur
 
 **Westküste**: Gangsta-Rap, G-Funk, ausgelassene Partys in den Clubs
 
@@ -432,7 +432,7 @@ Bass : ▂▄▇█▇█▇█▄▂
 </tr>
 </table>
 
-**Zusätzliche Überlegungen**
+**Ergänzende Überlegungen**
 
 Genealogiediagramme ermöglichen es Schülern, „Meister-Schüler-Beziehungen“ und „Einflussbeziehungen“ intuitiv zu verstehen.
 

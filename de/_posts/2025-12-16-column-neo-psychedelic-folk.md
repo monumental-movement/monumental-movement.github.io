@@ -68,7 +68,7 @@ Die Lieder von Neo-Psychedelic Folk weisen strukturelle Tendenzen auf, wie die W
 
 ### 2-2. Akustische Verarbeitung
 
-Zum Einsatz kommen räumliche Erweiterungen mittels Hall und Delay, Tonhöhenschwankungen, die bandähnliche Schwankungen nachahmen, sowie eine Mischung aus Lo-Fi und Hi-Fi. Die Aufnahmen wurden zu Hause oder in einem provisorischen Studio gemacht und die Ungleichmäßigkeit der Klangqualität wurde als ästhetischer Aspekt betrachtet.
+Zum Einsatz kommen räumliche Erweiterungen mittels Hall und Delay, Tonhöhenschwankungen, die bandähnliche Schwankungen nachahmen, sowie eine Mischung aus Lo-Fi und Hi-Fi. Die Aufnahmen wurden zu Hause oder in einem provisorischen Studio gemacht, und die Ungleichmäßigkeit der Klangqualität wurde als ästhetischer Aspekt behandelt.
 
 > „Fragmentierung der Erfahrung wird wichtiger als Homogenität“
 
@@ -100,7 +100,7 @@ Die frühen Werke von Tame Impala waren fast ausschließlich Eigenproduktionen. 
 
 ### 4-2. Konvertierung von Gabelelementen
 
-Es zeichnet sich durch eine einfache Akkordfolge, eine melodiegetriebene Struktur und ein Arrangement aus, das eine Überbetonung des Rhythmus vermeidet. Während die Einfachheit der Volksmusik erhalten bleibt, verleiht ihr die akustische Bearbeitung eine psychedelische Tiefe.
+Es zeichnet sich durch eine einfache Akkordfolge, eine melodiegetriebene Struktur und ein Arrangement aus, das eine Überbetonung des Rhythmus vermeidet. Die Einfachheit der Volksmusik bleibt erhalten, die akustische Verarbeitung verleiht ihr jedoch eine psychedelische Tiefe.
 
 ### 4-3. Merkmale des anfänglichen Klangbildes
 
@@ -110,7 +110,7 @@ Dazu gehören das abgerundete Klangbild des Schlagzeugs, die Phasenlage der Gita
 
 ---
 
-## Kapitel 5: Visueller Kommentar – Bildsprache des neo-psychedelischen Folk
+## Kapitel 5: Visueller Kommentar – Bildsprache des Neo-Psychedelic Folk
 
 Häufig kommen Abstraktion und Naturmotive, Loops, Zeitlupe und asynchrone Schnitte zum Einsatz. Der Videoschnitt synchronisiert sich mit der repetitiven Struktur des Songs und dient der Erweiterung des Zeitgefühls.
 

@@ -99,7 +99,7 @@ flowchart LR
 
 ### 3.1 Rhythmus
 
-Neo-Krautrock basiert auf dem klassischen Krautrock-Motorik-Beat, verwendet jedoch eine Vielzahl rhythmischer Techniken:
+Neo-Krautrock basiert auf dem klassischen Krautrock-Motorik-Beat, nutzt jedoch eine Vielzahl rhythmischer Techniken:
 
 - **BPM-Änderung**: Ändern Sie das Tempo während des Live-Auftritts subtil, um jedem Song ein dynamisches Gefühl zu verleihen.
 - **Polyrhythmus**: Erzeugt Komplexität mit einer dualen Struktur aus Drum-Machine und Live-Drums.
@@ -187,7 +187,7 @@ flowchart TD
 
 ## 8. Fazit
 
-Neo-Krautrock bringt den Geist des Krautrock zurück ins 21. Jahrhundert und wird zu einer Brücke zwischen Vergangenheit und Zukunft. Künstler wie Tropic of Cancer und Panda Lux bewahren die ursprüngliche Krautrock-Ästhetik und fördern gleichzeitig neue musikalische Experimente. Mit Fortschritten in der Musiktheorie, der Aufnahmetechnik und dem Live-Ausdruck wird Neo-Krautrock weiterhin im Mittelpunkt der experimentellen Musikszene stehen.
+Neo-Krautrock bringt den Geist des Krautrock zurück ins 21. Jahrhundert und wird zu einer Brücke zwischen Vergangenheit und Zukunft. Künstler wie Tropic of Cancer und Panda Lux bewahren die ursprüngliche Krautrock-Ästhetik und fördern gleichzeitig neue musikalische Experimente. Mit Fortschritten in der Musiktheorie, der Aufnahmetechnik und dem Live-Ausdruck wird Neo-Krautrock weiterhin im Zentrum der experimentellen Musikszene stehen.
 
 ---
 

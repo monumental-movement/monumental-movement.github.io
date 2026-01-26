@@ -54,7 +54,7 @@ Dadurch wurde der in den USA geborene futuristische und politische Techno mit de
 
 ### Label „Tresor Records“
 
-Tresor Records wurde 1991 als Teil eines Clubs gegründet und fungiert als wichtiges Techno-Label.
+Tresor Records wurde 1991 als angeschlossener Club gegründet und fungiert als wichtiges Techno-Label.
 
 [Jeff Mills – Waveform Transmissionシリーズ](https://amzn.to/4mJeXE1)
 

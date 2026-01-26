@@ -43,7 +43,7 @@ color: #fff;
 Geboren am 4. Juli 1922 in Cincinnati, Ohio. Später spricht er über seine Erfahrungen als Marinesoldat (obwohl einige darauf hinweisen, dass seine Silver Star-Medaille nicht in offiziellen Aufzeichnungen zu finden ist).
 
 
-Als er an die Westküste zog, widmete er sich der Bewegung des natürlichen Lebens, dem Vegetarismus, der Hippie-Kultur und dem mystischen Denken. Er eröffnete am Sunset Strip in Los Angeles ein Naturkostrestaurant namens „The Source“, das Berichten zufolge viele berühmte Kunden anzog.
+Als er an die Westküste zog, widmete er sich der Bewegung des natürlichen Lebens, dem Vegetarismus, der Hippie-Kultur und dem mystischen Denken. Er eröffnete ein Bio-Restaurant namens „The Source“ am Sunset Strip in Los Angeles, das Berichten zufolge viele berühmte Kunden anzog.
 
 
 Schließlich gründete er, beeinflusst von Yogi Bhajans Kundalini-Yoga-Philosophie, seine eigene religiöse Bewegung, Source Family. Die von ihm geleitete Gruppe entwickelte einen Lebensstil, der Gemeinschaftsleben, spirituelle Praktiken, Musik, Ernährungs- und Gesundheitspraktiken sowie Rituale umfasste.
@@ -58,10 +58,10 @@ Ehe, Ehefrauen und Kinder: Seine rechtmäßige Ehefrau war Robin Popper (später
 Journalismus und Sachartikel haben diese Doppelnatur untersucht, mit Anekdoten über ihn als „Soldat/ehemaliger Marinesoldat/Kriegsheld“ und Geschichten über ihn als „Sektenführer/ehemaliger Marinesoldat/Bankräuber“ mit Vorwürfen der Beteiligung an Banküberfällen und Morden.
 
 
-Es gibt Aufzeichnungen darüber, dass es während der Existenz der Kommune zu Streitigkeiten kam, die typisch für Sektenoperationen sind, wie zum Beispiel „Aufgabe von persönlichem Eigentum“, „Entfernung von Verwandten“ und „Erlaubnis, junge Mitglieder zu heiraten“.
+Während die Gemeinde aktiv war, gab es Aufzeichnungen zufolge Streitigkeiten, die typisch für Sektenoperationen sind, wie zum Beispiel „Herausgabe von persönlichem Eigentum“, „Entfernung von Verwandten“ und „Erlaubnis, junge Mitglieder zu heiraten“.
 
 
-Am 25. August 1975 kam er bei einem Unfall ums Leben, als er auf Hawaii seinen ersten Drachenflug versuchte (er stürzte ab und starb etwa 9 Stunden später). Dieser Unfall wurde praktisch zu einem Ereignis, das das „Ende“ von Yahooha13 symbolisierte.
+Am 25. August 1975 kam er bei einem Unfall ums Leben, als er auf Hawaii seinen ersten Drachenflug versuchte (er soll abgestürzt sein und etwa 9 Stunden später gestorben sein). Dieser Unfall wurde praktisch zu einem Ereignis, das das „Ende“ von Yahooha13 symbolisierte.
 
 
 Danach zerstreuten sich die Mitglieder der Gemeinde, was jedoch durch Tonarchive und Folklore neu bewertet wurde. Insbesondere die 13 CDs umfassende Box „God and Hair“ (Yahowha Collection), die 1998 vom japanischen Label Captain Trip veröffentlicht wurde, deckte die Klangquellen von Yahowha13/Source Family umfassend ab und wurde zu einer Gelegenheit für die Wiederbelebung der Legende.
@@ -101,7 +101,7 @@ Komplett improvisierte Darbietung: Viele der Aufnahmen wurden ohne Probe, ohne O
 Starker Einsatz von Stammestrommeln, Glocken, Dosen, Gesängen, weißem Rauschen, lauten Gitarren usw. Die Komposition ähnelt eher einer „zeremoniellen Akustik“ als einem Lied.
 
 
-Obwohl einige Lieder manchmal eine melodische/singende Struktur haben, liegt der Gesamtschwerpunkt auf klanglichen Experimenten mit einem Schwerpunkt auf Räumlichkeit, Wiederholung und Ritual.
+Obwohl einige Lieder manchmal eine melodische/singende Struktur haben, liegt der Schwerpunkt insgesamt auf klanglichen Experimenten mit einem Schwerpunkt auf Räumlichkeit, Wiederholung und Ritual.
 
 Texte und Gesang (Gesänge von Pater Yod, linienartige Rezitationen und Gemeindechöre) sind oft eng mit Lehren, Gesängen und meditativen Texten verbunden.
 
@@ -128,7 +128,7 @@ In dieser Zeit erforschte er die Verschmelzung von akustischen Experimenten und 
 Ya Ho Wa 13 (1974), Savage Sons of Ya Ho Wa (1974), Penetration: An Aquarian Symphony (1974), I’m Gonna Take You Home (1974), To the Principles for the Children (1975), The Operetta (1975 unveröffentlicht → später veröffentlicht) usw.
 
 
-In dieser Zeit wurden auch Versuche unternommen, mehr „Strukturalität“ und „Musikalität“ zu integrieren, mit einem Stil, der eine Mischung aus verzerrten Gitarrenriffs, sich wiederholenden Phrasen und fragmentierter Poesie und Gesang beinhaltete.
+In dieser Zeit wurden auch Versuche unternommen, mehr „Strukturalität“ und „Musikalität“ zu integrieren, mit einem Stil, der verzerrte Gitarrenriffs, wiederholte Phrasen sowie fragmentierte Poesie und Gesang umfasste.
 
 
 Insbesondere „Penetration: An Aquarian Symphony“ gilt als das beliebteste und am meisten neu bewertete Werk in der Geschichte der Band und wurde viele Male neu aufgelegt.
@@ -143,7 +143,7 @@ Nach 1975 löste sich die Band aufgrund des Todes von Pater Yod auf. Laienmusike
 1977 wurden Golden Sunrise (unter dem Namen Fire Water Air) und Yodship Suite (Private Press) veröffentlicht. Es gibt auch eine Zusammenarbeit mit Sky Saxon (ehemals The Seeds) und Gesangsbeteiligung.
 
 
-Seit den 2000er Jahren kam es zu Neuauflagen und Archivnachdrucken, fragmentarischen Neuaufnahmen und Mitgliedertreffen (wie Sonic Portation von Djin, Sunflower, Octavius ​​etc.).
+Seit den 2000er Jahren kam es zu Neuauflagen und Archivnachdrucken, fragmentarischen Neuaufnahmen und Mitgliedertreffen (Sonic Portation von Djin, Sunflower, Octavius ​​etc.).
 
 
 ---
@@ -319,7 +319,7 @@ Verweise auf das Archetyp „Reise/Reinigung/Elemente (Feuer/Wasser/Luft/Erde)�
 Doktrinäre/rituelle Phrasen (Wörter, die durch redigierte Titelnamen wie „Mann, der Messias“ gekennzeichnet sind) – Wörter, die als Erklärung eines Führers improvisiert und geschichtet sind.
 
 
-Analyse: Anstatt die Texte einfach nur als „Lyrik = Bedeutungsübertragung“ zu lesen, ist es am nützlichsten, sie wie folgt zu lesen: „(1) Der Klang selbst ist ein Ritual / (2) Worte sind suggestive und poetische Auslöser, die vor Ort ein Gemeinschaftserlebnis erzeugen.“ Mit anderen Worten: Die partizipative religiöse Führung durch „Klang/Wiederholung“ ist der Kern des Albums.
+Analyse: Anstatt die Texte einfach nur als „Lyrik = Übertragung von Bedeutung“ zu lesen, ist es am nützlichsten, sie wie folgt zu lesen: „(1) Die Klänge selbst sind Rituale / (2) Worte sind suggestive und poetische Auslöser, die ein unmittelbares Gemeinschaftserlebnis erzeugen.“ Mit anderen Worten, die partizipative religiöse Führung durch „Klang/Wiederholung“ ist der Kern des Albums.
 
 ---
 
@@ -354,7 +354,7 @@ Archiv/Herausgeber/Aufzeichner von Source Family. Sein Buch „The Source: The U
 
 - **Sky Saxon (aus The Seeds)**
 
-Er ist dafür bekannt, eine Zeit lang Teil der Source Family zu sein und an den Aufnahme-/Neuveröffentlichungsprojekten von Ya Ho Wha beteiligt zu sein (einschließlich der Japan-Box von 1998).
+Er ist dafür bekannt, dass er eine Zeit lang Teil der Source Family war und an den Aufnahme-/Neuveröffentlichungsprojekten von Ya Ho Wha beteiligt war (einschließlich der Japan-Box von 1998).
 
 
 ---
@@ -458,7 +458,7 @@ Der Klang „Ya Ho Wha“ selbst ist ein heiliges Mantra der Quellfamilie, ein A
 
 **Bewertungstendenzen**: Es galt als „nah an der europäischen Avantgarde- und Improvisationsmusik“ und es wurde Wert auf musikalische Reinheit gelegt.
 
-→ Es wird oft eher als „akustisches Experiment“ denn als religiöses Thema angesehen.
+→ Es wird oft eher als „akustisches Experiment“ denn als religiöses Thema gesehen.
 
 
 ---
@@ -467,7 +467,7 @@ Der Klang „Ya Ho Wha“ selbst ist ein heiliges Mantra der Quellfamilie, ein A
 
 **Psych-Reissue-Boom der 90er-Jahre**: P.S.F. Records und Captain Trip Records haben Yahooha 13 aktiv eingeführt.
 
-In Magazinen wie „Eureka“ und „Eurorock Press“ wurde es als „Phantomkult-Psychedelikum“ beschrieben und japanische Hörer sammeln es eifrig.
+In Magazinen wie Eureka und Eurorock Press wurde es als „Phantom-Kult-Psychedelikum“ beschrieben und japanische Hörer sammeln es eifrig.
 
 **Bewertungstendenzen**: In Japan wird es als „ketzerisch“ und „esoterisch-psychedelisch“ geliebt und ist in importierten Plattenläden (Disc Union, Melon, Manhattan Records usw.) zu einem Sammlerstück geworden.
 
@@ -548,7 +548,7 @@ Die Musik von Yahowha 13 ist kein „Lied“, sondern eine „Aufzeichnung des G
 
 Die Texte hatten eher eine mantraartige Kraft als eine Bedeutung.
 
-Pater Yod ist kein Performer, sondern ein „spiritueller Dirigent“.
+Pater Yod ist kein Künstler, sondern ein „spiritueller Dirigent“.
 
 Auch nach seinem Tod lebt seine Musik als „spirituelles Erbe“ weiter.
 

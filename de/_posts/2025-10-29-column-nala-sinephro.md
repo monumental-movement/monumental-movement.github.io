@@ -48,7 +48,7 @@ color: #fff;
 Wenn man über das Wiederaufleben des Jazz in London spricht, kommt einem immer die geografische Energie Südlondons in den Sinn.
 Die Söhne von Kemet, Nubya Garcia, Shabaka Hutchings, Moses Boyd und andere haben ein neues Jazz-Vokabular etabliert, aber Nala Sinephro ist diejenige, die den Sound von der „stillen Seite“ her neu aufgebaut hat.
 
-Sie hat St. Lucianer und belgische Wurzeln und studierte gleichzeitig klassische und elektronische Akustik.
+Sie hat st. Lucianische und belgische Wurzeln und studierte gleichzeitig klassische und elektronische Akustik.
 Bei einer Session im Londoner Jazzclub „Total Refreshment Centre“
 Er hat eine einzigartige Klangsprache geschaffen, die sich frei zwischen Harfe und modularem Synthesizer bewegt.
 
@@ -114,7 +114,7 @@ Hier ist das Patchen selbst eine improvisatorische Performance, die den Körper 
 > - Ableton Live (zur Loop-Verarbeitung)
 
 Diese Konfiguration ist wirklich ein „Atemgerät für Mensch und Maschine“.
-Wellenformen umhüllen die Echos der Harfe, analoge Temperaturen neutralisieren die elektronische Transparenz.
+Wellenformen umhüllen die Echos der Harfe, die analoge Temperatur neutralisiert die elektronische Klarheit.
 Es ist auch ein Akt der Sublimierung von Musik in ein **Technologiegebet**.
 
 ---

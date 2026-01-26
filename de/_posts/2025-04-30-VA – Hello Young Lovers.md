@@ -32,5 +32,5 @@ Beteiligte Künstler: Kahimi Kali, Love Tambourines, Favorite Marine, Museum of 
 
 [メルカリで購入](https://jp.mercari.com/item/m68606715160?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/heq664HH0JA?si=r1ilcRD-HcGm6t4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

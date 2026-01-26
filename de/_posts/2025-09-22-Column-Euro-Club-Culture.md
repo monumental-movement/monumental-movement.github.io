@@ -75,7 +75,7 @@ Niederlande: Die Grenzen zwischen Speed ​​Garage und Hard Trance verschwimme
 
 **● Entwicklung von Dark Euro/Eurotrance**
 
-Im Gegensatz zum kommerziellen Aspekt sind auch Heavy-Euro-Trance und Industrial-Euro im Rave etabliert.
+Im Gegensatz zum kommerziellen Aspekt sind im Rave auch heftiger Euro-Trance und Industrial-Euro etabliert.
 
 Künstler wie Cosmic Gate und Scooter haben Grenzen durchbrochen.
 
@@ -109,7 +109,7 @@ Obwohl es sich um ein kommerzielles Paket handelt, hat die Songauswahl Club-Flai
 
 **● Brücke von Euro zu Trance**
 
-Eurotrance, eine Verbindung zwischen Eurodance und Trance, entstand Ende der 90er Jahre.
+Eurotrance, eine Verbindung zwischen Euro-Tanz und Trance, erschien Ende der 90er Jahre.
 
 ATB, Fragma, Darude und andere präsentieren einen Sound, der sich zwischen Pop und Club bewegt
 

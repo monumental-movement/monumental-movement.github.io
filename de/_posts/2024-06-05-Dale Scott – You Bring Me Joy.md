@@ -18,7 +18,7 @@ title: Dale Scott – Du bringst mir Freude
 
 „You Bring Me Joy“ ist ein Deep-House- und Garage-House-Track, der 1994 auf dem New Yorker Label JoJo Records veröffentlicht wurde.
 
-Der zweite Titel auf der B-Seite ist ein Remix von Kerri Chandler, einer amerikanischen DJane, Plattenproduzentin und House-Musik-Pionierin.
+Der zweite Song auf der B-Seite ist ein Remix von Kerri Chandler, einer amerikanischen DJane, Plattenproduzentin und House-Musik-Pionierin.
 
 #### Trackliste
 ```md

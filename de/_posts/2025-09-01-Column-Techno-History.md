@@ -11,7 +11,7 @@ tags:
 - Detroit Techno
 - Minimal
 title: '[Kolumne] Von den Ursprüngen des Techno bis zur Gegenwart – Eine chronologische
-  Geschichte, die anhand berühmter Platten und Geräte nachgezeichnet wird'
+  Geschichte anhand berühmter Platten und Geräte'
 ---
 
 
@@ -75,7 +75,7 @@ Die Geschichte des Techno entstand und entwickelte sich aus der Beziehung zwisch
 - Jeff Mills – „The Bells“ (1997)
 
 **Ausrüstung**
-- Akai S3000/S3200
+-Akai S3000/S3200
 - E-mu ESI/E4
 - Ensoniq ASR-10
 - Mackie 1604/8-Bus
@@ -135,7 +135,7 @@ Die Geschichte des Techno entstand und entwickelte sich aus der Beziehung zwisch
 
 **Soundtrends**
 - Kraftvolle Kicks und Riff-Wiederholungen
-- Hard Techno ~ Schranz-Comeback
+- Harter Techno ~ Schranz-Comeback
 - Rekontextualisierung von Trans-Motiven
 
 **Ausrüstung**
@@ -144,7 +144,7 @@ Die Geschichte des Techno entstand und entwickelte sich aus der Beziehung zwisch
 - ASM Hydrasynth
 - Polyend Tracker / Dirtywave M8
 - Akai MPC One/Live II
-- KI-Mastering, Stammtrennungstool
+- KI-Mastering, Stammtrennungswerkzeuge
 
 ---
 

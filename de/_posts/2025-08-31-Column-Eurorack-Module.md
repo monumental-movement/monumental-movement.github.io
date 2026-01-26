@@ -48,13 +48,13 @@ Eurorack ist kleiner und erschwinglicher als die traditionellen Modelle Moog und
 
 **Repräsentative Module**: Plonk, Metropolis, Tetrapad
 
-Merkmale: Wir produzieren viele hochwertige digitale Module und sind besonders stark bei Sequenzern und Performance-Schnittstellen.
+Features: Wir produzieren viele hochwertige digitale Module und sind besonders stark bei Sequenzern und Performance-Interfaces.
 
 #### Veränderliche Instrumente
 
 **Repräsentative Module**: Braids, Rings, Clouds
 
-**Funktionen**: Als Open Source entwickelt, bietet Module, die eine flexible Klangerstellung ermöglichen. Es verfügt über eine besonders hervorragende Klangvielfalt.
+**Funktionen**: Als Open Source entwickelt, bietet Module, die eine flexible Klangerstellung ermöglichen. Besonders hervorzuheben ist die Klangvielfalt.
 
 ---
 
@@ -149,7 +149,7 @@ Nachfolgend sind einige der namhaften Künstler und ihre Signaturmodule aufgefü
 
 ### Funktionen von Surgeon's Live Setup
 
-Das Live-Setup von Surgeon zeichnet sich durch das Streben nach maximalem Ausdruck mit minimaler Ausrüstung aus. Er improvisiert mit einer begrenzten Anzahl von Modulen und nicht mit einer komplexen Kombination von Geräten. Dadurch entsteht ein Gefühl der Einheit mit dem Publikum und Unvorhersehbarkeit, was den Live-Techno-Auftritten eine neue Dimension verleiht.
+Das Live-Setup von Surgeon zeichnet sich durch das Streben nach maximalem Ausdruck mit minimaler Ausrüstung aus. Er führt improvisatorisch mit einer begrenzten Anzahl von Modulen statt mit einer komplexen Kombination von Geräten aus. Dadurch entsteht ein Gefühl der Einheit mit dem Publikum und Unvorhersehbarkeit, was den Live-Techno-Auftritten eine neue Dimension verleiht.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YzbRHySXq9s?si=opHMYGQNVsB-7qI6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -157,7 +157,7 @@ Das Live-Setup von Surgeon zeichnet sich durch das Streben nach maximalem Ausdru
 <hr>
 
 
-### Von einer kleinen Box zu unendlichem Klang
+### Von einer kleinen Box zum unendlichen Klang
 
 Die modularen Synthesizer von Eurorack bieten Künstlern mit ihrer Flexibilität und Erweiterbarkeit neue kreative Freiheiten. Mit seiner Weiterentwicklung wird seine Rolle in der Musikszene noch wichtiger.
 

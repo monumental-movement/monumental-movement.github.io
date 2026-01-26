@@ -9,7 +9,7 @@ permalink: /de/ying-yang-twins-shake-feat-pitbull-shake-remix-feat-pitbull-and-e
 tags:
 - Hiphop
 - 00s
-title: Ying Yang Twins – Shake feat. Pitbull / Shake Remix feat. Pitbull und Elefantenmann
+title: Ying Yang Twins – Shake feat. Pitbull / Shake Remix feat. Pitbull und Elefantenmensch
 ---
 
 

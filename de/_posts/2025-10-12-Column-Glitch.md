@@ -68,7 +68,7 @@ Deshalb fühlt sich die instabile Schönheit, die durch JPEG-Beschädigung und S
 
 Glitch hat auch Mode und Werbung durchdrungen.
 Die Methode, die ungeordneten Pixel in das Design zu integrieren, eroberte Ende der 2010er Jahre als „kaputtes Design“ die Straßenkultur im Sturm.
-Endlich können wir uns darüber freuen, dass es nicht perfekt ist und dass sogar digitale Produkte „Rauschen“ enthalten.
+Endlich können wir uns über die Tatsache freuen, dass es nicht perfekt ist und dass sogar das Digitale „Rauschen“ hat.
 
 ---
 
@@ -79,7 +79,7 @@ Philosophisch gesehen ist es eine Sehnsucht nach dem Unkontrollierbaren.
 
 Heidegger nannte das Wesen der Technik die „Offenbarung des Seins“.
 Glitch ist genau der Moment, in dem die Technologie ihre eigenen „Grenzen“ offenbart – mit anderen Worten: die Welt bricht zusammen.
-Menschen finden Schönheit in der „anderen Ordnung“, die durch die Lücken hindurchschaut.
+Die Menschen finden Schönheit in der „anderen Ordnung“, die durch die Lücken hindurchschaut.
 
 Glitch ist auch eine Ästhetik der **Generativität**.
 Unerwartete Zufälle greifen in einen Algorithmus ein, der vollständig kontrolliert arbeitet.
@@ -103,7 +103,7 @@ Das Aufkommen von NFT-Kunst ist auch ein Lärm, der den Begriff „Eigentum“ i
 Obwohl Daten unbegrenzt kopierbar sein sollten, wird Knappheit dadurch als „einmaliges Element“ neu definiert.
 Widersprüche bestehen weiterhin als Widersprüche – darum geht es bei Glitch.
 
-Die Gesellschaft wird immer „optimierter“ werden.
+Die Gesellschaft wird zunehmend „optimiert“.
 Allerdings ist die optimierte Welt irgendwie erdrückend.
 Deshalb empfinden wir bei unbeabsichtigten Geräuschen und Geräuschen ein Gefühl der Freiheit.
 
@@ -128,7 +128,7 @@ Glitch hat die Grenzen der Kunst überschritten und ist zu unserem „Alltagssou
 
 ### Zukunft: Die Zukunft von Post-Glitch
 
-„Kaputt“ zu sein ist nichts Besonderes mehr.
+„kaputt“ zu sein ist nichts Besonderes mehr.
 Wir leben in einer Zeit, in der KI „simulierte Fehler“ erzeugt und Lärm erzeugt.
 Wie schaffen Menschen „Zufälle“ in einer perfekt kontrollierten Simulation?
 

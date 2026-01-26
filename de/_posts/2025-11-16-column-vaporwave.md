@@ -40,9 +40,9 @@ color: #fff;
 
 ## Kapitel 1: Etikettengeschichte und Gründungshintergrund
 
-### 1-1 Kontext der Anfänge der Vaporwave- und Internetkultur
+### 1-1 Kontext der frühen Tage der Vaporwave- und Internetkultur
 
-Die Gründung von Vaporwave ist eng mit der Blogging-Kultur der späten 2000er Jahre, der Bildersammelkultur von Tumblr und dem Beginn der Algorithmus-Ära von YouTube verbunden. Insbesondere die übermäßige Verlangsamung der Verarbeitung durch Eccojams (Oneohtrix Point Never) wurde zum Keim nachfolgender Genres und etablierte sich als „Methode zur Zerstörung der Echtzeit“.
+Die Gründung von Vaporwave ist eng mit der Blogging-Kultur der späten 2000er Jahre, der Bildersammelkultur von Tumblr und dem Beginn der Algorithmus-Ära von YouTube verbunden. Insbesondere die übermäßige Verlangsamungsverarbeitung von Eccojams (Oneohtrix Point Never) wurde zum Keim für nachfolgende Genres und etablierte sich als „Methode zur Zerstörung der Echtzeit“.
 
 ### 1-2 Hauptetiketten (Beer On The Rug / Constellation Tatsu / Dream Catalog / Orange Milk)
 
@@ -55,7 +55,7 @@ Die Gründung von Vaporwave ist eng mit der Blogging-Kultur der späten 2000er J
 
 ### 2-1 Ästhetische Veränderungen: Eccojams → klassische Vaporwave → kulturelle Divergenz
 
-Frühe Eccojams waren nicht nur Verlangsamungen, sondern Geräte, die neue Emotionen erzeugten, indem sie die Symbole der Popmusik „verzerrten, festhielten und wiederholten“. In Classic Vaporwave werden Verweise auf Unternehmensmusik, CM-Soundquellen und Werbung aus den 90er-Jahren immer häufiger verwendet, und Symbole wie Einkaufszentren, CRTs und Windows 95 werden als „Zukunftsbilder der Vergangenheit“ präsentiert.
+Frühe Eccojams waren nicht nur Verlangsamungen, sondern Geräte, die neue Emotionen erzeugten, indem sie die Symbole der Popmusik „verzerrten, festhielten und wiederholten“. In Classic Vaporwave werden Verweise auf Unternehmensmusik, CM-Soundquellen und Werbung aus den 90er-Jahren immer häufiger verwendet und Symbole wie Einkaufszentren, CRTs und Windows 95 als „Zukunftsbilder der Vergangenheit“ präsentiert.
 
 ### 2-2 Richtung der Ästhetik
 
@@ -84,7 +84,7 @@ Dampfwellenschall basiert auf den Prinzipien „Dämpfung, Verlängerung, Versch
 
 ### 3-3 Frequenzbandeigenschaften
 
-* Niedrig: Bewölkung, weiche Einkaufszentrenumgebung
+* Niedrig: bewölkter Beginn, weiche Mall-Umgebung
 * Mittelton: Künstliche Helligkeit der Werbestimmbänder
 * Hohe Frequenz: VHS-Rauschen, CRT-Scanzeile
 
@@ -176,7 +176,7 @@ graph TD
 
 Was ist Vaporwave und seine Kerndefinition**
 
-### **5-1　Jenseits des „Genres“**
+### **5-1 Auf dem Weg zu einer Existenz, die über das „Genre“ hinausgeht**
 
 Vaporwave wurde zunächst als „kleines Genre, das seinen Ursprung im Internet hat“ behandelt, aber
 Nach mehr als zehnjähriger Verbreitung hat es sich zu einem genreübergreifenden Kulturmittel entwickelt, wie unten gezeigt.

@@ -17,7 +17,7 @@ title: Armand Van Helden mit Duane Harden – You Don't Know Me
 
 „You Don't Know Me“ von Armand Van Helden und Duane Harden ist eine meistverkaufte Dance-Single und ein Club-Hit-House-Track, der im Januar 1999 die britischen Single-Charts anführte.
 
-„You Don’t Know Me“ sampelt die Streicher aus „Dance With You“ von Carrie Lucas und das Schlagzeug/Beat aus Jaydees „Plastic Dreams“.
+„You Don't Know Me“ sampelt die Streicher aus „Dance With You“ von Carrie Lucas und das Schlagzeug/Beat aus Jaydees „Plastic Dreams“.
 
 Auf der B-Seite „Rock Da Spot“ ist Mr. Len von Company Flow zu hören.
 

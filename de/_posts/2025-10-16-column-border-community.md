@@ -62,7 +62,7 @@ Dieser Fluss kristallisierte sich später in der Form der Grenzgemeinschaft hera
 Im Jahr 2003 gründete Holden sein eigenes Label Border Community.
 Im Gegensatz zur kommerziellen Clubmusik plädierte es für einen DIY-Geist, bei dem Künstler ihre eigenen Werke präsentieren, entwerfen und darüber sprechen.
 
-Nathan Fakes erste Veröffentlichung „The Sky Was Pink“ markierte einen Wendepunkt in der Geschichte der Clubmusik.
+Nathan Fakes erste Veröffentlichung, „The Sky Was Pink“, markierte einen Wendepunkt in der Geschichte der Clubmusik.
 Die emotionalen und introspektiven Tracks beeinflussten nachfolgende Post-Club-Generationen wie Four Tet und Caribou.
 
 Auch das Artwork und das Release-Design waren einzigartig. Illustrationen mit weichen Pinselstrichen, minimalistisches Design auf Weißbasis.

@@ -24,7 +24,7 @@ Text: mmr｜Thema: Musikkultur ist kein festes Erbe, sondern wurde vererbt, wäh
 
 Das Amazonasbecken ist eine der kulturell vielfältigsten Regionen der Welt. Hunderte indigene Gruppen haben zusammengelebt, jede mit ihren eigenen Sprachen, Mythen und sozialen Strukturen. In diesem Zusammenhang hat sich Musik nicht als eigenständige Form der Unterhaltung oder Kunst entwickelt, sondern als ein Akt, der untrennbar mit dem Leben selbst verbunden ist.
 
-Es werden Lieder gesungen, um für Erfolg bei der Jagd und in der Landwirtschaft zu beten, und Tänze markieren saisonale Zyklen und Meilensteine ​​des Wachstums. Musik ist nicht etwas, das man hört, sondern etwas, das man tut, und sie ist auch ein Akt, der die Zugehörigkeit zu einer Gemeinschaft bestätigt. Im Amazonaswald herrscht nahezu keine Stille. Vögel, Insekten, Wind und Wasser erzeugen alle Geräusche, und auch menschliche Musik ist in diesem Kontinuum platziert.
+Es werden Lieder gesungen, um für Erfolg bei der Jagd und in der Landwirtschaft zu beten, und Tänze markieren saisonale Zyklen und Meilensteine ​​des Wachstums. Musik ist nicht etwas, das man hört, sondern etwas, das man tut, und sie ist auch ein Akt, der die Zugehörigkeit zu einer Gemeinschaft bestätigt. Im Amazonaswald herrscht nahezu keine Stille. Vögel, Insekten, Wind und Wasser erzeugen Geräusche, und auch menschliche Musik ist in diesem Kontinuum platziert.
 
 > Die indigene Musik des Amazonas existiert als ein Akt, der die Grenzen zwischen Natur und Mensch auflöst.
 
@@ -78,7 +78,7 @@ Die verwendeten Instrumente werden aus Materialien hergestellt, die aus der Umge
 
 Die Flöte ist eines der wichtigsten Musikinstrumente und soll oft die Stimmen mythischer Wesen oder Vorfahren wiedergeben. Taiko-Trommeln dienen als Grundlage für Tänze und Märsche und dienen der Vereinheitlichung der Bewegung der Gemeinschaft. Shaker werden mit Regen und Fruchtbarkeit in Verbindung gebracht und sind ein wesentlicher Bestandteil von Ritualen.
 
-Bei einigen Instrumenten ist es möglicherweise nicht einmal möglich, sie zu sehen; Nur der Ton ist erlaubt. Musik hat eine Bedeutung in einem Bereich, der über visuelle Informationen hinausgeht.
+Bei einigen Instrumenten ist es möglicherweise nicht einmal möglich, sie zu sehen. Nur der Ton ist erlaubt. Musik hat eine Bedeutung in einem Bereich, der über visuelle Informationen hinausgeht.
 
 >Der Klang von Musikinstrumenten selbst wurde als Manifestation spiritueller Wesen angesehen.
 
@@ -89,7 +89,7 @@ Bei einigen Instrumenten ist es möglicherweise nicht einmal möglich, sie zu se
 
 Übergangs- und Heilungsriten verwenden lange, sich wiederholende Lieder und Rhythmen. Diese verändern den Bewusstseinszustand der Teilnehmer und verlagern sie von der Alltagswelt in die rituelle Zeit.
 
-Schamanen kommunizieren durch Lieder mit Geistern und suchen nach den Ursachen von Krankheiten und Beschwerden. Liedtexte sind oft symbolisch und haben keine direkte Bedeutung. Wichtig ist nicht der Inhalt der Worte, sondern die Schwingung und Wiederholung des Klangs selbst.
+Schamanen kommunizieren durch Lieder mit Geistern und suchen nach den Ursachen von Krankheiten und Störungen. Liedtexte sind oft symbolisch und haben keine direkte Bedeutung. Wichtig ist nicht der Inhalt der Worte, sondern die Schwingung und Wiederholung des Klangs selbst.
 
 Musik ist eine Therapie, ein Medium und eine Technik zur Grenzüberschreitung.
 

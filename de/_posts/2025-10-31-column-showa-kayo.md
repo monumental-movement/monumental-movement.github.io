@@ -25,7 +25,7 @@ Text: mmr｜Thema: Showa-Songs und Pop werden mit der Internetkultur des 21. Jah
 In den 2020er Jahren verbreiten sich Schlagworte wie „Showa Retro“, „Showa Kayo“ und „Japanese 80s Pop“ explosionsartig auf SNS- und Streaming-Diensten auf der ganzen Welt.
 Es war ein symbolisches Ereignis, dass Miki Matsubaras „Midnight Door~Stay With Me“ und Tatsuro Yamashitas „Ride on Time“ plötzlich in den weltweiten Spotify-Charts auftauchten.
 
-Dieses „Showa-Pop-Revival“ ist jedoch nicht nur ein nostalgisches Hobby. Es handelt sich vielmehr um eine **Wiederentdeckung analoger Empfindungen im digitalen Zeitalter** und ein neues kulturelles Phänomen des **globalen „emotionalen Teilens“**.
+Dieses „Showa-Pop-Revival“ ist jedoch nicht nur ein nostalgisches Hobby. Vielmehr handelt es sich um eine **Wiederentdeckung analoger Empfindungen im digitalen Zeitalter** und ein neues kulturelles Phänomen des **globalen „emotionalen Teilens“**.
 
 In diesem Artikel werden wir untersuchen, welche Resonanz Showa-Songs im Ausland finden und wie sie aufgenommen und rekonstruiert werden.
 Wir werden es aus verschiedenen Blickwinkeln untersuchen, darunter 1) den historischen Hintergrund, 2) das Medienumfeld, 3) die Rezeptionsstruktur im Ausland und 4) die Perspektive der musikalischen Übersetzung.
@@ -76,7 +76,7 @@ Im Ausland wurde es als „retrofuturistischer Pop“ und „ästhetische Nostal
 ## Kapitel 3: Vaporwave und die Illusion der Showa-Ära
 
 Vaporwave ist eine Kunstbewegung, die Anfang der 2010er Jahre aus der amerikanischen Internet-Bulletin-Board-Kultur hervorgegangen ist.
-Alte japanische Werbung, digitale Grafiken aus den 1980er Jahren und die verzerrten Tonbilder von Kassetten wurden als „Nachhall“ der Konsumgesellschaft rekonstruiert.
+Alte japanische Werbung, digitale Grafiken aus den 1980er Jahren und verzerrte Tonbilder von Kassetten wurden als „Nachhall“ der Konsumgesellschaft rekonstruiert.
 
 Es ist kein Zufall, dass die Melodien und Klänge der Showa-Lieder hier auf natürliche Weise verschmolzen sind.
 **Leichter Hall, urbane Sanftheit und übermäßige Romantik. **
@@ -92,7 +92,7 @@ Warum weinen Zuhörer, die kein Japanisch verstehen, wenn sie Showa-Songs hören
 Viele Zuhörer im Ausland sagen: „Diese Musik fühlt sich an wie ein Traum.“
 Das liegt daran, dass ich eher mit der **akustischen Textur** und der **emotionalen Atmosphäre** sympathisiere als mit der sprachlichen Bedeutung.
 
-Der Gesang in Showa-Songs scheint oft zu sprechen, und die Melodielinien haben eine menschenähnliche Intonation.
+Der Gesang in Showa-Liedern scheint oft zu sprechen, und die Melodielinien haben eine menschenähnliche Intonation.
 Dieser „Stimmausdruck“ erzeugt eine emotionale Feinheit, die in englischen Texten nicht zu finden ist.
 
 Darüber hinaus klingt die für analoge Aufnahmen einzigartige „Temperatur“ für die Ohren der digitalen Generation frisch.
@@ -102,7 +102,7 @@ Mit anderen Worten: Showa-Songs exportieren „Emotionen als Textur“.
 
 ## Kapitel 5: Die Schnittstelle zwischen digitalen Archiven und japanischer Kulturpolitik
 
-Interessant ist, dass dieser Boom durch Privathörer verbreitet wurde.
+Interessant ist, dass dieser Boom durch private Zuhörer verbreitet wurde.
 Es war nicht so, dass die japanische Regierung oder die Musikindustrie es absichtlich exportiert hätten; Vielmehr lag die Fanaktivität auf YouTube und Spotify an der Spitze.
 
 In den 2020er Jahren nahmen die „Showa Retro“-Inhalte auf Festivals und Ausstellungen in Übersee jedoch rapide zu.
@@ -138,7 +138,7 @@ Mit anderen Worten: Showa-Songs haben in Japan durch eine „externe Perspektive
 
 ## Kapitel 8: Die Zukunft der Nostalgie – Virtuelle Showa und KI-Rekonstruktion
 
-In den späten 2020er Jahren entstehen aufgrund der Fortschritte bei KI-Stimmen und generierter Musik nach und nach „imaginäre Showa-Songs“.
+In den späten 2020er Jahren werden aufgrund der Fortschritte bei KI-Stimmen und generierter Musik nach und nach „imaginäre Showa-Songs“ erstellt.
 „Originalsong im Showa-Stil“ von Lo-Fi AI-Sänger, Video eines virtuellen Sängers, der eine Melodie im Showa-Stil singt …
 Es handelt sich um ein kulturelles Experiment, das man als „Rekonstruktion der Erinnerung“ bezeichnen kann.
 

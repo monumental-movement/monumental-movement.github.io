@@ -18,11 +18,11 @@ title: '[Kolumne] DJ Harvey und Plattensammlung: DJ als Körper, der „Sound“
 ## Prolog: Der Mythos von DJ Harvey
 
 
-Text: mmr｜Thema: Nicht nur ein DJ, sondern eine Betrachtung des letzten „Schamane“ des analogen Zeitalters
+Text: mmr｜Thema: Nicht nur ein DJ, sondern eine Betrachtung des letzten „Schamane“ der analogen Ära
 
 
 DJ Harvey – Wenn man nur diesen Namen hört, werden die Gesichter vieler Clubfreaks schlaff.
-Als Mitbegründer des legendären Londoner Clubs „Tonka Sound System“ erlangte er in den 90er Jahren als Resident bei „Ministry of Sound“ Berühmtheit, zog in den 2000er Jahren nach „Ibiza“ und lebt heute in „Los Angeles“.
+Als Mitbegründer des legendären Londoner Clubs „Tonka Sound System“ erlangte er in den 90er Jahren als Resident des „Ministry of Sound“ Berühmtheit, zog in den 2000er Jahren nach „Ibiza“ und lebt heute in „Los Angeles“.
 
 Harvey sagt. „Aufzeichnungen sind Fragmente meiner Seele. Wenn die Nadel fällt, wohnt Gott dort.“
 Diese Worte sagen uns alles über seine Sicht auf das DJing. Auch im 21. Jahrhundert, wo die Digitalisierung voranschreitet, glaubt er immer noch an „Musik als Substanz“. Dieser Glaube macht DJ Harvey zu einer Legende.
@@ -64,7 +64,7 @@ Für ihn ist eine Aufzeichnung „der Akt, das Leben eines anderen aufzuzeichnen
 Über Märkte und Flohmärkte schlendern und verstaubte Schallplatten ausgraben. Dort sind nicht nur Geräusche, sondern auch **Spuren der Zeit** eingraviert.
 
 Harvey sagt: „Je mehr menschliche Fingerabdrücke auf einer Schallplatte sind, desto lebendiger ist der Klang.“
-Sein Set umfasst eine Mischung aus unbekanntem Italo-Disco, 70er-Jahre-Rock, 80er-Synth-Boogie und sogar hawaiianischem AOR.
+Sein Set umfasst eine Mischung aus unbekanntem Italo-Disco, Rock der 70er Jahre, Synth-Boogie der 80er Jahre und hawaiianischem AOR.
 Die Auswahl der Lieder erfolgt nicht zufällig, sondern basiert auf der Intuition, den „Luftstrom des Klangs“ zu lesen.
 
 Seine DJ-Tasche ist wie ein Reisetagebuch. Jede Aufzeichnung enthält Erinnerungen an eine Nacht.

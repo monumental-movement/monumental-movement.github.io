@@ -38,7 +38,7 @@ In der Clubszene der 1980er Jahre gab es als Reaktion auf die Begeisterung für 
 
 Acid Jazz bezieht sich eher auf ein „hybrides Gefühl“ als auf ein einzelnes Genre. Zu den charakteristischen Elementen gehören:
 
-- **Groove-Betonung**: Übernahme des rhythmischen Gefühls von 70er-Jahre-Funk und seltenen Grooves
+- **Groove-Betonung**: Übernahme des rhythmischen Gefühls des 70er-Jahre-Funks und seltener Grooves
 
 - **Improvisation**: Einführung von Soli und Wechselspielen aus dem Jazz
 
@@ -61,7 +61,7 @@ In den 1980er Jahren befand sich Großbritannien unter der Thatcher-Regierung in
 
 - **Postindustrielle Gesellschaft**: Der Niedergang des verarbeitenden Gewerbes und der Verfall der Städte verliehen der Jugendkultur „dekonstruktive“ Werte, und die Clubkultur wurde zu ihrem Zufluchtsort.
 
-- **Medieneinfluss**: BBC Radio und Pirate Radio führten Acid Jazz ein und führten zu seiner Ausbreitung vom Untergrund zum Mainstream.
+- **Medieneinfluss**: BBC Radio und Pirate Radio führten Acid Jazz ein und führten zu seiner Ausbreitung vom Underground zum Mainstream.
 
 
 <hr>
@@ -184,7 +184,7 @@ Acid Jazz ist „intellektuelle und tanzbare Musik“, die aus der urbanen Kultu
 
 Die Musik entstand aus der Verschmelzung der Londoner Einwandererkultur, der Clubkultur und der Unzufriedenheit der postindustriellen Gesellschaft.
 
-In Europa entwickelte sich daraus nach der Wiedervereinigung Tourismus und Stadtkultur, in den USA wurde es mit Hip-Hop kombiniert und in Japan entwickelte sich daraus Shibuya-kei und Club-Jazz.
+In Europa entwickelte es sich zum Tourismus und zur städtischen Kultur nach der Wiedervereinigung, in den Vereinigten Staaten wurde es mit Hip-Hop kombiniert und in Japan entwickelte es sich zu Shibuya-kei und Club-Jazz.
 
 Das Ende des Kalten Krieges und die Globalisierung förderten seine Verbreitung und es diente als geopolitisches Symbol für Freiheit und Austausch.
 

@@ -57,7 +57,7 @@ Aufgenommen in den Virgin Studios in London. Damals sagten sie: „Es war das er
 Die Akustik ist rau und der Mikrofonabstand und die Balance sind instabil. Dennoch wurden die heulende Gitarre und die Verzerrung des Gesangs als „aus Unwissenheit geborene Kreativität“ aufgenommen. Es gibt keinen Produzenten und das Klangbild basiert auf dem DIY-Geist.
 
 „Wir waren weder politisch noch romantisch, wir waren nur verwirrt“, sagt Jon Langford.
-Zu dieser Zeit waren sich die Mekons bewusst, dass sie eher „handeln“ als eine Rebellion auszuleben. Deshalb spiegelte ihr Sound den „Zweifel“ wider, den andere Punkbands losgelassen hatten.
+Zu dieser Zeit waren sich die Mekons bewusst, dass sie „handeln“ wollten, anstatt eine Rebellion auszuleben. Deshalb spiegelte ihr Sound den „Zweifel“ wider, den andere Punkbands losgelassen hatten.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zU9zbbBMxTI?si=lm70X_cOq77g-pIy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -67,11 +67,11 @@ Zu dieser Zeit waren sich die Mekons bewusst, dass sie eher „handeln“ als ei
 > **„Was nach der Wut blieb, war ein beobachtender Blick.“**
 
 In den frühen 1980er Jahren, als Punk immer beliebter wurde, änderten die Mekons nach und nach ihre Form.
-Sie verlassen London und verwandeln sich in eine gesellschaftskritische Gruppe, die Politik und Kultur miteinander verbindet. Im Kontext der Theatre of Hate- und Red Wedge-Bewegungen entschied sich Mekons für „Gemeinschaft statt Musik“.
+Sie verlassen London und verwandeln sich in eine gesellschaftskritische Gruppe, die Politik und Kultur miteinander verbindet. Im Kontext der Bewegungen „Theater of Hate“ und „Red Wedge“ entschied sich Mekons für „Gemeinschaft statt Musik“.
 Die Mitgliederzahl ist nicht festgelegt, Freunde aus der Studienzeit kommen und gehen und nehmen manchmal mit bis zu 10 Leuten auf. Sein Charakter als Kunstkollektiv wird immer stärker.
 
 1989年の代表作[『The Mekons Rock ’n’ Roll』](https://amzn.to/4nIWLMc)は、その総括だった。  
-Eine einzigartige räumliche Komposition mit doppeltem Tracking der Gitarre, übermäßigem Hall und unterdrückten tiefen Frequenzen des Basses. Dabei handelte es sich um Spielereien, die die „formale Schönheit des Rock“ absichtlich verfälschen sollten.
+Eine einzigartige räumliche Komposition mit doppeltem Tracking der Gitarre, übermäßigem Hall und unterdrückten Bassfrequenzen. Dabei handelte es sich um Spielereien, die die „formale Schönheit des Rock“ absichtlich verfälschen sollten.
 Mit diesem Album präsentierten sie das Paradoxon: „Ist Rock nicht das System selbst?“
 
 > „Wir wissen, dass Rock’n’Roll gefährlich ist. Er kann Länder zerstören.“
@@ -105,12 +105,12 @@ Während dieser Zeit existierten die Mekons als „treibende Künstlergemeinscha
 Es hieß: „Die Musik von Mekons klingt, als ob sie nirgendwo hingehöre.“
 Wie Einwanderer bewegten sie sich zwischen musikalischen Kontexten und schufen dort vorübergehende Häuser.
 アルバム[『Journey to the End of the Night』（2000）](https://amzn.to/4q3A5HR)はその象徴であり、ブラスやヴァイオリンを加えた音響構成が“異郷性”を強調する。  
-Obwohl er für diese Arbeit Pro Tools verwendete, verwendete er zum Mischen absichtlich eine analoge Konsole, was zu einem „menschlichen Ungleichgewicht“ führte.
+Obwohl er für diese Arbeit Pro Tools verwendete, nutzte er zum Mischen bewusst eine analoge Konsole, wodurch ein „menschliches Ungleichgewicht“ entstand.
 
 ---
 
 ### Kapitel 5: Feminismus und Solidarität, Perspektiven weiblicher Mitglieder
-> **„Je mehr Stimmen lauter werden, desto gespaltener wird die Wahrheit.“**
+> **„Während sich die Stimmen vermehren, spaltet sich die Wahrheit.“**
 
 Sally Timms verdient in der Geschichte von Mekons besondere Erwähnung.
 Als sie der Gruppe 1985 offiziell beitrat, fungierte sie nicht nur als Sängerin, sondern auch als „Geschichtenerzählerin“.
@@ -131,19 +131,19 @@ Bei Live-Auftritten gibt es viele Szenen, in denen Sally laut vorliest und Langf
 2013年のドキュメンタリー映画[『Revenge of the Mekons』](https://amzn.to/3KJVhCA)は、その活動の核心を映し出した。  
 Regisseur Joe Angio beschreibt sie als „lebende Kunstwerke“.
 Diese Arbeit zeigt, wie Mekons verschiedene Ausdrucksformen durchlaufen haben, darunter nicht nur Musik, sondern auch Malerei, Fotografie, Poesie und politischen Aktivismus.
-Jon Langford war selbst als Maler tätig und zeichnete ein „antiromantisches Bild Amerikas“, indem er die Landschaften des Mittleren Westens der USA symbolisch darstellte.
+Jon Langford war selbst als Maler tätig und vermittelte ein „antiromantisches Bild Amerikas“, indem er die Landschaften des Mittleren Westens der USA symbolisch darstellte.
 
-Während die analoge Aufnahme beibehalten wird, erzeugt ihr Klang absichtlich eine „Rauigkeit“.
+Während die analoge Aufnahme beibehalten wird, erzeugt ihr Klang absichtlich eine „Rauheit“.
 Langford sagte: „Lärm liegt uns im Blut“, und bei der Aufnahme zog er es vor, das Noise Gate zu entfernen und die Umgebungsgeräusche beizubehalten.
-Dieser „vernarbte Klang“ war der Realismus, an den Mekons glaubte.
+Dieses „vernarbte Geräusch“ war der Realismus, an den Mekons glaubte.
 
 ---
 
-### Kapitel 7: Jenseits von Dekonstruktion und Reorganisation
+### Kapitel 7: Jenseits von Dekonstruktion und Wiedervereinigung
 > **„Selbst wenn wir uns auflösen, wird es nicht enden. Denn es wird nicht enden, es ist Mekons.“**
 
 Die Mekons lösten sich mehrmals auf und formierten sich neu.
-Allerdings handelt es sich dabei nicht um das Ende, sondern eher um einen Zyklus wie die Jahreszeiten.
+Allerdings ist es nicht das Ende, sondern eher ein Zyklus wie die Jahreszeiten.
 2019年の[『Deserted』](https://amzn.to/4nHdkYD)は、メンバーが砂漠に集まり数日で録音したセッション盤。  
 Man spürt die „stille Wut“ dieser Menschen, die ihre besten Jahre erreicht haben.
 Akustische Gitarre, elektronisches Dröhnen und entfernte Windgeräusche. Es klingt wie ein „Testament der Menschlichkeit“.

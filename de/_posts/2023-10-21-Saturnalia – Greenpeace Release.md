@@ -13,7 +13,7 @@ title: Saturnalien – Greenpeace-Veröffentlichung
 ---
 
 
-Saturnaliaは、UKプロデューサーJim SullivanとSteve McGarrigleのプロジェクト。このリリースによる利益は全てGreenpeace（グリーンピース）に寄付された。
+Saturnalia ist das Projekt der britischen Produzenten Jim Sullivan und Steve McGarrigle. Der gesamte Gewinn aus dieser Veröffentlichung wurde an Greenpeace gespendet.
 
 Das Klavier und der Gesang auf der A-Seite sind ein Sample aus „Blue Sky Day“ von Mo Lester, und der Gesang ist ein Sample aus „In Zaire“ von African Business.
 Die Zeile auf der B-Seite stammt aus dem Film Star Trek IV: The Long Walk Home.

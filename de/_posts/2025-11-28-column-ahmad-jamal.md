@@ -73,7 +73,7 @@ In den 1960er Jahren begann Jamal seine internationalen Aktivitäten. Er tourte 
 Ahmad Jamals Spiel hat eine einzigartige Präsenz im modernen Jazz. Sein charakteristisches Merkmal ist, dass er den Schwerpunkt auf den Raum legt und sich nicht nur auf Technik oder schnelles Spiel verlässt. Durch die Nutzung der Leerstellen stechen die Resonanz jeder Note und die Veränderungen im Rhythmus hervor und hinterlassen beim Publikum einen tiefen Eindruck.
 
 ### 1. Nutzung des Rhythmusraums
-Jamal schafft Raum zwischen den Phrasen und baut Rhythmus und Melodie aufeinander auf. Diese Methode wurde später von Miles Davis als „einer der Pianisten, die mich am meisten beeinflusst haben“ bezeichnet und sie beeinflusste auch die Entwicklung des Modal Jazz.
+Jamal schafft Raum zwischen den Phrasen und baut Rhythmus und Melodie als Reaktion aufeinander auf. Diese Methode wurde später von Miles Davis als „einer der Pianisten, die mich am meisten beeinflusst haben“ bezeichnet und sie beeinflusste auch die Entwicklung des Modal Jazz.
 
 ### 2. Minimaler Ansatz
 Die Aufführung konzentriert sich auf einfache Phrasen ohne Verzierungen und stellt dem Zuhörer das Thema klar dar. Die Wiederholungen und rhythmischen Veränderungen verleihen der Aufführung ein Gefühl dynamischer Spannung.
@@ -151,14 +151,14 @@ Die Musik von Ahmad Jamal nimmt einen einzigartigen Platz in der Jazzgeschichte 
 
 ### 1. Einfluss auf Miles Davis
 Miles Davis bezeichnete Jamal im Laufe seines Lebens wiederholt als seinen „einflussreichsten Pianisten“.
-Dabei sind insbesondere folgende Punkte wichtig:
+Insbesondere sind folgende Punkte wichtig:
 
 - **Das Konzept des „Raums“**
 Jamals Spiel mit Leerstellen hatte einen starken Einfluss auf Miles‘ Modeära ab den späten 1950er Jahren.
 - **Minimalistische Themenpräsentation**
 Jamals Sinn für Struktur spiegelt sich auch in Miles' Arrangements aus seiner Quintettzeit wider.
 - **Trio-Dynamik**
-Der interaktive Ansatz zwischen Bass und Schlagzeug trug auch zur Entstehung von Miles‘ Bandzusammenspiel bei.
+Der interaktive Ansatz zwischen Bass und Schlagzeug trug auch zur Entstehung von Miles' Band-Zusammenspiel bei.
 
 Jamals Einfluss ist so bedeutend, dass man sagen kann, dass er ihn nicht nur „mochte“, sondern tatsächlich die Struktur von Miles‘ Musik veränderte.
 
@@ -186,13 +186,13 @@ Insbesondere die Tatsache, dass er in den 1950er Jahren konvertierte und den Nam
 ### 4. „Die Kunst des Weltraums“ erben
 Jamals charakteristischer Stil, die Ästhetik der Ruhe, wurde an die folgenden Generationen weitergegeben:
 
--Herbie Hancock
+- Herbie Hancock
 - McCoy Tyner
 - Keith Jarrett
 - Brad Mehldau
 -Vijay Iyer et al.
 
-Vor allem im zeitgenössischen Jazz haben sich **Aufführungen, die minimalistische Strukturen und Leerräume nutzen** durchgesetzt, und Jamal wird zugeschrieben, dass er dafür den Grundstein gelegt hat.
+Vor allem im zeitgenössischen Jazz haben sich **Aufführungen, die sich minimalistischer Strukturen und Leerräume bedienen** weithin durchgesetzt, und Jamal wird zugeschrieben, dass er dafür den Grundstein gelegt hat.
 
 ### 5. Späte Bewertung und Aktivitäten in späteren Jahren
 Seit den 2000er Jahren hat Jamal Aktivitäten mit folgenden Merkmalen entwickelt:

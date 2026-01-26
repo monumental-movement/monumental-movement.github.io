@@ -15,7 +15,7 @@ title: Die Gabby Pahinui Hawaiian Band – Gabby Band Band 2
 ---
 
 
-„Gabby Band Volume 2“ ist das vierte Album, das 1977 von Gabby Pahinui veröffentlicht wurde, einer Slack-Key-Gitarristin und Sängerin, die die hawaiianische Musik vertritt und eine zentrale Figur in der hawaiianischen Renaissance der 1970er Jahre ist. Die Band ist seit 1972 als Gabby Band bekannt.
+„Gabby Band Volume 2“ ist das vierte Album, das 1977 von der Slack-Key-Gitarristin und Sängerin Gabby Pahinui veröffentlicht wurde, einer führenden Figur der hawaiianischen Renaissance der 1970er Jahre und Vertreterin der hawaiianischen Musik. Die Band ist seit 1972 als Gabby Band bekannt.
 
 Gabby Pahinui wurde 2002 in die Hawaiian Music Hall of Fame aufgenommen.
 

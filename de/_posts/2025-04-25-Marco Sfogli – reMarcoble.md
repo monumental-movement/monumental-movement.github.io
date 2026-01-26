@@ -36,5 +36,5 @@ Dieses 2012 von JTC Records veröffentlichte Album ist Marco Sfoglis zweites Sol
 
 [メルカリで購入](https://jp.mercari.com/item/m30341234612?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HII6DsljXg4?si=_oGyKVfpH-HZFgnQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

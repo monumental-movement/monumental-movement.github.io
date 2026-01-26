@@ -14,7 +14,7 @@ title: Depeche Mode – People R People
 ---
 
 
-House-Remix von Depeche Modes „People Are People“ von B&B, auch bekannt als Bastone & Burnz (Freddie Baston & Jeffrey Bernstein). Veröffentlicht im Jahr 1999.
+House remix of Depeche Mode's "People Are People" by B&B, aka Bastone & Burnz (Freddie Baston & Jeffrey Bernstein). Veröffentlicht im Jahr 1999.
 
 #### Trackliste
 ```md

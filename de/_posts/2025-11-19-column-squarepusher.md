@@ -286,7 +286,7 @@ graph TD
 ## 7. Bewertung/Auswirkung
 
 * IDM, Drum-and-Bass-Pionier
-* Warp Records-Säule der goldenen Ära
+* Säule der Goldenen Ära von Warp Records
 * Technische Präzision + improvisatorische Fusion + Innovationsbewertung
 
 ---
@@ -331,6 +331,6 @@ graph LR
 
 Squarepusher ist ein innovativer Künstler, der elektronische Musik, Jazz und Breakbeats verbindet.
 Live-Improvisationen, komplexe akustische Strukturen und Album-zu-Album-Experimente sind Indikatoren für Innovation in der zeitgenössischen elektronischen Musik.
-Die rhythmische Struktur, die Wellenformen und die fraktalen Illustrationen jedes Songs werden Ihnen dabei helfen, Ihr Verständnis von Musik weiter zu vertiefen.
+Die rhythmische Struktur, die Wellenformen und die fraktalen Illustrationen jedes Songs werden Ihnen helfen, Ihr Verständnis von Musik weiter zu vertiefen.
 
 ---

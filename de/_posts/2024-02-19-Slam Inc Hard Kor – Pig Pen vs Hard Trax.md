@@ -14,7 +14,7 @@ title: Slam Inc Hard Kor – Pig Pen gegen Hard Trax
 ---
 
 
-Slam Inc Hard Kors EP „Pig Pen vs Hard“ ist ein Hard-House-Track, der im Jahr 2000 auf Bangin Out Tunes, einem Sublabel von Alphamagic, einem von TraxCalvin Sheppard und William Kimber gegründeten britischen Hard-House/NRG-Label, veröffentlicht wurde.
+Slam Inc Hard Kors EP „Pig Pen vs Hard“ ist ein Hard-House-Track, der im Jahr 2000 auf Bangin Out Tunes veröffentlicht wurde, einem Sublabel von Alphamagic, einem britischen Hard-House/NRG-Label, das von TraxCalvin Sheppard und William Kimber gegründet wurde.
 
 #### Trackliste
 ```md

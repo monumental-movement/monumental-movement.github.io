@@ -40,7 +40,7 @@ color: #fff;
 
 ---
 
-## 1. Prolog: Wo Wissenschaft und Musik aufeinander treffen
+## 1. Prolog: Wo Wissenschaft und Musik aufeinandertreffen
 
 Der **Ig-Nobelpreis** ist als „exzentrischer kleiner Bruder“ des Nobelpreises bekannt.
 Seit seiner Gründung im Jahr 1991 durch die amerikanische satirische Wissenschaftszeitschrift *Annals of Improbable Research*
@@ -60,7 +60,7 @@ Es gibt eine Schnittstelle zwischen Kunst, die es uns ermöglicht, „die Welt d
 
 ## 2. Klang als Experiment – ​​der Moment, in dem Wissenschaft auf Musik trifft
 
-### 2.1 2013: Transplantationsexperiment von Mäusen, die dazu gebracht wurden, Oper zu hören
+### 2.1 2013: Transplantationsexperiment mit Mäusen, die dazu gebracht wurden, Oper zu hören
 
 Im Jahr 2013 hat ein Forschungsteam unter der Leitung von **Niimi Masanori** an der Teikyo-Universität,
 Aufsehen erregte er durch ein Experiment, bei dem er herztransplantierte Mäuse dazu brachte, Musik zu hören.
@@ -89,7 +89,7 @@ Dieses Team entwickelte einen **intravaginalen Lautsprecher** namens „Babypod�
 Wir haben untersucht, wie Föten im Mutterleib auf musikalische Reize reagieren.
 
 Untersuchungen zufolge ist es im Vergleich dazu, wenn der Ton über einen Lautsprecher von außerhalb des Körpers der Mutter abgespielt wird,
-Es heißt, dass der Fötus darauf reagierte, indem er seinen Mund und seine Zunge bewegte, wenn die Vibrationen direkt über den Babypod angewendet wurden.
+Es wird gesagt, dass der Fötus darauf reagierte, indem er seinen Mund und seine Zunge bewegte, wenn die Vibrationen direkt über den Babypod angewendet wurden.
 Dieses Ergebnis deutet auf eine „frühe Entwicklung der fötalen Hörreaktion“ hin.
 Wissenschaftlich bestätigte die Möglichkeit, dass Musik mit der physiologischen Entwicklung zusammenhängt.
 Es erregte auch große gesellschaftliche Aufmerksamkeit als Beispiel für die Visualisierung der „Verbindung zwischen Leben und Klang“.
@@ -100,7 +100,7 @@ Es erregte auch große gesellschaftliche Aufmerksamkeit als Beispiel für die Vi
 
 Im Jahr 2020 Forschung von **Takeshi Nishimura** und Kollegen am Primate Research Institute der Universität Kyoto
 Erhielt den **Akustikpreis**.
-Das Forschungsteam brachte Krokodile in eine Helium-Sauerstoff-Mischgasumgebung (Heliox).
+Das Forschungsteam platzierte Krokodile in einer Helium-Sauerstoff-Mischgasumgebung (Heliox).
 Analyse der Formanten (Resonanzkomponenten) des Schreis.
 Als Ergebnis haben wir bestätigt, dass sich auch die Resonanzstruktur ändert, wenn sich die Luftdichte ändert.
 

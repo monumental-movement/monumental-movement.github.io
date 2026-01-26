@@ -23,7 +23,7 @@ Text: mmr｜Thema: Über die Geschichte, Techniken, Einflüsse, Ausrüstung und 
 Folk-Tronica/Indietronica ist ein hybrider Musiktrend des 21. Jahrhunderts und darüber hinaus, bei dem sich die einfachen Klänge akustischer Instrumente mit den Texturen elektronischer Klänge kreuzen.
 Es entstand aus der Verbindung von Volksmelodien, Gitarren-Arpeggios, Feldaufnahmen natürlicher Klänge und der Sampling-Kultur der Laptop-Elektronik.
 
-Four Tet (Kieran Hebden), Caribou (Daniel Snaith) und Bonobo (Simon Green) gehören zu denen, die der Welt dieses Genre klar präsentiert haben.
+Zu den Künstlern, die dieses Genre der Welt deutlich präsentiert haben, gehören **Four Tet (Kieran Hebden)**, **Caribou (Daniel Snaith)** und **Bonobo (Simon Green)**.
 Obwohl sie alle einen Hintergrund in der elektronischen Musik haben, haben sie seit den 2000er Jahren den Kontext der Electronica erweitert, indem sie eine Vielzahl von Musikstücken wie Jazz, Folk, ethnische Musik und Post-Rock gesampelt und rekonstruiert haben.
 
 ---
@@ -53,7 +53,7 @@ Hauptmerkmale:
 - Digitale Bearbeitung (Cut-up, granulare Bearbeitung)
 - Field-Recording-Textur
 - Einfache, aber emotionale Melodie
-- Koexistenz von „Berührung“ und „künstlichem Objekt“
+- Koexistenz von „Berührung“ und „künstlichen Objekten“
 
 ### ■ Was ist Indietronica?
 Der Fluss der Einführung elektronischer Musik in den Kontext des Indie-Rock.
@@ -174,7 +174,7 @@ flowchart LR
 ### ■ Merkmale der Bonobo-Produktion
 
 * Reichhaltige Schichten aus Streichern, Bässen, Keyboards und Schlaginstrumenten
-* Jazz-Harmonie
+* Jazzharmonie
 * Integration der Spannung und Hörbarkeit der Clubmusik
 
 ---

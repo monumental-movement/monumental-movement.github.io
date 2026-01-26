@@ -57,7 +57,7 @@ Kompaktkassetten, die Anfang der 1970er Jahre unter dem Philips-Standard eingef�
 ## 1980er – Goldenes Zeitalter der Kassettenkultur und Verbreitung von Reggae
 
 - **Popularisierung von Kassetten**
-In den 1980er Jahren wurden Kassetten zum weltweit beliebtesten Musikmedium. Günstig und leicht zu transportieren, ist es mit dem Aufkommen von Wiedergabegeräten wie Radiokassettenspielern und Walkmans weitaus bekannter geworden als Schallplatten.
+In den 1980er Jahren wurden Kassetten zum weltweit beliebtesten Musikmedium. Günstig und leicht zu transportieren, ist es mit dem Aufkommen von Wiedergabegeräten wie Radio-Kassettenspielern und Walkmans weitaus bekannter geworden als Schallplatten.
 
 - **Kassettenaufnahme in Jamaika**
 Bei Beschallungsveranstaltungen und Tanzlokalen entstand eine Kultur, in der Live-Mitschnitte auf Kassetten aufgezeichnet und sofort verbreitet wurden. Obwohl dies einige Raubkopie-Aspekte aufwies, wurde es zu einem wichtigen Mechanismus, um die Begeisterung des Fachgebiets zu bündeln und zu verbreiten.
@@ -86,11 +86,11 @@ Auch japanische Reggae-Fans und DJs besuchten in den 1990er Jahren Jamaika und s
 - **Aufstieg von CD und MP3**
 In den 2000er Jahren wurden CD-R- und MP3-Filesharing zum Mainstream und Kassetten verschwanden nach und nach vom Markt. Der Musikvertrieb über Computer und Internet hat sich in Jamaika etabliert und die Rolle der Kassette als physisches Medium hat ausgedient.
 
-- **Nachhall der Kassettenkultur**
+- **Nachwirkungen der Kassettenkultur**
 Die Eigenschaften von Kassetten wie Unmittelbarkeit, Begeisterung vor Ort und informelle Vertriebsnetze wurden jedoch von der digitalen Mixtape-Kultur und den Live-Aufnahmearchiven auf YouTube übernommen. Darüber hinaus gibt es inmitten des weltweiten Trends zur Rückkehr zum Analogen auch eine Bewegung zur Neubewertung von Kassetten.
 
 - **Kulturelle Bedeutung neu denken**
-Die Kassette war mehr als nur ein Aufnahmemedium, sie symbolisierte den gemeinschaftsorientierten Charakter des Reggae, die Informationsverbreitung an der Basis und die Unabhängigkeit der Gesetzlosen. Durch Kassetten etablierte sich Reggae als „ihre Musik“ für die Massen.
+Die Kassette war mehr als nur ein Aufnahmemedium, sie symbolisierte den gemeinschaftsorientierten Charakter des Reggae, die Verbreitung von Informationen an der Basis und die Unabhängigkeit der Gesetzlosen. Durch Kassetten etablierte sich Reggae als „ihre Musik“ für die Massen.
 
 ---
 
@@ -110,7 +110,7 @@ Eine Liste berühmter Aufnahmen, die die Reggae-Kassettenkultur symbolisieren. D
 
 ## Repräsentative Reggae-Künstler nach Epoche
 
-Die Klänge repräsentativer Künstler, die eng mit der Kassettenkultur verbunden sind, sind nach Jahrzehnten geordnet.
+Die Klänge repräsentativer Künstler, die eng mit der Kassettenkultur verbunden sind, sind nach Epochen geordnet.
 
 | Ära | Repräsentative Künstler/Sounds | Eigenschaften |
 |------|-------------|------|
@@ -136,7 +136,7 @@ In den 1990er Jahren, als die Zahl japanischer Reggae-Fans rapide anstieg, waren
 Als japanische Soundsysteme (Mighty Crown, Fire Ball usw.) wuchsen, begannen sie, ihre eigenen Mixe auf Kassette zu veröffentlichen. Dies führte zur Verschmelzung der einzigartigen Reggae-Kultur Japans und direkt aus Jamaika importierter Stile.
 
 - **Nach den 2000er Jahren: CD-R und Digitalisierungswelle**
-In den 2000er Jahren wurden CD-R und MP3 zum Mainstream und Kassetten verschwanden nach und nach. Allerdings bewahren einige Sammler und DJs ihre Kassetten immer noch auf und digitalisieren sie, um der Szene etwas zurückzugeben. Diese sind weiterhin von Wert als lebendiges Archiv der Reggae-Rezeption in Japan.
+In den 2000er Jahren wurden CD-R und MP3 zum Mainstream und Kassetten verschwanden nach und nach. Dennoch bewahren einige Sammler und DJs ihre Kassetten immer noch auf und digitalisieren sie, um der Szene etwas zurückzugeben. Diese sind weiterhin von Wert als lebendiges Archiv der Reggae-Rezeption in Japan.
 
 - **Kulturelle Bedeutung**
 Der Vertrieb von Kassetten in der japanischen Reggae-Szene war nicht nur eine „importierte Klangquelle“, sondern ein Kreislauf zum direkten Import von Straßenmusik. Durch Kassetten wurden die jamaikanische Szene und japanische Clubs miteinander verbunden und so die Reifung der lokalen Szene unterstützt.
@@ -149,7 +149,7 @@ Die Verbreitung von Reggae und Kassettenkultur wird parallel als Bewegungen inne
 
 | Alter | Bewegungen in Jamaika | Bewegungen in Japan |
 |------|-----|-------------|
-| 1968 | Die Geburt des Reggae. Es wechselte von Ska zu Rock Steady und es wurde ein Bass-basierter Rhythmus etabliert. | Die Existenz von Reggae wurde in begrenztem Umfang eingeführt und es gibt noch immer fast keine allgemeine Anerkennung. |
+| 1968 | Die Geburt des Reggae. Es wechselte von Ska zu Rock Steady und es wurde ein Bass-basierter Rhythmus etabliert. | Die Existenz von Reggae ist in begrenztem Umfang bekannt und es gibt noch fast keine allgemeine Anerkennung. |
 | 1970er Jahre | Die Soundsystem-Kultur breitet sich aus. Kompaktkassetten beginnen einzuströmen. | Bob Marley wird durch einige Musikzeitschriften und importierte Plattenläden vorgestellt. |
 | 1980-82 | Die Kassettenaufnahme nahm im Bereich der Tonsysteme rasch zu. Auf der Straße verteilt. | Einige Plattenläden in Tokio und Osaka beginnen, aus Jamaika mitgebrachte Kassetten inoffiziell zu vertreiben. |
 | 1985 | Das Riddim „Sleng Teng“ wird eingeführt und das digitale Zeitalter beginnt. Beschleunigt die Kassettenaufnahme. | Der Import lokaler Aufnahmekassetten durch Überseereisende und DJs nimmt zu und sie werden in der Clubszene eingesetzt. |

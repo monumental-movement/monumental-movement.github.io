@@ -42,11 +42,11 @@ color: #fff;
 
 ## Kapitel 1: Mikrotöne und die Vorgeschichte des Jazz
 
-### 1-1 Historische Stellung mikrotonaler Intervalle
+### 1-1 Historische Position des mikrotonalen Intervalls
 
-Mikrotonale Intervalle gibt es in der westlichen Musik bereits vor dem 20. Jahrhundert. Der Kommaunterschied in der pythagoräischen Stimmung und der reinen Intonation des Mittelalters und der Renaissance umfasst einen Intervallunterschied von weniger als einem Halbton. Mit der Einführung der Zwölftemperierung zur Vereinfachung der Musiknotation und des Musikunterrichts traten diese Ideen jedoch in den Hintergrund der Theorie.
+Mikrotonale Intervalle gibt es in der westlichen Musik bereits vor dem 20. Jahrhundert. Der Kommaunterschied in der pythagoräischen Stimmung und der reinen Intonation des Mittelalters und der Renaissance umfasst einen Intervallunterschied von weniger als einem Halbton. Mit der Einführung der 12-Temperament-Stimmung zur Vereinfachung der Musiknotation und des Musikunterrichts traten diese Ideen jedoch in den Hintergrund der Theorie.
 
-Zu Beginn des 20. Jahrhunderts begannen Komponisten, absichtlich mikrotonale Intervalle zu verwenden, und es wurden Systeme entwickelt, die 24 gleichschwebende Stimmungen (Vierteltöne) und höhere Unterteilungen verwendeten. Dieser Trend ist in der zeitgenössischen Musik offensichtlich, aber der Jazz hat die Mikrotonalität durch Improvisation und physische Manipulation auf praktischere Weise integriert.
+Zu Beginn des 20. Jahrhunderts begannen Komponisten, gezielt mikrotonale Intervalle zu verwenden, und es wurden Systeme entwickelt, die 24 gleichschwebende Stimmungen (Vierteltöne) und höhere Unterteilungen verwendeten. Dieser Trend ist in der zeitgenössischen Musik offensichtlich, aber der Jazz hat die Mikrotonalität durch Improvisation und physische Manipulation auf praktischere Weise integriert.
 
 ### 1-2 Blues und Tonhöhenmehrdeutigkeit
 
@@ -98,7 +98,7 @@ flowchart TD
 
 ### 3-3 Leistungsanalyse: Mikrotonale Manipulation bei Blasinstrumenten
 
-Maneris Spiel nutzt eine Kombination aus Fingersatz und Ansatz, um eine äußerst präzise Tonhöhenmanipulation zu erreichen. Die Tonhöhen werden als sanfte Kurven und nicht als Schritte behandelt, und die gesamte Phrase ist als eine Reihe kontinuierlicher Änderungen aufgebaut.
+Maneris Spiel nutzt eine Kombination aus Fingersatz und Ansatz, um eine äußerst präzise Tonhöhenmanipulation zu erreichen. Die Tonhöhen werden als sanfte Kurven und nicht als Stufen behandelt, und die gesamte Phrase ist als eine Reihe kontinuierlicher Änderungen aufgebaut.
 
 Bei der Improvisation werden Spannung und Entspannung dadurch erzeugt, dass die Tonhöhendichte erhöht und verringert wird, während ein bestimmtes Tonzentrum mehrdeutig bleibt. Diese Methode vermittelt dem Zuhörer ein anderes Zeitgefühl als traditioneller tonaler Jazz.
 
@@ -142,7 +142,7 @@ Im Ansatz von Collier können einzelne Stimmen unterschiedliche Klangannahmen ha
 
 ---
 
-## Kapitel 5: Mikrotonoperation in der Improvisation
+## Kapitel 5: Verwendung von Mikrotönen in der Improvisation
 
 ### 5-1 Phrasenkonstruktion
 
@@ -157,7 +157,7 @@ Mit der Unterteilung der Intervalle verändert sich auch die Rolle des Rhythmus.
 Für Improvisationsdarbietungen mittels Mikrotonalität ist eine akustische Auswertung mittels Fourier-Analyse und Spektrogrammen möglich. insbesondere:
 
 * Feine Spitzenverteilung im Frequenzspektrum
-*Änderungen in der Obertonstruktur und der Kontinuität der Klangfarbe
+*Änderungen in der harmonischen Struktur und der Kontinuität der Klangfarbe
 * Bewertung der psychischen Anspannung anhand der Tonhöhendichte
 
 Dadurch kann der mikrotonale Ausdruck als auditive Wirkung quantitativ analysiert werden.
@@ -170,7 +170,7 @@ Dadurch kann der mikrotonale Ausdruck als auditive Wirkung quantitativ analysier
 
 Es werden erweiterte Viertelnoten und Vorzeichen verwendet, die vollständige Notation ist jedoch schwierig und hängt stark vom Hörverständnis des Interpreten ab. Dieser Punkt hat eine Affinität zur mündlichen Natur des Jazz.
 
-### 6-2 Anpassung im Ensemble
+### 6-2 Anpassungen im Ensemble
 
 In mikrotonalen Ensembles ist die gemeinsame Nutzung relativer Tonhöhen wichtiger als die absoluter Tonhöhen. Eine gängige Methode besteht darin, die harmonischen Beziehungen während der Probenphase zu überprüfen und die Tonhöhe anhand der Resonanz anzupassen.
 
@@ -199,7 +199,7 @@ Die Schüler von Joe Maneri bieten mikrotonale Ausbildung an Jazz-Ausbildungsein
 * Praktische Anwendung in kleinen und großen Ensembles
 * Mikrotonale Jazz-Aufnahme- und Veröffentlichungsaktivitäten
 
-Dieses Bildungsnetzwerk, oft als Manneri-Schule bezeichnet, bildet die Spitze der zeitgenössischen Jazzimprovisations- und Kompositionsausbildung.
+Dieses Bildungsnetzwerk, das oft als Manneri-Schule bezeichnet wird, bildet die Spitze der zeitgenössischen Jazzimprovisations- und Kompositionsausbildung.
 
 ---
 

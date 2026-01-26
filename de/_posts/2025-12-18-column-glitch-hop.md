@@ -19,7 +19,7 @@ title: '[Spalte] Glitch Hop – Niederfrequenzkultur, die aus fragmentierten Bea
 
 Text: mmr｜Thema: Hintergrund der Entstehung von Glitch Hop, akustische Eigenschaften, Produktionsmethoden repräsentativer Künstler, Beat-Analyse, Ausrüstung und Produktionsumgebung, Beziehung zu umgebenden Genres und nachfolgender Einfluss
 
-Glitch Hop ist ein Trend der elektronischen Musik, der auf der Beat-Struktur des Hip-Hop basiert und Glitch-Verarbeitung, präzise Mikrobearbeitung und tiefzentriertes Bass-Design kombiniert. Von Ende der 2000er bis Anfang der 2010er Jahre wurde es deutlich, als die digitale Produktionsumgebung immer ausgefeilter wurde, und es etablierte sich als funktionale Musik, die sich über Club-, Hör- und Videoanwendungen hinweg erstreckt. Obwohl der Genrename eine Kombination aus „Glitch“ und „Hip Hop“ ist, handelt es sich nicht nur um eine Mischung von Techniken, sondern um eine Produktionsphilosophie, die sich auf die Dekonstruktion und Rekonstruktion von Beats konzentriert.
+Glitch Hop ist ein Trend der elektronischen Musik, der auf der Beat-Struktur des Hip-Hop basiert und Glitch-Verarbeitung, präzise Mikrobearbeitung und tiefzentriertes Bass-Design kombiniert. Von Ende der 2000er bis Anfang der 2010er Jahre wurde es deutlich, als die digitale Produktionsumgebung immer ausgefeilter wurde, und es etablierte sich als funktionale Musik, die sich über Club-, Hör- und Videoanwendungen hinweg erstreckt. Obwohl der Genrename ein zusammengesetztes Wort aus „Glitch“ und „Hip Hop“ ist, handelt es sich nicht nur um eine Mischung aus Techniken, sondern um eine Produktionsphilosophie, die sich auf die Dekonstruktion und Rekonstruktion von Beats konzentriert.
 
 ---
 
@@ -49,7 +49,7 @@ Glitch Hop entstand an der Schnittstelle zwischen dem aus dem Hip-Hop stammenden
 
 ### 2.1 Tempo und Groove
 
-Der Tempobereich von Glitch Hop liegt im Allgemeinen bei 85–110 BPM. Dies passt gut zum Halftime-Feeling des Hip-Hop und maximiert das Gewichtsgefühl im unteren Bereich. Das Ausmaß des Schwunges ist nicht festgelegt, sondern wird bewusst für jede Spur angepasst, und sowohl mechanische Steifigkeit als auch künstliche Abweichung existieren nebeneinander.
+Der Tempobereich von Glitch Hop liegt im Allgemeinen bei 85–110 BPM. Dies passt gut zum Halftime-Feeling des Hip-Hop und maximiert das Gewichtsgefühl im unteren Bereich. Das Ausmaß des Schwunges ist nicht festgelegt, sondern wird bewusst für jede Spur angepasst, und sowohl mechanische Steifigkeit als auch künstliche Abweichung existieren gleichzeitig.
 
 ### 2.2 Rhythmusstruktur
 
@@ -65,7 +65,7 @@ Beim Glitch Hop spielt der Ton eine wichtigere Rolle als die Melodie. Der Bass i
 
 ### 3.1 Der Glitch Mob
 
-The Glitch Mob hat eine Methode etabliert, um Beats und Sounddesign durch den Einsatz eines Mehrpersonen-Produktionssystems stark zu unterteilen und zu integrieren. Ihre Lieder verzichten auf einfache Schleifenwiederholungen und verändern stattdessen mit jeder Entwicklung die rhythmische und klangliche Dichte.
+The Glitch Mob hat eine Methode etabliert, um Beats und Sounddesign durch den Einsatz eines Mehrpersonen-Produktionssystems stark zu unterteilen und zu integrieren. Ihre Lieder vermeiden einfache Wiederholungen von Loops und die Dichte von Rhythmus und Ton ändert sich mit jeder Entwicklung.
 
 Der Bass ist so konzipiert, dass er die treibende Kraft des Songs ist, und seine Phasenbeziehung zur Kick wird streng kontrolliert. Das Subband ist oft monaural angeordnet und zeichnet sich durch ein Design aus, das die Stabilität bei der Clubwiedergabe betont.
 
@@ -151,7 +151,7 @@ Die Bearbeitungstechniken von Glitch Hop beeinflussten Trap-, Bassmusik und soga
 
 ## 10. Fazit
 
-Glitch Hop ist ein Genre, das aus der Kombination von technologischer Entwicklung und Produktionsästhetik entstanden ist. Durch die Kombination der Körperlichkeit des Hip-Hop mit der Wahrnehmungsstimulation von Glitch wird es als eine der Grundlagen der modernen Beatmusik positioniert und nicht nur als vorübergehender Stil.
+Glitch Hop ist ein Genre, das aus der Kombination von technologischer Entwicklung und Produktionsästhetik entstanden ist. Durch die Kombination der Körperlichkeit des Hip-Hop mit der Wahrnehmungsstimulation von Glitch wird es als eine der Grundlagen moderner Beatmusik positioniert und nicht nur als vorübergehender Stil.
 
 ---
 

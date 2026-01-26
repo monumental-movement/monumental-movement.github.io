@@ -168,7 +168,7 @@ Samples mit niedriger Auflösung eignen sich effektiv zum Erstellen von Texturen
 
 ## Kapitel 8: Wichtige Künstler und Anwendungsbeispiele
 
-> Nachfolgend finden Sie Auszüge von Anwendungsbeispielen, die auf sachlichen Informationen wie öffentlichen Interviews, Credits, technischen Artikeln und offizieller Dokumentation basieren.
+> Nachfolgend finden Sie Auszüge von Anwendungsbeispielen, die auf sachlichen Informationen wie öffentlichen Interviews, Credits, Fachartikeln und offiziellen Dokumenten basieren.
 
 <div class="mermaid">
 
@@ -320,7 +320,7 @@ flowchart TD
 
 </div>
 
-## Detaillierte Erklärung der internen Schaltkreise jedes Modells (CPU / ROM / DAC)
+## Detaillierte Erläuterung der internen Schaltkreise jedes Modells (CPU / ROM / DAC)
 
 ### SP-1200 Interner Block
 
@@ -356,7 +356,7 @@ flowchart TD
 
 ---
 
-## Abschnitt zur Spur-/Wellenform-/Frequenzanalyse
+## Abschnitt „Spur-/Wellenform-/Frequenzanalyse“.
 
 ### Ebenenanalyse von Public Enemy (Bomb Squad) SP-1200
 

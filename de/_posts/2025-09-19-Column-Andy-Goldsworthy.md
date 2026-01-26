@@ -100,7 +100,7 @@ color: #fff;
 #### Morgen
 
 - Brian Eno ― *Ambient 1: Musik für Flughäfen*
-- Chris Watson – *Morning at the River*
+- Chris Watson ― *Morning at the River*
 - Steve Reich ― *Musik für 18 Musiker*
 
 #### Mittag

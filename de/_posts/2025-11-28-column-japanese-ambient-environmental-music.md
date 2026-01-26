@@ -20,7 +20,7 @@ title: '[Kolumne] Japanische Ambient-/Umweltmusik'
 Text: mmr｜Thema: Der Kern japanischer Umweltmusik aus den 1980er Jahren und ihre historische Neubewertung
 
 
-In den späten 2010er Jahren erregten „Japanese Ambient“ und „Japanese Environmental Music“ bei Musikhörern auf der ganzen Welt große Aufmerksamkeit. Es gibt mehrere Gründe. Dabei handelt es sich um Neuauflagen westlicher Labels, die automatischen Empfehlungen von YouTube, den Algorithmus von Spotify und eine Neubewertung elektronischer Musik/New Age.
+In den späten 2010er Jahren begannen „Japanese Ambient“ und „Japanese Environmental Music“ bei Musikhörern auf der ganzen Welt große Aufmerksamkeit zu erregen. Es gibt mehrere Gründe. Dabei handelt es sich um Neuauflagen westlicher Labels, die automatischen Empfehlungen von YouTube, den Algorithmus von Spotify und eine Neubewertung elektronischer Musik/New Age.
 Es gibt jedoch wichtige Punkte, die nicht allein durch diese Faktoren erklärt werden können.
 
 Dies liegt daran, dass Japans „Umweltmusik“ in den 1980er Jahren auf einem anderen kulturellen Boden entstand als Ambient-Musik auf der ganzen Welt.
@@ -115,7 +115,7 @@ Wir strebten nach „Klang, der die Natur des Raumes verändert, nicht nur zur W
 
 # **2-2. Midori Takada – Musik aus Zeit und Raum, gezeichnet von Schlaginstrumenten**
 
-Midori Takada (1951–) hat als japanische Perkussionistin und Komponistin weltweite Anerkennung gefunden.
+Midori Takada (1951–) hat als japanische Perkussionistin und Komponistin weltweite Anerkennung erlangt.
 
 ## ● Repräsentative Werke
 - **《Through the Looking Glass》 (1983)**
@@ -170,7 +170,7 @@ Ein elektronisches und zugleich idyllisches Meisterwerk.
 ## ● 3-1. Synthesizer-Kultur
 In den 1980er Jahren dominierten japanische Hersteller elektronischer Musikinstrumente den Weltmarkt und hatten großen Einfluss auf die Ambient-Musik.
 
-Geräte, die häufig genutzt wurden (innerhalb des nachweisbaren Bereichs)
+Geräte, die häufig verwendet wurden (innerhalb des nachweisbaren Bereichs)
 - Yamaha DX7
 - Roland Juno-Serie
 - Roland RE-201 (Bandecho)
@@ -198,7 +198,7 @@ Umweltmusik ging in diesem Zusammenhang über die bloße Hintergrundmusik hinaus
 
 ## ● 4-2. Verbindung mit „Komfortfunktionen“ von Haushaltsgeräten
 
-Die Musik von Takashi Kokubo, die Luftreinigern beiliegt, ist ein Symbol dafür.
+Ein Symbol dafür ist die Musik von Takashi Kokubo, die Luftreinigern beiliegt.
 Haushaltsgeräte x Umweltakustik
 Er begründete eine einzigartige japanische Idee.
 

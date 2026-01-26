@@ -104,7 +104,7 @@ Gemäß dem Entertainment Business Law wurden Clubs als „Unterhaltungsunterneh
 
 Es war leicht, auf das Aufnehmen von Fotos und Videos zu verzichten (besonders in Shibuya und Roppongi).
 
-Zeitschriftenmedien (wie „LOUD“ und „ele-king“) konnten nur einen begrenzten Umfang verfolgen.
+Zeitschriftenmedien (wie „LOUD“ und „ele-king“) konnten nur einem begrenzten Umfang folgen.
 
 Daher existiert der Tokio-Rave der 1990er-Jahre nur noch „in Erinnerung“.
 

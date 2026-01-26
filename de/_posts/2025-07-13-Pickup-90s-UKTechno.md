@@ -22,7 +22,7 @@ title: Ich greife britische Techno-Werke aus den 90ern auf
 
 Veröffentlicht: 1998
 
-Eine 4-Track-EP, veröffentlicht von Cloned – Vinyl in Großbritannien. „Brutal – City“ und „Risk – Rumblin’“ auf der A-Seite, „Steadycam“ und „Neon“ auf der B-Seite.
+Eine 4-Track-EP, veröffentlicht von Cloned – Vinyl in Großbritannien. „Brutal – City“ und „Risk – Rumblin‘“ auf der A-Seite, „Steadycam“ und „Neon“ auf der B-Seite.
 
 #### Trackliste
 ```md
@@ -75,7 +75,7 @@ Britische Elektro-/Techno-Arbeit von Sean Booth und Rob Brown. Eine CD mit exper
 
 Veröffentlicht: 1997
 
-Britischer Techno und Electronica. Veröffentlicht von NovaMute. Mixmags Top-5-Alben der 90er
+Britischer Techno und Electronica. Veröffentlicht von NovaMute. Mixmags Top-5-Alben der 90er Jahre
 
 #### Trackliste
 ```md
@@ -128,7 +128,7 @@ A.  Acid War (Liberator DJs RMX)
 
 Veröffentlicht: 1996
 
-Surgeons erstes Album aus Downwards (UK). Veröffentlicht mit Unterstützung von Regis/Female
+Surgeons erstes Album von Downwards (UK). Veröffentlicht mit Unterstützung von Regis/Female
 
 #### Trackliste
 ```md

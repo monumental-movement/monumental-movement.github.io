@@ -13,7 +13,7 @@ title: Schwarz – mehr als die Sonne
 ---
 
 
-Black ist der Pseudonym des britischen Singer-Songwriters Colin Vearncombe und der Name seiner eigenen Band.
+Black ist der Pseudonym des britischen Singer-Songwriters Colin Vearncombe und der Name seiner Band.
 
 #### Trackliste
 ```md

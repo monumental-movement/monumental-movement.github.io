@@ -55,7 +55,7 @@ Tatsuro Yamashitas musikalische Einstellung wurde in der analogen Rock/Pop-Aufna
 - Studio: Frühes japanisches Studio (Victor, Nichion, CBS Sony usw.)
 - Musikalischer Hintergrund: Starkes Engagement für die amerikanische Aufnahmekultur wie Brian Wilson, Phil Spector, Stax usw.
 
-In dieser Zeit, so Tatsuro, habe er bereits die Idee gefestigt, dass „Aufnahmetechnologie die Grundlage der Musik sei“.
+In dieser Zeit, so Tatsuro, habe er bereits die Idee gefestigt, dass „Aufnahmetechnologie die Grundlage der Musik ist“.
 
 ### ■ Klangeigenschaften von „SONGS“ (1975)
 - Selbstchorus-Overdubbing
@@ -75,7 +75,7 @@ In dieser Zeit nutzte Tatsuro die analoge 24-Spur-Aufnahme voll aus.
 Merkmale:
 - **Kompression mit Temperaturgefühl** mit Klebeband
 - Overdubbing des Handspiels (Gitarre, Keyboard, Percussion)
-- **Dutzende Overdubbing-Gesang**
+- **Dutzende Overdubbing-Vocals**
 
 In späteren Jahren sagte Tatsuro: „Je mehr man analog schichtet, desto mehr Nuancen werden zusammenkommen“, und die Werke aus dieser Zeit sind die ideale Form davon.
 
@@ -97,7 +97,7 @@ Im Mittelpunkt stand dabei das **CBS Sony Shinanomachi Studio**.
 Der Sound aus dieser Zeit wird oft als „Idealform des City-Pop“ bezeichnet.
 
 ## ■ Aufnahmeästhetik von „FOR YOU“ (1982)
-Dieses Werk gilt als eines der Spitzenwerke Tatsuros.
+Dieses Werk gilt als eines der Spitzenwerke von Tatsuro.
 Akustische Eigenschaften:
 
 1. **Höchste Klarheit bei analogen Aufnahmen**
@@ -124,7 +124,7 @@ Tatsuro begann ernsthaft mit der Nutzung digitaler Geräte.
 
 Insbesondere habe ich aus folgenden Gründen auf die digitale Aufnahme selbst verzichtet:
 
-- In den frühen Phasen der digitalen Aufnahme sind hohe Frequenzen hart und die Tiefe geht leicht verloren.
+- In den frühen Phasen der digitalen Aufnahme ist der hohe Bereich hart und die Tiefe geht leicht verloren.
 - Ich hasste es, die „Rundheit“ der analogen Überaufzeichnung zu verlieren.
 - Analog war besser für den Aufbau meines eigenen Refrains.
 
@@ -168,9 +168,9 @@ Erzielung einer einzigartigen Fusion aus **selbstproduziertem + digitalem + Live
 
 In den 2020er Jahren wurden viele Werke aus der analogen Ära neu gemastert.
 
-Schon beim Remastering hat Tatsuro deutlich gemacht, dass es ihm überhaupt nicht gefällt, den Sound zu verändern.
+Schon beim Remastering hat Tatsuro deutlich gemacht, dass er es überhaupt nicht mag, den Sound zu verändern.
 
-### ▼ Überarbeitete Funktionen
+### ▼ Features des Remasters
 - Reproduziert originalgetreu das Originalband
 - Kein extremer EQ
 - Schalldruck nicht unnatürlich erhöhen (Lautheitskrieg ablehnen)
@@ -217,7 +217,7 @@ timeline
 ### – Unterschiede in der Akustik basierend auf Tatsuros Werken
 
 | Artikel | Analoge Zeit (~1980er Jahre) | Digitale Periode (1990er-Jahre) |
-|------|-------------|-------------------------|
+|------|-------------|--------------------------|
 | Aufnahmemedien | Klebeband (2 Zoll) | PCM/ProTools |
 | Klangeindruck | Warm, dick, rund | Klar, scharf |
 | Chor | Je mehr Sie schichten, desto mehr fügt es sich zusammen | Es neigt dazu, steif zu werden, wenn es geschichtet wird |
@@ -240,7 +240,7 @@ Punkt:
 - Reichhaltiger Mittel-Tief-Bereich mit NEVE-Konsole
 - EMT-Platten-Nachhallkultur
 
-Diese „altersspezifischen Bedingungen“ machen den analogen City-Pop-Sound einzigartig.
+Diese „zeitspezifischen Bedingungen“ machen den analogen City-Pop-Sound einzigartig.
 
 ---
 

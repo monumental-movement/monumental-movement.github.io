@@ -22,9 +22,9 @@ title: '[Kolumne] Indie Shoegaze / Dream Pop'
 Text: mmr｜Thema: Zur Geschichte der Rekonstruktion von Klangbildern und Empfindungen
 
 Shoegaze und Dream Pop, die in den späten 1980er bis frühen 1990er Jahren vor allem im Vereinigten Königreich aufkamen, veränderten den Ausdrucksbereich der Rockmusik erheblich von „Performance“ hin zu „Klangbild“.
-Diese Musik konzentriert sich auf den Raum, den Nachhall und die sinnliche Dauer, die durch überlappende Klänge entstehen, und nicht auf den unmittelbaren Reiz der Melodie oder die klare Wiedergabe von Texten.
+Diese Musik konzentriert sich auf den Raum, den Nachhall und den sinnlichen Sustain, der durch überlappende Klänge entsteht, und nicht auf den unmittelbaren Reiz der Melodie oder die klare Wiedergabe von Texten.
 
-Der Begriff „Shoegaze“ entstand aus der Art und Weise, wie Menschen während der Aufführung auf die Effektorbretter zu ihren Füßen blickten, und der Begriff etablierte sich als Symbol für die introvertierte Natur der Aufführung. Dream Pop hingegen entstand als Ergebnis der Verschmelzung einer früheren Ambient-Pop-Sensibilität mit der klanglichen Ausrichtung des Post-Punk.
+Der Begriff „Shoegaze“ entstand aus der Art und Weise, wie Menschen während der Aufführung auf die Effektorbretter zu ihren Füßen blickten, und der Begriff etablierte sich als Symbol für die introvertierte Natur der Aufführung. Dream Pop hingegen entstand als Ergebnis der Verschmelzung einer früheren Ambient-Pop-Sensibilität mit der Post-Punk-Klangorientierung des Post-Punks.
 
 Obwohl die beiden unterschiedlichen Ursprungs sind, sind sie hinsichtlich der Klangverarbeitung, der Stimmverarbeitung und der visuellen Sensibilität eng miteinander verbunden.
 
@@ -77,7 +77,7 @@ Die Verzögerung wird verwendet, um überlappende Nachhalleffekte zu erzeugen, a
 ### 2-2. Rhythmus im Hintergrund
 
 Schlagzeug und Bass fungieren nicht als treibende Kraft hinter dem Song, sondern fungieren als Schwerpunkt zur Unterstützung des Klangbildes.
-Das Tempo ist relativ konstant und der Schwerpunkt liegt eher auf der Fortsetzung eines Zustands als auf dramatischen Entwicklungen.
+Das Tempo ist relativ konstant und der Schwerpunkt liegt eher auf der Fortsetzung eines Zustands als auf einer dramatischen Entwicklung.
 
 ---
 
@@ -94,7 +94,7 @@ My Bloody Valentine ist eine Ikone von Shoegaze.
 Ihre Musik ist nicht nur Verzerrung, sondern basiert auf Tonhöhenschwankungen, Tonhöheninstabilität und winzigen Verschiebungen.
 
 Kevin Shields nutzt eine einzigartige Spieltechnik mit einem Tremoloarm, um ein Klangbild zu erzeugen, das den gesamten Akkord weiter zum Beben bringt.
-Dadurch verliert die Gitarre ihren perkussiven Anschlag und erhält eine kontinuierliche wellenartige Textur.
+Dadurch verliert die Gitarre ihren perkussiven Anschlag und erhält eine kontinuierliche wellenartige Struktur.
 
 [„Die Instabilität der Darbietung schafft Stabilität in der Musik“]
 
@@ -124,7 +124,7 @@ Die vagen Umrisse, der geringe Kontrast und die nahezu monochromatischen Farben 
 ### 5-2. Musikvideo-Trends
 
 Die Bilder erzählen keine Geschichte, sondern bestehen aus Lichtfragmenten, Zeitlupe und Überlagerungen.
-Auch Kameraführung und Schnitt vermeiden einen klaren Fokus und betonen das Gefühl des visuellen Schwebens.
+Auch die Kameraführung und der Schnitt vermeiden einen klaren Fokus und betonen das Gefühl des visuellen Schwebens.
 
 [„Bild existiert nicht als Erklärung, sondern als Erweiterung der Empfindung“]
 
@@ -208,7 +208,7 @@ Daher betont das Lied die „Zeit, die weiter vergeht“ und nicht die „Zeit, 
 
 ### B-2. Körperliche Steigerung neu definieren
 
-Auf den ersten Blick mag Shoegaze bei hoher Lautstärke wie aggressive Musik erscheinen, aber das körperliche Erlebnis ist ein anderes.
+Auf den ersten Blick mag bei hoher Lautstärke gespielter Shoegaze wie aggressive Musik erscheinen, aber das körperliche Erlebnis ist ein anderes.
 Der Fokus liegt nicht auf rhythmischen Sprüngen, sondern auf Umhüllung durch Schalldruck und Immersion durch Sustain.
 
 Dies ist ein Erlebnis, bei dem der Körper des Publikums nicht nach vorne gedrückt wird, sondern in den Klang eintaucht.
@@ -251,7 +251,7 @@ Die niedrige Sichtlinie, die gedämpfte Beleuchtung und das ausdruckslose Ersche
 ### D-2. Fehlen eines Themas im Video
 
 In Musikvideos und Bildmaterialien werden Personen oft nicht klar dargestellt oder absichtlich unscharf dargestellt.
-Dies ist ein Versuch, ähnlich wie bei Musik, visuelle Anonymität zu gewährleisten.
+Dies ist ein Versuch, die visuelle Anonymität ähnlich wie bei der Musik sicherzustellen.
 
 [„Es geht nicht darum, wer den Ton erzeugt, sondern darum, was den Ton erzeugt“]
 

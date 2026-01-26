@@ -25,7 +25,7 @@ title: '[Kolumne] Deutscher Techno und die Pandemie in den 2020er Jahren: Kultur
 ## Pandemie: Eine wahre Geschichte von allem, vom Lockdown über die Wiedereröffnung bis hin zur Neudefinition von Musik
 
 
-Text: mmr｜Thema: Wie hat sich der deutsche Techno in den 2020er Jahren verändert, was ist verloren gegangen und was wurde gewonnen?
+Text: mmr | Thema: Wie sich deutscher Techno in den 2020er Jahren verändert hat, was verloren ging und was gewonnen wurde
 
 
 Der deutsche Techno erlebte in den 2020er Jahren einen dramatischen seismischen Wandel, der sich auf die **COVID-19-Pandemie (2020–2022)** konzentrierte.
@@ -59,7 +59,7 @@ Vor März 2020 stach Berlin weltweit von anderen Städten ab.
 - Touristen kommen nicht nur aus der EU, sondern auch aus Südamerika und Asien
 - Laut Tourismusstatistik wurden Vereine als Gebiet mit äußerst großen wirtschaftlichen Auswirkungen behandelt.
 
-In dieser Zeit waren die Berliner Clubs der Kern der Stadtmarke, und es war auch bemerkenswert, dass die Stadt offiziell eine Clubunterstützungsrichtlinie bekannt gab.
+In dieser Zeit waren die Berliner Clubs der Kern der Marke der Stadt, und es war auch bemerkenswert, dass die Stadt offiziell eine Club-Förderpolitik bekannt gab.
 Kulturpolitisch sind Vereine in gewisser Weise durch den städtischen Kulturförderhaushalt geschützt, da sie Theatern und Galerien ähneln.
 
 ## ● Musikalisch gab es Anzeichen für eine Beschleunigung.
@@ -90,7 +90,7 @@ Zum ersten Mal in ihrer Geschichte kam es in der weltberühmten Technostadt zu e
 - Alle Clubs geschlossen (März 2020 bis Anfang 2021)
 - Alle geschlossen, einschließlich Berghain und Tresor
 - Die Einnahmen aus dem Clubtourismus werden auf Null reduziert
-- Berufe wie DJs, Personal, Licht- und Tonarbeiter haben Einkommensverluste erlitten.
+- Berufe wie DJs, Personal, Licht- und Tonarbeiter haben Einkommenseinbußen erlitten.
 - Staatliche Unterstützung mit Kurzarbeitsgeld
 
 Statistiken und Medienberichte bestätigen, dass Zehntausende Arbeitnehmer betroffen sind, die auf Vereine als Einnahmequelle angewiesen sind.
@@ -110,7 +110,7 @@ Im März 2020 starteten wir **United We Stream**, das weltweit erste groß angel
 - Von Millionen Menschen gesehen
 - Ähnliche Modelle verbreiten sich in Städten auf der ganzen Welt
 
-Die Online-Präsenz hat das Stereotyp auf den Kopf gestellt, dass Clubs eine Kultur seien, die in einem physischen Raum stattfindet.
+Die Online-Präsenz hat das Klischee, dass Clubs eine Kultur sind, die in einem physischen Raum stattfindet, auf den Kopf gestellt.
 Es wurde bewiesen, dass Clubkultur auch als digitales Medium funktionieren kann.
 
 ## ● Musik wird durch DJ-Sets ohne Publikum introvertiert
@@ -206,7 +206,7 @@ Im Zeitraum 2022–2023 ist die Zahl junger Touristen, insbesondere aus der EU, 
 Als Gründe dafür werden ein „Freiheitsgefühl“ nach der Pandemie und die Visualisierung der Clubkultur durch soziale Medien genannt.
 
 Wochenendveranstaltungen in Berlin
-Partys, die **30–40 Stunden am Stück** dauern, sind häufiger geworden.
+Partys, die **30–40 Stunden am Stück** dauern, sind immer häufiger geworden.
 
 ## ● High-Speed-Techno breitet sich in den umliegenden Städten aus
 - Frankfurt: Zunahme harter Ereignisse
@@ -232,7 +232,7 @@ Berlin hat die Fragilität seiner Stadtstruktur offengelegt, die zu stark vom To
 Seitdem hat die Stadt damit begonnen, kulturelle Maßnahmen für die Anwohner zu stärken.
 
 ## ● 3) Digitalisierung und Archivierung schreiten voran
-Im Zuge der Pandemie wurden die historischen Materialien, Videos und Audioquellen des Clubs online verfügbar gemacht.
+Im Zuge der Pandemie wurden die historischen Materialien, Videos und Audioquellen des Clubs online zur Verfügung gestellt.
 Ab 2023 werden Archivprojekte im Rahmen der Kulturpolitik gefördert.
 
 ---
@@ -282,10 +282,10 @@ timeline
 
 # Kapitel 10: Zukunftsprognosen nach 2025
 ## ● 1) Wird es weiterhin Geschwindigkeitssteigerungen geben?
-Ab 2024 werden 150-170 BPM der Mainstream sein.
+Ab 2024 werden 150–170 BPM der Mainstream sein.
 Es ist unklar, ob dies so weitergehen wird, aber es kann aufgrund der folgenden Faktoren so weitergehen:
 
-- Die visuelle Präsentation auf SNS passt gut zu High-Speed-Musik
+- Die visuelle Präsentation auf SNS passt gut zu Hochgeschwindigkeitsmusik
 - Junge Ästhetiker bevorzugen „hohe Informationsdichte“
 - Der internationale Markt für Hard Techno wächst
 
@@ -308,7 +308,7 @@ Der deutsche Techno der 2020er Jahre war vor und nach der Pandemie völlig ander
 - **Berlin ist wieder einmal eine internationale Rave-Stadt**
 
 Die Pandemie hat Zerstörung gebracht, aber auch eine „Neudefinition der Kultur“ verursacht.
-Der deutsche Techno ist Ende der 2020er Jahre zu einer vielfältigeren, internationaleren und schnelleren Kultur geworden als zuvor.
+Der deutsche Techno der späten 2020er Jahre ist eine Kultur, die vielfältiger, internationaler und schneller ist als zuvor.
 
 Dieser Wandel wird wahrscheinlich als „2020er Jahre = Ära der Diskontinuität“ in die zukünftige Geschichte der elektronischen Musik eingehen.
 

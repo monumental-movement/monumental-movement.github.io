@@ -15,7 +15,7 @@ title: Billiger Trick – in Farbe
 
 Cheap Trick ist eine amerikanische Rockband, die 1974 in Rockford, Illinois, von Robin Zander, Rick Nielsen, Tom Peterson und Van E. Carlos gegründet wurde.
 
-„In Color“ ist das zweite Album von Cheap Trick. Der Produzent ist Tom Werman, der für die Produktion von Ted Nugent bekannt ist.
+„In Color“ ist das zweite Album von Cheap Trick. Der Produzent ist Tom Werman, der als Produzent von Ted Nugent bekannt ist.
 
 #### Trackliste
 ```md

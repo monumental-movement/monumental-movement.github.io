@@ -59,7 +59,7 @@ Das frühe Repertoire umfasste neben barocken und klassischen Werken auch neue W
 
 ## 3. Herausforderung an die moderne Musik (1980er–1990er)
 
-In den 1980er Jahren wurde das Kronos Quartett zu einem wichtigen Vertreter der zeitgenössischen amerikanischen Musik. Das Kronos Quartett begann mit Meistern der zeitgenössischen Musik wie Philip Glass, Steve Reich und Terry Riley zusammenzuarbeiten und erlangte durch die Aufführung und Aufnahme ihrer Werke weltweite Anerkennung.
+In den 1980er Jahren wurde das Kronos Quartett zu einer wichtigen Präsenz in der amerikanischen Welt der zeitgenössischen Musik. Das Kronos Quartett begann mit Meistern der zeitgenössischen Musik wie Philip Glass, Steve Reich und Terry Riley zusammenzuarbeiten und erlangte durch die Aufführung und Aufnahme ihrer Werke weltweite Anerkennung.
 
 Diese Zeit war geprägt von **Innovationen in der Aufführungstechnik**. Zusätzlich zu den traditionellen Spieltechniken für Streichinstrumente hat die Studioarbeit zugenommen, wobei Elektronik zum Einsatz kam, Rhythmen und Tonleitern aus nicht-westlicher Musik eingeführt wurden und Sampling und Mehrspuraufnahmen voll ausgeschöpft wurden.
 
@@ -123,7 +123,7 @@ Besonders hervorzuheben sind Innovationen in der Filmmusik mit dem im Jahr 2000 
 
 ---
 
-### Filmmusik in die Chronologie integrieren
+### Integrieren Sie Filmmusik in die Chronologie
 
 
 <div class="mermaid">
@@ -166,7 +166,7 @@ Neben der Auftrittstätigkeit liegt der Schwerpunkt des Kronos Quartetts auch au
 
 * **Workshop/Ausbildungsprogramm**: Betreuung an Universitäten und Musikschulen, Ausbildung junger Musiker.
 * **Aktivitäten zum kulturellen Austausch**: Konzerte auf der ganzen Welt, gemeinsame Auftritte mit lokalen Musikern.
-* **Werke zu sozialen Themen**: Produktion von Musikwerken mit Bezug zu Konflikten, Umweltproblemen und Menschenrechten.
+* **Werke zu sozialen Themen**: Produktion von Musikwerken mit Bezug zu Konflikten, Umweltthemen und Menschenrechten.
 
 Ihr neuestes Album vertieft ihre Zusammenarbeit mit traditioneller Musik weiter und kombiniert technisch fortschrittliche Aufnahme und Performance.
 

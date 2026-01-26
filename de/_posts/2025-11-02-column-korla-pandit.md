@@ -125,7 +125,7 @@ Referenz/Quelle:
 ---
 
 Die Korla Pandit Show, die ab 1951 ausgestrahlt wurde, war eine der ersten amerikanischen Musikfernsehshows.
-Die Inszenierung, die nur aus Bild und Ton ohne gesprochene Worte aufgebaut war, bot den weißen Zuschauern damals ein „sicheres fremdes Land“.
+Die Inszenierung, die nur aus Bild und Ton ohne gesprochene Worte aufgebaut war, bot den weißen Zuschauern zu dieser Zeit ein „sicheres fremdes Land“.
 
 Pundit hatte mehr als 1.000 Sendungen, was ihr mehr Fernsehpräsenz verschaffte als ihrem Zeitgenossen Nat King Cole.
 Allerdings konnte er nur dadurch Erfolg haben, dass er seine Identität als schwarzer Künstler verbarg;

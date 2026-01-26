@@ -13,7 +13,7 @@ title: Rah Digga – Dirty Harriet
 ---
 
 
-Dirty Harriet (2000) ist das Debüt-Studioalbum von Rahim Fisher, auch bekannt als Rah Digga, und ein unterschätztes, aber wichtiges Stück in der Hip-Hop-Geschichte.
+Dirty Harriet (2000) ist das Debüt-Studioalbum von Rahim Fisher, auch bekannt als Rah Digga, und ein unterschätztes, aber wichtiges Stück Hip-Hop-Geschichte.
 
 Als erstes weibliches Mitglied der Flipmode Squad etablierte sich Rah Digga mit der Unterstützung von Busta Rhymes mit ihrer meisterhaften Lyrik und ihrem Ostküsten-Boom-Bap-Sound fest als weibliche MC.
 

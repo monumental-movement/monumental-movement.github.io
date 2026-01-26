@@ -11,7 +11,7 @@ tags:
 - iPod
 - Mac
 - Design
-title: '[Kolumne] Steve Jobs und Jonathan Ive – Resonanz zwischen Sound und Design'
+title: '[Kolumne] Steve Jobs und Jonathan Ive – Resonanz zwischen Klang und Design'
 ---
 
 
@@ -48,9 +48,9 @@ color: #fff;
 ## Chapter 1 Records und die California Air
 
 Steve Jobs war ein Produkt der kalifornischen Gegenkultur der späten 1960er und 1970er Jahre.
-Seine Bewunderung für Bob Dylan und die Beatles schon in jungen Jahren wird durch zahlreiche Biografien bestätigt.
+Viele Biografien bestätigen, dass er Bob Dylan und die Beatles schon in jungen Jahren bewunderte.
 
-In Walter Isaacsons Biografie „Steve Jobs“ (2011) gibt es in seinem Wohnzimmer einen **Röhrenverstärker und einen Plattenspieler**.
+In Walter Isaacsons Biografie „Steve Jobs“ (2011) hat er einen **Röhrenverstärker und einen Plattenspieler** in seinem Wohnzimmer.
 Es heißt, er habe jeden Abend Alben von Bob Dylan und Joan Baez gehört.
 
 > „Dylans Worte haben Seele. Sie sind nicht die Geräusche einer Maschine.“
@@ -124,7 +124,7 @@ Ive sagt: „Das Gehäuse selbst prägt den Klang“ (Interview mit Fast Company
 ## Kapitel 6 Von Schallplatten in die Cloud – Vererbung klanglicher Erinnerungen
 
 Als Jobs über das iCloud-Konzept sprach, träumte er von „einer Welt, in der Musik abgespielt werden kann, egal wo man ist.“
-Im Kern geht es um das Konzept der Wolke als eine Erweiterung des Akts, eine Schallplatte in die Hand zu nehmen und die Nadel fallen zu lassen.
+Im Kern geht es um das Konzept der Wolke als Erweiterung des Vorgangs, eine Schallplatte in die Hand zu nehmen und die Nadel fallen zu lassen.
 
 Andererseits habe ich über LoveFrom,
 Wir streben nach „taktilem Klang“, dem Gegenteil von Cloud Computing.

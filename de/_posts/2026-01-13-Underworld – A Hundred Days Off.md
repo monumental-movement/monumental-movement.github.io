@@ -14,7 +14,7 @@ title: Underworld – Hundert Tage frei
 ---
 
 
-„A Hundred Days Off“ ist das sechste Album, das 2002 von der britischen Gruppe für elektronische Musik Underworld veröffentlicht wurde, und das erste Album, nachdem Darren Emerson die Gruppe 2001 verlassen hatte. Enthält die Hymne „Two Months Off“. (Japanische Ausgabe)
+„A Hundred Days Off“ ist das sechste Album, das 2002 von der britischen Gruppe für elektronische Musik Underworld veröffentlicht wurde, und das erste Album, nachdem Darren Emerson die Gruppe 2001 verlassen hatte. Enthält die Hymne „Two Months Off“. (Japanische Version)
 
 #### Trackliste
 ```md

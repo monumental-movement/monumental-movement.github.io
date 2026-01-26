@@ -106,7 +106,7 @@ flowchart TD
     
 </div>
 
-Durch diesen Prozess erhält jedes Album ein einzigartiges Klangbild und behält gleichzeitig ein Gefühl der Einheit.
+Durch diesen Prozess erhält jedes Album ein einzigartiges Klangbild und behält gleichzeitig das Gefühl der Einheit.
 RZA übte die Koexistenz von Rauheit und Präzision und die Konstruktion einer Erzählung durch Beispielrekonstruktion.
 
 ---
@@ -136,8 +136,8 @@ Zu den repräsentativen Werken gehören:
 * **Ghost Dog: Der Weg des Samurai (1999)**
 
 * Fusion der japanischen Samurai-Kultur mit Hip-Hop
-* Song „Bird’s Theme“: Ein einfaches Drum-Pattern mit Shakuhachi- und Koto-Samples
-* RZA stärkt das **Storytelling** durch Musik und betont die Einheit von Bild und Ton
+* Lied „Bird’s Theme“: Ein einfaches Drum-Pattern mit Shakuhachi- und Koto-Samples
+* RZA stärkt das **Geschichtenerzählen** durch Musik und betont die Einheit von Bild und Ton
 
 * **„Kill Bill Vol.1 / Vol.2“ (2003/2004)**
 

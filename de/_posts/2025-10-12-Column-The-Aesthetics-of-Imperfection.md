@@ -75,9 +75,9 @@ Charli XCXs „Brat“ hat dieses Gefühl in Popmusik sublimiert.
 ---
 
 ### 2-1. Lässige Realität
-Wenn man „brat“ hört, verspürt man als Erstes die Beruhigung, „unvollendet“ zu sein.
+Wenn man „brat“ hört, verspürt man als Erstes die Behaglichkeit, „unvollendet“ zu sein.
 Der Gesang ist rau, der Mix ist statisch und die Texte werden impulsiv ausgespuckt.
-Es hat jedoch ein „rohes“ Gefühl, das in anderer Popmusik nicht zu finden ist.
+Es hat jedoch eine „rohe“ Qualität, die in anderer Popmusik nicht zu finden ist.
 Es ist eine „menschliche Note“, die das Gegenteil der Ära der Perfektion ist.
 
 ### 2-2. Das Gegenteil einer perfekten Welt
@@ -172,7 +172,7 @@ Es ist an der Zeit, diese Welt wieder zum Singen zu bringen.
 
 ---
 
-## Anhang: Die Ästhetik der Unvollkommenheit 2025 Playlist
+## Anhang: The Aesthetics of Imperfection 2025 Playlist
 ### - Vier Künstler, die die Ästhetik der Unvollkommenheit zum Ausdruck bringen -
 
 | Künstler/Album/Titel | Jahr | Beschreibung | Link |

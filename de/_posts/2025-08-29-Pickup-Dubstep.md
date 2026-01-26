@@ -49,7 +49,7 @@ B. Darqwan–Megatection
 
 Merkmale: Der Stil, der die Anfänge des Dubstep in den 2000er Jahren symbolisiert, wird stark widergespiegelt, und die Stärke des Beats und die Tiefe des Basses sind die Highlights.
 
-Reiz: Das Sounddesign von Zed Bias vereint einen Sinn für Struktur und Verspieltheit, der zu der Zeit auf dem neuesten Stand der britischen Elektronikszene war. Der Inhalt koexistiert mit spannenden Rhythmen und futuristischen Raumbeschreibungen und macht es zu einem wertvollen Sammlerstück.
+Reiz: Das Sounddesign von Zed Bias kombiniert einen Sinn für Struktur und Verspieltheit, der zu der Zeit auf dem neuesten Stand der britischen Elektronikszene war. Der Inhalt koexistiert mit spannenden Rhythmen und futuristischen Raumbeschreibungen und macht es zu einem wertvollen Sammlerstück.
 
 #### Trackliste
 ```md
@@ -76,7 +76,7 @@ B. Cosmic Minefield
 Features: Die Kombination von Distance, Skream, die seit ihrer Geburt die Dubstep-Szene anführen, und Goth-Trad, der Japan vertritt, ist eine Traumzusammenarbeit.
 
 
-Charm: Skream ist ein „destruktiver Beat“, der sich die Essenz des Originalsongs zunutze macht, während Goth-Trad eine düstere und texturorientierte Rekonstruktion ist, die man als völlig gegensätzliche Klangbilder bezeichnen kann, die in einem Album enthalten sind. Dieser Artikel hat als Klassiker einen hohen Wert und ist bei Analog-Enthusiasten und DJs sehr gefragt.
+Charm: Skream ist ein „destruktiver Beat“, der sich die Essenz des Originalsongs zunutze macht, während Goth-Trad eine düstere und texturorientierte Rekonstruktion ist, bei der es sich um völlig gegensätzliche Klangbilder handelt, die in einem Album enthalten sind. Dieser Artikel hat als Klassiker einen hohen Wert und ist bei Analog-Enthusiasten und DJs sehr gefragt.
 
 #### Trackliste
 ```md

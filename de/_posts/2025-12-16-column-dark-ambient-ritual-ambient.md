@@ -29,7 +29,7 @@ Die charakteristischen Elemente der Musik, wie Metrum, Melodie und Instrumentali
 * Räumlicher Nachhall
 *Unbekannte Tonquelle
 
-Ritual Ambient zeichnet sich dadurch aus, dass es diese Dark-Ambient-ähnliche Methode verwendet und gleichzeitig eine klare „progressive Struktur“ einführt. Ritualismus entsteht nicht durch Symbole, sondern durch die Anordnung von Klängen und die Gestaltung ihrer Dauer.
+Ritual Ambient zeichnet sich dadurch aus, dass es diese Dark Ambient-ähnliche Methode verwendet und gleichzeitig eine klare „progressive Struktur“ einführt. Ritualismus entsteht nicht durch Symbole, sondern durch die Gestaltung der Anordnung von Klängen und ihrer Dauer.
 
 
 ---
@@ -48,7 +48,7 @@ color: #fff;
 </style>
 
 
-## 2. Experimenteller Hintergrund vor der Gründung
+## 2. Experimenteller Hintergrund vor der Bildung
 
 Von den späten 1970er bis in die 1980er Jahre experimentierten Menschen im Umfeld der Industrial-Musik damit, „die Funktionen der Musik zu stoppen“.
 
@@ -237,7 +237,7 @@ Obwohl die produzierte Stückzahl begrenzt ist, behält es seinen Wert als Refer
 
 ## 16. Fazit
 
-Lustmord und Raison d’être sind die Bezugspunkte, die die Dark Ambient/Ritual Ambient-Methodik begründeten.
+Lustmord und Raison d’être sind die Bezugspunkte, die die Dark Ambient/Ritual Ambient-Methodik begründet haben.
 
 Ihr Einfluss ist keine musikalische Nachahmung;
 

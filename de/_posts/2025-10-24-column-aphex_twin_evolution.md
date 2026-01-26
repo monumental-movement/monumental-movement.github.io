@@ -20,7 +20,7 @@ title: '[Kolumne] Die Anfänge und die Gegenwart von Aphex Twin – jenseits des
 
 Text: mmr｜Thema: Vergleich der frühen Werke von Aphex Twin mit ihren aktuellen Errungenschaften und kritische Interpretation der Veränderungen in ihrer akustischen Struktur, Philosophie und Technologie.
 
-In den frühen 1990er-Jahren trat Richard D. James (Aphex Twin) als jemand hervor, der die bestehende Grammatik von Genres wie Techno und Ambient völlig auf den Kopf stellte. Seine frühen Werke sind Klangexperimente, in denen sich mechanische Träume und menschliche Illusionen vermischen, und sein aktueller Klang liegt zwischen einer Struktur künstlicher Intelligenz und einer Rückkehr zur Nostalgie.
+Richard D. James (Aphex Twin) trat Anfang der 1990er Jahre als jemand hervor, der die bestehende Grammatik von Genres wie Techno und Ambient völlig auf den Kopf stellte. Seine frühen Werke sind **Klangexperimente, bei denen Maschinenträume und menschliche Illusionen ineinandergreifen**, und sein aktueller Sound bewegt sich zwischen **künstliche Intelligenz-ähnlichen Strukturen und der Rückkehr der Nostalgie**.
 
 Im Folgenden werden wir diese „Veränderungen“ und „Unveränderungen“ auf den vier Achsen Arbeit, Technologie, Ästhetik und Ideologie vergleichen und untersuchen.
 
@@ -59,7 +59,7 @@ Es war eine Erweiterung von Brian Eno, aber mit einer persönlicheren und destru
 In den frühen EPs prägten die physischen Einschränkungen der Hardware den eigentlichen Charakter des Sounds.
 **Manuelle Fehler** wie beim Roland TB-303, SH-101 und Akai S950 prägten seine Ästhetik.
 
-Glitches (Zerstäubung von Geräuschen) und unregelmäßige Tempowechsel sind die Folge
+Es kommt zu Glitches (Zerstäubung von Geräuschen) und unregelmäßigen Tempowechseln
 Später wurde daraus der Ursprung einer Bewegung namens „IDM (Intelligent Dance Music)“.
 
 ---
@@ -105,7 +105,7 @@ Die rätselhafte Natur von Songtiteln bekräftigt das „Recht des Klangs, sich 
 
 ### 3.1 „Syro“ (2014): Fertigstellung des Akustikarchivs
 
-Sein erstes Album seit 13 Jahren, „Syro“, ist eine Fusion aus analoger Rückkehr und digitaler Bearbeitung.
+Sein erstes Album seit 13 Jahren, „Syro“, ist eine Mischung aus analoger Rückgabe und digitaler Bearbeitung.
 Alle Songs verfügen über detaillierte Credits für das verwendete Equipment,
 Aphex Twin legt nahe, dass „jeder Ton eine technische Geschichte hat“.
 
@@ -145,7 +145,7 @@ Mit anderen Worten: Seine Musik ist ein Testfeld für den Post-KI-Humanismus.
 
 Der Kern von Aphex Twin besteht darin, „fremd zu bleiben“, auch wenn sich die Zeiten ändern.
 Selbst wenn Musik in Mode kommt, lässt sein Sound immer einen „Spielraum“ übrig.
-In diesem Bereich gibt es Raum für den Zuhörer, seine eigenen Gefühle zum Ausdruck zu bringen.
+In diesem leeren Raum gibt es Raum für Zuhörer, ihre eigenen Gefühle auszudrücken.
 
 ---
 

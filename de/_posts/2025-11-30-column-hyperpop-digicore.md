@@ -197,7 +197,7 @@ flowchart LR
 - 1. DI die Gitarre → Sättigung
 - 2. Leichte Trommel (Trap-Keynote)
 - 3. Auto-Tune + Doubler
-- 4. Überlappende weinende Oberlinien
+- 4. Weinende Oberlinien schichten
 
 ---
 

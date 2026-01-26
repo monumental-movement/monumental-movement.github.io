@@ -13,9 +13,9 @@ title: Faithless – Warum gehen
 ---
 
 
-„Warum gehen?“ ist ein Lied der britischen Gruppe für elektronische Musik Faithless. Dieses Lied ist in ihrem zweiten Album „Sunday 8PM“ (1998) enthalten. Faithless ist für ihren einzigartigen Sound bekannt, der Elemente aus Trance, House und Tanzmusik vereint.
+„Warum gehen?“ ist ein Lied der britischen Gruppe für elektronische Musik Faithless. Dieses Lied ist in ihrem zweiten Album „Sunday 8PM“ (1998) enthalten. Faithless ist für ihren einzigartigen Sound bekannt, der Elemente aus Trance, House und Dance-Musik vereint.
 
-„Warum gehen?“ ist ein energiegeladener und tanzbarer Track mit Gesang von Caroline Wheeler und Bo Ramsden. Der Song besteht aus lebendigen Rhythmen, einzigartigem Sampling und emotionalen Texten und repräsentiert den charakteristischen Stil von Faithless.
+„Warum gehen?“ ist ein energiegeladener und tanzbarer Track mit Gesang von Caroline Wheeler und Bo Ramsden. Das Lied besteht aus lebendigen Rhythmen, einzigartigem Sampling und emotionalen Texten und repräsentiert den charakteristischen Stil von Faithless.
 
 „Warum gehen?“ war nach seiner Veröffentlichung auch eine erfolgreiche Single und erreichte die Spitze der britischen Single-Charts. Der Song ist zu einem ihrer Signature-Songs für Dance-Musik-Fans und Faithless-Fans geworden.
 

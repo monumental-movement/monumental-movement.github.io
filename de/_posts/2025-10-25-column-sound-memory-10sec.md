@@ -17,12 +17,12 @@ title: '[Kolumne] „10 Sekunden Klang“, der mein Leben verändert hat – Kla
 ## Prolog: Wenn Klang das „Leben“ verändert
 
 
-Text: mmr｜Thema: Fragmente von „10 Sekunden“, die mir immer wieder im Gedächtnis nachklingen
+Text: mmr｜Thema: Fragmente von „10 Sekunden“, die mir immer wieder in Erinnerung bleiben
 
 Wenn Sie auf Ihr Leben zurückblicken, gibt es Momente, in denen nur wenige Sekunden Klang Ihre Gedanken, Handlungen und den Rest Ihres Lebens verändert haben.
-Es könnte das Intro eines Liedes sein, ein Geräusch aus dem Radio, ein Riff, das man zufällig in einem Club gehört hat, oder eine Melodie, die jemand nachts an einer Straßenecke summt.
+Es könnte das Intro eines Liedes sein, ein Geräusch aus dem Radio, ein Riff, das Sie zufällig in einem Club gehört haben, oder eine Melodie, die jemand nachts an einer Straßenecke summt.
 
-In dieser Kolumne werde ich meine eigene Erfahrung mit „10 Sekunden Klang“ als Ausgangspunkt nutzen, um zu untersuchen, wie Klang mit Erinnerungen verbunden ist, Kultur prägt und unsere „Lebensweise“ beeinflusst.
+In dieser Kolumne werde ich meine eigene Erfahrung mit „10 Sekunden Klang“ als Ausgangspunkt nutzen, um zu untersuchen, wie Klang mit Erinnerungen verbunden ist, Kultur prägt und unsere Lebensweise beeinflusst.
 
 ---
 
@@ -48,7 +48,7 @@ Diese **10 Sekunden der Schleife** haben meine Hörwelt völlig neu geschrieben.
 
 Damals hörte ich Musik nur als emotionalen Ausdruck mit Texten.
 Aber diese rhythmische Wiederholung lehrte mich das Vergnügen, „Struktur vor Bedeutung“ zu haben.
-In diesem Moment wurde mir klar, dass Klang eher ein „Raum“ als eine „Botschaft“ sein könnte.
+In diesem Moment wurde mir klar, dass Klang eher ein „Raum“ als eine „Botschaft“ sein kann.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yYNEKwgkKE4?si=o3SjQ8uD3GeOIaPz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

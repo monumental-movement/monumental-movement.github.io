@@ -15,7 +15,7 @@ title: Tignino & Leo Feat. Mark Kerr – Wie kann man sich fühlen
 ---
 
 
-Ein Elektro-House-Track des italienischen DJs/Produzenten Daniele Tignino und des sizilianischen Musikers Ottavio Leo mit Mark Kerr, dem Bruder des Frontmanns der schottischen Rockband Simple Minds, Jim Kerr.
+Ein Electro-House-Track des italienischen DJs/Produzenten Daniele Tignino und des sizilianischen Musikers Ottavio Leo mit Mark Kerr, dem Bruder des Frontmanns der schottischen Rockband Simple Minds, Jim Kerr.
 
 Der erste Titel auf Seite A ist ein Remix des deutschen DJ- und Produzentenduos D-Nox & Beckers.
 

@@ -15,7 +15,7 @@ title: Yoko Kanno feat. Maaya Sakamoto – 23 Uhr Musik
 ---
 
 
-Mini-Soundtrack der NHK-Dramaserie „Midnight is another face“ mit Asaka Seto und Koji Yoshikawa in den Hauptrollen von Yoko Kanno feat. Maaya Sakamoto.
+Mini-Soundtrack der NHK-Dramaserie „Midnight is another face“ mit Asaka Seto und Koji Yoshikawa von Yoko Kanno feat. Maaya Sakamoto.
 
 #### Trackliste
 ```md

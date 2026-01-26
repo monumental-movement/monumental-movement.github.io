@@ -13,7 +13,7 @@ title: Bill & Ben – 10 Of Funk
 ---
 
 
-Bill & Bens „10“ Of Funk steckt voller Funkmusikelemente: rhythmische Beats, schwere Basslinien, Synkopen und eine mitreißende Bläsersektion.
+Bill & Bens „10“ Of Funk ist voller Funkmusikelemente: rhythmische Beats, schwere Basslinien, Synkopen und eine mitreißende Bläsersektion.
 
 Genießen Sie den funkigen und unterhaltsamen Sound von Bill & Ben, einschließlich kraftvoller Beats, einzigartiger Riffs und grooviger Rhythmen, die die Tanzfläche zum Beben bringen.
 

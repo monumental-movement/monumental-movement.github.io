@@ -21,7 +21,7 @@ title: '[Spalte] Industrial Techno / Hard Experimental Techno'
 Text: mmr｜Thema: Industrial Techno/harte experimentelle Struktur, Geschichte und Akustiktechnologie
 
 
-Industrial Techno / Hard Experimental Techno ist eine Musikform, die akustische Materialien, Schalldruck, Verzerrung und Lärm extrem in den Vordergrund stellt und gleichzeitig die repetitive zeitliche Struktur von Techno beibehält. Dieses Genre unterscheidet sich von einer musikalischen Perspektive, die sich auf emotionalen Ausdruck und Melodie konzentriert, und basiert auf den physikalischen Eigenschaften des Klangs selbst und der Kontrolle der Zeit durch Wiederholung.
+Industrial Techno / Hard Experimental Techno ist eine Musikform, die akustische Materialien, Schalldruck, Verzerrung und Lärm extrem in den Vordergrund stellt und gleichzeitig die repetitive zeitliche Struktur von Techno beibehält. Dieses Genre unterscheidet sich von einer musikalischen Perspektive, die sich auf emotionalen Ausdruck und Melodie konzentriert und auf den physikalischen Eigenschaften des Klangs selbst und der Kontrolle der Zeit durch Wiederholung basiert.
 
 Bei diesem Trend geht es nicht nur um „intensive Clubmusik“. Es entstand als Ergebnis der Anpassung der über viele Jahre in der Industriemusik, EBM, Noise und experimenteller elektronischer Musik kultivierten Vorstellungen von materieller Orientierung, Unpersönlichkeit und struktureller Überlegenheit an den streng funktionalen Raum der Tanzfläche.
 
@@ -43,7 +43,7 @@ color: #fff;
 
 ## 1. Historische Vorgeschichte: Die Schnittstelle von Industrial Music und Techno
 
-Die ab den späten 1970er Jahren entstandene Industriemusik zerstörte bewusst die moderne musikalische Prämisse von Ton, Melodie und Harmonie und behandelte nichtmusikalische Materialien wie Metallklänge, Lärm, mechanische Klänge und Bandschleifen als strukturelle Einheiten. Diese Idee, „das Material selbst in Musik umzuwandeln“, wurde zur Grundlage des späteren Sounddesigns des Industrial Techno.
+Die ab den späten 1970er Jahren entstandene Industriemusik zerstörte bewusst die moderne musikalische Prämisse musikalischer Töne, Melodien und Harmonien und behandelte nichtmusikalische Materialien wie Metallklänge, Geräusche, mechanische Klänge und Tonbandschleifen als strukturelle Einheiten. Diese Idee, „das Material selbst in Musik umzuwandeln“, wurde zur Grundlage des späteren Sounddesigns des Industrial Techno.
 
 Andererseits zeichnet sich der in den 1980er Jahren etablierte Techno durch Wiederholung, Synchronisation und gerasterte Zeit aus und hat sich in Richtung der Eliminierung menschlicher Schwankungen entwickelt. Industrial Techno entstand durch die direkte Verbindung der Zeitstruktur von Techno mit der materiellen Ausrichtung von Industrial-Musik.
 
@@ -127,7 +127,7 @@ Der Industrial Techno in Ancient Methods ist Tanzmusik, aber er fungiert als Ger
 
 ## 9. Misch- und Schalldruckdesign
 
-Bei der Mischung von Industrial Techno steht Druck über Klarheit. Eine wahllose Sättigung aller Bänder kann jedoch vermieden werden.
+Bei der Mischung von Industrial Techno steht der Druck über der Klarheit. Eine wahllose Sättigung aller Bänder kann jedoch vermieden werden.
 
 Der Tieftonbereich beschränkt sich auf Kick und Bass, der Mitteltonbereich ist das Hauptschlachtfeld für verzerrtes Material und der Hochtonbereich wird von Rauschen und Nachhall dominiert. Diese Bandaufteilung ermöglicht sowohl extremen Schalldruck als auch strukturelle Stabilität.
 
@@ -155,7 +155,7 @@ Der Körper ist vorhersehbaren Schlägen ausgesetzt und das Gehör ist unvorhers
 
 ## Abschluss
 
-Industrial Techno / Hard Experimental Techno ist kein chaotischer Lärm, sondern eine extrem kontrollierte Struktur. Dort werden Gewalt, Verzerrung und sogar Druck zu Gestaltungsobjekten.
+Industrial Techno / Hard Experimental Techno ist kein chaotischer Lärm, sondern eine äußerst kontrollierte Struktur. Dort werden Gewalt, Verzerrung und sogar Druck zu Gestaltungsobjekten.
 
 Praktiken wie Perc und Ancient Methods verschieben die Grenzen der Techno-Form und verwandeln Musik in ein Gerät, das Körper und Räume neu organisiert. Dieses Genre wird sich sowohl hinsichtlich der Struktur als auch des Klangs weiter vertiefen.
 

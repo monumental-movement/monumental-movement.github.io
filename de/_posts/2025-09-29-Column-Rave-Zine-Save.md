@@ -46,7 +46,7 @@ Sie werden oft nicht erfasst. Es wird weder in den Medien berichtet noch in der 
 
 Derzeit erregt jedoch ein DIY-Medium namens „Zine“ Aufmerksamkeit, das die Fragmente aufgreift und die Geschichte neu erzählt.
 
-Ein Zine ist keine Zeitschrift, kein Tagebuch oder Bericht. Es ist jedoch näher an den „Stimmen der beteiligten Personen“ als alle anderen. In der Rave-Kultur, die sich von Natur aus der Aufzeichnung widersetzt, haben Zines das Potenzial, als „Erinnerungshilfen“ zu dienen.
+Ein Zine ist keine Zeitschrift, kein Tagebuch oder Bericht. Es ist jedoch näher an den „Stimmen der beteiligten Personen“ als alle anderen. In der Rave-Kultur, die sich von Natur aus der Aufnahme widersetzt, haben Zines das Potenzial, als „Erinnerungshilfen“ zu dienen.
 
 ---
 
@@ -118,7 +118,7 @@ flowchart TD
 | --------- | --------------------------------- | ---------------------------------------- |
 | Kann verschwinden | Kann aufgrund eines defekten Links oder einer Löschung verschwinden | Bleibt semipermanent in Ihrem Besitz |
 | Kopieren | Unbegrenztes Kopieren möglich | Begrenzte physische Kopie = Präsenz als „Beweis“ |
-| Teilen | Sofort mit einem Klick teilen | Persönliche Zustellung/Versand = körperliches Ritual erforderlich |
+| Teilen | Sofort mit einem Klick teilen | Persönliche Zustellung/Versand = physisches Ritual |
 | Einfach Nachrichten zu senden | Jeder kann problemlos Nachrichten senden | Anstrengungen = Konzentration der Gedanken des Schöpfers |
 
 

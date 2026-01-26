@@ -79,11 +79,11 @@ Seit seinem Debüt im Jahr 2006 gilt Burial als zentrales Symbol des Post-Dubste
 Seine wichtigste Eigenschaft ist seine Fähigkeit, das Gefühl der Einsamkeit in der Stadt hervorzurufen.
 
 ### Klangeigenschaften
-- Das Vokal-Sample ist extrem in der Tonhöhe bearbeitet und enthält mehrere Formanten, was ihm ein „geschlechtsunbestimmtes“ Gefühl verleiht.
+- Das Vokal-Sample ist stark in der Tonhöhe bearbeitet und enthält mehrere Formanten, was ihm ein „geschlechtsunbestimmtes“ Gefühl verleiht.
 - Vinyl-Crackle (Plattengeräusch) in den Vordergrund rücken
-- Der Tritt ist ein leiser Angriff wie entfernter Donner mitten in der Nacht
+- Der Tritt ist ein leiser Angriff wie ein entfernter Donner mitten in der Nacht
 - Die Snare hat eine trockene Klangqualität, nicht metallisch, sondern wie „zerbrochene Holzstücke“
-- Insgesamt dominiert ein „nebliger Mitteltonbereich“, die Melodie bleibt ein kurzes Motiv.
+- Insgesamt dominiert ein „nebliger Mitteltonbereich“ und die Melodie bleibt ein kurzes Motiv.
 - Häufige Verwendung von kurzen Release-Pads, die schnell verschwinden
 
 ### Probenahmemethode
@@ -104,13 +104,13 @@ James Blake ist einzigartig darin, Post-Dubstep aus dem Kontext der Clubkultur h
 
 ### Akustische Merkmale
 - Extremer Minimalismus mit Schwerpunkt auf Klavier und Gesang
-- Der Bass ist minimal und sanft um 50 bis 70 Hz verteilt.
+- Der Bass ist minimal und sanft um 50 bis 70 Hz angeordnet.
 - Die Akkordfolge hat ein klassisches harmonisches Gefühl.
 - Unterdrücken Sie Formantenmanipulation und verwischen Sie die Grenze zwischen natürlichen Klängen und elektronischen Klängen
 - Je nach Kompressionstiefe fungiert die „Atmung“ als Rhythmus des Liedes
 
 ### Sampling-Beispiel
-- Kürzen Sie Ihre eigene Stimme, verschieben Sie sie in der Tonhöhe und wandeln Sie sie in ein obertonreiches Pad um
+- Kürzen Sie Ihre eigene Stimme, verschieben Sie sie in der Tonhöhe und verwandeln Sie sie in ein obertonreiches Pad
 - Klavierpedalgeräusch im Vordergrund mit Komprimierung
 - Kurzes Pulsgeräusch (Klick) im Tieftonbereich mischen und als Kick-Ersatz verwenden
 
@@ -135,8 +135,8 @@ James Blakes Ansatz wurde als wichtiger Wendepunkt angesehen, der „experimente
 ### 3-3 Basisgenerierung
 - Hauptsächlich Sinuswellen
 - Kurze Hüllkurve mit Attack 5~20ms, Release 100~200ms
-- Andere Schichten sind mit HPF organisiert, um die Bässe unterhalb von 60 Hz sauber zu halten
-- Die Stereoverteilung bleibt der Feldaufnahme überlassen und der Bass selbst ist monaural.
+- Andere Schichten sind mit HPF organisiert, um die Bässe unterhalb von 60 Hz klar zu halten
+- Die Stereoverteilung wird der Feldaufnahme überlassen, und der Bass selbst ist monaural.
 
 ---
 

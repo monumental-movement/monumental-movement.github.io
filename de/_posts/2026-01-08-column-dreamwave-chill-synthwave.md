@@ -22,7 +22,7 @@ Text: mmr｜Thema: Über Dreamwave/Chill Synthwave, ein Musikgenre, das in der h
 
 Dreamwave und Chill Synthwave sind vom Synthwave abgeleitete Musikstile, die seit den 2010er Jahren klar erkennbar sind. Obwohl es auf der Synthesizer-Kultur, der visuellen Ästhetik und der urbanen Nostalgie der 1980er Jahre basiert, zeichnet es sich dadurch aus, dass es Aggression und retrofuturistische Übertreibungen unterdrückt und Emotionen, Resonanz und Selbstbeobachtung betont. Dabei handelt es sich eher um ästhetische Absichten und Gestaltungsideen für das Hörerlebnis als um Genres.
 
-Dreamwave hat eine starke Tendenz, Klangbilder mit psychologischen Themen wie Fantasie, Erinnerung und Träumen zu konstruieren, während Chill Synthwave als eine Form verstanden werden kann, die das Tempo und die Struktur vereinfacht und die Hörbarkeit verbessert, die sich in Wohnräume einfügt. Die beiden überschneiden sich und interpretieren das „80er-Jahre-Emotion“ im heutigen digitalen Umfeld neu.
+Dreamwave hat eine starke Tendenz, Klangbilder mit psychologischen Themen wie Fantasie, Erinnerung und Träumen zu konstruieren, während Chill Synthwave als eine Form verstanden werden kann, die Tempo und Struktur vereinfacht und die Hörbarkeit verbessert, die sich in Wohnräume einfügt. Die beiden überschneiden sich und interpretieren das „80er-Jahre-Emotion“ im heutigen digitalen Umfeld neu.
 
 > Beide Stile haben keine klaren Grenzen und existieren kontinuierlich, wobei emotionales Design im Mittelpunkt steht.
 
@@ -45,9 +45,9 @@ color: #fff;
 
 ## Historischer Hintergrund: Neuinterpretation der Kultur der 80er Jahre
 
-Die 1980er Jahre waren eine Zeit des Übergangs von analog zu digital, und das Vokabular der elektronischen Musik erweiterte sich explosionsartig mit der Verbreitung polyphoner Synthesizer, FM-Klangquellen und des MIDI-Standards. Gleichzeitig schuf die wachsende Rolle von Heimvideos, Kabelfernsehen und Filmmusik eine starke Verbindung zwischen Musik und Bildern.
+Die 1980er Jahre waren eine Zeit des Übergangs von analog zu digital, und das Vokabular der elektronischen Musik erweiterte sich explosionsartig mit der Verbreitung polyphoner Synthesizer, FM-Klangquellen und des MIDI-Standards. Gleichzeitig schuf die wachsende Bedeutung von Heimvideos, Kabelfernsehen und Filmmusik eine starke Verbindung zwischen Musik und Bildern.
 
-Etwa im Jahr 2010, als die Internet-Sharing-Kultur ausgereifter wurde, begann man, frühere Video-, Tonquellen und Designressourcen wieder in Umlauf zu bringen. In diesem Trend war das Klangbild der 1980er Jahre nicht nur nostalgisch, sondern wurde zu einem Objekt, das mit modernem Feingefühl rekonstruiert werden musste. Dreamwave / Chill Synthwave ist als Neuinterpretation entstanden, die sich insbesondere auf das „Szenengedächtnis“ konzentriert.
+Etwa im Jahr 2010, als die Internet-Sharing-Kultur ausgereifter wurde, begannen frühere Video-, Tonquellen und Designressourcen wieder in Umlauf zu kommen. In diesem Trend war das Klangbild der 1980er Jahre nicht nur nostalgisch, sondern wurde zu einem Objekt, das mit modernem Feingefühl rekonstruiert werden musste. Dreamwave / Chill Synthwave ist als Neuinterpretation entstanden, die sich insbesondere auf das „Szenengedächtnis“ konzentriert.
 
 > Die hier genannten 1980er Jahre sind eher eine kollektive Erinnerung als eine tatsächliche Ära.
 
@@ -67,7 +67,7 @@ Klanglich spielen Juno-Pads, DX-E-Piano, chorusbearbeitete Bässe und räumliche
 
 ## Zusammenhang mit visueller Ästhetik
 
-Dreamwave / Chill Synthwave lässt sich in Kombination mit Bildern tiefer verstehen als durch die Musik allein. Städte in der Abenddämmerung, Neonlichter, Küstenlinien, Nachtfahrten und VHS-ähnliche Texturen werden häufig erwähnt.
+Dreamwave / Chill Synthwave lässt sich in der Kombination mit Bildern tiefer verstehen als die Musik selbst. Städte in der Abenddämmerung, Neonlichter, Küstenlinien, Nachtfahrten und VHS-ähnliche Texturen werden häufig erwähnt.
 
 Diese visuellen Elemente sind mit dem Tempo und der Klanggestaltung des Songs synchronisiert und erinnern den Hörer an eine Szene, die er schon einmal irgendwo gesehen hat. Bilder spielen eher die Rolle, die Situation darzustellen, als eine Geschichte zu erzählen.
 
@@ -106,7 +106,7 @@ Timecop1983 ist ein Künstler mit starken Chill-Synthwave-Aspekten und zeichnet 
 
 Obwohl die Musik von Timecop1983 BGM-artig ist, ist sie so konzipiert, dass Sie bei genauem Zuhören winzige Veränderungen im Ton und in der harmonischen Auswahl erkennen können.
 
-> Das Wesentliche an Chill Synthwave ist, dass es sich in das tägliche Leben des Hörers einfügt.
+> Das Wesentliche an Chill Synthwave ist, dass es sich in den Alltag der Zuhörer einfügt.
 
 ---
 
@@ -138,7 +138,7 @@ Dies kann sowohl mit Kopfhörern als auch mit Lautsprechern erreicht werden, da 
 
 Dreamwave / Chill Synthwave ist kein Versuch, vergangene Musikstile wiederherzustellen, sondern eine kulturelle Praxis, die Erinnerung, Emotionen und visuelle Empfindungen neu organisiert. Dort sind die 1980er Jahre das Material, nicht der Zweck.
 
-Der Grund für die Beliebtheit dieses Stils liegt darin, dass in der heutigen Informationsgesellschaft ein Bedarf an Musik besteht, die keine übertriebenen Aussagen macht. Dreamwave/Chill Synthwave existiert als Antwort auf diese Nachfrage.
+Der Grund für die Beliebtheit dieses Stils liegt darin, dass in der heutigen informationsreichen Gesellschaft ein Bedarf an Musik besteht, die keine übertriebenen Aussagen macht. Dreamwave/Chill Synthwave existiert als Antwort auf diese Nachfrage.
 
 > Diese Musik berührt leise, aber nachhaltig die Emotionen.
 

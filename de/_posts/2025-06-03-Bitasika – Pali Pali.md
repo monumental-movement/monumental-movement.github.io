@@ -15,7 +15,7 @@ title: Bitasika – Pali Pali
 ---
 
 
-Bitasika ist eine afrikanische Band unter der Leitung von BB Mo-Franck, einem Künstler aus der Demokratischen Republik Kongo und dem ersten Schlagzeuger der Shiki Theatre Company „The Lion King“. Auch der Schlagzeuger/Perkussionist Jun Watanabe JunJun ist dabei.
+Bitasika ist eine afrikanische Band unter der Leitung von BB Mo-Franck, einem Künstler aus der Demokratischen Republik Kongo und dem ersten Schlagzeuger von „Der König der Löwen“ der Shiki Theatre Company. Auch der Schlagzeuger/Perkussionist Jun Watanabe JunJun ist dabei.
 
 #### Trackliste
 ```md

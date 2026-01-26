@@ -221,7 +221,7 @@ D --> E[2020s オンライン・ストリーミング定番化]
 
 | Ära | Eigenschaften |
 | ----------- | -------------------------------- |
-| 1950er-70er Jahre | Jazz, Pop, Soul/Familie, Religion, Winterlandschaft |
+| 1950er-70er | Jazz, Pop, Soul/Familie, Religion, Winterlandschaft |
 | Mitte der 1970er Jahre | Disco-Soul-Fusion in „Christmas Jollies“ |
 | 1980er Jahre | Synth Pop/Urban Romance/Etablierung von Standard-Songs |
 | 1990er Jahre | Mariah Carey etabliert liebezentrierte moderne Popmusik |

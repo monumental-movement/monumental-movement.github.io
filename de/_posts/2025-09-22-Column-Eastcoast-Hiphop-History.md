@@ -18,7 +18,7 @@ title: '[Kolumne] Eine kurze Geschichte des Ostküsten-Hip-Hops – von der Bron
 
 Text: mmr｜Thema: Von der Geburt des East Coast Hip-Hop bis zur Gegenwart, Produzenten, Labels, Konflikte, Meisterwerke, visueller Ausdruck und Modeveränderungen
 
-Der Ostküsten-Hip-Hop begann auf den Blockpartys und an den Turntables der Bronx und eroberte die Welt mit seinen poetischen, geselligen Texten und seinem Jazz-/Soul-Sampling im Sturm. Dieser Artikel fasst Veränderungen bei wichtigen Persönlichkeiten, Produzenten, Labels, visueller Ästhetik und Mode nach Epoche sowie Referenzen und Diskographie zusammen.
+Der Ostküsten-Hip-Hop begann auf den Blockpartys und an den Turntables der Bronx und eroberte die Welt im Sturm mit seinen poetischen, geselligen Texten und seinem Jazz-/Soul-Sampling. Dieser Artikel fasst Veränderungen bei wichtigen Persönlichkeiten, Produzenten, Labels, visueller Ästhetik und Mode nach Epoche sowie Referenzen und Diskografie zusammen.
 
 ---
 

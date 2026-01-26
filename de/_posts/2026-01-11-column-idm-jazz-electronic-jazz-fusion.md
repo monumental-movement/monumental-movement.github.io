@@ -66,7 +66,7 @@ Der elektrische Jazz der 1970er Jahre legte Wert auf die Erweiterung der Rhythmu
 
 Auch im elektronischen Umfeld geht die Improvisation nicht verloren. Die Darsteller manipulieren Loops und Effekte in Echtzeit und improvisieren so die Struktur selbst. Die Improvisation erscheint hier nicht als Phrase, sondern als strukturelle Manipulation.
 
-> Die Elektronisierung hat dem Jazz den improvisatorischen Charakter nicht genommen, sondern ihn auf eine andere Ebene gebracht.
+> Die Elektronisierung hat dem Jazz den improvisatorischen Charakter nicht genommen, sondern ihn auf eine andere Ebene verschoben.
 
 ---
 
@@ -117,7 +117,7 @@ Oberflächlich betrachtet wird die einfache Wiederholung fortgesetzt, aber im In
 
 ### Polyrhythmus und Polymeter
 
-In IDM x Jazz werden Polyrhythmus, bei dem mehrere Rhythmuszyklen gleichzeitig ablaufen, und Polymeter, die unterschiedliche Taktarten haben, zusammen verwendet. Wichtig ist, dass sie mathematisch konsistent und nicht völlig chaotisch sind.
+IDM x Jazz verwendet sowohl Polyrhythmus, bei dem mehrere Rhythmuszyklen gleichzeitig ablaufen, als auch Polymeter, das eine andere Taktart hat. Wichtig ist, dass sie mathematisch konsistent und nicht völlig chaotisch sind.
 
 ### Mikro-Timing-Steuerung
 
@@ -135,9 +135,9 @@ Der Sampler und die Drum Machine bilden das rhythmische Gerüst, die DAW ist fü
 
 ### Unterschied zwischen Live und Studio
 
-Im Studio ist eine äußerst detaillierte Bearbeitung möglich, bei Live-Auftritten ist jedoch die strukturelle Flexibilität wichtiger als die Reproduzierbarkeit. Daher gestalten Interpreten Musik so, dass sie sofort zwischen mehreren Loops und Mustern wechseln kann.
+Im Studio ist eine äußerst detaillierte Bearbeitung möglich, bei Live-Auftritten ist jedoch die strukturelle Flexibilität wichtiger als die Reproduzierbarkeit. Daher entwerfen Interpreten Musik so, dass sie sofort zwischen mehreren Loops und Mustern wechseln kann.
 
-> Die Ausrüstung wird eher für die Zeitkontrolle als für die Klangfarbe ausgewählt.
+> Die Ausrüstung wird für die Zeitkontrolle und nicht für die Klangfarbe ausgewählt.
 
 ---
 

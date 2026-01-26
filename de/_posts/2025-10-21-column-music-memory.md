@@ -102,7 +102,7 @@ Zu diesem Zeitpunkt wird Musik nicht zum internen Gedächtnis eines Individuums,
 
 ---
 
-## Kapitel 5: Der Körper, der sich erinnert – Synapsen zwischen Musik, Gehirn und Emotionen
+## Kapitel 5: Der Körper, der sich erinnert – Synapsen zwischen Musik und Gehirn und Emotionen
 
 Musik wird nicht nur im Gehirn, sondern auch im Körper gespeichert.
 So wie Musiker sagen, dass ihre Hände sich an eine Phrase erinnern, wenn sie sie einmal auswendig gelernt haben.

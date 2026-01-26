@@ -84,7 +84,7 @@ Das Low Pass Gate (ein Element, das sowohl Lautstärke als auch Klangfarbe steue
 
 ---
 
-## 2. Serge Tochenin: demokratisiertes Modul
+## 2. Serge Tochenin: Demokratisiertes Modul
 
 ### 2-1. Geburt von „The People’s Synthesizer“
 
@@ -119,7 +119,7 @@ Diese Philosophie setzt sich direkt in den heutigen Max/MSP-Patches, Reaktor Blo
 | Funktionelles Design | Dedizierte Modulkonfiguration | Kombination allgemeiner Module |
 | Kontrolle | Abstrakter Spannungsbetrieb | Konkrete Signalmanipulation |
 | Akustische Trends | Organisch, dynamisch, sanft | Lineare, klare, schnelle Reaktion |
-| Kulturelle Einflüsse | Kunstklang, Installation | Noise, Techno, elektronische DIY-Musik |
+| Kulturelle Einflüsse | Kunstklang, Installation | Noise, Techno, DIY elektronische Musik |
 
 ---
 

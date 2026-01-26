@@ -13,7 +13,7 @@ title: '[Kolumne] Rhythmus der Stadtnacht: Soziologie der Clubkultur'
 ---
 
 
-## Der Moment, in dem die Nacht der Stadt einzuläuten beginnt
+## Der Moment, in dem die Nacht der Stadt zu läuten beginnt
 
 
 Text: mmr｜Thema: Entschlüsselung der Clubkultur, die sich zusammen mit Veränderungen in der sozialen Struktur von Städten entwickelt hat, aus soziologischer, kulturgeschichtlicher und technologischer Perspektive.
@@ -56,7 +56,7 @@ Da sich jeder als Niemand dem Klang hingibt, verschwinden vorübergehend die Gre
 Diskotheken dienten in den 1970er Jahren als Plattform für den Ausdruck der LGBTQ-Community und der schwarzen Kultur.
 Studio 54 und Paradise Garage waren „klangliche Emanzipationszonen“ für Menschen, die an den Rand der Gesellschaft gedrängt wurden, aber auch politische Räume.
 
-Ende der 1980er Jahre entstand mit Acid House die Rave-Kultur und flüchtete aus der Stadt.
+Ende der 1980er Jahre suchte die mit Acid House entstandene Rave-Kultur Zuflucht außerhalb der Stadt.
 Lagerhäuser, Felder, verlassene Fabriken – das Tanzen in unkontrollierten Räumen war auch eine Form des Widerstands gegen die Kontrolle der Zeit durch Staat und Kapital.
 Musik ist sowohl Protest als auch Feier.
 
@@ -118,7 +118,7 @@ Digitale Clubs könnten der Keim einer neuen Art von „öffentlichem Charakter�
 
 Die Stadtnacht war schon immer ein Spiegel, der die Schatten und Wünsche der Gesellschaft widerspiegelt.
 In ihrem Spiegel hat die Clubkultur dem grundlegenden menschlichen Wunsch nach Resonanz Gestalt verliehen.
-Auch im Zeitalter sich weiterentwickelnder KI und digitaler Technologie wird der Rhythmus der Nacht nicht verschwinden.
+Selbst in einer Zeit sich weiterentwickelnder KI und digitaler Technologie wird der Rhythmus der Nacht nicht verschwinden.
 Es ist der „Herzschlag“ des gigantischen Körpers der Stadt.
 
 ---

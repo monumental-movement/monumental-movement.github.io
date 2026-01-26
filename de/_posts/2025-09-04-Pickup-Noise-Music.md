@@ -213,7 +213,7 @@ B4. Super Blooper (Remix Live From Lee's Palace, Toronto)
 - **Wenn Sie vom königlichen Gebrüll aus eintreten** *Merzbird*/Naked Rally's.
 - *Rauchen tötet*, wenn Sie die Textur von Lärm in einem Clubkontext erleben möchten.
 - Versuchen Sie für einen **Collage-Ansatz** Hair Stylistics/Tipsy/WXBD.
-- **Für diejenigen, die ihre eigenen Sachen machen möchten**, schauen Sie sich die Eurorack-Kolumne an, um die beste Ausrüstung herauszufinden, bevor Sie sie sich anhören.
+- Für diejenigen, die ihre Ausrüstung lieber selbst herstellen möchten, schauen Sie sich die Eurorack-Kolumne an, um sich vor dem Hören über die beste Ausrüstung zu informieren.
 
 ---
 

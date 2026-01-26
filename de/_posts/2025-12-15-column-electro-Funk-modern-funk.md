@@ -47,7 +47,7 @@ color: #fff;
 
 Funk ist rhythmus- und bassgetriebene Musik. Harmonische Abfolgen werden auf ein Minimum beschränkt und die gleichen Phrasen werden über lange Zeiträume wiederholt. Diese Wiederholung ist nicht stagnierend, sondern eine dynamische Struktur, die durch Akzent-, Timing- und Klangfarbenänderungen des Interpreten ständig aktualisiert wird.
 
-Im Funk der 1970er-Jahre bildeten die Trommeln einen Groove auf der Grundlage von Sechzehntelnoten, und der Bass manipulierte den Schwerpunkt des Beats, während er sich mit der Kick verschränkte. Gitarren und Keyboards fungierten als Rhythmusinstrumente, wobei der Schwerpunkt eher auf dem Schneiden und Stechen als auf Akkorden lag.
+Im Funk der 1970er-Jahre bildeten die Trommeln einen Groove auf der Basis von Sechzehntelnoten, und der Bass manipulierte den Schwerpunkt des Beats, während er sich mit der Kick verschränkte. Gitarren und Keyboards fungierten als Rhythmusinstrumente, wobei der Schwerpunkt eher auf dem Schneiden und Stechen als auf Akkorden lag.
 
 Zu diesem Zeitpunkt hatte Funk bereits die Qualitäten einer Loop-basierten Musik, und seine spätere Digitalisierung war eine natürliche Erweiterung.
 
@@ -56,7 +56,7 @@ Zu diesem Zeitpunkt hatte Funk bereits die Qualitäten einer Loop-basierten Musi
 ## Kapitel 2: Änderungen vor der Elektronikisierung
 
 
-In den späten 1970er Jahren begannen Fortschritte in der Studiotechnologie die Art und Weise, wie Funk produziert wurde, zu verändern. Mit der Verbreitung der Mehrspuraufzeichnung wurden Aufführungen zunehmend zerlegt und als bearbeitbares Material behandelt. Dadurch wurde mehr Wert auf rhythmische Präzision und klangliche Einheitlichkeit gelegt.
+In den späten 1970er Jahren begannen Fortschritte in der Studiotechnologie die Art und Weise, wie Funk produziert wurde, zu verändern. Mit der Verbreitung der Mehrspuraufzeichnung begann man, Aufführungen aufzuschlüsseln und als Material zu behandeln, das bearbeitet werden konnte. Dadurch wurde mehr Wert auf rhythmische Präzision und klangliche Einheitlichkeit gelegt.
 
 Etwa zur gleichen Zeit wurden E-Pianos und frühe Synthesizer eingeführt, und das Keyboard wandelte sich von einem reinen Harmonieinstrument zu einem Instrument zur Wiedergabe von Klangfarben. Zu diesem Zeitpunkt wurden die Ideen für spätere Synthesizer-Bässe und elektronische Leads vorbereitet.
 
@@ -67,7 +67,7 @@ Etwa zur gleichen Zeit wurden E-Pianos und frühe Synthesizer eingeführt, und d
 
 In den frühen 1980er Jahren markierte der flächendeckende Einsatz von Drum Machines einen entscheidenden Wendepunkt. Der Rhythmus wechselt vom Spielen zum Programmieren, und Tempo und Wiederholung werden vollständig kontrollierbar. Dies entfernte einige der menschlichen Schwankungen aus dem Funk und verlieh ihm eine mechanische Präzision.
 
-Allerdings untergräbt die völlige Mechanik die Attraktivität von Funk, weshalb eine „Pseudo-Physikalität“ eingeführt wird, die Swing-Werte und Geschwindigkeitsänderungen nutzt. Diese Idee wurde vom Electro-Funk zum Modern Funk übernommen.
+Allerdings untergräbt die völlige Mechanik den Reiz von Funk, weshalb eine „Pseudo-Physikalität“ mithilfe von Swing-Werten und Geschwindigkeitsänderungen eingeführt wird. Diese Idee wurde vom Electro-Funk zum Modern Funk übernommen.
 
 Gleichzeitig wurden Synthesizer-Basslinien alltäglich, und der tiefe Bereich wurde eher von der Klanggestaltung als von der Spieltechnik dominiert.
 
@@ -76,7 +76,7 @@ Gleichzeitig wurden Synthesizer-Basslinien alltäglich, und der tiefe Bereich wu
 ## Kapitel 4: Digitale Produktionsumgebung und Modern Funk
 
 
-Seit den 1990er Jahren ist mit der Verbreitung von DAWs die individuelle Produktion zu einer realistischen Option geworden. Funk setzt nicht mehr auf große Bands, sondern auf Musik, die von einer kleinen Gruppe von Menschen oder von einem einzelnen Produzenten geschaffen werden kann.
+Seit den 1990er Jahren ist mit der Verbreitung von DAWs die individuelle Produktion zu einer realistischen Option geworden. Funk setzt nicht mehr auf große Bands, sondern wechselt zu Musik, die von einer kleinen Gruppe von Menschen oder von einem einzelnen Produzenten geschaffen werden kann.
 
 Im Modern Funk ist jedes Element klar organisiert. Es ist üblich geworden, einen Synthesizer-Bass für tiefe Frequenzen, eine programmierte Trommel für den Rhythmus und einen polyphonen Synthesizer für Akkorde zu haben, und das Frequenzmanagement in der Mix-Phase wird immer wichtiger.
 
@@ -87,7 +87,7 @@ Dieses Arrangement verfeinerte die Musik, verzichtete auf übermäßige Dekorati
 ## Kapitel 5: Struktur von Chromeo-Derivaten
 
 
-Das Chromeo-Derivat zeigt die Richtung, die Elemente des Funks zu extrahieren und mit einer minimalen Struktur zu rekonstruieren. Bläsersektionen und komplexe Gitarrenensembles werden eliminiert und der Schwerpunkt liegt auf Keyboards, Synth-Bass, Drum Machines und Gesang.
+Das Chromeo-Derivat zeigt die Richtung, die Elemente des Funks zu extrahieren und mit einer minimalen Struktur zu rekonstruieren. Bläsersektionen und komplexe Gitarrenensembles werden eliminiert und der Fokus liegt auf Keyboards, Synth-Bass, Drum Machines und Gesang.
 
 Gesang wird mehr wegen seiner akustischen Rolle als wegen seines emotionalen Ausdrucks geschätzt und durch Effektverarbeitung in die Songstruktur integriert. Der Gesang wird als eine Art Leitinstrument betrachtet und dient dazu, die Lücke zwischen Rhythmus und Akkorden zu schließen.
 

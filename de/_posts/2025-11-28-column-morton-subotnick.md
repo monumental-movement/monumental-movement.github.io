@@ -23,7 +23,7 @@ title: '[Kolumne] Morton Subotnick: Ein Innovator der elektronischen Musik und d
 
 
 
-# **序章：Morton Subotnick とは何者か**
+# **Prolog: Wer ist Morton Subotnick**
 
 Text: mmr｜Thema: Über die „kontrollierbare Zukunft“, die von Innovatoren der elektronischen Musik entwickelt wurde
 
@@ -181,7 +181,7 @@ Im Folgenden finden Sie eine Zusammenfassung der Hauptwerke Subotnicks aus struk
 | 1933 | Geboren in Los Angeles |
 | 1950er Jahre | Aktiv als Klarinettist, vertieftes Interesse an Avantgarde-Musik |
 | 1962 | Gründung des San Francisco Tape Music Center mit Oliveros, Sender und anderen |
-| 1963–65 | Beteiligt an der Entwicklung der Buchla Series 100 mit Don Buchla |
+| 1963–65 | Beteiligt an der Entwicklung der Buchla-Serie 100 mit Don Buchla |
 | 1967 | „Silberne Äpfel des Mondes“ angekündigt |
 | 1968 | „The Wild Bull“ angekündigt |
 | 1970er Jahre | Eine Reihe von Arbeiten mit dem Ghost Electronics-System |

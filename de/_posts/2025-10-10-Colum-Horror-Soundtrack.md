@@ -20,7 +20,7 @@ title: '[Kolumne] Western-Horrorfilme und ihre Soundtracks seit 2010'
 Text: mmr｜Thema: Von A24 über Blumhouse bis hin zu KI-Horror – wir enthüllen den „Horror des Klangs“, der Horrorfilme seit den 2010er Jahren dominiert, sowohl aus kulturgeschichtlicher als auch aus akustischer Sicht.
 
 In den 2010er Jahren haben sich Horrorfilme zu einer Kunstform entwickelt, die stärker auf Ton als je zuvor achtet.
-Jump-Scares gehören der Vergangenheit an und stattdessen dominieren niedrige Frequenzen, Umgebungsgeräusche und Nachhall die Scares.
+Jump-Scares gehören der Vergangenheit an und stattdessen dominieren niedrige Frequenzen, Umgebungslärm und Nachhall die Scares.
 Dies war auch eine Anwendung der psychoakustischen Entdeckung, dass das Hören die tiefere Psyche direkter beeinflusst als das Sehen.
 
 Horrorfilme dieser Zeit lösten nicht nur Angst aus, sondern „untergruben“ durch den Ton auch die innere Welt des Publikums.
@@ -52,10 +52,10 @@ Die Ankunft von A24 erhöhte den Horror in den Kontext des Kunstkinos.
 Akustisches Design, das die Grenze zwischen Stille und Lärm verwischt, war das Herzstück der A24-Ästhetik.
 
 続く[『Hereditary／ヘレディタリー』（2018）](https://amzn.to/470xAxf)では、[Colin Stetson](https://amzn.to/438tcv3)のサクソフォニック・ドローンが異様な緊張を形成する。  
-Das Atemgeräusch, die Resonanz der verzerrten Stimmzungen, die Vibrationen des tiefen Basses – diese Dinge lassen Sie die Anwesenheit einer „unsichtbaren Präsenz“ körperlich spüren.
+Das Atemgeräusch, die Resonanz der verzerrten Stimmzungen, die Vibrationen des tiefen Basses – all diese Dinge lassen Sie körperlich die Präsenz einer „unsichtbaren Präsenz“ spüren.
 
 [『Midsommar』（2019）](https://amzn.to/3WzeBFe)では、[The Haxan Cloak](https://amzn.to/4mV3nFT)、[Bobby Krlic](https://amzn.to/473kC1M) が北欧の民族儀礼音楽と電子ノイズを融合。 
-Im Gegensatz zu den sonnigen Bildern verwischte der Ton die Grenze zwischen Feierlichkeit und Wahnsinn und eröffnete dem Horror eine neue Grenze.
+Im Gegensatz zu den sonnigen Bildern verwischte der Ton die Grenze zwischen Jubel und Wahnsinn und eröffnete dem Horror eine neue Grenze.
 
 Das Horror-Soundsystem von A24 erschüttert das Publikum eher mit „Flüstern“ als mit „Schreien“.
 
@@ -121,7 +121,7 @@ Ben Frostの[『Dark』シリーズ](https://amzn.to/42B4KCn)や[『Super Dark T
 Mica Leviの[『Under the Skin』（2013）](https://amzn.to/3J4PJC6)は、エイリアン的異物感を**音階の逸脱**として提示した。  
 
 Darüber hinaus werden Horror-Soundtracks als analoge Schallplatten rezirkuliert,
-**Death Waltz** und **Waxwork Records** bewerteten Horrormusik neu als „kulturelles Erbe des Hörens“.
+**Death Waltz** und **Waxwork Records** bewerteten Horrormusik als „kulturelles Erbe des Hörens“ neu.
 Das Phänomen, dass Club-DJs Horror-Soundtracks in ihre Sets integrieren, ist weit verbreitet.
 Es war eine Zeit, in der Filmmusik und Clubkultur auf seltsame Weise miteinander verflochten waren.
 

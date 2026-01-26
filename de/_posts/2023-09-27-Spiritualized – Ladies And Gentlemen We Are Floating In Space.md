@@ -15,7 +15,7 @@ title: Spiritualisiert – Meine Damen und Herren, wir schweben im Weltraum
 
 „Spiritualized – Ladies And Gentlemen We Are Floating In Space“ ist ein Album der britischen Rockband Spiritualized.
 
-Dieses Album gilt als das Meisterwerk von Spiritualized und zeichnet sich durch seinen experimentellen Sound und die großartigen Arrangements aus. Das Album ist für seinen einzigartigen Musikstil bekannt, der Elemente aus Rock, Shoegaze und Psychedelic Rock kombiniert.
+Dieses Album gilt als das Meisterwerk von Spiritualized und zeichnet sich durch seinen experimentellen Sound und seine großartigen Arrangements aus. Das Album ist für seinen einzigartigen Musikstil bekannt, der Elemente aus Rock, Shoegaze und Psychedelic Rock kombiniert.
 
 Spiritualized wurde 1990 in Rugby, Warwickshire, England gegründet und abgesehen von Kernmitglied Jason Pearce hatte die Gruppe immer eine flexible Nebenbesetzung.
 

@@ -48,11 +48,11 @@ color: #fff;
 
 Die Ursprünge von Black Flag liegen im Gitarristen Greg Ginn. Als die Band 1976 in der Gegend von Hermosa Beach, Kalifornien, gegründet wurde, hieß sie Panic. Es war eine Zeit, in der sich Punkrock aus England und New York zu verbreiten begann und der Einfluss der Ramones und Sex Pistols deutlich zu erkennen war, doch die Szene in Südkalifornien steckte noch in den Kinderschuhen.
 
-Panic änderte kurzzeitig seinen Namen in Black Flag. Der Name bezieht sich auf das anarchistische Symbol der schwarzen Flagge und beinhaltete kein klares politisches Statement, sondern ein Gefühl der Verleugnung von Ordnung und Stabilität. Das als Logo verwendete vierzeilige Design war ein einfaches und sofort erkennbares visuelles Symbol, das zu einer der berühmtesten Ikonen der Punk-Geschichte werden sollte.
+Panic änderte kurzzeitig seinen Namen in Black Flag. Der Name bezieht sich auf das anarchistische Symbol der schwarzen Flagge und beinhaltete kein klares politisches Statement, sondern ein Gefühl der Verleugnung von Ordnung und Stabilität. Das als Logo verwendete vierzeilige Design ist ein einfaches und sofort erkennbares visuelles Symbol, das zu einer der berühmtesten Ikonen der Punk-Geschichte werden sollte.
 
 Die anfänglichen Mitglieder wechselten drastisch, wobei Gesang, Bass und Schlagzeug häufig ersetzt wurden. Diese Instabilität war eine Schwäche, aber auch ein Faktor, der die Festlegung der musikalischen Ausrichtung der Band verhinderte. Greg Ginns Gitarrenspiel war von Anfang an von übermäßiger Verzerrung und sich wiederholenden Riffs geprägt, und wir können bereits die Anfänge seiner späteren Entwicklung erkennen.
 
-> Die frühen Black Flags waren ein Impuls, bevor sie Gestalt annahmen.
+> Das frühe Black Flag war ein Impuls, bevor es Gestalt annahm.
 
 ---
 
@@ -130,7 +130,7 @@ Dieses DIY-Modell stellte einen realistischen Präzedenzfall für spätere Indie
 
 In den frühen Tagen von Black Flag waren Geschwindigkeit und Kürze ihre Waffen. In der Rollins-Zeit wurden die Songs jedoch allmählich langsamer und härter. Die Riffs wurden wiederholt und die laute Textur wurde betont.
 
-Diese Veränderung war nicht nur ein Experiment, sondern spiegelte auch das Tourleben, die körperliche Erschöpfung und die geistige Belastung wider. Mit zunehmender Aufführungszeit verändert sich auch die Beziehung zum Publikum. Inmitten des heftigen Moshs beginnt die Musik den Charakter einer Art Härtetest anzunehmen.
+Diese Veränderung war nicht nur ein Experiment, sondern auch ein Spiegelbild des Lebens auf der Straße, der körperlichen Erschöpfung und der geistigen Belastung. Mit zunehmender Aufführungszeit verändert sich auch die Beziehung zum Publikum. Inmitten des heftigen Moshs beginnt die Musik den Charakter einer Art Härtetest anzunehmen.
 
 In dieser Zeit erweiterten Black Flag die Grenzen des Hardcore und legten den Grundstein für spätere Einflüsse auf Sludge, Grunge und Alternative Rock.
 

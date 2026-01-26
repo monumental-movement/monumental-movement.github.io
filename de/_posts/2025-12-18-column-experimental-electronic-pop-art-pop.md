@@ -67,7 +67,7 @@ Der experimentelle elektronische Pop/Art Pop nutzt diese Eigenschaften aktiv aus
 
 Musikalische Werke sind seit den 2010er-Jahren fast zwangsläufig mit Bildern verknüpft. Musikvideos, Live-Videos und Kurzvideos für soziale Medien haben die Struktur der Musikrezeption verändert.
 
-Im Kontext des Art Pop ist das Video nicht als Ergänzung zum Song konzipiert, sondern als gleichwertiger Bestandteil. Ton und Video werden gleichzeitig konzipiert und das Werk weist eine Struktur auf, bei der keiner allein das Werk fertigstellen kann.
+Im Kontext des Art Pop ist das Video nicht als Ergänzung zum Song konzipiert, sondern als gleichwertiger Bestandteil. Ton und Video werden gleichzeitig konzipiert, und das Werk weist eine Struktur auf, bei der keiner allein das Werk fertigstellen kann.
 
 ---
 

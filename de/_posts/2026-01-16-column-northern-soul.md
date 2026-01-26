@@ -50,7 +50,7 @@ Der Hintergrund für die Geburt von Northern Soul waren die regionalen Unterschi
 
 In Städten wie Manchester, Wigan, Blackpool und Sheffield entwickelte sich eine Kultur, in der junge Menschen aus der Arbeiterklasse an Wochenendabenden in die Clubs strömten und stundenlang tanzten. Dort waren Lieder, die niemand kannte, die aber überwiegend tanzbar waren, wertvoller als die neuesten Hits.
 
-Wichtig ist in diesem Zusammenhang die physische und psychische Distanz zwischen Nordengland und Amerika. Soulmusik, die ihren Ursprung im amerikanischen Süden und in Detroit hatte, fand bei jungen Menschen im Norden stärkeren Anklang als in London. Dies liegt daran, dass Themen wie Arbeit, Unterdrückung und Solidarität als alltägliche Sensibilitäten geteilt wurden.
+Wichtig ist in diesem Zusammenhang die physische und psychische Distanz zwischen Nordengland und Amerika. Soulmusik, die ihren Ursprung im amerikanischen Süden und in Detroit hatte, fand im Norden stärkeren Anklang bei den jungen Menschen als in London. Dies liegt daran, dass Themen wie Arbeit, Unterdrückung und Solidarität als alltägliche Sensibilitäten geteilt wurden.
 
 > Northern Soul entstand spontan an der Schnittstelle zwischen der sozialen Struktur Nordenglands und der Körperkultur junger Menschen.
 
@@ -65,7 +65,7 @@ Das musikalische Fundament von Northern Soul liegt in der in Amerika produzierte
 
 Ein britischer Club-DJ entdeckt Werke unbekannter Künstler, die in Detroit, Chicago, Los Angeles, Philadelphia und sogar südlichen Regionen wie Alabama und Texas aufgenommen wurden. Obwohl diese Songs in den Vereinigten Staaten nie in die Charts gelangten, hatten sie die Macht, die Tanzflächen im Norden Englands in Brand zu setzen.
 
-DJs reisten direkt in die Vereinigten Staaten, um Einkäufe zu tätigen, und fanden dort versteckte Waren in Lagerhallen, Radiosendern und Plattenläden. Dadurch wurde die Rarität der Platten, die niemand sonst hatte, wertvoll und es entstand eine „einzigartige Kultur“, die es nur bei Northern Soul gibt.
+DJs reisten direkt in die Vereinigten Staaten, um Einkäufe zu tätigen, und durchsuchten dabei das Inventar, das in den Rückseiten von Lagerhäusern, Radiosendern und Plattenläden versteckt war. Dadurch wurde die Rarität von Platten, in denen sie sonst niemand hatte, wertvoll und es entstand eine „einzigartige Kultur“, die es nur bei Northern Soul gibt.
 
 > Northern Soul war eine grenzüberschreitende Kultur, die durch die Wiederentdeckung und Neubewertung schwarzer amerikanischer Musik entstand.
 
@@ -104,7 +104,7 @@ Wichtig ist, dass es sich bei diesen Stilen nicht um von oben überkommene Trend
 
 In den 1970er Jahren entstand neue Tanzmusik wie Disco, Funk und später House und die Blütezeit des Northern Soul ging zu Ende. Die Kultur selbst verschwand jedoch nicht.
 
-Auch nach der Schließung der Clubs und dem Schrumpfen der Szene bleibt Northern Soul erhalten und wird durch Sammlerkultur, Neuauflagen und retrospektive Veranstaltungen weitergegeben. Seit den 1980er Jahren gibt es eine wachsende Bewegung zu einer Neubewertung, und durch Filme und Dokumentationen ist es auch jüngeren Generationen bekannt geworden.
+Auch nach der Schließung der Clubs und dem Schrumpfen der Szene bleibt Northern Soul erhalten und wird durch Sammlerkultur, Neuauflagen und retrospektive Veranstaltungen weitergegeben. Seit den 1980er-Jahren gibt es eine wachsende Bewegung zur Neubewertung, und durch Filme und Dokumentationen ist es auch jüngeren Generationen bekannt geworden.
 
 > Northern Soul ist keine Modeerscheinung, sondern hat als Kultur überlebt, die immer wieder neu interpretiert wird.
 
@@ -148,7 +148,7 @@ timeline
 
 ---
 
-> Aus der Chronologie geht hervor, dass es sich bei Northern Soul um eine Kultur handelt, die in Kontinuität und nicht in Diskontinuität weiterbesteht.
+> Was aus der Chronologie ersichtlich ist, ist die Tatsache, dass Northern Soul eine Kultur ist, die in Kontinuität und nicht in Diskontinuität weiterbesteht.
 
 ---
 

@@ -14,7 +14,7 @@ title: Jerry Goldsmith – Ein Stück Blau
 ---
 
 
-Soundtrack des amerikanischen Films „A Patch of Blue“ von 1965. Neuauflage im Jahr 1978 veröffentlicht.
+Soundtrack des amerikanischen Films „A Patch of Blue“ von 1965. Neuauflage im Jahr 1978.
 
 Jerry Goldsmith hat Musik für über 170 Filme komponiert, darunter „Planet der Affen“, „Papillon“, „Das Omen“, „Alien“, „Poltergeist“, „Rambo“ und „Star Trek“.
 

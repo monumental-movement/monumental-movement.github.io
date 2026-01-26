@@ -15,7 +15,7 @@ title: Sir Piers Feat. Monique Bingham – Don't You Love Me The Remixes Teil 2
 ---
 
 
-Ein Haus-/Garagenhaus-Remix von Monique Binghams „Don't You Love Me“, der 2003 von Sir Piers (Piers Penfold) auf seinem eigenen Label Curious veröffentlicht wurde.
+Ein House/Garage House-Remix von Monique Binghams „Don't You Love Me“, der 2003 von Sir Piers (Piers Penfold) auf seinem eigenen Label Curious veröffentlicht wurde.
 
 Die A-Seite ist ein Remix von Louis Benedetti, der SoulShine Recordings und Thompson Studios betreibt.
 

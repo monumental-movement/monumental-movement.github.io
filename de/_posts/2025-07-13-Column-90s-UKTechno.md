@@ -21,7 +21,7 @@ Text: mmr｜Thema: Britische Technokultur
 <hr>
 
 ### Techno, eine weitere britische Revolution
-In den 1990er Jahren vertiefte sich Techno und mutierte in Klang und Geist, wie ein in Detroit geborenes Kind, das im Vereinigten Königreich aufwächst. Großbritannien nahm diese Musik nicht nur auf, sondern weitete sie vom Untergrund auf Clubs, Raves und Veranstaltungsorte für Klangexperimente aus. In diesem Artikel werden wir das Gesamtbild des britischen Techno der 90er Jahre aus der Perspektive von Kultur, Musik, Menschen und Labels behandeln.
+In den 1990er Jahren vertiefte sich Techno und veränderte sich in Klang und Geist, wie ein in Detroit geborenes Kind, das im Vereinigten Königreich aufwächst. Großbritannien nahm diese Musik nicht nur auf, sondern weitete sie vom Untergrund auf Clubs, Raves und Veranstaltungsorte für Klangexperimente aus. In diesem Artikel werden wir das Gesamtbild des britischen Techno der 90er Jahre aus der Perspektive von Kultur, Musik, Menschen und Labels behandeln.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-n8QdTg_z0?si=NwaTDszY4gy47_3y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -84,7 +84,7 @@ Ein Label, das tieferen, in Detroit ansässigen britischen Techno einführte. Au
 
 ### Starr, experimentell und rebellisch
 
-Der UK-Techno der 90er Jahre hat die folgenden klanglichen Eigenschaften:
+Der UK-Techno der 90er hat die folgenden klanglichen Eigenschaften:
 
 - Einfluss von Industrial/EBM (insbesondere Downwards-Stil)
 
@@ -94,13 +94,13 @@ Der UK-Techno der 90er Jahre hat die folgenden klanglichen Eigenschaften:
 
 - Verinnerlichung sozialer und politischer Botschaften (Einfluss der Rave-Kultur)
 
-Es ist anzumerken, dass es im Vereinigten Königreich nicht nur ein stärkeres Bewusstsein für die „Funktionalität“ von Techno gab, sondern auch für „Ausdruckskraft“ und „Nachdenklichkeit“.
+Es ist anzumerken, dass im Vereinigten Königreich nicht nur ein stärkeres Bewusstsein für die „Funktionalität“ von Techno bestand, sondern auch für „Ausdruckskraft“ und „Nachdenklichkeit“.
 
 
 <hr>
 
 ### Politik von Musik und Raum
-Der britische Techno war in den 1990er Jahren eine Kultur, die den Ort mehr schätzte als die Musik. Von illegalen Raves, die in ländlichen Lagerhäusern und auf Feldern im Freien abgehalten wurden, bis hin zu freien Party-Crews (wie Spiral Tribe), die mit auf Lastwagen geladenen Soundsystemen umherzogen, eroberte Sound den physischen Raum und brachte die bestehende Gesellschaftsordnung durcheinander.
+In den 1990er Jahren war der britische Techno eine Kultur, die den Ort mehr schätzte als die Musik. Von illegalen Raves, die in ländlichen Lagerhäusern und auf Feldern im Freien abgehalten wurden, bis hin zu freien Party-Crews (wie Spiral Tribe), die mit auf Lastwagen geladenen Soundsystemen umherzogen, eroberte Sound den physischen Raum und brachte die bestehende Gesellschaftsordnung durcheinander.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dSDJsqSGhqM?si=rvn6yH969EiyUfjC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

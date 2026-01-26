@@ -17,7 +17,7 @@ Ein Techno-Track, der 2006 auf MB Elektronics vom griechischen Techno-DJ Spiros 
 
 Spiros Kaloumeno wurde in Piräus, Griechenland, geboren und erkannte im Alter von 13 Jahren, dass Musik, insbesondere elektronische Musik, für ihn Priorität im Leben hatte.
 
-Er begann seine Karriere als Radioproduzent und seine Radiosendung wurde mittlerweile auf einem der größten Tanzmusiksender in Athen ausgestrahlt.
+Er begann seine Karriere als Radioproduzent und seine Radioprogramme wurden auf einem der größten Tanzmusiksender in Athen ausgestrahlt.
 
 Anschließend produzierte er eine Fernsehsendung, in der er Musik und Videoclips aus der Techno-Szene vorstellte, arbeitete an einem Tanzmusikmagazin und spielte als Techno-DJ in Clubs in Athen und auf Tanzfestivals in Griechenland.
 

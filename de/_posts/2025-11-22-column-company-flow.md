@@ -27,8 +27,8 @@ title: '[Kolumne] Company Flow: Der vom DIY-Geist eröffnete Horizont des altern
 
 Text: mmr｜Thema: Von der Gründung bis zur Auflösung von Company Flow, Analyse der Arbeit, Klangstruktur, Geschichte der Mitglieder, historische Bedeutung
 
-Im New York der späten 1990er Jahre, als sich Hip-Hop zu einer riesigen kommerziellen Industrie entwickelte, gab es auch eine reaktionäre Untergrundenergie um ihn herum.
-Große Musikgruppen unter der Leitung von Bad Boy Records erweiterten ihre glitzernden Klänge, doch auf der Straßenseite suchten immer mehr Künstler nach einem strengeren und politisch aufgeladeneren Ausdrucksstil.
+Im New York der späten 1990er Jahre, als sich Hip-Hop zu einer riesigen kommerziellen Industrie entwickelte, herrschte auch eine reaktionäre Untergrundenergie um ihn herum.
+Große Musikgruppen unter der Leitung von Bad Boy Records weiteten ihre glitzernden Klänge aus, doch auf der Straßenseite suchten immer mehr Künstler nach einem strengeren und politisch aufgeladeneren Ausdrucksstil.
 
 Im Mittelpunkt stand dabei **Company Flow**.
 Ihr 1997 erschienenes Album **Funcrusher Plus** ist ein Meilenstein in der Indie-Hip-Hop-Geschichte.
@@ -72,7 +72,7 @@ Als nächstes **Mr. Len** kam als DJ hinzu und vervollständigte die dreiköpfig
 # Kapitel 2: Die frühen Aktivitäten und der Indie-Geist von Company Flow (1993–1995)
 
 Nach der Bildung der Einheit hatten sie keine großen Ambitionen,
-**Wir haben Musik in unserem eigenen Tempo veröffentlicht und die Haltung bewahrt, die Autonomie der Künstler strikt zu schützen**.
+**Sie veröffentlichten Musik in ihrem eigenen Tempo und behielten die Haltung bei, die Autonomie der Künstler vehement zu schützen**.
 
 Ein Symbol dafür ist die Gründung ihres eigenen Indie-Labels **Official Recordings**.
 
@@ -227,7 +227,7 @@ Es besteht aus aufwändigen Metaphern und abstrakten Ausdrücken.
 
 „The Fire in Which You Burn“ wird aus folgenden Gründen hoch gelobt:
 
-* Repräsentative Songs, die die Politik von Company Flow deutlich machen
+* Repräsentative Lieder, die die Politik von Company Flow deutlich machen
 * Die Sounddesign-Fähigkeiten von El-P sind hervorragend.
 * Inhalte, die den Underground-Hip-Hop der späten 90er Jahre symbolisieren
 * Viele Prototypelemente späterer Werke von Def Jux (Cannibal Ox usw.) sind zu sehen.
@@ -244,7 +244,7 @@ Company Flow hat der Wahrung der Künstlerautonomie Priorität eingeräumt.
 Die Meinungsverschiedenheiten mit dem Label nahmen nach und nach zu,
 1999 verließen sie Rawkus Records.
 
-Abstand zu „Großsystemen“ halten,
+Abstand zu „Großsystemen“ wahren,
 Die erneute Hinwendung zum Indie war ein Ereignis, das die Ästhetik von Company Flow prägte.
 
 ---
@@ -276,7 +276,7 @@ Der Sound ist eindeutig zukunftsorientiert und weist einen direkten Bezug zum Kl
 # Kapitel 9: Aussetzung der Aktivitäten und Fortschritt der Mitglieder (2001–)
 
 Um 2001 wurde Company Flow inaktiv.
-Obwohl es sich dabei nicht um eine eindeutige „Auflösungserklärung“ handelt, gilt es als faktisches Ende ihrer Tätigkeit.
+Obwohl es sich dabei nicht um eine eindeutige „Auflösungserklärung“ handelt, gilt sie als faktische Beendigung ihrer Tätigkeit.
 
 Die Entwicklung der Mitglieder seitdem ist wie folgt.
 

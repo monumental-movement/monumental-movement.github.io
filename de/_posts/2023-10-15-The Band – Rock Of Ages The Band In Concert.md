@@ -15,7 +15,7 @@ title: Die Band – Rock Of Ages Die Band im Konzert
 
 The Band war eine kanadische Rockband, die von Ende der 1960er bis Anfang der 1970er Jahre aktiv war.
 
-Das 1972 veröffentlichte Live-Album „Rock Of Ages: The Band In Concert“ ist die Klangquelle eines Live-Konzerts, das im Dezember 1971 in der Academy of Music in New York stattfand.
+Das 1972 erschienene Live-Album „Rock Of Ages: The Band In Concert“ ist die Klangquelle eines Live-Konzerts, das im Dezember 1971 in der Academy of Music in New York stattfand.
 
 #### Trackliste
 ```md

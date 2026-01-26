@@ -31,8 +31,8 @@ Tribal House ist ein Subgenre, das das Four-on-the-Floor-House mit vielschichtig
 In den späten 1980er und frühen 1990er Jahren begann sich die Clubkultur in Chicago/New York von ihren Disco-basierten House-Wurzeln zu unterscheiden und zu diversifizieren. Einer seiner Ursprünge liegt darin, dass DJs ethnische und lateinamerikanische Platten aus der ganzen Welt ausgruben und der House-Musik durch Plattenbearbeitung und Sampling ein „Live-Percussion-Feeling“ überlagerten (dies war die Ära, in der die Long-Mix-Kultur der Clubs wuchs).
 
 **Sehenswürdigkeiten/Standort**
-– In den Clubs in New York und Chicago waren Anfang der 1990er Jahre DJ-Sets selbst von zentraler Bedeutung für den Ausdruck des Genres.
-- In den Anfängen war die Live-Bearbeitung mit Schallplatten und Plattenspielern der Mainstream.
+- In den Clubs in New York und Chicago waren Anfang der 1990er Jahre DJ-Sets selbst von zentraler Bedeutung für den Ausdruck des Genres.
+- In der Anfangszeit war der Live-Schnitt mit Schallplatten und Plattenspielern der Mainstream.
 
 **Repräsentative Tools (damals)**
 - ターンテーブル：<a href="https://en.wikipedia.org/wiki/Technics_SL-1200">Technics SL-1200</a> 系（現場の標準）。
@@ -60,7 +60,7 @@ In den späten 1980er und frühen 1990er Jahren begann sich die Clubkultur in Ch
 ## Transformation und Kommerzialisierung (2000er Jahre)
 
 **Hintergrund der Zeit**
-In den 2000er Jahren wurden Tribal-Elemente mit Progressive/Electro usw. verschmolzen und die Zahl abgeleiteter Genres nahm zu. Die Produktionsumgebung hat sich von einer hauptsächlich auf Hardware basierenden zu einer auf einer DAW basierenden Produktionsumgebung verlagert, wodurch es möglich wird, anspruchsvollere Sounddesigns zu erstellen.
+In den 2000er Jahren wurden Tribal-Elemente mit Progressive/Electro usw. verschmolzen und die Zahl abgeleiteter Genres nahm zu. Die Produktionsumgebung hat sich von einer Hardware-basierten zu einer DAW-basierten Umgebung verlagert, was es ermöglicht, anspruchsvollere Sounddesigns zu erstellen.
 
 **Änderung der Produktionsmethode**
 - Bearbeitung von Schlaginstrumenten unter umfangreicher Nutzung der Effektverarbeitung (Filter/Reverb/Delay).
@@ -90,7 +90,7 @@ Die Globalisierung und der Aufstieg des Streamings haben die Fusion mit Afro-Hou
 ## Chronologie der Ausrüstung (vereinfacht)
 - **1980er bis Anfang der 90er Jahre**: Technics SL-1200 (Plattenspieler), Roland TR-909/TR-808 (Drum Machine), frühe Akai/E-mu-Sampler. Referenzen: <a href="https://en.wikipedia.org/wiki/Technics_SL-1200">Technics SL-1200</a>, <a href="https://en.wikipedia.org/wiki/Roland_TR-909">Roland TR-909</a>, <a href="https://en.wikipedia.org/wiki/Akai">Akai</a>.
 - **mid 90s〜2000s**：Akai MPC シリーズやハードウェア・サンプラーの多用（<a href="https://reverb.com/news/a-brief-history-of-the-akai-mpc">Reverb — A Brief History of the Akai MPC</a>）。
-- **2010er~heute**: Hybridbetrieb von DAW (Ableton/Logic), Soft-Samples wie Kontakt und Maschine und MPC.
+- **2010er~heute**: Hybridbetrieb von DAW (Ableton/Logic), Software-Samples wie Kontakt und Maschine und MPC.
 
 ---
 
@@ -131,7 +131,7 @@ color: #fff;
 
 ---
 
-## Reise des Rhythmus
+## Rhythmusreise
 Tribal House ist nicht nur Clubmusik, sondern eine „rhythmische Reise“, die sich weltweit verbreitet hat und sich mit jeder Ära verändert. Es wird weiterhin Aufmerksamkeit erregen als ein Genre, das sich durch die Verschmelzung von Technologie weiterentwickelt und gleichzeitig seine afrikanischen Wurzeln übernimmt.
 
 

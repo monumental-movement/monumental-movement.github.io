@@ -104,7 +104,7 @@ Dunkle Farben (Schwarz, Tiefrot, Braun, Grau) überwiegen und der Kontrast wird 
 
 ### Raumverarbeitung
 
-Hall- und Verzögerungseinstellungen sind oft so konzipiert, dass sie einen großen Raum mit einem klaren Gefühl für die Entfernung zwischen den Schallquellen erzeugen. Dies ermöglicht es dem Zuhörer, die Musik als Ort zu erleben.
+Hall- und Verzögerungseinstellungen sind oft so konzipiert, dass sie einen großen Raum mit einem deutlichen Gefühl für die Entfernung zwischen den Klangquellen erzeugen. Dies ermöglicht es dem Zuhörer, die Musik als Ort zu erleben.
 
 ### Dynamik
 
@@ -126,7 +126,7 @@ Gesang spielt oft eher eine klangliche als eine sprachliche Bedeutung, und die L
 
 ---
 
-Dead Can Dance überschritt die Grenzen von Volksmusik, religiöser Musik und Ambient-Musik und hatte großen Einfluss auf den nachfolgenden neoklassischen Darkwave. Auch wenn ihre Werke schwer einem bestimmten Genre zuzuordnen sind, werden sie dennoch in Bezug auf Klangästhetik und Spiritualität als Referenz herangezogen.
+Dead Can Dance überschritt die Grenzen von Volksmusik, religiöser Musik und Ambient-Musik und hatte großen Einfluss auf den nachfolgenden neoklassischen Darkwave. Obwohl ihre Werke schwer einem bestimmten Genre zuzuordnen sind, werden sie dennoch in Bezug auf Klangästhetik und Spiritualität als Referenz herangezogen.
 
 ---
 
@@ -136,7 +136,7 @@ Dead Can Dance überschritt die Grenzen von Volksmusik, religiöser Musik und Am
 
 ---
 
-Die Streichorchestrierung, der tiefe Gesang und die religiösen Motive von Arcana stehen im Vordergrund und die Charakteristika des Genres sind klar definiert. Seine Werke sind durchweg feierlich und so konstruiert, dass sie die Weltlichkeit ausschließen.
+Arcana bringt Streicherorchestrierung, tiefen Gesang und religiöse Motive in den Vordergrund und macht es zu einem genreprägenden Stück. Seine Werke sind durchweg feierlich und so konstruiert, dass sie die Weltlichkeit ausschließen.
 
 
 > Repräsentative Künstler demonstrieren die Breite und Tiefe ihres Genres.

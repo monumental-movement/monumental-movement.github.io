@@ -93,7 +93,7 @@ Der Begriff „Future Jazz“ etablierte sich rund um Deutschlands Compost Recor
 | 2 | Jazzanova | Fedimes Flug | Verfügt über einen komplexen Rhythmus. |
 | 3 | Rainer Trüby Trio | Donaueschingen | Cluborientierter Zukunftsjazz. |
 | 4 | Trüby Trio | Galacia | Ein Lied mit starken lateinamerikanischen Elementen. |
-| 5 | De-Phazz | Der Mambo-Wahn | Pop und leicht zu hören. |
+| 5 | De-Phazz | Der Mambo-Wahnsinn | Pop und leicht zu hören. |
 | 6 | Fauna Flash | Tel Aviv | Dunkler und tiefer Beat. |
 | 7 | Koop | Walzer für Koop | Wichtige Werke aus Nordeuropa. |
 | 8 | Ein mächtiges Waldschwarz | Alles | Eine Fusion aus Downtempo und Jazz. |
@@ -154,7 +154,7 @@ Nu-Jazz verschmolz mit Electronica und stärkte den Hörstil.
 | 1 | Nils Petter Molvær | Khmer | Fusion aus Trompete und Elektro. |
 | 2 | Filmisches Orchester | Ein Haus bauen | Schöner Jazz-Hörer. |
 | 3 | Jaga-Jazzist | Alles was ich weiß ist heute Abend | Hat progressive Elemente. |
-| 4 | Bugge Wesseltoft | Existenz | Elektrojazz mit ausgeprägtem Sinn für Improvisation. |
+| 4 | Bugge Wesseltoft | Existenz | Elektro-Jazz mit einem ausgeprägten Sinn für Improvisation. |
 | 5 | Skalpell | Hoch | Polnischer Sampling-Jazz. |
 | 6 | Nostalgie 77 | Stille Morgendämmerung | Ein gefühlvolles Stück. |
 | 7 | Sidsel Endresen | Hier draußen | Experimenteller Vokaljazz. |
@@ -216,7 +216,7 @@ Im Zeitalter von Streaming und KI wurde Future Jazz neu bewertet und mit modular
 | 1 | Alfa Mist | Weiter so | Melancholischer Future Jazz. |
 | 2 | Kamaal Williams | Warte | Ein repräsentatives zeitgenössisches Jazzstück aus London. |
 | 3 | Shabaka Hutchings | Hektik | Spirituell und kraftvoll. |
-| 4 | Nubya Garcia | Tempo | Saxophon sticht heraus. |
+| 4 | Nubya Garcia | Tempo | Saxophon sticht hervor. |
 | 5 | Blue Lab Beats | Ananas | Eine Fusion aus Hip-Hop und Jazz. |
 | 6 | Kokoroko | Abusey-Kreuzung | Melancholisch und schön. |
 | 7 | Gleitkommazahlen | LesAlpx | Electronica und Jazz-Fusion. |

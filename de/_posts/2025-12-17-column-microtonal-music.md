@@ -20,7 +20,7 @@ title: '[Spalte] Mikrotonale Musik'
 
 Text: mmr｜Thema: Über den Übergang zu einer Produktionsphilosophie, die nicht von einer festen Tonhöhe ausgeht
 
-Mikrotonale Musik hat nicht nur die Prämisse moderner Musik gleichschwebender Stimmung in Frage gestellt, sondern auch die Denkeinheit in der Musikproduktion selbst verändert. In diesem Aufsatz trennen wir die Geschichte des musikalischen Temperaments, der Theorie, der akustischen Struktur und der Produktionspraxis nicht voneinander, sondern rekonstruieren sie als miteinander verbundene Bewegungen.
+Mikrotonale Musik hat nicht nur die Prämisse der modernen Musik gleichschwebender Stimmung in Frage gestellt, sondern auch die Denkeinheit in der Musikproduktion selbst verändert. In diesem Aufsatz trennen wir die Geschichte des musikalischen Temperaments, der Theorie, der akustischen Struktur und der Produktionspraxis nicht voneinander, sondern rekonstruieren sie als miteinander verbundene Bewegungen.
 
 ---
 
@@ -102,7 +102,7 @@ Diese Wahl verwandelt die Musik von einer „transponierbaren Struktur“ in ein
 
 ## 5. Harry Partch – Wiedereingliederung von Temperament, Instrument und Körper
 
-Harry Partchs Bedeutung liegt in der Tatsache, dass er mikrotonale Musik als „Ökosystem“ und nicht als „Kompositionstechnik“ konstruierte.
+Die Bedeutung von Harry Partch liegt in der Tatsache, dass er mikrotonale Musik als „Ökosystem“ und nicht als „Kompositionstechnik“ konstruierte.
 
 ### 5.1 Struktur der reinen 43-Ton-Intonation
 
@@ -156,7 +156,7 @@ Geändert in **Produktionsauswahl**.
 * Sofortige Änderung der Tuning-Tabellen
 * Frei vom Tastaturlayout
 
-Dadurch wurde das Temperament zu einem **variablen Parameter** und nicht zu einer festen Prämisse.
+Infolgedessen wurde das Temperament zu einem **variablen Parameter** und nicht zu einer festen Prämisse.
 
 ---
 
@@ -281,7 +281,7 @@ timeline
 
 ## 15. Fazit
 
-Mikrotonale Musik ist keine Übung zur Erhöhung der Tonhöhe. Dies ist ein Übergang zu einer Produktionsphilosophie, die keine feste Tonhöhe voraussetzt. Harry Partch brachte Musik zurück zum Körper und Raum, und Jacob Collier übersetzte diese Theorie in eine moderne Sensibilität. Diese Bewegung wird still und leise in den tieferen Schichten der Musikproduktion weiterarbeiten.
+Mikrotonale Musik ist keine Übung zur Erhöhung der Tonhöhe. Dies ist ein Übergang zu einer Produktionsphilosophie, die keine feste Tonhöhe voraussetzt. Harry Partch brachte Musik zurück zum Körper und Raum, und Jacob Collier übersetzte diese Theorie in eine moderne Sensibilität. Diese Bewegung wird still und leise in den Tiefen der Musikproduktion weiterarbeiten.
 
 
 ---

@@ -16,7 +16,7 @@ title: Die Belle Stars – Iko Iko
 
 Die A-Seite „Iko Iko“ ist ein Coversong von The Belle Stars, einer britischen Pop-Girlband, die 1980 in London von ehemaligen Mitgliedern von The Bodysnatchers gegründet wurde.
 
-Die Belle Stars-Version von Iko Iko war auch im Film Rain Man (mit Dustin Hoffman und Tom Cruise), dem Film Knockin' on Heaven's Door und dem Film The Hangover zu sehen.
+Die Belle Stars-Version von Iko Iko war auch in den Filmen Rain Man (mit Dustin Hoffman und Tom Cruise), Knockin' on Heaven's Door und The Hangover zu sehen.
 
 Die B-Seite „Las Vegas“ wurde vom renommierten Filmkomponisten Hans Zimmer geschrieben und war auch im Soundtrack des Films „Rain Man“ enthalten.
 

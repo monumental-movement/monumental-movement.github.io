@@ -17,7 +17,7 @@ title: DMX Krew – Nu Romantix
 
 Nu Romantix ist ein 1998 von DMX Krew veröffentlichtes Album mit einem einzigartigen Sound, der Elemente von Old-School-Elektro, Synth-Pop, Acid House und Techno kombiniert.
 
-Das Album verwendet Vintage-Synthesizer und Drum-Machines und ist eine Hommage an die elektronische Musik der 1980er und frühen 1990er Jahre, integriert aber auch zeitgenössische Elemente und wird für seine nostalgische Herangehensweise an elektronische Musik sowie seinen zukunftsweisenden Sound gelobt.
+Das Album verwendet Vintage-Synthesizer und Drum-Machines und ist eine Hommage an die elektronische Musik der 1980er und frühen 90er Jahre, integriert aber auch zeitgenössische Elemente und wird für seine nostalgische Herangehensweise an elektronische Musik sowie seinen zukunftsweisenden Sound gelobt.
 
 #### Trackliste
 ```md

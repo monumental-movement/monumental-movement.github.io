@@ -56,7 +56,7 @@ Rei Harakami ist ein in Kyoto geborener Streckenproduzent, der Ende der 1990er J
 Er präsentierte einen „privaten Raum“ und einen „introspektiven“ elektronischen Sound, der sich von der glitzernden Atmosphäre Tokios unterschied.
 
 Sein repräsentatives Frühwerk „Red Curb“ (1999) ist ein Werk, das die Rundheit analoger Synthesizer mit minimalem Rhythmus harmoniert.
-**Elektronische Musik zum alleinigen Zuhören auf dem Tatami-Boden** statt der Aufregung eines Clubs.
+**Elektronische Musik zum alleinigen Hören auf dem Tatami-Boden** statt der Aufregung eines Clubs.
 Darin liegt der „unaufdringliche Humor“ und die „sanfte Einsamkeit“, die typisch für die Menschen in Kyoto sind.
 
 Seine Lieder sind nicht auffällig, aber **je mehr man sie hört, desto mehr erweitert sich die Welt**.

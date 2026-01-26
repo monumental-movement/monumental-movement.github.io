@@ -19,7 +19,7 @@ title: '[Spalte] Geschichte von Post-Rock/Ambient und Änderungen in der Ausrüs
 Text: mmr｜Thema: Post-Rock und Ambient, von ihren Anfängen in den 1970er Jahren bis zu ihren Zukunftsaussichten
 
 Post-Rock- und Ambient-Musik haben ihren Ursprung im experimentellen Geist der 1970er Jahre und haben sich inmitten von Szenen und technologischen Innovationen weiterentwickelt.
-Hier stellen wir eine umfassende Liste von Meisterwerken, Geräten und kulturellen Hintergründen zur Verfügung, damit Sie einen Panoramablick auf die Zeit **von den 1970er bis 2020er Jahren** erhalten.
+Hier stellen wir eine umfassende Liste von Meisterwerken, Ausrüstung und kulturellen Hintergründen zur Verfügung, damit Sie einen Panoramablick auf die Zeit **von den 1970er bis 2020er Jahren** erhalten.
 
 ---
 
@@ -176,7 +176,7 @@ flowchart TD
 ### Zusammenfassung
 
 Die Geschichte der Post-Rock-/Ambient-Musik war eine Reihe von Herausforderungen: „Wie kann man Raum und Zeit mit Klang darstellen, der über den Rahmen des Rock hinausgeht?“ Von Tonbandexperimenten in den 1970er Jahren bis hin zu KI-Musik in den 2020er Jahren verschiebt sich die Entwicklung von der „Materialität des Klangs“ zur „Umweltnatur des Klangs“.
-Die Zukunft wird durch eine „immersive Klangarchitektur“, die generative KI und körperliche Empfindungen verbindet, weiter aktualisiert.
+Die Zukunft wird mit einer „immersiven Klangarchitektur“, die generative KI und körperliche Empfindungen verbindet, weiter aktualisiert.
 
 ---
 

@@ -15,7 +15,7 @@ title: A. Crash und Brixton – Kameraden aus Köln
 ---
 
 
-ドイツ出身のA. Crash (Andreas Kremer)とBrixton(Norbert Georg Brixton Wieschollek)によるスプリット・シングル。
+Split-Single von A. Crash (Andreas Kremer) und Brixton (Norbert Georg Brixton Wieschollek) aus Deutschland.
 
 „Comrades From Cologne“ ist ein Techno/Minimal/Acid-Track, der 1997 von Electric Music Foundation veröffentlicht wurde, einem Label aus Minneapolis, das sich auf analoge/modulare Synthesizer und 808/909 Drum Machines konzentriert und Ende 1993 als Abteilung von Analog Records von Freddy Fresh und Auto Kinetic gegründet wurde.
 

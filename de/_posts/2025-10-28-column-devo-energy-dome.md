@@ -65,7 +65,7 @@ DEVO war von Anfang an eine „Musikeinheit“ und ein „Multimediaprojekt“.
 Sie werden Live-Diamaterial projizieren, handgemachte Videos erstellen und Performancekunst aufführen.
 Sein früher Film „The Truth About De-Evolution“ aus dem Jahr 1976 gilt als Experimentalfilm, der die amerikanische Dekadenz dokumentiert.
 
-Der Film gewann 1977 einen Preis beim Ann Arbor Film Festival und erregte die Aufmerksamkeit von **David Bowie** und **Iggy Pop**.
+Der Film gewann 1977 einen Preis beim Ann Arbor Film Festival und erregte die Aufmerksamkeit von David Bowie und Iggy Pop.
 Danach unterzeichneten DEVO einen Vertrag mit Warner Brothers und veröffentlichten ihr Debütalbum „Q: Are We Not Men?“ A: We Are DEVO!'' (1978) mit Brian Eno als Produzent.
 
 ---
@@ -98,7 +98,7 @@ In dem Sinne, dass DEVO selbst zu einer „Marke“ wurde und die Widersprüche 
 
 ## Kapitel 5: Funktion als Pop – „Whip It“ und seine Missverständnisse
 
-Oberflächlich betrachtet klingt der Hit „Whip It“ von 1980 einfach nur nach komischem Synthie-Pop.
+Oberflächlich betrachtet klingt der Hit „Whip It“ aus dem Jahr 1980 einfach nur nach komischem Synthie-Pop.
 Der Text ist jedoch eine Parodie auf Antiheldentum und besagt: „Repariere die Welt selbst.“
 DEVOs Humor war nicht nur Unsinn, sondern fungierte als Kritik an einer medienmanipulierten Gesellschaft.
 
@@ -109,7 +109,7 @@ Dies ähnelt Warhols repetitiver Ästhetik und gilt deshalb als die erste Musikg
 
 ## Kapitel 6: Kostümkultur als Gesellschaftssatire
 
-Energy Dome parodierte mit futuristischen Uniformen den Gehorsam, während ihre Punk-Zeitgenossen ihre Rebellion mit Sicherheitsnadeln und Leder zum Ausdruck brachten.
+Energy Dome parodierte mit futuristischen Uniformen den Gehorsam, während ihre Punk-Zeitgenossen mit Sicherheitsnadeln und Leder ihre Rebellion zum Ausdruck brachten.
 „Gehorsam zu leisten ist die radikalste Form des Widerstands.“ Das war DEVOs paradoxe Botschaft.
 
 Der Aufbau lässt sich leicht in einem Diagramm wie folgt visualisieren:
@@ -192,7 +192,7 @@ Unter dem Druck, sich weiterzuentwickeln, wagten sie es, zu degenerieren.
 Vielmehr wird diese Entscheidung zu einem Mittel zur Wiederherstellung der menschlichen Freiheit.
 
 > „Wahlfreiheit ist das, was Sie haben. Wahlfreiheit ist das, was Sie wollen.“
-> ─ DEVO, Freedom of Choice (1980)
+> ─ DEVO, Freiheit der Wahl (1980)
 
 Energy Dome ist kein Helm, der die Zukunft verschließt.
 **Vielleicht ist es ein Symbol dafür, dass wir wieder die Freiheit haben zu wählen.**

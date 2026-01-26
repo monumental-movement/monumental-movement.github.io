@@ -9,13 +9,13 @@ permalink: /de/cosmic-gate-somewhere-over-the-rainbow/
 tags:
 - Trance
 - Hard Trance
-title: Kosmisches Tor – Irgendwo über dem Regenbogen
+title: Cosmic Gate – Irgendwo über dem Regenbogen
 ---
 
 
 Cosmic Gate ist ein deutsches DJ-Duo bestehend aus den Trance-Musikproduzenten Claus Terhoeven und Stefan Bossems, aktiv seit 1999.
 
-Die B-Seite „Fire Wire“ ist Cosmic Gates Signature-Song. Seit seiner Veröffentlichung wurde „Fire Wire“ von verschiedenen Künstlern remixt, darunter DJ Scott, Klubdoctorz, Rank 1, Wippenberg, Dimitri Vegas & Like Mike und DJ Delicious.
+Die B-Seite „Fire Wire“ ist der Signature-Song von Cosmic Gate. Seit seiner Veröffentlichung wurde „Fire Wire“ von verschiedenen Künstlern remixt, darunter DJ Scott, Klubdoctorz, Rank 1, Wippenberg, Dimitri Vegas & Like Mike und DJ Delicious.
 
 #### Trackliste
 ```md

@@ -17,7 +17,7 @@ title: '[Kolumne] Definition von Punk und Hardcore: der Wendepunkt von Wut und A
 
 Text: mmr｜Thema: Punk/Hardcore
 
-In den späten 1970er Jahren fühlten sich junge Menschen mit kommerzialisierter Rockmusik übersättigt und es entstand „Musik, die einfach und rau ist und vor allem ihre wahren Gefühle zum Ausdruck bringt“. Es ist Punk. Doch selbst dieser Punk-Stil begann sich irgendwann nach innen zu wenden, manchmal sogar formal. Es war Hardcore-Punk, der erneut die Flammen der Wut entfachte.
+In den späten 1970er Jahren fühlten sich junge Menschen mit kommerzialisierter Rockmusik übersättigt und es entstand „Musik, die einfach und rau ist und vor allem ihre wahren Gefühle zum Ausdruck bringt“. Es ist Punk. Allerdings begann auch dieser Punk-Stil irgendwann, sich nach innen zu wenden, manchmal sogar formal. Es war Hardcore-Punk, der erneut die Flammen der Wut entfachte.
 In dieser Kolumne befassen wir uns mit den Definitionen und Unterschieden zwischen Punk und Hardcore aus der Perspektive von Musik, Ideologie, Mode und Geschichte.
 
 
@@ -49,7 +49,7 @@ In dieser Kolumne befassen wir uns mit den Definitionen und Unterschieden zwisch
 
 In Großbritannien wurden in den 1970er Jahren eine Rezession, steigende Arbeitslosenquoten und das Gefühl der Isolation junger Menschen zu sozialen Problemen.
 
-Politisch war es die Entstehungsphase des Thatcherismus. Musik fungierte als Gegenkultur.
+Politisch war es die Entstehungsphase des Thatcherismus. Music functioned as that counterculture.
 
 
 <hr>
@@ -131,7 +131,7 @@ Politisch war es die Entstehungsphase des Thatcherismus. Musik fungierte als Geg
 </table>
 </div>
 
-Die beiden stehen jedoch nicht in einer widersprüchlichen Beziehung. Man kann sagen, dass Hardcore eine weiterentwickelte oder verzweigte Form des Punk ist, oder vielmehr kann man es so interpretieren, dass Hardcore radikaler wird, weil man versucht, die fundamentalistischen Aspekte des Punks beizubehalten.
+Die beiden stehen jedoch nicht in einer widersprüchlichen Beziehung. Man kann sagen, dass Hardcore eine weiterentwickelte oder verzweigte Form von Punk ist, oder vielmehr kann man es so interpretieren, dass Hardcore radikaler wird, weil man versucht, die fundamentalistischen Aspekte des Punks beizubehalten.
 
 
 <hr>

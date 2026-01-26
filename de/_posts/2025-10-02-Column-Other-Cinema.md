@@ -104,7 +104,7 @@ Science-Fiction nach L. Ron Hubbard und Jack Parsons.
 
 ### Einzigartige Perspektive von „Tribulation 99“
 
-Sein Film Tribulation 99: Alien Anomalies Under America aus dem Jahr 1991 ist eine Parodiedokumentation, die die amerikanische Intervention in Lateinamerika in Form einer außerirdischen Invasion darstellt. Baldwin kombinierte Elemente wie bestehende Verschwörungstheorien, UFOs und Hollow Earth, um eine satirische Darstellung der Geschichte des amerikanischen Imperialismus zu schaffen. Dieses Werk gilt als eines seiner Meisterwerke.
+Der Film Tribulation 99: Alien Anomalies Under America aus dem Jahr 1991 ist eine Parodiedokumentation, die die amerikanische Intervention in Lateinamerika in Form einer außerirdischen Invasion darstellt. Baldwin kombinierte Elemente wie bestehende Verschwörungstheorien, UFOs und Hollow Earth, um eine satirische Darstellung der Geschichte des amerikanischen Imperialismus zu schaffen. Dieses Werk gilt als eines seiner Meisterwerke.
 
 ---
 

@@ -23,7 +23,7 @@ title: Holen Sie sich Happy Hardcore-Werke
 
 Veröffentlicht: 1994/Niederländisches Happy-Hardcore-Meisterwerk
 
-Features: Ein Klassiker, der mit seiner eingängigen Melodie und positiven Energie die Eurodance-/Rave-Szene der 90er im Sturm eroberte. Auch heute noch wird es von vielen Clubs und Raves geliebt.
+Features: Ein Klassiker, der mit seiner eingängigen Melodie und positiven Energie die Eurodance-Rave-Szene der 90er im Sturm eroberte. Es wird auch heute noch von vielen Clubs und Raves geliebt.
 
 #### Trackliste
 ```md
@@ -125,7 +125,7 @@ B2. Forevermore (Original)
 
 Künstler: Der beliebte britische DJ/Produzent Mark Breeze
 
-Eigenschaften: Ein von vielen Clubs unterstützter Song mit einer mitreißenden Melodie und einem energiegeladenen Beat sowie Samples aus „Kick Your Legs In The Air“ und „Don’t Make Me Wait (Special Version)“.
+Eigenschaften: Ein Song, der von vielen Clubs unterstützt wird, mit einer mitreißenden Melodie und einem energiegeladenen Beat, sowie Samples aus „Kick Your Legs In The Air“ und „Don’t Make Me Wait (Special Version)“.
 
 #### Trackliste
 ```md

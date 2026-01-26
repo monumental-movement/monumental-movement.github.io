@@ -167,6 +167,6 @@ color: #fff;
 
 ### Euro-Musik war keine „nationale Musik“, sondern „nationaler Klang“
 Der größte Reiz der europäischen Musik der 1990er-Jahre besteht darin, dass sie zwar als „universelle Sprache“ fungiert, aber tatsächlich tief in die Kulturen und Ästhetiken jedes Landes eingebettet ist.
-Auch wenn sie ähnlich sind, unterscheiden sich die Hitze Italiens, die Härte Deutschlands und die Kühle Schwedens deutlich.
+Auch wenn sie alle ähnlich sind, unterscheiden sich die Hitze Italiens, die Härte Deutschlands und die Kühle Schwedens deutlich.
 
 Musik entsteht an der Schnittstelle von Globalem und Lokalem. Das könnte die Essenz des Euro der 1990er Jahre sein.

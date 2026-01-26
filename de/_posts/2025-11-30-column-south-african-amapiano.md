@@ -97,7 +97,7 @@ Mehreren Quellen zufolge begannen die Experimente mit Amapiano um 2012, und spä
 
 ---
 
-### Abbildung 2: Geburtsort und anfängliche Verbreitung
+### Abbildung 2: Geburtsort und anfängliche Ausbreitung
 
 <div class="mermaid">
 graph TD
@@ -142,7 +142,7 @@ Diese Zeit machte Amapiano nicht nur zu einer Township-Musik, sondern zu einem l
 
 ---
 
-### Abbildung 3: Künstlerbeziehungen während der Etablierung des Genres
+### Abbildung 3: Künstlerbeziehungen während der Genre-Etablierung
 
 <div class="mermaid">
 graph LR

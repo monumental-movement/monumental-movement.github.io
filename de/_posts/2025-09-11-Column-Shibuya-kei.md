@@ -29,7 +29,7 @@ Shibuya-kei-Sound ist eine japanische Musikbewegung, die sich Anfang der 1990er 
 ## 1980er Jahre – Eve (Keimung im Shibuya-Stil)
 ### Historischer Hintergrund
 – In den 1980er Jahren begannen japanischer City-Pop und New Wave sowohl im Inland als auch international Anerkennung zu finden.
-- Importierte Plattenläden wie „CISCO“ und „HMV Shibuya“ brachten die neuesten Sounds aus Europa und den Vereinigten Staaten zusammen und förderten die musikalischen Fähigkeiten junger Menschen.
+- Importierte Plattenläden wie „CISCO“ und „HMV Shibuya“ brachten die neuesten Klänge aus Europa und den Vereinigten Staaten zusammen und förderten die musikalischen Fähigkeiten junger Menschen.
 
 ### Repräsentatives Meisterwerk
 - [大滝詠一 — *A LONG VACATION* (1981)](https://amzn.to/4nLyN2p)  
@@ -41,7 +41,7 @@ Shibuya-kei-Sound ist eine japanische Musikbewegung, die sich Anfang der 1990er 
 - Frühe Drum-Maschinen wie Roland TR-808
 - Homerecording-Kultur mit Kassetten-MTR
 
-### Empfohlene 10 Songs (1980er)
+### 10 empfohlene Songs (1980er)
 
 <style type="text/css">
 

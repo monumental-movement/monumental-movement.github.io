@@ -17,12 +17,12 @@ title: '[Kolumne] Progressive Electronic / Berliner Schule'
 
 ## Einleitung: Die Stellung der Berliner Schule in der Geschichte der elektronischen Musik
 
-Text: mmr｜Thema: Progressive elektronische und elektronische Musik der Berliner Schule von den späten 1960ern bis zur Gegenwart
+Text: mmr｜Thema: Progressive elektronische und elektronische Musik der Berliner Schule von den späten 1960er Jahren bis zur Gegenwart
 
 
 Die elektronische Musik des 20. Jahrhunderts begann im Bereich akademischer Forschung und experimenteller Kunst. Nach der Entwicklung elektronischer Musikinstrumente in den 1920er und 1930er Jahren, der Magnetbandtechnologie nach dem Krieg und der Gründung von Musique Concrète- und elektronischen Musikstudios in den 1950er Jahren begann sich in den späten 1960er Jahren ein Umfeld zu entwickeln, das es einzelnen Komponisten ermöglichte, elektronische Musik außerhalb des Studios zu schaffen. Inmitten dieser Veränderung entstand vor allem in Westdeutschland eine Reihe progressiver elektronischer Musik, die später unter dem Sammelbegriff „Berliner Schule“ bekannt wurde.
 
-Die Berliner Schule ist keine einheitliche Bewegung und keine offizielle Schule im eigentlichen Sinne. Es handelt sich um einen Namen, der in der späteren Musikgeschichtsforschung und -kritik als Ergebnis der Arbeit mehrerer Komponisten in einem gemeinsamen Ballungsraum, einem gemeinsamen technischen Umfeld und mit gemeinsamen musikalischen Interessen vereinheitlicht wurde. Im Mittelpunkt stehen Komponisten und Projekte wie Tangerine Dream, Klaus Schulze und Ash Ra Tempel (später Ashra).
+Die Berliner Schule ist keine einheitliche Bewegung und keine offizielle Schule im eigentlichen Sinne. Es handelt sich um einen Namen, der in der späteren Musikgeschichtsforschung und -kritik als Ergebnis der Arbeit mehrerer Komponisten in einem gemeinsamen Ballungsraum, einem gemeinsamen technologischen Umfeld und gemeinsamen musikalischen Interessen vereinheitlicht wurde. Im Mittelpunkt stehen Komponisten und Projekte wie Tangerine Dream, Klaus Schulze und Ash Ra Tempel (später Ashra).
 
 ---
 
@@ -50,7 +50,7 @@ In den 1960er Jahren erschienen modulare Synthesizer. Es wurde möglich, Tonhöh
 
 ### Berührungspunkt zwischen Rock und Avantgarde
 
-Gleichzeitig nahm in Westdeutschland eine Bewegung zur Verschmelzung von Rock- und Avantgarde-Kunst Fahrt auf. Als Reaktion auf den britischen und amerikanischen Rock entstanden Gruppen, die Improvisation, Wiederholung und elektronische Klänge aktiv einbauten. Der Kontext dessen, was später „Krautrock“ genannt wurde, und der elektronischen Musik der Berliner Schule entwickelte sich in einer geographisch und menschlich überschneidenden Weise.
+Gleichzeitig nahm in Westdeutschland eine Bewegung zur Verschmelzung von Rock- und Avantgarde-Kunst Fahrt auf. Als Reaktion auf den britischen und amerikanischen Rock entstanden Gruppen, die Improvisation, Wiederholung und elektronische Klänge aktiv einbezogen. Der Kontext dessen, was später „Krautrock“ genannt wurde, und der elektronischen Musik der Berliner Schule entwickelte sich in einer geographisch und menschlich überschneidenden Weise.
 
 ---
 
@@ -82,7 +82,7 @@ Das markanteste Element der Berliner Schule ist das wiederholte Klangmuster, das
 
 ### Langformat
 
-Während traditionelle Pop- und Rockmusik auf mehrminütige Liedstrukturen setzt, ist es in der Berliner Schulmusik keine Seltenheit, dass ein einzelnes Lied über 20 Minuten dauert. Dies ist eine Form, die durch die Entwicklung improvisatorischer Darbietungs- und Aufnahmetechnologien ermöglicht wurde.
+Während herkömmliche Pop- und Rockmusik auf mehrminütige Songstrukturen setzt, ist es in der Berliner Schulmusik keine Seltenheit, dass ein einzelner Song über 20 Minuten dauert. Dies ist eine Form, die durch die Entwicklung improvisatorischer Darbietungs- und Aufnahmetechnologien ermöglicht wurde.
 
 ### Tondesign
 
@@ -114,7 +114,7 @@ Im 21. Jahrhundert werden modulare Synthesizer neu bewertet. Die Methode der Ber
 
 ## Kapitel 7 Detaillierte Analyse der technischen Grundlagen
 
-In diesem Kapitel werden wir die spezifischen technischen Elemente, die die Berliner Schule begründeten, organisieren, indem wir sie in drei Schichten unterteilen: Musikinstrumente, Steuerungssysteme und Aufnahmetechniken.
+Dieses Kapitel organisiert die spezifischen technischen Elemente, die die Berliner Schule begründeten, indem es sie in drei Schichten unterteilt: Musikinstrumente, Steuerungssysteme und Aufnahmetechniken.
 
 ### Analoger modularer Synthesizer
 
@@ -136,7 +136,7 @@ Mehrspuraufnahmen und Tonbandbearbeitung spielten in der frühen Berliner Schule
 
 ## Kapitel 8 Analyse der Struktur repräsentativer Werke
 
-In diesem Kapitel werden wir die Namen bestimmter Werke nicht auflisten, sondern sie als überprüfbare Strukturtypen analysieren.
+In diesem Kapitel werden wir die Namen bestimmter Werke nicht auflisten, sondern sie als bestätigbare Strukturtypen analysieren.
 
 ### Einzelsequenz-Erweiterungstyp
 
@@ -154,11 +154,11 @@ Ein Format, das Live- oder Studioimprovisationen als Material nutzt und durch Po
 
 ## Kapitel 9 Verbindung zur Filmmusik
 
-Ab den späten 1970er Jahren weiteten die Komponisten der Berliner Schule ihre Aktivitäten auf den Bereich der Filmmusik aus. Lang anhaltende Klänge, repetitive Verläufe und elektronische Töne haben eine hohe Affinität zur Zeitachse von Bildern.
+Ab Ende der 1970er Jahre weiteten Komponisten der Berliner Schule ihre Aktivitäten auf den Bereich der Filmmusik aus. Lang anhaltende Klänge, repetitive Verläufe und elektronische Töne haben eine hohe Affinität zur Zeitachse von Bildern.
 
 Die Methode der Filmmusik der Berliner Schule zeichnet sich dadurch aus, dass sie eher auf räumliche Gestaltung als auf melodiegetriebene Musik setzt. Anstatt eine Geschichte zu illustrieren, spielt Musik eine Rolle beim Aufbau einer psychologischen und physischen Umgebung.
 
-Diese Praxis wurde von der späteren filmischen Ambient- und Sounddesign-orientierten elektronischen Musik übernommen.
+Diese Praxis wurde in die spätere filmische Ambient- und Sounddesign-orientierte elektronische Musik übernommen.
 
 ---
 

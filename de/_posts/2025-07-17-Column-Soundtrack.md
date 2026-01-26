@@ -25,7 +25,7 @@ Text: mmr｜Thema: Aufnahme, Wiedergabe und Erleben von Filmmusik
 Filmmusik besteht aus musikalischer Begleitung (Hintergrundmusik) und
 Es handelt sich um ein „anderes Skript“, das verwendet wird, um menschliche Emotionen zusammen mit visuellen Bildern wie dem Einfügen von Liedern zu steuern.
 
-Während Filmmusik Teil des Films selbst ist, ist sie auch ein eigenständiges Kunstwerk, das für sich allein erlebbar ist. In diesem Artikel werden wir herausfinden, wie diese Filmmusik im Laufe der Zeit aufgenommen, verbreitet, aufgenommen und aufbewahrt wurde.
+Filmmusik ist zwar Teil des Films selbst, aber auch ein eigenständiges Kunstwerk, das für sich allein erlebbar ist. In diesem Artikel werden wir herausfinden, wie diese Filmmusik im Laufe der Zeit aufgenommen, verbreitet, aufgenommen und aufbewahrt wurde.
 
 
 <hr>
@@ -74,7 +74,7 @@ Seit den 1980er Jahren erfreut es sich als Format mit hoher Klangqualität, lang
 
 Es wurde möglich, vollständige Partituren aufzunehmen, was ein goldenes Zeitalter für die Wertschätzung von Filmmusik einläutete.
 
-Es sind auch auf Soundtracks spezialisierte Labels erschienen (La-La Land Records, Intrada, Varese Sarabande usw.).
+Es treten auch auf Soundtracks spezialisierte Labels auf (La-La Land Records, Intrada, Varese Sarabande usw.).
 
 ■DVD/Blu-ray: Video + Musik
 
@@ -88,7 +88,7 @@ Verkauf von Musikquellen auf iTunes und Amazon MP3.
 
 Auch unabhängige Filmkomponisten werden auf Plattformen wie Bandcamp vorgestellt.
 
-Vollständige Partituren, unveröffentlichte Songs und alternative Takes können in hoher Auflösung verbreitet werden.
+Vollständige Partituren, unveröffentlichte Songs und alternative Takes können in hoher Auflösung geliefert werden.
 
 ■Abonnement (Spotify / Apple Music usw.)
 

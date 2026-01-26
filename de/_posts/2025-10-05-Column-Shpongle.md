@@ -345,7 +345,7 @@ Der Klang geht über Wissenschaft, Philosophie, Religion und Technologie hinaus.
 Er rekonstruiert das menschliche Bewusstsein selbst als Klang.
 
 Es ist nicht nur Musik.
-Es ist eine Weiterentwicklung des Aktes des „Zuhörens“ selbst,
+Es ist die Weiterentwicklung des Aktes des „Zuhörens“ selbst,
 Es ist das Mandala des Bewusstseins, das Raja Ram und Simon Posford der Menschheit hinterlassen haben.
 
 > „Klang wird geboren, verschwindet und kehrt wieder zurück. Das ist Shpongle.“

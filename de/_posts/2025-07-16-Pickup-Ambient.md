@@ -28,7 +28,7 @@ Veröffentlicht: 2012 (US-Label Kimochi)
 
 Format: Limitiert auf 200 Alben (Vinyl)
 
-Features: Werke, die tiefe Grooves und räumliche Klanglandschaften kombinieren
+Features: Werke, die tiefe Grooves und räumliche Klanglandschaften verbinden
 
 #### Trackliste
 ```md
@@ -191,7 +191,7 @@ Veröffentlicht: 2004 (Etikett minimieren)
 
 Format: Vinyl
 
-Eigenschaften: Aus Irland, exzellentes Werk minimaler Ambient-Musik.
+Eigenschaften: Aus Irland, exzellentes Werk minimalistischer Ambient-Musik.
 
 #### Trackliste
 ```md
@@ -260,7 +260,7 @@ Veröffentlichung: 1992
 
 Format: CD
 
-Features: Fusion aus Volksmusik und elektronischen Klängen, Grammy-Nominierung, Signature-Song „Sweet Lullaby“ inklusive
+Features: Fusion aus Volksmusik und elektronischen Klängen, Grammy-Nominierung, inklusive Signature-Song „Sweet Lullaby“.
 
 #### Trackliste
 ```md

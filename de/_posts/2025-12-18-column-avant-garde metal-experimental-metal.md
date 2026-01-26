@@ -45,7 +45,7 @@ color: #fff;
 
 ## Strukturannahmen in Metall
 
-Um Avantgarde-Metal zu verstehen, muss zunächst geklärt werden, worauf normaler Metal basiert.
+Um Avantgarde-Metal zu verstehen, muss zunächst geklärt werden, was die Prämisse hinter regulärem Metal ist.
 
 Traditionelles Metall wurde als eine Sammlung struktureller Annahmen wie die folgenden gebildet.
 
@@ -71,7 +71,7 @@ Der Grund, warum Avantgarde-Metal als schwierig empfunden wird, liegt nicht an s
 
 In den späten 1980er und frühen 1990er Jahren wurde der Death Metal in Bezug auf Geschwindigkeit, Schalldruck und Dichte rasch extremer. Allerdings erreichte die quantitative Expansion schließlich einen Sättigungspunkt und einige Künstler begannen, die Struktur selbst in Frage zu stellen.
 
-An diesem Wendepunkt wurde der Avantgarde-Metal geboren. Anstatt die Geschwindigkeit und das Gewicht weiter zu erhöhen, wurde die Entscheidung getroffen, die strukturellen Bedingungen, unter denen sie errichtet wurden, abzubauen.
+An diesem Wendepunkt wurde Avantgarde-Metal geboren. Anstatt die Geschwindigkeit und das Gewicht weiter zu erhöhen, wurde die Entscheidung getroffen, die strukturellen Bedingungen, unter denen sie errichtet wurden, abzubauen.
 
 ---
 
@@ -152,7 +152,7 @@ flowchart TD
 
 ---
 
-## Atemrhythmus
+## Rhythmusatmung
 
 Ihr Rhythmus ist kein Takt, sondern eher ein Atemzug oder die Länge einer Geschichte. Das Tempo ist nicht festgelegt und das Schlagzeug spielt eher eine Rolle bei der Regulierung der räumlichen Dichte als als Zeitmesser.
 
@@ -160,13 +160,13 @@ Ihr Rhythmus ist kein Takt, sondern eher ein Atemzug oder die Länge einer Gesch
 
 ## Albumanalyse: Maudlin of the Well „Bath“
 
-In „Bath“ sind der intensive Metal-Teil und der ruhige Kammermusik-Teil klar getrennt, existieren aber dennoch im selben Lied nebeneinander. Die Struktur ist nicht linear, sondern verläuft als Bewegung im psychologischen Raum.
+In „Bath“ sind der intensive Metal-Teil und der ruhige Kammermusik-Teil klar getrennt, koexistieren jedoch innerhalb desselben Liedes. Die Struktur ist nicht linear, sondern verläuft als Bewegung im psychologischen Raum.
 
 ---
 
 ## Albumanalyse: Maudlin of the Well „Leaving Your Body Map“
 
-In dieser Arbeit geht die Trennung der Strukturen noch weiter. Die Lieder sind als Übergänge von Zuständen und nicht als Entwicklungen strukturiert, und das Konzept des Höhepunkts verschwindet praktisch.
+In dieser Arbeit geht die Trennung der Strukturen noch weiter. Die Lieder sind eher als Übergänge von Zuständen denn als Entwicklungen strukturiert, und das Konzept des Höhepunkts verschwindet praktisch.
 
 ---
 

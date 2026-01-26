@@ -64,7 +64,7 @@ Mitte der 1950er Jahre meldete sich Gaye zur US-Luftwaffe, wurde aber aufgrund s
 Schließlich zog er in die Gegend von Detroit/Motown und ergriff 1961 die Gelegenheit, sein Debüt als Solosänger zu geben.
 
 ### Begegnung mit Motown
-Eine Begegnung mit Berry Gordy, dem Gründer des Motown-Labels, ebnete ihm den Weg, Solosänger zu werden. Nach seinem Debüt, als er sich an Motowns System der Massenproduktion von Hits für junge Leute anpasste, entwickelte er ein Verlangen nach „Liedern für Erwachsene“ und „einer Stimme, die Bände spricht“.
+Eine zufällige Begegnung mit Berry Gordy, dem Gründer des Motown-Labels, ebnete ihm den Weg, Solosänger zu werden. Nach seinem Debüt, als er sich an Motowns System der Massenproduktion von Hits für junge Leute anpasste, entwickelte er ein Verlangen nach „Liedern für Erwachsene“ und „einer Stimme, die Bände spricht“.
 Während dieser Zeit wurde ihm allmählich klar, dass er vom „einfachen Singen“ zum „Sprechen durch Lieder“ übergehen konnte.
 
 ---
@@ -99,7 +99,7 @@ In dieser Zeit erlebte Gaye die Freude am Schaffen, aber auch das Scheitern der 
 
 ### „Here, My Dear“ (1976) – Etablierung als Beichtalbum
 1976 veröffentlichte er das Album Here, My Dear, das die Bedingungen seiner Scheidung von seiner Frau Anna Gordy widerspiegelte. Obwohl dies kein kommerzieller Erfolg war, wurde es als „Geständnisalbum“ positioniert, das später neu bewertet wurde.
-Nach der Veröffentlichung dieses Albums war Gaye sowohl körperlich als auch geistig erschöpft und erreichte einen Wendepunkt in seinem Leben.
+Nach der Veröffentlichung dieses Albums war Gaye körperlich und geistig erschöpft und erreichte einen Wendepunkt in seinem Leben.
 
 
 ---
@@ -143,7 +143,7 @@ Marvin Gaye war nicht nur ein Hitmacher, sondern auch jemand, der Künstlern den
 Darüber hinaus zeigte der Einsatz des Roland TR-808 bei „Midnight Love“ auch neue Möglichkeiten für die Fusion von elektronischem Equipment und Soulmusik auf.
 
 ### Persönliches seltsames Schicksal
-Gays Leben ist erfüllt von dem „merkwürdigen“ Schicksal häuslicher Gewalt in der Kindheit, zerbrochener Liebe, finanziellen und Drogenproblemen und der Erschießung durch seinen Vater. Dieser Trend geht über den Rahmen eines bloßen „tragischen Sterns“ hinaus und offenbart ein menschliches Bild eines Mannes, dessen „Talent und Leid“ ineinandergreifen.
+Gays Leben ist erfüllt von dem „merkwürdigen“ Schicksal häuslicher Gewalt in der Kindheit, zerbrochener Liebe, finanziellen und Drogenproblemen und der Erschießung durch seinen Vater. Dieser Trend geht über den Rahmen eines bloßen „tragischen Sterns“ hinaus und offenbart das menschliche Bild eines Mannes, dessen „Talent und Leid“ ineinandergreifen.
 Wenn man darüber hinaus aus der „Was wäre wenn“-Perspektive darüber nachdenkt, kommen einem viele Hypothesen in den Sinn: Was wäre, wenn er die Beziehung zu seinem Vater abgebrochen hätte, was wäre, wenn er nicht vollständig im Motown-System gefangen gewesen wäre, was wäre, wenn er weitergelebt hätte? Sie zeugen von einem „seltsamen Leben“, in dem Zufall und Notwendigkeit ineinander greifen.
 
 ### Neubewertung und Erweiterung des Ausdrucks in der Neuzeit

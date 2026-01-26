@@ -51,7 +51,7 @@ color: #fff;
 Seine Musikalität ist vielschichtig. AOR, Soul, Funk, Jazz, Disco – basierend auf westlicher schwarzer Musik vereinten sie japanische melodische Schönheit und Poesie. Tatsuro Yamashitas präzise Stimmharmonie, Mariya Takeuchis süße, aber herzzerreißende Melodie und Eiichi Otakis strukturierte Produktion. Sie alle fungierten als „japanische Neudefinition von Pop“.
 
 Die Themen dieser Musik werden in Motiven wie Liebe, Nachtleben, Einsamkeit und Bewegung zusammengefasst. Obwohl es in einer Stadt spielt, herrscht ein gewisses Gefühl des Zurückgelassenwerdens.
-Es handelte sich um ein „privates Landschaftsgemälde“, das den Reichtum und die Leere, die das schnelle Wirtschaftswachstum mit sich brachte, als persönliches Gefühl darstellte. Deshalb findet es bei modernen Zuhörern im Ausland großen Anklang. Denn in einer Zeit der Urbanisierung und Digitalisierung sind auch sie mit der gleichen Einsamkeit konfrontiert.
+Es handelte sich um ein „privates Landschaftsgemälde“, das den Reichtum und die Leere, die das schnelle Wirtschaftswachstum mit sich brachte, als persönliches Gefühl darstellte. Deshalb findet es bei modernen Zuhörern im Ausland großen Anklang. Mit fortschreitender Urbanisierung und Digitalisierung sind auch sie mit der gleichen Einsamkeit konfrontiert.
 
 ---
 
@@ -74,7 +74,7 @@ Die Akkordfolge verwendet häufig die Dur-7 und -9, wodurch ein schwebendes Gef�
 Obwohl der Rhythmus AOR-ähnlich ist, nimmt er die Disco- und Soul-Trends der Zeit auf und zeichnet sich durch einen leichten Groove von etwa 110 BPM aus.
 
 In Bezug auf die Aufnahme glänzt die „Ästhetik des Raums“, die von der analogen Ausrüstung und den erfahrenen Ingenieuren der damaligen Zeit geschaffen wurde.
-Die Hallverarbeitung und der Präzisions-EQ des Studios sorgten für Transparenz und Feuchtigkeit.
+Die Hallverarbeitung und EQ-Präzision des Studios erreichten sowohl „Transparenz“ als auch „Feuchtigkeit“.
 Insbesondere Tatsuro Yamashitas „SPACY“ (1978) wird als monumentales Werk überliefert, das die Kunstfertigkeit der Studioaufnahme an ihre ultimative Grenze brachte.
 Die Perfektion dieses Klangs ist einer der Gründe, warum er mehr als 40 Jahre später in Übersee „entdeckt“ wurde.
 
@@ -88,7 +88,7 @@ An ihrer Stelle entstand „individualistischere Selbstdarstellungsmusik“ wie 
 
 Allerdings zeichnete sich im Untergrund ein anderer Trend ab. DJs entdeckten die japanische Musik der 1980er Jahre als seltenen Groove in der Clubkultur wieder.
 Kompilationen wurden von DJ MURO, DJ Nori, Gilles Peterson und anderen erstellt, und Plattenkäufer auf der ganzen Welt suchten nach der japanischen Version.
-Mit anderen Worten: Der City-Pop starb nicht vollständig aus, sondern lebte ruhig „am Boden der Erinnerung“ weiter.
+Mit anderen Worten, der City-Pop starb nicht vollständig aus, sondern lebte ruhig „am Boden der Erinnerung“ weiter.
 
 ---
 
@@ -110,7 +110,7 @@ Obwohl sie nichts über die 80er Jahre wissen, teilen sie durch Daten die „Eri
 
 ## 7. Die Perspektive ausländischer DJs: Vom Zuhören auf der Tanzfläche
 
-Überall brachten DJs City Pop in Clubs: Frankreich, Südkorea, London, LA.
+Überall brachten DJs City Pop in die Clubs: Frankreich, Südkorea, London, LA.
 Night Tempo, Yung Bae und Macross 82-99 gehören zu den bekanntesten.
 Sie probierten und interpretierten City-Pop neu und schufen so ein neues Genre namens „Future Funk“.
 
@@ -129,7 +129,7 @@ Die im Internet entstandene Vaporwave-Kultur ist von zentraler Bedeutung, wenn e
 Dieses Genre kombiniert digitalen Lärm und Nostalgie durch das Ausschneiden und Einfügen vergangener Werbemusik und japanischer Samples.
 Infolgedessen wurde die japanische Kultur aus den 1980er Jahren als „anonyme Zukunft“ umfunktioniert.
 
-Ebenso ist Lo-Fi-Hip Hop mit der Hintergrundmusik-Kultur von YouTube verbunden und verbreitet sich als „japanische 80er-Jahre-Stimmung“.
+Ebenso ist Lo-Fi-Hip Hop mit der Hintergrundmusik-Kultur von YouTube verbunden und wird als „japanische 80er-Jahre-Stimmung“ verbreitet.
 Ein Ausschnitt aus City-Pop, der als Hintergrundmusik zum Lernen gespielt wurde, wurde Hunderte Millionen Mal abgespielt.
 Mit anderen Worten: Der Kontext der Musik wurde völlig dekonstruiert und japanische Popmusik ist zu einem Material für globale Emotionen geworden.
 Hierin liegt die Essenz der „digitalen Nostalgie“, die über die kulturelle Übersetzung hinausgeht.
@@ -148,7 +148,7 @@ Mit anderen Worten: Dieses Genre hat sich von einer „lokalen japanischen Kultu
 
 ---
 
-## 10. Fazit: Eine Ära, in der Nostalgie zum Exportprodukt wird
+## 10. Fazit: Die Ära, in der Nostalgie zum Exportprodukt wird
 
 Die Musik, die die Japaner einst als „Stadttraum“ schufen, findet heute, 40 Jahre später, bei Menschen auf der anderen Seite der Welt Anklang.
 Das ist nicht nur Nostalgie, sondern eine Umkehrung, bei der „die Vergangenheit zur Zukunft wird“.

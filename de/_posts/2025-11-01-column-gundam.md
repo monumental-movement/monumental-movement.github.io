@@ -106,7 +106,7 @@ Auf diese Weise kann man sagen, dass die frühe Gundam-Musik die Perspektive „
 
 ### 2.1 Ausbau der Marke „Gundam“ und Veränderungen in der Musikszene
 
-In den 1990er Jahren expandierte die Marke Gundam über die TV-Serie hinaus und umfasste OVAs, Filmversionen, Spiele und Plastikmodelle. Musikalisch haben sich Anime-Songs (Anisongs) als Genre etabliert und Titelsongs/Insert-Songs werden als „Gesicht“ von Künstlern beworben.
+In den 1990er Jahren expandierte die Marke Gundam über die TV-Serie hinaus und umfasste OVAs, Filmversionen, Spiele und Plastikmodelle. Musikalisch haben sich Anime-Songs (Anisongs) als Genre etabliert und Titelsongs/Insert-Songs werden mittlerweile als „Gesicht“ von Künstlern beworben.
 
 Gleichzeitig nahm die Zahl der Titelsongs mit Synthesizer-Sounds, Dance-Beats und Pop-ähnlichen Strukturen zu, und wir begannen eine Verschiebung der Musikalität von der traditionellen Struktur „ernsthafter Hintergrundmusik mit Kriegs- und Heldenhymnen“ hin zur Popkultur zu beobachten.
 
@@ -118,7 +118,7 @@ Das Erscheinen dieses Liedes war auch eine Gelegenheit, das konventionelle Bild 
 
 Darüber hinaus verfügen OVA- und Filmversionen jetzt über eine größere Auswahl an Musikprodukten, darunter Titelsongs, Insert-Songs, Charaktersongs und Remix-Discs. Musik hat sich von „exklusiv für Werke“ zu „exklusiv für Marken“ entwickelt.
 
-### 2.3 Dramatische Begleitung, Titellieder und Einfügungslieder: Geschmacksveränderungen im Laufe der Zeit
+### 2.3 Theaterbegleitung, Titellieder und Einfügungslieder: Geschmacksveränderungen im Laufe der Zeit
 
 In dieser Zeit erweiterte sich das Spektrum der Musikentwicklung erheblich. Neben Titelsongs wurden nacheinander Insert-Songs, Charakter-Songs (unter dem Namen des Charakters gesungene Lieder), Remix-Alben, beste Alben, Live-Alben usw. veröffentlicht und die Kategorisierung von Musikprodukten schritt voran.
 
@@ -138,7 +138,7 @@ Wir sind in eine Ära eingetreten, in der „Gundam-Musik“ nicht nur „Hinter
 
 ### 3.2 Beispiel: Soundtrack-Komposition der „Mobile Suit Gundam SEED“-Reihe
 
-Für „Mobile Suit Gundam SEED“ (2002-) waren Hiroyuki Kono und andere tatsächlich für die musikalische Begleitung verantwortlich und nicht der Komponist Hiroyuki Sawano, und es wurden der Titelsong, der Insert-Song, der Charaktersong, das Remix-Album und die „Suit-CD“ entwickelt.
+Für „Mobile Suit Gundam SEED“ (2002-) waren Hiroyuki Kono und andere für die Musik verantwortlich und nicht der Komponist Hiroyuki Sawano, und es wurden der Titelsong, der Insert-Song, der Charaktersong, die Remix-CD und die „Suit-CD“ entwickelt.
 Diese Struktur zeigt, dass Gundam-Musik zu „einem Produkt/einer Kultur geworden ist, die nicht vom Werk getrennt werden kann“. Musik ist zu einer Marke geworden und funktioniert auch außerhalb von Produktionen (Live-Shows, Bonus-CDs, Kollaborationen).
 
 ### 3.3 Aktuelle Arbeit: Musikalisches Experiment in „Mobile Suit Gundam: Witch of Mercury“
@@ -184,7 +184,7 @@ Diese Remixe/Arrangements tragen dazu bei, das „Hören von Gundam“ zu förde
 
 ---
 
-## Kapitel 6: Diskussion und Zukunftsausblick
+## Kapitel 6: Diskussion und Zukunftsaussichten
 
 ### 6.1 Was ist die Universalität der Gundam-Musik?
 
@@ -207,7 +207,7 @@ Nach 2025 wird erwartet, dass sich die Ära des „Musikhörens“ durch den Aus
 
 ## Anstelle einer Schlussfolgerung
 
-Man kann sagen, dass „Gundam noch einmal hören“ gleichbedeutend mit „Gundam noch einmal schauen“ ist. Dies liegt daran, dass Musik die Emotionen der Charaktere repräsentiert und den Verlauf der Geschichte vorgibt. Wir hoffen, dass Sie durch diesen Artikel Ihren „Lieblings-Gundam-Titelsong“ noch einmal in die Hand nehmen und der Geschichte und Geschichtenwelt, die er geschaffen hat, noch einmal zuhören können.
+Man kann sagen, dass „Gundam noch einmal hören“ gleichbedeutend mit „Gundam noch einmal schauen“ ist. Dies liegt daran, dass Musik die Emotionen der Charaktere repräsentiert und den Verlauf der Geschichte vorgibt. Wir hoffen, dass Sie durch diesen Artikel Ihren Lieblings-Gundam-Titelsong wieder aufgreifen und der Geschichte und Geschichtenwelt, die er geschaffen hat, erneut lauschen können.
 Um schließlich tiefer in die Musik von Gundam einzutauchen, sollten Sie unbedingt CD-Hüllen, Live-Videos, Komponisteninterviews und mehr suchen und sammeln. Die Klangreise weitet sich weit über das Sichtbare hinaus.
 
 ---
@@ -220,9 +220,9 @@ Nachfolgend finden Sie eine Chronologie mit Werken, Titelliedern/Einfügeliedern
 |-----|--------|------------------|------------------|--------|
 | 1979 | Mobile Suit Gundam (TV-Version) | Fliegen! Gundam | Yuji Matsuyama/Ko Ikeda | Erstes Titellied der TV-Serie |
 | 1985 | Mobiler Anzug Zeta Gundam | Mit Liebe zum Planeten des Wassers | Neil Sedaka/Kayoko Ebina/Hiroko Moriguchi | Eröffnungslied |
-| 1988 | Mobile Suit Gundam: Char's Counterattack (Film) | Jenseits der Zeit | Tetsuya Komuro／TM NETZWERK | Filmtitellied |
+| 1988 | Mobile Suit Gundam: Char's Counterattack (Film) | Jenseits der Zeit ~Jenseits des Mobius-Universums~ | Tetsuya Komuro/TM NETZWERK | Film-Titellied |
 | 1995 | Neuer mobiler Bericht Gundam Wing | Nur Kommunikation | Minami Takayama・Shiina Nagano/TWO-MIX | Eröffnung der TV-Fassung |
-| 2002 | Mobiler Anzug Gundam SEED | Wir waren so zusammen | Komponist: Hiroyuki Kono und andere/See-Saw | Die Entwicklung der Serienmusik beginnt |
+| 2002 | Mobiler Anzug Gundam SEED | Wir waren so zusammen | Komponist: Hiroyuki Kono et al./See-Saw | Die Entwicklung der Serienmusik beginnt |
 | 2022 | Mobile Suit Gundam: Hexe des Merkur | (Titellied/Drama-Begleitung) | Ko Omama/(Sänger) | Neueste Arbeit/überarbeitete Musikkomposition |
 
 
@@ -250,7 +250,7 @@ Nachfolgend finden Sie einen Abschnitt, in dem repräsentative Musiker/Sänger v
 
 - **・Tetsuya Komuro**
 
-Ein Komponist und Produzent, der die japanische Popmusikszene von den 1980er bis 1990er Jahren anführte. Er schuf den Titelsong „Beyond the Time ~Beyond the Mobius Universe~“ für „Mobile Suit Gundam: Char's Counterattack“, das 1988 veröffentlicht wurde, und markierte damit einen Wendepunkt in der Geschichte der Gundam-Musik.
+Ein Komponist und Produzent, der die japanische Popmusikszene von den 1980er bis 1990er Jahren anführte. Er schuf den Titelsong „Beyond the Time~Beyond the Moebius Universe“ für „Mobile Suit Gundam: Char's Counterattack“, das 1988 veröffentlicht wurde, und markierte damit einen Wendepunkt in der Geschichte der Gundam-Musik.
 
 - **Neil Sedaka**
 

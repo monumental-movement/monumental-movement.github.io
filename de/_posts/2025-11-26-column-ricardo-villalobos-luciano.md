@@ -44,21 +44,21 @@ color: #fff;
 
 ### Die Flugbahn von Villalobos
 
-Ricardo Villalobos wurde 1970 in Santiago, Chile, geboren. Als er jung war, zog seine Familie nach Deutschland, doch die Rhythmen Südamerikas blieben ihm erhalten. Die Klänge von Congas und Bongos wurden später als subtile Percussion in seinen Tracks wiederbelebt. Als er in seinen frühen Zwanzigern in der Berliner Clubszene arbeitete, kam er mit der neuesten Generation des Minimal Techno in Kontakt und durch die Verbindung dieser mit einem lateinamerikanischen Rhythmusgefühl entwickelte er seine eigene Musiksprache.
+Ricardo Villalobos wurde 1970 in Santiago, Chile, geboren. Als er jung war, zog seine Familie nach Deutschland, doch die Rhythmen Südamerikas blieben ihm erhalten. Die Klänge von Congas und Bongos wurden später als subtile Percussion in seinen Tracks wiederbelebt. Als er in seinen frühen Zwanzigern in der Berliner Clubszene arbeitete, kam er mit der neuesten Generation des Minimal Techno in Kontakt und durch die Verbindung dieser mit einem lateinamerikanischen Rhythmusgefühl entwickelte er seine eigene musikalische Sprache.
 
-Seine frühen EP-Werke zeichneten sich durch einen „immersiven“ Sound mit dezenter Percussion und langen Tracks aus. „Halma“ und „Que Belle Epoque“ beispielsweise gehen über reine Tanzmusik hinaus und verfügen über Strukturen, die den Hörer in den Fluss der Zeit einbeziehen.
+Seine frühen EP-Werke zeichneten sich durch einen „immersiven“ Sound mit dezenter Percussion und langen Tracks aus. „Halma“ und „Que Belle Epoque“ beispielsweise gehen über reine Tanzmusik hinaus und haben Strukturen, die den Hörer in den Fluss der Zeit einbeziehen.
 
 ### Lucianos Flugbahn
 
 Luciano (richtiger Name Lucien Nicolet) wurde 1978 in der Schweiz geboren und wuchs in Chile auf. Schon früh wurde er mit der Gitarre vertraut und entwickelte ein Gespür für den Rhythmus der lateinamerikanischen Musik. Als Teenager kam er zum ersten Mal mit Clubmusik in Berührung, als er sich mit Disco, House und Techno beschäftigte und gleichzeitig nach seinem eigenen „warmen, minimalistischen“ Stil suchte.
 
-Das von ihm später gegründete Label Cadenza brachte Künstler hervor, die südamerikanische Begeisterung mit europäischem Minimalismus verbanden. Lucianos Musik steht stets im „Dialog mit der Tanzfläche“ und stellt die körperlichen Empfindungen des Tänzers in den Mittelpunkt.
+Das von ihm später gegründete Label Cadenza brachte Künstler hervor, die südamerikanische Energie mit europäischem Minimalismus verbanden. Lucianos Musik steht stets im „Dialog mit der Tanzfläche“ und stellt die körperlichen Empfindungen des Tänzers in den Mittelpunkt.
 
 ---
 
 ## Kapitel 2: Begegnung und die Geburt von Sense Club
 
-Als Villalobos Ende der 1990er-Jahre in einem chilenischen Club am Plattenspieler saß, spürte Luciano die rhythmischen Konturen und fand sofort Resonanz bei ihm. Die beiden werden ein gemeinsames Projekt namens „Sense Club“ starten. Dieser Ort, an dem sich lateinamerikanische Rhythmen und europäischer Techno kreuzen, hat den Rahmen einer einfachen musikalischen Einheit überschritten und ist zu einem Testgelände für Kultur und Körper geworden.
+Als Villalobos Ende der 1990er-Jahre in einem chilenischen Club am Plattenspieler saß, spürte Luciano die rhythmischen Konturen und fand sofort Resonanz bei ihm. Die beiden werden ein gemeinsames Projekt namens „Sense Club“ starten. Dieser Veranstaltungsort, der lateinamerikanische Rhythmen und europäischen Techno verbindet, ist über den Rahmen einer bloßen musikalischen Einheit hinausgegangen und hat sich zu einem Testgelände für Kultur und Körper entwickelt.
 
 Die Philosophie des Sense Clubs war klar. „Tanzen ist nicht nur eine Bewegung, sondern ein Ritual, das Kultur und Körper verbindet.“ Lange Sets, subtile Percussion und die gelegentliche Kakophonie von Klängen hauchen der Tanzfläche neues Leben ein.
 
@@ -92,7 +92,7 @@ Etwa zur gleichen Zeit gründete Luciano das in der Schweiz ansässige Label Cad
 
 ## Kapitel 4 Schnittstelle von Kultur und Klang
 
-Ihre Musik besteht aus mehr als nur Beats. Durch die Kombination von Villalobos‘ deutscher Präzision mit elektronischer Musik und Lucianos südamerikanischem Rhythmusgefühl wurde der Club mehr als nur ein Spielplatz, sondern eine kulturelle Verkörperung. Das Publikum bewegte sich unwissentlich zwischen zwei Welten, als es sich dem Takt hingab.
+Ihre Musik besteht aus mehr als nur Beats. Durch die Kombination von Villalobos‘ deutscher Präzision mit elektronischer Musik und Lucianos südamerikanischem Rhythmusgefühl wurde der Club mehr als nur ein Spielplatz, sondern eine kulturelle Verkörperung. Das Publikum bewegte sich unbewusst zwischen zwei Welten, als es sich dem Takt hingab.
 
 ### Revolution von Rhythmus und Körper
 
@@ -149,7 +149,7 @@ timeline
 ## Musikalität und Klanganalyse
 
 - **Rhythmus**: Eine Fusion aus subtiler Percussion aus Südamerika und europäischen Minimal-Beats
-- **Langlänge Struktur**: Tracks mit einer Dauer von mehr als 10 bis 20 Minuten, um Zeit und körperliches Eintauchen zu fördern
+- **Langlänge Struktur**: Tracks mit einer Dauer von mehr als 10 bis 20 Minuten, um Zeit und Körpervertiefung zu fördern
 - **Transkulturalität**: Als Brücke zwischen den Kulturen des Nordens und des Südens koexistieren die Wärme des Lateinischen und die Präzision des Techno.
 
 ---
