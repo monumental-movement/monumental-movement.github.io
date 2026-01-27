@@ -9,7 +9,7 @@ permalink: /ko/terry-francis-smokey-room-ep/
 tags:
 - House
 - Tech House
-title: 테리 프랜시스 – 스모키 룸 EP
+title: 테리 프란시스 – 스모키 룸 EP
 ---
 
 

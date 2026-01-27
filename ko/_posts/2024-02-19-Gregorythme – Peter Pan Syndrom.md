@@ -10,7 +10,7 @@ tags:
 - Techno
 - Minimal
 - 00s
-title: 그레고리쓰메 – 피터팬 증후군
+title: 그레고리쓰메 - 피터팬 증후군
 ---
 
 

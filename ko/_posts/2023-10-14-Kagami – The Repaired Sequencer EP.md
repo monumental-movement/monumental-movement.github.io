@@ -17,7 +17,7 @@ title: Kagami – 수리된 시퀀서 EP
 
 B면의 첫 번째 트랙은 Ben Tisdall과 Daz Saund의 유닛 Sound Associates의 리믹스입니다.
 
-B면의 두 번째 트랙은 독일 DJ이자 프로듀서인 Thomas Schumacher의 리믹스입니다.
+B면의 두 번째 곡은 독일 DJ이자 프로듀서인 Thomas Schumacher의 리믹스입니다.
 
 #### 트랙리스트
 ```md

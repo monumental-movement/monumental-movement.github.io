@@ -11,13 +11,13 @@ tags:
 - Electro
 - Disco
 - 00s
-title: 벤저민 테베스 - 텍사스
+title: 벤저민 테베스 – 텍사스
 ---
 
 
 Benjamin Theves는 프랑스 출신의 일렉트로닉 아티스트/프로듀서입니다.
 
-'텍사스'는 2000년대 중반 전 세계 파티에서 크게 연주된 명곡으로 벤저민 테베스의 데뷔작이자 명작으로 알려져 있다.
+'텍사스'는 2000년대 중반 전 세계 파티에서 크게 연주된 명곡으로 벤자민 테베스의 데뷔작이자 걸작으로 알려져 있다.
 
 "Texas"는 2005년 Patrick Alavi의 Roxour 레이블에서 첫 번째 릴리스로 출시되었습니다. B면은 "ReroX"로 알려진 Patrick Alavi 리믹스 버전입니다. Patrick Alavi의 스타일은 Funk/House/electronic이 혼합되어 있습니다.
 

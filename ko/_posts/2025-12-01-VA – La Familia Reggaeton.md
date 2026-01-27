@@ -18,7 +18,7 @@ title: VA – 라 파밀리아 레게톤
 
 A1은 빅 마토(Big Mato), 칭고 블링(Chingo Bling), 팻 조(Fat Joe), 루미 디(Lumi Dee), 네그라(Negra), 니나 스카이(Nina Sky), 핏불(Pitbull)이 피처링한 트랙이다.
 
-B2는 빅 마토(Big Mato), 엘 부그스(L. Boogs), 마누엘리토(Manuelito)가 피처링한 곡이다.
+B2는 빅마토(Big Mato), 엘부그스(L.Boogs), 마누엘리토(Manuelito)가 피처링한 곡이다.
 
 #### 트랙리스트
 ```md

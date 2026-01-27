@@ -10,7 +10,7 @@ tags:
 - Jazz
 - Jazz Funk
 - Rare
-title: 마일스 데이비스 – 블루스/스탠다드
+title: 마일스 데이비스 – 블루스/표준
 ---
 
 

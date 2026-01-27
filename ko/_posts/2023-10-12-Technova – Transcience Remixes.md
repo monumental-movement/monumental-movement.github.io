@@ -9,7 +9,7 @@ permalink: /ko/technova-transcience-remixes/
 tags:
 - Techno
 - Rare
-title: Technova – 트랜사이언스 리믹스
+title: Technova – Transscience 리믹스
 ---
 
 

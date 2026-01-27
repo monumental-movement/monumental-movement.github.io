@@ -8,7 +8,7 @@ layout: post
 permalink: /ko/cold-sensation-belgian-musictrain/
 tags:
 - New Beat
-title: Cold Sensation - 벨기에 뮤직트레인
+title: 콜드 센세이션 – 벨기에 뮤직트레인
 ---
 
 

@@ -10,13 +10,13 @@ tags:
 - EBM
 - 90s
 - Digital Rock
-title: 스키니 퍼피(Skinny Puppy) – 12인치 앤솔로지
+title: 스키니 퍼피(Skinny Puppy) - 12인치 앤솔로지
 ---
 
 
-스키니 퍼피(Skinny Puppy)는 캐나다 태생의 Kelvin Key와 Kevin Ogilvy가 1982년에 결성한 전자 산업 밴드입니다.
+Skinny Puppy는 캐나다 태생의 Kelvin Key와 Kevin Ogilvie가 1982년에 결성한 전자 산업 밴드입니다.
 
-Skinny Puppy는 인더스트리얼 록 및 전자 산업 장르의 창시자 중 하나로 알려져 있습니다.
+Skinny Puppy는 인더스트리얼 록과 일렉트로 인더스트리얼 장르의 창시자 중 하나로 알려져 있습니다.
 
 이번 앨범은 밴드의 초기 싱글과 B-side를 모두 담은 컴필레이션 앨범이다.
 

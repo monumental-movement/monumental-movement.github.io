@@ -11,7 +11,7 @@ tags:
 - Future Jazz
 - Latin
 - 00s
-title: 비밥 도그 – 럼블 인 리오
+title: 비밥 도그 - 럼블 인 리오
 ---
 
 

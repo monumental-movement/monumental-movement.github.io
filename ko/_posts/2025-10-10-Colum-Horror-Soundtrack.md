@@ -61,7 +61,7 @@ A24의 호러 사운드 시스템은 '비명'이 아닌 '속삭임'으로 관객
 
 ---
 
-### 2장: Blumhouse Horror 사운드 디자인
+### 2장: Blumhouse 호러 사운드 디자인
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yi9LsYs-N0g?si=2oPgMMWgBFd0ICKD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -120,7 +120,7 @@ A24의 호러 사운드 시스템은 '비명'이 아닌 '속삭임'으로 관객
 Ben Frostの[『Dark』シリーズ](https://amzn.to/42B4KCn)や[『Super Dark Times』（2017）](https://amzn.to/42DfU9Q)は、ドローンと歪みで聴覚的な焦燥を生む。  
 Mica Leviの[『Under the Skin』（2013）](https://amzn.to/3J4PJC6)は、エイリアン的異物感を**音階の逸脱**として提示した。  
 
-더욱이 호러 사운드 트랙은 아날로그 음반으로 재순환되고,
+더욱이 호러 사운드트랙은 아날로그 음반으로 재순환되고,
 **Death Waltz**와 **Waxwork Records**는 공포음악을 '듣는 문화유산'으로 재평가했습니다.
 클럽 DJ들이 호러 사운드트랙을 세트에 포함시키는 현상이 널리 퍼졌습니다.
 영화음악과 클럽문화가 묘하게 얽히던 시절이었다.
@@ -163,11 +163,11 @@ AI가 만든 음악은 이미 호러 사운드의 영역으로 진출하고 있�
 
 ---
 
-### 마지막 장: 두려움은 들을 수 있다 — 현대 호러 오디오의 문화적 의미
+### 마지막 장: 두려움은 들을 수 있습니다 - 현대 호러 오디오의 문화적 중요성
 
 2010년 이후 공포영화에서 소리는 단순한 표현을 넘어 영화의 존재 자체에 대해 질문을 던지는 매체가 되었다.
 Colin Stetson의 베이스 호흡, Disasterpeace의 전자적 긴장감, Bobby Krlic의 의식적인 리듬.
-이 모든 것들은 "두려움이란 무엇인가?"라는 질문을 음향적으로 번역한 것입니다.
+이 모든 것은 "두려움이란 무엇인가?"라는 질문을 음향적으로 번역한 것입니다.
 
 공포의 소리는 사회적 불안과 개인의 외로움에 울려 퍼집니다.
 팝음악이 잃어버린 '깊은 감성'을 되찾고자 하는 음악이기도 하다.

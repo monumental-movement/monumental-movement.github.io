@@ -9,7 +9,7 @@ permalink: /ko/snake-thing-blizzard-of-ooze-anything-could-happen/
 tags:
 - Trance
 - Psychedelic
-title: 뱀의 일 – Ooze의 눈보라 무슨 일이든 일어날 수 있습니다
+title: Snake Thing – Ooze의 눈보라 무슨 일이든 일어날 수 있습니다
 ---
 
 

@@ -16,7 +16,7 @@ title: 시공간 연속체 – Ecaps 방출
 ---
 
 
-90년대 언더그라운드 테크노/앰비언트/일렉트로니카 씬의 충실한 주자였던 Spacetime Continuum으로도 알려진 Jonah Sharp가 자신의 레이블인 Reflective Records에서 1996년에 발매한 더블 LP 세트입니다.
+90년대 언더그라운드 테크노/앰비언트/일렉트로니카 씬의 충실한 활동가인 Spacetime Continuum으로도 알려진 Jonah Sharp가 자신의 레이블인 Reflective Records에서 1996년에 발매한 더블 LP 세트입니다.
 
 #### 트랙리스트
 ```md

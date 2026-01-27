@@ -9,7 +9,7 @@ permalink: /ko/ratty-sunrise-here-i-am/
 tags:
 - Trance
 - Hard Trance
-title: 래티(Ratty) – 일출(여기 있어요)
+title: 래티(Ratty) - 일출(여기 있어요)
 ---
 
 

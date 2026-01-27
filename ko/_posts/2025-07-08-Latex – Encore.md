@@ -14,7 +14,7 @@ title: 라텍스 – 앙코르
 ---
 
 
-Latex라고도 알려진 Michael Borrmann은 독일 출신의 생산자입니다. 그는 또한 Steril이라는 이름으로 작업하고 있으며 DJ Hell의 레이블인 International Deejay Gigolo Records 및 Lasergun을 포함한 다양한 레이블에서 앨범을 발매했습니다.
+Latex라고도 알려진 Michael Borrmann은 독일 출신의 생산자입니다. 그는 또한 Steril이라는 이름으로 작업하고 있으며 DJ Hell의 레이블 International Deejay Gigolo Records 및 Lasergun을 포함한 다양한 레이블에서 앨범을 발매했습니다.
 
 "Encore"는 Frank Müller의 베를린 기반 테크노 및 일렉트로 레이블 Müller Records가 2001년에 발매한 Electro, Tech House 트랙입니다.
 

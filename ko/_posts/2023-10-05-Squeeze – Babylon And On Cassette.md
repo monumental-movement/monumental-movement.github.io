@@ -15,7 +15,7 @@ title: 스퀴즈 – 바빌론과 카세트
 
 Squeeze의 이번 앨범 "Babylon And On"은 Eric "ET" Thorngren과 Glenn Tilbrook이 프로듀싱했습니다.
 
-이 앨범은 UK 앨범 차트에서 Greatest Hits 컴필레이션을 제외하고 Squeeze 앨범 중 가장 높은 순위인 14위에 올랐습니다.
+이 앨범은 영국 앨범 차트에서 Greatest Hits 편집을 제외하고 Squeeze 앨범 중 가장 높은 순위인 14위에 올랐습니다.
 
 #### 트랙리스트
 ```md

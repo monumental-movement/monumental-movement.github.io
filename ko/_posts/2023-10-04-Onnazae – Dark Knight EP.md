@@ -9,7 +9,7 @@ permalink: /ko/onnazae-dark-knight-ep/
 tags:
 - Downtempo
 - Triphop
-title: 온나자에 – 다크 나이트 EP
+title: 온나자에 – 다크나이트 EP
 ---
 
 

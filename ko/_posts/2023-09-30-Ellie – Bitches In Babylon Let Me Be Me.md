@@ -13,7 +13,7 @@ title: Ellie – Bitches In Babylon Let Me Be Me
 ---
 
 
-“바빌론에 있는 년들이여, 내가 나라게 해주세요”
+'Bitches In Babylon Let Me Be Me'는
 크루엘(Crue-L)이 1997년 발매한 엘리(Ellie)의 EP입니다.
 
 A면에는 Takeshi Kubota의 리믹스가 포함되어 있고 B면에는 Shaka Zombie의 Tucchi의 리믹스가 포함되어 있습니다.

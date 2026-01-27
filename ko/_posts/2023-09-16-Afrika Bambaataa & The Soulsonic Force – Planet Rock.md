@@ -20,7 +20,7 @@ title: Afrika Bambaataa & The Soulsonic Force - 플래닛 락
 
 브레이크 댄스와 스트리트 문화의 부흥으로 큰 인기를 얻었으며 힙합의 클래식으로 인정받고 있습니다. 또한 이 곡은 수많은 아티스트와 프로듀서에 의해 샘플링되고 재해석되어 다양한 장르의 곡에 영향을 미쳤습니다.
 
-'Planet Rock'은 힙합과 댄스 음악의 역사에서 중요한 위치를 차지하는 혁신적인 사운드와 선구적인 접근 방식을 지닌 Afrika Bambaataa와 The Soulsonic Force의 시그니처 작품으로 널리 호평을 받고 있습니다.
+'Planet Rock'은 힙합과 댄스 음악의 역사에서 중요한 위치를 차지하는 혁신적인 사운드와 선구적인 접근 방식을 지닌 Afrika Bambaataa와 The Soulsonic Force의 대표작으로 널리 호평을 받고 있습니다.
 
 #### 트랙리스트
 ```md

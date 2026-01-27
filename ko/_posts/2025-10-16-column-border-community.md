@@ -50,7 +50,7 @@ color: #fff;
 2001년 홀든은 Silver Planet에서 발표한 "A Break in the Clouds"라는 노래로 주목을 받았습니다.
 이들의 사운드는 당시 프로그레시브 하우스의 틀을 깨뜨렸다. 우울하면서도 건축학적이다. 떠다니는 멜로디는 클럽의 밤을 시적인 경험으로 바꿔주었습니다.
 
-그는 이 곡을 시작으로 트랜스도 하우스도 아닌 사운드를 만들어낸다.
+그는 이 곡을 시작으로 트랜스도 하우스도 아닌 음향적 공간을 개척한다.
 이 흐름은 나중에 Border Community라는 형태로 구체화되었습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8VFZ3hvWW_M?si=-7fU7hCMw43mOeW7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -62,8 +62,8 @@ color: #fff;
 2003년 Holden은 자신의 레이블인 Border Community를 출시했습니다.
 상업 클럽 음악에 반대하여 아티스트가 자신의 작품을 발표하고 디자인하고 이야기하는 DIY 정신을 옹호했습니다.
 
-Nathan Fake의 첫 번째 릴리스인 "The Sky Was Pink"는 클럽 음악 역사에 전환점이 되었습니다.
-감성적이고 성찰적인 트랙은 Four Tet 및 Caribou와 같은 클럽 이후 세대에 영향을 미쳤습니다.
+Nathan Fake의 첫 번째 릴리스인 'The Sky Was Pink'는 클럽 음악 역사에 전환점이 되었습니다.
+감정적이고 성찰적인 트랙은 Four Tet 및 Caribou와 같은 클럽 이후 세대에 영향을 미쳤습니다.
 
 아트웍과 발매 디자인도 독특했습니다. 부드러운 붓터치와 흰색을 기반으로 한 미니멀한 디자인의 일러스트입니다.
 소리와 마찬가지로 보더 커뮤니티의 세계관도 '감정의 시각화'를 목표로 했다.
@@ -78,7 +78,7 @@ Nathan Fake의 첫 번째 릴리스인 "The Sky Was Pink"는 클럽 음악 역�
 
 ## IV. 사운드스케이프: 멜랑꼴리 테크노의 탄생
 
-이 레이블의 특징은 '감정을 담은 테크노'였습니다.
+이 레이블의 특징은 '감성을 담은 테크노'였습니다.
 비트는 깊고, 멜로디는 부서지지만, 왠지 아름답습니다.
 홀든의 철학은 분명합니다. "멜로디는 깨져도 아름답다."
 
@@ -111,7 +111,7 @@ Nathan Fake의 첫 번째 릴리스인 "The Sky Was Pink"는 클럽 음악 역�
 신디사이저 즉흥 연주, 포크 리듬, 아날로그 노이즈를 융합한 사운드는 일렉트로닉 음악을 '생생한' 느낌으로 되돌려줍니다.
 
 그 후 라이브 밴드로 전환하면서 그의 사운드는 더욱 자유로워졌다.
-Border Community는 주류에서 물러났지만 그 영향력은 Jon Hopkins, Floating Points, Four Tet 등에게 계속해서 전해졌습니다.
+Border Community는 주류에서 물러났을지 모르지만 그 영향력은 Jon Hopkins, Floating Points 및 Four Tet과 같은 사람들에게 계속해서 전해졌습니다.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bV6zHOIfyO0?si=UVJGyf0UHZJxtcIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
@@ -121,7 +121,7 @@ Border Community는 주류에서 물러났지만 그 영향력은 Jon Hopkins, F
 '경계'는 장르 간의 경계가 아니라 아이디어 간의 경계이다.
 홀든에게 음악은 사회에 대한 반응이자 세상에 대한 질문이었습니다.
 
-클럽문화가 상업화되면서 보더커뮤니티는 '감정'과 '자율'을 회복하는 거점이 되었다.
+클럽문화가 상업화되면서 보더커뮤니티는 '감정'과 '자율'을 회복하기 위한 거점이 되었다.
 소리는 향수가 아니라 기억의 재구성이다.
 듣는 사람으로 하여금 자신의 경계를 다시 생각하게 만드는 힘이 있습니다.
 
@@ -163,7 +163,7 @@ flowchart TD
 
 
 | 아티스트 | 제목 | 연도 | 링크 |
-| ------------- | -------------- | ---- | ---------------------------------- |
+| ------------- | --------------------------- | ---- | ---------------------------------- |
 | James Holden  | *The Inheritors*            | 2013 | [Amazon](https://amzn.to/4nrQ5RL)             |
 | Nathan Fake   | *Drowning in a Sea of Love* | 2006 | [Amazon](https://amzn.to/47ymxvR)             |
 | Luke Abbott   | *Holkham Drones*            | 2010 | [Amazon](https://amzn.to/478NuFT)             |

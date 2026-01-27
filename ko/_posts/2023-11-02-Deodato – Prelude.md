@@ -13,7 +13,7 @@ title: 데오다토 – 서곡
 ---
 
 
-1973년 CTI 레이블에서 Deodato라는 이름으로 발매된 앨범 "Thus Spoke Zarathustra"의 1978년 재발행입니다.
+1973년 CTI 레이블에서 Deodato라는 이름으로 발매된 "Thus Spoke Zarathustra" 앨범의 1978년 재발행입니다.
 
 이 앨범은 클래식 곡을 일렉트릭 재즈로 편곡한 것으로, 'Thus Spoke Zarathustra''는 초기 크로스오버/퓨전 곡 중 가장 유명한 곡으로 알려져 있다.
 

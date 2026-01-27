@@ -9,7 +9,7 @@ permalink: /ko/spiral-life-freaks-of-go-go/
 tags:
 - Pop Rock
 - Synth-pop
-title: 나선형 생활 - Go Go Spectators 2의 괴물
+title: 나선형 생활 – Go Go Spectators 2의 괴물
 ---
 
 

@@ -11,13 +11,13 @@ tags:
 - Thai Rock
 - Folk
 - 80s
-title: 카라바오 – Made In Thai Vol.5
+title: 카라바오 - Made In Thai Vol.5
 ---
 
 
 Yuanyong Opakul(Aed라고도 함)과 Kirati Promsaka Na Sakon Nakhon이 1982년 필리핀에서 결성한 Carabao는 태국과 기타 아시아 국가에서 매우 인기가 있는 태국 록 밴드입니다.
 
-'Made in Thai'는 1984년(태국력 2527년)에 발매된 카라바오의 5집 앨범으로, 총 500만 장의 판매고를 올리며 큰 히트를 쳤던 카라바오의 명곡이다.
+'Made in Thai'는 1984년(태국 달력으로는 2527년)에 발매된 카라바오의 5집 앨범으로, 총 500만 장의 판매고를 올리며 큰 히트를 쳤던 카라바오의 명곡이다.
 
 #### 트랙리스트
 ```md

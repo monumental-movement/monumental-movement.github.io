@@ -13,7 +13,7 @@ title: 머코프 – 율리시스
 ---
 
 
-Murcof는 Mutek, Sonar, Atonal 등에 출연하는 멕시코 최고의 일렉트로닉 뮤지션이자 프로듀서 중 한 명인 Fernando Corona의 프로젝트입니다.
+Murcof는 Mutek, Sonar, Atonal 등에 출연한 멕시코 최고의 일렉트로닉 뮤지션이자 프로듀서 중 한 명인 Fernando Corona의 프로젝트입니다.
 
 "Ulysses"는 오랜 전통을 자랑하는 일렉트로닉 음악 레이블인 Leaf에서 발매되었습니다.
 

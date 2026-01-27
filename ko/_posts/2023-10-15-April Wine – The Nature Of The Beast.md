@@ -9,13 +9,13 @@ permalink: /ko/april-wine-the-nature-of-the-beast/
 tags:
 - Rock
 - Hard Rock
-title: 에이프릴 와인 - 야수의 본성
+title: 에이프릴 와인 – 야수의 본성
 ---
 
 
-"The Nature Of The Beast"는 캐나다의 록 밴드 에이프릴 와인이 1981년 발표한 앨범이다. 이 앨범은 밴드의 명곡 중 하나로 높은 평가를 받고 있으며, 특히 "Just Between You and Me", "Sign of the Gypsy Queen"은 상업적으로 성공을 거두며 지금도 에이프릴 와인의 대표곡으로 유명하다.
+"The Nature Of The Beast"는 캐나다의 록 밴드 에이프릴 와인이 1981년 발표한 앨범이다. 이 앨범은 밴드의 걸작 중 하나로 높은 평가를 받고 있으며, 특히 "Just Between You and Me", "Sign of the Gypsy Queen"은 상업적인 성공을 거두며 지금도 에이프릴 와인의 대표곡으로 유명하다.
 
-앨범의 성공은 밴드의 국제적 인지도를 높이고 캐나다 록 씬의 중요한 부분으로 자리 잡았습니다.
+앨범의 성공은 밴드의 국제적 위상을 높이고 캐나다 록 씬의 중요한 부분으로 자리 잡았습니다.
 
 #### 트랙리스트
 ```md

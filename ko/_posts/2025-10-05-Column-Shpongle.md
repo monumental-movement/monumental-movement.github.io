@@ -50,7 +50,7 @@ Shpongle은 단순한 전자 음악 장치 그 이상입니다.
 
 ---
 
-## 1장: Shpongle의 탄생과 Twisted Records의 역사적 배경
+## 제1장: Shpongle의 탄생과 Twisted Records의 역사적 배경
 
 1990년대 영국의 사이키델릭 문화는 진화의 기로에 서 있었습니다.
 고아 트랜스(Goa Trance) 열풍이 유럽을 휩쓸고 LSD 문화가 기술과 융합되던 시기.
@@ -146,7 +146,7 @@ flowchart TD
 
 라이브 공연 중에는 Shpongletron이라는 거대한 비디오 장치가 사용됩니다.
 Android Jones의 영상은 사운드와 동기화됩니다.
-Raja Ram은 '의식의 전문가'로 무대에 오르고 Posford는 '건전한 연금술사'로 등장합니다.
+라자 람(Raja Ram)은 '의식의 구루'로 무대에 오르고 포스포드는 '건전한 연금술사'로 등장할 예정이다.
 라이브 공연 자체가 명상적 경험의 연장선이 됩니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/30IjJDKnloc?si=MovZTwgFHIJDjhzC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -245,7 +245,7 @@ Posford는 클래식 신디사이저(Virus, Nord Lead, Roland SH-101)와 최신 
 
 ---
 
-## 8장: 나다 브라마(Nāda Brahma)와 건전한 명상 수련
+## 8장: 나다 브라마(Nāda Brahma)와 건전한 명상 수행
 
 #### 나다 브라마(Nāda Brahma)란 무엇입니까?
 
@@ -263,7 +263,7 @@ Posford는 클래식 신디사이저(Virus, Nord Lead, Roland SH-101)와 최신 
 
 - 소리가 '탄생'되는 순간에 집중하세요.
 
-- 소리의 층위가 확장되고 경계가 사라진다.
+- 소리의 층위가 확장되고 경계가 사라집니다.
 
 - 침묵에 도달하면 내면의 목소리에 귀를 기울이세요.
 
@@ -309,13 +309,13 @@ Posford는 소리를 신경학적 의식으로 구성합니다.
 ---
 
 | 음향 요소 | 생리적 효과 | 심리적 경험 |
-| ------ | -------- | --------- |
+| ------ | -------- | -------- |
 | 저주파 베이스 | 호흡과 심장박동의 동기화 | 접지감 |
 | 고주파 배음 | 송과선 활동 | 시각적 환각/시간 팽창 |
-| 리버브 잔향 | 공간적 현지화 확대 | 자아의 해소 |
+| 리버브 잔향 | 공간 현지화 확대 | 자아의 해소 |
 | 폴리리듬 | 인지 지연 | 몽환적인 부유감 |
 
-과학적으로 Shpongle은 '소리로 뇌를 재구성'하는 프로젝트입니다.
+과학적으로 Shpongle은 '소리로 뇌를 재건'하는 프로젝트입니다.
 
 ---
 

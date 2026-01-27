@@ -13,7 +13,7 @@ title: 비트맥스 – 디그잇(Dig-It)
 ---
 
 
-Bit-Max로도 알려진 Maurizio Pavesi는 이탈리아 프로듀서/DJ입니다. 그는 Italo Dance Project Alphabet, DJ Zanza, Pavesi Sound 등 다양한 이름으로 활동해왔습니다.
+Bit-Max로도 알려진 Maurizio Pavesi는 이탈리아 프로듀서/DJ입니다. 그는 Italo Dance Project Alphabet, DJ Zanza, Pavesi Sound 등 다양한 이름으로 활동해 왔습니다.
 
 "Dig-It"은 1999년 이탈리아 밀라노의 하우스 레이블 Beat Club Records에서 발매된 테크노 트랙입니다.
 

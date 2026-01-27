@@ -17,7 +17,7 @@ title: Autechre – 껍질 세션 2
 
 Peel Session 2는 Autechre의 두 번째 John Peel 세션으로 1999년 9월 8일에 방송되었으며 CD는 2000년 Warp Records에서 발매되었습니다.
 
-John Peel이 이 녹음을 처음 받았을 때 네 번째 트랙인 "19 Headaches"를 제외하고는 어떤 트랙에도 이름이 지정되지 않았기 때문에 그가 트랙 이름을 직접 지정했다고 합니다.
+John Peel이 처음 이 녹음을 받았을 때, 네 번째 트랙인 "19 Headaches"를 제외하고는 어떤 트랙에도 이름이 없었기 때문에 그가 트랙 이름을 직접 지었다고 합니다.
 
 #### 트랙리스트
 ```md

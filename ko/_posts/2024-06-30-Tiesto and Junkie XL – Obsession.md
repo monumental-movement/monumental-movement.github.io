@@ -14,7 +14,7 @@ title: Tiësto & Junkie XL – 집착
 ---
 
 
-'Obsession'은 지난 20년간 최고의 DJ와 EDM의 대부라 불리는 네덜란드 DJ 겸 프로듀서 Tiesto와 1990년대 빅 비트 무브먼트의 중심 인물이자 록 앤 댄스 크로스오버 씬의 선구자인 Junkie XL로도 알려진 Tom Holkenborg의 리믹스입니다.
+지난 20년간 최고의 DJ와 EDM의 대부라 불리는 네덜란드 DJ 겸 프로듀서 Tiesto와 1990년대 빅 비트 무브먼트의 중심 인물이자 록 앤 댄스 크로스오버 씬의 선구자인 Junkie XL로도 알려진 Tom Holkenborg의 "Obsession"을 리믹스한 곡입니다.
 
 Side A는 벨기에 DJ/프로듀서 Bert Wilmaers와 Maarten Wilmaers의 듀오 Filterheadz의 리믹스입니다.
 B면은 Jase(Jason Catherine), Mykel(Michael Walburgh), DB(Danny Bonnici)의 프로젝트인 NuBreed의 리믹스입니다.

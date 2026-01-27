@@ -18,7 +18,7 @@ El Cantor로도 알려진 Davidson Ospina는 뉴욕 출신의 하우스 DJ입니
 
 "토마 '96 리믹스!" 는 1996년 Digital Dungeon Records가 발매한 하우스/트라이벌 하우스 트랙입니다.
 
-Side A의 첫 번째 트랙은 브루클린 출신의 이탈리아계 미국인 DJ 듀오 JohNick의 리믹스입니다.
+Side A의 첫 번째 트랙은 브루클린 출신의 이탈리아계 미국인 DJ 듀오인 JohNick의 리믹스입니다.
 
 #### 트랙리스트
 ```md

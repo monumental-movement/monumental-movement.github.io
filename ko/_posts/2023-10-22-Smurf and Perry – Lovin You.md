@@ -15,7 +15,7 @@ title: 스머프와 페리 – Lovin' You
 
 스머프 앤 페리(Smurf & Perry)는 독일 DJ 빅 스머프(프랭크 쿠프만)와 프레드 페리가 결성한 유닛이다.
 
-"Lovin' You"는 보컬리스트 Concha Buika가 피쳐링했으며 2001년 Flamingo Discos에 의해 발매되었습니다.
+"Lovin' You"는 보컬리스트 Concha Buika가 출연했으며 2001년 Flamingo Discos에 의해 발매되었습니다.
 
 "Smurf & Perry – Lovin' You"는 1978년에 발표된 Donald Byrd의 "Loving You"를 샘플링합니다.
 

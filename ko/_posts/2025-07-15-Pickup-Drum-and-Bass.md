@@ -83,7 +83,7 @@ AA. Fluid
 ### 모티브원 – 코스믹 / 루프 프로그레션
 <a href="https://jp.mercari.com/item/m37201781569?afid=6142608987"><img src="../assets/images/Motiv%20One%20%E2%80%93%20Cosmik%20%20Loop%20Progression.webp"></a>
 
-메인 브레이크와 함께 가볍고 재즈적이며 미래 지향적인 사운드가 포함되어 있습니다.
+Amen Break를 중심으로 가볍고 재즈적이며 미래적인 사운드를 담고 있습니다.
 
 #### 트랙리스트
 ```md

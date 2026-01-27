@@ -13,9 +13,9 @@ title: 모비 – 내 마음은 왜 이리 아픈가
 ---
 
 
-"Moby – 내 마음이 왜 그렇게 아픈가요?" 리믹스 1999년 영국 레이블 Mute에서 발매되었습니다. Side A는 독일 DJ/프로듀서 ATB(Andre Tanneberger)의 리믹스입니다.
+"Moby – 내 마음이 왜 그렇게 아픈가요?" 리믹스 1999년 영국 레이블 Mute에서 발매되었습니다. Side A는 독일 DJ 겸 프로듀서 ATB(Andre Tanneberger)의 리믹스입니다.
 
-B면의 첫 번째 트랙은 더치 트랜스의 창시자 중 한 명인 Ferry Corsten(System F)의 리믹스입니다. B면의 두 번째 곡은 조지 미셸(George Michell)과 스티븐 리액트(Steven React)로 구성된 유닛 더 샤프 보이즈(The Sharp Boys)의 리믹스 곡이다.
+B면의 첫 번째 트랙은 더치 트랜스의 창시자 중 한 명인 Ferry Corsten(System F)의 리믹스입니다. B면의 두 번째 곡은 조지 미셸(George Michell)과 스티븐 리액트(Steven React)로 구성된 유닛 더 샤프 보이즈(The Sharp Boys)의 리믹스이다.
 
 #### 트랙리스트
 ```md

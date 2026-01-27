@@ -9,13 +9,13 @@ permalink: /ko/led-zeppelin-led-zeppelin-ii/
 tags:
 - Rock
 - Hard Rock
-title: 레드 제플린 – 레드 제플린 II
+title: 레드 제플린 - 레드 제플린 II
 ---
 
 
 'Led Zeppelin II'는 밴드 사운드를 한층 더 발전시킨 곡으로, 강렬하고 에너지 넘치는 곡을 담고 있다. 앨범에는 지미 페이지의 기타 리프, 로버트 플랜트의 보컬, 존 본햄의 드럼, 존 폴 존스의 베이스 등 멤버 각자의 재능이 돋보이는 퍼포먼스가 담겨 있다.
 
-앨범에는 'Whole Lotta Love', 'Heartbreaker', 'Ramble On' 등 다수의 히트곡이 수록됐다. 이 곡들은 파워풀한 기타 리프와 플랜트의 압도적 보컬 퍼포먼스가 어우러진 레드 제플린의 시그니처 사운드를 대표하는 곡이다.
+앨범에는 'Whole Lotta Love', 'Heartbreaker', 'Ramble On' 등 다수의 히트곡이 수록됐다. 이 곡들은 파워풀한 기타 리프와 플랜트의 압도적인 보컬 퍼포먼스가 돋보이는 레드 제플린의 시그니처 사운드를 대표하는 곡이다.
 
 #### 트랙리스트
 ```md

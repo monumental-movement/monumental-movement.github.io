@@ -20,7 +20,7 @@ title: Inkfish – 연기
 
 Inkfish는 David West, Hardy Heller, Tomas Andersson 및 진보적인 전설 Ian Ossia와 같은 유명 프로듀서/DJ와 다양한 이름으로 작업해 왔습니다. 그는 또한 Medway, Tom Novy & Jerome Isma-ae, Matt Darey와 같은 아티스트를 배출했습니다.
 
-"Acting Out"은 2003년 500장 한정판으로 출시된 Inkfish의 프로그레시브 부족 하우스 트랙입니다.
+"Acting Out"은 2003년 500개 한정판으로 출시된 Inkfish의 프로그레시브 부족 하우스 트랙입니다.
 
 #### 트랙리스트
 ```md

@@ -15,7 +15,7 @@ title: Geronimo의 Cadillac Coldfeet – Rocks / Move Over
 ---
 
 
-Coldfeet은 Watusi와 Lori Fine이 결성한 일본의 소울-재즈&일렉트로닉 듀오입니다.
+Coldfeet은 Watusi와 Lori Fine이 결성한 일본의 소울 재즈&일렉트로닉 듀오입니다.
 
 A는 Primal Scream의 "Rocks" 커버입니다.
 2007년 일본 레이블 Grand Gallery에서 출시되었습니다.

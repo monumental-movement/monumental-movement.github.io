@@ -14,11 +14,11 @@ title: 아르망 반 헬덴 - 쿠치
 ---
 
 
-"Koochy"는 Armand Van Helden의 네 번째 정규 앨범 Killing Puritans(2000)의 리드 싱글로 2000년에 발매되었습니다.
+"Koochy"는 2000년 Armand Van Helden의 네 번째 정규 앨범 Killing Puritans(2000)의 리드 싱글로 발매되었습니다.
 
 Gary Numan의 1979년 싱글 "Cars"의 광범위한 샘플링.
 
-Armand Van Helden은 미국 매사추세츠 주 보스턴 출신의 DJ, 음반 프로듀서, 리믹서, 작곡가입니다.
+Armand Van Helden은 미국 매사추세츠주 보스턴 출신의 DJ, 음반 프로듀서, 리믹서, 작곡가입니다.
 
 그는 1970년 2월 16일 네덜란드와 인도네시아계 아버지와 프랑스와 레바논계 어머니 사이에서 태어났습니다.
 

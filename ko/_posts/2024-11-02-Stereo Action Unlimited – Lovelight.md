@@ -10,13 +10,13 @@ tags:
 - Downtempo
 - French
 - 00s
-title: 스테레오 액션 무제한 – Lovelight
+title: 스테레오 액션 무제한 - Lovelight
 ---
 
 
 Stereo Action Unlimited는 Christoph H. Müller와 Philippe Cohen의 듀오입니다.
 
-Philippe Cohen이 1995년에 설립한 프랑스 레이블. 2001년 Ya Basta!에서 발매된 다운템포 트랙.
+1995년 필립 코헨(Philippe Cohen)이 설립한 프랑스 레이블. 2001년 Ya Basta!에서 발매된 다운템포 트랙.
 
 Side A의 첫 번째 트랙은 Mo'Smog Records, Dejavu 및 Synthonic의 레이블 프로듀서 Paolo Scotti의 리믹스입니다.
 

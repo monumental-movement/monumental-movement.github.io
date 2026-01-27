@@ -21,7 +21,7 @@ title: Ol' Dirty Bastard – Return To The 36 Chambers The Dirty Version
 
 이번 앨범 "Return To The 36 Chambers The Dirty Version"은 Ol' Dirty Bastard의 솔로 경력 중 가장 성공적인 앨범 중 하나입니다.
 
-또한 Wu-Tang 멤버 및 기타 게스트 아티스트와의 콜라보레이션도 포함되었으며, 앨범은 전체적으로 그의 개인적인 음악 스타일을 선보이며 비평가들의 호평과 상업적 성공을 거두었습니다.
+또한 Wu-Tang 멤버 및 기타 게스트 아티스트와의 콜라보레이션도 포함되었으며 앨범은 전체적으로 그의 개인적인 음악 스타일을 선보이며 비평가들의 호평과 상업적 성공을 거두었습니다.
 
 #### 트랙리스트
 ```md

@@ -10,7 +10,7 @@ tags:
 - Techno
 - Tech House
 - 00s
-title: VA – 부드러운 비트, 영혼, 지혜
+title: VA - 부드러운 비트, 영혼, 지혜
 ---
 
 

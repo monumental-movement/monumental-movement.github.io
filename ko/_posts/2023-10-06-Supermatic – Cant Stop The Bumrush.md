@@ -9,7 +9,7 @@ permalink: /ko/supermatic-cant-stop-the-bumrush/
 tags:
 - Techno
 - Break Beat
-title: Supermatic – Can't Stop The Bumrush
+title: Supermatic - Can't Stop The Bumrush
 ---
 
 

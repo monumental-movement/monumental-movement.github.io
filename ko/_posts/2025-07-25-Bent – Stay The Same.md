@@ -19,7 +19,7 @@ title: 벤트 - 그대로 유지
 
 A는 이탈리아 일렉트로닉 밴드 Planet Funk의 Acid Remix입니다.
 
-B1은 1980년대 후반부터 활동해온 영국의 DJ이자 프로듀서인 Ashley Beedle의 Dub Remix입니다.
+B1은 1980년대 후반부터 활동해온 영국의 DJ 겸 프로듀서 Ashley Beedle의 Dub Remix입니다.
 
 #### 트랙리스트
 ```md

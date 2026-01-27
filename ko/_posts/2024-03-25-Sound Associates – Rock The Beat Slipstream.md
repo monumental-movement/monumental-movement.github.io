@@ -9,7 +9,7 @@ permalink: /ko/sound-associates-rock-the-beat-slipstream/
 tags:
 - Techno
 - 90s
-title: Sound Associates - Rock The Beat 슬립스트림
+title: Sound Associates – Rock The Beat 슬립스트림
 ---
 
 

@@ -16,7 +16,7 @@ title: 부 래들리스 – 바니(…그리고 나)
 
 1988년부터 1999년까지 활동했다가 2021년에 재결성한 슈게이즈, 브릿팝 관련 영국 얼터너티브 록 밴드.
 
-"Barney (...And Me)"는 1993년 발매된 앨범 "Giant Steps"의 싱글 컷으로, 2025년 TV 애니메이션 "Lazarus"의 엔딩곡으로 사용된 "Lazarus"도 포함되어 있다. Indie Rock은 1994년 Oasis, Primal Scream이 소속된 영국 인디 레이블인 Creation Records에 의해 발매되었다.
+"Barney (...And Me)"는 1993년 발매된 앨범 "Giant Steps"의 싱글 컷으로, 2025년 TV 애니메이션 "Lazarus"의 엔딩곡으로 사용된 "Lazarus"도 포함되어 있다. Indie Rock은 1994년 Oasis, Primal Scream이 소속된 영국 인디 레이블인 Creation Records에서 발매되었다.
 
 #### 트랙리스트
 ```md

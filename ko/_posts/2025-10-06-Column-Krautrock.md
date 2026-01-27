@@ -16,10 +16,10 @@ title: '[칼럼] 크라우트록의 완전한 역사 - 무한한 움직임으로
 
 ## 소개: 왜 "krautrock"인가?
 
-텍스트: mmr | 주제: 크라우트록(Krautrock)은 독일에서 시작된 실험음악, 전자음악, 포스트록, 테크노 등 후대 음악에 깊은 영향을 준 중요한 경향이다.
+글: mmr|주제: 크라우트록(Krautrock)은 독일에서 시작된 실험음악, 전자음악, 포스트록, 테크노 등 후대 음악에 깊은 영향을 준 중요한 경향이다.
 
 "크라우트록"---. 원래는 영국 음악잡지에서 붙인 경멸적인 이름이었습니다.
-"사우어크라우트(Sauerkraut)"는 독일 사람들을 가리키는 속어입니다.
+"사우어크라우트(Sauerkraut)"는 독일인을 가리키는 속어입니다.
 그러나 1960년대 후반 젊은이들은 그 꼬리표를 뒤집어 자신만의 음악을 만들기 위한 기치로 삼았다.
 
 전후 독일. 패배의 기억, 미국과 영국 문화의 홍수, 목소리를 낼 수 없는 공허함.
@@ -77,7 +77,7 @@ CAN의 창립자 **Holger Czukay**와 **Irmin Schmidt**는 그의 학생이었�
 이는 녹음테이프 자체가 악기라는 개념을 탄생시켰다.
 Shukai의 편집 기술은 이후의 힙합 샘플링과 유사했습니다.
 
-> "리듬은 시간을 지배하지만 즉흥 연주는 시간으로부터 자유로워집니다."
+> "리듬은 시간을 지배합니다. 하지만 즉흥 연주는 시간으로부터 자유로워집니다."
 > — 자키 리베자이트
 
 CAN의 사운드는 '듣는 여행'입니다. 고요함과 움직임, 우연과 질서 사이를 헤엄치는 끝없는 홈.
@@ -105,7 +105,7 @@ Rotor의 기타와 베이스가 유선형처럼 미끄러지며,
 > — 클라우스 딩거
 
 이 단순한 리듬 구조는 데이비드 보위(David Bowie)의 베를린 3부작과 유사합니다.
-브라이언 이노(Brian Eno)의 앰비언트(ambient) 작업에도 큰 영향을 미쳤다.
+브라이언 이노(Brian Eno)의 앰비언트(Ambient) 작업에도 큰 영향을 미쳤다.
 NEU!의 사운드에서 청취자는 시간이 직선이 아니라 원이라는 것을 깨닫게 됩니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4toGr7aXeVA?si=JmyFgu9v8zaxFFAS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -129,7 +129,7 @@ NEU!의 사운드에서 청취자는 시간이 직선이 아니라 원이라는 
 그들은 팝아트와 다다이즘의 영향을 많이 받았습니다.
 이후 펑크, 인더스트리얼, 샘플링 문화는 모두 파우스트의 유전자에 기반을 두고 있었습니다.
 
-> "파괴는 창조의 시작이다."
+> “파괴는 창조의 시작이다.”
 > — 얀 에믈러(파우스트)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MbMvXFZ-20E?si=fszGR2gPh979qz7h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -198,7 +198,7 @@ Forst에서 탄생한 음향 정신은 Ambient, Post-rock, 심지어 현대 환�
 
 ---
 
-## 8장: 포폴 부(Popol Vuh) - 이미지의 영성과 사운드
+## 8장: 포폴 부(Popol Vuh) - 이미지의 영성과 소리
 
 **Popol Vuh**는 크라우트록 중에서도 단연 돋보이는데요.
 리더 **Florian Fricke**는 종교 음악과 철학에 깊이 헌신했으며 Moog 신디사이저의 얼리 어답터였습니다.
@@ -220,7 +220,7 @@ Forst에서 탄생한 음향 정신은 Ambient, Post-rock, 심지어 현대 환�
 
 전 Tangerine Dream 드러머이자 전자 음악 탐구자 **Klaus Schulz**.
 그는 그룹 환경이 아닌 단독 스튜디오 작업을 통해 크라우트록의 영역을 확장했습니다.
-그들은 각각 30분 이상 지속되는 긴 트랙을 구성하고 마치 시간을 소리로 '조각'하는 것처럼 만들었습니다.
+그들은 각 트랙이 30분 이상 지속되는 긴 트랙을 구성하고 마치 시간을 소리로 '조각'하는 것처럼 만들었습니다.
 
 그의 걸작 "Timewind"(1975)와 "Moondawn"(1976)은 끝없는 리듬과 시퀀서를 갖춘 전자 명상입니다.
 이후 장 미셸 자르(Jean-Michel Jarre), 반젤리스(Vangelis), 심지어 테크노 작가들에게도 그는 '전자철학자'의 출발점이 되었다.
@@ -235,9 +235,9 @@ Forst에서 탄생한 음향 정신은 Ambient, Post-rock, 심지어 현대 환�
 
 1970년대 후반, 독일의 젊은이들은 다시 한번 변화를 겪고 있었습니다.
 Krautrock의 실험 정신은 펑크와 뉴 웨이브에서 드러납니다.
-베를린에서는 데이비드 보위(David Bowie)와 브라이언 이노(Brian Eno)가 '베를린 3부작'을 창작하고 크라우트의 미학을 흡수했습니다.
+베를린에서는 데이비드 보위(David Bowie)와 브라이언 이노(Brian Eno)가 '베를린 3부작'을 제작하며 크라우트의 미학을 흡수했습니다.
 
-- Bowie의 "Low"(1977)는 Neu! 및 클러스터.
+- Bowie의 "Low"(1977)는 Neu! 그리고 클러스터.
 - Joy Division과 The Fall은 록에 모터릭 리듬을 다시 주입했습니다.
 - 90년대 스테레오랩(Stereolab)과 토터스(Tortoise)는 크라우트록(krautrock)과 팝을 결합했습니다.
 

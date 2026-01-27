@@ -11,7 +11,7 @@ tags:
 - Egypt
 - African
 - Lebanon
-title: Amany & The Badawist – 어서, Bassem
+title: Amany & The Badawist - 어서, Bassem
 ---
 
 

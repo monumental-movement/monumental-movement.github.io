@@ -10,7 +10,7 @@ tags:
 - House
 - Euro House
 - 90s
-title: 키드 크리올과 코코넛 – 내가 바로 사용 가능
+title: 키드 크리올 앤 더 코코넛 – 내가 바로 사용 가능
 ---
 
 

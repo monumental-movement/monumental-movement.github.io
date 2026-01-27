@@ -14,7 +14,7 @@ title: Ron Isley가 출연하는 Wu-Tang Clan – Back In The Game
 ---
 
 
-"Back In The Game"은 Wu-Tang Clan과 Ron Isley가 공동 주연을 맡은 곡으로 Wu-Tang Clan의 앨범 "The W"(2000)에 수록되어 있습니다. 우탱클랜(Wu-Tang Clan)은 미국의 힙합 그룹이며, 론 아이슬리(Ron Isley)는 R&B 그룹 아이슬리 브라더스(The Isley Brothers)의 멤버이자 소울 음악의 전설적인 보컬리스트이다.
+"Back In The Game"은 Wu-Tang Clan과 Ron Isley가 공동 주연을 맡은 곡으로 Wu-Tang Clan의 앨범 "The W"(2000)에 수록되어 있습니다. 우탱클랜(Wu-Tang Clan)은 미국의 힙합 그룹으로, 론 아이슬리(Ron Isley)는 R&B 그룹 아이슬리 브라더스(The Isley Brothers)의 멤버이자 소울 음악의 전설적인 보컬리스트이다.
 
 그루비한 비트와 클래식한 샘플, 강렬한 랩 퍼포먼스가 돋보이는 곡이다.
 

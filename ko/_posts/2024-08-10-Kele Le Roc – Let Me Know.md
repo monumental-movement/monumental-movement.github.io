@@ -16,7 +16,7 @@ title: 켈레 르 록(Kele Le Roc) - 알려주세요
 ---
 
 
-Kele Le Roc으로도 알려진 Kelly Biggs는 영국의 R&B/UK Garage/Britpop 가수입니다.
+Kele Le Roc으로도 알려진 Kelly Biggs는 영국 R&B/UK Garage/Britpop 가수입니다.
 
 1995년에 발매된 "Let Me Know"는 언더그라운드와 클럽에서 히트를 쳤고, 이 노래는 Kele Le Roc을 유명하게 만들었습니다.
 

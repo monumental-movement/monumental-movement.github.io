@@ -10,7 +10,7 @@ tags:
 - Indie Rock
 - Rock
 - 90s
-title: 루돌프 로커 – 루돌프 로커의 이국적인 소리
+title: 루돌프 로커 - 루돌프 로커의 이국적인 소리
 ---
 
 

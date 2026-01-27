@@ -19,7 +19,7 @@ title: 뉴 웨이브 작품을 픽업하세요
 
 
 
-### 엘비스 코스텔로와 관광명소 - 모두가 이야기하자
+### 엘비스 코스텔로와 관광명소 – 모두가 이야기하자
 <a href="https://jp.mercari.com/item/m52393761866?afid=6142608987"><img src="../assets/images/Elvis%20Costello%20And%20The%20Attractions%20%E2%80%93%20Let%20Them%20All%20Talk.webp"></a>
 
 
@@ -204,12 +204,12 @@ B6. Working In The Coal Mine
 
 
 
-### 블랙 – 태양보다 더 많은 것
+### 블랙 - 태양보다 더
 <a href="https://jp.mercari.com/item/m36771334652?afid=6142608987"><img src="../assets/images/Black%20%E2%80%93%20More%20Than%20The%20Sun.webp"></a>
 
 발매: 2023년 10월 13일 게시. 영국의 싱어송라이터 Colín Vearncombe의 솔로명 Black의 작품.
 
-추천 포인트 : 섬세한 멜로디와 멜랑콜리한 가사가 결합된 뉴 웨이브/록 곡. 깊은 세계관이 매력적이다.
+추천 포인트 : 섬세한 멜로디와 멜랑콜리한 가사가 어우러진 뉴 웨이브/록 곡. 깊은 세계관이 매력적이다.
 
 #### 트랙리스트
 ```md

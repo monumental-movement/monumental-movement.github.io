@@ -9,7 +9,7 @@ permalink: /ko/the-dave-howard-singers-rock-on/
 tags:
 - EBM
 - 80s
-title: 데이브 하워드 싱어스(Dave Howard Singers) - 락 온(Rock On)
+title: 데이브 하워드 싱어스 - Rock On
 ---
 
 

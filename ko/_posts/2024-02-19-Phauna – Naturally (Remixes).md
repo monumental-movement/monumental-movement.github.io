@@ -14,7 +14,7 @@ title: 파우나 – 자연스럽게 (리믹스)
 ---
 
 
-Mellee Fresh와 DJ Spydabrown이 설립한 캐나다 하우스 레이블인 Play Records에서 2003년에 발매한 딥 하우스 트랙입니다.
+Mellee Fresh와 DJ Spydabrown이 설립한 캐나다 하우스 레이블 Play Records에서 2003년에 발매한 딥 하우스 트랙입니다.
 
 #### 트랙리스트
 ```md

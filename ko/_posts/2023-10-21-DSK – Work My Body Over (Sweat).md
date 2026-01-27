@@ -9,7 +9,7 @@ permalink: /ko/dsk-work-my-body-over-sweat/
 tags:
 - House
 - 90s
-title: DSK - 내 몸에 일을 해라(땀)
+title: DSK - 내 몸에 일해라 (땀)
 ---
 
 

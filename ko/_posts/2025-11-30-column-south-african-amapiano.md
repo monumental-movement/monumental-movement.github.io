@@ -21,7 +21,7 @@ title: '[칼럼] 남아프리카 아마피아노 — 남아프리카의 새로�
 
 최근에는 남아프리카공화국에서 시작된 댄스 음악 장르인 **Amapiano**가 일본뿐만 아니라 아프리카, 유럽, 북미, 아시아 전역의 클럽 씬에서 주목을 받고 있습니다.
 
-아마피아노는 타운십(저소득층 도시 지역)의 청소년 문화에서 태어나 지역 공동체 내에서 육성된 풀뿌리 음악이다. 2020년대 이후 스트리밍과 SNS의 확산은 한때 '언더그라운드 음악'이었던 것을 글로벌한 움직임으로 변화시켰다.
+아마피아노는 타운십(저소득 도시 지역)의 청소년 문화에서 태어나 지역 공동체 내에서 육성된 풀뿌리 음악이다. 2020년대 이후 스트리밍과 SNS의 확산은 한때 '언더그라운드 음악'이었던 것을 글로벌한 움직임으로 변화시켰다.
 
 ---
 
@@ -83,7 +83,7 @@ graph LR
 
 ### 지리 및 시간
 
-Amapiano의 탄생지는 남아프리카의 Gauteng입니다. 특히 중요한 것은 **요하네스버그**와 **프리토리아** 타운십입니다.
+Amapiano의 탄생지는 남아프리카의 **Gauteng**입니다. 특히 중요한 것은 **요하네스버그**와 **프리토리아** 타운십입니다.
 
 복수의 소식통에 따르면 아마피아노에 대한 실험은 2012년쯤부터 시작됐고, 이후 장르로서의 통일된 명칭인 '아마피아노'가 확립됐다.
 
@@ -136,7 +136,7 @@ graph TD
 * 전국적으로 장르화 및 상업화 촉진
 * 속편 **스콜피온 킹즈의 귀환(2019년 11월)**도 성공했습니다
 
-이 기간 동안 Amapiano는 단순한 마을 음악 그 이상으로 전국적으로나 상업적으로 인정받는 장르가 되었습니다.
+이 기간은 Amapiano를 단지 타운십 음악이 아니라 전국적으로나 상업적으로 인정받는 장르로 만들었습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u2V08RBLOdM?si=ajNfLm30b3Pom53A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -168,7 +168,7 @@ graph LR
 
 * **Kabza De Small “나는 Amapiano의 왕입니다: Sweet & Dust”** (2020년 6월)
 
-* 장르적 성숙도를 보여주는 앨범.
+* 장르적 완성도를 보여주는 앨범.
 * 동아리뿐만 아니라 앨범 작업으로도 즐길 수 있는 작곡
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FnUpA0VsKRo?si=Q_xPDYh1HwCKRzFh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

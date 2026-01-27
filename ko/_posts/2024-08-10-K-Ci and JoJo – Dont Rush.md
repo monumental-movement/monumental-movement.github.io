@@ -18,7 +18,7 @@ title: K-Ci & JoJo – 서두르지 마세요
 
 K-Ci & JoJo는 Cedric "K-Ci" Haley와 Joel "JoJo" Haley 형제로 구성된 미국의 R&B 듀오입니다.
 
-K-Ci & JoJo는 R&B 그룹 Jodeci의 리드 싱어이기도 하며, 이들의 1998년 대히트 히트곡 "All My Life"는 여러 그래미상 후보에 올랐습니다.
+K-Ci와 JoJo는 R&B 그룹 Jodeci의 리드 싱어이기도 하며, 이들의 1998년 대히트 히트곡 "All My Life"는 여러 그래미상 후보에 올랐습니다.
 
 "Don't Rush"는 K-Ci & JoJo의 데뷔 앨범 "Love Always"의 싱글 컷입니다.
 

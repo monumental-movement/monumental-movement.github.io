@@ -14,7 +14,7 @@ title: Thermobee, The Teaser 및 Simon Hodge – Itchit
 ---
 
 
-Thermobee, The Teaser, 사이먼 호지 제작
+Thermobee, 티저, 사이먼 호지(Simon Hodge)
 "Itchit"은 영국 레이블 Cut N' Dry Records가 2000년에 발표한 하드 하우스/테크노 곡입니다.
 
 발매 이후 언더그라운드 씬에서 주목을 받아 왔으며, 하드 하우스와 테크노를 융합한 에너제틱한 트랙은 오늘날에도 여전히 인기를 끌고 있다.

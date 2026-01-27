@@ -10,7 +10,7 @@ tags:
 - Electro
 - Tech House
 - 00s
-title: 델 코스타 & 페드로 고야 - Freaky Mike
+title: 델 코스타 & 페드로 고야 – Freaky Mike
 ---
 
 

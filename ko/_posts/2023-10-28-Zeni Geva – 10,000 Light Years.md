@@ -15,7 +15,7 @@ title: 제니 게바 – 10000광년
 
 
 '제니 게바 - 10000광년'은
-2000년 10월 Chicago Electrical Audio에서 녹음된 앨범의 프로모션 앨범입니다.
+2000년 10월 Chicago Electrical Audio에서 녹음된 앨범 프로모션.
 
 #### 트랙리스트
 ```md

@@ -18,7 +18,7 @@ title: '[칼럼] 기본채널──베를린 더빙 테크노의 유래'
 ## 프롤로그: 익명의 소음에서 조용한 혁명으로
 
 
-글 : mmr │ 주제 : 1990년대 베를린 지하에서 탄생한 “소리의 심연” - 베이직 채널과 더브 테크노의 탄생 역사
+글 : mmr │ 주제 : 1990년대 베를린 지하에서 탄생한 '소리의 심연' - 베이직 채널과 더브 테크노 탄생의 역사
 
 
 1993년, 베를린 장벽이 무너진 지 불과 몇 년 뒤.
@@ -104,20 +104,20 @@ Monolake, Porter Ricks, Vladislav Delay 및 Substance를 포함하여 후기 베
 연쇄 반응 기능:
 - 재킷에 아티스트 이름은 없고 카탈로그 번호만 있음
 - 모든 음원이 '같은 공간'을 공유하는 듯한 일체감
-- 대량생산이 아닌 **소리의 연쇄를 기반으로 한 이데올로기적 네트워크**
+- 대량생산이 아닌 **소리의 사슬을 기반으로 한 이데올로기적 네트워크**
 
 그 결과, 기본 채널은 '레이블'이라기보다는 **음향 철학을 위한 플랫폼**에 더 가깝습니다.
 
 ---
 
-## Chapter 5: 리듬 & 사운드 - 침묵 속 깊은 목소리
+## 5장: 리듬 & 사운드─침묵 속 깊은 목소리
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7Ocg25EUKFM?si=1XqTFcOsJNoD2JIO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 2000년대 들어 두 사람은 **Rhythm & Sound**라는 이름으로 새로운 국면을 맞이하게 된다.
-여기에는 티키맨(Tikiman), 코넬 캠벨(Cornell Campbell), 제니퍼 라라(Jennifer Lara) 등 자메이카와 독일의 레게 보컬리스트들을 초청해 '목소리'와 '잔향'의 더 깊은 융합을 만들어냈다.
+여기에 Tikiman, Cornell Campbell, Jennifer Lara 등 자메이카와 독일의 레게 보컬리스트를 초대하여 '목소리'와 '잔향'의 더 깊은 융합을 만들어 냈습니다.
 
 'King In My Empire', 'See Mi Yah'와 같은 노래는 클럽보다는 스피커 '내부'에서 연주되는 것처럼 들리는 구조를 가지고 있습니다.
 디지털 더빙의 차가움 속에서 인간의 떨림을 되찾았습니다.
@@ -212,7 +212,7 @@ Basic Channel의 사운드는 시대를 초월하며 여전히 "현재 시제"�
 그 이유는 그들이 단지 테크노를 창조한 것이 아니라 듣는 행위 자체를 재구성했기 때문입니다.
 
 메아리는 끝나지 않습니다.
-그것은 시간의 잔향이자, 듣는 사람을 공간 밖으로 이끄는 터널이다.
+그것은 시간의 잔향이자, 듣는 사람을 공간 바깥으로 이끄는 터널이다.
 
 그리고 20세기 말 베를린에서 촉발된 파문은 전 세계 지하에 소리 없이 울려 퍼지고 있다.
 

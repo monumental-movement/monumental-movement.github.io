@@ -25,7 +25,7 @@ title: '[칼럼] 트로피컬 일루젼 - 브라질 사이키델릭의 세계'
 > "Tropicália는 우리 영혼의 열대 지방입니다."
 > — 카에타노 벨로소, 1968
 
-당시 스튜디오에서는 녹음 장비의 한계를 살려 '수동 오버더빙'이 반복됐다. 릴형 테이프를 물리적으로 잘라 붙이고 테이프를 뒤로 회전시켜 역반향을 만들어내는 '사이키델릭 사운드 기술'이 탄생했습니다.
+당시 스튜디오에서는 녹음 장비의 한계를 살려 '수동 오버더빙'이 반복됐다. 릴형 테이프를 물리적으로 자르고 붙이고, 테이프를 뒤로 회전시켜 역반향을 만들어내는 '사이키델릭 사운드 기술'이 탄생했습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mTFYMEPLjA0?si=A_wPO-C5Dvwii4gJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -61,7 +61,7 @@ Os Mutantes는 특히 혁신적이었습니다. **세르지오 디아즈**의 �
 ## 2장: 음향 혁명 — 브라질 녹음 기술의 혁신
 
 당시 녹음 스튜디오 **Phonogram Studios(Rio)**에서는 서양식 멀티트랙 장비를 구할 수 없었기 때문에 2트랙 레코더를 레이어링하는 장인적 방법을 채택했습니다.
-이러한 제한은 독특한 "출혈" 사운드 이미지의 원인입니다. 특히, Os Mutuntes의 엔지니어인 **Arnaldo Baptista**는 자신만의 퍼즈 회로를 구축하고 피치를 미묘하게 변동시켜 남미 특유의 환각적인 부유감을 재현했습니다.
+이러한 제한은 독특한 "출혈" 사운드 이미지의 원인입니다. 특히 Os Mutuntes의 엔지니어인 **Arnaldo Baptista**는 자신만의 퍼즈 회로를 구축하고 피치를 미묘하게 변동시켜 남미 특유의 환각적인 부유감을 재현했습니다.
 
 또 다른 중요한 혁신은 민족 악기와 전자 사운드의 융합이었습니다. Cavaquinho 및 bell imbau와 같은 원주민 사운드를 Moog 신디사이저 및 리버스 테이프와 결합하여 브라질 음악은 '환각적인 열대 지방'으로 확장되었습니다.
 
@@ -121,7 +121,7 @@ flowchart TD
 ## 7장: 음반 — 사이키델릭 브라질의 여파로
 
 | 아티스트 | 제목 | 연도 | 링크 |
-|---|------------|----|---|
+|---|-------------|----|---|
 | Os Mutantes | Tropicália: ou Panis et Circencis | 1968 | [Amazon](https://amzn.to/46LWn9K) |
 | Caetano Veloso | Caetano Veloso | 1969 | [Amazon](https://amzn.to/3IAc2Qc) |
 | Gilberto Gil | Expresso 2222 | 1972 | [Amazon](https://amzn.to/3WuzFg5) |

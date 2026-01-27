@@ -16,7 +16,7 @@ title: 화성인 044 – 기도봉
 
 Martian 044는 디트로이트 테크노와 하우스 씬의 충실한 인물인 Gerald Foster Mitchell의 프로젝트 이름입니다. 이 이름은 Underground Resistance(UR)의 릴리스 번호 044 = "Hardlife"에서 유래되었습니다.
 
-"Prayer Stick"은 Underground Resistance의 하위 레이블 Red Planet(Submerge에서 배포)이 1998년에 발매한 테크노/일렉트로 곡입니다. Chuck Gibson의 레이블 Hitechfunk Productions가 제작에 참여했습니다.
+"Prayer Stick"은 Underground Resistance의 하위 레이블 Red Planet(Submerge에서 배포)이 1998년에 발표한 테크노/일렉트로 곡입니다. Chuck Gibson의 레이블 Hitechfunk Productions가 제작에 참여했습니다.
 
 
 #### 트랙리스트

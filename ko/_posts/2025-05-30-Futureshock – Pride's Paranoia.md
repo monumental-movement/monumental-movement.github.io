@@ -15,8 +15,8 @@ title: Futureshock - 프라이드의 편집증
 ---
 
 
-Futureshock은 영국의 DJ/프로듀서인 Alex Tepper와 Phil Dockerty입니다.
-일렉트로닉 듀오 by. 1998년부터 2003년까지 주로 활동했다.
+Futureshock은 영국의 DJ이자 프로듀서인 Alex Tepper와 Phil Dockerty로 구성된 밴드입니다.
+일렉트로닉 듀오 by. 1998년부터 2003년까지 주로 활동.
 
 "Pride's Paranoia"는 2003년 Parlophone 레이블에서 발매된 프로그레시브 하우스 트랙입니다.
 

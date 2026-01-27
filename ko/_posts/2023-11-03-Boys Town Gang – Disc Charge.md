@@ -9,7 +9,7 @@ permalink: /ko/boys-town-gang-disc-charge/
 tags:
 - Disco
 - Hi NRG
-title: 보이즈 타운 갱 – 디스크 차지
+title: 소년 타운 갱 – 디스크 차지
 ---
 
 

@@ -15,7 +15,7 @@ title: 로저 산체스 – 또 다른 기회
 
 Roger Sanchez는 미국의 하우스 DJ/리믹서/프로듀서입니다. 2003년에는 No Doubt의 "Hella Good"을 리믹스하여 그래미상을 수상했습니다.
 
-Defected가 2001년에 발표한 'Another Chance'는 로저 산체스의 시그니처 곡으로 전 세계적으로 히트를 쳤습니다.
+Defected가 2001년 발표한 'Another Chance'는 로저 산체스의 시그니처 곡으로 전 세계적으로 히트를 쳤습니다.
 
 #### 트랙리스트
 ```md
