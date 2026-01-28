@@ -20,7 +20,7 @@ title: 厚迪克 – Insatiable (Chris Coco 聲樂混音)
 
 
 
-Eric Miller，也被稱為 Thick Dick，是一位美國 house DJ/製作人，他的名字包括 E-Smoove。 2002年發行的《Insatiable》是Thick Dick的代表作，在美國舞曲排行榜上名列第一。
+Eric Miller，又名 Thick Dick，是一位美國 house DJ/製作人，曾使用過多個名字，包括 E-Smoove。 2002年發行的《Insatiable》是Thick Dick的代表作，在美國舞曲排行榜上名列第一。
 
 A 是 Chill-Out/Balearic DJ 和製作人 Chris Coco (Chris Mellor) 的混音作品。
 

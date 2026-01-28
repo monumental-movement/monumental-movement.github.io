@@ -23,7 +23,7 @@ In der Welt der elektronischen Musik und der modularen Synthesizer werden Synthe
 
 Durch die Wahl von Vintage- oder modularer Ausrüstung, insbesondere modularer Ausrüstung im Buchla-Stil, schafft sie ein Klangökosystem durch „Zufall“, „Instabilität“, „Manualität“ oder „elektrische Vibrationen und Resonanz mit dem Körper“ und nicht nur durch synthetische Klänge.
 
-Durch die sorgfältige Verflechtung von Stimmen, Live-Instrumenten, Feldaufnahmen, Natur und Körperlichkeit erhebt er das Modulare von einer „kalten Maschine“ zu einem „lebendigen Klanggefäß“. Menschen, die modulare Synthesizer und Synthesizer im Buchla-Stil lieben, werden von dieser Einstellung stark angezogen sein.
+Durch die sorgfältige Verflechtung von Stimmen, Live-Instrumenten, Feldaufnahmen, Natur und Körperlichkeit verwandelt er Modular von einer „kalten Maschine“ in ein „lebendiges Klanggefäß“. Menschen, die modulare Synthesizer und Synthesizer im Buchla-Stil lieben, werden von dieser Einstellung stark angezogen.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/95UvPlhjbE4?si=Kg2SbogrCMF55Cxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -60,9 +60,9 @@ Diese Erfahrungen lieferten ihr die Achsen „Natürlichkeit“, „Räumlichkei
 
 Als sie aufwuchs, studierte sie Komposition und Klangtheorie an einer Musikausbildungseinrichtung in den Vereinigten Staaten und war gleichzeitig in einem Folk-Duo mit Gitarre, Gesang und Klavier aktiv.
 
-Doch nachdem er die Enge seiner Studienzeit hinter sich gelassen und in seine Heimatstadt zurückgekehrt ist, kommt es zu einer unerwarteten Veränderung: Er trifft auf einen Buchla 100, den ihm ein Nachbar geliehen hat. Als sie zum ersten Mal einen modularen Synthesizer in die Hand nahm, sah sie ihn nicht als „fadenscheiniges Werkzeug“, sondern als „Co-Star“, „ein lebendiges Ding“ und „einen elektrischen Körper“.
+Doch nachdem er die Enge seiner Studienzeit hinter sich gelassen hat, kehrt er in seine Heimatstadt zurück und erlebt eine unerwartete Veränderung: Er stößt auf einen Buchla 100, den ihm ein Nachbar geliehen hat. Als sie zum ersten Mal einen modularen Synthesizer in die Hand nahm, sah sie ihn nicht als „fadenscheiniges Werkzeug“, sondern als „Co-Star“, als „lebendes Wesen“ und als „Körper aus Elektrizität“.
 
-Buchlas Instabilität, manuelles Patchen und unvorhersehbare Klangverschiebungen – durch solche Kontingenz und Instabilität entschließt sie sich, dem Synthesizer „lebendigen Klang“, „Vibration“, „Raum“ und „Körperlichkeit“ zu verleihen.
+Buchlas Instabilität, manuelles Patchen und unvorhersehbare Klangverschiebungen – durch diese Zufälligkeit und Instabilität entschließt sie sich, dem Synthesizer „lebendigen Klang“, „Vibration“, „Raum“ und „Körperlichkeit“ zu verleihen.
 
 Diese Transformation ist die Grundlage für alle seine nachfolgenden Werke.
 
@@ -74,7 +74,7 @@ Diese Transformation ist die Grundlage für alle seine nachfolgenden Werke.
 
 Ihr frühes Werk umfasste selbstproduzierte Folk- und experimentelle Tracks. Doch erst als er begann, mit dem Buchla Music Easel aufzunehmen, begann er, sich ernsthaft mit modularer/elektronischer Musik zu beschäftigen.
 
-Diese Aufnahme wurde später in Form von Tides: Music for Meditation and Yoga veröffentlicht. Windspiele, raschelnde Bäume, Vogelgezwitscher, Wassergeräusche, kleine Naturgeräusche – diese Arbeit kombiniert Umgebungsgeräusche/Feldaufnahmen mit modularen elektronischen Wellenformen.
+Diese Aufnahme wurde später als Werk mit dem Titel Tides: Music for Meditation and Yoga veröffentlicht. Windspiele, raschelnde Bäume, Vogelgezwitscher, Wassergeräusche, kleine Naturgeräusche – dieses Werk kombiniert Umgebungsgeräusche/Feldaufnahmen mit modularen elektronischen Wellenformen.
 
 Zu diesem Zeitpunkt hat es noch keine große Sensation hervorgerufen. Allerdings war die Richtung „modular + natürliche Klänge/Umgebungsgeräusche + Räumlichkeit“ bereits klar und das Grundgefühl ihrer Musik zeichnete sich ab.
 
@@ -82,7 +82,7 @@ Zu diesem Zeitpunkt hat es noch keine große Sensation hervorgerufen. Allerdings
 
 ## „EARS“ – Vielschichtiges und erweitertes Klanguniversum
 
-Der eigentliche Wendepunkt war das 2016 erschienene Album *EARS*. In diesem Werk habe ich, während Buchla im Mittelpunkt steht, verschiedene Klangressourcen wie Holzblasinstrumente, afrikanisches Daumenklavier (Mbira), Stimme und Feldaufnahmen gemischt, um einen vielschichtigen Klang zu erzeugen.
+Der eigentliche Wendepunkt war das 2016 veröffentlichte Album *EARS*. Während in diesem Werk Buchla im Mittelpunkt steht, habe ich verschiedene Klangressourcen wie Holzblasinstrumente, afrikanisches Daumenklavier (Mbira), Stimme und Feldaufnahmen gemischt, um einen vielschichtigen Klang zu erzeugen.
 
 Die Kälte elektronischer Klänge, die Sanftheit organischer Instrumente, die Fluktuation der Stimmen und natürliche Geräusche vermischen sich zu einem verträumten und lebendigen Klang, der an einen „futuristischen Dschungel“ erinnert.
 
@@ -98,7 +98,7 @@ Das Thema dieses Werks ist „Der Lebenszyklus von der Geburt bis zum Tod“ und
 
 Durch die Darstellung der Unschuld von Neugeborenen, des Wachstums, der Reife und Verwirrung sowie der Stille der Endgültigkeit durch das Medium elektronischer und organischer Klänge, des Körpers und des Raums kann der Zuhörer ein Gefühl von „Leben“ in den Klängen spüren.
 
-Mit dieser Arbeit überwand sie das Vorurteil „elektronische Musik = kalter mechanischer Klang“ und zeigte, dass „elektronische Musik auch menschliche Geschichten, Emotionen und Erinnerungen darstellen kann.“
+Mit dieser Arbeit überwand sie das Vorurteil „elektronische Musik = kalter mechanischer Klang“ und zeigte, dass „elektronische Musik auch menschliche Geschichten, Emotionen und Erinnerungen darstellen kann“.
 
 ---
 
@@ -106,11 +106,11 @@ Mit dieser Arbeit überwand sie das Vorurteil „elektronische Musik = kalter me
 
 Der über die Jahre seit 2017 gereifte Sound erreicht mit dem 2020 erschienenen Album *The Mosaic of Transformation* neue Horizonte.
 
-In dieser Arbeit betrachtet sie modulare Synthesizer als „schwingungsvermittelnde Geräte“, „eine Erweiterung des Körpers“ und „einen Schnittpunkt zwischen Elektrizität und dem Körper“. Bei der Schaffung des Stücks bestand die Idee darin, Elektrizität zusammen mit täglichen Bewegungen, Atmung und körperlichen Empfindungen zu leiten – mit anderen Worten, die Absicht bestand nicht einfach darin, den modularen Klang zu erzeugen, sondern die Vibrationen mit dem Körper zu „spüren“.
+In dieser Arbeit betrachtet sie modulare Synthesizer als „vibrationsvermittelnde Geräte“, „eine Erweiterung des Körpers“ und „einen Schnittpunkt zwischen Elektrizität und dem Körper“. Bei der Erstellung des Stücks bestand die Idee darin, Elektrizität zusammen mit täglichen Bewegungen, Atmung und körperlichen Empfindungen zu leiten – mit anderen Worten, die Absicht bestand nicht einfach darin, den modularen Klang zu erzeugen, sondern die Vibrationen mit dem Körper zu „spüren“.
 
 Infolgedessen hat dieses Werk einen Klang, der „Wellen“, „Schwankungen“, „räumliche Empfindung“ und „physische Empfindung“ anstelle von Struktur oder Form in den Vordergrund stellt. Dröhnende Stille, rollende Pads, flüsternde Stimmen und Schichten umhüllender Synthesizer schwingen über organische und elektronische, physische und elektrische, Zeit und Raum hinweg mit.
 
-Dieser Versuch ist ein äußerst poetisches und meditatives Werk, das modulare/analoge Synthesizer nicht als bloße Klangquellen präsentiert, sondern als „Schnittstelle, die den Körper und die Welt verbindet“.
+Dieser Versuch ist ein höchst poetisches und meditatives Werk, das modulare/analoge Synthesizer nicht als bloße Klangquellen präsentiert, sondern als „eine Schnittstelle, die den Körper und die Welt verbindet“.
 
 ---
 
@@ -136,7 +136,7 @@ Diese Philosophie definiert modulare Synthesizer nicht nur als Klangquellen oder
 
 ## Schallentwicklung – Zeitreihen und Schallbahn
 
-Das Folgende ist eine Geschichte ihres Sounds, der sich um ihre Hauptwerke dreht und sich zwischen „elektronisch/experimentell ⇔ organisch/physisch/räumlich“ hin und her bewegt.
+Das Folgende ist ein Verlauf ihres Klangs, der sich auf ihre Hauptwerke konzentriert und sich zwischen „elektronisch/experimentell ⇔ organisch/physisch/räumlich“ hin und her bewegt.
 
 <div class="mermaid">
 graph TD
@@ -172,7 +172,7 @@ Auf diese Weise hat sich ihr Klang nicht linear entwickelt, sondern auf komplexe
 
 ## Abschluss – Eine Nachricht an diejenigen, die Buchla lieben
 
-Kaitlyn Aurelia Smiths Reise war nie ein technisches Experiment oder eine Zurschaustellung ihres Könnens. Ihr Ziel ist es, eine reichhaltige und poetische „Welt der Empfindungen“ zu schaffen, die „Körper, Natur, Elektrizität, Zeit und Raum“ durch das „technische Gerät“ eines modularen Synthesizers miteinander verbindet.
+Kaitlyn Aurelia Smiths Reise war nie ein technisches Experiment oder eine Zurschaustellung ihrer Fähigkeiten. Ihr Ziel ist es, eine reichhaltige und poetische „Welt der Empfindungen“ zu schaffen, die „Körper, Natur, Elektrizität, Zeit und Raum“ durch das „technische Gerät“ eines modularen Synthesizers miteinander verbindet.
 
 Wenn Sie Buchla und modulare Synthesizer nicht nur als Ausrüstung, sondern als „lebende Klanggefäße“, „vibrierende Körper“ und „eine Mischung aus Zufall und Notwendigkeit“ lieben, wird ihre Arbeit Ihnen als Wegweiser für Ihre Erkundung dienen.
 

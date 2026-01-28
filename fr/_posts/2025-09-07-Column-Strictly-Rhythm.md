@@ -19,7 +19,7 @@ title: '[Chronique] Strictly Rhythm — De ses origines à nos jours : contexte
 ## Pourquoi Strictly Rhythm était spécial
 
 
-Texte : mmr｜Thème : De la création du légendaire label house new-yorkais **Strictly Rhythm** à nos jours, organisé par époque du point de vue du contexte historique, des chefs-d'œuvre représentatifs et des tendances des équipements de production de l'époque.
+Texte : mmr｜Thème : De la création du légendaire label maison new-yorkais **Strictly Rhythm** à nos jours, organisé par époque du point de vue du contexte historique, des chefs-d'œuvre représentatifs et des tendances des équipements de production de l'époque.
 
 
 Strictly Rhythm (communément appelé Strictly) est un label spécialisé house fondé à New York en 1989. Avec leur sens A&R aiguisé dans la rue et leur sélection de chansons orientée club, ils ont dominé la scène house des années 90 à New York et dans le monde. Le label excellait dans la découverte et le développement de DJ/producteurs tout en trouvant un équilibre entre les « sons » underground et les succès commerciaux.
@@ -44,7 +44,7 @@ color: #fff;
 
 **Contexte historique** : La house/techno, qui a germé à Chicago et à Détroit, est entrée dans les clubs new-yorkais au début des années 1990. C’était une époque où la culture des clubs était sur le point d’être commercialisée et où un esprit d’expérimentation underground subsistait.
 
-**Ce qui s'est passé** : Fondée en 1989 par Mark Finkelstein et Gladys Pizarro. Depuis notre création, nous nous sommes concentrés sur la musique 12 pouces orientée DJ, produisant un son directement connecté à la piste de danse et populaire dans les clubs locaux.
+**Ce qui s'est passé** : Fondée en 1989 par Mark Finkelstein et Gladys Pizarro. Depuis sa création, la société s'est concentrée sur la musique 12 pouces orientée DJ, produisant un son directement connecté à la piste de danse et populaire dans les clubs locaux.
 
 **Chef-d'œuvre représentatif (début)**
 - Roger Sanchez — *Luv Dancin'* (1990, sous le nom de Underground Solution)
@@ -104,7 +104,7 @@ De nombreuses productions utilisaient des platines vinyles et des échantillonne
 
 ## 1998-2002 : Expansion, confusion et fermeture
 
-**Contexte** : Le pic du boom et l'intensification de la concurrence sur le marché. Alors que la marque cherche une stratégie globale, ses liens capitalistiques avec de grandes entreprises font sensation.
+**Contexte** : Le pic du boom et l'intensification de la concurrence sur le marché. Alors que la griffe cherche une stratégie globale, ses liens capitalistiques avec de grandes entreprises font sensation.
 
 **Événement** : Après un partenariat avec Warner, l'activité a été temporairement suspendue en 2002.
 
@@ -181,7 +181,7 @@ La marque/catalogue est toujours active et est utilisée comme « atout » pour 
 | 6 | Louie Véga | Rituel de danse (2016) | Deep house aux saveurs latines. |
 | 7 | DJ Spen | L'esprit de la maison | Une version moderne de l'essence de la maison traditionnelle. |
 | 8 | David Penn | Escroc fils | Un air de club avec un groove et une mélodie douces. |
-| 9 | Riva Starr | Nation Maison 2020 | Maison énergique, des rythmes qui brillent au sol. |
+| 9 | Riva Starr | Maison Nation 2020 | Maison énergique, des rythmes qui brillent au sol. |
 | 10 | Barbara Tucker | Je me fais soulever (Remix 2021) | Un remix d'une chanson célèbre avec un arrangement moderne, où le chant brille. |
 
 ---

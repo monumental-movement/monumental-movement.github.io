@@ -44,7 +44,7 @@ color: #fff;
 
 Le terme EBM a été introduit au début des années 1980 et fonctionnait initialement davantage comme un concept désignant une attitude créative et une direction musicale que comme un nom de genre. Comme le nom « Electronic Body Music » le suggère, l'accent est mis sur la conduite directe du mouvement physique à travers des sons électroniques.
 
-D'un autre côté, Electro-Industrial est un nom qui s'est développé à partir de la structure d'EBM, incorporant un traitement acoustique plus complexe, des éléments sonores et des thèmes psychologiques et introspectifs. Les deux genres ne sont pas discontinus, mais se distinguent par un développement continu avec l'EBM comme colonne vertébrale.
+D'un autre côté, Electro-Industrial est un nom qui s'est développé à partir de la structure d'EBM, incorporant un traitement acoustique plus complexe, des éléments sonores et des thèmes psychologiques et introspectifs. Les deux genres ne sont pas discontinus, mais se distinguent par un développement continu avec l'EBM comme épine dorsale.
 
 ---
 
@@ -86,7 +86,7 @@ flowchart LR
 
 La ligne de basse d'EBM n'a presque aucun développement mélodique et se compose de répétitions de notes simples ou d'intervalles extrêmement limités. Cette conception maximise l'intégration avec le rythme et donne la priorité à la fonction motrice plutôt qu'à l'expression musicale.
 
-Les séquences sont basées sur des motifs courts et les développements sont créés grâce à des changements subtils de tonalité et des opérations de sourdine.
+Les séquences sont basées sur des motifs courts et les développements sont créés par des changements subtils de tonalité et des opérations de sourdine.
 
 ---
 
@@ -108,7 +108,7 @@ Comme l'illustre Nitzer Ebb, le chant fait partie du rythme et joue un rôle en 
 
 ## 8. Configuration des équipements et environnement de production
 
-Les boîtes à rythmes, les synthétiseurs analogiques et les séquenceurs matériels ont joué un rôle central dans les débuts de l'EBM. Ceux-ci ont été sélectionnés en mettant l'accent sur la reproductibilité non seulement pour la production en studio mais également pour les performances live.
+Les boîtes à rythmes, les synthétiseurs analogiques et les séquenceurs matériels ont joué un rôle central dans les premiers débuts de l'EBM. Ceux-ci ont été sélectionnés en mettant l'accent sur la reproductibilité non seulement pour la production en studio mais également pour les performances live.
 
 Le processus de production se déroule souvent par étapes : conception du timbre, construction du motif et vérification itérative.
 

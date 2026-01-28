@@ -10,13 +10,13 @@ tags:
 - Techno
 - 90s
 - Drum n Bass
-title: 로랑 가르니에 – 바삭한 베이컨(2부)
+title: 로랑 가르니에 - 크리스피 베이컨(2부)
 ---
 
 
 Choice로도 알려진 Laurent Garnier는 프랑스의 전자 음악 프로듀서이자 DJ입니다.
 
-"Crispy Bacon (Part 2)"는 Laurent Garnier와 Eric Morand의 F Communications 레이블이 1997년에 발매한 테크노 트랙입니다.
+"Crispy Bacon (Part 2)"는 Laurent Garnier와 Eric Morand의 F Communications 레이블이 1997년에 발표한 테크노 트랙입니다.
 
 A-side는 TOMTOM(Tommy Hamilton)과 POSATRONIX(William "BJ" Smith)로 구성된 디트로이트 일렉트로닉 밴드 AUX88의 리믹스입니다.
 

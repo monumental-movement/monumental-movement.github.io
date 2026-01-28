@@ -67,7 +67,7 @@ Ce son a une structure qui, à l'inverse, fait ressortir des émotions à traver
 En 1991, lors de l'explosion alternative symbolisée par « Nevermind » de Nirvana, l'attitude du « n'osez pas monter le volume » est apparue comme une alternative paradoxale.
 
 ## ■ Esthétique indépendante du Midwest américain
-En se concentrant sur de petits labels dans des villes régionales telles que le Minnesota, l'Ohio et la Californie, l'**environnement d'enregistrement rustique = l'esthétique Lo-Fi** est devenu associé au slowcore.
+En se concentrant sur de petits labels dans des villes régionales telles que le Minnesota, l'Ohio et la Californie, **un environnement d'enregistrement rustique = esthétique Lo-Fi** est devenu associé au slowcore.
 
 ---
 
@@ -234,7 +234,7 @@ flowchart TD
 ---
 
 # 10. Résumé
-Le Slowcore/Sadcore est un genre né dans les années 1990 dans le genre indie américain et qui valorise la « quiétude ». Tempo lent, peu de notes, réverbérations lointaines et paroles introspectives. Ceux-ci sont nés à l’opposé de la musique intense, mais ils sont désormais à nouveau sous les projecteurs de la culture visuelle et des médias sociaux.
+Le Slowcore/Sadcore est un genre né dans les années 1990 dans la musique indépendante américaine et qui valorise la « quiétude ». Tempo lent, peu de notes, réverbérations lointaines et paroles introspectives. Ceux-ci sont nés à l’opposé de la musique intense, mais ils sont désormais à nouveau sous les projecteurs de la culture visuelle et des médias sociaux.
 
 Au contraire, la limitation de « quelques sons » **permet à l'auditeur de s'enfoncer plus profondément dans la musique, permettant ainsi aux contours du monde d'émerger plus clairement**.
 Le slowcore est un type de musique unique qui dépeint discrètement les plus petites unités d'émotion.

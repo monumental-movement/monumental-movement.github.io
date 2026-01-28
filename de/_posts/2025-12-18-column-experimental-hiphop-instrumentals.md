@@ -11,7 +11,7 @@ tags:
 - Experimental
 - Hiphop
 - Instrumental
-title: '[Kolumne] Experimentelle Hip-Hop-Instrumentale'
+title: '[Kolumne] Experimentelle Hip-Hop-Instrumente'
 ---
 
 
@@ -62,7 +62,7 @@ Als Geräte zur Aufnahme und Wiedergabe kurzer Audiofragmente wurden digitale Sa
 
 ## Von der Schleifenkultur zur Fragmentkultur
 
-In der traditionellen Hip-Hop-Produktion waren Loops von zwei bis acht Takten die Grundeinheit eines Songs. Bei experimentellen Instrumenten ist diese Einheit extrem verkürzt, wodurch Fragmente von weniger als einem Schlag, manchmal mehreren zehn Millisekunden, wiederholt und unterbrochen werden. Dadurch wird vom Zuhörer verlangt, der Dichte der Veränderungen in der Akustik zu folgen, statt die Schläge zu zählen.
+In der traditionellen Hip-Hop-Produktion waren Loops von zwei bis acht Takten die Grundeinheit eines Songs. Bei experimentellen Instrumenten ist diese Einheit extrem verkürzt und wiederholt und unterbricht Fragmente von weniger als einem Schlag, manchmal mehreren zehn Millisekunden. Dadurch wird vom Zuhörer verlangt, der Dichte der Veränderungen in der Akustik zu folgen, statt die Schläge zu zählen.
 
 > „Wiederholung ist nicht stabil, sondern fungiert als eine Reihe von Beschwerden“
 

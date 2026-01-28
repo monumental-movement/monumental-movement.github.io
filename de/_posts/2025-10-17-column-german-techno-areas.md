@@ -160,7 +160,7 @@ Für sie ist Musik sowohl politisch als auch alltäglich.
 
 ### 4-3. Bedeutung von „unzentriertem Techno“
 
-Es ist leicht, Berlin zu vergöttlichen.
+Es ist leicht, Berlin zu vergöttern.
 Doch die wahre Vielfalt des deutschen Techno liegt im **Widerstand der Peripherie**.
 Die Langsamkeit der Zeit und das analoge Gefühl der Landschaft.
 Dies spiegelt den zukünftigen Sound von Techno wider.

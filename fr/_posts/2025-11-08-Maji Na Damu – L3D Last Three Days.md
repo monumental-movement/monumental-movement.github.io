@@ -10,15 +10,15 @@ tags:
 - Progressive Trance
 - Trance
 - 00s
-title: Maji Na Damu – L3D (Last Three Days)
+title: Maji Na Damu – L3D (trois derniers jours)
 ---
 
 
-Maji Na Damu (マージ・ナ・ダムー)は、JUN JUN(にゅんにゅん)とTa(たあ)による日本のフィーメイルTechno / Trance ユニット。プロデューサーは、ageHaのレジデントDJで活躍し、浜崎あゆみ、倖田來未、globeなどプロデュース&remixを手掛けるDJ 19(田中 裕之/Hiro Tanaka)。
+Maji Na Damu est une unité techno/trance féminine japonaise formée par JUN JUN et Ta. Le producteur est DJ 19 (Hiro Tanaka), qui est actif en tant que DJ résident chez ageHa et a produit et remixé des artistes tels que Ayumi Hamasaki, Kumi Koda et Globe.
 
-「L3D (Last Three Days)」は、元ピチカートファイヴの高浪慶太郎が設立したレーベルOut Of Tuneから2000年にリリースされた。
+"L3D (Last Three Days)" est sorti en 2000 sur Out Of Tune, un label fondé par Keitaro Takanami, anciennement de Pizzicato Five.
 
-A面B面ともにRemixは、DJ 19と、小川弘と黒沢永紀によるH.Garden(Master Mind/マスターマインド)。
+Les faces A et B sont remixées par DJ 19, H.Garden (Master Mind) par Hiroshi Ogawa et Eiki Kurosawa.
 
 #### Liste des chansons
 ```md

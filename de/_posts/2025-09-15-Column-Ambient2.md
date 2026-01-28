@@ -15,7 +15,7 @@ title: '[Kolumne] Ambient: Von „Musik hören“ zu „Musik fühlen“ II'
 ---
 
 
-## Von „Musik zum Anhören“ zu „Musik zum Fühlen“ II
+## Von „Musik zum Hören“ zu „Musik zum Fühlen“ II
 
 Text: mmr｜Thema: Ambient, Umweltmusik, Theorie der elektronischen Musikkultur
 
@@ -66,7 +66,7 @@ In dieser Zeit etablierte sich das Wort „Ambient“ und die Rolle der Musik al
 ## ■ 1980er: Fusion mit elektronischer Musik
 
 ### Sozialer Hintergrund
-Die Musik wird von der Spannung der Struktur des Kalten Krieges und gleichzeitig vom Optimismus gegenüber der Technologie getragen. Mit der Verbreitung von Heimsynthesizern hat sich Ambient-Musik von einer Musik für eine Minderheit der Zuhörer zu einer Musik entwickelt, die Teil des Alltags ist.
+Die Musik wird von der Spannung der Struktur des Kalten Krieges und gleichzeitig vom Optimismus gegenüber der Technologie getragen. Mit der Verbreitung von Heimsynthesizern hat sich Ambient-Musik von einer Musik für eine Minderheit von Zuhörern zu einer Musik entwickelt, die Teil des Alltags ist.
 
 ### Meisterwerk
 - [Harold Budd & Brian Eno 『The Plateaux of Mirror』（1980）](https://amzn.to/4nmHFvq)  
@@ -306,7 +306,7 @@ Ambient hat den Aspekt einer „akustischen Architektur“.
 
 - Verwendung im medizinischen Bereich (Entspannung vor und nach Operationen, Verbesserung der Konzentration).
 - Unverzichtbare Musik für Meditation und Yoga.
-- Forschungsberichte zufolge haben „binaurale Beats“ mit natürlichen Klängen und niedrigen Frequenzen eine stressreduzierende Wirkung.
+- Forschungsberichte zeigen, dass „binaurale Beats“ mit natürlichen Klängen und niedrigen Frequenzen eine stressreduzierende Wirkung haben.
 - Durch die Verschmelzung mit Psychotherapie und Musiktherapie hat sich Ambient-Musik als „therapeutische Musik“ etabliert.
 
 ---
@@ -331,10 +331,10 @@ Ambient hat den Aspekt einer „akustischen Architektur“.
 
 - [『攻殻機動隊』](https://amzn.to/3VwvujB)などアニメ音楽でアンビエント的空間を表現。  
 
-**Andere**
+**andere**
 
 - Yasuhiro Yoshigaki, ACO, CHIhei Hatakeyama usw.
-- Japans einzigartiges „ma“ und „wabi-sabi“ bilden eine andere Textur als ausländische Ambient-Musik.
+- Japans einzigartiges „ma“ und „wabi-sabi“ erzeugen eine Textur, die sich von der ausländischer Ambient-Musik unterscheidet.
 
 ---
 

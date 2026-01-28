@@ -120,7 +120,7 @@ De plus, les versions OVA et cinématographiques proposent désormais une plus g
 
 ### 2.3 Accompagnement dramatique, chansons thématiques et chansons insérées : l'évolution des goûts au fil du temps
 
-Au cours de cette période, l'éventail du développement musical s'est considérablement élargi. En plus des chansons thématiques, des chansons d'insertion, des chansons de personnages (chansons chantées sous le nom du personnage), des albums de remix, des meilleurs albums, des albums live, etc. sont sortis les uns après les autres et la catégorisation des produits musicaux a progressé.
+Au cours de cette période, l'éventail du développement musical s'est considérablement élargi. En plus des chansons thématiques, des chansons d'insertion, des chansons de personnages (chansons chantées sous des noms de personnages), des albums de remix, des albums best-of, des albums live, etc. sont sortis les uns après les autres et la catégorisation des produits musicaux a progressé.
 
 L'accompagnement musical (BGM) a également évolué. Il y avait un mouvement croissant pour fusionner audacieusement le piano, les cordes et les synthés, et une forte tendance a émergé du son « champ de bataille » des années 1980 pour exprimer les « sentiments d'un personnage » et la « représentation interne détaillée » à travers le son.
 
@@ -139,7 +139,7 @@ Nous sommes entrés dans une ère dans laquelle la « musique Gundam » n'est pa
 ### 3.2 Exemple : Composition de la bande originale de la série "Mobile Suit Gundam SEED"
 
 Pour "Mobile Suit Gundam SEED" (2002-), Hiroyuki Kono et d'autres étaient en charge de la musique, plutôt que le compositeur Hiroyuki Sawano, et la chanson thème, la chanson d'insertion, la chanson des personnages, le disque de remix et le "Suit CD" ont été développés.
-Cette structure montre que la musique Gundam est devenue « un produit/culture qui ne peut être séparé de l’œuvre ». La musique est devenue une marque, et elle fonctionne ailleurs que dans les productions (spectacles live, CD bonus, collaborations).
+Cette structure montre que la musique Gundam est devenue « un produit/culture qui ne peut être séparé de l'œuvre ». La musique est devenue une marque, et elle fonctionne ailleurs que dans les productions (spectacles live, CD bonus, collaborations).
 
 ### 3.3 Travaux récents : Expérience musicale dans "Mobile Suit Gundam : Witch of Mercury"
 
@@ -233,7 +233,7 @@ Vous trouverez ci-dessous une chronologie comprenant les œuvres, les chansons t
 Vous trouverez ci-dessous une liste d'extraits d'œuvres majeures et de chansons représentatives.
 
 | Titre de l'œuvre | Titre de la chanson | Chanteur | Compositeur/Parolier | Remarques |
-|---------|---------|---------|------------------------------------|---------|
+|--------------|---------|---------|------------------------------------|---------|
 | Combinaison mobile Gundam | Voler! Gundam | Kou Ikeda | Yuji Matsuyama/Tsutomu Isotani | Premier PO |
 | Combinaison mobile Zeta Gundam | Avec amour pour la planète eau | Hiroko Moriguchi | Neil Sedaka/Kayoko Ebina | Chanson OP2 |
 | Mobile Suit Gundam : contre-attaque de Char | Au-delà du temps ~Au-delà de l'univers Mobius~ | RÉSEAU MT | Tetsuya Komuro/Mitsuko Komuro | Chanson thème du film |
@@ -254,13 +254,13 @@ Compositeur et producteur qui a dirigé la scène musicale pop japonaise des ann
 
 - **Neil Sedaka**
 
-Compositeur/chanteur pop américain. En 1985, il participe à la composition de la chanson d'ouverture de « Mobile Suit Zeta Gundam », « With Love to the Water Star », et est une présence significative en termes de recours à des artistes étrangers.
+Compositeur/chanteur pop américain. En 1985, il a participé à la composition de la chanson d'ouverture de « Mobile Suit Zeta Gundam », « To the Planet of Water with Love », et constitue une présence significative dans le sens où il a fait appel à un compositeur étranger.
 
 - **DEUX‑MIX**
 
 Une unité pop qui représentait la scène des chansons d'anime à la fin des années 1990. Ils ont attiré l'attention avec la chanson d'ouverture « Just Communication » de « Mobile Suit Gundam W » et ont symbolisé la « pop-isation » de la musique Gundam avec une composition de chansons centrée sur la synth pop.
 
--**Hiroko Moriguchi**
+- **Hiroko Moriguchi**
 
 Un chanteur actif des années 1980 à nos jours. Il est responsable de nombreuses chansons thématiques pour la série Gundam, y compris la chanson thème d'ouverture de "Mobile Suit Zeta Gundam", "With Love to the Star of Water" et la chanson thème de "Mobile Suit Gundam F91", "ETERNAL WIND ~Hohoemi wa Hikaru Kaze no Naka~".
 

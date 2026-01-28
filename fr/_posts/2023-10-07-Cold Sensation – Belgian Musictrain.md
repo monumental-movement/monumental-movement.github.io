@@ -18,7 +18,7 @@ title: Sensation de froid – Belgian Musictrain
 
 Cold Sensation est un groupe brièvement populaire sur la scène dance music belge, et leurs chansons se caractérisent par des rythmes et des mélodies énergiques et dansants.
 
-"Belgian Musictrain" a pour but d'animer la piste de danse avec des sons qui intègrent les tendances de la dance music et la technologie de l'époque. Cette chanson est connue comme une œuvre qui a reçu un certain nombre d'éloges sur la scène dance music belge et a une signification particulière pour certains fans de dance music en raison de sa mélodie et de son rythme accrocheurs, ainsi que de son hommage à la scène musicale belge.
+``Belgian Musictrain'' a pour but d'animer la piste de danse avec des sons qui intègrent les tendances de la musique de danse et la technologie de l'époque. Cette chanson est connue comme une œuvre qui a reçu un certain nombre d'éloges sur la scène musicale dance belge et a une signification particulière pour certains fans de dance music en raison de sa mélodie et de son rythme accrocheurs, ainsi que de son hommage à la scène musicale belge.
 
 #### Liste des chansons
 ```md

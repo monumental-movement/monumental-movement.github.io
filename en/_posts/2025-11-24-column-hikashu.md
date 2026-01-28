@@ -16,7 +16,7 @@ title: '[Column] Hikashu: A cross-border history of avant-garde pop—a musical 
 
 ## Covers creative methods, members, chronology, and charts
 
-Text: mmr | Theme: A long column by Hikashu, who appeared at the dawn of techno/new wave at the end of the 1970s and pioneered "Japanese experimental pop." Trajectory from formation to present
+Text: mmr | Theme: A long column by Hikashu, who appeared at the dawn of techno/new wave in the late 1970s and pioneered "Japanese experimental pop." Trajectory from formation to present
 
 Hikashu is a group that occupies a unique position in Japanese pop/rock history.
 Since their debut in 1978, they have freely crossed elements such as **new wave, avant-garde music, music theater, improvisation, electronic music, and folk music** while maintaining their unique creations that ""continue to shake up the concept of genre.''
@@ -147,7 +147,7 @@ These are not just vocals, but an exploration of the voice as an acoustic materi
 In the early stages, the new wave-like stoic beats stand out, but from the middle onwards, complex ensembles with multiple beats existing at the same time increase.
 
 ### ■ 3. "Structural humor" rather than "absurdity"
-Hikashu's lyrics and performances may seem bizarre, but many of them are extremely precisely structured.
+Hikashu's lyrics and production may seem bizarre, but many of them are extremely precisely structured.
 Nonsense is not a "thought-stopping gag" but a device for shaking the boundary between language and sound.
 
 ### ■ 4. Theremin and electronic acoustics
@@ -160,7 +160,7 @@ The theremin's unstable pitch disturbs the structure of the song while giving it
 
 - **Koichi Makigami**: Voice: Theremin. the center of the band. A wide range of activities from avant-garde music to theater to folk music.
 - **Mita Chojin**: Guitar. Skilled in acoustic processing and irregular playing techniques.
-- **Akira Toyama** (temporary participant): Drums. Introducing a sense of jazz/improvisation into the band.
+- **Akira Toyama** (temporary participation): Drums. Introducing a sense of jazz/improvisation into the band.
 - **Masami Sakaide**: Bass. Contributes to the complexity of the rhythm structure.
 - **Makoto Inoue** (initial): Keyboard. It determined Hikashu's techno/new wave feel in the early days.
 
@@ -193,7 +193,7 @@ timeline
 * **Rumors of humanity**
 * **Hikashu (debut album)**
 * **Living**
-* **Human face**
+* **人間の顔**
 * **Improvisational and structural works (prolific in the 2000s)**
 
 These works continue to develop Hikashu's unique worldview, regardless of trends.
@@ -221,7 +221,7 @@ It is not enough to simply talk about Hikashu as a ""legend of Japanese new wave
 —The "state" of hikashu
 
 Hikashu is more than a "band", it's a testing ground for sound, body, and humor.
-Even though it has been over 45 years since their formation, they have always appeared on stage not to reenact the past, but to discover the "now" anew.
+Even though it has been over 45 years since their formation, they are always on stage not to reenact the past, but to discover the "now" anew.
 
 This attitude is of unique value in the history of Japanese music.
 Hikashu never ends. They always exist as an ongoing "state."

@@ -57,7 +57,7 @@ Cette direction a été formée et le nom Sound Tribe Sector 9 a été lancé.
 
 ---
 
-# 2. 1998-2002 : Premiers travaux et adaptation à la culture des tournées
+# 2. 1998–2002 : Premiers travaux et adaptation à la culture des tournées
 ##2-1. Debut Era ― *Véhicule d'évasion interplanétaire* (1998)
 
 Leur premier album, Interplanetary Escape Vehicle, sorti en 1998, avait une sensation de performance live plus forte que le STS9 actuel, avec un mélange d'étendues de guitare de type post-rock, de rythmes de type Afrobeat et d'ensembles de type jazz.
@@ -127,7 +127,7 @@ La structure live de la même période était
 - Downtempo
 - Modèle de type IDM
 - de longues improvisations
-Le public est passé à une expérience de type plancher/festival avec pour principe de « danser ».
+Le public est passé à une expérience de type « piste/festival » avec comme prémisse la « danse ».
 
 Ce qui est important ici, c'est que STS9 a développé une technique permettant de reproduire la « texture de la musique électronique » avec une guitare et une basse.
 De nombreux éléments sont passés par la chaîne d'effets, créant une caractéristique dans laquelle la pensée éditoriale de la DAW se reflétait directement dans la performance live.
@@ -148,7 +148,7 @@ Depuis le début de STS9
 - Accompagnement pédagogique
 - Protection de l'environnement
 - Activités locales
-Il a participé activement à des activités caritatives telles que
+Il a participé activement à des activités caritatives telles que :
 
 Il existe également de nombreux spectacles qui reversent une partie des recettes des billets en direct, et de nombreuses chansons ayant pour thème des problèmes sociaux.
 En particulier, « Peaceblaster » (2008) se positionne comme une œuvre conceptuelle ayant pour toile de fond des thèmes politiques et environnementaux.
@@ -280,7 +280,7 @@ Les spectacles live de STS9 se marient bien avec les festivals.
 -Bonnaroo
 - Forêt électrique
 - Suwannee Hulaween
-Leurs « sets de fin de soirée » lors de grands festivals comme « Late Night » sont devenus légendaires.
+Leurs « sets de fin de soirée » lors de grands festivals tels que « Late Night » sont devenus légendaires.
 
 ##11-3. Exemples pionniers d’artistes communautaires
 

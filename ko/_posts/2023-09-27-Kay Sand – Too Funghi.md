@@ -9,7 +9,7 @@ permalink: /ko/kay-sand-too-funghi/
 tags:
 - House
 - Tech House
-title: 케이 샌드 – 투 펑히(Too Funghi)
+title: 케이 샌드 - 투 펑히(Too Funghi)
 ---
 
 

@@ -18,7 +18,7 @@ Lee Burridge 是一位英國 DJ 和製作人。 20世紀90年代初，他幫助�
 
 他還與 DJ Craig Richards 和 Sasha 一起作為 Tyrant Soundsystem 活躍。
 
-Dan Findlay，也稱為 Dan F，是一位駐香港的 DJ 和酒吧老闆。
+Dan Findlay，也稱為 Dan F，是香港的 DJ 和酒吧老闆。
 
 與 Technasia 等人一樣，Dan F 被認為是最早發行 Club 音樂（包括 Breakbeat、Tech House 和 Minimal Techno）的香港藝術家之一。
 

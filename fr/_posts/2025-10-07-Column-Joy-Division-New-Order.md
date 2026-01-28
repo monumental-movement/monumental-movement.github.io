@@ -22,7 +22,7 @@ Texte : mmr | Thème : De Joy Division à New Order - Une histoire de transforma
 
 À la fin des années 1970, la ville industrielle de Manchester était en proie à la dévastation et à la stagnation. Hausse du chômage, troubles sociaux et ciel gris. Parmi eux, Joy Division a transformé en son le désespoir des jeunes avec ses rythmes inorganiques et sa poésie froide. La voix d'Ian Curtis résonnait comme un symbole de la douleur et de la solitude de l'époque, ouvrant la porte à une nouvelle ère du post-punk.
 
-Cependant, la mort de Curtis en 1980 a mis un terme brutal à cette histoire. Les membres restants choisissent de renaître de leur tristesse et se lancent dans le futur de la musique électronique. La naissance de New Order marquait le début d’un nouveau chapitre dans le son de Manchester qui avait évolué au-delà de la tragédie.
+Cependant, la mort de Curtis en 1980 a mis un terme brutal à cette histoire. Les membres restants choisissent de renaître de leur tristesse et se lancent dans le futur de la musique électronique. La naissance de New Order a marqué le début d’un nouveau chapitre dans le son de Manchester qui a évolué au-delà de la tragédie.
 
 ---
 
@@ -42,7 +42,7 @@ color: #fff;
 ### Chapitre 1 : Les ombres de Manchester
 
 **"Mouvement embryonnaire post-punk"**
-À la fin des années 1970, la Grande-Bretagne était en proie à une récession économique et à un déclin industriel, et la culture des jeunes se développait de manière indépendante dans les zones urbaines. Manchester ne faisait pas exception, et sous la fumée de l’usine et le ciel gris, la musique existait comme un moyen d’exprimer à la fois le désespoir et l’espoir.
+À la fin des années 1970, la Grande-Bretagne était en pleine récession économique et en déclin industriel, et la culture des jeunes se développait de manière indépendante dans les zones urbaines. Manchester ne faisait pas exception, et sous la fumée de l’usine et le ciel gris, la musique existait comme un moyen d’exprimer à la fois le désespoir et l’espoir.
 
 **"L'aube de la formation du groupe"**
 En 1976, Bernard Sumner, Peter Hook et Stephen Morris se rencontrent et fondent Joy Division. Les premiers membres se sont connectés grâce à l'école et à la scène punk locale, et au début ils ont joué des reprises, mais ont finalement évolué vers des chansons originales qui reflétaient leur sentiment d'isolement et la morosité de la ville.
@@ -153,7 +153,7 @@ Les sessions de la BBC et les enregistrements de démonstration incluent de nomb
 Les problèmes de matériel et les arrangements improvisés lors des performances live renforcent également la puissance expressive du groupe. Leur performance live légendaire est devenue un sujet de conversation parmi les fans.
 
 **"Changements dans l'équipement et la technologie d'enregistrement"**
-Des techniques de production de Martin Hannett à l'introduction des synthétiseurs et des boîtes à rythmes, les choix d'équipement étaient étroitement liés aux changements de musicalité.
+Depuis les techniques de production de Martin Hannett jusqu'à l'introduction des synthétiseurs et des boîtes à rythmes, les choix d'équipement étaient étroitement liés aux changements de musicalité.
 
 Amazonで購入 → [Retro](https://amzn.to/4obe2NR)
 

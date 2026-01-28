@@ -24,7 +24,7 @@ Unnötig zu erwähnen, dass der Erfolg von „Knights Of The Jaguar“ einen gro
 
 Samuel Ls „Day n' Night“ ist ein repräsentatives Werk des Techno-Sounds nach dem bahnbrechenden „Knights Of The Jaguar“, das einen Wendepunkt in der Techno-Szene darstellte und ebenfalls großen Einfluss hatte.
 
-Unter den Techno-Tracks aus dem Jahr 2001 handelt es sich um einen Techno-Sound direkt nach der Jahrtausendwende, mit funkigen Elementen, die mit einem geraden Beat verflochten sind, einer angenehmen Bassdrum, keine Breaks oder Gesang, nur Musik.
+Unter den Techno-Tracks aus dem Jahr 2001 ist es ein Techno-Sound direkt nach der Jahrtausendwende, mit funkigen Elementen, die mit einem geraden Beat verflochten sind, einer angenehmen Bassdrum, keine Pausen oder Gesang, nur Musik.
 
 Diese Platte ist ein großartiger Track, der jedem Techno-Liebhaber definitiv den Tag versüßen wird.
 

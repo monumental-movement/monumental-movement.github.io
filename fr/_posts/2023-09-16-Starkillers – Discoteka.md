@@ -14,9 +14,9 @@ title: Starkillers – Discoteka
 ---
 
 
-「Discoteka」は、エレクトロハウスやプログレッシブハウスといったジャンルの要素を含んだダンスミュージックです。
+"Discoteka" est une musique dance qui comprend des éléments de genres tels que l'électro house et la house progressive.
 
-Starkillersの特徴的なサウンドスタイルが反映されており、エネルギッシュなビート、重厚なベースライン、疾走感のあるメロディが特徴です。クラブやパーティー、フェスティバルで人気のトラックです。
+Il reflète le style sonore caractéristique des Starkillers, avec des rythmes énergiques, des lignes de basse lourdes et des mélodies entraînantes. C'est un morceau populaire dans les clubs, les fêtes et les festivals.
 
 #### Liste des chansons
 ```md

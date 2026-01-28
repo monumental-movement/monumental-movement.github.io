@@ -21,7 +21,7 @@ title: '[Kolumne] Floating Points und Akustik als Wissenschaft – Analytische E
 Text: mmr | Thema: Floating Points vom Neurowissenschaftler Sam Shepherd. Entdecken Sie die wissenschaftliche Struktur, die in seiner Musik verborgen ist, und ihre Neudefinition als Ambient-Jazz
 
 **Sam Shepherd**, auch bekannt als Floating Points, war Neurowissenschaftler, bevor er Musiker wurde.
-Das „präzise Sounddesign“ und die „organische Improvisation“, die seine Arbeit charakterisieren, sind genau die Gedanken, die ihm entstehen, wenn er zwischen Labor und Bühne hin und her geht. Elektronische Klänge sind keine anorganischen Daten, sondern können als Wellenformen betrachtet werden, die auf die gleiche Weise schwanken wie Gehirnreaktionen. Für ihn ist Klang sowohl ein „messbares Naturphänomen“ als auch der „unkontrollierbare Atem des Lebens“.
+Das „präzise Sounddesign“ und die „organische Improvisation“, die seine Arbeit charakterisieren, sind genau die Gedanken, die ihm entstehen, wenn er zwischen Labor und Bühne hin und her geht. Elektronische Klänge sind keine anorganischen Daten, sondern können als Wellenformen betrachtet werden, die auf die gleiche Weise wie Gehirnreaktionen schwanken. Für ihn ist Klang sowohl ein „messbares Naturphänomen“ als auch der „unkontrollierbare Atem des Lebens“.
 
 ---
 
@@ -42,7 +42,7 @@ color: #fff;
 
 ### 2. Wissenschaft der Struktur – Elaenia-Zeit (2015)
 Sein Debütalbum „Elaenia“ markiert einen Wendepunkt in der wissenschaftlichen Neuordnung des Kontexts des Ambient Jazz.
-Der Klang besteht aus modularen Synthesizer-Wellenformen, Rhodes-Obertönen und Saitennachhall, die übereinander geschichtet sind, um einen Frequenzdialog zu erzeugen.
+Der Klang ist eine Kombination aus modularen Synthesizer-Wellenformen, Rhodes-Obertönen und Saitennachhall, die übereinander geschichtet sind, um einen Frequenzdialog zu erzeugen.
 Dieser Dialog ähnelt eher einer „Resonanz als physikalischem Phänomen“, einer Welleninterferenz, als einer Improvisation.
 
 > „Silhouettes (I, II & III)“ ist ein 10-minütiges Klangexperiment,
@@ -70,11 +70,11 @@ Es handelt sich um „von einer Maschine ausgeführte Improvisation“ und zugle
 ### 4. Resonanz des Lichts – Versprechenszeitraum (2021)
 „Promises“, gemeinsam mit Pharoah Sanders geschrieben, ist ein Werk, in dem Floating Points wissenschaftliches Klangdenken den Bereich der Seele erreicht.
 Dieses Album überschneidet die physische „Klangmessung“ und das metaphysische „Zeitgefühl“.
-Das Motiv, das sich durch die neun Kapitel umfassende Suite zieht, ist die Wiederholung nur weniger Noten, die sich wie Quanteninterferenzmuster verändern.
+Das Motiv, das sich durch die neun Kapitel umfassende Suite zieht, ist eine Wiederholung nur weniger Noten, die sich wie Quanteninterferenzmuster ändern.
 
 Das Saxophon von Pharoah Sanders fügt sich in elektronische Klänge ein und behält dabei seine menschliche „Atmung“-Qualität.
 Das Gleichgewicht ist wie die Beziehung zwischen dem Beobachter und dem beobachteten Objekt.
-Die Geräusche von Floating Points messen den Raum und Sanders‘ Atem beeinflusst ihn.
+Die Geräusche von Floating Points messen den Raum und Sanders' Atem beeinflusst ihn.
 Dort koexistieren Wissenschaft und Spiritualität, Messung und Gebet als ein akustisches Phänomen.
 
 ---
@@ -135,7 +135,7 @@ timeline
 ### 8. Fazit: Schall beobachten
 
 Die Musik von Floating Points zu hören ist eher ein Akt des „Beobachtens“ des Klangs, als dass man ihn „erlebt“.
-Hier fungiert das Gehör als wissenschaftliches Sinnesorgan, und Musik stellt den Mittelweg** zwischen Geist und Körper dar.
+Hier fungiert das Gehör als wissenschaftliches Sinnesorgan, und Musik stellt den Mittelweg** zwischen Geist und Physischem dar.
 
 Das Genre des Ambient-Jazz wurde von ihm aus „experimenteller Musik in Stille“ geschaffen.
 Es entwickelte sich zu „Musik als Beobachtung“.

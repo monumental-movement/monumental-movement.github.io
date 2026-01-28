@@ -15,7 +15,7 @@ title: Deaz D mit DJ Fish – Dark En'Trance
 ---
 
 
-Deaz D (Dennis Harinck) ist Resident-DJ im niederländischen Club Locomotion (-2002) und Hardcore-Produzent, der als Mitglied der Bitte-Ein-Beat-Crew bekannt ist. DJ Gizmo und DJ Norman.
+Deaz D (Dennis Harinck) ist Resident-DJ im niederländischen Club Locomotion (-2002) und Hardcore-Produzent, der als Mitglied der Bitte-Ein-Beat-Crew bekannt ist. DJ Norman, der mit DJ Gizmo in der Hardcore-Szene aktiv ist, ist sein eigener Bruder.
 
 „Dark En'Trance“ ist ein Hardcore-Gabbana-Track, der 1993 vom niederländischen Hardcore-Gabbana-Label Rave Records veröffentlicht wurde.
 

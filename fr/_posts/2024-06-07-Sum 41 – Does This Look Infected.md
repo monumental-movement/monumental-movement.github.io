@@ -12,13 +12,13 @@ tags:
 - Alternative Rock
 - Hardcore
 - Horror Rock
-title: Sum 41 – Does This Look Infected?
+title: Somme 41 – Cela semble-t-il infecté ?
 ---
 
 
-2002年にリリースされた「Does This Look Infected?」は、Sum41の2枚目のスタジオアルバム。
+"Does This Look Infected?", sorti en 2002, est le deuxième album studio de Sum41.
 
-このアルバムは、前作のファーストアルバム「All Killer No Filler」よりもポップミュージックの要素が少なく、ダークでヘビーなスタイルで、ヘビーメタル、ホラーパンク、パンクロック、ポップパンク、メロディックハードコア、ハードコアパンク、スラッシュメタル、Dビートの要素がつまったアルバムとなっている。
+Cet album contient moins d'éléments de musique pop que leur premier album, « All Killer No Filler », et a un style plus sombre et plus lourd, avec des éléments de heavy metal, d'horreur punk, de punk rock, de pop punk, de hardcore mélodique, de punk hardcore, de thrash metal et de D-beat.
 
 #### Liste des chansons
 ```md

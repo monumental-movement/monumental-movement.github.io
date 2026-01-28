@@ -16,7 +16,7 @@ title: '[Column] Progressive Electronic / Berlin School'
 
 ## Introduction: The position of the Berlin School in the history of electronic music
 
-Text: mmr｜Theme: Progressive electronic and Berlin School electronic music from the late 1960s to the present
+Text: mmr｜Theme: Progressive electronic and Berlin school electronic music from the late 1960s to the present
 
 
 20th century electronic music began in the realm of academic research and experimental art. Following the development of electronic musical instruments in the 1920s and 1930s, magnetic tape technology after the war, and the establishment of musique concrète and electronic music studios in the 1950s, an environment began to emerge in the late 1960s that allowed individual composers to create electronic music outside of the studio. Amid this change, a series of progressive electronic music that later became known collectively as the ""Berlin School'' was established mainly in West Germany.
@@ -81,9 +81,9 @@ The most distinctive element of the Berlin School is the repeated sound pattern 
 
 ### Long format
 
-While traditional pop and rock music is based on song structures lasting several minutes, it is not uncommon for a single song in Berlin School music to run for over 20 minutes. This is a form made possible by the development of improvisational performance and recording technology.
+While conventional pop and rock music is based on song structures lasting several minutes, it is not uncommon for a single song in Berlin School music to run for over 20 minutes. This is a form made possible by the development of improvisational performance and recording technology.
 
-### Sound design
+### Tone design
 
 The instability and fluctuation of analog synthesizers became part of the sonic aesthetic of the Berlin School. The minute deviations caused by temperature changes and voltage fluctuations give an organic look to mechanical repetition.
 
@@ -157,7 +157,7 @@ From the late 1970s onwards, Berlin School composers expanded their activities i
 
 The Berlin School method of film music is characterized by its emphasis on spatial formation rather than melody-driven music. Rather than illustrating a story, music plays a role in constructing a psychological and physical environment.
 
-This practice was inherited by later cinematic ambient and sound design-oriented electronic music.
+This practice was inherited in later cinematic ambient and sound design-oriented electronic music.
 
 ---
 
@@ -167,7 +167,7 @@ In order to accurately understand the Berlin School, it is necessary to organize
 
 ### Before Kraftwerk
 
-Before Kraftwerk, the Berlin School emphasized improvisation and long forms. The rhythm is fluid, and the piece is perceived as a transition rather than a progression. At this stage, electronic music was a means of escape from rock, and also a release from academic electronic music.
+Before Kraftwerk, the Berlin School emphasized improvisation and long forms. The rhythm is fluid, and the piece is perceived as a transition rather than a progression. At this stage, electronic music was a means of escape from rock and academic electronic music.
 
 ### After Kraftwerk
 

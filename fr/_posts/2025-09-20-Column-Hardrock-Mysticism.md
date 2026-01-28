@@ -40,7 +40,7 @@ color: #fff;
 
 Le guitariste de Led Zeppelin **Jimmy Page** est plus qu'un simple guitariste rock, il est connu pour sa profonde dévotion au monde de l'occultisme et du mysticisme. Il s’intéressait particulièrement à l’étude d’Aleister Crowley, magicien et penseur du début du XXe siècle. Page a en fait acheté l'ancienne résidence de Crowley, Boleskine House, et aurait étudié ses pensées et ses rituels. Ce fait n’est pas seulement une légende urbaine, mais un épisode hautement confirmé qui a été mentionné par de nombreux journalistes musicaux et biographes.
 
-De plus, ces éléments occultes et mystiques se reflètent fortement dans les chansons et les productions scéniques de Zeppelin. Par exemple, « Stairway to Heaven » contient des paroles pleines de symbolisme religieux et mystique, rappelant à l'auditeur un « voyage dans le monde spirituel ». Le style de guitare de Page donnait également à ses improvisations une qualité mystique qui avait le pouvoir d'endormir le public dans un état de transe. En d’autres termes, il a incorporé l’occultisme non seulement comme passe-temps ou image, mais comme base de l’expression musicale elle-même.
+De plus, ces éléments occultes et mystiques se reflètent fortement dans les chansons et les productions scéniques de Zeppelin. Par exemple, "Stairway to Heaven" contient des paroles pleines de symbolisme religieux et mystique, rappelant à l'auditeur un "voyage dans le monde spirituel". Le style de guitare de Page donnait également à ses improvisations une qualité mystique qui avait le pouvoir d'endormir le public dans un état de transe. En d’autres termes, il a incorporé l’occultisme non seulement comme passe-temps ou image, mais comme base de l’expression musicale elle-même.
 
 ### Écaille orientale violet foncé et arc-en-ciel
 
@@ -108,7 +108,7 @@ Dans les temps modernes, la **production de bandes sonores** et la **génératio
 ##FAQ
 
 **Q1 : Quelle est la différence entre le hard rock et le heavy metal ? **
-A1 : Le hard rock est une extension du blues rock et conserve un fort sens du groove et des éléments rock'n'roll. Le heavy metal, en revanche, est plus agressif et a tendance à mettre l'accent sur les riffs et la vitesse.
+A1 : Le hard rock est une extension du blues rock et conserve un fort sens du groove et des éléments rock'n'roll. Le heavy metal, en revanche, est plus agressif et a tendance à mettre l'accent sur les riffs et la vitesse.
 
 **Q2 : Dans quels éléments musicaux spécifiques la pensée orientale apparaît-elle ? **
 A2 : Nous exprimons « l'exotisme » et le « mysticisme » en utilisant des gammes orientales telles que les gammes pentatoniques et les ragas (modes musicaux indiens).
@@ -117,7 +117,7 @@ A2 : Nous exprimons « l'exotisme » et le « mysticisme » en utilisant des gam
 A3 : Oui. En faisant apprendre à l’IA les caractéristiques musicales de Zeppelin et de Deep Purple, il est possible de recréer la mystique et la puissance du hard rock.
 
 **Q4 : Le hard rock est-il adapté à la production de bandes sonores ? **
-A4 : Oui. Idéal pour créer une atmosphère puissante et mystérieuse, notamment lors des scènes de bataille et des climax.
+R4 : Oui. Idéal pour créer une atmosphère puissante et mystérieuse, notamment lors des scènes de bataille et des climax.
 
 ---
 

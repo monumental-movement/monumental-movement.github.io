@@ -62,7 +62,7 @@ Der Grund für seine Wahl dieser traditionellen Instrumente ist nicht nur eine R
 
 ### 4. Talent und Ausbildung von Jugendlichen
 
-Trotz seiner Wettkampferfolge während seiner Kindheit war Mortazavi mehr als nur ein Gewinner. Während er traditionelle Spieltechniken beherrschte, beschäftigte sich sein neugieriger Geist mit Fragen wie „Warum wird das Tamback auf diese Weise gespielt?“ und „Gibt es Klänge, die noch nicht verwendet wurden?“
+Trotz seiner Wettkampferfolge während seiner Kindheit war Mortazavi mehr als nur ein Gewinner. Während er sich die traditionellen Spieltechniken aneignete, beschäftigte sich sein neugieriger Geist mit Fragen wie „Warum wird das Tamback auf diese Weise gespielt?“ und „Gibt es Klänge, die noch nicht verwendet wurden?“
 
 Er begann seine eigene Forschung, ohne an bestehende Lehren oder Bräuche gebunden zu sein. Wir beobachten und üben sorgfältig die physische Interaktion zwischen Körper und Instrument, wie z. B. die verschiedenen Hautpartien, die Resonanz des Rumpfes, den Einsatz der Finger, die Position der Handfläche sowie die Anwendung von Nägeln und Gelenken. Dadurch kommen neue Klänge zum Vorschein, die in der traditionellen Musik nicht vorhanden waren.
 
@@ -77,7 +77,7 @@ Mortazavis bemerkenswerteste Leistung sind **mehr als 30 selbst entwickelte Schl
 
 Im Einzelnen umfassen die Ansätze:
 
-* **Unterschiedliche Angriffspunkte nutzen**: Bereiche angreifen, die traditionelle Spieler nicht nutzen, wie z. B. die Mitte des Leders, den Rand und den Körper (Holzteil).
+* **Verwendung verschiedener Schlagpunkte**: Angriffsbereiche, die traditionelle Spieler nicht nutzen, wie z. B. die Mitte des Leders, die Kante (Rand) und den Körper (Holzteil).
 * **Verschiedene Teile der Hand**: Die gesamte Hand des Spielers gilt als Musikinstrument, einschließlich der Fingerspitzen, Gelenke, Nägel, Handfläche, Daumenwurzel und anderer Teile, die als Tabu gelten.
 * **Polyrhythmischer Ansatz**: Eine Technik, die es ermöglicht, dass mehrere Stimmen (Ebenen) gleichzeitig innerhalb desselben Instruments erklingen. Dies ermöglicht eine ensembleähnliche Darbietung durch nur einen Spieler.
 * **Dynamikbereich**: Von extrem leisen Berührungen bis hin zu explosiven Schlägen können Sie die Stärke, das Tempo und die Dichte des Klangs frei steuern.
@@ -95,7 +95,7 @@ Schließlich gründete er eine Basis in Berlin und begann ernsthaft mit seinen A
 
 Im Jahr 2003 gewann er unter über 600 Teilnehmern den **RUTH Award, Newcomer-Kategorie**. Diese Auszeichnung besiegelte seine internationale Anerkennung.
 
-Im Jahr 2010 wurde sein Traum wahr, als sein Soloauftritt in der **Berliner Philharmonie** stattfand. Im selben Jahr veröffentlichte er das Album „Green Hands“.
+Im Jahr 2010 wurde sein Traum Wirklichkeit, als sein Soloauftritt in der **Berliner Philharmonie** stattfand. Im selben Jahr veröffentlichte er das Album „Green Hands“.
 Für ihn war dieses Jahr ein symbolischer Wendepunkt, da seine musikalische Identität zwischen Tradition und Experiment der Welt klar wurde.
 
 ---
@@ -148,7 +148,7 @@ Wie der Titel „Nexus“ vermuten lässt, ist es als ein Werk konzipiert, das d
 
 Mortazavi hat seinen Rhythmus und seine Philosophie nicht nur durch Soloauftritte, sondern auch durch die Zusammenarbeit mit verschiedenen Künstlern und Genres erweitert.
 
-Besonders hervorzuheben ist die Zusammenarbeit mit elektronischer/experimenteller Musik. Seine EPs mit **Burnt Friedman** (z. B. *Yek*) erforschen sich wiederholende und zyklische Rhythmen und verschmelzen traditionelle Percussion mit elektronischen Beats.
+Besonders hervorzuheben ist die Zusammenarbeit mit elektronischer/experimenteller Musik. Seine EPs mit **Burnt Friedman** (z. B. *Yek*) erforschen sich wiederholende und zyklische Rhythmen und verbinden traditionelle Percussion mit elektronischen Beats.
 Durch diese Zusammenarbeit entstand eine einzigartige Verschmelzung seiner polyphonen Techniken und der strukturellen Rhythmen elektronischer Musik.
 
 Es wurde auch berichtet, dass er mit Leuten wie **Mark Fell** interagiert, was beweist, dass er in der experimentellen Musik-Community große Akzeptanz genießt.
@@ -165,7 +165,7 @@ Mortazavi live zu spielen ist eine sehr körperliche und spirituelle Erfahrung. 
 
 Sein Spiel vermischt meditative, sich wiederholende Strukturen mit schnellen, komplexen Wechselmustern, die den Zuhörer oft dazu bringen, das Zeitgefühl zu verlieren. In dem Moment, in dem sich das Tempo verlangsamt, setzt sich der Klang mit Nachhall fort, und diese Dauern überlappen sich allmählich und erzeugen Resonanz im Körper. Wenn sich der Rhythmus hingegen plötzlich beschleunigt, ist die Konzentration des Publikums am höchsten und es gelangt in eine Art tranceähnlichen Zustand.
 
-Ein solches Live-Erlebnis ist nicht nur etwas, was man mit den Ohren hört, sondern ein Erlebnis, das man mit seinem Körper „spüren“ kann. Mortazavi erzeugt bei seinem Auftritt eine Resonanz beim Publikum und lässt sie in jedem Moment einen „gemeinsamen Puls“ teilen. Der Prozess hat einen rituellen Aspekt, der das Instrument und die Person, den Interpreten und das Publikum verbindet.
+Ein solches Live-Erlebnis ist nicht nur etwas, das man mit den Ohren hört, sondern ein Erlebnis, das man mit seinem Körper „spürt“. Mortazavi erzeugt bei seinem Auftritt eine Resonanz beim Publikum und lässt sie in jedem Moment einen „gemeinsamen Puls“ teilen. Der Prozess hat einen rituellen Aspekt, der das Instrument und die Person, den Interpreten und das Publikum verbindet.
 
 ---
 
@@ -195,7 +195,7 @@ In diesem Ansatz spürt man den tiefen Willen, Dualitäten wie Tradition und Mod
 
 ### 12. Bildungs- und Workshop-Aktivitäten
 
-Auch die Bildung der jüngeren Generation liegt Mortazavi leidenschaftlich am Herzen. Er hat viele Workshops in Europa (insbesondere in Deutschland) abgehalten und eine Vielzahl von Teilnehmern, vom Anfänger bis zum erfahrenen Spieler, in Tamback, Duff und Handtrommeln unterrichtet.
+Auch die Bildung der jüngeren Generation liegt Mortazavi leidenschaftlich am Herzen. Er hat zahlreiche Workshops in Europa (insbesondere in Deutschland) abgehalten und eine Vielzahl von Teilnehmern, vom Anfänger bis zum erfahrenen Spieler, in Tamback, Duff und Handtrommeln unterrichtet.
 
 Bei einem Workshop (z. B. im norddeutschen Dorf Thandorf) sagte er: „Musik ist Liebe, und Liebe sollte keine Grenzen kennen.“ Im Gegensatz zum Konservatismus und Ruleismus der traditionellen Musikwelt ist er fest davon überzeugt, dass Musik ein Ort des freien Dialogs und der Erkundung sein sollte, und er verkörpert dies in seinem Unterricht.
 
@@ -223,8 +223,8 @@ Seine Live-Auftritte beinhalten Körperlichkeit, Rituale und Trance, und seine A
 - **Gemeinschaft und Bildung**
 Durch Workshops fördert er die Demokratisierung des Rhythmus, die Weitergabe und Transformation traditioneller Techniken sowie das interkulturelle Verständnis.
 
-- **Präsentation philosophischer und spiritueller Fragestellungen**
-Seine Musik wirft durch Rhythmus grundlegende Fragen wie Zeit, Selbst, Gemeinschaft und Bewusstsein auf und führt die Zuhörer zu tiefer Selbstbeobachtung.
+- **Präsentation philosophischer und spiritueller Fragen**
+Seine Musik wirft durch den Rhythmus grundlegende Fragen wie Zeit, Selbst, Gemeinschaft und Bewusstsein auf und führt die Zuhörer zu tiefer Selbstbeobachtung.
 
 All diese Elemente wirken zusammen und etablieren Mortazavi als „Philosoph des Rhythmus“ in der zeitgenössischen Musik.
 

@@ -72,11 +72,11 @@ L'enregistrement sur site est la trinité « microphone + enregistreur + aliment
 | Artiste | Aperçu des activités/Travaux représentatifs | Équipement utilisé (typique) |
 | -------------------------- | ------------------------------------------------------------------------------ | ----------------------------------------------------- |
 | **Alan Lomax** | Archives de musique folklorique du 20e siècle. Enregistrement d'enregistrements sur le terrain des États-Unis vers le monde. Œuvres représentatives : *La collection Alan Lomax* | Magnétophone Ampex, Nagra (années 1950 et après), divers microphones dynamiques |
-| **Chris Watson** | Ancien Cabaret Voltaire. Responsable de l'enregistrement des sons naturels pour la BBC et les productions documentaires. Œuvres représentatives : *El Tren Fantasma* (2011) | Sound Devices série 7, Nagra, microphones série Sennheiser MKH |
+| **Chris Watson** | Ancien Cabaret Voltaire. Responsable de l'enregistrement des sons naturels pour la BBC et des productions documentaires. Œuvres représentatives : *El Tren Fantasma* (2011) | Sound Devices série 7, Nagra, microphones série Sennheiser MKH |
 | **Bernie Krause** | Un expert reconnu des sons environnementaux naturels (biophoniques). Œuvres représentatives : *Le Grand Orchestre Animalier* | Nagra IV, enregistreur Sound Devices, microphone Neumann & Sennheiser |
 | **Hildegarde Westerkamp** | Mouvement Soundwalk/Ecologie Acoustique. Travaux : *Kits Beach Soundwalk* | Initialement bande Nagra, maintenant tous les équipements numériques |
 | **Toshiya Tsunoda** | Artiste sonore japonais. Enregistrez des sons infimes provenant des conteneurs et de la ville. Œuvres représentatives : *Extrait de Field Recording Archive* | Enregistreur DAT, microphone à condensateur, microphone de contact |
-| **Francisco López** | Des sons environnementaux bruts ou traités provenant du monde entier pour créer des œuvres. Œuvres représentatives : *La Selva* | Enregistreur DAT (début), actuellement Sound Devices, microphone Schoeps |
+| **Francisco López** | Des sons environnementaux bruts ou traités provenant du monde entier pour créer des œuvres. Œuvres représentatives: *La Selva* | Enregistreur DAT (début), actuellement Sound Devices, microphone Schoeps |
 | **Anne Lockwood** | De nombreuses œuvres ont pour thème la nature et l'environnement. Œuvres représentatives : *Une carte sonore de la rivière Hudson* | Enregistreur de terrain (Nagra → numérique), microphone sous-marin (Hydrophone) |
 | **Ryuichi Sakamoto** | Dans ses dernières années, il collecta les sons environnementaux et les refléta dans ses œuvres. Œuvres représentatives : *async* | Série Zoom H, microphone DPA, microphone sous-marin |
 
@@ -146,7 +146,7 @@ L'enregistrement sur site est la trinité « microphone + enregistreur + aliment
 
 - Depuis 2011, il enregistre également les sons locaux du grand tremblement de terre de l'est du Japon, approfondissant ainsi son intérêt pour les sons environnementaux.
 
-- Concernant « async », il a dit : « Une musique pour laisser derrière elle des fragments de temps. »
+- Concernant « async », il a dit : « Une musique pour laisser derrière elle des fragments de temps ».
 
 
 ---

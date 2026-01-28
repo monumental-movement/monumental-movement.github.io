@@ -14,7 +14,7 @@ title: 瘦小狗 – 12 英寸選集
 ---
 
 
-Skinny Puppy 是一支電子工業樂隊，由加拿大出生的 Kelvin Key 和 Kevin Ogilvy 於 1982 年組建。
+Skinny Puppy 是一支電子工業樂隊，由加拿大出生的 Kelvin Key 和 Kevin Ogilvie 於 1982 年組建。
 
 Skinny Puppy 被稱為工業搖滾和電子工業流派的創始人之一。
 

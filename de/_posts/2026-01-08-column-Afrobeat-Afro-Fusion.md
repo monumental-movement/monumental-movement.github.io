@@ -63,7 +63,7 @@ Die Kolonialherrschaft vom Ende des 19. bis zum 20. Jahrhundert brachte europäi
 
 Der Begriff Afrobeat wurde Ende der 1960er Jahre vom nigerianischen Musiker Fela Anikulapo Kuti geprägt. Fela erhielt seine musikalische Ausbildung in London und studierte Jazz, Highlife und Soul, bevor er nach Nigeria zurückkehrte. Während seines Aufenthalts in den Vereinigten Staaten im Jahr 1969 wurde er von der Black-Power-Bewegung und dem Funk beeinflusst und entschied sich für eine Richtung, die Musik und politischen Diskurs verbinden sollte.
 
-Seine Bands, Africa 70 und später Egypt 80, etablierten eine Form, die sich von der bestehenden Tanzmusik unterschied und sich durch lange Auftritte, sich wiederholende Grooves und Bläserabschnitte auszeichnete.
+Seine Bands Africa 70 und später Egypt 80 etablierten eine Form, die sich von der bestehenden Tanzmusik unterschied und sich durch lange Auftritte, sich wiederholende Grooves und Bläserabschnitte auszeichnete.
 
 ### Musikalische Features
 

@@ -14,7 +14,7 @@ title: '[Chronique] Grandes marques et musique noise : l''intersection du luxe e
 ---
 
 
-## À première vue, les deux ne semblent pas liés.
+## À première vue, les deux semblent sans rapport.
 
 Texte : mmr｜Thème : L'affinité entre les défilés de mode récents et la musique noise
 
@@ -76,7 +76,7 @@ Mais ironiquement, c’est cette attitude « anti-commerciale » qui en fait un 
 
 ### Importance contemporaine : le bruit crée de l'instabilité
 
-La mode du 21ème siècle est confrontée aux risques de la « consommation de masse » et de la « circulation à grande vitesse ».
+La mode du 21e siècle est confrontée aux risques de la « consommation de masse » et de la « circulation à grande vitesse ».
 Par conséquent, le bruit met l’accent sur « l’instabilité » et le « caractère unique » pour contrecarrer l’homogénéisation.
 Les rugissements et les bruits mettent le public mal à l'aise et l'excitent, prouvant que la marque est un « provocateur ».
 
@@ -106,7 +106,7 @@ Exemples détaillés de grandes marques et de bruit
 
 Rei Kawakubo poursuit l'affinité entre la « déconstruction de la beauté » et le bruit.
 
-Introduction de drones, de sons métalliques et de musique expérimentale dans le spectacle.
+Introduire des drones, des sons métalliques et de la musique expérimentale dans le spectacle.
 
 Artistes associés : Merzbow, Keiji Haino, David Tudor, Alva Noto.
 
@@ -249,7 +249,7 @@ Du côté de la musique noise/expérimentale, le contact avec des marques haut d
 
 ### COMME des GARÇONS / Gucci / Prada
 
-Archives matérielles des « artistes du bruit/expérimentaux/acoustiques qui ont été réellement utilisés dans des spectacles/campagnes (ou dont la relation a été clairement signalée) »
+Archives de documents liés aux « artistes du bruit/expérimentaux/acoustiques qui ont été réellement utilisés dans des spectacles/campagnes (ou dont la relation a été clairement signalée) »
 
 COMME des GARÇONS — Une tradition d'incorporation de sons/bruit expérimentaux dans la « musique de spectacle »
 
@@ -311,12 +311,12 @@ COMME des GARÇONS — Une tradition d'incorporation de sons/bruit expérimentau
 
 ### Balenciaga / Rick Owens / Alexander McQueen / Louis Vuitton / Dior (chaque vidéo + artiste associé)
 
-| Marque | Vidéo représentative | Artiste vedette (reportage/crédit) |
+| Marque | Vidéo représentative | Artiste en vedette (reportage/crédit) |
 | ------------------- | -------------------- |------------------------------- |
 | [**Balenciaga**](https://amzn.to/3KItfr1) | Balenciaga hiver 2019 — [YouTube](https://www.youtube.com/watch?v=qprAGHIocu4) ; Affiche la liste de lecture – [Liste de lecture YouTube](https://www.youtube.com/playlist?list=PL2r6I51dLNSyGHO8Q_zePw7E5OU6eLF3a) | Conception sonore : **BFRND** (Afficher la partition exclusive)/Exemple d'utilisation du son industriel |
 | [**Rick Owens**](https://amzn.to/3KGkWMm) | Rick Owens SS26 “TEMPLE” — [YouTube](https://www.youtube.com/watch?v=lKkqCI64m9o) ; FW25 等（多数）  | ドローン／低周波的演出。ショー映像から没入的なノイズ演出が確認可能  |
 | **Alexander McQueen**    | AW 2020 Campaign — [YouTube](https://www.youtube.com/watch?v=ncsjPl-CK4M)  | キャンペーン曲に **Daniel Avery & Alessandro Cortini** 起用（曲 "At First Sight"）   | 
-| **Louis Vuitton** | Divers enregistrements de spectacles et d'afterparty (exemples d'archives) — Questions liées aux DJ de Daft Punk / Virgil Abloh (multiples) | Dans le passé, **Daft Punk** assurait l'édition des chansons sur LV et utilisait également **Dev Hynes (Blood Orange)** pour la partition (période Virgil Abloh) |
+| **Louis Vuitton** | Divers enregistrements de show & afterparty (exemples d'archives) — Relations DJ Daft Punk / Virgil Abloh, etc. (multiples) | Dans le passé, **Daft Punk** assurait l'édition des chansons sur LV et utilisait également **Dev Hynes (Blood Orange)** pour la partition (période Virgil Abloh) |
 | **Dior** | Dior (diverses campagnes/vidéos de spectacle) | Il existe de nombreux cas dans lesquels des sound designers comme Frédéric Sanchez sont impliqués, et il y a un lien avec la production de type ambient/drone |
 
 ---

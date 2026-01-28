@@ -190,7 +190,7 @@ Man kann sagen, dass Reggio und Glass mit der gesamten Trilogie einen „moderne
 
 Am Ende von „Koyanisqatsi“, den Überresten einer Rakete, die nicht gestartet werden konnte,
 Es fällt langsam zu Boden.
-In dem Moment, in dem Glass‘ Musik leise verklingt, wird das Publikum plötzlich von „Stille“ umhüllt.
+In dem Moment, in dem Glass‘ Musik leise verklingt, ist das Publikum plötzlich in „Stille“ gehüllt.
 
 Es ist nicht der Zusammenbruch der Zivilisation, sondern ein leerer Raum für eine Wiedergeburt.
 

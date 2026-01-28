@@ -9,7 +9,7 @@ permalink: /zh-hant/va-thank-god-its-friday/
 tags:
 - Disco
 - 70s
-title: VA——感謝上帝，今天是星期五
+title: VA——感謝上帝今天是星期五
 ---
 
 

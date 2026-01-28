@@ -9,12 +9,12 @@ permalink: /fr/thomas-schumacher-when-i-rock-remix/
 tags:
 - Techno
 - Electro
-title: Thomas Schumacher – When I Rock (Remix)
+title: Thomas Schumacher – Quand je rock (Remix)
 ---
 
 
-「 When I Rock (Remix)」は、
-1998年にUKのレーベル「Bush」からリリースされたThomas SchumacherによるEPです。
+"Quand je rock (Remix)"
+Il s'agit d'un EP de Thomas Schumacher sorti en 1998 sur le label britannique "Bush".
 
 #### Liste des chansons
 ```md

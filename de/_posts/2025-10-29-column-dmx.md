@@ -193,7 +193,7 @@ Diese Worte dienen vielen jungen Menschen auch heute noch als Mantra der Selbstv
 ## X. Fazit: Mythische Struktur namens DMX
 
 Die Geschichte von DMX ist mehr als nur eine Hip-Hop-Biografie.
-Es war ein **modernes religiöses Drama** und ein Mythos, der die **Koexistenz von Gewalt und Gebet** darstellte.
+Es war ein **modernes religiöses Drama** und ein Mythos über die Koexistenz von **Gewalt und Gebet**.
 
 *Sein „Gebrüll“ ist keine Wut, sondern ein Schrei, um seine Existenz zu beweisen**
 *Sein „Gebet“ ist keine Erlösung, sondern **Fortsetzung des Kampfes**

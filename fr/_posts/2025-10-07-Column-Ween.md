@@ -48,7 +48,7 @@ Un quartier résidentiel calme de Pennsylvanie au milieu des années 1980.
 Deux garçons s'emparent d'une cassette et d'un enregistreur 4 pistes et entament un étrange rituel.
 **Aaron Freeman (Gene Ween)** et **Mickey Melchiondo (Dean Ween)**.
 
-Le « **Boognish** » qu'ils ont créé est plus qu'un simple logo ou un personnage.
+L'existence de « **Boognish** » qu'ils ont créé est plus qu'un simple logo ou un personnage.
 Dieu fictif du rire et de la folie, il était un symbole de la musique de Ween elle-même.
 Les bruits, les voix étranges et les changements de tonalité inhabituels qui étaient dispersés dans les enregistrements personnels ont tous été bénis par Boognish.
 
@@ -62,7 +62,7 @@ Les bruits, les voix étranges et les changements de tonalité inhabituels qui �
 ### Gene et Dean – frères imaginaires ou doubles spirituels ?
 
 Gène et Dean.
-La sonorité de leurs noms suggère « frères », mais ils ne sont pas liés par le sang.
+Bien que la sonorité de leurs noms suggère « frères », ils ne sont pas liés par le sang.
 Mais musicalement, ils étaient presque comme des jumeaux.
 Gene est l'incarnation de l'émotion et du chaos, Dean est le maître de la construction et de l'artisanat.
 Au moment où les deux entrent en collision, le chaos et la magie typiques de Ween naissent.

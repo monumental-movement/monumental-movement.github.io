@@ -15,7 +15,7 @@ title: '[Kolumne] Elektro: Der Rhythmus der von Maschinen geformten Stadt der Zu
 ---
 
 
-## Cyber-Funk, der gleichzeitig dekadent und anspruchsvoll klingt
+##Cyber-Funk, der gleichzeitig dekadent und anspruchsvoll klingt
 
 
 Text: mmr｜Thema: Elektronischer Herzschlag, geboren mit Breakdance
@@ -94,7 +94,7 @@ In den frühen 2000er Jahren rückte Elektro wieder ins Rampenlicht.
 
 **Electro House Connection**: Französisch-deutsche Künstler wie Justice und Digitalism haben die Clubszene im Sturm erobert, indem sie Electro-inspirierte Synthesizer-Riffs mit House 4/4 verschmolzen.
 
-Das Debütalbum von Justice, einer seit 2003 aktiven französischen Electronic-Dance-Band, wurde 2007 beim französischen Label Ed Banger Records veröffentlicht und war ein weltweiter Erfolg, einschließlich einer Grammy-Nominierung für das beste Electronic/Dance-Album.
+Das Debütalbum von Justice, einer seit 2003 aktiven französischen Band für elektronischen Tanz, wurde 2007 vom französischen Label Ed Banger Records veröffentlicht und war ein weltweiter Erfolg, einschließlich einer Grammy-Nominierung für das beste elektronische/Tanz-Album.
 
 #### Trackliste
 ```md

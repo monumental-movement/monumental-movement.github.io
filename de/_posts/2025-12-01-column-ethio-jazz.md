@@ -83,7 +83,7 @@ Diese bildeten die Grundlage für die Entstehung des einzigartigen Genres, das s
 Mulatu gilt als der erste, der seine Musik „Ethio-Jazz“** nannte.
 In den späten 1960er Jahren versuchte er, die traditionelle äthiopische Musik zu modernisieren, indem er die äthiopische Tonleiter (Kinet) mit Improvisations- und Arrangiertechniken des Jazz verband.
 
-Zu den repräsentativen Frühwerken zählen:
+Zu den repräsentativen frühen Werken gehören:
 
 * **Serie „Afro-Latin Soul (1966–67)“**
 * **《Mulatu von Äthiopien (1972)》**
@@ -140,7 +140,7 @@ Aufnahmen von Militärkapellen wurden neu aufgelegt, was eine weltweite Neubewer
 
 ---
 
-# # 7. 2000er: Durchbruch mit dem Film „Broken Flowers“
+# # 7. 2000er Jahre: Durchbruch mit dem Film „Broken Flowers“
 
 Im Jahr 2005 als Musik für den Film „Broken Flowers“ von Jim Jarmusch.
 Viele von Mulatus Liedern wurden verwendet und es erregte große Aufmerksamkeit.
@@ -238,7 +238,7 @@ Später wurde es in Washington, D.C. wiederentdeckt und tourte um die Welt.
 
 ### ■ Jazz/Funk/Hip-Hop
 
-* Erweiterung der Interpretation von Jazz-Modi
+* Erweiterung der Jazz-Mode-Interpretation
 * Wird häufig als Sample-Material im Hip-Hop verwendet
 * Einfluss auf Afrobeat/Afrofusion
 
@@ -246,7 +246,7 @@ Später wurde es in Washington, D.C. wiederentdeckt und tourte um die Welt.
 
 Nach „Broken Flowers“ hat seine Verwendung in Filmen und im Fernsehen zugenommen.
 
-### ■ Europas New-Generation-Band
+### ■ Europas neue Generationsband
 
 * Die Heliozentriker
 * Schwarze Blume (Belgien)
@@ -282,7 +282,7 @@ Derzeit ist Ethio-Jazz
 Es überschneidet sich mit anderen und zeigt eine neue Expansion.
 
 Mulatu selbst setzt seine Musikforschungs- und Bildungsaktivitäten fort.
-Die Bemühungen, traditionelle Tonleitern und moderne Musik zu verbinden, dauern noch an.
+Die Bemühungen, eine Brücke zwischen traditionellen Tonleitern und moderner Musik zu schlagen, dauern noch an.
 
 ---
 

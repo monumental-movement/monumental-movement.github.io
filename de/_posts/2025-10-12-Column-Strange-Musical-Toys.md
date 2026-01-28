@@ -11,15 +11,15 @@ tags:
 - History
 - 90s
 - 00s
-title: '[Spalte] Seltsame Musikspielzeuge – Spielzeuge mit seltsamen Klängen aus der
-  ganzen Welt'
+title: '[Spalte] Seltsame Musikspielzeuge – Spielzeuge mit seltsamen Geräuschen aus
+  der ganzen Welt'
 ---
 
 
 ## „Klangspielzeuge“ auf der ganzen Welt
 
 
-Text: mmr | Thema: Vom Kinderspielzeug zum Künstlerinstrument – ​​Auf dem Weg in die Ära von KI-Spielzeug, taktilen Instrumenten und sozialem Spielzeug
+Text: mmr | Thema: Von Kinderspielzeug zu Künstlerinstrumenten – Auf dem Weg in die Ära von KI-Spielzeug, taktilen Instrumenten und sozialem Spielzeug
 
 Es gibt Orte, an denen die Grenze zwischen Musik und Spiel verschwimmt. Wir leben in einer Welt, in der die elektronischen Klänge von Spielzeugen, die in Kinderhänden gehalten werden, irgendwann als kreative Werkzeuge für professionelle Bühnen und Künstler anerkannt werden. Seltsame Klangquellen wie Radel, Omnichord, Stylophone und Circuit Bending, die selbstgebaute Schaltkreise modifizierten, wurden zu mehr als nur Spielzeug und wurden zu kulturellen Experimentiergeräten.
 
@@ -44,7 +44,7 @@ color: #fff;
 ## Ⅰ. Das Vergnügen, Hände mit Klang zu spielen
 
 Wir dürfen nicht vergessen, dass der „Tastsinn“ der Ursprung des musikalischen Aktes ist. Wenn Sie die Saiten zupfen, die Tasten drücken oder die Knöpfe drehen, erhalten Sie eine Reaktion auf Knopfdruck. Diese Unmittelbarkeit gilt auch für die Spielzeuge, mit denen Kinder in ihrer Kindheit in Berührung kommen.
-Im 21. Jahrhundert wurden elektronische Klänge auf Kinderspielzeug und Lerngeräte ausgeweitet, und der Akt des „Klangs“ selbst wurde als Teil des Spiels konzipiert. Die Grenze zwischen Spielzeug und Musikinstrumenten verschwimmt zunehmend.
+Im 21. Jahrhundert wurden elektronische Klänge auch auf Kinderspielzeug und Lerngeräte ausgeweitet, und der Akt des „Klangs“ selbst wurde mittlerweile als Teil des Spiels konzipiert. Die Grenze zwischen Spielzeug und Musikinstrumenten verschwimmt zunehmend.
 
 ---
 
@@ -59,7 +59,7 @@ Die Vereinfachung elektronischer Klänge öffnete tatsächlich die Tür zu neuen
 ---
 
 ### Tragbare Weiterentwicklung elektronischer Musikinstrumente
-Die Digitalisierung traditioneller Musikinstrumente hat nicht nur in Indien, sondern in ganz Asien Fortschritte gemacht. Es sind Musikinstrumente aufgetaucht, die sogar von Kindern bedient werden können, darunter kleine Sitars, Gamelans im Taschenformat und elektronische Harfen. Die durch elektronische Technologie erzeugte Stabilität und Leichtigkeit des Klangs regt die Kreativität der Künstler an.
+Die Digitalisierung traditioneller Musikinstrumente hat nicht nur in Indien, sondern in ganz Asien Fortschritte gemacht. Es sind Musikinstrumente aufgetaucht, die sogar Kinder bedienen können, darunter kleine Sitars, Gamelans im Taschenformat und elektronische Harfen. Die durch elektronische Technologie erzeugte Stabilität und Leichtigkeit des Klangs regt die Kreativität der Künstler an.
 
 ---
 
@@ -95,9 +95,9 @@ Eine Fusion aus subtilen elektronischen Klängen und analogem Feeling. Das zarte
 
 ## Ⅳ. Europäische seltsame Tongeräte
 
-### Stylophone und Optigan
+### Stylophon und Optigan
 Das British Stylophone ist ein Schreibtisch-Synthesizer, der aus Fernsehwerbespots der 1970er Jahre bekannt ist. Wenn Sie mit den Fingerspitzen über die Metallkontakte fahren, ertönt ein markanter Piepton. Seine Leichtigkeit und sein lautes Gefühl wurden in die frühe Techno-Pop- und Avantgarde-Musik integriert.
-Die Optigan ist ein Orgelspielzeug, das mithilfe optischer Platten Klänge abspielt und sich durch unvorhersehbare Muster und Rhythmen auszeichnet.
+Der Optigan ist ein Orgelspielzeug, das mithilfe optischer Platten Klänge abspielt und sich durch unvorhersehbare Muster und Rhythmen auszeichnet.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EL8PH9Fx0hw?si=aRc6EJ8WPVcaAXI9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -143,13 +143,13 @@ Ein experimentelles Geräuschstück, das modifizierte elektronische Geräte und 
 
 ## Ⅵ. Japans goldenes Zeitalter des elektronischen Spielzeugs
 
-In den 1970er und 1980er Jahren wurden tragbare Synthesizer und elektronische Musikinstrumente in japanischen Haushalten populär.
+In den 1970er und 1980er Jahren wurden tragbare Synthesizer und elektronische Musikspielzeuge in japanischen Haushalten populär.
 
 - Yamaha Portasound-Serie
 - CASIO VL-TONE
 - Pädagogische Synthesizer wie der SX-150 von Gakken
 
-Elektronische Klänge können problemlos auf Schreibtischen zu Hause oder in der Schule erlebt werden, und Kinder haben sich mit der Kultur des „Spielens mit Klängen“ vertraut gemacht. In der heutigen Zeit sind digitale Spielzeuge wie Otamatone mit der YouTube-Kultur verbunden und schaffen eine neue Welt „süßer Klänge“.
+Elektronische Klänge können problemlos auf Schreibtischen zu Hause oder in der Schule erlebt werden, und Kinder sind mit der Kultur des „Spielens mit Klängen“ vertraut geworden. In der heutigen Zeit sind digitale Spielzeuge wie Otamatone mit der YouTube-Kultur verbunden und schaffen eine neue Welt „süßer Klänge“.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VKfsCbe47Os?si=djdl5n1qjmiP3Scw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -188,7 +188,7 @@ Es nimmt die Atmosphäre einer kleinen elektronischen Klangquelle vorweg, ähnli
 
 **Flying Lotus – Cosmogramma (2010)**
 
-Eine komplexe Textur, die elektronisches Spielzeug und kleine Synthesizer-ähnliche Klänge kombiniert.
+Eine komplexe Textur, die elektronisches Spielzeug und kleine Synthesizer-Sounds kombiniert.
 
 ---
 
@@ -208,7 +208,7 @@ Der Begriff „Spiel“ rückt wieder in den Mittelpunkt des Musikschaffens und 
 
 ## Anhang
 
-### Entwicklungsgeschichte seltsamer Musikspielzeuge auf der ganzen Welt (einfache Chronologie)
+### Evolutionsgeschichte seltsamer Musikspielzeuge auf der ganzen Welt (einfache Chronologie)
 
 <div class="mermaid">
 

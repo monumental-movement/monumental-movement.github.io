@@ -15,7 +15,7 @@ title: Menno de Jong – Toundra
 
 Menno de Jong est un DJ et producteur néerlandais de transe travaillant dans le genre de musique trance.
 
-La musique de Menno de Jong est familière aux amateurs de musique transe et se caractérise par son son énergique et ses belles mélodies.
+La musique de Menno de Jong est familière aux fans de musique transe et se caractérise par son son énergique et ses belles mélodies.
 
 #### Liste des chansons
 ```md

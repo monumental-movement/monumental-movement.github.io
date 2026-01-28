@@ -13,7 +13,7 @@ title: Analoge Fingerabdrücke – Tribut
 ---
 
 
-„Tribute“ von Analog Fingerprints ist ein holpriger Electro-House-Track mit Rave-Vibe auf der A-Seite. B1 und B2 sind sehr minimale Spuren.
+„Tribute“ von Analog Fingerprints ist ein holpriger Electro-House-Track mit Rave-Vibe auf der A-Seite. B1 und B2 sind sehr minimalistische Tracks.
 
 Der echte Name von Analog Fingerprints ist Marco Passarani.
 

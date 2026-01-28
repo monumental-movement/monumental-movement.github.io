@@ -14,7 +14,7 @@ title: Marmion – Schöneberg Part2
 ---
 
 
-Marmion은 Mijk Van Dijk와 Marcos López가 진행한 독일의 트랜스 테크노 프로젝트입니다.
+Marmion은 Mijk Van Dijk와 Marcos López가 만든 독일의 트랜스 테크노 프로젝트입니다.
 
 "Schöneberg Part 2"는 독일 레이블 Superstition이 2003년에 발표한 트랜스 테크노 트랙입니다.
 

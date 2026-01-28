@@ -166,7 +166,7 @@ Expressing the "spirit of freedom and peace" based on Rastafarian ideology.
 - Alpha Blondy's activities gave courage to South African reggae artists.
 - Some artists imitate his songs and create their own protest songs.
 
-### 7.2 International influence
+### 7.2 International impact
 - Inform listeners around the world about the current state of apartheid and promote international solidarity.
 - His songs were used at many charity events and anti-apartheid concerts.
 
@@ -197,7 +197,7 @@ Even after apartheid ended in 1994, Alpha Blondy continued to put social message
 - Express the weight of social messages with a heavy base
 2. **Lyrics structure**
 - Uses both direct messages and metaphors to depict the reality of oppression
-3. **Multilingual effects**
+3. **Multilingual Effects**
 - Understandable to listeners from different cultures and countries
 - Arouses international sympathy
 
@@ -222,7 +222,7 @@ graph LR
 
 ## 11. Conclusion
 
-Alpha Blondy's music went beyond entertainment and functioned as social media. Through his activities during the apartheid period, he showed that music can be a means of political and social resistance.
+Alpha Blondy's music went beyond entertainment and functioned as social media. Through his activities during the apartheid era, he showed that music can be a means of political and social resistance.
 Considering the message of each song and the local reactions, his music is a symbol of the universal values ​​of freedom and peace, and is an important teaching material for thinking about music and social justice even in modern times.
 
 ---

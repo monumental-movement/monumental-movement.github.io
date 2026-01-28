@@ -86,7 +86,7 @@ Die in Science-Fiction-Filmen verwendete Musik weist die folgenden charakteristi
 * Die Stille des Weltraums und die Präsenz des Unbekannten.
 * Beispiel: Silent Space + klassische Musik aus „2001: Odyssee im Weltraum“.
 
-4. **Fusion von Orchester- und elektronischen Klängen**
+4. **Fusion von Orchester und elektronischem Sound**
 
 * Sowohl Erhabenheit als auch futuristisches Gefühl.
 * Beispiele: „Star Wars“ und „Interstellar“.
@@ -148,7 +148,7 @@ A3. Derzeit werden KI-Kompositionstools zur Erstellung von Science-Fiction-Filmt
 ## Zusammenfassung
 
 * Science-Fiction-Filme und Musik sind untrennbar miteinander verbunden, weil sie ein Gefühl für die Zukunft und eine andere Welt vermitteln.
-* Es wurde auf vielfältige Weise ausgedrückt, einschließlich elektronischer Klänge, Synthesizer, Orchester und Ambient.
+* Es wurde auf vielfältige Weise zum Ausdruck gebracht, darunter elektronische Klänge, Synthesizer, Orchester und Ambient.
 * Im Laufe der Geschichte kann man sagen, dass die **Beziehung zwischen Mensch und Technologie** durch Ton visualisiert wurde.
 
 > Zukünftige Science-Fiction-Filmmusik wird durch die Zusammenarbeit zwischen KI und menschlichen Komponisten eine neue Welt eröffnen.

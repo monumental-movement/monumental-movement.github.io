@@ -59,7 +59,7 @@ Obwohl sich die Mitglieder im Laufe der Zeit ändern, sind die anfänglichen Ker
 * **King Coffey** – Schlagzeug
 * **Teresa Taylor** – Schlagzeug (Doppeltrommelkonfiguration)
 
-Vor allem Gibby Haynes und Paul Leary fanden trotz unterschiedlicher musikalischer Ausrichtung Harmonie und gründeten eine Aktivität, die einer Kunstgruppe ähnelte.
+Insbesondere Gibby Haynes und Paul Leary fanden trotz unterschiedlicher musikalischer Ausrichtung Harmonie und gründeten eine Aktivität, die einer Kunstgruppe ähnelte.
 
 ---
 
@@ -86,7 +86,7 @@ Der erste Sound der Band mischt die Schnelligkeit des späten Punk/Hardcore mit 
 flowchart TD
     A[„Direkte Gitarrenaufnahme“] --> B[„Verzerrungsverarbeitung“]
     B --> C[„Sax improvisierte Aufnahme“]
-    C --> D[„Drum ungerade Taktart 1 Take-Aufnahme“]
+    C --> D[„Schlagzeug ungerade Taktart 1 Take-Aufnahme“]
     D --> E[„Gesamtmix (Lo-Fi)“]
 
 ---
@@ -156,7 +156,7 @@ flowchart TD
 
 <div class="mermaid"></div>
 flowchart TD
-    A[„Gitarre/Bass/Schlagzeug getrennte Aufnahme“] --> B[„Effektverarbeitung“]
+    A[„Gitarre/Bass/Schlagzeug getrennte Aufnahme“] --> B[„Wirkungsverarbeitung“]
     B --> C[„Sax improvisierte Aufnahme“]
     C --> D[„Mischen/Stereo-Anpassung“]
 
@@ -202,7 +202,7 @@ flowchart TD
 flowchart TD
     A[„Direkte Gitarrenaufnahme“] --> B[„Verzerrungsverarbeitung“]
     B --> C[„Sax improvisierte Aufnahme“]
-    C --> D[„Drum ungerade Taktart 1 Take-Aufnahme“]
+    C --> D[„Schlagzeug ungerade Taktart 1 Take-Aufnahme“]
     D --> E[„Gesamtmix (Lo-Fi)“]
 
 ---
@@ -264,7 +264,7 @@ flowchart TD
 
 <div class="mermaid"></div>
 flowchart TD
-    A[„Gitarre/Bass/Schlagzeug getrennte Aufnahme“] --> B[„Effektverarbeitung“]
+    A[„Gitarre/Bass/Schlagzeug getrennte Aufnahme“] --> B[„Wirkungsverarbeitung“]
     B --> C[„Sax improvisierte Aufnahme“]
     C --> D[„Mischen/Stereo-Anpassung“]
 
@@ -414,7 +414,7 @@ flowchart TD
     C --> D[„1987–1989: Expansion nach Europa und psychedelische Periode“]
     D --> E[„1993: Übergang zur Hauptperiode“]
     E --> F[„1996: Electriclarryland-Zeit“]
-    F --> G[„2001: Einführung elektronischer Klänge“]
+    F --> G[„2001: Einführung des elektronischen Sounds“]
     G --> H[„Danach: Fortsetzung der unregelmäßigen Aktivitäten“]
 
 ---

@@ -15,7 +15,7 @@ title: Holen Sie sich Psy-Trance-Werke
 
 
 
-„Klangschamanismus, bei dem Zukunft und Mythologie ineinandergreifen, Psy-Trance funktioniert“
+„Klangschamanismus, wo Zukunft und Mythologie ineinandergreifen, Psy-Trance funktioniert“
 
 ---
 

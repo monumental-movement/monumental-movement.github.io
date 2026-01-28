@@ -15,7 +15,7 @@ title: Bros – Zu viel
 
 
 Bros war eine britische Popband, die von 1987 bis 1992 aktiv war. Zum Zeitpunkt der Gründung waren die Zwillingsbrüder Matt und Luke Goss (Matt Goss & Luke Goss)
-, war ein Trio mit Craig Logan, aber Anfang 1989 verließ Craig Logan die Band und sie begannen als Duo zu arbeiten. Der Manager ist der ehemalige Pet Shop Boys-Manager Tom Watkins.
+, war ein Trio bestehend aus Craig Logan, aber Anfang 1989 verließ Craig Logan die Band und sie begannen als Duo zu arbeiten. Der Manager ist der ehemalige Pet Shop Boys-Manager Tom Watkins.
 
 „Too Much“ wurde 1989 veröffentlicht und ist eine Single aus dem zweiten Album der Bros, The Time. Bros‘ Meisterwerk, das nicht nur in Großbritannien, sondern auch in Japan ein Hit war. Es war ein Hit und Konzerterfolg in Japan und erschien auch in einem Werbespot für Yamahas Roller Yamaha Jog.
 

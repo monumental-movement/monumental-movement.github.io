@@ -94,7 +94,7 @@ Mit ihrem Debütalbum bekundeten sie erstmals ihr Interesse an gesellschaftliche
 - **"Jah Glory"**
 - Englischer Text: „Jah Glory soll uns Frieden und Freiheit bringen“
 - Japanische Übersetzung: „Die Herrlichkeit Jahs wird uns Frieden und Freiheit bringen.“
-- Kommentar: Eine Hymne, die Freiheit und Frieden lobt und die Hoffnung angesichts der damaligen politischen Instabilität in Westafrika zum Ausdruck bringt.
+- Kommentar: Eine Hymne, die Freiheit und Frieden lobt und Hoffnung angesichts der damaligen politischen Instabilität in Westafrika zum Ausdruck bringt.
   
 - **„Brigadier Sabari“**
 - Englischer Text: „Korruption und Machtmissbrauch, wir können es nicht ertragen“
@@ -126,8 +126,8 @@ Ein Werk, das die Apartheid direkt kritisiert.
 
 ## 4. Nachrichten und Reaktionen in Südafrika zu dieser Zeit
 
-- Im Jahr 1986 erregte die internationale Tournee von Alpha Blondy Aufmerksamkeit und Aufnahmen ihres Konzerts in Johannesburg verbreiteten sich im Untergrund in nicht-weißen Gemeinden.
-- Südafrikanische inländische Medien gaben dem Konzert eine niedrige Bewertung für das weiße Establishment, aber die schwarze Gemeinschaft begrüßte es als „Symbol der Hoffnung“.
+- Im Jahr 1986 erregte die internationale Tour von Alpha Blondy Aufmerksamkeit und Aufnahmen ihres Konzerts in Johannesburg verbreiteten sich im Untergrund in nicht-weißen Gemeinden.
+- Südafrikanische inländische Medien gaben dem weißen Establishment eine niedrige Bewertung des Konzerts, aber die schwarze Gemeinschaft begrüßte es als „Symbol der Hoffnung“.
 - Lokaler Zeitungsartikel (damals übersetzt): „Ein Sänger vom afrikanischen Kontinent hat unseren Wunsch nach Freiheit gesungen. Seine Musik ermutigt uns.“
 
 ---

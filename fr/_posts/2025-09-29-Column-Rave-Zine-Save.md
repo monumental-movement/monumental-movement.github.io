@@ -120,7 +120,7 @@ flowchart TD
 | Peut disparaître | Peut disparaître en raison d'un lien rompu ou d'une suppression | Restera en votre possession de manière semi-permanente |
 | Copier | Copie infinie possible | Copie physique limitée = présence comme « preuve » |
 | Partager | Partagez instantanément en un clic | Remise en mains propres/envoi postal = rituel physique impliqué |
-| Facile à envoyer des messages | N'importe qui peut facilement envoyer des messages | Efforts à faire = concentration des pensées du créateur |
+| Facile à envoyer des messages | N'importe qui peut facilement envoyer des messages | Efforts à réaliser = concentration des pensées du créateur |
 
 
 Tout comme la rave était une « expérience physique », le zine est aussi un « support physique ».

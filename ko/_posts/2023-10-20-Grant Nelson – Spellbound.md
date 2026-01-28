@@ -9,7 +9,7 @@ permalink: /ko/grant-nelson-spellbound/
 tags:
 - House
 - Rare
-title: 그랜트 넬슨 – 스펠바운드
+title: 그랜트 넬슨 - 스펠바운드
 ---
 
 

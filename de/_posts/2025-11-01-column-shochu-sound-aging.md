@@ -68,9 +68,9 @@ Der Auslöser war die „akustische Alterung“ von Wein, die ein Weinbrauer in 
 Ich erfuhr von einem Versuch, die Reifung durch das Spielen klassischer Musik zu beschleunigen.
 Er kehrte zu Amami zurück und dachte: „Vielleicht könnte man es mit Shochu machen.“
 
-Im Jahr 2005 wurde erstmals ein akustischer Lautsprecher in einem Lagerhaus auf Amami Oshima installiert.
+Im Jahr 2005 installierte ein bestimmtes Lagerhaus in Amami Oshima erstmals akustische Lautsprecher in seinem Lagerraum.
 Die getesteten Themen waren klassische Musik (Bach, Mozart) und Insellieder (wie „Asahabushi“ von Satokuni Taka).
-Sechs Monate später waren die Beteiligten, die es probierten, überrascht.
+Sechs Monate später waren die beteiligten Personen, die es probierten, überrascht.
 „Obwohl es der gleiche rohe Sake ist, war er sanfter, als ich ihn hörte.“
 
 ### ● Mechanismus der akustischen Reifung
@@ -79,7 +79,7 @@ Eine Änderung der Frequenz erhöht die Molekülkollisionen und beschleunigt die
 Dadurch sollen die aromatischen Bestandteile erhöht und die Reizung durch Alkohol verringert werden.
 
 > „Basswellen bewegen die Flüssigkeit als tiefe Basswellen, und hohe Frequenzen lassen die Oberflächenschicht geringfügig vibrieren.“
-> Es ist, als würde man eine Schallmassage erhalten. ”
+> Es ist wie eine Schallmassage. ”
 > —— Forscher, Fakultät für Landwirtschaft, Abteilung für Lebensmittelwissenschaften, Universität Kagoshima
 
 ---
@@ -105,7 +105,7 @@ Insbesondere „Taiko und Sanshin“ sind reich an niedrigen Frequenzen und weis
 
 Es werden auch experimentelle Daten gesammelt.
 Laut einer gemeinsamen Studie der Universität Kagoshima,
-Shochu, das einer klassischen akustischen Alterung unterzogen wurde, hat einen höheren
+Shochu, das einer klassischen akustischen Alterung unterzogen wurde, hat eine höhere
 **Durchschnittliche Reduzierung des Aldehydgehalts um 8 %**,
 **Esterverhältnis um 12 % erhöht**.
 
@@ -286,7 +286,7 @@ E --> E2[南之風酒造<br>🎧 AI音響テスト導入 2024年～]
 
 Die Topographie von Amami erstreckt sich über 160 km von Norden nach Süden und die Luftfeuchtigkeit, Windrichtung und akustischen Eigenschaften der Küste variieren von Region zu Region.
 Ein Lagerhaus mit Blick auf die Tatsugo-Bucht nutzt beispielsweise das Rauschen der Wellen.
-In Berggebieten gelegene Lagerhäuser schaffen eine reife Umgebung, die den natürlichen Nachhall nutzt.
+In Berggebieten gelegene Lagerhäuser schaffen eine Reifeumgebung, die den natürlichen Nachhall nutzt.
 
 Akustische Reifung ist nicht nur ein „Gerät“;
 **Dies ist die „Resonanz der Insel“, bei der die Topographie selbst zum Instrument wird**.

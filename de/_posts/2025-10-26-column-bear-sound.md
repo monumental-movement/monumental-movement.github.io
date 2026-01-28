@@ -45,7 +45,7 @@ color: #fff;
 - **Asiatischer Schwarzbär (Ursus thibetanus)**: Kommt in Honshu, Shikoku und Kyushu vor, Körperlänge 120–150 cm, gutes Baumverhalten, Allesfresser.
 - **Braunbär (Ursus arctos yesoensis)**: Hokkaido, 180–250 cm lang, groß, frisst auch Fische und Kleintiere.
 
-Beide Arten sind nachtaktiv, aber während der Jagdsaison im Frühling und Herbst sind auch tagsüber Aktivitäten zu beobachten.
+Beide Arten sind nachtaktiv, aber während der Jagdsaison im Frühjahr und Herbst sind auch tagsüber Aktivitäten zu beobachten.
 
 ### 2.2 Höreigenschaften und Reaktion auf Geräusche
 
@@ -81,7 +81,7 @@ Mit der Zunahme von Obstplantagen und Nusswäldern kommt es immer häufiger vor,
 
 ### 3.3 Auswirkungen des Klimawandels
 
-Aufgrund des Rückgangs des Schneefalls und der Schwankungen des Fruchtwachstums im zeitigen Frühjahr ist es wahrscheinlicher, dass sie in Zeiten der Nahrungsmittelknappheit menschliche Siedlungen aufsuchen.
+Aufgrund des Rückgangs des Schneefalls und der Schwankungen des Fruchtwachstums im zeitigen Frühjahr ist es wahrscheinlicher, dass sie in Zeiten der Nahrungsmittelknappheit menschliche Siedlungen besuchen.
 
 ### 3.4 Schadensstatistik nach Regionen (2020–2024)
 
@@ -126,7 +126,7 @@ G[高周波電子音] --> H[実験的回避]
 
 - **Hokkaido-Obstgarten (2015–2018)**: Invasionsrate durch den Einsatz von Feuerwerkskörpern um 40 % reduziert
 
-- **Kyushu elektronischer Klangversuch (2019–2021)**: Kurzfristige Vermeidung durch den Einsatz von Hochfrequenzgeräten, langfristige Gewöhnung tritt ein
+- **Kyushu elektronischer Klangversuch (2019–2021)**: Kurzfristige Vermeidung durch den Einsatz von Hochfrequenzgeräten, langfristige Gewöhnung erfolgt
 
 - **Demonstration von Tohoku-KI-Sprechern (2020–2023)**: Erfolgsquote der Warnung vor der Bäreninvasion 65 %
 

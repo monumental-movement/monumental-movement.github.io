@@ -14,7 +14,7 @@ title: Happy Hardcore 작품을 선택하세요
 ---
 
 
-"과거와 미래를 넘나드는 끝없는 하이텐션, 해피 하드코어 작품 시리즈."
+"과거와 미래를 넘나드는 끝없는 하이텐션의 해피 하드코어 작품 시리즈."
 
 <hr>
 
@@ -49,7 +49,7 @@ B2. Wonderfull Days (Radio Mix)
 
 발매: 1998년, "No Time to Chill"의 싱글
 
-특징: "James Brown Is Dead"(L.A. Style)의 강력한 샘플 사용으로 빛을 발하는 행복한 하드코어 지향 트랜스입니다. 해외 밴드 Scooter의 유니크한 작품입니다.
+특징: "James Brown Is Dead"(L.A. Style)의 강력한 샘플 사용으로 빛나는 행복한 하드코어 지향 트랜스입니다. 해외 밴드 Scooter의 유니크한 작품입니다.
 
 #### 트랙리스트
 ```md
@@ -95,7 +95,7 @@ B2. Sunrise (Here I Am) (Instrumental)
 <br>
 
 
-### 페이즈 vs. DJ 스나이퍼 Feat. 카렌 – 영원히 / 점화 시퀀스
+### 페이즈 vs DJ 스나이퍼 Feat. 카렌 – 영원히 / 점화 시퀀스
 <a href="https://jp.mercari.com/item/m40097768990?afid=6142608987"><img src="../assets/images/Phase%20vs.%20DJ%20Sniper%20Feat.%20Karen%20%E2%80%93%20Forevermore%20Ignition%20Sequence.webp"></a>
 
 발매사: 영국 레이블 Sonic Boom
@@ -125,7 +125,7 @@ B2. Forevermore (Original)
 
 아티스트: 영국의 인기 DJ/프로듀서 Mark Breeze
 
-특징 : 신나는 멜로디와 에너제틱한 비트가 돋보이는 곡으로, 'Kick Your Legs In The Air', 'Don't Make Me Wait (Special Version)' 샘플을 비롯해 많은 클럽에서 지지를 받고 있는 곡이다.
+특징 : 신나는 멜로디와 에너제틱한 비트가 돋보이는 곡으로 'Kick Your Legs In The Air', 'Don't Make Me Wait (Special Version)' 샘플을 포함해 많은 클럽에서 지지를 받고 있는 곡이다.
 
 #### 트랙리스트
 ```md

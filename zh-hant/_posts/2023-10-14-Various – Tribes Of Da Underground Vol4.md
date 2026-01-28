@@ -13,7 +13,7 @@ title: 各種 – Da Underground Vol4 部落
 ---
 
 
-Fred Everything 是一位活躍在 Deep House 場景的法裔加拿大電子音樂家/DJ。
+Fred Everything 是一位活躍於 Deep House 場景的法裔加拿大電子音樂家/DJ。
 
 Pressure Drop 是英國電子音樂二人組，由賈斯汀·朗蘭茲 (Justin Langlands) 和戴夫·亨利 (Dave Henley) 組成。
 

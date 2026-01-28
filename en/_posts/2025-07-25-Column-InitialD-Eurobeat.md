@@ -34,7 +34,7 @@ In this column, we explore the cultural relationship between [Initial D](https:/
 <hr>
 
 ### The story of the mountain pass and the spirit
-"Initial D" is a manga by Shuichi Shigeno that has been serialized in "Weekly Young Magazine" since 1995. The story takes place on a mountain pass in Gunma Prefecture, and the main character, Takumi Fujiwara, learns drifting skills while delivering tofu in his father's AE86 (Toyota Sprinter Trueno), and gradually awakens as a runner.
+"Initial D" is a manga by Shuichi Shigeno that has been serialized in "Weekly Young Magazine" since 1995. The story is set on a mountain pass in Gunma Prefecture, and the main character, Takumi Fujiwara, learns drifting skills while delivering tofu in his father's AE86 (Toyota Sprinter Trueno), and gradually awakens as a runner.
 
 It was made into an anime in 1998 and became a hot topic for its CG-based 3D car action and high-tempo music.
 
@@ -101,11 +101,11 @@ Eurobeat is being reinterpreted in new ways on TikTok and MAD videos.
 <hr>
 
 ### Is Eurobeat "memory fuel"?
-""Initial D" gave a story and emotion to the music called Eurobeat. It was not just ""dance music," but was engraved as an experience connected to ""accelerating youth" and ""memories of defeat and victory."
+""Initial D" gave a story and emotion to the music called Eurobeat. It was not just ""dance music," but an experience linked to ""accelerating youth" and ""memories of defeat and victory."
 
 As a result, Eurobeat became an unusually ""emotional'' music in Japan. In other words:
 
-Eurobeat is music that speaks of speed, and at the same time, it has become a medium that tells a story of running through something while losing something.
+Eurobeat is music that speaks of speed, but at the same time it has become a medium that tells a story of running through something while losing something.
 
 
 <hr>

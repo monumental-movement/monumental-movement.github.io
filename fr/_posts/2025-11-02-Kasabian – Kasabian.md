@@ -23,7 +23,7 @@ title: Kasabien – Kasabien
 
 Le premier album de Kasabian, un groupe de rock alternatif/électro de Leicester, en Angleterre, sorti en 2004. Kasabian se caractérise par un son qui combine le rock électronique.
 
-Kasabian est considéré comme l'un des groupes de rock britanniques les plus actifs du 21e siècle.
+Kasabian est considéré comme l'un des groupes de rock les plus actifs émergents de Grande-Bretagne au 21e siècle.
 
 #### Liste des chansons
 ```md

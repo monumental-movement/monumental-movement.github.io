@@ -11,15 +11,15 @@ tags:
 - Funk
 - Soul
 - 90s
-title: Cecil Parker – Dance Everybody
+title: Cecil Parker – Danse tout le monde
 ---
 
 
-Cecil Parker(セシル・パーカー)は、フィラデルフィア出身の4オクターブを自在に操るボーカリスト&ソングライター。
+Cecil Parker est un chanteur et auteur-compositeur de quatre octaves originaire de Philadelphie.
 
-1980年にリリースしたソウルフルなバラード「Really, Really Love You」と「Love Is」でよく知られている。
+Mieux connu pour les ballades émouvantes « Really, Really Love You » et « Love Is », sorties en 1980.
 
-「Dance Everybody」は、1992年に初期のUSハウスレーベルEcho USAのサブレーベルEcho DanceからリリースされたHouseトラック。プロデューサーはJeffrey Collins、リミックスはJames BrattonとMarlon Grant。
+"Dance Everybody" est un morceau House sorti en 1992 sur Echo Dance, un sous-label du premier label house américain Echo USA. Produit par Jeffrey Collins, remixé par James Bratton et Marlon Grant.
 
 
 #### Liste des chansons

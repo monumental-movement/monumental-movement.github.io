@@ -29,4 +29,4 @@ B1. Colorado Bitch
 B2. Colorado Bitch (Pheek Remix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m82142847858?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m82142847858?afid=6142608987){: .button1}

@@ -17,7 +17,7 @@ Sergio Del Rio ist ein DJ und Produzent aus Italien. Er arbeitet auch unter den 
 
 „Parazaar“ ist ein House-Track, der 2003 von der House-Spezialitätenabteilung des spanischen Labels Vale Music veröffentlicht wurde.
 
-Der erste Titel auf Seite A ist ein Remix des italienischen Produzenten Fedo.
+Der erste Song auf Seite A ist ein Remix des italienischen Produzenten Fedo.
 
 #### Trackliste
 ```md

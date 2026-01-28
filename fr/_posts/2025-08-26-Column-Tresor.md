@@ -54,7 +54,7 @@ En conséquence, la techno futuriste et politique née aux États-Unis a été l
 
 ### Label « Trésor Records »
 
-Créé en 1991 dans le cadre d'un club, Tresor Records fonctionne comme un important label techno.
+Créé en 1991 en tant que club rattaché, Tresor Records fonctionne comme un important label techno.
 
 [Jeff Mills – Waveform Transmissionシリーズ](https://amzn.to/4mJeXE1)
 
@@ -77,7 +77,7 @@ Tresor est un symbole de « la culture de réutilisation des ruines urbaines ».
 
 **Culture de club 24 heures sur 24**
 
-À Berlin, où la réglementation était laxiste, un espace a été créé où les gens pouvaient continuer à danser matin, midi et soir. Son style fait toujours l'objet d'envie dans le monde entier.
+À Berlin, où la réglementation était laxiste, un espace a été créé où les gens pouvaient continuer à danser matin, midi et soir. Son style fait toujours l’objet de convoitises mondiales.
 
 **Techno = identité urbaine**
 
@@ -155,7 +155,7 @@ Aujourd'hui, des DJ du monde entier s'y produisent et il continue de servir de l
 
 ### Élever la musique techno d’une « mode passagère » à une « culture universelle »
 
-Plus qu'un simple club ou label, Tresor est un carrefour culturel qui relie l'histoire de Berlin, l'espace urbain de l'après-guerre froide et l'avenir de la musique noire à Détroit.
+Plus qu'un simple club ou un label, Tresor est un « carrefour culturel » qui relie l'histoire de Berlin, l'espace urbain de l'après-guerre froide et l'avenir de la musique noire à Détroit.
 Les sons émis par ce coffre-fort résonnent encore dans la culture des clubs du monde entier, élevant la musique techno d'une « mode passagère » à une « culture universelle ».
 
 ---

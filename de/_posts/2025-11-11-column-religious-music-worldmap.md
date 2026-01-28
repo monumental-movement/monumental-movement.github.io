@@ -11,8 +11,8 @@ tags:
 - Healing
 - History
 title: '[Kolumne] Religiöse Musik auf der ganzen Welt und ihre psychologischen und
-  sozialen Auswirkungen – Die Geschichte von Musik und Gebet, erklärt durch Illustrationen
-  und Zeitleisten –'
+  sozialen Auswirkungen – Die Geschichte der Musik und des Gebets, erklärt anhand
+  von Illustrationen und Zeitleisten –'
 ---
 
 
@@ -80,7 +80,7 @@ color: #fff;
 ## Christliche Musik: Feierlichkeit und Resonanz durch Klang
 
 * **Hauptformate**: Gregorianischer Gesang, Orgelmusik, Gospel
-* **Ikonische Werke**:
+* **Kultige Werke**:
 
 * *Gesang* (Benediktinerorden)
 * Mahalia Jackson『Take My Hand, Precious Lord』

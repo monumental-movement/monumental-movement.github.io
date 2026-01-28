@@ -19,7 +19,7 @@ title: 皮爾斯爵士的壯舉。 Monique Bingham – 難道你不愛我混音�
 
 A-side 是 Louis Benedetti 的混音作品，他經營 SoulShine Recordings 和 Thompson Studios。
 
-B 面是 DJ Jorj (Jorj Patsalides) 的混音版，他是澳大利亞墨爾本的 DJ/製作人。
+B 面是 DJ Jorj (Jorj Patsalides) 的混音作品，他是澳大利亞墨爾本的 DJ/製作人。
 
 #### 曲目列表
 ```md

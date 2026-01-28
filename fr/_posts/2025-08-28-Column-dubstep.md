@@ -58,7 +58,7 @@ Les premiers artistes représentatifs incluent Skream, Benga, Digital Mystikz (M
 
 <hr>
 
-### Expansion et transformation à l’international
+### Expansion et transformation à l'international
 
 À partir de 2008 environ, le dubstep s’est répandu au-delà de l’underground britannique et s’est répandu dans le monde entier.
 

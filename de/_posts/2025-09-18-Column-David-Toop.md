@@ -74,7 +74,7 @@ Für ihn war Musik wirklich eine „Klangkarte der Welt“.
 
 ---
 
-## 1990er – „Rap Attack“ und Kritik der urbanen Kultur
+## 1990er Jahre – „Rap Attack“ und Kritik der urbanen Kultur
 
 Rap Attack ist ein innovatives Buch, das nicht nur die Anfänge des Hip-Hop dokumentiert, sondern auch Musik, urbane Kultur und Medienphänomene miteinander verbindet.
 Etwa zur gleichen Zeit beschäftigte er sich mit Ambient und Jungle und engagierte sich aktiv in der Kulturkritik elektronischer Musik.
@@ -92,13 +92,13 @@ Man kann sagen, dass dies die Ära war, in der Toops Stil etabliert wurde, der K
 
 „Ocean of Sound“, bekannt für seine Metapher des „Meeres aus Klang“, enthielt Erkenntnisse, die die Verbreitung des Streamings vorwegnahmen.
 Der Text, eine Mischung aus Essays, Kritik und Literatur, geht über den Rahmen eines Musikbuchs hinaus und fungiert als „Hörliteratur“.
-Auch seine Ambient-Werke präsentierten eine Welt sanfter und diffuser Klänge.
+Auch seine Ambient-Werke präsentierten eine Welt aus sanften und diffusen Klängen.
 
 | Jahr | Ausgewählte Tonquellen/Künstler | Kommentar |
 |------|----------------|------|
 | 2001 | Brian Eno – *Ambient 1: Musik für Flughäfen* (Neubewertung) | Überdenken der Beziehung zwischen der Umgebung und dem Hören als „treibender Klang“. |
 | 2004 | *Haunted Weather* | Kritik im Zusammenhang mit elektronischer Musik und meteorologischen Sensationen. |
-| Mitte der 2000er Jahre | Glitch-Musik wie Oval, Fennesz | Bekräftigt den „Mangel an Ton“ im digitalen Zeitalter als Ästhetik. |
+| Mitte der 2000er | Glitch-Musik wie Oval, Fennesz | Bekräftigt den „Mangel an Ton“ im digitalen Zeitalter als Ästhetik. |
 
 ---
 

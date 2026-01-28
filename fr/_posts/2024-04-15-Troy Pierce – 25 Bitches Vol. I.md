@@ -9,15 +9,15 @@ permalink: /fr/troy-pierce-25-bitches-vol-i/
 tags:
 - Techno
 - Minimal
-title: Troy Pierce – 25 Bitches Vol. I
+title: Troy Pierce – 25 chiennes Vol. je
 ---
 
 
-Troy Pierce（トロイピアース）は、ベルリンを拠点に活動するアメリカのエレクトロニック・ミュージックDJ・プロデューサー。 
+Troy Pierce est un DJ et producteur américain de musique électronique basé à Berlin.
 
-Troy Pierceは、Gibby Millerとのミニマルテクノ・ハウスプロジェクトLouderbachとしても活躍し、ドイツのレーベルItems & ThingsをMagda、Marc Houleと共に運営している。
+Troy Pierce est également actif sous le nom de Louderbach, un projet de techno house minimale avec Gibby Miller, et dirige le label allemand Items & Things avec Magda et Marc Houle.
 
-「25 Bitches Vol. I」は、Richie Hawtin（リッチー・ホウティン）が設立したM_nusから2006年にリリースされたテクノ・ミニマルトラック。
+"25 Bitches Vol. I" est un morceau techno minimal sorti en 2006 par M_nus, fondé par Richie Hawtin.
 
 #### Liste des chansons
 ```md

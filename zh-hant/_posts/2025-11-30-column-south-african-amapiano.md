@@ -83,7 +83,7 @@ graph LR
 
 ### 地理和時間
 
-阿皮亞諾的出生地是南非豪登省。尤其重要的是**約翰內斯堡**和**比勒陀利亞**的城鎮。
+阿皮亞諾的出生地是南非的**豪登省**。尤其重要的是**約翰內斯堡**和**比勒陀利亞**的城鎮。
 
 據多方消息稱，Amapiano 的實驗於 2012 年左右開始，隨後確立了“Amapiano”這一流派的統一名稱。
 
@@ -136,7 +136,7 @@ graph TD
   * 推動該類型在全國范圍內的突破和商業化
   * 續集 **蝎子王歸來（2019 年 11 月）** 也取得了成功
 
-在此期間，阿皮亞諾不僅僅是一種鄉鎮音樂，它還成為一種全國和商業認可的流派。
+這一時期使阿皮亞諾音樂不再只是一種鄉鎮音樂，而是一種全國和商業認可的流派。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u2V08RBLOdM?si=ajNfLm30b3Pom53A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -247,7 +247,7 @@ graph TD
 ### 批評和擔憂
 
 * 商業化帶來的“同質化”和“爆款”擔憂
-* 然而，多元化和分支化也在同時進行，流派也在不斷演變。
+* 然而，多元化和分支化也在同時進行，類型也在不斷演變。
 
 ### 未來的可能性
 

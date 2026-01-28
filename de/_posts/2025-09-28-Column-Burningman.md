@@ -64,7 +64,7 @@ Burning Man hat eine lange Beziehung zum Silicon Valley. In den späten 1990er-J
 
 ### Beteiligung und Kontroverse berühmter Personen/Prominenten
 
-Burning Man ist seit langem ein Magnet für Prominente – Unternehmer, Künstler und sogar Politiker (Namen wie Mark Zuckerberg, Elon Musk und Jeff Bezos wurden in den Medien erwähnt). Dies kann zu Spannungen zwischen dem Prinzip der „Dekommodifizierung“ und dem tatsächlichen Verhalten der Teilnehmer mit Reichtum und Einfluss führen.
+Burning Man ist seit langem ein Magnet für Prominente – Unternehmer, Künstler und sogar Politiker (Namen wie Mark Zuckerberg, Elon Musk und Jeff Bezos wurden in den Medien erwähnt). Dies kann zu Spannungen zwischen dem Prinzip der „Dekommodifizierung“ und dem tatsächlichen Verhalten von Teilnehmern mit Reichtum und Einfluss führen.
 
 ---
 
@@ -100,7 +100,7 @@ Seit den 2000er Jahren erregen riesige „Mutantenfahrzeuge“ und Skulpturen au
 
 ### Zeitgenössische Implikationen und Herausforderungen
 
-Während Burning Man nach wie vor ein Zentrum der Kreativität ist, steht es vor Kommerzialisierungs-, Sicherheits- und Umweltbedenken und der Frage: „Für wen ist Burning?“ Die Community verstärkt ihre Nachhaltigkeitsbemühungen (Leave No Trace, Kunststipendien) und teilt ihr Wissen in regionalen Netzwerken.
+Während Burning Man nach wie vor ein Zentrum der Kreativität ist, steht es vor Kommerzialisierungs-, Sicherheits- und Umweltproblemen und der Frage: „Für wen ist Burning?“ Die Community verstärkt ihre Nachhaltigkeitsbemühungen (Leave No Trace, Kunststipendien) und teilt ihr Wissen in regionalen Netzwerken.
 
 ---
 
@@ -191,7 +191,7 @@ Der Prototyp der „Feier des Lebens und der Kreativität“, der von nachfolgen
 
 Ein Thema, das die geheimnisvolle Existenz und die Mehrdeutigkeit des Universums und des Bewusstseins erforscht. Interaktive Arbeiten mit partizipatorischer Levitation oder Licht stachen hervor.
 
-Es wurde beispielsweise berichtet, dass es ein Werk mit dem Titel „30-Fuß-Leuchtkörper ‚Nebulous Entity‘“ gibt.
+Beispielsweise wurde berichtet, dass es ein Werk mit dem Titel „30-Fuß-Leuchtkörper ‚Nebulous Entity‘“ gibt.
 
 ---
 
@@ -405,13 +405,13 @@ Die obige Liste wurde unter Bezugnahme auf die Themenbeschreibungen aus dem offi
 
 Der Tempel (ein Ort des Gebets) und der Mann selbst werden oft als Reaktion auf ein Thema gestaltet, mit Elementen, die vom Thema unabhängig sind, aber jedes Jahr neu konfiguriert werden.
 
-Darüber hinaus wird das Thema nicht zwangsläufig auf alle Lager/Werke angewendet, sondern fungiert eher als „suggestiver Rahmen“.
+Darüber hinaus wird das Thema nicht zwingend auf alle Lager/Werke angewendet, sondern fungiert vielmehr als „suggestiver Rahmen“.
 
 ---
 
 ### Fazit: Zukünftiges Stadtexperiment in der Wüste
 
-Burning Man ist eine moderne kulturelle Experimentalstadt, die sich aus dem Thema Inferno (1995) → Dekommodifizierung (1996) → Fertility (1997) → Vault of Heaven (2004) → 2010–2025 entwickelt hat und Spiritualität, partizipative Kunst, Dekomerzialisierung und Lebensausdruck vereint.
+Burning Man ist eine moderne kulturelle Experimentalstadt, die sich aus dem Thema Inferno (1995) → Dekommodifizierung (1996) → Fertility (1997) → Vault of Heaven (2004) → 2010–2025 entwickelt hat und Spiritualität, partizipative Kunst, Dekommerzialisierung und Lebensausdruck vereint.
 
 Das jedes Jahr wechselnde Thema und das großformatige Kunstwerk dienen den Teilnehmern als Mittel, ihre Werte und sozialen Beziehungen anhand ihrer Erfahrungen zu hinterfragen. Die vergänglichen Städte, die in der Wüste gebaut wurden, prägen sich in die Erinnerungen des Einzelnen ein und haben weiterhin einen nachhaltigen Einfluss auf Gesellschaft, Kultur und Kreativität.
 

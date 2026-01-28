@@ -10,11 +10,11 @@ tags:
 - House
 - Hard House
 - 00s
-title: 절개 – 모션을 넘어
+title: 절개 - 모션을 넘어
 ---
 
 
-영국 하드 하우스의 전설 Paul King(Paul F1 King)은 Incisions로도 알려진 Willem Jelle Faber가 1996년에 발표한 하드 트랜스 트랙 "Beyond Motion"을 리믹스합니다.
+영국 하드 하우스의 전설 Paul King(Paul F1 King)은 Incisions로도 알려진 Willem Jelle Faber가 1996년에 발매한 하드 트랜스 트랙 "Beyond Motion"을 리믹스합니다.
 
 영국의 Hard House/NRG 레이블 Vicious Circle Recordings가 2004년에 출시한 500개의 희귀 레코드 한정판입니다.
 

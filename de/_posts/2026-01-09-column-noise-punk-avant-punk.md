@@ -18,13 +18,13 @@ title: '[Kolumne] Noise Punk / Avant-Punk ─ Wenn destruktiver Impuls zur Ideol
 
 ## Prolog: Warum Punk brechen musste
 
-Text: mmr｜Thema: Über Noise-Punk/Avant-Punk, der als Erinnerungsinstrument für die ständige Ablehnung der sicheren Zone der Musik dient
+Text: mmr｜Thema: Über Noise-Punk/Avant-Punk, der ein Erinnerungsgerät zur ständigen Ablehnung der sicheren Zone der Musik ist
 
 Noise Punk/Avant Punk ist ein Versuch der extremen Selbstzerstörung, der aus der Punk-Bewegung hervorgegangen ist, die Ende der 1970er Jahre entstand. Anstelle der oberflächlichen Bilder des frühen Punks wie Geschwindigkeit und Rebellion zeichnet sich Punk durch seinen zugrunde liegenden Impuls der „Verleugnung“, „Verweigerung“ und „Zerstörung“ aus, der sich auf die musikalische Struktur selbst erstreckt.
 
-Bei dieser Musik kommt es nicht auf Können und Vergnügen an. Vielmehr werden aktiv Phrasen gewählt, die nahezu unspielbar sind, Dissonanzen aufweisen und Rhythmen am Rande des Zusammenbruchs stehen. Es herrschte ein klares Misstrauen gegenüber dem Unterhaltungswert und dem kommerziellen Wert der Rockmusik.
+Bei dieser Musik kommt es nicht auf Können und Vergnügen an. Vielmehr werden aktiv Phrasen gewählt, die nahezu unspielbar sind, Dissonanzen aufweisen und Rhythmen kurz vor dem Zusammenbruch stehen. Es herrschte ein klares Misstrauen gegenüber dem Unterhaltungswert und dem kommerziellen Wert der Rockmusik.
 
-DNA und The Pop Group sind die radikalste Verkörperung dieser Haltung. Anstatt den Punk zu aktualisieren, haben sie ihn von innen heraus zerlegt und so einen völlig anderen Ausdrucksbereich eröffnet.
+DNA und The Pop Group sind die radikalste Verkörperung dieser Haltung. Anstatt den Punk zu modernisieren, haben sie ihn von innen heraus zerlegt und so einen völlig anderen Ausdrucksbereich eröffnet.
 
 > Noise Punk war ein Versuch, Ideen durch die Zerstörung von Musik zu visualisieren.
 
@@ -48,7 +48,7 @@ color: #fff;
 
 Um 1977 verbreitete sich Punk rasant und wurde gleichzeitig schnell formalisiert. 3 Akkorde, kurze Lieder, aggressive Einstellung. Sie entwickelten sich schnell zu einem Stil und begannen, reproduziert zu werden. Noise Punk/Avant Punk entstand aus einem starken Gefühl des Unbehagens in dieser Situation.
 
-Das Problem für sie bestand darin, dass Rock erneut auf „leicht verständliche Musik“ reduziert wurde. Rebellion wird zum Symbol und Dissens wird in Mode. Um den Prozess selbst abzulehnen, bewegte sich die Musik bewusst in eine unverständliche Richtung.
+Das Problem für sie bestand darin, dass Rock wieder einmal auf „leicht verständliche Musik“ reduziert wurde. Rebellion wird zum Symbol und Dissens wird zur Mode. Um den Prozess selbst abzulehnen, bewegte sich die Musik bewusst in eine unverständliche Richtung.
 
 Diese Haltung schien Punk zu leugnen, in Wirklichkeit war sie jedoch eine gründliche Umsetzung des grundlegenden Geistes des Punk.
 
@@ -84,7 +84,7 @@ Obwohl die Auftritte von DNA improvisatorisch sind, sind sie nicht einfach nur c
 
 ## Kein Wave-Kontext
 
-Ein wesentlicher Bestandteil der Diskussion über DNA ist die kurzlebige New Yorker Bewegung namens No Wave. Dabei handelte es sich eher um eine Ansammlung von Einstellungen als um ein Genre.
+Ein wesentlicher Bestandteil der Diskussion über DNA ist die kurzlebige New Yorker Bewegung No Wave. Dabei handelte es sich eher um eine Ansammlung von Einstellungen als um ein Genre.
 
 No Wave zeichnete sich durch seine völlige Ablehnung von Blues- und Rock'n'Roll-Traditionen aus. Ohne den Genuss der Tanzmusik und die Katharsis des Punks wurde die Musik extrem trocken.
 

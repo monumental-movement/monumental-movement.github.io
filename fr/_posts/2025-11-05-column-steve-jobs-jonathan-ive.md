@@ -48,9 +48,9 @@ color: #fff;
 ## Chapitre 1 Records et California Air
 
 Steve Jobs est un produit de la contre-culture californienne de la fin des années 1960 et des années 1970.
-De nombreuses biographies confirment qu'il admirait Bob Dylan et les Beatles dès son plus jeune âge.
+Son admiration pour Bob Dylan et les Beatles dès son plus jeune âge est confirmée par de nombreuses biographies.
 
-Dans la biographie de Walter Isaacson "Steve Jobs" (2011), il a un **amplificateur à tube et un tourne-disque** dans son salon.
+Dans la biographie « Steve Jobs » de Walter Isaacson (2011), son salon dispose d'un **amplificateur à tube et d'un tourne-disque**.
 On raconte qu'il écoutait tous les soirs des albums de Bob Dylan et de Joan Baez.
 
 > "Les mots de Dylan ont une âme. Ce ne sont pas les sons d'une machine."
@@ -123,7 +123,7 @@ Ive dit : « Le boîtier lui-même façonne le son » (entretien avec Fast Compa
 
 ## Chapitre 6 Des enregistrements au cloud - héritage des mémoires sonores
 
-Lorsque Jobs parlait de son concept iCloud, il rêvait d'un « monde où la musique peut être écoutée où que vous soyez ».
+Lorsque Jobs parlait du concept iCloud, il rêvait d'un « monde où la musique peut être écoutée où que vous soyez ».
 À sa racine se trouve le concept du cloud comme extension de l’acte de ramasser un disque et de laisser tomber l’aiguille.
 
 D'un autre côté, j'ai traversé LoveFrom,
@@ -155,7 +155,7 @@ Après le décès de Jobs, je l'ai décrit comme suit :
 > "Il regardait les produits comme on écoute de la musique : il y a le rythme, il y a l'harmonie, il y a le silence."
 
 Ive lui-même appelle le travail de conception qu'il poursuit avec LoveFrom un « processus sonore ».
-En d’autres termes, le design n’est pas seulement un art visuel, mais aussi un acte de construction sonore.
+En d’autres termes, le design est à la fois un art visuel et un acte de construction sonore.
 
 ---
 

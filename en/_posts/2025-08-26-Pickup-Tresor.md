@@ -116,7 +116,7 @@ Attractive point: Contains a luxurious lineup that symbolizes the Berlin techno 
 Summary: The 7th Tresor compilation released in 1999. A gorgeous collection of songs from world-famous artists such as Sven Väth, Ben Sims, James Ruskin, Daniel Bell, and DJ Shufflemaster.
 
 
-Attractive point: Covering a wide range of styles such as dub techno and ambient, this is a piece where you can fully experience the essence of the Tresor label. Recommended for beginners.
+Attractive point: Covers a wide range of styles such as dub techno and ambient, and allows you to fully experience the essence of the Tresor label. Recommended for beginners.
 
 #### Tracklist
 ```md
@@ -182,7 +182,7 @@ D2. Voov – It's Anything You Want It To Be And It's A Gas (Smoke Machine V2)
 Summary: A full-length album released in 2001 by Japanese hard techno DJ/producer DJ Shufflemaster (Tatsuya Kanamori). It is known as a masterpiece released by Tresor.
 
 
-Attractive point: The deep hard techno sound and detailed composition are attractive. He has received high praise internationally and is a valuable Japanese artist who has spread around the world through his relationship with Tresor.
+Attractive point: The deep hard techno sound and detailed composition are attractive. He has received high praise internationally, and is a valuable Japanese artist who has spread around the world through his relationship with Tresor.
 
 #### Tracklist
 ```md

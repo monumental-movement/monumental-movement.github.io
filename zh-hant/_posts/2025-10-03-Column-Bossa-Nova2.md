@@ -83,5 +83,5 @@ color: #fff;
 
 ### 相關專欄
 
-🔗 【【專欄】Bossa Nova 魅力與代表作指南：按藝術家和時代推薦專輯】（monumental-movement.jp/Column-Bossa-Nova）
+🔗 【【專欄】Bossa Nova 魅力與傑作指南：按藝術家和時代推薦專輯】（monumental-movement.jp/Column-Bossa-Nova）
 

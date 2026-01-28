@@ -14,7 +14,7 @@ title: Le Dø – Sur mes épaules
 ---
 
 
-The Dø est un groupe de pop indie franco-finlandais formé à Paris en 2005. Les membres sont Olivia Merilahti et Dan Levy. Leur premier album studio, « A Mouthful », sorti en 2008, fut un succès mondial, en tête des charts français.
+The Dø est un groupe de pop indie franco-finlandais formé à Paris en 2005. Les membres sont Olivia Merilahti et Dan Levy. Leur premier album studio, « A Mouthful », sorti en 2008, a été un succès mondial, en tête des charts français.
 
 Ce disque est un mix House/Minimal du premier single "On My Shoulders". Il est sorti en 2009 sur le label Voidcom.
 

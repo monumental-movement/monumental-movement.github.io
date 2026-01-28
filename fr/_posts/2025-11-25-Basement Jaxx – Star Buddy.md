@@ -9,19 +9,19 @@ permalink: /fr/basement-jaxx-star-buddy/
 tags:
 - House
 - 00s
-title: Basement Jaxx – Star / Buddy
+title: Basement Jaxx – Star / Copain
 ---
 
 
-Side A 【remix of Kathy Sledge - Another Star (covering Stevie Wonder - Another Star / Creepin')】
+Face A [remix de Kathy Sledge - Another Star (couvrant Stevie Wonder - Another Star / Creepin')]
 
-Side B 【re-edit of Buddy Rich - Nuttville (from The Roar Of '74)】
+Face B [réédition de Buddy Rich - Nuttville (de The Roar Of '74)]
 
-Basement Jaxx (ベースメントジャックス)が2000年にリリースした非公式Houseリミックス。
+Remix House non officiel publié par Basement Jaxx en 2000.
 
-Aは、Stevie Wonder(スティービーワンダー)の『Another Star / Creepin'』をKathy SledgeがカヴァーしたHouse トラック『Another Star』のremix。
+A est un remix du morceau House "Another Star", qui est la reprise de Kathy Sledge de "Another Star / Creepin'" de Stevie Wonder.
 
-Bは、1974年にリリースされたBuddy Richのアルバム『The Roar Of '74』の収録曲『Nuttville』のリエディット。
+B est une réédition de la chanson "Nuttville" de l'album "The Roar Of '74" de Buddy Rich sorti en 1974.
 
 #### Liste des chansons
 ```md

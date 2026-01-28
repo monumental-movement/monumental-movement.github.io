@@ -108,7 +108,7 @@ color: #fff;
 
 ---
 
-# III. Japan: Eine Geschichte stiller und brüllender Gitarristen
+# III. Japan: Stille und rauschende Geschichte der Gitarristen
 
 ## 1. Nach dem Krieg und dem Aufkommen der Elektrizität (1950er bis 1970er Jahre)
 
@@ -193,7 +193,7 @@ Die Gitarre ist nicht nur ein Musikinstrument, sondern ein Mittel zur Selbstdars
 
 - **Pedalboard-Philosophie**: Klangerzeugung = Ego-Design. Jedes Pedal wird zu einer Erweiterung der Persönlichkeit des Spielers.
 - **Loop/Glitch/DAW**: Erweiterter „Fingerspeicher“. Ein einzelner Interpret kann einen Orchesterausdruck ausüben.
-- **Seiichi Yamamoto x Jim O’Rourke**: Überbrückung der Welt aus dem Untergrund von Kyoto. Beeinflusste improvisatorische und experimentelle Musik im In- und Ausland.
+- **Seiichi Yamamoto x Jim O’Rourke**: Überbrückung des Untergrunds von Kyoto mit der Welt. Beeinflusste improvisatorische und experimentelle Musik im In- und Ausland.
 
 Keiji Haino betrachtet die Gitarre als eine Erweiterung seines Körpers und Geistes und ist eine Präsenz, die die Sinne des Zuhörers mit den Extremen des Klangs erschüttert. Die Dreifaltigkeit von Improvisation, Zerstörung und Ausdruck wird zu einer wichtigen Koordinate in der Geschichte der japanischen Underground-Gitarre.
 
@@ -201,7 +201,7 @@ Keiji Haino betrachtet die Gitarre als eine Erweiterung seines Körpers und Geis
 
 ---
 
-# V. Fazit: Der anhaltende Klang der Saiten, der nie aufhört zu klingeln
+# V. Fazit: Der anhaltende Klang der Saiten, der nie aufhört zu klingen
 
 Die Gitarre war schon immer ein Symbol der freien Meinungsäußerung, vom Underground bis zur Welt. Die Ära ist angebrochen, in der „die Temperatur und die Ideologie des Künstlers“ wichtiger sind als die Technik.
 

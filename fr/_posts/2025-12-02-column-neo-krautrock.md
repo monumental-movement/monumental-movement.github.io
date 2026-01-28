@@ -185,7 +185,7 @@ flowchart TD
 
 ---
 
-## 8. 結論
+## 8. Conclusion
 
 Le Neo-Krautrock ramène l'esprit du Krautrock au 21ème siècle, devenant un pont entre le passé et le futur. Des artistes comme Tropic of Cancer et Panda Lux conservent l'esthétique originale du krautrock tout en promouvant de nouvelles expérimentations musicales. Avec les progrès de la théorie musicale, de la technologie d'enregistrement et de l'expression live, le Neo-Krautrock continuera d'être au centre de la scène musicale expérimentale.
 

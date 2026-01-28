@@ -14,7 +14,7 @@ title: Les travaux de récupération à haute énergie (Hi-NRG)
 ---
 
 
-«Un ensemble remarquable d'œuvres symbolisant l'âge d'or de la haute énergie qui a fait vibrer le sol avec des synthés éblouissants et des rythmes perçants.»
+«Un groupe remarquable d'œuvres symbolisant l'âge d'or de la haute énergie qui a fait vibrer le sol avec des synthés éblouissants et des rythmes perçants.»
 
 <hr>
 

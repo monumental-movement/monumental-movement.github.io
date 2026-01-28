@@ -134,7 +134,7 @@ A harsh criticism of world leaders. It also attracted international attention.
 
 | Year | Album | Commentary | Link |
 |---|---|---|---|
-| 1969 | The '69 Los Angeles Sessions | Experimental work with strong early jazz + high life vibes | [Amazon](https://amzn.to/3KrT4Mb) |
+| 1969 | The '69 Los Angeles Sessions | Experimental work with strong early jazz + high life flavor | [Amazon](https://amzn.to/3KrT4Mb) |
 | 1973 | Gentleman | Criticism of colonialism and the perfection of Afrobeat | [Amazon](https://amzn.to/3IFAYFV) |
 | 1975 | Expensive Shit | A masterpiece that takes advantage of a famous false accusation case | [Amazon](https://amzn.to/3IVK6WS) |
 | 1977 | Zombie | Sharply criticizes the military government, resulting in the attack on Kalakuta | [Amazon](https://amzn.to/46VWCh7) |

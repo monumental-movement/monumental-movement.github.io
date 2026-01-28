@@ -19,7 +19,7 @@ title: 마이크 잉크 – 가사
 
 Mike Ink로도 알려진 Wolfgang Voigt는 독일 쾰른 출신의 전자 음악 DJ이자 프로듀서입니다. Mike Ink 외에도 Gas, M:I:5:, Wassermann 등 다양한 이름으로도 알려져 있습니다. 1990년대부터 그는 Warp, Harvest, Raster-Noton, Force Inc, Astral Industries 등 여러 유명 음반사와 계약을 맺었으며 가장 영향력 있는 미니멀 테크노 아티스트 중 한 명으로 평가받고 있습니다. 1998년에 그는 Michael Mayer, Jurgen Paape와 함께 Kompakt라는 레이블을 공동 창립했습니다.
 
-"Paroles"는 Warp Records가 1996년에 발매한 2개의 디스크 세트입니다. C는 Auteka의 리믹스입니다.
+"Paroles"는 Warp Records가 1996년에 발매한 2장의 디스크 세트입니다. C는 Auteka의 리믹스입니다.
 
 #### 트랙리스트
 ```md

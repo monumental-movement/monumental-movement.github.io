@@ -10,7 +10,7 @@ tags:
 - Soul
 - Funk
 - Rare
-title: 마빈 게이 - 포도나무에서 들었어
+title: 마빈 게이(Marvin Gaye) - 포도나무를 통해 들었어
 ---
 
 

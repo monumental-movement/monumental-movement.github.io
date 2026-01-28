@@ -9,15 +9,15 @@ permalink: /fr/chester-beatty-and-dj-shufflemaster-beat-boxx-remixes/
 tags:
 - Techno
 - 00s
-title: Chester Beatty & DJ Shufflemaster – Beat Boxx Remixes
+title: Chester Beatty et DJ Shufflemaster – Remixes Beat Boxx
 ---
 
 
-2000年にリリースされたChester Beatty と DJ Shufflemaster による共作。
+Co-écrit par Chester Beatty et DJ Shufflemaster, sorti en 2000.
 
-Aは、UKのエレクトロニックミュージシャン／DJ Surgeon (サージョン)によるremix。
+A est un remix du musicien électronique/DJ Surgeon britannique.
 
-B2は、デトロイト・テクノ第二世代のパイオニアJay Denhamがremix。
+B2 est un remix de Jay Denham, pionnier de la deuxième génération de techno de Détroit.
 
 #### Liste des chansons
 ```md

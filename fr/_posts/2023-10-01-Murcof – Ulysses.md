@@ -13,7 +13,7 @@ title: Murcof – Ulysse
 ---
 
 
-Murcof est un projet de Fernando Corona, l'un des principaux musiciens et producteurs électroniques du Mexique qui apparaît également sur Mutek, Sonar, Atonal, etc.
+Murcof est un projet de Fernando Corona, l'un des principaux musiciens et producteurs électroniques du Mexique qui est également apparu sur Mutek, Sonar, Atonal, etc.
 
 "Ulysses" est sorti par Leaf, un label de musique électronique établi de longue date.
 

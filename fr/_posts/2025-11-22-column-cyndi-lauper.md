@@ -48,7 +48,7 @@ Quand Cindy était jeune, elle était le genre d’enfant qui chantait à peu pr
 
 De nos jours, sa voix est une marque mondiale, mais lorsqu'elle était enfant, Cindy manquait de confiance en sa propre voix, et il fut un temps où elle craignait que « tout le monde pensait que ma voix était étrange ».
 
-Cependant, sa mère aimait beaucoup cette voix. En effet, même au milieu de situations familiales difficiles, la voix chantée de Cindy a apporté de la luminosité dans la maison.
+Cependant, sa mère aimait beaucoup cette voix. En effet, même au milieu de situations familiales difficiles, la voix chantée de Cindy apportait de la luminosité dans la maison.
 
 ---
 
@@ -110,7 +110,7 @@ Lumineux, amusant, gratuit et un peu triste.
 C'est peut-être parce que l'atmosphère générale était « à la Cindy » qu'elle a conquis le cœur de tant de gens.
 
 La musicalité n’est pas la seule chose qui a fait le succès de cet album.
-Avec l’essor de MTV, nous entrions dans une ère dans laquelle les images influençaient la musique et Cindy avait un impact visuel écrasant. Des costumes colorés, des coiffures trop libres et un clip mettant en scène des gens courant dans des ruelles. Tous étaient parfaits pour « l’atmosphère de l’époque ».
+Avec l’essor de MTV, nous sommes entrés dans une ère dans laquelle les images ont influencé la musique et Cindy a eu un impact visuel écrasant. Des costumes colorés, des coiffures trop libres et un clip mettant en scène des gens courant dans des ruelles. Tous étaient parfaits pour « l’atmosphère de l’époque ».
 
 ---
 
@@ -201,7 +201,7 @@ Cindy n'accordait aucune valeur à « la répétition des formes réussies » 
 
 #**12. Challenge to Broadway : remporte un Tony Award pour « Kinky Boots »**
 
-En 2013, il était en charge des paroles et de la composition de la comédie musicale « Kinky Boots », qui lui a valu le Tony Award de la meilleure chanson originale.
+En 2013, il est en charge des paroles et de la composition de la comédie musicale « Kinky Boots » et remporte le Tony Award de la meilleure chanson originale.
 
 À l’origine, Cindy a grandi non seulement en tant que chanteuse, mais aussi profondément influencée par la culture expressive telle que le cinéma et le théâtre. Cela s’est concrétisé sous la forme de Broadway.
 

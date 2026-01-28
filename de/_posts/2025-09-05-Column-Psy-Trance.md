@@ -22,7 +22,7 @@ Text: mmr｜Thema: Geschichte des Psy-Trance von seinen Anfängen bis zur Gegenw
 
 Goa-Trance, der aus der Hippie-/Rave-Kultur in Goa stammt, verbreitete sich Mitte der 1990er Jahre als „psychedelischer Trance“ auf der ganzen Welt. Seitdem sind durch die Verfeinerung von Klangbildern und die Digitalisierung von Geräten verschiedene abgeleitete Genres (Full-on, Darkpsy, Progressive, Psybient usw.) entstanden, die durch Festivalkultur und Online-Verbreitung eine globale Verbreitung gefunden haben.
 
-Nachfolgend fassen wir die Trends nach Generation, repräsentativen Meisterwerken, Änderungen in der Ausrüstung und **10 empfohlenen Titeln aus jeder Epoche** zusammen.
+Nachfolgend fassen wir die Trends nach Generation, repräsentative Meisterwerke, Änderungen in der Ausrüstung und **10 empfohlene Titel aus jeder Epoche** zusammen.
 
 
 ---
@@ -71,7 +71,7 @@ color: #fff;
 ---
 
 ## Gründung von Goa Trance – 1990-1994
-- **Hintergrund:** Vollmondparty in Goa, Indien. Trance-Sounds, die auf DAT-Kassetten abgespielt werden, verbreiten sich auf der ganzen Welt.
+- **Hintergrund:** Vollmondparty in Goa, Indien. Auf DAT-Kassetten abgespielte Trance-Sounds verbreiten sich auf der ganzen Welt.
 - **Ausrüstung:** DAT, Roland Synthesizer, früher Sampler.
 
 ### Meisterwerk
@@ -175,8 +175,8 @@ color: #fff;
 | 5 | Außenseiter – Wir sind nicht allein | 2015 | Vollständige Evolution |
 | 6 | Symbolischer und vertikaler Modus – Trance-Logik | 2015 | Anspruchsvolles Klangbild |
 | 7 | Astrix – Spaziergang durch den tiefen Dschungel | 2012 | Israelisches Schwergewicht |
-| 8 | Tristan – Lebensart | 2017 | Britischer Media-Vertreter |
-| 9 | Liquid Soul – Nirvana | 2014 | Fortschrittsorientiert |
+| 8 | Tristan – Lebensart | 2017 | Britischer medialer Vertreter |
+| 9 | Liquid Soul – Nirvana | 2014 | Fortschrittlich orientiert |
 | 10 | Infizierter Pilz – Leiter der NASA | 2018 | Entwicklung eines Veteranen |
 
 ---
@@ -210,7 +210,7 @@ color: #fff;
 ---
 
 ### Auf dem Weg zur Zukunft der Psychedelika
-Psy-Trance entstand aus der Schnittstelle von Hippie-Kultur und Technologie, verzweigte sich nach seinem goldenen Zeitalter in den 90er Jahren in viele verschiedene Formen und dominiert weiterhin Festivals auf der ganzen Welt. Wenn man die Entwicklung des Sounddesigns und Veränderungen in der Ausrüstung verfolgt, offenbart sich die Dynamik seines Klangs und die Tiefe seiner Kultur.
+Psy-Trance entstand aus der Schnittstelle von Hippie-Kultur und Technologie, verzweigte sich nach seinem goldenen Zeitalter in den 90er Jahren in viele verschiedene Formen und dominiert weiterhin Festivals auf der ganzen Welt. Wenn man die Entwicklung des Sounddesigns und Änderungen in der Ausrüstung verfolgt, offenbart sich die Dynamik seines Klangs und die Tiefe seiner Kultur.
 
 Wir haben mit analogem Equipment angefangen, haben die Digitalisierung durchlaufen und befinden uns nun in der Phase der Fusion, die über Genres hinausgeht. **Gore-Spiritualität der 1990er-Jahre**, **High-Tech-Explosivität der 2000er-Jahre**, **Digital-Crossover der 2010er-Jahre** und **genreübergreifende Weiterentwicklung der 2020er-Jahre**. Jede Epoche schuf ihre eigene Ästhetik.
 

@@ -10,11 +10,11 @@ tags:
 - Disco
 - Synth-Pop
 - 7inch
-title: The Dooleys – Body Language
+title: Les Dooley – Langage corporel
 ---
 
 
-The Dooleys（ドゥーリーズ）は、イギリスの男女混合ポップグループでした。全盛期にはメンバーが8人で、そのうち6人はドゥーリー家の人々でした。1977年から1981年にかけて、イギリスのチャートで上位にランクインするヒット曲をいくつか生み出しました。
+Les Dooleys étaient un groupe pop britannique mixte. À son apogée, elle comptait huit membres, dont six étaient membres de la famille Dooley. De 1977 à 1981, ils produisent plusieurs succès qui atteignent le sommet des charts britanniques.
 
 #### Liste des chansons
 ```md

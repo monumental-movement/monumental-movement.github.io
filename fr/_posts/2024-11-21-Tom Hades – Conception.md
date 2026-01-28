@@ -9,15 +9,15 @@ permalink: /fr/tom-hades-conception/
 tags:
 - Techno
 - 00s
-title: Tom Hades – Conception
+title: Tom Hadès – Conception
 ---
 
 
-Tom HadesことWim Vanoeverenは、ベルギーを拠点に活躍するテクノ・テックハウスDJ＆プロデューサー。ベルギーテクノシーンの重鎮であり、レーベルRhythm Convert(現在はRhythm Converted名義)を運営している。
+Wim Vanoeveren, également connu sous le nom de Tom Hades, est un DJ et producteur techno/techhouse basé en Belgique. Pilier de la scène techno belge, il dirige le label Rhythm Convert (actuellement sous le nom de Rhythm Converted).
 
-「Conception」は、Marco Bailey (マルコ・ベイリー)が運営するテクノレーベルMB Elektronicsから2002年にリリースされたテクノトラック。
+"Conception" est un morceau techno sorti en 2002 par MB Elektronics, un label techno dirigé par Marco Bailey.
 
-B面は、ベルギーテクノシーンの重要人物Stanny Franssen(別名G-Force)によるremix。
+La face B est un remix de Stanny Franssen (alias G-Force), figure importante de la scène techno belge.
 
 #### Liste des chansons
 ```md

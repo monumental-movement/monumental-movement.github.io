@@ -9,11 +9,11 @@ permalink: /ko/faithless-why-go/
 tags:
 - Trance
 - House
-title: 믿음 없는 – 왜 가야 하는가?
+title: 믿음없는 – 왜 가야합니까?
 ---
 
 
-"왜 가요?" 영국 일렉트로닉 음악 그룹 Faithless의 노래입니다. 1998년 2집 'Sunday 8PM'에 수록된 곡입니다. Faithless는 트랜스, 하우스, 댄스 음악의 요소를 결합한 독특한 사운드로 유명합니다.
+"왜 가요?" 영국 일렉트로닉 음악 그룹 Faithless의 노래입니다. 이 곡은 1998년 2집 앨범 'Sunday 8PM'에 수록된 곡이다. Faithless는 트랜스, 하우스, 댄스 음악의 요소를 결합한 독특한 사운드로 유명합니다.
 
 "왜 가요?" Caroline Wheeler와 Bo Ramsden의 보컬이 특징인 활기차고 춤추기 좋은 트랙입니다. 신나는 리듬과 독특한 샘플링, 감성적인 가사가 어우러져 페이스리스 특유의 스타일을 표현한 곡이다.
 

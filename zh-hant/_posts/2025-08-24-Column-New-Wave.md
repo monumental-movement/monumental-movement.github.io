@@ -13,10 +13,10 @@ title: 【專欄】新浪潮：後朋克音樂創新與 80 年代都市文化的
 ---
 
 
-## ニューウェーブは単なるジャンルではなく、**パンク後の実験精神を受け継ぎ、多様な音楽と文化を融合させた「時代の感性」**
+## 新浪潮不僅僅是一種流派，更是一種流派。這是一種繼承後朋克時代實驗精神，融合多元音樂和文化的“時代感性”。 **
 
 
-文：mmr｜主題：後朋克時代藝術運動
+文：mmr｜主題：後朋克時代的藝術運動
 
 <小時>
 
@@ -34,13 +34,13 @@ title: 【專欄】新浪潮：後朋克音樂創新與 80 年代都市文化的
 
 - **合成器的興起**
 
-With the spread of analog synths and drum machines, mechanical and futuristic sounds were created. Gary Numan 和 Ultravox 就是最好的例子。
+隨著模擬合成器和鼓機的傳播，機械和未來派的聲音被創造出來。 Gary Numan 和 Ultravox 就是最好的例子。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vIdbeJzjKSs?si=7t-Vdyzk7BsEzK9n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-- **ジャンル横断性**
+- **跨類型**
 
 他們自由地融合了放克節奏（Talking Heads）、雷鬼節奏（The Police）和迪斯科舞曲感覺（Blondie），超越了流派界限。
 

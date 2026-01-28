@@ -21,7 +21,7 @@ title: '[Spalte] Experimentelle Stimm-/Stimmanipulation – Geschichte und Techn
 
 Text: mmr｜Thema: Experimenteller Gesang, der die Stimme als Material/Geschichte, Techniken, Repräsentanten und zeitgenössische Trends der Stimmmanipulation verarbeitet, erzeugt und neu ordnet
 
-Im 21. Jahrhundert hat sich die Singstimme von der reinen Melodieübertragung zu einem bearbeitbaren akustischen Material entwickelt. Mit der Verfügbarkeit von Werkzeugen wie Aufnahme-/Bearbeitungstechnologie, Effekten, Sampling, Echtzeitverarbeitung und Erzeugungstechnologie hat die Stimme eine vielfältige Rolle als Instrument, Textur, räumliche Beschreibung und sogar Datenressource übernommen. Künstler wie Björk und Imogen Heap, die ihre eigenen Stimmen als Hauptmaterial für ihre Experimente und durch technologische Durchbrüche wie Granularsynthese und KI-basierte Resynthese geschaffene Ausdrucksformen verwenden, haben die Möglichkeiten der Stimme erheblich erweitert.
+Im 21. Jahrhundert hat sich die Singstimme von einem bloßen Überbringer von Melodien zu einem bearbeitbaren akustischen Material entwickelt. Mit der Verfügbarkeit von Werkzeugen wie Aufnahme-/Bearbeitungstechnologie, Effekten, Sampling, Echtzeitverarbeitung und Erzeugungstechnologie hat die Stimme eine vielfältige Rolle als Instrument, Textur, räumliche Beschreibung und sogar Datenressource übernommen. Künstler wie Björk und Imogen Heap, die ihre eigenen Stimmen als Hauptmaterial für ihre Experimente verwenden, und Ausdrucksformen, die durch technologische Durchbrüche wie Granularsynthese und KI-basierte Resynthese geschaffen wurden, haben die Möglichkeiten der Stimme erheblich erweitert.
 
 ---
 
@@ -75,7 +75,7 @@ Björk hat deutlich einen Produktionsansatz gezeigt, der die Stimme als Hauptkla
 
 ### 3-2. Imogen Heap – Echtzeitkontrolle und Körperlichkeit
 
-Imogen Heap demonstrierte, dass die Stimme durch Live-Ausdruck mithilfe von Echtzeit-Effektsteuerung, Gesten und Controllern instrumental gespielt werden kann. Mithilfe eines Harmonizers und einer selbst entwickelten Signalverarbeitung visualisierte er die Unmittelbarkeit und Wandelbarkeit der Stimme, indem er die Textur und Harmonien der Stimme während der Aufführung manipulierte.
+Imogen Heap demonstrierte, dass die Stimme durch Live-Ausdruck mithilfe von Echtzeit-Effektsteuerung, Gesten und Controllern instrumental gespielt werden kann. Durch den Einsatz eines Harmonizers und einer selbst entwickelten Signalverarbeitung, um die Textur und Harmonien der Stimme während einer Aufführung zu manipulieren, visualisierte er die Unmittelbarkeit und Wandelbarkeit der Stimme.
 
 ---
 
@@ -152,7 +152,7 @@ Hier zeigen wir Ihnen einen grundlegenden Arbeitsablauf, mit dem Sie tatsächlic
 
 ## Kapitel 8: Bildungs- und Forschungsperspektiven
 
-Stimmmanipulation ist ein Bereich, der eng mit der Akustik, Psychologie und der Forschung zu künstlicher Intelligenz verbunden ist. Die Wahrnehmung der Stimmqualität, die Parametrisierung für die Stimmsynthese und das physiologische Verständnis der Vokalisierung werden zur technischen Vertiefung experimentellen Gesangs beitragen.
+Stimmmanipulation ist ein Bereich, der eng mit Akustik, Psychologie und der Forschung zu künstlicher Intelligenz verbunden ist. Die Wahrnehmung der Stimmqualität, die Parametrisierung für die Stimmsynthese und das physiologische Verständnis der Vokalisierung werden zur technischen Vertiefung experimentellen Gesangs beitragen.
 
 ---
 

@@ -23,7 +23,7 @@ Text: mmr | Thema: Eine rebellische Musikbewegung, die Ende der 1970er Jahre in 
 
 1978 trat eine ungewöhnliche Band in der Hafenstadt Bristol im Südwesten Englands auf.
 Ihr Name ist **The Pop Group**.
-Obwohl sie sich selbst Pop nannten, war ihre Musik kein Funk, Punk oder Jazz, sondern ein Experiment, bei dem alle Genres explosionsartig aufeinanderprallten.
+Obwohl sie sich selbst Pop nannten, war ihre Musik kein Funk, Punk oder Jazz, sondern ein Experiment, bei dem alle Genres explosionsartig aufeinander prallten.
 
 Ihr Sound erinnert an die **Arbeitslosigkeit, Klasse, politische Korruption und Entfremdung junger Menschen**, die England in den 1970er Jahren beherrschte.
 Es wurde als „Schrei“ des Klangs selbst sublimiert.
@@ -53,7 +53,7 @@ color: #fff;
 
 Bristol war in den 1970er Jahren eine scheinbar friedliche Provinzstadt.
 Doch hinter den Kulissen schritten die soziale Spaltung, die wirtschaftliche Stagnation und die Entfremdung der Einwanderergemeinschaften voran.
-Ähnlich wie bei den Unruhen in Brixton (London) 1976 verschärften sich in Bristol die Konflikte zwischen Polizei und Jugendlichen.
+Ähnlich wie bei den Brixton-Unruhen (London) 1976 verschärften sich in Bristol die Konflikte zwischen Polizei und Jugendlichen.
 Eine „Kluft zwischen Staat und Straße“ wurde zur Norm.
 
 Als Hafenstadt hatte Bristol aufgrund der Einwanderer aus Jamaika eine tief verwurzelte **Reggae- und Dub-Kultur**.
@@ -75,21 +75,21 @@ Die Mitglieder sind zwischen Ende Teenager und Anfang 20.
 **Dan Catsis (Bass)** und **John Waddington (Gitarre)** waren die Hauptakteure.
 
 Im Gegensatz zu den Londoner Punks waren sie sich bewusst, politisch und künstlerisch zu sein.
-Ihr Debütalbum „**Y**“ (1979) war schon damals eine Häresie unter Ketzern.
+Ihr Debütalbum „**Y**“ (1979) war schon damals eine Ketzerei über eine Ketzerei.
 Die Unordnung des Free Jazz, der Deep Space des Dub, der destruktive Impuls des Punk ...
 Diese überschneiden sich als **sozialkritische Gedichte und poetische Schreie**.
 
 > „Wir sind alle Prostituierte“
 > - Es war eine ergreifende Erklärung gegen eine Gesellschaft, die dem Kommerzialismus und dem System ausgeliefert war.
 
-Die **rhythmische Gewalt**, die **Anschwellen des Lärms** und **Mark Stewarts fluchähnlicher Gesang** dieses Liedes sind es
+Die **rhythmische Gewalt**, die **Anschwellen des Lärms** und **Mark Stewarts fluchähnlicher Gesang** dieses Songs sind es
 Man kann sagen, dass es der Prototyp des späteren industriellen/politischen Lärms ist.
 
 ---
 
 ## Kapitel 3: Verschmelzung von Gedanken und Klang – „Widerstand als Kunst“
 
-Das war es, was The Pop Group von anderen Punkbands unterschied
+Das unterschied The Pop Group von anderen Punkbands
 Er hatte eindeutig das Verständnis, dass „Musik eine Waffe des Denkens“ ist.**
 
 Sie wurden vom Marxismus, Situationismus und den Philosophien von Bataille und Derrida beeinflusst.
@@ -98,7 +98,7 @@ Themen wie „Macht“, „Überwachung“ und „Medienmanipulation“ tauchen 
 Akustisch haben wir uns die damalige Aufnahmetechnik zunutze gemacht,
 **In großem Umfang räumliche Verarbeitung, Hall, Bandmanipulation und Improvisation eingesetzt**.
 Dies wurde später von Adrian Sherwood (On-U Sound) und Lee Perry entwickelt.
-Es überschneidet sich auch mit dem Prototyp des „politischen Dubs“.
+Es überschneidet sich auch mit dem Prototyp des „Political Dub“.
 
 > Sound war nicht nur Unterhaltung, sondern **Lärm zum Widerstand**.
 

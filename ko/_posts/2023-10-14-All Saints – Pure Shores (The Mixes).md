@@ -9,7 +9,7 @@ permalink: /ko/all-saints-pure-shores-the-mixes/
 tags:
 - House
 - Pops
-title: 올 세인츠(All Saints) – 퓨어 쇼어스(퓨어 쇼어스)
+title: 올 세인츠(All Saints) - 퓨어 쇼어(Pure Shores)(더 믹스)
 ---
 
 

@@ -18,7 +18,7 @@ Dino Lenny, auch bekannt als Dino, ist ein italienischer DJ/Produzent, der seit 
 
 „King Kong Five“ war ursprünglich ein Originalsong der französischen Band Mano Negra, der 1989 auf ihrem Album Puta’s Fever enthalten und als Single veröffentlicht wurde.
 
-Dinos Version ist eine Neuinterpretation dieses Songs, House/Electro, der 2004 auf Ilario Dragos Dance-Label Ego Music veröffentlicht wurde.
+Dinos Version ist eine Neuinterpretation dieses Songs, House/Electro, der 2004 auf Ilario Dragos Tanzmusiklabel Ego Music veröffentlicht wurde.
 
 B ist ein Remix von Andrea Doria, bekannt für „Bucci Bag“ (produziert von Dino Lenny).
 

@@ -18,7 +18,7 @@ title: 무당벌레 메카 - Dogg Starr(하우스 믹스)
 
 A1은 Deep House 씬의 거물인 캐나다 DJ 겸 프로듀서 Fred Everything(Frédéric Blais)의 리믹스입니다.
 
-B2는 1990년대 초 Cajual Records와 Relief Records를 통해 주목을 받은 시카고 하우스 2세대를 대표하는 DJ 겸 프로듀서인 Johnny Fiasco의 리믹스입니다.
+B2는 1990년대 초반 Cajual Records와 Relief Records를 통해 주목을 받은 시카고 하우스 2세대를 대표하는 DJ 겸 프로듀서인 Johnny Fiasco의 리믹스입니다.
 
 
 #### 트랙리스트

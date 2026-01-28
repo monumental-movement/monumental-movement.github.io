@@ -59,7 +59,7 @@ Anfangs konzentrierte sich dieser Wettbewerb nicht wie heute auf Tricks, sondern
 Ein wesentliches Ereignis in der Geschichte von DMC ist der Auftritt von DJ Cheese (USA).
 Beim Turnier 1986 führte er eine Routine vor, die den Schwerpunkt auf Scratching und Beat-Jonglage legte und damit die traditionellen, auf Mixen basierenden Regeln völlig außer Kraft setzte.
 
-Von diesem Moment an begann die Welt zu teilen, dass „Turntablism, einschließlich Scratching, das Spiel entscheidet“.
+Von diesem Moment an begann die Welt zu teilen, dass „Turntablism, einschließlich Scratching, das Spiel entscheidet.“
 
 ## 2-2　1988-1990: Auf dem Weg zur Ära des Samplings, des Beat-Jonglierens und der Komposition
 Nach Cheese spielten DJs nicht nur Lieder;
@@ -106,7 +106,7 @@ Daraus ergibt sich
 Eine solche Entwicklung findet statt.
 
 ## 4-2　Video-Qualifikation/online
-Um das Jahr 2011 herum wurde eine **Online-DJ-Meisterschaft** über YouTube eingeführt, die DJs aus der ganzen Welt die Tür zur Teilnahme öffnete.
+Um das Jahr 2011 herum wurde eine **Online-DJ-Meisterschaft** über YouTube eingeführt, die DJs aus der ganzen Welt die Möglichkeit zur Teilnahme öffnete.
 
 ---
 
@@ -124,7 +124,7 @@ Insbesondere Ende der 2010er Jahre, als die Belastung durch die Betriebskosten z
 Infolgedessen entwickelte sich DMC eher zu einem von der Gemeinschaft geführten und geschützten Kulturgut als zu einer „kommerziellen Veranstaltung“.
 
 ## 5-2　Pandemiezeit: Umstellung auf Fernwettbewerb
-Im Zeitraum 2020–2021 erschwerte die neue Infektionskrankheit die Durchführung einer physischen Veranstaltung, weshalb DMC das Weltturnier vollständig online abhielt.
+Im Zeitraum 2020–2021 erschwerte die neue Infektionskrankheit die Durchführung einer physischen Veranstaltung, sodass DMC das Weltturnier vollständig online abhielt.
 Ausrüstungsunternehmen wie Rane und Technics unterstützten den Wettbewerb und leiteten eine Ära ein, in der Routinen als Videoarbeiten geschätzt wurden.
 
 ---
@@ -336,7 +336,7 @@ flowchart LR
 
 ## **⑤ Trends der DMC-Weltkonferenz „Anzahl der teilnehmenden Länder“ (Konzeptdiagramm)**
 
-(Detaillierte Jahresdaten werden nicht veröffentlicht, daher nur steigende Trends und Periodenklassifizierungen)
+(Detaillierte jährliche Daten werden nicht veröffentlicht, daher nur steigende Trends und Periodenklassifizierungen)
 
 ### Veränderungen in der Anzahl der DMC-Teilnehmerländer (konzeptionelles Diagramm)
 

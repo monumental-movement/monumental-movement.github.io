@@ -14,7 +14,7 @@ title: '[Kolumne] Von den Ursprüngen von Shoegaze bis zur Gegenwart – 10 Meis
 
 
 
-## Shoegaze – historischer Hintergrund, berühmte Platten, Änderungen in der Ausrüstung und 10 empfohlene Tracks –
+## Shoegaze – historischer Hintergrund, berühmte Rekorde, Änderungen in der Ausrüstung und 10 empfohlene Tracks –
 
 
 Text: mmr｜Thema: Von den Ursprüngen von Shoegaze bis zur Gegenwart
@@ -28,7 +28,7 @@ Im Folgenden blicken wir jahrzehntelang auf die Geschichte von Shoegaze zurück 
 ## 1980er Jahre – Herkunft
 ### Historischer Hintergrund
 - Während man den Trends von Post-Punk und New Wave folgte, wurde nach einem neuen Ansatz gesucht, um Gitarrengeräusche und Popmelodien zu verschmelzen.
-- Indie-Labels wie Creation Records sind führend in der Szene.
+– Indie-Labels wie Creation Records sind führend in der Szene.
 
 ### Repräsentatives Meisterwerk
 - [My Bloody Valentine – *Isn't Anything* (1988)](https://amzn.to/4njxSGF)  
@@ -40,7 +40,7 @@ Im Folgenden blicken wir jahrzehntelang auf die Geschichte von Shoegaze zurück 
 - **Effektor**: Big Muff, Boss DD-3 Delay, Electro-Harmonix Memory Man
 - **Verstärker**: Vox AC30, Fender Twin Reverb
 
-### Empfohlene 10 Songs (1980er)
+### 10 empfohlene Songs (1980er)
 
 <style type="text/css">
 
@@ -104,7 +104,7 @@ color: #fff;
 
 ---
 
-## 2000er – Revival-Periode
+## 2000er Jahre – Revival-Periode
 ### Historischer Hintergrund
 - Fusion mit Post-Rock-Bands wie Mogwai und Sigur Rós.
 - Eine neue Generation des Shoegaze-Revivals schreitet hauptsächlich in Amerika voran.

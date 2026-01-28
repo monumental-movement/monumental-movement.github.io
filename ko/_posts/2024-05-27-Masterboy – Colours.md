@@ -11,14 +11,14 @@ tags:
 - Euro House
 - Euro Beat
 - 90s
-title: 마스터보이 - 색상
+title: 마스터보이 – 색상
 ---
 
 
 토미 슐레(Tommy Schleh)와 엔리코 자블러(Enrico Zabler)가 이끄는 마스터보이는 90년대 전 세계적으로 히트곡을 잇따라 발표하며 유럽을 대표하는 유로 댄스 그룹이다. 1990년부터 2004년까지 활동했다가 공백기를 갖고 2013년부터 활동을 재개했다.
 
 'Colours'는 1996년 발매된 마스터보이의 5집 앨범으로, 'Show Me Colours' 등의 히트곡이 수록된 유로하우스 CD이다.
-13번째 곡은 미국 DJ 겸 프로듀서 David Morales의 리믹스이다.
+13번째 곡은 미국의 DJ 겸 프로듀서인 David Morales의 리믹스이다.
 
 #### 트랙리스트
 ```md

@@ -24,7 +24,7 @@ title: 비트 체험 - Raggadaggadadiggidingdiggidong
 
 Beat Experience는 Stefan Heinemann의 많은 별칭 중 하나입니다. Stefan Heinemann은 독일 하우스/일렉트로/트랜스 프로듀서이자 DJ Thorsten Kaiser(DJ Thoka)와 함께 프로젝트인 Hyperphy에서도 활동했습니다.
 
-"Raggadaggadadiggidingdiggidong"은 1994년 독일 댄스 팝 레이블 Blow Up에서 발매된 유로 하우스의 트랙입니다. The Wild Boys가 프로듀싱했습니다.
+"Raggadaggadadiggidingdiggidong"은 독일 댄스 팝 레이블 Blow Up이 1994년에 발매한 유로 하우스의 트랙입니다. The Wild Boys가 프로듀싱했습니다.
 
 #### 트랙리스트
 ```md

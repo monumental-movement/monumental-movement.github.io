@@ -64,7 +64,7 @@ Die musikalischen Eigenschaften von Footwork/Juke sind wie folgt.
 - **Tempo**: Sehr schnell, etwa 160 BPM.
 - **Rhythmusstruktur**: Komplexe Synkope, Verwendung von TR-808/909 Drum Machines.
 - **Sampling**: Hochgeschwindigkeitsaufnahme fragmentierter Vocals, Hip-Hop- und R&B-Phrasen.
-- **Songstruktur**: Wiederholt kurze Phrasen hauptsächlich in Schleifen. Es werden oft ungerade Taktarten und unregelmäßige Pausen verwendet.
+- **Songstruktur**: Wiederholt kurze Phrasen hauptsächlich in Schleifen. Es werden häufig ungerade Taktarten und unregelmäßige Pausen verwendet.
 - **Klangcharakteristik**: Die Bassdrum im tiefen Bereich wird betont, die Snare wird fein verteilt. Nutzt den Stereoraum gekonnt aus.
 
 ---
@@ -150,7 +150,7 @@ Kreativer Sample-Einsatz, enge Verbindung zwischen Tanz und Musik.
 
 ## 8. Gesellschaftliche Bedeutung der Beinarbeit
 
-– Kulturelles Schaffen der afroamerikanischen Gemeinschaft im Süden Chicagos.
+– Kulturelle Leistung der afroamerikanischen Gemeinschaft im Süden Chicagos.
 - Die Rolle der Ausdrucksmittel und der Gemeinschaftsbildung junger Menschen.
 - Als neuer Tanzstil in Clubs und Festivals auf der ganzen Welt akzeptiert.
 

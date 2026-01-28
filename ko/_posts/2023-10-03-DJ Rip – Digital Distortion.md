@@ -15,7 +15,7 @@ title: DJ Rip – 디지털 왜곡
 
 
 '디지털 왜곡'이란
-하드하우스와 테크노의 선구자 DJ Rip(본명 Xavier Jacome)이 1999년 Underground Construction을 통해 발매한 EP입니다.
+하드하우스와 테크노의 선구자인 DJ Rip(본명 Xavier Jacome)이 1999년 Underground Construction을 통해 발매한 EP입니다.
 
 #### 트랙리스트
 ```md

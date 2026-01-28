@@ -23,7 +23,7 @@ Texte : mmr | Thème : « La révolution musicale par le montage » construit
 
 À la fin des années 1960, la musique de Miles Davis n'est plus une extension de ses performances live, mais se transforme en une « architecture sonore » construite par l'enregistrement et le montage. Derrière ce changement se trouve le producteur et monteur **Teo Macero**.
 
-Masero n’était pas seulement une personne « dans les coulisses ». Entre ses mains, un grand nombre de bandes de sessions ont été coupées, collées et réassemblées, donnant naissance à un ensemble d'œuvres que l'on pourrait qualifier de « composition par montage ».
+Masero n’était pas seulement une personne « dans les coulisses ». Entre ses mains, un grand nombre de bandes de sessions ont été coupées, collées et réassemblées, donnant naissance à un ensemble d'œuvres que l'on peut qualifier de « composition par montage ».
 « In a Silent Way » (1969) et « Bitches Brew » (1970) en sont d'excellents exemples. Il y a une **révolution dans l'esthétique du montage** qui dépasse les frontières entre « performance » et « composition ».
 
 ---
@@ -58,7 +58,7 @@ Mais ce qui le différencie des autres producteurs, c'est qu'il conçoit le mont
 ## Chapitre 2 : « De manière silencieuse »—— La magie du montage temporel
 
 « In a Silent Way », enregistré en 1969, peut être considéré comme le « point de départ du montage » dans l'histoire du jazz.
-Miles, John McLaughlin, Chick Corea, Wayne Shorter et d'autres ont improvisé la séance, mais Theo Macero a audacieusement reconstruit l'enregistrement.
+Miles, John McLaughlin, Chick Corea, Wayne Shorter et d'autres ont improvisé les sessions, mais Theo Macero a audacieusement restructuré les enregistrements.
 
 Ce qui est particulièrement impressionnant est la « structure en anneau » dans laquelle la même prise est utilisée au début et à la fin.
 Des phrases qui n'étaient jouées qu'une seule fois dans l'enregistrement lui-même "réapparurent" grâce au montage de Macero, incarnant musicalement le concept de **boucle temporelle**.
@@ -86,7 +86,7 @@ flowchart LR
 Avec Bitches Brew des années 1970, les techniques de montage de Macero ont encore explosé.
 Plus de six magnétophones fonctionnaient en même temps, donnant au studio l’impression d’être un laboratoire.
 
-Chaque interprète ne partage pas de thème commun, ce qui entraîne un **déluge d'improvisation fragmentée**.
+Chaque interprète ne partage pas de thème commun, ce qui entraîne un flot d'improvisations fragmentées.
 Macero a divisé ces fragments en unités de plusieurs mètres et a conçu le flux rythmique et le « lieu » acoustique grâce au montage.
 
 > "J'ai découpé des sons et je les ai reconstruits. C'était le même acte que composer."
@@ -126,7 +126,7 @@ C'était le précurseur du paradigme « édition = composition ».
 
 - Créer de nouveaux contextes en contrôlant les coïncidences (réorganiser l'ordre des phrases)
 
-Cette philosophie a ensuite été transposée dans l'échantillonnage hip-hop et dans l'art de studio de Brian Eno.
+Cette philosophie sera plus tard transposée dans l'échantillonnage hip-hop et dans l'art de studio de Brian Eno.
 En d’autres termes, Macero s’est forgé un nouveau métier : « compositeur post-enregistrement ».
 
 ---
@@ -238,7 +238,7 @@ Pour lui, l'improvisation était la « génération de matériaux » et le monta
 
 ## Chapitre 10 : Analyse acoustique —— « Structure auditive » créée par édition
 
-Le montage de Teo Macero a non seulement modifié la composition de la musique, mais a également transformé l'espace acoustique et la structure même de l'écoute.
+Le montage de Teo Macero n'a pas seulement changé la structure de la chanson, mais a également transformé l'espace acoustique et la structure même de l'écoute.
 Surtout lorsque l'on compare "In a Silent Way" et "Bitches Brew", vous pouvez voir une philosophie sonore claire dans la direction du montage.
 
 | Éléments | « De manière silencieuse » (1969) | «Bitches Brew» (1970) |
@@ -281,11 +281,11 @@ graph LR
 
 → Concentrez-vous sur « l'axe de profondeur » plutôt que sur la stéréo gauche et droite.
 
-On peut dire que le montage sonore de Macero mettait déjà en pratique la « sculpture du temps » que visaient plus tard la techno, l'ambient et l'électro.
+On peut dire que le son édité de Macero mettait déjà en pratique la « sculpture du temps » que visaient plus tard la techno, l'ambient et l'électro.
 
 ---
 
-## Figure supplémentaire : modèle « composition par édition » de style Macero
+## Figure supplémentaire : modèle « composition par édition » de style Masero
 
 <div class="mermaid">
 
@@ -418,7 +418,7 @@ On peut dire qu'elle a précédé la « méthode de composition en studio » pr�
 
 | Éléments | Techniques | Intention acoustique |
 | ---------- | -------------------- | -------------------- |
-| Espace stéréo | Localisation (placement du tambour à gauche et à droite) impossible en performance réelle | Expansion du sens visuel spatial |
+| Espace stéréo | Localisation (placement du tambour à gauche et à droite) impossible en performance réelle | Expansion du sens visuel de l'espace |
 | Répétition de bande | Réinsérer la même phrase (structure récursive) | Effet d'hypnose auditive |
 | Fonctionnement égaliseur/réverbération | Unification de la texture entre plusieurs prises | Pseudo-génération de continuité spatio-temporelle |
 | « Coutures » de réverbération fragmentée | Délibérément laissé pour compte | Transformer les traces du montage en musique (transformer les coutures sonores en « structure ») |

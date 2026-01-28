@@ -41,7 +41,7 @@ color: #fff;
 </style>
 
 
-## Chapitre 1 : Origine du 8 bits - Puce source sonore Famicom et Game Boy
+## Chapitre 1 : Les origines du 8 bits - Puces de source sonore Famicom et Game Boy
 
 ### 1-1. "Ricoh 2A03" qui a déterminé le son de la Famicom/NES
 
@@ -77,7 +77,7 @@ La Game Boy est équipée d'une source sonore CPU + PSG appelée **Sharp LR35902
 - Canal qui vous permet de dessiner librement des formes d'onde 4 bits de 32 échantillons
 - **Canal de bruit**
 
-La mémoire de forme d'onde est au cœur de la créativité, et même dans le Game Boy Chiptune moderne, ce canal d'onde est largement utilisé pour la génération de basses, de leads, de kick et de sons uniques. L'épaisseur des basses fréquences est particulièrement attrayante, et elle est appréciée comme un « son de type Game Boy », y compris le bruit DAC propre au matériel.
+La mémoire de forme d'onde est au cœur de la créativité, et même dans le Game Boy Chiptune moderne, le canal Wave est largement utilisé pour générer des sons de basse, de lead, de kick et uniques. L'épaisseur des basses fréquences est particulièrement attrayante, et elle est appréciée comme un « son de type Game Boy », y compris le bruit DAC propre au matériel.
 
 ---
 
@@ -89,8 +89,8 @@ Les ondes carrées ont une structure harmonique plus claire que les autres forme
 
 - **12,5 %** : Fin et pointu
 - **25 %** : Lumineux
-- **50 %** : Standard
-- **75 %** : Épais et doux
+- **50 %** : Standard
+- **75 %** : Épais et doux
 
 La majeure partie de « l’esprit de la chanson » de Chiptune réside ici.
 
@@ -181,7 +181,7 @@ Chiptune ne se limite en aucun cas à une « reproduction de musique de jeu », 
 
 ## Chapitre 6 : Analyse technique Chiptune et méthode de composition
 
-### 6-1. Construire une mélodie principale
+### 6-1. Construisez une mélodie principale
 
 - Utilise une onde carrée avec un rapport cyclique de 25% / 50%
 - Slide et vibrato conservent les caractéristiques de la puce source sonore
@@ -250,8 +250,8 @@ Il n’est pas seulement considéré comme un genre musical, mais aussi comme un
 ## Chapitre 10 : L'avenir de Chiptune et l'avenir de l'esthétique 8 bits
 
 La musique 8 bits n’est plus un symbole du rétro ;
-**Une existence qui donne de nouvelles idées à l'ère moderne en tant que « cluster d'esthétiques contraintes »**
-C’est devenu.
+**Une entité qui donne de nouvelles idées à l'ère moderne en tant que « cluster d'esthétiques contraintes »**
+C'est devenu.
 
 - Utilisation en Hyperpop et EDM
 - Textures lo-fi hiphop 8 bits

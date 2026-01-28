@@ -113,7 +113,7 @@ DJs everywhere brought City Pop to clubs: France, South Korea, London, LA.
 Night Tempo, Yung Bae, Macross 82-99 are some of the most iconic.
 They sampled and reimagined city pop, creating a new genre called "Future Funk."
 
-This music is not just nostalgic, but a fusion of the brightness of the 80's and a modern tempo.
+This music is not just nostalgic, but a fusion of the brightness of the 80s and a modern tempo.
 For DJs, city pop is a ""comfortable danceable tempo'' of 110 to 115 BPM.
 It has perfect sound quality as sampling material.
 
@@ -147,7 +147,7 @@ In other words, this genre has transformed from being a "local Japanese culture"
 
 ---
 
-## 10. Conclusion: An era in which nostalgia becomes an export product
+## 10. Conclusion: The era when nostalgia becomes an export product
 
 The music that the Japanese once created as a ""city dream'' is now resonating with people on the other side of the world 40 years later.
 This is not just nostalgia, but a reversal in which ""the past becomes the future.''

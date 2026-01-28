@@ -10,7 +10,7 @@ tags:
 - Jazz
 - Rock
 - 00s
-title: 特別其他 – 明星
+title: 特別其他-明星
 ---
 
 

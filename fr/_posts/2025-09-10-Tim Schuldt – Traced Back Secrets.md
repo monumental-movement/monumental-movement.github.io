@@ -14,7 +14,7 @@ title: Tim Schuldt – Retracé/Secrets
 ---
 
 
-Tim Schuldt est un producteur/guitariste/ingénieur de trance psychédélique et de Goa originaire d'Allemagne, actif depuis le milieu des années 1990. Actifs à l'origine dans des groupes de rock et de métal, leur style a depuis évolué vers la trance goa et la trance psychédélique vers un son industriel plus lourd.
+Tim Schuldt est un producteur/guitariste/ingénieur de trance psychédélique et de Goa originaire d'Allemagne, actif depuis le milieu des années 1990. Actifs à l'origine dans des groupes de rock et de métal, leur style a depuis évolué vers la trance goa et la trance psychédélique vers un son industriel plus heavy.
 
 "Traced Back / Secrets" est une chanson industrielle/Psy-Trance sortie en 2002 sur le propre label Goa/Psy-Trance de Tim Schuldt, Aurinko Records.
 

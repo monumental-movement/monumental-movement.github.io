@@ -18,7 +18,7 @@ title: 아름다운 수영 선수 – 빅 코스트
 
 Beautiful Swimmers는 Andrew Field-Pickering과 Ari Goldman의 프로젝트입니다.
 
-Andrew Field-Pickering은 워싱턴 D.C. 출신의 프로듀서/DJ이며 Dolo Percussion, Maxmillion Dunbar 및 Vulture Voltaire라는 이름으로도 작업하고 있습니다. 그는 독립 레이블 Future Times의 공동 창립자이며 레이블의 중심 인물로 많은 릴리스에 참여하고 있습니다.
+Andrew Field-Pickering은 워싱턴 D.C. 출신의 프로듀서/DJ이며 Dolo Percussion, Maxmillion Dunbar 및 Vulture Voltaire라는 이름으로도 작업하고 있습니다. 그는 독립 레이블인 Future Times의 공동 창립자이며 레이블의 중심 인물로 많은 릴리스에 참여하고 있습니다.
 
 Ari Goldman은 워싱턴 D.C.에 기반을 둔 DJ/프로듀서이자 World Building 레이블의 대표입니다.
 

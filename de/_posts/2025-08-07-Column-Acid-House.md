@@ -53,7 +53,7 @@ Die wichtigsten Merkmale von Acid House sind die folgenden Klangelemente:
 
 <hr>
 
-#### Vierfachkick
+#### Vier Tritte
 
 - BPM ist ein stabiles Tempo von etwa 120-130
 
@@ -120,7 +120,7 @@ Diese Mode setzte sich ab den 1990er Jahren in der Rave-Kultur, Trance, Techno, 
 <hr>
 
 ### Verbreitung und Entwicklung von Acid House
-Nach den 1990er Jahren entwickelte sich Acid House weltweit auf verschiedene Weise weiter.
+Nach den 1990er Jahren entwickelte sich Acid House weltweit auf unterschiedliche Weise weiter.
 
 <div class="table-border">
 <table>
@@ -173,7 +173,7 @@ Heute wird Acid House inmitten der Retro-Kultur und der Wiederbelebung analoger 
 
 - Explosive Verbreitung von TB-303-Klonflugzeugen (Nachbildung analoger Ausrüstung)
 
-Acid House ist mehr als nur ein Musikgenre, es ist weiterhin die Schnittstelle zwischen elektronischer Musik und Gegenkultur.
+Acid House ist mehr als nur ein Musikgenre, es steht weiterhin an der Schnittstelle zwischen elektronischer Musik und Gegenkultur.
 
 
 <hr>
@@ -182,7 +182,7 @@ Acid House ist mehr als nur ein Musikgenre, es ist weiterhin die Schnittstelle z
 
 Acid House ist eine seltene Musikkultur, die aus der Schnittstelle zufälliger technologischer Innovation und dem Zeitgeist entstanden ist. Mehr als 30 Jahre später hallt der Klang des TB-303 weiterhin auf Clubböden und in digitalen Räumen wider und inspiriert weiterhin zukünftige Musiker.
 
-Acid ist kein Nachklang der Vergangenheit, sondern ein Klangmutant, der sich ständig weiterentwickelt.
+Acid ist kein Nachhall der Vergangenheit, sondern ein Klangmutant, der sich ständig weiterentwickelt.
 
 ---
 

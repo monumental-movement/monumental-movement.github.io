@@ -17,7 +17,7 @@ title: Kissogram / 33HZ – Mein Freund ist ein Seepferdchen / Hitzewallungen
 
 „My Friend Is A Seahorse“ ist ein Song, der Kithograms charakteristischen Sound aus elektronischer Musik und Pop-Elementen mit einer eingängigen Melodie und einem eingängigen Rhythmus sowie einem einzigartigen Gesang verbindet. Der gesamte Song ist voller Verspieltheit und positiver Energie.
 
-„Hot Flashes“ hat einen tanzbaren Beat, eine eingängige Melodie und elektronische Pop-Elemente, was es zu einem Song macht, der den Musikstil von 33HZ widerspiegelt.
+„Hot Flashes“ verfügt über einen tanzbaren Beat, eine eingängige Melodie und elektronische Pop-Elemente, was es zu einem Song macht, der den Musikstil von 33HZ widerspiegelt.
 
 #### Trackliste
 ```md

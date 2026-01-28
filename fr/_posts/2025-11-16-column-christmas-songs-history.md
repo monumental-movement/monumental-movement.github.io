@@ -177,7 +177,7 @@ En 1994, "All I Want For Christmas Is You" de Mariah Carey est devenu un succès
 
 * Augmentation des arrangements R&B, acoustiques et club
 * De nombreuses reprises et remakes de chansons standards
-* Les frontières entre les chansons anciennes et les nouvelles s'estompent en raison de la diffusion des services de distribution.
+* Les frontières entre les chansons anciennes et les nouvelles s'estompent en raison de la généralisation des services de distribution.
 * Au Japon, les reprises de chansons city pop et hivernales se multiplient.
 
 ---

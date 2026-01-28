@@ -11,7 +11,7 @@ tags:
 - House
 - JPop
 - Downtempo
-title: 후지와라 히로시 + 오사와 신이치 Feat. 크리스탈 케이 - 잃어버린 아이
+title: 후지와라 히로시 + 오사와 신이치 Feat. 크리스탈 케이 – 잃어버린 아이
 ---
 
 

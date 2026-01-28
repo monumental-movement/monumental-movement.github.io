@@ -17,9 +17,9 @@ title: Aphrohead 又名 Felix Da Housecat – In The Dark We Live (Remixes)
 
 Aphrohead 是第二代芝加哥 House 傳奇人物 Felix Da Housecat 的別名。
 
-《In The Dark We Live (Remixes)》是比利時廠牌 Re-load Records 於 1994 年發行的一首高科技歌曲。
+《In The Dark We Live (Remixes)》是比利時唱片公司 Re-load Records 於 1994 年發行的一首高科技歌曲。
 
-A面和B面的第一首曲目是由英國電子舞曲DJ兼製作人Dave Clarke（綽號“Techno Baron”）（由John Peel命名）混音的。
+A面和B面的第一首曲目是由英國電子舞曲DJ兼製作人戴夫·克拉克（Dave Clarke）混音而成，他被稱為“Techno Baron”（由約翰·皮爾命名）。
 
 #### 曲目列表
 ```md

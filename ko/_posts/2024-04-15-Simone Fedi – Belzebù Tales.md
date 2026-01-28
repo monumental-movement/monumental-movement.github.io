@@ -10,7 +10,7 @@ tags:
 - Disco
 - House
 - 00s
-title: 시몬 페디 – 벨제부 테일즈
+title: 시몬 페디 - 벨제부 테일즈
 ---
 
 

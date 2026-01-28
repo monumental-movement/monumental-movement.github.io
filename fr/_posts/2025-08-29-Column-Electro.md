@@ -24,7 +24,7 @@ Texte : mmr｜Thème : Battement de cœur électronique né du breakdance
 
 ### Introduction
 
-L'électro est une tendance de la musique électronique apparue au début des années 1980. Basés sur des rythmes funk et hip-hop, ils ont réalisé une évolution unique en utilisant les rythmes des boîtes à rythmes, notamment la Roland TR-808, comme noyau. Le son futuriste des basses profondes, des caisses claires sèches et des synthétiseurs a laissé une forte influence sur la techno, la house, l'électroclash et même la bass music moderne.
+L'électro est une tendance de la musique électronique apparue au début des années 1980. Basés sur des rythmes funk et hip-hop, ils ont réalisé une évolution unique en utilisant les rythmes des machines à rythmes, notamment la Roland TR-808, comme noyau. Le son futuriste des basses profondes, des caisses claires sèches et des synthétiseurs a laissé une forte influence sur la techno, la house, l'électroclash et même la bass music moderne.
 
 <hr>
 
@@ -94,7 +94,7 @@ Au début des années 2000, l’électro revient sur le devant de la scène.
 
 **Electro House Connection** : des artistes franco-allemands comme Justice et Digitalism ont pris d'assaut la scène des clubs en fusionnant des riffs de synthé d'inspiration électro avec de la house 4/4.
 
-Le premier album de Justice, un groupe de danse électronique français actif depuis 2003, est sorti en 2007 sur le label français Ed Banger Records et a été un succès mondial, notamment une nomination aux Grammy Awards pour le meilleur album électronique/danse.
+Le premier album de Justice, un groupe de danse électronique français actif depuis 2003, est sorti en 2007 sur le label français Ed Banger Records et a été un succès mondial, avec notamment une nomination aux Grammy Awards pour le meilleur album électronique/danse.
 
 #### Liste des chansons
 ```md

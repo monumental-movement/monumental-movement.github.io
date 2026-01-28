@@ -64,14 +64,14 @@ color: #fff;
 ### 닛산/인피니티
 
 - **대표모델** : 인피니티 QX80 (보스 16 스피커 시스템)
-- **기술**: 차량 내 음향을 최적화하기 위해 BOSE와 협력하여 스피커 배치 및 재료 반사를 분석하고 조정했습니다.
+- **기술**: 스피커 배치 및 재료 반사를 분석하고 BOSE와 협력하여 튜닝을 수행하여 차량 내 음향을 최적화합니다.
 
 ---
 
 ### 혼다
 
-- **대표 모델** : Accord (ELS Studio 14 스피커)
-- **기술**: 음악가가 감수한 자연스러운 사운드 재현
+- **대표모델** : Accord (ELS Studio 14 스피커)
+- **기술**: 음악가가 감수한 자연스러운 사운드 재생
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I_OMh104IWw?si=TI7U_7JShGuRlnFe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -152,7 +152,7 @@ color: #fff;
 
 ### 마세라티/알파 로미오
 
-- **대표 모델**: Ghibli (Bowers & Wilkins 15스피커, 1,170W)
+- **대표모델** : Ghibli (바워스&윌킨스 15스피커, 1,170W)
 - **기술**: Nautilus 트위터를 사용한 고화질 사운드 재생
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3O9KrUhxGs?si=fL4mm2DxNy8nGvfX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -217,7 +217,7 @@ color: #fff;
 
 ### 벤틀리
 
-- **대표모델**: 벤테이가, 컨티넨탈 GT (벤틀리 20스피커용 네임, 1,960W)
+- **대표모델** : 벤테이가, 컨티넨탈 GT (벤틀리 20스피커용 네임, 1,960W)
 - **기술**: 속도와 환경에 따라 자동으로 음질을 보정합니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TK_AtrJVwIs?si=RXNnhkf3O6NhKWI3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -248,11 +248,11 @@ color: #fff;
 
 - 능동형 소음 제거 및 DSP 최적화
 - AI를 활용한 맞춤형 음질 조정
-- EV 시대의 정숙함을 살린 새로운 사운드 디자인
+- EV시대의 정숙함을 살린 새로운 사운드 디자인
 
 ---
 
-## 요약: 엔진 사운드에서 사운드 아트까지 - 자동차와 사운드의 미래에 대한 비전
+## 요약: 엔진 사운드부터 사운드 아트까지 - 자동차와 사운드의 미래에 대한 비전
 
 자동차는 예전에는 '운송을 위한 기계'였습니다. 그러나 이제는 '소리를 품은 공간'이자 문화의 연장선이다.
 독일은 정밀한 엔지니어링으로 사운드를, 영국은 전통과 격식을, 미국은 자유와 힘을, 일본은 섬세한 조화를 불어넣었습니다.
@@ -265,9 +265,9 @@ Tesla의 DSP 컨트롤은 전기 신호와 감정을 연결합니다.
 
 전기차로의 전환이 진행되는 지금, 엔진음의 상징적 요소는 사라지고 있으며,
 차량 내 음향은 새로운 역할을 맡기 시작했습니다.
-'움직이는 청취실'이자 '개인적인 음향세계'입니다.
+그것은 "움직이는 청취실"이자 "개인적인 음향세계"이다.
 전 세계 제조업체는 더 이상 마력이나 정숙함을 추구하지 않습니다.
-**"달리면 어떤 소리가 들리나요?"** 이것은 새로운 경험가치입니다.
+**"달릴 때 어떤 소리가 들리나요?"** 이것은 새로운 경험 가치입니다.
 
 자동차 오디오는 끊임없이 발전하고 있습니다.
 음향 설계는 AI로 수정되고, 시트는 공명판이 되어 운전자의 심장 박동과 기분에 따라 음장이 변화합니다.

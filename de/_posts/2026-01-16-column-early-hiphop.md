@@ -10,7 +10,7 @@ permalink: /de/column-early-hiphop/
 tags:
 - Hiphop
 - Rap
-title: '[Kolumne] Frühe Hip-Hop-Kultur vor Bambaataa: Eine Kette von Ausdrucksformen,
+title: '[Kolumne] Frühe Hip-Hop-Kultur vor Bambaataa: Eine Reihe von Ausdrucksformen,
   die ganz natürlich aus der Szene in der Bronx hervorgegangen sind'
 ---
 
@@ -20,11 +20,11 @@ title: '[Kolumne] Frühe Hip-Hop-Kultur vor Bambaataa: Eine Kette von Ausdrucksf
 
 Text: mmr｜Thema: DJs, Tanz, Stimmen und Straßenausdrücke, die in den frühen 1970er Jahren spontan in der Bronx entstanden, bevor Hip-Hop als Idee oder Bewegung erwähnt wurde.
 
-Das kulturelle Phänomen, das in den frühen 1970er Jahren in der New Yorker South Bronx auftrat, hatte noch keinen Namen: „Hip-Hop“. Es gab keine einheitliche Ideologie oder ein Bewusstsein dafür als Bewegung.
+Das kulturelle Phänomen, das Anfang der 1970er Jahre in der New Yorker South Bronx auftrat, hatte noch keinen Namen: „Hip-Hop“. Es gab keine einheitliche Ideologie oder ein Bewusstsein dafür als Bewegung.
 
 Junge Leute kamen einfach zusammen, machten Musik, tanzten, erhoben ihre Stimmen und hinterließen ihre Spuren in der Stadt. Diese Reihe von Aktionen wurde später als eine einzige Kultur organisiert.
 
-Wichtig für das Verständnis dieser Zeit ist, dass die grundlegenden kulturellen Praktiken bereits vor Afrika Bambaataa existierten, der später zu einer Ikone werden sollte.
+Wichtig für das Verständnis dieser Ära ist, dass die grundlegenden kulturellen Praktiken bereits vor Afrika Bambaataa existierten, der später zu einer Ikone werden sollte.
 
 Hip-Hop war nicht die Erfindung einer einzelnen Person, sondern ein komplexes Phänomen, das durch Umwelt und Notwendigkeit entstanden ist.
 
@@ -75,13 +75,13 @@ D --> E[非公式文化の発生]
 
 DJs spielten in der frühen Hip-Hop-Kultur die zentrale Rolle. Allerdings waren DJs zu dieser Zeit eher Veranstalter als die Musiker und Künstler, die sie heute sind.
 
-Der DJ war dafür verantwortlich, die Tontechnik vorzubereiten, die Stromversorgung sicherzustellen, Schallplatten einzubringen und die Party auf die Beine zu stellen. Neben der „Auswahl“ der Musik galt es auch, „den Raum zu schaffen“.
+Der DJ war für die Vorbereitung der Tontechnik, die Sicherstellung der Stromversorgung, das Einbringen der Schallplatten und die Durchführung der Party selbst verantwortlich. Neben der „Auswahl“ der Musik galt es auch, „den Raum zu schaffen“.
 
-Der Vorgang, rhythmische Teile aus Funk- und Soul-Platten zu extrahieren und sie zu wiederholen, während man die Reaktion des Publikums beobachtete, wurde spontan und raffiniert.
+Der Vorgang, rhythmische Teile aus Funk- und Soul-Platten zu extrahieren und sie zu wiederholen, während man die Reaktion des Publikums beobachtete, wurde spontan verfeinert.
 
-Zu diesem Zeitpunkt waren DJs weniger Schöpfer als vielmehr Zeitkontrolleure.
+Zu diesem Zeitpunkt waren DJs eher Zeitmanipulatoren als Schöpfer.
 
-> Die Aufgabe des DJs bestand nicht darin, Musik zu spielen, sondern die Energie der Gruppe zu kontrollieren.
+> Der DJ war keine Person, die Musik spielte, sondern eine Person, die die Energie der Gruppe kontrollierte.
 
 ---
 
@@ -90,7 +90,7 @@ Zu diesem Zeitpunkt waren DJs weniger Schöpfer als vielmehr Zeitkontrolleure.
 
 Funk- und Soul-Platten hatten oft kurze Zwischenspiele, die nur aus Instrumentalmusik bestanden. In diesem Moment bemerkt der DJ, dass die Bewegungen der Tänzer am intensivsten sind.
 
-Durch die Verwendung zweier Kopien derselben Schallplatte und das abwechselnde Abspielen von Teilen davon wurde eine Technik entwickelt, um den Rhythmus absichtlich zu verlängern. Dies wurde zum Prototyp für die Struktur, die später als Breakbeat bezeichnet wurde.
+Durch die Verwendung zweier Kopien derselben Schallplatte und das abwechselnde Abspielen von Teilen davon wurde eine Technik entwickelt, um den Rhythmus absichtlich zu verlängern. Dies wurde zum Prototyp der Struktur, die später als Breakbeat bezeichnet wurde.
 
 Wichtig ist, dass diese Methode keine theoretische Erfindung war, sondern als Ergebnis der Beobachtung der Reaktionen des Publikums entstand. Die musikalische Struktur wurde durch körperliche Reaktionen neu organisiert.
 
@@ -170,7 +170,7 @@ Hip-Hop war keine individuelle Erfindung, sondern eine Ansammlung von Acts, die 
 
 Die Kultur, die später Hip-Hop genannt wurde, war zunächst unorganisiert, aber insofern flexibel und stark.
 
-Bevor Ideen und Definitionen gegeben wurden, erzeugten Geräusche Geräusche, Körper bewegten sich und Städte wurden genutzt. Zuerst wurde Kultur gemacht und dann darüber gesprochen.
+Bevor Ideen und Definitionen gegeben wurden, wurden Geräusche gehört, Körper bewegt und Städte genutzt. Zuerst wurde Kultur gemacht und dann darüber gesprochen.
 
 Das Verständnis dieses frühen Stadiums führt zu einer Neukonzeption von Hip-Hop als einem kulturellen Gerät, das auf Umstände und nicht auf ein festes Genre reagiert.
 

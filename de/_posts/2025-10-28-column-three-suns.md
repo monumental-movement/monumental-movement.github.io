@@ -20,14 +20,14 @@ title: '[Kolumne] Drei Sonnen und die Magie des Akkordeons – eine akustische F
 
 Text: mmr｜Thema: Erkundung der Klanglandschaft des Nachkriegsamerikas, gezeichnet von einem Trio aus Akkordeon, Gitarre und Orgel
 
-Aus dem Radio erklingt eine sanfte Melodie.
+Aus dem Radio erklingt eine sanfte Melodie. Was dort klingelte, waren **Drei Sonnen**――
 Es war ein Symbol der amerikanischen Home-Musik der 1940er Jahre und bestand aus einem Akkordeon, einer Gitarre und einer elektrischen Orgel.
 
 Dies war eine Zeit, als der Krieg vorbei war und das Fernsehen noch nicht weit verbreitet war.
 Die Musik, die in den Wohnzimmern der Menschen erklang, war weder Jazz noch klassische Musik, sondern der Klang, der „Entspannung“ selbst symbolisierte.
 Im Zentrum dieses Klangs stand das **Akkordeon**.
 
-Die Musik von Three Suns beeinflusste in aller Stille zukünftige Generationen und war Vorreiter bei Lounge, Exotica und Space-Age-Pop.
+Die Musik von Three Suns beeinflusste in aller Stille kommende Generationen und war Vorreiter bei Lounge, Exotica und Space-Age-Pop.
 
 ---
 
@@ -69,7 +69,7 @@ Diese erzeugen das einzigartige **Gefühl von Schweben und Glück** von Three Su
 
 In den 1950er Jahren unterzeichneten sie einen Vertrag mit RCA und veröffentlichten eine Reihe experimenteller Werke, die Magnetaufzeichnung und Stereotechnologie beinhalteten.
 „Movin‘ n‘ Groovin‘“ (1956), „Midnight for Two“ (1957) usw.
-Es war klanglich so raffiniert, dass man es als „elektronische Wohnzimmermusik“ bezeichnen könnte.
+Es war klanglich so raffiniert, dass man es als „elektronische Wohnzimmermusik“ bezeichnen konnte.
 
 > Akkordeon = keine Nostalgie,
 > Es fungierte als „atmender Synthesizer“, der für die Zukunft des Sounddesigns verantwortlich war.
@@ -121,7 +121,7 @@ Das „Ma“, bei dem die Klangdichte dünn ist und wie Luft existiert, war der 
 | Luft | Französisches Duo | Analoges Feeling und schwebende Melodie |
 | Kornelius | Japan | Heimakustischer Klangbau |
 | Stereolab | Britisch und Französisch | Retro-Future-Sound |
-| Beirut | Amerika | Fahnenträger der Wiederbelebung des Akkordeons |
+| Beirut | Amerika | Fahnenträger des Akkordeon-Revivals |
 
 ---
 

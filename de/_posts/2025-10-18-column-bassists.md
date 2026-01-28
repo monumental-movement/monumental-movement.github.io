@@ -75,7 +75,7 @@ Rhythmus, der zwischen Klängen spricht – das hat den Jazz zur Kunstform erhob
 ---
 
 Yoshio Suzuki und Kunimitsu Inaba, die Nachkriegs-Jazzcafés in Japan unterstützten,
-Genießen Sie diese „Freiheit der Bassklänge“ mit der Sensibilität unseres eigenen Landes,
+Genießen Sie diese „Freiheit der Bassklänge“ mit den Sensibilitäten Ihres eigenen Landes,
 Schon bald kreierten sie nachts in Tokio ihren eigenen, einzigartigen Groove.
 
 ---

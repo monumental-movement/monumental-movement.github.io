@@ -18,7 +18,7 @@ title: Cold Sensation – Belgischer Musikzug
 
 Cold Sensation ist eine kurzzeitig beliebte Gruppe in der belgischen Tanzmusikszene und ihre Songs zeichnen sich durch energiegeladene, tanzbare Beats und Melodien aus.
 
-„Belgian Musictrain“ soll die Tanzfläche mit Klängen beleben, die die damaligen Tanzmusiktrends und -technologien berücksichtigen. Dieses Lied gilt als ein Werk, das in der belgischen Tanzmusikszene ein gewisses Lob erhalten hat und für einige Tanzmusikfans aufgrund seiner eingängigen Melodie und seines Rhythmus sowie seiner Hommage an die belgische Musikszene eine besondere Bedeutung hat.
+„Belgian Musictrain“ soll die Tanzfläche mit Klängen beleben, die die Tanzmusiktrends und -technologien der Zeit einbeziehen. Dieses Lied gilt als ein Werk, das in der belgischen Tanzmusikszene ein gewisses Lob erhalten hat und für einige Tanzmusikfans aufgrund seiner eingängigen Melodie und seines Rhythmus sowie seiner Hommage an die belgische Musikszene eine besondere Bedeutung hat.
 
 #### Trackliste
 ```md

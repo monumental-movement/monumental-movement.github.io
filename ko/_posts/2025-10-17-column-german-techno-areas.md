@@ -10,7 +10,7 @@ tags:
 - Techno
 - German Techno
 - Rave
-title: '[칼럼] 4개의 독일, 4개의 테크노 - 벽의 울림과 미니멀리스트 철학'
+title: '[칼럼] 4개의 독일, 4개의 테크노 - 벽의 반향과 미니멀리스트 철학'
 ---
 
 
@@ -132,7 +132,7 @@ Sven Väth, Eye Q, Harthouse 등이 바로 90년대 초반 '레이브' 열풍이
 누에고치, 이비자, 축제 문화.
 이 모든 것의 기원은 1990년대 프랑크푸르트 레이브에 있습니다.
 EDM이 시작되기 전의 유럽이 이곳에서 시작되었습니다.
-테크노는 기도였고, 경제 뒤에서 또 다른 심장 박동이 뛰었습니다.
+테크노는 기도였고, 경제 뒤에서 뛰는 또 다른 심장박동이었습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WJwwmaJVJE4?si=tK7Cf-q0q_M7q_Y5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -185,7 +185,7 @@ EDM이 시작되기 전의 유럽이 이곳에서 시작되었습니다.
 
 ---
 
-## 무한 루프의 마지막 장 “국가”
+## 무한 루프 속의 마지막 장 “국가”
 
 테크노는 국경을 넘어 남아있는 '민족리듬적 특성'이다.
 베를린 장벽이 무너진 지 30년 이상이 지났습니다.

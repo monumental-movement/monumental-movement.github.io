@@ -15,7 +15,7 @@ title: Die Entrückung – In der Gnade Deiner Liebe
 ---
 
 
-The Rapture ist eine US-amerikanische Dance-Punk-Rockband aus New York, die 1998 gegründet wurde. Sie lösten sich 2014 auf, nahmen ihre Aktivitäten jedoch 2019 wieder auf.
+The Rapture ist eine US-amerikanische Dance-Punk-Rock-Band aus New York, die 1998 gegründet wurde. Sie lösten sich 2014 auf, nahmen ihre Aktivitäten jedoch 2019 wieder auf.
 
 Sie mischen verschiedene Musikgenres wie Dance Punk, Post-Punk, Acid House, Disco und Electronica und gelten als Pioniere des Post-Punk-Revivals in den frühen 2000er Jahren, insbesondere wegen ihres einzigartigen Stils, der frühe Post-Punk-Sounds mit Elektronik und Tanz mischt.
 

@@ -153,7 +153,7 @@ Comme le symbolisent les Berlinois Berghain et Tresor, l'espace club et le son s
 
 - Réinterprétation d'éléments industriels et EBM
 
-- La techno mélodique et la deep techno gagnent un soutien mondial
+- La techno mélodique et la techno profonde gagnent un soutien mondial
 
 **Artistes représentatifs** : Ben Klock, Marcel Dettmann, Nina Kraviz (basée à Berlin), Stephan Bodzin.
 

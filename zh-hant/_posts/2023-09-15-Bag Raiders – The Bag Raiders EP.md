@@ -14,7 +14,7 @@ title: 包袋攻略 – 袋袋攻略 EP
 ---
 
 
-Bag Raiders 是澳大利亞音樂二人組，這張 EP 中收錄了他們的熱門歌曲“Fun Punch”。
+Bag Raiders 是澳大利亞音樂二人組，這張 EP 中收錄了其熱門歌曲“Fun Punch”。
 
 Bag Raiders 活躍於電子音樂領域，他們的音樂以結合舞曲和流行元素的聲音而聞名。
 

@@ -21,7 +21,7 @@ title: '[Kolumne] Charlotte de Witte: Königin der Techno-Welt'
 Text: mmr | Thema: Entdecken Sie, wie Charlotte de Witte ihre „Techno-Welt“ durch ihre Diskographie, die Geschichte ihrer Festivalauftritte, Liedkommentare, Chronologie und Illustrationen aufgebaut hat.
 
 Die belgische DJ/Produzentin **Charlotte de Witte** gilt derzeit als eine der wichtigsten Figuren der Techno-Welt.
-Ihr tiefer, minimalistischer Sound, ihre energiegeladenen Live-Sets und historischen Auftritte auf großen Festivals haben ihr den Spitznamen „Techno Queen“ eingebracht.
+Ihr tiefer, minimalistischer Sound, ihre energiegeladenen Live-Sets und ihre historischen Auftritte auf großen Festivals haben ihr den Spitznamen „Techno Queen“ eingebracht.
 
 Ihre Karriere ist eine epische Geschichte, von bescheidenen Anfängen in Underground-Clubs in ihrer Heimatstadt Gent bis hin zu den Hauptbühnen internationaler Festivals wie Tomorrowland und Movement Festival.
 
@@ -116,7 +116,7 @@ Auf diese Weise hat er sich erfolgreich vom Club-DJ zum globalen Festivalkünstl
 Charlotte de Wittes Musik ist „düster und schlank“, basierend auf Acid und Minimal Techno, mit einigen Industrial-Elementen.
 
 - **Beat-Struktur**: Schwerer Kick, sich wiederholender Rhythmus, einfaches, aber dichtes Arrangement
-- **Klangdesign**: Nutzen Sie analoge Synthesizer und Acid-Lines
+- **Klangdesign**: Nutzen Sie analoge Synthesizer und Acid-Linien
 - **Live-Set-Philosophie**: Priorisieren Sie die Wartung und Kontrolle der Bodenenergie
 
 Klangliche Erklärung repräsentativer Lieder:

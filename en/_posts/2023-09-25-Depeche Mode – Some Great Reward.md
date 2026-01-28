@@ -14,7 +14,7 @@ title: Depeche Mode – Some Great Reward
 
 "Some Great Reward" is a 1984 album by Depeche Mode and their fourth studio album. This album is one of the seminal works in the band's career, showing the evolution and maturation of their sound.
 
-The album includes Depeche Mode's most famous songs, including "People Are People" and "Master and Servant," which were released as singles.
+The album includes Depeche Mode's signature songs such as "People Are People" and "Master and Servant", which were released as singles.
 
 Some Great Reward was an important milestone in Depeche Mode's career, marking the evolution of their musical style and themes. It features a sound that incorporates elements of post-punk, new wave, and electronic music, and lyrics that address social issues at the time of its release.
 

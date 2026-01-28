@@ -77,7 +77,7 @@ Kaidi Tatham est un multi-instrumentiste, producteur et compositeur qui connaît
 
 ## Scène Broken Beat et 2000Black
 
-Broken Beat est un produit de la culture des clubs qui s'est développée dans l'ouest de Londres. Des pionniers tels que IG Culture, Bugz in the Attic, Neon Phusion et Afronaught ont formé la scène et, en combinant librement des éléments de jazz, de soul, de funk, de latin, de hip-hop et de house, ils ont établi une position unique en tant que musique de club pour adultes.
+Broken Beat est un produit de la culture des clubs qui s'est développée dans l'ouest de Londres. IG Culture, Bugz in the Attic, Neon Phusion, Afronaught et d'autres ont été les pionniers de la scène et, en combinant librement des éléments de jazz, de soul, de funk, de latin, de hip-hop et de house, ils ont établi une position unique en tant que musique de club pour adultes.
 
 <div class="mermaid">
 flowchart LR
@@ -112,7 +112,7 @@ timeline
     2017–2025 : ソロ・コラボ活動継続
 </div>
 
-Ce label a fonctionné comme une plateforme pour poursuivre la « sculpture sonore » en tant que collage créatif, transcendant les formes et les genres musicaux. Les artistes britanniques Broken Beat, notamment Dego & Kaidi, ont été attirés par le label et ont trouvé un endroit pour exprimer leur musique dans de nouveaux contextes.
+Ce label a fonctionné comme une plateforme pour poursuivre la « sculpture sonore » en tant que collage créatif, transcendant les formes et les genres musicaux. Les artistes britanniques Broken Beat, en particulier Dego & Kaidi, ont été attirés par le label et ont trouvé un endroit pour exprimer leur musique dans de nouveaux contextes.
 
 ---
 
@@ -150,7 +150,7 @@ flowchart TD
 
 ## Importance culturelle de « So We Gwarn »
 
-« A So We Gwarn » a fusionné la culture Broken Beat/jazz/soul du Royaume-Uni avec la culture house de Détroit. Ils ont représenté au monde le « instruments acoustiques + beat + jazz/funk/soul groove » établi par Broken Beat et ont encouragé une réévaluation de la musique noire britannique.
+« A So We Gwarn » a fusionné la culture Broken Beat/jazz/soul du Royaume-Uni avec la culture house de Détroit. Ils ont représenté au monde le « instruments acoustiques + beat + jazz/funk/soul groove » établi par Broken Beat et ont encouragé une réévaluation de la musique noire britannique.
 
 L'album ne fonctionne pas comme une nostalgie du passé, mais comme une proposition pour l'avenir. Dego & Kaidi se sont taillé une « signature sonore » qui traverse différents axes : passé et présent, Royaume-Uni et États-Unis, club et jazz.
 
@@ -166,7 +166,7 @@ Plutôt que d’être considéré comme un phénomène du passé, Broken Beat es
 
 ## Clôture
 
-La collaboration entre Dego & Kaidi et Sound Signature va au-delà de la simple production d’un album, c’est une redéfinition de la musique noire qui transcende les genres. Cette tentative de reconstruire la grammaire de la musique en faisant des allers-retours entre le passé, le présent et le futur est littéralement un acte consistant à sculpter une « signature sonore ».
+La collaboration entre Dego & Kaidi et Sound Signature était plus que la simple production d'un album, c'était une redéfinition de la musique noire qui transcendait les genres. Cette tentative de reconstruire la grammaire de la musique en faisant des allers-retours entre le passé, le présent et le futur est littéralement un acte consistant à sculpter une « signature sonore ».
 
 À notre époque où les frontières entre les genres s’estompent, leur musique est comme un phare qui porte l’héritage du passé tout en se tournant vers l’avenir. Cette œuvre demande aux auditeurs ce que signifie écouter de la musique noire et ce que signifie transcender les frontières des genres.
 

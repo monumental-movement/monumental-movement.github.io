@@ -46,7 +46,7 @@ color: #fff;
 
 ## Kapitel 1: Trommeln und Ritual – Der Ursprung des Rhythmus
 
-### 1. Die Geburt des Klangs ging mit dem „Atmen“ einher
+### 1. Die Geburt des Klangs ging mit „Atmen“ einher
 
 Aus archäologischer Sicht waren die frühesten „Musikinstrumente“ Schlaginstrumente.
 Es ist ein Stein oder Baum, der zum Jagen oder Beten geschlagen wird.
@@ -150,9 +150,9 @@ flowchart TB
 
 ---
 
-## Kapitel 4: Trance und Ekstase – Tanz als Transformation des Bewusstseins
+## Kapitel 4: Trance und Ekstase – Tanz als Bewusstseinstransformation
 
-### 1. Uralte Schicht im Trancezustand
+### 1. Uralte Schichten in Trance
 
 Tanz ist nicht nur Unterhaltung; Es ist auch eine Technik zur Bewusstseinsveränderung.
 Bei schamanistischen Ritualen
@@ -170,7 +170,7 @@ Was der Soziologe Durkheim als „kollektives Aufbrausen“ bezeichnet, ist
 Es ist ein Moment, in dem gleichzeitig die Energie der Gemeinschaft angeregt wird.
 Die Tanzfläche des Clubs ist eine moderne Nachbildung genau dessen.
 Ein Ort, an dem einsame Menschen durch Rhythmus mit anderen in Kontakt treten können.
-Es ist ein primitiveres und viel physischer empathisches Mittel als soziale Medien.
+Es ist ein primitiveres und viel körperlich empathischeres Gerät als SNS.
 
 ---
 

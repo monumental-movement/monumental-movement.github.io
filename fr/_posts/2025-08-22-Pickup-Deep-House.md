@@ -23,7 +23,7 @@ title: Récupérez les travaux en profondeur
 
 Présentation : "Workshop 04" est une œuvre qui combine des éléments de minimalisme et de deep house sortie sur Vinyl. La face A présente un morceau deep house des musiciens allemands Move D (David Moufang) et Fragment, B1 présente un morceau deep minimal house d'Even Tuell et B2 présente un morceau downtempo de Sascha Dive.
 
-Points recommandés : Un groove attrayant de type club et une image sonore profonde. Cette pièce est parfaite pour ceux qui veulent profiter de la scène house/minimale européenne sophistiquée.
+Points recommandés : Groove attrayant de type club et image sonore profonde. Cette pièce est parfaite pour ceux qui veulent profiter de la scène house/minimale européenne sophistiquée.
 
 #### Liste des chansons
 ```md
@@ -46,7 +46,7 @@ B2. Sascha Dive –Untitled
 ### Peej – Devenir cosmique
 <a href="https://jp.mercari.com/item/m76703865662?afid=6142608987"><img src="../assets/images/Peej%20%E2%80%93%20Becoming%20Cosmic.webp"></a>
 
-Résumé : Un morceau de deep house de Paul Johnston (Peej) sorti en 2005 sur DiY Discs, le successeur du label de musique house britannique Strictly 4 Groovers. La face A comprend plusieurs mix tels que "Cosmic Love (Interstellar Overdrive Mix)".
+Résumé : Un morceau de deep house de Paul Johnston (Peej) sorti en 2005 sur DiY Discs, le successeur du label de musique house britannique Strictly 4 Groovers. La face A comprend plusieurs mixages tels que "Cosmic Love (Interstellar Overdrive Mix)".
 
 Points recommandés : Une deep house qui enveloppe doucement l'auditeur, combinant un rythme lo-fi avec un son fantastique qui vous donne l'impression d'être dans un espace profond.
 

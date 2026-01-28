@@ -8,7 +8,7 @@ layout: post
 permalink: /ko/jaimy-lost-inside/
 tags:
 - House
-title: Jaimy - 길을 잃었어요
+title: Jaimy – 길을 잃다
 ---
 
 

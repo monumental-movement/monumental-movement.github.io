@@ -116,7 +116,7 @@ color: #fff;
 
 ## 1990er Jahre: Der Aufstieg von Alternativen und Heimkonsolen
 
-- **Zeitlicher Hintergrund**: Mit dem Aufkommen von Grunge und alternativer Musik befand sich der klassische Hardrock etwas im Niedergang. Allerdings wird es stark von Metal-Bands wie Metallica unterstützt.
+- **Zeitlicher Hintergrund**: Mit dem Aufkommen von Grunge und Alternativmusik befand sich der klassische Hardrock etwas im Niedergang. Allerdings wird es stark von Metal-Bands wie Metallica unterstützt.
 - **Berührungspunkt mit Spielen**: Mit dem Aufkommen von PlayStation und Nintendo 64 entstanden CD-Soundquellen. Auch die Verwendung von „echten Rocksongs“ in Spielen nimmt zu.
 - Die „Gran Turismo“-Reihe und „Tony Hawk’s Pro Skater“ sind Symbole für die direkte Verbindung zwischen Rock und Games.
 
@@ -285,7 +285,7 @@ Seit den 2000er Jahren spielen Musikspiele wie **Guitar Hero** und **Rock Band**
 
 | Titel | Spuren | Künstler | Notizen |
 |----------|---------|-------------|------|
-| IIDX 3. (1999) | V | TAKA | Arrangement im klassischen x HR-Gitarrenstil |
+| IIDX 3. (1999) | V | TAKA | Klassisches x HR-Arrangement im Gitarrenstil |
 | IIDX 9. (2002) | Abyss -The Heavens Remix- | dj TAKA Remixed von Ryu☆ | Enthält Metallelemente |
 | IIDX 14 GOLD (2007) | V2 | TAKA | Remake mit Schwerpunkt auf Bandsound |
 
@@ -298,7 +298,7 @@ Seit den 2000er Jahren spielen Musikspiele wie **Guitar Hero** und **Rock Band**
 | Taiko no Tatsujin 6 (2004) | NICHT SCHNEIDEN | Jimmy Weckl | Harte Fusion-Drums |
 | Taiko no Tatsujin 11 (2007) | Rumble Ranunculus | Seiya Murai | Rock auf Gitarrenbasis |
 | Taiko no Tatsujin 14 (2010) | Xa | Tatsh | Metal-Highspeed-Song |
-| Taiko no Tatsujin Green Ver. (2018) | MEGALOVANIA | Toby Fox | Auf Gitarrenriffs basierend, Spielemusik-Ursprung |
+| Taiko no Tatsujin Green Ver. (2018) | MEGALOVANIEN | Toby Fox | Auf Gitarrenriffs basierend, Spielemusik-Ursprung |
 
 ---
 
@@ -369,7 +369,7 @@ Seit den 2000er Jahren spielen Musikspiele wie **Guitar Hero** und **Rock Band**
 ## Wirkung und Bedeutung
 
 - In Übersee wurde tatsächlich die Bewegung „Guitar Hero“ → Fang an, Gitarre zu spielen“ geboren.
-- In Japan war **GuitarFreaks/DrumMania** Vorreiter bei der Idee des „echten Performance-Feelings“ und legte den Grundstein für die Musikspielkultur.
+- In Japan war **GuitarFreaks/DrumMania** der Pionier der Idee des „echten Performance-Feelings“ und legte den Grundstein für die Musikspielkultur.
 - **Taiko no Tatsujin** konzentriert sich auf Popmusik, aber mit ihren Originalsongs im Hardrock-/Metal-Stil prägten sie jungen Leuten einen gitarrenähnlichen Sound ein.
 - **SOUND VOLTEX** hat einen starken Electro-Ton, integriert aber aktiv Hardrock- und Metal-Elemente, um die „rockartige Wirkung“ einer neuen Generation auszudrücken.
 

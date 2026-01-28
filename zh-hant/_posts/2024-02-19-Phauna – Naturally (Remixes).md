@@ -14,7 +14,7 @@ title: Phauna – 自然地（混音）
 ---
 
 
-2003 年，由 Mellee Fresh 和 DJ Spydabrown 創立的加拿大 house 廠牌 Play Records 發行了一首深浩室曲目。
+這是一首由 Mellee Fresh 和 DJ Spydabrown 創立的加拿大 house 廠牌 Play Records 於 2003 年發行的深浩室曲目。
 
 #### 曲目列表
 ```md

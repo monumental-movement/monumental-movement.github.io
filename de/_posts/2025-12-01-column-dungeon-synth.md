@@ -28,7 +28,7 @@ title: '[Kolumne] Dungeon Synth – Eine Underground-Ambient-Ästhetik, die vom 
 Text: mmr｜Thema: Über die Geschichte, Produktionstechniken und die kulturelle Stellung von Dungeon Synth, einem vom Black Metal abgeleiteten Underground-Ambient-Genre
 
 Dungeon Synth ist ein Musikgenre, das die Spiritualität von Black Metal und Fantasy/mittelalterlicher Weltanschauung durch minimalistische Synthesizer-Sounds zum Ausdruck bringt.
-Seine Ursprünge lassen sich auf die europäische Extremmusikszene der frühen 1990er-Jahre zurückführen, doch seit Ende der 2010er-Jahre hat sich die zweite und dritte Generation mit der Ausweitung der Bandcamp-Kultur rasant vergrößert und hat sich inzwischen zu einem gigantischen DIY-Netzwerk entwickelt.
+Seine Ursprünge liegen in der europäischen Extremmusikszene der frühen 1990er Jahre, doch ab Ende der 2010er Jahre, mit der Ausbreitung der Bandcamp-Kultur, wuchs die zweite und dritte Generation rasch an und hat sich mittlerweile zu einem riesigen DIY-Netzwerk entwickelt.
 
 ---
 
@@ -89,7 +89,7 @@ Da das Genre außerhalb des Mainstreams der Metal-Szene lag, blieb es bis Mitte 
 Doch Ende der 2000er Jahre, als der frühe Black Metal neu bewertet wurde, wurde **Mortiis Era I neu aufgelegt** und begann weltweit erneute Aufmerksamkeit zu erregen.
 
 ### ● 2-4. Zweite Welle (2010–2015)
-Veränderungen im Internetumfeld und die Verbreitung von Bandcamp waren der entscheidende Faktor.
+Ausschlaggebend waren Veränderungen im Internetumfeld und die Verbreitung von Bandcamp.
 
 - **Rise of Bandcamp (Anfang der 2010er Jahre)**
 - **Der Name „Dungeon Synth“ hat sich auf Reddit/Forum etabliert**
@@ -107,7 +107,7 @@ Neuinterpretation des frühen Lo-Fi-Feelings und der klassischen Fantasy-Weltans
 - **Lehen (USA)**
 Sie erweitern ihre Fangemeinde, indem sie eine helle und melodische Seite präsentieren.
 
-Zu dieser Zeit wurden zahlreiche Mix-Videos auf YouTube hochgeladen und von Twitch-Streamern als Hintergrundmusik verwendet, was die Bekanntheit enorm steigerte.
+Zu dieser Zeit wurden zahlreiche Mix-Videos auf YouTube hochgeladen und von Twitch-Streamern als Hintergrundmusik verwendet, was die Bekanntheit dramatisch steigerte.
 
 ### ● 2-6. Moderne (2024–)
 Folgende Charakteristika sind in der zweiten Hälfte der 2020er Jahre zu erkennen.
@@ -140,7 +140,7 @@ timeline
 # ■ 4. Sounddesign: Dungeon Synth-Produktionstechniken
 
 Dungeon Synth ist „ein Genre, das die Einschränkungen der Ausrüstung als Ästhetik sublimiert.“
-Im Folgenden fassen wir die Tonquellen, MIDI-Bedienung und Effektmethoden zusammen, die in der tatsächlichen Produktion verwendet werden.
+Im Folgenden fassen wir die Klangquellen, MIDI-Bedienung und Effektmethoden zusammen, die in der tatsächlichen Produktion verwendet werden.
 
 ---
 
@@ -151,13 +151,13 @@ Viele Künstler suchten das Gefühl von Spielekonsolen und PCM-Tastaturen aus de
 
 - **Roland JV/XP-Serie (aktuell oder als Probe)**
 - **Yamaha PSR-Serie** (günstige Heimtastatur)
-- **Korg Triton / M1 Beispiel-Soundquelle**
+- **Korg Triton / M1 Beispieltonquelle**
 - **General MIDI-Ton (GM-Klangquelle)**
 
 GM-Klaviere, Chor-Aahs, Streicher, Pads usw. Billigkeit und Nostalgie werden als Werte behandelt.
 
 ### ■ Soft-Synth
-In der heutigen Zeit werden häufig verwendet:
+In der heutigen Zeit werden häufig folgende verwendet:
 
 - **DSK-freies VST**
 - DSK ChoirZ, DSK Strings usw.
@@ -253,7 +253,7 @@ Zeitgenössische Künstler verwenden eine Vielzahl von Ausdrucksformen wie handg
 ## ● 6-2. Jackenkultur
 - Kleinformatige Kunst für Kassetten
 - Vertikales Bild für die Bandcamp-Jacke
-- Leicht verschmierte Schrift
+- Leicht verwischte Schrift
 
 Der visuelle Einfluss ist äußerst groß und trägt dazu bei, das Weltbild des Werkes zu ergänzen.
 
@@ -277,7 +277,7 @@ Der visuelle Einfluss ist äußerst groß und trägt dazu bei, das Weltbild des 
 - **Lehen (USA)**
 
 ## ● Moderne (2024–)
-- Signifikante Multinationalisierung und Segmentierung.
+- Erhebliche Multinationalisierung und Fragmentierung.
 Themen wie Wald / Winter / Heroisch / Cosmic Synth haben zugenommen.
 
 ---
@@ -315,7 +315,7 @@ Nachfolgend finden Sie einen Plan für die tatsächliche Erstellung eines Songs.
 
 # ■ 9. Kulturelle Bedeutung von Dungeon Synth
 
-Dungeon Synth ist eine seltene Musikrichtung, die die intensive Weltanschauung des Black Metal mit der Ruhe der Ambient-Musik verbindet und eine Kultur darstellt, die danach strebt, „eine innere Welt aufzubauen“.
+Dungeon Synth ist eine seltene Art von Musik, die die intensive Weltanschauung des Black Metal mit der Ruhe des Ambient verbindet und eine Kultur darstellt, die danach strebt, „eine innere Welt aufzubauen“.
 
 - Einzelne Schöpfer erzählen ihre eigenen Geschichten, ohne sich auf groß angelegte Szenen verlassen zu müssen
 – Stark verbunden mit der Ästhetik von Fantasy-Literatur, TRPGs und Spielemusik

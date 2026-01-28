@@ -9,11 +9,11 @@ permalink: /zh-hant/oliver-ho-the-ancestors-remixes/
 tags:
 - Techno
 - Minimal
-title: Oliver Ho – 《祖先》（混音版）
+title: Oliver Ho – The Ancestors (Remixes)
 ---
 
 
-Oliver Ho 是一位駐倫敦的 DJ/製作人。 《The Ancestors (Remixes)》由 Fine Audio Recordings 於 2002 年發行，這是一家專門從事硬極簡技術的德國技術廠牌。
+Oliver Ho 是一位駐倫敦的 DJ/製作人。 「The Ancestors (Remixes)」は、ハード・ミニマル・テクノを専門とするドイツのテクノreーberu精細錄音から2002年にriirisuされーた。
 
 B 面是來自英國倫敦的 DJ/製作人 Ben Sims 的混音版。
 

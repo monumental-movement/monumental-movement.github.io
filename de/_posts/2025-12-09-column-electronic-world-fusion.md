@@ -21,7 +21,7 @@ title: '[Kolumne] Electronic World Fusion: Der Punkt, an dem sich elektronische 
 
 Text: mmr｜Thema: Von den Ursprüngen von Electronic World Fusion bis zu seinen technischen Aspekten, repräsentativen Werken, regionalen Besonderheiten und zeitgenössischer Bedeutung
 
-In der zweiten Hälfte des 20. Jahrhunderts entwickelte sich die elektronische Musik rund um Synthesizer und Sampler, doch gleichzeitig begann auch traditionelle Musik aus aller Welt Einzug in die westliche Popkultur zu halten. Electronic World Fusion ist ein Bereich, in dem die beiden vollständig miteinander verbunden sind, und es ist ein seltenes Genre, in dem sich Geschichte, Kultur und Ideologie von Technologie und Volksmusik überschneiden.
+In der zweiten Hälfte des 20. Jahrhunderts entwickelte sich die elektronische Musik rund um Synthesizer und Sampler, doch gleichzeitig begann auch traditionelle Musik aus aller Welt Einzug in die westliche Popkultur zu halten. Electronic World Fusion ist ein Bereich, in dem die beiden wirklich miteinander verbunden sind, und es ist ein seltenes Genre, in dem sich Geschichte, Kultur und Ideologie von Technologie und Volksmusik überschneiden.
 
 Zu den repräsentativen Künstlern zählen **Nitin Sawhney**, der indische klassische Musik und soziale Themen einbezieht, und **Thievery Corporation**, der Downtempo mit verschiedenen musikalischen Elementen aus Lateinamerika, dem Nahen Osten und Asien verbindet.
 
@@ -275,7 +275,7 @@ flowchart LR
 
 * Frühe Sampler digitalisierten die Klänge ethnischer Instrumente
 * Melodien aus dem Nahen Osten, Südasien und Afrika haben nach und nach Eingang in die Tanzmusik gefunden.
-* Es gibt Diskussionen über „kulturelle Zitate“ und „Sampling-Ethik“.
+* Es finden Diskussionen über „kulturelle Zitate“ und „Sampling-Ethik“ statt.
 
 <div class="mermaid">
 flowchart TD

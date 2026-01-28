@@ -108,7 +108,7 @@ The spread of Acid Jazz was also closely related to geopolitics in Europe, the U
 
 Acid Jazz was perceived as a "reimport." In the United States, the original 70's jazz funk and soul existed, so the label ""Acid Jazz'' from the UK seemed fresh and was adopted by the club scenes of New York and Chicago.
 
-And like [Deee-Lite](https://amzn.to/3W7JKj0), it expands while linking with hip-hop.
+And, like [Deee-Lite](https://amzn.to/3W7JKj0), it expands while linking with hip-hop.
 On the other hand, the connection with hip-hop was emphasized, and it served as a bridge to jazz-hip-hop such as [A Tribe Called Quest](https://amzn.to/4n1XXZO) and [Gang Starr](https://amzn.to/46QAJBa).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n5a21NGXVdw?si=UJbqyTkSpL1QK_ya" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -132,7 +132,7 @@ In Japan, United Future Organization (UFO) in particular received worldwide accl
 
 #### Western Europe
 
-- **France/Germany**: In France, it was incorporated into "Nouvelle Scène Jazz" and club culture in Paris, and in Germany, it was incorporated into the experimental spirit of jazz/clubs centered in West Berlin around the time of reunification (1990).
+- **France/Germany**: In France, it was incorporated into "Nouvelle Scène Jazz" and club culture in Paris, and in Germany, it was incorporated into the experimental spirit of jazz/clubs centered on West Berlin around the time of reunification (1990).
 
 - **Italy/Spain**: Linked with tourism, Acid Jazz is established in resort culture and club scene. Particularly in Ibiza, it was mixed with house and Balearic.
 

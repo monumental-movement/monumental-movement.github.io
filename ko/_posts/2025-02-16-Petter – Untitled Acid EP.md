@@ -11,7 +11,7 @@ tags:
 - Progressive House
 - Acid House
 - Tech House
-title: Petter – 제목 없는 산성 EP
+title: 페터 – 제목 없는 산성 EP
 ---
 
 

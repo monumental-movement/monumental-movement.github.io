@@ -13,7 +13,7 @@ title: Gant Garrard – 100 % EP im Chicago-Stil
 ---
 
 
-Gant Garrard (Gant-Man) ist ein DJ/Produzent aus Chicago, der für das Mischen der Stile House, Ghetto/Booty House und Juke/Footwork bekannt ist.
+Gant Garrard (Gant-Man) ist ein DJ/Produzent aus Chicago, der für das Mischen von House-, Ghetto/Booty House- und Juke/Footwork-Stilen bekannt ist.
 
 Ein House-Track, der 2001 auf dem französischen Disco-House-Label Riviera veröffentlicht wurde, das vom französischen DJ Fab G betrieben wird.
 

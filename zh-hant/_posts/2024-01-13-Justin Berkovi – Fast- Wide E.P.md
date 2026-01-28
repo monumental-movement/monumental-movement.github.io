@@ -9,7 +9,7 @@ permalink: /zh-hant/justin-berkovi-fast-wide-e-p/
 tags:
 - Techno
 - 90s
-title: Justin Berkovi——Fast-Wide E.P
+title: 賈斯汀·貝爾科維 (Justin Berkovi) – Fast-Wide E.P
 ---
 
 

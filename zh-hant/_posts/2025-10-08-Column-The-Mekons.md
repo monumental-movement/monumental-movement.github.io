@@ -26,11 +26,11 @@ Mekons 是由學生們在教室的一角創立的，他們開玩笑地想：“�
 那時，朋克是一場任何人都可以發起的革命。梅肯斯（Mekons）這個名字據說來自拜倫的戲劇《密涅瓦的詛咒》中的“叛逆”角色。
 
 1978 年發行的單曲《Where Were You / I'll Have To Dance then (On My Own)》象徵著他們早期的朋克精神。
-《Where Were You?》用尖銳的吉他連复段和夾雜著噪音的人聲描繪了年輕人的孤獨和對社會的懷疑。 B面《I'll Have To Dance then (On My Own)》以朋克能量表達了自我疏離和對自由的渴望。
+“當時你在哪裡？”用尖銳的吉他連复段和夾雜著噪音的人聲描繪了年輕人的孤獨和對社會的懷疑。 B面《I'll Have To Dance then (On My Own)》以朋克能量表達了自我疏離和對自由的渴望。
 錄音雖然粗糙，但充滿了與大學好友的即興創作，可以看出梅肯斯後來所追求的“不完美美學”的由來。
 
 與他們早期的單曲“Never Been in a Riot”一起，這首單曲被認為是梅肯斯早期社會批評、幽默和自我探索三位一體的重要組成部分。
-在當時的現場表演中，每當這首歌結束時，觀眾們大笑、困惑，有時甚至發生爭吵是很常見的。
+在當時的現場演出中，每當這首歌結束時，觀眾們大笑、困惑，有時甚至發生爭吵是很常見的。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/71s-T8oUTQs?si=JRL_vF4jjerlZhUh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -86,7 +86,7 @@ color: #fff;
 那裡有美國南方的民間音樂和鄉村音樂，也有戰後英國社會“失去家園”的感受。
 在此期間，喬恩·蘭福德在聽漢克·威廉姆斯和梅爾·哈格德的演奏時重新發現了“鄉村是工人階級的憂鬱”。
 
-錄製於當時利茲的伍德蘭茲獨立工作室。直接在線錄製到模擬磁帶的吉他具有利用放大器失真的自然飽和度，並且房間麥克風通常用於人聲。
+錄製於當時利茲的伍德蘭茲獨立工作室。直接在線錄製到模擬磁帶的吉他具有利用放大器失真的自然飽和度，並且室內麥克風通常用於人聲。
 這種低保真的聲音創造了一種“詩意的距離感”，而不是“泥濘的氣味”。
 這張專輯後來被重新評價為 Uncle Tupelo 和 Wilco 等“另類鄉村”藝術家的先驅。
 
@@ -105,7 +105,7 @@ color: #fff;
 有人說“Mekons 的音樂聽起來不屬於任何地方。”
 像移民一樣，他們在音樂背景之間移動，在那裡建立臨時家園。
 專輯[Journey to the End of the Night (2000)](https://amzn.to/4q3A5HR)就是一個像徵，其包含銅管樂器和小提琴的聲學作品強調了它的“外國性”。
-儘管他在這項工作中使用了 Pro Tools，但他故意使用模擬控制台進行混音，從而留下了“人為不平衡”。
+雖然他在這項工作中使用了 Pro Tools，但他故意使用模擬控制台進行混音，留下了“人為不平衡”。
 
 ---
 
@@ -177,7 +177,7 @@ color: #fff;
 | 1979 | *慈悲的品質並不強健* |早期朋克唱片 | [亞馬遜](https://amzn.to/475k7ED) |
 | 1985 | *恐懼與威士忌* |後朋克+鄉村融合 | [亞馬遜](https://amzn.to/3J1VsbQ) |
 | 1989 | *梅肯斯搖滾樂* |社會批評的高度| [亞馬遜](https://amzn.to/4pY2TSl) |
-| 1994 | *從孟菲斯撤退* |重生與轉變的時代 | [亞馬遜](https://amzn.to/4mWrggs) |
+| 1994 | *從孟菲斯撤退* |重生與轉變的時代| [亞馬遜](https://amzn.to/4mWrggs) |
 | 2000 | 2000 *到夜盡頭的旅程* |異國他鄉之旅| [亞馬遜](https://amzn.to/4q3A5HR) |
 | 2019 | 2019 *荒蕪* |一群人站在曠野的詩| [亞馬遜](https://amzn.to/4nHdkYD) |
 

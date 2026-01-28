@@ -10,11 +10,11 @@ tags:
 - JPop
 - Group Sounds
 - 7inch
-title: The Tigers – Smile For Me
+title: Les Tigres – Souriez pour moi
 ---
 
 
-「Smile For Me 」は、Bee Gees(ビー・ジーズ)のBarry Gibb(バリー・ギブ)とMaurice Gibb(モーリス・ギブ)が作詞・作曲を手がけた曲。
+"Smile For Me" est une chanson écrite et composée par Barry Gibb et Maurice Gibb des Bee Gees.
 
 #### Liste des chansons
 ```md

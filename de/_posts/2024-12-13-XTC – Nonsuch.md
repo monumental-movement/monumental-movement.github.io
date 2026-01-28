@@ -10,7 +10,7 @@ tags:
 - Pop Rock
 - Rock
 - 90s
-title: XTC – Nichts dergleichen
+title: XTC – Nichts davon
 ---
 
 

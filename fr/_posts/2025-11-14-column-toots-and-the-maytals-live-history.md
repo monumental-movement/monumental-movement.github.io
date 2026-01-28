@@ -86,7 +86,7 @@ En 1970, Toots and the Maytals entreprennent leur première tournée européenne
 **Représentation en direct** :
 
 * Lorsque l'intro de "Monkey Man" commence à jouer, le public secoue naturellement les épaules et danse en cercle.
-* Toots crie : « Chante-le avec moi ! et tout le public chante.
+* Toots crie : "Chante-le avec moi !" et tout le public chante.
 
 * Les riffs de guitare et d'orgue résonnent sur le sol, créant une danse impromptue.
 
@@ -100,7 +100,7 @@ En 1975, avec la sortie de l'album « Funky Kingston », ils tournent à New Yor
 
 **Caractéristiques du spectacle live** :
 
-* Avec l'introduction d'un système audio, des sons graves peuvent être entendus dans tout l'étage.
+* Avec l'introduction d'un système de sonorisation, des basses graves peuvent être entendues dans tout l'étage.
 * Le discours impromptu de Toots permet au public de ne faire qu'un avec le spectacle.
 
 * Les effets de lumière soulignent l'atmosphère de la chanson et sont visuellement époustouflants.

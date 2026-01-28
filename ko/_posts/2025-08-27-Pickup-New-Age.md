@@ -104,7 +104,7 @@ B5. Astral Trip
 <br>
 
 
-### 패트릭 베른하르트 - 아틀란티스 안젤리스
+### 패트릭 베른하르트 – 아틀란티스 안젤리스
 <a href="https://jp.mercari.com/item/m83639772653?afid=6142608987"><img src="../assets/images/Patrick%20Bernhardt%20%E2%80%93%20Atlantis%20Angelis.webp"></a>
 
 특징: 캐나다 레이블 "Imagine Records"에서 발매한 Patrick Bernhardt의 앨범입니다. 앰비언트와 뉴에이지 요소가 융합된 환상적인 사운드 세계가 열립니다.
@@ -174,7 +174,7 @@ B3. Transcendastral Voyage
 
 특징: 호주의 앰비언트/릴렉스 음악 제작자 Tony O'Connor의 1996년 더블 LP.
 
-매력 : 자연의 소리와 신디사이저의 조화로운 조합으로 마치 삼림욕을 하는 듯한 힐링 공간을 선사합니다.
+매력: 자연의 소리와 신디사이저의 조화로운 조합은 삼림욕을 하는 듯한 편안한 공간을 제공합니다.
 
 #### 트랙리스트
 ```md

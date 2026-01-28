@@ -8,7 +8,7 @@ layout: post
 permalink: /ko/pickup-cassette/
 tags:
 - Cassette
-title: 카세트 테이프 작동
+title: 픽업 카세트 테이프 작동
 ---
 
 
@@ -36,7 +36,7 @@ B. Dawn At New Hope Pennsylvania (June, 1969)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aKg6BNrHeuU?si=tG_X8CHdaIZY54XP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-### 소음의 예술 - 말도 안돼 넌센스
+### 소음의 예술 - 말도 안 돼 넌센스
 <a href="https://jp.mercari.com/item/m27011020702?afid=6142608987"><img src="../assets/images/The%20Art%20Of%20Noise%20%E2%80%93%20In%20No%20Sense%20Nonsense.webp"></a>
 
 1987 Leftfield Synth Pop Art 팝 x 실험적이고 독특한 신스 작품.

@@ -13,7 +13,7 @@ title: Rawcotiks – néanmoins de vraies têtes
 ---
 
 
-"Rawcotiks – Yet Real Heads" est sorti en 1997 sur Opposition Records.
+"Rawcotiks - Yet Real Heads" est sorti en 1997 sur Opposition Records.
 
 Rawcotiks est une unité de musiciens hip-hop dominicains Jeff Valentino et Bladmillo Castillo basée à Washington Heights, New York.
 

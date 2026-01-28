@@ -18,7 +18,7 @@ title: '[Column] Korla Pandit and the Vision of Exotica: Dreams and Masks of Pos
 ## Prologue: What was exotica?
 
 
-Text: mmr｜Theme: Exploring the role of Korla Pandit in the nascent period of exotica and the aesthetics of Orientalism in postwar American culture
+Text: mmr｜Theme: Exploring the role of the Korla Pandits in the creation of exotica and the aesthetics of Orientalism in postwar American culture
 
 ![Korla Pandit at the organ](https://upload.wikimedia.org/wikipedia/en/4/4d/Korlaorgan.jpg)
 Source: [Wikipedia - Korla Pandit](https://en.wikipedia.org/wiki/Korla_Pandit)

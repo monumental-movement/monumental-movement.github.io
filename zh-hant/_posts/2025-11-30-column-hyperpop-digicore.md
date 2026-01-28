@@ -168,7 +168,7 @@ flowchart LR
 
 ## 5-3.陷阱/DnB 影響最小
 
-* 808底座適中
+* 808基數適中
 * 踢腿時間短
 * 踩镲是 1/8 到 1/32 的細卷。
 
@@ -182,7 +182,7 @@ flowchart LR
 * **Ableton Live**（強大的 Hyperpop 聲音設計）
 * 在某些情況下也會使用 GarageBand / Logic。
 
-## Hyperpop 製作示例
+## Hyperpop 側面製作示例
 
 
 - 1.利用Auto-Tune對頂線進行強力改造
@@ -232,7 +232,7 @@ flowchart LR
 
 * 輕微提升吉他頻段 2-4kHz
 * 將人聲放在中間（不要分散太多）
-* 808底座適中
+* 808基數適中
 
 ---
 

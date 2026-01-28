@@ -15,7 +15,7 @@ title: Tukan – Zünde einen Regenbogen an
 
 Tukan ist ein Trance-Projekt bestehend aus den dänischen Produzenten Lars Frederiksen und Søren Weile. Er ist auch unter anderen Namen wie Zekt und ATN aktiv.
 
-„Light A Rainbow“ wurde im Jahr 2000 vom deutschen Trance-/Hard-Trance-Label Drizzly veröffentlicht und wurde damals ein Clubhit, der oft in Clubs und auf Partys gespielt wurde.
+„Light A Rainbow“ erschien im Jahr 2000 auf dem deutschen Trance-/Hard-Trance-Label Drizzly und wurde damals ein Clubhit, der oft in Clubs und auf Partys gespielt wurde.
 
 Side A ist ein Remix des deutschen Trance-Künstlers Green Court. Der zweite Song auf Seite B ist ein Remix des deutschen DJ Worris (Lars Höhler).
 

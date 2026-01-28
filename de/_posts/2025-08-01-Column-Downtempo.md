@@ -40,7 +40,7 @@ Von Ende der 1980er bis Anfang der 1990er Jahre verbreitete sich das Konzept ein
 <hr>
 
 ### Wellen aus Bristol, Großbritannien
-Bevor sich das Wort Downtempo durchsetzte, wurde die Musik, die als dessen Prototyp gelten könnte, Anfang der 1990er Jahre in Bristol, England, geboren. Künstler wie Massive Attack, Portishead und Tricky erkundeten Stile, die Elemente von Dub, Soul, Jazz und Electronica mit Hip-Hop-Beats kombinierten. Das Ergebnis war Trip-Hop, der spirituelle Ausgangspunkt für Downtempo.
+Bevor sich das Wort Downtempo etablierte, wurde die Musik, die als dessen Prototyp gelten könnte, Anfang der 1990er Jahre in Bristol, England, geboren. Künstler wie Massive Attack, Portishead und Tricky erkundeten Stile, die Elemente von Dub, Soul, Jazz und Electronica mit Hip-Hop-Beats kombinierten. Das Ergebnis war Trip-Hop, der spirituelle Ausgangspunkt für Downtempo.
 
 **Balearisches Chill und Café del Mar**
 
@@ -91,7 +91,7 @@ Downtempo hat durch seine Verschmelzung mit lokaler Kultur und ethnischer Musik 
 <hr>
 
 ### Modernität und Neubewertung: Die stillen Herrscher der Spotify-Ära
-Im Streaming-Zeitalter der 2020er Jahre wird Downtempo als „entspannende Playlist“ und „Hintergrundmusik für die Arbeit“ neu bewertet. Insbesondere der moderne Downtempo-Stil, bekannt als Post-Trip-Hop, hat Eingang in die Filmmusik, die Spielemusik und sogar in die Modebranche gefunden.
+Im Streaming-Zeitalter der 2020er Jahre wird Downtempo als „entspannende Playlist“ und „Hintergrundmusik für die Arbeit“ neu bewertet. Insbesondere der moderne Downtempo-Stil namens Post-Trip-Hop hat Eingang in die Filmmusik, die Spielemusik und sogar in die Modebranche gefunden.
 
 **Während es im Kontext von „Chill“, „Entspannung“ und „Konzentration“ wieder an Aufmerksamkeit gewinnt**, gibt es auf Spotify und YouTube viele Playlists mit den Namen „Lo-Fi“, „Chillhop“ und „Study Beats“, die den Hörern als Downtempo im weitesten Sinne bekannt sind.
 

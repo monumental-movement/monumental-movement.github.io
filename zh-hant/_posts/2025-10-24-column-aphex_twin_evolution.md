@@ -154,7 +154,7 @@ Aphex Twin 之後，電子音樂不再只是一種“流派”。
 受他影響的藝術家有Burial、Oneohtrix Point Never、Autechre、Arca等。
 所有這些問題都重新考慮了聲音本身的“意義生成”。
 
-> “在音樂正在成為數據的時代，Aphex Twin 已成為感知的雕塑家。”
+> “在音樂轉化為數據的時代，Aphex Twin 已成為感知的雕塑家。”
 
 ---
 

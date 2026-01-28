@@ -13,7 +13,7 @@ title: 艾莉 – 巴比倫的母狗讓我做我自己
 ---
 
 
-“巴比倫的母狗讓我做我自己”
+“巴比倫的母狗讓我做我”是
 這是Crue-L於1997年發行的Ellie的EP。
 
 A 麵包括久保田武 (Takeshi Kubota) 的混音版，B 面則是 Shaka Zombie 的 Tucchi 的混音版。

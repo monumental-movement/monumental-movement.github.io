@@ -68,7 +68,7 @@ SRL, bekannt für seine zerstörerische mechanische Leistung, wurde 1978 von Mar
 
 #### Negativland
 
-Eine Gruppe, die im Raum San Francisco aktiv ist und für ihre medienkritischen Arbeiten bekannt ist, die Sampling/Collage verwenden. Werke wie „Escape From Noise“ aus den späten 1980er Jahren waren wichtige Werke, die die Schnittstelle von Lärm und Popkultur zeigten und durch DIY-Radio und gefälschte Werbetechniken Kontroversen und Aufmerksamkeit erregten.
+Eine Gruppe, die im Raum San Francisco aktiv ist und für ihre medienkritischen Arbeiten bekannt ist, die Sampling/Collage verwenden. Werke wie „Escape From Noise“ aus den späten 1980er Jahren waren wichtige Werke, die die Schnittstelle zwischen Lärm und Popkultur zeigten und durch DIY-Radio und gefälschte Werbetechniken Kontroversen und Aufmerksamkeit erregten.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t8veXrYh1cc?si=YU9J8AUiD9LLiFVe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -104,7 +104,7 @@ Die Bay Area ist die Heimat von Indie-Festivals wie Noise Pop und improvisatoris
 
 ### Empfohlene Alben nach Generation
 
-Im Folgenden sind die Hauptwerke aufgeführt, die im Haupttext erwähnt werden.
+Im Folgenden sind die im Haupttext erwähnten Hauptwerke aufgeführt.
 
 | Künstler / Werk | Jahr | Notizen | Link |
 | ------ | ---- | --------------- | ----------- | --------------- |

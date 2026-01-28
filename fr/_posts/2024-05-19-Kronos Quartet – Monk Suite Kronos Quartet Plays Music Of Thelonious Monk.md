@@ -11,15 +11,15 @@ tags:
 - Minimal
 - Experimental
 - 80s
-title: Kronos Quartet – Monk Suite Kronos Quartet Plays Music Of Thelonious Monk
+title: Kronos Quartet – Monk Suite Kronos Quartet joue la musique de Thelonious Monk
 ---
 
 
-クロノスカルテットは、1973年にバイオリニストのDavid Harrington（デイビッド・ハリントン）によりシアトルで結成され、1978 年以来サンフランシスコを拠点に活動する弦楽四重奏団。 
+Kronos Quartet est un quatuor à cordes formé à Seattle en 1973 par le violoniste David Harrington et basé à San Francisco depuis 1978.
 
-50年間にわたりミュージシャンが交代しながら活動しており、 最も長く続いた演奏家の組み合わせ（1978年〜1999年）は、ヴァイオリンのハリントンとジョン・シャーバ、ヴィオラのハンク・ダット、チェロのジョアン・ジャンルノー。
+Le groupe est actif depuis 50 ans avec une distribution tournante de musiciens, la combinaison d'interprètes la plus ancienne (1978-1999) étant Harrington et John Schaba au violon, Hank Dutt à l'alto et Joan Jeanrenot au violoncelle.
 
-カルテットは現代クラシック音楽を含む非常に幅広い音楽ジャンルをカバーしている。
+Le quatuor couvre un très large éventail de genres musicaux, dont la musique classique contemporaine.
 
 #### Liste des chansons
 ```md

@@ -13,7 +13,7 @@ title: Blu Peter – Les images dans votre esprit
 ---
 
 
-Peter Harris, également connu sous le nom de Blu Peter, est un producteur et DJ britannique de musique de danse électronique du sud du Pays de Galles. Au début des années 1990, il a effectué une résidence dans les célèbres clubs londoniens Heaven et Turnmills, et à la fin des années 1990, il a été actif sur la scène nu-NRG/Hard NRG.
+Peter Harris, également connu sous le nom de Blu Peter, est un producteur et DJ britannique de musique de danse électronique du sud du Pays de Galles. Au début des années 1990, il effectue une résidence dans les célèbres clubs londoniens Heaven et Turnmills, et à la fin des années 1990, il est actif sur la scène nu-NRG/Hard NRG.
 
 "The Pictures In Your Mind" est un morceau Trance sorti sur le label britannique React en 1996. C'est l'une des chansons les plus représentatives de la scène trance britannique du milieu des années 90, et le remix B1 de Kadoc est toujours considéré comme un classique.
 

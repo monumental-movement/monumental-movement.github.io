@@ -86,12 +86,12 @@ Les œuvres représentatives et les pistes distinctives sont les suivantes :
 * **Ol' Dirty Bastard – « Retour aux 36 Chambres » (1995)**
 
 * **« Brooklyn Zoo »** : des voix rugueuses, des rythmes grossiers et les compétences d'édition de RZA brillent
-* **« Shimmy Shimmy Ya »** : Un motif de batterie simple superposé à des échantillons de débris pour incarner l'esthétique du chaos.
+* **« Shimmy Shimmy Ya »** : un motif de batterie simple superposé à des échantillons de débris pour incarner l'esthétique du chaos.
 
 * **Ghostface Killah – « Ironman » (1996)**
 
 * **« All That I Got Is You »** : échantillon de cordes soul, expression émotionnelle profonde
-* **« Iron Maiden »** : Batterie lourde, charleston aiguisé, la structure philosophique de RZA se révèle.
+* **« Iron Maiden »** : Batterie lourde, charleston aiguisé, la structure philosophique de RZA se dévoile.
 
 <div class="mermaid">
 
@@ -133,7 +133,7 @@ Dans ces œuvres, RZA poursuit une conception sonore qui dépasse le cadre du hi
 Après 1999, RZA débute sa carrière de compositeur de films.
 Les œuvres représentatives comprennent :
 
-* **Ghost Dog : La Voie du Samouraï (1999)**
+* **Ghost Dog : La voie du samouraï (1999)**
 
 * Fusion de la culture des samouraïs japonais avec le hip-hop
 * Chanson « Bird's Theme » : un motif de batterie simple avec des échantillons de shakuhachi et de koto
@@ -148,7 +148,7 @@ Les œuvres représentatives comprennent :
 * **``L'Homme aux poings de fer'' (2012)**
 
 * Réalisé, scénarisé et composé la musique lui-même
-* Collaborez avec les membres du Wu-Tang Clan et créez des rythmes pour les scènes d'action
+* Collaborez avec les membres du Wu-Tang Clan et créez des rythmes pour des scènes d'action
 * Créez un monde musical unique en combinant l'échantillonnage, les sources sonores orchestrales et les équipements analogiques
 
 ---

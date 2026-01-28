@@ -43,7 +43,7 @@ color: #fff;
 12 Equal Temperament est plus une **norme industrielle établie pour la production et la distribution** qu'une théorie musicale.
 Il s’agit d’une réponse aux demandes d’une plus grande liberté de modulation, d’une production de masse d’instruments à clavier et d’une standardisation de l’éducation, et ne constitue pas une solution acoustique optimale.
 
-Le problème avec la musique microtonale n'est pas la valeur numérique d'une « finesse supérieure à un demi-ton » ;
+Le problème avec la musique microtonale n'est pas la valeur numérique de « finesse supérieure à un demi-ton » ;
 **C'est l'idée même de traiter le pitch comme une unité fixe**.
 
 La hauteur est à l'origine un concept relatif défini par le rapport de fréquence, la relation harmonique et la perception physique.
@@ -71,7 +71,7 @@ Dans la seconde moitié du XIXe siècle, les problèmes suivants sont apparus à
 
 * Véritable turbidité acoustique du 3ème et 6ème degré
 * Homogénéisation de la couleur harmonique
-* Dilution du sens tonal
+* Dilution du sens de la tonalité
 
 De nombreux compositeurs se sont tournés vers les techniques atonales et dodécaphoniques, mais
 Dans une autre lignée, la « redivision des intervalles » elle-même a été choisie.
@@ -120,7 +120,7 @@ Les nouveaux tempéraments nécessitent de nouveaux instruments.
 
 Les instruments de Partch avaient les rôles suivants :
 
-* Visualisation de la structure du terrain
+* Visualisation de la structure des intervalles
 *Gravure directe sur le corps de l'interprète
 * Indissociabilité de la théorie et de la pratique
 
@@ -135,7 +135,7 @@ Il s'agit d'une tentative de ramener la musique microtonale à la dimension de l
 
 ## 6. Le dispositif idéologique de la notation musicale
 
-Dans la musique microtonale, la notation n’est pas qu’un simple moyen de communication.
+Dans la musique microtonale, la notation n’est pas seulement un moyen de communication.
 
 * Altérations supplémentaires
 * Notation des rapports
@@ -191,7 +191,7 @@ Jacob Collier a présenté la théorie microtonale d'une manière qui vous fait 
 ### 9.1 Application pratique des séries harmoniques
 
 * Utilisation de tierces et septièmes authentiques
-* Hauteur fixe en raison du multiplexage vocal
+* Tonalité fixe en raison du multiplexage vocal
 * Amélioration du contour émotionnel de l'harmonie
 
 ### 9.2 Coexistence avec la structure pop
@@ -243,12 +243,12 @@ Ceci ne s’établit pas par une compréhension intellectuelle mais par une éco
 
 La musique microtonale ne constitue pas un genre unique.
 
-* 実験音楽
+* Musique expérimentale
 * musique électronique
 * À l'intérieur du Jazz/Pop
 * Vidéo/Installation
 
-Il n'existe pas comme un « genre » mais comme une philosophie de production.
+Il n’existe pas comme « genre » mais comme philosophie de production.
 
 ---
 
@@ -281,7 +281,7 @@ timeline
 
 ## 15. Conclusion
 
-La musique microtonale n’est pas un exercice d’augmentation de la hauteur. Il s’agit d’un changement vers une philosophie de production qui ne suppose pas un pas fixe. Harry Partch a ramené la musique au corps et à l'espace, et Jacob Collier a traduit cette théorie dans une sensibilité moderne. Ce mouvement continuera à œuvrer tranquillement dans les profondeurs de la production musicale.
+La musique microtonale n’est pas un exercice d’augmentation de la hauteur. Il s’agit d’un changement vers une philosophie de production qui ne suppose pas un pas fixe. Harry Partch a ramené la musique au corps et à l'espace, et Jacob Collier a traduit cette théorie dans une sensibilité moderne. Ce mouvement continuera à œuvrer discrètement dans les couches profondes de la production musicale.
 
 
 ---

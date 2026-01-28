@@ -21,7 +21,7 @@ title: '[Kolumne] Glitchcore / Hyper-Glitch Pop bricht weiter zusammen, die Zuku
 Text: mmr｜Thema: Entstehungsprozess von Glitchcore/Hyper-Glitch, akustische Techniken, kultureller Hintergrund, repräsentative Künstler, Entwicklung in den 2020er Jahren und Zukunftsaussichten
 
 Glitchcore und Hyper-Glitch sind ein seit Ende der 2010er Jahre auftretender Trend in der internetgenerierten Pop-/Elektronikmusik, bei dem „Korruption“, „Fragmentierung“ und „Überlastung“ im Mittelpunkt seiner Ästhetik stehen.
-Klickgeräusche, Rauschen, digitale Verzerrung, Tonhöhenverschiebungen, Vocaloid-ähnliche Verarbeitung, schnelle Songentwicklung, bizarre Temposchwankungen – das herausragendste Merkmal dieses Albums ist, dass es versucht, ein „Gleichgewicht zwischen Exzess und Verfall“ auszudrücken, indem es diese Elemente in einem äußerst poppigen Kontext verschmilzt.
+Klickgeräusche, Rauschen, digitale Verzerrung, Tonhöhenverschiebungen, Vocaloid-ähnliche Verarbeitung, schnelle Songentwicklung, seltsame Temposchwankungen – das herausragendste Merkmal dieses Albums ist, dass es versucht, ein „Gleichgewicht zwischen Exzess und Verfall“ auszudrücken, indem es diese Elemente in einem äußerst poppigen Kontext verschmilzt.
 
 Acts wie SOPHIE, A. G. Cook und 100 Gecs brachten diesen „Broken Pop“ auf ein internationales Niveau und bewiesen, dass viele Künstler mithilfe von DAWs und Sample-Packs „aus ihren eigenen Räumen heraus eine globale Musiksprache erschaffen“ konnten.
 
@@ -94,7 +94,7 @@ Typische Verarbeitung:
 * Hinzufügen eines Charaktergefühls durch Formantenmanipulation
 * Gemischte Verwendung von Vocaloid-Soundquellen
 
-Die Methode, „mehrere Stimmenebenen gleichzeitig abzuspielen“ wie 100 Gecs, gilt als Symbol für Hyper-Glitch.
+Die Methode, „mehrere Stimmenebenen gleichzeitig abzuspielen“, wie etwa 100 Gecs, gilt als Symbol für Hyper-Glitch.
 
 ---
 
@@ -147,7 +147,7 @@ Merkmale:
 
 ### 3-3　Dylan Brady Solo Works
 
-Dylan Bradys Solowerk war noch traplastiger und erweiterte die aggressivere Seite von Hyper-Glitch durch die Kombination von extrem tiefem Bass und extremem Clipping.
+Dylan Bradys Solowerk war noch traplastiger und erweiterte die aggressivere Seite von Hyper-Glitch durch die Kombination von ultratiefen Bässen und extremem Clipping.
 
 ---
 
@@ -180,7 +180,7 @@ Beispielmethode:
 * Teilen Sie die Proben in Millisekunden
 * Zufällige Platzierung von Rauschfragmenten
 * Transienten absichtlich zerstören
-* Häufige Verwendung von Reverse und Time Stretch
+* Häufiger Einsatz von Reverse und Time Stretch
 
 ---
 
@@ -268,7 +268,7 @@ Ein weiteres wichtiges Merkmal ist, dass Ausdrücke im Anime-Stil, Vocaloid-Kult
 
 ### 7-3 SoundCloud-Persönlichkeit
 
-Osquinn und Glaive brachten Emo-Akkordfolgen, Gitarreneinschläge und luftigen Gesang in Glitchcore. Dies stellt eine introvertiertere, melodischere Richtung des „kantigen“ Charakters von Hyperpop dar.
+Osquinn und Glaive brachten Emo-Akkordfolgen, Gitarreneinschläge und leichten Gesang in Glitchcore. Dies stellt eine introvertiertere, melodischere Richtung des „kantigen“ Charakters von Hyperpop dar.
 
 ---
 
@@ -317,7 +317,7 @@ Da Musik immer kürzer wird und eher in Fragmenten als in Alben verbreitet wird,
 
 ### 10-2 Wird „Broken Pop“ standardisiert?
 
-Destruktive Bearbeitungen wie Hyper-Glitch halten bereits Einzug in den Mainstream-Pop. In Zukunft besteht eine hohe Wahrscheinlichkeit, dass „Glitch als Produktionsidee“ zu einem Standardwerkzeug und nicht zu Grenzen als Genre wird.
+Destruktive Bearbeitungen wie Hyper-Glitch halten bereits Einzug in den Mainstream-Pop. Es ist sehr wahrscheinlich, dass „Glitch als Produktionsidee“ in Zukunft zum Standardwerkzeug und nicht zu Grenzen als Genre wird.
 
 ---
 

@@ -39,7 +39,7 @@ Après la Seconde Guerre mondiale, avec l'accélération de l'urbanisation et de
 
 ### Équipement/Technologie
 - Montage avec magnétophone (découpage, rotation inverse, changement de vitesse)
-- Enregistrement sur le terrain (foule de la ville, sons naturels)
+- Enregistrement sur le terrain (foule en ville, sons naturels)
 - C'était un précédent conceptuel et est devenu plus tard le fondement philosophique de la musique ambiante.
 
 ---
@@ -128,7 +128,7 @@ Incursions dans l'art, la musique de film et l'installation. La musique d'ambian
 ## ■ Années 2010 à aujourd'hui : Post-Ambient
 
 ### Origine sociale
-La culture du streaming s'est bien établie, et le Lo-fi Hip Hop et les BGM de style Chill sont devenus extrêmement populaires. Directement liée à la méditation, au yoga et à la pleine conscience, l'ambient est redéfini comme « la musique de la vie ».
+La culture du streaming s'est établie, et le Lo-fi Hip Hop et les BGM de style Chill sont devenus extrêmement populaires. Directement liée à la méditation, au yoga et à la pleine conscience, l'ambient est redéfini comme « la musique de la vie ».
 
 ### Chef-d'œuvre
 - [Tim Hecker 『Virgins』](https://amzn.to/4nNKwgP)（2013）  
@@ -164,7 +164,7 @@ color: #fff;
 
 <br>
 
-### 1970年代
+### Années 1970
 
 | Albums | Artiste | Année |
 |------|--------------|----|
@@ -198,7 +198,7 @@ color: #fff;
 
 <br>
 
-### Années 1990
+### années 1990
 
 | Albums | Artiste | Année |
 |------|--------------|----|
@@ -215,7 +215,7 @@ color: #fff;
 
 <br>
 
-### 2000年代
+### Années 2000
 
 | Albums | Artiste | Année |
 |------|--------------|----|
@@ -256,7 +256,7 @@ color: #fff;
 | années 1960 | Synthétiseur modulaire Moog | Le premier synthétiseur modulaire disponible dans le commerce au monde. Utilisé pour générer des sons soutenus et des drones. |
 | années 1970 | EMS VCS3 / Synthi A | Utilisé par Brian Eno et d'autres. Traitement du son compact mais polyvalent. |
 | années 1970 | Magnétophone Revox | Traitement du son ambiant avec boucle de bande et système flipback. |
-| années 1980 | YamahaDX7 | Son transparent provenant d'une source sonore FM. Un symbole de l'ambiance des années 80. |
+| années 1980 | YamahaDX7 | Son transparent de la source sonore FM. Un symbole de l'ambiance des années 80. |
 | années 1980 | Roland Juno-60 | Ton de corde chaud adapté à l'espace méditatif. |
 | années 1980 | Fairlight CMI | Échantillonneur coûteux. Introduire des sons naturels et des effets sonores dans la musique ambiante. |
 | années 1990 | Akai S1000/S3000 | Un échantillonneur classique prenant en charge la musique ambiante de club. |

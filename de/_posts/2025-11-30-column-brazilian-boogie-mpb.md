@@ -76,7 +76,7 @@ Zu den repräsentativen Künstlern gehören **Tim Maia, Cassiano, Hyldon und Car
 | Tim Maia | 1960er-1998 | *Racional*, *Tim Maia Disco Club* | Souliger, funkorientierter Disco-Stil |
 | Cassiano | 1970er Jahre | *Realce* | Sanfter Funk, raffinierter Groove |
 | Hyldon | 1970er Jahre | *Na Rua, Na Chuva, Na Fazenda* | Funk x MPB, Club-Popularität |
-| Carlos Dafé | 1970er-1980er Jahre | *Brasilien Afrosamba* | Afro-Samba und Funk-Fusion |
+| Carlos Dafé | 1970er-1980er Jahre | *Brasilien Afrosamba* | Fusion aus Afro-Samba und Funk |
 
 ### 2-1. Tim Maia
 

@@ -76,11 +76,11 @@ Par exemple, si vous suivez les balises « Eurobeat Remake » et « Nightcore Re
 Vous pouvez voir que d’innombrables morceaux sont créés à l’intersection de l’EDM, de la culture anime et de la musique de jeu.
 
 La montée en puissance de l’EDM, la coupe vocale de l’Hyperpop, l’ascenseur mélodique de la Trance.
-Ce qui les traverse, c'est l'idée d'un « son qui conçoit l'élévation ».
+Ce qui les traverse, c’est l’idée d’un « son qui conçoit l’élévation ».
 Et l’origine de cette philosophie n’est autre que l’Eurobeat des années 90.
 
 > "La vitesse est le langage de l'époque."
-> — producteur anonyme d'Eurobeat, entretien de 1998
+> — producteur anonyme d'Eurobeat, interview de 1998
 
 Ce mot prend désormais un nouveau sens à l’ère de la musique générative.
 La vitesse n'est pas seulement un tempo, mais existe comme la vitesse à laquelle les émotions sont calculées.
@@ -106,7 +106,7 @@ Il s’agit d’une reconstitution technologique de ce qu’Initial D faisait av
 
 Les paysages sonores jouent un rôle important dans les environnements de conduite virtuels.
 Bruit du vent, frottement des pneus, échos des tunnels, fluctuations du moteur...
-En synchronisant tout cela sur un tempo de type Eurobeat, le sentiment d’immersion augmente considérablement.
+En synchronisant tout cela sur un tempo de type Eurobeat, le sentiment d'immersion augmente considérablement.
 
 « Touge » est désormais dans un casque VR.
 Et les sons émis à l'intérieur ne sont pas une reconstitution du passé, mais sont reconstruits comme des **futurs souvenirs de conduite**.
@@ -146,9 +146,9 @@ L'ère où « votre conduite devient une chanson » commence déjà à devenir
 
 ### ● La renaissance d'Eurobeat sur SNS
 
-Sur TikTok et YouTube, le nombre de publications combinant « Eurobeat x votre propre vidéo de conduite » a augmenté de manière explosive.
+Sur TikTok et YouTube, le nombre de publications combinant « Eurobeat x propre vidéo de conduite » a augmenté de manière explosive.
 Il ne s'agit pas seulement de nostalgie, mais fonctionnent comme un « nouveau format pour partager la sensation de conduire ».
-Il s'agit, pour ainsi dire, d'un « support de partage rapide ».
+Il s'agit, pour ainsi dire, d'un « média de partage rapide ».
 
 ### ● NFT/Blockchain et redéfinition de la propriété musicale
 
@@ -160,7 +160,7 @@ Eurobeat se transforme ainsi en **Accélération Sauvée**.
 
 ## 6. Conclusion : Eurobeat peut-il se transformer en « accélération sauvée » ?
 
-Ce que « Initial D » présentait était une « théorie sensorielle de la vitesse » dans laquelle les voitures et la musique ne faisaient plus qu'un.
+Ce que « Initial D » présentait était une « théorie sensorielle de la vitesse » dans laquelle les voitures et la musique ne faisaient qu'un.
 Cet esprit continue de perdurer, quoique sous une forme différente à l’ère numérique.
 L'Eurobeat est relancé non pas comme une chose nostalgique, mais comme un support qui enregistre, joue et génère de la vitesse.
 
@@ -208,7 +208,7 @@ flowchart TD
 Les phares qui éclairaient autrefois le col,
 Nous parcourons désormais d’innombrables espaces virtuels via des écrans et des haut-parleurs.
 
-> L'Eurobeat n'est pas fini.
+> L'Eurobeat n'est pas terminé.
 > Il s'agit simplement de changer d'endroit où vous courez.
 
 ---

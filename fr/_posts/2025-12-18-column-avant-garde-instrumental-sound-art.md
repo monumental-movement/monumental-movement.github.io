@@ -20,9 +20,9 @@ title: '[Chronique] Art instrumental/sonore d''avant-garde'
 
 Texte : mmr｜Thème : En nous concentrant sur Alvin Lucier et Christian Fennesz, nous organiserons la lignée continue depuis les expériences sonores analogiques jusqu'au traitement numérique et clarifierons la structure de l'art sonore, y compris sa relation avec les images.
 
-Depuis le XXe siècle, la musique s’est éloignée du cadre de l’art temporel centré sur la mélodie et l’harmonie pour s’étendre à un domaine d’expression complet incluant les phénomènes physiques, l’espace et le support d’enregistrement lui-même. L’art instrumental et sonore d’avant-garde n’est pas une forme qui met en valeur l’habileté ou la capacité d’interprétation d’un instrument, mais présente plutôt l’ensemble du processus par lequel le son est généré, propagé, réfléchi, modifié et perçu comme une œuvre.
+Depuis le XXe siècle, la musique s’est éloignée du cadre de l’art temporel centré sur la mélodie et l’harmonie pour s’étendre à un domaine d’expression complet incluant les phénomènes physiques, l’espace et le support d’enregistrement lui-même. L’art instrumental et sonore d’avant-garde n’est pas une forme qui met en valeur l’habileté et la capacité d’interprétation d’un instrument, mais présente plutôt l’ensemble du processus par lequel le son est généré, propagé, réfléchi, modifié et perçu comme une œuvre.
 
-Dans ce domaine, les œuvres musicales ne sont pas nécessairement réduites à des partitions musicales et la possibilité de rejouabilité n'est pas non plus supposée. Le travail existe plutôt comme un ensemble de conditions, produisant à chaque fois des résultats différents. Ce qui importe ici, plutôt que les intentions du compositeur, c'est la structure elle-même, c'est-à-dire la manière dont les phénomènes acoustiques naissent et se connectent à l'espace et à la technologie.
+Dans ce domaine, les œuvres musicales ne sont pas nécessairement réduites à des partitions musicales, et la possibilité de rejouabilité n'est pas non plus supposée. Le travail existe plutôt comme un ensemble de conditions, produisant à chaque fois des résultats différents. Ce qui importe ici, plutôt que les intentions du compositeur, c'est la structure elle-même, la manière dont le phénomène acoustique se présente et se connecte à l'espace et à la technologie.
 
 ---
 
@@ -46,7 +46,7 @@ color: #fff;
 
 Depuis les années 1950, avec le développement des studios de musique électronique, le son s’est séparé de la performance des instruments de musique et est devenu un objet manipulable comme un signal. Des technologies telles que la bande magnétique, les oscillateurs et les filtres ont permis d'enregistrer, de traiter et de réorganiser le son.
 
-Avec ce changement, les œuvres musicales ne se limitent plus aux salles de spectacle, mais s'installent dans les musées, les galeries et les espaces publics. Le concept d'art sonore a été utilisé pour désigner un groupe d'œuvres qui utilisent le son comme matériau principal, mais ne suivent pas nécessairement les systèmes musicaux ou les conventions de performance.
+Avec ce changement, les œuvres musicales ne se limitent plus aux salles de spectacle, mais s'installent dans les musées, les galeries et les espaces publics. Le concept d'art sonore a été utilisé pour désigner un groupe d'œuvres qui utilisent le son comme matériau principal mais ne suivent pas nécessairement les systèmes musicaux ou les conventions de performance.
 
 ### 1-2 De l'art temporel à l'art spatial
 
@@ -167,7 +167,7 @@ En art sonore, l’écoute n’est pas un acte passif. Les spectateurs bougent, 
 * Années 1960 : Musique expérimentale et minimalisme
 * Années 1970 : l'installation sonore s'installe
 * Années 1990 : traitement numérique du signal et ordinateurs portables
-* Après les années 2000 : Intégration avec les images et l'espace
+* Après les années 2000 : Intégration avec les images et l'espace
 
 ---
 

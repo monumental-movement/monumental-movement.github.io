@@ -11,7 +11,7 @@ tags:
 - Techno
 - Synth-pop
 - 00s
-title: 盧克·斯萊特 – 好吧在上面
+title: 盧克·斯萊特——好吧在上面
 ---
 
 

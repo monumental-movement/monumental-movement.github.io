@@ -18,7 +18,7 @@ Ein Tech-House-Track des in Stockholm ansässigen DJs, Produzenten und Multiinst
 
 Mikael Nordgren tritt auch unter dem Namen Tiger Stripes auf.
 
-„The Loup-Garou EP“ wurde 2003 auf Wave Music veröffentlicht, einem Label von François Kevorkian (Francois K).
+„The Loup-Garou EP“ wurde 2003 von Wave Music veröffentlicht, einem Label von François Kevorkian (Francois K).
 
 #### Trackliste
 ```md

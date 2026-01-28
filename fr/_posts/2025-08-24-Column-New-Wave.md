@@ -17,7 +17,7 @@ title: '[Chronique] New Wave : L''intersection de l''innovation musicale post-p
 ## La New Wave n'est pas seulement un genre, mais une « sensibilité de l'époque » qui hérite de l'esprit expérimental de l'ère post-punk et fusionne diverses musiques et cultures.**
 
 
-Texte : mmr｜Thème : Mouvements artistiques à l’ère post-punk
+Texte : mmr｜Thème : Mouvement artistique de l'ère post-punk
 
 <hr>
 
@@ -43,7 +43,7 @@ Avec la diffusion des synthés analogiques et des boîtes à rythmes, des sons m
 
 - **Cross-genre**
 
-Ils ont librement incorporé des rythmes funk (Talking Heads), des grooves reggae (The Police) et des sensations de danse disco (Blondie), transcendant les frontières des genres.
+Ils ont librement incorporé des rythmes funk (Talking Heads), des grooves reggae (The Police) et une sensation de danse disco (Blondie), transcendant les frontières des genres.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zPwMdZOlPo8?si=P34k6oSAFvO22UK3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

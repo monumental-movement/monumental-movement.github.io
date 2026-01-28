@@ -14,7 +14,7 @@ title: 부족한 – 이성 옆에 가십시오
 ---
 
 
-Scanty라고도 알려진 Richard Marshall은 런던을 기반으로 활동하는 DJ이자 프로듀서로 수년에 걸쳐 다양한 이름으로 많은 유명 클럽 음반을 제작해 왔습니다.
+Scanty로도 알려진 Richard Marshall은 런던을 기반으로 활동하는 DJ이자 프로듀서로, 수년에 걸쳐 다양한 이름으로 많은 유명 클럽 음반을 제작해 왔습니다.
 
 "Get Next To The Opposite Sex"는 Garry Blackburn과 Norman Cook의 레이블인 Southern Fried Records가 2001년에 발매한 하우스/테크 하우스의 노래입니다.
 

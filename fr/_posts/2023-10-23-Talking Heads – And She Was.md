@@ -14,7 +14,7 @@ title: Têtes parlantes – et elle l’était
 ---
 
 
-"And She Was" est un single extrait du sixième album du groupe de rock américain Talking Heads "Little Creatures", sorti en 1985.
+"And She Was" est un single extrait du sixième album "Little Creatures" du groupe de rock américain Talking Heads, sorti en 1985.
 
 La veste est de l'artiste américain Howard Finster.
 

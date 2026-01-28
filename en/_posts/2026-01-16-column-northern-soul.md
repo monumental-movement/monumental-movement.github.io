@@ -64,7 +64,7 @@ The musical foundation of Northern Soul lies in soul music produced in America. 
 
 A British club DJ unearths works by unknown artists recorded in Detroit, Chicago, Los Angeles, Philadelphia, and even southern regions such as Alabama and Texas. Although these songs never charted in the United States, they had the power to set dance floors ablaze in northern England.
 
-DJs went directly to the United States to make purchases, finding inventory hidden in the backs of warehouses, radio stations, and record stores. As a result, the rarity of records in which no one else had them became valuable, and a "one-of-a-kind culture" unique to Northern Soul was formed.
+DJs went directly to the United States to make purchases, scouring inventory hidden in the backs of warehouses, radio stations, and record stores. As a result, the rarity of records in which no one else had them became valuable, and a "one-of-a-kind culture" unique to Northern Soul was formed.
 
 > Northern Soul was a cross-border culture that was established through the rediscovery and reappraisal of black American music.
 
@@ -73,7 +73,7 @@ DJs went directly to the United States to make purchases, finding inventory hidd
 ## Club culture and the role of the DJ
 
 
-In Northern Soul, DJs were not just music selectors, but cultural curators. Song selection was extremely strategic and competitive, as the records owned by a particular DJ were directly linked to the club's reputation.
+In Northern Soul, DJs were not just music selectors, but cultural curators. Song selection was highly strategic and competitive, as the records owned by a particular DJ were directly linked to the club's reputation.
 
 Typical clubs include Manchester's Twisted Wheel and the later iconic Wigan Casino. All-night events were common at these clubs, with dancers dancing for hours on end.
 

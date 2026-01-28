@@ -20,7 +20,7 @@ title: Holen Sie sich New-Age-Werke
 ### Schahawkie Roth – Tanz des Tao
 <a href="https://jp.mercari.com/item/m91290785378?afid=6142608987"><img src="../assets/images/Schawkie%20Roth%20%E2%80%93%20Dance%20Of%20The%20Tao.webp"></a>
 
-Charakteristik: Schahawkie Roth ist ein Komponist, der sich auf Heilung, Meditation, Entspannungsmusik und akustischen Jazz spezialisiert hat und als einer der Pioniere der spirituellen New-Age-Musik gilt.
+Charakteristik: Schahawkie Roth ist ein auf Heilung, Meditation, Entspannungsmusik und akustischen Jazz spezialisierter Komponist und gilt als einer der Pioniere der spirituellen New-Age-Musik.
 
 
 Charme: Dieses Stück ist eine Fusion aus östlicher Philosophie und westlicher Musik und eignet sich perfekt für Meditation und Entspannung.
@@ -139,7 +139,7 @@ B3. Transcendastral Voyage
 <a href="https://jp.mercari.com/item/m74371119901?afid=6142608987"><img src="../assets/images/Steve%20Reid%20%E2%80%93%20Bamboo%20Forest.webp"></a>
 
 
-Features: Ein Werk des amerikanischen Jazz-Percussionisten und Produzenten Stephen Reed.
+Features: Ein Werk des amerikanischen Jazz-Perkussionisten und Produzenten Stephen Reed.
 
 
 Charme: Spirituelle Musik, die Jazzelemente einbezieht, dieses Werk lässt Sie eins mit der Natur werden.

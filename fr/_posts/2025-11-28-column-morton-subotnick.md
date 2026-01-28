@@ -11,7 +11,8 @@ tags:
 - Buchla
 - Modular
 - Ambient
-title: 【コラム】 Morton Subotnick：電子音楽の革新者とBuchlaが築いた現代音楽の地層
+title: '[Chronique] Morton Subotnick : Un innovateur de la musique électronique et
+  des strates de musique contemporaine construites par Buchla'
 ---
 
 
@@ -22,14 +23,14 @@ title: 【コラム】 Morton Subotnick：電子音楽の革新者とBuchlaが�
 
 
 
-# **序章：Morton Subotnick とは何者か**
+# **Prologue : Qui est Morton Subotnick**
 
-文：mmr｜テーマ：電子音楽の革新者が切り拓いた“コントローラブルな未来”について
+Texte : mmr｜Thème : À propos du « futur contrôlable » lancé par les innovateurs de la musique électronique
 
-Morton Subotnick（1933– ）は、アメリカの現代音楽家、電子音楽作曲家であり、**世界で初めてシンセサイザーのみで制作された商業レコード「Silver Apples of the Moon」（1967）** を発表した人物として広く知られている。
-この作品はクラシック専門レーベルである Nonesuch Records からリリースされ、当時としては前例のない形で電子音を“作品”として提示した点で画期的であった。
+Morton Subotnick (1933–) est un musicien contemporain américain et compositeur de musique électronique, largement connu comme la personne qui a sorti le premier disque commercial au monde entièrement produit à l'aide de synthétiseurs, Silver Apples of the Moon (1967).
+Cette œuvre est sortie chez Nonesuch Records, label spécialisé dans la musique classique, et était révolutionnaire dans la mesure où elle présentait les sons électroniques comme une « œuvre » d'une manière inédite à l'époque.
 
-Subotnick の革新は単に電子音楽の作曲にとどまらず、**Buchla の西海岸系シンセサイザー開発におけるキーパーソン**としても重要であり、現代のモジュラーシンセ文化まで連なる長期的な影響を持っている。
+Les innovations de Subotnick vont au-delà de la simple composition de musique électronique ; il est également important en tant que personnage clé dans le développement du synthétiseur Buchla de la côte ouest et a eu une influence à long terme sur la culture des synthés modulaires modernes.
 
 ---
 
@@ -47,10 +48,10 @@ color: #fff;
 </style>
 
 
-# **1. 幼少期と音楽教育**
+# **1. Petite enfance et éducation musicale**
 
-Morton Subotnick は 1933 年、ロサンゼルスに生まれた。
-幼い頃からクラリネットを学び、10代で既に地域オーケストラで演奏するなど、高度な音楽教育を受けていた。
+Morton Subotnick est né à Los Angeles en 1933.
+Il a reçu une formation musicale avancée, apprenant à jouer de la clarinette dès son plus jeune âge et se produisant déjà dans un orchestre local à l'adolescence.
 Il a ensuite rejoint l'armée et grâce à son expérience de performance là-bas, il a renforcé son attitude professionnelle envers la musique.
 
 Après sa retraite, Subotnick développe un intérêt pour les « nouvelles formes d'expression » à travers des collaborations avec le Los Angeles Music Center et des danseurs et, à partir de la fin des années 1950, il se tourne vers la musique d'avant-garde.
@@ -227,7 +228,7 @@ graph TD
 
 ---
 
-# **Conclusion : quel héritage les réalisations de Subotnick ont-elles laissé ?**
+# **Conclusion : Quel héritage les réalisations de Subotnick ont-elles laissé ?**
 
 La réussite de Morton Subotnick réside dans la réinvention du cadre même de la musique électronique.
 Il a élevé le son électronique de la « manipulation du timbre » à la « génération structurelle », et le système qu'il a créé avec Buchla est le fondement de la culture des synthés modulaires d'aujourd'hui.

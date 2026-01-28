@@ -13,9 +13,9 @@ title: Dario G – Carnaval De Paris
 ---
 
 
-Dario G（ダリオG）は、UKのDJ/プロデューサーPaul Spencer（ポール・スペンサー）によるダンスミュージックプロジェクト。
+Dario G est un projet de musique dance du DJ/producteur britannique Paul Spencer.
 
-A面２曲目はDarren PearceとJulian Napolitanoによるユニット、JDSによるremix。B面は、UKのDJ/プロデューサー/リミキサーTall Paul（Paul Newman/ポール・ニューマン　別名義：Camisra/カミスラ）によるremix。
+Le deuxième morceau de la face A est un remix de JDS, une unité composée de Darren Pearce et Julian Napolitano. La face B est un remix du DJ/producteur/remixeur britannique Tall Paul (Paul Newman, également connu sous le nom de Camisra).
 
 #### Liste des chansons
 ```md

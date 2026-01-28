@@ -13,7 +13,7 @@ title: Merzbow – Merzbird
 ---
 
 
-Merzbowの「Merzbird」は、アメリカのレーベルImportant Recordsから2004年にリリースされました。
+"Merzbird" de Merzbow est sorti en 2004 par le label américain Important Records.
 
 #### Liste des chansons
 ```md

@@ -19,9 +19,9 @@ title: '[Kolumne] Die Illusion von EDM: Feiern und Wiederaufbau im digitalen Zei
 ## Es gibt einen Moment, in dem Klang zur Architektur wird
 
 
-Text: mmr | Thema: Festivals und Städte, Ton und Licht, Menschenmassen und Technologie. Wie hat das Phänomen EDM die Form von Feierlichkeiten im 21. Jahrhundert verändert?
+Text: mmr｜Thema: Festivals und Städte, Ton und Licht, Menschenmassen und Technologie. Wie hat das Phänomen EDM die Form von Feierlichkeiten im 21. Jahrhundert verändert?
 
-Ein Laserlichtblitz zerteilt den Nachthimmel, der Bass zittert tief in seinem Körper und unzählige Arme heben sich gleichzeitig.
+Ein Laserlichtblitz zerteilt den Nachthimmel, der Bass vibriert tief in seinem Körper und unzählige Arme heben sich gleichzeitig.
 Das Phänomen „EDM“ war mehr als nur ein Musikgenre, es war eine Feier des digitalen Zeitalters.
 In den 2010er Jahren wurden Städte auf der ganzen Welt durch den Klang neu geformt. Die Wüste von Las Vegas, die Wälder Belgiens, die Bucht von Tokio.
 In dieser Kolumne werfen wir einen Blick auf die Entstehung, Transformation und „Darüber hinaus“ von EDM aus der Schnittstelle von Klang, Licht, Körper und Technologie.
@@ -92,7 +92,7 @@ Tomorrowland, Ultra, EDC.
 Mittlerweile kennt jeder diese drei Initialen.
 
 Die Bühne ist nicht nur ein Bühnenbild, sondern eine **architektonische Installation**.
-Ein Bildschirm umhüllt den Wald und Feuerwerk überzieht den Himmel.
+Ein Bildschirm umhüllt den Wald und Feuerwerkskörper verweben den Himmel.
 Das Publikum wird zu „Lichtteilchen“ und Ton und Bild werden synchronisiert.
 EDM-Festivals waren ein neues Gemeinschaftsritual, das durch Technologie geschaffen wurde.
 

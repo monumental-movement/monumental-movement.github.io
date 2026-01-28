@@ -13,7 +13,7 @@ title: Die Dave Howard Singers – Rock On
 ---
 
 
-Die Dave Howard Singers sind eine kultige Alternative-Rock-Band/-Projekt aus Toronto, Kanada.
+Die Dave Howard Singers sind eine kultige Alternative-Rock-Band/ein Alternative-Rock-Projekt, die in Toronto, Kanada, gegründet wurde.
 
 „Rock On“ erschien 1986 und ist ein Cover von David Essex‘ Hit „Rock On“.
 

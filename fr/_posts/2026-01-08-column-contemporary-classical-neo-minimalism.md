@@ -44,7 +44,7 @@ color: #fff;
 
 ## Contexte historique : le classique après le minimalisme
 
-### L'établissement du minimalisme du 20e siècle
+### L'établissement du minimalisme du 20ème siècle
 
 Créé aux États-Unis dans les années 1960 par La Monte Young, Terry Riley, Steve Reich et Philip Glass, le minimalisme se caractérisait par de courtes répétitions, des changements progressifs et des structures métriques claires. Ceci est compris comme une réaction à la musique de céleri de l’époque et à la musique d’avant-garde de plus en plus complexe.
 
@@ -68,7 +68,7 @@ Le terme « classique contemporain » ne fait pas référence à un style strict
 
 ### Changements dans les institutions et l'environnement
 
-Les compositeurs de cette époque ne fondaient pas nécessairement leurs activités principalement sur des commandes d'orchestres ou d'opéras. Les home studios, les labels indépendants et la distribution numérique jouent un rôle important.
+Les compositeurs de cette époque ne basaient pas nécessairement leurs activités principalement sur des commandes d'orchestres ou d'opéras. Les home studios, les labels indépendants et la distribution numérique jouent un rôle important.
 
 Une autre particularité est que les œuvres enregistrées sont considérées comme aussi importantes, sinon plus, que les concerts.
 

@@ -8,7 +8,7 @@ layout: post
 permalink: /ko/lev-lee-at-night-in-ljubljana/
 tags:
 - Techno
-title: 레프 리 – 류블랴나의 밤
+title: 레프 리 - 류블랴나의 밤에
 ---
 
 

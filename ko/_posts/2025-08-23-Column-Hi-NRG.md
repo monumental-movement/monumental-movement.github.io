@@ -35,7 +35,7 @@ Hi-NRG는 게이 클럽에서 특히 강한 지지를 받았습니다. 1970년�
 ### LGBTQ에서 Hi-NRG의 역할
 🌈 자유의 상징
 
-동성애가 여전히 차별과 편견의 대상이던 시대에 Hi-NRG는 “누구에게도 얽매이지 않고 서로 춤추고 사랑할 수 있는 공간”을 제공했습니다. 클럽 댄스 플로어는 사회의 억압에서 벗어날 수 있는 안전한 공간이었고, 배경음악으로 Hi-NRG가 꼭 필요했습니다.
+동성애가 여전히 차별과 편견의 대상이던 시대에 Hi-NRG는 “누구에게도 얽매이지 않고 서로 춤추고 사랑할 수 있는 공간”을 제공했습니다. 클럽 댄스 플로어는 사람들이 사회의 억압에서 벗어날 수 있는 안전한 공간이었고, 배경음악으로 Hi-NRG가 꼭 필요했습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fRnBNo9TWNY?si=OW8j9TwpoJe9s09l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -43,8 +43,8 @@ Hi-NRG는 게이 클럽에서 특히 강한 지지를 받았습니다. 1970년�
 
 🌈 정체성 표현
 
-Hi-NRG의 가사는 사랑, 욕망, 자기해방을 주제로 한 경우가 많으며, 이성애뿐 아니라 LGBTQ의 간절한 감정도 울려퍼진다.
-예를 들어 Evelyn Thomas의 'High Energy'와 Hazell Dean의 'Searchin''은 게이 찬가로 클럽 장면에 깊이 각인되었습니다.
+Hi-NRG의 가사에는 사랑, 욕망, 자기해방이라는 주제가 자주 등장하며, 이성애뿐 아니라 LGBTQ의 간절한 감정도 울려퍼진다.
+예를 들어 Evelyn Thomas의 'High Energy'와 Hazell Dean의 'Searchin''은 게이 찬가로 클럽 현장에 깊이 각인되었습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QB6hAUyGV6s?si=lxPfdml0Iihb6Mka" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -74,7 +74,7 @@ Bobby Orlando의 신성한 노래(예: "You Think You're a Man")는 Hi-NRG와 �
 
 **신성한**
 
-드랙퀸으로 활동하던 중, Hi-NRG로 전 세계적으로 주목을 받았다. 그들은 과감하게 성적 표현을 선보였으며 음악과 젠더 정치를 통합했습니다.
+드랙퀸으로 활동하던 중, Hi-NRG로 전 세계적으로 주목을 받았다. 그들은 성적 표현을 과감하게 드러내며 음악과 젠더 정치학을 통합했다.
 
 **에블린 토마스**
 시그니처곡 'High Energy'로 장르를 정의한 디바. 게이 클럽에서 폭발적인 인기를 끌며 Hi-NRG를 전 세계로 퍼뜨렸습니다.

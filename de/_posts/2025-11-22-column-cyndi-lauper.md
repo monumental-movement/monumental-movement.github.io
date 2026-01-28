@@ -54,11 +54,11 @@ Ihre Mutter liebte die Stimme jedoch sehr. Denn selbst in schwierigen Familiensi
 
 # **3. Jugend: Rebellischer Geist und Neigung zur Kunst**
 
-In ihrer Jugend wandte sich Cindy der Kunst zu, malte, schrieb Gedichte und probierte alles Kreative aus. Ich habe versucht, eine Kunsthochschule zu besuchen, aber selbst dort konnte ich mich nicht an die Umgebung anpassen, in der ich von „Regeln“ und „richtigem Ausdruck“ besessen war.
+In ihrer Jugend wandte sich Cindy der Kunst zu und versuchte alles Kreative, einschließlich Malen und Schreiben von Gedichten. Ich habe versucht, eine Kunsthochschule zu besuchen, aber selbst dort konnte ich mich nicht an die Umgebung anpassen, in der ich von „Regeln“ und „richtigem Ausdruck“ besessen war.
 
 Das Leben von Cyndi Lauper hat ein einheitliches Thema. Es ist ein starker Wille, der sagt: „Ich möchte ich selbst sein.“ Dieser Wille wurde geschärft, als sie etwa 20 Jahre alt war und durch die überfüllten Straßen von New York zog.
 
-Während dieser Zeit trug sie einzigartige Modekombinationen in Secondhand-Läden und auf Flohmärkten. Die „einzigartige und farbenfrohe Mode“, die später auf den Markt kam, entstand zum Teil, weil die Menschen es sich in der Armut nicht leisten konnten, neue Artikel zu kaufen.
+Während dieser Zeit trug sie einzigartige Modekombinationen in Secondhand-Läden und auf Flohmärkten. Die „einzigartige und farbenfrohe Mode“, die später auf den Markt kam, entstand zum Teil, weil sich die Menschen in der Armut keine neuen Artikel leisten konnten.
 
 Die Wurzeln der Musik sind Soul, Blues, Rock und Musicals. Die Stadt New York war für sie die beste „kostenlose Musikhochschule“.
 
@@ -114,7 +114,7 @@ Mit dem Aufstieg von MTV traten wir in eine Ära ein, in der Bilder die Musik be
 
 ---
 
-## **7-1. Ein tiefer Einblick in repräsentative Songs**
+## **7-1. Tauchen Sie tief in repräsentative Songs ein**
 
 ### **Mädchen wollen einfach nur Spaß haben**
 
@@ -150,7 +150,7 @@ Es gibt drei Gründe.
 2. **Die Wärme ihrer Persönlichkeit**
 3. **Besondere Affinität zu Japan**
 
-Sie genießt jedes Mal, wenn sie Japan besucht, japanisches Essen und freundet sich schnell mit den Mitarbeitern vor Ort an. Als er während der Japan-Tournee 1994 hörte, dass sich im Publikum ein Fan mit einer Behinderung befand, nahm er sich nach der Bühne Zeit, um ihn persönlich zu treffen.
+Sie genießt jedes Mal, wenn sie Japan besucht, japanisches Essen und freundet sich schnell mit den Mitarbeitern vor Ort an. During the 1994 Japan tour, when he heard that there was a fan with a disability in the audience, he took time after the stage to meet him in person.
 
 Darüber hinaus wurde das Album „Shine“ aus dem Jahr 2001 nur in Japan veröffentlicht. Dies soll eine Möglichkeit gewesen sein, „den japanischen Fans etwas zurückzugeben“.
 
@@ -171,7 +171,7 @@ Währenddessen verursacht Cindy einen „Zwischenfall“.
 Die zahlreichen Accessoires, die sie um den Hals trug, trafen das Mikrofon und verursachten ein klapperndes Geräusch.
 
 Ingenieur: „Was ist das für ein Geräusch?“
-Quincy Jones: „Cindy, kannst du... das ertragen?“
+Quincy Jones: „Cindy, kannst du... das nehmen?“
 
 Cindy brach in Gelächter aus und sagte: „Oh, tut mir leid!“ Als sie ihre Accessoires abnahm, soll sich die Atmosphäre sofort entspannt haben.
 
@@ -183,7 +183,7 @@ Dieser Vorfall wurde als eine Episode überliefert, die Cindys „Fähigkeit, Sp
 
 # **10. Ende der 80er bis 90er: Vom Popstar zum Künstler**
 
-Von Ende der 80er bis in die 90er Jahre war Cindy hin- und hergerissen zwischen kommerziellem Erfolg und dem Wunsch nach künstlerischem Ausdruck.
+Von den späten 80ern bis in die 90er Jahre schwankte Cindy zwischen kommerziellem Erfolg und dem Wunsch nach künstlerischem Ausdruck.
 
 ### **Der Hut voller Sterne (1993)**
 
@@ -201,11 +201,11 @@ Cindy legte keinen Wert darauf, „erfolgreiche Formen zu wiederholen“ und leg
 
 # **12. Herausforderung am Broadway: Gewinnt den Tony Award für „Kinky Boots“**
 
-2013 war er für Text und Komposition des Musicals „Kinky Boots“ verantwortlich und gewann den Tony Award für den besten Originalsong.
+2013 war er für den Text und die Komposition des Musicals „Kinky Boots“ verantwortlich, das ihm den Tony Award für den besten Originalsong einbrachte.
 
 Ursprünglich wuchs Cindy nicht nur als Sängerin auf, sondern war auch stark von der Ausdruckskultur wie Film und Theater beeinflusst. Dies wurde in Form des Broadway verwirklicht.
 
-In dieser Arbeit vermittelt sie eindringlich die Botschaft, dass es in Ordnung ist, sein Leben so zu leben, wie man ist. Es ist auch ihre eigene Lebensphilosophie und hat große Unterstützung von der LGBTQ-Community erhalten.
+In dieser Arbeit vermittelt sie eindringlich die Botschaft, dass es in Ordnung ist, sein Leben so zu leben, wie man ist. Dies ist auch ihre eigene Lebensphilosophie und hat große Unterstützung von der LGBTQ-Community erhalten.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8pltkucgl5w?si=w1KxlxWJdT0hlFZh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -230,7 +230,7 @@ In den 2020er Jahren gab Cyndi Lauper ihren Abschied bekannt (nicht ihren Ruhest
 Aber sie geht nicht in den Ruhestand.
 Dies zeigt den starken Wunsch, kulturelle Aktivitäten auch über die Musik hinaus fortzusetzen.
 
-Jüngere Generationen entdecken Cindy jetzt über YouTube und TikTok wieder und schätzen ihre Stimme, Mode und Lebensweise.
+Jetzt entdecken jüngere Generationen Cindy über YouTube und TikTok wieder und schätzen ihre Stimme, Mode und Lebensweise.
 
 ---
 

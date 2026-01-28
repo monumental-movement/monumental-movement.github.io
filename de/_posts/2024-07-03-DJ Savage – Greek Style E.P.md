@@ -14,7 +14,7 @@ title: DJ Savage – E.P. im griechischen Stil
 
 
 DJ Savage ist ein erfahrener DJ und Produzent aus Griechenland.
-„Griechischer Stil E.P.“ ist ein Techno-Track, der 2001 auf dem britischen Label Contrast veröffentlicht wurde, das von Marco Lenzi und Nils Hess gegründet wurde.
+„Griechischer Stil E.P.“ ist ein Techno-Track, der 2001 auf dem von Marco Lenzi und Nils Hess gegründeten britischen Label Contrast veröffentlicht wurde.
 
 #### Trackliste
 ```md

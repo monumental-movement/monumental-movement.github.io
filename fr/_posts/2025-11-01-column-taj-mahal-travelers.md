@@ -82,11 +82,11 @@ Il a mis en pratique la philosophie selon laquelle « le lieu lui-même devient 
 
 ---
 
-## V. Voyager à travers le son : de l'Inde à l'Europe (1971-1972)
+## V. Voyager à travers le son : De l'Inde à l'Europe (1971-1972)
 
 En 1971, le Taj Mahal Tour Group part pour une tournée en Europe.
 Leur voyage n’était pas seulement une tournée, mais un « pèlerinage sonore ».
-En extérieur, sans source d’énergie ni scène, le spectacle a été improvisé et résonné avec le vent, l’eau, la foule et les ondes radio.
+En extérieur, sans source d’électricité ni scène, le spectacle a été improvisé et résonné avec le vent, l’eau, la foule et les ondes radio.
 
 ### Itinéraire (carte Sirène)
 
@@ -133,7 +133,7 @@ Il est très apprécié comme un « paysage sonore » qui combine parfaitement l
 
 Il n'y a ni rythme ni mélodie sur l'album.
 Au lieu de cela, le son du vent, les sons électroniques, les voix et la résonance des cordes se croisent doucement,
-Il présente une expérience qui invite l'auditeur « à l'intérieur du son ».
+Il présente une expérience qui invite l'auditeur à entrer « à l'intérieur du son ».
 
 ---
 
@@ -147,7 +147,7 @@ Il a également influencé Brian Eno et Robert Ashley.
 
 ---
 
-##IX. Activités ultérieures et évaluation
+##IX. Activités et évaluation au cours des années suivantes
 
 Depuis les années 1980, Kosugi est directeur musical de la Merce Cunningham Dance Company.
 Tout en héritant de la philosophie de John Cage, il approfondit l'intégration de la danse et du son.
@@ -172,13 +172,13 @@ C’est le message le plus important que Kosugi nous a laissé.
 | 1960 | Diplômé de la Faculté de Musique de l'Université des Arts de Tokyo |
 | 1961-63 | Participation à des activités de musique expérimentale d'avant-garde avec Kei Ichiyanagi, Toru Takemitsu et d'autres |
 | 1964 | ``Musique Collective'' formée, interprétée avec Cage & Tudor |
-| 1965-68 | Performances de type Fluxus (Sogetsu Art Center, etc.) |
+| 1965-1968 | Performances de type Fluxus (Sogetsu Art Center, etc.) |
 | 1969 | Création du « Taj Mahal Travel Group » |
 | 1971-1972 | Pèlerinage musical de l'Inde à l'Europe |
-| 1972 | 《Les voyageurs du Taj Mahal – 15 juillet 1972》 Annonce |
+| 1972 | 《Voyageurs du Taj Mahal – 15 juillet 1972》Annonce |
 | 1975 | Sortie de l'œuvre solo « Catch-Wave » |
 | 1977-90 | Directeur musical de la Merce Cunningham Dance Company |
-| 2018 | Décédé. Il est décédé à l'âge de 80 ans. |
+| 2018 | Décédé. Décédé à l'âge de 80 ans. |
 
 ---
 
@@ -196,7 +196,7 @@ C’est le message le plus important que Kosugi nous a laissé.
 
 ---
 
-## Conclusion – Liberté de son et de prière
+## Conclusion - liberté de son et de prière
 
 Le voyage du groupe de tournée du Taj Mahal n’était pas simplement une « performance d’un groupe à l’étranger ».
 C’était un voyage spirituel qui transcendait l’institution musicale et résonnait avec le monde.

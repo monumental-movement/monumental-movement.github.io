@@ -22,7 +22,7 @@ Text: mmr｜Theme: How the reappraisal of 2000s French house connected to Nu Dis
 About analog synths, record culture, and filter house techniques
 
 In the late 2020s, **French Touch** (French house) is being reevaluated in both club and internet culture. In terms of DJ performances, songs like Stardust"s ""Music Sounds Better With You" and Cassius' ""1999" are moving the younger crowd again, and Daft Punk"s early works are finding new audiences through vinyl reissues.
-Furthermore, as domestic and foreign producers actively incorporate *analog synths, tape textures, roughness of sampling, and vinyl lip texture*, they are naturally connecting with the context of **Nu Disco**, which was established in the late 2000s.
+Furthermore, as domestic and foreign producers actively incorporate *analog synths, tape textures, the roughness of sampling, and the texture of vinyl lips*, they are naturally connecting with the context of **Nu Disco**, which was established in the late 2000s.
 
 This phenomenon is not just nostalgia.
 Rather, it is precisely because the digital environment has become completely pervasive that
@@ -50,7 +50,7 @@ color: #fff;
 ## 2. Establishment of French Touch: Situation in Paris in the late 1990s
 ### ● Background: An encounter between house and disco
 In the mid-1990s, the Parisian club scene absorbed American house music while forming a unique structure that brought disco/soul samples to the fore.
-While strongly influenced by Chicago House, house began to function as a new type of ""pop music" as it mixed with a ""sophisticated melodic feel" unique to Europe.
+While the influence of Chicago House was strong, house began to function as a new type of ""pop music" by mixing in the ""sophisticated melodic feel" unique to Europe.
 
 ### ● Existence of label/base
 - **Roulé (Thomas Bangalter)**
@@ -78,7 +78,7 @@ Representative ones are:
 These filter modules have an analog structure, so the overtone fluctuations during sweep are rich. French Touch's sonic image of ""closing and opening the filter'' is created with a texture unique to hardware.
 
 ### ● ② Record sampling and EQ/filter work
-Daft Punk actively employs vinyl noise and textures as part of their music by leaving the sample's sound image "rough".
+Daft Punk actively employs vinyl noise and texture as part of their music by leaving the sample's sound image "rough".
 Especially during the "Discovery" period, instead of polishing the sample to high quality,
 **The aesthetics of making pop music ""just as it was picked up from records**'' is a constant.
 

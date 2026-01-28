@@ -18,7 +18,7 @@ title: Giles Brothers Band – Afro-Asiatische Invasion
 
 „Afro-Asian-Invasion“ ist ein Werk, das vielfältige musikalische Elemente wie exotische Rhythmen, den Einsatz ethnischer Instrumente und einzigartige Harmonien vereint. Obwohl es seine Wurzeln im Jazz hat, vereint es traditionelle Musikstile aus Afrika und Asien und schafft so einen einzigartigen Klang.
 
-Dieses Lied ist Musikliebhabern und Fans der Jazz-Fusion gut bekannt. Seine Einzigartigkeit und Kreativität ziehen die Zuhörer immer wieder in ihren Bann.
+Dieses Lied ist Musikliebhabern und Fans der Jazz-Fusion gut bekannt. Seine Einzigartigkeit und Kreativität faszinieren die Zuhörer immer wieder.
 
 #### Trackliste
 ```md

@@ -17,10 +17,10 @@ title: 松戶由美 – Da・Di・Da
 
 參與音樂家
 ・貝司：高水健二
-・ドラム：林立夫、Mike Baird
+・鼓：Tatsuo Hayashi、Mike Baird
 ・吉他：松原正樹
 ・鍵盤：松戶雅正孝
-・打擊樂：齊藤信、濱口茂
+・打擊樂：齋藤伸、濱口茂
 ・薩克斯管：Jake H. Conception、Ernest J. Watts
 ・合成器編程：Keiji Urata、Chuck Wild
 ・合唱：松戶由美、桐谷仁、桐谷俊博、白鳥惠美子、Hi-Fi Set、角田宏、Mark I、馬文·沃克、馬文·貝克、辛迪

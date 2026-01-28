@@ -132,7 +132,7 @@ Veve"s rhythm section has a distinctive bounce. The hi-hat doesn"t strongly carv
 - **Bass: Repeat descending line → rising line every 4 bars**
 - **Mixing: vocals in the center, guitars separated to left and right**
 
-### Rhythm characteristics
+### Characteristics of rhythm
 
 <div class="mermaid">
 
@@ -152,7 +152,7 @@ graph TD
 
 ### Technical analysis
 
-* **Saxophone presents melody at the beginning → Guitar imitates**
+* **The saxophone presents the melody at the beginning → the guitar imitates**
 * **Vocals are "questions" and choruses are "responses"**
 * **Linear, high-pitched guitar solo**
 
@@ -298,7 +298,7 @@ Veve's musical legacy is
 * **Subdivision of guitar ensemble**
 It has had a deep influence on contemporary Congolese music.
 
-In addition, the system-based music production model, which created a recording infrastructure and fluidly nurtured young performers, served as a major guideline for later label management.
+In addition, the system-based music production model, which created a recording infrastructure and dynamically nurtured young performers, served as a major guideline for later label management.
 
 ---
 

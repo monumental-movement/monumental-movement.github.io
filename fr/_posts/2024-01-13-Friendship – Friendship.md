@@ -30,7 +30,7 @@ Durant son adolescence, il a travaillé comme musicien et acteur au Mexique, ava
 
 A obtenu un baccalauréat en composition en 1972. Pendant ses études, il a également joué avec le vibraphoniste Gary Burton, membre du corps professoral de l'école.
 
-Il tourne ensuite avec des artistes tels que Johnny Mathis, Michel Legrand et Henry Mancini, avant de s'installer à Los Angeles en 1976 et de commencer une carrière d'enregistrement multi-genres en studio.
+Il tourne ensuite avec des artistes tels que Johnny Mathis, Michel Legrand et Henry Mancini, avant de déménager à Los Angeles en 1976 et de commencer une carrière d'enregistrement multi-genres en studio.
 
 Il a joué et enregistré avec de nombreux artistes de jazz, dont George Benson, Larry Carlton, The Crusaders, Ella Fitzgerald, Dave Grusin, Herbie Hancock, Freddie Hubbard, Al Jarreau, John Kremer, Manhattan Transfer, Joe Pass, Joe Sample, Lalo Schifrin, Diane Schur, Sarah Vaughan, Joe Zawinul et d'autres.
 

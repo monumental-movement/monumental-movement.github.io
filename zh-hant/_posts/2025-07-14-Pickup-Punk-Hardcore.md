@@ -76,7 +76,7 @@ B6. Not For Sale
 
 <小時>
 
-### Rytmihairiov/阿門 – 進化的終結……即將來臨
+### Rytmihairiov/阿門——進化的終結……即將來臨
 <a href="https://jp.mercari.com/item/m23657412972?afid=6142608987"><img src="../assets/images/RytmihairiovAmen%20%E2%80%93%20The%20End%20Of%20Evolution...%20...Is%20Round%20The%20Corner.webp"></a>
 
 芬蘭硬核/激流樂隊

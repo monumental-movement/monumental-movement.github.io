@@ -9,7 +9,7 @@ permalink: /de/human-movement-featuring-sophie-moleta-love-has-come-again/
 tags:
 - House
 - Tech House
-title: Menschliche Bewegung mit Sophie Moleta – Love Has Come Again
+title: Human Movement mit Sophie Moleta – Love Has Come Again
 ---
 
 

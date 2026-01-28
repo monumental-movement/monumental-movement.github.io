@@ -20,7 +20,7 @@ title: '[Chronique] Histoire de la Psy-Trance, chefs-d''œuvre et 10 morceaux re
 Texte : mmr｜Thème : Histoire de la Psy-Trance des origines à nos jours
 
 
-La transe goa, issue de la culture hippie/rave de Goa, s'est répandue dans le monde entier au milieu des années 1990 sous le nom de « transe psychédélique ». Depuis, divers genres dérivés (Full-on, Darkpsy, Progressive, Psybient, etc.) ont été créés grâce au raffinement des images sonores et à la numérisation des équipements, et ils se sont mondialisés grâce à la culture des festivals et à la diffusion en ligne.
+La transe Goa, issue de la culture hippie/rave de Goa, s'est répandue dans le monde entier au milieu des années 1990 sous le nom de « transe psychédélique ». Depuis, divers genres dérivés (Full-on, Darkpsy, Progressive, Psybient, etc.) ont été créés grâce au raffinement des images sonores et à la numérisation des équipements, et ils se sont mondialisés grâce à la culture des festivals et à la diffusion en ligne.
 
 Ci-dessous, nous résumerons les tendances par génération, les chefs-d'œuvre représentatifs, les changements d'équipement et **10 pistes recommandées de chaque époque**.
 

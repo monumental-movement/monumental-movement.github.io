@@ -17,7 +17,7 @@ title: '[칼럼] 베이 지역 소음/실험음악 현장 - 파괴와 공명 50�
 
 ## 베이 지역에서는 무슨 일이 일어났나요?
 
-텍스트: mmr|테마: 기계와 콜라주, 즉흥 연주의 교차점 - 베이 에리어에서 자란 노이즈/실험음악의 역사와 추천 음반
+텍스트 : mmr │ 주제 : 기계와 콜라주와 즉흥 연주의 교차점 - 베이 에리어에서 자란 노이즈/실험음악의 역사와 추천 음반
 
 
 
@@ -43,7 +43,7 @@ color: #fff;
 ## 개요
 
 샌프란시스코 베이 지역은 1970년대 후반부터 현재까지 소음/실험 음악의 중요한 중심지였습니다.
-현지에서 재배되는 노이즈/실험음악의 계보를 추적하고 주요 인물/단체, 공연장/축제, 추천 앨범을 연도별로 설명합니다.
+현지에서 재배된 노이즈/실험음악의 계보를 추적하고 주요 인물/단체, 공연장/축제, 추천 앨범을 연도별로 설명합니다.
 
 <div class="mermaid">
 flowchart TD
@@ -67,15 +67,15 @@ flowchart TD
 
 #### 부정적
 
-샘플링/콜라주를 활용한 미디어 비평 작업으로 유명한 샌프란시스코 지역에서 활동하는 그룹입니다. 1980년대 후반의 <소음에서 탈출> 등의 작품은 소음과 대중문화의 교차점을 보여주는 중요한 작품으로, DIY 라디오와 가짜 광고 기법 등을 통해 논란과 관심을 끌었다.
+샘플링/콜라주를 활용한 미디어 비평 작업으로 유명한 샌프란시스코 지역에서 활동하는 그룹입니다. 1980년대 후반 <소음에서 탈출> 등의 작품은 소음과 대중문화의 교차점을 보여주는 중요한 작품으로, DIY 라디오와 가짜 광고 기법 등을 통해 논란과 관심을 끌었다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t8veXrYh1cc?si=YU9J8AUiD9LLiFVe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### Matmos 및 지역 유래
+#### Matmos 및 지역 파생
 
-Matmos는 1990년대 샌프란시스코에서 결성되었으며 샘플링을 사용한 개념적 작업으로 국제적인 호평을 받았습니다. 2000년대 이후로는 예술기관, 현대음악축제와의 연계를 강화하며 실험음악의 '개념적 측면'을 계속해서 선도해왔다.
+Matmos는 1990년대 샌프란시스코에서 결성되었으며 샘플링을 사용한 개념적 작업으로 국제적인 호평을 받았습니다. 2000년대 이후에는 예술기관, 현대음악축제와의 연계를 강화하며 실험음악의 '개념적 측면'을 계속해서 선도해왔다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MvOAA49Usq8?si=h38WAM6UQDKAd6xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -119,7 +119,7 @@ Matmos는 1990년대 샌프란시스코에서 결성되었으며 샘플링을 �
 
 ### 요약(현재/미래)
 
-베이지역의 소음/실험음악은 '파괴'뿐만 아니라 '재편집과 비평'의 행위로 끊임없이 갱신되고 있다. SRL의 기계극장, Negativland의 미디어 비평, Matmos의 사운드 연구 등 모두 음악을 넘어서는 실천을 제시해 왔다. 현재는 디지털 유통과 로컬 DIY의 하이브리드가 진행되고 있으며, 밴드캠프와 지역 페스티벌 등이 젊은 아티스트를 지원하고 있다. 이 장면을 이해하는 가장 좋은 방법은 현장을 듣고 참여하는 것입니다.
+베이 에어리어의 소음/실험음악은 '파괴'뿐만 아니라 '재편집과 비평'의 행위로 끊임없이 업데이트되고 있다. SRL의 기계극장, 네가티브랜드의 미디어 비평, Matmos의 사운드 연구 등 모두 음악을 넘어서는 실천을 제시해 왔다. 현재는 디지털 유통과 로컬 DIY의 하이브리드가 진행되고 있으며, 밴드캠프와 지역 페스티벌 등이 젊은 아티스트를 지원하고 있다. 이 장면을 이해하는 가장 좋은 방법은 현장을 듣고 참여하는 것입니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N6C7afLAsEo?si=yT01CzBfNkY863DB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

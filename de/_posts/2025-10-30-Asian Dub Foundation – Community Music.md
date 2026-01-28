@@ -23,7 +23,7 @@ title: Asian Dub Foundation – Community Musick
 
 Asian Dub Foundation ist eine elektronische Tanzband aus Großbritannien. Ihr Stil ist eine Mischung aus Rap-Rock, Dub, Dancehall, Ragga, Reggae-EDM und südasiatischer Musik.
 
-„Community Music“ erschien im Jahr 2000, zwei Jahre nach dem Erfolgsalbum „Rafi’s Revenge“, und ist das dritte Album der Asian Dub Foundation, das von allen Seiten großes Lob erhielt. Dies war das letzte Album, an dem Deeder Zaman beteiligt war, da Sänger/MC Deeder Zaman die Gruppe Ende des Jahres verließ.
+„Community Music“ erschien im Jahr 2000, zwei Jahre nach dem Hit-Album „Rafi’s Revenge“, und ist das dritte Album der Asian Dub Foundation, das von allen Seiten großes Lob erhielt. Da Sänger/MC Deeder Zaman die Band Ende des Jahres verließ, war dies das letzte Album, an dem Deeder Zaman beteiligt war.
 
 #### Trackliste
 ```md

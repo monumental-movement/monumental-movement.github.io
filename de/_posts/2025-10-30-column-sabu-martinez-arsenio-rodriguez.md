@@ -54,7 +54,7 @@ Dadurch entstand eine vielschichtige rhythmische Struktur.
 * **Soziale Faktoren:** Nach der Abschaffung der Sklaverei bildete sich in Havanna eine afroamerikanische Gemeinschaft und die Professionalisierung schwarzer Musiker schritt voran.
 * **Technische Elemente:** Die Standardisierung der Tres (dreisaitige Gitarre) und Congas ermöglichte die spätere Montuno-Struktur.
 
-Vor diesem Hintergrund entsteht ein blinder Revolutionär namens **Arsenio Rodríguez** (1911–1970).
+Vor diesem Hintergrund erscheint ein blinder Revolutionär namens **Arsenio Rodríguez** (1911–1970).
 
 ---
 
@@ -69,7 +69,7 @@ Als Gegenleistung für dieses Gefühl erlangte er die übernatürliche Fähigkei
 
 - 1. Erweiterter Sohn mit **Kombination aus Trompete und Locken**.
 - 2. **Montuno (repetitiver Teil)** wird als Grundlage des Rhythmus in den Vordergrund gerückt.
-- 3. Konvertieren Sie **Call and Response** in Jazz-Interplay.
+- 3. Wandeln Sie **Call and Response** in Jazz-Interplay um.
 - 4. Klärung des „Tumbao“-Konzepts durch **Stärkung der Grundlinie**.
 
 Dies führte dazu, dass seine Band als „afro-kubanisches Ensemble“ Pionierarbeit leistete.
@@ -80,7 +80,7 @@ Es beeinflusste auch später Tito Puente, Machito und Thelonious Monk.
 
 ---
 
-## **Kapitel 3: Sabu Martinez – Schlage den Dichter mit Feuer**
+## **Kapitel 3: Sabu Martinez – Beat Poet with Fire**
 
 ### „Der Herzschlag des Heiligen von Harlem“
 
@@ -111,7 +111,7 @@ Sein Sound ist mit dem späteren afro-spirituellen Jazz (Pharoah Sanders, Alice 
 
 Als Arsenio 1950 in die Vereinigten Staaten zog und in Harlem zu arbeiten begann,
 Sabu hatte Sitzungen in derselben Stadt durchgeführt.
-Obwohl es sich bei ihrem Ansprechpartner nicht um eine direkte Zusammenarbeit handelt,
+Obwohl ihr Kontaktpunkt nicht die direkte Co-Hauptrolle ist,
 Sie waren tief in der **Bronx-Harlem Afro-Diaspora-Kultur** verwurzelt.
 
 | Ära | Arsenio Rodríguez | Sabu Martinez |
@@ -171,7 +171,7 @@ Zum Beispiel **Miguel Zenón**, **Daymé Arocena**, **Makaya McCraven** usw.
 Die Gene von Sabu und Arsenio in modernes Sounddesign übersetzen.
 
 Insbesondere Makaya McCravens „organische Beat-Collage“
-Man kann sagen, dass dies eine Fortsetzung von Sabus „Handbearbeitung“-Gefühl ist.
+Man kann sagen, dass dies eine Fortsetzung von Sabus „Bearbeitung per Hand“-Gefühl ist.
 
 Darüber hinaus ist Arsenios „Tumbao-Struktur“ vorhanden
 Es ist auch der Prototyp der „rhythmischen Symmetrie“ im Hip-Hop-Loop-Aufbau.

@@ -12,20 +12,20 @@ tags:
 - Punk
 - Jazz
 - History
-title: 【コラム】 10インチの誘惑——フォーマットが語る音の美学
+title: '[Spalte] 10-Zoll-Versuchung: Die Klangästhetik, die das Format vermittelt'
 ---
 
 
-## 10インチという「中間のフォーマット」
+## „Zwischenformat“ von 10 Zoll
 
 
-文：mmr｜テーマ：7インチでも12インチでもない。10インチという中間フォーマットが語る、音の美学と時代の記憶
+Text: mmr｜Thema: Weder 7 Zoll noch 12 Zoll. Die Klangästhetik und Erinnerungen an die Zeit erzählt das 10-Zoll-Mittelformat
 
 
 10-Zoll-Schallplatte.
-In diesem Wort liegt eine gewisse Mehrdeutigkeit. Es hat eine einzigartige, aber halbfertige Präsenz, die sich von der unmittelbaren Wirkung einer 7-Zoll-Single oder dem befriedigenden Gefühl einer 12-Zoll-Version unterscheidet LPがいかに時代の転換点を彩ってきたかが見えてくる.
+In diesem Wort liegt eine gewisse Mehrdeutigkeit. Es hat eine einzigartige, aber halbfertige Präsenz, die sich von der unmittelbaren Wirkung einer 7-Zoll-Single oder dem befriedigenden Gefühl einer 12-Zoll-LP unterscheidet. Wenn wir einen Blick auf die Geschichte der Schallplatten werfen, können wir sehen, dass dieses „Zwischenformat“ einen Wendepunkt in der Zeit markierte.
 
-10 Minutenさ」や「音の密度」を再定義する、もうひとつの哲学でもあった. Die Beschränkung auf etwa 10 Minuten pro Seite zwang Künstler und Ingenieure, sich für „Kondensation“ zu entscheiden, und das Ergebnis war ein überraschend klar definierter Klang und ein Hörerlebnis, das Konzentration erforderte.
+10 Zoll sind nicht nur eine Frage der Größe. Es war auch eine andere Philosophie, die „Zeitdauer“ und „Klangdichte“ neu definierte. Die Beschränkung auf etwa 10 Minuten pro Seite zwang Künstler und Ingenieure, sich für „Kondensation“ zu entscheiden, und das Ergebnis war ein überraschend klar definierter Klang und ein Hörerlebnis, das Konzentration erforderte.
 
 „Gerade lange genug, um etwas zu trinken, wenn man mit dem Zuhören fertig ist.“
 Die Ästhetik von 10 Zoll liegt in diesem Zeitgefühl.
@@ -46,12 +46,12 @@ color: #fff;
 </style>
 
 
-### 技術史としての10インチ：回転数・溝幅・音質のバランス
+### 10-Zoll als Geschichte der Technik: Ausgewogenheit von Drehzahl, Rillenbreite und Klangqualität
 
 Die Attraktivität des 10-Zoll-Modells lässt sich nicht einfach dadurch erklären, dass es „zwischen den Größen“ liegt.
 Es basiert sowohl physisch als auch akustisch auf einer exquisiten Ausgewogenheit.
 
-1950: 33⅓ LP, 78 LP, 1950er Jahre 10インチ盤は, 片面約10〜12分という収録時間を持っていた. Diese Länge entsprach der natürlichsten „Aufführungseinheit“ in Jazz- und Klassik-Sessions zu dieser Zeit. Eine Zeit, in der problemlos eine komplette Aufführung stattfinden kann. Dies ist einer der Gründe, warum viele Etiketten zunächst 10 Zoll einführten, bevor sie auf 12 Zoll umstiegen.
+Die 10-Zoll-Schallplatte entstand in den frühen 1950er Jahren zwischen 33⅓ U/min LP und 78 U/min SP und hatte eine Aufnahmezeit von etwa 10 bis 12 Minuten pro Seite. Diese Länge entsprach der natürlichsten „Aufführungseinheit“ in Jazz- und Klassik-Sessions zu dieser Zeit. Eine Zeit, in der problemlos eine komplette Aufführung stattfinden kann. Dies ist einer der Gründe, warum viele Etiketten zunächst 10 Zoll einführten, bevor sie auf 12 Zoll umstiegen.
 
 Darüber hinaus reduziert die kleine Platinenoberfläche interne Verzerrungen, wodurch der Klang deutlicher ansteigt. Unter Schnittingenieuren heißt es oft, der 10-Zoll-Sound habe einen Kern. Diese Eigenschaft war besonders wirksam bei Musik, die die Frische des Mitteltonbereichs und nicht die Erweiterung des Tieftonbereichs betont.
 
@@ -62,9 +62,9 @@ Darüber hinaus reduziert die kleine Platinenoberfläche interne Verzerrungen, w
 Das 10-Zoll-Format erreichte seinen Höhepunkt zu Beginn des Jazz in den frühen 1950er Jahren.
 Labels wie Blue Note, Prestige und Clef beschränkten die Experimente der Künstler auf das 10-Zoll-Format.
 
-Miles Davis [„Junger Mann mit Horn“](https://amzn.to/4qkdGGC) (1952), Thelonious Monk [„Thelonious Monk Trio“](https://amzn.to/4ol2uI1) (1954), Charlie Parker [„Now’s the Time“](https://amzn.to/4qkfrUe) (1953).中で最高の構成を求めた„短編映画“のような作品だった.
+Miles Davis [„Junger Mann mit Horn“](https://amzn.to/4qkdGGC) (1952), Thelonious Monk [„Thelonious Monk Trio“](https://amzn.to/4ol2uI1) (1954), Charlie Parker [„Now’s the Time“](https://amzn.to/4qkfrUe) (1953). Alle diese Werke waren wie „Kurzfilme“, bei denen die beste Komposition innerhalb der Beschränkungen von 10 Zoll angestrebt wurde.
 
-Vor dem Aufkommen der 12-Zoll-LP war das 10-Zoll-Format das Testfeld für das neue Konzept der „LP“. Zu einer Zeit, als das Format für Langwerke noch nicht festgelegt war, vermittelte das 10-Zoll-Format dem Künstler ein Gefühl von „Zusammenhalt“ und hinterließ gleichzeitig die Dichte eines „ausgeschnittenen Moments“.
+Vor dem Aufkommen der 12-Zoll-LP war das 10-Zoll-Format das Testfeld für das neue Konzept der „LP“. Zu einer Zeit, als das Format für lange Arbeiten noch nicht festgelegt war, vermittelte das 10-Zoll-Format dem Künstler ein Gefühl von „Zusammenhalt“ und bewahrte gleichzeitig die Dichte eines „ausgeschnittenen Moments“.
 
 Was nicht übersehen werden darf, ist die Entwicklung des Jackendesigns. Blue Note, das dem Erscheinen von Reid Miles vorausging, war für seine einfachen Kompositionen bekannt, die Typografie und Fotoränder nutzten, aber der Goldene Schnitt kam in der 10-Zoll-Ära am schönsten zum Ausdruck.
 

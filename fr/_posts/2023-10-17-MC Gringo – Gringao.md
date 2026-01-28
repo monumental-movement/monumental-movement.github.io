@@ -13,18 +13,18 @@ title: MC Gringo – Gringão
 ---
 
 
-MC Gringoは、ドイツ生まれのミュージシャン兼音楽プロデューサー。
-「Gringão」は、2007年にジャーマン・レーベルMan Recordingsよりリリース。
+MC Gringo est un musicien et producteur de musique d'origine allemande.
+"Gringão" est sorti en 2007 par le label allemand Man Recordings.
 
-プロデューサー
-トラックA1〜A3,B1,B3：DJ Amazing Clay 
-トラックB4： DJ Sandrinho
-トラックA1〜A4：MC Gringo
-トラックA4, B2：Rafael DJ
+producteur
+Pistes A1~A3,B1,B3 : DJ Amazing Clay
+Piste B4 : DJ Sandrinho
+Pistes A1-A4 : MC Gringo
+Pistes A4, B2 : Rafael DJ
 
 MC
-トラックA2：MC Binho
-トラックA4：MC Dandão
+Piste A2 : MC Binho
+Piste A4: MC Dandão
 
 #### Liste des chansons
 ```md

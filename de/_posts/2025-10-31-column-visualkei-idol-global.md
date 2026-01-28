@@ -18,7 +18,7 @@ title: '[Kolumne] Warum Visual Kei und Idol-Kultur Grenzen überschreiten: Die i
 ## Prolog: Wenn Japans „periphere Musik“ die Welt bewegt
 
 
-Text: mmr｜Thema: Warum erreicht japanische Subkulturmusik die Welt? - Verständnis der Geschichte der Entstehung ausländischer Fangemeinden und der kulturellen Übersetzung, mit Schwerpunkt auf Visual Kei und Idol-Kultur
+Text: mmr｜Thema: Warum erreicht japanische Subkulturmusik die Welt? Entschlüsselung der Entstehungsgeschichte und kulturellen Übersetzung ausländischer Fangemeinden mit Schwerpunkt auf Visual Kei und Idolkultur
 
 
 „X JAPAN“ „BABYMETAL“ „Parfüm“ „Dir en grey“
@@ -103,7 +103,7 @@ Es verbindet sich auch mit der LGBTQ+-Community und der Queer-Theorie.
 
 Beispielsweise tragen YOSHIKI von X JAPAN und HYDE von L'Arc~en~Ciel weibliche Ausdrücke, obwohl sie männlich sind.
 Dies wurde als „Richtung“ sublimiert.
-Diese Mehrdeutigkeit ist der Grund dafür, dass er weltweit als Ausdrucksfigur der Post-Gender-Ära akzeptiert wird.
+Diese Zweideutigkeit ist der Grund dafür, dass er weltweit als Ausdrucksfigur der Post-Gender-Ära akzeptiert wird.
 
 Darüber hinaus ist die Art und Weise, wie junge weibliche Idole wie BABYMETAL die männerdominierte Metal-Szene „zeremoniell untergraben“,
 Es ermöglichte auch eine feministische Interpretation.
@@ -120,7 +120,7 @@ Allerdings überlebte die Visual Kei- und Idol-Kultur mit einer „anderen Gramm
 
 Wenn die Stärke von K-POP in seiner Präzision als „fertiges Produkt“ liegt,
 In der Musik der japanischen Subkultur geht es um „Unvollkommenheit“ und „Nähe“.
-Mit anderen Worten: Der Wert ist der Spielraum für den Eingriff des Ventilators.
+Mit anderen Worten: Der Wert ist der Spielraum für den Lüftereingriff.
 Der Grund, warum ausländische Fans von japanischen Underground-Idolen und Indie-Visual Kei angezogen werden, ist dieser
 Das liegt daran, dass ich mit seiner „offenen und unvollendeten Natur“ sympathisiere.
 

@@ -15,7 +15,7 @@ title: E-Rotic – 幫助我迪克博士
 ---
 
 
-E-Rotic 是一個成立於 1994 年的德國歐洲舞團。早期成員包括主唱 Lyane Leigh 和說唱歌手 Richard Michael Smith（又名 Raz-Ma-Taz）。製片人是大衛·布蘭德斯。
+E-Rotic 是一個成立於 1994 年的德國歐洲舞團。早期成員包括主唱 Lyane Leigh 和說唱歌手 Richard Michael Smith（又名 Raz-Ma-Taz）。 The producer is David Brandes.
 
 《Help Me Dr. Dick》是一首 Eurohouse/Eurodance 歌曲，由德國斯圖加特的流行舞曲廠牌 Blow Up 於 1996 年發行。
 

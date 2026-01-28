@@ -123,10 +123,10 @@ Reggio est également une figure spirituelle ayant vécu dans un monastère, et 
 | ----------- | -------- | ---------- |
 | Nature sauvage et lancement de fusée | Son d'orgue soutenu | Contraste entre la vie et la machine |
 | Transports urbains/usines | Répétition de séquences | Cycle de travail sans fin |
-| Gros plan du visage | Chorus et décélération | Questions sur le rétablissement de l'humanité |
+| Gros plan du visage | Chorus et décélération | Questions sur la restauration de l'humanité |
 | Fusée qui s'effondre | Silence et décadence | Fin de la civilisation et renaissance |
 
-Comme le montre ce tableau, la musique n'est pas seulement un accompagnement, mais construit la « syntaxe émotionnelle » de la vidéo.
+Comme le montre ce tableau, la musique n'est pas seulement un accompagnement, mais construit la « syntaxe émotionnelle » de l'image.
 
 ---
 

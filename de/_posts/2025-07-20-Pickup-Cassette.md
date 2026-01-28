@@ -158,7 +158,7 @@ Come on, Bassem
 ### Thomas Newman – Duft einer Frau
 <a href="https://jp.mercari.com/item/m80593383212?afid=6142608987"><img src="../assets/images/Thomas%20Newman%20%E2%80%93%20Scent%20Of%20A%20Woman.webp"></a>
 
-1992 Filmmusik. Originalmusikband für einen klassischen Film.
+Filmmusik von 1992. Originalmusik für einen Filmklassiker.
 
 #### Trackliste
 ```md

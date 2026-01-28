@@ -61,7 +61,7 @@ The noises, strange voices, and unusual key changes that were scattered througho
 ### Gene and Dean — imaginary brothers or spiritual doubles?
 
 Gene and Dean.
-Although the sound of their names suggests "brothers," they are not related by blood.
+The sound of their names suggests "brothers," but they are not related by blood.
 But musically, they were almost like twins.
 Gene is the embodiment of emotion and chaos, Dean is the master of construction and craft.
 The moment the two collide, the chaos and magic that is typical of Ween is born.

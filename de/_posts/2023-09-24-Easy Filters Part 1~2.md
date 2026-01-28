@@ -13,7 +13,7 @@ title: FLR – Einfache Filter Teil 1–2
 ---
 
 
-Dies ist eine EP von Ken Ishii alias „FLR“, die 1998 auf dem japanischen Label Reel Musiq veröffentlicht wurde.
+Dies ist eine EP von Ken Ishii unter dem Pseudonym „FLR“, die 1998 auf dem japanischen Label Reel Musiq veröffentlicht wurde.
 
 Es war auch auf dem 2001er Album „Easy Filters“ enthalten.
 

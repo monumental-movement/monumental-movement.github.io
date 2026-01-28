@@ -13,7 +13,7 @@ title: 데이브코어 – 달려라! EP
 ---
 
 
-'런!EP'는
+"런! EP"는
 스웨덴 레이블 "Kône Records"가 2002년에 발매한 Davecore의 EP입니다.
 
 

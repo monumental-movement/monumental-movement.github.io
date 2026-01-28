@@ -16,7 +16,7 @@ title: Black Metal mit Lady Lust – Show No Mercy
 
 „Show No Mercy“ ist eine EP des Black Metal, die 1995 vom italienischen Label „Bulldozer Records“ veröffentlicht wurde.
 
-Den Juliana-Sound können Sie hier hören.
+Den Juliana-Sound kann man hier hören.
 
 #### Trackliste
 ```md

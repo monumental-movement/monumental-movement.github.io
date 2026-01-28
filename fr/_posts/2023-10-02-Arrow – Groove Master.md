@@ -14,7 +14,7 @@ title: Flèche – Groove Master
 ---
 
 
-Alphonsus Cassell, également connu sous le nom d'Arrow, était un musicien de calypso et de soca montserratien et la première superstar de la soca de Montserrat. « Hot Hot Hot » en 1982 est connu comme un succès international.
+Alphonsus Cassell, également connu sous le nom d'Arrow, était un musicien de calypso et de soca montserratien et la première superstar de la soca de Montserrat. Leur chanson "Hot Hot Hot" de 1982 est connue comme un succès international.
 
 Side A Groove Master (Acid Soca House Dub) est une chanson populaire parmi les amateurs de musique house et de musique de club.
 

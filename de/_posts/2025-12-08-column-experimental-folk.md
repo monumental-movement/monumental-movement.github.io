@@ -70,7 +70,7 @@ Obwohl Comus kein kommerzieller Erfolg war, haben die aktuellen 93 und viele and
 
 # 2. 1970er Jahre: Die Entstehung des amerikanischen introspektiven Folk und des Experimentierens
 
-In den Vereinigten Staaten war Psych-Folk nicht so definiert wie im Vereinigten Königreich als kollektive Bewegung, aber die folgenden Trends sind wichtig:
+In Amerika war Psych-Folk nicht so definiert wie eine kollektive Bewegung im Vereinigten Königreich, aber die folgenden Trends sind wichtig:
 
 - **John Fahey und die Genealogie der amerikanischen Primitiven**
 Fingerpicking mit Improvisations-, Drone- und Noise-Motiven.
@@ -86,14 +86,14 @@ Während dieser Zeit verbreitete sich der amerikanische Experimental-Folk als �
 
 ---
 
-# 3. 1980er-90er: Einfluss von Industrial/Neofolk und Rolle von Current 93
+# 3. 1980er-90er Jahre: Einfluss von Industrial/Neofolk und Rolle von Current 93
 
 In den 1980er und 1990er Jahren entstand aus der britischen Post-Industrial-Szene „Neofolk“ mit akustischen Elementen.
 Einer der zentralen Akteure ist **Current 93 (angeführt von David Tibet)**.
 
 ## Funktionen von Current 93
-- Am Anfang waren die Lärm-/Industrieelemente stark.
-- Seit den 1990er Jahren verlagert sich der Schwerpunkt auf akustische Instrumente wie Harmonium, Gitarre, Drehleier und Perkussion.
+- Schon früh gab es einen starken Lärm-/Industrieanteil.
+- Seit den 1990er Jahren hat sich der Schwerpunkt auf akustische Instrumente wie Harmonium, Gitarre, Drehleier und Percussion verlagert.
 - Schwerpunkt auf Mystik und poetischer Rezitation
 - Übernahme von Comus- und britischen Folk-Ansätzen
 - Mit Nick Cave, Michael Cashmore, Ben Chasny (Six Organs of Admittance) und vielen mehr
@@ -117,7 +117,7 @@ In den 2000er Jahren entstand vor allem an der Ostküste der USA ein neuer Trend
 - Harmonie traditioneller Folklore von den britischen Inseln
 - Ruhiger und vielschichtiger Gesang
 - Elektro-/Drohnen-Folk-Elemente
-- Zeitgenössische Rekonstruktion des Acid-Folk-Kontexts der 1960er und 1970er Jahre
+– Zeitgenössische Rekonstruktion des Acid-Folk-Kontexts der 1960er und 1970er Jahre
 
 Sie schlugen eine Brücke zwischen Psych Folk und Indie-Rock/Ambient/Drone und spielten eine Schlüsselrolle beim Wiederaufleben des Experimental Folk in den 2000er Jahren.
 
@@ -165,7 +165,7 @@ Auffällig in den Serien Current 93 und Neofolk
 Modi, rituelle Rhythmen, religiöse Poesie usw.
 
 ## Thematische Funktionen
-- Mystik/Fabeln/Religiöse Symbole
+- Mystik, Fabeln und religiöse Symbole
 - Naturalismus/pastorale Szenen
 - Spirituelle Welt/Introspektion
 - Zitate aus Volksmärchen/Legenden
@@ -219,7 +219,7 @@ flowchart TD
 
 ---
 
-# 10. Aktueller Stand: Grenzverwischung
+# 10. Aktueller Stand: Grenzen verschwimmen
 
 Experimental Folk hat sich in den 2020er Jahren als Genre erweitert,
 - Indie-Rock

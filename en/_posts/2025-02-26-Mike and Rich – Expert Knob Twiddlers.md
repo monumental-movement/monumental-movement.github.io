@@ -38,5 +38,5 @@ These tracks are the result of a fusion of Aphex Twin"s unpredictable experiment
 
 [Purchase on Mercari](https://jp.mercari.com/item/m39657713287?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ODppEhZGw1Y?si=FqMGJDoOL4-dS3Sv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

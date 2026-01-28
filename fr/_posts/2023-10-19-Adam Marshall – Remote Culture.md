@@ -9,13 +9,13 @@ permalink: /fr/adam-marshall-remote-culture/
 tags:
 - Techno
 - Minimal
-title: Adam Marshall – Remote Culture
+title: Adam Marshall – Culture à distance
 ---
 
 
-Adam Marshall（アダム・マーシャル）は、カナダ出身で現在はベルリンを拠点とするDJ／プロデューサー＆レーベルNew Kanadaのオーナー。Christian AndersenとのユニットGrazeとしても活動。
+Adam Marshall est un DJ/producteur né au Canada et propriétaire du label New Kanada, actuellement basé à Berlin. Également actif en tant qu'unité appelée Graze avec Christian Andersen.
 
-「Remote Culture」は、Mike Shannon主宰のカナダ発のミニマル・ダブ・ディープテクノ/ハウスレーベルCynosureから2005年にリリース。
+"Remote Culture" est sorti en 2005 sur le label canadien minimal dub deep techno/house de Mike Shannon, Cynosure.
 
 #### Liste des chansons
 ```md

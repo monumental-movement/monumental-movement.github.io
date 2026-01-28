@@ -9,57 +9,57 @@ permalink: /fr/band-aid-do-they-know-its-christmas/
 tags:
 - Rock
 - Pops
-title: Band Aid – Do They Know It's Christmas
+title: Band Aid – Savent-ils que c’est Noël
 ---
 
 
-Band Aid（バンドエイド）は、エチオピアの飢餓撲滅活動への資金を集めるためにボブ・ゲルドフとミッジ・ユーロによって1984年に設立された、イギリスとアイルランドのロック・ポップス界のスーパースターが集まったチャリティー・プロジェクトグループ。
+Band Aid est un groupe de projet caritatif formé par Bob Geldof et Midge Ure en 1984 pour collecter des fonds pour les efforts d'éradication de la faim en Éthiopie, réunissant des superstars du rock et de la pop britanniques et irlandaises.
 
- 【参加アーティスト】は以下の通りです。
+Les [Artistes participants] sont les suivants.
 
-・フィル・コリンズ（ジェネシス）
+・Phil Collins (Genèse)
 
-・ブームタウン・ラッツ
+· Rats de Boomtown
 
-・スパンダー・バレエ
+· Ballet de Spandau
 
-・ミッジ・ユーロ、クリス・クロス（ウルトラヴォックス）
+・Midge Ure, Chris Cross (Ultravox)
 
-・デュラン・デュラン
+· Duran Duran
 
-・ポール・ヤング
+·Paul Young
 
-・ヘヴン17
+・Ciel 17
 
-・マリリン
+· Marilyn
 
-・バナナラマ
+・Banarama
 
-・ジョディ・ワトリー（シャラマー）
+· Jody Watley (Shalamar)
 
-・ボノ、アダム・クレイトン（U2）
+・Bono, Adam Clayton (U2)
 
-・ポール・ウェラー（スタイル・カウンシル）
+・Paul Weller (Conseil de style)
 
-・クール&ザ・ギャング
+・Kool et le gang
 
-・ジョージ・マイケル（ワム!）
+・George Michael (Wham!)
 
-・ステイタス・クォー
+·Statu quo
 
-・ボーイ・ジョージ、ジョン・モス（カルチャー・クラブ）
+・Boy George, Jon Moss (Club culturel)
 
-・スティング（ポリス）
+・Sting (Police)
 
-・デヴィッド・ボウイ
+・David Bowie
 
-・フランキー・ゴーズ・トゥ・ハリウッド
+・Frankie va à Hollywood
 
-・ポール・マッカートニー 
+·Paul McCartney
 
-・ビッグ・カントリー
+・Grand Pays
 
-・トレヴァー・ホーン
+・Trevor Horn
 
 #### Liste des chansons
 ```md

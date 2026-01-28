@@ -17,7 +17,7 @@ title: '[Column] Progressive rock and anime: An epic intersecting story'
 
 Text: mmr｜Theme: Progressive rock that has a high affinity with anime
 
-When we talk about the relationship between anime and music, genres that are directly connected to each other come to mind, such as J-POP, idol songs, Eurobeat, and electronica. However, if you dig a little deeper, you will find that it has a surprisingly strong affinity with **progressive rock**. On the surface, it may seem distant from "anime songs," but its long structure, difficult rhythms, and concept album-like storytelling actually resonate in many ways with the characteristics of the anime medium.
+When we talk about the relationship between anime and music, genres that are directly connected come to mind, such as J-Pop, idol songs, Eurobeat, and electronica. However, if you dig a little deeper, you will find that it has a surprisingly strong affinity with **progressive rock**. On the surface, it may seem distant from "anime songs," but its long structure, difficult rhythms, and concept album-like storytelling actually resonate in many ways with the characteristics of the anime medium.
 
 ---
 
@@ -136,7 +136,7 @@ The affinity between anime and progressive rock is not just a combination of mus
 
 
 ### ■ Conclusion
-Progressive rock never became ""mainstream'' in commercial anime. However, its long composition, difficult rhythm, and conceptual nature have a high affinity with the taiga-like development of anime works centered on science fiction and fantasy.
+Progressive rock never became ""mainstream'' in commercial anime. However, its features such as long structure, difficult rhythm, and conceptual nature have a high affinity with the taiga development of anime works centered on science fiction and fantasy.
 
 Examples like Neon Genesis Evangelion, which directly incorporate progressive rock techniques, are just the tip of the iceberg. In the future, the delusion of ""what if anime was told through progressive rock'' will continue to show new intersections between music and video.
 

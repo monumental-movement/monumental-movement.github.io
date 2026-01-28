@@ -19,7 +19,7 @@ title: '[Chronique] IDM × Jazz / Jazz Fusion Electronique'
 
 ## Introduction : L'intersection de l'IDM et du jazz
 
-Texte : mmr｜Thème : À propos de la musique présentée comme la structure même du temps
+Texte : mmr｜Thème : À propos de la musique présentée comme la structure du temps lui-même
 
 
 La fusion de l’IDM et du jazz a progressé non pas comme une addition de genres, mais comme une refonte du sens du temps et de la philosophie de l’interprétation. En brouillant les frontières entre improvisation et composition, groove et programmation, et puissance humaine et machines, une esthétique différente de la fusion traditionnelle se forme. Depuis les années 1990, alors que la culture club et le jazz expérimental se sont approfondis simultanément, la structure rythmique elle-même est devenue le sujet de la musique.
@@ -46,7 +46,7 @@ color: #fff;
 
 ### Musique électronique intelligente après les breakbeats
 
-Au début des années 1990, les tentatives de subdivision et de reconstruction des breakbeats ont progressé, et les rythmes contenant des changements plutôt que des répétitions ont fini par être valorisés. Dans un domaine appelé IDM, l'accent est moins mis sur la stabilité du tempo que sur ce qui se passe à l'intérieur du rythme. Le rythme est passé du statut de fondement pour la danse à celui de structure d'information pour l'écoute.
+Au début des années 1990, les tentatives de subdiviser et de reconstruire les breakbeats ont progressé, et les rythmes contenant des changements plutôt que des répétitions ont fini par être valorisés. Dans un domaine appelé IDM, l'accent est moins mis sur la stabilité du tempo que sur ce qui se passe à l'intérieur du rythme. Le rythme est passé du statut de fondement pour la danse à celui de structure d'information pour l'écoute.
 
 ### Redéfinir la signature rythmique et le tempo
 
@@ -60,7 +60,7 @@ Dans IDM, plusieurs périodes existent souvent simultanément dans une signature
 
 ### Généalogie du jazz électrique
 
-Le jazz électrique des années 1970 mettait l’accent sur l’expansion de la section rythmique et des grooves soutenus, mais n’allait pas jusqu’à briser le rythme. Depuis les années 1990, l'introduction des échantillonneurs et des séquenceurs a permis de répéter avec précision et de produire des décalages infimes difficiles à réaliser manuellement.
+Le jazz électrique des années 1970 mettait l’accent sur l’expansion de la section rythmique et des grooves soutenus, mais n’allait pas jusqu’à briser le rythme. Depuis les années 1990, l’introduction des échantillonneurs et des séquenceurs a permis de répéter avec précision et de produire des décalages infimes difficiles à réaliser manuellement.
 
 ### Coexistence de l'improvisation et de la programmation
 
@@ -101,69 +101,69 @@ C --> D[周期的再帰]
 
 ---
 
-### 生ドラムと電子処理の融合
+### Fusion de batterie live et de traitement électronique
 
-Shigetoはアコースティック・ドラムを中心に据えながら、演奏後の編集やループ処理を前提とした作曲を行った。これにより、人力の揺らぎと電子的な精度が同時に存在する音像が生まれる。
+Shigeto s'est concentré sur la batterie acoustique et a composé de la musique en pensant au montage post-performance et au traitement des boucles. Cela crée une image sonore qui présente à la fois des fluctuations provoquées par l’homme et une précision électronique.
 
-### ミニマルな構造と複雑な内部
+### Structure minimale et intérieur complexe
 
-表層的にはシンプルな反復が続くが、内部ではアクセント位置やゴーストノートが常に変化している。聴感上は落ち着いていながら、分析すると高密度な情報が詰まっている。
+En apparence, la simple répétition continue, mais en interne, les positions des accents et les notes fantômes changent constamment. Bien que le son soit calme pour les oreilles, une fois analysé, il regorge d’informations de haute densité.
 
-> Shigeto以降の流れは複雑さを前面に出さず内側に隠す方向へ進んだ。
-
----
-
-## 複雑リズムの構造分析
-
-### ポリリズムとポリメーター
-
-IDM×ジャズでは、複数のリズム周期が同時に走るポリリズムと、拍子そのものが異なるポリメーターが併用される。重要なのは、これらが数学的に整合している点で、完全な無秩序ではない。
-
-### マイクロタイミングの制御
-
-ノートの発音位置を数ミリ秒単位で前後させることで、機械的でありながら有機的なグルーヴが生まれる。これは人間の演奏癖を分析し、意図的に再配置する作業でもある。
-
-> 複雑さは情報量ではなく、時間配置の精度から生まれる。
+> Après Shigeto, la tendance était de cacher la complexité à l'intérieur au lieu de la mettre au premier plan.
 
 ---
 
-## 機材と制作環境
+## Analyse structurelle de rythmes complexes
 
-### ハードウェアとソフトウェアの役割分担
+### Polyrythmie et Polymètre
 
-サンプラーやドラムマシンはリズムの骨格を形成し、DAWは編集と配置の精度を担う。ベースやドラムなどの生演奏は、素材として録音された後、再構築されることが多い。
+Dans IDM x Jazz, la polyrythmie, dans laquelle plusieurs cycles rythmiques s'exécutent simultanément, et le polymètre, qui ont des signatures rythmiques différentes, sont utilisés ensemble. Ce qui est important, c’est qu’ils soient mathématiquement cohérents et qu’ils ne soient pas complètement chaotiques.
 
-### ライブとスタジオの差異
+### Contrôle du micro-synchronisation
 
-スタジオでは極端に細かい編集が可能だが、ライブでは再現性よりも構造の柔軟性が重視される。そのため、演奏者は複数のループやパターンを即座に切り替える設計を行う。
+En déplaçant les notes d’avant en arrière par incréments de millisecondes, un groove à la fois mécanique et organique est créé. Il s’agit également d’un processus d’analyse des habitudes de jeu humaines et de leur réorganisation intentionnelle.
 
-> 機材は音色よりも時間制御のために選ばれる。
-
----
-
-## 年表：IDM×ジャズの進行
-
-### Années 1990
-
-IDMの成立とブレイクビーツの高度化が進み、ジャズ側で電子機材の導入が本格化する。
-
-### 2000年代
-
-Squarepusherをはじめとする演奏主体のIDMが注目され、生演奏とプログラミングの統合が進む。
-
-### 2010年代以降
-
-Shigeto以降、内省的でミニマルなアプローチが増え、複雑さは構造内部へと移行する。
-
-> この流れは現在も緩やかに更新され続けている。
+> La complexité ne vient pas de la quantité d'informations, mais de la précision de l'organisation du temps.
 
 ---
 
-## 結論：ジャンルを超えた時間芸術
+## Équipements et environnement de production
 
-IDM×ジャズは、ジャンル名として消費されるよりも、時間をどう扱うかという思想として理解されるべき領域である。演奏と編集、即興と設計の境界はすでに意味を失っており、音楽は時間構造そのものとして提示されている。
+### Répartition des rôles entre matériel et logiciel
 
-> この融合は今後も技術と演奏思想の進化とともに形を変え続ける。
+L'échantillonneur et la boîte à rythmes forment la structure rythmique, et la DAW est responsable de la précision de l'édition et de l'arrangement. Les performances live telles que la basse et la batterie sont souvent enregistrées comme matériau puis reconstruites.
+
+### Différence entre live et studio
+
+En studio, un montage extrêmement détaillé est possible, mais en live, la flexibilité structurelle est plus importante que la reproductibilité. Par conséquent, les interprètes conçoivent la musique pour basculer instantanément entre plusieurs boucles et motifs.
+
+> L'équipement est choisi pour le contrôle du temps plutôt que du timbre.
+
+---
+
+## Chronologie : Progression d'IDM x Jazz
+
+### années 1990
+
+Avec la création de l’IDM et l’avancement des breakbeats, l’introduction des équipements électroniques dans le jazz a véritablement commencé.
+
+### Années 2000
+
+Les IDM basés sur la performance tels que Squarepusher attirent l'attention et l'intégration de la musique live et de la programmation progresse.
+
+### Depuis les années 2010
+
+Depuis Shigeto, les approches introspectives et minimalistes se sont multipliées, et la complexité s’est déplacée au sein de la structure.
+
+> Cette tendance continue d'être mise à jour lentement.
+
+---
+
+## Conclusion : Un art du temps qui transcende les genres
+
+IDM x Jazz est un domaine qui doit être compris comme une idée de la façon de gérer le temps, plutôt que d'être consommé comme un nom de genre. Les frontières entre performance et montage, improvisation et design ont déjà perdu leur sens, et la musique est présentée comme une structure temporelle elle-même.
+
+> Cette fusion continuera de changer de forme à mesure que la technologie et la philosophie de performance évoluent.
 
 ---
 

@@ -16,7 +16,7 @@ title: Akimbo 主演 Marcina Arnold – 《眾所周知》
 
 Akimbo 是一支放克/靈魂搖滾樂隊，成員包括英國放克/酸爵士樂隊 Brand New Heavies 的吉他手 Simon Bartholomew、前 Jamiroquai 鼓手 Nick van Gelder、Gareth Bailey、Nick Seymour 和 Tom Bailey。
 
-《Everybody Knows》是一首由英國唱片公司 Acid Jazz 於 1999 年發行的未來爵士樂曲目。
+《Everybody Knows》是一首由英國唱片公司 Acid Jazz 於 1999 年發行的未來爵士樂歌曲。
 
 
 #### 曲目列表

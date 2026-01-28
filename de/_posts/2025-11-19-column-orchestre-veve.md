@@ -43,7 +43,7 @@ color: #fff;
 
 Bereits Ende der 1960er Jahre hatte die kongolesische Musik im Grande Quartier eine wettbewerbsfähige Live-Kultur geformt. Als starke Bands wie OK Jazz, African Fiesta und Zaïko miteinander konkurrierten und die Verfeinerung von Gitarrenensembles und Gesangspolyphonie zunahm, nahm die Zahl unabhängiger Labels zu, die den Erfolg junger Musiker unterstützten.
 
-Orchestra Veve wurde inmitten dieser musikalischen Fluidität geboren, die durch die Urbanisierung und Medienexpansion in der Zeit nach der Unabhängigkeit hervorgerufen wurde. Insbesondere zu dieser Zeit entstanden aufgrund der Kombination aus der starken Tanzkultur des Kongo, dem wachsenden Einfluss der Rundfunkanstalten und der Nachfrage nach Auftritten in Straßenbars mehrere aufstrebende Bands.
+Orchestra Veve wurde inmitten dieser musikalischen Fluidität geboren, die durch die Urbanisierung und Medienexpansion in der Zeit nach der Unabhängigkeit hervorgerufen wurde. Insbesondere war es eine Zeit, in der aufgrund der Kombination aus der starken Tanzkultur des Kongo, dem wachsenden Einfluss von Rundfunkanstalten und der Nachfrage nach Auftritten in Straßenbars mehrere aufstrebende Bands entstanden.
 
 ---
 
@@ -85,7 +85,7 @@ Der Grund, warum dieses „Koexistenz von Quantität und Qualität“ möglich w
 
 - **Systematisierung zur Maximierung der Betriebsrate Ihres eigenen Studios**
 - **Rotationssystem zwischen den Darstellern**
-- **Reduzierte Aufnahmezeit pro Song (ein Song wurde in mehreren Stunden fertiggestellt)**
+- **Reduzierte Aufnahmezeit pro Song (ein Song ist in mehreren Stunden fertig)**
 - **Verbesserte Reproduzierbarkeit durch die Erstellung von Ensemble-Vorlagen**
 
 Dieser Artikel konzentriert sich auf die folgenden drei Lieder als repräsentative Lieder, die in diesem goldenen Zeitalter entstanden sind.
@@ -117,19 +117,19 @@ Verglichen mit der einzeiligen Musik von ZAïko und der auf tiefen Harmonien bas
 
 ## Innovation in der Rhythmusgruppe
 
-Veves Rhythmusgruppe hat eine ausgeprägte Sprungkraft. Die Hi-Hat prägt die Rückseite der 16. Minute nicht stark, sondern erzeugt stattdessen einen Groove im Bereich der 8. Minute mit einem weiten horizontalen Schwung, wodurch sie sanfter als die Soukous aus derselben Zeit wird und eine Textur beibehält, die der einer Rumba ähnelt.
+Veves Rhythmusgruppe hat eine ausgeprägte Sprungkraft. Die Hi-Hat prägt die Rückseite der 16. Minute nicht stark, sondern erzeugt stattdessen einen Groove im Bereich der 8. Minute mit einem weiten horizontalen Schwung, wodurch sie sanfter ist als die Soukous aus derselben Zeit und eine Textur beibehält, die der einer Rumba ähnelt.
 
 ---
 
 # Kapitel 6 Analyse repräsentativer Lieder
 
-## Lied A: Zonga Andowe – rhythmisches Fundament und melodische Struktur
+## Song A: Zonga Andowe – rhythmisches Fundament und melodische Struktur
 
 „Zonga Andowe“ ist mit seinem sich wiederholenden Refrain und der melodischen Gitarrenstruktur einer der beliebtesten Hits von Veve.
 
 ### Technische Analyse
 - **Tempo: ca. 118–122 BPM**
-- **Gitarre: 3-Lagen-Struktur (Begleitgitarre betont Off-Beat)**
+- **Gitarre: 3-Schichten-Struktur (Begleitgitarre betont Off-Beat)**
 - **Bass: Absteigende Linie → steigende Linie alle 4 Takte wiederholen**
 - **Mischung: Gesang in der Mitte, Gitarren links und rechts getrennt**
 
@@ -149,7 +149,7 @@ graph TD
 
 ## Song B: Mfumbwa – melancholische Melodie und Call and Response
 
-„Mfumbwa“ ist ein Lied, das Veves „narrative Natur von Liedern“ symbolisiert und wunderschön aus Ruf und Antwort komponiert ist.
+„Mfumbwa“ ist ein Lied, das Veves „narrativen Charakter von Liedern“ symbolisiert und wunderschön aus Ruf und Antwort besteht.
 
 ### Technische Analyse
 
@@ -233,13 +233,13 @@ Es war auch in der kongolesischen Diaspora (Frankreich, Belgien und das Vereinig
 ## Unterschied zu Zaïko Langa Langa
 
 * **Zaïko: leicht, schnell, percussionlastig, lange Seben**
-* **Veve: sanft, Rumba-artig, saxofonischer Schwerpunkt, Chorpolyphonie**
+* **Veve: sanft, Rumba-artig, saxophonischer Schwerpunkt, Chorpolyphonie**
 
 Obwohl beide aus derselben Zeit stammen, sind ihre Richtungen sehr unterschiedlich.
 
 ## Musikalische Distanz mit OK Jazz
 
-Veran selbst ist von OK Jazz, daher haben sie den gleichen Sinn für Harmonie und Tiefe der melodischen Verarbeitung, aber
+Da Veran selbst von OK Jazz ist, haben sie den gleichen Sinn für Harmonie und Tiefe der melodischen Verarbeitung, aber
 Veve ist moderner und tanzbarer als OK Jazz.
 
 ## Gemeinsamkeiten mit Afrisa International

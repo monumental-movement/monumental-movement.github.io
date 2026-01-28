@@ -134,7 +134,7 @@ The resulting quantization noise, step-like volume changes, creates a characteri
 
 ---
 
-### Established as an effect
+### Establishment as an effect
 
 Since the late 1990s, bit crushers have been installed in DAWs and multi-effects devices.
 This was a decisive change that positioned low-bit tones as ""selectable tones.''

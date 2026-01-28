@@ -23,9 +23,9 @@ Text: mmr｜Thema: Auf den Spuren der einzigartigen Klangphilosophie, die durch 
 Ende der 1970er Jahre, am Ufer des Gardasees in Norditalien.
 Niemand wusste, dass dieser Ort, der nur ein Ferienort für Touristen war, später zum Zentrum eines akustischen Phänomens namens **Cosmic Sound** werden würde.
 Die zentrale Figur ist **Daniele Baldelli**.
-Er ist mehr als nur ein DJ geworden, er ist als „Architekt, der die Geschwindigkeit von Schall und Raum rekonstruiert“ bekannt geworden.
+Er ist nicht nur ein DJ, sondern wurde auch als „Architekt, der die Geschwindigkeit von Schall und Raum rekonstruiert“ bekannt.
 
-In der damaligen Disco-Szene dominierte der 4/4-Rhythmus, der durch amerikanische Soul- und House-Musik repräsentiert wurde.
+In der damaligen Disco-Szene dominierten 4/4-Rhythmen, vertreten durch amerikanische Soul- und House-Musik.
 Allerdings verwebt Baldelli ethnische Musik, elektronische Klänge, Progressive Rock, afrikanische Trommeln und sogar Krautrock.
 **Wir haben das Konzept des „kosmischen Tempos“ vorgestellt**, das es Ihnen ermöglicht, den BPM frei zu ändern.
 
@@ -87,7 +87,7 @@ Die ganze Nacht über fühlt es sich an, als würde ein Raumschiff abstürzen un
 ## 4. Klangmaterialwissenschaft – Verlagerung von Klangquellen im Kosmischen
 
 Baldelli war ein Pionier der DJs, die Songs als „Material“ behandelten.
-Ich hatte ein starkes Gefühl dafür, die aufgenommenen Klänge auf dem Plattenspieler noch einmal zu „komponieren“.
+Es herrschte ein starkes Gefühl, die aufgenommenen Klänge auf dem Plattenspieler noch einmal zu „komponieren“.
 
 | Verwendete Quellen | Konkrete Beispiele |
 |:--|:--|
@@ -113,7 +113,7 @@ Dieser multikulturelle Mix war der Vorläufer des späteren **Balearic Sound**, 
 - Ein Raum, der eher von „Dunkelheit“ als von Licht dominiert wird
 
 In diesem Club war „Driften“ wichtiger als „Tanzen“.
-Besucher werden vom Klang mitgerissen und verlieren ihr Zeitgefühl.
+Der Besucher wird vom Klang mitgerissen und verliert sein Zeitgefühl.
 Cosmic war „Meditation in der Nacht“**.
 
 ---

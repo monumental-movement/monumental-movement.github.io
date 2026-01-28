@@ -10,7 +10,7 @@ tags:
 - Rock
 - Nostalgic
 - 7inch
-title: 이글스 – 호텔 캘리포니아
+title: 이글스 - 호텔 캘리포니아
 ---
 
 

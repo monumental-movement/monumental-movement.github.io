@@ -44,7 +44,7 @@ Ici, elle ne fonctionne pas seulement comme musique de fond, mais comme symbole 
 ### À la génération qui hérite de la « mémoire de l’accélération »
 Aujourd'hui, bon nombre des jeunes qui cliquent sur la playlist « Eurobeat – Initial D » sur Spotify ou Apple Music n'ont pas forcément couru sur des cols.
 Mais ils accélèrent dans leurs écouteurs, dérivent dans l'espace virtuel, rient sur Internet et abandonnent leur corps aux mêmes sons.
-L'Eurobeat est devenu un média qui transcende la vitesse physique et met à jour la « mémoire de l'accélération » à chaque génération.
+Eurobeat est devenu un média qui transcende la vitesse physique et met à jour la « mémoire de l'accélération » à chaque génération.
 
 ### Liste des chansons représentatives d'Eurobeat (liées à Initial D)
 
@@ -70,7 +70,7 @@ color: #fff;
 | Nuit de feu | Niko | Un classique qui relie la génération flip-flop et la génération anime |
 | Garçon de l’espace | Dave Rodgers | Populaire pour son rythme rapide et sa mélodie forte |
 | Danse | Vicky Vale | Utilisé de manière impressionnante au début de la scène de course |
-| Battement du Soleil Levant | Dave Rodgers | Exaltation et développements dramatiques |
+| Battement du Soleil Levant | Dave Rodgers | Exaltation et développement dramatique |
 | Personne ne dort à Tokyo | Garçons Edo | Image sonore de Tokyo et sensation de vitesse |
 | Garçon de vitesse rapide | Marko Polo | Titre et rythme qui incarnent la sensation de vitesse |
 | Souviens-toi de moi | Leslie Parrish | Une chanson mélodique, émotionnelle et populaire |
@@ -120,7 +120,7 @@ Coup de pied : █▄█▄█▄█▄█▄█▄
 Caisse claire : ▄▄▄▄██▄▄▄▄
 Charleston : -x-x-x-x-x-
 Basse : ▂▄▆█▇▆▄▂
-Synthétique : °°°██°°██°°██°° </div>
+Synthé : ░ ░██°°██°°██°° </div>
 
 
 ### Le morceau emblématique d'Initial D dans le style "Deja Vu"
@@ -140,7 +140,7 @@ Coup de pied : ▮---▮---▮---▮---
 Caisse claire : ----▭-------▭---
 Charleston : ˑˑˑˑˑˑˑˑˑˑˑˑˑˑ
 Basse : █ █ ██ █ █ ██
-Synthétique : ░█°°██°°█°°██°°
+Synthétique : ░█°°██°°█°°██°°
 Son de la voiture : ▒▒▒▒▒▒→ Changement de vitesse AE86 </div>
 
 ### Courir dans les années 90 (Max Coveri)
@@ -150,7 +150,7 @@ Coup de pied : ▮---▮---▮---▮---
 Caisse claire : ----▭-------▭---
 Charleston : ˑˑˑˑˑˑˑˑˑˑˑˑˑˑ
 Basse : ███ ███ ███ ███
-Synthétique : ░█°°██°°█°°██°°
+Synthétique : ░█°°██°°█°°██°°
 Son de voiture : ▒▒▒▒▒▒→ Son de dérive RX-7 </div>
 
 ### Nuit de feu (Niko)
@@ -160,7 +160,7 @@ Coup de pied : ▮---▮---▮---▮---
 Caisse claire : ----▭-------▭---
 Charleston : ˑˑˑˑˑˑˑˑˑˑˑˑˑˑ
 Basse : █ █ █ ███ █ █ █
-Synthétique : ░█°°██°°█°°██°°
+Synthétique : ░█°°██°°█°°██°°
 Son de la voiture : ▒▒▒▒▒▒→ Son d'accélération GT-R </div>
 
 
@@ -189,7 +189,7 @@ Son de la voiture : ▒▒▒▒▒▒→ Son d'accélération GT-R </div>
 | années 1980 | Italo Disco, Hi-NRG | Den Harrow, Fantaisie | Origine d'Eurobeat |
 | années 1990 | Avex Eurobeat âge d'or | Dave Rodgers, Max Coveri | Bande originale D initiale |
 | Années 2000 | Diffusion d'Internet, culture parapara | Niko, Domino | Combiner avec la culture du jeu et de l'anime |
-| Années 2010 | Méméisation, renaissance | Mèmes Internet (Déjà Vu) | Une attention renouvelée dans le monde entier |
+| Années 2010 | Mème, renaissance | Mèmes Internet (Déjà Vu) | recentrage mondial |
 | Années 2020 | Fusion EDM/Synthwave | DJs, producteurs actuels | Vers un nouveau son |
 
 ---
@@ -203,7 +203,7 @@ Moteur : ▂▄▆█▇▆▄▂▄▆█▇▆▄▂
 Coup de pied : █▄█▄█▄█▄█▄█▄█▄█
 Caisse claire : ▄▄▄▄██▄▄▄▄██▄▄
 Charleston : -x-x-x-x-x-x-x-
-Synthétique : ░█°°██°°█°°██°°
+Synthétique : ░█°°██°°█°°██°°
 Dérive : ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ → (bruit de glissement) </div>
 
 ---
@@ -216,7 +216,7 @@ Dérive : ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ → (bruit de glisse
 | Culture du club | Parapara, Velfarre | Directement connecté à Avex Eurobeat |
 | Culture Internet | Mèmes de déjà vu | Ré-explosion sur YouTube/TikTok |
 | Culture du jeu | Étape initiale D Arcade, Gran Turismo | Eurobeat devient une BGM standard |
-| Compétition de drift | Grand Prix D1, Formule Drift | La culture du cavalier devient internationale et coexiste avec l'EDM dans BGM |
+| Compétition de dérive | Grand Prix D1, Formule Drift | La culture du cavalier devient internationale et coexiste avec l'EDM dans BGM |
 
 ---
 

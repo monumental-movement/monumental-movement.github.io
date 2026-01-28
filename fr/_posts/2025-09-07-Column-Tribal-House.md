@@ -60,7 +60,7 @@ Tribal House est un sous-genre qui combine le quatre-on-the-floor de la house av
 ## Transformation et commercialisation (années 2000)
 
 **Contexte de l'époque**
-Dans les années 2000, les éléments tribaux ont fusionné avec le progressif/électro, etc., et le nombre de genres dérivés a augmenté. L'environnement de production est passé d'un environnement principalement basé sur le matériel à un environnement DAW, ce qui permet de créer des conceptions sonores plus sophistiquées.
+Dans les années 2000, les éléments tribaux ont fusionné avec le progressif/électro, etc., et le nombre de genres dérivés a augmenté. L'environnement de production est passé d'un environnement matériel à un environnement DAW, permettant de créer des conceptions sonores plus sophistiquées.
 
 **Changement de méthode de production**
 - Traitement des instruments de percussion avec utilisation intensive du traitement des effets (filtre/réverbération/delay).
@@ -90,7 +90,7 @@ La mondialisation et l’essor du streaming ont accéléré la fusion avec les r
 ## Chronologie des équipements (simplifiée)
 - **Années 1980 ~ début des années 90** : Technics SL-1200 (platine vinyle), Roland TR-909/TR-808 (boîte à rythmes), premiers échantillonneurs Akai/E-mu. Références : <a href="https://en.wikipedia.org/wiki/Technics_SL-1200">Technics SL-1200</a>, <a href="https://en.wikipedia.org/wiki/Roland_TR-909">Roland TR-909</a>, <a href="https://en.wikipedia.org/wiki/Akai">Akai</a>.
 - **mid 90s〜2000s**：Akai MPC シリーズやハードウェア・サンプラーの多用（<a href="https://reverb.com/news/a-brief-history-of-the-akai-mpc">Reverb — A Brief History of the Akai MPC</a>）。
-- **Années 2010~Présent** : Fonctionnement hybride de DAW (Ableton/Logic), d'échantillons logiciels tels que Kontakt et Maschine, et MPC.
+- **Années 2010~Présent** : Fonctionnement hybride de DAW (Ableton/Logic), d'échantillons de logiciels tels que Kontakt et Maschine et MPC.
 
 ---
 
@@ -118,7 +118,7 @@ color: #fff;
 
 | Année | Artiste | Nom de la piste | Caractéristiques |
 |------|--------------|-------------|------|
-| 1997 | Junior Vasquez | Si Madonna appelle | Des échantillons audacieux qui symbolisent la scène des clubs gays |
+| 1997 | Junior Vásquez | Si Madonna appelle | Des échantillons audacieux qui symbolisent la scène des clubs gays |
 | 1998 | Danny Tenaglia | Éléments | Percussion tribale et développement minimal |
 | 1998 | Plat profond | Échoué | Son mélodieux et profond |
 | 2001 | Pierre Rauhofer | J'ai la musique | Un morceau au sol avec le chant au premier plan |
@@ -131,7 +131,7 @@ color: #fff;
 
 ---
 
-## Voyage du rythme
+## Voyage rythmique
 Tribal House n'est pas seulement de la musique de club, mais un « voyage rythmique » qui s'est répandu à l'échelle mondiale, changeant à chaque époque. Il continuera d’attirer l’attention en tant que genre qui continue d’évoluer grâce à la fusion des technologies tout en héritant de ses racines africaines.
 
 

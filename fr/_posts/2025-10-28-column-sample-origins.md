@@ -196,7 +196,7 @@ Utilisé par The Roots, Eric B. & Rakim, Arrested Development, et plus encore. L
 ### Chronologie : histoire évolutive de l'échantillonnage
 
 | Années | Événements |
-|------|---------|
+|------|--------------|
 | années 1960 | La technologie d'enregistrement soul/funk se développe. La culture naissante du drum break. |
 | 1973 | Kool Herc joue deux exemplaires de "Apache" lors d'une fête de quartier. Naissance du hip hop. |
 | 1984 | Exécuter-D.M.C. réalise son premier succès d'échantillonnage commercial. |

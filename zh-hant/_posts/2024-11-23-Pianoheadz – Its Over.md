@@ -18,7 +18,7 @@ Pianoheadz 是由美國室內製作人 Jose Nuñez 和 Erick Morillo 組建的�
 
 《It's Over》是英國唱片公司 INCredibled 於 1998 年發行的一首 house/hard house 曲目。
 
-A 面的第二首歌是 Knuckleheadz 的混音版，他因“House Rocca / Turn That Fucking Music Up”和“Raise Your Hands”而聞名。
+A面的第二首歌是 Knuckleheadz 的混音版，他以“House Rocca / Turn That Fucking Music Up”和“Raise Your Hands”而聞名。
 
 
 #### 曲目列表

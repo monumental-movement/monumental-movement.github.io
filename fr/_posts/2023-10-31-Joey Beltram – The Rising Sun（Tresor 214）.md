@@ -9,11 +9,11 @@ permalink: /fr/joey-beltram-the-rising-sun-tresor-214/
 tags:
 - Techno
 - Mix
-title: Joey Beltram – The Rising Sun（Tresor 214）
+title: Joey Beltram – Le Soleil Levant (Trésor 214)
 ---
 
 
-Tresor（トレゾア）から2004年にリリースされたJoey Beltram（ジョイ・ベルトラム）のCD。
+CD de Joey Beltram sorti en 2004 sur Tresor.
 
 #### Liste des chansons
 ```md

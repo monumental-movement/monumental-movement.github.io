@@ -24,7 +24,7 @@ title: '[Spalte] Dego & Kaidi und Sound Signature'
 
 
 
-## Einleitung – Geburt und Kontext von Broken Beat
+## Einleitung – Entstehung und Kontext von Broken Beat
 
 Text: mmr｜Thema: EUK Über die Schnittstelle von Broken Beat und globaler schwarzer Musik
 
@@ -59,7 +59,7 @@ color: #fff;
 
 Diese Bewegung zeichnet sich durch einen einzigartigen Groove aus, der Live-Instrumente und elektronische Beats kombiniert. Live-Musik umfasst Klavier, Keyboards, Hörner und Percussion, überlagert mit komplexen Drum-Patterns und House-Beats. Das Ergebnis ist ein einzigartiger Sound, der das Erbe von Jazz, Funk und Soul vereint und gleichzeitig die Unmittelbarkeit und Tanzbarkeit von Clubmusik aufweist.
 
-Künstler wie Dego, Kaidi Tatham, IG Culture, Bugz in the Attic und Neon Phusion haben maßgeblich zum Wachstum von Broken Beat beigetragen. Insbesondere Degos Label 2000Black diente als zentraler Knotenpunkt für das Genre und brachte viele talentierte Künstler hervor. Vor diesem Hintergrund haben Dego und Kaidi eine Zusammenarbeit aufgebaut, die den Kontext der britischen schwarzen Musik erweitert.
+Künstler wie Dego, Kaidi Tatham, IG Culture, Bugz in the Attic und Neon Phusion haben maßgeblich zum Wachstum von Broken Beat beigetragen. Insbesondere Degos Label 2000Black diente als zentraler Knotenpunkt für das Genre und brachte viele talentierte Künstler hervor. Vor diesem Hintergrund werden Dego und Kaidi eine Kooperation eingehen, die den Kontext britischer schwarzer Musik erweitern wird.
 
 ---
 
@@ -67,7 +67,7 @@ Künstler wie Dego, Kaidi Tatham, IG Culture, Bugz in the Attic und Neon Phusion
 
 ### Dego (Dennis McFarlane)
 
-Dego begann seine Karriere als Teil der bahnbrechenden britischen Jungle/Drum & Bass-Gruppe 4Hero. Durch seine Erfahrung mit 4Hero strebte er nach rhythmischer Komplexität und elektronischem Ausdruck und integrierte Elemente aus Jazz und Funk. 1998 gründete er sein eigenes Label 2000Black und baute eine neue Basis für britische schwarze Musik rund um Broken Beat auf. Durch seine Soloaktivitäten und Aktivitäten unter verschiedenen Pseudonymen hat Dego ein vielfältiges Spektrum an Musikstilen in verschiedenen Genres wie Jazz, Funk, House, Drum & Bass und Broken Beat präsentiert.
+Dego begann seine Karriere als Teil der bahnbrechenden britischen Jungle/Drum & Bass-Gruppe 4Hero. Durch seine Erfahrung mit 4Hero strebte er nach rhythmischer Komplexität und elektronischem Ausdruck und integrierte Elemente aus Jazz und Funk. 1998 gründete er sein eigenes Label 2000Black und baute eine neue Basis für britische schwarze Musik rund um Broken Beat auf. Durch seine Soloaktivitäten und Aktivitäten unter verschiedenen Pseudonymen hat Dego ein vielfältiges Spektrum an Musikstilen in verschiedenen Genres wie Jazz, Funk, House, Drum and Bass und Broken Beat präsentiert.
 
 ### Kaidi Tatham
 
@@ -112,7 +112,7 @@ timeline
     2017–2025 : ソロ・コラボ活動継続
 </div>
 
-Dieses Label fungierte als Plattform für die Verfolgung von „Klangskulpturen“ als kreative Collage, die über musikalische Formen und Genres hinausging. Britische Broken-Beat-Künstler, insbesondere Dego & Kaidi, fühlten sich von dem Label angezogen und fanden einen Ort, an dem sie ihre Musik in neuen Kontexten ausdrücken konnten.
+Dieses Label fungierte als Plattform für die Verfolgung von „Klangskulpturen“ als kreative Collage, die über musikalische Formen und Genres hinausging. Britische Broken-Beat-Künstler, allen voran Dego & Kaidi, fühlten sich von dem Label angezogen und fanden einen Ort, an dem sie ihre Musik in neuen Kontexten ausdrücken konnten.
 
 ---
 
@@ -126,7 +126,7 @@ Diese „Begegnung“ war nicht nur eine musikalische Zusammenarbeit, sondern au
 
 ## Musikalität von „A So We Gwarn“
 
-A So We Gwarn ist ein 14-Track-Album, das Elemente aus Jazz, Soul, House, Hip-Hop und Afro vereint. Komplexe Rhythmen, jazzige Tasten, Live-Streicher und ein Hornensemble kreuzen die Sensibilität der britischen Urban Blacks und die Sensibilität des Detroit House.
+A So We Gwarn ist ein 14-Track-Album, das Elemente aus Jazz, Soul, House, Hip-Hop und Afro vereint. Komplexe Rhythmen, jazzige Tasten, Live-Streicher und ein Bläserensemble kreuzen die Sensibilität der britischen Urban Black und die Sensibilität des Detroit House.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5XQlv0cAryQ?si=h78NsmjUFPwCldKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

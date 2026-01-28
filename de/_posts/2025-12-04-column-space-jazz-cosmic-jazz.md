@@ -41,7 +41,7 @@ color: #fff;
 
 ## 1. Ursprung: Sun Ra und die Entstehung des Afrofuturismus
 
-Von den späten 1950er bis in die 1960er Jahre entwickelte Sun Ra einen Sound und eine Ideologie, die deutlich von den traditionellen Jazzformen abwichen. Er beschrieb sich selbst als „ein Wesen, das vom Saturn kam“ und entwickelte eine durch und durch kosmische Weltanschauung. Das Kostüm hat metallisch glänzende Gewänder, Helme und abstrakte geometrische Muster. Auf der Bühne entfaltete sich eine Performance, die an ein extradimensionales Ritual oder eine futuristische Stadt erinnerte und Musik und visuellen Ausdruck vollständig integrierte.
+Von den späten 1950er bis in die 1960er Jahre entwickelte Sun Ra einen Sound und eine Ideologie, die deutlich von den traditionellen Jazzformen abwichen. Er beschrieb sich selbst als „ein Wesen vom Saturn“ und entwickelte eine gründliche kosmische Weltanschauung. Das Kostüm hat metallisch glänzende Gewänder, Helme und abstrakte geometrische Muster. Auf der Bühne entfaltete sich eine Performance, die an ein extradimensionales Ritual oder eine futuristische Stadt erinnerte und Musik und visuellen Ausdruck vollständig integrierte.
 
 Was die Auftritte angeht, war die Band zu dieser Zeit voll von sehr innovativen Experimenten, wie kollektiver Improvisation durch eine Orchesterformation, dem Einsatz elektrischer Instrumente und früher Synthesizer. Insbesondere Sun Ra Arkestra schuf einen Sound, der weitgehend frei von konventionellen Harmonien und Songstrukturen war und sich zwischen Free-Jazz-artigem Chaos und kosmischer Stille bewegte.
 
@@ -75,14 +75,14 @@ Es entstand ein umfassendes musikalisches und visuelles Erlebnis, inklusive Bele
 
 ## 4. Technologische Entwicklung: Evolution der Elektroakustik und Raumorientierung
 
-Seit den 1960er Jahren sind neue elektronische Musikinstrumente aufgetaucht und haben eine Umgebung geschaffen, in der kosmische Klänge erzeugt werden können.
+Seit den 1960er Jahren sind neue elektronische Musikinstrumente aufgetaucht, die eine Umgebung schaffen, in der kosmische Klänge erzeugt werden können.
 
 * **Synthesizer (Moog, ARP usw.)**
 * **E-Piano (Fender Rhodes)**
 * **Bandecho**
 * **Analoge Effekte (Ringmodulator usw.)**
 
-Bemerkenswert ist Sun Ras frühe Einführung in Synthesizer. Er erforschte die physikalischen Grenzen des Klangs und entwickelte neue Formen des kosmischen Ausdrucks. Obwohl die elektronische Ausrüstung in Pharoah Sanders‘ Werk begrenzt war, schuf er andererseits eine „kosmische Weite“, indem er Nachhall, räumliche Verarbeitung und die akustischen Eigenschaften ethnischer Instrumente nutzte.
+Bemerkenswert ist Sun Ras frühe Einführung in Synthesizer. Er erforschte die physikalischen Grenzen des Klangs und entwickelte neue Formen des kosmischen Ausdrucks. Andererseits war die elektronische Ausstattung in Pharoah Sanders Werk begrenzt, er schuf jedoch eine „kosmische Weite“, indem er Nachhall, räumliche Verarbeitung und die akustischen Eigenschaften ethnischer Instrumente nutzte.
 
 ---
 

@@ -66,7 +66,7 @@ We take Len Faki's signature tracks and analyze them in detail, including their 
 
 #### basic information
 - BPM: 125
-- Key: G major
+- Key: G Major
 - Released: Berghain 03 mix CD included, 2009
 
 #### Song structure and rhythm
@@ -88,7 +88,7 @@ It is often used from the middle to the peak of a set, and is the main track to 
 
 #### basic information
 - BPM: 129
-- Key: G major
+- Key: G Major
 - Length: Approximately 8 minutes 15 seconds
 
 #### Song structure and rhythm
@@ -99,7 +99,7 @@ The return to rhythm after the break creates a wave of emotion on the club floor
 #### Acoustic characteristics (estimated)
 - Low: Kick and bass support the floor
 - Mid-high range: The main synth and pads are expanded and spatially processed.
-- Stereo: Creates a three-dimensional effect with a layer structure that spreads left and right
+- Stereo: Creates a three-dimensional effect with a layered structure that spreads left and right
 
 #### Role in DJ set
 As a mid-range track with a driving feel, it is suitable for increasing energy towards the peak.
@@ -137,7 +137,7 @@ It is used to maintain the groove in the middle of a set or take a break in the 
 
 #### Song structure and rhythm
 It has a strong melodic element, with pads and synths gradually merging with the rhythm in the intro.
-After the drop, the melody and beat develop in multiple layers, and the break calms down for a while, creating a bridge to the next build.
+After the drop, the melody and beat develop in layers, and the break settles down for a while, creating a bridge to the next build.
 
 #### Acoustic characteristics (estimated)
 - Low: Stabilize the floor with kicks and bass
@@ -172,7 +172,7 @@ It is placed at peak times to uplift the audience and provide a futuristic and p
 
 ## Chapter 3: Time axis analysis of festival/club set
 
-In a typical Len Faki long set, each track is strategically placed to form the emotional curve of the club floor.
+In Len Faki's typical long sets, each track is strategically placed to shape the emotional curve of the club floor.
 
 <div class="mermaid">
 timeline

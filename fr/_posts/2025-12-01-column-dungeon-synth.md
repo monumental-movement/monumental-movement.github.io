@@ -70,7 +70,7 @@ En conséquence, la musique est souvent décrite comme « une bande originale sa
 Ci-dessous, nous résumerons les tendances importantes depuis la naissance du genre jusqu’à nos jours.
 
 ### ● 2-1. Première période (1991-1994)
-Au début des années 1990, en marge du black metal scandinave, des artistes ont commencé à créer du « dark clavier-based ambient » qui réduisait le nombre de sons au minimum absolu.
+Au début des années 1990, en marge du black metal scandinave, des artistes ont commencé à créer du « dark clavier-based ambient » qui réduisait le nombre de sons au strict minimum.
 
 Sont particulièrement importants :
 - **Mortiis (Norvège)**
@@ -157,7 +157,7 @@ De nombreux artistes ont recherché la sensation des consoles de jeux et des cla
 Pianos GM, Choir Aahs, Strings, Pads, etc. Le bas prix et la nostalgie sont traités comme des valeurs.
 
 ### ■ Synthé logiciel
-Dans les temps modernes, les éléments suivants sont souvent utilisés :
+Dans les temps modernes, les éléments suivants sont couramment utilisés :
 
 - **VST gratuit DSK**
 - DSK ChoirZ, DSK Strings, etc.
@@ -203,7 +203,7 @@ L'ajout d'une rugosité d'environ 8 à 12 bits améliorera l'ambiance des année
 De nombreux artistes enregistrent leurs chansons sur cassettes.
 
 ### ■ Traitement de l'égalisation
-- **Supprimer les basses (en dessous de 100 Hz)** → Vers une texture monaurale/ancien équipement
+- **Supprimer les basses (en dessous de 100 Hz)** → Vers une sensation monaurale/ancien équipement
 - **Supprimer les hautes fréquences (au-dessus de 6-8 kHz)** → Supprimer les odeurs numériques
 
 ### ■ Réverbération
@@ -222,7 +222,7 @@ Sont spécifiquement utilisés :
 
 ---
 
-## ■ 5. Schéma sirène : Structure acoustique
+## ■ 5. Diagramme sirène : Structure acoustique
 
 <div class="mermaid">
 flowchart TD

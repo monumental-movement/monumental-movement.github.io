@@ -16,7 +16,7 @@ title: DSK – What Would We Do
 
 It became popular in the dance music scene of the 1990s and was played in many clubs and on the radio.
 
-"What Would We Do" is widely known as a song that has been supported by many listeners for its unique sound and ease of dancing on the dance floor.
+"What Would We Do" is widely known as a song that has been supported by many listeners for its easy danceability on the dance floor and its unique sound.
 
 #### Tracklist
 ```md

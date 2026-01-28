@@ -20,7 +20,7 @@ title: '[Kolumne] Nyege Nyege: Eine Musikgruppe aus Uganda, die Afrikas musikali
 Text: mmr｜Thema: Über eine wichtige Musikgruppe, die „Outsider-Musik“ verbreitet, die traditionelle afrikanische Musik und moderne elektronische Musik in der Welt verbindet
 
 
-„Nyege Nyege“ ist eine Musikgruppe mit Sitz in Kampala, Uganda, und gilt als Pionier bei der weltweiten Verbreitung der afrikanischen Underground-Musikszene. Sein Name bedeutet auf Luganda „ein unwiderstehlicher Drang zum Tanzen“ und vermittelt eine kraftvolle Botschaft, die Menschen durch Musik und Tanz zusammenbringt.
+„Nyege Nyege“ ist eine Musikgruppe mit Sitz in Kampala, Uganda, und gilt als Pionier bei der weltweiten Verbreitung der afrikanischen Underground-Musikszene. Sein Name bedeutet auf Luganda „der unwiderstehliche Drang zum Tanzen“ und vermittelt eine kraftvolle Botschaft, die Menschen durch Musik und Tanz zusammenbringt.
 
 ---
 
@@ -204,7 +204,7 @@ flowchart TD
 
 - Integration mit improvisiertem Tanz: In der Rarakaraka-Tradition ist Tanz mit Musik integriert, und dieser improvisatorische Charakter wird in Acolitronics vererbt.
 
-- Ausdruck auf Festivals: Nyege Beim Nyege Festival ist es üblich, dass das Publikum frei zu elektronischer Akori-Musik tanzt.
+- Ausdruck auf Festivals: Nyege Beim Nyege Festival ist es üblich, dass das Publikum frei zu elektronischer Akoli-Musik tanzt.
 
 ---
 
@@ -268,7 +268,7 @@ flowchart TD
 
 - Neuer experimenteller Ausdruck traditioneller Musik
 
-Diese Stile spielen eine wichtige Rolle dabei, wie Nyege Nyege Tapes das musikalische Erbe Afrikas aus einer modernen Perspektive neu interpretiert und mit der Welt teilt.
+Diese Stile spielen eine wichtige Rolle bei der Neuinterpretation des afrikanischen Musikerbes durch Nyege Nyege Tapes aus einer zeitgenössischen Perspektive und seiner Weitergabe an die Welt.
 
 ---
 
@@ -294,7 +294,7 @@ flowchart LR
 
 #### Electro Maloya (Zusammenfassung)
 Electro Maloya ist ein experimentelles Genre, das traditionelle Maloya-Musik mit elektronischer Musik rekonstruiert.
-Als Musikstil, der gleichzeitig das Erbe der Geschichte weiterführt, Kultur neu interpretiert, sich in die städtische Clubkultur integriert und international kommuniziert, erregt er weltweite Aufmerksamkeit.
+Es erregt weltweite Aufmerksamkeit als Musikstil, der gleichzeitig das Erbe der Geschichte weiterführt, Kultur neu interpretiert, sich in die städtische Clubkultur integriert und international kommuniziert.
 
 ---
 

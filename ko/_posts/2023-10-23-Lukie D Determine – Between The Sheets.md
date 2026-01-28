@@ -14,7 +14,7 @@ title: Lukie D 결정 – 시트 사이
 ---
 
 
-The Isley Brothers의 "Between the Sheets"는 자메이카 댄스홀 씬을 대표하는 가수 Lukie D & Define이 커버했습니다.
+Isley Brothers의 "Between the Sheets"는 자메이카 댄스홀 씬을 대표하는 가수 Lukie D & Define이 커버했습니다.
 
 B면은 자메이카 레게이자 가스펠 가수인 Chevelle Franklin의 "Got To Be Real"입니다. Chevelle Franklyn은 2010년 그래미상 최우수 현대 가스펠 앨범 부문을 수상했습니다.
 

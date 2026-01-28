@@ -43,9 +43,9 @@ color: #fff;
 
 Das primitivste Musikinstrument der Menschheitsgeschichte ist die Stimme, und der gemeinschaftliche Ausdruck mehrerer Menschen durch die Stimme hat sich eng mit religiösen Ritualen und Gemeinschaftsstrukturen entwickelt.
 Das moderne Bild von „Chor = disziplinierte, homogene Harmonie“ ist jedoch eigentlich nur eine Reihe von Werten, die während eines begrenzten Zeitraums vom 19. bis zum 20. Jahrhundert vorherrschend wurden.
-In der zweiten Hälfte des 20. Jahrhunderts, mit dem Aufkommen der Avantgarde-Musik und Fortschritten in der Akustik, wurde der Chorgesang dramatisch erweitert, da die Stimme wiederentdeckte, dass sie mehr konnte.
+In der zweiten Hälfte des 20. Jahrhunderts, mit dem Aufkommen der Avantgarde-Musik und Entwicklungen in der Akustik, wurde der Chorgesang dramatisch erweitert, da die Stimme wiederentdeckte, dass sie mehr konnte.
 
-Chor-/Gesangsexperimental ist ein Bereich, der im Zuge der Wiederentdeckung etabliert wurde, und es ist zutreffender, ihn als eine Gruppe von Methoden zur Maximierung des künstlerischen Potenzials der Stimme zu betrachten und nicht nur als ein Genre.
+Chor-/Gesangsexperimental ist ein Feld, das im Zuge der Wiederentdeckung etabliert wurde, und es ist zutreffender, es als eine Gruppe von Methoden zur Maximierung des künstlerischen Potenzials der Stimme zu betrachten und nicht nur als ein Genre.
 
 ---
 
@@ -55,7 +55,7 @@ Wir betrachten hier aus der Vogelperspektive, wie die Chormusik über einen lang
 
 ## 2-1. Renaissance bis Barock: Grundlagen der Polyphonie
 
-* Die Entwicklung der Polyphonie durch Palestrina und Josquin aus der Monophonie des gregorianischen Chorals bildete die Grundlage für die vielschichtige Struktur der Stimme.
+* Die Entwicklung der Polyphonie durch Palestrina und Josquin aus der Monophonie des Gregorianischen Chorals bildete die Grundlage für die vielschichtige Struktur der Stimme.
 * Bereits während der Renaissance gab es Werke, die in Kanons, Messen und Motetten **strukturelle Schichtung** und **räumliche Anordnung** verwendeten, und dies wurde zum Prototyp für spätere experimentelle Ansätze.
 
 ## 2-2. Erste Hälfte des 20. Jahrhunderts: die Entstehung avantgardistischer Perspektiven auf die Stimme
@@ -99,7 +99,7 @@ Darüber hinaus war die Initiative „Virtual Choir“ insofern innovativ, als s
 
 ---
 
-# 3. Chronologie: Wichtige Entwicklungen im Chor-/Gesangsexperiment
+# 3. Chronologie: Wichtige Entwicklungen im experimentellen Chor-/Gesangsbereich
 
 <div class="mermaid">
 timeline
@@ -321,10 +321,10 @@ Kooperationen mit Tanzkompanien und darstellenden Künsten, die Stimme und körp
 
 # 10. Zusammenfassung
 
-Choral/Vocal Experimental betrachtet die Stimme nicht als eine Ansammlung von Tonhöhen, sondern vielmehr
+Choral/Vocal Experimental betrachtet die Stimme nicht als eine Ansammlung von Tonhöhen, sondern vielmehr als eine Ansammlung von Tonhöhen
 **Es handelt sich um einen Bereich, der sich umfassend mit akustischen, räumlichen, physikalischen und sozialen Phänomenen befasst**.
 
-Die von Ligeti und Whittaker demonstrierten stimmlichen Möglichkeiten wurden von modernen Komponisten weiter ausgebaut.
+Die von Ligeti und Whittaker demonstrierten stimmlichen Möglichkeiten wurden von modernen Komponisten weiter erweitert.
 Die Stimme ist heute das flexibelste und komplexeste akustische Material in der Musik.
 
 Der Chor ist ein Medium, das Tradition und Zukunft verbindet, und die Resonanz des physischen und universellen Elements der Stimme mit der neuesten Technologie und akustischen Forschung wird weiterhin neue Ausdrucksformen schaffen.

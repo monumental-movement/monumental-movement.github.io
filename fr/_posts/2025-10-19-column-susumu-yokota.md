@@ -24,7 +24,7 @@ Texte : mmr｜Thème : Susumu Yokota. Un artiste solitaire qui explore l'âme du
 Au début des années 1990, la scène musicale électronique japonaise en était encore à ses balbutiements. Alors que la techno et la house devenaient populaires en tant que culture importée, la musique ambiante, axée sur les « sons environnementaux » et le « silence », restait encore un genre expérimental minoritaire.
 Susumu Yokota était un poète qui vivait dans cet espace calme. Sa musique est une extension de la culture club, mais en quelque sorte « en dehors ». C'était un artiste rare qui utilisait des particules électroniques pour représenter le souffle de la nature, la distance du vent et les réverbérations des souvenirs.
 
-Bien que Yokota ait débuté dans la scène des clubs de Tokyo, il a rapidement transcendé ce contexte. Sa musique se concentrait davantage sur la « pause » que sur le « rythme » de la musique de danse, et s'orientait vers la recherche de la tranquillité et de l'organicité de la musique électronique. Ceci est similaire au sens japonais de « wabi-sabi ».
+Bien que Yokota ait débuté dans la scène des clubs de Tokyo, il a rapidement transcendé ce contexte. Sa musique se concentrait davantage sur la « pause » que sur le « rythme » de la musique de danse, et s'orientait vers la recherche de la tranquillité et de l'organicité de la musique électronique. Ceci est similaire au sens japonais de « wabi-sabi ».
 
 ---
 
@@ -62,7 +62,7 @@ La faible mélodie et les sons environnementaux se superposent, guidant doucemen
 L'album a une excellente structure, et l'ensemble de l'album coule comme un seul « souffle ». Cela commence doucement, créant un léger rythme puis disparaissant. C'est comme le cycle de la vie et les saisons elles-mêmes.
 La raison pour laquelle "Sakura" continue d'être appréciée par les fans de musique ambiante du monde entier est probablement parce qu'elle dépeint parfaitement cette "sensation du temps" à travers le son.
 
-### "Symbole" (2001)
+### « Symbole » (2001)
 Construisez votre propre image sonore tout en utilisant pleinement l'échantillonnage de musique classique.
 Les mélodies baroques et impressionnistes se dissolvent dans une mer d'électronique entre les mains de Yokota. L'œuvre entière est comme une « mémoire reconstruite » et, comme le titre l'indique, c'est une musique « symbolique ».
 
@@ -72,7 +72,7 @@ Il y a un sentiment de jeu qui dépasse le cadre de la simple musique d’ambian
 
 ### « Le garçon et l'arbre » (2003)
 Il y a une atmosphère qui donne l’impression d’avoir été enregistrée dans une forêt et un rythme qui fait penser aux battements de cœur de la vie.
-La « musique de la vie » unique de Yokota, flottant entre nature et électronique. Il présente un haut degré de perfection en tant que chef-d'œuvre de sa période ultérieure.
+La « musique de vie » unique de Yokota flottant entre nature et électronique. Il présente un haut degré de perfection en tant que chef-d'œuvre de sa période ultérieure.
 
 ---
 
@@ -119,7 +119,7 @@ On sait également qu'Aphex Twin et Four Tet ont soutenu son travail.
 
 La performance live de Yokota n'était pas seulement une reconstitution, mais une tentative de « jouer l'espace lui-même ».
 Il a éliminé autant que possible l'éclairage et les images, transformant l'espace avec la « densité de l'air » que possède le son.
-Le public est enveloppé de particules sonores et perd la notion du temps. C’était une expérience où chaque personne se fondait dans le son.
+Le public est enveloppé de particules sonores et perd la notion du temps. C’était une expérience où chacun avait l’impression de se fondre dans le son.
 
 Sa position était un exemple rare de combinaison de la physicalité dansante de la techno avec la nature méditative de l’ambient.
 
@@ -163,7 +163,7 @@ De plus, l'esprit de Yokota a certainement été hérité par des artistes ambie
 
 ---
 
-## Chapitre 9 : Conclusion — Musique en silence
+## Chapitre 9 : Conclusion — Musique en silence
 
 La musique de Susumu Yokota n'est pas racontée à travers des mélodies et des rythmes flashy, mais à travers le silence et les espaces vides.
 Dans ce silence habitent le bruit de la ville, le souffle de la nature et la mémoire humaine.

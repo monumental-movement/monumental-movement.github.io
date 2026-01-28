@@ -81,7 +81,7 @@ Die akustischen Eigenschaften lassen sich in den folgenden drei Punkten zusammen
 
 1. **Time Disconnect**: Das Lied ist kurz und endet abrupt. Die Übergänge sind bewusst grob.
 2. **Räumliche Komprimierung**: Minimieren Sie Hall und räumliche Verarbeitung, um den Abstand zwischen Samples nahe Null zu bringen.
-3. **Frequenzverzerrung**: Erzeugt einen **VHS-ähnlichen Klang**, bei dem die hohen Frequenzen durch den umfassenden Einsatz von SP-303-Effekten entfernt werden.
+3. **Frequenzverzerrung**: Erzeugt einen **VHS-ähnlichen Klang** mit entfernten hohen Frequenzen durch den umfassenden Einsatz von SP-303-Effekten.
 
 Auch hier handelt es sich um eine „**Rekordrekonstruktion**“ von Madlib. Er betrachtete den Lärm und das Knistern alter Aufnahmen als „Komponenten“ und nicht als „Materialien“ und verwandelte Hip-Hop in eine Archäologie des Klangs.
 
@@ -152,10 +152,10 @@ Madlib, J Dilla, Aloe Blacc und andere traten auf dem Label auf und schlugen ein
 - Flying Lotus: Eine Fusion aus Jazz und Beat-Wissenschaft.
 - Earl Sweatshirt: Fragmentierter introspektiver Rap, entlehnt von DOOM.
 - Tyler, der Schöpfer: Charakterbildung und die Vererbung von Ironie.
-- Lo-Fi-Hip-Hop-Kultur: Übernahme des SP-Sounds und sogar Erstellung von „Study BGM“ auf YouTube.
+- Lo-Fi-Hiphop-Kultur: Übernahme des SP-Sounds und sogar Erstellung von „Study BGM“ auf YouTube.
 
 Darüber hinaus hat die Maskenkultur von DOOM das Image von Künstlern nach dem Internet beeinflusst.
-Anonyme Konten, VTuber, KI-generierte Musik usw. – die Wertachse hat sich von „Wer hat es gemacht“ zu „Wie es ankommt“ verschoben**.
+Anonyme Konten, VTuber, KI-generierte Musik usw. – die Werteachse hat sich von „Wer hat es gemacht“ zu „Wie es ankommt“ verschoben**.
 
 ---
 
@@ -213,7 +213,7 @@ flowchart TD
 [『Madvillainy』](https://amzn.to/3JhySfH)は、ヒップホップという形式そのものを解体した後に、再構築する“音の迷宮”である。
 Es gibt keinen „Abschluss“ oder „Ende“.
 Gesampelte Klänge gewinnen wieder an Bedeutung, auch wenn sie ihren Ursprung verlieren.
-Die von DOOM hinterlassene Maske leuchtet immer noch in Underground-Studios auf der ganzen Welt.
+Die Maske, die DOOM hinterlassen hat, leuchtet immer noch in Underground-Studios auf der ganzen Welt.
 
 > „Es ist nicht so verrückt wie der Bösewicht.“
 > MF DOOM

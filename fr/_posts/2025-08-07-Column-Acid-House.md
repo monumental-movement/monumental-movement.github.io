@@ -53,7 +53,7 @@ Les caractéristiques les plus importantes de l’acid house sont les éléments
 
 <hr>
 
-#### Quatre coups de pied
+#### Quadruple coup de pied
 
 - Le BPM est un tempo stable d'environ 120-130
 
@@ -173,7 +173,7 @@ Aujourd’hui, l’acid house est réévaluée au milieu de la culture rétro et
 
 - Propagation explosive d'un avion clone TB-303 (reproduction d'équipement analogique)
 
-Plus qu’un simple genre musical, l’acid house reste au carrefour de la musique électronique et de la contre-culture.
+Plus qu’un simple genre musical, l’acid house continue d’être au carrefour de la musique électronique et de la contre-culture.
 
 
 <hr>

@@ -80,11 +80,11 @@ Die daraus resultierenden übersetzten Texte sind ein Kompromiss zwischen dem Or
 
 ## Kapitel 3 Übersetzungen, die gesungen werden können und „Übersetzungen, die nicht gesungen werden können“
 
-Lyrikübersetzungen werden in Übersetzungen zum Lesen und Übersetzungen zum Singen unterteilt.
+Lyrische Übersetzungen werden in Übersetzungen zum Lesen und Übersetzungen zum Singen unterteilt.
 Im letzteren Fall sind einfache Aussprache, Vokalkontinuität und Akzentposition wichtig.
 
 Japanisch hat eine einfache Silbenstruktur und viele Vokale, was es schwierig macht, die Konsonantenfolge und Betonungsstruktur des Englischen zu reproduzieren.
-Daher wird beim Singen englischer Liedtexte auf Japanisch oft die Bedeutung der Wörter vereinfacht oder die Grammatik neu geordnet.
+Daher wird beim Singen englischer Liedtexte auf Japanisch häufig die Bedeutung der Wörter vereinfacht oder die Grammatik neu geordnet.
 
 Diese technischen Einschränkungen entscheiden mehr noch als die Qualität der Übersetzung darüber, ob es als Lied funktioniert oder nicht.
 Aus diesem Grund tendieren japanische Texte dazu, dem Klang den Vorrang vor der Bedeutung zu geben.
@@ -124,7 +124,7 @@ Allerdings war diese zweisprachige Übersetzung nur eine Hilfe zum Verständnis,
 ## Kapitel 6 Fehlinterpretation und Umdeutung als Kulturtransfer
 
 Fehlinterpretationen sind beim Kulturtransfer durch Übersetzung unvermeidlich.
-Allerdings hat diese Fehlinterpretation nicht zwangsläufig nur negative Folgen.
+Allerdings hat diese Fehlinterpretation nicht zwangsläufig negative Folgen.
 
 Es gibt viele Beispiele für Texte, die in einer Kultur missverstanden werden, in einem anderen Kontext eine neue Bedeutung erhalten und einzigartige Rezeptionsgeschichten bilden.
 Durch diese Kette von Neuinterpretationen wurde auch die Rezeption von Rock und Hip-Hop in Japan etabliert.
@@ -150,7 +150,7 @@ Dies hat Hip-Hop zu einem Sonderfall von kultureller Bedeutung ohne jegliche Üb
 ## Kapitel 8: Japanischer Rap und kultureller Import in die entgegengesetzte Richtung
 
 Die Etablierung des japanischen Rap erfolgte nicht durch die Übersetzung englischer Texte, sondern durch die Transplantation von Form und Haltung.
-Dabei liegt der Fokus eher auf Nachahmung und Rekonstruktion als auf Übersetzung.
+Hier liegt der Fokus eher auf Nachahmung und Rekonstruktion als auf Übersetzung.
 
 Bei der Anpassung der englischen Prosodie an die japanische wurde das einzigartige japanische Rhythmusgefühl betont und ein neues Ausdruckssystem geboren.
 Dabei handelt es sich nicht um eine Übersetzung, sondern um eine Lokalisierung des Kulturtransfers.
@@ -176,7 +176,7 @@ Die Übersetzung ist kein festes Artefakt mehr, sondern eine Sammlung von Interp
 Bei der Liedtextübersetzung kann die Bedeutung des Originalliedes nicht vollständig erhalten bleiben.
 Es hat jedoch ein Gerüst für die Verbindung verschiedener Kulturen durch Musik geschaffen.
 
-Neben den Dingen, die durch die Übersetzung verloren gehen, gibt es auch Verständnisse und Ausdrücke, die durch die Übersetzung entstehen.
+Neben Dingen, die durch die Übersetzung verloren gehen, gibt es auch Verständnisse und Ausdrücke, die durch die Übersetzung entstehen.
 Diese Mehrdeutigkeit ist der Kern der Frage der Textübersetzung und des kulturellen Imports.
 
 > Die Übersetzung von Liedtexten ist sowohl eine Brücke als auch eine Grenze zwischen den Kulturen.
@@ -197,7 +197,7 @@ timeline
 
 ---
 
-## Abbildung: Struktur des Kulturtransfers in der Textübersetzung
+## Abbildung: Struktur des Kulturtransfers in der Liedtextübersetzung
 
 <div class="mermaid">
 graph TD

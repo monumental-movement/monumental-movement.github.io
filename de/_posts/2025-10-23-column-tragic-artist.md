@@ -52,7 +52,7 @@ In der Romantik des 19. Jahrhunderts galt „Wahnsinn“ bei Dichtern und Malern
 Es pries den Adel der Seele, die nicht in die Gesellschaft passt. Byron, Rimbaud, Van Gogh.
 Diese Linie wird seit dem 20. Jahrhundert an Musiker und Filmregisseure weitergegeben.
 
-Sie machten das „Leben selbst“ zur Kunst.
+Sie machten „das Leben selbst“ zur Kunst.
 In dem Moment, in dem Arbeit und Leben zusammenpassen, wird das Publikum von der Wahrheit berauscht.
 
 ---
@@ -82,7 +82,7 @@ Die Menschen sehen im „zerbröckelnden Genie“ ihre eigenen Schatten.
 
 ---
 
-## Kapitel 4: Neurowissenschaftliche Perspektive – Freude am „Erhabenen“ und „Gefährlichen“
+## Kapitel 4: Neurowissenschaftliche Perspektive – Freude an „Erhabenem“ und „Gefährlichem“
 
 Das menschliche Gehirn hat eine Struktur, die „Freude“ an Angst und Traurigkeit findet.
 In dem Moment, in dem die Amygdala und der Nucleus accumbens gleichzeitig aktiviert werden, spüren wir die Schönheit der Tragödie.
@@ -111,7 +111,7 @@ Fans „verherrlichen“ unbewusst den Schmerz des Künstlers,
 Auch nach dem Tod wird das Leiden „vergöttlicht“.
 
 Empathie soll jedoch bedeuten, „ihren Schmerz zu verstehen und sich ihre Genesung zu wünschen“.
-Was können wir daraus lernen, anstatt uns von der Zerstörung berauschen zu lassen, und wie können wir heilen?
+Was können wir daraus lernen und wie können wir heilen, anstatt uns von der Zerstörung berauschen zu lassen?
 Das ist die neue Ethik für die Akzeptanz von Kunst im 21. Jahrhundert.
 
 ---

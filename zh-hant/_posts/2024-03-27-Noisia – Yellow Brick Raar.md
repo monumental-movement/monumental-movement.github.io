@@ -14,7 +14,7 @@ title: Noisia – 黃磚 Raar
 ---
 
 
-Noisia 是荷蘭鼓貝斯三人組，於 2022 年解散。他創作了多種音樂，包括鼓和貝斯、house、break 和電子聲音，並於 2014 年參與了 LOST CHILD 的混音工作，該歌曲被收錄在桃色 Clover Z 的《Furious Space Symphony - 7th Movement 'Infinite Love' (Emperor Style)》中。
+Noisia 是一個荷蘭鼓貝斯三重奏組，於 2022 年解散。他創作了多種音樂，包括鼓和貝斯、浩室音樂、break 和電子聲音，2014 年他還參與了 LOST CHILD 的混音工作，該歌曲被收錄在桃色 Clover Z 的《狂暴太空交響曲 - 第七樂章‘無限愛’（皇帝風格）》中。
 
 “Yellow Brick / Raar”是 Noisia 自己的廠牌 Division Recordings 於 2007 年發行的突破性 house 曲目。
 

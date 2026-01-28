@@ -18,7 +18,7 @@ Mark NRG ist ein DJ und Musikproduzent aus Frankfurt, Deutschland, der seine Mus
 
 Er hat über 50 Platten in verschiedenen Projekten produziert und in zahlreichen Musikaufnahmestudios als Toningenieur und Produzent gearbeitet und wird für seine mutige Einstellung zum künstlerischen Experimentieren gelobt.
 
-Zu Beginn seiner Karriere war er dafür bekannt, Elemente des Jazz und Hip-Hop erfolgreich mit elektronischer Musik wie House, Techno und Industrial zu verbinden. Auch in der Techno-Szene hat er viele Werke veröffentlicht, die im Clubumfeld akustisch herausragend sind, und dieses „Don't Stop“ ist eines davon.
+Zu Beginn seiner Karriere war er dafür bekannt, Elemente des Jazz und Hip-Hop erfolgreich mit elektronischer Musik wie House, Techno und Industrial zu verbinden. In der Techno-Szene hat er viele Werke veröffentlicht, die im Clubumfeld akustisch herausragend sind, und dieses „Don't Stop“ ist eines davon.
 
 Mark NRGs Vermächtnis findet weiterhin großen Anklang bei Fans elektronischer Musik auf der ganzen Welt und etabliert ihn als innovativen Künstler in der Branche.
 

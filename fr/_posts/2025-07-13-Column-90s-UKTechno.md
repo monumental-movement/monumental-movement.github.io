@@ -28,7 +28,7 @@ Dans les années 1990, la techno s’est approfondie et a muté dans son son et 
 <hr>
 
 ### Fusion de la culture rave et de l'underground
-Après le « Second Summer of Love » en 1988, le Royaume-Uni fut plongé dans une explosion d'acid house et de rave. Par la suite, diverses sous-variantes du hardcore, du breakbeat et de la techno se sont développées sous terre au début des années 90.
+Après le « Second Summer of Love » en 1988, le Royaume-Uni fut plongé dans une explosion d'acid house et de rave. Par la suite, diverses sous-espèces de hardcore, de breakbeat et de techno se sont développées sous terre au début des années 90.
 
 D’un autre côté, la fin du gouvernement Thatcher et l’aggravation des disparités économiques ont imprimé l’insatisfaction et la rébellion des jeunes dans la musique. La techno britannique n’était pas seulement de la musique dance, c’était aussi un mouvement social armé de sound-systems et de raves illégales.
 
@@ -178,9 +178,9 @@ La techno britannique de cette époque n’était pas jouée pour danser, mais p
 
 La techno britannique des années 90 n'était pas seulement un mouvement musical, c'était le cœur de la ville. Battements glacials et mélancolie brumeuse.
 
-Entre les deux, une frénésie underground est née. Une ancienne usine à Sheffield, un entrepôt à Birmingham, un club avant l'aube à Londres, ils vibraient tous au même rythme.
+Entre-temps, une frénésie underground est née. Une ancienne usine à Sheffield, un entrepôt à Birmingham, un club avant l'aube à Londres, ils vibraient tous au même rythme.
 
-La techno a créé de la poésie à partir des réverbérations de l’industrie, présentant une esthétique de destruction et de reconstruction. La techno britannique sonne « l'âme de la machine » tout en déconstruisant le son et le temps. C’est le souvenir d’une révolution tranquille et violente qui se poursuit encore aujourd’hui.
+La techno a créé de la poésie à partir des réverbérations de l’industrie, présentant une esthétique de destruction et de reconstruction. La techno britannique fait sonner « l'âme de la machine » tout en déconstruisant le son et le temps. C’est le souvenir d’une révolution tranquille et violente qui se poursuit encore aujourd’hui.
 
 ---
 

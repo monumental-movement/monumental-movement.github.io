@@ -54,10 +54,10 @@ Sowohl Son Goku als auch Kenshiro überwinden ihre Grenzen durch den Kampf mit �
 RZA (Wu-Tangs spiritueller Führer) sagte später:
 
 > „Anime-Krieger waren unser Leben.
-> 彼らは孤独の中で己を鍛え、世界と戦っていた。 ”
+> Sie trainierten sich in der Einsamkeit und kämpften gegen die Welt. ”
 
 Diese „spirituelle Shaolin = Trainingsgeschichte“ hat eine ähnliche Struktur wie der Straßenkampf.
-Das „Samurai-Selbstbild“ der Wu-Tang-Clan-Mitglieder wurde zum Prototyp für den „animeartigen Stoizismus“, der sich später im gesamten Hip-Hop verbreitete.
+Das „Samurai-Selbstbild“ der Mitglieder des Wu-Tang-Clans wurde zum Prototyp für den „animeartigen Stoizismus“, der sich später im gesamten Hip-Hop verbreitete.
 
 ---
 
@@ -113,7 +113,7 @@ Mit anderen Worten: Die „asiatische Ausrichtung“ des Wu-Tang-Clans ist nicht
 In Japan breitete sich der Einfluss des Wu-Tang-Clans langsam aus.
 Künstler wie DJ Krush, Nujabes und Shing02.
 Es betonte den „Zen“-Aspekt des Hip-Hop und spiegelte die spirituelle Welt von RZA wider.
-Insbesondere Nujabes‘ Musik verbindet Sampling und die Ästhetik von ma.
+Insbesondere Nujabes‘ Musik verbindet Sampling und die Ästhetik von Ma.
 Er war spirituell mit dem Wu-Tang-Clan verbunden, dem „Samurai des Klangs“.
 
 In den 2020er Jahren tauchen auch in japanischen Anime-Werken deutliche Bezüge auf.
@@ -200,7 +200,7 @@ flowchart TD
 
 ## Letztes Kapitel: Wo sich Rhythmus und Schwert kreuzen
 
-Der Name des Wu-Tang-Clans wurde vom chinesischen Kampfkunsttempel Wudang übernommen.
+Der Name des Wu-Tang-Clans wurde vom chinesischen Kampfkunsttempel Wudang abgeleitet.
 Ihre wahre Bühne war jedoch das spirituelle Dojo = Musik.
 So wie japanische Animes das menschliche Wachstum durch Kampf darstellen,
 Auch sie haben ihre Seelen weiterhin durch „Klang und Poesie“ geschult.

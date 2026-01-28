@@ -13,9 +13,9 @@ title: Co-Fusion – Pod EP
 ---
 
 
-2001年にUKのレーベルPro-JexからリリースされたCo-FusionによるEPです。
+Il s'agit d'un EP de Co-Fusion sorti sur le label britannique Pro-Jex en 2001.
 
-Pod EPは４曲入りでどのトラックも日本のテクノらしさを感じさせる楽曲です。
+Le Pod EP contient quatre chansons, et chaque morceau a une touche techno japonaise.
 
 #### Liste des chansons
 ```md

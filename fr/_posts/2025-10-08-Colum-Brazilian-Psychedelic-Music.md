@@ -91,7 +91,7 @@ Au XXIe siècle, les jeunes groupes brésiliens ont retrouvé leur « illusion t
 
 ## Chapitre 5 : Revue en direct — Expérience de transe tropicale
 
-Le spectacle live des Boogarins au Cine Joia de São Paulo en 2018 a été le moment où le fantôme de Tropicália a repris vie.
+Le spectacle des Boogarins au Cine Joia de São Paulo en 2018 a été le moment où le fantôme de Tropicália a ressuscité.
 Derrière la scène se trouvent des images animées de plantes tropicales, un éclairage qui vous donne une sensation d'humidité et un bourdonnement de guitare sans fin. Plutôt que de danser, le public **« flottait »**, immergé dans le son.
 
 Le rappel de "Lucifernandis" a créé un son chaotique qui ressemblait à la seconde venue d'Os Mutantes, et les acclamations du public ont secoué l'air.

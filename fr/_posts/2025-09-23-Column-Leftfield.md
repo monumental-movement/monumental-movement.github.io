@@ -40,35 +40,21 @@ color: #fff;
 
 ### Qu'est-ce que Leftfield ? / Qu'est-ce que Leftfield ?
 
-**Japonais**
 
 Leftfield est un mot à double sens.
 1. Un projet du duo britannique Neil Barnes & Paul Daley.
 2. Une expression qui fait référence à une musique de danse expérimentale et intellectuelle qui transcende les frontières des genres.
 
-**Anglais**
-
-Leftfield a un double sens :
-1. Le duo électronique britannique formé par Neil Barnes et Paul Daley.
-2. Un terme plus large désignant la musique électronique et dance expérimentale, défiant les genres.
-
 ---
 
 ### Histoire et contexte / Histoire et contexte
 
-**Japonais**
 
-- Début des années 1990 : né dans la culture rave britannique.
+- Début des années 1990 : Né dans la culture rave britannique.
 - 1995 : Son premier travail "*Leftism*" a reçu des éloges au-delà de la scène des clubs.
 - Depuis les années 2000 : Le mot « leftfield » est devenu synonyme de « musique innovante en dehors du mainstream ».
-- Temps modernes : réévalué dans le contexte de la génération de musique par l'IA et de la production de bandes sonores de films.
+- Temps moderne : réévalué dans le contexte de la génération de musique par l'IA et de la production de bandes sonores de films.
 
-**Anglais**
-
-- Début des années 1990 : émergence au sein de la culture rave britannique.
-- 1995 : Le premier album *Leftism* est acclamé par la critique au-delà de la scène des clubs.
-- À partir des années 2000 : « Leftfield » devient synonyme de musique hors du mainstream.
-- Aujourd'hui : Réévalué dans les contextes de la génération musicale par l'IA et de la production de bandes sonores.
 
 ---
 
@@ -99,13 +85,13 @@ flowchart TD
 
 ### Mots-clés associés / Mots-clés associés
 
-**Japonais** : genre Leftfield, electronica britannique, relation avec le trip hop
+Genre Leftfield, electronica britannique, relation avec le trip hop
 
-**Anglais** : genre Leftfield, electronica britannique, relation avec le trip hop, production de bandes sonores, génération de musique IA
+
 
 ---
 
-### FAQ (japonais)
+###FAQ
 
 T1. Leftfield est-il un genre ? Est-ce le nom de l'artiste ?
 
@@ -119,31 +105,13 @@ Q3. Que recommandez-vous aux débutants ?
 
 R. Le « gauchisme » est le meilleur point de départ.
 
-### FAQ (anglais)
-
-T1. Leftfield est-il un genre ou un artiste ?
-
-R. Les deux. Il fait référence au duo britannique mais aussi à la musique électronique expérimentale et non mainstream.
-
-Q2. En quoi Leftfield diffère-t-il du trip hop ?
-
-A. Le trip hop est basé sur le downtempo et le hip hop, tandis que Leftfield est enraciné dans la house/techno avec des influences dub et de musique du monde.
-
-Q3. Par où doivent commencer les débutants ?
-
-A. Le gauchisme est le point de départ essentiel.
 
 ---
 
-### Conclusion
+### résumé
 
-**Japonais**
 
 Leftfield est une icône de l’électro britannique et synonyme d’aventure musicale. Bien qu’il s’écarte de la culture des clubs, son esprit d’expérimentation intellectuel et artistique continue d’influencer la production moderne de musique et de bandes sonores basées sur l’IA.
-
-**Anglais**
-
-Leftfield représente à la fois un duo britannique pionnier et un symbole d’aventure musicale. Tout en s’éloignant du courant dominant, son expérimentation intellectuelle et artistique continue aujourd’hui d’influencer la musique et la composition des bandes sonores générées par l’IA.
 
 
 ---

@@ -12,7 +12,7 @@ title: Picking up UK techno works from the 90s
 ---
 
 
-""A remarkable group of works that symbolized the 90s UK techno scene with their rigid rhythms and cutting-edge sound design.''
+"A remarkable group of works that symbolized the 90s UK techno scene with their rigid rhythms and cutting-edge sound design."
 
 <hr>
 

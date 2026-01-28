@@ -9,7 +9,7 @@ permalink: /ko/the-art-of-trance-cambodia/
 tags:
 - Trance
 - Acid
-title: 트랜스의 예술 - 캄보디아
+title: 트랜스의 예술 – 캄보디아
 ---
 
 

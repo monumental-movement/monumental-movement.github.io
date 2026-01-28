@@ -21,7 +21,7 @@ title: '[Chronique] Roland TR-1000 : Redéfinir le rythme ─ Gènes analogiques
 Texte : mmr｜Thème : TR-1000, le dernier produit de la série TR publiée par Roland. Examinez en profondeur la conception de ses circuits analogiques, le comportement de l'IA et sa signification culturelle à partir des trois axes de la technologie, de l'idéologie et de l'histoire culturelle.
 
 
-Le nouveau rythme cardiaque de Roland, le TR-1000, est un « créateur de rythme » qui combine la chaleur de l'analogique, la précision du numérique et la liberté de l'échantillonnage. Cet article dévoilera son noyau technique, son contexte idéologique et sa position dans la culture musicale.
+Le nouveau rythme cardiaque de Roland, le TR-1000, est un "Rhythm Creator" qui combine la chaleur de l'analogique, la précision du numérique et la liberté de l'échantillonnage. Cet article dévoilera son noyau technique, son contexte idéologique et sa position dans la culture musicale.
 
 ---
 
@@ -42,7 +42,7 @@ color: #fff;
 #### ── L'incident de l'apparition du TR-1000
 
 Le **TR-1000** sorti par Roland en 2025 n'est pas qu'une extension de la série.
-808, 909, 707... Cette machine apparue à la fin de l'histoire, où ils symbolisaient le groove de l'époque, est une « machine à rythme intellectuelle » qui apprend et réinterprète le « sens humain du rythme ».
+808, 909, 707... Cette machine apparue à la fin de l'histoire, où ils symbolisaient le groove de l'époque, est une « machine à rythme intellectuelle » qui apprend et réinterprète les « rythmes humains ».
 
 Dans les années 1980, les rythmes électroniques étaient appelés « battements de cœur mécaniques ». Cependant, ce que présente le TR-1000 est le contraire : **"une machine comprend le battement du cœur humain"**.
 Numérique et analogique, IA et émotions. À cette frontière se trouve la philosophie que Roland a cultivée pendant un demi-siècle.
@@ -85,7 +85,7 @@ Au cœur du TR-1000 se trouve une philosophie de conception bas de gamme.
 Un circuit unique de sous-oscillation et de contrôle des harmoniques a été ajouté au **circuit de génération d'onde sinusoïdale**, qui perpétue la tradition depuis le 808.
 En conséquence, nous avons obtenu une « basse fréquence tridimensionnelle » qui combine la pression physique et la texture de l'air.
 
-La caisse claire est construite à l'aide d'un circuit discret + méthode de mise en forme du bruit, et le charleston est construit à l'aide d'une source de bruit analogique qui comprend un micro-retard infime.
+La caisse claire est construite à l'aide d'un circuit discret + méthode de mise en forme du bruit, et le charley est construit à l'aide d'une source de bruit analogique qui comprend un micro-retard infime.
 Il a réalisé une « coexistence de réalisme acoustique et d'abstraction » qui va au-delà de la reproduction du 808/909.
 En conséquence, il n'est pas éclipsé, même dans les sonorisations de club, et maintient un riche sentiment de séparation même sur les moniteurs de studio.
 
@@ -100,7 +100,7 @@ Le fondateur de Roland, **Ikutaro Kakei**, a dit un jour :
 Le TR-1000 hérite de cette philosophie dans le contexte de l'ère de l'IA.
 La fonction « Humaniser » analyse l'historique des performances et modélise les habitudes du joueur, pas seulement les fluctuations de tempo.
 Il « apprend » le rythme du bout des doigts du joueur et le restitue sous forme de son.
-En d’autres termes, le TR-1000 est aussi une « machine qui écoute les performances humaines ».
+En d’autres termes, le TR-1000 est aussi une « machine à l’écoute des performances humaines ».
 
 Ce dialogue a évolué depuis l'époque où le 808 offrait un « groove mécanique » à un « rythme résonant ».
 

@@ -8,7 +8,7 @@ layout: post
 permalink: /fr/all-boxed-in-happen/
 tags:
 - House
-title: Tout est en boîte – … ça se passe
+title: Tout est en boîte – ... ça se passe
 ---
 
 

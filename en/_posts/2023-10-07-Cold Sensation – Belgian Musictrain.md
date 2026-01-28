@@ -13,7 +13,7 @@ title: Cold Sensation – Belgian Musictrain
 
 "Belgian Musictrain" is a song by a Belgian music group called Cold Sensation. This song was released in 1991.
 
-"Belgian Musictrain" is an upbeat song that incorporates elements of electronic dance music. As the title of the song suggests, the theme is a celebration of the Belgian music scene and party culture.
+"Belgian Musictrain" is an upbeat song that incorporates elements of electronic dance music. As you can see from the song's title, the theme is a celebration of the Belgian music scene and party culture.
 
 Cold Sensation is a briefly popular group on the Belgian dance music scene, and their songs are characterized by energetic, danceable beats and melodies.
 

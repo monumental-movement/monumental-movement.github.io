@@ -11,7 +11,7 @@ tags:
 - Techno
 - Modular
 - History
-title: '[Column] Buchla and Serge: Another lineage of electronic acoustics'
+title: '[Column] Buchla and Serge: Another genealogy of electronic acoustics'
 ---
 
 

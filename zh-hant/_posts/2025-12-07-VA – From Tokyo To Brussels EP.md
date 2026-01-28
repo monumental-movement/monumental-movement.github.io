@@ -17,7 +17,7 @@ title: VA – 從東京到布魯塞爾 EP
 
 A 是日本領先的 techno DJ Q'hey 和比利時傳奇 DJ Marco Bailey 創作的歌曲。
 
-B是由MARCO BAILEY發現並活躍於世界各地的DJ KANA和比利時Techno/tech house DJ Tom Hades的歌曲。
+B是由MARCO BAILEY發現並在世界各地活躍的DJ KANA和比利時Techno/tech house DJ Tom Hades的歌曲。
 
 #### 曲目列表
 ```md

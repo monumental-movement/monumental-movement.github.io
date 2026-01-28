@@ -23,7 +23,7 @@ title: '[Chronique] Brenda Fassie — La diva du township : un voyage de gloire
 
 
 
-# はじめに
+# Introduction
 
 Texte : mmr | Thème : Brenda Fassie (1964-2004), chanteuse originaire d'un township d'Afrique du Sud. Gloire et revers, politique et vie privée : retrace sa vie et son héritage à partir de faits
 
@@ -56,7 +56,7 @@ color: #fff;
 * Genre : Pop, Afropop, Kwaito, R&B
 *Décès : 9 mai 2004 (39 ans)
 
-# 年表
+# Chronologie
 
 | Année | Événements |
 | ---- : | --------------------------------------------------------------------- |
@@ -118,7 +118,7 @@ La mort de son amant en 1995 et le scandale qui en a résulté ont provoqué son
 
 Libéré en 1990, Black President avait une signification particulière dans le contexte du mouvement anti-apartheid, contenant un message de respect et d'espoir pour Nelson Mandela, alors prisonnier. Cette œuvre est importante en tant qu’exemple de la musique populaire devenue une plateforme d’expression politique.
 
-Les paroles de Brenda se mêlaient souvent à la vie du township, aux épreuves de la communauté noire et aux émotions personnelles, dans lesquelles les auditeurs trouvaient empathie et catharsis. En tant que chanteuse, elle non seulement divertissait, mais servait également de voix sociale.
+Les paroles de Brenda se mêlaient souvent à la vie du township, aux épreuves de la communauté noire et aux émotions personnelles, dans lesquelles les auditeurs trouvaient de l'empathie et de la catharsis. En tant que chanteuse, elle non seulement divertissait, mais servait également de voix sociale.
 
 ---
 
@@ -126,13 +126,13 @@ Les paroles de Brenda se mêlaient souvent à la vie du township, aux épreuves 
 
 Depuis 1996, elle concentre ses efforts sur la production musicale, remportant un succès commercial avec plusieurs albums. Des œuvres telles que Memeza et Nomakanjani, en particulier, ont connu un énorme succès et ont consolidé son statut à la fin des années 1990.
 
-Dans son travail de cette période, vous pouvez entendre les expressions vocales de Brenda devenir plus matures, même si elle incorpore du kwaito et des rythmes de danse. Leur charisme sur scène, l'implication habile du public et la sophistication de la production lors de l'enregistrement leur ont une fois de plus valu un large soutien.
+Dans les œuvres de cette période, vous pouvez entendre les expressions vocales de Brenda devenir plus matures, même si elle incorpore du kwaito et des rythmes de danse. Leur charisme sur scène, leur participation habile du public et leur sophistication de production lors de l'enregistrement leur ont une fois de plus valu un large soutien.
 
 ---
 
 # 8. Voix et corps : présence scénique et technique de chant
 
-Le charme de Brenda réside dans la qualité de sa voix elle-même. Ses armes étaient un médium épais et ferme, une expressivité alliant puissance et lyrisme et une approche improvisée du rythme. La mise en scène impliquait souvent un dialogue avec le public et avait le pouvoir d'unifier le public.
+Le charme de Brenda réside dans la qualité de sa voix elle-même. Ses armes étaient un médium épais et ferme, une expressivité alliant puissance et lyrisme et une approche improvisée du rythme. La mise en scène impliquait souvent un dialogue avec le public et avait le pouvoir de l'unifier.
 
 Les costumes de scène, les expressions faciales et la direction du spectacle font également partie de son identité, et lorsque ceux-ci sont combinés avec la musique, le « monde de Brenda » s'est formé.
 
@@ -140,7 +140,7 @@ Les costumes de scène, les expressions faciales et la direction du spectacle fo
 
 # 9. Avant et après le décès et l'héritage
 
-En avril 2004, Brenda s'est effondrée chez elle et a été transportée à l'hôpital. Après plusieurs jours de traitement, il est décédé le 9 mai. Il y a eu plusieurs rapports sur la cause du décès, mais le rapport final indiquait que les crises d'asthme et les complications étaient un facteur contributif.
+En avril 2004, Brenda s'est effondrée chez elle et a été transportée à l'hôpital. Après plusieurs jours de traitement, il est décédé le 9 mai. Il y a eu plusieurs rapports sur la cause du décès, mais le rapport final indiquait que les crises d'asthme et les complications étaient des facteurs contributifs.
 
 Sa mort a provoqué un profond choc dans le monde de la musique sud-africaine, avec des hommages affluent du pays et de l'étranger. Une compilation best-of posthume et une compilation rétrospective préservent la musique de Brenda pour des générations d'artistes et d'auditeurs. Dans certains cas, ses fils et étudiants en musique perpétuent son héritage.
 
@@ -177,14 +177,14 @@ flowchart TB
 
 * **Spécial week-end** — Un des premiers classiques. Il a été bien accueilli par un large éventail de publics en raison de son rythme traînant et de son refrain accrocheur.
 * **Trop tard pour maman** — Une ballade émouvante. La nature narrative des paroles et du chant lyrique est impressionnante.
-* **Vuli Ndlela** — Une chanson typique qui incorpore des éléments de la danse du township.
+* **Vuli Ndlela** — Une chanson typique qui incorpore des éléments de danse du township.
 * **Black President** — Une chanson au message politique fort, qui a laissé un fort impact en lien avec le contexte social de l'époque.
 
 ---
 
 # 13. Évaluation socioculturelle et influence sur la postérité
 
-Les réalisations de Brenda vont au-delà du succès musical et ont un impact culturel et social. Elle a poussé les voix des townships et des communautés noires au centre de la musique pop, a contribué à la visibilité LGBTQ et a ouvert la voie à la prochaine génération d’artistes noires.
+Les réalisations de Brenda vont au-delà du succès musical et ont un impact culturel et social. Elle a poussé les voix des townships et des communautés noires au centre de la musique pop, a contribué à la visibilité LGBTQ et a ouvert la voie à la prochaine génération de femmes artistes noires.
 
 D’un autre côté, les reportages sur les problèmes et les scandales liés à la drogue ont également fourni du matériel pour montrer les côtés lumineux et sombres des étoiles. Aujourd’hui, elle reste une figure emblématique de l’histoire de la musique sud-africaine.
 

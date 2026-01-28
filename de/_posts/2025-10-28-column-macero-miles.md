@@ -23,7 +23,7 @@ Text: mmr | Thema: „Musikalische Revolution durch Bearbeitung“, zusammengest
 
 Ende der 1960er Jahre war die Musik von Miles Davis nicht mehr eine Erweiterung seiner Live-Auftritte, sondern verwandelte sich in eine „Klangarchitektur“, die durch Aufnahme und Bearbeitung konstruiert wurde. Hinter der Änderung steht Produzent und Herausgeber **Teo Macero**.
 
-Masero war nicht nur eine Person „hinter den Kulissen“. Unter seinen Händen wurde eine große Anzahl von Sitzungskassetten ausgeschnitten, zusammengefügt und wieder zusammengesetzt, was zu einer Werkgruppe führte, die man als „Komposition durch Bearbeitung“ bezeichnen kann.
+Masero war nicht nur eine Person „hinter den Kulissen“. Unter seinen Händen wurde eine große Anzahl von Sitzungskassetten ausgeschnitten, zusammengefügt und wieder zusammengesetzt, was zu einem Gesamtwerk führte, das man als „Komposition durch Bearbeitung“ bezeichnen könnte.
 „In a Silent Way“ (1969) und „Bitches Brew“ (1970) sind Paradebeispiele. Es gibt eine **Revolution in der Bearbeitungsästhetik**, die über die Grenzen zwischen „Aufführung“ und „Komposition“ hinausgeht.
 
 ---
@@ -50,7 +50,7 @@ Wie Stockhausen und Varèse entwickelte Macero schon früh ein Bewusstsein dafü
 In den späten 1950er Jahren wurde er Mitarbeiterproduzent bei Columbia Records und arbeitete mit Künstlern wie Miles Davis und Dave Brubeck zusammen.
 Was ihn jedoch von anderen Produzenten unterschied, war, dass er den Schnitt selbst als einen Ort der Schöpfung verstand.
 
-> „Auch nach dem Ende der Aufführung endet die Musik nicht. Im Schnittraum beginnt sie von vorne.“
+> „Auch nach dem Ende der Aufführung hört die Musik nicht auf. Im Schnittraum beginnt sie von vorne.“
 > — Teo Macero
 
 ---
@@ -83,13 +83,13 @@ flowchart LR
 
 ## Kapitel 3: „Bitches Brew“ – Der Operationstisch, der Ordnung aus dem Chaos schafft
 
-Mit „Bitches Brew“ aus den 1970er Jahren explodierten Maceros Bearbeitungstechniken noch weiter.
+Mit Bitches Brew aus den 1970er Jahren explodierten Maceros Bearbeitungstechniken noch mehr.
 Mehr als sechs Tonbandgeräte liefen gleichzeitig, sodass das Studio wie ein Labor wirkte.
 
-Nicht jeder Interpret hat ein gemeinsames Thema, was zu einer **Flut fragmentierter Improvisation** führt.
+Nicht jeder Interpret hat ein gemeinsames Thema, was zu einer Flut fragmentierter Improvisationen führt.
 Macero fügte diese Fragmente zu Einheiten von mehreren Metern zusammen und gestaltete durch Bearbeitung den rhythmischen Fluss und den akustischen „Ort“.
 
-> „Ich habe die Klänge zerhackt und rekonstruiert. Es war derselbe Akt wie Komponieren.“
+> „Ich habe Klänge zerhackt und rekonstruiert. Es war derselbe Akt wie Komponieren.“
 > — Teo Macero
 
 Seine Methode ähnelte der Musique Concrète, war aber auch mit der freien Improvisation des Jazz verbunden.
@@ -117,7 +117,7 @@ graph TD
 
 ## Kapitel 4: Die Idee der Bearbeitung = Komposition
 
-Teo Maceros größter Beitrag bestand darin, die Aufnahmetechnologie von einem Hilfswerkzeug zu einem kreativen Medium zu machen.
+Der größte Beitrag von Teo Macero bestand darin, die Aufnahmetechnologie von einem Hilfswerkzeug zu einem kreativen Medium zu machen.
 Es war der Vorläufer des Paradigmas „Bearbeiten = Komponieren“.
 
 - Strukturumwandlung durch physikalisches Schneiden (Bandspleiß)
@@ -281,7 +281,7 @@ graph LR
 
 → Konzentrieren Sie sich auf die „Tiefenachse“ und nicht auf Stereo links und rechts.
 
-Man kann sagen, dass Maceros bearbeiteter Sound bereits die „Skulptur der Zeit“ in die Tat umsetzte, die später Techno, Ambient und Electronica anstrebten.
+Man kann sagen, dass Maceros Tonbearbeitung bereits die „Skulptur der Zeit“ in die Tat umsetzte, die später Techno, Ambient und Electronica anstrebten.
 
 ---
 
@@ -387,7 +387,7 @@ flowchart LR
 | ------ | --------- | -------------------------- |
 | Spleiß ① | Erzwungener Übergang vom Drum/Bass-Layer zum Trompetensolo | So schneiden, dass es wie eine „spontane“ Komposition aussieht |
 | Spleiß ② | Verbindung der Sitzungen B und C (Tempoinkongruenz) | Hörverwirrung → Trance-Effekt |
-| Spleiß ③ | Überlagerung verschiedener Rhythmusebenen | Mehrschichtige Rillen |
+| Spleiß ③ | Übereinanderlegen verschiedener Rhythmusebenen | Mehrschichtige Rillen |
 | Spleißen ④ | Rekursives Einfügen eines Themas | Strukturelle Zirkularisierung (In a Silent Way-Technik) |
 
 
@@ -409,7 +409,7 @@ graph TD
 </div>
 
 Diese „bearbeitete Partitur“ enthält die Zeit, das Tempo und den Quell-Take jedes Segments.
-Macero nannte es die „Karte des Klangs“.
+Macero nannte es die „Landkarte des Klangs“.
 Man kann sagen, dass sie der später von Brian Eno vertretenen „Studiokompositionsmethode“ vorausging.
 
 ---
@@ -418,7 +418,7 @@ Man kann sagen, dass sie der später von Brian Eno vertretenen „Studiokomposit
 
 | Elemente | Technik | Akustische Absicht |
 | ---------- | ------------------------ | ------------------------ |
-| Stereoraum | Lokalisierung (Positionierung der Trommel links und rechts), die in der realen Aufführung unmöglich ist | Erweiterung des visuellen Raumgefühls |
+| Stereoraum | Lokalisierung (Positionierung der Trommel links und rechts), die in der realen Aufführung nicht möglich ist | Erweiterung des visuellen Raumgefühls |
 | Bandwiederholung | Dieselbe Phrase erneut einfügen (rekursive Struktur) | Auditive Hypnose-Wirkung |
 | EQ/Reverb-Bedienung | Vereinheitlichung der Textur zwischen mehreren Takes | Pseudogenerierung räumlich-zeitlicher Kontinuität |
 | „Nähte“ fragmentierten Nachhalls | Absichtlich zurückgelassen | Bearbeitungsspuren in Musik verwandeln (Klangnähte in „Struktur“ verwandeln) |

@@ -15,7 +15,7 @@ title: Funkadelic – 무대로 가보자
 
 'Let's Take It to the Stage'는 펑카델릭의 일곱 번째 정규 앨범으로, 에너제틱한 리듬과 펑키한 기타 리프, 독특한 보컬 하모니 등 펑카델릭의 요소가 응축되어 있다.
 
-'Let's Take It to the Stage'는 그루비한 펑크 비트와 파워풀한 기타 연주가 특징으로 펑카델릭의 실험적인 접근 방식과 다이내믹한 퍼포먼스를 반영한다.
+'Let's Take It to the Stage'는 그루비한 펑크 비트와 파워풀한 기타 연주가 특징으로 펑카델릭의 실험적인 접근 방식과 다이내믹한 퍼포먼스를 반영한 ​​곡이다.
 
 "Get Off Your Ass and Jam"과 "Stuffs and Things"는 Funkadelic의 음악적 다양성과 창의성을 선보이며 실험적인 사운드와 독특한 스타일을 구현합니다.
 

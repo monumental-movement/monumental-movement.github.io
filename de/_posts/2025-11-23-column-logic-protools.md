@@ -76,7 +76,7 @@ In den Vereinigten Staaten führte die Verbreitung von Macintosh zum Aufstieg vo
 * **1985: MOTU „Performer“**
 * Kompatibel mit der grafischen Benutzeroberfläche des Macintosh, viele Komponisten haben sie übernommen.
 
-Vor digitalem Audio begannen MOTU und Steinberg als Werkzeuge des Komponisten.
+Vor dem digitalen Audio begannen MOTU und Steinberg als Werkzeuge des Komponisten.
 
 ---
 
@@ -155,7 +155,7 @@ Als Tatsachen bestätigte Punkte:
 * **Beenden Sie die Windows-Version von Logic und wechseln Sie nur zu Mac**
 * Übertragung auf die Entwicklung von GarageBand (2004).
 * Der Preis von Logic Pro wird deutlich sinken und seine Beliebtheit wird zunehmen
-* Deutlich erhöhte Anzahl originaler Apple-Software-Soundquellen und Loop-Materialien
+* Deutlich erhöhte Anzahl an Original-Apple-Software-Soundquellen und Loop-Materialien
 
 Diese Akquisition ist
 **Dies ist der größte Faktor, der das Image von „Musikproduktion = Mac“ bestimmt hat**.
@@ -168,7 +168,7 @@ Die Übernahme erfolgte 1994, die Marke Digidesign verschwand jedoch 2010.
 *Übernimmt vollständig den Industriestandard für Videobearbeitung und Audio-Finishing
 * Der Trend „Avid → Pro Tools“ in der Filmproduktion hat sich weltweit etabliert.
 
-Zwei Unternehmen, Apple und Avid
+Apple und Avid
 **Planen Sie, sowohl im Hinblick auf das Betriebssystem als auch auf die Videoproduktion die Führung auf dem DAW-Markt zu übernehmen**
 ist hier abgeschlossen.
 
@@ -191,7 +191,7 @@ Auch nach der Übernahme bleibt die Ausrichtung unverändert und die technologis
 
 * Die Genauigkeit der Videosynchronisation hat sich in der DP5/6-Ära weiter erhöht
 * Da es nur für den Mac geeignet ist, ist es mit Videosystemen kompatibel.
-* Wird häufig von Musikkomponisten verwendet, die häufig Soft-Synthesizer verwenden
+* Wird häufig von Komponisten verwendet, die häufig Soft-Synthesizer verwenden
 
 ### ■ Adobe: Cool Edit → Broadcast-Bearbeitung mit Audition integrieren
 
@@ -262,7 +262,7 @@ In den letzten Jahren hat die Geschichte der DAWs einen weiteren großen Wandel 
 
 ### ■ Adobe: Steigende Nachfrage nach Vertrieb und Rundfunk
 
-* Integrationsvorteil mit Premiere
+* Vorteile der Integration mit Premiere
 * Stark im YouTube-/Podcast-Zeitalter
 
 ---

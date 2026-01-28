@@ -36,7 +36,7 @@ D1. Sing It Back (Chez Maurice Mix)
 D2. Sing It Back (Herbert's Tasteful Dub)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m50691823810?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m50691823810?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0XLGwTy-DDY?si=vb8Cs3jpszpG5U9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

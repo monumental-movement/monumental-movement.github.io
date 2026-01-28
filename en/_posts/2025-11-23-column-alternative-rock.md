@@ -26,7 +26,7 @@ Although the term "alternative rock" became popular in the early 1990s, its orig
 
 In the 1980s, mainstream rock was centered on loud arena-sized hard rock, commercially polished AOR, and pop rock associated with MTV. On the other hand, in regional cities and university towns, a new movement of bands rooted in the DIY spirit and not based on commercial success began to emerge.
 
-In the United States at the time, independent labels such as SST Records, Twin/Tone, and Touch and Go were producing a variety of styles that were not dependent on genre. This was a movement called ""college rock'', a band that inherited the speed and anti-authoritarianism of hardcore punk, but had a freer experimental spirit.
+In the United States at the time, independent labels such as SST Records, Twin/Tone, and Touch and Go were producing a variety of styles that were not dependent on genre. This was a movement known as ""college rock'', a band that inherited the speed and anti-authoritarianism of hardcore punk, but had a freer experimental spirit.
 
 Around the same time, in Britain, the post-punk scene was branching out underground in a complicated way.
 Labels like Factory, 4AD, and Creation all had their own unique aesthetics, releasing a wide range of bands from guitar pop to shoegaze to gothic rock.
@@ -117,7 +117,7 @@ This movement connects to lyrical and experimental bands like Radiohead and The 
 The rise of Tortoise, Mogwai, Godspeed You! Black Emperor and others pushed the boundaries of rock.
 
 Alternative is no longer a single style;
-**"A general term for creativity that is not captured by commercialism"**
+**"A general term for creativity that is not recovered by commercialism"**
 It has come to be understood as.
 
 ---
@@ -177,8 +177,8 @@ flowchart TD
 
 # **Chapter 7: The current location and future of alternatives**
 
-In the 2020s, the word "alternative" is increasingly used to refer to a "place" or "community" rather than a genre.
-With indie distribution centered around Bandcamp, the expansion of Bedroom Pop, and the spread of cross-genre production environments, alternative continues to be a concept that symbolizes the ""spirit of independent production.''
+In the 2020s, the word "alternative" is increasingly used to refer to "place" or "community" rather than genre.
+With indie distribution centered on Bandcamp, the expansion of Bedroom Pop, and the spread of cross-genre production environments, alternative continues to be a concept that symbolizes the ""spirit of independent production.''
 
 Although it is unlikely that a huge movement like the one in the past will occur, it can be said that the ""spirit of independence'' has taken root more widely.
 What started as a small underground movement in the 1980s continues to pervade every musical genre around the world, 40 years later.

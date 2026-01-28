@@ -80,7 +80,7 @@ Dieses Lied war nicht nur eine Aufführung, sondern ein kulturelles Ritual mit B
 
 ### 2.1 Erste Europatournee (1970)
 
-1970 starteten Toots and the Maytals ihre erste Europatournee. Im Londoner Carnival Club mischten sich junge Briten, die mit jamaikanischen Musik nicht vertraut waren, unter das Publikum und die Grenzen zwischen Bühne und Boden verschwanden.
+1970 starteten Toots and the Maytals ihre erste Europatournee. Im Londoner Carnival Club mischten sich junge Briten, die mit der jamaikanischen Musik nicht vertraut waren, unter das Publikum und die Grenzen zwischen Bühne und Boden verschwanden.
 
 **Live-Darstellung**:
 
@@ -97,7 +97,7 @@ Bei Live-Auftritten lud Toots das Publikum manchmal zum Tanzen ein und verwandel
 
 1975, mit der Veröffentlichung des Albums „Funky Kingston“, tourten sie durch New York. Lieder wie „Pressure Drop“, „Monkey Man“ und „Funky Kingston“ wurden gespielt und das Publikum tanzte und sang zu Toots‘ Rufen.
 
-**Merkmale der Live-Aufführung**:
+**Merkmale der Live-Performance**:
 
 * Durch die Einführung eines Soundsystems sind tiefe Bässe im gesamten Raum zu hören.
 * Toots' spontaner Vortrag ermöglicht es dem Publikum, eins mit der Aufführung zu werden.
@@ -112,7 +112,7 @@ Die Live-Auftritte in dieser Zeit zeigten nicht nur die Entwicklung von Sound un
 
 ### 3.1 Reggae Sunsplash und großes Festival
 
-In den 1980er Jahren waren Toots and the Maytals Headliner auf Jamaikas größtem Festival, dem Reggae Sunsplash. Auf der Bühne beginnt das Publikum mitzusingen, zu klatschen und zu tanzen, bis der gesamte Veranstaltungsort in einem Rhythmus versunken ist.
+In den 1980er Jahren waren Toots and the Maytals Headliner auf Jamaikas größtem Festival, dem Reggae Sunsplash. Sobald das Publikum auf der Bühne ist, beginnt es mitzusingen, zu klatschen und zu tanzen, sodass der gesamte Veranstaltungsort in einen einzigen Rhythmus eingehüllt ist.
 
 **Anwesenheit der Leistung**:
 
@@ -125,7 +125,7 @@ In den 1980er Jahren waren Toots and the Maytals Headliner auf Jamaikas größte
 
 ### 3.2 Madison Square Garden-Aufführung (1988)
 
-Ein Live-Auftritt im New Yorker Madison Square Garden im Jahr 1988 hatte entscheidenden Einfluss auf die Akzeptanz von Reggae in den Vereinigten Staaten. Toots spielte eine Call-and-Response-Interpretation von „Funky Kingston“ mit dem Publikum, das aufstand und tanzte und so den gesamten Veranstaltungsort zusammenbrachte.
+Ein Live-Auftritt im New Yorker Madison Square Garden im Jahr 1988 hatte entscheidenden Einfluss auf die Akzeptanz von Reggae in den USA. Toots spielte eine Call-and-Response-Interpretation von „Funky Kingston“ mit dem Publikum, das aufstand und tanzte und so den gesamten Veranstaltungsort zusammenbrachte.
 
 Die Live-Aufnahme wurde als „Live at Madison Square Garden“ veröffentlicht und begeisterte Fans auf der ganzen Welt. Dieser Erfolg diente als Gelegenheit, den Status des Reggae in den Vereinigten Staaten zu etablieren.
 

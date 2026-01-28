@@ -40,7 +40,7 @@ color: #fff;
 ### Une oreille qui transcende les genres : David Toop L'évolution de la pensée musicale
 
 > "La musique ne doit pas se limiter aux genres. Si on ouvre les oreilles, tout devient musique."
-> -David Toop
+> - David Toop
 
 
 ### Années 1970 - Entre improvisation et avant-garde
@@ -92,7 +92,7 @@ On peut dire que c’est l’époque où s’impose le style de Toop, qui allie 
 
 « Ocean of Sound », connu pour sa métaphore de « mer de son », contenait des idées qui anticipaient la propagation du streaming.
 Le texte, qui est une fusion d'essais, de critique et de littérature, dépasse le cadre d'un livre de musique et fonctionne comme une « littérature auditive ».
-Ses propres œuvres ambiantes présentaient également un monde de sons doux et diffus.
+Ses œuvres ambiantes présentaient également un monde de sons doux et diffus.
 
 | Année | Sources sonores/artistes en vedette | Commentaire |
 |------|------|------|
@@ -132,7 +132,7 @@ Jazz, hip-hop, ambient, art sonore - il ne rentre dans aucun d'entre eux, mais c
   - [*Haunted Weather* (2004)](https://amzn.to/48lz4o3)
   - [*Sinister Resonance* (2010)](https://amzn.to/3Kd5l6N)
 
-- **La musique fonctionne**
+- **Œuvres musicales**
 - *Instruments de musique nouveaux et redécouverts* (avec Max Eastley, 1975)
 - *Cérémonies d'écran* (1990)
 - *Musée du Fruit* (1996)

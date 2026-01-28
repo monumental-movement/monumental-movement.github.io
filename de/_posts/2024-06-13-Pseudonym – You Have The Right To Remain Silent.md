@@ -11,7 +11,7 @@ tags:
 - Euro House
 - Disco
 - 80s
-title: Pseudonym – You Have The Right To Remain Silent
+title: Pseudonym – Sie haben das Recht zu schweigen
 ---
 
 

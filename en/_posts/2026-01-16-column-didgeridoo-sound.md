@@ -191,7 +191,7 @@ In parts of East Arnhem Land, the didgeridoo functions as a stable support that 
 
 ## Musical representation seen in rock paintings
 
-Rock art throughout northern Australia depicts human figures holding long, tubular musical instruments, as well as hunting and ceremonial scenes. These have been interpreted to refer to the didgeridoo or its predecessor.
+Rock art throughout northern Australia depicts human figures holding long, tubular instruments, as well as hunting and ceremonial scenes. These have been interpreted to refer to the didgeridoo or its predecessor.
 
 The depiction of musical instruments in rock art is more a symbol of ritual action than a realistic record. The body decorations and placement of the figures suggest that music was performed as a collective practice.
 

@@ -14,12 +14,12 @@ title: '[Chronique] Interaction post-rock/ambient avec le cinéma et l''architec
 ---
 
 
-## Interaction avec le cinéma et l'architecture post-rock/ambient
+## Interaction avec le cinéma post-rock/ambiant et l'architecture
 
 Texte : mmr｜Thème : Post Rock/Ambient et films/architecture
 
 L'évolution du post-rock/ambient ne se limite pas à un seul genre musical, mais a une affinité avec l'art spatial tel que le **film, l'architecture et l'urbanisme**.
-En plus des chefs-d'œuvre historiques, nous organiserons également des interactions avec le cinéma et l'architecture, ainsi que des expériences ambiantes dans les espaces urbains.
+Ici, en plus des chefs-d'œuvre historiques, nous organiserons des interactions avec des films et des expériences architecturales et ambiantes dans les espaces urbains.
 
 ---
 
@@ -161,7 +161,7 @@ L’ambient/post-rock est fortement présent en dialogue avec les espaces urbain
 
 Le post-rock/ambient n’est pas seulement un genre musical, mais a évolué en tant que méthode de conception du temps et de l’espace.
 
-Expansion psychologique au cinéma : manipulation du temps avec des drones, des boucles et des paysages sonores
+Expansion psychologique au cinéma : manipuler le temps avec des drones, des boucles et des paysages sonores
 
 Applications en architecture et en urbanisme : l'expérience de rester dans un espace, les lignes de marche et l'harmonie avec les sons de l'environnement urbain
 

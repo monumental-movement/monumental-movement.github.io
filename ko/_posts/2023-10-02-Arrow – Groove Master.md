@@ -14,7 +14,7 @@ title: 애로우 – 그루브 마스터
 ---
 
 
-Arrow라고도 알려진 Alphonsus Cassell은 몬세라트 칼립소 및 소카 음악가이자 몬세라트 최초의 소카 슈퍼스타였습니다. 1982년 '핫핫핫'은 세계적인 히트곡으로 유명하다.
+Arrow라고도 알려진 Alphonsus Cassell은 몬세라트 칼립소 및 소카 음악가이자 몬세라트 최초의 소카 슈퍼스타였습니다. 그들의 1982년 노래 "Hot Hot Hot"은 국제적인 히트작으로 유명합니다.
 
 Side A Groove Master(Acid Soca House Dub)는 하우스 음악과 클럽 음악 애호가들 사이에서 인기 있는 곡입니다.
 

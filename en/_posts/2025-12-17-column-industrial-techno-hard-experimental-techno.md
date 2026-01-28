@@ -145,7 +145,7 @@ The body is given over to predictable beats, and the hearing is exposed to unpre
 | Years | Events |
 | ------ | -------------------------- |
 | 1970s | Industrial music establishes material-oriented structure |
-| 1980s | Techno establishes a repetitive temporal structure |
+| 1980s | Techno establishes a repetitive time structure |
 | 1990s | Fusion of hard techno and industrial |
 | 2010s | Redefining modern industrial techno |
 | 2020s | Integrating precision acoustic design and physicality |
@@ -156,7 +156,7 @@ The body is given over to predictable beats, and the hearing is exposed to unpre
 
 Industrial Techno / Hard Experimental Techno is not chaotic noise, but extremely controlled structure. There, violence, distortion, and even pressure become objects of design.
 
-Practices such as Perc and Ancient Methods push the boundaries of the techno form, transforming music into a device that reorganizes bodies and spaces. This genre will continue to deepen in terms of both structure and sonics.
+Practices such as Perc and Ancient Methods push the limits of the techno form, transforming music into a device that reorganizes bodies and spaces. This genre will continue to deepen in terms of both structure and sonics.
 
 ---
 

@@ -14,7 +14,7 @@ title: Crivillés & Cole – A Deeper Love (A Deeper Feeling Mix)
 
 Clivillés & Cole ist eine Einheit bestehend aus Robert Clivillés und David Cole. Seit Ende der 1980er Jahre ist er als US-amerikanischer Plattenproduzent, Songwriter und Remixer aktiv und feierte in den 1990er Jahren weltweite Erfolge.
 
-Sowohl „A Deeper Love (A Deeper Feeling Mix)“ als auch der House-Remix „Pride“ von U2 wurden zu Welthits.
+Sowohl „A Deeper Love (A Deeper Feeling Mix)“ als auch der House-Remix von U2s „Pride“ wurden zu Welthits.
 
 #### Trackliste
 ```md

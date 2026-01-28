@@ -56,7 +56,7 @@ Chaque fois que la techno ou le hip-hop gravaient l'atmosphère urbaine, la bass
 
 ## II. Changements cruciaux dans le monde : histoire de la musique du XXe siècle guidée par les sons de basse
 
-### 1. Commençant par la rébellion du jazz
+### 1. A commencer par la rébellion du jazz
 
 Écouter la pièce de Charles Mingus
 Cela sonne plus qu’une simple ligne de basse, cela ressemble à une déclaration à la société.
@@ -127,7 +127,7 @@ Ce qu’il a établi, c’est l’esthétique du « groove en japonais ».
 ---
 
 Hironori Ito du groupe Tatsuro Yamashita, Tsugutoshi Goto, Akira Okazawa──
-Ils ont créé un son de classe mondiale entre chansons populaires et AOR.
+Ils ont créé un son qui relie le monde entre les chansons populaires et AOR.
 La guitare basse ne joue plus un rôle en coulisses, mais devient un élément qui soutient la « dignité » de la musique.
 
 ---

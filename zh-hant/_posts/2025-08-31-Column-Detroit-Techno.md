@@ -164,7 +164,7 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，*Transmat 成立於 20 �
 
 ### 相關專欄
 
-🔗 [[專欄]從 techno 的起源到現在 - 通過著名唱片和設備追溯的年代史](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[專欄]從techno的起源到現在——通過著名的唱片和設備追溯的年代史](https://monumental-movement.jp/Column-Techno-History)
 
 🔗 [[Column] Tresor - 柏林地下改變世界的科技聖地](https://monumental-movement.jp/Column-Tresor)
 

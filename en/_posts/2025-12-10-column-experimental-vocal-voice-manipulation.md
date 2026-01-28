@@ -20,7 +20,7 @@ title: '[Column] Experimental Vocal / Voice Manipulation — History and techniq
 
 Text: mmr｜Theme: Experimental vocals that process, generate, and rearrange the voice as a material/history, techniques, representatives, and contemporary trends of voice manipulation
 
-In the 21st century, the singing voice has gone from simply conveying a melody to an editable acoustic material. With the availability of tools such as recording/editing technology, effects, sampling, real-time processing, and generation technology, the voice has acquired a diverse role as an instrument, texture, spatial description, and even data resource. Artists like Bjork and Imogen Heap, who use their own voices as the main material for their experiments, and expressions created by technological breakthroughs such as granular synthesis and AI-based resynthesis, have greatly expanded the possibilities of the voice.
+In the 21st century, the singing voice has gone from simply conveying melodies to an editable acoustic material. With the availability of tools such as recording/editing technology, effects, sampling, real-time processing, and generation technology, the voice has acquired a diverse role as an instrument, texture, spatial description, and even data resource. Artists like Bjork and Imogen Heap, who use their own voices as the main material for their experiments, and expressions created by technological breakthroughs such as granular synthesis and AI-based resynthesis have greatly expanded the possibilities of the voice.
 
 ---
 
@@ -74,7 +74,7 @@ Bjork has clearly shown a production approach that treats the voice as the main 
 
 ### 3-2. Imogen Heap — Real-time control and physicality
 
-Imogen Heap demonstrated that the voice can be played instrumentally through live expression using real-time effect control, gestures, and controllers. Using a harmonizer and self-made signal processing, he visualized the immediacy and transformability of the voice by manipulating the texture and harmonics of the voice during the performance.
+Imogen Heap demonstrated that the voice can be played instrumentally through live expression using real-time effect control, gestures, and controllers. By using a harmonizer and self-made signal processing to manipulate the texture and harmonics of the voice during a performance, he visualized the immediacy and transformability of the voice.
 
 ---
 

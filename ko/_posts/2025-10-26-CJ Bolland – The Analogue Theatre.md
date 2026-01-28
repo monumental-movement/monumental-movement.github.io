@@ -11,7 +11,7 @@ tags:
 - Breakbeat
 - Big Beat
 - 90s
-title: CJ 볼랜드 - 아날로그 극장
+title: CJ 볼랜드 – 아날로그 극장
 ---
 
 

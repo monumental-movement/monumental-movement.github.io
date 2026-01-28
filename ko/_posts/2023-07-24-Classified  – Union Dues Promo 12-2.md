@@ -20,7 +20,7 @@ title: 기밀 – 조합비 프로모션 12-2
 
 
 
-Classified Classified(본명: Luke Donald Boyd)의 Union Dues Promo 12-2는 2002년 HalfLife Records라는 레이블로 발매되었습니다.
+Classified Classified(실명: Luke Donald Boyd)의 Union Dues Promo 12-2는 2002년 HalfLife Records라는 레이블로 발매되었습니다.
 
 #### 트랙리스트
 ```md

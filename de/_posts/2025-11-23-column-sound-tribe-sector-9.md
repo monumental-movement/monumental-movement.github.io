@@ -22,7 +22,7 @@ title: '[Kolumne] Sound Tribe Sector 9 (STS9) – Die Entwicklung einer Live-Ban
 Text: mmr｜Thema: Geschichte von STS9 von seiner Gründung bis zur Gegenwart, musikalische Merkmale, Live-Philosophie, repräsentative Werke sowie kultureller und sozialer Einfluss
 
 
-Sound Tribe Sector 9 (*STS9*) ist als Vertreter der „Livetronica“ bekannt, die in der amerikanischen Live-Szene von Ende der 1990er Jahre bis heute eine einzigartige Entwicklung durchgemacht hat.
+Sound Tribe Sector 9 (*STS9*) ist als Vertreter der „Livetronica“ bekannt, die in der amerikanischen Live-Szene von den späten 1990er Jahren bis heute eine einzigartige Entwicklung durchgemacht hat.
 Ihre Musik ist eine Mischung aus dem improvisatorischen Charakter einer Jam-Band, der Struktur und Textur elektronischer Musik und dem Groove der Clubkultur, was sie von einer einfachen Rockband oder einer Einheit für elektronische Musik unterscheidet.
 
 Ihr Standpunkt war schon immer, dass „Musik ein Erlebnis in einem Live-Raum ist“, und sie haben Wert auf die Bildung einer autonomen Gemeinschaft gelegt, von der Produktion über das Tourmanagement, die Regie bis hin zu sozialen Aktivitäten.
@@ -148,7 +148,7 @@ Seit Beginn von STS9
 - Pädagogische Unterstützung
 - Umweltschutz
 - Lokale Aktivitäten
-Er hat aktiv an Wohltätigkeitsaktivitäten teilgenommen, wie z
+Er hat aktiv an Wohltätigkeitsaktivitäten teilgenommen wie:
 
 Es gibt auch viele Auftritte, bei denen ein Teil des Live-Ticket-Erlöses gespendet wird, und viele Lieder, die soziale Themen zum Thema haben.
 Insbesondere „Peaceblaster“ (2008) wird als konzeptionelle Arbeit mit politischen und ökologischen Themen als Hintergrund positioniert.
@@ -298,7 +298,7 @@ Er ist eine seltene Person, die dies seit über 20 Jahren fortsetzt.
 Die Musik ist nie nur mit aufgenommenen Werken vollständig,
 Es wird ständig mit dem „Hier und Jetzt“-Erlebnis einer Live-Aufführung aktualisiert.
 
-ihre Schritte sind
+Ihre Schritte sind
 ** „Wie nah kann eine Live-Band an elektronische Musik herankommen?“
 „Inwieweit kann elektronische Musik die Dynamik von Live-Musik einfangen?“**
 Es ist ein fortlaufendes Experiment zur Beantwortung dieser Frage und kann als eines der Symbole der Musikkultur des 21. Jahrhunderts selbst bezeichnet werden.

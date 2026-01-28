@@ -27,7 +27,7 @@ title: '[Column] Dungeon Synth ─ An underground ambient aesthetic that diverge
 Text: mmr｜Theme: About the history, production techniques, and cultural position of Dungeon Synth, an underground ambient genre derived from black metal
 
 Dungeon Synth is a music genre that expresses the spirituality of black metal and fantasy/medieval worldview through minimalist synth sounds.
-Its origins can be traced back to the European extreme music scene of the early 1990s, but the second and third generations have rapidly expanded since the late 2010s with the expansion of Bandcamp culture, and it has now developed into a gigantic DIY network.
+Its origins can be found in the European extreme music scene of the early 1990s, but from the late 2010s, with the expansion of Bandcamp culture, the second and third generation rapidly expanded, and it has now developed into a huge DIY network.
 
 ---
 
@@ -48,7 +48,7 @@ color: #fff;
 
 ## ■ 1. Definition and characteristics
 
-Dungeon Synth は以下のような特徴を持つ。
+Dungeon Synth has the following features.
 
 - **Spirituality derived from black metal**
 - Harsh climate, loneliness, romanticism, melancholy
@@ -64,7 +64,7 @@ As a result, the music is often described as "a soundtrack without a movie," "am
 
 ---
 
-## ■ 2. History – from the earliest times to the present day
+## ■ 2. History ─ From the earliest times to the present day
 
 Below, we will summarize the important trends from the birth of the genre to the present.
 
@@ -156,7 +156,7 @@ Many artists sought the feel of game consoles and PCM keyboards from the 90s.
 GM pianos, Choir Aahs, Strings, Pads, etc. Cheapness and nostalgia are treated as values.
 
 ### ■ Soft synth
-In modern times, the following are often used:
+In modern times, the following are commonly used:
 
 - **DSK free VST**
 - DSK ChoirZ, DSK Strings, etc.
@@ -252,7 +252,7 @@ Contemporary artists use a variety of expressions such as hand-drawn illustratio
 ## ● 6-2. Jacket culture
 - Small scale art for cassettes
 - Vertical image intended for Bandcamp jacket
-- Slightly smeared font
+- Slightly smudged font
 
 Visual influence is extremely large and plays a role in complementing the worldview of the work.
 
@@ -314,7 +314,7 @@ Below is a plan for actually creating a song.
 
 # ■ 9. Cultural significance of Dungeon Synth
 
-Dungeon Synth is a rare type of music that combines the intense worldview of black metal with the tranquility of ambient music, and is a culture that aspires to "building an inner world."
+Dungeon Synth is a rare type of music that combines the intense worldview of black metal with the tranquility of ambient, and is a culture that aspires to "building an inner world."
 
 - Individual creators spin their own stories without relying on large-scale scenes
 - Strongly tied to the aesthetics of fantasy literature, TRPGs, and game music

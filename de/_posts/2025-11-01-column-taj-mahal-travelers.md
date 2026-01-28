@@ -19,7 +19,7 @@ title: '[Kolumne] Taj Mahal Travel Group und Takehisa Kosugi – Eine Reise, um 
 ## I. Ausgangspunkt in den 1960er Jahren: Jenseits musikalischer Institutionen
 
 
-Text: mmr｜Thema: Eine Klangpilgerreise, bei der Improvisation und Umgebungsgeräusche ineinandergreifen – Eine Aufzeichnung einer Reise an die Außenseite der Musik, gezeichnet von Takehisa Kosugi und der Taj Mahal Travel Group
+Text: mmr｜Thema: Eine Klangpilgerreise, bei der Improvisation und Umgebungsgeräusche ineinandergreifen – Eine Aufzeichnung einer Reise in die Außenseite der Musik, gezeichnet von Takehisa Kosugi und der Taj Mahal Travel Group
 
 
 In den frühen 1960er Jahren blühte Japans Avantgarde-Musikszene in aller Stille auf.
@@ -114,12 +114,12 @@ Die Improvisationsaufführungen an verschiedenen Orten reichten von lokalen Kult
 
 ## VI. Dekonstruktion und Erweiterung von Klang: das Ritual der Improvisation
 
-Die Aufführungen der Taj Mahal Tourists haben nicht die übliche „Lieder“ oder „Struktur“.
+Die Aufführungen der Taj Mahal Tourists haben nicht die üblichen „Lieder“ oder „Strukturen“.
 Vielmehr ähnelt es eher dem Vorgang, Schall in die Umgebung auszusenden und auf eine zufällige Resonanz zu warten.
 
 Sie nutzen Beschallungsanlagen und Mikrofone kreativ,
 Der gesamte Raum wurde als eine Art „Resonator“ behandelt.
-Kosugi, der Anführer, befestigt ein Kontaktmikrofon an der Geige und manipuliert beim Spielen die Rückkopplung und Funkgeräusche.
+Kosugi, der Anführer, befestigt ein Kontaktmikrofon an der Geige und manipuliert beim Spielen die Rückkopplung und die Funkgeräusche.
 Wir haben ein Ökosystem geschaffen, in dem Schall „vorkommt und verschwindet“.
 
 ---
@@ -133,7 +133,7 @@ Es wird hoch gelobt als „Klanglandschaft“, die Zeit, Raum und Klang perfekt 
 
 Auf dem Album gibt es weder Rhythmus noch Melodie.
 Stattdessen kreuzen sich sanft Windgeräusche, elektronische Klänge, Stimmen und die Resonanz der Saiten,
-Es stellt ein Erlebnis dar, das den Zuhörer dazu einlädt, „in den Klang hinein“ zu gehen.
+Es stellt ein Erlebnis dar, das den Zuhörer einlädt, „in den Klang hinein“ zu gehen.
 
 ---
 
@@ -158,7 +158,7 @@ Basierend auf seiner Überzeugung, dass „Klang ein natürliches Phänomen ist�
 ## X. Das Erbe von Takehisa Kosugi und der Taj Mahal Tourist Group
 
 Heute umfassen ihre Aktivitäten „Klangkunst“, „Feldaufnahmen“ und „Ambient-Musik“.
-Es wird als Quelle verschiedener Musiktrends neu bewertet.
+Es wird als Quelle verschiedener musikalischer Trends neu bewertet.
 Eine Einstellung, Schall als „Phänomen“ und nicht als „Material“ oder „Information“ zu hören.
 Das ist die wichtigste Botschaft, die Kosugi uns hinterlassen hat.
 

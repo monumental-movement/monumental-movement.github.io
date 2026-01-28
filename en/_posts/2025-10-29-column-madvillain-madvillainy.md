@@ -75,14 +75,14 @@ Peanut Butter Wolf, head of Stones Throw at the time, said, ""Recording was more
 
 ## Chapter 3: Acoustic analysis ── Poetics of fragment structure
 
-The 22 songs on "Madvillainy" (https://amzn.to/3JhySfH) are structured like one long "montage film."
+The 22 songs on [""Madvillainy"](https://amzn.to/3JhySfH) are structured like one long ""montage movie."
 The acoustic characteristics can be summarized into the following three points.
 
 1. **Time Disconnect**: The song is short and ends abruptly. The transitions are intentionally rough.
 2. **Spatial Compression**: Minimize reverb and spatial processing to bring the distance between samples close to zero.
-3. **Frequency distortion**: Creates a **VHS-like sound** where the high frequencies are removed by making extensive use of SP-303 effects.
+3. **Frequency distortion**: Creates a **VHS-like sound** with removed high frequencies by using SP-303 effects extensively.
 
-This is also a "**record reconstruction**" by Madlib. Viewing the noise and crackling sounds of old recordings as "component elements" rather than "materials," he transformed hip-hop into an archeology of sound.
+This is also a "**record reconstruction**" by Madlib. Viewing the noise and crackling sounds of old recordings as ""components" rather than ""materials," he transformed hip-hop into an archeology of sound.
 
 ---
 
@@ -209,7 +209,7 @@ flowchart TD
 
 ## Conclusion: Eternity in Fragments
 
-["Madvillainy"](https://amzn.to/3JhySfH) is a "sound labyrinth" that dismantles the hip-hop form itself and then reconstructs it.
+[""Madvillainy"](https://amzn.to/3JhySfH) is a ""labyrinth of sound" that deconstructs and reconstructs the hip-hop form itself.
 There is no ""completion" or ""end."
 Sampled sounds regain meaning even as they lose their origins.
 The mask left behind by DOOM still shines in underground studios around the world.

@@ -9,11 +9,11 @@ permalink: /fr/atari-teenage-riot-revolution-action-e-p/
 tags:
 - Techno
 - Hardcore Techno
-title: Atari Teenage Riot – Revolution Action E.P.
+title: Atari Teenage Riot – Revolution Action EP
 ---
 
 
-「Atari Teenage Riot - Revolution Action E.P.」は、ドイツのデジタルハードコアバンド、アタリ・ティーンエイジ・ライオット（Atari Teenage Riot）による1999年リリースの楽曲です。
+"Atari Teenage Riot - Revolution Action EP" est une chanson sortie en 1999 par le groupe allemand de hardcore numérique Atari Teenage Riot.
 
 #### Liste des chansons
 ```md

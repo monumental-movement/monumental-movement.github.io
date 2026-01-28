@@ -9,12 +9,12 @@ permalink: /fr/various-sandou-ep-002/
 tags:
 - Experimental
 - Break Beat
-title: Various – Sandou.EP 002
+title: Divers – Sandou.EP 002
 ---
 
 
-「Sandou.EP 002」は、
-1997年に日本のレーベル「Sandou Records」からリリースされたEPです。
+"Sandou.EP 002" est
+Il s'agit d'un EP sorti par le label japonais "Sandou Records" en 1997.
 
 #### Liste des chansons
 ```md

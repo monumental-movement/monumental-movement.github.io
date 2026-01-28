@@ -17,7 +17,7 @@ Analog Fingerprints의 "Tribute"는 A면에 격찬적인 분위기를 더한 울
 
 Analog Fingerprints의 본명은 Marco Passarani입니다.
 
-이탈리아 DJ 겸 프로듀서.
+이탈리아 DJ이자 프로듀서.
 
 #### 트랙리스트
 ```md

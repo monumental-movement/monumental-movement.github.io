@@ -16,7 +16,7 @@ title: '[Kolumne] Wrong Way Up und „The Beach“ – Nachhall der Utopie und d
 ---
 
 
-## Prolog: Diejenigen, die nach Süden fahren – die moderne „Paradies“-Fantasie
+## Prolog: Die auf dem Weg nach Süden – die moderne „Paradies“-Fantasie
 
 Text: mmr | Thema: Erkundung der Klänge von Utopie und Flucht durch Brian Eno & John Cales „Wrong Way Up“ und „The Beach“ mit Leonardo DiCaprio in der Hauptrolle
 
@@ -75,7 +75,7 @@ Klanglich ist Enos charakteristisches, sanftes Ambiente von Cales melodischer Ab
 > Mit meinem Bleistift, der Momente in Linien verwandelt…“
 
 Die Melodie ist wie eine „Erinnerungsskizze“.
-Dieses Album war ein Vorläufer von Enos „Environmental Pop“ ab den 1990er Jahren und wurde von den Klängen von Coldplay und Moby übernommen.
+Dieses Album war ein Vorläufer von Enos „Environmental Pop“-Bewegung ab den 1990er Jahren und wurde von den Klängen von Coldplay und Moby übernommen.
 „Falscher Aufstieg“ kann sich auf den Weg beziehen, den wir einschlagen, von dem wir glauben, dass er der richtige Weg ist.
 
 ---
@@ -135,7 +135,7 @@ Hier überlagern sich Ton und Bild perfekt und schaffen eine moderne „Illusion
 ---
 
 Wohin werden wir im 21. Jahrhundert rennen?
-In einer Zeit, in der soziale Medien die Welt verbinden und KI eine Rolle in der Vorstellungskraft spielt, klingt der Satz „Wrong Way Up“** noch realistischer.
+In einer Zeit, in der soziale Medien die Welt verbinden und KI eine Rolle in der Vorstellungskraft spielt, klingt der Ausdruck „Wrong Way Up“** noch realistischer.
 „Falscher Aufstieg“ ist heute eine Metapher für Zivilisation.
 
 Das Album von Eno & Cale hatte eine Vorahnung von „Musik, nachdem man das Paradies aufgegeben hatte“.

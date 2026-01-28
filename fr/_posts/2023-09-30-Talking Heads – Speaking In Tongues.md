@@ -19,7 +19,7 @@ L'album regorge d'éléments post-punk et new wave emblématiques de Talking Hea
 
 Il comprend de nombreuses chansons à succès telles que « Burning Down the House » et « This Must Be the Place (Naive Melody) ».
 
-Cet album est un incontournable pour tout fan de Talking Heads, et le son unique et les paroles intelligentes de « Speaking In Tongues » en font une étape importante dans l'histoire de la musique rock.
+Cet album est un incontournable pour tout fan de Talking Heads, et son son unique et ses paroles intelligentes font de « Speaking In Tongues » un jalon dans l’histoire de la musique rock.
 
 
 #### Liste des chansons

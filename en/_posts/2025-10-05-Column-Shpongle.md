@@ -64,7 +64,7 @@ Shpongle was born with the theme of "journey into the inner universe" at its cor
 
 flowchart TD
   A["1994: TIP Records<br>Raja Ram & Graham Wood"] --> B["1996: Established Twisted Records<br>Centered by Simon Posford"]
-  B --> C["1998: Shpongle formed"]
+  B --> C["1998: Formation of Shpongle"]
   C --> D["Younger Brother / Hallucinogen / Celtic Cross<br>Related project development"]
   D --> E["2000s: UK Psych Culture Revival"]
   E --> F["2010s~: Fusion with world festival culture"]
@@ -196,7 +196,7 @@ For Raja Ram, sound is prayer and Shpongle is his mantra.
 
 ## Chapter 6: Simon Posford - The Sound Magician's Production Philosophy
 
-Posford combines classic synths (Virus, Nord Lead, Roland SH-101) and modern DAWs (Logic Pro, Ableton).
+Posford combines classic synths (Virus, Nord Lead, Roland SH-101) with modern DAWs (Logic Pro, Ableton).
 Dozens of layers of sound are layered to intentionally design "resonance with brain waves."
 His works have a consistent three-layered structure: low range = body, overtones = consciousness, and reverberation = spirituality.
 
@@ -258,7 +258,7 @@ That is reincarnation itself.
 
 - Breathe in the dark room
 
-- Play "Divine Moments of Truth"
+- Play Divine Moments of Truth
 
 - Focus on the moment when the sound is "born"
 
@@ -344,7 +344,7 @@ The sound transcends science, philosophy, religion, and technology.
 He is reconstructing human consciousness itself as sound.
 
 It's not just music.
-It is an evolution of the act of "listening" itself,
+It is the evolution of the act of "listening" itself,
 It is the mandala of consciousness left to humanity by Raja Ram and Simon Posford.
 
 > "Sound is born, disappears, and returns again. That's what Shpongle is."

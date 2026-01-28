@@ -11,7 +11,7 @@ tags:
 - Drum n Bass
 - Detroit Techno
 - 90s
-title: 모델 500 - 흐름
+title: 모델 500 – 흐름
 ---
 
 

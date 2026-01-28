@@ -46,7 +46,7 @@ B2. Fade
 
 
 
-### Modèle 500 – Espace lointain
+### Modèle 500 – Espace profond
 <a href="https://jp.mercari.com/item/m23829394850?afid=6142608987"><img src="../assets/images/Model%20500%20%E2%80%93%20Deep%20Space.webp"></a>
 
 
@@ -84,7 +84,7 @@ Points recommandés : Un chef-d'œuvre qui condense le son futuriste et cool de 
 
 Caractéristiques : Structure de piste minimale avec des lignes de synthétiseur et un rythme simples. Il se caractérise par son travail de synthé spatial et flottant et son rythme cool et mécanique.
 
-Point recommandé : Une chanson qui vous fait revivre les origines de la techno de Détroit. Si vous l'installez tôt dans un DJ set, vous pouvez créer une « sensation cosmique à la Détroit » sur le sol. Facile à écouter même pour les débutants, parfait pour comprendre la vision du monde du Modèle 500.
+Point recommandé : Une chanson qui vous fait revivre les origines de la techno de Détroit. En l'ajoutant au début d'un DJ set, vous pouvez créer une « sensation cosmique à la Détroit » sur le sol. Facile à écouter même pour les débutants, parfait pour comprendre la vision du monde du Modèle 500.
 
 #### Liste des chansons
 ```md
@@ -110,9 +110,9 @@ T2. The Flow M38 (Alex Reece Mix)
 <a href="https://jp.mercari.com/item/m22835584429?afid=6142608987"><img src="../assets/images/Carl%20Craig%20%E2%80%93%20Landcruising.webp"></a>
 
 
-Caractéristiques : Image sonore dramatique qui combine ambient, breakbeat, futur jazz, etc. avec une base minimaliste.
+Caractéristiques : Image sonore dramatique qui combine ambient, breakbeat, futur jazz, etc. avec une base minimaliste.
 
-Points recommandés : Un album plein de profondeur et de sophistication qui emmène l'auditeur dans un voyage émotionnel. C'est une œuvre que les DJ et les auditeurs voudront écouter attentivement.
+Points recommandés : Un album plein de profondeur et de sophistication qui emmène l'auditeur dans un voyage émotionnel. C’est une œuvre que les DJ et les auditeurs voudront écouter attentivement.
 
 #### Liste des chansons
 ```md
@@ -308,7 +308,7 @@ B. Circus (The Big Finale Mix)
 
 Caractéristiques : Piste sorti sous le nom de « M » par Axis en 1992. Une chanson qui représente les débuts du minimalisme de Détroit.
 
-Points recommandés : Un disque incontournable pour les collectionneurs qui peuvent ressentir l'ambiance underground du début des années 90, avec un son brut mais robuste.
+Points recommandés : Un disque incontournable pour les collectionneurs qui peuvent ressentir l'ambiance underground du début des années 90, avec un côté brut mais robuste.
 
 
 #### Liste des chansons

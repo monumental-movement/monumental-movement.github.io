@@ -14,7 +14,7 @@ title: Christian Smith contre. Jean Phillipe Aviance – Ruée vers l’or
 ---
 
 
-Christian Smith est un producteur et DJ Tech-House/Funky Techno suédois. Jean-Phillippe Aviance est un DJ et producteur de Washington DC, USA.
+Christian Smith est un producteur et DJ Tech-House/Funky Techno suédois. Jean-Phillippe Aviance est un DJ et producteur de Washington, DC, USA.
 
 "Goldrush" est un morceau Techno/Tech House sorti sur le propre label de Christian Smith, Tronic, en 1998.
 

@@ -44,7 +44,7 @@ color: #fff;
 « Cowboy Bebop » du réalisateur Shinichiro Watanabe, diffusé en 1998, est une œuvre monumentale qui a montré au monde l'affinité entre l'anime et le jazz.
 La musique a été composée par The Seatbelts, un groupe dirigé par Yoko Kanno. Utilisant tout, du jazz big band au scat et aux solos de guitare fusion, il a décrit le monde de l'histoire de l'anime comme « la musique elle-même ».
 
-La chanson d'ouverture « Tank ! » avait un son de big band rappelant un film d'espionnage, mais elle avait aussi un « coolness adulte » qui était inhabituel pour un OP d'anime à l'époque, captivant les fans du monde entier.
+La chanson d'ouverture « Tank ! » avait un son de big band rappelant un film d'espionnage, mais elle avait aussi un « coolness adulte » qui était inhabituel pour une chanson d'ouverture d'anime à l'époque, captivant les fans du monde entier.
 Depuis ce succès, le jazz est souvent considéré comme un symbole de coolitude et d’urbanité dans les anime.
 
 ---
@@ -55,7 +55,7 @@ D’un autre côté, le jazz n’est pas seulement « urbain ».
 Cafés, coins de rue les jours de pluie, après-midi calmes - il est souvent utilisé comme musique de fond pour égayer la vie quotidienne décontractée.
 
 Par exemple, « Apollo sur la pente » (2012). Le manga original utilise le jazz lui-même comme thème, mais les sons des sessions qui résonnent dans la ville de Nagasaki, où se déroule l'histoire, soutiennent les fluctuations de la vie quotidienne et de la jeunesse avec la nature improvisée propre au jazz.
-De plus, bien que « Nodame Cantabile » se concentre sur la musique classique, des arrangements de style swing et jazz léger sont insérés dans les scènes du quotidien, soulignant la nature libre d'esprit des personnages.
+De plus, bien que « Nodame Cantabile » se concentre sur la musique classique, des arrangements de style swing et jazz léger sont insérés dans des scènes quotidiennes, soulignant la nature libre d'esprit des personnages.
 
 ---
 
@@ -126,8 +126,8 @@ En particulier, le jazz spirituel de Kamasi Washington fait écho au motif de «
 
 ### ■ Résumé
 
-Le jazz/fusion apporte urbanité et improvisation à l'anime, et symbolise parfois la « vie et la mort » et la « destruction et la renaissance » de toute l'histoire.
-Le style de « Lupin Troisième », le style de « Cowboy Bebop », la passion juvénile de « Apollo sur la pente » et l'échelle de science-fiction de « LAZARUS »──
+Le jazz/fusion apporte de l'urbanité et de l'improvisation à l'anime, et symbolise parfois la « vie et la mort » et la « destruction et la renaissance » de toute l'histoire.
+Le style de « Lupin III », le style de « Cowboy Bebop », la passion juvénile de « Apollo sur la pente » et l'échelle de science-fiction de « LAZARUS »──
 Tous ces éléments sont des extensions de « l’esprit libre et régénérateur » du jazz.
 
 Et comme le nom « Lazarus » l’indique, le jazz renaît constamment sous de nouvelles formes et continue d’être étroitement lié au monde de l’anime.

@@ -178,7 +178,7 @@ B2. 900lb Man (Original Mix)
 #### Aquasky – Ruhe / Kauna
 <a href="https://jp.mercari.com/item/m94343829211?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Tranquility%20Kauna.webp"></a>
 
-Ein einzigartiges Stück, das saure Elemente in den Drum'n'Bass einbringt. Es sind sowohl ein Gefühl von Geschwindigkeit als auch ein Gefühl von Fahrt vorhanden.
+Ein einzigartiges Stück, das saure Elemente in den Drum'n'Bass einbringt. Ein Gefühl von Geschwindigkeit und ein Gefühl des Reisens sind beide vorhanden.
 
 #### Trackliste
 ```md

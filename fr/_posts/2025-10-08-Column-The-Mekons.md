@@ -22,7 +22,7 @@ Texte : mmr｜Thème : Du punk de Leeds à la nature sauvage américaine. Les 45
 > **"Ça a commencé par des rires, pas par une rébellion."**
 
 1977, Université de Leeds, nord de l'Angleterre.
-Les Mekons ont été fondés par des étudiants dans un coin d'une salle de cours, pensant en plaisantant : « Peut-être que nous pourrions former un groupe nous-mêmes. » Jon Langford, Tom Greenhalgh, Kevin Lycett et d'autres allaient devenir des symboles de la culture post-punk. Ils n'avaient aucune compétence musicale et avaient même emprunté des instruments.
+Les Mekons ont été fondés par des étudiants dans un coin d'une salle de cours, pensant en plaisantant : « Peut-être que nous pourrions former un groupe nous-mêmes. » Jon Langford, Tom Greenhalgh, Kevin Lycett et d'autres deviendront des symboles de la culture post-punk. Ils n'avaient aucune compétence musicale et avaient même emprunté des instruments.
 À cette époque, le punk était une révolution que n’importe qui pouvait lancer. Le nom Mekons viendrait du personnage « rebelle » de la pièce de Byron La Malédiction de Minerve.
 
 Le single « Where Were You / I'll Have To Dance Then (On My Own) », sorti en 1978, symbolise leur esprit punk précoce.
@@ -57,7 +57,7 @@ Enregistré aux Virgin Studios à Londres. À l'époque, ils disaient : «C'éta
 L'acoustique est rude et la distance et l'équilibre du microphone sont instables. Pourtant, le hurlement de la guitare et la distorsion du chant ont été enregistrés comme « une créativité née de l'ignorance ». Il n’y a pas de producteur, et l’image sonore est basée sur l’esprit DIY.
 
 "Nous n'étions ni politiques ni romantiques, nous étions simplement confus", explique Jon Langford.
-À l'époque, les Mekons étaient conscients de « jouer » plutôt que de mettre en scène la rébellion. C'est pourquoi leur son faisait écho au « doute » que d'autres groupes punk avaient laissé partir.
+À cette époque, les Mekons étaient conscients de « agir » plutôt que de mettre en pratique la rébellion. C'est pourquoi leur son faisait écho au « doute » que d'autres groupes punk avaient laissé partir.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zU9zbbBMxTI?si=lm70X_cOq77g-pIy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -71,7 +71,7 @@ Ils quittent Londres et se transforment en un groupe de critique sociale qui cro
 Les membres ne sont pas fixes et des amis de l'époque universitaire vont et viennent, enregistrant parfois avec jusqu'à 10 personnes. Sa nature de collectif artistique se renforce.
 
 1989年の代表作[『The Mekons Rock ’n’ Roll』](https://amzn.to/4nIWLMc)は、その総括だった。  
-Une composition spatiale unique avec un double suivi de la guitare, une réverbération excessive et des basses fréquences supprimées. Il s'agissait de gadgets destinés à déformer intentionnellement la « beauté formelle du rock ».
+Une composition spatiale unique avec un double suivi de la guitare, une réverbération excessive et des basses fréquences supprimées de la basse. Il s'agissait de gadgets destinés à déformer intentionnellement la « beauté formelle du rock ».
 Avec cet album, ils présentent le paradoxe de « Le rock n'est-il pas le système lui-même ? »
 
 > "Nous savons que le rock and roll est dangereux. Il peut détruire des pays."
@@ -79,7 +79,7 @@ Avec cet album, ils présentent le paradoxe de « Le rock n'est-il pas le syst�
 
 ---
 
-### Chapitre 3 : Rencontre avec la musique américaine et l'aube du « alt-country »
+### Chapitre 3 : Rencontre avec la musique américaine et l'aube du « country alternatif »
 > **"Au milieu du vin et de la poussière, il y avait la vérité."**
 
 1985年の[『Fear and Whiskey』](https://amzn.to/4mV4QMk)で、Mekonsは完全に新しい地平へ踏み出す。  
@@ -88,7 +88,7 @@ Durant cette période, Jon Langford redécouvre que « la country est le blues d
 
 Enregistré à Woodlands, Leeds, un studio indépendant à l'époque. La guitare, enregistrée directement en ligne sur une bande analogique, a une saturation naturelle qui tire parti de la distorsion de l'amplificateur, et les micros de salle sont souvent utilisés pour le chant.
 Ce son lo-fi crée un « sentiment poétique de distance » plutôt qu’une « odeur de boue ».
-Cet album sera plus tard réévalué comme un précurseur du genre « alt-country » d'artistes tels que Oncle Tupelo et Wilco.
+Cet album sera plus tard réévalué comme un précurseur d'artistes « alt-country » tels que Oncle Tupelo et Wilco.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cTToDniWwdQ?si=cfNzh4SRSgb_Nbwy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -139,7 +139,7 @@ Ce « son marqué » était le réalisme auquel croyait Mekons.
 
 ---
 
-### Chapitre 7 : Au-delà de la déconstruction et des retrouvailles
+### Chapitre 7 : Au-delà de la déconstruction et de la réorganisation
 > **"Même si nous nous séparons, ça ne finira pas. Parce que ça ne finira pas, c'est Mekons."**
 
 Les Mekons se sont dissous et se sont reformés à plusieurs reprises.

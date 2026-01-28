@@ -18,7 +18,7 @@ title: '[Chronique] Disco japonais des années 70 et Red Lark - L''esthétique d
 ## Disco japonais des années 70 et Red Lark - Une esthétique nocturne dessinée par la musique et les cigarettes
 
 
-Texte : mmr | Thème : Un disque de l'époque japonaise des années 1970, lorsque les publicités disco et Red Lark se mêlaient. Souvenirs de la nuit où la musique, la mode et l'odeur des cigarettes se sont croisées
+Texte : mmr | Thème : Un disque de l'époque japonaise des années 1970, lorsque les publicités disco et Red Lark se mêlaient. Souvenir d'une nuit où se croisent la musique, la mode et l'odeur des cigarettes
 
 Le Japon dans les années 1970. Shinjuku, Akasaka, Roppongi.
 La ville nocturne essayait de conquérir une liberté inconnue grâce au mot « disco ».
@@ -159,7 +159,7 @@ L'esthétique de la nuit = symbole du sentiment urbain.
 
 ## 9. Conclusion : Rémanence rouge et argent
 
-Au Japon, dans les années 1970, la discothèque et Red Lark étaient les deux rouages ​​de la nuit.
+Au Japon, dans les années 1970, le disco et Red Lark étaient les deux rouages ​​de la nuit.
 Son et fumée, lumière et rouge.
 Le décor créé par ces œuvres est toujours vivant dans la mode city pop et revival.
 
@@ -172,9 +172,9 @@ Lorsque vous allumez le Red Lark, les nuits tokyoïtes des années 1970 revienne
 
 | Titre de la chanson | Artiste | Année | Remarques |
 | ----------------- | ------------------ | ---- | ------------------ |
-| Rester en vie | Bee Gees | 1977 | Chanson signature de « Saturday Night Fever » |
+| Rester en vie | Bee Gees | 1977 | Chanson signature « Saturday Night Fever » |
 | Disco Inferno | Les Tramps | 1976 | Standardisé dans les clubs japonais |
-| Pays des merveilles Boogie | Terre, vent et feu | 1979 | Populaire sur MUGEN |
+| Boogie Pays des Merveilles | Terre, vent et feu | 1979 | Populaire sur MUGEN |
 | Âme Dracula | Sang chaud | 1977 | Fournisseur DJ à l'époque |
 | Corrida de l'Amour | Quincy Jones | 1981 | Une extension de l'ambiance disco japonaise |
 

@@ -11,7 +11,7 @@ tags:
 - Trance
 - Techno
 - 90s
-title: 그루브 리액터 - Magick
+title: 그루브 리액터 – Magick
 ---
 
 

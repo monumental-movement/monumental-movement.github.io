@@ -14,7 +14,7 @@ title: Total Eclipse – 更新文件
 ---
 
 
-Total Eclipse 是由三位法國製作人於 1992 年啟動的項目。他因 1995 年和 1996 年發行的 goa-trance 專輯而聞名。
+Total Eclipse 是一個由三位法國製作人於 1992 年啟動的項目。他因 1995 年和 1996 年發行的 goa-trance 專輯而聞名。
 
 《Update Files》是日本血腥和迷幻唱片公司 Arcadia Music 於 2003 年發行的一張迷幻 trance 專輯。
 

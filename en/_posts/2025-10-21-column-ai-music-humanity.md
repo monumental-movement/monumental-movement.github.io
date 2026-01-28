@@ -23,7 +23,7 @@ Text: mmr | Theme: An era where AI creates music and humans reinterpret it. In a
 Music in 2025 will no longer be talked about in terms of "genre."
 The listening experience on Spotify and Apple Music is being reorganized to fit the mood, time, and occasion, going beyond the categories of "rock," "hip-hop," and "electronica."
 
-""Listening on a rainy day," ""Track at 2 a.m." and ""A morning spent with coffee." These list titles indicate a new value: ""context over genre."
+"Listening on a rainy day," "Track at 2 a.m.," "Morning with coffee" -- these list titles indicate a new value: "context over genre."
 Music is talked about not in terms of what it's made of, but in terms of how it resonates/fits situations.
 
 At the heart of this change are AI, nostalgia, and the listener's own "memory."
@@ -127,8 +127,8 @@ The characteristic of 2025 is the coexistence of stillness (Minimal) and density
 
 #### "Quiet club" and "introspective electronica"
 
-The popularity of ""slow grooves" such as Afro House and Amapiano symbolizes an era in which dancing can also become ""introspection".
-Sets of 100 to 110 BPM are becoming the norm in clubs in Berlin and Seoul, creating a space where you can "think while dancing."
+The popularity of ""slow grooves" such as Afro House and Amapiano symbolizes an era in which dancing can also be ""introspection".
+In clubs in Berlin and Seoul, sets of 100 to 110 BPM are becoming the norm, creating a space where you can "think while dancing."
 In Japan, food festivals a.k.a foodman and yahyel are exploring "quiet club music."
 
 #### On the contrary, there is also a movement to master "density"

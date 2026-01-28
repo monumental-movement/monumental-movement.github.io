@@ -9,13 +9,13 @@ permalink: /fr/timothy-blake-heat-crime/
 tags:
 - House
 - 10s
-title: Timothy Blake – Heat Crime
+title: Timothy Blake – Crime thermique
 ---
 
 
-Timothy Blake(ティモシー・ブレイク)は、アイルランド出身で、ドイツ・ベルリンを拠点に活動するエレクトロ／ハウス系ミュージックプロデューサー／DJ。Kleine Reise Records、Dirt Crew、Fatty Fatty Phonographics、Lectric Sands NY などヨーロッパのインディーズレーベルから作品をリリースしている。
+Timothy Blake est un producteur/DJ de musique électro/house d'origine irlandaise basé à Berlin, en Allemagne. Il a publié des œuvres sur des labels européens indépendants tels que Kleine Reise Records, Dirt Crew, Fatty Fatty Phonographics et Lectric Sands NY.
 
-「Heat Crime」は2013年にドイツのレーベルKleine Reise RecordsからリリースされたTimothy Blakeの代表作。(300枚の限定プレス)
+"Heat Crime" est le chef-d'œuvre de Timothy Blake, sorti en 2013 sur le label allemand Kleine Reise Records. (Tirage limité à 300 exemplaires)
 
 #### Liste des chansons
 ```md

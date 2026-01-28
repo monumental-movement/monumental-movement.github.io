@@ -41,5 +41,5 @@ A jazzy & mellow HIPHOP compilation album selected and supervised by Toru Hashim
 
 [Purchase on Mercari](https://jp.mercari.com/item/m48043244738?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uVlkFN6itzU?si=XRVjZaMo41NLHC6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

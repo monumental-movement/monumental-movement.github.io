@@ -14,7 +14,7 @@ title: Isao Sasaki – Adieu le cuirassé spatial Yamato Warriors of Love – Go
 ---
 
 
-"Isao Sasaki - Farewell Space Battleship Yamato: Warriors of Love - Good Enemy" est une chanson d'insertion et une chanson image pour le film de 1978 "Farewell Space Battleship Yamato: Warriors of Love".
+"Isao Sasaki - Farewell Space Battleship Yamato: Warriors of Love - Good Enemy" est une chanson/image d'insertion pour le film de 1978 "Farewell Space Battleship Yamato: Warriors of Love".
 
 Paroles - Yu Aku
 

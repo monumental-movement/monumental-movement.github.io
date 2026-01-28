@@ -13,7 +13,7 @@ title: Poisson rouge radioactif – L.S.D. C'est la bombe
 ---
 
 
-"LSD Is The Bomb" est une excellente approche du son techno européen de 91, combinant des riffs belges agressifs avec des rythmes allemands plus aigus et précis.
+"LSD Is The Bomb" est une excellente approche du son techno européen de 1991, combinant des riffs belges agressifs avec des rythmes allemands plus aigus et précis.
 
 De nombreux artistes nord-américains utilisent de nombreux échantillons vocaux, mais "LSD Is The Bomb" les empêche de devenir trop bon marché.
 

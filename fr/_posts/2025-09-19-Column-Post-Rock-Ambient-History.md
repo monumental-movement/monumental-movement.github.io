@@ -18,7 +18,7 @@ title: '[Chronique] Historique du post-rock/ambient et évolution des équipemen
 
 Texte : mmr｜Thème : Post-rock et ambient, de leurs origines dans les années 1970 à leurs perspectives d'avenir
 
-Le post-rock et la musique ambiante trouvent leurs origines dans l'esprit expérimental des années 1970 et ont continué à évoluer au gré des scènes et des innovations technologiques.
+Le post-rock et la musique ambiante trouvent leurs origines dans l'esprit expérimental des années 1970 et ont continué d'évoluer au gré des scènes et des innovations technologiques.
 Ici, nous fournirons une liste complète des chefs-d'œuvre, des équipements et des contextes culturels afin que vous puissiez avoir une vue panoramique de la période **des années 1970 aux années 2020**.
 
 ---
@@ -46,7 +46,7 @@ color: #fff;
 
 | Travail | Artiste | Année | Caractéristiques |
 |------|--------------|----|------|
-| *Ambient 1 : Musique pour les aéroports* | Brian Eno | 1978 | Définir le concept d'"ambiance" |
+| *Ambient 1 : Musique pour les aéroports* | Brian Eno | 1978 | Définir le concept d'« ambiance » |
 | *Un autre monde vert* | Brian Eno | 1975 | Pionnier des sensibilités post-rock |
 | *Phèdre* | Rêve de mandarine | 1974 | Innovation basée sur le séquenceur |
 | *Musique discrète* | Brian Eno | 1975 | Expérience de boucle de bande |
@@ -69,7 +69,7 @@ color: #fff;
 |------|--------------|----|------|
 | *La Perle* | Harold Budd et Brian Eno | 1984 | Piano + Sons ambiants |
 | *Trésor* | Jumeaux Cocteau | 1984 | Ambiance pop de rêve |
-| *Esprit d'Eden* | Parler Parler | 1988 | Le post-rock naissant |
+| *Esprit d'Éden* | Parler Parler | 1988 | Le post-rock naissant |
 | *Apollo : Ambiances et bandes sonores* | Brian Eno | 1983 | Ambiance cosmique |
 
 **Équipement principal**
@@ -127,7 +127,7 @@ color: #fff;
 | Travail | Artiste | Année | Caractéristiques |
 |------|--------------|----|------|
 | *Vierges* | Tim Hecker | 2013 | Effondrement numérique et esthétique |
-| *Réplique* | Oneohtrix Point Jamais | 2011 | Esthétique de déconstruction d'échantillonnage |
+| *Réplique* | Oneohtrix Point Jamais | 2011 | Esthétique de déconstruction d’échantillonnage |
 | *Ravedeath, 1972* | Tim Hecker | 2011 | Orgue d'église x bruit |
 | *La récolte de demain* | Conseils d'administration du Canada | 2013 | Ambiance dystopique |
 
@@ -146,7 +146,7 @@ color: #fff;
 | Travail | Artiste | Année | Caractéristiques |
 |------|--------------|----|------|
 | *Promesses* | Points flottants, Pharoah Sanders et LSO | 2021 | Jazz x Classique x Ambient |
-| *Lamentations* | William Basinski | 2020 | L'esthétique de l'effondrement à l'ère numérique |
+| *Lamentations* | William Basinski | 2020 | L'esthétique effondrée à l'ère numérique |
 | Projets ambiants d'IA | Divers | Années 2020 | Musique infiniment générative |
 | *Tout* | Prairie lente | 2022 | Postclassique méditatif |
 

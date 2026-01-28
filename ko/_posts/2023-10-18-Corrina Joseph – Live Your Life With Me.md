@@ -13,7 +13,7 @@ title: Corrina Joseph – 나와 함께 인생을 살아보세요
 ---
 
 
-코리나 조셉은 Underground Solution, Kamasutra, Masterbuilders, Nightmares on Wax, Classen Collective, Russ Gabriel 등 다양한 아티스트와 함께 활동한 영국 가수입니다.
+코리나 조셉(Corrina Joseph)은 Underground Solution, Kamasutra, Masterbuilders, Nightmares on Wax, Classen Collective, Russ Gabriel 등 다양한 아티스트와 함께 활동한 영국 가수입니다.
 
 "Live Your Life With Me"는 Felix Buxton과 Simon Ratcliffe로 구성된 영국 일렉트로닉 댄스 음악 듀오 Basement Jaxx가 프로듀싱 및 작곡했습니다.
 

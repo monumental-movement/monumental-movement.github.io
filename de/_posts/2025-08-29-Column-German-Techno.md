@@ -25,7 +25,7 @@ Text: mmr｜Thema: Die Ästhetik des deutschen Techno, verwoben von Wiederholung
 
 ### Was ist deutscher Techno?
 
-„Deutscher Techno“ erlebte von Ende der 1980er bis Anfang der 1990er Jahre einen rasanten Aufschwung und übt weiterhin großen Einfluss auf die weltweite Clubszene aus. Vor allem Städte wie Berlin und Frankfurt gelten als symbolische Zentren für die Entwicklung des Techno und schaffen durch Clubkultur und Labelaktivitäten eine ganz eigene Ästhetik.
+„Deutscher Techno“ erlebte von Ende der 1980er bis Anfang der 1990er Jahre einen rasanten Aufschwung und übt weiterhin großen Einfluss auf die weltweite Clubszene aus. Insbesondere Städte wie Berlin und Frankfurt gelten als symbolische Zentren für die Entwicklung des Techno und schaffen durch Clubkultur und Labelaktivitäten eine ganz eigene Ästhetik.
 
 <hr>
 
@@ -81,7 +81,7 @@ Wie das Berliner Berghain und der Tresor symbolisieren, sind Clubraum und Sound 
 
 - Kalte Textur mit starkem Einfluss von Kraftwerk und Industrial
 
-- Viele sich wiederholende Riffs mit Synthesizern
+- Viele repetitive Riffs mit Synthesizern
 
 **Bedeutende Bewegung**: Der Club „Dorian Gray“ in Frankfurt und Underground-Partys in Berlin unterstützen die Szene.
 
@@ -173,9 +173,9 @@ Wie das Berliner Berghain und der Tresor symbolisieren, sind Clubraum und Sound 
 
 - Beliebt sind auch Neuinterpretationen von Hard Trance und 90er-Jahre-Sounds.
 
-**Trend**: Während er die Kälte geerbt hat, die für den „deutschen Techno“ der Vergangenheit typisch ist, hat er sich durch die Hinzufügung von emotionalem Ausdruck und visueller Produktion weiterentwickelt.
+**Trend**: Während er die für den „deutschen Techno“ der Vergangenheit typische Kälte geerbt hat, hat er sich durch die Hinzufügung von emotionalem Ausdruck und visueller Produktion weiterentwickelt.
 
-Wenn man die Songs nach Jahrzehnten vergleicht, erkennt man einen Zyklus von „Industriell und kalt → Minimalisierung → Verhärtung → Melodisierung → Reindustrialisierung“**.
+Wenn man die Songs nach Jahrzehnten vergleicht, erkennt man einen Zyklus von „Industrie und Kälte → Minimalisierung → Härte → Melodisierung → Reindustrialisierung“**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t6oPQFIWcV0?si=NRKnyUWxI2vIXS1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

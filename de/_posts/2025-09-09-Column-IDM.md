@@ -64,7 +64,7 @@ color: #fff;
 | 7 | Die Kugel | Kleine flauschige Wolken | Ein Meisterwerk, das das Sampling voll ausnutzt |
 | 8 | Schneller J | De-Orbit | Der Ursprung des Ambient Techno |
 | 9 | Seefeel | Plainsong | Gitarrenlärm und IDM-Ansatz |
-| 10 | Globale Kommunikation | 14:31 | Meditative Ambient-Arbeiten |
+| 10 | Globale Kommunikation | 14:31 | Meditative Ambient-Werke |
 
 ---
 
@@ -93,13 +93,13 @@ Hardware-Synthesizer wie **Nord Lead** und **Access Virus** wurden populär.
 | 6 | Kariert | Abla Eedio | Geometrische und Pop-Melodie |
 | 7 | Bogdan Raczynski | Samurai Math Beats | Intensives Beat-Experiment |
 | 8 | Zylob | Schneiden Sie den Mitteltonbereich ab, senken Sie den Bass | Ein humorvolles Juwel aus der Aphex-Gruppe |
-| 9 | Luke Vibert | Ich liebe Säure | Der Schnittpunkt von IDM und Säure |
+| 9 | Luke Vibert | Ich liebe Säure | The intersection of IDM and acid |
 | 10 | Venezianische Schlingen | Hajnal | Fusion aus Klassik und Breakcore |
 
 ---
 
 ## 2000er: Post-IDM und Crossover
-Durch die Verschmelzung mit Electronica, Post-Rock, Ambient usw. wird es einem breiteren Hörerkreis zugänglich gemacht. Mit der Verbreitung des Internets und P2P hat sich die Art der Veröffentlichungen verändert.
+Durch die Verschmelzung mit Electronica, Post-Rock, Ambient usw. wird es einem breiteren Publikumskreis zugänglich gemacht. Mit der Verbreitung des Internets und P2P hat sich die Art der Veröffentlichungen verändert.
 
 - **Repräsentatives Meisterwerk**
 - Boards of Canada – *Geogaddi* (2002)
@@ -129,7 +129,7 @@ Soft-Synthesizer wie **Reaktor und FM7** sind zum Standard geworden.
 ---
 
 ## 2010er Jahre: Wiederverbindung mit dem Club
-Gemischt mit Bassmusik, Grime und Ambient-Techno. IDM wurde eher zu einer Ästhetik als zu einem Genre und durchdrang das Sounddesign von Underground-Clubs und Festivals.
+Gemischt mit Bassmusik, Grime und Ambient Techno. IDM wurde eher zu einer Ästhetik als zu einem Genre und durchdrang das Sounddesign von Underground-Clubs und Festivals.
 
 - **Repräsentatives Meisterwerk**
 - Oneohtrix Point Never – *Replica* (2011)
@@ -150,9 +150,9 @@ Originalinstrumentenentwicklung mit **Max for Live**.
 | 3 | Arca | Diebstahl | Avantgardistische und sinnliche Akustik |
 | 4 | Aphex Twin | Minipops 67 | Ein Meisterwerk, das die Wiederbelebung ankündigt |
 | 5 | James Blake | CMYK | Überbrückung von Post-Dubstep und IDM |
-| 6 | Lorbeer-Halo | Sonnenlicht auf dem Verblassten | Experimenteller Gesang und Akustik |
+| 6 | Lorbeer-Halo | Sonnenlicht auf dem verblassten | Experimenteller Gesang und Akustik |
 | 7 | Tim Hecker | Jungfrauen | Lärm- und IDM-Konstruktion |
-| 8 | Andy Stott | Luxusprobleme | Dunkles und tiefgründiges, cluborientiertes IDM |
+| 8 | Andy Stott | Luxusprobleme | Dunkler und tiefgründiger, cluborientierter IDM |
 | 9 | Holly Herndon | Chor | Pionier des KI-Ansatzes |
 | 10 | Lapalux | Ohne dich | Emotionaler IDM R&B |
 
@@ -171,7 +171,7 @@ Im Streaming-Zeitalter verschwimmen die Grenzen zwischen den Genres zunehmend. E
 **Verwendung von KI-Unterstützungstools und generativer Musiksoftware**.
 Hybride Produktion, die Modularität und Software kombiniert.
 
-### Liste mit 10 empfohlenen Songs (seit 2020)
+### Liste mit 10 empfohlenen Songs (2020er-heute)
 
 | Nein | Künstler | Songtitel | Kommentar |
 |---|---|---|---|

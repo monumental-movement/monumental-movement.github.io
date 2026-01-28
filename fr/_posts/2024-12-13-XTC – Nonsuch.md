@@ -14,7 +14,7 @@ title: XTC – Rien de tel
 ---
 
 
-"Nonsuch" est le 12ème album du groupe de rock britannique XTC, sorti par Virgin en 1992. Le producteur est Gus Dudgeon, qui a travaillé sur des œuvres d'Elton John. C'était l'album le plus politique de XTC, abordant des sujets allant de l'amour et de l'humanité à la guerre du Golfe et au P•T•Barnum, et fut un succès aux États-Unis et au Royaume-Uni.
+"Nonsuch" est le 12ème album du groupe de rock britannique XTC, sorti par Virgin en 1992. Le producteur est Gus Dudgeon, qui a travaillé sur les œuvres d'Elton John. C'était l'album le plus politique de XTC, abordant des sujets allant de l'amour et de l'humanité à la guerre du Golfe et au P•T•Barnum, et fut un succès aux États-Unis et au Royaume-Uni.
 
 #### Liste des chansons
 ```md

@@ -11,11 +11,11 @@ tags:
 - Avant-garde
 - Rock
 - 70s
-title: 裸のラリーズ Les Rallizes Dénudés – Live 1972
+title: Les Ralliés Dénudés – Live 1972
 ---
 
 
-裸のラリーズ (Les Rallizes Dénudés/Hadaka no rariizu）は、1967年に水谷孝を中心に京都で結成されたエクスペリメンタルノイズロック・サイケデリックロックバンド。1960年代から1990年代に活動した裸のラリーズは、国内外のノイズロックシーンに多大なる影響を与え、現在もカルト的人気を誇る。結成当時のメンバーは水谷孝、中村武志、若林盛亮。その他、山口冨士夫（元村八分、後にティアドロップス）、久保田麻琴などが一時在籍するなどメンバーは流動的。1996年を最後に活動を休止している。
+Les Rallizes Dénudés/Hadaka no rariizu est un groupe expérimental de noise rock/rock psychédélique formé à Kyoto en 1967, dirigé par Takashi Mizutani. Naked Larrys, actif des années 1960 aux années 1990, a eu une énorme influence sur la scène noise rock au Japon et à l'étranger et jouit toujours d'une popularité culte. Les membres originaux étaient Takashi Mizutani, Takeshi Nakamura et Morisuke Wakabayashi. De plus, les membres sont en constante évolution, Fujio Yamaguchi (anciennement connu sous le nom de Hachibu, plus tard de Teardrops) et Makoto Kubota rejoignant le groupe pour un certain temps. Le groupe a cessé ses activités en 1996.
 
 #### Liste des chansons
 ```md

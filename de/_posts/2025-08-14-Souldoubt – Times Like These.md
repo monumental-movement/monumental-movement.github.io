@@ -18,7 +18,7 @@ Alex J. Dean, auch bekannt als Souldoubt, ist ein Deep-House-/Tech-House-Produze
 
 „Times Like These“ ist ein Deep-House-Track, der auf dem Seattler House-Label Viva! veröffentlicht wurde. im Jahr 2001.
 
-Das Jackendesign stammt von Todd Omotani, einem kanadischen Deep-House-DJ, Produzenten und Schöpfer, der von Ende der 1990er bis in die 2000er Jahre in der House-Musikszene im Westen Kanadas aktiv war.
+Das Jackendesign stammt von Todd Omotani, einem kanadischen Deep-House-DJ, -Produzenten und -Schöpfer, der von Ende der 1990er bis 2000er Jahre in der House-Musikszene im Westen Kanadas aktiv war.
 
 
 #### Trackliste

@@ -15,7 +15,7 @@ title: 쇼노 마요 – 자제 M・A・Y・O – 자제
 ---
 
 
-"Reflan"은 쇼노 마요의 네 번째 오리지널 앨범으로, 그녀의 시그니처 곡인 "Flying to Istanbul"(츠츠미 쿄헤이 작곡)이 수록되어 있습니다. City Pop은 1978년 Nippon Columbia의 하위 레이블인 Nippon Columbia에서 출시되었습니다.
+"Reflan"은 쇼노 마요의 네 번째 오리지널 앨범으로, 그녀의 시그니처 곡인 "Flying to Istanbul"(츠츠미 쿄헤이 작곡)이 수록되어 있습니다. City Pop은 1978년 Nippon Columbia의 하위 레이블인 Nippon Columbia에서 발매되었습니다.
 
 #### 트랙리스트
 ```md

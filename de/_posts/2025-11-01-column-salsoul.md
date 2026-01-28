@@ -14,7 +14,7 @@ title: '[Kolumne] Salsoul Orchestra und MFSB – Entwicklung von Philadelphia zu
 ---
 
 
-## Der Moment, als die Streicher aus Philadelphia die Welt zum Tanzen brachten
+## Der Moment, als Philadelphia Strings die Welt zum Tanzen brachten
 
 
 Text: mmr｜Thema: Über die musikalische Revolution, die die Grundlage der „Disco“ bildete
@@ -23,7 +23,7 @@ In den frühen 1970er Jahren kam es in Philadelphia, einer Stadt an der Ostküst
 Im Mittelpunkt standen **MFSB (Mother Father Sister Brother)** und **Salsoul Orchestra**.
 
 Sie etablierten einen neuen Sound namens „Orchestra Soul“, indem sie wunderschöne Arrangements mit vielen Streichern und Hörnern, einer detaillierten Rhythmussektion und einem gefühlvollen Geist verbanden.
-Diese Abstammung breitete sich später auf die Disco-Kultur auf der ganzen Welt aus und wurde von House-, Latin- und sogar Hip-Hop-Sampling-Kulturen übernommen.
+Diese Abstammung verbreitete sich später in der Disco-Kultur auf der ganzen Welt und wurde von House-, Latin- und sogar Hip-Hop-Sampling-Kulturen übernommen.
 
 ---
 
@@ -62,7 +62,7 @@ Die sanften Grooves dieser Spieler wurden zu einer weltweiten Marke, die als „
 ## MFSB – Der Moment, in dem Streicher den Groove dominieren
 
 1973 erschien das Album „**Love Is The Message**“ unter dem Namen MFSB.
-Das gleichnamige Lied wurde zu einer Hymne, die die Geschichte Seouls repräsentierte, und wurde in den frühen Tagen der Disco von DJs als „Standard-Bridge-Song“ geliebt.
+Das gleichnamige Lied wurde zu einer Hymne, die die Geschichte Seouls repräsentierte, und wurde von DJs in den frühen Tagen der Disco als „Standard-Bridge-Song“ geliebt.
 
 Earl Youngs „Four-on-the-Floor“-Rhythmus wurde später zum Grundschlag von Disco und House.
 Darüber hinaus verliehen Vincent Montana Jr.s Vibes und Streicharrangements den Rhythmen der schwarzen Musik eine klassische Eleganz.
@@ -96,7 +96,7 @@ Montanas Arrangement-Philosophie war klar.
 Sein Ideal ist „Musik, die anmutig tanzt“.
 Sie verliehen der auf der Straße entstandenen Tanzkultur klassische architektonische Schönheit und erhoben die Musik zu einem „eleganten Fest“.
 
-Andererseits machte sein extremer Perfektionismus die Studiomusiker nervös, und es heißt, dass jede Aufnahmesitzung Dutzende Takes erforderte.
+Andererseits machte sein extremer Perfektionismus die Studiomusiker nervös, und es heißt, dass jede Aufnahmesitzung Dutzende von Takes erforderte.
 
 ---
 

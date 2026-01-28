@@ -51,7 +51,7 @@ On the other hand, Electro-Industrial is a name that has developed from the stru
 
 Industrial music of the 1970s was an attempt to deconstruct existing musical concepts through the introduction of tape manipulation, noise, repetition, and non-musical materials. At this stage, the dance quality was not necessarily emphasized, and the listening experience itself became an objective.
 
-In the 1980s, the spread of synthesizers, drum machines, and the MIDI standard made it easy to create repeatable and accurate rhythmic structures. This created the conditions for a format that could be played in clubs while retaining its industrial aesthetic.
+In the 1980s, the spread of synthesizers, drum machines, and the MIDI standard made it easy to create repeatable and precise rhythmic structures. This created the conditions for a format that could be played in clubs while retaining its industrial aesthetic.
 
 ---
 
@@ -59,7 +59,7 @@ In the 1980s, the spread of synthesizers, drum machines, and the MIDI standard m
 
 Multiple regions are involved in the formation of EBM.
 
-In Belgium, the connection between electronic music and avant-garde art developed from a relatively early stage, and the activities centered on Front 242 provided the framework for EBM. In the UK, post-punk minimalism and physical expression combined to create the stoic style of Nitzer Ebb. In Germany, the foundations of electronic music technology and club culture supported the acceptance and development of EBM.
+In Belgium, the connection between electronic music and avant-garde art has developed from a relatively early stage, and the activities centered on Front 242 provided the framework for EBM. In the UK, post-punk minimalism and physical expression combined to create the stoic style of Nitzer Ebb. In Germany, the foundations of electronic music technology and club culture supported the acceptance and development of EBM.
 
 What these regions have in common is an industrialized urban environment and the existence of spaces that physically accept repetitive music.
 

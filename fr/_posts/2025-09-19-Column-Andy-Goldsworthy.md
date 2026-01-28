@@ -40,7 +40,7 @@ color: #fff;
 
 ### Points communs entre le travail de Goldsworthy et la musique
 
-| Thèmes | Les œuvres de Goldsworthy | Similitudes avec la musique |
+| Thèmes | Œuvres de Goldsworthy | Similitudes avec la musique |
 |--------|----------------|----------------|
 | **Heure** | Travaux basés sur la prémisse de changements tels que la fonte ou le flétrissement de la glace, des feuilles, des branches, etc. | Sens musical du temps utilisant des déphasages et des boucles (par exemple Steve Reich) |
 | **Emplacement** | Les œuvres sont indissociables du milieu naturel dans lequel elles sont créées | Une musique qui capture les « sons du lieu » grâce à des enregistrements sur le terrain |
@@ -53,7 +53,7 @@ color: #fff;
 ### Travaux/projets représentatifs de Goldsworthy
 
 - **Série Boules de Neige** : Une énorme boule de neige est installée dans une ville et affichée au fur et à mesure qu'elle fond au fil du temps.
-- **Icicle Star** : Un morceau de glace transformé en forme d'étoile qui fond au lever du soleil.
+- **Icicle Star** : Un morceau de glace assemblé en forme d'étoile et qui fond au lever du soleil.
 - **Stone River (1997)** : Un mur de pierre sinueux installé à l'Université de Stanford aux États-Unis.
 - **Rowan Leaves and Hole** : Une œuvre dans laquelle des feuilles rouges sont disposées en cercle et flottent à la surface de l'eau.
 - **Storm King Wall (1997-98)** : Un long mur de pierre serpentine au Storm King Art Center de New York.
@@ -90,12 +90,12 @@ color: #fff;
 #### Minime
 
 - Steve Reich ― *Musique pour 18 musiciens*
-- Terry Riley ― *En C*
+-Terry Riley ― *En C*
 - Philip Glass - *Verrerie*
 
 ---
 
-### Playlist structurée selon « l'écoulement du temps »
+### Playlist organisée selon « l’écoulement du temps »
 
 #### matin
 
@@ -105,7 +105,7 @@ color: #fff;
 
 #### midi
 
-- Terry Riley ― *En C*
+-Terry Riley ― *En C*
 - Jana Winderen ― *Champ d'énergie*
 - Philip Glass - *Verrerie*
 

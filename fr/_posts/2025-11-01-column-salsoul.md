@@ -106,7 +106,7 @@ En revanche, son extrême perfectionnisme rendait nerveux les musiciens du studi
 |------|----|------|------|
 | **Pause d'amour (Ooh je l'aime)** | 1980 | Un trésor d’échantillonnage. Les percussions et les breaks de cor ont été surutilisés dans le hip-hop ultérieur. | Cité par Public Enemy, Eric B. & Rakim, etc. |
 | **Salsoul Hustle** | 1975 | Les origines du début du disco. Une fusion de rythme 4/4 et de groove latin. | Symbolise un bond en avant par rapport au son de Philadelphie. |
-| **Nice 'n Naasty** | 1976 | Piste de danse dirigée par des cordes. | Présente un arrangement sophistiqué. |
+| **Nice 'n Naasty** | 1976 | Piste de danse à cordes. | Présente un arrangement sophistiqué. |
 | **Runaway (feat. Loleatta Holloway)** | 1977 | Un développement dramatique mettant en vedette des voix et des cordes féminines. | Réévalué au cours des années suivantes dans le monde de la maison. |
 
 ---

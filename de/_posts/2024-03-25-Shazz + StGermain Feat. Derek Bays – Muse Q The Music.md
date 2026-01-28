@@ -18,7 +18,7 @@ Ein House/Deep-House-Track des französischen Plattenproduzenten/Remixers Shazz 
 
 Besonders toll ist Seite A, deren sprudelnde Basslinie einen schönen Kontrast zu den erhabenen Rosenakkorden bildet und so eine exquisite Harmonie schafft.
 
-Dieser Titel ist eine der vielen großartigen Kreationen von Shazz und eine echte Deep-House-Nummer mit einem beruhigenden Loop aus sanften Tasten, schwungvoller Percussion und dem faszinierenden Gesang von Derek Bays.
+Dieser Track ist eine der vielen großartigen Kreationen von Shazz und eine echte Deep-House-Nummer mit einem beruhigenden Loop aus sanften Keyboard-Klängen, schwungvollen Percussions und Derek Bays' hypnotisierendem Gesang.
 
 #### Trackliste
 ```md

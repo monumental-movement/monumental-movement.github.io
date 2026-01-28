@@ -17,7 +17,7 @@ title: '[Kolumne] Hikashu: Eine grenzüberschreitende Geschichte des Avantgarde-
 
 ## Behandelt kreative Methoden, Mitglieder, Chronologie und Diagramme
 
-Text: mmr | Thema: Eine lange Kolumne von Hikashu, der Ende der 1970er Jahre zu Beginn des Techno/New Wave erschien und Pionier des „japanischen experimentellen Pop“ war. Flugbahn von der Gründung bis zur Gegenwart
+Text: mmr | Thema: Eine lange Kolumne von Hikashu, der in den späten 1970er Jahren zu Beginn des Techno/New Wave erschien und Pionier des „japanischen experimentellen Pop“ war. Flugbahn von der Gründung bis zur Gegenwart
 
 Hikashu ist eine Gruppe, die in der japanischen Pop-/Rock-Geschichte eine einzigartige Stellung einnimmt.
 Seit ihrem Debüt im Jahr 1978 haben sie Elemente wie **New Wave, Avantgarde-Musik, Musiktheater, Improvisation, elektronische Musik und Volksmusik** frei gekreuzt und dabei ihre einzigartigen Kreationen beibehalten, die „das Konzept des Genres weiterhin aufrütteln“.
@@ -89,7 +89,7 @@ Es ist der Beginn eines Bruchs mit dem Genre und kann nicht als sogenannter „N
 # 4. Ausweitung der Aktivitäten von Koichi Makigami (Ende der 1980er – 1990er Jahre)
 – Zu Techno, Volksmusik, Theremin und darstellender Kunst
 
-Parallel zu den Aktivitäten der Gruppe erweitert Leiter Koichi Makigami den Umfang seiner Aktivitäten mit einem Schwerpunkt auf der **Erweiterung der Stimme**.
+Parallel zu den Gruppenaktivitäten erweitert Leiter Koichi Makigami den Umfang seiner Aktivitäten mit einem Schwerpunkt auf der **Erweiterung der Stimme**.
 
 - Weitere Erforschung des Obertongesangs
 - Zusammenarbeit mit zeitgenössischem Tanz
@@ -148,7 +148,7 @@ Dabei handelt es sich nicht nur um Gesang, sondern um eine Erkundung der Stimme 
 Im Anfangsstadium stechen die neuen wellenartigen stoischen Beats hervor, ab der Mitte nehmen jedoch komplexe Ensembles mit mehreren gleichzeitig existierenden Beats zu.
 
 ### ■ 3. „Struktureller Humor“ statt „Absurdität“
-Hikashus Texte und Darbietungen mögen bizarr erscheinen, viele von ihnen sind jedoch äußerst präzise strukturiert.
+Hikashus Texte und Produktion mögen bizarr erscheinen, aber viele von ihnen sind äußerst präzise strukturiert.
 Nonsense ist kein „Denkstopp-Gag“, sondern ein Mittel, um die Grenze zwischen Sprache und Klang zu erschüttern.
 
 ### ■ 4. Theremin und elektronische Akustik
@@ -211,7 +211,7 @@ Die Einzigartigkeit von Hikashu liegt in der Tatsache, dass es sich weiterhin um
 2. Akustische Kunst mit Schwerpunkt auf der Stimme verfolgen
 3. Die Einstellung, unabhängig von den Trends der Zeit weiterhin kreativ zu sein
 4. Befreiung aus dem Rahmen traditioneller Rockbands
-5. Live-Philosophie, die stets genreübergreifend ist und auch Wiederaufführungen zum „Experiment“ macht
+5. Live-Philosophie, die immer genreübergreifend ist und auch Wiederaufführungen zum „Experiment“ macht
 
 Es reicht nicht aus, Hikashu einfach als „Legende der japanischen New Wave“ zu bezeichnen; Vielmehr sollte er als wichtiger Meilenstein in der Geschichte der zeitgenössischen japanischen Musik und Avantgarde-Kunst positioniert werden.
 
@@ -222,7 +222,7 @@ Es reicht nicht aus, Hikashu einfach als „Legende der japanischen New Wave“ 
 – Der „Zustand“ von Hikashu
 
 Hikashu ist mehr als eine „Band“, es ist ein Testgelände für Klang, Körper und Humor.
-Auch wenn seit ihrer Gründung über 45 Jahre vergangen sind, stehen sie immer wieder auf der Bühne, nicht um die Vergangenheit nachzuspielen, sondern um das „Jetzt“ neu zu entdecken.
+Auch wenn seit ihrer Gründung schon über 45 Jahre vergangen sind, stehen sie immer wieder auf der Bühne, nicht um die Vergangenheit nachzuspielen, sondern um das „Jetzt“ neu zu entdecken.
 
 Diese Haltung ist in der Geschichte der japanischen Musik von einzigartigem Wert.
 Hikashu endet nie. Sie existieren immer als fortlaufender „Zustand“.

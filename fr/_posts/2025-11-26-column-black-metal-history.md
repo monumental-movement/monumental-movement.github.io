@@ -105,7 +105,7 @@ Cependant, le cadre esthétique (Satan, anti-religion, dark record, anti-commerc
 
 # **Chapitre 3 : Deuxième vague (1990-1998) — La Norvège a changé le monde**
 
-La période la plus importante de l’histoire du black metal se situe entre 1990 et 1998.
+La période la plus importante de l’histoire du black metal s’étend de 1990 à 1998.
 L'accent était mis sur les jeunes musiciens underground norvégiens.
 
 ## ■ Concepts clés
@@ -234,10 +234,10 @@ Ici, nous approfondirons systématiquement les groupes qui sont devenus la pierr
 Oeuvres majeures : *Burzum* (1992), *Det Som Engang Var* (1993), *Hvis lyset tar oss* (1994)**
 
 * La musique vise un minimalisme poussé,
-**Un style qui vise à créer une nature semblable à la transe et à l'effondrement du sens du temps par la répétition**.
+**Un style qui vise à créer une nature semblable à la transe et à l'effondrement de la notion du temps par la répétition**.
 * Continuant à faire une déclaration forte dans le débat culturel et religieux norvégien au début des années 1990,
 En raison d'une couverture médiatique excessive, « l'image dangereuse » du black metal s'est établie.
-* Après l'incident (meurtre d'Euronymous) et l'arrestation, la source sonore de Burzum est devenue plus orientée vers l'ambiance.
+* Après l'incident (meurtre d'Euronymous) et l'arrestation, la source sonore de Burzum est devenue plus ambiante.
 
 ---
 
@@ -250,7 +250,7 @@ En raison d'une couverture médiatique excessive, « l'image dangereuse » du bl
 * L'enregistrement est extrêmement lo-fi,
 
 * Mur de guitare vertical
-* Frappes monotones de charleston et de caisse claire
+* Coups de charleston et de caisse claire monotones
 * Base extrêmement légère
 devient la version définitive du « son du black metal scandinave » = « son froid ».
 
@@ -333,7 +333,7 @@ Un pionnier qui a étendu le black metal au son orchestral**.
 * Axe principal : Léviathan / Xasthur / Loups dans la salle du trône
 * Caractéristiques
 
-* Cascadian BM (type culte de la nature)
+* BM cascadien (type culte de la nature)
 * DSBM (Dépression)
 * BM ambiante
 Chaque style a été subdivisé et a mené son expansion mondiale.
@@ -353,7 +353,7 @@ Chaque style a été subdivisé et a mené son expansion mondiale.
 
 — Grands événements + liste des chefs-d'œuvre par année —**
 
-Vous trouverez ci-dessous une **chronologie basée sur des faits**. Les incidents et les travaux sont basés sur l'année de publication officielle et l'année d'occurrence.
+Vous trouverez ci-dessous une **chronologie factuelle**. Les incidents et les travaux sont basés sur l'année de publication officielle et l'année d'occurrence.
 
 ---
 
@@ -393,8 +393,8 @@ Vous trouverez ci-dessous une **chronologie basée sur des faits**. Les incident
 
 **1991**
 
-* Mayhem : mort (fait)
-* Darkthrone : a décidé de passer du death metal au black metal
+* Mayhem : Mort (fait)
+* Darkthrone : a décidé de passer du death metal au black metal.
 
 **1992**
 

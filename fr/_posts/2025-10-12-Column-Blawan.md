@@ -18,7 +18,7 @@ title: '[Chronique] Blawan : Le plaisir de l''acier et le corps au fond de la nu
 ## Prologue Rythme qui s'est développé à l'ombre des usines, du parfum persistant de l'industrie
 
 
-Texte : mmr｜Thème : À propos du rythme froid mais en quelque sorte humain de Blawan qui continue d'avoir ses racines dans l'underground britannique
+Texte : mmr｜Thème : À propos du rythme froid mais en quelque sorte humain de Blawan qui continue d'avoir des racines dans l'underground britannique
 
 Autrefois, les zones industrielles du nord de l’Angleterre étaient remplies d’odeurs de vapeur et de métal.
 Jamie Roberts – ou Blawan – a peut-être grandi en inhalant inconsciemment ses réverbérations.
@@ -102,7 +102,7 @@ L'espace d'un instant où tout se fond, la musique devient « substance ».
 
 ---
 
-## Chapitre 4 Wet Will Always Dry——Enregistrement d'émotions sans émotions
+## Chapitre 4 Wet Will Always Dry——Un enregistrement d'émotions sans émotions
 
 En 2018, Blawan sort enfin un album complet, Wet Will Always Dry.
 Comme le titre l'indique, **Mouillé, sec. **
@@ -142,7 +142,7 @@ Et les particules délicates du Skee Mask.
 Tout cela se reconstruit en lui.
 
 Plutôt que la stérilité de Berlin, je préfère l’humidité de Londres.
-Utilisez la pression de la paume plutôt que le numérique.
+Utilisez la pression de votre paume plutôt que celle du numérique.
 Blawan continue de choisir le **poids du terrain**.
 C'est aussi une forme de résistance pour le club de continuer à être à nouveau un « lieu ».
 
@@ -280,7 +280,7 @@ Parce qu’il y a à la fois de la peur et du soulagement.
 
 Un bruit comme de l'acier.
 Mais à chaque fois que je l’écoute, ma température monte.
-Blawan est un artiste dont le sang coule à travers le monde froid.
+Blawan est un artiste dont le sang coule à flot dans le monde froid.
 
 > "Le son est l'ombre du corps"
 >——Blawan (d'après une interview)

@@ -20,7 +20,7 @@ Erdbeerfeld는 사운드 아티스트 Susanne Feld와 샘플링 아티스트 Sas
 
 "Warten Sie Schon Lange?" 는 독일 레이블 Hal 9000이 2005년에 발매한 Electro/Synth-pop/Tech House 트랙입니다. 배포는 Kompakt가 담당합니다.
 
-A2는 90년대 프랑크푸르트 클럽씬에서 활동했던 독일 일렉트로 뮤지션 Hal 9000(Falk Meinunger)과 DJ 겸 프로듀서인 Sylvie Marks가 리믹스한 곡입니다.
+A2는 90년대 프랑크푸르트 클럽씬에서 활약한 독일 일렉트로 뮤지션 Hal 9000(Falk Meinunger)과 DJ 겸 프로듀서인 Sylvie Marks가 리믹스한 곡입니다.
 
 #### 트랙리스트
 ```md

@@ -14,7 +14,7 @@ title: Skinny Puppy – Anthologie de 12 pouces
 ---
 
 
-Skinny Puppy est un groupe électro-industriel formé en 1982 par Kelvin Key et Kevin Ogilvy, nés au Canada.
+Skinny Puppy est un groupe électro-industriel formé en 1982 par Kelvin Key et Kevin Ogilvie, nés au Canada.
 
 Skinny Puppy est connu comme l'un des fondateurs des genres rock industriel et électro-industriel.
 

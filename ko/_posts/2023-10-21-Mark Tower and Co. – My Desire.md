@@ -15,7 +15,7 @@ title: 마크 타워 앤 컴퍼니 – 나의 욕망
 
 Giuliano Crivellente, Mauro Farina가 작곡했습니다. 보컬리스트는 Gianni Coraini(Ken Laszlo, DJ NRG 등으로도 알려져 있음)입니다.
 
-"Mark Tower & Co. – My Desire"는 1990년 이탈리아 Italo Disco와 Eurobeat 레이블 Asia Records에 의해 발매되었습니다.
+"Mark Tower & Co. – My Desire"는 이탈리아의 Italo Disco와 Eurobeat 레이블인 Asia Records가 1990년에 발매했습니다.
 
 #### 트랙리스트
 ```md

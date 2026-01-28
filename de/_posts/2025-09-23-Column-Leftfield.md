@@ -20,7 +20,7 @@ title: '[Spalte] Was ist Leftfield? — Die Schnittstelle zwischen Genre und Kü
 Text: mmr｜Thema: Gedanken zum Leftfield-Genre und zum Künstler
 
 Leftfield ist ein Symbol der britischen Electronica, ein experimenteller und unkonventioneller Ausdruck des Genres.
-In diesem Artikel erklären wir die Bedeutung und repräsentativen Werke von Leftfield aus den 1990er bis 2000er Jahren.
+In diesem Artikel erläutern wir die Bedeutung und repräsentativen Werke von Leftfield aus den 1990er bis 2000er Jahren.
 
 ---
 

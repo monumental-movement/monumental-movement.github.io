@@ -9,7 +9,7 @@ permalink: /ko/column-high-brands-noise-music/
 tags:
 - Noise
 - Experimental
-title: '[칼럼] 하이 브랜드와 노이즈 음악, 럭셔리와 급진적인 어쿠스틱의 교차점'
+title: '[칼럼] 하이 브랜드와 노이즈 음악, 럭셔리함과 급진적인 어쿠스틱의 교차점'
 ---
 
 
@@ -40,7 +40,7 @@ color: #fff;
 
 ### 패션쇼와 소음의 친밀감
 
-1990년대부터 고급 브랜드 쇼에서는 록, 클래식 음악뿐 아니라 노이즈/인더스트리얼 음악까지 활발하게 소개되어 왔다.
+1990년대부터 고급 브랜드 쇼에서는 록, 클래식 음악뿐 아니라 노이즈/인더스트리얼 음악도 활발히 소개해왔다.
 
 [Balenciaga](https://amzn.to/3KItfr1) は、廃墟のような空間でインダストリアル・ノイズを轟かせ、衣服と空間を「攻撃的な美」として提示した。
 
@@ -99,7 +99,7 @@ color: #fff;
 
 ### 소음에 대한 각 브랜드의 접근 방식
 
-주요 브랜드와 노이즈에 대한 심층적 예시
+주요 브랜드와 노이즈에 대한 심층적인 예시
 
 ✦ [COMME des GARÇONS](https://amzn.to/42fzNDE)
 
@@ -115,7 +115,7 @@ color: #fff;
 
 하이노 케이지(Keiji Haino)와 즉흥 연주의 영향을 받았습니다.
 
-관련 아티스트: 하이노 케이지, 하이노 케이지 관련 즉흥 유닛.
+관련 아티스트: 하이노 케이지(Haino Keiji), 하이노 케이지 관련 즉흥 유닛.
 
 ✦ [Balenciaga](https://amzn.to/3KItfr1)
 
@@ -161,7 +161,7 @@ Demna 기간 동안 산업 소음이 완전히 도입되었습니다.
 
 주제는 아름다움과 죽음, 질서와 부패, 클래식 음악과 소음의 과도한 사용입니다.
 
-2010년 사후 쇼에도 전자 소음이 도사리고 있다.
+2010년 사후 쇼에도 전자 소음이 숨어 있다.
 
 관련 아티스트: Aphex Twin(노이즈/앰비언트 사이드), Chris Watson.
 
@@ -187,7 +187,7 @@ Kim Jones 시대에 드론 같은 음악을 사용합니다.
 
 검은 가죽과 포효에 대한 친화력.
 
-관련 아티스트: 스완즈(Swans), 셸락(Shellac).
+관련 아티스트: Swans, Shellac.
 
 ---
 
@@ -248,7 +248,7 @@ Kim Jones 시대에 드론 같은 음악을 사용합니다.
 
 ### COMME des GARÇONS / 구찌 / 프라다
 
-"쇼/캠페인에서 실제로 사용된 (혹은 그 연관성이 명확히 보도된) 소음/실험예술가/음향" 관련 자료 아카이브
+"쇼/캠페인에서 실제로 사용된 (또는 그 관계가 명확히 보도된) 소음/실험 예술가/음향" 관련 자료 아카이브
 
 COMME des GARÇONS — 실험적인 사운드/소음을 "쇼 음악"에 통합하는 전통
 
@@ -294,7 +294,7 @@ COMME des GARÇONS — 실험적인 사운드/소음을 "쇼 음악"에 통합�
 | 프라다(라프 시몬스×미우치아/라프 시대 등) | [**Richie Hawtin(Plastikman)**](https://amzn.to/3VCMmVS) | Raf Simons 재임 기간 동안 Richie Hawtin의 쇼 음악 예시. 미니멀/테크노와 프라다의 분위기가 겹쳐지는 중요한 케이스. ([보그][1]) | [보그][1] |
 | 프라다(사운드디렉터 예시) | [**프레데릭 산체스(음향감독)**](https://amzn.to/42PkrG0) | Sanchez는 Prada(Dior, Comme des Garçons 등 포함)와 수년 동안 협력하여 쇼의 "사운드 이미지"를 구축해 왔습니다. 그의 인터뷰 기사는 브랜드와 사운드의 긴밀한 협업을 보여주는 좋은 자료입니다. ([보그][2]) | [보그][2] |
 
-[1]: https://www.vogue.com/article/miuccia-prada-raf-simons-plastikman-richie-hawtin-runway-soundtrack?utm_source=chatgpt.com "Miuccia Prada와 Raf Simons의 음악적 협력자 Plastikman이 그들의 첫 번째 쇼 사운드트랙에 참여합니다."
+[1]: https://www.vogue.com/article/miuccia-prada-raf-simons-plastikman-richie-hawtin-runway-soundtrack?utm_source=chatgpt.com "Miuccia Prada와 Raf Simons의 음악적 협력자 Plastikman이 첫 번째 쇼의 사운드트랙 작업에 참여합니다."
 [2]: https://www.vogue.com/article/frederic-sanchez-playlist-interview?utm_source=chatgpt.com "Meet Frédéric Sanchez, Prada's Music Man-And Hear His Fantastical Playlist for Vogue"
 
 ---
@@ -324,7 +324,7 @@ COMME des GARÇONS — 실험적인 사운드/소음을 "쇼 음악"에 통합�
 
 '하이 브랜드'와 '노이즈 뮤직'은 언뜻 관련이 없어 보인다.
 그러나 둘 다 아름다움을 해체하고 재구성하는 미학을 공유합니다.
-소음은 럭셔리의 허식을 무너뜨리고 역설적으로 브랜드 가치를 강화합니다.
+소음은 럭셔리의 가식을 무너뜨리고 역설적으로 브랜드 가치를 강화합니다.
 21세기 런웨이에 울려퍼지는 함성은 브랜드는 '소비되는 존재'가 아니라 '도발하는 존재'임을 증명한다.
 
 ---

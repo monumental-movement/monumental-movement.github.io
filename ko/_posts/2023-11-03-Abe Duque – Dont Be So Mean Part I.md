@@ -22,7 +22,7 @@ Abe Duque는 뉴욕 지하 산성 현장에서 활동하고 있습니다.
 
 Abe Duque Records는 발매 정보와 크레딧을 디스크에 각인하면서 의도적으로 지하 경로를 택합니다.
 
-그는 Chemical Brothers와 Pet Shop Boys의 리믹스 작업에 참여했으며 2005년 WIRE, 2007년 Asagiri JAM에서 라이브 공연을 펼쳤습니다.
+그는 Chemical Brothers와 Pet Shop Boys의 리믹스 작업에 참여했으며, 2005년에는 WIRE, 2007년에는 Asagiri JAM에서 라이브 공연을 펼쳤습니다.
 
 2008년에 발매된 "Don't be So Mean"은 전 세계 댄스 플로어에서 인기를 얻은 테크노 트랙입니다.
 

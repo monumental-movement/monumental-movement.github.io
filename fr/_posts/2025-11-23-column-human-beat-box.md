@@ -94,7 +94,7 @@ Centré sur GBB, le « beatbox en tant qu'œuvre musicale » a commencé à êtr
 
 # 4. Style et caractéristiques de chaque pays
 
-## ◆ 1. France
+## ◆ 1.France
 La France est l'un des pays les plus innovants technologiquement au monde.
 
 - Epaisseur du médium-grave
@@ -122,7 +122,7 @@ La croissance rapide a été remarquable ces dernières années.
 - Haute qualité de son
 - Rapidité d'adaptation aux genres
 
-Les atouts du Japon incluent notamment « la précision du son », la « capacité de composition » et la « compatibilité avec les images et la production ».
+En particulier, les atouts du Japon sont « la précision du son », la « capacité de composition » et la « compatibilité avec les images et la production ».
 
 ---
 
@@ -132,7 +132,7 @@ Les atouts du Japon incluent notamment « la précision du son », la « capacit
 Au Japon, il s'est répandu dans les rues et lors d'événements depuis le milieu des années 2000, et les techniques sont partagées entre artistes à travers des séances d'entraînement et de participation à des compétitions.
 
 ## ◆ 2. Forte orientation technique
-Les joueurs japonais sont forts en termes de précision sonore et d'attention aux détails, et sont loués même par les joueurs étrangers.
+Les joueurs japonais sont forts en termes de précision sonore et d'attention aux détails, et sont très appréciés même par les joueurs étrangers.
 
 ## ◆ 3. Fusion avec la culture de la vidéo et du montage
 Principalement sur YouTube et SNS,
@@ -187,7 +187,7 @@ En particulier, il est le type de joueur qui possède un haut niveau d'organisat
 
 ### ● Pression sonore et tonalité
 Koey est un joueur dont le son est profond, puissant et possède une large gamme de basses.
-La raison pour laquelle il attire l'attention au Japon et à l'étranger est
+La raison pour laquelle il attire l’attention au Japon et à l’étranger est
 
 - Son de gorge profonde
 - Stabilité des sons polyphoniques
@@ -198,7 +198,7 @@ C'est dans cette partie.
 ### ● Le style de Koey
 - Acuité pour le combat
 - Aménagement qui profite de la pression acoustique
-- Intégration d'une technologie détaillée dans les points clés
+- Intégrer une technologie détaillée dans les points clés
 
 Parmi les joueurs japonais récents, c'est un joueur avec un ton qui se démarque lors des performances live.
 
@@ -264,7 +264,7 @@ On peut s’attendre à ce qu’il continue à être actif à la fois dans Loops
 
 # Conclusion - Le Human Beatbox en tant que culture
 
-Human Beatbox est une culture expressive moderne qui combine de nombreux aspects tels que la musique, la performance, la vidéo et la composition.
+Human Beatbox est une culture d’expression moderne qui combine de nombreux aspects tels que la musique, la performance, la vidéo et la composition.
 Maintenant que la culture de la compétition mûrit, que la technologie évolue et que des artistes japonais émergent, le beatboxing subit des changements majeurs et le beatboxing devient plus qu'une simple technique, il devient un genre musical international.
 
 J'espère que cet article vous aidera à comprendre l'histoire et l'avenir du beatboxing.

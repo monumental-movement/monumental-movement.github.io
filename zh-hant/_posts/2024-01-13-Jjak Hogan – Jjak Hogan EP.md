@@ -14,9 +14,9 @@ title: Jjak Hogan – Jjak Hogan EP
 ---
 
 
-美國二人組 JJAK HOGAN 於 2008 年由 RADIO SLAVE 旗下廠牌 REKIDS 發行了一首電子碎拍和說唱曲目。
+美國二人組 JJAK HOGAN 於 2008 年由 RADIO SLAVE 旗下廠牌 REKIDS 發行了一首電子碎拍和說唱歌曲。
 
-JJAK HOGAN 是由來自喬治亞州奧古斯塔的 Slim E. Neutron (Donte Oliver) 和 Davey Koppa Feel (Wayne Brooks) 發起的一個項目，他們也以 Dr. Bass So-Low 和 Smoke Master I.C.E. 的名義進行表演。
+JJAK HOGAN 是由來自佐治亞州奧古斯塔的 Slim E. Neutron (Donte Oliver) 和 Davey Koppa Feel (Wayne Brooks) 發起的項目，他們也以 Dr. Bass So-Low 和 Smoke Master I.C.E. 的名義進行表演。
 
 #### 曲目列表
 ```md

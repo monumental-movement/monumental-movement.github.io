@@ -44,7 +44,7 @@ color: #fff;
 
 **Historischer Hintergrund**: House/Techno, das in Chicago und Detroit entstanden war, hielt Anfang der 1990er Jahre Einzug in New Yorker Clubs. Es war eine Zeit, in der die Clubkultur im Begriff war, kommerzialisiert zu werden, und es blieb ein Underground-Experimentiergeist bestehen.
 
-**Was ist passiert**: 1989 von Mark Finkelstein und Gladys Pizarro gegründet. Seit unserer Gründung konzentrieren wir uns auf DJ-orientierte 12-Zoll-Musik und produzieren Sound, der direkt auf die Tanzfläche trifft und in örtlichen Clubs beliebt ist.
+**Was ist passiert**: 1989 von Mark Finkelstein und Gladys Pizarro gegründet. Seit seiner Gründung konzentriert sich das Unternehmen auf DJ-orientierte 12-Zoll-Musik und produziert Sound, der direkt auf die Tanzfläche trifft und in örtlichen Clubs beliebt ist.
 
 **Repräsentatives Meisterwerk (früh)**
 - Roger Sanchez – *Luv Dancin'* (1990, unter dem Namen Underground Solution)
@@ -83,13 +83,13 @@ Viele der Produktionen nutzten Plattenspieler und Sampler (frühe SP-Serie und A
 - **E-MU SP-12 / SP-1200** (raue und warme Probentextur)
 - **Akai MPC-Serie** (MPC60~MPC2000-Serie)
 - **Roland TR-909 / TR-808** (Kick/Hi-Hat)
-- Technik zur Erzeugung von „Dicke“ mit Außenbord-/Bandbearbeitung
+- Technik zur Erzeugung von „Dicke“ mit Außenbord-/Bandverarbeitung
 
 ---
 
 | Nein | Künstler | Verfolgen | Kommentare |
 |---|---|---|---|
-| 1 | Rolle 2 Real ft. The Mad Stuntman | Ich bewege es gerne (1993) | Eine weltweit erfolgreiche Tanzhymne mit karibischem Rhythmus. |
+| 1 | Rolle 2 Real ft. The Mad Stuntman | Ich bewege es gern (1993) | Eine weltweit erfolgreiche Tanzhymne mit karibischem Rhythmus. |
 | 2 | Armand Van Helden | Hexendoktor | Einzigartiges Sampling und harte Beats sind beeindruckend. |
 | 3 | Barbara Tucker | Ich habe einen Platz gefunden | Gefühlvoller und warmer Vocal-House. |
 | 4 | George Morel | Morels Groove | Eine einfache Schlaufe, die auf dem Boden großartig aussieht. |
@@ -112,7 +112,7 @@ Viele der Produktionen nutzten Plattenspieler und Sampler (frühe SP-Serie und A
 - Wamdue Project – *King of My Castle* (Hit 1997/1999)
 
 **Ausrüstungstrends**
-DAWs und Software-Plug-Ins haben begonnen, in den Produktionsworkflow Einzug zu halten, und der Trend, die Klänge von Hardwaregeräten mit DAWs zu reproduzieren und zu integrieren, hat sich beschleunigt.
+DAWs und Software-Plug-Ins haben begonnen, in den Produktionsworkflow Einzug zu halten, und die Bewegung, die Klänge von Hardwaregeräten mit DAWs zu reproduzieren und zu integrieren, hat sich beschleunigt.
 
 ---
 
@@ -190,7 +190,7 @@ Die Marke/der Katalog ist immer noch aktiv und wird als „Asset“ für Neuaufl
 
 | Zeiteinteilung | Hauptausrüstung |
 |---|---|
-| 1989~Anfang der 90er Jahre | Roland TR-909 / TR-808, TB-303, Plattenspieler + Mixer |
+| 1989~Anfang der 90er | Roland TR-909 / TR-808, TB-303, Plattenspieler + Mixer |
 | Mitte der 90er | E-MU SP-12 / SP-1200, Akai MPC-Serie, Außenborder/Band |
 | 2000er bis heute | DAW (Pro Tools, Ableton, Logic), Plug-Ins/Software-Synthesizer |
 

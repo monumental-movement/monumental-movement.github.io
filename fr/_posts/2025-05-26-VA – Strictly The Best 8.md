@@ -11,11 +11,11 @@ tags:
 - Dancehall
 - Lovers Rock
 - 90s
-title: VA – Strictly The Best 8
+title: VA – Strictement le meilleur 8
 ---
 
 
-アメリカを拠点とした世界最大のインディペンデントレゲエレーベルVP Recordsから1992年にリリースされたコンピレーションアルバム。
+Un album de compilation sorti en 1992 par VP Records, le plus grand label indépendant de reggae au monde basé aux États-Unis.
 
 #### Liste des chansons
 ```md

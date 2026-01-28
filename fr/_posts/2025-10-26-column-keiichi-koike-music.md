@@ -154,7 +154,7 @@ timeline
 ## Dernier chapitre : Musique jouée par la vision
 
 Le manga de Keiichi Koike est une expérience musicale de lignes et d'espaces.
-A chaque tour de page, la conscience du lecteur ondule et le silence résonne.
+A chaque tour de page, la conscience du lecteur ondule et le silence retentit.
 Il ne s'agit pas de texte ou d'effets sonores, mais de musique purement visuelle.
 
 > "Les lignes sont sonores. Le blanc et le noir jouent alternativement le silence et le bruit." - Keiichi Koike

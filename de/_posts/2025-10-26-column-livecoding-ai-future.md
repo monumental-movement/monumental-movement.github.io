@@ -46,7 +46,7 @@ color: #fff;
 ## Kapitel 1: Geburt einer Kultur des „Spielens“ von Akkorden
 
 Die Ursprünge des Live Coding liegen in der **Algorithmischen Komposition**.
-Zu den frühesten Beispielen gehören automatische Kompositionsexperimente von Lejaren Hiller und Iannis Xenakis in den 1950er Jahren.
+Zu den frühesten Beispielen zählen automatische Kompositionsexperimente von Lejaren Hiller und Iannis Xenakis in den 1950er Jahren.
 Live Coding hat dies ins 21. Jahrhundert getragen und Körperlichkeit und Echtzeitfunktionalität zurückgebracht.
 
 Im Jahr 2004 wurde die Community „TOPLAP“ von Alex McLean und Nick Collins vorgeschlagen.
@@ -80,7 +80,7 @@ Diese Fusion deutet auf eine Zukunft hin, in der KI zum Co-Star im Live Coding w
 
 Human Live Coder **genießen Fehler und Zufälle**.
 Unerwartete Geräusche und Missverständnisse bestimmen die Musik.
-Andererseits ist KI-Improvisation eine **„Rekonstruktion“ basierend auf vergangenen Daten**,
+Im Gegensatz dazu ist KI-Improvisation eine **„Rekonstruktion“ basierend auf vergangenen Daten**,
 Im Wesentlichen bleibt es im Rahmen der Wahrscheinlichkeit.
 
 Dieser Unterschied ist jedoch auch die Quelle der Kreativität.

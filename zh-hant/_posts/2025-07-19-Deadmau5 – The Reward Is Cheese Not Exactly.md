@@ -21,7 +21,7 @@ Joel Thomas Zimmerman，也被稱為 Deadmau5，是一位加拿大 DJ 和製作�
 
 A 是與加拿大 DJ 和製作人 Jelo 聯合製作的作品。
 
-B 收錄在樂隊的第三張錄音室專輯“隨機專輯標題”中。
+Bは、3枚目のスタジオアルバム『Random Album Title』（ランダム・アルバム・タイトル）に収録されている。
 
 #### 曲目列表
 ```md

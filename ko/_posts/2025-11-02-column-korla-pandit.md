@@ -18,7 +18,7 @@ title: '[칼럼] Korla Pandit과 엑조티카의 비전: 전후 미국의 꿈과
 ## 프롤로그: 엑조티카란 무엇이었나요?
 
 
-글: mmr｜주제: 전후 미국 문화에서 이국적 창조와 오리엔탈리즘 미학 창조에 있어서 Korla Pandits의 역할 탐구
+글: mmr｜주제: 전후 미국 문화에서 이국적 창조와 오리엔탈리즘 미학의 창조에 있어서 Korla Pandits의 역할 탐구
 
 ![Korla Pandit at the organ](https://upload.wikimedia.org/wikipedia/en/4/4d/Korlaorgan.jpg) 
 出典：[Wikipedia - Korla Pandit](https://en.wikipedia.org/wiki/Korla_Pandit)
@@ -76,7 +76,7 @@ color: #fff;
 그의 진짜 이름은 **John Roland Redd**였으며 아프리카계 미국인이었습니다.
 
 이 '가면 이야기'는 단순한 예명 일화를 넘어선다.
-**전후 미국 사회의 인종, 외국, 예술의 삼중구조를 조명합니다**.
+**전후 미국 사회의 인종, 외국, 예술의 삼중 구조를 조명합니다**.
 
 ---
 
@@ -166,7 +166,7 @@ Pandit의 정체는 **John Roland Redd**로 밝혀졌습니다.
 | 연도 | 이벤트 |
 |----|---------|
 | 1916 | John Roland Redd(이후 Korla Pandit) 탄생 |
-| 1948 | KTLA에서 "Korla Pandit"이라는 이름을 사용하여 TV에 출연하기 시작 |
+| 1948 | KTLA에서 "Korla Pandit"이라는 이름으로 TV에 출연하기 시작 |
 | 1951 | "콜라판디트쇼" 방송개시 |
 | 1957 | Martin Denny의 "Exotica"가 차트 1위 |
 | 1960 | 미국 내 엑조티카 붐의 정점 |

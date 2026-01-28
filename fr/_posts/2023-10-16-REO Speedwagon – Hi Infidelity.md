@@ -10,11 +10,11 @@ tags:
 - Rock
 - AOR
 - 80s
-title: REO Speedwagon – Hi Infidelity
+title: REO Speedwagon – Salut infidélité
 ---
 
 
-REO Speedwagon（REOスピードワゴン/アール・イー・オー・スピードワゴン）は、1967年にイリノイ州で結成されたUSロックバンド。1980年にリリースしたアルバム『Hi Infidelity（禁じられた夜）』は彼らの代表作。
+REO Speedwagon est un groupe de rock américain formé dans l'Illinois en 1967. L'album « Hi Infidelity (Forbidden Night) » sorti en 1980 est leur chef-d'œuvre.
 
 #### Liste des chansons
 ```md

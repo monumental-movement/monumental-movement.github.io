@@ -9,16 +9,16 @@ layout: post
 permalink: /fr/linoleum-lineage-dj-rylo-and-omanjamari-holes-after-dark-ep/
 tags:
 - Hiphop
-title: Linoleum Lineage DJ Rylo and Omanjamari – Holes After Dark EP
+title: Linoleum Lineage DJ Rylo et Omanjamari – Holes After Dark EP
 ---
 
 
-Linoleum Lineageは、LAを拠点とするビートメイカーDJ RyloとMC Omanjamariによるユニット。
+Linoleum Lineage est une unité formée par le beatmaker DJ Rylo et MC Omanjamari, basés à Los Angeles.
 
 
-リリック – Omanjamari
-マスター – Damon Tedesco
-プロディーサー/ミックス/アレンジ – DJ Rylo
+Parole – Omanjamari
+Maître – Damon Tedesco
+Producteur/Mix/Arrangement – ​​​​DJ Rylo
 
 #### Liste des chansons
 ```md

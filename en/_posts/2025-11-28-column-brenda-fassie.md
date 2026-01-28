@@ -92,7 +92,7 @@ He then began his career as the lead singer of Brenda and the Big Dudes, and eve
 
 # 4. National success and masterpieces (1983–1990)
 
-Throughout the 1980s, she released a number of singles and albums and became a leading figure in black pop in South Africa. Her expressions were rich in stage costumes, choreography, and performances that involved the audience, and she was very popular in terms of media and concert mobilization.
+Throughout the 1980s, she released a number of singles and albums and became a leading figure in black pop in South Africa. Her expressions were rich in stage costumes, choreography, and performances that involved the audience, and she was highly popular in terms of media and concert mobilization.
 
 Some of the representative songs
 
@@ -149,7 +149,7 @@ Her death sent a deep shock through the South African music world, with tributes
 ## Main albums
 
 * Early band albums
-* Black President
+*Black President
 * Now Is the Time
 *Paparazzi
 *Memeza
@@ -182,7 +182,7 @@ flowchart TB
 
 # 13. Sociocultural evaluation and influence on posterity
 
-Brenda's accomplishments go beyond musical success with cultural and social impact. She pushed the voices of the township and black communities to the center of pop music, contributed to LGBTQ visibility, and paved the way for the next generation of black women artists.
+Brenda's accomplishments go beyond musical success with cultural and social impact. She pushed the voices of the township and black communities to the center of pop music, contributed to LGBTQ visibility, and paved the way for the next generation of black female artists.
 
 On the other hand, reports about drug problems and scandals also provided material to show the bright and dark sides of stars. Today, she remains an iconic figure in South African music history.
 

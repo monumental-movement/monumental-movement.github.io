@@ -135,7 +135,7 @@ Dead Can Dance crossed the boundaries of folk music, religious music, and ambien
 
 ---
 
-Arcana"s string orchestration, low-pitched vocals, and religious motifs are at the fore, and the genre"s characteristics are clearly defined. His works are consistently solemn and constructed in a way that excludes worldliness.
+Arcana brings to the fore string orchestration, low-pitched vocals, and religious motifs, making it a genre-defining piece. His works are consistently solemn and constructed in a way that excludes worldliness.
 
 
 > Representative artists demonstrate the breadth and depth of their genres.
@@ -159,7 +159,7 @@ C --> D[Establishment and re-evaluation of genre names]
 
 ## Summary
 
-Neo-Classical Darkwave is a musical field that was established by connecting sacred music, classical harmony, and symbolist aesthetics with recording technology and dark culture from the late 20th century onwards, rather than simply reproducing the musical idioms of the past. There is no single inventor or center in the process of its formation, but rather a gradual convergence of multiple regions, backgrounds, and individual practices.
+Neo-Classical Darkwave is a musical field that was created by connecting sacred music, classical harmony, and symbolist aesthetics with recording technology and dark culture from the late 20th century onwards, rather than simply reproducing the musical idioms of the past. There is no single inventor or center in the process of its formation, but rather a gradual convergence of multiple regions, backgrounds, and individual practices.
 
 This music does not aim for consumptive immediacy, but has a structure that assumes repeated listening and spatial immersion. As a result, genres function as cultural archives that remain referenced over time, while maintaining a distance from large-scale commercial spheres.
 

@@ -15,9 +15,9 @@ title: VA – Mad Maxx
 ---
 
 
-ラッパ我リヤのMC Qが中心となって立ち上げたレーベル走馬党 Entertainmentから2000年にリリースされた「Hardcore x HipHop」の企画アルバム。
+Un album projet « Hardcore x Hip Hop » sorti en 2000 par Soumatou Entertainment, un label lancé par MC Q de Rappa Gariya.
 
-参加アーティスト: 宇頭巻、リアルスタイラ、Cocobat、You The Rock、Wrench、Egg Man、Three Side、ポチョムキン、Low IQ 01、UBG Family、Chest Hole、バックギャモン、Anarch 、ラッパ我リヤ
+Artistes participants : Uzumaki, Real Styla, Cocobat, You The Rock, Screw, Egg Man, Three Side, Potemkin, Low IQ 01, UBG Family, Chest Hole, Backgammon, Anarch, Rappagariya
 
 #### Liste des chansons
 ```md

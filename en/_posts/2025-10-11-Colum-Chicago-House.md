@@ -53,13 +53,13 @@ The vast space of the warehouse, the height of the ceiling, and the echo of the 
 
 ### Social background of Chicago in the 1980s
 
-The early 1980s were tough economic times for Chicago.
+The early 1980s were a tough economic time for Chicago.
 
 - Increased unemployment rate due to industrial decline
 - Community division due to urban redevelopment
 - Racial disparities and social inequality
 
-Filling this urban void, club culture functioned as a new venue for social and cultural expression. Disillusioned with the commercialization of disco, young people flocked to clubs such as the Warehouse, The Power Plant, and Music Box to celebrate freedom through music.
+Filling this urban void, club culture functioned as a new venue for social and cultural expression. Disillusioned with the commercialization of disco, young people flocked to clubs such as the Warehouse, The Power Plant, and Music Box to enjoy freedom through music.
 
 ### Club management and community
 
@@ -120,7 +120,7 @@ Larry Heard's home-produced Can You Feel It is an anecdote that symbolizes the d
 
 ---
 
-## Chapter 6: Surprising relationships
+## Chapter 6: Unexpected relationships
 
 Chicago House intersects with seemingly unrelated fields.
 

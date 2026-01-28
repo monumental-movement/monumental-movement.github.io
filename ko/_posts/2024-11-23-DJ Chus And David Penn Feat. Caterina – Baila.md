@@ -17,7 +17,7 @@ title: DJ Chus와 David Penn Feat. 카테리나 – 바일라
 
 "Hey Hey"로 유명한 미국 하우스 DJ 겸 프로듀서 Dennis Ferrer가 DJ Chus & David Penn의 명곡 "Baila"를 리믹스한 곡입니다.
 
-영국의 유명 댄스 음악 레이블 Defected가 2003년에 발매한 트라이벌 하우스/딥 하우스 트랙입니다.
+영국의 명문 댄스 음악 레이블 Defected가 2003년에 발매한 트라이벌 하우스/딥 하우스 트랙입니다.
 
 
 #### 트랙리스트

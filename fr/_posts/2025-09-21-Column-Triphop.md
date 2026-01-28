@@ -154,7 +154,7 @@ Il existe des documentaires sur les tournées des années 90 comme "Welcome to P
 Endtroducing... est inscrit dans le Livre Guinness des records comme le « premier album entièrement construit à partir d'échantillons ». Terminé à l'aide d'un MPC et d'une platine vinyle.
 
 #### Technologie de production
-Utilise pleinement la reconstruction du breakbeat, le jonglage des rythmes et l'étirement du temps. Traitez le plateau tournant comme un « outil de collage ».
+Tirer pleinement parti de la reconstruction du breakbeat, du beat jonglerie et du time stretching. Traitez le plateau tournant comme un « outil de collage ».
 
 #### La vidéo fonctionne
 [DJ文化ドキュメンタリー『Scratch』（2001）](https://amzn.to/4pzrtso)に出演。

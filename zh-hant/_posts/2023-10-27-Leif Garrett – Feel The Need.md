@@ -14,7 +14,7 @@ title: 萊夫·加勒特——感受需要
 ---
 
 
-萊夫·加勒特 (Leif Garrett) 是一位美國歌手、演員和電視名人。 《Feel The Need》於 1979 年發行。
+雷夫·加勒特 (Leif Garrett) 是一位美國歌手、演員和電視名人。 《Feel The Need》於 1979 年發行。
 
 #### 曲目列表
 ```md

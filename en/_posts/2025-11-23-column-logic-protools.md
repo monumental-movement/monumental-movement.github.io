@@ -34,7 +34,7 @@ The following six companies shaped the overall picture:
 * **emagic/Digidesign (before acquisition)**
 
 The differences in the strategies adopted by these companies have led to the **multipolarization of DAW culture**.
-While Apple and Avid have pursued "vertical integration" through acquisitions, Steinberg, MOTU, and Adobe have established their influence through "technical standards" and "domain specialization."
+While Apple and Avid pursued "vertical integration" through acquisitions, Steinberg, MOTU, and Adobe established their influence through "technical standards" and "domain specialization."
 
 ---
 
@@ -106,7 +106,7 @@ At this moment, a culture of software acceptance of external plugins began.
 * Actively introducing soft synths
 
 emagic and Steinberg compete as two major DAWs from Germany.
-Digidesign is on its way to becoming the "absolute king of audio editing."
+Digidesign is moving toward becoming the "absolute king of audio editing."
 
 ---
 
@@ -167,7 +167,7 @@ The acquisition took place in 1994, but the Digidesign brand disappeared in 2010
 *Completely takes over the industry standard for video editing and audio finishing
 * The trend of "Avid → Pro Tools" in film production has become established worldwide.
 
-Two companies, Apple and Avid
+Apple and Avid
 **Plan to take the lead in the DAW market in terms of both OS and video production**
 is completed here.
 
@@ -216,7 +216,7 @@ During this period, DAWs became mainstream with **CPU-dependent native processin
 * Lower prices (to the 10,000 yen range)
 * Optimization to maximize Mac performance
 
-### ■ Avid: Migration to HDX and AAX
+### ■ Avid: Migrate to HDX and AAX
 
 * DSP and native integration
 * Pro Tools remains the studio standard
@@ -315,7 +315,7 @@ MOTU has mastered **video synchronization**,
 Adobe has created its own market with **integration with broadcast and video editing**.
 
 Although the six companies compete with each other,
-As a result, together they have shaped the ""culture of music production itself.''
+As a result, they have together shaped the very culture of music production.
 
 After 2025, AI editing, cloud collaboration, expansion of mobile production, etc.
 The future of DAWs will take on a new dimension.

@@ -16,7 +16,7 @@ title: '[칼럼] 샘플링의 기원 - 가장 많이 샘플링된 음원 20선'
 ### 프롤로그: 소리의 DNA를 추적하다
 
 
-텍스트: mmr|테마: **WhoSampled** 등의 데이터를 바탕으로 '가장 많이 샘플링된 음원 20개'를 조명하고 각 음원이 음악사에 어떻게 각인되었는지 살펴보겠습니다.
+텍스트: mmr|테마: **WhoSampled** 등의 데이터를 바탕으로 '가장 많이 샘플링된 음원 20개'를 조명하고 각각이 음악 역사에 어떻게 새겨졌는지 살펴보겠습니다.
 
 
 샘플링은 음악사에서 '인용'과 '재구성'을 가장 직접적으로 구현한 기술이다. 70년대 후반 힙합 초창기부터 오늘날의 일렉트로니카까지 드럼 브레이크, 베이스라인, 비명 하나가 수백, 수천 곡으로 변모했다.
@@ -46,7 +46,7 @@ color: #fff;
 ---
 
 2. 린 콜린스 – “Think (About It)” (1972)
-제임스 브라운이 제작했습니다. 여자의 힘찬 외침과 "우! 예!" 브레이크는 힙합의 황금기를 상징한다. 인용문에는 Rob Base와 DJ E-Z Rock의 "It Takes Two", Snoop Dogg 및 Beyoncé가 포함됩니다.
+제임스 브라운이 제작을 맡았습니다. 여자의 힘찬 외침과 "우! 예!" 브레이크는 힙합의 황금기를 상징한다. 인용문에는 Rob Base와 DJ E-Z Rock의 "It Takes Two", Snoop Dogg 및 Beyoncé가 포함됩니다.
 페미니즘의 강인함과 펑크의 역동성을 결합해 클럽 플로어에 '목소리의 연쇄반응'을 일으켰다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HKix_06L5AY?si=k-WaUDAVRRi6Mk3A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -63,7 +63,7 @@ M.I.A.의 "Paper Planes"에서는 우울한 기타와 타악기가 다시 등장
 
 #### 4. 시크 – “Good Times” (1979)
 Bernard Edwards의 베이스 라인은 Sugarhill Gang의 "Rapper's Delight"로 유명해졌습니다. 디스코와 힙합을 잇는 '교량'으로서 음악사적으로 그 중요성은 헤아릴 수 없을 만큼 크다.
-나중에 Daft Punk와 유사한 "Recursive funk"이며 Nile Rodgers가 직접 샘플링한 것입니다.
+나중에 Daft Punk와 유사하고 Nile Rodgers가 직접 샘플링한 "Recursive funk"입니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RLTDpewIpfw?si=MSLW6XmAfDxZeEYB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -71,7 +71,7 @@ Bernard Edwards의 베이스 라인은 Sugarhill Gang의 "Rapper's Delight"로 �
 
 #### 5. 제임스 브라운 – “Funky Drummer” (1970)
 Clyde Stubblefield의 드럼 브레이크는 샘플링의 성배입니다. 퍼블릭 에너미(Public Enemy), LL 쿨 제이(LL Cool J), 프린스(Prince), 비스티 보이즈(Beastie Boys) - 그 올무가 맞을 때마다 시대는 새로워졌다.
-'리듬의 핵'은 힙합 이전부터 힙합 이후까지 가장 많은 작품에 생명력을 불어넣어왔다.
+'리듬의 핵'은 힙합 이전부터 힙합 이후까지 가장 많은 작품에 생명력을 불어넣었다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AoQ4AtsFWVM?si=R0oO64bCh8qulHO-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -86,7 +86,7 @@ Kanye West의 "Touch the Sky"를 통해 젊은 세대가 재발견한 환희의 
 ---
 
 #### 7. 밥 제임스 – “Take Me to the Mardi Gras” (1975)
-드럼의 카우벨과 벨 소리가 독특하여 Run-D.M.C., Beastie Boys, Eric B.&Rakim 등이 사랑받았습니다.
+드럼의 카우벨과 벨 사운드가 특징적이며 Run-D.M.C., Beastie Boys, Eric B.&Rakim 등이 사랑한 곡이다.
 밥 제임스는 스무드 재즈의 상징으로, 이 곡이 낳은 '하드 브레이크'는 1990년대 샘플링 문화에서 신격화됐다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ove38w3ztG4?si=BgFRFe1VL3bIC6HV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -149,7 +149,7 @@ Notorious B.I.G.의 'Big Poppa', Jay-Z의 'Ignorant Shit' 등의 곡으로 유�
 ---
 
 15. 감정 – “Blind Alley” (1972)
-Big Daddy Kane의 'Ai n't No Half-Steppin'과 Mary J. Blige로 유명합니다. 비트의 단단함으로 달콤한 영혼의 따뜻함을 재구성하는 것, 이 대조가 황금 시대의 본질이었습니다.
+Big Daddy Kane의 'Ai n't No Half-Steppin'과 Mary J. Blige로 유명합니다. 달콤한 영혼의 따뜻함을 비트의 단단함으로 재구성하는 것, 이 대조가 황금시대의 본질이었습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/05q2-wFl_14?si=1QJzpm2q0x9vBTKx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

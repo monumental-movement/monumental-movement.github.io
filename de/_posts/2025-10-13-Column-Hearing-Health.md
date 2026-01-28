@@ -27,7 +27,7 @@ Das Ohr ist nicht nur ein Organ zur Schallaufnahme.
 Es ist ein „poetisches Mittel“, um Erinnerungen zu transportieren und sich mit der Welt zu verbinden.
 
 **Hearing Health Foundation (HHF)** setzt sich für den Schutz und die Wiederherstellung dieser „Fähigkeit des Zuhörens“ ein.
-Als größter Hör- und Gleichgewichtsforschungsfonds in den Vereinigten Staaten unterstützen sie alles von der Erforschung der Ursachen von Hörverlust und Tinnitus bis hin zur Spitzenforschung in der regenerativen Medizin und Gentherapie.
+Als größter Hör- und Gleichgewichtsforschungsfonds in den Vereinigten Staaten unterstützen sie alles von der Erforschung der Ursachen von Hörverlust und Tinnitus bis hin zur Vorreiterrolle in der regenerativen Medizin und Gentherapie.
 
 ---
 
@@ -47,7 +47,7 @@ color: #fff;
 
 ## 1. Die Wissenschaft des Zuhörens: das Universum in Ihren Ohren
 
-> „Klang lässt die Luft erzittern und das Herz erzittern.“
+> „Klang lässt die Luft erbeben und das Herz erbeben.“
 > — Brian Eno
 
 Der vom Außenohr aufgenommene Schall bringt das Trommelfell zum Schwingen, passiert die Gehörknöchelchen und erreicht die Cochlea.
@@ -157,7 +157,7 @@ Der Schutz Ihres Gehörs ist auch eine Form der „künstlerischen Selbstfürsor
 - **Beethoven**: Vollendete die Neunte in der Verzweiflung über den Hörverlust.
 - **Pete Townshend (The Who)**: Verlor aufgrund des lauten Lärms eines Live-Auftritts sein Gehör und begann mit einer Kampagne, um das Bewusstsein für Gehörschutz zu schärfen.
 - **Phil Collins**: Tournee trotz Hörverlust auf einem Ohr.
-- Thom Yorke von **Radiohead**: Obwohl er an Tinnitus litt, sublimierte er seine „inneren Geräusche“ in Lieder.
+- Thom Yorke von **Radiohead**: Obwohl er unter Tinnitus litt, sublimierte er seine „inneren Geräusche“ in Lieder.
 
 Diese Anekdoten zeigen, dass die Musik nicht endet, wenn die Ohren geschädigt sind.
 Die Philosophie von HHF bietet auch wissenschaftliche Unterstützung für seinen Geist.
@@ -170,7 +170,7 @@ HHF fördert die kulturelle Kompetenz im Bereich Hörgesundheit durch Spenden, F
 Zu den Gewinnern der **Emerging Research Grants**, die jedes Jahr ausgewählt werden, gehören beispielsweise:
 Von der Genbearbeitung bis zur künstlichen Intelligenz beleuchtet er die „Zukunft des Zuhörens“ aus verschiedenen Blickwinkeln.
 
-Darüber hinaus finden Sie im Online-Magazin für die breite Öffentlichkeit, **Hearing Health Magazine**,
+Darüber hinaus wird im Online-Magazin für die breite Öffentlichkeit, **Hearing Health Magazine**,
 Es enthält aktuelle Erfahrungen und Kolumnen von Experten und schlägt Ohrengesundheit als Lebensstil vor.
 
 ---

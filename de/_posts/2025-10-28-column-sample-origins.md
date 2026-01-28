@@ -62,7 +62,7 @@ Das Sampling dieses Liedes ist nicht nur ein Klangmaterial, sondern wurde als �
 ---
 
 #### 4. Schick – „Good Times“ (1979)
-Die Basslinie von Bernard Edwards wurde in „Rapper's Delight“ von Sugarhill Gang berühmt. Als „Brücke“, die Disco und Hip-Hop verband, ist ihre Bedeutung in der Musikgeschichte unermesslich.
+Die Basslinie von Bernard Edwards wurde in „Rapper's Delight“ der Sugarhill Gang berühmt. Als „Brücke“, die Disco und Hip-Hop verband, ist ihre Bedeutung in der Musikgeschichte unermesslich.
 „Rekursiver Funk“, der dem späteren Daft Punk ähnelt und von Nile Rodgers selbst selbst gesampelt wurde.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RLTDpewIpfw?si=MSLW6XmAfDxZeEYB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -141,7 +141,7 @@ Der sanfte Groove hat ein Maß an Perfektion, das sich anfühlt, als wäre er mi
 ---
 
 #### 14. Berg – „Long Red“ (1972)
-Der Gesang „Du weißt, was ich meine!“ wurde oft von Public Enemy und De La Soul bei Live-Auftritten verwendet.
+Der Gesang „Du weißt, was ich meine!“ wurde häufig von Public Enemy und De La Soul bei Live-Auftritten verwendet.
 Dies ist ein großartiges Beispiel dafür, wie ein einfacher Rocksong durch Vocal-Sampling zu einem Hip-Hop-„Teil“ wird.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a-0selX930s?si=YqL4own2TZXbBbBO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -171,7 +171,7 @@ Ein Meisterwerk des Instrumental-Funks, das von LL Cool J und Public Enemy als B
 ---
 
 #### 18. Barry White – „I’m Gonna Love You Just a Little More Baby“ (1973)
-In der Sampling-Welt ist es ein Symbol der Liebe. Der von The Dream und Kanye West zitierte Text bewegt sich auf der Grenze zwischen Seele und Verlangen.
+In der Sampling-Welt ist es ein Symbol der Liebe. Das von The Dream und Kanye West zitierte Werk bewegt sich auf der Grenze zwischen Seele und Verlangen.
 Der „nachhaltige Klang“ süßer Streicher verlieh Hip-Hop ein luxuriöses Gefühl.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x6AL1XnHJZs?si=BI01tmW68_iLGjqq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

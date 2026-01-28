@@ -42,7 +42,7 @@ color: #fff;
 
 ## Chapter 1 Premise of electronic music before electropop
 
-In order to understand the formation of electronic pop experiments, it is necessary to take a bird's-eye view of the history of the combination of electronic music and popular music in the latter half of the 20th century.
+In order to understand the formation of the electronic pop experiment system, it is necessary to take a bird's-eye view of the history of the combination of electronic music and popular music in the latter half of the 20th century.
 
 ### Combining synthesizer and pop structures
 
@@ -74,7 +74,7 @@ These will later serve as a basis for enhanced experimentation.
 * Sound image design that does not hide artificiality
 * Simultaneous visual expression and music production
 
-This experimental nature decomposes the listener's experience into multiple layers and expands music listening from an ""auditory-only act.''
+This experimental nature decomposes the listener's experience into multiple layers and expands music listening from an ""auditory-only activity.''
 
 ---
 
@@ -198,7 +198,7 @@ By including the production process and visual information, listeners simultaneo
 
 * Listening to music
 * Imagining the production process
-* Observation of the creator's personality
+* Observation of creator personality
 * Visual narrative interpretation
 
 This makes the piece a continuous process of interpretation, rather than a finished work.

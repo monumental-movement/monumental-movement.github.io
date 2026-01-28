@@ -137,7 +137,7 @@ A3 : C'est parce que notre production live unique qui combine psychédélique, n
 
 **Q4 : Pourquoi Melt-Banana est-il populaire à l'étranger ? **
 
-A4 : Nous avons acquis une renommée internationale pour nos performances live éblouissantes, notre sens de la vitesse et nos relations avec des musiciens expérimentaux tels que John Zorn.
+A4 : Nous avons acquis une renommée internationale pour nos performances live époustouflantes, notre sens de la vitesse et nos relations avec des musiciens expérimentaux tels que John Zorn.
 
 **Q5 : Quelle est l'œuvre la plus célèbre de Seiichi Yamamoto ? **
 

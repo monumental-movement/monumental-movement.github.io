@@ -105,7 +105,7 @@ B2. Joe (Extended Dub)
 
 요약: Brand New Heavies의 기타리스트 Simon Bartholomew 등이 참여한 펑크 소울 록 밴드 Akimbo의 Future Jazz 트랙입니다. 1999년 영국 레이블 Acid Jazz에서 발매되었습니다.
 
-추천 포인트 : Acid Jazz의 진화라고 할 수 있는 'Future Jazz' 스타일이 돋보이는 모던한 펑크/재즈 퓨전 느낌의 세련된 트랙입니다.
+추천 포인트 : Acid Jazz의 진화형이라 할 수 있는 'Future Jazz' 스타일로 모던한 펑크/재즈 퓨전 느낌이 물씬 풍기는 세련된 트랙입니다.
 
 #### 트랙리스트
 ```md
@@ -129,7 +129,7 @@ B2. Flight To Havana
 ### 다양한 – 토탈리 와이어드 나인
 <a href="https://jp.mercari.com/item/m73976121737?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Totally%20Wired%20Nine.webp"></a>
 
-요약: 1992년 영국 Acid Jazz 레이블에서 발매된 올스타 애시드 재즈 컴필레이션 앨범입니다. 댄스 플로어에서 인기를 얻은 다양한 아티스트의 시그니처 트랙이 포함되어 있습니다.
+요약: 1992년 영국 Acid Jazz 레이블에서 발매된 올스타 애시드 재즈 컴필레이션 앨범이다. 댄스 플로어에서 인기를 얻은 다양한 아티스트의 시그니처 트랙이 포함되어 있습니다.
 mmr
 
 추천 포인트 : 코듀로이, 마더 어스, 선즈 오브 유다 등 애시드 재즈 초창기의 명곡이 수록된 귀중한 작품입니다. 장르의 확장과 그루브한 느낌을 동시에 즐길 수 있습니다.

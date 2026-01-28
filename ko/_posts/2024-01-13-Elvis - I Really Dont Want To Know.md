@@ -14,7 +14,7 @@ title: 엘비스 - 정말 알고 싶지 않아요
 ---
 
 
-"I really Don't Want To Know"는 원래 돈 로버트슨(Don Robertson)과 하워드 반스(Howard Barnes)가 작곡했으며 1953년에 발매되었습니다.
+"I really Don't Want To Know"는 원래 돈 로버트슨(Don Robertson)과 하워드 반스(Howard Barnes)가 작곡했으며 1953년에 발표되었습니다.
 
 Les Paul & Mary Ford, Andy Williams, Eddie Arnold, Johnny Rodriguez, Tommy Edwards, Ronnie Dove, Jason & the Scorchers, Anne Murray 및 Jerry Lee Lewis를 포함한 많은 아티스트가 커버했습니다.
 

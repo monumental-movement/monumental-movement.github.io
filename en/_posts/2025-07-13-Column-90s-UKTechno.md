@@ -188,4 +188,4 @@ Techno created poetry from the reverberations of industry, presenting an aesthet
 
 🔗 [[Column] Luke Slater: The pioneer of British techno and his musical world](https://monumental-movement.jp/Column-Luke-Slater)
 
-🔗 [[Column] From the origins of techno to the present - A chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[Column] From the origins of techno to the present - a chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)

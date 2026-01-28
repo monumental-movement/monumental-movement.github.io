@@ -34,7 +34,7 @@ Als Pioniere gelten insbesondere die folgenden zwei Gruppen:
 
 - [**DAF**](https://amzn.to/4ogYOH1)（Deutsch Amerikanische Freundschaft、ドイツ）
 
-Indem sie kalte, scharfe Elektronik, gewalttätige Minimalbeats und militaristische Vocals voll ausnutzten, schufen sie eine neue Art „physischer elektronischer Musik“, die sich von herkömmlichem Pop und Rock unterscheidet.
+Durch den vollen Einsatz kalter, scharfer Elektronik, heftiger Minimalbeats und militaristischer Vocals schufen sie eine neue Art „physischer elektronischer Musik“, die sich von herkömmlichem Pop und Rock unterscheidet.
 
 
 <hr>
@@ -45,7 +45,7 @@ Um es einfach auszudrücken: Der Sound von EBM ist „anorganisch und physisch�
 
 #### Harter und minimaler Beat
 
-- Hauptsächlich im 4/4-Takt, BPM etwa 120–140
+- Hauptsächlich im 4/4-Takt, BPM etwa 120-140
 
 - Mechanischer Rhythmus wie Industriemaschinen
 
@@ -139,7 +139,7 @@ Um es einfach auszudrücken: Der Sound von EBM ist „anorganisch und physisch�
 <hr>
 
 ### Szeneverbreitung und Einfluss
-EBM verbreitete sich von Ende der 1980er bis Anfang der 1990er Jahre rasch in der Clubszene und im Underground. Es hatte starken Einfluss auf die elektronische Musikszene in verschiedenen Teilen Europas, insbesondere in Deutschland, Schweden, Österreich und Frankreich.
+EBM verbreitete sich von Ende der 1980er bis Anfang der 1990er Jahre rasch in der Clubszene und im Untergrund. Es hatte starken Einfluss auf die elektronische Musikszene in verschiedenen Teilen Europas, insbesondere in Deutschland, Schweden, Österreich und Frankreich.
 
 EBM hatte auch großen Einfluss auf die folgenden Genres:
 
@@ -205,7 +205,7 @@ Diese Künstler sind von EBM beeinflusst, kombinieren es jedoch mit Elementen wi
 <hr>
 
 ### Ästhetik, die physischen Körper und Elektronik vereint
-Wie der Name schon sagt, handelt es sich bei EBM um „elektronische Körpermusik“. Es war mehr als nur Tanzmusik, es war eine umfassende Ausdrucksform: politisch, mechanisch, körperlich und rebellisch.
+Wie der Name schon sagt, handelt es sich bei EBM um „elektronische Körpermusik“. Es war mehr als nur Tanzmusik, es war eine umfassende Ausdrucksform, die politisch, mechanisch, körperlich und rebellisch war.
 
 Derzeit breitet sich der Einfluss von EBM auf viele Bereiche aus, von Clubkultur und Festivals bis hin zur DIY-Szene, Kunst und Mode.
 

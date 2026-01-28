@@ -52,7 +52,7 @@ B3. Dance of Bamboo
 
 Caractéristiques : Une œuvre de Tomio Miyashita, musicien, musicothérapeute et synthétiseur de la préfecture de Nagano.
 
-Attrait : Doté de tonalités de synthétiseur qui favorisent des états méditatifs profonds, adaptés à la relaxation de l'esprit et du corps.
+Attrait : Doté de tonalités de synthèse qui favorisent des états méditatifs profonds, adaptés à la relaxation de l'esprit et du corps.
 
 #### Liste des chansons
 ```md
@@ -109,7 +109,7 @@ B5. Astral Trip
 
 Caractéristiques : Il s'agit d'un album de Patrick Bernhardt sorti par le label canadien « Imagine Records ». Un monde sonore fantastique qui fusionne des éléments ambiants et new age s'ouvre.
 
-Attrait : Doté de tonalités de synthétiseur qui favorisent des états méditatifs profonds, adaptés à la relaxation de l'esprit et du corps.
+Attrait : Doté de tonalités de synthèse qui favorisent des états méditatifs profonds, adaptés à la relaxation de l'esprit et du corps.
 
 #### Liste des chansons
 ```md

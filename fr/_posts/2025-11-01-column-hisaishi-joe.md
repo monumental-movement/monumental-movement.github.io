@@ -138,7 +138,7 @@ Cette année-là, Hisaishi compose également la musique de « HANA-BI » de Tak
 ## Chapitre 9 : Le Voyage de Chihiro (2001) – Établir une réputation mondiale
 
 En 2001, Spirited Away du Studio Ghibli est sorti et la musique d'Hisaishi a attiré l'attention internationale.
-La chanson thème « Itsou Dogode » (composée par Joe Hisaishi, chantée par Yumi Kimura) a remporté le prix de la meilleure musique lors de la 25e cérémonie des Japan Academy Awards.
+La chanson thème «Always Again and Again» (composée par Joe Hisaishi, chantée par Yumi Kimura) a remporté le prix de la meilleure musique lors de la 25e cérémonie des Japan Academy Awards.
 
 La musique se caractérise par la clarté de la mélodie et la beauté du « ma », qui rehausse la fantaisie de l'histoire.
 Cette œuvre a remporté l'Oscar du meilleur long métrage d'animation en 2003 et le nom d'Hisaishi s'est répandu dans le monde entier.
@@ -177,7 +177,7 @@ Cette œuvre est le dernier exemple du rapprochement continu d'Hisaishi entre la
 | 1986 | Château dans le ciel | Hayao Miyazaki | « Mettez-vous » | Composition symphonique |
 | 1988 | Mon voisin Totoro | Hayao Miyazaki | « Marche » et « Le chemin du vent » | Expression de l'enfance |
 | 1989 | Service de livraison de Kiki | Hayao Miyazaki | "Ville avec vue sur la mer" | Rythme urbain |
-| 1992 | Porco Rosso | Hayao Miyazaki | "Jours sans retour" | Valse nostalgique |
+| 1992 | Porco Rosso | Hayao Miyazaki | « Jours sans retour » | Valse nostalgique |
 | 1997 | Princesse Mononoké | Hayao Miyazaki | "Princesse Mononoké" | Fusion de chœur et d'orchestre |
 | 2001 | Le voyage de Chihiro | Hayao Miyazaki | « Toujours et encore » | Gagnant d'un Oscar |
 | 2004 | Le château ambulant de Howl | Hayao Miyazaki | "Le manège de la vie" | Structure de valse |

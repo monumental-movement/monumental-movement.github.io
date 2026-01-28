@@ -10,7 +10,7 @@ tags:
 - Trance
 - Hard Trance
 - 90s
-title: 위드 & 벤 - Abs0lut1on F0r N1ne
+title: 위드 & 벤 – Abs0lut1on F0r N1ne
 ---
 
 

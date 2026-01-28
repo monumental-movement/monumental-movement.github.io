@@ -10,13 +10,13 @@ tags:
 - Rock
 - Vocal
 - 80s
-title: The Nylons – Seamless
+title: Les Nylons – Sans Couture
 ---
 
 
-The Nylonsは、1978年〜2017年まで活動したカナダのアカペラグループ。The Turtles「Happy Together」、Steam「Na Na Hey Hey Kiss Him Goodbye」、The Tokens「The Lion Sleeps Tonight」などのPopsのカヴァーでよく知られている。
+The Nylons était un groupe canadien a cappella actif de 1978 à 2017. Il est surtout connu pour ses reprises pop telles que « Happy Together » des Turtles, « Na Na Hey Hey Kiss Him Goodbye » de Steam et « The Lion Sleeps Tonight » de The Tokens.
 
-「Seamless」は、1986年にOpen Air Records からリリースされたアルバム。
+"Seamless" est un album sorti par Open Air Records en 1986.
 
 #### Liste des chansons
 ```md

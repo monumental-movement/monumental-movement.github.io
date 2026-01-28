@@ -24,7 +24,7 @@ Texte : mmr | Thème : Festivals et villes, son et lumière, foules et technolog
 Un éclair de lumière laser divise le ciel nocturne, la basse tremble profondément dans son corps et d'innombrables bras se lèvent à l'unisson.
 Le phénomène appelé « EDM » était plus qu’un simple genre musical, c’était une célébration de l’ère numérique.
 Dans les années 2010, les villes du monde entier ont été remodelées par le son. Le désert de Las Vegas, les forêts de Belgique, la baie de Tokyo.
-Dans cette chronique, nous examinerons la naissance, la transformation et « l'au-delà » de l'EDM, à l'intersection du son, de la lumière, du corps et de la technologie.
+Dans cette chronique, nous examinerons la naissance, la transformation et « l'au-delà » de l'EDM à l'intersection du son, de la lumière, du corps et de la technologie.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UWb5Qc-fBvk?si=636O5zlmISbww-15" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -114,7 +114,7 @@ Des DJ du monde entier échangeaient des sons en un seul clic.
 Le drop est coupé sur TikTok et le rythme devient viral comme un GIF.
 Le « Closer » des Chainsmokers en est un symbole.
 Un DJ est à la fois un producteur et une **marque**.
-Logos, parfums, NFT, écouteurs : tous sont devenus des « industries liées au son ».
+Logos, parfums, NFT, écouteurs : tous sont devenus des « industries autour du son ».
 
 ---
 
@@ -230,8 +230,8 @@ flowchart TD
 | DAW | Logique Pro | Environnement intégré pour la composition/mixage |
 | Synthé | Sérum Xfer | Symbolise le design tonal de l'EDM moderne |
 | Synthé | NI Massif | Pilier de la fin des années 2000 et du début des années 2010 |
-| Synthé | Sylenth1 | Fort dans les sons leads classiques |
-| Plugin | Waves L2/FabFilter Pro-L | Norme de mastering qui a soutenu les guerres du volume |
+| Synthé | Sylenth1 | Fort dans les sons lead classiques |
+| Plug-in | Waves L2/FabFilter Pro-L | Norme de mastering qui a soutenu les guerres du volume |
 | Matériel DJ | Série CDJ pionnière | Équipement de jeu DJ standard mondial |
 | Moniteur | KRK Rokit/Yamaha HS5 | Un moniteur indispensable pour les producteurs de chambres |
 

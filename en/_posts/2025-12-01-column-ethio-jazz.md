@@ -132,7 +132,7 @@ However, Mulatu himself continued to work abroad and made intermittent recording
 # # 6. Late 1990s: International reappraisal with the Éthiopiques series
 
 The ""Éthiopiques'' series (Buda Musique), which started in 1997, is
-This is a large-scale archive project that introduced sound sources from the Golden Age of Ethiopia to the world.
+This is a large-scale archive project that introduced the world to the sound sources of Ethiopia's Golden Age.
 
 Mulatu's works, Ethiopian singers (Mahmoud Ahmed, Tilahun Gessesse, etc.),
 Military band recordings were reissued, and this triggered a worldwide re-evaluation of Ethio-Jazz.
@@ -215,7 +215,7 @@ Reevaluated internationally with the Éthiopiques series.
 
 ### ■ Tilahun Gessesse
 
-A singer known as the "King of Ethiopian Music." He is a former military band member and has high singing skills.
+A singer known as the "King of Ethiopian Music." He is a former military band member and has advanced singing skills.
 
 ### ■ Hailu Mergia
 
@@ -237,7 +237,7 @@ It was later rediscovered in Washington, D.C., and toured the world.
 
 ### ■ Jazz/Funk/Hip-hop
 
-* Expanding the interpretation of jazz modes
+* Expansion of jazz mode interpretation
 * Frequently used as sample material in hip-hop
 * Influence on Afrobeat/Afrofusion
 

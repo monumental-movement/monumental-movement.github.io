@@ -43,7 +43,7 @@ B.  That Acid Track (Dub Version)
 ### 各種 – 城市酸
 <a href="https://jp.mercari.com/item/m11742134680?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Urban%20Acid.webp"></a>
 
-1988 年正品。捕捉迷幻屋燃點的重要合輯。強大的芝加哥影響力。
+1988 年正品。捕捉迷幻屋燃點的重要合集。強大的芝加哥影響力。
 
 #### 曲目列表
 ```md

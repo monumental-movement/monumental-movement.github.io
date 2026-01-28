@@ -70,7 +70,7 @@ flowchart TD
   1958 --> 1969 --> 1970s --> 1975 --> 1977 --> 1980s --> 1997
 </div>
 
-Londoner Zeit → Aufnahme in den USA → Gründung in Afrika 1970 → politischer Höhepunkt Mitte der 1970er Jahre → Aktivität und Unterdrückung ab den 1980er Jahren, und starb 1997 (die Todesursache soll Komplikationen/AIDS-bedingt sein).
+Londoner Zeit → Aufnahme in den USA → Gründung in Afrika 1970 → politischer Höhepunkt Mitte der 1970er Jahre → Aktivität und Unterdrückung ab den 1980er Jahren, und starb 1997 (als Todesursache werden Komplikationen/AIDS-bedingt angegeben).
 
 ---
 

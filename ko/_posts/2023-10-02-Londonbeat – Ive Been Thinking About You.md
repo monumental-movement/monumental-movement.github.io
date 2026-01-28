@@ -17,7 +17,7 @@ title: Londonbeat – 나는 당신에 대해 생각하고 있어요
 런던비트(Londonbeat)는 1990년대 초반에 수많은 팝과 댄스 히트곡을 탄생시킨 영국의 댄스팝 밴드입니다.
 회원은 Jimmy Helms, Jimmy Chambers 및 Charles Pierrer입니다.
 
-"I've Been Thinking About You"는 그들의 시그니처 곡으로 1991년 빌보드 핫 100 및 핫 댄스 뮤직/클럽 플레이 차트에서 1위를 차지했습니다.
+"I've Been Thinking About You"는 그들의 시그니처 곡으로 1991년 빌보드 핫 100과 핫 댄스 뮤직/클럽 플레이 차트에서 1위를 차지했습니다.
 
 #### 트랙리스트
 ```md

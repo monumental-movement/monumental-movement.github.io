@@ -18,9 +18,9 @@ title: 伊恩·奧布萊恩 – 沙漠分數
 
 這種聲音激勵他開始創作自己的音樂。
 
-這種“瘋狂邁克病”的熱情促使他首先與 Asad Rizvi 以 Memory Tree 的名義製作曲目，後來又為各種英國 techno 唱片公司獨奏。
+這種“瘋狂麥克病”的熱情促使他首先與 Asad Rizvi 一起以 Memory Tree 的名義製作曲目，後來又為多個英國 techno 唱片公司獨奏。
 
-1997 年發行的“Ian O'Brien - Desert Scores”被認為是傑作，至今仍被認為是 Galaxy 2 Galaxy EP 開創的科技爵士樂流派的一部分。
+1997 年發行的“Ian O'Brien - Desert Scores”被認為是傑作，至今仍被認為是由 Galaxy 2 Galaxy EP 開創的科技爵士樂流派的一部分。
 
 #### 曲目列表
 ```md

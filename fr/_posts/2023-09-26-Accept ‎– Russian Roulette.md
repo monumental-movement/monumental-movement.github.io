@@ -17,7 +17,7 @@ title: Accepter – Roulette russe
 
 Cet album est connu pour ses riffs de guitare lourds, sa voix puissante et sa batterie énergique.
 
-"Aiming High" - Une chanson rapide et puissante, avec un solo de guitare et des anches doubles qui se démarquent. Vous pouvez profiter pleinement du son heavy metal typique d'Accept avec cette chanson.
+"Aiming High" - Une chanson rapide et puissante, avec un solo de guitare et des anches doubles qui se démarquent. Vous pouvez pleinement profiter du son heavy metal typique d'Accept avec cette chanson.
 
 « Russian Roulette » est un classique pour les fans d'Accept et vous donnera un avant-goût du heavy metal des années 80.
 

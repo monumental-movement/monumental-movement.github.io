@@ -10,7 +10,7 @@ tags:
 - Alternative Rock
 - Rock
 - Pops
-title: 空中 – 明星之星 EP
+title: 空中 – 明星之秀 EP
 ---
 
 

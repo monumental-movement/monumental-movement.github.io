@@ -70,7 +70,7 @@ Cette structure n'est pas accidentelle, mais intentionnelle. Je ne comprends pas
 
 ## New York et l'ADN : la performance comme déconstruction
 
-DNA était un groupe actif à New York à la fin des années 1970 et était un membre central du mouvement dit no wave. Leur musique est structurée de telle manière qu'elle déconstruit tous les éléments fondamentaux du rock.
+DNA était un groupe actif à New York à la fin des années 1970 et était un membre clé du mouvement dit no wave. Leur musique est structurée de telle manière qu'elle déconstruit tous les éléments fondamentaux du rock.
 
 La guitare ne forme pas d'accords, mais émet des notes isolées ou des bruits irréguliers. La basse et la batterie ne partagent pas un rythme et la performance est toujours au bord de l'effondrement. Le chant rejette la mélodie et se libère sous forme de mots et de cris fragmentés.
 

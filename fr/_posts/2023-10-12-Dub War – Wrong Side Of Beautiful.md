@@ -9,13 +9,13 @@ permalink: /fr/dub-war-wrong-side-of-beautiful/
 tags:
 - Dub
 - Reggae
-title: Dub War – Wrong Side Of Beautiful
+title: Dub War – Le mauvais côté du beau
 ---
 
 
-Dub War (ダブ・ウォー)は、1990年代に活動していたヘヴィメタル、レゲエ、パンク、ダブなど様々な音楽スタイルをミックスさせたミクスチャーバンド。パワフルなロックサウンドとキャッチーなメロディに、レゲエのリズムとパンクの要素を融合させた独自のスタイルとヴォーカルのBenji Webbeの特徴的な歌声と表現力が、バンドの音楽に強い印象を与えていた。
+Dub War est un groupe mixte actif dans les années 1990 qui mélange divers styles de musique tels que le heavy metal, le reggae, le punk et le dub. Le style unique du groupe, qui combine un son rock puissant et une mélodie entraînante avec des rythmes reggae et des éléments punk, ainsi que la voix distinctive et l'expressivité du chanteur Benji Webbe ont fait une forte impression sur la musique du groupe.
 
-「Wrong Side Of Beautiful」は、ダブ・ウォーの2枚目のアルバムで、バンドの最も広く認知された作品の一つとして知られている。
+Wrong Side Of Beautiful est le deuxième album de Dub War et est considéré comme l'une des œuvres les plus reconnues du groupe.
 
 #### Liste des chansons
 ```md

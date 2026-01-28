@@ -45,7 +45,7 @@ This structure was a perfect match for the parapara dance, which repeats the sam
 
 <hr>
 
-### What is Parapara? ──Pleasure of uniform repetition
+### What is Parapara? ──The pleasure of uniform repetition
 ● Origin of Parapara
 
 - Occurred in the late 1980s at discos in Roppongi and Shibuya, Tokyo (Maharaja, Juliana Tokyo, etc.)
@@ -64,7 +64,7 @@ This structure was a perfect match for the parapara dance, which repeats the sam
 
 - Clear A melody/chorus structure → Easy to create dance "choreography"
 
-- Dramatic song development → matches the climax of the swing
+- Dramatic song development → Matches the climax of the swing
 
 
 <hr>

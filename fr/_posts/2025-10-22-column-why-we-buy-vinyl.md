@@ -51,7 +51,7 @@ color: #fff;
 
 ## Chapitre 1 : Souvenirs du « toucher » emportés par le numérique
 
-Lorsque le CD a été introduit en 1982, le monde s'est réjoui.
+Lorsque le CD a été introduit en 1982, le monde s’est réjoui.
 Silencieux, durable et très résistant. La musique est devenue des données et les médias sont devenus transparents.
 
 Cependant, **cette transparence était le « problème »**.
@@ -70,7 +70,7 @@ Ces **troubles créent en fait de l'attachement**.
 
 ## Chapitre 2 : Souvenirs dans le bruit -- Analogique et nostalgie
 
-Le bruit sourd au moment où l'aiguille tombe.
+Au moment où l'aiguille tombe, il y a un bruit « sah ».
 Pour une raison quelconque, beaucoup de gens se sentent nostalgiques rien qu’en l’écoutant.
 
 Ce phénomène est psychologiquement appelé « effet Proust ».
@@ -109,7 +109,7 @@ Friedrich Kittler l'a déclaré dans « Media Archaeology ».
 Alors que le son évolue de « l'enregistrement » à la « lecture »,
 Le disque reste le seul support permettant de toucher le temps.
 
-Lorsque vous posez l’aiguille, elle émet un son, et lorsque vous la relevez, le silence revient.
+Lorsque vous posez l’aiguille, elle émet un son et lorsque vous la relevez, le silence revient.
 Au sein de ce mécanisme simple, il y a un **dialogue entre le temps et le corps**.
 
 ---
@@ -148,7 +148,7 @@ Mais c’est ça, un « son vivant ».
 
 Psychologiquement, les gens ont tendance à « s’attacher aux imperfections » plutôt qu’à la perfection.
 Acceptez cette imperfection comme faisant partie de vous-même.
-C'est là tout l'attrait du "fantôme de l'analogique".
+C'est là tout son attrait en tant que « fantôme de l'analogique ».
 
 --Les disques ne sont pas des pierres tombales pour la musique.
 Au contraire, **la mémoire humaine elle-même est un appareil rotatif**.

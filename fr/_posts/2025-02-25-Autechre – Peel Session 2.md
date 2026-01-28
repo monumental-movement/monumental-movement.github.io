@@ -11,13 +11,13 @@ tags:
 - Abstract
 - IDM
 - 00s
-title: Autechre – Peel Session 2
+title: Autechre – Peel Séance 2
 ---
 
 
-Peel Session 2は、Autechre2番目のジョンピールセッションで、1999年9月8日に放送され、CDは2000年にWarp Recordsからリリースされた。
+Peel Session 2 est la deuxième session John Peel d'Autechre, diffusée le 8 septembre 1999, et le CD est sorti sur Warp Records en 2000.
 
-John Peel(ジョン・ピール)に初めてこの録音が渡された時、4曲目「19 Headaches」以外のトラックには名前が付いていなかったため、彼自身がトラックに名前を付けたと言われている。
+Lorsque John Peel a reçu cet enregistrement pour la première fois, on dit qu'il a nommé lui-même les morceaux, car aucun des morceaux, à l'exception du quatrième, « 19 Headaches », n'avait de nom.
 
 #### Liste des chansons
 ```md

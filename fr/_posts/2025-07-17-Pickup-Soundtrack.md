@@ -16,7 +16,7 @@ title: Récupérez les œuvres de la bande originale
 
 <hr>
 
-### Jerry Goldsmith – Un patch de bleu
+### Jerry Goldsmith – Une tache de bleu
 <a href="https://jp.mercari.com/item/m39224661224?afid=6142608987"><img src="../assets/images/Jerry%20Goldsmith%20%E2%80%93%20A%20Patch%20Of%20Blue.webp"></a>
 
 Format : vinyle

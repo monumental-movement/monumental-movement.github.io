@@ -84,7 +84,7 @@ Après la gifle de Larry Graham, le funk est rapidement devenu plus rythmé, mai
 * **Appel et réponse de l'Évangile de l'Église noire**
 * **Paroles avec de fortes critiques politiques**
 
-En particulier, "Maggot Brain" de 1971 est célèbre pour le solo de guitare de plus de 10 minutes d'Eddie Hazell.
+En particulier, on se souvient de "Maggot Brain" de 1971 pour le solo de guitare de plus de 10 minutes d'Eddie Hazell.
 Il a été décrit comme « l’incarnation musicale de la tristesse et de la colère noires ».
 
 ---
@@ -142,7 +142,7 @@ En conséquence, le rythme donne l'impression d'avancer tout en flottant.
 
 ### ■ 4. Le « son d'instruction » funky de Horn
 
-* Accent prononcé à la James Brown
+* Accent pointu à la James Brown
 * Mais il a plus de jeu que JB et plus d'harmonie que l'unisson.
 
 ### ■ 5. Futur son du synthétiseur
@@ -251,7 +251,7 @@ timeline
 * Hérité du synthétiseur et de l'arrangement de caisse claire de P-Funk
 * « Mothership Connection » samplé par Ice Cube et d'autres
 
-### ■ Prince
+### ■Prince
 
 * Construction de personnages à personnalités multiples
 * Théâtre live/expression sexuelle/cross-genre
@@ -283,7 +283,7 @@ Tant que P-Funk restera au centre d’une musique noire qui parle du futur, leur
 
 ---
 
-### Annexe : Composition live (carte de reproduction du Mothership Tour de 1976)
+### Annexe : Composition live (schéma de reproduction du Mothership Tour de 1976)
 
 <div class="mermaid">
 

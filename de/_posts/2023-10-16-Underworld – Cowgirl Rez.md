@@ -15,7 +15,7 @@ title: Underworld – Cowgirl Rez
 
 „Cowgirl“ aus dem Jahr 1994 und „Rez“ aus dem Jahr 1993 sind Underworlds Signature-Songs der 90er Jahre.
 
-„Cowgirl“ ist ein unverwechselbarer Track, der eine emotionale Melodie mit elektronischen Klängen kombiniert. „Rez“ ist eine Fusion aus energiegeladenen Techno-Beats und House-Musik, die beide als Klassiker der damaligen Zeit gelten.
+„Cowgirl“ ist ein unverwechselbarer Track, der eine emotionale Melodie und elektronischen Sound kombiniert. „Rez“ ist eine Mischung aus energiegeladenen Techno-Beats und House-Musik, die beide als Klassiker der damaligen Zeit gelten.
 
 #### Trackliste
 ```md

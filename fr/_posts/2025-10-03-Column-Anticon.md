@@ -20,7 +20,7 @@ title: '[Chronique] Anticon — Généalogie des anti-icônes et de leur musique
 Texte : mmr | Thème : L'histoire de la musique expérimentale hip-hop/indie d'Anticon (fondée en 1998) et la discographie d'artistes majeurs.
 
 
-Anticon (anticon.) est un label/collectif américain de hip-hop indie/expérimental fondé en 1998. Alors que de nombreux membres fondateurs ont élargi leurs activités au « hip-hop d'avant-garde » et à l'indie/electronica à travers des activités solo et des unités dérivées, les activités du label ont décliné à la fin des années 2010 après des changements importants (départ d'un co-fondateur, décès d'un membre, etc.).
+Anticon (anticon.) est un label/collectif américain de hip-hop indie/expérimental fondé en 1998. Alors que de nombreux membres fondateurs ont élargi leur champ d'activités au « hip-hop d'avant-garde » et à l'indie/electronica, passant des actes solos aux unités dérivées, les activités du label ont décliné à la fin des années 2010 après des changements importants (départ d'un co-fondateur, décès d'un membre, etc.).
 
 ---
 
@@ -151,7 +151,7 @@ Au début, le noyau du groupe était constitué de paroles fragmentaires, abstra
 ### ■ Alias ​​​​(Brendon Whitney)
 
 | Année | Titre | Remarques | Lien |
-| ---- | ------------------------------------- | -------- | --------------------------------------------------------------- |
+| ---- | ------------------------------------- | -------- | ----------------------------------------------------- |
 | 2000 | *The Other Side of the Looking Glass* | デビュー作    | [Amazon](https://amzn.to/4o9dFDz) |
 | 2003 | *Muted*                               | 抑制された音世界 | [Amazon](https://amzn.to/4mPkFUO)                    |
 | 2008 | *Resurgam*                            | ポストロック寄り | [Amazon](https://amzn.to/3Wsfz65)                 |
@@ -265,7 +265,7 @@ Selon certaines informations, le site officiel et les activités ont diminué de
 
 **Expérimentation de la production** : les morceaux qui utilisent des enregistrements sur le terrain, du bruit et une ambiance subtile doivent être écoutés avec une métrique différente de celle du hip-hop traditionnel axé sur le rythme.
 
-**Politique de communauté** : les conflits et les résolutions de la gestion du label, de la propriété et de la politique artistique sont des matériaux utiles pour réfléchir à la politique de la musique indépendante. Le départ de Sole en 2010 et la dissolution d'Alias ​​après son décès sont des études de cas importantes.
+**Politique de la communauté** : les conflits et les résolutions de la gestion du label, de la propriété et de la politique artistique sont des matériaux utiles pour réfléchir à la politique de la musique indépendante. Le départ de Sole en 2010 et la dissolution d'Alias ​​après son décès sont des études de cas importantes.
 
 ---
 
@@ -287,7 +287,7 @@ Selon certaines informations, le site officiel et les activités ont diminué de
 
 Anticon était plus qu’un simple label hip-hop ; c'était une expérience culturelle qui proposait de nouvelles possibilités pour les mots et les sons, incorporant des éléments de musique expérimentale, de post-rock et d'électro. Des membres clés tels que Sole, Doseone, Jel, Alias, Odd Nosdam et Why ? ont continué à mettre à jour leurs expressions poétiques et leurs mondes sonores à travers des travaux solo, des groupes et des collaborations.
 
-Au cœur de ses activités se trouve la prise de conscience de « l'expansion du hip-hop underground » de la fin des années 1990 aux années 2000, et en conséquence, Anticon a acquis un caractère fort en tant que « collectif artistique », « laboratoire indépendant » et « communauté idéologique ». Les œuvres fantastiques de CLOUDDEAD, les albums à tendance pop de Why ? musiciens à ce jour.
+Au cœur de ses activités se trouve la prise de conscience de « l'expansion du hip-hop underground » de la fin des années 1990 aux années 2000, et en conséquence, Anticon a acquis un caractère fort en tant que « collectif artistique », « laboratoire indépendant » et « communauté idéologique ». Les œuvres fantastiques de CLOUDDEAD, les albums à tendance pop de Why ? et musiciens à ce jour.
 
 Même si le label a effectivement pris fin à la fin des années 2010 avec le décès d’Alias ​​​​et la dispersion des membres, son esprit continue de palpiter dans les activités de chaque artiste. L'esthétique révolutionnaire d'Anticon est devenue l'une des pierres angulaires de la musique indépendante moderne et de la culture DIY, et a été transmise à une nouvelle génération d'artistes expérimentaux sur Spotify et Bandcamp.
 

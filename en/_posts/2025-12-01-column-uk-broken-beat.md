@@ -42,7 +42,7 @@ color: #fff;
 In the mid-1990s, jazz-funk and drum and bass were rapidly developing in the UK club scene. In this context, music with freer and irregular rhythms emerged as an offshoot of traditional four-on-the-floor house and jazz-funk. This formed the basis of the genre that would later be called Broken Beat.
 
 - **Jazz-funk swing feel**: Complex chord progressions and odd time signature rhythms
-- **Complex drum and bass and jungle rhythms**: fast breakbeats and irregular snare placements
+- **Drum and bass and jungle rhythm complexity**: high-speed breakbeats and irregular snare placements
 - **Fusion with hip-hop sampling culture**: Simultaneous use of live music and sampling
 
 > "At that time, it wasn't just dancing or listening to music, it was more fun to feel the swing and groove that was born behind the rhythm."
@@ -66,7 +66,7 @@ Representative labels:
 - **Rising High**: Origin of early electronica jazz funk
 - **Reinforced Records**: Bridging Drum & Bass and Broken Beat
 - **Talkin" Loud**: A release that emphasizes soul and jazz elements.
-- **2000Black**: Activities as an artist group and community formation
+- **2000Black**: Activities as an artist group and community building
 
 <div class="mermaid">
 graph TD
@@ -167,7 +167,7 @@ graph LR
 
 ---
 
-## 6. Recent re-evaluation trends
+## 6. Recent reevaluation trends
 
 Broken Beat has been undergoing a reappraisal in recent years.
 
@@ -201,7 +201,7 @@ graph TD
 ### IG Culture
 - **Start of activities**: 1996
 - **Characteristics**: Soulful and jazz-fusion Broken Beat
-- **Song analysis**: "Give Me Time" is impressive with its long sustain on the synth pad and asymmetrical rhythm. A structure that allows for a high degree of freedom in vocal phrases and gives the listener "breathing".
+- **Song Analysis**: "Give Me Time" is impressive with its long sustain on the synth pad and asymmetrical rhythm. A structure that allows for a high degree of freedom in vocal phrases and gives the listener "breathing".
 
 ### 2000Black
 - **Established**: 1998

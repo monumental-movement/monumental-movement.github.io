@@ -14,7 +14,7 @@ title: Lightnin' Hopkins – Main de Mojo
 ---
 
 
-"Mojo Hand" est une chanson de blues classique du célèbre musicien de blues américain Lightnin' Hopkins. Cette chanson a été enregistrée pour la première fois en 1960 et est depuis devenue l’une de ses chansons emblématiques.
+"Mojo Hand" est une chanson de blues classique du célèbre musicien de blues américain Lightnin' Hopkins. Cette chanson a été enregistrée pour la première fois en 1960 et est depuis devenue l'une de ses chansons emblématiques.
 
 Un jeu de guitare distinctif et une voix passionnée caractérisent "Mojo Hand".
 

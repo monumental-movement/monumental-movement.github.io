@@ -60,7 +60,7 @@ Dies ist einer der Hauptgründe, warum Menschen traurige Musik suchen.
 ## Kapitel 2: Musik als Mittel der Empathie
 
 Laut der Psychologin Catherine Mercier
-„Musik ist ein Nachahmungsmittel für Empathie.“
+„Musik ist ein Mittel zur Nachahmung von Empathie.“
 Wenn Zuhörer traurige Musik hören, „identifizieren“ sie sich mit den Emotionen des Komponisten und Sängers und
 Die Anwesenheit anderer in der Einsamkeit spüren.
 
@@ -85,7 +85,7 @@ Es fungiert als **zeitliches Medium**, das Erinnerungen und Emotionen verbindet.
 
 ---
 
-## Kapitel 4: „Klänge der Traurigkeit“ aus kulturhistorischer Sicht
+## Kapitel 4: „Klänge der Traurigkeit“ aus kulturhistorischer Perspektive
 
 Musik der Traurigkeit gab es in jeder Epoche in unterschiedlichen Formen.
 Die folgende Chronologie zeigt den typischen Ablauf.

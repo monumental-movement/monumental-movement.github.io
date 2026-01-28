@@ -74,14 +74,14 @@ Entre le milieu et la fin des années 1980, les prix des mémoires à semi-condu
 * **Durée totale de l'échantillon** : environ 10 secondes (mono total)
 * **Principales caractéristiques** : séquenceur 8 pistes, filtre (analogique), sorties individuelles
 
-**Philosophie et fonctionnalités de conception**
+**Philosophie de conception et fonctionnalités**
 Le SP-1200 a été conçu en tenant compte des contraintes de temps d'un échantillonneur et est optimisé pour le flux de travail consistant à « couper et organiser des échantillons courts ». Combiné avec un circuit analogique interne, le résultat est une gamme de basses fréquences épaisse avec une « rugosité » ou une « ondulation ». Sur la base des spécifications et des documents techniques d'E-mu de l'époque, il peut être confirmé que le chemin A/D et la conception du filtre du SP-1200 contribuent à la coloration acoustique.
 
 **Utilisation pratique**
 
 * Casser l'échantillonnage et le hachage
 * Pitch down après un échantillonnage rapide (induisant un effet passe-bas)
-* Créez des grooves en utilisant des réglages de boucle et des swings de timing
+* Créez des grooves en utilisant des ajustements de boucles et des swings de timing
 
 ### 4.2 Akai MPC60 (1988) — Réalisation en tant qu'instrument de musique
 
@@ -90,7 +90,7 @@ Le SP-1200 a été conçu en tenant compte des contraintes de temps d'un échant
 * **Profondeur de bits** : 12 bits
 * **Principales caractéristiques** : 16 pads, séquenceur intégré, compatible MIDI
 
-**Philosophie et fonctionnalités de conception**
+**Philosophie de conception et fonctionnalités**
 Avec l'aide de Roger Linn dans la conception, le MPC60 se voulait un « sampler jouable ». De grands pads et un séquenceur qui met l'accent sur le sens du groove améliorent considérablement la convivialité pour les performances d'improvisation et la production live. La fiche technique met l'accent sur la précision du séquenceur et le mécanisme de détection des pads du MPC60.
 
 ### 4.3 Akai S900 / S950
@@ -110,7 +110,7 @@ Bien que Mirage ne soit pas 12 bits, il est très influent en tant qu'échantill
 
 *Année de sortie : 1985
 * Profondeur de bits : 12 bits
-* Caractéristiques : En combinant la lecture d'échantillons avec un filtre analogique, il est possible de « synthétiser des échantillons de tonalités ».
+* Caractéristiques : En combinant la lecture d'échantillons avec un filtre analogique, il est possible de "synthétiser des échantillons de tonalités".
 
 ---
 
@@ -190,7 +190,7 @@ flowchart TD
 
 ## Chapitre 9 : UI/UX et instrumentation — Mise en place d'une démarche de performance à l'aide de MPC
 
-La série MPC a popularisé le concept de « sampler = instrument à jouer ». En particulier, les 16 pads, la sensibilité des pads, la faible latence pour une lecture instantanée et le séquenceur intégré permettent d'improviser, et son utilisation dans les performances live et les sessions impromptues s'est étendue. Le fait que la fusion de la philosophie de conception de Roger Linn (mettant l'accent sur le sens humain du jeu) et de la conception des produits d'Akai a contribué au succès du MPC60 est étayé par de multiples entretiens avec des développeurs.
+La série MPC a popularisé le concept de « sampler = instrument à jouer ». En particulier, les 16 pads, la sensibilité des pads, la faible latence pour une lecture instantanée et le séquenceur intégré permettent d'improviser, et son utilisation dans les performances live et les sessions impromptues s'est étendue. Le fait que la fusion de la philosophie de conception de Roger Linn (mettant l'accent sur le sens humain de la performance) et de la conception des produits d'Akai a contribué au succès du MPC60 est étayé par de multiples entretiens avec des développeurs.
 
 ---
 
@@ -209,7 +209,7 @@ Depuis les années 2010, le nombre de plug-ins et de produits de reproduction ma
 
 ---
 
-## Chapitre 12 : Résumé et perspectives
+## Chapitre 12 : Résumé et perspectives
 
 L'échantillonneur 12 bits est un excellent exemple de la façon dont les contraintes techniques peuvent conduire à l'ingéniosité. Le SP-1200 et le MPC60 sont allés plus loin que de simples outils et sont devenus l'expression musicale d'une époque particulière. Dans l'environnement de production actuel, il existe de nombreuses façons de recréer intentionnellement du « lo-fi » et du « grain », mais lorsque vous retrace leurs racines, vous revenez toujours à ces appareils.
 

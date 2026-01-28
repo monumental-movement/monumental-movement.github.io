@@ -43,7 +43,7 @@ The vibrations of my body that I felt on the club floor. An illegal rave that la
 
 They are often not recorded. It is not reported in the media and is not recorded in history.
 
-However, a DIY medium called ""zine'' is currently attracting attention as a means of picking up these fragments and retelling them.
+However, a DIY media called ""Zine'' is currently attracting attention as a means of picking up the fragments and retelling the story.
 
 A zine is not a magazine, diary, or report. However, it is closer to the "voices of the people involved" than any of these. In the rave culture, which inherently resists recording, zines have the potential to serve as ""memory aids''.
 

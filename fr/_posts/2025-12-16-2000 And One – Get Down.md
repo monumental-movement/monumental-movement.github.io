@@ -15,7 +15,7 @@ title: 2000 et un – Descendez
 
 Dylan Hermelijn, également connu sous le nom de 2000 & One, est un DJ/producteur néerlandais actif sur la scène de la musique électronique depuis la fin des années 1980.
 
-"Get Down" est un morceau techno sorti en 2005 sur Intacto Records, qui a débuté en 2004 comme une collaboration entre les DJ/producteurs d'Amsterdam Shinedoe et Dylan Hermelijn.
+"Get Down" est un morceau techno sorti en 2005 sur Intacto Records, qui a débuté en 2004 comme une collaboration entre le DJ/producteur d'Amsterdam Shinedoe et Dylan Hermelijn.
 
 #### Liste des chansons
 ```md

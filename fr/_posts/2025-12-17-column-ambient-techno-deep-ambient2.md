@@ -65,7 +65,7 @@ Dans les productions très improvisées, le son n'est pas trop contrôlé, laiss
 
 Dans Deep Ambient, le silence est bien plus qu’une simple pause. Dès que le son disparaît, la réverbération et les sons environnementaux passent au premier plan et l'attention de l'auditeur se tourne vers le monde extérieur.
 
-Pour cette raison, dans de nombreuses œuvres, le silence complet est évité et des sons très faibles sont soutenus. Ce qui semble être du silence est en réalité rempli d'acoustique.
+Pour cette raison, dans de nombreuses œuvres, le silence complet est évité et des sons très faibles sont soutenus. Ce qui semble être du silence est en réalité rempli d’acoustique.
 
 ---
 
@@ -73,7 +73,7 @@ Pour cette raison, dans de nombreuses œuvres, le silence complet est évité et
 
 Le caractère d'Ambient Techno / Deep Ambient change considérablement en fonction du support de lecture. Grands haut-parleurs, écouteurs et petits appareils. Chacun crée une profondeur différente.
 
-Dans les écouteurs, la pression physique des basses fréquences est réduite, mais la densité de l'espace interne est augmentée. En revanche, lors de la lecture sur haut-parleur, l’espace lui-même devient un résonateur.
+Dans les écouteurs, la pression physique dans les basses fréquences est réduite, mais la densité de l'espace interne augmente. En revanche, lors de la lecture sur haut-parleur, l’espace lui-même devient un résonateur.
 
 ---
 
@@ -103,7 +103,7 @@ Même s'il s'agit d'un son artificiel, si la sensation de distance, de réflexio
 
 ## 10. Indépendance de l'auditeur
 
-Dans ce genre de musique, l’auditeur n’est pas une entité passive. C'est toujours à l'auditeur de décider quelle attention accorder et quand laisser la musique devenir un arrière-plan.
+Dans ce genre de musique, l’auditeur n’est pas une entité passive. C'est toujours à l'auditeur de décider quelle attention accorder et quand laisser la musique devenir l'arrière-plan.
 
 Ambient Techno / Deep Ambient est une musique extrêmement démocratique dans le sens où elle ne force pas l'intensité d'écoute.
 
@@ -111,7 +111,7 @@ Ambient Techno / Deep Ambient est une musique extrêmement démocratique dans le
 
 ## 11. Soutenir l’ère numérique
 
-Dans un environnement de streaming, la musique est facilement ignorée. Cependant, la musique d’ambiance des profondeurs marines résiste à cette immédiateté. Parce que la musique ne peut être jugée sur une courte période, le fait de continuer à la jouer a un sens en soi.
+Dans un environnement de streaming, la musique est facilement ignorée. Cependant, la musique d’ambiance des grands fonds résiste à cette immédiateté. Parce que la musique ne peut être jugée sur une courte période, le fait de continuer à la jouer a un sens en soi.
 
 ---
 
@@ -143,7 +143,7 @@ C --> D[意識の変化]
 
 ## 16. Résumé
 
-Ambient Techno / Deep Ambient redéfinit l'acte d'écouter de la musique. L’acoustique des grands fonds est le format optimisé pour cela et continuera à se développer avec les applications.
+Ambient Techno / Deep Ambient redéfinit l'acte d'écouter de la musique. L'acoustique des grands fonds est le format optimisé pour cela et continuera à se développer avec les applications.
 
 ---
 

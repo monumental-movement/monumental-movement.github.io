@@ -11,16 +11,16 @@ tags:
 - Breakbeat
 - Hardcore
 - 90s
-title: T99 – Anasthasia
+title: T99 – Anasthasie
 ---
 
 
-T99は、80年代後半から90年代前半に活動したベルギーのデュオ。
-T99は当初、Patrick De Meyerのソロプロジェクトだったが、Patrickが Olivier Abbeloosが製作していた曲「Anasthasia」を聞き、AbbeloosにT99 としてリリースするよう提案したことで、T99はPatrick De MeyerとOlivier Abbeloosのディオとなった。
+T99 était un duo belge actif à la fin des années 80 et au début des années 90.
+T99 était à l'origine le projet solo de Patrick De Meyer, mais T99 est devenu un enregistrement de Patrick De Meyer et Olivier Abbeloos après que Patrick ait entendu la chanson «Anasthasia» d'Olivier Abbeloos et ait suggéré à Abbeloos de la sortir sous le nom de T99.
 
-「Anasthasia（アナスタシア）」は、レイブミュージック＆ダンスミュージックをリリースするUKのインディペンデントレーベルXL Recordingsから1991年にリリースされたテクノ・ブレイクビーツ・ハードコアトラック。
+"Anasthasia" est un morceau techno breakbeat hardcore sorti en 1991 par XL Recordings, un label indépendant britannique qui publie de la musique rave et dance.
 
-AA面は、 Nick HalkesとRichard Russellによるremix。
+Side AA est un remix de Nick Halkes et Richard Russell.
 
 #### Liste des chansons
 ```md

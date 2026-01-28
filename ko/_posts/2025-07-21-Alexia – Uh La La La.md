@@ -12,7 +12,7 @@ tags:
 - Euro
 - House
 - 90s
-title: 알렉시아 – 어 라라라
+title: 알렉시아 - 어 라라라
 ---
 
 

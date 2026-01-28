@@ -69,7 +69,7 @@ Chillwave liegt irgendwo zwischen Indie-Rock und Electronica und fällt mit der 
 
 # 2. Was ist Synthwave?
 ## 2-1. Entstehung (Mitte der 2000er bis Anfang der 2010er Jahre)
-Die Ursprünge von Synthwave liegen früher als bei Chillwave und lassen sich auf die französische elektronische Musik (insbesondere Kavinsky und College) Mitte der 2000er Jahre zurückführen.
+Die Ursprünge von Synthwave liegen früher als Chillwave und lassen sich auf die französische elektronische Musik (insbesondere Kavinsky und College) Mitte der 2000er Jahre zurückführen.
 „A Real Hero“ von College & Electric Youth, das im frühen Film „Drive“ (2011) verwendet wurde, wurde zum Katalysator für seine Verbreitung im Mainstream.
 
 Merkmale:
@@ -195,7 +195,7 @@ flowchart TD
 
 * Washed Out – **Life of Leisure (2009)**
 * Neon Indian – **Psychic Chasms (2009)**
-* Toro y Moi – **Ursachen davon (2010)**
+*Toro y Moi – **Ursachen davon (2010)**
 
 ## 8-2. Synthwave-Meisterwerke
 
@@ -219,7 +219,7 @@ Synthwave wurde stark von der elektronischen Musik und Visuals beeinflusst, die 
 
 ## 9-2. Kontext des digitalen Revivals
 
-Chillwave nutzte in großem Umfang visuelle Ausdrucksformen, die an die persönliche Medienkultur der 1990er Jahre erinnerten (VHS, Camcorder, Heimaufnahmen vom Meer) und war mit der Lo-Fi-Fotografiekultur des Internets (wie dem frühen Instagram) kompatibel.
+Chillwave nutzte in großem Umfang visuelle Ausdrucksformen, die an die persönliche Medienkultur der 1990er Jahre erinnerten (VHS, Camcorder, Heimaufnahmen vom Meer) und war mit der Lo-Fi-Fotokultur des Internets (wie dem frühen Instagram) kompatibel.
 
 Der von Grafikdesignern erstellte **Gitterhintergrund + Neontypografie** von Synthwave ist weltweit standardisiert und auch in Mix-Videos auf YouTube beliebt geworden.
 

@@ -17,7 +17,7 @@ Although the mix title is not listed, "Oregano by Oregano" is a deep house track
 
 Todd Terry is an American DJ, record producer, and house music remixer who evolved house music from the early Chicago house sound of 1984-86, later fused house sounds with hip-hop breaks to create a more energetic sound, and became commercially successful in addition to the underground house scene. Other names include Todd Terry Project, Royal House, Black Riot, Swan Lake, and Orange Lemon. "Can You Party" is famous under the name Royal House.
 
-In the late 1980s, he released crossover remixes and a style that fused house and rave music, and is said to be a driving force behind the UK acid house movement. He is also active as a remixer and producer, including remixing Michael Jackson's "Stranger in Moscow" in 1996.
+In the late 1980s, they released crossover remixes and a style that fused house and rave music, and are said to be the driving force behind the UK acid house movement. He is also active as a remixer and producer, including remixing Michael Jackson's "Stranger in Moscow" in 1996.
 
 #### Tracklist
 ```md

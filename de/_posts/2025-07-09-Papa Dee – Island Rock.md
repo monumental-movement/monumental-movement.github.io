@@ -10,13 +10,13 @@ tags:
 - Hiphop
 - Pops
 - 90s
-title: Papa Dee – Island Rock
+title: Papa Dee – Inselfelsen
 ---
 
 
-Papa Dee und David Christopher, Daniel Wahlgren, sein Stil ist eine Mischung aus Elementen aus Ragga, Dub, Dancehall, Reggae und Hip Hop.
+David Christopher Daniel Wahlgren, auch bekannt als Papa Dee, ist ein Rapper aus Schweden. Sein Stil ist eine Mischung aus Elementen aus Ragga, Dub, Dancehall, Reggae und Hip Hop.
 
-「Island Rock」は、1998年にWEAからリリースされたPop Rapアルバム。共同プロデューサーは、スウェーデンのプロデューサーKent Gillström。
+„Island Rock“ ist ein Pop-Rap-Album, das 1998 von WEA veröffentlicht wurde. Co-Produzent ist der schwedische Produzent Kent Gillström.
 
 #### Trackliste
 ```md

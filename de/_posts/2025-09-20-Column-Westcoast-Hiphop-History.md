@@ -18,7 +18,7 @@ title: '[Kolumne] Überblick über den Westküsten-Hip-Hop – von seinen Urspr�
 
 Text: mmr｜Thema: Von der Geburt des Westküsten-Hip-Hop bis zur Gegenwart, Produzenten, Labels, Ost-West-Konflikt, Meisterwerke, visueller Ausdruck und Modeveränderungen
 
-Der Westküsten-Hip-Hop begann mit Block-Party- und Funk-Beats, und während er sich in die Mainstream-Musik ausweitete, hat er immer auch Underground-Kreativität einbezogen. Dieser Artikel fasst Veränderungen bei wichtigen Persönlichkeiten, Produzenten, Labels, visueller Ästhetik und Mode nach Epoche sowie akademische Referenzen und Diskographie zusammen.
+Der Westküsten-Hip-Hop begann mit Block-Party- und Funk-Beats, und während er sich zur Mainstream-Musik ausweitete, hat er immer auch Underground-Kreativität einbezogen. Dieser Artikel fasst Veränderungen bei wichtigen Persönlichkeiten, Produzenten, Labels, visueller Ästhetik und Mode nach Epoche sowie akademische Referenzen und Diskographie zusammen.
 
 ---
 
@@ -42,7 +42,7 @@ color: #fff;
 ## 1970er-1980er: Ursprünge und frühe Innovationen
 
 * **Repräsentativer Produzent**: Egyptian Lover, früher Dr. Dre (Weltklasse-Wreckin’-Cru-Zeit)
-* **Major-Labels**: Priority Records, Ruthless Records (spät)
+* **Major Labels**: Priority Records, Ruthless Records (spät)
 * **Kultureller Hintergrund**: Es besteht eine starke Verbindung zwischen den Straßen von Los Angeles und der Gang-Gesellschaft (Crips, Bloods) und es wurden Ausdrücke geboren, die den Realismus betonen.
 * **Video/Mode**: Hauptsächlich Low-Budget-MVs. Kangol, Adidas und lokale Sneaker sind die Grundstile.
 

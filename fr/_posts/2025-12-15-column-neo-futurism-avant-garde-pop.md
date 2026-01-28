@@ -77,7 +77,7 @@ Les rythmes ne sont pas nécessairement orientés vers les pistes de danse et so
 
 ### 3-3. Traitement vocal
 
-Bien que les voix soient de vraies voix, elles sont présentées comme une « extension du corps » grâce au traitement de la hauteur, à la conversion des formants et aux traitements multiples. Il s’agit d’une méthode symbolique pour montrer la fluidité du sujet.
+Bien que les voix soient de vraies voix, elles sont présentées comme une « extension du corps » grâce au traitement de la hauteur, à la conversion des formants et aux traitements multiples. Il s'agit d'une méthode symbolique pour montrer la fluidité du sujet.
 
 ---
 
@@ -85,7 +85,7 @@ Bien que les voix soient de vraies voix, elles sont présentées comme une « ex
 
 ### 4-1. Reconstruction du corps
 
-Comme le montrent les œuvres vidéo de FKA Twigs, le corps est souvent fragmenté et rendu mécaniquement ou sculpturalement. Il ne s’agit pas de la disparition du corps, mais plutôt de sa redéfinition.
+Comme le montrent les œuvres vidéo de FKA Twigs, le corps est souvent fragmenté et rendu mécaniquement ou sculpturalement. Il ne s’agit pas de la disparition du corps, mais de sa redéfinition.
 
 ### 4-2. Texture numérique
 
@@ -93,7 +93,7 @@ La 3DCG, la capture de mouvement et la composition numérique brouillent les fro
 
 ---
 
-## 5. 主要アーティスト分析
+## 5. Analyse des artistes majeurs
 
 ### 5-1. Brindilles FKA
 
@@ -133,7 +133,7 @@ flowchart TD
 
 ## 8. Importance socioculturelle
 
-Le néofuturisme/pop d’avant-garde n’est pas seulement un style, mais une pratique culturelle qui remet en question la relation entre la technologie et l’humain. En présentant les corps, les genres et les émotions comme non figés, l’imaginaire futuriste continue de se renouveler.
+Le néofuturisme/pop avant-gardiste n’est pas seulement un style, mais une pratique culturelle qui remet en question la relation entre la technologie et l’humain. En présentant les corps, les genres et les émotions comme non figés, l’imaginaire futuriste continue de se renouveler.
 
 ---
 
@@ -147,7 +147,7 @@ Ce que les brindilles de FKA et les œuvres d'Arca ont en commun est de s'écart
 
 ### 9-2. Construction musicale à partir du corps
 
-Dans les productions de FKA twigs, la danse et le mouvement physique sont souvent l'inspiration des structures musicales. Le rythme reflète la tension et la libération du corps et se manifeste par des fluctuations de tempo et des pauses. Il s’agit d’une méthode de composition axée sur le corps qui diffère de la composition traditionnelle centrée sur le rythme.
+Dans les productions de FKA twigs, la danse et le mouvement physique sont souvent l'inspiration des structures musicales. Le rythme reflète la tension et la libération du corps et se manifeste dans les fluctuations du tempo et les pauses. Il s’agit d’une méthode de composition axée sur le corps qui diffère de la composition traditionnelle centrée sur le rythme.
 
 ### 9-3. Distance entre traitement acoustique et émotion
 
@@ -168,7 +168,7 @@ La force des visuels augmente la visibilité de l’œuvre plus que la musique s
 
 La critique pop traditionnelle s'est concentrée sur la structure des chansons et le potentiel des succès. Cependant, dans le néofuturisme/pop d’avant-garde, la totalité de l’expression sonore, visuelle et physique fait l’objet d’une évaluation.
 
-On a de plus en plus tendance à critiquer « le type de questions posées » plutôt que « la facilité à comprendre ». Cela implique d’aborder l’axe de l’évaluation de l’art contemporain.
+On a de plus en plus tendance à critiquer « le type de questions posées » plutôt que « la facilité à comprendre ». Il s’agit d’aborder l’axe de l’évaluation de l’art contemporain.
 
 ---
 
@@ -201,7 +201,7 @@ Les expressions qui transcendent le genre, le corps et la technologie sont deven
 
 ## Conclusion
 
-Le néofuturisme/pop avant-gardiste n’est pas un style qui embellit le futur, mais une pratique qui visualise la relation entre le corps actuel et la technologie. Les œuvres de FKA Twigs et Arca démontrent comment la musique peut intégrer la vision, la pensée et le corps.
+Le néofuturisme/pop avant-gardiste n’est pas un style qui embellit le futur, mais une pratique qui visualise la relation entre le corps actuel et la technologie. Les œuvres de FKA Twigs et Arca montrent comment la musique peut intégrer la vision, la pensée et le corps.
 
 Cette tendance n’est pas une tendance passagère, mais plutôt la dernière d’un continuum culturel remontant à l’avant-garde du XXe siècle. L’avant-garde n’est plus en périphérie, mais continue de se renouveler au sein de la pop.
 

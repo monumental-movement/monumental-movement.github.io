@@ -9,17 +9,17 @@ permalink: /fr/paul-hardcastle-walk-in-the-night/
 tags:
 - Acid Jazz
 - Synth-Pop
-title: Paul Hardcastle – Walk In The Night
+title: Paul Hardcastle – Marcher dans la nuit
 ---
 
 
-「Walk In The Night」は、イギリスの音楽プロデューサー、作曲家、マルチ楽器奏者であるポール・ハードキャッスルの代表作の一つです。
+« Walk In The Night » est l'un des chefs-d'œuvre du producteur de musique, compositeur et multi-instrumentiste britannique Paul Hardcastle.
 
-「Walk In The Night」は、エレクトロニックなサウンドとジャズの要素が融合した楽曲であり、特徴的なリズムやメロディが魅力です。
+« Walk In The Night » est une chanson qui combine des sons électroniques et des éléments de jazz, et possède un rythme et une mélodie distinctifs.
 
-シンセサイザーや打ち込みビートが際立ち、ダンサブルでグルーヴィな雰囲気を作り出しています。
+Les synthétiseurs et les rythmes enregistrés se démarquent, créant une atmosphère dansante et groovy.
 
-「Walk In The Night」は、ポール・ハードキャッスルのファンや電子音楽愛好家にとって楽しめる楽曲となっており、その独特なサウンドとクリエイティブなアプローチは、多くの人々に影響を与え続けています。
+« Walk In The Night » fait le bonheur des fans de Paul Hardcastle et des amateurs de musique électronique, et son son unique et son approche créative continuent d'en influencer beaucoup.
 
 
 #### Liste des chansons

@@ -16,7 +16,7 @@ title: 브라이언 이노(Brian Eno) & 존 케일(John Cale) – Wrong Way Up
 ---
 
 
-1990년 발매된 브라이언 이노(Brian Eno)와 존 케일(John Cale)의 스튜디오 앨범 'Wrong Way Up'의 홍보용 카세트 테이프.
+1990년에 발매된 Brian Eno와 John Cale의 스튜디오 앨범 "Wrong Way Up"의 홍보용 카세트 테이프입니다.
 
 Wrong Way Up은 일렉트로닉, 프로그레시브 록, 아트 록 장르 사이에 속하며 비평가들의 호평을 받은 앨범입니다.
 

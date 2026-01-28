@@ -116,7 +116,7 @@ Durch die Integration der Elemente der Band erweiterte er den zeitgenössischen 
 
 * **Dilla-Beat (Snare mit etwas Verzögerung)**
 * **Zusammengesetztes Metrum, Polyrhythmus**
-* **Großer Einsatz von Geisternotizen**
+* **Großer Einsatz von Geisternoten**
 * **32-Minuten-Schwankungen**
 
 #### Moderne Soul-Rhythmus-Struktur

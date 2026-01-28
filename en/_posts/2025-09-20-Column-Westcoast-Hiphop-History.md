@@ -59,7 +59,7 @@ color: #fff;
 
 * **Representative producers**: Dr. Dre, DJ Quik, Battlecat
 * **Major labels**: Death Row Records, Priority, Ruthless
-* **Cultural background**: G-Funk was closely associated with lowrider and car culture, with its 70s funk sampling and thick synth bass.
+* **Cultural context**: G-Funk was closely associated with lowrider and car culture, with its 70s funk sampling and thick synth bass.
 * **East-West Conflict**: The conflict between East Coast and West Coast intensifies, leading to the tragedy of 2Pac and The Notorious B.I.G.
 * **Video/Fashion**: MVs featuring lowriders, beaches, and the streets of South Central are becoming popular. Dickies, Chuck Taylor, and bandanas are iconic.
 

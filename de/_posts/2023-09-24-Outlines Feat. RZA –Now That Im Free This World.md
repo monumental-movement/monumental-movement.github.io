@@ -15,7 +15,7 @@ title: Outlines Feat. RZA – Jetzt, wo ich frei bin / Diese Welt
 
 „Now That I'm Free“ ist ein Lied des französischen Trios Outlines und RZA (Wu-Tang Clan). Zusätzlich zum groovigen Rhythmus und der attraktiven Melodie bietet dieser Song Outlines und RZAs Gesangsdarbietung mit einer positiven Botschaft über Befreiung und Freiheit.
 
-„This World“ ist ebenfalls ein Gemeinschaftslied zwischen Outlines und RZA, und dieses Lied sendet eine Botschaft über den aktuellen Zustand der Welt und soziale Probleme. Dieses Lied vereint einen melodiösen Klang und kraftvolle Texte.
+„This World“ ist ebenfalls ein Gemeinschaftslied zwischen Outlines und RZA und dieses Lied sendet eine Botschaft über den aktuellen Zustand der Welt und soziale Probleme. Dieses Lied vereint einen melodiösen Klang und kraftvolle Texte.
 
 #### Trackliste
 ```md

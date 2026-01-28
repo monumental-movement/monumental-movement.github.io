@@ -55,7 +55,7 @@ Empfohlene Punkte: Der zweite Song „London England“ wird als Dancefloor-Klas
 ### Raw Stylus – Benutze mich
 <a href="https://jp.mercari.com/item/m32284587621?afid=6142608987"><img src="../assets/images/Raw%20Stylus%20%E2%80%93%20Use%20Me.webp"></a>
 
-Zusammenfassung: Eine Single von Raw Stylus, einer in den 1990er Jahren aktiven britischen Acid-Jazz-Band, die Bill Withers‘ Soul/R&B-Song „Use Me“ aus dem Jahr 1972 covert. Acid Jazz.
+Zusammenfassung: Eine Single von Raw Stylus, einer in den 1990er Jahren aktiven britischen Acid-Jazz-Band, die Bill Withers‘ Soul/R&B-Song „Use Me“ aus dem Jahr 1972 covert. Veröffentlicht auf dem Label Acid Jazz.
 
 Empfohlene Punkte: Obwohl es sich bei „Use Me“ um ein Cover eines berühmten Liedes handelt, liegt sein Reiz in einer Mischung aus Respekt vor dem Original und einer Acid-Jazz-ähnlichen Interpretation, sodass Sie einen vielschichtigen Sound genießen können, der Funk und Soul umfasst.
 
@@ -132,7 +132,7 @@ B2. Flight To Havana
 Zusammenfassung: Dies ist ein All-Star-Acid-Jazz-Compilation-Album, das 1992 auf dem britischen Label Acid Jazz veröffentlicht wurde. Enthält Signature-Tracks verschiedener Künstler, die auf der Tanzfläche beliebt geworden sind.
 m.m.r
 
-Zu empfehlen sind Corduroy, Mother Earth, Sons Of Judah und die Band. Sie können die Erweiterung des Genres und das Groove-Feeling gleichzeitig genießen.
+Empfohlene Punkte: Ein wertvolles Stück, das berühmte Lieder aus den Anfängen des Acid Jazz enthält, wie Corduroy, Mother Earth und Sons of Judah. Sie können die Erweiterung des Genres und das Groove-Feeling gleichzeitig genießen.
 
 
 #### Trackliste

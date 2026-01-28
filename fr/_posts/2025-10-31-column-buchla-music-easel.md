@@ -107,7 +107,7 @@ Easel lui-même fonctionne comme un « système musical complet » sans avoir be
 * **Enveloppe** : contrôlée automatiquement, fermée, bouclable.
 * **Reverb** : Réverbération naturelle avec réverbération à ressort.
 
-L'idée qui les unifie n'est pas la « portabilité » mais « l'improvisation », et le centre de la production musicale est passé de la « pensée » à la « sensation tactile ».
+L'idée qui les intègre n'est pas la « portabilité » mais « l'improvisation », et le centre de la production musicale est passé de la « pensée » à la « sensation tactile ».
 
 ---
 
@@ -137,7 +137,7 @@ Le public a l'illusion que « l'air lui-même est diffusé ».
 
 L’attrait d’Easel réside dans le fait que la sculpture sonore peut être réalisée sans aucun effet extérieur.
 En reliant plusieurs modulations en utilisant Pulser comme déclencheur,
-Il est possible de créer des « motifs minimaux générés » et des « structures rythmiques aléatoires ».
+Il est possible de créer des « motifs minimaux générés » et des « structures rythmiques aléatoires ».
 
 ### Cas 2 : Charles Cohen « Live at the Rotunda » (2014)
 

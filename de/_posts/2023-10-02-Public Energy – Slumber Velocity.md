@@ -13,7 +13,7 @@ title: Öffentliche Energie – Schlummergeschwindigkeit
 ---
 
 
-„Slumber“ zeichnet sich durch einen starken Groove und einen fast verschwindenden Bass aus, der einer minimalistischen Trance-Melodie Platz macht, bevor er zu einem intensiveren Sound zurückkehrt. Darüber hinaus sind im gesamten Track zusätzliche Säuretropfen zu finden.
+„Slumber“ zeichnet sich durch einen starken Groove und einen fast verschwindenden Bass aus, der einer minimalistischen Trance-Melodie Platz macht, bevor er zu einem intensiveren Sound zurückkehrt. Zusätzliche Säuretropfen sind im gesamten Track zu finden.
 
 „Velocity“ hingegen hat einen eher europäischen Stil und verfügt über Trommelwirbel.
 

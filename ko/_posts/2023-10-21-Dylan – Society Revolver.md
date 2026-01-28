@@ -13,7 +13,7 @@ title: 딜런 – 소사이어티 리볼버
 ---
 
 
-Dylan은 브레이크비트, 테크노, 일렉트로닉 프로듀서 Dylan Rhymes의 별칭입니다. "Society/Revolver"는 2000년 Dylan Rhymes의 자체 레이블 Blue Black에서 발매되었습니다.
+Dylan은 브레이크비트, 테크노, 일렉트로 프로듀서인 Dylan Rhymes의 별칭입니다. "Society/Revolver"는 2000년 Dylan Rhymes의 자체 레이블 Blue Black에서 발매되었습니다.
 
 #### 트랙리스트
 ```md

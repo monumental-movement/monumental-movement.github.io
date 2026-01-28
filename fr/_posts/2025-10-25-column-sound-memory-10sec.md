@@ -92,7 +92,7 @@ Par exemple, la fanfare olympique, l'intro d'un film Star Wars ou le son d'une n
 Ces sons subtils évoquent une réponse émotionnelle commune à travers les générations et les frontières.
 
 Ce n'est pas un hasard si TikTok et YouTube Shorts se concentrent sur des boucles sonores de 10 à 15 secondes depuis les années 2000.
-L'algorithme sélectionne le « son qui stimule les émotions le plus rapidement » et c'est devenu un réflexe culturellement conditionné.
+L'algorithme sélectionne le « son qui stimule les émotions le plus rapidement », ce qui est devenu un réflexe conditionné par la culture.
 
 ---
 
@@ -112,7 +112,7 @@ En dansant, les gens se dissolvent dans les ondes sonores.
 ## Chapitre 5 : « 10 secondes » à l'ère numérique – Passer la culture et la fragmentation de la mémoire
 
 À l’ère du streaming, nous décidons d’écouter une chanson ou de la sauter dans les 10 premières secondes d’une chanson.
-Il ne s’agit pas simplement d’une habitude, mais d’un changement dans la structure même de la mémoire.
+Il ne s’agit pas seulement d’une habitude, mais d’un changement dans la structure même de la mémoire.
 Dans l’ancienne culture de l’album, chaque chanson était une histoire, mais la consommation musicale d’aujourd’hui est une série de fragments.
 
 Malgré cela, les gens recherchent toujours « des sons qui touchent leur cœur ».

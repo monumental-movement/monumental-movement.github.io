@@ -46,10 +46,10 @@ Diese Struktur passte perfekt zum Parapara-Tanz, der das gleiche Muster wiederho
 
 <hr>
 
-### Was ist Parapara? ──Vergnügen an gleichförmiger Wiederholung
+### Was ist Parapara? ──Die Freude an der einheitlichen Wiederholung
 ● Herkunft von Parapara
 
-– Trat Ende der 1980er Jahre in Diskotheken in Roppongi und Shibuya, Tokio auf (Maharaja, Juliana Tokyo usw.)
+- Trat Ende der 1980er Jahre in Diskotheken in Roppongi und Shibuya, Tokio auf (Maharaja, Juliana Tokyo usw.)
 
 - Gruppentanz mit fein abgestimmten Handbewegungen nach oben, unten, links und rechts
 
@@ -65,7 +65,7 @@ Diese Struktur passte perfekt zum Parapara-Tanz, der das gleiche Muster wiederho
 
 - Klare Melodie-/Refrain-Struktur → Einfache Erstellung von Tanz-Choreografien
 
-- Dramatische Songentwicklung → passend zum Höhepunkt des Swings
+- Dramatische Songentwicklung → Passend zum Höhepunkt des Swings
 
 
 <hr>
@@ -78,7 +78,7 @@ Diese Struktur passte perfekt zum Parapara-Tanz, der das gleiche Muster wiederho
 
 - „Verknüpfte Produkte“, die ParaPara Floor- und CD-Shops verbinden
 
-- Erläuterungen zur Choreografie werden auf Jacken und Broschüren veröffentlicht.
+- Erläuterungen zur Choreographie werden auf Jacken und Broschüren veröffentlicht.
 
 ● Signiert mit einem exklusiven Eurobeat-Label
 
@@ -119,9 +119,9 @@ Auf diese Weise entstand Japans einzigartiger „Eurobeat-Markt“, der nach und
 
 ● „Aufwachen“ der YouTube-Generation
 
-- Ein zweiter Parapara-Boom findet lokal statt, da frühere Choreografievideos und Lieder online geteilt werden.
+- Ein zweiter Parapara-Boom findet vor Ort statt, da frühere Choreografievideos und Lieder online geteilt werden.
 
-- Es gibt auch Phänomene, bei denen ausländische Fans wiederentdecken und gelobt werden, als wären sie reimportiert.
+- Es gibt auch Phänomene, bei denen ausländische Fans wiederentdeckt werden und gelobt werden, als wären sie reimportiert worden.
 
 
 <hr>

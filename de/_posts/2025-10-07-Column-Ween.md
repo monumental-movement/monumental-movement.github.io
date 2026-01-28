@@ -17,7 +17,7 @@ title: '[Kolumne] Ween – Ein seltsames Universum, geboren aus einer Vorstadtga
 
 ## „Was ist Ween?“
 
-Text: mmr | Thema: Boognish, ein seltsamer Gott, geboren in einer Vorstadtgarage in Amerika. Von seinem Abstieg bis zur Lo-Fi-Alchemie und der Tiefseemythologie zeichnet „The Mollusk“ das musikalische Universum nach, das von den seltsamen Brüdern Ween geschaffen wurde.
+Text: mmr | Thema: Boognish, ein seltsamer Gott, geboren in einer Vorstadtgarage in Amerika. Von seinem Abstieg bis zur Lo-Fi-Alchemie und der Tiefsee-Mythologie zeichnet „The Mollusk“ das musikalische Universum nach, das von den seltsamen Brüdern Ween geschaffen wurde.
 
 
 > Eine versteckte Garage in einem Vorort von Amerika.
@@ -84,7 +84,7 @@ Es ist, als würde Boognish in der Ausrüstung leben.
 Der frühe Ween-Sound war die Magie des Homerecordings auf **4-Spur-Kassetten-MTR**.
 Rauschen und Verzerrungen bleiben erhalten. Es war kein „Dreck“, es war „Wahrheit“.
 Ihre Homerecordings sind eine Art Lo-Fi-Alchemie.
-„The Pod“ ist eine bizarre Mischung aus morbidem Lachen und psychedelischer Struktur.
+„The Pod“ ist eine bizarre Mischung aus krankhaftem Lachen und psychedelischer Struktur.
 Es löste bei den Zuhörern ein Unbehagen aus und löste gleichzeitig ein süchtig machendes Gefühl der Freude aus.
 
 ### Kontakt zur Underground-Szene

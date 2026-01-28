@@ -9,11 +9,11 @@ permalink: /fr/2cb-subhead-and-jamie-lidell-8/
 tags:
 - Techno
 - UK Techno
-title: 2CB, Subhead & Jamie Lidell – 8
+title: 2CB, sous-titre et Jamie Lidell – 8
 ---
 
 
-1998年にリリースされたJason LeachとPhil Wellsによるユニット2CB別名SubheadのテクノEP。
+Techno EP de Jason Leach et l'unité 2CB de Phil Wells alias Subhead, sorti en 1998.
 
 #### Liste des chansons
 ```md

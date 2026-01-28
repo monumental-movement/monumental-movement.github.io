@@ -183,7 +183,7 @@ Il présente des expériences réelles et des chroniques d'experts, et propose l
 La science de l’audition est aussi la science de notre sensibilité.
 La reproduction du son peut être la « reproduction de l'existence humaine ».
 Les activités de la Hearing Health Foundation transcendent les frontières entre la médecine et l'art.
-Il éclaire discrètement l’avenir de la culture autour de « l’écoute ».
+Il éclaire discrètement l’avenir de la culture entourant « l’écoute ».
 
 ---
 

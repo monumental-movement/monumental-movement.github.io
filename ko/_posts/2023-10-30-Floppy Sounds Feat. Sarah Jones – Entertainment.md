@@ -9,11 +9,11 @@ permalink: /ko/floppy-sounds-feat-sarah-jones-entertainment/
 tags:
 - House
 - Deep House
-title: 플로피 사운드 Feat. 사라 존스 - 엔터테인먼트
+title: 플로피 사운드 Feat. 사라 존스 – 엔터테인먼트
 ---
 
 
-Floppy Sounds로도 알려진 Rob Rives는 뉴욕 브루클린에 거주하는 미국 현대 무용계의 프로듀서이자 엔지니어입니다.
+Floppy Sounds로도 알려진 Rob Rives는 뉴욕 브루클린에 기반을 둔 미국 현대 무용계의 프로듀서이자 엔지니어입니다.
 
 보컬 Sarah Jones가 출연한 "Entertainment"는 1997년 Francois Kevorkian의 레이블 Wave Music을 통해 발매되었습니다.
 

@@ -13,7 +13,7 @@ title: 해고 – 시험관 아기
 ---
 
 
-※단면
+*단면
 
 Dismissed로도 알려진 Torsten Knuth는 DJ Schlumpf, Raul Rincon 등 다양한 이름으로 활동하는 독일 DJ/프로듀서입니다.
 

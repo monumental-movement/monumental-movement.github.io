@@ -108,7 +108,7 @@ color: #fff;
 
 ---
 
-#III. Japon : Une histoire de guitaristes silencieux et rugissants
+#III. Japon : silence et histoire rugissante des guitaristes
 
 ## 1. Après la guerre et l'avènement de l'électricité (années 1950 à 1970)
 
@@ -189,11 +189,11 @@ color: #fff;
 
 #IV. Redéfinir la guitare : appareil, corps, prière
 
-La guitare n'est pas seulement un instrument de musique, mais un moyen d'expression personnelle.
+La guitare n'est pas seulement un instrument de musique, mais un outil d'expression de soi.
 
 - **Philosophie du pédalier** : Création sonore = ego design. Chaque pédale devient une extension de la personnalité du joueur.
 - **Loop/Glitch/DAW** : « mémoire des doigts » étendue. Un seul artiste peut interpréter une expression orchestrale.
-- **Seiichi Yamamoto x Jim O'Rourke** : Relier le sous-sol de Kyoto au monde. A influencé la musique improvisée et expérimentale tant au niveau national qu'international.
+- **Seiichi Yamamoto x Jim O'Rourke** : Relier le monde depuis le sous-sol de Kyoto. A influencé la musique improvisée et expérimentale tant au niveau national qu'international.
 
 Keiji Haino considère la guitare comme une extension de son corps et de son esprit, et c'est une présence qui ébranle les sens de l'auditeur avec les extrêmes du son. La trinité improvisation, destruction et expression devient une coordonnée importante dans l’histoire de la guitare underground japonaise.
 
@@ -205,7 +205,7 @@ Keiji Haino considère la guitare comme une extension de son corps et de son esp
 
 La guitare a toujours été un symbole de liberté d'expression, de l'underground au monde. L'ère est arrivée où « la température et l'idéologie de l'interprète » sont plus importantes que la technique.
 
-> Le tremblement des cordes de guitare continue de résonner à travers les époques.
+> Le tremblement des cordes de guitare continue de résonner à travers les âges.
 
 
 ---

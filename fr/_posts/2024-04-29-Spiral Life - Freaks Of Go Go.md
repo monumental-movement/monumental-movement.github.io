@@ -9,17 +9,17 @@ permalink: /fr/spiral-life-freaks-of-go-go/
 tags:
 - Pop Rock
 - Synth-pop
-title: Spiral Life – Freaks Of Go Go Spectators 2
+title: Spiral Life – Freaks Of Go Go Spectateurs 2
 ---
 
 
-Spiral Life(スパイラルライフ)は、車谷浩司と石田ショーキチによる音楽ユニット。活動期間は1993年〜1996年。
+Spiral Life est une unité musicale composée de Koji Kurumatani et Shokichi Ishida. Période active : 1993-1996.
 
-「Freaks Of Go Go Spectators 2 」は1996年にリリースされたコンセプトミニアルバムで、新曲4曲とアルバム未収録シングルなどのremixを収録した全10曲。
+"Freaks Of Go Go Spectators 2" est un mini-album concept sorti en 1996, avec un total de 10 chansons, dont 4 nouvelles chansons et des remix de singles non inclus dans l'album.
 
-アルバム3曲目はタワーレコードのCMソングとして使用された。
+La troisième chanson de l'album a été utilisée comme chanson commerciale pour Tower Records.
 
-マスターはYMOなどを手がけたマスタリングエンジニア小池光夫。
+Le maître est l'ingénieur de mastering Mitsuo Koike, qui a travaillé sur YMO et d'autres.
 
 #### Liste des chansons
 ```md

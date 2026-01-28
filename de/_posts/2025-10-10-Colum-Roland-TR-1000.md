@@ -42,7 +42,7 @@ color: #fff;
 #### ── Der Vorfall des Erscheinens von TR-1000
 
 Der 2025 von Roland herausgebrachte **TR-1000** ist nicht nur eine Erweiterung der Serie.
-808, 909, 707... Diese Maschine, die am Ende der Geschichte auftauchte und den Groove der Zeit symbolisierte, ist eine „intellektuelle Rhythmusmaschine“, die „menschliche Beats“ lernt und neu interpretiert.
+808, 909, 707 ... Diese Maschine, die am Ende der Geschichte auftauchte und den Groove der Zeit symbolisierte, ist eine „intellektuelle Rhythmusmaschine“, die das „menschliche Gefühl für Takt“ lernt und neu interpretiert.
 
 In den 1980er Jahren wurden elektronische Rhythmen als „mechanischer Herzschlag“ bezeichnet. Was der TR-1000 jedoch bietet, ist das Gegenteil: **„Eine Maschine versteht den menschlichen Herzschlag“**.
 Digital und analog, KI und Emotionen. An dieser Grenze liegt die Philosophie, die Roland ein halbes Jahrhundert lang kultiviert hat.
@@ -78,7 +78,7 @@ Reaktionsfähigkeit, als ob der Rhythmus „atmen“ würde. Aus diesem Grund le
 
 ---
 
-### Kapitel 4 Akustische Struktur: Entwicklung des Tieftonbereichs und der Rhythmustextur
+### Kapitel 4 Akustische Struktur: Entwicklung tiefer Frequenzen und rhythmischer Textur
 #### ── Um den „Geist des 808-Kicks“ zu überwinden
 
 Das Herzstück des TR-1000 ist eine Low-End-Designphilosophie.
@@ -102,7 +102,7 @@ Die „Humanize“-Funktion analysiert den Leistungsverlauf und modelliert die G
 Es „lernt“ den Rhythmus der Fingerspitzen des Spielers und gibt ihn als Klang zurück.
 Mit anderen Worten, der TR-1000 ist auch eine „Maschine, die auf menschliche Leistungen hört“.
 
-Dieser Dialog hat sich seit den Tagen entwickelt, als die 808 einen „mechanischen Groove“ zu einem „resonanten Rhythmus“ lieferte.
+Dieser Dialog hat sich von den Tagen, als der 808 einen „mechanischen Groove“ lieferte, zu einem „resonanten Rhythmus“ entwickelt.
 
 ---
 
@@ -124,7 +124,7 @@ Im kulturellen Kontext bedeutet der TR-1000 keine „Erweiterung der Nostalgie�
 Die Designphilosophie des TR-1000 konvergiert letztlich in einer Frage.
 **„Wer macht den Beat?“**
 Es ist eine Maschine, die das Tempo im Auge behält, aber warum spüre ich darin ein Gefühl der Menschlichkeit?
-Durch die Verschmelzung von KI und Analog hat der TR-1000 Beats auf die Ebene des „Teilens“ gebracht, anstatt sie zu „generieren“.
+Durch die Verschmelzung von KI und Analog hat der TR-1000 Beats auf die Stufe des „Teilens“ gebracht, anstatt sie zu „generieren“.
 
 Musik ist der Ausdruck von Intelligenz, die im Rhythmus liegt.
 Diese Maschine hinterfragt ihre Wurzeln und ist nicht nur ein Gadget.

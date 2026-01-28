@@ -81,7 +81,7 @@ He put into practice the philosophy that ""the place itself becomes an instrumen
 
 ---
 
-## V. Traveling through sound: from India to Europe (1971–1972)
+## V. Traveling through sound: From India to Europe (1971–1972)
 
 In 1971, the Taj Mahal Tour Group departs for a tour of Europe.
 Their journey was not just a tour, but a ""sound pilgrimage.''
@@ -146,7 +146,7 @@ He also influenced Brian Eno and Robert Ashley.
 
 ---
 
-## IX. Later activities and evaluation
+## IX. Activities and evaluation in later years
 
 Since the 1980s, Kosugi has served as music director of the Merce Cunningham Dance Company.
 While inheriting the philosophy of John Cage, he deepened the integration of dance and sound.
@@ -174,10 +174,10 @@ This is the most important message that Kosugi left us.
 | 1965–68 | Fluxus-like performances (Sogetsu Art Center, etc.) |
 | 1969 | "Taj Mahal Travel Group" formed |
 | 1971–72 | Musical pilgrimage from India to Europe |
-| 1972 | 《Taj Mahal Travelers – July 15, 1972》 Announcement |
+| 1972 | 《Taj Mahal Travelers – July 15, 1972》Announcement |
 | 1975 | Solo work "Catch-Wave" released |
 | 1977–90s | Merce Cunningham Dance Company Music Director |
-| 2018 | Passed away. Passed away at the age of 80.                                |
+| 2018 | Passed away. He passed away at the age of 80.                                |
 
 ---
 
@@ -204,6 +204,6 @@ It was a spiritual journey that transcended the institution of music and resonat
 > ― Takehisa Kosugi
 
 Even now, half a century later, the sounds they emitted still resonate.
-It continues to vibrate quietly in the air, in the memory, and deep in the hearts of the listeners.
+It continues to vibrate quietly in the air, in the memories, and deep in the hearts of the listeners.
 
 ---

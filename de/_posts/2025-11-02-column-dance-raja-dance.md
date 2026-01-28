@@ -80,7 +80,7 @@ Die Handlung ist einfach, aber bemerkenswert ist die Integration von Produktion 
 
 Nach dem Erfolg von „Disco Dancer“ (1982, Hindi) und „Ilamai Oonjal Aadukirathu“ (1978, Tamil) verbreitete sich die Disco-Kultur in ganz Indien als Symbol für „Tanz = Freiheit“.
 
-In Südindien nahm dieser Trend eine einzigartige Variante an. Während Mumbais Diskotheken einen „städtischen Traum“ darstellten, waren Diskotheken in Kannada-Filmen ein Ausdruck von „Regionalstolz“**.
+In Südindien nahm dieser Trend eine einzigartige Variante an. Während Mumbais Diskotheken einen „städtischen Traum“ darstellten, waren Diskotheken in Kannada-Filmen Ausdruck von „Regionalstolz“**.
 
 Vijaya Anands Musik verbindet ländliche und städtische Rhythmen, indem sie Elektronik mit Folk-Percussion-Instrumenten (Thaviru, Dhol, Nadaswaram) verbindet.
 Diese „Hybridität“ ist der Kern der südindischen Musik.
@@ -135,7 +135,7 @@ A.R. Rehmans frühe Werke Roja (1992) und die Grundlagen urbaner Soundtracks wie
 Im 21. Jahrhundert wird „Dance Raja Dance“ durch YouTube und Spotify neu bewertet.
 Die damaligen Bilder und Musik sind kein „Kitsch“, sondern werden als **südindischer Futurismus** umgedeutet.
 
-Für junge Menschen, die Kannada sprechen, ist dies nicht nur Nostalgie, sondern ein Ausgangspunkt für den kulturellen Selbstausdruck, der sich vom Lokalen ins Globale bewegt.
+Für junge Menschen in der Kannada-sprechenden Welt ist dies nicht nur Nostalgie, sondern ein Ausgangspunkt für den kulturellen Selbstausdruck, der sich vom Lokalen ins Globale bewegt.
 
 ---
 

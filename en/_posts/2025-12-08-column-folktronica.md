@@ -52,7 +52,7 @@ Main features:
 - Digital editing (cut-up, granular processing)
 - Field recording texture
 - Simple but emotional melody
-- Coexistence of "touch" and "artificial object"
+- Coexistence of "touch" and "artificial objects"
 
 ### ■ What is Indietronica?
 The flow of introducing electronic music into the context of indie rock.
@@ -126,7 +126,7 @@ Example: Four Tet is known for their editing of everyday sounds.
 
 ---
 
-## 4. Genre history
+## 4. History of the genre
 
 <div class="mermaid">
 timeline

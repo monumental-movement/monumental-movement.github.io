@@ -10,13 +10,13 @@ tags:
 - Hard Trance
 - Trance
 - 00s
-title: Club Crashers – Hell Yeah!
+title: Club Crashers – Bon sang ouais !
 ---
 
 
-Club CrashersことJochen Miller (Jochen van der Steijn / DJ Jochen) は、オランダ出身のDJ／ミュージシャン。
+Jochen Miller (Jochen van der Steijn / DJ Jochen), également connu sous le nom de Club Crashers, est un DJ/musicien néerlandais.
 
-「Hell Yeah!」は、2001年にオランダのHard House/Hard TranceレーベルPatriott Hard-Beatからリリースされたハードトランス。
+"Enfer ouais!" est une chanson hard trance sortie sur le label néerlandais Hard House/Hard Trance Patriot Hard-Beat en 2001.
 
 #### Liste des chansons
 ```md

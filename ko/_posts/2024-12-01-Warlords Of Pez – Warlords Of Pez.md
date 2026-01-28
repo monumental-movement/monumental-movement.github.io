@@ -9,7 +9,7 @@ permalink: /ko/warlords-of-pez-warlords-of-pez/
 tags:
 - Rock
 - 00s
-title: 페즈의 전쟁군주 - 페즈의 전쟁군주
+title: 페즈의 전쟁군주 – 페즈의 전쟁군주
 ---
 
 

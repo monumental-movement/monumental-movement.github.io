@@ -56,7 +56,7 @@ L'Orb intègre le traitement spatial de l'ambiant, de la techno et du dub, prés
 
 Ce qui est remarquable, c'est que même dans les scènes où le rythme est au premier plan, il ne montre jamais sa force motrice. Le battement n'est pas un appareil qui dirige le mouvement, mais sert plutôt de point de référence pour mesurer la profondeur.
 
-Cette philosophie de conception est devenue la base de l'Ambient Techno et a eu une influence décisive sur les expressions ultérieures de Deep Ambient et de deep-sea techno.
+Cette philosophie de conception est devenue la base de l'Ambient Techno et a eu une influence décisive sur les expressions ultérieures de la Deep Ambient et de la deep-sea techno.
 
 
 ---
@@ -76,7 +76,7 @@ En acoustique des grands fonds, les basses fréquences n’existent pas uniqueme
 
 Les basses n'ont souvent pas une attaque claire, montant lentement et déclinant lentement. En conséquence, l’auditeur est placé dans un état dans lequel il n’« entend » pas le son, mais le « ressent » comme une pression acoustique.
 
-Du bas-médium au médium, des sons soutenus avec des harmoniques supprimées sont placés, ce qui sert à égaliser la densité du son.
+Du médium-bas au médium, des sons soutenus avec des harmoniques supprimées sont placés, ce qui sert à égaliser la densité du son.
 
 
 ---
@@ -101,7 +101,7 @@ La musique d'ambiance des profondeurs marines a une grande affinité avec la con
 
 ## 8. Redéfinir le rythme
 
-Le rythme dans Ambient Techno n'est pas une commande pour bouger le corps. Les impulsions qui apparaissent à intervalles réguliers constituent la base de la mesure du temps, à la manière d'un profondimètre.
+Le rythme dans Ambient Techno n'est pas une commande pour bouger le corps. Les impulsions qui apparaissent à intervalles réguliers constituent la base de la mesure du temps, comme un profondimètre.
 
 Dans Deep Ambient, même cette norme peut être supprimée, mais plutôt que d'être complètement intemporelle, le temps interne est maintenu à travers d'infimes fluctuations.
 
@@ -130,7 +130,7 @@ Alors qu'Ambient Techno/Deep Ambient se démarque de la nature du club, Deep Tec
 
 Dans la production techno moderne, les expressions à vitesse lente et à faible stimulation qui diffèrent des styles orientés vers les heures de pointe sont répandues. Il ne s’agit pas d’un déclin du genre, mais d’un élargissement de ses usages.
 
-L’acoustique des grands fonds est devenue un langage commun dans les clubs, les galeries et les espaces de travail privés.
+L'acoustique des grands fonds est devenue un langage commun dans les clubs, les galeries et les espaces de travail privés.
 
 
 ---

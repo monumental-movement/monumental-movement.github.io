@@ -53,7 +53,7 @@ Bemerkenswert ist, dass er seine Werke unter mehreren Namen veröffentlichte. Un
 
 ---
 
-## Kapitel 3: Album-Dekonstruktion – Die Tiefen eines großartigen Albums
+## Kapitel 3: Albumdekonstruktion – Die Tiefen eines großartigen Albums
 
 ### „Sakura“ (1999)
 Susumu Yokotas Meisterwerk und ein monumentales Werk in der Geschichte der Ambient-Musik.
@@ -68,7 +68,7 @@ Barocke und impressionistische Melodien lösen sich in Yokotas Händen in einem 
 
 ### „Grinsende Katze“ (2000)
 Ein Album mit märchenhaftem Weltbild, mit angenehmer, fantastischer Akustik.
-Es entsteht ein Gefühl der Verspieltheit, das über den Rahmen bloßer Ambient-Musik hinausgeht. Es hat die Kraft, den Hörer dazu zu bringen, sich eine Geschichte vorzustellen und gleichzeitig die Form des Klangs zu verändern.
+Es entsteht ein Gefühl der Verspieltheit, das über den Rahmen bloßer Ambient-Musik hinausgeht. Es hat die Kraft, den Zuhörer dazu zu bringen, sich eine Geschichte vorzustellen und gleichzeitig die Form des Klangs zu verändern.
 
 ### „Der Junge und der Baum“ (2003)
 Es hat eine Atmosphäre, die sich anfühlt, als wäre es in einem Wald aufgenommen worden, und einen Rhythmus, der einen an den Herzschlag des Lebens denken lässt.
@@ -169,5 +169,5 @@ Susumu Yokotas Musik wird nicht durch auffällige Melodien und Beats erzählt, s
 In dieser Stille wohnen der Lärm der Stadt, der Atem der Natur und die menschliche Erinnerung.
 Die Musik, die er hinterlassen hat, ist nicht nur eine Sammlung von Werken, sondern ein Spiegel, der das innere Selbst des Zuhörers widerspiegelt.
 
-Auch wenn der Ton verstummt, bleibt etwas in deinem Herzen.
+Selbst nachdem der Ton verstummt ist, bleibt etwas in meinem Herzen.
 Das ist der großartigste „Sound“, den der Musiker Susumu Yokota der Welt hinterlassen hat.

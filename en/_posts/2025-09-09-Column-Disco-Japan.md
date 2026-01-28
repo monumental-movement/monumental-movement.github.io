@@ -24,13 +24,13 @@ title: '[Column] From the intersection of disco and Japanese culture to the pres
 Text: mmr｜Theme: Japan's unique reception and development of disco, which developed mainly in the United States in the 1970s
 
 
-Disco was born in the United States in the 1970s and exploded along with urban culture, a sense of liberation among black and Latinx communities, and advances in technology. Around the same time, "New York craze" was imported to Japan and spread to nightlife centers such as Roppongi, Akasaka, and Ginza. In this article, we will trace the relationship between disco and Japanese culture by decade, and organize the most famous records, equipment, club history, and recommended tracks.
+Disco was born in the United States in the 1970s and exploded along with urban culture, a sense of liberation among black and Latinx communities, and advances in technology. Around the same time, "New York craze" was imported to Japan and spread to nightlife centers such as Roppongi, Akasaka, and Ginza. In this article, we'll trace the relationship between disco and Japanese culture by decade, and organize representative masterpieces, equipment, club history, and recommended tracks.
 
 ---
 
 ## 1970s — Birth of disco and its introduction in Japan
 - **Background**
-Established in the United States as a crossroads of gay, Latin, and Afro-American cultures. After the Osaka Expo (1970), ""discotique" spread amidst the rapid introduction of Western culture, with Roppongi ""Chianti" and Akasaka ""Mugen'' becoming symbolic.
+Established in the United States as a crossroads of gay, Latin, and Afro-American cultures. After the Osaka Expo (1970), ""discotique" spread with the rapid introduction of Western culture, with Roppongi ""Chianti" and Akasaka ""Mugen'' becoming symbolic.
 
 - **Representative masterpieces (overseas)**
 - Donna Summer — *Love to Love You Baby* (1975)
@@ -176,7 +176,7 @@ Moved from "Juliana Tokyo" to Shibuya Club Culture. The disco generation evolved
 
 ## 2000s — The rise of Nu-Disco and club restructuring
 - **Background**
-"Nu-Disco" and electroclash are popular worldwide. The disco revival is progressing in Japan as well, and the band is once again in the spotlight in the club scene.
+"Nu-Disco" and electroclash are popular worldwide. The disco revival is progressing in Japan, and the club scene is once again in the spotlight.
 
 - **Representative masterpieces (overseas)**
 - Daft Punk — *Discovery* (2001)
@@ -301,7 +301,7 @@ City pop/disco is spreading on TikTok and YouTube. Analog disco events are once 
 | Levitating | Dua Lipa | Popular on TikTok |
 | Say So | Doja Cat | Very popular in Japan |
 | Disco | Kylie Minogue | Modern disco as the title suggests |
-| Rain on Me | Lady Gaga & Ariana Grande | Dance-pop revival |
+| Rain on Me | Lady Gaga & Ariana Grande | Dance-pop comeback |
 | Funk to the Future | Night Tempo | Future Funk interpretation from Japan |
 | Leave the Door Open | Silk Sonic | Soul x Disco fusion |
 | Break My Soul | Beyoncé | House and disco fusion |

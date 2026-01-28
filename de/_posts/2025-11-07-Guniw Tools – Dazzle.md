@@ -15,7 +15,7 @@ title: Guniw Tools – Dazzle
 ---
 
 
-Guniw Tools ist eine Band, die seit Anfang der 1990er Jahre aktiv ist. Sein einzigartiger Stil besteht darin, Requisiten, Fotografie, Bearbeitung usw. zu verwenden und alle seine Alben zu visualisieren und so seine Weltanschauung visuell und akustisch zum Ausdruck zu bringen.
+Guniw Tools ist eine Band, die seit Anfang der 1990er Jahre aktiv ist. Sein unverwechselbarer Stil besteht darin, mithilfe von Requisiten, Fotografie, Bearbeitung usw. Visuals und Bilder aller seiner Alben zu erstellen, um seine Weltanschauung visuell und hörbar auszudrücken.
 
 Bei dieser CD handelt es sich um die Originalversion „Dazzle“, die 1998 vom Label Happy House veröffentlicht wurde. Wird mit einem 3D-Aufkleber geliefert, der nur in der Originalversion enthalten ist
 

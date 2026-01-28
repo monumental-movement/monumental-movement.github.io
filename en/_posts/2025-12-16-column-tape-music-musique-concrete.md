@@ -134,7 +134,7 @@ The studio has come to be seen as a sound design space rather than a performance
 
 Tape music did not necessarily require a beginning, development, and end.
 
-### 9.2 Listening re-education
+### 9.2 Listening Retraining
 
 The process by which real sounds were abstracted required listeners to direct their attention in a new way.
 
@@ -154,7 +154,7 @@ The recognition that recordings themselves were works of art took root during th
 
 ## 11. Chronology
 
-* 1940s: Popularization of magnetic tape recording
+* 1940s: The spread of magnetic tape recording
 * 1950s: Systematization of Gutai music
 * 1960s: Development of electronic music studios
 * 1970s: Reappraisal through fusion of improvisation, noise, and electronic music

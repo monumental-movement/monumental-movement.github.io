@@ -21,7 +21,7 @@ Text: mmr｜Thema: Anstatt die beiden als Genrenamen zu trennen, geht es bei bei
 
 Ambient Techno ist ein Bereich der elektronischen Musik, der in den frühen 1990er Jahren gegründet wurde und ein Musikstil ist, der die repetitive rhythmische Struktur von Techno mit der Räumlichkeit und Nachhaltigkeit von Ambient-Musik verbindet. Seine Besonderheit besteht darin, dass es das Zeitgefühl der Clubmusik beibehält und gleichzeitig als Musik der Wertschätzung fungiert.
 
-Deep Ambient (sog. Deep-Sea-Ambient) hat einen höheren Abstraktionsgrad und erfordert keine Anwesenheit von Beats. Der Schwerpunkt liegt auf extrem tiefen Klangbildern, anhaltenden Klängen mit Schwerpunkt auf niedrigen Frequenzbändern und Kompositionen, die die Konturen der Zeit verschleiern.
+Deep Ambient (sog. Deep-Sea-Ambient) weist einen höheren Abstraktionsgrad auf und erfordert keine Anwesenheit von Beats. Der Schwerpunkt liegt auf extrem tiefen Klangbildern, anhaltenden Klängen mit Schwerpunkt auf niedrigen Frequenzbändern und Kompositionen, die die Konturen der Zeit verschleiern.
 
 ---
 
@@ -63,9 +63,9 @@ Diese Designphilosophie wurde zur Grundlage von Ambient Techno und hatte einen e
 
 ## 4. Metapher des Tiefseegefühls
 
-Das Wort „Tiefsee“ ist kein Musikgenre, sondern eine akustische Metapher. Der Kern von Deep-Sea-Ambient ist der Versuch, durch Klang eine Umgebung nachzubilden, in die das Licht nicht gelangt, der Sinn für Distanz verloren geht und der Sinn für Richtung mehrdeutig ist.
+Das Wort „Tiefsee“ ist kein Musikgenre, sondern eine akustische Metapher. Der Kern von Deep-Sea-Ambient ist der Versuch, durch Klang eine Umgebung nachzubilden, die das Licht nicht erreicht, das Gefühl für Distanz verloren geht und das Gefühl für die Richtung mehrdeutig ist.
 
-Diese Metapher ist kein Zufall. In tiefem Wasser werden hohe Frequenzen gedämpft und niedrige Frequenzen breiten sich über große Entfernungen aus. Der Ort der Schallquelle wird unklar und der Schall wird als Schicht statt als Punkt wahrgenommen. Deep Sea Ambient nutzt diesen physikalischen Zustand in seinem akustischen Design.
+Diese Metapher ist kein Zufall. In tiefem Wasser werden hohe Frequenzen gedämpft und niedrige Frequenzen breiten sich über große Entfernungen aus. Der Standort der Schallquelle wird unklar und der Schall wird als Schicht und nicht als Punkt wahrgenommen. Deep Sea Ambient nutzt diesen physikalischen Zustand in seinem akustischen Design.
 
 
 ---

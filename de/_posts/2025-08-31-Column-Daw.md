@@ -64,7 +64,7 @@ MIDI (Musical Instrument Digital Interface) ist ein Standard zum Austausch von N
 
 ### Der Aufstieg von Computern und Software (1990er Jahre)
 
-Verbesserungen der Computerleistung und der praktische Einsatz der Festplattenaufzeichnung haben es möglich gemacht, Audiowellenformen digital zu bearbeiten. Avids Pro Tools (damals Digidesign) ermöglichte digital professionelle Aufnahme- und Bearbeitungsworkflows und wurde zum Industriestandard für Film-, Rundfunk- und Musikproduktion. Gleichzeitig wurden Software-Sequenzer/umfassende DAWs wie Cubase von Steinberg und Logic von Emagic (später von Apple übernommen) populär. Darüber hinaus erweiterte das von Steinberg vorgeschlagene VST-Plug-In (Virtual Studio Technology) das Ökosystem, indem es Dritten einen Mechanismus zur Entwicklung von Software-Soundquellen und -Effekten bereitstellte.
+Verbesserungen der Computerleistung und der praktische Nutzen der Festplattenaufzeichnung haben es möglich gemacht, Audiowellenformen digital zu bearbeiten. Avids Pro Tools (damals Digidesign) ermöglichte digital professionelle Aufnahme- und Bearbeitungsworkflows und wurde zum Industriestandard für Film-, Rundfunk- und Musikproduktion. Gleichzeitig wurden Software-Sequenzer/umfassende DAWs wie Cubase von Steinberg und Logic von Emagic (später von Apple übernommen) populär. Darüber hinaus erweiterte das von Steinberg vorgeschlagene VST-Plug-In (Virtual Studio Technology) das Ökosystem, indem es Dritten einen Mechanismus zur Entwicklung von Software-Soundquellen und -Effekten bereitstellte.
 
 <hr>
 

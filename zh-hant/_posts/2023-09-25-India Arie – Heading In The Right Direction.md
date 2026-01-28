@@ -9,7 +9,7 @@ permalink: /zh-hant/india-arie-heading-in-the-right-direction/
 tags:
 - House
 - Soul
-title: India Arie——朝著正確的方向前進
+title: 印度·阿里——朝著正確的方向前進
 ---
 
 

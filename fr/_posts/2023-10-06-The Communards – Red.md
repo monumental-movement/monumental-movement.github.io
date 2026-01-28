@@ -17,7 +17,7 @@ title: Les Communards – Rouge
 
 "Red" est le premier album des Communards et est largement considéré comme l'une de leurs œuvres les plus réussies. L'album présente des chansons avec des voix émotionnelles et des rythmes dansants.
 
-L'album comprend des singles à succès tels que "Don't Leave Me This Way" et "Never Can Say Goodbye". Ces chansons ont connu un succès commercial en raison du son distinctif des Communards et de leur popularité sur la piste de danse.
+L'album comprend des singles à succès tels que "Don't Leave Me This Way" et "Never Can Say Goodbye". Ces chansons ont connu un succès commercial en raison du son distinctif et de la popularité du dancefloor des Communards.
 
 #### Liste des chansons
 ```md

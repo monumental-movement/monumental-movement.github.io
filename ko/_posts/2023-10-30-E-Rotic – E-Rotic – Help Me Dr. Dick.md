@@ -15,7 +15,7 @@ title: E-Rotic – 도와주세요 Dr. Dick
 ---
 
 
-E-Rotic은 1994년에 결성된 독일 유로댄스 그룹입니다. 초기 멤버는 보컬 Lyane Leigh와 래퍼 Richard Michael Smith(일명 Raz-Ma-Taz)였습니다. 프로듀서는 데이비드 브랜데스(David Brandes)입니다.
+E-Rotic은 1994년에 결성된 독일 유로댄스 그룹입니다. 초기 멤버는 보컬 Lyane Leigh와 래퍼 Richard Michael Smith(일명 Raz-Ma-Taz)였습니다. 프로듀서: 데이비드 브랜데스.
 
 "Help Me Dr. Dick"은 독일 슈투트가르트의 댄스 팝 레이블 Blow Up이 1996년에 발매한 유로하우스/유로댄스 트랙입니다.
 

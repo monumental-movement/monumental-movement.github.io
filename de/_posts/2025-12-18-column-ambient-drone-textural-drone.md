@@ -23,7 +23,7 @@ Text: mmr｜Thema: Über Drohnen, die Musik von zeitlicher Kunst zu räumlicher 
 
 Drone ist ein musikalisches Prinzip, das anhaltenden Klang nutzt, um unser Zeitgefühl, unser räumliches Bewusstsein und unsere auditive Konzentration zu verändern. Es ist insofern einzigartig, als es Tonhöhe, Obertöne, Klangfarbe und Dauer als Struktureinheiten anstelle von Melodie und harmonischem Verlauf verwendet. Zu den frühen Beispielen in der Geschichte der westlichen Musik zählen der Bolden des Dudelsacks, der Orgelpunkt der Orgel und die anhaltenden Bassnoten religiöser Musik.
 
-Seit dem späten 20. Jahrhundert, mit der Entwicklung der Aufnahmetechnik und der elektronischen Akustik, hat sich der Bordun von einem bloßen Begleitelement zur Hauptstruktur eines gesamten Stücks entwickelt. Durch diesen Prozess entstand Ambient Drone, gefolgt von Textural Drone, bei dem Tonveränderungen und die Schichtung physischer Texturen im Vordergrund stehen.
+Seit dem späten 20. Jahrhundert, mit der Entwicklung der Aufnahmetechnik und der elektronischen Akustik, hat sich der Bordun von einem bloßen Begleitelement zum Hauptgerüst des gesamten Werks entwickelt. Durch diesen Prozess entstand Ambient Drone, gefolgt von Textural Drone, bei dem Tonveränderungen und die Schichtung physischer Texturen im Vordergrund stehen.
 
 ---
 
@@ -63,7 +63,7 @@ Textural Drone zeichnet sich durch eine Struktur aus, bei der mehrere Tonschicht
 
 ### 2-2. Schichttechniken
 
-Durch die Überlagerung mehrerer Titel wird die Musik von einer linearen Struktur zu einer Oberflächenstruktur. Jede Schicht hat eine unabhängige Periode und Modulationsgeschwindigkeit, wodurch insgesamt asynchrone Schwankungen entstehen.
+Durch die Überlagerung mehrerer Titel wird die Musik von einer linearen Struktur zu einer flächigen Struktur. Jede Schicht hat eine unabhängige Periode und Modulationsgeschwindigkeit, wodurch insgesamt asynchrone Schwankungen entstehen.
 
 <div class="mermaid">
 flowchart LR
@@ -79,7 +79,7 @@ flowchart LR
 
 ### 3-1. Arbeitsmerkmale
 
-Stars of the Lid verwendet Streicher, Blechbläser und elektronische Klänge und zeichnet sich durch eine äußerst langsame Entwicklung aus. In ihren Werken werden klare melodische Verläufe und Rhythmen eliminiert, die Hauptstruktur ist die Beibehaltung der Harmonie und das Atmen der Töne.
+Stars of the Lid verwendet Streicher, Blechbläser und elektronische Klänge und zeichnet sich durch eine äußerst langsame Entwicklung aus. In ihren Werken werden klare melodische Verläufe und Rhythmen eliminiert, die Hauptstruktur ist das Aufrechterhalten der Harmonie und das Atmen der Töne.
 
 ### 3-2. Aufnahme und Mischung
 

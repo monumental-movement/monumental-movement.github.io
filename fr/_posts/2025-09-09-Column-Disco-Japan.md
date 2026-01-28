@@ -31,7 +31,7 @@ Le disco est né aux États-Unis dans les années 1970 et a explosé avec la cul
 
 ## Années 1970 — Naissance du disco et son introduction au Japon
 - **Arrière-plan**
-Établi aux États-Unis comme carrefour des cultures gay, latine et afro-américaine. Après l'Expo d'Osaka (1970), la « discothèque » s'est répandue au milieu de l'introduction rapide de la culture occidentale, Roppongi « Chianti » et Akasaka « Mugen » devenant symboliques.
+Établi aux États-Unis comme carrefour des cultures gay, latine et afro-américaine. Après l'Expo d'Osaka (1970), la « discothèque » s'est répandue avec l'introduction rapide de la culture occidentale, Roppongi « Chianti » et Akasaka « Mugen » devenant symboliques.
 
 - **Chefs-d'œuvre représentatifs (à l'étranger)**
 -Donna Summer — *J'adore t'aimer bébé* (1975)
@@ -123,7 +123,7 @@ Formation des fondements de la « fan dance culture » qui s'est poursuivie avec
 | Comme une vierge | Madone | Symbolise la naissance d’une icône pop féminine. |
 | Je ressens pour toi | Chaka Khan | Une fusion de hip-hop et de disco. |
 | Héros dansant | Yoko Oginome | Un hit synonyme de disco japonais. |
-| DÉSIR -Passion- | Akina Nakamori | Une fusion de rythmes disco et de chansons pop. |
+| DÉSIR -Passion- | Akina Nakamori | Une fusion de rythme disco et de chansons pop. |
 | Groovons | Terre, vent et feu | Un pont entre le funk et le disco. |
 | Parole ! | Camée | Classique disco basé sur le funk. |
 | Célébration | Kool et le gang | Une chanson classique du festival. |
@@ -259,8 +259,8 @@ Tatsuro Yamashita, Taeko Onuki, Mariya Takeuchi et d'autres ont été redécouve
 | Je ne peux pas arrêter le sentiment | Justin Timberlake | Discothèque Pop |
 | La Baie | Métronomie | Nu-Disco Indépendant |
 | DANSE. | Justice | Électro x Disco |
-| Je me sens mieux | Puce chaude | Électro-pop |
-| Feux rouges | Liens | Intersection de l'EDM et du Nu-Disco |
+| Je me sens mieux | Puce chaude | Orienté électropop |
+| Feux rouges | Tiesto | Intersection de l'EDM et du Nu-Disco |
 
 
 ---
@@ -302,7 +302,7 @@ La city pop/disco se répand sur TikTok et YouTube. Les événements disco analo
 | Lévitation | Dua Lipa | Populaire sur TikTok |
 | Dis-le | Chat Doja | Très populaire au Japon |
 | Discothèque | Kylie Minogue | Disco moderne comme le titre l'indique |
-| Pluie sur moi | Lady Gaga et Ariana Grande | Renouveau dance-pop |
+| Pluie sur moi | Lady Gaga et Ariana Grande | Retour dance-pop |
 | Funk vers le futur | Tempo de nuit | Interprétation Future Funk du Japon |
 | Laissez la porte ouverte | Soie Sonic | Fusion Soul x Disco |
 | Briser mon âme | Beyoncé | Fusion house et discothèque |

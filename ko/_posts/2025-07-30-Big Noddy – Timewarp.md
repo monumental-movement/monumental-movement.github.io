@@ -10,7 +10,7 @@ tags:
 - House
 - Hard House
 - 90s
-title: 빅 노디 – 타임워프
+title: 빅 노디 - 타임워프
 ---
 
 

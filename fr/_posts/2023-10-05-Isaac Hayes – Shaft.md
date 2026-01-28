@@ -16,7 +16,7 @@ title: Isaac Hayes – Puits
 
 Il a été créé comme bande originale du film Shaft et est responsable de la musique du film policier classique de blaxploitation réalisé par Gordon Parks. Cet album a été acclamé par la critique et considéré comme l’une des plus grandes bandes originales de tous les temps.
 
-Isaac Hayes a composé et interprété la musique de « Shaft ». Cet album présente ses arrangements soul, funk et orchestraux emblématiques. L'album comprenait la chanson thème emblématique, "Theme from Shaft", qui a été un énorme succès et a valu à Hayes l'Oscar de la meilleure chanson originale. Le groove contagieux de la chanson, le riff de guitare mémorable et la voix douce et émouvante de Hayes en ont fait un classique instantané.
+Isaac Hayes a composé et interprété la musique de « Shaft ». Cet album présente ses arrangements soul, funk et orchestraux signature. L'album comprenait la chanson thème emblématique, "Theme from Shaft", qui a été un énorme succès et a valu à Hayes l'Oscar de la meilleure chanson originale. Le groove contagieux de la chanson, le riff de guitare mémorable et la voix douce et émouvante de Hayes en ont fait un classique instantané.
 
 #### Liste des chansons
 ```md

@@ -9,15 +9,15 @@ permalink: /fr/hertz-look-back-to-see-the-future-ep/
 tags:
 - Techno
 - Tech House
-title: Hertz – Look Back To See The Future EP
+title: Hertz – Regardez en arrière pour voir le futur EP
 ---
 
 
-Hertz（ヘルツ）は、2001年から活動しているPierre Jerkstenによるテクノプロジェクト。
+Hertz est un projet techno de Pierre Jerksten actif depuis 2001.
 
-2009年から2012年まではPetter Bとのデュオで活動していたHertzは、Defected、Toolroom Records、Underwater Records、Drumcode、Craft Music、Tresor、Virgin & Universalなど数多くのレーベルからリリースしている。
+Hertz, qui était en duo avec Petter B de 2009 à 2012, a sorti sur de nombreux labels, dont Defected, Toolroom Records, Underwater Records, Drumcode, Craft Music, Tresor et Virgin & Universal.
 
-「Look Back To See The Future EP」は、UmekとValentino Kanzyaniが設立したRecycled Loopsより2004年にリリースされたテクノ・テックハウストラック。
+"Look Back To See The Future EP" est un morceau techno/tech house sorti en 2004 par Recycled Loops, fondé par Umek et Valentino Kanzyani.
 
 #### Liste des chansons
 ```md

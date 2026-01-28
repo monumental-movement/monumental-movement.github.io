@@ -12,23 +12,23 @@ tags:
 - Punk
 - Jazz
 - History
-title: 【コラム】 10インチの誘惑——フォーマットが語る音の美学
+title: '[Chronique] Tentation 10 pouces : L''esthétique du son racontée par le format'
 ---
 
 
-## 10インチという「中間のフォーマット」
+## « Format intermédiaire » de 10 pouces
 
 
-文：mmr｜テーマ：7インチでも12インチでもない。10インチという中間フォーマットが語る、音の美学と時代の記憶
+Texte : mmr｜Thème : Ni 7 pouces ni 12 pouces. L'esthétique du son et les souvenirs du temps racontés par le moyen format 10 pouces
 
 
-10インチレコード。  
-その言葉には、ある種の曖昧さが宿っている。7インチシングルの即効性とも、12インチLPの充足感とも異なる、中途半端でありながらも独特の存在感。レコードの歴史をひもとくと、この“中間のフォーマット”がいかに時代の転換点を彩ってきたかが見えてくる。
+Disque de 10 pouces.
+Il y a une certaine ambiguïté dans ce mot. Il a une présence unique mais à moitié finie qui est différente de l'effet immédiat d'un single de 7 pouces ou de la sensation satisfaisante d'un LP de 12 pouces. Si l’on regarde l’histoire des records, on voit comment ce « format intermédiaire » a marqué un tournant dans les temps.
 
-10インチは、単なるサイズの問題ではない。それは「時間の長さ」や「音の密度」を再定義する、もうひとつの哲学でもあった。片面10分前後という制約は、アーティストやエンジニアに「凝縮する」という選択を迫り、その結果として、驚くほど粒立ちの良い音と、集中力を要する聴取体験を生んだ。
+10 pouces n’est pas seulement une question de taille. C'était aussi une autre philosophie qui redéfinissait la « durée » et la « densité du son ». La restriction d'environ 10 minutes par face obligeait les artistes et les ingénieurs du son à choisir la « condensation », et le résultat était un son étonnamment bien défini et une expérience d'écoute qui exigeait de la concentration.
 
-“聴き終わるまでにちょうど一服できる長さ”。  
-そんな時間感覚の中にこそ、10インチの美学は宿っている。
+"Juste le temps de prendre un verre avant que vous ayez fini d'écouter."
+L’esthétique du 10 pouces réside dans cette notion du temps.
 
 ---
 
@@ -46,60 +46,60 @@ color: #fff;
 </style>
 
 
-### 技術史としての10インチ：回転数・溝幅・音質のバランス
+### Le 10 pouces comme histoire de la technologie : équilibre entre vitesse de rotation, largeur de rainure et qualité sonore
 
-10インチの魅力は、単なる「サイズの中間」では語り尽くせない。  
-それは物理的にも、音響的にも絶妙なバランスの上に成り立っている。
+L'attrait du 10 pouces ne peut pas s'expliquer simplement par le fait qu'il se situe « entre les tailles ».
+Il est construit sur un équilibre exquis tant physiquement qu’acoustiquement.
 
-1950年代初頭、33⅓回転LPと78回転SPの狭間に生まれた10インチ盤は、片面約10〜12分という収録時間を持っていた。この長さは、当時のジャズやクラシックのセッションにおいて、最も自然な“演奏単位”と一致していた。フルセットの演奏を無理なく収められる時間。これが、12インチへの移行前に多くのレーベルが10インチを採用した理由のひとつである。
+Né au début des années 1950 entre 33⅓ tours LP et 78 tours SP, le disque de 10 pouces avait une durée d'enregistrement d'environ 10 à 12 minutes par face. Cette durée correspondait à « l’unité de performance » la plus naturelle des séances de jazz et de classique de l’époque. Un moment qui peut facilement accueillir une prestation complète. C’est l’une des raisons pour lesquelles de nombreuses étiquettes ont adopté le 10 pouces avant de passer au 12 pouces.
 
-さらに、盤面が小さいことで内周歪みが軽減され、音の立ち上がりが鮮明になる。カッティング・エンジニアの間では「10インチの音は芯がある」と評されることも多い。低域の伸びよりも、ミッドレンジの鮮度を重視する音楽において、この特性はとりわけ効果的だった。
-
----
-
-### 1950年代の10インチ黄金期：ジャズとクラシックの実験場
-
-10インチが最も輝いたのは、1950年代前半のジャズ黎明期である。  
-Blue Note、Prestige、Clefといったレーベルは、アーティストたちの試行錯誤を10インチというフォーマットに閉じ込めた。
-
-マイルス・デイヴィス[『Young Man with a Horn』](https://amzn.to/4qkdGGC)（1952）、セロニアス・モンク[『Thelonious Monk Trio』](https://amzn.to/4ol2uI1)（1954）、チャーリー・パーカー[『Now’s the Time』](https://amzn.to/4qkfrUe)（1953）。これらはいずれも、10インチという制約の中で最高の構成を求めた“短編映画”のような作品だった。
-
-12インチLPの登場以前、10インチは“LP”という新しい概念の試験場だった。長尺作品のフォーマットが定まらないなかで、10インチはアーティストに「まとまり」を与え、同時に「切り取られた瞬間」の濃密さを残した。
-
-そして見逃せないのが、ジャケットデザインの進化である。Reid Miles登場以前のBlue Noteは、タイポグラフィと写真の余白を活かした簡潔な構成で知られるが、その黄金比が最も美しく現れたのも10インチ時代だった。
+De plus, la petite surface de la carte réduit la distorsion interne, rendant la montée du son plus claire. Parmi les ingénieurs de découpe, on dit souvent que le son du 10 pouces a un noyau. Cette caractéristique était particulièrement efficace pour les musiques qui mettent l’accent sur la fraîcheur des médiums plutôt que sur l’extension du grave.
 
 ---
 
-### 忘れられたサイズの復活：パンク、オルタナ、インディの文脈で
+### L'âge d'or du 10 pouces des années 1950 : le terrain d'expérimentation du jazz et de la musique classique
 
-やがて12インチLPが市場を支配し、10インチは歴史の片隅に追いやられる。  
-だが1980年代、パンクとインディの流れが再びこのフォーマットを呼び戻す。
+Le 10 pouces connaît son apogée à l’aube du jazz au début des années 1950.
+Des labels comme Blue Note, Prestige et Clef ont limité l'expérimentation des artistes au format 10 pouces.
 
-理由は単純だった。  
-「7インチより多く、LPより軽い」。  
-制作費が抑えられ、流通も容易。さらに、奇妙なサイズ感が“DIY感”や“限定感”を演出した。Sonic Youthの[『Death Valley ’69』](https://amzn.to/3KIwEX6)や、Pavementの[『Watery, Domestic』](https://amzn.to/48q3eqp)。どれも10インチという形で登場し、アートワークを含めた“モノとしての美学”を提示した。
+Miles Davis [« Jeune homme avec une corne »](https://amzn.to/4qkdGGC) (1952), Thelonious Monk [« Thelonious Monk Trio »](https://amzn.to/4ol2uI1) (1954), Charlie Parker [« C'est le moment »](https://amzn.to/4qkfrUe) (1953). Toutes ces œuvres étaient comme des « courts métrages » qui recherchaient la meilleure composition dans les limites de 10 pouces.
+
+Avant l'avènement du LP 12 pouces, le 10 pouces était le terrain d'essai du nouveau concept de « LP ». À une époque où le format des œuvres de longue durée n'était pas encore déterminé, le format 10 pouces donnait à l'artiste un sentiment de « cohésion » et laissait en même temps la densité d'un « moment découpé ».
+
+Ce qu’il ne faut pas négliger, c’est l’évolution du design des vestes. Blue Note, qui a précédé l'apparition de Reid Miles, était connu pour ses compositions simples utilisant la typographie et les marges des photos, mais le nombre d'or était plus joliment exprimé à l'ère du 10 pouces.
+
+---
+
+### Le retour de la taille oubliée : dans le contexte du punk, de l'alternatif et de l'indie
+
+Finalement, les LP de 12 pouces ont dominé le marché et les 10 pouces ont été relégués aux marges de l'histoire.
+Cependant, dans les années 1980, les tendances punk et indie ont ramené le format.
+
+La raison était simple.
+"Plus qu'un 7 pouces et plus léger qu'un LP."
+Les coûts de production restent bas et la distribution est facile. De plus, la taille étrange créait une impression de « bricolage » et d'« édition limitée ». ["Death Valley '69"](https://amzn.to/3KIwEX6) de Sonic Youth et ["Watery, Domestic"](https://amzn.to/48q3eqp) de Pavement. Tous sont apparus au format 10 pouces, présentant une « esthétique en tant que produit », y compris les illustrations.
 
 Radioheadが[『Com Lag (2plus2isfive)』](https://amzn.to/4nEgRXM)を10インチで発表したとき、そこには明確な意図があった。フルアルバムでもなく、シングルでもない。バンドが自らの実験的側面をリスナーと共有するための最適な媒体として、10インチは再び意味を取り戻したのだ。
 
 ---
 
-### 日本における10インチ文化：ミニマリズムと職人気質
+### La culture du 10 pouces au Japon : minimalisme et savoir-faire
 
-日本では、10インチ盤は“珍盤”として扱われることが多い。  
-だが、その少なさゆえに、特別な愛着を生む。
+Au Japon, les disques de 10 pouces sont souvent traités comme des « disques rares ».
+Cependant, du fait de sa rareté, il crée un attachement particulier à son égard.
 
-東洋化成をはじめとする国内プレス工場の精密な技術は、10インチのような微妙なフォーマットにこそ真価を発揮する。盤面の静寂、針の滑らかさ、印刷の発色。その一つひとつが、職人的感性の賜物だ。
+La technologie de précision de Toyo Kasei et d'autres usines de presse nationales montre sa vraie valeur dans des formats délicats comme le 10 pouces. Le silence du tableau, la douceur des mains et la couleur de l'impression. Chacune est le résultat de la sensibilité d'un artisan.
 
 近年では、細野晴臣の[10インチ再発盤](https://amzn.to/4nMnl7a)や、七尾旅人[『リトルメロディ』](https://amzn.to/46SV7QE)、坂本慎太郎[『ディスコの神様』](https://amzn.to/4oaCpen)など、10インチをあえて選ぶアーティストも増えている。それは単にノスタルジーではなく、“聴く時間”を再設計する行為なのだ。
 
-「短いけれど、濃い」。  
-日本的な“間”の美学が、10インチというフォーマットに自然と溶け込んでいる。
+"C'est court, mais intense."
+L'esthétique japonaise du « ma » se fond naturellement dans le format 10 pouces.
 
 ---
 
-### 物理メディアの再定義：10インチが示す未来のフォーマット哲学
+### Redéfinir les supports physiques : la philosophie du futur format 10 pouces
 
-ストリーミング全盛の今、フォーマットの差異は本来、音に関係ないはずだ。  
+À l’heure du streaming, les différences de format ne devraient rien avoir avec le son.
 Cependant, l’existence d’un appareil photo de 10 pouces ébranle cette hypothèse.
 
 Un temps de lecture court encourage la concentration.

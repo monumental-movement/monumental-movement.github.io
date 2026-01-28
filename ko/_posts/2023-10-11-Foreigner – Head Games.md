@@ -13,7 +13,7 @@ title: 외국인 – 헤드 게임
 ---
 
 
-포리니어(Foreigner)는 영국 음악가 믹 존스(Mick Jones)와 이안 맥도널드(Ian McDonald), 미국 보컬리스트 루 그램(Lou Gramm)이 1976년 뉴욕과 런던에서 결성한 영국계 미국인 록 밴드이다.
+포리니어(Foreigner)는 영국 음악가 믹 존스(Mick Jones)와 이안 맥도날드(Ian McDonald), 미국 보컬리스트 루 그램(Lou Gramm)이 1976년 뉴욕과 런던에서 결성한 영국계 미국인 록 밴드이다.
 
 'Head Games'는 포리니어의 세 번째 앨범으로, 밴드의 시그니처 사운드로도 알려져 있다.
 

@@ -75,7 +75,7 @@ Representative artists include **Tim Maia, Cassiano, Hyldon, and Carlos Dafé**.
 | Tim Maia | 1960s-1998 | *Racional*, *Tim Maia Disco Club* | Soulful, funk-oriented, disco style |
 | Cassiano | 1970s | *Realce* | Mellow funk, sophisticated groove |
 | Hyldon | 1970s | *Na Rua, Na Chuva, Na Fazenda* | Funk x MPB, club popularity |
-| Carlos Dafé | 1970s-1980s | *Brasil Afrosamba* | Afro-samba and funk fusion |
+| Carlos Dafé | 1970s-1980s | *Brasil Afrosamba* | Fusion of Afro-samba and funk |
 
 ### 2-1. Tim Maia
 

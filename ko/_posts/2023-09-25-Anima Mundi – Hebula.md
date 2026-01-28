@@ -9,7 +9,7 @@ permalink: /ko/anima-mundi-hebula/
 tags:
 - Techno
 - Tribal
-title: 아니마 문디 - 헤불라
+title: 애니마 문디 – 헤불라
 ---
 
 

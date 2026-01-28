@@ -18,11 +18,11 @@ title: '[Kolumne] Avantgardistische Instrumental-/Klangkunst'
 
 ## Einleitung: Wie Klang zum Kunstwerk wird
 
-Text: mmr｜Thema: Mit Schwerpunkt auf Alvin Lucier und Christian Fennesz werden wir die kontinuierliche Linie von analogen Klangexperimenten bis hin zur digitalen Verarbeitung organisieren und die Struktur der Klangkunst, einschließlich ihrer Beziehung zu Bildern, klären.
+Text: mmr｜Thema: Mit Fokus auf Alvin Lucier und Christian Fennesz werden wir die kontinuierliche Linie von analogen Klangexperimenten bis hin zur digitalen Verarbeitung organisieren und die Struktur der Klangkunst, einschließlich ihrer Beziehung zu Bildern, klären.
 
 Seit dem 20. Jahrhundert hat sich die Musik vom Rahmen der zeitlichen Kunst, die sich auf Melodie und Harmonie konzentriert, entfernt und sich zu einem umfassenden Ausdrucksbereich ausgeweitet, der physische Phänomene, den Raum und das Aufnahmemedium selbst umfasst. Avantgardistische Instrumental- und Klangkunst ist keine Form, die das Können und die Leistungsfähigkeit eines Instruments zur Schau stellt, sondern stellt vielmehr den gesamten Prozess dar, durch den Klang erzeugt, verbreitet, reflektiert, verändert und als Werk wahrgenommen wird.
 
-Musikalische Werke werden in diesem Bereich nicht zwangsläufig auf Partituren reduziert, noch wird von der Möglichkeit der Wiederspielbarkeit ausgegangen. Vielmehr besteht die Arbeit aus einer Reihe von Bedingungen, die jedes Mal zu unterschiedlichen Ergebnissen führen. Wichtig ist hier nicht die Absicht des Komponisten, sondern die Struktur selbst, also die Art und Weise, wie akustische Phänomene entstehen und sich mit Raum und Technik verbinden.
+Musikalische Werke werden in diesem Bereich nicht zwangsläufig auf Partituren reduziert, noch wird von der Möglichkeit der Wiederspielbarkeit ausgegangen. Vielmehr besteht die Arbeit aus einer Reihe von Bedingungen, die jedes Mal zu unterschiedlichen Ergebnissen führen. Hier kommt es nicht auf die Intentionen des Komponisten an, sondern auf die Struktur selbst, auf die Art und Weise, wie das akustische Phänomen steht und sich mit Raum und Technik verbindet.
 
 ---
 
@@ -46,7 +46,7 @@ color: #fff;
 
 Seit den 1950er Jahren, mit der Entwicklung elektronischer Musikstudios, wurde der Klang von der Darbietung von Musikinstrumenten getrennt und ist zu einem Objekt geworden, das als Signal manipuliert werden kann. Technologien wie Magnetband, Oszillatoren und Filter machten es möglich, Ton aufzunehmen, zu verarbeiten und neu zu arrangieren.
 
-Mit diesem Wandel sind musikalische Werke nicht mehr auf Aufführungsorte beschränkt, sondern halten Einzug in Museen, Galerien und öffentliche Räume. Der Begriff „Klangkunst“ wird verwendet, um eine Gruppe von Werken zu bezeichnen, deren Hauptmaterial Klang ist, die jedoch nicht unbedingt musikalischen Systemen oder Aufführungskonventionen folgen.
+Mit diesem Wandel sind musikalische Werke nicht mehr auf Aufführungsorte beschränkt, sondern halten Einzug in Museen, Galerien und öffentliche Räume. Der Begriff Klangkunst wird verwendet, um eine Gruppe von Werken zu bezeichnen, deren Hauptmaterial Klang ist, die jedoch nicht unbedingt musikalischen Systemen oder Aufführungskonventionen folgen.
 
 ### 1-2 Von der Zeitkunst zur Raumkunst
 
@@ -56,9 +56,9 @@ In der Klangkunst ist die räumliche Anordnung wichtiger als die zeitliche Entwi
 
 ## Kapitel 2: Avantgardistische Instrumentalkonzepte
 
-### 2-1 Neudefinition von Musikinstrumenten
+### 2-1 Instrumente neu definieren
 
-In der avantgardistischen Instrumentalmusik haben Instrumente keine feste Form. Bestehende Instrumente werden erweitert oder modifiziert, oder die Umgebung selbst wird als Instrument behandelt. Mikrofone, Lautsprecher, Resonatoren und architektonische Räume sind gleichwertige Komponenten.
+In der avantgardistischen Instrumentalmusik haben Instrumente keine feste Form. Bestehende Instrumente werden erweitert oder verändert, oder die Umgebung selbst wird als Instrument behandelt. Mikrofone, Lautsprecher, Resonatoren und architektonische Räume sind gleichwertige Komponenten.
 
 ### 2-2 Änderungen im Leistungsverhalten
 

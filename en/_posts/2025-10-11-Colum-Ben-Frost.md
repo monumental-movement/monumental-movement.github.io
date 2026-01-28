@@ -158,7 +158,7 @@ In recent years, Frost has been using AI composition and real-time processing to
 He is interested in the "uncontrollable autonomy of sound."
 
 The sound leaves his hands and changes in a self-generated manner.
-Tarkovsky and William Gibson-like vision of the future.
+A vision of the future like Tarkovsky or William Gibson.
 There is a poetics of decayed technology and reverberation.
 
 Frost's sound attempts to redefine the sublime in the digital age.

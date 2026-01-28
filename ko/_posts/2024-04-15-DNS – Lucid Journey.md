@@ -9,7 +9,7 @@ permalink: /ko/dns-lucid-journey/
 tags:
 - Trance
 - Progressive Trance
-title: DNS – 루시드 저니(Lucid Journey)
+title: DNS - 루시드 저니(Lucid Journey)
 ---
 
 

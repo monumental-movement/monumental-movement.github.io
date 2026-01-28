@@ -50,7 +50,7 @@ Au milieu des années 1990, le jazz-funk et la drum and bass se développaient r
 > "A cette époque, il ne s'agissait pas seulement de danser ou d'écouter de la musique, c'était plus amusant de ressentir le swing et le groove qui naissaient derrière le rythme."
 > — Témoignage d'un DJ d'un club londonien de l'époque
 
-La fusion de ce sens du rythme à plusieurs niveaux et des harmonies de type jazz forme le son principal de Broken Beat.
+La fusion de ce sens du rythme à plusieurs niveaux et des harmonies de type jazz a formé le son principal de Broken Beat.
 
 ---
 
@@ -120,7 +120,7 @@ graph LR
 |---|----|------|
 | 1994 | 4hero album "Univers Parallèle" | Avec Dego, pionnier du jazz électronique |
 | 1996 | Début des activités d'IG Culture | Une œuvre soul qui combine jazz et funk |
-| 1998 | Création de 2000Black label | Début des activités en tant que base communautaire |
+| 1998 | Création du label 2000Black | Début des activités en tant que base communautaire |
 | 1999 | Sortie initiale de Kaidi Tatham | Présentation d'une variété d'œuvres pour clavier |
 | 2000 | Travail solo de Dego "Live in Tokyo" | Mettre l'accent sur la sensation live de Broken Beat |
 | 2002 | Culture IG « Donnez-moi du temps » | Le single représentatif de Broken Beat |

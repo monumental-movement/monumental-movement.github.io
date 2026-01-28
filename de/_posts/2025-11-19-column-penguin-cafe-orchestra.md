@@ -22,7 +22,7 @@ title: '[Kolumne] Penguin Cafe Orchestra – Ein imaginäres Paradies, das zwisc
 Text: mmr｜Thema: **Von der Gründung von PCO bis zum Verlauf seiner Aktivitäten, akustische Struktur, Analyse wichtiger Werke, Gedanken von Simon Jeffes**
 
 Das Penguin Cafe Orchestra (PCO) ist eine Musikgruppe, die Ende der 1970er Jahre plötzlich in England auftauchte.
-Sie sind keine Band, sondern ein „musikalisches Gedankengut“, und ihr einzigartiger Sound, der die Grenzen von Ensembleform, Instrumentierung und Genres überschreitet, wird immer noch als „einzigartig“ gefeiert.
+Sie sind keine Band, sondern ein „musikalisches Gedankengut“, und ihr einzigartiger Sound, der die Grenzen von Ensembleform, Instrumentierung und Genre überschreitet, wird bis heute als „einzigartig“ gefeiert.
 
 Es ist keine Folk-, Klassik-, Ambient- oder Weltmusik.
 Obwohl es alle Elemente umfasst, gehört es keiner Kategorie vollständig an.
@@ -96,7 +96,7 @@ In diesem Kapitel wird die interne Struktur der ikonischen Songs von PCO analysi
 ### 3-1. **Musik für ein gefundenes Harmonium (1984)**
 
 PCOs Signature-Song.
-Eine ikonische Anekdote besagt, dass er Musik komponierte, indem er auf einem kaputten Harmonium spielte, das er auf den Straßen von Kyoto gefunden hatte.
+Eine ikonische Anekdote besagt, dass er Musik komponierte, während er auf einem kaputten Harmonium spielte, das er auf den Straßen von Kyoto gefunden hatte.
 
 **Strukturelle Merkmale**
 
@@ -127,13 +127,13 @@ Es ist ein ruhiges, aber dramatisches Lied, das den Eindruck vermittelt, als sei
 
 ### 3-3. **Telefon und Gummiband (1981)**
 
-Ein seltsames Musikstück, bei dem in einem klassischen Ensemble plötzlich ein zweifarbiges Telefon klingelt.
+Ein seltsames Musikstück, in dem plötzlich ein zweifarbiges Telefon über einem klassischen Ensemble klingelt.
 
 **Merkmale**
 
 * Looping von Telefonaudio durch Bandmanipulation
 * Elektronischer Klang, der als „Fremdkörper“ über dem Ensemble existiert
-* Humorvoll und gleichzeitig postmodern
+* Humorvoll und zugleich postmodern
 
 In Bezug auf Minimal + Found Sound überschneidet sich dieses Werk mit der Abstammung von Brian Eno.
 

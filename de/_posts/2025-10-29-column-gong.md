@@ -120,7 +120,7 @@ Dabei handelt es sich nicht nur um Alben, sondern um mythologische Epen von „P
 | Pot Head Pixies | Geister des Glücks und des Chaos |
 | Oktavdoktor | Wissenschaftler, der Klang und Ordnung manipuliert |
 
-> „Ich bin dein Radiozwerg, direkt vom Planeten Gong …“
+> „Ich bin dein Funkzwerg, direkt vom Planeten Gong …“
 
 Gong begründete das Konzept des „narrativen Klangs“ in der Musik.
 
@@ -168,7 +168,7 @@ Auch nach Allens Tod im Jahr 2015 lebt Gong als „sich regenerierendes kollekti
 ## Kapitel 8 Die Welt der Gong-Mythologie – Charaktere, Ikonographie und Weltanschauung {#chapter8}
 
 Gong ist eine umfassende Kunst, die Musik, Mythologie und Kunst integriert.
-Im Mittelpunkt der Radio Gnomes-Trilogie stehen Charaktere, Planeten, Sprachen, Sender usw., die eng miteinander verflochten sind.
+Im Mittelpunkt der Radio-Gnome-Trilogie stehen Charaktere, Planeten, Sprachen, Sender usw., die eng miteinander verflochten sind.
 
 Unten ist ein Diagramm, das seine symbolische Struktur zeigt:
 
@@ -189,19 +189,19 @@ Gongs Universum ist ein mitgeschaffener Mythos, dessen Teil der Zuhörer wird.
 
 ---
 
-## 第9章　エピソード＆逸話集 {#chapter9}
+## Kapitel 9 Episoden und Anekdoten {#chapter9}
 
-- 1968年：テディベアを掲げて警官と対峙
+- 1968: Konfrontiert die Polizei mit einem Teddybären
 
 - „Geburt des Klangs“ in einer Höhlensitzung
 
-- 1970年：BYGフェスでフランク・ザッパ司会のもと伝説的ライブ
+- 1970: Legendäre Live-Show von Frank Zappa beim BYG Festival
 
-- メンバー間通信に“Gnome語”を使用
+- Verwenden Sie die „Gnome-Sprache“ für die Kommunikation zwischen Mitgliedern
 
 - „Zero’s Holy Grail“-Ritual, kreiert von Fans (auf einem britischen Festival)
 
-Gongは現実と神話を往来し、逸話そのものが芸術の一部であった。
+Gong bewegte sich zwischen Realität und Mythos, und die Anekdoten selbst waren Teil der Kunst.
 
 ---
 
@@ -210,7 +210,7 @@ Gongは現実と神話を往来し、逸話そのものが芸術の一部であ�
 | Jahr | Hauptveranstaltungen |
 | :-------- | :-------------- |
 | 1967 | In Paris gegründet. Allen Exil |
-| 1969      | *Magick Brother* 制作・初ライブ      |
+| 1969 | *Magick Brother*-Produktion und erster Live-Auftritt |
 | 1971 | *Camembert Electrique* Ankündigung |
 | 1973–74 | *Radio Gnome Trilogy* abgeschlossen |
 | 1976 | *Pierre Moerlans Gong*-Periode beginnt |

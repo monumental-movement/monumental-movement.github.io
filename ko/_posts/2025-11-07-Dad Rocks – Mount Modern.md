@@ -16,7 +16,7 @@ title: 아빠 락! – 마운트 모던
 
 아빠 락! 는 덴마크 인디 록 밴드 미마스(Mimas)로 유명해진 아이슬란드 음악가 스네바르 알베르손(Snaevar Albertsson)이 2010년에 결성한 프로젝트입니다.
 
-"Mount Modern"은 2011년 발매된 Dad Rocks!의 데뷔 앨범이다.
+"Mount Modern"은 2011년에 발매된 Dad Rocks!의 데뷔 앨범입니다.
 
 #### 트랙리스트
 ```md

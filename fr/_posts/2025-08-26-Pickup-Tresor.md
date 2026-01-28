@@ -10,23 +10,23 @@ tags:
 - Techno
 - German Techno
 - 90s
-title: Tresor(トレゾア)作品をピックアップ
+title: Récupérer les œuvres Trésor
 ---
 
 
-「鉄扉の向こうで鳴り響いた、テクノの鼓動、注目すべきTresor(トレゾア)作品群」
+« Le battement de cœur de la techno résonnant derrière la porte de fer, les œuvres remarquables de Tresor »
 
 <hr>
 
 
 
-### Joey Beltram – The Rising Sun
+### Joey Beltram – Le Soleil Levant
 <a href="https://jp.mercari.com/item/m38252270171?afid=6142608987"><img src="../assets/images/Joey%20Beltram%20%E2%80%93%20The%20Rising%20Sun%EF%BC%88Tresor%20214%EF%BC%89.webp"></a>
 
-概要：2004年にTresorからリリースされたJoey Beltramの作品。MMRではCDフォーマットで入手可能です。
+Présentation : L'œuvre de Joey Beltram publiée par Tresor en 2004. Disponible au format CD chez MMR.
 
 
-魅力ポイント：ベテラン・テクノプロデューサーJoey Beltramの代表曲が多数収録。Tresorとのコラボレーションを通して彼の深化したサウンド世界が楽しめます。
+Point attrayant : comprend de nombreuses chansons représentatives du producteur techno vétéran Joey Beltram. Grâce à la collaboration avec Tresor, vous pourrez profiter de son monde sonore approfondi.
 
 #### Liste des chansons
 ```md
@@ -52,13 +52,13 @@ title: Tresor(トレゾア)作品をピックアップ
 <br>
 
 
-### Joey Beltram – Game Form
+### Joey Beltram – Forme de jeu
 <a href="https://jp.mercari.com/item/m93873699872?afid=6142608987"><img src="../assets/images/Joey%20Beltram%20%E2%80%93%20Game%20Form.webp"></a>
 
-概要：「Game Form」およびロバート・アルマーニやマイク・ディアボーンによるリミックスを収録したシングル。2004年リリース。
+Résumé : Un single contenant "Game Form" et des remix de Robert Armani et Mike Dearborn. Sorti en 2004.
 
 
-魅力ポイント：リミックス含めてダンスフロア仕様の強力なトラックが揃う、エクスクルーシブなヴァイナル作品です。
+Point attractif : Il s’agit d’une œuvre vinyle exclusive avec des morceaux dancefloor puissants incluant des remix.
 
 #### Liste des chansons
 ```md
@@ -77,13 +77,13 @@ B2. Game Form (Mike Dearborn Remix)
 <hr>
 <br>
 
-### Various – Tresor Compilation Vol. 6
+### Divers – Compilation Trésor Vol. 6
 <a href="https://jp.mercari.com/item/m83834888135?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Tresor%20Compilation%20Vol.%206.webp"></a>
 
-概要：1998年リリースのTresorによるコンピレーションアルバム。1999年のVol.7に続く、初期のTresorの魅力が詰まった一枚です。
+Résumé : Un album de compilation de Tresor sorti en 1998. Après le Vol.7 en 1999, c'est un morceau plein du charme des premiers Tresor.
 
 
-魅力ポイント：90年代後半のベルリン・テクノシーンを象徴する豪華ラインナップが収録されており、レーベルのルーツと初期サウンドを深く味わえる良い入門盤。
+Point attractif : Contient un line-up luxueux qui symbolise la scène techno berlinoise de la fin des années 90, et constitue un bon album d'introduction qui permet d'apprécier profondément les racines et les premiers sons du label.
 
 #### Liste des chansons
 ```md
@@ -111,13 +111,13 @@ B2. Game Form (Mike Dearborn Remix)
 <hr>
 <br>
 
-### Various – Tresor Compilation Vol. 7
+### Divers – Compilation Trésor Vol. 7
 <a href="https://jp.mercari.com/item/m32845023734?afid=6142608987"><img src="../assets/images/Tresor%20Compilation%20Vol.%207.webp"></a>
 
-概要：1999年発表のTresorコンピレーション第7弾。Sven Väth や Ben Sims、James Ruskin、Daniel Bell、DJ Shufflemaster など、世界的アーティストの楽曲が収録された豪華コレクションです。
+Résumé : La 7ème compilation Tresor sortie en 1999. Une magnifique collection de chansons d'artistes de renommée mondiale tels que Sven Väth, Ben Sims, James Ruskin, Daniel Bell et DJ Shufflemaster.
 
 
-魅力ポイント：Dubテクノやアンビエントなど幅広いスタイルを網羅し、Tresorレーベルのエッセンスを余すところなく体感できる一枚。初心者にもおすすめです。
+Point attractif : Couvre une large gamme de styles tels que la dub techno et l'ambient, et permet de vivre pleinement l'essence du label Tresor. Recommandé pour les débutants.
 
 #### Liste des chansons
 ```md
@@ -145,13 +145,13 @@ B2. Game Form (Mike Dearborn Remix)
 <br>
 
 
-### VA – Berlin 1992 Tresor Kompilation – Der Klang Der Familie
+### VA – Berlin 1992 Tresor Compilation – Der Klang Der Family
 <a href="https://jp.mercari.com/item/m20174423933?afid=6142608987"><img src="../assets/images/VA%E2%80%93%20Berlin%201992.webp"></a>
 
-概要：1992年にリリースされたTresor初期のコンピレーション作品。A面〜D面まで多彩なアーティストによる楽曲が詰め込まれた凝縮された内容です。
+Résumé : La première compilation de Tresor sortie en 1992. Il s'agit d'un contenu condensé rempli de chansons d'une variété d'artistes des faces A à D.
 
 
-魅力ポイント：「Klang Der Familie」（家族の響き）というタイトル通り、ベルリンのテクノカルチャー形成期をリアルに感じさせる歴史的名作。アナログファンには特におすすめ。
+Point intéressant : comme son titre l'indique, "Klang Der Familie" (Sons de la famille), il s'agit d'un chef-d'œuvre historique qui donne une impression réaliste de la période formatrice de la culture techno berlinoise. Particulièrement recommandé pour les fans d'analogique.
 
 #### Liste des chansons
 ```md
@@ -180,10 +180,10 @@ D2. Voov – It's Anything You Want It To Be And It's A Gas (Smoke Machine V2)
 ### DJ Shufflemaster – EXP
 <a href="https://jp.mercari.com/item/m45286503868?afid=6142608987"><img src="../assets/images/DJ%20Shufflemaster%20%E2%80%93%20EXP.webp"></a>
 
-概要：日本のハードテクノDJ／プロデューサーであるDJ Shufflemaster（金森達也）による、2001年リリースのフルアルバム。Tresorから発表された代表作として知られています。
+Résumé : Un album complet sorti en 2001 par le DJ/producteur de hard techno japonais DJ Shufflemaster (Tatsuya Kanamori). Il est connu comme un chef-d’œuvre publié par Tresor.
 
 
-魅力ポイント：重厚なハードテクノサウンドと緻密な構成が魅力。国際的にも高評価を得ており、Tresorとの関係を通して世界に広がった日本人アーティストとしても貴重な存在です。
+Point attrayant : Le son techno dur et profond et la composition détaillée sont attrayants. Il a reçu des éloges internationaux et est un artiste japonais précieux qui s'est répandu dans le monde entier grâce à sa relation avec Tresor.
 
 #### Liste des chansons
 ```md
@@ -209,13 +209,13 @@ D2. Innervisions
 <hr>
 <br>
 
-### Chrislo – Low
+### Chrislo – Faible
 <a href="https://jp.mercari.com/item/m45327854456?afid=6142608987"><img src="../assets/images/Chrislo%20%E2%80%93%20Low%EF%BC%88Tresor092%EF%BC%89.webp"></a>
 
-概要：Joey Beltramの作品ページ（The Rising Sun）の「Explore more like this」セクションに現れる関連アーティストの一つです。Chrislo Haasによる作品で、Tresor 092。
+Présentation : L'un des artistes apparentés qui apparaît dans la section « Explorez davantage comme ceci » de la page de travail de Joey Beltram (The Rising Sun). Par Chrislo Haas, Trésor 092.
 
 
-魅力ポイント：D.A.F. や Liaisons Dangereuses などで知られるChrislo Haasのソロ活動として、ベルリンの実験的な電子音楽への強烈な接続を感じさせる一作。
+Point attractif : Il s'agit d'une œuvre solo de Chrislo Haas, connu pour son travail sous le nom de D.A.F. et Liaisons Dangereuses, et montre un lien fort avec la musique électronique expérimentale berlinoise.
 
 #### Liste des chansons
 ```md

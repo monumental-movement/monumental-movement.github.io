@@ -139,13 +139,13 @@ A4: We gained international acclaim for our overwhelming live performances, sens
 
 **Q5: What is Seiichi Yamamoto's most famous work? **
 
-A5: [Memory Wharf ""Underwater Joe"](https://amzn.to/4pJINuQ), [ROVO's live show](https://amzn.to/4gJvJRT), and solo works [""Crown of Fuzzy Groove"](https://amzn.to/4pJ0ESq) are important.
+A5: [Memory Wharf ""Underwater Joe"](https://amzn.to/4pJINuQ), [ROVO's live performance](https://amzn.to/4gJvJRT), and solo works [""Crown of Fuzzy Groove"](https://amzn.to/4pJ0ESq) are important.
 
 ---
 
 ### summary
 
-Japan"s rock history has evolved in parallel with the ""mainstream" front and the ""underground" behind the scenes. The lineage from Naked Larry"s to Guitar Wolf continues into the current AI era, continuing to expand the possibilities of rock. Japanese rock will continue to provide "experimentation and impulse" to the world music scene.
+Japan"s rock history has evolved in parallel with the "mainstream" on the front and the "underground" on the back. The lineage from Naked Larry"s to Guitar Wolf continues into the current AI era, continuing to expand the possibilities of rock. Japanese rock will continue to provide "experimentation and impulse" to the world music scene.
 
 ---
 

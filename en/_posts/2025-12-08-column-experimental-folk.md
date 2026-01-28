@@ -69,7 +69,7 @@ Although Comus was not a commercial success, current 93 and many other dark folk
 
 # 2. 1970s: The emergence of American introspective folk and experimentation
 
-In the United States, psych-folk was not as defined as a collective movement in the United Kingdom, but the following trends are important:
+In America, psych-folk was not as defined as a collective movement in the UK, but the following trends are important:
 
 - **John Fahey and the Genealogy of American Primitives**
 Fingerpicking with improvisational, drone, and noise motives.
@@ -91,7 +91,7 @@ In the 1980s and 1990s, "neofolk" with acoustic elements emerged from the Britis
 One of the central players is **Current 93 (led by David Tibet)**.
 
 ## Features of Current 93
-- In the beginning, noise/industrial elements were strong.
+- Early on there was a strong noise/industrial element.
 - Since the 1990s, the focus has shifted to acoustic instruments such as harmonium, guitar, hurdy-gurdy, and percussion.
 - Emphasis on mysticism and poetic recitation
 - Inheriting Comus and British folk approaches

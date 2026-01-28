@@ -49,7 +49,7 @@ color: #fff;
 
 Le Bebop, créé dans les années 1940, a considérablement accru la liberté d’improvisation, mais a également créé des normes très sophistiquées. Les progressions d'accords complexes, les tempos rapides et la diction partagée étaient à la fois des contraintes passionnantes et nouvelles pour les interprètes expérimentés. Dans les années 1950, le hard bop et le jazz modal sont nés et des tentatives ont été faites pour libérer partiellement la musique des accords et de la tonalité.
 
-En particulier, le mode jazz constitue une étape préliminaire importante. La méthode d'improvisation sur de longues périodes et à échelle limitée a donné aux interprètes une idée qui n'était pas liée à une progression harmonique. Les efforts de Miles Davis et John Coltrane ont servi de pont vers le jazz d’avant-garde. Cependant, le cadre de mesure, de thème et d’ordre des solos a été conservé.
+En particulier, le mode jazz constitue une étape préliminaire importante. La méthode d'improvisation sur de longues périodes et à échelle limitée a donné aux interprètes une idée qui n'était pas liée à une progression harmonique. Les efforts de Miles Davis et de John Coltrane ont servi de pont vers le jazz d'avant-garde. Cependant, le cadre de mesure, de thème et d’ordre des solos a été conservé.
 
 > Le jazz d'avant-garde a commencé par interroger ce « cadre qui demeure » lui-même.
 
@@ -89,13 +89,13 @@ En harmolodics, chaque joueur a les mêmes droits mélodiques. Il n’est pas n�
 
 Cecil Taylor incarne le summum de la construction du jazz d'avant-garde. Même si ses performances sont souvent décrites comme un déversement d’émotion, il s’agit en réalité d’un art temporel très organisé. Bien qu'improvisé, sa plus grande caractéristique est qu'il présente la densité et l'ordre d'un bâtiment.
 
-### Redéfinir le jeu du piano
+### Redéfinir les techniques de jeu du piano
 
 Le style de jeu de Taylor traite le clavier non pas comme une série de mélodies, mais comme une masse de sons. Des clusters à grande vitesse utilisant les deux mains et des polyrythmies complexes ont transformé le piano d'un instrument mélodique en un instrument à percussion.
 
 ### 代表録音分析：[Unit Structures（1966）](https://amzn.to/45ALZ3o)
 
-Cette œuvre est l'un des enregistrements qui enregistrent le plus clairement les pensées de Taylor. Comme le titre l’indique, la musique a une structure dans laquelle plusieurs unités sont combinées et décomposées à plusieurs reprises. Chaque instrument joue librement, mais la direction de l'énergie est partagée.
+Cette œuvre est l'un des enregistrements qui enregistre le plus clairement les pensées de Taylor. Comme le titre l’indique, la musique a une structure dans laquelle plusieurs unités sont combinées et décomposées à plusieurs reprises. Chaque instrument joue librement, mais la direction de l'énergie est partagée.
 
 L'improvisation n'est pas linéaire mais empilée verticalement. Des motifs courts se répètent, gagnent en densité et recouvrent l'ensemble de la pièce. Les tambours ne battent pas, mais forment une couche rythmique complexe en réponse au mouvement du piano.
 
@@ -118,7 +118,7 @@ Sun Ra est une personne qui a libéré le jazz d’avant-garde du cadre musical 
 
 ### Une communauté appelée Arkestra
 
-Le groupe n'avait pas de composition fixe, et le nombre de membres et la composition des instruments variaient selon les périodes. Cette fluidité est directement liée à sa philosophie musicale axée sur l'improvisation collective. Les représentations individuelles sont gratuites, mais la représentation globale conserve un sentiment d’unité rituelle.
+Le Sun Ra Arkestra n'avait pas de composition fixe, et le nombre de membres et la composition des instruments variaient selon les périodes. Cette fluidité est directement liée à sa philosophie musicale axée sur l'improvisation collective. Les représentations individuelles sont gratuites, mais la représentation globale conserve un sentiment d’unité rituelle.
 
 ### 代表録音分析：[The Magic City（1966）](https://amzn.to/3LGlHWG)
 
@@ -140,7 +140,7 @@ Le jazz d’avant-garde n’est pas seulement un phénomène américain. Depuis 
 
 Les caractéristiques de l'improvisation européenne sont sa gestion du ton et de l'espace. Les périodes de silence, les bruits infimes et la persistance de notes isolées sont des éléments importants, et la sensation swing caractéristique du jazz est souvent intentionnellement éliminée. Cela peut être considéré comme le résultat de la poussée des idéaux du jazz d’avant-garde dans une direction différente.
 
-> Cette tendance montre que le jazz d'avant-garde n'est pas un style spécifique, mais une manière de penser.
+> Cette tendance montre que le jazz d'avant-garde n'est pas un style spécifique, mais une façon de penser.
 
 ---
 

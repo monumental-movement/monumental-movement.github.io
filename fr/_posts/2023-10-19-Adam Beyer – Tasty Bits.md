@@ -13,7 +13,7 @@ title: Adam Beyer – Morceaux savoureux
 ---
 
 
-Un set de deux disques sorti en 1997 par le label Drumcode dirigé par le DJ/producteur techno suédois Adam Beyer, qui était une figure centrale de la scène techno minimale suédoise à la fin des années 1990.
+Un set de deux disques sorti en 1997 par le label Drumcode dirigé par le DJ/producteur techno suédois Adam Beyer, figure centrale de la scène techno minimale suédoise à la fin des années 1990.
 
 #### Liste des chansons
 ```md

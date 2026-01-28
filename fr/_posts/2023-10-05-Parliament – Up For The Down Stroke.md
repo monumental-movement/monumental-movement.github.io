@@ -13,7 +13,7 @@ title: Parlement – ​​​​prêt pour le coup bas
 ---
 
 
-"Up for the Down Stroke" est le premier album studio de Parliament, et son son se caractérise par un rythme funk énergique et dansant. L'album est rempli de chansons groovy qui intègrent des éléments de funk.
+"Up for the Down Stroke" est le premier album studio de Parliament, et son son se caractérise par un rythme funk énergique et dansant. L'album est rempli de chansons groovy qui incorporent des éléments de funk.
 
 La chanson titre "Up for the Down Stroke" est la chanson emblématique de Parliament, avec sa section de cuivres brillante, sa ligne de basse accrocheuse et son rythme de batterie rythmé. La chanson incarne les rythmes funky et l'énergie positive qui caractérisent le son du Parlement.
 

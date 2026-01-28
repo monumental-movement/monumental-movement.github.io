@@ -9,18 +9,18 @@ permalink: /fr/column-bear-sound/
 tags:
 - Bear
 - Sound
-title: 【コラム】 クマ被害の拡大とサウンドによる影響
+title: '[Chronique] Expansion des dégâts causés par les ours et impact du son'
 ---
 
 
-## 1. はじめに：クマ被害の現状と音の重要性
+## 1. Introduction : État actuel des dégâts causés par les ours et importance du son
 
 
-文：mmr｜テーマ：近年増加するクマによる被害を、音による影響と行動抑制の観点から分析。サウンドデザインが人間とクマの共生に果たす役割を考察
+Texte : mmr | Thème : Une analyse des dégâts causés par les ours, en augmentation ces dernières années, sous l'angle de l'impact du bruit et du contrôle des comportements. Examiner le rôle du design sonore dans la coexistence des humains et des ours
 
-日本では近年、クマによる被害が急速に拡大している。農作物被害は年間約1,000件に達し、人的被害もここ10年で約2倍に増加している（環境省「野生動物による被害統計2024」）。これまでの物理的対策は十分ではなく、持続可能な被害抑制手法が求められる。
+Ces dernières années, les dégâts causés par les ours ont augmenté rapidement au Japon. Il y a environ 1 000 cas de dommages aux cultures par an, et les dommages humains ont environ doublé au cours des 10 dernières années (Statistiques sur les dommages causés par les animaux sauvages 2024 du ministère de l'Environnement). Les mesures physiques prises jusqu’à présent ne suffisent pas et des méthodes durables de contrôle des dégâts sont nécessaires.
 
-注目されるのが、「音によるクマの行動制御」である。クマは聴覚が発達しており、人間の声や警告音、特定周波数の人工音に敏感に反応する。近年では、農家や自治体、研究機関での実証実験が増えており、科学的根拠に基づいた音響管理の可能性が広がっている。
+Ce qui retient l'attention, c'est le « contrôle du comportement des ours par le son ». Les ours ont un sens de l'ouïe bien développé et sont sensibles aux voix humaines, aux sons d'avertissement et aux sons artificiels à des fréquences spécifiques. Ces dernières années, un nombre croissant d’expériences de démonstration ont été menées par les agriculteurs, les gouvernements locaux et les instituts de recherche, élargissant ainsi les possibilités d’une gestion saine fondée sur des preuves scientifiques.
 
 ---
 
@@ -38,23 +38,23 @@ color: #fff;
 </style>
 
 
-## 2. クマの生態と行動特性
+## 2. Écologie et caractéristiques comportementales des ours
 
-### 2.1 主なクマ種と分布
+### 2.1 Principales espèces d'ours et répartition
 
-- **ツキノワグマ（Ursus thibetanus）**：本州・四国・九州、体長120–150cm、樹上行動が得意、雑食性。  
-- **ヒグマ（Ursus arctos yesoensis）**：北海道、体長180–250cm、大型、魚類や小動物も摂取。  
+- **Ours noir d'Asie (Ursus thibetanus)** : trouvé à Honshu, Shikoku et Kyushu, longueur du corps 120–150 cm, bon comportement arboricole, omnivore.
+- **Ours brun (Ursus arctos yesoensis)** : Hokkaido, 180–250 cm de long, grand, consomme également des poissons et des petits animaux.
 
-両種とも夜行性だが、春や秋の食料探索期には昼間の活動も見られる。
+Les deux espèces sont nocturnes, mais une activité diurne peut également être observée pendant les saisons de chasse du printemps et de l’automne.
 
-### 2.2 聴覚特性と音への反応
+### 2.2 Caractéristiques auditives et réponse au son
 
-- 聴覚周波数帯域：200Hz–10kHz  
-- 人間の声（250–4000Hz）に反応可能  
-- 雷鳴・警戒音（1000–8000Hz）に敏感  
-- 自然界の低周波・高周波音も行動に影響
+- Bande de fréquence auditive : 200 Hz à 10 kHz
+- Peut répondre à la voix humaine (250-4 000 Hz)
+- Sensible au tonnerre et aux sons d'avertissement (1 000 à 8 000 Hz)
+- Les sons de basse et haute fréquence dans la nature influencent également le comportement
 
-### クマの聴覚特性
+### Caractéristiques auditives des ours
 
 <div class="mermaid">
 
@@ -69,46 +69,46 @@ A --> D["自然界音: 低周波〜高周波"]
 
 ---
 
-## 3. 被害拡大の背景
+## 3. Contexte de la propagation des dégâts
 
-### 3.1 人口減少と里山放棄
+### 3.1 Déclin de la population et abandon du satoyama
 
-過疎化により山間部農地が放置され、クマの生息域が人里に近づいた。北海道では、放棄農地の面積が2000年から2020年で約30％増加しており、クマ出没の増加と相関している（北海道大学野生動物研究報告2023）。
+En raison du dépeuplement, les terres agricoles des zones montagneuses ont été laissées à l'abandon et l'habitat des ours s'est rapproché des établissements humains. À Hokkaido, la superficie des terres agricoles abandonnées a augmenté d’environ 30 % entre 2000 et 2020, ce qui est corrélé à une augmentation des rencontres avec des ours (Hokkaido University Wildlife Research Report 2023).
 
-### 3.2 農作物と森林資源の接近
+### 3.2 Proximité des cultures agricoles et des ressources forestières
 
-果樹園やナッツ林の増加により、クマが集落近くまで侵入するケースが増加。長野県の果樹園調査では、年間被害率が約12％に達する地域も存在する。
+Avec l’augmentation des vergers et des forêts de noix, les cas d’ours envahissant les communautés se multiplient. Une étude des vergers de la préfecture de Nagano a révélé que dans certaines zones, le taux de dégâts annuels atteignait environ 12 %.
 
-### 3.3 気候変動の影響
+### 3.3 Impact du changement climatique
 
-積雪量の減少や春先の果実生育の変動により、食料不足期に人里へ出没する傾向が増加。
+En raison de la diminution des chutes de neige et des fluctuations de la croissance des fruits au début du printemps, ils sont plus susceptibles de visiter les établissements humains en période de pénurie alimentaire.
 
-### 3.4 地域別被害統計（2020–2024）
+### 3.4 Statistiques des dommages par région (2020-2024)
 
-| 地域  | 年間被害件数 | 農作物被害率 | 人的被害件数 |
+| Région | Nombre annuel de dommages | Taux de dégâts aux cultures | Nombre de dégâts humains |
 | --- | ------ | ------ | ------ |
-| 北海道 | 320    | 10%    | 5      |
-| 長野県 | 150    | 12%    | 2      |
-| 東北  | 180    | 8%     | 3      |
-| 九州  | 90     | 6%     | 1      |
+| Hokkaidō | 320 | 10% | 5 |
+| Préfecture de Nagano | 150 | 12% | 2 |
+| Tohoku | 180 | 8% | 3 |
+| Kyūshū | 90 | 6% | 1 |
 
 ---
 
-## 4. サウンドがクマに与える影響
+## 4. Effet du son sur les ours
 
-### 4.1 音の種類と反応
+### 4.1 Types de sons et réactions
 
-- **笛**: 軽い回避行動
+- **Sifflet** : action d'évasion légère
 
-- **人間の声**: 中程度回避
+- **Voix humaine** : évasion moyenne
 
-- **爆竹**: 強い回避
+- **Pétard** : Forte évasion
 
-- **高周波電子音（8–10kHz）**: 実験的回避、慣れ防止が課題
+- **Son électronique haute fréquence (8-10 kHz)** : l'évitement expérimental et la prévention de l'accoutumance sont des problèmes
 
 ---
 
-### 音の種類とクマ反応強度
+### Type de son et force de réaction de l'ours
 
 <div class="mermaid">
 
@@ -122,65 +122,65 @@ G[高周波電子音] --> H[実験的回避]
 
 ---
 
-### 4.2 実験事例
+### 4.2 Exemple d'expérimentation
 
-- **北海道果樹園（2015–2018）**: 爆竹使用により侵入率40％減
+- **Hokkaido Orchard (2015-2018)** : taux d'invasion réduit de 40 % grâce à l'utilisation de pétards
 
-- **九州電子音トライアル（2019–2021）**: 高周波装置使用で短期回避、長期では慣れが発生
+- **Essai sonore électronique de Kyushu (2019-2021)** : évitement à court terme dû à l'utilisation d'équipements à haute fréquence, une accoutumance à long terme se produit
 
-- **東北AIスピーカー実証（2020–2023）**: クマ侵入前警告成功率65％
-
----
-
-## 5. 人間活動とサウンドの共生戦略
-
-### 5.1 センサー連動型警告音
-
-クマ接近時に自動で音響を発生。被害発生前に回避行動を促す。
-
-### 5.2 定期巡回サウンド
-
-人間の存在を知らせる音響装置で侵入意欲を減退。
-
-### 5.3 都市近郊応用
-
-長野県や北海道で導入済み。夜間巡回で人間の声＋電子音を使用し安全確保。
+- **Démonstration de haut-parleurs Tohoku AI (2020-2023)** : taux de réussite de l'avertissement d'invasion pré-ours de 65 %
 
 ---
 
-## 6. サウンドデザインの未来
+## 5. Stratégie de coexistence entre activités humaines et son
 
-### 6.1 AI・ドローン技術
+### 5.1 Son d'avertissement lié au capteur
 
-AI解析で行動パターンに応じた音響発生。ドローン巡回で広範囲をカバー。
+Génère automatiquement un son lorsqu'un ours s'approche. Encouragez les actions d’évitement avant que les dommages ne surviennent.
 
-### 6.2 国際事例
+### 5.2 Son de patrouille régulier
 
-- **米国カリフォルニア州**：電子音と人間声で侵入防止
+Un dispositif sonore qui alerte les gens de la présence d’humains réduit leur envie d’envahir.
 
-- **カナダBC州**：非致死的音響管理で農作物被害減少
+### 5.3 Applications urbaines et suburbaines
 
----
-
-## 7. 考察：人間とクマの関係性再定義
-
-被害対策は害獣駆除ではなく共生の問題
-
-音を介した対策は非致死的で有効
-
-- **課題**：慣れ・生態系影響・コスト
+Il a déjà été introduit dans la préfecture de Nagano et à Hokkaido. La sécurité est assurée par l'utilisation de voix humaines et de sons électroniques lors des patrouilles nocturnes.
 
 ---
 
-## 8. 結論
+## 6. L'avenir du design sonore
 
-クマ被害の拡大は、単なる野生動物の問題ではなく、人間社会の構造的変化の鏡でもある。過疎化・気候変動・森林利用の偏りなど、私たち自身が生み出した環境の歪みが、クマを山から追い出し、集落へと導いている。そうした現実の中で、サウンドによる被害抑制は「人と動物の関係を再設計するためのメディア」として、きわめて示唆的である。音は殺傷を伴わず、恐怖や学習を通じて行動を調整できる。つまり、それは暴力ではなく「共振」による制御であり、倫理的にも持続的な選択肢となりうる。
+### 6.1 Technologie IA/drones
 
-今後の課題は、単なる威嚇音ではなく、**地域固有の環境音や人間の生活音を織り込んだ「音響景観デザイン」**へと進化させることだ。AIが学習するクマの行動パターンと、地域の音文化や季節のリズムが結びつくとき、サウンドは警告を超えて「共存のインターフェース」となるだろう。科学的知見と文化的感性を併せ持つ音響政策こそが、これからの人間と野生の未来を形づくる鍵である。音で対話し、距離を保ち、生命圏全体の調和を取り戻す——それが、次の時代の「音の環境倫理」と言える。
+Génération de sons selon des modèles comportementaux à l'aide de l'analyse de l'IA. Couvrez une vaste zone avec des patrouilles de drones.
+
+### 6.2 Affaires internationales
+
+- **Californie, États-Unis** : Prévention des intrusions à l'aide de sons électroniques et de voix humaines
+
+- **BC, Canada** : La gestion acoustique non létale réduit les dommages aux cultures
 
 ---
 
-### サウンドを用いた被害抑制事例（2000–2025）
+## 7. Discussion : Redéfinir la relation entre les humains et les ours
+
+Le contrôle des dégâts est une question de coexistence et non d’extermination des ravageurs.
+
+Les contre-mesures sonores sont non mortelles et efficaces
+
+- **Défis** : Habituation, impact sur l'écosystème, coût
+
+---
+
+## 8. Conclusion
+
+Les dégâts croissants causés par les ours ne sont pas seulement un problème pour les animaux sauvages, mais aussi le reflet des changements structurels de la société humaine. Les distorsions de l’environnement que nous avons nous-mêmes créées, telles que le dépeuplement, le changement climatique et l’utilisation déséquilibrée des forêts, chassent les ours des montagnes vers les villages. Dans cette réalité, le contrôle des dégâts grâce au son est extrêmement suggestif en tant que « moyen de repenser la relation entre les humains et les animaux ». Le son n'est pas mortel et peut ajuster le comportement par la peur et l'apprentissage. En d’autres termes, il s’agit d’un contrôle par « résonance » plutôt que par la violence, et cela peut constituer une option éthiquement durable.
+
+Le défi pour l'avenir est de le transformer en un « aménagement paysager acoustique » qui intègre les sons environnementaux locaux et les sons de la vie humaine, plutôt qu'un simple son menaçant. Lorsque les modèles de comportement des ours appris par l'IA seront combinés à la culture sonore locale et aux rythmes saisonniers, le son dépassera un avertissement et deviendra une « interface de coexistence ». Une politique judicieuse combinant connaissances scientifiques et sensibilité culturelle est la clé pour façonner l'avenir des humains et de la nature. Communiquer avec le son, maintenir une distance et restaurer l'harmonie dans l'ensemble de la biosphère : c'est ce que l'on peut appeler « l'éthique environnementale du son » de la prochaine ère.
+
+---
+
+### Études de cas sur le contrôle des dommages grâce au son (2000-2025)
 
 <div class="mermaid">
 
@@ -196,7 +196,7 @@ timeline
 
 ---
 
-### クマ被害抑制におけるサウンド利用フロー
+### Flux d'utilisation du son pour contrôler les dégâts causés par les ours
 
 <div class="mermaid">
 
@@ -210,7 +210,7 @@ D --> E[被害軽減・安全確保]
 
 ---
 
-### 参考文献・資料
+### Références/Matériaux
 
 - [農林水産省作成リーフレット「クマにご注意下さい」](https://www.maff.go.jp/j/seisan/tyozyu/higai/tyuuikanki/attach/pdf/index-12.pdf)
 - [「クマ類の出没対応マニュアル－改定版－（環境省）」](http://www.env.go.jp/nature/choju/docs/docs5-4a/index.html)

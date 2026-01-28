@@ -47,7 +47,7 @@ color: #fff;
 
 Les années 1980 ont été une période de transition de l'analogique au numérique, et le vocabulaire de la musique électronique s'est développé de manière explosive avec la diffusion des synthétiseurs polyphoniques, des sources sonores FM et du standard MIDI. Dans le même temps, le rôle croissant de la vidéo domestique, de la télévision par câble et de la musique de film a créé un lien étroit entre la musique et les images.
 
-Vers 2010, à mesure que la culture du partage sur Internet mûrissait, les anciennes vidéos, sources sonores et éléments de conception ont commencé à être remis en circulation. Dans cette tendance, l’image sonore des années 1980 n’était pas seulement nostalgique, mais devenait un objet à reconstruire avec une sensibilité moderne. Dreamwave / Chill Synthwave se présente comme une réinterprétation qui se concentre en particulier sur la « mémoire de scène ».
+Vers 2010, à mesure que la culture du partage sur Internet mûrissait, les anciennes vidéos, sources sonores et éléments de conception ont commencé à être remis en circulation. Dans cette tendance, l’image sonore des années 1980 n’était pas seulement nostalgique, mais devenait un objet à reconstruire avec une sensibilité moderne. Dreamwave / Chill Synthwave se présente comme une réinterprétation qui se concentre particulièrement sur la « mémoire scénique ».
 
 > Les années 1980 évoquées ici relèvent davantage d'une mémoire collective que d'une époque réelle.
 
@@ -78,7 +78,7 @@ B --> C[音色選択]
 C --> D[情緒的リスニング]
 </div>
 
-> Les images ne sont pas une aide, mais sont intégrées dans le cadre de la compréhension musicale.
+> Les visuels ne sont pas une aide, mais sont intégrés dans le cadre de la compréhension musicale.
 
 ---
 
@@ -104,7 +104,7 @@ Le travail de FM-84 fait référence aux sensibilités AOR et à la musique de f
 
 Timecop1983 est un artiste aux forts aspects Chill Synthwave, et se caractérise par une structure simple et une image sonore douce. Le rythme est réduit au minimum, la mélodie et la progression des accords occupant le devant de la scène.
 
-Bien que la musique de Timecop1983 soit de type BGM, elle est conçue de telle sorte que si vous écoutez attentivement, vous serez en mesure de discerner d'infimes changements de tonalité et de choix harmoniques.
+Bien que la musique de Timecop1983 ressemble à une musique de fond, elle est conçue de telle sorte que si vous écoutez attentivement, vous serez en mesure de discerner des changements infimes dans le ton et les choix harmoniques.
 
 > L'essence de Chill Synthwave est qu'il se fond dans le quotidien de l'auditeur.
 
@@ -127,7 +127,7 @@ Ceci peut être réalisé avec des écouteurs ou des haut-parleurs, mais comme l
 | années 1980 | La fusion des synthétiseurs et de la culture vidéo progresse |
 | Fin des années 2000 | Réévaluation des années 80 à travers la culture Internet |
 | Début des années 2010 | Subdivision des styles dérivés de synthwave |
-| Milieu des années 2010 | Création de Dreamwave/Chill Synthwave |
+| Milieu des années 2010 | Création de Dreamwave / Chill Synthwave |
 | Années 2020 | Progrès dans l'intégration des images et des espaces de vie |
 
 > La chronologie montre un flux continu de réinterprétation culturelle.

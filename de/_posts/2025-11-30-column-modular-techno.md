@@ -26,7 +26,7 @@ Text: mmr｜Thema: Über die Modular Techno-Szene
 
 Obwohl seine Ursprünge als Genre bis in die frühen 2000er Jahre zurückreichen, sind seine grundlegenden Elemente tief in der Entstehung analoger modularer Synthesizer in den 1970er Jahren und der Entstehung des Detroit Techno in den 1980er Jahren verwurzelt. Aufgrund des hohen Freiheitsgrads modularer Synthesizer ist es oft möglich, einzigartige Sounds zu entwickeln, die die Textur und räumliche Weite des Klangs betonen, anstatt einfach nur Techno-Tracks abzuspielen.
 
-In seinem Live-Set manipuliert er Rhythmus, Basslinie, Percussion und Geräuscheffekte in jedem Modul, um einen improvisierten musikalischen Raum zu schaffen, der sich verändert. Dadurch können Zuhörer ein Erlebnis erleben, das eher dem „Erleben einer Aufführung“ als dem „Hören eines Titels“ ähnelt.
+In seinem Live-Set manipuliert er Modul für Modul Rhythmus, Basslinie, Percussion und Geräuscheffekte, um einen improvisierten musikalischen Raum zu schaffen. Dadurch können Zuhörer ein Erlebnis erleben, das eher dem „Erleben einer Aufführung“ als dem „Hören eines Titels“ ähnelt.
 
 
 ---
@@ -183,7 +183,7 @@ Die Entwicklung der Modular Techno-Szene wird nicht nur von musikalischen Faktor
 
 Berlin diente nicht nur als internationales Zentrum für Techno, sondern auch als Testgelände für die modulare Synthesizer-Kultur. Clubs wie Berghain, Tresor und Griessmühle führten ein neues Auftrittsformat in den Kontext der Clubkultur ein, indem sie modulare Künstler im Rahmen von „Elektroakustischem Live“ auftraten, das sich von DJ-Sets unterschied.
 
-Darüber hinaus spielt die Superbooth (eine jährlich in Berlin stattfindende Synthesizer-Ausstellung) eine entscheidende Rolle bei der Entwicklung der modularen Kultur. Durch die Zusammenführung zahlreicher Hersteller, Künstler und Schöpfer und den direkten Austausch technischer Informationen und des Know-hows zur Klangerzeugung schritt die klangliche Verfeinerung von Modular Techno rasch voran.
+Darüber hinaus spielt Superbooth (eine jährlich in Berlin stattfindende Synthesizer-Ausstellung) eine entscheidende Rolle bei der Entwicklung der modularen Kultur. Durch die Zusammenführung zahlreicher Hersteller, Künstler und Schöpfer und den direkten Austausch technischer Informationen und des Know-hows zur Klangerzeugung schritt die klangliche Verfeinerung von Modular Techno rasch voran.
 
 <div class="mermaid">
 graph LR
@@ -201,7 +201,7 @@ Diese „Build-your-own-Kultur“ entspricht dem DIY-Geist des Techno und ist ei
 
 ---
 
-# Musikalische Charakteristika und Analyse
+# Musikalische Eigenschaften und Analyse
 
 Modular Techno weist mehrere gemeinsame akustische und strukturelle Eigenschaften auf. Im Folgenden werden wir die typischen Elemente klassifizieren und erklären, welche Funktionen sie innerhalb des Techno-Frameworks spielen.
 
@@ -295,7 +295,7 @@ graph LR
 
 # Zusammenfassung
 
-Modular Techno ist ein äußerst einzigartiges und innovatives Genre, das aus der Schnittstelle der Freiheit modularer Synthesizer und der rhythmischen Struktur von Techno besteht. Technologie, Kultur, Klang und Leistung sind auf komplexe Weise miteinander verbunden und entwickeln sich weltweit weiter.
+Modular Techno ist ein äußerst einzigartiges und innovatives Genre, das aus der Schnittstelle der Freiheit modularer Synthesizer und der rhythmischen Struktur von Techno besteht. Technologie, Kultur, Klang und Leistung sind auf komplexe Weise miteinander verknüpft und entwickeln sich weltweit weiter.
 Der Grund dafür ist die grundlegendste Freude an der elektronischen Musik: „den Moment zu manipulieren, in dem ein Klang live entsteht.“
 
 
@@ -371,7 +371,7 @@ Der Live-Auftritt des Surgeon-Duos mit Daniel Bean zeichnet sich durch einen Ans
 
 ## Alte Methoden
 
-Während er Techno mit einem starken Industrial-/EBM-Ton entwickelt, führt er bei Live-Auftritten auch Verzerrung und Geräuschverarbeitung mithilfe analoger Module ein. Modularität wird häufig als Quelle für harte Texturen verwendet.
+Während er Techno mit einem starken Industrial-/EBM-Ton entwickelt, führt er bei Live-Auftritten auch Verzerrung und Rauschverarbeitung mithilfe analoger Module ein. Modularität wird häufig als Quelle für harte Texturen verwendet.
 
 ## Rødhåd
 
@@ -408,7 +408,7 @@ flowchart TD
 
 ---
 
-### Patch-Beispiel 2: Rhythmusgenerierung mit Zufallselementen
+### Patch-Beispiel 2: Rhythmuserzeugung mit Zufallselementen
 
 <div class="mermaid">
 flowchart TD

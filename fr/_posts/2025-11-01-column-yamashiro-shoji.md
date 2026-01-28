@@ -22,7 +22,7 @@ Texte : mmr｜Thème : À propos du divertissement Yamashiro-gumi formé au déb
 
 
 Dans les années 1970, il y avait une personne qui se démarquait à la frontière entre la musique et le visuel japonais.
-**Shoji Yamashiro (vrai nom : Riki Ohashi)**. Il est diplômé du Département de chimie agricole de la Faculté d'agriculture de l'Université de Tohoku et s'intéresse aux sciences de la vie, à l'information et au son. Avec un fond de spéculation et de sensibilité scientifiques, il a positionné l'art comme « une expérience pour explorer la relation entre les humains et l'environnement ».
+**Shoji Yamashiro (vrai nom : Riki Ohashi)**. Il est diplômé du Département de chimie agricole de la Faculté d'agriculture de l'Université de Tohoku et s'intéresse aux sciences de la vie, à l'information et au son. Avec une formation de pensée et de sensibilité scientifiques, il a positionné l'art comme « une expérience pour explorer la relation entre les humains et l'environnement ».
 
 Le lieu de cette expérience était Geinoh Yamashirogumi, créé au début des années 1970.
 Plus qu'un simple groupe de musique, c'était une « communauté pour explorer de manière globale la relation entre le son, les humains et la société » et un « lieu » qui intégrait la musique, l'ethnologie, la théorie de l'information et l'anthropologie.
@@ -60,7 +60,7 @@ Le moment où le corps, la voix, l'espace et le temps se réunissent pour réson
 ## Chapitre 2 : 80 types de « sons de groupes » du monde entier – Quête d'une structure musicale universelle
 
 Geino Yamashiro-gumi a été actif de la fin des années 1970 aux années 1980.
-Il a en fait interprété et étudié « 80 types de spectacles ethniques du monde entier ».
+Il a en fait interprété et étudié **``80 types de spectacles ethniques du monde entier''**.
 Il ne s'agissait pas simplement d'une collection de musique folklorique, mais d'une exploration de la question fondamentale : « Quel est le son que les humains émettent en tant que groupe ? »
 
 ### ◇ Exemples d'objectifs de recherche/performance
@@ -74,7 +74,7 @@ Il ne s'agissait pas simplement d'une collection de musique folklorique, mais d'
 | Tibet/Mongolie | Homie chantant | Résonance laryngée et séparation harmonique |
 
 Plutôt que de les traiter comme des « matériaux », Yamashiro et al. observé et reconstruit leur structure, leur fonction et leur signification sociale.
-En particulier, la « structure acoustique qui transcende le temps et l'espace » de la musique gamelan à Bali est fondamentale pour la « création de groupe », l'« environnement informationnel » et les « études environnementales sonores » de Geino Yamashiro Gumi.
+En particulier, la « structure acoustique qui transcende le temps et l'espace » de la musique gamelan à Bali est fondamentale pour la « création de groupe », « l'environnement informationnel » et les « études environnementales saines » du Geino Yamashiro Gumi.
 
 > "Les gens forment des groupes basés sur le son. Le son évolue à travers les groupes."
 > — Shoji Yamashiro

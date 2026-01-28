@@ -25,7 +25,7 @@ Personne ne savait que cet endroit, qui n'était qu'un lieu de villégiature pou
 Le personnage central est **Daniele Baldelli**.
 Il n'est pas seulement un DJ, mais il est également connu comme « un architecte qui reconstruit la vitesse du son et de l'espace ».
 
-La scène disco de l’époque était dominée par les rythmes 4/4, représentés par la soul et la house music américaines.
+La scène disco de l'époque était dominée par le rythme 4/4, représenté par la soul et la house music américaines.
 Cependant, Baldelli entremêle musique ethnique, sons électroniques, rock progressif, batterie africaine et même krautrock.
 **Nous avons présenté le concept de "tempo cosmique"**, qui permet de changer librement le BPM.
 
@@ -91,7 +91,7 @@ Il y avait une forte impression de « composer » à nouveau les sons enregistr�
 
 | Sources utilisées | Exemples spécifiques |
 |:--|:--|
-| Usine Kraft | Kraftwerk, Canette, Ash Ra Tempel |
+| Usine Kraft | Kraftwerk, Can, Ash Ra Tempel |
 | Musique électronique italienne | Claudio Gizzi, Tullio De Piscopo |
 | Sons afro/ethniques | Manu Dibango, Fela Kuti |
 | Thème spatial | Espace, Fusées, Cerrone |
@@ -106,7 +106,7 @@ Ce mélange multiculturel a été le précurseur de **Balearic Sound**, **Leftfi
 ### lieu:
 ``**Discoteca Cosmic**'' sur les rives du lac de Garde, Italie du Nord (1979-1984)
 
-### 特徴：
+### Caractéristiques:
 - Plafonds bas et échos uniques
 - **Fumée + irradiation laser** au sol
 - La cabine DJ de Baldelli est installée sur une colline et possède une structure qui diffuse le son au-dessus du public.

@@ -121,7 +121,7 @@ Partch's instruments had the following roles:
 
 * Visualization of interval structure
 *Direct engraving on the performer's body
-* Inseparability of theory and practice
+* 理論と実践の不可分化
 
 ### 5.3 Physicality, language, and pitch
 
@@ -234,7 +234,7 @@ Microtonal music retrains your hearing.
 * Fluctuations in tonal sense
 * Calling attention to pitch
 
-This is established not through intellectual understanding but through repeated listening.
+This is established not through intellectual understanding, but through repeated listening.
 
 ---
 

@@ -77,7 +77,7 @@ This musicality is different from the "heaviness" and "groove" of later New York
 
 ## Lyrics and expression stance
 
-S.O.A's lyrics are short and direct, with little use of metaphor or narrative. What is depicted here is a fragmented sense of oppression, anger, and self-defense. It does not explicitly prescribe any particular political philosophy or social movement, but rather focuses on reflexive reactions to the circumstances in which individuals find themselves.
+S.O.A's lyrics are short and direct, with little use of metaphor or narrative. What is depicted here is a fragmented sense of oppression, anger, and self-defense. It does not explicitly prescribe any particular political ideology or social movement, but rather focuses on reflexive reactions to the circumstances in which individuals find themselves.
 
 This attitude differs from later straight edge and political hardcore. S.O.A existed at a stage before it had developed its ideology, and was emitting unexpressed anxiety and violence as sound.
 
@@ -101,7 +101,7 @@ No Policy E.P. is not a work that is evaluated for its completeness or sound qua
 
 S.O.A's live activities were short-lived and the venues were limited. They primarily performed in small clubs and DIY spaces, and were only known within the New York punk scene at the time. At live performances, the emphasis was on the energy of collision rather than musical perfection, and the distance from the audience was extremely close.
 
-The band disbanded around 1981. The reason for the group's disbandment is more like a spontaneous disappearance due to the movement of members and changes in their interests, rather than a specific incident. However, this dissolution does not end S.O.A. Instead, it spreads in a different way.
+The band disbanded around 1981. The reason for the group's disbandment is more like a natural disappearance due to the movement of members and changes in their interests, rather than a specific incident. However, this dissolution does not end S.O.A. Instead, it spreads in a different way.
 
 > S.O.A was a live band and was more present in the field than on record.
 
@@ -156,7 +156,7 @@ E --> G[Cro-Mags]
 ---
 
 
-## Conclusion: Sounds left on alert
+## Conclusion: Sounds left behind on alert
 
 > S.O.A was not a completed work, but an alarm sound itself.
 

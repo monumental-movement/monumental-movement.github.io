@@ -47,7 +47,7 @@ color: #fff;
 
 ---
 
-## 1. From "pass" to "trajectory": the gradation of the musical space traced by Eurobeat
+## 1. From "pass" to "orbit": the gradation of the musical space traced by Eurobeat
 
 As mentioned in the previous two works, the Eurobeat in Initial D was inseparable from Toge's story.
 However, it was not just an aid to the terrain and visual production, but a **device that translated the distortion of time into sound**.
@@ -80,7 +80,7 @@ And the origin of that philosophy is none other than the Eurobeat of the 90s.
 > "Speed ​​is the language of the times."
 > — anonymous Eurobeat producer, 1998 interview
 
-This word now takes on new meaning in the era of generative music.
+This word now takes on new meaning in the age of generative music.
 Speed ​​is not just a tempo, but exists as the speed at which emotions are calculated.
 
 ---

@@ -19,7 +19,7 @@ title: '[Column] 10-inch record technology supplement: The truth about groove wi
 ## 10-inch design concept: precision in the medium of format
 
 
-Text: mmr｜Theme: Delving into the technical background of 10-inch records, such as their structure, rotation speed, and mastering, and reconsidering the uniqueness of the sound produced by the format.
+Text: mmr | Theme: Delving into the technical background of 10-inch records, such as their structure, rotation speed, and mastering, and reconsidering the uniqueness of the sound produced by the format.
 
 
 The physical structure of a record embodies the philosophy of the musical format in its purest form.
@@ -77,7 +77,7 @@ Due to this structural feature, 10-inch discs exhibit the following acoustic tre
 - Tight midrange localization
 - High range is slightly rough, but has momentum
 
-This characteristic makes it suitable for live recordings and rough mixes, and this is why artists who choose 10-inch discs emphasize experimentation.
+This characteristic makes it suitable for live albums and rough mixes, and this is why artists who choose 10-inch discs emphasize experimentation.
 
 ---
 
@@ -201,7 +201,7 @@ flowchart TB
     D["Depth of groove\n→ Depends on amplitude"]
     W["Groove width (Width)\n→ Proportional to sound pressure"]
 
-    S -->|Follow| G
+    S -->|follow| G
     G --> L
     G --> V
     G --> D

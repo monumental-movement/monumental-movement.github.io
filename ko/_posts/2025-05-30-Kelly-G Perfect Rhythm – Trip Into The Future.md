@@ -12,11 +12,11 @@ tags:
 - Hardcore
 - Techno
 - 90s
-title: Kelly-G 퍼펙트 리듬 – 미래로의 여행
+title: Kelly-G 퍼펙트 리듬 - 미래로의 여행
 ---
 
 
-프로듀서는 Kelly-G로도 알려져 있는 Aron Friedman으로, 영국 출신으로 미국에 거주하고 있습니다.
+프로듀서는 Kelly-G로도 알려진 Aron Friedman으로, 영국 출신으로 미국에 거주하고 있습니다.
 
 Unie Weimer와 Aron Friedman이 운영하는 초기 영국 하드코어 및 테크노 레이블인 Perception Records에서 1991년에 발표한 획기적인 하드코어 테크노 트랙입니다.
 

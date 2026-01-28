@@ -48,7 +48,7 @@ Ende der 1970er Jahre befand sich Großbritannien mitten in einer wirtschaftlich
 1976 trafen sich Bernard Sumner, Peter Hook und Stephen Morris und gründeten Joy Division. Die frühen Mitglieder verbanden sich durch die Schule und die lokale Punkszene und spielten zunächst Coversongs, entwickelten sich aber schließlich zu eigenen Songs, die ihr Gefühl der Isolation und der Düsterkeit der Stadt widerspiegelten.
 
 **"Einflussfaden"**
-Kraftrock von Kraftwerk und Neu!, die kalten, harten Klänge von Velvet Underground und die avantgardistischen Elemente von David Bowie und Roxy Music bildeten die Grundlage für den frühen Sound von Joy Division.
+Kraftrock von Kraftwerk und Neu!, die kalten, harten Klänge des Velvet Underground und die avantgardistischen Elemente von David Bowie und Roxy Music bildeten die Grundlage für den frühen Sound von Joy Division.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9ryJB-FF_Jg?si=L5cecdtz45JglfbR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -120,7 +120,7 @@ Amazonで購入 → [Movement](https://amzn.to/4mXprzN)
 Mit Songs wie „Power, Corruption & Lies“, „Low-Life“ und „Technique“ vertieften sie ihre Fusion aus Rock, Synthesizer und Dance weiter. Sie experimentierten auf jedem Album mit unterschiedlichen Produktionstechniken und steigerten so ihre Resonanz in Clubs und im Radio.
 
 **„Fusion von Video/Design und Ton“**
-Das Kunstwerk von Peter Saville verbindet Musik und Visuals und etabliert die Markenidentität von New Order. Das Design wurde zu einem wichtigen Element, um den Inhalt des Albums symbolisch auszudrücken.
+Das Kunstwerk von Peter Saville verbindet Musik und Visuals und etabliert die Markenidentität von New Order. Das Design wurde zu einem wichtigen Element, das den Inhalt des Albums symbolisch zum Ausdruck brachte.
 
 **„Kooperation und Reibung zwischen Mitgliedern“**
 Die Rollenverteilung und die gegensätzlichen Meinungen zwischen Sumner, Hook, Morris und Gillian Gilbert erzeugen Spannungen innerhalb der Band, während sich die Musik weiterentwickelt. Reibung wurde auch zu einer treibenden Kraft für Kreativität.

@@ -48,7 +48,7 @@ B2. Neon
 ### Autechre – Envane
 <a href="https://jp.mercari.com/item/m70361302879?afid=6142608987"><img src="../assets/images/Autechre%20%E2%80%93%20Envane.webp"></a>
 
-Sortie : 1997
+Sortie : 1997
 
 Œuvre électro/techno britannique de Sean Booth et Rob Brown. Un CD contenant des rythmes et des paysages sonores expérimentaux
 
@@ -73,9 +73,9 @@ Sortie : 1997
 ### Luke Slater – Freek-Funk
 <a href="https://jp.mercari.com/item/m61298864776?afid=6142608987"><img src="../assets/images/Luke%20Slater%20%E2%80%93%20Freek%20Funk.webp"></a>
 
-Sortie : 1997
+Sortie : 1997
 
-Techno et électronique britanniques. Publié par NovaMute. Le top 5 des albums Mixmag des années 90
+Techno et électronique britanniques. Publié par NovaMute. Le top 5 des albums des années 90 selon Mixmag
 
 #### Liste des chansons
 ```md

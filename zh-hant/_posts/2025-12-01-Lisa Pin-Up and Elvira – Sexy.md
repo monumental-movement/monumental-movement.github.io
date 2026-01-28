@@ -16,9 +16,9 @@ title: 麗莎 Pin-Up 和埃爾維拉 – 性感
 
 Lisa Pin-Up (Lisa Chilcott) 是一位英國硬屋 DJ/製作人。她也是 Hard House/Nu NRG 樂隊 Tidy Girls 的成員。
 
-Porl Young，又名 Elvira，是一位英國製作人/DJ。 90年代中期，他是英國哥特搖滾樂隊Rosetta Stone的成員。
+Porl Young，又名 Elvira，是一位英國製作人/DJ。 20世紀90年代中期，他是英國哥特搖滾樂隊Rosetta Stone的成員。
 
-《Sexy》是 Rock Hard Recordings 廠牌於 2000 年發行的 Hard House 歌曲。
+《Sexy》是 Rock Hard Recordings 廠牌於 2000 年發行的 Hard House 曲目。
 
 B 是比利時電子音樂製作人 Fred Baker 的獨奏混音版，名稱為 Frenchtek/jumpstyle。
 

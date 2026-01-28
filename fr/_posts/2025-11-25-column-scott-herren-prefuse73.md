@@ -11,16 +11,16 @@ tags:
 - Hiphop
 - Ambient
 - Glitch
-title: '【コラム】 Scott Herren / Prefuse 73: ビートと断片の詩人'
+title: '[Chronique] Scott Herren / Préfuse 73 : Poète des rythmes et des fragments'
 ---
 
 
 
-# はじめに
+# Introduction
 
-文：mmr｜テーマ：生涯、キャリア、音楽スタイル、そしてプロジェクトを年表や図表を交えて辿る
+Texte : mmr｜Thème : Retracer la vie, la carrière, le style musical et les projets avec une chronologie et des graphiques
 
-Guillermo Scott Herren、通称 **Prefuse 73** は、21世紀初頭以降のインストゥルメンタル・ヒップホップ、IDM、エレクトロニカの世界で非常に重要なプロデューサーである。彼の音楽は、サンプルの断片化、ボーカルの切り貼り、グリッチ処理などを駆使した緻密なビート構築によって知られており、多くのクリエイターに影響を与えてきた。
+Guillermo Scott Herren, également connu sous le nom de **Prefuse 73**, est un producteur très important dans le monde du hip-hop instrumental, de l'IDM et de l'électro depuis le début du 21e siècle. Sa musique est connue pour sa construction méticuleuse de rythmes, qui utilise la fragmentation d'échantillons, le copier-coller vocal et le traitement des glitchs, et a influencé de nombreux créateurs.
 
 ---
 
@@ -38,107 +38,107 @@ color: #fff;
 </style>
 
 
-# 生い立ちと背景
+# Première vie et antécédents
 
-Guillermo Scott Herren は1976年、アメリカ・フロリダ州マイアミで生まれる。父はカタルーニャ出身、母はアイルランド系およびキューバ系で、幼少期から多文化的な環境で育った。母親による音楽教育を受け、ピアノをはじめ複数の楽器に親しんだ経験がある。  
+Guillermo Scott Herren est né en 1976 à Miami, en Floride, aux États-Unis. Son père est originaire de Catalogne et sa mère est d'origine irlandaise et cubaine, elle a donc grandi dès son plus jeune âge dans un environnement multiculturel. Il a été formé à la musique par sa mère et connaît plusieurs instruments dont le piano.
 
-少年期にはヒップホップやパンク、電子音楽に興味を抱き、地元マイアミの音楽シーンに影響を受ける。ティーンエイジャーの頃にはDJ活動を開始し、アトランタのナイトクラブでプレイするなど、早くから音楽制作とパフォーマンスに関わった。スタジオでの経験を通じて、音響的実験やサンプリング手法を磨く。
+Enfant, il s'est intéressé au hip-hop, au punk et à la musique électronique et a été influencé par la scène musicale de sa ville natale de Miami. Il a commencé à jouer comme DJ à l'adolescence, en jouant dans des boîtes de nuit à Atlanta et s'est impliqué dans la production et la performance musicales dès son plus jeune âge. Grâce à son expérience en studio, il affine ses expérimentations acoustiques et ses techniques d'échantillonnage.
 
-大学進学のためにニューヨークへ移住した際、自身の音楽プロジェクトを本格化させることになる。
-
----
-
-# 初期キャリア — Delarosa & Asora
-
-1997年、Scott Herren は **Delarosa & Asora** 名義でアルバム *Sleep Method Suite* を発表。  
-この時期の作品は、メロディックなテクノ、グリッチ、抽象的な電子音が特徴であり、初期の実験的な音響処理の基礎が形成されていた。  
-
-その後、シングルやEPのリリースも行い、細やかなクリック音や儚いメロディを融合させる独自の作風を展開していく。
+Lorsqu’il a déménagé à New York pour ses études universitaires, il a commencé sérieusement à développer son propre projet musical.
 
 ---
 
-# Savath & Savalas プロジェクト
+# Début de carrière — Delarosa et Asora
 
-2000年頃、別名義 **Savath & Savalas** としてプロジェクトを開始。  
-2000年にリリースされた *Folk Songs for Trains, Trees, and Honey* では、アコースティック楽器や環境音を取り入れたアンビエント志向のサウンドを提示。  
+En 1997, Scott Herren sort l'album *Sleep Method Suite* sous le nom de **Delarosa & Asora**.
+Les œuvres de cette période étaient caractérisées par de la techno mélodique, des glitchs et des sons électroniques abstraits, constituant la base des premiers traitements sonores expérimentaux.
 
-2004年には *Apropa’t* を発表。スペイン語・カタルーニャ語のボーカル、ポストロックやラテンの影響を反映させ、Prefuse 73 とは異なる音楽表現を追求した。  
-
-このプロジェクトは、彼の別の自己表現として位置づけられ、Prefuse 73 の実験性との関係性も含め多面的な音楽活動を示す。
+Après cela, ils ont sorti des singles et des EP, développant un style unique qui combine des sons de clics délicats et des mélodies éphémères.
 
 ---
 
-# Prefuse 73 の誕生と初期作品
+# Projet Savath & Savalas
 
-2001年、Herren は **Prefuse 73** 名義でデビューアルバム *Vocal Studies + Uprock Narratives* を発表。  
-MPC を駆使した断片的サンプル、ボーカルの切り貼り、グリッチ処理が特徴で、多くのゲストアーティストを迎えながらも独自の世界観を構築した。  
+Vers 2000, le projet a démarré sous le pseudonyme **Savath & Savalas**.
+*Folk Songs for Trains, Trees, and Honey*, sorti en 2000, présente un son orienté ambiant qui intègre des instruments acoustiques et des sons environnementaux.
 
-続いて 2002年には EP *The ’92 vs. ’02 Collection* を発表。電子ノイズや実験的ビートを強化した内容となった。  
+En 2004, il sort *Apropa't*. Reflétant le chant espagnol/catalan, les influences post-rock et latines, ils poursuivent une expression musicale différente de Prefuse 73.
 
-2003年、重要アルバム *One Word Extinguisher* をリリース。未使用テイクやリミックスをまとめた *Extinguished: Outtakes* も同時に発表。  
-この作品群は、サンプル断片化と緻密なビートの構築をさらに進化させ、IDM とヒップホップの橋渡し的役割を果たした。
-
----
-
-# 中期：コラボレーションと実験性の深化
-
-2005年の *Surrounded by Silence* では Ghostface Killah、El-P、Kazu（Blonde Redhead）、The Books など多彩なゲストを迎え、音の世界を拡張。  
-
-同年、The Books とのコラボレーション EP *Prefuse 73 Reads the Books* を発表し、彼のコラボ精神と実験性が顕著となる。  
-
-2006年、長さはアルバム級だが EP 扱いの *Security Screenings* をリリース。  
-
-2007年には *Preparations* を発表、ボーナスディスク *Interregnums* ではアンビエント志向の音楽を提示した。
+Ce projet se positionne comme une autre forme d'expression de soi et montre ses activités musicales aux multiples facettes, y compris la relation avec la nature expérimentale de Prefuse 73.
 
 ---
 
-# レーベル設立と新展開
+# Naissance du Préfuse 73 et premiers travaux
 
-Herren は **Eastern Developments Music** を設立し、共同でレーベル運営を開始。さらに **Yellow Year Records** を立ち上げ、コラボレーションシリーズ *Speak Soon* を展開。  
+En 2001, Herren sort son premier album *Vocal Studies + Uprock Narratives* sous le nom de **Prefuse 73**.
+Il se caractérise par des échantillons fragmentaires qui utilisent pleinement le MPC, le copier-coller vocal et le traitement des glitchs, et bien qu'il compte de nombreux artistes invités, il a créé sa propre vision du monde.
 
-新レーベルでは Teebs との *Sons of the Morning Volume 1* など、多様なクリエイターとのコラボレーションが可能となり、実験性の拡張が促された。
+En 2002, ils sortent l'EP *The '92 vs. '02 Collection*. Le contenu a été enrichi de bruit électronique et de rythmes expérimentaux.
 
----
-
-# 復帰と近年のリリース
-
-2015年、アルバム *Rivington Não Rio* と EP *Forsyth Gardens*、*Every Color of Darkness* を同時発表。  
-
-2018年には *Sacrifices* を発表し、初期 Prefuse 73 のスパースなビートや切り貼りの手法への回帰を示す。  
-
-2024年には *New Strategies for Modern Crime Vol. 1* および *Vol. 2* をリリースし、再び新しい実験的アプローチを展開している。
+En 2003, sort l'album phare *One Word Extinguisher*. *Extinguished: Outtakes*, une compilation de prises et de remix inutilisés, est également sortie au même moment.
+Cet ensemble de travaux a fait évoluer la fragmentation des échantillons et la construction précise des rythmes, et a servi de pont entre l'IDM et le hip-hop.
 
 ---
 
-# アリ​​アス／並行プロジェクト一覧
+# Moyen terme : Approfondir la collaboration et l'expérimentation
 
-| 名義／プロジェクト | 特徴・役割 |
+*Surrounded by Silence* en 2005 a élargi le monde du son avec une variété d'invités, dont Ghostface Killah, El-P, Kazu (Blonde Redhead) et The Books.
+
+La même année, il sort un EP collaboratif avec The Books, *Prefuse 73 Reads the Books*, démontrant son esprit de collaboration et sa nature expérimentale.
+
+En 2006, il sort *Security Screenings*, qui dure un album mais est traité comme un EP.
+
+En 2007, ils sortent *Preparations*, et le disque bonus *Interregnums* présente de la musique orientée ambient.
+
+---
+
+# Mise en place du label et nouveau développement
+
+Herren a fondé **Eastern Developments Music** et a commencé à diriger le label ensemble. De plus, il a lancé **Yellow Year Records** et développé la série de collaboration *Speak Soon*.
+
+Le nouveau label permet des collaborations avec divers créateurs, tels que *Sons of the Morning Volume 1* avec Teebs, et encourage une expansion de l'expérimentation.
+
+---
+
+# Retours et sorties récentes
+
+En 2015, l'album *Rivington Não Rio* et les EP *Forsyth Gardens* et *Every Color of Darkness* sont sortis simultanément.
+
+En 2018, il a sorti *Sacrifices*, marquant un retour aux rythmes clairsemés et aux techniques de copier-coller des premiers Prefuse 73.
+
+En 2024, il sortira *New Strategies for Modern Crime Vol.1* et *Vol.2*, développant une nouvelle fois une nouvelle approche expérimentale.
+
+---
+
+# Liste des Arias/projets parallèles
+
+| Nom/Projet | Caractéristiques/Rôle |
 |---|---|
-| Prefuse 73 | 断片化ボーカル、グリッチ、ヒップホップ／IDM融合 |
-| Delarosa & Asora | 初期キャリア、実験的テクノ、電子音楽 |
-| Savath & Savalas | アンビエント／民族音楽的、アコースティック中心 |
-| Piano Overlord | ピアノ主体、鍵盤中心のプロジェクト |
-| Ahmad Szabo | 別名義、多作家としての多様性 |
-| その他コラボレーション | Sons of the Morning、Fudge、Risil、Diamond Watch Wrists 等 |
+| Préfuse 73 | Voix fragmentées, glitchs, fusion hip-hop/IDM |
+| Delarosa et Asora | Début de carrière, techno expérimentale, musique électronique |
+| Savath et Savalas | Musique d'ambiance/folk, principalement acoustique |
+| Seigneur du piano | Projet basé sur le piano et le clavier |
+| Ahmad Szabo | La diversité en tant que multi-auteur sous différents noms |
+| Autres collaborations | Fils du matin, Fudge, Risil, bracelets de montre en diamant, etc. |
 
 ---
 
-# 音楽スタイルと影響
+# Styles et influences musicales
 
-- ヒップホップ（1990年代）、マイアミベース、IDM、ジャズを融合。  
-- サンプルやボーカルを極小単位で切り貼りして再構成する技術が特徴。  
-- 単なる実験音楽ではなく、断片の中に都市的感情や人間性を表現。  
-- コラボレーションを通じて音楽的幅を拡張し、新世代クリエイターとも接点を持つ。
-
----
-
-# まとめ
-
-Scott Herren / Prefuse 73 は、21世紀のビート音楽において非常に重要な存在であり、単なるプロデューサー以上の作曲家／音響詩人である。多彩なプロジェクトやレーベル運営、復帰作を通じて、自己刷新と実験性を絶えず続けている。今後も、新たなコラボレーションや実験作品の発表が期待される。
+- Fusion de hip-hop (années 1990), Miami bass, IDM et jazz.
+- Dispose d'une technologie qui coupe et colle des échantillons et des voix en unités extrêmement petites pour les reconstruire.
+- Plus qu'une simple musique expérimentale, elle exprime les émotions urbaines et l'humanité par fragments.
+- Élargissez votre gamme musicale grâce à la collaboration et connectez-vous avec des créateurs de nouvelle génération.
 
 ---
 
-# 年表
+# résumé
+
+Scott Herren / Prefuse 73 est une figure extrêmement importante de la beat music du 21ème siècle, plus qu'un simple producteur, c'est un compositeur/poète sonore. À travers divers projets, gestion de label et sorties de retour, il continue de se réinventer et d'expérimenter constamment. On s’attend à ce que de nouvelles collaborations et travaux expérimentaux soient annoncés à l’avenir.
+
+---
+
+# Chronologie
 
 <div class="mermaid">
 timeline
@@ -161,7 +161,7 @@ timeline
 
 ---
 
-# キャリア・マップ（プロジェクト関係図）
+# Cartographie de carrière (schéma des relations projet)
 
 <div class="mermaid">
 graph LR
@@ -177,7 +177,7 @@ graph LR
 
 ---
 
-# 音楽スタイル影響図
+# Tableau d'influence du style musical
 
 <div class="mermaid">
 graph TD

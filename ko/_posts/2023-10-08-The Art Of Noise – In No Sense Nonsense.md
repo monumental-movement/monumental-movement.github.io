@@ -9,7 +9,7 @@ permalink: /ko/the-art-of-noise-in-no-sense-nonsense/
 tags:
 - Synth-Pop
 - Leftfield
-title: 소음의 예술 – 말도 안 돼 넌센스
+title: 소음의 예술 - 말도 안돼 넌센스
 ---
 
 

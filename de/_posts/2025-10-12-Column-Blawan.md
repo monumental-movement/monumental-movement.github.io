@@ -71,7 +71,7 @@ Im Jahr 2012 erschütterte die weltweite Clubszene.
 Dieses eine Lied machte Blawans Namen endgültig.
 
 Der Titel ist beunruhigend.
-Das verzerrte Gesangsbeispiel klingt wie ein Geist, der in einem Keller stöhnt.
+Das verzerrte Gesangssample klingt wie ein Geist, der in einem Keller stöhnt.
 Der Beat ist schwer und wiederholt sich mit einer Hartnäckigkeit, die an Wahnsinn grenzt.
 Es liegt jedoch ein seltsames **„Vergnügen“** darin.
 Es komprimierte den Körper des Zuhörers und ließ ihn gleichzeitig los – es war ein Moment der **Angst und Euphorie**.
@@ -142,7 +142,7 @@ Und die zarten Partikel von Skee Mask.
 All das wird in ihm wieder aufgebaut.
 
 Anstelle der Sterilität Berlins bevorzuge ich die Luftfeuchtigkeit Londons.
-Verwenden Sie eher den Druck Ihrer Handfläche als den digitalen.
+Verwenden Sie den Druck Ihrer Handfläche statt des digitalen Drucks.
 Blawan wählt weiterhin **Landgewicht**.
 Es ist auch eine Form des Widerstands für den Verein, wieder ein „Ort“ zu sein.
 
@@ -231,7 +231,7 @@ flowchart TD
 
 ---
 
-> „Wenn ich Blawan auf der DJ-Seite spiele,
+> „Wenn ich Blawan auf dem DJ-Gelände spiele,
 > Jeder steht für einen Moment bereit.
 >Aber dann lachst du.
 > Ihr Körper reagiert von selbst. Das ist nicht logisch. ”

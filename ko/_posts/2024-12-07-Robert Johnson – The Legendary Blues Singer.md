@@ -8,7 +8,7 @@ layout: post
 permalink: /ko/robert-johnson-the-legendary-blues-singer/
 tags:
 - Blues
-title: 로버트 존슨 - 전설적인 블루스 가수
+title: 로버트 존슨 – 전설적인 블루스 가수
 ---
 
 

@@ -49,7 +49,7 @@ color: #fff;
 
 ### 2.1 Aufbau des Magnetbandes
 
-Magnetband ist ein flexibles physikalisches Medium. Vorgänge wie Schneiden, Spleißen, Abwickeln und Ändern der Geschwindigkeit wurden allesamt als physische Handlungen ausgeführt. Diese Körperlichkeit wurde in den 1970er Jahren zu einem wichtigen Faktor der Neubewertung.
+Magnetband ist ein flexibles physisches Medium. Vorgänge wie Schneiden, Spleißen, Abwickeln und Ändern der Geschwindigkeit wurden allesamt als physische Handlungen ausgeführt. Diese Körperlichkeit wurde in den 1970er Jahren zu einem wichtigen Faktor der Neubewertung.
 
 ### 2.2 Komposition als Bearbeitungsakt
 
@@ -65,7 +65,7 @@ Durch die extrem nahe Platzierung des Mikrofons an der Schallquelle wurden winzi
 
 ### 3.2 Mehrpunkt-Soundsammlung
 
-Bei der Tonaufnahme mit mehreren Mikrofonen handelte es sich um die Aufnahme einer einzelnen Tonquelle aus verschiedenen Perspektiven und wurde zur Grundlage für die Neugestaltung der räumlichen Struktur im späteren Bearbeitungsprozess.
+Die Tonaufnahme mit mehreren Mikrofonen war der Vorgang, eine einzelne Tonquelle aus verschiedenen Perspektiven einzufangen und wurde zur Grundlage für die Neugestaltung der räumlichen Struktur im späteren Schnittprozess.
 
 ---
 
@@ -97,7 +97,7 @@ Durch die Rückwärtswiedergabe wurde der kausale Zusammenhang zwischen Klängen
 
 ### 6.1 Feste Medien und Improvisation
 
-Improvisierte Musik basiert grundsätzlich auf einer einmaligen Darbietung, aber das Band fixiert das Ergebnis. Gleichzeitig entstand eine Praxis, die die Tonbandwiedergabe als Teil der Improvisation betrachtete und die Grenze zwischen fest und variabel verwischte.
+Improvisierte Musik basiert grundsätzlich auf einer einmaligen Darbietung, aber das Ergebnis wird durch Tonband fixiert. Gleichzeitig entstand eine Praxis, die die Tonbandwiedergabe als Teil der Improvisation betrachtete und die Grenze zwischen fest und variabel verwischte.
 
 ### 6.2 Anschluss an spannungsführende Elektronik
 
@@ -113,7 +113,7 @@ Bei Tonbandmusik wurden Verzerrungen, Rauschen und Bearbeitungsspuren nicht bese
 
 ### 7.2 Medienspezifisches Rauschen
 
-Die für Bänder typischen Sättigung, Aussetzer und Gleichlaufschwankungen wurden als Ausdruckselemente unabhängig von der Tonquelle neu bewertet.
+Die für Bänder charakteristischen Sättigungs-, Aussetzer- und Gleichlaufschwankungen wurden als Ausdruckselemente unabhängig von der Tonquelle neu bewertet.
 
 ---
 

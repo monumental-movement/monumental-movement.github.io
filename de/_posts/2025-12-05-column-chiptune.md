@@ -19,7 +19,7 @@ title: '[Spalte] Aktueller Standort und Zukunft von Chiptune / 8-Bit-Musik'
 
 Text: mmr｜Thema: Umfassende Forschung zur Neuinterpretation von Famicom/Game Boy-Soundquellen in die Neuzeit
 
-Der als Chiptune oder 8-Bit-Musik bekannte Sound hat die Grenzen eines nostalgischen Genres überschritten, das lediglich an die Klänge von Retro-Spielen erinnert, und hat weiterhin eine einzigartige Kraft in der modernen Musikkultur. Es gibt viele Gründe, aber der grundlegendste ist „universelle Musikalität, die aus Zwängen entsteht“**.
+Der als Chiptune oder 8-Bit-Musik bekannte Sound hat die Grenzen eines nostalgischen Genres überschritten, das lediglich an die Klänge von Retro-Spielen erinnert, und hat weiterhin eine einzigartige Kraft in der modernen Musikkultur. Dafür gibt es viele Gründe, aber der grundlegendste ist „universelle Musikalität, die aus Zwängen entsteht“**.
 
 Die Sounds von Famicom/NES und Game Boy basieren beide auf einer begrenzten Anzahl von Kanälen, begrenzten Wellenformen und einer begrenzten Auswahl an Tönen. Allerdings sind die Melodien, die innerhalb dieser Zwänge entstanden sind, alle ungewöhnlich einprägsam. Es hat einen extrem hohen Melodius, sodass sich jeder die Melodie innerhalb weniger Sekunden nach dem Hören merken kann.
 
@@ -75,7 +75,7 @@ Der Game Boy ist mit einer CPU + PSG-Soundquelle namens **Sharp LR35902** ausges
 - **Rechteckwelle (Puls 2)**
 - **Wellenformspeicher (Wave-Kanal)**
 - Kanal, mit dem Sie 4-Bit-Wellenformen mit 32 Samples frei zeichnen können
-- **Geräuschkanal**
+- **Rauschkanal**
 
 Der Wellenformspeicher ist das Herzstück der Kreativität, und selbst im modernen Game Boy Chiptune wird der Wave-Kanal häufig zur Erzeugung von Bässen, Lead-, Kick- und einzigartigen Tönen verwendet. Besonders attraktiv ist die Dicke im unteren Bereich, die als „Game-Boy-ähnlicher Klang“ geschätzt wird, einschließlich des für die Hardware typischen DAC-Rauschens.
 
@@ -250,7 +250,7 @@ Es wird nicht nur als Musikgenre betrachtet, sondern als umfassende Ausdrucksfor
 ## Kapitel 10: Die Zukunft von Chiptune und die Zukunft der 8-Bit-Ästhetik
 
 8-Bit-Musik ist kein Symbol mehr für Retro;
-**Eine Existenz, die der Moderne als „Cluster eingeschränkter Ästhetik“ neue Ideen gibt**
+**Eine Einheit, die der Moderne als „Cluster eingeschränkter Ästhetik“ neue Ideen verleiht**
 Es ist geworden.
 
 - Verwendung in Hyperpop und EDM

@@ -18,7 +18,7 @@ title: '[Chronique] Jazz microtonal / Jazz quart de ton'
 
 ## Introduction : Le jazz et l'expansion des concepts de pitch
 
-Texte : mmr｜Thème : Analyse de la théorie, de l'interprétation et du système éducatif du jazz microtonal/jazz quart-ton centré sur Joe Maneri et Jacob Collier
+Texte : mmr｜Thème : Analyse de la théorie, de l'interprétation et du système éducatif du jazz microtonal/jazz quart-ton centré sur Joe Maneri et Jacob Collier
 
 Depuis sa création, le jazz est une musique qui relativise un système de hauteur fixe. Historiquement, il existe des pratiques qui ne rentrent pas dans le cadre des 12 tempéraments égaux, comme la variabilité des tierces et des septièmes représentée par la Blue Note, l'embouchure sur les instruments à vent et le portamento sur les instruments à cordes. La tendance connue sous le nom de jazz microtonal ou jazz quart de ton se caractérise par l'extension théorique et structurelle de ces conventions et par le placement explicite des « intervalles microtonaux » au cœur de l'organisation sonore.
 
@@ -76,7 +76,7 @@ En particulier dans les performances d'improvisation, les intervalles qui étaie
 
 ### 3-1 Contexte et positionnement
 
-Joe Maneri est une personne qui a développé sa propre théorie microtonale alors qu'il était actif en tant que saxophoniste et clarinettiste. Bien qu'il soit basé sur un tempérament égal à 24, il mettait également l'accent sur le sens de l'intonation juste et était un éducateur qui liait étroitement la théorie et la pratique.
+Joe Maneri est une personne qui a développé sa propre théorie microtonale alors qu'il était actif comme saxophoniste et clarinettiste. Bien qu'il soit basé sur un tempérament égal à 24, il mettait également l'accent sur le sens de l'intonation juste et était un éducateur qui liait étroitement la théorie et la pratique.
 
 ### 3-2 Structure de la théorie microtonale
 
@@ -142,7 +142,7 @@ Dans l'approche de Collier, les voix individuelles peuvent avoir des hypothèses
 
 ---
 
-## Chapitre 5 : Utilisation du microton dans l'improvisation
+## Chapitre 5 : Fonctionnement du microton en improvisation
 
 ### 5-1 Construction de phrases
 

@@ -10,7 +10,7 @@ tags:
 - Disco
 - 80s
 - 7inch
-title: 牛頓家族——堂吉訶德
+title: 牛頓家族——唐吉訶德
 ---
 
 

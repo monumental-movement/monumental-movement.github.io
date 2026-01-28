@@ -12,14 +12,14 @@ tags:
 - House
 - Instrumental
 - 00s
-title: Rednose Distrikt – Hedde Gy'N Nieuwe Jurk
+title: Quartier Rednose – Hedde Gy'N Nieuwe Jurk
 ---
 
 
-Rednose Distriktは、アムステルダムを拠点に活動するKid SublimeとSteven de Pevenのコラボレーションとしてスタートし、後にKid Sublime が脱退しAardvarck ことMike Kivitsが加入した。
-彼らのサウンドは、ブロークンビート、オフサイドテクノ、カットアップソウル、サンプルスラップスティックジャズなど、さまざまな要素ミックスするスタイルが特徴。
+Rednose Distrikt a commencé comme une collaboration entre le groupe Kid Sublime basé à Amsterdam et Steven de Peven, avant que Kid Sublime ne parte et que Mike Kivits, alias Aardvarck, ne le rejoigne.
+Leur son est caractérisé par un mélange de divers éléments, notamment du beat brisé, de la techno hors-jeu, de la soul découpée et du jazz burlesque samplé.
 
-このレコードは、オランダのショップRockwellのスピンオフRockwell Recordsから2005年にリリースされたアブストラクト・ブレイク・ハウストラック。(プロモ盤)
+Ce disque est un morceau de break house abstrait sorti en 2005 par Rockwell Records, un spin-off du magasin néerlandais Rockwell. (édition promotionnelle)
 
 #### Liste des chansons
 ```md

@@ -131,7 +131,7 @@ Jazz, hip-hop, ambient, sound art - he doesn't fit into any of them, but rather 
 - [*Haunted Weather* (2004)](https://amzn.to/48lz4o3)
 - [*Sinister Resonance* (2010)](https://amzn.to/3Kd5l6N)
 
-- **Music works**
+- **Music Works**
 - *New and Rediscovered Musical Instruments* (with Max Eastley, 1975)
 - *Screen Ceremonies* (1990)
 - *Museum of Fruit* (1996)
@@ -141,7 +141,7 @@ Jazz, hip-hop, ambient, sound art - he doesn't fit into any of them, but rather 
 
 ### Related columns
 
- [【コラム】 US HipHop（アメリカヒップホップ）の歴史：地域・クラブ・メディア・機材を含めた全体像](https://monumental-movement.jp/Column-Hiphop-History)
+[[Column] History of US Hip Hop: Overall picture including regions, clubs, media, and equipment](https://monumental-movement.jp/Column-Hiphop-History)
 
 [[Column] What is ambient music? A philosophy of "sounds that exist" rather than sounds that are heard] (https://monumental-movement.jp/Column-Ambient)
 

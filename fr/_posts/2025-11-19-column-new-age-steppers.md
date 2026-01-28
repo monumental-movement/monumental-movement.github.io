@@ -52,7 +52,7 @@ Les membres changeaient à chaque album et le style, mélange de musiciens post-
 
 * **Adrian Sherwood** : Producteur/Réalisateur de On-U Sound
 * **Ari Up** (The Slits) : chant
-* **Mark Stewart** (The Pop Group) : chant
+* **Mark Stewart** (The Pop Group) : chant
 * **George 'Bingy Bunny' Valentine** (Roots Radics) : Guitare
 * **Style Scott** (Roots Radics) : Batterie
 * **Bruce Smith** (The Pop Group) : Batterie
@@ -243,7 +243,7 @@ Le prototype de la « création multi-genres » dans laquelle les musiciens du 2
 
 ---
 
-# 年表
+# Chronologie
 
 
 1979 Adrian Sherwood commence les préparatifs pour lancer On-U Sound

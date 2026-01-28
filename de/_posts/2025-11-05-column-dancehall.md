@@ -323,6 +323,6 @@ graph TD
 
 Dieses Diagramm zeigt die Entwicklung der Soundsystemkultur im Zusammenhang mit Musikgenres auf der ganzen Welt.
 Hip-Hop (NY), Techno (Berlin), Afrobeats (Lagos) und japanische Clubkultur.
-Wir alle teilen eine „Basskultur = Bassgemeinschaft“.
+Wir alle teilen eine „Basskultur = Bass-Community“.
 
 ---

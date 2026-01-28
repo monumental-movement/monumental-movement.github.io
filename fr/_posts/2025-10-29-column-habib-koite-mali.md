@@ -63,13 +63,13 @@ Cette diversité est la « polyphonie fondamentale » de la musique malienne, et
 
 ---
 
-## Chapitre 2 : Origine et années de formation d'Habib Koite
+## Chapitre 2 : Origine et années de formation d'Habib Koite
 
 Habib Koité est née à Kayazi, au Mali, en 1958. Sa grand-mère faisait partie de la famille de Geri et elle a grandi entourée de musique et d'histoires dès son plus jeune âge.
 Dans sa jeunesse, il étudie à l'**Institut National des Arts (INA)** de Bamako, où il maîtrise la guitare classique et le solfège.
 Après avoir obtenu son diplôme, il a commencé à innover dans son style de jeu de guitare.
 
-Koité a conçu une technique de jeu unique dans laquelle il tirait les cordes avec ses ongles au lieu de ses doigts, reproduisant ainsi le son délicat du kamarengoni.
+Koité a conçu une technique de jeu unique dans laquelle il tirait les cordes avec ses ongles au lieu de ses doigts, reproduisant le son délicat du kamarengoni.
 Le son produit par cette guitare rejette l'accordage européen et se rapproche des rythmes africains. C'était comme le bruit du **vent du désert et du courant du fleuve Niger**.
 
 ---
@@ -118,7 +118,7 @@ Son objectif est de convertir les sonorités maliennes en un « langage compréh
 Mais il ne s’agit pas uniquement de mondialisation. Il s’agit plutôt d’une recherche de **sons qui peuvent atteindre le monde sans être occidentalisés**.
 
 Par exemple, dans ses performances live, il utilise six langues différentes (Bambara, Dogon, Français, Anglais, Songhaï, Peul).
-Il fait des allers-retours entre la musique et les mots, et incarne « l'identité multilingue » elle-même sur scène.
+Il fait des allers-retours entre la musique et les mots, et incarne sur scène « l'identité multilingue ».
 
 ---
 
@@ -140,7 +140,7 @@ Cette métaphore de la « racine et de la branche » décrit le mieux la philoso
 Les générations suivantes des Koité comprenaient les **Rokia Traoré**, **Fatoumata Diawara** et **Vieux Farka Touré**.
 Tous ont hérité du « contexte acoustique africain » instauré par Koité, tout en évoluant dans une direction plus personnelle et expérimentale.
 
-En d’autres termes, Habib Koité a été le premier à faire le lien entre la musique malienne et l’expression individuelle.
+En d’autres termes, Habib Koité a été le premier à faire le pont entre la musique malienne et l’expression individuelle.
 
 ---
 

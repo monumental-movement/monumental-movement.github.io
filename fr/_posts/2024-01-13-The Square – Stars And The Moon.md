@@ -10,25 +10,25 @@ tags:
 - Jazz
 - Band
 - 80s
-title: The Square – Stars And The Moon
+title: La Place – Les étoiles et la lune
 ---
 
 
-THE SQUARE（ザ・スクェア）またはT-SQUARE（ティー・スクェア）は、1976年に結成された日本のジャズフュージョンバンド。
+THE SQUARE ou T-SQUARE est un groupe de jazz fusion japonais formé en 1976.
 
-彼らは他の日本のフュージョンバンドと共に、1970年代後半から1980年代初頭にかけて活躍した。
+Ils étaient actifs à la fin des années 1970 et au début des années 1980, aux côtés d'autres groupes de fusion japonais.
 
-最も成功したラインナップには、ギタリストの安藤正容、ベーシストの須藤満、サックス奏者でフルートとEWIも演奏する伊東たけし、キーボーディストの和泉宏隆、そしてドラマーの則竹博之が含まれています。
+La formation la plus réussie comprend le guitariste Masayoshi Ando, ​​​​le bassiste Mitsuru Sudo, le saxophoniste Takeshi Ito, qui joue également de la flûte et de l'EWI, le claviériste Hirotaka Izumi et le batteur Hiroyuki Noritake.
 
-1984年にリリースされた「Stars and the Moon（スターズ アンド ザ ムーン）」は、THE SQUAREの9作目のアルバム。
+"Stars and the Moon", sorti en 1984, est le neuvième album de THE SQUARE.
 
-≡ THE SQUARE
+≡ LE CARRÉ
 
-安藤まさひろ、伊東たけし 、田中豊雪 、和泉宏隆 、長谷部徹 
+Masahiro Ando, ​​​​Takeshi Ito, Toyuki Tanaka, Hirotaka Izumi, Toru Hasebe
 
-≡ 参加ミュージシャン
+≡ Musiciens participants
 
-仙波清彦、兼崎順一、Yutaka Kanai、新井英治、三田治美、中西俊博アンサンブル
+Kiyohiko Senba, Junichi Kanezaki, Yutaka Kanai, Eiji Arai, Harumi Mita, Toshihiro Nakanishi Ensemble
 
 #### Liste des chansons
 ```md

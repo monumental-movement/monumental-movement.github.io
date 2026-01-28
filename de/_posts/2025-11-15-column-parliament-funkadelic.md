@@ -266,7 +266,7 @@ timeline
 ## Fazit: P-Funk ist ein „riesiges Archiv schwarzer Futures“
 
 George Clinton ist mehr als nur ein Funk-Leader.
-Er war ein „Kulturarchitekt“, der **Musik, den Körper, das Universum, Mythologie und Gesellschaftskritik** zusammenbrachte.
+Er war ein „Kulturdesigner“, der **Musik, den Körper, das Universum, Mythologie und Gesellschaftskritik** zusammenbrachte.
 
 Die Weltanschauung von P-Funk ist bis heute lebendig und bildet die Grundlage für aktuellen Hip-Hop, R&B, Elektrokunst und Mode.
 Solange P-Funk im Zentrum der schwarzen Musik bleibt, die von der Zukunft spricht, wird ihr Raumschiff „Mothership“ niemals landen.

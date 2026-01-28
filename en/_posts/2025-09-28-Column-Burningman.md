@@ -99,7 +99,7 @@ Since the 2000s, giant "mutant vehicles" and sculptures made of fire have attrac
 
 ### Contemporary implications and challenges
 
-While Burning Man remains a hub of creativity, it faces commercialization, safety and environmental concerns, and the question, "Who is Burning for?" The community is stepping up sustainability efforts (Leave No Trace, art grants) and sharing knowledge in regional networks.
+While Burning Man remains a hub of creativity, it faces commercialization, safety and environmental issues, and the question, "Who is Burning for?" The community is stepping up sustainability efforts (Leave No Trace, art grants) and sharing knowledge in regional networks.
 
 ---
 
@@ -256,7 +256,7 @@ With the theme of xinxing/spiritual world, many works have appeared that deal wi
 
 #### 2006: Hope & Fear
 
-希望と恐怖という対立軸を探索するテーマ。 There were structures and media art that hinted at the fragility of human civilization and future orientation.
+A theme that explores the conflicting axes of hope and fear. There were structures and media art that hinted at the fragility of human civilization and future orientation.
 
 ---
 

@@ -77,7 +77,7 @@ Dies ist eine typische Vereinskonfiguration, bei der das Spielfeld in der Pause 
 
 #### Akustische Eigenschaften (geschätzt)
 - Die Trittenergie ist auf den niedrigen Bereich (40–60 Hz) konzentriert.
-- Subbass- und Percussion-Layer im Mitteltonbereich
+- Subbass- und Percussion-Ebenen im Mitteltonbereich
 - Weißes Rauschen, Sirene und Synth-Pads schaffen einen Raum im oberen Bereich
 
 #### Rolle im DJ-Set
@@ -138,7 +138,7 @@ Es wird verwendet, um den Groove in der Mitte eines Satzes aufrechtzuerhalten od
 
 #### Songstruktur und Rhythmus
 Es hat ein starkes melodisches Element, wobei Pads und Synthesizer allmählich mit dem Rhythmus im Intro verschmelzen.
-Nach dem Drop entwickeln sich Melodie und Beat in mehreren Schichten, und der Break beruhigt sich für eine Weile und schlägt eine Brücke zum nächsten Aufbau.
+Nach dem Drop entwickeln sich Melodie und Beat schichtweise, und der Break beruhigt sich für eine Weile und schlägt eine Brücke zum nächsten Aufbau.
 
 #### Akustische Eigenschaften (geschätzt)
 - Niedrig: Stabilisieren Sie den Boden mit Tritten und Bässen
@@ -164,7 +164,7 @@ Klare Build-Break-Drop-Struktur, perfekt für Festivals und Peak-Sets.
 #### Akustische Eigenschaften (geschätzt)
 - Tief: Starker Subbass und Kick
 - Mitteltonbereich: Mechanischer Synthesizer, rhythmische Muster
-- Hochfrequenz: Spannung durch Effekte und Geräusche verlängern
+- Hochfrequenz: Spannung durch Effekte und Lärm verlängern
 
 #### Rolle im DJ-Set
 Es wird zu Spitzenzeiten aufgestellt, um das Publikum zu begeistern und eine futuristische und kraftvolle Darbietung zu bieten.
@@ -173,7 +173,7 @@ Es wird zu Spitzenzeiten aufgestellt, um das Publikum zu begeistern und eine fut
 
 ## Kapitel 3: Zeitachsenanalyse des Festival-/Club-Sets
 
-In einem typischen langen Len-Faki-Set ist jeder Titel strategisch platziert, um die emotionale Kurve der Clubfläche zu bilden.
+In Len Fakis typischen langen Sets ist jeder Titel strategisch platziert, um die emotionale Kurve der Clubfläche zu formen.
 
 <div class="mermaid">
 timeline
@@ -215,7 +215,7 @@ timeline
 - Halten Sie Produktionsstandards mit Ihren eigenen Veröffentlichungen aufrecht
 
 ### 5.3 Globale Auswirkungen
-- Berliner Techno durch internationale Tourneen und Festivalauftritte in die Welt tragen
+- Berliner Techno durch internationale Tourneen und Festivalauftritte in der Welt verbreiten
 - Präsentieren eines neuen Cluberlebnisses mit Online-Sets
 
 ---

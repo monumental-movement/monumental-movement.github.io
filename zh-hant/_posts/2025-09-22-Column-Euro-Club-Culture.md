@@ -75,7 +75,7 @@ Real McCoy、Culture Beat 和 2 Unlimited 等藝術家的高品質音樂視頻�
 
 **● 暗歐元/Eurotrance 的發展**
 
-與商業方面相反，重度歐元迷幻音樂和工業歐元音樂在銳舞音樂節上也很受歡迎。
+與商業方面相反，重度歐元迷幻音樂和工業歐元音樂在銳舞音樂節中也很受歡迎。
 
 Cosmic Gate 和 Scooter 等藝術家已經突破了界限。
 
@@ -99,7 +99,7 @@ Cosmic Gate 和 Scooter 等藝術家已經突破了界限。
 ---
 
 
-### “Mix CD”文化的交集
+### “Mix CD”文化的十字路口
 
 **● Pete Tong、Paul Oakenfold、DJ Bobo 等角色**
 
@@ -109,7 +109,7 @@ Cosmic Gate 和 Scooter 等藝術家已經突破了界限。
 
 **● 從 Euro 到 Trance 的橋樑**
 
-Eurotrance 是歐洲舞蹈和 trance 的結合體，出現於 90 年代末。
+Eurotrance 是 Eurodance 和 trance 的結合體，出現於 90 年代末。
 
 ATB、Fragma、Darude 等呈現出一種介於流行音樂和俱樂部音樂之間的聲音
 

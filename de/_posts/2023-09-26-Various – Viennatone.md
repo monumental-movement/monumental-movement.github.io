@@ -13,7 +13,7 @@ title: Verschiedenes – Viennatone
 ---
 
 
-„Various – Viennatone“ lautet
+„Verschiedenes – Viennatone“ lautet
 Dies ist ein Werk, das 1999 von !k7 Records in Deutschland veröffentlicht wurde.
 
 #### Trackliste

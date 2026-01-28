@@ -15,7 +15,7 @@ title: Poséidon – Supertranssonique
 
 Un morceau Trance sorti par DJ Poseidon (Emilio Bongarzone) sur le label britannique Hope Recordings en 2000.
 
-A est un remix de Jody Wisternoff, DJ/producteur originaire de Bristol qui fait partie du duo Way Out West avec Nick Warren.
+A est un remix de Jody Wisternoff, DJ/producteur de Bristol qui fait partie du duo Way Out West avec Nick Warren.
 
 B est un remix du DJ/producteur allemand Timo Maas.
 

@@ -144,7 +144,7 @@ L'histoire de la techno est née et a évolué à partir de la relation entre le
 -ASM Hydrasynthe
 -Polyend Tracker/Dirtywave M8
 -Akai MPC One/Live II
-- Maîtrise de l'IA, outil de séparation des tiges
+- Maîtrise de l'IA, outils de séparation des tiges
 
 ---
 
@@ -169,7 +169,7 @@ L'histoire de la techno est née et a évolué à partir de la relation entre le
 
 ### résumé
 Le cœur de la techno est la « répétition » et la « conception sonore ».
-Rythmes directement issus de x0x, conception de l'image sonore des échantillonneurs, esthétique du montage à l'ère du PC, caractère aléatoire de la modularité, voire assistance de l'IA : les rythmes des machines et des villes continuent d'évoluer même si les temps changent.
+Rythmes directement issus de x0x, conception de l'image sonore des échantillonneurs, esthétique du montage de l'ère PC, caractère aléatoire de la modularité, voire assistance de l'IA : les rythmes des machines et des villes continuent d'évoluer même si les temps changent.
 
 
 ---

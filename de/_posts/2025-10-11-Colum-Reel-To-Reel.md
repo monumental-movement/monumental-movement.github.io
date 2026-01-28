@@ -79,7 +79,7 @@ Kassetten brachten den DIY-Geist und die **Lo-Fi-Freiheit** zurück.
 
 Und Reel-to-Reel geht noch weiter.
 Es ist eine Rückkehr zur „reinen Form des Klangs“ und dem eigentlichen Ursprung des Aufnahmevorgangs.
-Entschlossen, den Klang nicht auf eine Festplatte oder in die Wolke zu gravieren, sondern auf die irreversible Substanz des Magnetismus.
+Entschlossen, den Klang nicht auf einer Festplatte oder in der Wolke einzugravieren, sondern auf der irreversiblen Substanz des Magnetismus.
 
 Das analoge Revival ist nicht nur ein nostalgisches Revival;
 **Es ist eine menschliche Gegenkultur zur digitalen Sättigung**.
@@ -122,7 +122,7 @@ Reel-to-Reel ist nicht mehr „vintage“;
 Sich von Band zu Band anzuhören ist nicht wie das Zurückspulen der Zeit.
 Es handelt sich vielmehr um einen Akt der Rekonstruktion der Zeit.
 Während das Band abgespielt wird, nimmt die Anzahl der Bänder ab und der Ton wird in einem endlichen Raum weiter abgespielt.
-Seine Endlichkeit ermutigt die Zuhörer, sich zu konzentrieren und in sich einzutauchen.
+Seine Endlichkeit regt den Zuhörer zur Konzentration und zum Eintauchen an.
 
 So wie die Endlosschleife des Streamings zum „Hören beim Hören“ führte,
 Die begrenzte Zeit von Reel wird Ihnen dabei helfen, sich wieder auf das Zuhören zu konzentrieren.
@@ -137,7 +137,7 @@ Da die digitale Technologie das Gedächtnis als „Daten“ dominiert,
 Reel-to-Reel versucht, sein Gedächtnis als „Material“ zurückzugewinnen.
 
 Die Neuauflage von Rhino High Fidelity ist nur der erste symbolische Schritt.
-Wenn der Klang wieder **Schwerkraft hat**, werden wir uns an die Bedeutung des Aktes „Hören“ erinnern.
+Wenn der Klang wieder **Schwerkraft** hat, werden wir uns an die Bedeutung des Akts des „Hörens“ erinnern.
 Reel dreht sich erneut um, um die Zukunft aufzuzeichnen.
 
 ---

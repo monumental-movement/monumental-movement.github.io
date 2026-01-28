@@ -88,13 +88,13 @@ Ventes de sources musicales sur iTunes et Amazon MP3.
 
 Des compositeurs de films indépendants sont également présentés sur des plateformes telles que Bandcamp.
 
-Les partitions complètes, les chansons inédites et les prises alternatives peuvent être diffusées en haute résolution.
+Les partitions complètes, les chansons inédites et les prises alternatives peuvent être distribuées en haute résolution.
 
 ■Abonnement (Spotify / Apple Music, etc.)
 
 **Nous sommes désormais à une époque où nous écoutons des bandes sonores**.
 
-Créez des listes de lecture pour « l'ambiance du film » et « BGM » au lieu d'albums.
+Créez des listes de lecture pour « humeur de film » et « BGM » au lieu d'albums.
 
 La frontière entre « fonctionnalité » et « artistique » dans la musique de film est une fois de plus remise en question.
 

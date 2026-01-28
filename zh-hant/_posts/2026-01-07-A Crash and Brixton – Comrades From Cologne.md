@@ -17,7 +17,7 @@ title: A. 克拉什和布里克斯頓——來自科隆的同志
 
 來自德國的 A. Crash (Andreas Kremer) 和 Brixton (Norbert Georg Brixton Wieschollek) 的分割單曲。
 
-《Comrades From Cologne》是一首 Techno/Minimal/Acid 曲目，由 Electric Music Foundation 於 1997 年發行，Electric Music Foundation 是一家專注於模擬/模塊化合成器和 808/909 鼓機的明尼阿波利斯唱片公司，於 1993 年末由 Freddy Fresh 和 Auto Kinetic 作為 Analog Records 的一個部門成立。
+《Comrades From Cologne》是一首 Techno/Minimal/Acid 曲目，由 Electric Music Foundation 於 1997 年發行，Electric Music Foundation 是明尼阿波利斯的一家唱片公司，專注於模擬/模塊化合成器和 808/909 鼓機，於 1993 年末作為 Analog Records 的一個部門由 Freddy Fresh 和 Auto Kinetic 創立。
 
 #### 曲目列表
 ```md

@@ -20,7 +20,7 @@ title: '[Chronique] Electro-Funk / Modern Funk'
 Texte : mmr｜Thème : La généalogie du funk électronique et la structure, l'équipement, le rythme et la culture visuelle observés dans les dérivés de Chromeo et Jamiroquai
 
 
-Electro-Funk/Modern Funk n’est pas un nom qui fait référence à une époque spécifique ou à un seul mouvement. Ce nom est un cadre complet qui fait référence à l'ensemble du processus par lequel les principes structurels du funk établis dans les années 1970 ont été réorganisés tout en embrassant les instruments de musique électroniques et les environnements de production numérique.
+Electro-Funk/Modern Funk n'est pas un nom qui fait référence à une époque spécifique ou à un seul mouvement. Ce nom est un cadre complet qui fait référence à l'ensemble du processus par lequel les principes structurels du funk établis dans les années 1970 ont été réorganisés tout en embrassant les instruments de musique électroniques et les environnements de production numérique.
 
 L'essence du funk réside dans les rythmes répétés, les lignes de basse et une sensation physique du temps, plutôt que dans les progressions d'accords ou les mélodies. Electro-Funk/Modern Funk a changé ses méthodes de production et sa conception sonore sans perdre son essence. En conséquence, de multiples réalisations ont été réalisées, notamment le funk électronique en studio et le funk étendu basé sur les performances.
 
@@ -49,7 +49,7 @@ Le funk est une musique axée sur le rythme et la basse. Les progressions harmon
 
 Dans le funk des années 1970, la batterie formait un groove basé sur des doubles croches et la basse manipulait le centre de gravité du rythme tout en s'entrelaçant avec le coup de pied. Les guitares et les claviers fonctionnaient comme des instruments rythmiques, l'accent étant mis sur les coupures et les coups plutôt que sur les accords.
 
-À cette époque, le funk possédait déjà les qualités de la musique basée sur des boucles, et sa numérisation ultérieure en était une extension naturelle.
+À cette époque, le funk possédait déjà les qualités d’une musique basée sur des boucles, et sa numérisation ultérieure en était une extension naturelle.
 
 ---
 
@@ -58,7 +58,7 @@ Dans le funk des années 1970, la batterie formait un groove basé sur des doubl
 
 À la fin des années 1970, les progrès de la technologie des studios ont commencé à changer la façon dont le funk était produit. Avec la généralisation de l’enregistrement multipiste, les performances sont désormais décomposées et traitées comme du matériel modifiable. En conséquence, l’accent a été mis davantage sur la précision rythmique et l’unité du timbre.
 
-À peu près à la même époque, les pianos électriques et les premiers synthétiseurs ont été introduits, et le clavier est passé du simple instrument harmonique à celui d'un joueur de timbre. À ce stade, les idées des basses synthétisées et des leads électroniques ultérieurs étaient en préparation.
+À peu près à la même époque, les pianos électriques et les premiers synthétiseurs ont été introduits, et le clavier est passé d'un simple instrument harmonique à un joueur de timbre. À ce stade, les idées des basses synthétisées et des leads électroniques ultérieurs étaient en cours de préparation.
 
 ---
 
@@ -67,13 +67,13 @@ Dans le funk des années 1970, la batterie formait un groove basé sur des doubl
 
 Au début des années 1980, la généralisation des boîtes à rythmes marque un tournant décisif. Le rythme passe du jeu à la programmation, et le tempo et la répétition deviennent entièrement contrôlables. Cela a supprimé certaines des fluctuations humaines du funk et lui a donné une précision mécanique.
 
-Cependant, une mécanisation complète mine l'attrait du funk, c'est pourquoi une « pseudo-physique » est introduite en utilisant des valeurs de swing et des changements de vitesse. Cette idée a été héritée de l’Electro-Funk au Modern Funk.
+Cependant, une mécanisation complète mine l'attrait du funk, c'est pourquoi une « pseudo-physique » est introduite en utilisant des valeurs de swing et des changements de vitesse. Cette idée a été héritée de l'Electro-Funk au Modern Funk.
 
 Dans le même temps, les lignes de basse des synthétiseurs sont devenues monnaie courante et les graves ont fini par être dominés par la conception tonale plutôt que par la technique de jeu.
 
 ---
 
-## Chapitre 4 : Environnement de production numérique et Modern Funk
+## Chapitre 4 : Environnement de production numérique et Modern Funk
 
 
 Depuis les années 1990, avec la généralisation des DAW, la production individuelle est devenue une option réaliste. Le funk ne s'appuie plus sur de grands groupes, mais évolue vers une musique qui peut être créée par un petit groupe de personnes ou par un seul producteur.

@@ -25,7 +25,7 @@ Eine Fusion aus Elektro und Breakbeat mit einer sehr ausgeprägten Funk-Synchron
 
 Aufgrund der Nachfrage und der steigenden Preise ist diese Platte teuer, aber im Vergleich zu einer Platte mit nur einem guten Song ist sie es durchaus wert.
 
-Diese EP bzw. dieses Mini-Album ist von Anfang bis Ende erstklassig, ohne verschwendete Songs und voller Killer-Songs.
+Diese EP bzw. dieses Mini-Album ist von Anfang bis Ende erstklassig, enthält keine verschwendeten Songs und ist absolut voller Killer-Songs.
 
 #### Trackliste
 ```md

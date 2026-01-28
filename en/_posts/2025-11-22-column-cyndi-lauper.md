@@ -53,7 +53,7 @@ However, her mother loved the voice very much. This is because even in the midst
 
 # **3. Youth: Rebellious spirit and inclination towards art**
 
-In her adolescence, Cindy turned to art, painting, writing poetry, and trying anything creative. I tried to go to art school, but even there I couldn't adapt to the environment where I was obsessed with "rules" and "correct expression."
+In her adolescence, Cindy turned to the arts and tried anything creative, including painting and writing poetry. I tried to go to art school, but even there I couldn't adapt to the environment where I was obsessed with "rules" and "correct expression."
 
 Cyndi Lauper's life has a consistent theme. It is a strong will that says, ""I want to be myself.'' This will was honed when she was around the age of 20, moving around the crowded streets of New York.
 
@@ -113,7 +113,7 @@ With the rise of MTV, we entered an era in which images influenced music, and Ci
 
 ---
 
-## **7-1. A deep dive into representative songs**
+## **7-1. Deep dive into representative songs**
 
 ### **Girls Just Want to Have Fun**
 
@@ -169,7 +169,7 @@ Meanwhile, Cindy causes an "incident".
 
 The large number of accessories she was wearing around her neck hit the microphone, causing a clattering noise.
 
-Engineer: "What's that sound?"
+Engineer: "What sound is that?"
 Quincy Jones: "Cindy, can you...take that?"
 
 Cindy burst out laughing and said, "Oh, sorry!" as she removed her accessories, and it is said that the atmosphere instantly relaxed.
@@ -200,11 +200,11 @@ Cindy did not place any value on ""repeating successful forms" and valued ""bein
 
 # **12. Challenge to Broadway: Wins Tony Award for "Kinky Boots"**
 
-In 2013, he was in charge of the lyrics and composition for the musical "Kinky Boots" and won the Tony Award for Best Original Song.
+In 2013, he was in charge of the lyrics and composition for the musical "Kinky Boots," which won him the Tony Award for Best Original Song.
 
 Originally, Cindy grew up not only as a singer, but also deeply influenced by expressive culture such as movies and theater. That came to fruition in the form of Broadway.
 
-In this work, she strongly conveys the message that it's okay to live your life the way you are. It is also her own life philosophy, and has received great support from the LGBTQ community.
+In this work, she strongly conveys the message that it's okay to live your life the way you are. This is also her own life philosophy, and has received great support from the LGBTQ community.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8pltkucgl5w?si=w1KxlxWJdT0hlFZh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -13,7 +13,7 @@ title: Danny Krivit – Nite Life 011 – Erweiterungen
 ---
 
 
-Slammin' und Jammin' jazziger House von einem der erfahrensten Discjockeys New Yorks. Danny Krivit war bis heute in der New Yorker Disco-Szene von Paradise Garage über Danceteria bis hin zu Save the Robots und Limelight aktiv. Jeden Sonntag spielt er seine „Body & Soul“-Residency.
+Slammin' und Jammin' jazziger House von einem der erfahrensten Discjockeys New Yorks. Danny Krivit war in der New Yorker Discoszene aktiv, von Paradise Garage über Danceteria und Save the Robots bis hin zu Limelight und bis heute. Jeden Sonntag spielt er seine „Body & Soul“-Residency.
 
 CD1 hat ein leicht eklektisches Gefühl und CD2 ist voller hochwertiger Sounds. Besonders wenn Klubfilter, Funk Against Jazz, Dennis Ferrer und Nigel Hayes zusammengemischt werden, entsteht eine live instrumentenlastige Konzertatmosphäre. Dinge wie Celebrate und insbesondere „Blackwater“ von Octave One und Peckham Royalty mit ihren fantastischen Keyboards machen dies zu etwas Besonderem.
 

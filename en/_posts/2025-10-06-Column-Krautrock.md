@@ -136,7 +136,7 @@ The punk, industrial, and sampling cultures that followed were all based on Faus
 
 ---
 
-## Chapter 5: Kraftwerk - The Origins of Techno and Inorganic Beauty
+## Chapter 5: Kraftwerk - The origins of techno and inorganic beauty
 
 Düsseldorf.
 The straight roads and cold texture of the industrial city became music.
@@ -235,7 +235,7 @@ For later Jean-Michel Jarre, Vangelis, and even Techno writers, he became the st
 
 In the late 1970s, young people in Germany were once again undergoing change.
 Krautrock's experimental spirit manifests itself in punk and new wave.
-In Berlin, David Bowie and Brian Eno created the ""Berlin Trilogy"' and absorbed Kraut"s aesthetic.
+In Berlin, David Bowie and Brian Eno produced the ""Berlin Trilogy"' and absorbed Kraut"s aesthetic.
 
 - Bowie's "Low" (1977) is a fusion of Neu! and Cluster.
 - Joy Division and The Fall reinjected motorik rhythms into rock.

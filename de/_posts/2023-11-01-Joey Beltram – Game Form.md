@@ -13,7 +13,7 @@ title: Joey Beltram – Spielform
 ---
 
 
-Der erste Song auf Seite B ist ein Remix des US-DJs und Produzenten Robert Armani. Der zweite Song auf der B-Seite ist ein Remix von Mike Dearborn, einem gebürtigen Chicagoer und Inhaber von Majesty Recordings.
+Der erste Song auf Seite B ist ein Remix des US-DJ und Produzenten Robert Armani. Der zweite Song auf der B-Seite ist ein Remix von Mike Dearborn, einem gebürtigen Chicagoer und Inhaber von Majesty Recordings.
 
 
 Joy Beltrame gilt weithin als eine der ersten Erneuerinnen der Underground-Tanzmusik.
@@ -24,7 +24,7 @@ Er wandte sich 1985 der House-Musik zu, im selben Jahr, in dem die erste Welle d
 
 Ein Jahr später erregten sie die Aufmerksamkeit des belgischen Verlags R&S Records, der Mitte 1990 seine erste große Platte, Energy Flash, herausbrachte, der eine Reihe ebenso beeindruckender Veröffentlichungen folgten.
 
-In den 1990er Jahren schuf er weiterhin zeitlose Musik auf dem damals angesagten Label.
+In den 90er Jahren kreierte er weiterhin zeitlose Musik auf dem damals angesagten Label.
 
 1999 gründete er sein eigenes Label STX Records, das derzeit sowohl mit JB³ als auch mit Joey Beltram aufnimmt.
 

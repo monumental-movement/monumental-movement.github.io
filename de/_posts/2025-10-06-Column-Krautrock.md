@@ -105,7 +105,7 @@ Es erschütterte die Grenze zwischen „Leben“ und „Maschine“.
 > „Motorik ist der Klang der „menschlichen Fortsetzung“, nicht einer Maschine.“
 > — Klaus Dinger
 
-Diese einfache rhythmische Struktur ähnelt der Berlin-Trilogie von David Bowie.
+Diese einfache rhythmische Struktur ähnelt David Bowies Berlin-Trilogie.
 Er hinterließ auch großen Einfluss auf Brian Enos Ambient-Werke.
 Im Klang von NEU! wird dem Zuhörer bewusst, dass die Zeit keine gerade Linie, sondern ein Kreis ist.
 
@@ -116,13 +116,13 @@ Im Klang von NEU! wird dem Zuhörer bewusst, dass die Zeit keine gerade Linie, s
 ## Kapitel 4: Faust – Die Kunst der Collage und Zerstörung
 
 Dieses Studio ist ein umgebautes Bauernhaus in der Landschaft von Wünme.
-Eine Gruppe von Leuten, die sich dort verschanzt haben, Kassetten, Lärm, Radioschnipsel, Samples, alles – das ist **Faust**.
+Eine Gruppe von Leuten, die sich dort verkrochen haben und Bänder, Lärm, Radioschnipsel, Samples, alles gemischt haben – das ist **Faust**.
 Sie schufen neue Musik, indem sie das „Rockformat“ völlig zerstörten.
 
 Mitglied **Jan Ermler** sagt.
 „Wir haben nicht an Rock geglaubt. Das Einzige, woran wir geglaubt haben, war ‚Aufnahmeband‘.“
 
-Die Hülle seines 1971 erschienenen Debütalbums „Faust“ wurde auf transparentes Vinyl gedruckt und erinnert an ein pulsierendes Herz.
+Die Hülle seines 1971 erschienenen Debütalbums „Faust“ wurde auf transparentes Vinyl gedruckt und ähnelte einem pulsierenden Herzen.
 Auch die Musik war fragmentiert.
 Die Lieder haben keine Melodie und ähneln eher dem Anhören einer Radiosendung.
 Es war jedoch eine Herausforderung für das eigentliche Gerüst der Popmusik.
@@ -236,7 +236,7 @@ Für spätere Jean-Michel Jarre, Vangelis und sogar Techno-Autoren wurde er zum 
 
 Ende der 1970er Jahre erlebte die Jugend in Deutschland erneut einen Wandel.
 Der experimentelle Geist des Krautrock manifestiert sich in Punk und New Wave.
-In Berlin schufen David Bowie und Brian Eno die „Berlin-Trilogie“ und nahmen Krauts Ästhetik auf.
+In Berlin produzierten David Bowie und Brian Eno die „Berlin-Trilogie“ und nahmen Krauts Ästhetik auf.
 
 - Bowies „Low“ (1977) ist eine Fusion von Neu! und Cluster.
 - Joy Division und The Fall haben motorische Rhythmen wieder in den Rock eingebracht.

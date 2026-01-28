@@ -126,7 +126,7 @@ graph TD
 
 </div>
 
-This "performance of obedience" is the gene that later led to Daft Punk, Kraftwerk, and even today's anonymous artist culture.
+This "performance of obedience" is the gene that later led to Daft Punk and Kraftwerk, as well as today's anonymous artist culture.
 
 ---
 
@@ -150,7 +150,7 @@ In the 2020s, he continues to update his theory of degeneration to include NFTs 
 
 ---
 
-## Chapter 9: DEVO's trajectory in chronology
+## Chapter 9: DEVO's trajectory as seen in the chronology
 
 <div class="mermaid">
 

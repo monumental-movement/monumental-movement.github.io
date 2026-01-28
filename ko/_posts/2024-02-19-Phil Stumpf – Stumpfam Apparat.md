@@ -14,7 +14,7 @@ title: 필 스텀프 – Stumpfam Apparat
 ---
 
 
-독일 포스트록 밴드 'OH.'의 멤버이자 Sam Rouanet과 함께 유닛 'DUPLEX 100''으로도 활동하고 있는 Phil Stumpf의 미니멀 트랙.
+독일 포스트록 밴드 'OH'의 멤버이자 Sam Rouanet과 함께 유닛 'DUPLEX 100''으로도 활동하고 있는 Phil Stumpf의 미니멀 트랙.
 
 2005년 독일 하우스 레이블 Tom Bone Vibrating Music에서 발매되었습니다.
 

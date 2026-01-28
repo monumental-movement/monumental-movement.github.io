@@ -23,7 +23,7 @@ title: 【專欄】Kaitlyn Aurelia Smith——布赫拉“電動生活”的迴�
 
 通過選擇老式或模塊化設備，尤其是 Buchla 風格的模塊化設備，她通過“偶然性”、“不穩定性”、“手動性”或“與身體的電振動和共振”創建了一個聲音生態系統，而不僅僅是合成聲音。
 
-通過仔細地將人聲、現場樂器、現場錄音、自然和物理性編織在一起，他將模塊化從“冰冷的機器”轉變為“活生生的聲音容器”。喜歡模塊化和 Buchla 風格合成器的人會被這種態度強烈吸引。
+通過仔細地將聲音、現場樂器、現場錄音、自然和物理性編織在一起，他將模塊從“冰冷的機器”提升為“活的聲音容器”。熱愛模塊化和 Buchla 風格合成器的人會被這種態度強烈吸引。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/95UvPlhjbE4?si=Kg2SbogrCMF55Cxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -58,7 +58,7 @@ color: #fff;
 
 ## 音樂教育和會議 Buchla
 
-長大後，她在美國的一所音樂教育機構學習作曲和聲音理論，同時活躍於使用吉他、聲樂和鋼琴的民謠二重奏中。
+成長過程中，她在美國的一所音樂教育機構學習作曲和聲音理論，同時活躍於使用吉他、聲樂和鋼琴的民謠二重奏中。
 
 然而，離開學生時代回到家鄉後，意想不到的變化發生了：他遇到了鄰居借給他的Buchla 100。當她第一次拿起模塊化合成器時，她並沒有將其視為“脆弱的工具”，而是將其視為“聯合明星”、“生物”和“帶電的身體”。
 

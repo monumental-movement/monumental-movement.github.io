@@ -15,7 +15,7 @@ title: Nu Shooz – am Pool
 ---
 
 
-Nu Shooz ist ein Pop-, Latin-, Freestyle- und elektronisches Tanzmusikduo mit Sitz in Portland, Oregon, USA, das vom Ehepaar John Smith und Valerie Day gegründet wurde.
+Nu Shooz ist ein Pop-, Latin-, Freestyle- und elektronisches Tanzmusik-Duo mit Sitz in Portland, Oregon, USA, das vom Ehepaar John Smith und Valerie Day gegründet wurde.
 
 „Poolside“, veröffentlicht 1986, ist das dritte Album von Nu Shooz und war ein Hit, der von der Recording Industry Association of America und der Recording Industry Association of Canada mit Gold ausgezeichnet wurde.
 

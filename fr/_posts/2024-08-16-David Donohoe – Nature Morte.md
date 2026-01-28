@@ -14,9 +14,9 @@ title: David Donohoe – Nature Morte!
 ---
 
 
-David Donohoeは、アイルランドのダブリンを拠点とするクリエイティブ ディレクター、グラフィック デザイナー、エレクトロニックミュージシャン＆実験音楽家。
+David Donohoe est un directeur créatif, graphiste, musicien électronique et musicien expérimental basé à Dublin, en Irlande.
 
-「Nature Morte!」は、アイルランドのダブリンを拠点に活動するミニマルテクノシーンのベテランDonnache Costello（ドナチャ・コステロ）が運営するレーベルMinimiseから2004年にリリースされたミニマル・アンビエントトラック。
+"Nature Morte !" est un morceau d'ambiance minimale sorti en 2004 sur Minimise, un label dirigé par Donnacha Costello, une vétéran de la scène techno minimale basée à Dublin, en Irlande.
 
 #### Liste des chansons
 ```md

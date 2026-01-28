@@ -51,7 +51,7 @@ B6. In Sickness & In Health
 <a href="https://jp.mercari.com/item/m64968588416?afid=6142608987"><img src="../assets/images/The%20Gang%20%E2%80%93%20Barricada%20Rumble%20Beat.webp"></a>
 
 
-이탈리아 펑크밴드의 작품입니다. 영국 출신의 빌리 브래그(Billy Bragg)가 참여한 흔치 않은 작품이다.
+이탈리아 펑크밴드의 작품입니다. 영국의 빌리 브래그(Billy Bragg)가 일부 참여한 흔치 않은 작품이다.
 
 #### 트랙리스트
 ```md

@@ -58,7 +58,7 @@ Tout comme le métal est « un art qui transforme le chaos en ordre », le disco
 
 ## Chapitre 2 : Construire la voix ——La politique de la voix métallique
 
-Pour les hommes politiques, leur « voix » est un instrument qui incarne leurs idées. La vocalisation de Takaichi est particulièrement faible et stable parmi les femmes politiques. Acoustiquement, il est basé sur le médium-bas (environ 170-180 Hz), avec peu de variation de hauteur, rappelant le « contrôle d'acier » du chant métal.
+Pour les hommes politiques, leur « voix » est un instrument qui incarne leurs idées. La vocalisation de Takaichi est particulièrement faible et stable parmi les femmes politiques. Acoustiquement, il est basé sur le médium-bas (environ 170-180 Hz), avec peu de fluctuation de hauteur, rappelant le « contrôle d'acier » du chant métal.
 
 «La voix est l'art de faire résonner ses émotions sans les laisser se déchaîner.» Comme le symbolisent ces mots, elle vit la politique comme une «structure de fer».
 
@@ -119,7 +119,7 @@ Au sein de cette structure, Takaichi joue avec « l'intellect qui contrôle la p
 
 ---
 
-## Chapitre final : Vers une politique qui n’a pas peur du bruit
+## Chapitre final : Vers une politique qui n'a pas peur du bruit
 
 Tout comme le métal a évolué en acceptant le bruit, la politique mature devient également plus forte lorsqu'elle adopte des « sons inhabituels ». L'existence de Sanae Takaichi symbolise « l'acceptation du bruit » dans la politique japonaise. Le bruit ne ressemble pas à du chaos, mais à une distorsion créative.
 
@@ -177,7 +177,7 @@ flowchart LR
 | **Violet profond** | **Violet profond dans le rock** | 1970 | Un chef-d’œuvre qui a posé les bases du hard rock. Une fusion de beauté compositionnelle classique et de puissance explosive.                    |
 | | **Boule de feu** | 1971 | Plus agressif et expérimental. Il y a un fort changement de tempo et une sensation de blues.                  |
 | | **Tête de machine** | 1972 | Un niveau de perfection qui reste dans l’histoire du rock. Le nombre d’or du riff et du groove.          |
-| **Prêtre Judas** | **Tristes Ailes du Destin** | 1976 | Une esthétique métal faite de mélancolie et de lyrisme s’instaure. Le prototype de twin leads.                           |
+| **Prêtre Judas** | **Tristes Ailes du Destin** | 1976 | Une esthétique métal faite de mélancolie et de lyrisme s’instaure. Le prototype du twin lead.                           |
 | | **Péché après péché** | 1977 | Premier travail majeur. Produit par Roger Glover (Deep Purple). Une évolution dramatique. |
 | | **Classe tachée** | 1978 | Les débuts du speed metal. Image sonore précise et froide.          |
 

@@ -77,7 +77,7 @@ Le « brat » de Charli XCX a sublimé ce sentiment dans la musique pop.
 ### 2-1. Réalité occasionnelle
 Lorsque vous écoutez « Brat », la première chose que vous ressentez est le confort d’être « inachevé ».
 Le chant est rugueux, le mix est statique et les paroles sont crachées impulsivement.
-Cependant, il y a une qualité « brute » que l’on ne retrouve pas dans d’autres musiques pop.
+Cependant, il y a une sensation « brute » que l’on ne retrouve pas dans d’autres musiques pop.
 C'est une « touche humaine » qui est à l'opposé de l'ère de la perfection.
 
 ### 2-2. L'antithèse d'un monde parfait
@@ -135,7 +135,7 @@ La musique revient une fois de plus sur la « scène humaine » plutôt que sur 
 
 ## 5. Un tournant dans la beauté ─ De « l’ajustement » à « l’effondrement »
 
-### 5-1. Le courage d’affirmer l’imperfection
+### 5-1. Le courage d'affirmer l'imperfection
 Les dix dernières années ont été dominées par les idées de minimalisme et de rangement.
 Nous avons eu peur de ce qui nous manquait.
 Mais désormais, ce qui manque, c’est l’espace vide pour la création.
@@ -145,7 +145,7 @@ C’est là la sensibilité d’une nouvelle ère.
 
 ### 5-2. « Réensauvagement » de la pop
 Après « brat », les artistes lâchent leurs micros.
-Enregistrez de manière impromptue avec votre smartphone,
+Enregistrement improvisé avec smartphone,
 J'ai commencé à télécharger des chansons inachevées.
 Ce qu’ils ont tous en commun, c’est l’attitude de « laisser les choses telles qu’elles sont ».
 La pop redevient sauvage.
@@ -157,7 +157,7 @@ C'est aussi une tentative de retour au « rythme humain ».
 ## 6. Le futur de l'imperfection ─ Vers une nouvelle réalité
 
 Nous sommes enfin sur le point d’être libérés des chaînes de la « perfection ».
-En dehors du monde créé par les algorithmes,
+En dehors du monde organisé par les algorithmes,
 Les erreurs, les distorsions et les obscurités brillent à nouveau.
 
 C'est une évolution, pas une régression.
