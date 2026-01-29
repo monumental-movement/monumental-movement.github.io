@@ -18,16 +18,16 @@ title: '[Column] The "Showa retro songs" boom spread overseas: When nostalgia cr
 ## Prologue: When did "Showa" become cool?
 
 
-Text: mmr｜Theme: Showa songs and pop are fused with 21st century internet culture, and how are they being reevaluated overseas? Exploring the "Showa Retro" phenomenon that spreads as a symbol of YouTube, TikTok, Vaporwave, and Retro Japan
+Text: mmr｜Theme: Showa songs and pop are fused with 21st century internet culture, and how are they being reevaluated overseas? Exploring the "Showa Retro" phenomenon that is spreading as a symbol of YouTube, TikTok, Vaporwave, and Retro Japan
 
 
 In the 2020s, tags such as ""Showa Retro," ""Showa Kayo," and ""Japanese 80s Pop'' are spreading explosively on SNS and streaming services around the world.
 It was a symbolic event that Miki Matsubara"s ""Midnight Door~Stay With Me" and Tatsuro Yamashita"s ""Ride on Time" suddenly appeared on Spotify's global charts.
 
-However, this ""Showa pop revival'' is not just a nostalgic hobby. Rather, it is a **rediscovery of analog sensations in the digital age** and a new cultural phenomenon of **global "emotional sharing"**.
+However, this ""Showa pop revival'' is not just a nostalgic hobby. Rather, it is a **rediscovery of analog sensations in the digital age** and a new cultural phenomenon of **global "emotion sharing"**.
 
 In this article, we will explore how Showa songs resonate overseas and how they are being received and reconstructed.
-We will explore it from multiple angles, including 1) historical background, 2) media environment, 3) overseas reception structure, and 4) the perspective of musical translation.
+We will explore it from multiple angles, including 1) historical background, 2) media environment, 3) overseas reception structure, and 4) musical translation perspectives.
 
 ---
 
@@ -102,7 +102,7 @@ In other words, Showa songs export ""emotion as texture''.
 ## Chapter 5: The intersection of digital archives and Japanese cultural policy
 
 What is interesting is that this boom was spread by private listeners.
-It wasn't that the Japanese government or music industry intentionally exported it; rather, fan activity on YouTube and Spotify took the lead.
+It was not that the Japanese government or music industry intentionally exported it; rather, fan activity on YouTube and Spotify took the lead.
 
 However, in the 2020s, "Showa retro" content has rapidly increased at overseas festivals and exhibitions.
 NHK and record companies have also opened official channels with English subtitles.

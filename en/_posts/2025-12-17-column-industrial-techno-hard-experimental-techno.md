@@ -20,7 +20,7 @@ title: '[Column] Industrial Techno / Hard Experimental Techno'
 Text: mmr｜Theme: Industrial techno/hard experimental structure, history, and acoustic technology
 
 
-Industrial Techno / Hard Experimental Techno is a musical form that extremely foregrounds acoustic materials, sound pressure, distortion, and noise while retaining the repetitive temporal structure of techno. This genre differs from a musical perspective centered on emotional expression and melody, and has been built around the physical properties of sound itself and the control of time through repetition.
+Industrial Techno / Hard Experimental Techno is a musical form that extremely foregrounds acoustic materials, sound pressure, distortion, and noise while retaining the repetitive temporal structure of techno. This genre differs from a musical perspective that focuses on emotional expression and melody, and has been built around the physical properties of sound itself and the control of time through repetition.
 
 This trend is not just "intense club music." It was created as a result of adapting the ideas of material orientation, impersonality, and structural superiority that have been cultivated over many years in industrial music, EBM, noise, and experimental electronic music to the strictly functional space of the dance floor.
 
@@ -42,7 +42,7 @@ color: #fff;
 
 ## 1. Historical Prehistory: The Junction of Industrial Music and Techno
 
-The industrial music that emerged from the late 1970s intentionally destroyed the modern musical premise of musical tones, melodies, and harmony, and treated non-musical materials such as metal sounds, noise, mechanical sounds, and tape loops as structural units. This idea of ​​""turning the material itself into music'' became the foundation of the later sound design of Industrial Techno.
+The industrial music that emerged from the late 1970s intentionally destroyed the modern musical premise of musical tone, melody, and harmony, and treated non-musical materials such as metal sounds, noise, mechanical sounds, and tape loops as structural units. This idea of ​​""turning the material itself into music'' became the foundation of the later sound design of Industrial Techno.
 
 On the other hand, techno, which was established in the 1980s, is characterized by repetition, synchronization, and gridded time, and has developed in the direction of eliminating human fluctuations. Industrial Techno was born by directly combining the time structure of techno with the material orientation of industrial music.
 
@@ -145,7 +145,7 @@ The body is given over to predictable beats, and the hearing is exposed to unpre
 | Years | Events |
 | ------ | -------------------------- |
 | 1970s | Industrial music establishes material-oriented structure |
-| 1980s | Techno establishes a repetitive time structure |
+| 1980s | Techno establishes a repetitive temporal structure |
 | 1990s | Fusion of hard techno and industrial |
 | 2010s | Redefining modern industrial techno |
 | 2020s | Integrating precision acoustic design and physicality |
@@ -156,7 +156,7 @@ The body is given over to predictable beats, and the hearing is exposed to unpre
 
 Industrial Techno / Hard Experimental Techno is not chaotic noise, but extremely controlled structure. There, violence, distortion, and even pressure become objects of design.
 
-Practices such as Perc and Ancient Methods push the limits of the techno form, transforming music into a device that reorganizes bodies and spaces. This genre will continue to deepen in terms of both structure and sonics.
+Practices such as Perc and Ancient Methods push the boundaries of the techno form, transforming music into a device that reorganizes bodies and spaces. This genre will continue to deepen in terms of both structure and sonics.
 
 ---
 

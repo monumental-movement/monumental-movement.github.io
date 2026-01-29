@@ -115,7 +115,7 @@ It emphasized the "Zen" aspect of hip-hop and resonated with RZA's spiritual wor
 In particular, Nujabes' music combines sampling and the aesthetics of ma.
 He was spiritually connected to the Wu-Tang Clan, the "Samurai of Sound."
 
-In the 2020s, clear references appear in Japanese anime works as well.
+In the 2020s, clear references appear in Japanese anime works.
 The influence of lo-fi hip-hop can be seen in the BGM of "Jujutsu Kaisen".
 Multiple hip-hop artists will participate in the ending of "Chainsaw Man."
 Here, anime once again reconnects with the language of the "street."

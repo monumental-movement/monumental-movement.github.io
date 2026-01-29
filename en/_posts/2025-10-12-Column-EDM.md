@@ -18,9 +18,9 @@ title: '[Column] The illusion of EDM: Celebrating and rebuilding in the digital 
 ## There is a moment when sound becomes architecture
 
 
-Text: mmr｜Theme: Festivals and cities, sound and light, crowds and technology. How has the phenomenon of EDM changed the shape of celebrations in the 21st century?
+Text: mmr | Theme: Festivals and cities, sound and light, crowds and technology. How has the phenomenon of EDM changed the shape of celebrations in the 21st century?
 
-A flash of laser light splits the night sky, the bass vibrates deep within its body, and countless arms raise in unison.
+A flash of laser light splits the night sky, the bass shakes deep within its body, and countless arms raise in unison.
 The phenomenon called "EDM" was more than just a music genre, it was a celebration of the digital age.
 In the 2010s, cities around the world were reshaped by the sound. The desert of Las Vegas, the forests of Belgium, the bay of Tokyo.
 In this column, we will take a look at EDM's birth, transformation, and "beyond" from the intersection of sound, light, the body, and technology.

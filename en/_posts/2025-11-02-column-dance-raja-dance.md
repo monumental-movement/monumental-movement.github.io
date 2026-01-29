@@ -77,7 +77,7 @@ The plot is simple, but what is noteworthy is the integration of the production 
 
 ## Chapter 3: "Disco" phenomenon in India in the 1980s
 
-After the success of ""Disco Dancer" (1982, Hindi) and ""Ilamai Oonjal Aadukirathu" (1978, Tamil), disco culture spread across India as a symbol of ""dance = freedom.''
+After the success of ""Disco Dancer" (1982, Hindi) and ""Ilamai Oonjal Aadukirathu" (1978, Tamil), disco culture spread throughout India as a symbol of ""dance = freedom.''
 
 In South India, this trend took on a unique variation. While Mumbai's discotheques depicted an ""urban dream", **discotheques in Kannada films were an expression of ""regional pride"**.
 
@@ -134,7 +134,7 @@ A.R. Rehman's early works Roja (1992) and the foundations of urban soundtracks s
 In the 21st century, ""Dance Raja Dance'' is being reevaluated through YouTube and Spotify.
 The images and music of that time are not "kitsch" but are being reinterpreted as **South Indian Futurism**.
 
-For young people in the Kannada-speaking world, this is not just nostalgia, but a starting point for cultural self-expression that moves from the local to the global.
+For young Kannada-speaking people, this is not just nostalgia, but a starting point for cultural self-expression that moves from the local to the global.
 
 ---
 

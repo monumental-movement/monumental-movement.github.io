@@ -20,7 +20,7 @@ title: '[Column] Complete history of vaporwave culture — label history, acoust
 Text: mmr｜Theme: Vaporwave, a movement that started as a music genre, is a huge cultural sphere surrounding memory, history, media, and social psychology.
 
 
-Vaporwave is a cultural phenomenon that was born around 2010 at the intersection of Internet culture, post-financial crisis emotions, and archived images of the past. This article synthesizes label history, aesthetics, acoustic structure, sociocultural theory, derivative genres, semiotics, chronology, and illustrations, and redefines vaporwave as a ""comprehensive art born in an era of lost future.''
+Vaporwaveとは2010年前後、インターネット文化・金融危機後の情動・アーカイブ化された過去のイメージが交差する地点から生まれた文化現象である。本稿では、レーベル史、美学、音響構造、社会文化論、派生ジャンル、記号論、年表、図版までを総合し、Vaporwaveを「未来喪失の時代に生まれた総合芸術」として捉え直す。
 
 ---
 
@@ -48,7 +48,7 @@ The establishment of vaporwave is closely related to the blogging culture of the
 - **Beer On The Rug** is the label that most emblematically recorded early vaporwave, producing many iconic artists such as MACINTOSH PLUS, Laserdisc Visions, and Luxury Elite.
 - **Constellation Tatsu** has deepened their approach to ambient music, fusing tape culture and spiritual aesthetics.
 - **Dream Catalog** emphasized the reconstruction of the image of China and Japan, a sci-fi view of the future, and the ghostly nature of cities.
-- **Orange Milk Records** expanded the possibilities of music after vaporwave in the context of experimental electronic music, and also established a unique position in terms of artwork.
+- **Orange Milk Records** expanded the possibilities of music after Vaporwave in the context of experimental electronic music, and also established a unique position in terms of artwork.
 
 ## Chapter 2: Transformation of Vaporwave Aesthetics
 
@@ -77,7 +77,7 @@ Aesthetics is based on the ""ambivalence of criticism and pleasure," and all sym
 * Future Funk: 110–130 BPM (connected to dance music)
 * Hardvapour: 150–190 BPM (Gaba Hard Techno)
 
-### 3-2 Acoustic structure
+### 3-2 音響構造
 
 Vaporwave sound is based on the principles of "attenuation, elongation, deterioration, and repetition." In particular, pitch shift (-20 to -35%) is synonymous with the genre.
 
@@ -162,7 +162,7 @@ graph TD
     B[Technology UI] --> B2[Deterioration/noise]
     C[90s japanese statue] --> C2[abstraction]
     D[classical sculpture] --> D2[meta quote]
-    A2 --> Z[Vaporwave worldview]
+    A2 --> Z[Vaporwave world view]
     B2 --> Z
     C2 --> Z
     D2 --> Z

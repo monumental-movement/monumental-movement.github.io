@@ -151,7 +151,7 @@ flowchart TD
 
 ---
 
-## Rhythm breathing
+## Breathing rhythm
 
 Their rhythm is not a beat, but more like a breath or the length of a story. The tempo is not fixed, and the drums play a role in regulating spatial density rather than being a time keeper.
 

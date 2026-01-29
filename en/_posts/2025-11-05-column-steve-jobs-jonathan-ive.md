@@ -22,7 +22,7 @@ Text: mmr｜Theme: Tracing the changes in the duo's music views, design philosop
 
 Among the many products Apple has created, the design surrounding "sound" has always been at the center of it.
 The collaboration between Steve Jobs and Jonathan Ive goes beyond mere product design.
-A new culture of **fusion of music and technology** was born.
+**音楽とテクノロジーの融合**という新しい文化を生んだ。
 
 
 > "Music is one of the purest forms of expressing who we are."
@@ -49,7 +49,7 @@ color: #fff;
 Steve Jobs was a product of the California counterculture of the late 1960s and 1970s.
 Many biographies confirm that he admired Bob Dylan and the Beatles from a young age.
 
-In Walter Isaacson's biography "Steve Jobs" (2011), he has a **tube amplifier and record player** in his living room.
+In Walter Isaacson's biography "Steve Jobs" (2011), his living room has a **tube amplifier and a record player**.
 It is said that he listened to albums by Bob Dylan and Joan Baez every night.
 
 > "Dylan's words have soul. They are not the sounds of a machine."
@@ -149,7 +149,7 @@ In fact, they are united by the philosophy of ""setting people free through musi
 
 ## Chapter 8 The design language of "sound"
 
-After Jobs passed away, Ive described him as follows:
+After Jobs passed away, Ive described him as follows.
 
 > "He looked at products the way you listen to music: there"s rhythm, there"s harmony, there's silence."
 

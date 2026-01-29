@@ -199,7 +199,7 @@ This ensures **acoustic thickness** even during live performances, creating a th
 # 7. STS9's Live Philosophy: Set Structure, Lighting, Community
 ## 7-1. Structuring the set list
 STS9 changes their set list every time they tour,
-- Opener (world view presentation)
+- Opener (worldview presentation)
 - Midfield build-up
 - floor peak
 - Deep downtempo part

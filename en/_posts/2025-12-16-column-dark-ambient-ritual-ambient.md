@@ -17,7 +17,7 @@ title: '[Column] Dark Ambient / Ritual Ambient'
 
 ## 1. Redefining the concept of genre
 
-Text: mmr｜Theme: Formation of immersive experience through acoustics, space, and ritual structure
+Text: mmr｜Theme: Formation of immersive experience through sound, space, and ritual structure
 
 Dark Ambient is not a semantic extension of ambient music, but a sonic expression created by intentionally reducing musical elements.
 
@@ -28,7 +28,7 @@ The identifying elements of music, such as meter, melody, and instrumentality, r
 * Spatial reverberation
 *Unknown sound source
 
-Ritual Ambient is distinct in that it uses this Dark Ambient-like method while introducing a clear "progressive structure." Ritualism is not established through symbols, but through the design of the arrangement of sounds and their duration.
+Ritual Ambient is distinct in that it uses this Dark Ambient-like method while introducing a clear "progressive structure." Ritualism is established not through symbols, but through the arrangement of sounds and the design of their duration.
 
 
 ---
@@ -78,7 +78,7 @@ Through this methodology, music is presented as a state of being rather than a p
 
 ### 4.1 Frequency band imbalance
 
-The design, centered around the lower limit of the audible range, creates a perception accompanied by a physical sensation of vibration.
+The design, centered around the lower limit of the audible range, creates a perception accompanied by a physical vibrational sensation.
 
 ### 4.2 Handling spatial recording
 

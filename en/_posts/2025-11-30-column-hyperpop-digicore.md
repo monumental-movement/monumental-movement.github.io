@@ -196,7 +196,7 @@ flowchart LR
 - 1. DI the guitar → Saturation
 - 2. Light drum (Trap keynote)
 - 3. Auto-Tune + Doubler
-- 4. Layer crying top lines
+- 4. Overlap crying top lines
 
 ---
 

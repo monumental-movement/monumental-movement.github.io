@@ -67,7 +67,7 @@ In the field of lyrics translation, the choice between literal translation and l
 Literal translations are good at preserving meaning, but often lose rhythm and emotion.
 Parallel translations preserve the sense of hearing and emotion, but tend to deviate from the meaning of the original text.
 
-In particular, popular music has strong restrictions on melody and number of words, and the logic of prose translation does not apply.
+Particularly in popular music, there are strong restrictions on melody and number of words, and the logic of prose translation does not apply.
 The addition or subtraction of a single syllable disrupts the entire melody, forcing translators to constantly reduce and reconstruct meaning.
 
 In this process, the translator's own cultural understanding and value judgments inevitably intervene.
@@ -123,7 +123,7 @@ However, this bilingual translation was only an aid to understanding, and transl
 ## Chapter 6 Misreading and reinterpretation as cultural transfer
 
 Misreadings are inevitable in cultural transfer through translation.
-However, this misreading does not necessarily have negative consequences.
+However, this misreading does not necessarily have only negative consequences.
 
 There are many examples of lyrics that are misunderstood in one culture, acquiring new meaning in another context and forming unique reception histories.
 The reception of rock and hip-hop in Japan has also been established through this chain of reinterpretations.

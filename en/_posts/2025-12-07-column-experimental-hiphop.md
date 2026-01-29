@@ -74,7 +74,7 @@ The foundations of Experimental/Abstract Hip Hop were formed in the late 1990s.
 
 ---
 
-- An important role in the NY underground at the end of the 1990s.
+- An important role in the NY underground in the late 1990s.
 - Introducing noisy sounds, segmented rap and electronic music.
 - Expands the connection between electronic music and hip-hop by signing with Warp Records.
 
@@ -109,14 +109,14 @@ These created the musical ground that directly led to later Shabazz Palaces and 
 - Crossed jazz/electronic music/hip-hop with ""Los Angeles" (2008) and ""Cosmogramma" (2010).
 - Characterized by "pulsating non-linear rhythm" and complex sampling structure.
 
-### ● Brainfeeder (2008~)
+### ● Brainfeeder (2008～)
 - Label founded by Flying Lotus.
 - Featuring Teebs, Samiyam, Tokimonsta, Thundercat, and more.
 - Spread abstract beat culture on a global scale.
 
 ---
 
-## 4. Shabazz Palaces: Redefining hip-hop abstraction
+## 4. Shabazz Palaces: Redefining abstraction in hip-hop
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zNXxd3yYDaM?si=kdXTFpn5kj1KpTDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -171,7 +171,7 @@ This gave rise to a trend that focused on texture.
 
 ---
 
-## 7. Extensions since 2010s: Clipping. / Milo / Open Mike Eagle
+## 7. Expansion since 2010s: Clipping. / Milo / Open Mike Eagle
 
 ### ● Clipping. (2010~)
 
@@ -190,7 +190,7 @@ This gave rise to a trend that focused on texture.
 
 ---
 
-- Poetry/philosophical language.
+- Poetry/philosophical usage.
 - Beats cross jazz/abstract/lo-fi.
 - The density and abstraction of the words are high.
 

@@ -19,7 +19,7 @@ title: '[Column] Aphex Twin''s early days and present day -- beyond the critical
 
 Text: mmr｜Theme: Comparing Aphex Twin's early works with their current achievements, and critically interpreting the changes in their acoustic structure, philosophy, and technology.
 
-In the early 1990s, Richard D. James (Aphex Twin) emerged as someone who completely turned the existing grammar of genres like techno and ambient on its head. His early works are **sound experiments where machine dreams and human illusions intertwine**, and his current sound is between **artificial intelligence-like structures and the return of nostalgia**.
+In the early 1990s, Richard D. James (Aphex Twin) emerged as someone who completely turned the existing grammar of genres like techno and ambient on its head. His early works are sound experiments in which mechanical dreams and human illusions intertwine, and his current sound lies between an artificial intelligence structure and a return to nostalgia.
 
 Below, we will compare and examine these "changes" and "unchanges" from the four axes of work, technology, aesthetics, and ideology.
 
@@ -85,7 +85,7 @@ It's amazing that they created this complexity in a pre-DAW environment.
 ### 2.2 "Come to Daddy" "Windowlicker" ─ Media and Nightmare
 
 From 1997 to 1999, Aphex Twin combined music with "visual horror."
-The PV group created in collaboration with Chris Cunningham **converted the instability of electronic sound into the amorphousness of images**.
+The PV group created in collaboration with Chris Cunningham transformed the instability of electronic sound into the amorphousness of video.
 
 Around the time MTV featured him as the "weirdest genius"
 He was already sensing that his music was in danger of becoming incorporated into popular culture.
@@ -144,7 +144,7 @@ In other words, his music is a testing ground for post-AI humanism.
 
 The core of Aphex Twin lies in ""remaining foreign'' even as times change.
 Even when music becomes trendy, his sound always leaves a "margin".
-It is in that blank space that there is room for listeners to project their own emotions.
+It is in that margin that there is room for the listener to project their own feelings.
 
 ---
 

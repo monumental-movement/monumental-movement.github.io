@@ -94,7 +94,7 @@ color: #fff;
 
 ---
 
-### Playlist organized according to the "flow of time"
+### Structured playlist according to the "flow of time"
 
 #### morning
 

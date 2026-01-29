@@ -46,7 +46,7 @@ color: #fff;
 
 The 1980s was a period of transition from analog to digital, and the vocabulary of electronic music expanded explosively with the spread of polyphonic synthesizers, FM sound sources, and the MIDI standard. At the same time, the expanding role of home video, cable television, and film music created a strong connection between music and images.
 
-Around 2010, as the Internet sharing culture matured, past video, sound sources, and design assets began to be recirculated. In this trend, the sound image of the 1980s was not just nostalgic, but became an object to be reconstructed with modern sensibilities. Dreamwave / Chill Synthwave is formed as a reinterpretation that focuses on "scene memory" in particular.
+Around 2010, as the Internet sharing culture matured, past video, sound sources, and design assets began to be recirculated. In this trend, the sound image of the 1980s was not just nostalgic, but became an object to be reconstructed with modern sensibilities. Dreamwave / Chill Synthwave is formed as a reinterpretation that focuses on "scenic memory" in particular.
 
 > The 1980s referred to here is more of a collective memory than an actual era.
 
@@ -87,7 +87,7 @@ C --> D[emotional listening]
 
 ---
 
-FM-84 is positioned as one of Dreamwave's representative projects. Characterized by transparent synth pads, lyrical melodies, and restrained beat structures, the songs are often associated with nightscapes and a sense of movement.
+FM-84 is positioned as one of Dreamwave's representative projects.透明感のあるシンセパッド、叙情的メロディ、抑制されたビート構造が特徴であり、楽曲はしばしば夜景や移動感覚と結び付けて語られる。
 
 FM-84"s work references 80"s AOR and film music sensibilities, but uses modern mixing to avoid an overly retro feel. This creates nostalgia and presentness at the same time.
 
@@ -101,11 +101,11 @@ FM-84"s work references 80"s AOR and film music sensibilities, but uses modern m
 
 ---
 
-Timecop1983 is an artist with strong Chill Synthwave aspects, and is characterized by a simple structure and soft sound image. Rhythm is kept to a minimum, with the melody and chord progression taking center stage.
+Timecop1983は、Chill Synthwave的側面を強く持つアーティストであり、シンプルな構成と柔らかな音像が特徴である。 Rhythm is kept to a minimum, with the melody and chord progression taking center stage.
 
 Although Timecop1983's music is BGM-like, it is designed so that if you listen carefully, you will be able to discern minute changes in tone and harmonic choices.
 
-> The essence of Chill Synthwave is that it blends into the listeners' daily lives.
+> The essence of Chill Synthwave is that it blends into the listener's daily life.
 
 ---
 

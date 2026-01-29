@@ -203,7 +203,7 @@ flowchart TD
 
 ## 9. Conclusion
 
-Although Japanese and American melocore have different cultural backgrounds, they have gained international support due to their shared ""passion" and ""importance of melody."
+Although Japanese and American melocore have different cultural backgrounds, they have gained international support due to their shared passion and importance of melody.
 The scenes in both countries will continue to influence each other and be passed down to younger generations.
 
 ---

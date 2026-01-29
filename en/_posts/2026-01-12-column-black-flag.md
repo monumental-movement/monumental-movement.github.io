@@ -47,7 +47,7 @@ color: #fff;
 
 Black Flag's origins lie in guitarist Greg Ginn. When the band started in 1976 in the Hermosa Beach, California area, their name was Panic. It was a time when punk rock was beginning to spread from England and New York, and the influence of the Ramones and Sex Pistols was clear, but the scene in Southern California was still in its infancy.
 
-Panic briefly changed its name to Black Flag. The name refers to the anarchist symbol of the black flag, and rather than a clear political statement, it contained a sense of denial of order and stability. The four-line design used as a logo is a simple and instantly recognizable visual symbol that would become one of the most famous icons in punk history.
+Panic briefly changed its name to Black Flag. The name refers to the anarchist symbol of the black flag, and rather than a clear political statement, it contained a sense of denial of order and stability. The four-line design used as a logo was a simple and instantly recognizable visual symbol that would go on to become one of the most famous icons in punk history.
 
 The initial members changed drastically, with vocals, bass, and drums frequently being replaced. This instability was a weakness, but also a factor that prevented the band"s musical direction from becoming fixed. From the beginning, Greg Ginn"s guitar playing was characterized by excessive distortion and repetitive riffs, and we can already see the beginnings of his later development.
 
@@ -89,7 +89,7 @@ Importantly during this period of transition, Greg Ginn took full control and so
 
 ---
 
-The next important moment was the addition of Ron Reis (later known as Chavo Pederast). A representative example of the sound source recorded during the period when he was the vocalist is the 7-inch ""Jealous Again''. This work is particularly highly rated among the early Black Flag.
+The next important moment was the addition of Ron Reis (later known as Chavo Pederast). A representative example of the sound source recorded during the period when he was the vocalist is the 7-inch "Jealous Again". This work is particularly highly rated among the early Black Flag.
 
 "Jealous Again" is about simple jealousy, and has an aggressive yet somewhat sarcastic expression. Ron Reis" vocals are a little more restrained than Keith Morris"s, and the outline of his words is clearer. As a result, the structure and rhythm of the songs become more pronounced.
 
@@ -103,7 +103,7 @@ This 7-inch showed that Black Flag was not just a collection of impulses, but wa
 
 1981 marks a major turning point for Black Flag. The presence of Henry Rollins, who joined as a vocalist. He was originally a Washington, D.C. fan and an avid supporter of the band. From the beginning, his physical and intimidating performance stood out.
 
-Rollins" vocals, unlike those of previous singers, conveyed not only anger but also obsession and introspection. The lyrics also begin to bring to the forefront personal suffering and feelings of isolation. This change took Black Flag"s music in a heavier, more complex direction.
+Unlike previous singers, Rollins" vocals conveyed not only anger but also obsession and introspection. The lyrics also begin to bring to the forefront personal suffering and feelings of isolation. This change took Black Flag"s music in a heavier, more complex direction.
 
 After his addition, the band began touring the United States in earnest. Performing in clubs, DIY spaces, and sometimes informal venues led to frequent clashes with the police and trouble, and these experiences were directly reflected in the texture of the songs.
 

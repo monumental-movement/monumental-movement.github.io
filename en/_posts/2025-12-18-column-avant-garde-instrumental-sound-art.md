@@ -55,7 +55,7 @@ In sound art, spatial arrangement is more important than temporal development. T
 
 ## Chapter 2: Avant-garde instrumental concepts
 
-### 2-1 Redefining instruments
+### 2-1 Redefinition of musical instruments
 
 In avant-garde instrumental music, instruments do not have a fixed form. Existing instruments are expanded or modified, or the environment itself is treated as an instrument. Microphones, speakers, resonators, and architectural spaces are equivalent components.
 
@@ -96,11 +96,11 @@ flowchart LR
 
 ### 4-1 Architectural acoustics
 
-Lucier's work relies heavily on spatial dimensions, materials, and reflective properties. Even if the piece is the same, the acoustic results will vary greatly if it is installed in a different location.
+Lucier's work relies heavily on spatial dimensions, materials, and reflective properties. Even if the piece is the same, the acoustic results will vary greatly if the installation location is different.
 
 ### 4-2 Spectator position
 
-The audience's standing position and movement are factors that change the acoustic experience. The work is not intended to be listened to from a fixed point.
+The position and movement of the audience is a factor that changes the acoustic experience. The work is not intended to be listened to from a fixed point.
 
 ---
 

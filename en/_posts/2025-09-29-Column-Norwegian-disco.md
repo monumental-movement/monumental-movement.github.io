@@ -97,7 +97,7 @@ Features:
 
 An important presence in Norway's underground DJ culture.
 
-With a unique eye for music selection based on his extensive record collection, he connects everything from disco, jazz, Afro, house, and experimental music.
+With a unique music selection based on his extensive record collection, he freely connects disco, jazz, Afro, house, and experimental music.
 
 Known as a DJ who breaks down genre barriers, he brings an electric element to Mungolian Jet Set's work.
 

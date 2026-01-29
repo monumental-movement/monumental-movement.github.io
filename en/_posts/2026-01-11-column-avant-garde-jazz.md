@@ -158,7 +158,7 @@ Many avant-garde jazz performers distance themselves from commercialism and esta
 <div class="mermaid">
 flowchart LR
 A[personal improvisation] --> B[group reaction]
-B --> C[momentary structure]
+B --> C[instantaneous structure]
 C --> A
 </div>
 
@@ -200,6 +200,6 @@ What is particularly important is that he positions improvisation as an expressi
 Avant-Garde Jazz is often dismissed as difficult music. However, its essence was an attempt to liberate music from fixed forms and reconsider it as a momentary creation.
 
 
-> Ornette Coleman, Cecil Taylor, Sun Ra and others have shown that freedom is not born from disorder but from deep mutual understanding and concentration. Avant-garde jazz was a movement that visualized the fundamental improvisational nature of jazz in its purest form.
+> Ornette Coleman, Cecil Taylor, Sun Ra and others have shown that freedom is not born from disorder, but from deep mutual understanding and concentration. Avant-garde jazz was a movement that visualized the fundamental improvisational nature of jazz in its purest form.
 
 ---

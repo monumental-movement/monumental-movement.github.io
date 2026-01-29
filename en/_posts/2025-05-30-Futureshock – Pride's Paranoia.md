@@ -19,7 +19,7 @@ electronic duo by. Mainly active from 1998 to 2003.
 
 "Pride's Paranoia" is a progressive house track released on the label Parlophone in 2003.
 
-The second track on Side A is a remix by Ewan Pearson, who has remixed various artists such as Cortney Tidwell, Seelenluft, Ladytron, Depeche Mode, The Rapture, Goldfrapp, and The Chemical Brothers.
+The second track on side A is a remix by Ewan Pearson, who has remixed various artists such as Cortney Tidwell, Seelenluft, Ladytron, Depeche Mode, The Rapture, Goldfrapp, and The Chemical Brothers.
 
 The B-side is a remix by Eric Prydz, a DJ and producer from Stockholm who also works as Cirez D and Pryda.
 

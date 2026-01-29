@@ -22,7 +22,7 @@ title: Pick up Happy Hardcore works
 
 Released: 1994/Dutch happy hardcore masterpiece
 
-Features: A classic that took the 90's Eurodance rave scene by storm with its catchy melody and positive energy. It continues to be loved by many clubs and raves today.
+Features: A classic that took the 90's Eurodance/rave scene by storm with its catchy melody and positive energy. It continues to be loved by many clubs and raves today.
 
 #### Tracklist
 ```md

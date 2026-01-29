@@ -16,7 +16,7 @@ title: '[Column] Progressive Electronic / Berlin School'
 
 ## Introduction: The position of the Berlin School in the history of electronic music
 
-Text: mmr｜Theme: Progressive electronic and Berlin school electronic music from the late 1960s to the present
+Text: mmr｜Theme: Progressive electronic and Berlin School electronic music from the late 1960s to the present
 
 
 20th century electronic music began in the realm of academic research and experimental art. Following the development of electronic musical instruments in the 1920s and 1930s, magnetic tape technology after the war, and the establishment of musique concrète and electronic music studios in the 1950s, an environment began to emerge in the late 1960s that allowed individual composers to create electronic music outside of the studio. Amid this change, a series of progressive electronic music that later became known collectively as the ""Berlin School'' was established mainly in West Germany.
@@ -63,7 +63,7 @@ What is distinctive about it is its structure, which overlays tonal changes and 
 
 ### Klaus Schulze
 
-After participating in Tangerine Dream and Ash Ra Tempel, Klaus Schulze will focus on his solo career. His works are characterized by longer sustained notes, gradual changes, and improvisation. In many cases, the rhythm does not appear clearly, and the transition of the timbre itself forms the structure.
+After participating in Tangerine Dream and Ash Ra Tempel, Klaus Schulze will focus on his solo career. His works are characterized by longer sustained notes, gradual changes, and improvisation. In many cases, the rhythm does not appear clearly, and the transition of tones itself forms the structure.
 
 From the beginning, Schulze worked in a private studio, practicing multi-layered recordings using numerous synthesizers and tape equipment. This production form also influenced later ambient and drone music.
 
@@ -81,9 +81,9 @@ The most distinctive element of the Berlin School is the repeated sound pattern 
 
 ### Long format
 
-While conventional pop and rock music is based on song structures lasting several minutes, it is not uncommon for a single song in Berlin School music to run for over 20 minutes. This is a form made possible by the development of improvisational performance and recording technology.
+While traditional pop and rock music is based on song structures lasting several minutes, it is not uncommon for a single song in Berlin School music to run for over 20 minutes. This is a form made possible by the development of improvisational performance and recording technology.
 
-### Tone design
+### Sound design
 
 The instability and fluctuation of analog synthesizers became part of the sonic aesthetic of the Berlin School. The minute deviations caused by temperature changes and voltage fluctuations give an organic look to mechanical repetition.
 
@@ -113,7 +113,7 @@ In the 21st century, modular synthesizers are being reevaluated. The Berlin Scho
 
 ## Chapter 7 Detailed analysis of technical foundations
 
-This chapter organizes the specific technical elements that established the Berlin School by dividing them into three layers: musical instruments, control systems, and recording techniques.
+In this chapter, we will organize the specific technical elements that established the Berlin School by dividing them into three layers: musical instruments, control systems, and recording techniques.
 
 ### Analog modular synthesizer
 

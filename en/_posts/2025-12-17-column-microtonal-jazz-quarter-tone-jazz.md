@@ -41,7 +41,7 @@ color: #fff;
 
 ## Chapter 1: Microtones and the Prehistory of Jazz
 
-### 1-1 Historical position of microtonal interval
+### 1-1 Historical position of microtonal intervals
 
 Microtonal intervals have existed in Western music since before the 20th century. The comma difference in the Pythagorean temperament and just intonation of the Middle Ages and Renaissance period includes an interval difference of less than a semitone. However, with the establishment of 12-equal temperament for the purpose of simplifying music notation and teaching, these ideas receded into a theoretical background.
 
@@ -141,7 +141,7 @@ In Collier's approach, individual voices may have different tonal assumptions. A
 
 ---
 
-## Chapter 5: Microtone use in improvisation
+## Chapter 5: Microtone operation in improvisation
 
 ### 5-1 Phrase construction
 
@@ -149,14 +149,14 @@ In microtonal jazz improvisation, the direction of pitch transition is more impo
 
 ### 5-2 Relationship with rhythm
 
-As the intervals are subdivided, the role of rhythm also changes. A method of presenting minute pitch differences using long note values, and a method of increasing pitch density by creating a series of short note values ​​are used in combination.
+By subdividing the pitch, the role of rhythm also changes. A method of presenting minute pitch differences using long note values, and a method of increasing pitch density by creating a series of short note values ​​are used in combination.
 
 ### 5-3 Deepening acoustic analysis
 
 For improvisational performances using microtonality, acoustic evaluation using Fourier analysis and spectrograms is possible. in particular:
 
 * Fine peak distribution on the frequency spectrum
-*Changes in harmonic structure and continuity of timbre
+*Changes in overtone structure and continuity of timbre
 * Evaluation of psychological tension according to pitch density
 
 This allows microtonal expression to be quantitatively analyzed as an auditory effect.
@@ -169,7 +169,7 @@ This allows microtonal expression to be quantitatively analyzed as an auditory e
 
 Extended quarter notes and accidentals are used, but complete notation is difficult, and much depends on the performer's auditory understanding. This point has an affinity with the oral nature of jazz.
 
-### 6-2 Adjustments in ensemble
+### 6-2 Adjustment in ensemble
 
 In microtonal ensembles, sharing relative pitches is more important than absolute pitches. A common method is to check the harmonic relationships during the rehearsal stage and adjust the pitch based on resonance.
 

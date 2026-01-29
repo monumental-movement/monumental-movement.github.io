@@ -41,7 +41,7 @@ color: #fff;
 
 ### 2. Science of structure - Elaenia period (2015)
 His debut album ""Elaenia'' is a turning point in the scientific reorganization of the context of ambient jazz.
-The sound is a combination of modular synthesizer waveforms, Rhodes harmonics, and string reverberations layered together to create a frequency dialogue.
+The sound consists of modular synthesizer waveforms, Rhodes overtones, and string reverberations layered together to create a frequency dialogue.
 This dialogue is more like ""resonance as a physical phenomenon'' like wave interference than improvisation.
 
 > "Silhouettes (I, II & III)" is a 10 minute sonic experiment,
@@ -69,7 +69,7 @@ It is "improvisation performed by a machine" and is also a pioneering form of **
 ### 4. Resonance of light - Promises period (2021)
 Promises, co-written with Pharoah Sanders, is a work in which Floating Points' scientific sonic thinking reaches the realm of the soul.
 This album intersects the physical "measurement of sound" and the metaphysical "sense of time."
-The motif that runs through the nine-chapter suite is a repetition of just a few notes, which change like quantum interference patterns.
+The motif that runs through the nine-chapter suite is the repetition of just a few notes, which change like quantum interference patterns.
 
 Pharoah Sanders' saxophone blends into electronic sounds while maintaining its human "breathing" quality.
 The balance is like the relationship between the observer and the observed object.

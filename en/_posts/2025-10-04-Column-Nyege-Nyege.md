@@ -19,7 +19,7 @@ title: '[Column] Nyege Nyege: A music group from Uganda that is leading Africa''
 Text: mmr｜Theme: About an important music group that disseminates "outsider music" that fuses traditional African music and modern electronic music to the world
 
 
-"Nyege Nyege" is a music group based in Kampala, Uganda, and is known as a pioneer in disseminating Africa's underground music scene to the world. Its name means "the irresistible urge to dance" in Luganda, and it conveys a powerful message that brings people together through music and dance.
+"Nyege Nyege" is a music group based in Kampala, Uganda, and is known as a pioneer in disseminating Africa's underground music scene to the world. Its name means "an irresistible urge to dance" in Luganda, and it conveys a powerful message that brings people together through music and dance.
 
 ---
 
@@ -68,7 +68,7 @@ Below, we will introduce representative albums and projects released by Nyege Ny
 | 2017 | Otim Alpha - Gulu City Anthems | Reconstructing the traditional Rarakaraka wedding song of northern Uganda with electronic music | [Amazon](https://amzn.to/48el27Z) |
 | 2018 | Bamba Pana - Poaa | Expressing Tanzanian Singeli music with a high-speed beat of over 200 BPM | [Amazon](https://amzn.to/3VOVlDC) |
 | 2019 | Jay Mitta - Tatizo Pesa | An evolution of Singeli, with a tempo of 180-190BPM and rich percussion | [Amazon](https://amzn.to/489pDrX) |
-| 2023 | Rian Treanor & Ocen James - Saccades | A fusion of the Akori people's traditional rigiri fiddle and electronic music | [Amazon](https://amzn.to/4pUf2HD) |
+| 2023 | Rian Treanor & Ocen James - Saccades | A fusion of the traditional rigiri fiddle of the Akori people and electronic music | [Amazon](https://amzn.to/4pUf2HD) |
 
 ---
 
@@ -203,7 +203,7 @@ flowchart TD
 
 - Integration with improvisational dance: In the Rarakaraka tradition, dance is integrated with music, and this improvisational nature is inherited in Acolitronics.
 
-- Expression at festivals: Nyege At the Nyege Festival, it is common for the audience to dance freely to electronic Akoli music.
+- Expression at festivals: Nyege At the Nyege Festival, it is common for the audience to dance freely to electronic Akori music.
 
 ---
 
@@ -267,7 +267,7 @@ flowchart TD
 
 - New experimental expression of traditional music
 
-These styles play an important role in Nyege Nyege Tapes" reinterpretation of Africa"s musical heritage from a contemporary perspective, and its transmission to the world.
+These styles play an important role in how Nyege Nyege Tapes reinterprets Africa's musical heritage with a modern perspective and shares it with the world.
 
 ---
 
@@ -293,7 +293,7 @@ flowchart LR
 
 #### Electro Maloya (Summary)
 Electro Maloya is an experimental genre that reconstructs traditional Maloya music with electronic music.
-It is attracting worldwide attention as a musical style that simultaneously carries on the inheritance of history, reinterprets culture, integrates with city club culture, and communicates internationally.
+It is attracting worldwide attention as a music style that simultaneously carries on the inheritance of history, reinterprets culture, integrates with city club culture, and communicates internationally.
 
 ---
 

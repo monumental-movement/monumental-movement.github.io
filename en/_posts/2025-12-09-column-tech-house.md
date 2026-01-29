@@ -130,7 +130,7 @@ In particular, the following artists are important as they bridge the gap betwee
 
 * Steve Bug (Poker Flat)
 * Booka Shade
-* M.A.N.D.Y.
+*M.A.N.D.Y.
 * Ricardo Villalobos (minimal but also intersects with Tech House)
 * Loco Dice
 *Luciano

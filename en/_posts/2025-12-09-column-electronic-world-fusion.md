@@ -20,7 +20,7 @@ title: '[Column] Electronic World Fusion: The point where electronic acoustics a
 
 Text: mmr｜Theme: From the origins of Electronic World Fusion to its technical aspects, representative works, regional characteristics, and contemporary significance
 
-In the second half of the 20th century, electronic music developed around synthesizers and samplers, but at the same time traditional music from around the world began to enter Western pop culture. Electronic World Fusion is an area in which the two are truly connected, and is a rare genre where the history, culture, and ideology of technology and folk music intersect.
+In the second half of the 20th century, electronic music developed around synthesizers and samplers, but at the same time traditional music from around the world began to enter Western pop culture. Electronic World Fusion is an area where the two are fully connected, and is a rare genre where the history, culture, and ideology of technology and folk music intersect.
 
 Representative artists include **Nitin Sawhney**, who incorporates Indian classical music and social themes, and **Thievery Corporation**, which fuses downtempo with diverse musical elements from Latin America, the Middle East, and Asia.
 

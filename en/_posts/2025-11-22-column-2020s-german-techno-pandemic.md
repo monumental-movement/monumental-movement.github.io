@@ -104,7 +104,7 @@ The pandemic has pushed club culture online.
 In March 2020, we launched **United We Stream**, the world's first large-scale online club support project.
 
 ### Important factual points:
-- Broadcast without an audience from a Berlin club
+- Broadcast without audience from a club in Berlin
 - Use donations to maintain the club
 - Watched by millions of people
 - Similar models spread to cities around the world
@@ -307,7 +307,7 @@ German techno in the 2020s was completely different before and after the pandemi
 - **Berlin is once again an international rave city**
 
 The pandemic has brought destruction, but it has also caused a "redefinition of culture".
-German techno in the late 2020s is a culture that is more diverse, international, and faster than before.
+German techno in the late 2020s has become a more diverse, international, and faster-paced culture than before.
 
 This change will likely be recorded as the "2020s = era of discontinuity" in the future history of electronic music.
 

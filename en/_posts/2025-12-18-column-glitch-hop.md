@@ -18,7 +18,7 @@ title: '[Column] Glitch Hop—Low frequency culture formed by fragmented beats'
 
 Text: mmr｜Theme: Background to the establishment of Glitch Hop, acoustic characteristics, production methods of representative artists, beat analysis, equipment and production environment, relationship with surrounding genres, and subsequent influence
 
-Glitch Hop is a trend of electronic music that is based on the beat structure of hip-hop and combines glitch processing, precise micro-editing, and low-centered bass design. From the late 2000s to the early 2010s, it became apparent as the digital production environment became more sophisticated, and it became established as functional music that cuts across club, listening, and video applications. Although the genre name is a compound word of "Glitch" and "Hip Hop," it is not just a mixture of techniques, but a production philosophy centered on beat deconstruction and reconstruction.
+Glitch Hop is a trend of electronic music based on the beat structure of hip-hop, combining glitch processing, precise micro-editing, and low-centered bass design. From the late 2000s to the early 2010s, it became apparent as the digital production environment became more sophisticated, and it became established as functional music that cuts across club, listening, and video applications. Although the genre name is a compound word of "Glitch" and "Hip Hop," it is not just a mixture of techniques, but a production philosophy centered on beat deconstruction and reconstruction.
 
 ---
 
@@ -64,9 +64,9 @@ In Glitch Hop, tone plays a more important role than melody. The bass is designe
 
 ### 3.1 The Glitch Mob
 
-The Glitch Mob has established a method of highly dividing and integrating beats and sound design by utilizing a multi-person production system. Their songs avoid simple repetitions of loops, and the density of rhythm and tone changes with each development.
+The Glitch Mob has established a method of highly dividing and integrating beats and sound design by utilizing a multi-person production system. Their songs eschew simple loop repetitions, instead changing rhythmic and tonal density with each development.
 
-The bass is designed to be the driving force of the song, and its phase relationship with the kick is strictly controlled. The subband is often arranged in a monaural manner, and is characterized by a design that emphasizes stability during club playback.
+The bass is designed to be the driving force of the song, and its phase relationship with the kick is strictly controlled. The sub-band is often arranged in a monaural manner, and is characterized by a design that emphasizes stability during club playback.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xbbwjfa9JQE?si=-2_64kU--YmohV0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -162,7 +162,7 @@ In typical Glitch Hop, a strong kick is often placed on the first beat, but at t
 
 The snare is often placed on the second and fourth beats, but the attack and tail parts may be composed of separate samples. This allows the sense of hit and reverberation to be controlled independently, making the groove stable and unstable at the same time.
 
-The hi-hat is not just a tick, it functions as a rhythm density adjustment device. By creating a section in which the number of notes is intentionally reduced within a bar, and immediately after that section, the music is subdivided into extreme pieces, the listener's sense of time is disturbed.
+The hi-hat is not just a tick, it functions as a rhythm density adjustment device. By creating a section in which the number of notes is intentionally reduced within a measure, and immediately after that section, the music is subdivided into extreme pieces, the listener's sense of time is disturbed.
 
 <div class="mermaid">
 flowchart LR

@@ -14,7 +14,7 @@ title: Earth, Wind & Fire – Heritage
 
 "Heritage" appears on Earth, Wind & Fire"s 1980 album Faces. The song has a sound that blends the band"s signature funk, soul, disco, and pop elements.
 
-"Heritage" is one of Earth, Wind & Fire's songs that is easy to dance to and has a groove, featuring a brass section and rhythmic drum beat. The lyrics focus on the importance of cultural heritage and identity, conveying a positive message.
+"Heritage" is one of Earth, Wind & Fire's most danceable and groovy songs, featuring a brass section and rhythmic drum beat. The lyrics focus on the importance of cultural heritage and identity, conveying a positive message.
 
 Earth, Wind & Fire had many hit songs throughout the 70"s and 80"s and achieved great success in the funk and disco music scene. Their songs are known for their groove and energetic performances, and their music is widely loved.
 

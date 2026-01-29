@@ -168,6 +168,6 @@ graph LR
 
 ### 10. Conclusion
 
-Psychic TV was a comprehensive movement that crossed music, ritual, and ideology. Their work goes beyond just music, exploring magic, images, the body, spirituality, and community. Genesis P‑Orridge's vision disrupts genre boundaries and anticipates future forms of expression, and his influence remains deeply etched in contemporary experimental music and counterculture.
+Psychic TV was a comprehensive movement that crossed music, ritual, and ideology. Their work goes beyond mere music and explores magic, images, the body, spirituality, and community. Genesis P‑Orridge's vision disrupts genre boundaries and anticipates future forms of expression, and his influence remains deeply etched in contemporary experimental music and counterculture.
 
 ---

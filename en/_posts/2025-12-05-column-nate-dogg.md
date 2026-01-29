@@ -9,7 +9,8 @@ layout: post
 tags:
 - Hiphop
 - classic
-title: '[Column] Nate Dogg: The trajectory of the "king of hooks" who symbolizes G-Funk'
+title: '[Column] Nate Dogg: The trajectory of the "king of hooks" that symbolizes
+  G-Funk'
 ---
 
 
@@ -22,7 +23,7 @@ There are a number of elements that characterize American West Coast hip-hop in 
 Dr. Dre production, P-Funk-inspired synth swells, thick bass lines, and smooth mellowness.
 But the voice of **Nate Dogg (real name Nathaniel Dwayne Hale, 1969-2011)** has special meaning.
 
-His singing voice is neither rap nor R&B, but is somewhere in between, yet different from both.
+His singing voice is neither rap nor R&B, but something in between, yet different from both.
 The dry texture and depth of the bass, the thickness and smoothness derived from gospel music. He has revolutionized the role that "songs" can play in hip-hop, and continues to influence many artists to this day.
 
 Above all, he became recognized as an artist who was stronger than anyone else when he could sing the hook, and was sought after by almost everyone in the West Coast scene at the time.
@@ -127,7 +128,7 @@ These characteristics made Nate Dogg's voice an essential component of G-Funk.
 
 ## 6. Solo works and their positioning
 
-Nate Dogg is highly acclaimed for his guest appearances, but he has also released several solo albums.
+Nate Dogg is highly acclaimed for his guest performances, but he has also released several solo albums.
 
 #### ■ "G-Funk Classics, Vol. 1 & 2" (1998)
 
@@ -172,7 +173,7 @@ Although it is a sweet R&B sound, it is important that Nate Dogg's voice does no
 
 ## 8. 213 "The Hard Way": The Fruit of Friendship
 
-213, consisting of Snoop, Warren, and Nate, released their official studio album, The Hard Way, in 2004.
+213, the trio of Snoop, Warren, and Nate, released their official studio album, The Hard Way, in 2004.
 The album reached number one on Billboard and was the culmination of the three's long friendship and careers.
 
 ---

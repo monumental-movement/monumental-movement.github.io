@@ -89,7 +89,7 @@ This idea was later inherited by **UK dub** (Jah Shaka, Aba Shanti-I) and **soun
 ### ▪ Slackness and slang explosion
 
 In 1985, **Wayne Smith's ""Under Mi Sleng Teng''** changed everything.
-This song, which uses Casio MT-40's rhythm presets, is said to be the first completely digital reggae in history, and from then on, ""digital dancehall'' became mainstream.
+This song, which used Casio MT-40's rhythm presets, is said to be the first completely digital reggae in history, and from then on, ""digital dancehall'' became mainstream.
 
 | Year | Representative song | Artist | Notes |
 |----|--------|---------------|------|

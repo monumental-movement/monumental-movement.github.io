@@ -19,7 +19,7 @@ title: '[Column] Tracy Chapman: An era when the voice of stillness moved'
 Text: mmr | Theme: Tracy Chapman is a rare artist who has continued to sing about social justice, human dignity, and quiet resistance while crossing elements of folk, soul, and blues.
 
 
-""Speaking for the voiceless"' - this is probably one of the most appropriate words to describe Tracy Chapman"s music and life.
+""Speaking for the voiceless"' - this is one of the most appropriate expressions to describe Tracy Chapman"s music and life.
 Since her debut in 1988, she has avoided flashy productions and over-the-top production, and has continued to depict society with acoustic tones and a quiet speaking voice, and her journey slowly stirs the soul of the listener.
 In this article, I would like to trace her upbringing, creative process, sound technology, important relationships, and intersection with the times, and decipher why her songs still resonate today.
 
@@ -116,7 +116,7 @@ However, this song contains the will to resist oppression, an eye toward social 
 
 ### ● Voices that resonate with character relationships
 Chapman"s musical worlds often depict other people"s perspectives and characters' stories.
-"Lyrics are not necessarily autobiographical; they are a mixture of influences, emotions, and other people's stories," she said.
+"Lyrics are not necessarily autobiographical; they are a mixture of influences, emotions, and other people's stories," she says.
 This way of speaking has an affinity with folk and blues traditions.
 
 She cites gospel, soul, and folk singers as her musical influences, and has a strong sense of forming a collective voice rather than an individual voice.
@@ -127,7 +127,7 @@ She cites gospel, soul, and folk singers as her musical influences, and has a st
 Live and recorded versions of "Talkin" "bout a Revolution" often use light reverb in the background, making the vocals and guitar blend into the space.
 In order to make use of the white space in the lyrics, excessive sounds are avoided and the mixing is conscious of the "pause". This idea is possible because her songs have a character that is similar to ""talking to people''.
 
-In addition, in terms of recording technology, equalization is often chosen to leave the contours of the mid-low range clear, without layering the vocals and guitar too thickly. This gives the listener the illusion that the voice is reaching them directly.
+In addition, in terms of recording technology, equalization is often chosen to leave the contours of the mid-low range clear, without layering the vocals or guitar too thickly. This gives the listener the illusion that the voice is reaching them directly.
 
 ---
 
@@ -211,7 +211,7 @@ In addition, live performances and reconfigurations in acoustic sessions create 
 Streaming, high-resolution sound sources, smart speakers, headphone environments—the music environment of the 21st century is diversifying, and listeners' listening conditions are becoming more complex.
 Among these, Chapman's songs have a high level of purity that eliminates unnecessary frequencies, so it can be analyzed that the design allows for his voice to be heard in any environment.
 
-For example, equalizing to keep the mid-range clear, mixing to avoid excessive low-end boost, and suppressing reverb and spatial processing -- all of these are factors that keep her songs designed to not blend in with the noise.
+For example, equalizing to keep the midrange clear, mixing to avoid excessive boosting of the low range, and suppression of reverb and spatial processing--all of these are factors that keep her songs designed to not blend in with the noise.
 
 In addition, the approach of emphasizing the "live feeling" in the original song recording (such as the two microphones and compressor adjustment mentioned above) continues to be effective even today as "the feeling of live performance = an element that brings people closer together."
 

@@ -22,7 +22,7 @@ In the world of electronic music and modular synths, synths are often treated as
 
 By choosing vintage or modular equipment, especially Buchla-style modular equipment, she creates a sonic ecosystem through ""accidentality", ""instability", ""manuality", or ""electrical vibrations and resonance with the body", rather than just synthetic sounds.
 
-By carefully weaving together voices, live instruments, field recordings, nature and physicality, he transforms modular from a ""cold machine" into a ""living vessel of sound." People who love modular and Buchla-style synths will be strongly attracted to this attitude.
+By carefully weaving together voices, live instruments, field recordings, nature and physicality, he elevates the modular from a "cold machine" to a "living vessel of sound." People who love modular and Buchla-style synths will be strongly attracted to this attitude.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/95UvPlhjbE4?si=Kg2SbogrCMF55Cxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -59,7 +59,7 @@ These experiences provided her with the axes of "naturalness," "spatiality," and
 
 Growing up, she studied composition and sound theory at a music educational institution in the United States, and at the same time was active in a folk duo using guitar, voice, and piano.
 
-However, after leaving the confines of his student days, he returns to his hometown and encounters an unexpected change: he encounters a Buchla 100 loaned to him by a neighbor. When she first picked up a modular synth, she saw it not as a "flimsy tool" but as a "co-star", a "living creature", and a "body of electricity".
+However, after leaving the confines of his student days and returning to his hometown, an unexpected change occurs: he encounters a Buchla 100 loaned to him by a neighbor. When she first picked up a modular synth, she saw it not as a "flimsy tool" but as a "co-star," "a living thing," and "an electric body."
 
 Buchla's instability, manual patching, and unpredictable sound shifts - through such contingency and instability, she chooses to bring out "living sound," "vibration," "space," and "physicality" from the synth.
 
@@ -85,7 +85,7 @@ The real turning point was the album *EARS* released in 2016. In this work, whil
 
 The coldness of electronic sounds, the softness of organic instruments, the fluctuation of voices, and natural noises all intertwine to create a dreamy and lively sound that resembles a "futuristic jungle."
 
-With this work, she went from being a mere modular experimenter to a painter who uses modular objects to depict the organic world, and gained attention from many listeners and critics.
+With this work, she went from being a simple modular experimenter to a painter who uses modular objects to depict the organic world, and gained attention from many listeners and critics.
 
 ---
 
@@ -105,7 +105,7 @@ With this work, she went beyond the prejudice that ""electronic music = cold mec
 
 The sound that has matured over the years since 2017 reaches new horizons with the 2020 album *The Mosaic of Transformation*.
 
-In this work, she views modular synths as ""vibration mediating devices," ""an extension of the body," and ""a point of intersection between electricity and the body.'' In creating the piece, the idea was to conduct electricity along with daily movements, breathing, and physical sensations - in other words, the intention was not to simply make the modular sound, but to "feel" the vibrations with your body.
+In this work, she views modular synths as ""vibration mediating devices," ""an extension of the body," and ""a point of intersection between electricity and the body.'' In creating the piece, the idea was to conduct electricity along with daily movement, breathing, and physical sensations - in other words, the intention was not to simply make the modular sound, but to "feel" the vibrations with your body.
 
 As a result, this work has a sound that prioritizes "waves," "fluctuations," "spatial sensation," and "physical sensation" rather than structure or form. Droney silences, rolling pads, whispering voices, and layers of enveloping synths resonate across organic and electronic, physical and electric, time and space.
 
@@ -135,7 +135,7 @@ This philosophy redefines modular synths not just as sound sources or tools, but
 
 ## Sound evolution — time series and sound trajectory
 
-The following is a trajectory of her sound, centered around her main works, as she moves back and forth between "electronic/experimental ⇔ organic/physical/spatial."
+The following is a history of her sound, centered around her main works, moving back and forth between "electronic/experimental ⇔ organic/physical/spatial".
 
 <div class="mermaid">
 graph TD

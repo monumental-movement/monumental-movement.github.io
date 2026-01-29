@@ -95,7 +95,7 @@ During this period, Zeni Geva's songs became longer and more structured, includi
 - Noise/metallic guitar/unusual time signature/electronic sounds intertwine in multiple layers
 - Zeni Geva as a sound sculpture, different from the 1980s-90s period
 
-The band reached its peak of musical maturity during this period, but at the same time Null's solo activities and other projects increased, and the time between releases as a band became longer.
+The band reached musical maturity during this period, but at the same time, Null's solo activities and other projects increased, and the time between releases as a band became longer.
 
 ---
 
@@ -131,7 +131,7 @@ Zeni Geva is receiving renewed attention from the noise/metal/hardcore/avant-gar
 - Non-4/4 beat relentless loop
 
 ### 6-2. Role of drums
-- Early on, it was more hardcore.
+- In the beginning, it was more hardcore.
 - Mathematics and polyrhythm in the 90s
 - After joining Tatsuya Yoshida, an intense and unusual approach
 

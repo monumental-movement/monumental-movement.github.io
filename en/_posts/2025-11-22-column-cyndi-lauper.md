@@ -113,11 +113,11 @@ With the rise of MTV, we entered an era in which images influenced music, and Ci
 
 ---
 
-## **7-1. Deep dive into representative songs**
+## **7-1. A deep dive into representative songs**
 
 ### **Girls Just Want to Have Fun**
 
-Synonyms for Cindy. It"s a light-hearted anthem praising women"s freedom to enjoy themselves, but it was originally written from a male perspective. Cindy changed the lyrics and nuance, and it became a symbol of women's freedom.
+Synonyms for Cindy. It"s a light-hearted anthem praising women"s freedom to enjoy themselves, but it was actually originally written from a male perspective. Cindy changed the lyrics and nuance, and it became a symbol of women's freedom.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PIb6AZdTr-A?si=tt7rzky2_Q3m9hRl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -169,7 +169,7 @@ Meanwhile, Cindy causes an "incident".
 
 The large number of accessories she was wearing around her neck hit the microphone, causing a clattering noise.
 
-Engineer: "What sound is that?"
+Engineer: "What's that sound?"
 Quincy Jones: "Cindy, can you...take that?"
 
 Cindy burst out laughing and said, "Oh, sorry!" as she removed her accessories, and it is said that the atmosphere instantly relaxed.
@@ -182,7 +182,7 @@ This incident has been passed down as an episode that symbolizes Cindy's "abilit
 
 # **10. Late 80s to 90s: From pop star to artist**
 
-From the late '80s to the '90s, Cindy oscillated between commercial success and a desire for artistic expression.
+From the late '80s to the '90s, Cindy was torn between commercial success and a desire for artistic expression.
 
 ### **Hat Full of Stars (1993)**
 
@@ -200,11 +200,11 @@ Cindy did not place any value on ""repeating successful forms" and valued ""bein
 
 # **12. Challenge to Broadway: Wins Tony Award for "Kinky Boots"**
 
-In 2013, he was in charge of the lyrics and composition for the musical "Kinky Boots," which won him the Tony Award for Best Original Song.
+In 2013, he was in charge of the lyrics and composition for the musical "Kinky Boots" and won the Tony Award for Best Original Song.
 
 Originally, Cindy grew up not only as a singer, but also deeply influenced by expressive culture such as movies and theater. That came to fruition in the form of Broadway.
 
-In this work, she strongly conveys the message that it's okay to live your life the way you are. This is also her own life philosophy, and has received great support from the LGBTQ community.
+In this work, she strongly conveys the message that it's okay to live your life the way you are. It is also her own life philosophy, and has received great support from the LGBTQ community.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8pltkucgl5w?si=w1KxlxWJdT0hlFZh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -242,7 +242,7 @@ flowchart TD
   C --> D["1984 She"s So Unusual Big Hit"]
   D --> E["1985 We Are the World Participation"]
   E --> F["1993 Hat Full of Stars Release"]
-  F --> G["2000s Experimental Period"]
+  F --> G["2000s experimental period"]
   G --> H["2013 Kinky Boots Tony Award"]
   H --> I["2020s Farewell Tour"]
 </div>

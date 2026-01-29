@@ -174,7 +174,7 @@ As symbolized by Berlin's Berghain and Tresor, club space and sound are insepara
 
 **Trend**: While inheriting the coldness typical of past "German techno," it has evolved with the addition of emotional expression and visual production.
 
-If you compare the songs by decade, you can see a cycle of ""industrial and cold → minimalization → hardness → melodicization → re-industrialization''**.
+If you compare the songs by decade, you can see a cycle of ""Industrial and cold → Minimalization → Hardening → Melodicization → Re-industrialization''**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t6oPQFIWcV0?si=NRKnyUWxI2vIXS1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -195,7 +195,7 @@ Listening to his works while tracing their history is nothing but understanding 
 
 🔗 [[Column] The Golden Age of UK Techno](https://monumental-movement.jp/Column-90s-UKTechno)
 
-🔗 [[Column] From the origins of techno to the present - a chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[Column] From the origins of techno to the present - A chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)
 
 🔗 [[Column] Detroit Techno: Human dance created by the heartbeat of machines](https://monumental-movement.jp/Column-Detroit-Techno)
 

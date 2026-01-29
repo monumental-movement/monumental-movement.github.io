@@ -123,7 +123,7 @@ In particular, a unique system called ""Ghost Electronics"' processes the perfor
 
 ### ● Basic idea of ​​Ghost Electronics system
 
-* Performer's sound → send to external processor
+* Performer's sound → Send to external processor
 * Modulated by feedback or control voltage
 * Live music and electronic processing become an inseparable unified expression
 

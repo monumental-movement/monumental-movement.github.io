@@ -24,7 +24,7 @@ Text: mmr｜Theme: About the Modular Techno scene
 
 Although its origins as a genre date back to the early 2000s, its foundational elements are deeply rooted in the emergence of analog modular synths in the 1970s and the formation of Detroit techno in the 1980s. Due to the high degree of freedom of modular synths, it is often possible to develop unique sounds that emphasize the texture and spatial expanse of the sound, rather than simply playing techno tracks.
 
-In his live set, he manipulates rhythm, bass line, percussion, and noise effects module by module to create an improvised musical space. As a result, listeners can experience an experience that is more like ""experiencing a performance" than ""listening to a track."
+In his live set, he manipulates rhythm, bass line, percussion, and noise effects in each module to create an improvised musical space that changes. As a result, listeners can experience an experience that is more like ""experiencing a performance" than ""listening to a track."
 
 
 ---
@@ -100,7 +100,7 @@ British-born Surgeon is known as one of the first artists to introduce modular s
 
 ## Ø [Phase]
 
-Ø [Phase], whose work focuses on a minimal and stoic sonic aesthetic within techno, actively utilizes modular synths in both studio and live production. It is particularly characterized by its complex phase modulation approach and the introduction of drone-like elements that utilize feedback loops, and has been praised for giving organic movement to minimal techno.
+Ø [Phase], whose work focuses on a minimal and stoic sonic aesthetic in techno, actively utilizes modular synths in both studio and live production. It is particularly characterized by its complex phase modulation approach and the introduction of drone-like elements that utilize feedback loops, and has been praised for giving organic movement to minimal techno.
 
 ## Richie Hawtin
 
@@ -269,7 +269,7 @@ The shift from ""track reproduction" to ""sound generation" has also influenced 
 
 ---
 
-# Future outlook
+# Future prospects
 
 Modular Techno is expected to continue to evolve, and several directions are expected.
 

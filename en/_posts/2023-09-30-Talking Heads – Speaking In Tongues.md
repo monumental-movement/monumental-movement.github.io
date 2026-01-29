@@ -18,7 +18,7 @@ The album is packed with Talking Heads" signature post-punk and new wave element
 
 It includes many hit songs such as "Burning Down the House" and "This Must Be the Place (Naive Melody)."
 
-This album is a must-hear for any Talking Heads fan, and the unique sound and intelligent lyrics of 'Speaking In Tongues' make it a milestone in the history of rock music.
+This album is a must-hear for any Talking Heads fan, and its unique sound and intelligent lyrics make 'Speaking In Tongues' a milestone in rock music history.
 
 
 #### Tracklist

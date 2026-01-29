@@ -194,7 +194,7 @@ The integration of music and visuals is accelerating, and emphasis is placed on 
 
 ### 13-3. 2020s
 
-Expressions that cross gender, body, and technology became commonplace, and neofuturism became established as an aesthetic.
+Expressions that cut across gender, the body, and technology became commonplace, and neofuturism became established as an aesthetic.
 
 ---
 

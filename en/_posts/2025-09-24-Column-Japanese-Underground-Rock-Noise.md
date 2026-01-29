@@ -43,7 +43,7 @@ color: #fff;
 
 [**Fushitsusha**](https://amzn.to/4mBoM6K) led by Keiji Haino, Masami Akita"s [**Merzbow**](https://amzn.to/46qEmxw), Ai Yamazuka and Seiichi Yamamoto"s [BOREDOMS](https://amzn.to/4nKFfGO), [Incapacitors](https: Groups like //amzn.to/3IsJjwx) and [Violence Onsen Geisha](https://amzn.to/4gJWXbk) broke the boundaries of conventional rock and punk, creating a sonic world that combined noise and experimental spirit.
 
-This period also saw the rise of indie labels, appearances at international festivals, and accelerated interaction with the American and European underground. Furthermore, cutting-edge activities were developed that influenced film and soundtrack production, as well as later **AI music generation**.
+This period also saw the rise of indie labels, appearances at international festivals, and accelerated interactions with the American and European underground. Furthermore, cutting-edge activities were developed that influenced film and soundtrack production, as well as later **AI music generation**.
 
 ---
 

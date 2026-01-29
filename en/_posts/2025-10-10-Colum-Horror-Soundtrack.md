@@ -165,7 +165,7 @@ Fear is no longer confined to the ears of individuals.
 ### Final chapter: Fear is audible — the cultural significance of modern horror audio
 
 In horror films since 2010, sound has gone beyond mere presentation and has become a medium that questions the very existence of the film.
-Colin Stetson"s bass breath, Disasterpeace"s electronic tension, Bobby Krlic's ritualistic rhythm.
+Colin Stetson"s bass breath, Disasterpeace"s electronic tension, Bobby Krlic's ritual rhythm...
 All of these are acoustic translations of the question, "What is fear?"
 
 The sounds of horror resonate with social anxiety and individual loneliness.

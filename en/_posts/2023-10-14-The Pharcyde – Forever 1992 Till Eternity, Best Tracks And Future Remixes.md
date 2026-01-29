@@ -13,7 +13,7 @@ title: The Pharcyde – Forever 1992 Till Eternity, Best Tracks And Future Remix
 ---
 
 
-The Pharcyde is an American alternative hip-hop group from South Central, LA, formed in 1989.
+The Pharcyde（ファーサイド） は、1989 年に結成された、LAのサウスセントラル出身のUSオルタナティブ・ヒップホップグループ。
 
 This album is a collection of Pharcyde's best tracks and remixes.
 

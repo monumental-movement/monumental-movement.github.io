@@ -57,7 +57,7 @@ Just as metal is "an art that turns chaos into order," Takaichi's speech resonat
 
 ## Chapter 2: Building the Voice——The Politics of Metallic Voice
 
-For politicians, their ""voice"' is an instrument that embodies their ideas. Takaichi"s vocalization is particularly low and stable among female politicians. Acoustically, it is based on the mid-low range (approximately 170-180Hz), with little pitch variation, reminiscent of the "steel control" in metal vocals.
+For politicians, their ""voice"' is an instrument that embodies their ideas. Takaichi"s vocalization is particularly low and stable among female politicians. Acoustically, it is based on the mid-low range (approximately 170-180Hz), with little pitch fluctuation, reminiscent of the "steel control" in metal vocals.
 
 ""Voice is the art of making your emotions resonate without letting them run wild." As symbolized by these words, she lives politics as an ""iron structure."
 
@@ -114,7 +114,7 @@ flowchart TD
 
 </div>
 
-Within this structure, Mr. Takaichi plays with ""intellect that controls passion.''
+Within this structure, Takaichi plays with ""intellect that controls passion.''
 
 ---
 
@@ -172,7 +172,7 @@ flowchart LR
 | ----------------- | ------------ | ---- | -------------------------- | ---------------------------------------- |
 | **Black Sabbath** | **Black Sabbath** | 1970 | A work that is said to be the birth of the world's first heavy metal. The darkening of the blues and the church bell SE are symbolic.            |
 | | **Paranoid** | 1970 | A masterpiece that established the prototype of metal. Speed, sociability, and seriousness coexist.    |
-| | **Master of Reality** | 1971 | Evolution of deep bass with drop D tuning. The father of doom metal.      |
+| | **Master of Reality** | 1971 | Evolution of heavy bass with drop D tuning. The father of doom metal.      |
 | **Deep Purple** | **Deep Purple in Rock** | 1970 | A masterpiece that laid the foundation for hard rock. A fusion of classic compositional beauty and explosive power.                    |
 | | **Fireball** | 1971 | More aggressive and experimental. It has a strong tempo change and blues feel.                  |
 | | **Machine Head** | 1972 | A level of perfection that remains in rock history. The golden ratio of riff and groove.          |

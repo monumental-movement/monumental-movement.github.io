@@ -26,7 +26,7 @@ Among these, **Vipassana meditation (Insight Meditation)** has been accepted by 
 
 This column focuses on **famous musicians who have practiced and experienced Vipassana meditation**, and provides a fact-based introduction to how they incorporated meditation into their own creations and lives.
 
-> Vipassana meditation has been passed down since ancient times as a meditation method for ""seeing things as they really are,'' and in modern times, many practitioners are appearing not only among athletes and managers, but also among creative artists.
+> Vipassana meditation has been passed down since ancient times as a meditation method for ""seeing things as they really are,'' and in modern times, many practitioners are appearing not only among athletes and business executives, but also among creative artists.
 
 ---
 
@@ -44,13 +44,6 @@ color: #fff;
 </style>
 
 
-
-
-
-
-
-
----
 
 ## What is Vipassana meditation?
 

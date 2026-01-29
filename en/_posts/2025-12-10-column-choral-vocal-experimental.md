@@ -21,7 +21,7 @@ Text: mmr｜Theme: Historical development, representative artists, technique ana
 
 "Choral/Vocal Experimental" is a field that was born from the intersection of experimental music, acoustic research, and electroacoustic ideas from the latter half of the 20th century on the oldest musical form of chorus.
 Its distinctive feature is that it goes beyond simply pursuing the beauty of harmonies, and spans a wide variety of techniques, including the exploration of acoustic phenomena using voice as a material, spatialization, microtonal manipulation, phase structure, and fusion with electronic processing.
-This trend presented a new listening style to traditional choral culture and had a major impact on acoustic art as a whole.
+This trend presented a new listening style to traditional choral culture, and had a major impact on acoustic art as a whole.
 
 ---
 
@@ -42,7 +42,7 @@ color: #fff;
 
 The most primitive musical instrument in human history is the voice, and the collaborative expression of multiple people through voice has developed closely with religious rituals and community structures.
 However, the modern image of ""chorus = disciplined, homogeneous harmony'' is actually just a set of values ​​that became dominant during a limited period from the 19th to the 20th century.
-In the second half of the 20th century, with the advent of avant-garde music and developments in acoustics, choral singing was expanded dramatically as the voice rediscovered that it could do more.
+In the second half of the 20th century, with the advent of avant-garde music and advances in acoustics, choral singing was expanded dramatically as the voice rediscovered that it could do more.
 
 Choral/Vocal Experimental is a field that was established in the flow of rediscovery, and it is more accurate to think of it as a group of methodologies for maximizing the artistic potential of the voice, rather than just a genre.
 
@@ -186,7 +186,7 @@ With these, the static image of the chorus is completely dismantled, and the par
 
 Ligeti was a composer who symbolized 20th century acoustic thinking and brought about the most radical innovations in choral music.
 
-### Features of representative works
+### Characteristics of representative works
 
 *《Lux Aeterna》: Micropolyphony without accompaniment
 * 《Requiem》: Dense texture and tension in "Kyrie"
@@ -209,7 +209,7 @@ Whittaker is known for her choral works that maintain a classical beauty while l
 ### Virtual Choir
 
 "Virtual Choir", which took place in the 2010s, is an attempt to integrate individual voices recorded from all over the world and create a gigantic chorus.
-This is noteworthy in terms of music history as an **expansion of the concept of choral singing in the internet age**.
+This is notable in music history as an **expansion of the concept of choral singing in the internet age**.
 
 ---
 

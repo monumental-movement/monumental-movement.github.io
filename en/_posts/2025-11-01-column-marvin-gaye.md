@@ -63,7 +63,7 @@ In the mid-1950s, Gaye enlisted in the U.S. Air Force, but was discharged after 
 Eventually, he moved to the Detroit/Motown area, and in 1961, he seized the opportunity to make his debut as a solo singer.
 
 ### Encounter with Motown
-A chance encounter with Berry Gordy, the founder of the Motown label, paved the way for him to become a solo singer. After his debut, while adapting to Motown's system of mass-producing hits for young people, he began to develop a desire for ""adult songs" and ""a voice that speaks volumes."
+An encounter with Berry Gordy, founder of the Motown label, paved the way for him to become a solo singer. After his debut, while adapting to Motown's system of mass-producing hits for young people, he began to develop a desire for ""adult songs" and ""a voice that speaks volumes."
 During this period, he gradually began to realize that he could move from ""just singing" to ""talking through songs."
 
 ---
@@ -107,7 +107,7 @@ After the release of this album, Gaye was exhausted both physically and mentally
 
 ### Tax avoidance, escape from Europe, preparation for restart
 In the late 1970s and early 1980s, gay men faced many challenges in the United States, including tax problems, drug use, and creative stagnation. Moving to Belgium and spending more time in Europe took on an ""escapism'' both musically and physically.
-In the midst of all this, he was looking for a comeback, seeking new sounds and new environments.
+In the midst of all this, he was looking for a comeback and was looking for new sounds and new environments.
 
 ### "Midnight Love" (1982)/"Sexual Healing"
 On November 8, 1982, Marvin Gaye released his first album after the transfer, ""Midnight Love,'' making a huge comeback.

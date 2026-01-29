@@ -18,7 +18,7 @@ Text: mmr｜Theme: The life and music of Fela Kuti
 
 
 Fela Aníkúlápó Kútì (1938–1997) was a Nigerian musician, activist, and founder of Afrobeat. Their unique sound, which blends jazz, funk, highlife, and Yoruba music, had an immense influence on world music in the second half of the 20th century.
-His music was not just entertainment, but a political statement denouncing military rule and injustice, and a symbol of resistance despite numerous arrests and violence.
+His music was not just entertainment, but a "political statement" denouncing military rule and injustice, and a symbol of resistance despite numerous arrests and violence.
 
 ---
 
@@ -134,11 +134,11 @@ A harsh criticism of world leaders. It also attracted international attention.
 
 | Year | Album | Commentary | Link |
 |---|---|---|---|
-| 1969 | The '69 Los Angeles Sessions | Experimental work with strong early jazz + high life flavor | [Amazon](https://amzn.to/3KrT4Mb) |
+| 1969 | The '69 Los Angeles Sessions | Experimental work with strong early jazz + high life vibes | [Amazon](https://amzn.to/3KrT4Mb) |
 | 1973 | Gentleman | Criticism of colonialism and the perfection of Afrobeat | [Amazon](https://amzn.to/3IFAYFV) |
 | 1975 | Expensive Shit | A masterpiece that takes advantage of a famous false accusation case | [Amazon](https://amzn.to/3IVK6WS) |
 | 1977 | Zombie | Sharply criticizes the military government, resulting in the attack on Kalakuta | [Amazon](https://amzn.to/46VWCh7) |
-| 1989 | Underground System | Egypt 80's mature Afrobeat | [Amazon](https://amzn.to/4nWGXVE) |
+| 1989 | Underground System | Mature Afrobeat from the 80's in Egypt | [Amazon](https://amzn.to/4nWGXVE) |
 
 ---
 
