@@ -16,7 +16,7 @@ title: '[Columna] Jazz microtonal / Jazz de cuartos de tono'
 
 
 
-## Introducción: El jazz y la expansión de los conceptos tonales
+## Introducción: el jazz y la expansión de los conceptos tonales
 
 Texto: mmr｜Tema: Análisis de la teoría, interpretación y sistema educativo del jazz microtonal/jazz de cuartos de tono centrado en Joe Maneri y Jacob Collier
 
@@ -150,7 +150,7 @@ En la improvisación de jazz microtonal, la dirección de la transición del ton
 
 ### 5-2 Relación con el ritmo
 
-Al subdividir el tono, también cambia el papel del ritmo. Se utilizan en combinación un método para presentar diferencias de tono mínimas utilizando valores de notas largas y un método para aumentar la densidad del tono mediante la creación de una serie de valores de notas cortas.
+A medida que se subdividen los intervalos, el papel del ritmo también cambia. Se utilizan en combinación un método para presentar diferencias de tono mínimas utilizando valores de notas largas y un método para aumentar la densidad del tono mediante la creación de una serie de valores de notas cortas.
 
 ### 5-3 Profundización en el análisis acústico
 

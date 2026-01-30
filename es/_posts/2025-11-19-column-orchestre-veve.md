@@ -102,7 +102,7 @@ Estas canciones muestran el núcleo de la música de baile de Veve, al mismo tie
 
 ## Papel de la guitarra solista
 
-La guitarra solista de Veve se caracterizaba por una melodía de "muesca" más aguda que la de otras bandas de la época. Especialmente notable en grabaciones de los años 1970.
+La guitarra principal de Veve se caracterizaba por una melodía de "muesca" más aguda que la de otras bandas de la época. Especialmente notable en grabaciones de los años 1970.
 
 - Subida líder cromática.
 - trémolo rápido
@@ -133,7 +133,7 @@ La sección rítmica de Veve tiene un rebote distintivo. El charles no talla fue
 - **Bajo: Repetir línea descendente → línea ascendente cada 4 compases**
 - **Mezcla: voces en el centro, guitarras separadas a izquierda y derecha**
 
-### Características del ritmo
+### Características del ritmo.
 
 <div class="mermaid">
 
@@ -153,7 +153,7 @@ graph TD
 
 ### Análisis técnico
 
-* **Saxofón presenta melodía al inicio → Guitarra imita**
+* **El saxofón presenta la melodía al principio → la guitarra imita**
 * **Las voces son “preguntas” y los coros son “respuestas”**
 * **Solo de guitarra lineal y agudo**
 
@@ -213,7 +213,7 @@ Una de las características de este trabajo es que prioriza la emoción en vivo 
 
 ---
 
-# Capítulo 8 Cultura de la danza e historia de la recepción: el Congo y la diáspora
+# Capítulo 8 Cultura de la danza e historia de la recepción: Congo y la diáspora
 
 La música de Veve fue muy influyente en la cultura de danza urbana del Congo.
 Es especialmente popular en bares (salones de baile), y cada vez que suena la grabación de una banda, se establecen ciertos pasos.
@@ -299,7 +299,7 @@ El legado musical de Veve es
 * **Subdivisión del conjunto de guitarras**
 Ha tenido una profunda influencia en la música congoleña contemporánea.
 
-Además, el modelo de producción musical basado en sistemas, que creó una infraestructura de grabación y nutrió de manera fluida a los jóvenes intérpretes, sirvió como guía importante para la gestión posterior del sello.
+Además, el modelo de producción musical basado en sistemas, que creó una infraestructura de grabación y nutrió dinámicamente a los jóvenes intérpretes, sirvió como guía importante para la gestión posterior del sello.
 
 ---
 

@@ -52,7 +52,7 @@ DJ Kool Herc y Afrika Bambaataa tocaron sus mixtapes en la radio local y en fies
 
 ### Obras maestras representativas
 
-[The Sugarhill Gang『El placer del rapero』(1979)](https://amzn.to/4ngQIOx)
+[The Sugarhill Gang『El deleite del rapero』(1979)](https://amzn.to/4ngQIOx)
 
 [Gran maestro Flash y los cinco furiosos “El mensaje” (1982)] (https://amzn.to/4nhcotO)
 
@@ -129,7 +129,7 @@ Esto aumenta la proporción de ritmos originales.
 
 ---
 
-## Década de 2010-presente: era del streaming y globalización
+## Década de 2010 al presente: era del streaming y globalización
 
 ### Combinando club y cultura online
 Publicado principalmente digitalmente en SoundCloud, YouTube, Spotify, etc. El club cambió inmediatamente su función como lugar para ver reacciones.
@@ -432,7 +432,7 @@ Bass : ▂▄▇█▇█▇█▄▂
 </tr>
 </table>
 
-**Consideraciones adicionales**
+**Consideraciones complementarias**
 
 Los diagramas genealógicos permiten a los estudiantes comprender intuitivamente las "relaciones maestro-alumno" y las "relaciones de influencia".
 
@@ -444,7 +444,7 @@ El mapa de poder visualiza a qué región se ha desplazado el centro de la escen
 
 ## Conclusión
 
-El hip-hop ha evolucionado para reflejar la cultura y el origen social de cada región. La costa este, la costa oeste y el sur tienen cada una sus propios estilos únicos, que han influido no solo en la música, sino también en la moda, el idioma y los movimientos sociales. El hip-hop seguirá evolucionando a medida que surjan nuevas técnicas y métodos de expresión.
+El hip-hop ha evolucionado para reflejar la cultura y el origen social de cada región. La costa este, la costa oeste y el sur tienen cada una sus propios estilos únicos que han influido no solo en la música, sino también en la moda, el idioma, los movimientos sociales y más. El hip-hop seguirá evolucionando a medida que surjan nuevas técnicas y métodos de expresión.
 
 ---
 

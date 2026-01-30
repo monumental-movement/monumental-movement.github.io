@@ -14,7 +14,7 @@ title: Dave Ellesmere – Cuatro símbolos
 ---
 
 
-Dave Ellesmere, nacido en Gran Bretaña, es un músico de rock que tocó la batería en bandas de punk británicas como The Insane, Discharge, Flux of Pink Indians, Doctor and the Crippens, y la guitarra en Disgust en la década de 1980, y actualmente trabaja como DJ electrónico. También ha lanzado bajo los nombres Voco Derman, Solvent Electron Industries y Ronin.
+Dave Ellesmere, nacido en Gran Bretaña, es un músico de rock que tocó la batería en bandas de punk británicas como The Insane, Discharge, Flux of Pink Indians y Doctor and the Crippens y tocó la guitarra en Disgust en la década de 1980, y actualmente trabaja como DJ electrónico. También ha lanzado bajo los nombres Voco Derman, Solvent Electron Industries y Ronin.
 
 "Four Symbols" es una pista de Techno/Tech House lanzada en 2005 en el sello holandés 100% Pure.
 

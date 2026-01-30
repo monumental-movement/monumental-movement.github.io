@@ -112,7 +112,7 @@ En contraste con la variedad de actos en solitario y la naturaleza ambiental de 
 
 #### La séptima llanura
 
-The 7th Plain es un proyecto ambiental/techno iniciado por Luke Slater a mediados de los años 1990.
+The 7th Plain es un proyecto ambiental/techno iniciado por Luke Slater a mediados de los noventa.
 A diferencia de Planetary Assault Systems, que se caracteriza por un sonido duro para el suelo, 7th Plain persigue un techno ambiental introspectivo y flotante.
 
 **Características**
@@ -165,7 +165,7 @@ Cada uno de ellos son veteranos que han estado activos desde los años 90 y, a t
 **Posición**
 
 LSD es un "supergrupo" de techno moderno, un proyecto que combina las experiencias y estilos de cada integrante.
-Las actuaciones en directo en Berghain y en festivales internacionales han recibido grandes elogios.
+Las actuaciones en directo en Berghain y en festivales internacionales han recibido especialmente grandes elogios.
 
 LSD = Una ``culminación del minimalismo duro'' reunida por tres maestros, incorporando no sólo techno sino también electro, funk y canciones vocales, desarrollando una amplia gama de expresiones.
 

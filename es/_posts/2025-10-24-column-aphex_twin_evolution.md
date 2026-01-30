@@ -86,7 +86,7 @@ Es sorprendente que hayan creado esta complejidad en un entorno anterior a DAW.
 ### 2.2 “Ven con papá” “Windowlicker” ─ Medios y pesadilla
 
 De 1997 a 1999, Aphex Twin combinó la música con el "horror visual".
-El grupo PV creado en colaboración con Chris Cunningham **convirtió la inestabilidad del sonido electrónico en la amorfa de las imágenes**.
+El grupo PV creado en colaboración con Chris Cunningham **tradujo la inestabilidad del sonido electrónico en la amorfa de las imágenes**.
 
 En esa época, MTV lo presentó como el "genio más extraño".
 Ya sentía que su música corría peligro de incorporarse a la cultura popular.
@@ -145,7 +145,7 @@ En otras palabras, su música es un campo de pruebas para el humanismo post-IA.
 
 El núcleo de Aphex Twin reside en "permanecer extranjero" incluso cuando los tiempos cambian.
 Incluso cuando la música se pone de moda, su sonido siempre deja un "margen".
-Es en ese espacio en blanco donde hay espacio para que los oyentes proyecten sus propias emociones.
+Es en ese margen donde hay espacio para que el oyente proyecte sus propios sentimientos.
 
 ---
 
@@ -153,7 +153,7 @@ Es en ese espacio en blanco donde hay espacio para que los oyentes proyecten sus
 
 Después de Aphex Twin, la música electrónica ya no es sólo un "género".
 Los artistas influenciados por él incluyen Burial, Oneohtrix Point Never, Autechre, Arca, etc.
-Todas estas preguntas reconsideran la "generación de significado" del sonido mismo.
+Todas estas preguntas reconsideran la generación de significado del sonido mismo.
 
 > “En una era donde la música se convierte en datos, Aphex Twin se ha convertido en un ``escultor de la percepción''.
 
@@ -197,7 +197,7 @@ También es un **evento filosófico** donde las emociones humanas y la percepci�
 
 En sus primeros trabajos se llevó a cabo la “electronización de las emociones”,
 Hoy en día, la tendencia se ha invertido hacia la "emocionalización de la electrónica".
-Su viaje puede predecir un futuro en el que la música misma se vuelve consciente.
+Su viaje puede predecir un futuro en el que la música misma tenga conciencia.
 
 ---
 
@@ -218,7 +218,7 @@ Su viaje puede predecir un futuro en el que la música misma se vuelve conscient
 
 ---
 
-> "Yo no hago música, hago música que se trata de escuchar".
+> "Yo no hago música, hago música que se trata de escuchar."
 > ―Richard D. James
 
 ---

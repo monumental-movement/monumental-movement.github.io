@@ -13,7 +13,7 @@ title: '[Columna] Detroit Techno: Danza humana nacida del latido de las máquina
 ---
 
 
-## "El sonido del futuro nacido de una ciudad devastada"
+## “El sonido del futuro nacido de una ciudad devastada”
 
 Texto: mmr | Tema: Detroit Techno es un producto cultural que combina historia urbana, tecnología y creatividad afroamericana.
 
@@ -44,7 +44,7 @@ Por otro lado, la cultura de los DJ de radio afroamericanos (por ejemplo, curado
 
 <hora>
 
-### Características del sonido: mecánico pero cálido.
+### Características del sonido: mecánico pero cálido
 
 - Construido alrededor de cajas de ritmos (TR-808/909) y sintetizadores (tipo Roland, analógico).
 
@@ -52,11 +52,11 @@ Por otro lado, la cultura de los DJ de radio afroamericanos (por ejemplo, curado
 
 - El estilo Detroit es más frío y mecánico que el house, pero tiene "melodía y emoción".
 
-La línea entre DJ y productor se volvió borrosa, y las canciones se refinaron mediante la práctica de tocar (mezclar/reaccionar) en clubes.
+La línea entre DJ y productor se volvió borrosa, y las canciones se refinaron mediante la práctica de tocar (mezclando/reaccionando) en clubes.
 
 <hora>
 
-### Personajes principales y “canciones emblemáticas”
+### Personajes principales y “canciones representativas”
 
 #### **Juan Atkins / Cybotron / Modelo 500**
 
@@ -92,7 +92,7 @@ Una de las obras maestras de Jeff Mills, "The Bells", ha vendido más de 500.000
 
 ---
 
-#### **Otro (Expansión de escena)**
+#### **Otro (expansión de escena)**
 
 Siguieron diversas generaciones, incluido Richie Hawtin (una segunda generación cuyo trabajo posterior cerró la brecha entre Detroit y la escena internacional).
 
@@ -164,7 +164,7 @@ El techno de Detroit es más que sólo música de baile; es un producto cultural
 
 ### Columnas relacionadas
 
-🔗 [[Columna] Desde los orígenes del techno hasta la actualidad - Una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[Columna] Desde los orígenes del techno hasta el presente: una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)
 
 🔗 [[Columna] Tresor - El lugar sagrado del techno que cambió el mundo desde el underground en Berlín](https://monumental-movement.jp/Column-Tresor)
 

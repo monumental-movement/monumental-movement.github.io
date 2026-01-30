@@ -109,7 +109,7 @@ Este éxito le valió a Nate Dogg el reconocimiento como "el mejor fabricante de
 La voz de Nate Dogg es distintiva a primera vista, pero si la desglosas en sus elementos, se puede resumir de la siguiente manera.
 
 ### ■ Voz gruesa derivada de la música gospel
-La vibración de las cuerdas vocales es fuerte y la resonancia profunda.
+Las cuerdas vocales vibran fuertemente y el sonido es profundo.
 
 ### ■ Canto en línea recta con poco vibrato
 Esto lo hizo extremadamente compatible con los ritmos duros del hip-hop.
@@ -129,7 +129,7 @@ Estas características hicieron de la voz de Nate Dogg un componente esencial de
 
 ## 6. Trabajos en solitario y su posicionamiento.
 
-Nate Dogg es muy aclamado por sus actuaciones como invitado, pero también ha lanzado varios álbumes en solitario.
+Nate Dogg es muy aclamado por sus apariciones especiales, pero también ha lanzado varios álbumes en solitario.
 
 #### ■ “Clásicos de G-Funk, Vol. 1 y 2” (1998)
 

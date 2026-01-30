@@ -54,7 +54,7 @@ Especialmente en este trabajo, **SP-303 Dr. Sample** tiene la clave. Aunque es u
 
 ### MF DOOM: El poeta enmascarado
 MF DOOM (nombre real Daniel Dumile) nació de una tragedia.
-A principios de la década de 1990, cuando debutó como KMD, perdió a su hermano menor Subroc en un accidente y su contrato con el sello fue cancelado.
+A principios de la década de 1990, cuando debutó como KMD, perdió a su hermano menor Subroc en un accidente y su contrato con el sello llegó a su fin.
 Permaneció en silencio durante varios años y regresó con una máscara de metal. **
 
 DOOM hizo de la máscara un símbolo de "creación" en lugar de "escape".
@@ -81,7 +81,7 @@ Las características acústicas se pueden resumir en los siguientes tres puntos.
 
 1. **Time Disconnect**: La canción es corta y termina abruptamente. Las transiciones son intencionadamente bruscas.
 2. **Compresión espacial**: Minimiza la reverberación y el procesamiento espacial para acercar la distancia entre muestras a cero.
-3. **Distorsión de frecuencia**: Crea un **sonido similar a VHS** con frecuencias altas eliminadas mediante el uso extensivo de los efectos del SP-303.
+3. **Distorsión de frecuencia**: Crea un **sonido similar a VHS** donde las frecuencias altas se eliminan haciendo un uso extensivo de los efectos SP-303.
 
 Esta es también una “**reconstrucción de récord**” de Madlib. Al considerar el ruido y los crujidos de las grabaciones antiguas como "componentes" en lugar de "materiales", transformó el hip-hop en una arqueología del sonido.
 
@@ -105,7 +105,7 @@ Por ejemplo, el siguiente pasaje:
 > "El resto está vacío sin cerebro excepto el nerd inteligente"
 
 Las rimas internas de “vacío”, “cerebro” e “inteligente” están encadenadas, trascendiendo el contexto y creando significado en sí mismas.
-Su rap funciona como un dispositivo sonoro más que como poesía.
+Su rap funciona más como un dispositivo sonoro que como poesía.
 
 ### Todo en mayúsculas
 “TODO EN MAYÚSCULAS cuando deletreas el nombre del hombre”──

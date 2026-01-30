@@ -151,7 +151,7 @@ La grabación in situ es la trinidad de "micrófono + grabadora + fuente de alim
 
 ---
 
-### Anécdotas sobre cada artista y equipo
+### Anécdotas sobre cada artista y su equipo
 
 #### Alan Lomax y Ampex
 
@@ -207,7 +207,7 @@ La grabación in situ es la trinidad de "micrófono + grabadora + fuente de alim
 
 ### Historial de grabaciones de campo y álbumes representativos.
 
-| Edad | Artista | Álbum representativo | Comentar | Enlace |
+| Generación | Artista | Álbum representativo | Comentar | Enlace |
 | --------------- | ---------------------- | ---------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
 | **Décadas de 1950 a 1960** | Alan Lomax | *La colección Alan Lomax | Sistematiza grabaciones folklóricas de mediados del siglo XX. El equipo de grabación es Ampex/Nagra. La base de la grabación de campo. | [Amazon](https://amzn.to/3IQh8rr) |
 | **Década de 1980** | Anna Lockwood | *Un mapa sonoro del río Hudson* (1989) | Mapee el río Hudson con "sonido". Un trabajo pionero en ecología acústica.              | [Amazon](https://amzn.to/3Inx2cR) |

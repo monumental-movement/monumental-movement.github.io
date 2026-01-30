@@ -71,7 +71,7 @@ Lo que sonaba aquí era el sonido del "Nuevo Romántico" envuelto en brillo elec
 Cars de Gary Numan se convirtió en un himno a la soledad urbana, y Depeche Mode retrató las frustraciones de la juventud con los sonidos inorgánicos de las zonas industriales.
 Mientras tanto, New Order trasciende la tragedia de Joy Division y se dirige a la pista de baile, fusionando lo electrónico y lo físico con "Blue Monday".
 Neil Tennant de Pet Shop Boys dijo: "Los sintetizadores son máscaras para ocultar tus emociones".
-El synthpop fue verdaderamente la "estética de la soledad" de los años 1980.
+El synthpop fue verdaderamente la "estética de la soledad" de los años 80.
 
 ---
 
@@ -142,13 +142,13 @@ Detrás de esto hay una estética tecnológica continua desde YMO hasta Perfume.
 
 ---
 
-## Capítulo 6 Tecnología y emociones: Cuando las máquinas dibujan a los humanos
+## Capítulo 6 Tecnología y emociones: cuando las máquinas representan a los humanos
 
 Secuenciador, sampler, autotune.
 Estas no eran herramientas para la "precisión", sino pinceles utilizados para resaltar la "ambigüedad humana".
 Algo mecánico puede ser emocional: ese es el encanto paradójico del synthpop.
 
-En el siglo XXI, "la estética de la imperfección" está siendo reevaluada.
+En el siglo XXI se está reevaluando "la estética de la imperfección".
 La voz vacilante de Grimes, el procesamiento vocal de IA de Charli XCX y la combinación de idiomas nativos de Yaeji.
 Todo esto demuestra que los "sonidos imperfectos" transmiten humanidad.
 A medida que avanza la composición de IA, la "artificialidad humana" del synthpop puede ser el último romanticismo en la música.
@@ -183,17 +183,17 @@ A medida que avanza la composición de IA, la "artificialidad humana" del synthp
 ### Década de 2020: era pop posterior a la IA
 - Caroline Polachek "Bunny es un jinete"
 - Yaeji "Por sentado"
-- A.G. Cook "Hermosa"
+- A.G. Cook “Hermosa”
 
 ---
 
-## Conclusión del Capítulo 8: “Nostalgia del futuro” contada por sonidos electrónicos
+## Conclusión del Capítulo 8: Los sonidos electrónicos hablan de “nostalgia del futuro”
 
 Synthpop es a la vez el "sonido del futuro" y el "sonido de la nostalgia por el pasado".
 ¿Por qué nos conmueven tanto los fríos sonidos electrónicos de los años 80? Esto se debe a que contienen la "temperatura de una época en la que la gente creía en el futuro".
 Incluso ahora, a medida que avanza la tecnología digital y la IA comienza a componer música, los humanos continúan buscando su "yo" en los sonidos de las máquinas.
 
-La "relación entre tecnología y emoción", que Ryuichi Sakamoto siguió preguntando hasta el final, vuelve a ser un tema de primera línea.
+La "relación entre tecnología y emoción" que Ryuichi Sakamoto siguió preguntando hasta el final vuelve a ser un tema de primera línea.
 Y en algún lugar de ese linaje se encuentra la sonrisa electrónica de YMO, los polirritmos de Perfume y las lágrimas pixeladas de Charli XCX.
 
 El futuro siempre suena en sueños electrónicos.
@@ -260,7 +260,7 @@ A2. Los ejemplos incluyen Depeche Mode, New Order, Pet Shop Boys y Human League.
 
 A3. El espíritu experimental de YMO y Ryuichi Sakamoto influyó en Daft Punk y Radiohead, y se convirtió en el origen de la "humanidad electrónica" en la era de la IA.
 
-- **P4. ¿Cuáles son las características del neo-synth pop de los últimos años? **
+- **P4. ¿Cuáles son las características del neo-synthpop de los últimos años? **
 
 A4. El punto es que incorporamos activamente “distorsión digital” como el hiper pop y la música AI. Charli XCX y Grimes son ejemplos de ello.
 
@@ -274,5 +274,5 @@ A5. “Solid State Survivor” (YMO) y “Violator” (Depeche Mode) son impresc
 
 Rastrear la historia del sonido electrónico es también rastrear el registro de las emociones humanas.
 Es una "poesía de la tecnología" continua, desde los primeros experimentos de YMO hasta la tristeza digital de Charli XCX.
-El synthpop nunca termina. De hecho, en la era de la IA, la esencia de esto se vuelve a cuestionar.
+El pop sintético nunca termina. De hecho, en la era de la IA, la esencia de esto se vuelve a cuestionar.
 

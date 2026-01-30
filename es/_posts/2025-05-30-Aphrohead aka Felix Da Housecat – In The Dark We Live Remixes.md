@@ -19,7 +19,7 @@ Aphrohead es el alias de la leyenda del house de Chicago de segunda generación,
 
 "In The Dark We Live (Remixes)" es una pista de techno acid lanzada en 1994 por el sello belga Re-load Records.
 
-La primera pista de la cara A y la cara B son remezclas del DJ y productor de música electrónica de baile del Reino Unido Dave Clarke, apodado el "Techno Baron" (nombrado por John Peel).
+La primera pista de la cara A y la cara B son remezclas del DJ y productor de música electrónica de baile del Reino Unido, Dave Clarke, conocido como el "Techno Baron" (nombrado así por John Peel).
 
 #### Lista de canciones
 ```md

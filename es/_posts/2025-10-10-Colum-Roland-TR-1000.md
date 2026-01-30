@@ -41,7 +41,7 @@ color: #fff;
 ### Capítulo 1 “La caja de ritmos no está terminada”
 #### ── El incidente de la aparición del TR-1000
 
-El **TR-1000** lanzado por Roland en 2025 no es sólo una extensión de la serie.
+El **TR-1000** lanzado por Roland en 2025 no es solo una extensión de la serie.
 808, 909, 707... Esta máquina que apareció al final de la historia, donde simbolizaban el ritmo de los tiempos, es una "máquina de ritmo intelectual" que aprende y reinterpreta "ritmos humanos".
 
 En la década de 1980, los ritmos electrónicos se llamaban "latidos mecánicos". Sin embargo, lo que presenta el TR-1000 es todo lo contrario: **"una máquina entiende los latidos del corazón humano"**.
@@ -83,7 +83,7 @@ Capacidad de respuesta como si el ritmo fuera "respiración". Por eso Roland es 
 
 En el corazón del TR-1000 se encuentra una filosofía de diseño de gama baja.
 Se ha agregado un circuito único de control de armónicos y suboscilación al **circuito de generación de onda sinusoidal**, que continúa la tradición desde el 808.
-Como resultado, hemos logrado una "baja frecuencia tridimensional" que combina la presión física y la textura del aire.
+Como resultado, logramos una "baja frecuencia tridimensional" que combina la presión física y la textura del aire.
 
 La caja se construye utilizando un método de modelado de ruido + circuito discreto, y el charles se construye utilizando una fuente de ruido analógica que incluye un micro retardo de un minuto.
 Ha logrado una "coexistencia de realismo acústico y abstracción" que va más allá de la reproducción del 808/909.

@@ -24,9 +24,9 @@ Phil Stumpf (nacido en 1973 en Alemania) ha estado activo como músico desde 199
 
 A finales de los 80 y principios de los 90, estaba en el campo del indie rock y me fascinaban e influenciaban bandas como Mouse on Mars y Tortoise, así como la música electrónica y sus estructuras minimalistas.
 
-Habiendo encontrado su camino en la pista de baile principalmente a través de su banda oh., descubrió los ritmos minimalistas y comenzó a producir temas de club bajo su propio nombre en 1999.
+Habiendo encontrado su camino en la pista de baile principalmente a través de su banda oh., descubrió el minimal groove y comenzó a producir temas de club bajo su propio nombre en 1999.
 
-También trabajará como Duplex 100 con su socio francés Samuel Rouanat.
+También trabajará como Duplex 100 con su socio francés Samuel Ruanat.
 
 En 2001, se mudó a París y cofundó un club nocturno llamado "Minimal Dancin" en el Nouveau Casino con Samuel Rouanat.
 

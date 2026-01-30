@@ -76,8 +76,8 @@ El retardo se utiliza para crear reverberaciones superpuestas en lugar de sincro
 
 ### 2-2. Ritmo de fondo
 
-La batería y el bajo no actúan como la fuerza impulsora detrás de la canción, sino que funcionan como un centro de gravedad para soportar la imagen sonora.
-El ritmo es relativamente constante y se pone énfasis en la continuación de un estado más que en un desarrollo dramático.
+La batería y el bajo no actúan como fuerza impulsora detrás de la canción, sino que funcionan como un centro de gravedad para soportar la imagen sonora.
+El ritmo es relativamente constante y se pone énfasis en la continuación de un estado más que en desarrollos dramáticos.
 
 ---
 
@@ -186,7 +186,7 @@ Esta técnica contribuyó tanto a la amplitud espacial del dream pop como a la d
 ### A-2. Redefiniendo el primer plano y el fondo en la mezcla
 
 Las mezclas de rock tradicionales suelen colocar las voces y los instrumentos principales en primer plano.
-Sin embargo, en el shoegaze/dream pop, este principio se rompe deliberadamente.
+Sin embargo, en el shoegaze/dream pop, este principio se rompe intencionalmente.
 
 Las voces están integradas en el rango medio y tratadas de la misma manera que las reverberaciones de guitarra y sintetizador.
 Este arreglo crea el efecto de brindarle al oyente una vista aérea de todo el sonido, en lugar de centrar su atención en un punto.

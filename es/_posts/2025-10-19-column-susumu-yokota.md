@@ -59,7 +59,7 @@ Lo que es digno de mención es que publicó sus obras con varios nombres. Entre 
 La obra maestra de Susumu Yokota y una obra monumental en la historia de la música ambiental.
 La débil melodía y los sonidos ambientales se superponen, guiando suavemente la conciencia del oyente hacia adentro. Tiene una fugacidad que captura el momento de la caída de las flores de cerezo en el sonido, y es una fusión de lirismo japonés y belleza universal.
 
-El álbum tiene una estructura excelente y todo el álbum fluye como un solo "aliento". Comienza silenciosamente, crea un ritmo débil y luego desaparece. Es como el ciclo de la vida y las estaciones mismas.
+El álbum tiene una estructura excelente y todo el álbum fluye como un solo "respiración". Comienza silenciosamente, crea un ritmo débil y luego desaparece. Es como el ciclo de la vida y las estaciones mismas.
 La razón por la que "Sakura" sigue siendo amada por los fanáticos de la música ambiental de todo el mundo es probablemente porque representa perfectamente este "sentido del tiempo" a través del sonido.
 
 ### “Símbolo” (2001)
@@ -117,9 +117,9 @@ En el extranjero, lo describían como "Brian Eno de Japón", pero la música de 
 
 ## Capítulo 6: Vida y fisicalidad
 
-La actuación en vivo de Yokota no fue sólo una recreación, sino un intento de "representar el espacio mismo".
-Eliminó al máximo la iluminación y las imágenes y transformó el espacio utilizando la "densidad del aire" del sonido.
-El público queda envuelto en partículas de sonido y pierde el sentido del tiempo. Fue una experiencia en la que sentí como si cada persona se fundiera con el sonido.
+ヨコタのライブは、単なる再現ではなく「空間そのものを奏でる」試みだった。  
+Eliminó al máximo la iluminación y las imágenes, transformando el espacio con la "densidad del aire" que tiene el sonido.
+観客は音の粒に包まれ、時の感覚を失う。まるで一人一人が音の中に溶けていくような体験だった。
 
 Su postura fue un raro ejemplo de combinación de la fisicalidad bailable del techno con la naturaleza meditativa del ambient.
 

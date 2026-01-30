@@ -89,7 +89,7 @@ Desde sus primeros trabajos, siempre ha colocado su propio cuerpo en el centro d
 
 ## 7. Diseño de sonido de FKA twigs
 
-En la música de FKA twigs, la voz se trata como un componente importante. Se procesa no sólo por su papel melódico, sino también como material que expresa textura, atmósfera y distancia.
+En la música de FKA twigs, la voz es el componente principal. Se procesa no sólo por su papel melódico, sino también como material que expresa textura, atmósfera y distancia.
 
 * Ubicación clara de los ruidos respiratorios.
 * Microfonía extremadamente cercana
@@ -131,9 +131,9 @@ En las canciones de Arca el timbre no se mantiene estable. Todo el tiempo se pro
 
 * Modulación de graves extrema
 * Inserción de ruido de alta frecuencia.
-* Cambio rápido de cambios de volumen.
+* Cambio repentino de volumen
 
-Se utilizan para interrumpir intencionalmente la continuidad musical.
+Se utilizan para interrumpir intencionadamente la continuidad musical.
 
 ---
 

@@ -51,7 +51,7 @@ color: #fff;
 ## 2. Establecimiento del toque francés: situación en París a finales de los años 1990
 ### ● Antecedentes: Un encuentro entre house y discoteca
 A mediados de la década de 1990, la escena de clubes parisinos absorbió la música house estadounidense mientras formaba una estructura única que ponía en primer plano los samples disco/soul.
-Si bien la influencia del Chicago House era fuerte, el house comenzó a funcionar como un nuevo tipo de "música pop" al mezclarlo con el "sentimiento melódico sofisticado" exclusivo de Europa.
+Si bien estaba fuertemente influenciado por el Chicago House, el house comenzó a funcionar como un nuevo tipo de "música pop", ya que se mezclaba con una "sensación melódica sofisticada" única en Europa.
 
 ### ● Existencia de etiqueta/base
 - **Roulé (Thomas Bangalter)**
@@ -79,7 +79,7 @@ Los representativos son:
 Estos módulos de filtro tienen una estructura analógica, por lo que las fluctuaciones de armónicos durante el barrido son ricas. La imagen sonora de French Touch de "cerrar y abrir el filtro" se crea con una textura exclusiva del hardware.
 
 ### ● ② Grabar muestreo y trabajo de ecualización/filtro
-Daft Punk emplea activamente el ruido y la textura del vinilo como parte de su música dejando la imagen sonora de la muestra "áspera".
+Daft Punk emplea activamente texturas y ruidos de vinilo como parte de su música dejando la imagen sonora de la muestra "áspera".
 Especialmente durante el período de "Descubrimiento", en lugar de pulir la muestra a alta calidad,
 **La estética de hacer música pop ``tal como fue recogida en los discos**'' es una constante.
 
@@ -182,7 +182,7 @@ Estos artistas actualizaron el gen del French Touch en un contexto Nu Disco.
 ## 8. Explicación detallada de los sintetizadores analógicos y la “cultura discográfica”
 
 ### ◆ ① Razones por las que se prefirieron los sintetizadores analógicos
-- El módulo de filtro es un circuito físico → Las fluctuaciones del sonido son naturales
+- El módulo de filtro es un circuito físico → La fluctuación del sonido es natural
 - rico en saturación
 - Los componentes de alta frecuencia son redondos y combinan bien con los sonidos disco
 
@@ -190,7 +190,7 @@ El barrido del filtro de French Touch se basó en cambios armónicos analógicos
 
 ### ◆ ② Cultura discográfica: Producción musical basada en sampling
 Gran parte de French Touch comienza con muestras de vinilo.
-Aquí está la "alegría de descubrir" la música**.
+Aquí radica la "alegría de descubrir" la música**.
 Era la atmósfera de la época en la que la cultura de club y la cultura discográfica estaban directamente relacionadas.
 La excavación de registros en sí misma fue la puerta de entrada a la creación.
 
@@ -277,7 +277,7 @@ Este ha sido un legado constante desde "Da Funk" de Daft Punk.
 
 ### ◆ Del muestreo a la “repetición”
 Nu Disco es más que un simple sampleo.
-**Hay muchos estilos que ``reconstruyen la música disco'' con sintetizadores reales**.
+**Hay muchos estilos que "reconstruyen la música disco" utilizando sintetizadores reales**.
 Se puede decir que esto es una realización de la estética French Touch con un "sonido moderno y pulido".
 
 ---

@@ -84,7 +84,7 @@ El teclado utiliza un piano eléctrico o un sintetizador y, en lugar de presenta
 
 La Orquesta Mahavishnu comenzó a funcionar a principios de la década de 1970 y se caracterizaba por tempos extremadamente rápidos, estructuras de compás complejas y un unísono estrictamente compuesto. Mientras que Weather Report enfatizaba la generación fluida, Mahavishnu Orchestra contrasta con su énfasis en la constructibilidad y reproducibilidad.
 
-La improvisación aquí se desarrolla dentro de un marco compuesto más que en completa libertad. Se requiere que cada intérprete actúe dentro de limitaciones altamente técnicas, y el conjunto en su conjunto tiene la integridad de una máquina de precisión.
+La improvisación aquí tiene lugar dentro de un marco compuesto en lugar de una libertad total. Se requiere que cada intérprete actúe dentro de limitaciones altamente técnicas, y el conjunto en su conjunto tiene la integridad de una máquina de precisión.
 
 ### Estructura y forma rítmica
 
@@ -151,7 +151,7 @@ El jazz/fusión progresivo dejó un legado de pensamiento que vinculó el diseñ
 
 ## Conclusión
 
-El Jazz/Fusión Progresivo fue más una metodología que un estilo, una colección de prácticas destinadas a rediseñar la estructura musical. La producción sonora colectiva de Weather Report y la complejidad arquitectónica de Mahavishnu Orchestra representan los extremos opuestos de esta tendencia. Al entenderlos uno al lado del otro, la esencia del jazz/fusión progresivo emerge de manera más tridimensional.
+El Jazz/Fusión Progresivo era más una metodología que un estilo, una colección de prácticas destinadas a rediseñar la estructura musical. La producción sonora colectiva de Weather Report y la complejidad arquitectónica de Mahavishnu Orchestra representan los extremos opuestos de esta tendencia. Al entenderlos uno al lado del otro, la esencia del jazz/fusión progresivo emerge de manera más tridimensional.
 
 ---
 

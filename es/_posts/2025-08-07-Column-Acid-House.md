@@ -53,7 +53,7 @@ Las características más importantes del acid house son los siguientes elemento
 
 <hora>
 
-#### Patada cuádruple
+#### Cuatro patadas
 
 - BPM es un tempo estable de alrededor de 120-130
 
@@ -114,7 +114,7 @@ El acid house influyó no sólo en la música, sino también en la cultura visua
 
 - Altamente compatible con la cultura Zine y los periódicos gratuitos de la época.
 
-Esta moda continuó en la cultura rave, el trance, el techno, el breakbeat y otras escenas a partir de la década de 1990.
+Esta moda continuó en la cultura rave, el trance, el techno, el breakbeat y otras escenas desde la década de 1990 en adelante.
 
 
 <hora>
@@ -171,7 +171,7 @@ Hoy en día, el acid house está siendo reevaluado en medio de la cultura retro 
 
 - El ácido estableció popularidad en YouTube y Bandcamp.
 
-- Lanzamiento explosivo del avión clon TB-303 (reproducción de equipo analógico)
+- Dispersión explosiva del avión clon TB-303 (reproducción de equipo analógico)
 
 Más que un simple género musical, el acid house sigue estando en el nexo entre la música electrónica y la contracultura.
 

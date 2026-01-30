@@ -13,7 +13,7 @@ title: Klangkontakt – Dekadent
 ---
 
 
-"Dekadent" es
+「Dekadent」は、
 Una pista de house progresivo de Klangkontakt (Dennis Shadow) lanzada en 2001 en Nextfire Recordings, un subsello de Low Spirit Recordings fundado por WestBam, DJ Dick, William Röttger, Klaus Jankuhn y otros.
 
 #### Lista de canciones

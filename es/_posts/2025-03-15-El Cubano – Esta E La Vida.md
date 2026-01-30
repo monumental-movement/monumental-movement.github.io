@@ -14,7 +14,7 @@ title: El Cubano – Esta E' La Vida
 ---
 
 
-Un disco de mezcla de house latino/house brasileño/house tribal/dub del exitoso sencillo de El Cubano "Esta E' La Vida", lanzado en 1997.
+Un disco de mezcla de house latino/house brasileño/house tribal/dub del gran éxito de El Cubano "Esta E' La Vida", lanzado en 1997.
 
 #### Lista de canciones
 ```md

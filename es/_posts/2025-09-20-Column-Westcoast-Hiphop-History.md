@@ -52,7 +52,7 @@ color: #fff;
 | Álbum | Artista | Enlace de Amazon | Puntos recomendados |
 |----------|-------------|-------------|----------------|
 | *La rima paga* (1987) | Hielo-T | [Amazon](https://amzn.to/46NqVaQ) | Un trabajo importante que sentó las bases del gangsta rap |
-| *Directamente de Compton* (1988) | NWA | [Amazon](https://amzn.to/4neTnsc) | Una obra polémica que sacudió a la sociedad. Icono de la Costa Oeste |
+| *Directamente de Compton* (1988) | NWA | [Amazon](https://amzn.to/4neTnsc) | Una obra polémica que sacudió a la sociedad. Icono de la costa oeste |
 | *En el Nilo* (1984) | El amante egipcio | [Amazon](https://amzn.to/3VsfDCE) | Una destacada fusión de electro y rap |
 
 ---
@@ -176,7 +176,7 @@ flowchart TD
 
 ## resumen
 
-El hip-hop de la costa oeste nació de la cultura callejera de Los Ángeles a fines de la década de 1970 y, a través del auge del gangsta rap y el G-Funk en las décadas de 1980 y 1990, creció hasta convertirse en una tendencia musical global.
+El hip-hop de la costa oeste nació de la cultura callejera de Los Ángeles a finales de los años 1970 y, a través del auge del gangsta rap y el G-Funk en los años 1980 y 1990, creció hasta convertirse en una tendencia musical mundial.
 Vídeos musicales de bajo presupuesto, estilos de moda únicos y vínculos con la cultura lowrider crearon una expresión auténtica de la costa oeste.
 
 Desde la década de 2000, la diversidad se ha ampliado con el éxito de actos underground independientes como Madlib y The Game. Además, han aparecido Kendrick Lamar y otros artistas con influencia global que hacen pleno uso de las redes sociales e Internet, y sus canciones y expresiones visuales que contienen mensajes conscientes están formando una nueva tendencia en el hip-hop de la costa oeste.

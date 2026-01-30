@@ -15,7 +15,7 @@ title: 'Teoría del tono: limbo de posibilidades desaparecidas'
 
 'Limbo Of Vanished Possibilities' de Tone Theory (Derrick Carter) es perfecto para la pista de baile, con su ritmo, percusión intrincada y potente línea de bajo.
 
-Además, el gancho principal del "silbido" electrónico, la pequeña melodía delicada y hermosa y las voces emotivas pero misteriosas desprenden una sensación de buen gusto.
+Además, el gancho principal del "silbato" electrónico, la pequeña melodía delicada y hermosa y las voces emotivas pero misteriosas desprenden una sensación de buen gusto.
 
 A continuación, hay hermosas líneas de órgano y piano, pequeños éxitos y percusión de palmas filtrada, y luego DC proporciona una línea de bajo espectacular que pinta una rica imagen sonora con una textura "animada".
 

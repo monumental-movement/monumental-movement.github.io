@@ -83,7 +83,7 @@ En particular, trabajar en **Cold Storage Studio** (un estudio experimental conv
 #### “Este calor” (1979)
 
 - **"Not Waving"**: El título recuerda un poema de Stevie Smith. Simboliza la soledad individual y la alienación nacional.
-- **"24 Track Loop"**: Sin letra, pero expresa la "repetición mecánica del capitalismo" con sonido. El bucle infinito es una metáfora de la "era del estancamiento".
+- **"24 Track Loop"**: Sin letra, pero expresa la "repetición mecánica del capitalismo" con sonido. El bucle infinito es una metáfora de "una época estancada".
 - **"Retención horizontal"**: citado de la terminología televisiva. Una sátira de la "manipulación de la información" y el "control de los medios de comunicación" durante la Guerra Fría.
 
 ---
@@ -176,7 +176,7 @@ flowchart TD
 ### Conclusión
 
 - **Interpretación lírica**: This Heat critica la Guerra Fría tanto lírica como sonoramente.
-- **Filosofía de grabación de Cunningham**: Utiliza equipos como Revox, Studer y EQ como "dispositivos metafóricos políticos".
+- **Filosofía de grabación de Cunningham**: Utiliza equipos como Revox, Studer y EQ como un "dispositivo metafórico político".
 - **Importancia histórica de la música experimental**: más allá del post-punk, está directamente conectado con los fundamentos de la cultura moderna del muestreo/DAW e incluso con la producción musical de IA.
 
 Su música sigue siendo un grupo de obras que deberían reevaluarse como "grabación = crítica = experimento".

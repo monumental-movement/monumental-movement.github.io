@@ -108,7 +108,7 @@ La discografía de Mortazavi es un mapa de la evolución de sus exploraciones. A
 
 Lanzado en 2010, este álbum es un punto de partida simbólico para Mortazavi. Aunque es una actuación en solitario utilizando únicamente instrumentos tradicionales (tamback/duff), su innovación tecnológica y diseño de sonido ya están claramente impresos. Cada pista presenta ritmos delicados y de múltiples capas que utilizan al máximo los dedos, las palmas y las uñas, dando al oyente la ilusión de que un solo instrumento tiene múltiples voces.
 
-Lo que es digno de mención es que su estilo de golpear no sólo es rápido, sino también extremadamente dinámico. La resonancia de un toque silencioso, la agudeza de un golpe fuerte y la suave gradación entre ellos. Cada vez que sus manos se deslizan sobre la superficie del cuero, golpean la madera del cuerpo y sus dedos rebotan con las uñas, diferentes tonos se cruzan en capas, creando una fuerte presencia.
+Lo que llama la atención es que su estilo de golpear no sólo es rápido, sino también muy dinámico. La resonancia de un toque silencioso, la agudeza de un golpe fuerte y la suave gradación entre ellos. Cada vez que sus manos se deslizan sobre la superficie del cuero, golpean la madera del cuerpo y sus dedos rebotan con las uñas, diferentes tonos se cruzan en capas, creando una fuerte presencia.
 
 Además, no se puede ignorar la grabación/mezcla de este álbum. Cuando sus instrumentos de percusión se recrean en el espacio a través de un micrófono, sus ecos y reverberaciones se capturan vívidamente, creando un paisaje sonoro que se siente como escuchar un microcosmos.
 
@@ -130,9 +130,9 @@ El álbum, lanzado con el sello Latency, refleja una profunda exploración del t
 
 Los críticos han citado su opinión de que "a diferencia de un metrónomo, el pulso humano es flexible y no fijo". Este tema también es evidente en sus shows en vivo, donde le da importancia a crear un "pulso común" con la audiencia.
 
-#### 7.5 “Prisma”
+#### 7.5 "Prisma"
 
-Lanzado en 2022, este álbum representa una nueva expansión de la música de Mortazavi. Según la información de actuación de Flussbad, además del tomback y el duff, se han introducido varios objetos sonoros, entre ellos un silbato para pájaros, una marimba pequeña, una kalimba y unos platillos pequeños. Esto amplía la gama de tonos y permite una expresión espacial más tridimensional y espiritual.
+Lanzado en 2022, este álbum representa una nueva expansión de la música de Mortazavi. Según la información de la actuación de Flussbad, además del tomback y el duff, se han introducido varios objetos sonoros, entre ellos un silbato para pájaros, una marimba pequeña, una kalimba y unos platillos pequeños. Esto amplía la gama de tonos y permite una expresión espacial más tridimensional y espiritual.
 
 A través de este trabajo, ha elevado su estilo interpretativo a una fusión de "minimalismo + multicapa", poniendo más énfasis en la exploración de los espacios en blanco en el sonido y el equilibrio entre el silencio y la resonancia que en la brillantez de la técnica.
 
@@ -232,7 +232,7 @@ Todos estos elementos interactúan para establecer a Mortazavi como un "filósof
 
 ### 14. Conclusión: Implicaciones para el futuro
 
-El viaje de Mohammad Reza Mortazavi es un viaje que redefine la tradición, amplía la técnica y crea nuevos diálogos entre el ritmo y la conciencia. Los sonidos polifónicos, los ritmos de múltiples capas, el sostenido, los sonidos persistentes y la profunda filosofía que subyace a ellos van más allá de la mera interpretación y brindan al oyente una experiencia que trasciende el tiempo y el espacio.
+El viaje de Mohammad Reza Mortazavi es un viaje que redefine la tradición, amplía la técnica y crea nuevos diálogos entre el ritmo y la conciencia. Los sonidos polifónicos, los ritmos de múltiples capas, el sostenido, los sonidos persistentes y la profunda filosofía que los subyace van más allá de la mera interpretación y brindan al oyente una experiencia que trasciende el tiempo y el espacio.
 
 No sólo conserva el instrumento clásico, el tamback, sino que lo transforma para el futuro. En el proceso de transformación, la música, el cuerpo, la comunidad y la conciencia se cruzan y se abren nuevos horizontes.
 

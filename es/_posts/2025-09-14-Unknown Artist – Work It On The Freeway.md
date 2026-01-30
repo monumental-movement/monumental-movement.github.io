@@ -14,7 +14,7 @@ title: Artista desconocido - Trabaja en la autopista
 ---
 
 
-Remix no oficial de Artista Desconocido que mezcla ritmo roto brasileño con "Work It" de Missy Elliott y "Hit The Freeway" de Toni Braxton. (Un lado, 2003)
+Remix no oficial de Artista Desconocido que mezcla ritmo roto brasileño con "Work It" de Missy Elliott y "Hit The Freeway" de Toni Braxton. (Unilateral, 2003)
 
 #### Lista de canciones
 ```md

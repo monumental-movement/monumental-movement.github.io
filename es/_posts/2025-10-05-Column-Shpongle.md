@@ -197,7 +197,7 @@ Para Raja Ram, el sonido es oración y Shpongle es su mantra.
 
 ## Capítulo 6: Simon Posford - La filosofía de producción del mago del sonido
 
-Posford combina sintetizadores clásicos (Virus, Nord Lead, Roland SH-101) y DAW modernos (Logic Pro, Ableton).
+Posford combina sintetizadores clásicos (Virus, Nord Lead, Roland SH-101) con DAW modernos (Logic Pro, Ableton).
 Se superponen docenas de capas de sonido para diseñar intencionalmente "resonancia con ondas cerebrales".
 Sus obras tienen una estructura consistente de tres capas: rango bajo = cuerpo, armónicos = conciencia y reverberación = espiritualidad.
 
@@ -309,7 +309,7 @@ Esta estructura provoca un fenómeno psicológico llamado "viaje acústico".
 ---
 
 | Elementos acústicos | Efectos fisiológicos | Experiencias psicológicas |
-| ------ | -------- | -------- |
+| ------ | -------- | --------- |
 | Base de baja frecuencia | Sincronización de la respiración y los latidos del corazón | Sensación de puesta a tierra |
 | Armónicos de alta frecuencia | Actividad de la glándula pineal | Alucinaciones visuales/dilatación del tiempo |
 | Reverberación reverberación | Ampliación de la localización espacial | Disolución del ego |

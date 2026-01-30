@@ -15,7 +15,7 @@ title: '[Columna] La intersección del hard rock, la filosofía oriental y el mi
 
 ## “Oeste” y “Este” escondidos en el rock duro
 
-Texto: mmr｜Tema: Explorando la relación entre el hard rock, la filosofía oriental y el misticismo a través de los ejemplos de Led Zeppelin y Deep Purple
+Texto: mmr | Tema: Explorando la relación entre el hard rock, la filosofía oriental y el misticismo a través de los ejemplos de Led Zeppelin y Deep Purple.
 
 El hard rock es un género importante de rock que explotó desde finales de los años 1960 hasta los años 1970. Su musicalidad se caracteriza por su audaz incorporación de la filosofía oriental y elementos místicos, además del machismo y la fuerza occidentales.
 
@@ -45,7 +45,7 @@ Además, estos elementos ocultos y místicos se reflejan fuertemente en las canc
 
 Por otro lado, otra tendencia del hard rock se puede observar en la introducción de escalas orientales y sonidos místicos. Aunque Deep Purple tiene sus raíces en la música clásica y el blues, ocasionalmente incorporan melodías exóticas para darle a sus canciones una sensación exótica. En particular, la forma de tocar la guitarra de Ritchie Blackmore incluye muchas frases que recuerdan a la música india y las escalas árabes.
 
-Esta tendencia se vuelve aún más evidente en **Rainbow**, formada por Blackmore. Su canción característica "Stargazer" combina escala oriental con letras místicas y una gran orquestación. Esta canción va más allá del hard rock; tiene un sentido de escala, como si fuera la expresión musical de un gran mito o un poema épico. Además, durante la presentación en vivo, la producción hizo pleno uso del fuego y la luz, enfatizando la visión mística del mundo y brindando al público una "experiencia de otro mundo".
+Esta tendencia se vuelve aún más evidente en **Rainbow**, que fue formada por Blackmore. Su canción característica "Stargazer" combina escala oriental con letras místicas y una gran orquestación. Esta canción es más que solo hard rock; tiene un sentido de escala, como si fuera la expresión musical de un gran mito o un poema épico. Además, durante la presentación en vivo, la producción hizo pleno uso del fuego y la luz, enfatizando la cosmovisión mística y brindando al público una "experiencia de otro mundo".
 
 De esta manera, la música de Deep Purple y Rainbow no fue simplemente una extensión del rock occidental, sino que se podría decir que creó un nuevo lenguaje musical al introducir activamente el pensamiento y las imágenes místicas orientales. Sus esfuerzos tuvieron una gran influencia en el metal posterior y el rock progresivo, construyendo un linaje de "hard rock místico" que continúa hasta el día de hoy.
 

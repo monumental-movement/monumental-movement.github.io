@@ -43,7 +43,7 @@ color: #fff;
 
 
 ## Capítulo 1: Historia previa a la formación y estratos del metro de Osaka
-En la década de 1980, Osaka tenía una cultura clandestina única y diferente a la de Tokio. Una mezcla de teatros, edificios abandonados y locales de música en vivo creó muchos lugares donde los límites entre el punk, el hardcore, el ruido y el arte escénico se difuminaron. **Yamatsuka Ai**, el miembro principal de Boredoms, buscó su propia expresión mientras absorbía este ambiente desordenado.
+En la década de 1980, Osaka tenía una cultura clandestina única y diferente a la de Tokio. Una mezcla de teatros, edificios abandonados y locales de música en vivo creó muchos lugares donde los límites entre el punk, el hardcore, el ruido y el arte escénico se difuminaban. **Yamatsuka Ai**, el miembro principal de Boredoms, buscó su propia expresión mientras absorbía este ambiente desordenado.
 
 En sus primeros años, las actividades de Ai estaban fuertemente orientadas a la interpretación y practicaba no sólo el sonido, sino también el movimiento corporal, objetos y expresiones tipo collage.
 Luego de pasar por esta etapa “pre-musical”, comenzó a tomar forma **Hanatarash**, el que luego se convertiría en el prototipo de Boredoms.
@@ -111,7 +111,7 @@ El sonido se estratificó, una sensación de trance se deslizó en el ritmo repe
 
 ---
 
-Al año siguiente, Vision Creation Newsun de 1999 fue uno de los trabajos definitorios de la carrera de Boredoms.
+Vision Creation Newsun del año siguiente, 1999, fue uno de los trabajos definitorios de la carrera de Boredoms.
 Sonidos naturales, percusión étnica, sonidos sostenidos y estructuras cíclicas, drones de guitarra, ritmos multicapa...
 
 Los Boredoms ni siquiera eran aquí una "banda de rock", sino que profundizaban en el minimalismo cósmico y el trance ritual.
@@ -119,7 +119,7 @@ Los Boredoms ni siquiera eran aquí una "banda de rock", sino que profundizaban 
 ---
 
 ### 3.3 Antecedentes de la psicodelización
-- La perspectiva de Ai cambia de la destrucción impulsiva a la "expansión cósmica"
+- La perspectiva de Ai cambia de la destrucción impulsiva a la "expansión cósmica".
 - Yuka Yoshimura (Yoshimi) juega un papel central, generando importantes avances en batería/voz/electrónica.
 - Mayor interés por el minimalismo y las estructuras repetitivas.
 
@@ -138,7 +138,7 @@ El estilo multicapa de batería y percusión centrado en Yoshimi P-We se convert
 ### 4-2. Nueva etapa con “Seadrum / House of Sun”
 
 En 2004, lanzó "Seadrum / House of Sun".
-Elementos de grabaciones en la playa, drones largos, estructuras meditativas, sonidos ambientales y repeticiones se combinan para crear un mundo que se siente como un "ritual sonoro".
+Elementos de grabación en la playa, drones largos, estructuras meditativas, sonidos ambientales y repetición se combinan para crear un mundo que se siente como un "ritual sonoro".
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ObBwAq-Nx0A?si=Rg_siWf8KjzNuZaE" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 

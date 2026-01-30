@@ -88,7 +88,7 @@ Su obra maestra "Endless Summer" (2001) fue muy elogiada como ejemplo de la fusi
 Desde la perspectiva de la EAI, los siguientes puntos son importantes:
 
 - Trate el sonido de guitarra en bruto y el sonido procesado en el mismo plano.
-- Introducir ruido de falla para improvisar.
+- Introduciendo ruido de falla para improvisar.
 - Trate su computadora portátil como un "segundo instrumento"
 - Incorporar el procesamiento de señales (filtrado, granular) como acto escénico.
 
@@ -129,7 +129,7 @@ Se puso especial énfasis en el "espacio en blanco" y el "tratamiento del silenc
 
 # 3-4. AMM (Reino Unido)
 AMM, en activo desde los años 60, es uno de los grupos más antiguos en incorporar equipos electrónicos a sus actuaciones.
-La "guitarra horizontal" de Keith Rowe se convirtió en el prototipo para el uso posterior por parte de EAI de ruido de radio y micrófonos de contacto.
+La "guitarra horizontal" de Keith Rowe se convirtió en el prototipo para el uso posterior por parte de EAI del ruido de radio y los micrófonos de contacto.
 
 EAI hereda la estética de AMM: "la naturaleza social de la interpretación", "el uso del silencio" y "el respeto por la contingencia del sonido".
 

@@ -71,7 +71,7 @@ En la segunda mitad del siglo XIX, surgieron los siguientes problemas a medida q
 
 * Turbidez acústica genuina de 3.º y 6.º grado.
 * Homogeneización del color armónico.
-* Dilución del sentido tonal
+* Dilución del sentido de la tonalidad.
 
 Muchos compositores recurrieron a técnicas atonales y dodecafónicas, pero
 En otro linaje, se seleccionó la propia "redivisión de intervalos".
@@ -160,7 +160,7 @@ Como resultado, el temperamento se convirtió en un **parámetro variable** en l
 
 ---
 
-## 8. Análisis acústico: Fenómenos producidos por microtonos
+## 8. Análisis acústico: fenómenos producidos por microtonos
 
 ### 8.1 Batidos e interferencias de fase
 
@@ -235,7 +235,7 @@ La música microtonal vuelve a entrenar tu audición.
 * Fluctuaciones en el sentido tonal.
 * Llamar la atención sobre el tono.
 
-Esto no se establece mediante la comprensión intelectual sino mediante la escucha repetida.
+Esto no se establece mediante la comprensión intelectual, sino mediante la escucha repetida.
 
 ---
 
@@ -244,7 +244,7 @@ Esto no se establece mediante la comprensión intelectual sino mediante la escuc
 La música microtonal no forma un solo género.
 
 * Música experimental
-* música electrónica
+* Música electrónica
 * Dentro del Jazz/Pop
 * Vídeo/Instalación
 
@@ -281,7 +281,7 @@ timeline
 
 ## 15. Conclusión
 
-La música microtonal no es un ejercicio para aumentar el tono. Se trata de un cambio hacia una filosofía de producción que no asume un tono fijo. Harry Partch devolvió la música al cuerpo y al espacio, y Jacob Collier tradujo esa teoría a una sensibilidad moderna. Este movimiento seguirá trabajando silenciosamente en lo más profundo de la producción musical.
+La música microtonal no es un ejercicio para aumentar el tono. Se trata de un cambio hacia una filosofía de producción que no asume un tono fijo. Harry Partch devolvió la música al cuerpo y al espacio, y Jacob Collier tradujo esa teoría a una sensibilidad moderna. Este movimiento seguirá funcionando silenciosamente en las capas más profundas de la producción musical.
 
 
 ---

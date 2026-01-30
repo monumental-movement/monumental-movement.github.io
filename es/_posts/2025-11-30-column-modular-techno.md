@@ -76,7 +76,7 @@ timeline
 
 ## Punto de conexión a la escena
 
-A principios de la década de 2000, los artistas que hacían pleno uso de los sintetizadores modulares comenzaron a llamar la atención en la escena de los clubes, principalmente en Berlín. Surgeon, Ø [Phase], SNTS y ​​otros crearon texturas únicas con sus sets en vivo que combinaron módulos analógicos, brindando una experiencia diferente a los clubes de techno tradicionales. Las actuaciones en clubes berlineses como Berghain y Sisyphos son reconocidas como eventos emblemáticos del Modular Techno.
+A principios de la década de 2000, los artistas que hacían pleno uso de los sintetizadores modulares empezaron a llamar la atención en la escena de los clubes berlineses. Surgeon, Ø [Phase], SNTS y ​​otros crearon texturas únicas con sus sets en vivo que combinaron módulos analógicos, brindando una experiencia diferente a los clubes de techno tradicionales. Las actuaciones en clubes berlineses como Berghain y Sisyphos son reconocidas como eventos emblemáticos del Modular Techno.
 
 Además, la publicación de vídeos de actuaciones en comunidades online, foros y YouTube contribuyó en gran medida a su difusión mundial. Esto llevó a un intercambio activo de información sobre configuraciones y tecnología de sintetizadores modulares, acelerando la maduración de la escena en su conjunto.
 
@@ -133,7 +133,7 @@ La base técnica de Modular Techno es un mecanismo que controla cada módulo usa
 
 Los sintetizadores modulares generan sonido combinando módulos con funciones como fuentes de sonido, filtros, envolventes, LFO, VCF y VCA, y conectándolos con cables. La estructura acústica depende completamente del diseño del usuario y no existen ajustes preestablecidos fijos. Este punto va bien con el enfoque del techno, que enfatiza la improvisación.
 
-Una característica importante del estándar Eurorack es que los módulos de varios fabricantes se pueden combinar libremente estandarizando el tamaño de 3U, el ancho del módulo HP y las especificaciones de la fuente de alimentación. Este ha sido un factor en la expansión de la cultura de los sintetizadores modulares a escala global desde la década de 2000.
+Una característica importante del estándar Eurorack es que los módulos de varios fabricantes se pueden combinar libremente estandarizando el tamaño de 3U, el ancho del módulo HP y las especificaciones de potencia. Este ha sido un factor en la expansión de la cultura de los sintetizadores modulares a escala global desde la década de 2000.
 
 ## Función del secuenciador y CV/Gate
 
@@ -202,7 +202,7 @@ Esta "cultura de construir tu propia" coincide con el espíritu DIY del techno y
 
 # Características musicales y análisis.
 
-Modular Techno exhibe varias características acústicas y estructurales comunes. A continuación, clasificaremos los elementos típicos y explicaremos qué funciones desempeñan dentro del marco del techno.
+Modular Techno exhibe varias características acústicas y estructurales comunes. A continuación, clasificaremos los elementos típicos y explicaremos qué funciones desempeñan en el marco del techno.
 
 ## 1. “Fluctuaciones” del ritmo y cambios estocásticos
 
@@ -302,7 +302,7 @@ En la raíz de esto está el placer más fundamental de la música electrónica:
 
 # Lista detallada de equipos (módulos de uso frecuente de Modular Techno)
 
-La siguiente es una recopilación de categorías de equipos que suelen utilizar los artistas reales de Modular Techno, centrándose en Eurorack.
+A continuación se muestra una lista de categorías de equipos comúnmente utilizados por artistas reales de Modular Techno, con un enfoque en Eurorack.
 
 ## VCO (oscilador)
 - Hacer ruido – DPO
@@ -314,7 +314,7 @@ La siguiente es una recopilación de categorías de equipos que suelen utilizar 
 
 ## VCF (filtro)
 - Doepfer – Filtro Avispa A-124
-- Dispositivos XAOC - Belgrado
+- Dispositivos XAOC – Belgrado
 - Instrumentos mutables – Ondas
 - Hacer ruido – QPAS
 - Erica Sintetizadores – VCF negro
@@ -366,7 +366,7 @@ Una unidad en vivo basada en hardware que actúa combinando cajas de ritmos y eq
 
 ## Cirujano & Daniel Bean (En Vivo)
 
-La actuación en vivo del dúo Surgeon con Daniel Bean se caracteriza por un enfoque en el que los dos construyen un sistema modular a gran escala que continúa generando sonido en tiempo real. Su set en vivo, que combina el ritmo techno con la improvisación, se considera un ejemplo típico de actuación modular en vivo.
+La actuación en vivo del dúo Surgeon con Daniel Bean se caracteriza por un enfoque en el que los dos construyen un sistema modular a gran escala que continúa generando sonido en tiempo real. Su directo, que combina el ritmo techno con la improvisación, se considera un ejemplo típico de actuación modular en directo.
 
 ## Métodos antiguos
 

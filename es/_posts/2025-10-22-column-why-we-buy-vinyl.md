@@ -76,7 +76,7 @@ Por alguna razón, muchas personas sienten nostalgia con solo escucharlo.
 Este fenómeno se denomina psicológicamente "efecto Proust".
 Se trata de un fenómeno en el que la estimulación de los cinco sentidos, como los olores y los sonidos, evoca recuerdos.
 El ruido del disco hace audible el propio paso del tiempo.
-En otras palabras, el acto de escuchar un disco es también "un acto de reencuentro con el pasado".
+En otras palabras, el acto de escuchar un disco es también un acto de "reunión con el pasado".
 
 Si el sonido digital es sonido “actualmente en curso”,
 El sonido analógico es la "reverberación de la memoria".
@@ -148,7 +148,7 @@ Pero de eso se trata un "sonido vivo".
 
 Psicológicamente, las personas tienden a "apegarse a las imperfecciones" más que a la perfección.
 Acepta esa imperfección como parte de ti mismo.
-Ése es el atractivo del "fantasma de lo analógico".
+Ése es su atractivo como "fantasma de lo analógico".
 
 --Los discos no son lápidas de la música.
 Más bien, **la memoria humana en sí misma es un dispositivo giratorio**.

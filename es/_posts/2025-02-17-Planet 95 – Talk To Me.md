@@ -15,7 +15,7 @@ title: Planeta '95 – Háblame
 
 Planet 95 es una unidad compuesta por Antonio D'Ambrosio, Claudio Ferrante, Pasquale De Crescenzo y Renato De Crescenzo.
 
-"Talk To Me" es un conjunto de dos discos de temas house lanzados por el sello Limbo Records de Glasgow en 1996.
+``Talk To Me'' es un conjunto de dos discos de temas house lanzados por el sello Limbo Records de Glasgow en 1996.
 
 La cara B es un remix de Cotton Club.
 La segunda pista en el lado de C&D es un remix de Michael Kilkie, un DJ y productor con sede en Glasgow que fue residente durante mucho tiempo en el legendario club Tunnel de Escocia.

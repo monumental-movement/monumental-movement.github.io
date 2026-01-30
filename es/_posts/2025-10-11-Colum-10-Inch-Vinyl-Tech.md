@@ -51,13 +51,13 @@ color: #fff;
 Uno de los factores que determina la calidad del sonido de un disco es el número de revoluciones (RPM) y la velocidad lineal.
 
 - **Simple de 7 pulgadas: 45 RPM**
-Hay mucha fuerza en el sonido en la periferia exterior y una excelente reproducción de las frecuencias altas. Sin embargo, la distorsión aumenta en la circunferencia interior.
+Hay mucha fuerza en el sonido en la periferia exterior y la reproducción de altas frecuencias es excelente. Sin embargo, la distorsión aumenta en la circunferencia interior.
 
 - **LP de 12 pulgadas: 33⅓RPM**
 Es adecuado para reproducción a largo plazo y garantiza una calidad de sonido estable, pero las frecuencias altas son algo atenuadas.
 
 - **LP de 10 pulgadas: 33⅓RPM o 45RPM**
-El límite es de unos 12 minutos por lado a 33⅓ y de 8 a 9 minutos a 45 RPM.
+A 33⅓, el límite es de aproximadamente 12 minutos por lado, y a 45 RPM, el límite es de aproximadamente 8 a 9 minutos.
 Es decir, el punto fuerte de las 10 pulgadas es que es posible diseñar un sistema que priorice la calidad del sonido en el tiempo.
 
 La velocidad lineal promedio es aproximadamente un 15% mayor que la de 12 pulgadas y hay menos distorsión en la periferia interior.
@@ -111,8 +111,8 @@ Este proceso es especialmente importante para los modelos de 10 pulgadas porque 
 
 ### Material de prensa y peso: 180g Detrás del mito
 
-Para los discos de 10 pulgadas, el grosor suele ser de entre 1,8 y 2,0 mm y el peso es de aproximadamente 120 a 150 g.
-Influenciados por el auge de los discos pesados ​​de 12 pulgadas y 180 g, tendemos a pensar que "más pesado significa mejor calidad de sonido", pero en realidad, la densidad y la planitud del material son más importantes.
+Para los discos de 10 pulgadas, el grosor suele ser de 1,8 a 2,0 mm y el peso es de aproximadamente 120 a 150 g.
+Influidos por el auge de los discos resistentes de 12 pulgadas y 180 g, tendemos a pensar que "más pesado significa mejor calidad de sonido", pero en realidad, la densidad y la planitud del material son más importantes.
 
 El pequeño tamaño del tablero de 10 pulgadas aumenta naturalmente la rigidez de todo el tablero, lo que hace que sea menos probable que se deforme y cause menos resonancia.
 En otras palabras, incluso si es fino, el sonido es tenso. Por este motivo, incluso con un disco ligero de 10 pulgadas casi no hay desventajas en términos de calidad de sonido.
@@ -129,7 +129,7 @@ Desde una perspectiva de medición acústica, las características de frecuencia
 | 1 kHz a 4 kHz | ±0dB | Plano, claro |
 | 8 kHz o superior | −1 a 2 dB | La atenuación de las altas frecuencias es bastante rápida (limitaciones físicas) |
 
-Esta característica da como resultado una imagen de sonido con una "sensación cercana" centrada alrededor del rango medio.
+Esta característica da como resultado una imagen sonora con una "sensación cercana" centrada en el rango medio.
 La razón por la que se dice que los discos de 10 pulgadas tienen un "sonido en vivo" es la alta densidad del rango medio.
 
 ---

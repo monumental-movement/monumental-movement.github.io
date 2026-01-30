@@ -118,7 +118,7 @@ B3. Boogie Dancer (Verona Beat)
 ### Dave Hammond – “África”
 <a href="https://jp.mercari.com/item/m93036918375?afid=6142608987"><img src="../assets/images/Dave%20Hammond%20%E2%80%93%20Africa.webp"></a>
 
-Un estilo de Italo disco desarrollado en Europa que se inclina hacia el Eurobeat. Cuando quieras calentar el espacio con bailes.
+Discoteca Italo de estilo europeo con un estilo Eurobeat. Cuando quieras calentar el espacio con bailes.
 
 #### Lista de canciones
 ```md

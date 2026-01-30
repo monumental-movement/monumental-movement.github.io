@@ -13,7 +13,7 @@ title: Negro – Más que el sol
 ---
 
 
-Black es el alias del cantautor británico Colin Vearncombe y el nombre de su banda.
+Black es el alias del cantautor británico Colin Vearncombe y el nombre de su propia banda.
 
 #### Lista de canciones
 ```md

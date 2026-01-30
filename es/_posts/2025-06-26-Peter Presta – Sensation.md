@@ -17,7 +17,7 @@ title: Peter Presta – Sensación
 
 Peter Presta es un DJ, productor y remezclador de Brooklyn. Ha colaborado y remezclado con varios artistas, incluidos Masters At Work, Danny Tenaglia, Moby, Joey Beltram, Robbie Rivera, Cevin Fisher, Ray Roc, StoneBridge, Peter Rauhofer y DJ Chus.
 
-"Sensation" es una pista de house progresivo/tribal house/tech house lanzada por Apple Jaxx Recordings en 2005.
+"Sensation" es una canción de house progresivo/tribal house/tech house lanzada por Apple Jaxx Recordings en 2005.
 
 La cara B es un remix de Carlos Cardenales, también conocido como Little Carlos.
 

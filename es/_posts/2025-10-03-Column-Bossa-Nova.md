@@ -84,7 +84,7 @@ color: #fff;
 
 #### Antonio Carlos Jobim
 
-**Año de nacimiento**: 25 de enero de 1927 (Rio de Janeiro, Brasil)
+**Año de nacimiento**: 25 de enero de 1927 (Río de Janeiro, Brasil)
 
 **Características**: Conocido como pianista, compositor y arreglista, fue responsable de canciones tan representativas de bossa nova como ``La chica de Ipanema'' y ``Waves''.
 
@@ -210,7 +210,7 @@ La bossa nova ha influido en varios géneros como el jazz, el pop y la música c
 
 ## resumen
 
-Bossa Nova es un género poco común que comenzó en un departamento en Río de Janeiro a fines de la década de 1950 y ha reescrito el mapa musical mundial. La guitarra y la voz susurrantes de João Gilberto, las sofisticadas composiciones de Antonio Carlos Jobim, la interpretación del jazz de Stan Getz y el internacionalismo pop de Sergio Mendes. Aunque sus personalidades y actividades individuales son independientes, están vinculados orgánicamente y continúan siendo escuchados a lo largo de los siglos.
+Bossa Nova es un género poco común que comenzó en un departamento en Río de Janeiro a fines de la década de 1950 y ha reescrito el mapa musical mundial. La guitarra y la voz susurrantes de João Gilberto, las sofisticadas composiciones de Antonio Carlos Jobim, la interpretación del jazz de Stan Getz y la internacionalización del pop de Sergio Mendes. Aunque sus personalidades y actividades individuales son independientes, están vinculados orgánicamente y continúan siendo escuchados a lo largo de los siglos.
 
 Incluso hoy en día, la palabra "Bossa Nova" va más allá de un simple género musical y funciona como símbolo de la "cultura brasileña" y de una "atmósfera relajada". A través de plataformas digitales como Spotify y YouTube, ha sido recibido recientemente por la generación más joven y aparece con frecuencia en recomendaciones y listas de reproducción de IA.
 

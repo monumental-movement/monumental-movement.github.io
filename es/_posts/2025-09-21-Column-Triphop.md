@@ -109,7 +109,7 @@ Derivado del sistema de sonido de Bristol "Wild Bunch". 3D (Robert Del Naja) tam
 
 #### Tecnología de producción
 
-En lugar de utilizar un tocadiscos, "convierte el estudio en un instrumento" y combina samples y música en vivo. Caracterizado por graves profundos y procesamiento espacial tipo dub.
+En lugar de un tocadiscos, "convierte el estudio en un instrumento" y combina muestras y presentaciones en vivo. Caracterizado por graves profundos y procesamiento espacial tipo dub.
 
 #### El vídeo funciona
 
@@ -154,7 +154,7 @@ Hay documentales sobre giras de los 90 como "Welcome to Portishead".
 Endtrousing.... está incluido en el Libro Guinness de los Récords Mundiales como el "primer álbum construido enteramente a partir de samples". Completado con MPC y tocadiscos.
 
 #### Tecnología de producción
-Aprovechar al máximo la reconstrucción de ritmos, los malabarismos de ritmos y la ampliación del tiempo. Trate el plato giratorio como una "herramienta de collage".
+Hace pleno uso de la reconstrucción de ritmos, el malabarismo de ritmos y la ampliación del tiempo. Trate el plato giratorio como una "herramienta de collage".
 
 #### El vídeo funciona
 Apareció en [el documental sobre cultura de DJ "Scratch" (2001)] (https://amzn.to/4pzrtso).
@@ -175,7 +175,7 @@ Apareció en [el documental sobre cultura de DJ "Scratch" (2001)] (https://amzn.
 Presentar la "tranquilidad japonesa" a nivel mundial a través de giras mundiales. Es respetado por la escena hip-hop occidental.
 
 #### Tecnología de producción
-Un estilo que considera el tocadiscos como un "instrumento" e intenta combinarlo con instrumentos musicales japoneses y sonidos ambientales. Se especializa no sólo en scratching sino también en producción espacial.
+Un estilo que considera el tocadiscos como un "instrumento" e intenta fusionarlo con instrumentos musicales japoneses y sonidos ambientales. Se especializa no sólo en scratching sino también en producción espacial.
 
 #### El vídeo funciona
 

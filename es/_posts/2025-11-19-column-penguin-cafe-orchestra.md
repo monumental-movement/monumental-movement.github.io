@@ -127,7 +127,7 @@ Es una canción tranquila pero dramática que se siente como si la expansión y 
 
 ### 3-3. **Teléfono y goma elástica (1981)**
 
-Una extraña pieza musical en la que de repente suena un teléfono bitono sobre un conjunto clásico.
+Una extraña pieza musical en la que de repente suena un teléfono de dos tonos en un conjunto clásico.
 
 **Características**
 
@@ -148,7 +148,7 @@ Los álbumes principales se explican a continuación.
 
 Álbum debut lanzado en el subsello Obscure de Virgin Records.
 Entre las obras de Obscure producidas por Brian Eno, esta es la más "diferente" y "brillante".
-Se fusionan el folclore y las estructuras repetitivas, y el estilo posterior está casi completo.
+Una fusión de folklore y estructura repetitiva casi completa el estilo posterior.
 
 ### ● *Orquesta Penguin Café* (1981)
 
@@ -202,7 +202,7 @@ El enfoque de PCO de "ausencia de género" y "una fusión de música de cámara 
 
 ---
 
-## Capítulo 6: La muerte y las secuelas de Simon Jeffes
+## Capítulo 6: La muerte de Simon Jeffes y sus secuelas
 
 En 1997, Simon Jeffes falleció a la edad de 48 años a causa de un tumor cerebral.
 Aunque fue una gran pérdida para el mundo de la música, las grabaciones restantes, las notas inéditas y las partituras de las interpretaciones aún se están reevaluando.

@@ -14,7 +14,7 @@ title: Tim Schuldt – Rastreado/Secretos
 ---
 
 
-Tim Schuldt es un productor/guitarrista/ingeniero de Goa y trance psicodélico de Alemania que ha estado activo desde mediados de los años 1990. Originalmente activos en bandas de rock y metal, su estilo ha evolucionado desde entonces hacia el trance goa y el trance psicodélico hacia un sonido industrial más pesado.
+Tim Schuldt es un productor, guitarrista e ingeniero de goa y trance psicodélico de Alemania que ha estado activo desde mediados de los años 1990. Originalmente activos en bandas de rock y metal, su estilo ha evolucionado desde entonces hacia el trance goa y el trance psicodélico hacia un sonido industrial más pesado.
 
 "Traced Back / Secrets" es una canción de Industrial/Psy-Trance lanzada en 2002 en el propio sello Goa/Psy-Trance de Tim Schuldt, Aurinko Records.
 

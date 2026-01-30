@@ -40,7 +40,7 @@ color: #fff;
 
 ## Décadas de 1960 y 1970: nacimiento del hard rock y vísperas de las salas recreativas
 
-- **Antecedentes**: Led Zeppelin, Deep Purple y Black Sabbath aparecieron en Londres y Los Ángeles. Presentando una nueva experiencia musical con sonidos explosivos y riffs profundos.
+- **Antecedentes**: Led Zeppelin, Deep Purple y Black Sabbath aparecen en Londres y Los Ángeles. Presentando una nueva experiencia musical con sonidos explosivos y riffs profundos.
 - **Punto de contacto con los juegos**: Esta era todavía estaba en los primeros días de las salas de juegos (en vísperas de ``Pong'' y ``Space Invaders''). Aunque el vínculo directo es débil, el arte psicodélico y los experimentos con sonidos electrónicos crean semillas que resuenan con la estética de la música electrónica del juego.
 
 **Obra maestra representativa**
@@ -78,7 +78,7 @@ color: #fff;
 
 - **Antecedentes temporales**: El hard rock estadounidense como Mötley Crüe y Van Halen estaba en auge en todo el mundo. Con la llegada de MTV, se conectó directamente con la cultura visual.
 - **Punto de contacto con los juegos**: La época dorada de los arcades ("Space Invaders", "Pacman", "Outrun"). En particular, Sega y Namco reproducen la sensación trepidante de la música rock con chips de sonido.
-- El sonido de solo de guitarra de Van Halen y la sensación de trituración de 8 bits del juego están audiblemente vinculados.
+- El sonido del solo de guitarra de Van Halen y la sensación de trituración de 8 bits del juego están vinculados de forma audible.
 
 **Obra maestra representativa**
 
@@ -346,7 +346,7 @@ Desde la década de 2000, juegos de música como **Guitar Hero** y **Rock Band**
 
 ## Elementos de hard rock en juegos de música de realidad virtual.
 
-### Beat Sabre
+### Beat Saber
 
 | Título | Pistas | Artista | Notas |
 |----------|---------|-------------|------|
@@ -370,7 +370,7 @@ Desde la década de 2000, juegos de música como **Guitar Hero** y **Rock Band**
 
 - En el extranjero, nació el movimiento **``Guitar Hero'' → Empieza a tocar la guitarra**.
 - En Japón, **GuitarFreaks/DrumMania** fue pionero en la idea de "sensación de interpretación real" y sentó las bases de la cultura de los juegos musicales.
-- **Taiko no Tatsujin** se centra en la música pop, pero con sus canciones originales de estilo hard rock/metal, imprimieron un sonido parecido a una guitarra en la generación más joven.
+- **Taiko no Tatsujin** se centra en la música pop, pero con sus canciones originales de estilo hard rock/metal, imprimieron un sonido parecido a una guitarra en los jóvenes.
 - **SOUND VOLTEX** tiene un fuerte tono electro, pero incorpora activamente elementos de hard rock y metal para expresar el "impacto rockero" de una nueva generación.
 
 ---

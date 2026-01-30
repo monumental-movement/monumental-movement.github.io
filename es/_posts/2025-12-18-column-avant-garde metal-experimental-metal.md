@@ -152,9 +152,9 @@ flowchart TD
 
 ---
 
-## Ritmo respiratorio
+## Respiración rítmica
 
-Su ritmo no es un latido, sino más bien un suspiro o la duración de una historia. El tempo no es fijo y la batería juega un papel en la regulación de la densidad espacial en lugar de ser un cronometrador.
+Su ritmo no es un latido, sino más bien parecido a la respiración o a la duración de una historia. El tempo no es fijo y la batería juega un papel en la regulación de la densidad espacial en lugar de ser un cronometrador.
 
 ---
 

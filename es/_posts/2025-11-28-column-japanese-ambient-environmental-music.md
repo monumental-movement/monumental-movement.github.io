@@ -271,11 +271,11 @@ La música ambiental japonesa no es sólo “curativa” o “sonido de fondo”
 **Arte sonoro creado por la cultura urbana, el diseño y la filosofía de vida**
 Es.
 
-- Campo intermedio entre el arte y la música.
+- Zona intermedia entre el arte y la música.
 - Respuesta a la urbanización
 - Cultura de estilo de vida y tecnología de electrodomésticos.
 - Innovación en sintetizadores
-- Colaboración con el diseño espacial.
+- Cooperación con el diseño espacial.
 
 Todos estos estuvieron presentes en Japón en la década de 1980.
 

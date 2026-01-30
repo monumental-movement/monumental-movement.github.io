@@ -44,7 +44,7 @@ color: #fff;
 ##Ⅰ. El placer de las manos jugando con el sonido
 
 No debemos olvidar que el "sentido táctil" está en el origen del acto musical. Cuando tocas las cuerdas, presionas las teclas o giras las perillas, recibes una respuesta al alcance de tu mano. Esta inmediatez es la misma en los juguetes con los que los niños entran en contacto durante su infancia.
-En el siglo XXI, los sonidos electrónicos se han extendido a los juguetes y aparatos educativos de los niños, y el propio acto de "sonar" se ha diseñado como parte del juego. La línea entre juguetes e instrumentos musicales es cada vez más borrosa.
+En el siglo XXI, los sonidos electrónicos se han extendido a los juguetes y aparatos educativos de los niños, y el propio acto de "sonar" ha llegado a diseñarse como parte del juego. La línea entre juguetes e instrumentos musicales es cada vez más borrosa.
 
 ---
 
@@ -143,7 +143,7 @@ Una pieza experimental de ruido que aprovecha al máximo equipos electrónicos m
 
 ## Ⅵ. La edad de oro de los juguetes electrónicos en Japón
 
-En las décadas de 1970 y 1980, los sintetizadores portátiles y los instrumentos musicales electrónicos se hicieron populares en los hogares japoneses.
+En las décadas de 1970 y 1980, los sintetizadores portátiles y los juguetes musicales electrónicos se hicieron populares en los hogares japoneses.
 
 - Serie Yamaha Portasound
 - CASIO VL-TONE
@@ -208,7 +208,7 @@ El concepto de "juego" vuelve una vez más al centro de la creación musical y d
 
 ## Apéndice
 
-### Historia de la evolución de Strange Musical Toys en todo el mundo (cronología simple)
+### Historia evolutiva de los juguetes musicales extraños en todo el mundo (cronología simple)
 
 <div class="mermaid">
 

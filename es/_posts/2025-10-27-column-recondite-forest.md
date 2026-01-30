@@ -80,7 +80,7 @@ Por alguna razón, el oyente siente la ilusión de estar más cerca del bosque.
 La música techno a menudo se describe como urbana, mecánica e inorgánica.
 Pero el enfoque de Recondite es el contrario. Trata los sintetizadores como "una extensión del paisaje".
 
-El filósofo medioambiental Timothy Morton propuso el concepto de "**ecología oscura**".
+El filósofo ambiental Timothy Morton propuso el concepto de "**ecología oscura**".
 Es imposible para los humanos separarse completamente de la naturaleza, y más bien deberíamos aceptar un **estado mixto incómodo**.
 La música de Recondite encarna esta filosofía.
 Una caja de ritmos artificial imita los latidos del bosque y un secuenciador recrea el ritmo del viento.
@@ -95,7 +95,7 @@ Las pistas de Recondite siguen de manera similar un tempo moderadamente rápido 
 Sus ritmos son meditativos y están diseñados para sincronizarse con los latidos del corazón del oyente.
 
 Desde la psicología musical se sabe que un determinado tempo promueve un estado en el que el sistema nervioso parasimpático es dominante.
-Por lo tanto, la experiencia en vivo de Recondite es más que un simple evento de club;
+Por lo tanto, la experiencia en vivo de Recondite no es sólo un evento de club;
 Se puede decir que funciona como "**baño de bosque en la ciudad**".
 
 ---
@@ -170,7 +170,7 @@ Imita el proceso mediante el cual los sonidos naturales estabilizan la psique hu
 ## Capítulo 9: Consideraciones filosóficas - El yo como bosque
 
 El acto de escuchar las obras de Recondite es
-Es una experiencia no sólo de "sentir la naturaleza", sino también de "asimilarse a la naturaleza".
+Es una experiencia no sólo de "sentir la naturaleza", sino también de "asimilarse con la naturaleza".
 Es como **un baño auditivo en el bosque**.
 
 El filósofo Maurice Merleau-Ponty

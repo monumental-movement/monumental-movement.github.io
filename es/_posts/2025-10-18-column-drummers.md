@@ -131,7 +131,7 @@ Su actuación se sitúa a medio camino entre el ritual religioso y la tecnologí
 
 ---
 
-## Capítulo 2: El latido del corazón de Japón: Ritmos que conectan por encima y por debajo de la tierra
+## Capítulo 2: El latido del corazón de Japón: ritmos que se conectan por encima y por debajo de la tierra
 
 ### 2-1. Después de Ponta: de artesano a pensador
 

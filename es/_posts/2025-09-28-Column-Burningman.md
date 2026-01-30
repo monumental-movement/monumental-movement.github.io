@@ -100,7 +100,7 @@ Desde la década de 2000, los "vehículos mutantes" gigantes y las esculturas he
 
 ### Implicaciones y desafíos contemporáneos
 
-Si bien Burning Man sigue siendo un centro de creatividad, enfrenta problemas de comercialización, seguridad y medio ambiente, y la pregunta: "¿Para quién está Burning?" La comunidad está intensificando sus esfuerzos de sostenibilidad (Leave No Trace, becas de arte) y compartiendo conocimientos en redes regionales.
+Si bien Burning Man sigue siendo un centro de creatividad, enfrenta preocupaciones sobre la comercialización, la seguridad y el medio ambiente, y la pregunta: "¿Para quién está Burning?" La comunidad está intensificando sus esfuerzos de sostenibilidad (Leave No Trace, becas de arte) y compartiendo conocimientos en redes regionales.
 
 ---
 
@@ -213,7 +213,7 @@ Además, a partir de este año comenzaron a afianzarse las instalaciones de temp
 
 #### 2001: Siete edades
 
-Los temas tratan sobre las siete etapas de la vida, el crecimiento y el cambio, y las relaciones intergeneracionales.
+Los temas tratan de las siete etapas de la vida, el crecimiento y el cambio, y las relaciones intergeneracionales.
 
 En algunos casos, se han creado estructuras para simbolizar la transición de la vida a través de múltiples artes y actuaciones.
 
@@ -273,7 +273,7 @@ Sin embargo, ese año, su arte en llamas "Crude Awakening", que imitaba una plat
 
 #### 2008: Sueño americano
 
-Sueño americano/Preguntas sobre la sociedad de consumo. Hay mucho arte que presenta temas de consumismo, mitología y estructura social.
+Sueño americano/Cuestiones sobre la sociedad de consumo. Hay mucho arte que presenta temas de consumismo, mitología y estructura social.
 
 ---
 
@@ -393,7 +393,7 @@ El tema es el desconocimiento y la imprevisibilidad, y se desarrolla una composi
 
 #### 2025: Mañana Hoy
 
-Centrándose en el futuro próximo, los inventos futuros y los conceptos sociales. Arte que encarna "El mañana en el hoy", creación de prototipos y diseño que induce a un espacio de diálogo futurista.
+Centrándose en el futuro próximo, futuros inventos y planes sociales. Arte que encarna "El mañana en el hoy", creación de prototipos y diseño que induce a un espacio de diálogo futurista.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5yrIwJo-RZ0?si=PF7ug6sEAIFeT2i1" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -405,7 +405,7 @@ La lista anterior se construyó haciendo referencia a las descripciones de temas
 
 El Templo (un lugar de oración) y el Hombre mismo a menudo se diseñan en respuesta a un tema, con elementos que son independientes del tema pero que se reconfiguran cada año.
 
-Además, el tema no se aplica necesariamente de forma obligatoria a todos los campos/obras, sino que funciona como un "marco sugerente".
+Además, el tema no se aplica necesariamente de forma obligatoria a todos los campamentos/obras, sino que funciona como un "marco de sugerencias".
 
 ---
 

@@ -14,7 +14,7 @@ title: Bando – Chavalas A Punta Pala EP
 ---
 
 
-Manuel Rio, también conocido como Bando, es un DJ y productor español que ha estado en activo desde principios de los años 1990. Su estilo enérgico se basa en el techno y tiene un sentimiento tribal, rico en percusión y groove, y ha creado remixes para Ben Sims, Marco Bailey, DJ Misjah, Cristian Varela y más. Como DJ, es residente con Cristian Varela, quien está activo en todo el mundo y ha ganado el premio al Mejor DJ Techno, y se ha presentado en varios países, incluidas giras no solo en Europa sino también en Estados Unidos y Asia.
+Manuel Rio, también conocido como Bando, es un DJ y productor español que ha estado activo desde principios de los años 1990. Su estilo enérgico se basa en el techno y tiene un sentimiento tribal, rico en percusión y groove, y ha creado remixes para Ben Sims, Marco Bailey, DJ Misjah, Cristian Varela y más. Como DJ, es residente con Cristian Varela, quien está activo en todo el mundo y ha ganado el premio al Mejor DJ Techno, y se ha presentado en varios países, incluidas giras no solo en Europa sino también en Estados Unidos y Asia.
 
 "Chavalas A Punta Pala EP" es la obra maestra de Bando, un tema Techno/Tribal Techno lanzado en 2003 en el sello suizo Phont Music.
 

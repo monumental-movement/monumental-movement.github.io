@@ -42,7 +42,7 @@ color: #fff;
 
 Guillermo Scott Herren nació en 1976 en Miami, Florida, Estados Unidos. Su padre es catalán y su madre es de ascendencia irlandesa y cubana, por lo que creció en un ambiente multicultural desde muy temprana edad. Su madre le formó en música y está familiarizado con varios instrumentos, incluido el piano.
 
-Cuando era niño, se interesó por el hip-hop, el punk y la música electrónica, y fue influenciado por la escena musical de su ciudad natal de Miami. Comenzó a pinchar cuando era adolescente, tocando en clubes nocturnos de Atlanta y se involucró en la producción y presentación musical desde una edad temprana. A través de su experiencia en el estudio, perfecciona sus experimentos acústicos y técnicas de muestreo.
+Cuando era niño, se interesó por el hip-hop, el punk y la música electrónica, y fue influenciado por la escena musical de su ciudad natal de Miami. Comenzó a ser DJ cuando era adolescente, tocó en clubes nocturnos en Atlanta y se involucró en la producción y presentación musical desde una edad temprana. A través de su experiencia en el estudio, perfeccionó sus experimentos sonoros y técnicas de muestreo.
 
 Cuando se mudó a Nueva York para asistir a la universidad, comenzó a desarrollar seriamente su propio proyecto musical.
 
@@ -75,7 +75,7 @@ Se caracteriza por muestras fragmentarias que hacen uso completo de MPC, corte y
 
 En 2002, lanzaron el EP *The '92 vs. '02 Collection*. El contenido fue mejorado con ruido electrónico y ritmos experimentales.
 
-En 2003, lanzó el álbum fundamental *One Word Extitaininger*. *Extinguido: Outtakes*, una recopilación de tomas y remezclas no utilizadas, también se lanzó al mismo tiempo.
+En 2003, lanzaron el álbum fundamental *One Word Extiguar*. *Extinguido: Outtakes*, una recopilación de tomas y remezclas no utilizadas, también se lanzó al mismo tiempo.
 Este conjunto de trabajos evolucionó aún más en la fragmentación de muestras y la construcción precisa de ritmos, y sirvió como puente entre el IDM y el hip-hop.
 
 ---

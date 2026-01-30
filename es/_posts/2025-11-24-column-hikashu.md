@@ -59,7 +59,7 @@ Esta experiencia diversa ha creado la base de Hikashu, no solo una banda que se 
 En 1978, comenzó el "Hikashu" oficial.
 Casi al mismo tiempo, YMO debutó en Japón, y el puente entre la música electrónica y la música pop se hizo inmediatamente visible. Sin embargo, Hikashu, aunque se mantiene cerca de esta tendencia, desarrolla un pop extraño que apenas se desvía de la gramática del pop popular.
 
-En particular, se dice que las actuaciones de 1979 a 1980 son más que sólo su sonido, sino que su "existencia misma es vanguardista" y tienen las siguientes características:
+En particular, se dice que las actuaciones de 1979 a 1980 son más que sólo sus sonidos, sino que su "existencia misma es vanguardista" y tienen las siguientes características:
 
 - **Letras absurdas**
 - **También manipulación vocal acústica** (canto armónico, modulación de la exhalación, sílabas sin sentido)
@@ -160,8 +160,8 @@ El tono inestable del theremin perturba la estructura de la canción y le da una
 # 8. Descripción general de los miembros principales
 
 - **Koichi Makigami**: Voz: Theremin. el centro de la banda. Una amplia gama de actividades desde música de vanguardia pasando por teatro pasando por música folklórica.
-- **Mita Chojin**: Guitarra. Utiliza procesamiento acústico y técnicas de interpretación irregular.
-- **Akira Toyama** (participante temporal): Batería. Introducir un sentido de jazz/improvisación en la banda.
+- **Mita Chojin**: Guitarra. Experto en procesamiento acústico y técnicas de interpretación irregular.
+- **Akira Toyama** (participación temporal): Batería. Introducir un sentido de jazz/improvisación en la banda.
 - **Masami Sakaide**: Bajo. Contribuye a la complejidad de la estructura rítmica.
 - **Makoto Inoue** (inicial): Teclado. Esto determinó la sensación techno/new wave de Hikashu en los primeros días.
 
@@ -222,7 +222,7 @@ No basta con hablar simplemente de Hikashu como una "leyenda de la nueva ola jap
 —El “estado” del hikashu
 
 Hikashu es más que una "banda", es un campo de pruebas de sonido, cuerpo y humor.
-Aunque han pasado más de 45 años desde su formación, siempre han aparecido en el escenario no para recrear el pasado, sino para descubrir el "ahora" de nuevo.
+Aunque han pasado más de 45 años desde su formación, siempre están en el escenario no para recrear el pasado, sino para descubrir el "ahora" de nuevo.
 
 Esta actitud tiene un valor único en la historia de la música japonesa.
 Hikashu nunca termina. Siempre existen como un "estado" continuo.

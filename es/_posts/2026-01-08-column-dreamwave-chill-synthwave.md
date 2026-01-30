@@ -57,7 +57,7 @@ Alrededor de 2010, a medida que maduró la cultura de compartir Internet, comenz
 
 Las características musicales de Dreamwave/Chill Synthwave son la transparencia de las armonías, la estabilidad del tempo y la lentitud de los cambios de timbre. Se utilizan principalmente tempos medios a lentos, el ritmo es repetitivo y la caja de ritmos a menudo se coloca de manera sobria.
 
-Los acordes mayores de séptima, suma 9 y sus se utilizan a menudo para las armonías, y se pone énfasis en una sensación de continuidad más que en una sensación de resolución. Aunque la melodía tiene un corazón cantante, evita los altibajos excesivos y utiliza muchas notas sostenidas y largas de sintetizadores principales.
+Los acordes mayores de séptima, suma 9 y sus se utilizan a menudo para las armonías, y se pone énfasis en una sensación de continuidad más que en una sensación de resolución. Aunque la melodía tiene un corazón cantante, evita altibajos excesivos y utiliza muchas notas sostenidas y largas de sintetizadores principales.
 
 En términos de tono, los pads Juno, el piano eléctrico DX, el bajo procesado con coros y los efectos espaciales que utilizan retardo y reverberación juegan un papel importante.
 
@@ -106,7 +106,7 @@ Timecop1983 es ​​un artista con fuertes aspectos Chill Synthwave, y se carac
 
 Aunque la música de Timecop1983 es ​​similar a la música de fondo, está diseñada para que, si escuchas con atención, puedas discernir cambios mínimos en el tono y las opciones armónicas.
 
-> La esencia de Chill Synthwave es que se integra en la vida diaria del oyente.
+> La esencia de Chill Synthwave es que se integra en la vida diaria de los oyentes.
 
 ---
 

@@ -210,5 +210,5 @@ Como sugiere el nombre, EBM es "música corporal electrónica". Era más que sim
 Actualmente, la influencia de la EBM se está extendiendo por muchos campos, desde la cultura de clubes y festivales hasta la escena del bricolaje, el arte y la moda.
 
 Y sobre todo——
-El “calor” que reside en ese ritmo inorgánico mueve el cuerpo.
+El “calor” que habita dentro de ese ritmo inorgánico mueve el cuerpo.
 Ése es el atractivo esencial de la EBM.

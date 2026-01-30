@@ -172,7 +172,7 @@ Este método es consistente con la cultura del sampleo posterior al hip-hop, per
 
 ## 16. Técnicas de producción y procesamiento de sonido.
 
-En el lado de la producción, la extracción de muestras y la extensión del tiempo, la cuantificación de tiempos y el diseño de graves juegan papeles importantes. El rebote del swing no se reproduce completamente, sino que se absorbe en el cuatro contra cuatro o breakbeat directo.
+En el lado de la producción, el corte de muestras y la extensión del tiempo, la cuantificación de tiempos y el diseño de graves juegan papeles importantes. El rebote del swing no se reproduce completamente, sino que se absorbe en el cuatro contra cuatro o breakbeat directo.
 
 Como resultado, Electro Swing tiene una estructura que no es natural para el jazz, pero que responde muy bien a la música dance. Este diseño de compromiso es el núcleo técnico de la creación del género.
 
@@ -196,7 +196,7 @@ Por otro lado, otra característica es que era difícil conformar un escenario d
 
 ## 19. Comparación con otros géneros
 
-El electro swing a veces se confunde con el nu jazz, el swing house y el retro house, pero la mayor diferencia es que pone en primer plano el simbolismo del período del swing. Esto prioriza la legibilidad cultural sobre la complejidad musical.
+El electro swing a veces se confunde con el nu jazz, el swing house y el retro house, pero la mayor diferencia es que pone en primer plano el simbolismo de la era del swing. Esto prioriza la legibilidad cultural sobre la complejidad musical.
 
 Si bien esta estructura debilitó la capacidad del género para resistir las críticas, fue eficaz para ganar oyentes a largo plazo.
 

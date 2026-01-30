@@ -60,7 +60,7 @@ color: #fff;
 5. [Capítulo 5: La verdad detrás de la máscara - Confesiones de John Rowland] (#Capítulo 5)
 6. [Capítulo 6: Reverberaciones de Exotica: de la Longines Symphonette al renacimiento de Lo-Fi] (#Capítulo 6)
 7. [Capítulo 7: Reevaluación moderna y dislocación cultural] (#Capítulo 7)
-8. [Cronología: Korla Pandit y la historia de la música exótica (1940-2020)] (#cronología)
+8. [Cronología: Korla Pandit y la historia de la música exótica (1940-2020)] (#Cronología)
 9. [Gráficos y análisis](#Gráficos)
 10. [Conclusión: Entre la ficción y la verdad] (#Conclusión)
 
@@ -76,7 +76,7 @@ Lleva un turbante, mira profundamente a la cámara y toca el órgano Hammond. Su
 Sin embargo, a finales de la década de 1990, el documental Korla (2014) reveló hechos impactantes.
 Su verdadero nombre era **John Roland Redd** y era afroamericano.
 
-Esta “historia de la máscara” va más allá de una simple anécdota del nombre artístico.
+Esta “Historia de la Máscara” va más allá de una simple anécdota del nombre artístico.
 **Saca a la luz la triple estructura de raza, países extranjeros y arte en la sociedad estadounidense de posguerra**.
 
 ---
@@ -125,7 +125,7 @@ Referencia/Fuente:
 
 ---
 
-El Korla Pandit Show, que se emitió desde 1951, fue uno de los primeros programas de televisión musicales estadounidenses.
+El Korla Pandit Show, que se emitió desde 1951, fue uno de los primeros programas de televisión musicales de Estados Unidos.
 La producción, que se construyó utilizando sólo la vista y el sonido sin pronunciar palabras, proporcionó un "país extranjero seguro" para los espectadores blancos en ese momento.
 
 Pundit ha tenido más de 1.000 retransmisiones, lo que le ha dado más exposición televisiva que su contemporáneo Nat King Cole.

@@ -46,7 +46,7 @@ color: #fff;
 
 ## Preformación y formación temprana (1976–1978)
 
-Los orígenes de Black Flag se encuentran en el guitarrista Greg Ginn. Cuando la banda comenzó en 1976 en el área de Hermosa Beach, California, su nombre era Panic. Era una época en la que el punk rock comenzaba a extenderse desde Inglaterra y Nueva York, y la influencia de los Ramones y Sex Pistols era clara, pero la escena en el sur de California aún estaba en su infancia.
+Los orígenes de Black Flag se encuentran en el guitarrista Greg Ginn. El nombre de la banda era Panic cuando comenzó en 1976 en el área de Hermosa Beach, California. Era una época en la que el punk rock comenzaba a extenderse desde Inglaterra y Nueva York, y la influencia de los Ramones y Sex Pistols era clara, pero la escena en el sur de California aún estaba en su infancia.
 
 Panic cambió brevemente su nombre a Black Flag. El nombre hace referencia al símbolo anarquista de la bandera negra y, más que una declaración política clara, contenía una sensación de negación del orden y la estabilidad. El diseño de cuatro líneas utilizado como logotipo era un símbolo visual simple y reconocible al instante que se convertiría en uno de los íconos más famosos de la historia del punk.
 
@@ -130,7 +130,7 @@ Este modelo de bricolaje sentó un precedente realista para escenas posteriores 
 
 En los primeros días de Black Flag, la velocidad y la rapidez eran sus armas. Sin embargo, en el período de Rollins, las canciones gradualmente se volvieron más lentas y pesadas. Los riffs se repitieron y la textura ruidosa se enfatizó.
 
-Este cambio no fue sólo un experimento, sino también un reflejo de la vida en la carretera, el agotamiento físico y la tensión mental. A medida que aumenta el tiempo de actuación, la relación con el público también cambia. En medio del violento mosh, la música comienza a adquirir el carácter de una especie de prueba de resistencia.
+Este cambio no fue sólo un experimento, sino también un reflejo de la vida de gira, el agotamiento físico y la tensión mental. A medida que aumenta el tiempo de actuación, la relación con el público también cambia. En medio del violento mosh, la música comienza a adquirir el carácter de una especie de prueba de resistencia.
 
 Durante este período, Black Flag amplió los límites del hardcore y sentó las bases para influencias posteriores en el sludge, el grunge y el rock alternativo.
 

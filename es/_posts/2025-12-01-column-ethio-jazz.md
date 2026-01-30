@@ -133,7 +133,7 @@ Sin embargo, el propio Mulatu siguió trabajando en el extranjero y realizó gra
 # # 6. Finales de los años 1990: Reevaluación internacional con la serie Éthiopiques
 
 La serie ``Éthiopiques'' (Buda Musique), iniciada en 1997, está
-Se trata de un proyecto de archivo a gran escala que introdujo al mundo fuentes sonoras de la Edad de Oro de Etiopía.
+Se trata de un proyecto de archivo a gran escala que presentó al mundo las fuentes sonoras de la Edad de Oro de Etiopía.
 
 Obras de Mulatu, cantantes etíopes (Mahmoud Ahmed, Tilahun Gessesse, etc.),
 Se reeditaron grabaciones de bandas militares, lo que provocó una reevaluación mundial del Ethio-Jazz.
@@ -206,7 +206,7 @@ flowchart TD
 
 ### ■ Mulatu Astatke
 
-Fundador de Ethio-Jazz. Sus obras representativas fueron publicadas a finales de los años 1960 y 1970.
+Fundador de Ethio-Jazz. Sus obras representativas se publicaron a finales de los años sesenta y setenta.
 Es reconocido internacionalmente como vibrafonista y compositor/arreglista, y en los últimos años ha estado involucrado en investigaciones musicales en la Universidad de Harvard y otras instituciones.
 
 ### ■ Mahmoud Ahmed
@@ -238,7 +238,7 @@ Más tarde fue redescubierto en Washington, D.C. y recorrió el mundo.
 
 ### ■ Jazz/Funk/Hip-hop
 
-* Ampliando la interpretación de los modos de jazz.
+* Ampliación de la interpretación en modo jazz.
 * Utilizado frecuentemente como material de muestra en hip-hop.
 * Influencia en Afrobeat/Afrofusion
 

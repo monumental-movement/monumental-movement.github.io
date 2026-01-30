@@ -138,6 +138,6 @@ La acumulación de estos fragmentos forma nuestra memoria y nuestra cultura.
 
 La música no es una larga sinfonía, sino una colección de innumerables pequeñas "chispas sonoras".
 El sonido de mi disparo en el pecho en ese momento.
-Estos son los **“Nuestros 10 segundos”** que seguirán resonando a lo largo de los siglos.
+それこそが、時代を超えて鳴り続ける**「私たちの10秒」**なのだ。
 
 ---

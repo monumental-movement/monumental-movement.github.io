@@ -23,7 +23,7 @@ Texto: mmr | Tema: ``Revolución musical a través de la edición'' construida p
 
 A finales de la década de 1960, la música de Miles Davis ya no era una extensión de sus actuaciones en vivo, sino que se transformaba en una "arquitectura sonora" construida a través de la grabación y la edición. Detrás del cambio está el productor y editor **Teo Macero**.
 
-Masero no era sólo una persona "detrás de escena". En sus manos, se cortó, pegó y volvió a ensamblar una gran cantidad de cintas de sesiones, dando como resultado un cuerpo de trabajo que podría llamarse "composición mediante edición".
+Masero no era sólo una persona "detrás de escena". En sus manos, se cortaron, pegaron y reensamblaron una gran cantidad de cintas de sesiones, dando como resultado un conjunto de obras que pueden denominarse "composición mediante edición".
 "In a Silent Way" (1969) y "Bitches Brew" (1970) son excelentes ejemplos. Hay una **revolución en la estética de la edición** que va más allá de los límites entre "actuación" y "composición".
 
 ---
@@ -58,7 +58,7 @@ Sin embargo, lo que lo diferenciaba de otros productores era que entendía la ed
 ## Capítulo 2: “De manera silenciosa”—— La magia de la edición del tiempo
 
 Se puede decir que "In a Silent Way", grabado en 1969, es el "punto de partida de la edición" en la historia del jazz.
-Miles, John McLaughlin, Chick Corea, Wayne Shorter y otros improvisaron la sesión, pero Theo Macero reconstruyó audazmente la grabación.
+Miles, John McLaughlin, Chick Corea, Wayne Shorter y otros improvisaron las sesiones, pero Theo Macero reestructuró audazmente las grabaciones.
 
 Lo que es particularmente impresionante es la "estructura en anillo" en la que se utiliza la misma toma al principio y al final.
 Frases que sólo se tocaron una vez en la grabación real "reaparecieron" a través de la edición de Macero, encarnando musicalmente el concepto de un **bucle de tiempo**.
@@ -285,7 +285,7 @@ Se puede decir que el sonido editado por Macero ya estaba poniendo en práctica 
 
 ---
 
-## Figura complementaria: Modelo de “composición por edición” estilo Masero
+## Figura complementaria: Modelo de “composición por edición” al estilo Macero
 
 <div class="mermaid">
 
@@ -418,7 +418,7 @@ Se puede decir que precedió al "método de composición de estudio" defendido m
 
 | Elementos | Técnica | Intención Acústica |
 | ---------- | ------------------------ | ------------------------ |
-| Espacio estéreo | Localización (colocación del tambor a izquierda y derecha) que es imposible en una interpretación real | Ampliación del sentido visual espacial |
+| Espacio estéreo | Localización (colocación del tambor a izquierda y derecha) que es imposible en una interpretación real | Ampliación del sentido visual del espacio |
 | Repetición de cinta | Vuelva a insertar la misma frase (estructura recursiva) | Efecto de la hipnosis auditiva |
 | Operación de ecualizador/reverberación | Unificación de textura entre múltiples tomas | Pseudogeneración de continuidad espacio-temporal |
 | “Costuras” de reverberación fragmentada | Deliberadamente dejado atrás | Convertir las huellas de la edición en música (convertir las costuras sonoras en “estructura”) |

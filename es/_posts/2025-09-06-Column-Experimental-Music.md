@@ -159,7 +159,7 @@ color: #fff;
 - **Equipo:** Akai S3000, Max/MSP, Cubase, Pro Tools.
 
 ### Obra maestra
-- [Óvalo – *94diskont* (1995)](https://amzn.to/4pIOKbx)
+- [Oval – *94diskont* (1995)](https://amzn.to/4pIOKbx)
 - [Aphex Twin – *Obras ambientales seleccionadas Volumen II* (1994)](https://amzn.to/47XIhmE)
 - [Autechre – *Tri Repetae* (1995)](https://amzn.to/4gI0iru)
 
@@ -184,7 +184,7 @@ color: #fff;
 
 
 ## Década de 2000: portátiles y globalización
-- **Antecedentes:** Ruido, electrónica y grabaciones de campo difundidas internacionalmente. La "actuación con computadora portátil" en presentaciones en vivo se ha convertido en algo común.
+- **Antecedentes:** El ruido, la electrónica y las grabaciones de campo se difunden internacionalmente. La "actuación con computadora portátil" en presentaciones en vivo se ha convertido en algo común.
 - **Equipo:** Ableton Live, SuperCollider, Kontakt, laptop.
 
 ### Obra maestra
@@ -268,7 +268,7 @@ color: #fff;
 ---
 
 ## El futuro de la música experimental
-La música experimental siempre ha seguido ampliando los límites de la música. Desde los experimentos preparados con piano y cintas en los años 40, pasando por el ruido y la industria en los 70, hasta los fallos digitales en los 90 y la música generada por IA en los 2020, está en constante cambio.
+La música experimental siempre ha seguido ampliando los límites de la música. A partir de **experimentos preparados con piano y cinta de los años 40**, **ruido e industrial de los 70**, **fallo digital de los 90** y **música generada por IA de los 2020**, siempre está cambiando.
 
 La esencia de la música experimental es la imprevisibilidad y el espíritu de exploración. Incluso fuera de la música comercial, su influencia impregna el rock, la música de club, la música contemporánea y el pop, lo que la convierte en una fuerza a tener en cuenta.
 

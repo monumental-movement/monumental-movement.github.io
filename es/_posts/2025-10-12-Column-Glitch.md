@@ -95,7 +95,7 @@ Aquí es donde reside la creatividad moderna.
 Glitch no se trata sólo de arte.
 También es una metáfora que refleja la estructura misma de la sociedad.
 
-“Fenómenos parecidos a errores” causados ​​por algoritmos de SNS: difusión repentina de información, estallidos y desconocimiento.
+“Fenómenos parecidos a errores” causados ​​por algoritmos de SNS: difusión repentina de información, estallidos y falta de reconocimiento.
 “Alucinación” generada por la IA: un mundo donde la realidad y la ficción se entremezclan.
 Todos estos son **fallos estructurales** de la sociedad digital.
 
@@ -204,7 +204,7 @@ color: #fff;
 | 1996 | Ryoji Ikeda | [+/-](https://amzn.to/46NnTU7) | El pináculo de la acústica minimalista |
 | 2000 | Varios artistas | [Clics y cortes Vol.1](https://amzn.to/4q4epvc) | El origen del movimiento Glitch |
 | 2004 | Alva Noto + Ryuichi Sakamoto | [Vrion](https://amzn.to/4ofoSlO) | Resonancia de piano y digital |
-| 2013 | Arca | [&&&&&](https://amzn.to/42ACorW) | Fusión de insecto y cuerpo |
+| 2013 | Arca | [&&&&&](https://amzn.to/42ACorW) | Fusión de insecto y carne |
 | 2022 | Seiho | [CAMP](https://amzn.to/4n5hF74) | Evolución del glitch pop japonés |
 
 

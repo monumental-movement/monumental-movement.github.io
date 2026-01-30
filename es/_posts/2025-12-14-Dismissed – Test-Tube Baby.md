@@ -13,11 +13,11 @@ title: Descartado - Bebé probeta
 ---
 
 
-*Una cara
+※Una cara
 
 Torsten Knuth, también conocido como Dismissed, es un DJ/productor alemán que trabaja bajo varios nombres como DJ Schlumpf y Raúl Rincón.
 
-"Test-Tube Baby" es Breaks, que fue lanzado en 2003 en Tenor Recordings, un sello independiente que él dirige.
+"Test-Tube Baby" es Breaks, lanzado en 2003 por Tenor Recordings, un sello independiente que él dirige.
 
 #### Lista de canciones
 ```md

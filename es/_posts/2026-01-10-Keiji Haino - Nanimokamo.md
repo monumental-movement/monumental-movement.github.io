@@ -24,7 +24,7 @@ VHS lanzado en 2002 por PSF Records, que lanzó mucha música underground japone
 
 El director es Soichiro Nobiki, un videoartista que estuvo a cargo de ``From Jomon to Space: Jomon Rock'' (VHS) de Hiroshi Mikami.
 
-La dirección de arte está a cargo de Yasuyoshi Arai, quien ha creado chaquetas para Keiji Haino, Fushisha, John Zorn, Motoharu Yoshizawa y más.
+La dirección de arte está a cargo de Yasuyuki Arai, quien ha creado chaquetas para Keiji Haino, Fushisha, John Zorn, Motoharu Yoshizawa y más.
 
 El productor es Hideo Ikuetsu, propietario de P.S.F. Archivos.
 

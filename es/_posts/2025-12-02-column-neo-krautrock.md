@@ -163,7 +163,7 @@ Neo-Krautrock es más que una simple reedición, está influyendo en la música 
 - **Post-lock**: Introducción de estructuras repetitivas y expresiones espaciales.
 - **Electrónica**: Un método para combinar fuentes de sonido analógicas y digitales.
 - **Indie Rock**: Heredando el espíritu de producción independiente y presentaciones en vivo.
-- **Diversificación de las expresiones en vivo**: También están en auge los directos multimedia vinculados al vídeo y la iluminación.
+- **Diversificación de las expresiones en vivo**: También están aumentando los directos multimedia vinculados al vídeo y la iluminación.
 
 <div class="mermaid">
 flowchart TD

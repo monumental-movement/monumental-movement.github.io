@@ -150,9 +150,9 @@ Inmersión profunda a través de fluctuaciones sonoras y cambios diminutos.
 
 Artista: [Estrellas de la tapa](https://amzn.to/3Kztvsh), [William Basinski](https://amzn.to/3VrnPmC), [Eliane Radigue](https://amzn.to/4mrOevu)
 
-**●Ambiente industrial**
+**●Ambiente Industrial**
 
-Música de sonidos de fábrica y ruidos de máquinas.
+Musiciza sonidos de fábrica y ruidos de máquinas.
 
 **Artista**: [Enfermera con herida](https://amzn.to/46QgJyk), [Bobina](https://amzn.to/48sI7nd)
 
@@ -168,7 +168,7 @@ Música ambiental para la relajación y la meditación.
 
 ### El ambiente es arte espacial.
 
-La música ambiental no es sólo música de fondo, también está profundamente conectada con las siguientes ideas y conceptos artísticos.
+La música ambiental no es sólo música de fondo, sino que también está profundamente conectada con las siguientes ideas y conceptos artísticos.
 
 **● Minimalismo y Arte del Tiempo**
 

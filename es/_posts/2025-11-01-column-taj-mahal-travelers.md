@@ -49,7 +49,7 @@ color: #fff;
 </style>
 
 
-##II. “Música Colectiva” y el encuentro con John Cage (1964)
+##II. "Música Colectiva" y el encuentro con John Cage (1964)
 
 En 1964, Kosugi formó Collective Music con Toru Takemitsu y Kei Ichiyanagi.
 Ese mismo año, actuó con John Cage y David Tudor cuando la Merce Cunningham Dance Company visitó Japón por primera vez.
@@ -147,7 +147,7 @@ También influyó en Brian Eno y Robert Ashley.
 
 ---
 
-##IX. Actividades posteriores y evaluación.
+##IX. Actividades y evaluación en años posteriores.
 
 Desde la década de 1980, Kosugi se ha desempeñado como director musical de la Merce Cunningham Dance Company.
 Si bien heredó la filosofía de John Cage, profundizó en la integración de la danza y el sonido.
@@ -178,7 +178,7 @@ Este es el mensaje más importante que nos dejó Kosugi.
 | 1972 | 《Viajeros del Taj Mahal - 15 de julio de 1972》 Anuncio |
 | 1975 | Lanzamiento del trabajo en solitario “Catch-Wave” |
 | 1977–90 | Merce Cunningham Dance Company Director musical |
-| 2018 | Falleció. Falleció a los 80 años. |
+| 2018 | Falleció. Falleció a la edad de 80 años. |
 
 ---
 

@@ -68,13 +68,13 @@ En la década de 1990, bandas como Arcana, Ataraxia y Elend incorporaron más ex
 
 ## Características musicales: estructura y dicción.
 
-### Tonal/Modal
+### Tonal/modal
 
 En este género, además de las tonalidades mayores y menores, se utilizan con frecuencia modos eclesiásticos como el dórico y el frigio. Esto crea una sensación de flotación y un sonido anticuado que se distancia de la progresión armónica funcional.
 
 ### Ritmo y tempo
 
-El tempo es mayormente de medio a bajo, e incluso si el ritmo es claro, la fuerza motriz se suprime. El ritmo repetitivo enfatiza la naturaleza ritual y sirve para oscurecer el sentido del tiempo.
+El tempo es principalmente de medio a bajo, e incluso si el ritmo es claro, la fuerza motriz se suprime. El ritmo repetitivo enfatiza la naturaleza ritual y sirve para oscurecer el sentido del tiempo.
 
 ### Organización
 

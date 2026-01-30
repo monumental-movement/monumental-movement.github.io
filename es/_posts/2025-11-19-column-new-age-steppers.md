@@ -92,7 +92,7 @@ NAS fue el primer símbolo de esto y dio la impresión de que "On-U Sound = un l
 * Seguimiento de “deconstrucción y reedición”
 
 El núcleo de las grabaciones de NAS fue la **mezcla de doblaje de escritorio** de Sherwood, y en lugar de usar los sonidos reproducidos tal como estaban, fueron reorganizados y procesados ​​espacialmente después de la grabación para darles **nueva vida**.
-En particular, los ritmos apretados del grupo Roots Radics y la energía áspera y salvaje del lado post-punk crean "temblor y tensión".
+En particular, los ritmos apretados del grupo Roots Radics y la energía áspera y salvaje del lado post-punk crean "influjo y tensión".
 
 Esta fusión fue impactante incluso para Gran Bretaña en ese momento.
 Esto se debe a que había una profunda brecha cultural entre la comunidad de inmigrantes jamaicanos y el grupo blanco punk/vanguardista de Londres, y había muy pocos proyectos musicales que interactuaran directamente entre sí.
@@ -133,7 +133,7 @@ La participación de Mark Stewart reforzó la agitación.
 
 ## ■ “Pasos a paso de la Fundación” (1983)
 
-Es la canción más "reggae" de NAS, y la sensación de ritmo estable aumenta.
+Es la canción más "reggae" de NAS, con un sentido del ritmo más estable.
 Este trabajo también tiene fuertes temas sociopolíticos.
 
 ## ■ “Amor para siempre” (2012)
@@ -285,7 +285,7 @@ graph TD
 
 # Conclusión: New Age Steppers es música “actual”
 
-Aunque el trabajo se realizó hace más de 40 años, el sonido de New Age Steppers todavía suena nuevo hoy.
+Aunque fueron creados hace más de 40 años, el sonido de New Age Steppers sigue siendo nuevo hoy en día.
 Ésta es la premisa de la producción musical después de Internet.
 
 * Colaboración a través de fronteras
@@ -295,7 +295,7 @@ Aunque el trabajo se realizó hace más de 40 años, el sonido de New Age Steppe
 
 Se puede decir que NAS, que fue pionera en estas tendencias a principios de la década de 1980, es el prototipo de la música moderna.
 
-El sonido que dejaron atrás fue intenso, áspero, oscilante, saltarín y, a veces, destructivo, pero en esencia, se trataba de ser libre.
+Su sonido era intenso, áspero, oscilante, vivaz y, a veces, destructivo, pero en esencia se trataba de libertad.
 Esa libertad se sigue sintiendo en el trabajo de On-U Sound y en las escenas underground de todo el mundo.
 
 ---

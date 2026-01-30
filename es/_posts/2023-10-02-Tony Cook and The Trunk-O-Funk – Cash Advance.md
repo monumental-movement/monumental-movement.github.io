@@ -13,7 +13,7 @@ title: Tony Cook y The Trunk-O-Funk – Adelanto en efectivo
 ---
 
 
-The Trunk-O-Funk es la banda de TONY COOK, quien ha estado activo como baterista de la banda JAMES BROWN desde finales de los años 70. Una canción que presenta un ritmo house y funk moderno.
+The Trunk-O-Funk es la banda de TONY COOK, quien ha estado activo como baterista de la banda JAMES BROWN desde finales de los años 70. Una canción que presenta un groove house y funk moderno.
 
 #### Lista de canciones
 ```md

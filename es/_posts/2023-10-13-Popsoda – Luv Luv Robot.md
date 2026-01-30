@@ -13,7 +13,7 @@ title: Popsoda – Robot Luv Luv
 ---
 
 
-Popsoda es otro nombre para Technasia, la unidad de Amil Khan y Charles Siegling.
+Popsodaは、Amil Khan & Charles SieglingのユニットTechnasia（テクネジア）の別名義。
 
 La primera canción de la cara B es un remix de Takkyu Ishino de Denki Groove. La segunda pista de la cara B es un remix del DJ y productor de techno alemán Mijk Van Dijk.
 

@@ -41,7 +41,7 @@ color: #fff;
 </style>
 
 
-## Capítulo 1: Origen de los 8 bits: chip fuente de sonido de Famicom y Game Boy
+## Capítulo 1: Los orígenes de los 8 bits: chips fuente de sonido de Famicom y Game Boy
 
 ### 1-1. "Ricoh 2A03" que marcó el sonido de Famicom/NES
 
@@ -77,7 +77,7 @@ La Game Boy está equipada con una fuente de sonido CPU + PSG llamada **Sharp LR
 - Canal que le permite dibujar libremente formas de onda de 4 bits de 32 muestras
 - **Canal de ruido**
 
-La memoria de forma de onda es fundamental para la creatividad, e incluso en el Game Boy Chiptune moderno, este canal de onda se usa ampliamente para la generación de bajos, solistas, bombos y tonos únicos. El grosor de los graves es particularmente atractivo y es apreciado como un "tono similar al de Game Boy", incluido el ruido DAC peculiar del hardware.
+La memoria de forma de onda es el corazón de la creatividad, e incluso en el Game Boy Chiptune moderno, este canal de onda se usa ampliamente para bajos, solistas, bombos y generación de tonos únicos. El grosor de los graves es particularmente atractivo y es apreciado como un "tono similar al de Game Boy", incluido el ruido DAC peculiar del hardware.
 
 ---
 
@@ -108,7 +108,7 @@ El canal WAVE de Game Boy te permite crear formas de onda arbitrarias en lugar d
 
 ---
 
-## Capítulo 3: Cultura Tracker y producción de Chipune - LSDj / Nanoloop / Famitracker
+## Capítulo 3: Cultura de trackers y producción de Chiptune - LSDj / Nanoloop / Famitracker
 
 ### 3-1. ¿Qué es el rastreador?
 
@@ -200,7 +200,7 @@ Chiptune no se limita en modo alguno a una "reproducción de música de juegos",
 
 ---
 
-## Capítulo 7: Genealogía de Chiptune
+## Capítulo 7: Genealogía Chipune
 
 <div class="mermaid">
 flowchart TD

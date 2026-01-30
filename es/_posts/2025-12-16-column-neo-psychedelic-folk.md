@@ -208,7 +208,7 @@ Esta discrepancia no obstaculiza la inmersión, pero tiene el efecto de sostener
 
 ## Capítulo 15: Cruce de géneros y relaciones de influencia
 
-Neo-Psychedelic Folk ha interactuado con el dream pop, el pop experimental, el ambient y el post-rock. Sin embargo, la diferencia entre ellos radica en la simplicidad folklórica y la adherencia a la agrupación.
+Neo-Psychedelic Folk ha interactuado con el dream pop, el pop experimental, el ambient y el post-rock. Sin embargo, la diferencia entre ellos radica en la simplicidad folklórica y la adherencia al grupo.
 
 ---
 

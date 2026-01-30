@@ -27,14 +27,14 @@ Texto: mmr｜Tema: Relación cultural entre Inicial D y Eurobeat
 
 ### Música en marcha, sensación audible de aceleración.
 
-Desde finales de la década de 1990 hasta la década de 2000, un anime japonés cambió por completo la forma en que se veía y escuchaba la música eurobeat. Ese trabajo es "Inicial D." ¿Por qué el manga y el anime de carreras callejeras ambientados en pasos de montaña están tan fuertemente conectados con la música dance de alta velocidad de Europa?
+Desde finales de la década de 1990 hasta la década de 2000, un anime japonés cambió por completo la forma en que se veía y escuchaba la música eurobeat. Ese trabajo es "Inicial D". ¿Por qué el manga y el anime de carreras callejeras ambientados en pasos de montaña están tan fuertemente conectados con la música dance de alta velocidad de Europa?
 
 En esta columna, exploramos la relación cultural entre [Initial D](https://amzn.to/4mv0g7t) y Eurobeat desde las perspectivas de la historia de los medios, la historia de la música y la subcultura.
 
 
 <hora>
 
-### La historia del puerto de montaña y el espíritu.
+### Una historia de pasos de montaña y espíritus
 "Initial D" es un manga de Shuichi Shigeno que se ha serializado en "Weekly Young Magazine" desde 1995. La historia se desarrolla en un paso de montaña en la prefectura de Gunma, y ​​el personaje principal, Takumi Fujiwara, aprende habilidades para derrapar mientras reparte tofu en el AE86 de su padre (Toyota Sprinter Trueno), y poco a poco despierta como corredor.
 
 Se convirtió en anime en 1998 y se convirtió en un tema candente por su acción automovilística en 3D basada en CG y su música de alto ritmo.
@@ -106,7 +106,7 @@ El eurobeat se está reinterpretando de nuevas formas en los vídeos de TikTok y
 
 Como resultado, el eurobeat se convirtió en una música inusualmente "emocional" en Japón. En otras palabras:
 
-Eurobeat es música que habla de velocidad y, al mismo tiempo, se ha convertido en un medio que cuenta la historia de atravesar algo y perder algo.
+Eurobeat es música que habla de velocidad, pero al mismo tiempo se ha convertido en un medio que cuenta la historia de atravesar algo y perder algo.
 
 
 <hora>

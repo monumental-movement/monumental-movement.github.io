@@ -99,7 +99,7 @@ La guitarra y el bajo de Rotor se deslizan como una línea aerodinámica,
 La música ha hecho de "avanzar" un objetivo.
 
 ¡NUEVO! grabado en el estudio por falta de fondos.
-Girando la cinta al revés, cambiando la velocidad, cortando y pegando los sonidos,
+Gira la cinta hacia atrás, cambia la velocidad, corta y pega los sonidos,
 Sacudió la frontera entre "vida" y "máquina".
 
 > "Motorik es el sonido de la ``continuación humana'', no una máquina."
@@ -122,7 +122,7 @@ Crearon nueva música destruyendo por completo el "formato rock".
 dice el miembro **Jan Ermler**.
 "No creíamos en el rock. Lo único en lo que creíamos era en la 'cinta grabada'".
 
-La portada de su álbum debut de 1971, "Faust", estaba impresa en vinilo transparente para parecerse a un corazón palpitante.
+La portada de su álbum debut de 1971, “Faust”, estaba impresa en vinilo transparente para parecerse a un corazón palpitante.
 La música también estaba fragmentada.
 Las canciones no tienen melodía y son más como escuchar un programa de radio.
 Sin embargo, fue un desafío al marco mismo de la música pop.
@@ -130,14 +130,14 @@ Sin embargo, fue un desafío al marco mismo de la música pop.
 Estuvieron fuertemente influenciados por el arte pop y el dadaísmo.
 Las culturas punk, industrial y de muestreo que siguieron se basaron todas en los genes de Fausto.
 
-> "La destrucción es el comienzo de la creación".
+> “La destrucción es el comienzo de la creación”.
 > — Jan Ermler (Fausto)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MbMvXFZ-20E?si=fszGR2gPh979qz7h" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-## Capítulo 5: Kraftwerk - Los orígenes del tecno y la belleza inorgánica
+## Capítulo 5: Kraftwerk - Los orígenes del techno y la belleza inorgánica
 
 Dusseldorf.
 Las calles rectas y la textura fría de la ciudad industrial se convirtieron en música.

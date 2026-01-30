@@ -61,7 +61,7 @@ color: #fff;
 |------|--------------|----------|
 | Eres color natural | Eiichi Otaki | Monumento pop de la ciudad |
 | Brillo | Tatsuro Yamashita | Sonido urbano sofisticado |
-| Septiembre | Mariya Takeuchi | Pop ligero AOR |
+| septiembre | Mariya Takeuchi | Pop ligero AOR |
 | Número de teléfono | Miki Matsubara | Obras maestras reevaluadas en el extranjero |
 | Me encanta hablar | Tatsuro Yamashita | Fusión de elementos boogie |
 | Centro de la ciudad | Nena de azúcar | Origen del pop urbano |
@@ -88,7 +88,7 @@ color: #fff;
 - Multipista digital (ADAT, DAT)
 - Escribir usando Mac + Cubase
 
-### 10 canciones recomendadas (década de 1990)
+### 10 canciones recomendadas (años 90)
 
 | Título de la canción | Artista | Comentarios |
 |------|--------------|----------|

@@ -73,7 +73,7 @@ En el pop neofuturista, los sintetizadores y los tonos procesados ​​digitalm
 
 ### 3-2. Ritmo y estructura
 
-Los ritmos no están necesariamente orientados a la pista de baile y, a menudo, son fragmentados y asimétricos. Por otro lado, los estribillos y los motivos están claramente establecidos y conservan su memorabilidad como canciones pop.
+Los ritmos no están necesariamente orientados a la pista de baile y, a menudo, son fragmentados y asimétricos. Por otro lado, los estribillos y los motivos están claramente establecidos y conservan su memorabilidad como música pop.
 
 ### 3-3. Procesamiento vocal
 
@@ -147,7 +147,7 @@ Lo que FKA twigs y las obras de Arca tienen en común es un alejamiento de un pr
 
 ### 9-2. Construcción musical a partir del cuerpo.
 
-En las producciones de FKA twigs, la danza y el movimiento físico suelen ser la inspiración para las estructuras musicales. El ritmo refleja la tensión y la liberación del cuerpo y se manifiesta en fluctuaciones de tempo y pausas. Este es un método de composición impulsado por el cuerpo que difiere de la composición tradicional centrada en el ritmo.
+En las producciones de FKA twigs, la danza y el movimiento físico suelen ser la inspiración para las estructuras musicales. El ritmo refleja la tensión y la liberación del cuerpo y se manifiesta en las fluctuaciones de tempo y pausas. Este es un método de composición impulsado por el cuerpo que difiere de la composición tradicional centrada en el ritmo.
 
 ### 9-3. Distancia entre procesamiento acústico y emoción
 

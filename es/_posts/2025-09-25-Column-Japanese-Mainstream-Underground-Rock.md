@@ -103,13 +103,13 @@ flowchart TD
 |-------------|------|------|------|------|
 | Larry desnudo | Décadas de 1960 y 1970 | "En vivo 1972" | Trabajo de tablero de arranque legendario, psicodélico y ruidoso | [mercari](https://jp.mercari.com/item/m84819164983?afid=6142608987) |
 | Keiji Haino | Década de 1970 | “¿Watashi Dake?” (1973) | Un disco solista en solitario que va y viene entre el silencio y la explosión | [Amazon](https://amzn.to/4pJ0OJw) |
-| Cuchillo shonen | Década de 1980 | "Granja en llamas" (1983) | El inicio del pop punk, elogiado incluso en la escena indie extranjera | [Amazon](https://amzn.to/3Vycp0t) |
+| Cuchillo Shonen | Década de 1980 | "Granja en llamas" (1983) | El inicio del pop punk, elogiado incluso en la escena indie extranjera | [Amazon](https://amzn.to/3Vycp0t) |
 | BOWY | Década de 1980 | “SÓLO UN HÉROE” (1986) | El pico del boom de las bandas japonesas, un impulso callejero | [Amazon](https://amzn.to/3IBpnrk) |
 |
 | Aburrimientos | Década de 1990 | “Visión Creación Newsun” (1999) | Los extremos del ruido psicodélico, que inducen una experiencia similar al trance | [Amazon](https://amzn.to/4nGVs0l) |
 | Derretir-Plátano | Década de 1990 | “Cell-Scape” (1994/2003) | Sensación de núcleo de ruido/grind, popular en giras en el extranjero | [Amazon](https://amzn.to/4nX25vb) |
 | Templo de las Madres Ácidas | Años 2000 | “Universo Zen o de Cero a Cero” (2002) | Drones y diluvio psicodélico improvisado | [Amazon](https://amzn.to/4nh87Xm) |
-| Templo de las Madres Ácidas | Años 2000 | "La Novia" | Jam psicodélico espacial de Hajime Kawabata, una sensación de viaje épica | [Amazon](https://amzn.to/47XWVKz) |
+| Templo de las Madres Ácidas | Años 2000 | "La Novia" | Jam psicodélico espacial de Hajime Kawabata, una sensación de viaje épico | [Amazon](https://amzn.to/47XWVKz) |
 | Seiichi Yamamoto | Años 2000 | “Corona de Fuzzy Groove” (2002) | Una obra maestra solista donde conviven la experimentación y la melodía | [Amazon](https://amzn.to/4pJ0ESq) |
 | Lobo de guitarra | Años 2000 | "Generación Jet" (1999) | El álbum de rock'n'roll más ruidoso del mundo | [Amazon](https://amzn.to/4pIAlMg) |
 | RADWIMPS | Década de 2010 | "Tu nombre. Banda sonora" (2016) | Fusión de rock y producción de bandas sonoras, de la que se habla a nivel internacional | [Amazon](https://amzn.to/46Gp9XV) |
@@ -147,7 +147,7 @@ R5: [Memory Wharf ``Underwater Joe''](https://amzn.to/4pJINuQ), [el show en vivo
 
 ### resumen
 
-La historia del rock japonés ha evolucionado en paralelo con el frente "mainstream" y el "clandestino" detrás de escena. El linaje desde Naked Larry's hasta Guitar Wolf continúa en la era actual de la IA y continúa ampliando las posibilidades del rock. El rock japonés seguirá aportando "experimentación e impulso" a la escena musical mundial.
+La historia del rock japonés ha evolucionado en paralelo con la corriente principal en el frente y el underground en la retaguardia. El linaje desde Naked Larry's hasta Guitar Wolf continúa en la era actual de la IA y continúa ampliando las posibilidades del rock. El rock japonés seguirá aportando "experimentación e impulso" a la escena musical mundial.
 
 ---
 

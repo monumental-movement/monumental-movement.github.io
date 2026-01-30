@@ -22,7 +22,7 @@ Texto: mmr｜Tema: Centrándonos en Alvin Lucier y Christian Fennesz, organizare
 
 Desde el siglo XX, la música se ha alejado del marco del arte temporal centrado en la melodía y la armonía, y se ha expandido hacia un ámbito integral de expresión que incluye fenómenos físicos, el espacio y el propio medio de grabación. El arte instrumental y sonoro de vanguardia no es una forma que muestra la habilidad y la capacidad interpretativa de un instrumento, sino que presenta todo el proceso mediante el cual el sonido se genera, propaga, refleja, altera y percibe como una obra.
 
-En este ámbito, las obras musicales no se reducen necesariamente a partituras musicales, ni se asume la posibilidad de rejugabilidad. Más bien, el trabajo existe como un conjunto de condiciones, que producen resultados diferentes cada vez. Lo importante aquí, más que las intenciones del compositor, es la estructura misma, cómo se levanta el fenómeno acústico y se conecta con el espacio y la tecnología.
+En este ámbito, las obras musicales no se reducen necesariamente a partituras musicales, ni se asume la posibilidad de rejugabilidad. Más bien, el trabajo existe como un conjunto de condiciones, que producen resultados diferentes cada vez. Lo importante aquí, más que las intenciones del compositor, es la estructura misma, que es cómo surgen los fenómenos acústicos y se conectan con el espacio y la tecnología.
 
 ---
 
@@ -56,7 +56,7 @@ En el arte sonoro, la disposición espacial es más importante que el desarrollo
 
 ## Capítulo 2: Conceptos instrumentales de vanguardia
 
-### 2-1 Redefiniendo los instrumentos
+### 2-1 Redefinición de instrumentos musicales
 
 En la música instrumental de vanguardia, los instrumentos no tienen una forma fija. Los instrumentos existentes se amplían o modifican, o el entorno mismo se trata como un instrumento. Micrófonos, parlantes, resonadores y espacios arquitectónicos son componentes equivalentes.
 
@@ -72,7 +72,7 @@ El desempeño no se trata de demostrar habilidad física, sino más bien de esta
 
 Alvin Lucier es un compositor que sitúa el comportamiento físico de las ondas sonoras en el centro de sus obras. En sus obras, la manipulación intencional del compositor se mantiene al mínimo y los fenómenos acústicos se desarrollan de forma autónoma.
 
-En su obra maestra "Estoy sentado en una habitación", el audio recitado se reproduce y se vuelve a grabar repetidamente en el mismo espacio, enfatizando las frecuencias resonantes exclusivas de la habitación, hasta que el lenguaje desaparece. Este proceso muestra claramente cómo el sonido pasa de la información al fenómeno físico.
+En su obra más famosa, Estoy sentado en una habitación, al reproducir y volver a grabar repetidamente la palabra hablada en el mismo espacio, se enfatizan las frecuencias de resonancia exclusivas de la habitación y el lenguaje finalmente desaparece. Este proceso muestra claramente cómo el sonido pasa de la información al fenómeno físico.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bhtO4DsSazc?si=V4qjAe3Nm9Ow7ycC" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 

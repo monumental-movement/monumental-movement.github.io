@@ -19,7 +19,7 @@ title: '[Columna] DMC World DJ Championship: La trayectoria del turntablismo con
 
 # DMC World DJ Championship——Historia mundial del turntablismo
 
-Texto: mmr｜Tema: Historia del Campeonato Mundial de DJ DMC, innovación tecnológica, crowdfunding, cambios en el campeonato mundial, logros de los jugadores japoneses, cultura del equipamiento, Turntablism
+Texto: mmr｜Tema: Historia del Campeonato Mundial de DJ DMC, innovación tecnológica, crowdfunding, historia del campeonato mundial, logros de los jugadores japoneses, cultura del equipamiento, Turntablism
 
 Conocido como una de las batallas de DJ más grandes del mundo, el **DMC World DJ Championship (en adelante, DMC)** ha progresado con el crecimiento de la cultura del turntablismo desde sus inicios en 1985.
 El proceso por el cual las técnicas de DJ de hip-hop se volvieron independientes como una "expresión musical" y se institucionalizaron aún más como una "competencia mundial" es una historia única, sin paralelo a cualquier otro género.
@@ -100,7 +100,7 @@ A mediados de la década de 2000, cuando **DVS (Digital Vinyl System)** se hizo 
 En 2006, se permitió el uso de DVS en varios formatos, y el torneo, que anteriormente se había limitado a analógico, adoptó el estilo de "manipular fuentes de sonido digitales con un tocadiscos".
 
 Esto resulta en
-- Utilice libremente fuentes de sonido originales.
+- Utilice libremente sus propias fuentes de sonido editadas
 - Amplía enormemente la gama de configuraciones de rutina
 - Mayor juego de tonos y expresión melódica.
 Esta evolución se está produciendo.
@@ -114,7 +114,7 @@ Alrededor de 2011, se introdujo un **Campeonato de DJ en línea** a través de Y
 
 ## 5-1　El poder de la comunidad que apoyó la continuación del torneo
 Si bien DMC es un torneo de clase mundial, no es una organización comercialmente grande y siempre ha enfrentado desafíos financieros.
-Particularmente a finales de la década de 2010, a medida que aumentaba la carga de los costos operativos, DMC llevó a cabo **crowdfunding** varias veces dirigida a los fanáticos y a la comunidad de DJ.
+En particular, a finales de la década de 2010, a medida que aumentaba la carga de los costos operativos, DMC llevó a cabo **crowdfunding** varias veces dirigida a los fans y a la comunidad de DJ.
 
 ### Hechos principales
 - La **Fundación DMC** llevó a cabo un proyecto de recaudación de fondos y se asignaron fondos para la continuación del torneo.
@@ -149,7 +149,7 @@ La historia de DMC es también la **historia técnica del turntablismo**.
 - Juego melódico
 - Juego de tonos
 
-Estas innovaciones tecnológicas llevarán a los DJ a ganar una posición similar a la de los "creadores de ritmos" y los "compositores".
+Estas innovaciones tecnológicas llevarán a los DJ a ganar una posición similar a la de los "creadores de ritmos" y "compositores".
 
 ## 6-2 División y conjunto del equipo
 Como demuestran C2C (Francia), Kireek (Japón), The Mixfitz (Canadá), etc., la categoría por equipos es más que una simple exhibición de habilidades scratch;
@@ -183,14 +183,14 @@ Esto acelerará un nuevo estilo de DJ que combina DVS y analógico.
 # Capítulo 8 Movimiento global que apoya a DMC
 
 ## 8-1 Institucionalización de las eliminatorias regionales
-DMC estableció el flujo de preliminares nacionales → campeones nacionales → campeonatos mundiales, creando las bases para que la escena de cada país se desarrolle de forma independiente.
+DMC estableció el flujo de preliminares nacionales → campeones nacionales → torneo mundial, creando las bases para que la escena de cada país se desarrolle de forma independiente.
 
 ## 8-2 Impacto en la educación/escuelas
 El turntablismo existe desde la década de 2000.
 - Escuela de DJ
 - Taller
 - Departamento Universitario de Música y Medios
-Ha llegado a ser reconocido como un género musical más que simplemente una técnica de club.
+También se incorporó al club y llegó a ser evaluado como un género musical más que simplemente una técnica de club.
 
 ---
 

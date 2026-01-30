@@ -51,7 +51,7 @@ Waajeed (nombre real Robert O'Bryant) nació en Detroit a finales de los años 1
 El nombre del artista es de origen árabe y proviene de una palabra que significa "encontrar" o "descubrir".
 
 Desde temprana edad, creció en un ambiente influenciado por la **cultura soul/evangelio de Detroit**, y más tarde entró en contacto con Slum Village.
-A finales de los 90 y principios de los 2000, Detroit estaba creando un nuevo estándar para el neo-soul/hip-hop, simbolizado por J Dilla. A la vanguardia de este campo, Waajeed se dedicó a la producción musical y al mismo tiempo trabajaba como fotógrafo.
+A finales de los 90 y principios de los 2000, Detroit estaba creando un nuevo estándar para el neo-soul/hip-hop, simbolizado por J Dilla. Waajeed estuvo a la vanguardia de este campo y, mientras trabajaba como fotógrafo, se dedicó a la producción musical.
 
 ### **● Relación con Slum Village**
 
@@ -118,14 +118,14 @@ Lanzado en 2017, **Shango EP** fue un punto de inflexión significativo en la ca
 
 El título **“Shango”** es una deidad que aparece en la religión tradicional de África Occidental y es un símbolo que conecta la espiritualidad de la diáspora afro con la historia de la música negra.
 
-En este EP, Waajeed:
+Sobre este EP Waajeed:
 
 * Estructura de ritmo house/techno de Detroit.
 * percusión afro
 * Llamada Espiritual Negra
 * Naturaleza ritual de sonidos y ritmos crudos.
 
-Claramente dirigió a la banda hacia "representar el house/techno como un regreso al espíritu del arte negro" al fusionarlos.
+Claramente dirigió a la banda hacia "representar el house/techno como un regreso al espíritu del arte negro".
 
 **En lugar de ser una extensión de la era del PPP y el hip-hop, este trabajo presentó una nueva fase de la música de Detroit** y recibió grandes elogios en todo el mundo.
 
@@ -216,10 +216,10 @@ La técnica de combinar naturalmente sintetizadores, pads, piano eléctrico, bat
 
 * **PPP『Triple P』(2005)**
 * **PPA『Abundancia』(2009)**
-* **“La Guerra LP” (2012)**
+* **『La Guerra LP』(2012)**
 * **『Shangó EP』(2017)**
 * **『De la tierra』 (2017)**
-* **“Diez dedos de los pies abajo EP” (2018)**
+* **『Diez dedos de los pies hacia abajo EP』(2018)**
 * **“Madre” (2022)**
 
 ---

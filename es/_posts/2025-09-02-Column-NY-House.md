@@ -137,7 +137,7 @@ Después de la pandemia, el streaming online y los clubes virtuales se han popul
 - **Garaje Paraíso (1977–1987)**
 La legendaria casa de Larry Levan. El punto de partida de NY House.
 
-- **El Desván**
+- **El desván**
 Presentado por David Mancuso. El origen de la cultura de las fiestas privadas.
 
 - **Fábrica de sonido (1989–1995)**
@@ -147,7 +147,7 @@ Junior Vásquez es residente. Simboliza la época dorada del house vocal en los 
 Timmy Regisford es conocido por su juego espiritual.
 
 - **Cielo/Salida (décadas de 2000 a 2010)**
-Club de nueva generación de Brooklyn. La herencia de la música profunda y conmovedora.
+Club de nueva generación de Brooklyn. Un lugar de herencia profunda y conmovedora.
 
 ---
 

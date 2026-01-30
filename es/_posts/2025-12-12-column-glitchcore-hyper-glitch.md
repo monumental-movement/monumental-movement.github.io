@@ -47,7 +47,7 @@ color: #fff;
 
 La idea misma de glitch se remonta a la estética presentada por la electrónica a finales de los años 1990 (Oval, Alva Noto, Ryoji Ikeda, etc.). Trató los errores de lectura de CD y las fallas de las señales digitales como materiales musicales, y citó activamente la "estética del fracaso".
 
-La música glitch de esta época era más experimental, con énfasis en la textura, el espacio y la estructura más que en el ritmo. Por otro lado, el Glitchcore posterior se diferencia decisivamente en que está fuertemente conectado con el pop popular y la cultura de Internet.
+La música glitch de esta época era más experimental, con énfasis en la textura, el espacio y la estructura más que en el ritmo. Por otro lado, el Glitchcore posterior fue definitivamente diferente en que estaba fuertemente conectado con el pop popular y la cultura de Internet.
 
 ---
 
@@ -76,7 +76,7 @@ Los BPM de Glitchcore no son fijos y, a menudo, fluctúan en un amplio rango de 
 **Elementos característicos:**
 
 * Cambios de tempo extremos
-* Edición que de repente pasa a otra canción en medio de la canción.
+* Edición que de repente cambia a una canción diferente en medio de una canción.
 * Ganchos cortos y melodías fragmentadas.
 *Céntrese en ganchos fuertes de 15 a 30 segundos para TikTok
 
@@ -192,7 +192,7 @@ punto:
 
 * Cocción simultánea de tallos.
 * Superposición de capas densas
-* Demasiados graves
+* Rango bajo excesivo
 * Uso extremo de limitadores de presión sonora.
 
 ---
@@ -288,7 +288,7 @@ La versión acelerada de las canciones popularizadas en TikTok tiene una gran af
 
 ---
 
-### 9-2 Enfoque entre voces AI y Glitchcore
+### 9-2 Enfoque de voces AI y Glitchcore
 
 La síntesis de voz para cantar y la generación de voz de personajes usando IA son una extensión de la "voz no humana" de Glitchcore.
 La fluctuación del tono y la falta de naturalidad de las voces de la IA son estéticamente aceptables.

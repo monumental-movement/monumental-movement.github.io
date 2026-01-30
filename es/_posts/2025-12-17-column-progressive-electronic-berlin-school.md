@@ -84,7 +84,7 @@ El elemento más distintivo de la Escuela de Berlín es el patrón de sonido rep
 
 Mientras que la música pop y rock tradicional se basa en estructuras de canciones que duran varios minutos, no es raro que una sola canción en la música de la Escuela de Berlín dure más de 20 minutos. Esta es una forma posible gracias al desarrollo de la interpretación de improvisación y la tecnología de grabación.
 
-### Diseño de sonido
+### Diseño de tono
 
 La inestabilidad y fluctuación de los sintetizadores analógicos se convirtieron en parte de la estética sonora de la Escuela de Berlín. Las pequeñas desviaciones causadas por cambios de temperatura y fluctuaciones de voltaje dan un aspecto orgánico a la repetición mecánica.
 
@@ -158,7 +158,7 @@ A partir de finales de los años 1970, los compositores de la Escuela de Berlín
 
 El método de música de cine de la Escuela de Berlín se caracteriza por su énfasis en la formación espacial en lugar de la música impulsada por la melodía. Más que ilustrar una historia, la música desempeña un papel en la construcción de un entorno físico y psicológico.
 
-Esta práctica fue heredada por la música electrónica posterior orientada al diseño sonoro y ambiental cinematográfico.
+Esta práctica fue heredada en la música electrónica posterior orientada al diseño sonoro y al ambiente cinematográfico.
 
 ---
 
@@ -168,7 +168,7 @@ Para comprender con precisión la Escuela de Berlín es necesario organizar cron
 
 ### Antes de Kraftwerk
 
-Antes de Kraftwerk, la Escuela de Berlín hacía hincapié en la improvisación y las formas largas. El ritmo es fluido y la pieza se percibe como una transición más que como una progresión. En esta etapa, la música electrónica era una forma de escapar del rock y también una liberación de la música electrónica académica.
+Antes de Kraftwerk, la Escuela de Berlín hacía hincapié en la improvisación y las formas largas. El ritmo es fluido y la pieza se percibe como una transición más que como una progresión. En esta etapa, la música electrónica era una forma de escapar del rock y de la música electrónica académica.
 
 ### Después de Kraftwerk
 
@@ -183,7 +183,7 @@ Esta divergencia, como diferenciación entre techno/synthpop y ambient/dron, dio
 * Década de 1950 Establecimiento de un estudio académico de música electrónica.
 * Década de 1960: Popularización de los sintetizadores modulares.
 * 1967 Se forma Tangerine Dream
-* Principios de los años 1970: Establecimiento del método de composición de la Escuela de Berlín.
+* Principios de los años 1970: Establecimiento del método de composición de la Escuela de Berlín
 * Finales de los años 1970: Desarrollo en el campo de la música de cine.
 * Década de 1980, rama de la música electrónica después de Kraftwerk.
 * Desde la década de 2000: reevaluación modular y resurgimiento de la cultura de la improvisación.

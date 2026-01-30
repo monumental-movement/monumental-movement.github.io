@@ -15,7 +15,7 @@ title: '[Columna] DJ Harvey y la colección de discos: DJ como cuerpo que vive e
 ---
 
 
-## Prólogo: La mítica estatua de DJ Harvey
+## Prólogo: Los mitos de DJ Harvey
 
 
 Texto: mmr｜Tema: No sólo un DJ, sino una consideración del último “chamán” de la era analógica
@@ -211,7 +211,7 @@ pie title DJ Harvey's Vinyl Box Composition
 
 **Explicación**:
 La caja de discos de Harvey es un archivo orgánico basado en la mezcla de géneros.
-Lo que llama la atención es que "Rock" y "House" están colocados por igual.
+Lo que llama la atención es que "Rock" y "House" están colocados en el mismo lugar.
 Esto simboliza el hecho de que es un DJ que siempre conecta con vibraciones, no con géneros.
 La tragamonedas "Rarezas" es el arma secreta de Harvey. Se activa durante las horas nocturnas y en la configuración del amanecer.
 

@@ -135,7 +135,7 @@ Género: Techno alemán / Compilación
 
 Resumen: edición de 1999. Una colección clásica que ofrece una visión panorámica del "techno profundo".
 
-Sentimiento fuera de la ley: Una peregrinación al lado oscuro de la ciudad del sonido, combinando múltiples sonidos fuera de la ley en forma de recopilación.
+Sentimiento fuera de la ley: una peregrinación al lado oscuro de la ciudad del sonido, combinando múltiples sonidos fuera de la ley en forma de recopilación.
 
 #### Lista de canciones
 ```md
@@ -170,7 +170,7 @@ Formato: Vinilo
 
 Género: Ácido / Techno / Trance
 
-Resumen: Publicado en 1992, una gran recopilación de los primeros años de Tresor. Una pieza histórica que encarna los "ecos de familia".
+Resumen: Publicado en 1992, una gran recopilación de los primeros días de Tresor. Una pieza histórica que encarna los "ecos de familia".
 
 
 Sentimiento de forajido: Recuerdos de improvisación de comunidades urbanas y luchas oscuras que abarcan el nacimiento de la escena.

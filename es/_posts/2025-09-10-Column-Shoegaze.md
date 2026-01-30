@@ -87,7 +87,7 @@ color: #fff;
 - **Efector**: Digitech Whammy, Yamaha SPX90, Boss CE-2 Chorus
 - **Tecnología de grabación**: construcción de un "muro de sonido" mediante grabación múltiple en capas
 
-### 10 canciones recomendadas (década de 1990)
+### 10 canciones recomendadas (años 90)
 
 | Título de la canción | Artista | Comentarios |
 |------|--------------|----------|
@@ -174,7 +174,7 @@ A veces | Siempre | JAMC y Esperanza Sandoval | La línea entre el ruido y el po
 ### Antecedentes históricos
 - La reevaluación se está acelerando en todo el mundo.
 - También es popular entre las generaciones más jóvenes debido a su difusión a través de festivales y streaming.
-- Las técnicas del Shoegaze también están ligadas al K-POP y a la revalorización del city pop japonés.
+- Las técnicas del Shoegaze también están ligadas al K-POP y a la revalorización del pop urbano japonés.
 
 ### Obras maestras representativas
 - [Nada – *The Great Dismal* (2020)](https://amzn.to/4nNNmm8)

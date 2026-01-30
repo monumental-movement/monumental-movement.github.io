@@ -155,7 +155,7 @@ flowchart TD
 
 ---
 
-## 4. Características de producción
+## 4. Características de la producción.
 
 La producción de Modern Soul/Contemporary Funk es una fusión perfecta de DAW y música en vivo.
 

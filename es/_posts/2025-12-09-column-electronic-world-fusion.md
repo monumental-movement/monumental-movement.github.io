@@ -21,7 +21,7 @@ title: '[Columna] Electronic World Fusion: El punto donde se cruzan la acústica
 
 Texto: mmr｜Tema: Desde los orígenes de Electronic World Fusion hasta sus aspectos técnicos, obras representativas, características regionales y significado contemporáneo.
 
-En la segunda mitad del siglo XX, la música electrónica se desarrolló en torno a sintetizadores y samplers, pero al mismo tiempo la música tradicional de todo el mundo comenzó a entrar en la cultura pop occidental. Electronic World Fusion es un área donde los dos están completamente conectados y es un género poco común donde la historia, la cultura y la ideología de la tecnología y la música folclórica se cruzan.
+En la segunda mitad del siglo XX, la música electrónica se desarrolló en torno a sintetizadores y samplers, pero al mismo tiempo la música tradicional de todo el mundo comenzó a entrar en la cultura pop occidental. Electronic World Fusion es un área en la que ambos están completamente conectados y es un género poco común donde se cruzan la historia, la cultura y la ideología de la tecnología y la música folclórica.
 
 Los artistas representativos incluyen **Nitin Sawhney**, que incorpora música clásica india y temas sociales, y **Thievery Corporation**, que fusiona downtempo con diversos elementos musicales de América Latina, Medio Oriente y Asia.
 
@@ -57,7 +57,7 @@ En las décadas de 1980 y 1990, con la difusión de los samplers, se incorporaro
 
 ### 2-1 Nitin Sawhney: Representando una sociedad multicultural a través del sonido
 
-Compositor y multiinstrumentista británico. Es conocido por sus obras que fusionan la música clásica india, la acústica electrónica, las cuerdas y el jazz.
+Compositor y multiinstrumentista británico. Es conocido por sus obras que combinan la música clásica india con la acústica electrónica, las cuerdas y el jazz.
 
 #### Funciones musicales
 
@@ -197,7 +197,7 @@ Existe un movimiento creciente para incorporar elementos de la música mundial a
 
 ### 7-2 Herencia del ambiente
 
-Los drones de instrumentos folclóricos, los sonidos sostenidos de múltiples capas y las grabaciones de entornos naturales se incorporan ampliamente a las obras ambientales.
+En las obras ambientales se utilizan ampliamente drones de instrumentos folclóricos, sonidos sostenidos de múltiples capas y grabaciones de entornos naturales.
 
 ### 7-3 Manejo de la música regional en la era de la IA
 
@@ -211,7 +211,7 @@ En los tiempos modernos, el análisis y la generación de fuentes de sonido util
 
 * ¿Deberíamos utilizar ritmos étnicos tal como son?
 * ¿Debería sincronizarse con tiempos electrónicos de 4/4?
-* La impresión cambia mucho dependiendo de cuánto procesamiento se realice.
+* La impresión cambia mucho según el grado de procesamiento.
 
 ### 8-2 Tratamiento de escalas y modos
 
@@ -288,7 +288,7 @@ flowchart TD
 
 ### ◆ Década de 1990: el surgimiento del downtempo y la fusión integrada
 
-* Trip-hop/downtempo combina bien con la atmósfera de la música folk
+* Trip-hop/downtempo va bien con la atmósfera de la música folk
 * Nitin Sawhney, Talvin Singh, Transglobal Underground y otros desempeñan papeles clave en el Reino Unido.
 * Thievery Corporation traduce elementos latinoamericanos y de Medio Oriente a contextos electrónicos urbanos.
 

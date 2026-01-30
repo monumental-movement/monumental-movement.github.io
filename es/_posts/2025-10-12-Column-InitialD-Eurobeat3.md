@@ -51,7 +51,7 @@ color: #fff;
 
 ## 1. Del “pase” a la “órbita”: la gradación del espacio musical trazada por Eurobeat
 
-Como se mencionó en los dos trabajos anteriores, el Eurobeat en Initial D era inseparable de la historia de Toge.
+Como se mencionó en los dos trabajos anteriores, el Eurobeat en Initial D fue inseparable de la historia de Touge.
 Sin embargo, no fue sólo una ayuda para el terreno y la producción visual, sino un **dispositivo que traducía la distorsión del tiempo en sonido**.
 
 Ahora, mirando hacia atrás, podemos decir que el eurobeat era un género que visualizaba acústicamente el "tiempo interno de un cuerpo en funcionamiento".
@@ -146,7 +146,7 @@ La era en la que "tu conducción se convierte en la canción" ya está empezando
 
 ### ● Resurgimiento del Eurobeat desde las redes sociales
 
-En TikTok y YouTube, el número de publicaciones que combinan "Eurobeat x tu propio vídeo de conducción" ha aumentado explosivamente.
+En TikTok y YouTube, el número de publicaciones que combinan "Eurobeat x vídeo de conducción propia" ha aumentado explosivamente.
 No son sólo nostalgia, sino que funcionan como un "nuevo formato para compartir la sensación de conducir".
 Es, por así decirlo, un "medio de velocidad compartida".
 

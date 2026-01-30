@@ -122,7 +122,7 @@ El rápido crecimiento ha sido notable en los últimos años.
 - Alta calidad de sonido
 - Rapidez de adaptación a géneros
 
-En particular, los puntos fuertes de Japón son la "precisión del sonido", la "capacidad de composición" y la "compatibilidad con las imágenes y la producción".
+En particular, los puntos fuertes de Japón incluyen la "precisión del sonido", la "capacidad de composición" y la "compatibilidad con las imágenes y la producción".
 
 ---
 
@@ -157,7 +157,7 @@ La característica es que
 - Diseño de sonido que combina voz y looper.
 - Equilibrio de melodía, acordes y línea de bajo.
 
-El "enfoque del compositor" es fuerte.
+El "enfoque del compositor" es sólido.
 
 ### ● SO-SO características técnicas
 - Voz sintética
@@ -264,7 +264,7 @@ Podemos esperar que continúe activo tanto en Loopstation como en solitario.
 
 # Conclusión - Human Beatbox como cultura
 
-Human Beatbox es una cultura de expresión moderna que combina muchos aspectos como música, interpretación, vídeo y composición.
+Human Beatbox es una cultura expresiva moderna que combina muchos aspectos como música, interpretación, vídeo y composición.
 Ahora que la cultura de la competencia está madurando, la tecnología está evolucionando y los artistas japoneses están surgiendo, el beatboxing está experimentando cambios importantes y el beatboxing se está convirtiendo en algo más que una simple técnica: se está convirtiendo en un género musical internacional.
 
 Espero que este artículo te ayude a comprender la historia y el futuro del beatboxing.

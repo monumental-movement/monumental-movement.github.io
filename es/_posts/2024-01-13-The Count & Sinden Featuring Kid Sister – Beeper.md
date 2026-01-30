@@ -20,7 +20,7 @@ Sinden & Count Of Monte Cristal es el dúo de Graeme Sinden y Joshua Harvey.
 
 “Beeper” es un tema que destaca por su espíritu libre en la música electrónica, y también se siente como un retroceso al speed garage de finales de los 90.
 
-Puede que sea una de las mutaciones efímeras del garage británico, pero aún así tiene una fuerte influencia.
+Una de las mutaciones efímeras del garage británico, que todavía tiene una fuerte influencia.
 
 #### Lista de canciones
 ```md

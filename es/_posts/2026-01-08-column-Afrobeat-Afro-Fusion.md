@@ -21,7 +21,7 @@ title: '[Columna] Afrobeat / Afro-Fusion - Cambios estructurales y expansión gl
 Texto: mmr｜Tema: El hecho de que el afrobeat se desarrolló en torno a la cultura viva de Nigeria, cómo la afrofusión llegó a utilizarse en un entorno de producción y distribución transfronterizo, y la historia de la industria musical y los movimientos de la diáspora.
 
 
-El afrobeat y la afrofusión son culturas musicales que se originaron en África occidental, particularmente en Nigeria y Ghana. Aunque a menudo se confunden los dos, tienen diferentes antecedentes históricos, estructuras musicales y roles sociales. Este artículo organiza la historia desde el establecimiento del Afrobeat hasta el desarrollo de la Afro-Fusión, basándose únicamente en hechos verificables, y describe de manera integral los cambios en las características musicales, las técnicas de producción, el contexto social y la recepción internacional.
+El afrobeat y la afrofusión son culturas musicales que se originaron en África occidental, particularmente en Nigeria y Ghana. Aunque a menudo se confunden los dos, tienen diferentes antecedentes históricos, estructuras musicales y roles sociales. Este artículo organiza la historia desde el establecimiento del Afrobeat hasta el desarrollo de la Afro-Fusión basándose únicamente en hechos verificables y describe de manera integral los cambios en las características musicales, las técnicas de producción, el contexto social y la recepción internacional.
 
 > "Este artículo evita la evaluación y la interpretación subjetiva y se compone únicamente de información basada en materiales históricos, testimonios y hechos históricos registrados."
 

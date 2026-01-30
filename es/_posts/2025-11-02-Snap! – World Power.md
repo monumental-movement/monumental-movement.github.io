@@ -22,7 +22,7 @@ title: ¡Quebrar! – Potencia mundial
 
 
 
-El álbum debut del proyecto alemán de eurodance Snap!, lanzado por Logic Records en 1990. La obra maestra de Snap!, que incluye las exitosas canciones "The Power", "Ooops Up" y "Mary Had A Little Boy".
+El álbum debut del proyecto alemán de eurodance Snap!, lanzado por Logic Records en 1990. La obra maestra de Snap!, que incluye canciones exitosas como "The Power", "Ooops Up" y "Mary Had A Little Boy".
 
 #### Lista de canciones
 ```md

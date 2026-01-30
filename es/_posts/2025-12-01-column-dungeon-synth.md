@@ -65,7 +65,7 @@ Como resultado, la música a menudo se describe como "una banda sonora sin pelí
 
 ---
 
-## ■ 2. Historia – desde los primeros tiempos hasta nuestros días
+## ■ 2. Historia ─ Desde los primeros tiempos hasta nuestros días
 
 A continuación, resumiremos las tendencias importantes desde el nacimiento del género hasta la actualidad.
 
@@ -101,7 +101,7 @@ Durante este período, en paralelo con el Black Metal atmosférico, aumentaron e
 El período más importante cuando el género creció rápidamente.
 
 - **Torre Vieja (Países Bajos)**
-Con su estilo majestuoso y en capas, juega un papel central en el Dungeon Synth moderno.
+Con su majestuoso estilo en capas, juega un papel central en el Dungeon Synth moderno.
 - **Thangorodrim (Portugal)**
 Representando la sensación de baja fidelidad temprana y la cosmovisión de fantasía clásica.
 - **Feudo (EE.UU.)**
@@ -157,7 +157,7 @@ Muchos artistas buscaron la sensación de las consolas de juegos y los teclados 
 Pianos GM, coros Aahs, cuerdas, pads, etc. La baratura y la nostalgia se tratan como valores.
 
 ### ■ Sintetizador suave
-En los tiempos modernos, se suele utilizar lo siguiente:
+En los tiempos modernos, se utilizan comúnmente los siguientes:
 
 - **VST sin DSK**
 - DSK ChoirZ, DSK Strings, etc.
@@ -203,7 +203,7 @@ Agregar una rugosidad de aproximadamente 8 a 12 bits mejorará la sensación de 
 De hecho, muchos artistas graban sus canciones en casetes.
 
 ### ■ Procesamiento de ecualización
-- **Eliminar graves (por debajo de 100 Hz)** → Hacia una sensación monoaural/de equipo antiguo
+- **Eliminar bajos (por debajo de 100 Hz)** → Hacia textura monoaural/equipo antiguo
 - **Elimina las frecuencias altas (por encima de 6-8kHz)** → Elimina el olor digital
 
 ### ■ Reverberación
@@ -268,8 +268,8 @@ La influencia visual es extremadamente grande y juega un papel para complementar
 
 ## ● Segunda ola (2010-2015)
 - **Murgrind**
-- **Erang** (produce muchas obras con fantasía medieval como tema)
-- **Fortaleza secuestrada**
+- **Erang** (produce muchas obras con la fantasía medieval como tema)
+- **Torre del Castillo Secuestrado**
 
 ## ● Tercera ola (2016-2023)
 - **Torre Vieja (Países Bajos)**
@@ -277,7 +277,7 @@ La influencia visual es extremadamente grande y juega un papel para complementar
 - **Feudo (EE.UU.)**
 
 ## ● Hoy en día (2024–)
-- Importante multinacionalización y fragmentación.
+- Importante multinacionalización y segmentación.
 Se han incrementado temas como Bosque / Invierno / Heroico / Sinte cósmico.
 
 ---
@@ -315,7 +315,7 @@ A continuación se muestra un plan para crear una canción.
 
 # ■ 9. Importancia cultural de Dungeon Synth
 
-Dungeon Synth es un tipo poco común de música que combina la intensa visión del mundo del black metal con la tranquilidad de la música ambiental, y es una cultura que aspira a "construir un mundo interior".
+Dungeon Synth es un tipo raro de música que combina la intensa visión del mundo del black metal con la tranquilidad del ambiente, y es una cultura que aspira a "construir un mundo interior".
 
 - Los creadores individuales tejen sus propias historias sin depender de escenas a gran escala.
 - Fuertemente ligado a la estética de la literatura fantástica, los TRPG y la música de juegos.

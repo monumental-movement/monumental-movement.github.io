@@ -19,7 +19,7 @@ title: '[Columna] Plastikman | Richie Hawtin - Las profundidades del minimalismo
 
 Texto: mmr｜Tema: Reflexiones sobre cómo Plastikman, que heredó el espíritu de la segunda generación del techno de Detroit, despojó el sonido hasta el límite y lo sublimó hasta convertirlo en un arte que permite escuchar la "reverberación" del ritmo mismo.
 
-Richie Hawtin ha estado redefiniendo el "techno" desde principios de la década de 1990, no sólo como música de baile, sino como un "dispositivo de meditación sonora". Sus obras bajo el nombre de Plastikman, particularmente ``_Sheet One_'' (1993) y ``_Consumed_'' (1998), son **un experimento para visualizar el espacio interno del cuerpo humano usando sonido electrónico**. El sonido, que se asemeja a un líquido frío, también se llama "escultura abstracta de sonido".
+Richie Hawtin ha estado redefiniendo el "techno" desde principios de la década de 1990, no sólo como música de baile, sino como un "dispositivo de meditación sonora". Sus obras bajo el nombre de Plastikman, particularmente ``_Sheet One_'' (1993) y ``_Consumed_'' (1998), son **experimentos de visualización del espacio interno del cuerpo humano con sonido electrónico**, y el sonido, que se asemeja a un líquido frío, también se llama "escultura abstracta de sonido".
 
 
 
@@ -47,7 +47,7 @@ Hawtin fue influenciado por el **espíritu que reside en los ritmos mecánicos**
 ---
 
 ## Capítulo 2: El nacimiento de Plastikman - Restos ácidos y tecnointrospección
-En 1993, se lanzó "_Sheet One_". El sonido tradicional del acid house TB-303 se ha blanqueado al extremo, creando un espacio acústico que suena como **latidos del corazón y señales nerviosas**. Más bien, el silencio que flota entre los sonidos puede ser escuchado como el personaje principal.
+En 1993, se lanzó "_Sheet One_". El sonido tradicional del acid house TB-303 se ha blanqueado hasta el límite, creando un espacio acústico que suena como **latidos del corazón y señales nerviosas**. Más bien, el silencio que flota entre los sonidos puede ser escuchado como el personaje principal.
 
 Luego, en 1994, se lanzó el álbum [``_Musik_''] del sello NovaMute (https://monumental-movement.jp/Plastikman-Musik). Este es el tercer álbum de estudio de Richie Hawtin y el segundo bajo su nombre Plastikman.
 
@@ -127,7 +127,7 @@ La verdadera filosofía de Plastikman es su continua transformación de la músi
 
 ### 1. Presentación de DE9
 En 2001, Plastikman lanzó DE9: Closer to the Edit.
-Las mezclas de DJ tradicionales se basan en el orden de las pistas y los fundidos, pero aquí Hawtin utiliza edición y reestructuración a nivel de forma de onda.
+Las mezclas tradicionales de DJ se basan en el orden de las pistas y los fundidos, pero aquí Hawtin utiliza edición y reestructuración a nivel de forma de onda.
 Al dividir cada pista en pequeñas muestras y reorganizar los pulsos mínimos, creamos una línea de tiempo de música dance completamente nueva.
 
 ### 2. Innovación tecnológica

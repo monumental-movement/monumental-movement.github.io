@@ -204,13 +204,13 @@ Los parches totalmente autónomos presentan cambios impredecibles a lo largo del
 
 ### Sonidos sostenidos en un entorno en vivo.
 
-En la actuación en vivo de drones modulares, la propia longitud temporal se convierte en un componente. No es necesario que el desarrollo se lleve a cabo en un corto período de tiempo, y se comparte el proceso por el cual el espacio acústico cambia gradualmente de calidad.
+En la actuación en vivo de drones modulares, la propia longitud temporal se convierte en un componente. No es necesario que el desarrollo se produzca en un corto período de tiempo, y se comparte el proceso por el cual el espacio acústico cambia gradualmente de calidad.
 
 La presencia de parches y cables visualmente expuestos enfatiza los aspectos instrumentales de cómo se produce el sonido.
 
 ### Compatibilidad con el espacio expositivo
 
-El sonido sostenido tiene una gran afinidad con las galerías y espacios de instalación. Los visitantes no necesitan entrar y salir del espacio acústico en ningún momento para escuchar todo. Los drones modulares tienen una estructura que puede soportar una escucha fragmentada.
+El sonido sostenido tiene una gran afinidad con las galerías y espacios de instalación. Los visitantes no tienen que entrar y salir del espacio acústico en ningún momento para escucharlo completo. Los drones modulares tienen una estructura que puede soportar incluso una escucha fragmentada.
 
 ---
 

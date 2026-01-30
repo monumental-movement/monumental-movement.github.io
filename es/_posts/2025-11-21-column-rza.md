@@ -290,7 +290,7 @@ RZA no es sólo un productor, sino también un pensador, promotor cultural y com
 * **Creatividad**: La fusión del sampleo, la reconstrucción y la filosofía musical
 * **Ideología**: reflejo del zen, el kung fu y la crítica social en la música
 * **Formación de comunidad**: Red dentro y fuera de Wu-Tang Clan
-* **Desarrollo de Medios**: Música, películas, libros, actividades educativas.
+* **Desarrollo de medios**: música, películas, libros, actividades educativas.
 
 Este enfoque holístico convierte a RZA en una figura universalmente influyente en la historia de la música moderna.
 

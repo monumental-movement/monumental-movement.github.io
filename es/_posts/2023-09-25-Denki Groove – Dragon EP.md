@@ -17,7 +17,7 @@ La canción principal, "Dragon", es una canción bailable que combina elementos 
 
 “Dragon EP” experimenta con diferentes estilos y enfoques musicales. Los elementos experimentales y la alegría de Denki Groove se reflejan en las canciones, que destacan por su singularidad y creatividad.
 
-Este EP es una pieza valiosa para los fanáticos de Denki Groove y les permite sentir la evolución de su música y nuevos experimentos. También será una gran oportunidad para quienes escuchen la música de Denki Groove por primera vez de experimentar su sonido y energía únicos.
+Este EP es una pieza valiosa para los fans de Denki Groove, permitiéndoles sentir la evolución de su música y sus nuevos intentos. También será una gran oportunidad para quienes escuchen la música de Denki Groove por primera vez de experimentar su sonido y energía únicos.
 
 
 #### Lista de canciones

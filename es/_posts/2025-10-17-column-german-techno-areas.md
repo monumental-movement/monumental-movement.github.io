@@ -154,7 +154,7 @@ No "música para bailar", sino "ritmos para pensar".
 
 ### 4-2. Escena local en el este de Leipzig
 
-El espíritu del bricolaje, que ha perdurado desde la época de Alemania del Este, está vivo y coleando en los sótanos de esta ciudad.
+El espíritu del bricolaje que se remonta a la época de Alemania del Este está vivo y coleando en los sótanos de esta ciudad.
 Convertir un edificio abandonado en una discoteca y producir sonido mediante un sistema casero.
 Lo que existe allí es **techno como comunidad**, sin relación con la comercialización.
 Para ellos, la música es a la vez política y cotidiana.
@@ -337,18 +337,18 @@ flowchart TD
 
 El ritmo del techno no es un dispositivo para olvidar el pasado, sino un dispositivo para preservar la memoria como un ritmo.
 La historia de Alemania todavía late como un latido.
-Es por eso que este país sigue siendo "honesto en sonido" más que cualquier otro lugar del mundo.
+Por eso este país sigue siendo "honesto en su sonido" más que cualquier otro lugar del mundo.
 
 
 ---
 
 ### Columnas relacionadas
 
-🔗 [[Columna] Genealogía y actualidad del Techno alemán - Estética del sonido difundiéndose desde Berlín al mundo](https://monumental-movement.jp/Column-German-Techno)
+🔗 [[Columna] La genealogía y el estado actual del Techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-German-Techno)
 
 🔗 [[Columna] La edad de oro del techno británico](https://monumental-movement.jp/Column-90s-UKTechno)
 
-🔗 [[Columna] Desde los orígenes del techno hasta la actualidad - Una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[Columna] Desde los orígenes del techno hasta el presente: una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)
 
 🔗 [[Columna] Detroit Techno: Danza humana creada por el latido de las máquinas](https://monumental-movement.jp/Column-Detroit-Techno)
 

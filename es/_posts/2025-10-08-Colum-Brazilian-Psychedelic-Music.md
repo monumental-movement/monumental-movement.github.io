@@ -125,7 +125,7 @@ flowchart TD
 | Los Mutantes | Tropicália: ou Panis et Circencis | 1968 | [Amazon](https://amzn.to/46LWn9K) |
 | Caetano Veloso | Caetano Veloso | 1969 | [Amazon](https://amzn.to/3IAc2Qc) |
 | Gilberto Gil | Expreso 2222 | 1972 | [Amazon](https://amzn.to/3WuzFg5) |
-| Milton Nascimento y Lô Borges | Clube da Esquina | 1972 | [Amazon] https://amzn.to/4n2waIJ) |
+| Milton Nascimento y Lô Borges | Clube da Esquina | 1972 | [Amazon]https://amzn.to/4n2waIJ) |
 | Boogarinas | manuales | 2015 | [Amazon](https://amzn.to/3KIiftN) |
 | Viaje con pegamento | Viaje con pegamento | 2016 | [Amazon](https://amzn.to/4h8CzAY) |
 

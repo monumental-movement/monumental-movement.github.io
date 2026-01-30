@@ -88,7 +88,7 @@ Durante toda la noche se siente como si una nave espacial descendiera y se salie
 ## 4. Ciencia de los materiales sonoros: reubicación de fuentes de sonido en Cosmic
 
 Baldelli fue un pionero de los DJ que trataban las canciones como "material".
-Había una fuerte sensación de "componer" nuevamente los sonidos grabados en el tocadiscos.
+Tuve una fuerte sensación de "componer" nuevamente los sonidos grabados en el tocadiscos.
 
 | Fuentes utilizadas | Ejemplos específicos |
 |:--|:--|

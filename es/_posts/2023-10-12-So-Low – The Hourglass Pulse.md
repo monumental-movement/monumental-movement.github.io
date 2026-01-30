@@ -14,7 +14,7 @@ title: 'Tan bajo: el pulso del reloj de arena'
 ---
 
 
-'So-Low - The Hourglass/Pulse' fue lanzado en 1992 en el sello de house progresivo X-Gate Records, con sede en Essex.
+'So-Low – The Hourglass/Pulse' fue lanzado en 1992 en el sello de house progresivo X-Gate Records, con sede en Essex.
 
 #### Lista de canciones
 ```md

@@ -18,7 +18,7 @@ title: '[Columna] Shochu cultivado por el sonido: La armonía de la fermentació
 ## Prólogo: En la isla del sonido de las olas y shochu
 
 
-Texto: mmr｜Tema: Un experimento realizado con Amami Oshima para favorecer el envejecimiento del shochu haciéndolo escuchar música. Explorando su base científica y trasfondo cultural.
+Texto: mmr｜Tema: Un experimento realizado en Amami Oshima para favorecer el envejecimiento del shochu haciéndolo escuchar música. Explorando su base científica y trasfondo cultural.
 
 
 Amami Oshima, el punto más lejano de las Islas Nansei.
@@ -68,7 +68,7 @@ El impulso fue el "envejecimiento acústico" del vino que un cervecero vio en To
 Aprendí sobre un intento de acelerar la maduración tocando música clásica,
 Regresó a Amami pensando: "Tal vez se podría hacer con shochu".
 
-En 2005 se instaló por primera vez un altavoz acústico en un almacén de Amami Oshima.
+En 2005, un determinado almacén en Amami Oshima instaló por primera vez altavoces acústicos en su almacén.
 Los temas evaluados fueron música clásica (Bach, Mozart) y canciones isleñas (como "Asahabushi" de Satokuni Taka).
 Seis meses después, los implicados que lo probaron quedaron sorprendidos.
 "Aunque es el mismo sake crudo, fue más suave cuando lo escuché".

@@ -15,7 +15,7 @@ title: Terje Bakke – Dovyn Aren EP
 
 "Terje Bakke - Dovyn Aren EP" es un EP del productor de techno noruego Terje Bakke.
 
-El EP Dovyn Aren es una de sus obras maestras, que destaca su estilo característico y su visión musical, con sus ritmos oscuros y bailables y sonidos de sintetizador en evolución.
+El EP Dovyn Aren es una de sus obras maestras, que destaca su estilo característico y su visión musical, con ritmos oscuros y bailables y sonidos de sintetizador en evolución.
 
 
 #### Lista de canciones

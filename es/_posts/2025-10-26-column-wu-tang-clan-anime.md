@@ -76,7 +76,7 @@ En este punto, la cultura asiática pasa de la mera cita al ámbito de la coprod
 
 ---
 
-## Capítulo 3: “Afro Samurai” y la cadena de reimportaciones
+## Capítulo 3: “Afro Samurai” y la cadena de reimportación
 
 En 2007, el anime japonés "Afro Samurai" se transmitió en todo el país.
 El actor de voz es Samuel L. Jackson.
@@ -116,7 +116,7 @@ Enfatizó el aspecto "Zen" del hip-hop y resonó con el mundo espiritual de RZA.
 En particular, la música de Nujabes combina el sampleo y la estética de ma.
 Estaba conectado espiritualmente con el Clan Wu-Tang, el "Samurái del Sonido".
 
-En la década de 2020 aparecen claras referencias en las obras de anime japonés.
+En la década de 2020, también aparecen claras referencias en las obras de anime japonés.
 La influencia del hip-hop de baja fidelidad se puede ver en la música de fondo de "Jujutsu Kaisen".
 Varios artistas de hip-hop participarán en el final de "Chainsaw Man".
 Aquí, el anime vuelve a reconectarse con el lenguaje de la “calle”.

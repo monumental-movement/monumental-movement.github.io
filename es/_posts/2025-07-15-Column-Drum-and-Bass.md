@@ -163,7 +163,7 @@ Nacido en ciudades multiétnicas como Londres y Bristol, D&B creció en la inter
 
 **Clubwear**: Ropa deportiva, nylon, gorras, jerseys.
 
-**Cultura callejera**: Graffiti, patinaje e ideología jungla.
+**Cultura callejera**: graffiti, patinaje e ideología jungla.
 
 **Visual**: Futurista y cyberpunk. Las obras de arte también son importantes.
 

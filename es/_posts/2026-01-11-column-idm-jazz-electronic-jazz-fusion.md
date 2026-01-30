@@ -22,7 +22,7 @@ title: '[Columna] IDM × Jazz / Jazz Fusión Electrónica'
 Texto: mmr｜Tema: Sobre la música presentada como la estructura del tiempo mismo
 
 
-La fusión del IDM y el jazz ha progresado no como una adición de géneros, sino como un rediseño del sentido del tiempo y la filosofía de la interpretación. Al difuminar los límites entre improvisación y composición, ritmo y programación, y poder humano y máquinas, se está formando una estética diferente a la fusión tradicional. Desde la década de 1990, a medida que la cultura de club y el jazz experimental se han profundizado simultáneamente, la propia estructura rítmica se ha convertido en el tema de la música.
+La fusión del IDM y el jazz ha progresado no como una adición de géneros, sino como un rediseño del sentido del tiempo y la filosofía de la interpretación. Al difuminar las líneas entre improvisación y composición, ritmo y programación, y poder humano y máquinas, se está formando una estética diferente a la fusión tradicional. Desde la década de 1990, a medida que la cultura de club y el jazz experimental se han profundizado simultáneamente, la propia estructura rítmica se ha convertido en el tema de la música.
 
 > Si entiendes IDM x Jazz no como un estilo, sino como una metodología para procesar el tiempo, es más fácil ver el panorama completo.
 
@@ -42,7 +42,7 @@ color: #fff;
 </style>
 
 
-## Establecimiento de IDM y cambios en la perspectiva del ritmo.
+## Establecimiento de IDM y cambios en la visión del ritmo.
 
 ### Música electrónica inteligente tras breakbeats
 
@@ -78,7 +78,7 @@ La improvisación no se pierde ni siquiera en un entorno electrónico. Los inté
 
 ### Integración del rendimiento y la programación del bajo
 
-Squarepusher trató la ejecución rápida del bajo eléctrico y la programación de batería extremadamente fragmentada como el mismo lenguaje musical. Si bien la línea de bajo tiene una sensación de caminar y frasear similar a la del jazz, el ritmo se divide en un estilo IDM.
+Squarepusher trató la ejecución rápida del bajo eléctrico y la programación de batería extremadamente fragmentada como el mismo lenguaje musical. Si bien la línea de bajo tiene una sensación de caminar y frasear similar al jazz, el ritmo se divide en un estilo IDM.
 
 ### Descomposición y reconstrucción del ritmo.
 
@@ -117,7 +117,7 @@ En la superficie, la simple repetición continúa, pero internamente las posicio
 
 ### Polirritmo y Polimetro
 
-En IDM x Jazz, se utilizan juntos el polirritmo, en el que se ejecutan múltiples ciclos de ritmo simultáneamente, y el polimetro, que tienen diferentes tipos de compás. Lo importante es que sean matemáticamente consistentes y no completamente caóticos.
+IDM x Jazz utiliza polirritmo, que tiene múltiples ciclos de ritmo al mismo tiempo, y polimetro, que tiene un compás diferente. Lo importante es que sean matemáticamente consistentes y no completamente caóticos.
 
 ### Control de sincronización micro
 

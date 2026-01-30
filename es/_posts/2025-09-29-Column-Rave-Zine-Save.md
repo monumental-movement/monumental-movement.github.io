@@ -45,7 +45,7 @@ Las vibraciones de mi cuerpo que sentí en el suelo del club. Una rave ilegal qu
 
 Muchas veces no se registran. No se informa en los medios y no queda registrado en la historia.
 
-Sin embargo, un medio de bricolaje llamado "zine" está atrayendo actualmente la atención como medio para recoger estos fragmentos y volver a contarlos.
+Sin embargo, un medio de bricolaje llamado "Zine" está atrayendo actualmente la atención como medio para recoger los fragmentos y volver a contar la historia.
 
 Un zine no es una revista, un diario o un informe. Sin embargo, está más cerca de las “voces de las personas involucradas” que cualquiera de ellas. En la cultura rave, que inherentemente se resiste a la grabación, las revistas tienen el potencial de servir como "ayudas para la memoria".
 

@@ -26,7 +26,7 @@ B2. Love Sensation (Radio Mix)
 
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m31073345318?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31073345318?afid=6142608987){: .button1}
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d3PWbGgZzds?si=ldKlXJkMMvZNfUs4" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

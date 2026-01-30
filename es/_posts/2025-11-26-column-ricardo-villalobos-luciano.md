@@ -22,7 +22,7 @@ Texto: mmr｜Tema: Trazar los caminos individuales de ambas partes, sus encuentr
 
 En un viejo club cubierto de polvo de Chile, hubo un momento en que el sonido renació. Ricardo Villalobos regresó a su Chile natal con la sensibilidad techno afinada en Berlín, Alemania, todavía aferrándose a los ritmos sudamericanos de su infancia. Esa misma noche, Luciano se encontraba explorando su música en la escena de discotecas chilena. Los dos se conocieron; no fue sólo una coincidencia, fue casi inevitable.
 
-Su música tiene el poder de ir más allá de los simples ritmos de baile y fusionar la cultura y el cuerpo, así como el tiempo y el espacio. Ésta es una "historia" que quedará en la historia del club.
+Su música tiene el poder de ir más allá de los simples ritmos de baile y fusionar la cultura y el cuerpo, así como el tiempo y el espacio. Esta es una "historia" que quedará en la historia del club.
 
 ---
 
@@ -58,7 +58,7 @@ El sello que fundó más tarde, Cadenza, produjo artistas que combinaron el entu
 
 ## Capítulo 2: Encuentro y nacimiento de Sense Club
 
-Mientras Villalobos se sentaba frente a un tocadiscos en un club chileno a fines de la década de 1990, Luciano percibió los contornos rítmicos e instantáneamente resonó con él. Los dos lanzarán un proyecto conjunto llamado "Sense Club". Este lugar, donde se cruzan ritmos latinos y techno europeo, ha trascendido el marco de una simple unidad musical y se ha convertido en un campo de pruebas para la cultura y el cuerpo.
+Mientras Villalobos estaba sentado frente a un tocadiscos en un club chileno a fines de la década de 1990, Luciano sintió los contornos rítmicos e instantáneamente resonó con él. Los dos lanzarán un proyecto conjunto llamado "Sense Club". Este lugar, donde se cruzan ritmos latinos y techno europeo, ha trascendido el marco de una simple unidad musical y se ha convertido en un campo de pruebas para la cultura y el cuerpo.
 
 La filosofía de Sense Club era clara. "El baile no es sólo un movimiento, sino un ritual que conecta la cultura y el cuerpo". Las series largas, la percusión sutil y la cacofonía ocasional de sonidos dan nueva vida a la pista de baile.
 
@@ -72,7 +72,7 @@ Una noche había unas 300 personas en la pista del club. Villalobos toca temas l
 
 ### Evolución de Alcachofa y Villalobos
 
-En 2003, Villalobos lanzó el disco Alcachofa. Este trabajo es aclamado como una obra maestra que redefine el lenguaje de la cultura del club. En el tema largo, que dura más de 10 minutos, el ritmo cambia minuciosamente y los tiempos se entrelazan constantemente. Los cuerpos de los oyentes se sumergieron naturalmente en el flujo del tiempo y el suelo se convirtió en una especie de "espacio ceremonial".
+En 2003, Villalobos lanzó el disco Alcachofa. Este trabajo es aclamado como una obra maestra que redefine el lenguaje de la cultura del club. A lo largo del largo tema, que dura más de 10 minutos, el ritmo cambia minuciosamente y los tiempos se entrelazan sin cesar. Los cuerpos de los oyentes se sumergieron naturalmente en el flujo del tiempo y el suelo se convirtió en una especie de "espacio ceremonial".
 
 Ejemplos de canciones incluidas en el álbum:
 
@@ -92,7 +92,7 @@ Casi al mismo tiempo, Luciano fundó el sello Cadenza, con sede en Suiza. El son
 
 ## Capítulo 4 Intersección de cultura y sonido.
 
-Su música es más que simples ritmos. Al combinar la precisión alemana de Villalobos con la música electrónica y la sensibilidad rítmica sudamericana de Luciano, el club se convirtió en más que un simple patio de recreo, sino en una encarnación cultural. El público se movía sin saberlo entre dos mundos mientras se rendían al ritmo.
+Su música es más que simples ritmos. Al combinar la precisión alemana de Villalobos con la música electrónica y la sensibilidad rítmica sudamericana de Luciano, el club se ha transformado de un simple patio de recreo a un lugar que encarna la cultura. El público se movía sin saberlo entre dos mundos mientras se rendían al ritmo.
 
 ### Revolución del ritmo y del cuerpo.
 

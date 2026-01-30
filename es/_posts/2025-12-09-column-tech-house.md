@@ -56,7 +56,7 @@ El Tech House a menudo se confunde con "un subgénero del techno" o "un subgéne
 
 ---
 
-## 2. Década de 1980-1990: antecedentes del establecimiento
+## 2. Década de 1980 a 1990: antecedentes del establecimiento
 
 Se dice que los orígenes de Tech House son la cultura de clubes de principios de la década de 1990 en Gran Bretaña, particularmente en Londres.
 En ese momento, Acid House y Rave eran populares en Gran Bretaña, y se mezclaron una variedad de estilos como Hard House, Progressive House, Techno y Tribal House.
@@ -66,9 +66,9 @@ En particular, las siguientes tendencias fueron la premisa para la creación de 
 * Minimalismo del Techno del Reino Unido (Surgeon, Regis, Dave Clarke, etc.)
 * Una versión británica del ritmo del House estadounidense (Chicago/NY)
 * Mezcla de Casa Tribal, Garaje y Casa Progresiva
-* Estilos de DJ que cruzan géneros de Pirate Radio y la escena de clubes de Londres (The End, etc.)
+* Estilos de DJ de varios géneros de Pirate Radio y la escena de clubes de Londres (The End, etc.)
 
-La gente que acudió en masa al club no solo buscaba techno o house, sino que disfrutaban de actuaciones de DJ de larga duración que mezclaban elementos de ambos. A través de este proceso, desarrolló un sentido de mezcla que combina naturalmente la "dureza del techno" y la "calidez del house".
+Las personas que se reunieron en el club no solo buscaban techno o house, sino que disfrutaban de largas sesiones de DJ que mezclaban elementos de ambos. A través de este proceso, desarrolló un sentido de mezcla que combina naturalmente la "dureza del techno" y la "calidez del house".
 
 ---
 
@@ -183,7 +183,7 @@ A finales de la década de 2010 apareció el "tech house estilo festival", con s
 
 ---
 
-### ■ Ramificación de Tech House en la década de 2010
+### ■ Sucursal de Tech House de la década de 2010
 
 <div class="mermaid">
 flowchart TD
@@ -214,7 +214,7 @@ El Tech House se interpreta y cultiva de forma diferente en cada país. A contin
 
 ### ■ 3. América
 
-* Tech House divertido y divertido en la costa oeste (representado por Dirtybird)
+* Tech House funky y humorístico en la costa oeste (representado por Dirtybird)
 * La costa este tiene fuertes conexiones con NY/Chicago House
 
 ### ■ 4. América del Sur

@@ -18,7 +18,7 @@ title: '[Columna] El esqueleto afrocubano - La genealogía del latido del coraz�
 ## Introducción: Otra historia de la música americana contada por los tambores taiko
 
 
-Texto: mmr｜Tema: Basado en Sabu Martinez y Arsenio Rodríguez
+Texto: mmr｜Tema: Centrado en Sabu Martinez y Arsenio Rodríguez
 Trazando longitudinalmente los puntos de inflexión de la historia de la música latina
 
 En la década de 1950, un ritmo intercambiado en la puerta trasera de un club de jazz sacudió la estructura misma de la música estadounidense.
@@ -54,7 +54,7 @@ Esto creó una estructura rítmica de múltiples capas.
 * **Factores sociales:** Después de la abolición de la esclavitud, se formó una comunidad afroamericana en La Habana y avanzó en la profesionalización de los músicos negros.
 * **Elementos técnicos:** La estandarización del tres (guitarra de tres cuerdas) y las congas hizo posible la posterior estructura montuno.
 
-Es en este contexto que surge un revolucionario ciego llamado **Arsenio Rodríguez** (1911-1970).
+Es en este contexto que aparece un revolucionario ciego llamado **Arsenio Rodríguez** (1911-1970).
 
 ---
 

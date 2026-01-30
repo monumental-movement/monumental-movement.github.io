@@ -90,7 +90,7 @@ flowchart LR
 
 ---
 
-2000Black jugó un papel central en esta tendencia. La gestión del sello por parte de Dego generó muchos artistas y lanzamientos de Broken Beat, lo que lo convirtió en un centro cultural para la música negra del Reino Unido. En este entorno también se fomentó la colaboración entre Kaidi y Dego, produciendo numerosos éxitos de club y lanzamientos de estudio.
+2000Black jugó un papel central en esta tendencia. La gestión del sello por parte de Dego generó muchos artistas y lanzamientos de Broken Beat, lo que lo convirtió en un centro cultural para la música negra del Reino Unido. En este entorno también se nutrió la colaboración entre Kaidi y Dego, produciendo numerosos éxitos de club y lanzamientos de estudio.
 
 ---
 

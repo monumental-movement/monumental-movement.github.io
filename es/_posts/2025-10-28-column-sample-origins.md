@@ -102,7 +102,7 @@ Sigue viviendo como una "escritura sagrada" para bailarines y tocadiscos.
 ---
 
 #### 9. Melvin Bliss – “Sustitución sintética” (1973)
-Otro break famoso que formó la columna vertebral del hip-hop. Utilizado con frecuencia por Naughty by Nature, J Dilla, De La Soul y otros.
+Otro break famoso que formó la columna vertebral del hip-hop. Frequently used by Naughty by Nature, J Dilla, De La Soul, and others.
 Aunque la melodía es modesta, el "espacio" entre la caja y el bombo forma una proporción áurea.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3RaaHfzcD0?si=AVzlgEkCT_ra0JQH" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
@@ -141,7 +141,7 @@ El ritmo suave tiene un nivel de perfección que parece como si hubiera sido esc
 ---
 
 #### 14. Montaña – “Largo rojo” (1972)
-El canto "¡Sabes a lo que me refiero!" Fue utilizado frecuentemente por Public Enemy y De La Soul durante presentaciones en vivo.
+El canto "¡Sabes a lo que me refiero!" Fue utilizado a menudo por Public Enemy y De La Soul durante presentaciones en vivo.
 Este es un gran ejemplo de cómo una simple canción de rock se convierte en una "parte" de hip-hop a través del muestreo vocal.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a-0selX930s?si=YqL4own2TZXbBbBO" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

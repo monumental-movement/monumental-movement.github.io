@@ -45,7 +45,7 @@ color: #fff;
 ### Capítulo 1: Experimentos de sonido solitario: Charalambides y la expansión de la conciencia sureña
 
 A principios de la década de 2000, **Charalambides** (Christina y Tom Carter) eran un pilar de la escena ruidosa de Texas.
-Su sonido no era tanto ruido sino más bien un ritual experimental que exploraba el "borde juvenil" del folk y los drones.
+Su sonido no era tanto ruido sino un ritual experimental que exploraba el "borde juvenil" del folk y los drones.
 
 - Reverberación de guitarra infinitamente estirada
 - Frase vocal repetida como una oración.
@@ -100,7 +100,7 @@ Como ejemplo típico:
 - Trabajos en cinta de **Rick Reed** (núcleo de la escena sonora electrónica de Austin)
 - **Poética de la memoria y el ruido** usando casetes en bucle de **Amulets (Randall Taylor)**
 
-Estos movimientos ya no consideran el ruido como "música destructiva" sino como **el ruido del tiempo y la existencia**.
+Estos movimientos ya no consideran el ruido como “música destructiva” sino como **el ruido del tiempo y de la existencia**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b0i3He1ZuX0?si=jgmkTZXvvxXgZCTb" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -110,7 +110,7 @@ Estos movimientos ya no consideran el ruido como "música destructiva" sino como
 
 La escena del ruido de Texas de la década de 2020 se encuentra entre la red y la tierra.
 Mientras que artistas jóvenes de Houston y Dallas están activos como colectivo digital a través de Bandcamp, YouTube, Discord, etc.
-Los artistas mayores siguen trabajando con equipos analógicos.
+Los artistas mayores continúan trabajando con equipos analógicos.
 
 > "El ruido es una cuestión de actitud, no de tecnología."
 > — Richard Ramirez (Jesús de cuero negro)

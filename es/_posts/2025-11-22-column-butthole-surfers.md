@@ -59,7 +59,7 @@ Aunque los miembros cambian con el tiempo, los miembros principales iniciales so
 * **King Coffey** — Batería
 * **Teresa Taylor** — Batería (configuración de tambor doble)
 
-Gibby Haynes y Paul Leary, en particular, encontraron la armonía a pesar de tener orientaciones musicales diferentes y comenzaron actividades que parecían un grupo de arte.
+Gibby Haynes y Paul Leary, en particular, encontraron la armonía a pesar de tener orientaciones musicales diferentes y comenzaron una actividad que parecía un grupo de arte.
 
 ---
 

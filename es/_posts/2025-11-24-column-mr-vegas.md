@@ -68,7 +68,7 @@ Como resultado de su lesión en la mandíbula y del tratamiento, ha desarrollado
 - **Tema de la letra**
 Contiene mensajes críticos y morales sobre el comportamiento sexual y destaca el respeto por sí mismas de las mujeres y la fuerza de su insistencia en decir "no".
 - **Reconocimiento internacional**
-Fue un éxito no sólo en Jamaica sino también en Inglaterra y Estados Unidos.
+Fue un éxito no sólo en Jamaica, sino también en Inglaterra y Estados Unidos.
 - **Otorgar**
 Ganó el premio "Mejor Artista de Reggae" en los premios MOBO.
 
@@ -109,7 +109,7 @@ Firmamos un contrato con un sello en Los Ángeles y lanzamos el álbum ``Pull Up
 ### 4.2 Producción y lanzamiento de “Ghetto Reggae”
 - El 29 de agosto de 2025 se lanzó el álbum **``Ghetto Reggae''**.
 - Temas: Homenaje a la cultura del sound system, recreación del reggae/dancehall de los años 80 y 90, amor, fe, cuestiones medioambientales, malicia, ganja, etc.
-- Artistas participantes: Daddy U-Roy, Demelo, Greentone. Productores: Kirkledove, Ed Robinson, Jemoi Monteith.
+- Artistas participantes: Daddy U-Roy, Demelo, Greentone. Productor: Kirkledove, Ed Robinson, Jemoi Monteith.
 
 ### 4.3 Actividades y declaraciones sociales
 - Participar o hablar en eventos políticos en Jamaica.
@@ -185,7 +185,7 @@ Con una pasión por la educación, el comentario social y la preservación cultu
 | Año | Eventos |
 |---|---|
 | 1974 | Clifford Smith (Señor Vegas), nacido en Kingston |
-| 1997 | Grabó "Nike Air" a pesar de una lesión en la mandíbula |
+| 1997 | Grabó “Nike Air” a pesar de lesión en la mandíbula |
 | 1998 | Lanzan el sencillo “Heads High” y el álbum debut “Heads High” |
 | 2001 | Lanzamiento del álbum “Damn Right” |
 | 2004 | Lanzamiento del álbum “Pull Up” |

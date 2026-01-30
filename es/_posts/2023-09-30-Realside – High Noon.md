@@ -13,7 +13,7 @@ title: Realside - Mediodía
 ---
 
 
-"High Noon" es un EP de la unidad "Realside" de Dominic Stanton y Mark Russell lanzado por el sello británico Sirkus en 2002.
+"High Noon" es un EP de la unidad "Realside" de Dominic Stanton y Mark Russell lanzado en el sello británico Sirkus en 2002.
 
 
 #### Lista de canciones

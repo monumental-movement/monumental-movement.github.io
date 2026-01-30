@@ -112,7 +112,7 @@ Una obra que critica directamente el apartheid.
 - Traducción japonesa: "Opresión y odio, son como los días oscuros de Europa".
 - Comentario: Comparar el apartheid con el nazismo y despertar la simpatía internacional. Dio valor a los oyentes negros de Sudáfrica.
 
-- **“Paz en Zimbabwe”**
+- **"Paz en Zimbabwe"**
 - Letra en inglés: "La paz debe llegar a todos los países, a Zimbabwe y más allá"
 - Traducción japonesa: "La paz llegará a todos los países, a Zimbabwe y más allá".
 - Comentario: Una canción sobre los movimientos independentistas de los países vecinos y las esperanzas de paz.

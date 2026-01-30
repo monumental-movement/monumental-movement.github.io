@@ -32,7 +32,7 @@ Tresor (que significa "seguro" en alemán) es un club fundado en Berlín, Aleman
 
 ### Antecedentes de su nacimiento: Berlín y el vacío posterior a la Guerra Fría
 
-En 1989 cayó el Muro de Berlín. Los espacios que alguna vez estuvieron controlados por el estado se han convertido en "zonas sin ley" y se han convertido en campos de prueba para la cultura juvenil clandestina.
+En 1989 cayó el Muro de Berlín. Los espacios que alguna vez estuvieron controlados por el Estado se han convertido en "zonas sin ley" y se han convertido en campos de prueba para la cultura juvenil clandestina.
 
 Edificios abandonados, fábricas en desuso y espacios subterráneos se han convertido en clubes.
 
@@ -79,7 +79,7 @@ Tresor es un símbolo de la "cultura de reutilización de ruinas urbanas". Se co
 
 En Berlín, donde las regulaciones eran laxas, se creó un espacio donde la gente podía seguir bailando mañana, tarde y noche. Su estilo sigue siendo objeto de envidia mundial.
 
-**Tecno=identidad urbana**
+**Techno = identidad urbana**
 
 La influencia de Tresor está detrás de que la ciudad de Berlín reconozca oficialmente la cultura de discoteca como marca de la ciudad.
 
@@ -155,14 +155,14 @@ Hoy en día actúan allí DJs de todo el mundo y sigue sirviendo como lugar de p
 
 ### Elevando la música techno de una “moda temporal” a una “cultura universal”
 
-Más que un simple club o sello, Tresor es un cruce cultural que conecta la historia de Berlín, el espacio urbano posterior a la Guerra Fría y el futuro de la música negra en Detroit.
-Los sonidos liberados desde esa bóveda aún resuenan en la cultura de clubes de todo el mundo, elevando la música techno de una "moda temporal" a una "cultura universal".
+Más que un simple club o un sello, Tresor es una "encrucijada cultural" que conecta la historia de Berlín, el espacio urbano posterior a la Guerra Fría y el futuro de la música negra en Detroit.
+Los sonidos liberados desde esa bóveda aún resuenan en la cultura de clubes de todo el mundo, elevando la música techno de una "moda pasajera" a una "cultura universal".
 
 ---
 
 ### Columnas relacionadas
 
-🔗 [[Columna] Desde los orígenes del techno hasta la actualidad - Una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[Columna] Desde los orígenes del techno hasta el presente: una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)
 
 🔗 [[Columna] Detroit Techno: Danza humana creada por el latido de las máquinas](https://monumental-movement.jp/Column-Detroit-Techno)
 
