@@ -20,7 +20,7 @@ title: '[Column] Blawan: Pleasure of Steel and the Body Deep in the Night — Ec
 Text: mmr｜Theme: About Blawan's cold yet somehow human beat that continues to have roots in the UK underground
 
 Once upon a time, the industrial areas of northern England were filled with the smell of steam and metal.
-Jamie Roberts -- or Blawan -- may have grown up unconsciously inhaling its reverberations.
+Jamie Roberts, or Blawan, may have grown up unconsciously inhaling its reverberations.
 The bloodline of electronic music flowing from Sheffield (Cabaret Voltaire, Warp Records, The Black Dog)
 It has echoed the rhythm of labor and the breathing of the city at the same time.
 
@@ -67,7 +67,7 @@ It was the physical sensation of ""playing'' electronic sounds that made his sou
 
 In 2012, the world club scene shook.
 "Why They Hide Their Bodies Under My Garage."
-This one song made Blawan's name definitive.
+This single song made Blawan's name definitive.
 
 The title is disturbing.
 The distorted vocal sample sounds like a ghost groaning in a basement.
@@ -101,14 +101,14 @@ For a moment when everything melts together, music becomes "substance."
 
 ---
 
-## Chapter 4 Wet Will Always Dry——Record of emotions without emotions
+## Chapter 4 Wet Will Always Dry——A record of emotions without emotions
 
 In 2018, Blawan finally released a full-length album, Wet Will Always Dry.
 As the title suggests, **Wet, Dry. **
 What we see there is an incomplete cycle of human emotions.
 
 "Careless" "North" "Stell"――
-Each song hides a slight warmth beneath its coldness.
+Every song hides a slight warmth beneath its coldness.
 Amidst the expressionless, metallic sound, there are occasional pauses that look like breathing.
 Human emotions permeate through that small gap.
 
@@ -151,7 +151,7 @@ It is also a form of resistance for the club to continue to be a ""place'' once 
 
 ## Chapter 7 SickElixir — The rhythm of the collapse and rebirth of the steel city
 
-Blawan"s latest work ["SickElixir" (2025)] (https://www.amazon.co.jp/dp/B087B9MBK4) is a rare piece of work that dismantles the structure of techno, yet still makes you feel the presence of "humanity'.
+Blawan"s latest work ["SickElixir" (2025)] (https://www.amazon.co.jp/dp/B087B9MBK4) is a rare work that dismantles the structure of techno but still makes you feel the presence of "humanity'.
 Amid swirling noise and distortion, the rhythm maintains its balance on the verge of collapse, and the voice loses its meaning and transforms into an instrument.
 The light shining in with "Rabbit Hole" and the torrent of deep bass with "NOS".
 With each moment, Blawan's sound straddles the line between coldness and passion.
@@ -271,7 +271,7 @@ flowchart TD
 
 ### Final Chapter: Prayer of Steel—Dancing is survival
 
-Blawan's sound is sometimes cold and sometimes harsh.
+Blawan's sound is sometimes cold and sometimes rough.
 However, deep within, there is certainly a ""human prayer.''
 The act of dancing is a ritual for "surviving" in the noise of the city.
 "Why They Hide Their Bodies Under My Garage." still attracts people because
@@ -347,7 +347,7 @@ flowchart TD
 | Oscillator | **Verbos Complex VCO / Plaits** | Main oscillation source | Combination of analog distortion and digital particles |
 | Drum Synth | **Moog DFAM** | Metallic percussion | The core of Blawan's "industrial noise" |
 | FX Chain | **Analog Heat / Mimeophon / BigSky** | Texture adjustment | Build space with drive and reverb |
-| Mixer | **WMD Performance Mixer** | Real-time construction | Also used for Karenn live |
+| Mixer      | **WMD Performance Mixer**            | リアルタイム構築   | Karennライブにも使用        |
 | Recorder | **[RME Fireface](https://amzn.to/42yLG7Y) + [Ableton](https://amzn.to/4h6gGC9)** | Final recording | "One-shot recording" philosophy without overdubs |
 
 ---
@@ -381,7 +381,7 @@ That contradiction is the reason for his existence.
 
 🔗 [[Column] The Golden Age of UK Techno](https://monumental-movement.jp/Column-90s-UKTechno)
 
-🔗 [[Column] From the origins of techno to the present - a chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[Column] From the origins of techno to the present - A chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)
 
 🔗 [The genealogy and present of German Techno - the aesthetics of sound spreading from Berlin to the world](https://monumental-movement.jp/Column-German-Techno)
 

@@ -20,7 +20,7 @@ title: '[Columna] Tres soles y la magia del acordeón: una fábula acústica nac
 
 Texto: mmr｜Tema: Explorando el paisaje sonoro de la América de la posguerra dibujado por un trío de acordeón, guitarra y órgano
 
-Una suave melodía suena en la radio. Lo que sonaba allí era **Tres Soles**――
+Una suave melodía sonando desde la radio. Lo que sonaba allí era **Tres Soles**――
 Era un símbolo de la música casera estadounidense en la década de 1940 y constaba de un acordeón, una guitarra y un órgano eléctrico.
 
 Era una época en la que la guerra había terminado y la televisión aún no estaba muy extendida.
@@ -89,7 +89,7 @@ Fue verdaderamente un **diseño interior de sonido**.
 
 | Elemento | Contenido | Relación con los Tres Soles |
 |------|------|----------------------|
-| Audio de alta fidelidad | Popularización de la reproducción estéreo en los hogares | Grabación pensando en los efectos acústicos |
+| Audio de alta fidelidad | Popularización de la reproducción estéreo en casa | Grabación pensando en los efectos acústicos |
 | Cultura del cóctel | Símbolo del ocio urbano | Música fusionada con "intoxicación" |
 | Películas caseras | Música de fondo en la era del cine de 8 mm | Se utilizaba con frecuencia Tres Soles |
 | Orientado al espacio | Estética de la era espacial | El sonido flotante resuena |

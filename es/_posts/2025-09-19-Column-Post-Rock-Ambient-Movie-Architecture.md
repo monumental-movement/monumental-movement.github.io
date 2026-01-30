@@ -44,7 +44,7 @@ El ambient/post-rock ha tenido una gran influencia en la música de cine y se ha
 
 | Películas | Música | Año | Características |
 |------|----------|----|------|
-| *Llegada* | Jóhann Jóhannsson | 2016 | Expresando el sentido de circulación del tiempo con el sonido de un dron |
+| *Llegada* | Jóhann Jóhannsson | 2016 | Expresando el sentido de la circulación del tiempo con sonidos parecidos a drones |
 | *Blade Runner 2049* | Hans Zimmer y Benjamin Wallfisch | 2017 | Representación ambiental de la frialdad y la extensión de una ciudad futurista |
 | *El Renacido* | Ryuichi Sakamoto y Alva Noto | 2015 | Expresando la presión de la naturaleza y el tiempo con sonidos electrónicos y ambientales |
 | *Solaris* (edición 2002) | Eduard Artemyev | 2002 | Ampliando el espacio psicológico con un ambiente cósmico |
@@ -135,7 +135,7 @@ Cine ↔ Arquitectura: Interacción entre arte visual y diseño espacial
 
 ## Conexión con la arquitectura y el urbanismo
 
-El Ambient/post-rock tiene una fuerte presencia en diálogo con los espacios urbanos y la arquitectura.
+El ambient/post-rock tiene una fuerte presencia en diálogo con los espacios urbanos y la arquitectura.
 
 ### Lugares típicos y experiencias acústicas.
 

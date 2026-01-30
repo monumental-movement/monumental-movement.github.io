@@ -78,7 +78,7 @@ UK garage wasn't just music, it was supported by a network of media and club cul
 
 ### Main clubs
 - **Twice As Nice (London)**: A symbolic club where blacks, whites, and Asians meet.
-- **La Cosa Nostra (Soho)**: Played by many early 2-Step DJs.
+- **La Cosa Nostra (Soho)**: Many early 2-Step DJs played here.
 - **Sidewinder (national tour format)**: Expanded with MC culture.
 
 ### Pirate Radio Station

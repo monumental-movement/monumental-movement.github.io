@@ -191,7 +191,7 @@ La canción que tuvo una influencia particularmente grande aquí fue "El fuego e
 **Grabado: "Funcrusher Plus" (1997)**
 Esta canción se conoce como una canción que simboliza el mensaje de Company Flow.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rrUn2Qf3UXI?si=ez3YLxIa9fEDVal4" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rrUn2Qf3UXI?si=ez3YLxIa9fEDVal4" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
@@ -216,7 +216,7 @@ Se compone de metáforas elaboradas y expresiones abstractas.
 ## ● Composición de sonido
 
 * Bajo bajo y gruñido
-* Bucle de muestra siniestro
+* bucle de muestra siniestro
 * Ruido de sintetizador intermitente
 * Percusión detallada con MPC chop
 * Una mezcla de texturas frescas en todas partes.
@@ -262,7 +262,7 @@ Eliminando el rap, la estética beat de El-P pasa a primer plano.
 
 ### ● Ampliación de la experimentación
 
-* Elimina el grito de DJ
+* Elimina los gritos de DJ.
 * BPM, estructura y número de capas son más complejos que antes
 * Aumento de elementos electrónicos.
 * Mezcla de texturas Lo-Fi y Hi-Fi

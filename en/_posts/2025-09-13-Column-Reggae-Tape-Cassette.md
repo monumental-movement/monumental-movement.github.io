@@ -99,7 +99,7 @@ A list of famous recordings that symbolize reggae cassette culture. These are no
 
 | Title (recording name) | Year | Features |
 |------------------|------|------|
-| Stone Love Sound System Live @ Kingston | 1982 | A representative recording from the early days of Sound Clash. The audience's cheers were also lively. |
+| Stone Love Sound System Live @ Kingston | 1982 | A representative recording from the early days of Sound Clash. The cheers from the audience were also lively. |
 | Killamanjaro vs. Black Scorpio Clash | 1985 | The tension of the sound showdown and the exchange of impromptu MCs. |
 | Silverhawk Sound System 90"s Dancehall Set | 1992 | The craze of dancehall in the heyday of digital riddim is condensed. |
 | Bass Odyssey Live in Clarendon | 1994 | Contains the vivid excitement of local events. |

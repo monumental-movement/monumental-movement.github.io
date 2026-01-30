@@ -25,7 +25,7 @@ Funk, hip-hop, afrobeat, world music, free jazz, noise... Los proyectos de Laswe
 
 Debido a su diversidad, no era fácil tener una visión general de sus actividades en aquel momento. Debido a que las obras individuales estaban fragmentadas y dispersas, los oyentes no podían captar el "panorama completo".
 
-Sin embargo, con el álbum recopilatorio Deconstruction of the 80s la cosa cambió por completo. Este álbum es una recopilación de las fuentes sonoras de múltiples géneros y proyectos en los que participó Laswell en la década de 1980, remasterizadas y reconstruidas.
+Sin embargo, con el álbum recopilatorio Deconstruction of the 80s la cosa cambió por completo. Este álbum es una recopilación de fuentes de sonido de múltiples géneros y múltiples proyectos en los que participó Laswell en la década de 1980, remasterizados y reconstruidos.
 En otras palabras, se puede decir que esta compilación en sí misma apareció como una "forma completa de deconstrucción y reconstrucción".
 
 Este artículo se centra en las grabaciones de este álbum y los proyectos de esa época, y sigue los hechos de cómo Bill Laswell & Friends deconstruyeron y reorganizaron la acústica de la década de 1980.
@@ -158,11 +158,11 @@ flowchart TD
 - 1983: Herbie Hancock "El shock del futuro"
 - 1984: "Sistema de sonido"
 
-## ■ 1985-1989
+## ■ 1985–1989
 - 1985: “Álbum” producido por Public Image Ltd.
 - 1986: comenzó la última salida.
 - 1987: Sly y Robbie “Asesinos del ritmo”
-- 1988: Herbie Hancock "La máquina perfecta"
+- 1988: Herbie Hancock “Máquina perfecta”
 - 1989: período de preparación de la etiqueta Axiom
 
 ---

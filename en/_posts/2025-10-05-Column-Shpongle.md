@@ -64,7 +64,7 @@ Shpongle was born with the theme of "journey into the inner universe" at its cor
 
 flowchart TD
   A["1994: TIP Records<br>Raja Ram & Graham Wood"] --> B["1996: Established Twisted Records<br>Centered by Simon Posford"]
-  B --> C["1998: Formation of Shpongle"]
+  B --> C["1998: Shpongle formed"]
   C --> D["Younger Brother / Hallucinogen / Celtic Cross<br>Related project development"]
   D --> E["2000s: UK Psych Culture Revival"]
   E --> F["2010s~: Fusion with world festival culture"]
@@ -314,7 +314,7 @@ This structure causes a psychological phenomenon called an "acoustic trip."
 | Reverb reverberation | Expansion of spatial localization | Dissolution of ego |
 | Polyrhythm | Cognitive delay | Dreamy floating feeling |
 
-Scientifically, Shpongle is a project to ""rebuild the brain with sound.''
+Scientifically, Shpongle is a project to ""restructure the brain with sound.''
 
 ---
 

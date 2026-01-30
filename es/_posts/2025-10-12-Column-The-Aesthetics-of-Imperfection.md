@@ -173,11 +173,11 @@ Ha llegado el momento de hacer que este mundo vuelva a cantar.
 ---
 
 ## Apéndice: Lista de reproducción La estética de la imperfección 2025
-### - Cuatro artistas que expresan la estética de la imperfección -
+### ― 不完全の美学を鳴らす4人のアーティスト ―
 
 | Artista/Álbum/Pista | Año | Descripción | Enlace |
 |:--|:--|:--:|:--|:--|
 | **Charli XCX**/*mocoso* | 2024 | Rebelión del siglo XXI contra la "perfección" con ritmos de club atrevidos y voces improvisadas. | [Amazon](https://amzn.to/437JNPC) |
-| **Kesha**/*Joyride* | 2024 | Trashy Un trabajo de regreso que recrea Eurodance y celebra el "placer sucio". | [Amazon](https://amzn.to/3KMtt0q) |
+| **Kesha**/*Joyride* | 2024 | Trashy Eurodanceを再生産し、“汚れた快楽”を祝福するカムバック作。 | [Amazon](https://amzn.to/3KMtt0q) |
 | **Yaeji**/*Con un martillo* | 2023 | Una obra maestra post-club que convierte la introspección y la ira en ritmos mientras alterna entre coreano e inglés. | [Amazon](https://amzn.to/471ZFEp) |
 | **Ethel Cain**/*Hija del Predicador* | 2022 | El pináculo del pop gótico moderno, que representa el colapso de lo americano y la salvación personal. | [Amazon](https://amzn.to/3Ja7LmB) |

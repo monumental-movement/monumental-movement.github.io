@@ -69,7 +69,7 @@ El cuarteto de Coleman, formado a finales de la década de 1950, se caracteriza 
 
 ### Análisis de grabación representativo: [The Shape of Jazz to Come (1959)] (https://amzn.to/49KxOLD)
 
-En esta obra, los límites entre tema e improvisación son extremadamente difusos. La melodía de apertura se presenta claramente, pero inmediatamente después cada intérprete desarrolla una línea melódica independiente. Lo importante es que a pesar de la ausencia de progresiones de acordes, la interpretación en su conjunto mantiene un sentido de unidad.
+En esta obra, los límites entre tema e improvisación son extremadamente difusos. La melodía inicial se presenta claramente, pero inmediatamente después cada intérprete desarrolla una línea melódica independiente. Lo importante es que a pesar de la ausencia de progresiones de acordes, la interpretación en su conjunto mantiene un sentido de unidad.
 
 El saxofón alto de Coleman hace uso frecuente de saltos de tono que cruzan teclas, y las frases se expanden y contraen como canciones. El bajo no se limita a caminar, sino que incorpora movimiento melódico, y la batería funciona más como un dispositivo de reacción que como un compás. Aquí se redefine el concepto mismo de sección rítmica.
 
@@ -89,7 +89,7 @@ En armolódicos, cada intérprete tiene los mismos derechos melódicos. No es ne
 
 Cecil Taylor encarna lo último en construcción del jazz de vanguardia. Aunque sus actuaciones a menudo se describen como una efusión de emociones, en realidad son arte temporal altamente organizado. Aunque es improvisado, su mayor característica es que tiene la densidad y el orden de un edificio.
 
-### Redefiniendo la forma de tocar el piano
+### Redefiniendo las técnicas para tocar el piano
 
 El estilo de interpretación de Taylor trata el teclado no como una serie de melodías, sino como una masa de sonido. Grupos de alta velocidad que utilizan ambas manos y polirritmos complejos transformaron el piano de un instrumento melódico a un instrumento de percusión.
 
@@ -124,7 +124,7 @@ El Sun Ra Arkestra no tenía una composición fija, y el número de miembros y l
 
 En esta grabación, la tonalidad y la métrica tienen poco significado. Frases fragmentadas, sonidos parecidos a ruidos y actuaciones grupales repentinas aparecen alternativamente. Lo importante es que la música no progrese linealmente.
 
-Motivos cortos repetidos cambian el sentido del tiempo del oyente y llevan la música a una experiencia cíclica. La improvisación funciona como un ritual colectivo más que como una demostración de habilidad individual.
+Los motivos cortos repetidos cambian el sentido del tiempo del oyente y llevan la música a una experiencia cíclica. La improvisación funciona como un ritual colectivo más que como una demostración de habilidad individual.
 
 ### Pensamiento cósmico y estructura musical.
 

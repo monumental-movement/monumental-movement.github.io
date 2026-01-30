@@ -14,7 +14,7 @@ title: Axwell + Sebastian Ingrosso Vs. Salem Al Fakir – It's True
 
 Axel Christofer Hedfors, also known as Axwell, is a Swedish DJ, record producer, remixer, and owner of Axtone Records.
 
-Axwell was part of the Swedish House Mafia, along with Sebastian Ingrosso and Steve Angello.
+Axwell was part of the Swedish House Mafia with Sebastian Ingrosso and Steve Angello.
 
 Lars Salem Al Fakir is a Swedish musician, singer, songwriter, and record producer.
 

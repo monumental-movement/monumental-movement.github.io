@@ -14,12 +14,12 @@ title: '[Columna] Yahowha13 y Father Yod — El viaje de la música de culto psi
 ---
 
 
-## ¿Qué es Yahowha 13? - El legado musical del Padre Yod y la Familia Source
+##  Yahowha 13とは何か ─ Father YodとSource Familyの音楽遺産
 
 Texto: mmr｜Tema: Sobre un proyecto inusual que fusiona música, religión y prácticas comunitarias que van más allá de las bandas de culto.
 
 
-Yahowha13 (también conocido como Ya Ho Wha 13, Yahowah 13, YaHoWa13, etc.) es un proyecto de rock psicodélico/música experimental con un fuerte sentimiento de improvisación y ritualismo, conectado a la comuna espiritual estadounidense "Source Family" que estuvo activa alrededor de la década de 1970. El personaje central es el padre Yod (nombre real: James Edward Baker). Aunque él mismo fue un líder de un movimiento religioso, también estuvo profundamente involucrado en la música y buscó expandir sus enseñanzas a través de sus actividades musicales.
+Yahowha13（別表記：Ya Ho Wha 13, Yahowah 13, YaHoWa13など）は、1970年代前後に活動したアメリカのスピリチュアル・コミューン “Fuente Familia (ソース・ファミリー)”に結びついた、即興性と儀式性を強く帯びたサイケデリック・ロック／実験音楽プロジェクトです. El personaje central es el padre Yod (nombre real: James Edward Baker).彼自身が宗教運動のリーダーでありながら音楽にも深く関与し、その音楽活動を通じて教えを拡張しようとしました.
 
 ---
 
@@ -36,14 +36,14 @@ color: #fff;
 </style>
 
 
-### Padre Yod/James Edward Baker - Trayectoria y leyenda
+### Father Yod／James Edward Baker — 軌跡と伝説
 
 #### Vida temprana y carrera
 
 Nacido el 4 de julio de 1922 en Cincinnati, Ohio. Más tarde habla de su experiencia sirviendo como infante de marina (aunque algunos señalan que su medalla Silver Star no se puede encontrar en los registros oficiales).
 
 
-Al mudarse a la costa oeste, se dedicó al movimiento de vida natural, el vegetarianismo, la cultura hippie y el pensamiento místico. Abrió un restaurante de comida saludable llamado "The Source" en Sunset Strip en Los Ángeles, que supuestamente atrajo a muchos clientes famosos.
+Abrió un restaurante de comida saludable llamado ``The Source'' en Sunset Strip en Los Ángeles, que supuestamente atrajo a muchos clientes famosos.
 
 
 Finalmente, influenciado por la filosofía Kundalini Yoga de Yogi Bhajan, organizó su propio movimiento religioso, Source Family. El grupo liderado por él desarrolló un estilo de vida que integraba la vida comunitaria, prácticas espirituales, música, prácticas y rituales alimentarios y de salud.
@@ -61,7 +61,7 @@ El periodismo y los artículos de no ficción han explorado esta naturaleza dual
 Mientras la comuna estaba en funcionamiento, hay registros de que hubo disputas que son típicas de las operaciones de una secta, como "abandono de bienes personales", "separación de familiares" y "permiso para casarse con miembros jóvenes".
 
 
-El 25 de agosto de 1975, murió en un accidente mientras intentaba su primer vuelo en ala delta en Hawaii (se estrelló y murió unas 9 horas después). Este accidente efectivamente se convirtió en un evento que simbolizó el “fin” de Yahooha13.
+El 25 de agosto de 1975, murió en un accidente mientras intentaba su primer vuelo en ala delta en Hawaii (se dice que se estrelló y murió aproximadamente 9 horas después). Este accidente efectivamente se convirtió en un evento que simbolizó el “fin” de Yahooha13.
 
 
 Posteriormente los miembros de la congregación se dispersaron, pero ésta ha sido revalorizada a través de archivos sonoros y folclore. En particular, la caja de 13 discos God and Hair (Yahowha Collection), lanzada por el sello japonés Captain Trip en 1998, cubrió completamente las fuentes de sonido de Yahowha13/Source Family y se convirtió en una oportunidad para el resurgimiento de la leyenda.
@@ -128,7 +128,7 @@ Durante este período, exploraba la fusión de experimentos acústicos y sesione
 Ya Ho Wa 13 (1974), Savage Sons of Ya Ho Wa (1974), Penetración: una sinfonía de Acuario (1974), Voy a llevarte a casa (1974), A los principios para los niños (1975), La opereta (inédita en 1975 → publicada más tarde), etc.
 
 
-Durante este período, también se intentó incorporar más "estructuralidad" y "musicalidad", con un estilo que incluía riffs de guitarra distorsionados, frases repetidas y poesía y canto fragmentados.
+Durante este período, también se intentó incorporar más "estructuralidad" y "musicalidad", con un estilo que incluía una mezcla de riffs de guitarra distorsionados, frases repetitivas y poesía y canto fragmentados.
 
 
 En particular, se dice que Penetration: An Aquarian Symphony es el trabajo más popular y reevaluado en la historia de la banda, y ha sido reeditado muchas veces.
@@ -143,7 +143,7 @@ Después de 1975, la banda se disolvió debido al fallecimiento del padre Yod. S
 En 1977, se lanzaron Golden Sunrise (bajo el nombre Fire Water Air) y Yodship Suite (Private Press). También hay colaboración con Sky Saxon (ex de The Seeds) y participación vocal.
 
 
-Desde la década de 2000, ha habido reediciones y reimpresiones de archivos, nuevas grabaciones fragmentarias y reuniones de miembros (Sonic Portation de Djin, Girasol, Octavius, etc.).
+Desde la década de 2000, ha habido reediciones y reimpresiones de archivos, nuevas grabaciones fragmentarias y reuniones de miembros (como Sonic Portation de Djin, Girasol, Octavius, etc.).
 
 
 ---
@@ -217,7 +217,7 @@ En 2009, se lanzó una recopilación de canciones inéditas como [Magnifience in
 ---
 
 
-#### Reunión/actividades
+#### Reunión/Actividades
 
 En 2007, los miembros originales (Sunflower, Octavius, Djin) actuaron en vivo por primera vez en 33 años.
 
@@ -319,7 +319,7 @@ Referencias al arquetipo “viaje/purificación/elementos (fuego/agua/aire/tierr
 Frases doctrinales/rituales (palabras indicadas por nombres de temas redactados como “hombre el mesías”): palabras improvisadas y superpuestas como la declaración de un líder.
 
 
-Cómo analizar: En lugar de simplemente leer las letras como ``letra = transmisión de significado'', es más útil leerlas de la siguiente manera: ``(1) Los sonidos en sí mismos son rituales / (2) Las palabras son desencadenantes sugerentes y poéticos que generan una experiencia comunitaria inmediata''. En otras palabras, la guía religiosa participativa a través del “sonido/repetición” es el núcleo del álbum.
+Cómo analizar: En lugar de simplemente leer las letras como ``letra = transmisión de significado'', es más útil leerlas de la siguiente manera: ``(1) El sonido en sí es un ritual / (2) Las palabras son desencadenantes sugerentes y poéticos que generan una experiencia comunitaria en el acto''. En otras palabras, la guía religiosa participativa a través del “sonido/repetición” es el núcleo del álbum.
 
 ---
 
@@ -467,7 +467,7 @@ El sonido "Ya Ho Wha" en sí mismo es un mantra sagrado de la Familia Fuente, un
 
 **Auge de las reediciones psicológicas de los 90**: P.S.F. Records y Captain Trip Records presentaron activamente Yahooha 13.
 
-Ha aparecido como un "psicodélico de culto fantasma" en revistas como Eureka y Eurorock Press, y los oyentes japoneses lo coleccionan con avidez.
+Ha aparecido como un "psicodélico de culto fantasma" en revistas como "Eureka" y "Eurorock Press", y los oyentes japoneses lo coleccionan con avidez.
 
 **Tendencias de evaluación**: En Japón, se considera "herético" y "psicodélico esotérico" y se ha convertido en una pieza de colección en tiendas de discos importados (Disc Union, Melon, Manhattan Records, etc.).
 

@@ -46,7 +46,7 @@ Footwork/Juke nació en las comunidades del gueto de Chicago a finales de los 80
 
 - **Finales de los 80**: A medida que el Chicago House florece, se desarrolla un sonido house más agresivo conocido como "Ghetto House" en los clubes y fiestas de la zona.
 - **Principios de la década de 1990**: se estableció una cultura de ritmos breves, samples repetidos y pasos de baile rápidos conocida como Juke.
-- **Finales de los 90**: Aparece el nombre Footwork. Comienza a extenderse una cultura en la que la danza y la música están estrechamente vinculadas.
+- **Finales de los 90**: Aparece el nombre Footwork. Comienza a extenderse una cultura en la que la danza y la música están estrechamente relacionadas.
 
 <div class="mermaid">
 flowchart TD
@@ -121,7 +121,7 @@ El juego de pies ha atraído la atención fuera de Estados Unidos desde la déca
 
 - **Europa**: Lanzamiento de Planet Mu y productores con sede en el Reino Unido, evento de batalla de pies realizado
 - **Japón**: Evento de footwork celebrado en un club clandestino que influye en DJs y jóvenes creadores
-- **SNS/Cultura de distribución**: Difusión internacional a través de YouTube y SoundCloud
+- **SNS/Cultura de Distribución**: Difusión internacional a través de YouTube y SoundCloud
 
 ---
 
@@ -142,7 +142,7 @@ La conexión con Ghetto House, el prototipo de los primeros Footwork, es clara.
 ---
 
 - **DJ Spinn – “En absoluto”**
-Uso creativo de muestras, estrecha conexión entre danza y música.
+Uso creativo de samples y la estrecha conexión entre danza y música.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wg2qYnayYao?si=LwzenQVVy_QPQ9uY" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 

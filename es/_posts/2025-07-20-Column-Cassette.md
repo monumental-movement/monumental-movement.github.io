@@ -191,7 +191,7 @@ Aproximadamente 20 Hz a 15 kHz con **cinta cromada**
 
 #### Desventajas
 
-- La calidad del sonido se deteriora debido al desgaste de la cinta y es un artículo consumible.
+- La calidad del sonido se deteriora debido al desgaste de la cinta y es un elemento consumible.
 
 - La calidad del sonido fluctúa debido a la suciedad del cabezal y a los ajustes del equipo.
 

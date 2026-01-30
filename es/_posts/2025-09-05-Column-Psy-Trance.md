@@ -168,7 +168,7 @@ color: #fff;
 
 | # | Título del artista/canción | Año | Notas |
 |----|--------------------|----|------|
-| 1 | Vini Vici – Tíbet libre (Remix) | 2016 | Himno del Festival |
+| 1 | Vini Vici – Tíbet libre (Remix) | 2016 | Himno del festival |
 | 2 | Ace Ventura – Pisoteando | 2014 | Representante de Psy Prog |
 | 3 | Avalon – Ritmos del futuro | 2012 | Orientado al futuro |
 | 4 | Ajja – Hongos jugosos | 2011 | Lleno de elementos psicodélicos |
@@ -210,7 +210,7 @@ color: #fff;
 ---
 
 ### Hacia el futuro de los psicodélicos
-Psy-Trance nació de la intersección de la cultura y la tecnología hippie, se diversificó en muchas formas diferentes después de su época dorada en los años 90 y continúa dominando los festivales de todo el mundo. Seguir la evolución del diseño de sonido y los cambios en el equipamiento revela el dinamismo de su sonido y la profundidad de su cultura.
+Psy-Trance nació de la intersección de la cultura y la tecnología hippie, se diversificó en una variedad de formas después de su época dorada en la década de 1990 y continúa dominando los festivales de todo el mundo. Seguir la evolución del diseño de sonido y los cambios en el equipamiento revela el dinamismo de su sonido y la profundidad de su cultura.
 
 Empezamos con equipos analógicos, pasamos por la digitalización y ahora estamos en la etapa de fusión que trasciende géneros. **Espiritualidad sangrienta de los años 90**, **Explosividad total de alta tecnología de los años 2000**, **Crossover digital de los años 2010** y **Evolución entre géneros de los años 2020**. Cada época creó su propia estética.
 

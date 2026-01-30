@@ -14,7 +14,7 @@ title: Darren Tate y Jono Grant – Brillo
 ---
 
 
-Darren Tate es miembro de JODA y DJ/productor de música house trance dance del Reino Unido que también trabaja bajo los nombres DT8 Project y 8 Ball.
+Darren Tate es un DJ/productor de música house trance dance del Reino Unido que es miembro de JODA y también trabaja bajo los nombres DT8 Project y 8 Ball.
 
 Jono Grant es miembro del grupo de música electrónica del Reino Unido Above & Beyond y productor que también participa activamente como miembro de JODA, Dirt Devils y Zed-X.
 

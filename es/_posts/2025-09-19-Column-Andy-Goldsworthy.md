@@ -43,7 +43,7 @@ color: #fff;
 | Temas | Las obras de Goldsworthy | Similitudes con la música |
 |--------|----------------|----------------|
 | **Tiempo** | Obras basadas en la premisa de cambios como hielo, hojas, ramas, etc. derritiéndose o marchitándose | Sentido musical del tiempo mediante cambios de fase y bucles (por ejemplo, Steve Reich) |
-| **Ubicación** | Las obras son inseparables del entorno natural donde se crean | Música que capta los “sonidos del lugar” a través de grabaciones de campo |
+| **Ubicación** | Las obras son inseparables del entorno natural donde se crean | Música que capta los "sonidos del lugar" a través de grabaciones de campo |
 | **Transiencia** | Obras que colapsan por el viento, la lluvia y la luz solar | Reverberaciones que desaparecen y desvanecimientos de sonidos sostenidos |
 | **Ciclo** | Destaca los ciclos de las estaciones y los fenómenos naturales | Sentido cíclico del tiempo a través de drones y estructuras repetitivas |
 | **Silencio** | La importancia del espacio y el intervalo | La presencia del "silencio" en John Cage y las obras ambientales |
@@ -95,7 +95,7 @@ color: #fff;
 
 ---
 
-### Lista de reproducción organizada según el “flujo del tiempo”
+### Lista de reproducción estructurada según el “flujo del tiempo”
 
 #### mañana
 

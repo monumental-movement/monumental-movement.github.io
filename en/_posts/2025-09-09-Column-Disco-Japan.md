@@ -24,7 +24,7 @@ title: '[Column] From the intersection of disco and Japanese culture to the pres
 Text: mmr｜Theme: Japan's unique reception and development of disco, which developed mainly in the United States in the 1970s
 
 
-Disco was born in the United States in the 1970s and exploded along with urban culture, a sense of liberation among black and Latinx communities, and advances in technology. Around the same time, "New York craze" was imported to Japan and spread to nightlife centers such as Roppongi, Akasaka, and Ginza. In this article, we'll trace the relationship between disco and Japanese culture by decade, and organize representative masterpieces, equipment, club history, and recommended tracks.
+Disco was born in the United States in the 1970s and exploded along with urban culture, a sense of liberation among black and Latinx communities, and advances in technology. Around the same time, "New York craze" was imported to Japan and spread to nightlife centers such as Roppongi, Akasaka, and Ginza. In this article, we will trace the relationship between disco and Japanese culture by decade, and organize the most famous records, equipment, club history, and recommended tracks.
 
 ---
 
@@ -258,7 +258,7 @@ Tatsuro Yamashita, Taeko Onuki, Mariya Takeuchi and others were rediscovered, an
 | Can't Stop the Feeling | Justin Timberlake | Pop Disco |
 | The Bay | Metronomy | Indie Nu-Disco |
 | D.A.N.C.E. | Justice | Electro x Disco |
-| I Feel Better | Hot Chip | Electro-pop |
+| I Feel Better | Hot Chip | Electropop-oriented |
 | Red Lights | Tiësto | Intersection of EDM and Nu-Disco |
 
 

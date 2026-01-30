@@ -53,7 +53,7 @@ Features: We produce many high-quality digital modules, and are particularly str
 
 **Representative modules**: Braids, Rings, Clouds
 
-**Features**: Developed as open source, provides modules that allow flexible sound creation. It is especially excellent in tonal diversity.
+**Features**: Developed as open source, provides modules that allow flexible sound creation. It has particularly excellent tonal diversity.
 
 ---
 

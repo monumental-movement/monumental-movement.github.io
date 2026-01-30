@@ -18,7 +18,7 @@ title: '[Column] The complete history of Electroacoustic Improvisation'
 
 Text: mmr｜Theme: About Christian Fennesz, Rafael Toral, AMM, Sachiko M, Otomo Yoshihide
 
-Electroacoustic Improvisation (EAI) is a musical trend that combines electronic acoustics and improvisation, which formed mainly in Europe and Japan from the late 1990s to the early 2000s.
+Electroacoustic Improvisation（以下、EAI）は、1990年代末〜2000年代初頭にかけて、ヨーロッパと日本を中心に形成された**電子音響と即興演奏を融合させた音楽的潮流**である。  
 Improvisational music, electroacoustic music, noise, field recording, modular synths, and digital samplers intersect, establishing a unique practice system that differs from traditional jazz-oriented free improvisation and acoustic school.
 
 ---
@@ -38,7 +38,7 @@ color: #fff;
 
 
 ## 1. What is EAI?
-EAI is an abbreviation for "Electroacoustic Improvisation," and it began to be used internationally around the year 2000 to refer to **improvisation using electroacoustic processing and processing technology**.
+EAI は「Electroacoustic Improvisation」の略称で、**電子音響の処理・加工技術を用いた即興演奏**を指す言葉として2000年前後から国際的に用いられるようになった。  
 Although there is no clear unified definition, the following are common points:
 
 - Improvisationally operate electronic equipment (modulars, laptops, effectors, samplers)
@@ -64,7 +64,7 @@ The ""liberation of non-instrumental sounds'' demonstrated by Eddie Prévost and
 
 ### 2-3. Origin ③: 1980s-1990s noise/alternative electronic sound
 Japanese noise (Merzbow, Incapacitants, etc.) exposed the ""materiality of sound'' through the ultimate pursuit of acoustic materials.
-On the other hand, Otomo Yoshihide and Sachiko M introduced minimal and sophisticated electronic sounds (sine waves) into their improvisations, creating the foundations of EAI: ""reducing the number of sounds" and ""emphasizing space."
+On the other hand, Otomo Yoshihide and Sachiko M improvised minimal and sophisticated electronic sounds (sine waves) and established the foundations of EAI: ""reducing the number of sounds" and ""emphasizing space."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-N2JpUSOGQw?si=2iITe93bkSmd8sOW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -81,10 +81,10 @@ This means the **democratization of real-time sound processing** and will decisi
 ---
 
 # 3-1. **Christian Fennesz**
-Originally from Austria. He is known for his style, which uses a guitar as a sound source and processes it on a laptop, gently crossing the line between melody and noise.
+Originally from Austria.ギターを音源に使いながら、ノートPCで加工し、メロディとノイズの境界を緩やかに横断するスタイルで知られる。
 His masterpiece "Endless Summer" (2001) was highly praised as an example of the fusion of electronic and guitar sounds.
 
-From an EAI perspective, the following points are important:
+EAI的観点で重要なのは、以下の点である：
 
 - Treat raw guitar sound and processed sound on the same plane
 - Introduce glitch noise to improvise
@@ -128,9 +128,9 @@ Particular emphasis was placed on ""white space" and ""the treatment of silence,
 
 # 3-4. AMM (UK)
 AMM, which has been active since the 1960s, is one of the oldest groups to incorporate electronic equipment into their performances.
-Keith Rowe"s ""horizontal guitar'' became the prototype for later EAI"s use of radio noise and contact microphones.
+Keith Rowe の「水平置きギター」は、後のEAIにおけるラジオノイズや接触マイク利用の原型となった。
 
-EAI inherits AMM's aesthetics: ""the social nature of performance," ""the use of silence," and ""respect for the contingency of sound.''
+EAIはAMMの美学—「演奏の社会性」「静寂の利用」「音の偶発性の尊重」—を継承している。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u-T8rmnHtbg?si=Lg5jvSyXo2LDfG8h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -139,7 +139,7 @@ EAI inherits AMM's aesthetics: ""the social nature of performance," ""the use of
 # 4. Systematic analysis of equipment and techniques used
 
 ## 4-1. Equipment: Modular synth
-Modular in EAI is
+EAIにおけるモジュラーは、
 
 - Unpredictable signal changes
 - Non-tempo/non-chord operation
@@ -148,12 +148,12 @@ Modular in EAI is
 It has characteristics suitable for improvisation.
 
 ## 4-2. Sampler
-In EAI, samplers are often treated as **signal generators/circuit devices** rather than as sound sources.
-The Sachiko M example is a typical example, in which only the internal test tone was used.
+EAIではサンプラーを音源としてではなく、**信号発生器／回路装置**として扱うことが多い。  
+Sachiko M の例はその代表で、内部テストトーンのみを使用した。
 
 ## 4-3. Laptop
 Real-time processing using Max/MSP and Pure Data is typified by Fennesz's style.
-It is important to note that the laptop is not a sensor; the processing itself is an act of performance.
+ラップトップはセンサーではなく、**加工そのものが演奏行為**となる点が重要である。
 
 ## 4-4. Effector / Physical Noise
 Techniques that utilize signals beyond musical intent, such as contact microphones, mixer feedback, and power supply noise, are also common.
@@ -175,7 +175,7 @@ Techniques that utilize signals beyond musical intent, such as contact microphon
 
 ---
 
-# 6. EAI-related chronology
+# 6. EAI related chronology
 
 <div class="mermaid">
 timeline
@@ -226,6 +226,6 @@ Since EAI remains a "practice" rather than a "genre," its form will continue to 
 
 # Conclusion
 
-Electroacoustic Improvisation is a rare system of practice where diverse fields such as electronic technology, acoustic science, free improvisation, and noise culture intersect, and the activities of Christian Fennesz and Rafael Toral occupy a central position.
+Electroacoustic Improvisation は、電子技術・音響科学・自由即興・ノイズ文化など多様な領域が交わる稀有な実践体系であり、Christian Fennesz や Rafael Toral の活動はその中心的な位置を占めている。  
 
 ---

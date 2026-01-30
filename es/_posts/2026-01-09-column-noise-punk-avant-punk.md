@@ -16,7 +16,7 @@ title: '[Columna] Noise Punk / Avant-Punk ─ Cuando el impulso destructivo se c
 
 
 
-## Prólogo: ¿Por qué tuvo que romperse el punk?
+## Prólogo: Por qué el punk tuvo que romperse
 
 Texto: mmr｜Tema: Acerca del noise punk/avant punk, que es un dispositivo de memoria para rechazar constantemente la zona segura de la música.
 

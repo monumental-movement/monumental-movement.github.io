@@ -12,7 +12,7 @@ title: Psychotropic – Only For The Headstrong
 ---
 
 
-「Only For The Headstrong」は、
+"Only For The Headstrong" is
 This is an EP by Psychotropic released in 1991 by the UK label ""02 Records.''
 
 

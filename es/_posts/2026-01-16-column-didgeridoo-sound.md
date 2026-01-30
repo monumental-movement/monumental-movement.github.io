@@ -19,12 +19,12 @@ title: '[Columna] La música didgeridoo y la cultura indígena australiana'
 
 ## ¿Qué es un didgeridoo?
 
-Texto: mmr｜Tema: Una historia cultural de múltiples capas de la música didgeridoo arraigada en las sociedades indígenas del norte de Australia, basada en diferencias regionales, diferencias lingüísticas y ejemplos tribales.
+Texto: mmr｜Tema: Una historia cultural de múltiples capas de la música didgeridoo, que tiene sus raíces en las sociedades indígenas del norte de Australia, a partir de diferencias regionales, diferencias lingüísticas y ejemplos tribales.
 
 
-El didgeridoo es un instrumento de viento tradicional que ha sido utilizado por las comunidades aborígenes de Australia, principalmente desde la costa norte hasta el interior. Generalmente, el material está hecho de un tronco de eucalipto que ha sido ahuecado por termitas, y la sensación en boca se ajusta aplicando cera de abejas en la abertura de un lado. Aunque la estructura es sumamente simple, los sonidos emitidos no se limitan a drones monofónicos, sino que tienen complejas capas acústicas que combinan armónicos, ritmo y vocalizaciones.
+El didgeridoo es un instrumento de viento tradicional que ha sido utilizado por las comunidades aborígenes de Australia, principalmente desde la costa norte hasta el interior. Generalmente, el material está hecho de un tronco de eucalipto que ha sido ahuecado por termitas y la abertura de un lado está recubierta con cera de abejas para ajustar la sensación en la boca. Aunque la estructura es sumamente simple, los sonidos emitidos no se limitan a drones monofónicos, sino que tienen complejas capas acústicas que combinan armónicos, ritmo y vocalizaciones.
 
-El nombre "didgeridoo" que es común hoy en día no se origina en lenguas indígenas, sino que fue creado por angloparlantes a principios del siglo XX como un término onomatopéyico. En las sociedades indígenas, los instrumentos musicales reciben nombres en relación con la tierra y el idioma, y ​​los diferentes nombres reflejan diferencias culturales.
+El nombre "didgeridoo" que es común hoy en día no se origina en una lengua indígena, sino que es un nombre onomatopéyico acuñado por angloparlantes a principios del siglo XX. En las sociedades indígenas, los instrumentos musicales reciben nombres en relación con la tierra y el idioma, y ​​los diferentes nombres reflejan diferencias culturales.
 
 > El didgeridoo no es un instrumento musical único, sino un conjunto de prácticas culturales que varían según la región.
 
@@ -66,7 +66,7 @@ En el oeste de Arnhem Land había muchos instrumentos relativamente cortos y gru
 
 ## Diferencias lingüísticas y diversidad de nombres.
 
-En las sociedades indígenas, los nombres de los instrumentos musicales están asociados con derechos e historias sobre la tierra. El pueblo Yolngu del este de Arnhem Land llama al didgeridoo "yidaki", un nombre que se refiere a un método y tono de producción específicos. El yidaki se utiliza sólo en ceremonias que pertenecen a la serie de canciones Yolngu.
+En las sociedades indígenas, los nombres de los instrumentos musicales están asociados con derechos e historias sobre la tierra. El pueblo Yolngu de East Arnhem Land llama al didgeridoo "yidaki", un nombre que se refiere a un método y tono de producción específicos. El yidaki se utiliza sólo en ceremonias que pertenecen a la serie de canciones Yolngu.
 
 En la región occidental, hay múltiples nombres como ``Mago'', ``Panpi'' y ``Bumbu'', y la distribución coincide aproximadamente con las fronteras del idioma. Los diferentes nombres tienen la función de distinguir claramente las personas que pueden interpretarlo, las situaciones en las que se utiliza y los roles musicales.
 
@@ -100,7 +100,7 @@ En muchas regiones, el didgeridoo ha sido considerado un instrumento masculino, 
 
 También había restricciones de edad y no se permitían actuaciones con series de canciones específicas a menos que se aprobaran ciertos ritos de mayoría de edad. Como resultado, la música se convirtió naturalmente en un instrumento para la educación intergeneracional.
 
->La calificación del desempeño no era un sistema de exclusión, sino un sistema que indicaba dónde reside la responsabilidad.
+> La calificación del desempeño no era un sistema de exclusión, sino un sistema que indicaba dónde reside la responsabilidad.
 
 ---
 
@@ -108,7 +108,7 @@ También había restricciones de edad y no se permitían actuaciones con series 
 
 La respiración circular es una técnica ampliamente compartida, pero su uso varía según la región. En el este, se enfatiza la estabilidad de los sonidos sostenidos, mientras que en el oeste, los cambios rítmicos intermitentes son prominentes.
 
-También existen diferencias regionales en las técnicas utilizadas para hacer voces simultáneas, como agregar un gruñido bajo o enfatizar los sonidos de la lengua. Estos no son improvisados, sino estilizados para cada serie de canciones.
+Además, existen diferencias regionales en las técnicas utilizadas para hacer voces simultáneas, como agregar un gruñido bajo o enfatizar los sonidos de la lengua. Estos no son improvisados, sino estilizados para cada serie de canciones.
 
 > La diferencia en la técnica no es la naturaleza de improvisación, sino la diferencia en el sistema tradicional.
 
@@ -172,7 +172,7 @@ flowchart LR
 
 Incluso si la serie de canciones se origina en el mismo ser ancestral o evento mítico, las prácticas varían mucho de una tribu a otra. Una serie de canciones no es una "canción" fija, sino que se entiende como un marco que varía según la ubicación, el idioma y las relaciones sanguíneas.
 
-Por ejemplo, las canciones que se refieren a la misma entidad ancestral difieren en tempo, densidad rítmica y patrón de sonido del didgeridoo entre la costa de Arnhem Land y las zonas del interior. Las áreas costeras enfatizan los suaves zumbidos que evocan las mareas y las aves acuáticas, mientras que las áreas del interior enfatizan los ritmos intermitentes asociados con las pisadas y los movimientos de caza.
+Por ejemplo, las canciones en la costa de Arnhem Land y las zonas del interior difieren en tempo, densidad rítmica y patrones de sonido del didgeridoo, aunque las canciones se refieren al mismo ser ancestral. Las áreas costeras enfatizan los suaves zumbidos que evocan las mareas y las aves acuáticas, mientras que las áreas del interior enfatizan los ritmos intermitentes asociados con las pisadas y los movimientos de caza.
 
 Estas diferencias no son "malas interpretaciones", sino formas legítimas de herencia en cada país. Una misma serie de canciones tiene una estructura que incluye múltiples respuestas correctas.
 
@@ -182,7 +182,7 @@ Estas diferencias no son "malas interpretaciones", sino formas legítimas de her
 
 ## Diferenciación de roles entre canto, baile y didgeridoo.
 
-Es importante señalar que el didgeridoo no siempre es fundamental en las comparaciones tribales. En algunas regiones, el canto toma la iniciativa, mientras que en otras, el baile determina la estructura. En este contexto, el didgeridoo cambia de función.
+Es importante señalar que el didgeridoo no siempre es fundamental en las comparaciones tribales. En algunas regiones, el canto toma la iniciativa, mientras que en otras, el baile determina la estructura. En este contexto, el papel del didgeridoo cambia.
 
 En algunas zonas de East Arnhem Land, el didgeridoo funciona como un soporte estable que mantiene el tono lo más bajo posible y se adapta al ritmo de la letra. Por el contrario, en Occidente, el didgeridoo proporciona señales rítmicas y guía los movimientos de los bailarines.
 
@@ -192,7 +192,7 @@ En algunas zonas de East Arnhem Land, el didgeridoo funciona como un soporte est
 
 ## Representación musical vista en pinturas rupestres.
 
-El arte rupestre en todo el norte de Australia representa figuras humanas sosteniendo instrumentos musicales largos y tubulares, así como escenas ceremoniales y de caza. Se ha interpretado que se refieren al didgeridoo o su predecesor.
+El arte rupestre en todo el norte de Australia representa figuras humanas sosteniendo instrumentos tubulares largos, así como escenas ceremoniales y de caza. Se ha interpretado que se refieren al didgeridoo o su predecesor.
 
 La representación de instrumentos musicales en el arte rupestre es más un símbolo de acción ritual que un registro realista. Las decoraciones corporales y la ubicación de las figuras sugieren que la música se interpretaba como una práctica colectiva.
 

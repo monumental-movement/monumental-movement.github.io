@@ -49,7 +49,7 @@ B. Darqwan–Megatection
 
 Características: El estilo que simboliza los primeros días del dubstep en la década de 2000 se refleja fuertemente, y la fuerza del ritmo y la profundidad del bajo son lo más destacado.
 
-Atractivo: El diseño de sonido de Zed Bias combina una sensación de estructura y alegría que se siente a la vanguardia de la escena electrónica del Reino Unido en ese momento. El contenido coexiste con ritmos emocionantes y descripciones espaciales futuristas, lo que lo hace valioso como pieza de colección.
+Atractivo: El diseño de sonido de Zed Bias tiene un sentido de estructura y alegría que se siente a la vanguardia de la escena electrónica del Reino Unido en ese momento. El contenido coexiste con ritmos emocionantes y descripciones espaciales futuristas, lo que lo hace valioso como pieza de colección.
 
 #### Lista de canciones
 ```md

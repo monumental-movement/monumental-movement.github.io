@@ -75,7 +75,7 @@ After the drop, the low-range kick and bass drive the floor, while white noise a
 This is a typical club configuration where the pitch becomes gentle at the break and then builds up a sense of excitement as it prepares to drop again.
 
 #### Acoustic characteristics (estimated)
-- Kick energy is concentrated in the low range (40–60Hz)
+- Kick energy is concentrated in the low frequency range (40–60Hz)
 - Sub-bass and percussion layers in the midrange
 - White noise, siren, and synth pads create a space in the upper range
 
@@ -137,7 +137,7 @@ It is used to maintain the groove in the middle of a set or take a break in the 
 
 #### Song structure and rhythm
 It has a strong melodic element, with pads and synths gradually merging with the rhythm in the intro.
-After the drop, the melody and beat develop in layers, and the break settles down for a while, creating a bridge to the next build.
+After the drop, the melody and beat develop in multiple layers, and the break calms down for a while, creating a bridge to the next build.
 
 #### Acoustic characteristics (estimated)
 - Low: Stabilize the floor with kicks and bass
@@ -172,7 +172,7 @@ It is placed at peak times to uplift the audience and provide a futuristic and p
 
 ## Chapter 3: Time axis analysis of festival/club set
 
-In Len Faki's typical long sets, each track is strategically placed to shape the emotional curve of the club floor.
+In a typical Len Faki long set, each track is strategically placed to form the emotional curve of the club floor.
 
 <div class="mermaid">
 timeline

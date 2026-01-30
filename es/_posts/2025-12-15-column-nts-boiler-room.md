@@ -42,7 +42,7 @@ color: #fff;
 </style>
 
 
-## Capítulo 1 Establecimiento de NTS Radio y cultura de radiodifusión
+## Capítulo 1: Establecimiento de NTS Radio y cultura de radiodifusión
 
 NTS Radio es una radio por Internet con sede en Londres que transmite programas de DJ y presentaciones en vivo las 24 horas del día. El contenido de transmisión es muy variado e incluye música de club, música experimental, música folclórica y actuaciones de improvisación.
 
@@ -150,7 +150,7 @@ Los hechos resumidos en este artículo servirán como base para considerar futur
 La práctica de los artistas de streaming en vivo que aparecen en NTS y ​​Boiler Room tiene más que ver con "la música como cuerpo de movimiento" que con el nombre de un género.
 
 Las sesiones de DJ y las actuaciones experimentales en transmisiones en vivo se presentan como un estado de cambio continuo a lo largo del tiempo, más que como una obra terminada.
-Esto puede verse como "movimiento registrable".
+Esto puede considerarse como "movimiento registrable".
 
 > "En el momento en que la música rechaza los formatos fijos, su movimiento se hace más evidente."
 
@@ -160,7 +160,7 @@ Esto puede verse como "movimiento registrable".
 
 Tradicionalmente, existía una distinción entre producción musical en el estudio y interpretación en el sitio. Sin embargo, en un entorno de transmisión en vivo, esta distinción se vuelve borrosa. Viviendas, espacios temporales, equipamientos públicos, estudios sin público, etc. se convierten en espacios de producción y performance al mismo tiempo.
 
-En NTS se ha confirmado que hay muchos casos en los que material en plena producción o fuentes de sonido inacabadas se reproducen tal cual en el programa. Boiler Room también lanza ocasionalmente sets en vivo que están cerca de los ensayos.
+En NTS se ha confirmado que hay muchos casos en los que material en plena producción o fuentes de sonido sin terminar se reproducen tal cual en el programa. Boiler Room también lanza ocasionalmente sets en vivo que están cerca de los ensayos.
 
 > “La desaparición de estudios y localizaciones liberó a la música de la 'preparación'”
 
@@ -168,7 +168,7 @@ En NTS se ha confirmado que hay muchos casos en los que material en plena produc
 
 ## Capítulo complementario 3 Ejemplo de densidad entre géneros
 
-Al observar las actividades de los artistas de transmisión en vivo, el cruce de géneros es la norma y no la excepción. Fragmentos de música dance, noise, jazz, folk y pop se concatenan dentro de un mismo conjunto.
+Al observar las actividades de los artistas de transmisión en vivo, el cruce de géneros es la norma y no la excepción. En un mismo conjunto se concatenan fragmentos de música dance, noise, jazz, folk y pop.
 
 Esto es más el resultado de condiciones de escucha cambiantes en el entorno de distribución que una vanguardia intencional. Escuchar durante largos períodos de tiempo en un entorno privado permite cambios rápidos de género.
 

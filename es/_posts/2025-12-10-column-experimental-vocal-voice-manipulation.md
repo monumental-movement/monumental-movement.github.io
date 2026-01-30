@@ -21,7 +21,7 @@ title: '[Columna] Vocal experimental / Manipulación de la voz - Historia y téc
 
 Texto: mmr｜Tema: Voces experimentales que procesan, generan y reordenan la voz como material/historia, técnicas, representantes y tendencias contemporáneas de manipulación de la voz.
 
-En el siglo XXI, la voz cantante ha pasado de simplemente transmitir una melodía a un material acústico editable. Con la disponibilidad de herramientas como tecnología de grabación/edición, efectos, muestreo, procesamiento en tiempo real y tecnología de generación, la voz ha adquirido un papel diverso como instrumento, textura, descripción espacial e incluso recurso de datos. Artistas como Bjork e Imogen Heap, que utilizan sus propias voces como material principal para sus experimentos y expresiones creadas mediante avances tecnológicos como la síntesis granular y la resíntesis basada en inteligencia artificial, han ampliado enormemente las posibilidades de la voz.
+En el siglo XXI, la voz cantante ha pasado de ser una simple transmisión de melodías a un material acústico editable. Con la disponibilidad de herramientas como tecnología de grabación/edición, efectos, muestreo, procesamiento en tiempo real y tecnología de generación, la voz ha adquirido un papel diverso como instrumento, textura, descripción espacial e incluso recurso de datos. Artistas como Bjork e Imogen Heap, que utilizan sus propias voces como material principal para sus experimentos y expresiones creadas mediante avances tecnológicos como la síntesis granular y la resíntesis basada en inteligencia artificial, han ampliado enormemente las posibilidades de la voz.
 
 ---
 
@@ -126,7 +126,7 @@ Reproducir voces e imitar las voces de otros utilizando IA plantea cuestiones é
 
 ## Capítulo 6: Tendencias tecnológicas en IA y generación de voz
 
-### 6-1. Extracción y conversión de funciones de audio
+### 6-1. Extracción y conversión de funciones de audio.
 
 El aprendizaje automático ha hecho posible extraer las características de tono, envolvente espectral, sincronización y pronunciación del habla con alta precisión y transferirlas a otras voces o sonidos sintetizados. Las aplicaciones de transferencia de estilo están atrayendo la atención como método para incorporar características del canto existente en nuevos contextos.
 

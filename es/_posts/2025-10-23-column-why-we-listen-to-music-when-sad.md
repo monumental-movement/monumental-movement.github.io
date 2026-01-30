@@ -52,7 +52,7 @@ Fomenta el proceso de ver objetivamente las propias emociones.
 La música no es sólo un estímulo externo, sino un "espejo de nervios".
 Cuando escuchas una melodía triste, "neuronas tristes" resuenan en tu cerebro,
 Allí se secreta la sustancia química que te hace sentir bien, **dopamina**.
-Esta reacción contradictoria –“placer en medio de tristeza”- es lo que
+Esta reacción contradictoria –“placer en la tristeza”- es lo que
 Ésta es una de las principales razones por las que la gente busca música triste.
 
 ---

@@ -53,7 +53,7 @@ Características principales:
 - Edición digital (cut-up, procesamiento granular)
 - Textura de grabación de campo.
 - Melodía simple pero emotiva.
-- Coexistencia de “tacto” y “objetos artificiales”
+- Coexistencia de “toque” y “objeto artificial”
 
 ### ■ ¿Qué es Indietrónica?
 El flujo de introducir la música electrónica en el contexto del indie rock.

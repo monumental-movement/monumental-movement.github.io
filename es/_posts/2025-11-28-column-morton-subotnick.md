@@ -186,7 +186,7 @@ El siguiente es un resumen de las principales obras de Subotnick desde una persp
 | 1968 | Anuncian “El Toro Salvaje” |
 | Década de 1970 | Una serie de trabajos utilizando el sistema Ghost Electronics |
 | Década de 1980 | Producción de la serie “Making Music” de software de educación musical para niños |
-| Décadas de 1990 a 2000 | Se están reevaluando obras |
+| Décadas de 1990 y 2000 | Se están reevaluando obras |
 | Desde la década de 2010 | Conciertos retrospectivos y producciones documentales avanzan por todo el mundo |
 
 ---

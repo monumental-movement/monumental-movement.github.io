@@ -14,7 +14,7 @@ title: Chico delicioso - Iko Iko
 ---
 
 
-Guy Delicious (Guy Lenzner) versiona la famosa canción "Iko Iko". Un tema House/Latin lanzado en 2004 por Tinted Records, un sello australiano especializado en House y Garage.
+Guy Delicious (Guy Lenzner) versiona la famosa canción "Iko Iko". Una pista House/Latin lanzada en 2004 por Tinted Records, un sello australiano especializado en House and Garage.
 
 A es un remix del dúo de DJ y productores Mutiny.
 

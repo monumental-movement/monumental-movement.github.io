@@ -41,13 +41,13 @@ color: #fff;
 </style>
 
 
-## Finales de los años 1960 y 1970: nacimiento del reggae y la cultura del sound system
+## Finales de los años 60 y 70: nacimiento del reggae y la cultura del sound system
 
 - **Establecimiento del Reggae**
 El reggae se estableció alrededor de 1968 después del ska y el rocksteady. Se popularizaron letras con ritmos más pesados, énfasis en el bajo y mensajes. También fue durante este período que artistas como Bob Marley, Peter Tosh y Burning Spear se hicieron conocidos internacionalmente.
 
 - **Rol del sistema de sonido**
-En Jamaica, era difícil poseer tocadiscos y equipos de música costosos, por lo que enormes parlantes (sistemas de sonido) instalados en las esquinas de las calles se convirtieron en el centro de la experiencia musical. Los productores y DJ tocaron de forma independiente los últimos sencillos de 7 pulgadas para atraer a la audiencia.
+En Jamaica, era difícil poseer tocadiscos y estéreos costosos, por lo que enormes sistemas de sonido, o grupos de parlantes instalados en las esquinas de las calles, se convirtieron en el centro de la experiencia musical. Los productores y DJ tocaron de forma independiente los últimos sencillos de 7 pulgadas para atraer a la audiencia.
 
 - **La llegada de los casetes**
 Los casetes compactos, introducidos a principios de la década de 1970 bajo el estándar Philips, pronto llegaron a Jamaica. Aunque todavía estaba en sus primeras etapas de popularidad, los fanáticos del reggae y los DJ locales comenzaron a prestar atención al potencial de este pequeño medio.
@@ -64,7 +64,7 @@ En los eventos con sistema de sonido y en las salas de baile nació una cultura 
 Por ejemplo, las grabaciones de enfrentamientos específicos de sistemas de sonido (choques de sonido) y su posterior distribución en casetes fueron un medio valioso para compartir experiencias entre los fans.
 
 - **Diáspora y Cassette**
-Para las comunidades de inmigrantes caribeños en Gran Bretaña y Estados Unidos, los casetes enviados desde Jamaica eran un medio en tiempo real que transmitía el "estado actual de su patria". A través del correo y redes informales, la última música reggae y dancehall de Jamaica se difundió rápidamente en el extranjero.
+Para las comunidades de inmigrantes caribeños en Gran Bretaña y Estados Unidos, los casetes enviados desde Jamaica eran un medio en tiempo real que transmitía el "estado actual de su patria". A través del correo y las redes informales, la última música reggae y dancehall de Jamaica se difundió rápidamente en el extranjero.
 
 ---
 
@@ -158,7 +158,7 @@ La difusión del reggae y la cultura del casete se organizará paralelamente com
 | 1997-99 | El período pico del cultivo en casetes. Están en circulación una gran cantidad de grabaciones in situ. | Japanese Sound System vende casetes de mezclas producidos de forma independiente. Ampliando la base de fans. |
 | 2000-05 | Con el auge del CD-R y el MP3, comienza el declive de los casetes. | Los CD-R se vuelven populares en clubes y tiendas. Sin embargo, en algunas zonas continúan los esfuerzos por preservar el cultivo en casetes. |
 | Década de 2010 | La distribución digital es la corriente principal. Los casetes están siendo revalorizados como memoria cultural. | Coleccionistas e investigadores digitalizan casetes de los años 90. La reevaluación continúa. |
-| Años 2020 | Los reproductores de casetes y las reimpresiones aparecen en el contexto del retorno analógico. | En Japón se están llevando a cabo proyectos de investigación y reedición para profundizar en la "cultura del reggae cassette". |
+| Años 2020 | Los reproductores de casetes y las reimpresiones aparecen en el contexto del retorno analógico. | En Japón se están llevando a cabo proyectos de investigación y reedición para profundizar en la "cultura del casete reggae". |
 
 ---
 

@@ -83,7 +83,7 @@ Fue muy elogiada como una idea que trasciende las fronteras entre el arte y la c
 ### 2.2 2017: Investigación sobre el “reproductor de música vaginal”
 
 En 2017, un estudio del **Institut Marquès** de Barcelona, ​​España
-Ganador del Premio Ig Nobel de Medicina.
+Ganó el Premio Ig Nobel de Medicina.
 Este equipo desarrolló un **altavoz intravaginal** llamado "Babypod",
 Investigamos cómo responden los fetos a los estímulos musicales en el útero.
 
@@ -136,7 +136,7 @@ Los dos comparten el mismo espíritu de investigación con diferentes metodolog�
 
 ---
 
-### 3.3 La audiencia como “sujeto” – entre emociones y datos
+### 3.3 La audiencia como “sujeto” – entre emoción y datos
 
 En investigaciones recientes de neurociencia, la resonancia magnética funcional se ha utilizado para medir la actividad cerebral mientras se escucha música.
 Se están realizando esfuerzos para analizar los mecanismos mediante los cuales se producen el placer y la empatía.

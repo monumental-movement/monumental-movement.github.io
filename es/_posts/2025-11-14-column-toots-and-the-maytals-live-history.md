@@ -25,7 +25,7 @@ Texto: mmr｜Tema: Seguimiento de las presentaciones en vivo de Toots y los Mayt
 
 Kingston, Jamaica en la década de 1960. Con el ajetreo y el bullicio de una ciudad portuaria, el bullicio de los mercados y los ritmos del ska callejero por toda la ciudad, Toots and the Maytals, liderados por Toots Hibbert, se han convertido en una presencia que transforma la música misma en cultura a través de presentaciones en vivo.
 
-En las actuaciones en vivo, el público no es sólo un miembro del público, sino parte de la actuación. Las llamadas y respuestas, las charlas improvisadas y los intercambios de danza con el público transforman eventos musicales simples en rituales culturales. ``Do the Reggay'', que nació en 1966, fue un momento simbólico, y los propios espectadores se convirtieron en promotores de la cultura reggae.
+En las presentaciones en vivo, el público no es sólo un miembro de la audiencia, sino una parte de la actuación. Las llamadas y respuestas, las charlas improvisadas y los intercambios de danza con el público transforman eventos musicales simples en rituales culturales. ``Do the Reggay'', que nació en 1966, fue un momento simbólico, y los propios espectadores se convirtieron en promotores de la cultura reggae.
 
 ---
 
@@ -63,7 +63,7 @@ El público participa aplaudiendo y bailando, y las risas resuenan a través de 
 
 ### 1.2 Nacimiento y reacción de “Do the Reggay”
 
-Presentado por primera vez en 1966, "Do the Reggay" electrizó instantáneamente al público en los espectáculos de clubes de Jamaica. El público canta, baila y ríe en círculo en el suelo, llenando el lugar. Cada vez que Toots grita "¡Haz el Reggay!", se produce una reacción en cadena de aplausos y vítores.
+Presentado por primera vez en 1966, "Do the Reggay" electrizó instantáneamente al público en los espectáculos de clubes de Jamaica. El público canta, baila y ríe en círculo en el suelo, llenando el recinto. Cada vez que Toots grita "¡Haz el Reggay!", se produce una reacción en cadena de aplausos y vítores.
 
 Esta canción no fue sólo una actuación, sino un ritual cultural con la participación del público. La palabra reggae se extendió por todo el mundo, creando un momento en el que el público funcionaba como transmisor de cultura.
 
@@ -113,7 +113,7 @@ Las presentaciones en vivo durante este período no sólo mostraron la evolució
 
 ### 3.1 Reggae Sunsplash y gran festival
 
-En la década de 1980, Toots and the Maytals encabezaron el festival más grande de Jamaica, Reggae Sunsplash. Una vez en el escenario, el público comienza a cantar, aplaudir y bailar hasta que todo el lugar queda envuelto en un solo ritmo.
+En la década de 1980, Toots and the Maytals encabezaron el festival más grande de Jamaica, el Reggae Sunsplash. Una vez en el escenario, el público comienza a cantar, aplaudir y bailar hasta que todo el lugar queda envuelto en un solo ritmo.
 
 **Presencia de actuación**:
 
@@ -186,7 +186,7 @@ A través de presentaciones en vivo en Europa y América, el reggae se extendió
 | ---- | -------------------- | ---------------------------- | --------------- |
 | 1962 | Formación | Kingston “Chocomo Lounge” primer show en vivo | Modelo de llamada y respuesta |
 | 1966 | Lanzamiento de “Do the Reggay” | Público bailando en círculo | Nacimiento de la palabra “Reggae” |
-| 1968 | Aparición en la Fiesta Nacional | Miles de personas | Visualizando la evolución de los géneros musicales |
+| 1968 | Aparición en fiesta nacional | Varios miles de personas | Visualizando la evolución de los géneros musicales |
 | 1970 | Primera gira europea | “Club de Carnaval” de Londres | Pionero de difusión mundial |
 | 1972 | Vivir en Londres | Introducción de PA y guía de danza de improvisación | Establecimiento de música en vivo con énfasis en el sonido |
 | 1975 | Lanzamiento de "Funky Kingston" | Gira por Nueva York, participación del público | Penetración del mercado estadounidense |
@@ -214,6 +214,6 @@ D -->|象徴的・歴史的| E[文化継承・追悼ライブ]
 
 ## 8. Resumen
 
-Los espectáculos en vivo de Toots and the Maytals fueron la encarnación del desarrollo del género musical, la construcción de comunidades y el intercambio cultural internacional. La interactividad con el público, la improvisación y la continuidad histórica a través de presentaciones en vivo son las razones por las que su música se ha transmitido a través de los siglos. Las presentaciones en vivo no son sólo actuaciones musicales, sino rituales culturales que encarnan el reggae en sí.
+Los espectáculos en vivo de Toots and the Maytals fueron la encarnación del desarrollo del género musical, la construcción de comunidades y el intercambio cultural internacional. La interactividad con el público, la improvisación y la continuidad histórica a través de presentaciones en vivo son las razones por las que su música se ha transmitido a través de los siglos. Las presentaciones en vivo no son sólo presentaciones musicales, sino rituales culturales que encarnan el reggae en sí.
 
 ---

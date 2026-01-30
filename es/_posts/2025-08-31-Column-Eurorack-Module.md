@@ -54,7 +54,7 @@ Características: Producimos muchos módulos digitales de alta calidad y somos p
 
 **Módulos representativos**: Trenzas, Anillos, Nubes
 
-**Características**: Desarrollado como código abierto, proporciona módulos que permiten la creación de sonido flexible. Tiene una diversidad tonal particularmente excelente.
+**Características**: Desarrollado como código abierto, proporciona módulos que permiten la creación de sonido flexible. Es especialmente excelente en diversidad tonal.
 
 ---
 
@@ -94,7 +94,7 @@ Artistas como Alessandro Cortini y Keith Fullerton Whitman utilizan Eurorack par
 
 #### Tecno/IDM
 
-Muchos artistas utilizan Eurorack para presentaciones en vivo y producciones de estudio, creando sonidos dinámicos e improvisados.
+Muchos artistas utilizan Eurorack para presentaciones en vivo y producciones de estudio, creando sonidos dinámicos y de improvisación.
 
 #### Pop/Rock
 

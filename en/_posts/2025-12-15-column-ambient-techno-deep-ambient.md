@@ -100,7 +100,7 @@ Deep-sea ambient music has a high affinity with concentration, introspection, an
 
 ## 8. Redefining rhythm
 
-Rhythm in Ambient Techno is not a command to move the body. Pulses that appear at regular intervals are the basis for measuring time, like a depth gauge.
+Rhythm in Ambient Techno is not a command to move the body. Pulses that appear at regular intervals are the basis for measuring time, like a depth meter.
 
 In Deep Ambient, even this standard may be removed, but rather than being completely timeless, internal time is maintained through minute fluctuations.
 

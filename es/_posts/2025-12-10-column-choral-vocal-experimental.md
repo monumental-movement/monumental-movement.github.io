@@ -61,7 +61,7 @@ Aquí observamos a vista de pájaro cómo la música coral adquirió elementos e
 ## 2-2. Primera mitad del siglo XX: el surgimiento de perspectivas vanguardistas sobre la voz
 
 * El uso de la voz también se expandió rápidamente, con la técnica dodecafónica de Schoenberg y Webern, los ritmos multicapa de Stravinsky y la introducción de Bartok de los aspectos acústicos de la música folclórica.
-* Carmina Burana (1937) de Carl Orff se cita como una obra simbólica que trata la voz como una "fuente de energía primitiva".
+* Carmina Burana (1937), de Carl Orff, se cita como una obra simbólica que trata la voz como una "fuente de energía primitiva".
 
 ## 2-3. Ligeti y el nuevo pensamiento acústico (década de 1960)
 
@@ -124,7 +124,7 @@ Las técnicas corales experimentales se pueden clasificar en términos generales
 
 ## 4-1. Micropolifonía
 
-Una técnica desarrollada por Ligeti, en la que cada voz toca ritmos y patrones de sonido ligeramente diferentes al mismo tiempo.
+Una técnica desarrollada por Ligeti, en la que cada voz reproduce ritmos y patrones de sonido ligeramente diferentes al mismo tiempo.
 **Forma una nube acústica que esté “en movimiento y quieta”**.
 
 ### Fenómeno acústico (ejemplo)
@@ -187,7 +187,7 @@ Con estos, la imagen estática del coro queda completamente desmantelada, y la p
 
 Ligeti fue un compositor que simbolizó el pensamiento acústico del siglo XX y provocó las innovaciones más radicales en la música coral.
 
-### Características de las obras representativas
+### Características de las obras representativas.
 
 *《Lux Aeterna》: Micropolifonía sin acompañamiento
 * 《Requiem》: Textura densa y tensión en “Kyrie”
@@ -210,11 +210,11 @@ Whittaker es conocida por sus obras corales que mantienen una belleza clásica a
 ### Coro virtual
 
 “Virtual Choir”, que tuvo lugar en la década de 2010, es un intento de integrar voces individuales grabadas de todo el mundo y crear un coro gigantesco.
-Esto es notable en la historia de la música como una **expansión del concepto de canto coral en la era de Internet**.
+Esto es digno de mención en términos de la historia de la música como una **expansión del concepto de canto coral en la era de Internet**.
 
 ---
 
-## 5-3. otras personas importantes
+## 5-3. Otras personas importantes
 
 * Meredith Monk: Un enfoque minimalista que combina la voz con la expresión física.
 * Karlheinz Stockhausen: Tratamiento estructural del canto de armónicos en Stimmung (1968)

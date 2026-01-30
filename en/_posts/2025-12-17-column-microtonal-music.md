@@ -121,7 +121,7 @@ Partch's instruments had the following roles:
 
 * Visualization of interval structure
 *Direct engraving on the performer's body
-* 理論と実践の不可分化
+* Inseparability of theory and practice
 
 ### 5.3 Physicality, language, and pitch
 
@@ -234,7 +234,7 @@ Microtonal music retrains your hearing.
 * Fluctuations in tonal sense
 * Calling attention to pitch
 
-This is established not through intellectual understanding, but through repeated listening.
+This is established not through intellectual understanding but through repeated listening.
 
 ---
 
@@ -280,7 +280,7 @@ timeline
 
 ## 15. Conclusion
 
-Microtonal music is not an exercise in increasing pitch. This is a shift to a production philosophy that does not assume a fixed pitch. Harry Partch brought music back to the body and space, and Jacob Collier translated that theory into a modern sensibility. This movement will continue to work quietly in the depths of music production.
+Microtonal music is not an exercise in increasing pitch. This is a shift to a production philosophy that does not assume a fixed pitch. Harry Partch brought music back to the body and space, and Jacob Collier translated that theory into a modern sensibility. This movement will continue to work quietly in the deep layers of music production.
 
 
 ---

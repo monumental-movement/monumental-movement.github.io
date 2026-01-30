@@ -285,7 +285,7 @@ A pioneer who expanded black metal to orchestral sound**.
 *Cultural background
 
 * Discontinuation between Christianity (Lutheranism) as the national religion and ancient Nordic culture
-* Blockade of youth culture in the early 1990s
+* Blockage of youth culture in the early 1990s
 * Historical friction between politics and religion
 * Musical features
 

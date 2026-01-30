@@ -75,8 +75,8 @@ En el extranjero, se ha traducido como "pop retrofuturista" y "nostalgia estéti
 
 ## Capítulo 3: Vaporwave y la ilusión de la era Showa
 
-Vaporwave es un movimiento artístico que surgió de la cultura estadounidense de los tablones de anuncios de Internet a principios de la década de 2010.
-Los viejos anuncios japoneses, los gráficos digitales de los años 80 y las imágenes sonoras distorsionadas de los casetes se han reconstruido como las "reverberaciones" de la sociedad de consumo.
+Vaporwave es un movimiento artístico que se originó en la cultura estadounidense de los tablones de anuncios de Internet a principios de la década de 2010.
+Los viejos anuncios japoneses, los gráficos digitales de los años 1980 y las imágenes sonoras distorsionadas de los casetes han sido reconstruidos como las "reverberaciones" de la sociedad de consumo.
 
 No es casualidad que las melodías y sonidos de las canciones de Showa se fusionaran aquí de forma natural.
 **Reverberación suave, dulzura urbana y romanticismo excesivo. **
@@ -149,7 +149,7 @@ La nostalgia ya no se trata de retrospección, sino que se ha convertido en una 
 
 ## Conclusión: “Música del corazón” llamada Showa
 
-Las canciones showa están quedando grabadas en el mapa emocional del mundo, trascendiendo el contexto histórico de Japón.
+Las canciones Showa están quedando grabadas en el mapa emocional del mundo, trascendiendo el contexto histórico de Japón.
 Este eco es también un retorno a la "memoria individual" que se estaba perdiendo debido a la globalización.
 Las canciones de la era Showa se han convertido en un "refugio emocional" no sólo para los japoneses del pasado, sino para todos los jóvenes solitarios del siglo XXI.
 
@@ -164,7 +164,7 @@ Aunque la era Showa se ha vuelto muy lejana, continúa repitiéndose en la mente
 | Década de 1950 | Formación de canciones pop de posguerra, aparición de Hibari Misora ​​​​y Chiemi Eri | Fundación para compartir emociones entre las masas |
 | Década de 1970 | Nueva música y la época dorada de los ídolos | Yumi Matsutoya, Momoe Yamaguchi, Caramelos |
 | Década de 1980 | Madurez del pop urbano | Tatsuro Yamashita, Eiichi Otaki, Mariya Takeuchi |
-| Década de 2010 | Descubre el extranjero con YouTube y conéctate con la cultura vaporwave | Reevaluación de Miki Matsubara |
+| Década de 2010 | Descubre el extranjero con YouTube y conéctate con la cultura vaporwave | Miki Matsubara reevaluando |
 | Años 2020 | Auge global a través de TikTok y Spotify | “Showa Retro” reavivado, nacimiento de la música AI Showa |
 
 ---

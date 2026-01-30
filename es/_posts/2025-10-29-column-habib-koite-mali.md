@@ -26,7 +26,7 @@ title: '[Columna] Habib Koité & Bamada y el trasfondo musical y cultural de la 
 
 Texto: mmr｜Tema: Análisis musical integral de Habib Koité y Bamada, contexto histórico, herencia de la identidad africana y papel en la globalización.
 
-> Tradición de África Occidental y reconstrucción poscolonial: “Redefiniendo la música de Mali” dirigida por Habib Koité
+> Tradición de África occidental y reconstrucción poscolonial: “Redefiniendo la música de Mali” dirigida por Habib Koité
 
 ---
 
@@ -47,7 +47,7 @@ color: #fff;
 ## Introducción:
 
 A finales del siglo XX, la música del continente africano comenzó a impregnar el mundo en nuevas formas. Mientras Fela Kuti de Nigeria defendió el "afrobeat político", Habib Koité de Mali inició una revolución de una manera más silenciosa.
-──Con una sola guitarra, recreó el sonido del instrumento de cuerda tradicional de Mali, "kamarengoni", y creó "música de Mali sin fronteras" con la banda "**Bamada**".
+──Con una sola guitarra, recreó el sonido del instrumento de cuerda tradicional de Malí "Kamalengoni" y creó "música de Malí sin fronteras" con la banda **Bamada**.
 
 Su música no habla de política. Sin embargo, dentro de esa tranquilidad reside la **dignidad étnica y la continuidad cultural**. Koité fue un "traductor de la estética africana" en la era de la música global.
 
@@ -131,7 +131,7 @@ Por ejemplo, ``**Afriki**'' (2007) es un álbum que llama a la unidad del contin
 
 > “Hago música sin fronteras, pero sus raíces están en Mali.”
 
-Esta metáfora de “raíz y rama” describe mejor la filosofía de Habib Koité.
+Esta metáfora de "raíz y rama" describe mejor la filosofía de Habib Koité.
 
 ---
 

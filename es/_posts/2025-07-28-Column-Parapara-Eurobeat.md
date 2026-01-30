@@ -46,7 +46,7 @@ Esta estructura combinaba perfectamente con la danza parapara, que repite el mis
 
 <hora>
 
-### ¿Qué es Parapara? ──Placer de la repetición uniforme
+### ¿Qué es Parapara? ──El placer de la repetición uniforme
 ● Origen de Parapara
 
 - Ocurrió a finales de los años 1980 en discotecas de Roppongi y Shibuya, Tokio (Maharaja, Juliana Tokyo, etc.)
@@ -96,13 +96,13 @@ De esta manera, se formó y gradualmente se integró el exclusivo "mercado Eurob
 
 - Distribución de vídeos de coreografías (VHS, posteriormente DVD)
 
-- También aparecen series como “Parapara Paradise” y “Parapara Kyonen”
+- También están disponibles series como ``Parapara Paradise'' y ``Parapara Kyonen''.
 
 ● Producción de medios
 
 - “Gal charisma” introduce coreografías en programas de televisión y revistas.
 
-- El eurobeat se convierte efectivamente en tendencia adolescente
+- De hecho, el eurobeat se convirtió en una tendencia popular entre los adolescentes.
 
 - “Recordar = un ritual de participación” y crear una cultura de unidad y presión de grupo
 

@@ -50,7 +50,7 @@ color: #fff;
 
 
 ### Capítulo 1: Escape del punk rudo y torpe
-> **"La torpeza era sinceridad."**
+> **“La torpeza era sinceridad.”**
 
 Álbum debut lanzado en 1979 [``The Quality of Mercy Is Not Strnen''] (https://amzn.to/477GZ6y). El error tipográfico en el título "Stolen" simbolizaba la actitud de la banda.
 Grabado en Virgin Studios de Londres. En ese momento, dijeron: "Era la primera vez que veía una mesa mezcladora".
@@ -105,12 +105,12 @@ Durante este período, Mekons existió como una "comunidad artística a la deriv
 Se dijo que "la música de Mekons suena como si no perteneciera a ningún lado".
 Al igual que los inmigrantes, se movían entre contextos musicales, creando allí hogares temporales.
 El álbum [Journey to the End of the Night (2000)] (https://amzn.to/4q3A5HR) es un símbolo de esto, y su composición acústica, que incluye metales y violín, enfatiza su "extrañeza".
-Aunque usó Pro Tools para este trabajo, intencionalmente usó una consola analógica para mezclar, dejando un "desequilibrio humano".
+Aunque utilizó Pro Tools para este trabajo, utilizó deliberadamente una consola analógica para mezclar, dejando un "desequilibrio humano".
 
 ---
 
 ### Capítulo 5: Feminismo y solidaridad, perspectivas de las socias femeninas
-> **“A medida que crecen más voces, la verdad se vuelve más dividida.”**
+> **“A medida que las voces se multiplican, la verdad se divide.”**
 
 Sally Timms merece una mención especial en la historia de Mekons.
 Cuando se unió oficialmente al grupo en 1985, trabajó no sólo como vocalista, sino también como "narradora".
@@ -129,7 +129,7 @@ En las presentaciones en vivo, hay muchas escenas en las que Sally lee en voz al
 > **"Su arte es un testimonio y una celebración."**
 
 El documental de 2013 [Revenge of the Mekons](https://amzn.to/3KJVhCA) ​​​​mostró el núcleo del movimiento.
-El director Joe Angio las describe como "obras de arte vivientes".
+El director Joe Angio los describe como "obras de arte vivientes".
 Este trabajo muestra cómo los Mekons han atravesado diversas formas de expresión, incluyendo no sólo la música sino también la pintura, la fotografía, la poesía y el activismo político.
 El propio Jon Langford fue un pintor activo y presentó una "imagen antirromántica de Estados Unidos" al representar simbólicamente los paisajes del Medio Oeste estadounidense.
 

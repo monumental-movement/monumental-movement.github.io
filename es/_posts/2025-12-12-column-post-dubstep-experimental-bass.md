@@ -59,12 +59,12 @@ El ritmo se basa en **2 pasos** derivado del garage, pero también incluye ciert
 - El bombo oscila entre **110 y 130 BPM** en lugar de alrededor de 140
 - La caja tiene un tono de ataque débil sin enfatizar el contratiempo.
 - Los sombreros suelen estar hechos de grabaciones de campo procesadas en lugar de metal.
-- Utilice muestras breves no sólo de cajas de ritmos, sino también de sonidos de golpes de objetos pequeños, sonidos de raspado de papel, etc.
+- Además de las cajas de ritmos, puedes utilizar muestras cortas como el sonido de pequeños objetos golpeando, el sonido del papel raspando, etc.
 
 ### 1-3 Espacio acústico: reverberación, partícula, grabación de campo
 El post-dubstep puede describirse como un "género que crea espacio". En particular, los siguientes elementos son distintivos.
 
-- Utilice los ruidos de las calles de Londres (lluvia, sonidos de automóviles, puertas de entrada tocándose, etc.) como muestras.
+- Utilice los ruidos de las calles de Londres (lluvia, ruidos de automóviles, puertas de entrada tocándose, etc.) como muestras.
 - Reproducción de sonido reflejado en el espacio real usando Convolution Reverb
 - Texturizado de reverberación con Síntesis Granular
 - Las pausas de silencio y ruido afectan la estructura de la canción.
@@ -83,7 +83,7 @@ Su característica más importante es su capacidad para extraer el sentimiento d
 - Llevar Vinyl Crackle (ruido de grabación) al primer plano
 - La patada es un ataque bajo como un trueno distante en medio de la noche.
 - La trampa tiene un sonido seco, no metálico, sino como "trozos de madera rotos".
-- En general, domina un "rango medio brumoso" y la melodía sigue siendo un motivo breve.
+- En general, domina un “rango medio brumoso” y la melodía sigue siendo un motivo breve.
 - Uso frecuente de almohadillas de liberación cortas que desaparecen rápidamente
 
 ### Método de muestreo

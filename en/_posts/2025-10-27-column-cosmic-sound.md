@@ -86,7 +86,7 @@ Throughout the night it feels like a spaceship is going down and out of orbit.
 ## 4. Sound material science - Relocation of sound sources in Cosmic
 
 Baldelli was a pioneer of DJs who treated songs as "material."
-There was a strong sense of ""composing'' the recorded sounds again on the turntable.
+I had a strong sense of ""composing'' the recorded sounds again on the turntable.
 
 | Sources used | Specific examples |
 |:--|:--|

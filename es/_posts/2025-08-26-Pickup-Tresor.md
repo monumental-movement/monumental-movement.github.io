@@ -14,7 +14,7 @@ title: Recoger obras Tresor
 ---
 
 
-“El latido del techno resonando detrás de la puerta de hierro, las extraordinarias obras de Tresor”
+“El latido del techno resonando detrás de la puerta de hierro, las notables obras de Tresor”
 
 <hora>
 

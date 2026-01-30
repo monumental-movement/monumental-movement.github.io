@@ -34,7 +34,7 @@ Aunque a menudo se superpone con estilos como el chillout, el trip hop y la mús
 <hora>
 
 ### Revolución Chill Out de los 90
-Desde finales de los 80 hasta principios de los 90, el concepto de "sala chill-out" se extendió en la cultura de los clubes, principalmente en el Reino Unido. Este es un espacio relajante lejos del fuerte ruido del piso principal. Se puede decir que la música que sonaba en este espacio es el prototipo del downtempo.
+Desde finales de los 80 hasta principios de los 90, el concepto de "sala chill-out" se extendió en la cultura de los clubes, principalmente en el Reino Unido. Este es un espacio relajante lejos del ruido fuerte del piso principal. Se puede decir que la música que sonaba en este espacio es el prototipo del downtempo.
 
 
 <hora>
@@ -104,7 +104,7 @@ Artistas como Bonobo, Tycho, Khruangbin y los japoneses Pictured Resort y Cuushe
 ---
 
 ### El arte del sonido que calma las emociones.
-Downtempo es todo lo contrario del frenesí de fiesta, pero se ha convertido en un estilo de música importante que apoya las emociones, la concentración y la recuperación de la gente moderna. Su poder, que pasa desapercibido pero que actúa definitivamente sobre la mente, es verdaderamente un "gobernante silencioso".
+Aunque el downtempo es todo lo contrario del frenesí de fiesta, se ha convertido en un estilo musical importante que apoya las emociones, la concentración y la recuperación de la gente moderna. Su poder, que pasa desapercibido pero que actúa definitivamente sobre la mente, es verdaderamente un "gobernante silencioso".
 
 En estos tiempos en los que la tecnología evoluciona y todo se acelera, optar por reducir el ritmo es una elección muy radical y humana. Downtempo es música que te permite sumergirte profundamente en la emoción y el espacio sin competir por la velocidad.
 

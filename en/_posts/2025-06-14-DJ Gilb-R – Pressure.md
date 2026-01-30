@@ -17,7 +17,7 @@ title: DJ Gilb-R – Pressure
 DJ Gilb-R is the alias of French electronic music producer Gilbert Cohen.
 
 "Pressure" was released in 1997 on Gilbert Cohen's own French label Versatile Records.
-Techno & Drum n Bass track released.
+リリースされたtechno & Drum n Bassトラック。
 
 The B-side is a remix by Laurent Garnier, the world-famous DJ known as Choice.
 

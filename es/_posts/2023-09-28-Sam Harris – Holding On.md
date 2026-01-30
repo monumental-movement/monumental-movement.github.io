@@ -13,7 +13,7 @@ title: Sam Harris - Aguantando
 ---
 
 
-“Sam Harris – Holding On” es un lanzamiento de 1999 de Junior Vasquez que remezcla la canción principal de Samuel Kent Harris.
+“Sam Harris – Holding On” es un lanzamiento de 1999 de Junior Vasquez, remezclando la canción principal de Samuel Kent Harris.
 
 Remix – Junior Vásquez
 

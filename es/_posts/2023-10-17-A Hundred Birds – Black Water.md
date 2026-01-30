@@ -14,7 +14,7 @@ title: Cien pájaros – Agua negra
 
 A Hundred Birds es una banda orquestal japonesa que se formó en 1996 alrededor de DJ YOKU y toca música house con una banda orquestal.
 
-"Black Water" fue lanzado en 2006 por el sello "WAVE MUSIC" dirigido por François Kevorkian (Francois K.).
+"Black Water" fue lanzado en 2006 por el sello "WAVE MUSIC" dirigido por François Kevorkian (Francois K).
 
 Miembros participantes
 ・Omae Chizuru

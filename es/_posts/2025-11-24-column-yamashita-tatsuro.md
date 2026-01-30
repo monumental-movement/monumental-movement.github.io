@@ -67,7 +67,7 @@ Ya habían comenzado los arreglos y grabaciones optimizadas para característica
 
 ---
 
-# 2. Finales de la década de 1970: primer período en solitario y la forma completa de "Analog Layer"
+# 2. Finales de la década de 1970: período inicial en solitario y versión completa de “Analog Layer”
 
 ## ■ “ESPACIOSO” (1977), “¡ADELANTE!” (1978)
 Este período fue la era en la que Tatsuro hizo pleno uso de la grabación analógica de 24 pistas.
@@ -105,7 +105,7 @@ Características acústicas:
 3. Densidad y localización del coro perfectas.
 4. El lado de los agudos es redondeado y se siente como un oído analógico.
 
-Una obra rara que es completamente analógica pero tiene una resolución moderna.
+Una obra poco común que es completamente analógica, pero que tiene una resolución moderna.
 
 ---
 
@@ -240,7 +240,7 @@ punto:
 - Rico rango medio-bajo con consola NEVE
 - Cultivo de reverberación de placas EMT.
 
-Estas “condiciones específicas de tiempo” hacen que el pop urbano analógico suene único.
+Estas "condiciones específicas de la edad" hacen que el pop urbano analógico suene único.
 
 ---
 

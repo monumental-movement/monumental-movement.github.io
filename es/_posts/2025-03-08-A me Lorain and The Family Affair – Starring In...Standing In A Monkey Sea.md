@@ -18,7 +18,7 @@ title: A'me Lorain & The Family Affair – Protagonizada por... De pie en un mar
 ---
 
 
-Este álbum, lanzado por RCA en 1990, es el álbum debut de la cantante pop estadounidense A'me Lorain, al frente de la banda de funk The Family Affair. El título japonés es "Tokimeki no Wonderland".
+Este álbum, lanzado por RCA en 1990, es el álbum debut de A'me Lorain, cantante pop estadounidense y miembro principal de la banda funk The Family Affair. El título japonés es "Tokimeki no Wonderland".
 
 La canción Whole Wide World, lanzada en 1990, se convirtió en un gran éxito en las listas dance de Estados Unidos y apareció en la banda sonora de la película True Love.
 

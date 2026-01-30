@@ -58,7 +58,7 @@ Casi al mismo tiempo, estaba surgiendo una nueva expresión del punk en Los Áng
 
 ## Composición de miembros e historia de formación.
 
-La figura central de S.O.A es Henry Rollins. Rollins, más tarde conocido como el líder de Black Flag, era en ese momento un joven de Washington, D.C., y se unió a SOA mientras estaba en Nueva York. Aunque su estilo como vocalista era inmaduro en comparación con sus expresiones posteriores, ya poseía un sentido extremo de urgencia y franqueza.
+La figura central de S.O.A es Henry Rollins. Rollins, más tarde conocido como el líder de Black Flag, era en ese momento un joven de Washington, D.C., y se unió a S.O.A mientras estaba en Nueva York. Aunque su estilo como vocalista era inmaduro en comparación con sus expresiones posteriores, ya poseía un sentido extremo de urgencia y franqueza.
 
 Los miembros de guitarra, bajo y batería también estuvieron estrechamente relacionados con la escena punk underground de Nueva York y luego pasaron a otras bandas importantes. Esta estructura de ser "desmantelada en un corto período de tiempo y reconstruida de una forma diferente" era en sí misma una característica de la escena hardcore de principios de los años 1980.
 
@@ -78,7 +78,7 @@ Esta musicalidad es diferente de la "pesadez" y el "ritmo" del hardcore neoyorqu
 
 ## Letra y postura de expresión.
 
-Las letras de S.O.A son breves y directas, con poco uso de metáforas o narrativas. Lo que se representa aquí es una sensación fragmentada de opresión, ira y autodefensa. No prescribe explícitamente ninguna filosofía política o movimiento social en particular, sino que se centra en reacciones reflexivas ante las circunstancias en las que se encuentran los individuos.
+Las letras de S.O.A son breves y directas, con poco uso de metáforas o narrativas. Lo que se representa aquí es una sensación fragmentada de opresión, ira y autodefensa. No prescribe explícitamente ninguna ideología política o movimiento social en particular, sino que se centra en reacciones reflexivas ante las circunstancias en las que se encuentran los individuos.
 
 Esta actitud difiere de la posterior línea recta y política incondicional. La SOA existió en una etapa anterior a que hubiera desarrollado su ideología y emitía ansiedad y violencia no expresadas como sonido.
 
@@ -102,7 +102,7 @@ Sin política E.P. no es un trabajo que se evalúe por su integridad o calidad d
 
 Las actividades en vivo de S.O.A duraron poco y las sedes fueron limitadas. Actuaron principalmente en pequeños clubes y espacios de bricolaje, y solo eran conocidos dentro de la escena punk de Nueva York en ese momento. En las presentaciones en vivo, el énfasis estaba en la energía de la colisión más que en la perfección musical, y la distancia con el público era extremadamente cercana.
 
-La banda se disolvió alrededor de 1981. El motivo de la disolución del grupo se parece más a una desaparición espontánea debido al movimiento de los miembros y cambios en sus intereses, que a un incidente específico. Sin embargo, esta disolución no pone fin a S.O.A. Más bien, se propaga de otra manera.
+La banda se disolvió alrededor de 1981. El motivo de la disolución del grupo se parece más a una desaparición natural debido al movimiento de los miembros y cambios en sus intereses, que a un incidente específico. Sin embargo, esta disolución no pone fin a S.O.A. Más bien, se propaga de otra manera.
 
 > S.O.A era una banda en vivo y estaba más presente en el campo que en el disco.
 

@@ -74,7 +74,7 @@ Los DJ iban directamente a Estados Unidos para hacer compras, revisando el inven
 ## Cultura de club y el papel del DJ
 
 
-En Northern Soul, los DJ no eran sólo selectores de música, sino curadores culturales. La selección de canciones fue muy estratégica y competitiva, ya que los discos propiedad de un DJ en particular estaban directamente relacionados con la reputación del club.
+En Northern Soul, los DJ no eran sólo selectores de música, sino curadores culturales. La selección de canciones fue extremadamente estratégica y competitiva, ya que los discos propiedad de un DJ en particular estaban directamente relacionados con la reputación del club.
 
 Los clubes típicos incluyen el Twisted Wheel de Manchester y el posterior icónico Wigan Casino. En estos clubes eran comunes los eventos que duraban toda la noche, con bailarines bailando durante horas y horas.
 

@@ -43,7 +43,7 @@ color: #fff;
 
 ## Capítulo 1 Premisa de la música electrónica antes del electropop
 
-Para comprender la formación de los experimentos del pop electrónico, es necesario observar a vista de pájaro la historia de la combinación de música electrónica y música popular en la segunda mitad del siglo XX.
+Para comprender la formación del sistema experimental del pop electrónico, es necesario observar a vista de pájaro la historia de la combinación de música electrónica y música popular en la segunda mitad del siglo XX.
 
 ### Combinando sintetizador y estructuras pop.
 
@@ -75,7 +75,7 @@ Estos servirán más adelante como base para una mayor experimentación.
 * Diseño de imagen sonora que no esconde la artificialidad.
 * Expresión visual y producción musical simultáneas.
 
-Esta naturaleza experimental descompone la experiencia del oyente en múltiples capas y expande la escucha musical desde un "acto sólo auditivo".
+Esta naturaleza experimental descompone la experiencia del oyente en múltiples capas y expande la escucha musical desde una "actividad únicamente auditiva".
 
 ---
 
@@ -129,7 +129,7 @@ La naturaleza experimental de Carpenter Brut se manifiesta menos en la música m
 
 ## Capítulo 7 Experimentos de cultura visual y electropop
 
-En la música experimental electropop, los siguientes elementos trabajan juntos, en lugar de solo la música por sí sola.
+En la música experimental electropop, los siguientes elementos trabajan juntos, en lugar de solo la música.
 
 * Carátula del álbum
 * Vídeo musical
@@ -144,7 +144,7 @@ Están diseñados para ser parte de la experiencia musical, en lugar de informac
 
 El proceso de producción del electropop experimental se puede dividir en las siguientes etapas.
 
-1. Generación de tonos
+1. Generación de tono
 2. Diseño de ritmo
 3. Construcción de melodía
 4. Procesamiento vocal

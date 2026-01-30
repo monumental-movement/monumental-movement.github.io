@@ -99,7 +99,7 @@ Since the 2000s, giant "mutant vehicles" and sculptures made of fire have attrac
 
 ### Contemporary implications and challenges
 
-While Burning Man remains a hub of creativity, it faces commercialization, safety and environmental issues, and the question, "Who is Burning for?" The community is stepping up sustainability efforts (Leave No Trace, art grants) and sharing knowledge in regional networks.
+While Burning Man remains a hub of creativity, it faces commercialization, safety and environmental concerns, and the question, "Who is Burning for?" The community is stepping up sustainability efforts (Leave No Trace, art grants) and sharing knowledge in regional networks.
 
 ---
 

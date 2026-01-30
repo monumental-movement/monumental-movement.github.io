@@ -126,7 +126,7 @@ El jazz oscuro suena como "jazz oscuro y tranquilo", pero en realidad es una com
 - Construcción de armonía que prioriza la “atmósfera” sobre la armonía funcional en el jazz.
 
 ### ● 3. Procesamiento acústico
-- Producción espacial usando reverberación.
+- Producción espacial con reverberación.
 - sonidos sostenidos electrónicos
 - Ingredientes de baja fidelidad que añaden una textura similar a una cinta
 
@@ -218,7 +218,7 @@ flowchart TD
 
 ## 8. Estado actual del jazz oscuro
 A través de largas mezclas en YouTube y videos de “vista nocturna + jazz oscuro” de los espectadores,
-Desde la década de 2020 se ha producido una revalorización de la música, especialmente entre los jóvenes oyentes.
+Desde la década de 2020, se ha producido una reevaluación entre los jóvenes oyentes.
 
 - La “música tranquila” está ganando popularidad junto con la tendencia del Hip Hop Lo-fi
 - Se utiliza como música de fondo para producción de vídeo, VJ y películas independientes.
@@ -231,7 +231,7 @@ Continúa expandiéndose como "música que crea una atmósfera".
 
 ## 9. ¿Hacia dónde se dirige el jazz oscuro?
 Con la difusión de vídeos generados por IA, software VJ y juegos independientes,
-Ahora estamos en una era en la que se habla de imágenes y sonidos al mismo tiempo.
+Hemos entrado en una era en la que se habla de imágenes y sonidos al mismo tiempo.
 
 Debido a la naturaleza del jazz oscuro, que es "lento y tiene muchos espacios en blanco",
 Se cree que seguirá teniendo un nuevo valor al mezclarlo con imágenes.
@@ -243,7 +243,7 @@ Todavía existe una alta posibilidad de que crezca como el "sonido de la ciudad"
 ---
 
 # Al final
-El dark jazz no es la música de fondo de un bar ni los efectos sonoros de una ciudad nocturna;
+El dark jazz no es la música de fondo de un bar ni los efectos sonoros de una ciudad nocturna.
 **Este es un arte moderno que representa la soledad y las sombras de las ciudades utilizando únicamente el sonido. **
 
 Cada artista, principalmente Bohren & der Club de Gore, ha dibujado diferentes formas de dibujar sombras.

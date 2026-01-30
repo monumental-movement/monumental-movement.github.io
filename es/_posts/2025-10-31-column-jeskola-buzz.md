@@ -76,9 +76,9 @@ En este capítulo analizaremos en detalle "lo que era tecnológicamente innovado
 
 ### 3.1 Las fuentes y efectos de sonido se pueden manejar en unidades “máquinas”
 
-Buzz tiene una máquina "Generadora" que produce sonido y una máquina de "Efectos" que procesa el sonido, y los usuarios pueden organizarlas y conectarlas en la "Vista de Máquina".
+Buzz tiene una máquina "generadora" que crea sonido y una máquina de "efectos" que procesa el sonido, y los usuarios pueden organizarlos y conectarlos en la "vista de máquina".
 Por ejemplo, pude visualizar y construir un flujo de máquina de generación de formas de onda (oscilador)/máquina de muestreo (muestreador) → filtro → envolvente/LFO → reverberación/retardo → salida.
-Esta configuración permite un "enrutamiento libre" que rara vez se ve en los rastreadores/secuenciadores convencionales.
+Esta configuración permite un "enrutamiento libre" que rara vez se ve en rastreadores/secuenciadores convencionales.
 
 ### 3.2 Formato Tracker + conexión modular
 
@@ -107,7 +107,7 @@ Otro aspecto importante de Buzz fue que la comunidad de usuarios lo apoyó, comp
 
 ### 4.1 Uso compartido gratuito de complementos y cultura de mercado de fuentes sólidas
 
-Los usuarios de Buzz creaban máquinas de fuentes de sonido/máquinas de efectos y las distribuían de forma gratuita en foros y sitios web. Por ejemplo, muchas máquinas se publicaron en BuzzMachines.com y en foros de demostraciones.
+Los usuarios de Buzz creaban máquinas de fuentes de sonido/máquinas de efectos y las distribuían de forma gratuita en foros y sitios web. Por ejemplo, muchas máquinas se publicaron en los foros BuzzMachines.com y Demoscene.
 Esto hizo que fuera común descargar la máquina de otra persona e insertarla en tus propias canciones. En otras palabras, nació un ciclo en el que "los usuarios crean equipos (equipos de software) y luego los comparten con amigos e Internet".
 
 ### 4.2 Relación profunda con la demoscene
@@ -197,7 +197,7 @@ Incluso después de que el desarrollo oficial de Buzz se estancara, se ha deriva
 
 * Proyectos derivados/de imitación sin licencia (por ejemplo, clon de BuzzTrak/Buzz), entorno del módulo Tracker ejecutándose en Linux, etc.
 * Maduración de la cultura del software modular/plugin. El estilo de "los usuarios agregan extensiones y las comparten en línea" se ha vuelto común.
-* El espíritu de Buzz de “modular + improvisación” se hace referencia en el resurgimiento del hardware modular (por ejemplo, Eurorack). En el artículo anterior "Dreaming Of Wires", Holden dijo que "el pensamiento de cableado que aprendió de Buzz" se convirtió en el punto de partida para su transición al modular duro.
+* El espíritu de Buzz de “modular + improvisación” se hace referencia en el renacimiento de la modularidad del hardware (por ejemplo, Eurorack). En el artículo anterior "Dreaming Of Wires", Holden dijo que "el pensamiento de cableado que aprendió de Buzz" se convirtió en el punto de partida para su transición al modular duro.
 
 ### 6.4 Contribuir a la producción musical/educación/cultura del bricolaje
 
@@ -226,7 +226,7 @@ Esta estructura de estancamiento/reanudación también estuvo influenciada por f
 El legado de Buzz se puede clasificar en términos generales en tres cosas:
 
 - 1. **Difusión del pensamiento modular**: Se popularizó la idea de juntar parches en software, y se estableció la imagen de que ``crear sonido = conectar cables''.
-- 2. **Cultura de extensión/complemento de usuario**: se ha arraigado una cultura de usuarios que crean y comparten equipos, y se puede decir que es el prototipo de la comunidad VST/complemento actual.
+- 2. **Expansión de usuarios/cultura de complementos**: se ha arraigado una cultura de usuarios que crean y comparten equipos, y se puede decir que es el prototipo de la comunidad VST/complementos actual.
 - 3. **Promoción de creadores individuales/música DIY**: La producción de música electrónica indie/underground se ha revitalizado gracias a la disponibilidad de un entorno acústico sofisticado a bajo precio o de forma gratuita.
 
 Estas no son sólo reliquias de las "herramientas retro" del pasado, sino que también influyen en el entorno de producción musical actual e incluso en el contexto de los equipos modulares/en vivo.
@@ -249,7 +249,7 @@ A continuación se muestra una cronología de la historia y los principales even
 
 | Año | Eventos |
 | ------------ | ------------------------------------------------------------------- |
-| Alrededor de 1997 | Publicado Jeskola Buzz. Presentado como un rastreador modular para Windows.                                |
+| Alrededor de 1997 | Jeskola Buzz publicado. Presentado como un rastreador modular para Windows.                                |
 | 1998 | La versión inicial activa la comunidad de usuarios. Han aparecido muchos complementos/máquinas.                                    |
 | 1999 | Uso generalizado entre escenas de demostración y música electrónica independiente.                                                 |
 | 2000 (5 de octubre) | El desarrollador perdió el código fuente y anunció la suspensión oficial del desarrollo.                                |

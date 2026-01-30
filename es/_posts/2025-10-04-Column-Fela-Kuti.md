@@ -51,7 +51,7 @@ La música de Fela se caracteriza por ritmos repetitivos largos (de 10 a 30 minu
 
 ### Actividades políticas y culturales
 
-Fela declaró su mansión la "República de Kalakuta" y la operó como comunidad, estudio y espacio teatral. Ha habido repetidas y duras críticas al gobierno militar y hay muchos incidentes de ataques, detenciones y torturas por parte de la policía y el ejército (un incidente famoso es la anécdota de la "mierda cara"). Si bien estas posturas combativas lo han convertido en la "voz de los sin voz" de Nigeria, también han tenido un costo físico.
+Fela declaró su residencia la "República de Kalakuta" y la operó como comunidad, estudio y espacio teatral. Ha habido repetidas y duras críticas al gobierno militar y hay muchos incidentes de ataques, detenciones y torturas por parte de la policía y el ejército (un incidente famoso es la anécdota de la "mierda cara"). Si bien estas posturas combativas lo han convertido en la "voz de los sin voz" de Nigeria, también han tenido un costo físico.
 
 ---
 
@@ -114,7 +114,7 @@ Una canción de 20 minutos de duración que representa en sentido figurado el ca
 
 #### Finales de la década de 1970: pico político
 - **“Mierda cara” (1975)**
-Una obra maestra que aprovecha el caso de falsa condena por marihuana por parte de la policía. Incluye la canción representativa "Water No Get Enemy".
+Una obra maestra que aprovecha el caso de falsa condena por marihuana por parte de la policía. Contiene la canción representativa "Water No Get Enemy".
 - **Zombi (1977)**
 Una obra provocadora que critica a los militares llamándolos "zombis". Como resultado, se convirtió en el detonante del ataque a la República de Kalakuta.
 - **Dolor, lágrimas y sangre (1977)**

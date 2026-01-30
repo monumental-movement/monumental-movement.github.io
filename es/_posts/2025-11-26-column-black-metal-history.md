@@ -113,7 +113,7 @@ La atención se centró en los jóvenes músicos underground noruegos.
 * Establecer la grabación de baja fidelidad como “estética”
 *Riff de trémolo
 * Grita Vo
-* Expresión de “Ice Wasteland” a través de la repetición y la velocidad.
+* Expresión de “páramo de hielo” a través de la repetición y la velocidad.
 * Pintura de cadáver
 * Vista natural del invierno, el bosque y la soledad.
 
@@ -128,7 +128,7 @@ La atención se centró en los jóvenes músicos underground noruegos.
 
 ### ■ Incidente grave
 
-* 1991: Muere Dead of Mayhem.
+* 1991: Fallece Dead of Mayhem.
 * 1992: incendio provocado en una iglesia
 * 1993: Caso de asesinato Euronymous
 * 1993-1994: lanzamientos de álbumes importantes todos a la vez
@@ -224,7 +224,7 @@ Obras principales: *Bathory* (1984), *El regreso…* (1985), *Bajo el signo de l
 **Un evento decisivo que trajo elementos rituales de "muerte e inhumanidad" al black metal**.
 * Euronymous tiene su sede en Helvete (una tienda de discos en Oslo).
 **Formación de un círculo interno de metal negro (pequeña comunidad cercana). **
-* Posteriormente recibió atención mundial por el caso del asesinato de Euronymous (1993) y el incendio provocado en la iglesia.
+* Posteriormente ganó atención mundial por el caso del asesinato de Euronymous (1993) y el incidente del incendio provocado en la iglesia.
 
 ---
 
@@ -234,7 +234,7 @@ Obras principales: *Bathory* (1984), *El regreso…* (1985), *Bajo el signo de l
 Obras principales: *Burzum* (1992), *Det Som Engang Var* (1993), *Hvis lyset tar oss* (1994)**
 
 * La música apunta al minimalismo completo,
-**Un estilo que tiene como objetivo crear una naturaleza similar al trance y el colapso del sentido del tiempo a través de la repetición**.
+**Un estilo que pretende crear una naturaleza similar al trance y el colapso del sentido del tiempo a través de la repetición**.
 * Continuando haciendo una fuerte declaración en el debate cultural y religioso noruego a principios de los años 1990,
 Debido a la excesiva cobertura mediática, se estableció la "imagen peligrosa" del black metal.
 * Después del incidente (asesinato de Euronymous) y el arresto, la fuente de sonido de Burzum se volvió más ambiental.

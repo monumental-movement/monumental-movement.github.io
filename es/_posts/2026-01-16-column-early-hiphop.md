@@ -24,7 +24,7 @@ El fenómeno cultural que estaba ocurriendo en el sur del Bronx de Nueva York a 
 
 Los jóvenes simplemente se reunieron, hicieron música, bailaron, alzaron la voz y dejaron su huella en la ciudad. Esta serie de acciones se organizarían posteriormente como una única cultura.
 
-Lo importante para comprender esta era es que las prácticas culturales centrales ya existían incluso antes de Afrika Bambaataa, quien más tarde se convertiría en un ícono.
+Lo importante para comprender este período es que las prácticas culturales centrales ya existían incluso antes de Afrika Bambaataa, quien más tarde se convertiría en un ícono.
 
 El hip-hop no fue invención de una sola persona, sino un fenómeno complejo creado por el entorno y la necesidad.
 

@@ -69,7 +69,7 @@ Although Comus was not a commercial success, current 93 and many other dark folk
 
 # 2. 1970s: The emergence of American introspective folk and experimentation
 
-In America, psych-folk was not as defined as a collective movement in the UK, but the following trends are important:
+In the United States, psych-folk was not as defined as a collective movement in the United Kingdom, but the following trends are important:
 
 - **John Fahey and the Genealogy of American Primitives**
 Fingerpicking with improvisational, drone, and noise motives.
@@ -100,7 +100,7 @@ One of the central players is **Current 93 (led by David Tibet)**.
 He has defined the current characteristics of Experimental Folk: ""experimental music x acoustic x poetic recitation.''
 
 ## Intersection with Neofolk
-Neofolk (Death in June, Sol Invictus, etc.) is often politically controversial, but sonically
+Neofolk (Death in June, Sol Invictus, etc.) are often politically controversial, but sonically
 **Minimal arrangement x folk guitar x drone x solemn poetry**
 These elements are connected to Psych Folk's experimental orientation.
 
@@ -164,7 +164,7 @@ Noticeable in Current 93 and Neofolk series
 modes, ritual rhythms, religious poetry, etc.
 
 ## Thematic features
-- Mysticism, fables and religious symbols
+- Mysticism/Fables/Religious Symbols
 - Naturalism/pastoral scenes
 - Spiritual world/introspection
 - Quotes from folk tales/legends

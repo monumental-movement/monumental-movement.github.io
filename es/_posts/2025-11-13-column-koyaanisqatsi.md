@@ -32,7 +32,7 @@ En 1982, surgió de la escena del cine independiente estadounidense un largometr
 
 No hay narración ni diálogo en esta película.
 Lo que se muestra son sólo imágenes de la naturaleza y la sociedad humana. Y lo que los atraviesa es la **música minimalista** de Glass.
-Su estructura rítmica y estética de la repetición, si bien resuenan con el flujo de las imágenes, retratan la "transformación de la civilización moderna" en forma de sonido.
+Su estructura rítmica y estética de la repetición, si bien resuenan con el flujo de las imágenes, representan la "transformación de la civilización moderna" en forma de sonido.
 
 ---
 
@@ -67,7 +67,7 @@ Con el tiempo, los sonidos de las máquinas de la civilización humana, el ajetr
 ## Capítulo 2: La sólida construcción de Philip Glass
 
 La música de Glass se basa en la repetición, pero no es sólo repetición.
-La superposición de cambios mínimos crea una **"diferencia entre quietud y movimiento"**.
+La superposición de cambios diminutos crea una **"diferencia entre quietud y movimiento"**.
 
 Su partitura está precisamente sincronizada con los cortes y el tempo del metraje, como si el metraje hubiera sido editado para convertirlo en música.
 De hecho, el proceso de producción de Reggio y Glass implicó una edición en la que las imágenes y los sonidos hacían eco entre sí.
@@ -79,10 +79,10 @@ De hecho, el proceso de producción de Reggio y Glass implicó una edición en l
 
 ## Capítulo 3: Antecedentes de producción y desafíos técnicos
 
-El director de fotografía Ron Fricke también es un poeta visual que luego trabajó en "Baraka" y "Samsara".
+El director de fotografía Ron Fricke es también un poeta visual que luego trabajó en "Baraka" y "Samsara".
 La técnica de fotografía a intervalos y cámara lenta que desarrolló todavía era poco común en ese momento.
 
-La película comenzó como una producción completamente independiente, sin apoyo estatal ni empresarial.
+La película comenzó como una producción completamente independiente, sin apoyo estatal ni corporativo.
 También es de destacar que, en medio de dificultades financieras, se adoptó un proceso inverso en el que primero solo se completó la música y luego se editó el video.
 
 ---
@@ -117,13 +117,13 @@ Reggio es también una figura espiritual con experiencia en un monasterio, y tod
 
 ---
 
-## Capítulo 5: La relación entre la composición de vídeo y la música
+## Capítulo 5: La relación de correspondencia entre la composición de vídeo y la música
 
 | Escena | Motivo musical | Significado/efecto |
 | ----------- | -------- | ---------- |
 | Desierto y lanzamiento de cohetes | Sonido de órgano sostenido | Contraste entre vida y máquina |
 | Transporte urbano/fábricas | Repetición de secuencias | Ciclo laboral interminable |
-| Primer plano de la cara | Coro y desaceleración | Preguntas sobre la recuperación de la humanidad |
+| Primer plano de la cara | Coro y desaceleración | Preguntas sobre la restauración de la humanidad |
 | Cohete que colapsa | Silencio y decadencia | Fin de la civilización y renacimiento |
 
 Como muestra esta tabla, la música no es sólo un acompañamiento, sino que construye la "sintaxis emocional" de la imagen.

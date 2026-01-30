@@ -46,7 +46,7 @@ Las grabadoras de consumo se hicieron populares a finales de la década de 1970 
 
 #### Prácticas principales
 - Conecte el micrófono dinámico directamente a la platina de casete.
-- Grabaciones que contienen sonidos de la vida diaria.
+- Grabaciones mezcladas con sonidos de la vida diaria.
 - Grabación de una sola toma casi sin mezcla
 - Creación de sonido que conserva los ecos naturales de la habitación.
 
@@ -96,7 +96,7 @@ Los primeros trabajos de Sufjan Stevens, especialmente Seven Swans (2004), y sus
 - Completa tu propia mezcla en casa.
 - Grabación de órganos y banjos a corta distancia, preservando la textura Lo-Fi única
 
-En particular, en los primeros trabajos, la **rugosidad parecida a una cinta** y las **grabaciones vocales muy cercanas** son las características distintivas de Bedroom Folk.
+En particular, en los primeros trabajos, la **rugosidad parecida a una cinta** y las **grabaciones vocales muy cercanas** se han convertido en símbolos de Bedroom Folk.
 
 ---
 

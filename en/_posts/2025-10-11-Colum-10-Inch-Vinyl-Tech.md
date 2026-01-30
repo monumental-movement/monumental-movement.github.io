@@ -19,7 +19,7 @@ title: '[Column] 10-inch record technology supplement: The truth about groove wi
 ## 10-inch design concept: precision in the medium of format
 
 
-Text: mmr | Theme: Delving into the technical background of 10-inch records, such as their structure, rotation speed, and mastering, and reconsidering the uniqueness of the sound produced by the format.
+Text: mmr｜Theme: Delving into the technical background of 10-inch records, such as their structure, rotation speed, and mastering, and reconsidering the uniqueness of the sound produced by the format.
 
 
 The physical structure of a record embodies the philosophy of the musical format in its purest form.
@@ -77,7 +77,7 @@ Due to this structural feature, 10-inch discs exhibit the following acoustic tre
 - Tight midrange localization
 - High range is slightly rough, but has momentum
 
-This characteristic makes it suitable for live albums and rough mixes, and this is why artists who choose 10-inch discs emphasize experimentation.
+This characteristic makes it suitable for live recordings and rough mixes, and this is why artists who choose 10-inch discs emphasize experimentation.
 
 ---
 
@@ -96,7 +96,7 @@ Adjust sound pressure, stereo width, and phase.
 2. **Lacquer Cutting**
 Carve grooves on a 10-inch lacquer board.
 Groove width and pitch control are important.
-"Within 12 minutes at 33⅓ RPM" is one of the design criteria.
+"Within 12 minutes at 33⅓RPM" is one of the design criteria.
 
 3. **Electroforming**
 Copy with nickel in the order of master → mother → stamper.
@@ -161,7 +161,7 @@ It is no longer a format of the past, but a 10-inch **device of new time design*
 ### Conclusion: Musical philosophy in the physics of a disk
 
 When talking about the appeal of 10-inch discs in technical terms, what stands out behind it is the ""freedom created by constraints.''
-Design limitations, time constraints, and size constraints.
+Design limitations, time constraints, and size limitations.
 All of this makes the music "condensed" and restores its "feel."
 
 The format is philosophy, engineering, and poetry.
@@ -201,7 +201,7 @@ flowchart TB
     D["Depth of groove\n→ Depends on amplitude"]
     W["Groove width (Width)\n→ Proportional to sound pressure"]
 
-    S -->|follow| G
+    S -->|Follow| G
     G --> L
     G --> V
     G --> D

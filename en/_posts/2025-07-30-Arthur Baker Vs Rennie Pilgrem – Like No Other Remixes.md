@@ -18,7 +18,7 @@ Arthur Baker is a Hip Hop and Electro pioneer known for his collaborations with 
 
 Rennie Pilgrem is a key figure in the UK breakbeat & Nu skool breaks scene. In the early 1990s, he was a member of the UK hardcore breakbeat producer group Rhythm Section.
 
-This record is a remix of the single "Like No Other" by Arthur Baker and Rennie Pilgrem, a Breaks/Electro/Big Beat track released in 1999 on Rennie Pilgrem's own label Thursday Club Recordings (TCR).
+This record is a remix of the single "Like No Other" by Arthur Baker and Rennie Pilgrem, a Breaks/Electro/Big Beat track released in 1999 on Rennie Pilgrem's own label, Thursday Club Recordings (TCR).
 
 #### Tracklist
 ```md

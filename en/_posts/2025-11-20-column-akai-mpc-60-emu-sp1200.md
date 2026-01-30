@@ -420,7 +420,7 @@ flowchart TD
 <div class="mermaid">
     
 graph LR
-    A["12bit 4096 steps"] --> C["coarse step"]
+    A["12bit 4096 stages"] --> C["coarse step"]
     B["16bit 65536 stages"] --> D["Smooth step"]
 
 </div> 

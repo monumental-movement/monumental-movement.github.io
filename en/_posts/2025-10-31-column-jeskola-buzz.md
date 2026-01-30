@@ -25,7 +25,7 @@ In the mid-1990s, the world of electronic music/PC music production was at a maj
 Meanwhile, "Jeskola Buzz" by Finnish developer Oskari Tammelin appeared around 1997 (or is said to have had an alpha version before then).
 Buzz is a freeware (free distribution) modular tracker/sequencer for Windows that has been supported by many users. The biggest attraction was the environment in which ""sound sources (generators), effects (machines), and routing (wiring) could be freely assembled to recreate ""modular equipment" on software."
 
-This ""modular + tracker" configuration, unlike the GUI-centered DAWs (digital audio workstations) of the time, allowed for ""experimentalism" and a ""patch-like" approach, giving rise to a high degree of freedom in sonic exploration. Buzz has gone beyond simply being ""software that creates sounds," and has formed a ""cultural sphere'' where individuals can create and expand their own machines and evolve them together with the community. Some now see this trend as having influenced a soft modular environment, plug-in culture, and even a return to hard modularity.
+This ""modular + tracker" configuration, unlike the GUI-centered DAWs (digital audio workstations) of the time, allowed for ""experimentalism" and a ""patch-like" approach, giving rise to a high degree of freedom in sonic exploration. Buzz has gone beyond simply being ""software that creates sound" and has formed a ""cultural sphere'' where individuals can create and expand their own machines and evolve them together with the community. Some now see this trend as having influenced a soft modular environment, plug-in culture, and even a return to hard modularity.
 
 ---
 
@@ -53,7 +53,7 @@ What was distinctive about it was that the software itself consisted of a machin
 * Initial: Runs on Windows 95/98. It was lightweight and had a tracker-like pattern editing screen and a modular view (Machine View).
 * Plug-in ecosystem: Since the beginning of development, there has been a ""Buzzlib'' specification that allows users to freely create and distribute sound sources and effects, and many machines have appeared from the community.
 * Version upgrade: Official development was temporarily stalled (due to loss of source code), but it was announced in June 2008 that development would resume.
-*Final build: Build 1503 released on January 16, 2016.
+*Last build: Build 1503 released on January 16, 2016.
 
 ### Name meaning/background
 
@@ -77,7 +77,7 @@ In this chapter, we will analyze in detail the ""what was technologically innova
 
 Buzz has a ""Generator" machine that creates sound and an ""Effect" machine that processes sound, and users can arrange and connect them on the ""Machine View.''
 For example, I was able to visualize and build a flow of waveform generation machine (Oscillator)/sampler machine (Sampler) → filter → envelope/LFO → reverb/delay → output.
-This configuration allows for ""free routing'' that is rarely seen in conventional trackers/sequencers.
+This configuration enables ""free routing'' that is rarely seen in conventional trackers/sequencers.
 
 ### 3.2 Tracker format + modular connection
 
@@ -91,7 +91,7 @@ This led to the following trends:
 
 * Individual developers publish sound sources/effects, and you can enjoy new sounds/processing just by downloading and incorporating them.
 * Users began to take on the challenge of ""how far they could create circuits" and ""how much experimental sound could they get."
-* There has been an increase in the number of cases in which people who create experimental works that cross musical genres choose Buzz as a "tool."
+* People who create experimental works that cross musical genres are increasingly choosing Buzz as a "tool."
 
 ### 3.4 Lightweight, immediate, and superior as an experimental environment
 
@@ -111,7 +111,7 @@ This made it commonplace to download someone else's machine and insert it into y
 
 ### 4.2 Deep relationship with demoscene
 
-Buzz gained popularity in the demoscene (non-commercial experimental culture of computer art/music), mainly in Northern and Eastern Europe. Buzz's lightweight, expandability, and patchability were perfect for the demo scene, where the competition was to see how many unique sounds and images could be produced with as few resources as possible.
+Buzz gained popularity in the demoscene (non-commercial experimental culture of computer art/music), mainly in Northern and Eastern Europe. Buzz's lightweight, expandability, and patchability were perfect for the demo scene, where the competition was to see how many unique sounds and images could be produced using as few resources as possible.
 For this reason, the style of ""creating your own sound sources and creating patterns'' on Buzz was supported by many demo/indie creators.
 
 ### 4.3 Formation of online forum/tutorial
@@ -135,7 +135,7 @@ In this chapter, we will highlight artists who actually used Buzz or have been m
 ### 5.1 Definitely used: James Holden
 
 James Holden has mentioned in multiple interviews that he used Buzz to produce music. For example, a MusicRadar article states, "When we first interviewed Holden – all the way back in 2006 – he was using Jeskola Buzz, a free, tracker‑based software environment, to write his debut album *The Idiots Are Winning*."
-Additionally, forum posts include statements such as "James Holden's music … got me into it, he works primarily with (or at least used to) Buzz."
+Additionally, forum posts include statements such as "James Holden"s music … got me into it, he works primarily with (or at least used to) Buzz."
 
 #### Interview style quotation (reconstruction)
 
@@ -224,7 +224,7 @@ This stagnation/resumption structure was also influenced by external factors suc
 
 Buzz's legacy can be broadly categorized into three things:
 
-- 1. **Spread of modular thinking**: The feeling of putting together patches on software became popular, and the image that ""creating sound = connecting cables'' became established.
+- 1. **Spread of modular thinking**: The idea of ​​putting together patches on software became popular, and the image that ""creating sound = connecting cables'' became established.
 - 2. **User expansion/plugin culture**: A culture of users creating and sharing equipment has taken root, and can be said to be the prototype of today's VST/plugin community.
 - 3. **Promotion of individual creators/DIY music**: Indie/underground electronic music production has been revitalized by the availability of a sophisticated acoustic environment at a low price or free of charge.
 
@@ -236,7 +236,7 @@ These are not just relics of the "retro tools" of the past, but also influence t
 
 Buzz was more than just software. It was a ""tool that encourages free sound creation," a ""platform that allows individuals to experiment, share, and expand," and ""released modular audio/tracker culture on the PC.''
 
-Today, we live in an era of high-performance DAWs, cloud sharing, and software/hardware integration, but at the core of this is the idea of ​​""light, free, and scalable'' that Buzz fostered, and to some extent we have inherited the same genes.
+Today, we live in an era of high-performance DAWs, cloud sharing, and software/hardware integration, but at the root of this is the idea of ​​""light, free, and scalable'' that Buzz fostered, and to some extent we have inherited the same genes.
 
 To put it another way, the existence of Buzz has broken down the stereotype that ""you can"t start playing music because you don"t have the equipment," and opened the door to ""as long as you have an idea and a curiosity, you can explore sounds with just a PC at home." That door continues to be one of the "entrances" for many creators.
 

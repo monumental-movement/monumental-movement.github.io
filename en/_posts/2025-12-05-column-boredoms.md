@@ -113,7 +113,7 @@ The sound became layered, a trance feeling slipped into the repetitive rhythm, a
 The following year"s 1999"s Vision Creation Newsun was one of the defining works of Boredoms' career.
 Natural sounds, ethnic percussion, sustained sounds and cyclical structures, guitar drones, multi-layered rhythms...
 
-The Boredoms weren't even a "rock band" here; they were deep into cosmic minimalism and ritual trance.
+The Boredoms weren't even a "rock band" here, but instead deepened into cosmic minimalism and ritual trance.
 
 ---
 
@@ -219,7 +219,7 @@ Since the early 1990s, Ai has been using turntables and cassettes as materials, 
 ## 7.3 Inclination to Rhythm (2000s)
 During the bore drum period, Ai's interest shifted greatly to the physical aspects of rhythm, and his role as a conductor became central.
 
-### Evolution of Eye expression
+### Eye expression evolution
 
 <div class="mermaid">
 flowchart TD

@@ -9,13 +9,13 @@ permalink: /es/kay-sand-too-funghi/
 tags:
 - House
 - Tech House
-title: Kay Sand - Demasiado Funghi
+title: Kay Sand – Demasiado Funghi
 ---
 
 
 Kay Sand es un proyecto del DJ italiano Francesco Sperotto lanzado en 2009 en el sello alemán Deep Moves.
 
-Los remixes también son excelentes, incluida la canción italiana "Minimono" y el nombre real de Domenico Cipriani "Lucreito".
+Los remixes también son excelentes, incluida la canción italiana "Minimono" y el nombre real de Domenico Cipriani, "Lucreito".
 
 #### Lista de canciones
 ```md

@@ -87,7 +87,7 @@ Explosions in the Sky is an instrumental rock band formed in Austin, Texas in 19
 
 What is symbolic about their early activities is a coincidental event that occurred immediately after their debut. The release of the work that brought their music so much attention coincided with a period of special significance to American society, unintentionally arousing strong emotional associations. This experience is said to have made them strongly aware that ""music takes on meaning depending on its context.''
 
-The song structure of Explosions in the Sky is clear. Simple arpeggios and single-note phrases are presented, and as they are repeated, the number and volume of notes gradually increase. The drums visualize the rise of emotion in stages, eventually forming a big climax.
+The song structure of Explosions in the Sky is clear. Simple arpeggios and single-note phrases are presented, and as they are repeated, the number of notes and volume gradually increases. The drums visualize the rise of emotion in stages, eventually forming a big climax.
 
 The reason their music has been used in so many video productions is because of the way they open up their emotions. Rather than imposing a specific narrative, the space is maintained to naturally evoke the listener's own memories and experiences.
 
@@ -99,7 +99,7 @@ The reason their music has been used in so many video productions is because of 
 
 ## Godspeed You! Black Emperor: A group that carves society and time
 
-Godspeed You! Black Emperor is a music collective that started in Montreal in the late 1990s. It has a strong character as a fluid collective rather than a fixed member composition, and is characterized by a large composition that uses multiple guitars, basses, drums, string instruments, and field recordings.
+Godspeed You! Black Emperor is a music collective that started in Montreal in the late 1990s. It has a strong character as a fluid collective rather than a fixed member composition, and is characterized by a large formation that uses multiple guitars, basses, drums, string instruments, and field recordings.
 
 Their work deviates greatly from the framework of a typical rock album. The piece is long and structured like multiple movements, alternating between silence and noise, melody and chaos. There are often no clear hooks or resolutions, requiring patience and concentration from the listener.
 

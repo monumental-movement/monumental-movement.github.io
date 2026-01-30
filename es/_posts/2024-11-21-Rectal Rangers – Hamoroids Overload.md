@@ -14,7 +14,7 @@ title: Rectal Rangers – Hamoroides / Sobrecarga
 ---
 
 
-Rectal Rangers es un proyecto de Gorden Flintrop, Kevin Sieja y Oliver Cats. Hay otro nombre llamado Stormcatchers.
+Rectal Rangers es un proyecto de Gorden Flintrop, Kevin Sieja y Oliver Cats. También hay Stormcatchers con otro nombre.
 
 "Hamoroids/Overload" es una pista de trance duro lanzada en 2003 por el sello de trance alemán Waterworld.
 

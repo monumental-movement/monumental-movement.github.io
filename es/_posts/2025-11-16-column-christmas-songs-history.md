@@ -112,7 +112,7 @@ C --> D[世界的定番曲への橋渡し]
 
 ---
 
-Lanzado en 1984, "Last Christmas" combina pop sintético y un romance desgarrador. Un éxito de larga duración con muchas versiones y remezclas.
+Lanzado en 1984, "Last Christmas" combina sintetizador pop y un romance desgarrador. Un éxito de larga duración con muchas versiones y remezclas.
 
 ### Tatsuro Yamashita “Nochebuena”
 
@@ -221,7 +221,7 @@ D --> E[2020s オンライン・ストリーミング定番化]
 
 | Época | Características |
 | ----------- | -------------------------------- |
-| Décadas de 1950 y 1970 | Jazz, pop, soul/familia, religión, paisajes invernales |
+| Décadas de 1950-70 | Jazz, pop, soul/familia, religión, paisajes invernales |
 | Mediados de la década de 1970 | Fusión disco-soul en “Christmas Jollies” |
 | Década de 1980 | Synth pop/romance urbano/establecimiento de canciones estándar |
 | Década de 1990 | Mariah Carey establece la música pop moderna centrada en el amor |

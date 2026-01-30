@@ -153,7 +153,7 @@ For this reason, the remix group of "Clareia" was acclaimed worldwide as a new b
 
 ## **6. Characteristics of music style**
 
-Sabrina Malleiros' songs consistently exhibit the following characteristics:
+Sabrina Mallheiros' songs consistently exhibit the following characteristics:
 
 ### ● **Soft vocals and urban elegance**
 

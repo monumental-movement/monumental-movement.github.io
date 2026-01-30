@@ -22,7 +22,7 @@ Texto: mmr｜Tema: La genealogía del funk electrónico y la estructura, equipam
 
 Electro-Funk/Modern Funk no es un nombre que haga referencia a una época específica o a un solo movimiento. Este nombre es un marco integral que se refiere a todo el proceso mediante el cual los principios estructurales del funk establecidos en la década de 1970 se han reorganizado al tiempo que abarcan instrumentos musicales electrónicos y entornos de producción digital.
 
-La esencia del funk tiene menos que ver con progresiones de acordes y melodías que con ritmos repetidos, líneas de bajo y un sentido físico del tiempo. Electro-Funk/Modern Funk ha cambiado sus métodos de producción y diseño sonoro sin perder su esencia. Como resultado, se han logrado múltiples logros, incluido el funk electrónico basado en estudio y el funk extendido basado en interpretaciones.
+La esencia del funk reside en ritmos repetidos, líneas de bajo y un sentido físico del tiempo, más que en progresiones de acordes o melodías. Electro-Funk/Modern Funk ha cambiado sus métodos de producción y diseño sonoro sin perder su esencia. Como resultado, se han logrado múltiples logros, incluido el funk electrónico basado en estudio y el funk extendido basado en interpretaciones.
 
 Los derivados de Chromeo y Jamiroquai son símbolos de esta estructura paralela, y este artículo se centrará en ambos para describir el proceso de formación y la estructura interna del género en su conjunto.
 
@@ -45,7 +45,7 @@ color: #fff;
 ## Capítulo 1: La estructura original del funk
 
 
-El funk es música impulsada por el ritmo y el bajo. Las progresiones armónicas se mantienen al mínimo y las mismas frases se repiten durante largos períodos de tiempo. Esta repetición no está estancada, sino una estructura dinámica que se actualiza constantemente mediante los cambios de acento, sincronización y timbre del intérprete.
+El funk es música impulsada por el ritmo y el bajo. Las progresiones armónicas se mantienen al mínimo y las mismas frases se repiten durante largos periodos de tiempo. Esta repetición no está estancada, sino una estructura dinámica que se actualiza constantemente mediante los cambios de acento, sincronización y timbre del intérprete.
 
 En el funk de la década de 1970, la batería formaba un ritmo basado en semicorcheas y el bajo manipulaba el centro de gravedad del ritmo mientras se entrelazaba con el bombo. Las guitarras y los teclados funcionaban como instrumentos rítmicos, con énfasis en cortar y apuñalar más que en los acordes.
 
@@ -69,7 +69,7 @@ A principios de los años 80, el uso generalizado de cajas de ritmos marcó un p
 
 Sin embargo, la mecanicidad total socava el atractivo del funk, por lo que se introduce una "pseudofísica" utilizando valores de swing y cambios de velocidad. Esta idea fue heredada del Electro-Funk al Modern Funk.
 
-Al mismo tiempo, las líneas de bajo sintetizadas se volvieron comunes y el rango bajo pasó a estar dominado por el diseño tonal más que por la técnica de interpretación.
+Al mismo tiempo, las líneas de bajo de los sintetizadores se volvieron comunes y el rango bajo pasó a estar dominado por el diseño tonal más que por la técnica de ejecución.
 
 ---
 

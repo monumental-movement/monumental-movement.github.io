@@ -101,7 +101,7 @@ Se puede decir que son técnicas para reconstruir la "materialidad perdida".
 
 ### 4-1 Antecedentes: El arte nacido en una era de futuro perdido
 
-Hacia 2010, con la combinación del sentimiento de encierro tras la crisis financiera y la cultura de archivo de Internet, el vaporwave se convirtió en un dispositivo cultural que reconstruía la "imagen futura del pasado".
+Alrededor de 2010, cuando se superpusieron el sentimiento de encierro tras la crisis financiera y la cultura de archivo de Internet, el vaporwave se convirtió en un dispositivo cultural que reconstruía la "imagen futura del pasado".
 
 ### 4-2 Semiótica
 
@@ -176,7 +176,7 @@ graph TD
 
 ¿Qué es vaporwave y su definición básica**?
 
-### **5-1 Hacia una existencia que trasciende el “género”**
+### **5-1　Más allá del “género”**
 
 Inicialmente, el vaporwave fue tratado como un "género menor que se originó en Internet", pero
 Después de difundirse durante más de 10 años, se ha convertido en un dispositivo cultural que trasciende los géneros, como se muestra a continuación.

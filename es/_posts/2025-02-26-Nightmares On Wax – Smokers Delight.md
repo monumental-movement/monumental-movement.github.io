@@ -15,7 +15,7 @@ title: Pesadillas con cera – Delicia para fumadores
 ---
 
 
-Nightmares On Wax's Smokers Delight (1995), el segundo álbum del proyecto del productor británico George Evelyn, fue lanzado en Warp Records y consolidó su lugar en la historia del downtempo y el trip-hop. El álbum sigue siendo una obra maestra atemporal, que transporta a los oyentes a un relajante reino relajante, un paso alejado del ajetreo y el bullicio de la cultura de discoteca.
+Nightmares On Wax's Smokers Delight (1995), el segundo álbum del proyecto del productor británico George Evelyn, fue lanzado en Warp Records y consolidó su lugar en la historia del downtempo y el trip-hop. Este álbum sigue siendo una obra maestra atemporal, que transporta a los oyentes a un relajante reino relajante, un paso alejado del ajetreo y el bullicio de la cultura de discoteca.
 
 En primer lugar, el núcleo de "Smokers Delight" radica en su "ritmo relajado". El álbum se abre con "Nights Introlude", con cuerdas suaves y un ritmo suave que muestra "Summer In The City" de Quincy Jones, atrayendo instantáneamente al oyente a un espacio relajante.
 

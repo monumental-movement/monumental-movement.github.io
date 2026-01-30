@@ -26,7 +26,7 @@ Un laberinto de sonidos que despierta la curiosidad intelectual: IDM (Intelligen
 ---
 
 ## Principios de los 90: Nacimiento - El germen de la “música de baile para escuchar”
-A finales de la década de 1980, en medio de la cultura rave y la locura del techno en el Reino Unido, los sellos y artistas underground comenzaron a explorar la música electrónica para escucharla en casa, en lugar de ser sólo una herramienta de club.
+A finales de la década de 1980, en medio de la cultura rave y la locura del techno en el Reino Unido, los sellos y artistas underground comenzaron a explorar la "música electrónica para escuchar en casa" en lugar de ser simplemente una herramienta de club.
 La serie "Artificial Intelligence" publicada por Warp Records en 1992 fue un punto de inflexión decisivo y el nombre "IDM" se generalizó.
 
 - **Obra maestra representativa**
@@ -99,7 +99,7 @@ Los sintetizadores de hardware como **Nord Lead** y **Access Virus** se hicieron
 ---
 
 ## Década de 2000: post-IDM y crossover
-Fusionándose con la electrónica, el post-rock, el ambient, etc., se expande a un abanico más amplio de oyentes. Con la expansión de Internet y P2P, la naturaleza de los lanzamientos ha cambiado.
+Fusionándose con la electrónica, el post-rock, el ambient, etc., se expande a un abanico más amplio de oyentes. Con la expansión de Internet y P2P, la forma en que se realizan las publicaciones también ha cambiado.
 
 - **Obra maestra representativa**
 - Juntas de Canadá – *Geogaddi* (2002)

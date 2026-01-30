@@ -16,7 +16,7 @@ title: Stereo De Luxe – Salsa De Alma
 
 Stereo de Luxe es un dúo de DJ y productores de Berlín.
 
-Fundada originalmente en 1994 por Karsten "Kassi" Wolf, un DJ solista bajo el nombre artístico Stereo de Luxe, la banda estuvo activa en las escenas lounge, easy listening y club pop de Berlín.
+Fundada originalmente en 1994 por Karsten "Kassi" Wolf, un DJ solista bajo el nombre artístico Stereo de Luxe, la banda estuvo activa en la escena lounge, easy listening y club pop de Berlín.
 
 Formó un dúo con Thomas Mävers en 1998. Los estilos musicales cambiaron hacia el breakbeat, el house y el electro-funk. Su primer EP como dúo, "Aerocyclette 1999", fue lanzado en el sello Bungalow Records.
 

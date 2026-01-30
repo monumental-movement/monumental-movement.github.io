@@ -116,7 +116,7 @@ El hip-hop tiene los "cuatro pilares" de las fiestas de barrio, el graffiti, el 
 
 ---
 
-Se ha dado al metal la imagen de estar "demonizado" y ha suscitado polémicas sobre la autorregulación como la del PMRC. Dependiendo del subgénero, también puede crear conflictos sociales por incidentes violentos y declaraciones discriminatorias.
+Se ha dado al metal la imagen de "demonizado" y ha suscitado polémicas en torno a la autorregulación como la del PMRC. Dependiendo del subgénero, también puede crear conflictos sociales por incidentes violentos y declaraciones discriminatorias.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G3LvhdFEOqs?si=4R5mtsKWW15IxBLC" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -141,7 +141,7 @@ Aunque la música grunge/alternativa defendía una postura anticomercial, rápid
 
 ---
 
-La representación explícita que hace el gangsta rap de la violencia policial, la desigualdad social y las normas callejeras lo convirtió en un objetivo para los medios. El debate sobre la imitabilidad de la violencia y la expresión reales se ha convertido en una cuestión social.
+La representación explícita del gangsta rap de la violencia policial, la desigualdad social y las normas callejeras lo convirtió en un objetivo para los medios. El debate sobre la imitabilidad de la violencia y la expresión reales se ha convertido en una cuestión social.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VMYAEHE2GrM?si=Xy2ZiHUL6lCAMwk0" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 

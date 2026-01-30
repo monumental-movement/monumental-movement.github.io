@@ -26,7 +26,7 @@ El flujo de fondo es el siguiente.
 
 * Finales de la década de 2000: Profundización del dubstep en el Reino Unido (Skream, Benga, Digital Mystikz)
 * 2008-2010: Auge de los enfoques melódicos (por ejemplo, Mt. Eden)
-* Década de 2010: Difusión de “Chillstep Compilation” en YouTube
+* Década de 2010: difusión de “Chillstep Compilation” en YouTube
 * Artistas como Blackmill y MitiS han establecido un estilo orientado a la melodía.
 
 El resultado fue "el dubstep como expresión emocional", que absorbió elementos líquidos del ambient, el trance y el drum and bass, y creció hasta convertirse en un género profundamente conectado con el EDM, el lo-fi y la hermosa cultura de edición de videos.
@@ -60,7 +60,7 @@ Las características incluyen lo siguiente:
 * Proporciona dinámica de respiración sin hacer que la cadena lateral sea extremadamente profunda.
 * Centrarse en “construir ~ melodía” en lugar de soltar
 
-Aunque la influencia de Mt. Eden es grande, el nombre "Chillstep" como género surgió espontáneamente dentro de la cultura de Internet.
+Aunque la influencia de Mt. Eden es grande, el nombre del género "Chillstep" surgió naturalmente dentro de la cultura de Internet.
 
 ---
 
@@ -70,7 +70,7 @@ Aquí organizaremos las características a nivel del proceso de producción.
 
 ### 2-1 BPM/Estructura
 
-* El BPM suele estar alrededor de **140** (estándar de dubstep)
+* El BPM suele rondar los **140** (estándar de dubstep)
 * Tambor de entretiempo (tiempo de caja 2)
 * Las gotas existen, pero usan "espacios en blanco" en lugar de agresión.
 
@@ -96,7 +96,7 @@ El símbolo de Chillstep es "subgrave suave".
 
 * Reverb: Grande, pero con fuerte corte de agudos
 * Retraso: 1/4, 1/8 reflejos suaves punteados
-* Cadena lateral: crea distancia entre la batería y los pads.
+* Cadena lateral: crea distancia entre tambores y pads
 * Capa de ruido: Ambiente como viento, lluvia, silbido analógico, etc.
 
 ### 2-5 Diferencias con Liquid Dubstep
@@ -152,7 +152,7 @@ El trabajo de MitiS se extiende suavemente entre el Chillstep y el Melodic Dubst
 
 ## 4. La cultura del vídeo de Chillstep y su difusión en Internet
 
-Es importante que Chillstep se difunda como una "cultura visual" junto con la música.
+Es importante que Chillstep se difunda junto con la música como una "cultura visual".
 
 * Vista nocturna, cielo estrellado, niebla, bosque.
 * Tono cinematográfico de baja saturación.

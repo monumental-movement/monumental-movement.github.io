@@ -119,7 +119,7 @@ Introducción temprana del concepto de “música que apoya el gusto”.
 
 ---
 
-## Capítulo 6 Psicología de la marca sonora: fusión del gusto y el oído
+## Capítulo 6 Psicología del branding sonoro: fusión del gusto y el oído
 - Los sonidos agudos enfatizan la dulzura.
 - El rango bajo enfatiza el amargor
 - Aumento de la tasa de rotación en un 15 % con música de fondo en la tienda de 120 bpm
@@ -153,7 +153,7 @@ timeline
 | ------- | ----------- | ------------------------------------------------- | ----------- |
 | McDonald's | Pop/R&B | Pharrell Williams, Kazuo Otani, Hiroshi Kawabe | Felicidad/Unificación Global |
 | hamburguesa rey | Rock/Hip-Hop | Los hermanos Dust, Mark Mothersbaugh, Creepy Nuts | Rebelión, Libertad, Individualidad |
-| Hamburguesa Mos | Sonido acústico/ambiental | Hajime Mizoguchi, Kaho Nakamura, Trío Ohashi | Hecho a mano/Calidez |
+| Hamburguesa Mos | Sonido acústico/ambiente | Hajime Mizoguchi, Kaho Nakamura, Trío Ohashi | Hecho a mano/Calidez |
 | Lotería | Tecno pop/Ciudad | Yoshinori Sunahara, Hiroshi Fujiwara | Urbano/Sofisticado |
 | Frescura | Jazz/Bossa Nova | Toru Hashimoto (SUBURBIA) | Alta calidad/sensación de cafetería |
 

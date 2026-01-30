@@ -23,7 +23,7 @@ The cultural phenomenon that was occurring in New York's South Bronx in the earl
 
 Young people just gathered together, made music, danced, raised their voices, and left their mark on the city. This series of actions would later be organized as a single culture.
 
-What is important in understanding this era is that the core cultural practices already existed even before Afrika Bambaataa, who would later become an icon.
+What is important in understanding this period is that the core cultural practices already existed even before Afrika Bambaataa, who would later become an icon.
 
 Hip-hop was not the invention of one person, but a complex phenomenon created by environment and necessity.
 
@@ -74,13 +74,13 @@ D --> E[The emergence of an informal culture]
 
 DJs played the most central role in early hip-hop culture. However, DJs at this stage were more like event organizers than the musicians and artists they are today.
 
-The DJ was responsible for preparing the sound equipment, securing power, bringing in records, and making the party itself happen. In addition to ""selecting" the music, it was also necessary to ""create the space."
+The DJ was responsible for preparing the sound equipment, securing power, bringing in records, and making the party happen. In addition to ""selecting" the music, it was also necessary to ""create the space."
 
-The act of extracting rhythmic parts from funk and soul records and repeating them while observing the audience's reaction became spontaneously refined.
+The act of extracting rhythmic parts from funk and soul records and repeating them while observing the audience's reaction became spontaneous and sophisticated.
 
 At this stage, DJs were more time-manipulators than creators.
 
-> The DJ was not a person who played music, but a person who controlled the energy of the group.
+> The DJ's role was not to play music, but to control the energy of the group.
 
 ---
 
@@ -89,7 +89,7 @@ At this stage, DJs were more time-manipulators than creators.
 
 Funk and soul records often had short interludes that consisted of only instrumental music. At this moment, the DJ notices that the dancers' movements are at their most intense.
 
-By using two copies of the same record and playing parts of them alternately, a technique was created to intentionally lengthen the rhythm. This became the prototype of the structure that would later be called a breakbeat.
+By using two copies of the same record and playing parts of them alternately, a technique was created to intentionally lengthen the rhythm. This became the prototype for the structure that would later be called a breakbeat.
 
 What is important is that this method was not a theoretical invention, but was created as a result of observing audience reactions. The musical structure was reorganized by bodily responses.
 

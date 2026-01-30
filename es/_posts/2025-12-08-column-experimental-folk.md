@@ -30,7 +30,7 @@ Texto: mmr｜Tema: Cambios a lo largo del tiempo, técnicas y antecedentes cultu
 Es un género que ha ampliado el marco de la música folclórica al incorporar cosas como la música folclórica.
 
 Abarcan desde el movimiento psicodélico de finales de los años 1960, el resurgimiento del folk británico, el folk ácido estadounidense, hasta la escena musical postindustrial/experimental de los años 1980 a 2000.
-Por tanto, el género se define no tanto por un "sonido uniforme" sino por "experimentos acústicos" centrados en la acústica.
+Por lo tanto, el género se define no tanto por un "sonido uniforme" sino por "experimentos acústicos" centrados en la acústica.
 
 
 ---
@@ -77,7 +77,7 @@ Tocar con los dedos con motivos de improvisación, drones y ruido.
 Fahey fue un "experimentador de la guitarra folclórica" ​​e influyó mucho en los artistas posteriores.
 
 - **Trabajos posteriores de Tim Buckley**
-Introducir el fraseo del jazz y las estructuras no lineales en la música folklórica.
+Introducir el fraseo del jazz y las estructuras no lineales en la música folk.
 
 - **Linda Perhacs (“Paralelogramos”, 1970)**
 Una producción experimental que combina procesamiento de cintas, cuerdas y trabajo de coros.
@@ -92,7 +92,7 @@ En las décadas de 1980 y 1990, el "neofolk" con elementos acústicos surgió de
 Uno de los actores centrales es **Current 93 (liderado por David Tibet)**.
 
 ## Características de la actual 93
-- Al principio, los elementos ruido/industriales eran fuertes.
+- Al principio hubo un fuerte elemento ruido/industrial.
 - Desde la década de 1990, la atención se ha desplazado hacia los instrumentos acústicos como el armonio, la guitarra, la zanfona y la percusión.
 - Énfasis en el misticismo y la recitación poética.
 - Heredando los enfoques comus y folk británico.
@@ -165,7 +165,7 @@ Notable en las series Current 93 y Neofolk
 modos, ritmos rituales, poesía religiosa, etc.
 
 ## Funciones temáticas
-- Misticismo, fábulas y símbolos religiosos.
+- Misticismo/Fábulas/Símbolos Religiosos
 - Naturalismo/escenas pastorales.
 - Mundo espiritual/introspección
 - Citas de cuentos populares/leyendas.

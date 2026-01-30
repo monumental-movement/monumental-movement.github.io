@@ -21,7 +21,7 @@ title: '[Columna] El movimiento embrionario del garage británico: el ritmo fluc
 
 Texto: mmr｜Tema: Garage británico criado en el metro de Londres en los años 90. Rastreando su nacimiento, transformación y la intersección de la cultura de club
 
-A mediados de la década de 1990, se estaba produciendo silenciosamente una revolución sonora en los clubes underground de Londres.
+A mediados de la década de 1990, había una revolución sonora en marcha silenciosamente en los clubes underground de Londres.
 Su nombre es "UK Garage". Basados ​​en American Garage House, han establecido un "ritmo aleatorio" único al combinar ritmos de la jungla, voces de R&B y la cultura del sistema de sonido jamaicano.
 
 Este nuevo sonido era más que un simple género de música de club: sirvió como una expresión del multiculturalismo urbano y las comunidades de inmigrantes. El garage del Reino Unido finalmente se diversificó en **2-Step, Speed ​​​​Garage, Grime y Dubstep**, convirtiéndose en la piedra angular de la cultura bass actual del Reino Unido.
@@ -136,7 +136,7 @@ El partido UKG fue también un espacio común que trascendió clases y razas, y 
 ## Capítulo 7: Sucesión y renacimiento: 20 años desde el Reino Unido
 
 Desde finales de la década de 2010 hasta la de 2020, los talleres del Reino Unido sufrirán una ola de reevaluación.
-Disclosure, Burial, Jamie xx y otros lo están reimaginando de una manera moderna, reproyectando el espíritu de UKG en lo-fi y Future Garage.
+Disclosure, Burial, Jamie xx y otros lo están reinventando de una manera moderna, reproyectando el espíritu de UKG en lo-fi y Future Garage.
 
 - **Entierro – “Arcángel” (2007)**
 - **Divulgación – “Latch” (2012)**

@@ -38,12 +38,12 @@ color: #fff;
 ## Chapter 1: Early career and early career
 
 ### 1.1 Childhood and origin of nickname
-- **Real name/birth**
+- **Real name/Birth**
 Mr.Vegas' real name is **Clifford Smith**. Born September 29, 1974 in Kingston, Jamaica.
 - **Nickname "Mr. Vegas"**
 As a child, she played soccer in pink shorts at school, and her classmates compared her to a "Vegas girl." The nickname "Mr.Vegas" was adopted as his stage name.
 - **Encounter with music**
-From an early age, he was influenced by the local sound system culture and grew up surrounded by music, performing at local parties.
+From an early age, he was influenced by the local sound system culture and grew up familiar with music, performing at local parties.
 
 ### 1.2 Jaw injury and first hit "Nike Air"
 - **Significant Event**
@@ -67,7 +67,7 @@ As a result of his jaw injury and treatment, he has developed a unique intonatio
 - **Lyrics Theme**
 It contains critical and moral messages about sexual behavior, and highlights women's self-respect and the strength of their insistence on saying "no."
 - **International recognition**
-It was a success not only in Jamaica, but also in England and the United States.
+It was a success not only in Jamaica but also in England and the United States.
 - **Award**
 Won "Best Reggae Artist" at the MOBO Awards.
 

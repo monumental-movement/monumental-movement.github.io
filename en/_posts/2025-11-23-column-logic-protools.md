@@ -167,7 +167,7 @@ The acquisition took place in 1994, but the Digidesign brand disappeared in 2010
 *Completely takes over the industry standard for video editing and audio finishing
 * The trend of "Avid → Pro Tools" in film production has become established worldwide.
 
-Apple and Avid
+Two companies, Apple and Avid
 **Plan to take the lead in the DAW market in terms of both OS and video production**
 is completed here.
 
@@ -216,7 +216,7 @@ During this period, DAWs became mainstream with **CPU-dependent native processin
 * Lower prices (to the 10,000 yen range)
 * Optimization to maximize Mac performance
 
-### ■ Avid: Migrate to HDX and AAX
+### ■ Avid: Migration to HDX and AAX
 
 * DSP and native integration
 * Pro Tools remains the studio standard
@@ -315,7 +315,7 @@ MOTU has mastered **video synchronization**,
 Adobe has created its own market with **integration with broadcast and video editing**.
 
 Although the six companies compete with each other,
-As a result, they have together shaped the very culture of music production.
+As a result, together they have shaped the ""culture of music production itself.''
 
 After 2025, AI editing, cloud collaboration, expansion of mobile production, etc.
 The future of DAWs will take on a new dimension.

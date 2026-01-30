@@ -65,7 +65,7 @@ color: #fff;
 ### Nissan/Infiniti
 
 - **Modelo representativo**: Infiniti QX80 (sistema de altavoces Bose 16)
-- **Tecnología**: para optimizar la acústica del automóvil, se analizaron y ajustaron la ubicación de los altavoces y los reflejos del material en colaboración con BOSE.
+- **Tecnología**: analiza la ubicación de los altavoces y los reflejos del material y realiza ajustes en colaboración con BOSE para optimizar la acústica del automóvil.
 
 ---
 
@@ -275,5 +275,5 @@ El diseño acústico se corrige mediante IA y el asiento se convierte en una pla
 Terminaremos con un reino de igualdad sonora que trasciende países y marcas.
 El acto de escuchar mientras se corre agudiza una vez más la sensibilidad humana.
 
-Lo que nos dicen los coches no es la carretera, sino el viaje del sonido.
+Lo que nos cuentan los coches no es el viaje, sino el viaje del sonido.
 Y ese viaje apenas ha comenzado.

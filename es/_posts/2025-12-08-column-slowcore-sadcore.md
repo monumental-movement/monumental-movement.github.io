@@ -58,7 +58,7 @@ Este sonido tiene una estructura que, a la inversa, despierta emociones a travé
 
 ---
 
-# 2. Origen del slowcore
+# 2. Origen del Slowcore
 ## ■ La parte de “quietud” de Dream Pop / Shoegaze
 A finales de la década de 1980, **Galaxie 500** son considerados los precursores del slowcore, con sus tempos relajados, guitarras de ensueño y voces sin emociones.
 
@@ -106,7 +106,7 @@ Canciones como ``Katy Song'' y ``Funhouse'' tienen una estructura en la que la `
 ## ■ Codeína
 - **Formada: 1989 (Nueva York)**
 - Una banda sinónimo de slowcore.
-- Con un enfoque más rockero, también ha sido descrito como una versión más lenta de Sonic Youth.
+- Con un enfoque más orientado al rock, también ha sido descrito como una versión más lenta de Sonic Youth.
 
 ### Obra maestra
 - *Estrellas heladas* (1990)

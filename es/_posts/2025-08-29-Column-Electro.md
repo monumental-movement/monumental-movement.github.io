@@ -58,7 +58,7 @@ B. Planet Rock (Instrumental)
 
 Haciendo pleno uso de los sintetizadores, presenta una visión del mundo sexual y decadente. Una canción que simboliza la escena de la Costa Oeste.
 
-El electro no era sólo un género musical, sino una cultura inseparable del breakdance y la moda callejera. Los trajes plateados y las imágenes de estilo cibernético encarnan la sensibilidad de la era de "la fusión de máquinas y humanos".
+El electro no era sólo un género musical, sino una cultura inseparable del breakdance y la moda callejera. Los trajes plateados y las imágenes de estilo cibernético encarnaban la sensibilidad de la era de "la fusión de máquinas y humanos".
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9zrH1QnqU_k?si=QCbJvz_2kbZxDmWq" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 

@@ -110,11 +110,11 @@ Brillante, divertido, gratis y un poco triste.
 Quizás fue porque la atmósfera general era "como la de Cindy" que capturó los corazones de tanta gente.
 
 La musicalidad no fue lo único que hizo de este álbum un éxito.
-Con el auge de MTV, entramos en una era en la que las imágenes influyeron en la música y Cindy tuvo un impacto visual abrumador. Disfraces coloridos, peinados demasiado sueltos y un vídeo musical en el que aparece gente corriendo por los callejones. Todos ellos eran perfectos para la "atmósfera de la época".
+Con el auge de MTV, estábamos entrando en una era en la que las imágenes influenciaban la música y Cindy tenía un impacto visual abrumador. Disfraces coloridos, peinados demasiado sueltos y un vídeo musical en el que aparece gente corriendo por los callejones. Todos ellos eran perfectos para la "atmósfera de la época".
 
 ---
 
-## **7-1. Sumérgete en canciones representativas**
+## **7-1. Una inmersión profunda en canciones representativas**
 
 ### **Las chicas sólo quieren divertirse**
 
@@ -170,7 +170,7 @@ Mientras tanto, Cindy provoca un "incidente".
 
 La gran cantidad de accesorios que llevaba alrededor del cuello golpearon el micrófono, provocando un ruido estridente.
 
-Ingeniero: "¿Qué sonido es ese?"
+Ingeniero: "¿Qué es ese sonido?"
 Quincy Jones: "Cindy, ¿puedes... tomar eso?"
 
 Cindy se echó a reír y dijo: "¡Oh, lo siento!" mientras se quitaba los accesorios, y se dice que el ambiente se relajó instantáneamente.
@@ -183,7 +183,7 @@ Este incidente se ha transmitido como un episodio que simboliza la "capacidad de
 
 # **10. Finales de los 80 y 90: de estrella del pop a artista**
 
-Desde finales de los 80 hasta los 90, Cindy se debatió entre el éxito comercial y el deseo de expresión artística.
+Desde finales de los 80 hasta los 90, Cindy osciló entre el éxito comercial y el deseo de expresión artística.
 
 ### **Sombrero lleno de estrellas (1993)**
 
@@ -201,11 +201,11 @@ Cindy no valoraba "repetir formas exitosas" y valoraba "ser fiel a quien soy aho
 
 # **12. Challenge to Broadway: gana el premio Tony por “Kinky Boots”**
 
-En 2013, estuvo a cargo de la letra y composición del musical "Kinky Boots" y ganó el Premio Tony a la Mejor Canción Original.
+En 2013, estuvo a cargo de la letra y la composición del musical "Kinky Boots", que le valió el premio Tony a la mejor canción original.
 
 Originalmente, Cindy creció no sólo como cantante, sino también profundamente influenciada por la cultura expresiva como el cine y el teatro. Eso se hizo realidad en forma de Broadway.
 
-En este trabajo, transmite con fuerza el mensaje de que está bien vivir la vida tal como eres. También es su propia filosofía de vida y ha recibido un gran apoyo de la comunidad LGBTQ.
+En este trabajo, transmite con fuerza el mensaje de que está bien vivir la vida tal como eres. Esta es también su propia filosofía de vida y ha recibido un gran apoyo de la comunidad LGBTQ.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8pltkucgl5w?si=w1KxlxWJdT0hlFZh" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 

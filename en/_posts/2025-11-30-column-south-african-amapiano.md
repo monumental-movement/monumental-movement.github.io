@@ -16,7 +16,7 @@ title: '[Column] South African Amapiano — A new dance music culture from South
 
 ## Introduction — Why Amapiano now?
 
-Text: mmr｜Theme: Amapiano's origins, musical characteristics, history of development, major artists, and process of internationalization
+Text: mmr｜Theme: Origins of Amapiano, musical characteristics, history of development, main artists, and process of internationalization
 
 In recent years, the dance music genre **Amapiano**, which originated in South Africa, has been attracting attention not only in Japan but also in club scenes across Africa, Europe, North America, and Asia.
 

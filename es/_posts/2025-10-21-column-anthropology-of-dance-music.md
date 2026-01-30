@@ -99,7 +99,7 @@ En la década de 1980, cuando surgieron el techno de Detroit y el house de Chica
 La gente empezó a rendirse al ritmo de la máquina en lugar de a la actuación en vivo.
 BPM homogéneos, ritmo en bucle.
 Parece borrar la “imperfección humana”,
-Al contrario, tenía el poder de arrastrar el cuerpo hacia un puro placer rítmico.
+Por el contrario, tenía el poder de arrastrar el cuerpo hacia un puro placer rítmico.
 
 A principios de los años 1990, cuando la cultura rave se expandió,
 Nació un fenómeno en el que innumerables cuerpos se sincronizaron en un remolino de sonido.
@@ -114,7 +114,7 @@ Era una versión moderna de un antiguo ritual.
 
 Inmediatamente después de la caída del Muro, Berlín era una zona sin ley y un campo de pruebas para la libertad.
 Clubes como Tresor y Berghain
-Se creó una nueva comunidad física en una ciudad en espera de una reestructuración política y económica.
+Creó una nueva comunidad física en una ciudad en espera de una reestructuración política y económica.
 Allí, el "bailar" en sí mismo es
 Fue un acto político de memoria y renacimiento.
 

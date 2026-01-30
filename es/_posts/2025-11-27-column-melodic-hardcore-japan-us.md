@@ -95,7 +95,7 @@ flowchart TD
 ### 2.3 Cultura viva del Melocore americano
 - Actuación en Warped Tour (1995-)
 - Construir un espíritu de bricolaje y una comunidad local.
-- Debido a la estructura rápida y corta de la canción, en las presentaciones en vivo se enfatiza el sentido del tempo y el sentido de unidad.
+- Debido a la estructura rápida y corta de la canción, durante las presentaciones en vivo se enfatiza el sentido del tempo y el sentido de unidad.
 
 ---
 
@@ -115,7 +115,7 @@ flowchart TD
 - Canciones representativas: “Marry Me”, “Mi canción favorita”
 
 #### BRAHMAN (formado en 1995)
-- Existencia intermedia entre el hardcore y el merocore.
+- Intermedio entre hardcore y merocore
 - Pasión y letras filosóficas exclusivas de Japón.
 - Canciones representativas: “El Grito Silencioso”, “Un Hombre de Espíritu”
 
@@ -204,7 +204,7 @@ flowchart TD
 
 ## 9. Conclusión
 
-Aunque el melocore japonés y estadounidense tienen diferentes orígenes culturales, han obtenido apoyo internacional debido a su "pasión" compartida y la "importancia de la melodía".
+Aunque el melocore japonés y estadounidense tienen diferentes orígenes culturales, han obtenido apoyo internacional debido a su pasión compartida y la importancia de la melodía.
 Las escenas de ambos países seguirán influyéndose mutuamente y se transmitirán a las generaciones más jóvenes.
 
 ---

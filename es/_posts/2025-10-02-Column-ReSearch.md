@@ -96,7 +96,7 @@ RE/Search es más que una simple publicación; también sirve como archivo de su
 | 1988 | *Homotopía a Marie* | Música | La obra maestra de Nurse With Wound. Conectando música de vanguardia y arte contemporáneo. | [Amazon](https://amzn.to/4h09g3q) |
 | 1988 | *Videodromo* | Película | Dirigida por Cronenberg. Una obra de culto que representa la fusión del cuerpo y los medios. | [Amazon](https://amzn.to/46NeieD) |
 | 1991 | *Reina de Siam* | Música | Solo post-punk de Lydia Lunch. Contiene una crítica social radical. | [Amazon](https://amzn.to/46PFkSP) |
-| 1991 | *Tetsuo: El Hombre de Hierro* | Película | Una película de culto japonesa dirigida por Shinya Tsukamoto. El tema es la modificación corporal y la ansiedad urbana. | [Amazon](https://amzn.to/4nSA47G) |
+| 1991 | *Tetsuo: El Hombre de Hierro* | Película | Película de culto japonesa dirigida por Shinya Tsukamoto. El tema es la modificación corporal y la ansiedad urbana. | [Amazon](https://amzn.to/4nSA47G) |
 | 1996 | *La audacia del bombo* | Música | Obra de punk político de Jello Biafra. | [Amazon](https://amzn.to/430M5zX) |
 | 1996 | *Tetsuo II* | Película | Secuela de "Tetsuo". Explorando más a fondo los límites entre cuerpo y máquina. | [Amazon](https://amzn.to/4nyMMsI) |
 | 2000 | *Demonio del Pulso* | Música | La obra maestra de Merzbow en la historia del ruido. Un experimento sonoro arrollador. | [Amazon](https://amzn.to/4nAbmcG) |

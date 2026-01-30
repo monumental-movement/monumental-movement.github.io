@@ -14,7 +14,7 @@ title: Mossa – Peanuts salados EP
 ---
 
 
-Jeremy Petrus, también conocido como Mossa, es un músico, DJ y productor de música electrónica que vive en Montreal, Canadá. Dirige el sello Complot Records, que publica música en una amplia gama de estilos, desde techno hasta chill-out.
+Jeremy Petrus, también conocido como Mossa, es un músico, DJ y productor de música electrónica radicado en Montreal, Canadá.テクノからチルアウトまで幅広いスタイルの音楽をリリースするレーベルComplot Registrosを運営している。
 
 "Salt Peanuts EP" es una pista minimalista de tech house lanzada por el sello francés Frankie Rec en 2007.
 

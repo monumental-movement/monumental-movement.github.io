@@ -23,7 +23,7 @@ title: '[Columna] Psychic TV: La historia completa de un grupo multimedia que cr
 Texto: mmr｜Tema: Historia, filosofía, musicalidad, actividades en vivo, rituales e influencia en las generaciones futuras de Psychic TV desde su formación hasta su desaparición.
 
 
-Formada en Inglaterra en 1981, Psychic TV es más que una simple banda de música; es un colectivo artístico integral que integra música, video, performance y ocultismo. Construidos en torno a las ideas y la visión de Genesis Breyer P-Orridge, los esfuerzos de Psychic TV se mantuvieron a la vanguardia de la contracultura desde la década de 1980 hasta la década de 2000, fusionando música industrial, psicodélicos, acid house, artes escénicas y cultura ritual.
+Formada en Inglaterra en 1981, Psychic TV es más que una simple banda de música; es un colectivo artístico integral que integra música, video, performance y ocultismo. Construidos en torno a las ideas y la visión de Genesis Breyer P-Orridge, los esfuerzos de Psychic TV se mantuvieron a la vanguardia de la contracultura desde la década de 1980 hasta la de 2000, fusionando música industrial, psicodélicos, acid house, artes escénicas y cultura ritual.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MzJ2-whjIdU?si=1XcdXsK0ndcnXqFm" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 

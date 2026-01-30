@@ -23,7 +23,7 @@ Texto: mmr | Tema: Una larga columna que repasa la historia de la colaboración 
 En la historia del cine japonés, la existencia del compositor Joe Hisaishi (nombre en inglés: Joe Hisaishi) es única.
 Su música no es sólo un "acompañamiento de películas", sino que ha funcionado como un componente importante que forma el mundo de la obra misma.
 
-Desde Nausicaa del Valle del Viento de 1984, el universo musical creado en colaboración con el director Hayao Miyazaki ha ido más allá del contexto de las películas de animación y ha recibido reconocimiento internacional.
+Desde Nausicaa del Valle del Viento de 1984, el universo musical creado en colaboración con el director Hayao Miyazaki ha trascendido el contexto de las películas animadas y ha recibido elogios internacionales.
 Esta columna rastrea cuidadosamente la relación entre la historia musical de Joe Hisaishi y las obras de Studio Ghibli, basándose en hechos.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/faf98cNY8A8?si=ZJ3kmZ7G6yoA6-3m" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
@@ -177,7 +177,7 @@ Este trabajo es el último ejemplo de la continua unión de Hisaishi entre la m�
 | 1986 | Castillo en el cielo | Hayao Miyazaki | “Ponte” | Composición sinfónica |
 | 1988 | Mi vecino Totoro | Hayao Miyazaki | “Caminar” y “El Camino del Viento” | Expresión de la Infancia |
 | 1989 | Servicio de entrega de Kiki | Hayao Miyazaki | "Ciudad con vistas al mar" | Ritmo Urbano |
-| 1992 | Porco Rosso | Hayao Miyazaki | "Días sin retorno" | Vals nostálgico |
+| 1992 | Porco Rosso | Hayao Miyazaki | “Días sin retorno” | Vals nostálgico |
 | 1997 | Princesa Mononoke | Hayao Miyazaki | "La princesa Mononoke" | Fusión de coro y orquesta |
 | 2001 | El viaje de Chihiro | Hayao Miyazaki | “Siempre y otra vez” | Ganador del Premio de la Academia |
 | 2004 | El castillo ambulante de Howl | Hayao Miyazaki | "El tiovivo de la vida" | Estructura de vals |

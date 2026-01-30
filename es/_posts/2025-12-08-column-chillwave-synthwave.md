@@ -111,7 +111,7 @@ Aunque parecen similares a primera vista, **Chillwave tiene una dirección difer
 
 # 4. Cultura y estética de Internet.
 ## 4-1. Chillwave y la cultura de los blogs
-Chillwave se difundió principalmente a través de MySpace, Bandcamp y blogs, y tenía una gran afinidad con la estética de baja resolución única de Internet.
+Chillwave se difundió principalmente a través de MySpace, Bandcamp y blogs, y tenía una gran afinidad con la estética única de baja resolución de Internet.
 
 Elementos distintivos:
 
@@ -219,7 +219,7 @@ Synthwave estuvo fuertemente influenciado por la música electrónica y las imá
 
 ## 9-2. Contexto del renacimiento digital
 
-Chillwave hizo un uso extensivo de expresiones visuales que recordaban la cultura de los medios personales de la década de 1990 (VHS, videocámaras, imágenes caseras junto al mar) y era compatible con la cultura fotográfica de baja fidelidad de Internet (como los primeros Instagram).
+Chillwave hizo un uso extensivo de expresiones visuales que recordaban la cultura de los medios personales de la década de 1990 (VHS, videocámaras, imágenes caseras junto al mar) y era compatible con la cultura de la fotografía de baja fidelidad de Internet (como los primeros Instagram).
 
 El **fondo de cuadrícula + tipografía de neón** de Synthwave creado por diseñadores gráficos se ha estandarizado en todo el mundo y también se ha vuelto popular en videos mixtos en YouTube.
 

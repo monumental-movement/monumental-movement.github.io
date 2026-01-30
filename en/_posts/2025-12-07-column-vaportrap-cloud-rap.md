@@ -21,7 +21,7 @@ Text: mmr｜Theme: About the genealogy of cloud rap that intersects with Lo-Fi H
 
 Cloud Rap arose around 2010, centered around the Bay Area and U.S. Internet Underground, and developed while connecting with post-vaporwave subculture aesthetics, Chopped & Screwed, Lo-Fi Hip-Hop, and modern emo rap. In particular, the activities of **Lil B**, **Clams Casino**, and **Main Attrakionz** symbolized the early days, forming the basis of a lineage that would later lead to **Lil Peep**, **XXXTENTACION**, **Bones**, and **Yung Lean**.
 
-Cloud Rap was far more ambient-oriented than traditional Hip Hop, featuring a more ambient-oriented sound, vocal processing with strong reverb, and dreamy textures with spatial FX, and later evolved into Vaportrap, absorbing electronic music and Vaporwave meme culture.
+Cloud Rap was far more ambient-oriented than traditional Hip Hop, featuring a more ambient-oriented sound, vocal processing with strong reverb, and dreamy textures with spatial FX, and later evolved into Vaportrap, absorbing electronic music and Vaporwave-like meme culture.
 
 
 ---
@@ -185,7 +185,7 @@ timeline
 
 ## Conclusion: Where is "cloud rap" headed?
 
-Cloud Rap is not just a genre, it has become a symbol of post-internet hip-hop production methods, aesthetics, and distribution culture. The fusion with Vaportrap continues to indicate a direction in which music revolves around the online aesthetic sphere rather than the physical context.
+Cloud Rap は単なるジャンルではなく、ネット以降のヒップホップの**制作方法・美学・配信文化**の象徴となった。Vaportrap との融合は、音楽が物理的文脈よりも**オンラインの美学圏**を中心に展開する方向性を示し続けている。
 
 In the future, by linking with generation AI, it is expected that the Cloud Rap-like texture will become even more abstract, expanding into a more ambient and "inhuman" sound image.
 

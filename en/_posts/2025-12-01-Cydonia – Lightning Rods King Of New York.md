@@ -17,7 +17,7 @@ Cydonia is a UK Goa Trance project by Dino Psaras, Iain Rive, and Steve Ronan.
 
 "Lightning Rods / King Of New York" is a Goa Trance track released in 1999 by the UK label Blue Room Released.
 
-A is included in their debut album ""Cydonia - In Fear Of A Red Planet'' (1999).
+A is included on their debut album ""Cydonia - In Fear Of A Red Planet'' (1999).
 
 #### Tracklist
 ```md

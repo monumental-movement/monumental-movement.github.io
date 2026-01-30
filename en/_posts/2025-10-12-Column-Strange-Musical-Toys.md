@@ -42,7 +42,7 @@ color: #fff;
 ## Ⅰ. The pleasure of hands playing with sound
 
 We must not forget that the ""tactile sense'' is at the origin of the act of music. When you pluck the strings, press the keys, or turn the knobs, you receive a response at your fingertips. This immediacy is the same in the toys that children come into contact with during their childhood.
-In the 21st century, electronic sounds have been extended to children's toys and educational gadgets, and the act of ""sounding'' itself has come to be designed as part of play. The line between toys and musical instruments is becoming increasingly blurred.
+In the 21st century, electronic sounds have been extended to children's toys and educational gadgets, and the act of ""sounding'' itself has been designed as part of play. The line between toys and musical instruments is becoming increasingly blurred.
 
 ---
 
@@ -147,7 +147,7 @@ In the 1970s and 1980s, portable synths and electronic musical toys became popul
 - CASIO VL-TONE
 - Educational synths such as Gakken's SX-150
 
-Electronic sounds can be easily experienced on desks at home or at school, and children have become familiar with the culture of ""playing with sounds.'' In modern times, digital toys like Otamatone are connected to YouTube culture, creating a new world of "cute sounds."
+Electronic sounds can be easily experienced on desks at home or school, and children have become familiar with the culture of ""playing with sounds.'' In modern times, digital toys like Otamatone are connected to YouTube culture, creating a new world of "cute sounds."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VKfsCbe47Os?si=djdl5n1qjmiP3Scw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -206,7 +206,7 @@ The concept of "play" is once again returning to the center of music creation an
 
 ## Appendix
 
-### Evolutionary history of Strange Musical Toys around the world (simple chronology)
+### Evolution history of Strange Musical Toys around the world (simple chronology)
 
 <div class="mermaid">
 
@@ -248,7 +248,7 @@ flowchart TD
 | Fantasma | Cornelius | 1997 | Pop/electronica centered around Omnichord chords | [Amazon](https://amzn.to/4h7f2QM) |
 | Vespertine | Björk | 2001 | Delicate chord feel and minute electronic sounds by Omnichord | [Amazon](https://amzn.to/4ojW240) |
 | Space Oddity | David Bowie | 1969 | Stylophone used, space-like minimal tone | [Amazon](https://amzn.to/48r48mx) |
-| Selected Ambient Works 85–92 | Aphex Twin | 1992 | Ambient/techno with toy-like electronic sounds such as Stylophone | [Amazon](https://amzn.to/4mYVoYg) |
+| Selected Ambient Works 85–92 | Aphex Twin | 1992 | Ambient/techno with toy electronic sounds such as Stylophone | [Amazon](https://amzn.to/4mYVoYg) |
 | Rounds | Four Tet | 2003 | Pocket Operator style mini-synth electronic sound | [Amazon](https://amzn.to/4q451HY) |
 | Cosmogramma | Flying Lotus | 2010 | Complex texture combining small synth/electronic toy sounds | [Amazon](https://amzn.to/4q2iujP) |
 | Circuit-Bent Explorations | Reed Ghazala | 2005 | Circuit Bending Books | [Amazon](https://amzn.to/4haxkAD) |

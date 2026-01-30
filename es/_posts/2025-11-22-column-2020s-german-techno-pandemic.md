@@ -51,7 +51,7 @@ color: #fff;
 
 
 # Capítulo 1: La víspera de la pandemia (~marzo de 2020)
-## ● Berlín se ha consolidado como la "capital tecno" mundial
+## ● Berlín se había consolidado como la "capital tecno" mundial
 Antes de marzo de 2020, Berlín destacaba entre otras ciudades del mundo.
 
 - **Larga rave todos los fines de semana**
@@ -182,7 +182,7 @@ Llamó la atención como ejemplo de un club de techno tratado como un museo.
 
 ## ● Las tiendas tradicionales como Tresor también se ven gravemente afectadas.
 Clubes como Tresor, Watergate y ://about Blank perdieron sus ingresos por entradas.
-Se mantuvo gracias al apoyo del gobierno, donaciones y proyectos en línea.
+Intentamos mantenerlo mediante apoyo gubernamental, donaciones y proyectos en línea.
 
 ---
 
@@ -194,7 +194,7 @@ A partir de aquí la música cambia drásticamente.
 ### Funciones después del reinicio:
 - 150-170 BPM es común
 - Elementos de trance más fuertes.
-- Vuelven los tonos estilo rave de los 90
+- Vuelve el tono estilo rave de los 90
 - Se establece el híbrido industrial x transformador
 - Los “4 tiempos de alta velocidad” se han generalizado en todo el mundo.
 
@@ -214,7 +214,7 @@ Las fiestas que duran **entre 30 y 40 horas seguidas** se han vuelto más comune
 - Hamburgo: El ascenso de los jóvenes DJ en PAL
 - Dresde: vuelve la rave local
 
-El techno de 2022 a 2024 se ha actualizado por completo a la “estética de la generación pospandemia”.
+El techno de 2022 a 2024 se ha actualizado por completo a la “estética de la generación pospandémica”.
 
 ---
 
@@ -258,7 +258,7 @@ Antes y después de la pandemia, la producción de sonido cambió de la siguient
 ### 2022-2024:
 - 150–170 BPM
 - Destaca la sensación de recorte digital.
-- Distorsión extendida a frecuencias ultra altas
+- Distorsión extendida al rango ultra alto
 - Trabajo de acordes de trance de los 90.
 
 En otras palabras,
@@ -286,11 +286,11 @@ A partir de 2024, 150-170 BPM serán la corriente principal.
 No está claro si esto continuará, pero puede continuar debido a los siguientes factores:
 
 - La presentación visual en SNS va bien con música de alta velocidad.
-- La estética joven prefiere la “alta densidad de información”
+- La estética más joven prefiere la “alta densidad de información”
 - El mercado internacional del hard techno se está expandiendo.
 
 ## ● 2) El club será protegido como recurso cultural de la ciudad.
-Alemania ya ha institucionalizado los clubes como “instalaciones culturales”, por lo que
+Dado que Alemania ya ha institucionalizado los clubes como “instalaciones culturales”,
 Se prevé que las políticas de protección serán más avanzadas a partir de 2025.
 
 ## ● 3) Aumento de las ciudades regionales

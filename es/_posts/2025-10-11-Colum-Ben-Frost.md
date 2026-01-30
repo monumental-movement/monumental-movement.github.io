@@ -129,7 +129,7 @@ Se inspiró en condiciones físicas extremas como la luz solar, el calor y la in
 Es la violencia de la luz, la construcción del sonido por los fotones.
 
 Después de este álbum, su sonido se volvió cada vez más arquitectónico e inorgánico.
-Al mismo tiempo, empezó a latir como un organismo con "vida".
+Al mismo tiempo, empezó a latir como un organismo vivo.
 Se puede decir que A U R O R A es una obra que realmente captura el momento en que el sonido se convierte en luz.
 
 
@@ -159,7 +159,7 @@ En los últimos años, Frost ha estado utilizando la composición de IA y el pro
 Le interesa la "autonomía incontrolable del sonido".
 
 El sonido sale de sus manos y cambia de forma autogenerada.
-Visión del futuro al estilo de Tarkovsky y William Gibson.
+Una visión del futuro como Tarkovsky o William Gibson.
 Hay una poética de tecnología decadente y reverberación.
 
 El sonido de Frost intenta redefinir lo sublime en la era digital.

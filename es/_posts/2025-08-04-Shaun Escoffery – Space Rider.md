@@ -21,7 +21,7 @@ title: Shaun Escoffery – Jinete espacial
 
 
 
-"Space Rider" es el sencillo debut del cantante británico de soul/R&B Shaun Escoffery. Una canción de éxito lanzada en 2001 con el sello Oyster Music y muy reproducida por DJ Trevor Nelson y Dreem Teem de BBC Radio 1.
+"Space Rider" es el sencillo debut del cantante británico de soul/R&B Shaun Escoffery. Una canción de éxito lanzada en 2001 por el sello Oyster Music y muy reproducida por DJ Trevor Nelson y Dreem Teem de BBC Radio 1.
 
 A1 es un remix del DJ/productor/remezclador de garage británico MJ Cole.
 

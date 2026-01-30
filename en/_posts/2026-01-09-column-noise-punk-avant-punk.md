@@ -46,7 +46,7 @@ color: #fff;
 
 Around 1977, punk spread rapidly and at the same time rapidly became formalized. 3 chords, short songs, aggressive attitude. They quickly became a style and began to be reproduced. Noise punk/avant punk was born out of a strong sense of discomfort with this situation.
 
-The problem for them was that rock was once again being reduced to ""easy-to-understand music.'' Rebellion becomes a symbol, and dissent becomes fashionable. In order to reject the process itself, the music intentionally moved in an incomprehensible direction.
+The problem for them was that rock was once again being reduced to ""easy-to-understand music''. Rebellion becomes a symbol, and dissent becomes fashionable. In order to reject the process itself, the music intentionally moved in an incomprehensible direction.
 
 This attitude seemed to deny punk, but in reality it was a thorough implementation of the fundamental spirit of punk.
 
@@ -72,7 +72,7 @@ DNA was a band active in New York in the late 1970s, and was a core member of th
 
 The guitar does not form chords, but emit single notes or irregular noises. The bass and drums don't share a beat, and the performance is always on the verge of collapse. The vocals reject the melody and are released as fragmented words and screams.
 
-Although DNA's performances are improvisational, they are not simply chaotic. Rather, it is filled with a sense of tension to sustain the ""moment when rock is not established.''
+Although DNA's performances are improvisational, they are not simply chaotic. Rather, it is filled with a sense of tension to sustain the ""moment when rock is not established''.
 
 > DNA achieved the paradox of denying rock by performing.
 
@@ -135,9 +135,9 @@ timeline
     1980 : アヴァン・パンク的手法の拡散
 </div>
 
-This trend occurred intensively in a short period of time and left a deep influence on subsequent alternative music.
+この流れは短期間で集中的に発生し、その後のオルタナティブ音楽に深い影響を残した。
 
-> Although the history of noise punk is short, its aftershocks continue for a long time.
+> The history of noise punk is short, but its aftershocks are long lasting.
 
 ---
 

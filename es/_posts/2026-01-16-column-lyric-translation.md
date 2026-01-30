@@ -98,7 +98,7 @@ Como resultado, las letras japonesas tienden a priorizar el sonido sobre el sign
 Después de la guerra, con la difusión de la radio y los discos, una gran cantidad de música popular occidental llegó a Japón.
 Durante este período, muchas canciones fueron introducidas en su idioma original o con traducciones sencillas.
 
-Por otro lado, hay muchos casos en los que se ha adaptado como canción popular, añadiendo nuevas letras japonesas a la melodía original.
+Por otro lado, en muchos casos se ha adaptado como canción popular, añadiendo nuevas letras japonesas a la melodía original.
 No se trata estrictamente de traducciones, sino de recreaciones culturales.
 
 La costumbre de "letras japonesas separadas de las canciones originales" que se formó durante este período tuvo una influencia duradera.

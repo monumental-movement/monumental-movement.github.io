@@ -13,7 +13,7 @@ title: 'El arte del ruido: sin sentido, tonterías'
 ---
 
 
-"In No Sense Nonsense" es un álbum en casete de Art Of Noise lanzado por China Records en 1987.
+"In No Sense Nonsense" es una cinta de casete de álbum de Art Of Noise lanzada en 1987 por China Records.
 
 #### Lista de canciones
 ```md

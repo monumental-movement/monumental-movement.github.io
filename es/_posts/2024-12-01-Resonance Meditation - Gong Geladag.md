@@ -14,7 +14,7 @@ title: Meditación de resonancia - Gong Geladag
 ---
 
 
-El primer álbum de la serie Lost & Found supervisado por Haruomi Hosono. Fuente de sonido grabada localmente el 17 de abril de 2000 en Bali utilizando un sistema sónico de 24 bits y 192 KHz.
+El primer álbum de la serie Lost & Found supervisado por Haruomi Hosono. Fuente de sonido grabada localmente el 17 de abril de 2000 en Bali utilizando un sistema sonoro de 24 bits y 192 KHz.
 
 #### Lista de canciones
 ```md

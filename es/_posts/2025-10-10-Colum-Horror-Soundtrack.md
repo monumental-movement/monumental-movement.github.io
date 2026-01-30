@@ -47,7 +47,7 @@ color: #fff;
 
 ---
 
-La llegada de A24 elevó el terror al contexto del cine artístico.
+La llegada de A24 elevó el horror al contexto del cine artístico.
 [“La Bruja” (2015)](https://amzn.to/48UASVp) es un símbolo de esto. La partitura de [Mark Korven](https://amzn.to/3KHRdTr) rechaza la melodía, con un zumbido orante compuesto de instrumentos de madera y microtonos que pone de los nervios al público.
 El diseño acústico que difumina la línea entre el silencio y el ruido fue el núcleo de la estética del A24.
 
@@ -135,7 +135,7 @@ Era una época en la que la música de cine y la cultura de club se entrelazaban
 
 El sonido de terror único también está atrayendo la atención en Asia.
 En [The Wailing (2016/Korea)](https://amzn.to/46NKuA5), la música ritual popular desdibuja la línea entre el miedo y la oración.
-Sonido de terror japonés ──[Kenji Kawai (“Ring”)](https://amzn.to/4h9avxd) y los métodos de Hiroshi Takahashi—
+Sonido de terror japonés ── [Kenji Kawai (“Ring”)] (https://amzn.to/4h9avxd) y el método de Hiroshi Takahashi—
 Se transmitió al mundo como **etiqueta de miedo usando silencio y sonidos ambientales**.
 
 A medida que los títulos de Netflix consolidan el mercado global,

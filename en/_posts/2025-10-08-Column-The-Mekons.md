@@ -56,7 +56,7 @@ Recorded at Virgin Studios in London. At the time, they said, ""It was the first
 The acoustics are rough, and the microphone distance and balance are unstable. Still, the howling guitar and distortion of the vocals were recorded as "creativity born out of ignorance." There is no producer, and the sound image is based on the DIY spirit.
 
 "We weren't political or romantic, we were just confused," says Jon Langford.
-At the time, the Mekons were conscious of ""acting"' rather than acting out rebellion. That"s why their sound echoed the "doubt" that other punk bands had let go of.
+At that time, the Mekons were conscious of ""acting"' rather than acting out rebellion. That"s why their sound echoed the "doubt" that other punk bands had let go of.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zU9zbbBMxTI?si=lm70X_cOq77g-pIy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -70,7 +70,7 @@ They leave London and transform into a social critique group that intersects pol
 The members are not fixed, and friends from university days come and go, sometimes recording with as many as 10 people. Its nature as an art collective is becoming stronger.
 
 Their masterpiece in 1989 ["The Mekons Rock "n" Roll"](https://amzn.to/4nIWLMc) was the summation of that.
-A unique spatial composition with double tracking of the guitar, excessive reverb, and suppressed bass frequencies. These were gimmicks intended to intentionally distort the "formal beauty of rock."
+A unique spatial composition with double tracking of the guitar, excessive reverb, and suppressed low frequencies of the bass. These were gimmicks intended to intentionally distort the "formal beauty of rock."
 With this album, they presented the paradox of ""Isn't rock the system itself?''
 
 > "We know that rock and roll is dangerous. It can destroy countries."
@@ -78,7 +78,7 @@ With this album, they presented the paradox of ""Isn't rock the system itself?''
 
 ---
 
-### Chapter 3: Encounter with American music and the dawn of "alt-country"
+### Chapter 3: Encounter with American music and the dawn of "alternative country"
 > **"Amidst the wine and dust, there was the truth."**
 
 With 1985"s ["Fear and Whiskey'](https://amzn.to/4mV4QMk), the Mekons ventured into completely new horizons.
@@ -87,7 +87,7 @@ During this period, Jon Langford rediscovered that ""country is the blues of the
 
 Recorded at Woodlands, Leeds, an indie studio at the time. The guitar, recorded directly on line to analog tape, has a natural saturation that takes advantage of the distortion of the amplifier, and room mics are often used for vocals.
 This lo-fi sound creates a "poetic sense of distance" rather than a "muddy smell."
-This album would later be reevaluated as a precursor to the "alt-country" genre of artists such as Uncle Tupelo and Wilco.
+This album would later be reevaluated as a precursor to "alt-country" artists such as Uncle Tupelo and Wilco.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cTToDniWwdQ?si=cfNzh4SRSgb_Nbwy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -99,12 +99,12 @@ This album would later be reevaluated as a precursor to the "alt-country" genre 
 In the 1990s, the Mekons moved to Chicago.
 Jon Langford deepens his collaboration with American musicians, developing other projects such as the Waco Brothers and Pine Valley Cosmonauts.
 Sally Timms will be collaborating with local poets and Tom Greenhalgh will be involved in video production.
-During this period, Mekons existed as a ""drifting artistic community'' that transcended nationality and genre.
+During this period, Mekons existed as a "drifting artistic community" that transcended nationality and genre.
 
 It was said that "Mekons" music sounds like it doesn"t belong anywhere."
 Like immigrants, they moved between musical contexts, creating temporary homes there.
 The album [Journey to the End of the Night (2000)] (https://amzn.to/4q3A5HR) is a symbol of this, and its acoustic composition, which includes brass and violin, emphasizes its "foreignness."
-Although he used Pro Tools for this work, he deliberately used an analog console for mixing, leaving a ""human imbalance.''
+Although he used Pro Tools for this work, he purposely used an analog console for mixing, leaving a ""human imbalance.''
 
 ---
 
@@ -138,7 +138,7 @@ This "scarred sound" was the realism that Mekons believed in.
 
 ---
 
-### Chapter 7: Beyond Deconstruction and Reunion
+### Chapter 7: Beyond Deconstruction and Reorganization
 > **"Even if we disband, it won"t end. Because it won"t end, it's Mekons."**
 
 The Mekons disbanded and reformed many times.

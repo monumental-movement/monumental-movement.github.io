@@ -20,7 +20,7 @@ Text: mmr｜Theme: From Happy End to YMO to Ambient—Tracing the "soundscapes" 
 
 **Haruomi Hosono** is a musician who has continued to transform Japanese pop music for half a century.
 From the late 1960s to the present, his music has carved out a unique horizon by ""shifting the era" rather than ""defining the era."
-Diverse cultures, humor, nostalgia, technology—all of which blend into Hosono's sound.
+Diverse cultures, humor, nostalgia, technology—all of these are blended into Hosono's sound.
 
 ---
 
@@ -166,7 +166,7 @@ YMO (Yellow Magic Orchestra) is a revolutionary unit that spread the word techno
 As a leader, Hosono used rhythm machines and sequencers to fuse Asian humor and futuristic sounds.
 
 #### Historical background
-In the early 1980s, Japan reached the peak of its technological and economic prosperity.
+In the early 1980s, Japan reached the peak of its technological and economic growth.
 A time when the development of computers, video games, and electronic musical instruments were fused with music.
 YMO's sound was a symbol of Japan as an electronic nation.
 
@@ -217,7 +217,7 @@ Hosono jokingly said, ""Music is about living with chance.''
 - "N.D.E." (1995)
 
 It was a time when he worked on music for a wide variety of media, including animation, movies, and commercials.
-""Night on the Galaxy Express"' shines with delicate compositions that seem to translate Kenji Miyazawa"s fantasy literature into sound.
+""Night on the Galactic Railway"' shines with delicate compositions that seem to translate Kenji Miyazawa"s fantasy literature into sound.
 
 #### Historical background
 After the bursting of the bubble economy, Japan's values ​​have been shaken.

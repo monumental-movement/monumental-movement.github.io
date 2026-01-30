@@ -100,7 +100,7 @@ La vuelta al ritmo tras el descanso crea una ola de emoción en la cancha del cl
 #### Características acústicas (estimadas)
 - Bajo: El bombo y el bajo sostienen el suelo
 - Rango medio-alto: el sintetizador principal y los pads se expanden y procesan espacialmente.
-- Estéreo: crea un efecto tridimensional con una estructura de capas que se extiende hacia la izquierda y hacia la derecha.
+- Estéreo: crea un efecto tridimensional con una estructura en capas que se extiende hacia la izquierda y hacia la derecha.
 
 #### Papel en el set de DJ
 Como pista de gama media con sensación de conducción, es adecuada para aumentar la energía hacia la cima.
@@ -133,7 +133,7 @@ Se utiliza para mantener la ranura en medio de una serie o tomar un descanso en 
 
 #### información básica
 - BPM: 125
-- Tonalidad: sol menor
+- Tonalidad: Sol menor
 - Duración: Aproximadamente 8 minutos 44 segundos
 
 #### Estructura y ritmo de la canción.

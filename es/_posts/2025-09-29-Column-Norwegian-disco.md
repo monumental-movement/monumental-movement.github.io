@@ -17,7 +17,7 @@ title: '[Columna] Disco noruego: Genealogía y discos recomendados de Prins Thom
 
 ## Disco noruego: la genealogía de Prins Thomas, Mungolian Jet Set y Lindstrøm
 
-Texto: mmr｜Tema: Historia de la discoteca moderna/disco espacial nacida en Noruega, trabajos en solitario, colaboraciones, trabajos producidos.
+Texto: mmr｜Tema: Historia de la discoteca/disco espacial moderna nacida en Noruega, trabajos en solitario, colaboraciones, trabajos producidos.
 
 A pesar de su clima frío y la tranquilidad escandinava, Noruega ha dado lugar a una importante tendencia de discoteca cálida/disco espacial. Prins Thomas, Lindstrøm y el Jet Set mungoliano han reinterpretado el toque disco, italiano y francés de los años 70 y 80 con una lente noruega, dándole a la música dance del siglo XXI su sabor único. En este artículo, presentaremos de manera integral el trabajo solista, la colaboración y las actividades de producción de cada artista, y enumeraremos los álbumes recomendados por grupo de edad.
 

@@ -13,12 +13,12 @@ title: '[Column] Plastikman | Richie Hawtin - The depths of minimalism and the s
 ---
 
 
-## Prologue: Self as a "space" of sound
+## 序章：音の「空間」としての自己
 
 
 Text: mmr｜Theme: Thoughts on how Plastikman, who inherited the spirit of the second generation of Detroit techno, stripped down the sound to the utmost limit and sublimated it into an art that allows you to hear the "reverberation" of rhythm itself.
 
-Richie Hawtin has been redefining "techno" since the early 1990s, not just as dance music, but as a "sound meditation device." His works under the name Plastikman, particularly ""_Sheet One_" (1993) and ""_Consumed_" (1998), are **an experiment in visualizing the internal space of the human body using electronic sound.** The sound, which resembles cold liquid, is also called ""abstract sculpture of sound.''
+Richie Hawtin has been redefining "techno" since the early 1990s, not just as dance music, but as a "sound meditation device." His works under the name Plastikman, particularly ""_Sheet One_" (1993) and ""_Consumed_" (1998), are **experiments in visualizing the internal space of the human body with electronic sound**, and the sound, which resembles cold liquid, is also called ""abstract sculpture of sound.''
 
 
 
@@ -46,7 +46,7 @@ Hawtin was influenced by the **spirit that resides in the mechanical rhythms** o
 ---
 
 ## Chapter 2: The Birth of Plastikman - Acid Remnants and Techno Introspection
-In 1993, "_Sheet One_" was released. The traditional TB-303 sound of acid house has been bleached to the extreme, creating an acoustic space that sounds like **heartbeats and nerve signals**. Rather, the silence that drifts between the sounds can be heard as the main character.
+In 1993, "_Sheet One_" was released. The traditional TB-303 sound of acid house has been bleached to the limit, creating an acoustic space that sounds like **heartbeat and nerve signals**. Rather, the silence that drifts between the sounds can be heard as the main character.
 
 Then, in 1994, the album [""_Musik_"'] was released from the label NovaMute (https://monumental-movement.jp/Plastikman-Musik). This is Richie Hawtin"s third studio album and second under his Plastikman name.
 
@@ -82,7 +82,7 @@ An album released by Richie Hawtin under the alias Plastikman on the NovaMute la
 
 ## Chapter 3: "Consumed" – The aesthetics of "silence"
 1998's _Consumed_ is an outlier in the history of techno. The BPM is slow and the rhythm is no longer a drum, but a low frequency sound like breathing.
-This work, which seems to be floating in a zero-gravity space, inherits the lineage of Brian Eno's ambient music, but also opens up the realm of ""inner sculpture using electronic sounds.''
+This work, which seems to float in a zero-gravity space, inherits the lineage of Brian Eno's ambient music, but also opens up the realm of ""inner sculpture using electronic sounds.''
 
 With this work, Hawtin becomes the first artist to equate "minimalism" with "nihility." Plastikman's minimalism was not an omission, but a strategy of silence that highlighted the contours of existence.
 
@@ -90,7 +90,7 @@ With this work, Hawtin becomes the first artist to equate "minimalism" with "nih
 
 ## Chapter 4: Technology and the Body - Rebuilding the LIVE Concept
 Hawtin also pioneered the fusion of technology and performance.
-In the 2000s, he **redefined DJ play** with the DE9 series and established the ""prototype of digital DJ**'', which uses Ableton Live and Traktor to reconstruct tracks in real time.
+In the 2000s, he **redefined DJ play** with the "DE9" series, establishing the ""**prototype of digital DJ**'' that used Ableton Live and Traktor to reconstruct tracks in real time.
 
 On his stage, an environment was constructed in which MacBook, MIDI controller, lighting and video were completely synchronized, presenting a new concept of **""live = breathing data''**.
 

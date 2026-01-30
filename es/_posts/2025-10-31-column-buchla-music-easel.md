@@ -20,7 +20,7 @@ title: '[Columna] Buchla Music Easel y la filosofía de la “interpretación so
 Texto: mmr｜Tema: Music Easel, que incluso en los tiempos modernos es elogiado por muchos artistas en vivo como la “orquesta más pequeña que se puede tocar sola”
 
 
-El **Buchla Music Easel**, presentado en 1973, es una versión portátil del famoso modular analógico **Buchla 200 series**.
+El **Buchla Music Easel**, que apareció en 1973, es una versión portátil de la famosa **serie Buchla 200** modular analógica.
 El diseñador **Don Buchla** llamó al instrumento un "entorno de composición portátil".
 No era sólo un pequeño módulo modular, sino que fue concebido como un "dispositivo personal improvisado".
 
@@ -70,7 +70,7 @@ D -->|Control Voltage| B
 
 </div>
 
-Debido a esta interconexión, una onda sinusoidal simple tiene una estructura armónica y el más mínimo toque durante la interpretación se refleja inmediatamente en el sonido.
+Gracias a esta interconexión, una onda sinusoidal simple tiene una estructura armónica y los pequeños toques durante la interpretación se reflejan inmediatamente en la acústica.
 
 ---
 
@@ -123,7 +123,7 @@ Ciani dice: "Buchla es un instrumento para respirar".
 Sónicamente, la **modulación asincrónica** de Easel crea un flujo de armónicos que parece flotar en el espacio.
 El público tiene la ilusión de que "se está tocando el aire mismo".
 
-### Análisis de forma de onda: Características de estructuras improvisadas
+### Análisis de forma de onda: características de la estructura de improvisación
 
 | Elementos | Puntos Técnicos | Impresiones auditivas |
 | --------------------------- | ------------- | ------------ |

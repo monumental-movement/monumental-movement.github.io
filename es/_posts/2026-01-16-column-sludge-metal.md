@@ -25,7 +25,7 @@ El Sludge metal no es música destinada a avanzar o elevarse. El tempo es lento,
 
 Lo importante en este género no es la melodía ni la técnica, sino la calidad del sonido. El espesor de la distorsión, la presión del bajo y el intervalo del ritmo. Estos factores actúan de manera compleja y la música no existe como una progresión lineal, sino como una sustancia precipitante.
 
-Como sugiere el nombre del género, la estética sonora del sludge metal radica en el "estancamiento". Se distancia deliberadamente del sonido claro, de la estructura sofisticada y de una experiencia auditiva cómoda, presentando la turbiedad y el estancamiento como valores. Esa actitud ha ocupado una posición única en la cultura de la música metal.
+Como sugiere el nombre del género, la estética sonora del sludge metal reside en el "estancamiento". Se distancia intencionadamente del sonido claro, de la estructura sofisticada y de una experiencia auditiva cómoda, presentando la turbiedad y el estancamiento como valores. Esa actitud ha ocupado una posición única en la cultura de la música metal.
 
 > El sonido del lodo metálico existe no para avanzar, sino para hundirse en un lugar.
 
@@ -79,7 +79,7 @@ El sonido de la guitarra nunca se agota y la distorsión siempre persiste. El ri
 
 La distorsión en el lodo metálico no es un elemento para decorar el sonido. Debido a ajustes de ganancia excesivos y un énfasis excesivo en el rango de graves, la propia distorsión forma la columna vertebral de la música.
 
-Incluso si se trata de un riff de una sola nota, los armónicos se expanden debido a la distorsión, dándole un grosor similar al de un acorde. El tono se vuelve vago y la frontera entre ruido y música se difumina intencionalmente. Esta ambigüedad le da al sonido del sludge metal una sensación única de opresión.
+Incluso si se trata de un riff de una sola nota, los sobretonos se expanden debido a la distorsión, dándole un grosor similar al de un acorde. El tono se vuelve vago y la frontera entre ruido y música se difumina intencionalmente. Esta ambigüedad le da al sonido del sludge metal una sensación única de opresión.
 
 Otra característica es que el sonido dura mucho tiempo. El riff no está redondeado y el sostenido está alargado. En lugar de seguir el ritmo, el oyente permanece dentro de la masa de sonido.
 

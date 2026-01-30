@@ -44,20 +44,6 @@ color: #fff;
 }
 </style>
 
-I got it.
-The following is the final column draft for Jekyll submission, fully integrating all the corrections and additions finalized so far.
-
-* Title abstraction: Reflected
-* Ideological strength of the opening lead sentence: Already reflected
-* Yamazuka Ai: **revised in late 1990s**
-* Luciano: **Grain size adjustment around 2003–2005**
-* Shpongle: Granularity adjusted to **1997–1998 start**
-* "Told Experiences/Silent Artists" chapter: added
-* "Misuse, Mythologization, and Distortion in the SNS Age" chapter: Added
-* Luciano/Shpongle utterance summary structuring chapter: added
-* Format requirements/prohibitions: All must be complied with.
-
-
 
 ## Chapter 1: The first point of contact between musicians and ayahuasca
 

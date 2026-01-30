@@ -151,7 +151,7 @@ El gong era un símbolo de una práctica contracultural que no separaba la socie
 
 ---
 
-## Capítulo 7 Transformación y herencia——Moellan-Gong y renacimiento {#chapter7}
+## Capítulo 7 Transformación y herencia——Moellan Gong y renacimiento {#chapter7}
 
 Después de 1976, David Allen se fue.
 Pierre Moerlan tomó el relevo y nació el **Pierre Moerlan's Gong**, orientado al jazz fusión.
@@ -168,7 +168,7 @@ Incluso después de que Allen falleciera en 2015, Gong continúa viviendo como u
 ## Capítulo 8 El mundo de la mitología Gong: personajes, iconografía y cosmovisión {#chapter8}
 
 El gong es un arte integral que integra música, mitología y arte.
-Centrándose en la trilogía de Radio Gnome, los personajes, planetas, idiomas, estaciones de transmisión, etc. están intrincadamente entrelazados.
+Centrándose en la trilogía de Radio Gnomes, los personajes, planetas, idiomas, estaciones de transmisión, etc. están intrincadamente entrelazados.
 
 A continuación se muestra un diagrama que muestra su estructura simbólica:
 
@@ -205,7 +205,7 @@ El gong se movía entre la realidad y el mito, y las anécdotas mismas eran part
 
 ---
 
-## Capítulo 10 Cronología y figuras de referencia {#capítulo10}
+## Capítulo 10 Cronología y figuras de referencia {#chapter10}
 
 | Año | Principales acontecimientos |
 | :-------- | :---------------------------- |

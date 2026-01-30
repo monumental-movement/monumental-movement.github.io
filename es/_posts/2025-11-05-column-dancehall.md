@@ -79,7 +79,7 @@ King Tubby, Lee Perry, Errol Thompson y otros utilizaron la mesa de mezclas como
 
 ### ▪ Filosofía de graves del altavoz
 
-El "bajo" del sistema de sonido tenía un tono religioso.
+El "bajo" del sistema de sonido tenía un sonido religioso.
 Conectados con el espíritu rastafari, expresan su visión del universo como "tono bajo = tierra" y "tono agudo = cielo".
 Esta idea fue heredada más tarde por el **UK dub** (Jah Shaka, Aba Shanti-I) y la **soundclash culture**.
 
@@ -90,7 +90,7 @@ Esta idea fue heredada más tarde por el **UK dub** (Jah Shaka, Aba Shanti-I) y 
 ### ▪ Flacidez y explosión de jerga
 
 En 1985, **`Under Mi Sleng Teng''** de Wayne Smith cambió todo.
-Se dice que esta canción, que utilizó los ajustes preestablecidos de ritmo de Casio MT-40, es el primer reggae completamente digital de la historia y, a partir de entonces, el "dancehall digital" se convirtió en algo común.
+Se dice que esta canción, que utiliza los ajustes preestablecidos de ritmo del Casio MT-40, es el primer reggae completamente digital de la historia y, a partir de entonces, el "dancehall digital" se convirtió en algo común.
 
 | Año | Canción representativa | Artista | Notas |
 |----|--------|---------------|------|
@@ -193,7 +193,7 @@ D --> G["日本のSound System文化\n(1990s〜)"]
 
 ---
 
-## Conclusión: ¿Adónde va el bajo?
+## Conclusión: ¿Hacia dónde se dirige el bajo?
 
 Un sistema de sonido es más que un simple equipo de audio.
 Es una infraestructura de autoexpresión y un símbolo de resistencia y solidaridad.
@@ -211,7 +211,7 @@ La música es una "memoria corporal" que se comparte a través de fronteras.
 
 ---
 
-## Potencia del sistema de sonido doméstico en Japón
+## Tabla de potencia del sistema de sonido doméstico en Japón
 
 <div class="mermaid">
 
@@ -256,7 +256,7 @@ graph TD
 </div>
 
 Este diagrama muestra la red de culturas de sistemas de sonido independientes formadas por región.
-Las siguientes características son claras: ``Yokohama = orientación internacionalmente competitiva'', ``Osaka = Conexión directa a las calles'' y ``Okinawa = Punto de conexión entre el Caribe y Asia''.
+Las siguientes características son claras: ``Yokohama = orientación internacionalmente competitiva'', ``Osaka = conexión directa con las calles'' y ``Okinawa = el punto de conexión entre el Caribe y Asia''.
 
 ---
 

@@ -20,7 +20,7 @@ title: '[Column] Human Beatbox World history and Japanese players - Technologica
 
 Text: mmr｜Theme: History of Human Beatbox, changes in world tournaments, styles of players from each country, characteristics of Japanese players, and analysis of SO-SO/RUSY/Kohey
 
-Human Beatbox is not just an art of making sounds with your mouth; it is a musical culture in which technical systems exist in countries around the world, international competitions have been held, and new technologies have been invented with each generation. In this article, we will organize the history based on facts and dig deeper into the establishment of world tournaments, player styles in each country, characteristics in Japan, and representative players such as SO-SO, RUSY, and Kohey.
+Human Beatbox is not just an art of making sounds with your mouth; it is a music culture where technical systems exist in countries around the world, international competitions have been held, and new technologies have been invented with each generation. In this article, we will organize the history based on facts and dig deeper into the establishment of world tournaments, player styles in each country, characteristics in Japan, and representative players such as SO-SO, RUSY, and Kohey.
 
 ---
 
@@ -131,7 +131,7 @@ In particular, Japan's strengths include "accuracy of sound," "composition abili
 In Japan, it has spread through the streets and events since the mid-2000s, and techniques are shared between performers through practice sessions and participation in competitions.
 
 ## ◆ 2. Strong technical orientation
-Japanese players are strong in sound accuracy and attention to detail, and are praised even by overseas players.
+Japanese players are strong in sound accuracy and attention to detail, and are highly praised even by overseas players.
 
 ## ◆ 3. Fusion with video and editing culture
 Mainly on YouTube and SNS,
@@ -172,7 +172,7 @@ He has helped raise the profile of Loopstation players in Japan, and has a great
 
 ### ● Precise technique
 RUSY is known for his highly accurate rhythms and smooth combination techniques, and has received high praise mainly at domestic tournaments in Japan.
-The characteristics are:
+Features include:
 
 - tight groove
 - Clear and dense pronunciation
@@ -245,7 +245,7 @@ With the development of Loopstation, beatboxing
 Towards an area that can be called
 
 ## ◆ 2. Combination with visual culture
-""Video-based showcases'' are increasing in tournaments around the world.
+The number of ""video-based showcases'' is increasing in tournaments around the world.
 We live in an era where SNS accelerates style.
 
 ## ◆ 3. Future of Japanese strengths
@@ -263,9 +263,9 @@ We can expect him to continue to be active in both Loopstation and solo.
 
 # Conclusion - Human Beatbox as a culture
 
-Human Beatbox is a modern expressive culture that combines many aspects such as music, performance, video, and composition.
+Human Beatbox is a modern expression culture that combines many aspects such as music, performance, video, and composition.
 Now that the competition culture is maturing, technology is evolving, and Japanese artists are emerging, beatboxing is undergoing major changes, and beatboxing is becoming more than just a technique, it is becoming an international music genre.
 
-I hope this article will help you understand the history and future of beatboxing.
+I hope that this article will help you understand the history and future of beatboxing.
 
 ---

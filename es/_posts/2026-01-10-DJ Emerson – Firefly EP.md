@@ -20,7 +20,7 @@ Simon Emerson Kidder, también conocido como DJ Emerson, es un DJ y productor de
 
 A2 fue remezclado por el DJ y productor de techno estadounidense Tim Xavier.
 
-B1 es un remix del DJ y productor estadounidense Butane (Andrew Rasse), que dirige los sellos alphahouse, Little Helpers y Extrasketch.
+B1 es un remix de Butane (Andrew Rasse), un DJ y productor estadounidense que dirige los sellos alphahouse, Little Helpers y Extrasketch.
 
 
 #### Lista de canciones

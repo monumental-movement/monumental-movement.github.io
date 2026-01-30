@@ -22,7 +22,7 @@ Text: mmr｜Theme: How the reappraisal of 2000s French house connected to Nu Dis
 About analog synths, record culture, and filter house techniques
 
 In the late 2020s, **French Touch** (French house) is being reevaluated in both club and internet culture. In terms of DJ performances, songs like Stardust"s ""Music Sounds Better With You" and Cassius' ""1999" are moving the younger crowd again, and Daft Punk"s early works are finding new audiences through vinyl reissues.
-Furthermore, as domestic and foreign producers actively incorporate *analog synths, tape textures, the roughness of sampling, and the texture of vinyl lips*, they are naturally connecting with the context of **Nu Disco**, which was established in the late 2000s.
+Furthermore, as domestic and foreign producers actively incorporate *analog synths, tape textures, roughness of sampling, and vinyl lip texture*, they are naturally connecting with the context of **Nu Disco**, which was established in the late 2000s.
 
 This phenomenon is not just nostalgia.
 Rather, it is precisely because the digital environment has become completely pervasive that
@@ -50,7 +50,7 @@ color: #fff;
 ## 2. Establishment of French Touch: Situation in Paris in the late 1990s
 ### ● Background: An encounter between house and disco
 In the mid-1990s, the Parisian club scene absorbed American house music while forming a unique structure that brought disco/soul samples to the fore.
-While the influence of Chicago House was strong, house began to function as a new type of ""pop music" by mixing in the ""sophisticated melodic feel" unique to Europe.
+While strongly influenced by Chicago House, house began to function as a new type of ""pop music" as it mixed with a ""sophisticated melodic feel" unique to Europe.
 
 ### ● Existence of label/base
 - **Roulé (Thomas Bangalter)**
@@ -78,7 +78,7 @@ Representative ones are:
 These filter modules have an analog structure, so the overtone fluctuations during sweep are rich. French Touch's sonic image of ""closing and opening the filter'' is created with a texture unique to hardware.
 
 ### ● ② Record sampling and EQ/filter work
-Daft Punk actively employs vinyl noise and texture as part of their music by leaving the sample's sound image "rough".
+Daft Punk actively employs vinyl noise and textures as part of their music by leaving the sample's sound image "rough".
 Especially during the "Discovery" period, instead of polishing the sample to high quality,
 **The aesthetics of making pop music ""just as it was picked up from records**'' is a constant.
 
@@ -139,7 +139,7 @@ Features of Nu Disco:
 - See 1980s electronic funk
 - Re-expansion of record digging culture
 
-In this context, French Touch's ""sampling aesthetics," ""filterwork," and ""analog temperature'' provide an important foundation.
+この文脈では、French Touch の「サンプリング美学」「フィルターワーク」「アナログの温度」が重要な基盤を提供している。
 
 ---
 
@@ -158,8 +158,8 @@ In this context, French Touch's ""sampling aesthetics," ""filterwork," and ""ana
 
 ### ● Breakbot (France)
 - AOR to disco route similar to Daft Punk "Discovery"
-- Combination of light bass line and live instruments
-- Inheriting the "cute and colorful sound image" of French Touch
+- 軽やかなベースラインと生楽器の併用  
+- French Touch の“キュートで色彩豊かな音像”を継承
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fz7D8u9mYGA?si=c6eHr5agQJylzltx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -172,7 +172,7 @@ In this context, French Touch's ""sampling aesthetics," ""filterwork," and ""ana
 ---
 
 - Cosmic disco synth work
-- Long track structure resonates with Daft Punk storytelling
+- 長尺トラック構造が Daft Punk 的ストーリーテリングと共鳴
 
 These artists updated the French Touch gene in a Nu Disco context.
 

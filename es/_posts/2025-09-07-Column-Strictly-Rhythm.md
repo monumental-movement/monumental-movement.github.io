@@ -44,7 +44,7 @@ color: #fff;
 
 **Antecedentes históricos**: El house/techno, que había surgido en Chicago y Detroit, entró en los clubes de Nueva York a principios de los años 1990. Era una época en la que la cultura de club estaba a punto de comercializarse y persistía un espíritu clandestino de experimentación.
 
-**Qué pasó**: Fundada en 1989 por Mark Finkelstein y Gladys Pizarro. Desde su fundación, la compañía se ha centrado en música de 12 pulgadas orientada a DJ, produciendo sonido que se conecta directamente con la pista de baile y es popular en los clubes locales.
+**Qué pasó**: Fundada en 1989 por Mark Finkelstein y Gladys Pizarro. Desde nuestra fundación, nos hemos centrado en música de 12 pulgadas orientada a DJ, produciendo sonido que se conecta directamente con la pista de baile y es popular en los clubes locales.
 
 **Obra maestra representativa (temprana)**
 - Roger Sanchez — *Luv Dancin'* (1990, bajo el nombre Underground Solution)
@@ -62,7 +62,7 @@ Muchas de las producciones utilizaron tocadiscos y samplers (primeras series SP 
 | 4 | Jorge Morel | Vamos a bailar | House de principios de Nueva York con un ritmo minimalista pero excepcional. |
 | 5 | Maestros en el trabajo | La danza Ha | Una obra que enfatiza los elementos percusivos del house. |
 | 6 | Kenny droga | El EP de los Bucketheads | Impresionante uso de samples y ritmos innovadores. |
-| 7 | La red de metro | Está bien | Un éxito de club con un equilibrio perfecto entre melodía y ritmo. |
+| 7 | La red de metro | Está bien | Un éxito de discoteca con un equilibrio perfecto entre melodía y ritmo. |
 | 8 | Armada de ritmo | La música house nunca morirá | Homenaje a la casa, que influye en lanzamientos posteriores. |
 | 9 | Lógica | La Advertencia (Juan Atkins Remix) | Una refrescante fusión de enfoque techno y house. |
 | 10 | Víctor Simonelli | ¿Me sientes? Deep house melódico, una canción popular de club. |
@@ -164,7 +164,7 @@ La centralidad en DAW, las fuentes de sonido enchufables y el modelado de softwa
 
 **Antecedentes de los tiempos**: El valor de inversión de los catálogos de música está aumentando. El catálogo de danza de los 90 se reevalúa con material sampleado, reediciones y licencias.
 
-**Qué pasó**: En 2013, BMG adquirió el catálogo maestro de Strictly Rhythm. Posteriormente se transfirieron los derechos de publicación.
+**Qué pasó**: En 2013, BMG adquirió el catálogo maestro de Strictly Rhythm. Después de eso, también se transfirieron los derechos de publicación.
 
 **Posición actual**
 La marca/catálogo sigue activo y se utiliza como "activo" para reediciones, compilaciones, licencias, etc.

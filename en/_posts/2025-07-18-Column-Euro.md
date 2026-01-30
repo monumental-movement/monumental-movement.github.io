@@ -130,7 +130,7 @@ Multiple remixes and B-sides are included in one song, making it suitable for bo
 
 **●MTV Europe**
 
-A base for "visual dance culture" that sells video and music as a set.
+A base for "visual dance culture" that sells videos and music as a set.
 
 **● Super Eurobeat (Japan)**
 
@@ -187,7 +187,7 @@ In recent years, Euromusic has been reevaluated in the following ways:
 
 - Like City Pop, Eurobeat from Japan was rediscovered by the internet generation.
 
-Additionally, 90's Euro is reaching a new audience with increased playback on Spotify and YouTube.
+Additionally, 90's Euro is reaching new listeners as the number of plays on Spotify and YouTube increases.
 
 
 
@@ -230,7 +230,7 @@ Is it nostalgia or newness for you?
 <td>Masterboy</td>
 <td><a href="https://jp.mercari.com/item/m79586502927?afid=6142608987">Different Dreams</a></td>
 <td>CD</td>
-<td>1994 German Eurodance Masterpiece</td>
+<td>1994 German Eurodance masterpiece</td>
 </tr>
 <tr>
 <td>VA</td>
@@ -266,7 +266,7 @@ Is it nostalgia or newness for you?
 <td>Tam Arrow</td>
 <td><a href="https://jp.mercari.com/item/m53285819387?afid=6142608987">One ​​Shot Girl</a></td>
 <td>Vinyl</td>
-<td>Made in Italy 2001 Euro Beat EP</td>
+<td>2001 Made in Italy Euro Beat EP</td>
 </tr>
 <tr>
 <td>Dao Dezi</td>

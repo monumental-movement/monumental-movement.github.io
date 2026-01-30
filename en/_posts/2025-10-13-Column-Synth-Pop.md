@@ -97,7 +97,7 @@ This was the moment when Kraftwerk's ideas were reflected in the gorgeous mirror
 
 At that time, a quiet revolution was beginning in Tokyo.
 The sound produced by YMO (Yellow Magic Orchestra) in 1978 was not just an imitation, but a reimagining of electronic music into an "Asian context."
-Ryuichi Sakamoto"s music theory, Haruomi Hosono"s pop sensibilities, and Yukihiro Takahashi"s rhythmic sensibilities: YMO"s sound was the first ""electronic voice'' released to the world by Japan in the early days of globalization.
+Ryuichi Sakamoto"s music theory, Haruomi Hosono"s pop sensibilities, and Yukihiro Takahashi"s sense of rhythm: YMO"s sound was the first ""electronic voice'' released to the world by Japan in the early days of globalization.
 
 Ryuichi Sakamoto later said:
 > "Technology is a way to make music more human."
@@ -108,7 +108,7 @@ Ryuichi Sakamoto later said:
 
 When Perfume and Yasutaka Nakata arrived on the scene in the 2000s, that philosophy was revived in a new form.
 The voice was artificial due to auto-tune and sequencing, but it certainly had the ""feelings of the digital age'' in it.
-They symbolized an era when being mechanical became cute.
+They symbolized an era when ""being mechanical" became ""cute."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QF_bLVsJLlY?si=yL5vXkVtGfxIWUi5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -141,7 +141,7 @@ Behind this is a continuous technological aesthetic from YMO to Perfume.
 
 ---
 
-## Chapter 6 Technology and emotions: When machines draw humans
+## Chapter 6 Technology and Emotions: When Machines Depict Humans
 
 Sequencer, sampler, autotune.
 These were not tools for ""accuracy," but brushes used to highlight ""human ambiguity."
@@ -150,7 +150,7 @@ Something mechanical can be emotional—that's the paradoxical charm of synthpop
 In the 21st century, ""the aesthetics of imperfection'' is being reevaluated.
 Grimes" voice wavering, Charli XCX"s AI vocal processing, and Yaeji's blend of native languages.
 All of these prove that ""imperfect sounds'' convey humanity.
-As AI composition evolves, the "human artificiality" of synthpop may be the last romanticism in music.
+As AI composition advances, the "human artificiality" of synthpop may be the last romanticism in music.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X73VZJKrPIc?si=nZlS67Av7Y748O_a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -192,7 +192,7 @@ Synthpop is both the "sound of the future" and the "sound of nostalgia for the p
 Why are we so moved by the cold electronic sounds of the 1980s? That's because they contain the ""temperature of a time when people believed in the future.''
 Even now, as digital technology has evolved and AI has begun to compose music, humans continue to search for ""self'' within the sounds of machines.
 
-The ""relationship between technology and emotion'', which Ryuichi Sakamoto continued to ask until the end, is now once again a front-line theme.
+The ""relationship between technology and emotion'' that Ryuichi Sakamoto continued to ask until the end is now once again a front-line theme.
 And somewhere in that lineage lies YMO"s electronic smile, Perfume"s polyrhythms, and Charli XCX's pixelated tears.
 
 The future is always ringing in electronic dreams.
@@ -214,8 +214,8 @@ flowchart TD
     A1997["1997: Daft Punk "Homework"<br>French Synth Revival"]
     A2003["2003: Cornelius' Point"<br>Presenting "ambient synth pop"]
     A2008["2008: Perfume "GAME"<br>Million hit in Japan, spread around the world"]
-    A2012["2012: Grimes' Visions" <br>Towards the era of DIY synth pop"]
-    A2016["2016: Charli XCX "Vroom Vroom EP"<br>The beginning of hyperpop"]
+    A2012["2012: Grimes' Visions"<br>Towards the era of DIY synth pop"]
+    A2016["2016: Charli XCX "Vroom Vroom EP"<br>The beginning of hyper pop"]
     A2020["2020: Yaeji "What We Drew"<br>The rise of the neo-synth generation from Asia"]
     A2023["2023: Caroline Polachek "Desire, I Want To Turn Into You"<br>Towards the extreme north of maturity"]
 
@@ -259,7 +259,7 @@ A2. Examples include Depeche Mode, New Order, Pet Shop Boys, and Human League.
 
 A3. The experimental spirit of YMO and Ryuichi Sakamoto influenced Daft Punk and Radiohead, and became the origin of "electronic humanity" in the AI ​​era.
 
-- **Q4. What are the characteristics of neo-synthpop in recent years? **
+- **Q4. What are the characteristics of neo-synth pop in recent years? **
 
 A4. The point is that we actively incorporate "digital distortion" such as hyper pop and AI music. Charli XCX and Grimes are examples of this.
 

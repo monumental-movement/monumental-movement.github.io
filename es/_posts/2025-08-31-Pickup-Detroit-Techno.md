@@ -84,7 +84,7 @@ Puntos recomendados: Una obra maestra que condensa el sonido fresco y futurista 
 
 Características: Estructura de pista mínima con ritmo y líneas de sintetizador simples. Se caracteriza por su trabajo de sintetizador espacial y flotante y su ritmo fresco y mecánico.
 
-Punto recomendado: Una canción que te permite experimentar los orígenes del techno de Detroit. Al agregarlo temprano en una sesión de DJ, puedes crear una "sensación cósmica similar a la de Detroit" en la pista. Fácil de escuchar incluso para principiantes, perfecto para comprender la visión del mundo del Modelo 500.
+Punto recomendado: Una canción que te permite experimentar los orígenes del techno de Detroit. Si lo colocas temprano en una sesión de DJ, puedes crear una "sensación cósmica tipo Detroit" en la pista. Fácil de escuchar incluso para principiantes, perfecto para comprender la visión del mundo del Modelo 500.
 
 #### Lista de canciones
 ```md
@@ -110,7 +110,7 @@ T2. The Flow M38 (Alex Reece Mix)
 <a href="https://jp.mercari.com/item/m22835584429?afid=6142608987"><img src="../assets/images/Carl%20Craig%20%E2%80%93%20Landcruising.webp"></a>
 
 
-Características: Imagen sonora espectacular que combina ambient, breakbeat, jazz del futuro, etc. basado en el minimalismo.
+Características: Imagen sonora espectacular que combina ambient, breakbeat, jazz del futuro, etc. con una base minimalista.
 
 Puntos recomendados: Un álbum con profundidad y sofisticación que lleva al oyente a un viaje emocional. Este es un trabajo que tanto los DJ como los oyentes querrán escuchar con atención.
 
@@ -308,7 +308,7 @@ B. Circus (The Big Finale Mix)
 
 Características: Tema lanzado bajo el nombre “M” por Axis en 1992. Una canción que representa el minimal temprano de Detroit.
 
-Puntos recomendados: Un disco imprescindible para los coleccionistas que puedan experimentar la sensación underground de principios de los 90, con una sensación áspera pero resistente.
+Puntos recomendados: Un disco imprescindible para los coleccionistas que puedan experimentar la sensación underground de principios de los 90, con un sonido áspero pero potente.
 
 
 #### Lista de canciones

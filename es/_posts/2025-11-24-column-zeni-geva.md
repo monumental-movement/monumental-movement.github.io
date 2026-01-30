@@ -93,7 +93,7 @@ Durante este período, las canciones de Zeni Geva se volvieron más largas y est
 
 ### “10.000 años luz (2001)”
 - Mayores texturas electrónicas.
-- Combinación multicapa de ruido/guitarra metálica/compás inusual/sonidos electrónicos
+- Ruido/guitarra metálica/compás inusual/sonidos electrónicos se entrelazan en múltiples capas
 - Zeni Geva como escultura sonora, diferente a la del periodo de los años 1980-90
 
 La banda alcanzó la madurez musical durante este período, pero al mismo tiempo, las actividades en solitario de Null y otros proyectos aumentaron, y el tiempo entre lanzamientos como banda se hizo más largo.

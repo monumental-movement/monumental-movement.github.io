@@ -21,7 +21,7 @@ Text: mmr｜Theme: About the entertainment Yamashiro-gumi formed in the early 19
 
 
 In the 1970s, there was a person who stood out at the border between Japanese music and visuals.
-**Shoji Yamashiro (real name: Riki Ohashi)**. He graduated from the Department of Agricultural Chemistry, Faculty of Agriculture, Tohoku University, and was interested in life science, information, and sound.With a background of scientific speculation and sensibility, he positioned art as ""an experiment to explore the relationship between humans and the environment.''
+**Shoji Yamashiro (real name: Riki Ohashi)**. He graduated from the Department of Agricultural Chemistry, Faculty of Agriculture, Tohoku University, and was interested in life science, information, and sound.With a background of scientific thought and sensibility, he positioned art as ""an experiment to explore the relationship between humans and the environment.''
 
 The place for this experiment was Geinoh Yamashirogumi, which was formed in the early 1970s.
 More than just a music group, it was a ""community for comprehensively exploring the relationship between sound, humans, and society" and was a ""place" that integrated music, ethnology, information theory, and anthropology.
@@ -45,7 +45,7 @@ color: #fff;
 ## Chapter 1: Birth of the entertainment Yamashiro Gumi - Art as a "group"
 
 The starting point for the Geino Yamashiro Gumi was the formation of a ""collective'' of people who came together across universities, companies, and professions.
-Doctors, teachers, engineers, students, housewives - people with different occupations and philosophies shared an intuitive desire to ""live within sound.''
+Doctors, teachers, engineers, students, housewives - people with different professions and philosophies shared an intuitive desire to ""live in sound''.
 
 From the beginning, Yamashiro defined art not as an act of individual expression, but as the expression of a group.
 Therefore, their rehearsals were not just performances, but the process of ""sound generating a field.''
@@ -73,7 +73,7 @@ This was not just a collection of folk music, but an exploration of the fundamen
 | Tibet/Mongolia | Homie chanting | Laryngeal resonance and overtone separation |
 
 Rather than treating these as "materials," Yamashiro et al. observed and reconstructed their structure, function, and social significance.
-In particular, the ""acoustic structure that transcends time and space" of Balinese gamelan music is the underlying theme of Geino Yamashiro Gumi's ""creation of groups," ""information environment," and ""environmental studies of sound."
+In particular, the ""acoustic structure that transcends time and space" of gamelan music in Bali is fundamental to the ""group creation", ""information environment", and ""sound environmental studies" of the Geino Yamashiro Gumi.
 
 > "People form groups based on sound. Sound evolves through groups."
 > — Shoji Yamashiro
@@ -99,10 +99,10 @@ It also influenced later world-famous artists such as Aphex Twin, Ryuichi Sakamo
 
 ## Chapter 4: Sound Environment - Science and Philosophy of "Listening"
 
-After ""AKIRA", Yamashiro developed the concept of ""environmental studies of sound" in parallel with his artistic activities.
+After ""AKIRA," Yamashiro developed the concept of ""environmental studies of sound" in parallel with his artistic activities.
 He reconsidered sound not just as an auditory stimulus, but as a ""point of contact between information and ecology.''
 
-### ◇ Main works and ideas
+### ◇ Main works and thoughts
 
 | Book title | Publisher/year | Content summary | Link |
 |------|-------------|------------|

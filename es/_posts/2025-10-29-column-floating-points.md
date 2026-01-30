@@ -132,7 +132,7 @@ timeline
 ---
 
 
-### 8. Conclusión: observar el sonido
+### 8. Conclusión: Observar el sonido
 
 Escuchar la música de Floating Points es más como un acto de "observar" el sonido que de "experimentarlo".
 Aquí, el oído funciona como un órgano sensorial científico y la música se sitúa en el punto medio** entre la mente y el físico.

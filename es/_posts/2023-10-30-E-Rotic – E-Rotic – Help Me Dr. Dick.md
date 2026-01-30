@@ -15,7 +15,7 @@ title: E-Rotic - Ayúdame Dr. Dick
 ---
 
 
-E-Rotic es un grupo alemán de eurodance formado en 1994. Los primeros miembros fueron la vocalista Lyane Leigh y el rapero Richard Michael Smith (también conocido como Raz-Ma-Taz). El productor es David Brandes.
+E-Rotic es un grupo alemán de eurodance formado en 1994. Los primeros miembros fueron la vocalista Lyane Leigh y el rapero Richard Michael Smith (también conocido como Raz-Ma-Taz). Productor: David Brandes.
 
 "Help Me Dr. Dick" es una canción de Eurohouse/Eurodance lanzada en 1996 por el sello dance-pop Blow Up en Stuttgart, Alemania.
 

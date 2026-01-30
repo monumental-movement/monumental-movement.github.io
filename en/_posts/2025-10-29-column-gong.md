@@ -167,7 +167,7 @@ Even after Allen passed away in 2015, Gong continues to live on as a "regenerati
 ## Chapter 8 The world of Gong mythology—Characters, iconography, and worldview {#chapter8}
 
 Gong is a comprehensive art that integrates music, mythology, and art.
-Centering around the Radio Gnome trilogy, characters, planets, languages, broadcast stations, etc. are intricately intertwined.
+Centering around the Radio Gnomes trilogy, characters, planets, languages, broadcast stations, etc. are intricately intertwined.
 
 Below is a diagram showing its symbolic structure:
 

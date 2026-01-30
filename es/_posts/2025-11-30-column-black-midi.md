@@ -78,7 +78,7 @@ Resumiremos las críticas nacionales e internacionales, los medios y las reaccio
 
 ### 3‑1. Período de debut: grandes elogios impactantes y frescos
 
-- Su álbum debut *Schlagenheim* fue muy elogiado por muchos críticos como "impredecible", "sonido vanguardista" y "romper los límites del rock/post-punk existente". En particular, hubo muchos elogios sobre su técnica de batería (Morgan Simpson), con comentarios como "su habilidad para tocar es extraordinaria a una edad tan joven" y "el surgimiento de talentos jóvenes".
+- Su álbum debut *Schlagenheim* fue muy elogiado por muchos críticos como "impredecible", "sonido vanguardista" y "romper los límites del rock/post-punk existente". En particular, hubo muchos elogios sobre la técnica de la batería (Morgan Simpson), con comentarios como "su habilidad para tocar es extraordinaria a una edad tan joven" y "el surgimiento de talentos jóvenes".
 
 - Recibieron atención en los medios japoneses y su debut fue presentado como "la banda extranjera más notable de 2019" y "un candidato al mejor álbum del año". Algunos oyentes y escritores japoneses han argumentado que su sonido resuena con "juegos", jazz japonés, alternativo y ruido, y fue aceptado no solo por los fanáticos del rock occidental tradicional sino también por los oyentes de la subcultura/alternativa.
 
@@ -88,7 +88,7 @@ De esta manera, durante su período de debut, Black Midi atrajo intensa atenció
 
 ### 3‑2. Cavalcade, Hellfire: un guiño a la expansión y al esoterismo
 
-- Después del lanzamiento de su segundo álbum *Cavalcade*, muchos críticos comentaron que era "más estructurado y ambicioso", "Un laberinto de locura que se tragó múltiples géneros como el jazz, el rock progresivo y la música experimental" y "Es raro que un artista joven pueda cambiar y expandirse tanto". En particular, se ha elogiado la composición ampliada que incluye saxofón, teclados, cuerdas, etc., y la variedad de instrumentos musicales. desarrollos.
+- Después del lanzamiento de su segundo álbum *Cavalcade*, muchos críticos comentaron que era "más estructurado y ambicioso", "Un laberinto de locura que se tragó muchos géneros como el jazz, el rock progresivo y la música experimental" y "Es raro que un artista joven pueda cambiar y expandirse tanto". En particular, se ha elogiado la composición ampliada que incluye saxofón, teclados, cuerdas, etc., y la variedad de instrumentos musicales. desarrollos.
 
 - Por otro lado, también hubo comentarios como "el sonido es demasiado denso", "el equilibrio entre ruido y estructura es difícil de encontrar" y "da la impresión de ser demasiado elaborado, en lugar de la libertad de la improvisación en vivo". Algunos críticos elogiaron la opulencia y la estructura de Cavalcade, pero sintieron que el "peligro crudo" y el "impulso de improvisación" característicos de su trabajo debut habían disminuido.
 
@@ -97,7 +97,7 @@ De esta manera, durante su período de debut, Black Midi atrajo intensa atenció
 - Sin embargo, al mismo tiempo, también hay quejas persistentes de que "la estructura es demasiado compleja y la entrada es estrecha", "hay que escucharlo más que el impacto inicial", y "es un trabajo que a la gente le gusta o lo odia", y algunos dicen que las canciones de Black Midi son difíciles de decir "para todos".
 En otras palabras, el período de crecimiento de Black Midi fue un período en el que amplió sus técnicas, composición y musicalidad, y su radicalidad y sofisticación traspasó los límites de la música que podían dividirse fácilmente en pros y contras y que podía ser elegida por el oyente.
 
-### 3-3. El valor de las presentaciones en vivo y la “actuación/improvisación”: álbumes en vivo y reevaluación
+### 3-3. El valor de la interpretación en vivo y la “interpretación/improvisación”: álbumes en vivo y reevaluación
 
 - El álbum en vivo *Live Fire* lanzado en 2022 captura la apariencia de Black Midi como una "banda en vivo" en una forma diferente a la grabación de estudio. Muchas de las canciones han sido reconstruidas y la improvisación, los cambios y la pasión de la interpretación se transmiten de manera realista. Su enfoque de "grabación + reinterpretación en vivo" fue visto como una demostración de su versatilidad y flexibilidad.
 
@@ -113,7 +113,7 @@ En otras palabras, el período de crecimiento de Black Midi fue un período en e
 
 - Black Midi tiene su base en una sala de conciertos en Brixton, al sur de Londres, y ha sido considerada una banda clave en la "escena Windmill", un movimiento de bandas jóvenes orientadas al rock experimental, post-punk y art rock. Junto a ellos, varias bandas jóvenes participaron en la misma escena, y juntas llamaron la atención.
 
-- Su éxito demostró el "potencial de éxito comercial/crítico" en esta escena. En otras palabras, allanaron el camino para que incluso bandas jóvenes con un estilo de experimentación indie/underground pudieran construir obras y carreras de clase mundial. Esto se convirtió en un "modelo de éxito" para Windmill Scene y las bandas que le siguieron.
+- Su éxito demostró el "potencial de éxito comercial/crítico" en esta escena. En otras palabras, allanaron el camino para que incluso bandas jóvenes con un estilo de experimentación indie/underground pudieran construir obras y carreras de talla mundial. Esto se convirtió en un "modelo de éxito" para Windmill Scene y las bandas que le siguieron.
 
 
 ### 4‑2. Reevaluando la mezcla de géneros, la experimentación y el liveismo

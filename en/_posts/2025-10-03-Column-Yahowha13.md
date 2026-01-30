@@ -142,7 +142,7 @@ After 1975, the band disbanded due to Father Yod's passing. However, lay musicia
 In 1977, Golden Sunrise (under the name Fire Water Air) and Yodship Suite (Private Press) were released. There is also a collaboration with Sky Saxon (former of The Seeds) and vocal participation.
 
 
-Since the 2000s, there have been reissues and archive reprints, fragmentary new recordings, and member reunions (Sonic Portation by Djin, Sunflower, Octavius, etc.).
+Since the 2000s, there have been reissues and archive reprints, fragmentary new recordings, and member reunions (such as Sonic Portation by Djin, Sunflower, Octavius, etc.).
 
 
 ---
@@ -318,7 +318,7 @@ References to the archetypal "travel/purification/elements (fire/water/air/earth
 Doctrinal/ritual phrases (words indicated by redacted track names such as "man the messiah")—words that are improvised and layered as a leader's declaration.
 
 
-How to analyze: Rather than simply reading the lyrics as ""lyrics = transmission of meaning," it is most useful to read them as follows: ""(1) The sounds themselves are rituals / (2) Words are suggestive and poetic triggers that generate an on-the-spot communal experience." In other words, participatory religious guidance through "sound/repetition" is the core of the album.
+How to analyze: Rather than simply reading the lyrics as ""lyrics = transmission of meaning," it is most useful to read them as follows: ""(1) The sound itself is a ritual / (2) Words are suggestive and poetic triggers that generate a communal experience on the spot." In other words, participatory religious guidance through "sound/repetition" is the core of the album.
 
 ---
 
@@ -378,7 +378,7 @@ Reissues vary in the degree of editing of the sound source depending on the publ
 
 ---
 
-### Highlights & recommended listening order (beginner → intermediate → researchers)
+### Listening highlights & recommended listening order (for beginners → intermediate → researchers)
 
 **Representative song/representative board (introductory)**: First go through Penetration: An Aquarian Symphony once.
 
@@ -466,7 +466,7 @@ The sound "Ya Ho Wha" itself is a sacred mantra of the Source Family, an express
 
 **90s psych reissue boom**: P.S.F. Records and Captain Trip Records actively introduced Yahooha 13.
 
-It has been featured as a ""phantom cult psychedelic'' in magazines such as Eureka and Eurorock Press, and Japanese listeners avidly collect it.
+It has been featured as a ""phantom cult psychedelic" in magazines such as ""Eureka" and ""Eurorock Press,'' and Japanese listeners avidly collect it.
 
 **Evaluation trends**: In Japan, it is loved as ""heretical" and ""esoteric psychedelic," and has become a collector's item at imported disc shops (Disc Union, Melon, Manhattan Records, etc.).
 

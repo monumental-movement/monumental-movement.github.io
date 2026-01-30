@@ -151,7 +151,7 @@ Su muerte provocó una profunda conmoción en el mundo de la música sudafricana
 
 * Primeros álbumes de la banda.
 * Presidente negro
-* Ahora es el momento
+*Ahora es tiempo
 *Paparazzi
 *Memeza
 * Nomakanjani

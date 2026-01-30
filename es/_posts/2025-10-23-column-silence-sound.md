@@ -156,7 +156,7 @@ La música una vez más nos conecta con el mundo.
 | Año | Eventos | Personas principales |
 | ----- | -------------------- | ------------- |
 | 1952 | 《4:33》 Estreno | Juan jaula |
-| 1967 | Proponen concepto “Soundwalk” | Max Newhouse |
+| 1967 | Proponen el concepto "Soundwalk" | Max Newhouse |
 | 1977 | Editorial “Sintonía del Mundo” | R. Marie Schaefer |
 | 1982 | El auge de la música ambiental | Brian Eno |
 | Años 2000 | Ampliación de la cultura de grabación de campo | Chris Watson y Ryuichi Sakamoto |

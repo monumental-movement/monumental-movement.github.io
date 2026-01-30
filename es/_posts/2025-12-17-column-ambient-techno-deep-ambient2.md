@@ -103,9 +103,9 @@ Incluso si se trata de un sonido artificial, si se diseñan la sensación de dis
 
 ## 10. Independencia del oyente
 
-En este tipo de música, el oyente no es una entidad pasiva. Siempre depende del oyente decidir cuánta atención prestar y cuándo dejar que la música se convierta en fondo.
+En este tipo de música, el oyente no es una entidad pasiva. Siempre depende del oyente decidir cuánta atención prestar y cuándo dejar que la música se convierta en un fondo.
 
-Ambient Techno/Deep Ambient es música extremadamente democrática en el sentido de que no fuerza la intensidad de la escucha.
+Ambient Techno / Deep Ambient es música extremadamente democrática en el sentido de que no fuerza la intensidad de la escucha.
 
 ---
 
@@ -115,7 +115,7 @@ En un entorno de streaming, la música se omite fácilmente. Sin embargo, la mú
 
 ---
 
-## 12. Relación complementaria con la primera parte
+## 12. Relación de complementariedad con la primera parte
 
 Si bien la primera parte trató sobre la estructura y la historia acústica, este artículo se centra en la práctica y el uso. Aunque ambos son independientes, comparten la misma filosofía de diseño.
 

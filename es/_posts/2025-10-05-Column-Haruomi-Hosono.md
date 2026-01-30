@@ -51,7 +51,7 @@ Antes de la formación de Happy End, 1969-1970. Un período de exploración del 
 Grabación analógica en casa o en un pequeño estudio. Utiliza órgano, guitarra y micrófono simple.
 
 #### Anécdota
-Un amigo añadió efectos de sonido y risas a las grabaciones, y su sentido del humor se desarrolló rápidamente.
+Un amigo añadió efectos de sonido y risas a las grabaciones y su sentido del humor se desarrolló rápidamente.
 
 
 ---
@@ -135,7 +135,7 @@ Hubo mucho ensayo y error en la creación de canciones entre los miembros, y tam
 - "Haraiso" (1978)
 
 Asia, Mares del Sur, América Latina, Hawaii y Japón.
-Durante este período, Hosono no intentó imitar a los "países extranjeros", sino que más bien expresó el exotismo con el que soñaban los japoneses.
+Durante este período, Hosono no intentó imitar a los "países extranjeros", sino que expresó el exotismo con el que soñaban los japoneses.
 Se caracteriza por una estructura que recuerda a un diario de viaje ficticio y una disposición ingeniosa.
 
 #### Antecedentes históricos
@@ -144,7 +144,7 @@ En la televisión y el cine se difundió la idea de que "países tropicales = cu
 
 #### Entorno de producción
 Grabado en casa/estudio "HOSONO HOUSE" (Saitama, Sayama).
-Convirtieron la sala de una casa de madera en un estudio y grabaron usando una cinta analógica y una simple mesa de mezclas.
+Convirtieron la sala de una casa de madera en un estudio y grabaron utilizando una cinta analógica y una sencilla mesa de mezclas.
 Este estilo de grabación casera se convirtió en el origen del pop urbano posterior y de la cultura de grabación casera.
 
 #### Anécdota
@@ -218,7 +218,7 @@ Hosono dijo en broma: "La música se trata de vivir con el azar".
 - "ECM" (1995)
 
 Fue una época en la que trabajó en música para una amplia variedad de medios, incluyendo animación, películas y comerciales.
-"La noche en el ferrocarril galáctico" brilla con delicadas composiciones que parecen traducir la literatura fantástica de Kenji Miyazawa al sonido.
+"Night on the Galaxy Express" brilla con delicadas composiciones que parecen traducir la literatura fantástica de Kenji Miyazawa al sonido.
 
 #### Antecedentes históricos
 Tras el estallido de la burbuja económica, los valores de Japón se han visto sacudidos.

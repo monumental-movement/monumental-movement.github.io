@@ -23,7 +23,7 @@ title: Recogiendo obras de techno alemán
 <a href="https://jp.mercari.com/item/m32845023734?afid=6142608987"><img src="../assets/images/Tresor%20Compilation%20Vol.%207.webp"></a>
 
 
-Punto atractivo: una recopilación del prestigioso sello alemán Tresor, con una lujosa selección de temas de algunos de los nombres más importantes del techno, entre ellos Sven Väth, Maurizio, Ben Sims, James Ruskin y Pacou. Esta es una pieza que te permite experimentar plenamente el encanto del techno duro, minimalista e innovador que simboliza Berlín—Alemania.
+Punto atractivo: una recopilación del prestigioso sello alemán Tresor, con una lujosa selección de temas de algunos de los nombres más importantes del techno, entre ellos Sven Väth, Maurizio, Ben Sims, James Ruskin y Pacou. Esta es una pieza que te permite experimentar plenamente el encanto del techno duro, minimalista e innovador que simboliza Berlín-Alemania.
 
 
 #### Lista de canciones
@@ -58,7 +58,7 @@ Punto atractivo: una recopilación del prestigioso sello alemán Tresor, con una
 
 
 
-Punto atractivo: ¡Una obra maestra de Zombie Nation, un proyecto del DJ y productor alemán Splank! (Florian Senfter). En particular, la cara A "Souls At Zero (Original Album Version)" se combina con una cara B remezclada de Sven Väth. El remix de Sven Väth tiene un final potente que combina la pesadez y el dramatismo del techno alemán.
+Punto atractivo: ¡Una obra maestra de Zombie Nation, un proyecto del DJ y productor alemán Splank! (Florian Senfter). En particular, la cara A "Souls At Zero (Original Album Version)" se combina con una cara B remezclada de Sven Väth. El remix de Sven Väth tiene un final potente que combina la profundidad y el dramatismo del techno alemán.
 
 
 #### Lista de canciones
@@ -83,7 +83,7 @@ B. Souls At Zero (Sven Väth Remix)
 <a href="https://jp.mercari.com/item/m39474275698?afid=6142608987"><img src="../assets/images/Cygnus%20X%20%E2%80%93%20The%20Orange%20Theme%20(The%20Remixes).webp"></a>
 
 
-Punto atractivo: un remix de la enérgica y edificante obra maestra del trance techno "The Orange Theme" de la unidad alemana Cygnus X. Contiene una variedad de remixes de Moonman, Bervoets & De Goeij, Mark Van Dale con Enrico y más, lo que le permite disfrutar de arreglos para clubes que capturan la esencia de la canción original.
+Punto atractivo: un álbum de remezclas de la enérgica y edificante obra maestra del trance techno ``The Orange Theme'' de la unidad alemana Cygnus X. Contiene una variedad de remezclas de Moonman, Bervoets & De Goeij, Mark Van Dale con Enrico y más, lo que te permite disfrutar de arreglos aptos para clubes que capturan la esencia de la canción original.
 
 
 #### Lista de canciones
@@ -112,7 +112,7 @@ B2. The Orange Theme (Mark Van Dale With Enrico Mix)
 
 
 
-Punto atractivo: un lanzamiento en 2001 del proyecto solista de Thomas Schumacher "Elektrochemie LK". Una pieza atractiva que combina un ritmo sólido con una estética techno clásica alemana. El desarrollo de la pista, atrevido y de espíritu libre, brilla.
+Punto atractivo: un lanzamiento en 2001 del proyecto en solitario de Thomas Schumacher "Elektrochemie LK". Una pieza atractiva que combina un ritmo sólido con una estética techno clásica alemana. El desarrollo de la pista, atrevido y de espíritu libre, brilla.
 
 
 #### Lista de canciones
@@ -150,7 +150,7 @@ F2. Ein Nenner
 <a href="https://jp.mercari.com/item/m37743482457?afid=6142608987"><img src="../assets/images/Elektrochemie%20LK%20%E2%80%93%20When%20I%20Rock.webp"></a>
 
 
-Punto atractivo: "When I Rock" es uno de los temas característicos de Thomas Schumacher. Además de la mezcla original, incluye remezclas de DJ Rush y Santos, lo que lo convierte en un trabajo donde disfrutar del choque de ritmos y la riqueza de diferentes interpretaciones.
+Lo atractivo: "When I Rock" es uno de los temas característicos de Thomas Schumacher. Además de la mezcla original, incluye remezclas de DJ Rush y Santos, lo que lo convierte en un trabajo donde disfrutar del choque de ritmos y la riqueza de diferentes interpretaciones.
 
 
 #### Lista de canciones
@@ -232,7 +232,7 @@ A2. Bazz-Dee &amp; Weichentechnikk – Samurai Pizza Cats
 
 
 
-Punto atractivo: Una obra de Johannes Heil, caracterizada por una dirección oscura y dramática. Una pieza que invita a una experiencia techno futurista con ritmos profundos y un enfoque psicodélico. La historia es impresionante ya que avanza y retrocede entre el silencio y la explosión.
+Punto atractivo: Una obra de Johannes Heil, caracterizada por una dirección oscura y dramática. Es una experiencia techno futurista con ritmos profundos y un enfoque psicodélico. La historia es impresionante ya que avanza y retrocede entre el silencio y la explosión.
 
 
 #### Lista de canciones

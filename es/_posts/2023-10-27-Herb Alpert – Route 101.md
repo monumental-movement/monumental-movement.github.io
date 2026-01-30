@@ -10,13 +10,13 @@ tags:
 - Jazz
 - 80s
 - 7inch
-title: Hierba Alpert – Ruta 101
+title: Herb Alpert – Route 101
 ---
 
 
 "Route 101" de Herb Alpert es un sencillo del álbum "Fandango" lanzado en 1982.
 
-"Route 101" alcanzó el número 4 en la lista Adult Contemporary de la revista Billboard ese mismo año.
+"Route 101" alcanzó el número 4 en la lista de música contemporánea para adultos de la revista Billboard ese mismo año.
 
 #### Lista de canciones
 ```md

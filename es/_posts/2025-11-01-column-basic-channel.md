@@ -212,7 +212,7 @@ El sonido de Basic Channel es atemporal y aún permanece en "tiempo presente".
 La razón de esto es que no sólo crearon techno, sino que reconstruyeron el acto mismo de escuchar.
 
 El eco nunca termina.
-Es un olor persistente del tiempo y un túnel que lleva al oyente al exterior del espacio.
+Es la fragancia persistente del tiempo y también es un túnel que lleva al oyente al exterior del espacio.
 
 Y las ondas que emanan del Berlín de finales del siglo XX siguen resonando silenciosamente bajo tierra en todo el mundo.
 

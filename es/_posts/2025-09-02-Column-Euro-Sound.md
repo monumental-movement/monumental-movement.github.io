@@ -82,7 +82,7 @@ color: #fff;
 **descripción general**
 - **Ubicaciones**: Frankfurt, Munich, Berlín, etc.
 - **Disqueras principales**: Dance Pool (Sony Alemania), Zyx, Low Spirit
-- **Características**: ritmo pesado, línea de bajo mecánica, composición minimalista, orientado a club
+- **Características**: ritmo pesado, línea de bajo mecánica, composición mínima, orientado a club
 
 **Características del sonido**
 - Bombo grueso y duro, enfatizando tiempos de 4/4
@@ -94,7 +94,7 @@ color: #fff;
 -¡Quebrar!
 -Cultura Beat
 -Real McCoy
-- U96
+-U96
 -Scooter
 
 **Antecedentes culturales**
@@ -106,7 +106,7 @@ color: #fff;
 
 | Artista | Álbum/sencillo | Características/Canciones de éxito |
 |---|---|---|
-| ¡Quebrar! | *Poder mundial* (1990) | Incluye éxitos mundiales "The Power" y "Rhythm Is a Dancer" |
+| ¡Quebrar! | *Poder Mundial* (1990) | Incluye éxitos mundiales "The Power" y "Rhythm Is a Dancer" |
 | Ritmo cultural | *Serenidad* (1993) | Baile europeo orientado a clubes. “Mr. Vain” es la canción representativa |
 | Verdadero McCoy | *Otra noche* (1995) | Unidad híbrida americano-alemana. Canciones exitosas “Another Night” y “Run Away” |
 | U96 | *La bota* (1992) | Orientado al tecno-trance. La canción principal es un éxito de discoteca |
@@ -121,7 +121,7 @@ color: #fff;
 - **Características**: sonido genial, letras en inglés orientadas al pop, mezcla suave
 
 **Características del sonido**
-- Estructura pop, fácil de escuchar y accesible.
+- Estructura tipo pop, fácil de escuchar y accesible.
 - Muchas canciones son de medio tiempo y tipo balada.
 - Ritmo moderado, énfasis en la melodía y la voz.
 - Mezcla pulida y claridad de producción.

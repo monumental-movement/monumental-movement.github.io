@@ -35,7 +35,7 @@ Acid Jazz has become popular mainly in the UK, reimagining jazz funk and soul fo
 
 - **Equipment characteristics**
 -Akai MPC60/S1000
--Roland TR-808 / TR-909
+- Roland TR-808 / TR-909
 - Mainly turntable and sampler
 
 <style type="text/css">
@@ -78,7 +78,7 @@ The term "Future Jazz" became established around Germany's Compost Records. The 
 - [Rainer Trüby Trio — *DJ-Kicks* (1998)](https://amzn.to/3KDXnDW)
 
 - **Equipment characteristics**
-- Akai MPC3000
+-Akai MPC3000
 -EMU SP-1200
 -Roland JV-1080
 -Korg MS-20
@@ -120,7 +120,7 @@ West London's Broken Beat scene evolves Future Jazz. A fusion of rhythmic comple
 |---|---|---|---|
 | 1 | Bugge Wesseltoft | Change | Fusion of electro and jazz. |
 | 2 | 4hero | Les Fleur | Orchestral and grand. |
-| 3 | Nicola Conte | Bossa Per Due | A fusion of bossa nova and future jazz. |
+| 3 | Nicola Conte | Bossa Per Due | A fusion of Bossa Nova and Future Jazz. |
 | 4 | Vikter Duplaix | Messages | Neo-soul sound. |
 | 5 | Jazzanova | L.O.V.E. and You & I | A song that represents broken beat. |
 | 6 | Kyoto Jazz Massive | Spirit of the Sun | Important works from Japan. |
@@ -195,7 +195,7 @@ Future Jazz fuses with hip-hop and contemporary jazz and evolves in a crossover 
 
 ## 2020s: Re-evaluation and fusion with AI and modularity
 - **Background**
-In the era of streaming and AI, Future Jazz has been reevaluated and intersected with modular and AI music.
+In the streaming and AI era, Future Jazz has been reevaluated and intersected with modular and AI music.
 
 - **Representative artists/master records**
 - [Alfa Mist — *Bring Backs* (2021)](https://amzn.to/4pNoA7x)

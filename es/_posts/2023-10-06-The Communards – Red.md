@@ -17,7 +17,7 @@ title: Los comuneros – Rojo
 
 "Red" es el álbum debut de The Communards y es ampliamente considerado como uno de sus trabajos más exitosos. El álbum presenta canciones con voces emotivas y ritmos bailables.
 
-El álbum incluye sencillos exitosos como "Don't Leave Me This Way" y "Never Can Say Goodbye". Estas canciones tuvieron éxito comercial debido al sonido distintivo de The Communards y a su popularidad en la pista de baile.
+El álbum incluye sencillos exitosos como "Don't Leave Me This Way" y "Never Can Say Goodbye". Estas canciones tuvieron éxito comercial debido al sonido distintivo de The Communards y su popularidad en la pista de baile.
 
 #### Lista de canciones
 ```md

@@ -23,7 +23,7 @@ En el mundo de la música electrónica y los sintetizadores modulares, los sinte
 
 Al elegir equipos antiguos o modulares, especialmente equipos modulares estilo Buchla, crea un ecosistema sonoro a través de "accidentalidad", "inestabilidad", "manualidad" o "vibraciones eléctricas y resonancia con el cuerpo", en lugar de sólo sonidos sintéticos.
 
-Al entrelazar cuidadosamente voces, instrumentos en vivo, grabaciones de campo, naturaleza y fisicalidad, transforma el modular de una "máquina fría" a un "recipiente viviente de sonido". Las personas que aman los sintetizadores modulares y de estilo Buchla se sentirán fuertemente atraídas por esta actitud.
+Al entrelazar cuidadosamente voces, instrumentos en vivo, grabaciones de campo, naturaleza y fisicalidad, eleva el modular de una "máquina fría" a un "recipiente viviente de sonido". Los amantes de los sintetizadores modulares y de estilo Buchla se sentirán fuertemente atraídos por esta actitud.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/95UvPlhjbE4?si=Kg2SbogrCMF55Cxs" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -60,7 +60,7 @@ Estas experiencias le proporcionaron los ejes de "naturalidad", "espacialidad" y
 
 Al crecer, estudió composición y teoría del sonido en una institución educativa musical en los Estados Unidos y, al mismo tiempo, participó activamente en un dúo folclórico usando guitarra, voz y piano.
 
-Sin embargo, tras dejar los confines de su época de estudiante y regresar a su ciudad natal, se produce un cambio inesperado: se encuentra con una Buchla 100 que le prestó un vecino. Cuando cogió por primera vez un sintetizador modular, no lo vio como una "herramienta endeble" sino como una "coprotagonista", "un ser vivo" y "un cuerpo eléctrico".
+Sin embargo, tras dejar los confines de su época de estudiante y regresar a su ciudad natal, se produce un cambio inesperado: se encuentra con una Buchla 100 que le prestó un vecino. Cuando cogió por primera vez un sintetizador modular, no lo vio como una "herramienta endeble", sino como una "coprotagonista", "un ser vivo" y "un cuerpo eléctrico".
 
 La inestabilidad de Buchla, los parches manuales y los cambios de sonido impredecibles; a través de tal contingencia e inestabilidad, ella elige sacar "sonido vivo", "vibración", "espacio" y "físicalidad" del sintetizador.
 
@@ -74,7 +74,7 @@ Esta transformación es la base de todos sus trabajos posteriores.
 
 Su primer trabajo incluyó temas folk y experimentales de producción propia. Sin embargo, no fue hasta que comenzó a grabar con Buchla Music Easel que comenzó a explorar seriamente la música modular/electrónica.
 
-Esta grabación se publicó posteriormente en forma de Tides: Música para la meditación y el yoga. Campanas de viento, susurros de árboles, cantos de pájaros, sonidos del agua, pequeños ruidos naturales: este trabajo combina sonidos ambientales/grabaciones de campo con formas de onda electrónicas modulares.
+Esta grabación se publicó posteriormente como obra, titulada Tides: Música para la meditación y el yoga. Campanas de viento, susurros de árboles, cantos de pájaros, sonidos del agua, pequeños ruidos naturales: este trabajo combina sonidos ambientales/grabaciones de campo con formas de onda electrónicas modulares.
 
 A estas alturas todavía no ha causado gran sensación. Sin embargo, la dirección de "modular + sonidos naturales/sonidos ambientales + espacialidad" ya estaba clara y el sentimiento subyacente de su música estaba emergiendo.
 
@@ -170,9 +170,9 @@ De esta manera, su sonido no ha evolucionado de manera lineal, sino que ha segui
 
 ---
 
-## Conclusión — Mensaje para quienes aman a Buchla
+## Clausura — Un mensaje para quienes aman a Buchla
 
-El viaje de Kaitlyn Aurelia Smith nunca ha sido un experimento técnico ni una demostración de habilidades. Su objetivo es crear un "mundo de sensaciones" rico y poético que entreteje "el cuerpo, la naturaleza, la electricidad, el tiempo y el espacio" a través del "dispositivo técnico" de un sintetizador modular.
+El viaje de Kaitlyn Aurelia Smith nunca ha sido un experimento técnico ni una demostración de habilidad. Su objetivo es crear un "mundo de sensaciones" rico y poético que entreteje "el cuerpo, la naturaleza, la electricidad, el tiempo y el espacio" a través del "dispositivo técnico" de un sintetizador modular.
 
 Si amas a Buchla y los sintetizadores modulares no sólo como equipo, sino como "recipientes sonoros vivientes", "cuerpos vibrantes" y "una mezcla de azar y necesidad", su trabajo te servirá como guía para tu exploración.
 

@@ -127,12 +127,12 @@ Incursiones en el arte, la música de cine y la instalación. La música ambient
 ## ■ Década de 2010-presente: post-ambiente
 
 ### Antecedentes sociales
-La cultura del streaming se ha consolidado y el hip hop de baja fidelidad y la música de fondo estilo chill se han vuelto explosivamente populares. Directamente conectado con la meditación, el yoga y la atención plena, el ambiente se redefine como "la música de la vida".
+La cultura del streaming se ha establecido y el hip hop de baja fidelidad y la música de fondo estilo chill se han vuelto explosivamente populares. Directamente conectado con la meditación, el yoga y la atención plena, el ambiente se redefine como "la música de la vida".
 
 ### Obra maestra
 - [Tim Hecker “Vírgenes”](https://amzn.to/4nNKwgP) (2013)
 - [Oneohtrix Point Never “Réplica”](https://amzn.to/4nnCpI8) (2011)
-- [Hiroshi Yoshimura “Green”](https://amzn.to/42J5iWN) (1986 → Reeditado y atrajo la atención internacional)
+- [Hiroshi Yoshimura “Green”](https://amzn.to/42J5iWN) (1986 → Reeditado y devuelto la atención internacional)
 
 ### Equipo/Tecnología
 - Sintetizador suave ([Omnisphere](https://amzn.to/3IzuOHh), [Kontakt](https://amzn.to/3Izp93Y))
@@ -221,7 +221,7 @@ color: #fff;
 | [Verano sin fin](https://amzn.to/428hBMi) | Fennesz | 2001 |
 | [Los bucles de desintegración](https://amzn.to/3KjewCV) | William Basinski | 2002 |
 | [Y su refinamiento del declive](https://amzn.to/46DA0Se) | Estrellas de la Tapa | 2007 |
-| Popular | Gas | 2000 |
+| pop | Gas | 2000 |
 | [Armonía en Ultravioleta](https://amzn.to/42a7TJ8) | Tim Hecker | 2006 |
 | [Los sonidos cansados ​​de las estrellas de la tapa](https://amzn.to/4pXRu51) | Estrellas de la Tapa | 2001 |
 | [Venegancia](https://amzn.to/4gFcSaJ) | Eluvio | 2003 |
@@ -296,7 +296,7 @@ color: #fff;
 ## Ambiente y arquitectura/urbanismo
 
 El ambiente tiene el aspecto de "arquitectura acústica".
-- **Aeropuertos (Música para Aeropuertos de Eno)**: Resonancia del espacio arquitectónico y del sonido.
+- **Aeropuertos (Música de Eno para Aeropuertos)**: Resonancia del espacio arquitectónico y el sonido.
 - **Urban Soundscape Studies (R. Murray Schafer)**: Los sonidos ambientales definen la experiencia urbana.
 - En la **arquitectura moderna**, se ha introducido como un "diseño acústico" que va más allá de la música de fondo, contribuyendo al confort psicológico de las ciudades.
 
@@ -334,7 +334,7 @@ El ambiente tiene el aspecto de "arquitectura acústica".
 **otros**
 
 - Yasuhiro Yoshigaki, ACO, CHIhei Hatakeyama, etc.
-- Los "ma" y "wabi-sabi" únicos de Japón crean una textura diferente a la de la música ambiental extranjera.
+- Los "ma" y "wabi-sabi" únicos de Japón forman una textura diferente a la de la música ambiental extranjera.
 
 ---
 
@@ -350,4 +350,4 @@ En el futuro, el ambiente será aún más esencial como "infraestructura ambient
 
 ### Columnas relacionadas
 
-🔗 [[Columna] ¿Qué es la música ambiental? Una filosofía de “sonidos que existen” en lugar de sonidos que se escuchan] (https://monumental-movement.jp/Column-Ambient)
+🔗 [[Columna] ¿Qué es la música ambiental? Una filosofía de “sonidos que existen” en lugar de sonidos que se escuchan](https://monumental-movement.jp/Column-Ambient)

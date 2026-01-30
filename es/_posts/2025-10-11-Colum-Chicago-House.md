@@ -122,7 +122,7 @@ Can You Feel It, de producción casera de Larry Heard, es una anécdota que simb
 
 ---
 
-## Capítulo 6: Relaciones inesperadas
+## Capítulo 6: Relaciones sorprendentes
 
 Chicago House se cruza con campos aparentemente no relacionados.
 

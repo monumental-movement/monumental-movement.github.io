@@ -68,7 +68,7 @@ Etiquetas representativas:
 - **Rising High**: origen del funk de jazz electrónico temprano
 - **Reinforced Records**: uniendo Drum & Bass y Broken Beat
 - **Talkin’ Loud**: Un lanzamiento que enfatiza elementos de soul y jazz.
-- **2000Black**: Actividades como grupo de artistas y formación comunitaria.
+- **2000Black**: Actividades como grupo de artistas y construcción de comunidad.
 
 <div class="mermaid">
 graph TD

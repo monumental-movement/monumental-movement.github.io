@@ -16,7 +16,7 @@ title: Cydonia – Pararrayos / Rey de Nueva York
 
 Cydonia es un proyecto de Goa Trance del Reino Unido de Dino Psaras, Iain Rive y Steve Ronan.
 
-"Lightning Rods / King Of New York" es una pista de Goa Trance lanzada en 1999 por el sello británico Blue Room Released.
+"Lightning Rods / King Of New York" es una canción de Goa Trance lanzada en 1999 por el sello británico Blue Room Released.
 
 A está incluido en su álbum debut ``Cydonia - In Fear Of A Red Planet'' (1999).
 

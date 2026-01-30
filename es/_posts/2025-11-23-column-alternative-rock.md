@@ -118,7 +118,7 @@ Este movimiento conecta con bandas líricas y experimentales como Radiohead y Th
 ¡El ascenso de Tortuga, Mogwai, Godspeed You! Black Emperor y otros traspasaron los límites del rock.
 
 La alternativa ya no es un estilo único;
-**"Un ​​término general para la creatividad que no se recupera mediante el comercialismo"**
+**"Un ​​término general para la creatividad que no se refleja en el comercialismo"**
 Se ha llegado a entender como.
 
 ---
@@ -129,7 +129,7 @@ A principios de la década de 2000, bandas como The Strokes, The White Stripes, 
 
 Al mismo tiempo, bandas como Arcade Fire, Modest Mouse, The National y Franz Ferdinand surgieron en varios lugares, y la música alternativa se superpuso con la definición más amplia de "indie rock".
 
-A finales de la década de 2000, la cultura de los festivales estadounidenses (Coachella, Lollapalooza) se hizo más grande y más artistas independientes adornaron el escenario principal. Ver a bandas que alguna vez fueron clandestinas ocupar un lugar central en los festivales se ha convertido en algo común.
+A finales de la década de 2000, la cultura de los festivales estadounidenses (Coachella, Lollapalooza) se hizo más grande y más artistas independientes adornaron el escenario principal. Ver a bandas que alguna vez fueron clandestinas ocupando un lugar central en los festivales se ha convertido en algo común.
 
 ---
 

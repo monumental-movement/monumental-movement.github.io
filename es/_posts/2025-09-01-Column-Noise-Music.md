@@ -154,4 +154,4 @@ Diversificación a través del renacimiento de los sintetizadores modulares y la
 ---
 
 ## Al final
-La música noise es siempre un desafío a la estética existente y un intento de ampliar los límites de la música. Desde los sonidos mecánicos de Russolo hasta los sintetizadores modulares, incluso después de más de 100 años de historia, su esencia radica en "escuchar el sonido mismo".
+La música noise es siempre un desafío a la estética existente y un intento de ampliar los límites de la música. Desde los sonidos mecánicos de Russolo hasta los sintetizadores modulares, incluso después de más de 100 años de historia, la esencia de todos los instrumentos es "escuchar el sonido mismo".

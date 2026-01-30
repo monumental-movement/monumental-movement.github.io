@@ -71,7 +71,7 @@ Next, **Mr. Len** joined as a DJ, completing the three-piece structure we know t
 # Chapter 2: Company Flow's early activities and indie spirit (1993–1995)
 
 After forming the unit, they had no major aspirations,
-**They released music at their own pace and maintained an attitude of fiercely protecting the autonomy of artists**.
+**We released music at our own pace and maintained an attitude of fiercely protecting the autonomy of artists**.
 
 A symbol of this is the launch of their own indie label **Official Recordings**.
 
@@ -165,7 +165,7 @@ El-P's beat is notable in the following ways compared to traditional boom-bap.
 
 What underpins the entirety of ""Funcrusher Plus" is an aesthetic that emphasizes ""tension" over ""pleasure.''
 
-### ● DJ Mr. Len's Scratch
+### ● DJ Mr. Len's scratch
 
 Sharp scratches are placed throughout the mix, reinforcing the hard feel of the beat.
 
@@ -395,7 +395,7 @@ He presented a perspective that is still relevant even after more than 20 years.
 The legacy of Company Flow is
 It goes beyond the value of mere musical works.
 
-* Possibility of indie
+* Indie possibilities
 * Artist autonomy
 * Significance of politics
 * Underground as aesthetics
@@ -409,6 +409,6 @@ They were ahead of the changing times and left behind insights that are relevant
 
 Company Flow has only been active for a short period of time.
 However, the horizons they opened,
-It continues to be a defining and essential value in the history of hip-hop.
+It continues to be a decisive and essential value in the history of hip-hop.
 
 ---

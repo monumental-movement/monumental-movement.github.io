@@ -13,7 +13,7 @@ title: DJ Rip – House Playerz EP
 ---
 
 
-“House Playerz E.P” es
+"House Playerz E.P" es
 Se trata de un EP de DJ Rip, cuyo nombre real es Xavier Jacome, lanzado en 1998 bajo el sello "Underground Construction".
 
 #### Lista de canciones

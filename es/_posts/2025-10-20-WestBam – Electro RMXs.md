@@ -20,7 +20,7 @@ WestBam (Maximilian Lenz) es un DJ/productor alemán y cofundador del sello Low 
 
 A es un remix del productor estadounidense de Breaks/Breakbeat, DJ Icey.
 
-AA1 es un remix del pionero de Ghettotech, DJ Assault. AA2 es un remix de DJ Godfather de Detroit.
+AA1は、GhettotechのパイオニアDJ Assaultによるremix。AA2は、デトロイト出身のDJ Godfatherによるremix。
 
 #### Lista de canciones
 ```md
