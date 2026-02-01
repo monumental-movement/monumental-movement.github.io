@@ -4,7 +4,7 @@ title:  "Stardust Revue 楽団"
 author: mmr
 categories: [ CD ]
 tags: [ Kayōkyoku, Jazz-Funk, City Pop, 90s ]
-image: ../assets/images/Stardust Revue Gakudan.webp
+image: ../assets/images/Stardust Revue - Gakudan.webp
 ---
 
 
