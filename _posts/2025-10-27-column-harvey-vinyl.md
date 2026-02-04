@@ -269,3 +269,9 @@ DJ Harveyのプレイは、**音→身体→空気→感情→再び音**とい�
 一枚一枚の盤が「記憶と経験の断片」として呼吸している。
 
 ---
+
+### YouTube Podcast
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BrRcFNRq4u8?si=SBd4yIFFwTAlvgcm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

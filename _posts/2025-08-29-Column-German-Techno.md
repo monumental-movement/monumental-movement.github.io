@@ -179,6 +179,14 @@ Kraftwerk に代表される電子音楽の伝統を継承し、工業都市的�
 結論として、German Techno は過去の文化的産物であると同時に、未来のサウンドデザインを切り拓く実験場でもある。
 その歴史を辿りながら作品を聴くことは、都市と人間、機械と感情が交錯する音楽のダイナミズムを理解することに他なりません。
 
+
+---
+
+### YouTube Podcast
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vGhjoN-y5IQ?si=kyE9hG3WPAYoTPS3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ---
 
 ### 関連コラム

@@ -484,6 +484,14 @@ graph LR
 
 ---
 
+
+### YouTube Podcast
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HmQjbJo1pGg?si=Guk39cSV_j7-kSL8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+
 ## 参考文献・資料
 
 - [Paul Tingen, Miles Beyond: The Electric Explorations of Miles Davis, 1967–1991](https://amzn.to/4qwnywM)

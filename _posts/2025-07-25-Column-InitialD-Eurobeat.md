@@ -110,6 +110,13 @@ TikTokやMAD動画などでユーロビートは新たな形で再解釈され�
 
 ---
 
+
+### YouTube Podcast
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eR0-I4Xeo5o?si=TMXZAmOp3klwwJQI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ### 関連コラム
 
 🔗 [【コラム】 頭文字Dと音楽が交差したスピードの記憶](https://monumental-movement.jp/Column-InitialD-Eurobeat2)

@@ -222,3 +222,9 @@ D --> E[2020s オンライン・ストリーミング定番化]
 クリスマスソングは単なる季節音楽ではなく、時代の技術・社会背景・音楽産業の変化を映す文化現象です。旧曲と新曲の共存、各国の特色ある表現、商業戦略の進化は、今後も音楽文化を牽引するでしょう。
 
 ---
+
+### YouTube Podcast
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h7j6dI_pKA8?si=9PsTzYoSoUfSyJu5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

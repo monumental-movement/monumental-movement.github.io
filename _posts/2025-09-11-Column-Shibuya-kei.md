@@ -196,3 +196,11 @@ color: #fff;
 ## 世界的なカルチャーアイコン
 
 渋谷系サウンドは、1990年代に誕生して世界的なカルチャーアイコンとなり、その後も形を変えながら日本の音楽シーンに影響を与え続けています。現在はネット世代を通じて再評価され、シティポップやK-POPとも交差しつつ新たな局面を迎えています。
+
+---
+
+### YouTube Podcast
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IlhT1IOwb9U?si=7ib4PYpqUf0c0aBC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

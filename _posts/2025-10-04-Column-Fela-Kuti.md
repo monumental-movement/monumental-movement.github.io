@@ -208,6 +208,12 @@ Egypt 80を率いて父のスタイルを直接継承。
 
 ---
 
+### YouTube Podcast
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OoyGKEqfyZw?si=A3wzzGbNKrxU-Xfl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ### 参考・出典
 
 - [Britannica: Fela Kuti — biography overview.](https://www.britannica.com/biography/Fela-Kuti)

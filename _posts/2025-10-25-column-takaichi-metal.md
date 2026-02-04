@@ -150,6 +150,14 @@ flowchart LR
     A --> B --> C --> D --> E
 
 </div>
+
+---
+
+
+### YouTube Podcast
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6n3k1OcIKXs?si=1wAxtEv1xDU1tP-2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 ## 参考文献・引用

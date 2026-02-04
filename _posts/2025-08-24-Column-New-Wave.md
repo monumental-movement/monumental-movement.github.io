@@ -126,3 +126,10 @@ NYのTalking Headsは美大出身のDavid Byrneを中心に、ミニマルアー
 
 ニューウェーブとは、音楽とアート、社会批評とファッションが複雑に絡み合った「時代の総合芸術」である。
 
+---
+
+### YouTube Podcast
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OBrPlpQbFiA?si=tDSijaqiav5wtgUx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
