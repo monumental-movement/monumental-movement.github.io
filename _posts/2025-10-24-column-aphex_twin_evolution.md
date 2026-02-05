@@ -193,6 +193,16 @@ Aphex Twinの音楽は、単なる電子音の集積ではない。
 
 ---
 
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VsS7eedYWa8?si=g5ND3g8oV87JYTNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+
 ## 参照資料・推奨ディスコグラフィー
 
 - [Selected Ambient Works 85–92 (1992, R&S)](https://amzn.to/3WmBWds)

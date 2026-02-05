@@ -183,3 +183,14 @@ color: #fff;
 ## 音響実験の精神そのもの
 IDMは「知的に聴くためのダンスミュージック」という枠を超え、**音響実験の精神そのもの**として進化してきた。  
 クラブの外から始まったが、今では再びクラブやポップスにも浸透し、その美学は現代のエレクトロニック・ミュージック全体に散りばめられている。  
+
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlKbA9Cehh4?si=1j50VFSKQk04Nn7c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

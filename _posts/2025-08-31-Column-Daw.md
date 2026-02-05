@@ -163,3 +163,14 @@ DAWは単に「録る・並べる・ミックスする」ツールから、ラ�
 DTM/DAWは単なるツールの集まりではなく、「音楽制作の民主化」を象徴する文化的装置です。テープ編集やハードウェア・シンセの時代から、MIDI・デジタル録音、VSTやプラグインエコシステム、そしてAIやクラウドへと至る流れは、技術が表現の障壁を下げ、誰もが世界に音を届けられる環境を作ってきました。
 
 今後もテクノロジーは進化し続けますが、核となるのは「どんな音を、なぜ作るか」というクリエイターの意図です。技術を道具として使い倒すことで、これからも新たな音楽表現が生まれていくでしょう。
+
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zGr8QOz9Gds?si=7q5fGAYmYO1lLNN2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

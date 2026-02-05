@@ -216,6 +216,15 @@ image: ../assets/images/column-cassette-tape.webp
 
 <hr>
 
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h6WsoClO0FE?si=L3FtaPU36N2_iSLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ### List
 
 <div class="table-border">

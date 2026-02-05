@@ -204,6 +204,14 @@ D --> E[被害軽減・安全確保]
 
 ---
 
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Is-YgTooa5M?si=4t2_rCYDQZA5ezuA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ### 参考文献・資料
 
 - [農林水産省作成リーフレット「クマにご注意下さい」](https://www.maff.go.jp/j/seisan/tyozyu/higai/tyuuikanki/attach/pdf/index-12.pdf)

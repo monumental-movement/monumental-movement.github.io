@@ -148,4 +148,12 @@ image: ../assets/images/column-punk-hardcore.webp
 パンクもハードコアも、単なる音楽ジャンルではない。むしろ、「自分の声を持て」という哲学の発露であり、それを音・身体・集団を通じて表現するメディアだ。
 このふたつの潮流が私たちに問いかけてくるのは、単なる破壊ではなく、「何に抗い、何を創るのか？」という未来への指針かもしれない。
 
+---
 
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DaMyCkV5tyk?si=r9sVuMm3thxSfIJq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

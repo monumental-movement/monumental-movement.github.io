@@ -108,6 +108,15 @@ Leftfieldは、UKエレクトロニカの象徴であると同時に、「音楽
 
 ---
 
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7scq3_vpAgw?si=hy0NK0UAMmNSge5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ### 関連コラム
 
 🔗 [【コラム】 トリップ・ホップ深掘り：Massive Attack / Portishead / DJ Shadow / DJ Krush](https://monumental-movement.jp/Column-Triphop)

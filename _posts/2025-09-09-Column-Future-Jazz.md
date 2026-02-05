@@ -221,3 +221,13 @@ color: #fff;
 Future Jazzは、**ジャズの伝統的即興と電子音楽の革新が交わる場所**として進化を続けてきました。90年代のクラブ文化から始まり、Broken BeatやNu-Jazzを経て、現在はモジュラーやAIも取り入れた多層的表現へと広がっています。  
 
 「未来的なジャズ」という名前にふさわしく、常に時代の先端を走り続けるジャンルです。
+
+---
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BtW4N8sBrSY?si=Yc7my4Dx9xyOLdTD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

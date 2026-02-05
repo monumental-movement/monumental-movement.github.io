@@ -205,3 +205,13 @@ EBMはその名の通り、「エレクトロニックな身体音楽」です�
 そして何よりも——
 その無機質なリズムの中に宿る“熱”が、肉体を突き動かす。
 それこそが、EBMが持つ本質的な魅力なのです。
+
+---
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hylMPb5iS7M?si=35mFJOgSczFpbhYp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

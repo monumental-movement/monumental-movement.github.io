@@ -199,3 +199,14 @@ color: #fff;
 
 # 轟音と美旋律の狭間で揺れる  
 Shoegazeは1980年代後半に芽吹き、1990年代に黄金期を迎え、一度は衰退しつつも2000年代以降リバイバル。2010年代〜現在に至るまで、その音楽性は多様化・細分化しながら世界中で愛され続けています。轟音と美旋律の狭間で揺れるこのジャンルは、現代のデジタル世代にも強い影響を与え続けています。
+
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9jjcA9KJUNM?si=bP5Bi_3AS0jTRBr_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

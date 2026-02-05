@@ -148,3 +148,14 @@ image: ../assets/images/column-noise-music.webp
 
 ## 終わりに
 ノイズ音楽は常に「既存の美学への挑戦」であり、音楽という枠を拡張する試みです。ルッソロの機械音からモジュラーシンセまで、100年以上の歴史を経ても、その本質は「音そのものを聴く」ことにあります。
+
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7RVUbywixfo?si=_AmKa_4dl_qCpxSb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

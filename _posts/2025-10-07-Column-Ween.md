@@ -264,3 +264,13 @@ Boognishが象徴するのは“神”ではなく、“笑う衝動”そのも
 
 Weenは今日も、どこかの海の底で、愉快に笑っている。
 
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F53T6s06MUc?si=6dfE6Ds-w1YpqkYh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
