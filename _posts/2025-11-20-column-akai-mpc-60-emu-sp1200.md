@@ -75,6 +75,10 @@ SP-1200は、サンプラーとしての時間制約を前提に設計され、"
 * 高速サンプリング後のピッチダウン（ローパス的効果を誘発）
 * ループの微調整とタイミングスイングを用いたグルーヴ作成
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6-FLx_gIVCE?si=fHXFlga4-I9RphJZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ### 4.2 Akai MPC60（1988） — 楽器としての到達点
 
 * **発表年**: 1988
@@ -84,6 +88,10 @@ SP-1200は、サンプラーとしての時間制約を前提に設計され、"
 
 **設計思想と特徴**
 Roger Linnの設計協力により、MPC60は"演奏しうるサンプラー"を目指した。大型パッドとグルーブ感重視のシーケンサーにより、即興演奏やライブ制作での使い勝手が大きく向上した。仕様書では、MPC60のシーケンサー精度とパッド検出機構が強調されている。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vnRc56hEMsw?si=65ZvsCS8iGBWfeZW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 ### 4.3 Akai S900 / S950
 
@@ -204,6 +212,15 @@ MPCシリーズは"サンプラー＝演奏する楽器"という概念を広め
 ## 第12章：まとめと展望
 
 12bitサンプラーは、技術的な制約が創意工夫を生み出す好例である。SP-1200やMPC60は、単なるツールの枠を超え、特定時代の音楽表現そのものを形作るに至った。現代の制作環境では意図的に"ローファイ"や"グリット"を再現する手段が多様化しているが、そのルーツを辿ると必ずこれらの機材に行き着く。
+
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Yr86z5Clz8?si=lRR5xNgILcSUnEQ3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
