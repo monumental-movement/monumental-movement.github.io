@@ -101,9 +101,9 @@ Through these methods, Burial's songs reconstructed "memories of the city outsid
 
 James Blake is unique in taking post-dubstep out of the context of club culture and combining it with singer-songwriter expression.
 
-### Acoustic features
+### Acoustic characteristics
 - Extreme minimalism centered around piano and vocals
-- The bass is minimal and smoothly arranged around 50 to 70Hz.
+- The bass is minimal and smoothly arranged around 50-70Hz.
 - The chord progression has a classical harmonic feel.
 - Suppress formant manipulation and blur the boundary between natural sounds and electronic sounds
 - Depending on the depth of compression, "breathing" functions as the rhythm of the song

@@ -328,7 +328,7 @@ graph LR
 ## 10. Conclusion
 
 Squarepusher is an innovative artist who fuses electronic music, jazz, and breakbeats.
-ライブ即興演奏、複雑音響構造、アルバムごとの実験性は現代エレクトロニック音楽の革新指標。
+Live improvisation, complex acoustic structures, and album-to-album experimentation are indicators of innovation in contemporary electronic music.
 The rhythmic structure, waveforms, and fractal illustrations of each song will help you further deepen your understanding of music.
 
 ---

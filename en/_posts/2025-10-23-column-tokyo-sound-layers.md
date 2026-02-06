@@ -108,7 +108,7 @@ A Shibuya-raised truck maker incorporates Akihabara aesthetics, and a Shimokitaz
 ## Chapter 6: Soundscape as urban memory
 
 The sounds of the city disappear.
-だが、それは同時に蓄積でもある。  
+However, it is also an accumulation.
 The reverberations of rhythms left on the walls of old buildings, the floorboards of demolished live music venues, and broken speakers.
 All of them make up the huge sound archive that is Tokyo.
 
@@ -119,7 +119,7 @@ All of them make up the huge sound archive that is Tokyo.
 Where will the next Tokyo sound come from?
 AI-generated music, virtual clubs, and live music on the streets.
 Although the form may change, the structure of ""a city that speaks with sound'' remains the same.
-The nights of Shinjuku, the clubs of Shibuya, and the cyberspace of Akihabara will continue to reverberate into the future as one "Tokyo beat."
+The nights in Shinjuku, the clubs in Shibuya, and the cyberspace in Akihabara will continue to reverberate into the future as one "Tokyo beat."
 
 ---
 
@@ -129,7 +129,7 @@ The nights of Shinjuku, the clubs of Shibuya, and the cyberspace of Akihabara wi
 
 flowchart TD
 
-    A1950["1950s: 新宿にジャズ喫茶文化が誕生"]
+    A1950["1950s: The birth of jazz cafe culture in Shinjuku"]
     A1970["1970s: Fusion of underground theater and rock (Shinjuku LOFT)"]
     A1990["1990s: The rise of Shibuya-kei pops and club culture"]
     A2000["2000s: Vocaloid and remix culture spread from Akihabara"]

@@ -20,7 +20,7 @@ title: '[Column] Nala Sinephro - Sound Breathing and Cosmic Silence: The Current
 Text: mmr｜Theme: Jazz is not about technique or genre expansion, but about the fundamental question of what sound can bring to humans.
 
 When we first come into contact with Nala Sinephro's music, we are forced to let go of the concept of a "song."
-His debut album Space 1.8, released by Warp Records in 2021, was a work that melted the boundaries between jazz and ambient, modular synthesis and improvisation as if it were breathing.
+His debut album Space 1.8, released by Warp Records in 2021, was a work that melted the boundaries between jazz and ambient, modular synthesis and improvisation, as if it were breathing.
 
 Harp, tenor saxophone, modular synthesizer, and space itself.
 Nala's music depicts the moment when the sound itself becomes a "spiritual environment."
@@ -61,7 +61,7 @@ As she says, the sound is layered as "grains" and refracts time like light.
 ## Chapter 2: Structure of "Space 1.8" and transformation of consciousness
 
 The track structure of Space 1.8 is reminiscent of a yoga or meditation session.
-From Space 1 to Space 8 -- all songs are arranged like "breathing phases".
+From Space 1 to Space 8 - all songs are arranged like "breathing phases".
 
 - **Space 1:** "Entrance" where subtle modular sounds open up the space
 - **Space 2:** Harp and saxophone dialogue, inner vibration
@@ -113,7 +113,7 @@ Here, patching itself is an improvisational performance that transforms the list
 > - Ableton Live (for loop processing)
 
 This configuration is truly a "breathing device for humans and machines."
-Waveforms wrap around the harp's echoes, analog temperature neutralizing electronic transparency.
+Waveforms wrap around the harp's echoes, analog temperature neutralizing electronic clarity.
 It is also an act of sublimating music into a **technology prayer**.
 
 ---
@@ -140,7 +140,7 @@ At the same time, it is also a declaration of slowness in response to the speed 
 | 2018 | Join Total Refreshment Center and start improvisational sessions |
 | 2021 | "Space 1.8" released from Warp Records |
 | 2022 | International recognition gained by Gilles Peterson and others |
-| 2024 | Start of new production/modular live project |
+| 2024 | New production/modular live project start |
 
 ---
 
@@ -173,5 +173,13 @@ This is not an extension of technique or genre, but rather a fundamental questio
 
 At the heart of ambient jazz is the hope that ""listening to music" can once again become ""an act of connecting with the world."
 Each note released by Nala's harp is as quiet as the breathing of the universe, but it is certainly alive.
+
+---
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zpRsugYbfFQ?si=kxce0BKZlsXCVGzi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

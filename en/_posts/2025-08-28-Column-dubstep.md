@@ -23,7 +23,7 @@ Text: mmr｜Theme: The birth and cultural influence of dubstep
 
 ### The birth of dubstep - from the basements of South London
 
-Dubstep was born in the underground scene of south London in the late 1990s and early 2000s. It is characterized by an aesthetic that can be described as ""bass supremacy"' while drawing on the trends of UK garage, 2-step, jungle, and drum"n'bass.
+Dubstep was born in the underground scene of south London in the late 1990s and early 2000s. It is characterized by an aesthetic that can be described as ""bass supremacy"', while drawing on the trends of UK garage, 2-step, jungle, and drum"n'bass.
 
 London at the time was a melting pot of immigrant cultures, with deep roots in reggae, dub, and Jamaican sound system culture.
 
@@ -83,7 +83,7 @@ A uniquely Japanese dubstep culture was formed through events held at clubs in S
 
 ### Cultural influence of dubstep
 
-- **Penetration into the EDM scene**: Connected with festival culture and becoming a presence that resonates on the main stage.
+- **Penetration into the EDM scene**: Connected to festival culture and becoming a presence that resonates on the main stage.
 
 - **Re-evaluation of bass music**: Significantly influenced the development of subsequent genres such as trap and future bass.
 

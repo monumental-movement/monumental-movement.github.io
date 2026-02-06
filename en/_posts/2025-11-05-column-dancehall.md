@@ -78,7 +78,7 @@ King Tubby, Lee Perry, Errol Thompson and others used the mixing table like a mu
 
 ### ▪ Speaker bass philosophy
 
-The "bass" of the sound system had a religious sound.
+The "bass" of the sound system had a religious overtone.
 Connected with the Rastafarian spirit, they express their view of the universe as ""low tone = earth" and ""treble tone = heaven".
 This idea was later inherited by **UK dub** (Jah Shaka, Aba Shanti-I) and **soundclash culture**.
 
@@ -89,7 +89,7 @@ This idea was later inherited by **UK dub** (Jah Shaka, Aba Shanti-I) and **soun
 ### ▪ Slackness and slang explosion
 
 In 1985, **Wayne Smith's ""Under Mi Sleng Teng''** changed everything.
-This song, which used Casio MT-40's rhythm presets, is said to be the first completely digital reggae in history, and from then on, ""digital dancehall'' became mainstream.
+This song, which uses Casio MT-40's rhythm presets, is said to be the first completely digital reggae in history, and from then on, ""digital dancehall'' became mainstream.
 
 | Year | Representative song | Artist | Notes |
 |----|--------|---------------|------|
@@ -155,7 +155,7 @@ Main Japanese players:
 ### ▪ DIY spirit and modern inheritance
 
 In recent years, it has intersected with dubstep/techno.
-**Tokyo Dub Attack**, **Zettai-Mu (Osaka)**, **Mura Masa System (Okinawa)** and others are currently active.
+**Tokyo Dub Attack**, **Zettai-Mu (Osaka)**, **Mura Masa System (Okinawa)** are currently active.
 At the root of this is the sound system philosophy of ""producing our own sounds with our own hands.''
 
 ---
@@ -192,7 +192,7 @@ D --> G["Japanese Sound System Culture\n(1990s~)"]
 
 ---
 
-## Conclusion: Where is the bass heading?
+## Conclusion: Where is the bass going?
 
 A sound system is more than just audio equipment.
 It is an infrastructure of self-expression and a symbol of resistance and solidarity.

@@ -12,7 +12,7 @@ title: '[Column] Definition of punk and hardcore: the turning point of anger and
 ---
 
 
-## Definition of punk and hardcore ─ The crossroads of anger and expression
+## Definition of punk and hardcore: the crossroads of anger and expression
 
 Text: mmr｜Theme: Punk/Hardcore
 
@@ -153,4 +153,12 @@ Nowadays, there is a re-evaluation among Generation Z and DIY festivals, and it 
 Punk and hardcore are not just music genres. Rather, it is an expression of the philosophy of ""having your own voice,'' and it is a medium that expresses this through sound, body, and group.
 What these two trends ask us is not just destruction, but perhaps a guideline for the future: ""What should we resist and what should we create?''
 
+---
 
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DaMyCkV5tyk?si=r9sVuMm3thxSfIJq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

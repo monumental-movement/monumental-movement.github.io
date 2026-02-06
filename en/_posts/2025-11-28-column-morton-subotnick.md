@@ -51,7 +51,7 @@ color: #fff;
 
 Morton Subotnick was born in Los Angeles in 1933.
 He received an advanced musical education, learning to play the clarinet from an early age and already performing in a local orchestra as a teenager.
-He later joined the military, and through his performance experience there, he strengthened his professional attitude toward music.
+He later joined the military, and through his performance experience there, he strengthened his professional attitude towards music.
 
 After his retirement, Subotnick developed an interest in "new forms of expression" through collaborations with the Los Angeles Music Center and dancers, and from the late 1950s he turned toward avant-garde music.
 
@@ -81,7 +81,7 @@ The biggest innovation that resulted from Subotnick and Buchla's collaboration w
 
 ## ● The idea of ​​"throw away the keyboard"
 
-Subotnick was looking for a ""sound sculpture'' using control signals that departed from traditional scales and harmony.
+Subotnick は従来の音階や和声から離れた **コントロール信号による“音の彫刻”** を求めていた。
 In response, Buchla didn't include a keyboard, but included a touch controller and a random voltage source.
 
 ## ● Superior tone and control
@@ -123,7 +123,7 @@ In particular, a unique system called ""Ghost Electronics"' processes the perfor
 
 ### ● Basic idea of ​​Ghost Electronics system
 
-* Performer's sound → Send to external processor
+* Performer's sound → send to external processor
 * Modulated by feedback or control voltage
 * Live music and electronic processing become an inseparable unified expression
 

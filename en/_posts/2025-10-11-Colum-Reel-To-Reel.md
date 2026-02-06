@@ -70,7 +70,7 @@ However, it is this "finiteness" that turns sound into a special event.
 
 ---
 
-## Chapter 3 Genealogy of analog revival and next wave
+## Chapter 3 Genealogy and next wave of analog revival
 Over the past 20 years, we have witnessed the ""analog comeback'' many times.
 Records revive the visual ritual** through the "object" of the jacket.
 Cassettes brought back the DIY spirit and **lo-fi freedom**.
@@ -120,7 +120,7 @@ Reel-to-reel is no longer "vintage";
 Listening to reel-to-reel is not like rewinding time.
 Rather, it is an act of reconstructing time.
 As the tape is played, the number of tapes decreases, and the sound continues to play in a finite space.
-Its finite nature encourages listeners to concentrate and immerse themselves.
+Its finite nature encourages listeners to focus and immerse themselves.
 
 Just as the infinite loop of streaming gave rise to "listening while listening,"
 Reel's finite time will help you regain your ability to concentrate on listening.

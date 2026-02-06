@@ -40,7 +40,7 @@ color: #fff;
 
 # Chapter 1 Background of the formation and the situation of the Congolese music scene
 
-By the late 1960s, Congolese music had already formed a competitive live culture in the Grande Quartier. As multiple powerhouse bands such as OK Jazz, African Fiesta, and Zaïko competed with each other, and the sophistication of guitar ensembles and vocal polyphonic parts accelerated, the number of independent labels supporting the success of young musicians was increasing.
+By the late 1960s, Congolese music had already formed a competitive live culture in the Grande Quartier. As powerhouse bands such as OK Jazz, African Fiesta, and Zaïko competed with each other, and the sophistication of guitar ensembles and vocal polyphony accelerated, the number of independent labels supporting the success of young musicians was increasing.
 
 Orchestra Veve was born amidst this musical fluidity brought about by urbanization and media expansion in the post-independence era. In particular, it was a time when several emerging bands emerged due to the combination of Congo's strong dance culture, the expanding influence of broadcasters, and the demand for performances in street corners bars.
 
@@ -152,7 +152,7 @@ graph TD
 
 ### Technical analysis
 
-* **Saxophone presents melody at the beginning → Guitar imitates**
+* **The saxophone presents the melody at the beginning → the guitar imitates**
 * **Vocals are "questions" and choruses are "responses"**
 * **Linear, high-pitched guitar solo**
 
@@ -176,7 +176,7 @@ sequenceDiagram
 
 ## Song C: Nitarudia — Dance-oriented soukous eve
 
-In this song, a faster and more segmented guitar appears as a precursor to the soukousu style. It is said to be the most future-oriented sound of Veve's works.
+In this song, a faster and more fragmented guitar appears as a precursor to the song becoming sokusu. It is said to be the most future-oriented sound of Veve's works.
 
 ### Technical analysis
 
@@ -238,7 +238,7 @@ Although both are from the same era, their directions are very different.
 
 ## Musical distance with OK Jazz
 
-Veran himself is from OK Jazz, so they have the same sense of harmony and depth of melodic processing, but
+Since Veran himself is from OK Jazz, they have the same sense of harmony and depth of melodic processing, but
 Veve is more modern and danceable compared to OK Jazz.
 
 ## Commonalities with Afrisa International

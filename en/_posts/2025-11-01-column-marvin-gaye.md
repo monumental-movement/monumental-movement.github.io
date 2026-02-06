@@ -107,7 +107,7 @@ After the release of this album, Gaye was exhausted both physically and mentally
 
 ### Tax avoidance, escape from Europe, preparation for restart
 In the late 1970s and early 1980s, gay men faced many challenges in the United States, including tax problems, drug use, and creative stagnation. Moving to Belgium and spending more time in Europe took on an ""escapism'' both musically and physically.
-In the midst of all this, he was looking for a comeback and was looking for new sounds and new environments.
+In the midst of all this, he was looking for a comeback, seeking new sounds and new environments.
 
 ### "Midnight Love" (1982)/"Sexual Healing"
 On November 8, 1982, Marvin Gaye released his first album after the transfer, ""Midnight Love,'' making a huge comeback.
@@ -142,8 +142,8 @@ Marvin Gaye was not only a hit maker, but also someone who paved the way for art
 Furthermore, the use of the Roland TR-808 on ""Midnight Love'' also showed new possibilities for the fusion of electronic equipment and soul music.
 
 ### Personal strange fate
-Gay's life is filled with the ""curious" fate of childhood domestic violence, love breakdowns, financial and drug problems, and being shot and killed by his father. This trend goes beyond the framework of a mere ""tragic star" and reveals a human image of a man whose ""talent and suffering'' intertwine.
-Furthermore, when you think about it from a ""what if" perspective, there are many hypotheses that come to mind: what if he had broken off his relationship with his father, what if he had not become completely trapped in the Motown system, what if he had continued to live. They are evidence of a ""strange life" where chance and necessity intertwine.
+Gay's life is filled with the ""curious" fate of childhood domestic violence, love breakdowns, financial and drug problems, and being shot to death by his father. This trend goes beyond the framework of a mere ""tragic star" and reveals a human image of a man whose ""talent and suffering'' intertwine.
+Furthermore, when you think about it from a ""what if" perspective, there are many hypotheses that come to mind: what if he had broken off his relationship with his father, what if he had not been completely trapped in the Motown system, what if he had continued to live. They are evidence of a ""strange life" where chance and necessity intertwine.
 
 ### Re-evaluation and expansion of expression in modern times
 Even after Gaye's death, his music has been remastered, rediscovered, sampled, and continues to influence new generations today. For example, the discovery of unreleased demo sound sources has also been reported.

@@ -13,7 +13,7 @@ title: Tangerine Dream – Thief
 ---
 
 
-Original soundtrack for Michael Mann's first film as a director (original title: Thief), released in 1981 (original title: Thief) (based on the novel by Frank Hochmer). Japanese edition.
+Original soundtrack for Michael Mann's first film as a director (original title: Thief), released in 1981 (original title: Thief) (based on the novel by Frank Hochmer). Japanese version.
 
 Tangerine Dream, who was in charge of the music, is a German electronic music band formed in 1967 by Edgar Froese. Along with CAN, Amon Düül II, Kraftwerk, and NEU!, they are known as one of the leading krautrock bands.
 

@@ -20,7 +20,7 @@ title: '[Column] Complete history of vaporwave culture — label history, acoust
 Text: mmr｜Theme: Vaporwave, a movement that started as a music genre, is a huge cultural sphere surrounding memory, history, media, and social psychology.
 
 
-Vaporwaveとは2010年前後、インターネット文化・金融危機後の情動・アーカイブ化された過去のイメージが交差する地点から生まれた文化現象である。本稿では、レーベル史、美学、音響構造、社会文化論、派生ジャンル、記号論、年表、図版までを総合し、Vaporwaveを「未来喪失の時代に生まれた総合芸術」として捉え直す。
+Vaporwave is a cultural phenomenon that was born around 2010 at the intersection of Internet culture, post-financial crisis emotions, and archived images of the past. This article synthesizes label history, aesthetics, acoustic structure, sociocultural theory, derivative genres, semiotics, chronology, and illustrations, and redefines vaporwave as a ""comprehensive art born in an era of lost future.''
 
 ---
 
@@ -77,7 +77,7 @@ Aesthetics is based on the ""ambivalence of criticism and pleasure," and all sym
 * Future Funk: 110–130 BPM (connected to dance music)
 * Hardvapour: 150–190 BPM (Gaba Hard Techno)
 
-### 3-2 音響構造
+### 3-2 Acoustic structure
 
 Vaporwave sound is based on the principles of "attenuation, elongation, deterioration, and repetition." In particular, pitch shift (-20 to -35%) is synonymous with the genre.
 

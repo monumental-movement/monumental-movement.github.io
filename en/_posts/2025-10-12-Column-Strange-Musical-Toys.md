@@ -141,7 +141,7 @@ A noise experimental piece that makes full use of modified electronic equipment 
 
 ## Ⅵ. Japan's golden age of electronic toys
 
-In the 1970s and 1980s, portable synths and electronic musical toys became popular in Japanese households.
+In the 1970s and 1980s, portable synths and electronic musical instruments became popular in Japanese households.
 
 - Yamaha Portasound Series
 - CASIO VL-TONE

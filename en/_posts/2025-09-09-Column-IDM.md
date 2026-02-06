@@ -190,3 +190,14 @@ Hybrid production that combines modular and software.
 ## The spirit of acoustic experimentation itself
 IDM has gone beyond the framework of ""dance music for intellectual listening'' and has evolved into the very spirit of sonic experimentation.
 Although it started outside clubs, it has now found its way back into club and pop music, and its aesthetic is sprinkled throughout contemporary electronic music.
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlKbA9Cehh4?si=1j50VFSKQk04Nn7c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

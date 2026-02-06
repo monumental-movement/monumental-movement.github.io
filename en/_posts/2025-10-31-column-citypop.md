@@ -60,7 +60,7 @@ From the late 1970s to the 1980s, Japanese society rapidly achieved affluence.
 Home appliances, cars, fashion, and music symbolized the "urban lifestyle."
 Sony's Walkman (1979) ushered in a revolution in ""carrying music with you,'' and City Pop became the ideal soundtrack.
 
-FM stations open one after another, and DJs play the latest hits in English. The chord progression evokes the winds of the American West Coast, and is associated with images of cities such as Tokyo, Yokohama, and Kobe.
+FM stations open one after another, and DJs play the latest hits in English. The chord progression, which evokes the winds of the American West Coast, is linked to images of cities such as Tokyo, Yokohama, and Kobe.
 It can be said that listeners at the time were expressing themselves ""living in the city'' through city pop.
 During this period, Japan's recording technology reached the highest level in the world, and the sound quality of records was extremely high. It was a time when the city really resonated both acoustically and socially.
 
@@ -138,7 +138,7 @@ Herein lies the essence of ""digital nostalgia,'' which goes beyond cultural tra
 ## 9. Influence on contemporary artists
 
 In Japan in the 2020s, a new generation is emerging that has inherited the DNA of city pop.
-That lineage includes not only Suchmos, Lucky Tapes, cero, and Nulbarich, but also young artists like iri, Taichi Mukai, and Vaundy.
+Not only Suchmos, Lucky Tapes, cero, and Nulbarich, but also young artists like iri, Taichi Mukai, and Vaundy are part of that lineage.
 They reconstruct the chords and grooves of the 1980s in a modern way, and depict the ""emotions of living in the city'' in a new language.
 
 Overseas, artists such as Khruangbin, Men I Trust, and Crumb are consciously incorporating "Japanese Aesthetic."

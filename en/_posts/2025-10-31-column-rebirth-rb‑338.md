@@ -116,7 +116,7 @@ In this way, ReBirth brought about changes in the production scene through the t
 
 ---
 
-## Changes in industry/software/ecosystem (ReWire/VST/pluginization)
+## Changes in industry, software, and ecosystems (ReWire, VST, plug-ins)
 The introduction of ReBirth was not just the success of a single software synthesizer, but also prompted a structural change in the music production environment itself.
 
 ### "Modularization" and coordination of production tools
@@ -129,7 +129,7 @@ From the late 1990s to the 2000s, plug-in formats such as VST (Virtual Studio Te
 These industrial changes were also a turning point where music production software was positioned as ""equal to, or even better than, equipment.'' As a result, the software instrument/effects market has expanded and many companies have entered the market.
 
 ### Restructuring of production process/workflow
-More importantly, the production workflow itself has changed. In the past, the main flow was ""gathering the equipment, setting it up, and performing/recording," but after ReBirth, a ""completely performed within the computer" flow has become a reality, ""start up the software → create a pattern → synchronize MIDI and audio → output.''
+More importantly, the production workflow itself has changed. In the past, the main flow was ""gathering the equipment, setting it up, and performing/recording," but after ReBirth, a ""completely performed within the computer" flow has become a reality: ""Start up the software, create a pattern, synchronize MIDI and audio, and output.''
 This change was especially significant in the context of the "home/personal studio." By creating an environment in which space, equipment, and effort can be saved to some extent, the range of creators has expanded.
 
 ---
@@ -152,7 +152,7 @@ On the other hand, several years after the mobile version was released, it was a
 ### "The End" and its reading
 Although the ReBirth software did not continue to expand in its current form, its "death" itself has multiple layers of meaning.
 - One reason is that the trend from equipment to software has reached a certain level of maturity and has moved to the "next stage."
-- In addition, problems with intellectual property, emulation, ownership, and access have become more apparent than expected.
+- In addition, intellectual property, emulation, ownership and access issues have become more apparent than expected.
 - And as personal production/software-centered environments have become commonplace, the theme of "reproducing hardware equipment with software" has begun to be reconsidered.
 Therefore, it is meaningful to view the "end" of ReBirth not as simply the end of the service, but as a "point of change" in the production environment.
 
@@ -167,7 +167,7 @@ By looking back at ReBirth, we can once again remember the idea that "anyone can
 
 ### From "ownership" to "access", from hardware to software
 Before ReBirth, it can be said that the model of production equipment = ownership was strong. Having the equipment was also a status, and it was also the first condition for the production environment. ReBirth has rewritten this into the form of "software purchase" and created a background where "ownership" itself becomes relativized.
-Today, subscription/cloud sharing/rental music tools have become commonplace. The door that ReBirth opened can be seen as a "starting point" in this flow.
+Today, subscription/cloud sharing/rental music tools are commonplace. The door that ReBirth opened can be seen as a "starting point" in this flow.
 
 ### Re-evaluating the "taste/habit" of hardware equipment
 On the other hand, as software advances, things tend to be lost, such as the physical quirks, noise, distortion, and operational feel inherent in hardware equipment. In fact, ReBirth's emulation has been criticized for not being able to fully reproduce the distortions and quirks of the real TB‑303.

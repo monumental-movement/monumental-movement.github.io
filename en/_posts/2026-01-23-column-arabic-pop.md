@@ -24,7 +24,7 @@ Arab pop is a general term for popular music produced in Arabic-speaking countri
 
 This music had long been premised on local consumption, but in the 21st century, as the distribution environment changed, exposure to the global market rapidly expanded.
 
-> The internationalization of Arab pop was accelerated by changes in the distribution structure rather than changes in musical styles.
+> The internationalization of Arab pop was accelerated by changes in the distribution structure rather than changes in musical style.
 
 ---
 

@@ -113,7 +113,7 @@ It was a modern version of an ancient ritual.
 
 Immediately after the fall of the Wall, Berlin was a lawless zone and a testing ground for freedom.
 Clubs like Tresor and Berghain
-It created a new physical community in a city awaiting political and economic restructuring.
+A new physical community was created in a city awaiting political and economic restructuring.
 There, ""dancing'' itself is
 It was a political act of memory and rebirth.
 
@@ -169,7 +169,7 @@ What sociologist Durkheim refers to as "collective effervescence" is
 It is a moment when the energy of the community is simultaneously energized.
 The club's dance floor is a modern recreation of exactly that.
 A place where lonely individuals can connect with others through rhythm.
-It's a more primitive and much more physical empathic device than SNS.
+It's a more primitive and much more physical empathic device than social media.
 
 ---
 

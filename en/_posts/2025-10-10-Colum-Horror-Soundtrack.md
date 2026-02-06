@@ -86,7 +86,7 @@ The design of the **negative acoustic space** shines, as the moment when no soun
 ---
 
 In the mid-2010s, the '80s horror sound made a comeback.
-In ['It Follows' (2014)] (https://amzn.to/4mSiAaF), Disasterpeace visualizes the fear of being chased with cold synth-based arpeggios.
+In ["It Follows" (2014)](https://amzn.to/4mSiAaF), Disasterpeace visualizes the fear of being chased with cold synth-based arpeggios.
 The track became popular in club culture, and served as an opportunity for retro synths to be reevaluated.
 
 [""The Guest"' (2014)](https://amzn.to/3WxUjvS) is a modern reinterpretation of John Carpenter"s electronic suspense.
@@ -165,7 +165,7 @@ Fear is no longer confined to the ears of individuals.
 ### Final chapter: Fear is audible — the cultural significance of modern horror audio
 
 In horror films since 2010, sound has gone beyond mere presentation and has become a medium that questions the very existence of the film.
-Colin Stetson"s bass breath, Disasterpeace"s electronic tension, Bobby Krlic's ritual rhythm...
+Colin Stetson"s bass breath, Disasterpeace"s electronic tension, Bobby Krlic's ritualistic rhythm.
 All of these are acoustic translations of the question, "What is fear?"
 
 The sounds of horror resonate with social anxiety and individual loneliness.

@@ -185,7 +185,7 @@ timeline
 
 ## Conclusion: Where is "cloud rap" headed?
 
-Cloud Rap は単なるジャンルではなく、ネット以降のヒップホップの**制作方法・美学・配信文化**の象徴となった。Vaportrap との融合は、音楽が物理的文脈よりも**オンラインの美学圏**を中心に展開する方向性を示し続けている。
+Cloud Rap is not just a genre, it has become a symbol of post-internet hip-hop production methods, aesthetics, and distribution culture. The fusion with Vaportrap continues to indicate a direction in which music revolves around the online aesthetic sphere rather than the physical context.
 
 In the future, by linking with generation AI, it is expected that the Cloud Rap-like texture will become even more abstract, expanding into a more ambient and "inhuman" sound image.
 

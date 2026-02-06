@@ -17,7 +17,7 @@ title: '[Column] Basic Channel──The origin of Berlin dub techno'
 ## Prologue: From anonymous noise to a silent revolution
 
 
-Text: mmr｜Theme: The "abyss of sound" born from the underground of Berlin in the 1990s—The history of the creation of Basic Channel and Dub Techno
+Text: mmr｜Theme: "Abyss of sound" born from the underground of Berlin in the 1990s - History of the creation of Basic Channel and Dub Techno
 
 
 In 1993, just a few years after the fall of the Berlin Wall.
@@ -221,13 +221,9 @@ And the ripples emanating from Berlin at the end of the 20th century continue to
 
 ---
 
-#### Podcast
+#### YouTube Podcast
 
-<iframe title="Basic Channel: The Origins of Berlin Dub Techno" allowtransparency="true" height="300" width="100%" style="border: none; min-width: min(100%, 430px);height:300px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=i9ehm-19f955e-pb&from=pb6admin&square=1&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&logo_link=episode_page&btn-skin=ff6d00&size=300" loading="lazy" allowfullscreen=""></iframe>
-
----
-
-#### YouTube
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vWQDlU4uskw?si=oyKWaD4B9WwRvvGb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

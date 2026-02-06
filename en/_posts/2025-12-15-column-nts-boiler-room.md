@@ -54,7 +54,7 @@ A feature of NTS is that it does not give any particular genre an advantage in p
 
 Boiler Room started out as a project to stream small indoor DJ events in London. The camera enters the same space as the DJ, and is characterized by a format that includes the presence of the audience.
 
-This format differs from traditional video recording in which a camera is installed behind the DJ booth, and has a structure in which the audience, space, and performers are all in the same frame. As a result, DJ performance has been visualized as an expression that includes "physical and social behavior" rather than an act of "only sound."
+This format differs from traditional video recording, where a camera is placed behind the DJ booth, in that the audience, space, and performers are all in the same frame. As a result, DJ performance has been visualized as an expression that includes "physical and social behavior" rather than an act of "only sound."
 
 ---
 

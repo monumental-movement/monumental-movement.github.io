@@ -69,7 +69,7 @@ A new way to carry movie music with your car audio or portable device.
 
 ■CD (compact disc)
 
-Since the 1980s, it has become popular as a format with high sound quality, long duration, and high flexibility in song order.
+Since the 1980s, it has become popular as a format with high sound quality, long duration, and a high degree of freedom in song order.
 
 It became possible to record full scores, creating a golden age for movie music appreciation.
 
@@ -105,7 +105,7 @@ flowchart TD
   A["🎞 Sound on film (1930s-1960s) Optical recording → magnetic recording. Stereo conversion and improved sound quality"]
   B["💿 Records (1950s-1980s) General distribution of film music. Mainly recording highlights."]
   C["📼 Cassette / 8-track (1970s-1980s) Popularity in home and car playback devices. Portability of movie music."]
-  D["💽CD (from the 1980s) High quality sound and long recording time. Golden era with the advent of specialized labels."]
+  D["💽 CD (from the 1980s) High quality sound and long recording time. Golden era with the advent of specialized labels."]
   E["📀 DVD/Blu-ray (1990s and later) Re-experience the soundtrack with video + 3D sound"]
   F["💻Digital sound source (2000s~) MP3/FLAC, etc. High-resolution distribution and communication by independent artists"]
   G["☁ Subscription (2010s~) The era of listening to movie music. Making playlists and redefining them"]

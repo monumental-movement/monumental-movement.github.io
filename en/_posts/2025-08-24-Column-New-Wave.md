@@ -132,3 +132,12 @@ New wave originated from punk in the 1970s, and was an important movement in mus
 
 New Wave is a ""comprehensive art of the era'' in which music, art, social criticism, and fashion are intricately intertwined.
 
+---
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OBrPlpQbFiA?si=tDSijaqiav5wtgUx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

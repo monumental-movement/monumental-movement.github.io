@@ -28,7 +28,7 @@ title: '[Column] Dego & Kaidi and Sound Signature'
 Text: mmr｜Theme: EUK About the intersection of Broken Beat and global black music
 
 
-In the late 1990s, a new musical movement emerged in the club culture of west London. It is a genre called ""Broken Beat" (also known as ""Bruk"), which differs from traditional 4/4 house or drum and bass, and boldly incorporates complex, bouncing rhythms and elements of jazz, funk, and soul. More than just a style of music, Broken Beat developed from the black community of west London, club culture and underground creative networks.
+In the late 1990s, a new musical movement emerged in the club culture of west London. It is a genre called ""Broken Beat" (also known as ""Bruk"), which differs from traditional 4/4 house or drum and bass, and boldly incorporates complex, bouncing rhythms and elements of jazz, funk, and soul. More than just a style of music, Broken Beat developed from the black communities of west London, club culture and underground creative networks.
 
 <div class="mermaid">
 flowchart TD

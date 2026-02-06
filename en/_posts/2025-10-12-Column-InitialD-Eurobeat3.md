@@ -47,9 +47,9 @@ color: #fff;
 
 ---
 
-## 1. From "pass" to "orbit": the gradation of the musical space traced by Eurobeat
+## 1. From "pass" to "trajectory": the gradation of the musical space traced by Eurobeat
 
-As mentioned in the previous two works, the Eurobeat in Initial D was inseparable from Touge's story.
+As mentioned in the previous two works, the Eurobeat in Initial D was inseparable from Toge's story.
 However, it was not just an aid to the terrain and visual production, but a **device that translated the distortion of time into sound**.
 
 Looking back now, we can say that Eurobeat was a genre that acoustically visualized the ""internal time of a running body.''
@@ -144,7 +144,7 @@ The era of ""your driving becoming the song'' is already beginning to become a r
 
 ### ● Eurobeat revival from SNS
 
-On TikTok and YouTube, the number of posts that combine "Eurobeat x own driving video" has increased explosively.
+On TikTok and YouTube, the number of posts that combine "Eurobeat x your own driving video" has increased explosively.
 These are not just nostalgia, but function as a ""new format for sharing the feeling of driving.''
 It is, so to speak, a ""speed-sharing medium''.
 

@@ -26,12 +26,12 @@ Text: mmr｜Theme: About the artistic milestone of the second half of the 20th c
 
 
 
-In 1982, an unusual feature-length documentary emerged from the American independent film world.
+In 1982, an unusual feature-length documentary emerged from the American independent film scene.
 **Koyaanisqatsi** --Directed by **Godfrey Reggio**, music by **Philip Glass**.
 
 There is no narration or dialogue in this movie.
 What is shown are only images of nature and human society. And what runs through them is Glass's **minimal music**.
-His rhythmic structure and aesthetics of repetition, while resonating with the flow of the images, depict the ""transformation of modern civilization'' in the form of sound.
+His rhythmic structure and aesthetics of repetition, while resonating with the flow of the images, portray the ""transformation of modern civilization'' in the form of sound.
 
 ---
 

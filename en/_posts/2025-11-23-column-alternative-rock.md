@@ -26,7 +26,7 @@ Although the term "alternative rock" became popular in the early 1990s, its orig
 
 In the 1980s, mainstream rock was centered on loud arena-sized hard rock, commercially polished AOR, and pop rock associated with MTV. On the other hand, in regional cities and university towns, a new movement of bands rooted in the DIY spirit and not based on commercial success began to emerge.
 
-In the United States at the time, independent labels such as SST Records, Twin/Tone, and Touch and Go were producing a variety of styles that were not dependent on genre. This was a movement called ""college rock'', a band that inherited the speed and anti-authoritarianism of hardcore punk, but had a freer experimental spirit.
+In the United States at the time, independent labels such as SST Records, Twin/Tone, and Touch and Go were producing a variety of styles that were not dependent on genre. This was a movement known as ""college rock'', a band that inherited the speed and anti-authoritarianism of hardcore punk, but had a freer experimental spirit.
 
 Around the same time, in Britain, the post-punk scene was branching out underground in a complicated way.
 Labels like Factory, 4AD, and Creation all had their own unique aesthetics, releasing a wide range of bands from guitar pop to shoegaze to gothic rock.
@@ -61,7 +61,7 @@ The common feature of this period is that ""ideology preceded music.''
 ・Distance from commercialism
 ・Rising from local cities and university towns
 - Pick up emotions and voices that are not covered by the majors
-この3つは後のオルタナの基礎となった。
+These three became the basis for later Alterna.
 
 ---
 
@@ -69,10 +69,10 @@ The common feature of this period is that ""ideology preceded music.''
 
 Since 1987, US indie music has become more sophisticated, and album production methods have evolved significantly. Pixies released "Surfer Rosa" in 1988, clarifying the dynamic structure of "stillness and movement." This structure was later taken over by Nirvana, leading to the explosion of grunge.
 
-また Dinosaur Jr. はギター・ソロの復権と轟音を融合し、後のオルタナ・ギターの文法を定義した。
+Dinosaur Jr. also brought back the guitar solo and fused it with roaring sounds, defining the grammar of later alternative guitar.
 Fugazi retained the spirit of hardcore, introduced melodies and structural arrangements, and held its own as a DIY icon.
 
-英国でも Stone Roses（1989年）、My Bloody Valentine（1990年）などが登場し、マンチェスター・シーンやシューゲイザーが欧州に新しい潮流をもたらした。
+In the UK, bands such as Stone Roses (1989) and My Bloody Valentine (1990) appeared, and the Manchester scene and shoegaze brought a new trend to Europe.
 
 During this period, the core of what would become "Alternative" was assembled.
 
@@ -80,14 +80,14 @@ During this period, the core of what would become "Alternative" was assembled.
 
 ## **Chapter 3: The grunge explosion and the mainstreaming of alternative (1991–1994)**
 
-1991年──オルタナティヴ・ロックの歴史において象徴的な年である。
-Nirvana の『Nevermind』が全米1位を獲得し、地下にあったシーンが一気に主流へ押し上げられた。
+1991: An iconic year in the history of alternative rock.
+Nirvana's ""Nevermind'' reached number one in the United States, catapulting the underground scene into the mainstream.
 
-グランジの特徴である
-・不安定さを孕んだ歌詞
+characteristic of grunge
+・Lyrics full of instability
 ・Mixture of roar and melody
 ・Punk ethics
-が、商業ロックとは異なる価値観を提示し、MTVが大量に放送することで世界規模のムーブメントとなった。
+However, it presented a different set of values ​​from commercial rock, and became a worldwide movement with mass broadcasts on MTV.
 
 Around the same time, bands from Seattle such as Pearl Jam, Soundgarden, and Alice in Chains achieved success one after another, and became recognized worldwide as "representatives of grunge/alternative."
 
@@ -95,7 +95,7 @@ However, it is not accurate to talk about alternative as a whole in terms of gru
 
 ---
 
-## **第4章：多様化と細分化（1995–1999）**
+## **Chapter 4: Diversification and Fragmentation (1995–1999)**
 
 Since 1995, alternative has changed from being a ""genre" to a ""methodology that crosses genres."
 
@@ -116,9 +116,9 @@ This movement connects to lyrical and experimental bands like Radiohead and The 
 
 The rise of Tortoise, Mogwai, Godspeed You! Black Emperor and others pushed the boundaries of rock.
 
-オルタナはもはや単一のスタイルではなく、
+Alternative is no longer a single style;
 **"A general term for creativity that is not captured by commercialism"**
-として理解されるようになった。
+It has come to be understood as.
 
 ---
 
@@ -136,7 +136,7 @@ In the late 2000s, American festival culture (Coachella, Lollapalooza) became la
 
 Since the 2010s, the genre boundaries of rock have become blurred due to the spread of streaming, and alternative has come to have more diverse meanings.
 
-Tame Impala のサイケデリック路線、Bon Iver のデジタル×フォークの融合、Deerhunter の実験性、さらに女性アーティスト（St. Vincent、Mitski、Phoebe Bridgers）の台頭など、オルタナは「美的態度としてのオルタナ」へ完全に移行した。
+With Tame Impala"s psychedelic route, Bon Iver"s digital/folk fusion, Deerhunter's experimentation, and the rise of female artists (St. Vincent, Mitski, Phoebe Bridgers), alternatism has fully transitioned to "altera as an aesthetic attitude."
 
 Rather than the "anti-commercialism" of the past,
 **"A production attitude that emphasizes independence and experimentation"**
@@ -187,7 +187,7 @@ What started as a small underground movement in the 1980s continues to pervade e
 
 # **Conclusion: The "centerless center" of alternatives**
 
-オルタナティヴ・ロック史とは、
+What is the history of alternative rock?
 **A history of the "rebellion of the periphery against the center" being repeatedly incorporated into the mainstream and changing its appearance each time**
 It is.
 

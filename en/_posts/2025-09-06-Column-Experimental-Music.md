@@ -183,7 +183,7 @@ color: #fff;
 
 
 ## 2000s: Laptops and globalization
-- **Background:** Noise, electronica, and field recording spread internationally. ""Laptop performance'' at live performances has become commonplace.
+- **Background:** Noise, electronica, and field recordings spread internationally. ""Laptop performance'' at live performances has become commonplace.
 - **Equipment:** Ableton Live, SuperCollider, Kontakt, laptop.
 
 ### Masterpiece
@@ -273,3 +273,14 @@ The essence of experimental music is unpredictability and a spirit of exploratio
 
 In the future, even the concept of "music" may change due to the fusion of AI, brain wave interfaces, and VR/AR.
 **Experimental music is a mirror that predicts the future, and will continue to present "new horizons of sound" to both listeners and creators. **
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P2O94rg-Ees?si=ZoOKP9544iDBPyj9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

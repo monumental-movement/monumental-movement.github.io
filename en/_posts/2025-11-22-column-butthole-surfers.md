@@ -413,7 +413,7 @@ flowchart TD
     C --> D["1987–1989: Expansion into Europe and psychedelic period"]
     D --> E["1993: Transition to major period"]
     E --> F["1996: Electriclarryland period"]
-    F --> G["2001: Introduction of electronic sounds"]
+    F --> G["2001: Introduction of electronic sound"]
     G --> H["Afterwards: Continuation of irregular activities"]
 
 ---

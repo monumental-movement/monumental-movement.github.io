@@ -42,17 +42,17 @@ color: #fff;
 
 ### Chapter 1: Solitary Sound Experiments — Charalambides and the Expansion of Southern Consciousness
 
-2000年代初頭、**Charalambides**（クリスティーナ＆トム・カーター夫妻）は、テキサスのノイズ・シーンにおける精神的支柱であった。  
+In the early 2000s, **Charalambides** (Christina and Tom Carter) were a mainstay of the Texas noise scene.
 Their sound wasn't so much noise as it was an experimental ritual that explored the ""junior edge'' of folk and drone.
 
 - Infinitely stretched guitar reverberation
 - Vocal phrase repeated like a prayer
-- テキサスの乾いた空気を通すことでしか成立しない倍音構造  
+- Harmonic structure that can only be achieved by passing through the dry Texas air
 
-> “音楽ではなく、風景そのものを録音しているようだ。”  
+> "It's like recording the scenery itself, not the music."
 > — Thurston Moore (Sonic Youth)
 
-Charalambidesの活動は、**Kranky**や**Wholly Other**レーベルを通じて広がり、のちのテキサス出身ノイズ・アーティストに多大な影響を与える。
+Charalambides' activities spread through the **Kranky** and **Wholly Other** labels, and had a great influence on later Texas noise artists.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1phVgCjUwSo?si=C6sHhwxXloYKbD0E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -63,7 +63,7 @@ Charalambidesの活動は、**Kranky**や**Wholly Other**レーベルを通じ�
 **Black Leather Jesus (BLJ)**, which has been active since the 1990s, is a Houston-based noise group led by **Richard Ramirez**.
 BLJ continued to be active in the 2000s and beyond as the ""extreme of harsh noise"', along with Japan"s Hijikaido, MERZBOW, and America's The Haters.
 
-BLJの特徴は、**ノイズと肉体、同性愛的美学の融合**にある。  
+BLJ is characterized by its fusion of noise, flesh, and homosexual aesthetics.
 Their stages feature restraints, leather, and religious rituals, accompanied by physical explosions of noise.
 It was more than a sonic experiment, it was a body-mediated resistance and celebration.
 
@@ -73,7 +73,7 @@ Offshoot units such as **Werewolf Jerusalem** and **The Rita** also sprang up ar
 
 ---
 
-### 第三章：ドローンから環境音へ — オースティンとアートノイズの接続
+### Chapter 3: From drones to ambient sounds — the connection between Austin and art noise
 
 Austin is the city in Texas where noise has taken on new directions, especially as a hotbed of college culture and DIY art.
 In the late 2000s, artists like **Iron Lung, Pure Ground, and Digital Leather** shifted their focus from harshness to minimalism.

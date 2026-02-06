@@ -44,7 +44,7 @@ color: #fff;
 
 ## Structural assumptions in metal
 
-To understand avant-garde metal, it is first necessary to clarify what is the premise behind regular metal.
+In order to understand avant-garde metal, it is first necessary to clarify what normal metal is based on.
 
 Traditional metal has been formed as a collection of structural assumptions such as the following.
 
@@ -153,7 +153,7 @@ flowchart TD
 
 ## Breathing rhythm
 
-Their rhythm is not a beat, but more like a breath or the length of a story. The tempo is not fixed, and the drums play a role in regulating spatial density rather than being a time keeper.
+Their rhythm is not a beat, but more similar to breathing or the length of a story. The tempo is not fixed, and the drums play a role in regulating spatial density rather than being a time keeper.
 
 ---
 

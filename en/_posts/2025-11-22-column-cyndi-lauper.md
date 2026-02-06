@@ -53,7 +53,7 @@ However, her mother loved the voice very much. This is because even in the midst
 
 # **3. Youth: Rebellious spirit and inclination towards art**
 
-In her adolescence, Cindy turned to the arts and tried anything creative, including painting and writing poetry. I tried to go to art school, but even there I couldn't adapt to the environment where I was obsessed with "rules" and "correct expression."
+In her adolescence, Cindy turned to art, painting, writing poetry, and trying anything creative. I tried to go to art school, but even there I couldn't adapt to the environment where I was obsessed with "rules" and "correct expression."
 
 Cyndi Lauper's life has a consistent theme. It is a strong will that says, ""I want to be myself.'' This will was honed when she was around the age of 20, moving around the crowded streets of New York.
 
@@ -117,7 +117,7 @@ With the rise of MTV, we entered an era in which images influenced music, and Ci
 
 ### **Girls Just Want to Have Fun**
 
-Synonyms for Cindy. It"s a light-hearted anthem praising women"s freedom to enjoy themselves, but it was actually originally written from a male perspective. Cindy changed the lyrics and nuance, and it became a symbol of women's freedom.
+Synonyms for Cindy. It"s a light-hearted anthem praising women"s freedom to enjoy themselves, but it was originally written from a male perspective. Cindy changed the lyrics and nuance, and it became a symbol of women's freedom.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PIb6AZdTr-A?si=tt7rzky2_Q3m9hRl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -134,7 +134,7 @@ It is said that the feelings of a time when a relationship with a lover is not g
 
 ### **She Bop**
 
-It was a very bold song for its time, a pop song about sexuality.
+It was a very daring song for its time, a pop song about sexuality.
 
 ---
 

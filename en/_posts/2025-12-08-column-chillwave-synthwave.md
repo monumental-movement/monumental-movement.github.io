@@ -90,7 +90,7 @@ Main artists:
 - **Kavinsky**
 - "Nightcall" (2010) is said to be a symbolic song.
 
-Synthwave grew as a large independent genre on the internet throughout the 2010s.
+Synthwaveは **2010年代を通してネット上で一つの独立した大規模ジャンル** として成長した。
 
 ---
 

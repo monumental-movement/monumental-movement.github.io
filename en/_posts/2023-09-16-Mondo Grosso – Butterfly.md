@@ -14,7 +14,7 @@ title: Mondo Grosso – Butterfly
 
 "Mondo Grosso – Butterfly" is also supported by many listeners as Shinichi Osawa"s EP.
 
-「Butterfly」はMondo Grossoの音楽スタイルを代表する曲の一つで、エレクトロニック、ハウス、ジャズ、R&Bなど、さまざまな音楽要素を組み合わせた独自のサウンドで知られています。
+"Butterfly" is one of the songs that represents Mondo Grosso's musical style, and is known for its unique sound that combines various musical elements such as electronic, house, jazz, and R&B.
 
 #### Tracklist
 ```md

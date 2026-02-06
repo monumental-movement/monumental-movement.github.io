@@ -222,3 +222,12 @@ Merzbow's "Merzbird" was released in 2004 by the American label Important Record
 > "Noise is not the grave of music, but the rebirth of music."
 
 ---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OHrRAoQRlxw?si=Upnz8v8jY-ZEl3GV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

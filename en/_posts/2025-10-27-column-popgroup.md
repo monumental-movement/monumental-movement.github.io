@@ -111,7 +111,7 @@ After that, each member takes a different path.
 - Mark Stewart: Collaborated with Adrian Sherwood as a solo artist and established **Industrial Dub**.
 - Gareth Sager and Bruce Smith: Formed **Rip Rig + Panic**.
 A young **Neneh Cherry** was also there.
-- Dan Catsis: He remained at the foundation of Bristol music, later becoming involved with Massive Attack.
+- Dan Catsis: He later became involved with Massive Attack and remained a cornerstone of Bristol music.
 
 This divergence gave rise to the diversity of the Bristol sound.
 Trip hop, dub, experimental music, political hip hop...
@@ -122,7 +122,7 @@ The influence of The Pop Group is etched into all of them.
 ## Chapter 5: Reassessment and revival in the 21st century
 
 The Pop Group has long been a cult figure.
-Since the 2000s, it has been reevaluated amidst the post-punk revival trend.
+Since the 2000s, it has been reevaluated amidst the post-punk revival.
 Especially since 2005, following the **Gang of Four and Wire reunions**,
 They also resumed their activities in 2010. In 2015, he released his new work ""Citizen Zombie.''
 

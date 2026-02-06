@@ -153,7 +153,7 @@ There are documentaries about 90's tours such as "Welcome to Portishead".
 Endtroducing.... is set in the Guinness Book of World Records as the ""first album constructed entirely from samples.'' Completed using MPC and turntable.
 
 #### Production technology
-Making full use of breakbeat reconstruction, beat juggling, and time stretching. Treat the turntable as a "collage tool".
+Makes full use of breakbeat reconstruction, beat juggling, and time stretching. Treat the turntable as a "collage tool".
 
 #### Video works
 Appeared in [DJ culture documentary "Scratch" (2001)](https://amzn.to/4pzrtso).

@@ -99,10 +99,10 @@ It also influenced later world-famous artists such as Aphex Twin, Ryuichi Sakamo
 
 ## Chapter 4: Sound Environment - Science and Philosophy of "Listening"
 
-After ""AKIRA," Yamashiro developed the concept of ""environmental studies of sound" in parallel with his artistic activities.
+After ""AKIRA", Yamashiro developed the concept of ""environmental studies of sound" in parallel with his artistic activities.
 He reconsidered sound not just as an auditory stimulus, but as a ""point of contact between information and ecology.''
 
-### ◇ Main works and thoughts
+### ◇ Main works and ideas
 
 | Book title | Publisher/year | Content summary | Link |
 |------|-------------|------------|

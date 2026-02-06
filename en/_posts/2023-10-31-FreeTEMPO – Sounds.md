@@ -17,7 +17,7 @@ FreeTEMPO is a project by Takeshi Hanzawa. Started activities under the name Fre
 
 In 2002, she joined the Italian label IRMA RECORDS and released her first mini album ""Love Affair.''
 
-Since then, they have released numerous albums and singles, and with their melodic songs and sophisticated sound, they have gained many fans in Japan and abroad.
+Since then, they have released numerous albums and singles, gaining many fans in Japan and abroad with their melodic songs and sophisticated sound.
 
 In 2010, he suspended his activities under the name FreeTEMPO, and since then has participated in various music projects.
 

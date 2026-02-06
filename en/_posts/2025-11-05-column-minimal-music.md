@@ -152,7 +152,7 @@ Repeating synths and vocal loops bring a Reichian sense of phase to pop music.
 ### Isao Tomita: Symphony in the electrons
 
 Isao Tomita used a synthesizer to reconstruct classical music in ""electronic repetition.''
-In Moonlight (1974), subtle modulation fluctuations shape the sonic space.
+In "Moonlight" (1974), subtle modulation fluctuations shape the sonic space.
 This sense of "electronic persistence" also applies to later techno-ambient music.
 
 ### Ryoji Ikeda: Minimal data and frequency
@@ -165,7 +165,7 @@ The acoustic space was presented as "digital minimalism".
 
 | Artist | Main works | Features |
 |------|------------|------|
-| Isao Tomita | 《Moonlight》《Planet》 | Electronic classical/acoustic refinement |
+| Isao Tomita | 《Moonlight》《Planet》 | Electronic classical music/acoustic refinement |
 | Ryoji Ikeda | 《dataplex》《test pattern》 | Mathematical/frequency minimalism |
 | Alva Noto + Ryuichi Sakamoto | 《Vrion》《Summvs》 | Fusion of electro acoustics and piano |
 | Rei Harakami | 《Red Curb》《lust》 | Warm repetition of Lo-fi electronics |
@@ -205,3 +205,10 @@ Even now, he continues to "experiment with sound and time."
 ---
 
 
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CQAkF9_1-vg?si=zdouZOhFWeMB7Xev" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

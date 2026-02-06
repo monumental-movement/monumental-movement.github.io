@@ -18,7 +18,7 @@ title: '[Column] Boredoms: The trajectory of the builder of chaos and the expand
 
 ## Prologue: Who were the Boredoms?
 
-Text: mmr｜Theme: Following the evolution of Boredoms, and how their work form, live performances, and derivative units have developed.
+Text: mmr｜Theme: Following the evolution of Boredoms, and how its work form, live performances, and derivative units have developed.
 
 In the history of Japanese music, **Boredoms** occupy a unique position as an entity that cannot be fully explained in any context.
 Formed in Osaka in the late 1980s, they went on to influence musicians around the world, morphing into noise, hardcore, avant-garde, psychedelia, and later rhythm ensembles.

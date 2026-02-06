@@ -94,10 +94,10 @@ color: #fff;
 | When the Sun Hits | Slowdive | A symbol of a beautiful floating feeling |
 | Alison | Slowdive | A fleeting and transparent famous ballad |
 | Vapour Trail | Ride | String instrument arrangement and dream feeling |
-| Leave Them All Behind | Ride | A masterpiece with progressive rock developments |
+| Leave Them All Behind | Ride | プログレ的展開を持つ大作 |
 | De-Luxe | Lush | Light and vivid guitar noise |
-| Desire Lines | Lush | Deep soundscape |
-| Blindfold | Curve | A pioneer that incorporates electro elements |
+| Desire Lines | Lush | 奥行きあるサウンドスケープ |
+| Blindfold | Curve | エレクトロ要素を取り入れた先駆 |
 | Cherry-Coloured Funk | Cocteau Twins | Intersection with Dream Pop |
 | Sometimes | My Bloody Valentine | Songs that get to the heart of shoegaze |
 
@@ -204,3 +204,14 @@ Sometimes | Always | JAMC & Hope Sandoval | The line between noise and pop |
 
 # Swaying between a roaring sound and a beautiful melody
 Shoegaze sprouted in the late 1980s, reached its golden age in the 1990s, and although it once declined, it has been revived since the 2000s. From the 2010s to the present, its musicality has continued to be loved all over the world, even as it has diversified and subdivided. This genre, which oscillates between roaring sounds and beautiful melodies, continues to have a strong influence on today's digital generation.
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9jjcA9KJUNM?si=bP5Bi_3AS0jTRBr_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

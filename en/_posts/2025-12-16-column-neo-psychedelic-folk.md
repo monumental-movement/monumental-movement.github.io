@@ -63,7 +63,7 @@ What is important is that it is not just a restoration, but a reinterpretation i
 
 ### 2-1. Musical structure
 
-Neo-Psychedelic Folk's songs have structural tendencies such as repeating short motifs, diluting the clear A-melody/B-melody structure, ambiguous melodies through collective choruses, and fluctuations in tonality. These are not the simplification of traditional folk, but are established through multilayering through editing.
+Neo-Psychedelic Folk's songs have structural tendencies such as repeating short motifs, diluting the clear A-melody/B-melody structure, blurring the melody with collective choruses, and fluctuations in tonality. These are not the simplification of traditional folk, but are created through multilayering through editing.
 
 ### 2-2. Acoustic processing
 

@@ -10,8 +10,8 @@ tags:
 - Jazz
 - 50s
 - 60s
-title: '[Column] What is Ethio-Jazz? — The trajectory of innovation etched in the
-  history of African music'
+title: '[Column] What is Ethio-Jazz (Ethiopian Jazz)? A trajectory of innovation etched
+  in the history of African music'
 ---
 
 
@@ -44,7 +44,7 @@ color: #fff;
 
 # # 1. The foundation of Ethiopian music: the pentatonic scale (kinet) and unique modal culture
 
-A multi-layered musical culture has existed in Ethiopia since ancient times, including Ethiopian Orthodox Christian chants (Zara), local Azmari minstrel culture, and the urban music of the capital Addis Ababa.
+Ethiopia has had a multi-layered musical culture since ancient times, including Ethiopian Orthodox chants (Zara), the Azmari culture of local bards, and the urban music of the capital Addis Ababa.
 
 Particularly famous is Ethiopia's unique modal system called ""qenet.''
 There are four typical Kinets:

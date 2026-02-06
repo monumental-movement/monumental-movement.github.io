@@ -145,7 +145,7 @@ color: #fff;
 | Work | Artist | Year | Features |
 |------|--------------|----|------|
 | *Promises* | Floating Points, Pharoah Sanders & LSO | 2021 | Jazz x Classical x Ambient |
-| *Lamentations* | William Basinski | 2020 | Collapse Aesthetics in the Digital Age |
+| *Lamentations* | William Basinski | 2020 | Collapsed Aesthetics in the Digital Age |
 | AI Ambient Projects | Various | 2020s | Infinitely generative music |
 | *Everything* | Slow Meadow | 2022 | Meditative Postclassical |
 

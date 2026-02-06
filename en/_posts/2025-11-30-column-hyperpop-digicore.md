@@ -135,7 +135,7 @@ flowchart TD
 
 ## 4-3. 100 gecs structure (overcrowded genre)
 
-* Mix of ska, metal, trap, and EDM in one song
+* A mix of ska, metal, trap, and EDM in one song
 * BPM changes, rapid developments
 
 ---
@@ -165,7 +165,7 @@ flowchart LR
 
 ---
 
-## 5-3. Minimal Trap / DnB impact
+## 5-3. Minimal Trap / DnB Impact
 
 * 808 base is modest
 * Kick is short

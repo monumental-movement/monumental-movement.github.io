@@ -20,7 +20,7 @@ Text: mmr | Theme: Autechre by Sean Booth and Rob Brown. Tracing the evolution o
 Autechre is more than just an electronic music duo.
 Their sound is both mathematical and raw. It looks cold and leaves a somewhat human roughness. Sean Booth and Rob Brown, two young men who met in north Manchester, set out on a path to redefining the very structure of sound, using hip-hop and engineering curiosity as starting points.
 
-In the early 1990s, Autechre stood out in Warp Records' Artificial Intelligence series. They were searching for a way to ""convert mechanical sounds into emotion.'' Sean Booth later said in an interview:
+In the early 1990s, Autechre was a standout among Warp Records' Artificial Intelligence series. They were searching for a way to ""convert mechanical sounds into emotion.'' Sean Booth later said in an interview:
 
 > "Techno for us is not about eliminating emotion, but expressing it through structure."
 
@@ -103,7 +103,7 @@ Autechre's live performances completely exclude visual presentation.
 The lights go out and the stage is dark. The audience will be enveloped in a **space of pure sound**.
 This complete inorganic nature is proof that they aim to "dominate the body with sound alone."
 
-In the 2010s, they released the **AE_LIVE series**. The sounds that the program improvised were recorded as they were, and different structures were presented for each city.
+In the 2010s, they released the **AE_LIVE series**. We recorded the sounds that the program improvised as they were, and presented a different structure for each city.
 Furthermore, "NTS Sessions 1–4" (2018) is a masterpiece that is over 8 hours long. This is a monumental achievement in which Autechre has built a "universe of acoustic algorithms."
 
 > "Improvisation is also about borrowing the thinking of a program."
@@ -206,6 +206,16 @@ The journey to find the answer is far from over.
 
 
 ---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bRHVGBmNKlk?si=NnSAEVjyGe-caGaD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 ### Related columns
 

@@ -135,7 +135,7 @@ The two share the same spirit of inquiry with different methodologies.
 
 ---
 
-### 3.3 Audience as "subject" – between emotion and data
+### 3.3 Audience as "subject" – between emotions and data
 
 In recent neuroscience research, fMRI has been used to measure brain activity while listening to music.
 Efforts are underway to analyze the mechanisms by which pleasure and empathy occur.

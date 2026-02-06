@@ -18,13 +18,13 @@ title: '[Column] Buchla and Serge: Another genealogy of electronic acoustics'
 ## "Introduction — What is modular?"
 
 
-Text: mmr | Theme: The spiritual history of West Coast modular synths. How Don Buchler and Serge Tocheny"s ideas have been carried over into today"s sound design
+Text: mmr | Theme: Spiritual history of West Coast modular synths. How Don Buchler and Serge Tocheny"s ideas have been carried over into today"s sound design
 
 Early 1970s, America's West Coast.
-大学の電子音楽スタジオを離れ、**「音をデザインする装置」**を個人の創造空間へと持ち帰ろうとした人々がいた。  
+There were people who left their university's electronic music studio and tried to take **a device for designing sound** back into their personal creative spaces.
 Their names are **Don Buchla** and **Serge Tcherepnin**.
 
-BuchlaとSergeは、いわゆる「モジュラーシンセの始祖」として語られることが多いが、実際には**商業楽器ではなく、哲学的な道具**を作ろうとした点で異彩を放っている。  
+Buchla and Serge are often talked about as the so-called "progenitors of modular synths," but they actually stand out in that they sought to create philosophical tools rather than commercial instruments.
 Their design philosophy contained an "anti-normative" sonic perspective that is common to today's Eurorack, Max/MSP, and even AI-based generated music.
 
 ---

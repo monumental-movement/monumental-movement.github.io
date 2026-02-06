@@ -102,7 +102,7 @@ From this time on, the name "jungle" gradually changed to "D&B". This means the 
 
 **● Jungle**
 
-The origin of D&B. Features ragga vocals, reggae bass, and rough breaks.
+The origin of D&B.ラガ・ボーカルやレゲエ・ベース、荒削りなブレイクが特徴。
 
 **● Techstep**
 

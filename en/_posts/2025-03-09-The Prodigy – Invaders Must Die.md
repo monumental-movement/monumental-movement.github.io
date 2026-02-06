@@ -45,5 +45,5 @@ DVD-4. Warrior's Dance (Live)
 
 [Purchase on Mercari](https://jp.mercari.com/item/m51872530996?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4_Yxs0LYP1E?si=JWJmw6IaD-XTXe8-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

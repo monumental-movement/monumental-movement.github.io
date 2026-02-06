@@ -132,7 +132,7 @@ Mark Stewart's participation strengthened the agitation.
 
 ## ■ "Foundation Steppers" (1983)
 
-It's the most "reggae-like" song as NAS, and the sense of stable groove increases.
+It's the most "reggae-like" song of NAS, with a more stable sense of groove.
 This work also has strong socio-political themes.
 
 ## ■ "Love Forever" (2012)

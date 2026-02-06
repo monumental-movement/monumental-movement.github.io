@@ -44,7 +44,7 @@ Footwork/Juke was born in Chicago's ghetto communities in the late 1980s and ear
 
 - **Late 1980s**: As Chicago House flourishes, a more aggressive house sound known as "Ghetto House" develops at area clubs and parties.
 - **Early 1990s**: A culture of short breakbeats, repeated samples, and fast-moving dance steps known as Juke was established.
-- **Late 1990s**: The name Footwork appears. A culture in which dance and music are closely connected begins to spread.
+- **Late 1990s**: The name Footwork appears. A culture in which dance and music are closely linked begins to spread.
 
 <div class="mermaid">
 flowchart TD
@@ -140,7 +140,7 @@ The connection with Ghetto House, the prototype of early Footwork, is clear.
 ---
 
 - **DJ Spinn – "At All"**
-Creative use of samples and the close connection between dance and music.
+Creative sample use, close connection between dance and music.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wg2qYnayYao?si=LwzenQVVy_QPQ9uY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

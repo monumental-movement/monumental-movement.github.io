@@ -65,7 +65,7 @@ In particular, the following trends were the premise for the creation of Tech Ho
 * Minimalism of UK Techno (Surgeon, Regis, Dave Clarke, etc.)
 * A British take on the groove of US House (Chicago/NY)
 * Mix of Tribal House, Garage, and Progressive House
-* Cross-genre DJ styles from Pirate Radio and the London club scene (The End, etc.)
+* Genre-crossing DJ styles from Pirate Radio and the London club scene (The End, etc.)
 
 The people who gathered at the club weren't just looking for either techno or house, but were enjoying long DJ plays that mixed elements of both. Through this process, he developed a sense of mixing that naturally combines the "hardness of techno" and the "warmth of house."
 
@@ -168,7 +168,7 @@ At this time, Tech House was characterized by being ""softer than minimal", ""da
 
 In the 2010s, Tech House became one of the most frequently played 4/4 in clubs and festivals around the world. The increase in demand was particularly large in Ibiza.
 
-Examples of featured artists:
+Examples of notable artists:
 
 *Jamie Jones (Hot Creations)
 *Lee Foss

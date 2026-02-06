@@ -100,7 +100,7 @@ One of the central players is **Current 93 (led by David Tibet)**.
 He has defined the current characteristics of Experimental Folk: ""experimental music x acoustic x poetic recitation.''
 
 ## Intersection with Neofolk
-Neofolk (Death in June, Sol Invictus, etc.) are often politically controversial, but sonically
+Neofolk (Death in June, Sol Invictus, etc.) is often politically controversial, but sonically
 **Minimal arrangement x folk guitar x drone x solemn poetry**
 These elements are connected to Psych Folk's experimental orientation.
 

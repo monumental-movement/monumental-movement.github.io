@@ -115,7 +115,7 @@ Henry Rollins joins Black Flag after S.O.A disbands. There, he acquired a more s
 
 S.O.A itself is rarely talked about as a representative of New York hardcore. However, as a record of that ""nobody phase,'' it provides important clues for understanding what subsequent bands inherited and what they discarded.
 
-> S.O.A functioned as a turning point rather than an end point.
+> S.O.A functioned as a turning point, not an end point.
 
 ---
 

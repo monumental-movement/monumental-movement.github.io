@@ -104,7 +104,7 @@ The sound staff used analog tape echoes to transform the entire hall into a sea 
 
 flowchart TD
     A1967["1967: The start of the Tropicália movement"]
-    A1968a["1968: Release of the album 'Tropicália: ou Panis et Circencis'"]
+    A1968a["1968：アルバム『Tropicália: ou Panis et Circencis』発表"]
     A1968b["1968: Os Mutantes Debut"]
     A1969["1969: Veloso and Jill in exile in London"]
     A1972["1972: 'Expresso 2222' announced"]

@@ -123,7 +123,7 @@ In particular, the **rising brass synth sound** heard in the intro of ""Dance Ra
 ## Chapter Seven: Legacy of Vijaya Anand
 
 Vijaya Anand has composed scores for many films since the 1990s, but few have been as innovative as Dance Raja Dance.
-However, his music gave younger music directors the perspective of ""film as a testing ground for popular music.''
+However, his music gave younger music directors the perspective of ""movies as a testing ground for popular music.''
 
 A.R. Rehman's early works Roja (1992) and the foundations of urban soundtracks such as Gentleman (1993) are clearly an extension of the experiments of Vijaya Anand and Bappi Lahiri.
 

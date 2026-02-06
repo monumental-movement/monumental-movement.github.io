@@ -18,7 +18,7 @@ title: '[Column] The complete history of Electroacoustic Improvisation'
 
 Text: mmr｜Theme: About Christian Fennesz, Rafael Toral, AMM, Sachiko M, Otomo Yoshihide
 
-Electroacoustic Improvisation（以下、EAI）は、1990年代末〜2000年代初頭にかけて、ヨーロッパと日本を中心に形成された**電子音響と即興演奏を融合させた音楽的潮流**である。  
+Electroacoustic Improvisation (EAI) is a musical trend that combines electronic acoustics and improvisation, which formed mainly in Europe and Japan from the late 1990s to the early 2000s.
 Improvisational music, electroacoustic music, noise, field recording, modular synths, and digital samplers intersect, establishing a unique practice system that differs from traditional jazz-oriented free improvisation and acoustic school.
 
 ---
@@ -38,7 +38,7 @@ color: #fff;
 
 
 ## 1. What is EAI?
-EAI は「Electroacoustic Improvisation」の略称で、**電子音響の処理・加工技術を用いた即興演奏**を指す言葉として2000年前後から国際的に用いられるようになった。  
+EAI is an abbreviation for "Electroacoustic Improvisation," and it began to be used internationally around the year 2000 to refer to **improvisation using electroacoustic processing and processing technology**.
 Although there is no clear unified definition, the following are common points:
 
 - Improvisationally operate electronic equipment (modulars, laptops, effectors, samplers)
@@ -81,10 +81,10 @@ This means the **democratization of real-time sound processing** and will decisi
 ---
 
 # 3-1. **Christian Fennesz**
-Originally from Austria.ギターを音源に使いながら、ノートPCで加工し、メロディとノイズの境界を緩やかに横断するスタイルで知られる。
+Originally from Austria. He is known for his style, which uses a guitar as a sound source and processes it on a laptop, gently crossing the line between melody and noise.
 His masterpiece "Endless Summer" (2001) was highly praised as an example of the fusion of electronic and guitar sounds.
 
-EAI的観点で重要なのは、以下の点である：
+From an EAI perspective, the following points are important:
 
 - Treat raw guitar sound and processed sound on the same plane
 - Introduce glitch noise to improvise
@@ -128,9 +128,9 @@ Particular emphasis was placed on ""white space" and ""the treatment of silence,
 
 # 3-4. AMM (UK)
 AMM, which has been active since the 1960s, is one of the oldest groups to incorporate electronic equipment into their performances.
-Keith Rowe の「水平置きギター」は、後のEAIにおけるラジオノイズや接触マイク利用の原型となった。
+Keith Rowe"s ""horizontal guitar'' became the prototype for later EAI"s use of radio noise and contact microphones.
 
-EAIはAMMの美学—「演奏の社会性」「静寂の利用」「音の偶発性の尊重」—を継承している。
+EAI inherits AMM's aesthetics: ""the social nature of performance," ""the use of silence," and ""respect for the contingency of sound.''
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u-T8rmnHtbg?si=Lg5jvSyXo2LDfG8h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -139,7 +139,7 @@ EAIはAMMの美学—「演奏の社会性」「静寂の利用」「音の偶�
 # 4. Systematic analysis of equipment and techniques used
 
 ## 4-1. Equipment: Modular synth
-EAIにおけるモジュラーは、
+Modular in EAI is
 
 - Unpredictable signal changes
 - Non-tempo/non-chord operation
@@ -148,12 +148,12 @@ EAIにおけるモジュラーは、
 It has characteristics suitable for improvisation.
 
 ## 4-2. Sampler
-EAIではサンプラーを音源としてではなく、**信号発生器／回路装置**として扱うことが多い。  
-Sachiko M の例はその代表で、内部テストトーンのみを使用した。
+In EAI, samplers are often treated as **signal generators/circuit devices** rather than as sound sources.
+The Sachiko M example is a typical example, in which only the internal test tone was used.
 
 ## 4-3. Laptop
 Real-time processing using Max/MSP and Pure Data is typified by Fennesz's style.
-ラップトップはセンサーではなく、**加工そのものが演奏行為**となる点が重要である。
+It is important to note that the laptop is not a sensor; the processing itself is an act of performance.
 
 ## 4-4. Effector / Physical Noise
 Techniques that utilize signals beyond musical intent, such as contact microphones, mixer feedback, and power supply noise, are also common.
@@ -226,6 +226,6 @@ Since EAI remains a "practice" rather than a "genre," its form will continue to 
 
 # Conclusion
 
-Electroacoustic Improvisation は、電子技術・音響科学・自由即興・ノイズ文化など多様な領域が交わる稀有な実践体系であり、Christian Fennesz や Rafael Toral の活動はその中心的な位置を占めている。  
+Electroacoustic Improvisation is a rare system of practice where diverse fields such as electronic technology, acoustic science, free improvisation, and noise culture intersect, and the activities of Christian Fennesz and Rafael Toral occupy a central position.
 
 ---

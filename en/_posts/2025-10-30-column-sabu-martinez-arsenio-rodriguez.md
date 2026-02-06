@@ -110,7 +110,7 @@ His sound is connected to later Afro-spiritual jazz (Pharoah Sanders, Alice Colt
 
 When Arsenio moved to the United States in 1950 and started working in Harlem,
 Sabu had been doing sessions in the same city.
-Although their point of contact is not direct co-starring,
+Although their point of contact is not a direct collaboration,
 They were deeply intersected within the **Bronx-Harlem Afro-diaspora culture**.
 
 | Era | Arsenio Rodríguez | Sabu Martinez |

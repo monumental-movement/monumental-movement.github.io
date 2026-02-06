@@ -15,7 +15,7 @@ title: Rebecca – Time
 ---
 
 
-"Time" is Rebecca"s fifth album, released in 1986 on the label FITZBEAT. The catchphrases for this album are ""It"s not about logic..." and ""Boredom and cramps are all thrown into the trash can."
+"Time" is Rebecca"s fifth album, released in 1986 on the FITZBEAT label. The catchphrases for this album are ""It"s not about logic..." and ""Boredom and cramps are all thrown into the trash can."
 
 Contains the hit songs "LONELY BUTTERFLY" and "CHEAP HIPPIES".
 

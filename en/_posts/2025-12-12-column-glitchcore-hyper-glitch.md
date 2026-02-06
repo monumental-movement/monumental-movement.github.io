@@ -46,7 +46,7 @@ color: #fff;
 
 The idea of ​​glitch itself goes back to the aesthetics presented by electronica in the late 1990s (Oval, Alva Noto, Ryoji Ikeda, etc.). He treated CD reading errors and digital signal malfunctions as musical materials, and actively cited the ""aesthetics of failure.''
 
-Glitch music from this era was more experimental, with an emphasis on texture, space, and structure rather than rhythm. On the other hand, later Glitchcore differs decisively in that it is strongly connected to popular pop and Internet culture.
+Glitch music from this era was more experimental, with an emphasis on texture, space, and structure rather than rhythm. On the other hand, the later Glitchcore was definitely different in that it was strongly connected to popular pop and Internet culture.
 
 ---
 
@@ -75,7 +75,7 @@ Glitchcore's BPM is not fixed and often fluctuates over a wide range of 100-180 
 **Characteristic elements:**
 
 * Extreme tempo changes
-* Editing that suddenly transitions to another song in the middle of the song
+* Editing that suddenly transitions to a different song in the middle of a song
 * Short hooks and fragmented melodies
 *Focus on strong 15-30 second hooks for TikTok
 
@@ -183,7 +183,7 @@ Example method:
 
 ---
 
-### 4-2 Aesthetics as "overloaded mix"
+### 4-2 Aesthetics as an "overloaded mix"
 
 In Hyper-Glitch's case, mixes are not about ""setting up," but about ""building while destroying."
 
@@ -267,7 +267,7 @@ Another major feature is that anime-style expressions, Vocaloid culture, Interne
 
 ### 7-3 SoundCloud personality
 
-osquinn and glaive brought emo chord progressions, guitar touches, and airy vocals to Glitchcore. This represents a more introverted, melodic direction to the "edgy" nature of Hyperpop.
+osquinn and glaive brought emo chord progressions, guitar touches, and light vocals to Glitchcore. This represents a more introverted, melodic direction to the "edgy" nature of Hyperpop.
 
 ---
 

@@ -64,7 +64,7 @@ This structure was a perfect match for the parapara dance, which repeats the sam
 
 - Clear A melody/chorus structure → Easy to create dance "choreography"
 
-- Dramatic song development → Matches the climax of the swing
+- Dramatic song development → matches the climax of the swing
 
 
 <hr>
@@ -79,7 +79,7 @@ This structure was a perfect match for the parapara dance, which repeats the sam
 
 - Choreography explanations will be published on jackets and booklets.
 
-● Signed with a Eurobeat exclusive label
+● Signed with a dedicated Eurobeat label
 
 Italian labels such as Time, A-Beat C, and Delta have signed exclusive contracts with avex to produce music specifically for the Japanese market.
 
@@ -133,8 +133,18 @@ It was a perfect example of the phenomenon of ""music becoming culture through t
 
 ---
 
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FursnFFzEgM?si=ShzerdYquUp1po3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ### Related columns
 
 [[Column] Cultural relationship between Initial D and Eurobeat](https://monumental-movement.jp/Column-InitialD-Eurobeat)
 
 [[Column] Memories of speed where Initial D and music intersect](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
+

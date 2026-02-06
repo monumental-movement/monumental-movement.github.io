@@ -18,7 +18,7 @@ title: '[Column] Slowcore/Sadcore: A musical history of silence and deep emotion
 
 ## Red House Painters / Reconsidering the "gravity created by a small number of sounds" centered on Low
 
-文：mmr｜テーマ：音楽的特徴、録音手法、機材、映像との親和性、90年代から現代までの変遷について
+Text: mmr｜Theme: Musical characteristics, recording methods, equipment, compatibility with video, and changes from the 1990s to the present day
 
 Slowcore/Sadcore is a trend of ""extremely slowed down alternative rock'' that was formed mainly in America in the 1990s. It is the opposite of grunge/alternative, which uses intensity and distortion as its energy source, and is characterized by a minimal, tranquil, introspective, and submerged sound.
 
@@ -41,7 +41,7 @@ color: #fff;
 
 
 # 1. Definition of Slowcore / Sadcore
-Slowcore という語は 1990年代前半以降にメディアや批評家によって使用され、明確な"発案者"は存在しない。 Sadcore is no different, and artists themselves often reject this label.
+The term slowcore has been used by media and critics since the early 1990s, and there is no clear originator. Sadcore is no different, and artists themselves often reject this label.
 
 However, the common characteristics are as follows.
 
@@ -61,7 +61,7 @@ This sound has a structure that conversely brings out emotions through ""quietne
 ## ■ The "stillness" part of Dream Pop / Shoegaze
 In the late 1980s, **Galaxie 500** are considered to be the forerunners of slowcore, with their laid-back tempos, dreamy guitars, and emotionless vocals.
 
-## ■ Grunge の対極としての静謐さ
+## ■ Tranquility as the opposite of Grunge
 In 1991, during the alternative explosion symbolized by Nirvana"s ""Nevermind," the attitude of ""don"t dare to turn up the volume" emerged as a paradoxical alternative.
 
 ## ■ Midwestern American indie aesthetics

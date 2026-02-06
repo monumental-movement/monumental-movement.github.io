@@ -51,11 +51,11 @@ During this period, his relationship with musical instruments in his life went b
 ### 3. Traditional musical instruments called tambak and duff - their meaning and background
 
 His main instrument, the tombak, is a traditional percussion instrument that forms the core of Persian music. It has a goblet-shaped body and is made by tapping the leather surface with the hands or fingers, giving it an extremely rich tone and expressive power.
-Through a variety of playing techniques, the tamback has a history of establishing its status not only as an accompaniment instrument but also as a solo instrument.
+Through a variety of playing techniques, the tambak has a history of establishing itself not only as an accompaniment instrument but also as a solo instrument.
 
 The **Daf** is a large frame drum, sometimes with metal rings or bells, and is a traditional musical instrument that also has celebratory and ceremonial uses. Mortazavi not only performs with tambacks, but also with duffs, and has developed solo and collaborative performances that take advantage of the characteristics of each.
 
-The reason behind his selection of these traditional instruments is not just a return to folk instruments, but a strong will to deeply explore the essence of musical instruments and derive unknown expressions from there.
+The reason behind his selection of these traditional instruments is not just a return to folk instruments, but a strong will to deeply explore the essence of instruments and derive unknown expressions from there.
 
 ---
 
@@ -164,7 +164,7 @@ Playing Mortazavi live is a very physical and spiritual experience. Every time h
 
 His playing mixes meditative, repetitive structures with fast, complex change patterns that often cause listeners to lose track of time. At the moment when the tempo slows down, the sound continues with reverberation, and these durations gradually overlap, creating resonance within the body. Conversely, when the rhythm suddenly accelerates, the audience's concentration peaks, leading them into a kind of trance-like state.
 
-A live experience like this is not just something you hear with your ears, but an experience that you can "feel" with your body. Mortazavi creates resonance with the audience as he performs, making them share a ""common pulse'' at each moment. The process has a ritual-like aspect that connects the instrument and the person, the performer and the audience.
+A live experience like this is not just something you hear with your ears, but an experience that you ""feel" with your body. Mortazavi creates resonance with the audience as he performs, making them share a ""common pulse" at each moment. The process has a ritual-like aspect that connects the instrument and the person, the performer and the audience.
 
 ---
 
@@ -172,7 +172,7 @@ A live experience like this is not just something you hear with your ears, but a
 
 Mortazavi has received international recognition for his skill, artistry, and innovation. In 2003, he won the **RUTH Newcomer Award**. He has also received a lot of interest from the media, and his style and philosophy have been featured in various outlets such as Germany's Deutschlandfunk, Pitchfork, Hardwax, and Boomkat.
 
-In particular, Pitchfork drew attention to the flexibility of human pulses and the improvisational nature of the rhythms he played, and described it as ""music that embodies humanity and the plasticity of time.'' Hardwax and others have praised the sonic precision and spiritual depth of his more than 30 new techniques.
+In particular, Pitchfork drew attention to the flexibility of human pulses and the improvisational nature of the rhythms he played, and described it as ""music that embodies humanity and the plasticity of time.'' Hardwax and others have praised the sonic sophistication and spiritual depth created by his more than 30 new techniques.
 
 Also, their physicality and spirituality are often emphasized in live reviews. Drummerszone and others have described in detail the striking points, hand parts, and resonance operations he uses, noting that his hands appear as if they were playing a "sound system."
 
@@ -235,7 +235,7 @@ Mohammad Reza Mortazavi's journey is a journey that redefines tradition, expands
 
 He doesn't just preserve the classic instrument, the tamback, but transforms it for the future. In the process of transformation, music, body, community, and consciousness intersect, and new horizons open up.
 
-The path he will take from now on is clear. Further technical exploration, new collaborations, and expansion into unknown sound spaces. However, what is more important than that is that he continues to be someone who constantly asks, ""What is rhythm?''
+The path he will take from now on is clear. Further technological exploration, new collaborations, and expansion into unknown sound spaces. However, what is more important than that is that he continues to be someone who constantly asks, ""What is rhythm?''
 
 Listening to his music is not just surrendering to the rhythm, but a journey to find the resonance between your own inner heartbeat and the world's heartbeat. Mortazavi is the guide, the map, and the destination of that journey.
 
