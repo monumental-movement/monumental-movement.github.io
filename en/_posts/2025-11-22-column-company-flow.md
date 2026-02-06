@@ -395,7 +395,7 @@ He presented a perspective that is still relevant even after more than 20 years.
 The legacy of Company Flow is
 It goes beyond the value of mere musical works.
 
-* Indie possibilities
+* Possibility of indie
 * Artist autonomy
 * Significance of politics
 * Underground as aesthetics
@@ -409,6 +409,6 @@ They were ahead of the changing times and left behind insights that are relevant
 
 Company Flow has only been active for a short period of time.
 However, the horizons they opened,
-It continues to be a decisive and essential value in the history of hip-hop.
+It continues to be a defining and essential value in the history of hip-hop.
 
 ---

@@ -49,7 +49,7 @@ There are two main parameters in the process (sampling) of dividing analog signa
 
 * **Quantization noise** tends to become apparent, especially for small signals.
 * **Midrange presence** (midrange emphasis) is relatively noticeable.
-* Aliasing and coloring that occur during pitch shifting and sample rate conversion create a distinctive "grit".
+* Aliasing and coloring that occur during pitch shifting and sample rate conversion create a unique "grit".
 
 ### 2.3 Hardware factors
 
@@ -167,7 +167,7 @@ Low-resolution samples are effective for creating textures and were widely used 
 
 ## Chapter 8: Key artists and usage examples
 
-> Below are excerpts of usage examples based on factual information such as public interviews, credits, technical articles, and official documents.
+> Below are excerpts of usage examples based on factual information such as public interviews, credits, technical articles, and official documentation.
 
 <div class="mermaid">
 
@@ -420,7 +420,7 @@ flowchart TD
 <div class="mermaid">
     
 graph LR
-    A["12bit 4096 stages"] --> C["coarse step"]
+    A["12bit 4096 steps"] --> C["coarse step"]
     B["16bit 65536 stages"] --> D["Smooth step"]
 
 </div> 

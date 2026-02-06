@@ -92,7 +92,7 @@ color: #fff;
 -Snap!
 -Culture Beat
 -Real McCoy
--U96
+- U96
 -Scooter
 
 **Cultural background**

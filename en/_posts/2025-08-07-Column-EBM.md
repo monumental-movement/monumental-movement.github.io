@@ -204,10 +204,20 @@ These artists are influenced by EBM, but combine it with elements such as coldwa
 <hr>
 
 ### Aesthetics that fuses physical body and electronics
-As the name suggests, EBM is "electronic body music." It was more than just dance music, it was a total form of expression: political, mechanical, physical, and rebellious.
+As the name suggests, EBM is "electronic body music." It was more than just dance music, it was a total form of expression that was political, mechanical, physical, and rebellious.
 
 Currently, the influence of EBM is spreading across many fields, from club culture and festivals to the DIY scene, art, and fashion.
 
 And above all——
 The "heat" that resides in that inorganic rhythm moves the body.
 That is the essential appeal of EBM.
+
+---
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hylMPb5iS7M?si=35mFJOgSczFpbhYp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

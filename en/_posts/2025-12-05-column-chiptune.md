@@ -40,7 +40,7 @@ color: #fff;
 </style>
 
 
-## Chapter 1: Origin of 8-bit - Famicom and Game Boy sound source chip
+## Chapter 1: The origins of 8-bit - Famicom and Game Boy sound source chips
 
 ### 1-1. "Ricoh 2A03" that determined the sound of Famicom/NES
 
@@ -249,7 +249,7 @@ It is considered not just a musical genre, but a comprehensive form of expressio
 ## Chapter 10: The future of Chiptune and the future of 8-bit aesthetics
 
 8-bit music is no longer a symbol of retro;
-**An entity that gives new ideas to the modern era as a "cluster of constrained aesthetics"**
+**An existence that gives new ideas to the modern era as a "cluster of constrained aesthetics"**
 It has become.
 
 - Use in Hyperpop and EDM

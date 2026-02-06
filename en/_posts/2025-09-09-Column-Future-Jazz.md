@@ -35,7 +35,7 @@ Acid Jazz has become popular mainly in the UK, reimagining jazz funk and soul fo
 
 - **Equipment characteristics**
 -Akai MPC60/S1000
-- Roland TR-808 / TR-909
+-Roland TR-808 / TR-909
 - Mainly turntable and sampler
 
 <style type="text/css">
@@ -78,7 +78,7 @@ The term "Future Jazz" became established around Germany's Compost Records. The 
 - [Rainer Trüby Trio — *DJ-Kicks* (1998)](https://amzn.to/3KDXnDW)
 
 - **Equipment characteristics**
--Akai MPC3000
+- Akai MPC3000
 -EMU SP-1200
 -Roland JV-1080
 -Korg MS-20
@@ -212,7 +212,7 @@ In the streaming and AI era, Future Jazz has been reevaluated and intersected wi
 | No | Artist | Track | Comments |
 |---|---|---|---|
 | 1 | Alfa Mist | Keep On | Melancholy Future Jazz. |
-| 2 | Kamaal Williams | Hold On | A representative contemporary jazz piece from London. |
+| 2 | Kamaal Williams | Hold On | A representative contemporary jazz song from London. |
 | 3 | Shabaka Hutchings | Hustle | Spiritual and powerful. |
 | 4 | Nubya Garcia | Pace | Saxophone stands out. |
 | 5 | Blue Lab Beats | Pineapple | A fusion of hip-hop and jazz. |
@@ -228,3 +228,13 @@ In the streaming and AI era, Future Jazz has been reevaluated and intersected wi
 Future Jazz has continued to evolve as a place where traditional jazz improvisation and electronic innovation intersect. It started with the club culture of the 90s, went through Broken Beat and Nu-Jazz, and is now expanding into a multi-layered expression that also incorporates modularity and AI.
 
 As befits the name ""futuristic jazz,'' it is a genre that is always on the cutting edge of the times.
+
+---
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BtW4N8sBrSY?si=Yc7my4Dx9xyOLdTD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

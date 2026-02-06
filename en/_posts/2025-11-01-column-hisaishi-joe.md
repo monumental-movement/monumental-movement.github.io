@@ -158,7 +158,7 @@ Throughout these works, Hisaishi's music becomes an element that governs the ""i
 
 ## Chapter 11: "How do you live?" (2023) - Sound abstraction and new challenges
 
-How do you live?, which will be released in 2023, is director Hayao Miyazaki's first full-length film in 10 years.
+How do you live, which will be released in 2023, is director Hayao Miyazaki's first full-length film in 10 years.
 Joe Hisaishi was once again in charge of the music.
 
 This work uses an abstract sound structure, emphasizing resonance and texture rather than melody.
@@ -213,5 +213,13 @@ graph TD
     H --> I[how do you live]
 
 </div>
+
+---
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xUcNHHRBYcU?si=4S5ZfiBGFbrJNAqR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

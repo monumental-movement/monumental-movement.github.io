@@ -72,7 +72,7 @@ In neofuturist pop, synthesizers and digitally processed tones are foregrounded 
 
 ### 3-2. Rhythm and structure
 
-The rhythms are not necessarily dance floor-oriented, and are often fragmented and asymmetrical. On the other hand, the choruses and motifs are clearly established and retain their memorability as pop songs.
+The rhythms are not necessarily dance floor-oriented, and are often fragmented and asymmetrical. On the other hand, the choruses and motifs are clearly established and retain their memorability as pop music.
 
 ### 3-3. Vocal processing
 

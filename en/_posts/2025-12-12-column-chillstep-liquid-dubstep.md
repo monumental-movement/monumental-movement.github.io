@@ -59,7 +59,7 @@ Features include the following:
 * Gives breathing dynamics without making the side chain extremely deep
 * Focus on "build ~ melody" rather than drop
 
-Although the influence of Mt. Eden is large, the name ""Chillstep'' as a genre arose spontaneously within internet culture.
+Although the influence of Mt. Eden is large, the genre name ""Chillstep'' arose naturally within internet culture.
 
 ---
 
@@ -79,7 +79,7 @@ The symbol of Chillstep is "smooth sub-bass."
 
 * Sine wave center
 * Adjust warmth with slight distortion (soft clipping)
-* Produce breathing-like fluctuations with light LFO (1/4, 1/8, etc.)
+* Produce breathing-like fluctuation with light LFO (1/4, 1/8, etc.)
 * Add emotion through volume changes without using excessive filter modulation
 
 ### 2-3 Melody and synth design

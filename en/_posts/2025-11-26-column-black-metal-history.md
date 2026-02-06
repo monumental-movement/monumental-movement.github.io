@@ -112,7 +112,7 @@ The focus was on young Norwegian underground musicians.
 * Establishing lo-fi recording as "aesthetics"
 *Tremolo riff
 * Scream Vo
-* Expression of "Ice Wasteland" through repetition and speed
+* Expression of "ice wasteland" through repetition and speed
 * Corpse Paint
 * Natural view of winter, forest, and solitude
 
@@ -233,7 +233,7 @@ Major works: *Bathory* (1984), *The Return…* (1985), *Under the Sign of the Bl
 Major works: *Burzum* (1992), *Det Som Engang Var* (1993), *Hvis lyset tar oss* (1994)**
 
 * The music aims for thorough minimalism,
-**A style that aims to create a trance-like nature and the collapse of the sense of time through repetition**.
+**A style that aims to create a trance-like nature and the collapse of one's sense of time through repetition**.
 * Continuing to make a strong statement in the Norwegian cultural and religious debate in the early 1990s,
 Due to excessive media coverage, black metal's ""dangerous image'' was established.
 * After the incident (murder of Euronymous) and arrest, Burzum's sound source became more ambient-oriented.

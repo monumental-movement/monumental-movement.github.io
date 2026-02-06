@@ -204,7 +204,7 @@ The theme of the wheel of time/circularity. The city blocks and streets have bee
 
 The theme is the expression and symbolism of the human body and body. There are many installations that test physicality, aesthetics, and the limits of the body.
 
-Also, from this year, temple installations began to take hold, and installations that combined spirituality and structure, such as the ""Temple of the Mind'' (or similar concepts), appeared.
+Also, from this year, temple installations began to take root, and installations that combined spirituality and structure, such as the ""Temple of the Mind'' (or similar concepts), appeared.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X-G1CJizeBM?si=rBpoFPHdogWnBMbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -264,7 +264,7 @@ A theme that explores the conflicting axes of hope and fear. There were structur
 
 A theme that reconsiders the relationship between nature and civilization. A composition based on the motif of the "Green Man" (an anthropomorphic figure of plants and naturally occurring plants).
 
-However, in that year, his burning art ""Crude Awakening'', which imitated a giant oil rig, caused controversy and was criticized.
+However, in that year, his burning art ""Crude Awakening,'' which imitated a giant oil rig, caused controversy and was criticized.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dyU2Wjrw3Do?si=C0LD82S702ZyNlGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -308,7 +308,7 @@ A re-examination and update of 1997's "Fertility". The theme is creativity, rebi
 
 Using the cargo cult (the gap between material culture and faith) as a motif, we re-examine modern consumer society, cargo distribution, and ritualization.
 
-Many of the camps and structures express the gap between the "material being worshiped" and the "gift economy."
+Many camps and structures express the gap between the ""material being worshiped" and the ""gift economy."
 
 ---
 
@@ -392,7 +392,7 @@ The theme is unknown and unpredictability, and a challenging composition is deve
 
 #### 2025: Tomorrow Today
 
-Focusing on the near future, future inventions, and social plans. Art that embodies "Tomorrow into Today", prototyping, and design that induces a futuristic dialogue space.
+Focusing on the near future, future inventions, and social concepts. Art that embodies "Tomorrow into Today", prototyping, and design that induces a futuristic dialogue space.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5yrIwJo-RZ0?si=PF7ug6sEAIFeT2i1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -417,3 +417,12 @@ The theme, which changes every year, and the large-scale artwork function as a d
 That's the essence of Burning Man: even when the desert bonfires go out, the spirit continues to burn into the next year and into our imaginations.
 
 
+---
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BwoyZozIZl0?si=NTMdBDS8H9g8U7HR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

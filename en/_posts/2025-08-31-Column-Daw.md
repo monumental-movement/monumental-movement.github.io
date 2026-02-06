@@ -63,7 +63,7 @@ MIDI (Musical Instrument Digital Interface) is a standard for exchanging note in
 
 ### The Rise of Computers and Software (1990s)
 
-Improvements in computer performance and the practical use of hard disk recording have made it possible to edit audio waveforms digitally. Avid"s Pro Tools (then Digidesign) digitally enabled professional recording and editing workflows and became the industry standard for film, broadcast, and music production. At the same time, software sequencers/comprehensive DAWs such as Steinberg"s Cubase and Emagic's Logic (later acquired by Apple) became popular. Furthermore, the VST (Virtual Studio Technology) plug-in proposed by Steinberg expanded the ecosystem by providing a mechanism for third parties to develop software sound sources and effects.
+コンピュータの性能向上とハードディスク録音の実用化により、音声波形の編集がデジタルで可能となりました。 AvidのPro Tools（当時はDigidesign）はプロの録音・編集ワークフローをデジタルで実現し、映画・放送・音楽制作で業界標準へ。 At the same time, software sequencers/comprehensive DAWs such as Steinberg"s Cubase and Emagic"s Logic (later acquired by Apple) became popular.さらに、Steinbergが提唱したVST（Virtual Studio Technology）プラグインは、ソフト音源やエフェクトを第三者が開発できる仕組みを提供し、エコシステムを拡大しました。
 
 <hr>
 
@@ -170,3 +170,14 @@ Backup and version control. Save projects frequently and use cloud synchronizati
 DTM/DAW is not just a collection of tools, but a cultural device that symbolizes the ""democratization of music production.'' From the days of tape editing and hardware synths, to MIDI and digital recording, to VST and plug-in ecosystems, to AI and the cloud, technology has lowered the barriers to expression and created an environment where anyone can deliver sound to the world.
 
 Technology will continue to evolve, but at the core is the creator's intention: ""What kind of sound should we make and why?'' By fully utilizing technology as a tool, new musical expressions will continue to be born.
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zGr8QOz9Gds?si=7q5fGAYmYO1lLNN2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

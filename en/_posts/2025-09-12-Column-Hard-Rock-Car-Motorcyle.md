@@ -63,7 +63,7 @@ This film can be said to have defined the intimate relationship between hard roc
 Global hard rock bands **AC/DC** and **KISS** have captivated audiences by incorporating car culture not only in their music but also in their performances.
 
 - AC/DC, as exemplified by songs such as ""Highway to Hell" and ""Thunderstruck," overlaid images of ""road," ""thunder," and ""speeding'' on rock music, directly linking music to the sensation of driving.
-- At KISS's live performance, the sound of a Harley engine echoed with the flames in the background, giving the audience an experience as if the stage itself had been transformed into an American road movie.
+- At KISS' live performance, the sound of a Harley engine echoed with the flames in the background, giving the audience an experience as if the stage itself had been transformed into an American road movie.
 
 This echoed the 1970s American "culture of speed," and hard rock strongly embraced cars and motorcycles as symbolic icons of popular culture.
 
@@ -86,7 +86,7 @@ The roar of cars and motorcycles driving away was itself a musical experience, a
 This composition of ""hard rock x car/motorcycle culture'' was uniquely developed in Japan as well.
 Bosozoku, which appeared in Japanese youth culture from the late 1970s to the 1980s, had a similar spirit to American outlaw culture in that they used domestically produced motorcycles rather than Harleys as their mainstay, but expressed themselves through engine sounds and noises.
 
-Many Japanese hard rock fans and heavy metal enthusiasts incorporate motorcycles and modified cars as part of their lifestyle, and the resonance between music and motor culture is certainly alive and well in Japanese society. This can be said to be the result of America"s yearning for "freedom" being superimposed on Japan"s "delinquent culture."
+Many Japanese hard rock fans and heavy metal enthusiasts incorporated motorcycles and modified cars as part of their lifestyle, and the resonance between music and motor culture was certainly alive and well in Japanese society. This can be said to be the result of America"s longing for "freedom" being superimposed on Japan"s "delinquent culture."
 
 ---
 
@@ -156,7 +156,7 @@ On the other hand, in Europe and Japan, styles that emphasize lyricism and techn
 | Artist | Album | Release year | Features |
 |-------------|----------|---------|------|
 | Guns N" Roses | Use Your Illusion I & II | 1991 | A masterpiece that combines hard rock and balladry |
-| Metallica | Black Album | 1991 | Breaking through the boundaries between metal and rock with "Enter Sandman" |
+| Metallica | Black Album | 1991 | "Enter Sandman" breaks the boundary between metal and rock |
 | Foo Fighters | The Color and the Shape | 1997 | New generation rock anthem after grunge |
 | Audioslave | Audioslave | 2002 | Rage x Soundgarden crossover |
 | Velvet Revolver | Contraband | 2004 | Former GNR members' return to classic rock after the 90s |

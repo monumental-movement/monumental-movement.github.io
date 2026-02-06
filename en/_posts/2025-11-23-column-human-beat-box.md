@@ -121,7 +121,7 @@ Rapid growth has been remarkable in recent years.
 - High quality of sound
 - Speed ​​of adaptation to genres
 
-In particular, Japan's strengths include "accuracy of sound," "composition ability," and "compatibility with images and production."
+In particular, Japan's strengths are ""accuracy of sound," ""compositional ability," and ""compatibility with images and production.''
 
 ---
 
@@ -263,9 +263,9 @@ We can expect him to continue to be active in both Loopstation and solo.
 
 # Conclusion - Human Beatbox as a culture
 
-Human Beatbox is a modern expression culture that combines many aspects such as music, performance, video, and composition.
+Human Beatbox is a modern expressive culture that combines many aspects such as music, performance, video, and composition.
 Now that the competition culture is maturing, technology is evolving, and Japanese artists are emerging, beatboxing is undergoing major changes, and beatboxing is becoming more than just a technique, it is becoming an international music genre.
 
-I hope that this article will help you understand the history and future of beatboxing.
+I hope this article will help you understand the history and future of beatboxing.
 
 ---

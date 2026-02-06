@@ -20,7 +20,7 @@ title: '[Column] Industrial Techno / Hard Experimental Techno'
 Text: mmr｜Theme: Industrial techno/hard experimental structure, history, and acoustic technology
 
 
-Industrial Techno / Hard Experimental Techno is a musical form that extremely foregrounds acoustic materials, sound pressure, distortion, and noise while retaining the repetitive temporal structure of techno. This genre differs from a musical perspective that focuses on emotional expression and melody, and has been built around the physical properties of sound itself and the control of time through repetition.
+Industrial Techno / Hard Experimental Techno is a musical form that extremely foregrounds acoustic materials, sound pressure, distortion, and noise while retaining the repetitive temporal structure of techno. This genre differs from a musical perspective centered on emotional expression and melody, and has been built around the physical properties of sound itself and the control of time through repetition.
 
 This trend is not just "intense club music." It was created as a result of adapting the ideas of material orientation, impersonality, and structural superiority that have been cultivated over many years in industrial music, EBM, noise, and experimental electronic music to the strictly functional space of the dance floor.
 

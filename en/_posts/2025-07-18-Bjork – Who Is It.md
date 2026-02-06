@@ -14,7 +14,7 @@ title: Björk – Who Is It
 
 A remix of Bjork's "Who Is It" by Bogdan Raczynski, a great Polish-American DJ and producer from the Rephlex label.
 
-2005年にリリースされたこのレコードは、Autechre(オウテカ)、Ulver(ウルベル)のremixに続くBogdan Raczynskiのリミックスワーク代表作。
+This record, released in 2005, is Bogdan Raczynski's masterpiece of remix work, following the remixes of Autechre and Ulver.
 
 
 #### Tracklist

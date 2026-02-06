@@ -114,7 +114,7 @@ Hip-hop has the "four pillars" of block parties, graffiti, breaking, and DJ/MC. 
 
 ---
 
-Metal has been given the image of being "demonized" and aroused controversy over self-regulation such as the PMRC. Depending on the subgenre, it can also create social conflicts over violent incidents and discriminatory statements.
+Metal has been given the image of being "demonized" and has aroused controversy over self-regulation such as the PMRC. Depending on the subgenre, it can also create social conflicts over violent incidents and discriminatory statements.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G3LvhdFEOqs?si=4R5mtsKWW15IxBLC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -213,7 +213,7 @@ The hybridization of social movements and music events (fundraising parties, mut
 
 **Radicalization of the narrative**: The realism/exaggeration of the lyrics is misinterpreted by the media as a crime warning.
 
-**Media apparatus**: Reporting creates a "popular devil" (Cohen's moral panic).
+**Media Apparatus**: Reporting creates a "popular devil" (Cohen's Moral Panic).
 
 **Reflection with the system**: The cycle of crackdown → underground → strengthening of solidarity → commercial recovery → deviation again.
 
@@ -249,4 +249,4 @@ The hybridization of social movements and music events (fundraising parties, mut
 ### Who draws the boundaries?
 
 The relationship between music and outlaws is not a glorification of crime. Rather, it is a visualization of the power dynamics of ""who, what, and how to call deviance'' and at the same time a story of the creativity of the periphery.
-From rockabilly in the 1950s to micro-rave in the 2020s, music has teased the edges of norms, loosening social rigidities and experimenting with new public sensibilities. Their outlaw nature is dangerous, but the beats that spark from that spark often shape the next mainstream movement - all the time.
+From rockabilly in the 1950s to micro-rave in the 2020s, music has teased the edges of norms, loosening social rigidities and experimenting with new public sensibilities. Although their outlaw nature is dangerous, the beats that spark from that spark often shape the next mainstream movement - all the time.

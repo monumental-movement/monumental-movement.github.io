@@ -139,7 +139,7 @@ Features of Nu Disco:
 - See 1980s electronic funk
 - Re-expansion of record digging culture
 
-この文脈では、French Touch の「サンプリング美学」「フィルターワーク」「アナログの温度」が重要な基盤を提供している。
+In this context, French Touch's ""sampling aesthetics," ""filterwork," and ""analog temperature'' provide an important foundation.
 
 ---
 
@@ -158,8 +158,8 @@ Features of Nu Disco:
 
 ### ● Breakbot (France)
 - AOR to disco route similar to Daft Punk "Discovery"
-- 軽やかなベースラインと生楽器の併用  
-- French Touch の“キュートで色彩豊かな音像”を継承
+- Combination of light bass line and live instruments
+- Inheriting the "cute and colorful sound image" of French Touch
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fz7D8u9mYGA?si=c6eHr5agQJylzltx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -172,7 +172,7 @@ Features of Nu Disco:
 ---
 
 - Cosmic disco synth work
-- 長尺トラック構造が Daft Punk 的ストーリーテリングと共鳴
+- Long track structure resonates with Daft Punk storytelling
 
 These artists updated the French Touch gene in a Nu Disco context.
 

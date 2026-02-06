@@ -163,7 +163,7 @@ Below is a Mermaid format horizontal and vertical table that can be embedded in 
 flowchart TD
   style A fill:#0b1221,stroke:#ffffff,stroke-width:1px
   A["1970s–1980s\nKangol, Adidas, local sneakers"] --> B["1990s\nDickies, Chuck Taylor, bandanas, and lowrider culture"]
-  B --> C["2000s\nSupreme, Stüssy, BAPE, skate/street brands"]
+  B --> C["2000s\nSupreme, Stüssy, BAPE, skate street brands"]
   C --> D["2010s–current\nHigh brands x streetwear (Gucci, Off-White), genderless dressing"]
 
   classDef decades fill:#071428,color:#e6eef8
@@ -177,10 +177,19 @@ flowchart TD
 West Coast hip-hop was born from the street culture of Los Angeles in the late 1970s, and through the rise of gangsta rap and G-Funk in the 1980s and 1990s, it grew into a global music trend.
 Low-budget music videos, unique fashion styles, and ties to lowrider culture created an authentic expression of the West Coast.
 
-Since the 2000s, diversity has expanded with the success of independent underground acts such as Madlib and The Game. Furthermore, Kendrick Lamar and other artists with global influence who make full use of SNS and the Internet have appeared, and their songs and visual expressions containing conscious messages are forming a new trend in West Coast hip-hop.
+Since the 2000s, diversity has expanded with the success of independent underground acts such as Madlib and The Game. In addition, Kendrick Lamar and other artists with global influence who make full use of SNS and the Internet have appeared, and their songs and visual expressions containing conscious messages are forming a new trend in West Coast hip-hop.
 
 More than just a music genre, the region's hip-hop continues to influence social messages, fashion, film, and culture as a whole, and continues to inspire artists and fans around the world.
 
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CkZo_BMM120?si=qlhYZFYXqZj43i0R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

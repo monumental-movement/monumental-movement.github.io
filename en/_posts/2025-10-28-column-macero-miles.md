@@ -124,7 +124,7 @@ It was the forerunner of the paradigm of ""editing = composing.''
 
 - Creating new contexts by controlling coincidence (rearranging the order of phrases)
 
-This philosophy would later be carried over into hip-hop sampling and Brian Eno's studio art.
+This philosophy was later carried over into hip-hop sampling and Brian Eno's studio art.
 In other words, Macero has carved out a new profession: ""post-recording composer.''
 
 ---
@@ -236,7 +236,7 @@ For him, improvisation was the ""generation of materials," and editing was the "
 
 ## Chapter 10: Acoustic analysis —— "Auditory structure" created by editing
 
-Teo Macero's editing did not just change the song structure, but also transformed the acoustic space and the very structure of listening.
+Teo Macero's editing not only changed the composition of the music, but also transformed the acoustic space and the very structure of listening.
 Especially when comparing "In a Silent Way" and "Bitches Brew," you can see a clear sonic philosophy in the editing direction.
 
 | Elements | "In a Silent Way" (1969) | "Bitches Brew" (1970) |
@@ -283,7 +283,7 @@ It can be said that Macero's edited sound was already putting into practice the 
 
 ---
 
-## Supplementary figure: Masero-style "composition by editing" model
+## Supplementary figure: Macero-style "composition by editing" model
 
 <div class="mermaid">
 
@@ -416,7 +416,7 @@ It can be said that it preceded the ""studio composition method'' advocated by B
 
 | Elements | Technique | Acoustic Intention |
 | ---------- | ------------------------ | ------------------------ |
-| Stereo space | Localization (drum left and right placement) that is impossible in real performance | Expansion of visual sense of space |
+| Stereo space | Localization (drum left and right placement) that is impossible in real performance | Expansion of visual spatial sense |
 | Tape repeat | Re-insert the same phrase (recursive structure) | Auditory hypnosis effect |
 | EQ/reverb operation | Unification of texture between multiple takes | Pseudo-generation of spatio-temporal continuity |
 | "Seams" of fragmented reverberation | Deliberately left behind | Turning editing traces into music (turning sound seams into "structure") |
@@ -490,6 +490,16 @@ graph LR
 </div>
 
 ---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HmQjbJo1pGg?si=Guk39cSV_j7-kSL8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 ## References/Materials
 

@@ -20,8 +20,8 @@ title: '[Column] Indie Shoegaze / Dream Pop'
 
 Text: mmr｜Theme: About the history of reconstructing sound images and sensations
 
-Shoegaze and dream pop, which emerged mainly in the UK from the late 1980s to the early 1990s, significantly shifted the expressive realm of rock music from ""performance" to ""sound image."
-These musics focus on the space, reverberation, and sensual duration created by overlapping sounds, rather than the immediate appeal of melody or the clear delivery of lyrics.
+Shoegaze and dream pop, which emerged mainly in the UK from the late 1980s to the early 1990s, significantly shifted the expressive realm of rock music from "performance" to "sound image."
+These musics focus on the space, reverberation, and sensual sustain created by overlapping sounds, rather than the immediate appeal of melody or the clear delivery of lyrics.
 
 The term "shoegaze" came from the way people looked at the effector boards at their feet while performing, and the term became established as a symbol of the introverted nature of the performance. Dream pop, on the other hand, was formed as a result of the fusion of an earlier ambient pop sensibility with the sonic orientation of post-punk.
 
@@ -76,7 +76,7 @@ Delay is used to create overlapping reverberations rather than being synchronize
 ### 2-2. Rhythm in the background
 
 The drums and bass don't act as the driving force behind the song, but function as a center of gravity to support the sound image.
-The tempo is relatively constant, and emphasis is placed on the continuation of a state rather than dramatic development.
+The tempo is relatively constant, and emphasis is placed on the continuation of a state rather than dramatic developments.
 
 ---
 

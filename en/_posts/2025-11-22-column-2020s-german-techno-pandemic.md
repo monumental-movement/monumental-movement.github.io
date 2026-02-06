@@ -104,7 +104,7 @@ The pandemic has pushed club culture online.
 In March 2020, we launched **United We Stream**, the world's first large-scale online club support project.
 
 ### Important factual points:
-- Broadcast without audience from a club in Berlin
+- Broadcast without an audience from a Berlin club
 - Use donations to maintain the club
 - Watched by millions of people
 - Similar models spread to cities around the world
@@ -289,7 +289,7 @@ It is unclear whether this will continue, but it may continue due to the followi
 - The international market for hard techno is expanding
 
 ## ● 2) The club will be protected as a cultural resource of the city.
-Germany has already institutionalized clubs as "cultural facilities," so
+Since Germany has already institutionalized clubs as "cultural facilities,"
 It is predicted that protection policies will become more advanced from 2025 onwards.
 
 ## ● 3) Rise of regional cities

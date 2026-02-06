@@ -17,7 +17,7 @@ title: '[Column] Gong legend: era, myth, sound and community'
 ## 1. Introduction: Musician as Scientist
 
 
-Text: mmr｜Theme: Gong, the "cosmic community" built by David Allen and Gilly Smith. About the myth, sound, and inheritance from the 1960s to the present day
+Text: mmr | Theme: Gong, the "cosmic community" built by David Allen and Gilly Smith. About the myth, sound, and inheritance from the 1960s to the present day
 
 > "We were a flying teapot sailing through the revolution."
 > ― Daevid Allen
@@ -113,7 +113,7 @@ A trilogy released between 1973 and 1974.
 
 These are not just albums, but mythological epics of "Planet Gong". Taking the form of a radio broadcast, Zero the Hero and Pot Head Pixies appear, and the journey through space and consciousness is depicted.
 
-|Character |Characteristics |
+| Character | Features |
 | :-- | :-- |
 | Zero the Hero | A traveler who travels between Earth and the Gong planet |
 | Pot Head Pixies | Spirits of Happiness and Chaos |
@@ -150,7 +150,7 @@ Gong was a symbol of countercultural practice that did not separate society and 
 
 ---
 
-## Chapter 7 Transformation and inheritance——Moellan-Gong and rebirth {#chapter7}
+## Chapter 7 Transformation and Inheritance——Moellan Gong and Rebirth {#chapter7}
 
 After 1976, David Allen left.
 Pierre Moerlan took over, and the jazz fusion-oriented **Pierre Moerlan's Gong** was born.
@@ -167,7 +167,7 @@ Even after Allen passed away in 2015, Gong continues to live on as a "regenerati
 ## Chapter 8 The world of Gong mythology—Characters, iconography, and worldview {#chapter8}
 
 Gong is a comprehensive art that integrates music, mythology, and art.
-Centering around the Radio Gnomes trilogy, characters, planets, languages, broadcast stations, etc. are intricately intertwined.
+Centering around the Radio Gnome trilogy, characters, planets, languages, broadcast stations, etc. are intricately intertwined.
 
 Below is a diagram showing its symbolic structure:
 

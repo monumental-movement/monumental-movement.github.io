@@ -65,7 +65,7 @@ C --> D[Establishment within DJ sets]
 
 ## Characteristics of musicality: designing grooves, chords, and repetitions
 
-Ian Pooley"s musicality relies more on internal structure than on surface style. The four-on-the-four rhythm is deceptively simple, but underneath there"s a complex interplay between bassline, chords, and percussion.
+Ian Pooley"s musicality relies more on internal structure than on surface style. The four-on-the-floor rhythm is deceptively simple, but underneath there"s a complex interplay between bassline, chords, and percussion.
 
 What is noteworthy is the code work. Although he uses harmonies that give a sense of jazz-like tension, he does not foreground them too much. The chords are placed solely as elements to reinforce the groove, without stealing too much of the listener's attention. This suppressed expression is highly effective during long DJ mixes.
 

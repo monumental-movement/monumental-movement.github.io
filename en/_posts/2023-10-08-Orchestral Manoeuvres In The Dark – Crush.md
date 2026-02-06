@@ -16,7 +16,7 @@ Crush is the sixth studio album by British electronic band Orchestra Manoeuvres 
 
 This album is the first of two OMD studio albums produced by Stephen Hague. Primarily targeted at the American market, it is notable for the group's transition to a more sophisticated sound, although elements of their previous experiments remain.
 
-During recording, the band made greater use of organic instrumentation than in the past.
+During recording, the band made more use of organic instrumentation than in the past.
 
 #### Tracklist
 ```md

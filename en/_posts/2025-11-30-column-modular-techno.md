@@ -100,7 +100,7 @@ British-born Surgeon is known as one of the first artists to introduce modular s
 
 ## Ø [Phase]
 
-Ø [Phase], whose work focuses on a minimal and stoic sonic aesthetic in techno, actively utilizes modular synths in both studio and live production. It is particularly characterized by its complex phase modulation approach and the introduction of drone-like elements that utilize feedback loops, and has been praised for giving organic movement to minimal techno.
+Ø [Phase], whose work focuses on a minimal and stoic sonic aesthetic within techno, actively utilizes modular synths in both studio and live production. It is particularly characterized by its complex phase modulation approach and the introduction of drone-like elements that utilize feedback loops, and has been praised for giving organic movement to minimal techno.
 
 ## Richie Hawtin
 
@@ -269,7 +269,7 @@ The shift from ""track reproduction" to ""sound generation" has also influenced 
 
 ---
 
-# Future prospects
+# Future outlook
 
 Modular Techno is expected to continue to evolve, and several directions are expected.
 

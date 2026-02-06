@@ -74,7 +74,7 @@ For example, "Spinning Away" is a perfect mix of floating feelings and nostalgia
 > With my pencil turning moments into line…"
 
 The melody is like a ""memory sketch.''
-This album was a forerunner of Eno's ""environmental pop'' movement from the 1990s onward, and was inherited by the sounds of Coldplay and Moby.
+This album was a forerunner of Eno's ""environmental pop'' from the 1990s onward, and was inherited by the sounds of Coldplay and Moby.
 ""False ascension'' may refer to the path we take in what we believe is the correct path.
 
 ---
@@ -163,7 +163,7 @@ And in our hearts, we continue to quietly draw a **unseen beach**.
 
 | Artist/Work | Year | Notes | Link |
 |------------------|----|--------------|
-| Brian Eno & John Cale – *Wrong Way Up* | 1990 | Collaboration album. A fusion of human melody and electronic clarity. | [Amazon](https://amzn.to/48mDETk) |
+| Brian Eno & John Cale – *Wrong Way Up* | 1990 | Collaboration album. A fusion of human melody and electronic transparency. | [Amazon](https://amzn.to/48mDETk) |
 | The Beach (Soundtrack) | 2000 | Moby, All Saints, Faithless and more participate. Music of the sea and solitude. | [Amazon](https://amzn.to/47mrub1)
 
 ---

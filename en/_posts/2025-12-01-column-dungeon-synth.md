@@ -27,7 +27,7 @@ title: '[Column] Dungeon Synth ─ An underground ambient aesthetic that diverge
 Text: mmr｜Theme: About the history, production techniques, and cultural position of Dungeon Synth, an underground ambient genre derived from black metal
 
 Dungeon Synth is a music genre that expresses the spirituality of black metal and fantasy/medieval worldview through minimalist synth sounds.
-Its origins can be traced back to the European extreme music scene of the early 1990s, but the second and third generations have rapidly expanded since the late 2010s with the expansion of Bandcamp culture, and it has now developed into a gigantic DIY network.
+Its origins can be found in the European extreme music scene of the early 1990s, but from the late 2010s, with the expansion of Bandcamp culture, the second and third generation rapidly expanded, and it has now developed into a huge DIY network.
 
 ---
 
@@ -183,7 +183,7 @@ Dungeon Synth emphasizes **repetition, a small number of motives, and long pads*
 
 ### ▼ Treatment of rhythm
 Dungeon Synth is often **rhythmless (drumless)**.
-あっても小さなタム、パーカッション、軽いティンパニが控えめに鳴る程度。
+Even if there were, the only sounds were small toms, percussion, and light timpani.
 
 ---
 
@@ -202,7 +202,7 @@ Adding a roughness of about 8 to 12 bits will enhance the 90's feel.
 Many artists actually record their songs onto cassettes.
 
 ### ■ EQ processing
-- **Remove low (below 100Hz)** → Towards monaural/old equipment texture
+- **Remove low (below 100Hz)** → Towards monaural/old equipment feel
 - **Remove high frequencies (above 6-8kHz)** → Remove digital odor
 
 ### ■ Reverb
@@ -226,7 +226,7 @@ Specifically used are:
 <div class="mermaid">
 flowchart TD
     A["Pad / Drone layer"] --> Mix["Main Mix"]
-    B["Choir / Stringsメロディ"] --> Mix
+    B["Choir/Strings Melody"] --> Mix
     C["Bass Drone / Octave Bass"] --> Mix
     D["Light Perc/Timpani"] --> Mix
     Mix --> FX1["EQ: High Cut / Low Cut"]
@@ -314,7 +314,7 @@ Below is a plan for actually creating a song.
 
 # ■ 9. Cultural significance of Dungeon Synth
 
-Dungeon Synth is a rare type of music that combines the intense worldview of black metal with the tranquility of ambient music, and is a culture that aspires to "building an inner world."
+Dungeon Synth is a rare type of music that combines the intense worldview of black metal with the tranquility of ambient, and is a culture that aspires to "building an inner world."
 
 - Individual creators spin their own stories without relying on large-scale scenes
 - Strongly tied to the aesthetics of fantasy literature, TRPGs, and game music

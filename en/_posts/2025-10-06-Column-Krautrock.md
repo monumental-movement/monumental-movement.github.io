@@ -74,7 +74,7 @@ He ended up becoming a member of the band.
 
 Their music is a "fluid rhythm" that rejects structure.
 Especially on the album "Tago Mago" (1971), the songs were rearranged through editing.
-This gave birth to the concept that the recording tape itself is an instrument.
+This gave rise to the concept that "recording tape itself is an instrument."
 Shukai's editing techniques were similar to later hip-hop sampling.
 
 > "Rhythm rules time. But improvisation frees you from time."
@@ -98,7 +98,7 @@ Rotor's guitar and bass slide like a streamline,
 Music has made "moving forward" itself an objective.
 
 NEU! recorded in the studio due to a lack of funds.
-Rotate the tape backwards, change the speed, cut and paste the sounds,
+Rotating the tape in reverse, changing the speed, cutting and pasting the sounds,
 It shook the boundary between "life" and "machine."
 
 > "Motorik is the sound of ""human continuation,'' not a machine."
@@ -205,7 +205,7 @@ Leader **Florian Fricke** was deeply devoted to religious music and philosophy, 
 However, what he was aiming for was not the coldness of electronics, but **mystery and inner sound**.
 
 ### Resonance with Herzog
-Film director **Werner Herzog** fell in love with their spiritual sounds and used them in many of his films, including ""Aguirre: The Wrath of God," ""Nosferatu," and ""Fitzcarraldo.''
+Film director **Werner Herzog** fell in love with their spiritual sounds and used them in many of his films, including ""Aguirre," ""Nosferatu," and ""Fitzcarraldo.''
 The music of ""Aguirre"' (1975) shook the audience"s consciousness like a hallucination echoing in the Andes mountains.
 
 > "The sound of Popol Vu was the words of prayer that the soul heard."

@@ -36,5 +36,5 @@ This album, released by EMI in 1991, is Kraftwerk"s 10th studio album. This is a
 
 [Purchase on Mercari](https://jp.mercari.com/item/m24338824694?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cbPc_Iu8JLA?si=OfpNSIXukiVUrSWW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

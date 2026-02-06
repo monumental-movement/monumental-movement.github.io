@@ -47,7 +47,7 @@ color: #fff;
 
 ## What is Vipassana meditation?
 
-> Vipassana is an old meditation method that means ""seeing things as they really are,'' and is still widely practiced today as a way to cultivate a balanced mind through self-observation and mental purification. :contentReference[oaicite:2]{index=2}
+> Vipassana is an old meditation method that means ""seeing things as they really are,'' and is still widely practiced today as a way to cultivate a balanced mind through self-observation and mental purification.
 
 Vipassana meditation has its roots in the Buddhist tradition, but it has become widespread as a universal technique that is separate from religion.
 The basics are **carefully observing your breathing and bodily sensations, and recognizing the natural flow of thoughts and emotions**.
@@ -90,7 +90,7 @@ These are all notable examples of how meditation had a profound influence on his
 
 > Iranian classical musician Omid Lotfi Kamkar is said to have been practicing Vipassana meditation since 1997, and is able to balance his performance with meditation.
 
-Omid Lotfi Kamkar is an artist who has been pursuing music since childhood and has been practicing Vipassana meditation for about 20 years. :contentReference[oaicite:12]{index=12}
+Omid Lotfi Kamkar is an artist who has been pursuing music since childhood and has been practicing Vipassana meditation for about 20 years.
 In this way, there are examples where the relationship between meditation and music is recognized not only in Western rock but also in the Middle Eastern and classical music worlds.
 
 ---

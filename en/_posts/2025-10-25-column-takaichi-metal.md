@@ -21,7 +21,7 @@ title: '[Column] Prime Minister Sanae Takaichi and Metal: Iron Will and Politics
 Text: mmr｜Theme: A politician who loves heavy metal—Sanae Takaichi. How has her musical sensibility given a steely resonance to her words, policies, and ideas?
 
 
-Sanae Takaichi is often described as a ""conservative," ""strong-minded," and ""a fighting woman." However, at its root lies the impact of the heavy metal music he heard when he was young. Metal is a music of passion and construction, an art that confines passion within order. Her school band played songs by Black Sabbath and Deep Purple, and she also likes to listen to bands like Judas Priest, and these sensibilities form the ""acoustic skeleton" of her political language and cultural outlook.
+Sanae Takaichi is often described as a ""conservative," ""strong-minded," and ""a fighting woman." However, at its root lies the impact of the heavy metal music he heard in his youth. Metal is a music of passion and construction, an art that confines passion within order. Her school band played songs by Black Sabbath and Deep Purple, and she also likes to listen to bands like Judas Priest, and these sensibilities form the ""acoustic skeleton" of her political language and cultural outlook.
 
 ---
 
@@ -126,6 +126,14 @@ Just as metal has evolved by accepting noise, mature politics also becomes stron
 
 ---
 
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6n3k1OcIKXs?si=1wAxtEv1xDU1tP-2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ## Chronology: Sanae Takaichi and the history of metal resonance (1980–2025)
 
 <div class="mermaid">
@@ -158,6 +166,7 @@ flowchart LR
     A --> B --> C --> D --> E
 
 </div>
+
 ---
 
 ## References/Citations
@@ -172,7 +181,7 @@ flowchart LR
 | ----------------- | ------------ | ---- | -------------------------- | ---------------------------------------- |
 | **Black Sabbath** | **Black Sabbath** | 1970 | A work that is said to be the birth of the world's first heavy metal. The darkening of the blues and the church bell SE are symbolic.            |
 | | **Paranoid** | 1970 | A masterpiece that established the prototype of metal. Speed, sociability, and seriousness coexist.    |
-| | **Master of Reality** | 1971 | Evolution of heavy bass with drop D tuning. The father of doom metal.      |
+| | **Master of Reality** | 1971 | Evolution of deep bass with drop D tuning. The father of doom metal.      |
 | **Deep Purple** | **Deep Purple in Rock** | 1970 | A masterpiece that laid the foundation for hard rock. A fusion of classic compositional beauty and explosive power.                    |
 | | **Fireball** | 1971 | More aggressive and experimental. It has a strong tempo change and blues feel.                  |
 | | **Machine Head** | 1972 | A level of perfection that remains in rock history. The golden ratio of riff and groove.          |

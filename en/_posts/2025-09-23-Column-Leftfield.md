@@ -115,6 +115,15 @@ Leftfield is an icon of UK electronica and synonymous with musical adventure. Al
 
 ---
 
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7scq3_vpAgw?si=hy0NK0UAMmNSge5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ### Related columns
 
 🔗 [[Column] Deep dive into trip hop: Massive Attack / Portishead / DJ Shadow / DJ Krush](https://monumental-movement.jp/Column-Triphop)

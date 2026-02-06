@@ -160,8 +160,8 @@ It is no longer a format of the past, but a 10-inch **device of new time design*
 
 ### Conclusion: Musical philosophy in the physics of a disk
 
-When talking about the appeal of 10-inch discs in technical terms, what stands out behind it is the ""freedom created by constraints.''
-Design limitations, time constraints, and size limitations.
+When talking about the appeal of 10-inch discs in technical terms, what stands out behind it is the "freedom created by constraints."
+Design limitations, time constraints, and size constraints.
 All of this makes the music "condensed" and restores its "feel."
 
 The format is philosophy, engineering, and poetry.

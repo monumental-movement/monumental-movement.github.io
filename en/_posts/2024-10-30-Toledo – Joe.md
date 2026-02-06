@@ -15,7 +15,7 @@ title: Toledo – Joe
 
 House acid jazz track by Toledo (Toledo Diamond). The producer is Danny Saber, a former member of Black Grape.
 
-1994年にUSのインディペンデントレーベルMoonshine Musicからリリースされた。
+It was released in 1994 by the US independent label Moonshine Music.
 
 
 #### Tracklist

@@ -167,3 +167,14 @@ Brooklyn new generation club. A place of deep and soulful heritage.
 
 ### Still on dance floors around the world
 While NY house was influenced by Chicago house, it inherited the genes of disco culture and established its own musical style of ""soulful and human grooves.'' The city's culture, diverse communities, and innovations in DJing and club sound systems have created an ever-evolving musical heritage.
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GqU193jA5kg?si=z_X40NiLoIX6iX2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

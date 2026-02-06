@@ -33,5 +33,5 @@ D2. Take To Me (Kilkie's Percapella)
 
 [Purchase on Mercari](https://jp.mercari.com/item/m57495525852?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hdffdIZAsm0?si=xualZwnB7fNXKUXm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

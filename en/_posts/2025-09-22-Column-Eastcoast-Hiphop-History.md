@@ -157,6 +157,15 @@ Since the 2000s, there have been major successes such as Jay-Z and 50 Cent, and 
 
 ---
 
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YPNXMwEfrPE?si=EZNCORtvq4ekk2cA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ### Related columns
 
 🔗 [[Column] Overview of West Coast Hip Hop — From its origins to the underground](https://monumental-movement.jp/Column-Westcoast-Hiphop-History)

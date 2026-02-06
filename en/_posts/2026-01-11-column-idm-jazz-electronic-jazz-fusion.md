@@ -23,7 +23,7 @@ Text: mmr｜Theme: About music presented as the structure of time itself
 
 The fusion of IDM and jazz has progressed not as an addition of genres, but as a redesign of the sense of time and performance philosophy. By blurring the lines between improvisation and composition, groove and programming, and human power and machines, an aesthetic different from traditional fusion is being formed. Since the 1990s, as club culture and experimental jazz have deepened simultaneously, rhythmic structure itself has become the subject of music.
 
-> If you understand IDM x Jazz not as a style but as a methodology for processing time, it is easier to see the whole picture.
+> If you understand IDM x Jazz not as a style, but as a methodology for processing time, it is easier to see the whole picture.
 
 ---
 

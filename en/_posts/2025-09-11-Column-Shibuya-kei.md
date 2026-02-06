@@ -203,3 +203,13 @@ color: #fff;
 ## Global cultural icon
 
 Shibuya-kei sound was born in the 1990s and became a global cultural icon, and has continued to influence the Japanese music scene in various forms ever since. Currently, it is being reevaluated through the internet generation, and is entering a new phase as it intersects with city pop and K-POP.
+
+---
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IlhT1IOwb9U?si=7ib4PYpqUf0c0aBC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

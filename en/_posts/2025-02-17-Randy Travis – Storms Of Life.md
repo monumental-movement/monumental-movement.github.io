@@ -16,7 +16,7 @@ title: Randy Travis – Storms Of Life
 
 Randy Travis is an American country singer and actor who has been active since 1979.
 
-1986年にリリースされたデビュースタジオアルバム"Storms Of Life"は、商業的に大成功を収め、このアルバムで一躍有名になった。 It has been certified as a triple platinum disc.
+Their debut studio album, Storms of Life, released in 1986, was a huge commercial success and made them famous. It has been certified as a triple platinum disc.
 
 Randy Travis is known as one of the people who contributed to the development of neo-traditional country, along with Reba McEntire, George Strait, Toby Keith, and others.
 
@@ -38,5 +38,5 @@ B5. There'll Always Be A Honky Tonk Somewhere
 
 [Purchase on Mercari](https://jp.mercari.com/item/m46471890400?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/syhTjuxqpVA?si=Xcy3uenTrKoAJG3J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

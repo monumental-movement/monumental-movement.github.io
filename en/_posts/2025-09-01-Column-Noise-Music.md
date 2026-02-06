@@ -154,3 +154,14 @@ Diversification through modular synth revival and laptop acoustics.
 
 ## At the end
 Noise music is always a challenge to existing aesthetics and an attempt to expand the boundaries of music. From Russolo's mechanical sounds to modular synths, even after more than 100 years of history, the essence of all instruments is to "listen to the sound itself."
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7RVUbywixfo?si=_AmKa_4dl_qCpxSb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

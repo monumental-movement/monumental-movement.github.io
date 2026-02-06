@@ -137,7 +137,7 @@ We have entered an era in which "Gundam music" is not just "background music to 
 
 ### 3.2 Example: Soundtrack composition of the "Mobile Suit Gundam SEED" series
 
-For ""Mobile Suit Gundam SEED" ​​(2002-), Hiroyuki Kono and others were actually in charge of the musical accompaniment, rather than the composer Hiroyuki Sawano, and the theme song, insert song, character song, remix album, and ""Suit CD" were developed.
+For "Mobile Suit Gundam SEED" (2002-), Hiroyuki Kono and others were in charge of the music, rather than the composer Hiroyuki Sawano, and the theme song, insert song, character song, remix disc, and "Suit CD" were developed.
 This structure shows that Gundam music has become "a product/culture that cannot be separated from the work." Music has become a brand, and it has come to function in places other than productions (live shows, bonus CDs, collaborations).
 
 ### 3.3 Recent work: Musical experiment in "Mobile Suit Gundam: Witch of Mercury"
@@ -183,7 +183,7 @@ These remixes/arrangements play a role in promoting ""listening to Gundam"' and 
 
 ---
 
-## Chapter 6: Discussion and future outlook
+## Chapter 6: Discussion and future prospects
 
 ### 6.1 What is the universality of Gundam music?
 
@@ -207,7 +207,7 @@ After 2025, it is expected that the era of "listening to music" will shift from 
 ## Instead of a conclusion
 
 "Listen to Gundam again" can be said to be synonymous with "watching Gundam again." This is because music represents the characters' emotions and carves out the trajectory of the story. We hope that through this article, you will be able to pick up your favorite Gundam theme song again and listen to the history and story world that it has created once again.
-Finally, to dig deeper into Gundam music, be sure to search and collect CD jackets, live videos, composer interviews, and more. The journey of sound expands richly beyond sight.
+Finally, to dig deeper into Gundam music, be sure to search and collect CD jackets, live videos, composer interviews, and more. The journey of sound expands richly beyond your field of vision.
 
 ---
 
@@ -221,7 +221,7 @@ Below is a chronology including works, theme songs/insert songs, composers/singe
 | 1985 | Mobile Suit Zeta Gundam | To the Planet of Water with Love | Neil Sedaka/Kayoko Ebina/Hiroko Moriguchi | Opening song |
 | 1988 | Mobile Suit Gundam: Char's Counterattack (movie) | Beyond the Time | Tetsuya Komuro／TM NETWORK | Movie theme song |
 | 1995 | New Mobile Report Gundam Wing | Just Communication | Minami Takayama・Shiina Nagano/TWO-MIX | TV version opening |
-| 2002 | Mobile Suit Gundam SEED | We were together like that | Composer: Hiroyuki Kono et al./See-Saw | Series music development begins |
+| 2002 | Mobile Suit Gundam SEED | We were together like that | Composer: Hiroyuki Kono and others/See-Saw | Series music development begins |
 | 2022 | Mobile Suit Gundam: Witch of Mercury | (Theme song/Drama accompaniment) | Ko Omama/(Singer) | Latest work/revamped music composition |
 
 
@@ -263,5 +263,13 @@ A pop unit that represented the anime song scene in the late 1990s. They attract
 
 A singer who has been active from the 1980s to the present day. He has been responsible for many theme songs for the Gundam series, including the opening theme song for "Mobile Suit Zeta Gundam", "With Love to the Star of Water" and the theme song for "Mobile Suit Gundam F91", "ETERNAL WIND ~Hohoemi wa Hikaru Kaze no Naka~".
 
+
+---
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rr3JLc0Klwo?si=XQ47R-oxnwuhZgvQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

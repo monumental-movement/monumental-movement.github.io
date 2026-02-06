@@ -73,7 +73,7 @@ This transformation is the basis for all of his subsequent works.
 
 Her early body of work included self-produced folk and experimental tracks. However, it wasn't until he started recording with the Buchla Music Easel that he began to seriously explore modular/electronic music.
 
-This recording was later released as a work, titled Tides: Music for Meditation and Yoga. Wind chimes, rustling trees, birdsong, water sounds, small natural noises - this work combines environmental sounds/field recordings with modular electronic waveforms.
+This recording was later published in the form of Tides: Music for Meditation and Yoga. Wind chimes, rustling trees, birdsong, water sounds, small natural noises - this work combines environmental sounds/field recordings with modular electronic waveforms.
 
 At this stage, it has not yet created a huge sensation. However, the direction of "modular + natural sounds/environmental sounds + spatiality" was already clear, and the underlying feeling of her music was emerging.
 
@@ -85,7 +85,7 @@ The real turning point was the album *EARS* released in 2016. In this work, whil
 
 The coldness of electronic sounds, the softness of organic instruments, the fluctuation of voices, and natural noises all intertwine to create a dreamy and lively sound that resembles a "futuristic jungle."
 
-With this work, she went from being a simple modular experimenter to a painter who uses modular objects to depict the organic world, and gained attention from many listeners and critics.
+With this work, she went from being a mere modular experimenter to a painter who uses modular objects to depict the organic world, and gained attention from many listeners and critics.
 
 ---
 
@@ -105,7 +105,7 @@ With this work, she went beyond the prejudice that ""electronic music = cold mec
 
 The sound that has matured over the years since 2017 reaches new horizons with the 2020 album *The Mosaic of Transformation*.
 
-In this work, she views modular synths as ""vibration mediating devices," ""an extension of the body," and ""a point of intersection between electricity and the body.'' In creating the piece, the idea was to conduct electricity along with daily movement, breathing, and physical sensations - in other words, the intention was not to simply make the modular sound, but to "feel" the vibrations with your body.
+In this work, she views modular synths as ""vibration mediating devices," ""an extension of the body," and ""a point of intersection between electricity and the body.'' In creating the piece, the idea was to conduct electricity along with daily movements, breathing, and physical sensations - in other words, the intention was not to simply make the modular sound, but to "feel" the vibrations with your body.
 
 As a result, this work has a sound that prioritizes "waves," "fluctuations," "spatial sensation," and "physical sensation" rather than structure or form. Droney silences, rolling pads, whispering voices, and layers of enveloping synths resonate across organic and electronic, physical and electric, time and space.
 

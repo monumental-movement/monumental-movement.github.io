@@ -20,7 +20,7 @@ title: '[Column] Strings that directly convey emotions and thoughts — Guitaris
 
 Text: mmr｜Theme: Explaining the world"s and Japan"s leading guitarists from the perspective of era, genre, technique, and philosophy
 
-The guitar is more than just a musical instrument; in the history of music since the 20th century, it has functioned as an extension of the body that directly conveys emotions and thoughts. The moment your fingers touch the strings, the sound is generated from the vibrations of your fingers and reaches the world through amplifiers and effectors. The tone produced by a guitar acts like a mirror, reflecting a person's emotions, mental state, and even cultural background.
+The guitar is more than just a musical instrument; in the history of music since the 20th century, it has functioned as an extension of the body that directly conveys emotions and ideas.弦に指を触れる瞬間、音は手指の振動から生まれ、アンプやエフェクターを通じて世界に届く。 The tone produced by a guitar acts like a mirror, reflecting a person's emotions, mental state, and even cultural background.
 
 The image of a guitarist is different between Japan and the world. In the United States and the United Kingdom, blues and rock have become the foundation, and the genre has evolved into a mainstream one. However, Japan has experienced a more complex and free-flowing development, from the postwar electric boom to underground noise, improvisation, and post-rock. The uniqueness of Japanese guitars emerges at the intersection of mainstream technique and underground destructive expression.
 
@@ -42,9 +42,9 @@ color: #fff;
 
 # II. World Edition: The moment when the guitar started a revolution
 
-## 1. Rock flashpoint (1950s-60s)
+## 1. ロックの発火点（1950〜60年代）
 
-**Chuck Berry** built the backbone of rock"n"roll through the fusion of rhythm guitar and phrases. The cutting with his right hand forms the basis of a dance beat, while the phrases with his left hand draw a unique melody even though they are derived from blues. Berry's music showed that the electric guitar could become a symbol of youthful rebellion and freedom.
+**Chuck Berry**は、リズムギターとフレーズの融合によりロックンロールの骨格を築いた。 The cutting with his right hand forms the basis of a dance beat, while the phrases with his left hand draw a unique melody even though they are derived from blues. Berryの音楽は、エレキギターが若者の反抗や自由を象徴する手段になることを示した。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aKCt8ssC7cs?si=Mt9LbNIUi7bufZ-6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -65,9 +65,9 @@ color: #fff;
 
 ## 2. Experimental and rebellious guitarism (1970s-80s)
 
-**Robert Fripp (King Crimson)** established an innovative approach to progressive rock, using complex rhythms and improvised layers.
+**Robert Fripp（King Crimson）**は、複雑なリズムと即興レイヤーを駆使し、プログレッシブロックにおける革新的アプローチを確立した。
 
-**Thurston Moore & Lee Ranaldo (Sonic Youth)** actively incorporate serendipity into their work, using specially tuned and prepared guitars. Using noise as a means of expression, he showed that the guitar is a tool for depicting not only melodies and chords, but also space and emotion.
+**Thurston Moore & Lee Ranaldo (Sonic Youth)** actively incorporate serendipity into their work, using specially tuned and prepared guitars.ノイズを表現手段の一部とし、ギターが旋律や和音だけでなく空間や感情を描く道具であることを示した。
 
 **Glenn Branca** has assembled a guitar orchestra that allows for the expression of urban acoustics. The layered structure of harmony and noise created by multiple guitar players had a major influence on later shoegaze and noise rock.
 
@@ -75,7 +75,7 @@ color: #fff;
 
 ---
 
-**Fred Frith** emphasizes contingency in improvisation and maximizes the physical possibilities of the guitar. By manipulating the pick, strings, and body in a variety of ways, he created expressions that went beyond traditional techniques.
+**Fred Frith**は即興演奏で偶発性を重視し、ギターの物理的可能性を最大化。ピック、弦、ボディを多様に操作し、従来の技法を超えた表現を行った。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M2WSeZZV6iQ?si=6HCr9hcptnQiKByT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -83,11 +83,11 @@ color: #fff;
 
 ## 3. Between silence and roar (1990s-2000s)
 
-**Kevin Shields (My Bloody Valentine)** is a representative of shoegaze using a roaring wall. He created a new style that spatializes sound through feedback and modulation and expresses emotion through the "texture" of sound.
+**Kevin Shields（My Bloody Valentine）**は、轟音の壁を用いたシューゲイザーの代表。 He created a new style that spatializes sound through feedback and modulation and expresses emotion through the "texture" of sound.
 
-**David Pajo (Slint/Papa ​​M)** is a pioneer of post-rock that structures silence. The combination of delicate arpeggios and rhythms creates a contrast between stillness and movement, creating a narrative sound world.
+**David Pajo（Slint / Papa M）**は、静寂を構造化するポストロックの先駆。 The combination of delicate arpeggios and rhythms creates a contrast between stillness and movement, creating a narrative sound world.
 
-**Jim O"Rourke** fuses experimental sounds and melody to develop guitar work that crosses genres. This made it possible to achieve both acoustics and singing spirit.
+**Jim O"Rourke**は、実験音響とメロディを融合させ、ジャンル横断的なギターワークを展開。 This made it possible to achieve both acoustics and singing spirit.
 
 **Godspeed You! Black Emperor** treats the guitar as a tool for epic poetry, painting urban and social landscapes with long songs.
 
@@ -192,7 +192,7 @@ The guitar is not just a musical instrument, but a device for self-expression.
 
 - **Pedal board philosophy**: Sound creation = ego design. Each pedal becomes an extension of the player's personality.
 - **Loop/Glitch/DAW**: Extended "finger memory". A single performer can perform orchestral expression.
-- **Seiichi Yamamoto x Jim O"Rourke**: Bridging the Kyoto underground to the world. Influenced improvisational and experimental music both domestically and internationally.
+- **Seiichi Yamamoto x Jim O"Rourke**: Bridging the world from the Kyoto underground. Influenced improvisational and experimental music both domestically and internationally.
 
 Keiji Haino treats the guitar as an extension of his body and mind, and is a presence that shakes the listener's senses with the extremes of sound. The trinity of improvisation, destruction, and expression becomes an important coordinate in the history of Japanese underground guitar.
 

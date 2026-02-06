@@ -63,7 +63,7 @@ What is distinctive about it is its structure, which overlays tonal changes and 
 
 ### Klaus Schulze
 
-After participating in Tangerine Dream and Ash Ra Tempel, Klaus Schulze will focus on his solo career. His works are characterized by longer sustained notes, gradual changes, and improvisation. In many cases, the rhythm does not appear clearly, and the transition of tones itself forms the structure.
+After participating in Tangerine Dream and Ash Ra Tempel, Klaus Schulze will focus on his solo career. His works are characterized by longer sustained notes, gradual changes, and improvisation. In many cases, the rhythm does not appear clearly, and the transition of the timbre itself forms the structure.
 
 From the beginning, Schulze worked in a private studio, practicing multi-layered recordings using numerous synthesizers and tape equipment. This production form also influenced later ambient and drone music.
 
@@ -83,7 +83,7 @@ The most distinctive element of the Berlin School is the repeated sound pattern 
 
 While traditional pop and rock music is based on song structures lasting several minutes, it is not uncommon for a single song in Berlin School music to run for over 20 minutes. This is a form made possible by the development of improvisational performance and recording technology.
 
-### Sound design
+### Tone design
 
 The instability and fluctuation of analog synthesizers became part of the sonic aesthetic of the Berlin School. The minute deviations caused by temperature changes and voltage fluctuations give an organic look to mechanical repetition.
 
@@ -113,7 +113,7 @@ In the 21st century, modular synthesizers are being reevaluated. The Berlin Scho
 
 ## Chapter 7 Detailed analysis of technical foundations
 
-In this chapter, we will organize the specific technical elements that established the Berlin School by dividing them into three layers: musical instruments, control systems, and recording techniques.
+This chapter organizes the specific technical elements that established the Berlin School by dividing them into three layers: musical instruments, control systems, and recording techniques.
 
 ### Analog modular synthesizer
 
@@ -157,7 +157,7 @@ From the late 1970s onwards, Berlin School composers expanded their activities i
 
 The Berlin School method of film music is characterized by its emphasis on spatial formation rather than melody-driven music. Rather than illustrating a story, music plays a role in constructing a psychological and physical environment.
 
-This practice was inherited in later cinematic ambient and sound design-oriented electronic music.
+This practice was inherited by later cinematic ambient and sound design-oriented electronic music.
 
 ---
 

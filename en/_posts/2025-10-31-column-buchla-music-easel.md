@@ -19,7 +19,7 @@ title: '[Column] Buchla Music Easel and the philosophy of "solitary performance"
 Text: mmr｜Theme: Music Easel, which even in modern times is praised by many live artists as the "smallest orchestra that can be played alone"
 
 
-The **Buchla Music Easel**, introduced in 1973, is a portable version of the famous analog modular **Buchla 200 series**.
+The **Buchla Music Easel**, which appeared in 1973, is a portable version of the famous analog modular **Buchla 200 series**.
 Designer **Don Buchla** called the instrument a "portable composition environment."
 It was not just a small modular, but was conceived as a ""personal improvised device.''
 
@@ -234,5 +234,13 @@ timeline
     2022 : 新世代アーティストによるBuchlaライブ・ムーブメント拡大
 
 </div>
+
+---
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ehLVOMR8Txw?si=Pp3UIOfRvj41tH3D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

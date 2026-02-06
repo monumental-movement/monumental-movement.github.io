@@ -125,7 +125,7 @@ Japanese synth pop has matured as a "translation" rather than a mere imitation.
 
 YMO's impact spread across the ocean to many artists.
 Daft Punk praised Ryuichi Sakamoto's sound design in interviews, and their sense of melody is clearly influenced by Japanese minimalism.
-Radiohead's ""Kid A" is a work that further introspectively develops the idea of ​​""depicting emotions with electronic sounds" presented by YMO.
+Radiohead"s ""Kid A" is an introspective development of YMO"s idea of ​​""depicting emotions with electronic sounds."
 "Everything in Its Right Place" is cold and beautiful, as if the ghosts of "BGM" and "Technodelic" have come back to life.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eOIHri4Jr-g?si=bcq15iuGffAiyAMv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -141,7 +141,7 @@ Behind this is a continuous technological aesthetic from YMO to Perfume.
 
 ---
 
-## Chapter 6 Technology and Emotions: When Machines Depict Humans
+## Chapter 6 Technology and emotions: When machines draw humans
 
 Sequencer, sampler, autotune.
 These were not tools for ""accuracy," but brushes used to highlight ""human ambiguity."
@@ -192,7 +192,7 @@ Synthpop is both the "sound of the future" and the "sound of nostalgia for the p
 Why are we so moved by the cold electronic sounds of the 1980s? That's because they contain the ""temperature of a time when people believed in the future.''
 Even now, as digital technology has evolved and AI has begun to compose music, humans continue to search for ""self'' within the sounds of machines.
 
-The ""relationship between technology and emotion'' that Ryuichi Sakamoto continued to ask until the end is now once again a front-line theme.
+The ""relationship between technology and emotion'', which Ryuichi Sakamoto continued to ask until the end, is now once again a front-line theme.
 And somewhere in that lineage lies YMO"s electronic smile, Perfume"s polyrhythms, and Charli XCX's pixelated tears.
 
 The future is always ringing in electronic dreams.
@@ -214,8 +214,8 @@ flowchart TD
     A1997["1997: Daft Punk "Homework"<br>French Synth Revival"]
     A2003["2003: Cornelius' Point"<br>Presenting "ambient synth pop"]
     A2008["2008: Perfume "GAME"<br>Million hit in Japan, spread around the world"]
-    A2012["2012: Grimes' Visions"<br>Towards the era of DIY synth pop"]
-    A2016["2016: Charli XCX "Vroom Vroom EP"<br>The beginning of hyper pop"]
+    A2012["2012: Grimes' Visions" <br>Towards the era of DIY synth pop"]
+    A2016["2016: Charli XCX "Vroom Vroom EP"<br>The beginning of hyperpop"]
     A2020["2020: Yaeji "What We Drew"<br>The rise of the neo-synth generation from Asia"]
     A2023["2023: Caroline Polachek "Desire, I Want To Turn Into You"<br>Towards the extreme north of maturity"]
 

@@ -60,7 +60,7 @@ At the 1986 tournament, he performed a routine that emphasized scratching and be
 
 From this moment on, the world began to share the value that ""turntablism, including scratching, decides the game.''
 
-## 2-2　1988-1990: Towards the era of sampling, beat juggling, and composition
+## 2-2　1988-1990: Toward the era of sampling, beat juggling, and composition
 After Cheese, DJs didn't just play songs;
 - Manually reconfigure beats
 - chop the pieces
@@ -99,7 +99,7 @@ In the mid-2000s, when **DVS (Digital Vinyl System)** became popular, there was 
 In 2006, the use of DVS in various formats was allowed, and the tournament, which had previously been limited to analog, accepted the style of ""manipulating digital sound sources with a turntable.''
 
 This results in
-- Freely use your own edited sound sources
+- Free use of original sound sources
 - Greatly expands the range of routine configurations
 - Increased tone play and melodic expression
 Such an evolution is taking place.

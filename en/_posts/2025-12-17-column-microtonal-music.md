@@ -243,7 +243,7 @@ This is established not through intellectual understanding but through repeated 
 Microtonal music does not form a single genre.
 
 * Experimental music
-* electronic music
+* Electronic music
 * Inside Jazz/Pop
 * Video/Installation
 

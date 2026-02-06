@@ -155,7 +155,7 @@ He performs in a wide range of genres, including not only jazz, but also easy li
 
 ### Encounter and relationship with Enoch Light
 
-- **Grand Award → Regular guitarist during Command Records**
+- **Grand Award → Regular guitarist during the Command Records period**
 
 When Enoch Light founded Grand Award and Command, he assembled New York's top session talent. Among them, the regular guitar player is Tony Mottola.
 

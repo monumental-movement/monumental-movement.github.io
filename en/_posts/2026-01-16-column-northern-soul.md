@@ -47,7 +47,7 @@ color: #fff;
 
 The background to the birth of Northern Soul was the regional disparities that plagued British society in the 1960s and the transformation of youth culture. In the south, centered on London, mod, psychedelic, and later rock culture became visible, while in the industrial metropolitan areas of the north, there was a different kind of interest in black American music.
 
-In cities such as Manchester, Wigan, Blackpool and Sheffield, a culture of working-class young people flocking to clubs on weekend nights and dancing for long hours took hold. There, songs that no one knew but were overwhelmingly danceable were more valuable than the latest hits.
+In cities such as Manchester, Wigan, Blackpool and Sheffield, a culture of working-class young people flocking to clubs on weekend nights and dancing for long hours took root. There, songs that no one knew but were overwhelmingly danceable were more valuable than the latest hits.
 
 What is important in this context is the physical and psychological distance between northern England and America. Soul music, which originated in the American South and Detroit, resonated more strongly with the sensibilities of young people in the North than in London. This is because themes such as labor, oppression, and solidarity were shared as daily sensibilities.
 
@@ -64,7 +64,7 @@ The musical foundation of Northern Soul lies in soul music produced in America. 
 
 A British club DJ unearths works by unknown artists recorded in Detroit, Chicago, Los Angeles, Philadelphia, and even southern regions such as Alabama and Texas. Although these songs never charted in the United States, they had the power to set dance floors ablaze in northern England.
 
-DJs went directly to the United States to make purchases, finding inventory hidden in the backs of warehouses, radio stations, and record stores. As a result, the rarity of records in which no one else had them became valuable, and a "one-of-a-kind culture" unique to Northern Soul was formed.
+DJs went directly to the United States to make purchases, scouring inventory hidden in the backs of warehouses, radio stations, and record stores. As a result, the rarity of records in which no one else had them became valuable, and a "one-of-a-kind culture" unique to Northern Soul was formed.
 
 > Northern Soul was a cross-border culture that was established through the rediscovery and reappraisal of black American music.
 

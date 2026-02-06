@@ -18,7 +18,7 @@ Text: mmr｜Theme: The life and music of Fela Kuti
 
 
 Fela Aníkúlápó Kútì (1938–1997) was a Nigerian musician, activist, and founder of Afrobeat. Their unique sound, which blends jazz, funk, highlife, and Yoruba music, had an immense influence on world music in the second half of the 20th century.
-His music was not just entertainment, but a "political statement" denouncing military rule and injustice, and a symbol of resistance despite numerous arrests and violence.
+His music was not just entertainment, but a political statement denouncing military rule and injustice, and a symbol of resistance despite numerous arrests and violence.
 
 ---
 
@@ -138,7 +138,7 @@ A harsh criticism of world leaders. It also attracted international attention.
 | 1973 | Gentleman | Criticism of colonialism and the perfection of Afrobeat | [Amazon](https://amzn.to/3IFAYFV) |
 | 1975 | Expensive Shit | A masterpiece that takes advantage of a famous false accusation case | [Amazon](https://amzn.to/3IVK6WS) |
 | 1977 | Zombie | Sharply criticizes the military government, resulting in the attack on Kalakuta | [Amazon](https://amzn.to/46VWCh7) |
-| 1989 | Underground System | Mature Afrobeat from the 80's in Egypt | [Amazon](https://amzn.to/4nWGXVE) |
+| 1989 | Underground System | Egypt 80's mature Afrobeat | [Amazon](https://amzn.to/4nWGXVE) |
 
 ---
 
@@ -210,6 +210,14 @@ Fela Kuti was not only the "father of Afrobeats" but also a symbol of political 
 If you want to learn more about Afrobeat, we recommend starting with ""Gentleman," ""Expensive Shit," and ""Zombie.''
 
 The words and rhythms of Fela still echo in the breezes of Lagos and on the stages of the world.
+
+---
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OoyGKEqfyZw?si=A3wzzGbNKrxU-Xfl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

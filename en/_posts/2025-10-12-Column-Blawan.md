@@ -67,7 +67,7 @@ It was the physical sensation of ""playing'' electronic sounds that made his sou
 
 In 2012, the world club scene shook.
 "Why They Hide Their Bodies Under My Garage."
-This single song made Blawan's name definitive.
+This one song made Blawan's name definitive.
 
 The title is disturbing.
 The distorted vocal sample sounds like a ghost groaning in a basement.
@@ -101,7 +101,7 @@ For a moment when everything melts together, music becomes "substance."
 
 ---
 
-## Chapter 4 Wet Will Always Dry——A record of emotions without emotions
+## Chapter 4 Wet Will Always Dry——Record of emotions without emotions
 
 In 2018, Blawan finally released a full-length album, Wet Will Always Dry.
 As the title suggests, **Wet, Dry. **
@@ -347,7 +347,7 @@ flowchart TD
 | Oscillator | **Verbos Complex VCO / Plaits** | Main oscillation source | Combination of analog distortion and digital particles |
 | Drum Synth | **Moog DFAM** | Metallic percussion | The core of Blawan's "industrial noise" |
 | FX Chain | **Analog Heat / Mimeophon / BigSky** | Texture adjustment | Build space with drive and reverb |
-| Mixer      | **WMD Performance Mixer**            | リアルタイム構築   | Karennライブにも使用        |
+| Mixer | **WMD Performance Mixer** | Real-time construction | Also used for Karenn live |
 | Recorder | **[RME Fireface](https://amzn.to/42yLG7Y) + [Ableton](https://amzn.to/4h6gGC9)** | Final recording | "One-shot recording" philosophy without overdubs |
 
 ---
@@ -381,7 +381,7 @@ That contradiction is the reason for his existence.
 
 🔗 [[Column] The Golden Age of UK Techno](https://monumental-movement.jp/Column-90s-UKTechno)
 
-🔗 [[Column] From the origins of techno to the present - A chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[Column] From the origins of techno to the present - a chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)
 
 🔗 [The genealogy and present of German Techno - the aesthetics of sound spreading from Berlin to the world](https://monumental-movement.jp/Column-German-Techno)
 

@@ -18,7 +18,7 @@ title: '[Column] Glitch Hop—Low frequency culture formed by fragmented beats'
 
 Text: mmr｜Theme: Background to the establishment of Glitch Hop, acoustic characteristics, production methods of representative artists, beat analysis, equipment and production environment, relationship with surrounding genres, and subsequent influence
 
-Glitch Hop is a trend of electronic music based on the beat structure of hip-hop, combining glitch processing, precise micro-editing, and low-centered bass design. From the late 2000s to the early 2010s, it became apparent as the digital production environment became more sophisticated, and it became established as functional music that cuts across club, listening, and video applications. Although the genre name is a compound word of "Glitch" and "Hip Hop," it is not just a mixture of techniques, but a production philosophy centered on beat deconstruction and reconstruction.
+Glitch Hop is a trend of electronic music that is based on the beat structure of hip-hop and combines glitch processing, precise micro-editing, and low-centered bass design. From the late 2000s to the early 2010s, it became apparent as the digital production environment became more sophisticated, and it became established as functional music that cuts across club, listening, and video applications. Although the genre name is a compound word of "Glitch" and "Hip Hop," it is not just a mixture of techniques, but a production philosophy centered on beat deconstruction and reconstruction.
 
 ---
 

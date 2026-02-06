@@ -112,6 +112,16 @@ The next time you feel like ""I want to forget about time and drift away'', I ho
 
 ---
 
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ovpFgRFjRy8?si=ovvp2_KBD9HDzNJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+
 ### Related columns
 
 

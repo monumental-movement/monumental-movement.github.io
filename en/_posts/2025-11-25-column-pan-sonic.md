@@ -43,14 +43,14 @@ color: #fff;
 
 ### Geographical conditions of Finland
 When Pan Sonic was formed in Finland in the early 90s, the electronic music scene wasn"t that huge, and club culture was limited. However, Helsinki"s underground formed its own cultural sphere, a mix of industrial, noise, and DIY sounds.
-ミカ・ヴァイニオは元々インダストリアル／ノイズ寄りの活動を行っており、90年代初頭には電気的な音響実験に傾倒していた。 Ilpo Vaisanen similarly moved between the realms of DIY electronics and performance art.
+Mika Vainio was originally active in the industrial/noise genre, and in the early 1990s he turned to electrical sound experiments. Ilpo Vaisanen similarly moved between the realms of DIY electronics and performance art.
 
 ### Debut under the name Panasonic
-Around 1993, the two began collaborating under the name **Panasonic**, and released their first sound source in 1994.機材の多くは改造したアナログ回路、フィードバック・システム、発振器（オシレーター）で構成され、既存のクラブミュージックの形式とは完全に異なる**物理的な電子振動**が主成分だった。
+Around 1993, the two began collaborating under the name **Panasonic**, and released their first sound source in 1994. Much of the equipment consisted of modified analog circuits, feedback systems, and oscillators, and the main component was ""physical electronic vibrations'' that were completely different from existing forms of club music.
 In the music scene of the time, there were few who presented electroacoustic minimalism in such a pure form.
 
 ### Name issue with Matsushita Electric
-In 1998, the unit name was changed to **Pan Sonic** because it conflicted with Panasonic's trademark.この名称変更は活動に大きな影響を与えなかったが、彼らの作品が国際的に広く知られる転機の一つとなったのは確かである。
+In 1998, the unit name was changed to **Pan Sonic** because it conflicted with Panasonic's trademark. Although this name change did not have a major impact on their activities, it was certainly one of the turning points in their work becoming widely known internationally.
 
 ---
 

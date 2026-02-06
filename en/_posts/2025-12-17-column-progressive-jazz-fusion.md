@@ -52,13 +52,13 @@ During this period, many jazz musicians introduced electric pianos, electric bas
 
 ### Formation and basic philosophy of the band
 
-Weather Report was formed in 1970 and prioritized the sonic integrity of the entire ensemble over the excellence of individual soloists. The traditional division of roles between theme, accompaniment, and improvisation was intentionally blurred, and the pieces were designed as processes that generate and transform over time rather than fixed forms.
+Weather Report は1970年に結成され、個々のソリストの卓越性よりも、アンサンブル全体の音響的統合を最優先事項とした。テーマ、伴奏、即興という従来の役割分担は意図的に曖昧化され、楽曲は固定された形式というよりも、時間の中で生成・変容するプロセスとして設計された。
 
-This idea is distinctive in that improvisation is viewed as ""sound production by a group" rather than ""individual expression." Each instrument moves away from its fixed role as the main melody or accompaniment, and instead functions as an element of timbre, rhythmic density, and spatial arrangement.
+この思想は、即興を「個人表現」ではなく「集団による音響生成」として捉える点に特徴がある。各楽器は主旋律や伴奏といった固定的役割を離れ、音色・リズム密度・空間配置の一要素として機能する。
 
 ### Structural features and time design
 
-Weather Report's song structures often eschew a linear format of thematic presentation and alternation of solos, instead adopting a cyclical and variable structure. Short motifs and chord fragments are repeated, and the rhythm arrangement, range, and timbre change each time, resulting in a gradual transformation of the whole piece.
+Weather Report の楽曲構造は、主題提示とソロの交代という直線的形式を回避し、循環的かつ可変的な構造を採用することが多い。短いモチーフやコード断片が反復され、その都度リズム配置や音域、音色が変化することで、全体が漸進的に変容していく。
 
 <div class="mermaid">
 flowchart TD
@@ -83,7 +83,7 @@ The keyboard uses an electric piano or synthesizer, and rather than presenting a
 
 The Mahavishnu Orchestra began operations in the early 1970s and was characterized by extremely fast tempos, complex time signature structures, and strictly composed unison. While Weather Report emphasized fluid generation, Mahavishnu Orchestra contrasts with its emphasis on constructability and reproducibility.
 
-The improvisation here develops within a composed framework rather than in complete freedom. Each performer is required to perform within highly technical constraints, and the ensemble as a whole has the integrity of a precision machine.
+The improvisation here takes place within a composed framework rather than complete freedom. Each performer is required to perform within highly technical constraints, and the ensemble as a whole has the integrity of a precision machine.
 
 ### Rhythmic structure and form
 
@@ -138,7 +138,7 @@ timeline
 
 ## Instrument technology and studio technology
 
-The spread of electric instruments had a direct impact not only on performance techniques but also on recording methods. Multi-track recording made it possible to create sound arrangements that would not be possible with simultaneous performance, and effect processing and localization promoted the awareness of constructing the ensemble as a single sonic sculpture.
+The spread of electric instruments had a direct impact not only on performance techniques but also on recording methods.マルチトラック録音は、同時演奏では不可能な音響配置を可能にし、エフェクト処理や定位操作は、アンサンブルを一つの音響彫刻として構築する意識を促進した。
 
 ---
 
@@ -150,7 +150,7 @@ Progressive jazz/fusion left a legacy of thinking that linked structural design 
 
 ## Conclusion
 
-Progressive Jazz/Fusion was more of a methodology than a style, a collection of practices aimed at redesigning musical structure. The collective sonic production of Weather Report and the architectural complexity of Mahavishnu Orchestra represent the opposite ends of this trend. By understanding the two side by side, the essence of progressive jazz/fusion emerges more three-dimensionally.
+Progressive Jazz / Fusion は、様式というよりも方法論であり、音楽構造の再設計に向けた実践の集積であった。Weather Report に見られる集合的音響生成と、Mahavishnu Orchestra における構築的複雑性は、この潮流の両極を示している。両者を併置して理解することで、プログレッシブジャズ／フュージョンの本質がより立体的に浮かび上がる。
 
 ---
 

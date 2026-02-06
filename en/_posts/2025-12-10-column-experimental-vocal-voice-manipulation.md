@@ -20,7 +20,7 @@ title: '[Column] Experimental Vocal / Voice Manipulation — History and techniq
 
 Text: mmr｜Theme: Experimental vocals that process, generate, and rearrange the voice as a material/history, techniques, representatives, and contemporary trends of voice manipulation
 
-In the 21st century, the singing voice has gone from simply conveying a melody to an editable acoustic material. With the availability of tools such as recording/editing technology, effects, sampling, real-time processing, and generation technology, the voice has acquired a diverse role as an instrument, texture, spatial description, and even data resource. Artists like Bjork and Imogen Heap, who use their own voices as the main material for their experiments, and expressions created by technological breakthroughs such as granular synthesis and AI-based resynthesis, have greatly expanded the possibilities of the voice.
+In the 21st century, the singing voice has gone from simply conveying melodies to an editable acoustic material. With the availability of tools such as recording/editing technology, effects, sampling, real-time processing, and generation technology, the voice has acquired a diverse role as an instrument, texture, spatial description, and even data resource. Artists like Bjork and Imogen Heap, who use their own voices as the main material for their experiments, and expressions created by technological breakthroughs such as granular synthesis and AI-based resynthesis, have greatly expanded the possibilities of the voice.
 
 ---
 
@@ -46,7 +46,7 @@ By the mid-20th century, recording and tape manipulation provided the first majo
 
 ### 1-2. The era of synthesis and analog equipment
 
-Since the 1970s, vocoders and analog synthesizers have become popular, and crossovers between voices and synthesized sounds have been created. The vocoder applied the spectral envelope of the voice to another carrier sound, making it possible to fuse the human voice with electronic sounds. As a result, robotic/mechanical tones have become widely available.
+Since the 1970s, vocoders and analog synthesizers have become popular, giving rise to crossovers between voices and synthesized sounds. The vocoder applied the spectral envelope of the voice to another carrier sound, making it possible to fuse the human voice with electronic sounds. As a result, robotic/mechanical tones have become widely available.
 
 ---
 

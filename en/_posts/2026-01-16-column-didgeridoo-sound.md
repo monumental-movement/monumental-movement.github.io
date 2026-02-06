@@ -67,7 +67,7 @@ In Western Arnhem Land, there were many relatively short and thick instruments, 
 
 In indigenous societies, the names of musical instruments themselves are associated with land rights and stories. The Yolngu people of East Arnhem Land call the didgeridoo ""yidaki,'' a name that refers to a specific production method and tone. The yidaki is used only in ceremonies that belong to the Yolngu song series.
 
-In the western region, there are multiple names such as ""Mago", ""Panpi", and ""Bumbu'', and the distribution roughly coincides with language boundaries. The different names have the function of clearly distinguishing the people who can perform, the situations in which they are used, and the different musical roles.
+In the western region, there are multiple names such as ""Mago", ""Panpi", and ""Bumbu'', and the distribution roughly coincides with language boundaries. The different names have the function of clearly distinguishing the people who can perform, the situations in which it is used, and the musical roles.
 
 > Names are not labels, but norms that include cultural constraints.
 
@@ -95,11 +95,11 @@ Making musical instruments is also an important area of ​​knowledge here, an
 
 ## Gender/Age and Performance Standards
 
-多くの地域でディジュリドゥは男性の楽器とされてきたが、その理由は生物学的ではなく儀礼的区分に基づく。 Women were responsible for other singing and percussion elements, and there was a division of roles in the music as a whole.
+In many regions, the didgeridoo has been considered a male instrument, but this is based on ritual rather than biological distinctions. Women were responsible for other singing and percussion elements, and there was a division of roles in the music as a whole.
 
 There were also age restrictions, and performances with specific song series were not allowed unless certain rites of coming of age were passed. As a result, music naturally became a device for intergenerational education.
 
-> The performance qualification was not an exclusion system, but a system that indicated where responsibility lies.
+>Performance qualification was not an exclusion system, but a system that indicated where responsibility lies.
 
 ---
 
@@ -107,7 +107,7 @@ There were also age restrictions, and performances with specific song series wer
 
 Circular breathing is a widely shared technique, but its use varies by region. In the east, the stability of sustained sounds is emphasized, while in the west, intermittent rhythmic changes are prominent.
 
-また、声を同時に発する技法も地域差があり、低い唸り声を加える例や、舌音を強調する例などが確認されている。 These are not improvised, but are stylized for each song series.
+Additionally, there are regional differences in the techniques used to make simultaneous voices, such as adding a low growl or emphasizing tongue sounds. These are not improvised, but are stylized for each song series.
 
 > The difference in technique is not the improvisational nature, but the difference in the tradition system.
 
@@ -129,7 +129,7 @@ Since the 1970s, a cultural revival has progressed with the rise of the indigeno
 
 What is important is that the ownership of performance and teaching has returned to the indigenous people themselves. Decisions about what music to make public and what to keep internal are now made on a community-by-community basis.
 
-> 主体性の回復は、音楽の意味を再構築した。
+> The restoration of subjectivity has restructured the meaning of music.
 
 ---
 
@@ -139,7 +139,7 @@ What is important is that the ownership of performance and teaching has returned
 <div class="mermaid">
 flowchart TD
     A[BC to Middle Ages Wind instrument culture formed in the north] --> B[18th-19th century colonization]
-    B --> C[20世紀初頭 民族誌記録]
+    B --> C[Early 20th century ethnographic records]
     C --> D[1970s Cultural Revival]
     D --> E[21st Century International Reappraisal]
 </div>
@@ -157,7 +157,7 @@ flowchart LR
     Land[land] --> Language[language]
     Language --> Ritual[ritual]
     Ritual --> Music[music]
-    Music --> Instrument[ディジュリドゥ]
+    Music --> Instrument[didgeridoo]
     Instrument --> Land
 </div>
 
@@ -175,13 +175,13 @@ For example, songs on the Arnhem Land coast and inland areas differ in tempo, rh
 
 These differences are not ""misinterpretations'' but are legitimate forms of inheritance in each land. The same song series has a structure that includes multiple correct answers.
 
-> 歌系列は統一性よりも、関係性によって成立している。
+> Song series are established based on relationships rather than unity.
 
 ---
 
-## 歌・踊り・ディジュリドゥの役割分化
+## Role differentiation of singing, dancing, and didgeridoo
 
-It is important to note that the didgeridoo is not always central to tribal comparisons. In some regions, singing takes the lead, while in others, dancing determines the structure. In this context, the didgeridoo changes its role.
+It is important to note that the didgeridoo is not always central to tribal comparisons. In some regions, singing takes the lead, while in others, dancing determines the structure. In this context, the didgeridoo's role changes.
 
 In parts of East Arnhem Land, the didgeridoo functions as a stable support that keeps the pitch as low as possible and matches the rhythm of the lyrics. In contrast, in the West, the didgeridoo provides rhythmic cues and guides the dancers' movements.
 
@@ -191,7 +191,7 @@ In parts of East Arnhem Land, the didgeridoo functions as a stable support that 
 
 ## Musical representation seen in rock paintings
 
-北部オーストラリア各地の岩絵には、狩猟や儀礼の場面と並んで、長い管状の楽器を持つ人物像が描かれている。 These have been interpreted to refer to the didgeridoo or its predecessor.
+Rock art throughout northern Australia depicts human figures holding long, tubular instruments, as well as hunting and ceremonial scenes. These have been interpreted to refer to the didgeridoo or its predecessor.
 
 The depiction of musical instruments in rock art is more a symbol of ritual action than a realistic record. The body decorations and placement of the figures suggest that music was performed as a collective practice.
 
@@ -201,13 +201,13 @@ However, rock art is difficult to date, and cannot be used alone as evidence to 
 
 ---
 
-## 口承伝承としての音楽知識
+## Musical knowledge as an oral tradition
 
 In Aboriginal society, history and law were passed down orally rather than in written form. Music is its core medium, with lyrics, melody, and rhythm functioning as information units.
 
-ディジュリドゥの音型もまた、単なる伴奏ではなく、特定の祖先行為や土地の特徴を示す記号として扱われる。 Since these items lose their meaning when they are taken out of context, they have been avoided from being fully disclosed to the outside world.
+The didgeridoo's sound patterns are also treated not as mere accompaniment, but as symbols that indicate specific ancestral acts or characteristics of the land. Since these items lose their meaning when they are taken out of context, they have been avoided from being fully disclosed to the outside world.
 
-> 音楽は記憶装置であり、同時に選別装置でもあった。
+> Music was both a storage device and a sorting device.
 
 ---
 

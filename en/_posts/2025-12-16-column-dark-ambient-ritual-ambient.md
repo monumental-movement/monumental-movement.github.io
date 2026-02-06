@@ -28,7 +28,7 @@ The identifying elements of music, such as meter, melody, and instrumentality, r
 * Spatial reverberation
 *Unknown sound source
 
-Ritual Ambient is distinct in that it uses this Dark Ambient-like method while introducing a clear "progressive structure." Ritualism is established not through symbols, but through the arrangement of sounds and the design of their duration.
+Ritual Ambient is distinct in that it uses this Dark Ambient-like method while introducing a clear "progressive structure." Ritualism is not established through symbols, but through the design of the arrangement of sounds and their duration.
 
 
 ---

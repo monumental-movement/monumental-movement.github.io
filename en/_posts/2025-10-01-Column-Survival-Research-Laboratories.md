@@ -67,7 +67,7 @@ Currently: Leads SRL from its base in Petaluma, California.
 
 Role: Sound design, mechanical music (mainly from 1980s to 1990s)
 
-Achievements: Transformed robots into musical instruments, allowing machines to compose and perform music. Later, he became independent and formed "Mechanical Sound Orchestra (MSO)".
+Achievements: Converting robots into musical instruments, making it possible to compose and perform music by machines. Later, he became independent and formed "Mechanical Sound Orchestra (MSO)".
 
 Influence: Established SRL's sound that lies between "noise and music".
 

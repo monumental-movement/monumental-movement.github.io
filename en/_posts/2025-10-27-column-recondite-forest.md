@@ -16,7 +16,7 @@ title: '[Column] Recondite and forest bathing - When techno returns to the fores
 ## Prologue: A beat sinking into the forest
 
 
-Text: mmr | Theme: German minimal techno artist Recondite. The music allows you to hear the breathing of the forest in its artificial sequences. Here we explore the philosophical intersection of his work and forest bathing (Shinrin-yoku).
+Text: mmr | Theme: German minimal techno artist Recondite. In the music, you can hear the breathing of the forest in its artificial sequences. Here we explore the philosophical intersection of his work and forest bathing (Shinrin-yoku).
 
 Recondite――real name Lorenz Brunner.
 When many people hear his music for the first time, they feel a sense of ""loneliness" and ""tranquility."

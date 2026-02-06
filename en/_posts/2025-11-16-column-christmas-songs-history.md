@@ -230,3 +230,11 @@ D --> E[2020s Online streaming becomes standard]
 Christmas songs are not just seasonal music; they are a cultural phenomenon that reflects the changes in technology, social background, and music industry of the times. The coexistence of old and new songs, the distinctive expressions of each country, and the evolution of commercial strategies will continue to drive music culture.
 
 ---
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h7j6dI_pKA8?si=9PsTzYoSoUfSyJu5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

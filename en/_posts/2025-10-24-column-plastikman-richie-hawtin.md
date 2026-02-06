@@ -13,7 +13,7 @@ title: '[Column] Plastikman | Richie Hawtin - The depths of minimalism and the s
 ---
 
 
-## 序章：音の「空間」としての自己
+## Prologue: Self as a "space" of sound
 
 
 Text: mmr｜Theme: Thoughts on how Plastikman, who inherited the spirit of the second generation of Detroit techno, stripped down the sound to the utmost limit and sublimated it into an art that allows you to hear the "reverberation" of rhythm itself.
@@ -53,7 +53,7 @@ Then, in 1994, the album [""_Musik_"'] was released from the label NovaMute (htt
 > "Plastikman is a project that uses sound to visualize my own insides."
 > — Richie Hawtin
 
-The live shows around this time had red strobe lights flashing momentarily in the almost pitch-black venue, symbolizing the materialization of sound. Rather than dancing, the audience felt as if they were ""sinking'' into the sound.
+Live performances around this time had red strobe lights flashing momentarily in an almost pitch-black venue, symbolizing the materialization of sound. Rather than dancing, the audience felt as if they were ""sinking'' into the sound.
 
 #### Plastikman – Musik
 
@@ -294,7 +294,7 @@ This is because he knows better than anyone that just one rotation can change th
 | ---- | ------------- | --------------------------- | ----------------------- |
 | 1994 | Plastikman | **Musik** EP | The pinnacle of Acid Techno under the name Plastikman. |
 | 1998 | Plastikman | **Minus** EP | The first installment of Minus. Extreme minimal sound. |
-| 1999 | Magda | **Track 1** | A dark minimalist test piece.             |
+| 1999 | Magda | **Track 1** | Dark minimalist test piece.             |
 | 2000 | Richie Hawtin | **EX/EP** | Live remix before DE9.         |
 | 2001 | Plastikman | **DE9: Closer to the Edit** | Digital DJ revolution.               |
 | 2003 | Villalobos | **Allez-Allez** | Early Berlin influence from Minus.       |

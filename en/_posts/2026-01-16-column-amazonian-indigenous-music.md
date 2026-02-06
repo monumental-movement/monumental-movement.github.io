@@ -88,7 +88,7 @@ For some instruments, it may not even be possible to see them; only the sound is
 
 Rites of passage and healing use long, repetitive songs and rhythms. These changes the participants' state of consciousness and shift them from the everyday world to ritual time.
 
-Shamans communicate with spirits through song and seek out the causes of illness and disorder. Lyrics are often symbolic and have no direct meaning. What is important is not the content of the words, but the vibration and repetition of the sound itself.
+Shamans communicate with spirits through song and seek out the causes of illness and illness. Lyrics are often symbolic and have no direct meaning. What is important is not the content of the words, but the vibration and repetition of the sound itself.
 
 Music is a therapy, a medium, and a technique for crossing boundaries.
 

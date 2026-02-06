@@ -78,7 +78,7 @@ UK garage wasn't just music, it was supported by a network of media and club cul
 
 ### Main clubs
 - **Twice As Nice (London)**: A symbolic club where blacks, whites, and Asians meet.
-- **La Cosa Nostra (Soho)**: Many early 2-Step DJs played here.
+- **La Cosa Nostra (Soho)**: Played by many early 2-Step DJs.
 - **Sidewinder (national tour format)**: Expanded with MC culture.
 
 ### Pirate Radio Station
@@ -128,7 +128,7 @@ It is this diversity that creates the ""fluctuation'' of the rhythm.
 - **The DIY spirit of British cities**
 
 This intersection formed the UK's unique sonic identity.
-The UKG party was also a common space that transcended class and race, and served as a positive means of expression for young people in response to the social unrest at the time (riots, unemployment, policies under the Blair government).
+The UKG party was also a common space that transcended class and race, and served as a means of positive expression for young people in response to the social unrest at the time (riots, unemployment, policies under the Blair government).
 
 ---
 
@@ -187,5 +187,13 @@ E --> F[Future Garage]
 B --> G[Bassline]
 
 </div>
+
+---
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oOGxwbdWLJk?si=1iyadF3eBA63zHpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

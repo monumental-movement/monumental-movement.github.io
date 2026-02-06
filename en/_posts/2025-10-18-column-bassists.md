@@ -146,7 +146,7 @@ It blurred the line between club culture and live music.
 ---
 
 The delicate bass sounds of downy and toe sounds like a poem depicting a city night.
-There is not a scream, but a ""breathing stillness''.
+There is not a scream, but a ""breathing stillness.''
 
 ---
 

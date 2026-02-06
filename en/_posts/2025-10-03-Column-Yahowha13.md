@@ -75,7 +75,7 @@ After that, the members of the congregation dispersed, but it has been reevaluat
 Core lineup: Mainly Djin Aquarian (guitar), Octavius ​​Aquarian (drums), and Sunflower Aquarian (bass), along with other "Aquarian surname" believer musicians such as Lovely, Hom, Rhythm, Pythias, Aquarian.
 
 
-Initially released under the name "Father Yod & The Spirit of "76". After that, the notation such as "Ya Ho Wa 13 / Yahowha13 / YaHoWha13 / Yahowa 13" was used with some fluctuation.
+Initially released under the name "Father Yod & The Spirit of "76". After that, spellings such as "Ya Ho Wa 13 / Yahowha13 / YaHoWha13 / Yahowa 13" were used with some fluctuation.
 
 
 There was also a period when they were active in bands under different names such as "Savage Sons of Ya Ho Wa," "Fire, Water, Air," and "Yodship."
@@ -127,7 +127,7 @@ During this period, he was exploring the fusion of acoustic experiments and chan
 Ya Ho Wa 13 (1974), Savage Sons of Ya Ho Wa (1974), Penetration: An Aquarian Symphony (1974), I"m Gonna Take You Home (1974), To the Principles for the Children (1975), The Operetta (unreleased in 1975 → released later), etc.
 
 
-During this period, attempts were also made to incorporate more "structurality" and "musicality," with a style that included distorted guitar riffs, repeated phrases, and fragmented poetry and singing.
+During this period, attempts were also made to incorporate more "structurality" and "musicality," with a style that included a mixture of distorted guitar riffs, repetitive phrases, and fragmented poetry and singing.
 
 
 In particular, Penetration: An Aquarian Symphony is said to be the most popular and re-evaluated work in the band's history, and has been reissued many times.
@@ -276,7 +276,7 @@ Point: The core of self-recording. While recording at Garage, the band began to 
 
 [Penetration: An Aquarian Symphony (1974)](https://amzn.to/4hdcYa5)
 
-Songs and highlights: Contains long tracks such as "Yod He Vau He," "Ho," "Journey Thru An Elemental Kingdom," and "Ya Ho Wha." It is the crystallization of "ritualistic" and "psychedelic jam", and is the most easily available representative album with many reissues. It has a large soundscape-like dynamic, and we recommend starting here for first-time listeners.
+Songs and highlights: Contains long tracks such as "Yod He Vau He," "Ho," "Journey Thru An Elemental Kingdom," and "Ya Ho Wha." It is the crystallization of "ritualistic" and "psychedelic jam", and is the most easily available representative album with many reissues. It has a large soundscape-like dynamic, and we recommend that first-time listeners start here.
 
 
 ---
@@ -309,7 +309,7 @@ Fact: Many tracks are centered around chants, fragmented lines, and religious de
 
 Main motif:
 
-Repetition of "Ya Ho Wha / Ya Ho Wa / YHWH (consonantal similarity)" - divine name/sacred role.
+Repetition of "Ya Ho Wha / Ya Ho Wa / YHWH (consonantal similarity)" - Divine name/sacred role.
 
 
 References to the archetypal "travel/purification/elements (fire/water/air/earth)" — a symbol that also appears in the album/song titles.
@@ -378,7 +378,7 @@ Reissues vary in the degree of editing of the sound source depending on the publ
 
 ---
 
-### Listening highlights & recommended listening order (for beginners → intermediate → researchers)
+### Highlights & recommended listening order (beginner → intermediate → researchers)
 
 **Representative song/representative board (introductory)**: First go through Penetration: An Aquarian Symphony once.
 

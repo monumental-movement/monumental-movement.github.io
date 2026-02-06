@@ -149,7 +149,7 @@ It has become a **digital emotion** that resonates through the network.
 
 ## Chapter 7: The intersection of science and art - reproduction through sound
 
-Since the 2020s, "music therapy" has been reevaluated in the field of clinical psychology.
+Since the 2020s, "**music therapy**" has been reevaluated in the field of clinical psychology.
 Music has been scientifically proven to have an impact on emotional recovery during the treatment of patients with depression.
 
 - Relaxation effect due to increase in alpha waves

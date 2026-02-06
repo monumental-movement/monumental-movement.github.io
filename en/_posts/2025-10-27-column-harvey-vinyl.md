@@ -63,7 +63,7 @@ For him, a record is ""the act of keeping a record of someone else's life.''
 Wandering around markets and flea markets, digging up dusty records. There are not only sounds but also **traces of time** engraved there.
 
 Harvey says, "The more a record has human fingerprints on it, the more alive the sound is."
-His set includes a mix of unknown Italo disco, 70s rock, 80s synth boogie, and even Hawaiian AOR.
+His set includes a mix of unknown Italo disco, 70s rock, 80s synth boogie, and Hawaiian AOR.
 The selection of songs is not random, but based on an intuition of reading the ""airflow of sound''.
 
 His DJ bag is like a travel journal. Each record contains memories of some night.
@@ -211,7 +211,7 @@ pie title DJ Harvey's Vinyl Box Composition
 **Explanation**:
 Harvey's record box is an organic archive premised on the mixing of genres.
 What is noteworthy is that "Rock" and "House" are placed equally.
-This symbolizes the fact that he is a DJ who always connects with vibes, not genres.
+This symbolizes the fact that he is a DJ who always connects by vibe, not by genre.
 The "Oddities" slot is Harvey's secret weapon. Activates during after hours and sunrise settings.
 
 ---
@@ -274,5 +274,13 @@ Through these, Harvey's DJ philosophy becomes clear.
 This means that it is not just a matter of playing music, but an act of tuning time, body, and space.
 The record box is his world view,
 Each disc is alive as a "fragment of memory and experience."
+
+---
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BrRcFNRq4u8?si=SBd4yIFFwTAlvgcm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

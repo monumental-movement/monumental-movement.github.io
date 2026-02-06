@@ -102,7 +102,7 @@ Cassette tapes are mainly classified into four types:
 <tr>
 <td>Type I (normal)</td>
 <td>Iron oxide (Fe2O3)</td>
-<td>Well-balanced sound quality, but slightly inferior treble range</td>
+<td>Well-balanced sound quality, but slightly inferior in treble range</td>
 <td>General music recording, voice recording</td>
 </tr>
 <tr>
@@ -222,6 +222,15 @@ With the improvement of materials and the development of recording technology, t
 Although it is not as good as digital in terms of frequency band and S/N ratio, it continues to be loved for its warm tone and ease of operation.
 
 <hr>
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h6WsoClO0FE?si=L3FtaPU36N2_iSLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 ### List
 

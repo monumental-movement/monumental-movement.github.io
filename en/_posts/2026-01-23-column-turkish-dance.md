@@ -10,8 +10,7 @@ tags:
 - Turkey
 - Dance
 - Electronic
-title: '[Column] The circle of Turkish dance music: the history of music where tradition
-  and club culture intersect'
+title: 【コラム】 トルコ・ダンスミュージックの輪――伝統とクラブカルチャーが交差する音楽史
 ---
 
 
@@ -50,31 +49,31 @@ color: #fff;
 ### Harai, Holon, Zeibek
 
 Each region of Türkiye has its own unique dance music.
-Harai in eastern Anatolia, Holon on the western Black Sea coast, and Zeybek in the western Aegean region all have structures that emphasize groupness and rhythm.
+東部アナトリアのハライ、西黒海沿岸のホロン、西部エーゲ海地方のゼイベクなどは、いずれも集団性とリズムを重視する構造を持つ。
 
-The time signatures are diverse, including 2, 5, 7, and 9 beats, and this directly influenced later Turkish pop and dance music.
+拍子は2拍子、5拍子、7拍子、9拍子と多様であり、これは後のトルコ系ポップスやダンス音楽にも直接的に影響を与えた。
 
 ### Instruments and physicality
 
-Instruments such as the saz (barama), zurna, and daur clearly separate the melody and the blow, and play the role of directly driving the dancers' physical movements.
+サズ（バーラマ）、ズルナ、ダウルといった楽器は、旋律と打撃を明確に分離し、踊り手の身体運動を直接駆動する役割を担う。
 
-This premise of ""music for moving the body'' has remained consistent even after the introduction of electronic music.
+この「身体を動かすための音楽」という前提は、電子化以降も一貫して保持されていく。
 
 > Complex time signatures and repetitions were inherited by later generations of dance music.
 
 ---
 
 
-## Urban dance music of the Ottoman Empire
+## オスマン帝国期の都市舞踊音楽
 
-### Intersection of court music and folk culture
+### 宮廷音楽と民衆文化の交差
 
 In the Ottoman Empire, court music and urban popular culture were not completely separated.
 At festivals and banquets, there existed a form of performance that integrated dance and music.
 
-### Genealogy of 9 time signatures
+### 9拍子の系譜
 
-In particular, the 9/8 time signature has functioned as a symbolic rhythm in Turkish dance music from the Ottoman period to the present day.
+とくに9/8拍子は、オスマン期から現代に至るまで、トルコのダンス音楽における象徴的リズムとして機能する。
 
 This time signature was reused in later club music as a symbol of ""Turkishness.''
 
@@ -83,14 +82,14 @@ This time signature was reused in later club music as a symbol of ""Turkishness.
 ---
 
 
-## First half of the 20th century | Recording technology and popularization
+## 20世紀前半｜録音技術と大衆化
 
-### The advent of records and radio
+### レコードとラジオの登場
 
 After the 1920s, with the spread of recording technology and radio broadcasting, regional music began to flow into cities.
-Dance music also changed to music that was listened to at home.
+舞踊音楽もまた、家庭で聴かれる音楽へと変化した。
 
-### The germ of oriental pop
+### オリエンタル・ポップの萌芽
 
 Dance music organized for cities incorporated popular elements and became the basis of later Turkish pop music.
 
@@ -103,7 +102,7 @@ Dance music organized for cities incorporated popular elements and became the ba
 
 ### Fusion of folk and rock
 
-In the late 1960s, a movement emerged to fuse Anatolian folk music and rock.
+In the late 1960s, a movement emerged to fuse Anatolian folk music with rock.
 Electric guitars and drums were used as devices to extend traditional dance rhythms.
 
 ### Maintaining dance quality
@@ -114,9 +113,9 @@ The fusion music of this period was distinctive in that, although it was experim
 
 ---
 
-## 1980s｜Diaspora and reconstruction
+## 1980年代｜ディアスポラと再構築
 
-### Role of the German immigrant community
+### ドイツ移民社会の役割
 
 In the 1980s, traditional music and pop music were re-edited in Turkish immigrant communities, mainly in West Germany.
 
@@ -124,7 +123,7 @@ At weddings and community events, emphasized rhythms for dancing were preferred.
 
 ### Cassette culture
 
-Cassette tapes contributed to the spread of dance music as a low-cost and highly distributable medium.
+カセットテープは、低コストかつ流通性の高いメディアとして、ダンス音楽の拡散に寄与した。
 
 > Immigrant society has created a new musical circulation.
 
@@ -133,7 +132,7 @@ Cassette tapes contributed to the spread of dance music as a low-cost and highly
 
 ## 1990s｜Istanbul and club culture
 
-### Urbanization and nightlife
+### 都市化とナイトライフ
 
 In the 1990s, club culture expanded in Istanbul.
 Songs with local rhythms began to be played alongside house and techno.
@@ -142,21 +141,21 @@ Songs with local rhythms began to be played alongside house and techno.
 
 DJs and producers sampled nine-time signatures and folk melodies and reimagined them for the dance floor.
 
-> Clubs have become a new folk space.
+> クラブは新たな民俗空間となった。
 
 ---
 
 ## Since the 2000s | Visualization of globalization and circulation
 
-### From world music to clubs
+### ワールドミュージックからクラブへ
 
 Turkish dance music becomes accepted in both world music and club contexts.
 
 ### Recursive effects
 
-A cycle was born in which the electronic version of Turkish rhythm influenced young domestic musicians.
+電子音楽化されたトルコ的リズムが、逆に国内の若手ミュージシャンへ影響を与える循環が生まれた。
 
-> The circle does not close and continues to expand.
+> 輪は閉じず、拡張され続けている。
 
 
 ---

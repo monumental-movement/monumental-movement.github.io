@@ -12,7 +12,7 @@ title: Illusion – Why Can"t We Live Together
 ---
 
 
-House mix of Timmy Thomas"s ""Why Can"t We Live Together'' by producer Illusion (Disco Connection / Eddie De Gucht). It was released in 1989 on the UK label Rumour Records.
+House mix of Timmy Thomas" "Why Can"t We Live Together" by producer Illusion (Disco Connection / Eddie De Gucht). It was released in 1989 on the UK label Rumour Records.
 
 A is a remix by Danny Rampling, a British house music DJ widely known as one of the founders of the rave/club scene.
 

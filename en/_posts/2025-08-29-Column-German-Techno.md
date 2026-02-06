@@ -28,7 +28,7 @@ Text: mmr｜Theme: The aesthetics of German techno, woven by repetition and sile
 
 <hr>
 
-### Historical background: the fall of the Berlin Wall and the explosion of techno
+### Historical background: The fall of the Berlin Wall and the explosion of techno
 
 The fall of the Berlin Wall in 1989 was a turning point in the development of techno in Germany. With the fusion of Eastern and Western cultures, parties utilizing abandoned buildings and warehouses rapidly increased, and Berlin became a techno mecca symbolizing the "sound of freedom."
 
@@ -187,6 +187,16 @@ Today's German Techno has evolved widely, from hard, industrial trends to melodi
 In conclusion, German Techno is both a cultural product of the past and a testing ground for the future of sound design.
 Listening to his works while tracing their history is nothing but understanding the dynamism of music, where cities and humans, machines and emotions intertwine.
 
+
+---
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vGhjoN-y5IQ?si=kyE9hG3WPAYoTPS3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ---
 
 ### Related columns
@@ -195,7 +205,7 @@ Listening to his works while tracing their history is nothing but understanding 
 
 🔗 [[Column] The Golden Age of UK Techno](https://monumental-movement.jp/Column-90s-UKTechno)
 
-🔗 [[Column] From the origins of techno to the present - A chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[Column] From the origins of techno to the present - a chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)
 
 🔗 [[Column] Detroit Techno: Human dance created by the heartbeat of machines](https://monumental-movement.jp/Column-Detroit-Techno)
 

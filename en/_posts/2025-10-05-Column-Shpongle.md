@@ -314,7 +314,7 @@ This structure causes a psychological phenomenon called an "acoustic trip."
 | Reverb reverberation | Expansion of spatial localization | Dissolution of ego |
 | Polyrhythm | Cognitive delay | Dreamy floating feeling |
 
-Scientifically, Shpongle is a project to ""restructure the brain with sound.''
+Scientifically, Shpongle is a project to ""rebuild the brain with sound.''
 
 ---
 
@@ -344,7 +344,7 @@ The sound transcends science, philosophy, religion, and technology.
 He is reconstructing human consciousness itself as sound.
 
 It's not just music.
-It is the evolution of the act of "listening" itself,
+It is an evolution of the act of "listening" itself,
 It is the mandala of consciousness left to humanity by Raja Ram and Simon Posford.
 
 > "Sound is born, disappears, and returns again. That's what Shpongle is."
