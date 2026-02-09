@@ -41,7 +41,7 @@ color: #fff;
 
 Guillermo Scott Herren was born in 1976 in Miami, Florida, USA. Her father is from Catalonia and her mother is of Irish and Cuban descent, so she grew up in a multicultural environment from an early age. He was trained in music by his mother and has been familiar with several instruments including the piano.
 
-As a boy, he became interested in hip-hop, punk, and electronic music, and was influenced by the music scene in his hometown of Miami. He started DJing as a teenager, playing at nightclubs in Atlanta, and got involved in music production and performance from an early age. Through his experience in the studio, he hones his acoustic experiments and sampling techniques.
+As a boy, he became interested in hip-hop, punk, and electronic music, and was influenced by the music scene in his hometown of Miami. He started DJing as a teenager, playing nightclubs in Atlanta, and got involved in music production and performance from an early age. Through his experience in the studio, he honed his sonic experiments and sampling techniques.
 
 When he moved to New York for college, he began developing his own musical project in earnest.
 

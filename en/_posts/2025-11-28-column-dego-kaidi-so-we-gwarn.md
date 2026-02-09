@@ -111,7 +111,7 @@ timeline
     2017–2025 : ソロ・コラボ活動継続
 </div>
 
-This label functioned as a platform for pursuing "sound sculpture" as a creative collage, transcending musical forms and genres. UK Broken Beat artists, particularly Dego & Kaidi, were drawn to the label and found a place to express their music in new contexts.
+This label functioned as a platform for pursuing "sound sculpture" as a creative collage, transcending musical forms and genres. UK Broken Beat artists, most notably Dego & Kaidi, were drawn to the label and found a place to express their music in new contexts.
 
 ---
 

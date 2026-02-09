@@ -20,7 +20,7 @@ Text: mmr｜Theme: How women have updated music history in the form of bands
 
 
 
-In the history of rock and pop, girl bands have long been considered an anomaly. However, in reality, all-female bands have always been in conflict with the systems, technology, and social norms of the times, while building up their own unique expressions. Girls bands are not simply categorized by gender, but are a collection of practices surrounding production, performance, and self-determination.
+In the history of rock and pop, girl bands have long been considered an anomaly. However, in reality, all-female bands have always been in conflict with the systems, technology, and social norms of the times, while building up their own unique expressions. Girls' bands are not simply categorized by gender, but are a collection of practices surrounding production, performance, and self-determination.
 
 Even before the development of the music industry, women have performed in ensembles at home and in local communities. In the 20th century, with the establishment of the record industry and live house culture, the very presence of women in public as a band began to take on social meaning. This paper reconstructs these trends as world history.
 
@@ -160,7 +160,7 @@ During the alternative rock era of the 1990s, girl bands became genre-crossing e
 
 The European girl band scene has a different cultural background than America's. In Britain, class society and youth culture were closely linked, and for women to form a band was an expression of their social position.
 
-The post-punk era of the late 1970s and 1980s saw an increase in bands based in art schools and school networks, combining musical experimentation with political consciousness. Within this context, female bands became a presence that played a role in the musical avant-garde and social critique.
+The post-punk era of the late 1970s and 1980s saw an increase in bands based in art schools and school networks, combining musical experimentation with political awareness. Within this context, female bands became a presence that played a role in the musical avant-garde and social critique.
 
 In continental Europe, a scene is forming around Berlin and Paris where the boundaries between art and music are blurred. Female bands developed their own unique expressions while intersecting with club culture and performance art.
 
@@ -214,7 +214,7 @@ Especially since the 1990s, networks among women have promoted the sharing of kn
 
 ## Supplementary Chronology: Detailed Version
 
-1950s: Female vocal groups were the norm
+1950s: Female vocal groups were mainstream
 1960s: Emergence of female performers
 1970s: Commercial establishment of female rock bands
 1980s: Punk and DIY expansion

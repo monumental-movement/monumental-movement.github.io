@@ -19,7 +19,7 @@ title: '[Column] 10-inch record technology supplement: The truth about groove wi
 ## 10-inch design concept: precision in the medium of format
 
 
-Text: mmr｜Theme: Delving into the technical background of 10-inch records, such as their structure, rotation speed, and mastering, and reconsidering the uniqueness of the sound produced by the format.
+Text: mmr | Theme: Delving into the technical background of 10-inch records, such as their structure, rotation speed, and mastering, and reconsidering the uniqueness of the sound produced by the format.
 
 
 The physical structure of a record embodies the philosophy of the musical format in its purest form.
@@ -96,7 +96,7 @@ Adjust sound pressure, stereo width, and phase.
 2. **Lacquer Cutting**
 Carve grooves on a 10-inch lacquer board.
 Groove width and pitch control are important.
-"Within 12 minutes at 33⅓RPM" is one of the design criteria.
+"Within 12 minutes at 33⅓ RPM" is one of the design criteria.
 
 3. **Electroforming**
 Copy with nickel in the order of master → mother → stamper.
@@ -111,7 +111,7 @@ This process is especially important for 10-inch models because the stability of
 ### Press material and weight: 180g Behind the myth
 
 For 10-inch discs, the thickness is generally around 1.8 to 2.0 mm, and the weight is approximately 120 to 150 g.
-Influenced by the boom in 12-inch 180g heavy discs, we tend to think that "heavier means better sound quality," but in reality, the density and flatness of the material are more important.
+Influenced by the boom in 12-inch 180g heavy discs, people tend to think that "heavier means better sound quality," but in reality, the density and flatness of the material are more important.
 
 The small size of the 10-inch board naturally increases the rigidity of the entire board, making it less likely to warp and cause less resonance.
 In other words, even if it is thin, the sound is tight. For this reason, there is almost no disadvantage in terms of sound quality even with a lightweight 10-inch disc.
@@ -154,14 +154,14 @@ Because time is limited, it is important to decide which sounds to keep and whic
 This feeling is similar to editing a movie or cropping a photo.
 
 There is also a movement among modern mastering engineers to seek a "10-inch optimized sound image."
-It is no longer a format of the past, but a 10-inch **device of new time design**.
+It is no longer a format of the past, but 10 inches as a **device of new time design**.
 
 ---
 
 ### Conclusion: Musical philosophy in the physics of a disk
 
-When talking about the appeal of 10-inch discs in technical terms, what stands out behind it is the "freedom created by constraints."
-Design limitations, time constraints, and size constraints.
+When talking about the appeal of 10-inch discs in technical terms, what stands out behind it is the ""freedom created by constraints.''
+Design limitations, time constraints, and size limitations.
 All of this makes the music "condensed" and restores its "feel."
 
 The format is philosophy, engineering, and poetry.
@@ -217,7 +217,7 @@ flowchart TB
 
 flowchart TD
     O["Outer rim: High linear velocity → Good high frequency reproduction"]
-    M["Middle range: Linear speed decrease → High range attenuation begins"]
+    M["Middle range: linear velocity decrease → high range attenuation begins"]
     I["Inner rim: Low linear velocity → Inner rim distortion increase and high frequency attenuation"]
 
     O --> M --> I

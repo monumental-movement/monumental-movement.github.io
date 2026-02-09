@@ -110,7 +110,7 @@ The Texas noise scene of the 2020s lies between the network and the land.
 While young artists from Houston and Dallas are active as a digital collective through Bandcamp, YouTube, Discord, etc.
 Older artists continue to work with analog equipment.
 
-> "Noise is a matter of attitude, not technology."
+> "Noise is not about technology, it's about attitude."
 > — Richard Ramirez (Black Leather Jesus)
 
 Texas noise continues to oscillate between wild and urban.

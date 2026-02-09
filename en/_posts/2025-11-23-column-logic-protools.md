@@ -261,7 +261,7 @@ Over the past few years, the history of DAWs has undergone another major change.
 
 ### ■ Adobe: Increase in demand for distribution and broadcasting
 
-* Integration advantages with Premiere
+* Integration advantage with Premiere
 * Strong in the YouTube/Podcast era
 
 ---

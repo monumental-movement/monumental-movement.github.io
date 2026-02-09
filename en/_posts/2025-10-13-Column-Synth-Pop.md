@@ -215,7 +215,7 @@ flowchart TD
     A2003["2003: Cornelius' Point"<br>Presenting "ambient synth pop"]
     A2008["2008: Perfume "GAME"<br>Million hit in Japan, spread around the world"]
     A2012["2012: Grimes' Visions" <br>Towards the era of DIY synth pop"]
-    A2016["2016: Charli XCX "Vroom Vroom EP"<br>The beginning of hyperpop"]
+    A2016["2016: Charli XCX "Vroom Vroom EP"<br>The beginning of hyper pop"]
     A2020["2020: Yaeji "What We Drew"<br>The rise of the neo-synth generation from Asia"]
     A2023["2023: Caroline Polachek "Desire, I Want To Turn Into You"<br>Towards the extreme north of maturity"]
 
@@ -259,7 +259,7 @@ A2. Examples include Depeche Mode, New Order, Pet Shop Boys, and Human League.
 
 A3. The experimental spirit of YMO and Ryuichi Sakamoto influenced Daft Punk and Radiohead, and became the origin of "electronic humanity" in the AI ​​era.
 
-- **Q4. What are the characteristics of neo-synth pop in recent years? **
+- **Q4. What are the characteristics of neo-synthpop in recent years? **
 
 A4. The point is that we actively incorporate "digital distortion" such as hyper pop and AI music. Charli XCX and Grimes are examples of this.
 

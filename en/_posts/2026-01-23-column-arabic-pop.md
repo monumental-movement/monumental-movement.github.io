@@ -24,7 +24,7 @@ Arab pop is a general term for popular music produced in Arabic-speaking countri
 
 This music had long been premised on local consumption, but in the 21st century, as the distribution environment changed, exposure to the global market rapidly expanded.
 
-> The internationalization of Arab pop was accelerated by changes in the distribution structure rather than changes in musical style.
+> The internationalization of Arab pop was accelerated by changes in the distribution structure rather than changes in musical styles.
 
 ---
 
@@ -59,7 +59,7 @@ The national broadcasting station also played a major role, and music was used a
 
 ### Turning point in the 1990s
 
-In the 1990s, with the spread of satellite broadcasting, cross-border music channels were born. A Lebanese-based music channel broadcast music videos 24 hours a day, churning out pop stars with visual images.
+In the 1990s, the spread of satellite broadcasting gave rise to cross-border music channels. A Lebanese-based music channel broadcast music videos 24 hours a day, churning out pop stars with visual images.
 
 During this period, singers such as Nancy Ajram and Amr Diab gained widespread popularity, and Arab pop was redefined as a pan-Arab market product rather than a single national culture.
 

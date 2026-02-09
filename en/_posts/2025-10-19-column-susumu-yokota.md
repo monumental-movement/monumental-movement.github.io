@@ -79,7 +79,7 @@ Yokota's unique "music of life" floating between nature and electronics. It has 
 
 "Anima Mundi" means "soul of the world" in Latin.
 The series of works that Susumu Yokota developed under this name were truly worthy of that name.
-The songs focus on drones, ambient sounds, and harmonic structures, expanding the listener's inner space. There is no beat or melody. There is only the ""sound that exists''.
+The songs focus on drones, ambient sounds, and harmonic structures, expanding the listener's inner space. There is no beat or melody. There is only the ""sound that exists.''
 
 For Yokota, this name could be said to be a ""channel that connects the unconscious and the universe.''
 If the music under the name Susumu Yokota is "earthly poetry," Anima Mundi is "heavenly prayer."
@@ -168,5 +168,5 @@ Susumu Yokota's music is told not through flashy melodies and beats, but through
 In that silence dwell the noise of the city, the breath of nature, and human memory.
 The music he left behind is not just a collection of works, but a mirror that reflects the inner self of the listener.
 
-Even after the sound disappears, something remains in my heart.
+Even after the sound disappears, something remains in your heart.
 That is the greatest "sound" that the musician Susumu Yokota left to the world.

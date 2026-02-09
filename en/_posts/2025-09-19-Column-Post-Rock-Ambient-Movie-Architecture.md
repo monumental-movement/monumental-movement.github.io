@@ -43,7 +43,7 @@ Ambient/post-rock has had a great influence on film music, and has become establ
 
 | Movies | Music | Year | Features |
 |------|----------|----|------|
-| *Arrival* | Jóhann Jóhannsson | 2016 | Expressing the sense of circulation of time with a drone sound |
+| *Arrival* | Jóhann Jóhannsson | 2016 | Expressing the sense of time circulation with drone-like sounds |
 | *Blade Runner 2049* | Hans Zimmer & Benjamin Wallfisch | 2017 | Ambient depiction of the coldness and expanse of a futuristic city |
 | *The Revenant* | Ryuichi Sakamoto & Alva Noto | 2015 | Expressing the pressure of nature and time with electronic and environmental sounds |
 | *Solaris* (2002 edition) | Eduard Artemyev | 2002 | Expanding psychological space with cosmic ambient |
@@ -91,14 +91,14 @@ flowchart LR
 
 Music → Film: Music manipulates psychological space and sense of time.
 
-Music → Architecture: Music designs spatial experiences
+Music → Architecture: 音楽が空間体験を設計
 
 Film ↔ Architecture: Interaction between visual art and spatial design
 
 
 ---
 
-### Representative movies and sound samples
+### 代表的な映画とサウンドサンプル
 
 #### Arrival (2016)
 

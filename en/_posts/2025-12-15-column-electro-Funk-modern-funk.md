@@ -75,7 +75,7 @@ At the same time, synthesizer basslines became commonplace, and the low range ca
 ## Chapter 4: Digital production environment and Modern Funk
 
 
-Since the 1990s, with the spread of DAWs, individual production has become a realistic option. Funk no longer relies on large bands, but instead changes to music created by a small group of people or a single producer.
+Since the 1990s, with the spread of DAWs, individual production has become a realistic option. Funk no longer relies on large bands, but instead changes to music that can be created by a small group of people or by a single producer.
 
 In Modern Funk, each element is clearly organized. It has become common to have a synth bass for low frequencies, a programmed drum for rhythm, and a polyphonic synth for chords, and frequency management at the mix stage is becoming more important.
 

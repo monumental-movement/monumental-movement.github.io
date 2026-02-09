@@ -69,7 +69,7 @@ That is **213 (two one three)**.
 The name is derived from Long Beach's area code, 213, and clearly stamps their local identity.
 
 Local tapes from the time already showed that Nate Dogg's singing voice stood out from the rappers around him.
-His voice had the air of the street, and by singing the melody, he gave the entire song a pleasant floating feeling.
+His voice had a street vibe, and by singing the melody, he gave the entire song a pleasant floating feeling.
 This style would later become the core of guest performance culture.
 
 ---
@@ -127,7 +127,7 @@ These characteristics made Nate Dogg's voice an essential component of G-Funk.
 
 ## 6. Solo works and their positioning
 
-Nate Dogg is highly acclaimed for his guest performances, but he has also released several solo albums.
+Nate Dogg is highly acclaimed for his guest appearances, but he has also released several solo albums.
 
 #### ■ "G-Funk Classics, Vol. 1 & 2" (1998)
 
@@ -172,7 +172,7 @@ Although it is a sweet R&B sound, it is important that Nate Dogg's voice does no
 
 ## 8. 213 "The Hard Way": The Fruit of Friendship
 
-213, the trio of Snoop, Warren, and Nate, released their official studio album, The Hard Way, in 2004.
+213, consisting of Snoop, Warren, and Nate, released their official studio album, The Hard Way, in 2004.
 The album reached number one on Billboard and was the culmination of the three's long friendship and careers.
 
 ---
@@ -189,7 +189,7 @@ Snoop Dogg and Warren G, in particular, have said that their sound would not hav
 
 ---
 
-## 10. Nate Dogg Timeline
+## 10. Nate Dogg Chronology
 
 <div class="mermaid">
 timeline

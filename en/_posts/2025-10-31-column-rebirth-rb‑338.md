@@ -111,12 +111,12 @@ ReBirth has become an "entrance" for creators/producers who don't have the equip
 Furthermore, activities such as user modification (mods), pattern exchange, and community sharing have flourished, and a culture of not only ""using tools" but also ""modifying and sharing tools/tones" has developed. This DIY spirit has enriched the creative ecosystem of electronic music.
 
 ### Diversification of music genres/sound design
-ReBirth has made it easier to access the standard sound of ""acid bass + techno drums," which has lowered the ""equipment barrier" not only in acid house techno, but in electronic music as a whole. As a result, TB-303/TR-808-like tones spread into genres such as trance, drum & bass, and breakbeat, contributing to the diversification of sound design.
+ReBirth has made it easier to access the standard sound of ""acid bass + techno drums", which has lowered the ""equipment barrier" not only in acid house techno but in electronic music as a whole. As a result, TB-303/TR-808-like tones spread into genres such as trance, drum & bass, and breakbeat, contributing to the diversification of sound design.
 In this way, ReBirth brought about changes in the production scene through the three keys of "tone, operability, and price."
 
 ---
 
-## Changes in industry, software, and ecosystems (ReWire, VST, plug-ins)
+## Changes in industry/software/ecosystem (ReWire/VST/pluginization)
 The introduction of ReBirth was not just the success of a single software synthesizer, but also prompted a structural change in the music production environment itself.
 
 ### "Modularization" and coordination of production tools
@@ -152,7 +152,7 @@ On the other hand, several years after the mobile version was released, it was a
 ### "The End" and its reading
 Although the ReBirth software did not continue to expand in its current form, its "death" itself has multiple layers of meaning.
 - One reason is that the trend from equipment to software has reached a certain level of maturity and has moved to the "next stage."
-- In addition, intellectual property, emulation, ownership and access issues have become more apparent than expected.
+- In addition, problems with intellectual property, emulation, ownership, and access have become more apparent than expected.
 - And as personal production/software-centered environments have become commonplace, the theme of "reproducing hardware equipment with software" has begun to be reconsidered.
 Therefore, it is meaningful to view the "end" of ReBirth not as simply the end of the service, but as a "point of change" in the production environment.
 
@@ -167,7 +167,7 @@ By looking back at ReBirth, we can once again remember the idea that "anyone can
 
 ### From "ownership" to "access", from hardware to software
 Before ReBirth, it can be said that the model of production equipment = ownership was strong. Having the equipment was also a status, and it was also the first condition for the production environment. ReBirth has rewritten this into the form of "software purchase" and created a background where "ownership" itself becomes relativized.
-Today, subscription/cloud sharing/rental music tools are commonplace. The door that ReBirth opened can be seen as a "starting point" in this flow.
+Today, subscription/cloud sharing/rental music tools have become commonplace. The door that ReBirth opened can be seen as a "starting point" in this flow.
 
 ### Re-evaluating the "taste/habit" of hardware equipment
 On the other hand, as software advances, things tend to be lost, such as the physical quirks, noise, distortion, and operational feel inherent in hardware equipment. In fact, ReBirth's emulation has been criticized for not being able to fully reproduce the distortions and quirks of the real TB‑303.

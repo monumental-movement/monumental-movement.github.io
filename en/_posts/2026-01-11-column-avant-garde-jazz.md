@@ -123,7 +123,7 @@ The Sun Ra Arkestra did not have a fixed composition, and the number of members 
 
 In this recording, tonality and meter have little meaning. Fragmented phrases, noise-like sounds, and sudden group performances appear alternately. What is important is that the music does not progress linearly.
 
-Repeated short motifs change the listener's sense of time and lead the music into a cyclical experience. Improvisation functions as a collective ritual rather than a display of individual skill.
+Repeated short motifs change the listener's sense of time, leading to a cyclical musical experience. Improvisation functions as a collective ritual rather than a display of individual skill.
 
 ### Cosmic thought and musical structure
 

@@ -22,7 +22,7 @@ Text: mmr | Theme: A long column that looks back on the history of collaboration
 In the history of Japanese film, the existence of composer Joe Hisaishi (English name: Joe Hisaishi) is unique.
 His music is not just ""movie accompaniment'', but has functioned as an important component that forms the world of the work itself.
 
-Since 1984's Nausicaa of the Valley of the Wind, the musical universe created in collaboration with director Hayao Miyazaki has transcended the context of animated films and received international acclaim.
+Since 1984's Nausicaa of the Valley of the Wind, the musical universe created in collaboration with director Hayao Miyazaki has gone beyond the context of animated films and has received international acclaim.
 This column carefully traces the relationship between Joe Hisaishi's musical history and Studio Ghibli works, based on facts.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/faf98cNY8A8?si=ZJ3kmZ7G6yoA6-3m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -158,7 +158,7 @@ Throughout these works, Hisaishi's music becomes an element that governs the ""i
 
 ## Chapter 11: "How do you live?" (2023) - Sound abstraction and new challenges
 
-How do you live, which will be released in 2023, is director Hayao Miyazaki's first full-length film in 10 years.
+How do you live?, which will be released in 2023, is director Hayao Miyazaki's first full-length film in 10 years.
 Joe Hisaishi was once again in charge of the music.
 
 This work uses an abstract sound structure, emphasizing resonance and texture rather than melody.

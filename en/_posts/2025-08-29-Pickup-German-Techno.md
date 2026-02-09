@@ -22,7 +22,7 @@ title: Picking up German Techno works
 <a href="https://jp.mercari.com/item/m32845023734?afid=6142608987"><img src="../assets/images/Tresor%20Compilation%20Vol.%207.webp"></a>
 
 
-Attractive point: A compilation by the prestigious German label Tresor, with a luxurious selection of tracks from some of the biggest names in techno, including Sven Väth, Maurizio, Ben Sims, James Ruskin, and Pacou. This is a piece that allows you to fully experience the charm of the hard, minimal, and innovative techno that symbolizes Berlin—Germany.
+Attractive point: A compilation by the prestigious German label Tresor, with a luxurious selection of tracks from some of the biggest names in techno, including Sven Väth, Maurizio, Ben Sims, James Ruskin, and Pacou. This is a piece that allows you to fully experience the charm of the hard, minimal, and innovative techno that symbolizes Berlin-Germany.
 
 
 #### Tracklist

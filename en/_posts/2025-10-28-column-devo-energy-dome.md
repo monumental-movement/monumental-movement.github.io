@@ -175,7 +175,7 @@ timeline
 ## Chapter 10: Today's Significance of Energy Dome
 
 The Energy Dome is still loved by DEVO fans as a "helmet of thought."
-During the coronavirus pandemic, **Energy domes with face shields** are sold,
+During the coronavirus pandemic, **Energy dome with face shield** is sold,
 It has once again attracted attention as a warning about environmental issues.
 
 In other words, the **Energy Dome is a social device that ""transforms'' with each era**.
@@ -194,7 +194,7 @@ Rather, that choice becomes a means of restoring human freedom.
 > ─ DEVO, Freedom of Choice (1980)
 
 Energy dome is not a helmet that closes off the future.
-**It may be an icon for us to once again have the freedom to choose.**
+**Perhaps it is an icon for us to once again have the freedom to choose.**
 ---
 
 ## Related materials/references

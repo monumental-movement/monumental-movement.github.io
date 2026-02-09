@@ -81,7 +81,7 @@ The biggest innovation that resulted from Subotnick and Buchla's collaboration w
 
 ## ● The idea of ​​"throw away the keyboard"
 
-Subotnick は従来の音階や和声から離れた **コントロール信号による“音の彫刻”** を求めていた。
+Subotnick was looking for a ""sound sculpture'' using control signals that departed from traditional scales and harmony.
 In response, Buchla didn't include a keyboard, but included a touch controller and a random voltage source.
 
 ## ● Superior tone and control

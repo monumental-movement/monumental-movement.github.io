@@ -43,9 +43,9 @@ The vibrations of my body that I felt on the club floor. An illegal rave that la
 
 They are often not recorded. It is not reported in the media and is not recorded in history.
 
-However, a DIY media called ""Zine'' is currently attracting attention as a means of picking up the fragments and retelling the story.
+However, a DIY medium called ""zine'' is currently attracting attention as a means of picking up these fragments and retelling them.
 
-A zine is not a magazine, diary, or report. However, it is closer to the "voices of the people involved" than any of these. In the rave culture, which inherently resists recording, zines have the potential to serve as ""memory aids''.
+A zine is not a magazine, diary, or report. However, it is closer to the "voices of the people involved" than any of these. In the rave culture, which inherently resists recording, zines have the potential to serve as ""memory aids.''
 
 ---
 
@@ -127,7 +127,7 @@ Just as rave was a "physical experience," zine is also a "physical medium."
 
 ### Rave Archive
 
-Founded in 2007, Rave Archive is an archive that preserves and shares memories of rave culture in the 90s. From the perspective of a raver and an archivist, I will pass on a culture that tends to disappear to future generations.
+Founded in 2007, Rave Archive is an archive that preserves and shares memories of 90s rave culture. From the perspective of a raver and an archivist, I will pass on a culture that tends to disappear to future generations.
 
 [Rave Archive](https://ravearchive.com)
 

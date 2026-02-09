@@ -19,7 +19,7 @@ title: '[Column] From Chicago to the world: The birth and evolution of house mus
 Text: mmr | Theme: "Chicago House" was not just a place for entertainment, but a place for self-expression and a sense of community.
 
 
-In the early 1980s, Chicago's club scene was in a vacuum due to the decline of disco.
+In the early 1980s, Chicago's club scene was experiencing a lull due to the decline of disco.
 As disco grew commercially and disappeared from radio and the mainstream, young people were looking for a new outlet for musical expression. One of the answers was the music that later became known as ""Chicago House.''
 
 The Warehouse club was a musical testing ground during this period. In a vast warehouse-like space, members of the black community, LGBTQ+ community, and urban youth gathered to immerse themselves in music. This place was not just a place for entertainment, but also a place for self-expression and a sense of community.
@@ -105,7 +105,7 @@ Early house music was characterized by simple, repetitive rhythms and was create
 Chicago House has grown with the support of the black and LGBTQ+ communities.
 The club was a safe haven, a place free from discrimination and prejudice. Through music, self-expression and community formation progressed, and it became a symbol of minority culture in the city.
 
-Anecdotally, one night at the Warehouse, Knuckles' slight change in the tempo of the intro instantly changed the mood throughout the floor. The audience responded with cheers and applause, demonstrating that music is a social and cultural phenomenon.
+Anecdotally, one night at Warehouse, Knuckles' slight change in the tempo of his intro instantly changed the mood throughout the floor. The audience responded with cheers and applause, demonstrating that music is a social and cultural phenomenon.
 
 ---
 
@@ -191,7 +191,7 @@ Chicago house rhythms are deeply engraved in urban culture and people's bodies, 
 
 ### Outlook for the future
 
-Chicago house is more than just a musical genre from the past; it continues to influence future club culture and music production as an intersection of urban culture, social movements, technology, and music.
+Chicago house is more than just a music genre from the past; it continues to influence future club culture and music production as an intersection of urban culture, social movements, technology, and music.
 A new generation of artists samples classic songs from the past and reinterprets them into modern rhythms. Due to urban redevelopment and advances in digital technology, the physical and virtual experiences of club spaces will become more diverse. The ideals of social inclusion and diversity are rooted in Chicago House's concept of a "free and safe space of expression."
 
 ---

@@ -15,7 +15,7 @@ title: Papa Dee – Island Rock
 
 David Christopher Daniel Wahlgren, also known as Papa Dee, is a rapper from Sweden. His style is a mix of elements of ragga, dub, dancehall, reggae, and hip hop.
 
-「Island Rock」は、1998年にWEAからリリースされたPop Rapアルバム。共同プロデューサーは、スウェーデンのプロデューサーKent Gillström。
+"Island Rock" is a Pop Rap album released by WEA in 1998. Co-producer is Swedish producer Kent Gillström.
 
 #### Tracklist
 ```md

@@ -12,7 +12,7 @@ title: '[Column] Definition of punk and hardcore: the turning point of anger and
 ---
 
 
-## Definition of punk and hardcore: the crossroads of anger and expression
+## Definition of punk and hardcore ─ The crossroads of anger and expression
 
 Text: mmr｜Theme: Punk/Hardcore
 
@@ -137,7 +137,7 @@ However, the two are not in a conflicting relationship. Hardcore can be said to 
 
 ### Punk and hardcore from a current perspective
 
-Since the 21st century, punk and hardcore have been inherited in various forms.
+21世紀以降、パンクとハードコアは多様な形で継承されている。
 
 It has branched out into various subgenres such as post-hardcore, emo, crustcore, and melodic hardcore.
 

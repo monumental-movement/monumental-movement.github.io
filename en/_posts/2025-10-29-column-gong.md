@@ -150,7 +150,7 @@ Gong was a symbol of countercultural practice that did not separate society and 
 
 ---
 
-## Chapter 7 Transformation and Inheritance——Moellan Gong and Rebirth {#chapter7}
+## Chapter 7 Transformation and inheritance——Moellan-Gong and rebirth {#chapter7}
 
 After 1976, David Allen left.
 Pierre Moerlan took over, and the jazz fusion-oriented **Pierre Moerlan's Gong** was born.
@@ -167,7 +167,7 @@ Even after Allen passed away in 2015, Gong continues to live on as a "regenerati
 ## Chapter 8 The world of Gong mythology—Characters, iconography, and worldview {#chapter8}
 
 Gong is a comprehensive art that integrates music, mythology, and art.
-Centering around the Radio Gnome trilogy, characters, planets, languages, broadcast stations, etc. are intricately intertwined.
+Centering around the Radio Gnomes trilogy, characters, planets, languages, broadcast stations, etc. are intricately intertwined.
 
 Below is a diagram showing its symbolic structure:
 

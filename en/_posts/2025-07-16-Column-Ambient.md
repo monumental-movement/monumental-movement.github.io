@@ -205,7 +205,7 @@ Fusion with NFT art and generative music is also underway.
 
 Ambient is music that is not at the center of the music, but at the periphery. It is an art that deals not with melody or rhythm, but with the transformation of atmosphere, time, sensation, and consciousness.
 
-It is a sound that transcends the framework of music and enters the silence amidst the noise of the city and the gaps between memories. Rather than hearing it with your ears, it's a sound that you can feel in the space.
+It is a sound that transcends the framework of music and enters the silence amidst the noise of the city and the gaps between memories. Rather than hearing it with your ears, it's a sound that you can feel in a space.
 
 <hr>
 

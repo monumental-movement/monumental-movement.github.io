@@ -48,7 +48,7 @@ When played over a long period of time, short-term stimuli and symbolic developm
 
 The loops in Ambient Techno/Deep Ambient are not a gimmick to make you hear repetition itself. Rather, it is a device for artificially creating a state in which it appears that no change exists.
 
-There is no perfect loop; there is always some fluctuation. Opening/closing of the filter, increase/decrease of noise components, length of reverberation tail. These minute differences are the only clues that give the listener a sense of the passage of time.
+There is no perfect loop; there is always some fluctuation. Opening and closing of filters, increase/decrease of noise components, length of reverberation tail. These minute differences are the only clues that give the listener a sense of the passage of time.
 
 ---
 
@@ -104,7 +104,7 @@ Even if it is an artificial sound, if the sense of distance, reflection, and shi
 
 In this kind of music, the listener is not a passive entity. It's always up to the listener to decide how much attention to give and when to let the music become the background.
 
-Ambient Techno/Deep Ambient is extremely democratic music in that it does not force listening intensity.
+Ambient Techno / Deep Ambient is extremely democratic music in that it doesn't force listening intensity.
 
 ---
 

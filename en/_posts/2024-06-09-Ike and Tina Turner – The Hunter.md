@@ -15,7 +15,7 @@ title: Ike & Tina Turner – The Hunter
 ---
 
 
-Ike & Tina Turner were an American R&B/soul duo active in the 1960s and 1970s. He has worked on a wide range of music styles including rock, soul, blues, funk, and funk rock.
+Ike & Tina Turner were an American R&B/soul duo active in the 1960s and 1970s. He has worked on a wide range of musical styles including rock, soul, blues, funk, and funk rock.
 
 The album ""The Hunter'' released in 1969 is one of the most blues-oriented albums featuring electric blues guitarist Albert Collins. The title song "The Hunter" is a cover of Albert King. This song earned Tina Turner her first solo nomination in the Best R&B Female Vocal Performance category at the 12th Annual Grammy Awards.
 

@@ -7,8 +7,8 @@ lang: en
 layout: post
 tags:
 - History
-title: '[Column] Enoch Light and Command Records: The lineage of the man and label
-  who created hi-fi culture'
+title: '[Column] Enoch Light and Command Records: The man who created hi-fi culture
+  and the lineage of the label'
 ---
 
 
@@ -107,9 +107,9 @@ The album was recorded at Carnegie Hall using a 35mm master. It remained at the 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MZ9kac5dkd8?si=QfwdLUt-kVfX47oV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-### Musicians involved/produced artists
+### Musicians involved/artists produced
 
-In addition to conducting himself, Enoch Light used top session musicians for each album (eg, Doc Severinsen, Phil Bodner, etc.). He also released albums by performers/arrangers such as Terry Snyder, Tony Mottola, and Dick Hyman on Command, showing his versatility as a producer. As a recording engineer, he collaborated with Bob Fine and others, conducting a number of acoustic experiments.
+In addition to conducting himself, Enoch Light also used top session musicians for each album (eg, Doc Severinsen, Phil Bodner, etc.). He also released albums by performers/arrangers such as Terry Snyder, Tony Mottola, and Dick Hyman on Command, showing his versatility as a producer. As a recording engineer, he collaborated with Bob Fine and others, conducting a number of acoustic experiments.
 
 ---
 
@@ -180,7 +180,7 @@ Mottola was one of the pillars that supported Command's "lounge/easy listening r
 - **Command Records regular guitarist**
 
 He almost always participates in the recordings of the Grand Award~Command established by Light.
-He was responsible for conducting guitar localization experiments in the "Persuasive Percussion" series and other works.
+He was responsible for the guitar localization experiments in the "Persuasive Percussion" series.
 
 - **Solo album release**
 

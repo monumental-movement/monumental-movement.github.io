@@ -25,7 +25,7 @@ In the late 1980s and early 90s, I was in the indie rock field, and I was fascin
 
 Having found his way onto the dance floor primarily through his band oh., he discovered minimal groove and began producing club tracks under his own name in 1999.
 
-He will also work as Duplex 100 with his French partner Samuel Rouanat.
+He will also work as Duplex 100 with his French partner Samuel Ruanat.
 
 In 2001, he moved to Paris and co-founded a club night called ""Minimal Dancin'' at the Nouveau Casino with Samuel Rouanat.
 

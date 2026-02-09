@@ -11,7 +11,7 @@ title: Various – The Great Fighting II
 ---
 
 
-"V/A - Various - The Great Fighting II" was released by Overseas Records in 1978.
+"V/A - Various – The Great Fighting II" was released by Overseas Records in 1978.
 
 #### Tracklist
 ```md

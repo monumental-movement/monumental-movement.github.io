@@ -127,7 +127,7 @@ The affinity between anime and progressive rock is not just a combination of mus
 | [Mobile Suit Gundam (1979)](https://amzn.to/4nfbz4G) | The final battle between Amuro and Char | Pink Floyd "Dogs" | A long story emphasizes the fateful battle |
 | [AKIRA (1988)](https://amzn.to/42JuTie) | Tetsuo's rampage and collapse | King Crimson "Red" | A terrifying guitar riff is assimilated with the collapse of the world |
 | [Neon Genesis Evangelion (1995)](https://amzn.to/42KUZ4t) | The climax of the human complementation plan | Dream Theater "Metropolis—Part I" | Philosophical and technical structure links to the complexity of the story |
-| [Ghost in the Shell S.A.C. (2002)](https://amzn.to/4gyCJkA) | Scene where Motoko Kusanagi dives into the internet | Tool "Lateralus" | Music with a number sequence structure overlaps with the sense of building a cyber world |
+| [Ghost in the Shell: S.A.C. (2002)](https://amzn.to/4gyCJkA) | Scene where Motoko Kusanagi dives into the internet | Tool "Lateralus" | Music with a number sequence structure overlaps with the sense of building a cyber world |
 | [Ergo Proxy (2006)](https://amzn.to/3Iq2jvC) | The scene where Rel leaves the city | Porcupine Tree "Stars Die" | A gloomy beauty where decadence and philosophy overlap |
 | [Made in Abyss (2017)](https://amzn.to/4gzijI9) | The moment when you reach the 6th layer of the deep world | Steven Wilson "Perfect Life" | A song that combines sadness and sublimity resonates |
 | [A Place Further than the Universe (2018)](https://amzn.to/4nNuZxz) | The emotional scene of reaching Antarctica | Sigur Rós "Untitled #8" | Post-rock explosion colors the sense of arrival in youth |
@@ -136,7 +136,7 @@ The affinity between anime and progressive rock is not just a combination of mus
 
 
 ### ■ Conclusion
-Progressive rock never became ""mainstream'' in commercial anime. However, its long composition, difficult rhythm, and conceptual nature have a high affinity with the taiga-like development of anime works centered on science fiction and fantasy.
+Progressive rock never became ""mainstream'' in commercial anime. However, its features such as long structure, difficult rhythm, and conceptual nature have a high affinity with the taiga development of anime works centered on science fiction and fantasy.
 
 Examples like Neon Genesis Evangelion, which directly incorporate progressive rock techniques, are just the tip of the iceberg. In the future, the delusion of ""what if anime was told through progressive rock'' will continue to show new intersections between music and video.
 

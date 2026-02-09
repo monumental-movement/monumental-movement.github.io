@@ -99,7 +99,7 @@ In the mid-2000s, when **DVS (Digital Vinyl System)** became popular, there was 
 In 2006, the use of DVS in various formats was allowed, and the tournament, which had previously been limited to analog, accepted the style of ""manipulating digital sound sources with a turntable.''
 
 This results in
-- Free use of original sound sources
+- Freely use your own edited sound sources
 - Greatly expands the range of routine configurations
 - Increased tone play and melodic expression
 Such an evolution is taking place.

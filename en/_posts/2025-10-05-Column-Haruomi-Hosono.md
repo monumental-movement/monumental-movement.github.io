@@ -217,7 +217,7 @@ Hosono jokingly said, ""Music is about living with chance.''
 - "N.D.E." (1995)
 
 It was a time when he worked on music for a wide variety of media, including animation, movies, and commercials.
-""Night on the Galaxy Express"' shines with delicate compositions that seem to translate Kenji Miyazawa"s fantasy literature into sound.
+""Night on the Galactic Railway"' shines with delicate compositions that seem to translate Kenji Miyazawa"s fantasy literature into sound.
 
 #### Historical background
 After the bursting of the bubble economy, Japan's values ​​have been shaken.

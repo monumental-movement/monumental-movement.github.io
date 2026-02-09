@@ -199,7 +199,7 @@ flowchart TD
 
 ---
 
-#### Performance and Dance
+#### Performance and dance
 
 - Integration with improvisational dance: In the Rarakaraka tradition, dance is integrated with music, and this improvisational nature is inherited in Acolitronics.
 

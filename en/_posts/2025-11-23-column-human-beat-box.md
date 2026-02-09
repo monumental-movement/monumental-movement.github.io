@@ -131,7 +131,7 @@ In particular, Japan's strengths are ""accuracy of sound," ""compositional abili
 In Japan, it has spread through the streets and events since the mid-2000s, and techniques are shared between performers through practice sessions and participation in competitions.
 
 ## ◆ 2. Strong technical orientation
-Japanese players are strong in sound accuracy and attention to detail, and are highly praised even by overseas players.
+Japanese players are strong in sound accuracy and attention to detail, and are praised even by overseas players.
 
 ## ◆ 3. Fusion with video and editing culture
 Mainly on YouTube and SNS,
@@ -172,7 +172,7 @@ He has helped raise the profile of Loopstation players in Japan, and has a great
 
 ### ● Precise technique
 RUSY is known for his highly accurate rhythms and smooth combination techniques, and has received high praise mainly at domestic tournaments in Japan.
-Features include:
+The characteristics are:
 
 - tight groove
 - Clear and dense pronunciation
@@ -266,6 +266,6 @@ We can expect him to continue to be active in both Loopstation and solo.
 Human Beatbox is a modern expressive culture that combines many aspects such as music, performance, video, and composition.
 Now that the competition culture is maturing, technology is evolving, and Japanese artists are emerging, beatboxing is undergoing major changes, and beatboxing is becoming more than just a technique, it is becoming an international music genre.
 
-I hope this article will help you understand the history and future of beatboxing.
+I hope that this article will help you understand the history and future of beatboxing.
 
 ---

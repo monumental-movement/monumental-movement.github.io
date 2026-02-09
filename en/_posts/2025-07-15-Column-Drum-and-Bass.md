@@ -46,7 +46,7 @@ D&B's roots lie in the jungle genre. This was a chaotic beat music that was a mi
 
 **Establishment period of Drum & Bass**
 
-From this time on, the name "jungle" gradually changed to "D&B". This means the sound is more refined and the sub-bass and production techniques have improved. Its functionality as club music increases and the scene matures.
+From this time on, the name "jungle" gradually changed to "D&B". This means a more refined sound, improved sub-bass and production techniques. Its functionality as club music increases and the scene matures.
 
 #### Representative artists:
 
@@ -102,7 +102,7 @@ From this time on, the name "jungle" gradually changed to "D&B". This means the 
 
 **● Jungle**
 
-The origin of D&B.ラガ・ボーカルやレゲエ・ベース、荒削りなブレイクが特徴。
+The origin of D&B. Features ragga vocals, reggae bass, and rough breaks.
 
 **● Techstep**
 

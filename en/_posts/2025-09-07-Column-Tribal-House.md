@@ -59,7 +59,7 @@ In the mid-90s, labels and compilations that pushed the boundaries of the genre 
 ## Transformation and commercialization (2000s)
 
 **Background of the times**
-In the 2000s, tribal elements were fused with progressive/electro, etc., and the number of derivative genres increased. The production environment has shifted from being hardware-based to DAW-based, making it possible to create more sophisticated sound designs.
+In the 2000s, tribal elements were fused with progressive/electro, etc., and the number of derivative genres increased. The production environment has shifted from being primarily based on hardware to being based on a DAW, making it possible to create more sophisticated sound designs.
 
 **Change in production method**
 - Processing of percussion instruments with extensive use of effect processing (filter/reverb/delay).

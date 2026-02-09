@@ -176,9 +176,9 @@ Equipment that was often used (within the range that can be confirmed as fact)
 - Korg analog model
 - Field recorder (cassette/reel-to-reel)
 
-## ● 3-2. Home recording and home studio culture
+## ● 3-2. 家庭録音とホームスタジオ文化
 Home recording equipment became widespread in Japan early on, and many composers conducted experimental sound production at home.
-This was a major feature compared to Europe and America, and became the background for the deepening of environmental music on an individual level.
+これは欧米に比べても大きな特徴であり、環境音楽が個人レベルで深化した背景となった。
 
 ## ● 3-3. Cooperation with acoustic design and architecture
 Hiroshi Yoshimura and Inoyama Land also participated in the acoustic design of architectural spaces, public facilities, corporate showrooms, etc., and emphasis was placed on the functionality of music and its influence on space.
@@ -193,7 +193,7 @@ Commercial facilities in Tokyo in the 1980s focused on music design,
 "Acoustics that improve the quality of life"
 was raised as a theme.
 
-In this context, environmental music went beyond mere background music and became an element that shaped the impression of the space.
+環境音楽はその文脈で、単なるBGMを超え、空間の印象を形作る要素となった。
 
 ## ● 4-2. Connection with "comfort functions" of home appliances
 

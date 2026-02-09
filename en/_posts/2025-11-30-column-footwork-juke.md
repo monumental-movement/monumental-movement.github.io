@@ -63,7 +63,7 @@ The musical characteristics of Footwork/Juke are as follows.
 - **Rhythm structure**: Complex syncopation, use of TR-808/909 drum machines.
 - **Sampling**: High-speed recording of fragmented vocals, hip-hop and R&B phrases.
 - **Song structure**: Repeats short phrases mainly in loops. It often uses odd time signatures and irregular breaks.
-- **Sound characteristics**: Low-range bass drum is emphasized, snare is finely dispersed. Skillfully utilizes stereo space.
+- **Acoustic Features**: The bass drum in the low range is emphasized, and the snare is finely dispersed. Skillfully utilizes stereo space.
 
 ---
 

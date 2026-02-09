@@ -58,7 +58,7 @@ This diverse background has created the foundation for Hikashu, not just a band 
 In 1978, the official "Hikashu" started.
 Around the same time, YMO debuted in Japan, and the bridge between electronic music and pop music became immediately visible. However, Hikashu, while staying close to this trend, develops a strange pop that barely deviates from the grammar of popular pop.
 
-In particular, the performances from 1979 to 1980 are said to be more than just their sounds, but rather their "existence itself is avant-garde," and they have the following characteristics:
+In particular, the performances from 1979 to 1980 are said to be more than just their sound, but rather their "existence itself is avant-garde," and they have the following characteristics:
 
 - **Absurd lyrics**
 - **Also acoustic vocal manipulation** (harmonic chanting, exhalation modulation, meaningless syllables)
@@ -88,7 +88,7 @@ It is the beginning of a break from the genre, and cannot be categorized as so-c
 # 4. Expansion of Koichi Makigami"s activities (late 1980s – 1990s)
 —To techno, folk music, theremin, and performing arts
 
-In parallel with the group's activities, leader Koichi Makigami is expanding the scope of his activities with a focus on **expansion of voice**.
+In parallel with group activities, leader Koichi Makigami expands the scope of his activities with a focus on **expansion of voice**.
 
 - Further exploration of overtone singing
 - Collaboration with contemporary dance

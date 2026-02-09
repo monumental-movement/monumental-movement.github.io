@@ -97,7 +97,7 @@ As a result, Japanese lyrics tend to prioritize sound over meaning.
 After the war, with the spread of radio and records, a large amount of Western popular music flowed into Japan.
 During this period, many songs were introduced in their original language or with simple translations.
 
-On the other hand, in many cases it has been adapted as a popular song, with new Japanese lyrics added to the original melody.
+On the other hand, there are many cases where it has been adapted as a popular song, with new Japanese lyrics added to the original melody.
 These are not strictly translations, but cultural re-creations.
 
 The custom of ""Japanese lyrics that are separate from the original songs'' that was formed during this period had a long-lasting influence.
@@ -148,7 +148,7 @@ This has made hip-hop a special case of cultural import without any translation.
 
 ## Chapter 8: Japanese rap and cultural import in the opposite direction
 
-The establishment of Japanese rap progressed not through translation of English lyrics, but through the transplantation of form and attitude.
+The establishment of Japanese rap progressed not through the translation of English lyrics, but through the transplantation of form and attitude.
 Here, the focus is on imitation and reconstruction rather than translation.
 
 In the process of adapting English prosody to Japanese, the unique Japanese sense of rhythm was emphasized and a new system of expression was born.

@@ -168,7 +168,7 @@ On the other hand, in Europe and Japan, styles that emphasize lyricism and techn
 
 | Artist | Album | Release year | Features |
 |-------------|----------|---------|------|
-| Led Zeppelin | Led Zeppelin IV | 1971 | Includes "Stairway to Heaven", Mythical Being |
+| Led Zeppelin | Led Zeppelin IV | 1971 | Includes "Stairway to Heaven," Mythical Being |
 | AC/DC | Back in Black | 1980 | Immortal hard rock anthem with worldwide sales |
 | Deep Purple | Machine Head | 1972 | "Smoke on the Water" establishes a classic riff |
 | Black Sabbath | Paranoid | 1970 | Dark and heavy sound symbolizes the outlaw spirit |

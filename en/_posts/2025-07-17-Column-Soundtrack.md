@@ -39,7 +39,7 @@ A pianist and an orchestra provided live music at the movie theater. Therefore, 
 
 Starting with [""The Jazz Singer'' (1927)] (https://amzn.to/3Wn4CTH), **Optical Sound** was introduced, and we entered an era in which audio information (scores) were recorded on video film.
 
-Around this time, the meaning of ""soundtrack = movie audio material'' became clear.
+Around this time, the meaning of ""soundtrack = audio material of a movie'' became clear.
 
 **●Major media for film music: technological changes in recording and playback**
 
@@ -69,17 +69,17 @@ A new way to carry movie music with your car audio or portable device.
 
 ■CD (compact disc)
 
-Since the 1980s, it has become popular as a format with high sound quality, long duration, and a high degree of freedom in song order.
+Since the 1980s, it has become popular as a format with high sound quality, long duration, and high flexibility in song order.
 
 It became possible to record full scores, creating a golden age for movie music appreciation.
 
-Labels specializing in soundtracks (La-La Land Records, Intrada, Varese Sarabande, etc.) also appear.
+Labels specializing in soundtracks (La-La Land Records, Intrada, Varese Sarabande, etc.) have also appeared.
 
 ■DVD/Blu-ray: Video + Music
 
 A medium for ""re-experiencing'' soundtracks in video works.
 
-The spatial expression of music has greatly evolved through stereophonic technology such as 5.1ch/DTS.
+The spatial expression of music has greatly evolved with stereophonic technology such as 5.1ch/DTS.
 
 ■Digital sound source (MP3/WAV/FLAC/AAC)
 
@@ -87,7 +87,7 @@ Music source sales on iTunes and Amazon MP3.
 
 Independent film composers are also featured on platforms such as Bandcamp.
 
-Full scores, unreleased songs, and alternate takes can be delivered in high resolution.
+Full scores, unreleased songs, and alternate takes can be distributed in high resolution.
 
 ■Subscription (Spotify / Apple Music, etc.)
 

@@ -101,7 +101,7 @@ No Policy E.P. is not a work that is evaluated for its completeness or sound qua
 
 S.O.A's live activities were short-lived and the venues were limited. They primarily performed in small clubs and DIY spaces, and were only known within the New York punk scene at the time. At live performances, the emphasis was on the energy of collision rather than musical perfection, and the distance from the audience was extremely close.
 
-The band disbanded around 1981. The reason for the group's disbandment is more like a spontaneous disappearance due to the movement of members and changes in their interests, rather than a specific incident. However, this dissolution does not end S.O.A. Instead, it spreads in a different way.
+The band disbanded around 1981. The reason for the group's disbandment is more like a natural disappearance due to the movement of members and changes in their interests, rather than a specific incident. However, this dissolution does not end S.O.A. Instead, it spreads in a different way.
 
 > S.O.A was a live band and was more present in the field than on record.
 
@@ -115,7 +115,7 @@ Henry Rollins joins Black Flag after S.O.A disbands. There, he acquired a more s
 
 S.O.A itself is rarely talked about as a representative of New York hardcore. However, as a record of that ""nobody phase,'' it provides important clues for understanding what subsequent bands inherited and what they discarded.
 
-> S.O.A functioned as a turning point, not an end point.
+> S.O.A functioned as a turning point rather than an end point.
 
 ---
 

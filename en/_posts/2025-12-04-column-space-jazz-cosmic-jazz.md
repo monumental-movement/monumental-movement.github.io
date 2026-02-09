@@ -40,7 +40,7 @@ color: #fff;
 
 ## 1. Origin: Sun Ra and the formation of Afrofuturism
 
-From the late 1950s to the 1960s, Sun Ra developed a sound and ideology that significantly deviated from traditional jazz forms. He described himself as ""a being who came from Saturn'' and developed a thorough cosmic worldview. The costume has metallic luster robes, helmets, and abstract geometric patterns. On stage, a performance reminiscent of an extradimensional ritual or a futuristic city unfolded, completely integrating music and visual expression.
+From the late 1950s to the 1960s, Sun Ra developed a sound and ideology that significantly deviated from traditional jazz forms. He described himself as ""a being from Saturn,'' and developed a thorough cosmic worldview. The costume has metallic luster robes, helmets, and abstract geometric patterns. On stage, a performance reminiscent of an extradimensional ritual or a futuristic city unfolded, completely integrating music and visual expression.
 
 In terms of performance, the band was full of very cutting-edge experiments at the time, such as collective improvisation through an orchestral formation, use of electric instruments, and early synthesizers. In particular, Sun Ra Arkestra created a sound that was largely free from conventional harmonics and song structure, moving between free jazz-like chaos and cosmic silence.
 

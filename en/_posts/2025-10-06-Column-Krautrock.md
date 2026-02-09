@@ -19,7 +19,7 @@ title: '[Column] A complete history of Krautrock - German experimental music as 
 Text: mmr｜Theme: Krautrock is an important trend that deeply influenced later generations of music such as experimental music, electronic music, post-rock, and techno that originated in Germany.
 
 "Krautrock"——. It was originally a derogatory name given by a British music magazine.
-"Sauerkraut" is a slang term for Germans.
+"Sauerkraut" is a slang term for German people.
 However, young people in the late 1960s reversed that label and used it as a banner for creating their own music.
 
 Postwar Germany. Memories of defeat, the flood of American and British culture, and the emptiness of not having a voice.
@@ -74,7 +74,7 @@ He ended up becoming a member of the band.
 
 Their music is a "fluid rhythm" that rejects structure.
 Especially on the album "Tago Mago" (1971), the songs were rearranged through editing.
-This gave rise to the concept that "recording tape itself is an instrument."
+This gave birth to the concept that the recording tape itself is an instrument.
 Shukai's editing techniques were similar to later hip-hop sampling.
 
 > "Rhythm rules time. But improvisation frees you from time."
@@ -168,7 +168,7 @@ The "future" that they saw is now in our current musical landscape.
 ### Revolution in silence
 Unit **Cluster** by **Dieter Möbius** and **Hans-Joachim Roedelius**.
 Unlike CAN and Faust, they are hardly "noise" or "rock".
-Between the inorganic electronic sounds and silence, the reverberations and breathing of the city were felt.
+The reverberations and breathing of the city were felt between the inorganic electronic sounds and silence.
 
 His debut album, Cluster 71 (1971), is a series of experimental tape sounds, but also somehow meditative.
 The follow-up, ""Zuckerzeit"' (1974), was produced by Neu!"s Klaus Dinger and introduced a minimalist and comfortable rhythm.
@@ -329,3 +329,13 @@ It is a story of a ""universal creative spirit" rather than a ""German origin."
 Tapes, rhythms, electronic waves--they still play in the underground studio.
 
 > "Krautrock isn"t over. It"s still going on in your ears."
+
+---
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/64P2HPB6Tcs?si=oiefUkJoLWP4FK72" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

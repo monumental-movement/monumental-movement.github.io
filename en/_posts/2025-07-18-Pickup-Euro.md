@@ -7,11 +7,11 @@ lang: en
 layout: post
 tags:
 - Euro
-title: Pick up euro music works
+title: ユーロ・ミュージック作品をピックアップ
 ---
 
 
-""A remarkable group of Euro music pieces filled with sophisticated melodies and a sense of dynamism that excites the dance floor.''
+「洗練されたメロディとダンスフロアを熱狂させる躍動感に満ちた、注目すべきユーロ・ミュージック作品群」
 
 <hr>
 
@@ -20,7 +20,7 @@ title: Pick up euro music works
 
 Format: Vinyl
 
-Genre: Euro House / Synth-pop
+ジャンル：Euro House / Synth-pop
 
 Release date: Posted on November 15, 2024 (Rednex – Cotton Eye Joe)
 
@@ -51,9 +51,9 @@ B2. Cotton Eye Joe (Overworked Mix)
 
 Format: CD
 
-Genre: '90s Euro / Euro Beat
+ジャンル：'90s Euro / Euro Beat
 
-Included songs: "Feel the Heat of the Night", "I Got to Give It Up", etc. German Eurodance masterpiece released in 1994
+収録曲：「Feel the Heat of the Night」「I Got to Give It Up」など。1994年リリースのドイツ・ユーロダンス代表作 
 
 #### Tracklist
 ```md
@@ -85,11 +85,11 @@ Bonus Track For Japan
 ### VA – Maharaja Top 20 Vol. III
 <a href="https://jp.mercari.com/item/m24287278460?afid=6142608987"><img src="../assets/images/VA%20%E2%80%93%20Maharaja%20Top%2020.webp"></a>
 
-Format: CD (not for sale)
+フォーマット：CD（非売品）
 
-Genre: 90s Euro House / Eurobeat / Italodance
+ジャンル：90年代 Euro House / Eurobeat / Italodance
 
-Contains representative songs from the 90s scene in compilation format
+コンピレーション形式で90年代シーンの代表曲を収録 
 
 #### Tracklist
 ```md
@@ -116,7 +116,7 @@ Contains representative songs from the 90s scene in compilation format
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m24287278460?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m24287278460?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -128,9 +128,9 @@ Contains representative songs from the 90s scene in compilation format
 
 Format: Vinyl
 
-Genre: 80s-90s Euro House
+ジャンル：80-90年代 Euro House
 
-Euro house, techno, new beat, garage house compilation from the late 80"s to the 90"s
+80年代後半から90年代のユーロハウス・テクノ・ニュービート・ガラージハウス系コンピレーション
 
 #### Tracklist
 ```md
@@ -148,7 +148,7 @@ B5. LNR – Work It To The Bone
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m82073091012?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m82073091012?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -161,9 +161,9 @@ B5. LNR – Work It To The Bone
 
 Format: Vinyl
 
-Genre: 90s Euro / Euro House
+ジャンル：90s Euro / Euro House
 
-12″ EP with mix of 1990s club hit "In Ecstasy"
+1990年代クラブヒット「In Ecstasy」ミックス入りの12″ EP 
 
 #### Tracklist
 ```md
@@ -186,7 +186,7 @@ B2. You And Me (In Ecstasy) (Save The Whales Mix)
 
 Format: Vinyl
 
-Genre: 90s Euro / Euro House
+ジャンル：90s Euro / Euro House
 
 12″ EP with mix of 1990s club hit "In Ecstasy"
 
@@ -198,7 +198,7 @@ B. No Police = No Llamen A La Policia (Original Version)
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m35371062618?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m35371062618?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -210,7 +210,7 @@ B. No Police = No Llamen A La Policia (Original Version)
 
 Format: Vinyl
 
-Genre: 90s Euro / Euro House
+ジャンル：90s Euro / Euro House
 
 12″ EP with mix of 1990s club hit "In Ecstasy"
 
@@ -236,9 +236,9 @@ B2. Kaos (Original German Sausage Mix)
 
 Format: Vinyl
 
-Genre: Euro Beat / Euro House
+ジャンル：Euro Beat / Euro House
 
-Belgian-produced Euro truck, published in October 2023
+ベルギー制作ユーロトラック、2023年10月に掲載 
 
 #### Tracklist
 ```md
@@ -248,7 +248,7 @@ B. So High (Single Mix)
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m84866354258?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84866354258?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -261,9 +261,9 @@ B. So High (Single Mix)
 
 Format: Vinyl
 
-Genre: 90s Euro House
+ジャンル：90s Euro House
 
-UK pop euro sound released in 1994, remixed by Ben Liebrand
+1994年リリース、Ben Liebrandによるリミックス収録のUKポップユーロサウンド 
 
 #### Tracklist
 ```md
@@ -275,7 +275,7 @@ B #2. Around The World (Global House Mix)
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m87830012673?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m87830012673?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -289,7 +289,7 @@ Format: Vinyl
 
 Genre: Euro Beat / Hi‑NRG
 
-Italian EP released in 2001, energy 12″
+2001年リリースのイタリア産EP、エナジー系12″ 
 
 #### Tracklist
 ```md
@@ -303,7 +303,7 @@ B2. P. Stone–Kosmic Woofer (Extended Version)
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m53285819387?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m53285819387?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -316,9 +316,9 @@ B2. P. Stone–Kosmic Woofer (Extended Version)
 
 Format: Vinyl
 
-Genre: Euro / Euro House
+ジャンル：Euro / Euro House
 
-Released in Italy in 1994 by Deep Forest members ◆
+Deep Forestメンバーによる1994年イタリアリリース ◆ 
 
 #### Tracklist
 ```md
@@ -328,7 +328,7 @@ B. La Jument De Mishao (Club Mix)
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m81110098498?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m81110098498?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -341,7 +341,7 @@ B. La Jument De Mishao (Club Mix)
 
 Format: CD
 
-Genre: 90s Euro / Euro Beat / Hi‑ERG House
+ジャンル：90s Euro / Euro Beat / Hi‑ERG House
 
 The hit song "Turn Me On" was included on the album released in 1997.
 
@@ -362,7 +362,7 @@ The hit song "Turn Me On" was included on the album released in 1997.
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m50295230132?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m50295230132?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -375,9 +375,9 @@ The hit song "Turn Me On" was included on the album released in 1997.
 
 Format: CD
 
-Genre: 90s Euro / Euro Beat / Hi‑ERG House
+ジャンル：90s Euro / Euro Beat / Hi‑ERG House
 
-"Willy Use A Billy… Boy" is E-Rotic's fourth single in Germany and debut single in Japan.
+「Willy Use A Billy… Boy」はドイツではE-Roticの4枚目のシングル、日本ではデビューシングル
 
 #### Tracklist
 ```md
@@ -386,7 +386,7 @@ B. Willy Use A Billy... Boy (Safe The Sex Re-Max)
 ```
 
 
-[Purchase on Mercari](https://jp.mercari.com/item/m74466346239?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74466346239?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -399,10 +399,10 @@ B. Willy Use A Billy... Boy (Safe The Sex Re-Max)
 <table>
 <thead>
 <tr>
-<th>Artist</th>
-<th>Title</th>
+      <th>アーティスト</th>
+      <th>タイトル</th>
 <th>Format</th>
-<th>Age/Characteristics</th>
+      <th>年代／特徴</th>
 </tr>
 </thead>
 <tbody>
@@ -410,17 +410,17 @@ B. Willy Use A Billy... Boy (Safe The Sex Re-Max)
 <td>Rednex</td>
 <td><a href="https://jp.mercari.com/item/m58300098495?afid=6142608987">Cotton Eye Joe</a></td>
 <td>12″</td>
-<td>Swedish euro house/synth pop</td>
+      <td>スウェーデン産ユーロハウス／シンセポップ</td>
 </tr>
 <tr>
 <td>Masterboy</td>
-<td><a href="https://jp.mercari.com/item/m79586502927?afid=6142608987">Different Dreams</a></td>
+      <td><a href="https://jp.mercari.com/item/m79586502927?afid=6142608987">Different Dreams</a></td>
 <td>CD</td>
-<td>1994 German Eurodance masterpiece</td>
+      <td>1994  ドイツ・ユーロダンス名盤</td>
 </tr>
 <tr>
-<td>VA</td>
-<td><a href="https://jp.mercari.com/item/m24287278460?afid=6142608987">Maharaja Top 20 Vol.III</a></td>
+      <td>VA</td>
+      <td><a href="https://jp.mercari.com/item/m24287278460?afid=6142608987">Maharaja Top 20 Vol.III</a></td>
 <td>CD</td>
 <td>90s not for sale compilation</td>
 </tr>
@@ -428,7 +428,7 @@ B. Willy Use A Billy... Boy (Safe The Sex Re-Max)
 <td>Various</td>
 <td><a href="https://jp.mercari.com/item/m82073091012?afid=6142608987">Overnight Remixes II</a></td>
 <td>Vinyl</td>
-<td>90s famous track compilation</td>
+      <td>90s 名トラック集コンピ</td>
 </tr>
 <tr>
 <td>MDC‑X‑Static</td>
@@ -437,38 +437,38 @@ B. Willy Use A Billy... Boy (Safe The Sex Re-Max)
 <td>90s Club Hit EP</td>
 </tr>
 <tr>
-<td>Ziggy</td>
+      <td>Ziggy</td>
 <td><a href="https://jp.mercari.com/item/m35371062618?afid=6142608987">No Police (Aztec Remix)</a></td>
 <td>Vinyl</td>
 <td>90s Eurobeat/Hi-NRG Rare Edition</td>
 </tr>
 <tr>
 <td>Dr. Baker</td>
-<td><a href="https://jp.mercari.com/item/m83196886792?afid=6142608987">Kaos</a></td>
+      <td><a href="https://jp.mercari.com/item/m83196886792?afid=6142608987">Kaos</a></td>
 <td>Vinyl</td>
-<td>1990 UK release/Euro House</td>
+      <td>1990  UKリリース・Euro House</td>
 </tr>
 <tr>
 <td>Tam Arrow</td>
-<td><a href="https://jp.mercari.com/item/m53285819387?afid=6142608987">One ​​Shot Girl</a></td>
+      <td><a href="https://jp.mercari.com/item/m53285819387?afid=6142608987">One Shot Girl</a></td>
 <td>Vinyl</td>
 <td>Made in Italy 2001 Euro Beat EP</td>
 </tr>
 <tr>
 <td>Dao Dezi</td>
-<td><a href="https://jp.mercari.com/item/m81110098498?afid=6142608987">La Jument De Mishao</a></td>
+      <td><a href="https://jp.mercari.com/item/m81110098498?afid=6142608987">La Jument De Mishao</a></td>
 <td>12″</td>
-<td>"94 deep Euro house release</td>
+      <td>’94年深いユーロハウス系リリース</td>
 </tr>
 <tr>
 <td>E-Rotic</td>
-<td><a href="https://jp.mercari.com/item/m50295230132?afid=6142608987">Sexual Madness</a></td>
+      <td><a href="https://jp.mercari.com/item/m50295230132?afid=6142608987">Sexual Madness</a></td>
 <td>CD</td>
 <td>1997 hit "Turn Me On" included</td>
 </tr>
 <tr>
 <td>E-Rotic</td>
-<td><a href="https://jp.mercari.com/item/m74466346239?afid=6142608987">Willy Use A Billy... Boy</a></td>
+      <td><a href="https://jp.mercari.com/item/m74466346239?afid=6142608987">Willy Use A Billy... Boy</a></td>
 <td>Vinyl</td>
 <td>90s classic single</td>
 </tr>

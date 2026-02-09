@@ -183,7 +183,7 @@ These remixes/arrangements play a role in promoting ""listening to Gundam"' and 
 
 ---
 
-## Chapter 6: Discussion and future prospects
+## Chapter 6: Discussion and future outlook
 
 ### 6.1 What is the universality of Gundam music?
 

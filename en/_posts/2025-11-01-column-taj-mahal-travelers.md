@@ -81,7 +81,7 @@ He put into practice the philosophy that ""the place itself becomes an instrumen
 
 ---
 
-## V. Traveling through sound: from India to Europe (1971–1972)
+## V. Traveling through sound: From India to Europe (1971–1972)
 
 In 1971, the Taj Mahal Tour Group departs for a tour of Europe.
 Their journey was not just a tour, but a ""sound pilgrimage.''
@@ -157,7 +157,7 @@ Until his later years, based on his belief that "sound is a natural phenomenon,"
 ## X. The legacy of Takehisa Kosugi and the Taj Mahal Tourist Group
 
 Today, their activities include "sound art," "field recording," and "ambient music."
-It is being reevaluated as the source of diverse musical trends.
+It is being reevaluated as the source of diverse music trends.
 An attitude of listening to sound as a ""phenomenon" rather than ""material" or ""information.''
 This is the most important message that Kosugi left us.
 

@@ -109,7 +109,7 @@ A list of famous recordings that symbolize reggae cassette culture. These are no
 
 ## Representative reggae artists by era
 
-The sounds of representative artists closely related to cassette culture are organized by decade.
+The sounds of representative artists closely related to cassette culture are organized by era.
 
 | Era | Representative artists/sounds | Characteristics |
 |------|----------------------------|------|
@@ -161,14 +161,14 @@ The spread of reggae and cassette culture will be organized in parallel as movem
 
 ---
 
-## 代表的なイベント／クラブ名（年表形式）
+## Representative events/club names (chronological table format)
 
 | Age | Jamaica | Japan |
 |------|------------|------|
 | 1970s | Reggae Sunsplash (1978~) | Grassroots event at a small club in Shinjuku |
-| 1980s | Sting (1984〜) | 渋谷クラブ「Harlem」初期イベント |
+| 1980s | Sting (1984~) | Shibuya club "Harlem" initial event |
 | 1990s | Fully Loaded | Shibuya Citta", Yokohama Bay Hall |
-| 2000s | Rebel Salute | 横浜レゲエ祭 |
+| 2000s | Rebel Salute | Yokohama Reggae Festival |
 | 2010s~ | Reggae Sumfest | Shibuya Club Asia, Daikanyama Unit |
 
 ---
@@ -177,7 +177,7 @@ The spread of reggae and cassette culture will be organized in parallel as movem
 
 | Page name | Format/tag | Announcement date/characteristics | Link |
 |---|----------------------|----------------|-------|
-| Bob Marley – Soul Almighty - The Formative Years Vol. 1 | **Cassette**, 90s / Reggae / Roots / Rocksteady | Remastered work including unreleased songs. 90年代にカセットとしてリリース。 :contentReference[oaicite:0]{index=0} | [Bob Marley – Soul Almighty Vol.1](https://monumental-movement.jp/Bob-Marley-Soul-Almighty-The-Formative-Years-Vol.-1/) |
+| Bob Marley – Soul Almighty - The Formative Years Vol. 1 | **Cassette**, 90s / Reggae / Roots / Rocksteady | Remastered work including unreleased songs. Released as a cassette in the 90's. :contentReference[oaicite:0]{index=0} | [Bob Marley – Soul Almighty Vol.1](https://monumental-movement.jp/Bob-Marley-Soul-Almighty-The-Formative-Years-Vol.-1/) |
 | Yellowman & General Trees – A Reggae Calypso Encounter | **Cassette**, Dancehall / Reggae | Yellowman + General Trees co-star. Strong aspects of dancehall reggae, including calypso elements. :contentReference[oaicite:2]{index=2} | [Yellowman & General Trees – A Reggae Calypso Encounter](https://monumental-movement.jp/Yellowman-and-General-Trees-A-Reggae-Calypso-Encounter/) |
 | Yellowman – Rambo | **Cassette**, Dancehall / Reggae | Recorded in 1982. Yellowman's signature toast style song. Comes with cassette.  | [Yellowman – Rambo](https://monumental-movement.jp/Yellowman-Rambo/) |
 

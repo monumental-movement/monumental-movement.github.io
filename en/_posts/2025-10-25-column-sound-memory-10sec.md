@@ -87,7 +87,7 @@ flowchart TD
 
 Not only individuals but also society forms memories based on ""10 seconds of sound''.
 For example, the Olympic fanfare, the intro to a Star Wars movie, or the sound of a smartphone notification.
-These subtle sounds evoke common emotional responses across generations and borders.
+These subtle sounds evoke a common emotional response across generations and borders.
 
 It's no coincidence that TikTok and YouTube Shorts have centered around 10-15 second sound loops since the 2000s.
 The algorithm selects the ""sound that stimulates emotions the fastest,'' which has become a cultural conditioned reflex.

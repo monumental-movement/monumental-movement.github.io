@@ -20,7 +20,7 @@ title: Pick up High Energy (Hi-NRG) works
 ### E-Rotic – "Willy Use A Billy... Boy"
 <a href="https://jp.mercari.com/item/m74466346239?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Willy%20Use%20A%20Billy%20Boy.webp"></a>
 
-Sexy and catchy euro pop from Germany. As an interpretation of Hi-NRG from the 90"s, it"s a highly addictive track that you'll want to hum.
+Sexy and catchy euro pop from Germany. As an interpretation of Hi-NRG from the 90"s onwards, it"s a highly addictive track that you'll want to hum.
 
 #### Tracklist
 ```md

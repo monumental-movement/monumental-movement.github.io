@@ -269,7 +269,7 @@ The shift from ""track reproduction" to ""sound generation" has also influenced 
 
 ---
 
-# Future outlook
+# Future prospects
 
 Modular Techno is expected to continue to evolve, and several directions are expected.
 
@@ -301,7 +301,7 @@ At the root of this is the most fundamental joy in electronic music: ""manipulat
 
 # Detailed equipment list (Modular Techno frequently used modules)
 
-The following is a compilation of equipment categories often used by actual Modular Techno artists, with a focus on Eurorack.
+Below is a list of equipment categories commonly used by actual Modular Techno artists, with a focus on Eurorack.
 
 ## VCO (Oscillator)
 - Make Noise – DPO

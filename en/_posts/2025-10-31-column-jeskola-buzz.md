@@ -91,7 +91,7 @@ This led to the following trends:
 
 * Individual developers publish sound sources/effects, and you can enjoy new sounds/processing just by downloading and incorporating them.
 * Users began to take on the challenge of ""how far they could create circuits" and ""how much experimental sound could they get."
-* There has been an increase in the number of cases in which people who create experimental works that cross musical genres choose Buzz as a "tool."
+* People who create experimental works that cross musical genres are increasingly choosing Buzz as a "tool."
 
 ### 3.4 Lightweight, immediate, and superior as an experimental environment
 
@@ -225,7 +225,7 @@ This stagnation/resumption structure was also influenced by external factors suc
 Buzz's legacy can be broadly categorized into three things:
 
 - 1. **Spread of modular thinking**: The idea of ​​putting together patches on software became popular, and the image that ""creating sound = connecting cables'' became established.
-- 2. **User extension/plugin culture**: A culture of users creating and sharing equipment has taken root, and can be said to be the prototype of today's VST/plugin community.
+- 2. **User expansion/plugin culture**: A culture of users creating and sharing equipment has taken root, and can be said to be the prototype of today's VST/plugin community.
 - 3. **Promotion of individual creators/DIY music**: Indie/underground electronic music production has been revitalized by the availability of a sophisticated acoustic environment at a low price or free of charge.
 
 These are not just relics of the "retro tools" of the past, but also influence the current music production environment and even the context of live/modular equipment.

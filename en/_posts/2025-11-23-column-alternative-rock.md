@@ -26,7 +26,7 @@ Although the term "alternative rock" became popular in the early 1990s, its orig
 
 In the 1980s, mainstream rock was centered on loud arena-sized hard rock, commercially polished AOR, and pop rock associated with MTV. On the other hand, in regional cities and university towns, a new movement of bands rooted in the DIY spirit and not based on commercial success began to emerge.
 
-In the United States at the time, independent labels such as SST Records, Twin/Tone, and Touch and Go were producing a variety of styles that were not dependent on genre. This was a movement known as ""college rock'', a band that inherited the speed and anti-authoritarianism of hardcore punk, but had a freer experimental spirit.
+In the United States at the time, independent labels such as SST Records, Twin/Tone, and Touch and Go were producing a variety of styles that were not dependent on genre. This was a movement called ""college rock'', a band that inherited the speed and anti-authoritarianism of hardcore punk, but had a freer experimental spirit.
 
 Around the same time, in Britain, the post-punk scene was branching out underground in a complicated way.
 Labels like Factory, 4AD, and Creation all had their own unique aesthetics, releasing a wide range of bands from guitar pop to shoegaze to gothic rock.
@@ -69,7 +69,7 @@ These three became the basis for later Alterna.
 
 Since 1987, US indie music has become more sophisticated, and album production methods have evolved significantly. Pixies released "Surfer Rosa" in 1988, clarifying the dynamic structure of "stillness and movement." This structure was later taken over by Nirvana, leading to the explosion of grunge.
 
-Dinosaur Jr. also brought back the guitar solo and fused it with roaring sounds, defining the grammar of later alternative guitar.
+Dinosaur Jr. also brought back guitar solos and fused roar, defining the grammar of later alternative guitar.
 Fugazi retained the spirit of hardcore, introduced melodies and structural arrangements, and held its own as a DIY icon.
 
 In the UK, bands such as Stone Roses (1989) and My Bloody Valentine (1990) appeared, and the Manchester scene and shoegaze brought a new trend to Europe.
@@ -87,7 +87,7 @@ characteristic of grunge
 ・Lyrics full of instability
 ・Mixture of roar and melody
 ・Punk ethics
-However, it presented a different set of values ​​from commercial rock, and became a worldwide movement with mass broadcasts on MTV.
+However, it presented a different set of values ​​from commercial rock, and became a worldwide movement with mass broadcasts by MTV.
 
 Around the same time, bands from Seattle such as Pearl Jam, Soundgarden, and Alice in Chains achieved success one after another, and became recognized worldwide as "representatives of grunge/alternative."
 

@@ -53,7 +53,7 @@ Then, in 1994, the album [""_Musik_"'] was released from the label NovaMute (htt
 > "Plastikman is a project that uses sound to visualize my own insides."
 > — Richie Hawtin
 
-Live performances around this time had red strobe lights flashing momentarily in an almost pitch-black venue, symbolizing the materialization of sound. Rather than dancing, the audience felt as if they were ""sinking'' into the sound.
+The live shows around this time had red strobe lights flashing momentarily in the almost pitch-black venue, symbolizing the materialization of sound. Rather than dancing, the audience felt as if they were ""sinking'' into the sound.
 
 #### Plastikman – Musik
 
@@ -110,7 +110,7 @@ His minimalism evolved, completely dissolving the boundaries between music and a
 Plastikman"s genes permeate Villalobos, Donato Dozzy, Cio D"Or, and the modern modular scene.
 ""Pleasure of structure," ""introspection of sound," and ""temporization of space'' -- these elements now form the basis of techno.
 
-In particular, "Consumed in Key" (2022, collaboration: Chilly Gonzales) broke new ground as a dialogue between piano and minimalism. It was the moment when Plastikman once again stroked the "line between humanity and inorganicity."
+In particular, "Consumed in Key" (2022, collaboration: Chilly Gonzales) broke new ground in **a dialogue between piano and minimalism**. It was the moment when Plastikman once again stroked the "line between humanity and inorganicity."
 
 ---
 

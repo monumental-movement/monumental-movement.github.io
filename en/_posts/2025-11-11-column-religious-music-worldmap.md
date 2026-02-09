@@ -18,7 +18,7 @@ title: '[Column] Religious music around the world and its psychological and soci
 ## Prologue: The universality of music and religion
 
 
-Text: mmr｜Theme: Comparing religious music from around the world from the perspective of history, psychology, and physiological effects, and understanding it through illustrations
+Text: mmr｜Theme: Comparing religious music from around the world from the perspectives of history, psychology, and physiological effects, and understanding it through illustrations
 
 Music is a universal element that supports religious rituals, prayers, and meditation.
 From ancient chants to modern healing music, sounds, rhythms, and voices have had a profound impact on the human mind and body.

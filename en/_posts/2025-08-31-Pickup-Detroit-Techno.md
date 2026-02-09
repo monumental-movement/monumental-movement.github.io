@@ -83,7 +83,7 @@ Recommended points: A masterpiece that condenses the future-oriented and cool so
 
 Features: Minimal track structure with simple synth lines and rhythm. It is characterized by its spatial, floating synth work and cool, mechanical rhythm.
 
-Recommended point: A song that lets you experience the origins of Detroit techno. By adding it early in a DJ set, you can create a ""Detroit-like cosmic feeling'' on the floor. Easy to listen to even for beginners, perfect for understanding the worldview of the Model 500.
+Recommended point: A song that lets you experience the origins of Detroit techno. If you put it in early in a DJ set, you can create a ""Detroit-like cosmic feeling'' on the floor. Easy to listen to even for beginners, perfect for understanding the worldview of the Model 500.
 
 #### Tracklist
 ```md
