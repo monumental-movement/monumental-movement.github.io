@@ -17,7 +17,7 @@ title: '[Column] Dark Ambient / Ritual Ambient'
 
 ## 1. Redefining the concept of genre
 
-Text: mmr｜Theme: Formation of immersive experience through sound, space, and ritual structure
+Text: mmr｜Theme: Formation of immersive experience through acoustics, space, and ritual structure
 
 Dark Ambient is not a semantic extension of ambient music, but a sonic expression created by intentionally reducing musical elements.
 
@@ -55,7 +55,7 @@ From the late 1970s to the 1980s, people around industrial music experimented wi
 * Frequency design with discomfort in mind
 * Refusal to repeat or expand
 
-These attempts resulted in ""music that cannot be heard,'' and laid the groundwork for the immersive sound that later Dark Ambient aspired to.
+These attempts resulted in ""music that cannot be heard,'' and laid the groundwork for the immersive sound that later Dark Ambient aimed for.
 
 ---
 
@@ -78,7 +78,7 @@ Through this methodology, music is presented as a state of being rather than a p
 
 ### 4.1 Frequency band imbalance
 
-The design, centered around the lower limit of the audible range, creates a perception accompanied by a physical vibrational sensation.
+The design, centered around the lower limit of the audible range, creates a perception accompanied by a physical sensation of vibration.
 
 ### 4.2 Handling spatial recording
 

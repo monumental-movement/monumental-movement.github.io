@@ -193,8 +193,8 @@ From here on, the music changes drastically.
 ### Features after restart:
 - 150-170 BPM is common
 - Stronger trance elements
-- 90's rave style tone is back
-- Industrial x transformer hybrid is established
+- 90's rave-style tones are back
+- Industrial x transformer hybrid has become established
 - "High-speed 4-stroke" has become mainstream worldwide
 
 The aesthetics of high-speed techno that emerged on social media during the pandemic
@@ -209,7 +209,7 @@ Parties lasting **30-40 hours straight** have become more common.
 
 ## ● High-speed techno is expanding in surrounding cities
 - Frankfurt: Increase in hard events
-- Leipzig: IfZ attracts high-speed techno customers
+- Leipzig: IfZ attracts high-speed techno crowd
 - Hamburg: The rise of young DJs at PAL
 - Dresden: local rave is back
 

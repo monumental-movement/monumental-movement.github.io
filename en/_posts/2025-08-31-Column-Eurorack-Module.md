@@ -158,6 +158,6 @@ Surgeon's live setup is characterized by the pursuit of maximum expression with 
 
 ### From a small box to infinite sound
 
-Eurorack modular synthesizers offer artists new creative freedom with their flexibility and expandability. As it continues to evolve, its role in the music scene will become even more important.
+Eurorack modular synthesizers offer artists new creative freedom with their flexibility and expandability. As it continues to evolve, its role in the music scene will likely become even more important.
 
 ---

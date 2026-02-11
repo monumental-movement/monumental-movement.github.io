@@ -209,7 +209,7 @@ flowchart TD
 </div>
 
 The most important step in this process is the stage called ""**Blueprint = Edited Score**''.
-Macero designed the structure of the song by handwriting the time code and content on each fragment.
+Macero designed the song's structure by handwriting the time code and content on each fragment.
 It was an act of composing like an architect designing a space.
 
 ---
@@ -236,7 +236,7 @@ For him, improvisation was the ""generation of materials," and editing was the "
 
 ## Chapter 10: Acoustic analysis —— "Auditory structure" created by editing
 
-Teo Macero's editing not only changed the composition of the music, but also transformed the acoustic space and the very structure of listening.
+Teo Macero's editing did not just change the song structure, but also transformed the acoustic space and the very structure of listening.
 Especially when comparing "In a Silent Way" and "Bitches Brew," you can see a clear sonic philosophy in the editing direction.
 
 | Elements | "In a Silent Way" (1969) | "Bitches Brew" (1970) |
@@ -283,7 +283,7 @@ It can be said that Macero's edited sound was already putting into practice the 
 
 ---
 
-## Supplementary figure: Macero-style "composition by editing" model
+## Supplementary figure: Masero-style "composition by editing" model
 
 <div class="mermaid">
 
@@ -416,17 +416,17 @@ It can be said that it preceded the ""studio composition method'' advocated by B
 
 | Elements | Technique | Acoustic Intention |
 | ---------- | ------------------------ | ------------------------ |
-| Stereo space | Localization (drum left and right placement) that is impossible in real performance | Expansion of visual spatial sense |
-| Tape repeat | Re-insert the same phrase (recursive structure) | Auditory hypnosis effect |
+| Stereo space | Localization (drum left and right placement) that is impossible in real performance | Expansion of visual sense of space |
+| テープリピート    | 同フレーズを再挿入（再帰構造）        | 聴覚的催眠効果                  |
 | EQ/reverb operation | Unification of texture between multiple takes | Pseudo-generation of spatio-temporal continuity |
-| "Seams" of fragmented reverberation | Deliberately left behind | Turning editing traces into music (turning sound seams into "structure") |
+| 断片残響の“継ぎ目” | わざと残す                  | 編集痕跡を音楽化（サウンドの継ぎ目を“構造”に） |
 
 ---
 
 ## Resulting "edit composition"
 
 ""Bitches Brew," created by Macero, is no longer a ""work compiled from performances."
-It is ""structural improvisation'', which uses editing itself as a composition method.
+それは、編集そのものを作曲法とする**「構造的即興」**である。
 
 <div class="mermaid">
 

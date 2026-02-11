@@ -114,13 +114,13 @@ Musicians from Finland, Poland, Russia, the United States, and other countries p
 ## 3. Musical structure of dark jazz
 Dark jazz sounds like ""quiet, dark jazz,'' but it is actually a combination of multiple musical characteristics.
 
-### ● 1. Tempo: Extremely slow, reminiscent of doom metal
-- BPM 30~60
+### ● 1. テンポ：ドゥームメタル譲りの極度のスロウ  
+- BPM 30〜60  
 - There is little movement within the measure, and reverberation dominates.
 - The structure increases the weight of each note, creating an element that depicts the silence of the city.
 
-### ● 2. Harmony: Modal structure/utilization of diminished chords
-- Mainly minor
+### ● 2. ハーモニー：モーダル構造／減少和音の活用  
+- マイナー中心  
 - Ambiguous resolution using dim7, m7(b5), sus4
 - Harmony construction that prioritizes "atmosphere" over functional harmony in jazz
 
@@ -230,7 +230,7 @@ It continues to expand as "music that creates an atmosphere."
 
 ## 9. Where is dark jazz headed?
 With the spread of AI-generated video, VJ software, and indie games,
-We have entered an era where visuals and sounds are talked about in the same breath.
+We are now in an era where visuals and sounds are talked about in the same breath.
 
 Due to the nature of dark jazz, which is ""slow and has many blank spaces,''
 It is thought that it will continue to have new value by mixing with images.
@@ -242,7 +242,7 @@ There is still a high possibility that it will grow as the "sound of the city" i
 ---
 
 # At the end
-Dark jazz is not the background music of a bar or the sound effects of a night town.
+Dark jazz is not the background music of a bar or the sound effects of a night town;
 **This is a modern art that depicts the loneliness and shadows of cities using only sound. **
 
 Each artist, mainly Bohren & der Club of Gore, has drawn different ways of drawing shadows.

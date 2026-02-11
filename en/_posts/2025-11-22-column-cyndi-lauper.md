@@ -53,7 +53,7 @@ However, her mother loved the voice very much. This is because even in the midst
 
 # **3. Youth: Rebellious spirit and inclination towards art**
 
-In her adolescence, Cindy turned to art, painting, writing poetry, and trying anything creative. I tried to go to art school, but even there I couldn't adapt to the environment where I was obsessed with "rules" and "correct expression."
+In her adolescence, Cindy turned to the arts and tried anything creative, including painting and writing poetry. I tried to go to art school, but even there I couldn't adapt to the environment where I was obsessed with "rules" and "correct expression."
 
 Cyndi Lauper's life has a consistent theme. It is a strong will that says, ""I want to be myself.'' This will was honed when she was around the age of 20, moving around the crowded streets of New York.
 
@@ -237,7 +237,7 @@ Now, younger generations are rediscovering Cindy through YouTube and TikTok, and
 
 <div class="mermaid">
 flowchart TD
-  A["1953 Born in Queens"] --> B["Active in the 1970s Blue Angel"]
+  A["1953 クイーンズに生まれる"] --> B["1970s Blue Angelで活動"]
   B --> C["1983 Solo Contract"]
   C --> D["1984 She"s So Unusual Big Hit"]
   D --> E["1985 We Are the World Participation"]

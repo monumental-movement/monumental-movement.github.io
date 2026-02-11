@@ -13,14 +13,14 @@ title: Pick up acid jazz pieces
 ---
 
 
-「ジャズの即興性とクラブ・グルーヴが融合し、洗練された都会的サウンドを響かせる注目すべきアシッドジャズ作品群」
+"A remarkable collection of acid jazz works that fuse jazz improvisation and club grooves to create a sophisticated urban sound."
 
 <hr>
 
 ### Corduroy – High Havoc
 <a href="https://jp.mercari.com/item/m60864061659?afid=6142608987"><img src="../assets/images/Corduroy%20%E2%80%93%20High%20Havoc.webp"></a>
 
-概要：ロンドン拠点の4人組アシッドジャズバンド・Corduroyによる、1993年リリースのコンセプトアルバムの2作目。 Published by Acid Jazz Records.
+Summary: The second concept album released in 1993 by Corduroy, a four-piece acid jazz band based in London. Published by Acid Jazz Records.
 
 Recommended points: The second song "London England" is called a dance floor classic of the 1990s, and it is highly regarded as their masterpiece, including other singles that entered the top 10 of the UK indie charts.
 
@@ -82,7 +82,7 @@ B2. Boom
 Summary: House x acid jazz track by Toledo (Toledo Diamond). Former Black Grape member Danny Saber is involved as a producer.
 
 
-おすすめポイント：アシッドジャズのエッセンスを持ちながらハウス音楽としての洗練を掛け合わせた、クロスジャンルな楽しさが魅力的なトラックです。
+Recommended points: This is an attractive cross-genre fun track that combines the essence of acid jazz with the sophistication of house music.
 
 #### Tracklist
 ```md

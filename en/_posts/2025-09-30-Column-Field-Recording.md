@@ -42,7 +42,7 @@ color: #fff;
 <div class="mermaid">
 flowchart TD
   A["1920s-1950s"] --> B["The Age of Folk Collecting (Lomax et al.)"]
-  B --> C["1960s-1970s: Evolution of portable devices"]
+  B --> C["1960s-1970s: Evolution of portable equipment"]
   C --> D["1980s-1990s: Increase in ambient/field adoption (Eno etc.)"]
   D --> E["2000s-Present: Digitization and the spread of 32-bit float machines"]
 </div>
@@ -109,7 +109,7 @@ On-site recording is the trinity of "microphone + recorder + power supply". Here
 
 #### Toshiya Tsunoda
 
-- Apprehend the existence of sound as "spatial resonance."
+- Understanding the existence of sound as "spatial resonance".
 
 - Example: A microphone is installed in a cavity under the asphalt of a road to record minute vibrations.
 
@@ -180,7 +180,7 @@ On-site recording is the trinity of "microphone + recorder + power supply". Here
 
 - DAT recorders are popular for their high sound quality, but they are sensitive to humidity.
 
-- 熱帯雨林でカビによりテープが劣化、収録が失敗することも。
+- Tapes deteriorate due to mold in the rainforest, and recording may fail.
 
 - López takes on the challenge of ""leaving the equipment in the natural environment.''
 
@@ -204,14 +204,14 @@ On-site recording is the trinity of "microphone + recorder + power supply". Here
 ---
 
 
-### フィールドレコーディング史と代表アルバム
+### Field recording history and representative albums
 
-| 年代              | アーティスト                 | 代表アルバム                                                  | コメント                                             | リンク                                        |
+| Age | Artist | Representative album | Comment | Link |
 | --------------- | ---------------------- | ---------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
 | **1950s–1960s** | Alan Lomax | *The Alan Lomax Collection | Systematizes folk recordings from the mid-20th century. Recording equipment is Ampex/Nagra. The foundation of field recording. | [Amazon](https://amzn.to/3IQh8rr) |
 | **1980s** | Annea Lockwood | *A Sound Map of the Hudson River* (1989) | Map the Hudson River with "sound". A pioneering work in acoustic ecology.              | [Amazon](https://amzn.to/3Inx2cR) |
 | **1990s** | Hildegard Westerkamp | *Transformations* (1996) | Work based on sound walk theory. Experience urban/nature listening.                  | [archive.org](https://archive.org/details/transformationshwesterkamp) |
-| **1990s** | Toshiya Tsunoda (Toshiya Tsunoda) | *Extract from Field Recording Archive* (1997–2001) | Precisely records minute sounds in ports and around town.日本のフィールド録音を国際水準へ。                | [archive.org](https://archive.org/details/toshiya-tsunoda-extract-from-field-recording-archive-1) |
+| **1990s** | Toshiya Tsunoda (Toshiya Tsunoda) | *Extract from Field Recording Archive* (1997–2001) | Precisely records minute sounds in ports and around town. Bringing Japanese field recording to international standards.                | [archive.org](https://archive.org/details/toshiya-tsunoda-extract-from-field-recording-archive-1) |
 | **1990s** | Francisco López | *La Selva* (1998) | A musical piece based on the Costa Rican rainforest. Shocking world soundscape research.            | [Amazon](https://amzn.to/46tHPeF) |
 | **2010s** | Chris Watson | *El Tren Fantasma* (2011) | A masterpiece produced by the BBC that lets you "relive through sound" a journey on the Mexican train.                     | [Amazon](https://amzn.to/4nORXEo) |
 | **2010s** | Bernie Krause | *The Great Animal Orchestra* (2012) | Presenting natural sounds as "symphony". Theoretical underpinnings of biophonics.                  | [YouTube](https://youtu.be/btrinTDDjnQ?si=KPCZCBfjewVfT9w0) |

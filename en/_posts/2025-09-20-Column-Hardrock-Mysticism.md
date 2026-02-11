@@ -66,7 +66,7 @@ flowchart LR
 
 </div>
 
-この図のように、ハードロックは西洋的なロックの力強さと、東洋思想やオカルティズムからの影響を融合。結果として、映画の**サウンドトラック制作**や、最新の**AI音楽生成**にも応用可能な「豊かな音楽的土壌」を築きました。
+As shown in this diagram, hard rock combines the power of Western rock with influences from Eastern thought and occultism. As a result, we have built a ""rich musical ground'' that can be applied to movie soundtrack production and the latest AI music generation.
 
 ---
 

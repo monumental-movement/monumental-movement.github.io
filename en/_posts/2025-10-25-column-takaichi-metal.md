@@ -55,7 +55,7 @@ Just as metal is "an art that turns chaos into order," Takaichi's speech resonat
 
 ---
 
-## Chapter 2: Building the Voice——The Politics of Metallic Voice
+## Chapter 2: Building a Voice——The Politics of Metallic Voice
 
 For politicians, their ""voice"' is an instrument that embodies their ideas. Takaichi"s vocalization is particularly low and stable among female politicians. Acoustically, it is based on the mid-low range (approximately 170-180Hz), with little pitch fluctuation, reminiscent of the "steel control" in metal vocals.
 
@@ -77,7 +77,7 @@ At first glance, conservative ideology and metal seem to be contradictory. Howev
 
 Like Judas Priest, music that confines explosive passion within an orderly rhythm. This is exactly like Mr. Takaichi's political stance. Although the logical structure is cold, there is an intense "combustion" behind it.
 
-**"In cold construction lies true heat."** This phrase applies to both metal and politics. Through the character Sanae Takaichi, we can reconsider "politics that lives like sound."
+**"In cold construction lies true heat."** This phrase applies to both metal and politics. Through the person of Sanae Takaichi, we can reconsider "politics that lives like sound."
 
 ---
 
@@ -122,7 +122,7 @@ Within this structure, Takaichi plays with ""intellect that controls passion.''
 
 Just as metal has evolved by accepting noise, mature politics also becomes stronger when it embraces "unusual sounds." The existence of Sanae Takaichi symbolizes the "acceptance of noise" in Japanese politics. The noise doesn't sound like chaos, but creative distortion.
 
-""New sounds can only be born from silence.'' This phrase applies to both metal and politics. Through the character Sanae Takaichi, we can reconsider "politics that lives like sound."
+""New sounds can only be born from silence.'' This phrase applies to both metal and politics. Through the person of Sanae Takaichi, we can reconsider "politics that lives like sound."
 
 ---
 

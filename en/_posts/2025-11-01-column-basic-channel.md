@@ -17,7 +17,7 @@ title: '[Column] Basic Channel──The origin of Berlin dub techno'
 ## Prologue: From anonymous noise to a silent revolution
 
 
-Text: mmr｜Theme: "Abyss of sound" born from the underground of Berlin in the 1990s - History of the creation of Basic Channel and Dub Techno
+Text: mmr｜Theme: The "abyss of sound" born from the underground of Berlin in the 1990s—The history of the creation of Basic Channel and Dub Techno
 
 
 In 1993, just a few years after the fall of the Berlin Wall.
@@ -52,7 +52,7 @@ color: #fff;
 ## Chapter 1: Moritz von Oswald and Mark Ernestus - two people of anonymity
 
 Basic Channel is a unit formed by German musicians **Moritz von Oswald** and **Mark Ernestus**.
-Their backgrounds are surprisingly different.
+二人の経歴は意外なほど異なる。
 
 - **Moritz von Oswald**: Former percussionist. In the 1980s, he was active in the pop group Palais Schaumburg. He began exploring African music and dub early on.
 - **Mark Ernestus**: Founder of the record shop "Hard Wax". He played an extremely important role in the distribution and reception of Detroit techno.

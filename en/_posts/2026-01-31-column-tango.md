@@ -28,7 +28,7 @@ From the end of the 19th century to the beginning of the 20th century, Buenos Ai
 Centered around Spain and Italy, Eastern European, African, and indigenous cultures were mixed together, and work, poverty, and loneliness existed on a daily basis.
 
 Tango grew up on the "underside" of this city.
-It was performed not at the balls of high society, but in the courtyards of dockworkers' taverns, boarding houses, and brothels.
+It was danced not at the balls of high society, but in the courtyards of dockworkers' taverns, boarding houses, and brothels.
 Physical distance, line of sight, and improvisation were more important than musical sophistication.
 
 > Tango is a culture that has always started from the periphery, not the center of society.
@@ -53,7 +53,7 @@ color: #fff;
 ## Social background of the birth of tango
 
 
-Argentina in the late 19th century was experiencing rapid economic growth and at the same time serious social divisions.
+Argentina in the late 19th century experienced rapid economic growth and at the same time serious social divisions.
 The country prospered through agricultural exports, but only a small portion of the landowning class benefited.
 
 As large numbers of immigrant men flocked to cities in search of work, the male-female ratio collapsed.

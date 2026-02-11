@@ -24,7 +24,7 @@ Para One is a French electronic producer. He is famous for producing the origina
 
 The second track on Side A is a remix by British electronic music DJ/producer Riton.
 
-The second song on side B is a remix by Surkin, a French producer who runs the label Marble with Para One & Bobmo.
+The second song on the B-side is a remix by Surkin, a French producer who runs the label Marble with Para One & Bobmo.
 
 #### Tracklist
 ```md

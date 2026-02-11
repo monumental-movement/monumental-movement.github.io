@@ -53,7 +53,7 @@ Especially in this work, **SP-303 Dr. Sample** holds the key. Although it is che
 
 ### MF DOOM: The Masked Poet
 MF DOOM (real name Daniel Dumile) was born out of tragedy.
-In the early 1990s, when he debuted as KMD, he lost his younger brother Subroc in an accident, and his contract with the label was canceled.
+In the early 1990s, when he debuted as KMD, he lost his younger brother Subroc in an accident, and his contract with the label came to an end.
 He remained silent for several years and returned wearing a metal mask. **
 
 DOOM made the mask a symbol of "creation" rather than "escape."
@@ -216,5 +216,13 @@ The mask left behind by DOOM still shines in underground studios around the worl
 
 > "It ain"t nuttin" like the villain."
 > ― MF DOOM
+
+---
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gXOkqpWhsD0?si=WEZRPKJsazCLjDDX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

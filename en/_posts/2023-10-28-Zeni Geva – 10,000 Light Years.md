@@ -14,7 +14,7 @@ title: Zeni Geva – 10000 Light Years
 
 
 "Zeni Geva – 10000 Light Years" is
-Promo album for the album recorded at Chicago Electrical Audio in October 2000.
+Album promo recorded at Chicago Electrical Audio in October 2000.
 
 #### Tracklist
 ```md

@@ -13,7 +13,7 @@ title: CJ Bolland / Psilocybin – Inside Out /Cyrus
 
 
 
-"Inside Out / Cyrus" is a split album released in 2000 by UCMG UK's sub-label Rewind The Classics.
+"Inside Out / Cyrus" is a split album released in 2000 by UCMG UK's sublabel Rewind The Classics.
 
 A is a track from C.J. Bolland's 1992 album The 4th Sign, produced by Belgian techno pioneer Kris Vanderheyden.
 

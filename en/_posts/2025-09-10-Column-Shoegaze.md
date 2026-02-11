@@ -94,10 +94,10 @@ color: #fff;
 | When the Sun Hits | Slowdive | A symbol of a beautiful floating feeling |
 | Alison | Slowdive | A fleeting and transparent famous ballad |
 | Vapour Trail | Ride | String instrument arrangement and dream feeling |
-| Leave Them All Behind | Ride | プログレ的展開を持つ大作 |
+| Leave Them All Behind | Ride | A masterpiece with progressive rock developments |
 | De-Luxe | Lush | Light and vivid guitar noise |
-| Desire Lines | Lush | 奥行きあるサウンドスケープ |
-| Blindfold | Curve | エレクトロ要素を取り入れた先駆 |
+| Desire Lines | Lush | Deep soundscape |
+| Blindfold | Curve | A pioneer that incorporates electro elements |
 | Cherry-Coloured Funk | Cocteau Twins | Intersection with Dream Pop |
 | Sometimes | My Bloody Valentine | Songs that get to the heart of shoegaze |
 

@@ -123,7 +123,7 @@ Neo-Krautrock is based on the classic Krautrock Motorik beat, but uses a variety
 ### 4.1 Tropic of Cancer "Modern Rituals"
 
 - **Track example**:
-- "Ritual One": Ambient synth layered over a 4/4 Motorik beat. Place subtle noise changes within the repetition.
+- "Ritual One": Ambient synth overlays a 4/4 Motorik beat. Place subtle noise changes within the repetition.
 - "Transcendence": Reverb guitar and synth alternate, emphasizing the spaciousness.
 - **Live expression**: On stage, drums and synths are looped in real time to faithfully reproduce the structure of the album.
 

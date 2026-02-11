@@ -165,7 +165,7 @@ In addition to performing, the Kronos Quartet also focuses on educational and so
 
 * **Workshop/Educational Program**: Guidance at universities and music schools, training of young musicians.
 * **Cultural exchange activities**: Concerts around the world, joint performances with local musicians.
-* **Works dealing with social themes**: Production of musical works related to conflicts, environmental issues, and human rights.
+* **Works dealing with social themes**: Production of musical works related to conflict, environmental issues, and human rights.
 
 Their latest album further deepens their collaboration with traditional music, combining technically advanced recording and performance.
 

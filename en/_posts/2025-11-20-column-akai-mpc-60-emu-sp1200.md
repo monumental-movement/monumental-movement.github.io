@@ -48,10 +48,10 @@ There are two main parameters in the process (sampling) of dividing analog signa
 ### 2.2 12bit acoustic characteristics
 
 * **Quantization noise** tends to become apparent, especially for small signals.
-* **Midrange presence** (midrange emphasis) is relatively noticeable.
-* Aliasing and coloring that occur during pitch shifting and sample rate conversion create a unique "grit".
+* **中域の存在感**（ミッドレンジの強調）が相対的に目立ちやすい。
+* ピッチシフトやサンプルレート変換時に生じるエイリアスや色付けが独特の"グリット"を生む。
 
-### 2.3 Hardware factors
+### 2.3 ハードウェア的要因
 
 Not only the bit depth, but also the characteristics of the A/D/D/A circuit, the analog filter (hardware), and the number and access method of internal memory affect the sound. For example, the SP-1200 uses sampling at 26.04kHz, and the E-mu analog path is known to emphasize certain overtones.
 
@@ -82,6 +82,10 @@ The SP-1200 was designed with the time constraints of a sampler in mind, and is 
 * Pitch down after fast sampling (inducing low-pass effect)
 * Create grooves using loop tweaks and timing swings
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6-FLx_gIVCE?si=fHXFlga4-I9RphJZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ### 4.2 Akai MPC60 (1988) — Achievement as a musical instrument
 
 * **Year of publication**: 1988
@@ -91,6 +95,10 @@ The SP-1200 was designed with the time constraints of a sampler in mind, and is 
 
 **Design philosophy and features**
 With design assistance from Roger Linn, the MPC60 aimed to be a "playable sampler." Large pads and a sequencer that emphasizes the sense of groove greatly improve usability for improvisational performances and live production. The spec sheet emphasizes the MPC60's sequencer accuracy and pad detection mechanism.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vnRc56hEMsw?si=65ZvsCS8iGBWfeZW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 ### 4.3 Akai S900 / S950
 
@@ -167,7 +175,7 @@ Low-resolution samples are effective for creating textures and were widely used 
 
 ## Chapter 8: Key artists and usage examples
 
-> Below are excerpts of usage examples based on factual information such as public interviews, credits, technical articles, and official documentation.
+> Below are excerpts of usage examples based on factual information such as public interviews, credits, technical articles, and official documents.
 
 <div class="mermaid">
 
@@ -208,9 +216,18 @@ Since the 2010s, the number of plug-ins and hardware reproduction products that 
 
 ---
 
-## Chapter 12: Summary and outlook
+## Chapter 12: Summary and Outlook
 
 The 12-bit sampler is a great example of how technical constraints can lead to ingenuity. The SP-1200 and MPC60 went beyond being mere tools and came to form the musical expression of a particular era. In today's production environment, there are a variety of ways to intentionally recreate "lo-fi" and "grit," but when you trace their roots, you always come back to these devices.
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Yr86z5Clz8?si=lRR5xNgILcSUnEQ3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -420,7 +437,7 @@ flowchart TD
 <div class="mermaid">
     
 graph LR
-    A["12bit 4096 steps"] --> C["coarse step"]
+    A["12bit 4096 stages"] --> C["coarse step"]
     B["16bit 65536 stages"] --> D["Smooth step"]
 
 </div> 

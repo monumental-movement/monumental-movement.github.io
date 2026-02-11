@@ -71,7 +71,7 @@ There is often a structure in which they talk to their inner demons and ask God 
 
 ### 2. Animal metaphor
 DMX often refers to himself as "dog".
-It is a symbol of violence, and at the same time indicates **loyalty, solitude, and wildness**.
+It is a symbol of violence and at the same time indicates **loyalty, solitude, and wildness**.
 The dog was the only companion he could trust, and the object of his prayers.
 
 > "I trust dogs more than humans."
@@ -138,7 +138,7 @@ His faith is not one of forgiveness but **faith in battle**.
 ### 1. A man sleeping with a dog
 
 DMX has rescued homeless dogs and lived with them on the streets.
-He also brought his dog with him on tour, saying, ""Dogs have pure souls.''
+He also brought his dog with him on tour, saying, ""**Dogs have pure souls**.''
 
 ### 2. Free Sermon
 

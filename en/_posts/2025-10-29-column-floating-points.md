@@ -71,10 +71,10 @@ Promises, co-written with Pharoah Sanders, is a work in which Floating Points' s
 This album intersects the physical "measurement of sound" and the metaphysical "sense of time."
 The motif that runs through the nine-chapter suite is the repetition of just a few notes, which change like quantum interference patterns.
 
-Pharoah Sandersのサックスは、電子音に溶け込みながらも人間の「呼吸」を保ち続ける。  
-そのバランスは、まるで**観測者と被観測物の関係**のようだ。  
+Pharoah Sanders' saxophone blends into electronic sounds while maintaining its human "breathing" quality.
+The balance is like the relationship between the observer and the observed object.
 Floating Points' sounds measure space, and Sanders' breath sways it.
-そこには科学とスピリチュアル、測定と祈りが**ひとつの音響現象として同居**している。
+There, science and spirituality, measurement and prayer coexist as one acoustic phenomenon.
 
 ---
 
@@ -137,7 +137,7 @@ Listening to Floating Points' music is more like an act of ""observing" the soun
 Here, hearing functions as a scientific sense organ, and music rises to the middle ground** between the mind and the physical.
 
 The genre of ambient jazz was created by him from ""experimental music in silence.''
-「観測としての音楽」へと進化した。
+It evolved into ""music as observation.''
 It is an attempt to explain the unexplainable using the language of science,
 That contradiction is at the heart of Floating Points' aesthetic.
 

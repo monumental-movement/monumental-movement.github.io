@@ -127,7 +127,7 @@ G[high frequency electronic sound] --> H[experimental avoidance]
 
 - **Kyushu electronic sound trial (2019–2021)**: Short-term avoidance due to the use of high-frequency equipment, long-term habituation occurs
 
-- **Tohoku AI Speaker Demonstration (2020–2023)**: Success rate of bear intrusion warning 65%
+- **Tohoku AI speaker demonstration (2020–2023)**: Pre-bear invasion warning success rate 65%
 
 ---
 

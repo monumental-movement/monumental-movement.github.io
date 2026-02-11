@@ -154,7 +154,7 @@ After Jobs passed away, Ive described him as follows:
 > "He looked at products the way you listen to music: there"s rhythm, there"s harmony, there's silence."
 
 Ive himself calls the design work he continues with LoveFrom a "sound process."
-In other words, design is both visual art and the act of constructing sound.
+In other words, design is not only a visual art, but also an act of constructing sound.
 
 ---
 

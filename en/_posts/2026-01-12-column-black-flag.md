@@ -45,7 +45,7 @@ color: #fff;
 
 ## Pre-formation and early formation (1976–1978)
 
-Black Flag's origins lie in guitarist Greg Ginn. When the band started in 1976 in the Hermosa Beach, California area, their name was Panic. It was a time when punk rock was beginning to spread from England and New York, and the influence of the Ramones and Sex Pistols was clear, but the scene in Southern California was still in its infancy.
+Black Flag"s origins lie in guitarist Greg Ginn. The band"s name was Panic when it first started in 1976 in the Hermosa Beach, California area. It was a time when punk rock was beginning to spread from England and New York, and the influence of the Ramones and Sex Pistols was clear, but the scene in Southern California was still in its infancy.
 
 Panic briefly changed its name to Black Flag. The name refers to the anarchist symbol of the black flag, and rather than a clear political statement, it contained a sense of denial of order and stability. The four-line design used as a logo was a simple and instantly recognizable visual symbol that would go on to become one of the most famous icons in punk history.
 

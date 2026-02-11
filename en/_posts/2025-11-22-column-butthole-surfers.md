@@ -71,7 +71,7 @@ The band's first sound mixes the rapidity of late punk/hardcore with the amorpho
 ### **The Shah Sleeps in Lee Harvey's Grave**
 
 * Guitar mainly uses directly recorded feedback
-* The saxophone plays irregularly and destroys the melody.
+* The saxophone plays irregularly, destroying the melody.
 * Lyrics are fragmentary and performance-oriented.
 
 ### **Lady Sniff**

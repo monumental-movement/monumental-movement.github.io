@@ -123,7 +123,7 @@ Sound particles self-deploy like AI's thoughts, forming an inhuman "flow."
 
 Aphex Twin takes AI composition not just as a technological innovation;
 It is treated as a "**device that extends human perception**".
-His recent work can be described as an attempt to make artificial intelligence learn about "human errors."
+His recent work can be said to be an attempt to make artificial intelligence learn about "human errors."
 In other words, his music is a testing ground for post-AI humanism.
 
 ---
@@ -132,7 +132,7 @@ In other words, his music is a testing ground for post-AI humanism.
 
 | Item | Early (1990–1995) | Current (2014–2025) |
 |------|------------------|--------------------|
-| Technology | Mainly analog equipment and samplers | Modular + digital algorithms |
+| Technology | Analog equipment, mainly samplers | Modular + digital algorithms |
 | Texture of sound | Organic, accidental, material | Geometric, informational, transparent |
 | Aesthetics | Coexistence of noise and rhythm | Symbiosis of data and emotion |
 | Subject of expression | Individual's inner world/body | Boundary between humans and machines |

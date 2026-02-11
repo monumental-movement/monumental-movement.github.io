@@ -66,7 +66,7 @@ In terms of tone, Juno pads, DX electric piano, chorus-processed bass, and spati
 
 ## Relationship with visual aesthetics
 
-Dreamwave / Chill Synthwave can be understood more deeply when combined with images than the music alone. Cities at dusk, neon lights, coastlines, night drives, and VHS-like textures are frequently referenced.
+Dreamwave / Chill Synthwave can be understood more deeply when combined with images than the music itself. Cities at dusk, neon lights, coastlines, night drives, and VHS-like textures are frequently referenced.
 
 These visual elements are synchronized with the song"s tempo and tone design, reminding the listener of a scene they"ve seen somewhere before. Images play the role of presenting the situation rather than telling a story.
 
@@ -77,7 +77,7 @@ B --> C[Tone selection]
 C --> D[emotional listening]
 </div>
 
-> Images are not an aid, but are incorporated as part of music understanding.
+> Visuals are not an aid, but are incorporated as part of music understanding.
 
 ---
 

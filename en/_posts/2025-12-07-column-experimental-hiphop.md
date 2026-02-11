@@ -74,7 +74,7 @@ The foundations of Experimental/Abstract Hip Hop were formed in the late 1990s.
 
 ---
 
-- An important role in the NY underground at the end of the 1990s.
+- An important role in the NY underground in the late 1990s.
 - Introducing noisy sounds, segmented rap and electronic music.
 - Expands the connection between electronic music and hip-hop by signing with Warp Records.
 
@@ -247,7 +247,7 @@ flowchart TD
     B --> C["LA Beat Scene (2006~)"]
     C --> D["Flying Lotus / Brainfeeder"]
     D --> E["Polyrhythm/Non-linear beat"]
-    E --> F["Multinational experimental scene in the 2020s"]
+    E --> F["2020's Multinational Experimental Scene"]
 </div>
 
 ---

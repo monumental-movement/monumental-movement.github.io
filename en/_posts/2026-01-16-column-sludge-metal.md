@@ -20,11 +20,11 @@ title: '[Column] Sludge Metal ─ Acoustic aesthetics created by weight and stag
 Text: mmr｜Theme: About the sonic aesthetics of sludge metal
 
 
-Sludge metal is not music aimed at advancing or uplifting. The tempo is slow, the riffs are relentlessly repetitive, and the sonic images refuse to be clearly separated. There is a feeling of music filling the space, enveloping the listener, and slowing down their movements.
+Sludge metal is not music aimed at advancing or uplifting. The tempo is slow, the riffs are relentlessly repetitive, and the sonic images refuse to be clearly separated. There is a sense of music filling the space, enveloping the listener, and slowing down their movements.
 
 What is important in this genre is not the melody or technique, but the quality of the sound. The thickness of the distortion, the pressure of the bass, and the interval of the rhythm. These factors act in a complex manner, and music exists not as a linear progression, but as a precipitating substance.
 
-As the genre name suggests, the sonic aesthetics of sludge metal lies in ""stagnation''. He intentionally distances himself from clear sound, sophisticated structure, and a comfortable listening experience, presenting turbidity and stagnation as values. That attitude has occupied a unique position in metal music culture.
+As the genre name suggests, the sonic aesthetics of sludge metal lies in ""stagnation''. He deliberately distances himself from clear sound, sophisticated structure, and a comfortable listening experience, presenting turbidity and stagnation as values. That attitude has occupied a unique position in metal music culture.
 
 > The sound of sludge metal exists not to move forward, but to sink into a place.
 

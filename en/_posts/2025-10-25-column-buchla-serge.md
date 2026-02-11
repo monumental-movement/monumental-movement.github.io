@@ -18,7 +18,7 @@ title: '[Column] Buchla and Serge: Another genealogy of electronic acoustics'
 ## "Introduction — What is modular?"
 
 
-Text: mmr | Theme: Spiritual history of West Coast modular synths. How Don Buchler and Serge Tocheny"s ideas have been carried over into today"s sound design
+Text: mmr | Theme: The spiritual history of West Coast modular synths. How Don Buchler and Serge Tocheny"s ideas have been carried over into today"s sound design
 
 Early 1970s, America's West Coast.
 There were people who left their university's electronic music studio and tried to take **a device for designing sound** back into their personal creative spaces.

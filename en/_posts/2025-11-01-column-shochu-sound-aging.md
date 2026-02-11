@@ -67,7 +67,7 @@ The impetus was the ""acoustic aging'' of wine that a wine brewer saw in Tokyo.
 I learned about an attempt to speed up maturation by playing classical music,
 He returned to Amami thinking, ""Maybe it could be done with shochu.''
 
-In 2005, a certain warehouse on Amami Oshima installed acoustic speakers in its storage room for the first time.
+In 2005, an acoustic speaker was installed in a warehouse on Amami Oshima for the first time.
 The subjects tested were classical music (Bach, Mozart) and island songs (such as Satokuni Taka's ""Asahabushi'').
 Six months later, the people involved who tasted it were surprised.
 "Even though it's the same raw sake, it was more mellow when I listened to it."
@@ -146,7 +146,7 @@ That day is approaching.
 | Years | Events |
 |------|---------|
 | 1600s | Sugarcane cultivation begins in Amami |
-| 1800s | Production of local shochu using brown sugar as raw material begins |
+| 1800s | Start of production of local shochu using brown sugar |
 | 1949 | Return of the Amami Islands to Japan, special approval for "brown sugar shochu" |
 | 2005 | Amami Oshima's first acoustically aged shochu test begins |
 | 2008 | Kagoshima University begins scientific research on acoustic maturation |
@@ -285,7 +285,7 @@ E --> E2[Nanno Kaze Sake Brewery<br>🎧 Introduction of AI sound test from 2024
 
 Amami's topography stretches 160km from north to south, and the humidity, wind direction, and acoustic characteristics of the coastline vary from region to region.
 For example, a storehouse facing Tatsugo Bay takes advantage of the sound of waves.
-A warehouse in a mountainous area takes advantage of natural reverberations to create a ripening environment.
+Warehouses located in mountainous areas create a maturing environment that takes advantage of natural reverberations.
 
 Acoustic maturation is not just a "device";
 **This is the "resonance of the island" where the topography itself becomes an instrument**.

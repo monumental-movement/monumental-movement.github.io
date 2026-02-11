@@ -74,7 +74,7 @@ Folk song lyrics repeatedly tell stories of encounters with these beings resulti
 ## Violence and death in ballads
 
 
-Many of the ballads that have been sung throughout Scandinavia since the Middle Ages are extremely violent in modern terms. Murders between siblings, betrayal by lovers, infanticide by mothers, and dead people returning as ghosts are all told in a matter-of-fact manner.
+Many of the ballads that have been sung throughout Scandinavia since the Middle Ages are extremely violent in the modern sense. Murders between siblings, betrayal by lovers, infanticide by mothers, and dead people returning as ghosts are all told in a matter-of-fact manner.
 
 These ballads often proceed like a list of facts, without emotional excitement. The melody is also restrained, with a structure that leaves interpretation to the listener.
 
@@ -100,7 +100,7 @@ The very structure of the instrument forms a sonic world that avoids clear resol
 ## Christianization and transformation of dark mythology
 
 
-Even after the Nordic world became Christian, old myths and animist beliefs did not completely disappear. These are reinterpreted as heresies, superstitions, and folk tales, and submerge themselves into folk songs.
+Even after the Nordic world became Christian, old myths and animist beliefs did not completely disappear. These are reinterpreted as heresies, superstitions, and folk tales, and they slip into folk songs.
 
 Christian concepts such as the devil, hell, and sin were combined with existing dark entities to form new narratives. As a result, Nordic folk takes on a double darkness.
 
@@ -113,7 +113,7 @@ On the other hand, mythical beings are rarely determined to be completely evil, 
 ## Rediscovery and reinterpretation after modern times
 
 
-Since the 19th century, with the rise of nationalism, Nordic folk has been reevaluated as a ""cultural heritage.'' As the collection and notation progressed, the dark content was categorized as symbolic and literary.
+After the 19th century, with the rise of nationalism, Nordic folk was reevaluated as a ""cultural heritage.'' As the collection and notation progressed, the dark content was categorized as symbolic and literary.
 
 In the latter half of the 20th century, reinterpretation progressed in the context of dark folk, neofolk, and ambient, and mythicity and the idea of ​​life and death came to the fore once again.
 

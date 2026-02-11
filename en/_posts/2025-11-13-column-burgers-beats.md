@@ -108,7 +108,7 @@ Early introduction of the concept of "music supporting taste."
 - McDonald's: Universal pentatonic jingle (supervised by Pharrell and Hiroshi Kawabe)
 - Change tempo/key arrangement for each country
 
-### 5-2　Trend of SNS x artist collaboration
+### 5-2 Trends in SNS x artist collaboration
 
 | Year | Brand | Artist | Song title/characteristics |
 |----|------------|----------------|-------------|

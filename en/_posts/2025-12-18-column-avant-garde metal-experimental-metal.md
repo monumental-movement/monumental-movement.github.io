@@ -44,7 +44,7 @@ color: #fff;
 
 ## Structural assumptions in metal
 
-In order to understand avant-garde metal, it is first necessary to clarify what normal metal is based on.
+To understand avant-garde metal, it is first necessary to clarify what is the premise behind regular metal.
 
 Traditional metal has been formed as a collection of structural assumptions such as the following.
 
@@ -176,7 +176,7 @@ In this work, the separation of structures goes even further. The songs are stru
 | Method | Demolition | Layering |
 | Time | Rupture | Parallel |
 | Rhythm | Destruction of pulse sensation | Breathing control |
-| Dissonance | Structural Armament | Spatial Direction |
+| Dissonance | Structural armament | Spatial production |
 
 ---
 

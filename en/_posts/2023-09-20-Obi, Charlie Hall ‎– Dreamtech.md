@@ -19,7 +19,7 @@ Percussion and moving synth lines complete this excellent After Hours gem. It"s 
 
 B2 is a completely magical and hypnotic tribal broken beat deep house masterpiece. This record uses samples and vocals typical of the era, and has a wonderful mystical mood.
 
-This record is truly a digger"s dream, and it"s rare to find something like this in the 12-inch records you're looking for. This is definitely a record that deserves more attention.
+This record is a digger"s dream, and it"s rare to find something like this in the 12-inch records you're looking for. This is definitely a record that deserves more attention.
 
 #### Tracklist
 ```md

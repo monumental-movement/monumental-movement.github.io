@@ -16,7 +16,7 @@ title: Pseudonym – You Have The Right To Remain Silent
 
 The producers are British DJ/producer Ian Levine and high-energy producer Steven Wagner. Ian Levine modernizes UK Northern soul music and is also known as the creator of the Hi NRG style.
 
-「You Have The Right To Remain Silent」は、Nightmare Recordsのサブレーベルであり、Hi-NRG専門のSaturday Recordsから1988年にリリースされたハイエナジー・ユーロハウス・ディスコトラック。
+"You Have The Right To Remain Silent" is a high-energy Eurohouse disco track released in 1988 on Saturday Records, a sub-label of Nightmare Records that specializes in Hi-NRG.
 
 #### Tracklist
 ```md

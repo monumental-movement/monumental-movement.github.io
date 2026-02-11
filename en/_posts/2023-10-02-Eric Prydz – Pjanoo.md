@@ -16,7 +16,7 @@ title: Eric Prydz – Pjanoo
 
 "Pjanoo" is a keyboard-based house track by Swedish DJ and producer Eric Prydz. The song received moderate airplay on British radio stations and was actively used by BBC Radio 1 in their "Radio 1 Big Weekend" and "Weekend in Ibiza" advertisements.
 
-The single reached number 6 on the Swedish singles chart. However, "Pjanoo" was also successful outside of Sweden, particularly in the United Kingdom, where it reached number two on the UK singles chart and topped the country's dance chart for ten weeks.
+The single reached number 6 on the Swedish singles chart. However, "Pjanoo" was a success outside of Sweden, particularly in the United Kingdom, where it reached number two on the UK singles chart and topped the country's dance chart for ten weeks.
 
 #### Tracklist
 ```md

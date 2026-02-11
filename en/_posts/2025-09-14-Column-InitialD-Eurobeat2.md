@@ -215,7 +215,7 @@ Drift : ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ → (slip sound) </div>
 | Club culture | Parapara, Velfarre | Directly connected to Avex Eurobeat |
 | Internet Culture | Deja Vu Memes | Re-explosion on YouTube/TikTok |
 | Game culture | Initial D Arcade Stage, Gran Turismo | Eurobeat becomes standard BGM |
-| Drift competition | D1 Grand Prix, Formula Drift | Racing culture becomes international, coexisting with EDM in BGM |
+| Drift competition | D1 Grand Prix, Formula Drift | Rider culture becomes international, coexisting with EDM in BGM |
 
 ---
 

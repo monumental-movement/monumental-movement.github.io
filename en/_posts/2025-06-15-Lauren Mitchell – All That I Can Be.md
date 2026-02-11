@@ -15,7 +15,7 @@ title: Lauren Mitchell – All That I Can Be
 
 
 
-Europop released in 1989 by the Trax Music label.
+Europop released in 1989 on the label Trax Music.
 
 The producer is British singer John Parr, who is known for ""St. Elmo"s Fire," the theme song for the movie ""St. Elmo"s Fire."
 

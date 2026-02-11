@@ -113,7 +113,7 @@ Digital clubs may be the germ of a new kind of "public nature" in 21st century u
 
 ---
 
-## Conclusion: Where is the urban rhythm heading?
+## Conclusion: Where is the urban rhythm headed?
 
 The city night has always been a mirror that reflects the shadows and desires of society.
 In its mirror, club culture has given form to the fundamental human desire for resonance.
@@ -134,7 +134,7 @@ flowchart TD
     A1988["1988: Second Summer of Love/Acid House Revolution (UK)"]
     A1991["1991: Berlin Tresor Open"]
     A1999["1999: Fusion of the Internet and DJ culture"]
-    A2012["2012: Revision of Japan"s Entertainment Business Law ""A night where it"s okay to dance''"]
+    A2012["2012: Revision of Japan"s Entertainment Business Law "A night where it"s okay to dance""]
     A2020["2020: Turning into a digital club due to the pandemic"]
     A2025["2025: Reconnecting AI DJ and real clubs"]
 

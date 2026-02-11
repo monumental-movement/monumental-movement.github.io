@@ -82,7 +82,7 @@ It is said to be the album with the most well-balanced integration of acoustics,
 ---
 
 ## 3. Deepening experiments (1996–2001): Longer length, electronicization, pursuit of structural beauty
-In 1996, there was a change in drummers, with Blake Fleming joining the band for a short time. Later, **Masataka Fujikake** joined the band, and Zeni Geva's rhythms became more complex, faster, and more layered.
+In 1996, there was a change in drummers, with Blake Fleming joining the group for a short time. Later, **Masataka Fujikake** joined the band, and Zeni Geva's rhythms became more complex, faster, and more layered.
 
 ### Strengthening structural musicality
 During this period, Zeni Geva's songs became longer and more structured, including songs over 16 minutes.
@@ -149,7 +149,7 @@ Zeni Geva is receiving renewed attention from the noise/metal/hardcore/avant-gar
 ## 7. Position in Japanese underground history
 Zeni Geva is an almost unique band in Japan that has created a combination of ""noise x hardcore x metal x experimental music.''
 
-- 1980s Noise Culture (Hijiki Kaidan, Merzbow, YBO2)
+- 1980s noise culture (Hijikaidan, Merzbow, YBO2)
 - International Noise Movement of the 1990s
 - Experimental sound/electroacoustic from the 2000s onwards
 

@@ -110,7 +110,7 @@ This change transformed the relationship between music and the self into a perso
 
 In the second half of the 20th century, musical genres became central indicators of generational identity. Jazz symbolized urbanization and modernity, and rock embodied rebellion and freedom. Punk expressed a rejection of the established order in short, sharp sounds, and hip-hop became a way to speak to marginalized experiences.
 
-For young people, the music they chose was an act of showing which values ​​they resonated with. Like the way we dress and the way we speak, our musical tastes are at the core of our self-expression.
+For young people, the music they chose was an act of showing which values ​​they resonated with. Like clothing and language, musical tastes are at the core of self-expression.
 
 <div class="mermaid">
 timeline

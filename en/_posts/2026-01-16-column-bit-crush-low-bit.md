@@ -62,9 +62,9 @@ Low bit depths were common in early digital audio equipment due to cost and proc
 ### Relationship with sampling frequency
 
 The sampling frequency is the resolution on the time axis, and the bit depth is the resolution on the amplitude axis.
-If either one is low, the sound will be rough. However, especially when the bit depth decreases, distortion is more likely to be perceived as timbre.
+どちらか一方が低ければ、音は荒れる。だが特にビット深度の低下は、歪みが音色として認識されやすいという特徴を持つ。
 
-Unlike analog distortion, this distortion has a discontinuous and hard texture. This gave rise to a characteristic that would later be called ""digital sound.''
+この歪みはアナログ歪みとは異なり、非連続的で硬質な質感を持つ。ここに、後年「デジタル的な音」と呼ばれる特徴が生まれた。
 
 > Digital distortion gives the timbre itself a mathematical contour.
 
@@ -75,7 +75,7 @@ Unlike analog distortion, this distortion has a discontinuous and hard texture. 
 
 ### Digital constraints in the 1970s and 1980s
 
-From the late 1970s to the early 1980s, digital sound sources were limited to research institutions and expensive business machines.
+1970年代後半から80年代初頭にかけて、デジタル音源は研究機関や高価な業務機に限られていた。
 For home and commercial devices, memory capacity, computing power, and cost were major constraints, and as a result, low bits and low sample rates were chosen.
 
 Rather than sacrificing sound quality, this was a compromise to make it work.
@@ -84,7 +84,7 @@ Rather than sacrificing sound quality, this was a compromise to make it work.
 
 ---
 
-### Game console and sound chip
+### ゲーム機とサウンドチップ
 
 Family computers, arcade boards, and 8-bit and 16-bit generation game consoles had extremely limited sound source specifications.
 The composition of square waves, triangle waves, noise, and simple sample playback gave it a distinctly digital tone.
@@ -101,7 +101,7 @@ This sound was considered ""for children" and ""simple," but at the same time it
 ### The establishment of chiptune
 
 In the late 1990s, music that intentionally used sound sources from game consoles and old computers came to be called "chip tunes."
-This was not a nostalgic hobby, but involved a clear methodology of composing within a limited number of notes and timbres.
+これは懐古趣味ではなく、制限された音数・音色の中で作曲するという明確な方法論を伴っていた。
 
 Low-bit sound is not just a matter of sound quality, but has become an element that defines the structure itself.
 

@@ -16,7 +16,7 @@ A techno track released on MB Elektronics in 2006 by Greek techno DJ Spiros Kalo
 
 Spiros Kaloumeno was born in Piraeus, Greece, and at the age of 13 he realized that music, especially electronic music, was his priority in life.
 
-He started his career as a radio producer and his radio show has grown to be broadcast on one of the largest dance music stations in Athens.
+He started his career as a radio producer and his radio programs were broadcast on one of the largest dance music stations in Athens.
 
 Afterwards, he produced a television program introducing music and video clips from the techno scene, worked on a dance music magazine, and played as a techno DJ at clubs in Athens and dance festivals in Greece.
 

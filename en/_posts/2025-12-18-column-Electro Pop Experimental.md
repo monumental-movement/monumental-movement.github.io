@@ -128,7 +128,7 @@ The experimental nature of Carpenter Brut manifests itself less in the music its
 
 ## Chapter 7 Visual Culture and Electropop Experiments
 
-In electropop experimental music, the following elements work together, rather than just the music alone.
+In electropop experimental music, the following elements work together, rather than just music alone.
 
 * Album artwork
 * Music video
@@ -197,7 +197,7 @@ However, rather than simply merging these elements, it is distinctive in that it
 By including the production process and visual information, listeners simultaneously experience the following:
 
 * Listening to music
-*Imagination of the production process
+* Imagining the production process
 * Observation of creator personality
 * Visual narrative interpretation
 

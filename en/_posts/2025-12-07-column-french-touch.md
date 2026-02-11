@@ -205,7 +205,7 @@ This "ambiguity" was very important to French Touch.
 - Crushed loops due to compressor
 - Coarse sampling rate of MPC/SP-1200
 
-These qualities have been passed down to the texture of Nu Disco.
+These qualities have been passed down to Nu Disco's texture.
 
 ---
 

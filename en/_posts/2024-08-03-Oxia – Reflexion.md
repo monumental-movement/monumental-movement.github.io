@@ -20,7 +20,7 @@ A techno track by Olivier Raymond, also known as Oxia, a French DJ and producer 
 The first track on Side A is a remix by Samuel Geiser, also known as Deetron, who is a Swiss DJ and producer who runs the Techno/House label Character.
 
 The first track on side B is a remix by French Techno/Electro/Melodic Techno DJ/producer Kiko and Stephane Deschezeaux, who runs the French nu disco label Springbok Records.
-The second song on side B is a remix by French musician/DJ Michel Amato, aka The Hacker.
+The second song on side B is a remix by French musician/DJ Michel Amato, also known as The Hacker.
 
 #### Tracklist
 ```md

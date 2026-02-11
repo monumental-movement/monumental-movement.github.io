@@ -40,7 +40,7 @@ color: #fff;
 </style>
 
 
-## Chapter 1: The origins of 8-bit - Famicom and Game Boy sound source chips
+## Chapter 1: Origin of 8-bit - Famicom and Game Boy sound source chip
 
 ### 1-1. "Ricoh 2A03" that determined the sound of Famicom/NES
 
@@ -107,7 +107,7 @@ The Game Boy's WAVE channel allows you to create arbitrary waveforms rather than
 
 ---
 
-## Chapter 3: Tracker culture and Chiptune production - LSDj / Nanoloop / Famitracker
+## Chapter 3: Tracker culture and Chipune production - LSDj / Nanoloop / Famitracker
 
 ### 3-1. What is Tracker?
 
@@ -131,13 +131,13 @@ LSDj is a highly complete portable tracker that directly controls the sound sour
 
 Famitracker accurately reproduces the NES APU sound source and is used by composers around the world to arrange game music and create original Chiptunes.
 
-### 3-4. Nanoloop - minimal aesthetics
+### 3-4. Nanoloop ― ミニマル美学
 
-Nanoloop produces minimal electronic music with a beautiful interface that has been stripped down to its bare minimum.
+Nanoloopは機能を極限まで削ぎ落とした美しいインターフェースで、ミニマルな電子音楽を生む。
 
 ---
 
-## Chapter 4: Create Chiptune with DAW - Modern plug-ins and sound source reproduction
+## 第4章：DAWで作るChiptune ― 現代のプラグインと音源再現
 
 ### 4-1. Representative plugins
 
@@ -149,27 +149,27 @@ Nanoloop produces minimal electronic music with a beautiful interface that has b
 
 Plogue reproduces the sound source chip from the circuit level, so it can produce almost the same sound as the actual device.
 
-### 4-2. Production with Ableton / Logic / FL Studio
+### 4-2. Ableton / Logic / FL Studioでの制作
 
 DAW allows you to freely process effects, making it ideal for fusing Chiptune with modern electronic music.
 
 example:
 - Add delay/reverb to 8-bit lead to create a synth lead
-- Process the noise channel and apply it to Trap's snare
+- ノイズチャンネルを加工しTrapのスネアへ応用  
 - Sidechain square wave bass to make it look like EDM
 
 These "expanded chips" have become mainstream recently.
 
 ---
 
-## Chapter 5: The intersection of game music remix culture and Chiptune
+## 第5章：ゲーム音楽リミックス文化とChiptuneの交差
 
 There are a huge number of game music arrangements on YouTube and social media.
 Chiptune has a special role in this.
 
 reason:
 
-- Reconfiguring old game sound sources to sound like a different hardware
+- 昔のゲーム音源を“別ハード風”に再構成  
 - Fusion with EDM/Lo-Fi/Trap
 - 8-bit texture with strong iconic character
 - Easy to arrange as it can be achieved with a small number of notes
@@ -182,7 +182,7 @@ Chiptune is by no means limited to a "reproduction of game music", but is active
 
 ### 6-1. Build a lead melody
 
-- Uses a square wave with a duty ratio of 25% / 50%
+- デューティ比25% / 50%の矩形波を使用  
 - Slide and vibrato retain the characteristics of the sound source chip
 - Make an impression by repeating short phrases
 
@@ -193,7 +193,7 @@ Chiptune is by no means limited to a "reproduction of game music", but is active
 
 ### 6-3. How to create rhythm
 
-- Adjust noise channel length and frequency
+- ノイズチャンネルの長さと周波数を調整  
 - Kick is reproduced by Pitch falling
 - Snare combines a short noise with a square wave
 
@@ -222,42 +222,42 @@ The features are as follows.
 - Live performance on actual Game Boy or NES
 - Composition using Tracker is the world standard
 - Highly compatible with illustrations, videos, and pixel art
-- DIY spirit and open culture
+- DIY精神とオープン文化  
 
 It is considered not just a musical genre, but a comprehensive form of expression.
 
 ---
 
-## Chapter 9: Modern production environment - actual equipment, software, and hardware
+## 第9章：現代の制作環境 ― 実機・ソフト・ハードウェア
 
 ### 9-1. Production using actual equipment
 
 - Game Boy DMG-01 modification
 - EverDrive/Flash Cart
-- Replacement of fragile parts
+- 壊れやすいパーツの交換  
 - Method of recording in stereo one channel at a time
 
-### 9-2. DAW-based production
+### 9-2. DAWベースの制作
 
-- Completely reproduce the original sound with Plogue chipsynth
-- Sidechain/EQ correction
-- Separate sound sources like a multi-mic
-- Adjust the sound image with 32bit float recording
+- Plogue chipsynthで原音完全再現  
+- サイドチェイン・EQ補正  
+- マルチマイクのように音源を分離  
+- 32bit float録音で音像を調整
 
 ---
 
 ## Chapter 10: The future of Chiptune and the future of 8-bit aesthetics
 
 8-bit music is no longer a symbol of retro;
-**An existence that gives new ideas to the modern era as a "cluster of constrained aesthetics"**
+**An entity that gives new ideas to the modern era as a "cluster of constrained aesthetics"**
 It has become.
 
-- Use in Hyperpop and EDM
-- Lo-fi hiphop 8-bit textures
-- Strengthening the worldview of video works
-- Comprehensive production combined with pixel art
+- HyperpopやEDMでの使用  
+- Lo-fi hiphopの8-bitテクスチャ  
+- 映像作品の世界観の強化  
+- ピクセルアートと組み合わせた総合演出  
 
-8-bit sound will continue to have an impact on both cultural and technological aspects.
+8-bitの音はこれからも、文化・技術の両側面で影響を与え続ける。
 
 ---
 
@@ -265,11 +265,11 @@ It has become.
 
 **Chiptune is not "music of the past" but "a musical language that will continue to be used by future creators." **
 
-The square wave doesn't disappear.
-The snare on the noise channel is still new.
-The freedom of the Wave channel is the origin of digital music.
+矩形波は消えない。  
+ノイズチャンネルのスネアは今も新しい。  
+Waveチャンネルの自由度はデジタル音楽の原点。  
 
-> 8-bit music will continue to resonate all over the world.
+> 8-bit音楽は、これからも世界中で鳴り続ける。
 
 ---
 

@@ -134,7 +134,7 @@ The studio has come to be seen as a sound design space rather than a performance
 
 Tape music did not necessarily require a beginning, development, and end.
 
-### 9.2 Listening re-education
+### 9.2 Listening Retraining
 
 The process by which real sounds were abstracted required listeners to direct their attention in a new way.
 

@@ -182,7 +182,7 @@ Through live performances in Europe and America, reggae spread around the world 
 
 | Year | Events | Live Episodes | Cultural Significance |
 | ---- | -------------------- | ---------------------------- | --------------- |
-| 1962 | Formation | Kingston "Chocomo Lounge" first live show | Call & Response prototype |
+| 1962 | Formation | Kingston "Chocomo Lounge" first live show | Call & Response model |
 | 1966 | "Do the Reggay" released | Audience dancing in a circle | Birth of the word "Reggae" |
 | 1968 | National festival appearance | Several thousand people | Visualizing the evolution of music genres |
 | 1970 | First European tour | London "Carnival Club" | Pioneer of worldwide spread |

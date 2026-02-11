@@ -51,7 +51,7 @@ Due to the establishment of MTV Europe (1987), it was distributed as a set with 
 
 High-quality music videos by artists such as Real McCoy, Culture Beat, and 2 Unlimited resonated with American viewers and entered the Billboard charts as a reimport.
 
-**● Parapara, J-WAVE, Super Eurobeat**
+**● パラパラ、J-WAVE、スーパー・ユーロビート**
 
 In Japan, J-WAVE and Bay FM actively broadcast the euro.
 
@@ -108,7 +108,7 @@ Although it is a commercial package, the song selection has a club flair.
 
 **● Bridge from Euro to Trance**
 
-Eurotrance, a junction between Eurodance and trance, appears in the Late 90"s.
+Eurotrance, a junction between Euro dance and trance, appears in the Late 90"s.
 
 ATB, Fragma, Darude and more present a sound that weaves between pop and club
 

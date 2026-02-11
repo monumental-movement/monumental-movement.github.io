@@ -18,7 +18,7 @@ title: '[Column] Korla Pandit and the Vision of Exotica: Dreams and Masks of Pos
 ## Prologue: What was exotica?
 
 
-Text: mmr｜Theme: Exploring the role of the Korla Pandits in the creation of exotica and the aesthetics of Orientalism in postwar American culture
+Text: mmr｜Theme: Exploring the role of Korla Pandit in the nascent period of exotica and the aesthetics of Orientalism in postwar American culture
 
 ![Korla Pandit at the organ](https://upload.wikimedia.org/wikipedia/en/4/4d/Korlaorgan.jpg)
 Source: [Wikipedia - Korla Pandit](https://en.wikipedia.org/wiki/Korla_Pandit)
@@ -59,7 +59,7 @@ color: #fff;
 5. [Chapter 5: The Truth Behind the Mask - Confessions of John Rowland] (#Chapter 5)
 6. [Chapter 6: Reverberations of Exotica - From Longines Symphonette to Lo-Fi Revival] (#Chapter 6)
 7. [Chapter 7: Modern Reappraisal and Cultural Dislocation] (#Chapter 7)
-8. [Chronology: Korla Pandit and the History of Exotica Music (1940–2020)] (#Chronology)
+8. [Chronology: Korla Pandit and the history of exotica music (1940–2020)] (#chronology)
 9. [Charts and Analysis](#Charts)
 10. [Conclusion: Between fiction and truth] (#Conclusion)
 
@@ -124,7 +124,7 @@ Reference/Source:
 
 ---
 
-The Korla Pandit Show, which aired from 1951, was one of America's earliest music television shows.
+The Korla Pandit Show, which aired from 1951, was one of the first American music television shows.
 The production, which was constructed using only sight and sound without uttering words, provided a ""safe foreign country'' for white viewers at the time.
 
 Pundit has had more than 1,000 broadcasts, giving her more television exposure than her contemporaneous Nat King Cole.
