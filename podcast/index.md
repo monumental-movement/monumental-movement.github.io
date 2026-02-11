@@ -24,7 +24,7 @@ All episodes are published in **English**.
 ## Latest Episodes
 <div class="episode-grid">
   {% assign episodes = site.episodes | sort: "date" | reverse %}
-  {% for post in episodes limit:12 %}
+  {% for post in episodes limit:999 %}
     {% if post.lang == "en" %}
     <article class="episode-card">
       <a class="episode-link" href="{{ post.url }}">
