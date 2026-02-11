@@ -186,4 +186,13 @@ color: #fff;
 
 といった重要な側面が存在する。今日のデジタル時代においても、ストリートレベルの音楽流通やミックステープ文化を理解する上で、レゲエとカセットの関係は不可欠な参照点である。
 
+---
 
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0EEEwVz_vcw?si=juWb_d1If0s5xsni" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

@@ -222,6 +222,16 @@ flowchart TD
 
 ---
 
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7ntOEubh9a0?si=dWIBnh3D5-JVtJmH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+
 ### 関連コラム
 
 🔗 [【コラム】 David Toopとジャンルレスな音楽思考 ― 年代別にたどる音の探究](https://monumental-movement.jp/Column-David-Toop)
