@@ -36,7 +36,7 @@ permalink: /
 
 {%- assign current_lang = page.lang | default: "ja" -%}
 {%- assign posts_in_lang = site.posts | where: "lang", current_lang -%}
-{%- assign new_arrival_categories = "Vinyl|Cassette|CD|Column" | split: "|" -%}
+{%- assign new_arrival_categories = "Column|Vinyl|Cassette|CD" | split: "|" -%}
 {%- assign max_new_items = 8 -%}
 {%- assign popular_items = site.data.popular | default: empty -%}
 
@@ -169,98 +169,7 @@ permalink: /
   });
 </script>
 
-{% if popular_items.size > 0 %}
-<section class="popular-carousel" aria-label="よく見られているページ">
-  <div class="popular-carousel__header">
-    <h2 class="popular-carousel__title">
-      {% if page.lang == "en" %}
-        Frequently Viewed
-      {% elsif page.lang == "de" %}
-        Häufig angesehen
-      {% elsif page.lang == "es" %}
-        Más vistos
-      {% elsif page.lang == "ko" %}
-        よく見られているページ
-      {% elsif page.lang == "zh-hant" %}
-        熱門瀏覽
-      {% else %}
-        よく見られているページ
-      {% endif %}
-    </h2>
-    <div class="popular-carousel__controls">
-      <button class="popular-carousel__btn" type="button" data-dir="prev" aria-label="前へ">‹</button>
-      <button class="popular-carousel__btn" type="button" data-dir="next" aria-label="次へ">›</button>
-    </div>
-  </div>
-  <div class="popular-carousel__track" role="list">
-    {%- for item in popular_items -%}
-      {%- assign item_url_normalized = item.url | replace: site.baseurl, "" | strip -%}
-      {%- assign matching_post = null -%}
-      {%- for post in site.posts -%}
-        {%- assign post_url_normalized = post.url | replace: site.baseurl, "" | strip -%}
-        {%- if post_url_normalized == item_url_normalized or post.title == item.title -%}
-          {%- assign matching_post = post -%}
-          {%- break -%}
-        {%- endif -%}
-      {%- endfor -%}
-      {%- if matching_post == null -%}
-        {%- assign matching_post = site.posts | where_exp: "post", "post.title contains item.title" | first -%}
-      {%- endif -%}
-      {%- if matching_post == null -%}
-        {%- assign url_slug = item.url | replace: site.baseurl, "" | replace: "/", "" | replace: ".html", "" | replace: "-", " " -%}
-        {%- assign matching_post = site.posts | where_exp: "post", "post.title contains url_slug" | first -%}
-      {%- endif -%}
-      {%- assign final_url = matching_post.url | default: item.url | default: "#" -%}
-      {%- assign final_image = item.image | default: matching_post.image -%}
-      {%- if matching_post.date -%}
-        {%- assign random_date = matching_post.date | date: "%Y-%m-%d" -%}
-      {%- else -%}
-        {%- assign title_hash = item.title | size | times: forloop.index | modulo: 365 -%}
-        {%- assign days_offset = title_hash | modulo: 28 | plus: 1 -%}
-        {%- assign month_offset = title_hash | divided_by: 30 | modulo: 12 | plus: 1 -%}
-        {%- if month_offset < 10 -%}
-          {%- assign month_str = "0" | append: month_offset -%}
-        {%- else -%}
-          {%- assign month_str = month_offset -%}
-        {%- endif -%}
-        {%- if days_offset < 10 -%}
-          {%- assign day_str = "0" | append: days_offset -%}
-        {%- else -%}
-          {%- assign day_str = days_offset -%}
-        {%- endif -%}
-        {%- assign random_date = "2024" | append: "-" | append: month_str | append: "-" | append: day_str -%}
-      {%- endif -%}
-      <article class="popular-card" role="listitem">
-        <a class="popular-card__link" href="{{ final_url }}">
-          {% if final_image %}
-            {%- assign img_path = final_image -%}
-            {%- if img_path contains '../' -%}
-              {%- assign img_path = img_path | replace: '../', '' -%}
-            {%- endif -%}
-            {%- if img_path contains '://' -%}
-              <img class="popular-card__img" src="{{ img_path }}" alt="{{ item.title | default: '' }}" loading="lazy" decoding="async">
-            {%- else -%}
-              <img class="popular-card__img" src="{{ site.baseurl }}/{{ img_path }}" alt="{{ item.title | default: '' }}" loading="lazy" decoding="async">
-            {%- endif -%}
-          {% endif %}
-          <div class="popular-card__body">
-            <p class="popular-card__date">{{ random_date }}</p>
-            <h3 class="popular-card__title">{{ item.title }}</h3>
-            {% if item.excerpt %}
-              <p class="popular-card__excerpt">{{ item.excerpt }}</p>
-            {% elsif matching_post.excerpt %}
-              <p class="popular-card__excerpt">{{ matching_post.excerpt | strip_html | truncatewords: 16 }}</p>
-            {% endif %}
-          </div>
-        </a>
-      </article>
-    {%- endfor -%}
-  </div>
-</section>
-{% endif %}
 
-
-{% include tags-slider.html %}
 
 {%- assign column_posts = posts_in_lang
     | where_exp: "post", "post.categories contains 'Column'"
@@ -287,7 +196,49 @@ permalink: /
       <button class="column-slider__btn" type="button" data-dir="next" aria-label="次へ">›</button>
     </div>
   </div>
+</section>
 
+{% include tags-slider.html %}
+
+
+{% assign random_posts = site.posts | sample: 5 %}
+
+<section class="popular-carousel" aria-label="よく見られているページ">
+  <div class="popular-carousel__header">
+    <h2 class="popular-carousel__title">
+      よく見られているページ
+    </h2>
+  </div>
+
+  <div class="popular-carousel__track" role="list">
+    {% for post in random_posts %}
+      <article class="popular-card" role="listitem">
+        <a class="popular-card__link" href="{{ post.url }}">
+          {% if post.image %}
+            <img class="popular-card__img"
+                 src="{{ site.baseurl }}/{{ post.image }}"
+                 alt="{{ post.title }}"
+                 loading="lazy"
+                 decoding="async">
+          {% endif %}
+          <div class="popular-card__body">
+            <p class="popular-card__date">
+              {{ post.date | date: "%Y-%m-%d" }}
+            </p>
+            <h3 class="popular-card__title">
+              {{ post.title }}
+            </h3>
+            <p class="popular-card__excerpt">
+              {{ post.excerpt | strip_html | truncatewords: 16 }}
+            </p>
+          </div>
+        </a>
+      </article>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="popular-carousel" aria-label="全ページ">
   <div class="column-slider__track" role="list">
     {%- for post in column_posts -%}
       <article class="column-card" role="listitem">
