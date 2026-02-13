@@ -315,6 +315,36 @@
 <meta name="twitter:image" content="https://monumental-movement.jp/assets/images/logo.jpg" />
 <meta name="twitter:site" content="@mmrecords_japan" />
 
+<!-- YouTube Podcast バナー -->
+<section class="youtube-podcast-banner" aria-label="YouTube Podcast">
+  <div class="youtube-podcast-banner__container">
+    <a href="https://www.youtube.com/@monumentalmovement" target="_blank" rel="noopener noreferrer" class="youtube-podcast-banner__link">
+      <div class="youtube-podcast-banner__content">
+        <svg class="youtube-podcast-banner__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="48" height="48">
+          <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
+        </svg>
+        <div class="youtube-podcast-banner__text">
+          <h2 class="youtube-podcast-banner__title">
+            
+              YouTube Podcastで聴く
+            
+          </h2>
+          <p class="youtube-podcast-banner__description">
+            
+              音楽文化、実験音響、アンダーグラウンドムーブメントを深掘り
+            
+          </p>
+        </div>
+        <span class="youtube-podcast-banner__cta">
+          
+            視聴する →
+          
+        </span>
+      </div>
+    </a>
+  </div>
+</section>
+
 <p>Monumental Movementは、音楽文化とその背景にある思想・歴史を探るカルチャープラットフォームです。
 コラムやポッドキャストによるアーカイブ型メディアに加え、中古レコードやメディアの紹介も行っています。</p>
 
@@ -325,14 +355,14 @@
 <a href="/de/"> Deutsch (DE)</a> |
 <a href="/fr/"> Français (FR)</a> |
 <a href="/ko/"> 한국어 (KO)</a> |
-<a href="/zh-hant/"> 繁體中文 (ZH-TW)</a><section class="new-arrivals" aria-label="新着アイテム">
+<a href="/zh-hant/"> 繁體中文 (ZH-TW)</a><!-- 1. 新着セクション -->
+<section class="new-arrivals" aria-label="新着アイテム">
   <div class="new-arrivals__header">
     <h2 class="new-arrivals__title">
       
         新着
       
     </h2>
-
   </div>
 
   <div class="new-arrivals__tabs" role="tablist" aria-label="カテゴリで切替"><button
@@ -1423,65 +1453,8 @@
 </div>
 <!-- end post --></div>
       </div></div>
-</section>
-
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    const tabs = document.querySelectorAll(".new-arrivals__tab");
-    const panels = document.querySelectorAll(".new-arrivals__panel");
-    const columnSlider = document.querySelector(".column-slider");
-    const columnTrack = document.querySelector(".column-slider__track");
-    const columnButtons = document.querySelectorAll(".column-slider__btn");
-    const popularCarousel = document.querySelector(".popular-carousel");
-    const popularTrack = document.querySelector(".popular-carousel__track");
-    const popularButtons = document.querySelectorAll(".popular-carousel__btn");
-
-    if (tabs.length && panels.length) {
-      tabs.forEach((tab) => {
-        tab.addEventListener("click", () => {
-          const targetId = tab.dataset.target;
-
-          tabs.forEach((t) => {
-            t.classList.toggle("is-active", t === tab);
-            t.setAttribute("aria-selected", t === tab ? "true" : "false");
-          });
-
-          panels.forEach((panel) => {
-            const isTarget = panel.id === targetId;
-            panel.classList.toggle("is-active", isTarget);
-            panel.setAttribute("aria-hidden", isTarget ? "false" : "true");
-          });
-        });
-      });
-    }
-
-    if (columnSlider && columnTrack && columnButtons.length) {
-      columnButtons.forEach((btn) => {
-        btn.addEventListener("click", () => {
-          const direction = btn.dataset.dir === "next" ? 1 : -1;
-          const scrollAmount = columnSlider.clientWidth * 0.8;
-          columnSlider.querySelector(".column-slider__track").scrollBy({
-            left: scrollAmount * direction,
-            behavior: "smooth",
-          });
-        });
-      });
-    }
-
-    if (popularCarousel && popularTrack && popularButtons.length) {
-      popularButtons.forEach((btn) => {
-        btn.addEventListener("click", () => {
-          const direction = btn.dataset.dir === "next" ? 1 : -1;
-          const scrollAmount = popularCarousel.clientWidth * 0.8;
-          popularTrack.scrollBy({
-            left: scrollAmount * direction,
-            behavior: "smooth",
-          });
-        });
-      });
-    }
-  });
-</script><section class="column-slider" aria-label="おすすめのコラム">
+</section><!-- 2. おすすめコラムスライダー -->
+<section class="column-slider" aria-label="おすすめのコラム">
   <div class="column-slider__header">
     <h2 class="column-slider__title">
       
@@ -1493,8 +1466,155 @@
       <button class="column-slider__btn" type="button" data-dir="next" aria-label="次へ">›</button>
     </div>
   </div>
+
+  <div class="column-slider__track" role="list"><article class="column-card" role="listitem">
+        <a class="column-card__link" href="/Column-dubstep/">
+          
+            <img class="column-card__img" src="/../assets/images/column-dubstep.webp" alt="【コラム】 ダブステップ（Dubstep）の軌跡 ― 重低音が紡ぐ都市のサウンドスケープ" loading="lazy" decoding="async">
+          
+          <div class="column-card__body">
+            <p class="column-card__date">2025-08-28</p>
+            <h3 class="column-card__title">【コラム】 ダブステップ（Dubstep）の軌跡 ― 重低音が紡ぐ都市のサウンドスケープ</h3>
+            <p class="column-card__excerpt">聴覚を超えて身体と空間を揺さぶり、リスナー同士を結びつける
+</p>
+          </div>
+        </a>
+      </article><article class="column-card" role="listitem">
+        <a class="column-card__link" href="/column-harvey-vinyl/">
+          
+            <img class="column-card__img" src="/../assets/images/column-harvey-vinyl.webp" alt="【コラム】 DJ Harveyとレコード収集――“音”を生きる身体としてのDJ" loading="lazy" decoding="async">
+          
+          <div class="column-card__body">
+            <p class="column-card__date">2025-10-27</p>
+            <h3 class="column-card__title">【コラム】 DJ Harveyとレコード収集――“音”を生きる身体としてのDJ</h3>
+            <p class="column-card__excerpt">序章：神話化されたDJ Harvey像
+</p>
+          </div>
+        </a>
+      </article><article class="column-card" role="listitem">
+        <a class="column-card__link" href="/column-dreamwave-chill-synthwave/">
+          
+            <img class="column-card__img" src="/../assets/images/column-dreamwave-chill-synthwave.webp" alt="【コラム】 Dreamwave / Chill Synthwave（ドリームウェーブ／チルシンセウェーブ）" loading="lazy" decoding="async">
+          
+          <div class="column-card__body">
+            <p class="column-card__date">2026-01-07</p>
+            <h3 class="column-card__title">【コラム】 Dreamwave / Chill Synthwave（ドリームウェーブ／チルシンセウェーブ）</h3>
+            <p class="column-card__excerpt">概要：Dreamwave / Chill Synthwaveとは
+</p>
+          </div>
+        </a>
+      </article><article class="column-card" role="listitem">
+        <a class="column-card__link" href="/Column-Norwegian-disco/">
+          
+            <img class="column-card__img" src="/../assets/images/column-norwegian-disco.webp" alt="【コラム】 ノルウェーのディスコ：Prins Thomas、Mungolian Jet Set、Lindstrøm の系譜とおすすめ盤" loading="lazy" decoding="async">
+          
+          <div class="column-card__body">
+            <p class="column-card__date">2025-09-29</p>
+            <h3 class="column-card__title">【コラム】 ノルウェーのディスコ：Prins Thomas、Mungolian Jet Set、Lindstrøm の系譜とおすすめ盤</h3>
+            <p class="column-card__excerpt">ノルウェーのディスコ：Prins Thomas、Mungolian Jet Set、Lindstrøm の系譜
+</p>
+          </div>
+        </a>
+      </article><article class="column-card" role="listitem">
+        <a class="column-card__link" href="/column-macero-miles/">
+          
+            <img class="column-card__img" src="/../assets/images/column-macero-miles.webp" alt="【コラム】 テオ・マセロとマイルス・デイビス —— 編集が創造を超える瞬間" loading="lazy" decoding="async">
+          
+          <div class="column-card__body">
+            <p class="column-card__date">2025-10-28</p>
+            <h3 class="column-card__title">【コラム】 テオ・マセロとマイルス・デイビス —— 編集が創造を超える瞬間</h3>
+            <p class="column-card__excerpt">序章：録音室という“もうひとつの楽器”
+</p>
+          </div>
+        </a>
+      </article><article class="column-card" role="listitem">
+        <a class="column-card__link" href="/Column-Luke-Slater/">
+          
+            <img class="column-card__img" src="/../assets/images/column-luke-slater.webp" alt="【コラム】 Luke Slater: 英国テクノの先駆者とその音楽世界" loading="lazy" decoding="async">
+          
+          <div class="column-card__body">
+            <p class="column-card__date">2025-10-04</p>
+            <h3 class="column-card__title">【コラム】 Luke Slater: 英国テクノの先駆者とその音楽世界</h3>
+            <p class="column-card__excerpt">UKテクノの革新者と多彩なプロジェクトの全貌
+</p>
+          </div>
+        </a>
+      </article><article class="column-card" role="listitem">
+        <a class="column-card__link" href="/column-cosmic-sound/">
+          
+            <img class="column-card__img" src="/../assets/images/column-cosmic-sound.webp" alt="【コラム】 Cosmic SoundとDaniele Baldelli ― 宇宙と速度の間で踊る" loading="lazy" decoding="async">
+          
+          <div class="column-card__body">
+            <p class="column-card__date">2025-10-27</p>
+            <h3 class="column-card__title">【コラム】 Cosmic SoundとDaniele Baldelli ― 宇宙と速度の間で踊る</h3>
+            <p class="column-card__excerpt">1. 序章：宇宙のディスコが生まれた場所
+</p>
+          </div>
+        </a>
+      </article><article class="column-card" role="listitem">
+        <a class="column-card__link" href="/column-dungeon-synth/">
+          
+            <img class="column-card__img" src="/../assets/images/column-dungeon-synth.webp" alt="【コラム】 Dungeon Synth ─ ブラックメタルから分岐した地下アンビエントの美学" loading="lazy" decoding="async">
+          
+          <div class="column-card__body">
+            <p class="column-card__date">2025-11-30</p>
+            <h3 class="column-card__title">【コラム】 Dungeon Synth ─ ブラックメタルから分岐した地下アンビエントの美学</h3>
+            <p class="column-card__excerpt">Dungeon Synth ─ ブラックメタルから分岐した地下アンビエントの美学
+</p>
+          </div>
+        </a>
+      </article><article class="column-card" role="listitem">
+        <a class="column-card__link" href="/column-dmx/">
+          
+            <img class="column-card__img" src="/../assets/images/column-dmx.webp" alt="【コラム】 DMX：吠える魂 ― 暴力と祈りのはざまで" loading="lazy" decoding="async">
+          
+          <div class="column-card__body">
+            <p class="column-card__date">2025-10-28</p>
+            <h3 class="column-card__title">【コラム】 DMX：吠える魂 ― 暴力と祈りのはざまで</h3>
+            <p class="column-card__excerpt">DMX：吠える魂 ― 暴力と祈りのはざまで
+</p>
+          </div>
+        </a>
+      </article><article class="column-card" role="listitem">
+        <a class="column-card__link" href="/column-plastikman-richie-hawtin/">
+          
+            <img class="column-card__img" src="/../assets/images/column-plastikman-richie-hawtin.webp" alt="【コラム】 Plastikman | Richie Hawtin ― ミニマリズムの深淵とテクノの精神史" loading="lazy" decoding="async">
+          
+          <div class="column-card__body">
+            <p class="column-card__date">2025-10-24</p>
+            <h3 class="column-card__title">【コラム】 Plastikman | Richie Hawtin ― ミニマリズムの深淵とテクノの精神史</h3>
+            <p class="column-card__excerpt">序章：音の「空間」としての自己
+</p>
+          </div>
+        </a>
+      </article><article class="column-card" role="listitem">
+        <a class="column-card__link" href="/column-chillwave-synthwave/">
+          
+            <img class="column-card__img" src="/../assets/images/column-chillwave-synthwave.webp" alt="【コラム】 Chillwave / Synthwave 再評価 ― 80sサウンドとインターネット文化の邂逅" loading="lazy" decoding="async">
+          
+          <div class="column-card__body">
+            <p class="column-card__date">2025-12-07</p>
+            <h3 class="column-card__title">【コラム】 Chillwave / Synthwave 再評価 ― 80sサウンドとインターネット文化の邂逅</h3>
+            <p class="column-card__excerpt">80年代サウンドとインターネット文化の再接続
+</p>
+          </div>
+        </a>
+      </article><article class="column-card" role="listitem">
+        <a class="column-card__link" href="/column-1970s-disco-redlark/">
+          
+            <img class="column-card__img" src="/../assets/images/column-1970s-disco-redlark.webp" alt="【コラム】 日本の70年代Discoと赤ラーク ― 音楽と煙草が描いた夜の美学" loading="lazy" decoding="async">
+          
+          <div class="column-card__body">
+            <p class="column-card__date">2025-11-01</p>
+            <h3 class="column-card__title">【コラム】 日本の70年代Discoと赤ラーク ― 音楽と煙草が描いた夜の美学</h3>
+            <p class="column-card__excerpt">日本の70年代Discoと赤ラーク ― 音楽と煙草が描いた夜の美学
+</p>
+          </div>
+        </a>
+      </article></div>
 </section>
 
+<!-- 3. タグスライダー -->
 <div class="tag-slider">
   
 
@@ -12834,69 +12954,51 @@
 
 
 
-
+<!-- 4. よく見られているページ -->
 <section class="popular-carousel" aria-label="よく見られているページ">
   <div class="popular-carousel__header">
     <h2 class="popular-carousel__title">
-      よく見られているページ
+      
+        よく見られているページ
+      
     </h2>
+    <div class="popular-carousel__controls">
+      <button class="popular-carousel__btn" type="button" data-dir="prev" aria-label="前へ">‹</button>
+      <button class="popular-carousel__btn" type="button" data-dir="next" aria-label="次へ">›</button>
+    </div>
   </div>
 
   <div class="popular-carousel__track" role="list">
     
       <article class="popular-card" role="listitem">
-        <a class="popular-card__link" href="/de/cristian-vogel-whipaspank/">
+        <a class="popular-card__link" href="/ko/devo-new-traditionalists/">
           
             <img class="popular-card__img"
-                 src="/../assets/images/Cristian Vogel – Whipaspank.webp"
-                 alt="Cristian Vogel – Whipaspank"
+                 src="/../assets/images/Devo – New Traditionalists.webp"
+                 alt="Devo – 새로운 전통주의자"
                  loading="lazy"
                  decoding="async">
           
           <div class="popular-card__body">
             <p class="popular-card__date">
-              2023-09-30
+              2024-05-18
             </p>
             <h3 class="popular-card__title">
-              Cristian Vogel – Whipaspank
+              Devo – 새로운 전통주의자
             </h3>
             <p class="popular-card__excerpt">
-              Christian Vogel (* 1972 in Santiago, Chile) ist ein experimenteller elektronischer Musiker, der Ende der 1980er...
+              “New Traditionalists”는 1981년 발매된 미국 뉴 웨이브 밴드 Devo의 네 번째 앨범이자, 밴드의 첫 번째 완전...
             </p>
           </div>
         </a>
       </article>
     
       <article class="popular-card" role="listitem">
-        <a class="popular-card__link" href="/Wink-Higher-State-Of-Consciousness/">
+        <a class="popular-card__link" href="/ko/isao-sasaki-yamato/">
           
             <img class="popular-card__img"
-                 src="/../assets/images/Wink – Higher State Of Consciousness.webp"
-                 alt="Wink – Higher State Of Consciousness"
-                 loading="lazy"
-                 decoding="async">
-          
-          <div class="popular-card__body">
-            <p class="popular-card__date">
-              2023-10-20
-            </p>
-            <h3 class="popular-card__title">
-              Wink – Higher State Of Consciousness
-            </h3>
-            <p class="popular-card__excerpt">
-              Winkこと、Josh Wink（ジョシュ・ウィンク）、USフィラデルフィア出身のエレクトロニックダンスミュージックのDJ/プロデューサー/リミキサー。Winkは、1990 年代初頭のアメリカのレイヴシーンの先駆的DJで、「Higher State Of Consciousness」は彼の代表曲のひとつ。
-
-            </p>
-          </div>
-        </a>
-      </article>
-    
-      <article class="popular-card" role="listitem">
-        <a class="popular-card__link" href="/fr/inner-circle-black-roses/">
-          
-            <img class="popular-card__img"
-                 src="/../assets/images/Inner Circle – Black Roses.webp"
-                 alt="Cercle intérieur – Roses noires"
+                 src="/../assets/images/Isao Sasaki - Yamato.webp"
+                 alt="사사키 이사오 – 안녕 우주 전함 야마토 사랑의 전사들 – 좋은 적"
                  loading="lazy"
                  decoding="async">
           
@@ -12905,44 +13007,21 @@
               2023-10-24
             </p>
             <h3 class="popular-card__title">
-              Cercle intérieur – Roses noires
+              사사키 이사오 – 안녕 우주 전함 야마토 사랑의 전사들 – 좋은 적
             </h3>
             <p class="popular-card__excerpt">
-              Inner Circle, également connu sous le nom de The Inner Circle Band ou The Bad Boys...
+              “사사키 이사오 - 이별의 우주 전함 야마토 사랑의 전사들 - 선한 적”은 1978년 영화 “이별의 우주...
             </p>
           </div>
         </a>
       </article>
     
       <article class="popular-card" role="listitem">
-        <a class="popular-card__link" href="/de/dj-scot-project-o/">
+        <a class="popular-card__link" href="/ko/fantasia-free-yourself/">
           
             <img class="popular-card__img"
-                 src="/../assets/images/DJ Scot Project – O.webp"
-                 alt="DJ Scot Project – O"
-                 loading="lazy"
-                 decoding="async">
-          
-          <div class="popular-card__body">
-            <p class="popular-card__date">
-              2023-10-27
-            </p>
-            <h3 class="popular-card__title">
-              DJ Scot Project – O
-            </h3>
-            <p class="popular-card__excerpt">
-              DJ Scot Project (Frank Zenker) ist ein deutscher DJ/Produzent, der seit den 90er Jahren in der...
-            </p>
-          </div>
-        </a>
-      </article>
-    
-      <article class="popular-card" role="listitem">
-        <a class="popular-card__link" href="/de/plutocracy-dankstahz/">
-          
-            <img class="popular-card__img"
-                 src="/../assets/images/Plutocracy – Dankstahz.webp"
-                 alt="Plutokratie – Dankstahz"
+                 src="/../assets/images/Fantasia – Free Yourself.webp"
+                 alt="판타지아 - 자유로워지세요"
                  loading="lazy"
                  decoding="async">
           
@@ -12951,10 +13030,58 @@
               2023-10-02
             </p>
             <h3 class="popular-card__title">
-              Plutokratie – Dankstahz
+              판타지아 - 자유로워지세요
             </h3>
             <p class="popular-card__excerpt">
-              „Dankstahz“ ist Hierbei handelt es sich um eine 10-Zoll-Platte der kalifornischen Grindcore-Band „Plutocracy“, die 1996 beim...
+              House REMIX of Fantasia – Charles Spencer와 David Harness의 Free Yourself.
+
+            </p>
+          </div>
+        </a>
+      </article>
+    
+      <article class="popular-card" role="listitem">
+        <a class="popular-card__link" href="/de/column-post-rock-ambient-movie-architecture/">
+          
+            <img class="popular-card__img"
+                 src="/../assets/images/column-post-rock-ambient-movie-architecture.webp"
+                 alt="[Kolumne] Post-Rock/Ambient-Interaktion mit Film und Architektur"
+                 loading="lazy"
+                 decoding="async">
+          
+          <div class="popular-card__body">
+            <p class="popular-card__date">
+              2025-09-19
+            </p>
+            <h3 class="popular-card__title">
+              [Kolumne] Post-Rock/Ambient-Interaktion mit Film und Architektur
+            </h3>
+            <p class="popular-card__excerpt">
+              Interaktion mit Post-Rock/Ambient-Film und Architektur
+
+            </p>
+          </div>
+        </a>
+      </article>
+    
+      <article class="popular-card" role="listitem">
+        <a class="popular-card__link" href="/de/tukan-light-a-rainbow/">
+          
+            <img class="popular-card__img"
+                 src="/../assets/images/Tukan – Light A Rainbow.webp"
+                 alt="Tukan – Zünde einen Regenbogen an"
+                 loading="lazy"
+                 decoding="async">
+          
+          <div class="popular-card__body">
+            <p class="popular-card__date">
+              2023-10-12
+            </p>
+            <h3 class="popular-card__title">
+              Tukan – Zünde einen Regenbogen an
+            </h3>
+            <p class="popular-card__excerpt">
+              Tukan ist ein Trance-Projekt bestehend aus den dänischen Produzenten Lars Frederiksen und Søren Weile. Er ist...
             </p>
           </div>
         </a>
@@ -12963,155 +13090,17 @@
   </div>
 </section>
 
-<section class="popular-carousel" aria-label="全ページ">
-  <div class="column-slider__track" role="list"><article class="column-card" role="listitem">
-        <a class="column-card__link" href="/column-rei-harakami/">
-          
-            <img class="column-card__img" src="/../assets/images/column-rei-harakami.webp" alt="【コラム】 Rei Harakami ― 京都が生んだ静寂の電子音" loading="lazy" decoding="async">
-          
-          <div class="column-card__body">
-            <p class="column-card__date">28 Oct 2025</p>
-            <h3 class="column-card__title">【コラム】 Rei Harakami ― 京都が生んだ静寂の電子音</h3>
-            <p class="column-card__excerpt">序章：音の間（ま）に息づく京都
-</p>
-          </div>
-        </a>
-      </article><article class="column-card" role="listitem">
-        <a class="column-card__link" href="/Column-EDM/">
-          
-            <img class="column-card__img" src="/../assets/images/column-edm.webp" alt="【コラム】 EDMという幻想：デジタル時代の祝祭と再構築" loading="lazy" decoding="async">
-          
-          <div class="column-card__body">
-            <p class="column-card__date">12 Oct 2025</p>
-            <h3 class="column-card__title">【コラム】 EDMという幻想：デジタル時代の祝祭と再構築</h3>
-            <p class="column-card__excerpt">音が建築になる瞬間がある
-</p>
-          </div>
-        </a>
-      </article><article class="column-card" role="listitem">
-        <a class="column-card__link" href="/column-taj-mahal-travelers/">
-          
-            <img class="column-card__img" src="/../assets/images/column-taj-mahal-travelers.webp" alt="【コラム】 タージ・マハル旅行団と小杉武久 ― 音を解き放つ旅の軌跡" loading="lazy" decoding="async">
-          
-          <div class="column-card__body">
-            <p class="column-card__date">01 Nov 2025</p>
-            <h3 class="column-card__title">【コラム】 タージ・マハル旅行団と小杉武久 ― 音を解き放つ旅の軌跡</h3>
-            <p class="column-card__excerpt">I. 1960年代の出発点：音楽の制度を超えて
-</p>
-          </div>
-        </a>
-      </article><article class="column-card" role="listitem">
-        <a class="column-card__link" href="/Column-Glitch/">
-          
-            <img class="column-card__img" src="/../assets/images/column-glitch.webp" alt="【コラム】 Glitch：ノイズが美に変わるとき" loading="lazy" decoding="async">
-          
-          <div class="column-card__body">
-            <p class="column-card__date">12 Oct 2025</p>
-            <h3 class="column-card__title">【コラム】 Glitch：ノイズが美に変わるとき</h3>
-            <p class="column-card__excerpt">エラーという快楽
-</p>
-          </div>
-        </a>
-      </article><article class="column-card" role="listitem">
-        <a class="column-card__link" href="/column-neo-futurism-avant-garde-pop/">
-          
-            <img class="column-card__img" src="/../assets/images/column-neo-futurism-avant-garde-pop.webp" alt="【コラム】 Neo-Futurism / Avant-Garde Pop（ネオフューチャリズム／前衛ポップ）" loading="lazy" decoding="async">
-          
-          <div class="column-card__body">
-            <p class="column-card__date">14 Dec 2025</p>
-            <h3 class="column-card__title">【コラム】 Neo-Futurism / Avant-Garde Pop（ネオフューチャリズム／前衛ポップ）</h3>
-            <p class="column-card__excerpt">序論：前衛はポップになり得るか
-</p>
-          </div>
-        </a>
-      </article><article class="column-card" role="listitem">
-        <a class="column-card__link" href="/column-why-we-listen-to-music-when-sad/">
-          
-            <img class="column-card__img" src="/../assets/images/column-why-we-listen-to-music-when-sad.webp" alt="【コラム】 なぜ人は悲しいときに音楽を聴くのか — 共感・記憶・神経の調律としての音" loading="lazy" decoding="async">
-          
-          <div class="column-card__body">
-            <p class="column-card__date">23 Oct 2025</p>
-            <h3 class="column-card__title">【コラム】 なぜ人は悲しいときに音楽を聴くのか — 共感・記憶・神経の調律としての音</h3>
-            <p class="column-card__excerpt">序章：涙の中の旋律
-</p>
-          </div>
-        </a>
-      </article><article class="column-card" role="listitem">
-        <a class="column-card__link" href="/column-vaporwave/">
-          
-            <img class="column-card__img" src="/../assets/images/column-vaporwave.webp" alt="【コラム】 Vaporwave文化圏の全史 — レーベル史・音響解析・社会文化論・図解・年表" loading="lazy" decoding="async">
-          
-          <div class="column-card__body">
-            <p class="column-card__date">16 Nov 2025</p>
-            <h3 class="column-card__title">【コラム】 Vaporwave文化圏の全史 — レーベル史・音響解析・社会文化論・図解・年表</h3>
-            <p class="column-card__excerpt">序章：Vaporwaveとは何か
-</p>
-          </div>
-        </a>
-      </article><article class="column-card" role="listitem">
-        <a class="column-card__link" href="/column-gong/">
-          
-            <img class="column-card__img" src="/../assets/images/column-gong.webp" alt="【コラム】 Gong伝説：時代・神話・サウンドと共同体" loading="lazy" decoding="async">
-          
-          <div class="column-card__body">
-            <p class="column-card__date">29 Oct 2025</p>
-            <h3 class="column-card__title">【コラム】 Gong伝説：時代・神話・サウンドと共同体</h3>
-            <p class="column-card__excerpt">1. 導入：科学者としての音楽家
-</p>
-          </div>
-        </a>
-      </article><article class="column-card" role="listitem">
-        <a class="column-card__link" href="/column-minimal-music/">
-          
-            <img class="column-card__img" src="/../assets/images/column-minimal-music.webp" alt="【コラム】 Minimal Musicの拡張軌跡：Techno, House, Rockから見た反復と変化の美学" loading="lazy" decoding="async">
-          
-          <div class="column-card__body">
-            <p class="column-card__date">05 Nov 2025</p>
-            <h3 class="column-card__title">【コラム】 Minimal Musicの拡張軌跡：Techno, House, Rockから見た反復と変化の美学</h3>
-            <p class="column-card__excerpt">序章：沈黙と繰り返しのあいだに
-</p>
-          </div>
-        </a>
-      </article><article class="column-card" role="listitem">
-        <a class="column-card__link" href="/column-bedroom-producer-era/">
-          
-            <img class="column-card__img" src="/../assets/images/column-bedroom-producer-era.webp" alt="【コラム】 一人での創造：ベッドルームプロデューサーの時代" loading="lazy" decoding="async">
-          
-          <div class="column-card__body">
-            <p class="column-card__date">23 Oct 2025</p>
-            <h3 class="column-card__title">【コラム】 一人での創造：ベッドルームプロデューサーの時代</h3>
-            <p class="column-card__excerpt">序章：誰もいない部屋から世界へ
-</p>
-          </div>
-        </a>
-      </article><article class="column-card" role="listitem">
-        <a class="column-card__link" href="/column-chiptune/">
-          
-            <img class="column-card__img" src="/../assets/images/column-chiptune.webp" alt="【コラム】 Chiptune / 8-bit 音楽の現在地と未来" loading="lazy" decoding="async">
-          
-          <div class="column-card__body">
-            <p class="column-card__date">04 Dec 2025</p>
-            <h3 class="column-card__title">【コラム】 Chiptune / 8-bit 音楽の現在地と未来</h3>
-            <p class="column-card__excerpt">序章：8-bit音楽はなぜ現代に響くのか
-</p>
-          </div>
-        </a>
-      </article><article class="column-card" role="listitem">
-        <a class="column-card__link" href="/column-bill-laswell-deconstruction-of-the-80s/">
-          
-            <img class="column-card__img" src="/../assets/images/column-bill-laswell-deconstruction-of-the-80s.webp" alt="【コラム】 Bill Laswell & Friends: Deconstruction of the 80s - 音響解体者が再編した“混成する80年代”の核心" loading="lazy" decoding="async">
-          
-          <div class="column-card__body">
-            <p class="column-card__date">27 Nov 2025</p>
-            <h3 class="column-card__title">【コラム】 Bill Laswell & Friends: Deconstruction of the 80s - 音響解体者が再編した“混成する80年代”の核心</h3>
-            <p class="column-card__excerpt">なぜ「Deconstruction of the 80s」というタイトルを選んだのか
-</p>
-          </div>
-        </a>
-      </article></div>
-</section>
+<!-- 5. 全ページ -->
+<section class="all-pages" aria-label="全ページ">
+  <div class="all-pages__header">
+    <h2 class="all-pages__title">
+      
+        全ページ
+      
+    </h2>
+  </div>
 
-<div class="blog-grid-container"><!-- begin post -->
+  <div class="blog-grid-container"><!-- begin post -->
 
 
 <div class="blog-grid-item">
@@ -14276,14 +14265,181 @@
   </span>
 </div>
 
+</section>
 
 <hr>
 
 <link rel="alternate" hreflang="en" href="https://monumental-movement.jp/en/" />
 <link rel="alternate" hreflang="de" href="https://monumental-movement.jp/de/" />
+<link rel="alternate" hreflang="es" href="https://monumental-movement.jp/es/" />
+<link rel="alternate" hreflang="fr" href="https://monumental-movement.jp/fr/" />
 <link rel="alternate" hreflang="ja" href="https://monumental-movement.jp/" />
 <link rel="alternate" hreflang="ko" href="https://monumental-movement.jp/ko/" />
 <link rel="alternate" hreflang="zh-hant" href="https://monumental-movement.jp/zh-hant/" />
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const tabs = document.querySelectorAll(".new-arrivals__tab");
+    const panels = document.querySelectorAll(".new-arrivals__panel");
+    const columnSlider = document.querySelector(".column-slider");
+    const columnTrack = document.querySelector(".column-slider__track");
+    const columnButtons = document.querySelectorAll(".column-slider__btn");
+    const popularCarousel = document.querySelector(".popular-carousel");
+    const popularTrack = document.querySelector(".popular-carousel__track");
+    const popularButtons = document.querySelectorAll(".popular-carousel__btn");
+
+    // タブ切替機能
+    if (tabs.length && panels.length) {
+      tabs.forEach((tab) => {
+        tab.addEventListener("click", () => {
+          const targetId = tab.dataset.target;
+
+          tabs.forEach((t) => {
+            t.classList.toggle("is-active", t === tab);
+            t.setAttribute("aria-selected", t === tab ? "true" : "false");
+          });
+
+          panels.forEach((panel) => {
+            const isTarget = panel.id === targetId;
+            panel.classList.toggle("is-active", isTarget);
+            panel.setAttribute("aria-hidden", isTarget ? "false" : "true");
+          });
+        });
+      });
+    }
+
+    // コラムスライダー
+    if (columnSlider && columnTrack && columnButtons.length) {
+      columnButtons.forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const direction = btn.dataset.dir === "next" ? 1 : -1;
+          const scrollAmount = columnSlider.clientWidth * 0.8;
+          columnTrack.scrollBy({
+            left: scrollAmount * direction,
+            behavior: "smooth",
+          });
+        });
+      });
+    }
+
+    // 人気記事カルーセル
+    if (popularCarousel && popularTrack && popularButtons.length) {
+      popularButtons.forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const direction = btn.dataset.dir === "next" ? 1 : -1;
+          const scrollAmount = popularCarousel.clientWidth * 0.8;
+          popularTrack.scrollBy({
+            left: scrollAmount * direction,
+            behavior: "smooth",
+          });
+        });
+      });
+    }
+  });
+</script>
+
+<style>
+.youtube-podcast-banner {
+  margin: 2rem 0;
+  width: 100%;
+}
+
+.youtube-podcast-banner__container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.youtube-podcast-banner__link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  background: linear-gradient(135deg, #FF0000 0%, #CC0000 100%);
+  border-radius: 12px;
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.youtube-podcast-banner__link:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+}
+
+.youtube-podcast-banner__content {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 2rem;
+  color: white;
+}
+
+.youtube-podcast-banner__icon {
+  flex-shrink: 0;
+  width: 48px;
+  height: 48px;
+}
+
+.youtube-podcast-banner__text {
+  flex: 1;
+}
+
+.youtube-podcast-banner__title {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.youtube-podcast-banner__description {
+  margin: 0;
+  font-size: 0.95rem;
+  opacity: 0.95;
+  line-height: 1.5;
+}
+
+.youtube-podcast-banner__cta {
+  flex-shrink: 0;
+  font-weight: 600;
+  font-size: 1.1rem;
+  white-space: nowrap;
+}
+
+@media (max-width: 768px) {
+  .youtube-podcast-banner__content {
+    flex-direction: column;
+    text-align: center;
+    padding: 1.5rem;
+    gap: 1rem;
+  }
+
+  .youtube-podcast-banner__title {
+    font-size: 1.25rem;
+  }
+
+  .youtube-podcast-banner__description {
+    font-size: 0.9rem;
+  }
+
+  .youtube-podcast-banner__cta {
+    margin-top: 0.5rem;
+  }
+}
+
+.all-pages {
+  margin: 3rem 0;
+}
+
+.all-pages__header {
+  margin-bottom: 2rem;
+}
+
+.all-pages__title {
+  font-size: 1.75rem;
+  font-weight: 700;
+  margin: 0;
+}
+</style>
 
 <!-- Adsense (ページ下に1回だけ読み込み) -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
@@ -14297,6 +14453,7 @@
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
                 <!-- AdSense deferred loading -->
                 <script>
                     window.addEventListener('load', function() {
