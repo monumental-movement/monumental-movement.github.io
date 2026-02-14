@@ -15,7 +15,6 @@ permalink: /
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Monumental Movement Records" />
 
-
 <!-- Twitter / X -->
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="Monumental Movement Records" />
@@ -26,7 +25,7 @@ permalink: /
 <!-- YouTube Podcast バナー -->
 <section class="youtube-podcast-banner" aria-label="YouTube Podcast">
   <div class="youtube-podcast-banner__container">
-    <a href="https://youtube.com/@MonumentalMovementRecords" target="_blank" rel="noopener noreferrer" class="youtube-podcast-banner__link">
+    <a href="https://www.youtube.com/@MonumentalMovementRecords" target="_blank" rel="noopener noreferrer" class="youtube-podcast-banner__link">
       <div class="youtube-podcast-banner__content">
         <svg class="youtube-podcast-banner__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="48" height="48">
           <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
@@ -102,7 +101,11 @@ permalink: /
 <a href="/zh-hant/"> 繁體中文 (ZH-TW)</a>
 
 {%- assign current_lang = page.lang | default: "ja" -%}
-{%- assign posts_in_lang = site.posts | where: "lang", current_lang -%}
+{%- if current_lang == "ja" -%}
+  {%- assign posts_in_lang = site.posts | where_exp: "post", "post.lang == nil or post.lang == '' or post.lang == 'ja'" -%}
+{%- else -%}
+  {%- assign posts_in_lang = site.posts | where: "lang", current_lang -%}
+{%- endif -%}
 {%- assign new_arrival_categories = "Column|Vinyl|Cassette|CD" | split: "|" -%}
 {%- assign max_new_items = 8 -%}
 
@@ -250,7 +253,7 @@ permalink: /
 <!-- 3. タグスライダー -->
 {% include tags-slider.html %}
 
-{% assign random_posts = site.posts | sample: 5 %}
+{%- assign random_posts = posts_in_lang | sample: 5 -%}
 
 <!-- 4. よく見られているページ -->
 <section class="popular-carousel" aria-label="よく見られているページ">
