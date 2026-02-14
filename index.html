@@ -102,7 +102,12 @@ permalink: /
 
 {%- assign current_lang = page.lang | default: "ja" -%}
 {%- if current_lang == "ja" -%}
-  {%- assign posts_in_lang = site.posts | where_exp: "post", "post.lang == nil or post.lang == '' or post.lang == 'ja'" -%}
+  {%- assign posts_in_lang = "" | split: "" -%}
+  {%- for post in site.posts -%}
+    {%- unless post.lang -%}
+      {%- assign posts_in_lang = posts_in_lang | push: post -%}
+    {%- endunless -%}
+  {%- endfor -%}
 {%- else -%}
   {%- assign posts_in_lang = site.posts | where: "lang", current_lang -%}
 {%- endif -%}
