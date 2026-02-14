@@ -5,7 +5,7 @@ author: mmr
 categories: [ Column ]
 tags: [ Myspace, History, Social Media ]
 image: ../assets/images/column-myspace.webp
-date: 2026-02-13 00:00:01 +0900
+date: 2026-02-14 00:00:04 +0900
 ---
 
 

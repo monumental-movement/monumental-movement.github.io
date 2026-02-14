@@ -5,7 +5,7 @@ author: mmr
 categories: [ Column ]
 tags: [ K-pop, SNS ]
 image: ../assets/images/column-kpop-sns.webp
-date: 2026-02-12 00:00:00 +0900
+date: 2026-02-14 00:00:03 +0900
 ---
 
 

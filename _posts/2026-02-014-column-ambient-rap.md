@@ -5,7 +5,7 @@ author: mmr
 categories: [ Column ]
 tags: [ Ambient, Rap, Hiphop ]
 image: ../assets/images/column-ambient-rap.webp
-date: 2026-02-13 00:00:00 +0900
+date: 2026-02-14 00:00:01 +0900
 ---
 
 

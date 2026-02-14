@@ -5,7 +5,7 @@ author: mmr
 categories: [ Column ]
 tags: [ Histoy, Global, Internet ]
 image: ../assets/images/column-trends-internet-age.webp
-date: 2026-02-11 00:00:00 +0900
+date: 2026-02-14 00:00:00 +0900
 ---
 
 

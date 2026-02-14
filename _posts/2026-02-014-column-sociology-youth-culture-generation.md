@@ -5,7 +5,7 @@ author: mmr
 categories: [ Column ]
 tags: [ Sociology, Cculture, Generation ]
 image: ../assets/images/column-sociology-youth-culture-generation.webp
-date: 2026-02-12 00:00:01 +0900
+date: 2026-02-14 00:00:05 +0900
 ---
 
 
