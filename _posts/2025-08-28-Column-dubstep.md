@@ -109,3 +109,14 @@ image: ../assets/images/column-dubstep.webp
 ダブステップは単なる「ジャンル」を超えて、21世紀の都市文化を象徴するサウンドスケープとなった。
 
 クラブのサウンドシステムで体感する低音の震動は、聴覚を超えて身体と空間を揺さぶり、リスナー同士を結びつける。現在も進化を続けるダブステップは、今後も新しい世代にとって刺激的な音楽的探求の場であり続けるだろう。
+
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7ZdHzysA-g0?si=KNHLYPiuF8HQgKBm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
