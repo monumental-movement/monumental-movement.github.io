@@ -6,9 +6,47 @@ page_num: 1
 permalink: /en/
 ---
 
-<h1>Monumental Movement</h1>
+<!-- Open Graph / Facebook / Bluesky -->
+<meta property="og:title" content="Monumental Movement Records" />
+<meta property="og:description" content="Monumental Movement is a cultural platform exploring music culture and the ideas and histories behind it." />
+<meta property="og:image" content="https://monumental-movement.jp/assets/images/logo.jpg" />
+<meta property="og:url" content="https://monumental-movement.jp/en/" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Monumental Movement Records" />
+
+<!-- Twitter / X -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Monumental Movement Records" />
+<meta name="twitter:description" content="Used records, CDs, cassettes, books, and more" />
+<meta name="twitter:image" content="https://monumental-movement.jp/assets/images/logo.jpg" />
+<meta name="twitter:site" content="@mmrecords_japan" />
+
+<!-- YouTube Podcast バナー -->
+<section class="youtube-podcast-banner" aria-label="YouTube Podcast">
+  <div class="youtube-podcast-banner__container">
+    <a href="https://www.youtube.com/@MonumentalMovementRecords" target="_blank" rel="noopener noreferrer" class="youtube-podcast-banner__link">
+      <div class="youtube-podcast-banner__content">
+        <svg class="youtube-podcast-banner__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="48" height="48">
+          <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
+        </svg>
+        <div class="youtube-podcast-banner__text">
+          <h2 class="youtube-podcast-banner__title">
+            Listen to our Podcast on YouTube
+          </h2>
+          <p class="youtube-podcast-banner__description">
+            Deep dives into music culture, experimental sound, and underground movements
+          </p>
+        </div>
+        <span class="youtube-podcast-banner__cta">
+          Watch Now →
+        </span>
+      </div>
+    </a>
+  </div>
+</section>
+
 <p>Monumental Movement is a cultural platform exploring music culture and the ideas and histories behind it.
-Alongside its role as an archive-driven media outlet featuring columns and podcasts, it also introduces curated used records and various media.</p>
+In addition to functioning as an archive medium through columns and podcasts, we also present used records and various media formats.</p>
 
 <p>An independent archive exploring music culture, experimental sound, and underground movements.</p>
 
@@ -19,20 +57,327 @@ Alongside its role as an archive-driven media outlet featuring columns and podca
 <a href="/ko/"> 한국어 (KO)</a> |
 <a href="/zh-hant/"> 繁體中文 (ZH-TW)</a>
 
+{%- assign current_lang = page.lang | default: "en" -%}
+{%- assign new_arrival_categories = "Column|Vinyl|Cassette|CD" | split: "|" -%}
+{%- assign max_new_items = 8 -%}
+
+{%- comment -%}言語別に投稿を抽出{%- endcomment -%}
+{%- assign posts_in_lang = site.posts | where: "lang", current_lang | sort: "date" | reverse -%}
+
+<!-- 1. 新着セクション -->
+<section class="new-arrivals" aria-label="New arrivals">
+  <div class="new-arrivals__header">
+    <h2 class="new-arrivals__title">
+      New arrivals
+    </h2>
+  </div>
+
+  <div class="new-arrivals__tabs" role="tablist" aria-label="Switch by category">
+    {%- for cat in new_arrival_categories -%}
+      {%- assign tab_id = "new-arrivals-" | append: cat | downcase -%}
+      <button
+        class="new-arrivals__tab {% if forloop.first %}is-active{% endif %}"
+        type="button"
+        role="tab"
+        aria-selected="{% if forloop.first %}true{% else %}false{% endif %}"
+        aria-controls="{{ tab_id }}"
+        data-target="{{ tab_id }}">
+        {{ cat }}
+      </button>
+    {%- endfor -%}
+  </div>
+
+  <div class="new-arrivals__panels">
+    {%- for cat in new_arrival_categories -%}
+      {%- assign tab_id = "new-arrivals-" | append: cat | downcase -%}
+      {%- assign cat_posts = posts_in_lang | where_exp: "post", "post.categories contains cat" -%}
+      {%- assign cat_posts = cat_posts | slice: 0, max_new_items -%}
+      <div
+        id="{{ tab_id }}"
+        class="new-arrivals__panel {% if forloop.first %}is-active{% endif %}"
+        role="tabpanel"
+        aria-hidden="{% if forloop.first %}false{% else %}true{% endif %}">
+        <div class="blog-grid-container new-arrivals__grid">
+          {%- for post in cat_posts -%}
+            {%- include postbox.html -%}
+          {%- else -%}
+            <p class="new-arrivals__empty">
+              No posts yet.
+            </p>
+          {%- endfor -%}
+        </div>
+      </div>
+    {%- endfor -%}
+  </div>
+</section>
+
+{%- assign column_posts = posts_in_lang | where_exp: "post", "post.categories contains 'Column'" | sample: 12 -%}
+
+<!-- 2. おすすめコラムスライダー -->
+<section class="column-slider" aria-label="Recommended Columns">
+  <div class="column-slider__header">
+    <h2 class="column-slider__title">
+      Recommended Columns
+    </h2>
+    <div class="column-slider__controls">
+      <button class="column-slider__btn" type="button" data-dir="prev" aria-label="Previous">‹</button>
+      <button class="column-slider__btn" type="button" data-dir="next" aria-label="Next">›</button>
+    </div>
+  </div>
+
+  <div class="column-slider__track" role="list">
+    {%- for post in column_posts -%}
+      <article class="column-card" role="listitem">
+        <a class="column-card__link" href="{{ site.baseurl }}{{ post.url }}">
+          {% if post.image %}
+            <img class="column-card__img" src="{% if post.image contains '://' %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}" alt="{{ post.title }}" loading="lazy" decoding="async">
+          {% endif %}
+          <div class="column-card__body">
+            <p class="column-card__date">{{ post.date | date: "%Y-%m-%d" }}</p>
+            <h3 class="column-card__title">{{ post.title }}</h3>
+            <p class="column-card__excerpt">{{ post.excerpt | strip_html | truncatewords: 16 }}</p>
+          </div>
+        </a>
+      </article>
+    {%- else -%}
+      <p class="column-slider__empty">
+        No column posts yet.
+      </p>
+    {%- endfor -%}
+  </div>
+</section>
+
+<!-- 3. タグスライダー -->
 {% include tags-slider.html %}
 
-{% include home-loop.html %}
+{%- assign random_posts = posts_in_lang | sample: 5 -%}
+
+<!-- 4. よく見られているページ -->
+<section class="popular-carousel" aria-label="Popular Pages">
+  <div class="popular-carousel__header">
+    <h2 class="popular-carousel__title">
+      Popular Pages
+    </h2>
+    <div class="popular-carousel__controls">
+      <button class="popular-carousel__btn" type="button" data-dir="prev" aria-label="Previous">‹</button>
+      <button class="popular-carousel__btn" type="button" data-dir="next" aria-label="Next">›</button>
+    </div>
+  </div>
+
+  <div class="popular-carousel__track" role="list">
+    {% for post in random_posts %}
+      <article class="popular-card" role="listitem">
+        <a class="popular-card__link" href="{{ post.url }}">
+          {% if post.image %}
+            <img class="popular-card__img"
+                 src="{{ site.baseurl }}/{{ post.image }}"
+                 alt="{{ post.title }}"
+                 loading="lazy"
+                 decoding="async">
+          {% endif %}
+          <div class="popular-card__body">
+            <p class="popular-card__date">
+              {{ post.date | date: "%Y-%m-%d" }}
+            </p>
+            <h3 class="popular-card__title">
+              {{ post.title }}
+            </h3>
+            <p class="popular-card__excerpt">
+              {{ post.excerpt | strip_html | truncatewords: 16 }}
+            </p>
+          </div>
+        </a>
+      </article>
+    {% endfor %}
+  </div>
+</section>
+
+<!-- 5. 全ページ -->
+<section class="all-pages" aria-label="All Pages">
+  <div class="all-pages__header">
+    <h2 class="all-pages__title">
+      All Pages
+    </h2>
+  </div>
+
+  {% include home-loop.html %}
+</section>
 
 <hr>
 
-<link rel="alternate" hreflang="ja" href="https://monumental-movement.jp/" />
 <link rel="alternate" hreflang="en" href="https://monumental-movement.jp/en/" />
-<link rel="alternate" hreflang="es" href="https://monumental-movement.jp/es/" />
 <link rel="alternate" hreflang="de" href="https://monumental-movement.jp/de/" />
+<link rel="alternate" hreflang="es" href="https://monumental-movement.jp/es/" />
 <link rel="alternate" hreflang="fr" href="https://monumental-movement.jp/fr/" />
+<link rel="alternate" hreflang="ja" href="https://monumental-movement.jp/" />
 <link rel="alternate" hreflang="ko" href="https://monumental-movement.jp/ko/" />
 <link rel="alternate" hreflang="zh-hant" href="https://monumental-movement.jp/zh-hant/" />
-<!-- Adsense (bottom only) -->
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const tabs = document.querySelectorAll(".new-arrivals__tab");
+    const panels = document.querySelectorAll(".new-arrivals__panel");
+    const columnSlider = document.querySelector(".column-slider");
+    const columnTrack = document.querySelector(".column-slider__track");
+    const columnButtons = document.querySelectorAll(".column-slider__btn");
+    const popularCarousel = document.querySelector(".popular-carousel");
+    const popularTrack = document.querySelector(".popular-carousel__track");
+    const popularButtons = document.querySelectorAll(".popular-carousel__btn");
+
+    // タブ切替機能
+    if (tabs.length && panels.length) {
+      tabs.forEach((tab) => {
+        tab.addEventListener("click", () => {
+          const targetId = tab.dataset.target;
+
+          tabs.forEach((t) => {
+            t.classList.toggle("is-active", t === tab);
+            t.setAttribute("aria-selected", t === tab ? "true" : "false");
+          });
+
+          panels.forEach((panel) => {
+            const isTarget = panel.id === targetId;
+            panel.classList.toggle("is-active", isTarget);
+            panel.setAttribute("aria-hidden", isTarget ? "false" : "true");
+          });
+        });
+      });
+    }
+
+    // コラムスライダー
+    if (columnSlider && columnTrack && columnButtons.length) {
+      columnButtons.forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const direction = btn.dataset.dir === "next" ? 1 : -1;
+          const scrollAmount = columnSlider.clientWidth * 0.8;
+          columnTrack.scrollBy({
+            left: scrollAmount * direction,
+            behavior: "smooth",
+          });
+        });
+      });
+    }
+
+    // 人気記事カルーセル
+    if (popularCarousel && popularTrack && popularButtons.length) {
+      popularButtons.forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const direction = btn.dataset.dir === "next" ? 1 : -1;
+          const scrollAmount = popularCarousel.clientWidth * 0.8;
+          popularTrack.scrollBy({
+            left: scrollAmount * direction,
+            behavior: "smooth",
+          });
+        });
+      });
+    }
+  });
+</script>
+
+<style>
+.youtube-podcast-banner {
+  margin: 2rem 0;
+  width: 100%;
+}
+
+.youtube-podcast-banner__container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.youtube-podcast-banner__link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  background: linear-gradient(135deg, #FF0000 0%, #CC0000 100%);
+  border-radius: 12px;
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.youtube-podcast-banner__link:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+}
+
+.youtube-podcast-banner__content {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 2rem;
+  color: white;
+}
+
+.youtube-podcast-banner__icon {
+  flex-shrink: 0;
+  width: 48px;
+  height: 48px;
+}
+
+.youtube-podcast-banner__text {
+  flex: 1;
+}
+
+.youtube-podcast-banner__title {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.youtube-podcast-banner__description {
+  margin: 0;
+  font-size: 0.95rem;
+  opacity: 0.95;
+  line-height: 1.5;
+}
+
+.youtube-podcast-banner__cta {
+  flex-shrink: 0;
+  font-weight: 600;
+  font-size: 1.1rem;
+  white-space: nowrap;
+}
+
+@media (max-width: 768px) {
+  .youtube-podcast-banner__content {
+    flex-direction: column;
+    text-align: center;
+    padding: 1.5rem;
+    gap: 1rem;
+  }
+
+  .youtube-podcast-banner__title {
+    font-size: 1.25rem;
+  }
+
+  .youtube-podcast-banner__description {
+    font-size: 0.9rem;
+  }
+
+  .youtube-podcast-banner__cta {
+    margin-top: 0.5rem;
+  }
+}
+
+.all-pages {
+  margin: 3rem 0;
+}
+
+.all-pages__header {
+  margin-bottom: 2rem;
+}
+
+.all-pages__title {
+  font-size: 1.75rem;
+  font-weight: 700;
+  margin: 0;
+}
+</style>
+
+<!-- Adsense (ページ下に1回だけ読み込み) -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

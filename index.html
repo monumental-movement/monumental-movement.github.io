@@ -109,10 +109,10 @@ permalink: /
   {%- comment -%}日本語ページ: langが未設定またはjaの投稿を抽出{%- endcomment -%}
   {%- assign posts_no_lang = site.posts | where_exp: "item", "item.lang == blank" -%}
   {%- assign posts_ja = site.posts | where: "lang", "ja" -%}
-  {%- assign posts_in_lang = posts_no_lang | concat: posts_ja -%}
+  {%- assign posts_in_lang = posts_no_lang | concat: posts_ja | sort: "date" | reverse -%}
 {%- else -%}
   {%- comment -%}他言語ページ: 指定言語の投稿を抽出{%- endcomment -%}
-  {%- assign posts_in_lang = site.posts | where: "lang", current_lang -%}
+  {%- assign posts_in_lang = site.posts | where: "lang", current_lang | sort: "date" | reverse -%}
 {%- endif -%}
 
 <!-- 1. 新着セクション -->
@@ -156,7 +156,7 @@ permalink: /
     {%- for cat in new_arrival_categories -%}
       {%- assign tab_id = "new-arrivals-" | append: cat | downcase -%}
       {%- assign cat_posts = posts_in_lang | where_exp: "post", "post.categories contains cat" -%}
-      {%- assign cat_posts = cat_posts | sort: "date" | reverse | slice: 0, max_new_items -%}
+      {%- assign cat_posts = cat_posts | slice: 0, max_new_items -%}
       <div
         id="{{ tab_id }}"
         class="new-arrivals__panel {% if forloop.first %}is-active{% endif %}"
