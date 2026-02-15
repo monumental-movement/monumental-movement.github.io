@@ -11,6 +11,7 @@ comments: false
 
 An audio archive exploring sound, ideology, and cultural movements.  
 All episodes are published in **English**.
+Subtitles and translation are available on YouTube for global listeners.
 
 ---
 
