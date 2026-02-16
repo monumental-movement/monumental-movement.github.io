@@ -213,3 +213,13 @@ Psy-Tranceはヒッピー文化とテクノロジーの交錯から生まれ、9
 
 **Psy-Tranceは単なる音楽ジャンルではなく「文化的・精神的運動」であり続けるでしょう。**  
 その歴史をたどることは、単なる音の記録ではなく、人類の「意識拡張の旅」の一部を共有することなのです。
+
+---
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GI3aHA-weQs?si=aikBPd66aE2W9AFj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
