@@ -91,3 +91,14 @@ image: ../assets/images/column-new-age.webp
 現代においては、アンビエントやチルアウトといったジャンルに再吸収されつつも、その理念――自然との調和、内省、そして癒し――はむしろ切実さを増している。
 
 ニューエイジは過去の一過性のブームではなく、今も静かに、しかし確実に人々の生活に寄り添い続ける音楽文化である。
+
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/APnXan4Anf8?si=r8eC5X9i9XtZ0NXB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
