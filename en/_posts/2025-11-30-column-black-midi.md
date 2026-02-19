@@ -97,7 +97,7 @@ In this way, during their debut period, Black Midi attracted intense attention f
 - However, at the same time, there are also persistent complaints that ""the structure is too complex and the entrance is narrow", ""you have to listen to it more than the initial impact", and ""it"s a work that people either like or hate", and some say that Black Midi"s songs are difficult to say ""for everyone".
 In other words, Black Midi's period of growth was a period in which it expanded its techniques, composition, and musicality, and its radicalness and sophistication pushed the boundaries of music that could easily be divided into pros and cons and that could be chosen by the listener.
 
-### 3-3. The value of live performance and "performance/improvisation" — Live albums and re-evaluation
+### 3-3. The value of live performances and "performance/improvisation" — Live albums and re-evaluation
 
 - The live album *Live Fire* released in 2022 captures Black Midi's appearance as a "live band" in a different form from the studio recording. Many of the songs have been reconstructed, and the improvisation, changes, and passion of the performance are realistically conveyed. Their approach of "recording + live reinterpretation" was seen as a demonstration of their versatility and flexibility.
 
@@ -137,7 +137,7 @@ Bands like Black Midi aren't always popular with everyone because of their exper
 
 - For listeners who seek "improvisational chaos/live-like intensity," studio construction can sometimes feel like a "lack of a live feel" or "excessive production." In fact, as the band evolved, there were also mixed reviews.
 
--Also, because it is extremely technical, it is well received by "intelligent people" who value performance and compositional beauty, but it is difficult for those who seek sentimentality, emotional movement, catchy melodies, and familiarity. In particular, the lyrics, singing, and song's ""excessiveness" and ""distorted structure" tend to be divided into ""like/dislike'' opinions.
+-Also, because it is extremely technical, it is well received by "intelligent people" who value performance and compositional beauty, but it is difficult for those who seek sentimentality, emotional movement, catchy melodies, and familiarity. In particular, the lyrics, singing, and song's ""excessiveness" and ""distorted structure" tend to be split into ""like/dislike'' opinions.
 
 Still, the value of Black Midi lies in the following points.
 

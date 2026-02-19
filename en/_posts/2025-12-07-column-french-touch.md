@@ -205,7 +205,7 @@ This "ambiguity" was very important to French Touch.
 - Crushed loops due to compressor
 - Coarse sampling rate of MPC/SP-1200
 
-These qualities have been passed down to Nu Disco's texture.
+These qualities have been passed down to the texture of Nu Disco.
 
 ---
 
@@ -238,7 +238,7 @@ flowchart TD
     A2001["2001\nDaft Punk"s "Discovery' announced"]
     A2004["2004–2008\nRe-evaluation of Italo Disco\nNu Disco sprouts in Northern Europe"]
     A2010["2010\nTodd Terje・Lindstrøm International Evaluation"]
-    A2012["2012\nBreakbot "By Your Side""]
+    A2012["2012\nBreakbot ""By Your Side''"]
     A2020["2020s\nAnalog/record re-boom\nFrench Touch re-evaluation"]
 
     A1995 --> A1998 --> A1999 --> A2001 --> A2004 --> A2010 --> A2012 --> A2020

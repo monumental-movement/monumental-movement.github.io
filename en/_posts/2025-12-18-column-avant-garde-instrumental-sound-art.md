@@ -100,7 +100,7 @@ Lucier's work relies heavily on spatial dimensions, materials, and reflective pr
 
 ### 4-2 Spectator position
 
-The position and movement of the audience is a factor that changes the acoustic experience. The work is not intended to be listened to from a fixed point.
+The audience's standing position and movement are factors that change the acoustic experience. The work is not intended to be listened to from a fixed point.
 
 ---
 

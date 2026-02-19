@@ -112,7 +112,7 @@ The focus was on young Norwegian underground musicians.
 * Establishing lo-fi recording as "aesthetics"
 *Tremolo riff
 * Scream Vo
-* Expression of "Ice Wasteland" through repetition and speed
+* Expression of "ice wasteland" through repetition and speed
 * Corpse Paint
 * Natural view of winter, forest, and solitude
 
@@ -152,7 +152,7 @@ Since 1998, internationalization and diversification have progressed rapidly.
 * Fusion with folk music
 
 Black metal is said to be a "diversification of ideas, music, and cultural areas."
-Move to a new phase.
+Shift to a new phase.
 
 ---
 

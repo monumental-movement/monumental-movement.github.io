@@ -20,7 +20,7 @@ Text: mmr | Theme: Tracy Chapman is a rare artist who has continued to sing abou
 
 
 ""Speaking for the voiceless"' - this is probably one of the most appropriate words to describe Tracy Chapman"s music and life.
-Since her debut in 1988, she has avoided flashy productions and over-the-top production, and has continued to depict society with acoustic tones and a quiet speaking voice, and her journey slowly stirs the soul of the listener.
+Since her debut in 1988, she has avoided flashy productions and over-the-top production, and has continued to depict society with acoustic tones and a quiet speaking voice, and her journey deeply stirs the soul of the listener.
 In this article, I would like to trace her upbringing, creative process, sound technology, important relationships, and intersection with the times, and decipher why her songs still resonate today.
 
 
@@ -116,7 +116,7 @@ However, this song contains the will to resist oppression, an eye toward social 
 
 ### ● Voices that resonate with character relationships
 Chapman"s musical worlds often depict other people"s perspectives and characters' stories.
-"Lyrics are not necessarily autobiographical; they are a mixture of influences, emotions, and other people's stories," she said.
+"Lyrics are not necessarily autobiographical; they are a mixture of influences, emotions, and other people's stories," she says.
 This way of speaking has an affinity with folk and blues traditions.
 
 She cites gospel, soul, and folk singers as her musical influences, and has a strong sense of forming a collective voice rather than an individual voice.
@@ -171,7 +171,7 @@ Additionally, our relationships with producers and engineers have matured, allow
 Chapman continued to release select releases into the 2000s.
 Although he has changed musicality and accompaniment style in 2000"s *Telling Stories*, 2002"s *Let It Rain*, 2005"s *Where You Live*, and 2008"s *Our Bright Future*, he has consistently maintained a sense of spontaneity and gentleness.
 
-For *Where You Live*, she was involved in the production and is said to have had an influence on the sound design.
+For *Where You Live*, she herself was involved in the production and is said to have had an influence on the sound design.
 Additionally, she rarely uses streaming, instead offering her works through CDs and vinyl. This is an expression of the company's stance of ""protecting the means by which artists can be fairly rewarded.'' :
 
 ---

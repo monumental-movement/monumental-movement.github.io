@@ -150,7 +150,7 @@ Her death sent a deep shock through the South African music world, with tributes
 
 * Early band albums
 *Black President
-* Now Is the Time
+*Now Is the Time
 *Paparazzi
 *Memeza
 * Nomakanjani

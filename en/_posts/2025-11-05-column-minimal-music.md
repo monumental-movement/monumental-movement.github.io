@@ -20,7 +20,7 @@ title: '[Column] Expanding trajectory of Minimal Music: Aesthetics of repetition
 
 Text: mmr｜Theme: "Aesthetics of Repetition and Change"—A cross-sectional interpretation of minimal music, the richest expression of music achieved through "scarcity," from classical to techno to contemporary Japan.
 
-A single sound rings out, then disappears silently.
+A single sound rings out and then disappears silently.
 The next sound appears again, at a slightly different angle.
 By the time that series takes shape, we are listening not to the music's "story" but to its "existence itself."
 --That was the beginning of minimal music.

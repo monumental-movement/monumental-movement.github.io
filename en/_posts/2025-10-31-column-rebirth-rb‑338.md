@@ -21,7 +21,7 @@ Text: mmr｜Theme: Re-thinking ReBirth not only as ""innovation as a tool" but a
 
 In the late 1990s, a bright change was coming to the frontier of electronic music production. While analog/equipment-based production using hardware synthesizers and drum machines was the norm, one piece of software shook up that ""normal''. That is the ReBirthRB‑338 by Propellerhead Software, a software/music production tool manufacturer from Sweden.
 What this software offered was the possibility of ""making those legendary equipment (Roland TB‑303, Roland TR‑808, Roland TR‑909) usable on your personal computer.''
-ReBirth bypassed the hurdles of obtaining hardware, the cost of maintaining it, and the difficulty of transporting and operating it, and introduced a new wave of ""democratization through software," which is why it was an event that could be called a ""shock".
+ハードウェアを手に入れるハードル、維持するコスト、持ち運び・操作の難しさ──これらを回避して、「ソフトウェア化による民主化」の風を吹き込んだのがReBirthであり、それゆえに“衝撃”とも呼びうる出来事だったのです。
 
 
 ---
@@ -43,7 +43,7 @@ color: #fff;
 ## Prehistory: Context of the analog equipment/hardware synth era
 Looking back at the electronic music/club music scene, from the 1980s to the mid-1990s, many famous instruments occupied important positions as "equipment." Among them, the Roland TB-303 (bassline synth) and TR-808/TR-909 (drum machines) were the catalysts that changed the tone, performance style, and culture.
 
-### Birth of TB‑303 and "acid"
+### TB‑303と“アシッド”の誕生  
 The TB‑303 was a bass line synthesizer released around 1981. Although it was originally designed as a ""equipment to imitate bass playing,'' it failed to fulfill its purpose in the early years and was a failure in the market, and it began to be distributed second-hand at a low price.
 However, in the late 1980s, in the context of club house/acid house, the TB-303's "distorted filter" and "grilling bassline" tones were rediscovered, and became the signature sound of acid house, as exemplified by Acid Tracks (Phuture).
 
@@ -102,7 +102,7 @@ In this way, ReBirth was not only a technological innovation, but also a tool th
 ReBirth's impact goes beyond just being a software synthesizer. Rather, what is important is that it restructured the "possibilities of access and expression" in the cultural fields of electronic music, clubs, techno, and DIY production.
 
 ### Acid techno again: popularizing the TB‑303 sound
-The TB-303's tone was a symbolic element of the acid house/acid techno genre, but by the mid-1990s, the equipment had become rarer and the sound had become more maniacal. Then, a software called ReBirth realized a ""TB-303-like bass line + TR-808/909-like drums" on the software, opening the door for ""acid/techno music to be made without the need to own any equipment."
+The TB-303's tone was a symbolic element of the acid house/acid techno genre, but by the mid-1990s, the equipment had become rarer and the sound had become more "maniacal." Then, a software called ReBirth realized a ""TB-303-like bass line + TR-808/909-like drums" on the software, opening the door for ""acid/techno music to be made without the need to own any equipment."
 
 This challenged the preconceived notion that "hardware ownership = production style" and served as an opportunity to expand the creator base.
 
@@ -111,12 +111,12 @@ ReBirth has become an "entrance" for creators/producers who don't have the equip
 Furthermore, activities such as user modification (mods), pattern exchange, and community sharing have flourished, and a culture of not only ""using tools" but also ""modifying and sharing tools/tones" has developed. This DIY spirit has enriched the creative ecosystem of electronic music.
 
 ### Diversification of music genres/sound design
-ReBirth has made it easier to access the standard sound of ""acid bass + techno drums", which has lowered the ""equipment barrier" not only in acid house techno but in electronic music as a whole. As a result, TB-303/TR-808-like tones spread into genres such as trance, drum & bass, and breakbeat, contributing to the diversification of sound design.
+ReBirth has made it easier to access the standard sound of ""acid bass + techno drums," which has lowered the ""equipment barrier" not only in acid house techno, but in electronic music as a whole. As a result, TB-303/TR-808-like tones spread into genres such as trance, drum & bass, and breakbeat, contributing to the diversification of sound design.
 In this way, ReBirth brought about changes in the production scene through the three keys of "tone, operability, and price."
 
 ---
 
-## Changes in industry/software/ecosystem (ReWire/VST/pluginization)
+## Changes in industry, software, and ecosystems (ReWire, VST, plug-ins)
 The introduction of ReBirth was not just the success of a single software synthesizer, but also prompted a structural change in the music production environment itself.
 
 ### "Modularization" and coordination of production tools
@@ -150,9 +150,9 @@ After ReBirth's support ended, its ideas and functionality were inherited by oth
 On the other hand, several years after the mobile version was released, it was also removed from the App Store due to IP rights/trademark issues. This incident once again demonstrated that software-based equipment touches the "boundary of intellectual property."
 
 ### "The End" and its reading
-Although the ReBirth software did not continue to expand in its current form, its "death" itself has multiple layers of meaning.
+Although the software called ReBirth did not continue to be expanded in active use, its "death" itself has multiple layers of meaning.
 - One reason is that the trend from equipment to software has reached a certain level of maturity and has moved to the "next stage."
-- In addition, problems with intellectual property, emulation, ownership, and access have become more apparent than expected.
+- In addition, intellectual property, emulation, ownership and access issues have become more apparent than expected.
 - And as personal production/software-centered environments have become commonplace, the theme of "reproducing hardware equipment with software" has begun to be reconsidered.
 Therefore, it is meaningful to view the "end" of ReBirth not as simply the end of the service, but as a "point of change" in the production environment.
 

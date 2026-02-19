@@ -219,3 +219,13 @@ In the future, we can expect further developments that will transcend dimensions
 
 **Psy-Trance will continue to be a "cultural and spiritual movement," not just a musical genre. **
 Tracing this history is not just a record of sound, but a shared part of humanity's ""journey of consciousness expansion''.
+
+---
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GI3aHA-weQs?si=aikBPd66aE2W9AFj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

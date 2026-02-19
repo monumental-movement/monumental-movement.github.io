@@ -65,7 +65,7 @@ In the latter, the second half feels lighter and the loop gives the impression o
 
 ## Chapter 2: Grid and Human Feel Design
 
-An arrangement that perfectly follows the grid fixes time, but does not move it. This is where intentional deviations are introduced.
+Arrangements that follow the grid perfectly fix time, but do not move it. This is where intentional deviations are introduced.
 
 ### Case: Backbeat Snare Delay
 
@@ -111,7 +111,7 @@ Adding a snare roll only in the fourth measure creates a structural break.
 
 ---
 
-## Chapter 5: Tone selection and rhythm perception
+## 第5章：音色選択とリズム知覚
 
 Even if the arrangement is the same, if the timbre changes, the perception of rhythm will change.
 
@@ -165,7 +165,7 @@ By rearranging existing loops, you can redesign the structure while preserving t
 
 ### Case: Complete step reconstruction
 
-By arranging it from scratch, the time structure purely reflects the design philosophy.
+By arranging it from scratch, the time structure purely reflects the design concept.
 
 > The idea of ​​rhythm design changes depending on whether it is material-driven or structure-driven.
 

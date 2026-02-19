@@ -28,7 +28,7 @@ From the end of the 19th century to the beginning of the 20th century, Buenos Ai
 Centered around Spain and Italy, Eastern European, African, and indigenous cultures were mixed together, and work, poverty, and loneliness existed on a daily basis.
 
 Tango grew up on the "underside" of this city.
-It was danced not at the balls of high society, but in the courtyards of dockworkers' taverns, boarding houses, and brothels.
+It was performed not at the balls of high society, but in the courtyards of dockworkers' taverns, boarding houses, and brothels.
 Physical distance, line of sight, and improvisation were more important than musical sophistication.
 
 > Tango is a culture that has always started from the periphery, not the center of society.
@@ -100,7 +100,7 @@ Tango, which was once rejected, began to be reinterpreted as a ""national cultur
 
 ---
 
-## Golden Age and Popular Culture
+## Golden Age and popular culture
 
 
 From the 1930s to the 1950s, tango entered its "golden age."

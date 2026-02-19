@@ -49,7 +49,7 @@ color: #fff;
 
 Although it is difficult to pinpoint the direct origins of scat singing, its prehistory clearly exists. In musical cultures originating from Africa, the voice was not only a tool for communicating words, but also a physical act responsible for rhythm and pitch. The sense that meaningful language and meaningless vocalizations coexist in the same space was deeply rooted in call-and-response and ritual music.
 
-In the work songs and field horrors sung on plantations in the American South, elongated vowels and improvised screams formed the rhythm of labor. These vocalizations were more like movement than melodies, and the voice functioned as an extension of the body.
+アメリカ南部のプランテーションで歌われたワークソングやフィールド・ホラーでは、長く引き伸ばされた母音や、即興的に挿入される叫び声が労働のリズムを形成していた。 These vocalizations were more like movement than melodies, and the voice functioned as an extension of the body.
 
 In early 20th century vaudeville and music halls, it was common to sing with many meaningless syllables to attract the attention of the audience. Even in the early jazz vocal recordings that remain, the habit of breaking the endings of words and elongating syllables can be seen. These were the germs of the sensibility that would later become formalized as scat.
 
@@ -103,7 +103,7 @@ Using bebop idioms vocally was an act that presupposed an understanding of impro
 
 <div class="mermaid">
 flowchart LR
-    A[Bebop usage] --> B[fast tempo]
+    A[bebop usage] --> B[fast tempo]
     A --> C[complex harmony]
     B --> D[instrumental scat]
     C --> D

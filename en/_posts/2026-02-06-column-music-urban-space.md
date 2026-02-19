@@ -48,7 +48,7 @@ In the early 20th century, New Orleans was a port city where diverse cultures in
 
 ### New York and Tin Pan Alley
 
-In New York, music becomes organized as an industry with a concentration of composers and publishers. Broadway and the music score industry established a format for popular music that reflected the city's speed and commerciality.
+In New York, music becomes organized as an industry with a concentration of composers and publishers. Broadway and the music score industry defined the format of popular music, reflecting the city's speed and commerciality.
 
 > Modern cities had the power to push music from improvisation to industry.
 
@@ -187,7 +187,7 @@ Here, music defines the space first, followed by urban functions. Clubs were mor
 
 Detroit techno is an extension of the urban rhythms shaped by the automobile industry. Regular mechanical movements, wide roads, and the hollowing out that followed the population exodus fostered an inorganic and persistent sense of beat.
 
-Techno here became more than just entertainment, it became a device for abstracting the urban state. The sense of time possessed by a declining industrial city crystallized into music.
+Here, techno became more than just entertainment, it became a device for abstracting the urban state. The sense of time possessed by a declining industrial city crystallized into music.
 
 > Detroit's music preserves in sound the form of what the city has lost.
 

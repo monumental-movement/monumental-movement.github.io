@@ -97,7 +97,7 @@ On the other hand, excessive sophistication also invited criticism. It was point
 
 In the 1990s, hip-hop producers began applying the textures of nighttime R&B to their beat production. The slow tempo, long sustain, and subdued vocal phrases functioned as elements that filled the gaps in rap. It was often sampled, but what was important was its atmosphere.
 
-At the neo-soul production site, Quiet Storm's recording philosophy is more directly inherited. An attempt was made to preserve the atmosphere of a nighttime studio by recording the live performance in a format similar to a one-shot recording and minimizing editing. This was an attitude that resonated spiritually with late-night radio in the 1970s.
+At the neo-soul production site, Quiet Storm's recording philosophy is more directly inherited. An attempt was made to preserve the atmosphere of a night studio by recording the live performance in a format similar to a one-shot recording and minimizing editing. This was an attitude that resonated spiritually with late-night radio in the 1970s.
 
 > Quiet Storm was passed on to the next generation as a production philosophy.
 

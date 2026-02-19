@@ -195,7 +195,7 @@ Music is a medium that turns sadness into love.
 | Regeneration | Cingulate Cortex | Crescendo Structure | Dopamine Rise |
 
 
->"When you are sad, you listen to music not because you are afraid of silence.
+> "When you are sad, you listen to music not because you are afraid of silence.
 >To listen to the sound of your own heart in the depths of that silence. "
 
 ---
@@ -205,7 +205,7 @@ Music is a medium that turns sadness into love.
 | # | Title/Artist | Format/Features |Link |
 | - | ---------- | ---------- | ------------- |
 | 1 | *Sleep – Max Richter (2015) | Long, gentle ambient/chamber music. Perfect before bed or when relaxing. | [Amazon](https://amzn.to/3L4CW3k) |
-| 2 | *The Disintegration Loops – William Basinski (2002) | A meditative and purifying sound using the disintegration sound of tape loops. For situations of grief and emotional management.  | [Amazon](https://amzn.to/4qojJcZ) |
+| 2 | *The Disintegration Loops – William Basinski (2002) | A meditative and purifying sound using the disintegration sound of tape loops. For situations of grief and emotional processing.  | [Amazon](https://amzn.to/4qojJcZ) |
 | 3 | *Celestial Vibration – Laraaji (1978) | New Age sound using open string jitter/kalimba. Also used for meditation/yoga purposes. | [Amazon](https://amzn.to/3KWbWDh) |
 | 4 | *Therapy – Zoe Wees (2023) | A pop/R&B album with the theme of one's own anxiety and recovery. It is also noteworthy for its music therapy perspective, which involves sublimation of emotions and empathy.  | [Amazon](https://amzn.to/4owOvi9) |
 
@@ -248,7 +248,7 @@ flowchart TD
 
     A[personal experience of grief] --> B[Music selection (lyrics/melody)]
     B --> C[Self-projection: finding common emotions]
-    C --> D[Emotional resonance: Tears, relief, purification]
+    C --> D[Emotional resonance: tears, relief, purification]
     D --> E[Neural empathy: mirror neuron activation]
     E --> F[Emotional reintegration and recovery]
     F -->|silence of the heart| G[new self-understanding]

@@ -143,7 +143,7 @@ graph TD
 
 <div class="mermaid">
 flowchart TD
-    A[1970s Funk established] --> B[1980s Electro-Funk formation] --> C[1990s DAW popularization] --> D[2000s Modern Funk takes hold] --> E[2010s Derivative expansion] --> F[2020s Re-evaluation and reorganization]
+    A[1970s Funk established] --> B[1980s Electro-Funk formation] --> C[1990s DAW spread] --> D[2000s Modern Funk takes hold] --> E[2010s Derivative expansion] --> F[2020s Re-evaluation and reorganization]
 </div>
 
 

@@ -28,7 +28,7 @@ Text: mmr｜Theme: The aesthetics of German techno, woven by repetition and sile
 
 <hr>
 
-### Historical background: The fall of the Berlin Wall and the explosion of techno
+### Historical background: the fall of the Berlin Wall and the explosion of techno
 
 The fall of the Berlin Wall in 1989 was a turning point in the development of techno in Germany. With the fusion of Eastern and Western cultures, parties utilizing abandoned buildings and warehouses rapidly increased, and Berlin became a techno mecca symbolizing the "sound of freedom."
 

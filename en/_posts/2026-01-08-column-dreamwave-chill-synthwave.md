@@ -77,7 +77,7 @@ B --> C[Tone selection]
 C --> D[emotional listening]
 </div>
 
-> Visuals are not an aid, but are incorporated as part of music understanding.
+> Images are not an aid, but are incorporated as part of music understanding.
 
 ---
 
@@ -135,7 +135,7 @@ This can be achieved with either headphones or speakers, but since the expansion
 
 ## Summary: Meaning in modern times
 
-Dreamwave / Chill Synthwave is not an attempt to recreate past musical styles, but a cultural practice that reorganizes memory, emotion, and visual sensation. There, the 1980s is the material, not the purpose.
+Dreamwave/Chill Synthwave is not an attempt to recreate past musical styles, but a cultural practice that reorganizes memories, emotions, and visual sensations. There, the 1980s is the material, not the purpose.
 
 The reason this style is popular is that in today's information-rich society, there is a need for music that does not make excessive statements. Dreamwave/Chill Synthwave exists in response to that demand.
 

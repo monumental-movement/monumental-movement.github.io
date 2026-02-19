@@ -301,7 +301,7 @@ At the root of this is the most fundamental joy in electronic music: ""manipulat
 
 # Detailed equipment list (Modular Techno frequently used modules)
 
-Below is a list of equipment categories commonly used by actual Modular Techno artists, with a focus on Eurorack.
+The following is a compilation of equipment categories often used by actual Modular Techno artists, with a focus on Eurorack.
 
 ## VCO (Oscillator)
 - Make Noise – DPO

@@ -18,7 +18,7 @@ title: '[Column] Buchla and Serge: Another genealogy of electronic acoustics'
 ## "Introduction — What is modular?"
 
 
-Text: mmr | Theme: The spiritual history of West Coast modular synths. How Don Buchler and Serge Tocheny"s ideas have been carried over into today"s sound design
+Text: mmr | Theme: Spiritual history of West Coast modular synths. How Don Buchler and Serge Tocheny"s ideas have been carried over into today"s sound design
 
 Early 1970s, America's West Coast.
 There were people who left their university's electronic music studio and tried to take **a device for designing sound** back into their personal creative spaces.
@@ -69,7 +69,7 @@ Therefore, the performance becomes an improvisational "act" and the sound is flu
 flowchart LR
   subgraph Buchla_System["Buchla System 100/200 Conceptual Structure"]
     direction LR
-    CV["Voltage Source<br>(Control voltage)"] --> MOD["Modulation Bus<br>"]
+    CV["Voltage Source<br>(Control voltage)"] --> MOD["Modulation Bus<br>(Modulation path)"]
     MOD --> OSC["Complex Oscillator<br>"]
     OSC --> LPG["Low Pass Gate<br>(tone/volume linked)"]
     LPG --> OUT["Audio Out"]

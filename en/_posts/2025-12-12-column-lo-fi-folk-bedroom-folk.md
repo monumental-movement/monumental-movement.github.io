@@ -45,7 +45,7 @@ Consumer tape recorders became popular in the late 1970s, and with the advent of
 
 #### Main practices
 - Plug the dynamic microphone directly into the cassette deck
-- Recordings mixed with daily life sounds
+- Recordings containing daily life sounds
 - One-take recording with almost no mixdown
 - Sound creation that retains the natural echoes of the room
 
@@ -148,7 +148,7 @@ Although the sound quality was clearer than before, mixes that still had a "room
 In the 2020s, Lo-Fi Folk is moving towards a more static approach. With minimalist compositions, an emphasis on live recording, and a reduction in overt noise, Bedroom Folk is moving toward a stage where "life-sound realism" and "high-resolution intimacy" coexist.
 
 - Lower prices for high-quality condenser microphones
-- Improved DAW standard plug-ins
+- Improved DAW standard plugins
 - Simplify room tuning at home
 
 These factors are making modern home recording folk even more mature.

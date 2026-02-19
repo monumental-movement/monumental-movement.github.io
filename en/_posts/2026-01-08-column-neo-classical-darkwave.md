@@ -73,7 +73,7 @@ In this genre, in addition to major and minor keys, church modes such as Doric a
 
 ### Rhythm and tempo
 
-The tempo is mostly medium to low, and even if the rhythm is clear, the driving force is suppressed. The repetitive rhythm emphasizes the ritualistic nature and serves to obscure the sense of time.
+The tempo is mainly medium to low, and even if the rhythm is clear, the driving force is suppressed. The repetitive rhythm emphasizes the ritualistic nature and serves to obscure the sense of time.
 
 ### Organization
 

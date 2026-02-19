@@ -67,7 +67,7 @@ He rarely uses commercially available synthesizers, instead focusing on the foll
 - Voltage control circuit
 - Physical materials such as amplifiers, metal pieces, magnetic coils, etc.
 
-As a result, Pan Sonic's sound has a rawness that sounds like a recording of the exact moment an electronic component operates. The sound is harsh, the particles are large, and it is overwhelmingly physical.
+As a result, Pan Sonic's sound has a rawness that sounds like a recording of the exact moment an electronic component operates. The sound is harsh, the particles are large, and it feels overwhelmingly physical.
 
 ## 2-2. Minimal structure
 Although the sonic material is extremely simple, the song has a detailed structure.
@@ -75,7 +75,7 @@ Although the sonic material is extremely simple, the song has a detailed structu
 - repeating pulses
 - Finely fluctuating frequency
 - Extremely limited number of notes
-- Low frequency fluctuations varying by a few Hz
+- Low frequency oscillations that vary by a few Hz.
 
 The combination of these creates ""electronic music that is not artificial, but rather feels like a natural phenomenon.''**
 
@@ -137,7 +137,7 @@ Its **purity of repetition** marked a new path for club music.
 They have often collaborated with Japanese noise artists (especially Merzbow, etc.), and they have enhanced each other's experimentalism.
 
 ### 5-3. Contemporary acoustics/sound art
-This approach of treating electronic sound as a "phenomenon" was inherited by later electronic sound artists.
+The approach of treating electronic sound as a "phenomenon" was inherited by later electronic sound artists.
 
 ### 5-4. Mika Vainio's solo activities
 Mika Vainio has released numerous works under the solo name Ø (Zero). He shared the same attitude as Pan Sonic in exploring the smallest unit of electronic sound.

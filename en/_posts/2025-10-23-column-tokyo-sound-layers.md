@@ -90,7 +90,7 @@ The lineage of electronic sounds built by YMO in the 1980s evolved once again in
 Game music, vocaloids, chip tunes, anime song remixes.
 Although it is a melting pot of subculture, it has formed a new context that connects to the world's electronic scene.
 
-### 2. The sound of Akihabara is "augmented reality"
+### 2. The sounds of Akihabara are "augmented reality"
 A city where "music" and "technology" are fused. Live streaming, VTuber, AI music.
 Akihabara is a ""futuristic pop testing ground,'' and is evolving on a different timeline than other areas of Tokyo.
 

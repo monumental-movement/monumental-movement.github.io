@@ -194,7 +194,7 @@ OOIOO is a project started by **Yoshimi P-We** in the late 1990s, and although i
 flowchart TD
     A["Ethnic rhythm"] --> X["OOIOO"]
     B["Polyrhythm"] --> X
-    C["Environmental Sound Research"] --> X
+    C["Environmental sound research"] --> X
     D["Building a female ensemble"] --> X
 </div>
 

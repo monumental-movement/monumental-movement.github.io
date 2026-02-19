@@ -91,7 +91,7 @@ It can be said that this was the era when Toop's style, which combines criticism
 
 ""Ocean of Sound," known for its metaphor of ""sea of ​​sound," contained insights that anticipated the spread of streaming.
 The text, which is a fusion of essays, criticism, and literature, goes beyond the framework of a music book and functions as ""aural literature.''
-His own ambient works also presented a world of soft and diffused sounds.
+His ambient works also presented a world of soft and diffused sounds.
 
 | Year | Featured sound sources/artists | Commentary |
 |------|----------------|------|
@@ -116,7 +116,7 @@ Through themes such as memory, silence, and blank space, he reconsiders the sens
 
 ---
 
-### Conclusion - Genreless Practitioner
+### Conclusion - Genreless Practitioners
 
 David Toop's trajectory is a half-century-long exploration of how to listen to music.
 Jazz, hip-hop, ambient, sound art - he doesn't fit into any of them, but rather continues to expand the ""possibilities of sound itself'' by transcending these boundaries.

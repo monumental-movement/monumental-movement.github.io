@@ -46,7 +46,7 @@ Hawtin was influenced by the **spirit that resides in the mechanical rhythms** o
 ---
 
 ## Chapter 2: The Birth of Plastikman - Acid Remnants and Techno Introspection
-In 1993, "_Sheet One_" was released. The traditional TB-303 sound of acid house has been bleached to the limit, creating an acoustic space that sounds like **heartbeat and nerve signals**. Rather, the silence that drifts between the sounds can be heard as the main character.
+In 1993, "_Sheet One_" was released. The traditional TB-303 sound of acid house has been bleached to the extreme, creating an acoustic space that sounds like **heartbeats and nerve signals**. Rather, the silence that drifts between the sounds can be heard as the main character.
 
 Then, in 1994, the album [""_Musik_"'] was released from the label NovaMute (https://monumental-movement.jp/Plastikman-Musik). This is Richie Hawtin"s third studio album and second under his Plastikman name.
 
@@ -110,7 +110,7 @@ His minimalism evolved, completely dissolving the boundaries between music and a
 Plastikman"s genes permeate Villalobos, Donato Dozzy, Cio D"Or, and the modern modular scene.
 ""Pleasure of structure," ""introspection of sound," and ""temporization of space'' -- these elements now form the basis of techno.
 
-In particular, "Consumed in Key" (2022, collaboration: Chilly Gonzales) broke new ground in **a dialogue between piano and minimalism**. It was the moment when Plastikman once again stroked the "line between humanity and inorganicity."
+In particular, "Consumed in Key" (2022, collaboration: Chilly Gonzales) broke new ground as a dialogue between piano and minimalism. It was the moment when Plastikman once again stroked the "line between humanity and inorganicity."
 
 ---
 
@@ -133,7 +133,7 @@ By splitting each track into tiny samples and rearranging the minimal pulses, we
 - Real-time processing using **Ableton Live/Traktor**
 - Instant reflection of effect operations via MIDI control
 - The concept of "editing = playing" in sample units
-As a result, the DJ's physical manipulation has changed to the act of playing acoustic material rather than playing the music itself.
+As a result, the DJ's physical manipulation changed to the act of playing acoustic material rather than playing the music itself.
 
 ### 3. Musical significance
 The DE9 series is not just a mix CD, but also functions as a recording of a live performance = new song.
@@ -241,7 +241,7 @@ graph TD
 ---
 
 
-## Illustration: Structure of Plastikman sound
+## Illustration: Plastikman sound structure
 
 <div class="mermaid">
 
@@ -294,7 +294,7 @@ This is because he knows better than anyone that just one rotation can change th
 | ---- | ------------- | --------------------------- | ----------------------- |
 | 1994 | Plastikman | **Musik** EP | The pinnacle of Acid Techno under the name Plastikman. |
 | 1998 | Plastikman | **Minus** EP | The first installment of Minus. Extreme minimal sound. |
-| 1999 | Magda | **Track 1** | Dark minimalist test piece.             |
+| 1999 | Magda | **Track 1** | A dark minimalist test piece.             |
 | 2000 | Richie Hawtin | **EX/EP** | Live remix before DE9.         |
 | 2001 | Plastikman | **DE9: Closer to the Edit** | Digital DJ revolution.               |
 | 2003 | Villalobos | **Allez-Allez** | Early Berlin influence from Minus.       |

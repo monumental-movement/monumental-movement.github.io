@@ -10,8 +10,8 @@ tags:
 - Mythology
 - Folklore
 - Dark Folk
-title: '[Column] The dark mythical nature of Nordic folk: memories of the north shared
-  by songs and myths'
+title: '[Column] The dark mythical nature of Scandinavian folk: memories of the north
+  shared by songs and myths'
 ---
 
 
@@ -74,7 +74,7 @@ Folk song lyrics repeatedly tell stories of encounters with these beings resulti
 ## Violence and death in ballads
 
 
-Many of the ballads that have been sung throughout Scandinavia since the Middle Ages are extremely violent in the modern sense. Murders between siblings, betrayal by lovers, infanticide by mothers, and dead people returning as ghosts are all told in a matter-of-fact manner.
+Many of the ballads that have been sung throughout Scandinavia since the Middle Ages are extremely violent in modern terms. Murders between siblings, betrayal by lovers, infanticide by mothers, and dead people returning as ghosts are all told in a matter-of-fact manner.
 
 These ballads often proceed like a list of facts, without emotional excitement. The melody is also restrained, with a structure that leaves interpretation to the listener.
 

@@ -154,7 +154,7 @@ Particularly in the United States, bands' musicality has become more sophisticat
 On the other hand, in Europe and Japan, styles that emphasize lyricism and technique have developed, and hard rock continues to symbolize the ""outlaw spirit that changes with the times.''
 
 | Artist | Album | Release year | Features |
-|-------------|----------|---------|------|
+|--------------|----------|---------|------|
 | Guns N" Roses | Use Your Illusion I & II | 1991 | A masterpiece that combines hard rock and balladry |
 | Metallica | Black Album | 1991 | "Enter Sandman" breaks the boundary between metal and rock |
 | Foo Fighters | The Color and the Shape | 1997 | New generation rock anthem after grunge |
@@ -167,7 +167,7 @@ On the other hand, in Europe and Japan, styles that emphasize lyricism and techn
 ## Representative album list
 
 | Artist | Album | Release year | Features |
-|-------------|----------|---------|------|
+|--------------|----------|---------|------|
 | Led Zeppelin | Led Zeppelin IV | 1971 | Includes "Stairway to Heaven," Mythical Being |
 | AC/DC | Back in Black | 1980 | Immortal hard rock anthem with worldwide sales |
 | Deep Purple | Machine Head | 1972 | "Smoke on the Water" establishes a classic riff |

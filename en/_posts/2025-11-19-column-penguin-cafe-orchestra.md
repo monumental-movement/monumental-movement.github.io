@@ -95,7 +95,7 @@ This chapter analyzes the internal structure of PCO's iconic songs.
 ### 3-1. **Music For a Found Harmonium (1984)**
 
 PCO's signature song.
-An iconic anecdote is that he composed music while playing on a broken harmonium he found on the streets of Kyoto.
+An iconic anecdote is that he composed music by playing on a broken harmonium he found on the streets of Kyoto.
 
 **Structural features**
 
@@ -126,7 +126,7 @@ It's a quiet yet dramatic song that feels like the expansion and contraction of 
 
 ### 3-3. **Telephone and Rubber Band (1981)**
 
-A strange piece of music in which a two-tone telephone suddenly rings out over a classical ensemble.
+A strange piece of music in which a two-tone telephone suddenly rings in a classical ensemble.
 
 **Features**
 

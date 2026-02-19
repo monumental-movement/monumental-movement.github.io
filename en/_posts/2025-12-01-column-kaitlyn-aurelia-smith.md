@@ -171,7 +171,7 @@ In this way, her sound has not evolved in a linear manner, but has continued to 
 
 ## Closing — A message to those who love Buchla
 
-Kaitlyn Aurelia Smith's journey has never been a technical experiment or a show-off of skill. Her goal is to create a rich and poetic ""world of sensations" that interweaves ""the body, nature, electricity, time, and space" through the ""technical device'' of a modular synth.
+Kaitlyn Aurelia Smith's journey has never been a technical experiment or a show-off of skills. Her goal is to create a rich and poetic ""world of sensations" that interweaves ""the body, nature, electricity, time, and space" through the ""technical device'' of a modular synth.
 
 If you love Buchla and modular synths not just as equipment, but as ""living sound vessels," ""vibrating bodies," and ""a mixture of chance and necessity,'' her work will serve as a guidepost for your exploration.
 

@@ -55,7 +55,7 @@ From the late 1970s to the 1980s, people around industrial music experimented wi
 * Frequency design with discomfort in mind
 * Refusal to repeat or expand
 
-These attempts resulted in ""music that cannot be heard,'' and laid the groundwork for the immersive sound that later Dark Ambient aimed for.
+These attempts resulted in ""music that cannot be heard,'' and laid the groundwork for the immersive sound that later Dark Ambient aspired to.
 
 ---
 
@@ -150,7 +150,7 @@ Avoid extreme localization changes and maintain a centrally focused sound image.
 graph TD
 A[Dark Ambient] --> B[Space priority]
 A --> C[abstract structure]
-D[Ritual Ambient] --> E[progress design]
+D[Ritual Ambient] --> E[progression design]
 D --> F[ritual reference]
 B --> G[low frequency]
 E --> G

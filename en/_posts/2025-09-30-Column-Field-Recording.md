@@ -42,7 +42,7 @@ color: #fff;
 <div class="mermaid">
 flowchart TD
   A["1920s-1950s"] --> B["The Age of Folk Collecting (Lomax et al.)"]
-  B --> C["1960s-1970s: Evolution of portable equipment"]
+  B --> C["1960s-1970s: Evolution of portable devices"]
   C --> D["1980s-1990s: Increase in ambient/field adoption (Eno etc.)"]
   D --> E["2000s-Present: Digitization and the spread of 32-bit float machines"]
 </div>
@@ -109,7 +109,7 @@ On-site recording is the trinity of "microphone + recorder + power supply". Here
 
 #### Toshiya Tsunoda
 
-- Understanding the existence of sound as "spatial resonance".
+- Apprehend the existence of sound as "spatial resonance."
 
 - Example: A microphone is installed in a cavity under the asphalt of a road to record minute vibrations.
 
@@ -227,6 +227,16 @@ Field recording is not just a technique, but an act of creating a "sonic memory.
 
 
 ---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7ntOEubh9a0?si=dWIBnh3D5-JVtJmH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 ### Related columns
 

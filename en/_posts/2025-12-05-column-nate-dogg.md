@@ -69,7 +69,7 @@ That is **213 (two one three)**.
 The name is derived from Long Beach's area code, 213, and clearly stamps their local identity.
 
 Local tapes from the time already showed that Nate Dogg's singing voice stood out from the rappers around him.
-His voice had a street vibe, and by singing the melody, he gave the entire song a pleasant floating feeling.
+His voice had the air of the street, and by singing the melody, he gave the entire song a pleasant floating feeling.
 This style would later become the core of guest performance culture.
 
 ---

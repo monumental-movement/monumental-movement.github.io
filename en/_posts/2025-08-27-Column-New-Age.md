@@ -52,7 +52,7 @@ After the 2000s: There was a time when it was looked down upon as "spiritual bac
 
 - **Brian Eno**: "Ambient 1: Music for Airports" - Connecting the origins of New Age and Ambient.
 
-- **Kitaro**: A magnificent soundscape that makes full use of synthesizers. Known worldwide for NHK's ""Silk Road.''
+- **Kitaro**: A magnificent soundscape that makes full use of synthesizers. Known worldwide for NHK's ""Silk Road''.
 
 - **George Winston**: A tranquil sound world of solo piano. Works with a seasonal feel, such as "December."
 
@@ -96,3 +96,14 @@ New Age music was often described as ""background music", to put it bluntly. How
 In modern times, it has been reabsorbed into genres such as ambient and chillout, but its ideals - harmony with nature, introspection, and healing - have become even more urgent.
 
 New Age is not a passing fad of the past, but a music culture that continues to quietly but surely play a role in people's lives.
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/APnXan4Anf8?si=r8eC5X9i9XtZ0NXB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

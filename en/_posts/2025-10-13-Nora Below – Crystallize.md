@@ -14,7 +14,7 @@ title: Nora Below – Crystallize...
 ---
 
 
-Nora Below is a Berlin-based artist who releases electronic/electro/industrial/new wave-based vocal-centered electro music.
+Nora Below is a Berlin-based artist who releases vocal-centered electronic works based on electronic/electro/industrial/new wave.
 
 "Crystallize..." is an Abstract/Experimental/Tech House song released by German electro/techno label BPitch in 2002.
 

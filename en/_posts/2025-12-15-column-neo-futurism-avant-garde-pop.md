@@ -19,7 +19,7 @@ title: '[Column] Neo-Futurism / Avant-Garde Pop'
 
 Text: mmr｜Theme: Organized as an intersection of music history, art history, and technology history, and about actual artists' achievements and work trends
 
-Neo-futurism/avant-garde pop is a trend that has established experimental sound structures, physicality, and future-oriented visual expression within the distribution structure of pop music. In the 21st century, the aspiration for the "future" that originated in Futurist art in the early 20th century has been linked to digital production environments, post-internet visual culture, and the redefinition of gender and body representation, reconfiguring music and visual expression as inseparable.
+Neo-futurism/avant-garde pop is a trend that has established experimental sound structures, physicality, and future-oriented visual expression within the distribution structure of pop music. In the 21st century, the aspiration for the "future" that originated from Futurist art in the early 20th century has been linked to digital production environments, post-internet visual culture, and the redefinition of gender and body representation, reconfiguring music and visual expression as inseparable.
 
 FKA twigs and Arca are iconic in this context. Her/their work does not simply present innovative sounds, but functions as a comprehensive art that integrates the body, technology, emotion, and identity.
 
@@ -51,7 +51,7 @@ In the 1960s and 1970s, electronic music and pop became closer together. With th
 
 ### 1-3. Transformation after digital
 
-Since the 2000s, production environments using DAWs and laptops have become commonplace, and the degree of freedom in audio manipulation has increased dramatically. At the same time, an environment has been created where visuals and music can be consumed simultaneously through SNS and video platforms. Under these conditions, neo-futurism/avant-garde pop is possible.
+Since the 2000s, production environments using DAWs and laptops have become commonplace, and the degree of freedom in audio manipulation has increased dramatically. At the same time, an environment has been created in which visuals and music can be consumed simultaneously through SNS and video platforms. Under these conditions, neo-futurism/avant-garde pop is possible.
 
 ---
 
@@ -72,7 +72,7 @@ In neofuturist pop, synthesizers and digitally processed tones are foregrounded 
 
 ### 3-2. Rhythm and structure
 
-The rhythms are not necessarily dance floor-oriented, and are often fragmented and asymmetrical. On the other hand, the choruses and motifs are clearly established and retain their memorability as pop songs.
+The rhythms are not necessarily dance floor-oriented, and are often fragmented and asymmetrical. On the other hand, the choruses and motifs are clearly established and retain their memorability as pop music.
 
 ### 3-3. Vocal processing
 
@@ -200,7 +200,7 @@ Expressions that cut across gender, the body, and technology became commonplace,
 
 ## Conclusion
 
-Neofuturism/avant-garde pop is not a style that embellishes the future, but a practice that visualizes the relationship between the current body and technology. Works by FKA twigs and Arca show how music can integrate vision, thought, and the body.
+Neofuturism/avant-garde pop is not a style that embellishes the future, but a practice that visualizes the relationship between the current body and technology. Works by FKA twigs and Arca demonstrate how music can integrate vision, thought, and the body.
 
 This trend is not a passing trend, but rather the latest in a cultural continuum extending from the 20th century avant-garde. The avant-garde is no longer on the periphery, but continues to be renewed within pop.
 

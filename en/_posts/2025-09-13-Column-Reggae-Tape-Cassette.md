@@ -193,4 +193,13 @@ The connection between reggae music and cassette culture is not just a technolog
 
 There are important aspects such as: Even in today's digital age, the relationship between reggae and cassettes remains an essential reference point for understanding street-level music distribution and mixtape culture.
 
+---
 
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0EEEwVz_vcw?si=juWb_d1If0s5xsni" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

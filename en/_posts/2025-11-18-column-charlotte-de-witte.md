@@ -51,7 +51,7 @@ The ""love of nightclubs" and ""respect for the underground" cultivated during t
 ## Start as a DJ and "Raving George" era (2010–2014)
 
 Around **2010**, Charlotte started her career as a DJ. It is reported that initially they played a style that leans towards electro and EDM.
-During his early career, he also used the alias "Raving George", and in 2011 he won a DJ contest sponsored by Belgian radio station Studio Brussel. This earned him a main stage appearance at Tomorrowland.
+During his early career, he also used the alias "Raving George", and in 2011 won a DJ contest sponsored by Belgian radio station Studio Brussel. This earned him a main stage appearance at Tomorrowland.
 
 He also released an EP and released early works on labels such as Bad Life and Crux Records. Gradually increasing his reputation as a DJ, he began exploring ways to switch to techno.
 
@@ -104,7 +104,7 @@ Examples of major appearances:
 - 2023: Main stage closing (first woman)
 
 - **BBC Radio 1 Essential Mix (2018)**
-- Featured appearances on global radio.
+- Featured appearances on worldwide radio.
 
 In this way, he has successfully expanded from a club DJ to a global festival artist.
 

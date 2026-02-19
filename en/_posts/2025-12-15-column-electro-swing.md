@@ -195,7 +195,7 @@ On the other hand, another characteristic is that it was difficult to form a cle
 
 ## 19. Comparison with other genres
 
-Electro Swing is sometimes confused with Nu Jazz, Swing House, and Retro House, but the biggest difference is that it foregrounds the symbolism of the swing period. This prioritizes cultural readability over musical complexity.
+Electro Swing is sometimes confused with Nu Jazz, Swing House, and Retro House, but the biggest difference is that it foregrounds the symbolism of the swing era. This prioritizes cultural readability over musical complexity.
 
 While this structure weakened the genre's ability to withstand criticism, it was effective in gaining long-term listeners.
 

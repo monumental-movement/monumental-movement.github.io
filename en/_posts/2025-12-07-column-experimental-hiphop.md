@@ -74,7 +74,7 @@ The foundations of Experimental/Abstract Hip Hop were formed in the late 1990s.
 
 ---
 
-- An important role in the NY underground in the late 1990s.
+- An important role in the NY underground at the end of the 1990s.
 - Introducing noisy sounds, segmented rap and electronic music.
 - Expands the connection between electronic music and hip-hop by signing with Warp Records.
 
@@ -171,7 +171,7 @@ This gave rise to a trend that focused on texture.
 
 ---
 
-## 7. Expansion since 2010s: Clipping. / Milo / Open Mike Eagle
+## 7. Extensions since 2010s: Clipping. / Milo / Open Mike Eagle
 
 ### ● Clipping. (2010~)
 
@@ -247,7 +247,7 @@ flowchart TD
     B --> C["LA Beat Scene (2006~)"]
     C --> D["Flying Lotus / Brainfeeder"]
     D --> E["Polyrhythm/Non-linear beat"]
-    E --> F["2020's Multinational Experimental Scene"]
+    E --> F["Multinational experimental scene in the 2020s"]
 </div>
 
 ---
@@ -271,6 +271,6 @@ flowchart TD
 Experimental/Abstract Hip Hop is not just a derivative genre of hip hop, but an intellectual project that deconstructs rhythmic structures, narratives, sample culture, and electronic music approaches, and continues to this day.
 
 The multi-layered electronic music of Flying Lotus, the abstract rap poetry pioneered by Shabazz Palaces, the non-linear swing of J Dilla, the noise experiments of Clipping.
-They continue to function today as a "laboratory for the future of hip-hop."
+They continue to function as "laboratories for the future of hip-hop."
 
 ---

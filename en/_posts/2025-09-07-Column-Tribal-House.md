@@ -130,7 +130,7 @@ color: #fff;
 
 ---
 
-## Rhythm Journey
+## Journey of Rhythm
 Tribal House is not just club music, but a ""rhythmic journey'' that has spread globally, changing with each era. It will continue to attract attention as a genre that continues to evolve through the fusion of technology while inheriting its African roots.
 
 

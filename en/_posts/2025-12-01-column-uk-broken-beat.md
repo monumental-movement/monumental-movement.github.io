@@ -80,7 +80,7 @@ graph TD
 
 ## 3. Musical characteristics and song analysis
 
-Broken Beat is more than just dance music, it is characterized by its combination of rhythmic complexity and soulful harmonies.
+Broken Beat is more than just dance music; it is characterized by its combination of rhythmic complexity and soulful harmonies.
 
 ### 3.1 Rhythm
 
