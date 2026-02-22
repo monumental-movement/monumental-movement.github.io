@@ -102,7 +102,7 @@ Sigue viviendo como una "escritura sagrada" para bailarines y tocadiscos.
 ---
 
 #### 9. Melvin Bliss – “Sustitución sintética” (1973)
-Otro break famoso que formó la columna vertebral del hip-hop. Frequently used by Naughty by Nature, J Dilla, De La Soul, and others.
+Otro break famoso que formó la columna vertebral del hip-hop. Utilizado con frecuencia por Naughty by Nature, J Dilla, De La Soul y otros.
 Aunque la melodía es modesta, el "espacio" entre la caja y el bombo forma una proporción áurea.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3RaaHfzcD0?si=AVzlgEkCT_ra0JQH" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

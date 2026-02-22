@@ -99,7 +99,7 @@ La guitarra y el bajo de Rotor se deslizan como una línea aerodinámica,
 La música ha hecho de "avanzar" un objetivo.
 
 ¡NUEVO! grabado en el estudio por falta de fondos.
-Gira la cinta hacia atrás, cambia la velocidad, corta y pega los sonidos,
+Girando la cinta al revés, cambiando la velocidad, cortando y pegando los sonidos,
 Sacudió la frontera entre "vida" y "máquina".
 
 > "Motorik es el sonido de la ``continuación humana'', no una máquina."
@@ -137,7 +137,7 @@ Las culturas punk, industrial y de muestreo que siguieron se basaron todas en lo
 
 ---
 
-## Capítulo 5: Kraftwerk - Los orígenes del techno y la belleza inorgánica
+## Capítulo 5: Kraftwerk - Los orígenes del tecno y la belleza inorgánica
 
 Dusseldorf.
 Las calles rectas y la textura fría de la ciudad industrial se convirtieron en música.
@@ -236,7 +236,7 @@ Para Jean-Michel Jarre, Vangelis e incluso escritores tecno posteriores, se conv
 
 A finales de los años 70, la juventud alemana volvió a experimentar cambios.
 El espíritu experimental del Krautrock se manifiesta en el punk y la new wave.
-En Berlín, David Bowie y Brian Eno crearon la "Trilogía de Berlín" y absorbieron la estética de Kraut.
+En Berlín, David Bowie y Brian Eno produjeron la "Trilogía de Berlín" y absorbieron la estética de Kraut.
 
 - "Low" de Bowie (1977) es una fusión de Neu! y Clúster.
 - Joy Division y The Fall reinyectaron ritmos motorik en el rock.
@@ -330,3 +330,13 @@ Es una historia de un "espíritu creativo universal" más que de un "origen alem
 Cintas, ritmos, ondas electrónicas: todavía suenan en el estudio subterráneo.
 
 > "El krautrock no ha terminado. Todavía continúa en tus oídos".
+
+---
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/64P2HPB6Tcs?si=oiefUkJoLWP4FK72" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---

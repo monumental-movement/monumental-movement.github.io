@@ -113,7 +113,7 @@ Las presentaciones en vivo durante este período no sólo mostraron la evolució
 
 ### 3.1 Reggae Sunsplash y gran festival
 
-En la década de 1980, Toots and the Maytals encabezaron el festival más grande de Jamaica, el Reggae Sunsplash. Una vez en el escenario, el público comienza a cantar, aplaudir y bailar hasta que todo el lugar queda envuelto en un solo ritmo.
+En la década de 1980, Toots and the Maytals encabezaron el festival más grande de Jamaica, Reggae Sunsplash. Una vez en el escenario, el público comienza a cantar, aplaudir y bailar hasta que todo el lugar queda envuelto en un solo ritmo.
 
 **Presencia de actuación**:
 
@@ -214,6 +214,6 @@ D -->|象徴的・歴史的| E[文化継承・追悼ライブ]
 
 ## 8. Resumen
 
-Los espectáculos en vivo de Toots and the Maytals fueron la encarnación del desarrollo del género musical, la construcción de comunidades y el intercambio cultural internacional. La interactividad con el público, la improvisación y la continuidad histórica a través de presentaciones en vivo son las razones por las que su música se ha transmitido a través de los siglos. Las presentaciones en vivo no son sólo presentaciones musicales, sino rituales culturales que encarnan el reggae en sí.
+Los espectáculos en vivo de Toots and the Maytals fueron la encarnación del desarrollo del género musical, la construcción de comunidades y el intercambio cultural internacional. La interactividad con el público, la improvisación y la continuidad histórica a través de presentaciones en vivo son las razones por las que su música se ha transmitido a través de los siglos. Las presentaciones en vivo no son sólo actuaciones musicales, sino rituales culturales que encarnan el reggae en sí.
 
 ---

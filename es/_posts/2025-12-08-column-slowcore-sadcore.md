@@ -49,7 +49,7 @@ Sin embargo, las características comunes son las siguientes.
 ## ■ Características musicales (basadas en hechos)
 - **Tempo lento (alrededor de 50-80 BPM)**
 - **Las voces son contenidas e indiferentes**
-- **La guitarra utiliza principalmente sonidos limpios, con mucha reverberación y eco**
+- **La guitarra utiliza principalmente limpieza, mucha reverberación y eco**
 - **El número de notas es extremadamente pequeño y la dinámica de la canción es suave**
 - **Las letras tienden a tratar sobre introspección, soledad, memoria y vida cotidiana**
 - **Pincel, toque ligero, patrón simple para tambores**
@@ -58,7 +58,7 @@ Este sonido tiene una estructura que, a la inversa, despierta emociones a travé
 
 ---
 
-# 2. Origen del Slowcore
+# 2. Origen del slowcore
 ## ■ La parte de “quietud” de Dream Pop / Shoegaze
 A finales de la década de 1980, **Galaxie 500** son considerados los precursores del slowcore, con sus tempos relajados, guitarras de ensueño y voces sin emociones.
 
@@ -66,7 +66,7 @@ A finales de la década de 1980, **Galaxie 500** son considerados los precursore
 En 1991, durante la explosión alternativa simbolizada por "Nevermind" de Nirvana, la actitud de "no te atrevas a subir el volumen" surgió como una alternativa paradójica.
 
 ## ■ Estética indie del medio oeste americano
-Centrándose en pequeños sellos en ciudades regionales como Minnesota, Ohio y California, **un entorno de grabación rústico = estética Lo-Fi** se asoció con el slowcore.
+Centrándose en pequeños sellos en ciudades regionales como Minnesota, Ohio y California, el **entorno de grabación rústico = estética Lo-Fi** se asoció con el slowcore.
 
 ---
 

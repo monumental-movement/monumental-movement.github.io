@@ -75,7 +75,7 @@ En el extranjero, se ha traducido como "pop retrofuturista" y "nostalgia estéti
 
 ## Capítulo 3: Vaporwave y la ilusión de la era Showa
 
-Vaporwave es un movimiento artístico que se originó en la cultura estadounidense de los tablones de anuncios de Internet a principios de la década de 2010.
+Vaporwave es un movimiento artístico que surgió de la cultura estadounidense de los tablones de anuncios de Internet a principios de la década de 2010.
 Los viejos anuncios japoneses, los gráficos digitales de los años 1980 y las imágenes sonoras distorsionadas de los casetes han sido reconstruidos como las "reverberaciones" de la sociedad de consumo.
 
 No es casualidad que las melodías y sonidos de las canciones de Showa se fusionaran aquí de forma natural.
@@ -149,7 +149,7 @@ La nostalgia ya no se trata de retrospección, sino que se ha convertido en una 
 
 ## Conclusión: “Música del corazón” llamada Showa
 
-Las canciones Showa están quedando grabadas en el mapa emocional del mundo, trascendiendo el contexto histórico de Japón.
+Las canciones showa están quedando grabadas en el mapa emocional del mundo, trascendiendo el contexto histórico de Japón.
 Este eco es también un retorno a la "memoria individual" que se estaba perdiendo debido a la globalización.
 Las canciones de la era Showa se han convertido en un "refugio emocional" no sólo para los japoneses del pasado, sino para todos los jóvenes solitarios del siglo XXI.
 

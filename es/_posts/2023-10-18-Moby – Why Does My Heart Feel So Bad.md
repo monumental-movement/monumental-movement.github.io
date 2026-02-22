@@ -13,7 +13,7 @@ title: Moby – ¿Por qué mi corazón se siente tan mal?
 ---
 
 
-Un remix de “Moby – ¿Por qué mi corazón se siente tan mal?” lanzado en 1999 en el sello británico Mute. La cara A es un remix del DJ y productor alemán ATB (Andre Tanneberger).
+Un remix de "Moby - ¿Por qué mi corazón se siente tan mal?" lanzado en 1999 en el sello británico Mute. La cara A es un remix del DJ y productor alemán ATB (Andre Tanneberger).
 
 La primera pista de la cara B es un remix de Ferry Corsten (System F), uno de los fundadores del trance holandés. La segunda canción de la cara B es un remix de The Sharp Boys, una unidad compuesta por George Michell y Steven React.
 

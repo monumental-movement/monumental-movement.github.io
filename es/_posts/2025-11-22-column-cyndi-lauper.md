@@ -54,11 +54,11 @@ Sin embargo, a su madre le encantaba mucho la voz. Esto se debe a que incluso en
 
 # **3. Juventud: Espíritu rebelde e inclinación hacia el arte**
 
-En su adolescencia, Cindy se dedicó al arte, la pintura, escribir poesía y probar cualquier cosa creativa. Intenté ir a la escuela de arte, pero ni siquiera allí pude adaptarme al entorno en el que estaba obsesionado con las "reglas" y la "expresión correcta".
+En su adolescencia, Cindy se dedicó a las artes y probó cualquier cosa creativa, incluida la pintura y la escritura de poesía. Intenté ir a la escuela de arte, pero ni siquiera allí pude adaptarme al entorno en el que estaba obsesionado con las "reglas" y la "expresión correcta".
 
 La vida de Cyndi Lauper tiene un tema constante. Es una voluntad fuerte que dice: "Quiero ser yo misma". Esta voluntad se perfeccionó cuando tenía alrededor de 20 años y se movía por las concurridas calles de Nueva York.
 
-Durante este tiempo, usó combinaciones de moda únicas en tiendas de segunda mano y mercadillos. La "moda única y colorida" que se vio más tarde nació en parte porque la gente no podía darse el lujo de comprar artículos nuevos cuando era pobre.
+Durante este tiempo, usó combinaciones de moda únicas en tiendas de segunda mano y mercadillos. La "moda única y colorida" que se conoció más tarde nació en parte porque la gente no podía darse el lujo de comprar artículos nuevos cuando era pobre.
 
 Las raíces de la música son el soul, el blues, el rock y los musicales. La ciudad de Nueva York era para ella la mejor "escuela de música gratuita".
 
@@ -110,7 +110,7 @@ Brillante, divertido, gratis y un poco triste.
 Quizás fue porque la atmósfera general era "como la de Cindy" que capturó los corazones de tanta gente.
 
 La musicalidad no fue lo único que hizo de este álbum un éxito.
-Con el auge de MTV, estábamos entrando en una era en la que las imágenes influenciaban la música y Cindy tenía un impacto visual abrumador. Disfraces coloridos, peinados demasiado sueltos y un vídeo musical en el que aparece gente corriendo por los callejones. Todos ellos eran perfectos para la "atmósfera de la época".
+Con el auge de MTV, entramos en una era en la que las imágenes influyeron en la música y Cindy tuvo un impacto visual abrumador. Disfraces coloridos, peinados demasiado sueltos y un vídeo musical en el que aparece gente corriendo por los callejones. Todos ellos eran perfectos para la "atmósfera de la época".
 
 ---
 
@@ -170,7 +170,7 @@ Mientras tanto, Cindy provoca un "incidente".
 
 La gran cantidad de accesorios que llevaba alrededor del cuello golpearon el micrófono, provocando un ruido estridente.
 
-Ingeniero: "¿Qué es ese sonido?"
+Ingeniero: "¿Qué sonido es ese?"
 Quincy Jones: "Cindy, ¿puedes... tomar eso?"
 
 Cindy se echó a reír y dijo: "¡Oh, lo siento!" mientras se quitaba los accesorios, y se dice que el ambiente se relajó instantáneamente.
@@ -201,7 +201,7 @@ Cindy no valoraba "repetir formas exitosas" y valoraba "ser fiel a quien soy aho
 
 # **12. Challenge to Broadway: gana el premio Tony por “Kinky Boots”**
 
-En 2013, estuvo a cargo de la letra y la composición del musical "Kinky Boots", que le valió el premio Tony a la mejor canción original.
+En 2013, estuvo a cargo de la letra y composición del musical "Kinky Boots" y ganó el Premio Tony a la Mejor Canción Original.
 
 Originalmente, Cindy creció no sólo como cantante, sino también profundamente influenciada por la cultura expresiva como el cine y el teatro. Eso se hizo realidad en forma de Broadway.
 
@@ -256,7 +256,7 @@ flowchart TD
 **Década de 1970** Formación/disolución del Ángel Azul
 **1983** Contrato en solitario
 **1984** “She’s So Unusual” es un éxito mundial
-**1985** Participó en “Somos el Mundo”
+**1985** Participó en "Somos el Mundo"
 **1993** 『Sombrero lleno de estrellas』
 **Década de 2000** Géneros cruzados como blues/dance
 **2013** Ganó el premio Tony por “Kinky Boots”

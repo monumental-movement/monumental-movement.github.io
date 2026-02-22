@@ -206,7 +206,7 @@ flowchart TD
 
 ### ■ Mulatu Astatke
 
-Fundador de Ethio-Jazz. Sus obras representativas se publicaron a finales de los años sesenta y setenta.
+Fundador de Ethio-Jazz. Sus obras representativas fueron publicadas a finales de los años 1960 y 1970.
 Es reconocido internacionalmente como vibrafonista y compositor/arreglista, y en los últimos años ha estado involucrado en investigaciones musicales en la Universidad de Harvard y otras instituciones.
 
 ### ■ Mahmoud Ahmed
@@ -216,7 +216,7 @@ Reevaluado internacionalmente con la serie Éthiopiques.
 
 ### ■ Tilahun Gessesse
 
-Un cantante conocido como el "Rey de la música etíope". Es un ex miembro de una banda militar y tiene grandes habilidades para el canto.
+Un cantante conocido como el "Rey de la música etíope". Es ex miembro de una banda militar y tiene habilidades avanzadas para el canto.
 
 ### ■ Hailu Mergía
 
@@ -238,7 +238,7 @@ Más tarde fue redescubierto en Washington, D.C. y recorrió el mundo.
 
 ### ■ Jazz/Funk/Hip-hop
 
-* Ampliación de la interpretación en modo jazz.
+* Ampliando la interpretación de los modos de jazz.
 * Utilizado frecuentemente como material de muestra en hip-hop.
 * Influencia en Afrobeat/Afrofusion
 

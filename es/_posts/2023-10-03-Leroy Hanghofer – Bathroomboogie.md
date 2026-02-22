@@ -13,7 +13,7 @@ title: Leroy Hanghofer – Baño boogie
 ---
 
 
-Este EP tiene una sensación muy funky y maravillosamente creativa y peculiar, con un sutil sentido del humor.
+Este EP tiene una sensación muy funky, maravillosamente creativa y peculiar, con un sutil sentido del humor.
 
 Pero la línea de bajo gruesa y el sintetizador crujiente mantienen todo en un ritmo estricto y hacen que todo avance felizmente.
 

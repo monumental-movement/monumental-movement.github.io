@@ -43,7 +43,7 @@ color: #fff;
 
 
 ## Capítulo 1: Historia previa a la formación y estratos del metro de Osaka
-En la década de 1980, Osaka tenía una cultura clandestina única y diferente a la de Tokio. Una mezcla de teatros, edificios abandonados y locales de música en vivo creó muchos lugares donde los límites entre el punk, el hardcore, el ruido y el arte escénico se difuminaban. **Yamatsuka Ai**, el miembro principal de Boredoms, buscó su propia expresión mientras absorbía este ambiente desordenado.
+En la década de 1980, Osaka tenía una cultura clandestina única y diferente a la de Tokio. Una mezcla de teatros, edificios abandonados y locales de música en vivo creó muchos lugares donde los límites entre el punk, el hardcore, el ruido y el arte escénico se difuminaron. **Yamatsuka Ai**, el miembro principal de Boredoms, buscó su propia expresión mientras absorbía este ambiente desordenado.
 
 En sus primeros años, las actividades de Ai estaban fuertemente orientadas a la interpretación y practicaba no sólo el sonido, sino también el movimiento corporal, objetos y expresiones tipo collage.
 Luego de pasar por esta etapa “pre-musical”, comenzó a tomar forma **Hanatarash**, el que luego se convertiría en el prototipo de Boredoms.
@@ -212,7 +212,7 @@ En este capítulo, organizaré sistemáticamente las actividades personales de *
 ### 7.1 Interés inicial
 - Collage, Manga, Arte Concreto
 - Actuación destructiva
-- Más interesado en el “lugar” que en el sonido.
+- Interesado en el “lugar” más que en el sonido.
 
 ### 7.2 Formación del sentido de muestreo
 Desde principios de la década de 1990, Ai ha estado utilizando tocadiscos y casetes como materiales, especializándose en la "edición táctil" que conecta fragmentos de sonido físico.

@@ -116,7 +116,7 @@ La transformación de la voz en material es una expansión de la expresión y, a
 
 ### 5-1. Identidad y voz
 
-La voz refleja las características físicas de un individuo, pero se altera fácilmente mediante técnicas de procesamiento. Esto permite a los artistas ampliar su gama de autoexpresión y a los oyentes actualizar su conocimiento de las voces.
+La voz refleja las características físicas de un individuo, pero se altera fácilmente mediante técnicas de procesamiento. Esto permite a los artistas ampliar su gama de autoexpresión y a los oyentes actualizar su conocimiento de la voz.
 
 ### 5-2. Ética del desempeño y tecnología de generación.
 

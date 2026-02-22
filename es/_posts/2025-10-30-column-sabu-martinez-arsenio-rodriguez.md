@@ -18,7 +18,7 @@ title: '[Columna] El esqueleto afrocubano - La genealogía del latido del coraz�
 ## Introducción: Otra historia de la música americana contada por los tambores taiko
 
 
-Texto: mmr｜Tema: Centrado en Sabu Martinez y Arsenio Rodríguez
+Texto: mmr｜Tema: Basado en Sabu Martinez y Arsenio Rodríguez
 Trazando longitudinalmente los puntos de inflexión de la historia de la música latina
 
 En la década de 1950, un ritmo intercambiado en la puerta trasera de un club de jazz sacudió la estructura misma de la música estadounidense.
@@ -111,7 +111,7 @@ Su sonido está conectado con el jazz afroespiritual posterior (Pharoah Sanders,
 
 Cuando Arsenio se mudó a los Estados Unidos en 1950 y comenzó a trabajar en Harlem,
 Sabu había estado haciendo sesiones en la misma ciudad.
-Aunque su punto de contacto no es el coprotagonismo directo,
+Aunque su punto de contacto no es una colaboración directa,
 Estaban profundamente entrelazados dentro de la **cultura de la diáspora afroBronx-Harlem**.
 
 | Época | Arsenio Rodríguez | Sabú Martínez |

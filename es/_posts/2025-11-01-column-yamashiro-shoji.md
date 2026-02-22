@@ -46,7 +46,7 @@ color: #fff;
 ## Capítulo 1: Nacimiento del entretenimiento Yamashiro Gumi - El arte como "grupo"
 
 El punto de partida de Geino Yamashiro Gumi fue la formación de un "colectivo" de personas que se unieron a través de universidades, empresas y profesiones.
-Médicos, profesores, ingenieros, estudiantes, amas de casa: personas con diferentes ocupaciones y filosofías compartían un deseo intuitivo de "vivir dentro del sonido".
+Médicos, profesores, ingenieros, estudiantes, amas de casa: personas de diferentes profesiones y filosofías compartían el deseo intuitivo de "vivir en el sonido".
 
 Desde un principio, Yamashiro definió el arte no como un acto de expresión individual, sino como la expresión de un grupo.
 Por lo tanto, sus ensayos no fueron sólo actuaciones, sino el proceso de "generar un campo de sonido".
@@ -112,7 +112,7 @@ Reconsideró el sonido no sólo como un estímulo auditivo, sino como un "punto 
 
 Aquí, Yamashiro definió el sonido como un "protocolo de comunicación entre los humanos y el medio ambiente".
 El sonido no es un símbolo, sino una actividad ecológica y social en sí misma.
-Esta idea también resuena en investigaciones posteriores sobre el "paisaje sonoro" y la "ecología de los medios".
+Esta idea resuena con investigaciones posteriores sobre el "paisaje sonoro" y la "ecología de los medios".
 
 > “El sonido es una interfaz entre el entorno y la información.
 >La música es un algoritmo mediante el cual una manada se sincroniza con su entorno. "

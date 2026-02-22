@@ -21,7 +21,7 @@ title: '[Columna] Madvillain “Madvillainy” ─ Mito del hip-hop del siglo XX
 Texto: mmr｜Tema: Un estudio de “Madvillainy” (https://amzn.to/3JhySfH), un “laberinto de sonido” que reconstruye la propia forma del hip-hop después de deconstruirla.
 
 En la primavera de 2004, un álbum lanzado por un pequeño sello de Los Ángeles, **Stones Throw Records**, silenciosamente trastocó la sabiduría convencional del hip-hop.
-**Madvillain [``Madvillainy''](https://amzn.to/3JhySfH)** ---Es un álbum de rap, una colección de poesía y un collage sonoro a través de ondas de radio. **
+**Madvillain [``Madvillainy''](https://amzn.to/3JhySfH)** ---Es un álbum de rap, una colección de poesía y un collage sonoro transmitido a través de ondas de radio. **
 
 A principios del siglo XXI, el hip-hop estadounidense avanzaba hacia la extravagante "cultura de marca" simbolizada por Jay-Z y 50 Cent. Por otro lado, este álbum trata sobre el anonimato y la poética de los fragmentos, y tiene profundas raíces en el mundo underground.
 Lo que cautiva al oyente no es el grado de perfección, sino la "belleza inacabada".
@@ -50,7 +50,7 @@ color: #fff;
 Madlib (nombre real Otis Jackson Jr.) es un "poeta sampler" que alquimia el caos musical.
 Sus ritmos no se basan en un ritmo sistemático, sino que están dominados por una "estética del azar". Discos antiguos, archivos sonoros de bibliotecas, efectos de sonido de anime: todos estos pueden utilizarse como materiales.
 
-Especialmente en este trabajo, **SP-303 Dr. Sample** tiene la clave. Aunque es un equipo más barato y de mayor baja fidelidad que un MPC típico, Madlib conserva activamente su textura rugosa**. Al cambiar el tono del muestreo y hacer que el bucle oscilara sutilmente, lograron una "inestabilidad que no se puede reproducir en una actuación en vivo".
+Especialmente en este trabajo, **SP-303 Dr. Sample** tiene la clave. Aunque es un equipo más barato y de baja fidelidad que un MPC típico, Madlib conserva activamente su textura rugosa**. Al cambiar el tono del muestreo y hacer que el bucle oscilara sutilmente, lograron una "inestabilidad que no se puede reproducir en una actuación en vivo".
 
 ### MF DOOM: El poeta enmascarado
 MF DOOM (nombre real Daniel Dumile) nació de una tragedia.
@@ -105,7 +105,7 @@ Por ejemplo, el siguiente pasaje:
 > "El resto está vacío sin cerebro excepto el nerd inteligente"
 
 Las rimas internas de “vacío”, “cerebro” e “inteligente” están encadenadas, trascendiendo el contexto y creando significado en sí mismas.
-Su rap funciona más como un dispositivo sonoro que como poesía.
+Su rap funciona como un dispositivo sonoro más que como poesía.
 
 ### Todo en mayúsculas
 “TODO EN MAYÚSCULAS cuando deletreas el nombre del hombre”──
@@ -217,5 +217,13 @@ La máscara que dejó DOOM todavía brilla en los estudios underground de todo e
 
 > “No es como el villano”.
 > ― CONDENACIÓN MF
+
+---
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gXOkqpWhsD0?si=WEZRPKJsazCLjDDX" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---

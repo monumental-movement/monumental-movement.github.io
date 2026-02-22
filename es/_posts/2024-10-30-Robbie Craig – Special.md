@@ -10,11 +10,11 @@ tags:
 - House
 - Garage House
 - 90s
-title: Robbie Craig – Especial
+title: Robbie Craig - Especial
 ---
 
 
-Robbie Craig es un cantautor de Londres. Ha estado activo como vocalista principal de East17 desde 2014 después de que Brian Harvey dejara el grupo.
+Robbie Craig es un cantautor de Londres. Ha estado activo como vocalista principal de East17 desde 2014 después de que Brian Harvey dejara la banda.
 
 "Special" es un tema house/garage house lanzado en 1995 por Public Demand, un sello importante en la escena garage y 2-step del Reino Unido.
 

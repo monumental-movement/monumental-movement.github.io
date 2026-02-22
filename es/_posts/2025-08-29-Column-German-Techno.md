@@ -51,7 +51,7 @@ Heredero de la tradición de la música electrónica representada por Kraftwerk,
 
 - **Integración con la cultura del club**
 
-Como lo simbolizan Berghain y Tresor de Berlín, el espacio del club y el sonido son inseparables. La música era más que una simple experiencia auditiva; funcionó como parte de la cultura y el estilo de vida urbanos.
+Como simbolizan el Berghain y el Tresor de Berlín, el espacio del club y el sonido son inseparables. La música era más que una simple experiencia auditiva; funcionó como parte de la cultura y el estilo de vida urbanos.
 
 <hora>
 
@@ -121,7 +121,7 @@ Como lo simbolizan Berghain y Tresor de Berlín, el espacio del club y el sonido
 
 **Artistas destacados**: Chris Liebing, Johannes Heil, Heiko Laux.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5YIMr5vxXBY?si=A1enXrcPCnNG4ALa" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5YIMr5vxXBY?si=A1enXrcPCnNG4ALa" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
@@ -187,6 +187,16 @@ El techno alemán de hoy ha evolucionado ampliamente, desde tendencias industria
 
 En conclusión, el techno alemán es a la vez un producto cultural del pasado y un campo de pruebas para el futuro del diseño sonoro.
 Escuchar sus obras mientras se recorre su historia no es más que comprender el dinamismo de la música, donde se entrelazan ciudades y humanos, máquinas y emociones.
+
+
+---
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vGhjoN-y5IQ?si=kyE9hG3WPAYoTPS3" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
 
 ---
 

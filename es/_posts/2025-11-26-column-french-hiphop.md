@@ -22,7 +22,7 @@ title: '[Columna] Historia completa del hip-hop francés: desde NTM hasta nuestr
 Texto: mmr｜Tema: Centrándose en NTM e IAM, explicaciones de cada álbum y canción, antecedentes sociales, análisis de estilo regional y cronología.
 
 El hip-hop francés es un movimiento cultural que nació en los suburbios de las ciudades francesas a finales de la década de 1980 y, aunque está influenciado por el hip-hop estadounidense, se ha desarrollado para reflejar su propio entorno social y cultural.
-En particular, los jóvenes de comunidades de inmigrantes y familias de bajos ingresos han adoptado el rap como medio para expresar sus voces, y las letras contienen mensajes políticos y sociales.
+En particular, los jóvenes de comunidades de inmigrantes y familias de bajos ingresos han adoptado el rap como una forma de expresar sus voces, y las letras contienen mensajes políticos y sociales.
 
 ---
 

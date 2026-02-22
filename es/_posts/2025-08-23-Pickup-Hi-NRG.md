@@ -21,7 +21,7 @@ title: Recoger alta energía (Hi-NRG) funciona
 ### E-Rotic – “Willy usa un Billy... Boy”
 <a href="https://jp.mercari.com/item/m74466346239?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Willy%20Use%20A%20Billy%20Boy.webp"></a>
 
-Euro pop sexy y pegadizo de Alemania. Como interpretación de Hi-NRG de los años 90, es una canción altamente adictiva que querrás tararear.
+Euro pop sexy y pegadizo de Alemania. Como interpretación de Hi-NRG de los años 90 en adelante, esta es una pista altamente adictiva que te hará querer tararearla.
 
 #### Lista de canciones
 ```md
@@ -118,7 +118,7 @@ B3. Boogie Dancer (Verona Beat)
 ### Dave Hammond – “África”
 <a href="https://jp.mercari.com/item/m93036918375?afid=6142608987"><img src="../assets/images/Dave%20Hammond%20%E2%80%93%20Africa.webp"></a>
 
-Discoteca Italo de estilo europeo con un estilo Eurobeat. Cuando quieras calentar el espacio con bailes.
+Un estilo de Italo disco desarrollado en Europa que se inclina hacia el Eurobeat. Cuando quieras calentar el espacio con bailes.
 
 #### Lista de canciones
 ```md

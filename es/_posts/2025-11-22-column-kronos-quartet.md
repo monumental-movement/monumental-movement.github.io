@@ -74,7 +74,7 @@ Este período se caracterizó por **innovaciones en las técnicas de interpretac
 
 Desde la década de 1990 hasta la década de 2000, el Kronos Quartet comenzó a ir más allá de los límites de la música clásica, fusionándose con géneros como la música del mundo, el pop, la música de cine y el jazz.
 
-La innovación en la música de cine es particularmente notable con la película "Réquiem por un sueño" estrenada en 2000. Compuesta por Clint Mansell, interpretada por Kronos Quartet. "Lux Aeterna" del cuarteto de cuerda y otras piezas fueron abrumadoramente efectivas en su motivo repetitivo, generando tensión y amplificando la emoción, todo lo cual está vinculado a la representación psicológica de la película.
+La innovación en la música de cine es particularmente notable con la película "Réquiem por un sueño" estrenada en 2000. Compuesta por Clint Mansell, interpretada por Kronos Quartet. "Lux Aeterna" del cuarteto de cuerda y otras piezas fueron abrumadoramente efectivas en su motivación repetida, generando tensión y amplificando la emoción, todo lo cual está vinculado a la representación psicológica de la película.
 
 ### Funciones de la banda sonora de la película
 
@@ -123,7 +123,7 @@ La innovación en la música de cine es particularmente notable con la película
 
 ---
 
-### Integrar la música de cine en la cronología.
+### Integrando música de cine en la línea de tiempo
 
 
 <div class="mermaid">

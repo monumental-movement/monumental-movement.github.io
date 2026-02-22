@@ -15,7 +15,7 @@ title: '[Columna] Guía completa de Fela Kuti: El creador de los Afrobeats y su 
 
 ## Gigante de la música africana: ¿Quién es Fela Kuti?
 
-Texto: mmr｜Tema: La vida y música de Fela Kuti
+Texto: mmr｜Tema: La vida y la música de Fela Kuti
 
 
 Fela Aníkúlápó Kútì (1938-1997) fue un músico, activista y fundador del Afrobeat nigeriano. Su sonido único, que combina jazz, funk, highlife y música yoruba, tuvo una inmensa influencia en las músicas mundiales de la segunda mitad del siglo XX.
@@ -51,7 +51,7 @@ La música de Fela se caracteriza por ritmos repetitivos largos (de 10 a 30 minu
 
 ### Actividades políticas y culturales
 
-Fela declaró su residencia la "República de Kalakuta" y la operó como comunidad, estudio y espacio teatral. Ha habido repetidas y duras críticas al gobierno militar y hay muchos incidentes de ataques, detenciones y torturas por parte de la policía y el ejército (un incidente famoso es la anécdota de la "mierda cara"). Si bien estas posturas combativas lo han convertido en la "voz de los sin voz" de Nigeria, también han tenido un costo físico.
+Fela declaró su mansión la "República de Kalakuta" y la operó como comunidad, estudio y espacio teatral. Ha habido repetidas y duras críticas al gobierno militar y hay muchos incidentes de ataques, detenciones y torturas por parte de la policía y el ejército (un incidente famoso es la anécdota de la "mierda cara"). Si bien estas posturas combativas lo han convertido en la "voz de los sin voz" de Nigeria, también han tenido un costo físico.
 
 ---
 
@@ -114,7 +114,7 @@ Una canción de 20 minutos de duración que representa en sentido figurado el ca
 
 #### Finales de la década de 1970: pico político
 - **“Mierda cara” (1975)**
-Una obra maestra que aprovecha el caso de falsa condena por marihuana por parte de la policía. Contiene la canción representativa "Water No Get Enemy".
+Una obra maestra que aprovecha el caso de falsa condena por marihuana por parte de la policía. Incluye la canción representativa "Water No Get Enemy".
 - **Zombi (1977)**
 Una obra provocadora que critica a los militares llamándolos "zombis". Como resultado, se convirtió en el detonante del ataque a la República de Kalakuta.
 - **Dolor, lágrimas y sangre (1977)**
@@ -208,9 +208,17 @@ Lideró los años 80 egipcios y heredó directamente el estilo de su padre.
 ### resumen
 
 Fela Kuti no sólo fue el "padre del Afrobeats" sino también un símbolo de resistencia política a través de la música. Ese legado sigue reflejándose a través de sus hijos Femi Kuti y Soon Kuti, y en el trabajo de artistas de todo el mundo.
-Si desea obtener más información sobre Afrobeat, le recomendamos comenzar con "Gentleman", "Expensive Shit" y "Zombie".
+Si desea aprender más sobre Afrobeat, le recomendamos comenzar con "Gentleman", "Expensive Shit" y "Zombie".
 
 Las palabras y los ritmos de Fela todavía resuenan en la brisa de Lagos y en los escenarios del mundo.
+
+---
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OoyGKEqfyZw?si=A3wzzGbNKrxU-Xfl" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 

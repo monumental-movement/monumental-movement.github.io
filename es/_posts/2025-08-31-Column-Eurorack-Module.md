@@ -54,7 +54,7 @@ Características: Producimos muchos módulos digitales de alta calidad y somos p
 
 **Módulos representativos**: Trenzas, Anillos, Nubes
 
-**Características**: Desarrollado como código abierto, proporciona módulos que permiten la creación de sonido flexible. Es especialmente excelente en diversidad tonal.
+**Características**: Desarrollado como código abierto, proporciona módulos que permiten la creación de sonido flexible. Tiene una diversidad tonal particularmente excelente.
 
 ---
 

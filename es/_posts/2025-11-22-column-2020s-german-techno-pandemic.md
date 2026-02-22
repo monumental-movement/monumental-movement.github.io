@@ -25,7 +25,7 @@ title: '[Columna] El techno alemán y la pandemia en la década de 2020: la tran
 ## Pandemia: una historia real de todo, desde el cierre hasta la reapertura y la redefinición de la música
 
 
-Texto: mmr｜Tema: ¿Cómo ha cambiado el techno alemán en los años 2020, qué se ha perdido y qué se ha ganado?
+Texto: mmr | Tema: Cómo ha cambiado el techno alemán en la década de 2020, qué se ha perdido y qué se ha ganado
 
 
 El techno alemán de la década de 2020 experimentó un dramático cambio sísmico centrado en la **pandemia de COVID-19 (2020-2022)**.
@@ -214,7 +214,7 @@ Las fiestas que duran **entre 30 y 40 horas seguidas** se han vuelto más comune
 - Hamburgo: El ascenso de los jóvenes DJ en PAL
 - Dresde: vuelve la rave local
 
-El techno de 2022 a 2024 se ha actualizado por completo a la “estética de la generación pospandémica”.
+El techno de 2022 a 2024 se ha actualizado por completo a la “estética de la generación pospandemia”.
 
 ---
 
@@ -286,7 +286,7 @@ A partir de 2024, 150-170 BPM serán la corriente principal.
 No está claro si esto continuará, pero puede continuar debido a los siguientes factores:
 
 - La presentación visual en SNS va bien con música de alta velocidad.
-- La estética más joven prefiere la “alta densidad de información”
+- La estética joven prefiere la “alta densidad de información”
 - El mercado internacional del hard techno se está expandiendo.
 
 ## ● 2) El club será protegido como recurso cultural de la ciudad.
@@ -308,7 +308,7 @@ El techno alemán de la década de 2020 era completamente diferente antes y desp
 - **Berlín vuelve a ser una ciudad rave internacional**
 
 La pandemia ha traído destrucción, pero también ha provocado una “redefinición de la cultura”.
-El techno alemán de finales de la década de 2020 se ha convertido en una cultura más diversa, internacional y de ritmo más rápido que antes.
+El techno alemán de finales de la década de 2020 es una cultura más diversa, internacional y más rápida que antes.
 
 Este cambio probablemente quedará registrado como la "década de 2020 = era de discontinuidad" en la historia futura de la música electrónica.
 

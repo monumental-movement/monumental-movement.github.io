@@ -67,7 +67,7 @@ A continuación, presentaremos álbumes y proyectos representativos lanzados por
 |------|------------|------|---------|
 | 2016 | Disco Vumbi - Boutiq Electroniq | Música electrónica de baile que combina Chakacha y Benga | [Amazon](https://amzn.to/479Dnlq) |
 | 2017 | Otim Alpha - Himnos de la ciudad de Gulu | Reconstruyendo la canción nupcial tradicional Rarakaraka del norte de Uganda con música electrónica | [Amazon](https://amzn.to/48el27Z) |
-| 2018 | Bamba Pana - Poaa | Expresando la música Singeli de Tanzania con un ritmo de alta velocidad de más de 200 BPM | [Amazon](https://amzn.to/3VOVlDC) |
+| 2018 | Bamba Pana - Poaá | Expresando la música Singeli de Tanzania con un ritmo de alta velocidad de más de 200 BPM | [Amazon](https://amzn.to/3VOVlDC) |
 | 2019 | Jay Mitta - Tatizo Pesa | Una evolución de Singeli, con un tempo de 180-190 BPM y rica percusión | [Amazon](https://amzn.to/489pDrX) |
 | 2023 | Rian Treanor y Ocen James - Sacadas | Una fusión del tradicional violín rigiri del pueblo Akori y música electrónica | [Amazon](https://amzn.to/4pUf2HD) |
 
@@ -204,7 +204,7 @@ flowchart TD
 
 - Integración con la danza de improvisación: En la tradición Rarakaraka la danza se integra con la música, y este carácter de improvisación se hereda en Acolitronics.
 
-- Expresión en festivales: Nyege En el Festival de Nyege, es habitual que el público baile libremente con música electrónica Akori.
+- Expresión en festivales: Nyege En el Festival de Nyege, es común que el público baile libremente con música electrónica Akori.
 
 ---
 
@@ -294,7 +294,7 @@ flowchart LR
 
 #### Electro Maloya (Resumen)
 Electro Maloya es un género experimental que reconstruye la música tradicional de Maloya con música electrónica.
-Está atrayendo la atención mundial como un estilo musical que simultáneamente continúa con la herencia de la historia, reinterpreta la cultura, se integra con la cultura de los clubes de la ciudad y se comunica internacionalmente.
+Está atrayendo la atención mundial como un estilo musical que simultáneamente continúa la herencia de la historia, reinterpreta la cultura, se integra con la cultura de los clubes de la ciudad y se comunica internacionalmente.
 
 ---
 

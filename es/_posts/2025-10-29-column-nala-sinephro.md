@@ -55,7 +55,7 @@ Ha formado un lenguaje sonoro único que se mueve libremente entre el arpa y el 
 > “Para mí el sonido es como partículas en el aire”.
 > ― Nala Sinefro
 
-Como ella dice, el sonido está formado por capas de "partículas" y refracta el tiempo como la luz.
+Como ella dice, el sonido tiene capas de "granos" y refracta el tiempo como la luz.
 
 ---
 
@@ -114,7 +114,7 @@ Aquí, el patching en sí es una actuación de improvisación que transforma el 
 > - Ableton Live (para procesamiento de bucles)
 
 Esta configuración es verdaderamente un "dispositivo respiratorio para humanos y máquinas".
-Las formas de onda envuelven los ecos del arpa, la temperatura analógica neutraliza la transparencia electrónica.
+Las formas de onda envuelven los ecos del arpa y la temperatura analógica neutraliza la claridad electrónica.
 También es un acto de sublimar la música en una **oración tecnológica**.
 
 ---
@@ -174,5 +174,13 @@ No se trata de una extensión de la técnica o del género, sino más bien de un
 
 En el corazón del jazz ambiental está la esperanza de que "escuchar música" pueda volver a convertirse en "un acto de conexión con el mundo".
 Cada nota liberada por el arpa de Nala es tan silenciosa como la respiración del universo, pero ciertamente está viva.
+
+---
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zpRsugYbfFQ?si=kxce0BKZlsXCVGzi" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---

@@ -74,7 +74,7 @@ La progresión de acordes utiliza la séptima y la novena mayor con frecuencia, 
 Aunque el ritmo es parecido al AOR, absorbe las tendencias disco y soul de la época y se caracteriza por un ritmo ligero de alrededor de 110 BPM.
 
 En términos de grabación, brilla la "estética del espacio" creada por los equipos analógicos y los hábiles ingenieros de la época.
-El procesamiento de reverberación y el ecualizador de precisión del estudio lograron transparencia y humedad.
+El procesamiento de reverberación y la precisión del ecualizador del estudio lograron tanto "transparencia" como "humedad".
 En particular, "SPACY" (1978) de Tatsuro Yamashita se transmite como una obra monumental que elevó el arte de la grabación de estudio a su límite máximo.
 La perfección de este sonido es una de las razones por las que fue "descubierto" en el extranjero más de 40 años después.
 
@@ -84,7 +84,7 @@ La perfección de este sonido es una de las razones por las que fue "descubierto
 
 En la década de 1990, el colapso de la burbuja económica cambió fundamentalmente los valores de la música.
 La ciudad perdió su brillo y el pop urbano se consideró "anticuado" y "frívolo".
-Lo que surgió en su lugar fue música de "autoexpresión más individualista", como el J-Pop, el visual kei y el hip-hop.
+Lo que surgió en su lugar fue música de "autoexpresión más individualista" como el J-Pop, el visual kei y el hip-hop.
 
 Sin embargo, en la clandestinidad se estaba gestando una tendencia diferente. Los DJ estaban redescubriendo la música japonesa de los años 80 como un ritmo poco común en la cultura de discoteca.
 DJ MURO, DJ Nori, Gilles Peterson y otros crearon compilaciones, y los compradores de discos de todo el mundo buscaron la versión japonesa.
@@ -143,7 +143,7 @@ No sólo Suchmos, Lucky Tapes, cero y Nulbarich, sino también artistas jóvenes
 Reconstruyen los acordes y ritmos de los años 80 de una manera moderna y representan las "emociones de vivir en la ciudad" en un nuevo lenguaje.
 
 En el extranjero, artistas como Khruangbin, Men I Trust y Crumb están incorporando conscientemente la "estética japonesa".
-Según datos de Spotify, la escucha de City Pop aumentó particularmente en Estados Unidos, Brasil, Corea del Sur y Francia.
+Según datos de Spotify, la escucha de City Pop aumentó especialmente en Estados Unidos, Brasil, Corea del Sur y Francia.
 En otras palabras, este género ha pasado de ser una "cultura japonesa local" a un "dispositivo posglobal para compartir emociones".
 
 ---

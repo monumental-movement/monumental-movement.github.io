@@ -84,7 +84,7 @@ Después de eso, se convirtió en la base para perseguir sus propios ideales son
 
 #### Obra maestra
 
-- "Mamá Caramelo" (1975)
+- “Mamá Caramelo” (1975)
 
 Fusionan elementos de folk y rock psicodélico y muestran una musicalidad directamente relacionada con el Happy End posterior.
 Hosono participó en el bajo y el teclado, demostrando sus habilidades de improvisación y arreglos.
@@ -135,7 +135,7 @@ Hubo mucho ensayo y error en la creación de canciones entre los miembros, y tam
 - "Haraiso" (1978)
 
 Asia, Mares del Sur, América Latina, Hawaii y Japón.
-Durante este período, Hosono no intentó imitar a los "países extranjeros", sino que expresó el exotismo con el que soñaban los japoneses.
+Durante este período, Hosono no intentó imitar a los "países extranjeros", sino que más bien expresó el exotismo con el que soñaban los japoneses.
 Se caracteriza por una estructura que recuerda a un diario de viaje ficticio y una disposición ingeniosa.
 
 #### Antecedentes históricos

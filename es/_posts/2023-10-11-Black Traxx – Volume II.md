@@ -13,7 +13,7 @@ title: Traxx negro - Volumen II
 ---
 
 
-Black Traxx es una serie house coproducida por el DJ y productor Rick Lenoir, un pionero de la música house temprana de Chicago como "Work It To The Bone" de LNR y "Can't Stop The House" de Thompson y Lenoir, como miembro de la producción de 4 on the Floor.
+Black Traxx es una serie house coproducida por el DJ y productor Rick Lenoir, quien fue pionero en la música house temprana de Chicago con trabajos como "Work It To The Bone" de LNR y "Can't Stop The House" de Thompson y Lenoir, como miembro de la producción de 4 on the Floor.
 
 Fue lanzado en 1991 en el sello de deep house de Chicago Night Club Records.
 

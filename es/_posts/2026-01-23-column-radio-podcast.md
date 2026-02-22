@@ -19,7 +19,7 @@ title: '[Columna] Decadencia y resurgimiento de la cultura radiofónica interpre
 
 ## Un dispositivo llamado radio que existió antes que la música.
 
-Texto: mmr｜Tema: Los medios de voz que se transforman a través de la música - Historia cultural de la radio a los podcasts
+Texto: mmr｜Tema: Los medios de voz que se transforman a través de la música - Sobre la historia cultural desde la radio hasta los podcasts
 
 
 A menudo se habla de la radio como un medio musical, pero su esencia cuando se inventó por primera vez era compartir audio simultáneamente.
@@ -94,7 +94,7 @@ El formato de música en sí fue optimizado para el tiempo de transmisión.
 ##Cambio de liderazgo a través de la televisión y la cultura visual
 
 
-A partir de la década de 1950, la televisión se convirtió en el medio central de la cultura musical.
+Desde la década de 1950, la televisión se ha convertido en un medio central para la cultura musical.
 La música cambia el centro de gravedad de una experiencia auditiva a una experiencia visual.
 
 La llegada de MTV en los años 80 determinó esta tendencia.
@@ -129,14 +129,14 @@ Estos se han convertido en elementos innecesarios para la distribución de audio
 La reproducción bajo demanda elimina la necesidad de simultaneidad y el concepto de organización.
 La radio ya no tiene por qué ser una "emisión".
 
->El sonido se ha liberado de las ondas de radio.
+> La voz se ha liberado de las ondas de radio.
 
 ---
 
 ## Reinventando el podcast
 
 Los podcasts eran radios sin emisora.
-Producido por individuos, hablado por individuos y llegando a individuos.
+Creado por individuos, hablado por individuos y llegando a individuos.
 
 A diferencia de la distribución de música, los podcasts se centran en la narración de historias.
 La música se convierte en un objeto para ser analizado, recordado y contextualizado.
@@ -161,7 +161,7 @@ Se trata de una reinvención más personal y extensa de la cultura de los DJ de 
 
 
 La economía de la radio tradicional dependía de la publicidad.
-La estructura en la que el valor estaba determinado por los índices de audiencia y el alcance se optimizó para la transmisión a gran escala.
+La estructura en la que el valor se determinaba en función de las valoraciones de los espectadores y del número de espectadores se optimizó para la retransmisión a gran escala.
 
 Bajo este modelo es difícil establecer culturas musicales especializadas y narrativas especializadas.
 

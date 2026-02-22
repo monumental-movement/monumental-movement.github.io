@@ -10,7 +10,7 @@ tags:
 - Progressive House
 - House
 - 00s
-title: Hamel & Blackwatch – Discotek
+title: Hamel y Blackwatch – Discotek
 ---
 
 

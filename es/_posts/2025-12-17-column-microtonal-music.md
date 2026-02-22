@@ -154,7 +154,7 @@ Cambiado a **Elección de producción**.
 
 * La frecuencia se puede especificar directamente
 *Modificación inmediata de tablas de tuning
-* Libre de distribución de teclado
+*Libertad de distribución del teclado
 
 Como resultado, el temperamento se convirtió en un **parámetro variable** en lugar de una premisa fija.
 
@@ -235,7 +235,7 @@ La música microtonal vuelve a entrenar tu audición.
 * Fluctuaciones en el sentido tonal.
 * Llamar la atención sobre el tono.
 
-Esto no se establece mediante la comprensión intelectual, sino mediante la escucha repetida.
+Esto no se establece mediante la comprensión intelectual sino mediante la escucha repetida.
 
 ---
 
@@ -244,7 +244,7 @@ Esto no se establece mediante la comprensión intelectual, sino mediante la escu
 La música microtonal no forma un solo género.
 
 * Música experimental
-* Música electrónica
+* música electrónica
 * Dentro del Jazz/Pop
 * Vídeo/Instalación
 
@@ -281,7 +281,7 @@ timeline
 
 ## 15. Conclusión
 
-La música microtonal no es un ejercicio para aumentar el tono. Se trata de un cambio hacia una filosofía de producción que no asume un tono fijo. Harry Partch devolvió la música al cuerpo y al espacio, y Jacob Collier tradujo esa teoría a una sensibilidad moderna. Este movimiento seguirá funcionando silenciosamente en las capas más profundas de la producción musical.
+La música microtonal no es un ejercicio para aumentar el tono. Se trata de un cambio hacia una filosofía de producción que no asume un tono fijo. Harry Partch devolvió la música al cuerpo y al espacio, y Jacob Collier tradujo esa teoría a una sensibilidad moderna. Este movimiento seguirá trabajando silenciosamente en lo más profundo de la producción musical.
 
 
 ---

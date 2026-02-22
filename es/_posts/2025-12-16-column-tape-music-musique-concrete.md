@@ -135,7 +135,7 @@ El estudio ha llegado a ser visto como un espacio de diseño de sonido más que 
 
 La música en cinta no requería necesariamente un comienzo, un desarrollo y un final.
 
-### 9.2 Reentrenamiento auditivo
+### 9.2 Reeducación auditiva
 
 El proceso mediante el cual se abstraían los sonidos reales requería que los oyentes dirigieran su atención de una manera nueva.
 

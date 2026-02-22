@@ -22,7 +22,7 @@ Texto: mmr｜Tema: Sobre la genealogía del rap en la nube que se cruza con el L
 
 Cloud Rap surgió alrededor de 2010, se centró en el Área de la Bahía y el Internet Underground de EE. UU., y se desarrolló mientras se conectaba con la estética de la subcultura post-vaporwave, Chopped & Screwed, Lo-Fi Hip-Hop y el rap emo moderno. En particular, las actividades de **Lil B**, **Clams Casino** y **Main Attrakionz** simbolizaron los primeros días, formando la base de un linaje que luego conduciría a **Lil Peep**, **XXXTENTACION**, **Bones** y **Yung Lean**.
 
-Cloud Rap estaba mucho más orientado al ambiente que el Hip Hop tradicional, presentando un sonido más orientado al ambiente, procesamiento vocal con fuerte reverberación y texturas de ensueño con efectos espaciales, y luego evolucionó a Vaportrap, absorbiendo música electrónica y una cultura de memes similar a Vaporwave.
+Cloud Rap estaba mucho más orientado al ambiente que el Hip Hop tradicional, presentando un sonido más orientado al ambiente, procesamiento vocal con fuerte reverberación y texturas de ensueño con efectos espaciales, y luego evolucionó a Vaportrap, absorbiendo música electrónica y la cultura de los memes Vaporwave.
 
 
 ---

@@ -15,7 +15,7 @@ title: Bill y Ben – 10 de Funk
 
 "10" Of Funk de Bill & Ben está lleno de elementos musicales funk: ritmos rítmicos, líneas de bajo pesadas, síncopa y una sección de viento conmovedora.
 
-Disfruta del sonido funky y entretenido de Bill & Ben, que incluye ritmos potentes, riffs únicos y ritmos maravillosos que emocionarán a la pista de baile.
+Disfruta del sonido funky y entretenido de Bill & Ben, que incluye ritmos potentes, riffs únicos y ritmos maravillosos que harán vibrar la pista de baile.
 
 #### Lista de canciones
 ```md

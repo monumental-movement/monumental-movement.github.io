@@ -18,7 +18,7 @@ title: '[Columna] Por qué el visual kei y la cultura idol cruzan fronteras: La 
 ## Prólogo: Cuando la “música periférica” japonesa mueve el mundo
 
 
-Texto: mmr｜Tema: ¿Por qué la música de la subcultura japonesa llega al mundo? - Comprender la historia de la formación de fandoms extranjeros y la traducción cultural, con un enfoque en el visual kei y la cultura ídolo.
+Texto: mmr｜Tema: ¿Por qué la música de la subcultura japonesa llega al mundo? Descifrando la historia de la formación y traducción cultural de los fandoms extranjeros, con un enfoque en el visual kei y la cultura ídolo.
 
 
 "X JAPAN" "BABYMETAL" "Perfume" "Dir en grey"
@@ -73,7 +73,7 @@ La razón detrás del éxito de BABYMETAL en festivales extranjeros es
 Había una estrategia estructural para incorporar el concepto de "ídolos japoneses" dentro del estilo global del metal.
 
 La exportación de la cultura de los ídolos es también una fusión de ritual religioso y comunidad tecnológica.
-Los eventos de apretón de manos, transmisiones y eventos en vivo de SNS digitalizan el "contacto" ceremonial y convierten a los fanáticos en "seguidores".
+Los eventos de apretón de manos, transmisiones y eventos en vivo de SNS digitalizan el "contacto" ceremonial y convierten a los fans en "seguidores".
 Esta estructura se tradujo en el extranjero como "cultura participativa" y, como resultado, se disolvieron las fronteras culturales.
 
 ---
@@ -160,4 +160,10 @@ timeline
 
 ---
 
+### Pódcast de YouTube
 
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ewZmWO1mtgg?si=hDfoT8Uy60mak_Z9" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---

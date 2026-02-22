@@ -66,7 +66,7 @@ Aproximadamente a partir de 2008, el dubstep se extendió más allá del undergr
 
 ---
 
-- **Ruptura en América**: Ha aparecido un ``Brostep'' más agresivo y llamativo, liderado por Skrillex.
+- **Break in America**: Ha aparecido un ``Brostep'' más agresivo y llamativo, liderado por Skrillex.
 
 
 - **Cultura del remix**: los elementos del dubstep se incorporaron al pop, el rock y el hip-hop, ganando una amplia gama de oyentes.
@@ -117,3 +117,14 @@ Se formó una cultura dubstep exclusivamente japonesa a través de eventos celeb
 Más que un simple género, el dubstep se ha convertido en un paisaje sonoro icónico de la cultura urbana del siglo XXI.
 
 Las vibraciones de graves que se experimentan a través del sistema de sonido de un club van más allá del sentido del oído, sacudiendo el cuerpo y el espacio y conectando a los oyentes entre sí. Dubstep continúa evolucionando y seguirá siendo un apasionante terreno de exploración musical para las nuevas generaciones.
+
+---
+
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7ZdHzysA-g0?si=KNHLYPiuF8HQgKBm" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---

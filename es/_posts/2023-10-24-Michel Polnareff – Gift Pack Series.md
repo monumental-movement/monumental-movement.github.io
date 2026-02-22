@@ -14,7 +14,7 @@ title: Michel Polnareff – Serie de paquetes de regalo
 ---
 
 
-Epic lanzó la serie Michel Polnareff – Gift Pack en 1973.
+La serie Michel Polnareff – Gift Pack fue lanzada por Epic en 1973.
 
 #### Lista de canciones
 ```md

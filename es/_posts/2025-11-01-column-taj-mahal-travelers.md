@@ -19,7 +19,7 @@ title: '[Columna] Taj Mahal Travel Group y Takehisa Kosugi: un viaje para libera
 ## I. Punto de partida en los años 60: Más allá de las instituciones musicales
 
 
-Texto: mmr｜Tema: Una peregrinación sonora donde la improvisación y los sonidos ambientales se entrelazan - Un registro de un viaje al exterior de la música, dibujado por Takehisa Kosugi y el Taj Mahal Travel Group
+Texto: mmr｜Tema: Una peregrinación sonora donde se entrelazan la improvisación y los sonidos ambientales - Un registro de un viaje al exterior de la música dibujado por Takehisa Kosugi y el Taj Mahal Travel Group
 
 
 A principios de la década de 1960, la escena musical de vanguardia japonesa florecía silenciosamente.
@@ -49,7 +49,7 @@ color: #fff;
 </style>
 
 
-##II. "Música Colectiva" y el encuentro con John Cage (1964)
+##II. “Música Colectiva” y el encuentro con John Cage (1964)
 
 En 1964, Kosugi formó Collective Music con Toru Takemitsu y Kei Ichiyanagi.
 Ese mismo año, actuó con John Cage y David Tudor cuando la Merce Cunningham Dance Company visitó Japón por primera vez.
@@ -108,7 +108,7 @@ flowchart TD
 </div>
 
 **Nota**: Este itinerario es una ruta aproximada basada en registros y testimonios reales.
-Las actuaciones de improvisación en diversos lugares abarcaron desde instalaciones culturales locales, al aire libre hasta bases para movimientos estudiantiles.
+Las actuaciones de improvisación en varios lugares abarcaron desde instalaciones culturales locales, al aire libre, hasta bases para movimientos estudiantiles.
 
 ---
 
@@ -133,7 +133,7 @@ Es muy elogiado como un "paisaje sonoro" que combina perfectamente tiempo, espac
 
 No hay ritmo ni melodía en el álbum.
 En cambio, el sonido del viento, los sonidos electrónicos, las voces y la resonancia de las cuerdas se cruzan suavemente,
-Presenta una experiencia que invita al oyente a ir "al interior del sonido".
+Presenta una experiencia que invita al oyente a "dentro del sonido".
 
 ---
 
@@ -147,7 +147,7 @@ También influyó en Brian Eno y Robert Ashley.
 
 ---
 
-##IX. Actividades y evaluación en años posteriores.
+##IX. Actividades posteriores y evaluación.
 
 Desde la década de 1980, Kosugi se ha desempeñado como director musical de la Merce Cunningham Dance Company.
 Si bien heredó la filosofía de John Cage, profundizó en la integración de la danza y el sonido.

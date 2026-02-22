@@ -65,7 +65,7 @@ En pocas palabras, el sonido de EBM es "inorgánico y físico". Cuenta con los s
 
 <hora>
 
-#### voz
+#### Voz
 
 - Voces bajas e inorgánicas, en su mayoría voces masculinas.
 
@@ -210,5 +210,15 @@ Como sugiere el nombre, EBM es "música corporal electrónica". Era más que sim
 Actualmente, la influencia de la EBM se está extendiendo por muchos campos, desde la cultura de clubes y festivales hasta la escena del bricolaje, el arte y la moda.
 
 Y sobre todo——
-El “calor” que habita dentro de ese ritmo inorgánico mueve el cuerpo.
+El “calor” que reside en ese ritmo inorgánico mueve el cuerpo.
 Ése es el atractivo esencial de la EBM.
+
+---
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hylMPb5iS7M?si=35mFJOgSczFpbhYp" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---

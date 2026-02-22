@@ -51,11 +51,11 @@ Live Coding ha llevado esto al siglo XXI y ha recuperado la funcionalidad físic
 
 En 2004, Alex McLean y Nick Collins propusieron la comunidad "TOPLAP".
 El lema era "¡Muéstranos tus pantallas!"
-Al compartir el proceso (código) de producción de sonido con la audiencia,
+Al compartir el proceso de creación de sonidos (códigos) con la audiencia,
 La idea era convertir el proceso de producción en sí en una actuación.
 
 Entornos como TidalCycles, SuperCollider y Sonic Pi son
-Permite el acto de “escribir sonidos a mano” de forma improvisada,
+Permitiendo improvisar el acto de “escribir sonidos a mano”,
 Aportó una nueva naturaleza viva a la música electrónica.
 
 ---
@@ -101,7 +101,7 @@ La relación entre ambos no es de "dominación y subordinación", sino más bien
 
 ---
 
-## Capítulo 5: Ejemplo de colaboración entre IA y Live Coding
+## Capítulo 5: Ejemplos de colaboración entre IA y Live Coding
 
 - **Experimento AI-DJ (2023, Festival CTM de Berlín)**
 Un Live Coder humano juega en TidalCycles y la IA analiza los BPM, la armonía y la disposición espacial.
@@ -145,7 +145,7 @@ El acto de seleccionar y editar a partir de ahí es en sí mismo una "actuación
 
 Además, al integrar el entorno Live Coding con IA,
 También existe la posibilidad de que se convierta en una "interfaz rápida = rendimiento".
-Ya no necesitas un mouse o MIDI.
+Ya no se necesita mouse ni MIDI.
 **Se acerca la era en la que el lenguaje y los pensamientos se convierten en sonidos**.
 
 ---
@@ -197,7 +197,7 @@ Estamos tratando de crear una **cultura de compartir la "inteligencia de la actu
 
 Algoritmos y humanos, máquinas y emociones.
 Donde los límites se derriten,
-Se levanta un nuevo horizonte musical.
+Se levantará un nuevo horizonte musical.
 
 > Los acordes trascienden las partituras y la IA aprende a improvisar.
 > La música ya no es una “patente exclusiva humana”;

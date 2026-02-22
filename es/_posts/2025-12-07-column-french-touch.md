@@ -23,7 +23,7 @@ Texto: mmr｜Tema: Cómo se conecta la reevaluación del house francés de la d�
 Acerca de los sintetizadores analógicos, la cultura discográfica y las técnicas de filter house
 
 A finales de la década de 2020, **French Touch** (casa francesa) está siendo reevaluada tanto en la cultura de clubes como en Internet. En términos de actuaciones de DJ, canciones como "Music Sounds Better With You" de Stardust y "1999" de Cassius están conmoviendo al público más joven nuevamente, y los primeros trabajos de Daft Punk están encontrando nuevas audiencias a través de reediciones en vinilo.
-Además, a medida que los productores nacionales y extranjeros incorporan activamente *sintetizadores analógicos, texturas de cinta, rugosidad de muestreo y textura de labios de vinilo*, se conectan naturalmente con el contexto de **Nu Disco**, que se estableció a finales de la década de 2000.
+Además, a medida que los productores nacionales y extranjeros incorporan activamente *sintetizadores analógicos, texturas de cinta, la aspereza del muestreo y la textura de los labios de vinilo*, se conectan naturalmente con el contexto de **Nu Disco**, que se estableció a finales de la década de 2000.
 
 Este fenómeno no es sólo nostalgia.
 Más bien, es precisamente porque el entorno digital se ha vuelto completamente omnipresente que
@@ -51,7 +51,7 @@ color: #fff;
 ## 2. Establecimiento del toque francés: situación en París a finales de los años 1990
 ### ● Antecedentes: Un encuentro entre house y discoteca
 A mediados de la década de 1990, la escena de clubes parisinos absorbió la música house estadounidense mientras formaba una estructura única que ponía en primer plano los samples disco/soul.
-Si bien estaba fuertemente influenciado por el Chicago House, el house comenzó a funcionar como un nuevo tipo de "música pop", ya que se mezclaba con una "sensación melódica sofisticada" única en Europa.
+Si bien la influencia del Chicago House era fuerte, el house comenzó a funcionar como un nuevo tipo de "música pop" al mezclarlo con el "sentimiento melódico sofisticado" exclusivo de Europa.
 
 ### ● Existencia de etiqueta/base
 - **Roulé (Thomas Bangalter)**
@@ -182,7 +182,7 @@ Estos artistas actualizaron el gen del French Touch en un contexto Nu Disco.
 ## 8. Explicación detallada de los sintetizadores analógicos y la “cultura discográfica”
 
 ### ◆ ① Razones por las que se prefirieron los sintetizadores analógicos
-- El módulo de filtro es un circuito físico → La fluctuación del sonido es natural
+- El módulo de filtro es un circuito físico → Las fluctuaciones del sonido son naturales
 - rico en saturación
 - Los componentes de alta frecuencia son redondos y combinan bien con los sonidos disco
 
@@ -277,7 +277,7 @@ Este ha sido un legado constante desde "Da Funk" de Daft Punk.
 
 ### ◆ Del muestreo a la “repetición”
 Nu Disco es más que un simple sampleo.
-**Hay muchos estilos que "reconstruyen la música disco" utilizando sintetizadores reales**.
+**Hay muchos estilos que ``reconstruyen la música disco'' con sintetizadores reales**.
 Se puede decir que esto es una realización de la estética French Touch con un "sonido moderno y pulido".
 
 ---

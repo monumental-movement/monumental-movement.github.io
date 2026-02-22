@@ -191,9 +191,9 @@ Esto dio lugar a una tendencia que se centraba en la textura.
 
 ---
 
-- Poesía/uso filosófico.
+- Poesía/lenguaje filosófico.
 - Beats cross jazz/abstracto/lo-fi.
-- La densidad y abstracción de las palabras son elevadas.
+- Alta densidad y abstracción de palabras.
 
 ---
 
@@ -272,6 +272,6 @@ flowchart TD
 El hip hop experimental/abstracto no es sólo un género derivado del hip hop, sino un proyecto intelectual que deconstruye estructuras rítmicas, narrativas, cultura de muestra y enfoques de música electrónica, y continúa hasta el día de hoy.
 
 La música electrónica de múltiples capas de Flying Lotus, la poesía rap abstracta iniciada por Shabazz Palaces, el swing no lineal de J Dilla, los experimentos de ruido de Clipping.
-Continúan funcionando como "laboratorios para el futuro del hip-hop".
+Siguen funcionando hoy como un "laboratorio para el futuro del hip-hop".
 
 ---

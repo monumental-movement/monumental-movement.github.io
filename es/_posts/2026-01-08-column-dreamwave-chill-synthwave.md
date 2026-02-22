@@ -67,7 +67,7 @@ En términos de tono, los pads Juno, el piano eléctrico DX, el bajo procesado c
 
 ## Relación con la estética visual
 
-Dreamwave / Chill Synthwave se puede entender más profundamente cuando se combina con imágenes que con la música misma. Con frecuencia se hace referencia a ciudades al anochecer, luces de neón, costas, viajes nocturnos y texturas tipo VHS.
+Dreamwave / Chill Synthwave se puede entender más profundamente cuando se combina con imágenes que con la música sola. Con frecuencia se hace referencia a ciudades al anochecer, luces de neón, costas, viajes nocturnos y texturas tipo VHS.
 
 Estos elementos visuales están sincronizados con el tempo y el diseño del tono de la canción, recordando al oyente una escena que ha visto antes en algún lugar. Las imágenes desempeñan el papel de presentar la situación más que de contar una historia.
 
@@ -106,7 +106,7 @@ Timecop1983 es ​​un artista con fuertes aspectos Chill Synthwave, y se carac
 
 Aunque la música de Timecop1983 es ​​similar a la música de fondo, está diseñada para que, si escuchas con atención, puedas discernir cambios mínimos en el tono y las opciones armónicas.
 
-> La esencia de Chill Synthwave es que se integra en la vida diaria de los oyentes.
+> La esencia de Chill Synthwave es que se integra en la vida diaria del oyente.
 
 ---
 

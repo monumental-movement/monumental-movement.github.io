@@ -61,7 +61,7 @@ color: #fff;
 
 * **Productores representativos**: Dr. Dre, DJ Quik, Battlecat
 * **Disqueras principales**: Death Row Records, Priority, Ruthless
-* **Contexto cultural**: G-Funk estaba estrechamente asociado con la cultura lowrider y automovilística, con su sampleo de funk de los 70 y su denso bajo sintetizado.
+* **Antecedentes culturales**: G-Funk estaba estrechamente asociado con la cultura lowrider y automovilística, con su sampleo de funk de los 70 y su denso bajo sintetizado.
 * **Conflicto Este-Oeste**: El conflicto entre la Costa Este y la Costa Oeste se intensifica, lo que lleva a la tragedia de 2Pac y The Notorious B.I.G.
 * **Video/Moda**: Los MV que muestran lowriders, playas y las calles de South Central se están volviendo populares. Dickies, Chuck Taylor y pañuelos son icónicos.
 
@@ -183,6 +183,15 @@ Desde la década de 2000, la diversidad se ha ampliado con el éxito de actos un
 
 Más que un simple género musical, el hip-hop de la región continúa influyendo en los mensajes sociales, la moda, el cine y la cultura en general, y continúa inspirando a artistas y fanáticos de todo el mundo.
 
+
+---
+
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CkZo_BMM120?si=qlhYZFYXqZj43i0R" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 

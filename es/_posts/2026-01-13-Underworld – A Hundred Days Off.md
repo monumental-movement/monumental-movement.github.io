@@ -14,7 +14,7 @@ title: Inframundo – Cien días libres
 ---
 
 
-"A Hundred Days Off" es el sexto álbum lanzado por el grupo británico de música electrónica Underworld en 2002, y el primer álbum después de que Darren Emerson dejara el grupo en 2001. Contiene el himno "Two Months Off". (edición japonesa)
+"A Hundred Days Off" es el sexto álbum lanzado por el grupo británico de música electrónica Underworld en 2002, y el primer álbum después de que Darren Emerson dejara el grupo en 2001. Contiene el himno "Two Months Off". (versión japonesa)
 
 #### Lista de canciones
 ```md

@@ -24,7 +24,7 @@ Texto: mmr｜Tema: Posicionar drones modulares como una intersección de la hist
 
 Modular Drone/Experimental Drones (en lo sucesivo denominados "drones modulares") es una tendencia de experimentos acústicos centrados en sonidos sostenidos y se ha desarrollado en estrecha conexión con las características estructurales de los sintetizadores modulares. Un continuo de sonido que no asume una melodía o un ritmo crea tiempo cambiando minuciosamente elementos como el tono, el timbre, la intensidad, la fase y la disposición espacial. Esta música enfatiza la "existencia" más que la "progresión", y los cambios aparecen como transiciones de estado más que como eventos.
 
-Lo importante de los drones modulares es que el objeto de la escucha no es la persistencia de un solo sonido, sino el proceso mediante el cual múltiples rutas de señal interactúan entre sí. Los sintetizadores modulares le permiten conectar libremente elementos como osciladores, filtros, amplificadores, envolventes, LFO y voltajes aleatorios, haciendo audibles los límites entre estabilidad e inestabilidad, control y azar. Al combinar esta característica con la forma de un dron, se creó una expresión acústica que amplía el sentido del tiempo.
+Lo importante en los drones modulares es que el objeto de la escucha no es la persistencia de un solo sonido, sino el proceso mediante el cual múltiples rutas de señales interactúan entre sí. Los sintetizadores modulares le permiten conectar libremente elementos como osciladores, filtros, amplificadores, envolventes, LFO y voltajes aleatorios, haciendo audibles los límites entre estabilidad e inestabilidad, control y azar. Al combinar esta característica con la forma de un dron, se creó una expresión acústica que amplía el sentido del tiempo.
 
 ---
 
@@ -52,7 +52,7 @@ En el siglo XX, la industrialización y la electrificación progresaron y el rui
 
 ## Combinación de sonidos electroacústicos y sostenidos.
 
-En los inicios de la música electrónica, los tonos sostenidos eran el elemento que indicaba más directamente las características de los sonidos electrónicos. A diferencia de los instrumentos físicos, la forma de onda continua producida por un oscilador puede teóricamente mantenerse indefinidamente. Esta característica permitió romper con la estructura musical tradicional que divide el tiempo en tiempos.
+En los inicios de la música electrónica, los tonos sostenidos eran el elemento que indicaba más directamente las características de los sonidos electrónicos. La forma de onda continua generada por un oscilador, a diferencia de un instrumento físico, en teoría puede mantenerse indefinidamente. Esta característica permitió romper con la estructura musical tradicional que divide el tiempo en tiempos.
 
 En la música en cinta y en la música electroacústica, se intentó mantener los sonidos durante largos períodos de tiempo o realizar cambios graduales, pero el control en tiempo real tenía limitaciones. Aquí es donde entra en juego el concepto de control de tensión. El mecanismo para controlar el tono y el timbre mediante voltaje se convirtió en la base de los sintetizadores modulares posteriores y proporcionó un medio para cambiar dinámicamente los sonidos sostenidos.
 
@@ -178,7 +178,7 @@ Además, al aplicar diferentes cambios espectrales a los lados izquierdo y derec
 
 ### Fusión de reverberación y sonido sostenido
 
-Los tiempos de reverberación prolongados no son sólo un efecto en los drones, sino que funcionan como parte de la estructura acústica. Cuando el sonido original y el sonido reverberante no se pueden separar, el inicio y el final del sonido se vuelven ambiguos y el sonido sostenido adquiere un infinito.
+Los tiempos de reverberación prolongados no son sólo un efecto de los drones, sino que funcionan como parte de la estructura acústica. Cuando el sonido original y el sonido reverberante no se pueden separar, el inicio y el final del sonido se vuelven ambiguos y el sonido sostenido adquiere un infinito.
 
 > "La reverberación no adorna el sonido, sino que funciona como un dispositivo que alarga el tiempo mismo."
 
@@ -204,13 +204,13 @@ Los parches totalmente autónomos presentan cambios impredecibles a lo largo del
 
 ### Sonidos sostenidos en un entorno en vivo.
 
-En la actuación en vivo de drones modulares, la propia longitud temporal se convierte en un componente. No es necesario que el desarrollo se produzca en un corto período de tiempo, y se comparte el proceso por el cual el espacio acústico cambia gradualmente de calidad.
+En la actuación en vivo de drones modulares, la propia longitud temporal se convierte en un componente. No es necesario que el desarrollo se lleve a cabo en un corto período de tiempo, y se comparte el proceso por el cual el espacio acústico cambia gradualmente de calidad.
 
 La presencia de parches y cables visualmente expuestos enfatiza los aspectos instrumentales de cómo se produce el sonido.
 
 ### Compatibilidad con el espacio expositivo
 
-El sonido sostenido tiene una gran afinidad con las galerías y espacios de instalación. Los visitantes no tienen que entrar y salir del espacio acústico en ningún momento para escucharlo completo. Los drones modulares tienen una estructura que puede soportar incluso una escucha fragmentada.
+El sonido sostenido tiene una gran afinidad con las galerías y espacios de instalación. Los visitantes no necesitan entrar y salir del espacio acústico en ningún momento para escuchar todo. Los drones modulares tienen una estructura que puede soportar una escucha fragmentada.
 
 ---
 
@@ -244,3 +244,11 @@ Lo importante en esta música no es lo que sucede, sino qué estado se mantiene 
 
 ---
 
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xS1fSYwL37E?si=NJ1GuO6wQbEfPQCP" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---

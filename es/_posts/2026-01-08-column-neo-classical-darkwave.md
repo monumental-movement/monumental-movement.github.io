@@ -160,7 +160,7 @@ C --> D[ジャンル名の定着と再評価]
 
 ## Resumen
 
-Neo-Classical Darkwave es un campo musical que se estableció conectando la música sacra, la armonía clásica y la estética simbolista con la tecnología de grabación y la cultura oscura desde finales del siglo XX en adelante, en lugar de simplemente reproducir los modismos musicales del pasado. No existe un único inventor o centro en el proceso de su formación, sino más bien una convergencia gradual de múltiples regiones, orígenes y prácticas individuales.
+Neo-Classical Darkwave es un campo musical que se creó conectando la música sacra, la armonía clásica y la estética simbolista con la tecnología de grabación y la cultura oscura desde finales del siglo XX en adelante, en lugar de simplemente reproducir los modismos musicales del pasado. No existe un único inventor o centro en el proceso de su formación, sino más bien una convergencia gradual de múltiples regiones, orígenes y prácticas individuales.
 
 Esta música no apunta a la inmediatez consuntiva, sino que tiene una estructura que supone una escucha repetida y una inmersión espacial. Como resultado, los géneros funcionan como archivos culturales que permanecen referenciados a lo largo del tiempo, manteniendo al mismo tiempo una distancia de las esferas comerciales de gran escala.
 

@@ -17,7 +17,7 @@ title: '[Columna] Origen del Northern Soul y su popularidad en Japón'
 
 ## ¿Qué es el Alma del Norte?
 
-Texto: mmr｜Tema: Cómo Northern Soul, que nació en Inglaterra en la década de 1960, se extendió a Japón y obtuvo una aceptación y apoyo únicos, sobre la historia, la cultura y la escena local.
+Texto: mmr｜Tema: Cómo Northern Soul, que nació en Inglaterra en la década de 1960, se extendió a Japón y obtuvo una aceptación y apoyo únicos, sobre la historia, la cultura y el campo.
 
 
 El término Northern Soul es tanto un género musical como un concepto que se refiere a actitudes y prácticas culturales específicas. Es una cultura musical que fue apoyada con entusiasmo en la escena de clubes del norte de Inglaterra, centrándose principalmente en la música soul de ritmo rápido producida en Estados Unidos a mediados y finales de la década de 1960, especialmente canciones en sellos menores que no lograron éxito comercial.
@@ -61,7 +61,7 @@ Lo importante en este contexto es la distancia física y psicológica entre el n
 ## Relación con el alma americana
 
 
-La base musical del Northern Soul radica en la música soul producida en Estados Unidos. Sin embargo, muchos de estos fueron sencillos lanzados por pequeños sellos en ciudades locales, en lugar de lanzamientos de sellos importantes como Motown.
+La base musical del Northern Soul radica en la música soul producida en Estados Unidos. Sin embargo, muchos de estos no eran trabajos de sellos importantes como Motown, sino sencillos lanzados por pequeños sellos en ciudades regionales.
 
 Un DJ de club británico descubre obras de artistas desconocidos grabadas en Detroit, Chicago, Los Ángeles, Filadelfia e incluso regiones del sur como Alabama y Texas. Aunque estas canciones nunca llegaron a las listas de Estados Unidos, tenían el poder de incendiar las pistas de baile en el norte de Inglaterra.
 
@@ -128,7 +128,7 @@ En Japón, Northern Soul no se reprodujo de la misma forma que en Gran Bretaña.
 
 Tiende a enfatizar la calidad del sonido de los discos, la rareza de los discos y el compromiso con los discos originales más que con la danza, y se caracteriza por su fuerte conexión con la cultura del coleccionista. Por otro lado, se mantiene la esencia de la música que se puede bailar y se siguen realizando eventos orientados a la danza.
 
-> El Northern Soul japonés se ha establecido ajustando de manera única el equilibrio entre aprecio y fisicalidad.
+>El Northern Soul de Japón se ha establecido ajustando de manera única el equilibrio entre aprecio y fisicalidad.
 
 ---
 

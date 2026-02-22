@@ -29,7 +29,7 @@ title: '[Columna] Dego & Kaidi y firma sonora'
 Texto: mmr｜Tema: EUK Sobre la intersección de Broken Beat y la música negra global
 
 
-A finales de la década de 1990, surgió un nuevo movimiento musical en la cultura de clubes del oeste de Londres. Es un género llamado ``Broken Beat'' (también conocido como ``Bruk''), que difiere del tradicional 4/4 house o drum and bass, e incorpora audazmente ritmos complejos y vibrantes y elementos de jazz, funk y soul. Más que un simple estilo de música, Broken Beat se desarrolló a partir de las comunidades negras del oeste de Londres, la cultura de clubes y las redes creativas underground.
+A finales de la década de 1990, surgió un nuevo movimiento musical en la cultura de clubes del oeste de Londres. Es un género llamado ``Broken Beat'' (también conocido como ``Bruk''), que difiere del tradicional 4/4 house o drum and bass, e incorpora audazmente ritmos complejos y vibrantes y elementos de jazz, funk y soul. Más que un simple estilo de música, Broken Beat se desarrolló a partir de la comunidad negra del oeste de Londres, la cultura de clubes y las redes creativas underground.
 
 <div class="mermaid">
 flowchart TD
@@ -77,7 +77,7 @@ Kaidi Tatham es una multiinstrumentista, productora y compositora que domina el 
 
 ## Escena de Broken Beat y 2000Black
 
-Broken Beat es un producto de la cultura de club que se desarrolló en el oeste de Londres. IG Culture, Bugz in the Attic, Neon Phusion, Afronaught y otros fueron pioneros en la escena y, al combinar libremente elementos de jazz, soul, funk, latín, hip-hop y house, establecieron una posición única como música de club para adultos.
+Broken Beat es un producto de la cultura de club que se desarrolló en el oeste de Londres. Pioneros como IG Culture, Bugz in the Attic, Neon Phusion y Afronaught formaron la escena y, al combinar libremente elementos de jazz, soul, funk, latín, hip-hop y house, establecieron una posición única como música de club para adultos.
 
 <div class="mermaid">
 flowchart LR
@@ -90,7 +90,7 @@ flowchart LR
 
 ---
 
-2000Black jugó un papel central en esta tendencia. La gestión del sello por parte de Dego generó muchos artistas y lanzamientos de Broken Beat, lo que lo convirtió en un centro cultural para la música negra del Reino Unido. En este entorno también se nutrió la colaboración entre Kaidi y Dego, produciendo numerosos éxitos de club y lanzamientos de estudio.
+2000Black jugó un papel central en esta tendencia. La gestión del sello por parte de Dego generó muchos artistas y lanzamientos de Broken Beat, lo que lo convirtió en un centro cultural para la música negra del Reino Unido. En este entorno también se fomentó la colaboración entre Kaidi y Dego, produciendo numerosos éxitos de club y lanzamientos de estudio.
 
 ---
 
@@ -112,7 +112,7 @@ timeline
     2017–2025 : ソロ・コラボ活動継続
 </div>
 
-Este sello funcionó como plataforma para la búsqueda de la "escultura sonora" como un collage creativo, trascendiendo las formas y géneros musicales. Los artistas británicos de Broken Beat, en particular Dego & Kaidi, se sintieron atraídos por el sello y encontraron un lugar para expresar su música en nuevos contextos.
+Este sello funcionó como plataforma para la búsqueda de la "escultura sonora" como un collage creativo, trascendiendo las formas y géneros musicales. Los artistas británicos de Broken Beat, sobre todo Dego & Kaidi, se sintieron atraídos por el sello y encontraron un lugar para expresar su música en nuevos contextos.
 
 ---
 

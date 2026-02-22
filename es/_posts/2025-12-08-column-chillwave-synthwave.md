@@ -50,7 +50,7 @@ Las características son las siguientes.
 
 - **Grabación de baja fidelidad**
 - **Textura suave centrada en sintetizador + sampler**
-- **La voz se funde con la reverberación**
+- **Las voces se funden en la reverberación**
 - **Influenciado por el pop urbano y el dream pop de los 80**
 - **Imágenes como colores pálidos y fotografías borrosas**
 
@@ -99,7 +99,7 @@ Synthwave creció como un gran género independiente en Internet a lo largo de l
 
 | Elemento | Onda fría | Onda sintética |
 |------|------------|------------|
-| Principales períodos | 2009-2013 | 2005-presente |
+| Principales periodos | 2009-2013 | 2005-presente |
 | Estética | Recuerdos borrosos, verano, nostalgia | Neón, ciudades futuristas, películas de los 80 |
 | Sonido | Orientado a lo-fi/pop de ensueño | Sonido nítido centrado en el sintetizador analógico |
 | Representante | Descolorido, indio de neón | FM-84, El asesinato de Mitch, La medianoche |
@@ -219,7 +219,7 @@ Synthwave estuvo fuertemente influenciado por la música electrónica y las imá
 
 ## 9-2. Contexto del renacimiento digital
 
-Chillwave hizo un uso extensivo de expresiones visuales que recordaban la cultura de los medios personales de la década de 1990 (VHS, videocámaras, imágenes caseras junto al mar) y era compatible con la cultura de la fotografía de baja fidelidad de Internet (como los primeros Instagram).
+Chillwave hizo un uso extensivo de expresiones visuales que recordaban la cultura de los medios personales de la década de 1990 (VHS, videocámaras, imágenes caseras junto al mar) y era compatible con la cultura fotográfica de baja fidelidad de Internet (como los primeros Instagram).
 
 El **fondo de cuadrícula + tipografía de neón** de Synthwave creado por diseñadores gráficos se ha estandarizado en todo el mundo y también se ha vuelto popular en videos mixtos en YouTube.
 

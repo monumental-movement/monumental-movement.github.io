@@ -91,7 +91,7 @@ color: #fff;
 ### Mercedes-Benz
 
 - **Modelo representativo**: Clase S (Burmester 3D envolvente, máx. 23 altavoces, 1.500W)
-- **Tecnología**: Optimizada con DSP para reproducir características acústicas uniformes en cada ubicación del automóvil
+- **Tecnología**: optimizada con DSP para reproducir características acústicas uniformes en cada ubicación del automóvil
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kMQnxK2CLgQ?si=--nEKP_C-P9mTh_c" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -268,12 +268,12 @@ Ahora que avanza el cambio hacia los vehículos eléctricos, el elemento simból
 La acústica del interior del automóvil está empezando a adquirir un nuevo papel.
 Es una "sala de escucha en movimiento" y un "universo acústico personal".
 Los fabricantes de todo el mundo ya no buscan potencia ni silencio;
-**"¿Qué tipo de sonidos puedes escuchar al correr?"** Este es un nuevo valor de experiencia.
+**"¿Qué tipo de sonidos puedes escuchar mientras corres?"** Este es un nuevo valor de experiencia.
 
 El audio del coche nunca deja de evolucionar.
 El diseño acústico se corrige mediante IA y el asiento se convierte en una placa resonante, cambiando el campo sonoro según los latidos del corazón y el estado de ánimo del conductor.
 Terminaremos con un reino de igualdad sonora que trasciende países y marcas.
 El acto de escuchar mientras se corre agudiza una vez más la sensibilidad humana.
 
-Lo que nos cuentan los coches no es el viaje, sino el viaje del sonido.
+Lo que nos dicen los coches no es la carretera, sino el viaje del sonido.
 Y ese viaje apenas ha comenzado.

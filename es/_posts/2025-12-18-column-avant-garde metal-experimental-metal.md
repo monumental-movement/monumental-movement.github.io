@@ -45,7 +45,7 @@ color: #fff;
 
 ## Supuestos estructurales en metal.
 
-Para entender el metal de vanguardia, primero es necesario aclarar cuál es la premisa detrás del metal normal.
+Para entender el metal de vanguardia, primero es necesario aclarar en qué se basa el metal normal.
 
 El metal tradicional se ha formado como una colección de supuestos estructurales como los siguientes.
 
@@ -91,7 +91,7 @@ En su música, los riffs están presentes pero sin fuerza motriz, los compases e
 
 ## Principio de diseño de riffs de Gorguts
 
-Los riffs de Gorguts rechazan deliberadamente la gravedad de la repetición. Las longitudes de las frases son desiguales, las relaciones de tono no tienen resolución y los puntos de inicio y fin se tratan por igual.
+Los riffs de Gorguts rechazan deliberadamente la gravedad de la repetición. Las longitudes de las frases son desiguales, las relaciones de tono no tienen resolución y los puntos inicial y final se tratan por igual.
 
 El riff no es un dispositivo que impulsa la canción hacia adelante, sino que sirve como una sección transversal momentánea para presentar un estado estructural.
 
@@ -154,7 +154,7 @@ flowchart TD
 
 ## Respiración rítmica
 
-Su ritmo no es un latido, sino más bien parecido a la respiración o a la duración de una historia. El tempo no es fijo y la batería juega un papel en la regulación de la densidad espacial en lugar de ser un cronometrador.
+Su ritmo no es un latido, sino más bien un suspiro o la duración de una historia. El tempo no es fijo y la batería juega un papel en la regulación de la densidad espacial en lugar de ser un cronometrador.
 
 ---
 
@@ -177,7 +177,7 @@ En este trabajo la separación de estructuras va aún más allá. Las canciones 
 | Método | Demolición | Capas |
 | Hora | Ruptura | Paralelo |
 | Ritmo | Destrucción de la sensación del pulso | Control de la respiración |
-| Disonancia | Armamento estructural | Dirección espacial |
+| Disonancia | Armamento estructural | Producción espacial |
 
 ---
 

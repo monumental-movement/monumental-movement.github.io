@@ -22,7 +22,7 @@ title: '[Columna] Parlamento / Funkadelic: La historia completa de la revolució
 Texto: mmr｜Tema: Sobre la cosmovisión del P-Funk, que todavía existe como base del hip-hop, R&B, electro, arte y moda actuales.
 
 
-En la historia de la música negra estadounidense de la segunda mitad del siglo XX, **Parliament/Funkadelic (comúnmente conocido como P-Funk)** es el grupo que combina la mayor mitología y la innovación sonora.
+En la historia de la música negra estadounidense en la segunda mitad del siglo XX, **Parliament/Funkadelic (comúnmente conocido como P-Funk)** es el grupo que combina el mayor mito y la innovación sonora.
 Dirigido por George Clinton, este colectivo era más que una simple banda, era un proyecto gigantesco que combinaba una historia multiverso, una sensibilidad tecnológica futurista y los ritmos completamente físicos del funk.
 
 P-Funk queda claro cuando lo entiendes en términos de los siguientes tres ejes.
@@ -120,7 +120,7 @@ Lo que hace que P-Funk sea único no es sólo la fuerza de su ritmo, sino su "co
 ### ■ 1. “Rubbery Bass” de Bootsy Collins
 
 * Rebote de octava
-* Nori relajado
+* Ura nori relajado
 * Uso intensivo de síncopa.
 *Usando Distorsión y Auto-Wah
 
@@ -162,7 +162,7 @@ El Minimoog de Barney Worrell trajo por primera vez "sonidos electrónicos cósm
 
 ### ■ Parlamento “Conexión de la nave nodriza” (1975)
 
-* La obra central del mito del P-Funk
+* La obra central de la mitología P-Funk.
 * Éxitos globales como “Give Up the Funk” y “Mothership Connection”
 * Maximiza la teatralidad en vivo.
 
@@ -198,7 +198,7 @@ graph TD
 
 P-Funk dejó tres impactos importantes en la cultura negra.
 
-### ■ (1) Expansión de la expresión de ciencia ficción negra (afrofuturismo)
+### ■ (1) Expansión de la expresión negra de ciencia ficción (afrofuturismo)
 
 Junto con Sun Ra, P-Funk creó una base cultural para el futuro de los negros.
 
@@ -223,24 +223,27 @@ En particular, los siguientes artistas realizaron muestras extensas.
 ## Capítulo 8: Cronología de P-Funk (Detalles)
 
 <div class="mermaid">
-
 timeline
-    title Parliament / Funkadelic 年表
-    1950 : ジョージ・クリントン、The Parliaments 結成
-    1967 : "I Wanna Testify" が小ヒット
-    1968 : Funkadelic 始動（Westbound Records）
-    1970 : 『Funkadelic』デビュー
-    1971 : 『Maggot Brain』発表
-    1974 : Parliament と Funkadelic が並行で活動
-    1975 : 『Mothership Connection』リリース
-    1977 : Bootsy’s Rubber Band が成功
-    1978 : 『One Nation Under a Groove』全米1位
-    1980 : P-Funk名義の活動が縮小
-    1990s : G-Funkムーブメントで再評価
-    1997 : George Clinton、Rock & Roll Hall of Fame入り
-    2010s : クリントン、若手と共演しつつツアー継続
-
+    title Parliament / Funkadelic History
+    1950 : George Clinton forms The Parliaments
+    1967 : I Wanna Testify released
+    1968 : Funkadelic begins
+    1970 : Funkadelic debut album
+    1971 : Maggot Brain released
+    1974 : Parallel era
+    1975 : Mothership Connection
+    1977 : Bootsy’s Rubber Band success
+    1978 : One Nation Under a Groove hits No.1
+    1980 : Activity declines
+    1990s : G-Funk revival
+    1997 : Rock & Roll Hall of Fame
+    2010s : Touring continues
 </div>
+
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({ startOnLoad: true });
+</script>
 
 ---
 
@@ -283,21 +286,26 @@ Mientras P-Funk siga en el centro de la música negra que habla del futuro, su n
 
 ---
 
-### Apéndice: Composición en vivo (diagrama de reproducción del Mothership Tour de 1976)
+### Apéndice: Composición en vivo (mapa de reproducción del Mothership Tour de 1976)
 
 <div class="mermaid">
-
 flowchart TD
     Audience((Audience)) --> Stage[Main Stage]
 
-    Stage --> Horns["Horn Section\n(Horny Horns)"]
+    Stage --> Horns["Horn Section<br/>(Horny Horns)"]
     Stage --> Vocals["Vocal Ensemble"]
-    Stage --> Bootsy["Bootsy Collins\n(Bass)"]
-    Stage --> Bernie["Bernie Worrell\n(Keyboards)"]
+    Stage --> Bootsy["Bootsy Collins<br/>(Bass)"]
+    Stage --> Bernie["Bernie Worrell<br/>(Keyboards)"]
     Stage --> Guitar["Guitar Zone"]
-    Stage --> Ship["Mothership\n降臨ギミック"]
-
+    Stage --> Ship["Mothership<br/>降臨ギミック"]
 </div>
 
+---
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZR_KBH5l4Q?si=dio345UiB7uDliAc" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---

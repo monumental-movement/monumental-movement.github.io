@@ -96,7 +96,7 @@ Sin embargo, en los tiempos modernos, la IA predice nuestro "estado de ánimo" b
 Pero también hay peligros acechando allí.
 Es posible que estemos escuchando la "memoria como datos" en lugar de "nuestra propia memoria".
 
-> La nostalgia humana está siendo exteriorizada por algoritmos.
+> La nostalgia humana se exterioriza mediante algoritmos.
 
 En este momento, la música no se convierte en la memoria interna de un individuo, sino en una memoria de red (memoria digital colectiva).
 

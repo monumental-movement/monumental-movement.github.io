@@ -48,12 +48,12 @@ color: #fff;
 
 ## ¿Qué es la meditación Vipassana?
 
-> Vipassana es un antiguo método de meditación que significa "ver las cosas como realmente son" y todavía se practica ampliamente hoy en día como una forma de cultivar una mente equilibrada a través de la autoobservación y la purificación mental. :contentReference[oaicite:2]{index=2}
+> Vipassana es un antiguo método de meditación que significa "ver las cosas como realmente son" y todavía se practica ampliamente hoy en día como una forma de cultivar una mente equilibrada a través de la autoobservación y la purificación mental.
 
 La meditación Vipassana tiene sus raíces en la tradición budista, pero se ha generalizado como una técnica universal separada de la religión.
 Lo básico es **observar cuidadosamente tu respiración y tus sensaciones corporales, y reconocer el flujo natural de pensamientos y emociones**.
 
-Los practicantes modernos a menudo informan que la observación y la conciencia calman las reacciones de la mente, lo que resulta en **una mayor creatividad y concentración**.
+Los practicantes modernos a menudo informan que pueden calmar sus reacciones mentales a través de la observación y la conciencia y, como resultado, **mejoran la creatividad y la concentración**.
 
 ---
 
@@ -91,7 +91,7 @@ Todos estos son ejemplos notables de cómo la meditación tuvo una profunda infl
 
 > Se dice que el músico clásico iraní Omid Lotfi Kamkar practica la meditación Vipassana desde 1997 y es capaz de equilibrar su actuación con la meditación.
 
-Omid Lotfi Kamkar es un artista que se dedica a la música desde la infancia y practica la meditación Vipassana durante unos 20 años. :contentReference[oaicite:12]{index=12}
+Omid Lotfi Kamkar es un artista que se dedica a la música desde la infancia y practica la meditación Vipassana durante unos 20 años.
 De esta manera, hay ejemplos en los que la relación entre la meditación y la música se reconoce no sólo en el rock occidental sino también en el mundo de la música clásica y de Oriente Medio.
 
 ---
@@ -139,7 +139,7 @@ Hay muchos otros artistas que están aprendiendo meditación para la autoexplora
 
 La meditación Vipassana no es sólo un ejercicio de entrenamiento mental, sino una forma de afrontar las verdades profundas de la vida a través de la autoobservación.
 Y también aporta mucha conciencia al mundo de la expresión musical.
-Los músicos presentados en este artículo muestran que la superposición entre la meditación y la música tiene el potencial de profundizar la creatividad y la comprensión de la existencia.
+Los músicos presentados en este artículo muestran que la superposición entre la meditación y la música tiene el potencial de profundizar la creatividad y la percepción de la existencia.
 
 Los momentos en los que resuenan la música y la meditación seguirán aumentando.
 

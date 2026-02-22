@@ -21,7 +21,7 @@ title: '[Columna] Electronic World Fusion: El punto donde se cruzan la acústica
 
 Texto: mmr｜Tema: Desde los orígenes de Electronic World Fusion hasta sus aspectos técnicos, obras representativas, características regionales y significado contemporáneo.
 
-En la segunda mitad del siglo XX, la música electrónica se desarrolló en torno a sintetizadores y samplers, pero al mismo tiempo la música tradicional de todo el mundo comenzó a entrar en la cultura pop occidental. Electronic World Fusion es un área en la que ambos están completamente conectados y es un género poco común donde se cruzan la historia, la cultura y la ideología de la tecnología y la música folclórica.
+En la segunda mitad del siglo XX, la música electrónica se desarrolló en torno a sintetizadores y samplers, pero al mismo tiempo la música tradicional de todo el mundo comenzó a entrar en la cultura pop occidental. Electronic World Fusion es un área donde los dos están completamente conectados y es un género poco común donde la historia, la cultura y la ideología de la tecnología y la música folclórica se cruzan.
 
 Los artistas representativos incluyen **Nitin Sawhney**, que incorpora música clásica india y temas sociales, y **Thievery Corporation**, que fusiona downtempo con diversos elementos musicales de América Latina, Medio Oriente y Asia.
 
@@ -49,7 +49,7 @@ Desde la década de 1970, a medida que los instrumentos musicales electrónicos 
 
 ### 1-2 Muestreo y crítica de música étnica.
 
-En las décadas de 1980 y 1990, con la difusión de los samplers, se incorporaron y reconstruyeron fuentes de música folclórica en nuevos contextos. Sin embargo, también se discutieron cuestiones de ética y derechos al utilizar fuentes sonoras de diferentes orígenes culturales.
+En las décadas de 1980 y 1990, con la difusión de los samplers, las fuentes de la música folclórica se incorporaron y reconstruyeron en nuevos contextos. Sin embargo, también se discutieron cuestiones de ética y derechos al utilizar fuentes sonoras de diferentes orígenes culturales.
 
 ---
 
@@ -57,7 +57,7 @@ En las décadas de 1980 y 1990, con la difusión de los samplers, se incorporaro
 
 ### 2-1 Nitin Sawhney: Representando una sociedad multicultural a través del sonido
 
-Compositor y multiinstrumentista británico. Es conocido por sus obras que combinan la música clásica india con la acústica electrónica, las cuerdas y el jazz.
+Compositor y multiinstrumentista británico. Es conocido por sus obras que fusionan la música clásica india, la acústica electrónica, las cuerdas y el jazz.
 
 #### Funciones musicales
 
@@ -211,7 +211,7 @@ En los tiempos modernos, el análisis y la generación de fuentes de sonido util
 
 * ¿Deberíamos utilizar ritmos étnicos tal como son?
 * ¿Debería sincronizarse con tiempos electrónicos de 4/4?
-* La impresión cambia mucho según el grado de procesamiento.
+* La impresión cambia mucho dependiendo de cuánto procesamiento se realice.
 
 ### 8-2 Tratamiento de escalas y modos
 
@@ -221,7 +221,7 @@ En los tiempos modernos, el análisis y la generación de fuentes de sonido util
 ### 8-3 Importancia de la colaboración
 
 * Grabación en vivo con instrumentistas tradicionales.
-*Debe producirse teniendo en cuenta el trasfondo cultural de la música local.
+*Debe producirse teniendo en cuenta el trasfondo cultural de la música regional.
 
 ---
 
@@ -288,7 +288,7 @@ flowchart TD
 
 ### ◆ Década de 1990: el surgimiento del downtempo y la fusión integrada
 
-* Trip-hop/downtempo va bien con la atmósfera de la música folk
+* Trip-hop/downtempo combina bien con la atmósfera de la música folk
 * Nitin Sawhney, Talvin Singh, Transglobal Underground y otros desempeñan papeles clave en el Reino Unido.
 * Thievery Corporation traduce elementos latinoamericanos y de Medio Oriente a contextos electrónicos urbanos.
 

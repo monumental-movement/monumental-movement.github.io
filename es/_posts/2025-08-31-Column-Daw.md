@@ -171,3 +171,14 @@ Copia de seguridad y control de versiones. Guarde proyectos con frecuencia y uti
 DTM/DAW no es sólo una colección de herramientas, sino un dispositivo cultural que simboliza la "democratización de la producción musical". Desde los días de la edición de cintas y los sintetizadores de hardware, hasta el MIDI y la grabación digital, los VST y los ecosistemas de complementos, la IA y la nube, la tecnología ha reducido las barreras a la expresión y ha creado un entorno donde cualquiera puede ofrecer sonido al mundo.
 
 La tecnología seguirá evolucionando, pero en el centro está la intención del creador: "¿Qué tipo de sonido debemos hacer y por qué?" Al utilizar plenamente la tecnología como herramienta, seguirán naciendo nuevas expresiones musicales.
+
+---
+
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zGr8QOz9Gds?si=7q5fGAYmYO1lLNN2" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---

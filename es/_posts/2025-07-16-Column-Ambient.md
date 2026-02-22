@@ -152,7 +152,7 @@ Artista: [Estrellas de la tapa](https://amzn.to/3Kztvsh), [William Basinski](htt
 
 **●Ambiente Industrial**
 
-Musiciza sonidos de fábrica y ruidos de máquinas.
+Música de sonidos de fábrica y ruidos de máquinas.
 
 **Artista**: [Enfermera con herida](https://amzn.to/46QgJyk), [Bobina](https://amzn.to/48sI7nd)
 
@@ -206,7 +206,7 @@ También está en marcha la fusión con el arte NFT y la música generativa.
 
 El ambiente es música que no está en el centro de la música, sino en la periferia. Es un arte que no se ocupa de la melodía o el ritmo, sino de la transformación de la atmósfera, el tiempo, la sensación y la conciencia.
 
-Es un sonido que trasciende el marco de la música y se adentra en el silencio en medio del ruido de la ciudad y los espacios entre los recuerdos. En lugar de oírlo con los oídos, es un sonido que puedes sentir en el espacio.
+Es un sonido que trasciende el marco de la música y se adentra en el silencio en medio del ruido de la ciudad y los espacios entre los recuerdos. En lugar de oírlo con los oídos, es un sonido que puedes sentir en un espacio.
 
 <hora>
 
@@ -275,9 +275,20 @@ Es un sonido que trasciende el marco de la música y se adentra en el silencio e
 </table>
 </div>
 
+---
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3aay4XuKsoQ?si=DAZIUgSUApmhtjlJ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
 ### Columnas relacionadas
 
 🔗 [[Columna] Ambiente: De "escuchar música" a "sentir música" II](https://monumental-movement.jp/Column-Ambient2)
+
+
+---
+

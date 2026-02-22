@@ -21,7 +21,7 @@ title: '[Columna] Historia completa de la cultura de las ondas de vapor: histori
 Texto: mmr｜Tema: Vaporwave, un movimiento que comenzó como un género musical, es una enorme esfera cultural que rodea la memoria, la historia, los medios y la psicología social.
 
 
-Vaporwave es un fenómeno cultural que nació alrededor de 2010 en la intersección de la cultura de Internet, las emociones posteriores a la crisis financiera y las imágenes archivadas del pasado. Este artículo sintetiza la historia de las etiquetas, la estética, la estructura acústica, la teoría sociocultural, los géneros derivados, la semiótica, la cronología y las ilustraciones, y redefine el vaporwave como un "arte integral nacido en una era de futuro perdido".
+Vaporwave es un fenómeno cultural que nació alrededor de 2010 en la intersección de la cultura de Internet, las emociones posteriores a la crisis financiera y las imágenes archivadas del pasado. Este artículo sintetiza la historia de las etiquetas, la estética, la estructura acústica, la teoría sociocultural, los géneros derivados, la semiótica, la cronología y las ilustraciones, y reinterpreta el vaporwave como "un arte integral nacido en una era de futuro perdido".
 
 ---
 
@@ -49,7 +49,7 @@ El establecimiento de vaporwave está estrechamente relacionado con la cultura d
 - **Beer On The Rug** es el sello que grabó de manera más emblemática los primeros vaporwave, produciendo muchos artistas icónicos como MACINTOSH PLUS, Laserdisc Visions y Luxury Elite.
 - **Constellation Tatsu** ha profundizado su enfoque de la música ambiental, fusionando la cultura de las cintas y la estética espiritual.
 - **Dream Catalog** enfatizó la reconstrucción de la imagen de China y Japón, una visión de ciencia ficción del futuro y la naturaleza fantasmal de las ciudades.
-- **Orange Milk Records** amplió las posibilidades de la música después de Vaporwave en el contexto de la música electrónica experimental y también estableció una posición única en términos de arte.
+- **Orange Milk Records** amplió las posibilidades de la música posterior al vaporwave en el contexto de la música electrónica experimental y también estableció una posición única en términos de arte.
 
 ## Capítulo 2: Transformación de la estética de las ondas de vapor
 
@@ -91,7 +91,7 @@ El sonido de las ondas de vapor se basa en los principios de "atenuación, alarg
 ### 3-4 Método de producción
 
 * Procesamiento de textura SP-404
-* Estiramiento de tiempo extremo de Audacity
+* Estiramiento de tiempo extremo por Audacity
 * Procesamiento de deterioro debido a la grabación real de VHS
 * Corte de ecualización y supresión de compresión en DAW
 
@@ -176,7 +176,7 @@ graph TD
 
 ¿Qué es vaporwave y su definición básica**?
 
-### **5-1　Más allá del “género”**
+### **5-1 Hacia una existencia que trasciende el “género”**
 
 Inicialmente, el vaporwave fue tratado como un "género menor que se originó en Internet", pero
 Después de difundirse durante más de 10 años, se ha convertido en un dispositivo cultural que trasciende los géneros, como se muestra a continuación.

@@ -55,7 +55,7 @@ Después de la década de 2000: hubo un momento en el que se la menospreciaba co
 
 - **Kitaro**: Un magnífico paisaje sonoro que hace pleno uso de los sintetizadores. Conocido mundialmente por la "Ruta de la Seda" de NHK.
 
-- **George Winston**: Un mundo sonoro tranquilo de piano solo. Funciona con un toque estacional, como "diciembre".
+- **George Winston**: Un tranquilo mundo sonoro de piano solo. Funciona con un toque estacional, como "diciembre".
 
 - **Andreas Vollenweider**: Popular por sus fantásticas interpretaciones con el arpa eléctrica.
 
@@ -97,3 +97,14 @@ La música New Age a menudo se describía como "música de fondo", para decirlo 
 En los tiempos modernos, ha sido reabsorbido en géneros como el ambient y el chillout, pero sus ideales (armonía con la naturaleza, introspección y curación) se han vuelto aún más urgentes.
 
 La New Age no es una moda pasajera del pasado, sino una cultura musical que continúa desempeñando un papel silencioso pero seguro en la vida de las personas.
+
+---
+
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/APnXan4Anf8?si=r8eC5X9i9XtZ0NXB" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---

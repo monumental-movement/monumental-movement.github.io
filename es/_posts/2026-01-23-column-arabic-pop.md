@@ -25,7 +25,7 @@ El pop árabe es un término general para la música popular producida en paíse
 
 Esta música se había basado durante mucho tiempo en el consumo local, pero en el siglo XXI, a medida que cambió el entorno de distribución, la exposición al mercado global se expandió rápidamente.
 
-> La internacionalización del pop árabe se vio acelerada por cambios en la estructura de distribución más que por cambios en el estilo musical.
+> La internacionalización del pop árabe se vio acelerada por cambios en la estructura de distribución más que por cambios en los estilos musicales.
 
 ---
 
@@ -50,7 +50,7 @@ color: #fff;
 
 A mediados del siglo XX, Egipto tenía la industria cinematográfica más grande del mundo árabe y la música era una parte integral del cine. Las canciones de Umm Kulthum y Abdel Haleem Hafez se distribuyeron ampliamente a través del cine y la radio, creando una imagen de estrella común en el mundo de habla árabe.
 
-La emisora ​​nacional también desempeñó un papel importante y la música se utilizó como instrumento de integración cultural. Como resultado, el pop árabe adquirió el carácter de "música estándar regional" desde una etapa temprana.
+La emisora ​​nacional también desempeñó un papel importante y la música se utilizó como instrumento de integración cultural. Como resultado, el pop árabe adquirió el carácter de "música regional estándar" desde una etapa temprana.
 
 > La concentración de los medios de comunicación rápidamente conectó el pop árabe con un mercado más amplio.
 
@@ -60,7 +60,7 @@ La emisora ​​nacional también desempeñó un papel importante y la música 
 
 ### Punto de inflexión en la década de 1990
 
-En la década de 1990, con la difusión de la radiodifusión por satélite, nacieron los canales de música transfronterizos. Un canal de música con sede en el Líbano transmite vídeos musicales las 24 horas del día, produciendo estrellas del pop con imágenes visuales.
+En la década de 1990, la difusión de la radiodifusión por satélite dio lugar a canales de música transfronterizos. Un canal de música con sede en el Líbano transmite vídeos musicales las 24 horas del día, produciendo estrellas del pop con imágenes visuales.
 
 Durante este período, cantantes como Nancy Ajram y Amr Diab ganaron gran popularidad, y el pop árabe se redefinió como un producto del mercado panárabe en lugar de una cultura nacional única.
 

@@ -184,7 +184,7 @@ color: #fff;
 
 
 ## Década de 2000: portátiles y globalización
-- **Antecedentes:** El ruido, la electrónica y las grabaciones de campo se difunden internacionalmente. La "actuación con computadora portátil" en presentaciones en vivo se ha convertido en algo común.
+- **Antecedentes:** Ruido, electrónica y grabaciones de campo difundidas internacionalmente. La "actuación con computadora portátil" en presentaciones en vivo se ha convertido en algo común.
 - **Equipo:** Ableton Live, SuperCollider, Kontakt, laptop.
 
 ### Obra maestra
@@ -274,3 +274,14 @@ La esencia de la música experimental es la imprevisibilidad y el espíritu de e
 
 En el futuro, incluso el concepto de "música" puede cambiar debido a la fusión de la IA, las interfaces de ondas cerebrales y la VR/AR.
 **La música experimental es un espejo que predice el futuro y seguirá presentando "nuevos horizontes de sonido" tanto a los oyentes como a los creadores. **
+
+---
+
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P2O94rg-Ees?si=ZoOKP9544iDBPyj9" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---

@@ -94,7 +94,7 @@ Su álbum de 1982 **Black Metal** dio origen al nombre del género.
 * **Báthory (Suecia)**
 * **Hellhammer → Celtic Frost (Suiza)**
 * Sarcófago (Brasil)
-* Tormentor (Hungría)
+* Atormentador (Hungría)
 
 La música de la primera ola fue salvaje;
 La textura es completamente diferente de la posterior segunda ola negra "fría, espiritual y helada".
@@ -211,7 +211,7 @@ Obras principales: *Bathory* (1984), *El regreso…* (1985), *Bajo el signo de l
 * Estructura mínima del riff.
 * Ritmo más rápido (especialmente 1985-87)
 * La línea melódica recuerda al "frío" y la "humedad" únicos de Suecia y está directamente relacionada con los movimientos posteriores.
-* En los años 90, hicieron la transición al período del metal vikingo y fueron más allá del alcance del black metal para recrear la estética de la mitología nórdica.
+* En la década de 1990, hicieron la transición al período del metal vikingo y fueron más allá del alcance del black metal para recrear la estética de la mitología nórdica.
 
 ---
 
@@ -438,7 +438,7 @@ A continuación se muestra una **cronología basada en hechos**. Los incidentes 
 
 **2006**
 
-*Lobos en el Salón del Trono *Diadema de 12 Estrellas* (Establecimiento de BM Cascadian)
+*Lobos en el Salón del Trono *Diadema de 12 Estrellas* (Establecimiento de Cascadian BM)
 
 **2010**
 

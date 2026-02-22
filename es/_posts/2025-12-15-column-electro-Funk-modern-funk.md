@@ -45,7 +45,7 @@ color: #fff;
 ## Capítulo 1: La estructura original del funk
 
 
-El funk es música impulsada por el ritmo y el bajo. Las progresiones armónicas se mantienen al mínimo y las mismas frases se repiten durante largos periodos de tiempo. Esta repetición no está estancada, sino una estructura dinámica que se actualiza constantemente mediante los cambios de acento, sincronización y timbre del intérprete.
+El funk es música impulsada por el ritmo y el bajo. Las progresiones armónicas se mantienen al mínimo y las mismas frases se repiten durante largos períodos de tiempo. Esta repetición no está estancada, sino una estructura dinámica que se actualiza constantemente mediante los cambios de acento, sincronización y timbre del intérprete.
 
 En el funk de la década de 1970, la batería formaba un ritmo basado en semicorcheas y el bajo manipulaba el centro de gravedad del ritmo mientras se entrelazaba con el bombo. Las guitarras y los teclados funcionaban como instrumentos rítmicos, con énfasis en cortar y apuñalar más que en los acordes.
 

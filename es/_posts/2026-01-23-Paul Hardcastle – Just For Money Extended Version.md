@@ -10,7 +10,7 @@ tags:
 - Electro
 - Synth-pop
 - 80s
-title: Paul Hardcastle – Sólo por dinero (versión extendida)
+title: Paul Hardcastle - Sólo por dinero (versión extendida)
 ---
 
 

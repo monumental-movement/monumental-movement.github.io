@@ -27,10 +27,10 @@ Texto: mmr｜Tema: Cambios a lo largo del tiempo, técnicas y antecedentes cultu
 ・Contar cuentos/lectura
 ・Elementos musicales étnicos
 ・Sonidos electrónicos y operaciones de cinta.
-Es un género que ha ampliado el marco de la música folclórica al incorporar cosas como la música folclórica.
+Es un género que ha ampliado el marco de la música folclórica al incorporar elementos como la música folclórica.
 
 Abarcan desde el movimiento psicodélico de finales de los años 1960, el resurgimiento del folk británico, el folk ácido estadounidense, hasta la escena musical postindustrial/experimental de los años 1980 a 2000.
-Por lo tanto, el género se define no tanto por un "sonido uniforme" sino por "experimentos acústicos" centrados en la acústica.
+Por tanto, el género se define no tanto por un "sonido uniforme" sino por "experimentos acústicos" centrados en la acústica.
 
 
 ---
@@ -58,7 +58,7 @@ Dúo escocés. Presentamos instrumentos orientales, un enfoque microtonal y estr
 Se dice que es el grupo que creó el prototipo de Psych Folk.
 
 - **Comus** (1969–)
-Su debut de 1971 *“First Utterance”* se desarrolló en el contexto del folk británico, pero
+Su debut en 1971 *“First Utterance”* se desarrolló en el contexto del folk británico, pero
 ・Voces espeluznantes
 ・Guitarra acústica disonante
 ・Arreglo Frazy para flauta y violín
@@ -77,7 +77,7 @@ Tocar con los dedos con motivos de improvisación, drones y ruido.
 Fahey fue un "experimentador de la guitarra folclórica" ​​e influyó mucho en los artistas posteriores.
 
 - **Trabajos posteriores de Tim Buckley**
-Introducir el fraseo del jazz y las estructuras no lineales en la música folk.
+Introducir el fraseo del jazz y las estructuras no lineales en la música folklórica.
 
 - **Linda Perhacs (“Paralelogramos”, 1970)**
 Una producción experimental que combina procesamiento de cintas, cuerdas y trabajo de coros.
@@ -92,7 +92,7 @@ En las décadas de 1980 y 1990, el "neofolk" con elementos acústicos surgió de
 Uno de los actores centrales es **Current 93 (liderado por David Tibet)**.
 
 ## Características de la actual 93
-- Al principio hubo un fuerte elemento ruido/industrial.
+- Al principio, los elementos ruido/industriales eran fuertes.
 - Desde la década de 1990, la atención se ha desplazado hacia los instrumentos acústicos como el armonio, la guitarra, la zanfona y la percusión.
 - Énfasis en el misticismo y la recitación poética.
 - Heredando los enfoques comus y folk británico.
@@ -240,7 +240,7 @@ Folk experimental / Psych Folk, dentro de las limitaciones de los instrumentos a
 ・Aventura sonora
 ・Visión del mundo poética
 ・Intersección con música folclórica y símbolos religiosos.
-Es un lugar donde la gente puede probar suerte con la experimentación, y su esencia radica en la naturaleza experimental del método creativo en sí.
+Es un lugar donde la gente puede probar suerte con la experimentación, y su núcleo radica en la naturaleza experimental del método creativo en sí.
 
 La extraña gente ácida de Comus, las recitaciones religiosas de Current 93 y los arreglos tranquilos y de múltiples capas de Espers.
 Lo que estos artistas tienen en común es que tratan al folk como un "material" y lo deconstruyen y reconstruyen acústica y culturalmente.

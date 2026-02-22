@@ -39,7 +39,7 @@ En la escena de clubes de la década de 1980, hubo un movimiento creciente para 
 
 El acid jazz tiende a referirse a un "sentimiento híbrido" más que a un género único. Los elementos característicos incluyen:
 
-- **Énfasis del ritmo**: hereda la sensación rítmica del funk de los 70 y ritmos raros
+- **énfasis del ritmo**: hereda la sensación rítmica del funk de los 70 y ritmos raros
 
 - **Improvisación**: Introducción de solos e interacciones derivadas del jazz.
 
@@ -88,13 +88,13 @@ La difusión del Acid Jazz también estuvo estrechamente relacionada con la geop
 
 ---
 
-- [**Jamiroquai**](https://amzn.to/4haQsP0): Una banda liderada por Jay Kay. Basado en el funk y el acid jazz, se convirtió en un éxito internacional con su mensaje ecológico y su carisma.
+- [**Jamiroquai**](https://amzn.to/4haQsP0): Banda liderada por Jay Kay. Basado en el funk y el acid jazz, se convirtió en un éxito internacional con su mensaje ecológico y su carisma.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vQ3yv3MluHg?si=ZqIbpLdUkqBLAjY6" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-- [**Galliano**](https://amzn.to/48uBEIK): Producido por Gilles Peterson. La fusión de rap y jazz le da un aire más callejero.
+- [**Galliano**](https://amzn.to/48uBEIK): Producida por Gilles Peterson. La fusión de rap y jazz le da un aire más callejero.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9y1rLVH4DqU?si=YloLaxISyRsc7sAs" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -108,9 +108,9 @@ La difusión del Acid Jazz también estuvo estrechamente relacionada con la geop
 
 #### escena estadounidense
 
-Acid Jazz fue percibido como una "reimportación". En los Estados Unidos existía el jazz funk y soul original de los años 70, por lo que la etiqueta "Acid Jazz" del Reino Unido parecía fresca y fue adoptada por las escenas de clubes de Nueva York y Chicago.
+Acid Jazz fue percibido como una "reimportación". En los Estados Unidos existía el jazz funk y soul original de los 70, por lo que la etiqueta "Acid Jazz" del Reino Unido parecía fresca y fue adoptada en las escenas de clubes de Nueva York y Chicago.
 
-Y al igual que [Deee-Lite](https://amzn.to/3W7JKj0), se expande mientras se vincula con el hip-hop.
+Y, al igual que [Deee-Lite](https://amzn.to/3W7JKj0), se expande al vincularse con el hip-hop.
 Por otro lado, se enfatizó la conexión con el hip-hop, y sirvió de puente hacia el jazz-hip-hop como [A Tribe Called Quest](https://amzn.to/4n1XXZO) y [Gang Starr](https://amzn.to/46QAJBa).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n5a21NGXVdw?si=UJbqyTkSpL1QK_ya" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
@@ -122,7 +122,7 @@ Por otro lado, se enfatizó la conexión con el hip-hop, y sirvió de puente hac
 
 En Japón, el movimiento "club jazz" floreció en las décadas de 1980 y 1990, y bandas como [United Future Organization (UFO)](https://amzn.to/4om4AXX) y [Kyoto Jazz Massive](https://amzn.to/3J3bJNV) heredaron la tendencia Acid Jazz.
 
-Tenía afinidad con la cultura de consumo de la economía de la burbuja y la escena de Shibuya, y se convirtió en un puente entre Europa y Asia.
+Tenía afinidad con la cultura de consumo del período de la economía de la burbuja y la escena de Shibuya-kei, y se convirtió en un puente entre Europa y Asia.
 
 Gradualmente ganó aceptación en países como Corea del Sur y Taiwán desde finales de la década de 1990 a medida que se expandía la cultura de club.
 
@@ -149,7 +149,7 @@ La expansión del Acid Jazz principalmente en Europa también estuvo influenciad
 
 El fin de la Guerra Fría en la década de 1990 → La cultura de discoteca se liberó en Europa del Este y la antigua Unión Soviética, y se acogió con agrado la música que combinaba jazz, funk y electrónica.
 
-Globalización → La cultura inmigrante centrada en Londres se difundió musicalmente a través de la red de "ciudades mundiales".
+Globalización → La cultura inmigrante centrada en Londres se difundió musicalmente a través de la red de “ciudades del mundo”.
 
 
 

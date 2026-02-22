@@ -17,7 +17,7 @@ title: La gente gentil – Journey Remixes
 
 The Gentle People es una banda formada en Estados Unidos en 1995. Su sonido se caracteriza por el gusto lounge y de fácil escucha de los años 50, que se definió como "kitsch" en la cultura de club de los 90.
 
-Lanzado en 1995 por Richard D. James (Aphex Twin) y el sello Rephlex de Grant Wilson-Claridge, Journey es el álbum debut de The Gentle People.
+Publicado en 1995 por Richard D. James (Aphex Twin) y el sello Rephlex de Grant Wilson-Claridge, Journey es el álbum debut de The Gentle People.
 
 A es un remix de Aphex Twin que muestra "Blue Mantilla" del LP del gran Henry Mancini "Mr. Lucky se vuelve latino".
 

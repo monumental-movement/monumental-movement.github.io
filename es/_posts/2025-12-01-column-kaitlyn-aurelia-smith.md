@@ -60,7 +60,7 @@ Estas experiencias le proporcionaron los ejes de "naturalidad", "espacialidad" y
 
 Al crecer, estudió composición y teoría del sonido en una institución educativa musical en los Estados Unidos y, al mismo tiempo, participó activamente en un dúo folclórico usando guitarra, voz y piano.
 
-Sin embargo, tras dejar los confines de su época de estudiante y regresar a su ciudad natal, se produce un cambio inesperado: se encuentra con una Buchla 100 que le prestó un vecino. Cuando cogió por primera vez un sintetizador modular, no lo vio como una "herramienta endeble", sino como una "coprotagonista", "un ser vivo" y "un cuerpo eléctrico".
+Sin embargo, tras dejar los confines de su época de estudiante y regresar a su ciudad natal, se produce un cambio inesperado: se encuentra con una Buchla 100 que le prestó un vecino. Cuando cogió por primera vez un sintetizador modular, no lo vio como una "herramienta endeble" sino como una "coprotagonista", "un ser vivo" y "un cuerpo eléctrico".
 
 La inestabilidad de Buchla, los parches manuales y los cambios de sonido impredecibles; a través de tal contingencia e inestabilidad, ella elige sacar "sonido vivo", "vibración", "espacio" y "físicalidad" del sintetizador.
 
@@ -74,7 +74,7 @@ Esta transformación es la base de todos sus trabajos posteriores.
 
 Su primer trabajo incluyó temas folk y experimentales de producción propia. Sin embargo, no fue hasta que comenzó a grabar con Buchla Music Easel que comenzó a explorar seriamente la música modular/electrónica.
 
-Esta grabación se publicó posteriormente como obra, titulada Tides: Música para la meditación y el yoga. Campanas de viento, susurros de árboles, cantos de pájaros, sonidos del agua, pequeños ruidos naturales: este trabajo combina sonidos ambientales/grabaciones de campo con formas de onda electrónicas modulares.
+Esta grabación se publicó posteriormente en forma de Tides: Música para la meditación y el yoga. Campanas de viento, susurros de árboles, cantos de pájaros, sonidos del agua, pequeños ruidos naturales: este trabajo combina sonidos ambientales/grabaciones de campo con formas de onda electrónicas modulares.
 
 A estas alturas todavía no ha causado gran sensación. Sin embargo, la dirección de "modular + sonidos naturales/sonidos ambientales + espacialidad" ya estaba clara y el sentimiento subyacente de su música estaba emergiendo.
 
@@ -125,7 +125,7 @@ Al mezclar las formas de onda electrónicas de Buchla con el susurro del bosque,
 La inestabilidad de Buchla, el carácter manual de los parches, las desviaciones y fluctuaciones incontrolables no son bienvenidos como "defectos", sino más bien como "márgenes creativos", "cambios químicos inesperados" y "coincidencias sonoras".
 
 - **Sensación corporal y experiencia de vibración**
-En lugar de pensar en el sonido como algo que escuchas con tus oídos, lo consideramos algo que sientes con tu cuerpo y algo que experimentas como vibraciones. Voz, respiración, movimiento, vibración: al conectarlos con las vibraciones eléctricas del sintetizador, la música se expande hasta convertirse en una percepción que utiliza no sólo el sentido auditivo sino también todo el cuerpo.
+En lugar de ver el sonido como algo que se escucha con los oídos, lo consideramos como algo que se siente con el cuerpo y algo que se experimenta como vibraciones. Voz, respiración, movimiento, vibración: al conectarlos con las vibraciones eléctricas del sintetizador, la música se expande hasta convertirse en una percepción que utiliza no sólo el sentido auditivo sino también todo el cuerpo.
 
 - **Múltiples capas de temporalidad, espacialidad y memoria**
 Drones, ondulaciones, pads y grabaciones de campo extienden el tiempo, espesan el espacio y crean recuerdos, emociones y conexiones con la naturaleza a través del sonido.

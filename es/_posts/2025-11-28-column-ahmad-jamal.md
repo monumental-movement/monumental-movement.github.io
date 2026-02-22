@@ -55,7 +55,7 @@ Formado en 1955, el Ahmad Jamal Trio (Israel Crosby al bajo, Vernel Fournier a l
 Este álbum presenta:
 
 - **Utilización del espacio (espacio)**: Enfatiza la tensión y la profundidad de la música tocando con conciencia del espacio en blanco.
-- **Frases mínimas**: Menos ornamentación, énfasis en repetir temas y ritmos
+- **Frases mínimas**: Menos ornamentación, énfasis en repetir temas y ritmos.
 - **Actuación en trío interactivo**: el bajo y la batería trabajan en estrecha colaboración con el piano.
 
 Este estilo también influyó en Miles Davis y contribuyó al desarrollo posterior del jazz modal.
@@ -219,3 +219,10 @@ Gracias a estos esfuerzos, Jamal es considerado una de las figuras más importan
 
 ---
 
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2a6-t7qfxoU?si=LqrvHHoTBnBoNsCJ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---

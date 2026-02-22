@@ -44,7 +44,7 @@ color: #fff;
 A mediados de la década de 1990, el jazz-funk y el drum and bass se estaban desarrollando rápidamente en la escena de clubes del Reino Unido. En este contexto, surgió la música con ritmos más libres e irregulares como una rama del tradicional house de cuatro pisos y del jazz-funk. Esto formó la base del género que más tarde se llamaría Broken Beat.
 
 - **Sensación de swing de jazz-funk**: progresiones de acordes complejas y ritmos de compás extraños
-- **Ritmos complejos de drum and bass y Jungle**: ritmos rápidos y colocación irregular de la caja.
+- **Complejidad del ritmo de batería y bajo y jungla**: ritmos rápidos y ubicaciones irregulares de la caja
 - **Fusión con la cultura del sampleo hip-hop**: Uso simultáneo de música en vivo y sampleo
 
 > “En aquella época no se trataba sólo de bailar o escuchar música, era más divertido sentir el swing y el groove que nacía detrás del ritmo”.
@@ -86,7 +86,7 @@ Broken Beat es más que sólo música de baile, se caracteriza por su combinaci�
 
 ### 3.1 Ritmo
 
-- Basado en un ritmo house de 4/4, cambiando ligeramente la posición de la caja y el charles
+- Basado en un ritmo house de 4/4, cambiando ligeramente la posición de la caja y el charles.
 - A menudo se utilizan cambios irregulares y compases extraños y, aunque es adecuado para bailar, también enfatiza el disfrute de escuchar.
 
 **Ejemplo: Cultura de IG “Dame tiempo”**

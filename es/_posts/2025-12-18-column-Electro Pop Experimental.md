@@ -129,7 +129,7 @@ La naturaleza experimental de Carpenter Brut se manifiesta menos en la música m
 
 ## Capítulo 7 Experimentos de cultura visual y electropop
 
-En la música experimental electropop, los siguientes elementos trabajan juntos, en lugar de solo la música.
+En la música experimental electropop, los siguientes elementos trabajan juntos, en lugar de solo la música por sí sola.
 
 * Carátula del álbum
 * Vídeo musical

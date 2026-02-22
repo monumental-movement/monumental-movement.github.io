@@ -22,7 +22,7 @@ Texto: mmr｜Tema: Centrándonos en Alvin Lucier y Christian Fennesz, organizare
 
 Desde el siglo XX, la música se ha alejado del marco del arte temporal centrado en la melodía y la armonía, y se ha expandido hacia un ámbito integral de expresión que incluye fenómenos físicos, el espacio y el propio medio de grabación. El arte instrumental y sonoro de vanguardia no es una forma que muestra la habilidad y la capacidad interpretativa de un instrumento, sino que presenta todo el proceso mediante el cual el sonido se genera, propaga, refleja, altera y percibe como una obra.
 
-En este ámbito, las obras musicales no se reducen necesariamente a partituras musicales, ni se asume la posibilidad de rejugabilidad. Más bien, el trabajo existe como un conjunto de condiciones, que producen resultados diferentes cada vez. Lo importante aquí, más que las intenciones del compositor, es la estructura misma, que es cómo surgen los fenómenos acústicos y se conectan con el espacio y la tecnología.
+En este ámbito, las obras musicales no se reducen necesariamente a partituras musicales, ni se asume la posibilidad de rejugabilidad. Más bien, el trabajo existe como un conjunto de condiciones, que producen resultados diferentes cada vez. Lo importante aquí, más que las intenciones del compositor, es la estructura misma, cómo se levanta el fenómeno acústico y se conecta con el espacio y la tecnología.
 
 ---
 
@@ -97,7 +97,7 @@ flowchart LR
 
 ### 4-1 Acústica arquitectónica
 
-El trabajo de Lucier se basa en gran medida en dimensiones espaciales, materiales y propiedades reflectantes. Aunque la pieza sea la misma, los resultados acústicos variarán mucho si se instala en una ubicación diferente.
+El trabajo de Lucier se basa en gran medida en dimensiones espaciales, materiales y propiedades reflectantes. Aunque la pieza sea la misma, los resultados acústicos variarán mucho si el lugar de instalación es diferente.
 
 ### 4-2 Posición del espectador
 
@@ -162,7 +162,7 @@ En el arte sonoro, escuchar no es un acto pasivo. Los espectadores se mueven, el
 
 ## Capítulo 10: Cronología (Extendido)
 
-* Década de 1930: Investigación sobre equipos electroacústicos.
+* Década de 1930: Investigación sobre dispositivos electroacústicos.
 * Década de 1950: Establecimiento de estudios de música electrónica.
 * Década de 1960: música experimental y minimalismo.
 * Década de 1970: Se afianza la instalación de sonido.

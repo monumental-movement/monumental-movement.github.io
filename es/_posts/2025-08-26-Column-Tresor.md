@@ -54,7 +54,7 @@ Como resultado, el techno futurista y político nacido en Estados Unidos se vinc
 
 ### Etiqueta “Tresor Records”
 
-Fundado en 1991 como parte de un club, Tresor Records funciona como un importante sello de techno.
+Establecido en 1991 como un club adjunto, Tresor Records funciona como un importante sello de techno.
 
 [Jeff Mills - Serie Transmisión de formas de onda](https://amzn.to/4mJeXE1)
 
@@ -85,7 +85,7 @@ La influencia de Tresor está detrás de que la ciudad de Berlín reconozca ofic
 
 <hora>
 
-### Reubicación y estado actual
+### Reubicación y situación actual
 
 En 2005 cerró la ubicación original, pero en 2007 se trasladó a una antigua central eléctrica en Berlín Oriental.
 
@@ -155,8 +155,17 @@ Hoy en día actúan allí DJs de todo el mundo y sigue sirviendo como lugar de p
 
 ### Elevando la música techno de una “moda temporal” a una “cultura universal”
 
-Más que un simple club o un sello, Tresor es una "encrucijada cultural" que conecta la historia de Berlín, el espacio urbano posterior a la Guerra Fría y el futuro de la música negra en Detroit.
+Más que un simple club o sello, Tresor es un cruce cultural que conecta la historia de Berlín, el espacio urbano posterior a la Guerra Fría y el futuro de la música negra en Detroit.
 Los sonidos liberados desde esa bóveda aún resuenan en la cultura de clubes de todo el mundo, elevando la música techno de una "moda pasajera" a una "cultura universal".
+
+---
+
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xwtxAjklWUs?si=7Y2a50t-7N_ZlgpX" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
@@ -166,5 +175,5 @@ Los sonidos liberados desde esa bóveda aún resuenan en la cultura de clubes de
 
 🔗 [[Columna] Detroit Techno: Danza humana creada por el latido de las máquinas](https://monumental-movement.jp/Column-Detroit-Techno)
 
-🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-German-Techno)
+🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-Germain-Techno)
 

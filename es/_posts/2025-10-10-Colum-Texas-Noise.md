@@ -21,7 +21,7 @@ title: '[Columna] Desierto de ruidos: desde la escena de Texas de la década de 
 Texto: mmr｜Tema: De Charalambides a Black Leather Jesus, rastreando la genealogía del sonido experimental sureño: el ruido de Texas en la década de 2000 y su estado actual
 
 
-Fue desde finales de la década de 1990 hasta principios de la de 2000 cuando la música noise echó raíces en el vasto paisaje del sur de Estados Unidos.
+Fue desde finales de los años 1990 hasta principios de los años 2000 cuando la música conocida como noise echó raíces en el vasto paisaje del sur de Estados Unidos.
 Mientras Nueva York y Los Ángeles eran "ciudades de arte" que desarrollaron la música noise en galerías de arte y clubes clandestinos, Texas desarrolló su gramática como un lugar de aislamiento geográfico y experimentación personal.
 
 Houston, Austin y San Antonio: estas ciudades pueden ser las "patrias del country y el blues" en la superficie, pero detrás de escena se cultivaba silenciosamente el collage de cintas, la no música y los drones.
@@ -45,7 +45,7 @@ color: #fff;
 ### Capítulo 1: Experimentos de sonido solitario: Charalambides y la expansión de la conciencia sureña
 
 A principios de la década de 2000, **Charalambides** (Christina y Tom Carter) eran un pilar de la escena ruidosa de Texas.
-Su sonido no era tanto ruido sino un ritual experimental que exploraba el "borde juvenil" del folk y los drones.
+Su sonido no era tanto ruido sino más bien un ritual experimental que exploraba el "borde juvenil" del folk y los drones.
 
 - Reverberación de guitarra infinitamente estirada
 - Frase vocal repetida como una oración.
@@ -110,7 +110,7 @@ Estos movimientos ya no consideran el ruido como “música destructiva” sino 
 
 La escena del ruido de Texas de la década de 2020 se encuentra entre la red y la tierra.
 Mientras que artistas jóvenes de Houston y Dallas están activos como colectivo digital a través de Bandcamp, YouTube, Discord, etc.
-Los artistas mayores continúan trabajando con equipos analógicos.
+Los artistas mayores siguen trabajando con equipos analógicos.
 
 > "El ruido es una cuestión de actitud, no de tecnología."
 > — Richard Ramirez (Jesús de cuero negro)

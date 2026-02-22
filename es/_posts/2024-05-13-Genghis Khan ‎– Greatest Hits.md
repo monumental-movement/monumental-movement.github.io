@@ -15,7 +15,7 @@ title: Genghis Khan - Grandes éxitos
 
 Genghis Khan es un grupo disco alemán formado por Ralph Siegel. Compitió en Eurovisión en 1979 y quedó en cuarto lugar.
 
-Genghis Khan se caracteriza por canciones que tienen como tema personajes históricos, culturas y regiones exóticas.
+Genghis Khan se caracteriza por canciones centradas en personajes históricos, culturas y regiones exóticas.
 
 Canciones como "Genghis Khan" y "Aim for Moscú" se convirtieron en grandes éxitos en todo el mundo.
 

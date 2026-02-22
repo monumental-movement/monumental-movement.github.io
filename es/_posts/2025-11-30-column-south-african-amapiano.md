@@ -83,7 +83,7 @@ graph LR
 
 ### Geografía y tiempo
 
-El lugar de nacimiento de Amapiano es Gauteng, Sudáfrica. Particularmente importantes son los municipios de **Johannesburgo** y **Pretoria**.
+El lugar de nacimiento de Amapiano es **Gauteng** en Sudáfrica. Particularmente importantes son los municipios de **Johannesburgo** y **Pretoria**.
 
 Según múltiples fuentes, los experimentos con Amapiano comenzaron alrededor de 2012, y más tarde se estableció el nombre unificado "Amapiano" como género.
 
@@ -91,7 +91,7 @@ Según múltiples fuentes, los experimentos con Amapiano comenzaron alrededor de
 
 * **MFR Souls (Tumelo Nedondwe & Tumelo Mabe)** contribuyó a la formación de los primeros Amapiano
 * Las fuentes de audio se comparten entre amigos y se difunden a través de WhatsApp, discotecas, fiestas y paradas de taxis.
-* Esta difusión de bricolaje/de base se convirtió en la base para el establecimiento del género.
+* Esta difusión de bricolaje y de base se convirtió en la base para el establecimiento del género.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Dx62kohEnsg?si=9J2-_DUYJlzvfs5U" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -136,7 +136,7 @@ Como resultado, Amapiano ha pasado de ser simplemente música underground a conv
 * Promoción de la ruptura y comercialización del género a nivel nacional.
 *La secuela **El Regreso de los Reyes Escorpión (noviembre 2019)** también fue un éxito
 
-Este período convirtió al Amapiano no sólo en una música municipal, sino en un género reconocido a nivel nacional y comercial.
+Durante este período, Amapiano se convirtió en algo más que una música de pueblo, se convirtió en un género reconocido a nivel nacional y comercial.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u2V08RBLOdM?si=ajNfLm30b3Pom53A" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -314,8 +314,14 @@ timeline
 ## Cierre
 
 Amapiano es un género musical icónico de Sudáfrica que se ha expandido desde la cultura underground de los municipios hasta los festivales de clubes de todo el mundo.
-En esencia, "Tambor de troncos x piano x percusión x expresión de la cultura juvenil" sigue siendo un origen inquebrantable, pero continúa evolucionando en medio de la diversificación y la internacionalización.
+En esencia, "tambor de troncos x piano x percusión x expresión de la cultura juvenil" sigue siendo un origen inquebrantable, pero continúa evolucionando en medio de la diversificación y la internacionalización.
 
 ---
 
+### Pódcast de YouTube
 
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aB5twZG-_V4?si=-50AUkCwEL67JsUW" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---

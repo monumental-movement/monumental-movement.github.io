@@ -17,7 +17,7 @@ title: '[Columna] Poesía del latido del corazón: El mundo del genio percusioni
 ## 1. Introducción
 
 
-Texto: mmr｜Tema: Sigue cuidadosamente su camino desde su educación hasta el presente, explorando el núcleo de su innovación, filosofía, colaboración y experiencia que aporta a los oyentes.
+Texto: mmr｜Tema: Sigue cuidadosamente su camino desde sus primeros años de vida hasta el presente, explorando el núcleo de su innovación, filosofía, colaboración y experiencia que aporta a los oyentes.
 
 Mohammad Reza Mortazavi es un percusionista poco común que reinterpreta fundamentalmente los instrumentos de percusión tradicionales persas en una expresión musical moderna. Sus actuaciones no son sólo un despliegue de técnica rítmica, sino que van acompañadas de una profunda espiritualidad que en ocasiones induce al trance, invitando al público a un viaje físico y consciente. En este sentido, sus actividades son importantes para crear nuevos horizontes musicales que van más allá de las oposiciones binarias de "música tradicional y música experimental", "Oriente y Occidente" y "pasado y futuro".
 
@@ -44,7 +44,7 @@ Sus padres tienen experiencia musical y velaron calurosamente por su interés po
 
 A los seis años empezó a aprender tombak (“tombak” en inglés, tonbak o zarb en persa). Tomó lecciones con un intérprete tradicional de tambak, pero después de sólo unos años se reconoció que su talento superaba al de su maestro, y hay una anécdota que a la edad de nueve años, su maestro admitió que ya no podía enseñarle.
 
-A la edad de 10 años, obtuvo su primera victoria en la competencia anual Tambak celebrada en Irán. Desde entonces, ha seguido ganando y haciéndose conocido en todo el país como un joven talento.
+A la edad de 10 años obtuvo su primera victoria en la competición Tambak que se celebra cada año en Irán. Desde entonces, ha seguido ganando y haciéndose conocido en todo el país como un joven talento.
 Durante este período, su relación con los instrumentos musicales en su vida fue más allá de un mero hobby y creció hasta convertirse en el núcleo de su identidad.
 
 ---
@@ -78,7 +78,7 @@ El logro más notable de Mortazavi es **más de 30 técnicas de golpe y dedos de
 Específicamente, los enfoques incluyen:
 
 * **Usar diferentes puntos de ataque**: Atacar zonas que los jugadores tradicionales no utilizan, como el centro del cuero, el aro y el cuerpo (parte de madera).
-* **Diversas partes de la mano**: Toda la mano del intérprete se considera un instrumento musical, incluidas las yemas de los dedos, las articulaciones, las uñas, la palma, la raíz del pulgar y otras partes que se consideran tabú.
+* **Varias partes de la mano**: Toda la mano del intérprete se considera un instrumento musical, incluidas las yemas de los dedos, las articulaciones, las uñas, la palma, la raíz del pulgar y otras partes que de otro modo se considerarían tabú.
 * **Enfoque polirrítmico**: Una técnica que permite que múltiples voces (capas) suenen simultáneamente dentro del mismo instrumento. Esto permite una interpretación similar a la de un conjunto por parte de un solo jugador.
 * **Rango dinámico**: Desde toques extremadamente silenciosos hasta golpes explosivos, controla libremente la fuerza, el tempo y la densidad del sonido.
 * **Operación de resonancia**: Controla la resonancia del cuerpo y diseña el regusto al golpear. De esta forma, se utiliza como elemento de expresión la “reverberación” del sonido que queda tras un solo golpe.
@@ -130,9 +130,9 @@ El álbum, lanzado con el sello Latency, refleja una profunda exploración del t
 
 Los críticos han citado su opinión de que "a diferencia de un metrónomo, el pulso humano es flexible y no fijo". Este tema también es evidente en sus shows en vivo, donde le da importancia a crear un "pulso común" con la audiencia.
 
-#### 7.5 "Prisma"
+#### 7.5 “Prisma”
 
-Lanzado en 2022, este álbum representa una nueva expansión de la música de Mortazavi. Según la información de la actuación de Flussbad, además del tomback y el duff, se han introducido varios objetos sonoros, entre ellos un silbato para pájaros, una marimba pequeña, una kalimba y unos platillos pequeños. Esto amplía la gama de tonos y permite una expresión espacial más tridimensional y espiritual.
+Lanzado en 2022, este álbum representa una nueva expansión de la música de Mortazavi. Según la información de actuación de Flussbad, además del tomback y el duff, se han introducido varios objetos sonoros, entre ellos un silbato para pájaros, una marimba pequeña, una kalimba y unos platillos pequeños. Esto amplía la gama de tonos y permite una expresión espacial más tridimensional y espiritual.
 
 A través de este trabajo, ha elevado su estilo interpretativo a una fusión de "minimalismo + multicapa", poniendo más énfasis en la exploración de los espacios en blanco en el sonido y el equilibrio entre el silencio y la resonancia que en la brillantez de la técnica.
 
@@ -173,7 +173,7 @@ Una experiencia en vivo como esta no es sólo algo que escuchas con tus oídos, 
 
 Mortazavi ha recibido reconocimiento internacional por su habilidad, arte e innovación. En 2003, ganó el **Premio RUTH Newcomer**. También ha recibido mucho interés por parte de los medios, y su estilo y filosofía han aparecido en varios medios como Deutschlandfunk, Pitchfork, Hardwax y Boomkat de Alemania.
 
-En particular, Pitchfork llamó la atención sobre la flexibilidad de los pulsos humanos y la naturaleza improvisada de los ritmos que tocaba, y la describió como "música que encarna la humanidad y la plasticidad del tiempo". Hardwax y otros han elogiado la precisión sonora y la profundidad espiritual de sus más de 30 nuevas técnicas.
+Pitchfork en particular llamó la atención sobre la flexibilidad de los pulsos humanos y la naturaleza improvisada de los ritmos que tocaba, y la describió como "música que encarna la humanidad y la plasticidad del tiempo". Hardwax y otros han elogiado la precisión sonora y la profundidad espiritual de sus más de 30 nuevas técnicas.
 
 Además, su fisicalidad y espiritualidad a menudo se enfatizan en las reseñas en vivo. Drummerszone y otros han descrito en detalle los puntos de golpe, las partes de las manos y las operaciones de resonancia que utiliza, señalando que sus manos parecen como si estuvieran tocando un "sistema de sonido".
 
@@ -232,7 +232,7 @@ Todos estos elementos interactúan para establecer a Mortazavi como un "filósof
 
 ### 14. Conclusión: Implicaciones para el futuro
 
-El viaje de Mohammad Reza Mortazavi es un viaje que redefine la tradición, amplía la técnica y crea nuevos diálogos entre el ritmo y la conciencia. Los sonidos polifónicos, los ritmos de múltiples capas, el sostenido, los sonidos persistentes y la profunda filosofía que los subyace van más allá de la mera interpretación y brindan al oyente una experiencia que trasciende el tiempo y el espacio.
+El viaje de Mohammad Reza Mortazavi es un viaje que redefine la tradición, amplía la técnica y crea nuevos diálogos entre el ritmo y la conciencia. Los sonidos polifónicos, los ritmos de múltiples capas, el sostenido, los sonidos persistentes y la profunda filosofía que subyace a ellos van más allá de la mera interpretación y brindan al oyente una experiencia que trasciende el tiempo y el espacio.
 
 No sólo conserva el instrumento clásico, el tamback, sino que lo transforma para el futuro. En el proceso de transformación, la música, el cuerpo, la comunidad y la conciencia se cruzan y se abren nuevos horizontes.
 

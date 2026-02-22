@@ -41,7 +41,7 @@ El rock and roll/rockabilly es una fusión transfronteriza de la cultura juvenil
 
 ---
 
-**Mecanismo**: Mezcla de música que cruza fronteras raciales y de clase + entretenimiento nocturno = inducir "pánicos morales" (Demonios populares y pánicos morales: Stanley Cohen). Las regulaciones de la policía, las escuelas y los grupos religiosos en realidad fortalecen la unidad de la escena.
+**Mecanismo**: Mezclar música que cruza fronteras raciales y de clase + entretenimiento nocturno = inducir "pánicos morales" (Demonios populares y pánicos morales: Stanley Cohen). Las regulaciones de la policía, las escuelas y los grupos religiosos en realidad fortalecen la unidad de la escena.
 
 
 <hora>
@@ -85,7 +85,7 @@ El reggae/dub está asociado con la cultura del sound system y es responsable de
 
 ---
 
-La discoteca es un refugio para la comunidad LGBTQ+/negra/latina, que ha obtenido el derecho a bailar en la frontera entre lo legal y lo ilegal, aunque tiene sus lados oscuros, como la seguridad de los clubes nocturnos y la discriminación en la admisión.
+La discoteca es un refugio para la comunidad LGBTQ+/negra/latina, que obtiene el derecho a bailar en la frontera entre lo legal y lo ilegal, al tiempo que tiene sus lados oscuros, como la seguridad de los clubes nocturnos y la discriminación en la admisión.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4KUL9-eNXzQ?si=0RcRn_F0ErMntOI7" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -187,7 +187,7 @@ Los Leftfield/Queer Clubs están reconstruyendo espacios nocturnos seguros y est
 
 Durante el período de confinamiento, se produjeron DJ/streaming al aire libre al estilo guerrilla en todo el mundo. Se han hecho intentos de "reocupar espacios públicos" como parques, tejados y calles, y las negociaciones con la policía y los residentes han entrado en una nueva etapa.
 
-La hibridación de movimientos sociales y eventos musicales (fiestas de recaudación de fondos, comedores comunitarios de ayuda mutua, etc.) está avanzando, y el foco está en el cuidado y la creación de consensos más que en la dicotomía "ilegal/legal".
+La hibridación de movimientos sociales y eventos musicales (fiestas de recaudación de fondos, comedores comunitarios de ayuda mutua, etc.) ha progresado y el foco ha pasado de la dicotomía "ilegal/legal" al cuidado y la creación de consenso.
 
 
 <hora>

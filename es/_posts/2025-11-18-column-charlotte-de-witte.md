@@ -60,13 +60,13 @@ También lanzó un EP y lanzó sus primeros trabajos en sellos como Bad Life y C
 
 ## Trabajando bajo su nombre real y recurriendo al techno (2015-2018)
 
-En **2015**, Charlotte abandonó el nombre "Raving George" y comenzó a actuar bajo su nombre real **Charlotte de Witte**.
+En **2015**, Charlotte abandonó el nombre "Raving George" y comenzó a trabajar con su nombre real **Charlotte de Witte**.
 Durante este período, su sonido adquirió un estilo más oscuro y minimalista, incluyendo techno ácido y elementos industriales.
 
 Las obras representativas incluyen:
 
 - **Weltschmerz EP (2015, Turbo)**
-- Canción representativa: “Weltschmerz”
+- Canción representativa: "Weltschmerz"
 - Presenta un ritmo oscuro y pesado y una línea ácida.
 
 - **EP más cercano (2017, KNTXT)**
@@ -105,7 +105,7 @@ Ejemplos de apariciones importantes:
 - 2023: Clausura del escenario principal (primera mujer)
 
 - ** Mezcla esencial de BBC Radio 1 (2018) **
-- Apariciones destacadas en radio mundial.
+- Apariciones destacadas en radio global.
 
 De esta manera, ha pasado con éxito de ser un DJ de club a ser un artista de festivales globales.
 
@@ -173,7 +173,7 @@ También ha lanzado trabajos experimentales como “The Heads That Know (feat. C
 | 2015 | Iniciamos actividades con nuestro nombre real, anuncia Weltschmerz EP |
 | 2017 | Lanzamiento del EP Closer, Wisdom, que atrae la atención en Europa y América |
 | 2018 | Aparición de BBC Radio 1 Essential Mix |
-| 2019 | Establecimiento de KNTXT |
+| 2019 | KNTXT establecido |
 | 2022 | Clausura del escenario principal de Tomorrowland |
 | 2023 | Clausura del Festival del Movimiento |
 | 2024 | Se inauguró la tienda KNTXT y comenzó la marca Époque |

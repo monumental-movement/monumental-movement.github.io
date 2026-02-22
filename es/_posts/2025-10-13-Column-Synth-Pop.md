@@ -142,14 +142,14 @@ Detrás de esto hay una estética tecnológica continua desde YMO hasta Perfume.
 
 ---
 
-## Capítulo 6 Tecnología y emociones: cuando las máquinas representan a los humanos
+## Capítulo 6 Tecnología y emociones: Cuando las máquinas dibujan a los humanos
 
 Secuenciador, sampler, autotune.
 Estas no eran herramientas para la "precisión", sino pinceles utilizados para resaltar la "ambigüedad humana".
 Algo mecánico puede ser emocional: ese es el encanto paradójico del synthpop.
 
-En el siglo XXI se está reevaluando "la estética de la imperfección".
-La voz vacilante de Grimes, el procesamiento vocal de IA de Charli XCX y la combinación de idiomas nativos de Yaeji.
+En el siglo XXI, "la estética de la imperfección" está siendo reevaluada.
+La voz vacilante de Grimes, el procesamiento vocal de inteligencia artificial de Charli XCX y la combinación de idiomas nativos de Yaeji.
 Todo esto demuestra que los "sonidos imperfectos" transmiten humanidad.
 A medida que avanza la composición de IA, la "artificialidad humana" del synthpop puede ser el último romanticismo en la música.
 
@@ -183,7 +183,7 @@ A medida que avanza la composición de IA, la "artificialidad humana" del synthp
 ### Década de 2020: era pop posterior a la IA
 - Caroline Polachek "Bunny es un jinete"
 - Yaeji "Por sentado"
-- A.G. Cook “Hermosa”
+- A.G. Cook "Hermosa"
 
 ---
 
@@ -193,7 +193,7 @@ Synthpop es a la vez el "sonido del futuro" y el "sonido de la nostalgia por el 
 ¿Por qué nos conmueven tanto los fríos sonidos electrónicos de los años 80? Esto se debe a que contienen la "temperatura de una época en la que la gente creía en el futuro".
 Incluso ahora, a medida que avanza la tecnología digital y la IA comienza a componer música, los humanos continúan buscando su "yo" en los sonidos de las máquinas.
 
-La "relación entre tecnología y emoción" que Ryuichi Sakamoto siguió preguntando hasta el final vuelve a ser un tema de primera línea.
+La "relación entre tecnología y emoción", que Ryuichi Sakamoto siguió preguntando hasta el final, vuelve a ser un tema de primera línea.
 Y en algún lugar de ese linaje se encuentra la sonrisa electrónica de YMO, los polirritmos de Perfume y las lágrimas pixeladas de Charli XCX.
 
 El futuro siempre suena en sueños electrónicos.
@@ -250,7 +250,7 @@ flowchart TD
 
 - **P1. ¿Cuál es la diferencia entre synth pop y techno pop? **
 
-A1. Synthpop es un género que incorpora sonidos electrónicos en canciones pop y technopop es una interpretación japonesa del mismo. YMO es un ejemplo típico.
+A1. El synthpop es un género que incorpora sonidos electrónicos en canciones pop y el tecnopop es una interpretación japonesa del mismo. YMO es un ejemplo típico.
 
 - **P2. ¿Quiénes son los artistas de synth pop representativos de los años 80? **
 
@@ -260,7 +260,7 @@ A2. Los ejemplos incluyen Depeche Mode, New Order, Pet Shop Boys y Human League.
 
 A3. El espíritu experimental de YMO y Ryuichi Sakamoto influyó en Daft Punk y Radiohead, y se convirtió en el origen de la "humanidad electrónica" en la era de la IA.
 
-- **P4. ¿Cuáles son las características del neo-synthpop de los últimos años? **
+- **P4. ¿Cuáles son las características del neo-synth pop de los últimos años? **
 
 A4. El punto es que incorporamos activamente “distorsión digital” como el hiper pop y la música AI. Charli XCX y Grimes son ejemplos de ello.
 
@@ -274,5 +274,5 @@ A5. “Solid State Survivor” (YMO) y “Violator” (Depeche Mode) son impresc
 
 Rastrear la historia del sonido electrónico es también rastrear el registro de las emociones humanas.
 Es una "poesía de la tecnología" continua, desde los primeros experimentos de YMO hasta la tristeza digital de Charli XCX.
-El pop sintético nunca termina. De hecho, en la era de la IA, la esencia de esto se vuelve a cuestionar.
+El synthpop nunca termina. De hecho, en la era de la IA, la esencia de esto se vuelve a cuestionar.
 

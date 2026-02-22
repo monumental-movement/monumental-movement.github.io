@@ -56,7 +56,7 @@ El Tech House a menudo se confunde con "un subgénero del techno" o "un subgéne
 
 ---
 
-## 2. Década de 1980 a 1990: antecedentes del establecimiento
+## 2. Década de 1980-1990: antecedentes del establecimiento
 
 Se dice que los orígenes de Tech House son la cultura de clubes de principios de la década de 1990 en Gran Bretaña, particularmente en Londres.
 En ese momento, Acid House y Rave eran populares en Gran Bretaña, y se mezclaron una variedad de estilos como Hard House, Progressive House, Techno y Tribal House.
@@ -183,7 +183,7 @@ A finales de la década de 2010 apareció el "tech house estilo festival", con s
 
 ---
 
-### ■ Sucursal de Tech House de la década de 2010
+### ■ Ramificación de Tech House en la década de 2010
 
 <div class="mermaid">
 flowchart TD
@@ -214,7 +214,7 @@ El Tech House se interpreta y cultiva de forma diferente en cada país. A contin
 
 ### ■ 3. América
 
-* Tech House funky y humorístico en la costa oeste (representado por Dirtybird)
+* Tech House divertido y divertido en la costa oeste (representado por Dirtybird)
 * La costa este tiene fuertes conexiones con NY/Chicago House
 
 ### ■ 4. América del Sur
@@ -300,7 +300,7 @@ flowchart TD
 
 ## 14. Resumen
 
-Tech House es música de club que combina la calidez del house con la estructura minimalista del techno. Creció principalmente en la escena de clubes británica en la década de 1990 y, desde la década de 2000, se ha extendido por todo el mundo, cruzándose estrechamente con Alemania y Estados Unidos.
+Tech House es música de club que combina la calidez del house con la estructura mínima del techno. Creció principalmente en la escena de clubes británica en la década de 1990 y, desde la década de 2000, se ha extendido por todo el mundo, cruzándose estrechamente con Alemania y Estados Unidos.
 
 Hoy en día, el Tech House ha evolucionado hasta convertirse en música que se reproduce en una amplia gama de contextos, desde el underground hasta el escenario principal, y se ha convertido en una parte esencial de la cultura de los DJ.
 

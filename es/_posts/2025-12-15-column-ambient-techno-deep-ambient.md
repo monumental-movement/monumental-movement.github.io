@@ -65,7 +65,7 @@ Esta filosofía de diseño se convirtió en la base del Ambient Techno y tuvo un
 
 La palabra "mar profundo" no es un género musical, sino una metáfora auditiva. El núcleo del deep sea ambient es un intento de recrear, a través del sonido, un entorno donde la luz no llega, el sentido de la distancia se pierde y el sentido de la dirección es ambiguo.
 
-Esta metáfora no es una coincidencia. En aguas profundas, las altas frecuencias se atenúan y las bajas frecuencias se propagan a largas distancias. La ubicación de la fuente del sonido se vuelve confusa y el sonido se percibe como capas en lugar de puntos. Deep sea ambient utiliza esta condición física en su diseño acústico.
+Esta metáfora no es una coincidencia. En aguas profundas, las altas frecuencias se atenúan y las bajas frecuencias se propagan a largas distancias. La ubicación de la fuente de sonido se vuelve confusa y el sonido se percibe como capas en lugar de puntos. Deep sea ambient utiliza esta condición física en su diseño acústico.
 
 
 ---
@@ -119,7 +119,7 @@ La diferencia decisiva con la música ambiental de las profundidades marinas res
 
 ## 10. Comparación con el Deep Techno
 
-Deep Techno se caracteriza por una estructura mínima, un tempo lento y un desarrollo restringido, y es música que busca la profundidad manteniendo el contexto del club.
+Deep Techno se caracteriza por su estructura mínima, tempo lento y desarrollo restringido, y es música que busca la profundidad manteniendo el contexto del club.
 
 Mientras que Ambient Techno/Deep Ambient se distancia de la naturaleza de club, Deep Techno introduce un sonido de aguas profundas conservando la función de suelo. Esta diferencia crea una clara diferencia en el uso y la postura de escucha.
 

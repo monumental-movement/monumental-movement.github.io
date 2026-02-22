@@ -14,7 +14,7 @@ title: Águilas – Hotel California
 ---
 
 
-Canción principal del álbum de los Eagles ``Hotel California''. Letra y música de Don Felder y Don Henley.
+La canción principal del álbum de los Eagles "Hotel California". Letra y música de Don Felder y Don Henley.
 
 #### Lista de canciones
 ```md

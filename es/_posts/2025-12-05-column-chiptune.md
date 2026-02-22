@@ -77,7 +77,7 @@ La Game Boy está equipada con una fuente de sonido CPU + PSG llamada **Sharp LR
 - Canal que le permite dibujar libremente formas de onda de 4 bits de 32 muestras
 - **Canal de ruido**
 
-La memoria de forma de onda es el corazón de la creatividad, e incluso en el Game Boy Chiptune moderno, este canal de onda se usa ampliamente para bajos, solistas, bombos y generación de tonos únicos. El grosor de los graves es particularmente atractivo y es apreciado como un "tono similar al de Game Boy", incluido el ruido DAC peculiar del hardware.
+La memoria de forma de onda es el corazón de la creatividad, e incluso en el Game Boy Chiptune moderno, el canal Wave se usa ampliamente para generar bajos, solistas, bombos y tonos únicos. El grosor de los graves es particularmente atractivo y es apreciado como un "tono similar al de Game Boy", incluido el ruido DAC peculiar del hardware.
 
 ---
 
@@ -200,7 +200,7 @@ Chiptune no se limita en modo alguno a una "reproducción de música de juegos",
 
 ---
 
-## Capítulo 7: Genealogía Chipune
+## Capítulo 7: Genealogía de Chiptune
 
 <div class="mermaid">
 flowchart TD
@@ -234,7 +234,7 @@ Se considera no sólo un género musical, sino una forma integral de expresión.
 ### 9-1. Producción utilizando equipos reales.
 
 - Modificación de Game Boy DMG-01
-- EverDrive/carro flash
+- EverDrive・Carrito flash
 - Reemplazo de piezas frágiles
 - Método de grabación en estéreo un canal a la vez
 
@@ -243,14 +243,14 @@ Se considera no sólo un género musical, sino una forma integral de expresión.
 - Reproduce completamente el sonido original con el sintetizador de chips Plogue
 - Corrección de cadena lateral/EQ
 - Separe las fuentes de sonido como un micrófono múltiple
-- Ajustar la imagen del sonido con grabación flotante de 32 bits.
+- Ajusta la imagen del sonido con grabación flotante de 32 bits.
 
 ---
 
 ## Capítulo 10: El futuro de Chiptune y el futuro de la estética de los 8 bits
 
 La música de 8 bits ya no es un símbolo de lo retro;
-**Una existencia que aporta nuevas ideas a la era moderna como un “grupo de estéticas restringidas”**
+**Una entidad que aporta nuevas ideas a la era moderna como un “grupo de estéticas restringidas”**
 Se ha convertido.
 
 - Uso en Hyperpop y EDM

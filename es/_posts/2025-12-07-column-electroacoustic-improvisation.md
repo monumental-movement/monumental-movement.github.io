@@ -65,7 +65,7 @@ La "liberación de los sonidos no instrumentales" demostrada por Eddie Prévost 
 
 ### 2-3. Origen ③: ruido de los años 80 y 90/sonido electrónico alternativo
 El ruido japonés (Merzbow, Incapacitants, etc.) expuso la "materialidad del sonido" a través de la búsqueda definitiva de materiales acústicos.
-Por otro lado, Otomo Yoshihide y Sachiko M improvisaron sonidos electrónicos minimalistas y sofisticados (ondas sinusoidales) y sentaron las bases de EAI: "reducir el número de sonidos" y "enfatizar el espacio".
+Por otro lado, Otomo Yoshihide y Sachiko M introdujeron sonidos electrónicos minimalistas y sofisticados (ondas sinusoidales) en sus improvisaciones, creando las bases de EAI: "reducir el número de sonidos" y "enfatizar el espacio".
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-N2JpUSOGQw?si=2iITe93bkSmd8sOW" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -88,7 +88,7 @@ Su obra maestra "Endless Summer" (2001) fue muy elogiada como ejemplo de la fusi
 Desde la perspectiva de la EAI, los siguientes puntos son importantes:
 
 - Trate el sonido de guitarra en bruto y el sonido procesado en el mismo plano.
-- Introduciendo ruido de falla para improvisar.
+- Introducir ruido de falla para improvisar.
 - Trate su computadora portátil como un "segundo instrumento"
 - Incorporar el procesamiento de señales (filtrado, granular) como acto escénico.
 

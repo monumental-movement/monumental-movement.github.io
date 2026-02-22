@@ -38,7 +38,7 @@ color: #fff;
 
 ## Décadas de 1970 y 1980: el nacimiento del hip-hop y sus inicios dorados
 
-* **Productores/DJ representativos**: DJ Kool Herc, Grandmaster Flash, Afrika Bambaataa
+* **Productor/DJ representante**: DJ Kool Herc, Grandmaster Flash, Afrika Bambaataa
 * **Disqueras principales**: Sugar Hill Records, Def Jam (finales de los 80)
 * **Antecedentes culturales**: Nacido de la cultura de fiesta de las comunidades negras y latinas en el Bronx. El rap, el DJ, el breakdance y el graffiti se unieron para formar una cultura hip-hop.
 * **Video/Moda**: MV de bajo presupuesto, Adidas, Kangol y cadenas de oro son simbólicos.
@@ -90,7 +90,7 @@ color: #fff;
 
 ## Década de 2010-presente: diversificación e influencia global
 
-* **Productores representativos**: Metro Boomin (sureño, pero también influenciado por Nueva York), Hit-Boy, Statik Selektah
+* **Productores representativos**: Metro Boomin (de tendencia sureña, pero también influenciado por Nueva York), Hit-Boy, Statik Selektah
 * **Disqueras principales**: Top Dawg (también vinculado a Nueva York), Griselda Records
 * **Contexto cultural**: Paralelamente a la influencia de Kendrick Lamar, en Nueva York, Griselda (Westside Gunn, Conway, Benny the Butcher) revivió la sensación de los 90. También está aumentando el número de artistas procedentes de Internet.
 * **Video/Moda**: Una fusión de altas marcas y streetwear (Supreme, Off-White, Balenciaga). Los vídeos musicales documentales van en aumento.
@@ -119,7 +119,7 @@ color: #fff;
 
 ## Referencias/lecturas adicionales
 
-* [Jeff Chang “No puedo parar, no pararé: una historia de la generación hip-hop”](https://amzn.to/4gCxTmv)
+* [Jeff Chang “No puedo parar, no pararé: una historia de la generación del hip-hop”](https://amzn.to/4gCxTmv)
 * [Tricia Rose “Ruido negro: música rap y cultura negra en la América contemporánea”](https://amzn.to/4gwwIF4)
 * [Dan Charnas “La gran recuperación: la historia del negocio del hip-hop”](https://amzn.to/4802iJj)
 * Artículos de archivo “The Source” “XXL” “Vibe” (seleccionados)
@@ -155,6 +155,15 @@ color: #fff;
 
 El hip-hop de la costa este se originó en las fiestas de barrio del Bronx, logró éxito comercial en los años 80 y alcanzó su edad de oro en los años 90. Se caracteriza por letras que combinan crítica social y realismo callejero, así como ritmos de muestreo detallados, y ha influido en el vídeo, la moda, el cine e incluso la expresión literaria.
 Desde la década de 2000, ha habido grandes éxitos como Jay-Z y 50 Cent, y artistas conscientes como Mos Def y Talib Kweli. Desde la década de 2010, Nueva York ha vuelto a llamar la atención con el resurgimiento de Griselda y Nas, y se ha heredado el hip hop duro y lírico típico de la Costa Este.
+
+---
+
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YPNXMwEfrPE?si=EZNCORtvq4ekk2cA" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 

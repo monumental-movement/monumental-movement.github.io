@@ -29,7 +29,7 @@ Los elementos identificativos de la música, como la métrica, la melodía y la 
 * Reverberación espacial
 *Fuente de sonido desconocida
 
-Ritual Ambient se distingue porque utiliza este método similar al Dark Ambient al tiempo que introduce una clara "estructura progresiva". El ritualismo no se establece a través de símbolos, sino a través de la disposición de los sonidos y el diseño de su duración.
+Ritual Ambient se distingue porque utiliza este método similar al Dark Ambient al tiempo que introduce una clara "estructura progresiva". El ritualismo no se establece a través de símbolos, sino a través del diseño de la disposición de los sonidos y su duración.
 
 
 ---
@@ -79,7 +79,7 @@ A través de esta metodología, la música se presenta como un estado del ser m�
 
 ### 4.1 Desequilibrio de bandas de frecuencia
 
-El diseño, centrado en el límite inferior del rango audible, crea una percepción acompañada de una sensación vibratoria física.
+El diseño, centrado en el límite inferior del rango audible, crea una percepción acompañada de una sensación física de vibración.
 
 ### 4.2 Manejo de la grabación espacial
 
@@ -129,7 +129,7 @@ Su producción se distingue porque en lugar de expresar temas religiosos emocion
 
 ### 8.1 Estructura del álbum
 
-Aunque todos los cantos son independientes, forman un único flujo ritual dependiendo del orden en el que estén dispuestos.
+Aunque todas las canciones son independientes, forman un flujo ritual dependiendo del orden en que estén dispuestas.
 
 ### 8.2 Selección del material sonoro
 

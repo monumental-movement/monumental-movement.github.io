@@ -20,7 +20,7 @@ title: '[Columna] Electrónica Progresiva / Escuela de Berlín'
 Texto: mmr｜Tema: Electrónica progresiva y música electrónica de la Escuela de Berlín desde finales de los años 60 hasta la actualidad
 
 
-La música electrónica del siglo XX comenzó en el ámbito de la investigación académica y el arte experimental. Tras el desarrollo de los instrumentos musicales electrónicos en las décadas de 1920 y 1930, la tecnología de cinta magnética después de la guerra y el establecimiento de música concreta y estudios de música electrónica en la década de 1950, a finales de la década de 1960 comenzó a surgir un entorno que permitió a los compositores individuales crear música electrónica fuera del estudio. En medio de este cambio, se estableció principalmente en Alemania Occidental una serie de música electrónica progresiva que más tarde se conoció colectivamente como la "Escuela de Berlín".
+La música electrónica del siglo XX comenzó en el ámbito de la investigación académica y el arte experimental. Tras el desarrollo de los instrumentos electrónicos en las décadas de 1920 y 1930, la tecnología de cinta magnética después de la guerra y el establecimiento de música concreta y estudios de música electrónica en la década de 1950, a finales de la década de 1960 comenzó a surgir un entorno que permitió a los compositores individuales crear música electrónica fuera del estudio. En medio de este cambio, se estableció principalmente en Alemania Occidental una serie de música electrónica progresiva que más tarde se conoció colectivamente como la "Escuela de Berlín".
 
 La Escuela de Berlín no es un movimiento unificado ni una escuela oficial en el sentido estricto de la palabra. Es un nombre que se unificó en la investigación y crítica posterior de la historia de la música como resultado de que múltiples compositores trabajaron en un área metropolitana, entorno tecnológico e intereses musicales comunes. En su núcleo se encuentran compositores y proyectos como Tangerine Dream, Klaus Schulze y Ash Ra Tempel (más tarde Ashra).
 
@@ -168,7 +168,7 @@ Para comprender con precisión la Escuela de Berlín es necesario organizar cron
 
 ### Antes de Kraftwerk
 
-Antes de Kraftwerk, la Escuela de Berlín hacía hincapié en la improvisación y las formas largas. El ritmo es fluido y la pieza se percibe como una transición más que como una progresión. En esta etapa, la música electrónica era una forma de escapar del rock y de la música electrónica académica.
+Antes de Kraftwerk, la Escuela de Berlín hacía hincapié en la improvisación y las formas largas. El ritmo es fluido y la pieza se percibe como una transición más que como una progresión. En esta etapa, la música electrónica era una forma de escapar del rock y también una liberación de la música electrónica académica.
 
 ### Después de Kraftwerk
 

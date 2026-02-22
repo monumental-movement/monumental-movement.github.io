@@ -133,3 +133,12 @@ La nueva ola se originó a partir del punk en la década de 1970 y fue un movimi
 
 New Wave es un "arte integral de la época" en el que la música, el arte, la crítica social y la moda están intrincadamente entrelazados.
 
+---
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OBrPlpQbFiA?si=tDSijaqiav5wtgUx" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---

@@ -109,7 +109,7 @@ Firmamos un contrato con un sello en Los Ángeles y lanzamos el álbum ``Pull Up
 ### 4.2 Producción y lanzamiento de “Ghetto Reggae”
 - El 29 de agosto de 2025 se lanzó el álbum **``Ghetto Reggae''**.
 - Temas: Homenaje a la cultura del sound system, recreación del reggae/dancehall de los años 80 y 90, amor, fe, cuestiones medioambientales, malicia, ganja, etc.
-- Artistas participantes: Daddy U-Roy, Demelo, Greentone. Productor: Kirkledove, Ed Robinson, Jemoi Monteith.
+- Artistas participantes: Daddy U-Roy, Demelo, Greentone. Productores: Kirkledove, Ed Robinson, Jemoi Monteith.
 
 ### 4.3 Actividades y declaraciones sociales
 - Participar o hablar en eventos políticos en Jamaica.
@@ -161,7 +161,7 @@ Firmamos un contrato con un sello en Los Ángeles y lanzamos el álbum ``Pull Up
 - Lanzamiento del álbum "Ghetto Reggae".
 - Los medios lo elogiaron como una "reintroducción del auténtico reggae de los 80 y 90".
 - También se sugirió la posibilidad de una nominación al premio Grammy.
-- En la presentación en vivo, combinaremos viejas obras maestras con nuevas canciones y desarrollaremos una actuación que invite a la participación del público.
+- En la presentación en vivo, combinaremos antiguas obras maestras con nuevas canciones y desarrollaremos una actuación que invite a la participación del público.
 
 ### 7.2 Perspectiva de futuro
 - Promover la reevaluación de la cultura sound system y el reggae.
@@ -174,7 +174,7 @@ Firmamos un contrato con un sello en Los Ángeles y lanzamos el álbum ``Pull Up
 
 Vegas es un músico cuyo trabajo es una mezcla compleja de la cultura del sound system de Kingston, las luchas de la juventud, la fe, la responsabilidad social y una visión para el futuro.
 
-Sus canciones emblemáticas "Nike Air" y "Heads High" simbolizan el punto de partida de su carrera, mientras que "Kokane" presenta una advertencia de tentación y peligro. Su último álbum, "Ghetto Reggae", combina un mensaje moderno con respeto por la época y el lugar en el que creció.
+Sus canciones emblemáticas "Nike Air" y "Heads High" simbolizan el punto de partida de su carrera, mientras que "Kokane" presenta una advertencia de tentación y peligro. Su último álbum, "Ghetto Reggae", combina un homenaje a la época y el lugar en el que creció con un mensaje contemporáneo.
 
 Con una pasión por la educación, el comentario social y la preservación cultural, se desempeña no solo como músico sino también como portador, mensajero y líder cultural.
 
@@ -185,7 +185,7 @@ Con una pasión por la educación, el comentario social y la preservación cultu
 | Año | Eventos |
 |---|---|
 | 1974 | Clifford Smith (Señor Vegas), nacido en Kingston |
-| 1997 | Grabó “Nike Air” a pesar de lesión en la mandíbula |
+| 1997 | Grabó "Nike Air" a pesar de una lesión en la mandíbula |
 | 1998 | Lanzan el sencillo “Heads High” y el álbum debut “Heads High” |
 | 2001 | Lanzamiento del álbum “Damn Right” |
 | 2004 | Lanzamiento del álbum “Pull Up” |
