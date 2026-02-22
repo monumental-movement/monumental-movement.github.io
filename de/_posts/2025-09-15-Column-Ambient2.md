@@ -282,7 +282,7 @@ color: #fff;
 - Die Einsamkeit der Stadt mit Umgebungsgeräuschen umgeben.
 
 ### Museum/Installation
-- **Brian Eno „77 Millionen Gemälde“** (2006~)
+- **Brian Eno „77 Million Paintings“** (2006~)
 - Eine generative Installation, die Video und Ton kombiniert.
 - **Ryoji Ikeda „Datamatics“** (2006~)
 - Konvertieren Sie Daten in Audio und Video. Schaffen Sie einen minimalistischen, immersiven Raum.

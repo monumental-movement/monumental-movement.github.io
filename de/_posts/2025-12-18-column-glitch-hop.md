@@ -65,7 +65,7 @@ Beim Glitch Hop spielt der Ton eine wichtigere Rolle als die Melodie. Der Bass i
 
 ### 3.1 Der Glitch Mob
 
-The Glitch Mob hat eine Methode etabliert, um Beats und Sounddesign durch den Einsatz eines Mehrpersonen-Produktionssystems stark zu unterteilen und zu integrieren. Ihre Lieder vermeiden einfache Wiederholungen von Loops und die Dichte von Rhythmus und Ton ändert sich mit jeder Entwicklung.
+The Glitch Mob hat eine Methode etabliert, um Beats und Sounddesign durch den Einsatz eines Mehrpersonen-Produktionssystems stark zu unterteilen und zu integrieren. Ihre Lieder verzichten auf einfache Schleifenwiederholungen und verändern stattdessen mit jeder Entwicklung die rhythmische und klangliche Dichte.
 
 Der Bass ist so konzipiert, dass er die treibende Kraft des Songs ist, und seine Phasenbeziehung zur Kick wird streng kontrolliert. Das Subband ist oft monaural angeordnet und zeichnet sich durch ein Design aus, das die Stabilität bei der Clubwiedergabe betont.
 

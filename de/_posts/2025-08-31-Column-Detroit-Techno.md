@@ -71,7 +71,7 @@ Die Grenze zwischen DJ und Produzent verschwamm und die Songs wurden durch Spiel
 
 #### **Derrick May / Rhythim Is Rhythim**
 
-„Strings of Life“ (1987) ist eine Hymne, die den Club mit ihrem emotionalen, klavierphrasenartigen Synthesizer und treibenden Rhythmus erschütterte. Es ist ein Song, der sowohl im Techno als auch im House Einfluss hat.
+„Strings of Life“ (1987) ist eine Hymne, die mit ihrem emotionalen, klavierphrasenartigen Synthesizer und dem treibenden Rhythmus den Club erschütterte. Es ist ein Song, der sowohl im Techno als auch im House Einfluss hat.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HE8x4EZgOos?si=dWyKg9KfmJMEky5F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -97,13 +97,13 @@ Eines der Meisterwerke von Jeff Mills, „The Bells“, wurde weltweit über 500
 
 Es folgten verschiedene Generationen, darunter Richie Hawtin (eine zweite Generation, deren späteres Werk die Kluft zwischen Detroit und der internationalen Szene überbrückte).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JKPScOuCkws?si=Jnj_0pWQz950yOZv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xk81Oty1a-U?si=ehXcCwf_TWvv1H9D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
 ### Rolle wichtiger Labels und Veröffentlichungen
 
-Lokale Indie-Labels wie Metroplex (Juan Atkins) und Transmat (Derrick May, gegründet Mitte der 1980er Jahre) gaben den Kreativen direkte Freiheit und wurden zu Stützpunkten für den Export in die Welt. Singles dieser Labels wuchsen in Clubs und wurden schließlich durch Alben und Compilations international. *(Wir empfehlen, für jedes Werk die detaillierten Gründungsinformationen und das Erscheinungsjahr zu prüfen.)
+Lokale Indie-Labels wie Metroplex (Juan Atkins) und Transmat (Derrick May, *Transmat wurde Mitte der 1980er Jahre gegründet) gaben den Kreativen direkte Freiheit und wurden zu Stützpunkten für den Export in die Welt. Singles dieser Labels wuchsen in Clubs und wurden schließlich durch Alben und Compilations international. *(Wir empfehlen, für jedes Werk die detaillierten Gründungsinformationen und das Erscheinungsjahr zu prüfen.)
 
 <hr>
 
@@ -159,7 +159,15 @@ Im Folgenden sind die „Kern“-Songs zum Verständnis von Detroit Techno aufge
 
 ### Von Detroit in die Welt – Die ewige Poesie der Elektronik
 
-Detroit Techno ist mehr als nur Tanzmusik, er ist ein kulturelles Produkt der Geschichte, Technologie und Kreativität der schwarzen Amerikaner der Stadt. Vielmehr weckt die Wiederholung mechanischer Rhythmen menschliche Emotionen und Gemeinschaft – das ist Detroits „warmer mechanischer Klang“. Wenn Sie berühmte Lieder aus der Vergangenheit hören und die Stimmung am Veranstaltungsort (DJ-Set oder Festival) erleben, werden Sie die Tiefe dieser Musik noch mehr schätzen können.
+Detroit Techno ist mehr als nur Tanzmusik; Es ist ein kulturelles Produkt, das die Geschichte, Technologie und die Kreativität der schwarzen Amerikaner der Stadt vereint. Vielmehr weckt die Wiederholung mechanischer Rhythmen menschliche Emotionen und Gemeinschaft – das ist Detroits „warmer mechanischer Klang“. Wenn Sie berühmte Lieder aus der Vergangenheit hören und die Stimmung am Veranstaltungsort (DJ-Set oder Festival) erleben, werden Sie die Tiefe dieser Musik noch mehr schätzen können.
+
+---
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZTihU-gnxwo?si=lsZkzvpVRdjObT3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

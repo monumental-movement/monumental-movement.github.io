@@ -17,7 +17,7 @@ title: '[Kolumne] Hikashu: Eine grenzüberschreitende Geschichte des Avantgarde-
 
 ## Behandelt kreative Methoden, Mitglieder, Chronologie und Diagramme
 
-Text: mmr | Thema: Eine lange Kolumne von Hikashu, der in den späten 1970er Jahren zu Beginn des Techno/New Wave erschien und Pionier des „japanischen experimentellen Pop“ war. Flugbahn von der Gründung bis zur Gegenwart
+Text: mmr | Thema: Eine lange Kolumne von Hikashu, der Ende der 1970er Jahre zu Beginn des Techno/New Wave erschien und Pionier des „japanischen experimentellen Pop“ war. Flugbahn von der Gründung bis zur Gegenwart
 
 Hikashu ist eine Gruppe, die in der japanischen Pop-/Rock-Geschichte eine einzigartige Stellung einnimmt.
 Seit ihrem Debüt im Jahr 1978 haben sie Elemente wie **New Wave, Avantgarde-Musik, Musiktheater, Improvisation, elektronische Musik und Volksmusik** frei gekreuzt und dabei ihre einzigartigen Kreationen beibehalten, die „das Konzept des Genres weiterhin aufrütteln“.
@@ -148,7 +148,7 @@ Dabei handelt es sich nicht nur um Gesang, sondern um eine Erkundung der Stimme 
 Im Anfangsstadium stechen die neuen wellenartigen stoischen Beats hervor, ab der Mitte nehmen jedoch komplexe Ensembles mit mehreren gleichzeitig existierenden Beats zu.
 
 ### ■ 3. „Struktureller Humor“ statt „Absurdität“
-Hikashus Texte und Produktion mögen bizarr erscheinen, aber viele von ihnen sind äußerst präzise strukturiert.
+Hikashus Texte und Darbietungen mögen bizarr erscheinen, viele von ihnen sind jedoch äußerst präzise strukturiert.
 Nonsense ist kein „Denkstopp-Gag“, sondern ein Mittel, um die Grenze zwischen Sprache und Klang zu erschüttern.
 
 ### ■ 4. Theremin und elektronische Akustik
@@ -160,7 +160,7 @@ Die instabile Tonhöhe des Theremins stört die Struktur des Liedes und verleiht
 # 8. Übersicht der Hauptmitglieder
 
 - **Koichi Makigami**: Stimme: Theremin. die Mitte der Band. Ein breites Angebot an Aktivitäten von Avantgarde-Musik über Theater bis hin zu Volksmusik.
-- **Mita Chojin**: Gitarre. Versiert in akustischer Verarbeitung und unregelmäßigen Spieltechniken.
+- **Mita Chojin**: Gitarre. Verwendet akustische Verarbeitung und unregelmäßige Spieltechniken.
 - **Akira Toyama** (vorübergehende Teilnahme): Schlagzeug. Der Band ein Gefühl für Jazz/Improvisation vermitteln.
 - **Masami Sakaide**: Bass. Trägt zur Komplexität der Rhythmusstruktur bei.
 - **Makoto Inoue** (initial): Tastatur. Es bestimmte in den frühen Tagen Hikashus Techno-/New-Wave-Feeling.
@@ -208,7 +208,7 @@ Diese Werke entwickeln Hikashus einzigartige Weltanschauung unabhängig von Tren
 Die Einzigartigkeit von Hikashu liegt in der Tatsache, dass es sich weiterhin um eine natürliche Kunstgruppe handelt, die sich im Laufe der Zeit verändert.
 
 1. Wechseln Sie frei zwischen Haupt- und U-Bahn
-2. Akustische Kunst mit Schwerpunkt auf der Stimme verfolgen
+2. Streben nach akustischer Kunst mit Schwerpunkt auf der Stimme
 3. Die Einstellung, unabhängig von den Trends der Zeit weiterhin kreativ zu sein
 4. Befreiung aus dem Rahmen traditioneller Rockbands
 5. Live-Philosophie, die immer genreübergreifend ist und auch Wiederaufführungen zum „Experiment“ macht
@@ -222,7 +222,7 @@ Es reicht nicht aus, Hikashu einfach als „Legende der japanischen New Wave“ 
 – Der „Zustand“ von Hikashu
 
 Hikashu ist mehr als eine „Band“, es ist ein Testgelände für Klang, Körper und Humor.
-Auch wenn seit ihrer Gründung schon über 45 Jahre vergangen sind, stehen sie immer wieder auf der Bühne, nicht um die Vergangenheit nachzuspielen, sondern um das „Jetzt“ neu zu entdecken.
+Auch wenn seit ihrer Gründung über 45 Jahre vergangen sind, stehen sie immer wieder auf der Bühne, nicht um die Vergangenheit nachzuspielen, sondern um das „Jetzt“ neu zu entdecken.
 
 Diese Haltung ist in der Geschichte der japanischen Musik von einzigartigem Wert.
 Hikashu endet nie. Sie existieren immer als fortlaufender „Zustand“.

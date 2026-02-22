@@ -23,7 +23,7 @@ title: Aufgreifen deutscher Techno-Werke
 <a href="https://jp.mercari.com/item/m32845023734?afid=6142608987"><img src="../assets/images/Tresor%20Compilation%20Vol.%207.webp"></a>
 
 
-Attraktiver Punkt: Eine Zusammenstellung des renommierten deutschen Labels Tresor mit einer luxuriösen Auswahl an Titeln einiger der größten Namen des Techno, darunter Sven Väth, Maurizio, Ben Sims, James Ruskin und Pacou. Dies ist ein Stück, das es Ihnen ermöglicht, den Charme des harten, minimalistischen und innovativen Techno, der Berlin-Deutschland symbolisiert, voll und ganz zu erleben.
+Attraktiver Punkt: Eine Zusammenstellung des renommierten deutschen Labels Tresor mit einer luxuriösen Auswahl an Titeln einiger der größten Namen des Techno, darunter Sven Väth, Maurizio, Ben Sims, James Ruskin und Pacou. Dies ist ein Stück, das es Ihnen ermöglicht, den Charme des harten, minimalistischen und innovativen Techno, der Berlin – Deutschland, symbolisiert, voll und ganz zu erleben.
 
 
 #### Trackliste
@@ -83,7 +83,7 @@ B. Souls At Zero (Sven Väth Remix)
 <a href="https://jp.mercari.com/item/m39474275698?afid=6142608987"><img src="../assets/images/Cygnus%20X%20%E2%80%93%20The%20Orange%20Theme%20(The%20Remixes).webp"></a>
 
 
-Attraktiver Punkt: Ein Remix-Album des energiegeladenen und mitreißenden Trance-Techno-Meisterwerks „The Orange Theme“ der deutschen Band Cygnus
+Attraktiver Punkt: Ein Remix des energiegeladenen und mitreißenden Trance-Techno-Meisterwerks „The Orange Theme“ der deutschen Band Cygnus
 
 
 #### Trackliste

@@ -79,7 +79,7 @@ King Tubby, Lee Perry, Errol Thompson und andere nutzten den Mischtisch wie ein 
 
 ### ▪ Lautsprecher-Bass-Philosophie
 
-Der „Bass“ des Soundsystems hatte einen religiösen Klang.
+Der „Bass“ des Soundsystems hatte einen religiösen Oberton.
 Verbunden mit dem Rastafari-Geist drücken sie ihre Sicht auf das Universum als „tiefer Ton = Erde“ und „hoher Ton = Himmel“ aus.
 Diese Idee wurde später von **UK Dub** (Jah Shaka, Aba Shanti-I) und **Soundclash Culture** übernommen.
 
@@ -90,7 +90,7 @@ Diese Idee wurde später von **UK Dub** (Jah Shaka, Aba Shanti-I) und **Soundcla
 ### ▪ Lässigkeit und Slang-Explosion
 
 1985 veränderte **Wayne Smiths „Under Mi Sleng Teng“** alles.
-Dieser Song, der die Rhythmus-Presets des Casio MT-40 nutzt, gilt als der erste vollständig digitale Reggae der Geschichte, und von da an wurde „Digital Dancehall“ zum Mainstream.
+Dieser Song, der die Rhythmus-Presets des Casio MT-40 verwendete, gilt als der erste vollständig digitale Reggae in der Geschichte, und von da an wurde „Digital Dancehall“ zum Mainstream.
 
 | Jahr | Repräsentatives Lied | Künstler | Notizen |
 |----|--------|---------------|------|
@@ -156,7 +156,7 @@ Wichtigste japanische Spieler:
 ### ▪ DIY-Geist und modernes Erbe
 
 In den letzten Jahren kam es zu Überschneidungen mit Dubstep/Techno.
-**Tokyo Dub Attack**, **Zettai-Mu (Osaka)**, **Mura Masa System (Okinawa)** und andere sind derzeit aktiv.
+**Tokyo Dub Attack**, **Zettai-Mu (Osaka)**, **Mura Masa System (Okinawa)** sind derzeit aktiv.
 Die Grundlage dafür ist die Soundsystem-Philosophie, „unseren eigenen Sound mit unseren eigenen Händen zu erzeugen“.
 
 ---
@@ -256,7 +256,7 @@ graph TD
 </div>
 
 Dieses Diagramm zeigt das Netzwerk unabhängiger Soundsystemkulturen, die nach Regionen gebildet werden.
-Folgende Merkmale sind klar erkennbar: „Yokohama = international wettbewerbsfähig ausgerichtet“, „Osaka = direkte Verbindung zu den Straßen“ und „Okinawa = der Verbindungspunkt zwischen der Karibik und Asien“.
+Folgende Merkmale sind klar erkennbar: „Yokohama = international wettbewerbsfähig ausgerichtet“, „Osaka = direkte Verbindung zu den Straßen“ und „Okinawa = Verbindungspunkt zwischen der Karibik und Asien.“
 
 ---
 

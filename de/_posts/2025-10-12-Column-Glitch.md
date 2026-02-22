@@ -128,7 +128,7 @@ Glitch hat die Grenzen der Kunst überschritten und ist zu unserem „Alltagssou
 
 ### Zukunft: Die Zukunft von Post-Glitch
 
-„kaputt“ zu sein ist nichts Besonderes mehr.
+„Kaputt“ zu sein ist nichts Besonderes mehr.
 Wir leben in einer Zeit, in der KI „simulierte Fehler“ erzeugt und Lärm erzeugt.
 Wie schaffen Menschen „Zufälle“ in einer perfekt kontrollierten Simulation?
 
@@ -198,7 +198,7 @@ color: #fff;
 
 #### Glitch-Must-Listen-Diskographie
 
-| Jahr | Künstler | Werktitel (Amazon-Link) | Notizen |
+| Jahr | Künstler | Titel der Arbeit (Amazon-Link) | Notizen |
 | ---- | -------------- | ---------------------------------------------------------------- | --------------- |
 | 1995 | Oval       | [94diskont](https://amzn.to/47k6D9b)           | “CD傷音”の金字塔      |
 | 1996 | Ryoji Ikeda                  | [+/-](https://amzn.to/46NnTU7)                 | ミニマル音響の頂点       |

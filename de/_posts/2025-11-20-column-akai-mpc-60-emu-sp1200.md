@@ -38,7 +38,7 @@ color: #fff;
 </style>
 
 
-## Kapitel 2: Grundlegende technische Kenntnisse – Abtasttheorie und 12-Bit-Eigenschaften
+## Kapitel 2: Grundlegende technische Kenntnisse – Sampling-Theorie und 12-Bit-Eigenschaften
 
 ### 2.1 Grundlagen der Probenahme
 
@@ -75,13 +75,17 @@ Mitte bis Ende der 1980er Jahre waren die Preise für Halbleiterspeicher um Grö
 * **Hauptmerkmale**: 8-Spur-Sequenzer, Filter (analog), einzelne Ausgänge
 
 **Designphilosophie und Funktionen**
-Der SP-1200 wurde unter Berücksichtigung der Zeitbeschränkungen eines Probenehmers entwickelt und ist für den Arbeitsablauf „Schneiden und Anordnen kurzer Proben“ optimiert. In Kombination mit der internen analogen Schaltung ergibt sich ein dicker Tieftonbereich mit einer „Rauheit“ oder „Welle“. Anhand der Spezifikationen und technischen Unterlagen von E-mu aus dieser Zeit kann bestätigt werden, dass der A/D-Pfad und das Filterdesign des SP-1200 zur akustischen Färbung beitragen.
+Der SP-1200 wurde unter Berücksichtigung der Zeitbeschränkungen eines Probenehmers entwickelt und ist für den Arbeitsablauf „Schneiden und Anordnen kurzer Proben“ optimiert. In Kombination mit der internen analogen Schaltung ergibt sich ein dicker Tieftonbereich mit einer „Rauheit“ oder „Welle“. Basierend auf den Spezifikationen und der technischen Dokumentation von E-mu aus dieser Zeit können wir bestätigen, dass der A/D-Pfad und das Filterdesign des SP-1200 zu seiner akustischen Färbung beitragen.
 
 **Praktische Anwendung**
 
 * Pausenproben und Hacken
 * Tonhöhe nach schnellem Sampling verringern (induziert einen Tiefpasseffekt)
 * Erstellen Sie Grooves mit Loop-Tweaks und Timing-Swings
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6-FLx_gIVCE?si=fHXFlga4-I9RphJZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 ### 4.2 Akai MPC60 (1988) – Erfolg als Musikinstrument
 
@@ -92,6 +96,10 @@ Der SP-1200 wurde unter Berücksichtigung der Zeitbeschränkungen eines Probeneh
 
 **Designphilosophie und Funktionen**
 Mit Designunterstützung von Roger Linn sollte der MPC60 ein „spielbarer Sampler“ sein. Große Pads und ein Sequenzer, der das Groove-Gefühl betont, verbessern die Benutzerfreundlichkeit für Improvisationsdarbietungen und Live-Produktionen erheblich. Das Datenblatt betont die Sequenzergenauigkeit und den Pad-Erkennungsmechanismus des MPC60.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vnRc56hEMsw?si=65ZvsCS8iGBWfeZW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 ### 4.3 Akai S900 / S950
 
@@ -215,6 +223,15 @@ Der 12-Bit-Sampler ist ein großartiges Beispiel dafür, wie technische Einschr�
 
 ---
 
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Yr86z5Clz8?si=lRR5xNgILcSUnEQ3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ### Anhang: Funktionale Beziehung/Workflow
 
 #### Workflow-Konzeptdiagramm
@@ -320,7 +337,7 @@ flowchart TD
 
 </div>
 
-## Detaillierte Erläuterung der internen Schaltkreise jedes Modells (CPU / ROM / DAC)
+## Detaillierte Erklärung der internen Schaltkreise jedes Modells (CPU / ROM / DAC)
 
 ### SP-1200 Interner Block
 
@@ -356,7 +373,7 @@ flowchart TD
 
 ---
 
-## Abschnitt „Spur-/Wellenform-/Frequenzanalyse“.
+## Abschnitt zur Spur-/Wellenform-/Frequenzanalyse
 
 ### Ebenenanalyse von Public Enemy (Bomb Squad) SP-1200
 

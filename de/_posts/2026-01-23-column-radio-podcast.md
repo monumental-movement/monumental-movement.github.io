@@ -68,7 +68,7 @@ Das Erlebnis, zur gleichen Zeit dasselbe Lied zu hören, hat Musik zu einem sozi
 Das Radio hat eine Existenz geschaffen, die nicht nur die Musik selbst präsentiert, sondern auch „wie man Musik hört“.
 Der DJ war der Musikwähler, Kommentator und Geschichtenerzähler.
 
-Songreihenfolge, Zeitzone und Kommentare.
+Songreihenfolge, Zeit und Kommentare.
 Diese geben der Musik einen Kontext und definieren das Genre.
 
 Das Phänomen, dass die von einem bestimmten DJ eingeführte Musik als Genre anerkannt wird, wiederholt sich auf der ganzen Welt.
@@ -116,7 +116,7 @@ Das Radio wird als „Stimme, die keine Konzentration erfordert“ überleben.
 Während dieser Zeit wird die Musik zur Hintergrundmusik und die Erzählung wird vereinfacht.
 Obwohl sein Einfluss abgenommen hat, ist seine Verbreitung im Alltag geblieben.
 
-> Das Radio blieb als Hintergrundgeräusch erhalten.
+> Radio blieb als Hintergrundgeräusch erhalten.
 
 ---
 
@@ -129,7 +129,7 @@ Diese sind zu unnötigen Elementen für die Audioverteilung geworden.
 Durch die On-Demand-Wiedergabe entfällt die Notwendigkeit der Gleichzeitigkeit und des Organisationskonzepts.
 Radio muss keine „Sendung“ mehr sein.
 
->Der Ton wurde von Radiowellen befreit.
+> Die Stimme wurde von Radiowellen befreit.
 
 ---
 
@@ -161,7 +161,7 @@ Dies ist eine persönlichere, umfassendere Neuinterpretation der DJ-Kultur aus d
 
 
 Die traditionelle Radiowirtschaft war auf Werbung angewiesen.
-Die Struktur, in der der Wert anhand der Einschaltquoten und der Anzahl der Zuschauer ermittelt wurde, wurde für die Ausstrahlung im großen Maßstab optimiert.
+Die Struktur, in der der Wert anhand von Einschaltquoten und Zuschauerzahlen ermittelt wurde, wurde für die Ausstrahlung im großen Maßstab optimiert.
 
 Nischenmusikkulturen und spezialisierte Narrative lassen sich in diesem Modell nur schwer etablieren.
 

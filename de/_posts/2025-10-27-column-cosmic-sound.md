@@ -25,7 +25,7 @@ Niemand wusste, dass dieser Ort, der nur ein Ferienort für Touristen war, spät
 Die zentrale Figur ist **Daniele Baldelli**.
 Er ist nicht nur ein DJ, sondern wurde auch als „Architekt, der die Geschwindigkeit von Schall und Raum rekonstruiert“ bekannt.
 
-In der damaligen Disco-Szene dominierten 4/4-Rhythmen, vertreten durch amerikanische Soul- und House-Musik.
+In der damaligen Disco-Szene dominierte der 4/4-Rhythmus, der durch amerikanische Soul- und House-Musik repräsentiert wurde.
 Allerdings verwebt Baldelli ethnische Musik, elektronische Klänge, Progressive Rock, afrikanische Trommeln und sogar Krautrock.
 **Wir haben das Konzept des „kosmischen Tempos“ vorgestellt**, das es Ihnen ermöglicht, den BPM frei zu ändern.
 
@@ -87,7 +87,7 @@ Die ganze Nacht über fühlt es sich an, als würde ein Raumschiff abstürzen un
 ## 4. Klangmaterialwissenschaft – Verlagerung von Klangquellen im Kosmischen
 
 Baldelli war ein Pionier der DJs, die Songs als „Material“ behandelten.
-Es herrschte ein starkes Gefühl, die aufgenommenen Klänge auf dem Plattenspieler noch einmal zu „komponieren“.
+Ich hatte ein starkes Gefühl dafür, die aufgenommenen Klänge auf dem Plattenspieler noch einmal zu „komponieren“.
 
 | Verwendete Quellen | Konkrete Beispiele |
 |:--|:--|

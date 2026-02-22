@@ -42,7 +42,7 @@ color: #fff;
 
 
 ## Vorgeschichte: Kontext der Ära der analogen Geräte/Hardware-Synthesizer
-Rückblickend auf die elektronische Musik-/Clubmusikszene von den 1980er bis Mitte der 1990er Jahre nahmen viele berühmte Instrumente wichtige Positionen als „Equipment“ ein. Unter diesen waren der Roland TB-303 (Bassline-Synthesizer) und der TR-808/TR-909 (Drum-Maschinen) der Katalysator, der den Ton, den Spielstil und die Kultur veränderte.
+Rückblickend auf die elektronische Musik-/Clubmusikszene von den 1980er bis Mitte der 1990er Jahre nahmen viele berühmte Instrumente wichtige Positionen als „Equipment“ ein. Unter ihnen waren die Roland TB-303 (Bassline-Synthesizer) und TR-808/TR-909 (Drum-Maschinen) die Katalysatoren, die den Ton, den Spielstil und die Kultur veränderten.
 
 ### Geburt von TB-303 und „Säure“
 Der TB-303 war ein Basslinien-Synthesizer, der um 1981 auf den Markt kam. Obwohl er ursprünglich als „Gerät zur Nachahmung des Bassspiels“ konzipiert war, erfüllte er in den Anfangsjahren seinen Zweck nicht und war ein Misserfolg auf dem Markt, so dass er begann, gebraucht zu einem niedrigen Preis vertrieben zu werden.
@@ -103,7 +103,7 @@ Auf diese Weise war ReBirth nicht nur eine technologische Innovation, sondern au
 Die Wirkung von ReBirth geht über die bloße Funktion eines Software-Synthesizers hinaus. Wichtig sei vielmehr, dass es die „Zugangs- und Ausdrucksmöglichkeiten“ in den Kulturfeldern elektronische Musik, Clubs, Techno und DIY-Produktion neu strukturierte.
 
 ### Wieder Acid-Techno: Popularisierung des TB-303-Sounds
-Der Klang des TB-303 war ein symbolisches Element des Genres Acid House/Acid Techno, aber Mitte der 1990er Jahre war die Ausrüstung seltener und der Sound „wahnsinniger“ geworden. Dann realisierte eine Software namens ReBirth eine „TB-303-ähnliche Basslinie + TR-808/909-ähnliches Schlagzeug“ in der Software und öffnete damit die Tür für „Acid-/Techno-Musik, die man machen kann, ohne dass man irgendwelche Geräte besitzen muss“.
+Der Klang des TB-303 war ein symbolisches Element des Genres Acid House/Acid Techno, aber Mitte der 1990er Jahre war die Ausrüstung seltener und der Sound wahnsinniger geworden. Dann realisierte eine Software namens ReBirth eine „TB-303-ähnliche Basslinie + TR-808/909-ähnliches Schlagzeug“ in der Software und öffnete damit die Tür für „Acid-/Techno-Musik, die man machen kann, ohne dass man irgendwelche Geräte besitzen muss“.
 
 Dies stellte die vorgefasste Meinung in Frage, dass „Hardware-Besitz = Produktionsstil“ sei, und diente als Gelegenheit, die Schöpferbasis zu erweitern.
 
@@ -153,7 +153,7 @@ Andererseits wurde die mobile Version einige Jahre nach der Veröffentlichung au
 ### „Das Ende“ und seine Lesart
 Obwohl die ReBirth-Software in ihrer jetzigen Form nicht weiter weiterentwickelt wurde, hat ihr „Tod“ selbst mehrere Bedeutungsebenen.
 - Ein Grund dafür ist, dass der Trend von der Ausrüstung zur Software einen gewissen Reifegrad erreicht hat und in die „nächste Stufe“ übergegangen ist.
-- Darüber hinaus sind Fragen des geistigen Eigentums, der Emulation, des Eigentums und des Zugriffs offensichtlicher geworden als erwartet.
+- Darüber hinaus sind Probleme mit geistigem Eigentum, Emulation, Eigentum und Zugriff offensichtlicher als erwartet.
 - Und da persönliche Produktions-/Software-zentrierte Umgebungen alltäglich geworden sind, beginnt man, das Thema der „Reproduktion von Hardware-Geräten mit Software“ neu zu überdenken.
 Daher ist es sinnvoll, das „Ende“ von ReBirth nicht einfach als das Ende des Dienstes zu betrachten, sondern als einen „Punkt der Veränderung“ in der Produktionsumgebung.
 

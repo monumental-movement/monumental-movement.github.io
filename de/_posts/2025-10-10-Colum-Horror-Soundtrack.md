@@ -52,10 +52,10 @@ Die Ankunft von A24 erhöhte den Horror in den Kontext des Kunstkinos.
 Akustisches Design, das die Grenze zwischen Stille und Lärm verwischt, war das Herzstück der A24-Ästhetik.
 
 続く[『Hereditary／ヘレディタリー』（2018）](https://amzn.to/470xAxf)では、[Colin Stetson](https://amzn.to/438tcv3)のサクソフォニック・ドローンが異様な緊張を形成する。  
-Das Atemgeräusch, die Resonanz der verzerrten Stimmzungen, die Vibrationen des tiefen Basses – all diese Dinge lassen Sie körperlich die Präsenz einer „unsichtbaren Präsenz“ spüren.
+Das Atemgeräusch, die Resonanz der verzerrten Stimmzungen, die Vibrationen des tiefen Basses – diese Dinge lassen Sie die Anwesenheit einer „unsichtbaren Präsenz“ körperlich spüren.
 
 [『Midsommar』（2019）](https://amzn.to/3WzeBFe)では、[The Haxan Cloak](https://amzn.to/4mV3nFT)、[Bobby Krlic](https://amzn.to/473kC1M) が北欧の民族儀礼音楽と電子ノイズを融合。 
-Im Gegensatz zu den sonnigen Bildern verwischte der Ton die Grenze zwischen Jubel und Wahnsinn und eröffnete dem Horror eine neue Grenze.
+Im Gegensatz zu den sonnigen Bildern verwischte der Ton die Grenze zwischen Feierlichkeit und Wahnsinn und eröffnete dem Horror eine neue Grenze.
 
 Das Horror-Soundsystem von A24 erschüttert das Publikum eher mit „Flüstern“ als mit „Schreien“.
 
@@ -133,7 +133,7 @@ Es war eine Zeit, in der Filmmusik und Clubkultur auf seltsame Weise miteinander
 
 ---
 
-Der einzigartige Horrorsound sorgt auch in Asien für Aufsehen.
+Auch in Asien sorgt der einzigartige Horrorsound für Aufsehen.
 [『The Wailing（哭声）』（2016／韓国）](https://amzn.to/46NKuA5)では、民俗儀礼音楽が恐怖と祈りの境界を曖昧にする。  
 日本のホラー音響──[川井憲次（『リング』）](https://amzn.to/4h9avxd)や高橋洋の手法──は、  
 Es wurde als **Angstetikette unter Verwendung von Stille und Umgebungsgeräuschen** an die Welt weitergegeben.

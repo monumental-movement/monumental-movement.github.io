@@ -19,14 +19,14 @@ title: '[Kolumne] Das Erbe von Jeskola Buzz: Das Wunder der elektronischen Musik
 ## 1. Einführung: Die PC-Musikszene der 1990er Jahre und die Entstehung von Buzz
 
 
-Text: mmr｜Thema: Verfolgen Sie die technischen Merkmale und die Geschichte von Buzz, organisieren Sie dann, was aus der Benutzer-/Community-Perspektive möglich war, und verfolgen Sie spezifische Beispiele für die Nutzung durch Künstler und seinen musikalischen Einfluss.
+Text: mmr｜Thema: Verfolgen Sie die technischen Merkmale und die Geschichte von Buzz, organisieren Sie dann, was aus der Benutzer-/Community-Perspektive möglich war, und verfolgen Sie spezifische Beispiele für die Nutzung durch Künstler und ihren musikalischen Einfluss.
 
 Mitte der 1990er Jahre befand sich die Welt der elektronischen Musik/PC-Musikproduktion an einem großen Wendepunkt. Traditionell standen Hardware-Synthesizer, spezielle Geräte und Aufnahmestudios im Mittelpunkt, was die Umgebung einschränkte, in der Einzelpersonen Songs frei produzieren und präsentieren konnten. Fortschritte in der PC- (Windows) und Softwaretechnologie haben jedoch eine Ära eingeläutet, in der Menschen zu Hause frei Klänge erzeugen können.
 
 Mittlerweile erschien etwa 1997 „Jeskola Buzz“ des finnischen Entwicklers Oskari Tammelin (bzw. soll es schon vorher eine Alpha-Version gegeben haben).
 Buzz ist ein modularer Freeware-Tracker/Sequenzer (kostenlose Distribution) für Windows, der von vielen Benutzern unterstützt wird. Die größte Attraktion war die Umgebung, in der „Klangquellen (Generatoren), Effekte (Maschinen) und Routing (Verkabelung) frei zusammengestellt werden konnten, um „modulare Geräte“ auf Software nachzubilden.“
 
-Diese „modulare + Tracker“-Konfiguration ermöglichte im Gegensatz zu den damaligen GUI-zentrierten DAWs (Digital Audio Workstations) „Experimentalismus“ und einen „Patch-ähnlichen“ Ansatz, was zu einem hohen Maß an Freiheit bei der Klangerkundung führte. Buzz ist mehr als nur „Software, die Geräusche erzeugt“, sondern hat eine „kulturelle Sphäre“ geschaffen, in der Einzelpersonen ihre eigenen Maschinen erstellen und erweitern und sie gemeinsam mit der Community weiterentwickeln können. Einige glauben mittlerweile, dass dieser Trend eine weiche modulare Umgebung, eine Plug-in-Kultur und sogar eine Rückkehr zur harten Modularität beeinflusst hat.
+Diese „modulare + Tracker“-Konfiguration ermöglichte im Gegensatz zu den damaligen GUI-zentrierten DAWs (Digital Audio Workstations) „Experimentalismus“ und einen „Patch-ähnlichen“ Ansatz, was zu einem hohen Maß an Freiheit bei der Klangerkundung führte. Buzz ist mehr als nur „Software, die Klang erzeugt“, sondern hat eine „kulturelle Sphäre“ geschaffen, in der Einzelpersonen ihre eigenen Maschinen erstellen und erweitern und sie gemeinsam mit der Community weiterentwickeln können. Einige glauben mittlerweile, dass dieser Trend eine weiche modulare Umgebung, eine Plug-in-Kultur und sogar eine Rückkehr zur harten Modularität beeinflusst hat.
 
 ---
 
@@ -53,8 +53,8 @@ Das Besondere daran war, dass die Software selbst aus einer Maschine (Klangquell
 
 * Anfänglich: Läuft unter Windows 95/98. Es war leichtgewichtig und verfügte über einen Tracker-ähnlichen Musterbearbeitungsbildschirm und eine modulare Ansicht (Machine View).
 * Plug-in-Ökosystem: Seit Beginn der Entwicklung gibt es eine „Buzzlib“-Spezifikation, die es Benutzern ermöglicht, Klangquellen und Effekte frei zu erstellen und zu verteilen, und aus der Community sind viele Maschinen aufgetaucht.
-* Versionsaktualisierung: Die offizielle Entwicklung wurde vorübergehend eingestellt (aufgrund des Verlusts des Quellcodes), aber im Juni 2008 wurde angekündigt, dass die Entwicklung wieder aufgenommen wird.
-*Endgültiger Build: Build 1503, veröffentlicht am 16. Januar 2016.
+* Versionsaktualisierung: Obwohl die offizielle Entwicklung vorübergehend ins Stocken geraten war (aufgrund des Verlusts des Quellcodes), wurde im Juni 2008 angekündigt, dass die Entwicklung wieder aufgenommen werden würde.
+*Letzter Build: Build 1503, veröffentlicht am 16. Januar 2016.
 
 ### Bedeutung/Hintergrund des Namens
 
@@ -63,8 +63,8 @@ Das Besondere daran war, dass die Software selbst aus einer Maschine (Klangquell
 ### Warum „modular + tracker“ revolutionär war
 
 * Herkömmlicherweise bestand die gängige Methode von Trackern darin, Samples in einem vertikalen Scrollformat anzuordnen, und die Weiterleitung von Tonquellen und Effekten war fest/begrenzt. Buzz erweiterte dieses Konzept um ein „Patchkabel“-Konzept, das es Benutzern ermöglicht, eigene Schaltkreise wie „Tonquelle -> Filter -> Effekt -> Ausgang“ zu erstellen.
-* Darüber hinaus war es leichtgewichtig und seine Parameter konnten in Echtzeit manipuliert werden, was es zu einer beliebten Basis für die Erstellung experimenteller Klangwerke machte.
-* Der offene Geist der kostenlosen Verbreitung und Benutzererweiterbarkeit hat einzelne Entwickler dazu ermutigt, eine Kultur zu schaffen, in der sie „ihre eigenen Sounds modifizieren, um sie zu erstellen/zu teilen“.
+* Darüber hinaus war es leichtgewichtig und seine Parameter konnten in Echtzeit manipuliert werden, was es zu einer beliebten Plattform für die Erstellung experimenteller Klangwerke machte.
+* Der offene Geist der kostenlosen Verbreitung und Erweiterbarkeit durch Benutzer hat einzelne Entwickler dazu ermutigt, eine Kultur zu schaffen, in der sie „ihre eigenen Sounds modifizieren, um sie zu erstellen/zu teilen“.
 
 Auf diese Weise spielte Buzz seinerzeit eine ketzerische und innovative Rolle bei der „Realisierung einer modularen Umgebung auf einem PC“.
 
@@ -76,7 +76,7 @@ In diesem Kapitel werden wir detailliert analysieren, was an Buzz technologisch 
 
 ### 3.1 Schallquellen und Effekte können in „maschinellen“ Einheiten behandelt werden
 
-Buzz verfügt über eine „Generator“-Maschine, die Töne erzeugt, und eine „Effekt“-Maschine, die Töne verarbeitet, und Benutzer können sie in der „Maschinenansicht“ anordnen und verbinden.
+Buzz verfügt über eine „Generator“-Maschine, die Ton erzeugt, und eine „Effekt“-Maschine, die Ton verarbeitet, und Benutzer können sie in der „Maschinenansicht“ anordnen und verbinden.
 Ich konnte zum Beispiel einen Ablauf aus Wellenformerzeugungsmaschine (Oszillator)/Samplermaschine (Sampler) → Filter → Hüllkurve/LFO → Hall/Verzögerung → Ausgang visualisieren und erstellen.
 Diese Konfiguration ermöglicht ein „freies Routing“, das bei herkömmlichen Trackern/Sequenzern selten zu finden ist.
 
@@ -92,7 +92,7 @@ Dies führte zu folgenden Trends:
 
 * Einzelne Entwickler veröffentlichen Soundquellen/Effekte, und Sie können neue Sounds/Verarbeitungen genießen, indem Sie sie einfach herunterladen und integrieren.
 * Die Benutzer begannen, sich der Herausforderung zu stellen, „wie weit sie Schaltkreise erstellen könnten“ und „wie viel experimentellen Klang sie erreichen könnten“.
-* Die Zahl der Fälle, in denen Menschen, die experimentelle Werke über verschiedene Musikgenres hinweg schaffen, Buzz als „Werkzeug“ wählen, hat zugenommen.
+* Menschen, die experimentelle, musikgenreübergreifende Werke schaffen, entscheiden sich zunehmend für Buzz als „Werkzeug“.
 
 ### 3.4 Leicht, unmittelbar und als experimentelle Umgebung überlegen
 
@@ -123,7 +123,7 @@ Diese Lernkultur führte zu einem Trend des „Lernens, wie man es benutzt/ände
 ### 4.4 Nutzung über Musikgenres hinweg und Schaffung einer Subkultur
 
 Schöpfer, die Buzz nutzten, waren nicht auf ein Genre beschränkt, einschließlich Techno, Trance, IDM, Ambient, Breakcore und Chiptune. Es herrschte sozusagen eine Kultur, „Ideen zuerst zu nehmen, unabhängig von der Ausrüstung“.
-Einige Leute erstellten beispielsweise Chiptune-ähnliche Stücke mit einer Konfiguration aus „8-Bit-PCM + Sampler + Filter + Verzögerung“, während andere Breakcore mit einer Konfiguration aus „mehreren Samplern + Glitch-Verarbeitung + Hochgeschwindigkeitsmusterung“ erstellten. Auch unter den Anwendern gab es einen regen Know-how-Austausch, etwa „Diese Maschine/diese Verkabelung ist gut.“
+Einige Leute haben beispielsweise Chiptune-ähnliche Stücke mit einer Konfiguration aus „8-Bit-PCM + Sampler + Filter + Verzögerung“ erstellt, während andere Breakcore mit einer Konfiguration aus „mehreren Samplern + Glitch-Verarbeitung + Hochgeschwindigkeitsmusterung“ erstellt haben. Auch unter den Anwendern gab es einen regen Know-how-Austausch, etwa „Diese Maschine/diese Verkabelung ist gut.“
 
 Auf diese Weise ist die Buzz-Community über die bloße „Software-Nutzerschaft“ hinaus zu „Freunden, die eine akustische Experimentierplattform teilen“ und „einer kulturellen Gemeinschaft, die selbstgebaute Maschinen vertreibt und modifiziert“ geworden.
 
@@ -147,7 +147,7 @@ Diesen Berichten zufolge ist es sehr zuverlässig, dass Holden einige seiner fr�
 
 #### Beispiel-Track-Analyse (Beispiel)
 
-Am Beispiel eines Titels wie „Blank It“ aus dem Album *The Idiots Are Winning* lassen sich folgende Punkte auf die Umgebung ableiten, in der Buzz eingesetzt wird:
+Am Beispiel eines Titels wie „Blank It“ aus dem Album *The Idiots Are Winning* lassen sich folgende Punkte auf das Umfeld schließen, in dem Buzz eingesetzt werden wird:
 
 * Komplexes Schleifen-/Probengebermaterial wird parallel entwickelt,
 * Modularer Filterbetrieb und LFO-Modulation sind zu erkennen (der Klang hat ein „mechanisches Gefühl“),
@@ -157,7 +157,7 @@ Auf diese Weise verfügen Holdens frühe Werke über eine Klangsprache, die mit 
 
 ### 5.2 Mögliche Verwendung erwähnt: Aphex Twin
 
-Bezüglich Aphex Twin (richtiger Name Richard D. James) wurden keine stichhaltigen Primärdokumente (offizielle Interviews usw.) gefunden, die besagen, dass er „Buzz verwendet“ hat, und in Forenbeiträgen und Erfahrungsberichten von Benutzern gibt es nur Erwähnungen von „er ​​hat Buzz verwendet/nutzt möglicherweise Buzz“. Im KVR-Forum sagte beispielsweise ein Benutzer: „...mein Tracker meiner Wahl ist Jeskola Buzz...“, was darauf hindeutet, dass AFX (Aphex Twin) möglicherweise Tracker-Software verwendet.
+Bezüglich Aphex Twin (richtiger Name Richard D. James) wurden keine verlässlichen Primärmaterialien (offizielle Interviews usw.) gefunden, die besagen, dass er „Buzz verwendet“ hat, und in Forenbeiträgen und Benutzeraussagen findet sich lediglich die Erwähnung „er hat Buzz verwendet/nutzt möglicherweise Buzz“. Im KVR-Forum sagte beispielsweise ein Benutzer: „...mein Tracker meiner Wahl ist Jeskola Buzz...“, was darauf hindeutet, dass AFX (Aphex Twin) möglicherweise Tracker-Software verwendet.
 Auch im HackerNews-Thread heißt es:
 
 > „Ich vermisse immer noch den schnellen, produktiven Workflow von Jeskola Buzz von damals. Modularer Software-Synthesizer + Tracker mit Mustersequenzierung.“
@@ -184,7 +184,7 @@ Buzz ist mehr als nur eine DAW für Techno und House, es hat in den folgenden Ge
 
 ### 6.2 Erweiterung des akustischen Ausdrucks: Verbreitung des modularen Denkens
 
-Das von Buzz geförderte „modulare Denken“ (Klänge linear verbinden, Signale frei verkabeln und Klänge improvisieren, um Klänge zu verändern) ging über den traditionellen Stil „Spur + Mixer + Effektkette“ hinaus und ermöglichte eine „organischere und dynamischere“ Klangerkundung.
+Das von Buzz geförderte „modulare Denken“ (Klänge linear verbinden, Signale frei verdrahten und Klänge improvisieren, um Klänge zu verändern) ging über den traditionellen Stil „Spur + Mixer + Effektkette“ hinaus und ermöglichte eine „organischere und dynamischere“ Klangerkundung.
 In „Dreaming Of Wires“, das in diesem Artikel veröffentlicht wurde, sagt James Holden:
 
 > „Buzz war in seiner Funktionsweise ziemlich modular … diese Art, meine Audiokette zu visualisieren, blieb einfach hängen. Ich habe mir angewöhnt, nur mit seltsamen, unzuverlässig gepatchten Durcheinander zu arbeiten.“ ([Attack Magazine][8])
@@ -225,7 +225,7 @@ Diese Stagnations-/Wiederaufnahmestruktur wurde auch durch externe Faktoren wie 
 
 Das Vermächtnis von Buzz lässt sich grob in drei Kategorien einteilen:
 
-- 1. **Verbreitung des modularen Denkens**: Das Gefühl, Patches für Software zusammenzustellen, wurde populär und das Bild „Klang erzeugen = Kabel verbinden“ etablierte sich.
+- 1. **Verbreitung des modularen Denkens**: Die Idee, Patches auf Software zusammenzustellen, wurde populär und das Bild „Klang erzeugen = Kabel verbinden“ etablierte sich.
 - 2. **Benutzererweiterung/Plugin-Kultur**: Eine Kultur der Benutzer, die Geräte erstellen und teilen, hat sich etabliert und kann als Prototyp der heutigen VST/Plugin-Community bezeichnet werden.
 - 3. **Förderung individueller Künstler/DIY-Musik**: Die Produktion elektronischer Indie-/Underground-Musik wurde durch die Verfügbarkeit einer anspruchsvollen akustischen Umgebung zu einem niedrigen Preis oder kostenlos wiederbelebt.
 
@@ -237,7 +237,7 @@ Dabei handelt es sich nicht nur um Relikte der „Retro-Tools“ der Vergangenhe
 
 Buzz war mehr als nur Software. Es handelte sich um ein „Tool, das die freie Klangerstellung fördert“, eine „Plattform, die es Einzelpersonen ermöglicht, zu experimentieren, zu teilen und zu erweitern“ und „die eine modulare Audio-/Tracker-Kultur auf dem PC veröffentlichte“.
 
-Heute leben wir in einer Ära leistungsstarker DAWs, Cloud-Sharing und Software-/Hardware-Integration, aber im Mittelpunkt steht die Idee „leicht, kostenlos und skalierbar“, die Buzz gefördert hat, und in gewissem Maße haben wir die gleichen Gene geerbt.
+Heute leben wir in einer Ära leistungsstarker DAWs, Cloud-Sharing und Software-/Hardware-Integration, aber die Wurzel davon ist die Idee „leicht, kostenlos und skalierbar“, die Buzz gefördert hat, und in gewissem Maße haben wir die gleichen Gene geerbt.
 
 Anders ausgedrückt: Die Existenz von Buzz hat das Klischee gebrochen, dass „man nicht anfangen kann, Musik zu machen, weil man nicht über die nötige Ausrüstung verfügt“, und die Tür dafür geöffnet: „Solange man eine Idee und eine Neugier hat, kann man Klänge mit nur einem PC zu Hause erkunden.“ Diese Tür ist nach wie vor einer der „Eingänge“ für viele Musikschaffende.
 
@@ -256,7 +256,7 @@ Nachfolgend finden Sie eine Chronologie der Geschichte/der wichtigsten Ereigniss
 | 2002 | Inoffizielle Erweiterungen und die Verbreitung von Plug-ins durch die Community erreichten ihren Höhepunkt.                                              |
 | 2008 (Juni) | Ankündigung des Neustarts der Entwicklung. Benutzerzentrierte Updates werden fortgesetzt. ) |
 | Um 2012 | Build 1400s wurde veröffentlicht und Aussagen wie „James Holden hat es verwendet“ verbreiten sich in Foren. |
-| 2016 (16. Januar) | Build 1503 veröffentlicht. Als offizielle „neueste“ Version aufgezeichnet.                           |
+| 2016 (16. Januar) | Build 1503 veröffentlicht. Aufgezeichnet als offizielle „neueste“ Version.                           |
 | 2020er | Mit der Wiederbelebung der Hardware-/Software-Modularität wird die Philosophie von Buzz neu bewertet.                                     |
 
 ---
@@ -287,7 +287,7 @@ flowchart LR
 *F: Ausgang (Mischer → Stereo)
 * G: Fügt Modulation hinzu, indem ein Modulator (LFO usw.) auf einen Filter usw. angewendet wird.
 
-Auf diese Weise können mit Buzz Maschinen frei verbunden werden, was es ermöglicht, „schaltkreisartige“, „patchartige“ und „exploratorische“ Klangstrukturen zu erzeugen, die mit dem herkömmlichen festen Fluss von „Klangquelle → Mischpult → Effekt“ nicht erreicht werden können.
+Auf diese Weise können mit Buzz Maschinen frei verbunden werden, wodurch es möglich wird, „schaltkreisartige“, „patchartige“ und „exploratorische“ Klangstrukturen zu erzeugen, die mit dem herkömmlichen festen Fluss „Klangquelle → Mischer → Effekt“ nicht erreicht werden können.
 
 ---
 

@@ -15,7 +15,7 @@ title: '[Kolumne] Elektro: Der Rhythmus der von Maschinen geformten Stadt der Zu
 ---
 
 
-##Cyber-Funk, der gleichzeitig dekadent und anspruchsvoll klingt
+## Cyber-Funk, der gleichzeitig dekadent und anspruchsvoll klingt
 
 
 Text: mmr｜Thema: Elektronischer Herzschlag, geboren mit Breakdance

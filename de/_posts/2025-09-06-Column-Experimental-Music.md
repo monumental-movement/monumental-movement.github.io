@@ -58,7 +58,7 @@ color: #fff;
 | Pierre Schäffer | Étude aux chemins de fer | 1948 |
 | John Cage | 4’33’’ | 1952 |
 | John Cage | Williams-Mix | 1952 |
-| Pierre Henry | Symphonie für einen Mann seines Herzens | 1950 |
+| Pierre Henry | Symphonie für einen Menschen | 1950 |
 | Karlheinz Stockhausen | Studie II | 1954 |
 | Edgard Varèse | Poème électronique | 1958 |
 | John Cage | Imaginäre Landschaft Nr.4 | 1951 |
@@ -83,7 +83,7 @@ color: #fff;
 
 | Künstler | Verfolgen | Jahr |
 |--------------|----------|----|
-| La Monte Young | Der zweite Traum vom Abwärtstransformator für Hochspannungsleitungen | 1962 |
+| La Monte Young | Der zweite Traum vom Abspanntransformator für Hochspannungsleitungen | 1962 |
 | Terry Riley | In C | 1968 |
 | Steve Reich | Klavierphase | 1967 |
 | Pauline Oliveros | Tschüss Schmetterling | 1965 |
@@ -97,7 +97,7 @@ color: #fff;
 ---
 
 ## 1970er Jahre: Lärm, die Entstehung der Industrie
-- **Hintergrund:** Einbeziehung von „Noise“ in die Musik bei gleichzeitiger Überschneidung mit Punk und Avantgarde-Kunst. Die Geburt der Industriekultur.
+- **Hintergrund:** Einbeziehung von „Noise“ in die Musik bei gleichzeitiger Verknüpfung mit Punk und Avantgarde-Kunst. Die Geburt der Industriekultur.
 - **Ausrüstung:** EMS Synthi A, ARP 2600, Roland System 100, selbstgebauter Rauschgenerator.
 
 ### Meisterwerk
@@ -154,7 +154,7 @@ color: #fff;
 ---
 
 
-## 1990er: Digitale Experimente und Glitches
+## 1990er Jahre: Digitale Experimente und Glitches
 - **Hintergrund:** Mit der Verbreitung von PCs und Samplern schritt die akustische Dekonstruktion und Rekonstruktion voran. Verbindet sich auch mit IDM und Ambient-Musik.
 - **Ausrüstung:** Akai S3000, Max/MSP, Cubase, Pro Tools.
 
@@ -268,9 +268,20 @@ color: #fff;
 ---
 
 ## Die Zukunft der experimentellen Musik
-Experimentelle Musik hat die Grenzen der Musik immer weiter erweitert. Von präparierten Klavier- und Tonbandexperimenten in den 1940er Jahren über Noise und Industrial in den 70er Jahren bis hin zu Digital Glitch in den 90er Jahren und KI-generierter Musik in den 2020er Jahren verändert es sich ständig.
+Experimentelle Musik hat die Grenzen der Musik immer weiter erweitert. Angefangen bei **präparierten Klavier- und Tonbandexperimenten der 1940er Jahre**, **Lärm und Industrial der 70er Jahre**, **Digital Glitch der 90er Jahre** und **KI-generierter Musik der 2020er Jahre** ist es ständig im Wandel.
 
 Die Essenz experimenteller Musik ist Unvorhersehbarkeit und Forschergeist. Auch außerhalb der kommerziellen Musik durchdringt ihr Einfluss Rock, Clubmusik, zeitgenössische Musik und Pop und macht sie zu einer Kraft, mit der man rechnen muss.
 
 In Zukunft könnte sich sogar das Konzept von „Musik“ durch die Verschmelzung von KI, Gehirnwellenschnittstellen und VR/AR ändern.
 **Experimentelle Musik ist ein Spiegel, der die Zukunft vorhersagt und sowohl Hörern als auch Schöpfern weiterhin „neue Klanghorizonte“ eröffnen wird. **
+
+---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P2O94rg-Ees?si=ZoOKP9544iDBPyj9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

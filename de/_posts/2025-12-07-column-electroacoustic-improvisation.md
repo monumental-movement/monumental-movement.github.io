@@ -117,7 +117,7 @@ Toral ist einzigartig unter EAI in seiner Gründlichkeit beim „Handspielen ele
 # 3-3. Otomo Yoshihide / Sachiko M (Japan)
 Die asiatischen Wurzeln von EAI entstanden in einem Bereich, der sich mit der „Onkyoha“-Bewegung der späten 1990er Jahre überschnitt.
 
-- Sachiko M stellt extremen Minimalismus mithilfe des internen Testtons (Sinuswelle) des Samplers her.
+- Sachiko M etabliert extremen Minimalismus mithilfe des internen Testtons (Sinuswelle) des Samplers.
 - Otomo Yoshihide entwickelt akustische Improvisationen mit Plattenspielern, Gitarren und Samplern
 - Filament (Otomo x Sachiko M) ist eine wichtige Einheit im EAI-Kontext
 

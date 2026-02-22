@@ -23,7 +23,7 @@ Text: mmr | Thema: Eine rebellische Musikbewegung, die Ende der 1970er Jahre in 
 
 1978 trat eine ungewöhnliche Band in der Hafenstadt Bristol im Südwesten Englands auf.
 Ihr Name ist **The Pop Group**.
-Obwohl sie sich selbst Pop nannten, war ihre Musik kein Funk, Punk oder Jazz, sondern ein Experiment, bei dem alle Genres explosionsartig aufeinander prallten.
+Obwohl sie sich selbst Pop nannten, war ihre Musik kein Funk, Punk oder Jazz, sondern ein Experiment, bei dem alle Genres explosionsartig aufeinanderprallten.
 
 Ihr Sound erinnert an die **Arbeitslosigkeit, Klasse, politische Korruption und Entfremdung junger Menschen**, die England in den 1970er Jahren beherrschte.
 Es wurde als „Schrei“ des Klangs selbst sublimiert.
@@ -89,7 +89,7 @@ Man kann sagen, dass es der Prototyp des späteren industriellen/politischen Lä
 
 ## Kapitel 3: Verschmelzung von Gedanken und Klang – „Widerstand als Kunst“
 
-Das unterschied The Pop Group von anderen Punkbands
+Das war es, was The Pop Group von anderen Punkbands unterschied
 Er hatte eindeutig das Verständnis, dass „Musik eine Waffe des Denkens“ ist.**
 
 Sie wurden vom Marxismus, Situationismus und den Philosophien von Bataille und Derrida beeinflusst.
@@ -112,7 +112,7 @@ Danach geht jedes Mitglied einen anderen Weg.
 - Mark Stewart: Zusammenarbeit mit Adrian Sherwood als Solokünstler und Gründung von **Industrial Dub**.
 - Gareth Sager und Bruce Smith: Gründung von **Rip Rig + Panic**.
 Auch eine junge **Neneh Cherry** war dabei.
-- Dan Catsis: Er blieb der Grundstein der Bristoler Musik und engagierte sich später bei Massive Attack.
+- Dan Catsis: Später engagierte er sich bei Massive Attack und blieb ein Eckpfeiler der Bristoler Musik.
 
 Aus dieser Divergenz entstand die Vielfalt des Bristol-Sounds.
 Trip Hop, Dub, experimentelle Musik, politischer Hip Hop ...
@@ -123,7 +123,7 @@ Der Einfluss der Pop Group ist in ihnen allen verankert.
 ## Kapitel 5: Neubewertung und Wiederbelebung im 21. Jahrhundert
 
 Die Popgruppe ist längst eine Kultfigur.
-Seit den 2000er Jahren wurde es im Zuge des Post-Punk-Revivals neu bewertet.
+Seit den 2000er Jahren wurde es im Zuge des Post-Punk-Revival-Trends neu bewertet.
 Besonders seit 2005, nach den **Gang of Four- und Wire-Reunions**,
 Auch sie nahmen ihre Aktivitäten im Jahr 2010 wieder auf. Im Jahr 2015 veröffentlichte er sein neues Werk „Citizen Zombie“.
 
@@ -200,7 +200,7 @@ timeline
 
 ---
 
-## Zugehöriges Diagramm: Genealogie der Bristol-Musik
+## Verwandtes Diagramm: Genealogie der Bristol-Musik
 
 <div class="mermaid">
 

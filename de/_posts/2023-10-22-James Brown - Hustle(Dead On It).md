@@ -16,7 +16,7 @@ title: James Brown – Hektik!!! (Tot drauf)
 
 „Hustle!!! (Dead On It)“ ist ein Lied aus James Browns Album „Dead On The Heavy Funk 1975-1983“.
 
-Dieser 1975 veröffentlichte Song ist für James Browns einzigartigen energiegeladenen und funkigen Sound bekannt.
+Dieser 1975 veröffentlichte Song ist für James Browns einzigartigen, energiegeladenen und funkigen Sound bekannt.
 
 Auf dem gesamten Album stellt Brown sein Talent für die Verschmelzung verschiedener Genres unter Beweis, darunter Funk, Soul und R&B.
 

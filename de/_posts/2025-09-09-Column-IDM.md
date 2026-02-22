@@ -93,7 +93,7 @@ Hardware-Synthesizer wie **Nord Lead** und **Access Virus** wurden populär.
 | 6 | Kariert | Abla Eedio | Geometrische und Pop-Melodie |
 | 7 | Bogdan Raczynski | Samurai Math Beats | Intensives Beat-Experiment |
 | 8 | Zylob | Schneiden Sie den Mitteltonbereich ab, senken Sie den Bass | Ein humorvolles Juwel aus der Aphex-Gruppe |
-| 9 | Luke Vibert | Ich liebe Säure | The intersection of IDM and acid |
+| 9 | Luke Vibert | Ich liebe Säure | Der Schnittpunkt von IDM und Säure |
 | 10 | Venezianische Schlingen | Hajnal | Fusion aus Klassik und Breakcore |
 
 ---
@@ -129,7 +129,7 @@ Soft-Synthesizer wie **Reaktor und FM7** sind zum Standard geworden.
 ---
 
 ## 2010er Jahre: Wiederverbindung mit dem Club
-Gemischt mit Bassmusik, Grime und Ambient Techno. IDM wurde eher zu einer Ästhetik als zu einem Genre und durchdrang das Sounddesign von Underground-Clubs und Festivals.
+Gemischt mit Bassmusik, Grime und Ambient-Techno. IDM wurde eher zu einer Ästhetik als zu einem Genre und durchdrang das Sounddesign von Underground-Clubs und Festivals.
 
 - **Repräsentatives Meisterwerk**
 - Oneohtrix Point Never – *Replica* (2011)
@@ -150,9 +150,9 @@ Originalinstrumentenentwicklung mit **Max for Live**.
 | 3 | Arca | Diebstahl | Avantgardistische und sinnliche Akustik |
 | 4 | Aphex Twin | Minipops 67 | Ein Meisterwerk, das die Wiederbelebung ankündigt |
 | 5 | James Blake | CMYK | Überbrückung von Post-Dubstep und IDM |
-| 6 | Lorbeer-Halo | Sonnenlicht auf dem verblassten | Experimenteller Gesang und Akustik |
+| 6 | Lorbeer-Halo | Sonnenlicht auf dem Verblassten | Experimenteller Gesang und Akustik |
 | 7 | Tim Hecker | Jungfrauen | Lärm- und IDM-Konstruktion |
-| 8 | Andy Stott | Luxusprobleme | Dunkler und tiefgründiger, cluborientierter IDM |
+| 8 | Andy Stott | Luxusprobleme | Dunkles und tiefgründiges, cluborientiertes IDM |
 | 9 | Holly Herndon | Chor | Pionier des KI-Ansatzes |
 | 10 | Lapalux | Ohne dich | Emotionaler IDM R&B |
 
@@ -191,3 +191,14 @@ Hybride Produktion, die Modularität und Software kombiniert.
 ## Der Geist des akustischen Experimentierens selbst
 IDM ist über den Rahmen von „Tanzmusik für intellektuelles Zuhören“ hinausgegangen und hat sich zum Geist des klanglichen Experimentierens entwickelt.
 Obwohl es außerhalb von Clubs begann, hat es mittlerweile seinen Weg zurück in die Club- und Popmusik gefunden und seine Ästhetik ist in der gesamten zeitgenössischen elektronischen Musik verstreut.
+
+---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlKbA9Cehh4?si=1j50VFSKQk04Nn7c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

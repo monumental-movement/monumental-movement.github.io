@@ -40,7 +40,7 @@ Rock and Roll/Rockabilly ist eine grenzüberschreitende Fusion aus weißer Jugen
 
 ---
 
-**Mechanismus**: Mischung aus Musik, die Rassen- und Klassengrenzen überschreitet + nächtliche Unterhaltung = „moralische Panik“ auslösen (Volksteufel und moralische Panik: Stanley Cohen). Vorschriften von Polizei, Schulen und Religionsgemeinschaften stärken tatsächlich die Einheit der Szene.
+**Mechanismus**: Mischung von Musik, die Rassen- und Klassengrenzen überschreitet, + nächtliche Unterhaltung = „moralische Panik“ auslösen (Volksteufel und moralische Panik: Stanley Cohen). Vorschriften von Polizei, Schulen und Religionsgemeinschaften stärken tatsächlich die Einheit der Szene.
 
 
 <hr>
@@ -84,7 +84,7 @@ Reggae/Dub wird mit der Soundsystemkultur in Verbindung gebracht und ist für di
 
 ---
 
-Disco ist ein Zufluchtsort für die LGBTQ+/Black/Latinx-Community, die sich das Recht zum Tanzen an der Grenze zwischen Legal und Illegalität verschafft, auch wenn sie ihre Schattenseiten wie Nachtclubsicherheit und Diskriminierung beim Einlass hat.
+Disco ist ein Zufluchtsort für die LGBTQ+/Black/Latinx-Community, die sich das Recht zum Tanzen an der Grenze zwischen Legal und Illegalität verschafft, aber auch ihre Schattenseiten wie Nachtclubsicherheit und Diskriminierung beim Einlass hat.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4KUL9-eNXzQ?si=0RcRn_F0ErMntOI7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -186,7 +186,7 @@ Leftfield/Queer Clubs bauen sichere Nachträume wieder auf und legen interne „
 
 Während des Lockdowns kam es überall auf der Welt zu Outdoor-DJs/Streaming im Guerilla-Stil. Es wurden Versuche unternommen, „öffentliche Räume“ wie Parks, Dächer und Straßen „wieder zu besetzen“, und die Verhandlungen mit Polizei und Anwohnern sind in eine neue Phase eingetreten.
 
-Die Hybridisierung sozialer Bewegungen und Musikveranstaltungen (Spendenpartys, Gemeinschaftsküchen für gegenseitige Hilfe usw.) schreitet voran und der Schwerpunkt liegt auf Fürsorge und Konsensbildung statt auf der Dichotomie „illegal/legal“.
+Die Hybridisierung sozialer Bewegungen und Musikveranstaltungen (Spendenpartys, Gemeinschaftsküchen für gegenseitige Hilfe usw.) ist fortgeschritten, und der Schwerpunkt hat sich von der Dichotomie „illegal/legal“ hin zu Fürsorge und Konsensbildung verlagert.
 
 
 <hr>
@@ -197,7 +197,7 @@ Die Hybridisierung sozialer Bewegungen und Musikveranstaltungen (Spendenpartys, 
 
 **Großbritannien/Europa**: Kollektiver Charakter, verflochten mit Klasse, Einwanderung und Fußballkultur. Rave-Kultur kollidiert häufig mit Stadtplanung und privaten Landsystemen.
 
-**Japan**: Von der frühen Akzeptanz von Rockabilly/Punk bis zur „Underground-Box“ des Hardcore und dem Aufkommen von Clubs sind Konflikte mit Verwaltungsvorschriften (Late-Night-Geschäft/Unterhaltung) weit verbreitet. Der Import und die Lokalisierung von Klängen sowie die Selbstverwaltung von Veranstaltungsorten haben sich entwickelt.
+**Japan**: Von der frühen Akzeptanz von Rockabilly/Punk bis zur „Underground-Box“ des Hardcore und dem Aufkommen von Clubs sind Konflikte mit Verwaltungsvorschriften (Late-Night-Geschäft/Unterhaltung) an der Tagesordnung. Der Import und die Lokalisierung von Klängen sowie die Selbstverwaltung von Veranstaltungsorten haben sich entwickelt.
 
 
 <hr>
@@ -214,7 +214,7 @@ Die Hybridisierung sozialer Bewegungen und Musikveranstaltungen (Spendenpartys, 
 
 **Radikalisierung der Erzählung**: Der Realismus/die Übertreibung der Texte wird von den Medien als Kriminalwarnung missverstanden.
 
-**Medienapparat**: Berichterstattung schafft einen „Volksteufel“ (Cohens moralische Panik).
+**Medienapparat**: Berichterstattung schafft einen „populären Teufel“ (Cohens Moral Panic).
 
 **Reflexion mit dem System**: Der Kreislauf von Razzia → Untergrund → Stärkung der Solidarität → kommerzielle Erholung → erneute Abweichung.
 

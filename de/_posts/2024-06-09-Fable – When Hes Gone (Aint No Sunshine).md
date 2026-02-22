@@ -9,7 +9,7 @@ permalink: /de/fable-when-hes-gone-aint-no-sunshine/
 tags:
 - Trance
 - 00s
-title: Fabel – Wenn er weg ist (Ain’t No Sunshine)
+title: Fabel – Wenn er weg ist (Ain't No Sunshine)
 ---
 
 

@@ -167,7 +167,7 @@ Es war eher ein Ritual als eine Band.
 Doch hinter den Kulissen gab es Konflikte zwischen Alkohol, Drogen, Müdigkeit und Freundschaft.
 Im Jahr 2008 verließ Gene Ween die Band aus persönlichen Gründen.
 Er überwand seine Alkoholabhängigkeit und begann einen ruhigen Weg der Genesung.
-Dean gründete die **Dean Ween Group** und verband den Geist von Ween auf andere Weise.
+Dean gründete die **Dean Ween Group** und verband die Seelen von Ween auf andere Weise.
 
 ---
 
@@ -272,3 +272,13 @@ Eine endlose Reise zurück zu den Ursprüngen der Musik.
 
 Auch heute noch lacht Ween fröhlich irgendwo auf dem Meeresgrund.
 
+---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F53T6s06MUc?si=6dfE6Ds-w1YpqkYh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

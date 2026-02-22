@@ -75,7 +75,7 @@ Die Grundlagen des experimentellen/abstrakten Hip Hop wurden Ende der 1990er Jah
 
 ---
 
-– Eine wichtige Rolle im New Yorker Underground Ende der 1990er Jahre.
+– Eine wichtige Rolle im New Yorker Untergrund Ende der 1990er Jahre.
 - Einführung von lauten Klängen, segmentiertem Rap und elektronischer Musik.
 - Erweitert die Verbindung zwischen elektronischer Musik und Hip-Hop durch die Unterzeichnung bei Warp Records.
 
@@ -110,14 +110,14 @@ Diese schufen den musikalischen Boden, der direkt zu den späteren Shabazz Palac
 - Kreuzung von Jazz/elektronischer Musik/Hip-Hop mit „Los Angeles“ (2008) und „Cosmogramma“ (2010).
 - Gekennzeichnet durch „pulsierenden nichtlinearen Rhythmus“ und komplexe Abtaststruktur.
 
-### ● Brainfeeder (2008~)
+### ● Brainfeeder (2008～)
 - Von Flying Lotus gegründetes Label.
 - Mit Teebs, Samiyam, Tokimonsta, Thundercat und mehr.
 - Verbreiten Sie die abstrakte Beat-Kultur auf globaler Ebene.
 
 ---
 
-## 4. Shabazz Palaces: Hip-Hop-Abstraktion neu definiert
+## 4. Shabazz Palaces: Abstraktion im Hip-Hop neu definiert
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zNXxd3yYDaM?si=kdXTFpn5kj1KpTDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -172,7 +172,7 @@ Daraus entstand ein Trend, der sich auf die Textur konzentrierte.
 
 ---
 
-## 7. Erweiterungen seit 2010: Clipping. / Milo / Öffne Mike Eagle
+## 7. Erweiterung seit 2010: Clipping. / Milo / Öffne Mike Eagle
 
 ### ● Ausschneiden. (2010~)
 
@@ -193,7 +193,7 @@ Daraus entstand ein Trend, der sich auf die Textur konzentrierte.
 
 - Poesie/philosophische Sprache.
 - Beats kreuzen Jazz/Abstract/Lo-Fi.
-- Die Dichte und Abstraktion der Wörter ist hoch.
+- Hohe Dichte und Abstraktion der Wörter.
 
 ---
 

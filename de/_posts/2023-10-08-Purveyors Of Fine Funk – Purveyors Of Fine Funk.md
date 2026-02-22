@@ -9,7 +9,7 @@ permalink: /de/purveyors-of-fine-funk-purveyors-of-fine-funk/
 tags:
 - Techno
 - House
-title: Lieferanten von Fine Funk – Lieferanten von Fine Funk
+title: Lieferanten von feinem Funk – Lieferanten von feinem Funk
 ---
 
 

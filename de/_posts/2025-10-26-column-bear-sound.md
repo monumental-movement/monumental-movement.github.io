@@ -18,7 +18,7 @@ title: '[Spalte] Erweiterung des Bärenschadens und der Schalleinwirkung'
 
 Text: mmr | Thema: Eine Analyse der in den letzten Jahren zunehmenden Schäden durch Bären unter dem Gesichtspunkt der Auswirkungen von Lärm und Verhaltenskontrolle. Untersuchung der Rolle von Sounddesign im Zusammenleben von Mensch und Bär
 
-In den letzten Jahren haben die durch Bären verursachten Schäden in Japan rapide zugenommen. Es gibt etwa 1.000 Fälle von Ernteschäden pro Jahr, und die Schäden durch Menschen haben sich in den letzten 10 Jahren etwa verdoppelt (Wildtierschadensstatistik 2024 des Umweltministeriums). Die bisherigen physikalischen Maßnahmen reichen nicht aus und es bedarf nachhaltiger Schadensbegrenzungsmaßnahmen.
+In den letzten Jahren haben die durch Bären verursachten Schäden in Japan rapide zugenommen. Es gibt etwa 1.000 Fälle von Ernteschäden pro Jahr, und die Schäden durch Menschen haben sich in den letzten 10 Jahren etwa verdoppelt („Wild Animal Damage Statistics 2024“ des Umweltministeriums). Die bisherigen physikalischen Maßnahmen reichen nicht aus und es bedarf nachhaltiger Schadensbegrenzungsmaßnahmen.
 
 Was Aufmerksamkeit erregt, ist die „Kontrolle des Bärenverhaltens durch Geräusche“. Bären haben einen gut entwickelten Hörsinn und reagieren empfindlich auf menschliche Stimmen, Warngeräusche und künstliche Geräusche bei bestimmten Frequenzen. In den letzten Jahren wurden immer mehr Demonstrationsexperimente von Landwirten, Kommunalverwaltungen und Forschungseinrichtungen durchgeführt, wodurch die Möglichkeiten einer vernünftigen Bewirtschaftung auf der Grundlage wissenschaftlicher Erkenntnisse erweitert wurden.
 
@@ -45,7 +45,7 @@ color: #fff;
 - **Asiatischer Schwarzbär (Ursus thibetanus)**: Kommt in Honshu, Shikoku und Kyushu vor, Körperlänge 120–150 cm, gutes Baumverhalten, Allesfresser.
 - **Braunbär (Ursus arctos yesoensis)**: Hokkaido, 180–250 cm lang, groß, frisst auch Fische und Kleintiere.
 
-Beide Arten sind nachtaktiv, aber während der Jagdsaison im Frühjahr und Herbst sind auch tagsüber Aktivitäten zu beobachten.
+Beide Arten sind nachtaktiv, aber während der Jagdsaison im Frühling und Herbst sind auch tagsüber Aktivitäten zu beobachten.
 
 ### 2.2 Höreigenschaften und Reaktion auf Geräusche
 
@@ -108,7 +108,7 @@ Aufgrund des Rückgangs des Schneefalls und der Schwankungen des Fruchtwachstums
 
 ---
 
-### Lauttyp und Reaktionsstärke des Bären
+### Klangtyp und Reaktionsstärke des Bären
 
 <div class="mermaid">
 
@@ -136,7 +136,7 @@ G[高周波電子音] --> H[実験的回避]
 
 ### 5.1 Sensorgebundener Warnton
 
-Erzeugt automatisch ein Geräusch, wenn sich ein Bär nähert. Ermutigen Sie zu Vermeidungsmaßnahmen, bevor ein Schaden entsteht.
+Erzeugt automatisch einen Ton, wenn sich ein Bär nähert. Ermutigen Sie zum Ausweichen, bevor ein Schaden entsteht.
 
 ### 5.2 Normaler Patrouillensound
 
@@ -166,7 +166,7 @@ Klangerzeugung nach Verhaltensmustern mittels KI-Analyse. Decken Sie ein großes
 
 Schadensbegrenzung ist eine Frage der Koexistenz, nicht der Schädlingsbekämpfung.
 
-Vernünftige Gegenmaßnahmen sind nicht tödlich und wirksam
+Gegenmaßnahmen mit Schall sind nicht tödlich und wirksam
 
 - **Herausforderungen**: Gewöhnung, Auswirkungen auf das Ökosystem, Kosten
 
@@ -207,6 +207,14 @@ C --> D[クマ逃避行動]
 D --> E[被害軽減・安全確保]
 
 </div>
+
+---
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Is-YgTooa5M?si=4t2_rCYDQZA5ezuA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

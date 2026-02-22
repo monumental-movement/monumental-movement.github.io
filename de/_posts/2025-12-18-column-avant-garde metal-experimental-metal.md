@@ -45,7 +45,7 @@ color: #fff;
 
 ## Strukturannahmen in Metall
 
-Um Avantgarde-Metal zu verstehen, muss zunächst geklärt werden, was die Prämisse hinter regulärem Metal ist.
+Um Avantgarde-Metal zu verstehen, muss zunächst geklärt werden, worauf normaler Metal basiert.
 
 Traditionelles Metall wurde als eine Sammlung struktureller Annahmen wie die folgenden gebildet.
 
@@ -63,7 +63,7 @@ Avantgarde Metal bestreitet diese Annahmen nicht teilweise, sondern entkräftet 
 
 Bei Avantgarde geht es nicht um Exzentrizität oder Radikalität, sondern vielmehr um die Fähigkeit, bestehende Grammatik von innen heraus zu demontieren.
 
-Der Grund, warum Avantgarde-Metal als schwierig empfunden wird, liegt nicht an seinem übermäßigen emotionalen Ausdruck, sondern daran, dass die Strukturen, auf die sich die Hörer unbewusst verlassen haben, nicht mehr funktionieren. Der Beat ist präsent, aber unzuverlässig, das Riff ist präsentiert, bleibt aber nicht hängen, und obwohl es sich weiterentwickelt, werden die Vorhersagen nicht wahr.
+Der Grund dafür, dass Avantgarde-Metal als schwierig empfunden wird, liegt nicht an seinem übermäßigen emotionalen Ausdruck, sondern daran, dass die Strukturen, auf die sich die Zuhörer unbewusst verlassen haben, nicht mehr funktionieren. Der Beat ist präsent, aber unzuverlässig, das Riff ist präsentiert, bleibt aber nicht hängen, und obwohl es sich weiterentwickelt, werden die Vorhersagen nicht wahr.
 
 ---
 
@@ -71,13 +71,13 @@ Der Grund, warum Avantgarde-Metal als schwierig empfunden wird, liegt nicht an s
 
 In den späten 1980er und frühen 1990er Jahren wurde der Death Metal in Bezug auf Geschwindigkeit, Schalldruck und Dichte rasch extremer. Allerdings erreichte die quantitative Expansion schließlich einen Sättigungspunkt und einige Künstler begannen, die Struktur selbst in Frage zu stellen.
 
-An diesem Wendepunkt wurde Avantgarde-Metal geboren. Anstatt die Geschwindigkeit und das Gewicht weiter zu erhöhen, wurde die Entscheidung getroffen, die strukturellen Bedingungen, unter denen sie errichtet wurden, abzubauen.
+An diesem Wendepunkt wurde der Avantgarde-Metal geboren. Anstatt die Geschwindigkeit und das Gewicht weiter zu erhöhen, wurde die Entscheidung getroffen, die strukturellen Bedingungen, unter denen sie errichtet wurden, abzubauen.
 
 ---
 
 ## Etablierung von strukturellem Avantgarde-Metall
 
-Wenn die Struktur problematisch wird, tritt Metall in eine neue Phase ein. Riffs werden zu Fragmenten und nicht zu sich wiederholenden Einheiten, Taktarten werden zu Störungen statt zu Standards, und Songs entwickeln sich eher als irreversible Veränderungen als als Zyklen.
+Wenn die Struktur problematisch wird, tritt Metall in eine neue Phase über. Riffs werden zu Fragmenten und nicht zu sich wiederholenden Einheiten, Taktarten werden zu Störungen statt zu Standards, und Songs entwickeln sich eher als irreversible Veränderungen als als Zyklen.
 
 ---
 
@@ -85,7 +85,7 @@ Wenn die Struktur problematisch wird, tritt Metall in eine neue Phase ein. Riffs
 
 Gorguts haben den Death Metal selbst von innen heraus zerlegt und dabei sein Vokabular voll ausgeschöpft.
 
-In ihrer Musik sind Riffs vorhanden, aber ohne treibende Kraft, Taktarten sind notiert, aber instabil, und Entwicklungen werden eher als Brüche als als Kontinuität wahrgenommen. Dies ist keine Einführung von Elementen außerhalb des Genres, sondern ein avantgardistischer Effekt, der durch die Verzerrung der internen Grammatik entsteht.
+In ihrer Musik sind Riffs vorhanden, aber ohne treibende Kraft, Taktarten sind notiert, aber instabil, und Entwicklungen werden eher als Brüche als als Kontinuität wahrgenommen. Dabei handelt es sich nicht um eine Einführung von Elementen außerhalb des Genres, sondern um einen avantgardistischen Effekt, der durch die Verzerrung der internen Grammatik entsteht.
 
 ---
 
@@ -115,7 +115,7 @@ Dieser Rhythmus ist kein Polyrhythmus, sondern sollte als beat-dekonstruierter R
 
 In Obscura werden Gorguts‘ Strukturideen in extremer Form umgesetzt. Die Songs sind keine Ansammlung von Riffs, sondern eine Kette fragmentierter Tonhöhenanordnungen und instabiler Rhythmen.
 
-* Es gibt keine hierarchische Beziehung zwischen Riffs
+* Es gibt keine hierarchische Beziehung zwischen den Riffs
 * Eine Änderung der Taktart weist nicht auf eine strukturelle Änderung hin
 * Dissonanz wird zur Norm und die Konzepte von Spannung und Entspannung verschwinden.
 
@@ -177,7 +177,7 @@ In dieser Arbeit geht die Trennung der Strukturen noch weiter. Die Lieder sind e
 | Methode | Abriss | Schichtung |
 | Zeit | Bruch | Parallel |
 | Rhythmus | Zerstörung des Pulsgefühls | Atemkontrolle |
-| Dissonanz | Strukturelle Bewaffnung | Raumrichtung |
+| Dissonanz | Strukturelle Bewaffnung | Raumproduktion |
 
 ---
 

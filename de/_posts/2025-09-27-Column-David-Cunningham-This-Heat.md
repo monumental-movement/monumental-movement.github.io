@@ -66,7 +66,7 @@ Als Brücke zwischen experimenteller Musik und Popkultur hinterließen sie einzi
 
 London in den späten 1970er Jahren.
 **This Heat** ließ die Ängste des Kalten Krieges klingen und **David Cunningham** unterstützte seine Aufnahmen.
-Hier analysieren wir die Texte jedes Liedes aus gesellschaftskritischer Sicht und befassen uns eingehender mit Cunninghams Aufnahmetechniken und -ausrüstung.
+Hier analysieren wir die Texte jedes Liedes aus sozialkritischer Sicht und tauchen tiefer in Cunninghams Aufnahmetechniken und -ausrüstung ein.
 
 ---
 
@@ -74,7 +74,7 @@ Hier analysieren wir die Texte jedes Liedes aus gesellschaftskritischer Sicht un
 
 This Heat (1976–82) war eine experimentelle Rockband aus London, bestehend aus Charles Hayward, Charles Burrell und Gareth Williams. Cunningham war maßgeblich an der Aufnahme und Bearbeitung beteiligt und leistete technische Unterstützung bei der Einführung von Bandschleifen, Feedback und akustischen Collagen.
 
-Insbesondere die Arbeit im **Cold Storage Studio** (einem experimentellen Studio, das aus einem Kühllager umgebaut wurde) wurde für Cunningham zu einem Ort, an dem er seine technischen Fähigkeiten unter Beweis stellen konnte. Durch das Schneiden und Zusammenfügen von Bändern, das Rückwärtsabspielen und das Zerlegen der Aufnahme in 24 Spuren entstanden Klänge, die später direkt mit der Post-Rock- und Noise-Szene verbunden werden sollten.
+Insbesondere die Arbeit im **Cold Storage Studio** (einem experimentellen Studio, das aus einem Kühllager umgebaut wurde) wurde für Cunningham zu einem Ort, an dem er seine technischen Fähigkeiten unter Beweis stellen konnte. Durch das Schneiden und Zusammenfügen von Bändern, das Rückwärtsabspielen und das Zerlegen der Aufnahme in 24 Spuren entstanden Klänge, die später direkt mit den Post-Rock- und Noise-Szenen verbunden werden sollten.
 
 ---
 
@@ -127,7 +127,7 @@ Der Text war klarer als in der Studioversion und der soziale Kommentar wurde üb
 
 #### Analoger EQ und Outboard
 - Verwendet EQ im Neve- und Trident-Stil.
-- Der lebendige Auftritt der Band ist absichtlich „verzerrt“ und „räumlich arrangiert“, um seinen experimentellen Charakter zu betonen.
+- Der lebhafte Auftritt der Band wird gezielt „verzerrt“ und „räumlich arrangiert“, um seinen experimentellen Charakter zu betonen.
 - Es wurde verwendet, um ein „akustisches Unbehagen“ zu erzeugen, und nicht für eine Standardkorrektur.
 
 ---
@@ -176,7 +176,7 @@ flowchart TD
 ### Abschluss
 
 - **Lyrische Interpretation**: This Heat kritisiert den Kalten Krieg sowohl textlich als auch klanglich.
-- **Cunninghams Aufnahmephilosophie**: Verwendet Geräte wie Revox, Studer und EQ als „politisches metaphorisches Gerät“.
+- **Cunninghams Aufnahmephilosophie**: Verwendet Geräte wie Revox, Studer und EQ als „politische metaphorische Geräte“.
 - **Historische Bedeutung experimenteller Musik**: Über Post-Punk hinaus ist sie direkt mit den Grundlagen der modernen Sampling-/DAW-Kultur und sogar der KI-Musikproduktion verbunden.
 
 Ihre Musik ist immer noch eine Werkgruppe, die als „Aufnahme = Kritik = Experiment“ neu bewertet werden sollte.

@@ -117,7 +117,7 @@ Oberflächlich betrachtet wird die einfache Wiederholung fortgesetzt, aber im In
 
 ### Polyrhythmus und Polymeter
 
-IDM x Jazz verwendet sowohl Polyrhythmus, bei dem mehrere Rhythmuszyklen gleichzeitig ablaufen, als auch Polymeter, das eine andere Taktart hat. Wichtig ist, dass sie mathematisch konsistent und nicht völlig chaotisch sind.
+In IDM x Jazz werden Polyrhythmus, bei dem mehrere Rhythmuszyklen gleichzeitig ablaufen, und Polymeter, die unterschiedliche Taktarten haben, zusammen verwendet. Wichtig ist, dass sie mathematisch konsistent und nicht völlig chaotisch sind.
 
 ### Mikro-Timing-Steuerung
 

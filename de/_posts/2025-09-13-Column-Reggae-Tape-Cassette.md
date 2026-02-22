@@ -57,7 +57,7 @@ Kompaktkassetten, die Anfang der 1970er Jahre unter dem Philips-Standard eingef�
 ## 1980er – Goldenes Zeitalter der Kassettenkultur und Verbreitung von Reggae
 
 - **Popularisierung von Kassetten**
-In den 1980er Jahren wurden Kassetten zum weltweit beliebtesten Musikmedium. Günstig und leicht zu transportieren, ist es mit dem Aufkommen von Wiedergabegeräten wie Radio-Kassettenspielern und Walkmans weitaus bekannter geworden als Schallplatten.
+In den 1980er Jahren wurden Kassetten zum weltweit beliebtesten Musikmedium. Günstig und leicht zu transportieren, ist es mit dem Aufkommen von Wiedergabegeräten wie Radiokassettenspielern und Walkmans weitaus bekannter geworden als Schallplatten.
 
 - **Kassettenaufnahme in Jamaika**
 Bei Beschallungsveranstaltungen und Tanzlokalen entstand eine Kultur, in der Live-Mitschnitte auf Kassetten aufgezeichnet und sofort verbreitet wurden. Obwohl dies einige Raubkopie-Aspekte aufwies, wurde es zu einem wichtigen Mechanismus, um die Begeisterung des Fachgebiets zu bündeln und zu verbreiten.
@@ -74,7 +74,7 @@ Für karibische Einwanderergemeinschaften in Großbritannien und den Vereinigten
 Nach dem Debüt von Sleng Teng im Jahr 1985 wurde digitaler Sound zum Mainstream und Dancehall-Reggae verbreitete sich auf der ganzen Welt. Mit der Massenproduktion von Riddims, dem Aufstieg der MC-Kultur und der Notwendigkeit einer schnellen Verbreitung spielten Kassetten weiterhin eine wichtige Rolle.
 
 - **Kassetten und lokale Wirtschaft**
-Während es offizielle CD-Veröffentlichungen gab, florierten inoffizielle Kassettenverkäufe auf den Straßen Jamaikas. Mixtapes, die auf Märkten und an Imbissständen verkauft wurden, waren für den Normalbürger eine Möglichkeit, zu günstigen Preisen an die neuesten Soundquellen zu kommen, und für DJs ein Mittel zur Eigenwerbung.
+Während es offizielle CD-Veröffentlichungen gab, florierten inoffizielle Kassettenverkäufe auf den Straßen Jamaikas. Mixtapes, die auf Märkten und an Essensständen verkauft wurden, waren für den Normalbürger eine Möglichkeit, zu günstigen Preisen an die neuesten Soundquellen zu kommen, und für DJs ein Mittel zur Eigenwerbung.
 
 - **Beziehung zu Japan**
 Auch japanische Reggae-Fans und DJs besuchten in den 1990er Jahren Jamaika und sammelten lokale Kassetten. Diese Aufnahmen wurden bei Clubveranstaltungen und Plattenläden verbreitet und standen in direktem Zusammenhang mit der Entwicklung der Reggae-Kultur in Japan. Vor allem in der Shibuya- und Osaka-Szene spielten importierte Kassetten eine wichtige Rolle.
@@ -90,7 +90,7 @@ In den 2000er Jahren wurden CD-R- und MP3-Filesharing zum Mainstream und Kassett
 Die Eigenschaften von Kassetten wie Unmittelbarkeit, Begeisterung vor Ort und informelle Vertriebsnetze wurden jedoch von der digitalen Mixtape-Kultur und den Live-Aufnahmearchiven auf YouTube übernommen. Darüber hinaus gibt es inmitten des weltweiten Trends zur Rückkehr zum Analogen auch eine Bewegung zur Neubewertung von Kassetten.
 
 - **Kulturelle Bedeutung neu denken**
-Die Kassette war mehr als nur ein Aufnahmemedium, sie symbolisierte den gemeinschaftsorientierten Charakter des Reggae, die Verbreitung von Informationen an der Basis und die Unabhängigkeit der Gesetzlosen. Durch Kassetten etablierte sich Reggae als „ihre Musik“ für die Massen.
+Die Kassette war mehr als nur ein Aufnahmemedium, sie symbolisierte den gemeinschaftsorientierten Charakter des Reggae, die Informationsverbreitung an der Basis und die Unabhängigkeit der Gesetzlosen. Durch Kassetten etablierte sich Reggae als „ihre Musik“ für die Massen.
 
 ---
 
@@ -130,7 +130,7 @@ Die aus Jamaika stammende Kassettenkultur hat seit den 1980er Jahren großen Ein
 In Plattenläden in Shibuya (Tokio) und Minami (Osaka) wurden aus Jamaika mitgebrachte Soundsystem-Aufnahmekassetten im Untergrund gehandelt. Dabei handelte es sich nicht um echte Produkte, sondern um Kopien von „Live-Aufnahmen“, die vor Ort in Jamaika angefertigt wurden und die frühesten Dancehall-Erlebnisse in der japanischen Clubszene unterstützten.
 
 - **1990er Jahre: Die Blütezeit importierter Kassetten**
-In den 1990er Jahren, als die Zahl japanischer Reggae-Fans rapide anstieg, waren lokale Kassetten unverzichtbar, um sich über den neuesten Riddim zu informieren. Es wurde von Jamaika-Reisenden nach Hause gebracht und an den Ecken von Plattenläden und Veranstaltungsorten verkauft. Rund um den **CLUB JAH JAH** in Osaka und den **CLUB Citta'** in Shibuya fungierten Kassetten als „Frontlinie der Information“.
+In den 1990er Jahren, als die Zahl japanischer Reggae-Fans rapide anstieg, waren lokale Kassetten unverzichtbar, um sich über den neuesten Riddim zu informieren. Reisende nach Jamaika brachten es mit nach Hause und verkauften es an den Ecken von Plattenläden und Veranstaltungsorten. Rund um den **CLUB JAH JAH** in Osaka und den **CLUB Citta'** in Shibuya fungierten Kassetten als „Frontlinie der Information“.
 
 - **Wir stellen ein unabhängiges Mixtape vor**
 Als japanische Soundsysteme (Mighty Crown, Fire Ball usw.) wuchsen, begannen sie, ihre eigenen Mixe auf Kassette zu veröffentlichen. Dies führte zur Verschmelzung der einzigartigen Reggae-Kultur Japans und direkt aus Jamaika importierter Stile.
@@ -194,4 +194,13 @@ Die Verbindung zwischen Reggae-Musik und Kassettenkultur ist nicht nur ein techn
 
 Es gibt wichtige Aspekte wie: Auch im heutigen digitalen Zeitalter bleibt die Beziehung zwischen Reggae und Kassetten ein wesentlicher Bezugspunkt für das Verständnis der Musikverbreitung auf Straßenebene und der Mixtape-Kultur.
 
+---
 
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0EEEwVz_vcw?si=juWb_d1If0s5xsni" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

@@ -18,7 +18,7 @@ title: Oxia – Reflexion
 
 Ein Techno-Track von Olivier Raymond, auch bekannt als Oxia, einem französischen DJ und Produzenten, der einer der Gründer von GoodLife ist.
 
-Der erste Titel auf Seite A ist ein Remix von Samuel Geiser, auch bekannt als Deetron, einem Schweizer DJ und Produzenten, der das Techno/House-Label Character betreibt.
+Der erste Titel auf Seite A ist ein Remix von Samuel Geiser, alias Deetron, einem Schweizer DJ und Produzenten, der das Techno/House-Label Character betreibt.
 
 Der erste Titel auf Seite B ist ein Remix des französischen Techno/Electro/Melodic Techno DJ/Produzenten Kiko und Stephane Deschezeaux, der das französische Nu-Disco-Label Springbok Records betreibt.
 Der zweite Song auf Seite B ist ein Remix des französischen Musikers/DJ Michel Amato, auch bekannt als The Hacker.

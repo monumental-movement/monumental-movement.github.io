@@ -81,7 +81,7 @@ Die akustischen Eigenschaften lassen sich in den folgenden drei Punkten zusammen
 
 1. **Time Disconnect**: Das Lied ist kurz und endet abrupt. Die Übergänge sind bewusst grob.
 2. **Räumliche Komprimierung**: Minimieren Sie Hall und räumliche Verarbeitung, um den Abstand zwischen Samples nahe Null zu bringen.
-3. **Frequenzverzerrung**: Erzeugt einen **VHS-ähnlichen Klang** mit entfernten hohen Frequenzen durch den umfassenden Einsatz von SP-303-Effekten.
+3. **Frequenzverzerrung**: Erzeugt einen **VHS-ähnlichen Klang**, bei dem die hohen Frequenzen durch den umfassenden Einsatz von SP-303-Effekten entfernt werden.
 
 Auch hier handelt es sich um eine „**Rekordrekonstruktion**“ von Madlib. Er betrachtete den Lärm und das Knistern alter Aufnahmen als „Komponenten“ und nicht als „Materialien“ und verwandelte Hip-Hop in eine Archäologie des Klangs.
 
@@ -121,7 +121,7 @@ Das Jackenfoto (aufgenommen von Eric Coleman) ist eine Nahaufnahme der Metallmas
 Die Komposition, bei der die Hälfte des Gesichts in Schatten getaucht ist, symbolisiert die Kluft zwischen Anonymität und Enthüllung, Mythos und Realität.
 Diese Maske diente sowohl als Mittel zur Selbstdarstellung als schwarzer Künstler als auch als Form des Widerstands gegen kommerzielle Medien.
 
-Die Maske von DOOM ist eine Anspielung auf Marvels Dr. Doom in der Popkultur, stellt aber im Grunde eine Umkehrung von Macht und Identität dar.
+Die Maske von DOOM ist eine Anspielung auf Marvels „Dr. Doom“ in der Popkultur, stellt aber im Kern eine Umkehrung von Macht und Identität dar.
 Hier besteht ein Paradoxon, dass „Bösewicht = Person, die die Freiheit hat zu sprechen“**.
 
 ---
@@ -217,5 +217,13 @@ Die Maske, die DOOM hinterlassen hat, leuchtet immer noch in Underground-Studios
 
 > „Es ist nicht so verrückt wie der Bösewicht.“
 > MF DOOM
+
+---
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gXOkqpWhsD0?si=WEZRPKJsazCLjDDX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

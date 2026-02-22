@@ -170,7 +170,7 @@ HHF fördert die kulturelle Kompetenz im Bereich Hörgesundheit durch Spenden, F
 Zu den Gewinnern der **Emerging Research Grants**, die jedes Jahr ausgewählt werden, gehören beispielsweise:
 Von der Genbearbeitung bis zur künstlichen Intelligenz beleuchtet er die „Zukunft des Zuhörens“ aus verschiedenen Blickwinkeln.
 
-Darüber hinaus wird im Online-Magazin für die breite Öffentlichkeit, **Hearing Health Magazine**,
+Darüber hinaus finden Sie im Online-Magazin für die breite Öffentlichkeit, **Hearing Health Magazine**,
 Es enthält aktuelle Erfahrungen und Kolumnen von Experten und schlägt Ohrengesundheit als Lebensstil vor.
 
 ---

@@ -105,7 +105,7 @@ Der ästhetische Rahmen (Satan, Anti-Religion, Dark Recording, Anti-Kommerzialis
 
 # **Kapitel 3: Zweite Welle (1990-1998) – Norwegen hat die Welt verändert**
 
-Die wichtigste Ära in der Geschichte des Black Metal war 1990–1998.
+Die wichtigste Ära in der Geschichte des Black Metal war 1990-1998.
 Der Fokus lag auf jungen norwegischen Underground-Musikern.
 
 ## ■ Schlüsselkonzepte
@@ -113,9 +113,9 @@ Der Fokus lag auf jungen norwegischen Underground-Musikern.
 * Etablierung von Lo-Fi-Aufnahmen als „Ästhetik“
 *Tremolo-Riff
 * Scream Vo
-* Ausdruck von „Ice Wasteland“ durch Wiederholung und Geschwindigkeit
+* Ausdruck von „Eisödland“ durch Wiederholung und Geschwindigkeit
 * Leichenbemalung
-* Natürlicher Blick auf Winter, Wald und Einsamkeit
+* Naturblick auf Winter, Wald und Einsamkeit
 
 ## ■ Repräsentatives Band
 
@@ -211,7 +211,7 @@ Hauptwerke: *Bathory* (1984), *The Return…* (1985), *Under the Sign of the Bla
 * Minimale Struktur des Riffs
 * Schnellerer Rhythmus (insbesondere 1985-87)
 * Die Melodielinie erinnert an Schwedens einzigartige „Kühle“ und „Feuchtigkeit“ und steht in direktem Zusammenhang mit den nachfolgenden Sätzen.
-* In den 90er Jahren wechselten sie zur Viking-Metal-Ära und gingen über den Rahmen des Black Metal hinaus, um die Ästhetik der nordischen Mythologie nachzubilden.
+* In den 1990er Jahren wechselten sie zur Viking-Metal-Ära und gingen über den Rahmen des Black Metal hinaus, um die Ästhetik der nordischen Mythologie nachzubilden.
 
 ---
 
@@ -480,7 +480,7 @@ Kälte, Dunkelheit, Spiritualität, Rebellion, Einsamkeit, Feier, Ritual.
 All dies existiert gleichzeitig im Black Metal.
 * Black-Metal-Musik entstand als Spiegelbild des Klimas, der Kultur und der Geschichte einer bestimmten Region.
 * Seit den 1990er Jahren hat die **Multipolarisierung (von Norwegen als Zentrum auf den Rest der Welt)** Fortschritte gemacht.
-* Vorkommnisse, Ideen und soziale Hintergründe hatten einen starken Einfluss auf die Genrebewertung und Bildbildung,
+* Vorfälle, Ideen und soziale Hintergründe hatten einen starken Einfluss auf die Genrebewertung und Bildbildung,
 **Im Hinblick auf die Musikgeschichte liegt das Wesentliche in den Veränderungen in der Arbeitsstruktur und der Aufnahmeästhetik jeder Band**.
 * Seit den 2000er Jahren wird es in **Avantgarde, Naturverehrung, DSBM und Post-BM** unterteilt.
 Der Ausbau dauert bis in die 2020er Jahre.

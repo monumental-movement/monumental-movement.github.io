@@ -56,7 +56,7 @@ In der Klangkunst ist die räumliche Anordnung wichtiger als die zeitliche Entwi
 
 ## Kapitel 2: Avantgardistische Instrumentalkonzepte
 
-### 2-1 Instrumente neu definieren
+### 2-1 Neudefinition von Musikinstrumenten
 
 In der avantgardistischen Instrumentalmusik haben Instrumente keine feste Form. Bestehende Instrumente werden erweitert oder verändert, oder die Umgebung selbst wird als Instrument behandelt. Mikrofone, Lautsprecher, Resonatoren und architektonische Räume sind gleichwertige Komponenten.
 
@@ -97,7 +97,7 @@ flowchart LR
 
 ### 4-1 Architekturakustik
 
-Luciers Arbeit basiert stark auf räumlichen Dimensionen, Materialien und reflektierenden Eigenschaften. Selbst wenn das Stück gleich ist, werden die akustischen Ergebnisse stark variieren, wenn es an einem anderen Ort installiert wird.
+Luciers Arbeit basiert stark auf räumlichen Dimensionen, Materialien und reflektierenden Eigenschaften. Selbst wenn das Stück gleich ist, können die akustischen Ergebnisse stark variieren, wenn der Installationsort unterschiedlich ist.
 
 ### 4-2 Zuschauerposition
 
@@ -125,7 +125,7 @@ Faktoren wie Verzerrung, Komprimierung und fehlende Daten werden als Komponenten
 
 ### 6-1 Parallele Platzierung mit Video
 
-In Fennesz‘ Werk werden Bilder als parallele Elemente angeordnet und nicht als Erklärungen für Ton. Ton und Video sind oft nicht synchronisiert.
+In Fennesz‘ Werk werden Bilder als parallele Elemente angeordnet und nicht als Erklärungen für Klang. Ton und Video sind oft nicht synchronisiert.
 
 <div class="mermaid">
 flowchart LR

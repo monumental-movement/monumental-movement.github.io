@@ -32,7 +32,7 @@ Bei diesem Genre handelt es sich um äußerst philosophische Musik, die an der G
 
 アンビエントという言葉を音楽ジャンルとして定義づけたのは、イギリスの音楽家Brian Enoである。1978年、彼は代表作[『Ambient 1: Music for Airports』](https://amzn.to/48shEpU)において、以下のように述べている：
 
-„Ambient-Musik muss in der Lage sein, viele Ebenen der Zuhöreraufmerksamkeit zu berücksichtigen, ohne eine bestimmte Ebene zu überfordern; sie muss ebenso vernachlässigbar wie interessant sein.“
+„Ambient-Musik muss in der Lage sein, viele Ebenen der Zuhöreraufmerksamkeit zu berücksichtigen, ohne eine bestimmte Ebene zu erzwingen; sie muss ebenso vernachlässigbar wie interessant sein.“
 „Ambient-Musik darf sich nicht aufdrängen, sich aber gleichzeitig ignorieren lassen.“
 
 Mit anderen Worten: Ambient-Musik ist keine Hintergrundmusik, sondern funktioniert wie Hintergrundmusik. **Es ist „Raumkunst“, die im Hintergrund des Bewusstseins fließt**.
@@ -152,7 +152,7 @@ Tiefes Eintauchen durch Klangschwankungen und winzige Veränderungen.
 
 **●Ambiente Industrie**
 
-Musikalisiert Fabrikgeräusche und Maschinengeräusche.
+Musik aus Fabrikgeräuschen und Maschinengeräuschen.
 
 **アーティスト**：[Nurse With Wound](https://amzn.to/46QgJyk), [Coil](https://amzn.to/48sI7nd)
 
@@ -168,7 +168,7 @@ Ambient-Musik zur Entspannung und Meditation.
 
 ### Ambient ist Raumkunst
 
-Ambient-Musik ist nicht nur Hintergrundmusik, sie ist auch eng mit den folgenden Ideen und künstlerischen Konzepten verbunden.
+Ambient-Musik ist nicht nur Hintergrundmusik, sondern ist auch eng mit den folgenden Ideen und künstlerischen Konzepten verbunden.
 
 **● Minimalismus und Zeitkunst**
 
@@ -206,7 +206,7 @@ Auch eine Fusion mit NFT-Kunst und generativer Musik ist im Gange.
 
 Ambient ist Musik, die nicht im Zentrum der Musik steht, sondern an der Peripherie. Es ist eine Kunst, bei der es nicht um Melodie oder Rhythmus geht, sondern um die Transformation von Atmosphäre, Zeit, Empfindung und Bewusstsein.
 
-Es ist ein Klang, der den Rahmen der Musik überschreitet und in die Stille inmitten des Lärms der Stadt und der Lücken zwischen Erinnerungen eindringt. Anstatt es mit den Ohren zu hören, ist es ein Geräusch, das man im Raum spüren kann.
+Es ist ein Klang, der den Rahmen der Musik überschreitet und in die Stille inmitten des Lärms der Stadt und der Lücken zwischen Erinnerungen eindringt. Anstatt es mit den Ohren zu hören, ist es ein Klang, den man im Raum spüren kann.
 
 <hr>
 
@@ -275,9 +275,20 @@ Es ist ein Klang, der den Rahmen der Musik überschreitet und in die Stille inmi
 </table>
 </div>
 
+---
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3aay4XuKsoQ?si=DAZIUgSUApmhtjlJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 ### Verwandte Spalten
 
 🔗  [【コラム】 アンビエント：「聴く音楽」から「感じる音楽」へII](https://monumental-movement.jp/Column-Ambient2)
+
+
+---
+

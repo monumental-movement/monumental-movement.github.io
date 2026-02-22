@@ -44,7 +44,7 @@ color: #fff;
 „Cowboy Bebop“ von Regisseur Shinichiro Watanabe, der 1998 ausgestrahlt wurde, ist ein monumentales Werk, das der Welt die Affinität zwischen Anime und Jazz zeigte.
 Die Musik wurde von The Seatbelts komponiert, einer Band unter der Leitung von Yoko Kanno. Er nutzte alles von Big-Band-Jazz bis hin zu Scat und Fusion-ähnlichen Gitarrensoli und stellte die Welt der Geschichte des Animes als „Musik selbst“ dar.
 
-Der Eröffnungssong „Tank!“ hatte einen Big-Band-Sound, der an einen Spionagefilm erinnerte, hatte aber auch eine „erwachsene Coolness“, die für einen Anime-OP zu dieser Zeit ungewöhnlich war und Fans auf der ganzen Welt in seinen Bann zog.
+Der Eröffnungssong „Tank!“ hatte einen Big-Band-Sound, der an einen Spionagefilm erinnerte, hatte aber auch eine „erwachsene Coolness“, die für einen Anime-Eröffnungssong zu dieser Zeit ungewöhnlich war und Fans auf der ganzen Welt in seinen Bann zog.
 Seit diesem Erfolg wird Jazz im Anime oft als Symbol für Coolness und Urbanität bezeichnet.
 
 ---
@@ -109,7 +109,7 @@ flowchart TD
 
 | Anime-Szene | Jazz-/Fusion-Song, den Sie in Ihrer Fantasie spielen möchten | Erklärung |
 | ------------ | ------------------------------------ | ------------ |
-| Lupin der Dritte rennt durch die Nachtstadt | Dave Brubeck „Take Five“ | Die Leichtigkeit der fünftaktigen Signatur unterstreicht Lupins Stilsicherheit |
+| Lupin der Dritte rennt durch die nächtliche Stadt | Dave Brubeck „Take Five“ | Die Leichtigkeit der fünftaktigen Signatur unterstreicht Lupins Stilsicherheit |
 | Spike vs. Vicious (Cowboy Bebop letzter Showdown) | John Coltrane „A Love Supreme“ | Symbolisiert erhabene Spannung und einen schicksalhaften Kampf |
 | Eine Szene aus Makoto Shinkais Werk an einem regnerischen Tag | Bill Evans „Waltz for Debby“ | Transparentes Klavier spiegelt die Schönheit des Bildes wider |
 | Sitzung bei Sakamichi no Apollon | Art Blakey „Moanin‘“ | Die Hitze der Trommeln und Hörner verstärkt die Heiterkeit der Jugend |

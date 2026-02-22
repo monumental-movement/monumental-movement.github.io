@@ -48,7 +48,7 @@ color: #fff;
 
 ## Before Formation: Die Schnittstelle zwischen Doom Metal und Hardcore
 
-Sludge Metal ist kein isoliert entstandener Musikstil. Dahinter verbergen sich zwei Strömungen: Doom Metal, der seit den 1970er-Jahren anhält, und Hardcore-Punk, der sich in den 1980er-Jahren verbreitet.
+Sludge Metal ist kein isoliert entstandener Musikstil. Dahinter verbergen sich zwei Strömungen: Doom Metal, der sich seit den 1970er Jahren fortsetzt, und Hardcore Punk, der sich in den 1980er Jahren ausbreitet.
 
 Gekennzeichnet durch langsame Tempi und schwere Riffs hat Doom Metal düstere, stagnierende Emotionen in Musik verwandelt. Hardcore-Punk hingegen drückte soziale Unzufriedenheit und Wut direkt durch kurze, harsche Lieder und aggressive Einstellungen aus.
 

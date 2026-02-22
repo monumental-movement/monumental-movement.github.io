@@ -9,7 +9,7 @@ permalink: /de/tone-theory-limbo-of-vanished-possibilities/
 tags:
 - Techno
 - Deep House
-title: Tontheorie – Schwebezustand verschwundener Möglichkeiten
+title: Tontheorie – Limbo verschwundener Möglichkeiten
 ---
 
 

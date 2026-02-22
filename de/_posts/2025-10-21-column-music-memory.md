@@ -120,7 +120,7 @@ Was Benedict Anderson eine „imaginierte Gemeinschaft“ nennt, ist
 Unterstützt wurde es durch „gemeinsame Musik“ wie die Nationalhymne und das Schullied.
 
 Allerdings entsteht in der heutigen Zeit das „kollektive Gedächtnis“ auf den Bühnen von Festivals und Clubs, nicht in Ländern.
-In dem Moment, in dem Menschen in einer Menschenmenge dasselbe Lied hören, überwinden sie das Individuum und verbinden sich zu einer „Klanggemeinschaft“.
+Sobald Menschen in einer Menschenmenge dasselbe Lied hören, überwinden sie das Individuum und verbinden sich zu einer „Klanggemeinschaft“.
 
 Es ist ein neues „Ritual“ des 21. Jahrhunderts und eine Erneuerung der Erinnerung.
 

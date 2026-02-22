@@ -154,7 +154,7 @@ Geändert in **Produktionsauswahl**.
 
 * Die Häufigkeit kann direkt angegeben werden
 * Sofortige Änderung der Tuning-Tabellen
-* Frei vom Tastaturlayout
+*Freiheit vom Tastaturlayout
 
 Infolgedessen wurde das Temperament zu einem **variablen Parameter** und nicht zu einer festen Prämisse.
 
@@ -209,7 +209,7 @@ Es geht nicht darum, mikrotonale Elemente zum Thema der Songstruktur zu machen.
 
 ### 10.1 Kompositionsdesign
 
-* Entscheiden, welches Temperament verwendet werden soll
+* Entscheiden Sie, welches Temperament Sie verwenden möchten
 * Verstehen Sie die Bandbreite möglicher Harmonien
 * Prüfung, ob Modulation möglich ist oder nicht
 

@@ -77,7 +77,7 @@ Dies ist eine typische Vereinskonfiguration, bei der das Spielfeld in der Pause 
 
 #### Akustische Eigenschaften (geschätzt)
 - Die Trittenergie ist auf den niedrigen Bereich (40–60 Hz) konzentriert.
-- Subbass- und Percussion-Ebenen im Mitteltonbereich
+- Subbass- und Percussion-Layer im Mitteltonbereich
 - Weißes Rauschen, Sirene und Synth-Pads schaffen einen Raum im oberen Bereich
 
 #### Rolle im DJ-Set
@@ -134,11 +134,11 @@ Es wird verwendet, um den Groove in der Mitte eines Satzes aufrechtzuerhalten od
 #### grundlegende Informationen
 - BPM: 125
 - Tonart: g-Moll
-- Länge: Ungefähr 8 Minuten 44 Sekunden
+- Länge: Ungefähr 8 Minuten und 44 Sekunden
 
 #### Songstruktur und Rhythmus
 Es hat ein starkes melodisches Element, wobei Pads und Synthesizer allmählich mit dem Rhythmus im Intro verschmelzen.
-Nach dem Drop entwickeln sich Melodie und Beat schichtweise, und der Break beruhigt sich für eine Weile und schlägt eine Brücke zum nächsten Aufbau.
+Nach dem Drop entwickeln sich Melodie und Beat in mehreren Schichten, und der Break beruhigt sich für eine Weile und schlägt eine Brücke zum nächsten Aufbau.
 
 #### Akustische Eigenschaften (geschätzt)
 - Niedrig: Stabilisieren Sie den Boden mit Tritten und Bässen
@@ -173,7 +173,7 @@ Es wird zu Spitzenzeiten aufgestellt, um das Publikum zu begeistern und eine fut
 
 ## Kapitel 3: Zeitachsenanalyse des Festival-/Club-Sets
 
-In Len Fakis typischen langen Sets ist jeder Titel strategisch platziert, um die emotionale Kurve der Clubfläche zu formen.
+In einem typischen langen Len-Faki-Set ist jeder Titel strategisch platziert, um die emotionale Kurve der Clubfläche zu bilden.
 
 <div class="mermaid">
 timeline

@@ -18,7 +18,7 @@ title: '[Kolumne] Electro Swing'
 
 ## Über den Musikstil Electro Swing
 
-Text: mmr｜Thema: Rekonstruktion unter Verwendung des historischen Erbes des Swing-Jazz und der Grammatik der elektronischen Tanzmusik
+Text: mmr｜Thema: Zum historischen Erbe des Swing-Jazz und seiner Rekonstruktion anhand der Grammatik der elektronischen Tanzmusik
 
 Electro Swing ist ein Musikstil, der Elemente des Swing-Jazz, der Big Band und des Gypsy-Jazz der 1920er bis 1940er Jahre mit den Produktionstechniken der elektronischen Tanzmusik ab den 2000er Jahren verbindet. Es kombiniert historische Elemente wie Hornriffs, Klarinette und Violine sowie Scat-Gesang mit Samplern, Sequenzern, Loops und basslastigen Beats.
 
@@ -172,9 +172,9 @@ Diese Methode steht im Einklang mit der Sampling-Kultur nach dem Hip-Hop, aber E
 
 ## 16. Klangverarbeitung und Produktionstechniken
 
-Auf der Produktionsseite spielen Sample-Cutting und Time-Stretching, Beat-Quantisierung und Bass-Low-End-Design eine wichtige Rolle. Der Schwung des Schwungs wird nicht vollständig reproduziert, sondern im Vier-auf-der-Vier oder geraden Breakbeat absorbiert.
+Auf der Produktionsseite spielen Sample-Extraktion und Time-Stretching, Beat-Quantisierung und Bass-Low-End-Design eine wichtige Rolle. Der Schwung des Schwungs wird nicht vollständig reproduziert, sondern im Vier-auf-der-Vier oder geraden Breakbeat absorbiert.
 
-Dadurch hat Electro Swing eine Struktur, die für Jazz unnatürlich ist, für Tanzmusik jedoch sehr ansprechend ist. Dieses Kompromissdesign ist der technische Kern der Entstehung des Genres.
+Infolgedessen hat Electro Swing eine Struktur, die für Jazz unnatürlich ist, für Tanzmusik jedoch sehr ansprechend ist. Dieses Kompromissdesign ist der technische Kern der Entstehung des Genres.
 
 ---
 
@@ -196,7 +196,7 @@ Ein weiteres Merkmal ist andererseits, dass es schwierig war, eine klare häusli
 
 ## 19. Vergleich mit anderen Genres
 
-Electro Swing wird manchmal mit Nu Jazz, Swing House und Retro House verwechselt, aber der größte Unterschied besteht darin, dass es die Symbolik der Swing-Ära in den Vordergrund stellt. Dabei steht die kulturelle Lesbarkeit über der musikalischen Komplexität.
+Electro Swing wird manchmal mit Nu Jazz, Swing House und Retro House verwechselt, aber der größte Unterschied besteht darin, dass es die Symbolik der Swing-Periode in den Vordergrund stellt. Dabei steht die kulturelle Lesbarkeit über der musikalischen Komplexität.
 
 Während diese Struktur die Fähigkeit des Genres, Kritik standzuhalten, schwächte, war sie wirksam bei der Gewinnung langfristiger Zuhörer.
 
@@ -208,7 +208,7 @@ Electro Swing entstand durch die Transplantation historischer Fragmente des Swin
 
 Die Vergangenheit als Rohmaterial zu behandeln, das bearbeitet und nicht als Dekoration konsumiert werden kann, ist eine Perspektive, die die gesamte zeitgenössische Musikkultur durchdringt. Als symbolisches Beispiel dafür wird weiterhin Electro Swing genannt.
 
-Electro Swing entstand durch die Rekonstruktion des historischen Erbes des Swing-Jazz unter Verwendung der Grammatik der elektronischen Tanzmusik. Praxen wie Parov Stelar und Caravan Palace zeigen, dass es sich bei dieser Fusion nicht um ein temporäres Projekt, sondern um einen nachhaltigen Ausdruck handelt.
+Electro Swing entstand durch die Rekonstruktion des historischen Erbes des Swing-Jazz unter Verwendung der Grammatik der elektronischen Tanzmusik. Praktiken wie Parov Stelar und Caravan Palace zeigen, dass diese Fusion kein vorübergehendes Projekt, sondern ein nachhaltiger Ausdruck ist.
 
 ---
 

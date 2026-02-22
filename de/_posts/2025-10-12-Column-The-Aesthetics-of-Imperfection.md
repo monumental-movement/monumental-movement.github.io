@@ -58,7 +58,7 @@ Diese Haltung, perfekte Filter abzulehnen, ist zu einer neuen Ästhetik geworden
 
 ### 1-2. Zeichen der Mode
 Gegründet von Saint Laurent und Heaven von Marc Jacobs
-Die „Rauheit der Nacht“ und der „abgenutzte Glanz“ sind es
+Die „Rauheit der Nacht“ und der „abgenutzte Glanz“ sind
 Schließlich infizierte es auch die Welt der Musik.
 In der unheimlichen Dekadenz der Balenciaga-Show
 Die „Schönheit, nicht perfekt zu sein“ war bewegend.
@@ -75,15 +75,15 @@ Charli XCXs „Brat“ hat dieses Gefühl in Popmusik sublimiert.
 ---
 
 ### 2-1. Lässige Realität
-Wenn man „brat“ hört, verspürt man als Erstes die Behaglichkeit, „unvollendet“ zu sein.
+Wenn man „brat“ hört, verspürt man als Erstes die Beruhigung, „unvollendet“ zu sein.
 Der Gesang ist rau, der Mix ist statisch und die Texte werden impulsiv ausgespuckt.
-Es hat jedoch eine „rohe“ Qualität, die in anderer Popmusik nicht zu finden ist.
+Es hat jedoch ein „rohes“ Gefühl, das in anderer Popmusik nicht zu finden ist.
 Es ist eine „menschliche Note“, die das Gegenteil der Ära der Perfektion ist.
 
 ### 2-2. Das Gegenteil einer perfekten Welt
 Smartphones und soziale Netzwerke haben die Obsession geschaffen, immer Recht zu haben.
 Bilder werden bereinigt, Stimmen korrigiert und Fehler sofort entfernt.
-Charli XCX scheint jedoch über den Druck zu lachen.
+Allerdings scheint Charli XCX über den Druck zu lachen.
 Er wagte es, der Welt einen ungleichmäßigen Ton zu übermitteln.
 Der Erfolg von „brat“ ist ein Meilenstein in der Popgeschichte.
 Es symbolisiert eine „Abkehr vom Glauben an Perfektion“.

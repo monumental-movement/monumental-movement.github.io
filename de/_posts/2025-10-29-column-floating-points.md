@@ -42,7 +42,7 @@ color: #fff;
 
 ### 2. Wissenschaft der Struktur – Elaenia-Zeit (2015)
 Sein Debütalbum „Elaenia“ markiert einen Wendepunkt in der wissenschaftlichen Neuordnung des Kontexts des Ambient Jazz.
-Der Klang ist eine Kombination aus modularen Synthesizer-Wellenformen, Rhodes-Obertönen und Saitennachhall, die übereinander geschichtet sind, um einen Frequenzdialog zu erzeugen.
+Der Klang besteht aus modularen Synthesizer-Wellenformen, Rhodes-Obertönen und Saitennachhall, die übereinander geschichtet sind, um einen Frequenzdialog zu erzeugen.
 Dieser Dialog ähnelt eher einer „Resonanz als physikalischem Phänomen“, einer Welleninterferenz, als einer Improvisation.
 
 > „Silhouettes (I, II & III)“ ist ein 10-minütiges Klangexperiment,
@@ -70,7 +70,7 @@ Es handelt sich um „von einer Maschine ausgeführte Improvisation“ und zugle
 ### 4. Resonanz des Lichts – Versprechenszeitraum (2021)
 „Promises“, gemeinsam mit Pharoah Sanders geschrieben, ist ein Werk, in dem Floating Points wissenschaftliches Klangdenken den Bereich der Seele erreicht.
 Dieses Album überschneidet die physische „Klangmessung“ und das metaphysische „Zeitgefühl“.
-Das Motiv, das sich durch die neun Kapitel umfassende Suite zieht, ist eine Wiederholung nur weniger Noten, die sich wie Quanteninterferenzmuster ändern.
+Das Motiv, das sich durch die neun Kapitel umfassende Suite zieht, ist die Wiederholung nur weniger Noten, die sich wie Quanteninterferenzmuster verändern.
 
 Das Saxophon von Pharoah Sanders fügt sich in elektronische Klänge ein und behält dabei seine menschliche „Atmung“-Qualität.
 Das Gleichgewicht ist wie die Beziehung zwischen dem Beobachter und dem beobachteten Objekt.

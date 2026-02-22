@@ -18,7 +18,7 @@ title: '[Kolumne] Roland TR-1000: Rhythmus neu definieren ─ Analoge Gene und d
 ## Wenn Roland die „Definition einer Rhythmusmaschine“ erneut umschreibt
 
 
-Text: mmr｜Thema: TR-1000, das neueste Produkt der TR-Serie von Roland. Befassen Sie sich eingehend mit dem analogen Schaltkreisdesign, dem KI-Verhalten und der kulturellen Bedeutung auf den drei Achsen Technologie, Ideologie und Kulturgeschichte.
+Text: mmr｜Thema: TR-1000, das neueste Produkt der TR-Serie von Roland. Befassen Sie sich eingehend mit dem analogen Schaltungsdesign, dem KI-Verhalten und der kulturellen Bedeutung auf den drei Achsen Technologie, Ideologie und Kulturgeschichte.
 
 
 Rolands neuer Herzschlag, der TR-1000, ist ein „Rhythm Creator“, der die Wärme des Analogen, die Präzision des Digitalen und die Freiheit des Samplings vereint. Dieser Artikel wird seinen technischen Kern, seinen ideologischen Hintergrund und seine Position in der Musikkultur entschlüsseln.
@@ -68,7 +68,7 @@ Der TR-1000 ist sozusagen ein „Rhythmusspiegelgerät“.
 ### Kapitel 3 Physisches Design und Schnittstelle
 #### ── Das Gefühl zurückgewinnen, eine Maschine zu „spielen“.
 
-Das Panel-Design des TR-1000 folgt dem traditionellen Layout des 808/909, kombiniert jedoch eine metallische Textur mit einem modernen Layout.
+Das Paneldesign des TR-1000 folgt dem traditionellen Layout des 808/909, kombiniert jedoch eine metallische Textur mit einem modernen Layout.
 Bearbeiteter Aluminiumknopf, Stufenknopf mit abgerundeten Kanten.
 Dieses taktile Design ist Ausdruck der Überzeugung, dass „die Hände sich an die Musik erinnern, bevor sie den Klang ausdrücken können“.
 
@@ -78,7 +78,7 @@ Reaktionsfähigkeit, als ob der Rhythmus „atmen“ würde. Aus diesem Grund le
 
 ---
 
-### Kapitel 4 Akustische Struktur: Entwicklung tiefer Frequenzen und rhythmischer Textur
+### Kapitel 4 Akustische Struktur: Entwicklung des Tieftonbereichs und der Rhythmustextur
 #### ── Um den „Geist des 808-Kicks“ zu überwinden
 
 Das Herzstück des TR-1000 ist eine Low-End-Designphilosophie.
@@ -143,6 +143,16 @@ Die Entwicklung des Rhythmus endet nie.
 Und im Mittelpunkt all dessen steht immer der Mensch. **
 
 ---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fD7EXpX2ej0?si=ZIZG4vjHwn0XGhKi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 ### ▷ Hauptchronologie der TR-Serie (Meerjungfrau)
 

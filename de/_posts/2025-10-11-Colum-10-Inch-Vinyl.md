@@ -64,7 +64,7 @@ Labels wie Blue Note, Prestige und Clef beschränkten die Experimente der Künst
 
 Miles Davis [„Junger Mann mit Horn“](https://amzn.to/4qkdGGC) (1952), Thelonious Monk [„Thelonious Monk Trio“](https://amzn.to/4ol2uI1) (1954), Charlie Parker [„Now’s the Time“](https://amzn.to/4qkfrUe) (1953). Alle diese Werke waren wie „Kurzfilme“, bei denen die beste Komposition innerhalb der Beschränkungen von 10 Zoll angestrebt wurde.
 
-Vor dem Aufkommen der 12-Zoll-LP war das 10-Zoll-Format das Testfeld für das neue Konzept der „LP“. Zu einer Zeit, als das Format für lange Arbeiten noch nicht festgelegt war, vermittelte das 10-Zoll-Format dem Künstler ein Gefühl von „Zusammenhalt“ und bewahrte gleichzeitig die Dichte eines „ausgeschnittenen Moments“.
+Vor der Einführung der 12-Zoll-LP war die 10-Zoll-Version das Testfeld für das neue Konzept der „LP“. Zu einer Zeit, als das Format für Langwerke noch nicht festgelegt war, vermittelte das 10-Zoll-Format dem Künstler ein Gefühl von „Zusammenhalt“ und hinterließ gleichzeitig die Dichte eines „ausgeschnittenen Moments“.
 
 Was nicht übersehen werden darf, ist die Entwicklung des Jackendesigns. Blue Note, das dem Erscheinen von Reid Miles vorausging, war für seine einfachen Kompositionen bekannt, die Typografie und Fotoränder nutzten, aber der Goldene Schnitt kam in der 10-Zoll-Ära am schönsten zum Ausdruck.
 
@@ -111,7 +111,7 @@ Es ist ein Musikerlebnis, das sich des Endes bewusst ist, im Gegensatz zu einer 
 
 ---
 
-### Letztes Kapitel: Zeit in Ihrer Handfläche, die 10-Zoll-„Klangdichte“
+### Letztes Kapitel: Die Zeit in Ihrer Handfläche, 10 Zoll spricht von der „Klangdichte“
 
 10 Zoll sind unvollständig, aber vollständig.
 Es handelt sich nicht um eine lange Geschichte oder eine Kurzgeschichte, sondern um ein „Kurzgeschichten“-Format.

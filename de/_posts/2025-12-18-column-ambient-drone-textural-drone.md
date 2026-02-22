@@ -59,7 +59,7 @@ Seit den 1970er Jahren stellt Ambient-Musik eine Form des Zuhörens dar, die ein
 
 ### 2-1. Das Konzept der Textur
 
-Textural Drone zeichnet sich durch eine Struktur aus, bei der mehrere Tonschichten im Laufe der Zeit leicht variieren, und nicht durch eine anhaltende einzelne Tonhöhe. Textur ist hier die Summe aus Obertonverteilung, Rauschkomponenten, räumlicher Lokalisierung und Dynamikschwankungen.
+Textural Drone zeichnet sich durch eine Struktur aus, bei der sich mehrere Tonschichten im Laufe der Zeit leicht verändern, und nicht durch eine einzelne anhaltende Tonhöhe. Textur ist hier die Summe aus Obertonverteilung, Rauschkomponenten, räumlicher Lokalisierung und Dynamikschwankungen.
 
 ### 2-2. Schichttechniken
 
@@ -83,7 +83,7 @@ Stars of the Lid verwendet Streicher, Blechbläser und elektronische Klänge und
 
 ### 3-2. Aufnahme und Mischung
 
-Durch die Unterdrückung hoher Frequenzen, den langfristigen Erhalt von Nachhallanteilen und die Stabilisierung tiefer Frequenzen löst sich das Klangbild im Raum auf, ohne in den Vordergrund zu treten. Dies ist ein Beispiel für eine technologische Umsetzung der „Verwässerung der Präsenz“ von Texturdrohnen.
+Durch die Unterdrückung hoher Frequenzen, den langfristigen Erhalt der Nachhallanteile und die Stabilisierung tiefer Frequenzen löst sich das Klangbild im Raum auf, ohne in den Vordergrund zu treten. Dies ist ein Beispiel für eine technologische Umsetzung der „Verwässerung der Präsenz“ von Texturdrohnen.
 
 ### 3-3. Zeitstruktur
 

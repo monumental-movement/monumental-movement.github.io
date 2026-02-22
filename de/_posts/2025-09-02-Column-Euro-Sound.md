@@ -94,7 +94,7 @@ color: #fff;
 -Schnapp!
 -Culture Beat
 -Echter McCoy
-- U96
+-U96
 -Roller
 
 **Kultureller Hintergrund**

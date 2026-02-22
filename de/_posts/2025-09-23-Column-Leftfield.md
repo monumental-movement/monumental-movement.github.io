@@ -116,6 +116,15 @@ Leftfield ist eine Ikone der britischen Electronica und ein Synonym für musikal
 
 ---
 
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7scq3_vpAgw?si=hy0NK0UAMmNSge5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ### Verwandte Spalten
 
 🔗 [【コラム】 トリップ・ホップ深掘り：Massive Attack / Portishead / DJ Shadow / DJ Krush](https://monumental-movement.jp/Column-Triphop)

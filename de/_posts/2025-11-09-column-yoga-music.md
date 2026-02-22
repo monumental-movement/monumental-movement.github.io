@@ -60,7 +60,7 @@ color: #fff;
 
 ## Kapitel 1: Alter Rhythmus und Spiritualität {#chapter1}
 
-Im alten Indien waren Yoga und Musik eng miteinander verbunden und standen im Mittelpunkt der spirituellen Praxis. Während der vedischen Zeit war das Rezitieren heiliger Gedichte und Mantras von zentraler Bedeutung für die Meditation, und man ging davon aus, dass der Klang selbst spirituelle Kraft besitzt. Klangvibrationen erleichterten die Integration körperlicher und geistiger Empfindungen und förderten einen Zustand der Konzentration.
+Im alten Indien waren Yoga und Musik eng miteinander verbunden und standen im Mittelpunkt der spirituellen Praxis. Während der vedischen Zeit war das Rezitieren heiliger Gedichte und Mantras von zentraler Bedeutung für die Meditation, und man ging davon aus, dass der Klang selbst spirituelle Kraft besitzt. Klangvibrationen erleichterten die Integration körperlicher und geistiger Empfindungen und ermöglichten einen Zustand der Konzentration.
 
 ### Indische klassische Musik und Yoga
 
@@ -90,7 +90,7 @@ Zu Beginn des 20. Jahrhunderts begann die Musiktherapie im Westen in den Bereich
 
 ### Geburt der New-Age-Musik
 
-Seit den 1970er Jahren ist New-Age-Musik zu Meditations- und Heilzwecken entstanden. Lieder mit Synthesizern und natürlichen Klängen wurden in Yoga-Asanas und Meditation integriert und sorgten für spirituelle Tiefe. Die Kombination von Yoga und Musik hat sich als integrierter Ansatz etabliert, der Gesundheit, Spiritualität und persönliches Wachstum fördert.
+Seit den 1970er Jahren taucht New-Age-Musik zu Meditations- und Heilzwecken auf. Lieder mit Synthesizern und natürlichen Klängen wurden in Yoga-Asanas und Meditation integriert und sorgten für spirituelle Tiefe. Die Kombination von Yoga und Musik hat sich als integrierter Ansatz etabliert, der Gesundheit, Spiritualität und persönliches Wachstum fördert.
 
 ---
 

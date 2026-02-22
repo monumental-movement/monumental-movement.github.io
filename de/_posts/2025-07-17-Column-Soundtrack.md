@@ -70,17 +70,17 @@ Eine neue Möglichkeit, Filmmusik mit Ihrem Autoradio oder tragbaren Gerät zu �
 
 ■CD (Compact Disc)
 
-Seit den 1980er Jahren erfreut es sich als Format mit hoher Klangqualität, langer Dauer und hoher Flexibilität in der Songreihenfolge großer Beliebtheit.
+Seit den 1980er Jahren erfreut es sich als Format mit hoher Klangqualität, langer Dauer und einem hohen Maß an Freiheit bei der Songreihenfolge großer Beliebtheit.
 
 Es wurde möglich, vollständige Partituren aufzunehmen, was ein goldenes Zeitalter für die Wertschätzung von Filmmusik einläutete.
 
-Es treten auch auf Soundtracks spezialisierte Labels auf (La-La Land Records, Intrada, Varese Sarabande usw.).
+Es sind auch auf Soundtracks spezialisierte Labels erschienen (La-La Land Records, Intrada, Varese Sarabande usw.).
 
 ■DVD/Blu-ray: Video + Musik
 
 Ein Medium zum „Neuerleben“ von Soundtracks in Videoarbeiten.
 
-Der räumliche Ausdruck von Musik hat sich mit stereofonen Technologien wie 5.1-Kanal/DTS stark weiterentwickelt.
+Der räumliche Ausdruck von Musik hat sich mit stereofonen Technologien wie 5.1ch/DTS stark weiterentwickelt.
 
 ■Digitale Tonquelle (MP3/WAV/FLAC/AAC)
 

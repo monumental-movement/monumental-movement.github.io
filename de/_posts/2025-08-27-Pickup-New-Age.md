@@ -20,7 +20,7 @@ title: Holen Sie sich New-Age-Werke
 ### Schahawkie Roth – Tanz des Tao
 <a href="https://jp.mercari.com/item/m91290785378?afid=6142608987"><img src="../assets/images/Schawkie%20Roth%20%E2%80%93%20Dance%20Of%20The%20Tao.webp"></a>
 
-Charakteristik: Schahawkie Roth ist ein auf Heilung, Meditation, Entspannungsmusik und akustischen Jazz spezialisierter Komponist und gilt als einer der Pioniere der spirituellen New-Age-Musik.
+Charakteristik: Schahawkie Roth ist ein Komponist, der sich auf Heilung, Meditation, Entspannungsmusik und akustischen Jazz spezialisiert hat und als einer der Pioniere der spirituellen New-Age-Musik gilt.
 
 
 Charme: Dieses Stück ist eine Fusion aus östlicher Philosophie und westlicher Musik und eignet sich perfekt für Meditation und Entspannung.

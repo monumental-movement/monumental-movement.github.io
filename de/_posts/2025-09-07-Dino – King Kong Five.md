@@ -16,7 +16,7 @@ title: Dino – King Kong Five
 
 Dino Lenny, auch bekannt als Dino, ist ein italienischer DJ/Produzent, der seit über 30 Jahren in der Tanzmusikszene aktiv ist.
 
-„King Kong Five“ war ursprünglich ein Originalsong der französischen Band Mano Negra, der 1989 auf ihrem Album Puta’s Fever enthalten und als Single veröffentlicht wurde.
+„King Kong Five“ war ursprünglich ein Originalsong der französischen Band Mano Negra und wurde 1989 auf deren Album Puta’s Fever aufgenommen und als Single veröffentlicht.
 
 Dinos Version ist eine Neuinterpretation dieses Songs, House/Electro, der 2004 auf Ilario Dragos Tanzmusiklabel Ego Music veröffentlicht wurde.
 

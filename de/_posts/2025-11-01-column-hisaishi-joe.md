@@ -23,7 +23,7 @@ Text: mmr | Thema: Eine lange Kolumne, die faktenbasiert auf die Geschichte der 
 In der Geschichte des japanischen Films ist die Existenz des Komponisten Joe Hisaishi (englischer Name: Joe Hisaishi) einzigartig.
 Seine Musik ist nicht nur „Filmbegleitung“, sondern fungiert als wichtiger Bestandteil, der die Welt des Werkes selbst formt.
 
-Seit „Nausicaa aus dem Tal des Windes“ aus dem Jahr 1984 hat das in Zusammenarbeit mit Regisseur Hayao Miyazaki geschaffene Musikuniversum den Kontext von Animationsfilmen überschritten und internationale Anerkennung gefunden.
+Seit „Nausicaa aus dem Tal des Windes“ aus dem Jahr 1984 ist das in Zusammenarbeit mit dem Regisseur Hayao Miyazaki entstandene Musikuniversum über den Kontext von Animationsfilmen hinausgegangen und hat internationale Anerkennung gefunden.
 Diese Kolumne zeichnet anhand von Fakten sorgfältig die Beziehung zwischen Joe Hisaishis Musikgeschichte und den Werken von Studio Ghibli nach.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/faf98cNY8A8?si=ZJ3kmZ7G6yoA6-3m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -75,7 +75,7 @@ Dieser Name wurde erstmals 1981 offiziell auf dem Album Information verwendet.
 1984 wurde Hisaishi ausgewählt, die Musik für den Film „Nausicaa aus dem Tal des Windes“ von Tokuma Shoten und Top Craft zu leiten.
 Das Lied verwendet eine Kombination aus Synthesizern und ethnischen Instrumenten, was für Animationsmusik ungewöhnlich ist.
 
-Ursprünglich wollte Regisseur Hayao Miyazaki „Musik, die den Atem zwischen Natur und Maschinerie spüren lässt.“
+Ursprünglich wollte Regisseur Hayao Miyazaki „Musik, die den Atem zwischen Natur und Maschinerie spüren lässt“.
 Als Reaktion darauf schlug Hisaishi einen „Environmental-Music-Ansatz“ vor, der eine Weltanschauung durch Rhythmus und Ton darstellt.
 
 Das Hauptthema, „Legend of the Wind“, wurde später zu einem von Hisaishis Erkennungsliedern.
@@ -130,7 +130,7 @@ Mit diesem Werk konstruierte Hisaishi erstmals „imaginäre Periodenmusik“ un
 Als Hisaishi 1997 die Musik für Prinzessin Mononoke komponierte, setzte er ein komplettes Orchester und einen Chor ein, um einen Klang mit religiöser Tiefe zu erzeugen.
 Das Thema dieser Arbeit ist das Zusammenleben von Natur und Mensch, und auch Hisaishis Musik entwickelt sich auf eine Weise, die diese Idee unterstützt.
 
-Der Einsatz eines gemischten Chors, der tiefe Klang der Pauke und die Platzierung der Stille zeigen die Reife von Hisaishis musikalischer Diktion.
+Der Einsatz eines gemischten Chors, der tiefe Klang der Pauke und die Platzierung der Stille zeigen die Reife von Hisaishis musikalischer Ausdrucksweise.
 In diesem Jahr komponierte Hisaishi auch die Musik für Takeshi Kitanos „HANA-BI“, das gleichzeitig in einem anderen Kontext große Anerkennung fand.
 
 ---
@@ -214,5 +214,13 @@ graph TD
     H --> I[君たちはどう生きるか]
 
 </div>
+
+---
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xUcNHHRBYcU?si=4S5ZfiBGFbrJNAqR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

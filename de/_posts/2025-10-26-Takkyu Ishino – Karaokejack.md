@@ -20,7 +20,7 @@ Der neunte Song „Creatures Of The Night“ wurde gemeinsam mit Beroshima gesch
 
 Takkyu Ishino – Karaoke Jack
 
-Erste limitierte Papierhüllen-Spezifikation
+Erste limitierte Auflage einer Papierhülle
 
 
 

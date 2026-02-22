@@ -113,7 +113,7 @@ RZA übte die Koexistenz von Rauheit und Präzision und die Konstruktion einer E
 
 ## 4. Bobby Digital-Name und experimentelle Solowerke
 
-1999 veröffentlichte RZA experimentelle Solowerke unter dem Namen **Bobby Digital**.
+1999 veröffentlichte RZA experimentelle Soloarbeiten unter dem Namen **Bobby Digital**.
 
 * **„Bobby Digital in Stereo“ (1998)**
 

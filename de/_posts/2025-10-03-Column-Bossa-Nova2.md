@@ -59,13 +59,13 @@ Darüber hinaus unterstützte die neue Aufnahmeausrüstung der damaligen Zeit di
 
 In den 1960er Jahren waren die Strände Ipanema und Copacabana in Rio das Epizentrum des jungen Lebensstils und der Mode. Seine Kleidung, zu der weiße Hemden, leichte Kleider, Strohhüte und Sandalen gehörten, etablierte sich als ein Stil, der die „brasilianische Moderne“ zusammen mit dem leichten Klang des Bossa Nova symbolisierte.
 
-Heloisa Pinheiro, das Model für „Das Mädchen aus Ipanema“, spazierte am Strand entlang und war ein perfektes Beispiel für die Verschmelzung von Mode und Musik. Die Bühnenkostüme von Sergio Mendes und die schlichte urbane Kleidung, die bei Bossa-Nova-Aufführungen in den Vereinigten Staaten zu sehen war, trugen dazu bei, auf dem internationalen Markt ein „cooles Brasilien“-Image zu schaffen.
+Das Bild von Heloisa Pinheiro, dem Model für „Das Mädchen aus Ipanema“, beim Spaziergang am Strand war die perfekte Verbindung von Mode und Musik. Die Bühnenkostüme von Sergio Mendes und die schlichte urbane Kleidung, die bei Bossa-Nova-Aufführungen in den Vereinigten Staaten zu sehen war, trugen dazu bei, auf dem internationalen Markt ein „cooles Brasilien“-Image zu schaffen.
 
 Noch interessanter ist, dass die Verbreitung von Bossa Nova im Einklang mit den globalen Modetrends der 1960er Jahre wie Mod und Minimal Fashion erfolgte. Mit ihren raffinierten Melodien und einfachen Kostümen teilten beide eine „reduzierte Ästhetik“.
 
 ---
 
-### Fazit —— Bossa Nova ist ein kultureller Scheideweg
+### Fazit —— Bossa Nova ist ein Schnittpunkt der Kulturen
 
 Wenn wir es so betrachten, können wir erkennen, dass Bossa Nova nicht nur ein Musikgenre war, sondern ein umfassendes kulturelles Phänomen, das das moderne Brasilien symbolisierte und sich mit Architektur, Technologie und Mode überschnitt.
 

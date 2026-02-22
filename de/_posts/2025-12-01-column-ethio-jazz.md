@@ -83,7 +83,7 @@ Diese bildeten die Grundlage für die Entstehung des einzigartigen Genres, das s
 Mulatu gilt als der erste, der seine Musik „Ethio-Jazz“** nannte.
 In den späten 1960er Jahren versuchte er, die traditionelle äthiopische Musik zu modernisieren, indem er die äthiopische Tonleiter (Kinet) mit Improvisations- und Arrangiertechniken des Jazz verband.
 
-Zu den repräsentativen frühen Werken gehören:
+Zu den repräsentativen Frühwerken zählen:
 
 * **Serie „Afro-Latin Soul (1966–67)“**
 * **《Mulatu von Äthiopien (1972)》**
@@ -238,7 +238,7 @@ Später wurde es in Washington, D.C. wiederentdeckt und tourte um die Welt.
 
 ### ■ Jazz/Funk/Hip-Hop
 
-* Erweiterung der Jazz-Mode-Interpretation
+* Erweiterung der Interpretation von Jazz-Modi
 * Wird häufig als Sample-Material im Hip-Hop verwendet
 * Einfluss auf Afrobeat/Afrofusion
 
@@ -246,7 +246,7 @@ Später wurde es in Washington, D.C. wiederentdeckt und tourte um die Welt.
 
 Nach „Broken Flowers“ hat seine Verwendung in Filmen und im Fernsehen zugenommen.
 
-### ■ Europas neue Generationsband
+### ■ Europas New-Generation-Band
 
 * Die Heliozentriker
 * Schwarze Blume (Belgien)

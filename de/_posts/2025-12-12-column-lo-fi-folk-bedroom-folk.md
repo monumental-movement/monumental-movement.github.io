@@ -53,7 +53,7 @@ In den späten 1970er-Jahren erfreuten sich Tonbandgeräte für Privatanwender g
 Obwohl die Klangqualität keineswegs hoch war, wurde es für seine Fähigkeit gelobt, den Abstand zwischen der Singstimme und der Gitarre sowie die Atmosphäre des Raumes zu bewahren.
 
 ### 1-2. 1980er–1990er: Verbindung zwischen Indie-Folk und Takuroku
-In den späten 1980er Jahren kamen kostengünstige 4-Spur-Kassetten-MTRs (wie TASCAM Portastudio) auf den Markt, und die Qualität des Homerecordings verbesserte sich dramatisch.
+In den späten 1980er Jahren kamen kostengünstige 4-Spur-Kassettenrecorder (z. B. TASCAM Portastudio) auf den Markt, und die Qualität des Homerecordings verbesserte sich dramatisch.
 
 Die Aufnahme etablierte sich als Mittel des persönlichen Ausdrucks,
 - Mehrfachaufnahme
@@ -128,7 +128,7 @@ Die Texte von Bedroom Folk sind oft introspektiv und sprechen mit leiser Stimme 
 - Ruhige religiöse und spirituelle Inhalte
 - Ein Blick weg von der Hektik der Stadt
 
-Iron & Wine, ein Trend, den auch Sufjan Stevens‘ frühe Arbeiten teilen.
+Iron & Wine, ein Trend, den Sufjan Stevens‘ frühe Arbeiten teilen.
 
 ---
 

@@ -60,7 +60,7 @@ Zu den Funktionen gehören:
 * Verleiht Atmungsdynamik, ohne dass die Seitenkette extrem tief wird
 * Konzentrieren Sie sich eher auf „Build ~ Melodie“ als auf Drop
 
-Obwohl der Einfluss von Mt. Eden groß ist, entstand der Name „Chillstep“ als Genre spontan in der Internetkultur.
+Obwohl der Einfluss von Mt. Eden groß ist, entstand der Genrename „Chillstep“ ganz natürlich innerhalb der Internetkultur.
 
 ---
 
@@ -85,7 +85,7 @@ Das Symbol von Chillstep ist „sanfter Subbass“.
 
 ### 2-3 Melodie und Synthesizer-Design
 
-* Leitung: Sanfte Sägewelle oder analoge Emulation
+* Lead: Sanfte Sägewelle oder analoge Emulation
 * Pad: Breites Stereo, hochdichte Textur mit unterdrückten Obertönen
 * Klavier: Hall mit langem Nachhall und weniger Vorverzögerung
 * Streicher: Verstärken Sie das Legato und verbinden Sie die obere Linie reibungslos
@@ -140,7 +140,7 @@ Blackmills Stil wurde zur Vorlage für Chillstep und schuf eine große Fangemein
 
 MitiS hat einen Hintergrund im klassischen Klavier und bringt eine einzigartige Emotion in Chillstep/Melodic Dubstep ein.
 
-* Hauptmelodie des Klaviers
+*Hauptmelodie des Klaviers
 * Transparente und unzerbrechliche Mischung
 * Tranceartiges aufsteigendes Gefühl
 * Sorgfältig verarbeiteter Stimmschnitt
@@ -219,20 +219,20 @@ Der Schwerpunkt liegt eher auf „Nachhaltigkeit“ und „nachhaltiger Resonanz
 
 * Sinuswellenzentrum
 * Bei Bedarf Dreieckswellen untermischen, um für mehr Wärme zu sorgen
-* LFO ist sanft
+*LFO ist sanft
 * Seitenkette ist dünn
 * Die Freigabe ist kurz und fest
 
 ### 5-5 Trommeln
 
-* Kick: Reduzieren Sie den Tieftonbereich nicht zu sehr
+* Kick: Reduzieren Sie den Tieftonbereich nicht zu stark
 * Snare: Dünner, tiefer Hall
 * Hut: Reduziert Verwacklungen und glättet Höhen
 * Percussion: Wassertropfen-FX aktiviert
 
 ### 5-6 mischen
 
-*Unterdrückt sanft die 5-7-kHz-Stimulation
+* Unterdrücken und glätten Sie die 5-7-kHz-Stimulation
 * Hintergrundgeräusche minimieren (analoges Rauschen, Wind, Regen usw.)
 * Nebelartige Textur mit hochgeschnittenem Hall
 * Sidechain ist unterdrückend, erzeugt nur Bewegung

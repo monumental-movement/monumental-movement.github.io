@@ -26,7 +26,7 @@ Dies ist jedoch seit dem 21. Jahrhundert, als die Digitalisierung ihren Höhepun
 Die Magie der Musikproduktion, die einst auf die Wände eines Studios beschränkt war, ist dank Laptops und kostengünstigen Audioschnittstellen, DAWs (Digital Audio Workstations), endlich in jedermanns Zimmer angekommen.
 
 Ein Schlafzimmerproduzent ist nicht nur jemand, der allein Sound erzeugt.
-Sie sind der Inbegriff der „Demokratisierung“ der Musikindustrie und zugleich ein Symbol für die „Kreativität der Einsamkeit“.
+Sie verkörpern die „Demokratisierung“ der Musikindustrie und sind gleichzeitig auch ein Symbol für die „Kreativität der Einsamkeit“.
 Heutzutage, mit direktem Zugang zur Welt über Spotify und SoundCloud, ist das Schlafzimmer kein „privater Raum“ mehr. Durch sein Netzwerk ist es zur Basis einer neuen Musikstadt = digitalen Stadt geworden.
 
 ---
@@ -51,7 +51,7 @@ color: #fff;
 ### Cassette MTR öffnet die Tür zur persönlichen Produktion
 
 In den 1980er Jahren legte der von Unternehmen wie TASCAM und Fostex herausgebrachte **Kassetten-MTR (Mehrspurrekorder)** den Ursprung der Homerecording-Kultur.
-Die Tatsache, dass selbst Lo-Fi-Klangqualität zu Hause überspielt werden kann, bietet Hobbymusikern die Möglichkeit zur „Selbstversorgung“.
+Die Tatsache, dass sogar Lo-Fi-Klangqualität zu Hause überspielt werden kann, hat Amateurmusikern die Möglichkeit der „Autarkie“ eröffnet.
 Der Grundstein für diese Entwicklung lag bereits, als Ryuichi Sakamoto in seinem Heimstudio Demos machte und Homerecording-Künstler ihre Tonquellen zusammen mit Zines verbreiteten.
 
 ### Computer- und MIDI-Revolution
@@ -129,7 +129,7 @@ Ihre Aktivitäten präsentierten eine neue Struktur namens „Popmusik ohne Auto
 ### Die Schnittstelle von Niconico Douga und YouTube
 
 Da Kommentarkultur und abgeleitete Werke auf mehreren Ebenen ineinandergreifen, hat sich das Schlafzimmer in einen Ort der gemeinschaftlichen Produktion verwandelt.
-„Das Schaffen durch eine Person“ wurde schließlich in einem Netzwerk bedeutsam, in dem „viele Menschen gemeinsam Resonanz fanden“.
+„Das Schaffen durch eine Person“ erlangte schließlich in einem Netzwerk Bedeutung, in dem „viele Menschen gemeinsam Resonanz fanden“.
 
 ---
 
@@ -182,3 +182,13 @@ Direkt mit der ganzen Welt verbunden.
 
 >„Von meinem Zimmer in deine Welt.“
 >- Das ist vielleicht das ehrlichste Bild der Musik im 21. Jahrhundert.
+
+---
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3QPR7ms9ZKU?si=dO7M67ORHbzQx-bq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

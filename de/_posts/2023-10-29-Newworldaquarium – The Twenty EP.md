@@ -15,7 +15,7 @@ title: Newworldaquarium – The Twenty EP
 
 Newworldaquarium (NWAQ), auch bekannt als Jochem Peteri, der in den 90er Jahren unter dem Namen ROSS 154 aktiv war, ist ein Detroiter Techno-Electro-Künstler mit Sitz in Amsterdam.
 
-Diese Platte wurde 2006 von Delsin veröffentlicht, einem renommierten Label, das für seinen Detroit-Sound bekannt ist.
+Diese Platte wurde 2006 vom renommierten Label „Delsin“ veröffentlicht, das für seinen Detroit-Sound bekannt ist.
 
 #### Trackliste
 ```md

@@ -136,7 +136,7 @@ flowchart TD
 
 ## 4-3. 100-Gecs-Struktur (überfülltes Genre)
 
-* Mischung aus Ska, Metal, Trap und EDM in einem Song
+* Eine Mischung aus Ska, Metal, Trap und EDM in einem Song
 * BPM-Änderungen, schnelle Entwicklungen
 
 ---
@@ -145,7 +145,7 @@ flowchart TD
 
 ## 5-1. Lo-Fi-Gitarre x Emo-Gesang
 
-* Verzerrt leicht eine über DI angeschlossene Clean-Gitarre
+* Verzerrt eine über DI angeschlossene Clean-Gitarre leicht
 * „Twisted Lo-Fi-Feeling“ mit Saturation + Chorus
 
 ## 5-2. Gesangskette im Internet-Zeitalter
@@ -197,7 +197,7 @@ flowchart LR
 - 1. DI die Gitarre → Sättigung
 - 2. Leichte Trommel (Trap-Keynote)
 - 3. Auto-Tune + Doubler
-- 4. Weinende Oberlinien schichten
+- 4. Überlappende weinende Oberlinien
 
 ---
 

@@ -114,13 +114,13 @@ Gleichzeitig nahm die Zahl der Titelsongs mit Synthesizer-Sounds, Dance-Beats un
 
 Im TV-Anime „Mobile Suit Gundam W“ (New Mobile Suit Gundam W), der 1995 ausgestrahlt wurde, übernahm das Eröffnungsthema „Just Communication“ (gesungen von TWO-MIX) einen Synthesizer-Beat und eine Pop-Melodie, was es zu einem Werk macht, das sich von den traditionellen Gundam-Titelliedern abhebt.
 
-Das Erscheinen dieses Liedes war auch eine Gelegenheit, das konventionelle Bild von Gundam = Kriegsdrama + schwere Musik zu einer etwas leichteren Version eines Heldenliedes zu ändern, das in der Popmusik zu hören ist.
+Das Erscheinen dieses Liedes war auch eine Gelegenheit, das konventionelle Bild von „Gundam = Kriegsdrama + schwere Musik“ zu einem etwas leichteren „Heldenlied, das in der Popmusik zu hören ist“ zu öffnen.
 
 Darüber hinaus verfügen OVA- und Filmversionen jetzt über eine größere Auswahl an Musikprodukten, darunter Titelsongs, Insert-Songs, Charaktersongs und Remix-Discs. Musik hat sich von „exklusiv für Werke“ zu „exklusiv für Marken“ entwickelt.
 
 ### 2.3 Theaterbegleitung, Titellieder und Einfügungslieder: Geschmacksveränderungen im Laufe der Zeit
 
-In dieser Zeit erweiterte sich das Spektrum der Musikentwicklung erheblich. Neben Titelsongs wurden nacheinander Insert-Songs, Charakter-Songs (unter dem Namen des Charakters gesungene Lieder), Remix-Alben, beste Alben, Live-Alben usw. veröffentlicht und die Kategorisierung von Musikprodukten schritt voran.
+In dieser Zeit erweiterte sich das Spektrum der Musikentwicklung erheblich. Neben Titelsongs wurden nacheinander Insert-Songs, Charaktersongs (unter Charakternamen gesungene Lieder), Remix-Alben, Best-Of-Alben, Live-Alben usw. veröffentlicht und die Kategorisierung von Musikprodukten schritt voran.
 
 Auch die musikalische Begleitung (BGM) hat sich weiterentwickelt. Es gab eine wachsende Bewegung, Klavier, Streicher und Synthesizer mutig zu verschmelzen, und aus dem „Schlachtfeld“-Sound der 1980er Jahre entwickelte sich ein starker Trend, die „Gefühle einer Figur“ und „detaillierte innere Darstellung“ durch Klang auszudrücken.
 
@@ -173,7 +173,7 @@ Da es sich bei der Mobile Suit Gundam-Reihe um ein Werk handelt, das die Frage n
 
 ### 5.1 Live-/Coverversion des Titelsongs/Insert-Songs
 
-Ein weiterer Aspekt der Gundam-Musik ist ihre enge Beziehung zur Fan-/Live-Kultur. Anlässlich des 30-jährigen Jubiläums von Gundam wurde beispielsweise ein Album namens „Gundam Rock“ veröffentlicht, in dem ausländische Musiker Gundam-Titellieder coverten. Dies zeigt, dass Musik über die Produktion hinausgegangen ist und zu einer „globalen Kultur“ geworden ist.
+Ein weiterer Aspekt der Gundam-Musik ist ihre enge Beziehung zur Fan-/Live-Kultur. Anlässlich des 30-jährigen Jubiläums von Gundam wurde beispielsweise das Album „Gundam Rock“ veröffentlicht, in dem ausländische Musiker Gundam-Titellieder coverten, was zeigt, dass Musik über das Werk selbst hinausgegangen ist und zu einer „globalen Kultur“ geworden ist.
 
 Darüber hinaus gehören Gundam-Titellieder immer zum Repertoire von Anime-Song-Live-Events, die von Künstlern aufgeführt werden, und die Zahl der Erlebnisse, bei denen das Publikum mitsingt, nimmt zu. Auf diese Weise ist Musik zu einem Inhalt geworden, der nicht nur etwas zum „Hören“, sondern auch etwas zum „Mitmachen“ ist.
 
@@ -208,7 +208,7 @@ Nach 2025 wird erwartet, dass sich die Ära des „Musikhörens“ durch den Aus
 ## Anstelle einer Schlussfolgerung
 
 Man kann sagen, dass „Gundam noch einmal hören“ gleichbedeutend mit „Gundam noch einmal schauen“ ist. Dies liegt daran, dass Musik die Emotionen der Charaktere repräsentiert und den Verlauf der Geschichte vorgibt. Wir hoffen, dass Sie durch diesen Artikel Ihren Lieblings-Gundam-Titelsong wieder aufgreifen und der Geschichte und Geschichtenwelt, die er geschaffen hat, erneut lauschen können.
-Um schließlich tiefer in die Musik von Gundam einzutauchen, sollten Sie unbedingt CD-Hüllen, Live-Videos, Komponisteninterviews und mehr suchen und sammeln. Die Klangreise weitet sich weit über das Sichtbare hinaus.
+Um schließlich tiefer in die Musik von Gundam einzutauchen, sollten Sie unbedingt CD-Hüllen, Live-Videos, Komponisteninterviews und mehr suchen und sammeln. Die Reise des Klangs geht weit über Ihr Sichtfeld hinaus.
 
 ---
 
@@ -220,9 +220,9 @@ Nachfolgend finden Sie eine Chronologie mit Werken, Titelliedern/Einfügeliedern
 |-----|--------|------------------|------------------|--------|
 | 1979 | Mobile Suit Gundam (TV-Version) | Fliegen! Gundam | Yuji Matsuyama/Ko Ikeda | Erstes Titellied der TV-Serie |
 | 1985 | Mobiler Anzug Zeta Gundam | Mit Liebe zum Planeten des Wassers | Neil Sedaka/Kayoko Ebina/Hiroko Moriguchi | Eröffnungslied |
-| 1988 | Mobile Suit Gundam: Char's Counterattack (Film) | Jenseits der Zeit ~Jenseits des Mobius-Universums~ | Tetsuya Komuro/TM NETZWERK | Film-Titellied |
+| 1988 | Mobile Suit Gundam: Char's Counterattack (Film) | Jenseits der Zeit ~Jenseits des Mobius-Universums~ | Tetsuya Komuro/TM NETZWERK | Filmtitellied |
 | 1995 | Neuer mobiler Bericht Gundam Wing | Nur Kommunikation | Minami Takayama・Shiina Nagano/TWO-MIX | Eröffnung der TV-Fassung |
-| 2002 | Mobiler Anzug Gundam SEED | Wir waren so zusammen | Komponist: Hiroyuki Kono et al./See-Saw | Die Entwicklung der Serienmusik beginnt |
+| 2002 | Mobiler Anzug Gundam SEED | Wir waren so zusammen | Komponist: Hiroyuki Kono und andere/See-Saw | Die Entwicklung der Serienmusik beginnt |
 | 2022 | Mobile Suit Gundam: Hexe des Merkur | (Titellied/Drama-Begleitung) | Ko Omama/(Sänger) | Neueste Arbeit/überarbeitete Musikkomposition |
 
 
@@ -264,5 +264,13 @@ Eine Pop-Einheit, die Ende der 1990er Jahre die Anime-Song-Szene repräsentierte
 
 Ein Sänger, der von den 1980er Jahren bis heute aktiv war. Er war für viele Titelsongs der Gundam-Serie verantwortlich, darunter den Eröffnungstitelsong für „Mobile Suit Zeta Gundam“, „With Love to the Star of Water“ und den Titelsong für „Mobile Suit Gundam F91“, „ETERNAL WIND ~Hohoemi wa Hikaru Kaze no Naka~“.
 
+
+---
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rr3JLc0Klwo?si=XQ47R-oxnwuhZgvQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

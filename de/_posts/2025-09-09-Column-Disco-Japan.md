@@ -25,7 +25,7 @@ title: '[Kolumne] Von der Schnittstelle zwischen Disco und japanischer Kultur bi
 Text: mmr｜Thema: Japans einzigartige Rezeption und Entwicklung der Disco, die sich in den 1970er Jahren hauptsächlich in den Vereinigten Staaten entwickelte
 
 
-Disco wurde in den 1970er Jahren in den Vereinigten Staaten geboren und erlebte zusammen mit der urbanen Kultur, einem Gefühl der Befreiung unter schwarzen und lateinamerikanischen Gemeinschaften und Fortschritten in der Technologie einen regelrechten Aufschwung. Etwa zur gleichen Zeit wurde der „New-York-Trend“ nach Japan importiert und verbreitete sich in Nachtlebenzentren wie Roppongi, Akasaka und Ginza. In diesem Artikel werden wir die Beziehung zwischen Disco und japanischer Kultur jahrzehntelang nachzeichnen und repräsentative Meisterwerke, Ausrüstung, Clubgeschichte und empfohlene Titel ordnen.
+Disco wurde in den 1970er Jahren in den USA geboren und erlebte zusammen mit der urbanen Kultur, einem Gefühl der Befreiung unter schwarzen und lateinamerikanischen Gemeinschaften sowie technologischen Fortschritten einen regelrechten Aufschwung. Etwa zur gleichen Zeit wurde der „New-York-Trend“ nach Japan importiert und verbreitete sich in Nachtlebenzentren wie Roppongi, Akasaka und Ginza. In diesem Artikel werden wir die Beziehung zwischen Disco und japanischer Kultur jahrzehntelang nachzeichnen und die berühmtesten Platten, Ausrüstung, Clubgeschichte und empfohlenen Titel ordnen.
 
 ---
 
@@ -76,9 +76,9 @@ color: #fff;
 |----------|--------------|----------|
 | Ich liebe dich, Baby | Donna Sommer | Ein Meisterwerk, das den Grundstein für sinnlichen Gesang und 4/4-Beats legte. |
 | Ich fühle Liebe | Donna Summer & Giorgio Moroder | Revolutionärer Synth-Disco-Track. |
-| Stayin’ Alive | Bee Gees | Global disco anthem. |
+| Bleib am Leben | Bee Gees | Globale Disco-Hymne. |
 | Le Freak | Schick | Ein Symbol für Groove und Raffinesse. |
-| UFO | Pink Lady | Ein Lied, das die populäre japanische Disco symbolisiert. |
+| UFO | Rosa Dame | Ein Lied, das die populäre japanische Disco symbolisiert. |
 | Altes Tagebuch | Akiko Wada | Ein Meisterwerk, das eine gefühlvolle Gesangsstimme in die Disco integriert. |
 | Disco-Inferno | Die Trammps | Ein zeitloser Klassiker, der Tanzflächen zum Beben bringt. |
 | Von hier in die Ewigkeit | Giorgio Moroder | Die Zukunft durch mechanische Wiederholung vorhersagen. |
@@ -123,7 +123,7 @@ Gründung der „Fan-Dance-Kultur“, die mit Bodycon und Juliana Tokyo fortgef�
 | Wie eine Jungfrau | Madonna | Symbolisiert die Geburt einer weiblichen Pop-Ikone. |
 | Ich fühle mit dir | Chaka Khan | Eine Fusion aus Hip-Hop und Disco. |
 | Tanzender Held | Yoko Oginome | Ein Hit, der für japanische Disco steht. |
-| WUNSCH -Leidenschaft- | Akina Nakamori | Eine Fusion aus Disco-Beat und Popsongs. |
+| WUNSCH -Leidenschaft- | Akina Nakamori | Eine Fusion aus Disco-Beats und Popsongs. |
 | Let’s Groove | Erde, Wind und Feuer | Eine Brücke von Funk zu Disco. |
 | Wort hoch! | Cameo | Funkbasierter Disco-Klassiker. |
 | Feier | Kool & The Gang | Ein klassischer Festivalsong. |
@@ -177,7 +177,7 @@ Wechsel von „Juliana Tokyo“ zur Shibuya Club Culture. Aus der Disco-Generati
 
 ## 2000er – Der Aufstieg der Nu-Disco und die Umstrukturierung der Clubs
 - **Hintergrund**
-„Nu-Disco“ und Electroclash erfreuen sich weltweit großer Beliebtheit. Das Disco-Revival in Japan schreitet voran und die Clubszene steht erneut im Rampenlicht.
+„Nu-Disco“ und Electroclash erfreuen sich weltweit großer Beliebtheit. Auch in Japan schreitet das Disco-Revival voran und die Band steht erneut im Rampenlicht der Clubszene.
 
 - **Repräsentative Meisterwerke (Ausland)**
 - Daft Punk – *Discovery* (2001)

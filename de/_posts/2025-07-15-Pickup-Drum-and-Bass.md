@@ -9,7 +9,7 @@ permalink: /de/pickup-drum-and-bass/
 tags:
 - Drum n Bass
 - Jungle
-title: Nehmen Sie Drum-and-Bass-Werke auf
+title: Erlerne Drum-and-Bass-Werke
 ---
 
 

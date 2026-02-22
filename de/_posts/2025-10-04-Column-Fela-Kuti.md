@@ -76,7 +76,7 @@ Londoner Zeit → Aufnahme in den USA → Gründung in Afrika 1970 → politisch
 
 ### Beteiligte Bands/Produzenten/Menschen um sie herum
 
-**Koola Lobitos (früh)** → Afrika ’70 (kultigste Konfiguration) → Ägypten 80 (Konfiguration nach 1980). Obwohl die Mitglieder jede Saison wechseln, zeichnet es sich durch eine große Zusammensetzung aus Bläsergruppe, Chor und Rhythmusgruppe aus.
+**Koola Lobitos (früh)** → Afrika ’70 (kultigste Konfiguration) → Ägypten 80 (Konfiguration nach 1980). Obwohl die Mitglieder jede Saison wechseln, zeichnet es sich durch eine große, gemeinsame Zusammensetzung aus Bläsergruppe, Chor und Rhythmusgruppe aus.
 
 ---
 
@@ -212,6 +212,14 @@ Fela Kuti war nicht nur der „Vater des Afrobeats“, sondern auch ein Symbol d
 Wenn Sie mehr über Afrobeat erfahren möchten, empfehlen wir Ihnen, mit „Gentleman“, „Expensive Shit“ und „Zombie“ zu beginnen.
 
 Die Worte und Rhythmen von Fela hallen immer noch in der Brise von Lagos und auf den Bühnen der Welt wider.
+
+---
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OoyGKEqfyZw?si=A3wzzGbNKrxU-Xfl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

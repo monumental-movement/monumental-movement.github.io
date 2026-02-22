@@ -151,7 +151,7 @@ Attraktiver Punkt: Deckt ein breites Spektrum an Stilen wie Dub Techno und Ambie
 Zusammenfassung: Tresors frühes Compilation-Werk, das 1992 veröffentlicht wurde. Es handelt sich um einen komprimierten Inhalt voller Songs verschiedener Künstler von Seite A bis D.
 
 
-Reizvoller Punkt: Wie der Titel vermuten lässt, handelt es sich bei „Klang Der Familie“ um ein historisches Meisterwerk, das die Entstehungszeit der Berliner Techno-Kultur realistisch nachempfindet. Besonders empfehlenswert für Analog-Fans.
+Reizvoller Punkt: Wie der Titel schon vermuten lässt, handelt es sich bei „Klang Der Familie“ um ein historisches Meisterwerk, das die Entstehungszeit der Berliner Technokultur realistisch darstellt. Besonders empfehlenswert für Analog-Fans.
 
 #### Trackliste
 ```md

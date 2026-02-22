@@ -126,10 +126,10 @@ Es ist diese Vielfalt, die die „Schwankung“ des Rhythmus erzeugt.
 
 - **Afro-karibischer Rhythmus** (abgeleitet von Jungle und Reggae)
 - **Amerikanische R&B-Melodie**
-- **Der DIY-Geist britischer Städte**
+- **Der DIY-Geist des urbanen Großbritanniens**
 
 Dieser Schnittpunkt bildete die einzigartige Klangidentität Großbritanniens.
-Die UKG-Partei war auch ein gemeinsamer Raum, der über Klasse und Rasse hinausging und jungen Menschen als positives Ausdrucksmittel als Reaktion auf die damaligen sozialen Unruhen (Unruhen, Arbeitslosigkeit, Politik unter der Blair-Regierung) diente.
+Die UKG-Partei war auch ein gemeinsamer Raum, der über Klasse und Rasse hinausging und jungen Menschen als Mittel zur positiven Meinungsäußerung als Reaktion auf die damaligen sozialen Unruhen (Unruhen, Arbeitslosigkeit, Politik unter der Blair-Regierung) diente.
 
 ---
 
@@ -188,5 +188,13 @@ E --> F[Future Garage]
 B --> G[Bassline]
 
 </div>
+
+---
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oOGxwbdWLJk?si=1iyadF3eBA63zHpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

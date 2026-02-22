@@ -18,7 +18,7 @@ title: '[Kolumne] Apokalypse der Bilder und Töne: „Koyanisqatsi“ und die We
 ## Prolog: Was ein Film ohne Worte sagt
 
 
-Text: mmr｜Thema: Über den künstlerischen Meilenstein der zweiten Hälfte des 20. Jahrhunderts, als Video und Minimal Music verschmolzen
+Text: mmr｜Thema: Über den künstlerischen Meilenstein der zweiten Hälfte des 20. Jahrhunderts, als Bilder und Minimal Music verschmolzen
 
 „Koyanisqatsi, inszeniert von Godfrey Reggio und mit Musik von Philip Glass, ist ein Werk, das den Horizont von Film und Musik in der zweiten Hälfte des 20. Jahrhunderts grundlegend veränderte.“
 
@@ -67,10 +67,10 @@ Schließlich beginnen sich die Geräusche der Maschinen der menschlichen Zivilis
 ## Kapitel 2: Die Klangkonstruktion von Philip Glass
 
 Die Musik von Glass basiert auf Wiederholung, aber sie ist nicht nur Wiederholung.
-Die Überlagerung winziger Veränderungen erzeugt einen „Unterschied zwischen Stille und Bewegung“**.
+Durch die Überlagerung winziger Veränderungen entsteht ein **„Unterschied zwischen Stille und Bewegung“**.
 
 Seine Partitur stimmt exakt mit den Schnitten und dem Tempo des Filmmaterials überein, als ob das Filmmaterial zu Musik verarbeitet worden wäre.
-Tatsächlich umfasste der Produktionsprozess von Reggio und Glass einen Schnitt, bei dem die Bilder und Töne miteinander in Resonanz standen.
+Tatsächlich umfasste der Produktionsprozess von Reggio und Glass eine Bearbeitung, bei der die Bilder und Töne miteinander harmonierten.
 
 > „Ich habe die Musik geschnitten und das Video komponiert.“
 > ― Godfrey Reggio

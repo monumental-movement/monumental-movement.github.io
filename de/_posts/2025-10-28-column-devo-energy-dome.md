@@ -19,7 +19,7 @@ title: '[Kolumne] DEVO und Energy Dome ─ Utopie und Degenerationstheorie im te
 ## Prolog: Was bedeutet die rote Kuppel?
 
 
-Text: mmr｜Thema: Verwendung des DEVO-Symbols „Energy Dome“ als Hinweis zur Entschlüsselung der Theorie von Degeneration, Technologie, DIY-Denken und der Transformation der Popkultur
+Text: mmr｜Thema: Verwendung des DEVO-Symbols „Energy Dome“ als Hinweis zur Entschlüsselung der Theorie von Degeneration, Technologie, DIY-Denken und der Transformation der Popkultur.
 
 In den späten 1970er Jahren verkörperte die amerikanische New-Wave-Band **DEVO** eine neue Ära der Pop-Art, nicht nur mit ihrer Musik, sondern auch mit ihrer visuellen Ikonographie.
 Das Symbol dafür ist der rote Plastikhut, den sie auf der Bühne und in ihren Musikvideos trugen – **Energy Dome**.
@@ -146,12 +146,12 @@ In den späten 1980er Jahren erlebte DEVO einen Niedergang, als sich die MTV-Kul
 In den 1990er Jahren wurde es als Pionier des Internetzeitalters neu bewertet.
 Ihre selbstsatirische Markenstrategie kündigte die Selbstkommerzialisierung nach Web 2.0 an.
 
-In den 2000er Jahren kamen sie wieder zusammen und schrieben „Something for Everybody“ (2010), eine Satire über „Demokratie im Zeitalter der Algorithmen“.
+In den 2000er Jahren kamen sie mit „Something for Everybody“ (2010) wieder zusammen, einer Satire über „Demokratie im Zeitalter der Algorithmen“.
 In den 2020er Jahren aktualisiert er seine Degenerationstheorie weiter, um NFTs und die KI-Kultur einzubeziehen.
 
 ---
 
-## Kapitel 9: DEVOs Flugbahn in der Chronologie
+## Kapitel 9: DEVOs Flugbahn in Chronologie
 
 <div class="mermaid">
 
@@ -176,10 +176,10 @@ timeline
 ## Kapitel 10: Die heutige Bedeutung von Energy Dome
 
 Der Energy Dome wird von DEVO-Fans immer noch als „Helm des Denkens“ geliebt.
-Während der Coronavirus-Pandemie werden **Energiekuppeln mit Gesichtsschutz** verkauft,
+Während der Coronavirus-Pandemie wird **Energiekuppel mit Gesichtsschutz** verkauft,
 Als Warnung vor Umweltproblemen hat es erneut Aufmerksamkeit erregt.
 
-Mit anderen Worten, der **Energy Dome ist ein soziales Gerät, das sich mit jeder Ära „transformiert“**.
+Mit anderen Worten, der Energy Dome ist ein soziales Gerät, das sich mit jeder Ära „transformiert“.
 Jedes Mal, während wir uns über unsere Illusionen der „Evolution“ lustig machten,
 Es zeigt uns die ketzerische Weisheit der „Bekräftigung der Degeneration“.
 
@@ -192,10 +192,10 @@ Unter dem Druck, sich weiterzuentwickeln, wagten sie es, zu degenerieren.
 Vielmehr wird diese Entscheidung zu einem Mittel zur Wiederherstellung der menschlichen Freiheit.
 
 > „Wahlfreiheit ist das, was Sie haben. Wahlfreiheit ist das, was Sie wollen.“
-> ─ DEVO, Freiheit der Wahl (1980)
+> ─ DEVO, Freedom of Choice (1980)
 
 Energy Dome ist kein Helm, der die Zukunft verschließt.
-**Vielleicht ist es ein Symbol dafür, dass wir wieder die Freiheit haben zu wählen.**
+**Es könnte eine Ikone für uns sein, wieder die Freiheit zu wählen.**
 ---
 
 ## Verwandte Materialien/Referenzen

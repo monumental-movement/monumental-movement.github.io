@@ -20,7 +20,7 @@ title: '[Kolumne] Nyege Nyege: Eine Musikgruppe aus Uganda, die Afrikas musikali
 Text: mmr｜Thema: Über eine wichtige Musikgruppe, die „Outsider-Musik“ verbreitet, die traditionelle afrikanische Musik und moderne elektronische Musik in der Welt verbindet
 
 
-„Nyege Nyege“ ist eine Musikgruppe mit Sitz in Kampala, Uganda, und gilt als Pionier bei der weltweiten Verbreitung der afrikanischen Underground-Musikszene. Sein Name bedeutet auf Luganda „der unwiderstehliche Drang zum Tanzen“ und vermittelt eine kraftvolle Botschaft, die Menschen durch Musik und Tanz zusammenbringt.
+„Nyege Nyege“ ist eine Musikgruppe mit Sitz in Kampala, Uganda, und gilt als Pionier bei der weltweiten Verbreitung der afrikanischen Underground-Musikszene. Sein Name bedeutet auf Luganda „ein unwiderstehlicher Drang zum Tanzen“ und vermittelt eine kraftvolle Botschaft, die Menschen durch Musik und Tanz zusammenbringt.
 
 ---
 
@@ -44,7 +44,7 @@ color: #fff;
 4. [Acolitronix](#acholitronix)
 5. [Electro Maloya](#electro-maloya)
 6. [Anekdoten und Legenden](#Geschichte)
-7. [Kulturelle Bedeutung von Nyege Nyege als Ganzes](#Kultur)
+7. [Kulturelle Bedeutung von Nyege Nyege als Ganzes](#kultur)
 8. [Aktuelle Aktivitäten und Perspektiven](#now)
 9. [Empfohlener YouTube-Link](#youtube)
 10. [Zusammenfassung](#Schlussfolgerung)
@@ -204,7 +204,7 @@ flowchart TD
 
 - Integration mit improvisiertem Tanz: In der Rarakaraka-Tradition ist Tanz mit Musik integriert, und dieser improvisatorische Charakter wird in Acolitronics vererbt.
 
-- Ausdruck auf Festivals: Nyege Beim Nyege Festival ist es üblich, dass das Publikum frei zu elektronischer Akoli-Musik tanzt.
+- Ausdruck auf Festivals: Nyege Beim Nyege Festival ist es üblich, dass das Publikum frei zu elektronischer Akori-Musik tanzt.
 
 ---
 
@@ -268,7 +268,7 @@ flowchart TD
 
 - Neuer experimenteller Ausdruck traditioneller Musik
 
-Diese Stile spielen eine wichtige Rolle bei der Neuinterpretation des afrikanischen Musikerbes durch Nyege Nyege Tapes aus einer zeitgenössischen Perspektive und seiner Weitergabe an die Welt.
+Diese Stile spielen eine wichtige Rolle dabei, wie Nyege Nyege Tapes das musikalische Erbe Afrikas aus einer modernen Perspektive neu interpretiert und mit der Welt teilt.
 
 ---
 

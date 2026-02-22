@@ -80,12 +80,12 @@ Yokotas einzigartige „Musik des Lebens“, die zwischen Natur und Elektronik s
 
 „Anima Mundi“ bedeutet auf Lateinisch „Seele der Welt“.
 Die Werkserien, die Susumu Yokota unter diesem Namen entwickelte, waren diesem Namen wahrlich würdig.
-Die Songs konzentrieren sich auf Drones, Umgebungsgeräusche und harmonische Strukturen und erweitern den inneren Raum des Hörers. Es gibt weder Takt noch Melodie. Es gibt nur den „Klang, der existiert“.
+Die Songs konzentrieren sich auf Drohnen, Umgebungsgeräusche und harmonische Strukturen und erweitern den inneren Raum des Hörers. Es gibt weder Takt noch Melodie. Es gibt nur den „Klang, der existiert“.
 
 Für Yokota könnte man sagen, dass dieser Name ein „Kanal ist, der das Unbewusste und das Universum verbindet“.
 Wenn die Musik unter dem Namen Susumu Yokota „irdische Poesie“ ist, ist Anima Mundi „himmlisches Gebet“.
 
-Das 12-Zoll-Lied „Hebula“ ist ein Techno-Song, der einen verträumten, trippigen Sound mit Tribal-Rhythmen und -Elementen verbindet. Dieser Song zeichnet sich durch komplexe akustische Effekte und vielschichtige Klangtexturen aus und entführt den Hörer in eine andere Welt.
+Das 12-Zoll-Lied „Hebula“ ist ein Techno-Song, der einen verträumten, trippigen Sound mit Tribal-Rhythmen und -Elementen kombiniert. Dieser Song zeichnet sich durch komplexe akustische Effekte und vielschichtige Klangtexturen aus und entführt den Hörer in eine andere Welt.
 
 #### Trackliste
 ```md
@@ -118,7 +118,7 @@ Im Ausland wurde er als „Japans Brian Eno“ beschrieben, aber Yokotas Musik w
 ## Kapitel 6: Leben und Körperlichkeit
 
 Yokotas Live-Auftritt war nicht nur eine Nachstellung, sondern ein Versuch, „den Raum selbst auszuspielen“.
-Er verzichtete so weit wie möglich auf Beleuchtung und Bilder und verwandelte den Raum mithilfe der „Luftdichte“ des Klangs.
+Er verzichtete so weit wie möglich auf Beleuchtung und Bilder und verwandelte den Raum mit der „Luftdichte“, die der Klang hat.
 Das Publikum wird von Klangpartikeln umhüllt und verliert sein Zeitgefühl. Es war eine Erfahrung, bei der es sich anfühlte, als würde jeder Mensch mit dem Klang verschmelzen.
 
 Seine Haltung war ein seltenes Beispiel für die Kombination der tänzerischen Körperlichkeit von Techno mit der meditativen Natur von Ambient.
@@ -169,5 +169,5 @@ Susumu Yokotas Musik wird nicht durch auffällige Melodien und Beats erzählt, s
 In dieser Stille wohnen der Lärm der Stadt, der Atem der Natur und die menschliche Erinnerung.
 Die Musik, die er hinterlassen hat, ist nicht nur eine Sammlung von Werken, sondern ein Spiegel, der das innere Selbst des Zuhörers widerspiegelt.
 
-Selbst nachdem der Ton verstummt ist, bleibt etwas in meinem Herzen.
+Auch wenn der Ton verstummt, bleibt etwas in deinem Herzen.
 Das ist der großartigste „Sound“, den der Musiker Susumu Yokota der Welt hinterlassen hat.

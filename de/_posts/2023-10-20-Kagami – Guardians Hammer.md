@@ -8,7 +8,7 @@ layout: post
 permalink: /de/kagami-guardians-hammer/
 tags:
 - Techno
-title: Kagami – Wächterhammer
+title: Kagami – Hammer des Wächters
 ---
 
 

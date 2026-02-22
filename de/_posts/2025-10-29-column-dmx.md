@@ -93,7 +93,7 @@ Seine Lieder unterwandern oft die normale 16-Takt-Struktur.
 Der Fluss bricht plötzlich ab und kommt wieder zurück. Denn „**emotionaler Rhythmus**“ hatte oberste Priorität.
 
 ### 3. Leistung
-Bei Live-Auftritten war es nicht ungewöhnlich, dass die Zuschauer während DMXs Gebeten weinten.
+Bei Live-Auftritten war es nicht ungewöhnlich, dass Zuschauer während DMXs Gebeten weinten.
 Als er schrie: „**Herr, gib mir ein Zeichen!**“, klang er eher wie ein Prediger als wie ein Rapper.
 
 ---
@@ -148,7 +148,7 @@ Diese Zeit war keine Unterhaltung, sondern eine **Zeremonie**.
 
 ### 3. Rechtskette und Drogen
 
-Wurde Dutzende Male verhaftet. Das meiste davon ist jedoch das Ergebnis von Drogenabhängigkeit und emotionalem Trauma, und er selbst sagt: „Mein Körper brach zusammen, bevor mein Geist starb.“
+Er wurde Dutzende Male verhaftet. Das meiste davon ist jedoch das Ergebnis von Drogenabhängigkeit und emotionalem Trauma, und er selbst sagt: „Mein Körper brach zusammen, bevor mein Geist starb.“
 
 ---
 
@@ -204,7 +204,7 @@ Aber sein Geist schreit immer noch „Arf! Arf!“** aus den Lautsprechern vor d
 
 ---
 
-## DMX-Chronologie (Hauptaktivitäten und Ereignisse)
+## DMX-Zeitleiste (Hauptaktivitäten und Ereignisse)
 
 <div class="mermaid">
 

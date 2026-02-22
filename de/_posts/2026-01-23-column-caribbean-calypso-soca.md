@@ -58,7 +58,7 @@ Zu diesem Zeitpunkt wandelte sich Calypso von der reinen Volksmusik zur urbanen 
 
 ## Die Untrennbarkeit von Karneval und Musik
 
-Der Karneval von Trinidad ist ein kulturelles Instrument, dessen Musik sich nicht isoliert verstehen lässt. Nach der Sklavenbefreiung fungierte der Karneval als Ort, an dem unterdrückter körperlicher Ausdruck und Lärm öffentlich gemacht wurden. Kostüme, Umzüge, Schlaginstrumente und Lieder vereinen sich und verwandeln den Stadtraum selbst in eine Bühne.
+Der Karneval von Trinidad ist ein kulturelles Instrument, dessen Musik sich nicht isoliert verstehen lässt. Nach der Sklavenbefreiung fungierte der Karneval als Ort, an dem unterdrückter körperlicher Ausdruck und Lärm öffentlich gemacht wurden. Kostüme, Märsche, Schlaginstrumente und Lieder vereinen sich und verwandeln den Stadtraum selbst in eine Bühne.
 
 Calypso wird von der Vorbereitung bis zum eigentlichen Karneval intensiv produziert und aufgeführt, die Lieder werden durch Tanzen abgerundet. Das Publikum bestand nicht aus passiven Konsumenten, sondern nahm durch Gesang und Sprechchöre an der Musik teil. Diese Interaktion machte die Bewertung von Musik zu mehr als nur einer Aufnahme.
 
@@ -72,7 +72,7 @@ Steelpans tauchten Anfang des 20. Jahrhunderts auf und ihre akustischen Eigensch
 
 In der ersten Hälfte des 20. Jahrhunderts führten Aufnahmetechnik und Rundfunkübertragung Calypso über seine Grenzen hinaus. Aufnahmen in den Vereinigten Staaten und in England führten zu gewissen Einschränkungen hinsichtlich der Aufführungszeit, der Klangqualität und des lyrischen Inhalts, gewannen aber im Gegenzug ein internationales Publikum. Infolgedessen werden obszöne Äußerungen und politische Kritik unterdrückt und allgemeinere Themen nehmen zu.
 
-Während dieses Prozesses wurde Calypso zunehmend als exotische, tropische Musik konsumiert. Gleichzeitig wird auf der Insel jedoch ein radikalerer und direkterer Ausdruck beibehalten, der eine duale Struktur bildet. Die Trennung zwischen ausländischer und inländischer Musik, Aufnahme- und Live-Auftritten sowie offizieller und inoffizieller Musik sollte später die Entstehung von Soca beeinflussen.
+Während dieses Prozesses wurde Calypso zunehmend als exotische, tropische Musik konsumiert. Gleichzeitig wird auf der Insel jedoch ein radikalerer und direkterer Ausdruck beibehalten, der eine duale Struktur bildet. Die Trennung zwischen ausländischen und inländischen, aufgezeichneten und Live- sowie offiziellen und inoffiziellen Formen von Soca beeinflusste später die Entstehung von Soca.
 
 >Während die Modernisierung Calypso erweiterte, diente sie auch als Test für seine Schärfe.
 
@@ -84,7 +84,7 @@ In den 1970er Jahren erlebte die trinidadische Gesellschaft große Veränderunge
 
 Soca entstand in diesem Zusammenhang. Der Name soll ein geprägtes Wort sein, das Soul und Calypso kombiniert, und die Musik behielt tatsächlich die Struktur von Calypso bei, brachte jedoch den Rhythmus in den Vordergrund und verstärkte den Bass und das Schlagzeug. Die Texte werden einfacher, Wiederholungen und Gesänge nehmen zu und der körperliche Aufschwung steht im Vordergrund.
 
-Soca ist kein Bruch, sondern eine Neuorganisation. Es handelte sich nicht um eine völlige Abkehr vom sozialen Charakter des Calypso, sondern vielmehr um eine Verlagerung hin zur Maximierung der bei feierlichen Anlässen geteilten Emotionen.
+Soca ist kein Bruch, sondern eine Neuorganisation. Es handelte sich dabei nicht um eine völlige Abkehr vom sozialen Charakter des Calypso, sondern vielmehr um eine Verlagerung hin zur Maximierung der bei feierlichen Anlässen geteilten Emotionen.
 
 > Soca ist eine weitere Form von Calypso, die auf die Anforderungen des Feierns reagiert.
 
@@ -121,7 +121,7 @@ Diese Veränderung ist nicht auf den Sündenfall zurückzuführen, sondern auf d
 
 Im späten 20. Jahrhundert verbreiteten sich Soca und Calypso aufgrund der Zunahme karibischer Einwanderer nach London, New York und Toronto. In diesen Städten wurde der Karneval neu erfunden und Musik fungiert als Identitätsstifter für Einwanderergemeinschaften.
 
-Gleichzeitig schritt die gegenseitige Befruchtung mit lokaler Musik voran und auch die Fusion mit Hip-Hop und House entstand. Der Kern des Festes und die sich wiederholende Struktur bleiben jedoch erhalten und wahren die Kontinuität mit seinen Ursprüngen.
+Gleichzeitig schritt die gegenseitige Befruchtung mit lokaler Musik voran und auch die Fusion mit Hip-Hop und House entstand. Aber die grundlegende feierliche und sich wiederholende Struktur bleibt erhalten und wahrt die Kontinuität mit ihren Ursprüngen.
 
 > Soca und Calypso sind Musik, die bewegt, aber nie ihren Kern verliert.
 
@@ -150,9 +150,9 @@ Während Trinidad das institutionelle und kommerzielle Zentrum war, entwickelte 
 
 Auf Barbados betonte Calypso eher seine feierlichen Aspekte als seine soziale Satire und wurde schon früh mit der Tourismusbranche in Verbindung gebracht. Die Musik wurde für ein Publikum außerhalb der Insel konzipiert, wobei der Schwerpunkt auf melodischer Klarheit und Vertrautheit lag. Andererseits bleiben auch lokale sprachliche Ausdrücke und Alltagsthemen erhalten und bilden eine zweischichtige Struktur.
 
-In St. Lucia blieb der Einfluss des französischen Kreolischen lange bestehen und die Beziehung zwischen lyrischem Ton und Rhythmus entwickelte sich unabhängig voneinander. Calypso fungiert hier eher als Erzählkultur denn als Wettbewerb und hat einen starken Charakter als Gerät zum Teilen von Erinnerungen innerhalb der Community.
+In St. Lucia blieb der Einfluss des französischen Kreolischen lange bestehen und die Beziehung zwischen lyrischem Ton und Rhythmus entwickelte sich unabhängig voneinander. Hier fungiert Calypso eher als Erzählkultur denn als Wettbewerb und hat einen starken Charakter als Gerät zum Teilen von Erinnerungen innerhalb der Community.
 
-> Als sich Calypso vom Zentrum zur Peripherie ausbreitete, erwarb es eine Vielzahl regionaler Sprachen.
+> Als sich Calypso vom Zentrum in die Peripherie ausbreitete, erwarb es eine Vielzahl regionaler Sprachen.
 
 ---
 

@@ -97,7 +97,7 @@ Grimes ist ein Vertreter des experimentellen Elektropops, ein Künstler, der den
 
 ### Musikalische Features
 
-* Klangdesign mit Schwerpunkt auf digitalen Synthesizern
+* Tondesign mit Schwerpunkt auf digitalen Synthesizern
 * Koexistenz von Popmelodie und instabiler Struktur
 * Vielschichtige Stimmverarbeitung und unrealistisches Klangbild
 

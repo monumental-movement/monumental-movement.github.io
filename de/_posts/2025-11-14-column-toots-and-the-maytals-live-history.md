@@ -46,9 +46,9 @@ color: #fff;
 
 ### 1.1 Entstehung und erste Stufe
 
-1962 gründete Toots Hibbert mit Freddie McGregor und Raleigh Gordon die Maytals. Ihre erste Bühne veranstalteten sie in einem kleinen Club in Kingston namens Chocomo Lounge. Trotz des einfachen Aufbaus mit nur einem Mikrofon, einer Gitarre, einem Bass und einem Schlagzeug dominierte Toots' Stimme den gesamten Saal.
+1962 gründete Toots Hibbert mit Freddie McGregor und Raleigh Gordon die Maytals. Ihre erste Bühne veranstalteten sie in einem kleinen Club in Kingston namens Chocomo Lounge. Trotz des einfachen Aufbaus mit nur einem Mikrofon, einer Gitarre, einem Bass und einem Schlagzeug dominierte Toots‘ Stimme den gesamten Saal.
 
-Das Publikum beteiligt sich durch Klatschen und Tanzen, und Gelächter hallt durch die spontanen Gespräche zwischen den Liedern. Während der Aufführung von „54-46 Was My Number“ hielten die Menschen auf dem Boden Händchen und tanzten im Kreis. Als Toots „Schritt nach rechts! Schritt nach links!“ ruft, reagiert das Publikum sofort und die Aufführung wird eins mit dem Publikum.
+Das Publikum beteiligt sich durch Klatschen und Tanzen, und Gelächter hallt durch die spontanen Gespräche zwischen den Liedern. Während der Aufführung von „54-46 Was My Number“ hielten die Leute auf dem Boden Händchen und tanzten im Kreis. Als Toots „Schritt nach rechts! Schritt nach links!“ ruft, reagiert das Publikum sofort und die Aufführung wird eins mit dem Publikum.
 
 **Setlist-Beispiel (erstes Live)**
 
@@ -112,14 +112,14 @@ Die Live-Auftritte in dieser Zeit zeigten nicht nur die Entwicklung von Sound un
 
 ### 3.1 Reggae Sunsplash und großes Festival
 
-In den 1980er Jahren waren Toots and the Maytals Headliner auf Jamaikas größtem Festival, dem Reggae Sunsplash. Sobald das Publikum auf der Bühne ist, beginnt es mitzusingen, zu klatschen und zu tanzen, sodass der gesamte Veranstaltungsort in einen einzigen Rhythmus eingehüllt ist.
+In den 1980er Jahren waren Toots and the Maytals Headliner auf Jamaikas größtem Festival, dem Reggae Sunsplash. Auf der Bühne beginnt das Publikum mitzusingen, zu klatschen und zu tanzen, bis der gesamte Veranstaltungsort in einem Rhythmus versunken ist.
 
 **Anwesenheit der Leistung**:
 
 * Die Basslinie von „54-46 Was My Number“ lässt das Publikum erzittern.
 * Toots schaut sich um, improvisiert Liedtexte und interagiert mit dem Publikum.
 
-* Tanzaufrufe und Witze, die das Publikum einbeziehen, sind zwischen den Liedern eingeklemmt, was das Zusammengehörigkeitsgefühl während der Live-Aufführung verstärkt.
+* Tanzaufrufe und Witze, die das Publikum einbeziehen, sind zwischen den Liedern eingeklemmt und verstärken so das Zusammengehörigkeitsgefühl während der Live-Aufführung.
 
 ---
 
@@ -140,7 +140,7 @@ Die Live-Aufnahme wurde als „Live at Madison Square Garden“ veröffentlicht 
 **Live-Darstellung**:
 
 * Das Publikum bildet einen Kreis und hält sich beim Intro von „Do the Reggay“ an den Händen.
-* Auch wenn Toots' Stimme schwächer geworden ist, bleibt seine Ausdruckskraft stark und das Publikum singt den Text mit.
+* Auch wenn Toots‘ Stimme schwächer geworden ist, bleibt seine Ausdruckskraft stark und das Publikum singt den Text mit.
 
 * Während der MC zwischen den Songs kann er improvisieren, indem er die Songreihenfolge anpasst und dabei die Reaktion des Publikums beobachtet.
 
@@ -213,6 +213,6 @@ D -->|象徴的・歴史的| E[文化継承・追悼ライブ]
 
 ## 8. Zusammenfassung
 
-Die Live-Shows von Toots and the Maytals verkörperten die Entwicklung musikalischer Genres, den Aufbau von Gemeinschaften und den internationalen Kulturaustausch. Interaktivität mit dem Publikum, Improvisation und historische Kontinuität durch Live-Auftritte sind die Gründe, warum ihre Musik über die Jahrhunderte hinweg weitergegeben wurde. Live-Auftritte sind nicht nur musikalische Darbietungen, sondern kulturelle Rituale, die Reggae selbst verkörpern.
+Die Live-Shows von Toots and the Maytals verkörperten die Entwicklung musikalischer Genres, den Aufbau von Gemeinschaften und den internationalen kulturellen Austausch. Interaktivität mit dem Publikum, Improvisation und historische Kontinuität durch Live-Auftritte sind die Gründe, warum ihre Musik über die Jahrhunderte hinweg weitergegeben wurde. Live-Auftritte sind nicht nur musikalische Darbietungen, sondern kulturelle Rituale, die Reggae selbst verkörpern.
 
 ---

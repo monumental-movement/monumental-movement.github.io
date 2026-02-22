@@ -204,7 +204,7 @@ flowchart TD
 
 ## 9. Fazit
 
-Obwohl japanischer und amerikanischer Melocore unterschiedliche kulturelle Hintergründe haben, haben sie aufgrund ihrer gemeinsamen „Leidenschaft“ und „Bedeutung der Melodie“ internationale Unterstützung gewonnen.
+Obwohl japanischer und amerikanischer Melocore unterschiedliche kulturelle Hintergründe haben, haben sie aufgrund ihrer gemeinsamen Leidenschaft und Bedeutung für Melodien internationale Unterstützung gewonnen.
 Die Szenen in beiden Ländern werden sich weiterhin gegenseitig beeinflussen und an jüngere Generationen weitergegeben werden.
 
 ---

@@ -28,7 +28,7 @@ Aufgrund seiner Vielfalt war es damals nicht einfach, einen Überblick über sei
 Doch mit dem Compilation-Album „Deconstruction“ der 80er änderte sich alles völlig. Dieses Album ist eine Zusammenstellung der genre- und projektübergreifenden Klangquellen, an denen Laswell in den 1980er Jahren beteiligt war, neu gemastert und rekonstruiert.
 Mit anderen Worten kann man sagen, dass diese Zusammenstellung selbst als „vollendete Form der Dekonstruktion und Rekonstruktion“ erschien.
 
-Dieser Artikel konzentriert sich auf die Aufnahmen dieses Albums und Projekte aus dieser Zeit und folgt den Fakten, wie Bill Laswell & Friends die Akustik der 1980er Jahre dekonstruierte und neu organisierte.
+Dieser Artikel konzentriert sich auf die Aufnahmen dieses Albums und Projekte aus dieser Zeit und verfolgt die Fakten, wie Bill Laswell & Friends die Akustik der 1980er Jahre dekonstruierte und neu organisierte.
 Wenn wir das Gesamtbild betrachten, können wir zum ersten Mal die Bedeutung des Ausdrucks „Dekonstruktion der 80er“ sowohl aus klanglicher als auch aus kultureller Sicht verstehen.
 
 
@@ -95,7 +95,7 @@ Dieses Werk sei „ein Symbol dafür, die Grenzen zwischen 80er-Jahre-Pop und Un
 
 ---
 
-# 3. Dub-Nachfolger: Stoff „One Down“ (1982)
+# 3. Dub-Nachfolger: Material „One Down“ (1982)
 Laswells Sound hat eine starke Affinität zum jamaikanischen Dub.
 
 **Tatsache:**
@@ -176,7 +176,7 @@ flowchart TD
 
 ## 8-2. **Interkulturelle Assimilation**
 - Behandeln Sie Jazz, afrikanische Musik, Elektro und Rock als „äquivalente Materialien“
-- Parallelisierung von Haupt-/Untergrundsignalen
+- Haupt-/Untergrund parallelisieren
 
 ## 8-3. **Basis = Strukturgerüst**
 - Drohnenartige Beharrlichkeit

@@ -17,7 +17,7 @@ Midnight Juggernauts war eine australische elektronische Musikband, die von 2004
 
 Der zweite Titel auf Seite A ist ein Remix von Chateau Marmont, dem Gründer von Chambre404, einem französischen Produzenten und Live-Performer-Team für elektronische Musik mit Sitz in Paris.
 
-Der erste Song auf Seite B ist ein Remix der britischen Elektronik-/Alternative-Band Metronomy. Der zweite Song auf Seite B ist ein Remix des französischen Elektronikmusikers/Produzenten Danger (Franck Rivoire).
+Der erste Song auf der B-Seite ist ein Remix der britischen Elektronik-/Alternative-Band Metronomy. Der zweite Song auf Seite B ist ein Remix des französischen Elektronikmusikers/Produzenten Danger (Franck Rivoire).
 
 #### Trackliste
 ```md

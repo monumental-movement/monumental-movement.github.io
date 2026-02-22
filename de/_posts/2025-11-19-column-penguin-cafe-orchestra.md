@@ -116,7 +116,7 @@ Es hat eine sich wiederholende Struktur ähnlich der Minimal Music, ist aber nic
 
 **Struktur**
 
-* Wiederholendes Tastatur-Arpeggio
+* Wiederholendes Arpeggio auf der Tastatur
 * Schaffen Sie Raum mit langen Noten von Saiteninstrumenten
 * Percussion wird von der Mitte aus hinzugefügt, um die treibende Kraft zu verstärken
 * „Reziproke Struktur“, die am Ende zur Ruhe zurückkehrt
@@ -133,7 +133,7 @@ Ein seltsames Musikstück, in dem plötzlich ein zweifarbiges Telefon über eine
 
 * Looping von Telefonaudio durch Bandmanipulation
 * Elektronischer Klang, der als „Fremdkörper“ über dem Ensemble existiert
-* Humorvoll und zugleich postmodern
+* Humorvoll und gleichzeitig postmodern
 
 In Bezug auf Minimal + Found Sound überschneidet sich dieses Werk mit der Abstammung von Brian Eno.
 
@@ -147,7 +147,7 @@ Die wichtigsten Alben werden im Folgenden erläutert.
 ### ● *Musik aus dem Pinguin-Café* (1976)
 
 Debütalbum, veröffentlicht auf dem Sublabel Obscure von Virgin Records.
-Unter den Obscure-Werken von Brian Eno ist dies das „andersartigste“ und „hellste“.
+Unter den Obscure-Werken von Brian Eno ist dies das „anders“ und „hellste“.
 Folklore und sich wiederholende Strukturen verschmelzen und der spätere Stil ist fast vollständig.
 
 ### ● *Penguin Cafe Orchestra* (1981)
@@ -165,7 +165,7 @@ Ein Album, das mit dem hellen Sound, der für PCO einzigartig ist, seinen Höhep
 Die Atmosphäre ist kammermusikalischer geworden und hat sich zu einer filmischeren Welt entwickelt.
 Enthält „Perpetuum Mobile“.
 
-### ● *Union Cafe* (1993)
+### ● *Union Café* (1993)
 
 Simon Jeffes' letzte Studioarbeit vor seinem Tod.
 Der Gesamtaufbau ist meditativer, die Akustik transparenter.
@@ -189,7 +189,7 @@ Die „Ambient-Musik mit Aussage“, die leicht und leicht zu hören war, aber d
 * Filme (insbesondere Werke europäischer Regisseure)
 * Tonquelle für Ballett/Tanzkompanie
 
-PCOs Musik ist emotional, aber nicht beschreibend, daher wird sie als „Sound, der Bilder atmen lässt“ geschätzt.
+Die Musik von PCO ist emotional, aber nicht beschreibend, daher wird sie als „Sound, der Bilder atmen lässt“ geschätzt.
 
 ### ● Auswirkungen auf nachfolgende Generationen
 

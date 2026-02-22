@@ -15,7 +15,7 @@ title: Junior Senior – Hey Hey My My Yo Yo
 
 Dieses Album ist ein Lied des dänischen Musikduos Junior Senior. Dieses Lied ist auf ihrem 2002 erschienenen Debütalbum „D-D-Don’t Stop the Beat“ enthalten.
 
-„Hey Hey My My Yo Yo“ ist ein schneller, eingängiger Popsong mit fröhlicher Melodie, tanzbarem Beat und verspielten Texten. Die Musik von Junior Senior ist bekannt für ihre Popkompositionen, die Elemente aus Dance-Pop und Disco enthalten.
+„Hey Hey My My Yo Yo“ ist ein flotter, eingängiger Popsong mit fröhlicher Melodie, tanzbarem Beat und verspielten Texten. Die Musik von Junior Senior ist bekannt für ihre Popkompositionen, die Elemente aus Dance-Pop und Disco enthalten.
 
 „Hey Hey My My Yo Yo“ ist einer der berühmtesten Songs von Junior Senior und wurde ein weltweiter Hit.
 

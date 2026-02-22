@@ -124,7 +124,7 @@ Insbesondere Ende der 2010er Jahre, als die Belastung durch die Betriebskosten z
 Infolgedessen entwickelte sich DMC eher zu einem von der Gemeinschaft geführten und geschützten Kulturgut als zu einer „kommerziellen Veranstaltung“.
 
 ## 5-2　Pandemiezeit: Umstellung auf Fernwettbewerb
-Im Zeitraum 2020–2021 erschwerte die neue Infektionskrankheit die Durchführung einer physischen Veranstaltung, sodass DMC das Weltturnier vollständig online abhielt.
+Im Zeitraum 2020–2021 erschwerte die neue Infektionskrankheit die Durchführung einer physischen Veranstaltung, weshalb DMC das Weltturnier vollständig online abhielt.
 Ausrüstungsunternehmen wie Rane und Technics unterstützten den Wettbewerb und leiteten eine Ära ein, in der Routinen als Videoarbeiten geschätzt wurden.
 
 ---
@@ -189,7 +189,7 @@ DMC etablierte den Ablauf der nationalen Vorrunden → nationale Meister → Wel
 Turntablism gibt es seit den 2000er Jahren.
 - DJ-Schule
 - Werkstatt
-- Abteilung für Musik und Medien der Universität
+- Universitätsfakultät für Musik- und Medienwissenschaften
 Es wurde auch in den Club integriert und als Musikgenre und nicht nur als Clubtechnik bewertet.
 
 ---

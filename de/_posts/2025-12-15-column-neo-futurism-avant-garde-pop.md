@@ -20,9 +20,9 @@ title: '[Kolumne] Neo-Futurismus / Avantgarde-Pop'
 
 Text: mmr｜Thema: Organisiert als Schnittstelle zwischen Musikgeschichte, Kunstgeschichte und Technologiegeschichte und über aktuelle Künstlerleistungen und Arbeitstrends
 
-Neofuturismus/Avantgarde-Pop ist ein Trend, der experimentelle Klangstrukturen, Körperlichkeit und zukunftsweisenden visuellen Ausdruck in der Vertriebsstruktur der Popmusik etabliert hat. Im 21. Jahrhundert wurde das Streben nach „Zukunft“, das seinen Ursprung in der futuristischen Kunst des frühen 20. Jahrhunderts hatte, mit digitalen Produktionsumgebungen, der visuellen Kultur nach dem Internet und der Neudefinition von Geschlecht und Körperdarstellung verknüpft, wodurch Musik und visueller Ausdruck als untrennbar miteinander verbunden wurden.
+Neofuturismus/Avantgarde-Pop ist ein Trend, der experimentelle Klangstrukturen, Körperlichkeit und zukunftsweisenden visuellen Ausdruck in der Vertriebsstruktur der Popmusik etabliert hat. Im 21. Jahrhundert wurde das Streben nach „Zukunft“, das seinen Ursprung in der futuristischen Kunst des frühen 20. Jahrhunderts hatte, mit digitalen Produktionsumgebungen, der visuellen Kultur nach dem Internet und der Neudefinition von Geschlecht und Körperdarstellung in Verbindung gebracht, wodurch Musik und visueller Ausdruck als untrennbar miteinander verbunden wurden.
 
-FKA-Zweige und Arca sind in diesem Zusammenhang ikonisch. Ihre/ihre Arbeit präsentiert nicht einfach nur innovative Klänge, sondern fungiert als umfassende Kunst, die Körper, Technologie, Emotion und Identität integriert.
+FKA-Zweige und Arca sind in diesem Zusammenhang ikonisch. Ihre/ihre Arbeit präsentiert nicht einfach nur innovative Klänge, sondern fungiert als umfassende Kunst, die Körper, Technologie, Emotionen und Identität integriert.
 
 ---
 
@@ -61,7 +61,7 @@ Seit den 2000er Jahren sind Produktionsumgebungen mit DAWs und Laptops alltägli
 * Futuristisches und nicht-organisches Klangdesign
 * Visuals, die die Körperdarstellung rekonstruieren
 * Koexistenz von Pop-Struktur (Hooks, Wiederholung) und Experimentieren
-* Eine Weltanschauung, die sich auf Technologie konzentriert
+* Eine Weltanschauung, die Technik zum Thema macht
 
 ---
 
@@ -73,7 +73,7 @@ Im neofuturistischen Pop stehen Synthesizer und digital verarbeitete Töne als �
 
 ### 3-2. Rhythmus und Struktur
 
-Die Rhythmen sind nicht unbedingt tanzflächenorientiert und oft fragmentiert und asymmetrisch. Andererseits sind die Refrains und Motive klar festgelegt und behalten ihre Einprägsamkeit als Popsongs.
+Die Rhythmen sind nicht unbedingt tanzflächenorientiert und oft fragmentiert und asymmetrisch. Andererseits sind die Refrains und Motive klar etabliert und behalten ihre Einprägsamkeit als Popmusik.
 
 ### 3-3. Stimmverarbeitung
 
@@ -137,7 +137,7 @@ Neofuturismus/Avantgarde-Pop ist nicht nur ein Stil, sondern eine kulturelle Pra
 
 ---
 
-## 9. Details der Produktionstechniken: Beziehung zwischen Studio und Körper
+## 9. Einzelheiten der Produktionstechniken: Beziehung zwischen Studio und Körper
 
 Hier werden wir organisieren, wie der neofuturistische Ausdruck durch tatsächliche Produktionsumgebungen und -techniken verwirklicht wird.
 
@@ -166,7 +166,7 @@ Die Stärke der visuellen Elemente erhöht die Sichtbarkeit des Werks mehr als d
 
 ## 11. Kritische Empfangs- und Bewertungsachse
 
-Die traditionelle Popkritik konzentrierte sich auf die Songstruktur und das Hit-Potenzial. Im Neo-Futurismus/Avantgarde-Pop ist jedoch die Gesamtheit von Ton, Bild und körperlichem Ausdruck Gegenstand der Bewertung.
+Die traditionelle Popkritik konzentrierte sich auf die Songstruktur und das Hit-Potenzial. Im Neo-Futurismus/Avantgarde-Pop ist jedoch die Gesamtheit von Klang, Bild und körperlichem Ausdruck Gegenstand der Bewertung.
 
 Es besteht eine zunehmende Tendenz, dass Kritik eher darauf basiert, „welche Art von Fragen gestellt werden“ als auf „leicht verständlich“. Dies bedeutet, sich der Achse der zeitgenössischen Kunstbewertung zu nähern.
 
@@ -195,7 +195,7 @@ Die Integration von Musik und Bildmaterial beschleunigt sich und der Schwerpunkt
 
 ### 13-3. 2020er Jahre
 
-Geschlechter-, körper- und technologieübergreifende Ausdrucksformen wurden alltäglich, und der Neofuturismus etablierte sich als Ästhetik.
+Ausdrucksformen, die sich über Geschlecht, Körper und Technologie erstreckten, wurden alltäglich, und der Neofuturismus etablierte sich als Ästhetik.
 
 ---
 

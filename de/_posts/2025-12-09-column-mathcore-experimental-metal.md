@@ -54,7 +54,7 @@ DEP entstand Ende der 1990er Jahre im Nordosten der USA, zu einer Zeit, als die 
 
 ---
 
-## Innovation des Dillinger Escape Plans
+## Die Innovation des Dillinger Escape Plan
 
 DEP wurde 1997 gegründet. Seine Debüt-EP „Under the Running Board“ (1998) und sein bahnbrechendes Debütalbum „Calculated Infinity“ (1999) brachten ihm sofort große Anerkennung ein.
 
@@ -63,7 +63,7 @@ Im Folgenden sind die Merkmale ihrer Liedstrukturen aufgeführt.
 ### 1. Ultraschnelle und fragmentierte Struktur
 
 Bemerkenswert ist die Technik, Phrasen von 1-2 Schlägen mit hoher Geschwindigkeit und nicht in Takteinheiten zu ändern.
-Der akustische Orientierungssinn wird durch die eingefügten Pausen, Polyrhythmen und verschobenen Akzente ständig erschüttert.
+Der akustische Orientierungssinn wird durch die eingefügten Pausen, Polyrhythmen und verschobenen Akzente immer wieder ins Wanken gebracht.
 
 ### 2. Einfluss vom Jazz
 

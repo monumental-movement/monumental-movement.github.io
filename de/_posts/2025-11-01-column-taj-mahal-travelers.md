@@ -82,7 +82,7 @@ Er verwirklichte die Philosophie, dass „der Ort selbst zum Instrument wird“.
 
 ---
 
-## V. Reisen durch Klang: Von Indien nach Europa (1971–1972)
+## V. Reisen durch Klang: von Indien nach Europa (1971–1972)
 
 1971 bricht die Taj Mahal Tour Group zu einer Europareise auf.
 Ihre Reise war nicht nur eine Tour, sondern eine „Klangpilgerreise“.
@@ -114,7 +114,7 @@ Die Improvisationsaufführungen an verschiedenen Orten reichten von lokalen Kult
 
 ## VI. Dekonstruktion und Erweiterung von Klang: das Ritual der Improvisation
 
-Die Aufführungen der Taj Mahal Tourists haben nicht die üblichen „Lieder“ oder „Strukturen“.
+Die Aufführungen der Taj Mahal Tourists haben nicht die übliche „Lieder“ oder „Struktur“.
 Vielmehr ähnelt es eher dem Vorgang, Schall in die Umgebung auszusenden und auf eine zufällige Resonanz zu warten.
 
 Sie nutzen Beschallungsanlagen und Mikrofone kreativ,
@@ -132,8 +132,8 @@ Dies ist eine Live-Aufnahme einer Improvisationsaufführung rund um das Taj Maha
 Es wird hoch gelobt als „Klanglandschaft“, die Zeit, Raum und Klang perfekt vereint.
 
 Auf dem Album gibt es weder Rhythmus noch Melodie.
-Stattdessen kreuzen sich sanft Windgeräusche, elektronische Klänge, Stimmen und die Resonanz der Saiten,
-Es stellt ein Erlebnis dar, das den Zuhörer einlädt, „in den Klang hinein“ zu gehen.
+Stattdessen kreuzen sich der Klang von Bläsern, elektronischen Klängen, Stimmen und der Resonanz von Saiten sanft,
+Es stellt ein Erlebnis dar, das den Zuhörer einlädt, „in den Klang einzutauchen“.
 
 ---
 
@@ -147,7 +147,7 @@ Er beeinflusste auch Brian Eno und Robert Ashley.
 
 ---
 
-## IX. Aktivitäten und Auswertung in späteren Jahren
+## IX. Spätere Aktivitäten und Auswertung
 
 Seit den 1980er Jahren ist Kosugi Musikdirektor der Merce Cunningham Dance Company.
 Während er die Philosophie von John Cage übernahm, vertiefte er die Integration von Tanz und Klang.

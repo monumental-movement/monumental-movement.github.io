@@ -75,7 +75,7 @@ In dieser Zeit nutzte Tatsuro die analoge 24-Spur-Aufnahme voll aus.
 Merkmale:
 - **Kompression mit Temperaturgefühl** mit Klebeband
 - Overdubbing des Handspiels (Gitarre, Keyboard, Percussion)
-- **Dutzende Overdubbing-Vocals**
+- **Dutzende Overdubbing-Gesang**
 
 In späteren Jahren sagte Tatsuro: „Je mehr man analog schichtet, desto mehr Nuancen werden zusammenkommen“, und die Werke aus dieser Zeit sind die ideale Form davon.
 
@@ -124,7 +124,7 @@ Tatsuro begann ernsthaft mit der Nutzung digitaler Geräte.
 
 Insbesondere habe ich aus folgenden Gründen auf die digitale Aufnahme selbst verzichtet:
 
-- In den frühen Phasen der digitalen Aufnahme ist der hohe Bereich hart und die Tiefe geht leicht verloren.
+- In den frühen Phasen der digitalen Aufnahme sind hohe Frequenzen hart und die Tiefe geht leicht verloren.
 - Ich hasste es, die „Rundheit“ der analogen Überaufzeichnung zu verlieren.
 - Analog war besser für den Aufbau meines eigenen Refrains.
 
@@ -170,7 +170,7 @@ In den 2020er Jahren wurden viele Werke aus der analogen Ära neu gemastert.
 
 Schon beim Remastering hat Tatsuro deutlich gemacht, dass er es überhaupt nicht mag, den Sound zu verändern.
 
-### ▼ Features des Remasters
+### ▼ Überarbeitete Funktionen
 - Reproduziert originalgetreu das Originalband
 - Kein extremer EQ
 - Schalldruck nicht unnatürlich erhöhen (Lautheitskrieg ablehnen)
@@ -191,7 +191,7 @@ Tatsuro behält im digitalen Zeitalter die folgende Haltung bei:
 - Vermeiden Sie übermäßigen Schalldruck
 - Behält die Rundheit des Hochtonbereichs und die Dicke des Mitteltonbereichs bei
 
-Insbesondere sein neuestes Werk hat einen Klang, der eine Verschmelzung von „analoger Rundheit“ und „digitalem Informationsgehalt“ auf hohem Niveau darstellt.
+Insbesondere sein neuestes Werk hat einen Sound, der eine Verschmelzung von „analoger Rundheit“ und „digitalem Informationsgehalt“ auf hohem Niveau darstellt.
 
 ---
 
@@ -240,7 +240,7 @@ Punkt:
 - Reichhaltiger Mittel-Tief-Bereich mit NEVE-Konsole
 - EMT-Platten-Nachhallkultur
 
-Diese „zeitspezifischen Bedingungen“ machen den analogen City-Pop-Sound einzigartig.
+Diese „altersspezifischen Bedingungen“ machen den analogen City-Pop-Sound einzigartig.
 
 ---
 

@@ -241,7 +241,7 @@ Kombiniert mit hochauflösenden Klangquellen für ein noch intensiveres Hörerle
 
 Der Übergang von physischen Medien zu Streaming ist fast abgeschlossen
 
-Der Schwerpunkt der nächsten Generation liegt auf der Unterstützung hochwertiger Klangverteilung (hohe Auflösung, MQA) und räumlichen Audios (Dolby Atmos, Sony 360 Reality Audio).
+Der Schwerpunkt der nächsten Generation liegt auf der Unterstützung hochwertiger Klangverteilung (High Resolution, MQA) und räumlichen Audios (Dolby Atmos, Sony 360 Reality Audio).
 
 
 <hr>

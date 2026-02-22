@@ -109,7 +109,7 @@ Obwohl Koike von diesen Einflüssen beeinflusst ist, ist er insofern einzigartig
 
 ---
 
-## Kapitel 6: Vergleich von Arbeitsmotiven und -techniken
+## Kapitel 6: Vergleich von Arbeitsmotiven und Techniken
 
 <div class="mermaid">
 

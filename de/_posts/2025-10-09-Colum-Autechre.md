@@ -21,7 +21,7 @@ Text: mmr | Thema: Autechre von Sean Booth und Rob Brown. Verfolgen Sie die Entw
 Autechre ist mehr als nur ein Duo für elektronische Musik.
 Ihr Klang ist sowohl mathematisch als auch roh. Es sieht kalt aus und hinterlässt eine etwas menschliche Rauheit. Sean Booth und Rob Brown, zwei junge Männer, die sich im Norden von Manchester trafen, machten sich auf den Weg, die Struktur des Klangs neu zu definieren, wobei sie Hip-Hop und technische Neugier als Ausgangspunkt nutzten.
 
-In den frühen 1990er Jahren stach Autechre in der Künstliche-Intelligenz-Reihe von Warp Records hervor. Sie suchten nach einer Möglichkeit, „mechanische Geräusche in Emotionen umzuwandeln“. Sean Booth sagte später in einem Interview:
+In den frühen 1990er Jahren war Autechre ein herausragender Titel unter den Künstliche-Intelligenz-Reihen von Warp Records. Sie suchten nach einer Möglichkeit, „mechanische Geräusche in Emotionen umzuwandeln“. Sean Booth sagte später in einem Interview:
 
 > „Bei Techno geht es uns nicht darum, Emotionen zu eliminieren, sondern sie durch Struktur auszudrücken.“
 
@@ -207,6 +207,16 @@ Die Reise, die Antwort zu finden, ist noch lange nicht zu Ende.
 
 
 ---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bRHVGBmNKlk?si=NnSAEVjyGe-caGaD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 ### Verwandte Spalten
 

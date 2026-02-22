@@ -84,7 +84,7 @@ Er erlangte auch internationale Aufmerksamkeit, als er im Essential Mix (2018) v
 ## KNTXT: Erstellung von Label und Marke (ab 2019)
 
 **2019** Charlotte de Witte gründete ihr eigenes Label **KNTXT**.
-KNTXT ist eine Marke, die ihre minimalistische und kraftvolle Techno-Philosophie mit einer Philosophie der Reinheit, Stärke und Evolution widerspiegelt.
+KNTXT ist eine Marke, die ihre minimalistische und kraftvolle Techno-Philosophie widerspiegelt, mit einer Philosophie der Reinheit, Stärke und Evolution.
 
 Über das Label entdecken und fördern wir aufstrebende Künstler und entwickeln außerdem Veranstaltungsreihen und Radiosendungen. Dadurch ist KNTXT mehr als nur ein Label, es ist zu einer Community geworden, die Charlottes Techno-Welt repräsentiert.
 

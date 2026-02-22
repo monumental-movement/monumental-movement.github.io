@@ -23,7 +23,7 @@ Text: mmr｜Thema: Der „Abgrund des Klangs“, geboren aus dem Berliner Unterg
 
 1993, nur wenige Jahre nach dem Fall der Berliner Mauer.
 Die Stadt wird immer noch wieder aufgebaut, verlassene Fabriken und Lagerhäuser werden in Clubs umgewandelt. Tresor, E-Werk, Planet und schließlich Berghain.
-Inmitten dieses Chaos verursachte **Basic Channel** still und leise eine seismische Verschiebung in der Akustik.
+Inmitten dieses Chaos sorgte **Basic Channel** still und leise für eine seismische Verschiebung der Akustik.
 
 Ihre Musik war weder Minimal noch Techno oder House.
 **Der Raum schwingt in den Tiefen des Rhythmus mit**.
@@ -78,7 +78,7 @@ Der Sound, der die harten Rhythmen des Detroit Techno mit der räumlichen Verarb
 - „Verfall“, nicht Melodie, baut Musik auf.
 
 Der Musikkritiker Simon Reynolds sagte später:
-> „Ihre Musik verwandelte Techno von „Architektur“ in „Wetterphänomen“.
+> „Ihre Musik verwandelte Techno von „Architektur“ in ein „Wetterphänomen“.
 
 Es war nur **Schallklimawandel**.
 
@@ -97,7 +97,7 @@ Mit anderen Worten: Musik ist kein Material, sondern ein „Ort“ – diese Phi
 
 ## Kapitel 4: Kettenreaktion──Abstraktionskette
 
-1995 gründete Basic Channel ein Unterlabel, **Chain Reaction**.
+Im Jahr 1995 gründete Basic Channel ein Unterlabel, **Chain Reaction**.
 Hier entwickelte sich ein eher anonymes und experimentelles Projekt.
 Hier kreuzt sich die Genealogie der späteren Berliner elektronischen Musik, darunter Monolake, Porter Ricks, Vladislav Delay und Substance.
 
@@ -222,13 +222,9 @@ Und die Wellen, die am Ende des 20. Jahrhunderts von Berlin ausgingen, hallen we
 
 ---
 
-#### Podcast
+#### YouTube-Podcast
 
-<iframe title="Basic Channel: The Origins of Berlin Dub Techno" allowtransparency="true" height="300" width="100%" style="border: none; min-width: min(100%, 430px);height:300px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=i9ehm-19f955e-pb&from=pb6admin&square=1&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&logo_link=episode_page&btn-skin=ff6d00&size=300" loading="lazy" allowfullscreen=""></iframe>
-
----
-
-#### YouTube
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vWQDlU4uskw?si=oyKWaD4B9WwRvvGb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

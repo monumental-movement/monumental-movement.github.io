@@ -62,7 +62,7 @@ graph TD
 
 ## Entwicklung modularer Synthesizer
 
-In den 1990er Jahren erschienen analog/digitale Hybridmodule von Roland, Korg, Doepfer und anderen, die die Hürde für den Einsatz modularer Synthesizer senkten und es vielen Künstlern ermöglichten, in ihren Heimstudios oder kleinen Clubs experimentelle Sounds zu erzeugen.
+In den 1990er Jahren erschienen hybride Analog-/Digitalmodule von Roland, Korg, Doepfer und anderen, die die Hürde für den Einsatz modularer Synthesizer senkten und es vielen Künstlern ermöglichten, in ihren Heimstudios oder kleinen Clubs experimentelle Sounds zu erzeugen.
 
 Insbesondere seit 1995 sorgt der von Doepfer vorgeschlagene Eurorack-Standard dafür, dass Module kompatibel und kompakt sind und es für Einzelpersonen einfacher ist, modulare Sets zusammenzustellen. Dies führt direkt zur Erweiterung der Modular Techno-Szene ab den 2000er Jahren.
 
@@ -201,7 +201,7 @@ Diese „Build-your-own-Kultur“ entspricht dem DIY-Geist des Techno und ist ei
 
 ---
 
-# Musikalische Eigenschaften und Analyse
+# Musikalische Charakteristika und Analyse
 
 Modular Techno weist mehrere gemeinsame akustische und strukturelle Eigenschaften auf. Im Folgenden werden wir die typischen Elemente klassifizieren und erklären, welche Funktionen sie innerhalb des Techno-Frameworks spielen.
 
@@ -276,7 +276,7 @@ Der Wandel von der „Spurwiedergabe“ zur „Klangerzeugung“ hat auch die Au
 Es wird erwartet, dass sich Modular Techno weiterentwickeln wird, und zwar in mehrere Richtungen.
 
 ## 1. Ausgereiftheit des digitalen Moduls
-Fortschritte in der DSP-Technologie haben zu einer Zunahme digitaler Module geführt, die mit physikalischer Modellierung, Partikelsynthese und komplexen FM-Algorithmen ausgestattet sind. Dadurch ist es möglich, akustische Ausdrucksformen in Echtzeit zu verarbeiten, die bisher nicht möglich waren.
+Fortschritte in der DSP-Technologie haben zu einer Zunahme digitaler Module geführt, die mit physikalischer Modellierung, Partikelsynthese und komplexen FM-Algorithmen ausgestattet sind. Dadurch ist es möglich, akustische Ausdrücke zu verarbeiten, die bisher in Echtzeit nicht möglich waren.
 
 ## 2. Verallgemeinerung von Hybrid-Live
 Die Konfiguration modular + PC (Ableton, Bitwig) + Drumcomputer wird noch häufiger vorkommen und die Grenzen zwischen traditionellen Club-Sets und Live-Auftritten werden verschwimmen.
@@ -295,7 +295,7 @@ graph LR
 
 # Zusammenfassung
 
-Modular Techno ist ein äußerst einzigartiges und innovatives Genre, das aus der Schnittstelle der Freiheit modularer Synthesizer und der rhythmischen Struktur von Techno besteht. Technologie, Kultur, Klang und Leistung sind auf komplexe Weise miteinander verknüpft und entwickeln sich weltweit weiter.
+Modular Techno ist ein äußerst einzigartiges und innovatives Genre, das aus der Schnittstelle der Freiheit modularer Synthesizer und der rhythmischen Struktur von Techno besteht. Technologie, Kultur, Klang und Leistung sind auf komplexe Weise miteinander verbunden und entwickeln sich weltweit weiter.
 Der Grund dafür ist die grundlegendste Freude an der elektronischen Musik: „den Moment zu manipulieren, in dem ein Klang live entsteht.“
 
 
@@ -303,7 +303,7 @@ Der Grund dafür ist die grundlegendste Freude an der elektronischen Musik: „d
 
 # Detaillierte Ausstattungsliste (Modular Techno häufig verwendete Module)
 
-Im Folgenden finden Sie eine Zusammenstellung von Gerätekategorien, die häufig von echten Modular-Techno-Künstlern verwendet werden, mit Schwerpunkt auf Eurorack.
+Nachfolgend finden Sie eine Liste der Gerätekategorien, die häufig von echten Modular-Techno-Künstlern verwendet werden, mit Schwerpunkt auf Eurorack.
 
 ## VCO (Oszillator)
 - Lärm machen – DPO
@@ -367,11 +367,11 @@ Eine hardwarebasierte Live-Einheit, die durch die Kombination von Drumcomputern 
 
 ## Surgeon & Daniel Bean (Live)
 
-Der Live-Auftritt des Surgeon-Duos mit Daniel Bean zeichnet sich durch einen Ansatz aus, bei dem die beiden ein groß angelegtes modulares System konstruieren, das weiterhin Klang in Echtzeit erzeugt. Ihr Live-Set, das Techno-Rhythmus mit Improvisation verbindet, gilt als typisches Beispiel für modulare Live-Performance.
+Der Live-Auftritt des Duos Surgeon mit Daniel Bean zeichnet sich durch einen Ansatz aus, bei dem die beiden ein groß angelegtes modulares System konstruieren, das weiterhin Klang in Echtzeit erzeugt. Ihr Live-Set, das Techno-Rhythmus mit Improvisation verbindet, gilt als typisches Beispiel für modulare Live-Performance.
 
 ## Alte Methoden
 
-Während er Techno mit einem starken Industrial-/EBM-Ton entwickelt, führt er bei Live-Auftritten auch Verzerrung und Rauschverarbeitung mithilfe analoger Module ein. Modularität wird häufig als Quelle für harte Texturen verwendet.
+Während er Techno mit einem starken Industrial-/EBM-Ton entwickelt, führt er bei Live-Auftritten auch Verzerrung und Geräuschverarbeitung mithilfe analoger Module ein. Modularität wird häufig als Quelle für harte Texturen verwendet.
 
 ## Rødhåd
 

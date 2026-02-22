@@ -47,7 +47,7 @@ color: #fff;
 
 Die 1980er Jahre waren eine Zeit des Übergangs von analog zu digital, und das Vokabular der elektronischen Musik erweiterte sich explosionsartig mit der Verbreitung polyphoner Synthesizer, FM-Klangquellen und des MIDI-Standards. Gleichzeitig schuf die wachsende Bedeutung von Heimvideos, Kabelfernsehen und Filmmusik eine starke Verbindung zwischen Musik und Bildern.
 
-Etwa im Jahr 2010, als die Internet-Sharing-Kultur ausgereifter wurde, begannen frühere Video-, Tonquellen und Designressourcen wieder in Umlauf zu kommen. In diesem Trend war das Klangbild der 1980er Jahre nicht nur nostalgisch, sondern wurde zu einem Objekt, das mit modernem Feingefühl rekonstruiert werden musste. Dreamwave / Chill Synthwave ist als Neuinterpretation entstanden, die sich insbesondere auf das „Szenengedächtnis“ konzentriert.
+Etwa im Jahr 2010, als die Internet-Sharing-Kultur ausgereifter wurde, begannen frühere Video-, Tonquellen und Designressourcen wieder in Umlauf zu kommen. In diesem Trend war das Klangbild der 1980er Jahre nicht nur nostalgisch, sondern wurde zu einem Objekt, das mit modernem Feingefühl rekonstruiert werden musste. Dreamwave / Chill Synthwave ist als Neuinterpretation entstanden, die insbesondere das „szenische Gedächtnis“ in den Mittelpunkt stellt.
 
 > Die hier genannten 1980er Jahre sind eher eine kollektive Erinnerung als eine tatsächliche Ära.
 
@@ -67,7 +67,7 @@ Klanglich spielen Juno-Pads, DX-E-Piano, chorusbearbeitete Bässe und räumliche
 
 ## Zusammenhang mit visueller Ästhetik
 
-Dreamwave / Chill Synthwave lässt sich in der Kombination mit Bildern tiefer verstehen als die Musik selbst. Städte in der Abenddämmerung, Neonlichter, Küstenlinien, Nachtfahrten und VHS-ähnliche Texturen werden häufig erwähnt.
+Dreamwave / Chill Synthwave lässt sich in Kombination mit Bildern tiefer verstehen als durch die Musik allein. Städte in der Abenddämmerung, Neonlichter, Küstenlinien, Nachtfahrten und VHS-ähnliche Texturen werden häufig erwähnt.
 
 Diese visuellen Elemente sind mit dem Tempo und der Klanggestaltung des Songs synchronisiert und erinnern den Hörer an eine Szene, die er schon einmal irgendwo gesehen hat. Bilder spielen eher die Rolle, die Situation darzustellen, als eine Geschichte zu erzählen.
 
@@ -104,9 +104,9 @@ Die Arbeit von FM-84 bezieht sich auf die AOR- und Filmmusik-Sensibilität der 8
 
 Timecop1983 ist ein Künstler mit starken Chill-Synthwave-Aspekten und zeichnet sich durch eine einfache Struktur und ein weiches Klangbild aus. Der Rhythmus wird auf ein Minimum reduziert, wobei die Melodie und die Akkordfolge im Mittelpunkt stehen.
 
-Obwohl die Musik von Timecop1983 BGM-artig ist, ist sie so konzipiert, dass Sie bei genauem Zuhören winzige Veränderungen im Ton und in der harmonischen Auswahl erkennen können.
+Obwohl die Musik von Timecop1983 an Hintergrundmusik erinnert, ist sie so konzipiert, dass Sie bei genauem Zuhören winzige Veränderungen im Ton und in der harmonischen Auswahl erkennen können.
 
-> Das Wesentliche an Chill Synthwave ist, dass es sich in den Alltag der Zuhörer einfügt.
+> Das Wesentliche an Chill Synthwave ist, dass es sich in das tägliche Leben des Hörers einfügt.
 
 ---
 

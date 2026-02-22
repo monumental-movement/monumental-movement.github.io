@@ -51,7 +51,7 @@ Im Amerika der Nachkriegszeit war Bing Crosbys „White Christmas“ (veröffent
 - Universelle Themen, die Sie an Familie und Heimatstadt erinnern
 - Wärme und Glamour mit Arrangement im Big-Band-Stil
 
-Nat King Coles „The Christmas Song“ (1950) enthält Jazzelemente und zeigt eine Versammlung am Kamin und eine Winterszene. „Little Drummer Boy“ (1963) des Harry Simone Chors verwandelte Elemente der Kirchenmusik in Popmusik.
+Nat King Coles „The Christmas Song“ (1950) enthält Jazzelemente und zeigt eine Versammlung am Kamin und eine Winterszene. „Little Drummer Boy“ (1963) des Harry Simone Choir verwandelte Elemente der Kirchenmusik in Popmusik.
 
 #### Repräsentative Songs/Alben
 
@@ -188,7 +188,7 @@ flowchart TD
 * Zunahme von Online-Live- und virtuellen Veranstaltungen aufgrund der Coronavirus-Pandemie
 * Die kommerzielle Strategie konzentriert sich auf Vertrieb und SNS und beschleunigt die Neubewertung alter Songs
 
-### Chronologie/Illustrationen (1990er-2020er)
+### Chronologie/Illustration (1990er-2020er)
 
 
 <div class="mermaid">
@@ -221,7 +221,7 @@ D --> E[2020s オンライン・ストリーミング定番化]
 
 | Ära | Eigenschaften |
 | ----------- | -------------------------------- |
-| 1950er-70er | Jazz, Pop, Soul/Familie, Religion, Winterlandschaft |
+| 1950er-70er Jahre | Jazz, Pop, Soul/Familie, Religion, Winterlandschaft |
 | Mitte der 1970er Jahre | Disco-Soul-Fusion in „Christmas Jollies“ |
 | 1980er Jahre | Synth Pop/Urban Romance/Etablierung von Standard-Songs |
 | 1990er Jahre | Mariah Carey etabliert liebezentrierte moderne Popmusik |
@@ -229,5 +229,13 @@ D --> E[2020s オンライン・ストリーミング定番化]
 | 2010er bis 2020er Jahre | Neubewertung alter Songs und Verbreitung neuer Songs in der SNS-/Streaming-Ära |
 
 Weihnachtslieder sind nicht nur saisonale Musik; Sie sind ein kulturelles Phänomen, das die Veränderungen in der Technologie, dem sozialen Hintergrund und der Musikindustrie der Zeit widerspiegelt. Das Nebeneinander alter und neuer Lieder, die unterschiedlichen Ausdrucksformen jedes Landes und die Entwicklung kommerzieller Strategien werden die Musikkultur weiterhin vorantreiben.
+
+---
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h7j6dI_pKA8?si=9PsTzYoSoUfSyJu5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

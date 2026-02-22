@@ -83,7 +83,7 @@ Es wurde als eine Idee hoch gelobt, die die Grenzen zwischen Kunst und Wissensch
 
 ### 2.2 2017: Forschung zum „Vaginal Music Player“.
 
-Im Jahr 2017 wurde eine Studie des **Institut Marquès** in Barcelona, ​​Spanien, durchgeführt
+Im Jahr 2017 wurde eine Studie des **Institut Marquès** in Barcelona, ​​​​Spanien, durchgeführt
 Gewinner des Ig-Nobelpreises für Medizin.
 Dieses Team entwickelte einen **intravaginalen Lautsprecher** namens „Babypod“,
 Wir haben untersucht, wie Föten im Mutterleib auf musikalische Reize reagieren.

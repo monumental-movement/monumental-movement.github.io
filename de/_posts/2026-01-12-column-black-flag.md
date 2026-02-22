@@ -52,7 +52,7 @@ Panic änderte kurzzeitig seinen Namen in Black Flag. Der Name bezieht sich auf 
 
 Die anfänglichen Mitglieder wechselten drastisch, wobei Gesang, Bass und Schlagzeug häufig ersetzt wurden. Diese Instabilität war eine Schwäche, aber auch ein Faktor, der die Festlegung der musikalischen Ausrichtung der Band verhinderte. Greg Ginns Gitarrenspiel war von Anfang an von übermäßiger Verzerrung und sich wiederholenden Riffs geprägt, und wir können bereits die Anfänge seiner späteren Entwicklung erkennen.
 
-> Das frühe Black Flag war ein Impuls, bevor es Gestalt annahm.
+> Die frühen Black Flags waren ein Impuls, bevor sie Gestalt annahmen.
 
 ---
 
@@ -62,7 +62,7 @@ Die anfänglichen Mitglieder wechselten drastisch, wobei Gesang, Bass und Schlag
 
 ---
 
-Die 1979 veröffentlichte 7-Zoll-EP Nervous Breakdown war die erste Platte, die Black Flag definierte. Dieses Werk erschien bei der später gegründeten SST Records und wurde als völlig eigenständige Produktion vertrieben. Die Songs waren kurz, schnell und direkt, mit einer Aggressivität, die zu dieser Zeit an der Westküste herausragend war.
+Die 1979 veröffentlichte 7-Zoll-EP Nervous Breakdown war die erste Platte, die Black Flag definierte. Dieses Werk erschien bei der später gegründeten SST Records und wurde als völlig eigenständige Produktion vertrieben. Die Songs waren kurz, schnell und direkt und hatten eine Aggressivität, die zu dieser Zeit an der Westküste herausragend war.
 
 Der Titelsong „Nervous Breakdown“ handelt von einem Nervenzusammenbruch, ist aber eher voller dringender Energie als von Selbstbeobachtung. Die Texte sind prägnant und präsentieren Emotionen eher roh als beschreibend. Dieser Ansatz wurde zur Grundlage für den späteren Hardcore-Punk.
 
@@ -76,7 +76,7 @@ Der Gesang auf dieser EP stammt von Keith Morris. Sein Gesang ähnelte einem Sch
 
 Nach der Veröffentlichung von „Nervous Breakdown“ verließ Keith Morris die Band. Der Grund soll in der musikalischen Ausrichtung und inneren Spannungen gelegen haben. Morris gründete später Circle Jerks und entwickelte einen unmittelbareren und schnelleren Hardcore-Stil.
 
-Black Flag setzte ihre Aktivitäten fort und suchte nach einem neuen Sänger. In dieser Zeit wirkten für kurze Zeit mehrere Sänger mit, und Fragmente ihrer Klangquellen sind erhalten geblieben. Der Band mangelte es an Stabilität, aber das bedeutete fortgesetztes musikalisches Ausprobieren.
+Black Flag setzte ihre Aktivitäten fort und suchte nach einem neuen Sänger. In dieser Zeit wirkten für kurze Zeit mehrere Sänger mit, von denen Fragmente ihrer Klangquellen erhalten geblieben sind. Der Band mangelte es an Stabilität, aber das bedeutete fortgesetztes musikalisches Ausprobieren.
 
 Wichtig war, dass Greg Ginn in dieser Übergangsphase die volle Kontrolle übernahm und versuchte, die Band als langfristiges Projekt aufrechtzuerhalten. Trotz häufiger Personalwechsel blieben der Name und die Philosophie von Black Flag bestehen.
 

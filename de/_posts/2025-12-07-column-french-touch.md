@@ -86,7 +86,7 @@ Insbesondere während der „Discovery“-Phase gilt es nicht, die Probe auf Hoc
 ### ● ③ Band-/Kompressionstextur
 Außenbordkompressoren (insbesondere der Alesis 3630) wurden damals häufig in Studioumgebungen eingesetzt.
 Dieser Kompressor hat eine „grobe“ Klangqualität, aber
-Im Gegenteil, es wurde zu einem entscheidenden Element bei der Schaffung von **dem druckvollen Kick + Crushed Loop von French Touch**.
+Im Gegenteil, es wurde zu einem entscheidenden Element bei der Schaffung von **dem druckvollen Kick + Crushed-Loop von French Touch**.
 
 ---
 
@@ -179,7 +179,7 @@ Diese Künstler haben das French-Touch-Gen im Nu-Disco-Kontext aktualisiert.
 
 ---
 
-## 8. Ausführliche Erklärung zu analogen Synthesizern und „Plattenkultur“
+## 8. Detaillierte Erklärung analoger Synthesizer und „Plattenkultur“
 
 ### ◆ ① Gründe, warum analoge Synthesizer bevorzugt wurden
 - Filtermodul ist ein physikalischer Schaltkreis → Schallschwankungen sind natürlich
@@ -254,7 +254,7 @@ Mit dem Wiederaufleben der Schallplatten gewann der „Touch“ von French Touch
 
 ### ● 2) Einfluss auf zeitgenössischen Pop
 Große Künstler wie The Weeknd und Dua Lipa
-Durch die Einbindung von **Disco~80s-Revival**,
+Durch die Einbindung von **Disco~80er-Revival**,
 Französische House-Sounds gewinnen erneut an Aufmerksamkeit.
 
 ### ● 3) „Umgraben“ bei jungen Menschen
@@ -271,7 +271,7 @@ Die Aufbaumethode ist dieselbe.
 
 - Mit Tiefpassfilter abschließen
 - nach und nach öffnen
-- Kontrollieren Sie den Groove durch Einsetzen und Entfernen von Kicks
+- Kontrollieren Sie den Groove, indem Sie Tritte einfügen und entfernen
 
 Dies ist seit Daft Punks „Da Funk“ ein beständiges Erbe.
 

@@ -168,3 +168,14 @@ Brooklyner Club der neuen Generation. Ein Ort mit tiefem und gefühlvollem Erbe.
 
 ### Immer noch auf Tanzflächen auf der ganzen Welt
 Während NY House vom Chicago House beeinflusst wurde, erbte es die Gene der Disco-Kultur und etablierte seinen eigenen Musikstil mit „gefühlvollen und menschlichen Grooves“. Die Kultur der Stadt, vielfältige Communities und Innovationen im DJing und Club-Soundsystemen haben ein sich ständig weiterentwickelndes musikalisches Erbe geschaffen.
+
+---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GqU193jA5kg?si=z_X40NiLoIX6iX2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

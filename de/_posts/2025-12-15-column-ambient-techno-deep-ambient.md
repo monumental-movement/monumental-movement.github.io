@@ -45,7 +45,7 @@ Die in den 1970er Jahren entstandene Ambient-Musik vertrat die Idee, dass Musik 
 
 Andererseits hat sich Techno, der Ende der 1980er Jahre etabliert wurde, zu einer Musik entwickelt, die körperliche Bewegung hervorruft und deren Kern repetitive Beats und mechanische Präzision sind. Obwohl diese beiden Trends auf den ersten Blick polare Gegensätze zu sein scheinen, haben sie gemeinsame Elemente wie „Beharrlichkeit“, „Wiederholung“ und „Nicht-Erzählung“.
 
-Von Ende der 1980er bis Anfang der 1990er Jahre, als die Clubkultur reifte, bestand ein Bedarf an Musik, die außerhalb der Tanzfläche funktionieren konnte, oder an Musik, die außerhalb der Hauptverkehrszeiten unterstützen konnte, und beide kamen sich in praktischer Hinsicht näher.
+Von Ende der 1980er bis Anfang der 1990er Jahre, als die Clubkultur reifte, bestand ein Bedarf an Musik, die außerhalb der Tanzfläche funktionieren konnte, oder an Musik, die außerhalb der Hauptverkehrszeiten unterstützen konnte, und in der Praxis kamen sich beide näher.
 
 ---
 
@@ -74,7 +74,7 @@ Diese Metapher ist kein Zufall. In tiefem Wasser werden hohe Frequenzen gedämpf
 
 In der Tiefseeakustik dienen tiefe Frequenzen nicht nur der Energiegewinnung. Das Band um 20 Hz bis 80 Hz spielt keine melodische Rolle, sondern dient zur Darstellung des Drucks und der Masse des Raumes.
 
-Subbass hat oft keinen klaren Anschlag, er steigt langsam an und klingt langsam ab. Dadurch wird der Hörer in einen Zustand versetzt, in dem er den Schall nicht „hört“, sondern als Schalldruck „spürt“.
+Subbass hat oft keinen klaren Anschlag, er steigt langsam an und klingt langsam ab. Dadurch wird der Zuhörer in einen Zustand versetzt, in dem er den Schall nicht „hört“, sondern als Schalldruck „spürt“.
 
 Vom Mittel-Tief-Bereich bis zum Mitteltonbereich werden anhaltende Töne mit unterdrückten Obertönen platziert, was der Vergleichmäßigung der Klangdichte dient.
 

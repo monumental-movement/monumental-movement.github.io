@@ -22,7 +22,7 @@ Text: mmr｜Thema: Über die Unterhaltung, die Yamashiro-gumi in den frühen 197
 
 
 In den 1970er Jahren gab es eine Person, die an der Grenze zwischen japanischer Musik und Visuals hervorstach.
-**Shoji Yamashiro (richtiger Name: Riki Ohashi)**. Er absolvierte die Abteilung für Agrarchemie der Fakultät für Landwirtschaft der Universität Tohoku und interessierte sich für Biowissenschaften, Information und Ton. Mit einem Hintergrund wissenschaftlicher Spekulation und Sensibilität positionierte er Kunst als „ein Experiment zur Erforschung der Beziehung zwischen Mensch und Umwelt“.
+**Shoji Yamashiro (richtiger Name: Riki Ohashi)**. Er absolvierte die Abteilung für Agrarchemie der Fakultät für Landwirtschaft der Universität Tohoku und interessierte sich für Biowissenschaften, Information und Ton. Mit einem Hintergrund wissenschaftlichen Denkens und Sensibilität positionierte er Kunst als „ein Experiment zur Erforschung der Beziehung zwischen Mensch und Umwelt“.
 
 Der Ort für dieses Experiment war Geinoh Yamashirogumi, das Anfang der 1970er Jahre gegründet wurde.
 Es war mehr als nur eine Musikgruppe, es war eine „Gemeinschaft zur umfassenden Erforschung der Beziehung zwischen Klang, Mensch und Gesellschaft“ und ein „Ort“, der Musik, Ethnologie, Informationstheorie und Anthropologie integrierte.
@@ -74,7 +74,7 @@ Dies war nicht nur eine Sammlung von Volksmusik, sondern eine Untersuchung der g
 | Tibet/Mongolei | Homie singt | Kehlkopfresonanz und Obertontrennung |
 
 Anstatt diese als „Materialien“ zu behandeln, haben Yamashiro et al. beobachteten und rekonstruierten ihre Struktur, Funktion und soziale Bedeutung.
-Insbesondere die „akustische Struktur, die Zeit und Raum überschreitet“ der balinesischen Gamelan-Musik ist das zugrunde liegende Thema von Geino Yamashiro Gumis „Erstellung von Gruppen“, „Informationsumgebung“ und „Umweltstudien von Klang“.
+Insbesondere die „akustische Struktur, die Zeit und Raum überschreitet“ der Gamelan-Musik auf Bali ist von grundlegender Bedeutung für die „Gruppenbildung“, „Informationsumgebung“ und „gesunde Umweltstudien“ des Geino Yamashiro Gumi.
 
 > „Menschen bilden Gruppen basierend auf Klang. Klang entwickelt sich durch Gruppen.“
 > — Shoji Yamashiro
@@ -103,7 +103,7 @@ Es beeinflusste auch spätere weltberühmte Künstler wie Aphex Twin, Ryuichi Sa
 Nach „AKIRA“ entwickelte Yamashiro parallel zu seiner künstlerischen Tätigkeit das Konzept der „Environmental Studies of Sound“.
 Er betrachtete Schall nicht nur als Hörreiz, sondern als „Kontaktpunkt zwischen Information und Ökologie“.
 
-### ◇ Hauptwerke und Ideen
+### ◇ Hauptwerke und Gedanken
 
 | Buchtitel | Verlag/Jahr | Inhaltszusammenfassung | Link |
 |------|-------------|------------|

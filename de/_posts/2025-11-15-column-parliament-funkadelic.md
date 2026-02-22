@@ -22,7 +22,7 @@ title: '[Kolumne] Parliament / Funkadelic: Die ganze Geschichte der P-Funk-Revol
 Text: mmr｜Thema: Über die Weltanschauung des P-Funk, der immer noch als Grundlage des aktuellen Hip-Hop, R&B, Elektro, Kunst und Mode existiert.
 
 
-In der Geschichte der schwarzen amerikanischen Musik in der zweiten Hälfte des 20. Jahrhunderts ist **Parliament/Funkadelic (allgemein bekannt als P-Funk)** die Gruppe, die die großartigste Mythologie und Klanginnovation vereint.
+In der Geschichte der amerikanischen schwarzen Musik in der zweiten Hälfte des 20. Jahrhunderts ist **Parliament/Funkadelic (allgemein bekannt als P-Funk)** die Gruppe, die den großartigsten Mythos und Klanginnovationen vereint.
 Unter der Leitung von George Clinton war dieses Kollektiv mehr als nur eine Band, es war ein gigantisches Projekt, das eine Multiversum-Geschichte, ein futuristisches technologisches Gespür und die durch und durch physischen Rhythmen des Funk verband.
 
 P-Funk wird klar, wenn man es im Hinblick auf die folgenden drei Achsen versteht.
@@ -120,7 +120,7 @@ Was P-Funk einzigartig macht, ist nicht nur die Stärke seines Grooves, sondern 
 ### ■ 1. „Rubbery Bass“ von Bootsy Collins
 
 * Oktavsprung
-* Entspanntes Nori
+* Entspanntes Ura Nori
 * Starker Einsatz von Synkopen
 *Mit Verzerrung und Auto-Wah
 
@@ -162,7 +162,7 @@ Barney Worrells Minimoog brachte zum ersten Mal „kosmische elektronische Klän
 
 ### ■ Parlament „Mothership Connection“ (1975)
 
-* Das zentrale Werk des P-Funk-Mythos
+* Das zentrale Werk der P-Funk-Mythologie
 * Welthits wie „Give Up the Funk“ und „Mothership Connection“
 * Maximiert die Live-Theatralik
 
@@ -223,24 +223,27 @@ Insbesondere die folgenden Künstler haben ausgiebig gesampelt.
 ## Kapitel 8: P-Funk-Chronologie (Details)
 
 <div class="mermaid">
-
 timeline
-    title Parliament / Funkadelic 年表
-    1950 : ジョージ・クリントン、The Parliaments 結成
-    1967 : "I Wanna Testify" が小ヒット
-    1968 : Funkadelic 始動（Westbound Records）
-    1970 : 『Funkadelic』デビュー
-    1971 : 『Maggot Brain』発表
-    1974 : Parliament と Funkadelic が並行で活動
-    1975 : 『Mothership Connection』リリース
-    1977 : Bootsy’s Rubber Band が成功
-    1978 : 『One Nation Under a Groove』全米1位
-    1980 : P-Funk名義の活動が縮小
-    1990s : G-Funkムーブメントで再評価
-    1997 : George Clinton、Rock & Roll Hall of Fame入り
-    2010s : クリントン、若手と共演しつつツアー継続
-
+    title Parliament / Funkadelic History
+    1950 : George Clinton forms The Parliaments
+    1967 : I Wanna Testify released
+    1968 : Funkadelic begins
+    1970 : Funkadelic debut album
+    1971 : Maggot Brain released
+    1974 : Parallel era
+    1975 : Mothership Connection
+    1977 : Bootsy’s Rubber Band success
+    1978 : One Nation Under a Groove hits No.1
+    1980 : Activity declines
+    1990s : G-Funk revival
+    1997 : Rock & Roll Hall of Fame
+    2010s : Touring continues
 </div>
+
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({ startOnLoad: true });
+</script>
 
 ---
 
@@ -266,7 +269,7 @@ timeline
 ## Fazit: P-Funk ist ein „riesiges Archiv schwarzer Futures“
 
 George Clinton ist mehr als nur ein Funk-Leader.
-Er war ein „Kulturdesigner“, der **Musik, den Körper, das Universum, Mythologie und Gesellschaftskritik** zusammenbrachte.
+Er war ein „Kulturarchitekt“, der **Musik, den Körper, das Universum, Mythologie und Gesellschaftskritik** zusammenbrachte.
 
 Die Weltanschauung von P-Funk ist bis heute lebendig und bildet die Grundlage für aktuellen Hip-Hop, R&B, Elektrokunst und Mode.
 Solange P-Funk im Zentrum der schwarzen Musik bleibt, die von der Zukunft spricht, wird ihr Raumschiff „Mothership“ niemals landen.
@@ -283,21 +286,26 @@ Solange P-Funk im Zentrum der schwarzen Musik bleibt, die von der Zukunft sprich
 
 ---
 
-### Anhang: Live-Komposition (Reproduktionsdiagramm der Mothership Tour 1976)
+### Anhang: Live-Komposition (Reproduktionskarte der Mothership Tour 1976)
 
 <div class="mermaid">
-
 flowchart TD
     Audience((Audience)) --> Stage[Main Stage]
 
-    Stage --> Horns["Horn Section\n(Horny Horns)"]
+    Stage --> Horns["Horn Section<br/>(Horny Horns)"]
     Stage --> Vocals["Vocal Ensemble"]
-    Stage --> Bootsy["Bootsy Collins\n(Bass)"]
-    Stage --> Bernie["Bernie Worrell\n(Keyboards)"]
+    Stage --> Bootsy["Bootsy Collins<br/>(Bass)"]
+    Stage --> Bernie["Bernie Worrell<br/>(Keyboards)"]
     Stage --> Guitar["Guitar Zone"]
-    Stage --> Ship["Mothership\n降臨ギミック"]
-
+    Stage --> Ship["Mothership<br/>降臨ギミック"]
 </div>
 
+---
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZR_KBH5l4Q?si=dio345UiB7uDliAc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

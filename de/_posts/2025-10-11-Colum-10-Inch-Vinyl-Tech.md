@@ -20,7 +20,7 @@ title: '[Kolumne] Ergänzung zur 10-Zoll-Schallplattentechnologie: Die Wahrheit 
 ## 10-Zoll-Designkonzept: Präzision im Medium Format
 
 
-Text: mmr | Thema: Eintauchen in den technischen Hintergrund von 10-Zoll-Schallplatten, wie z. B. deren Struktur, Rotationsgeschwindigkeit und Mastering, und Überdenken der Einzigartigkeit des durch das Format erzeugten Klangs.
+Text: mmr｜Thema: Eintauchen in den technischen Hintergrund von 10-Zoll-Schallplatten, wie z. B. deren Struktur, Rotationsgeschwindigkeit und Mastering, und Überdenken der Einzigartigkeit des durch das Format erzeugten Klangs.
 
 
 Die physische Struktur einer Schallplatte verkörpert die Philosophie des Musikformats in ihrer reinsten Form.
@@ -61,7 +61,7 @@ Die Grenze liegt bei etwa 12 Minuten pro Seite bei 33⅓ und etwa 8 bis 9 Minute
 Mit anderen Worten: Die Stärke des 10-Zoll-Geräts liegt darin, dass es möglich ist, ein System zu entwickeln, bei dem die Klangqualität Vorrang vor der Zeit hat.
 
 Die durchschnittliche lineare Geschwindigkeit ist etwa 15 % höher als bei 12 Zoll und es gibt weniger Verzerrungen am Innenumfang.
-Besonders bei Musik mit starkem Anschlag, wie Jazz oder Indie-Rock, erzeugt diese Geschwindigkeitscharakteristik ein klares Gefühl für Rhythmus und räumliche Trennung.
+Besonders bei Musik mit starkem Anschlag, wie etwa Jazz oder Indie-Rock, erzeugt diese Geschwindigkeitseigenschaft ein klares Gefühl für Rhythmus und räumliche Trennung.
 
 ---
 
@@ -78,7 +78,7 @@ Aufgrund dieses Strukturmerkmals weisen 10-Zoll-Schallplatten folgende akustisch
 - Enge Lokalisierung im Mitteltonbereich
 - Der hohe Bereich ist etwas rau, hat aber Schwung
 
-Diese Eigenschaft macht es für Live-Alben und Rohmischungen geeignet, und deshalb legen Künstler, die sich für 10-Zoll-Discs entscheiden, Wert auf Experimente.
+Diese Eigenschaft macht es für Live-Aufnahmen und Rohmischungen geeignet, und deshalb legen Künstler, die sich für 10-Zoll-Discs entscheiden, Wert auf Experimente.
 
 ---
 
@@ -95,7 +95,7 @@ Optimieren Sie Ihre digitalen oder analogen Quellen für Lack.
 Passen Sie Schalldruck, Stereobreite und Phase an.
 
 2. **Lackschneiden**
-Schnitzen Sie Rillen in eine 10-Zoll-Lackplatte.
+Schnitzen Sie Rillen auf einer 10-Zoll-Lackplatte.
 Rillenbreite und Tonhöhenkontrolle sind wichtig.
 „Innerhalb von 12 Minuten bei 33⅓ U/min“ ist eines der Designkriterien.
 
@@ -114,7 +114,7 @@ Dieser Vorgang ist besonders bei 10-Zoll-Modellen wichtig, da die Stabilität de
 Bei 10-Zoll-Scheiben beträgt die Dicke im Allgemeinen etwa 1,8 bis 2,0 mm und das Gewicht etwa 120 bis 150 g.
 Beeinflusst durch den Boom bei 12-Zoll-Schallplatten mit einem Gewicht von 180 g neigen wir dazu zu denken, dass „schwerer eine bessere Klangqualität bedeutet“, aber in Wirklichkeit sind die Dichte und die Ebenheit des Materials wichtiger.
 
-Die geringe Größe des 10-Zoll-Boards erhöht natürlich die Steifigkeit des gesamten Boards, wodurch es weniger wahrscheinlich ist, dass es sich verzieht und weniger Resonanzen verursacht.
+Die geringe Größe des 10-Zoll-Boards erhöht natürlich die Steifigkeit des gesamten Boards, wodurch es weniger dazu neigt, sich zu verziehen und weniger Resonanzen zu verursachen.
 Mit anderen Worten: Auch wenn es dünn ist, ist der Klang satt. Aus diesem Grund gibt es auch bei einer leichten 10-Zoll-Scheibe nahezu keinen Nachteil hinsichtlich der Klangqualität.
 
 ---
@@ -148,7 +148,7 @@ Aus diesem Grund entscheiden sich Club- und Noise-Künstler häufig für den 10-
 
 ---
 
-### Beherrschung der Philosophie: Technik, um in begrenzter Zeit „ein Werk zu schnitzen“.
+### Mastering Philosophy: Technik, um in begrenzter Zeit „ein Werk zu schnitzen“.
 
 10-Zoll-Schneiden ist nicht nur eine Technik, sondern auch eine „Bearbeitungsästhetik“.
 Da die Zeit begrenzt ist, ist es wichtig zu entscheiden, welche Geräusche beibehalten und welche entfernt werden sollen.

@@ -18,7 +18,7 @@ title: '[Kolumne] Das afrokubanische Skelett – Die Genealogie des Herzschlags,
 ## Einführung: Eine weitere Geschichte amerikanischer Musik, erzählt von Taiko-Trommeln
 
 
-Text: mmr｜Thema: Im Mittelpunkt stehen Sabu Martinez und Arsenio Rodríguez
+Text: mmr｜Thema: Basierend auf Sabu Martinez und Arsenio Rodríguez
 Die Wendepunkte der lateinamerikanischen Musikgeschichte im Längsschnitt verfolgen
 
 In den 1950er Jahren erschütterte ein Rhythmus, der an der Hintertür eines Jazzclubs ausgetauscht wurde, das Gefüge der amerikanischen Musik.
@@ -111,7 +111,7 @@ Sein Sound ist mit dem späteren afro-spirituellen Jazz (Pharoah Sanders, Alice 
 
 Als Arsenio 1950 in die Vereinigten Staaten zog und in Harlem zu arbeiten begann,
 Sabu hatte Sitzungen in derselben Stadt durchgeführt.
-Obwohl ihr Kontaktpunkt nicht die direkte Co-Hauptrolle ist,
+Obwohl es sich bei ihrem Ansprechpartner nicht um eine direkte Zusammenarbeit handelt,
 Sie waren tief in der **Bronx-Harlem Afro-Diaspora-Kultur** verwurzelt.
 
 | Ära | Arsenio Rodríguez | Sabu Martinez |
@@ -171,7 +171,7 @@ Zum Beispiel **Miguel Zenón**, **Daymé Arocena**, **Makaya McCraven** usw.
 Die Gene von Sabu und Arsenio in modernes Sounddesign übersetzen.
 
 Insbesondere Makaya McCravens „organische Beat-Collage“
-Man kann sagen, dass dies eine Fortsetzung von Sabus „Bearbeitung per Hand“-Gefühl ist.
+Man kann sagen, dass dies eine Fortsetzung von Sabus „Handbearbeitung“-Gefühl ist.
 
 Darüber hinaus ist Arsenios „Tumbao-Struktur“ vorhanden
 Es ist auch der Prototyp der „rhythmischen Symmetrie“ im Hip-Hop-Loop-Aufbau.

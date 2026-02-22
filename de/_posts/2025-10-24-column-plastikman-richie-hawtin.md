@@ -47,7 +47,7 @@ Hawtin wurde vom **Geist, der in den mechanischen Rhythmen** von Juan Atkins und
 ---
 
 ## Kapitel 2: Die Geburt von Plastikman – Säurereste und Techno-Selbstbeobachtung
-1993 wurde „_Sheet One_“ veröffentlicht. Der traditionelle TB-303-Sound von Acid House wurde aufs Äußerste gebleicht, wodurch ein akustischer Raum entsteht, der wie **Herzschläge und Nervensignale** klingt. Vielmehr ist die Stille, die zwischen den Klängen schwebt, als Hauptfigur zu hören.
+1993 wurde „_Sheet One_“ veröffentlicht. Der traditionelle TB-303-Sound von Acid House wurde bis zum Äußersten gebleicht, wodurch ein akustischer Raum geschaffen wurde, der wie **Herzschlag und Nervensignale** klingt. Vielmehr ist die Stille, die zwischen den Klängen schwebt, als Hauptfigur zu hören.
 
 そして、1994年にレーベルNovaMuteからリリースしたアルバム[『_Musik_』](https://monumental-movement.jp/Plastikman-Musik)。Richie Hawtinとしては3枚目、Plastikman名義では2枚目のスタジオアルバムとなる。
 
@@ -281,7 +281,7 @@ timeline
 ## Letztes Kapitel: Hawtin als Klangbildhauer
 
 Plastikman ist der Schlüssel dazu, dass Techno „nach drinnen“ statt „nach draußen“ geht.
-Dabei handelte es sich nicht um eine Demontage der Clubmusik, sondern um eine Rekonstruktion des Rhythmus, der im Inneren des Körpers mitschwingt, und um eine Auseinandersetzung mit der Grundfrage der Musik: „Was bedeutet es zuzuhören?“
+Dabei handelte es sich nicht um eine Demontage der Clubmusik, sondern um eine Rekonstruktion des Rhythmus, der im Körper mitschwingt, und um eine Auseinandersetzung mit der Grundfrage der Musik: „Was bedeutet es zuzuhören?“
 
 Heute dreht Richie Hawtin weiterhin schweigend an den Knöpfen und sagt nur wenige Worte.
 Denn er weiß besser als jeder andere, dass nur eine Drehung die Grenze zwischen Klang und Stille verändern kann.
@@ -291,7 +291,7 @@ Denn er weiß besser als jeder andere, dass nur eine Drehung die Grenze zwischen
 
 ## Minus Label vollständige Diskographie
 
-| Jahr | Künstler | Releasename | Kommentare |
+| Jahr | Künstler | Veröffentlichungsname | Kommentare |
 | ---- | ------------- | ------------ | --------- |
 | 1994 | Plastikmann | **Musik** EP | Der Höhepunkt des Acid Techno unter dem Namen Plastikman. |
 | 1998 | Plastikmann | **Minus** EP | Der erste Teil von Minus. Extrem minimaler Sound. |

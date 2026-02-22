@@ -82,7 +82,7 @@ Anjunadeep und All Day I Dream wandten sich der melodischen/organischen Musik zu
 
 - Mr. Fingers – Amnesie
 
-- Ron Trent – ​​​​Veränderte Staaten
+- Ron Trent – ​​​​Veränderte Zustände
 
 - Kerri Chandler – Atmosphäre
 

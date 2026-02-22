@@ -13,7 +13,7 @@ tags:
 - Chillhop
 - 80s
 - 90s
-title: '[Kolumne] Lo-Fi Hip Hop / Chillhop (selbst aufgenommene Beatkultur)'
+title: '[Kolumne] Lo-Fi Hip Hop / Chillhop (selbst aufgenommene Beat-Kultur)'
 ---
 
 
@@ -85,7 +85,7 @@ Durch die Verknüpfung mit konzentrierten Aktivitäten wie Lernen, Lesen und Arb
 
 ## 6. Veränderungen in der Internet- und Vertriebsstruktur
 
-Seit Ende der 2000er Jahre ist Lo-Fi Hip Hop mit dem Aufkommen von Video-Sharing-Sites und Musikvertriebsdiensten schnell sichtbarer geworden. Hochgradig anonyme Accountverwaltung, 24-Stunden-Streaming und eine auf Loop-Playback basierende Konfiguration bildeten eine in diesem Genre einzigartige Vertriebsform.
+Seit den späten 2000er Jahren, mit dem Aufkommen von Video-Sharing-Sites und Musikvertriebsdiensten, ist Lo-Fi Hip Hop schnell sichtbarer geworden. Hochgradig anonyme Accountverwaltung, 24-Stunden-Streaming und eine auf Loop-Playback basierende Konfiguration bildeten eine in diesem Genre einzigartige Vertriebsform.
 
 Dies ist ein Beispiel dafür, wie das Vertriebsdesign das Musikformat direkt beeinflusst hat.
 
@@ -101,7 +101,7 @@ Diese Kategorisierung führte zu einem gewissen Grad an Formatbewusstsein auf de
 
 ## 8. Visuelle Darstellung und Animationskultur
 
-Auch mit Musik verbundene visuelle Darstellungen spielten eine wichtige Rolle bei der Verbreitung von Lo-Fi Hip Hop. Loop-Bilder aus Standbildern und einfachen Animationen passten hervorragend zum sich wiederholenden Charakter der Musik.
+Auch mit Musik verbundene visuelle Darstellungen spielten eine wichtige Rolle bei der Verbreitung von Lo-Fi Hip Hop. Loop-Bilder aus Standbildern und einfachen Animationen passten gut zur repetitiven Natur der Musik.
 
 Die visuelle Wiederholung diente dazu, die akustische Wiederholung zu verstärken.
 
@@ -181,7 +181,7 @@ Diese Erweiterung der Kultur wurde durch die Verlagerung der Rolle der Musik hin
 
 ---
 
-## 16. Musikstruktur im Zeitalter der Algorithmen
+## 16. Musikalische Struktur im Zeitalter der Algorithmen
 
 Empfehlungsalgorithmen in Vertriebsplattformen hatten einen starken Einfluss auf die Strukturbildung von Lo-Fi Hip Hop/Chillhop. Stabilität, die die Abbrecherquote senkt, ist wichtiger geworden als Vorstellungen, die in kurzer Zeit Eindruck machen oder dramatische Entwicklungen.
 
@@ -244,7 +244,7 @@ Diese Nachahmungskultur führte zu einer Homogenisierung der Genres und gleichze
 
 ### Anfang der 2000er Jahre
 
-* Die Verbreitung der DAW-Umgebung und die Normalisierung der individuellen Produktion
+* Verbreitung der DAW-Umgebung und Normalisierung der individuellen Produktion
 
 ### Ende der 2000er Jahre
 

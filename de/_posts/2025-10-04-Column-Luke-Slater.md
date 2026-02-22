@@ -66,7 +66,7 @@ flowchart TD
 
 ---
 
-#### Planetare Angriffssysteme (PAS)
+#### Planetary Assault Systems (PAS)
 
 Dies ist eines der herausragenden Projekte von Luke Slater seit den frühen 1990er Jahren.
 Mit seinem harten und minimalistischen Techno-Sound gilt es als Symbol für „Peak-Time-Techno“, der in Clubs auf der ganzen Welt gespielt wird.
@@ -203,7 +203,7 @@ Unter seinem Solonamen ist er für eine breite Palette an Werken bekannt, die Te
 
 **Position**
 
-Slater gilt als flexibler Künstler, der die Szene durchquert und die Härte des Techno mit einer Pop-Sensibilität in Einklang bringt.
+Slater gilt als flexibler, szeneübergreifender Künstler, der die Härte des Techno mit einer Pop-Sensibilität verbindet.
 Es legte den Grundstein für spätere Pseudonyme wie Planetary Assault Systems und The 7th Plain.
 
 ---

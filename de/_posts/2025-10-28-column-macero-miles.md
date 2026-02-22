@@ -23,7 +23,7 @@ Text: mmr | Thema: „Musikalische Revolution durch Bearbeitung“, zusammengest
 
 Ende der 1960er Jahre war die Musik von Miles Davis nicht mehr eine Erweiterung seiner Live-Auftritte, sondern verwandelte sich in eine „Klangarchitektur“, die durch Aufnahme und Bearbeitung konstruiert wurde. Hinter der Änderung steht Produzent und Herausgeber **Teo Macero**.
 
-Masero war nicht nur eine Person „hinter den Kulissen“. Unter seinen Händen wurde eine große Anzahl von Sitzungskassetten ausgeschnitten, zusammengefügt und wieder zusammengesetzt, was zu einem Gesamtwerk führte, das man als „Komposition durch Bearbeitung“ bezeichnen könnte.
+Masero war nicht nur eine Person „hinter den Kulissen“. Unter seinen Händen wurde eine große Anzahl von Sitzungskassetten ausgeschnitten, zusammengefügt und wieder zusammengesetzt, was zu einer Werkgruppe führte, die man als „Komposition durch Bearbeitung“ bezeichnen kann.
 „In a Silent Way“ (1969) und „Bitches Brew“ (1970) sind Paradebeispiele. Es gibt eine **Revolution in der Bearbeitungsästhetik**, die über die Grenzen zwischen „Aufführung“ und „Komposition“ hinausgeht.
 
 ---
@@ -83,10 +83,10 @@ flowchart LR
 
 ## Kapitel 3: „Bitches Brew“ – Der Operationstisch, der Ordnung aus dem Chaos schafft
 
-Mit Bitches Brew aus den 1970er Jahren explodierten Maceros Bearbeitungstechniken noch mehr.
+Mit „Bitches Brew“ aus den 1970er Jahren explodierten Maceros Bearbeitungstechniken noch weiter.
 Mehr als sechs Tonbandgeräte liefen gleichzeitig, sodass das Studio wie ein Labor wirkte.
 
-Nicht jeder Interpret hat ein gemeinsames Thema, was zu einer Flut fragmentierter Improvisationen führt.
+Nicht jeder Interpret hat ein gemeinsames Thema, was zu einer **Flut fragmentierter Improvisation** führt.
 Macero fügte diese Fragmente zu Einheiten von mehreren Metern zusammen und gestaltete durch Bearbeitung den rhythmischen Fluss und den akustischen „Ort“.
 
 > „Ich habe Klänge zerhackt und rekonstruiert. Es war derselbe Akt wie Komponieren.“
@@ -281,7 +281,7 @@ graph LR
 
 → Konzentrieren Sie sich auf die „Tiefenachse“ und nicht auf Stereo links und rechts.
 
-Man kann sagen, dass Maceros Tonbearbeitung bereits die „Skulptur der Zeit“ in die Tat umsetzte, die später Techno, Ambient und Electronica anstrebten.
+Man kann sagen, dass Maceros bearbeiteter Sound bereits die „Skulptur der Zeit“ in die Tat umsetzte, die später Techno, Ambient und Electronica anstrebten.
 
 ---
 
@@ -409,7 +409,7 @@ graph TD
 </div>
 
 Diese „bearbeitete Partitur“ enthält die Zeit, das Tempo und den Quell-Take jedes Segments.
-Macero nannte es die „Landkarte des Klangs“.
+Macero nannte es die „Karte des Klangs“.
 Man kann sagen, dass sie der später von Brian Eno vertretenen „Studiokompositionsmethode“ vorausging.
 
 ---
@@ -492,6 +492,16 @@ graph LR
 </div>
 
 ---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HmQjbJo1pGg?si=Guk39cSV_j7-kSL8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 ## Referenzen/Materialien
 

@@ -44,7 +44,7 @@ color: #fff;
 ## ◆ 1980–90er: Beginnt mit der Hip-Hop-Kultur
 Human Beatbox (im Folgenden als Beatbox bezeichnet) expandierte in den 1980er Jahren mit der Hip-Hop-Kultur an der Ostküste der Vereinigten Staaten. Zu den frühen Vertretern zählen Buff Love von The Fat Boys und Doug E. Fresh, dessen technisches System sich aus einer Drum-Machine-ähnlichen Imitation entwickelte.
 
-In den 1990er Jahren verbreitete sich Beatboxing durch Radio- und Live-Auftritte auf der ganzen Welt und Beatboxen begann sich allmählich als Ausdruck und nicht nur als Begleitung zu verselbständigen.
+In den 1990er Jahren verbreitete sich Beatboxing durch Radio- und Live-Auftritte auf der ganzen Welt und Beatboxen begann sich nach und nach als Ausdruck und nicht nur als Begleitung zu verselbständigen.
 
 ---
 
@@ -57,7 +57,7 @@ Seit den 2000er Jahren hat sich eindeutig eine globale Turnierkultur herausgebil
 Eine Weltmeisterschaft in Deutschland. Es wird mehrere Kategorien geben, z. B. Solo, Tag und Crew.
 
 - **Grand Beatbox Battle (GBB)**
-Obwohl es zunächst relativ klein war, ist es seit Ende der 2010er Jahre schnell gewachsen. Bildung großer internationaler Abteilungen wie Solo-, Loop-Station-, Tag- und Crew-Teams.
+Obwohl es zunächst relativ klein war, ist es seit Ende der 2010er Jahre schnell gewachsen. Bildung großer internationaler Divisionen wie Solo-, Loop-Station-, Tag- und Crew-Teams.
 
 Diese Wettbewerbe steigerten weltweit das Niveau der technischen Fähigkeiten, standardisierten Bewertungskriterien, unterteilten Genres und steigerten die Komplexität der Aufführungsformate.
 
@@ -197,7 +197,7 @@ Es ist in diesem Teil.
 
 ### ● Koeys Stil
 - Schärfe für den Kampf
-- Entwicklung, die sich den Schalldruck zunutze macht
+- Entwicklung, die den Schalldruck nutzt
 - Einbindung detaillierter Technologie in Schlüsselpunkte
 
 Unter den jüngsten japanischen Spielern ist er ein Spieler mit einem Ton, der bei Live-Auftritten heraussticht.
@@ -218,7 +218,7 @@ Die Kategorie, die in den letzten Jahren die meiste Aufmerksamkeit erhalten hat,
 Es gibt ein starkes Musikproduktionselement.
 
 ## ◆ Vitrinen / Ausstellung
-Schwerpunkt auf Musikalität. Mit zunehmender Reife der Turnierkultur kamen neue Formate hinzu.
+Betonung der Musikalität. Mit zunehmender Reife der Turnierkultur kamen neue Formate hinzu.
 
 ---
 
@@ -240,13 +240,13 @@ timeline
 
 # 9. Beatbox-Trends auf der ganzen Welt und in der Zukunft
 
-## ◆ 1. Die Grenze zwischen Musikproduktion ist fließend
+## ◆ 1. Die Grenze zwischen Musikproduktion verschwimmt
 Mit der Entwicklung von Loopstation, Beatboxen
 **"Echtzeitversion der Musikproduktion"**
 Hin zu einem Bereich, der angerufen werden kann
 
 ## ◆ 2. Kombination mit visueller Kultur
-„Videobasierte Showcases“ nehmen bei Turnieren auf der ganzen Welt zu.
+„Videobasierte Showcases“ nehmen bei Wettbewerben auf der ganzen Welt zu.
 Wir leben in einer Zeit, in der SNS den Stil beschleunigt.
 
 ## ◆ 3. Zukunft der japanischen Stärken
@@ -265,7 +265,7 @@ Wir können davon ausgehen, dass er weiterhin sowohl im Loopstation-Bereich als 
 # Fazit – Human Beatbox als Kultur
 
 Human Beatbox ist eine moderne Ausdruckskultur, die viele Aspekte wie Musik, Performance, Video und Komposition vereint.
-Jetzt, wo die Wettbewerbskultur ausgereift ist, sich die Technologie weiterentwickelt und japanische Künstler auftauchen, erfährt Beatboxing große Veränderungen und Beatboxing wird mehr als nur eine Technik, es wird zu einem internationalen Musikgenre.
+Heutzutage durchläuft Beatboxing große Veränderungen wie die Reifung der Wettbewerbskultur, die Weiterentwicklung der Technologie und den Aufstieg japanischer Künstler, und Beatboxing wird mehr als nur eine „Technik“, sondern etabliert sich als internationales Musikgenre.
 
 Ich hoffe, dass dieser Artikel Ihnen hilft, die Geschichte und Zukunft des Beatboxens zu verstehen.
 

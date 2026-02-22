@@ -21,7 +21,7 @@ title: '[Kolumne] Neo-Krautrock: Moderne Neuinterpretation des klassischen Kraut
 
 Text: mmr｜Thema: Geschichte des Krautrock, Geburt des Neo-Krautrock, musikalische Methoden bedeutender Künstler, Album-/Songanalyse, Live-Beispiele
 
-Neo-Krautrock ist eine Musikrichtung, die den Ende der 1960er und 1970er Jahre in Deutschland entstandenen Krautrock mit modernen Methoden neu interpretiert. Krautrocks Markenzeichen der **repetitiven Rhythmen (Motorik Beats)**, **Elektroakustik** und **Experimentiergeist** wurden von zeitgenössischen Künstlern wie Tropic of Cancer und Panda Lux in neuen Formen wiederbelebt und bieten ein vielschichtiges, räumliches Klangerlebnis.
+Neo-Krautrock ist eine Musikrichtung, die den Ende der 1960er und 1970er Jahre in Deutschland entstandenen Krautrock mit modernen Methoden neu interpretiert. Krautrocks Markenzeichen des **repetitiven Rhythmus (Motorik Beat)**, der **Elektroakustik** und des **Experimentalgeists** wurden von zeitgenössischen Künstlern wie Tropic of Cancer und Panda Lux in neuen Formen wiederbelebt und bieten ein vielschichtiges, räumliches Klangerlebnis.
 
 
 ---
@@ -46,10 +46,10 @@ In Westdeutschland erkundeten junge Menschen der Nachkriegsgeneration Ende der 1
 
 - **Streben nach sich wiederholenden Rhythmen**: Der „Motorik Beat“ von Neu! ist besonders ikonisch. Durch die mechanische Wiederholung von 4/4 der Trommel entsteht ein tranceartiges und meditatives Gefühl.
 - **Elektronische Klangexperimente**: Nutzen Sie analoge Synthesizer wie Kraftwerk und Tangerine Dream voll aus.
-- **Unabhängige Produktion und Anti-Kommerzialismus**: Alben werden auf unabhängigen Labels und kleinen Studios aufgenommen, wobei experimentelle Elemente im Vordergrund stehen.
+- **Unabhängige Produktion und Antikommerzialisierung**: Alben werden auf unabhängigen Labels und kleinen Studios aufgenommen, wobei experimentelle Elemente im Vordergrund stehen.
 - **Genreübergreifende Fusion**: Flexibilität zur übergreifenden Integration von Jazz, Folk, Rock und Klassik.
 
-Zu den ikonischen Bands zählen Can, Neu!, Kraftwerk, Faust und Amon Düül II, deren Sound den späteren Neo-Krautrock direkt beeinflusste.
+Zu den ikonischen Bands gehören Can, Neu!, Kraftwerk, Faust und Amon Düül II, deren Sound den späteren Neo-Krautrock direkt beeinflusste.
 
 <div class="mermaid">
 flowchart TD
@@ -187,7 +187,7 @@ flowchart TD
 
 ## 8. Fazit
 
-Neo-Krautrock bringt den Geist des Krautrock zurück ins 21. Jahrhundert und wird zu einer Brücke zwischen Vergangenheit und Zukunft. Künstler wie Tropic of Cancer und Panda Lux bewahren die ursprüngliche Krautrock-Ästhetik und fördern gleichzeitig neue musikalische Experimente. Mit Fortschritten in der Musiktheorie, der Aufnahmetechnik und dem Live-Ausdruck wird Neo-Krautrock weiterhin im Zentrum der experimentellen Musikszene stehen.
+Neo-Krautrock bringt den Geist des Krautrock zurück ins 21. Jahrhundert und wird zu einer Brücke zwischen Vergangenheit und Zukunft. Künstler wie Tropic of Cancer und Panda Lux bewahren die ursprüngliche Krautrock-Ästhetik und fördern gleichzeitig neue musikalische Experimente. Mit Fortschritten in der Musiktheorie, der Aufnahmetechnik und dem Live-Ausdruck wird Neo-Krautrock weiterhin im Mittelpunkt der experimentellen Musikszene stehen.
 
 ---
 

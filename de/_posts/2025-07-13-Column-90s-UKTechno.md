@@ -15,7 +15,7 @@ title: '[Kolumne] Das goldene Zeitalter des britischen Techno'
 
 ## Das goldene Zeitalter des britischen Techno: eine Aufzeichnung der Sounds und Kämpfe der 1990er Jahre
 
-Text: mmr｜Thema: Britische Technokultur
+Text: mmr｜Thema: UK Techno Culture
 
 
 <hr>
