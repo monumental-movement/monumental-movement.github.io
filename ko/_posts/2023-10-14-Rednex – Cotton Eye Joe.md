@@ -10,7 +10,7 @@ permalink: /ko/rednex-cotton-eye-joe/
 tags:
 - Euro House
 - Synth-Pop
-title: Rednex – 코튼 아이 조
+title: Rednex – Cotton Eye Joe
 ---
 
 
@@ -20,13 +20,13 @@ title: Rednex – 코튼 아이 조
 
 
 
-레드넥스(Rednex)는 미국 컨트리 음악과 유로댄스를 결합한 음악 스타일을 지닌 스웨덴 유로댄스 그룹이다.
+Rednex는 US 컨트리 뮤직과 유로 댄스를 결합한 음악 스타일이 특징인 스웨덴 유로 댄스 그룹.
 
-'코튼아이조'는 밴조와 바이올린을 접목한 미국 민요 '코튼아이드조'를 기반으로 한 유로하우스 곡으로 전 세계적인 히트를 쳤다.
+'Cotton Eye Joe'는 미국 민요 '코튼 아이드 조'를 기반으로 밴조와 피들을 도입한 유로하우스로 세계적인 히트가 됐다.
 
-Armand Van Helden과 Jeremy Healy가 리믹스에 참여할 예정입니다.
+remix에는 Armand Van Helden (아만드 반 헬든) Jeremy Healy (제레미 힐리)가 참가.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Cotton Eye Joe (Madcow Mix)
 
@@ -43,5 +43,5 @@ B2. Cotton Eye Joe (Overworked Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m37601005169?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mOYZaiDZ7BM?si=HPLMf_KSsF_nLXF3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

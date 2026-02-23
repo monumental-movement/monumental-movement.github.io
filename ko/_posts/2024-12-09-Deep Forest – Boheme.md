@@ -11,15 +11,15 @@ tags:
 - Downtempo
 - Ethereal
 - Ambient
-title: 딥 포레스트 - 보헴
+title: Deep Forest – Boheme
 ---
 
 
-'보엠(Boheme)'은 1995년 발매된 프랑스 듀오 딥 포레스트(Deep Forest)의 두 번째 앨범이다. 보헤미안(동유럽 집시 노래)을 샘플링한 이 앨범은 400만장 이상 판매고를 기록하며 15개국에서 다이아몬드, 플래티넘, 골드 상을 수상하고 그래미상 베스트 월드 뮤직 앨범상을 수상하는 딥 포레스트의 대표작이다.
+'Boheme'은 1995년 출시된 프랑스 듀오 Deep Forest의 두 번째 앨범. 보헤미안(동유럽 집시 노래)을 샘플링한 이 앨범은 400만장 이상을 매상, 15개국에서 다이아몬드, 플래티넘, 골드상을 수상하고 그래미상 최우수 월드뮤직 앨범을 수상한 Deep Forest의 대표작.
 
-세 번째 곡에는 헝가리 민속 음악가 Márta Sebestyén이, 12번째 곡에는 록 밴드 Genesis의 창립 보컬인 Peter Gabriel이 피처링했습니다.
+3곡째는 헝가리의 포크 뮤지션 마르타 세베스티엔을, 12곡째는 록 밴드 '제네시스'의 초대 보컬리스트 피터 가브리엘을 피처하고 있다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Anasthasia
 2. Bohemian Ballet
@@ -39,5 +39,5 @@ title: 딥 포레스트 - 보헴
 [メルカリで購入](https://jp.mercari.com/item/m63125151590?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zQEV-XemfcE?si=5pgiIgyGhgwN5tve" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

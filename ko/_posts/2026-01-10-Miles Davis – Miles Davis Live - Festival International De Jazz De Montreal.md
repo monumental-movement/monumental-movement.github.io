@@ -9,13 +9,13 @@ permalink: /ko/miles-davis-miles-davis-live-festival-international-de-jazz-de-mo
 tags:
 - Jazz
 - 80s
-title: 마일스 데이비스 – Miles Davis Live - Festival International De Jazz De Montreal
+title: Miles Davis – Miles Davis Live - Festival International De Jazz De Montreal
 ---
 
 
-1985년 캐나다에서 열린 몬트리올 국제 재즈 페스티벌의 마일스 데이비스 라이브 비디오(VHS). 1986년 출시.
+1985년 캐나다에서 열린 Montreal International Jazz Festival(몬트리올 인터내셔널 재즈 페스티벌)에서 마일스 데이비스의 라이브 영상(VHS). 1986년에 발매되었다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Overture
 2. One Phone Call

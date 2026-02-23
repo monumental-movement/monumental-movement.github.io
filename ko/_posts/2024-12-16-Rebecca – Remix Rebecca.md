@@ -10,13 +10,13 @@ tags:
 - JPop
 - Pops
 - 80s
-title: 레베카 – 리믹스 레베카
+title: Rebecca – Remix Rebecca
 ---
 
 
-1987년 Fitzbeat가 발매한 레베카의 "Remix Rebecca" 오리지널 카세트 테이프. 레베카의 첫 번째 리믹스 앨범이자 베스트 앨범이다. 1987년 오리콘 차트 11위에 오르는 등 큰 히트를 쳤습니다.
+1987년에 Fitzbeat로부터 릴리스된 Rebecca(레베카)의 「Remix Rebecca」오리지날 카세트 테이프. Rebecca 로서는 최초의 리믹스반이며 베스트반. 오리콘 차트에서 1987년도 연간 11위가 되는 등 대히트가 되었다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Raspberry Dream
 A2. 76th Star
@@ -33,5 +33,5 @@ B5. When A Woman Loves A Man
 
 [メルカリで購入](https://jp.mercari.com/item/m47696306553?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bzkrMwYXCSI?si=LIHoJwU9-w_pHOu5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

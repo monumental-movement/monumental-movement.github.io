@@ -10,15 +10,15 @@ tags:
 - Pops
 - House
 - Soul
-title: 왕자와 새로운 발전 – Gett Off
+title: Prince And The New Power Generation – Gett Off
 ---
 
 
-Diamonds and Pearls 앨범의 싱글인 이 노래는 프린스의 댄스 플로어 공연과 라이브 쇼에서 인기 있는 곡으로 알려져 있으며 그의 음악 경력의 히트곡 중 하나입니다.
+이 곡은 앨범 'Diamonds and Pearls'의 싱글 컷으로, 댄스 플로어에서의 프린스의 퍼포먼스나 라이브 쇼에서의 인기곡으로 알려져 있으며, 그의 음악 커리어에서의 히트곡의 하나입니다.
 
-"Gett Off"는 펑키한 비트와 그루비한 베이스라인이 특징이며 Prince의 에너지 넘치는 보컬 퍼포먼스가 보완되어 Prince의 음악 경력의 상징적인 부분이자 팬과 음악 애호가들에게 특별한 의미를 지닌 노래입니다.
+'Gett Off'는 펑키한 비트와 그루비한 기준선이 특징이며, 프린스의 활기찬 보컬 퍼포먼스가 돋보이며, 프린스의 음악 커리어의 일부를 상징하는 곡으로, 그의 팬이나 음악 애호가에게 특별한 의미를 가진 곡이 되고 있습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1  Gett Off (Extended Remix)
 
@@ -35,5 +35,5 @@ B3  Clockin' The Jizz (Instrumental)
 
 [メルカリで購入](https://jp.mercari.com/item/m13388071866?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2bi-xdXFsqk?si=Yovi5xirfaodEap3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

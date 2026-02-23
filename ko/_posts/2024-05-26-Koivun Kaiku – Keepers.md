@@ -11,15 +11,15 @@ tags:
 - Finland
 - Folk
 - rare
-title: Koivun Kaiku – 키퍼
+title: Koivun Kaiku – Keepers
 ---
 
 
-1987년에 발매된 "Keepers"는 핀란드 민속악기이자 치터족에 속하는 현악기의 일종인 칸텔레(kantele)가 연주하는 민속 및 세계 음악입니다.
+1987년에 릴리스된 「Keepers」는, 핀란드의 민족악기로, 트위터속 발현악기의 일종인 칸텔레(kantele)에 의한 포크＆월드 뮤직.
 
-그룹 이름 Koivun Kaiku는 "자작나무의 메아리"를 의미합니다.
+그룹명 Koivun Kaiku는, “Echo of the Birch”=“자작나무의 울림”의 의미.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Ripatska 
 A2. Valssi Lapuasta 

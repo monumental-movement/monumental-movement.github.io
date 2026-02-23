@@ -11,17 +11,17 @@ tags:
 - House
 - UK House
 - 90s
-title: 야생 동물 – 마약 중독 E.P.
+title: Wildlife – Hooked On Dope E.P.
 ---
 
 
-Wildlife로도 알려진 Seb Fontaine은 영국 출신의 DJ이자 프로듀서입니다. 그는 The Fridge, Cream 등의 공연장에서 레지던트 DJ로 활동했으며 수많은 믹스 앨범을 발표했습니다.
+Wildlife Seb Fontaine은 UK 출신의 DJ 프로듀서. The Fridge나 Cream 등에서 레지던트 DJ를 맡아 믹스 앨범을 다수 발매하고 있다.
 
-"멋쟁이 E.P.에 푹 빠졌어요." 는 Seb Fontaine과 Julian Peake가 운영하는 레이블인 Spot On Records가 1992년에 발표한 브레이크비트 하우스 트랙입니다.
+'Hooked On Dope E.P.'는 Seb Fontaine과 Julian Peake가 운영하는 라벨 Spot On Records에서 1992년에 발표된 브레이크 비트 하우스 트럭.
 
-Side A의 첫 번째 트랙인 "Dope Jazz"와 두 번째 트랙인 "Smells Like Dope"는 1993년에 발매된 DJ Dan의 클래식 브레이크 믹스테이프 "San Francisco Project 2 - Tribute To James Brown / The Scratch - The Bass"에 포함되었습니다.
+A면 1곡째 'Dope Jazz'와 2곡목 'Smells Like Dope'는 1993년에 발표된 DJ Dan의 클래식 브레이크 믹스 테이프 'San Francisco Project 2 - Tribute To James Brown/The Scratch - The Bass'에 수록되어 있다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 Dope Side
 A1. Dope Jazz
@@ -35,5 +35,5 @@ B2. Youre My Drug
 
 [メルカリで購入](https://jp.mercari.com/item/m75896436535?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YtTgzCMkfeU?si=bxzOASsR1FhRaJPH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

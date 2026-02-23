@@ -10,19 +10,19 @@ tags:
 - Hiphop
 - Rap
 - 00s
-title: Visionaries – 사랑을 말할 수 없다면 Domakesaythink
+title: Visionaries – If You Can't Say Love Domakesaythink
 ---
 
 
-Visionaries는 1995년에 결성된 로스앤젤레스를 기반으로 하는 6인조 컨셔스 힙합 그룹입니다.
+Visionaries(비조나리즈/비조나리즈)는 1995년에 결성된 로스앤젤레스를 거점으로 하는 6인조 콘셔스 힙합 그룹.
 
-멤버로는 LMNO(J. Kelly), 2Mex(A. Ocana), Key-Kool(니시 키쿠오), DJ Rhettmatic(N. Nirza), Lord Zen(D. Hood), Dannu(D. Reyes)가 있다.
+멤버는 LMNO (J. Kelly), 2Mex (A. Ocana), Key-Kool (Kikuo Nishi), DJ Rhettmatic (N. Nirza), Lord Zen (D. Hood), Dannu (D. Reyes).
 
-Side A의 트랙 1과 3은 Funky President라는 별명으로 알려진 세계적으로 유명한 DJ J.Rocc이 프로듀싱한 곡입니다.
+A면 1&3곡목은 Funky President의 애칭으로 알려진 세계적인 DJ J.Rocc가 프로듀스.
 
-B면 1과 3은 Visionaries 멤버 Kikuo Nishi(일명 Key Kool)가 프로듀싱했습니다.
+B면 1&3곡목은 Visionaries의 멤버 Kikuo Nishi와 Key Kool이 프로듀스.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. If You Can't Say Love (Album Version)
 
@@ -39,5 +39,5 @@ B3. Domakesaythink (Acapella)
 
 [メルカリで購入](https://jp.mercari.com/item/m13872107286?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a1UmQJ7ulb4?si=5RiVlghOzvJ08SsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

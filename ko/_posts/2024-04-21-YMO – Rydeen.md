@@ -10,15 +10,15 @@ tags:
 - JPop
 - Techno
 - 7inch
-title: YMO – 라이딘
+title: YMO – Rydeen
 ---
 
 
-1980년 YMO(Yellow Magic Orchestra)가 알파 레이블로 발매한 7인치 앨범.
+Yellow Magic Orchestra(YMO)가 1980년 라벨 Alfa에서 출시한 7인치.
 
-재킷 디자인은 David Bowie, The Police, B-52's와 같은 아티스트 및 음악 그룹의 앨범 커버 디자인으로 유명한 Mick Haggerty가 맡았습니다.
+재킷 디자인은 데이비드 보위, 폴리스, B-52's 등의 아티스트와 음악 그룹의 앨범 커버 디자인으로 유명한 Mick Haggerty (믹 허가티).
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A.  Rydeen（ライディーン）
 Arranged By – イエロー・マジック・オーケストラ
@@ -32,7 +32,7 @@ Composed By – 細野晴臣
 
 [メルカリで購入](https://jp.mercari.com/item/m74427629192?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yxep-gS-Btg?si=IsQ2aHISgk6BNlze" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DVtkLyPpotA?si=L_YmrM79GLCExuEv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

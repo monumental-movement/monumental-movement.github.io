@@ -11,15 +11,15 @@ tags:
 - Techno
 - Electro
 - 00s
-title: 베로시마 – 댄스 더 머신
+title: Beroshima – Dance The Machine
 ---
 
 
-Beroshima는 Frank Muller가 1994년에 결성한 독일의 테크노/일렉트로 프로젝트입니다. 나중에 Ulrich Schnauss가 합류했지만 지금은 Frank Muller의 솔로 프로젝트입니다.
+Beroshima(베로시마)는 1994년에 Frank Muller(프랭크 뮐러)에 의해 결성된 독일 테크노/일렉트로 프로젝트. 나중에 Ulrich Schnauss(울리히 슈나우스)가 참가한 시기도 있었지만, 현재는 Frank Muller의 솔로 프로젝트가 되고 있다.
 
-"Dance The Machine"은 Frank Muller가 직접 운영하는 독일 레이블인 Beroshima Music에서 2002년에 발매된 테크노 일렉트로 트랙입니다.
+「Dance The Machine」은, 2002년에 Frank Muller 자신이 운영하는 독일의 라벨 Beroshima Music 발매한 테크노 일렉트로트랙.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Dance The Machine (Extended Version)
 
@@ -29,7 +29,7 @@ B2. Dance The Machine (Disco Club Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m78848372644?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gNkVLqhXiXY?si=UtGNeTrvfERhGD9B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vgvr9l78OkU?si=u_-1UUm1y7Qspum3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

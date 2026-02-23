@@ -9,16 +9,16 @@ permalink: /ko/johannes-heil-leagues-under-the-skin/
 tags:
 - Techno
 - German Techno
-title: 요하네스 하일 – 리그 언더 더 스킨
+title: Johannes Heil – Leagues Under The Skin
 ---
 
 
-요하네스 하일(Johannes Heil)의 음악은 어둡고 감성적인 분위기와 파워풀한 비트, 독특한 사운드 디자인이 특징이다.
+요하네스 하이르의 음악은 다크하고 감성적인 분위기와 강력한 비트와 독특한 사운드 디자인이 특징입니다.
 
-그의 트랙은 테크노와 언더그라운드 음악계에서 높은 평가를 받고 있으며, 독특한 사운드 스타일과 에너지로 유명합니다.
+그의 트랙은 테크노 뮤직 장면과 언더그라운드 장면에서 높은 평가를 받고 있으며, 자신의 사운드 스타일과 에너지가 매력으로되어 있습니다.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1  20.000 Leagues Under The Skin Pt.04
 
@@ -41,5 +41,5 @@ D2  20.000 Leagues Under The Skin Pt.01
 
 [メルカリで購入](https://jp.mercari.com/item/m88455250151?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b578n6nGPTw?si=FLBzLF9JjEySdQBq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

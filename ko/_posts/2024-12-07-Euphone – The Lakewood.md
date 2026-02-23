@@ -10,17 +10,17 @@ tags:
 - Acid Jazz
 - Future Jazz
 - 00s
-title: 유폰 - 더 레이크우드
+title: Euphone – The Lakewood
 ---
 
 
-Euphone은 시카고에 기반을 둔 포스트 록 밴드입니다.
+Euphone(유폰)은 시카고를 거점으로 활동하는 포스트 록 밴드.
 
-Five Style의 전 멤버이자 The Lonesome Organist로도 알려진 Jeremy Jacobsen이 이번 앨범을 통해 공식적으로 밴드에 합류했습니다.
+Five Style(5스타일)의 전 멤버이자 The Lonesome Organist(론삼 오르가니스트) 명의로도 활동하는 Jeremy Jacobsen이 이 앨범에서 정식으로 멤버로 참여하고 있다.
 
-이번 앨범은 2001년 음악 전문지 AFTERHOURS가 기획, 발매한 스페셜 앨범이다. 전통적인 포스트록 스타일을 기반으로 애시드 재즈, DUB, 어쿠스틱, 미니멀리스트 등 다양한 음악적 취향을 접목한 야심찬 작품이다.
+이 앨범은, 2001년에 음악지 AFTERHOURS가 기획·릴리스한 스페셜 앨범. 기존의 포스트락 스타일을 베이스로 하면서, 애시드 재즈, DUB, 음향, 미니멀 등 다양한 음악 테이스트를 도입한 의욕작.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. The Lakewood Burning Bad Boy
 2. Tools Of Love
@@ -35,5 +35,5 @@ Five Style의 전 멤버이자 The Lonesome Organist로도 알려진 Jeremy Jaco
 [メルカリで購入](https://jp.mercari.com/item/m71395621792?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8Mh146yM3i4?si=4IDgNRphZAQesfmW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,15 +10,15 @@ tags:
 - Ragga
 - Reggae
 - 7inch
-title: 피오나 - 이런... 또 그랬어
+title: Fiona – Oops...I Did It Again
 ---
 
 
-"Fiona – Oops...I Did It Again"은 브리트니 스피어스(Britney Spears)의 유명한 노래를 커버한 것입니다.
+"Fiona (피오나) - Oops ... I Did It Again"은 브리트니 스피어스의 유명한 곡의 커버입니다.
 
-자메이카 레이블인 Joe Frasier가 출시한 제품입니다.
+자메이카 라벨 Joe Frasier 출시.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Oops...I Did It Again (Radio Mix)
 
@@ -27,5 +27,5 @@ B. Oops...I Did It Again (Dub Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m36953561073?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NqTkQt8XACI?si=QnU8XkiTcMcpxIGV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,16 +9,16 @@ permalink: /ko/croisette-nothing-but-blackmail/
 tags:
 - Disco
 - 80s
-title: 크루아제트 – 협박 외에는 아무것도 아니다
+title: Croisette – Nothing But Blackmail
 ---
 
 
 
-프로덕션 듀오 Fiachra Trench와 Ian Levine이 작곡하고 제작한 디스코 프로젝트입니다.
+프로덕션 듀오 Fiachra Trench와 Ian Levine이 작곡·프로듀스한 Disco 프로젝트.
 
-1986년 영국의 80년대 댄스 레이블인 Passion이 발표한 디스코 트랙입니다.
+UK의 80s 댄스 라벨 Passion에서 1986년에 출시된 Disco 트럭.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Nothing But Blackmail
 
@@ -27,5 +27,5 @@ B. Nothing But Blackmail (Nightmare Dub Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m16606377371?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oLEWmkwBg78?si=qsZzBuJYwH4rg7kt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,19 +9,19 @@ permalink: /ko/toco-guarapiranga/
 tags:
 - Bossa Nova
 - Latin
-title: 토코 – 과라피랑가
+title: Toco – Guarapiranga
 ---
 
 
-"Toco – Guarapiranga"는 이탈리아 피렌체를 기반으로 활동하는 싱어송라이터 Toco(Tomaz di Cunto)의 노래/EP 작품입니다.
+"Toco – Guarapiranga"는 이탈리아 피렌체 거점의 싱어 송 라이터 Toco (Tomaz di Cunto)에 의한 악곡 / EP 작품.
 
-EP의 "Dub" 버전(Gerardo Frisina Dub)은 약 120bpm의 템포로 리듬과 공간 효과에 중점을 둔 클럽/댄스플로어 믹스입니다.
+EP의 「Dub」버전(Gerardo Frisina Dub)은 클럽/댄스 플로어용으로 강조된 리듬감과 공간적 이펙트를 살리는 믹스가 되어 있어, 템포는 약 120 bpm 전후.
 
-'리믹스'는 재즈 구조를 유지하면서도 브라질리언적인 리듬을 좀 더 유지한 편곡으로, 원곡의 특징을 재해석한 편곡이다. 오리지널 믹스는 상대적으로 절제된 편곡과 노래, 기타/타악기 등 브라질 음악적 요소를 전면에 내세운 사운드 구성을 갖고 있다.
+「Remix」는 보다 브라질인 것 같은 리듬성을 유지하면서도 재즈 구조를 남기는 어레인지가 되어 있어, 오리지날의 특징을 재해석한 것으로, 오리지날・믹스는, 비교적 억제한 편성으로, 노래와 기타/타악기 등 브라질 음악적인 요소를 전면에 낸 사운드 구성입니다.
 
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Guarapiranga (Gerardo Frisina Dub)
 
@@ -32,5 +32,5 @@ B2. Guarapiranga (Original Version)
 
 [メルカリで購入](https://jp.mercari.com/item/m91471951758?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tPKNm9IEFzY?si=SWPCSfbh32qT52qN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

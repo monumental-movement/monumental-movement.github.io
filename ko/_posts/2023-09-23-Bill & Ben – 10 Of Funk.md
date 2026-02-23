@@ -9,20 +9,20 @@ permalink: /ko/bill-ben-10-of-funk/
 tags:
 - Break Beat
 - Techno
-title: 빌 앤 벤 - 펑크의 10
+title: Bill & Ben – 10 Of Funk
 ---
 
 
-Bill & Ben의 "10" Of Funk는 리드미컬한 비트, 묵직한 베이스 라인, 당김음, 영혼을 감동시키는 혼 섹션 등 펑크 음악 요소로 가득합니다.
+Bill & Ben의 '10" Of Funk"는 리드미컬한 비트, 무거운 베이스라인, 신코페이션, 영혼을 흔드는 혼 섹션 등 펑크 음악의 요소가 담긴 작품입니다.
 
-파워풀한 비트와 독특한 리프, 댄스 플로어를 신나게 만드는 그루비한 리듬 등 빌앤벤(Bill & Ben)의 펑키하고 신나는 사운드를 즐겨보세요.
+댄스 플로어를 끓이는 파워풀한 비트, 독특한 리프, 그루비한 리듬 등 Bill & Ben의 펑키로 엔터테이닝한 사운드를 즐길 수 있습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. 10" Of Funk
 ```
 
 [メルカリで購入](https://jp.mercari.com/item/m76971851665?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LOk7poXXquI?si=1Jx5CFv1ESSnVI5v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

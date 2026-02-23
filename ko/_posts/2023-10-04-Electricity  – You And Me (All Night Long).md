@@ -9,15 +9,15 @@ permalink: /ko/electricity-you-and-me-all-night-long/
 tags:
 - Italo
 - Disco
-title: 일렉트릭 – 너와 나 (All Night Long)
+title: Electricity – You And Me (All Night Long)
 ---
 
 
-'너와 나(All Night Long)'는
-이탈리아 레이블 "In Out"이 1994년에 발매한 Electricity의 EP입니다.
+「You And Me (All Night Long)」는,
+1994년에 이탈리아의 라벨 「In Out」로부터 발매된 Electricity에 의한 EP입니다.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. You And Me (All Night Long) (Extended Coremix)
 
@@ -26,5 +26,5 @@ B. You And Me (All Night Long) (Techno Club Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m28685512577?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AJlmhPOb80E?si=WzQ3TJe2lKl7F-VP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

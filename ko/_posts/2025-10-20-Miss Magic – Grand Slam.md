@@ -11,15 +11,15 @@ tags:
 - Hard Trance
 - Hard House
 - 00s
-title: 미스 매직 – 그랜드 슬램
+title: Miss Magic – Grand Slam
 ---
 
 
-작곡가 겸 프로듀서는 Sponge로도 알려진 영국 드럼 앤 베이스 아티스트 James Hoyte와 1994년 명작 "The Crash"로 유명한 Pascal Redpath로 구성된 유닛인 The Full SP입니다.
+작곡 & 프로듀서는 1994년의 명곡 "The Crash"로 알려진 UK drum n bass 아티스트 Sponge, James Hoyte와 Pascal Redpath의 유닛 The Full SP.
 
-"Grand Slam"은 Chris Hampshire의 레이블 Interflow Sounds가 2000년에 발표한 Trance/Hard Trance/Hard House 노래입니다.
+「Grand Slam」은, Chris Hampshire 주재의 라벨 Interflow Sounds로부터 2000년에 릴리스된 Trance/Hard Trance/Hard House.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Grand Slam (Tuff Mix)
 

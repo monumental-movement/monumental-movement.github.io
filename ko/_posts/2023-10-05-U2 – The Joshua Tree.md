@@ -9,15 +9,15 @@ permalink: /ko/u2-the-joshua-tree/
 tags:
 - Rock
 - Pops
-title: U2 – 조슈아 트리
+title: U2 – The Joshua Tree
 ---
 
 
-'조슈아 트리'는 미국 남서부의 사막 지역인 조슈아 트리 국립공원에서 영감을 받아 탄생한 작품입니다. 이번 앨범은 종교적인 주제와 정치적인 메시지를 탐구하면서 U2만의 독특한 음악 스타일을 전개하고 있다. 록, 팝, 블루스, 포크의 요소를 융합한 이 곡은 서사적인 사운드스케이프와 감성적인 가사가 특징입니다.
+The Joshua Tree는 미국 남서부의 사막지대인 조슈아트리 국립공원에서 영감을 받아 제작되었습니다. 앨범은 종교적인 주제와 정치적 메시지를 탐구하면서도 U2 독자적인 음악 스타일을 전개하고 있습니다. 록, 팝, 블루스, 포크 등의 요소를 융합시켜 웅장한 사운드스케이프와 감성적인 가사가 특징입니다.
 
-앨범에는 히트곡 'With or Without You', 'I Still Haven't Found What I'm Looking For', 'Where the Streets Have No Name' 등의 히트곡이 수록됐다.
+앨범에는 대히트가 된 악곡 「With or Without You」 「I Still Haven't Found What I'm Looking For」 「Where the Streets Have No Name」등이 수록.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Where The Streets Have No Name
 
@@ -44,5 +44,5 @@ B6. The Mothers Of The Disappeared
 
 [メルカリで購入](https://jp.mercari.com/item/m90322062120?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e3-5YC_oHjE?si=y2qJQF5D3sZSunCi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,21 +9,21 @@ permalink: /ko/spiritualized-ladies-and-gentlemen-we-are-floating-in-space/
 tags:
 - Rock
 - Post Rock
-title: Spiritualized – 신사숙녀 여러분, 우리는 우주에 떠있습니다
+title: Spiritualized – Ladies And Gentlemen We Are Floating In Space
 ---
 
 
-"Spiritualized – Ladies And Gentlemen We Are Floating In Space"는 영국 록 밴드 Spiritualized의 앨범입니다.
+Spiritualized – Ladies And Gentlemen We Are Floating In Space는 영국의 록 밴드, Spiritualized(Spiritualized)의 앨범입니다.
 
-Spiritualized의 대표작으로 꼽히는 이번 앨범은 실험적인 사운드와 웅장한 편곡이 특징이다. 이 앨범은 록, 슈게이즈, 사이키델릭 록의 요소를 결합한 독특한 음악 스타일로 유명하다.
+이 앨범은 영적의 대표작으로 알려져 있으며 실험적인 사운드와 웅장한 배열이 특징입니다. 앨범은 록, 슈게이저, 사이키델릭 록과 같은 요소를 결합한 독특한 음악 스타일로 유명합니다.
 
-Spiritualized는 1990년 영국 Warwickshire의 Rugby에서 결성되었으며 핵심 멤버인 Jason Pearce를 제외하고 이 그룹은 항상 유동적인 지원을 받아왔습니다.
+영적은 1990년 영국 워윅셔 주 럭비에서 결성되었으며, 중앙 멤버인 제이슨 피어스를 제외하고는 항상 유동적인 지원 멤버로 구성되어 있습니다.
 
-1990년대 이후 얼터너티브 록과 인디 록에 큰 영향을 미친 밴드 중 하나로도 인정받고 있다.
+또한 90년대 이후의 대체 블록과 인디락에 큰 영향을 준 밴드 중 하나로 평가되고 있습니다.
 
-밴드 이름은 영화 2001: 스페이스 오디세이(2001: A Space Odyssey)에 등장하는 가상의 우주선 "Spiritualized"에서 유래되었으며, 제이슨 피어스는 Spacemen 3의 전 보컬리스트로도 알려져 있습니다.
+밴드명은 영화 '2001년 우주 여행'에 등장하는 가상의 우주선 '스피리츄어라이즈드호'에서 유래하고 있으며, 제이슨 피어스는 Spacemen 3(스페이스맨 3)의 전 보컬로도 알려져 있습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1.Ladies And Gentlemen We Are Floating In Space
 
@@ -56,5 +56,5 @@ Bonus Track For Japan
 
 [メルカリで購入](https://jp.mercari.com/item/m13540642583?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uWOdSeDzyy4?si=rcVxEw6vHed4noNk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

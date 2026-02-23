@@ -10,13 +10,13 @@ tags:
 - Soul
 - Funk
 - 7inch
-title: 바비 무어와 리듬 에이스 – 내 사랑을 찾아서
+title: Bobby Moore and The Rhythm Aces – Searching For My Love
 ---
 
 
-바비 무어(Bobby Moore)와 리듬 에이스(The Rhythm Aces Searching For My Love)는 1967년에 발매되었습니다.
+Bobby Moore and The Rhythm Aces (보비 무어 & 리듬 에이즈)는 Searching For My Love는 1967 년에 발표되었습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Searching For My Love
 
@@ -25,5 +25,5 @@ B. I Won't Cry
 
 [メルカリで購入](https://jp.mercari.com/item/m32317600071?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rKJsW6DRgeY?si=S_JLwSDB0onxsedN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

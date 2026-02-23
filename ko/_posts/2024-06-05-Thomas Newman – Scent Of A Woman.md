@@ -11,19 +11,19 @@ tags:
 - Movie
 - Film
 - 90s
-title: 토마스 뉴먼 – 여인의 향기
+title: Thomas Newman – Scent Of A Woman
 ---
 
 
-트랙 A1-A6, A8-A10, B1-B2 및 B4-B7은 미국 작곡가 Thomas Newman이 작곡했습니다. Thomas Newman은 The Shawshank Redemption, American Beauty, The Green Mile, Finding Nemo, Wall-E, Skyfall 및 Spectre를 포함한 수많은 영화의 음악을 만들었습니다.
+트럭 A1~A6, A8~A10, B1~B2, B4~B7은 미국 출신 작곡가 Thomas Newman(토마스 뉴먼)이 다루었다. 토마스 뉴먼은 '쇼샨크의 하늘', '아메리칸 뷰티', '그린마일', '파인딩 니모', '워리', '007 스카이폴', '007 스펙터' 등 수많은 영화 음악을 제작하고 있다.
 
-트랙 A7과 B3도 미국 밴드 The Tango Project의 곡입니다.
+트럭 A7, B3는 미국의 밴드 The Tango Project도 따릅니다.
 
-영화 '여인의 향기/꿈의 향기'
+영화 '세인트 오브 우먼/꿈의 향기'
 
-오리지널 사운드트랙 카세트 테이프
+오리지널 사운드 트랙 카세트 테이프
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1.  Main Title
 A2.  A Tour Of Pleasures
@@ -47,5 +47,5 @@ B7. End Title
 
 [メルカリで購入](https://jp.mercari.com/item/m80593383212?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/COQsa_u5nEg?si=fguM6L8R4SRjad1F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

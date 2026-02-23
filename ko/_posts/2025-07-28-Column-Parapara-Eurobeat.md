@@ -11,131 +11,141 @@ tags:
 - Eurobeat
 - 80s
 - 90s
-title: '[칼럼] 유로비트와 일본, 왜 이렇게 긴밀하게 연결되어 있을까?'
+title: '【칼럼】 유로 비트와 일본 : 왜 파라파라와 연결되어 있었는가?'
 ---
 
 
-## 기적의 만남 “유로비트x파라파라”
+## 기적의 邂逅 「유로 비트 × 파라파라」
 
-글 : mmr │ 주제 : 춤과 음악의 동시성
+문장 : mmr | 테마 : 댄스와 음악의 동기
 
-1990년대 일본 갸루 문화의 중심에는 '파라파라'라고 불리는 손 흔들기 춤이 있었습니다. 하나같이 퍼져나간 음악장르가 '유로비트'이다.
+1990년대 일본 걸 문화의 중심에 있던 것은 '파라파라'라는 손짓 춤이었다. 그 파라파라와 **일심 동체처럼 퍼진 음악 장르가 '유로 비트'**이다.
 
-유럽에서 태어나 아시아에서 독자적인 방식으로 진화한 유로비트가 일본의 파라파라 스타일과 깊은 연관을 맺게 된 이유는 무엇일까?
-음악적 특성뿐만 아니라 클럽 문화, 미디어 전략, 소비자 심리 등 다양한 요인이 복합적으로 작용했습니다.
+유럽에서 태어나 아시아에서 독자적인 진화를 이룬 유로비트가 왜 일본에서 파라파라라고 하는 스타일과 깊게 연결되어 있었는가?
+거기에는 음악적 특징뿐만 아니라 클럽 문화, 미디어 전략, 소비자 심리 등 다면적인 요인이 섞여 있었다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hoBatSC_2_A?si=enLmCPbL33iUcRs3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
-### 유로비트란 무엇인가요? ─ 이탈로 디스코의 진화
-유로비트는 1980년대 이탈리아에서 탄생한 'Italo Disco'에 뿌리를 두고 있다. 높은 에너지(Hi-NRG) 요소를 추가하면 템포가 눈길을 끄는 신디사이저 사운드로 변경됩니다.
+### 유로 비트란 무엇입니까? ──Italo Disco의 진화형
+유로 비트는 1980년대 이탈리아에서 태어난 "Italo Disco"가 뿌리. 거기에 하이에너지(Hi-NRG)의 요소가 더해져, 템포가 빠르고, 신디 주도의 캐치인 사운드로 변화.
 
 ● 주요 음악적 특징
 
-- **BPM**: 140-160 및 매우 빠름
+- **BPM**: 140~160으로 매우 빠름
 
-- **구조**: 명확한 코러스, 빈번한 후렴 사용
+-**구조**: 명쾌한 녹, 리프레인의 다용도
 
-- **리듬**: 4/4 드럼 + 박수
+- **리듬**: 4타격의 드럼+핸드 크랩
 
-- **멜로디**: 밝고 드라마틱하며 우울함
+- **멜로디**: 밝고 드라마틱하며 애수 있음
 
-이 구조는 같은 패턴을 반복하는 파라파라 댄스와 완벽하게 어울렸다.
+이 구조는 동일한 패턴을 반복하는 파라 파라 댄스와 매우 일치했습니다.
 
 
 <hr>
 
-### 파라파라란 무엇인가요? ──획일적인 반복의 즐거움
-● 파라파라의 유래
+### 파라파라란 무엇인가? ── 균일한 반복의 쾌락
+● 파라파라의 기원
 
-- 1980년대 후반 도쿄 롯폰기와 시부야의 디스코장(Maharaja, Juliana Tokyo 등)에서 발생
+- 1980년대 말 도쿄 롯폰기와 시부야 디스코(마하라자, 줄리아나 도쿄 등)에서 발생
 
-- 위, 아래, 왼쪽, 오른쪽 손의 섬세한 움직임이 어우러진 군무
+- 상하좌우의 손 흔들림을 세세하게 모은 집단댄스
 
-- **개성보다는 '단결'을 강조하는 동작** : 사교댄스보다는 '팀'에 가깝다
+- ** 움직임은 개인보다 '통일성'을 중시** : 소셜 댄스보다 '팀'에 가깝다
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/37UMdWc5F20?si=AzRTZJA5M-OJE7PP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-● 왜 유로화와 일치했나요?
+● 왜 유로와 맞는가?
 
-- 빠른 템포 → 손짓과 리듬의 동기화가 용이함
+- 고속 템포 → 손떨림과 리듬이 싱크로하기 쉽다
 
-- 명확한 멜로디/코러스 구조 → 댄스 “안무”를 쉽게 만들 수 있음
+- 명확한 A멜로・녹 구성 → 댄스의 “안무”가 만들기 쉽다
 
-- 드라마틱한 곡 전개 → 스윙의 클라이막스와 일치
-
-
-<hr>
-
-### Avex의 전략: Eurobeat = 일본 전용 형식
-
-● “SUPER EUROBEAT” 시리즈 탄생(1990년~)
-
-- 이탈리아에서 제작되어 일본 시장 전용으로 편집 시리즈
-
-- 파라파라 플로어와 CD숍을 연결하는 “연동 상품”
-
-- 안무 설명은 자켓과 책자에 게재됩니다.
-
-● 전용 Eurobeat 레이블로 서명됨
-
-Time, A-Beat C, Delta와 같은 이탈리아 레이블은 특히 일본 시장을 위한 음악을 제작하기 위해 avex와 독점 계약을 체결했습니다.
-
-이로써 일본 특유의 '유로비트 시장'이 형성되고 점차 통합됐다.
+- 드라마틱한 노래 전개 → 흔들리는 곳과 합치
 
 
 <hr>
 
-### 갸루 문화와 카리스마: 소비되는 춤
-● '파라파라=걸 문화의 상징'으로
+### avex 전략 : 유로 비트 = 일본 전용 형식으로
 
-- 시부야 109 패션과 밀접한 관련
+● 「SUPER EUROBEAT」시리즈의 탄생(1990년~)
 
-- 안무영상 배포 (VHS, 이후 DVD)
+- 이탈리아 제작, 일본 시장 전용 컴필레이션 시리즈
 
-- “파라파라 파라다이스”, “파라파라쿄넨” 등의 시리즈도 등장
+- 파라파라 플로어와 CD숍을 연결하는 "연동 상품"
 
-● 미디어 제작
+지켓과 소책자에 안무 해설이 게재됩니다.
 
-- '갈 카리스마'는 TV 프로그램과 잡지에서 안무를 소개합니다.
+● 유로 비트 전용 라벨과 계약
 
-- 사실상 Eurobeat가 10대 트렌드로 주류가 됨
+Time, A-Beat C, Delta 등 이탈리아의 라벨이 avex와 전속 계약해 일본 시장 전용으로 특화한 악곡 제작을 실시한다.
 
-- “기억 = 참여의 의식” 및 동료 압력과 화합의 문화 조성
+이와 같이 일본 독자적인 '유로비트 시장'이 형성되어 파라파라와 일체화해 갔다.
+
+
+<hr>
+
+### 걸 문화와 카리스마 : 소비되는 댄스
+● 「파라파라=걸 문화의 상징」에
+
+- 시부야 109계 패션과 밀접하게 연동
+
+- 안무영상(VHS, 나중에 DVD) 유통
+
+- '파라파라파라다이스' '파라파라파라다이스' 등의 시리즈도 등장
+
+● 미디어 연출
+
+- TV 프로그램이나 잡지에서 "걸 카리스마"가 안무를 소개
+
+- 사실, 유로 비트는 십대 트렌드로 메인 스트림에
+
+- '추억하는 것=참가의의식'이 되어 동조압력과 일체감의 문화를 형성
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ca5fJzd68Go?si=e2RfDLjvwwv52KGZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
-### 파라파라와 인터넷 문화의 부흥
-● 2000년대 중반 이후 : 붐의 종말과 지하화
+### 파라파라 재흥과 그물 문화
+● 2000년대 중반 이후: 붐의 종말과 지하화
 
-- 갸루 문화의 변화, 휴대폰과 인터넷으로의 전환
+- 걸 문화의 변화, 휴대·넷으로의 이행
 
-- 일부 클럽에서는 '부흥 이벤트' 계속
+- 일부 클럽에서는 '리바이벌 이벤트'가 계속
 
-● 유튜브 세대의 'Wake-up'
+● YouTube 세대의 “진행”
 
-- 과거 안무 영상과 노래가 온라인에 공유되면서 현지에서 2차 파라파라 붐이 일고 있다.
+- 과거 안무 동영상과 노래가 인터넷에서 공유됨으로써 2차 파라파라붐이 국지적으로 발생
 
--해외 팬들이 재발견해 마치 역수입한 것처럼 칭찬을 받는 현상도 있다.
+- 해외 팬들이 재발견, 역수입적으로 평가되는 현상도
 
 
 <hr>
 
-### Euro와 Parapara가 공모했습니다.
-유로비트와 파라파라는 단순히 음악과 춤의 결합이 아닙니다.
-**그들은 '반복성', '명확한 구조', '집단성', '극적 표현'과 같은 공통된 문화 코드로 강력하게 연결되었습니다.**
+### 유로와 파라 파라는 공범 관계였습니다.
+유로 비트와 파라 파라는 단순한 음악과 춤의 조합이 아닙니다.
+** '반복성' '명확한 구조' '집단성' '드라마틱한 연출' ** 등 공통적인 문화적 코드에 의해 강하게 연결되어 있었다.
 
-'음악이 몸을 통해 문화가 되는' 현상을 보여주는 완벽한 예였다.
+그것은 바로 “음악이 신체를 통해 문화가 되는” 현상의 하나의 전형이었다.
 
 ---
 
-### 관련 항목
+
+### YouTube Podcast
+
+※이 Podcast는 영어입니다만, 자동 자막・번역으로 시청할 수 있습니다
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FursnFFzEgM?si=ShzerdYquUp1po3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+### 관련 열
 
  [【コラム】 頭文字Dとユーロビートの文化的関係](https://monumental-movement.jp/Column-InitialD-Eurobeat)
 
 [【コラム】 頭文字Dと音楽が交差したスピードの記憶](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
+

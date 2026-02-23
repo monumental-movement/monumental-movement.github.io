@@ -9,18 +9,18 @@ permalink: /ko/nomad-i-wanna-give-you-devotion/
 tags:
 - House
 - 90s
-title: Nomad – (I Wanna Give You) 헌신
+title: Nomad – (I Wanna Give You) Devotion
 ---
 
 
-Nomad는 90년대 영국의 하우스 듀오입니다.
+Nomad는 90년대를 대표하는 UK House duo.
 
-1991년 캐피톨 레코드가 발표한 '(I Wanna Give You) Devotion'은 세계적인 히트를 기록한 노마드의 시그니처 곡이다. 90년대 댄스음악의 명가 중 하나로 꼽히며, 영국의 유명 프로듀서 스티브 맥(Steve Mac)의 첫 작곡으로도 알려져 있다.
+1991년에 Capitol Records에서 발표된 「(I Wanna Give You) Devotion」은, 세계적으로 히트한 Nomad의 대표곡. 90s 댄스 뮤직의 안셈의 하나로 여겨져 UK의 유명 프로듀서 Steve Mac의 첫 작곡 작품으로도 알려져 있다.
 
-B1은 영국의 유명 DJ Dave Lee(Joey Negro)의 리믹스입니다.
-B2는 초기 영국 하우스에 영향을 준 하우스 DJ이자 라디오 DJ인 Paul Anderson의 리믹스입니다.
+B1은, UK의 대고소 DJ Dave Lee(Joey Negro)에 의한 remix.
+B2는 초기 UK 하우스에 영향을 준 House DJ&Radio DJ Paul Anderson의 remix.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. (I Wanna Give You) Devotion (Original Mix)
 A2. (I Wanna Give You) Devotion (Soul Mix)
@@ -31,5 +31,5 @@ B2. (I Wanna Give You) Devotion (Trouble's Underground Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m63587179316?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GAZzZ4gbyug?si=j-SJbRonTPre_lqK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

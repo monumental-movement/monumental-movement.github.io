@@ -9,15 +9,15 @@ permalink: /ko/led-zeppelin-led-zeppelin-ii/
 tags:
 - Rock
 - Hard Rock
-title: 레드 제플린 - 레드 제플린 II
+title: Led Zeppelin – Led Zeppelin II
 ---
 
 
-'Led Zeppelin II'는 밴드 사운드를 한층 더 발전시킨 곡으로, 강렬하고 에너지 넘치는 곡을 담고 있다. 앨범에는 지미 페이지의 기타 리프, 로버트 플랜트의 보컬, 존 본햄의 드럼, 존 폴 존스의 베이스 등 멤버 각자의 재능이 돋보이는 퍼포먼스가 담겨 있다.
+「Led Zeppelin II」는, 밴드의 사운드를 한층 더 진화시킨 작품으로, 하드로 활기찬 악곡이 수록되어 있습니다. 앨범은 지미 페이지(Jimmy Page)의 기타 리프, 로버트 플랜트(Robert Plant)의 보컬, 존 보넘(John Bonham)의 드럼, 존 폴 존스(John Paul Jones)의 베이스 등 멤버 각각의 재능이 빛나는 연주로 구성되어 있습니다.
 
-앨범에는 'Whole Lotta Love', 'Heartbreaker', 'Ramble On' 등 다수의 히트곡이 수록됐다. 이 곡들은 파워풀한 기타 리프와 플랜트의 압도적인 보컬 퍼포먼스가 돋보이는 레드 제플린의 시그니처 사운드를 대표하는 곡이다.
+앨범에는 많은 히트곡이 포함되어 있으며, 'Whole Lotta Love', 'Heartbreaker', 'Ramble On' 등이 특히 알려져 있습니다. 이 노래는 레드 제펠린의 시그니처 사운드를 상징하는 것으로, 강력한 기타 리프와 플랜트의 압도적인 보컬 퍼포먼스가 특징입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Whole Lotta Love
 
@@ -40,5 +40,5 @@ B5. Bring It On Home
 
 [メルカリで購入](https://jp.mercari.com/item/m17507286292?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W2bxOJX-E3M?si=M6YK6py45hbfKlGz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

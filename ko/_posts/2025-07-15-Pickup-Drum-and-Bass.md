@@ -9,19 +9,19 @@ permalink: /ko/pickup-drum-and-bass/
 tags:
 - Drum n Bass
 - Jungle
-title: 드럼 및 베이스 작품 픽업
+title: 드럼 베이스 작품을 픽업
 ---
 
 
-'날카로운 비트와 묵직한 베이스 라인으로 바닥을 뒤흔드는 드럼과 베이스의 놀라운 그룹''
+「예리한 비트와 중후한 베이스 라인으로 플로어를 흔드는, 주목해야 할 드럼 베이스 작품군」
 
 <hr>
 
-### Aquasky – 나일론 로드스터 / 우주 접착제
+### Aquasky – Nylon Roadster / Cosmic Glue
 <a href="https://jp.mercari.com/item/m84434801659?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Nylon%20Roadster%20Cosmic%20Glue.webp"></a>
-1996-97년경의 부드럽고 감성적인 피아노가 특징인 12인치 브레이크비트 트랙입니다.
+1996-97년경 부드럽고 감동적인 피아노를 갖춘 브레이크 비트 트랙의 12″.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 X. Nylon Roadster
 
@@ -32,17 +32,17 @@ Y. Cosmic Glue
 [メルカリで購入](https://jp.mercari.com/item/m84434801659?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I-__29FDWnA?si=eN1H0egbHyi3sWoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
-### Aquasky – 평온 / 카우나
+### Aquasky – Tranquility / Kauna
 <a href="https://jp.mercari.com/item/m94343829211?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Tranquility%20Kauna.webp"></a>
 
-1996년 영국 Moving Shadow가 발매한 감성애시드와 브레이크비트.
+1996년 UK·Moving Shadow 릴리스의 에모인 애시드＆브레이크 비트.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 X. Nylon Roadster
 
@@ -53,18 +53,18 @@ Y. Cosmic Glue
 [メルカリで購入](https://jp.mercari.com/item/m94343829211?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hktfKPIbH70?si=EA649XFpLE7q3b24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
 
-### Dillinja – 유동적 / 하드 노이즈
+### Dillinja – Fluid / Hard Noize
 <a href="https://jp.mercari.com/item/m77354316625?afid=6142608987"><img src="../assets/images/Dillinja%20%E2%80%93%20Fluid%20Hard%20Noize.webp"></a>
 
-강력한 "Reese" 베이스가 포함된 12인치 클래식 언더그라운드 드럼 및 베이스 트랙입니다.
+박력의 "Reese"베이스가 울리는, 앵글라 드럼 베이스 스테디셀러 트랙의 12 ".
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Hard Noize
 
@@ -75,17 +75,17 @@ AA. Fluid
 [メルカリで購入](https://jp.mercari.com/item/m77354316625?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MGUoyksjgeo?si=596lzo53oMSMuLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
-### 모티브원 – 코스믹 / 루프 프로그레션
+### Motiv One – Cosmik / Loop Progression
 <a href="https://jp.mercari.com/item/m37201781569?afid=6142608987"><img src="../assets/images/Motiv%20One%20%E2%80%93%20Cosmik%20%20Loop%20Progression.webp"></a>
 
-Amen Break를 중심으로 가볍고 재즈적이며 미래적인 사운드를 담고 있습니다.
+경쾌하고 재지, 아멘 브레이크 주체의 미래적인 사운드를 수록.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Cosmik
 
@@ -96,18 +96,18 @@ AA. Loop Progression
 [メルカリで購入](https://jp.mercari.com/item/m37201781569?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v0rLMTltBc4?si=yDrVILpdJTXNGYJq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
-### Drumagick – Cambraia / 브라질
+### Drumagick – Cambraia / Brasil
 
 <a href="https://jp.mercari.com/item/m42086405804?afid=6142608987"><img src="../assets/images/Drumagick%20%E2%80%93%20Cambraia.webp"></a>
 
-2000년대 12″로 브라질의 라틴과 재즈적 요소가 혼합된 비트가 특징이다.
+브라질의 라틴 & 재즈 요소를 믹스한 비트가 특징적인 2000년대의 12″.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Cambraia
 
@@ -118,18 +118,18 @@ B. Brasil
 [メルカリで購入](https://jp.mercari.com/item/m42086405804?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d1PQ3tpTTtI?si=cyUR6jo8sAVgV3LC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
-### Aaron Specter – 아멘, 펑크
+### Aaron Spectre – Amen, Punk
 
 <a href="https://jp.mercari.com/item/m37597646129?afid=6142608987"><img src="../assets/images/Aaron%20Spectre%20%E2%80%93%20Amen,%20Punk.webp"></a>
 
-펑크/하드코어의 강렬한 엣지를 담아낸 독특한 아멘 브레이크 기반 앨범(2023).
+펑크/하드 코어의 격렬한 엣지를 반입한, 아멘 브레이크 주체의 독특한 한 장(2023년).
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. 1600 Penn, FTW
 
@@ -141,17 +141,17 @@ B2. You Don't Know
 [メルカリで購入](https://jp.mercari.com/item/m37597646129?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W0BRmZ-Bom8?si=fxjs9-XPDNQ4UwBT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
-### DJ Gilb‑R – 압박감
+### DJ Gilb-R – Pressure
 <a href="https://jp.mercari.com/item/m48438741904?afid=6142608987"><img src="../assets/images/DJ%20Gilb-R%20%E2%80%93%20Pressure.webp"></a>
 
-1997년 프랑스에서 출시되었습니다. Laurent Garnier 리믹스도 포함되어 있습니다.
+1997년 프랑스 출시. Laurent Garnier 리믹스도 수록.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Pressure (Original Mix)
 
@@ -164,12 +164,12 @@ Remix, Producer – Laurent Garnier(ローラン・ガルニエ)
 [メルカリで購入](https://jp.mercari.com/item/m48438741904?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1_ExUMI86Yw?si=p7zunjsO-_yxtC68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
-### 목록
+### List
 
 <div class="table-border">
 <table>

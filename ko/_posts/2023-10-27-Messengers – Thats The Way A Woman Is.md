@@ -10,14 +10,14 @@ tags:
 - Rock
 - Pops
 - 7inch
-title: 메신저 - 그게 여자의 모습이야
+title: Messengers – That's The Way A Woman Is
 ---
 
 
-메신저스(Messengers)는 1962년부터 1972년까지 활동한 미국의 팝 록 밴드이다. That's The Way A Woman Is는 1971년 발표된 메신저스의 대표곡이다.
+Messengers(메신저스)는 1962년부터 1972년에 걸쳐 활동한 US팝 락 밴드. 신경이 쓰이는 소녀(That's The Way A Woman Is)는 1971년에 발표된 Messengers의 대표곡.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. That's The Way A Woman Is (気になる女の子)
 
@@ -26,5 +26,5 @@ B. The Letter (あの娘のレター)
 
 [メルカリで購入](https://jp.mercari.com/item/m10066256629?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2midSRBfkWM?si=1H76xP5LVzXbcZgT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

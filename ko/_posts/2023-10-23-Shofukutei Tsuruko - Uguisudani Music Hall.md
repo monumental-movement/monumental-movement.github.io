@@ -10,15 +10,15 @@ tags:
 - Comic
 - Parody
 - 7inch
-title: 쇼후쿠테이 츠루코 - 우구이스다니 음악당
+title: Shofukutei Tsuruko - Uguisudani Music Hall
 ---
 
 
-우구이스다니 뮤직홀(Uguisudani Music Hall)'은 1975년 5월 쇼후테이 츠루미츠가 발매한 만화곡이다.
+‘우구이스다에 뮤직홀’은 웃음정정 츠루미츠가 1975년 5월에 발매한 코믹송.
 
-작사, 작곡, 편곡 - 야마모토 마사유키
+작사·작곡·편곡 - 야마모토 마사유키
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. うぐいすだにミュージックホール
 
@@ -27,5 +27,5 @@ B. ももえちゃん
 
 [メルカリで購入](https://jp.mercari.com/item/m92548718770?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rIY6pajpd70?si=LdF0932ixHxFOtbq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

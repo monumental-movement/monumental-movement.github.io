@@ -9,17 +9,17 @@ permalink: /ko/various-dance-panic/
 tags:
 - House
 - Rare
-title: 다양한 – 댄스 패닉
+title: Various – Dance Panic
 ---
 
 
-Scorccio(Mark Summers)와 Jay Williams는 영국 가수 Billie Godfrey의 넘버원을 리믹스합니다.
+UK의 가수 Billie Godfrey(빌리 고드프리)의 Number One을 Scorccio(Mark Summers)와 Jay Williams가 remix.
 
-DJ Visage는 덴마크 DJ Martin Sig가 주도하고 오스트리아 출신 Norbert Reichart가 프로듀싱한 트랜스 프로젝트입니다.
+DJ Visage는 덴마크인 DJ Martin Sig가 프런트를 맡고 오스트리아인 Norbert Reichart가 프로듀스하는 트랜스 프로젝트.
 
-Airplay는 Danny Corten과 Eddy Weyns로 구성된 일렉트로닉 트랜스 듀오입니다.
+Airplay는 Danny Corten과 Eddy Weyns의 일렉트로닉 트랜스듀오.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Billie Godfrey–Number One (Scorccio Remix)
 

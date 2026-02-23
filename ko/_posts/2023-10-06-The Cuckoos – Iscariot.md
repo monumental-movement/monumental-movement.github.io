@@ -9,15 +9,15 @@ permalink: /ko/the-cuckoos-iscariot/
 tags:
 - Rock
 - Indie Rock
-title: 뻐꾸기 - 가룟인
+title: The Cuckoos – Iscariot
 ---
 
 
-"가룟인"은
-영국 레이블 "Imaginary Records"가 1992년에 발매한 The Cuckoos의 EP입니다.
+"Iscariot"는
+1992년에 UK의 라벨 「Imaginary Records」로부터 발매된 The Cuckoos에 의한 EP입니다.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Iscariot
 
@@ -28,5 +28,5 @@ B2. Down To The River
 
 [メルカリで購入](https://jp.mercari.com/item/m24001796450?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4a2dVPDXxrU?si=V-vjj8AsXHS0xy-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

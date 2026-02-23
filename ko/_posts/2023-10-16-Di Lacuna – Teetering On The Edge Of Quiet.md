@@ -9,15 +9,15 @@ permalink: /ko/di-lacuna-teetering-on-the-edge-of-quiet/
 tags:
 - Rock
 - Post Rock
-title: Di Lacuna – 조용함의 가장자리에서 비틀거리며
+title: Di Lacuna – Teetering On The Edge Of Quiet
 ---
 
 
-Di Lacuna는 John Sephton, Lee Newell, Paul Hemmingfield가 1998년에 결성한 포스트 록 밴드입니다. 멤버 리 뉴웰은 2007년부터 네피림의 들판에서 드럼을 연주해왔습니다.
+Di Lacuna는 John Sephton, Lee Newell, Paul Hemmingfield에 의해 1998년에 결성된 포스트 록 밴드. 멤버 Lee Newell은 2007년부터 Fields of the Nephilim(필즈 오브 더 네필림)에서 드럼을 담당하고 있다.
 
-"Teetering On The Edge Of Quiet...."는 1999년 영국 브라이튼에 본사를 둔 일렉트로니카 노이즈 포스트 록 레이블인 FatCat Records에 의해 발매되었습니다.
+'Teetering On The Edge Of Quiet....'은 UK 브라이튼을 거점으로 하는 일렉트로니카 노이즈 포스트록 라벨 FatCat Records보다 1999년에 발매되었다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Brand New Low
 

@@ -10,14 +10,14 @@ tags:
 - JPop
 - Nostalgic
 - 7inch
-title: 다운 타운 부기우기 밴드 - 스모킹 부기
+title: Down Town Boogie Woogie Band - Smoking Boogie
 ---
 
 
-'스모킹부기'는
-1974년 12월 EXPRESS 레이블에서 발매된 Down Town Boogie Woogie Band의 세 번째 싱글입니다.
+「Smoking Boogie(스모킨 부기)」는,
+1974년 12월 라벨 EXPRESS에서 발매된 다운타운 부기우기 밴드의 3번째 싱글곡.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. スモーキン・ブギ
 
@@ -32,5 +32,5 @@ B. 恋のかけら
 
 [メルカリで購入](https://jp.mercari.com/item/m85943050380?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qyu2sNF-hSE?si=DQsV5R2D_uBdaiG5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -8,13 +8,13 @@ layout: post
 permalink: /ko/kagami-guardians-hammer/
 tags:
 - Techno
-title: 카가미 – 가디언즈 해머
+title: Kagami – Guardians Hammer
 ---
 
 
-"Kagami – Guardians Hammer"는 2008년 테크노/디스코/하우스 레이블 Carizma에서 발매되었습니다.
+"Kagami - Guardians Hammer"는 테크노 / 디스코 / 하우스 라벨 Carizma에서 2008 년에 출시되었습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Guardians Hammer
 

@@ -9,19 +9,19 @@ permalink: /ko/dj-breeze-jump-a-little-higher/
 tags:
 - Happy Hardcore
 - Hardcore
-title: DJ 브리즈(DJ Breeze) – 조금 더 높이 점프(Jump A Little Higher)
+title: DJ Breeze – Jump A Little Higher
 ---
 
 
-DJ 브리즈(Mark Breeze)는 1990년대와 2000년대 영국 댄스음악계에서 인기를 끌었던 DJ이자 프로듀서였다. 해피 하드코어와 하드코어 브레이크비트 스타일을 전문으로 하는 그는 수많은 클럽 히트곡을 탄생시켰습니다.
+DJ Breeze(Mark Breeze/마크 브리즈)는, 1990년대부터 2000년대에 걸쳐, 영국의 댄스·뮤직 씬으로 인기를 얻은 DJ와 프로듀서. 해피 하드 코어와 하드 코어 브레이크 비트의 스타일을 자랑으로 많은 클럽 히트를 낳았다.
 
-'Jump A Little Higher'는 경쾌한 멜로디와 에너제틱한 비트가 특징으로, 하드코어 장면과 레이브 장면에서 자주 연주되는 곡이다.
+"Jump A Little Higher"는 업 리프팅 멜로디와 활기찬 비트가 특징으로 하드 코어 장면과 Rave에서 자주 플레이 된 트랙.
 
-Side A는 영국 DJ Brisk의 리믹스입니다.
+A면은 영국의 DJ Brisk(DJ브리스크)에 의한 remix.
 
-"Jump A Little Higher"는 Poor Pocket Productions의 "Kick Your Legs In The Air"의 보컬과 Peech Boys의 "Don't Make Me Wait (Special Version)"의 음향 효과를 샘플링합니다.
+「Jump A Little Higher」는, 보컬을 Poor Pocket Productions 「Kick Your Legs In The Air」로부터, 사운드 이펙트를 Peech Boys 「Don't Make Me Wait (Special Version)」로부터 샘플링.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 a. Jump A Little Higher (Brisk Remix)
 
@@ -30,5 +30,5 @@ b. Jump A Little Higher
 
 [メルカリで購入](https://jp.mercari.com/item/m45158763223?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8sg_0YcY0vI?si=7cAyxLrj55UnDDN_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

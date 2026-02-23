@@ -10,15 +10,15 @@ tags:
 - House
 - Deep House
 - 90s
-title: Atmosfear – 동기 부여(파리 리믹스의 Dimitri)
+title: Atmosfear – Motivation (Dimitri From Paris Remixes)
 ---
 
 
-프랑스 하우스 전문가 Dimitri From Paris가 1978년 영국에서 결성한 재즈 펑크/브릿 펑크 밴드인 Atmosfear의 Motivation 리믹스입니다.
+1978년에 영국에서 결성된 재즈펑크/브릿펑크 밴드 Atmosfear(아토모스피아)의 Motivation을 프렌치 하우스의 1인자 Dimitri From Paris(디미트리프롬 파리)가 remix.
 
-"Motivation (Dimitri From Paris Remixes)"는 1998년 영국 레이블 Disorient에 의해 발매되었습니다.
+이 "Motivation (Dimitri From Paris Remixes)"는 UK의 레이블 Disorient에서 1998 년에 출시되었습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Motivation (Motivated Respect)
 
@@ -31,5 +31,5 @@ B2. Motivation (Elektro Phunks Revenge)
 
 [メルカリで購入](https://jp.mercari.com/item/m66379112191?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bver9exs4HE?si=F_bgJMK7-XGydoKO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

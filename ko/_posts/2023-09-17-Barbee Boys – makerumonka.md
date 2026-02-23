@@ -10,19 +10,19 @@ tags:
 - JPop
 - 80s
 - Rock
-title: 바비 보이즈 – 난 지지 않을 거야.
+title: Barbee Boys – 지는 걸까
 ---
 
 
-"Barbee Boys - Loser Monka"는 일본 록 밴드 바비 보이즈의 노래입니다. '예루몬카'는 신나는 기타 리프와 파워풀한 보컬, 캐치한 멜로디, 파워풀하고 에너제틱한 록 사운드가 돋보이는 곡이다.
+「Barbee Boys - 지는 걸까」는, 일본의 록 밴드인 Barbee Boys(바비 보이즈)에 의한 악곡입니다. 「지는 건가」는, 상쾌한 기타 리프, 파워풀한 보컬, 그리고 캐치인 멜로디, 강력하고 활기찬 락 사운드가 특징의 곡입니다.
 
-가사에는 자신의 신념을 고수하는 힘과 어려움에 맞서는 용기에 대한 긍정적인 메시지가 담겨 있다.
+가사는 자신의 신념을 관철하는 힘과 어려움에 맞서는 용기를 주제로 하고 긍정적인 메시지가 담겨 있습니다.
 
-바비 보이즈(Barbee Boys)는 1980~90년대 활동하며 독특한 음악 스타일과 퍼포먼스로 인기를 얻은 밴드이다.
+Barbee Boys는 1980년대부터 1990년대까지 활동한 밴드로, 개성적인 음악 스타일과 퍼포먼스로 인기를 얻었습니다.
 
-이들의 노래는 듣는 이들에게 에너지와 용기를 주는 힘이 있으며, 긍정적인 메시지를 전하며 팬들의 지지를 얻고 있다.
+그들의 곡은 청취자에게 에너지와 용기를 주는 힘을 가지고 있으며, 긍정적인 메시지를 전달함으로써 팬들의 지지를 모았습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. 負けるもんか
 
@@ -33,5 +33,5 @@ B2. 翔んでみせろ(ライブ)
 
 [メルカリで購入](https://jp.mercari.com/item/m78740363521?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HSOtHokZrEc?si=WyL1Wqg5Bem2WJCR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

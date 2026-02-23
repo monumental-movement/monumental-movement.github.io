@@ -10,19 +10,19 @@ tags:
 - Breakbeat
 - Downtempo
 - Big Beat
-title: 스테레오 디럭스 – 소울 소스
+title: Stereo De Luxe – Soul Sauce
 ---
 
 
-Stereo de Luxe는 베를린 출신의 DJ/프로듀서 듀오입니다.
+Stereo de Luxe는 베를린 출신의 DJ 프로듀서 듀오.
 
-원래 1994년에 Stereo de Luxe라는 예명으로 솔로 DJ인 Karsten "Kassi" Wolf가 창립한 이 밴드는 베를린의 라운지, 이지 리스닝 및 클럽 팝 현장에서 활동했습니다.
+원래는 1994년에 Stereo de Luxe라고 하는 예명으로 솔로 DJ로서 활동하고 있던 Karsten "Kassi" Wolf에 의해 설립되어, 베를린의 라운지, 이지 리스닝, 클럽 팝 씬으로 활약했다.
 
-1998년 Thomas Mävers와 듀오를 결성했습니다. 음악 스타일은 브레이크비트, 하우스, 일렉트로 펑크로 전환되었습니다. 듀오로서의 첫 번째 EP인 "Aerocyclette 1999"는 Bungalow Records라는 레이블로 발매되었습니다.
+1998년에 Thomas Mävers와 듀오를 결성. 음악 스타일이 브레이크 비트, 하우스, 일렉트로펑크로 시프트했다. 듀오로서의 퍼스트 EP 「Aerocyclette 1999」는 라벨 Bungalow Records로부터 릴리스 되었다.
 
-"Soul Sauce"는 Bungalow Records가 2000년에 발표한 브레이크비트 다운템포 빅비트 트랙입니다.
+"Soul Sauce"는 마찬가지로 Bungalow Records에서 2000 년에 릴리스 된 브레이크 비트 다운 템포 빅 비트 트랙.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Soul Sauce
 
@@ -35,5 +35,5 @@ Featuring – MC Olli Goolightly As The Riddler
 
 [メルカリで購入](https://jp.mercari.com/item/m41584362364?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i1RR94rXJKQ?si=Yap0qzSOM2p9zJdW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

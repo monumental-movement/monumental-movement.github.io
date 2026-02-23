@@ -10,15 +10,15 @@ tags:
 - Progressive House
 - Speed Garage
 - 90s
-title: 정전 – 희망을 가져야 해
+title: Blackout – Gotta Have Hope
 ---
 
 
-호주 프로그레시브 하우스/영국 차고법.
+호주 프로그레시브 House / UK Garage 액트.
 
-"Gotta Have Hope"는 영국 DJ/프로듀서 듀오 Dillon & Dickins의 레이블 99 North에서 1997년에 발표한 프로그레시브 하우스/Speed ​​​​Garage 트랙입니다.
+「Gotta Have Hope」는, 1997년에 영국의 DJ/프로듀서듀오Dillon & Dickins 주재의 라벨 99 North로부터 릴리스된 Progressive House/Speed ​​Garage 트랙.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Gotta Have Hope (Dillon & Dickins Funk 2001 Mix)
 
@@ -28,5 +28,5 @@ B2. Gotta Have Hope (Spacebase Millennium Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m27830083818?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/krJ_KfFzojc?si=btXzON-4QrhCMwGW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

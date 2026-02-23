@@ -11,18 +11,18 @@ tags:
 - Hiphop
 - Vaportrap
 - Cloudrap
-title: '[칼럼] Vaportrap/Cloud Rap의 역사와 발전'
+title: 【칼럼】 Vaportrap / Cloud Rap의 역사와 심화
 ---
 
 
 
-## 프롤로그: <클라우드 랩>이란?
+## 서장：<구름계 랩>이란 무엇인가
 
-글 : mmr｜주제 : 로파이힙합(Lo-Fi Hip Hop)과 교차하는 클라우드 랩의 계보에 대하여
+문장：mmr｜테마：Lo-Fi HipHop과 교차하는 <구름계 랩>의 계보에 대해서
 
-Cloud Rap은 2010년경에 생겨난 Bay Area와 미국 Internet Underground를 중심으로 포스트 베이퍼웨이브 서브컬쳐 미학과 Chopped & Screwed, Lo-Fi Hip-Hop, 모던 이모 랩 등을 연결하면서 발전했습니다. 특히 **Lil B**, **Clams Casino** 및 **Main Attrakionz**의 활동은 초기를 상징하며 나중에 **Lil Peep**, **XXXTENTACION**, **Bones** 및 **Yung Lean**으로 이어지는 계보의 기반을 형성했습니다.
+Cloud Rap은 2010년 전후, Bay Area와 U.S. Internet Underground를 중심으로 일어나 Vaporwave 이후의 서브컬쳐 미학, Chopped & Screwed, Lo-Fi HipHop, 현대 에모랩에 접속하면서 발전했다. 특히 **Lil B**, **Clams Casino**, **Main Attrakionz**의 활동은 여명기를 상징하여 후년의 **Lil Peep**, **XXXTENTACION**, **Bones**, **Yung Lean** 등으로 이어지는 계보의 기초를 형성했다.
 
-Cloud Rap은 기존 힙합보다 훨씬 더 주변 지향적인 사운드, 강력한 리버브가 포함된 보컬 처리, 공간 FX가 포함된 몽환적인 질감을 특징으로 하며 나중에 전자 음악과 Vaporwave와 같은 밈 문화를 흡수하는 Vaportrap으로 진화했습니다.
+Cloud Rap은 종래의 HipHop보다 훨씬 **앰비언트 지향의 사운드, 리버브의 강한 보컬 처리, 공간계 FX를 수반하는 드림미인 질감**을 특징으로 하고, 그 후의 Vaportrap로 발전할 때에, 전자 음악이나 Vaporwave적인 밈 문화를 흡수해 갔다.
 
 
 ---
@@ -41,79 +41,79 @@ color: #fff;
 </style>
 
 
-## I. 클라우드 랩(2000~2008) 이전 준비 단계
+## I. 클라우드 랩 이전의 포석(2000–2008)
 
-### ● 인터넷에서 본 힙합과 믹스테이프 문화
+### ● 인터넷에서 힙합과 믹스 테이프 문화
 
-2000년대 후반에는 MySpace와 DatPiff가 인터넷 유통의 믹스테이프 문화를 확장하여 지리적 제약 없이 협업이 가능해졌습니다. 이것이 클라우드 랩의 '지리로부터의 해방'을 낳은 토양이 되었다.
+2000년대 후반, MySpace나 DatPiff에 의해 인터넷 유통의 믹스 테이프 문화가 확대해, 지리적 제약이 없는 콜라보레이션이 가능하게 되었다. 이것이 Cloud Rap의 '지리성으로부터의 해방'을 낳은 토양이 된다.
 
-### ● 잘게 썬 것 및 나사로 만든 것의 영향
+### ● Chopped & Screwed의 영향
 
-DJ Screw의 방식에서 파생된 **스크류 처리(느린 속도, 음높이 변경, 잔향 강조)**는 이후 Cloud Rap의 '천상의 템포'에 크게 기여했습니다.
+DJ Screw의 기법에서 유래하는 **스크류 가공(저속화, 피치 변경, 잔향 강조)**은, 후의 Cloud Rap의 「유현적 템포감」에 크게 기여했다.
 
 ---
 
-## Ⅱ. 클라우드랩 결성(2009~2012)
+## II. Cloud Rap 성립(2009–2012)
 
-### ● 릴비와 베이스월드의 문화공간
+### ● Lil B와 Based World의 문화권
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nYfceJhgvRM?si=Ok7zKwZ_Q9mI5Vp2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-2009년경 릴비는 인터넷 문화와 잘 어울리는 랩 스타일을 발전시켰고, 그의 음악을 지지한 프로듀서들이 클라우드 랩의 원형을 형성했다.
+Lil B는 2009년 전후부터 인터넷 문화와 친화성이 높은 랩 스타일을 전개해, 그 음악을 지지한 프로듀서군이 Cloud Rap의 원형을 형성했다.
 
 ---
 
-### ● 클램스 카지노 소개
+### ● Clams Casino의 등장
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ddN49QWlKcY?si=bjyWCAnOueMD65jH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-Clams Casino의 악기 컬렉션은 2011년경에 출시되었으며 A$AP Rocky에 제공한 음악은 '미스티 패드', '주변 멜로디' 및 '깊은 공간 처리'를 통해 Cloud Rap의 음향 이미지를 결정했습니다.
+Clams Casino가 2011년 전후에 발표한 인스트집이나 A$AP Rocky에의 곡 제공은 **「안개 모양의 패드」 「앰비언트인 멜로디」 「깊은 공간 처리」**를 가지는 Cloud Rap의 음상을 결정 했다.
 
 ---
 
-### ● 주요 어트라키온즈 및 장면 확장
+### ● Main Attrakionz로 장면 확장
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/twVAlvBTnZ8?si=n8mCVXs2dkxNl9G5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-Main Attrakionz는 '클라우드'라는 단어를 자신만의 스타일로 확립하여 밴드캠프 세대 예술가들의 비상업적, DIY 문화 영역을 확장했습니다.
+Main Attrakionz는 '구름(Cloud)'이라는 말을 스스로의 스타일로 확립해, Bandcamp 세대의 아티스트들에 의한 비상업적이고 DIY적인 문화권을 넓혔다.
 
 ---
 
-## III. Vaportrap의 출현(2013~2016)
+## III. Vaportrap 출현(2013–2016)
 
-Vaportrap은 Vaporwave의 방법론(샘플링, 80~90년대 소비자 문화의 재구성, 주변 질감)과 트랩의 비트 구조를 결합한 스타일입니다.
+Vaportrap은 Vaporwave의 방법론(샘플링, 80-90년대 소비문화의 재구성, 앰비언트적 질감)과 Trap의 비트 구조가 결합된 스타일이다.
 
-### ● 미적인 특징
+### ● 미학적 특징
 
-* 90년대 소비문화의 질감 (CM, 심야쇼, 가상공간 등)
-* 익스트림 리버브와 딜레이를 이용한 공간 처리
-* BPM은 Trap(120~150)과 거의 동일하나 질감은 Vaporwave와 유사
+* 90s 소비자 문화 (CM, 자정 프로그램, 가상 공간 등) 텍스처
+* 리버브와 딜레이를 극단적으로 사용한 공간계 처리
+* BPM은 Trap과 거의 동등(120–150)이지만, 질감은 Vaporwave에 가깝다
 
-### ● 생산자 문화 심화
+### ● 프로듀서 문화 심화
 
-SoundCloud를 중심으로 개인 홈레코딩 수준에서 초고속 생산과 초고속 소비가 일어나며 Cloud Rap에서 Vaportrap으로 이어지는 흐름이 형성되었습니다.
-
----
-
-## IV. Lo-Fi 힙합과 '클라우드 랩'의 연결
-
-### ● Lo-Fi 힙합 방법론
-
-* MPC 등 샘플러 배양
-* 노이즈, 아날로그 질감, 카세트테이프 왜곡
-* Chillhop / Study Beats 등 스트리밍 문화 확산
-
-Cloud Rap의 보컬 프로세싱은 Lo-Fi Hip Hop과 쉽게 믹싱되며, Lil Peep과 XXXTENTACION의 작품은 **기타 사운드 x Lo-Fi 프로세싱 x Cloud Rap 같은 부유감**을 결합합니다.
+SoundCloud를 중심으로 개인택록 레벨에서의 고속제작 및 고속소비가 발생하여 Cloud Rap에서 Vaportrap으로의 흐름이 형성되었다.
 
 ---
 
-## V. 이모 랩/새드 랩의 부상 (2016–2018)
+## IV. Lo-Fi HipHop과 <구름계 랩>의 연결
+
+### ● Lo-Fi HipHop 방법론
+
+* MPC 등 샘플러 문화
+* 노이즈, 아날로그 질감, 카세트 테이프적 왜곡
+* Chillhop / Study Beats로서의 스트리밍 문화 확대
+
+Cloud Rap의 보컬 처리는 Lo-Fi HipHop과 섞이기 쉽고, Lil Peep이나 XXXTENTACION의 작품에서는 **기타 사운드 × Lo-Fi 처리 × Cloud Rap적인 부유감**이 융합했다.
+
+---
+
+## V. 에모랩/사드랩의 융성(2016–2018)
 
 ### ● Lil Peep의 영향
 
@@ -121,7 +121,7 @@ Cloud Rap의 보컬 프로세싱은 Lo-Fi Hip Hop과 쉽게 믹싱되며, Lil Pe
 
 ---
 
-Lil Peep은 이모, 펑크, 클라우드 랩의 요소를 혼합한 스타일을 개발하여 포스트 사운드클라우드 랩 미학의 핵심을 형성했습니다. 특히 **기타 샘플 x 리버브 x 슬픈 멜로디**의 조합은 후속곡에 강한 영향을 미쳤다.
+Lil Peep은 이모, 펑크, 클라우드 랩의 요소를 혼합한 스타일을 확립해, SoundCloud Rap 이후의 미학의 중심을 형성했다. 특히 ** 기타 샘플 × Reverb × 비애적 멜로디 **의 조합은 후속에 강하게 영향.
 
 ---
 
@@ -131,33 +131,33 @@ Lil Peep은 이모, 펑크, 클라우드 랩의 요소를 혼합한 스타일을
 
 ---
 
-XXXTENTACION은 클라우드 랩부터 하드코어, R&B, 얼터너티브까지 폭넓은 스타일을 선보여왔다. 최소한의 사운드 구조, 저음 강조, 주변적 요소 등이 모두 Vaportrap의 방향과 일치했습니다.
+XXXTENTACION은 클라우드 랩 텍스처부터 하드 코어, R&B, 얼터너티브까지 폭넓게 실천했다. 최소한의 사운드 구조, 저역의 강조, 앰비언트 요소 등은 Vaportrap적인 방향성과도 연동하고 있었다.
 
 ---
 
-## Ⅵ. 모던 베이포트랩 / 클라우드 랩(2019~2025)
+## VI. 현대 Vaportrap / Cloud Rap (2019–2025)
 
-### ● 국제화 및 지역적 차이 제거
+### ● 국제화와 지역 차이 해소
 
-YouTube, SoundCloud, TikTok의 등장으로 Cloud Rap 기술이 전 세계로 확산되고 있습니다. 유사한 생산 방법이 아시아와 유럽에서 일반화되었습니다.
+YouTube, SoundCloud 및 TikTok의 등장으로 Cloud Rap 기술은 세계 각지로 확산되고 있습니다. 아시아권과 유럽에서도 유사한 제작 수법이 일반화되었다.
 
-### ● 제너레이티브 AI로 인한 비트 문화의 변화(사실 기반)
+### ● 생성 AI에 의한 비트 문화의 변화(사실 기반)
 
-2020년대 후반에는 확산 및 생성 모델을 사용한 구름형 패드와 주변 질감 생성이 보편화되어 가정 환경에서 생산 속도가 빨라졌습니다.
+2020년대 후반, 확산 모델이나 생성 모델을 이용한 구름형 패드나 앰비언트·텍스처 생성이 일반화해, 자택 환경에서의 제작이 보다 고속화하고 있다.
 
 ---
 
 ## 사운드 구조 분석
 
-### ● Vaportrap / Cloud Rap의 대표적인 비트 요소
+### ● Vaportrap / Cloud Rap의 일반적인 비트 요소
 
-* **패드**: 깊은 리버브 신디사이저, 주변 코드
-* **드럼**: 트랩 타겟(808, 하이햇 롤, 딥 킥)
-* **BPM**: 120~150
-* **보컬 처리**: 더 깊은 리버브, 자동 튜닝, 더빙 처리
-* **질감**: 90년대/Y2K 문화 인용문
+*** 패드**: 깊은 리버브 신디, 앰비언트 코드
+* **드럼**: 트랩 (808, 하이햇 롤, 딥 킥)
+***BPM**: 120–150
+***보컬 처리**: 리버브 깊이, Auto-Tune, Dub 처리
+* **텍스처**: 90s / Y2K 문화 인용
 
-아래는 사운드 구조를 보여주는 관계 다이어그램입니다.
+다음은 사운드 구조를 나타낸 관계도:
 
 <div class="mermaid">
 flowchart TD
@@ -170,7 +170,7 @@ flowchart TD
 
 ---
 
-## 연표: Vaportrap / Cloud Rap 타임라인
+## 연표: Vaportrap / Cloud Rap Timeline
 
 <div class="mermaid">
 timeline
@@ -184,10 +184,10 @@ timeline
 
 ---
 
-## 결론: '클라우드 랩'은 어디로 향하는가?
+## 결어 : <구름계 랩>은 어디로 향하는가
 
-클라우드 랩은 단순한 장르가 아닌 포스트인터넷 힙합 제작 방식과 미학, 유통 문화의 상징이 됐다. Vaportrap과의 융합은 음악이 물리적 맥락보다는 온라인 미적 영역을 중심으로 회전하는 방향을 계속해서 나타냅니다.
+Cloud Rap은 단순한 장르가 아니라, 넷 이후의 힙합의 **제작 방법·미학·배신 문화**의 상징이 되었다. Vaportrap과의 융합은 음악이 물리적 컨텍스트보다 **온라인 미학권**을 중심으로 전개하는 방향성을 계속 보여주고 있다.
 
-앞으로는 제너레이션 AI와 연동해 클라우드 랩 같은 질감이 더욱 추상화돼 더욱 은은하고 '비인간적인' 사운드 이미지로 확장될 것으로 기대된다.
+향후 생성 AI와의 연동에 의해 Cloud Rap적 질감이 더욱 추상화되어 보다 앰비언트하고 “비인간적”인 음상으로 퍼질 것으로 예상된다.
 
 ---

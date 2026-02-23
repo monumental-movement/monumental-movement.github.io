@@ -10,17 +10,17 @@ tags:
 - Rock
 - Noise
 - 10inch
-title: 토와 테이(Towa Tei) - A Ring 축하 EP
+title: Towa Tei – A Ring Congraturations EP
 ---
 
 
-Deee-Lite의 전 멤버인 Towa Tei는 하우스, 일렉트로닉, 테크노 등의 장르를 결합한 독특한 음악 스타일로 유명한 일본의 음악 프로듀서이자 DJ이자 아티스트입니다.
+Towa Tei(전 Deee-Lite의 멤버)는 일본 음악 프로듀서, DJ, 아티스트로 하우스, 일렉트로닉, 테크노 등 장르를 조합한 독자적인 음악 스타일로 알려져 있습니다.
 
-'A Ring'은 댄스 가능한 비트와 캐치한 멜로디가 돋보이는 곡으로, 토와 테이의 독특한 사운드 편곡과 창의적인 샘플링이 돋보이는 곡이다.
+A Ring은 댄서블한 비트와 캐치한 멜로디가 특징인 곡으로, Towa Tei의 독특한 사운드 어레인지와 크리에이티브한 샘플링이 두드러집니다.
 
-"축하해요!" '는 토와 테이의 폭넓은 음악 스타일과 창의적인 접근 방식을 반영하여 좀 더 실험적이고 일렉트로닉한 요소가 가미된 ​​곡입니다.
+「Congraturations!」는 보다 경험적이고 일렉트로닉한 요소를 가진 곡으로, Towa Tei의 폭넓은 음악 스타일과 크리에이티브한 어프로치가 반영되고 있습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1  A Ring
 
@@ -33,5 +33,5 @@ B2  A Platinum Ring
 
 [メルカリで購入](https://jp.mercari.com/item/m60231112636?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X4a6Kz6RXPo?si=7zAXwoSRZPMzkEjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

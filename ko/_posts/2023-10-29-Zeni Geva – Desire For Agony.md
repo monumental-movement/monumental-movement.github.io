@@ -10,28 +10,28 @@ tags:
 - Hardcore
 - Heavy Metal
 - Noise
-title: Zeni Geva - 고통에 대한 욕망
+title: Zeni Geva – Desire For Agony
 ---
 
 
-Zenigeva의 앨범 "Pain Oriented"는 1993년 9월 미국 시카고의 The Basement에서 녹음 및 믹싱되었습니다.
+제니게바의 앨범 「고통 지향」은, 미국 시카고의 The Basement에서 1993년 9월에 녹음&믹스.
 
 Zeni Geva는 1987년 도쿄에서 결성된 일본 밴드입니다.
 
-그들의 음악 스타일은 프로그 록, 하드코어, 헤비메탈, 노이즈 록 등의 요소를 통합합니다.
+프로그레락, 하드 코어, 헤비메탈, 노이즈 락 등의 요소를 도입한 음악성이 특징.
 
-핵심 멤버는 솔로 활동으로도 유명한 KK.Null과 Acid Mothers Temple로 유명한 타바타 미츠루로 구성되어 있지만, 세월이 지나면서 다른 멤버들도 바뀌었습니다.
+중심 멤버는 솔로 활동으로도 알려진 KK.Null과 Acid Mothers Temple에서의 활동으로 알려진 타바타 만이지만, 다른 멤버는 오랜 세월에 걸쳐 바뀌었습니다.
 
-오랜 공백 끝에 2007년 재결합해 2009년 활동을 재개했다.
+긴 휴지기간 이후 2007년에 재결성해 2009년부터 다시 활동을 재개.
 
-드러머로 원년 멤버였던 요시다 타츠야가 합류했다. 타바타 미츠루는 2012년 그룹을 탈퇴해 현재는 듀오로 활동 중이다.
+초기 멤버 중 한 명이었던 요시다 타츠야가 드럼으로 가입했습니다. 타바타 만은 2012년에 탈퇴했기 때문에 현재는 듀오로 활동하고 있습니다.
 
 현재 회원
 
-KK.Null – 보컬, 기타
-요시다 타츠야 – 드럼, 보컬
+KK.Null - 보컬, 기타
+요시다 타츠야 - 드럼, 보컬
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Stigma = スティグマ
 
@@ -54,6 +54,6 @@ B4. The Body = ザ ボディー
 
 [メルカリで購入](https://jp.mercari.com/item/m93829720298?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B2GSmBIqj2k?si=zrdl_IbSvKyJ4a8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

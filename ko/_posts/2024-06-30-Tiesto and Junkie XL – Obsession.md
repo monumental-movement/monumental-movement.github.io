@@ -10,16 +10,16 @@ tags:
 - Breakbeat
 - Trance
 - 00s
-title: Tiësto & Junkie XL – 집착
+title: Tiësto & Junkie XL – Obsession
 ---
 
 
-지난 20년간 최고의 DJ와 EDM의 대부라 불리는 네덜란드 DJ 겸 프로듀서 Tiesto와 1990년대 빅 비트 무브먼트의 중심 인물이자 록 앤 댄스 크로스오버 씬의 선구자인 Junkie XL로도 알려진 Tom Holkenborg의 "Obsession"을 리믹스한 곡입니다.
+지난 20년간 최고의 DJ&EDM의 갓퍼저로 평가받는 네덜란드의 DJ 프로듀서 Tiesto(티에스트)와 1990년대의 빅 비트 무브먼트의 중심인물이며, 록과 댄스의 크로스오버 장면의 선구자로 알려진 Junkie XL(점키 XLses)의 Tom Holx XL
 
-Side A는 벨기에 DJ/프로듀서 Bert Wilmaers와 Maarten Wilmaers의 듀오 Filterheadz의 리믹스입니다.
-B면은 Jase(Jason Catherine), Mykel(Michael Walburgh), DB(Danny Bonnici)의 프로젝트인 NuBreed의 리믹스입니다.
+A면은 벨기에의 DJ 프로듀서 Bert Wilmaers와 Maarten Wilmaers의 듀오 Filterheadz에 의한 remix.
+B면은 Jase (Jason Catherine), Mykel (Michael Walburgh), DB (Danny Bonnici)에 의한 프로젝트 NuBreed에 의한 remix.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A01. Obsession (Filterheadz Remix)
 
@@ -28,5 +28,5 @@ B01. Obsession (NuBreed Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m76454545800?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M2Y1TOVkcsI?si=qdQAoiuR0TVOdtUS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

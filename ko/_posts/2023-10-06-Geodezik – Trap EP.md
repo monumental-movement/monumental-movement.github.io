@@ -8,14 +8,14 @@ layout: post
 permalink: /ko/geodezik-trap-ep/
 tags:
 - Techno
-title: Geodezik – 트랩 EP
+title: Geodezik – Trap EP
 ---
 
 
-'트랩 EP'는
-1999년에 "Beat Records"라는 레이블로 발매된 시모조 타카히로의 프로젝트 Geodezik의 EP입니다.
+「Trap EP」는,
+1999년에 라벨 「Beat Records」에서 발매된 시모키 타카히로(Takahiro Shimojo)에 의한 프로젝트 Geodezik의 EP입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Eye-Link
 

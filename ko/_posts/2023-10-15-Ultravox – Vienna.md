@@ -9,17 +9,17 @@ permalink: /ko/ultravox-vienna/
 tags:
 - New-Wave
 - Synth-Pop
-title: Ultravox – 비엔나
+title: Ultravox – Vienna
 ---
 
 
-Ultravox는 영국의 포스트 펑크 록 밴드입니다. 그룹의 창립자는 나중에 그룹을 떠난 John Foxx였습니다. Midge Ure는 1979년에 합류했습니다.
+Ultravox (울트라 보크스)는 UK의 포스트 펑크 락 밴드. 그룹의 설립자는 John Foxx(존 폭스)이지만 나중에 탈퇴. 1979년에는 Midge Ure(미지 유로)가 가입.
 
-이전 프로듀서로는 Brian Eno, Steve Lillywhite 및 Connie Plank가 있습니다.
+역대 프로듀서는 브라이언 이노, 스티브 릴리 화이트, 코니 플랑크.
 
-1980년 발매된 'Vienna'는 신스 팝과 뉴 웨이브의 요소를 접목한 그들의 네 번째 정규 앨범이다. 이 앨범은 울트라복스의 대표곡과 밴드의 명곡을 담아 세계적인 히트를 쳤습니다.
+1980년에 발매한 「Vienna(비에나)」는, 신디팝이나 뉴 웨이브의 요소를 도입한 4번째의 스튜디오 앨범. 이 앨범은 세계적인 히트가 되어 Ultravox의 시그니처 송 & 밴드의 대표작.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Astradyne (Instrumental)
 
@@ -42,5 +42,5 @@ B4. All Stood Still
 
 [メルカリで購入](https://jp.mercari.com/item/m80910250276?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/imIW41AmclY?si=ZzD7zDYwaa4TiN0d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

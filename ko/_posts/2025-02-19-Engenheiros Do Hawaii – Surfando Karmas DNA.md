@@ -15,11 +15,11 @@ title: Engenheiros Do Hawaii – Surfando Karmas & DNA
 ---
 
 
-Engenheiros do Hawaii(하와이 출신 엔지니어)는 1983년 포르투 알레그레에서 결성되어 2008년까지 활동한 브라질 록 밴드입니다. 말장난과 냉소적이고 비판적인 노래로 큰 인기를 얻었습니다. 보컬리스트이자 베이시스트인 Humberto Gessinger가 유일한 오리지널 멤버입니다.
+Engenheiros do Hawaii(영어로 'Engineers from Hawaii')는 1983년 포르투알레그리에서 결성되어 2008년까지 활동한 브라질의 록 밴드. 말 놀이와 아이러니하고 비판적인 곡으로 큰 인기를 얻었다. 보컬 겸 베이시스트의 Humberto Gessinger(움베르토 게신저)는 유일한 오리지널 멤버.
 
-'Surfando Karmas & DNA'는 2002년 발매된 앨범이다. 'Esportes Radicais', 'Terceira do Plural' 등의 대표곡이 수록되어 있다.
+「Surfando Karmas & DNA」는, 2002년에 릴리스된 앨범. 대표곡 「Esportes Radicais」 「Terceira do Plural」등이 수록되어 있다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Surfando Karmas & DNA
 2. 3ª Do Plural
@@ -36,5 +36,5 @@ Engenheiros do Hawaii(하와이 출신 엔지니어)는 1983년 포르투 알레
 
 [メルカリで購入](https://jp.mercari.com/item/m57509435335?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ofsiWQTj2GM?si=WSB5GDtspZKDIvCP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

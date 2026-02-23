@@ -9,13 +9,13 @@ permalink: /ko/immense-spontaneous-combustion/
 tags:
 - Rock
 - 90s
-title: 거대함 – 자연발화
+title: Immense – Spontaneous Combustion
 ---
 
 
-Dave Collingwood, Mark Toghill, Matt Wiltshire, Patrick Case, Tom Davies로 구성된 밴드 Immense의 EP로 1999년 영국 레이블 FatCat Records에서 발매되었습니다.
+1999년에 UK의 라벨 「FatCat Records」로부터 릴리스 된 Dave Collingwood, Mark Toghill, Matt Wiltshire, Patrick Case, Tom Davies등으로 구성된 밴드 「Immense」의 EP입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Spontaneous Combustion
 
@@ -26,5 +26,5 @@ B2. Perhaps You Should Talk To Someone
 
 [メルカリで購入](https://jp.mercari.com/item/m96454290820?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9UOozm_Nih4?si=0zQYHcNPTO6huEfb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

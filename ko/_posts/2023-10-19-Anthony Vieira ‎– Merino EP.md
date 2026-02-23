@@ -9,13 +9,13 @@ permalink: /ko/anthony-vieira-merino-ep/
 tags:
 - Techno
 - UK Techno
-title: 앤서니 비에이라 – 메리노 EP
+title: Anthony Vieira – Merino EP
 ---
 
 
-안소니 비에이라(Anthony Vieira)는 라울 델가르도(Raoul Delgardo)와 토니 소아레스 비에이라(Tony Soares Vieira)가 결성한 유닛입니다. "Anthony Vieira – Merino EP"는 1999년 영국 테크노 레이블인 Sheep Records에서 발매되었습니다.
+Anthony Vieira는 Raoul Delgardo와 Tony Soares Vieira의 단위입니다. Anthony Vieira – Merino EP는 UK의 테크노 라벨 Sheep Records보다 1999년에 릴리스.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Untitled
 
@@ -26,5 +26,5 @@ B2. Untitled
 
 [メルカリで購入](https://jp.mercari.com/item/m54645012438?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u9GVeqQ24iU?si=HXMBvPKGUZdTkQKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

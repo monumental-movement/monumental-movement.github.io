@@ -10,16 +10,16 @@ tags:
 - Hard House
 - House
 - 00s
-title: 캐스퍼 & 카림 - U Have Control / Passion5
+title: Casper & Karim – U Have Control / Passion5
 ---
 
 
-HardHouse는 영국 출신 하드하우스 DJ/프로듀서 Chris Payne(Casper)과 하드하우스 및 테크노 씬에서 활발히 활동 중인 영국 출신 DJ/프로듀서 Karim Lamouri(Karim)가 만든 회사입니다.
+UK 출신의 하드하우스 DJ/프로듀서 Chris Payne(Casper)과 하드하우스나 테크노의 장면에서 활약하는 UK 출신의 DJ/프로듀서 Karim Lamouri(Karim)에 의한 HardHouse.
 
-2003년 NRG 전문 영국 하드 댄스 레이블인 Passion Records에서 발매되었습니다.
+2003년에 NRG에 특화한 UK Hard Dance 라벨 Passion Records로부터 릴리스 되었다.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Casper & Karim – U Have Control
 
@@ -32,5 +32,5 @@ Written-By – Chris Payne
 
 [メルカリで購入](https://jp.mercari.com/item/m23594485609?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uWkV_bSpObI?si=pE-HPxjLMwVX9-kE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

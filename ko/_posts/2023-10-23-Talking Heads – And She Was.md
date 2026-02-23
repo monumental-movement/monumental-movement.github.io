@@ -10,15 +10,15 @@ tags:
 - Rock
 - Alternative Rock
 - 7inch
-title: 말하는 머리 - 그리고 그녀는
+title: Talking Heads – And She Was
 ---
 
 
-'And She Was'는 1985년 발매된 미국 록 밴드 토킹 헤즈(Talking Heads)의 6집 앨범 'Little Creatures'의 싱글 컷이다.
+「And She Was」는, US 록 밴드 Talking Heads(토킹 헤즈)가 1985년에 발매한 6번째 앨범 「리틀 크리처즈」(Little Creatures)로부터의 싱글 컷.
 
-재킷은 미국 예술가 Howard Finster의 작품입니다.
+재킷은, 미국의 예술가 Howard Finster(하워드·핀스터)에 의한 것.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. And She Was
 
@@ -27,5 +27,5 @@ B. And She Was (E.T. Version)
 
 [メルカリで購入](https://jp.mercari.com/item/m85439385386?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cl3B_FTDKD0?si=0nuOmXWtwd563rts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

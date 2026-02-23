@@ -9,17 +9,17 @@ permalink: /ko/all-saints-pure-shores-the-mixes/
 tags:
 - House
 - Pops
-title: 올 세인츠(All Saints) - 퓨어 쇼어(Pure Shores)(더 믹스)
+title: All Saints – Pure Shores (The Mixes)
 ---
 
 
-A면의 첫 번째 트랙은 Cosmos라고도 알려진 영국 DJ/프로듀서/사운드 디자이너 Tom Middleton의 리믹스입니다.
+A면 1곡째는 UK 출신의 DJ/프로듀서/사운드 디자이너 코스모스 Tom Middleton(톰 미들턴)에 의한 remix.
 
-Side A의 두 번째 트랙은 Outlaw Posse 및 Brothers Like Outlaw의 전 멤버인 K-Gee라고도 알려진 Karl Clive Gordon의 리믹스입니다.
+A면 2곡째는 Outlaw Posse, Brothers Like Outlaw의 전 멤버 K-Gee와 Karl Clive Gordon의 remix.
 
-B-side는 Marshmello, U2, Beyoncé, Björk, Depeche Mode, Echo & the Bunnymen, Grimes, Ed Sheeran 등 수많은 해외 ​​아티스트와 작업한 영국 음반 프로듀서이자 믹싱 엔지니어인 Mark Stent의 리믹스입니다.
+B면은 마시멜로, U2, 비욘세, 뵵크, 디페쉬 모드, 에코 & 더 바니멘, 글라임스, 에드 실란 등 많은 국제적인 아티스트를 걸어온 UK의 레코드 프로듀서 겸 믹싱 엔지니어 Mark Stent(마크 스텐트)에 의한 remix.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Pure Shores (Cosmos Mix)
 
@@ -32,5 +32,5 @@ B2. Pure Shores (Instrumental)
 
 [メルカリで購入](https://jp.mercari.com/item/m60756646453?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CGA8020eU38?si=1Y_-tUR94CS1TCOP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

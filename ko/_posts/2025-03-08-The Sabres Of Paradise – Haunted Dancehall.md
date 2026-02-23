@@ -11,15 +11,15 @@ tags:
 - Dub
 - Downtempo
 - 90s
-title: 파라다이스의 세이버 – 헌티드 댄스홀
+title: The Sabres Of Paradise – Haunted Dancehall
 ---
 
 
-세이버스 오브 파라다이스(The Sabers Of Paradise)는 런던 출신의 영국 전자 음악 그룹입니다. 멤버: 앤드류 웨더럴, 재그즈 쿠너, 게리 번즈.
+The Sabres Of Paradise(세이버스 오브 파라다이스)는 런던 출신의 UK 일렉트로닉 뮤직 그룹. 멤버는 Andrew Weatherall(앤드류 웨더올), Jagz Kooner, Gary Burns.
 
-'Haunted Dancehall'은 1995년 Warp Records가 발매한 The Sabers Of Paradise의 두 번째 앨범으로, 2007년 영국 신문 The Guardian이 선정한 '죽기 전에 꼭 들어봐야 할 1000개의 앨범'에 선정되는 등 오랫동안 호평을 받아왔다.
+'Haunted Dancehall'은 1995년 Warp Records에서 발표된 The Sabres Of Paradise의 두 번째 앨범으로, 2007년 영국 신문 The Guardian에서 '죽기 전에 들려야 할 1000장의 앨범' 선정되는 등 오랜 세월에 걸쳐 평가 받고 있는 앨범.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Bubble And Slide
 2. Bubble And Slide II
@@ -39,5 +39,5 @@ title: 파라다이스의 세이버 – 헌티드 댄스홀
 
 [メルカリで購入](https://jp.mercari.com/item/m24000671123?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hYWeH4DzDqU?si=FUps7ov2KFDnD9w6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

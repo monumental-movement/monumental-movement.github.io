@@ -9,13 +9,13 @@ permalink: /ko/invitation-to-denon-pcm-a-magnificient-new-recording-system/
 tags:
 - Classic
 - Compilation
-title: Denon PCM(훌륭한 새 녹음 시스템)으로의 초대
+title: Invitation To Denon PCM (A Magnificient New Recording System)
 ---
 
 
-1975년 Denon은 "Invitation To Denon PCM(A Magnificient New Recording System)"을 출시했습니다.
+"Invitation To Denon PCM (A Magnificient New Recording System)"은 1975년에 Denon에서 출시되었습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Helmuth Rilling–Toccata and Fugue In D Minor, BWV565
 

@@ -10,15 +10,15 @@ tags:
 - Euro
 - House
 - 90s
-title: 모네트 에반스 – (This Is) The Time (리믹스)
+title: Monette Evans – (This Is) The Time (Remix)
 ---
 
 
-Monette Evans의 싱글 "(This Is) The Time (Remix)"는 Sven Väth, Matthias Hoffmann 및 Steffen Britzke가 설립한 Eurohouse 트랜스 프로젝트인 mosaic에서 제작했습니다.
+Monette Evans의 싱글 「(This Is) The Time (Remix)」의 프로듀서는 Sven Väth(스벤 베스), Matthias Hoffmann(마티아스 호프만), Steffen Britzke(슈테펜 브리츠케)가 설립한 유로하우스 트랜스 프로젝트, Mosaic(모자이크)
 
-리믹스에는 독일의 테크노/트랜스 DJ/프로듀서 Jam El Mar(Rolf Ellmer), 일명 Jam and Trancy Space와 DJ Dag가 참여합니다.
+Jam과 Transy Space(트랜시 스페이서) 명의로도 알려진 독일의 테크노 트랜스 DJ 프로듀서 Jam El Mar(Rolf Ellmer 롤프 엘머)와 DJ Dag가 remix에서 참가.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. (This Is) The Time (Gray Day Mix)
 
@@ -27,5 +27,5 @@ B. (This Is) The Time (Bee Side Dub)
 
 [メルカリで購入](https://jp.mercari.com/item/m46614018717?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gKQ3pW-R4b0?si=RfNsfqtKCIFbVutX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -11,15 +11,15 @@ tags:
 - Euro Beat
 - Dance
 - 90s
-title: 마스터보이 - 다른 꿈
+title: Masterboy – Different Dreams
 ---
 
 
-1990년부터 활동한 Masterboy는 유럽에서 가장 잘 알려진 독일의 유로댄스 프로젝트입니다.
+1990년부터 활동하는 Masterboy는 유럽에서 가장 잘 알려진 독일의 유로댄스 프로젝트.
 
-'다른 꿈'은 1994년 발매된 마스터보이의 세 번째 앨범으로, '밤의 열기를 느껴라', 'I Got to Give It Up', 'Everybody Needs Somebody', 'Is This The Love' 등의 히트곡이 수록되어 있다.
+'Different Dreams'는 1994년 발매된 Masterboy 3번째 앨범에서 'Feel the Heat of the Night', 'I Got to Give It Up', 'Everybody Needs Somebody', 'Is This The Love' 등 히트곡이 수록돼 있다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Waterfall (Intro)
 2. Different Dreams
@@ -39,5 +39,5 @@ Bonus Track For Japan
 
 [メルカリで購入](https://jp.mercari.com/item/m79586502927?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/otQl3yk2Nz8?si=PNCCy9WRGI5YV6FS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

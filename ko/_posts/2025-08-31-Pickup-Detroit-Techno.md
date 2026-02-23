@@ -9,23 +9,23 @@ permalink: /ko/pickup-detroit-techno/
 tags:
 - Detroit Techno
 - 90s
-title: 디트로이트 테크노 작품 픽업
+title: 디트로이트 테크노(Detroit Techno) 작품을 픽업
 ---
 
 
-"디트로이트 테크노는 퇴폐와 희망 사이에서 탄생한 작품들"
+"퇴폐와 희망의 틈에서 태어난 디트로이트 테크노(Detroit Techno) 작품군"
 
 <hr>
 
 
-### 클로드 영 – The Dexit E.P.
+### Claude Young – The Dexit E.P.
 <a href="https://jp.mercari.com/item/m84836534062?afid=6142608987"><img src="../assets/images/Claude%20Young%20%E2%80%93%20The%20Dexit%20E.P.webp"></a>
 
-특징:: 1997년, 벨기에 Elypsia 라벨. 이 작품은 디트로이트에 대한 존경심과 나만의 탐구 감각을 결합한 작품이다.
+특징 : : 1997 년, 벨기에 Elypsia 레이블에서. 디트로이트에 대한 경의와 스스로의 탐구심이 융합한 작품.
 
-추천 포인트: 진지한 미니멀 개발에 독특한 반전을 더해, 세트의 타이트한 흐름을 유지하고 싶을 때 의지할 수 있는 작품입니다.
+추천 포인트 : 시리어스한 미니멀 전개에 독자적인 트위스트가 있어, 세트의 흐름을 타이트하게 구축하고 싶을 때에 의지할 수 있는 한 장.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Intro
 A2. Dexit
@@ -38,7 +38,7 @@ B2. Fade
 [メルカリで購入](https://jp.mercari.com/item/m84836534062?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ciqs2oGUCl8?si=9VuwLL4A9Q1r6o5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
@@ -46,15 +46,15 @@ B2. Fade
 
 
 
-### 모델 500 – 딥 스페이스
+### Model 500 – Deep Space
 <a href="https://jp.mercari.com/item/m23829394850?afid=6142608987"><img src="../assets/images/Model%20500%20%E2%80%93%20Deep%20Space.webp"></a>
 
 
-특징 : 'Milky Way', 'Orbit', 'The Flow' 등의 곡은 깊은 우주를 여행하는 듯한 플로팅 신스 작업과 공간적이고 하드한 리듬이 특징이다.
+특징 : 「Milky Way」 「Orbit」 「The Flow」등, 깊은 우주를 여행하는 부유감이 있는 신스워크와 스페이시로 경질인 리듬이 특징.
 
-추천 포인트 : 디트로이트 테크노의 미래지향적이고 쿨한 사운드를 응축한 명작. 바닥에 우주적인 분위기를 조성하려면 DJ 세트의 시작 부분에 배치하세요.
+추천 포인트 : 디트로이트 테크노의 미래 지향적이고 멋진 사운드가 응축된 명반. DJ 세트의 시작 부분에 두면 바닥에 우주적인 공기감을 만들어 낼 수 있습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Milky Way
 2. Orbit
@@ -71,7 +71,7 @@ B2. Fade
 [メルカリで購入](https://jp.mercari.com/item/m23829394850?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w0jg3x0P3kw?si=WINpDt2LkieS4iDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
@@ -79,14 +79,14 @@ B2. Fade
 
 
 
-### 모델 500 – 흐름
+### Model 500 – Flow
 <a href="https://jp.mercari.com/item/m38778885235?afid=6142608987"><img src="../assets/images/Model%20500%20%E2%80%93%20The%20Flow.webp"></a>
 
-특징: 단순한 신스 라인과 리듬을 갖춘 최소한의 트랙 구조입니다. 공간감 있고 부유하는 신스 사운드와 시원하고 기계적인 리듬이 특징이다.
+특징 : 심플한 신세리후와 리듬이 짜내는 최소한의 트랙 구조. 공간적이고 부유감이 있는 신스워크와 쿨하고 기계적인 리듬감이 특징적.
 
-추천 포인트 : 디트로이트 테크노의 원점을 경험할 수 있는 곡. DJ 세트 초기에 추가하면 플로어에 '디트로이트 같은 우주적 느낌'을 연출할 수 있습니다. 초보자도 듣기 쉽게, 모델 500의 세계관을 이해하는데 적합합니다.
+추천 포인트 : 디트로이트 테크노의 원점을 체감 할 수있는 한 곡. DJ 세트에서는 초반에 넣으면, 플로어에 “디트로이트다운 우주감”을 연출할 수 있습니다. 초보자도 듣기 쉽고 Model 500의 세계관을 이해하는 데 이상적입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 S. The Flow M14 (G-Funk Mix)
 
@@ -98,7 +98,7 @@ T2. The Flow M38 (Alex Reece Mix)
 [メルカリで購入](https://jp.mercari.com/item/m38778885235?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fXYqhFz5bxY?si=EYvbZlFp-nUzOwSO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
@@ -106,15 +106,15 @@ T2. The Flow M38 (Alex Reece Mix)
 
 
 
-### 칼 크레이그(Carl Craig) - 랜드크루징
+### Carl Craig – Landcruising
 <a href="https://jp.mercari.com/item/m22835584429?afid=6142608987"><img src="../assets/images/Carl%20Craig%20%E2%80%93%20Landcruising.webp"></a>
 
 
-특징: 미니멀한 베이스에 앰비언트, 브레이크비트, 퓨처재즈 등을 결합한 드라마틱한 사운드 이미지.
+특징 : 미니멀을 기반으로 앰비언트, 브레이크 비트, 퓨처 재즈 등을 융합한 드라마틱한 음상.
 
-추천 포인트: 듣는 이의 감성을 여행으로 이끄는 깊이와 세련미가 돋보이는 앨범. DJ나 리스너 모두가 꼭 들어보고 싶은 작품이다.
+추천 포인트 : 깊이와 세련을 겸비한 앨범으로 청취자를 감정적인 여행에 초대한다. DJ나 리스너 불문하고, 차분히 듣고 싶은 작품.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Mind Of A Machine
 2. Science Fiction
@@ -131,22 +131,22 @@ T2. The Flow M38 (Alex Reece Mix)
 [メルカリで購入](https://jp.mercari.com/item/m22835584429?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/01mEKYTgz_4?si=GrtJp_4oDYZ1kqA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
 
 
-### Ultradyne – 알려지지 않은 작품
+### Ultradyne – Unknown Works
 <a href="https://jp.mercari.com/item/m73570341601?afid=6142608987"><img src="../assets/images/Ultradyne%20%E2%80%93%20Unknown%20Works.webp"></a>
 
 
-특징: 춤추기 좋은 그루브와 추상적인 실험의 균형을 이루고 있습니다. 트랙 예: "Tangible–Theory Proliferation(Ultradyne Remix)" 및 "Fantasy Era"
+특징 : 댄서블 그루브와 추상 실험성을 양립. 트랙 예: "Tangible-Theory Proliferation (Ultradyne Remix)" "Fantasy Era".
 
-추천 포인트: 탐구적인 테크노 경험을 원하는 청취자에게 적합합니다. 바닥에 있든 헤드폰을 사용하든 그 실험적인 사운드에 매료될 것입니다.
+추천 포인트 : 탐구적인 테크노 체험을 요구하는 청취자에게 최적. 바닥이나 헤드폰 모두 실험적인 사운드로 끌려갑니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Tangible–Theory Proliferation (Ultradyne Remix)
 A2. Ultradyne–Fantasy Era
@@ -159,22 +159,22 @@ B2. Ultradyne–War Drum - Live
 [メルカリで購入](https://jp.mercari.com/item/m73570341601?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O3lUITAvCQg?si=GpmuLdaocdh8wu4C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
 
 
-### 구동계 – 심포니엄
+### Drivetrain – Symphonium
 <a href="https://jp.mercari.com/item/m23783674213?afid=6142608987"><img src="../assets/images/Drivetrain%20%E2%80%93%20Symphonium.webp"></a>
 
 
-특징: 어둡고 선율적이며 활기차고 춤추기 좋은 리듬.
+특징 : 다크로 멜로디어스, 활기차고 댄서블한 리듬이 특징.
 
-추천 포인트: 모던하고 독특한 사운드. 심야클럽이나 피크타임 세트장에서 연주하면 극적으로 플로어를 활기차게 만들어줄 곡이다.
+추천 포인트 : 현대적이고 독특한 사운드. 심야 클럽이나 피크 타임의 세트에 투입하면, 플로어를 드라마틱하게 북돋우는 일곡.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Electronic Seduction
 A2. Music
@@ -187,7 +187,7 @@ AA2. Soundtrack
 [メルカリで購入](https://jp.mercari.com/item/m23783674213?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oBUYzL6qFl4?si=xjmP4gGZ6wJoR0C0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
@@ -196,14 +196,14 @@ AA2. Soundtrack
 
 
 
-### 제프 밀스 – 매우 EP
+### Jeff Mills – Very EP
 <a href="https://jp.mercari.com/item/m40010323635?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Very%20EP.webp"></a>
 
-특징: 클럽 워밍업에 딱 맞는 미니멀하고 긴장감 있는 작품입니다.
+특징: 클럽의 워밍업에 최적인 미니멀하고 긴장감이 있는 작품.
 
-추천 포인트: 단순하면서도 점차 쌓여가는 사운드 이미지가 바닥을 탄탄하게 만들어 세트 시작부터 자신만의 독특한 세계관을 만들어 낼 수 있습니다.
+추천 포인트 : 심플하면서도 서서히 쌓이는 음상이 플로어를 계약하고 세트의 초반부터 독자적인 세계관을 만들어 낼 수 있습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Cobolt
 A2. Untitled
@@ -217,21 +217,21 @@ B3. Untitled
 [メルカリで購入](https://jp.mercari.com/item/m40010323635?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZPgiF_S1pAA?si=dKqOwiHRhoS9WOC2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
 
 
-### 제프 밀스 – 생생한 E.P.
+### Jeff Mills – Lifelike E.P.
 <a href="https://jp.mercari.com/item/m92521663560?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Lifelike%20E.P.webp"></a>
 
-특징: "Condor To Mallorca"는 칼립소와 같은 리듬과 건반 공명이 독특하게 떠다니는 느낌을 만들어 내는 상징적인 곡입니다.
+특징: 「Condor To Mallorca」가 상징적이고, 칼립소적인 리듬과 건반의 울림이 독특한 부유감을 연출.
 
-추천 포인트 : 몽환적이고 영적인 분위기로, DJ 셋에 삽입하면 순간적으로 분위기가 바뀌는 '마법의 작품'이다.
+추천 포인트 : 트리피하고 영적 분위기에서 DJ 세트 안에 삽입하면 단번에 공기를 바꾸는 "마법의 한 장".
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Condor To Mallorca
 A2. Time After Space
@@ -244,21 +244,21 @@ B2. Black Avenger
 [メルカリで購入](https://jp.mercari.com/item/m92521663560?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t4ivGriR6C0?si=C73VaW_-Z9fWtKHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
 
 
-### 제프 밀스 – 스킨 딥 EP
+### Jeff Mills – Skin Deep EP
 <a href="https://jp.mercari.com/item/m68002048690?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Skin%20Deep%20EP.webp"></a>
 
-특징: "Call Of The Wild" 트랙은 Michael Jackson의 "Off The Wall"에서 타악기를 인용합니다.
+특징 : 수록곡 "Call Of The Wild"에서 마이클 잭슨 "Off The Wall"에서 타악기를 인용.
 
-추천 포인트: 디트로이트 테크노의 하드한 느낌과 블랙 뮤직의 그루브가 어우러져 플로어에 독특한 추진력을 선사한다.
+추천 포인트 : 디트로이트 테크노의 경질감에 블랙 뮤직 그루브가 더해져 플로어에 독특한 추진력을 부여합니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Call Of The Wild
 A2. Skin Deep
@@ -271,21 +271,21 @@ B2. Scout
 [メルカリで購入](https://jp.mercari.com/item/m68002048690?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hzs8AYzUKfU?si=Zmah0AWVN_kd7QeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
 
 
-### 제프 밀스 - 서커스
+### Jeff Mills – Circus
 <a href="https://jp.mercari.com/item/m96224343998?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Circus.webp"></a>
 
-특징: 하드한 인더스트리얼 분위기를 자아내는 2트랙의 EP.
+특징 : 2 트랙을 수록하고 하드하고 산업적인 분위기를 자아내는 EP.
 
-추천 포인트 : 강렬한 음압은 피크타임에 사용하면 바닥을 단번에 폭발시키는 위력을 가지고 있다.
+추천 포인트: 그 강렬한 소리의 압력은, 피크 타임에 투입하는 것으로 플로어를 단번에 폭발시키는 파워를 가집니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Circus (The Greatest Show On Earth Mix)
 
@@ -296,22 +296,22 @@ B. Circus (The Big Finale Mix)
 [メルカリで購入](https://jp.mercari.com/item/m96224343998?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vdtbofdbFs4?si=Sw77Ivn1Mk_Xuxg6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
 
 
-### “M” – More Drama(축 이름 아래)
+### “M” – More Drama(Axis 명의)
 <a href="https://jp.mercari.com/item/m89297730554?afid=6142608987"><img src="../assets/images/M%20%E2%80%93%20More%20Drama.webp"></a>
 
-특징: Axis가 1992년에 "M"이라는 이름으로 발표한 트랙. 초기 디트로이트 미니멀을 대표하는 곡입니다.
+특징 : 1992 년 Axis에서 출시 된 "M"명의 트랙. 초기 디트로이트 미니멀을 대표하는 일곡.
 
-추천 포인트: 거칠지만 견고한 느낌으로 90년대 초반 언더그라운드 느낌을 경험할 수 있는 컬렉터에게 꼭 필요한 디스크입니다.
+추천 포인트 : 황삭하면서도 골태로, 90년대 초기의 언더그라운드감을 그대로 체감할 수 있는 콜렉터 필휴반.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Scenario
 A2. Switchblade
@@ -324,7 +324,7 @@ B2. Getaway
 [メルカリで購入](https://jp.mercari.com/item/m89297730554?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y4nfv1umHFU?si=PAuZ14GX1UywqvoS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>

@@ -8,14 +8,14 @@ layout: post
 permalink: /ko/deep-dish-feat-stevie-nicks-dreams/
 tags:
 - House
-title: 딥디쉬 Feat. 스티비 닉스 - 꿈
+title: Deep Dish Feat. Stevie Nicks – Dreams
 ---
 
 
-"꿈"은
-영국 레이블 "Positiva"가 2006년에 발매한 Deep Dish의 EP입니다.
+「Dreams」는,
+2006년에 UK의 라벨 「Positiva」로부터 릴리스된 Deep Dish에 의한 EP입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Dreams (Extended Club Mix)
 
@@ -27,5 +27,5 @@ AA2. Dreams (Tocadisco Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m99329165159?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dKANEy_-nM0?si=FCIeZhPgxUXf23Ci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

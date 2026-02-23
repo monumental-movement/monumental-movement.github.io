@@ -13,13 +13,13 @@ tags:
 - Industrial
 - Indie Rock
 - 10s
-title: 팝은 저절로 먹을 것이다 – 오늘이 그날이다...지금이 바로 그 시간이다...지금이다!
+title: Pop Will Eat Itself – This Is The Day...This Is The Hour...This Is This!
 ---
 
 
-Pop Will Eat Itself는 1986년 결성된 영국의 얼터너티브 록 밴드입니다.
+Pop Will Eat Itself는 1986년에 결성된 영국의 대체 블록 밴드.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1-1. PWEI Is A Four Letter Word
 1-2. Preaching To The Perverted
@@ -53,5 +53,5 @@ Pop Will Eat Itself는 1986년 결성된 영국의 얼터너티브 록 밴드입
 
 [メルカリで購入](https://jp.mercari.com/item/m38275755897?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0-FaCRhqzVU?si=t-eUHNuOf04pZpMu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

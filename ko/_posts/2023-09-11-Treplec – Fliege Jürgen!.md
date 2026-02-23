@@ -10,13 +10,13 @@ tags:
 - House
 - Tech House
 - Minimal
-title: Treplec – Fliege Jurgen! EP
+title: Treplec – Fliege Jürgen! EP
 ---
 
 
-2006년에 발매된 Milnormodern 레이블 소유주 Nils Scheibe의 프로젝트 Treplec이 2장으로 구성된 이 EP는 부드러운 타악기, 미니멀리스트 리듬, 두껍고 저음 베이스, 신비한 멜로디와 패드가 포함된 그루비 트랙을 특징으로 합니다.
+2006년 릴리즈 작품으로, Milnormodern의 라벨 오너인 Nils Scheibe의 프로젝트 Treplec에 의한 2매 세트 EP는 기분 좋은 퍼커시브로 미니멀한 리듬에, 그림 굵게 낮아지는 베이스와 신비한 멜로디나 패드가 들어오는 그루비인 트랙들입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Banda Core
 
@@ -32,5 +32,5 @@ D. Herr Jeminee
 
 [メルカリで購入](https://jp.mercari.com/item/m10439786369?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2oP_cfA2hBU?si=w3nfujYGXZWod-jw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,15 +10,15 @@ tags:
 - Rock
 - Hiphop
 - Alternative Rock
-title: 라이온으로서의 하루 - 라이온으로서의 하루
+title: One Day As A Lion – One Day As A Lion
 ---
 
 
-One Day As A Lion은 Rage Against the Machine 보컬리스트 Zack de la Rocha와 The Mars Volta의 전 드러머이자 현재 Queens of the Stone Age의 드러머 Jon의 콜라보레이션입니다. 2008년 테오도르(존 테오도르)가 결성한 파워 듀오 슈퍼그룹.
+One Day As A Lion(원데이 아즈 어 라이온)은 Rage Against the Machine(레이지 어게인스트 더 머신)의 보컬리스트 Zack de la Rocha(자크 데 라 로샤)와 The Mars Volta(마즈 볼타)의 전 드러머로 현재는 Queens of the Age(퀸즈 오브 더 스톤 에이지)의 드러머 Jon Theodore(존 세오도어)에 의해 2008년에 결성된 파워 듀오 슈퍼 그룹.
 
-One Day As A Lion은 얼터너티브 록과 랩을 혼합한 스타일이 특징이다.
+One Day As A Lion은 얼터너티 블록과 랩을 mix 한 스타일이 특징.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1.  Wild International
 2.  Ocean View
@@ -29,5 +29,5 @@ One Day As A Lion은 얼터너티브 록과 랩을 혼합한 스타일이 특징
 
 [メルカリで購入](https://jp.mercari.com/item/m94029315505?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2EOcpSDh52I?si=CGROsJY92Gfo67U8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

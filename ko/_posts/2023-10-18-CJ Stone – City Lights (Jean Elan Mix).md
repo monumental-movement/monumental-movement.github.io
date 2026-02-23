@@ -9,20 +9,20 @@ permalink: /ko/cj-stone-city-lights-jean-elan-mix/
 tags:
 - House
 - Remix
-title: CJ스톤 – City Lights (Jean Elan Mix)
+title: CJ Stone – City Lights (Jean Elan Mix)
 ---
 
 
-CJ Stone(Andreas Litterscheid)은 독일의 DJ 겸 음악 프로듀서로 댄스 음악계에서 활발히 활동하고 있는 베이스 범퍼스의 멤버이다.
+CJ Stone(Andreas Litterscheid)은 댄스 뮤직 씬에서 활약하는 독일의 DJ 겸 음악 프로듀서이며, Bass Bumpers(버스 범퍼즈)의 멤버.
 
-B-side는 독일 출신 DJ이자 베를린 출신 하우스 뮤직 프로듀서이자 베이스 범퍼스의 멤버인 Jean Elan(Sven Koslik)의 리믹스입니다.
+B면은 마찬가지로 Bass Bumpers의 멤버인 베를린 출신의 독일인 DJ 겸 하우스 뮤직 프로듀서 Jean Elan(Sven Koslik)에 의한 remix.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. City Lights (Jean Elan Mix)
 ```
 
 [メルカリで購入](https://jp.mercari.com/item/m31291560077?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sUHuNSXxYNk?si=h3bHHP4qdNqbeYWx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

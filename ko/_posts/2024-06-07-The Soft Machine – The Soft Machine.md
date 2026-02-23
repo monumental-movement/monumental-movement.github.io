@@ -12,15 +12,15 @@ tags:
 - Psychedelic
 - Experimental
 - Rare
-title: 소프트 머신 - 소프트 머신
+title: The Soft Machine – The Soft Machine
 ---
 
 
-The Soft Machine은 Mike Rutledge, Robert Wyatt, Kevin Ayers, David Allen 및 Larry Nowlin이 1966년 중반에 결성한 캔터베리 출신의 영국 프로그레시브 재즈 록 밴드입니다. 밴드 이름은 William S. Burroughs의 소설 'The Soft Machine'의 이름을 따서 명명되었습니다.
+The Soft Machine(소프트 머신)은 1966년 중반 마이크 라트리지, 로버트 와이어트, 케빈 에어즈, 데이비드 앨런, 래리 나우린에 의해 결성된 캔터베리 출신의 UK 프로그레시브 재즈 록 밴드. 밴드명은, 윌리엄 S. 버로우즈의 소설 「소프트 머신」의 이름을 따서 명명되었다.
 
-Soft Machine은 영국 최초의 사이키델릭 밴드 중 하나가 되었고 나중에 프로그레시브 록과 재즈 록으로 옮겨갔으며 1971년에는 악기 밴드가 되었습니다.
+소프트 머신은, 영국 최초의 사이키델릭 밴드의 하나가 되고 나서 프로그레시 블록이나 재즈 락으로 이행해, 1971년에는 인스트르멘탈 밴드가 되었다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Hope For Happiness
 2. Joy Of A Toy
@@ -39,5 +39,5 @@ Soft Machine은 영국 최초의 사이키델릭 밴드 중 하나가 되었고 
 
 [メルカリで購入](https://jp.mercari.com/item/m60210316220?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tdQ3Uc9Rc8g?si=wKnvhQ7S8BBwF9io" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

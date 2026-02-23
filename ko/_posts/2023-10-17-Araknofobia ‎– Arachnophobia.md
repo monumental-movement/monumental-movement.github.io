@@ -9,15 +9,15 @@ permalink: /ko/araknofobia-arachnophobia/
 tags:
 - Techno
 - Hardcore
-title: 거미공포증 – 거미공포증
+title: Araknofobia – Arachnophobia
 ---
 
 
-Araknophobia는 영국 하우스 음악 DJ/프로듀서인 Jon Pearn, Michael Gray, Cino Berigliano 및 Nick Ratcliffe가 결성한 전자 음악 그룹입니다.
+Araknofobia는, UK의 하우스 뮤직 DJ/프로듀서 Jon Pearn, Michael Gray, Cino Berigliano, Nick Ratcliffe에 의해 결성된 일렉트로닉 뮤직 그룹.
 
-"Arachnophobia"는 Araknophobia의 데뷔 싱글이자 그들의 시그니처 곡입니다. FOM(Friends Of Matthew)으로도 활동하고 있습니다.
+"Arachnophobia"는 Araknofobia의 데뷔 싱글로 그들의 대표곡. 별명의로 Friends Of Matthew(FOM)로서도 활동.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Arachnophobia (I Want You)
 
@@ -26,5 +26,5 @@ AA. Arachnophobia (Black Widow)
 
 [メルカリで購入](https://jp.mercari.com/item/m74790346352?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1oXFLSzteDk?si=dgo2LJLW5YKbru81" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

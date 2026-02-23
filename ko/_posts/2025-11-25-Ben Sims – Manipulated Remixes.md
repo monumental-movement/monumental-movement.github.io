@@ -10,15 +10,15 @@ tags:
 - Tribal
 - Techno
 - 00s
-title: Ben Sims – 조작된 리믹스
+title: Ben Sims – Manipulated Remixes
 ---
 
 
-Primate Recordings 레이블이 2000년에 출시한 2개의 디스크 세트입니다.
+2000년에 라벨 Primate Recordings에서 발매된 2매 세트.
 
-Adam Beyer, Joel Mull, Jel Ford, Samuel L. Sessions 등 최고의 테크노 DJ/프로듀서가 영국 테크노 전설 Ben Sims의 'Manipulated'를 리믹스했습니다.
+UK 테크노계의 레전드 Ben Sims(벤 심즈) 'Manipulated'를 Adam Beyer, Joel Mull, Jel Ford, Samuel L. Sessions 등 Techno계의 톱 DJ/프로듀서들이 remix.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Manipulated (Adam Beyer Remix)
 B1. Manipulated (Joel Mull Remix)
@@ -31,7 +31,7 @@ D2. Manipulated (Samuel L. Sessions Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m84838243416?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SS5y02ZPx7Q?si=eN1ahJxibboGnIao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tnvl_krlshQ?si=zm-w1ojt6z2WIHr7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

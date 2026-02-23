@@ -11,16 +11,16 @@ tags:
 - Deep House
 - House
 - 00s
-title: DJ Chus와 David Penn Feat. 카테리나 – 바일라
+title: DJ Chus And David Penn Feat. Caterina – Baila
 ---
 
 
-"Hey Hey"로 유명한 미국 하우스 DJ 겸 프로듀서 Dennis Ferrer가 DJ Chus & David Penn의 명곡 "Baila"를 리믹스한 곡입니다.
+DJ Chus&David Penn의 명곡 「Baila」를 「Hey Hey」로 유명한 US하우스 DJ＆프로듀서 Dennis Ferrer(데니스・펠러)가 remix.
 
-영국의 명문 댄스 음악 레이블 Defected가 2003년에 발매한 트라이벌 하우스/딥 하우스 트랙입니다.
+UK의 명문 댄스 뮤직 라벨 Defectd에서 2003년에 발매된 트라이벌 하우스·딥 하우스 트럭.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 This Side
 A1. Baila (Dennis Ferrer Bergentine Mix)
@@ -32,5 +32,5 @@ AA1.Baila (Peter "Tha Zouk" & Bruno Marciano Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m72185729340?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jdks0tZnUs4?si=C5CQdGWESB1NuhDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

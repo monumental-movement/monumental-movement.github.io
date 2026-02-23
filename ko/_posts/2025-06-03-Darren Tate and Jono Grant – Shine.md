@@ -10,17 +10,17 @@ tags:
 - Electronic
 - Trance
 - 00s
-title: 대런 테이트 & 조노 그랜트 – 샤인
+title: Darren Tate & Jono Grant – Shine
 ---
 
 
-Darren Tate는 JODA의 멤버이자 DT8 Project 및 8 Ball이라는 이름으로 활동하고 있는 영국 출신의 하우스 트랜스 댄스 뮤직 DJ/프로듀서입니다.
+Darren Tate(다렌·테이트)는, JODA의 멤버이며, DT8 Project나 8 Ball 명의로도 활동하는 영국 출신의 하우스·트랜스·댄스 뮤직 DJ/프로듀서.
 
-조노 그랜트는 영국 일렉트로닉 뮤직 그룹 어보브 앤 비욘드(Above & Beyond)의 멤버이자, JODA, Dirt Devils, Zed-X 등의 멤버로도 활동 중인 프로듀서이다.
+Jono Grant(조노 그랜트)는, UK의 일렉트로 뮤직 그룹 Above & Beyond의 멤버이며, JODA, Dirt Devils나 Zed-X등의 멤버로서도 활동하는 프로듀서.
 
-'샤인'은 2003년 레이블 ID&T가 발매한 트랜스 트랙이다.
+「shine」은, 2003년에 라벨 ID&T로부터 릴리스된 트랜스 트럭.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Let The Light Shine In (Shine)
 
@@ -29,5 +29,5 @@ B. Let The Light Shine In
 
 [メルカリで購入](https://jp.mercari.com/item/m84737147866?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ufu7DIHO0S4?si=DTm6PuooIiret5Cm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

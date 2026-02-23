@@ -10,14 +10,14 @@ tags:
 - House
 - Acid
 - Garage
-title: 모든 수단으로 – Somebody Save Me (Altered States)
+title: By All Means – Somebody Save Me (Altered States)
 ---
 
 
-"By All Means - Somebody Save Me(얼터드 스테이츠)"
-시카고 출신 프로듀서이자 DJ인 Marshall Jefferson의 Acid 리믹스입니다.
+"By All Means - Somebody Save Me (Altered States)"는
+시카고 출신의 프로듀서 DJ, Marshall Jefferson의 애시드 리믹스.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Somebody Save Me (Altered States)
 
@@ -28,5 +28,5 @@ B2. Somebody Save Me (Album Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m41822459521?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/heIs8urCkxg?si=lSGSMzooC13Hdiqp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

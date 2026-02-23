@@ -11,16 +11,16 @@ tags:
 - Techno
 - Acid
 - 90s
-title: 마루바닥 – 결핵 소생술
+title: Hardfloor – TB Resuscitation
 ---
 
 
-하드플로어는 1991년 결성됐다.
-독일의 애시드 테크노/테크 하우스 듀오.
+Hardfloor는 1991년에 결성
+독일의 애시드 테크노/테크하우스 듀오.
 
-Hardfloor의 첫 번째 앨범은 1993년 영국 독립 레이블 Moonshine Music을 통해 발매되었습니다. 테크노/애시드 테크노의 걸작으로 꼽히는 하드플로어의 명작.
+1993년에 UK의 인디펜덴 트래블 Moonshine Music에서 발매된 Hardfloor(하드 플로어)의 첫 앨범. 테크노·아시드 테크노의 명반되는 Hardfloor의 대표작.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Lost In The Silver Box
 2. Trancescript
@@ -35,5 +35,5 @@ Hardfloor의 첫 번째 앨범은 1993년 영국 독립 레이블 Moonshine Musi
 
 [メルカリで購入](https://jp.mercari.com/item/m67738868302?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lcg-31Ig2Uo?si=UkBWcWoluBqWhlgO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -11,7 +11,7 @@ tags:
 - RnB
 - Ragga
 - HipHop
-title: 라브라트 - 어
+title: The Labrat – Eh
 ---
 
 
@@ -21,9 +21,9 @@ title: 라브라트 - 어
 
 
 
-Muy Caliente Records를 통해 발매된 The Labrat의 HipHop/Ragga 힙합 트랙. 동일한 카테고리 번호에는 라벨 텍스트에 검정색 텍스트 버전과 빨간색 텍스트 버전이 있는데, 이 레코드가 빨간색 텍스트 버전입니다.
+Muy Caliente Records에서 출시된 The Labrat의 HipHop/Ragga HipHop 트랙. 같은 범주 번호에서 레이블 텍스트가 검은색 문자 ver.와 빨간색 문자 ver.가 존재하며 이 레코드는 빨간색 문자 ver.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. I Just Shag A Lot
 A2. Shagstrumental

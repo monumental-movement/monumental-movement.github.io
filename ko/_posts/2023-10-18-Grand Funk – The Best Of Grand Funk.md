@@ -9,13 +9,13 @@ permalink: /ko/grand-funk-the-best-of-grand-funk/
 tags:
 - Rock
 - Hard Rock
-title: 그랜드 펑크 - 그랜드 펑크의 최고
+title: Grand Funk – The Best Of Grand Funk
 ---
 
 
-GFR(Grand Funk Railroad)은 미국의 하드 록 밴드입니다. 핵심 멤버는 Mark Furner, Mel Thatcher, Don Brewer입니다.
+그랜드 팬 크레일 로드(Grand Funk Railroad, GFR)는 US 하드 록 밴드. 중심 멤버는 마크 퍼너, 멜 사처, 돈 브루어.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Sin's A Goodman's Brother
 

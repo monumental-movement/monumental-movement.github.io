@@ -10,16 +10,16 @@ tags:
 - House
 - Acid Jazz
 - 90s
-title: 톨레도 - 조
+title: Toledo – Joe
 ---
 
 
-Toledo(Toledo Diamond)의 하우스 애시드 재즈 트랙입니다. 프로듀서는 블랙그레이프 전 멤버 대니 세이버(Danny Saber)이다.
+Toledo (Toledo Diamond)의 하우스 어시드 재즈 트랙. 프로듀서는 Black Grape(블랙 그레이프)의 전 멤버 Danny Saber.
 
-1994년 미국 독립 레이블 Moonshine Music에 의해 발매되었습니다.
+1994년 미국의 인디펜던트 트래블 Moonshine Music에서 출시되었다.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Joe (Joey Malcom Mix)
 

@@ -11,16 +11,16 @@ tags:
 - Juke
 - House
 - Chicago
-title: '[칼럼] 하이퍼팝/디지코어'
+title: 【칼럼】 Hyperpop / Digicore
 ---
 
 
 
-#Hyperpop/Digicore: 차세대 인터넷 음악의 완전한 그림
+# Hyperpop / Digicore : 차세대 인터넷 음악의 전체 이미지
 
-글 : mmr │주제 : 차세대 인터넷이 낳은 사운드, 프로듀싱, 문화에 대한 종합분석
+문장：mmr｜테마：차세대 인터넷발 음향·제작·문화의 종합 분석
 
-Hyperpop과 Digicore는 2010년대 후반부터 2020년대까지 TikTok, SoundCloud, Discord 커뮤니티를 중심으로 성장하면서 팝과 클럽 음악의 경계를 허무는 인터넷 기반 음악 트렌드입니다. 본 글에서는 **100 gecs / Charli XCX / glaive / ericdoa / underscores**까지 이어지는 계보를 중심으로 사운드의 특징, 제작 방식, 사용된 장비, 문화적 배경을 종합적으로 정리하겠습니다.
+Hyperpop과 Digicore는 2010년대 후반~2020년대에 TikTok, SoundCloud, Discord 커뮤니티를 중심으로 성장한 팝과 클럽 뮤직의 경계를 녹인 인터넷발의 음악 조류이다. 본고에서는 **100 gecs / Charli XCX / glaive / ericdoa / underscores ** 등에 이어지는 계보를 축으로, 소리의 특징, 제작 수법, 사용 기재, 문화 배경을 종합적으로 정리한다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UtfkrGRK8wA?si=ckNcrMGikgYF5Luo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -40,27 +40,27 @@ color: #fff;
 </style>
 
 
-# 1. 개요: 하이퍼팝/디지코어란?
+# 1. 개요 : Hyperpop / Digicore 란 무엇입니까?
 
-하이퍼팝:
+Hyperpop:
 
-* 팝x클럽x노이즈의 익스트림 퓨전
-* 과도한 음정 처리, 무너지는 드롭, 화려한 고주파 신디사이저
-* PC뮤직의 영향력이 크다(A. G. Cook, SOPHIE)
+* 팝×클럽×노이즈의 극단적인 융합
+* 과도한 피치 가공, 붕괴하는 드롭, 빛나는 고주파 신디
+* PC Music(A. G. Cook, SOPHIE)의 영향이 크다
 
-디지코어:
+Digicore:
 
-* SoundCloud/Discord에서 탄생한 젊은이들의 DIY 팝
-* Lo-fi 기타, 이모 노래, 간단한 비트, 보컬 체인의 인위적인 처리
-* 글레이브와 에릭도아로 대표되는 '인터넷 코어' 미학
+* SoundCloud/Discord 출시의 젊은층에 의한 DIY 팝
+* Lo-fi 기타 및 이모적 가창, 간단한 비트, 보컬 체인의 인공적 처리
+* glaive와 ericdoa로 대표되는 "internet-core"미학
 
-둘이 겹치지만 방향에는 차이가 있다. **하이퍼팝=과도함, 디지코어=단순하지만 인터넷과 유사**.
+양자는 겹치면서도 **Hyperpop=과잉화, Digicore=소박하지만 넷적**이라는 방향성의 차이가 있다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WJW-VvmRKsE?si=-LXGf4a86VqNcowG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-# 2. 주요 아티스트 및 역할
+# 2. 주요 아티스트와 역할
 
 <div class="mermaid">
 graph LR
@@ -82,7 +82,7 @@ graph LR
 
 ---
 
-# 3. 타임라인: Hyperpop / Digicore 개발
+# 3. 연표 : Hyperpop / Digicore의 발전
 
 <div class="mermaid">
 timeline
@@ -101,12 +101,12 @@ timeline
 
 ---
 
-# 4. 음향특성 : 하이퍼팝 측 사운드 구조
+# 4. 음향 특징 : Hyperpop 측의 사운드 구조
 
-## 4-1. 과도한 피치 처리 및 포먼트 조작
+## 4-1. 과도한 피치 가공 및 포먼트 조작
 
-* Auto-Tune을 강력하게 적용 (Retune 속도가 가장 빠름)
-* 포먼트를 높이거나 낮추어 "애니메이션 음성" 및 "합성 음성" 효과 만들기
+* Auto-Tune을 강하게 적용 (Retune Speed ​​가장 빠른)
+* 포먼트를 상하시켜 "애니메이션 음성" "합성 음성"적 효과
 
 <div class="mermaid">
 flowchart LR
@@ -119,11 +119,11 @@ flowchart LR
 
 ---
 
-## 4-2. 결함/축소 유형 드롭
+## 4-2. 글리치·붕괴계 드롭
 
-*비트크러시
-* 시간 확장 극한
-*가혹한 소음, FM 베이스
+* bitcrush
+* time-stretch extreme
+* harsh noise, FM 기반
 
 <div class="mermaid">
 flowchart TD
@@ -134,26 +134,26 @@ flowchart TD
 
 ---
 
-## 4-3. 100 gecs 구조(과밀한 장르)
+## 4-3. 100 gecs적 구조(장르 과밀 오염)
 
-* 스카, 메탈, 트랩, EDM을 한 곡에 믹스
-* BPM 변화, 급속한 발전
+* 스카, 메탈, 트랩, EDM을 한 곡으로 혼합
+* BPM 변화, 급전개
 
 ---
 
-# 5. 음향 특성: Digicore 측의 사운드 구조
+# 5. 음향 특징 : Digicore 측면의 사운드 구조
 
-## 5-1. 로파이 기타 x 이모 노래
+## 5-1. Lo-fi 기타×이모적 가창
 
-* DI를 통해 연결된 깨끗한 기타를 가볍게 왜곡합니다.
-* 채도 + 코러스를 사용한 “뒤틀린 로파이 느낌”
+* DI 연결의 깨끗한 기타를 가볍게 왜곡
+* Saturation + Chorus에서 "꼬인 lo-fi 느낌"
 
-## 5-2. 인터넷 시대 보컬 체인
+## 5-2. Internet-era Vocal Chain
 
-*자동 조정
-* 레이즈 포먼트(라이트)
-*더블러/슬랩백
-*OTT(라이트)
+* Auto-Tune
+* 포르만트 인상(가벼운)
+* Doubler / Slapback
+* OTT (가벼운)
 
 <div class="mermaid">
 flowchart LR
@@ -166,82 +166,82 @@ flowchart LR
 
 ---
 
-## 5-3. 최소한의 트랩/DnB 영향
+## 5-3. Minimal Trap / DnB 영향
 
-* 808 베이스는 보통 수준입니다.
-* 킥이 짧다
-* 하이햇은 1/8~1/32의 미세한 롤입니다.
-
----
-
-# 6. 제작 방식과 DAW
-
-## 사용된 DAW
-
-* **FL Studio**(가장 일반적이며 특히 Digicore)
-* **Ableton Live** (하이퍼팝 사운드 디자인에 강함)
-* 경우에 따라 GarageBand/Logic도 사용됩니다.
-
-## 하이퍼팝 측 제작 사례
-
-
-- 1. 오토튠으로 탑라인을 강력하게 변신시키다
-- 2. FM + 웨이브테이블로 신디사이저 만들기
-- 3. 글리치 처리 (Stutter / Granular)
-- 4. Drop시 과도한 왜곡 및 OTT
-
-
-## 디지코어측 제작예
-
-
-- 1. 기타 DI → 채도
-- 2. 라이트 드럼(트랩 기조연설)
-- 3. 자동 튜닝 + 더블러
-- 4. 우는 탑라인이 겹쳐진다
+* 808 베이스는 겸손
+* 킥은 짧은
+* 하이햇은 1/8~1/32의 미세한 롤
 
 ---
 
-# 7. 장비/플러그인(특히 Digicore에 공통)
+# 6. 제작 기법과 DAW
+
+## 사용 DAW
+
+* **FL Studio** (가장 많습니다. 특히 Digicore)
+* **Ableton Live**(Hyperpop의 사운드 디자인에 강함)
+* GarageBand / Logic도 일부에서 사용
+
+## Hyperpop 측 제작 예
+
+
+- 1. 톱 라인을 Auto-Tune으로 강변 변환
+- 2. 신디를 FM + Wavetable로 작성
+- 3. 글리치 가공 (Stutter / Granular)
+- 4. Drop에 과도한 distortion 및 OTT
+
+
+## Digicore 측 제작 예
+
+
+- 1. 기타를 DI → Saturation
+- 2. 가벼운 드럼(Trap 기조)
+- 3. Auto-Tune + Doubler
+- 4. 호울계 톱 라인을 거듭한다
+
+---
+
+# 7. 장비 및 플러그인 (Digicore에 특히 많음)
 
 ## 소프트웨어
 
-* 자동 튜닝 / 피치 보정
-* Little AlterBoy(포먼트)
-*OTT
-* 세럼/바이탈(경량,저가까지 무료)
-*FabFilter Pro-Q / Pro-L (기본 처리)
+* Auto-Tune/Pitch Correction
+* Little AlterBoy (formant)
+* OTT
+* Serum / Vital (경량으로 무료 ~ 저렴한 가격)
+* FabFilter Pro-Q/Pro-L(기본 처리)
 
 ## 하드웨어
 
-* 저가형 DI BOX(기타녹음)
+* 저비용 DI BOX(기타 녹음)
 * 오디오 인터페이스(Scarlett 2i2 등)
-* 콘덴서 마이크 (AT2020 등 인기 모델)
+* 콘덴서 마이크(AT2020 등의 보급 모델)
 
 ---
 
-# 8. 믹스 특성
+#8.믹스의 특징
 
-##하이퍼팝
+## Hyperpop
 
-* 고주파(10~16kHz) 강조
-* OTT 딥
-* 채도를 자주 사용함
-*강력한 리미터
+* 고역을 강조(10~16kHz)
+* OTT 깊이
+* Saturation 다용도
+* 리미터 강화
 
-## 디지코어
+## Digicore
 
-* 기타 밴드 2~4kHz를 가볍게 부스트
-* 보컬은 중앙에 위치해야 합니다(너무 퍼지지 않음).
-* 808 베이스는 보통 수준입니다.
+* 기타 대역 2~4kHz를 가볍게 부스트
+* 보컬은 중심적으로 배치(너무 넓지 않음)
+* 808 베이스는 겸손
 
 ---
 
-# 9. 시각적, 문화적 특성
+#9. 시각·문화적 특징
 
-* Discord 서버 기반의 협업 문화
-* TikTok에서 유래한 바이러스 구조
-* 아바타/디지털 구현
-* 애니메이션, 게임 문화와의 융합
+* Discord 서버를 기반으로 한 공동 제작 문화
+* TikTok 발의 바이럴 구조
+* 아바타/디지털 신체성
+* 애니메이션·게임 문화와의 융합
 
 <div class="mermaid">
 graph TD
@@ -255,9 +255,9 @@ graph TD
 
 # 10. 요약
 
-하이퍼팝과 디지코어는 음악 제작 도구의 민주화와 인터넷 문화의 성숙 속에서 탄생한 트렌드이다. 제작의 용이성, 리믹스 문화, 소셜 미디어의 확산, 젊은 창작자들의 실험 정신이 결합되어 전통적인 장르 구조를 해체하고 새로운 형태의 팝을 제시합니다.
+Hyperpop과 Digicore는 음악 제작 도구의 민주화와 인터넷 문화의 성숙을 배경으로 태어난 조류입니다. 제작의 간이성, 리믹스 문화, SNS 확산, 청소년 크리에이터의 실험 정신이 결합되어 기존 장르 구조를 해체하면서 새로운 팝의 형태를 제시했다.
 
-앞으로는 AI 보컬, 음원 생성, 실시간 협업 등의 발전으로 더욱 세분화되고 확장될 가능성이 크다.
+앞으로는 AI 보컬, 생성 음원, 실시간 콜라보레이션 등의 진전에 의해 더욱 세분화·확장해 나갈 가능성이 높다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UNYqwpx7Cys?si=df8PJvts5E8hHOvi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

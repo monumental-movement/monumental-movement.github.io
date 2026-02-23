@@ -9,17 +9,17 @@ permalink: /ko/suicidal-tendencies-lights-camera-revolution/
 tags:
 - Hardcore
 - Punk
-title: 자살 경향 – 조명...카메라...혁명
+title: Suicidal Tendencies – Lights...Camera...Revolution
 ---
 
 
-``Lights...Camera...Revolution!''은 Suicidal Tendency의 경력에 ​​있어 중요한 작품으로 그들의 음악의 폭과 에너지를 구현합니다. 강렬한 기타 리프와 빠른 드럼, 그리고 마이크 뮤어의 파워풀한 보컬이 특징이다.
+「Lights...Camera...Revolution!」은, Suicidal Tendencies의 커리어 중에서도 중요한 작품이며, 그들의 음악의 폭넓고 에너지를 구현하고 있습니다. 앨범은 격렬한 기타 리프, 빠른 드럼, Mike Muir의 강력한 보컬을 특징으로합니다.
 
-앨범에는 "You Can't Bring Me Down", "Send Me Your Money" 등의 시그니처 곡이 포함되어 있습니다.
+앨범에는 대표곡인 'You Can't Bring Me Down'과 'Send Me Your Money' 등이 수록되어 있습니다.
 
-이 앨범은 비평가들의 호평을 받았으며 Suicidal Tendency의 음악적 발전을 보여 주었으며 상업적 성공을 거두었습니다. 헤비메탈과 펑크를 융합한 독특한 스타일로 많은 팬들을 매료시켰으며, 그들의 영향력은 크로스오버 음악계에서 중요한 존재가 되었다.
+이 앨범은 Suicidal Tendencies의 음악적 진화를 보여주는 작품으로 높은 평가를 받았으며 상업적으로 성공을 거두었습니다. 밴드는 헤비메탈과 펑크의 융합이라는 독자적인 스타일로 많은 팬을 매료시켰고, 그 영향력은 크로스 오버 음악 장면에서 중요한 존재가되었습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. You Can't Bring Me Down
 
@@ -44,5 +44,5 @@ B5. Go'n Breakdown
 
 [メルカリで購入](https://jp.mercari.com/item/m66534589009?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nxcJW6bs5os?si=-h-74mVx_OHMrt75" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

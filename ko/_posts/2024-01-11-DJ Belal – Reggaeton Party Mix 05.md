@@ -10,13 +10,13 @@ tags:
 - Dancehall
 - Reggae
 - Reggaeton
-title: DJ Belal – 레게톤 파티 믹스 05
+title: DJ Belal – Reggaeton Party Mix 05
 ---
 
 
-Side A는 Amerie의 "1 Thing"의 리믹스 버전입니다. B-side는 50센트 'Candy Shop'의 리믹스 버전이다.
+A면은 Amerie 「1 Thing」의 remix 버젼. B면은 50 Cent - 「Candy Shop」의 remix 버젼.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Club
 

@@ -10,17 +10,17 @@ tags:
 - Downtempo
 - Future Jazz
 - 00s
-title: Modaji – 사전 설정 샘플러 한정판
+title: Modaji – Pre-Sets Sampler Limited Edition
 ---
 
 
-Modaji로도 알려진 Dominic Hugo Jacobson은 영국의 일렉트로닉 DJ/프로듀서/리믹서입니다.
+Modaji Dominic Hugo Jacobson은 영국의 전자 DJ / 프로듀서 / 리믹서.
 
-Modaji라는 이름으로 Phil Asher의 Restless Soul 크루의 일원으로 브레이크비트 씬에서 활동하고 있으며, Harvey Lindo라는 이름으로 재즈적인 HOUSE를 발표했다.
+Modaji 명의에서는 Phil Asher의 Restless Soul의 크루로서 브레이크 비트 장면에서 활약하고, Harvey Lindo 명의에서는 재지인 HOUSE를 릴리스 하고 있다.
 
-"Pre-Sets Sampler Limited Edition"은 Ben Wilcox의 레이블 Laws Of Motion에서 2002년에 출시한 Downtempo/Future Jazz입니다.
+「Pre-Sets Sampler Limited Edition」은, 2002년에 Ben Wilcox 주재의 라벨 Laws Of Motion에서 릴리스된 Downtempo/Future Jazz.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Outside From The Inside (Radio Edit)
 A2. The Riot Act
@@ -31,5 +31,5 @@ B2. Latin Protocol (Version)
 
 [メルカリで購入](https://jp.mercari.com/item/m61116264244?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LZY_gyLxKss?si=GduY4VfXKIWVVRsd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

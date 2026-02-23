@@ -12,15 +12,15 @@ tags:
 - Shibuya-kei
 - 90s
 - 00s
-title: 우르술라 1000 – 내일이 온다
+title: Ursula 1000 – Here Comes Tomorrow
 ---
 
 
-Ursula 1000으로도 알려진 뉴욕의 프로듀서이자 라운지 DJ인 Alex Gimeno는 60년대 사운드트랙, 90년대 라운지 리바이벌, 시부야케이, 브리티시 빅비트, 펑크, 디스코 등 다양한 사운드를 융합하여 레트로/퓨처 사운드라고 부르는 독특한 스타일을 확립해 왔습니다.
+뉴욕의 프로듀서&라운지계 DJ 울슬라 1000 일 Alex Gimeno는 60년대의 사운드트랙, 90년대의 라운지 리바이벌, 시부야계, 영국의 빅 비트, 펑크, 디스코 등, 다양한 사운드를 융합시켜, 레트로/퓨처.
 
-Here Comes Tomorrow는 2006년에 발매된 보사노바 일렉트로 곡이다.
+「Here Comes Tomorrow」는 2006년에 릴리스된 보사노바 일렉트로트랙.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Kaboom!
 A2. Hello! Let's Go To A Disco
@@ -38,5 +38,5 @@ D3. Here Comes Tomorrow
 
 [メルカリで購入](https://jp.mercari.com/item/m33082850505?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kW5JsoGZCrM?si=o_0jqJFFpuw1coO2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

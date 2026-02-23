@@ -10,17 +10,17 @@ tags:
 - Chorus
 - African
 - 80s
-title: 레이디스미스 블랙 맘바조 – 샤카 줄루
+title: Ladysmith Black Mambazo – Shaka Zulu
 ---
 
 
-1964년 Joseph Shabalala에 의해 설립된 Ladysmith Black Mambazo는 isikatamiya(전통 Zulu 음악)와 Mbube 스타일로 노래하는 남아프리카 남성 합창 그룹입니다.
+Joseph Shabalala(조셉 샤바라라)가 1964년에 결성 Ladysmith Black Mambazo는, 이시카타미아(줄루인의 전통적인 음악)나 무부베 스타일로 노래하는 남아프리카의 남성 코러스 그룹.
 
-그는 사이먼 앤 가펑클(Simon & Garfunkel)의 폴 사이먼(Paul Simon) 앨범 'Graceland'에 출연해 세계적인 명성을 얻었으며 그래미상을 비롯한 각종 상을 수상했다.
+사이먼&가펑클의 Paul Simon(폴 사이먼)의 앨범 '그레이스랜드'에 참가한 것으로 세계적으로 유명해져 그래미상을 포함한 다양한 상을 획득했다.
 
-"Shaka Zulu"는 Paul Simon이 프로듀싱했습니다.
+Shaka Zulu는 Paul Simon이 프로듀스하고 있다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Unomathemba
 A2. Hello My Baby
@@ -37,5 +37,5 @@ B5. Wawusho Kubani? (Who Were You Talking To?)
 
 [メルカリで購入](https://jp.mercari.com/item/m24434663274?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X2xl2fsdyGM?si=RnaEIEA5rq0GPq-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

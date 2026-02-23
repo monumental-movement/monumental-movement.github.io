@@ -10,17 +10,17 @@ tags:
 - Hiphop
 - Rap
 - 90s
-title: Kryme의 파트너 – Turtle Power
+title: Partners In Kryme – Turtle Power
 ---
 
 
-Partners in Kryme(Partnerz in Kryme)은 James Alpern과 Richard Usher로 구성된 뉴욕 출신의 힙합 듀오입니다.
+Partners in Kryme (Partnerz in Kryme)은 뉴욕 출신의 James Alpern(제임스 알판)과 Richard Usher(리처드 어셔)의 힙합 듀오.
 
-"거북이 파워!" 1990년 영화 '닌자거북이'를 위해 탄생해 전 세계적으로 히트해 미국 13위, 영국 1위를 4주 동안 기록하며 기록적인 히트를 기록했다.
+「Turtle Power(터틀 파워!)」는, 1990년의 영화 「틴에이지·뮤턴트·닌자터틀즈」를 위해서 만들어져 세계적인 히트가 되어, 전미 13위, 영국에서는 4주간 1위로 기록적인 히트가 되었습니다.
 
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Turtle Power (Single Edit)
 
@@ -31,5 +31,5 @@ B. Splinter's Tale I & Splinter's Tale II
 
 [メルカリで購入](https://jp.mercari.com/item/m18653257795?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t4j9o6324bo?si=_6hQ0afxz9GEW2MS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

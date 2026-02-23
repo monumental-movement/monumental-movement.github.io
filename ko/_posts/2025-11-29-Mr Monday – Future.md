@@ -11,15 +11,15 @@ tags:
 - House
 - Bleep
 - 90s
-title: 미스터 먼데이 - 미래
+title: Mr Monday – Future
 ---
 
 
-``Future''는 1990년 Judge Jules와 Roy The Roache가 설립한 신생 레이블 Elevation Inc Recordings를 통해 발매되었습니다.
+'Future'는 1990년에 Judge Jules와 Roy The Roache가 방금 시작한 라벨인 Elevation Inc Recordings에서 발표되었다.
 
-이 곡은 메가 레이브 히트곡으로 주목을 받았지만, 음반사 창업과 유통회사의 부도 등으로 인한 문제로 매장에서는 극소량만 판매됐다. 그 결과, DJ들 사이에서는 보기 드문 음반이 되었고, Tony Humphries와 같은 DJ들은 수년 동안 세트가 끝날 때마다 계속해서 이 음반을 연주하며 클래식으로서의 위상을 확고히 했습니다.
+이 곡은 메가·레이브·안셈으로서 주목받았지만, 라벨의 시작에 수반하는 트러블이나 유통 회사의 도산이 겹쳐, 매장에 늘어선 매수는 극히 조금. 그 때문에 DJ 사이에서 입수 곤란한 레어반이 되어, Tony Humphries(토니 핸프리즈)와 같은 DJ가 오랜 세월에 걸쳐 세트의 끝에 계속해서 클래식으로 부동의 지위를 쌓게 되었다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Pushing (Full Up Mix)
 A2. Pushing (Edit)
@@ -29,5 +29,5 @@ B. Future
 
 [メルカリで購入](https://jp.mercari.com/item/m81034490261?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6Dg-5iNqqSQ?si=BC06mbGi0kjW0GN-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -8,15 +8,15 @@ layout: post
 permalink: /ko/art-of-trance-madagascar/
 tags:
 - Trance
-title: 트랜스의 예술 – 마다가스카르
+title: Art Of Trance – Madagascar
 ---
 
 
-Side A는 Matthias Hoffmann과 Ralf Hildenbeutel의 독일 트랜스 프로젝트 Cygnus X의 리믹스입니다.
+A면은 Matthias Hoffmann과 Ralf Hildenbeutel의 독일 트랜스 프로젝트 Cygnus X에 의한 remix.
 
-B면의 첫 번째 트랙은 네덜란드 DJ/프로듀서 Ferry Corsten(System F)의 리믹스입니다.
+B면 1곡째는, 네덜란드의 DJ/프로듀서 Ferry Corsten(페리 코스텐/System F)에 의한 remix.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Madagascar (Cygnus X Remix)
 
@@ -27,5 +27,5 @@ B2. Madagascar (Original Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m64443542697?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VUwn7cmG6Ng?si=nsSgGQ8kMW1DwtF5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

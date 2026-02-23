@@ -9,13 +9,13 @@ permalink: /ko/adam-beyer-drumcode-09/
 tags:
 - Techno
 - 90s
-title: 아담 베이어 – Drumcode 09
+title: Adam Beyer – Drumcode 09
 ---
 
 
-90년대 후반 스웨덴 미니멀 테크노 씬의 중심 인물이었던 스웨덴 테크노 DJ/프로듀서 아담 베이어(Adam Beyer)는 1997년 자신의 레이블 Drumcode를 통해 이 시대를 상징하는 이 테크노 트랙을 발매했다.
+90년대 후기 스웨덴 미니멀 테크노 씬의 중심 인물로 활약하는 스웨덴 테크노 DJ/프로듀서 Adam Beyer(아담 베이어)가 자신이 운영하는 라벨 Drumcode보다 1997년에 발매한 이 시대를 상징하는 테크노 트랙.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Untitled
 
@@ -28,5 +28,5 @@ B2. Untitled
 
 [メルカリで購入](https://jp.mercari.com/item/m81557566471?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ourM6FiP-yc?si=4RGRzrD5kUqgi7ch" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

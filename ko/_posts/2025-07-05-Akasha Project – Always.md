@@ -10,16 +10,16 @@ tags:
 - Psy-Trance
 - Techno
 - 00s
-title: 아카샤 프로젝트 – 항상
+title: Akasha Project – Always
 ---
 
 
-아카샤 프로젝트(Akasha Project)로도 알려진 바르님 A. 슐체(Barnim A. Schultze)는 1980년대 중반부터 활동한 독일의 일렉트로닉 뮤지션이다.
+Akasha Project Barnim A. Schultze는 1980년대 중반부터 활동하는 독일의 일렉트로닉 뮤지션.
 
-"Always"는 독일 사이키델릭/프로그레시브 트랜스 레이블 Insolation이 2001년에 발표한 Psy-Trance, Techno 트랙입니다.
+Always는 2001년 독일의 사이키델릭/프로그레시브 트랜스 라벨 Insolation에서 출시된 Psy-Trance, Techno 트럭.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. You Got To Love It
 A2. The Flying Field
@@ -30,5 +30,5 @@ B2. Whales 'n' Wave (Edit)
 
 [メルカリで購入](https://jp.mercari.com/item/m14929895714?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7eU8M_yts0k?si=uhm_JWH8kt8uFl5P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

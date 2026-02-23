@@ -9,14 +9,14 @@ permalink: /ko/blue-beat-liquid-audio/
 tags:
 - Trance
 - Progressive
-title: Blue Beat – 리퀴드 오디오
+title: Blue Beat – Liquid Audio
 ---
 
 
-독일 레이블 'Plusquam Records'가 2001년 발매한 Boris Blenn의 프로젝트 'Blue Beat'의 2곡 EP입니다.
+2001년 독일 라벨 'Plusquam Records'에서 발매된 Boris Blenn의 프로젝트 'Blue Beat'에 의한 2곡들이 EP입니다.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A  Liquid Audio
 

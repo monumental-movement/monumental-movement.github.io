@@ -9,14 +9,14 @@ permalink: /ko/various-environments/
 tags:
 - Jazz
 - Abstract
-title: 다양한 – 환경
+title: Various – Environments
 ---
 
 
-"환경"은
-2001년 "OM Records" 레이블이 발매한 컴필레이션 앨범이다.
+"Environments"는
+2001년에 라벨 「OM Records」로부터 릴리스된 컴파일·앨범입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Landslide – Muted Voices
 
@@ -43,5 +43,5 @@ F.  Skylight – Primate Exhibit
 
 [メルカリで購入](https://jp.mercari.com/item/m51258354270?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bONSqdHTkzk?si=CndZrEEjmEi6dwEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

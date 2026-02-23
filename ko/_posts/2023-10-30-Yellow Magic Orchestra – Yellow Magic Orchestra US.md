@@ -10,15 +10,15 @@ tags:
 - JPop
 - Synth-Pop
 - Techno
-title: 옐로우 매직 오케스트라 - 옐로우 매직 오케스트라 미국
+title: Yellow Magic Orchestra – Yellow Magic Orchestra US
 ---
 
 
-YMO(Yellow Magic Orchestra) 첫 LP의 미국판입니다.
+YMO(옐로우 매직 오케스트라) 퍼스트 LP의 US반이 됩니다.
 
 日本盤は[こちら](https://monumental-movement.jp/Yellow-Magic-Orchestra-Yellow-Magic-Orchestra/)
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Computer Game "Theme From The Circus"
 
@@ -41,5 +41,5 @@ B4. Mad Pierrot
 
 [メルカリで購入](https://jp.mercari.com/item/m43230673648?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/01rpPco3L8A?si=YKwjRqhscpgvbl9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

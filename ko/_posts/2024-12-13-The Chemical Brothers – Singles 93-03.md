@@ -11,14 +11,14 @@ tags:
 - House
 - Big Beat
 - 00s
-title: 케미컬 브라더스 – 싱글 93-03
+title: The Chemical Brothers – Singles 93-03
 ---
 
 
-'Singles 93–03'은 2003년 발매된 영국 일렉트로닉 뮤직 듀오 The Chemical Brothers 결성 10주년을 기념한 베스트 싱글 컬렉션 앨범이다. 1993년부터 2003년까지 발매된 싱글들을 모아 놓은 앨범이다. 초도 제작에만 포함되는 스페셜 스티커가 함께 제공된다.
+'Singles 93-03'은 2003년에 발매된 UK 일렉트로닉 뮤직 듀오 The Chemical Brothers 결성 10주년을 기념하여 1993년부터 2003년까지 발매한 싱글을 픽업한 싱글 컬렉션 베스트 앨범. 첫회 생산분만 동봉되는 특제 스티커 첨부.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Song To The Siren
 2. Chemical Beats
@@ -38,5 +38,5 @@ title: 케미컬 브라더스 – 싱글 93-03
 
 [メルカリで購入](https://jp.mercari.com/item/m84833515044?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N-dnwFRs6OA?si=KLkB6BFj9DXx4ab_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

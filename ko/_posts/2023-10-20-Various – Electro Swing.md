@@ -9,13 +9,13 @@ permalink: /ko/various-electro-swing/
 tags:
 - Electro
 - Swing-Jazz
-title: 다양한 – 일렉트로 스윙
+title: Various – Electro Swing
 ---
 
 
-2009년 와그람뮤직에서 발매한 'Various – Electro Swing' 입니다.
+Various – Electro Swing은 2009년 Wagram Music에서 출시되었습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Caravan Palace –Jolie Coquine
 2. Mr. Scruf f–Get A Move On

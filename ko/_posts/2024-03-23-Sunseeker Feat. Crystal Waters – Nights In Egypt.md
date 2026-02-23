@@ -10,21 +10,21 @@ tags:
 - House
 - Electronic
 - 00s
-title: 선시커 Feat. 크리스탈 워터스 - 이집트의 밤
+title: Sunseeker Feat. Crystal Waters – Nights In Egypt
 ---
 
 
-추천 Crystal Waters는 1961년 뉴저지 주 Deptford Township에서 태어난 하우스 보컬리스트입니다.
+피처링된 Crystal Waters(크리스탈 워터스)는 하우스 보컬리스트로 1961년에 뉴저지주 뎁트포드 타운십에서 태어났습니다.
 
-그녀는 재즈 뮤지션 Junior Waters의 딸이자 IAH Records를 운영하는 Ethel Waters의 조카입니다.
+재즈 뮤지션의 주니어 워터스의 딸로, 에셀 워터스의 애조이자 IAH Records를 운영하고 있습니다.
 
-어릴 때부터 음악에 둘러싸여 자란 그녀는 아버지의 영향으로 재즈에 익숙해졌고, 1980년대 후반부터 하우스 음악계에 활동하기 시작해 1991년 싱글 'Gypsy Woman (She's Homeless)'로 세계적인 히트를 쳤다.
+어린 시절부터 음악에 둘러싸여 자라, 아버지의 영향으로 재즈에 친밀해, 1980년대 후반부터 하우스 뮤직 씬으로 활동을 시작해, 1991년에 싱글 「Gypsy Woman (She's Homeless)」로 세계적인 대히트를 날렸습니다.
 
-이후 '100% Pure Love', 'Destination Calabria' 등 다수의 히트곡을 발표하며 하우스 뮤직계를 이끄는 아티스트로 자리매김했다.
+그 후도 '100% Pure Love', 'Destination Calabria' 등 수많은 히트곡을 발표해 하우스 뮤직계를 대표하는 아티스트가 되었습니다.
 
-파워풀한 보컬과 중독성 있는 멜로디로 유명한 그는 라이브에서도 압도적인 퍼포먼스를 선보이고 있다. 현재 자신의 레이블인 IAH 레코드를 운영하며 신인 아티스트 발굴 및 육성을 통해 음악계 활성화에 기여하고 있다.
+파워풀한 보컬과 캐치한 멜로디로 알려져, 라이브에서도 압도적인 퍼포먼스를 보여, 현재는 자신의 라벨 IAH Records를 운영해, 신진기예의 아티스트를 발굴·육성하는 등, 음악 씬의 활성화에 공헌하고 있습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Nights In Egypt (Nerio's Dubwork Remix)
 
@@ -37,5 +37,5 @@ B2. Nights In Egypt (Lenny Fontana Vocal Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m71855515257?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8AMkY45WqAI?si=pUPyGdKl7x-TagyY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

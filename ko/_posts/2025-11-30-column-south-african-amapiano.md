@@ -10,18 +10,18 @@ permalink: /ko/column-south-african-amapiano/
 tags:
 - African
 - History
-title: '[칼럼] 남아프리카 아마피아노 — 남아프리카의 새로운 댄스음악 문화'
+title: 【칼럼】 South African Amapiano — 남아프리카발의 새로운 댄스 뮤직 문화
 ---
 
 
 
-## 소개 — 왜 지금 Amapiano를 사용하나요?
+## 소개 — 왜 지금 Amapiano
 
-글 : mmr｜주제 : 아마피아노의 유래, 음악적 특징, 발전의 역사, 주요 아티스트, 국제화 과정
+문장：mmr｜테마：Amapiano의 기원, 음악적 특징, 발전의 역사, 주요 아티스트, 국제화의 과정에 대해서
 
-최근에는 남아프리카공화국에서 시작된 댄스 음악 장르인 **Amapiano**가 일본뿐만 아니라 아프리카, 유럽, 북미, 아시아 전역의 클럽 씬에서 주목을 받고 있습니다.
+최근 남아프리카발 댄스 뮤직 장르 **Amapiano(아마피아노)**는 국내뿐만 아니라 아프리카 전역과 유럽, 북미, 아시아의 클럽 장면에서도 주목을 받고 있습니다.
 
-아마피아노는 타운십(저소득 도시 지역)의 청소년 문화에서 태어나 지역 공동체 내에서 육성된 풀뿌리 음악이다. 2020년대 이후 스트리밍과 SNS의 확산은 한때 '언더그라운드 음악'이었던 것을 글로벌한 움직임으로 변화시켰다.
+Amapiano는 타운십 (도시의 저소득 지구)을 중심으로 한 젊은 문화에서 태어나 지역 커뮤니티에서 자란 풀뿌리 음악입니다. 2020년대 이후, 스트리밍이나 SNS의 보급에 의해, 과거의 「지하 음악」은 세계 규모의 무브먼트로 변모하고 있습니다.
 
 ---
 
@@ -41,31 +41,31 @@ color: #fff;
 
 ## 1장: 기원과 음악적 뿌리
 
-### 음악 장르로서의 배경
+### 음악 장르로 배경
 
-Amapiano는 다음 장르의 영향을 받았습니다.
+Amapiano는 다음 장르의 영향을 받습니다.
 
-* **Kwaito**: 1990년대 남아프리카 도시 지역에서 유행했던 댄스/하우스 음악
-* **Gqom**: 더반에서 시작된 클럽 음악
-* **딥 하우스, 재즈, 라운지, 소울/R&B**
+***Kwaito(콰이트)**: 1990년대 남아프리카의 도시에서 유행한 댄스/하우스계 음악
+***Gqom**: 다반 발상 클럽 뮤직
+*** 딥하우스, 재즈, 라운지, 서울/R&B**
 
-특히, 타운십클럽, 거리파티, 택시정류장 등을 통한 지역사회 봉사활동이 아마피아노 탄생에 중요한 역할을 했다.
+특히, 타운십에서의 클럽, 스트리트 파티, 택시 랭크 등을 통한 커뮤니티 발신이 Amapiano의 탄생에 중요한 역할을 했습니다.
 
-### 음향 기능
+### 음향 특징
 
 Amapiano의 사운드는 다음 요소로 구성됩니다.
 
-* **로그 드럼**: 낮은 베이스와 우디 퍼커션이 혼합된 독특한 사운드입니다.
-* **피아노/키보드**: 장르 이름 "Amapiano"는 줄루어로 "피아노"를 의미합니다.
-* **눈에 띄지 않는 드럼과 셰이커**: 일시정지와 공백을 활용한 리듬 구조
-* **템포**: 110~120 BPM 정도의 느린 그루브
-* **보컬**: 노래, 랩, 코러스 등 다양한 스타일
+* ** 로그 드럼 (Log Drum) ** :베이스베이스와 목재 타악기가 섞인 특징적인 사운드
+***피아노/키보드**: 장르명 「Amapiano」는 줄루어로 「피아노들」을 의미
+* ** 겸손한 드럼과 셰이커 ** : 사이와 여백을 살린 리듬 구조
+* **템포**: 110–120 BPM 정도의 슬로우 그루브
+***보컬**: 노래, 랩, 합창 등 다양한 스타일
 
-이러한 요소들이 결합되어 타운십 클럽과 거리의 청소년 문화를 표현하는 음악이 탄생했습니다.
+이러한 요소가 겹쳐서 타운십 클럽과 거리에서 젊은 문화를 표현하는 음악으로 발전했습니다.
 
 ---
 
-### 그림 1: Amapiano 사운드 구조
+### 그림 1: Amapiano의 사운드 구조
 
 <div class="mermaid">
 graph LR
@@ -79,25 +79,25 @@ graph LR
 
 ---
 
-## 2장: 탄생과 초기 발달(2010년대 초반~중반)
+## 제2장: 탄생과 초기 발전(2010년대 초반~중반)
 
-### 지리 및 시간
+### 지리와 시기
 
-Amapiano의 탄생지는 남아프리카의 **Gauteng**입니다. 특히 중요한 것은 **요하네스버그**와 **프리토리아** 타운십입니다.
+Amapiano의 발상지는 남아프리카의 **가우텐주(Gauteng)**. 특히 **요하네스버그(Johannesburg)**와 **프리토리아(Pretoria)**의 타운십이 중요한 무대입니다.
 
-복수의 소식통에 따르면 아마피아노에 대한 실험은 2012년쯤부터 시작됐고, 이후 장르로서의 통일된 명칭인 '아마피아노'가 확립됐다.
+복수의 자료에 의하면, 2012년경부터 Amapiano의 실험이 시작되고 있어 장르로서의 통일 명칭 「Amapiano」는 나중에 정착했습니다.
 
-### 개척자와 장소의 형성
+### 개척자와 필드 형성
 
-* **MFR Souls(Tumelo Nedondwe & Tumelo Mabe)**는 초기 Amapiano 형성에 기여했습니다.
-* 오디오 소스는 친구들과 공유되며 WhatsApp, 클럽, 파티, 택시 승차장을 통해 퍼집니다.
-* 이번 DIY/풀뿌리 확산은 장르 확립의 초석이 되었습니다.
+* ** MFR Souls (Tumelo Nedondwe & Tumelo Mabe) **가 초기 Amapiano 형성에 기여
+* 음원은 동료 내에서 공유되며 WhatsApp, 클럽, 파티, 택시 랭크를 통해 퍼진다
+* 이 DIY/풀의 뿌리적인 확산이 장르 확립의 토양이 되었다
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Dx62kohEnsg?si=9J2-_DUYJlzvfs5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 그림 2: 탄생지 및 초기 확산
+### 그림 2: 발상지와 초기 확산
 
 <div class="mermaid">
 graph TD
@@ -111,38 +111,38 @@ graph TD
 
 ---
 
-알겠어요. 이제 3장부터 내용을 확장하여 마크다운 다이어그램을 삽입하는 동시에 **일본어로 완전한 초안**을 작성하겠습니다.
+이해입니다. 그러면 3장 이후를 순차적으로 전개하고 Markdown 다이어그램도 삽입하면서 **일본어로 완전 드래프트**를 구축합니다.
 
 ---
 
-## 3장: 장르의 성립과 해체(2017~2019)
+## 3장: 장르 확립과 브레이크(2017~2019)
 
-### 사운드의 견고화/스타일의 통일성
+### 사운드의 덩어리와 스타일의 통일
 
-2017년부터 2019년까지 아마피아노의 음향적 틀은 확고해졌고, DJ들과 청취자들 사이에 공통의 이해가 형성됐다.
+2017~2019년에 걸쳐, Amapiano의 소리의 틀이 굳어져, DJ나 청취자간에 공통 인식이 형성되었습니다.
 이 시기의 특징은 다음과 같습니다.
 
-* 통나무 드럼 x 피아노 x 타악기의 표준화된 조합
-* 템포는 110~120 BPM 정도, 느린 그루브가 형성됨
-* 보컬, 코러스 등 다양한 표현을 시도해보세요
+* 로그 드럼 × 피아노 × 타악기 조합 표준화
+* 템포는 110-120 BPM 전후, 슬로우 그루브가 정착
+* 보컬이나 합창을 더한 다양한 표현이 시험된다
 
-그 결과 아마피아노는 단순한 언더그라운드 음악에서 하나의 스타일로 인정받는 장르로 성장했다.
+이를 통해 Amapiano는 단순한 지하 음악에서 "스타일로 인식되는 장르"로 성장했습니다.
 
 ### 주요 아티스트와 전환점
 
-* **Kabza De Small 및 DJ 마포리사**
+* **Kabza De Small & DJ Maphorisa**
 
-* 2019년 7월 발매된 앨범 **Scorpion Kings**
-* 전국적으로 장르화 및 상업화 촉진
-* 속편 **스콜피온 킹즈의 귀환(2019년 11월)**도 성공했습니다
+* 2019년 7월 앨범 **Scorpion Kings** 출시
+* 장르의 전국적 브레이크와 상업화를 촉진
+* 속편 **The Return of the Scorpion Kings(2019년 11월)**도 성공
 
-이 기간은 Amapiano를 단지 타운십 음악이 아니라 전국적으로나 상업적으로 인정받는 장르로 만들었습니다.
+이 시기에, Amapiano는 단순한 타운십발의 음악이 아니고, 전국적·상업적으로 인지되는 장르가 되었습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u2V08RBLOdM?si=ajNfLm30b3Pom53A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 그림 3: 장르 확립기의 아티스트 관계
+### 그림 3 : 장르 확립기의 아티스트 관계
 
 <div class="mermaid">
 graph LR
@@ -156,35 +156,35 @@ graph LR
 
 ---
 
-## 제4장: 팬데믹 기간과 확산 가속화(2020~2022)
+## 4장: 유행기와 가속화 보급 (2020~2022)
 
-### 코로나19와 온라인 확산
+### COVID‑19와 온라인 확산
 
-*클럽 폐쇄로 인해 2020년 폐쇄됨
-* 아티스트는 전국적으로 인지도를 높이기 위해 믹스를 온라인(예: 발코니 믹스)으로 배포합니다.
-* 메이저리그 DJz 등 젊은 DJ들도 이러한 흐름에 동참하고 있습니다.
+* 2020년 록다운으로 클럽 폐쇄
+* 아티스트는 온라인으로 믹스 전달(예: Balcony Mix)을 실시해 전국 규모로 인지 확대
+* Major League DJz 등 젊은 DJ도 이 흐름에 참가
 
-### 대표앨범
+### 대표 앨범
 
-* **Kabza De Small “나는 Amapiano의 왕입니다: Sweet & Dust”** (2020년 6월)
+* **Kabza De Small "I Am the King of Amapiano: Sweet & Dust"**(2020년 6월)
 
-* 장르적 완성도를 보여주는 앨범.
-* 동아리뿐만 아니라 앨범 작업으로도 즐길 수 있는 작곡
+* 장르의 성숙을 보여주는 앨범
+* 클럽 전용뿐만 아니라 앨범 작품으로 즐길 수 있는 구성
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FnUpA0VsKRo?si=Q_xPDYh1HwCKRzFh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 소리의 다양화
+### 사운드 다양화
 
-* 재즈, 소울, R&B와의 크로스오버는 계속됩니다
-* 여성가수 및 신세대 아티스트의 등장으로 포용성 증대
+* 재즈와 서울, R&B와의 크로스오버 진행
+* 여성 가수와 신세대 아티스트의 등장으로 포섭성이 향상
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f_xp7FUmFKw?si=0D4cB57t3DwI35Gi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 그림 4: 팬데믹 기간 동안의 확산 경로
+### 그림 4: 유행기 단계에서 확산 경로
 
 <div class="mermaid">
 graph LR
@@ -198,20 +198,20 @@ graph LR
 
 ---
 
-## 5장: 국제화 및 글로벌 확장(2021년 이후)
+## 제5장: 국제화와 글로벌 전개(2021년 이후)
 
-### 국경을 넘는 아마피아노
+### 국경을 넘는 Amapiano
 
-* 2021년부터 영국, 유럽, 북미, 아시아의 클럽/페스티벌에서 연주
-* 아프로비트와의 국제협력 및 융합 증가
-* 스트리밍 데이터는 전 세계적으로 수십억 번 재생됩니다(2023년).
+* 2021년 이후 영국, 유럽, 북미, 아시아 클럽/페스에서 플레이
+* 국제 협업과 아프로비츠와의 융합도 증가
+* 스트리밍 데이터에서는 전 세계에서 수십억 회 재생(2023년)
 
-### 대규모 라이브/페스티벌
+### 대규모 라이브 / 축제
 
-* **2025년 8월: Scorpion Kings Live with Friends(프리토리아)**
+*** 2025년 8월: Scorpion Kings Live with Friends (Pretoria)**
 
-* 동원인원 약 5만명
-* 장르의 위상을 '문화적, 사회적 상징'으로 확립
+* 약 50,000명 동원
+* 장르의 「문화적・사회적 상징」으로서의 지위 확립
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T-2AMmBAHOw?si=NEejihEQW1mT5w3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -236,27 +236,27 @@ graph TD
 
 ---
 
-## 6장: 소리의 진화와 현재 — 다양화, 비평, 미래
+## 6장: 사운드의 진화와 현재 — 다양화, 비평, 미래
 
-### 소리의 다양화
+### 사운드 다양화
 
-* 재즈, R&B, 소울, 라운지, 아프로비트, 힙합의 퓨전
-*줄루어, 영어 및 기타 언어로 된 보컬
-* 젊은 예술가들은 새로운 표현 방식을 탐구합니다.
+* 재즈, R&B, 서울, 라운지, 아프로비츠, 힙합과의 융합
+* 보컬은 줄루어, 영어, 다른 언어로 표현
+* 젊은 아티스트가 새로운 표현 방법을 모색
 
-### 비판과 우려
+### 비평과 우려
 
-* 상용화로 인한 '균일성', '안타 노림' 우려
-* 하지만 다양화와 분기화도 동시에 진행되며 장르도 진화하고 있습니다.
+* 상업화에 수반하는 「획일화」 「히트 노려」에 대한 우려
+* 다양화·분기도 동시 진행하고 있어 장르는 진화 중
 
-### 미래의 가능성
+### 미래에 대한 가능성
 
-*남아프리카공화국뿐만 아니라 아프리카 전역과 전 세계적으로 발전하고 있습니다.
-* 스트리밍, 디지털 유통, SNS 확산으로 추가 성장 기대
+* 남아프리카 국내뿐만 아니라 아프리카 전체, 세계 규모로 발전
+* 스트리밍·디지털 전송·SNS에서의 확산에 의해, 추가 성장이 전망된다
 
 ---
 
-### 그림 6: 소리 진화의 다차원 지도
+### 그림 6: 사운드 진화의 다차원 맵
 
 <div class="mermaid">
 graph TD
@@ -273,15 +273,15 @@ graph TD
 
 ---
 
-## 7장: 문화적, 사회적 영향
+## 7장: 문화적, 사회적 의미
 
-* 아마피아노는 마을의 청년문화를 표현한 것입니다.
-* 언어, 지역적 특성, 일상생활, 축제문화 등이 음악에 반영됩니다.
-* 국제화를 통해 '아프리카 청년문화'를 세계에 알리는 창구 역할도 합니다.
+* Amapiano는 타운십의 젊은 문화의 표현 수단
+* 언어·지역성·일상생활·축제 문화가 음악에 반영
+* 국제화에 의해 「아프리카의 젊은이 문화」를 세계에 제시하는 창구로서의 측면도 가진다
 
 ---
 
-### 그림 7: 문화적 표현으로서의 아마피아노
+### 그림 7 : 문화적 표현으로서의 Amapiano
 
 <div class="mermaid">
 graph TD
@@ -294,7 +294,7 @@ graph TD
 
 ---
 
-## 연대기
+## 연표
 
 <div class="mermaid">
 timeline
@@ -311,11 +311,17 @@ timeline
 
 ---
 
-## 마무리
+## 매듭
 
-Amapiano는 타운십 언더그라운드 문화에서 전 세계 클럽 페스티벌까지 확장된 남아프리카의 상징적인 음악 장르입니다.
-그 핵심에는 '통나무 드럼 x 피아노 x 타악기 x 청소년 문화의 표현'이 변함없는 원점으로 남아 있지만 다양화와 국제화 속에서 계속해서 진화하고 있습니다.
+Amapiano는 타운십의 지하 문화에서 세계 클럽 축제로 확장 된 남아프리카의 상징적 인 음악 장르입니다.
+그 핵이 되는 「로그 드럼×피아노×퍼커션×젊은이 문화의 표현」은 흔들림이 없는 원점이면서, 다양화·국제화 속에서 계속 진화하고 있습니다.
 
 ---
 
+### YouTube Podcast
 
+※이 Podcast는 영어입니다만, 자동 자막・번역으로 시청할 수 있습니다
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aB5twZG-_V4?si=-50AUkCwEL67JsUW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

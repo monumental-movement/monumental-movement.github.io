@@ -10,19 +10,19 @@ tags:
 - Disco
 - House
 - 00s
-title: 시몬 페디 - 벨제부 테일즈
+title: Simone Fedi – Belzebu Tales
 ---
 
 
-Simone Fedi는 이탈리아 음악가이자 프로듀서입니다.
+Simone Fedi는 이탈리아 뮤지션 프로듀서.
 
-그는 또한 이탈리아 일렉트로 디스코 펑크 프로젝트 Out Of City의 멤버이기도 합니다.
+이탈리아의 일렉트로 디스코 펑크 프로젝트 Out Of City의 멤버로도 활동하고 있다.
 
-"Belzebù Tales"는 명문 레이블 Eskimo가 2007년에 발표한 디스코 트랙입니다.
+「Belzebù Tales」는, 명문 라벨 Eskimo(에스키모)로부터 2007년에 릴리스된 디스코 트럭.
 
-이 음반은 세계적인 히트를 기록하며 Tiga, Lindstrom, Aeroplane, Jason Eldredge, Low Motion Disco, Munk(Gomma), Serge(Clone), Zak Frost, Piccadilly Records, Phonica Records 등이 리뷰한 Simone Fedi의 시그니처 작품입니다.
+이 레코드는 Tiga, Lindstrom, Aeroplane, Jason Eldredge, Low Motion Disco, Munk (Gomma), Serge (Clone), Zak Frost, Piccadilly Records, Phonica Records 등에서 검토되어 세계적으로 히트한 Simone Fedi의 대표작.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Belzebù Tales
 
@@ -33,5 +33,5 @@ B2. 2m/6ft
 
 [メルカリで購入](https://jp.mercari.com/item/m44593292428?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XngQEonoK-E?si=UoALFHyv3mxe3SFL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

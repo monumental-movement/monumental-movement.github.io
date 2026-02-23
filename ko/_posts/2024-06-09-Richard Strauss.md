@@ -10,16 +10,16 @@ tags:
 - Classical
 - Romantic
 - Opera
-title: 리차드 스트라우스
+title: Richard Strauss
 ---
 
 
-・지휘자: 오토 아커만
-・호른[솔로]: Dennis Brain 데니스 브레인
-・오케스트라: 필하모니아 오케스트라
-・소프라노 보컬: 엘리자베스 슈바르츠코프
+・지휘자 ：Otto Ackermann 오토・아커맨
+・호른[솔로] : Dennis Brain 데니스 브레인
+・오케스트라 : Philharmonia Orchestra 필하모니아 관현악단
+・소프라노 보컬 : Elisabeth Schwarzkopf 엘리자벳 슈발츠콥
 
-#### 트랙리스트
+#### Tracklist
 ```md
 Four Last Songs
 「4つの最後の歌」

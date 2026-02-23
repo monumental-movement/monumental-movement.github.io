@@ -10,13 +10,13 @@ tags:
 - Pop Rock
 - Rock
 - 90s
-title: XTC - 없음
+title: XTC – Nonsuch
 ---
 
 
-"Nonsuch"는 1992년 Virgin이 발매한 영국 록 밴드 XTC의 12번째 스타일 앨범입니다. 프로듀서는 Elton John의 작업을 작업한 Gus Dudgeon입니다. 사랑과 인류애부터 걸프전과 P·T·Barnum에 이르기까지 다양한 주제를 다루는 XTC의 가장 정치적인 앨범이었으며 미국과 영국에서 히트를 쳤습니다.
+'Nonsuch'는 1992년 버진에서 출시된 UK의 록 밴드 XTC의 12번째 스타일 앨범. 프로듀서는 엘튼 존의 작품 등을 다루는 Gus Dudgeon(가스 대전). 사랑, 인간성에서 걸프전쟁, P•T•버넘까지 다양한 주제를 언급한 XTC 중에서 가장 정치적인 앨범이 되어 미국과 영국에서 히트가 되었다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. The Ballad Of Peter Pumpkinhead
 2. My Bird Performs
@@ -39,5 +39,5 @@ title: XTC - 없음
 
 [メルカリで購入](https://jp.mercari.com/item/m12988995058?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zyp3NMeiV_Q?si=TDJweO2diQVY5QqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

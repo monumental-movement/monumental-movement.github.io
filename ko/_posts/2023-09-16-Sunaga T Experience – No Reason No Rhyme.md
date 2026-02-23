@@ -9,15 +9,15 @@ permalink: /ko/sunaga-t-experience-no-reason-no-rhyme/
 tags:
 - Jazz
 - Lounge
-title: 스나가 T 익스피리언스 – No Reason No Rhyme
+title: Sunaga T Experience – No Reason No Rhyme
 ---
 
 
-Sunaga T Experience의 음악은 라운지, 재즈, 보사노바 등의 요소를 결합하여 다양한 음악 애호가의 관심을 끄는 독특하고 일렉트릭한 사운드를 만드는 것으로 유명합니다.
+Sunaga T Experience의 음악은 라운지, 재즈, 보사노바 등의 요소를 도입하여 다양한 음악 애호가들에게 어필하는 독특하고 흥미 진진한 사운드를 만들어내는 것으로 알려져 있습니다.
 
-Sunaga T Experience는 다양한 음악적 영향을 결합하고 매력적인 작품을 만드는 능력으로 인정받고 있습니다.
+Sunaga T Experience는 다른 음악의 영향을 결합하여 매력적인 작품을 만드는 능력으로 평가됩니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. No Reason No Rhyme (Nicola Conte 'Plays A Mode For Tatsuo')
 
@@ -30,5 +30,5 @@ B2. No Reason No Rhyme (Insoft Batucada Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m16005291032?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r3bqxGX5WYA?si=qpenKDA2vGQY9qvy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

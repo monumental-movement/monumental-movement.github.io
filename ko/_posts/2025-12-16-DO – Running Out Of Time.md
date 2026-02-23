@@ -11,17 +11,17 @@ tags:
 - Hardcore
 - Techno
 - 90s
-title: 해야 할 일 – 시간이 부족하다
+title: DO – Running Out Of Time
 ---
 
 
-DO(Digital Orgasm)는 M.N.O.가 결성한 벨기에 테크노 밴드입니다. 프로덕션 트리오 Maurice Engelen(Somora/Praga Khan), Nikkie van Lierop(Jade 4 U, Miss Lie), Oliver Adams.
+DO (Digital Orgasm / 디지털 오르가즘 )는 M.N.O. production 트리오 Maurice Engelen (Somora / Praga Khan), Nikkie van Lierop (Jade 4 U, Miss Lie), Oliver Adams에 의한 벨기에의 Techno 액트.
 
-Digital Orgasm은 Lords Of Acid 및 Channel X와 함께 가장 오랫동안 진행된 프로젝트 중 하나였습니다.
+Digital Orgasm은 Lords Of Acid와 Channel X와 함께 많은 수의 프로젝트 중 가장 오래 지속된 프로젝트 중 하나였다.
 
-A는 Todd Terry의 리믹스입니다. B4는 Josh Wink의 리믹스입니다.
+A는 Todd Terry의 remix. B4는 Josh Wink의 remix.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Running Out Of Time (Todd's Freeze)
 A2. Running Out Of Time (Tee's Dub)
@@ -35,5 +35,5 @@ B4. Running Out Of Time (Winking Groove)
 
 [メルカリで購入](https://jp.mercari.com/item/m22130217044?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZsafZxIqiOA?si=jWjV2llT-DElcpwZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

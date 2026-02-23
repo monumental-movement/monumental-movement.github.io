@@ -10,15 +10,15 @@ tags:
 - Italo
 - Hi NRG
 - Rare
-title: 쿠쿠 - 행복한 날들
+title: Coo Coo – Happy Days
 ---
 
 
-쿠쿠(Coo Coo)는 Mauro Farina, Giuliano Crivellente, Florian Fadinger(F.C.F.)가 프로듀싱한 1980년대 유로비트 고에너지 씬을 대표하는 이탈로 디스코 팝 그룹입니다.
+Coo Coo(쿠쿠)는 Mauro Farina(마우로파리나), Giuliano Crivellente(줄리아노 크리베렌테), Florian Fadinger(플로리안 패딩거)=F.C.F가 프로듀스한 1980년대 유로비트 하이에너지 장면을 대표하는 이탈로디스.
 
-'Happy Days'는 1989년 플리 레코드(Flea Records)에서 발표한 쿠쿠의 시그니처 곡이다.
+「Happy Days(기발해 해피 데이)」는, 1989년에 Flea Records로부터 릴리스된 Coo Coo의 대표곡.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Happy Days (Happy And Lovely Version)
 
@@ -31,5 +31,5 @@ B2. Happy Days (Playback Version)
 
 [メルカリで購入](https://jp.mercari.com/item/m52217858429?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MnRoyp_Rx64?si=o29uiFv2aay1yA8J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

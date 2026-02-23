@@ -9,13 +9,13 @@ permalink: /ko/trancesetters-secrets-of-meditation-neurodisco/
 tags:
 - House
 - Progressive
-title: 트랜세터 – 명상의 비밀 Neurodisco
+title: Trancesetters – Secrets Of Meditation Neurodisco
 ---
 
 
-Trancesetters는 Gaston Steenkist와 Alex Dijksterhuis의 프로젝트입니다. 이번 리믹스는 Zoom Records 레이블을 이끌고 있는 SHITAKE와 Billy Nasty, 그리고 David Wesson이 제작했습니다.
+Trancesetters(트랜스세터)는, Gaston Steenkist와 Alex Dijksterhuis에 의한 프로젝트. Remix는 SHITAKE, 라벨 Zoom Records의 주재 Billy Nasty와 David Wesson에 의한 것.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Secrets Of Meditation (Shi-Take' Anti-Fromage Club Mix)
 
@@ -28,5 +28,5 @@ B2. Secrets Of Meditation (Zoom Hallucinogenic Flange Dub Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m54094258963?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j0Jk1VP6Z80?si=Pm9-Kshxdo7l44ce" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

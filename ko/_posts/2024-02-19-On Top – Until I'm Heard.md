@@ -10,15 +10,15 @@ tags:
 - House
 - Garage House
 - 90s
-title: On Top - 내 말이 들릴 때까지
+title: On Top – Until I'm Heard
 ---
 
 
-On Top은 Darrell Ellerbe, Julius James, Sean Pennington으로 구성된 차고 트리오입니다.
+On Top(온탑)은 Darrell Ellerbe, Julius James, Sean Pennington으로 이루어진 갈라지 트리오.
 
-'Until I'm Heard'는 뉴욕을 기반으로 활동하는 미국 일렉트로닉 댄스 음악 음반사 빅비트(Big Beat)가 1991년 발표한 개러지 하우스 트랙이다.
+'Until I'm Heard'는 뉴욕을 거점으로 두는 미국의 일렉트로닉 댄스 뮤직의 레코드 라벨 Big Beat에서 1991년에 발표된 갈라지 하우스 트럭.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Until I'm Heard (Night Club Mix)
 
@@ -31,5 +31,5 @@ B2. Until I'm Heard (Radio Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m58755691965?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yXl3TUkW5B4?si=mVaxhMLq1i-Ngeka" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,13 +9,13 @@ permalink: /ko/rjd2-heres-whats-left/
 tags:
 - Hiphop
 - Rap
-title: RJD2 – 남은 것은 다음과 같습니다
+title: RJD2 – Here's What's Left
 ---
 
 
-RJD2(Ramble Jon Krohn)는 미국의 힙합/일렉트로닉 프로듀서이자 DJ입니다. 소울 포지션, MHz 레거시(MHz), 아이스버드 등의 그룹에서도 활동 중이다.
+RJD2(Ramble Jon Krohn/램블 존 클론)은 US 힙합/일렉트로닉 프로듀서 겸 DJ. Soul Position, MHz Legacy(MHz), Icebird 등의 그룹에서도 활약.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Here's What's Left
 
@@ -34,5 +34,5 @@ B4. Bonus Beat
 
 [メルカリで購入](https://jp.mercari.com/item/m71199037587?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1inNh-xynW0?si=kYD1-BkvZjmRobpR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

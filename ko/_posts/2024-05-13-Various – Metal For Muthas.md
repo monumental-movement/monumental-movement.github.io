@@ -11,16 +11,16 @@ tags:
 - Heavy Metal
 - Hard Rock
 - 80s
-title: 다양한 – 무타스를 위한 금속
+title: Various – Metal For Muthas
 ---
 
 
-[녹음 아티스트]
-아이언 메이든, 슬레지해머, E.F. 밴드, 젖은 스프로킷 토드, 개구리 에테르, 엔젤 위치, 삼손, 누드
+【수록 아티스트】
+아이언 메이든, 슬레지 해머, E.F. 밴드, 토드 더 웨트 스프로킷, 에테르 더 플로그, 엔젤 마녀, 삼성, 너즈
 
-'헤비메탈로의 초대'라는 제목으로 일본에서 발매된 명작 메탈 옴니버스. 이 앨범은 독일 레이블 Back Bone이 1986년에 발매한 독일 재발매 앨범이다.
+일본에서는 「헤비메탈에의 초대」로서 발매된 명작 메탈 옴니버스. 이 앨범은 1986년 독일 라벨 Back Bone에서 출시된 재발 독일반.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Iron Maiden – Sanctuary
 A2. Sledgehammer – Sledgehammer
@@ -36,5 +36,5 @@ B5. Nutz – Bootliggers
 
 [メルカリで購入](https://jp.mercari.com/item/m55966873928?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a848h5wZrdA?si=k6c6KeQG_F1iA40V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

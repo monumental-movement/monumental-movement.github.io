@@ -10,19 +10,19 @@ tags:
 - House
 - French House
 - 90s
-title: Glaubitz & Roc – Sunshine Day 프랑스 리믹스
+title: Glaubitz & Roc – Sunshine Day The French Remixes
 ---
 
 
-독일의 Electro/Tech-House/Minimal DJ이자 프로듀서인 Carsten Glaubitz와 Electro/Tech-House/Minimal 프로듀서 Oliver Rockstedt(Chris Powell)의 "Sunshine Day"의 프랑스 리믹스입니다.
+독일 출신의 Electro/Tech-House/Minimal DJ & 프로듀서 Carsten Glaubitz와 Electro/Tech-House/Minimal 프로듀서 Oliver Rockstedt(Chris Powell)에 의한 「Sunshine Day」의 프렌치 리믹스.
 
-1999년 프랑스 & 필터 하우스 레이블 Full House에서 발매되었습니다.
+1999년에 프렌치 & 필터 하우스 라벨 Full House에서 발매되었다.
 
-A1은 Robert Collado와 Stéphane Bonan의 리믹스입니다.
+A1은 Robert Collado와 Stéphane Bonan의 remix입니다.
 
-B는 하우스 뮤직에서 "French Touch"의 세계적인 성공에 기여한 DJ Richard Gray의 리믹스입니다.
+B는 하우스 뮤직에서 '프렌치 터치'의 세계적 성공에 공헌한 DJ Richard Grey의 remix.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Sunshine Day (Funky Stuff Ft. Stephane B & Robert Collado Mix)
 A2. Sunshine Day (Radio Edit)

@@ -10,16 +10,16 @@ tags:
 - Rock
 - UK
 - Progressive Rock
-title: 마르코 스포글리 – 리마르코블
+title: Marco Sfogli – reMarcoble
 ---
 
 
-마르코 스포글리(Marco Sfogli)는 이탈리아의 기타리스트입니다. 그는 미국 프로그레시브 메탈 밴드 드림시어터(Dream Theater)의 제임스 라브리(James LaBrie), PFM, 아이스피시(Icefish) 등과 함께 공연했다.
+Marco Sfogli(마르코·스포리)는, 이탈리아의 기타리스트. 미국의 프로그레시브 메탈 밴드 Dream Theater(드림 극장)의 James LaBrie(제임스 라브리에), PFM, Icefish 등과 공연하고 있다.
 
-2012년 JTC 레코드를 통해 발매된 이번 앨범은 마르코 스포글리의 두 번째 솔로 앨범이다.
+2012년 JTC Records에서 발표된 이 앨범은 Marco Sfogli의 두 번째 솔로 앨범.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Intro
 2. Jester's Tears
@@ -36,5 +36,5 @@ title: 마르코 스포글리 – 리마르코블
 
 [メルカリで購入](https://jp.mercari.com/item/m30341234612?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HII6DsljXg4?si=_oGyKVfpH-HZFgnQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

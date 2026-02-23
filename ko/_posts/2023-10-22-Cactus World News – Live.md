@@ -9,15 +9,15 @@ permalink: /ko/cactus-world-news-live/
 tags:
 - Rock
 - Alternative Rock
-title: 선인장 세계 뉴스 - 라이브
+title: Cactus World News – Live
 ---
 
 
-이번 앨범은 1986년 8월 20일 로스앤젤레스 The Whisky에서 열린 콘서트를 실황 녹음한 것이다.
+이 앨범은, 1986년 8월 20일 로스앤젤레스의 The Whisky에서 행해진 콘서트의 라이브 녹음.
 
-B면 세 번째 곡 'America'는 사이먼 앤 가펑클의 곡을 커버한 곡이다.
+B면 3곡째의 「America」는, 사이먼＆가펑클의 곡의 커버.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Church Of The Cold
 
@@ -40,5 +40,5 @@ B4. Jigsaw Street
 
 [メルカリで購入](https://jp.mercari.com/item/m64383057975?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1b0OiptaQZA?si=osnpIxw7p8ShnR4Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

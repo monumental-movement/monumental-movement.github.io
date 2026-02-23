@@ -11,15 +11,15 @@ tags:
 - Techno
 - Minimal
 - 00s
-title: 라이프 – 네버 EP
+title: Life – Never EP
 ---
 
 
-Life는 영국의 충실한 테크노 가수 Oliver Ho가 Cosmic Records의 Cosmic ID 부문에서 발매한 앨범에서 사용한 별칭입니다. Life라는 이름의 트랙은 깊은 부족 테크노가 특징입니다.
+Life는, UK 테크노의 중진 Oliver Ho(오리버·호)가 Cosmic Records의 Cosmic ID 부문으로부터의 릴리스로 사용한 별명. Life 명의의 트랙은 깊은 트라이벌 테크노가 특징.
 
-"Never EP"는 2001년에 발표된 Tribal/Techno/Minimal 트랙입니다.
+「Never EP」는 2001년에 릴리스된 Tribal/Techno/Minimal 트랙.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Untitled
 A2. Untitled
@@ -30,5 +30,5 @@ B2. Untitled
 
 [メルカリで購入](https://jp.mercari.com/item/m42767389390?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/snC33iRyNDs?si=Ef0lG9XF_u51RSK9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

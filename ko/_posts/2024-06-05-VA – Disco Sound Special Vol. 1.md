@@ -11,13 +11,13 @@ tags:
 - Soul
 - Funk
 - 70s
-title: VA – 디스코 사운드 스페셜 Vol. 1
+title: VA – Disco Sound Special Vol. 1
 ---
 
 
-VA – 디스코 사운드 스페셜 Vol. 1 - Disco Sound Special 2디스크 레코드 세트
+VA – Disco Sound Special Vol. 1 - 디스코 사운드 스페셜 2매 세트 레코드
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Stevie Wonder – You Haven't Done Nothin
 A2. The Temptations – Shakey Ground

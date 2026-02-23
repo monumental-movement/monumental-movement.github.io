@@ -11,16 +11,16 @@ tags:
 - Grunge
 - Alternative Rock
 - 90s
-title: 펄잼 – 수확량
+title: Pearl Jam – Yield
 ---
 
 
-펄 잼(Pearl Jam)은 1990년 시애틀에서 결성된 미국의 록 밴드이다. 사운드가든, 너바나와 함께 1990년대 초반 그런지 운동의 대표 밴드로 알려져 있으며, "90년대 미국에서 가장 인기 있었던 로큰롤 밴드"라고도 불린다.
+Pearl Jam(펄 잼)은, 1990년에 시애틀에서 결성된 미국의 록 밴드. 사운드 가든이나 닐바나 등과 함께 90년대 초의 그런지 운동의 주요 밴드로 알려져 있으며, "90년대에서 가장 인기 있는 미국의 로큰롤 밴드"로 알려져 있다.
 
-1998년 발매된 펄잼의 다섯 번째 정규 앨범 'Yield'는 밴드 초창기의 솔직한 록 사운드로 회귀한 듯한 느낌을 준다. 브렌든 오브라이언이 프로듀서로 참여한다.
+1998년에 릴리스한 Pearl Jam 5번째의 스튜디오 앨범 「Yield(이르드)」는, 밴드 초기의 솔직한 락 사운드에의 회귀를 느끼는 마무리가 되고 있다. 프로듀서로서 Brendan O'Brien(브렌던 오브라이언)이 참가하고 있다.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Brain Of J
 2. Faithful
@@ -39,5 +39,5 @@ title: 펄잼 – 수확량
 
 [メルカリで購入](https://jp.mercari.com/item/m86803375444?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vSJ6jYzDOvs?si=XGLtKZ4Zp7UqWTgP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

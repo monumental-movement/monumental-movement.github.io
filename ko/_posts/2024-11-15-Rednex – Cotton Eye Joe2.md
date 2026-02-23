@@ -11,7 +11,7 @@ tags:
 - House
 - Euro House
 - Synth-pop
-title: Rednex – 코튼 아이 조 2
+title: Rednex – Cotton Eye Joe 2
 ---
 
 
@@ -21,11 +21,11 @@ title: Rednex – 코튼 아이 조 2
 
 
 
-Rednex – 코튼 아이 조
+Rednex – Cotton Eye Joe
 
-레드넥스(Rednecks) - 코튼 아이 조(Cotton Eye Joe)
+레드넥스 - 코튼 아이조
 
-#### 트랙리스트
+#### Tracklist
 ```md
 Hatfield Side
 A1. Cotton Eye Joe (Madcow Mix)
@@ -40,5 +40,5 @@ B2. Cotton Eye Joe (Overworked Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m58300098495?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/15m2ORdQi9A?si=A3GFZUrssPzi4ctx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

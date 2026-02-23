@@ -10,18 +10,18 @@ permalink: /ko/junior-wells-and-buddy-guy-live-recording-at-yuhbin-chokin-hall-o
 tags:
 - Blues
 - Rare
-title: Junior Wells & Buddy Guy – 1975년 3월 Yuhbin-Chokin Hall에서 라이브 녹음
+title: Junior Wells & Buddy Guy – Live Recording At Yuhbin-Chokin Hall On March-1975
 ---
 
 
-우체국 저축회관에서 열린 Junior Wells & Buddy Guy의 라이브 녹음입니다.
+주니어 웰스 & 버디 가이에 의한 우편 저금 홀에서의 라이브 레코딩입니다.
 
-버디와 주니어 모두 리더로서의 역량을 발휘하며 앨범 내내 맹활약 중이다.
+버디와 주니어 2명 모두 리더로서 팔을 흔들며, 앨범 전체를 통해 마음껏 활약.
 
-블루스 팬이라면 꼭 봐야 할 2LP 세트입니다.
+블루스를 좋아한다면 절대로 놓칠 수없는 LP2 매 세트입니다.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Let Me love You, Baby
 
@@ -64,5 +64,5 @@ D5. Messin' With The Kid
 
 [メルカリで購入](https://jp.mercari.com/item/m61574554178?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZdBIFuNbhqU?si=UiU10_aC8rWVGJLj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

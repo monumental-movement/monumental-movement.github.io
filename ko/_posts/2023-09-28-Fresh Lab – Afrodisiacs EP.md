@@ -9,13 +9,13 @@ permalink: /ko/fresh-lab-afrodisiacs-ep/
 tags:
 - Hiphop
 - Triphop
-title: Fresh Lab – 최음제 EP
+title: Fresh Lab – Afrodisiacs EP
 ---
 
 
-Afrodisiacs EP는 Jeff Flambeau와 Stéphane Dupoup의 유닛 "Fresh Lab"의 EP로, 1995년 프랑스 레이블 "Yellow Productions"에서 발매되었습니다.
+Afrodisiacs EP는 1995년 프랑스 라벨 'Yellow Productions'에서 출시된 Jeff Flambeau & Stéphane Dupoup의 유닛 'Fresh Lab'의 EP입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. L'Angoisse
 
@@ -26,5 +26,5 @@ B2. Sentiments
 
 [メルカリで購入](https://jp.mercari.com/item/m38141489136){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Lxw7d8xU57Y?si=fme74B_LWo3GGHq5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

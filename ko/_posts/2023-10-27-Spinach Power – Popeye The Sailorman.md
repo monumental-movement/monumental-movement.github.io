@@ -10,15 +10,15 @@ tags:
 - Disco
 - 70s
 - 7inch
-title: 시금치 파워 - 뽀빠이 세일러맨
+title: Spinach Power – Popeye The Sailorman
 ---
 
 
 
-1978년 발표된 '뽀빠이'를 모티브로 한 디스코 곡. '3, 2, 1, 0'으로 시작하는 유명한 곡. 메인보컬에는 니시하마 테츠오(트랜스암 전 리드보컬), 코러스에는 오다 테츠로와 무라타 유미, 하모니카에는 세노오 류이치로가 참여한다.
+1978년에 발매된 「뽀빠이」가 모티브의 디스코 송. 「3, 2, 1, 0」이라고 하는 대사로 시작되는 유명곡. 메인 보컬은 니시 하마 테츠오 (트랜잠의 전 리드 보컬), 코러스는 오다 테츠로와 무라타 아리미, 여동생 오 타카이치로는 하모니카에서 참가.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. ポパイ・ザ・セーラー・マン = Popeye The Sailor Man
 
@@ -27,5 +27,5 @@ B. オリーブとブルートの競走曲
 
 [メルカリで購入](https://jp.mercari.com/item/m15350069400?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vv8fUKDP078?si=wnqPbZ2bFPKYr7mI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

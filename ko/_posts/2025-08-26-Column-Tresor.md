@@ -10,50 +10,50 @@ tags:
 - Techno
 - German Techno
 - 90s
-title: '[칼럼] Tresor - 베를린 언더그라운드에서 세상을 바꾼 테크노 메카'
+title: 【칼럼】 Tresor(트레조아) ― 베를린 지하에서 세계를 바꾼 테크노의 성지
 ---
 
 
-## 베를린의 클럽 문화와 유럽 테크노 씬을 이야기할 때 빼놓을 수 없는 존재 -- **Tresor**
+## 베를린의 클럽 문화, 그리고 유럽의 테크노 씬을 말하는 데 피할 수 없는 존재――**Tresor(트레조아)**
 
 
-글 : mmr │ 주제 : 베를린 클럽 문화와 유럽 테크노 씬
+문장 : mmr | 테마 : 베를린의 클럽 문화, 그리고 유럽의 테크노 장면
 
 <hr>
 
-### 트레소르란 무엇인가요?
+### Tresor란 무엇인가?
 
-Tresor(독일어로 '안전하다'라는 뜻)는 1991년 독일 베를린에서 결성된 클럽으로, 동명의 레이블을 보유하고 있는 테크노 문화의 중심지이다. 냉전 종식에 따른 혼란 속에서도 디트로이트 테크노와 베를린 언더그라운드 문화를 연결하는 가장 중요한 중심지 역할을 했으며, 오늘날까지도 국제적인 영향력을 유지하고 있다.
+Tresor(독일어로 '금고'의 뜻)는 1991년 독일 베를린에서 탄생한 클럽이며, 동명의 라벨도 갖고 있는 테크노 컬처의 중심지. 냉전 종결 후 혼돈 속에서 디트로이트 테크노와 베를린의 지하문화를 연결한 가장 중요한 거점으로 오늘까지 국제적으로 영향력을 유지하고 있다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uDuT0ximZp4?si=vCTf7etqZo_TVcpY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
-### 탄생 배경: 베를린과 냉전 이후의 진공 상태
+### 탄생 배경 : 베를린과 냉전 후 공백
 
-1989년에는 베를린 장벽이 무너졌습니다. 한때 국가가 통제했던 공간은 '무법지대'로 변했고 지하 청년문화의 시험장이 됐다.
+1989년 베를린의 벽이 붕괴. 한때 국가에 관리되었던 공간은 '무법지대'로 되어 언더그라운드인 젊은이 문화의 실험장이 되었다.
 
-버려진 건물, 사용하지 않는 공장, 지하 공간이 클럽으로 바뀌었습니다.
+폐허 빌딩, 사용되지 않게 된 공장, 지하 공간이 클럽화.
 
-서양과 동양의 문화가 융합되고, 자유의 상징인 댄스음악이 울려 퍼졌습니다.
-그 중 Tresor는 옛 백화점의 금고를 개조하여 오픈했습니다. 닫혀진 철문 너머로 들려오는 깊은 중저음은 새로운 시대의 시작을 상징했다.
+서와 동의 문화가 융합해 자유의 상징으로서의 댄스 뮤직이 울렸다.
+그 중 Tresor는 구 백화점의 금고실을 개조해 오픈. 닫힌 철문 안에서 쏟아지는 중저음은 새로운 시대의 개막을 상징했다.
 
 <hr>
 
-### 음악적 의미: 디트로이트와 베를린을 잇는 다리
+### 음악적 의미 : 디트로이트와 베를린의 다리
 
-특히 Tresor는 디트로이트 테크노의 유럽 진출을 위한 발판 역할을 했습니다.
+Tresor는 특히 디트로이트 테크노의 유럽 진출의 비계로 작용했다.
 
 [Juan Atkins](https://amzn.to/4pKH2gP), [Derrick May](https://amzn.to/4mz3EhL), [Kevin Saunderson](https://amzn.to/4nhZU5g)ら「Belleville Three」と呼ばれるデトロイトの創始者たち。
 
 [Jeff Mills](https://amzn.to/4mz3K97), [Blake Baxter](https://amzn.to/4gLRznV), [Underground Resistance](https://amzn.to/4gIEprP)などがベルリンで活動し、Tresorでプレイ。
-그 결과 미국에서 탄생한 미래 지향적이고 정치적인 테크노는 유럽의 클럽 문화와 연결되어 '글로벌 테크노 네트워크'의 기반을 마련하게 됐다.
+이로써 미국에서 태어난 미래적이고 정치성을 띠는 테크노가 유럽의 클럽 문화와 연결되어 ‘글로벌 테크노 네트워크’의 기반을 구축했다.
 
 <hr>
 
-### 라벨 “Tresor Records”
+### 라벨 "Tresor Records"
 
-1991년 부속 클럽으로 설립된 Tresor Records는 중요한 테크노 레이블로 기능하고 있습니다.
+클럽에 병설하는 형태로 1991년에 설립된 Tresor Records는 테크노의 중요 라벨로서 기능.
 
 [Jeff Mills – Waveform Transmissionシリーズ](https://amzn.to/4mJeXE1)
 
@@ -61,74 +61,74 @@ Tresor(독일어로 '안전하다'라는 뜻)는 1991년 독일 베를린에서 
 
 [Drexciya – Neptune’s Lair](https://amzn.to/4nAnhqI)
 
-그는 디트로이트와 베를린의 융합을 상징하는 작품을 많이 발표했다.
-특히 그들의 미니멀하고 하드한 사운드는 1990년대 '유럽 테크노의 뼈대'를 형성했다.
+등, 디트로이트세와 베를린의 융합을 상징하는 작품을 많이 릴리스.
+특히 미니멀하고 단단한 사운드는 90년대 '유럽·테크노의 골격'을 형성했다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-Q09nP62VnU?si=omgAmTm-Qfz58UQD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
-### 트레조르의 상징성과 문화적 영향
+### Tresor의 상징성과 문화적 영향
 
-**산업폐허와 음악의 융합**
+**산업 폐허와 음악의 융합**
 
-트레저는 '폐허 도시 재사용 문화'의 상징이다. 이는 베를린 클럽씬 전체에 계승되어 온 미학의 근원이 되었습니다.
+Tresor는 「도시의 폐허 재이용 문화」의 상징. 베를린 클럽 장면 전체에 계승되는 미학의 원점이 되었다.
 
-**24시간 클럽문화**
+**24시간 클럽 문화**
 
-규제가 느슨했던 베를린에서는 아침, 점심, 밤에도 계속해서 춤을 출 수 있는 공간이 만들어졌다. 그의 스타일은 아직도 전 세계가 부러워하는 대상이다.
+규제가 느슨한 베를린에서는 아침도 낮도 밤에도 계속 춤을 추는 공간이 탄생. 그 스타일은 지금도 세계적으로 부러워하는 대상.
 
-**테크노 = 도시의 정체성**
+**테크노=도시 정체성**
 
-베를린 시가 공식적으로 클럽 문화를 도시 브랜드로 인정한 배경에는 트레조르의 영향력이 있다.
-
-<hr>
-
-### 이전 및 현황
-
-2005년에 원래 위치는 문을 닫았지만 2007년에 동베를린의 이전 발전소로 이전했습니다.
-
-거대하고 무기적인 산업 공간은 테크노 세계관과 더 일치합니다.
-
-현재는 전 세계의 DJ들이 이곳에서 공연을 펼치고 있으며, 계속해서 순례지로 활용되고 있습니다.
+베를린시가 공식적으로 '클럽 문화를 도시 브랜드'로 인식하는 배경에는 Tresor의 영향이 있다.
 
 <hr>
 
-### Tresor와 다른 클럽의 비교
+### 이전 및 현재
 
-**베르겐**: 폐허 문화를 이어받은 2000년대 아이콘.
+2005년, 오리지널의 장소가 폐쇄되는 것도, 2007년에 동베를린의 구 발전소에 이전.
+
+거대하고 무기질인 산업 공간은 오히려 테크노의 세계관에 더욱 매치.
+
+현재도 전세계 DJ가 출연해 '순례지'로서의 역할을 계속하고 있다.
+
+<hr>
+
+### Tresor와 다른 클럽과의 비교
+
+**Berghain**: 마찬가지로 폐허 문화를 계승, 2000년대 이후의 아이콘.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0buhM4bbAx4?si=GJQwz5IQiaf9wYeG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-**E-Werk, WMF**: 두 이름 모두 90년대에 등재되었지만 Tresor가 장기적으로 가장 지속적인 영향력을 행사했습니다.
+**E-Werk, WMF**: 90년대에 나란히 칭했지만, 장기적으로는 Tresor가 가장 지속적인 영향력을 유지했다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zej35KafTZs?si=JiOgYJNaSh5dnTEx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-→ Tresor는 종종 "창립자"로, Berghain은 "후계자"로 언급됩니다.
+→ Tresor는 「시조」, Berghain은 「후계자」라고 하는 경우가 많다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iiuJhq-z2LE?si=5b_nN9GcPSAo27SZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
-### 트레소르의 유산
+### Tresor가 남긴 것
 
-- 디트로이트와 베를린을 연결하는 국제 네트워크
+- 디트로이트와 베를린을 연결한 국제 네트워크
 
-- "테크노=도시의 미래상"의 문화적 가치
+- '테크노=도시의 미래상'이라는 문화적 가치관
 
-- 레이블을 통한 역사적 명작
+- 라벨을 통한 역사적 명반군
 
-- 폐허를 재사용하는 '장소성'의 미학
+- 폐허를 재사용하는 '장소성' 미학
 
-- 베를린이 '세계의 기술 수도'로 불리는 기반
+- 베를린이 '세계의 테크노 수도'라고 불리는 기반
 
 <hr>
 
-### 트레저 체험 꼭 들어보세요 (추천선곡 10선)
+### Tresor를 체감하기 위한 필청반(추천 10선)
 
 - [Jeff Mills – Waveform Transmission Vol.1 (1992, Tresor)](https://amzn.to/4nKBG3w)
 
@@ -152,14 +152,23 @@ Tresor(독일어로 '안전하다'라는 뜻)는 1991년 독일 베를린에서 
 
 <hr>
 
-### 테크노 음악을 '일시적 유행'에서 '보편적 문화'로 승격
+### 테크노라는 음악을 '일과성의 유행'에서 '보편적인 문화'로 승화
 
-단순한 클럽이나 레이블이 아닌 Tresor는 베를린의 역사, 냉전 이후 도시 공간, 디트로이트 흑인 음악의 미래를 연결하는 '문화적 교차로'입니다.
-그 금고에서 흘러나오는 소리는 여전히 전 세계의 클럽 문화에 반향을 일으키며 테크노 음악을 '일시적 유행'에서 '보편적 문화'로 끌어올렸습니다.
+Tresor는 단순한 클럽이나 라벨이 아니라, 베를린의 역사·냉전 후의 도시 공간·디트로이트의 흑인 음악의 미래상을 연결한 「문화적 교차점」이다.
+그 금고실에서 풀려난 소리는 지금도 전세계 클럽 문화에 울려 퍼져 테크노라는 음악을 '일과성의 유행'에서 '보편적인 문화'로 승화시킨 것이다.
 
 ---
 
-### 관련 항목
+
+### YouTube Podcast
+
+※이 Podcast는 영어입니다만, 자동 자막・번역으로 시청할 수 있습니다
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xwtxAjklWUs?si=7Y2a50t-7N_ZlgpX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+### 관련 열
 
 🔗 [【コラム】 テクノの発祥から現在まで ― 名盤と機材でたどる年代史](https://monumental-movement.jp/Column-Techno-History)
 

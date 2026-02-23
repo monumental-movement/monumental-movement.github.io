@@ -9,13 +9,13 @@ permalink: /ko/johannes-heil-paranoid-dancer/
 tags:
 - Techno
 - Minimal Electro
-title: 요하네스 하일 - 편집증 댄서
+title: Johannes Heil – Paranoid Dancer
 ---
 
 
-Heiko Laux의 Kanzleramt 레이블에서 출시된 Johannes Heil의 클래식 Paranoid Dance의 리마스터 버전입니다.
+Heiko Laux (헤이코 라우)의 레이블 Kanzleramt에서 출시 된 Johannes Heil (요하네스 헤일)의 명작 Paranoid Dance의 리마스터 판.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 a. Paranoid Dancer (Re-Mastered Original)
 
@@ -24,7 +24,7 @@ b. Paranoid Dancer (DJ Hell Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m54249919762?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XYfTsWn34dc?si=-S-5fhxtivHGLnpa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mLiV3WD7_oM?si=G4rrkHIPvJQNwD88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

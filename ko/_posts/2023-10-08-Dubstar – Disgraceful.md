@@ -8,16 +8,16 @@ layout: post
 permalink: /ko/dubstar-disgraceful/
 tags:
 - Synth-Pop
-title: Dubstar – 수치스러운
+title: Dubstar – Disgraceful
 ---
 
 
-영국 밴드 Dubstar가 1995년에 발매한 앨범이다. EMI의 자회사인 Food Records가 1995년 10월에 발매한 데뷔 앨범이다.
+1995년 영국의 밴드 Dubstar가 발표한 앨범입니다. 이들의 데뷔 앨범이자 EMI 산하의 Food Records에서 1995년 10월에 발매되었습니다.
 
-아르밤에는 2개 커버가 있는데 1개는 「Not So Manic Now」데, 모토々は1994년 EP 「Somebody's Intermezzo」데Brick Supply에 의해 よよて録 sound가 れた曲입니다. 다른 하나는 "St. Swithin's Day'는 Billy Bragg가 1984년 앨범 'Brewing Up with Billy Bragg'에 처음 녹음한 노래입니다.
+앨범에는 2개의 커버곡이 수록되어 있습니다. 하나는 'Not So Manic Now'로, 원래는 1994년 EP 'Somebody's Intermezzo'에서 Brick Supply가 녹음한 곡입니다. 또 하나는 'St. Swithin's Day'로, 원래는 1984년 앨범 'Brewing Up with Billy Bragg'에서 Billy Bragg에 의해 녹음된 곡입니다.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Stars
 2. Anywhere
@@ -44,5 +44,5 @@ Bonus Tracks
 
 [メルカリで購入](https://jp.mercari.com/item/m21399720747?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o-XA7p8NiAQ?si=7MX8Mdz5dBGtT6CJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

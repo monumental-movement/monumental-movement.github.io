@@ -11,19 +11,19 @@ tags:
 - Electro
 - Progressive House
 - 00s
-title: Deadmau5 – 보상은 정확히 치즈가 아닙니다.
+title: Deadmau5 – The Reward Is Cheese Not Exactly
 ---
 
 
-Deadmau5로도 알려진 Joel Thomas Zimmerman은 캐나다 DJ이자 프로듀서입니다. Deadmau5라는 이름으로 활동하는 그의 작품은 프로그레시브 하우스(Progressive House)와 일렉트로 하우스(Electro House)를 혼합한 스타일이 특징입니다. 그는 지금까지 6개의 그래미상 후보에 올랐습니다.
+Deadmau5(데드마우스) 일 Joel Thomas Zimmerman은 캐나다 출신의 DJ 프로듀서. Deadmau5 명의로 작품은 Progressive House와 Electro House를 믹스시킨 스타일이 특징. 지금까지 그래미상에 6회 지명됐다.
 
-"The Reward Is Cheese / Not Exactly"는 2008년 프랑스 하우스 레이블 Royal Flush Records에서 발매된 테크 하우스 일렉트로 프로그레시브 하우스 트랙입니다.
+'The Reward Is Cheese / Not Exactly'는 2008년 프렌치하우스 라벨 Royal Flush Records에서 출시된 테크하우스 일렉트로 프로그레시브 하우스 트랙.
 
-A는 캐나다 출신 DJ이자 프로듀서인 Jelo와의 공동제작이다.
+A는 캐나다 DJ 프로듀서 Jelo와 공동 제작.
 
-B는 밴드의 세 번째 정규앨범 'Random Album Title'에 수록되어 있다.
+B는 세 번째 스튜디오 앨범 'Random Album Title'(랜덤 앨범 타이틀)에 수록되어 있다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Deadmau5 vs Jelo – The Reward Is Cheese
 
@@ -32,7 +32,7 @@ B. Deadmau5 – Not Exactly
 
 [メルカリで購入](https://jp.mercari.com/item/m58724791682?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0ydmr9yWxAM?si=QuQ993Hm1wjDkxAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YTcopp-mpmo?si=1pfzJeuKKyJIstQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

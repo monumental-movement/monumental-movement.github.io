@@ -9,18 +9,18 @@ permalink: /ko/friction-atsureki/
 tags:
 - Rock
 - Punk
-title: 마찰 – 마찰
+title: Friction – 갈등
 ---
 
 
-"Friction"은 1980년에 발매된 일본 펑크 록 밴드 Friction의 첫 번째 정규 앨범입니다. 프로듀서이자 엔지니어는 Ryuichi Sakamoto입니다. 2005년에 재발매된 앨범입니다.
+「轋轢」는 일본의 펑크 록 밴드 Friction (마찰)의 1980 년 릴리스의 첫 풀 스튜디오 앨범. 프로듀서 엔지니어는 사카모토 류이치. 이 앨범은 2005년 재발반.
 
-[참여멤버]
-・Rec – 보컬, 베이스, 기타
-・츠네마츠 사토시 - 기타
-・치코 히게 – 드럼, 색소폰
+【참가 멤버】
+· 렉 - 보컬,베이스, 기타
+· 츠네 마츠 마사 토시 - 기타
+· 치코 히게 - 드럼스, 색소폰
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. A-Gas
 2. オートマチック・フラ 
@@ -36,5 +36,5 @@ title: 마찰 – 마찰
 
 [メルカリで購入](https://jp.mercari.com/item/m28248906619?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CCiVZYQpJr0?si=wHKuU_ZjheqoXyHR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

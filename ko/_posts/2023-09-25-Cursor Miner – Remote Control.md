@@ -9,17 +9,17 @@ permalink: /ko/cursor-miner-remote-control/
 tags:
 - Techno
 - Leftfield
-title: 커서 광부 - 원격 제어
+title: Cursor Miner – Remote Control
 ---
 
 
-Cursor Miner는 Rob Tubb(실명 Rob Tubb)의 프로젝트입니다.
+Cursor Miner는 본명 Rob Tubb(롭 탭)에 의한 프로젝트입니다.
 
-Cursor Miner는 순수한 댄스플로어 찬가, 뒤틀린 브레이크비트, 정신없는 실험, 팝적인 감각, 사회적 논평이 혼합된 곡입니다.
+Cursor Miner는 순수한 댄스 플로어의 앙셈, 꼬인 브레이크 비트, 미친 실험, 팝 센스, 사회적 코멘트를 풍부하게 담은 작풍입니다.
 
-그는 Beck과 David Bowie가 Kraftwerk 및 Oetaker와 융합된 것으로 묘사되었는데, 이는 90년대 초반의 불법 레이브 도중에 일어난 일이었습니다.
+그는 베크와 데이비드 보위가 크래프트워크와 오테카와 융합하여 1990년대 초 불법 레이브의 한가운데서 무슨 일이 일어나는지 평가되었다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Remote Control
 
@@ -32,5 +32,5 @@ B2. Thaw
 
 [メルカリで購入](https://jp.mercari.com/item/m98630555148?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wqe91RjhE_k?si=0-tgF_BwhHw6BnOw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,13 +10,13 @@ tags:
 - R&B
 - Soul
 - Gospel
-title: 키에라 쉬어드 - 딱 전까지만
+title: Kierra Sheard – Just Until
 ---
 
 
-Kierra Kiki Sheard는 미국 디트로이트 출신의 가스펠 가수입니다. 일본에서는 KiKi로 알려져 있습니다. 그녀의 어머니는 복음 전설인 Clark Sisters의 Karen Clark Sheard입니다.
+Kierra Kiki Sheard(키에라 키키 쉐어드)는, US 디트로이트 출신의 고스펠 싱어. 일본에서는 KiKi(키키)로 알려져 있다. 어머니는 고스펠계의 명문, 클락 시스터즈의 Karen Clark Sheard(카렌 클락 쉐어드).
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Let Go (Rock Soul Remix)
 

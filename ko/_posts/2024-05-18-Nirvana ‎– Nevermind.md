@@ -11,16 +11,16 @@ tags:
 - Grunge
 - Alternative Rock
 - 90s
-title: 너바나 - 신경쓰지마
+title: Nirvana – Nevermind
 ---
 
-너바나(Nirvana)는 얼터너티브 록과 그런지의 선구자로 알려진 미국 록 밴드이다. "Nevermind"는 너바나의 두 번째 앨범으로 빌보드 1위를 차지하며 큰 성공을 거두었습니다. 이 앨범의 성공은 미국에서 그런지/얼터너티브 록 운동을 촉발시켰습니다.
+Nirvana는 대체 블록 및 그런 지의 선구자로 알려진 미국 록 밴드. 'Nevermind'는 Nirvana 두 번째 앨범으로 빌보드 1위에 빛나는 대히트가 됐다. 이 앨범의 히트에 의해 미국에서 그런/얼터너티브 록 무브먼트가 일어났다.
 
-"Smells Like Teen Spirit"은 "Nevermind"의 리드 싱글로 발매되어 너바나의 시그니처 곡이 되었습니다.
+'Smells Like Teen Spirit(스멜스 라이크 틴 스피릿)'은 'Nevermind' 선행 싱글로 출시되어 니르바나의 대표곡이 되었다.
 
-'Something In The Way'라는 곡은 2022년 개봉 예정인 영화 'THE BATMAN'에 사용될 예정이다.
+수록곡 'Something In The Way'는 2022년 공개 영화 'THE BATMAN-더 배트맨-'에서 사용되고 있다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Smells Like Teen Spirit
 A2. In Bloom
@@ -39,7 +39,7 @@ B6. Something In The Way
 
 [メルカリで購入](https://jp.mercari.com/item/m96749166206?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hTWKbfoikeg?si=4OFKMwmxqXEsoe2v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vabnZ9-ex7o?si=0NXz__dn5sqlQNz-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -11,15 +11,15 @@ tags:
 - Grunge
 - Rock
 - 90s
-title: 스펀지 - 썩어가는 피냐타
+title: Sponge – Rotting Piñata
 ---
 
 
-스폰지(Sponge)는 1992년 미시간 주 디트로이트에서 결성된 미국의 록 밴드이다.
+스폰지(Sponge)는 1992년 미시간주 디트로이트에서 결성된 미국의 록 밴드.
 
-1995년에 발매된 "Rotting Piñata"는 Sponge의 첫 정규 앨범이자 걸작이다. 히트곡 'Plowed', 'Molly' 등이 수록됐다.
+1995년에 릴리스한 「Rotting Piñata(로팅 피냐타)」는, Sponge의 퍼스트 스튜디오 앨범이며 대표작. 히트곡 「Plowed」, 「Molly」가 수록되어 있다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Pennywheels
 2. Rotting Piñata
@@ -38,5 +38,5 @@ title: 스펀지 - 썩어가는 피냐타
 
 [メルカリで購入](https://jp.mercari.com/item/m51908375347?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TVUX4uteV2I?si=CwW4kcl2TsmUy9uA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -8,16 +8,16 @@ layout: post
 permalink: /ko/bookem-dano-screem/
 tags:
 - House
-title: 부켐 다노 - 스크리엠
+title: Bookem Dano – Screem
 ---
 
 
-Bookem Dano(Book 'Em Dano), 일명 Sal Dano
-뉴욕 출신의 DJ/프로듀서입니다.
+Bookem Dano (Book 'Em Dano)와 Sal Dano
+NY 출신 DJ / 프로듀서.
 
-'Screem'은 Unofficial에서 발표한 하우스 트랙입니다.
+"Screem"은 Unofficial 릴리스의 House 트랙.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Screem (Vocal)
 

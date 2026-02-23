@@ -11,18 +11,18 @@ tags:
 - Techno
 - Drum n Bass
 - 90s
-title: DJ Gilb-R – 압력
+title: DJ Gilb-R – Pressure
 ---
 
 
-DJ Gilb-R은 프랑스 전자 음악 프로듀서 Gilbert Cohen의 별칭입니다.
+DJ Gilb-R은, 프랑스의 일렉트로닉 뮤직 프로듀서, Gilbert Cohen(길버트 코엔)의 별명.
 
-"Pressure"는 1997년 Gilbert Cohen의 프랑스 레이블 Versatile Records에서 발매되었습니다.
-Techno & Drum n Bass 트랙이 발매되었습니다.
+"Pressure"는 1997년 Gilbert Cohen 자신이 운영하는 프랑스 라벨 Versatile Records에서
+출시된 techno & Drum n Bass 트럭.
 
-B-side는 초이스(Choice)로 알려진 세계적인 DJ 로랑 가르니에(Laurent Garnier)의 리믹스이다.
+B면은 Choice로 알려진 세계적인 DJ, Laurent Garnier(로랑 가르니에)에 의한 리믹스.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Pressure (Original Mix)
 
@@ -32,5 +32,5 @@ Remix, Producer – Laurent Garnier(ローラン・ガルニエ)
 
 [メルカリで購入](https://jp.mercari.com/item/m48438741904?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1_ExUMI86Yw?si=p7zunjsO-_yxtC68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

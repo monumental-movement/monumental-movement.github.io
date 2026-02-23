@@ -12,15 +12,15 @@ tags:
 - Funk
 - Soul
 - 70s
-title: Donna Summer – 모든 조명을 어둡게 하세요
+title: Donna Summer – Dim All The Lights
 ---
 
 
-"Dim All The Lights"는 1979년 Casablanca 레이블에서 발매된 디스코 트랙입니다.
+Dim All The Lights는 1979년 라벨 Casablanca에서 출시된 Disco 트럭.
 
-프로듀서는 조르지오 모로더(Giorgio Moroder)와 피트 벨로트(Pete Bellotte)입니다. 해럴드 팔터마이어(Harold Faltermeyer)가 편곡했습니다.
+프로듀서는 Giorgio Moroder (조르지오 모로다) & Pete Bellotte (피트 벨롯). 어레인지는 Harold Faltermeyer(해롤드 포르타 메이어).
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Dim All The Lights
 
@@ -29,5 +29,5 @@ B. There Will Always Be A You
 
 [メルカリで購入](https://jp.mercari.com/item/m87692641934?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XxI4wBO4kZQ?si=UIuN2bxnR1lTMXVf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

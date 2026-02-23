@@ -10,31 +10,31 @@ tags:
 - House
 - Deep House
 - Future Jazz
-title: 클랜 그레코 – 브라시시티
+title: Clan Greco – Brassisity
 ---
 
 
-클랜 그레코(Clan Greco)는 Neffa e Sud Sound System의 프로듀서이자 공동 프로듀서인 Ricky Rinaldi와 DJ Rodriguez, Bossa Nostra, Gazzara 등의 아티스트와 이탈리아 트럼펫 연주자 Massimo Greco가 결성한 유닛입니다.
+Clan Greco는 Neffa e Sud Sound System, DJ Rodriguez, Bossa Nostra, Gazzara 등의 프로듀서 겸 공동 프로듀서 Ricky Rinaldi와 이탈리아 트럼펫 연주자 Massimo Greco의 유닛.
 
- 참여작가
+≡ 참가 아티스트
 
-베이스: 크리스티앙 리시
+기초: Christian Lisi
 
-드럼: 로베르토 폰치오, 로베르토 로시
+드럼: Roberto Ponzio, Roberto Rossi
 
-키보드: 마에스트로 가로팔로, 미셸 트롬베티
+키보드: Maestro Garofalo, Michele Trombetti
 
-색소폰: 치코 몬테피오리
+색소폰: Chicco Montefiori
 
-트럼펫 : 마시모 그레코
+트럼펫: Massimo Greco
 
 보컬: 실비아 도나티
 
-프로듀서 마시모 그레코, 옴 구루
+프로듀서 Massimo Greco, Ohm Guru
 
-공동제작: 브라스 어벤저스
+공동 프로듀서: Brass Avengers
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Fast Salsa
 
@@ -63,5 +63,5 @@ D3. Full Funk
 
 [メルカリで購入](https://jp.mercari.com/item/m65234589421?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LxDli9S5iKQ?si=qB-NlJXbDH_BJZcf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

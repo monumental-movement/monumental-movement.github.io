@@ -10,20 +10,20 @@ tags:
 - Deep House
 - House
 - 00s
-title: 매직넘버 – 플라이어웨이
+title: Magicnumber – Flyaway
 ---
 
 
 
-매직넘버는 영국의 음악가/작곡가/프로듀서/베이시스트 Ross Hillard의 별칭입니다. Magicnumber라는 이름으로 그는 하우스, 소울, 다운템포, 재즈 및 오케스트라 요소를 포함하는 광범위한 사운드를 개발합니다.
+Magicnumber는 영국의 뮤지션/작곡가/프로듀서/베이시스트 Ross Hillard의 별명의. Magicnumber 명의에서는 하우스, 서울, 다운템포, 재즈~오케스트랄 요소를 도입한 폭넓은 사운드를 전개하고 있다.
 
-'Flyaway'는 모던&어반 클럽/라운지 음악 전문 레이블 스테레오 디럭스(Stereo Deluxe)가 2004년 발표한 딥하우스(Deep House) 트랙이다.
+"Flyaway"는 2004 년 modern & urban club / lounge 뮤직에 특화된 라벨 Stereo Deluxe에서 출시된 Deep House 트랙.
 
-A2는 Conan Manchester와 Dan Smith로 구성된 영국 하우스 프로덕션 팀인 Liquid People의 리믹스입니다.
+A2는 Conan Manchester와 Dan Smith에 의한 영국의 House 프로덕션 팀 Liquid People의 리믹스.
 
-B2는 Andy Mac과 DJ/프로듀서 Atjazz(Martin Iveson)의 리믹스입니다.
+B2는 Andy Mac과 DJ/프로듀서 Atjazz(Martin Iveson)에 의한 리믹스.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Fly Away (Original)
 A2. Fly Away (Liquid People Vocal Mix)
@@ -34,5 +34,5 @@ B2. Fly Away (Little Big Bee Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m95412444381?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H_lhLRH7phA?si=RcZujc15gxSoiY7z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

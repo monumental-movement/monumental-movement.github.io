@@ -12,20 +12,20 @@ tags:
 - Breaks
 - Electro
 - 00s
-title: 다이델로스 – 그렇게 만들어라
+title: Daedelus – Make It So
 ---
 
 
-LA를 기반으로 활동하는 미국의 음악 프로듀서, Daedelus로 알려진 Alfred Weisberg-Roberts는 다양한 음악적 요소를 혼합하는 실험적인 방법을 통해 독특한 사운드를 구성하는 아티스트입니다. 'Make It So'는 영국 명문 레이블 Ninja Tune이 2008년 발매한 정규 앨범 'Love to Make Music To'의 싱글 컷이다.
+Daedelus 명의로 알려진 LA를 거점으로 한 US 음악 프로듀서 Alfred Weisberg-Roberts는 다양한 음악 요소를 섞은 경험 기법으로 독특한 사운드를 구축하는 아티스트. 「Make It So」는, 2008년에 UK의 명문 라벨 Ninja Tune으로부터 릴리스 되어 스튜디오 앨범 「Love to Make Music To」로부터의 싱글 컷.
 
-Side A의 첫 번째 곡은 Spank Rock의 전 멤버인 XXXchange의 리믹스입니다.
+A면 1곡째는, 전 Spank Rock(스펑크 록)의 멤버의 XXXchange에 의한 remix.
 
-B면의 첫 번째 곡은 일렉트로닉 음악 베테랑 DJ 문스타(Moonstarr)이다.
-리믹스
+B면 1곡째는 일렉트로닉 뮤직계의 베테랑 DJ Moonstarr
+에 의해 remix.
 
-B면의 두 번째 곡은 LA를 기반으로 활동하는 미국 힙합 프로듀서이자 플라잉 로터스(Flying Lotus)와 함께 프로듀싱 듀오 FLYamSAM으로 활동하고 있는 Samiyam의 리믹스 곡이다.
+B면 2곡째는, LA를 거점으로 하는 US힙합 프로듀서이며, Flying Lotus(플라잉 로터스)와의 프로덕션 듀오 FLYamSAM으로서도 활동하는 Samyyam에 의한 remix.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Make It So (XXXchange Remix)
 A2. Make It So (Album Version)
@@ -36,5 +36,5 @@ B2. Make It So (Samiyam Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m72975303181?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lCylb7E0EXY?si=HxEuDUNKPER_Uss8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

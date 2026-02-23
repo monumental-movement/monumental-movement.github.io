@@ -9,15 +9,15 @@ permalink: /ko/the-eclectics-idle-worship/
 tags:
 - Ska
 - Punk
-title: 절충주의 – 유휴 예배
+title: The Eclectics – Idle Worship
 ---
 
 
-'유휴 예배'란
-1997년 Jump Up! 레이블에서 발매된 미국의 스카펑크 밴드 The Eclectics의 앨범입니다. 기록.
+"Idle Worship"은
+1997년 라벨 'Jump Up! Records'에서 발매된 미국 스카펑크 밴드 The Eclectics의 앨범입니다.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Harry
 
@@ -42,5 +42,5 @@ B5. It's Not About You, Kevin
 
 [メルカリで購入](https://jp.mercari.com/item/m30039999033?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WmUk00-yjyA?si=21WltiWT7Vp6VxFn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,20 +10,20 @@ tags:
 - Drum n Bass
 - Downtempo
 - 90s
-title: 어스바운드 – 레지의 탈출
+title: Earthbound – Reggie's Escape
 ---
 
 
-Earthbound는 Alex Dallas와 Alex Gustafson으로 구성된 듀오입니다.
+Earthbound(어스 바운드)는, Alex Dallas와 Alex Gustafson에 의한 듀오.
 
-스위스 취리히에 본사를 둔 레이블인 Straight Ahead가 1998년에 발매한 Earthbound의 "Reggie's Escape"의 Drum n Bass/Downtempo 리믹스(1999)입니다.
+스위스 취리히를 거점으로 하는 라벨 Straight Ahead로부터 1998년에 릴리스된 Earthbound 「Reggie's Escape 」의 Drum n Bass/Downtempo remix(1999년).
 
-A는 영국 정글 DJ Charlie Dark(Charlie Williams/Attica Blues)의 리믹스입니다.
+A는, UK의 정글(jungle)DJ Charlie Dark(Charlie Williams/Attica Blues)에 의한 remix.
 
-B는 드럼 앤 베이스 프로젝트 Hidden Agenda에서도 활동했던 Marx라고도 알려진 Mark Goodings의 리믹스입니다. Mark Goodings는 Switch, Phonique, Trevor Loveys 등을 위한 믹스도 만들었습니다.
+B는 Drum and Bass 프로젝트 Hidden Agenda로도 활약한 Markx Mark Goodings에 의한 remix. Mark Goodings는 Switch, Phonique, Trevor Loveys 등의 mix도 다루고 있다.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Reggie's Escape (Attica Blues Remix)
 
@@ -32,5 +32,5 @@ B. Reggie's Escape (Marx Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m90786572080?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EWwjOaNLYUc?si=rsf0WlLXqBrDm6a9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

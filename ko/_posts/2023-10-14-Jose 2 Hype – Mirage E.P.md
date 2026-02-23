@@ -9,15 +9,15 @@ permalink: /ko/jose-2-hype-mirage-e-p/
 tags:
 - House
 - Hard House
-title: 호세 2 하이프 – 미라지 E.P
+title: Jose 2 Hype – Mirage E.P
 ---
 
 
-Jose 2 Hype라고도 알려진 Jose Gutierrez는 1992년부터 테크노와 레이브 문화의 선구자 중 한 명입니다.
+Jose Gutierrez(호세 구티에레스), 일명 Jose 2 Hype는 1992년 이래 테크노 씬, 레이브 컬처의 선구자 중 한 명으로 여겨지고 있습니다.
 
-1996년 시카고 레이블 Underground Construction에서 발매된 "Jack Attack"은 Jose 2 Hype의 주제가입니다.
+1996년에 시카고의 라벨 Underground Construction에서 출시된 「Jack Attack은」Jose 2 Hype의 앙셈.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Jack Attack
 
@@ -28,5 +28,5 @@ B. A Bailar
 
 [メルカリで購入](https://jp.mercari.com/item/m71182259236?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ff97zRPQPAM?si=lON_HVWZ4sk9qML_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

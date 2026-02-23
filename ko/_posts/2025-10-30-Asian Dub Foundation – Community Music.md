@@ -11,7 +11,7 @@ tags:
 - Dub
 - Drum n Bass
 - 00s
-title: Asian Dub Foundation – 커뮤니티 뮤직
+title: Asian Dub Foundation – Community Musick
 ---
 
 
@@ -21,11 +21,11 @@ title: Asian Dub Foundation – 커뮤니티 뮤직
 
 
 
-Asian Dub Foundation은 영국의 일렉트로니카 댄스 밴드입니다. 그들의 스타일은 랩 록, 더빙, 댄스홀, 라가, 레게 EDM 및 남아시아 음악이 혼합되어 있습니다.
+Asian Dub Foundation은 UK 출신의 일렉트로니카 댄스계 밴드. 랩록, 덥, 댄스홀, 라가, 레게 EDM, 남아시아 음악 등을 믹스하는 스타일이 특징.
 
-대박 히트 앨범 '라피의 복수' 이후 2년 만인 2000년 발매된 '커뮤니티 뮤직'은 아시안 더브 파운데이션의 세 번째 앨범으로 각계에서 높은 평가를 받았다. 보컬/MC 디더 자만이 그해 말 밴드를 떠나면서 디더 자만이 참여한 마지막 앨범이 되었다.
+대히트한 앨범 「Rafi's Revenge」로부터 2년 후인 2000년에 발매된 「Community Music」은, 각 방면에서 고평가를 얻은 Asian Dub Foundation 3번째 앨범. 이 해 말에 보컬/MC의 Deeder Zaman이 탈퇴했기 때문에, Deeder Zaman이 참가한 마지막 앨범이 되었다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Real Great Britain
 2. Memory War
@@ -45,5 +45,5 @@ Asian Dub Foundation은 영국의 일렉트로니카 댄스 밴드입니다. 그
 
 [メルカリで購入](https://jp.mercari.com/item/m52736138135?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L_n52L389e0?si=UXfed_6JpX38og2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

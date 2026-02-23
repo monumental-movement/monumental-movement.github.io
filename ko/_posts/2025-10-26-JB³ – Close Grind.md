@@ -9,13 +9,13 @@ permalink: /ko/jb³-close-grind/
 tags:
 - Techno
 - 90s
-title: JB³ – 클로즈 그라인드
+title: JB³ – Close Grind
 ---
 
 
-미국 테크노 DJ 겸 프로듀서 Joey Beltram이 1996년 NovaMute 레이블에서 JB³라는 이름으로 발매한 테크노 앨범입니다. 재킷은 Aphex Twin 로고 디자인으로 유명한 영국 그래픽 디자이너 Paul Nicholson이 디자인했습니다.
+미국의 테크노 DJ/프로듀서 Joey Beltram(조이 벨트램)이 JB³ 명의로 1996년에 라벨 NovaMute로부터 릴리스한 Techno 앨범. 재킷은, Aphex Twin의 로고 디자인으로 알려진 UK의 그래픽 디자이너 Paul Nicholson에 의한 것.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Time
 2. Curb
@@ -30,5 +30,5 @@ title: JB³ – 클로즈 그라인드
 
 [メルカリで購入](https://jp.mercari.com/item/m87834647611?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m9gANN6efHk?si=fww_IA4zo9FsEEzj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

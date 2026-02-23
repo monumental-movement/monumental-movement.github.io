@@ -10,16 +10,16 @@ tags:
 - Jazz
 - Rock
 - 00s
-title: 특별한 기타 – 스타
+title: Special Others – Star
 ---
 
 
-스페셜 아더즈(Special Others)는 즉흥 재즈와 포스트록을 혼합한 스타일을 지닌 일본의 잼 밴드입니다. 각 멤버에게는 Afrobeat 창립자이자 전설적인 드러머 Tony Allen이 중간 이름을 부여했습니다.
+Special Others(스페셜 아더즈)는, 즉흥 jazz와 포스트 락을 믹스시킨 스타일이 특징의 일본의 잼 밴드. 각 멤버에는 아프로비트의 창시자로 전설의 드러머 Tony Allen(토니 앨런)이 붙였다는 미들네임이 있다.
 
-빅터는 2007년에 발매한 미니앨범이다.
+이 미니앨범은 2007년 빅터에서 발매되었다.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Star
 2. Surdo
@@ -31,5 +31,5 @@ title: 특별한 기타 – 스타
 
 [メルカリで購入](https://jp.mercari.com/item/m26886931878?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/INZo6eIFzuc?si=G63hMbf7RxlK7Hnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,13 +9,13 @@ permalink: /ko/el-cubano-todos-a-la-fiesta-eo-eo-si-tu-quieres/
 tags:
 - Euro
 - House
-title: 엘 쿠바노 – Todos A La Fiesta Eo Eo Si Tu Quieres
+title: El Cubano – Todos A La Fiesta Eo Eo Si Tu Quieres
 ---
 
 
-El Cubano의 Todos A La Fiesta/Eo Eo Si Tu Quieres는 이탈리아 레이블 Muzic Without Control Records가 발표한 라틴 유로하우스 트랙입니다.
+El Cubano의 Todos A La Fiesta / Eo Eo Si Tu Quieres는 이탈리아 라벨 "Muzic Without Control Records"에서 출시 된 라틴 유로 하우스 트랙입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Todos A La Fiesta
 

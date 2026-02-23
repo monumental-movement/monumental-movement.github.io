@@ -10,13 +10,13 @@ tags:
 - Hiphop
 - Latin
 - 00s
-title: 소울유닛 - 카사노바
+title: Soul Unit – Cassanova
 ---
 
 
-소울 유닛의 EP 'Casanova'에는 The Pharcyde의 트랙 메이커 Spaceboy Boogie X가 프로듀싱한 라틴 힙합 트랙이 포함되어 있습니다.
+서울 유닛에 의한 EP 「카사노바」에 수록되고 있는 것은, The Pharcyde(퍼사이드)의 트럭 메이커 Spaceboy Boogie X(스페이스 보이 부기 X)가 프로듀스한 라틴・힙합 트럭.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Cassanova (Dirty)
 

@@ -10,13 +10,13 @@ tags:
 - Soul
 - RnB
 - 7inch
-title: 다양한 – 골든 R&B
+title: Various – Golden R&B
 ---
 
 
-"Various – Golden R&B"는 Tamla Motown의 Golden Compact 시리즈의 일부로 출시되었습니다.
+Various – Golden R&B는 모타운(Tamla Motown)의 골든 컴팩트 시리즈 중 하나로 출시되었습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. The Temptations –My Girl
 

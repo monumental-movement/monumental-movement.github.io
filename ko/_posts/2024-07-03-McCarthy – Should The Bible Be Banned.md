@@ -10,15 +10,15 @@ tags:
 - Indie Rock
 - Rock
 - 80s
-title: 매카시 – 성경은 금지되어야 하는가?
+title: McCarthy – Should The Bible Be Banned?
 ---
 
 
-McCarthy는 1985년부터 1990년까지 활동한 영국의 인디 록 밴드입니다. 멤버는 드럼의 Gary Baker, 기타와 보컬의 Malcolm Eden, 리드 기타의 Tim Gane, 베이스의 John Williamson입니다. 밴드가 해체된 후 Tim Gane과 은행 보컬 Laetitia Sadier가 Stereolab을 결성했습니다.
+McCarthy(맥카시)는 1985년부터 1990년까지 활동한 영국의 인디 록 밴드. 멤버는 드럼의 Gary Baker(게리 베이커), 기타와 보컬의 Malcolm Eden(말콤 이덴), 리드 기타의 Tim Gane(팀 게인), 베이스의 John Williamson(존 윌리엄슨). 밴드 해산 후 Tim Gane과 뱅크 보컬의 Laetitia Sadier는 Stereolab을 결성했다.
 
-'성서는 금지되어야 하는가?' 1998년 9월 영국 레이블에서 발매되었습니다.
+「Should The Bible Be Banned?」는 UK의 라벨 September로부터 1998년에 발매되었다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Should The Bible Be Banned?
 
@@ -28,5 +28,5 @@ B2. Saint Francis Amongst The Mortals
 
 [メルカリで購入](https://jp.mercari.com/item/m42183766686?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YCc_lMcu4ls?si=_sMHa2n0pBdfN1er" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

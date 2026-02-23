@@ -10,16 +10,16 @@ tags:
 - Funk
 - Soul
 - 80s
-title: 린치 - 내가 알아냈어
+title: Lynch – I Found Out
 ---
 
 
-린치(Lynch)라고도 알려진 로저 린치(본명 Roger Troutman II)는 미국의 전설적인 펑크 음악가 Roger Troutman의 아들입니다.
+Lynch(린치)와 Roger Lynch(본명 Roger Troutman II)는 전설적인 US의 펑크 뮤지션 Roger Troutman(로저 트라우트만)의 아들.
 
-1989년 Capitol Records에서 발매된 "I Found Out"은 Roger Troutman이 프로듀싱했으며 Lester Troutman과 Larry Troutman을 포함한 Zapp 멤버들이 출연했습니다.
+1989년에 Capitol Records에서 발매된 'I Found Out'은 Roger Troutman이 프로듀스하고 Lester Troutman, Larry Troutman 등 Zapp 멤버가 참가하고 있다.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. I Found Out (Extended Version)
 A2. I Found Out (Instrumental)
@@ -30,5 +30,5 @@ B2. I Found Out (Street Dub)
 
 [メルカリで購入](https://jp.mercari.com/item/m72415374434?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4Odqnfn_N2E?si=ERXfau9ZelQkekqe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

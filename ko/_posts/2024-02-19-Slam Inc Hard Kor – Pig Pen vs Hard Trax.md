@@ -10,13 +10,13 @@ tags:
 - House
 - Hard House
 - 00s
-title: Slam Inc Hard Kor – 돼지 펜 vs Hard Trax
+title: Slam Inc Hard Kor – Pig Pen vs Hard Trax
 ---
 
 
-Slam Inc Hard Kor의 EP "Pig Pen vs Hard"는 TraxCalvin Sheppard와 William Kimber가 설립한 영국 하드 하우스/NRG 레이블인 Alphamagic의 하위 레이블인 Bangin Out Tunes에서 2000년에 발매된 하드 하우스 트랙입니다.
+Slam Inc Hard Kor의 EP 「Pig Pen vs Hard」는, TraxCalvin Sheppard 와 William Kimber가 설립한 UK하드하우스/NRG라벨Alphamagic의 서브라벨 Bangin Out Tunes로부터 2000년에 릴리스 된 하드하우스 트럭.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A.  Slam Inc – Take Me Away
 

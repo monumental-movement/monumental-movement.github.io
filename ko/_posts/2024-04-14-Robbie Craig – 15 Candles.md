@@ -9,17 +9,17 @@ permalink: /ko/robbie-craig-15-candles/
 tags:
 - House
 - UK Garage
-title: 로비 크레이그 - 15개의 양초
+title: Robbie Craig – 15 Candles
 ---
 
 
-"15 Candles / L.O.V.E. Feeling"은 East17 보컬리스트(2014년~) Robbie Craig의 영국 개러지 트랙입니다.
+「15 Candles/L.O.V.E. Feeling」은, East17의 보컬(2014년~) Robbie Craig(로비 크레이그)에 의한 UK 갈라지 트럭.
 
-프로모션 에디션은 700부 한정입니다.
+700장 한정 프로모판.
 
-Side A는 영국의 차고 아티스트 Laurence Bagnall과 Stanton Warriors 멤버이자 영국의 차고/하우스/베이스 음악 프로듀서인 Mark Yardley가 리믹스한 곡입니다.
+A면은 UK 갤러지 아티스트 Laurence Bagnall과 Stanton Warriors의 멤버이며 UK 갤러지 하우스 베이스 뮤직의 프로듀서 Mark Yardley의 remix.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. 15 Candles (Lawrence Bagnall & M. Yardley Remix)
 

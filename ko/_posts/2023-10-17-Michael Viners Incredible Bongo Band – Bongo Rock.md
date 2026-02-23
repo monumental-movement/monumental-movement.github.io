@@ -9,13 +9,13 @@ permalink: /ko/michael-viners-incredible-bongo-band-bongo-rock/
 tags:
 - Break Beat
 - Funk
-title: Michael Viner의 인크레더블 봉고 밴드 - Bongo Rock
+title: Michael Viner's Incredible Bongo Band – Bongo Rock
 ---
 
 
-1973년에 발매된 악기 펑크 밴드 Michael Viner's Incredible Bongo Band의 Bongo Rock 앨범은 펑크, 소울, 브레이크비트의 요소를 통합했으며 나중에 힙합과 브레이크비트 장면의 수많은 아티스트에 의해 샘플링되었습니다.
+1973년에 발매된, 인스트루멘탈 펑크 밴드 「Michael Viner's Incredible Bongo Band」에 의한 앨범 「Bongo Rock(봉고 록)」은, 펑크, 서울, 브레이크 비트의 요소를 도입한 악곡으로, 후에 힙합, 브레이크 비트 씬으로 수많은 아티스트가 샘플링했다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Let There Be Drums
 
@@ -36,5 +36,5 @@ B4. Bongo Rock '73
 
 [メルカリで購入](https://jp.mercari.com/item/m78122334102?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bVqjD_JyCKM?si=oFsISYT0tOz9RozH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,16 +10,16 @@ tags:
 - Electro
 - Pops
 - 00s
-title: 모모 - 나를 행복하게 해주세요
+title: Momo – Make Me Happy
 ---
 
 
-포스트펫의 핑크곰 'MOMO'가 2000년에 발표한 프로젝트 음반. 프로듀서는 이시이 켄.
+PostPet(포스트 펫/약칭 포스페)의 핑크의 곰 「MOMO(모모)」의 2000년에 릴리스 된 기획 레코드. 프로듀서는 Ken Ishii (켄이시이).
 
-A면의 두 번째 곡은 Co-Fusion의 타니 헤이고(Heigo Tani)가 리믹스한 곡입니다.
+A면 2곡째는 Co-Fusion(코퓨전)의 계곡 오에 의한 remix.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Make Me Happy (Momo's Theme)
 

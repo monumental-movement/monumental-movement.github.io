@@ -9,15 +9,15 @@ permalink: /ko/davecore-run-ep/
 tags:
 - Electro
 - Breaks
-title: 데이브코어 – 달려라! EP
+title: Davecore – Run! EP
 ---
 
 
-"런! EP"는
-스웨덴 레이블 "Kône Records"가 2002년에 발매한 Davecore의 EP입니다.
+「Run! EP」는,
+2002년 스웨덴의 라벨 "Kône Records"에서 출시된 Davecore의 EP입니다.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Run!
 
@@ -30,5 +30,5 @@ B2. Lab Test
 
 [メルカリで購入](https://jp.mercari.com/item/m24628076259?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7id1FEalqLk?si=m4pcltIJ3kh2RNy0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

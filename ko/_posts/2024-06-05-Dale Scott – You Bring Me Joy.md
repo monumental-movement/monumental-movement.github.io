@@ -12,15 +12,15 @@ tags:
 - Promo
 - Remix
 - 90s
-title: 데일 스캇 – 당신은 나에게 기쁨을 가져다줍니다
+title: Dale Scott – You Bring Me Joy
 ---
 
 
-"You Bring Me Joy"는 1994년 뉴욕 레이블 JoJo Records에서 발매된 딥 하우스 및 차고 하우스 트랙입니다.
+'You Bring Me Joy'는 뉴욕의 라벨 JoJo Records에서 1994년에 발표된 딥 하우스 & 갈라지 하우스 트럭.
 
-B면의 두 번째 트랙은 미국의 DJ이자 음반 프로듀서이자 하우스 음악의 선구자인 Kerri Chandler의 리믹스입니다.
+B면 2곡째는, 미국의 DJ&레코드 프로듀서이며, 하우스 뮤직의 선구자 Kerri Chandler(켈리 챈들러)에 의한 remix.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. You Bring Me Joy (Original)
 A2. You Bring Me Joy (Joy Again)
@@ -31,5 +31,5 @@ B2. You Bring Me Joy (6:23 Joy Revival)   Remix – Kerri Chandler
 
 [メルカリで購入](https://jp.mercari.com/item/m56965537662?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zoD39QiQqBM?si=frcEAXySczNMz3HM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

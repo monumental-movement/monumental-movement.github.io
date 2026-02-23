@@ -12,19 +12,19 @@ tags:
 - Techno
 - Drum n Bass
 - 90s
-title: 발리스틱 브라더스 - Peckings Come On
+title: Ballistic Brothers – Peckings Come On
 ---
 
 
-Ballistic Brothers는 X-Press 2의 Ashley Beedle, Rocky & Diesel 및 David Hill(Nuponic Records)이 결성한 90년대 영국을 기반으로 한 다운비트 밴드였습니다. 재즈의 영향을 받은 펑키한 일렉트로니카 스타일이 특징입니다.
+Ballistic Brothers는, X-Press 2의 Ashley Beedle, Rocky & Diesel, David Hill(Nuphonic Records)가 결성해, 90년대 영국을 거점으로 활약한 다운 비트 밴드. 재즈의 영향을 받은 펑키한 일렉트로니카 스타일이 특징.
 
-이 CD는 영국 레이블 Junior Boy's Own이 1995년 발매한 명작 앨범 London Hooligan Soul의 싱글 컷입니다.
+이 CD는, 1995년에 UK의 라벨 Junior Boy's Own으로부터 릴리스된 명작 앨범 London Hooligan Soul로부터의 싱글 컷.
 
-두 번째 노래는 정글 드럼 및 베이스 DJ이자 프로듀서인 Simon Templar(일명 Paul Saunders)의 리믹스입니다.
+두 번째 곡은 정글 드럼 기반 DJ & 프로듀서 Simon Templar와 Paul Saunders의 remix.
 
-세 번째 곡은 영국의 테크노 DJ이자 프로듀서인 Luke Slater의 리믹스입니다.
+3곡째는 UK의 테크노 DJ 프로듀서 Luce Slater(루크 슬레이터)에 의한 remix.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Peckings
 2. Come On (Simon Templar Mix)
@@ -33,5 +33,5 @@ Ballistic Brothers는 X-Press 2의 Ashley Beedle, Rocky & Diesel 및 David Hill(
 
 [メルカリで購入](https://jp.mercari.com/item/m11109997643?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XibBwi8wmUY?si=H7xFy0WWrh-wWI8l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

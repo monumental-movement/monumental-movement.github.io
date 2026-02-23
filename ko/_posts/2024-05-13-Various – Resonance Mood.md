@@ -10,15 +10,15 @@ tags:
 - Goa Trance
 - Trance
 - 90s
-title: 다양한 – 공명 분위기
+title: Various – Resonance Mood
 ---
 
 
-MATSURI PRODUCTIONS는 DJ TSUYOSHI와 John Perloff가 1994년에 설립한 영국의 고아 트랜스 레이블입니다.
+MATSURI PRODUCTIONS는 1994년에 DJ TSUYOSHI가 John Perloff가 설립한 UK의 고어 트랜스 라벨.
 
-이 레이블은 1999년까지 활동했으며, 2013년부터 DJ TSUYOSHI와 DJ YUTA가 MATSURI DIGITAL이라는 이름으로 컴필레이션과 사이키델릭 트랜스 앨범을 발매해 왔습니다.
+라벨은 1999년까지 활동해, 2013년부터는 DJ TSUYOSHI와 DJ YUTA가 MATSURI DIGITAL 명의로 컴파일이나 사이키델릭 트랜스를 릴리스 하고 있다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Deflo – Tio Mate
 A2. Anti Matter – Pulse II
@@ -33,7 +33,7 @@ F. Sandman – Target Eye
 
 [メルカリで購入](https://jp.mercari.com/item/m68689718449?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2psugEZFSro?si=ii-myw2cgVqIr24_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BqjgK3jULMU?si=i4gThYvM0UZAZ46i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

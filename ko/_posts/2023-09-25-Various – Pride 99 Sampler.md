@@ -9,13 +9,13 @@ permalink: /ko/various-pride-99-sampler/
 tags:
 - Sample
 - Rare
-title: 다양한 – 프라이드 '99 샘플러
+title: Various – Pride '99 Sampler
 ---
 
 
-"Various – Pride '99 Sampler"는 미국 레이블 Wherehouse Music이 1999년에 발표한 보기 드문 프로모션 테이프입니다.
+"Various - Pride '99 Sampler"는 1999 년 미국 라벨의 Wherehouse Music에서 출시 된 레어 프로모 테이프입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Toni Basil–Mickey (Killa Klub Edit)
 

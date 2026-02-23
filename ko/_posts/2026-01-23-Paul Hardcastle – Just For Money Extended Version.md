@@ -10,16 +10,16 @@ tags:
 - Electro
 - Synth-pop
 - 80s
-title: 폴 하드캐슬(Paul Hardcastle) - Just For Money(확장 버전)
+title: Paul Hardcastle – Just For Money (Extended Version)
 ---
 
 
-폴 하드캐슬(Paul Hardcastle)은 19(1985)로 가장 잘 알려진 영국 음악가, 프로듀서, 라디오 진행자, 다중 악기 연주자입니다.
+Paul Hardcastle(폴·하드 캐슬)은, 영국의 뮤지션/프로듀서/라디오 프리젠터/멀티 플레이어로, 「19」(1985)로 잘 알려져 있다.
 
-"Just For Money"는 1985년 앨범 "Paul Hardcastle"의 일렉트로/신스팝 트랙입니다.
+'Just For Money'는 1985년 앨범 'Paul Hardcastle'에 수록된 Electro/Synth-pop 트랙.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Just For Money (Extended)
 
@@ -28,5 +28,5 @@ B. Back In Time
 
 [メルカリで購入](https://jp.mercari.com/item/m27403589883?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gGlEopq1l4U?si=iG3c4iDdnfLimbM2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

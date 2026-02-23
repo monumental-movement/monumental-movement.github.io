@@ -14,13 +14,13 @@ title: Raumfahrer – Traumreise
 ---
 
 
-Raumfahrer는 독일의 Hard Trance DJ/프로듀서인 Dirk Nothroff(DJ The Crow)와 David Rzenno의 프로젝트입니다. 그는 또한 Überdruck이라는 이름으로 일하고 있습니다.
+Raumfahrer는 독일 Hard Trance DJ / 프로듀서 Dirk Nothroff (DJ The Crow)와 David Rzenno의 프로젝트. Überdruck 명의에서도 활동하고 있다.
 
-2001년에 발매된 "Traumreise"는 T. Fenslau에 대한 경의를 표하기 위해 LDC의 클래식 찬가를 리메이크한 Fenslau Acid/Hard Trance 트랙입니다.
+2001년에 릴리스된 「Traumreise」는, LDC의 클래식 앤셈을 T. Fenslau에의 오마쥬로서 리메이크한 Fenslau Acid/Hard Trance 트랙.
 
-A2는 독일 프로듀서 Matthias Wehrstedt와 Normen Schmidt의 M&M(Mix & Magix) 프로젝트이며 Tom Porcell(Thomas Woznik)과 Nikos Kaklamanos의 리믹스입니다.
+A2는 독일의 프로듀서 Matthias Wehrstedt와 Normen Schmidt에 의한 프로젝트 M&M(Mix & Magix), Tom Porcell(Thomas Woznik), Nikos Kaklamanos에 의한 리믹스.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Traumreise (The Crow Rmx)
 A2. Traumreise (Überdruck Rmx)
@@ -31,5 +31,5 @@ B2. Traumreise (Club Disciples Rmx)
 
 [メルカリで購入](https://jp.mercari.com/item/m98518314177?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BClC9U-pkYk?si=HXuIuH_8yEWYfRnu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

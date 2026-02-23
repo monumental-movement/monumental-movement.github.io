@@ -9,15 +9,15 @@ permalink: /ko/tam-arrow-one-shot-girl/
 tags:
 - Euro Beat
 - Hi NRG
-title: 탐 애로우(Tam Arrow) - 원샷걸(One Shot Girl)
+title: Tam Arrow – One Shot Girl
 ---
 
 
-'원샷걸'은
-2001년 이탈리아 레이블 "Live Music"에서 발매된 Tam Arrow(본명 Claudio Magnani)의 EP입니다.
+「One Shot Girl」은,
+2001년에 이탈리아의 라벨 「Live Music」으로부터 릴리스된 Tam Arrow(본명 Claudio Magnani)에 의한 EP입니다.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Joe Banana–Bang Bang Bang (Extended Version)
 
@@ -30,5 +30,5 @@ B2. P. Stone–Kosmic Woofer (Extended Version)
 
 [メルカリで購入](https://jp.mercari.com/item/m53285819387?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o0bWLZXLrRY?si=nw3NL9KpzOohA7ZZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

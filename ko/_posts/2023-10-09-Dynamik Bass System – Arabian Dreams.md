@@ -8,15 +8,15 @@ layout: post
 permalink: /ko/dynamik-bass-system-arabian-dreams/
 tags:
 - Electro
-title: Dynamik 베이스 시스템 - Arabian Dreams
+title: Dynamik Bass System – Arabian Dreams
 ---
 
 
-'아라비안 드림스'는
-1998년 독일 레이블 "Gigolo Records"에서 발매된 Thomas Werner의 프로젝트인 Dynamik Bass System의 EP입니다.
+"Arabian Dreams"는
+1998년 독일 라벨 'Gigolo Records'에서 발매된 Thomas Werner의 프로젝트인 Dynamik Bass System의 EP입니다.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Arabian Dreams
 
@@ -29,5 +29,5 @@ B2. Frequencies
 
 [メルカリで購入](https://jp.mercari.com/item/m22979609212?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/McEh6frr_sk?si=O6kij959JEJJu3ql" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

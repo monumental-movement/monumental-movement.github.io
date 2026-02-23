@@ -9,17 +9,17 @@ permalink: /ko/slab-freeky-speed/
 tags:
 - Big Beat
 - Break Beat
-title: 슬래브 - 프리키 스피드
+title: Slab – Freeky Speed
 ---
 
 
-슬랩(Slab)은 롤 해먼드(Lol Hammond)와 니나 월시(Nina Walsh)가 결성한 유닛이다.
+Slab은 Lol Hammond와 Nina Walsh에 의한 유닛.
 
-B면의 첫 번째 곡은 영국의 DJ이자 프로듀서인 Andrew Weatherall의 리믹스이고, 두 번째 곡은 영국의 테크노 DJ이자 프로듀서인 Carl Cox의 리믹스입니다.
+B면의 1곡째는 영국의 DJ&프로듀서 Andrew Weatherall(앤드류 웨자올)이, 2곡째는 UK테크노 DJ&프로듀서 Carl Cox(칼·콕스)에 의한 remix.
 
-D면의 두 번째 곡은 Monkey Mafia의 리믹스입니다.
+D면 2곡째는 Monkey Mafia(몽키 마피아)에 의한 remix.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Shiva You're A Shambles (Intro)
 
@@ -42,5 +42,5 @@ D2. Monkey Prankster
 
 [メルカリで購入](https://jp.mercari.com/item/m96913326161?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CVShtoPhEMc?si=SVbOeP6jkwqEBUAv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

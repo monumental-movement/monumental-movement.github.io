@@ -11,15 +11,15 @@ tags:
 - Electro
 - Dubstep
 - Electro House
-title: Skrillex – 무서운 괴물과 멋진 스프라이트
+title: Skrillex – Scary Monsters And Nice Sprites
 ---
 
 
-2012년에 발매된 일본어 버전. 트랙 1~6은 Skrillex 오리지널 곡입니다. 일곱 번째 곡은 네덜란드 드럼과 베이스 트리오 Noisia의 리믹스입니다. 8번 곡은 'Clarity'와 아리아나 그란데의 히트곡 'Break Free'로 유명한 DJ 겸 프로듀서 Zedd가 리믹스한 곡이다.
+2012년에 발매된 일본판. 1~6곡째까지는 Skrillex 오리지널 곡. 7곡째는 네덜란드의 드럼 베이스 트리오 Noisia(노이지아)의 remix. 8곡째는 「Clarity」나, 아리아나 그란데의 히트곡 「Break Free」로 유명한 DJ&프로듀서 Zedd(제드)에 의한 remix.
 
-9번 트랙은 다니엘 브라운(Daniel Brown)과 올리버 파일(Oliver Pile)의 프로듀싱 듀오 베어 노이즈(Bare Noize)의 리믹스이다.
+9곡째는 Daniel Brown과 Oliver Pile에 의한 프로덕션 듀오 Bare Noize에 의한 remix.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Rock N' Roll (Will Take You To The Mountain)
 2. Scary Monsters And Nice Sprites
@@ -35,5 +35,5 @@ title: Skrillex – 무서운 괴물과 멋진 스프라이트
 
 [メルカリで購入](https://jp.mercari.com/item/m86556698095?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iIyE3EDCigE?si=-xd56PahPgXj-IkV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

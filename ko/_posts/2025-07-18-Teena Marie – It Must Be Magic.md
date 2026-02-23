@@ -11,16 +11,16 @@ tags:
 - Funk
 - Disco
 - 80s
-title: 티나 마리 – 마법이 틀림없어
+title: Teena Marie – It Must Be Magic
 ---
 
 
-Lady T로도 알려진 Teena Marie는 미국의 소울 및 R&B 가수입니다. 그녀는 독특하고 소프라노 보컬 스타일을 가지고 있습니다.
+Lady T(레이디 T)의 애칭으로 알려진 Teena Marie(티나 마리)는 미국의 서울과 R&B의 가수. 독특하고 소울풀한 소프라노 보컬 스타일이 특징.
 
-1981년에 발매된 It Must Be Magic은 Teena Marie의 네 번째 정규 앨범이자 Motown과의 마지막 앨범이었습니다. 히트곡 'Square Biz'가 포함되어 있습니다.
-이 음반은 Motown의 하위 레이블 Gordy를 통해 발매되었습니다.
+1981년에 발매된 'It Must Be Magic'은 티에나 마리의 네 번째 스튜디오 앨범이자 모타운에서 마지막 앨범이 됐다. 히트곡 Square Biz가 수록되어 있다.
+이 레코드는 Motown의 서브 라벨 Gordy에서 출시판.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. It Must Be Magic
 A2. Revolution
@@ -36,5 +36,5 @@ B4. Yes Indeed
 
 [メルカリで購入](https://jp.mercari.com/item/m75939972774?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Td7lZfVD164?si=rEtr_p_HG74v4y0u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

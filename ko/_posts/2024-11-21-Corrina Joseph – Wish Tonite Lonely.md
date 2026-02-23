@@ -11,15 +11,15 @@ tags:
 - House
 - Deep House
 - 90s
-title: 코리나 조셉 - Wish Tonite / Lonely
+title: Corrina Joseph – Wish Tonite / Lonely
 ---
 
 
-Corrina Joseph은 Basement Jaxx와의 콜라보레이션으로 유명세를 얻은 가수입니다. 그는 또한 Underground Solution, Kamasutra, Masterbuilders, Nightmares on Wax, Classen Collective, Russ Gabriel 및 Harlem Zip Code와 같은 아티스트와 협력했습니다.
+Corrina Joseph는 Basement Jaxx와의 콜라보레이션을 통해 유명해진 가수. Underground Solution, Kamasutra, Masterbuilders, Nightmares on Wax, Classen Collective, Russ Gabriel, Harlem Zip Code 등의 아티스트와도 콜라보하고 있다.
 
-"Wish Tonite /Lonely"는 Atlantic Jaxx가 1997년 발표한 브레이크비트 하우스 딥 하우스 트랙입니다. 프로듀서는 Felix Buxton과 Simon Ratcliffe로 구성된 영국 일렉트로닉 댄스 음악 듀오 Basement Jaxx입니다.
+"Wish Tonite / Lonely"는 1997 년 Atlantic Jaxx에서 출시 된 브레이크 비트 하우스 딥 하우스 트랙. 프로듀서는 Felix Buxton과 Simon Ratcliffe에 의한 UK 일렉트로닉 댄스 뮤직 듀오 Basement Jaxx(베이스먼트 잭스).
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Wish Tonite (Original Mix)
 A2. Wish Tonite (Instrumental)
@@ -30,5 +30,5 @@ B2. Lonely (Lonelee Dub)
 
 [メルカリで購入](https://jp.mercari.com/item/m80677622087?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9cK5-_KEbys?si=mUFw6h19J0CVQcMN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

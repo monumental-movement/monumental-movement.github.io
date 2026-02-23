@@ -9,15 +9,15 @@ permalink: /ko/various-wire-00-compilation/
 tags:
 - Techno
 - Compilation
-title: 다양한 - 와이어 00 편집
+title: Various – Wire 00 Compilation
 ---
 
 
-2000년 개최된 역대 최대 실내 레이브 'WIRE 00' 출연자들의 컴필레이션 앨범이다.
+2000년에 개최된 사상 최대의 실내 레이브 「WIRE 00」의 출연자에 의한 컴필레이션 앨범입니다.
 
-2LP 세트에는 Sven Väth, DJ Hell 및 WestBam의 트랙도 포함되어 있습니다.
+2장 세트 LP로, Sven Väth나 DJ Hell, WestBam의 트럭도 수록.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1  Denki Groove–Wire, Wireless (Arena)
 
@@ -51,5 +51,5 @@ D3  Beroshima–WWW. (Robot Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m45913963651?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4KiXRG3h9Po?si=xMQtVWN-5L4-sbAx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

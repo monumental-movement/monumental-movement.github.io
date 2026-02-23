@@ -9,17 +9,17 @@ permalink: /ko/tukan-light-a-rainbow/
 tags:
 - Trance
 - German Trance
-title: 투칸 – Light A Rainbow
+title: Tukan – Light A Rainbow
 ---
 
 
-Tukan은 덴마크 프로듀서 Lars Frederiksen과 Søren Weile로 구성된 트랜스 프로젝트입니다. 그는 Zekt, ATN 등 다른 이름으로도 활동하고 있습니다.
+Tukan(투칸)은 덴마크 출신의 프로듀서, Lars Frederiksen(라스 프레드릭센)과 Søren Weile(소렌 바이레)로 구성된 트랜스 프로젝트. Zekt, ATN 등의 별명의에서도 활동.
 
-"Light A Rainbow"는 독일 트랜스/하드 트랜스 레이블 Drizzly가 2000년에 출시했으며 당시 클럽 히트작이 되었으며 종종 클럽과 파티에서 연주되었습니다.
+「Light A Rainbow」는 독일의 트랜스/하드 트랜스 라벨 Drizzly로부터 2000년에 발매되어 당시의 클럽 히트가 되어 클럽이나 파티에서 자주 플레이 되었다.
 
-Side A는 독일 트랜스 아티스트 Green Court의 리믹스입니다. B면의 두 번째 곡은 독일 DJ Worris(Lars Höhler)의 리믹스입니다.
+A면은 독일의 트랜스 아티스트 Green Court에 의한 remix. B면 2곡째는 독일 출신의 DJ Worris(Lars Höhler)에 의한 remix.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Light A Rainbow (Green Court Feat. Marc Dawn 12" Mix)
 
@@ -30,5 +30,5 @@ B2. Light A Rainbow (DJ Worris Club Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m77518561932?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I2zNe3nM1ZM?si=sSeJEJjffA6RxEyB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

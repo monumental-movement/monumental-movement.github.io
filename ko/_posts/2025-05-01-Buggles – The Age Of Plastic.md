@@ -11,18 +11,18 @@ tags:
 - Pop
 - Synth-pop
 - 80s
-title: 버글스 – 플라스틱의 시대
+title: Buggles – The Age Of Plastic
 ---
 
 
-버글스(The Buggles)는 1977년 Trevor Horn과 Geoff Downes가 결성한 영국의 뉴 웨이브 밴드입니다. 1979년 데뷔 싱글인 'Video Killed the Radio Star'는 전 세계적으로 히트를 쳤습니다.
+Buggles(버글스)는 1977년 Trevor Horn(트레버 혼)과 Geoff Downes(제프 다운스)에 의해 결성된 UK의 뉴 웨이브 밴드. 1979년 데뷔 싱글 'Video Killed the Radio Star'는 세계적인 히트가 되었다.
 
-1980년 아일랜드 레코드에서 발매된 "The Age Of Plastic"은 버글스의 첫 앨범이다. 이 앨범은 재발매(미국판)입니다.
+1980년에 Island Records 출시된 「The Age Of Plastic」은, 배글스의 첫 앨범. 이 앨범은 재발반(US반).
 
-Trevor Horn과 Geoff Downes는 이번 앨범이 발매된 후 프로그레시브 록 밴드 Yes에 합류했습니다.
+Trevor Horn과 Geoff Downes는 이 앨범 출시 이후 프로그레시블록 밴드 Yes에 가입했다.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Living In The Plastic Age
 2. Video Killed The Radio Star
@@ -36,5 +36,5 @@ Trevor Horn과 Geoff Downes는 이번 앨범이 발매된 후 프로그레시브
 
 [メルカリで購入](https://jp.mercari.com/item/m56132888760?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ge4r5XYZROc?si=iDkWwtta4dTwLFtH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

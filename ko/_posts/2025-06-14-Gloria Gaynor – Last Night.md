@@ -11,17 +11,17 @@ tags:
 - Euro House
 - House
 - 00s
-title: 글로리아 게이너 – 어젯밤
+title: Gloria Gaynor – Last Night
 ---
 
 
-Side A의 첫 번째와 두 번째 곡은 이탈리아 HOUSE DJ/프로듀서 Andrea T. Mendoza와 프로덕션 듀오 T&F Mauro Ferrucci & Frankie Tamburo의 리믹스입니다.
+A면 1, 2곡째는 이탈리아의 HOUSE DJ 프로듀서 Andrea T. Mendoza와 Mauro Ferrucci & Frankie Tamburo에 의한 프로덕션 듀오 T&F에 의한 remix.
 
-Side A의 세 번째 트랙은 미국 신스팝 작가이자 작곡가인 Dave Sears의 리믹스입니다.
+A면 3곡째는, 미국의 신디팝 라이터&컴포저 Dave Sears에 의한 remix.
 
-B-side는 영국 음악가, 작곡가, DJ, 음악 감독, 편곡가 Steve Anderson이 리믹스한 곡입니다.
+B면은, 영국의 뮤지션, 송 라이터, DJ, 음악 감독, 어레인저 Steve Anderson(스티브 앤더슨)에 의한 remix.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Last Night (T&F Crushed Mendoza Club Mix)
 A2. Last Night (T&F Radio Mix)
@@ -32,7 +32,7 @@ B1. Last Night (Steve Anderson Mardi Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m65247487124?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YF1VG-hlDM8?si=qAmA23928WjjbunF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jc5Fp3xXo-g?si=aEUHCPDk4tgtLILW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

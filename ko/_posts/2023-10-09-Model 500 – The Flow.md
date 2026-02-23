@@ -11,19 +11,19 @@ tags:
 - Drum n Bass
 - Detroit Techno
 - 90s
-title: 모델 500 – 흐름
+title: Model 500 – The Flow
 ---
 
 
-모델 500은 Juan Atkins의 또 다른 이름입니다.
+Model 500은 Juan Atkins(호안 앳킨스)의 별명의.
 
-'THE FLOW'는 다양한 리믹스를 거친 곡이다. Juan Atkins는 그의 "G-Funk Mix"로 순수한 R&B 분위기를 발산합니다.
+「THE FLOW」는, 다채로운 리믹스가 베풀어진 악곡입니다. Juan Atkins는 G-Funk Mix에서 순수한 R&B 분위기를 자아냅니다.
 
-반면 Alex Reece Mix는 부드러운 재즈 스텝 리믹스가 있지만 보컬이 완전히 통일되지 않고 리듬과 약간 동기화되지 않은 느낌이 듭니다.
+반면 Alex Reece Mix는 부드러운 재즈 스텝 리믹스를 수행하지만 보컬이 완전히 통일되지 않고 약간 리듬에 맞지 않는 것처럼 느껴집니다.
 
-언더월드 MK. 2 Mix는 어둡고 약간 공격적인 느낌을 주는 심플한 클럽 친화적인 트랙입니다. 그러나 Frank De Wulf는 부족 주택의 요소를 통합한 리믹스를 제공하며 "Original Mix"는 여전히 그 빛을 유지합니다.
+Underworld MK. 2 Mix는 심플하고 클럽을 위한 트럭을 추구하고 어둡고 다소 공격적인 분위기를 자아내고 있습니다. 그러나 Frank De Wulf는 트라이벌 하우스의 요소를 통합 한 리믹스를 제공합니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 S. The Flow M14 (G-Funk Mix)
 
@@ -34,5 +34,5 @@ T2. The Flow M38 (Alex Reece Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m38778885235?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fXYqhFz5bxY?si=EYvbZlFp-nUzOwSO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

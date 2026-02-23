@@ -9,13 +9,13 @@ permalink: /ko/2-the-core-the-final-destination/
 tags:
 - Euro House
 - Euro Beat
-title: 2 핵심 – 최종 목적지
+title: 2 The Core – The Final Destination
 ---
 
 
-2 The Core는 네덜란드 댄스 음악 음반 프로듀서 Michiel van der Kuy와 Nick Name이 결성한 유로하우스 그룹입니다.
+2 The Core는 네덜란드 댄스 뮤직 레코드 프로듀서 Michiel van der Kuy와 Nick Name의 유로 하우스 유닛.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. The Final Destination
 
@@ -26,5 +26,5 @@ B2. The Final Destination (7'' Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m19666571789?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AXpgTqtGrCA?si=j_EPh1qeIAKqG7hG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

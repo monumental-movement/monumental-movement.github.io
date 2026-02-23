@@ -11,15 +11,15 @@ tags:
 - Hardcore
 - Punk
 - 90s
-title: VA – 시네마 맥주 견과류
+title: VA – Cinema Beer Nuts
 ---
 
 
-하드코어 펑크 편집: Hopeless Records 시네마 맥주 시리즈
+하드 코어 펑크 편집 : Hopeless Records의 Cinema Beer 시리즈
 
-VA – 시네마 맥주 견과류
+VA – Cinema Beer Nuts
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. The Vandals – It's A Fact
 2. MxPx – Doing Time

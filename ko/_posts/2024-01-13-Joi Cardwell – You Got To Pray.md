@@ -10,21 +10,21 @@ tags:
 - House
 - Remix
 - 90s
-title: 조이 카드웰 - 기도해야 해
+title: Joi Cardwell – You Got To Pray
 ---
 
 
-Joi Cardwell(Joi Bernadette Cardwell)은 1967년 미국 뉴욕주 뉴욕에서 태어난 미국 가수, 작곡가, 프로듀서 및 예술가입니다.
+Joi Cardwell(조이 버나뎃 카드웰)은 미국 가수, 노래 작가, 프로듀서, 아티스트로 1967년 미국 뉴욕주 뉴욕시에서 태어났습니다.
 
-그녀는 어릴 때부터 다양한 노래 대회에 참가했으며 1990년대 초 Lil Lewis의 객원 보컬리스트로 1위 댄스 싱글 "Club Lonely"와 "Saved My Life"로 명성을 얻은 후 솔로 활동을 시작하고 여러 앨범을 발표했습니다.
+어린 시절부터 다양한 가창 콘테스트에 출전해, 1990년대 초반에는 릴 루이스의 게스트 보컬리스트로서, 넘버 원댄스 싱글 「Club Lonely」와 「Saved My Life」로 명성을 얻은 후, 솔로 커리어를 스타트시켜, 몇 장의 앨범을 릴리스 하고 있습니다.
 
-그녀의 음악은 하우스, 소울, R&B 장르가 혼합되어 있으며 파워풀하고 소울풀한 목소리로 유명합니다.
+그녀의 음악은 하우스, 서울, R&B 등 장르를 융합시킨 것으로, 그 파워풀하고 소울풀한 가성으로 알려져 있습니다.
 
-2017년에 그녀는 자신의 웰니스 센터인 Jump for Joi Wellness Center를 열었습니다.
+2017년에는 자신의 웰니스 센터 'Jump for Joi Wellness Center'를 오픈했습니다.
 
-현재 그는 음악과 웰니스 활동을 활발히 펼치고 있다.
+현재도 정력적으로 음악 활동과 웰니스 활동에 임하고 있습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 AA1. You Got To Pray (Gomi's Lair X Beat Vocal) Remix – Gomi
 
@@ -39,5 +39,5 @@ AAA3. You Got To Pray (X Bonus Beats) Remix – Gomi
 
 [メルカリで購入](https://jp.mercari.com/item/m10462556478?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oajKE2SLIjE?si=5SwtUH-xzm1MJhp3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

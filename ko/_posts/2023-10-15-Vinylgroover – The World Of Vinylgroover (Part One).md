@@ -9,13 +9,13 @@ permalink: /ko/vinylgroover-the-world-of-vinylgroover-part-one/
 tags:
 - Happy Hardcore
 - Hardcore
-title: Vinylgroover – Vinylgroover의 세계(1부)
+title: Vinylgroover – The World Of Vinylgroover (Part One)
 ---
 
 
-Vinylgroover로도 알려진 Scott Attril은 영국에 기반을 둔 행복한 하드코어이자 하드 하우스 프로듀서/DJ입니다.
+Vinylgroover 것 Scott Attril (스콧 아틀릴)는 UK 거점으로하는 대 해피 하드 코어 & 하드 하우스 프로듀서 / DJ.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Time (Vinylgroover Remix)
 
@@ -36,5 +36,5 @@ D2. Got To Have It
 
 [メルカリで購入](https://jp.mercari.com/item/m20525607321?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BNvgGo6rX1A?si=7jwIPbPA_ZFLNwfA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

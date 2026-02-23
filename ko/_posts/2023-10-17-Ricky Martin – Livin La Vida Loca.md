@@ -9,13 +9,13 @@ permalink: /ko/ricky-martin-livin-la-vida-loca/
 tags:
 - House
 - Pops
-title: 리키 마틴 - Livin' La Vida Loca
+title: Ricky Martin – Livin' La Vida Loca
 ---
 
 
-이 2디스크 EP에는 1999년에 발매된 Ricky Martin의 세계적인 히트곡 Livin' La Vida Loca의 리믹스가 포함되어 있습니다.
+1999년에 릴리스된 리키 마틴의 세계에서 히트한 유명한 Livin' La Vida Loca의 리믹스가 수록된 2장 세트 EP입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Livin' La Vida Loca (Pablo Flores English Club Mix)
 
@@ -37,5 +37,5 @@ D2. Livin' La Vida Loca (Scissorhands Push & Pull Spanish House Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m66378364645?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p47fEXGabaY?si=_POeMNCfRlqOk-vJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

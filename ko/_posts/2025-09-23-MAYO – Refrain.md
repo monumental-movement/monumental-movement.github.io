@@ -11,13 +11,13 @@ tags:
 - Disco
 - City Pop
 - 70s
-title: 쇼노 마요 – 자제 M・A・Y・O – 자제
+title: 쇼노 마시로 – 루프란 M·A·Y·O – Refrain
 ---
 
 
-"Reflan"은 쇼노 마요의 네 번째 오리지널 앨범으로, 그녀의 시그니처 곡인 "Flying to Istanbul"(츠츠미 쿄헤이 작곡)이 수록되어 있습니다. City Pop은 1978년 Nippon Columbia의 하위 레이블인 Nippon Columbia에서 발매되었습니다.
+「루프란」은, 대표곡 「날아 이스탄불」(작곡:츠츠미 쿄헤이)이 수록된, 쇼노 진대의 4장째의 오리지널 앨범. 일본 콜롬비아의 서브 라벨 일본 콜롬비아에서 1978년에 발매된 City Pop.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. 風の街角
 A2. 昨日に乾杯
@@ -35,5 +35,5 @@ B5. ルフラン
 
 [メルカリで購入](https://jp.mercari.com/item/m38492680657?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GDTniYWJk1U?si=akjdin9ocwSk9GeP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

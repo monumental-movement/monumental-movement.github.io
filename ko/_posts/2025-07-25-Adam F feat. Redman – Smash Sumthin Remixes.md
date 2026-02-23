@@ -9,17 +9,17 @@ permalink: /ko/adam-f-feat-redman-smash-sumthin-remixes/
 tags:
 - Drum n Bass
 - 00s
-title: 아담 F feat. Redman – Smash Sumthin (리믹스)
+title: Adam F feat. Redman – Smash Sumthin (Remixes)
 ---
 
 
-드럼 앤 베이스/힙합 프로듀서 Adam F의 싱글 "Smash Sumthin"(2001)의 리믹스로, 2002년 Kaos Recordings 레이블로 발매되었습니다.
+2002년에 라벨 Kaos Recordings 로부터 릴리스된 드럼 베이스/힙합의 프로듀서 Adam F 의 싱글 「Smash Sumthin」(2001년)의 리믹스반.
 
-A는 1997년 드럼 앤 베이스 그룹 Roni Size & Reprazent의 창립자이자 프론트맨으로 유명해진 영국 DJ이자 프로듀서인 Roni Size의 리믹스입니다.
+A는, 1997년에 드럼 베이스 그룹 Roni Size & Reprazent의 창립자&프런트맨으로 유명해진, UK의 DJ & 프로듀서 Roni Size에 의해 remix.
 
-B는 1998년부터 활동해온 영국의 드럼 앤 베이스 그룹 배드 컴퍼니(Bad Company UK/BC)의 리믹스이다.
+B는 1998년부터 활동하는 UK의 드럼 베이스 그룹 Bad Company(Bad Company UK/BC)에 의한 remix.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Smash Sumthin (Roni Size Remix)
 
@@ -28,7 +28,7 @@ AA. Smash Sumthin (Bad Company Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m15980508638?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ffeRaK6WA4s?si=T92JqwE6a6Zf7crJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HH3G6MQ_A8w?si=Sh_xnWoaEKiMUmDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,15 +10,15 @@ tags:
 - House
 - Acid
 - Electro
-title: 디바바 - 사랑열차
+title: Dibaba – Love Train
 ---
 
 
-2005년에 발매된 스웨덴 OLLE CORNEER의 유닛 DIBABA의 EP입니다.
+2005년 릴리스의 스웨덴인의 OLLE CORNEER에 의한 유닛 DIBABA에 의한 EP입니다.
 
-John Dahlbäck의 애시드 리믹스도 포함되어 있습니다.
+John Dahlbäck의 애시드 리믹스도 수록.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Love Train (Andreas Tilliander Remix)
 
@@ -31,5 +31,5 @@ B2. Love Train (KFK's Dar-K Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m87226223493?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rHL8vlzzQts?si=HlYO2J4ImZ0acamp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

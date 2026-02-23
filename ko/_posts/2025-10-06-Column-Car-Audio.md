@@ -9,17 +9,17 @@ permalink: /ko/column-car-audio/
 tags:
 - History
 - Car
-title: '[칼럼] 자동차와 사운드의 세계 여행 - 주요 카오디오 국가를 샅샅이 안내하다'
+title: 【칼럼】 세계의 차와 사운드 여행 — 자동차 오디오 강국별 철저 가이드
 ---
 
 
 ## 자동차와 소리의 밀접한 관계
 
-글 : mmr｜주제 : 전세계 주요 자동차 제조사 대표 차종의 오디오 사양 및 기술
+문장：mmr｜테마：세계 각국의 주요 자동차 메이커별 대표 모델의 오디오 사양, 기술에 대해서
 
 
-자동차 오디오는 단순한 선택 기능이 아닙니다. 이는 운전 경험과 자동차 내부 공간의 가치에 큰 영향을 미칩니다. 자동차 디자인 단계에서의 소재 선택, 정숙성, 공간 디자인은 음질과 직결됩니다.
-이 기사에서는 전 세계 주요 제조업체의 대표 모델의 오디오 사양, 파트너 브랜드 및 기술에 대해 자세히 설명합니다.
+자동차 오디오는 단순한 옵션 장비가 아니라 운전 체험과 차내 공간의 가치를 크게 좌우합니다. 차의 설계 단계에서의 소재 선정이나 정음성, 공간 설계는 음질에 직결합니다.
+본고에서는 세계 각국의 주요 메이커마다 대표 모델의 오디오 사양, 제휴 브랜드, 기술을 상세하게 설명합니다.
 
 ---
 
@@ -36,22 +36,22 @@ color: #fff;
 </style>
 
 
-## 일본 제조사의 음향 철학
+## 일본 메이커의 음향 철학
 
-### 토요타/렉서스
+### 도요타 / 렉서스
 
-- **대표모델 오디오 사양**
-- Lexus LS: Mark Levinson 3D 서라운드, 스피커 17개, 1,200W
-- 소프트웨어 룸보정 기능 포함
+- **대표 모델 오디오 사양**
+- 렉서스 LS: Mark Levinson 3D 서라운드, 17 스피커, 1,200W
+- 소프트웨어로 방 보정 기능 포함
 
-- **제조업체 및 브랜드 파트너십**
-- 마크 레빈슨(Mark Levinson)과 장기간 협력하여 고급 자동차를 위한 사운드 디자인
+- **메이커와 브랜드 제휴**
+- Mark Levinson과의 장기 협력을 통한 고급 차량용 사운드 설계
 
-- **일화 및 기술**
-- 천장, 시트 패브릭 등 차량의 각 소재는 음향 보정을 염두에 두고 선택되었습니다.
+- ** 일화 및 기술 **
+- 차내의 각 소재·천장이나 시트 천도 음향 보정을 고려해 선정되고 있다
 
 | 제품명 | 링크 |
-|---------|--------------|
+|--------|--------------|
 | Mark Levinsonアンプ | [Rakuten](https://a.r10.to/h5pi79) |
 | Mark Levinsonスピーカー | [Amazon](https://amzn.to/47fsjDj) |
 
@@ -63,34 +63,34 @@ color: #fff;
 
 ### 닛산/인피니티
 
-- **대표모델** : 인피니티 QX80 (보스 16 스피커 시스템)
-- **기술**: 스피커 배치 및 재료 반사를 분석하고 BOSE와 협력하여 튜닝을 수행하여 차량 내 음향을 최적화합니다.
+- **대표 모델**: 인피니티 QX80(Bose 16 스피커 시스템)
+- **기술**: 차내 음향을 최적화하기 위해 스피커 배치 및 소재 반사를 분석하고 BOSE와 공동으로 튜닝
 
 ---
 
 ### 혼다
 
-- **대표모델** : Accord (ELS Studio 14 스피커)
-- **기술**: 음악가가 감수한 자연스러운 사운드 재생
+- **대표 모델**: 어코드(ELS Studio 14 스피커)
+-**기술**: 음악가 감수에 의한 자연스러운 사운드 재현
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I_OMh104IWw?si=TI7U_7JShGuRlnFe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 마즈다 스바루
+### 마쓰다 스바루
 
-- **대표모델** : CX-5 (보스 12스피커)
-- **기술**: 차량 실내 공간의 음향 특성을 측정하고 최적화합니다.
+- **대표 모델**: CX-5(Bose 12 스피커)
+-**기술**: 차내 공간의 음향 특성을 측정하고 최적화
 
 ---
 
 
-## 독일 자동차를 위한 정밀 음향
+## 독일 자동차 정밀 음향
 
-### 메르세데스-벤츠
+### 메르세데스 벤츠
 
-- **대표모델** : S클래스 (Burmester 3D 서라운드, 최대 23스피커, 1,500W)
-- **기술**: DSP로 최적화되어 차량 내 각 위치에서 균일한 음향 특성을 재현합니다.
+- **대표 모델**: S클래스(Burmester 3D 서라운드, 최대 23 스피커, 1,500W)
+- **기술**: 차량 내 각 위치에서 균일한 음향 특성을 재현하기 위해 DSP로 최적화
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kMQnxK2CLgQ?si=--nEKP_C-P9mTh_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -98,8 +98,8 @@ color: #fff;
 
 ### BMW
 
-- **대표모델** : 7시리즈 (뱅앤올룹슨 16스피커, 1,400W)
-- **기술**: 운전자 중심 음장 설계, 차량 속도에 따른 음량 보정
+- **대표 모델**: 7시리즈(Bang & Olufsen 16 스피커, 1,400W)
+- **기술**: 운전자 중심의 음장 설계, 차량 속도에 따른 음량 보정
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DUaHmJV97BM?si=S8_fw0fSIAqal-jG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -107,26 +107,26 @@ color: #fff;
 
 ### 아우디
 
-- **대표모델** : A8 (뱅앤올룹슨 어드밴스드 사운드 시스템, 19스피커, 1,650W)
-- **기술**: 멀티채널 DSP를 통한 3차원 사운드 재생
+- **대표 모델**: A8(Bang & Olufsen Advanced Sound System, 19 스피커, 1,650W)
+-**기술**: 멀티채널 DSP로 입체음향 재현
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/py_g3SqJrao?si=KOaK70wnE5GbJ5HA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 미국 사운드의 힘
+## 아메리칸 사운드의 박력
 
-### 포드/시보레
+### 포드/쉐보레
 
-- **대표모델** : 카마로(보스 12스피커, 1,000W)
-- **기술**: 저음을 강조하고 차량 내부 전체에 강력한 사운드를 재현합니다.
+- **대표 모델**: 카마로(Bose 12 스피커, 1,000W)
+- **기술**: 저음을 강조하고 차내 전체에 박력 있는 사운드를 재현
 
 ---
 
 ### 테슬라
 
-- **대표모델** : Model S (고성능 DSP 탑재 오디오, 22스피커, 960W)
-- **기술**: 소프트웨어 업데이트를 통해 음질이 향상될 수 있습니다.
+- **대표 모델**: 모델 S(고성능 DSP 탑재 오디오, 22 스피커, 960W)
+- **기술**: 소프트웨어 업데이트로 음질 개선 가능
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XFY4Fo3MmIk?si=QWj3Bl64AQVLQkPa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -134,26 +134,26 @@ color: #fff;
 
 ### 크라이슬러/지프
 
-- **대표모델** : 랭글러(알파인 9스피커, 480W)
-- **기술**: 실외 소음에도 음질을 유지하도록 조정
+- **대표 모델**: 랭글러(Alpine 9 스피커, 480W)
+- **기술**: 야외 소음 하에서도 음질을 유지하는 조정
 
 ---
 
-## 이탈리아와 프랑스 자동차에서 독특한 음악 경험
+## 이탈리아·프랑스차의 개성파 음악 체험
 
-### 페라리/람보르기니
+### 페라리 / 람보르기니
 
-- **대표모델** : 페라리 812 슈퍼패스트 (JBL 12스피커, 380W)
-- **기술**: 엔진 소리와 공명하는 튜닝
+- **대표 모델**: 페라리 812 슈퍼 패스트(JBL 12 스피커, 380W)
+- **기술**: 엔진 사운드와 공명하는 튜닝
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eOsCPEuEcvE?si=N-o9TuGhXnz6dcNf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 마세라티/알파 로미오
+### 마세라티/알파로메오
 
-- **대표모델** : Ghibli (바워스&윌킨스 15스피커, 1,170W)
-- **기술**: Nautilus 트위터를 사용한 고화질 사운드 재생
+- **대표 모델**: 기브리(Bowers & Wilkins 15 스피커, 1,170W)
+- **기술**: Nautilus 트위터로 고화질 사운드 재현
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3O9KrUhxGs?si=fL4mm2DxNy8nGvfX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -161,19 +161,19 @@ color: #fff;
 
 ### 푸조/르노
 
-- **대표모델** : 푸조 508 (포칼 12스피커, 400W)
-- **기술**: 소형차에서 공간 음향을 극대화합니다.
+- **대표 모델**: 푸조 508 (Focal 12 스피커, 400W)
+- **기술**: 컴팩트 차량이면서 공간 음향을 극대화
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E4Ddd36WxGA?si=krJWBM8TgVWYZMSr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 한국과 중국 제조업체의 신흥세력
+## 한국·중국 메이커의 신흥 세력
 
 ### 현대/기아
 
-- **대표모델** : 쏘나타 (렉시콘 12스피커, 600W)
-- **기술**: 프리미엄 브랜드를 위한 조정, 음압 이퀄라이제이션
+- **대표 모델**: 쏘나타(Lexicon 12 스피커, 600W)
+- **기술**: 프리미엄 브랜드용 조정, 음압 균일화
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WiYAwDad-rY?si=TiCKKBPcPgMPQFfl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -181,7 +181,7 @@ color: #fff;
 
 ### BYD/NIO/Geely
 
-- **대표모델** : NIO ES6 (자체개발 18스피커, 1,000W)
+- **대표 모델**: NIO ES6(독자 개발 18 스피커, 1,000W)
 - **기술**: EV 특성을 활용한 저주파 조정
 
 ---
@@ -190,8 +190,8 @@ color: #fff;
 
 ### 재규어
 
-- **대표모델** : F-Pace, XJ (메리디안 14~20스피커, 825W)
-- **기술**: Trifield 3D 사운드 기술을 통한 3차원 음장 재현
+- **대표 모델**: F-Pace, XJ (Meridian 14~20 스피커, 825W)
+-**기술**: Trifield 3D 음향 기술로 입체 음장 재현
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1xivG_93VM8?si=8yi2LhhvGz2sRA9O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -199,8 +199,8 @@ color: #fff;
 
 ### 랜드로버
 
-- **대표 모델** : 레인지로버 이보크 (메리디안 13-19 스피커, 825W)
-- **기술**: 차량 설계 단계의 음향 최적화
+- **대표 모델**: 레인지 로버 에보크(메리디안 13~19 스피커, 825W)
+-**기술**: 차량 설계 단계에서 음향 최적화
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P9b2M4QzWKQ?si=AuLz_pyciWmkgTT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -208,8 +208,8 @@ color: #fff;
 
 ### 애스턴 마틴
 
-- **대표모델** : Vantage, DB12 (Bowers & Wilkins 15스피커, 1,170W)
-- **기술**: Nautilus 트위터를 사용한 실감나는 사운드
+- **대표 모델**: Vantage, DB12 (Bowers & Wilkins 15 스피커, 1,170W)
+-**기술**: Nautilus 트위터 채용으로 현장감 있는 소리
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EUlBvw7PejY?si=WUD82ugLJO9g-9uc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -217,62 +217,62 @@ color: #fff;
 
 ### 벤틀리
 
-- **대표모델** : 벤테이가, 컨티넨탈 GT (벤틀리 20스피커용 네임, 1,960W)
-- **기술**: 속도와 환경에 따라 자동으로 음질을 보정합니다.
+- **대표 모델**: Bentayga, Continental GT (Naim for Bentley 20 스피커, 1,960W)
+- **기술**: 속도 및 환경에 따라 음질 자동 보정
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TK_AtrJVwIs?si=RXNnhkf3O6NhKWI3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 롤스로이스
+### 롤스 로이스
 
-- **대표모델** : 팬텀, 고스트, 컬리넌 (Bespoke Audio 13~18스피커, 최대 1,300W)
-- **기술**: 알루미늄, 마그네슘 소재를 사용하여 차량의 정숙함, 소음 감소를 활용한 스튜디오급 품질 재현
+- **대표 모델**: Phantom, Ghost, Cullinan (Bespoke Audio 13~18 스피커, 최대 1,300W)
+-**기술**: 차량의 정숙성을 살리는 스튜디오 품질 재현, 알루미늄이나 마그네슘 소재로 노이즈 저감
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CHd9ijz66Ek?si=VLPV_mLVy-L8t5zL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 
-| 브랜드/모델 | 시스템 | 스피커/출력 수 | 특징 |
-|------------|----------|-------|------|
-| 재규어/F-페이스 | 자오선 | 14/825W | 트라이필드 3D |
-| 랜드로버/이보크 | 자오선 | 19/825W | 3D 서라운드 |
-| 애스턴 마틴/밴티지 | 흑백 | 15/1,170W | 노틸러스 트위터 |
-| 벤틀리/벤테이가 | 네임 | 20/1,960W | 자동 음질 보정 |
-| 롤스로이스/팬텀 | 맞춤형 | 18/1,300W | 스튜디오 품질 |
+| 브랜드 / 모델 | 시스템 | 스피커 수 / 출력 | 특징 |
+|-----------|----------|-------|------|
+| Jaguar/F-Pace | Meridian | 14/825W | Trifield 3D |
+| Land Rover/Evoque | Meridian | 19/825W | 3D 서라운드 |
+| Aston Martin/Vantage | B&W | 15/1,170W | Nautilus 트위터 |
+| Bentley/Bentayga | Naim | 20/1,960W | 자동 음질 보정 |
+| Rolls-Royce/Phantom | Bespoke | 18/1,300W | 스튜디오 품질 |
 
 ---
 
-## 기술 동향과 미래의 차량 내 음악 경험
+## 기술 동향과 미래의 차내 음악 경험
 
-- 능동형 소음 제거 및 DSP 최적화
-- AI를 활용한 맞춤형 음질 조정
-- EV시대의 정숙함을 살린 새로운 사운드 디자인
+- 능동 노이즈 제거 및 DSP 최적화
+- AI에 의한 개인용 음질 조정
+- EV 시대의 정숙성을 살린 새로운 사운드 디자인
 
 ---
 
-## 요약: 엔진 사운드부터 사운드 아트까지 - 자동차와 사운드의 미래에 대한 비전
+## 요약 : 엔진 사운드에서 음향 예술로 - 자동차와 사운드의 미래 그림
 
-자동차는 예전에는 '운송을 위한 기계'였습니다. 그러나 이제는 '소리를 품은 공간'이자 문화의 연장선이다.
-독일은 정밀한 엔지니어링으로 사운드를, 영국은 전통과 격식을, 미국은 자유와 힘을, 일본은 섬세한 조화를 불어넣었습니다.
-각 나라의 카오디오 역시 그 사회의 미의식과 산업철학의 결정체입니다.
+차는 한때 "이동을위한 기계"였다. 그러나 이제는 '소리를 감싸는 공간'이며 문화의 연장선 위에 있다.
+독일은 정밀 공학의 연장으로서 영국은 전통과 격식을, 미국은 자유와 파워를, 일본은 섬세한 조화를 소리에 담아 왔다.
+각 나라의 자동차 오디오는 그 사회의 미의식과 산업철학의 결정이기도 하다.
 
-롤스로이스의 '침묵의 무대'는 침묵의 극치이다.
-Tesla의 DSP 컨트롤은 전기 신호와 감정을 연결합니다.
-그리고 Lexus의 Mark Levinson은 재료와 공간을 '도구'로 활용합니다.
-이는 단순한 스피커 시스템이 아니라 인간과 기계, 엔지니어링, 감성이 교차하는 '소리의 아키텍처'입니다.
+정적을 다한 롤스 로이스의 「무음의 무대」.
+전기 신호와 감정을 연결하는 테슬라의 DSP 제어.
+그리고 소재와 공간을 "악기"로 울리는 렉서스의 Mark Levinson.
+이들은 단순한 스피커 시스템이 아니라, **사람과 기계, 공학과 감성이 교차하는 「소리의 건축」**이라고 할 수 있다.
 
-전기차로의 전환이 진행되는 지금, 엔진음의 상징적 요소는 사라지고 있으며,
-차량 내 음향은 새로운 역할을 맡기 시작했습니다.
-그것은 "움직이는 청취실"이자 "개인적인 음향세계"이다.
-전 세계 제조업체는 더 이상 마력이나 정숙함을 추구하지 않습니다.
-**"달릴 때 어떤 소리가 들리나요?"** 이것은 새로운 경험 가치입니다.
+EV화가 진행되는 지금, 엔진 소리라는 상징적인 요소가 사라지는 한편,
+차내 음향은 새로운 역할을 담당하기 시작했다.
+그것은 "이동하는 청취실"이며 "개인의 음향 우주"다.
+각국 메이커가 추구하는 것은, 더 이상 마력도 정숙성도 아니고,
+**「달리는 것으로, 어떤 소리를 들을 수 있을까」**라는 새로운 체험 가치인 것이다.
 
-자동차 오디오는 끊임없이 발전하고 있습니다.
-음향 설계는 AI로 수정되고, 시트는 공명판이 되어 운전자의 심장 박동과 기분에 따라 음장이 변화합니다.
-우리가 결국 도달하게 될 것은 국가와 브랜드를 초월하는 음향적 평등의 영역입니다.
-달리면서 듣는 행위는 다시 한번 인간의 감성을 날카롭게 한다.
+자동차 오디오는 진화를 멈추지 않습니다.
+음향 설계는 AI가 보정하고, 시트는 공진판이 되어, 드라이버의 심박이나 기분에 맞추어 음장이 바뀐다.
+그 다가오는 곳에는 나라와 브랜드를 넘어선 '소리의 평등권'일 것이다.
+달리면서 듣는 행위가 다시 인간의 감성을 갈고 맑게 한다.
 
-자동차가 우리에게 말하는 것은 길이 아니라 소리의 여정이다.
-그리고 그 여정은 이제 막 시작되었습니다.
+차가 말하는 것은 길이 아니라 소리의 여행이다.
+그리고 그 여행은 아직 막 시작되었습니다.

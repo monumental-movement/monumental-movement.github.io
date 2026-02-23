@@ -10,15 +10,15 @@ tags:
 - Latin
 - Jazz
 - Techno
-title: 안드레아스 사그 – 재즈 레슨
+title: Andreas Saag – Jazz Lesson
 ---
 
 
-2002년 스웨덴 레이블 "SLS"로 출시되었습니다.
+2002년 스웨덴 라벨 'SLS'에서 출시되었습니다.
 
-SLS의 트레이드마크 사운드와는 놀랍게도 Saag가 함께하는 아름다운 그랜드 피아노 중심의 트랙을 전달하는 재즈입니다.
+SLS의 트레이드 마크 사운드와는 놀랍게도 Saag가 아름답고 웅장한 피아노를 중심으로 한 멋진 트랙을 제공하는 재즈입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Get It On
 
@@ -30,5 +30,5 @@ Saxophone – Paul Lachenardière
 
 [メルカリで購入](https://jp.mercari.com/item/m61195637285?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nW8bTY66AGk?si=osWlvw3Bq5W_Vzqe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

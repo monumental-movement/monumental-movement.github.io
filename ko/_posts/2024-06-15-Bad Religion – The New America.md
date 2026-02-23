@@ -11,15 +11,15 @@ tags:
 - Rock
 - US Punk
 - 00s
-title: 나쁜 종교 – 새로운 미국
+title: Bad Religion – The New America
 ---
 
 
-배드 릴리전(Bad Religion)은 로스앤젤레스에서 결성된 펑크 록 밴드로, 멜로딕한 하드코어 스타일을 만들어낸 그룹 중 하나로 현대 펑크 록의 선두주자이다.
+Bad Religion(배드 리리전)은 로스앤젤레스에서 결성된 펑크 록 밴드로, 멜로딕 하드 코어의 스타일을 만들어낸 그룹의 하나로 알려진 현대 펑크 록의 중진.
 
-2000년에 발매된 "The New America"는 그들의 11번째 정규 앨범으로, 일본어 버전의 트랙 14와 15는 보너스 트랙입니다.
+2000년에 릴리스된 「The New America」는, 11번째의 스튜디오 앨범으로, 14, 15곡째는 일본반 보너스 트럭.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. You've Got A Chance
 2. It's A Long Way To The Promise Land
@@ -40,5 +40,5 @@ title: 나쁜 종교 – 새로운 미국
 
 [メルカリで購入](https://jp.mercari.com/item/m32901458360?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/09wlZyLSqIQ?si=4p3xmOXX_qHg8ePa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

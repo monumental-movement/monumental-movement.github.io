@@ -11,14 +11,14 @@ tags:
 - House
 - Techno
 - 00s
-title: 크리스 맥코맥 – 더 나은 방법이 있습니다
+title: Chris McCormack – There Are Better Ways
 ---
 
 
-Chris McCormack은 영국의 테크노 프로듀서입니다. "There Are Better Ways"는 2개의 디스크로 구성된 하우스 세트입니다.
-기록.
+Chris McCormack은 UK의 테크노 프로듀서. 「There Are Better Ways」는 2장조 하우스
+레코드.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. There Are Better Ways
 A2. The Button
@@ -35,5 +35,5 @@ D2. Pot Noodlez
 
 [メルカリで購入](https://jp.mercari.com/item/m13283588453?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CtsQ-cZaR5E?si=n2wClRmU_AzlW29b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

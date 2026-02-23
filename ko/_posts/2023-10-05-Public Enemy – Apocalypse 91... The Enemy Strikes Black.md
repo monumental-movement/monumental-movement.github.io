@@ -9,15 +9,15 @@ permalink: /ko/public-enemy-apocalypse-91-the-enemy-strikes-black/
 tags:
 - Hiphop
 - Classic
-title: Public Enemy – Apocalypse 91... 적은 흑암을 친다
+title: Public Enemy – Apocalypse 91... The Enemy Strikes Black
 ---
 
 
-'Apocalypse 91... The Enemy Strikes Black'은 전작 'Fear of a Black Planet'의 성공에 이은 앨범으로, 앨범 제목은 '흑인 권리와 사회적 불평등에 맞서 계속 투쟁한다'는 메시지를 담고 있다.
+「Apocalypse 91... The Enemy Strikes Black」은, 선행 앨범 「Fear of a Black Planet」의 성공을 받아 제작된 작품입니다. 앨범 제목은 "흑인의 권리와 사회적 불평등에 대한 싸움을 계속한다"는 메시지를 담고 있습니다.
 
-이 앨범은 Public Enemy의 시그니처 사운드인 날카로운 비트, 강력한 베이스라인, 정치적인 가사를 담고 있습니다.
+이 앨범에는 퍼블릭 에나미의 시그니처 사운드인 날카로운 비트, 강력한 기준선, 정치적 메시지가 담긴 가사가 특징입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Lost At Birth
 
@@ -50,5 +50,5 @@ B7. Bring Tha Noize
 
 [メルカリで購入](https://jp.mercari.com/item/m85106789861?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sc0UsEc04S0?si=iEMgU4__uj2DTWA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

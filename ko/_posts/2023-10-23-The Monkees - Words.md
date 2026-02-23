@@ -10,13 +10,13 @@ tags:
 - Rock
 - Pops
 - 7inch
-title: 몽키스 - 단어
+title: The Monkees - Words
 ---
 
 
-Monkees는 Davy Jones, Micky Dolenz, Mike Nesmith 및 Peter Tork가 결성한 미국의 록 밴드입니다. 그들은 몽키스가 직접 출연한 단회 슬랩스틱 코미디 TV쇼인 '더 몽키스 쇼'와 음반 판매를 연계한 미디어 믹스 전략을 갖고 있었다.
+The Monkees(더 몽키스)는 Davy Jones(데이비 존스), Micky Dolenz(미키 드렌츠), Mike Nesmith(마이크 네스미스) Peter Tork(피터 토크)의 4명으로 결성된 US 락 밴드. The Monkees가 스스로 출연하는 일화 완결형 도타바타 코미디 TV 프로그램 '더 몽키스 쇼'와 레코드 판매를 연동하는 미디어 믹스 전략을 취하고 있었다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Words
 
@@ -29,5 +29,5 @@ B2. The Girl I Knew Somewhere
 
 [メルカリで購入](https://jp.mercari.com/item/m80412153029?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4MhTAFljXKI?si=tPXBkHgcvv5FOUrl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

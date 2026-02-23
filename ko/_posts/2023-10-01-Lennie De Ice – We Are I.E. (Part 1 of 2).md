@@ -9,13 +9,13 @@ permalink: /ko/lennie-de-ice-we-are-i-e-part-1-of-2/
 tags:
 - House
 - Hard House
-title: 레니 드 아이스(Lennie De Ice) – 우리는 I.E입니다. (1/2부)
+title: Lennie De Ice – We Are I.E. (Part 1 of 2)
 ---
 
 
-"우리는 I.E입니다." 는 영국의 브레이크비트이자 하드코어 프로듀서인 Lennie De Ice(본명 Lenworth Green)의 노래입니다.
+"We Are I.E."는 영국의 브레이크 비트 & 하드 코어 프로듀서, Lennie De Ice (레니 데 아이스 본명 렌워스 그린)의 곡입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. We Are I.E. (Johan S Toxic Mix)
 
@@ -28,5 +28,5 @@ B2. We Are I.E. (Original)
 
 [メルカリで購入](https://jp.mercari.com/item/m70780419709?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qe0QBw6V_5g?si=qxr3yy1UWI0PIpio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

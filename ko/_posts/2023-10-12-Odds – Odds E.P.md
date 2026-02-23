@@ -9,15 +9,15 @@ permalink: /ko/odds-odds-e-p/
 tags:
 - Trance
 - Goa Trance
-title: 확률 - 확률 E.P
+title: Odds – Odds E.P
 ---
 
 
-Odds는 Kris Kylven과 Ben Silver(B. El Metoui)의 사이키델릭 고어 트랜스 음악 프로젝트입니다.
+Odds(확률)는 Kris Kylven(크리스 키르벤)과 Ben Silver(벤 실버/B. El Metoui)에 의한 사이키델릭 고어 트랜스뮤직 프로젝트.
 
-"확률 E.P." 는 영국 레이블 Flying Rhino Records가 1995년에 발표한 고어 트랜스 트랙입니다.
+「Odds E.P.」는 UK의 라벨 Flying Rhino Records로부터 1995년에 릴리스된 고어 트랜스 트럭.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Flying + To The Sky
 
@@ -26,5 +26,5 @@ AA. Umbellikilisis
 
 [メルカリで購入](https://jp.mercari.com/item/m90557219720?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wGcUx636uYY?si=2ESQoyvAI5ve7VgE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

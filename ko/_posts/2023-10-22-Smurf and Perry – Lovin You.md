@@ -9,17 +9,17 @@ permalink: /ko/smurf-and-perry-lovin-you/
 tags:
 - House
 - Deep House
-title: 스머프와 페리 – Lovin' You
+title: Smurf & Perry – Lovin' You
 ---
 
 
-스머프 앤 페리(Smurf & Perry)는 독일 DJ 빅 스머프(프랭크 쿠프만)와 프레드 페리가 결성한 유닛이다.
+Smurf & Perry(스머프&페리)는 독일 출신 DJ Big Smurf(Frank Koopmann)와 Fred Perry의 유닛.
 
-"Lovin' You"는 보컬리스트 Concha Buika가 출연했으며 2001년 Flamingo Discos에 의해 발매되었습니다.
+'Lovin' You'는 vocal에 Concha Buika(콘차 부이카)를 맞이해, 2001년에 Flamingo Discos보다 릴리스 되었다.
 
-"Smurf & Perry – Lovin' You"는 1978년에 발표된 Donald Byrd의 "Loving You"를 샘플링합니다.
+"Smurf & Perry - Lovin 'You"는 1978 년 릴리스의 Donald Byrd (도널드 버드) "Loving You"를 샘플링.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Lovin' You (Vincenzo's Classic Club Mix)
 
@@ -32,5 +32,5 @@ B2. Lovin' You (C.R. Project Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m74148247550?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UKrcW01Uk-g?si=P5W6wMcrK6bYfq_b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

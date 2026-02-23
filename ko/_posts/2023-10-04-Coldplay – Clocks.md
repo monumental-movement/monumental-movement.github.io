@@ -9,15 +9,15 @@ permalink: /ko/coldplay-clocks/
 tags:
 - House
 - Electro
-title: 콜드플레이 – 시계
+title: Coldplay – Clocks
 ---
 
 
-이 트랙은 원래 2002년에 발매된 앨범 A Rush of Blood to the Head에 수록되었습니다. "Clocks"도 앨범의 리드 싱글로 발매되어 전 세계적으로 성공을 거두었습니다.
+이 트랙의 원곡은 2002년에 발표된 앨범 'A Rush of Blood to the Head'에 수록되어 있습니다. "Clocks"는 앨범의 리드 싱글로도 출시되어 세계적인 성공을 거두었습니다.
 
-'시계'는 피아노 리프와 독특한 리듬이 특징이며, 명상적인 분위기와 웅장한 사운드가 돋보이는 곡이다.
+"Clocks"는 피아노 리프와 독특한 리듬이 특징적인 곡으로 명상적인 분위기와 웅장한 사운드가 매력입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Clocks (Jakob Carrison Electro Remix)
 ```

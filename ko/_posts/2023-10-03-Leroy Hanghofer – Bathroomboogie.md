@@ -9,15 +9,15 @@ permalink: /ko/leroy-hanghofer-bathroomboogie/
 tags:
 - House
 - Leftfield
-title: 르로이 행호퍼 – 욕실부기
+title: Leroy Hanghofer – Bathroomboogie
 ---
 
 
-이 EP는 미묘한 유머 감각과 함께 매우 펑키하고 놀랍도록 창의적이고 기발한 느낌을 가지고 있습니다.
+이 EP는 매우 펑키 & 멋지고 창조적이고 기발한 분위기를 가지고 있으며, 미묘한 유머도 느껴집니다.
 
-하지만 두꺼운 베이스라인과 바삭바삭한 신디사이저가 모든 것을 꽉 조이는 그루브에 유지하고 즐겁게 진행되도록 해줍니다.
+그러나 굵은 베이스라인과 구샤구샤로 한 신디사이저가 모두를 제대로 그루브시켜 즐겁게 진행합니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Overtüre
 
@@ -30,5 +30,5 @@ B2. Das Pi - Kurz!
 
 [メルカリで購入](https://jp.mercari.com/item/m31669126197?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cwTqnWL15Pw?si=IiWztBIeDkNxL6pq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,15 +9,15 @@ permalink: /ko/moby-why-does-my-heart-feel-so-bad/
 tags:
 - House
 - Remix
-title: 모비 – 내 마음은 왜 이리 아픈가
+title: Moby – Why Does My Heart Feel So Bad
 ---
 
 
-"Moby – 내 마음이 왜 그렇게 아픈가요?" 리믹스 1999년 영국 레이블 Mute에서 발매되었습니다. Side A는 독일 DJ 겸 프로듀서 ATB(Andre Tanneberger)의 리믹스입니다.
+UK 라벨 Mute로부터 1999년에 릴리스 된 「Moby – Why Does My Heart Feel So Bad?」의 리믹스. A면은 독일 출신 DJ/프로듀서 ATB(안드레 탄네버거)에 의한 remix.
 
-B면의 첫 번째 트랙은 더치 트랜스의 창시자 중 한 명인 Ferry Corsten(System F)의 리믹스입니다. B면의 두 번째 곡은 조지 미셸(George Michell)과 스티븐 리액트(Steven React)로 구성된 유닛 더 샤프 보이즈(The Sharp Boys)의 리믹스이다.
+B면 1곡째는, 더치 트랜스의 창시자의 한명이기도 한 Ferry Corsten(페리 코스텐/System F/시스템 에프)에 의한 remix. B면 2곡째는 George Michell과 Steven React에 의한 유닛 The Sharp Boys에 의한 remix.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Why Does My Heart Feel So Bad? (ATB Remix)
 
@@ -28,5 +28,5 @@ B2. Why Does My Heart Feel So Bad? (Sharp Roadster Club Edit)
 
 [メルカリで購入](https://jp.mercari.com/item/m45749310257?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qT6XCvDUUsU?si=8qVrimuU9yp9cFgU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

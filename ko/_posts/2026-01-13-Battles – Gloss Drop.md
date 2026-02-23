@@ -11,15 +11,15 @@ tags:
 - Experimental
 - Rock
 - 10s
-title: 전투 – 광택 드롭
+title: Battles – Gloss Drop
 ---
 
 
-배틀스(Battles)는 2002년 결성된 미국의 실험적 록 밴드이다.
+Battles(배틀스)는 2002년에 결성한 미국의 체험 록 밴드.
 
-"Gloss Drop"은 게스트 Gary Numan, Matias Aguayo, Blonde Redhead의 Kaz Makino, Boredoms의 EYyo Yamazuka가 출연한 2011년 발매된 Battles의 두 번째 앨범입니다.
+'Gloss Drop(그로스 드롭)'은 게스트에게 게리 뉴먼 , 마티아스 아구아요 , 금발 레드헤드 카즈 마키노 , 보레돔스(보아담스)의 야마즈카 아이(EY요)를 맞이한 2011년 출시된 배틀스의 두 번째 앨범.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Africastle
 2. Ice Cream Featuring – Matias Aguayo
@@ -41,5 +41,5 @@ title: 전투 – 광택 드롭
 
 [メルカリで購入](https://jp.mercari.com/item/m71359863771?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vuKBipc69_o?si=sgCfoU--8llwj-oy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

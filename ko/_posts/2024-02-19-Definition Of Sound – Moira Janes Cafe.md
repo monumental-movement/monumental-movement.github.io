@@ -10,15 +10,15 @@ tags:
 - House
 - UK House
 - 90s
-title: 소리의 정의 - Moira Jane's Café
+title: Definition Of Sound – Moira Jane's Café
 ---
 
 
-Definition Of Sound는 Donald Weekes와 Kevin Clark이 결성한 런던 기반의 댄스 음악 그룹입니다.
+Definition Of Sound(디피니션 오브 사운드)는 런던을 거점으로 하는 Donald Weekes와 Kevin Clark의 댄스 뮤직 그룹.
 
-1992년 발매된 네 번째 싱글 'Moira Jane's Café'는 영국뿐 아니라 전 세계적으로 히트를 쳤던 하우스 트랙이다.
+1992년에 발매된 4번째 싱글 「Moira Jane's Café」는 영국뿐만 아니라 전 세계에서 히트한 하우스 트럭.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1.Moira Jane's Café (Live Version)
 
@@ -35,5 +35,5 @@ B3.Moira Jane's Café (Aw Shucks Dub)
 
 [メルカリで購入](https://jp.mercari.com/item/m85621168968?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8UzQQQIdAfM?si=NtJ41PyQxEADm4xJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

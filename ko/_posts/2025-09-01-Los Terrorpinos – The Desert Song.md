@@ -10,15 +10,15 @@ tags:
 - Dub
 - Drum n Bass
 - 90s
-title: 로스 테러피노스 – 사막의 노래
+title: Los Terrorpinos – The Desert Song
 ---
 
 
-Los Terrorpinos는 스코틀랜드 록 밴드 Primal Scream의 기타리스트로 가장 잘 알려진 Andrew Innes와 영국 프로듀서/DJ Kris Needs, Primal Scream의 키보드 연주자로 알려진 Martin Duffy와 80년대 네오 어쿠스틱 붐을 이끈 영국 얼터너티브 록 밴드 Felt의 프로젝트입니다.
+Los Terrorpinos는 스코틀랜드의 록 밴드 Primal Scream(프라이멀 스크림)의 기타리스트로 잘 알려진 Andrew Innes, UK의 프로듀서/DJ Kris Needs, 80s의 네오 어쿠스틱 붐을 견인한 UK얼터너티브 록 밴드 Felt(펠트)나 Primal Scream
 
-Jack The Tab 시대에 Psychic TV의 멤버였던 Richard Norris가 A&R 컨설턴트로 활동했던 영국 레이블인 Eruption Records에서 1997년에 발매한 Dub/Drum n Bass(프로모션 및 한정판, 단면).
+Jack The Tab 시대의 Psychic TV(사이킥 TV)의 멤버였던 Richard Norris가 A&R 컨설턴트를 맡은 UK의 라벨 Eruption Records에서 1997년에 릴리스된 Dub/Drum n Bass(프로모판&한정반·한 면).
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. The Desert Song (The Magnificent Seven)
 ```

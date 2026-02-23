@@ -9,15 +9,15 @@ permalink: /ko/palm-skin-productions-getting-out-of-hell/
 tags:
 - Acid Jazz
 - Jazz
-title: 팜 스킨 프로덕션 – 지옥에서 벗어나기
+title: Palm Skin Productions – Getting Out Of Hell
 ---
 
 
-Palm Skin Productions는 일렉트로닉 뮤직, 하우스, 테크노, 트립합의 요소를 결합한 독특한 스타일을 선보이는 영국의 뮤지션, 프로듀서, DJ Simon Richmond의 프로젝트입니다.
+Palm Skin Productions는 영국 출신의 뮤지션 프로듀서 DJ Simon Richmond의 프로젝트로 일렉트로닉 뮤직, 하우스, 테크노, 트립홉 등의 요소를 조합한 독자적인 스타일을 가지고 있습니다.
 
-"Getting Out Of Hell"은 일렉트로닉 비트, 더빙 요소, 독특한 샘플링이 특징이며, 그 독특함과 실험적인 특성으로 인해 일렉트로닉 음악 팬과 오리지널 사운드를 찾는 사람들 사이에서 인기를 얻었습니다.
+「Getting Out Of Hell」은 일렉트로닉 비트, 더브 요소, 독특한 샘플링 등이 특징으로, 그 독자성과 실험성에 의해 일렉트로닉 음악의 팬이나 독창적인 사운드를 요구하는 사람 등 많은 사람들에게 사랑받고 있습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Getting Out Of Hell
 
@@ -28,5 +28,5 @@ AA2. A Little Skin (+19 Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m29718603915?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K6zM8At_Epk?si=of0lQ6CZ7Bzg2KPh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

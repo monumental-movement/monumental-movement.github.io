@@ -9,13 +9,13 @@ permalink: /ko/xenon-evolution/
 tags:
 - Italo
 - Disco
-title: 제논 - 진화
+title: Xenon – Evolution
 ---
 
 
-Xenon은 피렌체 디스코 'Xenon'의 전 DJ였던 Marzio Dance(Marzio Mugnaioni)가 코디네이터한 뮤지션이자 프로듀서들의 그룹입니다.
+Xenon은, 피렌체의 디스코 "Xenon"의 DJ였던 Marzio Dance(Marzio Mugnaioni)가 코디네이트한 뮤지션과 프로듀서의 그룹.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Evolution (Original Version)
 
@@ -26,5 +26,5 @@ B2. Evolution (3RD Version)
 
 [メルカリで購入](https://jp.mercari.com/item/m66302757125?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-aSEC1X5wQs?si=5T7PK1NqpZPcJvq3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

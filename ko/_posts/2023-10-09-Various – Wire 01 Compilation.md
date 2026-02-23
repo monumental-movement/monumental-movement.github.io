@@ -9,14 +9,14 @@ permalink: /ko/various-wire-01-compilation/
 tags:
 - Techno
 - Mix
-title: 다양한 - 와이어 01 편집
+title: Various – Wire 01 Compilation
 ---
 
 
-'와이어 01 컴필레이션'은
-2001년에 발매된 Wire 01 컴필레이션 CD입니다.
+「Wire 01 Compilation」은,
+2001년에 릴리스된 Wire 01의 컴파일 CD입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Takkyu Ishino–Hyperspeed (Short)
 2. Jeff Mills–UFO
@@ -35,5 +35,5 @@ title: 다양한 - 와이어 01 편집
 
 [メルカリで購入](https://jp.mercari.com/item/m98255564275?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JNsAbKxUGcs?si=vPb3Qx4xHcOBX06J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

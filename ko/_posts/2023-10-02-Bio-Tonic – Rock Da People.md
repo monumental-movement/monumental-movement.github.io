@@ -9,14 +9,14 @@ permalink: /ko/bio-tonic-rock-da-people/
 tags:
 - Trance
 - Psychedelic
-title: 바이오토닉 – 락다피플
+title: Bio-Tonic – Rock Da People
 ---
 
 
-'락다피플'은
-2001년 독일 레이블 'Spirit Zone Recordings'에서 발매한 프랑스의 사이키델릭 트랜스 밴드 'Bio-Tonic'의 랭스 출신 EP입니다.
+"Rock Da People"은
+2001년 독일 라벨 'Spirit Zone Recordings'에서 발매된 프랑스는 랜스의 사이키델릭 트랜스 'Bio-Tonic'에 의한 EP입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Space Vibes
 
@@ -27,5 +27,5 @@ B2. Big Steel Balls
 
 [メルカリで購入](https://jp.mercari.com/item/m24588285064?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aBuxqu27vxQ?si=7PjkQ7B6w_BpDiPS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

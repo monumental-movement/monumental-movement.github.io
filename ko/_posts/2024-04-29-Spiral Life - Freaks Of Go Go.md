@@ -9,19 +9,19 @@ permalink: /ko/spiral-life-freaks-of-go-go/
 tags:
 - Pop Rock
 - Synth-pop
-title: 나선형 생활 – Go Go Spectators 2의 괴물
+title: Spiral Life – Freaks Of Go Go Spectators 2
 ---
 
 
-스파이럴 라이프(Spiral Life)는 쿠루마타니 코지(Kurumatani Koji)와 이시다 쇼키치(Ishida Shokichi)로 구성된 유닛이다. 활동 기간: 1993-1996.
+Spiral Life(나선형 라이프)는, 차야 코지와 이시다 쇼키치에 의한 음악 유닛. 활동 기간은 1993년~1996년.
 
-'Freaks Of Go Go Spectators 2'는 1996년 발매된 콘셉트 미니앨범으로, 앨범에 수록되지 않은 싱글들의 리믹스와 신곡 4곡 등 총 10곡이 수록됐다.
+「Freaks Of Go Go Spectators 2」는 1996년에 발매된 콘셉트 미니앨범으로, 신곡 4곡과 앨범 미수록 싱글 등의 remix를 수록한 전 10곡.
 
-앨범의 세 번째 곡은 타워레코드의 광고곡으로 사용됐다.
+앨범 3곡은 타워 레코드의 CM송으로 사용됐다.
 
-마스터는 YMO 등을 다룬 마스터링 엔지니어 코이케 미츠오 씨.
+마스터는 YMO 등을 다룬 마스터링 엔지니어 코이케 미츠오.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Game Over (Version)
 2. Lovin' Song (Cardinal C4 Mix)
@@ -37,5 +37,5 @@ title: 나선형 생활 – Go Go Spectators 2의 괴물
 
 [メルカリで購入](https://jp.mercari.com/item/m24701032123?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z9AWYPlr1E8?si=F8fYuRWTFsiYzurp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

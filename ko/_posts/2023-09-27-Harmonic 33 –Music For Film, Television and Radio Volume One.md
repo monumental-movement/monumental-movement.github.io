@@ -9,23 +9,23 @@ permalink: /ko/harmonic-33-music-for-film-television-and-radio-volume-one/
 tags:
 - Leftfield
 - Downtempo
-title: Harmonic 33 – 영화, 텔레비전 및 라디오를 위한 음악 1권
+title: Harmonic 33 –Music For Film, Television & Radio Volume One
 ---
 
 
-2005년에 발매된 이 앨범은 Warp 발매작 중 고전이다.
+2005년에 발매된 이 앨범은, Warp의 릴리스 중에서도 클래식인 내용입니다.
 
-우주 그루브의 그네 '옵티건'부터 회전하는 놀이공원 분위기의 '캐러셀'까지, 하모닉 33은 짧은 시간 안에 최대한 많은 분위기를 담았다.
+"Optigan"의 스윙과 같은 외부 우주의 그루브에서 "Carousel"의 회전하는 놀이 공원과 같은 분위기에 이르기까지 Harmonic 33은 짧은 시간 동안 최대한의 분위기를 담고 있습니다.
 
-"Bossa Nova Supernova" 및 "Departure Lounge"와 같이 듣기 편한 흐름이 원활하게 진행됩니다.
+"Bossa Nova Supernova"와 "Departure Lounge"처럼 이지 청취가 원활하게 흐릅니다.
 
-반면, 노골적인 기발함을 찾고 있다면 'Funky Duck'을 들어보세요.
+반대로 철저한 기발함을 추구한다면 "Funky Duck"을 들어보자.
 
-첩보 드라마를 좋아한다면 '파라노이아'와 '롱 섀도우'가 있습니다.
+스파이 드라마를 좋아한다면 "Paranoia"와 "Long Shadow"가 준비되어 있습니다.
 
-'마리오네트' 같은 짧은 곡들에서도 여전히 존재감이 느껴지며 사려 깊고 우울한 'Planet 54'로 앨범을 마무리한다.
+"Marionette"와 같은 짧은 악곡에서도, 그 존재감은 제대로 주장해, 생각깊고 멜랑콜릭인 "Planet 54"로, 이 앨범은 마무리됩니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Optigan
 
@@ -62,5 +62,5 @@ title: Harmonic 33 – 영화, 텔레비전 및 라디오를 위한 음악 1권
 
 [メルカリで購入](https://jp.mercari.com/item/m74819615393?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MrAkBKCVDVI?si=vTEzL103-VXkWYY0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

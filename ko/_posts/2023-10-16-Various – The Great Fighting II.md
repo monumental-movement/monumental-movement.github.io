@@ -8,13 +8,13 @@ layout: post
 permalink: /ko/various-the-great-fighting-ii/
 tags:
 - Ambient
-title: 다양한 – 위대한 싸움 II
+title: Various – The Great Fighting II
 ---
 
 
-1978년 Overseas Records를 통해 발매된 "V/A - 다양한 - The Great Fighting II".
+'V/A - 필살의 프로레슬링 테마집 - Various – The Great Fighting II'는 1978년에 Overseas Records에서 출시되었습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. T. Mayujumi –スポーツ行進曲 ～ ビート・ジョンズ・オーケストラ = NTV Sports March
 

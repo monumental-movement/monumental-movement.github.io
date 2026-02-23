@@ -10,13 +10,13 @@ tags:
 - House
 - Rare
 - New-Wave
-title: 디페쉬 모드 – People R People
+title: Depeche Mode – People R People
 ---
 
 
-B&B, 일명 Bastone & Burnz(Freddie Baston & Jeffrey Bernstein)의 Depeche Mode의 "People Are People" 하우스 리믹스. 1999년에 출시되었습니다.
+Depeche Mode(디페쉬 모드) 「People Are People」을 B&B 것 Bastone & Burnz(프레디·바스턴 & 제프리·번스타인)가 하우스 remix. 1999년 출시.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. People Are People
 
@@ -25,5 +25,5 @@ B. People Are People (Dub)
 
 [メルカリで購入](https://jp.mercari.com/item/m76377444450?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MzGnX-MbYE4?si=K56oWU3oRvcFkDln" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,13 +9,13 @@ permalink: /ko/the-prodigy-out-of-space/
 tags:
 - Break Beat
 - Hardcore
-title: 프로디지 - 우주 밖으로
+title: The Prodigy – Out Of Space
 ---
 
 
 프로디지 - 아웃 오브 스페이스
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Out Of Space (Original Mix)
 

@@ -9,15 +9,15 @@ permalink: /ko/various-kitsune-x/
 tags:
 - House
 - Electro
-title: 다양한 – 키츠네 X
+title: Various – Kitsuné X
 ---
 
 
-"Kitsuné X"는 2005년에 발매된 프랑스 회사 Kitsune의 대망의 세 번째 앨범입니다.
+'키츠네 X'는 2005년 프랑스의 키츠네가 발표한 대망의 세 번째 작품이다.
 
-일렉트로, 디스코, 펑크를 기반으로 한 프리폼 컴필레이션 앨범이다.
+일렉트로, 디스코 펑크를 베이스로, 프리폼으로 전개되는 컴파일 앨범입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Popular Computer–Darling
 
@@ -48,5 +48,5 @@ title: 다양한 – 키츠네 X
 
 [メルカリで購入](https://jp.mercari.com/item/m55280452092?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fqEt09BxCz4?si=Mm9ZLs9St3xbp0NI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

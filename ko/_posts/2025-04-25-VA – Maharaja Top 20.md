@@ -12,7 +12,7 @@ tags:
 - Euro House
 - Eurobeat
 - 90s
-title: VA – 마하라자 탑 20 Vol. III
+title: VA – Maharaja Top 20 Vol. III
 ---
 
 
@@ -21,7 +21,7 @@ title: VA – 마하라자 탑 20 Vol. III
 비매품
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Maximizor Featuring Kam + Paula – I Like It (Give It To Me)
 2. Bass Expanders – Beats Go
@@ -47,5 +47,5 @@ title: VA – 마하라자 탑 20 Vol. III
 
 [メルカリで購入](https://jp.mercari.com/item/m24287278460?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LKEWlU4rkxc?si=0kHSiG1bJjkIDNxC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

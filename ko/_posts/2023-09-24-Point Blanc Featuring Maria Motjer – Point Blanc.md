@@ -10,13 +10,13 @@ tags:
 - Jazz
 - Funk
 - 10inch
-title: 포인트 블랑(Point Blanc) 마리아 모제르(Maria Motjér) – 포인트 블랑(Point Blanc)
+title: Point Blanc Featuring Maria Motjér – Point Blanc
 ---
 
 
-1996년 독일 쾰른의 Groove Attack Productions(GAP)에서 발매한 10인치 음반입니다.
+1996 년 독일은 쾰른의 Groove Attack Productions (GAP)에서 출시 된 10 인치 레코드입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Ch'an
 
@@ -35,5 +35,5 @@ B3. Dark
 
 [メルカリで購入](https://jp.mercari.com/item/m18334755783?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EKkeDBm11K0?si=ZLp_8T-O366NVtkT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

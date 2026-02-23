@@ -10,13 +10,13 @@ tags:
 - House
 - Big Beat
 - Psychedelic
-title: 쥬쥬카 – 뉴 아시안즈 feat. 아사노 타다노부
+title: Joujouka – New Asians feat. 아사노 타다노부
 ---
 
 
-DJ TSUYOSHI가 이끄는 유닛 Joujouka의 메이저 싱글의 아날로그 버전입니다. 이소룡 감독의 영화 "생각하지 말고 느끼기만 하라"의 한 대사를 컨셉으로 아시아를 주제로 한 사운드를 추구하는 작품. 작사, 작곡, 보컬을 맡은 아사노 타다노부의 야심찬 작품.
+DJ TSUYOSHI가 이끄는 유닛, Jujouka의 메이저 싱글 아날로그 보드. 아시아를 테마로 한 소리의 추구로부터 브루스 리의 영화에 나오는 대사 「생각하지 마, 느껴라」를 컨셉으로 한 작품. 작사·작곡/보컬에 아사노 타다노부를 맞이한 의욕작.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. NEW ASIANS
 
@@ -29,5 +29,5 @@ B2. DON'T THINK FEEL!!Captain Funk "CF in darkness"Version(Dub)
 
 [メルカリで購入](https://jp.mercari.com/item/m17303472246?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HW3Rjkv_mDc?si=rGXjxG1h_hFlhlGL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

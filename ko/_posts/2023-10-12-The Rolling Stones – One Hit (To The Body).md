@@ -9,17 +9,17 @@ permalink: /ko/the-rolling-stones-one-hit-to-the-body/
 tags:
 - Rock
 - Pops
-title: 롤링 스톤즈 – One Hit (To The Body)
+title: The Rolling Stones – One Hit (To The Body)
 ---
 
 
-"One Hit (To The Body)"는 1986년 발매된 앨범 "Dirty Work"의 싱글 컷입니다. 가사와 음악은 Mick Jagger, Keith Richards, Ron Wood가 맡았습니다. 기타 솔로는 레드 제플린 출신 지미 페이지가 연주했다.
+"One Hit (To The Body)"는 1986 년 릴리스의 앨범 "Dirty Work"에서 싱글 컷. 작사·작곡은 믹 재규어, 키스 리처즈 및 론 우드. 기타 솔로는 전 레드 제펠린의 지미 페이지가 연주하고 있다.
 
-'One Hit (To The Body)'는 에너제틱한 기타 리프와 믹 재거의 파워풀한 보컬, 중독성 있는 멜로디가 어우러져 많은 록 팬들에게 클래식으로 자리잡은 곡이다.
+"One Hit (To The Body)"는 활기찬 기타 리프, 믹 재거 (Mick Jagger)의 강력한 보컬이 특징으로, 그리고 캐치 멜로디는 많은 록 음악 팬들에게 클래식 한 작품이되고있다.
 
-A-side London Mix는 프로듀싱을 맡은 스티브 릴리화이트(Steve Lillywhite)가 리믹스한 곡이다.
+A면의 London Mix(런던 믹스)는 프로듀스를 담당한 스티브 릴리 화이트에 의한 remix.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. One Hit (To The Body) (London Mix)
 

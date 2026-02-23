@@ -9,17 +9,17 @@ permalink: /ko/various-tribes-of-da-underground-vol4/
 tags:
 - Break Beat
 - Downtempo
-title: 다양한 – Tribes Of Da Underground Vol4
+title: Various – Tribes Of Da Underground Vol4
 ---
 
 
-Fred Everything은 프랑스계 캐나다인 일렉트로닉 뮤지션/DJ로 딥하우스 씬에서 활동하고 있습니다.
+Fred Everything은 딥하우스 씬에서 활약하고 있는 프랑스계 캐나다인의 일렉트로닉 뮤지션/DJ.
 
-Pressure Drop은 저스틴 랭글랜즈(Justin Langlands)와 데이브 헨리(Dave Henley)로 구성된 영국의 전자 음악 듀오입니다.
+Pressure Drop은 Justin Langlands와 Dave Henley로 구성된 UK 일렉트로닉 뮤직 듀오.
 
-소파 서퍼스(Sofa Surfers)는 트립합, 더빙, 애시드 재즈, 록, 일렉트로닉 음악을 결합한 오스트리아 밴드입니다.
+Sofa Surfers는 트립 홉, 더브, 애시드 재즈, 록과 전자 음악을 결합한 음악을 연주하는 오스트리아 밴드.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Switchblade Sisters –  The Switchblade Groove
 
@@ -38,5 +38,5 @@ D. Pathless – Forecast
 
 [メルカリで購入](https://jp.mercari.com/item/m49529230918?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W_SMy69xcXo?si=w2Kme05uW2DwbWVB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

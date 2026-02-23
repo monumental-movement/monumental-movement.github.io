@@ -8,17 +8,17 @@ layout: post
 permalink: /ko/mauro-picotto-and-riccardo-ferri-alchemist-ep/
 tags:
 - Techno
-title: 마우로 피코토 & 리카르도 페리 – 연금술사 EP
+title: Mauro Picotto & Riccardo Ferri – Alchemist EP
 ---
 
 
-"New Time, New Place"는 테크노와 영국 하드 댄스 클럽 모두에서 큰 히트를 쳤습니다.
+"New Time, New Place"는 테크노와 영국의 하드 댄스 클럽 모두에서 큰 히트했습니다.
 
-다른 곡들은 꽤 탄탄한 테크노인데, 'Pandoro'는 꽤 재미있는 곡이에요. 하드한 비트와 함께 트랙이 전개되면서 멋지고 부드러운 사운드를 만들어냅니다.
+다른 노래는 꽤 확고한 테크노이며, "Pandoro"는 꽤 재미있는 트랙입니다. 하드 비트와 동시에 트랙이 발전해 나가면 멋지고 부드러운 사운드가 펼쳐집니다.
 
-마치 마우로 피코처럼, 옛 스타일과 새 스타일.
+마치 오래된 스타일과 새로운 스타일의 마우로 피콧처럼 보입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. New Time, New Place
 
@@ -31,5 +31,5 @@ D. Pandoro
 
 [メルカリで購入](https://jp.mercari.com/item/m43683328945?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/44_Hc7ATM5s?si=te-QUqe216PZHbu_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,16 +10,16 @@ tags:
 - Techno
 - Tech House
 - 00s
-title: Rino Cerrone – 정확한 순간 EP
+title: Rino Cerrone – Exact Moment EP
 ---
 
 
-Rino Cerrone은 1990년부터 나폴리에 거주하고 있는 이탈리아의 테크노/테크 하우스 DJ이자 프로듀서입니다. (2024년 사망)
+Rino Cerrone은 1990년부터 나폴리를 거점으로 활동한 이탈리아 테크노/테크하우스 DJ 프로듀서. (2024년 몰)
 
-"Exact Moment EP"는 Bernese 레이블 Phont Music에서 2002년에 발매한 Techno/Tech House 트랙입니다.
-A2와 B1의 끝은 잠긴 홈입니다.
+Exact Moment EP는 2002년 스위스 베른의 라벨 Phont Music에서 출시된 Techno Tech House 트랙.
+A2 & B1의 마지막은 locked groove(락드 그루브)가 되어 있다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Samba Diversion
 A2. Touch The Source
@@ -30,7 +30,7 @@ B2. Talkabout!
 
 [メルカリで購入](https://jp.mercari.com/item/m32845972145?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L-xw4Vr53yA?si=QRbGPLYX6elx-upW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hzpZYjs61VI?si=69n8CQn2HZ_JRBbF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

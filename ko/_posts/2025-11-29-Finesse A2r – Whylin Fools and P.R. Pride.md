@@ -13,9 +13,9 @@ title: Finesse A2r – Whylin Fools & P.R. Pride
 ---
 
 
-Armand Van Helden의 중요한 작품을 발표한 것으로 알려진 하우스/힙합 레이블인 AV8 Records가 발표한 힙합 트랙입니다.
+Armand Van Helden의 중요한 작품을 발표한 것으로 알려진 하우스 / 힙합 라벨 AV8 Records에서 발표 된 Hip Hop 트랙.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Whylin Fools
 

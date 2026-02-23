@@ -10,13 +10,13 @@ tags:
 - Rock
 - Progressive
 - Fusion
-title: 우주 서커스 - 펑키 캐러밴
+title: Space Circus – Funky Caravan
 ---
 
 
-"Funky Caravan"은 1970년대 후반에 활동한 일본 프로그레시브 록 및 퓨전 밴드 Space Circus의 데뷔 앨범입니다. 베이시스트 오카노 하지메는 음악 프로듀서로 Starlin, POLYSICS, L'Arc~en~Ciel 등 수많은 밴드에 참여해 왔습니다.
+「Funky Caravan(펑키 캐러밴)」은, 1970년대 후반에 활약한 일본의 프로그레＆퓨전 밴드 Space Circus(스페이스・서커스)의 데뷔 앨범. 베이스의 오카노 하지메는 음악 프로듀서로서 스탈린, POLYSICS, L'Arc~en~Ciel(랄쿤 시엘) 등 다수의 밴드에 관여하고 있다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Alibaba (アリババ)
 
@@ -33,5 +33,5 @@ B3. Spring Wave (スプリング・ウェーブ)
 
 [メルカリで購入](https://jp.mercari.com/item/m38259723732?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QW-e8SSAG_I?si=m2x_OJniWvlJ1M6d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

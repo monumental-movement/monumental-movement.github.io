@@ -10,13 +10,13 @@ tags:
 - Electro
 - Techno
 - 90s
-title: Aux 88 – 일렉트로 부기
+title: Aux 88 – Electro Boogie
 ---
 
 
-1999년에 출시된 Studio K7의 세 번째 일렉트로 부기. Aux88의 디트로이트 테크노/일렉트로 믹스CD.
+1999년에 릴리스된 Studio K7의 일렉트로브기 제3탄. Aux88에 의한 디트로이트 테크노 일렉트로 mixCD.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Aux 88 – Electro/Techno (Microknox Remix)
 2. Aux 88 – Direct Drive
@@ -40,5 +40,5 @@ title: Aux 88 – 일렉트로 부기
 
 [メルカリで購入](https://jp.mercari.com/item/m42329771656?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/62RNYfG63nQ?si=J2RE3RrNG0LMRvdh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

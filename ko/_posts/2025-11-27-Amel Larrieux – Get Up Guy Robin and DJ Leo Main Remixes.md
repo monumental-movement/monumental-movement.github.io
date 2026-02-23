@@ -11,7 +11,7 @@ tags:
 - House
 - Deep House
 - 00s
-title: Amel Larrieux – Get Up (Guy Robin 및 DJ Leo Main Remixes)
+title: Amel Larrieux – Get Up (Guy Robin & DJ Leo Main Remixes)
 ---
 
 
@@ -21,11 +21,11 @@ title: Amel Larrieux – Get Up (Guy Robin 및 DJ Leo Main Remixes)
 
 
 
-아멜 라리외(Amel Larrieux)는 1990년대 중반 브라이스 윌슨(Bryce Wilson)과 함께 그루브 씨어리(Groove Theory)의 창립 멤버였던 미국 가수입니다. 'Get Up'은 1999년 발매된 그의 솔로 데뷔 앨범 Infinite Possibilities의 싱글 컷이다.
+Amel Larrieux(아메르 라류)는 1990년대 중반에 Bryce Wilson과 함께 Groove Theory의 창설 멤버로 활약한 미국의 가수. 「Get Up」은, 1999년에 릴리스한 솔로 데뷔 앨범 Infinite Possibilities로부터의 싱글 컷.
 
-이 음반은 2009년 영국 프로듀서 Guy Robin과 DJ Leo가 House/Deep House 믹스를 비공식적으로 발매한 것입니다.
+이 레코드는 2009년에 UK의 프로듀서 Guy Robin과 DJ Leo가 House/Deep House 믹스한 비공식 릴리스반.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Get Up (Guy Robin & DJ Leo Main Vocal Mix)
 

@@ -10,21 +10,21 @@ tags:
 - Techno
 - JPop
 - 00s
-title: 이시노 타큐 – 가라오케잭
+title: Takkyu Ishino – Karaokejack
 ---
 
 
-2001년에 발매된 이시노 타큐의 솔로 앨범. 첫 한정 페이퍼 재킷 CD.
-아홉 번째 곡 "Creatures Of The Night"는 Beroshima와 공동 작곡했습니다.
+2001년에 발매된 이시노 탁구(Takkyu Ishino)의 솔로 앨범. 첫회 한정 종이 재킷 CD.
+9곡째 「Creatures Of The Night」는, Beroshima와의 공작.
 
 
-이시노 타큐 - 가라오케 잭
+이시노 탁구 - 노래방 잭
 
-최초 한정판 페이퍼 재킷 사양
+첫회 한정판 종이 재킷 사양
 
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Elektronik Go Go Go
 2. Rock Da Beat
@@ -43,5 +43,5 @@ title: 이시노 타큐 – 가라오케잭
 
 [メルカリで購入](https://jp.mercari.com/item/m24933768293?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/McJib0kKbv0?si=6RNlMZsRoNEPI4lz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

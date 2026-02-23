@@ -9,13 +9,13 @@ permalink: /ko/the-foundation-featuring-jay-williams-rejoice/
 tags:
 - House
 - Deep House
-title: Jay Williams가 출연하는 재단 - 기뻐하세요
+title: The Foundation Featuring Jay Williams – Rejoice
 ---
 
 
-The Foundation으로도 알려진 도미니카계 미국인 하우스 DJ/리믹서/프로듀서 Roger Sanchez의 하우스 트랙으로, 1993년 뉴욕 하우스 레이블 One Records에서 발매되었습니다.
+1993년에 NY의 하우스 라벨 One Records에서 발매된 The Foundation, 도미니카계 미국인의 하우스 DJ/리믹서/프로듀서 Roger Sanchez(로저 산체스)의 하우스 트럭.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Rejoice (Strobelight Mix)
 
@@ -30,5 +30,5 @@ B3. Rejoice (Churchapella)
 
 [メルカリで購入](https://jp.mercari.com/item/m34717697447?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fDpEJH7gTXA?si=oArfX-EnGStsPrtj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

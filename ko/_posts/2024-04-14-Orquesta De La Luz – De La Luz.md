@@ -9,15 +9,15 @@ permalink: /ko/orquesta-de-la-luz-de-la-luz/
 tags:
 - Salsa
 - Latin
-title: Orquesta De La Luz - 드 라 루즈
+title: Orquesta De La Luz – De La Luz
 ---
 
 
-``De La Luz''는 1990년 발매된 살사 밴드 Orquesta de la Luz의 데뷔 앨범이다.
+1990년에 발매된 살사 밴드, 오르케스타 드 라 루스의 데뷔 앨범 '데 라 루스'.
 
-첫 번째 노래인 Salsa caliente del Japón(일본의 Hot Salsa)은 빌보드 라틴 차트에서 11주 동안 1위를 차지했습니다.
+1곡째의 Salsa caliente del Japón(일본으로부터의 뜨거운 살사)은, 전미의 빌보드지 라틴 차트에서 11주간에 걸쳐 1위를 획득했다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Salsa Caliente Del Japon
 
@@ -42,5 +42,5 @@ title: Orquesta De La Luz - 드 라 루즈
 
 [メルカリで購入](https://jp.mercari.com/item/m99958650751?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gXdBszUca9o?si=RnCcmmMUHsoz-jSV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

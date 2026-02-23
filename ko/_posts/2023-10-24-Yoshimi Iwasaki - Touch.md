@@ -11,17 +11,17 @@ tags:
 - Nostalgic
 - Theme
 - 7inch
-title: 이와사키 요시미 – 터치
+title: 이와사키 료미 – 터치
 ---
 
 
-1985년에 발매된 『이와사키 요시미 – Touch』.
+"이와사키 료미 - 터치"는 1985 년에 출시되었습니다.
 
-작사 – 강진화
+가사 – 강진화
 
-작곡 & 편곡 - 세리자와 히로아키
+뮤직 & 편곡 – 세리자와 히로아키
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. タッチ
 
@@ -30,5 +30,5 @@ B. 君がいなければ
 
 [メルカリで購入](https://jp.mercari.com/item/m57717219386?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fQznd-eltAQ?si=P-oIwdUC2uAGJFqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

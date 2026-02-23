@@ -9,13 +9,13 @@ permalink: /ko/asian-dub-foundation-tank/
 tags:
 - Electronica
 - Hiphop
-title: 아시아 더빙 재단 – 탱크
+title: Asian Dub Foundation – Tank
 ---
 
 
-"Tank"는 AsianDubFoundation의 다섯 번째 앨범입니다. 이 앨범에는 더빙 음악 프로듀서 Adrian Sherwood의 도움으로 Ghetto Priest의 보컬이 포함되었습니다.
+"Tank"는 AsianDubFoundation의 다섯 번째 앨범. 이 앨범에서는 Dub Music 전문 프로듀서 Adrian Sherwood(에드리안 셔우드)의 협력을 얻어 Ghetto Priest(게토 프리스트)가 보컬로 참가했다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Flyover
 2. Tank
@@ -32,5 +32,5 @@ title: 아시아 더빙 재단 – 탱크
 
 [メルカリで購入](https://jp.mercari.com/item/m14272970015?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h_tPVMwSFzs?si=Y-gcDqnXt2lLvR92" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

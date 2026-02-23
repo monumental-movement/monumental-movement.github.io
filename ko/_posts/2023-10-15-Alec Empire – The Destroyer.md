@@ -9,13 +9,13 @@ permalink: /ko/alec-empire-the-destroyer/
 tags:
 - Digital Hardcore
 - Breakcore
-title: 알렉 엠파이어 – 디스트로이어
+title: Alec Empire – The Destroyer
 ---
 
 
-알렉 엠파이어(Alec Empire)는 독일의 실험적인 일렉트로닉 음악가이자 Atari Teenage Riot 밴드의 창립 멤버입니다.
+Alec Empire (알렉 엠파이어)는 독일의 실험적 일렉트로닉 뮤지션이며 밴드 Atari Teenage Riot의 창립 멤버.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Untitled
 A2. We All Die!
@@ -40,5 +40,5 @@ D4. Untitled
 
 [メルカリで購入](https://jp.mercari.com/item/m94890989911?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pkVKrOFxTWk?si=kZuxmX7qD-gSKCRd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

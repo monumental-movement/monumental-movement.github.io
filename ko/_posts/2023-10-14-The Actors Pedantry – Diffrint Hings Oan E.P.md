@@ -9,13 +9,13 @@ permalink: /ko/the-actors-pedantry-diffrint-hings-oan-e-p/
 tags:
 - IDM
 - House
-title: 배우들의 행상 – Diffprint Hings Oan E.P
+title: The Actors Pedantry – Diffrint Hings Oan E.P
 ---
 
 
-1999년 스코틀랜드 글래스고에 본사를 둔 레이블인 Ampoule에 의해 출시되었습니다. 측면의 드럼은 Mitchell Bottler와 Norma Helms의 "Saturday Night, Sunday Morning" 샘플입니다.
+스코틀랜드의 글래스고에 있는 라벨 Ampule보다 1999년에 발매되었다. A면의 드럼은 Mitchell Bottler(미첼 보틀러), Norma Helms(노마 헬름스)의 「Saturday Night, Sunday Morning」을 샘플링.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. House
 
@@ -26,5 +26,5 @@ B2. The Chocolate Factory
 
 [メルカリで購入](https://jp.mercari.com/item/m43840042608?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CVcOGMTlkmI?si=oU9R_8NA5vA287vT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

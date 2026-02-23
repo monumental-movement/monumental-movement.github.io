@@ -10,18 +10,18 @@ tags:
 - Deep House
 - House
 - 00s
-title: Souldoubt - 요즘 같은 시대
+title: Souldoubt – Times Like These
 ---
 
 
-Souldoubt로도 알려진 Alex J. Dean은 2000년대 초반 활동한 딥하우스/테크하우스 프로듀서이자 DJ입니다. 그들은 또한 Freaked라는 다른 이름으로 공연했습니다.
+Souldoubt Alex J. Dean은 2000년대 초반에 활약한 딥하우스/테크하우스 프로듀서 DJ. 별명의로 Freaked로서도 활동했다.
 
-"Times Like This"는 시애틀 하우스 레이블 Viva!에서 발매된 Deep House 트랙입니다. 2001년에.
+「Times Like These」는, 2001년에 시애틀의 하우스 라벨 Viva!로부터 릴리스된 Deep House 트랙.
 
-재킷 디자인은 1990년대 후반부터 2000년대까지 캐나다 서부 하우스 뮤직 씬에서 활동한 캐나다 딥하우스 DJ이자 프로듀서, 크리에이터인 토드 오모타니(Todd Omotani)가 맡았다.
+재킷의 디자인은, 1990년대 후반부터 2000년대에 걸쳐, 캐나다 서부의 하우스 뮤직 씬으로 활약한 캐나다의 딥 하우스 DJ·프로듀서&크리에이터의 Todd Omotani.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Open Up
 
@@ -31,5 +31,5 @@ B2. Shufflers Delight
 
 [メルカリで購入](https://jp.mercari.com/item/m52528150296?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dQokuBhF5N8?si=uFq_j5RJQiZxFjWc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

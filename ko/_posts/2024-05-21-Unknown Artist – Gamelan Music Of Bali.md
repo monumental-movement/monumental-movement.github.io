@@ -10,17 +10,17 @@ tags:
 - Tribal
 - Folk
 - Field Recording
-title: 무명의 아티스트 - 가믈란 뮤직 오브 발리
+title: Unknown Artist – Gamelan Music Of Bali
 ---
 
 
-Lyrichord 레이블이 발매한 발리 가믈란 음악 앨범입니다.
+라벨 Lyrichord에서 발매된 발리 섬의 감람 음악 앨범.
 
-1950년 Peter Fritsch가 설립한 미국 음반 회사인 Lyrichord는 의식, 부족, 민족 전통에 대한 현장 녹음을 포함하여 미국에서 가장 오래된 인류 음악 전통을 수집하고 발표하는 회사입니다. 이 앨범은 Ruby Ornstein이 녹음했습니다.
+1950년 Peter Fritsch에 의해 설립된 US 레코드 회사 Lyrichord는 미국에서 가장 오래되었던 것부터 의식적, 부족적, 민족적 전통의 필드 레코딩 등 인류 음악의 전통을 모아 출시하고 있다. 이 앨범의 녹음자는 Ruby Ornstein.
 
-가믈란의 유래는 보로부두르 유적과 프람바난 유적의 부조에 새겨져 있는 것으로 보아 서기 404년경으로 추정된다. 또한. 가믈란은 2021년 12월 15일 유네스코 세계무형문화유산으로 등록되었습니다.
+갬란의 기원은 보로부두르 유적과 플랜바난 유적의 릴리프에 새겨져 있기 때문에 기원 404년경이 아닐까라고 한다. 또한. 감란은 2021년 12월 15일 유네스코 세계 무형문화유산으로 등록됐다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Topeng Tua
 A2. Kebjar Teruna
@@ -34,5 +34,5 @@ B4. Kebjar Hudjan Mas
 
 [メルカリで購入](https://jp.mercari.com/item/m34426966313?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0KypKEp5LwU?si=MVkLVEYwPNBN_iR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

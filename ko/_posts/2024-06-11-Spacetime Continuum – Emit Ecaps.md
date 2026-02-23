@@ -12,13 +12,13 @@ tags:
 - IDM
 - 90s
 - Rare
-title: 시공간 연속체 – Ecaps 방출
+title: Spacetime Continuum – Emit Ecaps
 ---
 
 
-90년대 언더그라운드 테크노/앰비언트/일렉트로니카 씬의 충실한 활동가인 Spacetime Continuum으로도 알려진 Jonah Sharp가 자신의 레이블인 Reflective Records에서 1996년에 발매한 더블 LP 세트입니다.
+90년대의 언더그라운드 테크노 앰비언트 일렉트로니카 씬의 중진, Spacetime Continuum(스페이스 타임 콘티늄) 것 Jonah Sharp(조나 샤프)가, 자신의 라벨 Reflective Records로부터 1996년에 릴리스한 2매 세트 LP.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Iform
 A2. Kario
@@ -37,5 +37,5 @@ D3. String Of Pearls
 
 [メルカリで購入](https://jp.mercari.com/item/m12946322168?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_69PL9KICkg?si=-VOGEEm7Sc0AnL9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

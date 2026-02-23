@@ -11,15 +11,15 @@ tags:
 - Hardcore
 - Hardcore Hiphop
 - 00s
-title: VA - 매드맥스
+title: VA – Mad Maxx
 ---
 
 
-Rappa Gariya의 MC Q가 시작한 레이블인 Soumatou Entertainment가 2000년에 발표한 '하드코어 x 힙합' 프로젝트 앨범.
+라파아리야의 MC Q가 중심이 되어 시작한 라벨 주마당 Entertainment로부터 2000년에 릴리스 된 「Hardcore x HipHop」의 기획 앨범.
 
-참여 아티스트: 우즈마키, 리얼 스타일라, 코코뱃, 유 더 락, 렌치, 에그맨, 쓰리 사이드, 포템킨, Low IQ 01, UBG 패밀리, 체스트 홀, 백개먼, 아나크, 라파가리야
+참가 아티스트: 우마키, 리얼 스타일러, Cocobat, You The Rock, Wrench, Egg Man, Three Side, Pochomkin, Low IQ 01, UBG Family, Chest Hole, Backgamon, Anarch, Rappa Reya
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. 宇頭巻 X リアルスタイラ – 一掃
 2. Cocobat X You The Rock – Angel Of Def

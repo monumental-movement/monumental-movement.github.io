@@ -9,17 +9,17 @@ permalink: /ko/dsk-what-would-we-do/
 tags:
 - House
 - 90s
-title: DSK - 우리는 무엇을 할 것인가
+title: DSK – What Would We Do
 ---
 
 
-'우리가 어떻게 할 것인가'는 중독성 있는 멜로디와 리듬이 특징이다. 특히 보컬 루프와 일렉트로닉 사운드가 곡의 톤을 잡아준다.
+"What Would We Do"는 캐치 멜로디와 리듬이 특징입니다. 특히 보컬 루프와 일렉트로닉 사운드가 악곡의 톤을 만들어내고 있습니다.
 
-1990년대 댄스음악계에서 인기를 얻었으며 많은 클럽과 라디오에서 연주되었습니다.
+1990년대 댄스 뮤직 장면에서 인기를 얻었으며 많은 클럽과 라디오에서 플레이했습니다.
 
-'어떡하지'는 댄스 플로어에서의 쉬운 댄스성과 독특한 사운드로 많은 리스너들의 지지를 받아온 곡으로 널리 알려져 있다.
+'What Would We Do'는 댄스 플로어에서의 춤의 용이성과 그 맛있는 사운드가 많은 청취자에게 지지된 한 곡으로 널리 알려져 있습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. What Would We Do (Hurley's House Mix)
 
@@ -36,5 +36,5 @@ B3. Read My Lips
 
 [メルカリで購入](https://jp.mercari.com/item/m86767760517?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OiFvCY0A8Yw?si=Kq9fc5g_cVJC9gnq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

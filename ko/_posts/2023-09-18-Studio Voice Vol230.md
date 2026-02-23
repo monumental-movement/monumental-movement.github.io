@@ -13,13 +13,13 @@ title: Studio Voice Vol230 (스튜디오 보이스) 밥 딜런
 ---
 
 
-Studio Voice Vol230 (스튜디오 보이스) 밥 딜런
+Studio Voice Vol230 (스튜디오 음색) 밥 딜런
 
-표지: 밥 딜런
+표지：밥・딜란
 
-밥 딜런, 데이빗 암람, 사노 모토하루, 빔 벤더스, 오카와 히토미, 톰슨 마요
+밥 딜런 데이비드 암람 사노 모토하루 빔 벤더스 오오카와 히토미 메이요 톰슨
 
-#### 내용물
+#### Contents
 ```md
 □ 吠える Poetry Vibrations ビートニクからラッパーまで
 □ Beat Now

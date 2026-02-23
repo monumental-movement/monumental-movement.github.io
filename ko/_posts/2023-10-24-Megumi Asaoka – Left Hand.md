@@ -10,19 +10,19 @@ tags:
 - JPop
 - Nostalgic
 - 7inch
-title: 아사오카 메구미 - 남자친구는 왼손잡이
+title: 마오카 메구미 – 나의 그는 왼쪽
 ---
 
 
-1973년에는 '아사오카 메구미 - 내 남자친구는 왼손잡이'가 발매됐다.
+"마오카 메구미 - 나의 그는 왼손잡이"는 1973 년에 출시되었습니다.
 
-작사 - 센케 카즈야
+가사 – 치카 카즈야
 
-작곡 & 편곡 – 츠츠미 쿄헤이
+뮤직 & 어레인지 – 츠츠미 쿄헤이
 
-녹음 멤버(기타) – 타카나카 마사요시
+레코딩 멤버(기타) – 타카나카 정의
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. わたしの彼は左きき
 
@@ -31,5 +31,5 @@ B. ひとりの私
 
 [メルカリで購入](https://jp.mercari.com/item/m39210707763?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jUC6W77bMtc?si=K0RVqI7KgFQtMRm0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -12,17 +12,17 @@ tags:
 - Euro
 - 90s
 - Rare
-title: 비상 – Let Me Be
+title: Emergency – Let Me Be
 ---
 
 
-Emergency는 Alessandro Carino, Graziano Fanelli, Jose Antonio Manzano, Marco Rizzi 및 Pieradis Rossini의 Italo 댄스 프로젝트입니다.
+Emergency는 Alessandro Carino, Graziano Fanelli, Jose Antonio Manzano, Marco Rizzi, Pieradis Rossini의 이탈로 댄스 프로젝트.
 
-편곡자이자 프로듀서는 이탈리아 음악가이자 댄스 음악 프로듀서이자 Italo 댄스 레이블 DJ Movement의 창립자인 Pieradis Rossini입니다.
+어레인지 & 프로듀서는 이탈리아 뮤지션 & 댄스 뮤직 프로듀서이며 이탈로 댄스의 라벨 DJ Movement의 창립자 Pieras dis Rossini.
 
-1993년 DJ Movement 레이블에서 발표한 Italo 댄스 트랙입니다.
+1993년 라벨 DJ Movement에서 출시된 이타로 댄스 트랙.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Let Me Be (Lets Do It Mix)
 
@@ -31,5 +31,5 @@ B1. Let Me Be (Emergency)
 
 [メルカリで購入](https://jp.mercari.com/item/m49444465036?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TJeciSG5sj0?si=sKGmoo5PY_2HIbJj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

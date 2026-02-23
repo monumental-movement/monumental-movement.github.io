@@ -10,170 +10,178 @@ tags:
 - Techno
 - Detroit Techno
 - Minimal
-title: '[칼럼] 테크노의 기원부터 현재까지 - 유명 음반과 장비를 통해 추적하는 연대기적 역사'
+title: 【칼럼】 테크노의 발상부터 현재까지
 ---
 
 
-## 테크노의 기원부터 현재까지 - 유명 음반과 장비를 통해 추적한 연대기적 역사
+## 테크노의 발상부터 현재까지 - 명반과 장비로 가는 연대사
 
-글 : mmr｜주제 : 테크노의 10년별 역사적 배경, 대표 명작, 장비의 변화
+문장：mmr｜테마：테크노의 연대마다의 시대 배경·대표적인 명반·기재의 변천
 
 
-테크노의 역사는 '도시'와 '기계'의 관계에서 탄생하고 진화해왔습니다. 아래에서는 시대별 역사적 배경과 대표적인 명작, 장비의 변화를 정리해 보겠습니다.
+테크노의 역사는 '도시'와 '기계'의 관계에서 태어나 진화해 왔습니다. 이하에서는, **연대마다의 시대 배경·대표적인 명반·기재의 변천**을 정리합니다.
 
 ---
 
-### 1970년대: 태아 운동 - 전자 음악과 디스코가 토대를 마련했습니다.
-**시대배경**
-- 신디사이저의 소형화, 대량생산
+### 1970년대: 태동 - 전자 음악과 디스코가 기초를 만든다
+**시대 배경**
+- 신디사이저가 소형화·양산화
 - 디스코 문화의 성숙
 
-**걸작**
-- Kraftwerk – *유럽 횡단 특급*(1977)
-- 도나 서머 – “I Feel Love” (1977, prod. Giorgio Moroder)
-- 옐로 매직 오케스트라 – *솔리드 스테이트 서바이버*(1979)
+**명반**
+- Kraftwerk – *Trans-Europe Express* (1977)
+- Donna Summer – “I Feel Love” (1977, prod. Giorgio Moroder)
+- Yellow Magic Orchestra – *Solid State Survivor* (1979)
 
-**장비**
-- 무그/ARP/EMS 모듈러
--롤랜드 CR-78
-- 마에스트로 리듬킹
+**기재**
+- Moog/ARP/EMS 모듈러
+- 롤랜드 CR-78
+- Maestro Rhythm King
 
 ---
 
-### 1980년대: 디트로이트의 탄생과 유럽으로의 확산
-**시대배경**
-- 디트로이트의 산업도시화와 청년문화
-- MIDI의 등장(1983년)과 디지털 장비의 확산
+### 1980년대: 디트로이트의 탄생과 유럽으로의 전파
+**시대 배경**
+- 디트로이트 산업 도시화와 청소년 문화
+- MIDI(1983) 등장, 디지털 기기의 보급
 
-**유명 앨범/트랙**
-- 사이보트론 - '클리어'(1983)
-- 모델 500 – “UFO는 없다”(1985)
-- 리듬은 리듬이다 – “Strings of Life” (1987)
-- 이너 시티 – “큰 재미”(1988)
+**명반/트럭**
+- Cybotron – “Clear” (1983)
+- Model 500 – “No UFOs” (1985)
+- Rhythim Is Rhythim – “Strings of Life” (1987)
+- Inner City – “Big Fun” (1988)
 
-**장비**
-- 롤랜드 TR-808 / TR-909 / TB-303
+**기재**
+- 롤랜드 TR-808/TR-909/TB-303
 - SH-101 / Juno-106
-- 야마하 DX7
--아카이 S900/S950
-- Atari ST + Cubase/노테이터
+- Yamaha DX7
+- Akai S900/S950
+- Atari ST + Cubase/Notator
 
 ---
 
-### 1990년대: 글로벌 확장 - 영국 베를린, 두 번째 물결
-**시대배경**
-- 베를린 장벽이 무너진 후(1989년) Tresor 등이 거점으로 삼음
-- 영국의 레이브 문화와 클럽 활동
+### 1990년대: 글로벌 확장 - 베를린, 영국, 두 번째 웨이브
+**시대 배경**
+- 베를린의 벽 붕괴(1989) 후 Tresor 등이 거점화
+- UK 레이브 문화와 클럽화
 
-**걸작**
-- 지하 저항 – *X-101/X-102* (1991–)
-- Aphex Twin – *Selected Ambient Works 85-92* (1992)
-- 기본 채널 – *BCD*(1994)
-- 로버트 후드 – *미니멀 네이션*(1994)
-- Plastikman – *시트 1*(1993)
-- 제프 밀스 – “The Bells” (1997)
+**명반**
+- Underground Resistance – *X-101 / X-102* (1991–)
+- Aphex Twin – *Selected Ambient Works 85–92* (1992)
+- Basic Channel – *BCD* (1994)
+- Robert Hood – *Minimal Nation* (1994)
+- Plastikman – *Sheet One* (1993)
+- Jeff Mills – “The Bells” (1997)
 
-**장비**
-- 아카이 S3000/S3200
-- E-뮤 ESI/E4
-- 엔소닉 ASR-10
-- 맥키 1604/8-버스
--롤랜드 JP-8000
-- 바이러스에 접근
+**기재**
+- Akai S3000/S3200
+- E-mu ESI/E4
+- Ensoniq ASR-10
+- Mackie 1604/8-Bus
+- Roland KR-8000
+- Access Virus
 - ADAT/DAT
 
 ---
 
-### 2000년대: 미니멀리즘 – 마이크로 하우스와 “in the box”의 시작
-**시대배경**
-- PC 제작이 대중화되고 VST가 일반화됨
-- 쾰른, 베를린, 칠레 예술가들이 앞장서고 있습니다.
+### 2000년대 : 미니멀 ~ 마이크로 하우스와 "인 더 박스"의 새벽
+**시대 배경**
+- PC 제작이 보급, VST 일반화
+- 쾰른, 베를린, 칠레계 아티스트가 견인
 
-**걸작**
-- 리카르도 빌라로보스 – *Alcachofa* (2003)
-- 모노레이크 – *중력*(2008)
-- Kompakt – *전체* 시리즈(2000년~)
-- 리치 호틴 – *DE9 | 편집에 더 가까이* (2001)
+**명반**
+- Ricardo Villalobos – *Alcachofa* (2003)
+- Monolake – *Gravity* (2008)
+- Kompakt – *Total* 시리즈(2000–)
+- Richie Hawtin – *DE9 | Closer to the Edit* (2001)
 
-**장비**
-- 에이블톤 라이브(2001~)
-- 이유(2000~)
-- 네이티브 인스트루먼트 Reaktor / Absynth
-- Elektron Machinedrum / 모노머신
-- 파이오니어 CDJ(인기기간)
-
----
-
-### 2010년대: 산업/피크타임 복귀와 모듈식 부활
-**시대배경**
-- Berghain/Ostgut Ton 중심의 글로벌 표준화
-- Bandcamp 직접 판매 및 DIY 출시 가속화
-- 유로랙 붐
-
-**걸작**
-- 마르셀 데트만 – *Dettmann* (2010)
-- 오브제크트 – *플랫랜드*(2014)
-- 헬레나 하우프 – *신중한 욕망*(2015)
-- 외과의사 – *가장 멀리 알려진 물체에서* (2016)
-- 스키 마스크 – *컴프로* (2018)
-
-**장비**
-- Eurorack(변경 가능한 악기, 소음 발생, Intellijel)
-- Elektron Octatrack / 아날로그 Rytm
-- 롤랜드 AIRA TR-8
-- 코르그 볼카 시리즈
-- 에이블톤 푸시
+**기재**
+- Ableton Live (2001–)
+- Reason (2000–)
+- Native Instruments Reaktor / Absynth
+- Elektron Machinedrum / Monomachine
+- Pioneer CDJ(보급기)
 
 ---
 
-### 2020년대: 하드 그루브의 부활, 하이브리드 라이브 공연, AI 지원 시대
-**시대배경**
-- 팬데믹 기간 유통문화 종료 후 현장 복귀
-- BPM 가속, 트랜스포머 재평가
-- AI를 활용한 제작 및 마스터링 지원
+### 2010년대: 산업/피크타임 회귀 및 모듈러 부흥
+**시대 배경**
+- Berghain/Ostgut Ton을 중심으로 세계 표준화
+- Bandcamp 직판, DIY 출시 가속
+- Eurorack 붐
 
-**사운드 트렌드**
+**명반**
+- Marcel Dettmann – *Dettmann* (2010)
+- Objekt – *Flatland* (2014)
+- Helena Hauff – *Discreet Desires* (2015)
+- Surgeon – *From Farthest Known Objects* (2016)
+- Skee Mask – *Compro* (2018)
+
+**기재**
+- Eurorack(Mutable Instruments, Make Noise, Intellijel)
+- Elektron Octatrack / Analog Rytm
+- Roland AIRA TR-8
+- Korg Volca 시리즈
+- Ableton Push
+
+---
+
+### 2020년대: 하드 그루브 재연, 하이브리드 라이브, AI 보조 시대
+**시대 배경**
+- 유행기간 배달문화 후 현장회귀
+- BPM 가속화, 변압기 재평가
+- AI에 의한 제작·마스터링 보조
+
+**소리 경향**
 - 강력한 킥과 리프 반복
-- 하드 테크노 ~ 슈란츠 컴백
-- 트랜스 모티프의 재맥락화
+- 하드 테크노~슈란츠 재기
+- 변압기 모티프의 재 문맥화
 
-**장비**
-- Elektron Digitakt / 디지톤
-- 롤랜드 TR-8S / MC-707
-- ASM 히드라신스
-- 폴리엔드 트래커 / Dirtywave M8
-- 아카이 MPC One/Live II
-- AI 마스터링, 줄기 분리 도구
-
----
-
-### 장비의 “주요 변화” 요약
-1. **1980년대: x0x 계보** – 808/909/303 + 아날로그 모노신스
-2. **1990년대: 샘플러 시대** – Akai/E-mu + 믹서 + 아웃보드
-3. **2000년대: 기본 제공** - DAW+VST
-4. **2010년대: 하이브리드 회귀** – 모듈식 x DAW
-5. **2020년대: 실시간 + AI 보조** – 줄기 분리/분배 전제
+**기재**
+- Elektron Digitakt / Digitone
+- 롤랜드 TR-8S/MC-707
+- ASM Hydrasynth
+- Polyend Tracker / Dirtywave M8
+- Akai MPC One/Live II
+- AI 마스터링, 스템 분리 도구
 
 ---
 
-### 10년마다 듣는 목록
-- **1970년대**: Kraftwerk – *유럽 횡단 익스프레스*
-- **1980년대**: 모델 500 – “No UFOs”/Rhythim Is Rhythim – “Strings of Life”
-- **1990년대**: 기본 채널 – *BCD*/Plastikman – *시트 1*
-- **2000년대**: 빌라로보스 – *알카초파*/모놀레이크 – *중력*
-- **2010년대**: Objekt – *Flatland*/Skee Mask – *Compro*
-- **2020년대**: 하드 그루브/트랜스의 신작이 다시 불타오르다
+### 장비의 "대계적 변천"정리
+1. **1980s: x0x의 혈통** – 808/909/303+ 아날로그 모노신디
+2. **1990s: 샘플러 시대** – Akai/E-mu+믹서+아웃보드
+3. **2000s: 인 더 박스** – DAW+VST
+4. **2010s: 하이브리드 회귀** – 모듈러×DAW
+5. **2020s: 실시간 + AI 보조** – 스템 분리/전달 전제
+
+---
+
+### 10년마다 청력반 목록
+- **1970s**: Kraftwerk – *Trans-Europe Express*
+- **1980s**: Model 500 – “No UFOs”/Rhythim Is Rhythim – “Strings of Life”
+- **1990s**: Basic Channel – *BCD*/Plastikman – *Sheet One*
+- **2000s**: Villalobos – *Alcachofa*/Monolake – *Gravity*
+- **2010s**: Objekt – *Flatland*/Skee Mask – *Compro*
+- **2020s**: 하드 그루브/트랜스 재연의 신작군
 
 ---
 
 ### 요약
-테크노의 핵심은 '반복'과 '사운드 디자인'이다.
-x0x에서 직접 유래한 리듬, 샘플러의 사운드 이미지 디자인, PC 시대의 편집 미학, 모듈성의 무작위성, 심지어 AI 지원까지 기계와 도시의 리듬은 시대가 변해도 계속해서 진화합니다.
+테크노의 핵은 '반복'과 '음향설계'.
+x0x 직계의 리듬, 샘플러의 음상 설계, PC 시대의 편집 미학, 모듈러의 우발성, AI 보조까지――시대가 바뀌어도**기계와 도시의 리듬**은 계속 진화하고 있습니다.
 
 
 ---
 
-### 관련 항목
+### YouTube Podcast
+
+※이 Podcast는 영어입니다만, 자동 자막・번역으로 시청할 수 있습니다
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BaHKgcXXwVY?si=p6D9QsstvecYHdeT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+### 관련 열
 
 🔗 [【コラム】 Tresor（トレゾア） ― ベルリン地下から世界を変えたテクノの聖地](https://monumental-movement.jp/Column-Tresor)
 

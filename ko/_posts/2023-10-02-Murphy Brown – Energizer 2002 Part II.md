@@ -9,15 +9,15 @@ permalink: /ko/murphy-brown-energizer-2002-part-ii/
 tags:
 - Trance
 - Hard Trance
-title: 머피 브라운 – 에너자이저 2002 파트 II
+title: Murphy Brown – Energizer 2002 Part II
 ---
 
 
-"에너자이저 2002 파트 II"는
-본명은 Michael Marc Ott인 Michael Marc Ott의 프로젝트 "Murphy Brown"의 EP로, 2002년 독일 레이블 "Soundwave Music"에서 발매되었습니다.
+Energizer 2002 Part II는
+2002년 독일 라벨 'Soundwave Music'에서 발표된 본명 Michael Marc Ott의 프로젝트 'Murphy Brown'의 EP입니다.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Energizer (DJ Dean Remix)
 
@@ -29,5 +29,5 @@ B2. Roots Of Darkness (DJ Genetic Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m50269894183?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lq6SRGF0VOw?si=rIy-Mhh5RL3bqgHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -11,15 +11,15 @@ tags:
 - Minimal
 - Acid
 - 90s
-title: A. 크래쉬와 브릭스턴 - 쾰른의 동지들
+title: A. Crash and Brixton – Comrades From Cologne
 ---
 
 
-독일 출신 A. Crash(Andreas Kremer)와 Brixton(Norbert Georg Brixton Wieschollek)의 스플릿 싱글.
+독일 출신의 A. Crash (Andreas Kremer)와 Brixton (Norbert Georg Brixton Wieschollek)의 스플릿 싱글.
 
-"Comrades From Cologne"은 아날로그/모듈식 신디사이저와 808/909 드럼 머신에 초점을 맞춘 미니애폴리스 레이블인 Electric Music Foundation이 1997년에 발표한 테크노/미니멀/애시드 트랙으로, 1993년 말 Freddy Fresh와 Auto Kinetic에 의해 Analog Records 부문으로 시작되었습니다.
+'Comrades From Cologne'은 1993년 후반에 Freddy Fresh와 Auto Kinetic에 의해 Analog Records의 부문으로 시작한 아날로그/모듈러 신디사이저&808/909 드럼 머신에 중점을 둔 미네아폴리스의 라벨 Electric Music Foundation에서 1997년에 출시된 Techno/M.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1.  A. Crash – Double Wood
 A2. A. Crash – Bloodline
@@ -30,5 +30,5 @@ B2. Brixton – Menchenleben
 
 [メルカリで購入](https://jp.mercari.com/item/m70602199730?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U4I0AARgu1k?si=l6uowfYAeFAtdoYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

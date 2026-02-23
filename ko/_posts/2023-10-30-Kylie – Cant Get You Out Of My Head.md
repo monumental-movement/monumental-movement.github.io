@@ -10,15 +10,15 @@ tags:
 - House
 - Disco
 - Remix
-title: 카일리 – 내 머리에서 널 꺼낼 수 없어
+title: Kylie – Can't Get You Out Of My Head
 ---
 
 
-"Can't Get You Out Of My Head"는 2001년 앨범 Fever의 싱글로 발매되었습니다.
+「Can't Get You Out Of My Head(뜨겁게 가슴을 태우고)」는, 앨범 「피버」로부터의 싱글 컷으로서 2001년에 릴리스.
 
-A면과 B면은 Tim Deluxe가 리믹스했습니다. D면은 Superchumbo라고도 알려진 Tom Stephan의 리믹스입니다.
+A면, B면의 remix는 Tim Deluxe(팀 디럭스). D면은 Superchumbo Tom Stephan (톰 스테판)의 remix.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A01. Can't Get You Out Of My Head (Deluxe's Dirty Dub)
 
@@ -33,5 +33,5 @@ D02. Can't Get You Out Of My Head (K & M Mindprint Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m93457157873?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EVof5n9MJ3g?si=TJFamwuU8hUqfecp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

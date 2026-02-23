@@ -11,15 +11,15 @@ tags:
 - Ballad
 - Pops
 - 80s
-title: 엘라 피츠제럴드 - I Got The Rhythm
+title: Ella Fitzgerald – I Got The Rhythm
 ---
 
 
-엘라 피츠제럴드는 '노래의 영부인', '레이디 엘라'로도 알려진 미국 재즈 가수였습니다. 빌리 홀리데이, 사라 본과 함께 20세기 최고의 여성 재즈 보컬리스트 중 한 명입니다.
+Ella Fitzgerald (엘라 피츠제럴드)는 "The First Lady of Song (노래의 첫 레이디)", "Lady Ella (레이디 엘라)"라고도 불리는 미국 재즈 가수. 빌리 홀리데이, 사라 본과 나란히 칭한 20 세기 여성 탑 재즈 보컬리스트 중 하나.
 
-거의 60년에 걸친 경력 동안 Ella Fitzgerald는 14개의 그래미상, 국립 예술상, NAACP의 창립 대통령 상, 대통령 자유 메달 등의 영예를 안았습니다.
+엘라 피츠제럴드는 60년 가까이 경력 중 14회 그래미상, 전미예술상, NAACP의 초대 대통령상, 대통령 자유훈장 등의 영예를 받았다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Love Is Here To Stay
 2. I Got Rhythm
@@ -41,5 +41,5 @@ title: 엘라 피츠제럴드 - I Got The Rhythm
 
 [メルカリで購入](https://jp.mercari.com/item/m45583200877?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fSTkz1BvrXY?si=i_4bTuPGvRYKOgcd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

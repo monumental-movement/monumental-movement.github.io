@@ -11,13 +11,13 @@ tags:
 - Pop
 - JPop
 - 80s
-title: 레베카 - 금발의 사우루스
+title: Rebecca – Blond Saurus
 ---
 
 
-1989년 발매된 'Blond Saurus'는 프랑수아 카르보칸(François Carbocan, 프랑수아 K)이 프로듀싱한 레베카의 7집 앨범이자 그녀의 마지막 오리지널 앨범이다.
+1989년에 릴리스된 「Blond Saurus」는, 프로듀서에 프란소와 카보캔(프랑소와 K)을 맞이한, Rebecca(레베카) 7번째의 앨범이며, 레베카 마지막 오리지널 앨범.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Blond Saurus
 2. Vanity Angel
@@ -33,5 +33,5 @@ title: 레베카 - 금발의 사우루스
 
 [メルカリで購入](https://jp.mercari.com/item/m41701755020?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jXrlUcJpkMg?si=HJ7ffC3sCX-uvsVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

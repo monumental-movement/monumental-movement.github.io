@@ -9,15 +9,15 @@ permalink: /ko/frente-shape/
 tags:
 - Rock
 - Folk
-title: 프렌테 - 모양
+title: Frente – Shape
 ---
 
 
-Frente는 1989년에 결성된 호주의 포크 팝/인디 팝 그룹입니다. 원래 멤버는 Simon Austin, Angie Hart, Tim O'Connor였습니다.
+Frente는 1989년에 결성된 호주 포크 팝 인디 팝 그룹. 오리지널 멤버는 사이먼 오스틴, 앤지 하트, 팀 오코너.
 
-"Shape"는 1996년에 발매된 Frente의 두 번째 스튜디오 앨범입니다. 이 앨범은 1995년 스페인에서 녹음되었으며 Cameron McVeigh와 Ted Nicely가 프로듀싱했습니다.
+'Shape'는 1996년에 발표된 Frente의 두 번째 스튜디오 앨범. 이 앨범은 1995년 스페인에서 녹음되어 카메론 맥베이와 테드 나이슬리가 프로듀스했다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Sit On My Hands
 
@@ -48,5 +48,5 @@ B6. Calmly
 
 [メルカリで購入](https://jp.mercari.com/item/m67218117772?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NKVT3Mh6ddE?si=1rPo8ij_uklxe0kh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,14 +9,14 @@ permalink: /ko/frankie-knuckles-featuring-adeva-whadda-u-want-from-me/
 tags:
 - House
 - Garage
-title: Adeva –Whadda U Want(From Me)가 등장하는 Frankie Knuckles
+title: Frankie Knuckles Featuring Adeva –Whadda U Want (From Me)
 ---
 
 
-“Adeva –Whadda U Want(From Me)가 등장하는 Frankie Knuckles”
-이 EP에는 1995년에 발매된 유명한 Frankie Knuckles 트랙의 리믹스도 포함되어 있습니다.
+"Frankie Knuckles Featuring Adeva –Whadda U Want (From Me)"는
+1995년에 발매된 프랭키 너클의 유명한 트럭의 리믹스도 수록한 EP입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Whadda U Want (From Me) (Frankie's Classic Club)
 
@@ -27,5 +27,5 @@ B1. Whadda U Want (From Me) (K-Klass Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m96883382943?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gw0-sJChk-Q?si=leW52dGUMInF69D9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,15 +10,15 @@ tags:
 - Italo-Disco
 - Disco
 - 80s
-title: 빅벤 부족 – 영웅
+title: Big Ben Tribe – Heroes
 ---
 
 
-빅벤 트라이브(Big Ben Tribe)는 1983년 이탈리아 트리에스테에서 결성된 이탈로 디스코 프로젝트입니다.
+Big Ben Tribe(빅벤트라이브)는 1983년 이탈리아 트리에스테로 결성된 이타로 디스코 프로젝트.
 
-이 노래는 David Bowie와 Brian Eno가 공동 작곡한 "Heroes"(1977)의 Italo 디스크 커버입니다. 원래 Italo 디스크 레이블 Zanza Records에서 1983년에 발매되었습니다. 이번 CD는 2012년 발매된 맥시 싱글을 리마스터링한 곡입니다.
+이 곡은 데이비드 보위와 브라이언 이노의 공작 「Heroes」(1977)의 이타로디스크 커버. 오리지널은 이타로 디스크 라벨 Zanza Records에서 1983년에 발매되었다. 이 CD는 2012년에 릴리스된 리마스터 맥시 싱글.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Heroes (Tony Carrasco Mix)
 2. Heroes (Tony Carrasco Instrumental Mix)
@@ -26,5 +26,5 @@ title: 빅벤 부족 – 영웅
 
 [メルカリで購入](https://jp.mercari.com/item/m90617146648?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AgFrO9Dg6OM?si=fPCIBM20yqgrprQ_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

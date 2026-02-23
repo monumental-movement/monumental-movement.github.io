@@ -10,17 +10,17 @@ tags:
 - Techno
 - Minimal
 - 90s
-title: 칼 크레이그 - 랜드크루징
+title: Carl Craig – Landcruising
 ---
 
 
-칼 크레이그(Carl Craig)는 케빈 손더슨(Kevin Saunderson), 후안 앳킨스(Juan Atkins)와 함께 디트로이트 테크노의 창시자로 알려진 데릭 메이(Derrick May)가 발견한 디트로이트 테크노 2세대의 일원이다.
+Kevin Saunderson(케빈 샌더슨), Juan Atkins(호안 앳킨스)와 함께 디트로이트 테크노 창시자 중 한 명으로 알려진 Derrick May(데릭 메이)에 발굴된, 디트로이트 테크노 2세대 Carl Craig.
 
-그는 혁신적인 앰비언트, 테크노, 브레이크비트, 퓨처재즈 등 다양한 요소를 접목한 사운드를 만들어낸다.
+혁신적인 앰비언트, 테크노, 브레이크 비트, 퓨처 재즈 등 다양한 요소를 담은 사운드를 만들고 있다.
 
-WEA의 자회사인 Blanco Y Negro가 2005년에 발매한 "Landcruising"은 칼 크레이그의 첫 번째 앨범으로 명작으로 평가받고 있다. 2005년 앨범은 리마스터링, 리믹스, 신곡 추가를 거쳐 RushHour 레이블에서 'The Album Formerly Known As...'라는 제목으로 발매되어 재평가를 받았다.
+WEA의 자회사 Blanco Y Negro로부터 2005년에 릴리스된 「Landcruising」은, 칼 크레이그의 1st 앨범이며 명작으로 여겨지는 한 장. 2005년에는 리마스터＆리믹스＋신곡 추가로, 타이틀 「The Album Formerly Known As...」로서 라벨 RushHour로부터 릴리스되어 재평가되고 있다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Mind Of A Machine
 2. Science Fiction
@@ -35,5 +35,5 @@ WEA의 자회사인 Blanco Y Negro가 2005년에 발매한 "Landcruising"은 칼
 
 [メルカリで購入](https://jp.mercari.com/item/m22835584429?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/01mEKYTgz_4?si=GrtJp_4oDYZ1kqA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

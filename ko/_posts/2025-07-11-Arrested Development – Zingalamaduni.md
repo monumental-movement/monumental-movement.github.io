@@ -9,15 +9,15 @@ permalink: /ko/arrested-development-zingalamaduni/
 tags:
 - Hiphop
 - 90s
-title: 체포 된 개발 – Zingalamaduni
+title: Arrested Development – ​​Zingalamaduni
 ---
 
 
-어레스티드 디벨롭먼트(Arrested Development)는 래퍼 스피치(Speech)와 헤드라이너(Headliner)가 1988년에 결성한 미국의 아프리카 중심 힙합 그룹이다.
+Arrested Development(아레스테드 개발)는 1988년 래퍼의 Speech와 Headliner가 결성한 US의 아프로센트릭 힙합 그룹.
 
-타이틀 'Zingalamaduni'는 스와힐리어로 '영혼의 축제(문화 존재)'라는 뜻으로, 아프리카계 미국인의 문화적 뿌리와 영성, 사회적 이슈와 희망을 탐구하는 Arrested Development의 두 번째 앨범이다. 1997년에 발매된 재발매/일본어판.
+타이틀 'Zingalamaduni'는 스와힐리어로 '영혼의 축제(Beings of Culture)'라는 의미로 아프리카계 미국인의 문화적 뿌리와 정신성, 사회 문제, 희망을 테마로 한 Arrested Development의 두 번째 앨범. 1997년에 릴리스된 재발·일본반.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. WMFW (We Must Fight & Win) FM
 2. United Minds
@@ -39,7 +39,7 @@ title: 체포 된 개발 – Zingalamaduni
 
 [メルカリで購入](https://jp.mercari.com/item/m29553577670?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GEmukFkQBTg?si=aP1NoOVfsEtZsUEq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iszZkjDl100?si=r0LD9fsa5pZeT4KN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

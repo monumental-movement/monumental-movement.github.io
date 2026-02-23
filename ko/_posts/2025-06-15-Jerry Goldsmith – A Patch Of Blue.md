@@ -10,16 +10,16 @@ tags:
 - Soundtrack
 - Score
 - 70s
-title: 제리 골드스미스 – 블루 패치
+title: Jerry Goldsmith – A Patch Of Blue
 ---
 
 
-1965년 미국 영화 'A Patch of Blue'의 사운드트랙. 1978년 재발매.
+1965년에 공개된 미국 영화 '언젠가 본 푸른 하늘/A Patch of Blue'의 사운드 트랙. 1978년에 발매된 재발반.
 
-Jerry Goldsmith는 'Planet of the Apes', 'Papillon', 'The Omen', 'Alien', 'Poltergeist', 'Rambo', 'Star Trek' 등 170편이 넘는 영화의 음악을 작곡했습니다.
+Jerry Goldsmith(제리 골드 스미스)는 원숭이의 행성, 빠삐용, 오멘, 외계인, 포르타 가이스트, 람보, 스타트렉 등 170편 이상의 영화 음악을 다뤘다.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Main Title
 A2. A Favour For Selina
@@ -45,5 +45,5 @@ B9. Goodbye Selina
 
 [メルカリで購入](https://jp.mercari.com/item/m39224661224?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5VQ4INxJSog?si=MMwskDMS5k-RdTO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

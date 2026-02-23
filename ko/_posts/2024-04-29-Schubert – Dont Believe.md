@@ -10,15 +10,15 @@ tags:
 - Techno
 - Minimal
 - German Techno
-title: 슈베르트 – 코드팝의 과대광고를 믿지 마세요
+title: Schubert – Don't Believe The Chord-Pop Hype
 ---
 
 
-라이프치히를 기반으로 활동하는 독일 테크노 프로듀서 Schubert(일명 Matthias Kretzschmar)의 미니멀 테크노 트랙입니다.
+라이프치히에 본사를 둔 독일의 테크노 프로듀서 Schubert와 Matthias Kretzschmar의 최소 테크노 트럭.
 
-공동 프로듀서는 라이프치히에 거주하는 독일 DJ이자 프로듀서인 Daniel Stefanik입니다.
+공동 프로듀서는 마찬가지로 라이프치히에 거점을 두는 독일의 DJ & 프로듀서의 Daniel Stefanik.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. ~S[1]~
 
@@ -29,5 +29,5 @@ B2. ~S[3]~
 
 [メルカリで購入](https://jp.mercari.com/item/m27308353964?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cvT3tmifs28?si=fzKcbidYVXWX8Ig6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

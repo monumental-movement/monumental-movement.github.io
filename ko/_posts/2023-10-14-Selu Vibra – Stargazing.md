@@ -8,15 +8,15 @@ layout: post
 permalink: /ko/selu-vibra-stargazing/
 tags:
 - Trance
-title: 셀루 비브라 – 별 관찰
+title: Selu Vibra – Stargazing
 ---
 
 
-Selu Vibra는 스웨덴의 트랜스 DJ/프로듀서인 Sebastian Brandt, Niklas Gustavsson 및 Ludvig Holm의 프로젝트입니다.
+Selu Vibra(세르비브라)는, 스웨덴의 트랜스 DJ/프로듀서 Sebastian Brandt, Niklas Gustavsson, Ludvig Holm에 의한 프로젝트.
 
-B-side는 캐나다 출신의 프로그레시브 트랜스/트랜스 DJ이자 프로듀서인 8 Wonders라고도 알려진 Arnej(Arney Secerkadic)의 리믹스입니다.
+B면은 캐나다 출신의 프로그레시브 트랜스/트랜스 DJ& 프로듀서 8 Wonders와 Arnej (Arney Secerkadic)에 의한 remix.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Stargazing (Original)
 
@@ -25,5 +25,5 @@ B. Stargazing (8 Wonders' Star Traveller Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m85964325673?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9t2feAuBRrQ?si=iUl_WlpjtvfPkvIC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

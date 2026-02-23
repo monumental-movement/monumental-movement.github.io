@@ -9,13 +9,13 @@ permalink: /ko/cajmere-percolator/
 tags:
 - House
 - Techno
-title: Cajmere – 여과기
+title: Cajmere – Percolator
 ---
 
 
-1993년 초까지 시카고의 많은 DJ들이 이 노래를 연주하고 있었습니다. 당시 시카고 댄스씬을 정의한 곡이었는데, 탁구공처럼 톡톡 튀는 사운드가 특징인 이 곡은 매우 중독성 있고, 잘리고, 괴상하다.
+1993년 초까지 시카고의 많은 DJ가 이 노래를 걸었다. 당시, 이것은 시카고의 댄스 장면을 정의하는 노래이며, 트랙을 특징 짓는 바운드하는 탁구 공과 같은 사운드는 매우 캐치하고, 잘게 자르고, 프리 키입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Percolator (Original Mix)
 
@@ -26,5 +26,5 @@ B2. Percolator (Green Velvet Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m54897839706?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b-R0TC0DLVE?si=InPGlFDKetnKZJxf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

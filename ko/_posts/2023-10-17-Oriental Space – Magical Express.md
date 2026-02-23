@@ -8,13 +8,13 @@ layout: post
 permalink: /ko/oriental-space-magical-express/
 tags:
 - Trance
-title: 오리엔탈 스페이스 – 매지컬 익스프레스
+title: Oriental Space – Magical Express
 ---
 
 
-"Magical Express"는 일본 댄스 씬의 선구자인 트랜스 DJ/프로듀서 ORIENTAL SPACE가 2003년에 Farm Records 레이블에서 발매한 트랜스 트랙입니다. 프로모션 보드.
+「Magical Express」는, 2003년에 라벨 Farm Records로부터 릴리스된 일본 댄스 씬의 파이오니아, 트랜스 DJ/프로쥬서 ORIENTAL SPACE의 트랜스 트랙. 프로모션 보드.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Magical Express (Oriental Space Mix)
 

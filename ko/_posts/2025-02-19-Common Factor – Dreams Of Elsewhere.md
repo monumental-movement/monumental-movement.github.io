@@ -11,17 +11,17 @@ tags:
 - Tech House
 - House
 - 90s
-title: 공통 요소 – 다른 곳의 꿈
+title: Common Factor – Dreams Of Elsewhere
 ---
 
 
-Common Factor라고도 알려진 Nick Calingaert는 시카고 출신의 DJ입니다. 90년대 중반에는 Saint Nick이라는 이름으로 드럼&베이스 DJ로 활동하였다.
+Common Factor Nick Calingaert는 시카고 출신의 DJ. 1990년대 중반에는 Saint Nick 명의로 드럼 기반 DJ로 활동하고 있었다.
 
-"Dreams Of Elsewhere"는 칼 크레이그의 클래식 테크노 레이블인 Planet E가 1999년에 발매한 앨범입니다.
+"Dreams Of Elsewhere"는 Carl Craig (칼 크레이그)의 클래식 테크노 라벨 Planet E에서 1999 년에 발표 된 앨범.
 
-'Get Down', 'will', 'Horizons' 등 커먼팩터의 대표곡들이 다수 수록된 명반이다.
+「Get Down」 「will」 「Horizons」 등 Common Factor의 대표곡이 다수 수록된 명반.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Reflections
 2. Positive Visual
@@ -38,5 +38,5 @@ Common Factor라고도 알려진 Nick Calingaert는 시카고 출신의 DJ입니
 
 [メルカリで購入](https://jp.mercari.com/item/m77204166357?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VdN73t5E2ho?si=hfoNCGMGbxnSp5Sn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

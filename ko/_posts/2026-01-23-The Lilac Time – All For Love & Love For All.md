@@ -11,18 +11,18 @@ tags:
 - Rock
 - Pop
 - 90s
-title: 라일락 타임 - 사랑을 위한 모든 것, 모두를 위한 사랑
+title: The Lilac Time – All For Love & Love For All
 ---
 
 
 
-라일락 타임(The Lilac Time)은 1986년에 결성된 영국의 얼터너티브 록 밴드입니다. 밴드 이름은 닉 드레이크(Nick Drake)의 'River Man'의 한 줄에서 따왔습니다.
+The Lilac Time(라일락 타임)은, 1986년에 결성된 UK의 얼터너티 블록 밴드. 밴드명은 Nick Drake(닉 드레이크)의 'River Man'의 대사 따로 취해지고 있다.
 
-'All For Love & Love For All'은 1990년 발매된 3집 '& Love for All'의 싱글 컷이다. '& Love for All'은 1, 2집의 포크 팝 사운드에서 60년대 팝과 사이키델릭 사운드로 전환한 앨범이다.
+'All For Love & Love For All'은 1990년에 발매된 세 번째 앨범 '& Love for All'에서 싱글 컷. '& Love for All'은 1st&2nd 앨범의 포크 팝 사운드에서 60년대 팝&사이케델릭 사운드 가까이로 이행한 앨범.
 
-"All For Love & Love For All"은 1990년 폰타나 레이블이 발표한 인디 록 곡입니다.
+「All For Love & Love For All」은 1990년에 라벨 Fontana에서 릴리스된 India Rock.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. All For Love & Love For All
 A2. Rubovia
@@ -33,5 +33,5 @@ B2. Night Mail Dirty Armour
 
 [メルカリで購入](https://jp.mercari.com/item/m31077623306?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mUnW8olFv7c?si=0Cpdc6miJqRjpdX6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

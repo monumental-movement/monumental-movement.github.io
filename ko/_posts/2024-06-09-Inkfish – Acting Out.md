@@ -12,22 +12,22 @@ tags:
 - Tribal
 - House
 - 00s
-title: Inkfish – 연기
+title: Inkfish – Acting Out
 ---
 
 
-언더그라운드 하우스 씬의 거물인 잉크피쉬(Inkfish)는 90년대부터 활동해온 프로듀서이자 DJ 집단이다. 멤버로는 스웨덴 출신의 마티아스 린드블롬, 예스퍼 린드퀴스트, 안드레아스 헤르만손, 요한 헤르만손이 있다.
+언더그라운드 하우스 씬의 중진 Inkfish는 90년대부터 활동하는 프로듀서&DJ 집단. 회원은 웨덴 출신의 Mattias Lindblom, Jesper Lindquist, Andreas Hermansson, Johan Hermansson의 4 명.
 
-Inkfish는 David West, Hardy Heller, Tomas Andersson 및 진보적인 전설 Ian Ossia와 같은 유명 프로듀서/DJ와 다양한 이름으로 작업해 왔습니다. 그는 또한 Medway, Tom Novy & Jerome Isma-ae, Matt Darey와 같은 아티스트를 배출했습니다.
+Inkfish는 다양한 명의로 David West, Hardy Heller, Tomas Andersson, 프로그레시브계의 전설 Ian Ossia 등의 거물 프로듀서/DJ와 공연하고 있다. 또한 Medway, Tom Novy & Jerome Isma-ae, Matt Darey 등을 프로듀스하고 있다.
 
-"Acting Out"은 2003년 500개 한정판으로 출시된 Inkfish의 프로그레시브 부족 하우스 트랙입니다.
+Acting Out은 2003년에 500장 한정으로 출시된 Inkfish의 프로그레시브 트라이벌 하우스 트랙.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Acting Out
 ```
 
 [メルカリで購入](https://jp.mercari.com/item/m47096405084?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lMffgmavpE8?si=3ejHN8YBz5MOBGQn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

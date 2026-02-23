@@ -10,17 +10,17 @@ tags:
 - Electro
 - Downtempo
 - Disco
-title: 백색광 서커스 - 행진 명령
+title: White Light Circus – Marching Orders
 ---
 
 
-White Light Circus로도 알려진 Dean Meredith는 Andy Meecham과 함께 Chicken Lips 유닛으로 활동하고 있는 영국의 DJ이자 프로듀서입니다.
+White Light Circus Dean Meredith(딘 메레디스)는 Andy Meecham과의 유닛 Chicken Lips(치킨 립스)로도 활약하는 UK의 DJ 프로듀서.
 
-그는 또한 The Rhythm Odyssey와 Goat Dance라는 이름으로 활동하고 있습니다.
+The Rhythm Odyssey, Goat Dance 명의에서도 활동하고 있다.
 
-"Marching Orders"는 영국 레이블 D.C. Recordings가 2005년에 발매한 일렉트로 다운템포 디스코 트랙입니다.
+'Marching Orders'는 2005년 UK의 라벨 D.C. Recordings에서 발표된 일렉트로 다운 템포 디스코 트랙.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Marching Orders (Special Mix)
 

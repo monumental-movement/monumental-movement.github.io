@@ -10,15 +10,15 @@ tags:
 - Reggae
 - Calypso
 - Mento
-title: VA – 트로이 칼립소 박스 세트
+title: VA – Trojan Calypso Box Set
 ---
 
 
-트로이 칼립소 편집
+트로이 쟈 칼립소 편집
 
-한정판 박스 세트(CD 3장)
+한정판 박스 세트(CD3매 세트)
 
-#### 트랙리스트
+#### Tracklist
 ```md
 Jamaican Mento, Calypso & Jump Up Sounds
 
@@ -82,5 +82,5 @@ Calypso War In The UK
 
 [メルカリで購入](https://jp.mercari.com/item/m56177737422?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8AQ0FdpaxNA?si=xMeNt8b2EJ84f18p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

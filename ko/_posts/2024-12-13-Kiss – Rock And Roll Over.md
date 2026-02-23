@@ -10,15 +10,15 @@ tags:
 - Hard Rock
 - Rock
 - 70s
-title: 키스 - 락앤롤오버
+title: Kiss – Rock And Roll Over
 ---
 
 
-1976년 카사블랑카가 발매한 키스의 다섯 번째 정규 앨범 'Hell's Rock Fire'의 카세트 테이프. 국내판(일본어판).
+1976년 Casablanca에서 출시된 키스 다섯 번째 스튜디오 앨범 '지옥의 록 파이어' 카세트 테이프. 국내판(일본판).
 
-"Hard Luck Woman"과 "Calling Dr. Love"는 히트 싱글이 되었습니다. 또한 Ace Frehley의 작사 크레딧이 포함되지 않은 최초의 Kiss 앨범이었으며 1975년 더블 디스크 Kiss Live를 프로듀스한 Eddie Kramer가 다시 한 번 프로듀싱했습니다.
+수록곡 'Hard Luck Woman(하드·랙·우먼)''Calling Dr.Love'는 히트 싱글이 되었다. 또, Ace Frehley(에이스 프레리)의 라이팅 크레딧을 피처하지 않은 최초의 Kiss 앨범이며, 1975년에 발매한 2매 세트 「지옥의 광수 키스 라이브」를 프로듀스한 Eddie Kramer(에디 클레이머)가 다시 프로듀스했다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. I Want You
 A2. Take Me
@@ -35,5 +35,5 @@ B5. Makin' Love
 
 [メルカリで購入](https://jp.mercari.com/item/m33007072750?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yEioRXSgdsk?si=z5LHPeQMfV66ZPPa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

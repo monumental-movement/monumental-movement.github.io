@@ -9,14 +9,14 @@ permalink: /ko/christine-23-onna-shiny-crystal-planet/
 tags:
 - Psychedelic
 - Noise
-title: 크리스틴 23 온나 – 반짝이는 크리스탈 플래닛
+title: Christine 23 Onna – Shiny Crystal Planet
 ---
 
 
-《Shiny Crystal Planet》은 2000년에 알케미 레코드에서 발매된 야마자키 마소와 토다 후사오로 구성된 유닛 크리스틴 23 온나의 앨범이다.
+'Shiny Crystal Planet'은 2000년 알케미 레코즈에서 발매된 야마자키 마조와 토다 보오의 유닛 Christine 23 Onna의 앨범입니다.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Drive To Crystal Planet
 
@@ -45,5 +45,5 @@ title: 크리스틴 23 온나 – 반짝이는 크리스탈 플래닛
 
 [メルカリで購入](https://jp.mercari.com/item/m46495394353?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6k73V4ru3RM?si=mXxzHbXF77k7ucFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

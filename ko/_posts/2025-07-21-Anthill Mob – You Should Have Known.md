@@ -10,18 +10,18 @@ tags:
 - UK Garage
 - House
 - 00s
-title: Anthill Mob – 당신도 알았어야 했어요
+title: Anthill Mob – You Should Have Known
 ---
 
 
-Anthill Mob은 런던 동부를 대표하는 영국 차고 그룹입니다.
+Anthill Mob(안트힐몹)은 런던 동부를 대표하는 UK 차고 그룹.
 
-핵심 멤버는 프로듀서이자 보컬인 Tosh(Yoush)(일명 Andrew Alcee)와 프로듀서 Just Juice(일명 Justin Jones)입니다. Studio 2라는 이름으로도 출시되었습니다.
+키 멤버는 프로듀서&보컬의 Tosh(Yoush), Andrew Alcee와 프로듀서의 Just Juice, Justin Jones. Studio 2명의에서도 발매하고 있다.
 
 
-A1, A2, B2는 1990년대 초 스피드 개러지와 개러지 하우스의 창시자 중 한 명으로 꼽히는 미국 DJ이자 프로듀서인 토드 에드워즈(Todd Edwards)의 리믹스다.
+A1, A2, B2는, 1990년대 초두의 스피드 갈라지 & 갈라지 하우스의 오리지네이터의 한 사람이라고 불리는 미국 DJ 프로듀서 Todd Edwards(토드 에드워즈)에 의한 remix.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. You Should Have Known (Todd Edwards 'You Should Have Vocalised' Mix)
 A2. You Should Have Known (Todd Edwards 'You Should UK' Dub)
@@ -32,5 +32,5 @@ B2. You Should Have Known (Todd Edwards 'You Should Have Vocalised' Dub)
 
 [メルカリで購入](https://jp.mercari.com/item/m71233638813?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W-FwCi2obWc?si=IRohxOwevf-bHpMi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

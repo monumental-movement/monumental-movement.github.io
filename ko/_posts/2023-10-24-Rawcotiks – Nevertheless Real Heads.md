@@ -9,15 +9,15 @@ permalink: /ko/rawcotiks-nevertheless-real-heads/
 tags:
 - Hiphop
 - 90s
-title: Rawcotiks – 그럼에도 불구하고 Real Heads
+title: Rawcotiks – Nevertheless Real Heads
 ---
 
 
-"Rawcotiks – Yet Real Heads"는 1997년 Opposition Records에서 발매되었습니다.
+Rawcotiks – Nevertheless Real Heads는 Opposition Records에서 1997년에 출시되었습니다.
 
-Rawcotiks는 뉴욕 워싱턴 하이츠에 본사를 둔 도미니카 힙합 뮤지션 Jeff Valentino와 Bladmillo Castillo의 유닛입니다.
+Rawcotiks는 NY 워싱턴 하이츠를 거점으로 활동하고 있던 도미니카 공화국의 힙합 뮤지션, Jeff Valentino(제프 발렌티노)와 Bladmillo Castillo(브라드밀로 카스티조)의 유닛.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Nevertheless (Radio Version)
 
@@ -34,5 +34,5 @@ B3. Real Heads (Instrumental Version)
 
 [メルカリで購入](https://jp.mercari.com/item/m53262349767?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OOI-CkIg1ag?si=YwydBM4ogPLLLy6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
