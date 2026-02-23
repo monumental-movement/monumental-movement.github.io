@@ -40,7 +40,7 @@ Un pianiste et un orchestre ont assuré la musique live au cinéma. Par conséqu
 
 [『ジャズ・シンガー』（1927）](https://amzn.to/3Wn4CTH)を皮切りに**光学式録音（Optical Sound）**が導入され、映像フィルムの中に音声情報（スコア）を記録する時代へ。
 
-À cette époque, la signification de « bande-son = matériel audio de film » est devenue claire.
+À cette époque, la signification de « bande sonore = matériel audio d'un film » est devenue claire.
 
 ** ● Médias majeurs de la musique de film : évolutions technologiques dans l'enregistrement et la lecture **
 
@@ -70,7 +70,7 @@ Une nouvelle façon de transporter de la musique de film avec l'autoradio ou vot
 
 ■CD (disque compact)
 
-Depuis les années 1980, il est devenu populaire en tant que format offrant une qualité sonore élevée, une longue durée et une grande flexibilité dans l'ordre des chansons.
+Depuis les années 1980, il est devenu populaire en tant que format offrant une qualité sonore élevée, une longue durée et un haut degré de liberté dans l'ordre des chansons.
 
 Il est devenu possible d’enregistrer des partitions complètes, créant ainsi un âge d’or pour l’appréciation de la musique de film.
 
@@ -80,7 +80,7 @@ Des labels spécialisés dans la bande originale (La-La Land Records, Intrada, V
 
 Un support pour « revivre » les bandes sonores des œuvres vidéo.
 
-L'expression spatiale de la musique a considérablement évolué grâce à la technologie stéréophonique telle que le 5.1ch/DTS.
+L'expression spatiale de la musique a considérablement évolué avec la technologie stéréophonique telle que le 5.1ch/DTS.
 
 ■Source sonore numérique (MP3/WAV/FLAC/AAC)
 
@@ -88,7 +88,7 @@ Ventes de sources musicales sur iTunes et Amazon MP3.
 
 Des compositeurs de films indépendants sont également présentés sur des plateformes telles que Bandcamp.
 
-Les partitions complètes, les chansons inédites et les prises alternatives peuvent être distribuées en haute résolution.
+Les partitions complètes, les chansons inédites et les prises alternatives peuvent être diffusées en haute résolution.
 
 ■Abonnement (Spotify / Apple Music, etc.)
 

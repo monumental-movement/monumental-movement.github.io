@@ -13,7 +13,7 @@ title: Leroy Hanghofer – Salle de bains
 ---
 
 
-Cet EP a un côté très funky et merveilleusement créatif et décalé, avec un sens de l'humour subtil.
+Cet EP a un côté très funky, merveilleusement créatif et décalé, avec un sens de l'humour subtil.
 
 Mais la ligne de basse épaisse et le synthétiseur croustillant maintiennent le tout dans un groove serré et font avancer les choses avec bonheur.
 

@@ -151,12 +151,12 @@ La musique d'Ahmad Jamal occupe une place unique dans l'histoire du jazz. Son in
 
 ### 1. Influence sur Miles Davis
 Miles Davis a cité à plusieurs reprises Jamal comme son « pianiste le plus influent » de son vivant.
-En particulier, les points suivants sont importants :
+Les points suivants sont particulièrement importants :
 
 - **Le concept « Espace »**
 Le jeu de Jamal avec les espaces vides a eu une forte influence sur l'ère de la mode de Miles à partir de la fin des années 1950.
 - **Présentation thématique minimaliste**
-Le sens de la structure de Jamal se reflète également dans les arrangements de Miles de sa période de quintette.
+Le sens de la structure de Jamal se reflète également dans les arrangements de Miles de sa période quintette.
 - **Dynamique du trio**
 L'approche interactive entre la basse et la batterie a également contribué à la formation de l'interaction du groupe de Miles.
 
@@ -219,3 +219,10 @@ Grâce à ces efforts, Jamal est considéré comme l’une des figures les plus 
 
 ---
 
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2a6-t7qfxoU?si=LqrvHHoTBnBoNsCJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

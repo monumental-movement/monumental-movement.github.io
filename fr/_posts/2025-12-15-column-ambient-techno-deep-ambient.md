@@ -43,7 +43,7 @@ color: #fff;
 
 La musique d'ambiance, née dans les années 1970, a embrassé l'idée que la musique fonctionne dans le cadre de l'environnement. Ce qui est important, c'est que l'acoustique a été conçue pour dominer l'espace et le temps, minimisant les mélodies et les développements dramatiques.
 
-D’un autre côté, la techno, apparue à la fin des années 1980, s’est développée comme une musique qui induit un mouvement physique, avec des rythmes répétitifs et une précision mécanique en son cœur. Bien que ces deux tendances semblent à première vue opposées, elles partagent des éléments communs de « persistance », de « répétition » et de « non-récit ».
+D’un autre côté, la techno, apparue à la fin des années 1980, s’est développée comme une musique qui induit un mouvement physique, avec des rythmes répétitifs et une précision mécanique en son centre. Bien que ces deux tendances semblent à première vue opposées, elles partagent des éléments communs de « persistance », de « répétition » et de « non-récit ».
 
 De la fin des années 1980 au début des années 1990, à mesure que la culture des clubs se développait, il y avait un besoin pour une musique pouvant fonctionner en dehors de la piste de danse, ou une musique capable de supporter les heures creuses, et les deux se sont rapprochés en termes pratiques.
 
@@ -101,7 +101,7 @@ La musique d'ambiance des profondeurs marines a une grande affinité avec la con
 
 ## 8. Redéfinir le rythme
 
-Le rythme dans Ambient Techno n'est pas une commande pour bouger le corps. Les impulsions qui apparaissent à intervalles réguliers constituent la base de la mesure du temps, comme un profondimètre.
+Le rythme dans Ambient Techno n'est pas une commande pour bouger le corps. Les impulsions qui apparaissent à intervalles réguliers servent de base à la mesure du temps, à la manière d'un profondimètre.
 
 Dans Deep Ambient, même cette norme peut être supprimée, mais plutôt que d'être complètement intemporelle, le temps interne est maintenu à travers d'infimes fluctuations.
 
@@ -130,7 +130,7 @@ Alors qu'Ambient Techno/Deep Ambient se démarque de la nature du club, Deep Tec
 
 Dans la production techno moderne, les expressions à vitesse lente et à faible stimulation qui diffèrent des styles orientés vers les heures de pointe sont répandues. Il ne s’agit pas d’un déclin du genre, mais d’un élargissement de ses usages.
 
-L'acoustique des grands fonds est devenue un langage commun dans les clubs, les galeries et les espaces de travail privés.
+L’acoustique des grands fonds est devenue un langage commun dans les clubs, les galeries et les espaces de travail privés.
 
 
 ---

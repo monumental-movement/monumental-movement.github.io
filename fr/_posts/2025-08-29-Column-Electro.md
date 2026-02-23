@@ -92,9 +92,9 @@ Au début des années 2000, l’électro revient sur le devant de la scène.
 
 ---
 
-**Electro House Connection** : des artistes franco-allemands comme Justice et Digitalism ont pris d'assaut la scène des clubs en fusionnant des riffs de synthé d'inspiration électro avec de la house 4/4.
+**Electro House Connection** : des artistes franco-allemands comme Justice et Digitalism ont pris d'assaut la scène des clubs en fusionnant des riffs de synthétiseur d'inspiration électro avec de la house 4/4.
 
-Le premier album de Justice, un groupe de danse électronique français actif depuis 2003, est sorti en 2007 sur le label français Ed Banger Records et a été un succès mondial, avec notamment une nomination aux Grammy Awards pour le meilleur album électronique/danse.
+Le premier album de Justice, un groupe de danse électronique français actif depuis 2003, est sorti en 2007 sur le label français Ed Banger Records et a été un succès mondial, notamment une nomination aux Grammy Awards pour le meilleur album électronique/danse.
 
 #### Liste des chansons
 ```md

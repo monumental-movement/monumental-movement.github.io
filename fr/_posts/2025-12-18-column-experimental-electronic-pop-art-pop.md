@@ -43,7 +43,7 @@ color: #fff;
 
 ## 2. Relation historique entre musique pop et expérimentation
 
-Bien que la musique pop ait été fondée sur le principe d’une distribution de masse et d’une compréhension immédiate, des éléments expérimentaux y ont toujours été introduits. Depuis les années 1960, avec les progrès de la technologie en studio, l’enregistrement lui-même est reconnu comme un acte créatif. La manipulation de bande, la lecture inversée et la réverbération artificielle ont été utilisées pour étendre la structure de la chanson.
+Bien que la musique pop ait été fondée sur le principe d’une distribution massive et d’une compréhension immédiate, des éléments expérimentaux y ont toujours été introduits. Depuis les années 1960, avec les progrès de la technologie en studio, l’enregistrement lui-même est reconnu comme un acte créatif. La manipulation de bande, la lecture inversée et la réverbération artificielle ont été utilisées pour étendre la structure de la chanson.
 
 Dans les années 1970, les synthétiseurs sont devenus populaires et les sons électroniques se sont imposés dans le vocabulaire pop. Durant cette période, les sons électroniques fonctionnaient comme des images futuristes et des symboles d’artificialité, et la musique et la représentation visuelle étaient étroitement liées.
 
@@ -57,7 +57,7 @@ Ce changement a entraîné les caractéristiques structurelles suivantes.
 
 * Hauteur et rythme non fixes
 * Structure basée sur des unités acoustiques plutôt que sur des unités de phrases
-* Intégration des imprévus et des erreurs
+* Intégrer les imprévus et les erreurs
 
 La Pop/Art Pop électronique expérimentale utilise activement ces caractéristiques.
 
@@ -157,7 +157,7 @@ Les représentations du corps n’indiquent pas des identités fixes, mais sont 
 
 ## 14. Caractéristiques structurelles communes aux deux
 
-Les brindilles FKA et Arca ont en commun d'être conçues de telle manière que le son et la vidéo ne peuvent être séparés. Les deux sont produits sur la base d’un format de présentation complet, plutôt que d’un seul morceau de musique.
+Les brindilles FKA et Arca ont en commun d’être conçues de telle manière que le son et la vidéo ne peuvent être séparés. Les deux sont produits sur la base d’un format de présentation complet, plutôt que d’un seul morceau de musique.
 
 Ils partagent également une attitude consistant à transformer la structure interne de la musique pop tout en restant dans son cadre.
 
@@ -208,7 +208,7 @@ Experimental Electronic Pop/Art Pop se positionne comme une tentative de reconst
 
 Ce genre n'est pas un style fixe, mais une structure qui continue d'évoluer en fonction de l'environnement de production et de la situation médiatique. FKA twigs et Arca sont des exemples clairs de cette mutabilité, redéfinissant la relation entre la musique, les images et le corps.
 
-Pop/Art électronique expérimental La pop est un domaine qui continuera à générer de nouvelles formes d'expression au sein de la musique pop.
+Pop/Art électronique expérimental La pop est un domaine qui continuera à générer de nouvelles formes d'expression à partir de la musique pop.
 
 ---
 

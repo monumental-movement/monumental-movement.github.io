@@ -111,7 +111,7 @@ Son son est lié au jazz afro-spirituel ultérieur (Pharoah Sanders, Alice Coltr
 
 Lorsqu'Arsenio s'installe aux États-Unis en 1950 et commence à travailler à Harlem,
 Sabu faisait des séances dans la même ville.
-Bien que leur point de contact ne soit pas une collaboration directe,
+Bien que leur point de contact ne soit pas le co-vedette direct,
 Ils étaient profondément ancrés dans la **culture de la diaspora afro du Bronx-Harlem**.
 
 | Ère | Arsenio Rodríguez | Sabu Martinez |

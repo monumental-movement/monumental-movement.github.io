@@ -21,7 +21,7 @@ title: '[Chronique] Electronic World Fusion : le point d''intersection de l''ac
 
 Texte : mmr｜Thème : Des origines de l'Electronic World Fusion à ses aspects techniques, ses œuvres représentatives, ses caractéristiques régionales et sa signification contemporaine
 
-Dans la seconde moitié du XXe siècle, la musique électronique s’est développée autour des synthétiseurs et des échantillonneurs, mais dans le même temps, les musiques traditionnelles du monde entier ont commencé à entrer dans la culture pop occidentale. L'Electronic World Fusion est un domaine où les deux sont entièrement connectés et constitue un genre rare où se croisent l'histoire, la culture et l'idéologie de la technologie et de la musique folk.
+Dans la seconde moitié du XXe siècle, la musique électronique s’est développée autour des synthétiseurs et des échantillonneurs, mais dans le même temps, les musiques traditionnelles du monde entier ont commencé à entrer dans la culture pop occidentale. L'Electronic World Fusion est un domaine dans lequel les deux sont véritablement liés et constitue un genre rare où se croisent l'histoire, la culture et l'idéologie de la technologie et de la musique folk.
 
 Les artistes représentatifs incluent **Nitin Sawhney**, qui intègre de la musique classique indienne et des thèmes sociaux, et **Thievery Corporation**, qui fusionne le downtempo avec divers éléments musicaux d'Amérique latine, du Moyen-Orient et d'Asie.
 
@@ -45,7 +45,7 @@ color: #fff;
 
 ### 1-1 Progrès de la musique électronique et importation des musiques du monde
 
-Depuis les années 1970, à mesure que les instruments de musique électroniques se sont répandus, la musique du monde entier a été introduite au-delà des frontières nationales grâce à la technologie de l'enregistrement et à l'industrie du disque. L'environnement a été créé pour la rencontre des sons électroniques et de la musique folk, et des œuvres de fusion expérimentale ont commencé à émerger.
+Depuis les années 1970, à mesure que les instruments de musique électroniques se sont répandus, la musique du monde entier a été introduite au-delà des frontières nationales grâce à la technologie de l'enregistrement et à l'industrie du disque. L'environnement a été créé pour permettre la rencontre des sons électroniques et de la musique folk, et des œuvres de fusion expérimentale ont commencé à émerger.
 
 ### 1-2 Échantillonnage et critique de musique ethnique
 
@@ -102,11 +102,11 @@ flowchart TD
 
 ## 3. Musiques du monde par région × Caractéristiques de l'acoustique électronique
 
-### 3-1 Sud-Asiatique
+### 3-1 Asiatique du Sud
 
 * Système Raga, tala (structure mesurée)
 * Rythmes divisés complexes de tabla
-* Hautement compatible avec l'acoustique électronique, développée dans les genres ambiants et dansants
+* Hautement compatible avec l'acoustique électronique, développée à la fois dans les genres ambiants et dansants
 
 ### 3-2 Moyen-Orient/Afrique du Nord
 
@@ -221,13 +221,13 @@ Les drones d’instruments folkloriques, les sons soutenus multicouches et les e
 ### 8-3 Importance de la collaboration
 
 * Enregistrement en direct avec des joueurs d'instruments traditionnels
-*Doit être produit avec une compréhension du contexte culturel de la musique régionale.
+*Doit être produit avec une compréhension du contexte culturel de la musique locale.
 
 ---
 
 ## 9. Le cœur d'Electronic World Fusion : **« Traduction de sons interculturels »**
 
-Electronic World Fusion ne remplace pas seulement la musique folk par des sons électroniques ;
+Electronic World Fusion ne se contente pas de remplacer la musique folk par des sons électroniques ;
 **"Le processus par lequel le son traduit la culture et relie différentes valeurs"**
 peut être compris comme
 

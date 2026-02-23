@@ -86,11 +86,11 @@ Les synthétiseurs matériels tels que **Nord Lead** et **Access Virus** sont de
 | Non | Artiste | Titre de la chanson | Commentaire |
 |---|---|---|---|
 | 1 | Aphex Jumeau | Chanson fille/garçon | Fusion de cordes et rythmes complexes |
-| 2 | Autechre | Eutoow | Conception de rythme mécanique et belle |
+| 2 | Autechre | Eutow | Conception de rythme mécanique et belle |
 | 3 | Poussoir carré | Ma voiture rouge chaude | Un mélange innovant de jazz et d'IDM |
 | 4 | µ-Ziq | Préparez-vous Jason | Développement et jeu semblables à ceux d'un exercice |
 | 5 | Conseils d'administration du Canada | Roygbiv | Son nostalgique et chaleureux |
-| 6 | Plaid | Abla Eédio | Mélodie géométrique et pop |
+| 6 | Plaid | Abla Eedio | Mélodie géométrique et pop |
 | 7 | Bogdan Raczynski | Battements mathématiques samouraï | Expérience de battement intense |
 | 8 | Cylob | Coupez les médiums, laissez tomber les basses | Un joyau humoristique du groupe Aphex |
 | 9 | Luc Vibert | J'aime l'acide | L'intersection de l'IDM et de l'acide |
@@ -153,7 +153,7 @@ Développement d'instruments originaux à l'aide de **Max for Live**.
 | 6 | Halo de Laurier | La lumière du soleil sur les fanés | Chant expérimental et acoustique |
 | 7 | Tim Hecker | Vierges | Bruit et construction IDM |
 | 8 | Andy Stott | Problèmes de luxe | IDM sombre et profond orienté club |
-| 9 | Houx Herndon | Chœur | Pionnier de l'approche IA |
+| 9 | Houx Herndon | Chœur | Pionnier de l’approche IA |
 | 10 | Lapalux | Sans toi | R&B IDM émotionnel |
 
 ---
@@ -191,3 +191,14 @@ Production hybride qui combine modulaire et logiciel.
 ## L'esprit de l'expérimentation acoustique lui-même
 IDM a dépassé le cadre de la « musique de danse pour une écoute intellectuelle » et a évolué vers l'esprit même de l'expérimentation sonore.
 Bien qu’il ait commencé en dehors des clubs, il a maintenant retrouvé sa place dans la musique club et pop, et son esthétique se retrouve dans la musique électronique contemporaine.
+
+---
+
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlKbA9Cehh4?si=1j50VFSKQk04Nn7c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

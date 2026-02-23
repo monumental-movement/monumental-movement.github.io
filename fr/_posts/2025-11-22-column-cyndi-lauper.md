@@ -48,17 +48,17 @@ Quand Cindy était jeune, elle était le genre d’enfant qui chantait à peu pr
 
 De nos jours, sa voix est une marque mondiale, mais lorsqu'elle était enfant, Cindy manquait de confiance en sa propre voix, et il fut un temps où elle craignait que « tout le monde pensait que ma voix était étrange ».
 
-Cependant, sa mère aimait beaucoup cette voix. En effet, même au milieu de situations familiales difficiles, la voix chantée de Cindy apportait de la luminosité dans la maison.
+Cependant, sa mère aimait beaucoup cette voix. En effet, même au milieu de situations familiales difficiles, la voix chantée de Cindy a apporté de la luminosité dans la maison.
 
 ---
 
 #**3. Jeunesse : Esprit rebelle et penchant pour l’art**
 
-Durant son adolescence, Cindy s'est tournée vers l'art, la peinture, l'écriture de poésie et a essayé tout ce qui était créatif. J'ai essayé d'aller dans une école d'art, mais même là, je n'ai pas pu m'adapter à un environnement où j'étais obsédé par les « règles » et « l'expression correcte ».
+Durant son adolescence, Cindy s'est tournée vers les arts et a essayé tout ce qui était créatif, notamment la peinture et l'écriture de poésie. J'ai essayé d'aller dans une école d'art, mais même là, je n'ai pas pu m'adapter à un environnement où j'étais obsédé par les « règles » et « l'expression correcte ».
 
 La vie de Cyndi Lauper a un thème constant. C'est une forte volonté qui dit : « Je veux être moi-même ». Cette volonté s'est affiné lorsqu'elle avait environ 20 ans, alors qu'elle se déplaçait dans les rues bondées de New York.
 
-Pendant cette période, elle portait des combinaisons de mode uniques dans les friperies et les marchés aux puces. La « mode unique et colorée » qui est apparue plus tard est née en partie parce que les gens n'avaient pas les moyens d'acheter de nouveaux articles lorsqu'ils étaient pauvres.
+Pendant cette période, elle portait des combinaisons de mode uniques dans les friperies et les marchés aux puces. La « mode unique et colorée » qui est devenue connue plus tard est née en partie parce que les gens n'avaient pas les moyens d'acheter de nouveaux articles lorsqu'ils étaient pauvres.
 
 Les racines de la musique sont la soul, le blues, le rock et les comédies musicales. La ville de New York était pour elle la meilleure « école de musique gratuite ».
 
@@ -168,9 +168,9 @@ Pendant ce temps, Cindy provoque un « incident ».
 
 ### **Un incident au cours duquel un accessoire a heurté le microphone et provoqué du bruit**
 
-Les nombreux accessoires qu'elle portait autour du cou ont heurté le microphone, provoquant un claquement.
+La grande quantité d'accessoires qu'elle portait autour du cou a heurté le microphone, provoquant un bruit de cliquetis.
 
-Ingénieur : "C'est quoi ce bruit ?"
+Ingénieur : « Quel son est-ce ? »
 Quincy Jones : "Cindy, peux-tu... prendre ça ?"
 
 Cindy a éclaté de rire et a dit : "Oh, désolée !" alors qu'elle enlevait ses accessoires, et on dit que l'atmosphère s'est instantanément détendue.
@@ -183,7 +183,7 @@ Cet incident a été transmis comme un épisode qui symbolise la « capacité de
 
 #**10. Fin des années 80 aux années 90 : de la pop star à l'artiste**
 
-De la fin des années 80 aux années 90, Cindy était tiraillée entre le succès commercial et le désir d'expression artistique.
+De la fin des années 80 aux années 90, Cindy oscille entre succès commercial et désir d'expression artistique.
 
 ### **Chapeau plein d'étoiles (1993)**
 

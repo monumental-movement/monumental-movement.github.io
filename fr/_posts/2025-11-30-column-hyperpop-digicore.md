@@ -136,7 +136,7 @@ flowchart TD
 
 ##4-3. Structure 100 gecs (genre surpeuplé)
 
-* Mélange de ska, métal, trap et EDM dans une seule chanson
+* Un mélange de ska, métal, trap et EDM dans une seule chanson
 * Changements de BPM, évolutions rapides
 
 ---

@@ -63,7 +63,7 @@ Cette diversité est la « polyphonie fondamentale » de la musique malienne, et
 
 ---
 
-## Chapitre 2 : Origine et années de formation d'Habib Koite
+## Chapitre 2 : Origine et années de formation d'Habib Koite
 
 Habib Koité est née à Kayazi, au Mali, en 1958. Sa grand-mère faisait partie de la famille de Geri et elle a grandi entourée de musique et d'histoires dès son plus jeune âge.
 Dans sa jeunesse, il étudie à l'**Institut National des Arts (INA)** de Bamako, où il maîtrise la guitare classique et le solfège.
@@ -118,7 +118,7 @@ Son objectif est de convertir les sonorités maliennes en un « langage compréh
 Mais il ne s’agit pas uniquement de mondialisation. Il s’agit plutôt d’une recherche de **sons qui peuvent atteindre le monde sans être occidentalisés**.
 
 Par exemple, dans ses performances live, il utilise six langues différentes (Bambara, Dogon, Français, Anglais, Songhaï, Peul).
-Il fait des allers-retours entre la musique et les mots, et incarne sur scène « l'identité multilingue ».
+Il fait des allers-retours entre la musique et les mots, et incarne « l'identité multilingue » elle-même sur scène.
 
 ---
 
@@ -140,13 +140,13 @@ Cette métaphore de la « racine et de la branche » décrit le mieux la philoso
 Les générations suivantes des Koité comprenaient les **Rokia Traoré**, **Fatoumata Diawara** et **Vieux Farka Touré**.
 Tous ont hérité du « contexte acoustique africain » instauré par Koité, tout en évoluant dans une direction plus personnelle et expérimentale.
 
-En d’autres termes, Habib Koité a été le premier à faire le pont entre la musique malienne et l’expression individuelle.
+En d’autres termes, Habib Koité a été le premier à faire le lien entre la musique malienne et l’expression individuelle.
 
 ---
 
 ## Chapitre 9 : Analyse sonore - Poétique structurale dans « Ma Ya »
 
-Prenons l'exemple de la chanson « **Wassiye** » de « Ma Ya ».
+Prenons comme exemple la chanson « **Wassiye** » de « Ma Ya ».
 
 * **Tempo** : environ 80 BPM (signature rythmique détendue 6/8)
 * **Structure du rythme** : polyrythmie à 3 couches (guitare/cajon/calebasse)

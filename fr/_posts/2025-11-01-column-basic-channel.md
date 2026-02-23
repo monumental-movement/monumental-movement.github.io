@@ -75,7 +75,7 @@ Le son, qui combinait les rythmes durs de la techno de Détroit avec le traiteme
 
 - Le coup de pied n'est pas boueux, mais il suinte comme de l'air.
 - La caisse claire est sur le point de disparaître, et la réverbération du delay devient la mélodie principale.
-- "Decay", pas la mélodie, construit la musique.
+- "Decay", et non la mélodie, construit la musique.
 
 Le critique musical Simon Reynolds a déclaré plus tard :
 > « Leur musique a transformé la techno d'« architecture » en « phénomène météorologique ».
@@ -95,7 +95,7 @@ En d’autres termes, la musique n’est pas un matériau mais un « lieu » –
 
 ---
 
-## Chapitre 4 : Réaction en chaîne──Chaîne d'abstraction
+## Chapitre 4 : Réaction en chaîne──Chaîne d'abstraction
 
 En 1995, Basic Channel a créé un sous-label, **Chain Reaction**.
 Ici, un projet plus anonyme et expérimental s'est développé.
@@ -119,7 +119,7 @@ En conséquence, Basic Channel est devenu plus une **plateforme pour la philosop
 Dans les années 2000, les deux hommes entrent dans une nouvelle phase sous le nom de **Rhythm & Sound**.
 Ici, nous avons invité des chanteurs de reggae de Jamaïque et d'Allemagne, dont Tikiman, Cornell Campbell et Jennifer Lara, pour créer une fusion plus profonde de « voix » et de « réverbération ».
 
-Des chansons telles que « King In My Empire » et « See Mi Yah » ont une structure qui donne plus l'impression qu'elles seraient jouées « à l'intérieur » des haut-parleurs plutôt que dans un club.
+Des chansons telles que « King In My Empire » et « See Mi Yah » ont une structure qui donne davantage l'impression qu'elles seraient jouées « à l'intérieur » des haut-parleurs plutôt que dans un club.
 J'ai retrouvé mon tremblement humain dans la froideur du dub numérique.
 
 Ils continuent de refuser les entretiens et restent invisibles.
@@ -190,10 +190,10 @@ La fin d'un rythme devient le point de départ de la réverbération suivante - 
 | **1994** | A terminé la série jusqu'à Basic Channel No. 6. Œuvres représentatives telles que « Quadrant Dub » |
 | **1995** | Réaction en chaîne établie. La dub techno expérimentale commence à se répandre |
 | **1996** | Début de la série Maurizio (série M) |
-| **1999** | J'ai lancé Rhythm & Sound et j'ai commencé à collaborer avec des chanteurs jamaïcains |
+| **1999** | A lancé Rhythm & Sound, a commencé à collaborer avec des chanteurs jamaïcains |
 | **2003** | Sortie de « Rythme et son avec les artistes » |
 | **2010** | Moritz von Oswald Trio a commencé (avec Max Loderbauer et Tony Allen) |
-| **Années 2020** | Vague de remise en question, renaissance de la Dub Techno, se propageant principalement sur Bandcamp |
+| **Années 2020** | Vague de remise en question, revival de la Dub Techno, se propageant principalement sur Bandcamp |
 
 ---
 
@@ -209,7 +209,7 @@ La fin d'un rythme devient le point de départ de la réverbération suivante - 
 ---
 
 Le son de Basic Channel est intemporel et reste toujours au « présent ».
-La raison en est qu’ils n’ont pas seulement créé de la techno, ils ont reconstruit l’acte même d’écouter.
+La raison en est qu'ils n'ont pas seulement créé de la techno, ils ont reconstruit l'acte même d'écouter.
 
 L'écho ne s'arrête jamais.
 C'est un parfum persistant du temps et un tunnel qui mène l'auditeur vers l'extérieur de l'espace.
@@ -222,13 +222,9 @@ Et les ondes émanant de Berlin à la fin du XXe siècle continuent de se réper
 
 ---
 
-#### Podcast
+#### Podcasts YouTube
 
-<iframe title="Basic Channel: The Origins of Berlin Dub Techno" allowtransparency="true" height="300" width="100%" style="border: none; min-width: min(100%, 430px);height:300px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=i9ehm-19f955e-pb&from=pb6admin&square=1&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&logo_link=episode_page&btn-skin=ff6d00&size=300" loading="lazy" allowfullscreen=""></iframe>
-
----
-
-#### YouTube
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vWQDlU4uskw?si=oyKWaD4B9WwRvvGb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

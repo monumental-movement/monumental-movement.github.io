@@ -15,7 +15,7 @@ title: Planète 95 – Parle-moi
 
 Planet 95 est une unité composée d'Antonio D'Ambrosio, Claudio Ferrante, Pasquale De Crescenzo et Renato De Crescenzo.
 
-« Talk To Me » est un ensemble de deux disques de morceaux house sortis sur le label de Glasgow Limbo Records en 1996.
+"Talk To Me" est un ensemble de deux disques de morceaux house sortis sur le label de Glasgow Limbo Records en 1996.
 
 La face B est un remix de Cotton Club.
 Le deuxième morceau du côté C&D est un remix de Michael Kilkie, un DJ et producteur basé à Glasgow qui résidait de longue date au légendaire club Tunnel en Écosse.

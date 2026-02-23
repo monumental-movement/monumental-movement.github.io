@@ -18,7 +18,7 @@ title: '[Chronique] Apocalypse des images et des sons : « Koyanisqatsi » et le
 ## Prologue : Ce que dit un film sans paroles
 
 
-Texte : mmr｜Thème : À propos du jalon artistique de la seconde moitié du XXe siècle, où vidéo et musique minimale ont fusionné
+Texte : mmr｜Thème : À propos du jalon artistique de la seconde moitié du XXe siècle, où images et musique minimale se confondaient
 
 "Koyanisqatsi, réalisé par Godfrey Reggio et mis en musique par Philip Glass, est une œuvre qui a fondamentalement changé les horizons du cinéma et de la musique dans la seconde moitié du XXe siècle."
 
@@ -123,10 +123,10 @@ Reggio est également une figure spirituelle ayant vécu dans un monastère, et 
 | ----------- | -------- | ---------- |
 | Nature sauvage et lancement de fusée | Son d'orgue soutenu | Contraste entre la vie et la machine |
 | Transports urbains/usines | Répétition de séquences | Cycle de travail sans fin |
-| Gros plan du visage | Chorus et décélération | Questions sur la restauration de l'humanité |
+| Gros plan du visage | Chorus et décélération | Questions sur le rétablissement de l'humanité |
 | Fusée qui s'effondre | Silence et décadence | Fin de la civilisation et renaissance |
 
-Comme le montre ce tableau, la musique n'est pas seulement un accompagnement, mais construit la « syntaxe émotionnelle » de l'image.
+Comme le montre ce tableau, la musique n'est pas seulement un accompagnement, mais construit la « syntaxe émotionnelle » de la vidéo.
 
 ---
 

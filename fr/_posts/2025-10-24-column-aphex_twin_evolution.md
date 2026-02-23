@@ -20,7 +20,7 @@ title: '[Chronique] Les débuts d''Aphex Twin et nos jours -- au-delà du point 
 
 Texte : mmr｜Thème : Comparer les premiers travaux d'Aphex Twin avec leurs réalisations actuelles et interpréter de manière critique les changements dans leur structure acoustique, leur philosophie et leur technologie.
 
-Au début des années 1990, Richard D. James (Aphex Twin) est apparu comme quelqu'un qui a complètement bouleversé la grammaire existante des genres comme la techno et l'ambient. Ses premières œuvres sont des expérimentations sonores où s'entremêlent rêves mécaniques et illusions humaines, et son son actuel se situe entre une structure d'intelligence artificielle et un retour à la nostalgie.
+Au début des années 1990, Richard D. James (Aphex Twin) est apparu comme quelqu'un qui a complètement bouleversé la grammaire existante des genres comme la techno et l'ambient. Ses premières œuvres sont des **expériences sonores où les rêves des machines et les illusions humaines s'entrelacent**, et son son actuel se situe entre **les structures de type intelligence artificielle et le retour de la nostalgie**.
 
 Ci-dessous, nous comparerons et examinerons ces « changements » et « imchangements » à partir des quatre axes du travail, de la technologie, de l'esthétique et de l'idéologie.
 
@@ -59,7 +59,7 @@ C'était une extension de Brian Eno, mais avec une émotion plus personnelle et 
 Dans les premiers EP, les contraintes physiques du matériel façonnaient le caractère même du son.
 Les **erreurs manuelles** telles que les Roland TB-303, SH-101 et Akai S950 ont défini son esthétique.
 
-Les problèmes (atomisation du bruit) et les changements de tempo irréguliers sont
+Des problèmes (atomisation du bruit) et des changements de tempo irréguliers sont
 Elle deviendra plus tard à l’origine d’un mouvement appelé « IDM (Intelligent Dance Music) ».
 
 ---
@@ -86,7 +86,7 @@ C'est étonnant qu'ils aient créé cette complexité dans un environnement pré
 ### 2.2 « Viens voir papa » « Windowlicker » ─ Médias et cauchemars
 
 De 1997 à 1999, Aphex Twin a combiné la musique avec « l'horreur visuelle ».
-Le groupe PV créé en collaboration avec Chris Cunningham **a converti l'instabilité du son électronique en amorphité des images**.
+Le groupe PV créé en collaboration avec Chris Cunningham **a traduit l'instabilité du son électronique dans l'amorphisme des images**.
 
 À l'époque où MTV le présentait comme le "génie le plus étrange"
 Il sentait déjà que sa musique risquait de s’intégrer à la culture populaire.
@@ -145,7 +145,7 @@ En d’autres termes, sa musique est un terrain d’expérimentation pour l’hu
 
 Le cœur d’Aphex Twin réside dans le fait de « rester étranger » même si les temps changent.
 Même lorsque la musique devient tendance, son son laisse toujours une « marge ».
-C’est dans cet espace vide que les auditeurs ont la possibilité de projeter leurs propres émotions.
+C’est dans cet espace vide que les auditeurs ont la possibilité de projeter leurs propres sentiments.
 
 ---
 
@@ -200,6 +200,16 @@ Aujourd'hui, la tendance s'est inversée vers « l'émotionnalisation de l'élec
 Son voyage peut présager un avenir dans lequel la musique elle-même deviendra consciente.
 
 ---
+
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VsS7eedYWa8?si=g5ND3g8oV87JYTNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 ## Documents de référence/discographie recommandée
 

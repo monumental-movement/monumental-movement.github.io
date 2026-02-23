@@ -53,7 +53,7 @@ Le rugissement du moteur de grande cylindrée était aussi sauvage que la distor
 ## ■ « Easy Rider » et l'ambiance de l'époque
 
 Le film « Easy Rider » de 1969 est un symbole de la culture jeune et du style de vie hard rock de l'époque.
-Le voyage des protagonistes à travers l'Amérique à moto à la recherche de liberté n'était pas seulement un voyage, mais une métaphore de la « rupture avec le système ». « Born To Be Wild » de Steppenwolf, qui joue sur la bande originale, résonne avec le rugissement des motos et est toujours transmis comme un hymne hard rock de liberté.
+Le voyage des protagonistes à travers l'Amérique à moto à la recherche de liberté n'était pas seulement un voyage, mais une métaphore de la « rupture avec le système ». « Born To Be Wild » de Steppenwolf, qui joue sur la bande originale, résonne avec le rugissement des motos et est toujours considéré comme un hymne hard rock de liberté.
 
 On peut dire que ce film a défini la relation intime entre le hard rock et la culture automobile en visualisant le moment où la musique, les motos et la liberté se sont réunies.
 
@@ -64,9 +64,9 @@ On peut dire que ce film a défini la relation intime entre le hard rock et la c
 Les groupes de hard rock mondiaux **AC/DC** et **KISS** ont captivé le public en intégrant la culture automobile non seulement dans leur musique mais aussi dans leurs performances.
 
 - AC/DC, comme en témoignent des chansons telles que « Highway to Hell » et « Thunderstruck », des images superposées de « road », « Thunder » et « speeding » sur de la musique rock, liant directement la musique à la sensation de conduire.
-- Lors de la performance live de KISS, le bruit d'un moteur Harley résonnait avec les flammes en arrière-plan, offrant au public une expérience comme si la scène elle-même avait été transformée en un road movie américain.
+- Lors du live de KISS, le bruit d'un moteur Harley résonnait avec les flammes en arrière-plan, offrant au public une expérience comme si la scène elle-même avait été transformée en un road movie américain.
 
-Cela fait écho à la « culture de la vitesse » américaine des années 1970, et le hard rock a fortement adopté les voitures et les motos comme icônes symboliques de la culture populaire.
+Cela fait écho à la « culture de glorification de la vitesse » des années 1970 en Amérique, et le hard rock a fortement adopté les voitures et les motos comme icônes symboliques de la culture populaire.
 
 ---
 
@@ -78,7 +78,7 @@ Pour les fans, le son du moteur lui-même était « un autre type de rock'n'roll
 - **Le rugissement du moteur V8** résonne avec le riff de guitare, donnant à l'auditeur une sensation de libération physique.
 - Le bruit d'un moteur est un « bruit incontrôlé » et il recoupe l'esprit rebelle du rock, car il perturbe l'ordre social et le silence.
 
-Le rugissement des voitures et des motos qui s'éloignaient était en soi une expérience musicale, une « rébellion par le son » contre les valeurs existantes.
+Le rugissement des voitures et des motos qui passaient était une expérience musicale en soi, une « rébellion par le son » contre les valeurs existantes.
 
 ---
 
@@ -155,9 +155,9 @@ Aux États-Unis en particulier, la musicalité des groupes est devenue plus soph
 D'un autre côté, en Europe et au Japon, des styles mettant l'accent sur le lyrisme et la technique se sont développés, et le hard rock continue de symboliser « l'esprit hors-la-loi qui change avec le temps ».
 
 | Artiste | Albums | Année de sortie | Caractéristiques |
-|-------------|----------|---------|------|
+|--------------|----------|---------|------|
 | Guns N'Roses | Utilisez votre illusion I et II | 1991 | Un chef-d'œuvre qui allie hard rock et ballade |
-| Métallique | Album noir | 1991 | « Enter Sandman » brise la frontière entre métal et rock |
+| Métallique | Album noir | 1991 | Briser les frontières entre métal et rock avec « Enter Sandman » |
 | Foo combattants | La couleur et la forme | 1997 | Hymne rock nouvelle génération après le grunge |
 | Audioesclave | Audioesclave | 2002 | Crossover Rage x Soundgarden |
 | Revolver en velours | Contrebande | 2004 | Retour des anciens membres de GNR au rock classique après les années 90 |
@@ -168,8 +168,8 @@ D'un autre côté, en Europe et au Japon, des styles mettant l'accent sur le lyr
 ## Liste d'albums représentative
 
 | Artiste | Albums | Année de sortie | Caractéristiques |
-|-------------|----------|---------|------|
-| Led Zeppelin | Led Zeppelin IV | 1971 | Comprend « Stairway to Heaven », être mythique |
+|--------------|----------|---------|------|
+| Led Zeppelin | Led Zeppelin IV | 1971 | Comprend « Stairway to Heaven », Être mythique |
 | CA/CC | De retour en noir | 1980 | Hymne immortel du hard rock vendu dans le monde entier |
 | Violet profond | Tête de machine | 1972 | « Smoke on the Water » établit un riff classique |
 | Sabbat noir | Paranoïaque | 1970 | Un son sombre et lourd symbolise l'esprit hors-la-loi |

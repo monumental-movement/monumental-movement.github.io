@@ -15,7 +15,7 @@ title: Paul Hardcastle – Marcher dans la nuit
 
 « Walk In The Night » est l'un des chefs-d'œuvre du producteur de musique, compositeur et multi-instrumentiste britannique Paul Hardcastle.
 
-« Walk In The Night » est une chanson qui combine des sons électroniques et des éléments de jazz, et possède un rythme et une mélodie distinctifs.
+"Walk In The Night" est une chanson qui combine des sons électroniques et des éléments de jazz, et possède un rythme et une mélodie distinctifs.
 
 Les synthétiseurs et les rythmes enregistrés se démarquent, créant une atmosphère dansante et groovy.
 

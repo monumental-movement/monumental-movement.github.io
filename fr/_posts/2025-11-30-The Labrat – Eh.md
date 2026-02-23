@@ -21,7 +21,7 @@ title: Le Labrat – Eh
 
 
 
-HipHop/Ragga HipHop track de The Labrat sorti sur Muy Caliente Records. Avec le même numéro de catégorie, il existe une version en texte noir et une version en texte rouge du texte de l'étiquette, et cet enregistrement est la version en texte rouge.
+Morceau HipHop/Ragga HipHop de The Labrat sorti sur Muy Caliente Records. Avec le même numéro de catégorie, il existe une version en texte noir et une version en texte rouge du texte de l'étiquette, et cet enregistrement est la version en texte rouge.
 
 #### Liste des chansons
 ```md

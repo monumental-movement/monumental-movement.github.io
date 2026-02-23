@@ -19,7 +19,7 @@ title: '[Chronique] Shpongle : Réincarnation du son et voyage de conscience'
 Texte : mmr｜Thème : Philosophie de l'univers acoustique dessiné par Raja Ram et Simon Posford
 
 
-Shpongle est un projet monumental d'électro/psychédélique psychédélique centré autour de Simon Posford et Raja Ram. Formé en 1996, inspiré par l'éclipse solaire totale en Inde, ils ont présenté un « voyage audio » qui fusionne échantillonnage ethnique, instrumentation acoustique et production magistrale en studio. Leur image sonore se distingue de la transe clubbiste et invite les auditeurs à une histoire qui transcende le temps et l’espace.
+Shpongle est un projet monumental d'électro/psychédélique psychédélique centré autour de Simon Posford et Raja Ram. Formé en 1996, inspiré par l'éclipse solaire totale en Inde, le groupe a présenté un « voyage audio » qui fusionne échantillonnage ethnique, instrumentation acoustique et production magistrale en studio. Leur image sonore se distingue de la transe clubbiste et invite les auditeurs à une histoire qui transcende le temps et l’espace.
 
 ---
 
@@ -312,7 +312,7 @@ Cette structure provoque un phénomène psychologique appelé « trip acoustiqu
 | ------ | -------- | -------- |
 | Base basse fréquence | Synchronisation de la respiration et du rythme cardiaque | Sentiment d'ancrage |
 | Harmoniques haute fréquence | Activité de la glande pinéale | Hallucinations visuelles/dilatation du temps |
-| Réverbération de réverbération | Expansion de la localisation spatiale | Dissolution de l'ego |
+| Réverbération réverbération | Expansion de la localisation spatiale | Dissolution de l'ego |
 | Polyrythmie | Retard cognitif | Sentiment de flottement de rêve |
 
 Scientifiquement, Shpongle est un projet visant à « reconstruire le cerveau avec le son ».

@@ -53,7 +53,7 @@ Au cours de cette période, de nombreux musiciens de jazz ont introduit les pian
 
 ### Formation et philosophie de base du groupe
 
-Weather Report a été formé en 1970 et a donné la priorité à l'intégrité sonore de l'ensemble de l'ensemble plutôt qu'à l'excellence des solistes individuels. La division traditionnelle des rôles entre thème, accompagnement et improvisation a été intentionnellement floue, et les pièces ont été conçues comme des processus qui génèrent et se transforment au fil du temps plutôt que comme des formes fixes.
+Weather Report a été formé en 1970 et a donné la priorité à l'intégrité sonore de l'ensemble dans son ensemble, plutôt qu'à l'excellence de solistes individuels. La division traditionnelle des rôles entre thème, accompagnement et improvisation a été intentionnellement floue, et les pièces ont été conçues comme des processus qui génèrent et se transforment au fil du temps plutôt que comme des formes fixes.
 
 Cette idée se distingue par le fait que l'improvisation est considérée comme une « production sonore par un groupe » plutôt que comme une « expression individuelle ». Chaque instrument s'éloigne de son rôle fixe de mélodie principale ou d'accompagnement et fonctionne plutôt comme un élément de timbre, de densité rythmique et d'arrangement spatial.
 

@@ -112,7 +112,7 @@ Même après la mort, la souffrance est « divinisée ».
 
 Cependant, l'empathie est censée signifier « comprendre leur douleur et souhaiter leur rétablissement ».
 Plutôt que de nous enivrer de la destruction, que pouvons-nous en tirer et comment pouvons-nous en guérir ?
-C’est la nouvelle éthique de l’acceptation de l’art au 21e siècle.
+C’est la nouvelle éthique de l’acceptation de l’art au 21ème siècle.
 
 ---
 

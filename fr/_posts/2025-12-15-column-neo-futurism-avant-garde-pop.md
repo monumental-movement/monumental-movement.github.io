@@ -20,7 +20,7 @@ title: '[Chronique] Néo-Futurisme / Pop Avant-Garde'
 
 Texte : mmr｜Thème : Organisé comme une intersection de l'histoire de la musique, de l'histoire de l'art et de l'histoire de la technologie, et sur les réalisations des artistes actuels et les tendances de travail
 
-Le néo-futurisme/pop d'avant-garde est une tendance qui a établi des structures sonores expérimentales, une physicalité et une expression visuelle tournée vers l'avenir au sein de la structure de distribution de la musique pop. Au XXIe siècle, l'aspiration au « futur » née dans l'art futuriste du début du XXe siècle a été liée aux environnements de production numérique, à la culture visuelle post-Internet et à la redéfinition du genre et de la représentation corporelle, reconfigurant la musique et l'expression visuelle comme indissociables.
+Le néo-futurisme/pop d'avant-garde est une tendance qui a établi des structures sonores expérimentales, une physicalité et une expression visuelle tournée vers l'avenir au sein de la structure de distribution de la musique pop. Au XXIe siècle, l'aspiration au « futur » née de l'art futuriste du début du XXe siècle a été liée aux environnements de production numérique, à la culture visuelle post-Internet et à la redéfinition du genre et de la représentation du corps, reconfigurant la musique et l'expression visuelle comme indissociables.
 
 Les brindilles FKA et Arca sont emblématiques dans ce contexte. Son travail ne présente pas simplement des sons innovants, mais fonctionne comme un art global qui intègre le corps, la technologie, l'émotion et l'identité.
 
@@ -61,7 +61,7 @@ Depuis les années 2000, les environnements de production utilisant des DAW et d
 * Conception de tons futuristes et non organiques
 * Des visuels qui reconstruisent la représentation du corps
 * Coexistence de structure pop (accroches, répétition) et d'expérimentation
-* Une vision du monde axée sur la technologie
+* Une vision du monde qui fait de la technologie le sujet
 
 ---
 
@@ -133,7 +133,7 @@ flowchart TD
 
 ## 8. Importance socioculturelle
 
-Le néofuturisme/pop avant-gardiste n’est pas seulement un style, mais une pratique culturelle qui remet en question la relation entre la technologie et l’humain. En présentant les corps, les genres et les émotions comme non figés, l’imaginaire futuriste continue de se renouveler.
+Le néofuturisme/pop d’avant-garde n’est pas seulement un style, mais une pratique culturelle qui remet en question la relation entre la technologie et l’humain. En présentant les corps, les genres et les émotions comme non figés, l’imaginaire futuriste continue de se renouveler.
 
 ---
 
@@ -168,7 +168,7 @@ La force des visuels augmente la visibilité de l’œuvre plus que la musique s
 
 La critique pop traditionnelle s'est concentrée sur la structure des chansons et le potentiel des succès. Cependant, dans le néofuturisme/pop d’avant-garde, la totalité de l’expression sonore, visuelle et physique fait l’objet d’une évaluation.
 
-On a de plus en plus tendance à critiquer « le type de questions posées » plutôt que « la facilité à comprendre ». Il s’agit d’aborder l’axe de l’évaluation de l’art contemporain.
+On a de plus en plus tendance à critiquer « le type de questions posées » plutôt que « la facilité à comprendre ». Cela implique d’aborder l’axe de l’évaluation de l’art contemporain.
 
 ---
 

@@ -67,7 +67,7 @@ Ce son a une structure qui, à l'inverse, fait ressortir des émotions à traver
 En 1991, lors de l'explosion alternative symbolisée par « Nevermind » de Nirvana, l'attitude du « n'osez pas monter le volume » est apparue comme une alternative paradoxale.
 
 ## ■ Esthétique indépendante du Midwest américain
-En se concentrant sur de petits labels dans des villes régionales telles que le Minnesota, l'Ohio et la Californie, **un environnement d'enregistrement rustique = esthétique Lo-Fi** est devenu associé au slowcore.
+En se concentrant sur de petits labels dans des villes régionales telles que le Minnesota, l'Ohio et la Californie, l'**environnement d'enregistrement rustique = l'esthétique Lo-Fi** est devenu associé au slowcore.
 
 ---
 

@@ -77,7 +77,7 @@ Tresor est un symbole de « la culture de réutilisation des ruines urbaines ».
 
 **Culture de club 24 heures sur 24**
 
-À Berlin, où la réglementation était laxiste, un espace a été créé où les gens pouvaient continuer à danser matin, midi et soir. Son style fait toujours l’objet de convoitises mondiales.
+À Berlin, où la réglementation était laxiste, un espace a été créé où les gens pouvaient continuer à danser matin, midi et soir. Son style fait toujours l'objet d'envie dans le monde entier.
 
 **Techno = identité urbaine**
 
@@ -85,7 +85,7 @@ L'influence de Tresor est à l'origine de la reconnaissance officielle par la vi
 
 <hr>
 
-### Déménagement et statut actuel
+### Déménagement et situation actuelle
 
 En 2005, le site d'origine a fermé ses portes, mais en 2007, il a déménagé dans une ancienne centrale électrique à Berlin-Est.
 
@@ -155,8 +155,17 @@ Aujourd'hui, des DJ du monde entier s'y produisent et il continue de servir de l
 
 ### Élever la musique techno d’une « mode passagère » à une « culture universelle »
 
-Plus qu'un simple club ou un label, Tresor est un « carrefour culturel » qui relie l'histoire de Berlin, l'espace urbain de l'après-guerre froide et l'avenir de la musique noire à Détroit.
+Plus qu'un simple club ou label, Tresor est un carrefour culturel qui relie l'histoire de Berlin, l'espace urbain de l'après-guerre froide et l'avenir de la musique noire à Détroit.
 Les sons émis par ce coffre-fort résonnent encore dans la culture des clubs du monde entier, élevant la musique techno d'une « mode passagère » à une « culture universelle ».
+
+---
+
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xwtxAjklWUs?si=7Y2a50t-7N_ZlgpX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

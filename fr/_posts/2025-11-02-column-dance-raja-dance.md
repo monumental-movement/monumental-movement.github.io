@@ -92,7 +92,7 @@ Cette « hybridité » est au cœur de la musique du sud de l’Inde.
 Les scènes de danse de « Dance Raja Dance » étaient si ingénieuses qu'elles dépassaient les limites de la technologie cinématographique indienne de l'époque. En utilisant pleinement les effets d'éclairage, de fumée et de miroir, une **composition d'art vidéo** qui semble destinée à la génération MTV est développée.
 
 Le chorégraphe était Mugur Sundar (plus tard le père du célèbre maître de danse Prabhu Deva), qui était alors prometteur.
-Tout en faisant référence à des pas de films hollywoodiens, il a mélangé avec audace des éléments de **gestes de la main Bharatanatyam (mudras)** et de danse folklorique.
+Tout en faisant référence à des pas de films hollywoodiens, il a hardiment mélangé des éléments de **gestes de la main Bharatanatyam (mudras)** et de danse folklorique.
 Cette "ambiance MTV du sud de l'Inde" a ensuite été héritée par A.R. Rehman et Harris Jayaraj.
 
 ---

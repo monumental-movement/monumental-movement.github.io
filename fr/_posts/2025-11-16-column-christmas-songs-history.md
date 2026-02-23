@@ -232,3 +232,11 @@ D --> E[2020s オンライン・ストリーミング定番化]
 Les chants de Noël ne sont pas seulement de la musique saisonnière ; il s'agit d'un phénomène culturel qui reflète les changements technologiques, sociaux et industriels de l'époque. La coexistence de chansons anciennes et nouvelles, les expressions distinctives de chaque pays et l’évolution des stratégies commerciales continueront de guider la culture musicale.
 
 ---
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h7j6dI_pKA8?si=9PsTzYoSoUfSyJu5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

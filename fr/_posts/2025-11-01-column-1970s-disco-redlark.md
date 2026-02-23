@@ -174,7 +174,7 @@ Lorsque vous allumez le Red Lark, les nuits tokyoïtes des années 1970 revienne
 | ----------------- | ------------------ | ---- | ------------------ |
 | Rester en vie | Bee Gees | 1977 | Chanson signature « Saturday Night Fever » |
 | Disco Inferno | Les Tramps | 1976 | Standardisé dans les clubs japonais |
-| Boogie Pays des Merveilles | Terre, vent et feu | 1979 | Populaire sur MUGEN |
+| Pays des merveilles Boogie | Terre, vent et feu | 1979 | Populaire sur MUGEN |
 | Âme Dracula | Sang chaud | 1977 | Fournisseur DJ à l'époque |
 | Corrida de l'Amour | Quincy Jones | 1981 | Une extension de l'ambiance disco japonaise |
 

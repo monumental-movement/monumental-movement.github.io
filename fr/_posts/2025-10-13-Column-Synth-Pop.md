@@ -44,8 +44,8 @@ color: #fff;
 
 Dans les années 1970, les synthétiseurs Moog, ARP et japonais comme Roland et Yamaha ont démocratisé la production musicale.
 Le son électronique, jusqu'alors réservé à de gigantesques équipements de studio, s'est progressivement imposé dans les foyers et les salles de concert.
-"The Robots" de Kraftwerk est inorganique, comme s'il remettait en question les frontières entre les humains et les machines, tout en résonnant avec un étrange sens de l'humour.
-La vision qu'ils ont présentée de « homme = machine » est devenue le concept qui a sous-tendu toute la musique pop ultérieure.
+« The Robots » de Kraftwerk est inorganique, comme s'il remettait en question les frontières entre les humains et les machines, tout en résonnant avec un étrange sens de l'humour.
+La vision qu'ils présentaient de « homme = machine » est devenue le concept qui a sous-tendu toute la musique pop ultérieure.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/og9MIfeDR3w?si=CbK10wexfZZ09ot6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -98,7 +98,7 @@ C'est à ce moment-là que les idées de Kraftwerk se reflètent dans le magnifi
 
 A cette époque, une révolution tranquille commençait à Tokyo.
 Le son produit par YMO (Yellow Magic Orchestra) en 1978 n'était pas seulement une imitation, mais une réinvention de la musique électronique dans un « contexte asiatique ».
-Le solfège musical de Ryuichi Sakamoto, la sensibilité pop de Haruomi Hosono et le sens du rythme de Yukihiro Takahashi : le son de YMO a été la première « voix électronique » diffusée au monde par le Japon au début de la mondialisation.
+Le solfège musical de Ryuichi Sakamoto, la sensibilité pop de Haruomi Hosono et la sensibilité rythmique de Yukihiro Takahashi : le son de YMO a été la première « voix électronique » diffusée au monde par le Japon au début de la mondialisation.
 
 Ryuichi Sakamoto a déclaré plus tard :
 > "La technologie est un moyen de rendre la musique plus humaine."
@@ -142,7 +142,7 @@ Derrière cela se cache une esthétique technologique continue de YMO à Perfume
 
 ---
 
-## Chapitre 6 Technologie et émotions : Quand les machines dessinent les humains
+## Chapitre 6 Technologie et émotions : quand les machines représentent les humains
 
 Séquenceur, sampler, autotune.
 Il ne s’agissait pas d’outils de « précision », mais de pinceaux utilisés pour mettre en évidence « l’ambiguïté humaine ».
@@ -151,7 +151,7 @@ Quelque chose de mécanique peut être émotionnel : c'est le charme paradoxal d
 Au 21e siècle, « l'esthétique de l'imperfection » est en train d'être réévaluée.
 La voix vacillante de Grimes, le traitement vocal de l'IA de Charli XCX et le mélange de langues natives de Yaeji.
 Tout cela prouve que les « sons imparfaits » véhiculent l’humanité.
-À mesure que la composition de l’IA évolue, « l’artificialité humaine » de la synthpop pourrait bien être le dernier romantisme de la musique.
+À mesure que la composition de l’IA progresse, « l’artificialité humaine » de la synthpop pourrait bien devenir le dernier romantisme de la musique.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X73VZJKrPIc?si=nZlS67Av7Y748O_a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -187,14 +187,14 @@ Tout cela prouve que les « sons imparfaits » véhiculent l’humanité.
 
 ---
 
-## Chapitre 8 Conclusion : les sons électroniques parlent de « nostalgie du futur »
+## Chapitre 8 Conclusion : « Nostalgie du futur » racontée par des sons électroniques
 
 La synthpop est à la fois le « son du futur » et le « son de la nostalgie du passé ».
 Pourquoi sommes-nous si émus par les sons électroniques froids des années 1980 ? C'est parce qu'ils contiennent la « température d'une époque où les gens croyaient en l'avenir ».
-Même aujourd’hui, alors que la technologie numérique progresse et que l’IA commence à composer de la musique, les humains continuent de rechercher leur « soi » dans le son des machines.
+Même aujourd’hui, alors que la technologie numérique a évolué et que l’IA a commencé à composer de la musique, les humains continuent de rechercher leur « soi » dans le son des machines.
 
-La « relation entre technologie et émotion », que Ryuichi Sakamoto n'a cessé de poser jusqu'au bout, est désormais à nouveau au premier plan.
-Et quelque part dans cette lignée se trouvent le sourire électronique de YMO, les polyrythmies de Perfume et les larmes pixelisées de Charli XCX.
+La « relation entre technologie et émotion » que Ryuichi Sakamoto n'a cessé de poser jusqu'au bout est désormais à nouveau au premier plan.
+Et quelque part dans cette lignée se trouvent le sourire électronique de YMO, les polyrythmies de Perfume et les larmes pixellisées de Charli XCX.
 
 L’avenir résonne toujours dans les rêves électroniques.
 
@@ -260,13 +260,13 @@ A2. Les exemples incluent Depeche Mode, New Order, Pet Shop Boys et Human League
 
 A3. L'esprit expérimental de YMO et Ryuichi Sakamoto a influencé Daft Punk et Radiohead, et est devenu l'origine de « l'humanité électronique » à l'ère de l'IA.
 
-- **Q4. Quelles sont les caractéristiques de la néo-synthpop ces dernières années ? **
+- **Q4. Quelles sont les caractéristiques de la pop néo-synth de ces dernières années ? **
 
 A4. Le fait est que nous intégrons activement la « distorsion numérique » telle que l’hyper pop et la musique IA. Charli XCX et Grimes en sont des exemples.
 
 -**Q5. Quel album d’introduction recommanderiez-vous aux débutants ? **
 
-A5. "Solid State Survivor" (YMO) et "Violator" (Depeche Mode) sont des écoutes incontournables, quels que soient l'heure et le pays.
+A5. « Solid State Survivor » (YMO) et « Violator » (Depeche Mode) sont des écoutes incontournables, quels que soient l'heure et le pays.
 
 ---
 

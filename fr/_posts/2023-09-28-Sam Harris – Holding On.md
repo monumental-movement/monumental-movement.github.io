@@ -13,7 +13,7 @@ title: Sam Harris – Tenir le coup
 ---
 
 
-"Sam Harris - Holding On" est un album de Junior Vasquez sorti en 1999, remixant la chanson titre de Samuel Kent Harris.
+"Sam Harris - Holding On" est un album de Junior Vasquez sorti en 1999 qui remixe la chanson titre de Samuel Kent Harris.
 
 Remix – Junior Vasquez
 

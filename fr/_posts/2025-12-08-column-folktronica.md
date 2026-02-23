@@ -24,7 +24,7 @@ Folk-Tronica/Indietronica est une tendance musicale hybride du 21e siècle et au
 Il est né du mariage de mélodies folk, d’arpèges de guitare, d’enregistrements sur le terrain de sons naturels et de culture d’échantillonnage électronique sur ordinateur portable.
 
 Four Tet (Kieran Hebden), Caribou (Daniel Snaith) et Bonobo (Simon Green) font partie de ceux qui ont clairement présenté ce genre au monde.
-Bien qu’ils aient tous une formation en musique électronique, ils ont élargi le contexte de l’électro depuis les années 2000 en échantillonnant et en reconstruisant une variété de musiques telles que le jazz, le folk, la musique ethnique et le post-rock.
+Bien qu’ils aient tous une formation en musique électronique, ils ont échantillonné et reconstruit une variété de musiques telles que le jazz, le folk, la musique ethnique et le post-rock, élargissant ainsi le contexte de l’électro depuis les années 2000.
 
 ---
 
@@ -53,7 +53,7 @@ Principales caractéristiques :
 - Montage numérique (découpage, traitement granulaire)
 - Texture d'enregistrement sur le terrain
 - Mélodie simple mais émotionnelle
-- Coexistence du « toucher » et de « l'objet artificiel »
+- Coexistence du « toucher » et des « objets artificiels »
 
 ### ■ Qu'est-ce qu'Indietronica ?
 Le flux d'introduction de la musique électronique dans le contexte du rock indépendant.
@@ -196,7 +196,7 @@ De plus, un nouveau style de gestion live a été formé, l'utilisation de déco
 ## 8. Résumé : Là où « mémoire » acoustique et « reconstruction » numérique se rencontrent
 
 Folk-Tronica/Indietronica est une méthode de reconstruction de la simplicité et de la nature narrative de la musique folk à l'aide de la technologie d'édition de musique électronique.
-C'est un genre qui apporte la « chaleur », le « toucher » et « l'esthétique des espaces » à l'ère numérique.
+C'est un genre qui apporte de la « chaleur », du « toucher » et de « l'esthétique des lacunes » à l'ère numérique.
 
 Les œuvres de Four Tet, Caribou et Bonobo sont
 Cela montre clairement que les techniques d’édition d’échantillons, d’enregistrement sur le terrain et d’enregistrement d’instruments acoustiques peuvent élargir le domaine de la musique électronique.

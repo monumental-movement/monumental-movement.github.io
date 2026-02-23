@@ -17,7 +17,7 @@ title: Steve Reid – Forêt de bambous
 
 Steve Reid est un percussionniste et producteur de jazz américain. Il a été co-fondateur de The Rippingtons et membre de Supertramp.
 
-« Bamboo Forest », sorti en 1994, était son premier album solo, influencé par le rythme mondial, et pendant cette période, il a été sélectionné à deux reprises comme percussionniste de l'année par le magazine Jazz.
+« Bamboo Forest », sorti en 1994, était son premier album solo, influencé par le rythme mondial, et durant cette période, il a été nommé à deux reprises percussionniste de l'année par le magazine Jazz.
 
 Les membres participant à cet album sont Jeff Kashiwa, un saxophoniste américain actif dans le monde du jazz fusion, et le bassiste Kim Stone, actif dans The Rippingtons.
 

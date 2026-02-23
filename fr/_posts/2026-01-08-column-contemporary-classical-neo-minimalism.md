@@ -21,7 +21,7 @@ title: '[Chronique] Classique Contemporain / Néo-minimalisme Une nouvelle vague
 Texte : mmr｜Thème : À propos de cette tendance, basé sur des faits tels que les techniques de composition, l'environnement de production et le contexte institutionnel, plutôt que sur des tendances ou des évaluations émotionnelles.
 
 
-Depuis la seconde moitié du XXe siècle, la musique classique s'est diversifiée dans diverses directions à travers des expériences avec l'atonalité, l'aléatorisme et la musique électronique. Au 21e siècle, une tendance qui met l'accent sur la « tonalité », la « répétition », la « tranquillité » et « l'expérience d'écoute elle-même » a une fois de plus attiré l'attention internationale. C’est le domaine généralement appelé classique contemporain ou néo-minimalisme.
+Depuis la seconde moitié du XXe siècle, la musique classique s'est diversifiée dans diverses directions à travers des expériences avec l'atonalité, l'aléatorisme et la musique électronique. Au 21e siècle, une tendance qui met l'accent sur la « tonalité », la « répétition », le « silence » et « l'expérience d'écoute elle-même » a une fois de plus attiré l'attention internationale. C’est le domaine généralement appelé classique contemporain ou néo-minimalisme.
 
 Cette tendance est unique dans la mesure où elle s’est formée à la fois dans les institutions de musique classique traditionnelle et dans les environnements de production musicale indépendante. Des artistes tels que Max Richter, Nils Frahm et Hauschka ont tous une formation classique, mais ont activement intégré les techniques d'enregistrement, de post-production, d'improvisation et d'instruments électroniques.
 
@@ -44,11 +44,11 @@ color: #fff;
 
 ## Contexte historique : le classique après le minimalisme
 
-### L'établissement du minimalisme du 20ème siècle
+### L'établissement du minimalisme du 20e siècle
 
 Créé aux États-Unis dans les années 1960 par La Monte Young, Terry Riley, Steve Reich et Philip Glass, le minimalisme se caractérisait par de courtes répétitions, des changements progressifs et des structures métriques claires. Ceci est compris comme une réaction à la musique de céleri de l’époque et à la musique d’avant-garde de plus en plus complexe.
 
-Le minimalisme a finalement influencé l’opéra, la musique de film et la musique de danse, et est devenu institutionnellement accepté dans la musique classique dans la seconde moitié du XXe siècle.
+Le minimalisme a finalement influencé l’opéra, la musique de film et la musique de danse, et est devenu institutionnellement accepté dans la musique classique à la fin du XXe siècle.
 
 ### Transition vers le post-minimalisme
 
@@ -68,7 +68,7 @@ Le terme « classique contemporain » ne fait pas référence à un style strict
 
 ### Changements dans les institutions et l'environnement
 
-Les compositeurs de cette époque ne basaient pas nécessairement leurs activités principalement sur des commandes d'orchestres ou d'opéras. Les home studios, les labels indépendants et la distribution numérique jouent un rôle important.
+Les compositeurs de cette époque ne fondaient pas nécessairement leurs activités principalement sur des commandes d'orchestres ou d'opéras. Les home studios, les labels indépendants et la distribution numérique jouent un rôle important.
 
 Une autre particularité est que les œuvres enregistrées sont considérées comme aussi importantes, sinon plus, que les concerts.
 
@@ -88,7 +88,7 @@ De nombreux compositeurs maintiennent un centre tonal clair, mais ne supposent p
 
 Ce traitement harmonique n'est pas une reproduction du romantisme du XIXe siècle, mais peut être compris comme un choix pour assurer la stabilité acoustique.
 
-### Conception des tons
+### Conception sonore
 
 Dans le néo-minimalisme, le timbre est un élément aussi important que la mélodie et l’harmonie, voire plus. Des pianos en feutre, des pianos préparés, des instruments à cordes avec des instruments assourdis et des réverbérations traitées électroniquement sont utilisés, et la durée et la décroissance de la résonance elle-même forment la forme.
 
@@ -138,7 +138,7 @@ La technique elle-même trouve ses origines dans la musique expérimentale du mi
 
 ### Composition et improvisation
 
-Ses œuvres comprennent à la fois des motifs strictement notés et des éléments d'improvisation. Alors qu'un certain motif rythmique est répété, d'infimes changements provoqués par la manipulation physique de l'interprète déterminent la musique.
+Ses œuvres comprennent à la fois des motifs strictement notés et des éléments d'improvisation. À mesure qu'un certain motif rythmique se répète, d'infimes changements provoqués par la manipulation physique de l'interprète déterminent la musique.
 
 ### Connexion avec d'autres champs
 
@@ -178,7 +178,7 @@ Il est souvent interprété et reproduit dans des espaces d'exposition, des mus�
 
 > "Le silence et les espaces vides ont également des significations différentes selon l'environnement d'écoute."
 
-### Acceptation des travaux longs
+### Réception des travaux longs
 
 Avec la généralisation des environnements de streaming, les conditions ont été créées pour que de longues œuvres statiques soient écoutées quotidiennement.
 

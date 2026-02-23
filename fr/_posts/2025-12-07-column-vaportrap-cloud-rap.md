@@ -22,7 +22,7 @@ Texte : mmr｜Thème : À propos de la généalogie du cloud rap qui croise le L
 
 Le Cloud Rap est né vers 2010, centré autour de la Bay Area et de l'U.S. Internet Underground, et s'est développé en se connectant à l'esthétique de la sous-culture post-vaporwave, Chopped & Screwed, Lo-Fi Hip-Hop et le rap emo moderne. En particulier, les activités de **Lil B**, **Clams Casino** et **Main Attrakionz** symbolisent les premiers jours, formant la base d'une lignée qui mènera plus tard à **Lil Peep**, **XXXTENTACION**, **Bones** et **Yung Lean**.
 
-Le Cloud Rap était beaucoup plus orienté ambiant que le Hip Hop traditionnel, avec un son plus ambiant, un traitement vocal avec une forte réverbération et des textures oniriques avec des effets spatiaux, et a ensuite évolué vers Vaportrap, absorbant la musique électronique et la culture mème de type Vaporwave.
+Le Cloud Rap était beaucoup plus orienté ambiant que le Hip Hop traditionnel, avec un son plus ambiant, un traitement vocal avec une forte réverbération et des textures oniriques avec des effets spatiaux, et a ensuite évolué vers Vaportrap, absorbant la musique électronique et la culture des mèmes Vaporwave.
 
 
 ---
@@ -105,7 +105,7 @@ Centrées sur SoundCloud, la production et la consommation à grande vitesse se 
 
 ### ● Méthodologie Lo-Fi HipHop
 
-* Culture d'échantillonneur telle que MPC
+* Culture d'échantillonneurs tels que MPC
 * Bruit, texture analogique, distorsion de la cassette
 * Expansion de la culture du streaming sous le nom de Chillhop / Study Beats
 
@@ -154,7 +154,7 @@ Avec l’essor de YouTube, SoundCloud et TikTok, les techniques du Cloud Rap se 
 * **Pad** : Synthé à réverbération profonde, accords ambiants
 * **Batterie** : cible piège (808, roulement de charleston, coup de pied profond)
 * **BPM** : 120-150
-* **Traitement vocal** : réverbération plus profonde, réglage automatique, traitement dub
+* **Traitement vocal** : réverbération plus profonde, Auto-Tune, traitement dub
 * **Texture** : Citations sur la culture des années 90/an 2000
 
 Vous trouverez ci-dessous un diagramme de relations illustrant la structure sonore :

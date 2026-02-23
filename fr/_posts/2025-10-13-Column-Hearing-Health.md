@@ -167,7 +167,7 @@ La philosophie de HHF apporte également un soutien scientifique à son esprit.
 ## 6. Société et soutien : une communauté qui crée le futur de l'oreille
 
 HHF favorise l'alphabétisation culturelle en matière de santé auditive par le biais de dons, de subventions de recherche et d'éducation.
-Par exemple, les lauréats des **subventions de recherche émergente** sélectionnés chaque année sont :
+Par exemple, les lauréats des **Subventions de recherche émergente** sélectionnés chaque année sont :
 De l’édition génétique à l’intelligence artificielle, il dépeint le « futur de l’écoute » sous différents angles.
 
 Par ailleurs, dans le magazine en ligne grand public **Hearing Health Magazine**,

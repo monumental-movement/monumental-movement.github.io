@@ -84,7 +84,7 @@ Cette idée a été très appréciée et transcende les frontières entre l’ar
 ### 2.2 2017 : Recherche « Lecteur de musique vaginale »
 
 En 2017, une étude de l'**Institut Marquès** de Barcelone, Espagne
-Lauréat du prix Ig Nobel de médecine.
+Il a remporté le prix Ig Nobel de médecine.
 Cette équipe a développé un **haut-parleur intravaginal** appelé "Babypod",
 Nous avons étudié comment les fœtus réagissent aux stimuli musicaux dans l'utérus.
 
@@ -100,7 +100,7 @@ Il a également attiré beaucoup d'attention dans la société en tant qu'exempl
 
 En 2020, recherche menée par **Takeshi Nishimura** et ses collègues du Primate Research Institute de l'Université de Kyoto
 A reçu le **Prix Acoustique**.
-L’équipe de recherche a placé des crocodiles dans un environnement de gaz mixte d’hélium et d’oxygène (Heliox).
+L’équipe de recherche a placé des crocodiles dans un environnement de gaz mixte hélium-oxygène (Heliox).
 Analyser les formants (composantes résonantes) du cri.
 En conséquence, nous avons confirmé que la structure de résonance change également à mesure que la densité de l’air change.
 
@@ -137,7 +137,7 @@ Les deux partagent le même esprit d’enquête avec des méthodologies différe
 
 ---
 
-### 3.3 Le public comme « sujet » – entre émotions et données
+### 3.3 Le public comme « sujet » – entre émotion et données
 
 Dans des recherches récentes en neurosciences, l’IRMf a été utilisée pour mesurer l’activité cérébrale tout en écoutant de la musique.
 Des efforts sont en cours pour analyser les mécanismes par lesquels le plaisir et l’empathie se produisent.

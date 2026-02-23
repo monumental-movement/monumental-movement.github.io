@@ -59,7 +59,7 @@ color: #fff;
 ## Années 1990 : L'âge d'or et l'apogée du G‑Funk
 
 * **Producteurs représentatifs** : Dr. Dre, DJ Quik, Battlecat
-* **Majors labels** : Death Row Records, Priority, Ruthless
+* **Principaux labels** : Death Row Records, Priority, Ruthless
 * **Contexte culturel** : G-Funk était étroitement associé à la culture lowrider et automobile, avec son échantillonnage funk des années 70 et ses basses synthétisées épaisses.
 * **Conflit Est-Ouest** : Le conflit entre la côte Est et la côte Ouest s'intensifie, conduisant à la tragédie de 2Pac et The Notorious B.I.G.
 * **Vidéo/Mode** : les MV présentant des lowriders, des plages et les rues de South Central deviennent populaires. Dickies, Chuck Taylor et les bandanas sont emblématiques.
@@ -79,7 +79,7 @@ color: #fff;
 
 * **Producteurs représentatifs** : Madlib, Daz Dillinger, Battlecat
 * **Grands labels** : Stones Throw, Aftermath
-* **Contexte culturel** : le G‑Funk grand public s'affaiblit et des groupes underground de Los Angeles comme Project Blowed et Freestyle Fellowship attirent l'attention. Le mouvement Bay Area Hyphy s'est également produit.
+* **Contexte culturel** : le G‑Funk grand public s'affaiblit et des groupes underground de Los Angeles tels que Project Blowed et Freestyle Fellowship attirent l'attention. Le mouvement Bay Area Hyphy s'est également produit.
 * **Vidéo/Mode** : Les expressions visuelles de type skate, graffiti et club de jazz se multiplient, et les marques de rue telles que Supreme et BAPE deviennent populaires.
 
 **Album recommandé (extrait)**
@@ -182,6 +182,15 @@ Depuis les années 2000, la diversité s’est élargie avec le succès de group
 
 Plus qu'un simple genre musical, le hip-hop de la région continue d'influencer les messages sociaux, la mode, le cinéma et la culture dans son ensemble, et continue d'inspirer les artistes et les fans du monde entier.
 
+
+---
+
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CkZo_BMM120?si=qlhYZFYXqZj43i0R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

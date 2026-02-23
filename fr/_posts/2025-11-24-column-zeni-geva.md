@@ -68,8 +68,8 @@ En 1991, Zeni Geva franchit un tournant majeur. Il s'agit d'une collaboration av
 Le premier album complet enregistré par Albini.
 La violence de Zeni Geva et le son sec et direct d'Albini s'accordent parfaitement, ce qui leur vaut de très bonnes critiques à l'étranger.
 
-### "Désir d'agonie (1993)"
-- Sortie du label américain **Alternative Tentacles** (organisé par Jello Biafra)
+### « Désir d'agonie (1993) »
+- Sorti du label américain **Alternative Tentacles** (organisé par Jello Biafra)
 - La tournée à l'étranger commence sérieusement
 - A sorti de nombreux EP et singles à peu près à la même époque (Nai-Ha, Disgraceland, etc.)
 
@@ -113,7 +113,7 @@ Pour Zeni Geva, l'arrivée de Yoshida a encore une fois eu un fort impact.
 
 ---
 
-## 5. Deuxième période Zeni Geva (2010–) : Réévaluation et attention mondiale renouvelée
+## 5. Deuxième période Zeni Geva (2010–) : Réévaluation et réattention globale
 ### « Vivant et montant (2010) »
 - Source sonore en direct de la gamme 2009
 - La batterie perverse de Tatsuya Yoshida et le duel de guitares de Null & Tabata sont spectaculaires
@@ -203,5 +203,13 @@ Il s'agit d'une entité rare qui est restée indépendante des activités commer
 
 Même aujourd’hui, leur musique n’a pas bien vieilli, et il est clair qu’ils ont même anticipé le cadre de la musique noise/metal/expérimentale moderne.
 J'espère que cet article sera l'occasion de redécouvrir Zeni Geva.
+
+---
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XsTatSrADZQ?si=XnEL2HxSLh12LP5y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

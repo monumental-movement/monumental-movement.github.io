@@ -26,7 +26,7 @@ Le post-rock instrumental et le rock cinématographique sont des musiques qui on
 
 Lorsque cette musique émerge à la fin des années 1990, le rock semble avoir épuisé ses multiples formes. Le rock alternatif devenait courant et les impulsions grunge devenaient une chose du passé. Dans de telles circonstances, la musique instrumentale post-rock présentait une perception du temps et de la structure complètement différente lorsqu’elle utilisait des formations rock.
 
-Explosions dans le ciel et Godspeed You ! Black Emperor est emblématique dans ce contexte. Le premier aborde les expériences personnelles à travers des mélodies et des émotions exacerbées, tandis que le second imprime le temps social et collectif sous forme sonore. Tout en étant actifs au même moment, les deux artistes ont démontré l’étendue et la profondeur du cadre post-rock.
+Explosions dans le ciel et Godspeed You ! Black Emperor est emblématique dans ce contexte. Le premier aborde les expériences personnelles à travers des mélodies et des émotions exacerbées, tandis que le second imprime le temps social et collectif sous forme sonore. Tout en étant actifs en même temps, les deux artistes ont démontré l'ampleur et la profondeur du cadre post-rock.
 
 > Les instrumentaux post-rock offrent un espace permettant à l'auditeur de commencer à parler, plutôt qu'à la musique de parler.
 
@@ -50,9 +50,9 @@ color: #fff;
 
 Le terme « post-rock » s’est imposé au milieu des années 1990. Il a commencé à être utilisé pour décrire la musique qui utilise des instruments rock mais qui se distancie des riffs dérivés du blues, de la concentration vocale et des structures de chansons classiques. Ce concept ne faisait pas référence à un son spécifique, mais plutôt à une attitude ou une méthodologie.
 
-Le contexte réside dans les multiples cultures musicales qui se sont accumulées depuis les années 1970. La répétition et les changements infimes présentés par la musique minimale, l'idée de musique environnementale présentée par l'ambient, l'attitude déconstructrice apportée par le post-punk et même le sens du traitement spatial dans la musique dub et électronique. Le post-rock s'est formé à la suite de leur intersection avec le contexte rocheux.
+Le contexte réside dans les multiples cultures musicales qui se sont accumulées depuis les années 1970. La répétition et les changements subtils présentés par la musique minimale, l'idée de musique environnementale présentée par l'ambient, l'attitude déconstructrice apportée par le post-punk et même le sens du traitement spatial dans la musique dub et électronique. Le post-rock s'est formé à la suite de leur intersection avec le contexte rock.
 
-Ce qui est important, c'est que le post-rock n'était pas une « négation du rock ». Même si la formation de guitare, basse et batterie a été maintenue, leurs rôles ont été redéfinis. La guitare est devenue un outil permettant de créer des sons et des textures soutenus plutôt que de créer des riffs, et la batterie est passée du rôle de créateur de rythmes à celui de contrôle du flux du temps et de la tension.
+Ce qui est important, c'est que le post-rock n'était pas une « négation du rock ». Même si la formation de guitare, basse et batterie a été maintenue, leurs rôles ont été redéfinis. La guitare est devenue un appareil permettant de créer des sons et des textures soutenus plutôt que de créer des riffs, et la batterie est passée du statut d'appareil de réglage du rythme à celui de contrôle du flux du temps et de la tension.
 
 > Le post-rock n'était pas une tentative de mettre fin au rock, mais plutôt un acte de repositionnement du rock dans une chronologie différente.
 
@@ -88,7 +88,7 @@ Explosions in the Sky est un groupe de rock instrumental formé à Austin, au Te
 
 Ce qui est symbolique dans leurs premières activités est un événement fortuit survenu immédiatement après leurs débuts. La sortie de l’œuvre qui a tant attiré l’attention sur leur musique a coïncidé avec une période d’une importance particulière pour la société américaine, suscitant involontairement de fortes associations émotionnelles. Cette expérience leur aurait fait prendre conscience que « la musique prend un sens selon son contexte ».
 
-La structure de la chanson d’Explosions in the Sky est claire. Des arpèges simples et des phrases à note unique sont présentés et, à mesure qu'ils sont répétés, le nombre de notes et le volume augmentent progressivement. La batterie visualise la montée de l'émotion par étapes, pour finalement former un grand point culminant.
+La structure de la chanson d’Explosions in the Sky est claire. Des arpèges simples et des phrases à note unique sont présentés et, à mesure qu'ils sont répétés, le nombre et le volume des notes augmentent progressivement. La batterie visualise la montée de l'émotion par étapes, pour finalement former un grand point culminant.
 
 La raison pour laquelle leur musique a été utilisée dans tant de productions vidéo est la façon dont ils ouvrent leurs émotions. Plutôt que d'imposer un récit spécifique, l'espace est maintenu pour évoquer naturellement les propres souvenirs et expériences de l'auditeur.
 
@@ -100,7 +100,7 @@ La raison pour laquelle leur musique a été utilisée dans tant de productions 
 
 ## Bonne chance à vous ! Black Emperor : Un groupe qui façonne la société et le temps
 
-Bonne chance à vous ! Black Emperor est un collectif musical né à Montréal à la fin des années 1990. Il a un fort caractère de collectif fluide plutôt que de composition fixe, et se caractérise par une grande formation qui utilise plusieurs guitares, basses, batterie, instruments à cordes et enregistrements sur le terrain.
+Bonne chance à vous ! Black Emperor est un collectif musical né à Montréal à la fin des années 1990. Il a un fort caractère de collectif fluide plutôt que de composition fixe, et se caractérise par une grande composition qui utilise plusieurs guitares, basses, batterie, instruments à cordes et enregistrements sur le terrain.
 
 Leur travail s'écarte grandement du cadre d'un album rock typique. La pièce est longue et structurée comme de multiples mouvements, alternant silence et bruit, mélodie et chaos. Les chansons n'ont souvent pas de refrain ou de résolution claire, ce qui nécessite de la patience et de la concentration de la part de l'auditeur.
 
@@ -161,7 +161,7 @@ Cette tendance ne constitue pas une rupture brutale, mais peut être comprise co
 
 Actuellement, le rock instrumental et cinématographique post-rock s'est imposé comme une méthode d'expression plutôt que comme un nom de genre spécifique. Sa structure continue d'être référencée dans différents contextes tels que des vidéos, des jeux et des installations.
 
-Deux directions énoncées par Explosions in the Sky et Godspeed You! Black Emperor sert toujours de points de référence créatifs. La musique sans paroles continue de se connecter aux propres expériences de l'auditeur, transcendant les époques et les cultures.
+Deux directions énoncées par Explosions in the Sky et Godspeed You! Black Emperor sert toujours de points de référence créatifs. La musique, qui n'a pas de paroles, continue de se connecter aux propres expériences de l'auditeur, transcendant les époques et les cultures.
 
 > La musique instrumentale post-rock continuera de créer de nouvelles histoires à travers le silence et le temps.
 

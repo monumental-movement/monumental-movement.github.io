@@ -48,7 +48,7 @@ color: #fff;
 
 Les origines de Black Flag résident dans le guitariste Greg Ginn. Lorsque le groupe a débuté en 1976 dans la région d'Hermosa Beach, en Californie, leur nom était Panic. C'était une époque où le punk rock commençait à se répandre depuis l'Angleterre et New York, et où l'influence des Ramones et des Sex Pistols était évidente, mais la scène du sud de la Californie en était encore à ses balbutiements.
 
-Panic a brièvement changé son nom en Black Flag. Le nom fait référence au symbole anarchiste du drapeau noir et, plutôt qu’une déclaration politique claire, il contenait un sentiment de déni de l’ordre et de la stabilité. Le design à quatre lignes utilisé comme logo était un symbole visuel simple et immédiatement reconnaissable qui allait devenir l'une des icônes les plus célèbres de l'histoire du punk.
+Panic a brièvement changé son nom en Black Flag. Le nom fait référence au symbole anarchiste du drapeau noir et, plutôt qu’une déclaration politique claire, il contenait un sentiment de déni de l’ordre et de la stabilité. Le design à quatre lignes utilisé comme logo est un symbole visuel simple et immédiatement reconnaissable qui deviendra l'une des icônes les plus célèbres de l'histoire du punk.
 
 Les membres initiaux ont radicalement changé, le chant, la basse et la batterie étant fréquemment remplacés. Cette instabilité était une faiblesse, mais aussi un facteur qui empêchait la direction musicale du groupe de se fixer. Dès le début, le jeu de guitare de Greg Ginn était caractérisé par une distorsion excessive et des riffs répétitifs, et on peut déjà voir les prémices de son évolution ultérieure.
 
@@ -62,7 +62,7 @@ Les membres initiaux ont radicalement changé, le chant, la basse et la batterie
 
 ---
 
-L'EP de 7 pouces Nervous Breakdown, sorti en 1979, fut le premier disque à définir Black Flag. Cette œuvre a été publiée par SST Records, qui a ensuite été créée, et a été distribuée en tant que production totalement indépendante. Les chansons étaient courtes, rapides et directes, avec une agressivité exceptionnelle sur la côte ouest de l'époque.
+L'EP de 7 pouces Nervous Breakdown, sorti en 1979, fut le premier disque à définir Black Flag. Cette œuvre a été publiée par SST Records, qui a ensuite été créée, et a été distribuée en tant que production totalement indépendante. Les chansons étaient courtes, rapides et directes, et avaient une agressivité exceptionnelle sur la côte ouest à l'époque.
 
 La chanson titre, "Nervous Breakdown", parle de dépression mentale, mais elle est pleine d'énergie urgente plutôt que d'introspection. Les paroles sont concises, présentant les émotions comme brutes plutôt que descriptives. Cette approche est devenue la base du punk hardcore ultérieur.
 
@@ -90,7 +90,7 @@ Surtout pendant cette période de transition, Greg Ginn a pris le contrôle tota
 
 ---
 
-Le moment important suivant fut l'arrivée de Ron Reis (plus tard connu sous le nom de Chavo Pederast). Un exemple représentatif de la source sonore enregistrée pendant la période où il était chanteur est le 7 pouces « Jealous Again ». Ce travail est particulièrement apprécié parmi les premiers Black Flag.
+Le moment important suivant fut l'arrivée de Ron Reis (plus tard connu sous le nom de Chavo Pederast). Un exemple représentatif de la source sonore enregistrée pendant la période où il était chanteur est le "Jealous Again" de 7 pouces. Ce travail est particulièrement apprécié parmi les premiers Black Flag.
 
 "Jealous Again" parle de simple jalousie et a une expression agressive mais quelque peu sarcastique. La voix de Ron Reis est un peu plus sobre que celle de Keith Morris et le contour de ses paroles est plus clair. En conséquence, la structure et le rythme des chansons deviennent plus prononcés.
 
@@ -156,7 +156,7 @@ flowchart TD
 
 ## Impact et héritage
 
-Black Flag était un groupe dont l'héritage reposait davantage sur la méthode et l'attitude que sur le succès commercial. Leur philosophie DIY, leurs tournées épuisantes et leur refus de faire des compromis musicalement sont devenus une référence pour d'innombrables groupes.
+Black Flag était un groupe dont l'héritage reposait davantage sur la méthode et l'attitude que sur le succès commercial. Leur philosophie DIY, leurs tournées épuisantes et leur refus de faire des compromis musicaux sont devenus une référence pour d’innombrables groupes.
 
 Les chansons de 7 pouces « Nervous Breakdown » et « Jealous Again » sont toujours considérées comme la forme de base du hardcore. D'un autre côté, les chansons plus lourdes et plus lentes de la seconde moitié du groupe ont dissous les frontières des genres et influencé le public au-delà du punk.
 

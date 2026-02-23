@@ -76,7 +76,7 @@ En regardant l'environnement musical de l'époque, c'était aussi une époque o�
 
 La chanson d'ouverture du Mobile Suit Gundam original, « Fly ! Gundam (chanté par Kou Ikeda)'' (paroles de Tsutomu Isoya/composé par Yuji Matsuyama), était une chanson simple mais entraînante qui transmettait l'image d'un Gundam volant dans l'espace, incarnant l'échelle du monde de l'œuvre et le sens de l'aventure du garçon à travers le son. De plus, Hiroyuki Osaka, Chuaaki Watanabe et d'autres ont fourni la musique de fond qui soutenait la représentation de la bataille, de l'espace et de la psychologie, et ont utilisé le son pour transmettre des thèmes tels que l'atmosphère tendue du « champ de bataille » et l'éveil de « nouveaux types ».
 
-À ce stade, la musique Gundam a montré trois innovations principales.
+À ce stade, Gundam Music a montré trois innovations principales.
 
 - **Généralisation des chansons thématiques**
 
@@ -106,7 +106,7 @@ De cette façon, on peut dire que les premières musiques de Gundam ont ouvert l
 
 ### 2.1 Expansion de la marque « Gundam » et changements sur la scène musicale
 
-Dans les années 1990, la marque Gundam s'est étendue au-delà des séries télévisées pour inclure des OVA, des versions cinématographiques, des jeux et des modèles en plastique. En termes de musique, les chansons d'anime (anisongs) se sont imposées en tant que genre, et les chansons thématiques/chansons insérées sont devenues le « visage » des artistes.
+Dans les années 1990, la marque Gundam s'est étendue au-delà des séries télévisées pour inclure des OVA, des versions cinématographiques, des jeux et des modèles en plastique. En termes de musique, les chansons d'anime (anisongs) ont été établies en tant que genre, et les chansons thématiques/chansons insérées sont devenues le « visage » de l'artiste.
 
 Dans le même temps, le nombre de chansons thématiques avec des sons de synthétiseur, des rythmes de danse et des structures de style pop a augmenté, et nous avons commencé à voir un changement de musicalité de la structure traditionnelle de « musique de fond sérieuse représentant des hymnes de guerre et de héros » vers le côté de la culture pop.
 
@@ -114,7 +114,7 @@ Dans le même temps, le nombre de chansons thématiques avec des sons de synthé
 
 Dans l'anime télévisé "Mobile Suit Gundam W" (New Mobile Suit Gundam W) diffusé en 1995, le thème d'ouverture "Just Communication" (chanté par TWO-MIX) a adopté un rythme de synthé et une mélodie pop, ce qui en fait une œuvre qui se démarque des chansons thématiques traditionnelles de Gundam.
 
-L'apparition de cette chanson a aussi été l'occasion de changer l'image conventionnelle de Gundam = drame de guerre + musique heavy vers une version un peu plus légère d'une chanson de héros que l'on peut entendre dans la musique pop.
+L'apparition de cette chanson a également été l'occasion d'ouvrir l'image conventionnelle de « Gundam = drame de guerre + musique lourde » à une « chanson de héros que l'on peut entendre dans la musique pop » légèrement plus légère.
 
 De plus, les versions OVA et cinématographiques proposent désormais une plus grande variété de produits musicaux, notamment des chansons thématiques, des chansons insérées, des chansons de personnages et des disques de remix. La musique est passée du statut « exclusif aux œuvres » à celui « exclusif aux marques ».
 
@@ -139,7 +139,7 @@ Nous sommes entrés dans une ère dans laquelle la « musique Gundam » n'est pa
 ### 3.2 Exemple : Composition de la bande originale de la série "Mobile Suit Gundam SEED"
 
 Pour "Mobile Suit Gundam SEED" (2002-), Hiroyuki Kono et d'autres étaient en charge de la musique, plutôt que le compositeur Hiroyuki Sawano, et la chanson thème, la chanson d'insertion, la chanson des personnages, le disque de remix et le "Suit CD" ont été développés.
-Cette structure montre que la musique Gundam est devenue « un produit/culture qui ne peut être séparé de l'œuvre ». La musique est devenue une marque, et elle fonctionne ailleurs que dans les productions (spectacles live, CD bonus, collaborations).
+Cette structure montre que la musique Gundam est devenue « un produit/culture qui ne peut être séparé de l’œuvre ». La musique est devenue une marque, et elle fonctionne ailleurs que dans les productions (spectacles live, CD bonus, collaborations).
 
 ### 3.3 Travaux récents : Expérience musicale dans "Mobile Suit Gundam : Witch of Mercury"
 
@@ -164,7 +164,7 @@ De cette façon, déchiffrer la signification des paroles et des mélodies des c
 
 ### 4.3 Exploration approfondie de BGM et de la vision du monde de la série
 
-Alors que la chanson thème agit comme une « chanson » et ouvre l'œuvre au monde extérieur, la musique de fond (musique de fond) est le héros méconnu qui soutient la vision du monde au sein de l'œuvre. Par exemple, lors des scènes de bataille, un rythme riche en basses augmente la tension d'une bataille spatiale, et lorsqu'un nouveau type s'éveille, un refrain à cordes crée un sentiment de tranquillité.
+Alors que la chanson thème agit comme une « chanson » et ouvre l'œuvre au monde extérieur, la musique de fond (musique de fond) est le héros méconnu qui soutient la vision du monde au sein de l'œuvre. Par exemple, lors des scènes de bataille, un rythme riche en basses augmente la tension d'une bataille spatiale, et lorsqu'un nouveau type s'éveille, un chœur de cordes crée un sentiment de tranquillité.
 Puisque la série Mobile Suit Gundam est une œuvre qui remet en question la question de « l’homme et la machine/l’humanité et l’univers », la musique existe également en tant que « voix » de cette question. Grâce à une analyse musicale comme celle-ci, nous pouvons explorer pourquoi Gundam continue de faire parler de lui à travers les générations.
 
 ---
@@ -175,7 +175,7 @@ Puisque la série Mobile Suit Gundam est une œuvre qui remet en question la que
 
 Un autre aspect de la musique Gundam est sa relation étroite avec la culture des fans et la culture live. Par exemple, à l'occasion du 30e anniversaire de Gundam, un album intitulé « Gundam Rock » a été sorti, dans lequel des musiciens étrangers ont repris les chansons thématiques de Gundam. Cela montre que la musique a transcendé la production et est devenue une « culture mondiale ».
 
-De plus, les chansons thématiques de Gundam sont toujours incluses dans le répertoire des événements live de chansons d'anime interprétés par des artistes, et le nombre d'expériences où le public chante augmente. De cette manière, la musique s'est transformée en un contenu qui n'est pas seulement quelque chose à « écouter » mais aussi quelque chose à « participer ».
+De plus, les chansons thématiques de Gundam sont toujours incluses dans le répertoire des événements live de chansons d'anime interprétés par des artistes, et le nombre d'expériences où le public chante augmente. De cette manière, la musique s'est transformée en un contenu qui n'est pas seulement quelque chose à « écouter », mais aussi quelque chose à « participer ».
 
 ### 5.2 Gundam comme œuvre musicale : remix, arrangement, édition planifiée
 
@@ -201,13 +201,13 @@ De plus, « la musique en tant qu'expérience » comme les spectacles en direct,
 ### 6.3 L'avenir de Gundam/musique : évolutions attendues après 2025
 
 À partir de 2023, la qualité musicale des œuvres de Gundam continuera d'atteindre des sommets encore plus élevés grâce à de nouvelles sorties telles que « La Sorcière de Mercure ». Par exemple, des enregistrements orchestraux, des enregistrements en studio à l'étranger et des rééditions de vinyles sont en cours.
-Après 2025, on s'attend à ce que l'ère de « l'écoute de la musique » passe de « l'écoute de la musique » à « l'expérience de la musique » grâce à l'expansion des plateformes de distribution, au lien avec la vidéo 4K/VR, aux performances en direct + à la production vidéo, etc.
+Après 2025, il est prévu que nous passons de « l'écoute de la musique » à « l'expérience de la musique » grâce à l'expansion des plateformes de distribution, au lien avec la vidéo 4K/VR, aux performances en direct + à la production vidéo, etc.
 
 ---
 
 ## Au lieu d'une conclusion
 
-« Écouter à nouveau Gundam » peut être considéré comme synonyme de « regarder Gundam ». En effet, la musique représente les émotions des personnages et trace la trajectoire de l'histoire. Nous espérons qu'à travers cet article, vous pourrez reprendre votre chanson thème préférée de Gundam et écouter à nouveau l'histoire et le monde de l'histoire qu'elle a créé.
+« Écouter à nouveau Gundam » peut être considéré comme synonyme de « regarder Gundam ». En effet, la musique représente les émotions des personnages et trace la trajectoire de l'histoire. Nous espérons qu'à travers cet article, vous pourrez reprendre votre « chanson thème préférée de Gundam » une fois de plus et écouter à nouveau l'histoire et le monde de l'histoire qu'elle a créé.
 Enfin, pour approfondir la musique de Gundam, assurez-vous de rechercher et de collecter des pochettes de CD, des vidéos en direct, des interviews de compositeurs et bien plus encore. Le voyage du son s’étend au-delà de votre champ de vision.
 
 ---
@@ -258,11 +258,19 @@ Compositeur/chanteur pop américain. En 1985, il a participé à la composition 
 
 - **DEUX‑MIX**
 
-Une unité pop qui représentait la scène des chansons d'anime à la fin des années 1990. Ils ont attiré l'attention avec la chanson d'ouverture « Just Communication » de « Mobile Suit Gundam W » et ont symbolisé la « pop-isation » de la musique Gundam avec une composition de chansons centrée sur la synth pop.
+Une unité pop qui représentait la scène des chansons d'anime à la fin des années 1990. Ils ont attiré l'attention avec la chanson d'ouverture "Just Communication" de "Mobile Suit Gundam W", et ont symbolisé la "pop-isation" de la musique Gundam avec une composition de chanson principalement composée de synth pop.
 
-- **Hiroko Moriguchi**
+-**Hiroko Moriguchi**
 
 Un chanteur actif des années 1980 à nos jours. Il est responsable de nombreuses chansons thématiques pour la série Gundam, y compris la chanson thème d'ouverture de "Mobile Suit Zeta Gundam", "With Love to the Star of Water" et la chanson thème de "Mobile Suit Gundam F91", "ETERNAL WIND ~Hohoemi wa Hikaru Kaze no Naka~".
 
+
+---
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rr3JLc0Klwo?si=XQ47R-oxnwuhZgvQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

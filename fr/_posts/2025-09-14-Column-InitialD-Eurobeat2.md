@@ -44,7 +44,7 @@ Ici, elle ne fonctionne pas seulement comme musique de fond, mais comme symbole 
 ### À la génération qui hérite de la « mémoire de l’accélération »
 Aujourd'hui, bon nombre des jeunes qui cliquent sur la playlist « Eurobeat – Initial D » sur Spotify ou Apple Music n'ont pas forcément couru sur des cols.
 Mais ils accélèrent dans leurs écouteurs, dérivent dans l'espace virtuel, rient sur Internet et abandonnent leur corps aux mêmes sons.
-Eurobeat est devenu un média qui transcende la vitesse physique et met à jour la « mémoire de l'accélération » à chaque génération.
+L'Eurobeat est devenu un média qui transcende la vitesse physique et met à jour la « mémoire de l'accélération » à chaque génération.
 
 ### Liste des chansons représentatives d'Eurobeat (liées à Initial D)
 
@@ -120,7 +120,7 @@ Coup de pied : █▄█▄█▄█▄█▄█▄
 Caisse claire : ▄▄▄▄██▄▄▄▄
 Charleston : -x-x-x-x-x-
 Basse : ▂▄▆█▇▆▄▂
-Synthé : ░ ░██°°██°°██°° </div>
+Synthétique : °°°██°°██°°██°° </div>
 
 
 ### Le morceau emblématique d'Initial D dans le style "Deja Vu"
@@ -216,7 +216,7 @@ Dérive : ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ → (bruit de glisse
 | Culture du club | Parapara, Velfarre | Directement connecté à Avex Eurobeat |
 | Culture Internet | Mèmes de déjà vu | Ré-explosion sur YouTube/TikTok |
 | Culture du jeu | Étape initiale D Arcade, Gran Turismo | Eurobeat devient une BGM standard |
-| Compétition de dérive | Grand Prix D1, Formule Drift | La culture du cavalier devient internationale et coexiste avec l'EDM dans BGM |
+| Compétition de drift | Grand Prix D1, Formule Drift | La culture du cavalier devient internationale et coexiste avec l'EDM dans BGM |
 
 ---
 

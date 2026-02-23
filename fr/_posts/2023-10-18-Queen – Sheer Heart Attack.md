@@ -8,7 +8,7 @@ layout: post
 permalink: /fr/queen-sheer-heart-attack/
 tags:
 - Rock
-title: Reine – Pure crise cardiaque
+title: Queen – Pure crise cardiaque
 ---
 
 

@@ -21,7 +21,7 @@ title: '[Chronique] James Chance and the Contortions : les pionniers de No Wave 
 
 Texte : mmr｜Thème : la vie de James Chance, les activités de Contortions, ainsi que la structure musicale, l'analyse des rythmes et le style d'interprétation de chaque album et chanson.
 
-À la fin des années 1970, le centre-ville de New York formait un espace musical unique où se croisaient les impulsions du punk et l’esprit d’improvisation du jazz d’avant-garde. En son cœur, **James Chance and the Contortions** a poussé la fusion de l'avant-garde et du dance-punk à l'extrême.
+À la fin des années 1970, le centre-ville de New York formait un espace musical unique où se croisaient les impulsions du punk et l’esprit d’improvisation du jazz d’avant-garde. Au fond, **James Chance and the Contortions** a poussé la fusion de l'avant-garde et du dance-punk à l'extrême.
 
 ---
 
@@ -158,7 +158,7 @@ B --> F["Don Christensen → 離脱"]
 
 - Suspendu au début des années 1980
 - Retrouvailles avec les membres originaux en 2001
-- Sortie du single « Melt Yourself Down » en 2016
+- Sortie du single "Melt Yourself Down" en 2016
 - Représentation finale en 2019
 
 ---

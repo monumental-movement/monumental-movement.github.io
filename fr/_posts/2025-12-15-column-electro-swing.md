@@ -18,7 +18,7 @@ title: '[Chronique] Electro Swing'
 
 ## À propos du style musical Electro Swing
 
-Texte : mmr｜Thème : Reconstruction à partir de l'héritage historique du swing jazz et de la grammaire de la musique de danse électronique
+Texte : mmr｜Thème : À propos de l'héritage historique du swing jazz et de sa reconstruction à l'aide de la grammaire de la musique de danse électronique
 
 L'Electro Swing est un style musical qui combine des éléments du swing jazz, du big band et du jazz manouche des années 1920 aux années 1940 avec les techniques de production de la musique de danse électronique des années 2000. Il combine des éléments historiques tels que des riffs de cor, de clarinette et de violon, ainsi que des voix scat avec des échantillonneurs, des séquenceurs, des boucles et des rythmes riches en basses.
 
@@ -52,11 +52,11 @@ En revanche, la musique électronique dance, qui s'est développée depuis les a
 ## 2. Conditions préalables à l'établissement d'un genre
 
 
-Pour qu’Electro Swing puisse voir le jour, les conditions techniques et culturelles suivantes étaient nécessaires.
+Pour qu’Electro Swing puisse exister, les conditions techniques et culturelles suivantes étaient nécessaires.
 
 * Vulgarisation de la technologie d'échantillonnage numérique
 *Première culture Internet où la gestion des droits d'auteur était relativement souple
-* Jeu multi-genres par le DJ du club
+* Jeu multi-genres par DJ du club
 * Réévaluer l'esthétique rétro
 
 C'est notamment entre la fin des années 1990 et le début des années 2000 que l'environnement DAW est devenu populaire au niveau personnel, permettant de rééditer des sources sonores passées.
@@ -88,7 +88,7 @@ Leurs chansons mélangent des éléments non seulement de swing mais aussi de ja
 
 ## 6. Structure musicale
 
-La structure d’Electro Swing se compose souvent des éléments suivants :
+La structure d'Electro Swing se compose souvent des éléments suivants :
 
 * Fragments mélodiques dérivés du swing
 * Rythme de danse clair
@@ -166,13 +166,13 @@ La structure, qui ne dépend d'aucun grand marché particulier, a contribué à 
 
 L'échantillonnage dans Electro Swing ne fonctionne pas seulement comme une citation, mais comme un réarrangement. Le contexte de la chanson originale est coupé et le rythme, le tempo et la dynamique sont réorganisés dans un style moderne.
 
-Cette méthode est cohérente avec la culture de l'échantillonnage après le hip-hop, mais l'Electro Swing est unique en ce sens qu'il visualise intentionnellement l'ère du son original. Le bruit, les limitations des bandes de fréquences et les fluctuations analogiques restent des symboles du passé.
+Cette méthode est cohérente avec la culture d'échantillonnage post-hip-hop, mais l'Electro Swing est unique en ce sens qu'il visualise intentionnellement l'ère du son original. Le bruit, les limitations des bandes de fréquences et les fluctuations analogiques restent des symboles du passé.
 
 ---
 
 ## 16. Techniques de traitement et de production du son
 
-Du côté de la production, le découpage des échantillons et l'étirement du temps, la quantification des battements et la conception des graves bas de gamme jouent un rôle important. Le rebond du swing n'est pas entièrement reproduit, mais est absorbé dans le quatre contre quatre ou le breakbeat droit.
+Du côté de la production, l’extraction d’échantillons et l’étirement du temps, la quantification des battements et la conception des basses graves jouent un rôle important. Le rebond du swing n'est pas entièrement reproduit, mais est absorbé dans le quatre contre quatre ou le breakbeat droit.
 
 En conséquence, Electro Swing a une structure qui n'est pas naturelle pour le jazz, mais très réactive pour la musique dance. Cette conception de compromis est le noyau technique de la création du genre.
 
@@ -196,7 +196,7 @@ D’un autre côté, une autre caractéristique est qu’il était difficile de 
 
 ## 19. Comparaison avec d'autres genres
 
-L'Electro Swing est parfois confondu avec le Nu Jazz, le Swing House et le Retro House, mais la plus grande différence est qu'il met en avant le symbolisme de l'ère swing. Cela donne la priorité à la lisibilité culturelle plutôt qu’à la complexité musicale.
+L'Electro Swing est parfois confondu avec le Nu Jazz, le Swing House et le Retro House, mais la plus grande différence est qu'il met en avant la symbolique de la période swing. Cela donne la priorité à la lisibilité culturelle plutôt qu’à la complexité musicale.
 
 Même si cette structure a affaibli la capacité du genre à résister aux critiques, elle a été efficace pour gagner des auditeurs à long terme.
 

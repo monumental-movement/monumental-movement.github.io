@@ -22,7 +22,7 @@ Texte : mmr｜Thème : En nous concentrant sur Alvin Lucier et Christian Fennesz
 
 Depuis le XXe siècle, la musique s’est éloignée du cadre de l’art temporel centré sur la mélodie et l’harmonie pour s’étendre à un domaine d’expression complet incluant les phénomènes physiques, l’espace et le support d’enregistrement lui-même. L’art instrumental et sonore d’avant-garde n’est pas une forme qui met en valeur l’habileté et la capacité d’interprétation d’un instrument, mais présente plutôt l’ensemble du processus par lequel le son est généré, propagé, réfléchi, modifié et perçu comme une œuvre.
 
-Dans ce domaine, les œuvres musicales ne sont pas nécessairement réduites à des partitions musicales, et la possibilité de rejouabilité n'est pas non plus supposée. Le travail existe plutôt comme un ensemble de conditions, produisant à chaque fois des résultats différents. Ce qui importe ici, plutôt que les intentions du compositeur, c'est la structure elle-même, la manière dont le phénomène acoustique se présente et se connecte à l'espace et à la technologie.
+Dans ce domaine, les œuvres musicales ne sont pas nécessairement réduites à des partitions musicales et la possibilité de rejouabilité n'est pas non plus supposée. Le travail existe plutôt comme un ensemble de conditions, produisant à chaque fois des résultats différents. Ce qui importe ici, plutôt que les intentions du compositeur, c'est la structure elle-même, la manière dont le phénomène acoustique se présente et se connecte à l'espace et à la technologie.
 
 ---
 
@@ -97,7 +97,7 @@ flowchart LR
 
 ### 4-1 Acoustique architecturale
 
-Le travail de Lucier s'appuie fortement sur les dimensions spatiales, les matériaux et les propriétés réfléchissantes. Même si la pièce est la même, les résultats acoustiques varieront considérablement si elle est installée dans un endroit différent.
+Le travail de Lucier s'appuie fortement sur les dimensions spatiales, les matériaux et les propriétés réfléchissantes. Même si la pièce est la même, les résultats acoustiques varieront considérablement si le lieu d'installation est différent.
 
 ### 4-2 Position du spectateur
 
@@ -138,7 +138,7 @@ flowchart LR
 
 ## Chapitre 7 : Continuité analogique et numérique
 
-Le son physique abordé par Lucier et le traitement numérique abordé par Fennesz ne sont pas discontinus, mais un flux continu. Tous deux respectent l’autonomie du son et limitent le contrôle humain.
+Le son physique dont s'occupe Lucier et le traitement numérique dont s'occupe Fennesz ne sont pas discontinus, mais un flux continu. Tous deux respectent l’autonomie du son et limitent le contrôle humain.
 
 ---
 

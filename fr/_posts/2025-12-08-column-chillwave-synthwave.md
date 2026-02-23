@@ -50,7 +50,7 @@ Les caractéristiques sont les suivantes.
 
 - **Enregistrement Lo-Fi**
 - **Texture douce centrée sur synthé + sampler**
-- **La voix se fond dans la réverbération**
+- **Voix se fondant dans la réverbération**
 - **Influencé par la city pop et la dream pop des années 80**
 - **Visuels tels que des couleurs pâles et des photos floues**
 
@@ -219,7 +219,7 @@ Synthwave a été fortement influencé par la musique électronique et les visue
 
 ##9-2. Contexte de renaissance numérique
 
-Chillwave utilisait largement des expressions visuelles rappelant la culture médiatique personnelle des années 1990 (VHS, caméscopes, images de bord de mer) et était compatible avec la culture photographique lo-fi d'Internet (comme les premiers Instagram).
+Chillwave a largement utilisé des expressions visuelles rappelant la culture médiatique personnelle des années 1990 (VHS, caméscopes, images de bord de mer) et était compatible avec la culture photo lo-fi d'Internet (comme les premiers Instagram).
 
 Le **fond de grille + typographie néon** de Synthwave créé par des graphistes est devenu standardisé dans le monde entier et est également devenu populaire dans les vidéos mixées sur YouTube.
 

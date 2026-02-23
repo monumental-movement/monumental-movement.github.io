@@ -19,7 +19,7 @@ Le modèle 500 est un autre nom de Juan Atkins.
 
 « THE FLOW » est une chanson qui a fait l’objet de divers remixes. Juan Atkins dégage une pure ambiance R&B avec son « G-Funk Mix ».
 
-L'Alex Reece Mix, en revanche, propose un remix step jazz fluide, mais les voix ne sont pas complètement unifiées et semblent un peu désynchronisées avec le rythme.
+L'Alex Reece Mix, quant à lui, propose un remix step jazz fluide, mais les voix ne sont pas complètement unifiées et semblent un peu désynchronisées avec le rythme.
 
 MK du monde souterrain. 2 Mix est un morceau simple et club-friendly avec une sensation sombre et légèrement agressive. Cependant, Frank De Wulf propose un remix qui intègre des éléments de tribal house, et le "Original Mix" conserve toujours son éclat.
 

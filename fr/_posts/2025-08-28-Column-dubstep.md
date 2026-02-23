@@ -38,7 +38,7 @@ Le dubstep est soutenu par la pression physique des sons de basse, à tel point 
 
 - **Tempo** : BPM environ 138-142.
 
-- **Rythme** : structure de battement brisé dérivée du 2-step. Le coup de pied n'est pas un temps à quatre temps, mais la caisse claire est accentuée sur le troisième temps.
+- **Rythme** : Structure de battement brisé dérivée du 2-step. Le coup de pied n'est pas un temps à quatre temps, mais la caisse claire est accentuée sur le troisième temps.
 
 - **Bass** : Caractérisé par des sous-basses profondes, une ligne de basse déformée et ce qu'on appelle "Wobble Bass".
 
@@ -84,7 +84,7 @@ Une culture dubstep typiquement japonaise s'est formée grâce à des événemen
 
 ### Influence culturelle du dubstep
 
-- **Pénétration dans la scène EDM** : Connecté à la culture du festival et devenir une présence qui résonne sur la scène principale.
+- **Pénétration dans la scène EDM** : Connecté à la culture des festivals et devenir une présence qui résonne sur la scène principale.
 
 - **Réévaluation de la bass music** : A considérablement influencé le développement de genres ultérieurs tels que la trap et la future bass.
 
@@ -117,3 +117,14 @@ Une culture dubstep typiquement japonaise s'est formée grâce à des événemen
 Plus qu'un simple genre, le dubstep est devenu un paysage sonore emblématique de la culture urbaine du 21e siècle.
 
 Les vibrations des basses ressenties par le système audio d'un club vont au-delà du sens de l'ouïe, secouant le corps et l'espace et connectant les auditeurs les uns aux autres. Le Dubstep continue d'évoluer et continuera d'être un terrain d'exploration musicale passionnant pour les nouvelles générations.
+
+---
+
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7ZdHzysA-g0?si=KNHLYPiuF8HQgKBm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

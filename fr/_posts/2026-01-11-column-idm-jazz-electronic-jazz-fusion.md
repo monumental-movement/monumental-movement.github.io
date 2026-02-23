@@ -60,7 +60,7 @@ Dans IDM, plusieurs périodes existent souvent simultanément dans une signature
 
 ### Généalogie du jazz électrique
 
-Le jazz électrique des années 1970 mettait l’accent sur l’expansion de la section rythmique et des grooves soutenus, mais n’allait pas jusqu’à briser le rythme. Depuis les années 1990, l’introduction des échantillonneurs et des séquenceurs a permis de répéter avec précision et de produire des décalages infimes difficiles à réaliser manuellement.
+Le jazz électrique des années 1970 mettait l’accent sur l’expansion de la section rythmique et des grooves soutenus, mais n’allait pas jusqu’à briser le rythme. Depuis les années 1990, l'introduction des échantillonneurs et des séquenceurs a permis de répéter avec précision et de produire des décalages infimes difficiles à réaliser manuellement.
 
 ### Coexistence de l'improvisation et de la programmation
 

@@ -26,7 +26,7 @@ Texte : mmr｜Thème : À propos de la scène Techno Modulaire
 
 Bien que ses origines en tant que genre remontent au début des années 2000, ses éléments fondateurs sont profondément enracinés dans l'émergence des synthés modulaires analogiques dans les années 1970 et dans la formation de la techno de Détroit dans les années 1980. En raison du haut degré de liberté des synthés modulaires, il est souvent possible de développer des sons uniques qui mettent l'accent sur la texture et l'étendue spatiale du son, plutôt que de simplement jouer des morceaux techno.
 
-Dans son live, il manipule le rythme, la ligne de basse, les percussions et les effets de bruit dans chaque module pour créer un espace musical improvisé qui change. En conséquence, les auditeurs peuvent vivre une expérience qui ressemble davantage à « vivre une performance » qu'à « écouter un morceau ».
+Dans son live, il manipule module par module le rythme, la ligne de basse, les percussions et les effets de bruit pour créer un espace musical improvisé. En conséquence, les auditeurs peuvent vivre une expérience qui ressemble davantage à « vivre une performance » qu'à « écouter un morceau ».
 
 
 ---
@@ -102,13 +102,13 @@ Surgeon, d'origine britannique, est connu comme l'un des premiers artistes à in
 
 ## Ø [Phase]
 
-Ø [Phase], dont le travail se concentre sur une esthétique sonore minimale et stoïque au sein de la techno, utilise activement des synthés modulaires en studio et en production live. Il se caractérise particulièrement par son approche complexe de modulation de phase et l'introduction d'éléments de type drone qui utilisent des boucles de rétroaction, et a été félicité pour donner un mouvement organique à la techno minimale.
+Ø [Phase], dont le travail se concentre sur une esthétique sonore minimale et stoïque dans la techno, utilise activement des synthés modulaires en studio et en production live. Il se caractérise particulièrement par son approche complexe de modulation de phase et l'introduction d'éléments de type drone qui utilisent des boucles de rétroaction, et a été félicité pour donner un mouvement organique à la techno minimale.
 
 ## Richie Hawtin
 
 Richie Hawtin, profondément impliqué dans la techno de Détroit et la techno minimale, a également incorporé des synthés modulaires dans ses performances depuis les années 2010. Son set est un composite de mixeurs, d'effets, d'ordinateurs et de modules Eurorack, et en manipulant finement la dynamique sonore, il crée une structure plus fluide que la techno minimale traditionnelle.
 
-##SNTS
+## SNTS
 
 SNTS, connu comme un artiste très anonyme, est fortement présent dans les domaines de la dark techno et de la techno industrielle. Dans son live, il exploite pleinement la saturation analogique, les modules de distorsion, les sources de bruit, etc. pour créer un espace acoustique tridimensionnel et violent. Ce son a gagné de nombreux adeptes et a eu une forte influence sur la texture des lignes de basse et des kicks.
 
@@ -203,7 +203,7 @@ Cette « culture du bricolage » correspond à l'esprit DIY de la techno et est 
 
 # Caractéristiques musicales et analyse
 
-Modular Techno présente plusieurs caractéristiques acoustiques et structurelles communes. Ci-dessous, nous classifierons les éléments typiques et expliquerons quelles fonctions ils jouent dans le cadre techno.
+Modular Techno présente plusieurs caractéristiques acoustiques et structurelles communes. Ci-dessous, nous classerons les éléments typiques et expliquerons quelles fonctions ils jouent dans le cadre techno.
 
 ## 1. « Fluctuations » du rythme et changements stochastiques
 
@@ -303,7 +303,7 @@ La Techno Modulaire est un genre extrêmement unique et innovant formé par l'in
 
 # Liste détaillée des équipements (modules Modular Techno fréquemment utilisés)
 
-Ce qui suit est une compilation de catégories d'équipements souvent utilisées par de véritables artistes de Modular Techno, avec un accent sur Eurorack.
+Vous trouverez ci-dessous une liste de catégories d'équipement couramment utilisées par les véritables artistes de Modular Techno, avec un accent sur Eurorack.
 
 ## VCO (oscillateur)
 - Faire du bruit – DPO
@@ -335,12 +335,12 @@ Ce qui suit est une compilation de catégories d'équipements souvent utilisées
 - Ingénierie du bruit – Digitale mimétique (CV aléatoire)
 
 ## Module batterie et percussions
-- Erica Synths – Série Bassline / Drum
+- Erica Synths – Série Bassline/Drum
 - Ingénierie du bruit – Basimilus Iteritas Alter (BIA)
 - Tiptop Audio – Série de batterie 808/909
 -Jomox-ModBase 09
 
-## Effets (Délai / Réverbération / Distorsion)
+## Effets (Delay / Reverb / Distorsion)
 - Strymon – Magnéto
 - Erica Synths – Trou noir DSP
 - Ingénierie du bruit – Desmodus Versio

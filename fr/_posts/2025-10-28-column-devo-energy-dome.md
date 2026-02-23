@@ -92,7 +92,7 @@ DEVO a utilisé des appareils électroniques et des synthétiseurs faits maison 
 Cette pratique peut être considérée comme le prototype du dernier **mouvement Indépendant/Lo-Fi**.
 
 Ils ont fait la satire du monde de l'entreprise tout en profitant des méthodes corporatives (logos, slogans, commercialisation).
-Dans le sens où DEVO est devenu lui-même une « marque » et a présenté les contradictions d’une marque anticapitaliste, ils ont également été les précurseurs des groupes artistiques post-modernes.
+Dans le sens où DEVO est devenu lui-même une « marque » et a présenté les contradictions d’une marque anticapitaliste, ils ont également été les précurseurs des groupes artistiques postmodernes.
 
 ---
 

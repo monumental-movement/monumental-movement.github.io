@@ -123,7 +123,7 @@ Formation des fondements de la « fan dance culture » qui s'est poursuivie avec
 | Comme une vierge | Madone | Symbolise la naissance d’une icône pop féminine. |
 | Je ressens pour toi | Chaka Khan | Une fusion de hip-hop et de disco. |
 | Héros dansant | Yoko Oginome | Un hit synonyme de disco japonais. |
-| DÉSIR -Passion- | Akina Nakamori | Une fusion de rythme disco et de chansons pop. |
+| DÉSIR -Passion- | Akina Nakamori | Une fusion de rythmes disco et de chansons pop. |
 | Groovons | Terre, vent et feu | Un pont entre le funk et le disco. |
 | Parole ! | Camée | Classique disco basé sur le funk. |
 | Célébration | Kool et le gang | Une chanson classique du festival. |
@@ -231,7 +231,7 @@ Nu-Disco s'est développé dans le monde entier et des artistes tels que Caribou
 
 - **Chef-d'œuvre représentatif (Japon)**
 - Gén Hoshino — * DANSEUSE JAUNE * (2015)
-- CAPSULE — *VERROUILLAGE MAJUSCULES* (2013)
+- CAPSULE — *CAPS LOCK* (2013)
 - tofubeats — *Positif* (2015)
 
 - **Relation avec la culture japonaise**
@@ -259,7 +259,7 @@ Tatsuro Yamashita, Taeko Onuki, Mariya Takeuchi et d'autres ont été redécouve
 | Je ne peux pas arrêter le sentiment | Justin Timberlake | Discothèque Pop |
 | La Baie | Métronomie | Nu-Disco Indépendant |
 | DANSE. | Justice | Électro x Disco |
-| Je me sens mieux | Puce chaude | Orienté électropop |
+| Je me sens mieux | Puce chaude | Électro-pop |
 | Feux rouges | Tiesto | Intersection de l'EDM et du Nu-Disco |
 
 

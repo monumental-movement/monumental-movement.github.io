@@ -87,7 +87,7 @@ Tendance du spectrogramme :
 
 Les hautes fréquences (15 kHz ~) sont progressivement atténuées
 
-La plage basse est riche, mais des fluctuations peuvent survenir en raison d'une rotation inégale et d'une pression du stylet.
+La plage basse est riche, mais des fluctuations peuvent survenir en raison d'une rotation inégale et de la pression du stylet.
 
 Bruit (crépitement, sirène) réparti aléatoirement
 

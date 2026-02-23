@@ -58,7 +58,7 @@ Les boues métalliques ne sont pas le résultat d’un compromis entre ces deux 
 
 ---
 
-## Le sol de la Nouvelle-Orléans
+## Le terroir de la Nouvelle-Orléans
 
 L'existence du sud des États-Unis, en particulier de la Nouvelle-Orléans, a joué un rôle important dans l'établissement du sludge metal. Cette région présente un climat chaud et humide, un contexte économique et social complexe et une culture musicale diversifiée.
 
@@ -128,7 +128,7 @@ Dans le sludge metal, l'enregistrement n'était pas un processus visant à embel
 
 Depuis la fin des années 1990, l’esthétique sonore du sludge metal s’est étendue à d’autres genres. En fusionnant avec le post-metal, les chansons s'allongent, soulignant le contraste entre immobilité et mouvement.
 
-Toutefois, les éléments essentiels restent les mêmes. Le poids de la distorsion, le rythme lent, la densité du son. Même si la structure s'affine, si le son devient plus léger, ce n'est plus du sludge.
+Toutefois, les éléments fondamentaux restent les mêmes. Le poids de la distorsion, le rythme lent, la densité du son. Même si la structure s'affine, si le son devient plus léger, ce n'est plus du sludge.
 
 Bien que le sludge metal ait incorporé d’autres genres, il n’a jamais abandonné sa propre esthétique.
 

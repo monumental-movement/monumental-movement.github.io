@@ -50,7 +50,7 @@ Mais il n'y a aucun sens du toucher. Le son est devenu une forme d'onde abstrait
 
 La bobine à bobine est exactement le contraire.
 Les auditeurs changent les rouleaux, regardent la rotation et « jouent » le flux magnétique.
-Il y a un acte de gestion physique du temps. Le son n'est pas seulement une donnée reproduite, mais renvoie à un phénomène de mouvement et de friction.
+Il y a un acte de gestion physique du temps. Le son n’est pas seulement une donnée reproduite, mais renvoie à un phénomène de mouvement et de friction.
 
 Ce que recherchent les hommes modernes, c’est peut-être ce « corps régénérateur ».
 Le reel-to-reel est un dispositif qui favorise la rematérialisation de l’écoute.
@@ -72,7 +72,7 @@ Mais c’est cette « finitude » qui fait du son un événement à part.
 
 ---
 
-## Chapitre 3 Généalogie du renouveau analogique et de la prochaine vague
+## Chapitre 3 Généalogie et prochaine vague de renouveau analogique
 Au cours des 20 dernières années, nous avons assisté à plusieurs reprises au « retour de l’analogique ».
 Les disques font revivre le rituel visuel** à travers « l’objet » de la veste.
 Les cassettes ont ramené l'esprit DIY et la **liberté lo-fi**.
@@ -127,7 +127,7 @@ Sa nature finie encourage les auditeurs à se concentrer et à s'immerger.
 Tout comme la boucle infinie du streaming a donné naissance à « l’écoute en écoutant »,
 Le temps limité de Reel vous aidera à retrouver votre capacité à vous concentrer sur l'écoute.
 L'analogique n'est plus rétro.
-C'est une autre façon dont la technologie élargit les sens humains.
+C'est une autre façon pour la technologie d'élargir les sens humains.
 
 ---
 

@@ -77,7 +77,7 @@ Depuis ses débuts, Sabrina a toujours visé une « coexistence de la tradition 
 
 Il y a des moments de jazz-funk doux qui vous donnent une impression directe de la lignée d'Azimuth, tandis que les mélodies sophistiquées, les belles cordes et les percussions légères de MPB sont délicieusement combinées.
 
-### ● Chanson titre « Clareia »
+### ● Chanson titre « Clareia »
 
 Cette chanson, qui peut être considérée comme un symbole de l'album, combine la voix douce de Sabrina, les percussions dynamiques et les lignes fluides du clavier pour créer une texture claire de lumière.
 
@@ -89,7 +89,7 @@ Cette chanson, qui peut être considérée comme un symbole de l'album, combine 
 
 ### - Pont avec le Royaume-Uni créé par Henry Wu, 2000 Black, IG Culture -**
 
-L'enthousiasme suscité par la musique de Sabrina sur la scène britannique peut être considéré comme un symbole de la « nouvelle réévaluation des Brésiliens » à la fin des années 2010.
+L'attention enthousiaste que la musique de Sabrina a reçue de la scène britannique peut être considérée comme un symbole de la « nouvelle réévaluation brésilienne » de la fin des années 2010.
 En particulier, le remix de « Clareia » par les trois groupes suivants qui ont formé le mouvement jazz/broken beat à Londres est important.
 
 ---
@@ -104,7 +104,7 @@ Son remix met l'accent sur un travail de batterie complexe dans la veine du ryth
 ・Rhodes doux
 ・Base de référence en mettant l'accent sur la syncope
 
-"Clareia" a ainsi acquis un nouveau look qui se fond naturellement sur les pistes de danse londoniennes.
+En conséquence, "Clareia" a acquis un nouveau look qui se fond naturellement sur les pistes de danse de Londres.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tGKTAHvAkG0?si=PdoogKBlxjEmegiN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -114,7 +114,7 @@ Son remix met l'accent sur un travail de batterie complexe dans la veine du ryth
 
 2000 Black, de Dego et Kaidi Tatham, est connu comme l'un des labels et projets les plus importants du Broken Beat.
 
-La version 2000 Black de « Clareia » est composée d'un rythme brisé plus entraînant et d'une ligne de basse épaisse, créant un beau contraste avec la voix chantée de Sabrina. Tout en héritant de la « progression d'accords fluide » que l'on peut appeler le style d'Azimuth, il est réinterprété avec la sensation funk futuriste unique à 2000 Black.
+La version 2000 Black de « Clareia » est composée d'un rythme brisé plus entraînant et d'une ligne de basse épaisse, créant un beau contraste avec la voix chantée de Sabrina. Tout en héritant de la « progression d'accords fluide » que l'on peut appeler le style d'Azimuth, il est réinterprété avec la sensation funk futuriste propre à 2000 Black.
 
 La sensation est exactement
 **« Âme du futur brésilien »**
@@ -128,7 +128,7 @@ digne d'être appelé.
 
 IG Culture est une légende du Broken Beat londonien dont l’influence musicale et culturelle est incommensurable.
 
-La version IG Culture de « Clareia » a un rythme avec un centre de gravité plus bas et une forte sensation soul et street.
+La version IG Culture de « Clareia » a un rythme de centre de gravité plus bas et une forte sensation soul et street.
 Le rythme n'est pas brutal, mais plutôt doux, créant une image sonore profonde qui enveloppe la voix chantée de Sabrina.
 
 On peut dire que c'est la finition la plus « underground » avec une forte texture noire.
@@ -229,3 +229,11 @@ Dans ses œuvres futures, il continuera à être au centre de la manière dont l
 ---
 
 
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nGAtLk7x6sw?si=NtA_Y_rnX4N7f2QO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

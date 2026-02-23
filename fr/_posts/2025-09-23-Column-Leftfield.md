@@ -53,7 +53,7 @@ Leftfield est un mot à double sens.
 - Début des années 1990 : Né dans la culture rave britannique.
 - 1995 : Son premier travail "*Leftism*" a reçu des éloges au-delà de la scène des clubs.
 - Depuis les années 2000 : Le mot « leftfield » est devenu synonyme de « musique innovante en dehors du mainstream ».
-- Temps moderne : réévalué dans le contexte de la génération de musique par l'IA et de la production de bandes sonores de films.
+- Temps modernes : réévalué dans le contexte de la génération de musique par l'IA et de la production de bandes sonores de films.
 
 
 ---
@@ -113,6 +113,15 @@ R. Le « gauchisme » est le meilleur point de départ.
 
 Leftfield est une icône de l’électro britannique et synonyme d’aventure musicale. Bien qu’il s’écarte de la culture des clubs, son esprit d’expérimentation intellectuel et artistique continue d’influencer la production moderne de musique et de bandes sonores basées sur l’IA.
 
+
+---
+
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7scq3_vpAgw?si=hy0NK0UAMmNSge5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

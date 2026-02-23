@@ -188,7 +188,7 @@ La techno allemande continue de rythmer les villes et les corps.
 
 ## Dernier chapitre « Country » dans une boucle infinie
 
-La techno est une « caractéristique rythmique nationale » qui perdure même après avoir traversé les frontières nationales.
+La techno est une « caractéristique rythmique nationale » qui persiste même après avoir traversé les frontières nationales.
 Plus de 30 ans se sont écoulés depuis la chute du mur de Berlin.
 L’Allemagne est devenue un pays unifié par le son et non par la politique.
 Et son cœur bat toujours à 4/4.
@@ -339,6 +339,14 @@ Le rythme de la techno n’est pas un moyen d’oublier le passé, mais un moyen
 L’histoire de l’Allemagne vibre toujours comme un rythme.
 C'est pourquoi ce pays reste « honnête dans son son » plus que partout ailleurs dans le monde.
 
+
+---
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q15wupd1WM4?si=PMLbIbtVhzJTiorK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

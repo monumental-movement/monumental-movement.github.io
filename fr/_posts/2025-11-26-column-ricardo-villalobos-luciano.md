@@ -58,13 +58,13 @@ Le label qu'il fondera plus tard, Cadenza, produit des artistes qui allient l'en
 
 ## Chapitre 2 : Rencontre et naissance du Sense Club
 
-Alors que Villalobos était assis devant une platine vinyle dans un club chilien à la fin des années 1990, Luciano a senti les contours rythmiques et a immédiatement résonné en lui. Tous deux lanceront un projet commun baptisé « Sense Club ». Ce lieu, où se croisent rythmes latins et techno européenne, a transcendé le cadre d'une simple unité musicale et est devenu un terrain d'expérimentation de la culture et du corps.
+Dans un club chilien à la fin des années 1990, tandis que Villalobos était assis devant une platine, Luciano sentait les contours rythmiques et résonnait instantanément en lui. Tous deux lanceront un projet commun baptisé « Sense Club ». Ce lieu, à la croisée des rythmes latins et de la techno européenne, a dépassé le cadre d'une simple unité musicale et est devenu un laboratoire de culture et de corps.
 
 La philosophie du Sense Club était claire. «La danse n'est pas seulement un mouvement, mais un rituel qui relie la culture et le corps.» De longs sets, des percussions subtiles et une cacophonie occasionnelle de sons insufflent une nouvelle vie à la piste de danse.
 
 ### Premières anecdotes live du Sense Club
 
-Un soir, il y avait environ 300 personnes à l'étage du club. Villalobos joue de longues pistes en séquence, effectuant des ajustements minutieux sur la platine. Pendant ce temps, Luciano mixait des échantillons d'instruments à percussion en temps réel. Le public a dansé longtemps et à la fin du set, il semblait s'être fondu dans le courant du temps. Cette expérience a été un moment qui symbolise les philosophies musicales des deux.
+Un soir, il y avait environ 300 personnes à l'étage du club. Villalobos joue de longues pistes en séquence, effectuant des ajustements minutieux sur la platine. Pendant ce temps, Luciano mixait des échantillons d'instruments à percussion en temps réel. Le public a dansé longtemps et à la fin du set, il semblait s'être fondu dans le courant du temps. Cette expérience a été un moment qui symbolisait les philosophies musicales des deux.
 
 ---
 
@@ -116,12 +116,12 @@ Tous deux se produisent en live dans toute l’Europe, en Amérique du Sud et en
 
 - *Alcachofa* (2003, Perlon)
 - *Vasco* (2008, Perlon)
-- *Série EP Sei Es Drum* (2007-2015, Sei Es Drum)
+- *Série EP Sei Es Drum* (2007–2015, Sei Es Drum)
 - *Dépendant et Heureux* (2012, Perlon)
 
 ### Lucien
 
-- *L'Ascension d'Angel* (2002, Cadenza)
+- *Rise of Angel* (2002, Cadenza)
 - *Pas d'amis* (2004, Cadenza)
 - *Crime* (2005, Cadenza)
 - Série *Luciano DJ Mix* (2003-2010, Cadenza)
@@ -160,4 +160,11 @@ Les efforts de Ricardo Villalobos, Luciano et Sense Club sont allés au-delà de
 
 ---
 
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jgonRf9jbis?si=xARDJ9_hINzVvtxB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 

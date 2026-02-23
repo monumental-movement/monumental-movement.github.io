@@ -24,7 +24,7 @@ VHS sorti en 2002 par PSF Records, qui a sorti de nombreuses musiques undergroun
 
 Le réalisateur est Soichiro Nobiki, un artiste vidéo qui était en charge de « From Jomon to Space : Jomon Rock » (VHS) de Hiroshi Mikami.
 
-La direction artistique est assurée par Yasuyoshi Arai, qui a créé des vestes pour Keiji Haino, Fushisha, John Zorn, Motoharu Yoshizawa et bien d'autres.
+La direction artistique est assurée par Yasuyuki Arai, qui a créé des vestes pour Keiji Haino, Fushisha, John Zorn, Motoharu Yoshizawa et bien d'autres.
 
 Le producteur est Hideo Ikuetsu, propriétaire de P.S.F. Enregistrements.
 

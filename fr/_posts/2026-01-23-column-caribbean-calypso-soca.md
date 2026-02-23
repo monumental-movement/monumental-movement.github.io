@@ -21,7 +21,7 @@ title: '[Chronique] Théorie de la culture Soca/Calypso des Caraïbes'
 
 Texte : mmr｜Thème : Musique caribéenne à la croisée de la domination coloniale et de la célébration, et le continuum culturel du calypso à la soca
 
-Les Caraïbes sont bien plus qu’une simple zone géographique. Il s’agit d’un espace historiquement comprimé dans lequel la domination coloniale des puissances européennes, la déportation forcée d’Afrique, la rupture de la culture autochtone et le mélange post-libération se chevauchent en même temps. Dans cet environnement, la musique servait plus qu’un simple divertissement. Pour les personnes privées de langue et dont la voix politique était restreinte, les chansons étaient un dépositaire de la mémoire, un moyen de critique sociale et un outil de réorganisation des communautés.
+Les Caraïbes sont bien plus qu’une simple zone géographique. Il s’agit d’un espace historiquement comprimé dans lequel la domination coloniale des puissances européennes, la déportation forcée d’Afrique, la rupture de la culture autochtone et le mélange post-libération se chevauchent en même temps. Dans cet environnement, la musique servait plus qu’un simple divertissement. Pour les personnes privées de langue et dont la voix politique était restreinte, les chansons étaient un dépositaire de la mémoire, un moyen de critique sociale et un moyen de réorganiser les communautés.
 
 Calypso et soca sont ses réalisations les plus emblématiques. Bien que les deux soient souvent consommés comme musique de danse, ils sont empreints de résistance à la domination coloniale, d’humour ouvrier et de tension entre urbanisation et célébration. Il ne suffit pas de distinguer simplement que le calypso est une musique parlée et la soca est une musique du corps. Les deux branches proviennent de la même racine et sont le résultat de la réponse aux exigences de différentes époques.
 
@@ -46,7 +46,7 @@ color: #fff;
 
 ## Origine et formation de Calypso
 
-Les origines du Calypso remontent aux XVIIIe et XIXe siècles sur l'île de Trinidad. La culture du carnaval introduite pendant la période coloniale française et la culture du chant et de la poésie improvisée originaires d'Afrique de l'Ouest, centrée sur la narration, se sont mélangées pour créer une forme de chant unique. Chanté à l’origine en français-créole, il s’agissait d’une forme de critique sociale difficile à comprendre pour les puissances coloniales.
+Les origines du Calypso remontent aux XVIIIe et XIXe siècles sur l'île de Trinidad. La culture du carnaval introduite pendant la période coloniale française et la culture du chant et de la poésie improvisée originaires d'Afrique de l'Ouest, centrée sur la narration, se sont mélangées pour créer une forme de chant unique. Il était à l’origine chanté en français-créole et constituait une forme de critique sociale difficile à comprendre pour les puissances coloniales.
 
 À la fin du XIXe siècle, sous la domination britannique, le calypso s'est étendu aux zones urbaines tout en incorporant l'anglais. Avant que les journaux ne deviennent populaires, les calypsoniens étaient de facto des journalistes, couvrant les scandales, la politique, la criminalité et les romances en vers. L'intelligence des paroles, l'ironie et le double sens étaient des critères d'évaluation importants, et l'accent était mis sur la netteté des mots plutôt que sur la mélodie.
 
@@ -58,7 +58,7 @@ Les origines du Calypso remontent aux XVIIIe et XIXe siècles sur l'île de Trin
 
 ## L'inséparabilité du carnaval et de la musique
 
-Le Carnaval de Trinidad est un dispositif culturel dont la musique refuse d'être comprise de manière isolée. Après l’émancipation des esclaves, le carnaval a fonctionné comme un lieu où l’expression physique et le bruit qui avaient été supprimés étaient rendus publics. Costumes, cortèges, percussions et chants s'assemblent pour transformer l'espace urbain lui-même en scène.
+Le Carnaval de Trinidad est un dispositif culturel dont la musique refuse d'être comprise de manière isolée. Après l’émancipation des esclaves, le carnaval a fonctionné comme un lieu où l’expression physique et le bruit qui avaient été supprimés étaient rendus publics. Costumes, marches, percussions et chants s'assemblent pour transformer l'espace urbain lui-même en scène.
 
 Calypso est produit et interprété de manière intensive depuis la période de préparation jusqu'au carnaval proprement dit, et les chansons sont complétées par la danse. Le public n'était pas des consommateurs passifs, mais des participants à la musique en chantant et en scandant. Cette interaction a fait de l’évaluation de la musique plus qu’un simple enregistrement.
 
@@ -84,7 +84,7 @@ Dans les années 1970, la société trinidadienne connaît des changements majeu
 
 La Soca est née dans ce contexte. On dit que le nom est un mot inventé combinant soul et calypso, et la musique a en fait conservé la structure du calypso, mais a mis le rythme au premier plan et a renforcé la basse et la batterie. Les paroles deviennent plus simples, les répétitions et les chants augmentent, et l’élévation physique prime.
 
-La Soca n'est pas une rupture mais une réorganisation. Il ne s’agissait pas d’un abandon complet de la nature sociale du calypso, mais plutôt d’un virage vers la maximisation des émotions partagées lors des occasions de célébration.
+La Soca n'est pas une rupture mais une réorganisation. Il ne s’agissait pas d’un abandon complet de la nature sociale du calypso, mais plutôt d’une évolution vers la maximisation des émotions partagées lors des occasions de célébration.
 
 > La Soca est une autre forme de calypso répondant aux exigences de la fête.
 

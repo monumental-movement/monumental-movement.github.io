@@ -19,7 +19,7 @@ title: '[Chronique] Déclin et renaissance de la culture radiophonique interpré
 
 ## Un appareil appelé radio qui existait avant la musique
 
-Texte : mmr｜Thème : Les médias de la voix qui se transforment à travers la musique - L'histoire culturelle de la radio aux podcasts
+Texte : mmr｜Thème : Les médias de la voix qui se transforment à travers la musique - À propos de l'histoire culturelle de la radio aux podcasts
 
 
 La radio est souvent considérée comme un média musical, mais son essence, lorsqu'elle a été inventée, était le partage simultané de l'audio.
@@ -68,7 +68,7 @@ L’expérience d’écouter la même chanson en même temps a élevé la musiqu
 La radio a créé une existence qui présente non seulement la musique elle-même, mais aussi « comment écouter de la musique ».
 Le DJ était le sélecteur de musique, le commentateur et le conteur.
 
-Ordre des chansons, heure et commentaires.
+Ordre des chansons, fuseau horaire et commentaires.
 Ceux-ci donnent un contexte à la musique et définissent le genre.
 
 Le phénomène de la musique introduite par un DJ particulier étant reconnu comme un genre s'est répété partout dans le monde.
@@ -107,7 +107,7 @@ Le succès d’une chanson devient indissociable de son expression visuelle, et 
 ## Déclin de la radio et passage au « écouter en écoutant »
 
 
-Prise entre la télévision et Internet, la radio ne jouera plus un rôle de premier plan.
+Prise entre la télévision et Internet, la radio ne jouera plus un rôle prépondérant.
 Mais cela n’a jamais complètement disparu.
 
 Dans la voiture, en travaillant, tard le soir.
@@ -129,14 +129,14 @@ Ceux-ci sont devenus des éléments inutiles pour la distribution audio.
 La lecture à la demande élimine le besoin de simultanéité et le concept d’organisation.
 La radio n'a plus besoin d'être une « émission ».
 
-> La voix s'est libérée des ondes radio.
+>Le son s'est affranchi des ondes radio.
 
 ---
 
 ## Réinventer le podcast
 
 Les podcasts étaient des radios sans station.
-Créé par des individus, parlé par des individus et atteignant des individus.
+Produit par des individus, parlé par des individus et atteignant des individus.
 
 Contrairement à la distribution musicale, les podcasts se concentrent sur la narration.
 La musique devient un objet à analyser, à mémoriser et à contextualiser.

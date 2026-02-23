@@ -16,7 +16,7 @@ title: '[Chronique] Guide des charmes et des chefs-d''œuvre de la Bossa Nova :
 
 ## Le charme et l'histoire de la bossa nova
 
-Texte : mmr｜Thème : Discographie des artistes majeurs de la bossa nova tels que Joao Gilberto, Antonio Carlos Jobim, Stan Getz, Sergio Mendes, organisée par ordre chronologique et explication de chaque album
+Texte : mmr｜Thème : Discographie des artistes majeurs de la bossa nova tels que Joao Gilberto, Antonio Carlos Jobim, Stan Getz, Sergio Mendes, organisée par ordre chronologique et explication de chaque album.
 
 
 
@@ -74,7 +74,7 @@ color: #fff;
 
 **Année de naissance** : 10 juin 1931 (Juazeiro, Bahia, Brésil)
 
-**Caractéristiques** : Connu comme le fondateur de la bossa nova, il est connu comme le « dieu de la bossa nova » pour son jeu de guitare unique et son style de chant modeste.
+**Caractéristiques** : Connu comme le fondateur de la bossa nova, il est connu comme le « dieu de la bossa nova » pour son jeu de guitare unique et son style de chant modeste.
 
 **逸話**: 1958年、アルバム[『Chega de Saudade』](https://amzn.to/3W7J1yt)の制作時、音響技師が彼のギターの音量が小さすぎると指摘した際、ジルベルトは「ギターの音量を上げるのではなく、他の音を下げれば良い」と返答し、彼の音楽哲学を体現しました。
 
@@ -110,11 +110,11 @@ color: #fff;
 
 **Année de naissance** : 11 février 1941 (Rio de Janeiro, Brésil)
 
-**Caractéristiques** : Pianiste, compositeur et arrangeur, il est l'un des acteurs clés de la diffusion de la musique brésilienne à travers le monde.
+**Caractéristiques** : Pianiste, compositeur et arrangeur, il est l'un des acteurs incontournables de la diffusion de la musique brésilienne à travers le monde.
 
 **逸話**: 1966年、セルジオ・メンデス & ブラジル'66のアルバム[『Herb Alpert Presents Sergio Mendes & Brasil'66』](https://amzn.to/4mR12fg)が大ヒットし、アメリカでのボサノバ人気を再燃させました。
 
-**Influence** : les arrangements de Mendes ont fusionné avec succès la musique pop et brésilienne et ont eu une grande influence sur les artistes ultérieurs.
+**Influence** : Les arrangements de Mendes ont fusionné avec succès la musique pop et brésilienne et ont eu une grande influence sur les artistes ultérieurs.
 
 
 ---
@@ -204,7 +204,7 @@ flowchart TD
 
 ## L'influence de la bossa nova et son héritage jusqu'à nos jours
 
-La Bossa Nova a influencé divers genres tels que le jazz, la pop et la musique classique, et a eu une grande influence sur la scène musicale moderne. Ces dernières années, les artistes ont créé des chansons intégrant des éléments de bossa nova, et la fusion qui transcende les frontières des genres progresse.
+La Bossa Nova a influencé divers genres tels que le jazz, la pop et la musique classique, et a eu une grande influence sur la scène musicale moderne. Ces dernières années, les artistes ont créé des chansons intégrant des éléments de bossa nova, et la fusion au-delà des frontières des genres progresse.
 
 ---
 

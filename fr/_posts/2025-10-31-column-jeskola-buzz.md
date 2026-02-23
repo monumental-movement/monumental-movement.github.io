@@ -53,7 +53,7 @@ Ce qui était distinctif, c'est que le logiciel lui-même se composait d'une mac
 
 * Initiale : fonctionne sous Windows 95/98. Il était léger et disposait d'un écran d'édition de motifs de type tracker et d'une vue modulaire (Machine View).
 * Écosystème de plug-ins : Depuis le début du développement, il existe une spécification « Buzzlib » qui permet aux utilisateurs de créer et de distribuer librement des sources sonores et des effets, et de nombreuses machines sont apparues au sein de la communauté.
-* Mise à niveau de la version : le développement officiel a été temporairement bloqué (en raison de la perte du code source), mais il a été annoncé en juin 2008 que le développement reprendrait.
+* Mise à niveau de la version : bien que le développement officiel ait été temporairement bloqué (en raison de la perte du code source), il a été annoncé en juin 2008 que le développement reprendrait.
 *Dernière build : Build 1503 publiée le 16 janvier 2016.
 
 ### Signification/arrière-plan du nom
@@ -63,7 +63,7 @@ Ce qui était distinctif, c'est que le logiciel lui-même se composait d'une mac
 ### Pourquoi « modulaire + tracker » était révolutionnaire
 
 * Conventionnellement, la méthode traditionnelle des trackers consistait à séquencer les échantillons dans un format de défilement vertical, et le routage des sources sonores et des effets était fixe/limité. Buzz a élargi ce concept pour inclure un concept de « câble de brassage », permettant aux utilisateurs de créer leurs propres circuits tels que « source sonore -> filtre -> effet -> sortie ».
-* De plus, il était léger et ses paramètres pouvaient être manipulés en temps réel, ce qui en faisait une base populaire pour créer des œuvres sonores expérimentales.
+* De plus, il était léger et ses paramètres pouvaient être manipulés en temps réel, ce qui en faisait une plateforme populaire pour créer des œuvres sonores expérimentales.
 * L'esprit ouvert de la distribution gratuite et de l'extensibilité des utilisateurs a encouragé les créateurs individuels à créer une culture de « modification de leurs propres sons pour les créer/partager ».
 
 De cette manière, Buzz a joué à l’époque un rôle hérétique et novateur en « réalisant un environnement modulaire sur PC ».
@@ -76,7 +76,7 @@ Dans ce chapitre, nous analyserons en détail « ce qui était technologiquement
 
 ### 3.1 Les sources sonores et les effets peuvent être gérés dans des unités « machine »
 
-Buzz dispose d'une machine « Générateur » qui crée du son et d'une machine « Effet » qui traite le son, et les utilisateurs peuvent les organiser et les connecter sur la « Vue Machine ».
+Buzz dispose d'une machine « Générateur » qui produit du son et d'une machine « Effet » qui traite le son, et les utilisateurs peuvent les organiser et les connecter sur la « Vue Machine ».
 Par exemple, j'ai pu visualiser et construire un flux machine de génération de forme d'onde (Oscillateur)/machine d'échantillonnage (Sampler) → filtre → enveloppe/LFO → réverbération/délai → sortie.
 Cette configuration permet un « routage libre » rarement vu dans les trackers/séquenceurs conventionnels.
 
@@ -92,7 +92,7 @@ Cela a conduit aux tendances suivantes :
 
 * Les développeurs individuels publient des sources/effets sonores, et vous pouvez profiter de nouveaux sons/traitements simplement en les téléchargeant et en les incorporant.
 * Les utilisateurs ont commencé à relever le défi de « jusqu'où ils pouvaient créer des circuits » et « jusqu'où ils pouvaient obtenir des sons expérimentaux ».
-* Il y a eu une augmentation du nombre de cas dans lesquels des personnes créant des œuvres expérimentales qui traversent les genres musicaux choisissent Buzz comme « outil ».
+* Les personnes qui créent des œuvres expérimentales qui traversent les genres musicaux choisissent de plus en plus Buzz comme « outil ».
 
 ### 3.4 Léger, immédiat et supérieur en tant qu'environnement expérimental
 
@@ -112,7 +112,7 @@ Cela a rendu courant le téléchargement de la machine de quelqu'un d'autre et l
 
 ### 4.2 Relation profonde avec la démoscène
 
-Buzz a gagné en popularité dans la démoscène (culture expérimentale non commerciale de l'art informatique/de la musique), principalement en Europe du Nord et de l'Est. La légèreté, l'évolutivité et la possibilité de patch de Buzz étaient parfaites pour la scène de démonstration, où la compétition consistait à voir combien de sons et d'images uniques pouvaient être produits en utilisant le moins de ressources possible.
+Buzz a gagné en popularité dans la démoscène (culture expérimentale non commerciale de l'art informatique/de la musique), principalement en Europe du Nord et de l'Est. La légèreté, l'évolutivité et la possibilité de patch de Buzz étaient parfaites pour la scène des démos, où la compétition consistait à voir combien de sons et d'images uniques pouvaient être produits avec le moins de ressources possible.
 Pour cette raison, le style de « création de vos propres sources sonores et création de motifs » sur Buzz a été soutenu par de nombreux créateurs de démos/indépendants.
 
 ### 4.3 Création d'un forum/tutoriel en ligne
@@ -157,7 +157,7 @@ Ainsi, les premières œuvres de Holden ont un langage sonore hautement compatib
 
 ### 5.2 Utilisation possible mentionnée : Aphex Twin
 
-Concernant Aphex Twin (de son vrai nom Richard D. James), aucun document primaire solide (interviews officielles, etc.) n'a été trouvé indiquant qu'il "a utilisé Buzz", et il n'y a que des mentions de "il a utilisé/pourrait utiliser Buzz" dans les messages du forum et les témoignages d'utilisateurs. Par exemple, sur le forum KVR, un utilisateur a déclaré : "...mon tracker préféré est Jeskola Buzz...", suggérant qu'AFX (Aphex Twin) utilise peut-être un logiciel de tracker.
+Concernant Aphex Twin (de son vrai nom Richard D. James), aucun document primaire fiable (interviews officielles, etc.) n'a été trouvé indiquant qu'il "a utilisé Buzz", et il n'y a que des mentions de "il a utilisé/pourrait utiliser Buzz" dans les messages du forum et les témoignages d'utilisateurs. Par exemple, sur le forum KVR, un utilisateur a déclaré : "...mon tracker préféré est Jeskola Buzz...", suggérant qu'AFX (Aphex Twin) utilise peut-être un logiciel de tracker.
 Également indiqué dans le fil HackerNews :
 
 > "Le flux de travail productif rapide de Jeskola Buzz de l'époque me manque toujours. Synthé logiciel modulaire + tracker avec séquençage de motifs. "
@@ -239,7 +239,7 @@ Buzz était bien plus qu’un simple logiciel. Il s'agissait d'un « outil qui e
 
 Aujourd’hui, nous vivons à l’ère des DAW hautes performances, du partage dans le cloud et de l’intégration logiciel/matériel, mais à la base de tout cela se trouve l’idée « légère, gratuite et évolutive » que Buzz a encouragée, et dans une certaine mesure, nous avons hérité des mêmes gènes.
 
-En d’autres termes, l’existence de Buzz a brisé le stéréotype selon lequel « on ne peut pas commencer à jouer de la musique parce qu’on n’a pas l’équipement » et a ouvert la porte à « tant qu’on a une idée et une curiosité, on peut explorer les sons avec juste un PC à la maison ». Cette porte continue d’être l’une des « entrées » pour de nombreux créateurs.
+En d'autres termes, l'existence de Buzz a brisé le stéréotype selon lequel « on ne peut pas commencer à jouer de la musique parce qu'on n'a pas l'équipement » et a ouvert la porte à « tant qu'on a une idée et une curiosité, on peut explorer les sons avec juste un PC à la maison ». Cette porte continue d'être l'une des « entrées » pour de nombreux créateurs.
 
 ---
 
@@ -280,7 +280,7 @@ flowchart LR
 **Explication**:
 
 * A : Source sonore (génération de forme d'onde ou échantillonneur)
-* B : Filtre (passe-haut/passe-bas)
+* B : filtre (passe-haut/passe-bas)
 * C : Enveloppe/LFO (changement d'heure/changement de période)
 * D : Retard (traitement spatial/temporel)
 * E : Reverb (espace de réverbération)

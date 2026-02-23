@@ -117,7 +117,7 @@ En Europe, en Amérique et en Asie, des morceaux échantillonnant les chansons d
 Les producteurs coréens Night Tempo et American Macross 82-99 sont des pionniers.
 Ils jouent des chansons de Showa sous le nom de "Future Funk" et ont enregistré des millions de vues sur YouTube.
 
-En outre, il existe une tendance croissante des groupes et artistes occidentaux à produire des chansons de style « City Pop ».
+En outre, les groupes et artistes occidentaux ont de plus en plus tendance à produire des chansons de style « City Pop ».
 Les exemples incluent Vendredi Sur Mer en France, Eyedress en Amérique et Phum Viphurit en Thaïlande.
 
 De cette manière, les chansons Showa ont acquis « l'universalité en tant que matériau » et sont reproduites culturellement à plusieurs reprises.
@@ -164,7 +164,7 @@ Même si l’ère Showa est désormais lointaine, elle continue de se rejouer da
 | années 1950 | Formation des chansons pop d'après-guerre, apparition de Hibari Misora ​​​​et Chiemi Eri | Fondation pour le partage des émotions entre les masses |
 | années 1970 | Nouvelle musique et âge d'or des idoles | Yumi Matsutoya, Momoe Yamaguchi, bonbons |
 | années 1980 | Maturité pop urbaine | Tatsuro Yamashita, Eiichi Otaki, Mariya Takeuchi |
-| Années 2010 | Découvrez l'étranger avec YouTube et connectez-vous à la culture vaporwave | Miki Matsubara réévalue |
+| Années 2010 | Découvrez à l'étranger avec YouTube et connectez-vous à la culture vaporwave | Réévaluation de Miki Matsubara |
 | Années 2020 | Boom mondial via TikTok et Spotify | « Showa Retro » relancé, naissance de la musique AI Showa |
 
 ---

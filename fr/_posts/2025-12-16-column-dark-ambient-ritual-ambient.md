@@ -29,7 +29,7 @@ Les éléments d’identification de la musique, tels que la mesure, la mélodie
 * Réverbération spatiale
 *Source sonore inconnue
 
-Ritual Ambient se distingue par le fait qu'il utilise cette méthode de type Dark Ambient tout en introduisant une « structure progressive » claire. Le ritualisme ne s’établit pas à travers des symboles, mais à travers la conception de l’agencement des sons et de leur durée.
+Ritual Ambient se distingue par le fait qu'il utilise cette méthode de type Dark Ambient tout en introduisant une « structure progressive » claire. Le ritualisme s'établit non pas à travers des symboles, mais à travers l'agencement des sons et la conception de leur durée.
 
 
 ---
@@ -54,9 +54,9 @@ De la fin des années 1970 aux années 1980, les gens autour de la musique indus
 
 * Utilisation de sons d'usine, de sons médicaux et de sons environnementaux
 * Conception de fréquence en gardant à l'esprit l'inconfort
-* Refus de répéter ou d'élargir
+* Refus de répéter ou de développer
 
-Ces tentatives ont abouti à une « musique qui ne peut pas être entendue » et ont jeté les bases du son immersif auquel aspirait plus tard Dark Ambient.
+Ces tentatives ont abouti à une « musique qui ne peut pas être entendue » et ont jeté les bases du son immersif recherché plus tard par Dark Ambient.
 
 ---
 
@@ -79,7 +79,7 @@ Grâce à cette méthodologie, la musique est présentée comme un état d’êt
 
 ### 4.1 Déséquilibre des bandes de fréquences
 
-Le design, centré autour de la limite inférieure de la plage audible, crée une perception accompagnée d'une sensation physique de vibration.
+Le design, centré autour de la limite inférieure de la plage audible, crée une perception accompagnée d'une sensation vibratoire physique.
 
 ### 4.2 Gestion de l'enregistrement spatial
 
@@ -239,7 +239,7 @@ Bien que le nombre produit soit limité, il conserve sa valeur de référence.
 
 Lustmord et Raison d’être sont les références qui ont établi la méthodologie Dark Ambient / Ritual Ambient.
 
-Leur influence n'est pas une imitation musicale ;
+Leur influence n’est pas une imitation musicale ;
 
 * Conception d'espace
 * Manipulation perceptuelle

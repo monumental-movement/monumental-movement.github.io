@@ -155,4 +155,12 @@ De nos jours, il y a une réévaluation parmi la génération Z et les festivals
 Le punk et le hardcore ne sont pas seulement des genres musicaux. Il s'agit plutôt d'une expression de la philosophie « avoir sa propre voix », et c'est un médium qui l'exprime à travers le son, le corps et le groupe.
 Ce que ces deux tendances nous demandent n’est pas seulement de la destruction, mais peut-être une ligne directrice pour l’avenir : « À quoi devons-nous résister et que devons-nous créer ? »
 
+---
 
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DaMyCkV5tyk?si=r9sVuMm3thxSfIJq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

@@ -225,6 +225,15 @@ Bien qu’il ne soit pas aussi performant que le numérique en termes de bande d
 
 <hr>
 
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h6WsoClO0FE?si=L3FtaPU36N2_iSLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ### Liste
 
 <div class="table-border">

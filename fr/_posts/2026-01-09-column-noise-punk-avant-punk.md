@@ -46,7 +46,7 @@ color: #fff;
 
 ## Punk après Punk : effondrement des conditions préalables
 
-Vers 1977, le punk se répand rapidement et en même temps se formalise rapidement. 3 accords, chansons courtes, attitude agressive. Ils sont rapidement devenus un style et ont commencé à être reproduits. Le noise punk/avant punk est né d’un fort sentiment de malaise face à cette situation.
+Vers 1977, le punk se répand rapidement et en même temps se formalise rapidement. 3 accords, chansons courtes, attitude agressive. Ils sont rapidement devenus un style et ont commencé à être reproduits. Le noise punk/avan punk est né d’un fort sentiment de malaise face à cette situation.
 
 Le problème pour eux était que le rock était une fois de plus réduit à une « musique facile à comprendre ». La rébellion devient un symbole et la dissidence devient à la mode. Afin de rejeter le processus lui-même, la musique s’est intentionnellement orientée dans une direction incompréhensible.
 
@@ -70,7 +70,7 @@ Cette structure n'est pas accidentelle, mais intentionnelle. Je ne comprends pas
 
 ## New York et l'ADN : la performance comme déconstruction
 
-DNA était un groupe actif à New York à la fin des années 1970 et était un membre clé du mouvement dit no wave. Leur musique est structurée de telle manière qu'elle déconstruit tous les éléments fondamentaux du rock.
+DNA était un groupe actif à New York à la fin des années 1970 et était un membre central du mouvement dit no wave. Leur musique est structurée de telle manière qu'elle déconstruit tous les éléments fondamentaux du rock.
 
 La guitare ne forme pas d'accords, mais émet des notes isolées ou des bruits irréguliers. La basse et la batterie ne partagent pas un rythme et la performance est toujours au bord de l'effondrement. Le chant rejette la mélodie et se libère sous forme de mots et de cris fragmentés.
 

@@ -27,7 +27,7 @@ title: '[Chronique] Company Flow : L''horizon du hip-hop alternatif ouvert par l
 
 Texte : mmr｜Thème : De la formation à la dissolution de Company Flow, analyse de l'œuvre, structure solide, histoire des membres, signification historique
 
-À New York, à la fin des années 1990, alors que le hip-hop devenait une immense industrie commerciale, une énergie réactionnaire underground tourbillonnait autour de lui.
+À New York, à la fin des années 1990, le hip-hop était en train de devenir une énorme industrie commerciale, et en même temps, une énergie réactionnaire underground tourbillonnait autour d’elle.
 Les grands groupes de musique dirigés par Bad Boy Records élargissaient leurs sons scintillants, mais du côté de la rue, un nombre croissant d'artistes recherchaient un style d'expression plus rigide et politiquement chargé.
 
 **Company Flow** était au centre de cette démarche.
@@ -72,7 +72,7 @@ Ensuite, **M. Len** a rejoint le groupe en tant que DJ, complétant ainsi la str
 # Chapitre 2 : Les premières activités de Company Flow et son esprit indépendant (1993-1995)
 
 Après avoir formé l'unité, ils n'avaient plus d'aspirations majeures,
-**Nous avons sorti de la musique à notre rythme et maintenu une attitude de protection farouche de l'autonomie des artistes**.
+**Nous avons sorti de la musique à notre rythme et avons maintenu une attitude de protection farouche de l'autonomie des artistes**.
 
 Un symbole en est le lancement de leur propre label indépendant **Official Recordings**.
 
@@ -80,7 +80,7 @@ En 1995, Company Flow était le premier single de 12 pouces du label.
 **"Techniques juvéniles"** sorti.
 
 Ce single est devenu un sujet brûlant parmi les auditeurs underground de New York à l'époque.
-Ce fut l’occasion pour leur nom de se répandre rapidement.
+Ce fut l'occasion pour leur nom de se répandre rapidement.
 
 ---
 
@@ -232,7 +232,7 @@ Il est composé de métaphores élaborées et d'expressions abstraites.
 * Des contenus qui symbolisent le hip-hop underground de la fin des années 90
 * De nombreux éléments prototypes des œuvres ultérieures de Def Jux (Cannibal Ox, etc.) peuvent être vus.
 
-On dit que « Funcrusher Plus » a établi une « idéologie underground » autour de cette chanson.
+On dit que « Funcrusher Plus » a établi « l'underground comme idéologie » autour de cette chanson.
 
 ---
 

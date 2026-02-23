@@ -153,7 +153,7 @@ Comme le symbolisent les Berlinois Berghain et Tresor, l'espace club et le son s
 
 - Réinterprétation d'éléments industriels et EBM
 
-- La techno mélodique et la techno profonde gagnent un soutien mondial
+- La techno mélodique et la deep techno gagnent un soutien mondial
 
 **Artistes représentatifs** : Ben Klock, Marcel Dettmann, Nina Kraviz (basée à Berlin), Stephan Bodzin.
 
@@ -175,7 +175,7 @@ Comme le symbolisent les Berlinois Berghain et Tresor, l'espace club et le son s
 
 **Tendance** : tout en héritant de la froideur typique de la « techno allemande » du passé, elle a évolué avec l'ajout d'expression émotionnelle et de production visuelle.
 
-Si vous comparez les chansons par décennie, vous pouvez voir un cycle de « Industriel et froid → Minimalisation → Durcissement → Mélodicisation → Réindustrialisation »**.
+Si vous comparez les chansons par décennie, vous pouvez voir un cycle « industriel et froid → minimalisation → dureté → mélodicisation → réindustrialisation »**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t6oPQFIWcV0?si=NRKnyUWxI2vIXS1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -187,6 +187,16 @@ La techno allemande d'aujourd'hui a beaucoup évolué, passant de tendances dure
 
 En conclusion, la Techno allemande est à la fois un produit culturel du passé et un terrain d’essai pour l’avenir du design sonore.
 Ecouter ses œuvres tout en retraçant leur histoire n’est rien d’autre que comprendre le dynamisme de la musique, où s’entremêlent villes et humains, machines et émotions.
+
+
+---
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vGhjoN-y5IQ?si=kyE9hG3WPAYoTPS3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ---
 

@@ -223,3 +223,12 @@ flowchart TD
 > « Le bruit n'est pas la tombe de la musique, mais la renaissance de la musique. »
 
 ---
+
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OHrRAoQRlxw?si=Upnz8v8jY-ZEl3GV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

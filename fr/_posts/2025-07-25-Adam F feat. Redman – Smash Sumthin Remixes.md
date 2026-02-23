@@ -15,7 +15,7 @@ title: Adam F feat. Redman – Smash Sumthin (Remixes)
 
 Un remix du single "Smash Sumthin" (2001) du producteur drum'n'bass/hip-hop Adam F, sorti en 2002 sur le label Kaos Recordings.
 
-A est un remix du DJ et producteur britannique Roni Size, devenu célèbre en 1997 en tant que fondateur et leader du groupe de drum and bass Roni Size & Reprazent.
+A est un remix du DJ et producteur britannique Roni Size, devenu célèbre en tant que fondateur et leader du groupe de drum and bass Roni Size & Reprazent en 1997.
 
 B est un remix de Bad Company (Bad Company UK/BC), un groupe de drum and bass britannique actif depuis 1998.
 

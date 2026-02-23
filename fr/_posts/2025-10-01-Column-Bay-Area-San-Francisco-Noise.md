@@ -98,7 +98,7 @@ La Bay Area abrite des festivals indépendants comme Noise Pop et des communaut�
 
 * [**Matmos**](https://amzn.to/43iSp60) — サンプリング／コンセプチュアルな作品で国際的評価を受けたデュオ。現代音楽や美術館とも接続する。
 
-* **Réseau local d'improvisation/bruit** — Des communautés comme Bay Improviser entretiennent et mettent à jour le domaine.
+* **Réseau d'improvisation/bruit local** — Des communautés comme Bay Improviser entretiennent et mettent à jour le domaine.
 
 ---
 

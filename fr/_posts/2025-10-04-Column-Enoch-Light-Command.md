@@ -55,7 +55,7 @@ Les notes de doublure et les promotions de Stereo 35/MM utilisaient des phrases 
 
 - **Le conflit entre le commerce et l'art**
 
-La qualité sonore, proche de celle d'une version « de démonstration », a été saluée par les audiophiles, mais certains ont remis en question son universalité en tant que chanson pop. Malgré cela, il y a eu quelques succès sur Chart (comme Stereo 35/MM), et Wright était l'un des rares producteurs à pouvoir rendre « l'attrait technique » commercialement viable.
+La qualité sonore, proche de celle d'une version « de démonstration », a été saluée par les audiophiles, mais certains ont remis en question son universalité en tant que chanson pop. Malgré cela, il y a eu quelques succès sur Chart (Stereo 35/MM, etc.), et Wright était l'un des rares producteurs à pouvoir rendre « l'attrait technique » commercialement viable.
 
 ---
 
@@ -150,7 +150,7 @@ Guitariste de jazz/studio américain (1918-2004)
 
 Il a participé activement à des sessions pour l'Orchestre NBC et à des programmes télévisés et a été l'un des guitaristes les plus occupés de New York des années 1950 aux années 1970.
 
-Il se produit dans un large éventail de genres, y compris non seulement le jazz, mais aussi la musique easy listening, latine, pop et de film.
+Il se produit dans un large éventail de genres, y compris non seulement le jazz, mais aussi la musique facile à écouter, la musique latine, la pop et la musique de film.
 
 ---
 
@@ -185,7 +185,7 @@ Il était chargé de mener des expériences de localisation de guitare dans la s
 
 - **Sortie d'un album solo**
 
-Command a développé la série "Roman Guitar", rendant la musique latine et italienne haute-fidélité. C’est devenu un chef-d’œuvre mondialement connu.
+Command a développé la série "Roman Guitar", rendant la musique latine et italienne haute-fidélité. C’est devenu un chef-d’œuvre connu dans le monde entier.
 
 - **Rôle dans les expériences acoustiques**
 

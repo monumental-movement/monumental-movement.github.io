@@ -44,21 +44,21 @@ color: #fff;
 
 ## Chapitre 1 Le rêve américain et la naissance de la musique fast food (années 1970-1980)
 
-### 1-1 Chanter « hamburger = bonheur » : la première publicité de McDonald's
+### 1-1 Chanter « hamburger = bonheur » : la première publicité de McDonald's
 "You Deserve a Break Today" a été produit en 1971 par l'agence de publicité américaine **DDB (Doyle Dane Bernbach)**.
 Composé par Sid Woloshin, paroles de Dan Kallis.
 Il avait une sensation édifiante semblable à une comédie musicale et symbolisait McDonald's comme une « guérison » dans une société de consommation.
 
 > ♪ « Vous méritez une pause aujourd'hui, alors levez-vous et partez chez McDonald's ! »
 
-Cette chanson fut un succès inhabituel, se vendant en single aux États-Unis et entrant dans les charts radiophoniques.
+Cette chanson a été vendue en single aux États-Unis et a connu un succès inhabituel, entrant dans les charts radiophoniques.
 C’était la première fois que les publicités de restauration rapide entraient dans le domaine de la musique pop.
 
 ### 1-2 Lien avec l'industrie musicale : de la publicité aux chansons à succès
 "Menu Song" de 1979 consistait en une narration de style funk et rap et était un précurseur des publicités hip-hop ultérieures.
 
 ### 1-3　Stratégie musicale après l'atterrissage au Japon : introduction de la pop urbaine
-La série "Rendons-nous chez McDonald's" de 1983 a été composée par le compositeur **Kazuo Otani**.
+La série « Rendons-nous chez McDonald's » de 1983 a été composée par le compositeur **Kazuo Otani**.
 Caractérisé par des progressions d'accords de type AOR et des sonorités Fender Rhodes, il était exprimé comme « la vie américaine = le désir de la ville ».
 
 ---

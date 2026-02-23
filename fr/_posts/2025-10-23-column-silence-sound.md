@@ -100,7 +100,7 @@ C'est aussi une attitude éthique d'ouverture aux autres.
 
 Dans le domaine de la musicothérapie, « l'écoute des sons » est souvent combinée à une formation à « l'acceptation des autres ».
 Le sociologue James Calhoun souligne également que « le silence dans les espaces publics est en train de disparaître ».
-Jouer constamment de la musique de fond, flux constant d’informations.
+Jouer constamment de la musique de fond, flux constant d'informations.
 Avons-nous peur du « temps sans son » ?
 
 Retrouver le silence, c’est aussi retrouver la capacité d’écouter de la musique.
@@ -135,7 +135,7 @@ graph TD
 </div>
 
 Comme le montre ce diagramme, « écouter » n'est pas un acte passif, mais un acte créatif.
-Le silence ne fonctionne pas comme un espace pour jouer de la musique, mais comme un espace de réflexion et d’empathie.
+Le silence ne fonctionne pas comme un « espace » pour jouer de la musique, mais comme un espace de réflexion et d’empathie.
 
 ---
 
@@ -146,7 +146,7 @@ Surcharge d'informations, plaisir instantané et sélection musicale algorithmiq
 Dans ce contexte, l'écoute devient une sorte d'exercice d'**écoute lente**.
 
 Quand on retrouve le verbe « écouter »,
-La musique nous connecte à nouveau au monde.
+La musique nous connecte à nouveau avec le monde.
 
 ---
 

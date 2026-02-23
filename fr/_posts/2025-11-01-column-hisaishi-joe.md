@@ -100,7 +100,7 @@ Il y a une tentative d'intégrer les idées de musique minimale dans un contexte
 « Mon voisin Totoro » est un exemple des œuvres de Hayao Miyazaki dans lesquelles la musique est étroitement liée à l'histoire.
 Hisaishi a créé un son chaleureux centré autour du piano, des bois et des cordes.
 
-Les chansons représentatives « Sanpo » et « Kaze no Torimichi » contiennent une légère mélancolie dans la gaieté des comptines.
+Les chansons représentatives "Sanpo" et "Kaze no Torimichi" contiennent une légère mélancolie dans la gaieté des comptines.
 Le « temps des enfants » s’exprime à travers le son.
 
 Grâce à ce travail, Hisaishi est devenu largement reconnu comme un « compositeur qui exprime des émotions à travers le son ».
@@ -138,7 +138,7 @@ Cette année-là, Hisaishi compose également la musique de « HANA-BI » de Tak
 ## Chapitre 9 : Le Voyage de Chihiro (2001) – Établir une réputation mondiale
 
 En 2001, Spirited Away du Studio Ghibli est sorti et la musique d'Hisaishi a attiré l'attention internationale.
-La chanson thème «Always Again and Again» (composée par Joe Hisaishi, chantée par Yumi Kimura) a remporté le prix de la meilleure musique lors de la 25e cérémonie des Japan Academy Awards.
+La chanson thème « Itsou Dogode » (composée par Joe Hisaishi, chantée par Yumi Kimura) a remporté le prix de la meilleure musique lors de la 25e cérémonie des Japan Academy Awards.
 
 La musique se caractérise par la clarté de la mélodie et la beauté du « ma », qui rehausse la fantaisie de l'histoire.
 Cette œuvre a remporté l'Oscar du meilleur long métrage d'animation en 2003 et le nom d'Hisaishi s'est répandu dans le monde entier.
@@ -159,7 +159,7 @@ Tout au long de ces œuvres, la musique d'Hisaishi devient un élément qui rég
 
 ## Chapitre 11 : « Comment vis-tu ? » (2023) - Abstraction sonore et nouveaux défis
 
-Comment vivez-vous ?, qui sortira en 2023, est le premier long métrage du réalisateur Hayao Miyazaki depuis 10 ans.
+Comment vivez-vous, qui sortira en 2023, est le premier long métrage du réalisateur Hayao Miyazaki depuis 10 ans.
 Joe Hisaishi était à nouveau en charge de la musique.
 
 Cette œuvre utilise une structure sonore abstraite, mettant l'accent sur la résonance et la texture plutôt que sur la mélodie.
@@ -174,10 +174,10 @@ Cette œuvre est le dernier exemple du rapprochement continu d'Hisaishi entre la
 | Année | Titre | Directeur | Chanson thème/Chanson représentative | Remarques |
 |----|---------|------|----------------|------|
 | 1984 | Nausicaa de la Vallée du Vent | Hayao Miyazaki | « Légende du vent » | Première collaboration |
-| 1986 | Château dans le ciel | Hayao Miyazaki | « Mettez-vous » | Composition symphonique |
+| 1986 | Château dans le ciel | Hayao Miyazaki | « Enfilez-vous » | Composition symphonique |
 | 1988 | Mon voisin Totoro | Hayao Miyazaki | « Marche » et « Le chemin du vent » | Expression de l'enfance |
 | 1989 | Service de livraison de Kiki | Hayao Miyazaki | "Ville avec vue sur la mer" | Rythme urbain |
-| 1992 | Porco Rosso | Hayao Miyazaki | « Jours sans retour » | Valse nostalgique |
+| 1992 | Porco Rosso | Hayao Miyazaki | "Jours sans retour" | Valse nostalgique |
 | 1997 | Princesse Mononoké | Hayao Miyazaki | "Princesse Mononoké" | Fusion de chœur et d'orchestre |
 | 2001 | Le voyage de Chihiro | Hayao Miyazaki | « Toujours et encore » | Gagnant d'un Oscar |
 | 2004 | Le château ambulant de Howl | Hayao Miyazaki | "Le manège de la vie" | Structure de valse |
@@ -214,5 +214,13 @@ graph TD
     H --> I[君たちはどう生きるか]
 
 </div>
+
+---
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xUcNHHRBYcU?si=4S5ZfiBGFbrJNAqR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

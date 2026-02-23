@@ -11,8 +11,8 @@ tags:
 - 00s
 - 10s
 - 20s
-title: '[Chronique] Six entreprises qui ont façonné l''histoire des DAW : historique
-  technologique et stratégie de marché d''Apple / Avid / Steinberg / MOTU / Adobe'
+title: '[Chronique] Six entreprises qui ont façonné l''histoire des DAW : Apple /
+  Avid / Steinberg / MOTU / Adobe, histoire technologique et stratégie de marché'
 ---
 
 
@@ -143,7 +143,7 @@ Une répartition des rôles a été établie.
 
 ---
 
-## 4. Début des années 2000 : Deux acquisitions ont changé l'histoire du DAW
+## 4. Début des années 2000 : deux acquisitions ont changé l'histoire du DAW
 
 À ce stade, une « acquisition d’entreprise » qui a changé l’histoire de manière décisive s’est produite.
 
@@ -226,7 +226,7 @@ Au cours de cette période, les DAW sont devenus courants avec le **traitement n
 ### ■ Steinberg, MOTU et Adobe continuent également à mettre à jour
 
 *Steinberg a mis à jour son moteur VST3.
-* MOTU passe à un flux de travail moderne avec DP9/10
+*MOTU passe à un flux de travail moderne avec DP9/10
 * La pénétration d'Adobe Audition est due à la demande croissante de podcasts
 
 À cette époque, le mot « DAW » était devenu tout à fait courant,
@@ -278,7 +278,7 @@ Les six sociétés qui soutiennent l’histoire de DAW ont une répartition clai
 | **Steinberg** | Standardisation (VST)/DAW complète | Base technologique qui a influencé tous les DAW |
 | **MOTU** | Synchronisation vidéo/composition d'accompagnement | Norme de musique de film |
 | **Adobe** | Diffusion, montage et distribution | Pour la production vidéo avec intégration Premiere |
-| **émagique / Digidesign** | Origines avant acquisition | Utilisation exclusive/formation de la base du son du film sur Mac |
+| **émagique / Digidesign** | Origines avant acquisition | Utilisation exclusive de Mac/formation de la base du son du film |
 
 ---
 
@@ -307,7 +307,7 @@ timeline
 
 ---
 
-## 10. Conclusion : L'histoire de DAW est une histoire immense où se croisent « la stratégie d'entreprise x les normes techniques x les besoins du marché »
+## 10. Conclusion : L'histoire de DAW est une immense histoire où se croisent « stratégie d'entreprise x normes techniques x besoins du marché »
 
 Apple a acquis emagic et Avid a intégré Digidesign.
 Le marché des DAW a considérablement changé selon l'axe **OS x production vidéo x infrastructure de studio**.
@@ -316,7 +316,7 @@ MOTU maîtrise la **synchronisation vidéo**,
 Adobe a créé son propre marché avec **l'intégration avec la diffusion et le montage vidéo**.
 
 Bien que les six sociétés soient en concurrence les unes avec les autres,
-En conséquence, ils ont façonné ensemble la culture même de la production musicale.
+En conséquence, ensemble, ils ont façonné la « culture de la production musicale elle-même ».
 
 Après 2025, édition IA, collaboration cloud, expansion de la production mobile, etc.
 L’avenir des DAW prendra une nouvelle dimension.

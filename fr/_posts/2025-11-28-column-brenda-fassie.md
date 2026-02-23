@@ -11,7 +11,7 @@ tags:
 - African
 - 80s
 - 90s
-title: '[Chronique] Brenda Fassie — La diva du township : un voyage de gloire et de
+title: '[Chronique] Brenda Fassie — La diva du township : un voyage de gloire et de
   lutte'
 ---
 
@@ -118,7 +118,7 @@ La mort de son amant en 1995 et le scandale qui en a résulté ont provoqué son
 
 Libéré en 1990, Black President avait une signification particulière dans le contexte du mouvement anti-apartheid, contenant un message de respect et d'espoir pour Nelson Mandela, alors prisonnier. Cette œuvre est importante en tant qu’exemple de la musique populaire devenue une plateforme d’expression politique.
 
-Les paroles de Brenda se mêlaient souvent à la vie du township, aux épreuves de la communauté noire et aux émotions personnelles, dans lesquelles les auditeurs trouvaient de l'empathie et de la catharsis. En tant que chanteuse, elle non seulement divertissait, mais servait également de voix sociale.
+Les paroles de Brenda se mêlaient souvent à la vie du township, aux épreuves de la communauté noire et aux émotions personnelles, dans lesquelles les auditeurs trouvaient empathie et catharsis. En tant que chanteuse, elle non seulement divertissait, mais servait également de voix sociale.
 
 ---
 
@@ -126,11 +126,11 @@ Les paroles de Brenda se mêlaient souvent à la vie du township, aux épreuves 
 
 Depuis 1996, elle concentre ses efforts sur la production musicale, remportant un succès commercial avec plusieurs albums. Des œuvres telles que Memeza et Nomakanjani, en particulier, ont connu un énorme succès et ont consolidé son statut à la fin des années 1990.
 
-Dans les œuvres de cette période, vous pouvez entendre les expressions vocales de Brenda devenir plus matures, même si elle incorpore du kwaito et des rythmes de danse. Leur charisme sur scène, leur participation habile du public et leur sophistication de production lors de l'enregistrement leur ont une fois de plus valu un large soutien.
+Dans les œuvres de cette période, vous pouvez entendre les expressions vocales de Brenda devenir plus matures, même si elle incorpore du kwaito et des rythmes de danse. Leur charisme sur scène, l'implication habile du public et la sophistication de la production lors de l'enregistrement leur ont une fois de plus valu un large soutien.
 
 ---
 
-# 8. Voix et corps : présence scénique et technique de chant
+#8. Voix et corps : présence scénique et technique de chant
 
 Le charme de Brenda réside dans la qualité de sa voix elle-même. Ses armes étaient un médium épais et ferme, une expressivité alliant puissance et lyrisme et une approche improvisée du rythme. La mise en scène impliquait souvent un dialogue avec le public et avait le pouvoir de l'unifier.
 
@@ -140,7 +140,7 @@ Les costumes de scène, les expressions faciales et la direction du spectacle fo
 
 # 9. Avant et après le décès et l'héritage
 
-En avril 2004, Brenda s'est effondrée chez elle et a été transportée à l'hôpital. Après plusieurs jours de traitement, il est décédé le 9 mai. Il y a eu plusieurs rapports sur la cause du décès, mais le rapport final indiquait que les crises d'asthme et les complications étaient des facteurs contributifs.
+En avril 2004, Brenda s'est effondrée chez elle et a été transportée à l'hôpital. Après plusieurs jours de traitement, il est décédé le 9 mai. Il y a eu plusieurs rapports sur la cause du décès, mais le rapport final indiquait que les crises d'asthme et les complications étaient un facteur contributif.
 
 Sa mort a provoqué un profond choc dans le monde de la musique sud-africaine, avec des hommages affluent du pays et de l'étranger. Une compilation best-of posthume et une compilation rétrospective préservent la musique de Brenda pour des générations d'artistes et d'auditeurs. Dans certains cas, ses fils et étudiants en musique perpétuent son héritage.
 
@@ -151,8 +151,8 @@ Sa mort a provoqué un profond choc dans le monde de la musique sud-africaine, a
 ## Albums principaux
 
 * Premiers albums du groupe
-*Président noir
-* C'est le moment
+* Président noir
+*C'est le moment
 *Paparazzi
 *Mémeza
 * Nomakanjani

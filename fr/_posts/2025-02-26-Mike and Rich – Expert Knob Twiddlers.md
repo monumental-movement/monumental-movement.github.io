@@ -21,7 +21,7 @@ La chanson a été créée en quelques jours pendant la Coupe du Monde 1994 et s
 
 Décrit par Paradinas comme « une version mise à jour de l'easy listening et du funk », des mélodies rappelant la musique lounge des années 70 et la musique d'ascenseur sont fusionnées avec des rythmes déformés et les sons fantaisistes des synthés analogiques.
 
-Ces morceaux sont le résultat d'une fusion de l'expérimentation imprévisible d'Aphex Twin et de la structure mélodique de µ-Ziq, créant une aventure sonore qui va au-delà de la simple « musique écrite ».
+Ces morceaux sont le résultat d'une combinaison de l'expérimentation imprévisible d'Aphex Twin et de la structure mélodique de µ-Ziq, créant une aventure sonore qui va au-delà de la simple « musique écrite ».
 
 #### Liste des chansons
 ```md

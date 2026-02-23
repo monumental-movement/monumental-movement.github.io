@@ -25,7 +25,7 @@ Ian Pooley est né à Mayence, en Allemagne, en 1973. Ses parents étaient origi
 
 Dès le plus jeune âge, la musique noire comme le jazz, la soul et le funk était jouée à la maison plutôt que le rock. Très tôt, il a développé une oreille attentive non seulement à la dynamique rythmique, mais également aux progressions d'accords et aux intervalles d'interprétation. En particulier, les lignes de basse électrique et l'expansion spatiale créée par les accords sont devenues des bases importantes pour les productions ultérieures.
 
-À l'adolescence, il devient fortement attiré par la musique dance en plein essor à l'époque, comme le hip-hop, l'électro et l'acid house. Ce qui le fascinait ici n'était pas la qualité des stars ou les paroles, mais la « structure » du morceau lui-même. Pour Pooley, les changements subtils qui se produisent grâce à la répétition et à la plasticité de la musique réarrangée par les DJ présentent une nouvelle façon de voir la musique.
+À l'adolescence, il devient fortement attiré par la musique dance en plein essor à l'époque, comme le hip-hop, l'électro et l'acid house. Ce qui le fascinait ici n'était pas la qualité des stars ou les paroles, mais la « structure » du morceau lui-même. Pour Pooley, les changements infimes qui se produisent grâce à la répétition et la plasticité de la musique réarrangée par les DJ présentent une nouvelle façon de voir la musique.
 
 > Les racines musicales à plusieurs niveaux confèrent systématiquement une profondeur intellectuelle au travail de Ian Pooley.
 
@@ -66,7 +66,7 @@ C --> D[DJセット内での定着]
 
 ## Caractéristiques de la musicalité : conception de grooves, d'accords et de répétitions
 
-La musicalité d'Ian Pooley repose davantage sur la structure interne que sur le style superficiel. Le rythme à quatre sur le sol est d'une simplicité trompeuse, mais en dessous se cache une interaction complexe entre la ligne de basse, les accords et les percussions.
+La musicalité d'Ian Pooley repose davantage sur la structure interne que sur le style superficiel. Le rythme à quatre contre quatre est d'une simplicité trompeuse, mais en dessous se cache une interaction complexe entre la ligne de basse, les accords et les percussions.
 
 Ce qui est remarquable, c'est le travail du code. Bien qu’il utilise des harmonies qui donnent une impression de tension proche du jazz, il ne les met pas trop en avant. Les accords sont placés uniquement comme des éléments pour renforcer le groove, sans trop détourner l'attention de l'auditeur. Cette expression supprimée est très efficace lors de longs mixages DJ.
 
@@ -126,9 +126,9 @@ Les DJ ne « jouent » pas de chansons, ils les « arrangent ». Pooley a profon
 
 Les chansons de Pooley, en revanche, suppriment intentionnellement le pic de réaction. Cela a permis aux DJ de concevoir eux-mêmes la dynamique de l’ensemble du set, et les chansons sont devenues un matériau réutilisable encore et encore.
 
-### Rôle dans la culture des DJ house au Royaume-Uni
+### Rôle dans la culture house DJ britannique
 
-Pour les DJ house britanniques, les chansons de Pooley ont servi de plaque tournante inter-genres. Il peut être incorporé naturellement dans des décors deep house, tech house ou minimalistes, et sa flexibilité est très appréciée.
+Pour les DJ house britanniques, les chansons de Pooley ont servi de plaque tournante inter-genres. Il peut être intégré naturellement dans des décors deep house, tech house ou minimalistes, et sa flexibilité est très appréciée.
 
 Résultat : les camions de Pooley continuent de circuler tranquillement en dehors de la mode. C’est l’une des chansons les plus idéales de la culture DJ.
 

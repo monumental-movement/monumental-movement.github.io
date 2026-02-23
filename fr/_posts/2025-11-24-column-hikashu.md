@@ -24,7 +24,7 @@ Depuis leurs débuts en 1978, ils ont librement croisé des éléments tels que 
 
 Il est généralement connu pour ses performances bizarres et humoristiques centrées sur Koichi Makigami (voix, thérémine) et pour ses premiers succès techno tels que "At the End of the 20th Century". Cependant, la réalité est que son champ d’action est bien plus large et qu’il a toujours été impliqué dans les grandes lignes de l’histoire de la musique expérimentale japonaise.
 
-Dans cet article, nous analyserons les changements dans les activités de Hikashu au cours des 45 dernières années sous plusieurs angles, notamment le contexte historique, l'analyse musicale, l'expérience professionnelle et les changements dans la culture live.
+Dans cet article, nous analyserons les changements dans les activités de Hikashu au cours des 45 dernières années sous de multiples perspectives, notamment le contexte historique, l'analyse musicale, l'expérience professionnelle et les changements dans la culture live.
 
 ---
 
@@ -59,7 +59,7 @@ Cette diversité d'expériences a jeté les bases de Hikashu, non seulement un g
 En 1978, le « Hikashu » officiel a débuté.
 À peu près à la même époque, YMO fait ses débuts au Japon et le pont entre la musique électronique et la musique pop devient immédiatement visible. Cependant, Hikashu, tout en restant proche de cette tendance, développe une pop étrange qui ne s'écarte guère de la grammaire de la pop populaire.
 
-En particulier, les performances de 1979 à 1980 seraient plus que simplement leurs sons, mais plutôt leur « existence elle-même est avant-gardiste », et elles présentent les caractéristiques suivantes :
+En particulier, les performances de 1979 à 1980 sont considérées comme plus que leur son, mais plutôt comme « leur existence elle-même est avant-gardiste », et elles présentent les caractéristiques suivantes :
 
 - **Paroles absurdes**
 - **Également manipulation vocale acoustique** (chant harmonique, modulation d'expiration, syllabes dénuées de sens)
@@ -89,11 +89,11 @@ C'est le début d'une rupture avec le genre, et ne peut être catégorisé comme
 # 4. Expansion des activités de Koichi Makigami (fin des années 1980 – années 1990)
 —À la techno, à la musique folk, au thérémine et aux arts du spectacle
 
-Parallèlement aux activités du groupe, le leader Koichi Makigami élargit le champ de ses activités en mettant l'accent sur **l'expansion de la voix**.
+Parallèlement aux activités de groupe, le leader Koichi Makigami élargit le champ de ses activités en mettant l'accent sur **l'expansion de la voix**.
 
 - Exploration plus approfondie du chant diphonique
 - Collaboration avec la danse contemporaine
-- Connexion avec John Zorn (monde avant-gardiste de NY)
+- Connexion avec John Zorn (NY avant-garde mondiale)
 - A piloté le boom du thérémine à la fin des années 1990 et contribué à sa diffusion au Japon
 
 Hikashu lui-même a introduit des rythmes de musique ethnique, des gammes non occidentales et de la poésie abstraite, se transformant en « pop expérimentale de nationalité inconnue ».
@@ -222,7 +222,7 @@ Il ne suffit pas de parler simplement de Hikashu comme d’une « légende de la
 —L'« état » de Hikashu
 
 Hikashu est plus qu'un « groupe », c'est un terrain d'expérimentation du son, du corps et de l'humour.
-Même si plus de 45 ans se sont écoulés depuis leur formation, ils sont toujours apparus sur scène non pas pour revivre le passé, mais pour découvrir à nouveau le « présent ».
+Même si plus de 45 ans se sont écoulés depuis leur formation, ils sont toujours apparus sur scène non pas pour revivre le passé, mais pour découvrir à nouveau le « maintenant ».
 
 Cette attitude est d’une valeur unique dans l’histoire de la musique japonaise.
 Hikashu ne se termine jamais. Ils existent toujours comme un « État » permanent.

@@ -130,7 +130,7 @@ Il s'agit de son rituel d'auto-purification, indiquant que la musique est « une
 > ― *Prière III*, 1999
 
 Pour lui, Dieu n'était pas un « symbole de salut », mais une « existence qui donne des épreuves ».
-Sa foi n'est pas celle du pardon mais de la **foi dans la bataille**.
+Sa foi n'est pas une foi de pardon mais une **foi dans la bataille**.
 
 ---
 
@@ -148,7 +148,7 @@ Cette fois-là, ce n'était pas un divertissement, c'était une **cérémonie**.
 
 ### 3. Chaîne du droit et drogue
 
-A été arrêté des dizaines de fois. Cependant, cela est en grande partie le résultat d'une toxicomanie et d'un traumatisme émotionnel, et il dit lui-même : « Mon corps s'est brisé avant que mon esprit ne meure. »
+Il a été arrêté des dizaines de fois. Cependant, cela est en grande partie le résultat d'une toxicomanie et d'un traumatisme émotionnel, et il dit lui-même : « Mon corps s'est brisé avant que mon esprit ne meure. »
 
 ---
 
@@ -257,7 +257,7 @@ D -->|静寂| F[祈りの独白]
 
 ## Chapitre final : Prière d'aboiement
 
-La musique de DMX n'est pas un « témoignage de rue » mais un « disque de l'âme ».
+La musique de DMX n'est pas un « témoignage de la rue » mais un « disque de l'âme ».
 Ce cri est la vérité même de ceux qui ont vécu leur vie en s’accrochant à leur foi sans céder à la violence.
 
 > "Si tu es réel, tu vas le ressentir." -DMX

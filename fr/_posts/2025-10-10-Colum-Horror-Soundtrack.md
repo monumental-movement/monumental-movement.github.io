@@ -21,11 +21,11 @@ title: '[Chronique] Films d''horreur occidentaux et leurs bandes originales depu
 Texte : mmr｜Thème : De A24 à Blumhouse en passant par l'horreur de l'IA - démêler « l'horreur du son » qui domine les films d'horreur depuis les années 2010, tant du point de vue de l'histoire culturelle que de l'esthétique acoustique.
 
 Dans les années 2010, les films d’horreur se sont transformés en une forme d’art plus soucieuse du son que jamais.
-Les peurs de saut appartiennent au passé, et les basses fréquences, le bruit ambiant et les réverbérations sont désormais la principale source de peur.
+Les frayeurs liées aux sauts appartiennent au passé et, à la place, les basses fréquences, le bruit ambiant et les réverbérations dominent les frayeurs.
 Il s’agissait également d’une application de la découverte psychoacoustique selon laquelle l’audition affecte le psychisme profond plus directement que la vision.
 
 Les films d'horreur de cette époque non seulement suscitaient la peur, mais « érodaient » également le monde intérieur du public à travers le son.
-Au centre de ce changement se trouvaient une nouvelle génération de studios de production tels qu'A24 et Blumhouse.
+Au centre de ce changement se trouvait une nouvelle génération de studios de production tels que A24 et Blumhouse.
 
 ---
 
@@ -157,7 +157,7 @@ Mais c'est ce **son manquant** qui évoque le plus de peurs humaines.
 
 La musique générée par l’IA s’aventure déjà dans le domaine du son d’horreur.
 Utiliser l'apprentissage profond pour imiter les réactions de peur humaines,
-Il est désormais possible de générer des **sons étranges de la vallée** qui vous donnent l'impression que quelque chose ne va pas.
+Il est désormais possible de générer des **sons étranges de vallée** qui vous donnent l'impression que quelque chose ne va pas.
 
 Du son surround dans les salles de cinéma au son spatial dans les écouteurs──
 La peur ne se limite plus aux oreilles des individus.
@@ -167,7 +167,7 @@ La peur ne se limite plus aux oreilles des individus.
 ### Dernier chapitre : La peur est audible – la signification culturelle de l'audio d'horreur moderne
 
 Dans les films d’horreur depuis 2010, le son dépasse la simple présentation et devient un médium qui remet en question l’existence même du film.
-Le souffle de basse de Colin Stetson, la tension électronique de Disasterpeace, le rythme rituel de Bobby Krlic.
+Le souffle de basse de Colin Stetson, la tension électronique de Disasterpeace, le rythme rituel de Bobby Krlic...
 Toutes ces traductions sont des traductions acoustiques de la question « Qu'est-ce que la peur ? »
 
 Les sons de l’horreur résonnent avec l’anxiété sociale et la solitude individuelle.

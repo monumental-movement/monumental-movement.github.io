@@ -19,7 +19,7 @@ title: '[Chronique] Luke Slater : pionnier britannique de la techno et son unive
 
 Texte : mmr｜Thème : Luke Slater = Examen des pionniers de la techno britannique et de leur univers musical
 
-Luke Slater est un DJ/producteur techno originaire de Reading, dans le Berkshire, en Angleterre, qui a continué à diriger la scène mondiale depuis la fin des années 1980 jusqu'à nos jours.
+Luke Slater est un DJ/producteur techno originaire de Reading, dans le Berkshire, en Angleterre, qui a continué à diriger la scène mondiale depuis la fin des années 1980 jusqu'à aujourd'hui.
 Utilisant de nombreux alias tels que « Planetary Assault Systems », « The 7th Plain » et « LSD », il a développé un large éventail d'activités allant du hard minimal à la collaboration ambiante, électro et classique.
 
 ---
@@ -204,7 +204,7 @@ Sous son nom solo, il est connu pour un large éventail d'œuvres allant de la t
 
 **Position**
 
-Slater est acclamé comme un créateur flexible qui parcourt la scène, équilibrant la dureté de la techno avec une sensibilité pop.
+Slater est acclamé comme un créateur flexible qui traverse les scènes, alliant la dureté de la techno à une sensibilité pop.
 Il a jeté les bases de pseudonymes ultérieurs tels que Planetary Assault Systems et The 7th Plain.
 
 ---

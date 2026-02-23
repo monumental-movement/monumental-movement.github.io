@@ -45,7 +45,7 @@ color: #fff;
 
 ### Rave, un espace sans média
 
-** ● L'essence de la rave est « anti-média »**
+** ● L'essence du rave est « anti-média »**
 
 La culture rave des années 1990 (en particulier les raves underground au Royaume-Uni, en Allemagne, aux Pays-Bas et au Japon) évitait l'exposition et la documentation médiatiques.
 
@@ -79,7 +79,7 @@ Rave n’était pas une source sonore ou une partition, mais un phénomène en s
 
 ### Qui archive ? Détérioration des médias
 
-** ● Archives spontanées de l'underground **
+** ● Archives spontanées du métro **
 
 Depuis les années 2000, les tentatives suivantes ont commencé à travers le monde.
 

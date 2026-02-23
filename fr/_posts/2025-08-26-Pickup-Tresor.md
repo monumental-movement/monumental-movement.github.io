@@ -212,7 +212,7 @@ D2. Innervisions
 ### Chrislo – Faible
 <a href="https://jp.mercari.com/item/m45327854456?afid=6142608987"><img src="../assets/images/Chrislo%20%E2%80%93%20Low%EF%BC%88Tresor092%EF%BC%89.webp"></a>
 
-Présentation : L'un des artistes apparentés qui apparaît dans la section « Explorez davantage comme ceci » de la page de travail de Joey Beltram (The Rising Sun). Par Chrislo Haas, Trésor 092.
+Présentation : L'un des artistes associés qui apparaît dans la section « Explorez davantage comme ceci » de la page de travail de Joey Beltram (The Rising Sun). Par Chrislo Haas, Trésor 092.
 
 
 Point attractif : Il s'agit d'une œuvre solo de Chrislo Haas, connu pour son travail sous le nom de D.A.F. et Liaisons Dangereuses, et montre un lien fort avec la musique électronique expérimentale berlinoise.

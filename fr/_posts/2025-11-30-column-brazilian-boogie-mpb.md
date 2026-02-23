@@ -11,14 +11,14 @@ tags:
 - MPB
 - Rare Groove
 - 70s
-title: '[Chronique] Réévaluation du Boogie Brésilien / MPB Rare Groove'
+title: '[Chronique] Réévaluation du Boogie brésilien / MPB Rare Groove'
 ---
 
 
 
 ## Préface
 
-Texte : mmr｜Thème : Développement du Boogie et du MPB, artistes représentatifs et œuvres majeures, réévaluation à l'étranger et influence sur les temps modernes
+Texte : mmr｜Thème : Développement du Boogie et du MPB, artistes représentatifs et œuvres majeures, réévaluation à l'étranger et influence sur les temps modernes
 
 La scène musicale brésilienne de la fin des années 1970 au début des années 1980 a vu émerger une variété d’expressions au milieu de la répression politique et a été réévaluée dans le contexte du groove rare mondial. En particulier, **Brazilian Boogie** attire l'attention pour son style de musique urbaine et dansante qui intègre des éléments de funk, de soul et de disco tout en suivant le flux du MPB (Música Popular Brasileira).
 

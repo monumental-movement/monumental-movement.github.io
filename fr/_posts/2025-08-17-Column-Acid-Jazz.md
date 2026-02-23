@@ -18,7 +18,7 @@ title: '[Chronique] Acid Jazz : Une fusion de sons créée par la culture club e
 ## Qu’est-ce que l’Acid Jazz ?
 
 
-Texte : mmr｜Thème : Contexte social et géopolitique derrière Acid Jazz
+Texte : mmr｜Thème : Contexte social et géopolitique derrière l’Acid Jazz
 
 
 
@@ -108,7 +108,7 @@ La diffusion de l’Acid Jazz était également étroitement liée à la géopol
 
 #### Scène américaine
 
-L'Acid Jazz était perçu comme une « réimportation ». Aux États-Unis, le jazz funk et soul original des années 70 existait, c'est pourquoi le label « Acid Jazz » venu du Royaume-Uni semblait frais et a été adopté par les scènes des clubs de New York et de Chicago.
+L'Acid Jazz était perçu comme une « réimportation ». Aux États-Unis, le jazz funk et soul original des années 70 existait, c'est pourquoi le label « Acid Jazz » venu du Royaume-Uni semblait frais et a été adopté dans les scènes des clubs de New York et de Chicago.
 
 そして[ディー・ライト（Deee-Lite）](https://amzn.to/3W7JKj0)のように、ヒップホップとリンクしながら拡張。
 一方で、ヒップホップとの接点が強調され、[A Tribe Called Quest](https://amzn.to/4n1XXZO) や [Gang Starr](https://amzn.to/46QAJBa) のようなジャズ・ヒップホップへの橋渡し役を果たしました。
@@ -122,7 +122,7 @@ L'Acid Jazz était perçu comme une « réimportation ». Aux États-Unis, le ja
 
 日本は1980〜90年代に「クラブ・ジャズ」ムーブメントが盛り上がり、[United Future Organization (UFO)](https://amzn.to/4om4AXX) や [Kyoto Jazz Massive](https://amzn.to/3J3bJNV) などが Acid Jazz の流れを継承。
 
-Elle avait une affinité avec la culture de consommation de l’économie bulle et de la scène Shibuya, et est devenue un pont entre l’Europe et l’Asie.
+Il avait une affinité avec la culture de consommation de la période de bulle économique et de la scène Shibuya-kei, et est devenu un pont entre l'Europe et l'Asie.
 
 Il a progressivement été accepté dans des pays comme la Corée du Sud et Taiwan à partir de la fin des années 1990, à mesure que la culture des clubs se développait.
 
@@ -134,7 +134,7 @@ Il a progressivement été accepté dans des pays comme la Corée du Sud et Taiw
 
 #### Europe occidentale
 
-- **France/Allemagne** : En France, il a été intégré à la "Nouvelle Scène Jazz" et à la culture des clubs à Paris, et en Allemagne, il a été intégré à l'esprit expérimental des jazz/clubs centrés à Berlin-Ouest au moment de la réunification (1990).
+- **France/Allemagne** : En France, il a été intégré à la "Nouvelle Scène Jazz" et à la culture des clubs à Paris, et en Allemagne, il a été intégré à l'esprit expérimental des jazz/clubs centrés sur Berlin-Ouest au moment de la réunification (1990).
 
 - **Italie/Espagne** : Lié au tourisme, Acid Jazz s'impose dans la culture des stations et sur la scène des clubs. Particulièrement à Ibiza, il était mélangé à la house et aux Baléares.
 
@@ -179,7 +179,7 @@ L’acid jazz était bien plus qu’un simple genre musical ; c'était un symbol
 
 <hr>
 
-### Une cristallisation du son qui transforme la diversité et la sophistication urbaine en grooves
+### Une cristallisation du son qui transforme la diversité et la sophistication urbaines en grooves
 
 L'acid jazz est une « musique intellectuelle et dansante » née de la culture urbaine et de la scène club des années 1980 et 1990, et qui a redéfini la tradition du jazz dans la culture club. Cet esprit est toujours vivant dans le Nu-Jazz et les rythmes chill modernes, et ce n’était pas seulement une mode passagère, mais un carrefour important dans l’histoire de la musique.
 

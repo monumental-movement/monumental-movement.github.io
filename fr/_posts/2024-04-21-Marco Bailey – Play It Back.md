@@ -14,7 +14,7 @@ title: Marco Bailey – Rejouez-le
 ---
 
 
-Marco Bailey est un producteur et DJ belge. Il dirige le label PORNOGRAPHIC avec son propre label Session Recordings et Cristian Varela.
+Marco Bailey est un producteur et DJ belge. Il dirige son propre label Session Recordings et le label PORNOGRAPHIC avec Cristian Varela.
 
 En 2023, il fonde le label techno Elektronik Zoo Sounds.
 

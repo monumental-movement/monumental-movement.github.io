@@ -14,7 +14,7 @@ title: Marc Anthony – Tu m'as chanté
 
 "Tu m'as chanté"est une chanson du chanteur américain Marc Anthony qui a été incluse dans son quatrième album studio (1999). La chanson a été produite par Corey Rooney, qui a co-écrit la chanson avec Anthony. La chanson est une ballade romantique pop mi-tempo avec des éléments de latin, de R&B et de contemporain adulte, et les paroles racontent l'histoire d'un homme qui laisse sa partenaire partir alors qu'il est en relation avec une autre personne.
 
-Anthony a également enregistré une version espagnole de la chanson, intitulée "Muy Dentro de Mí", avec des contributions supplémentaires de Roberto Blais et Gaitanes sur les paroles.
+Anthony a également enregistré une version espagnole de la chanson, intitulée "Muy Dentro de Mí", avec des contributions supplémentaires de Roberto Blaze et Gaitanes sur les paroles.
 
 Les critiques musicaux ont évalué favorablement "You Sang to Me" lors de sa sortie, louant la voix d'Anthony et l'arrangement de la chanson. Anthony a remporté de nombreux prix, dont une nomination pour la meilleure performance vocale pop masculine aux 43e Grammy Awards annuels en 2001.
 

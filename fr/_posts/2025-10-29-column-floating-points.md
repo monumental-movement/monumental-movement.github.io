@@ -58,12 +58,12 @@ Ce n’est pas seulement une fusion, c’est un point de chaos observable.
 Dans "Crush", la pression sonore synthétisée et les rythmes jazz sont compressés à l'extrême.
 Le résultat est une forme improvisée d’énergie électronique.
 Dans la chanson titre "Falaise", la modulation algorithmique du filtre change en millisecondes,
-Le son circule presque comme un « phénomène physique de liquide ».
+Le son circule presque comme un « phénomène physique liquide ».
 
 Dans le studio de Shepherd, Ableton et Eurorack servent de modèles de réseaux neuronaux dans le cerveau.
 Chaque réglage du bouton est une expérience acoustique qui modifie la vitesse à laquelle les neurones se déclenchent.
 À ce stade, l’improvisation jazz ne devient plus une « performance d’une personne » mais une « réponse à un signal ».
-Il s'agit d'une « improvisation réalisée par une machine » et constitue également une forme pionnière du **jazz post-humain**.
+Il s'agit d'une « improvisation réalisée par une machine » et c'est aussi une forme pionnière du **jazz post-humain**.
 
 ---
 

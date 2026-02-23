@@ -14,12 +14,12 @@ title: '[Chronique] Interaction post-rock/ambient avec le cinéma et l''architec
 ---
 
 
-## Interaction avec le cinéma post-rock/ambiant et l'architecture
+## Interaction avec le cinéma et l'architecture post-rock/ambient
 
 Texte : mmr｜Thème : Post Rock/Ambient et films/architecture
 
 L'évolution du post-rock/ambient ne se limite pas à un seul genre musical, mais a une affinité avec l'art spatial tel que le **film, l'architecture et l'urbanisme**.
-Ici, en plus des chefs-d'œuvre historiques, nous organiserons des interactions avec des films et des expériences architecturales et ambiantes dans les espaces urbains.
+Ici, en plus des chefs-d'œuvre historiques, nous organiserons des interactions avec des films et de l'architecture et des expériences ambiantes dans les espaces urbains.
 
 ---
 
@@ -44,7 +44,7 @@ L'ambiant/post-rock a eu une grande influence sur la musique de film et s'est im
 
 | Films | Musique | Année | Caractéristiques |
 |------|----------|----|------|
-| *Arrivée* | Jóhann Jóhannsson | 2016 | Exprimer le sentiment de circulation du temps avec des sons de drone |
+| *Arrivée* | Jóhann Jóhannsson | 2016 | Exprimer le sentiment de circulation du temps avec un son de drone |
 | *Blade Runner 2049* | Hans Zimmer et Benjamin Wallfisch | 2017 | Représentation ambiante de la froideur et de l'étendue d'une ville futuriste |
 | *Le Revenant* | Ryuichi Sakamoto et Alva Noto | 2015 | Exprimer la pression de la nature et du temps avec des sons électroniques et environnementaux |
 | *Solaris* (édition 2002) | Edouard Artemyev | 2002 | Expansion de l'espace psychologique avec une ambiance cosmique |

@@ -18,7 +18,7 @@ Un morceau house/deep house du producteur/remixeur français Shazz et du musicie
 
 La face A est particulièrement superbe, avec sa ligne de basse bouillonnante contrastant magnifiquement avec les sublimes accords de rose, créant une harmonie exquise.
 
-Ce morceau est l'une des nombreuses grandes créations de Shazz et constitue un véritable numéro de deep house, avec une boucle apaisante de touches douces, des percussions rebondissantes et la voix fascinante de Derek Bays.
+Ce morceau est l'une des nombreuses grandes créations de Shazz et constitue un véritable numéro de deep house, avec une boucle apaisante de sons de clavier doux, des percussions rebondissantes et la voix fascinante de Derek Bays.
 
 #### Liste des chansons
 ```md

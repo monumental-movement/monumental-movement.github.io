@@ -99,7 +99,7 @@ L'histoire de la techno est née et a évolué à partir de la relation entre le
 **équipement**
 -Ableton Live (2001–)
 - Raison (2000–)
-- Native Instruments Reaktor / Absynth
+- Native Instruments Reaktor / Absynthe
 -Electron Machinedrum / Monomachine
 - Pioneer CDJ (période populaire)
 
@@ -144,7 +144,7 @@ L'histoire de la techno est née et a évolué à partir de la relation entre le
 -ASM Hydrasynthe
 -Polyend Tracker/Dirtywave M8
 -Akai MPC One/Live II
-- Maîtrise de l'IA, outils de séparation des tiges
+- Maîtrise de l'IA, outil de séparation des tiges
 
 ---
 
@@ -171,6 +171,14 @@ L'histoire de la techno est née et a évolué à partir de la relation entre le
 Le cœur de la techno est la « répétition » et la « conception sonore ».
 Rythmes directement issus de x0x, conception de l'image sonore des échantillonneurs, esthétique du montage de l'ère PC, caractère aléatoire de la modularité, voire assistance de l'IA : les rythmes des machines et des villes continuent d'évoluer même si les temps changent.
 
+
+---
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BaHKgcXXwVY?si=p6D9QsstvecYHdeT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
