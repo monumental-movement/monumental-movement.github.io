@@ -15,10 +15,10 @@ title: Beastie Boys – 前往 5 個行政區
 ---
 
 
-《To the 5 Boroughs》是美國嘻哈樂隊 Beastie Boys 於 2004 年發行的第六張錄音室專輯。該專輯首次登上 Billboard 200 排行榜第一名，首周銷量達 36 萬張，並獲得 RIAA 白金認證。
-第12首曲目是僅在日語版中提供的獎勵曲目。
+《To the 5 Boroughs》是美國嘻哈樂團 Beastie Boys 於 2004 年發行的第六張錄音室專輯。該專輯首次登上 Billboard 200 排行榜第一名，首周銷量達 36 萬張，並獲得 RIAA 白金認證。
+第12首曲目是僅在日文版提供的獎勵曲目。
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. Ch-Check It Out
 2. Right Right Now Now
@@ -39,7 +39,7 @@ title: Beastie Boys – 前往 5 個行政區
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m39197590666?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m39197590666?afid=6142608987){: .button1}
 
 
 #### Youtube

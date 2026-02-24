@@ -10,15 +10,15 @@ tags:
 - Soul
 - Funk
 - Rare
-title: 馬文·蓋伊——我通過小道消息聽到的
+title: 馬文蓋伊——我透過小道消息聽到的
 ---
 
 
-《I Heard It Through The Grapevine》是靈魂樂音樂家馬文·蓋伊的第八張錄音室專輯。
+《I Heard It Through The Grapevine》是靈魂樂音樂家馬文蓋伊的第八張錄音室專輯。
 
 這張專輯最初以“In the Groove”為標題發行，但在“I Heard It Through The Grapevine”大受歡迎後改為同名。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. You
 A2. Tear It On Down
@@ -35,7 +35,7 @@ B5. You're What's Happening (In The World Today)
 B6. There Goes My Baby
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m30034025091?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m30034025091?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5ZnrZnFSlWU?si=c2baha8KAvVOGZeK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

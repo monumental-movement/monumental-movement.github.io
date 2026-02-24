@@ -13,11 +13,11 @@ title: Dub War – 美麗的錯誤一面
 ---
 
 
-Dub War是一支活躍於20世紀90年代的混合樂隊，融合了重金屬、雷鬼、朋克、配音等多種音樂風格。樂隊獨特的風格，將強勁的搖滾聲音和朗朗上口的旋律與雷鬼節奏和朋克元素相結合，主唱Benji Webbe獨特的歌聲和表現力給樂隊的音樂留下了深刻的印象。
+Dub War是一支活躍於1990年代的混合樂隊，融合了重金屬、雷鬼、龐克、配音等多種音樂風格。樂團獨特的風格，將強勁的搖滾聲音和朗朗上口的旋律與雷鬼節奏和龐克元素相結合，主唱Benji Webbe獨特的歌聲和表現力給樂團的音樂留下了深刻的印象。
 
-《Wrong Side Of Beautiful》是 Dub War 的第二張專輯，被認為是樂隊最受廣泛認可的作品之一。
+《Wrong Side Of Beautiful》是 Dub War 的第二張專輯，被認為是樂團最受廣泛認可的作品之一。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Control
 
@@ -48,7 +48,7 @@ B6. Mission
 B7. Universal Jam
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m79906775059?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m79906775059?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YfGd-nXFfVY?si=AsdcXdWTQQSdK_Ud" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

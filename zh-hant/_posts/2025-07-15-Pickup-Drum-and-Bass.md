@@ -13,15 +13,15 @@ title: 拾取鼓和貝斯作品
 ---
 
 
-“一組出色的鼓和貝斯作品，以尖銳的節拍和沈重的低音線震撼地板。”
+“一組非凡的鼓和貝斯作品，以尖銳的節拍和沈重的低音線震撼地板。”
 
 <小時>
 
 ### Aquasky – 尼龍跑車 / 宇宙膠
-<a href="https://jp.mercari.com/item/m84434801659?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Nylon%20Roadster%20Cosmic%20Glue.webp"></a>
-一首 12 英寸的碎拍曲目，以流暢而感性的鋼琴演奏為特色，創作於 1996-97 年左右。
+<a href="https://jp.mercari.com/item/m84434801659?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Nylon%20Roadster%20Gluswebmic">
+一首 12 吋的碎拍曲目，以流暢而感性的鋼琴演奏為特色，創作於 1996-97 年左右。
 
-#### 曲目列表
+#### 曲目表
 ```md
 X. Nylon Roadster
 
@@ -29,7 +29,7 @@ Y. Cosmic Glue
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m84434801659?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m84434801659?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -38,11 +38,11 @@ Y. Cosmic Glue
 <小時>
 
 ### Aquasky – 寧靜 / 考納
-<a href="https://jp.mercari.com/item/m94343829211?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Tranquility%20Kauna.webp"></a>
+<a href="https://jp.mercari.com/item/m94343829211?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Tranquility%20Kauna.p"></a>
 
 Moving Shadow 於 1996 年在英國發行了情感酸澀和碎拍音樂。
 
-#### 曲目列表
+#### 曲目表
 ```md
 X. Nylon Roadster
 
@@ -50,7 +50,7 @@ Y. Cosmic Glue
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m94343829211?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m94343829211?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -59,12 +59,12 @@ Y. Cosmic Glue
 <小時>
 
 
-### Dillinja – 流體/硬噪聲
-<a href="https://jp.mercari.com/item/m77354316625?afid=6142608987"><img src="../assets/images/Dillinja%20%E2%80%93%20Fluid%20Hard%20Noize.webp"></a>
+### Dillinja – 流體/硬噪音
+<a href="https://jp.mercari.com/item/m77354316625?afid=6142608987"><img src="../assets/images/Dillinja%20%E2%80%93%20Fluid%20Hard%">20Noizeweb.
 
-12 英寸經典地下鼓和貝斯曲目，帶有強勁的“Reese”貝斯。
+12 吋經典地下鼓和貝斯曲目，帶有強勁的“Reese”貝斯。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Hard Noize
 
@@ -72,7 +72,7 @@ AA. Fluid
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m77354316625?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m77354316625?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -81,11 +81,11 @@ AA. Fluid
 <小時>
 
 ### Motiv One – Cosmik / 循環進展
-<a href="https://jp.mercari.com/item/m37201781569?afid=6142608987"><img src="../assets/images/Motiv%20One%20%E2%80%93%20Cosmik%20%20Loop%20Progression.webp"></a>
+<a href="https://jp.mercari.com/item/m37201781569?afid=6142608987"><img src="../assets/images/Motiv%20One%20%E2%80%93%20Cosmik%20%20Lresscom
 
 包含輕快、爵士、未來主義的聲音和主旋律。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Cosmik
 
@@ -93,7 +93,7 @@ AA. Loop Progression
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m37201781569?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m37201781569?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -107,7 +107,7 @@ AA. Loop Progression
 
 2000 年代的 12 英寸，其節奏融合了巴西拉丁和爵士樂元素。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Cambraia
 
@@ -115,7 +115,7 @@ B. Brasil
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m42086405804?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m42086405804?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -123,13 +123,13 @@ B. Brasil
 
 <小時>
 
-### 亞倫·斯佩克特——阿門，朋克
+### 亞倫‧斯佩克特－阿門，龐克
 
-<a href="https://jp.mercari.com/item/m37597646129?afid=6142608987"><img src="../assets/images/Aaron%20Spectre%20%E2%80%93%20Amen,%20Punk.webp"></a>
+<a href="https://jp.mercari.com/item/m37597646129?afid=6142608987"><img src="../assets/images/Aaron%20Spectre%20%E2%80%93%20Amen,%20Punk.webp">
 
-一張獨特的基於阿門突破的專輯（2023），帶來了朋克/硬核的激烈邊緣。
+一張獨特的基於阿門突破的專輯（2023），帶來了龐克/硬核的激烈邊緣。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. 1600 Penn, FTW
 
@@ -138,7 +138,7 @@ B2. You Don't Know
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m37597646129?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m37597646129?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -147,11 +147,11 @@ B2. You Don't Know
 <小時>
 
 ### DJ Gilb‑R – 壓力
-<a href="https://jp.mercari.com/item/m48438741904?afid=6142608987"><img src="../assets/images/DJ%20Gilb-R%20%E2%80%93%20Pressure.webp"></a>
+<a href="https://jp.mercari.com/item/m48438741904?afid=6142608987"><img src="../assets/images/DJ%20Gilb-R%20%E2%80%93%20Pressure.web"></a>
 
 1997 年在法國發行。還包括 Laurent Garnier 混音版。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Pressure (Original Mix)
 
@@ -161,7 +161,7 @@ Remix, Producer – Laurent Garnier(ローラン・ガルニエ)
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m48438741904?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m48438741904?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -169,7 +169,7 @@ Remix, Producer – Laurent Garnier(ローラン・ガルニエ)
 
 <小時>
 
-### 列表
+### 清單
 
 <div class="table-border">
 <table>

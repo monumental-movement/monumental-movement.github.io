@@ -17,9 +17,9 @@ title: Koivun Kaiku – 守護者
 
 《Keepers》於 1987 年發行，是一首由 kantele 演奏的民間和世界音樂，kantele 是一種芬蘭民間樂器，也是古箏家族中的一種彈撥樂器。
 
-團體名稱 Koivun Kaiku 的意思是“白樺的迴聲”。
+團體名稱 Koivun Kaiku 的意思是「白樺的迴響」。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Ripatska 
 A2. Valssi Lapuasta 
@@ -42,4 +42,4 @@ B8. Reppurin Laulu
 B9. Konevitsan Kirkonkellojen Soitto 
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m71853643150?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m71853643150?afid=6142608987){: .button1}

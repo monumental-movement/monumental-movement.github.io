@@ -10,7 +10,7 @@ tags:
 - Happy Hardcore
 - 90s
 - 00s
-title: 挑選快樂硬核作品
+title: 挑選快樂硬蕊作品
 ---
 
 
@@ -18,14 +18,14 @@ title: 挑選快樂硬核作品
 
 <小時>
 
-### Charly Lownoise 和 Mental Theo – Wonderfull Days
-<a href="https://jp.mercari.com/item/m75641849316?afid=6142608987"><img src="../assets/images/Charly%20Lownoise%20Mental%20Theo%20%E2%80%93%20Wonderfull%20Days.webp"></a>
+### Charly Lownoise 與 Mental Theo – Wonderfull Days
+<a href="https://jp.mercari.com/item/m75641849316?afid=6142608987"><img src="../assets/images/Charly%20Lownoise%20Mental%20Theo%20%DayE2%80%93%20Wrfa.
 
-發行日期：1994年/荷蘭快樂硬核傑作
+發行日期：1994年/荷蘭快樂硬派傑作
 
-特點： 一首經典之作，以其朗朗上口的旋律和正能量席捲了 90 年代的歐洲舞曲/銳舞界。時至今日，它仍然受到許多俱樂部和狂歡節的喜愛。
+特色： 一首經典之作，以其朗朗上口的旋律和正能量席捲了 90 年代的歐洲舞曲/銳舞界。時至今日，它仍然受到許多俱樂部和狂歡節的喜愛。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Wonderfull Days (Rotterdam Mix)
 
@@ -34,7 +34,7 @@ B2. Wonderfull Days (Radio Mix)
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m75641849316?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m75641849316?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -45,13 +45,13 @@ B2. Wonderfull Days (Radio Mix)
 
 
 ### 滑板車 – 叫我 Mañana
-<a href="https://jp.mercari.com/item/m42566110205?afid=6142608987"><img src="../assets/images/Scooter%20%E2%80%93%20Call%20Me%20Manana.webp"></a>
+<a href="https://jp.mercari.com/item/m42566110205?afid=6142608987"><img src="../assets/images/Scooter%20%E2%80%93%20Call%20Me%20Manana.webp">
 
 發行時間：1998 年，單曲《No Time to Chill》
 
-特點：以“James Brown Is Dead”（洛杉磯風格）的強烈樣本使用而閃耀的快樂硬核導向的恍惚。海外樂隊Scooter的獨特作品。
+特點：以“James Brown Is Dead”（洛杉磯風格）的強烈樣本使用而閃耀的快樂硬核導向的恍惚。海外樂團Scooter的獨特作品。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Call Me Mañana (Heavy Horses Extended)
 
@@ -60,7 +60,7 @@ B2. Call Me Mañana (Heavy Horses Radio)
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m42566110205?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m42566110205?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -70,14 +70,14 @@ B2. Call Me Mañana (Heavy Horses Radio)
 
 
 ### Ratty – 日出（我在這裡）
-<a href="https://jp.mercari.com/item/m87341186255?afid=6142608987"><img src="../assets/images/Ratty%20%E2%80%93%20Sunrise%20(此處%20I%20Am).webp"></a>
+<a href="https://jp.mercari.com/item/m87341186255?afid=6142608987"><img src="../assets/images/Ratty%20%E2%80%93%20Sunrise%20(此處%20I%20A>
 
 概述：Scooter 的 trance 衍生項目 Ratty 的歌曲
 
 特點：代表原版《她是太陽》《日出（老鼠的地獄）》。充滿激情的地板軌道，在俱樂部裡看起來很棒。
 
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Sunrise (Here I Am) (Club Mix)
 
@@ -86,7 +86,7 @@ B2. Sunrise (Here I Am) (Instrumental)
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m87341186255?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m87341186255?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -100,9 +100,9 @@ B2. Sunrise (Here I Am) (Instrumental)
 
 發行者：英國廠牌 Sonic Boom
 
-特點： 一張快樂硬核x硬核/科技融合的強大EP，主打歌《Forevermore》和科技風味的《Ignition Sequence》混合在一起。
+特色： 一張快樂硬蕊x硬蕊/科技融合的強大EP，主打歌《Forevermore》和科技風味的《Ignition Sequence》混合在一起。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Forevermore (5am Mix)
 
@@ -111,7 +111,7 @@ B2. Forevermore (Original)
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m40097768990?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m40097768990?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -121,13 +121,13 @@ B2. Forevermore (Original)
 
 
 ### DJ Breeze – 跳得更高一點
-<a href="https://jp.mercari.com/item/m45158763223?afid=6142608987"><img src="../assets/images/DJ%20Breeze%20%E2%80%93%20Jump%20A%20Little%20Higher.webp"></a>
+<a href="https://jp.mercari.com/item/m45158763223?afid=6142608987"><img src="../assets/images/DJ%20Breeze%20%E2%80%93%20Jump%20A%20Lize%20%E2%80%93%20Jump%20A%209.
 
 藝術家：英國流行 DJ/製作人 Mark Breeze
 
-特點：一首得到很多俱樂部支持的歌曲，旋律振奮，節奏充滿活力，還有《Kick Your Legs In The Air》和《Don’t Make Me Wait (特別版)​​》的樣本。
+特色：一首得到許多俱樂部支持的歌曲，旋律振奮，節奏充滿活力，還有《Kick Your Legs In The Air》和《Don’t Make Me Wait (特別版)》的樣本。
 
-#### 曲目列表
+#### 曲目表
 ```md
 a. Jump A Little Higher (Brisk Remix)
 
@@ -135,7 +135,7 @@ b. Jump A Little Higher
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m45158763223?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m45158763223?afid=6142608987){: .button1}
 
 
 #### Youtube

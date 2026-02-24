@@ -19,14 +19,14 @@ title: Tiësto & Junkie XL – 痴迷
 Side A 是比利時 DJ/製作人 Bert Wilmaers 和 Maarten Wilmaers 的二人組 Filterheadz 的混音版。
 B 面是 NuBreed 的混音版，由 Jase (Jason Catherine)、Mykel (Michael Walburgh) 和 DB (Danny Bonnici) 項目。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A01. Obsession (Filterheadz Remix)
 
 B01. Obsession (NuBreed Remix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m76454545800?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m76454545800?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M2Y1TOVkcsI?si=qdQAoiuR0TVOdtUS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

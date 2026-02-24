@@ -23,7 +23,7 @@ B 面是 Jesse F. Keeler（又名 MSTRKRFT 的 JFK）的混音版。
 這件夾克由 James Sutton 設計，他曾為 will.i.am、Natalia Kills、Steve Aoki、Keri Hilson、NERD 等設計夾克。
 
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Running Away (Original)
 A2. Running Away (Accapella)
@@ -33,7 +33,7 @@ B1. Running Away (MSTRKRFT (JFK) Remix)
 B2. Running Away (MSTRKRFT (JFK) Dub)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m18722694725?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m18722694725?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tdf70B2R3oI?si=8SqtWMaQhQnpYsMb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

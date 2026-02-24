@@ -9,14 +9,14 @@ permalink: /zh-hant/public-enemy-fear-of-a-black-planet/
 tags:
 - Hiphop
 - Classic
-title: 公眾之敵——對黑色星球的恐懼
+title: 公眾之敵－對黑色星球的恐懼
 ---
 
 
 Public Enemy 的《Fear of a Black Planet》作為一張音樂和概念上都非常出色的專輯而廣受好評。
 
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Contract On The World Love Jam (Instrumental)
 
@@ -59,7 +59,7 @@ B9. Final Count Of The Collision Between Us And The Damned (Instrumental)
 B10. Fight The Power
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m21123775840?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m21123775840?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DhQGH6CbKhw?si=R7c4T8qV2ZBED9Sa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -15,9 +15,9 @@ title: VA – Spike & Co. 清唱
 ---
 
 
-這張專輯是 1990 年 PBS 紀錄片的原聲帶，該紀錄片講述了斯派克·李 (Spike Lee) 執導的無伴奏音樂。
+這張專輯是 1990 年 PBS 紀錄片的原聲帶，該紀錄片講述了 Spike Lee 執導的無伴奏音樂。
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. True Image – I Need You
 2. Mint Juleps – Don't Let Your Heart
@@ -34,7 +34,7 @@ title: VA – Spike & Co. 清唱
 13. Ladysmith Black Mambazo With Mint Juleps – The Lion Sleeps Tonight
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m89445697267?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m89445697267?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OMnxUgxphOg?si=LTGQplU_-L3Kr-yY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

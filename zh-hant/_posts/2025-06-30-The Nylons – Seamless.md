@@ -10,7 +10,7 @@ tags:
 - Rock
 - Vocal
 - 80s
-title: 尼龍——無縫
+title: 尼龍－無縫
 ---
 
 
@@ -18,7 +18,7 @@ The Nylons 是一支加拿大無伴奏合唱團，活躍於 1978 年至 2017 年
 
 《Seamless》是Open Air Records於1986年發行的一張專輯。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. The Lion Sleeps Tonight
 A2. Take Me To Your Heart
@@ -33,7 +33,7 @@ B4. Remember (Walking In The Sand)
 B5. The Stars Are Ours
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m29486121471?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m29486121471?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oqUnVUzvQYA?si=L54otN6nNfXVjaQ9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

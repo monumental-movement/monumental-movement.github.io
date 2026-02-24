@@ -14,16 +14,16 @@ title: 原種姓——星期一先生/甜蜜芝加哥
 ---
 
 
-原種姓是加拿大的一個民間團體。他們於 1966 年在阿爾伯塔省卡爾加里成立，被稱為北方鄉村歌手。
+原種姓是加拿大的一個民間團體。他們於 1966 年在阿爾伯塔省卡加利成立，被稱為北方鄉村歌手。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Mr. Monday
 
 B. Sweet Chicago
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m75499615144?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m75499615144?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5SKresJl7zA?si=KSrs2IMzRmJuk8Di" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

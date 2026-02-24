@@ -19,7 +19,7 @@ Purveyors Of Fine Funk 是一個創作融合放克音樂元素的歌曲的樂隊
 
 這部作品因融合放克音樂傳統與現代元素而受到讚譽。在尊重放克根源的同時，他們以獨特的藝術方式創造新的吸引力。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Suspended
 
@@ -40,7 +40,7 @@ D2. Telepathos Communicator
 D3. The After Midnight Call
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m97980278138?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m97980278138?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u-WNMfNV6Go?si=CckI7iNJ8msQYBc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

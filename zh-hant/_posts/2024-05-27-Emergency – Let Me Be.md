@@ -12,24 +12,24 @@ tags:
 - Euro
 - 90s
 - Rare
-title: 緊急情況 – 讓我來吧
+title: Emergency – Let Me Be
 ---
 
 
-Emergencyは、Alessandro Carino, Graziano Fanelli, Jose Antonio Manzano, Marco Rizzi, Pieradis Rossiniによるイタロダンスプロジェクト。
+《Emergency》是亞歷山德羅·卡里諾 (Alessandro Carino)、格拉齊亞諾·法內利 (Graziano Fanelli)、何塞·安東尼奧·曼薩諾 (Jose Antonio Manzano)、馬可·裡齊 (Marco Rizzi) 和皮耶拉迪斯·羅西尼 (Piera Rossdisini) 的 Italo 舞蹈項目。
 
-編曲者和製作人是皮耶拉迪斯·羅西尼 (Pieradis Rossini)，他是一位意大利音樂家和舞曲音樂製作人，也是 Italo 舞蹈廠牌 DJ Movement 的創始人。
+編曲家和製作人是皮耶拉迪斯·羅西尼 (Pieradis Rossini)，他是一位義大利音樂家和舞曲音樂製作人，也是 Italo 舞蹈廠牌 DJ Movement 的創始人。
 
 Italo 舞曲由 DJ Movement 廠牌於 1993 年發行。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Let Me Be (Lets Do It Mix)
 
 B1. Let Me Be (Emergency)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m49444465036?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m49444465036?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TJeciSG5sj0?si=sKGmoo5PY_2HIbJj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

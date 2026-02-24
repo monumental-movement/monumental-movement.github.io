@@ -8,7 +8,7 @@ layout: post
 permalink: /zh-hant/dillinja-fluid-hard-noize/
 tags:
 - Drum n Bass
-title: Dillinja – 流體硬噪聲
+title: Dillinja – 流體硬噪音
 ---
 
 
@@ -18,14 +18,14 @@ title: Dillinja – 流體硬噪聲
 
 毫不誇張地說，Reese 的聲音可能是有史以來最酷的鼓和貝斯聲音。回想起 1998 年，在英倫流行音樂的廣播中，像 Dillinja 這樣的人在地下，完全不關心唱片銷售，而是在製作更酷的東西，這似乎很瘋狂。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Hard Noize
 
 AA. Fluid
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m77354316625?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m77354316625?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MGUoyksjgeo?si=596lzo53oMSMuLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

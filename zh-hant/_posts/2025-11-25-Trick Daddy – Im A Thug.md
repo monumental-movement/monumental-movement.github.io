@@ -10,13 +10,13 @@ tags:
 - Hiphop
 - Gangsta
 - 00s
-title: 詭計爸爸——我是暴徒
+title: 詭計爸爸－我是暴徒
 ---
 
 
-來自佛羅里達州邁阿密的說唱歌手 Trick Daddy 於 2001 年發行了一首 Gangsta Hip Hop 歌曲，以“Let's Go（由 Twista 和 Lil Jon 合作）”而聞名。
+來自佛羅裡達州邁阿密的說唱歌手 Trick Daddy 於 2001 年發行了一首 Gangsta Hip Hop 歌曲，以“Let’s Go（由 Twista 和 Lil Jon 合作）”而聞名。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. I'm A Thug (Clean)
 A2. I'm A Thug (Album)
@@ -27,7 +27,7 @@ B2. Can't F**k Wit Me (Album)
 B3. Can't F**k Wit Me (Instrumental)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m87081658220?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m87081658220?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ILCNAln_7Z4?si=jZLP_rKImiZRBBGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

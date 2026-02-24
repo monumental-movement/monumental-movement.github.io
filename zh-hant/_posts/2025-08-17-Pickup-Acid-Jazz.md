@@ -21,11 +21,11 @@ title: 挑選酸性爵士樂片段
 ### 燈芯絨 – 高破壞
 <a href="https://jp.mercari.com/item/m60864061659?afid=6142608987"><img src="../assets/images/Corduroy%20%E2%80%93%20High%20Havoc.webp"></a>
 
-簡介： 倫敦四人酸性爵士樂隊 Corduroy 於 1993 年發行的第二張概念專輯。由 Acid Jazz 唱片公司出版。
+簡介： 倫敦四人酸性爵士樂團 Corduroy 於 1993 年發行的第二張概念專輯。由 Acid Jazz 唱片公司出版。
 
-推薦要點：第二首歌曲《倫敦英格蘭》被稱為1990年代的舞池經典，被高度評價為他們的代表作，包括其他進入英國獨立排行榜前10名的單曲。
+推薦重點：第二首歌曲《倫敦英格蘭》被稱為1990年代的舞池經典，被高度評價為他們的代表作，包括其他進入英國獨立排行榜前10名的單曲。
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. High Havoc
 2. London England
@@ -43,7 +43,7 @@ title: 挑選酸性爵士樂片段
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m60864061659?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m60864061659?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -52,14 +52,14 @@ title: 挑選酸性爵士樂片段
 <br>
 
 
-### 原始手寫筆 – 使用我
-<a href="https://jp.mercari.com/item/m32284587621?afid=6142608987"><img src="../assets/images/Raw%20Stylus%20%E2%80%93%20Use%20Me.webp"></a>
+### Raw Stylus – Use Me
+<a href="https://jp.mercari.com/item/m32284587621?afid=6142608987"><img src="../assets/images/Raw%20Stylus%20%E2%80%93%20Use%/Raw%20Stylus%20%E2%80%93%20Use%">20Me.webp</>
 
 簡介： 活躍於 20 世紀 90 年代的英國迷幻爵士樂隊 Raw Stylus 的一首單曲，翻唱了 Bill Withers 1972 年的靈魂/R&B 歌曲“Use Me”。由 Acid Jazz 廠牌發行。
 
-推薦要點：《Use Me》雖然是一首名曲的翻唱，但它的魅力在於融合了對原作的尊重和酸爵士般的演繹，讓你享受到包含放克和靈魂的多層次聲音。
+推薦重點：《Use Me》雖然是一首名曲的翻唱，但它的魅力在於融合了對原作的尊重和酸爵士般的演繹，讓你享受到包含放克和靈魂的多層次聲音。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Use Me
 
@@ -68,7 +68,7 @@ B2. Boom
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m32284587621?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m32284587621?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -80,12 +80,12 @@ B2. Boom
 ### 托萊多——喬
 <a href="https://jp.mercari.com/item/m22782567301?afid=6142608987"><img src="../assets/images/Toledo%20%E2%80%93%20Joe.webp"></a>
 
-摘要：托萊多 (Toledo Diamond) 的 House x 酸爵士曲目。前 Black Grape 成員丹尼·薩伯 (Danny Saber) 擔任製片人。
+摘要：托萊多 (Toledo Diamond) 的 House x 酸爵士曲目。前 Black Grape 成員 Danny Saber 擔任製片人。
 
 
-推薦要點：這是一首極具吸引力的跨流派趣味曲目，將迷幻爵士樂的精髓與浩室音樂的精緻融為一體。
+推薦重點：這是一首極具吸引力的跨流派趣味曲目，將迷幻爵士樂的精髓與浩室音樂的精緻融為一體。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Joe (Joey Malcom Mix)
 
@@ -94,20 +94,20 @@ B2. Joe (Extended Dub)
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m22782567301?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m22782567301?afid=6142608987){: .button1}
 
 <br>
 
 
 
-### Akimbo 主演 Marcina Arnold – 《眾所周知》
-<a href="https://jp.mercari.com/item/m51213858343?afid=6142608987"><img src="../assets/images/Akimbo%20Featuring%20Marcina%20Arnold%20%E2%80%93%20Everybody%20Knows.webp"></a>
+### Akimbo 主演 Marcina Arnold – 《眾所皆知》
+<a href="https://jp.mercari.com/item/m51213858343?afid=6142608987"><img src="../assets/images/Akimbo%20Featuring%20Marcina%20Arnold%20%E2%80%133%>
 
-簡介： 放克靈魂樂搖滾樂隊 Akimbo 創作的未來爵士樂曲目，由 Brand New Heavies 樂隊的吉他手 Simon Bartholomew 等人擔綱演出。它於 1999 年由英國唱片公司 Acid Jazz 發行。
+簡介： 放克靈魂樂搖滾樂團 Akimbo 創作的未來爵士樂曲目，由 Brand New Heavies 樂團的吉他手 Simon Bartholomew 等人擔綱演出。它於 1999 年由英國唱片公司 Acid Jazz 發行。
 
-推薦要點：這是一首精緻的曲目，感覺像是現代放克/爵士樂的融合，具有“未來爵士”風格，可以說是Acid Jazz的演變。
+推薦重點：這是一首精緻的曲目，感覺像是現代放克/爵士樂的融合，具有“未來爵士”風格，可以說是Acid Jazz的演變。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Everybody Knows (Erobique Remix)
 
@@ -116,7 +116,7 @@ B2. Flight To Havana
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m51213858343?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m51213858343?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -127,15 +127,15 @@ B2. Flight To Havana
 
 
 ### 各種 - 完全有線九
-<a href="https://jp.mercari.com/item/m73976121737?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Totally%20Wired%20Nine.webp"></a>
+<a href="https://jp.mercari.com/item/m73976121737?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Totally%20Wired%">20Nine.webp>
 
 簡介： 這是一張全明星酸性爵士樂合輯，於 1992 年由英國 Acid Jazz 廠牌發行。包含在舞池中流行的各種藝術家的簽名曲目。
 先生
 
-推薦要點：一首有價值的作品，收錄了迷幻爵士樂早期的著名歌曲，如《Corduroy》、《Mother Earth》和《Sons of Judah》。您可以同時享受流派的擴展和節奏感。
+推薦重點：一首有價值的作品，收錄了迷幻爵士樂早期的著名歌曲，如《Corduroy》、《Mother Earth》和《Sons of Judah》。您可以同时享受流派的扩展和节奏感。
 
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1.Max Beesley's High Vibes – Mr. Jeckle
 
@@ -157,7 +157,7 @@ B5.Raw – Dreams
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m73976121737?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m73976121737?afid=6142608987){: .button1}
 
 
 #### Youtube

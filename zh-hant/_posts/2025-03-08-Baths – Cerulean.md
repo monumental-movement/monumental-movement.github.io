@@ -15,10 +15,10 @@ title: 浴室 – 蔚藍
 
 威爾·維森菲爾德（Will Wiesenfeld），又名巴斯斯（Baths），被稱為天才節拍製作者，是洛杉磯的電子音樂家。
 
-《Cerulean》是 Baths 於 2010 年在獨立廠牌 Anticon 上發行的首張專輯，由 Daedelus 介紹。這張CD是Tugboat Records於2013年發行的日語版本。
+《Cerulean》是 Baths 於 2010 年在獨立廠牌 Anticon 上發行的首張專輯，由 Daedelus 介紹。這張CD是Tugboat Records於2013年發行的日文版本。
 
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. Apologetic Shoulder Blades
 2. Lovely Bloodflow
@@ -36,7 +36,7 @@ title: 浴室 – 蔚藍
 14. Calliope (Bonus Track)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m40590639127?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m40590639127?afid=6142608987){: .button1}
 
 #### 尤特布埃
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YpUC6EIZf5o?si=lCKJswyxc2pwcRyq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

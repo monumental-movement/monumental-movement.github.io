@@ -18,7 +18,7 @@ title: 黃色魔法樂團 – 黃色魔法樂團
 
 美國版本是[此處](https://monumental-movement.jp/Yellow-Magic-Orchestra-Yellow-Magic-Orchestra-US/)
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Computer Game (Theme From The Circus)
 
@@ -39,7 +39,7 @@ B3. Bridge Over Troubled Music
 B4. Mad Pierrot
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m19629333134?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m19629333134?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ELvvaBXaqb8?si=qNdtkQOuKL_QCfiB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

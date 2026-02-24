@@ -16,7 +16,7 @@ title: 阿麗雅 – 我關心 4 U
 
 Aaliyah 於 2001 年 8 月 25 日去世後，一張 DVD 合輯於 2002 年發行，其中包含她早期的八首熱門歌曲和她最後一張錄音室專輯（2001 年）中的六首以前未發行的歌曲。
 
-#### 曲目列表
+#### 曲目表
 ```md
 CD-1. Back And Forth
 CD-2. Are You That Somebody
@@ -46,7 +46,7 @@ DVD-10. Japanamation Commercial
 DVD-11. Aaliyah Behind The Scenes
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m65054220227?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m65054220227?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c13e861913o?si=Udu-qMdZOxaOxx5i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

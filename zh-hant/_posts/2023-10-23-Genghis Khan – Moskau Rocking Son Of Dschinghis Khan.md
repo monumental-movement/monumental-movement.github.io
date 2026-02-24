@@ -18,14 +18,14 @@ title: 成吉思汗 – Moskau Rocking Son of Dschinghis Khan
 
 1979 年發行的專輯《成吉思汗》中的《Moskau》風靡全球。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Moskau (めざせモスクワ)
 
 B. Rocking Son Of Dschinghis Khan (ロッキング・サン)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m46360066901?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m46360066901?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BQAKRw6mToA?si=C4dgBJi9bBcism29" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -18,7 +18,7 @@ Marcin Czubala 是一位來自波蘭的極簡 techno DJ 和製作人，擁有古
 
 《I Can Make You Dance EP》是法國電子廠牌 ANLX 於 2003 年發行的電子曲目。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Street Dance
 A2. Go Off
@@ -27,7 +27,7 @@ B1. V1 Take Off
 B2. The Real Menel
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m10824252000?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m10824252000?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aLLo_k0n8y8?si=6cOk92BNcXbEFczF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

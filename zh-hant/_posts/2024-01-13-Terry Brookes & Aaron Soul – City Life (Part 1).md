@@ -17,7 +17,7 @@ City Life (Part 1) 是 Rush Hour 於 2005 年發行的一首 house 曲目，Rush
 
 Side A 是 Carl Craig 的混音版。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. City Life (Carl Craig's Max Mix) 
 
@@ -26,7 +26,7 @@ B1. City Life (Original Version)
 B2. City Life (Deepart Mix) 
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m68163433604?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m68163433604?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UFFg2I_F0Sc?si=7We5wkfnvO519Bop" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

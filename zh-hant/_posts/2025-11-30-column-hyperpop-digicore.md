@@ -16,9 +16,9 @@ title: '[專欄] Hyperpop / Digicore'
 
 
 
-# Hyperpop/Digicore：下一代互聯網音樂的全貌
+# Hyperpop/Digicore：下一代網路音樂的全貌
 
-文：mmr｜主題：全面解析源自下一代互聯網的聲音、製作、文化
+文：mmr｜主題：全面解析源自下一代網路的聲音、製作、文化
 
 Hyperpop 和 Digicore 是基於互聯網的音樂趨勢，融化了流行音樂和俱樂部音樂之間的界限，從 2010 年代末到 2020 年代圍繞 TikTok、SoundCloud 和 Discord 社區發展。在本文中，我們將圍繞延伸至**100 gecs / Charli XCX / glaive / ericdoa / underscores**的譜系，全面整理聲音的特徵、製作方法、使用的設備以及文化背景。
 
@@ -52,7 +52,7 @@ color: #fff;
 
 * 來自 SoundCloud/Discord 的年輕人 DIY 流行音樂
 * 低保真吉他、情緒演唱、簡單的節拍以及聲帶的人工處理。
-* 以glaive和ericdoa為代表的“互聯網核心”美學
+* 以glaive和ericdoa為代表的「網路核心」美學
 
 雖然兩者有重疊，但方向有所不同：**Hyperpop=過度，Digicore=簡單但類似互聯網**。
 
@@ -106,7 +106,7 @@ timeline
 ## 4-1.過度的音調處理和共振峰操縱
 
 * 強烈應用自動調諧（重新調諧速度最快）
-* 通過升高和降低共振峰實現“動畫語音”和“合成語音”效果
+* 透過升高和降低共振峰實現「動畫語音」和「合成語音」效果
 
 <div class="mermaid">
 flowchart LR
@@ -145,10 +145,10 @@ flowchart TD
 
 ## 5-1.低保真吉他 x 情緒搖滾演唱
 
-* 稍微扭曲連接到 DI 的干淨吉他
+* 稍微扭曲連接到 DI 的乾淨吉他
 * 飽和度+合唱的“扭曲低保真感覺”
 
-## 5-2.互聯網時代聲鏈
+## 5-2.網路時代聲鏈
 
 * 自動調諧
 * 提高共振峰（光）
@@ -168,40 +168,40 @@ flowchart LR
 
 ## 5-3.陷阱/DnB 影響最小
 
-* 808基數適中
+* 808底座適中
 * 踢腿時間短
-* 踩镲是 1/8 到 1/32 的細卷。
+* 踩鈸是 1/8 到 1/32 的細卷。
 
 ---
 
 # 6. 製作方法和DAW
 
-## 使用的數字音頻工作站
+## 使用的數位音訊工作站
 
 * **FL Studio**（最常見，尤其是 Digicore）
-* **Ableton Live**（強大的 Hyperpop 聲音設計）
+* **Ableton Live**（強大的 Hyperpop 音效設計）
 * 在某些情況下也會使用 GarageBand / Logic。
 
-## Hyperpop 側面製作示例
+## Hyperpop 側面製作範例
 
 
 - 1.利用Auto-Tune對頂線進行強力改造
-- 2. 使用 FM + Wavetable 創建合成器
-- 3.毛刺處理（Stutter/Granular）
-- 4. 過度失真和 OTT 導致掉線
+- 2. 使用 FM + Wavetable 建立合成器
+- 3.毛邊處理（Stutter/Granular）
+- 4. 過度失真和 OTT 導致斷線
 
 
-## Digicore 側面生產示例
+## Digicore 側面生產範例
 
 
 - 1. DI吉他→飽和度
 - 2. 輕鼓（Trap 基調）
 - 3.自動調諧+加倍器
-- 4.添加哭泣的頂線
+- 4.增加哭泣的頂線
 
 ---
 
-# 7. 設備/插件（尤其是 Digicore 常見）
+# 7. 裝置/插件（尤其是 Digicore 常見）
 
 ## 軟體
 
@@ -214,33 +214,33 @@ flowchart LR
 ## 硬體
 
 * 低成本DI BOX（吉他錄音）
-* 音頻接口（Scarlett 2i2等）
-* 電容麥克風（AT2020等熱門型號）
+* 音訊介面（Scarlett 2i2等）
+* 電容式麥克風（AT2020等熱門型號）
 
 ---
 
 # 8. 混合特性
 
-## 超級流行音樂
+## 超流行音樂
 
 * 強調高頻 (10-16kHz)
 * 奧特深度
 * 經常使用的飽和度
 * 強限制器
 
-## 數碼芯
+## 數位芯
 
 * 輕微提升吉他頻段 2-4kHz
 * 將人聲放在中間（不要分散太多）
-* 808基數適中
+* 808底座適中
 
 ---
 
 # 9.視覺和文化特徵
 
-* 基於 Discord 服務器的協作文化
+* 基於 Discord 伺服器的協作文化
 * TikTok 的病毒結構
-* 阿凡達/數字化身
+* 阿凡達/數位化身
 * 與動漫、遊戲文化的融合
 
 <div class="mermaid">
@@ -255,9 +255,9 @@ graph TD
 
 # 10. 總結
 
-Hyperpop 和 Digicore 是隨著音樂製作工具的民主化和互聯網文化的成熟而誕生的趨勢。製作的便捷性、混音文化、社交媒體傳播以及年輕創作者的實驗精神結合在一起，瓦解了傳統的流派結構，呈現出一種新的流行形式。
+Hyperpop 和 Digicore 是隨著音樂製作工具的民主化和網路文化的成熟而誕生的趨勢。製作的便利性、混音文化、社群媒體傳播以及年輕創作者的實驗精神結合在一起，瓦解了傳統的流派結構，呈現出一種新的流行形式。
 
-未來，由於AI人聲、生成聲源、實時協作等方面的進步，它很可能會進一步細分和擴展。
+未來，由於AI人聲、生成聲源、即時協作等方面的進步，它很可能會進一步細分和擴展。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UNYqwpx7Cys?si=df8PJvts5E8hHOvi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

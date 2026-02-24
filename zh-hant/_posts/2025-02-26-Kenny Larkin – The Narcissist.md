@@ -11,7 +11,7 @@ tags:
 - Downtempo
 - Deep House
 - Techno
-title: 肯尼·拉金——自戀者
+title: 肯尼拉金——自戀者
 ---
 
 
@@ -19,7 +19,7 @@ Kenny Larkin 是來自底特律的 techno house 製作人和 DJ。他在胡安·
 
 《The Narcissist》是英國獨立唱片公司 Peacefrog Records 於 2004 年發行的 house techno 慢速專輯。
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. Fake French (Epic Mix)
 2. My Reflection
@@ -34,7 +34,7 @@ Kenny Larkin 是來自底特律的 techno house 製作人和 DJ。他在胡安·
 11. In The Meantime
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m56386256284?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m56386256284?afid=6142608987){: .button1}
 
 #### 尤特布埃
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YchauQiNJgc?si=I3wdImtv9FiTaoap" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

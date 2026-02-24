@@ -9,7 +9,7 @@ permalink: /zh-hant/timo-maas-music-for-the-maases/
 tags:
 - Techno
 - 00s
-title: 蒂莫·馬斯 – 馬斯家族的音樂
+title: 提摩西‧馬斯 – 馬斯家族的音樂
 ---
 
 
@@ -17,7 +17,7 @@ Timo Maas 是一位傳奇的德國 DJ、製作人和混音師，自 20 世紀 90
 
 這張唱片是由英國唱片公司 Hope Recordings 於 2000 年發行的一張由 techno 曲目和混音曲目組成的混音專輯。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Timo Maas – Schieber 1
 B1. O  – Fifteenth Letter Of The Alphabet
@@ -29,7 +29,7 @@ G1. Major North – Annihilate (Timo Maas Mix)
 H1. Timo Maas – M.A.A.S.M.E.L.L.O.W.
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m61344314465?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m61344314465?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u9h4I2x7wrQ?si=GOsmGxc-Iica0py1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

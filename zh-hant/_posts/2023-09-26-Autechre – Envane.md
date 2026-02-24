@@ -17,7 +17,7 @@ Autechre 是一支英國 techno 樂隊，由 Sean Booth 和 Rob Brown 組成。
 
 Envane 是 Autechre 於 1997 年發行的一張 CD，具有獨特的電子音樂方法、複雜的節奏、抽象的音景和實驗性的聲音設計。
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. Goz Quarter
 
@@ -28,7 +28,7 @@ Envane 是 Autechre 於 1997 年發行的一張 CD，具有獨特的電子音樂
 4. Draun Quarter
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m70361302879?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m70361302879?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K-og9vy8UE4?si=je_nerpGDUxJULxA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

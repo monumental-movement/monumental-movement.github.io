@@ -18,7 +18,7 @@ title: 南方群星 - 立體聲太陽族
 參與音樂家
 桑田圭介、大森隆、原裕子、關口一之、松田浩、野澤秀之、金崎純一、仙尾龍一郎、EVE、琳達、傑克·康塞普西翁等
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Hello My Love
 
@@ -47,7 +47,7 @@ B6. Big Star Blues (ビッグ・スターの悲劇)
 B7. 栞(しおり)のテーマ
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m44193861071?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m44193861071?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o8nxYn-3jRU?si=KuIbDWGya-WkpZyO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

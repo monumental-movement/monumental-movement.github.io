@@ -10,15 +10,15 @@ tags:
 - Downtempo
 - Garage House
 - 90s
-title: 伊芙·加拉格爾——愛情是偽裝大師
+title: 伊芙·加拉格爾——愛是偽裝大師
 ---
 
 
 伊芙·加拉格爾 (Eve Gallagher) 是一位來自英國的浩室音樂歌手。
 
-《Love Is A Master Of Disguise》是第二首單曲，由馬克·布萊登製作。 Frankie Knuckles 作為第一首曲目 A 面和 B 面的製作人參與製作，第三首曲目 B 面由製作組 Brothers In Rhythm 的 Steve Anderson 重新混音。
+《Love Is A Master Of Disguise》是第二首單曲，由馬克布萊登製作。 Frankie Knuckles 作為第一首曲目 A 面和 B 面的製作人參與製作，第三首曲目 B 面由製作組 Brothers In Rhythm 的 Steve Anderson 重新混音。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Love Is A Master Of Disguise (Classic Club Mix)
 A2. Love Is A Master Of Disguise (Master Suite Mix)
@@ -29,7 +29,7 @@ B2. Love Is A Master Of Disguise (The Cause & Effect Mix)
 B3. Love Is A Master Of Disguise (The Project Ozma Mix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m56427024362?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m56427024362?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZmdZPRcueWs?si=-PjWmbnxUSQaZbou" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

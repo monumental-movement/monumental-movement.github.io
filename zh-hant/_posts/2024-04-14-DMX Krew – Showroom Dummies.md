@@ -15,7 +15,7 @@ title: DMX Krew – 陳列室假人
 
 DMX Krew (Ed Upton) EP 於 1998 年由德國唱片公司 International Deejay Gigolo Records 發行。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Showroom Dummies Part I & II Written-By – Schneider, Hütter
 
@@ -24,7 +24,7 @@ B1. マネキン (Manekin) Translated By [Japanese Translation] – Miyako Takag
 B2. Cold Heart Part II
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m19224606586?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m19224606586?afid=6142608987){: .button1}
 
 
 

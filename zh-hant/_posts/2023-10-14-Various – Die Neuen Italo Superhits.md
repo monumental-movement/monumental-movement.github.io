@@ -13,9 +13,9 @@ title: 各種 – Die Neuen Italo Superhits
 ---
 
 
-《Various – Die Neuen Italo Superhits》是德國廠牌“Ariola”於1987年發行的合輯。
+《Various – Die Neuen Italo Superhits》是德國廠牌「Ariola」於1987年發行的合輯。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Morandi - Ruggeri - Tozzi–Si Può Dare Più
 
@@ -46,7 +46,7 @@ B4. Pupo - Fiordaliso–La Vita È Molto Di Più
 B5. Tony Esposito–Papa Chicoなど
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m23072694774?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m23072694774?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Esr-l_2UBAc?si=MPvUyHlvqRfT5Ixr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

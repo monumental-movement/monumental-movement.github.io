@@ -15,11 +15,11 @@ title: '[專欄] 深入探討 Trip hop：Massive Attack / Portishead / DJ Shadow
 ---
 
 
-## Triphop 按年齡、軼事和紀錄片推薦。
+## Triphop 依年齡、軼事和紀錄片推薦。
 
 文：mmr｜主題：Trip hop（抽象嘻哈）按時代、現場講述的軼事和傳說推薦作品
 
-Trip hop（抽象嘻哈）是一種將採樣/轉盤文化與電影聲音敏感性融合在一起的流派。在這裡，我們將深入探討**Massive Attack、Portishead、DJ Shadow、DJ Krush**這四組，包括他們十年間的推薦作品，以及現場講述的軼事和傳奇。
+Trip hop（抽象嘻哈）是將取樣/轉盤文化與電影聲音敏感度融合在一起的流派。在這裡，我們將深入探討**Massive Attack、Portishead、DJ Shadow、DJ Krush**這四組，包括他們十年間的推薦作品，以及現場講述的軼事和傳奇。
 
 ---
 
@@ -41,9 +41,9 @@ color: #fff;
 ## Trip hop（抽象嘻哈）的歷史與現在
 
 **Trip-Hop** 起源於 20 世紀 90 年代的英國布里斯托爾，是一種以嘻哈節奏為基礎，融合了慢節奏、配音、爵士、環境音樂等的獨特音樂風格。
-在 Massive Attack、Portishead 和 Tricky 等藝術家的帶領下，其電影般的憂鬱聲音有時被稱為“抽象嘻哈”。
+在 Massive Attack、Portishead 和 Tricky 等藝術家的帶領下，其電影般的憂鬱聲音有時被稱為「抽象嘻哈」。
 
-Trip hop不僅僅是一種音樂流派，它已經蔓延到**原聲帶製作**、時尚和當代藝術的世界，並在人工智能音樂生成時代擁有新的可能性。
+Trip hop不僅僅是一種音樂流派，它已經蔓延到**原聲帶製作**、時尚和當代藝術的世界，並在人工智慧音樂生成時代擁有新的可能性。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hBpSJ-Lt94A?si=KJNPd6bX07mFW2dy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -61,7 +61,7 @@ flowchart TD
 
 ---
 
-### 按年齡段推薦
+### 按年齡推薦
 
 <div class="mermaid">
 flowchart LR
@@ -96,23 +96,23 @@ flowchart LR
 
 #### 代表作品
 
-**1990 年代**：[藍線 (1991)](https://amzn.to/4gxB8eR)、[保護 (1994)](https://amzn.to/4pyVUPi)、[夾層 (1998)](https://amzn.to/48o9H55)
+**1990 年代**：[藍線 (1991)](https://amzn.to/4gxB8eR)、[保護 (1994)](https://amzn.to/4pyVUPi)、[夾層 (1998)](https://amzn.to/48oVUPi)、[夾層 (1998)](https://amzn.to/48oVUPi)、[夾層 (1998)](https://amzn.to/48oVUPi)、[夾層 (1998)](https://amzn.to/48oVUPi)
 
-**2000 年代**：[第 100 個窗口 (2003)](https://amzn.to/46fHFrh)
+**2000 年代**：[第 100 個視窗 (2003)](https://amzn.to/46fHFrh)
 
 **2010s~**：[Heligoland (2010)](https://amzn.to/4gw79Ux)，為電影配樂提供的音樂
 
 #### 軼事
 
-源自布里斯托音響系統“Wild Bunch”。 3D（Robert Del Naja）在街頭藝術界也很有名（傳聞與班克斯有關係）。
+源自布里斯托音響系統「Wild Bunch」。 3D（Robert Del Naja）在街頭藝術界也很有名（傳聞與班克斯有關係）。
 
 #### 生產技術
 
 他沒有使用轉盤，而是“將工作室變成了一種樂器”，並將樣本和現場音樂混合在一起。其特點是深沉的低音和類似配音的空間處理。
 
-#### 視頻作品
+#### 影片作品
 
-有一些短紀錄片，例如《未完成：大規模攻擊的製作》。現場錄像也可以在[官方 YouTube] (https://www.youtube.com/user/massiveattack) 上觀看。
+有一些短紀錄片，例如《未完成：大規模攻擊的製作》。現場錄影也可以在[官方 YouTube] (https://www.youtube.com/user/massiveattack) 上觀看。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tHJi5cUZzuk?si=lfHjydKz_R698u0T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -124,15 +124,15 @@ flowchart LR
 
 **1990 年代**：[Dummy (1994)](https://amzn.to/3KxIx1J)、[Portishead (1997)](https://amzn.to/3Vsl5FC)
 
-**2008**：[第三](https://amzn.to/3VZXagN)（帶有濃郁實驗味道的複興作品）
+**2008**：[第三](https://amzn.to/3VZXagN)（帶有濃鬱實驗味道的復興作品）
 
 #### 軼事
-據說貝絲·吉本斯厭倦的聲音反映了她在舞台上感受到的緊張和孤獨。
+據說貝絲吉本斯厭倦的聲音反映了她在舞台上感受到的緊張和孤獨。
 
 #### 生產技術
 轉盤和現場樂器的融合。採樣和模擬記錄的多層使用。
 
-#### 視頻作品
+#### 影片作品
 有關於 90 年代旅行的紀錄片，例如《歡迎來到波蒂斯黑德》。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dDgqS03s1Hw?si=2Z4KjXBNwBwgBDE5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -150,13 +150,13 @@ flowchart LR
 **2010s〜**：[你知道的越少越好（2011）]（https://amzn.to/4nggcM5），[我們可悲的時代（2019）]（https://amzn.to/3KchrgC）
 
 #### 軼事
-Endtroducing.... 被載入吉尼斯世界紀錄，成為“第一張完全由樣本構建​​的專輯”。使用 MPC 和轉盤完成。
+Endtroducing.... 被列入金氏世界紀錄，成為「第一張完全由樣本建構的專輯」。使用 MPC 和轉盤完成。
 
 #### 生產技術
-充分利用斷拍重建、節拍雜耍和時間拉伸。將轉盤視為“拼貼工具”。
+充分利用斷拍重建、節拍雜耍和時間拉伸。將轉盤視為「拼貼工具」。
 
-#### 視頻作品
-出現在[DJ文化紀錄片“Scratch”(2001)](https://amzn.to/4pzrtso)。
+#### 影片作品
+出現在[DJ文化紀錄片「Scratch」(2001)](https://amzn.to/4pzrtso)。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sO5PCru_Z-E?si=2yMWGUgtfSyW_Td9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -171,14 +171,14 @@ Endtroducing.... 被載入吉尼斯世界紀錄，成為“第一張完全由樣
 **2000s〜**：[Jaku (2004)](https://amzn.to/4gv4hHs)，近年來與日本樂器和日本聲音的融合
 
 #### 軼事
-通過世界巡演向全球展示“日本的寧靜”。他受到西方嘻哈界的尊重。
+透過世界巡迴向全球展示「日本的寧靜」。他受到西方嘻哈界的尊重。
 
 #### 生產技術
-將轉盤視為“樂器”並試圖將其與日本樂器和環境聲音融合的風格。不僅擅長搓碟，還擅長空間製作。
+將轉盤視為“樂器”並嘗試將其與日本樂器和環境聲音相結合的風格。不僅擅長搓碟，也擅長空間製作。
 
-#### 視頻作品
+#### 影片作品
 
-出現在[DJ文化紀錄片“Scratch”(2001)](https://amzn.to/4pzrtso)。
+出現在[DJ文化紀錄片「Scratch」(2001)](https://amzn.to/4pzrtso)。
 有存檔 DVD，例如 [“DJ Krush 的歷史”](https://amzn.to/3KdMvwE)。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aVjgRlto8PI?si=lOvhctuUkOJwkPo1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -187,27 +187,27 @@ Endtroducing.... 被載入吉尼斯世界紀錄，成為“第一張完全由樣
 
 ### 原聲製作×AI音樂生成
 
-Trip hop 的電影感非常適合創作配樂。近年來，人工智能音樂生成工具已經能夠在短時間內再現 Trip-hop 風格的“黑暗漂浮感”。對於電影製作人來說，人工智能和人類之間的合作正在開闢新的創作可能性。
+Trip hop 的電影感非常適合創作配樂。近年來，人工智慧音樂生成工具已能夠在短時間內再現 Trip-hop 風格的「黑暗漂浮感」。對於電影製作人來說，人工智慧和人類之間的合作正在開啟新的創作可能性。
 
 ---
 
 ### 概括
 
 Trip hop 經歷了 Massive Attack 的沉重、Portishead 的倦怠、DJ Shadow 的樣本美學以及 DJ Krush 的日式寧靜。
-如今，人工智能音樂生成和配樂製作相結合，正在演進一個新時代。
+如今，人工智慧音樂生成和配樂製作相結合，正在演進一個新時代。
 
 ---
 
 ### 相關專欄
 
 
-🔗 [[專欄] Anticon — 反偶像及其周邊音樂的譜系](https://monumental-movement.jp/Column-Anticon)
+🔗 [[專欄] Anticon — 反偶像及其周邊音樂的系譜](https://monumental-movement.jp/Column-Anticon)
 
-🔗 [[專欄]美國嘻哈歷史：包括地區、俱樂部、媒體和設備的整體圖景](https://monumental-movement.jp/Column-Hiphop-History)
+🔗 [[專欄]美國嘻哈歷史：包括地區、俱樂部、媒體和設備的整體圖像](https://monumental-movement.jp/Column-Hiphop-History)
 
-🔗 [[專欄]西海岸嘻哈概述——從起源到地下](https://monumental-movement.jp/Column-Westcoast-Hiphop-History)
+🔗 [[專欄]西海岸嘻哈概述—從起源到地下](https://monumental-movement.jp/Column-Westcoast-Hiphop-History)
 
 
-🔗 [[專欄]東海岸嘻哈歷史——從布朗克斯到布魯克林以及世界各地](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)
+🔗 [[專欄]東岸嘻哈歷史－從布朗克斯到布魯克林以及世界各地](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)
 
-🔗【[專欄]什麼是Downtempo？放鬆和深度節奏的美學](https://monumental-movement.jp/Column-Downtempo)
+🔗【[專欄]什麼是Downtempo？放鬆與深度節奏的美學](https://monumental-movement.jp/Column-Downtempo)

@@ -21,10 +21,10 @@ title: '[專欄] 90年代的歐洲音樂是什麼？ ──舞池與旋律的盛
 
 <小時>
 
-### 歐洲音樂的真實身份是什麼？
+### 歐洲音樂的真實身分是什麼？
 
-20世紀90年代的“歐洲音樂”並不是一個特定的流派，而是主要在歐洲大陸發展的流行舞曲流行音樂的總稱。
-其中最具標誌性的是“Eurobeat”和“Eurodance”，但其他流派如 Eurotrance、高能量和合成流行樂也同時運行。
+1990年代的「歐洲音樂」並不是特定的流派，而是主要在歐洲大陸發展的流行舞曲流行音樂的總稱。
+其中最具代表性的是“Eurobeat”和“Eurodance”，但其他流派如 Eurotrance、高能量和合成流行樂也同時運作。
 
 換句話說，20世紀90年代的歐元是“現代歐洲的流行形象”，融合了派對文化、舞曲、朗朗上口的旋律和技術。
 
@@ -80,28 +80,28 @@ title: '[專欄] 90年代的歐洲音樂是什麼？ ──舞池與旋律的盛
 
 <小時>
 
-### 冷戰後的歐洲和流行音樂的共同語言
+### 冷戰後的歐洲與流行音樂的共同語言
 
-1989年柏林牆倒塌後，歐洲迅速轉變為跨境娛樂市場。 “用英語演唱的歐洲流行音樂”甚至開始從非英語國家（如德國、荷蘭、意大利和瑞典）進入國際市場。
+1989年柏林圍牆倒塌後，歐洲迅速轉變為跨國娛樂市場。 「用英語演唱的歐洲流行音樂」甚至開始從非英語國家（如德國、荷蘭、義大利和瑞典）進入國際市場。
 
-這意味著歐洲音樂是一種優先考慮感官愉悅而非政治界限的音樂文化。節奏、合成器和簡單、可重複的合唱。這些已經成為超越語言、超越國界的“共同語言”。
+這意味著歐洲音樂是一種優先考慮感官愉悅而非政治界限的音樂文化。節奏、合成器和簡單、可重複的合唱。這些已經成為超越語言、超越國界的「共同語言」。
 
 
 <小時>
 
 ### 主流成功案例（1990-1999）
 
-● [2 Unlimited – “為此做好準備” (1991)](https://amzn.to/4mXEgCl)
+● [2 Unlimited – 「為此做好準備」 (1991)](https://amzn.to/4mXEgCl)
 
-來自荷蘭。 “歐洲舞曲”經常在體育場館和廣告中使用。
+來自荷蘭。 「歐洲舞曲」經常在體育場館和廣告中使用。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZINQTPMDa_E?si=zg68GXFpICC1TM9y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-● [基地王牌 – “標誌” (1993)](https://amzn.to/4mXEhGp)
+● [基地王牌 – 「標誌」 (1993)](https://amzn.to/4mXEhGp)
 
-瑞典流行樂隊。連續 100 年在 Billboard Hot 100 排行榜上排名第一。
+瑞典流行樂團。連續 100 年在 Billboard Hot 100 排行榜上排名第一。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wGEOqRFrfdo?si=q4MhY2Eic69tqIuf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -109,15 +109,15 @@ title: '[專欄] 90年代的歐洲音樂是什麼？ ──舞池與旋律的盛
 
 ● [Corona – “夜之節奏” (1994)](https://amzn.to/3KFlcLU)
 
-意大利製造。它在拉丁美洲市場也很受歡迎，展示了 Eurodance 的多功能性。
+義大利製造。它在拉丁美洲市場也很受歡迎，展示了 Eurodance 的多功能性。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pwPkWV9ObwY?si=cg8-QZly--T47h0V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-● [埃菲爾 65 – “藍色 (Da Ba Dee)” (1999)](https://amzn.to/4n89ruR)
+● [艾菲爾 65 – “藍色 (Da Ba Dee)” (1999)](https://amzn.to/4n89ruR)
 
-伊塔洛舞蹈的傑作。數字語音和旋律的融合。
+伊塔洛舞蹈的傑作。數位語音和旋律的融合。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vpsPy5Csquk?si=fjzQGZSXJeU4Ofu6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -127,24 +127,24 @@ title: '[專欄] 90年代的歐洲音樂是什麼？ ──舞池與旋律的盛
 
 **● CD Maxi 單一培養**
 
-一首歌中包含多種混音和 B 面，使其適合俱樂部和家庭。
+一首歌包含多種混音和 B 面，使其適合俱樂部和家庭。
 
 **●MTV歐洲**
 
-銷售視頻和音樂的“視覺舞蹈文化”基地。
+銷售影片和音樂的「視覺舞蹈文化」基地。
 
 **● Super Eurobeat（日本）**
 
 日本Avex獨立開發的系列。也與頭文字 D 文化有關。
 
-**●歐洲生產、日本分銷的重新進口光盤**
+**●歐洲生產、日本分銷的重新進口光碟**
 
-意大利和德國製作，日本策劃，國產CD（例如MAHARAJA NIGHT）
+由義大利和德國製作，日本策劃，國產CD（如MAHARAJA NIGHT）
 
 
 <小時>
 
-### 20世紀90年代歐元在日本的接受度
+### 1990年代歐元在日本的接受度
 
 **Eurobeat**：avex 原創開發
 
@@ -152,13 +152,13 @@ title: '[專欄] 90年代的歐洲音樂是什麼？ ──舞池與旋律的盛
 
 - 頭文字 D 和 Parapara 文化的核心。
 
-**Eurodance**：迪斯科與日本流行音樂的混合體
+**Eurodance**：迪斯可與日本流行音樂的混合體
 
-- MAX、V6等日本團體已經發行了許多翻唱作品。
+- MAX、V6等日本團體已經發行許多翻唱作品了。
 
 **與視覺文化的融合**：非西歐文化
 
-- 它還被融入到動漫OP和遊戲BGM中，創造了一種“非西歐文化”。
+- 它也被融入到動漫OP和遊戲BGM中，創造了一種「非西歐文化」。
 
 
 <小時>
@@ -169,7 +169,7 @@ title: '[專欄] 90年代的歐洲音樂是什麼？ ──舞池與旋律的盛
 
 - 結構簡單，歌詞淺薄（通常毫無意義）
 
-- 批量生產/匿名（特定藝術家的存在感較弱）
+- 大量生產/匿名（特定藝術家的存在感較弱）
 
 - 商業上的成功=對藝術性的不尊重
 
@@ -178,15 +178,15 @@ title: '[專欄] 90年代的歐洲音樂是什麼？ ──舞池與旋律的盛
 
 <小時>
 
-### 重新評估與復興：2020年代及以後的形勢
+### 重新評估與復興：2020年代及以後的局勢
 
-近年來，歐洲音樂通過以下方式進行了重新評估：
+近年來，歐洲音樂透過以下方式進行了重新評估：
 
 - Eurodance 是 Hyperpop 和 Y2K 音樂的起源
 
 - 90 年代回歸俱樂部場景（後歐洲舞曲）
 
-- 與 City Pop 一樣，來自日本的 Eurobeat 也被互聯網一代重新發現。
+- 與 City Pop 一樣，來自日本的 Eurobeat 也被網路世代重新發現。
 
 此外，隨著 Spotify 和 YouTube 上播放量的增加，90 年代的歐元也吸引了新的受眾。
 
@@ -196,19 +196,19 @@ title: '[專欄] 90年代的歐洲音樂是什麼？ ──舞池與旋律的盛
 
 ### 歐洲音樂是“無國界的快樂”
 
-20 世紀 90 年代的歐洲音樂是一種將舞蹈、快樂和旋律變成一種國際語言的現象，而不是歌詞或政治。
+1990 年代的歐洲音樂是一種將舞蹈、快樂和旋律變成一種國際語言的現象，而不是歌詞或政治。
 這種輕盈成為一種武器，使他能夠超越流派界限和價值觀。
 
-現在，歐元的“天真熱度”可能再次向我們提出了一個超越類型和世代的問題。
+現在，歐元的「天真熱度」可能再次向我們提出了一個超越類型和世代的問題。
 
-對你來說是懷舊還是新鮮？
-
-<小時>
-
+對你來說是懷舊還是新鮮感？
 
 <小時>
 
-### 列表
+
+<小時>
+
+### 清單
 
 <div class="table-border">
 <table>

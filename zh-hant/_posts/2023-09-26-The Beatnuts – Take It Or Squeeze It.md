@@ -9,15 +9,15 @@ permalink: /zh-hant/the-beatnuts-take-it-or-squeeze-it/
 tags:
 - Hiphop
 - Rap
-title: Beatnuts – 要么拿走，要么擠壓
+title: Beatnuts – 要嘛拿走，要嘛擠壓
 ---
 
 
-《The Beatnuts – Take It Or Squeeze It》是嘻哈樂隊 The Beatnuts 的第四張錄音室專輯。這張專輯於 2001 年發行，展示了 The Beatnuts 標誌性的製作風格和詼諧的歌詞。
+《The Beatnuts – Take It Or Squeeze It》是嘻哈樂團 The Beatnuts 的第四張錄音室專輯。這張專輯於 2001 年發行，展示了 The Beatnuts 標誌性的製作風格和詼諧的歌詞。
 
-“Take It Or Squeeze It”圍繞樂觀、時髦的曲目構建，融合了各種音樂元素和样本。在這張專輯中，The Beatnuts 巧妙地融合了嘻哈、放克和拉丁音樂的元素，開發了自己獨特的聲音。
+《Take It Or Squeeze It》圍繞著樂觀、時髦的曲目構建，融合了各種音樂元素和樣本。在這張專輯中，The Beatnuts 巧妙地融合了嘻哈、放克和拉丁音樂的元素，開發了自己獨特的聲音。
 
-#### 曲目列表
+#### 曲目表
 ```md
 1.Intro
 
@@ -48,7 +48,7 @@ title: Beatnuts – 要么拿走，要么擠壓
 14.Se Acabo (Remix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m67307985366?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m67307985366?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Wm-pgF7hec?si=RK-1cqB30tQFvw5B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

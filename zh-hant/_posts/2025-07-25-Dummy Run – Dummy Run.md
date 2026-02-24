@@ -17,9 +17,9 @@ title: 假跑 – 假跑
 
 Dummy Run 是由 Andrew Sharpley 和 Nick Birmingham 組成的實驗性電子二人組。
 
-英國廠牌Hot Air於1996年發行的同名專輯是一張可以欣賞到Dummy Run獨特的drum'n'bass+left field風格的專輯。
+英國廠牌Hot Air於1996年發行的同名專輯是一張可以欣賞Dummy Run獨特的drum'n'bass+left field風格的專輯。
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. Trouble
 2. Zombies
@@ -52,7 +52,7 @@ Dummy Run 是由 Andrew Sharpley 和 Nick Birmingham 組成的實驗性電子二
 29. Chocky
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m11852007204?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m11852007204?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zdn8kGccQeU?si=D5hZR_k0IRbA4lJp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

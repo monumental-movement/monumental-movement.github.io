@@ -9,7 +9,7 @@ permalink: /zh-hant/boris-dlugosch-bionic-breaks/
 tags:
 - Electro
 - Hiphop
-title: 鮑里斯·德盧戈施（Boris Dlugosch）——仿生休息
+title: 鮑里斯·德盧戈施（Boris Dlugosch）－仿生休息
 ---
 
 
@@ -17,7 +17,7 @@ Boris Dlugosch 是一位居住在漢堡的 house DJ 和製作人。
 
 Boris Dlugosch 是漢堡傳奇俱樂部 FRONT 的前常駐 DJ，也是德國 house 音樂文化的先驅。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Man Parrish – Hip Hop, Be Bop (Don't Stop)
 
@@ -38,7 +38,7 @@ D2. G.L.O.B.E. & Whiz Kid – Play That Beat Mr. D.J.
 D3. Gary's Gang – Makin' Music
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m89964094141?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m89964094141?afid=6142608987){: .button1}
 
 
 #### Youtube

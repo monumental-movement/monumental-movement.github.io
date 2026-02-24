@@ -13,10 +13,10 @@ title: 各種 – O Samba
 ---
 
 
-“各種-桑巴舞”是
-這是大衛·拜恩 (David Byrne) 於 1991 年發行的合輯盒式磁帶。
+「各種-桑巴舞」是
+這是大衛拜恩 (David Byrne) 於 1991 年發行的合輯盒式磁帶。
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. Clara Nunes–A Deusa Dos Orixás
 
@@ -49,7 +49,7 @@ title: 各種 – O Samba
 15. Paulinho Da Viola–Sarou Para Ramadés
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m33683727041?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m33683727041?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E8drLmwYMTU?si=Ik2EPOb7u_MmQq-U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

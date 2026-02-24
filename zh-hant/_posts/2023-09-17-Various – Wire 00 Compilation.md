@@ -13,11 +13,11 @@ title: 各種 – Wire 00 編譯
 ---
 
 
-這是2000年舉辦的史上規模最大的室內銳舞會“WIRE 00”的表演者們的合輯。
+這是2000年舉辦的史上規模最大的室內銳舞會「WIRE 00」的表演者們的合輯。
 
-2-LP 套裝還包括來自 Sven Väth、DJ Hell 和 WestBam 的曲目。
+2-LP 套裝還包括 Sven Väth、DJ Hell 和 WestBam 的曲目。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1  Denki Groove–Wire, Wireless (Arena)
 
@@ -49,7 +49,7 @@ D2  DJ Tasaka–Ganz Ganguro
 D3  Beroshima–WWW. (Robot Mix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m45913963651?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m45913963651?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4KiXRG3h9Po?si=xMQtVWN-5L4-sbAx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

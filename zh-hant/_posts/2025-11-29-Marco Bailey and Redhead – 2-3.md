@@ -10,13 +10,13 @@ permalink: /zh-hant/marco-bailey-and-redhead-2-3/
 tags:
 - Techno
 - 00s
-title: 馬可·貝利 & 紅發女郎 – 2 3
+title: 馬可貝利 & 紅髮女郎 – 2 3
 ---
 
 
 比利時 techno 界頂級 DJ 二人組 Marco Bailey 和 Redhead（Steve Vangilbergen）於 2000 年在 Invasion 廠牌上發行的 Techno 曲目。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. In Surreal Systems
 A2. Threshold
@@ -24,7 +24,7 @@ A2. Threshold
 B1. Soulwatching
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m75255540844?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m75255540844?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2JAPpUCsTOM?si=ZcbscAZbXcqHCKaJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

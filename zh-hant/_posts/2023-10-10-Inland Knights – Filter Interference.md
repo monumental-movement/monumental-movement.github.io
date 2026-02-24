@@ -9,14 +9,14 @@ permalink: /zh-hant/inland-knights-filter-interference/
 tags:
 - House
 - Deep House
-title: 內陸騎士 – 過濾乾擾
+title: 內陸騎士 – 濾波幹擾
 ---
 
 
-“過濾乾擾”是
-這是由 Andy Riley 和 Laurence Ritchie 組成的 Inland Knights 樂隊於 1999 年在英國廠牌“Drop Music”上發行的一張 EP。
+「過濾幹擾」是
+這是由 Andy Riley 和 Laurence Ritchie 組成的 Inland Knights 樂團於 1999 年在英國廠牌「Drop Music」上發行的一張 EP。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Don't Forget
 
@@ -27,7 +27,7 @@ B1. Over You
 B2. Believe
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m82392456293?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m82392456293?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wCZ9EVMEHYM?si=xLSGPNOel3-8kTEL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

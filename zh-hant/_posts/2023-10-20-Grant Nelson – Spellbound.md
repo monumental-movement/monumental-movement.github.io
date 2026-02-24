@@ -17,12 +17,12 @@ Grant Nelson 是一位來自倫敦的製作人、混音師和 DJ，他在 90 年
 
 《Spellbound》是 Bas NoirMy 的《Love Is Magic》的混音版，於 1988 年由 Nugrove 廠牌發行。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Spellbound
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m49779856384?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m49779856384?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jbbylJsJsoc?si=3eGjz8FfdpNka93v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -15,12 +15,12 @@ title: 不再有好人先生 – 固定
 
 《Fixation》是 Pete Lazonby 和 Tim Fielding 的單曲《No More Mr Nice Guy》的 EP，於 1995 年在英國唱片公司“:Confusion Records”發行。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Fixation
 
 B. Space Terrace
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m33347969648?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m33347969648?afid=6142608987){: .button1}
 

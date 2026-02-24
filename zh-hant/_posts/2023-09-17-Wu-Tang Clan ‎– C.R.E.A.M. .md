@@ -17,7 +17,7 @@ title: 武當派 – C.R.E.A.M.
 
 他們以其令人上癮的製作和內省的歌詞而聞名，其中採樣了查梅爾斯樂隊的“只要我有你”，他們反映了貧困社區生活的艱辛和對經濟成功的渴望。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. C.R.E.A.M. (Radio Edit)
 
@@ -36,7 +36,7 @@ B3. Da Mystery Of Chessboxin' (A Cappella)
 B4. Da Mystery Of Chessboxin' (Instrumental)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m66730641557?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m66730641557?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PBwAxmrE194?si=Od0iR6rZ_jvGDWiR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -15,11 +15,11 @@ title: 宗加明 – 宗加明
 ---
 
 
-向井進（Susumu Mukai），也被稱為 Zongamin，是一位居住在英國的日本音樂家和製作人。他是 Air、Playgroup、Graffiti、John Cale、Mickey Moonlight、Headman、Sandro Perri、Alexis Taylor、Seelenluft 等樂隊的混音師，也是 Vanishing Twin、Becker & Mukai、Off World、Stalactite、School Of Hypnosis 等樂隊的成員。
+向井進（Susumu Mukai），也被稱為 Zongamin，是一位居住在英國的日本音樂家和製作人。他是 Air、Playgroup、Graffiti、John Cale、Mickey Moonlight、Headman、Sandro Perri、Alexis Taylor、Seelenluft 等樂團的混音師，也是 Vanishing Twin、Becker & Mukai、Off World、Stalactite、School Of Hypnosis 等樂團的成員。
 
 《Zongamin》是 XL Recordings 於 2003 年發行的首張專輯。
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. Make Love Not War
 2. Serious Trouble
@@ -36,7 +36,7 @@ title: 宗加明 – 宗加明
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m75936834984?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m75936834984?afid=6142608987){: .button1}
 
 
 #### Youtube

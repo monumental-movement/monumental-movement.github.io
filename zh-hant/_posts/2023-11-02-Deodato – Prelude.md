@@ -17,7 +17,7 @@ title: 德奧達托 – 前奏曲
 
 這張專輯將古典樂曲改編成電子爵士樂，《查拉圖斯特拉如是說》被稱為最著名的早期跨界/融合歌曲之一。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Also Sprach Zarathustra
 
@@ -32,7 +32,7 @@ B2. Prelude To Afternoon Of A Faun
 B3. September 13
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m95926567501?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m95926567501?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QHUd8Droisw?si=N73wznNnMsod_yPd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

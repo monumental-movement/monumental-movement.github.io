@@ -10,13 +10,13 @@ tags:
 - Deep House
 - House
 - Techno
-title: 共鳴冥想——貢格拉達
+title: 共鳴冥想－貢格拉達
 ---
 
 
-由細野晴臣監督的 Lost & Found 系列的第一張專輯。 2000年4月17日在巴厘島使用24位192KHz聲音系統本地錄製的聲源。
+由細野晴臣監督的 Lost & Found 系列的第一張專輯。 2000年4月17日在峇裡島使用24位元192KHz聲音系統本地錄製的聲音來源。
 
-#### 曲目列表
+#### 曲目表
 ```md
 01. 創作儀礼曲「革命の鐘」/I Wayan Beratha(イ・ワヤン・ブラダ)
 02. 儀礼曲「スマラ神の火刑」/Traditional(トラディッショナル)
@@ -27,8 +27,8 @@ title: 共鳴冥想——貢格拉達
 
 細野晴臣監督的《Lost & Found》
 
-共鳴冥想——貢格拉達
+共鳴冥想－貢格拉達
 
 共振冥想 共振冥想-Gong Gradag
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m46194452889?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m46194452889?afid=6142608987){: .button1}

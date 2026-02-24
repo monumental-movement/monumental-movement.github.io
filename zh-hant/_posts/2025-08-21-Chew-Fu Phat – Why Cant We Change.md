@@ -20,11 +20,11 @@ Chew Fu 的特點是混合了電子浩室和嘻哈音樂的原創風格。他的
 《Why Can't We Change》是荷蘭唱片公司 Bomboza 於 2005 年發行的一首 House 歌曲。
 
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Why Can't We Change (Original)
 
 B1. Why Can't We Change (Pay Tur Remix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m66467003953?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m66467003953?afid=6142608987){: .button1}

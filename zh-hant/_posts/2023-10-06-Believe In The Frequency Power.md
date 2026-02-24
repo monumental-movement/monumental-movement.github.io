@@ -13,9 +13,9 @@ title: 相信頻率的力量
 ---
 
 
-《Believe In TheFrequency Power》是英國廠牌“North South”於1994年發行的一張合輯。
+《Believe In TheFrequency Power》是英國廠牌「North South」於1994年發行的一張合輯。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Organization–Eternal
 
@@ -36,7 +36,7 @@ B4. Palomatic–Halo
 B5. Kiyoshi Hazemoto–Dawn Of Rainland
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m23425148863?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m23425148863?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CURYL9vRtMw?si=gaB6hOqWkSg5yz-G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -20,7 +20,7 @@ title: Kelly-G 完美節奏 – 未來之旅
 
 Perception Records 是由 Unie Weimer 和 Aron Friedman 經營的早期英國硬核和科技唱片公司，於 1991 年發行了一首碎拍硬核科技歌曲。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Trip Into The Future
 
@@ -28,7 +28,7 @@ AA1. PM
 AA2. Soul Fusion
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m37219507926?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m37219507926?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hUIaPVwSTd8?si=h6aVdW3VgKYHqb9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

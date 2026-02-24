@@ -25,7 +25,7 @@ title: Amel Larrieux – Get Up（Guy Robin 和 DJ Leo Main Remixes）
 
 這張唱片是英國製作人 Guy Robin 和 DJ Leo 於 2009 年非正式發行的 House/Deep House 混音。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Get Up (Guy Robin & DJ Leo Main Vocal Mix)
 
@@ -33,4 +33,4 @@ B1. Get Up (Guy Robin & DJ Leo Underground Mix)
 B2. Get Up (Guy Robin & DJ Leo Dubstrumental Mix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m55918745313?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m55918745313?afid=6142608987){: .button1}

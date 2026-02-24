@@ -16,7 +16,7 @@ title: 各種 - 完全有線九
 
 英國唱片公司 Acid Jazz 於 1992 年發行了一張酸性爵士樂合輯。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1.Max Beesley's High Vibes – Mr. Jeckle
 
@@ -37,7 +37,7 @@ B4.The Grass Snakes – That's It
 B5.Raw – Dreams
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m73976121737?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m73976121737?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/He46detc_ak?si=zj8xRWFsRknAKGZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

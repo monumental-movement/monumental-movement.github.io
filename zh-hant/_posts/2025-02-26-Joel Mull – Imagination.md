@@ -9,7 +9,7 @@ permalink: /zh-hant/joel-mull-imagination/
 tags:
 - Techno
 - 00s
-title: 喬爾·馬爾——想像力
+title: 喬爾馬爾——想像力
 ---
 
 
@@ -19,7 +19,7 @@ Joel Mull 的首張專輯《Imagination》（2000 年）對許多聽眾來說仍
 
 首先，可以說《暢想》最大的吸引力在於它的身臨其境的感覺。在整張專輯中，喬爾·馬爾以精緻的節奏和質感層次將聽眾帶入了一段超凡脫俗的旅程。
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. Carbon 14
 2. Daylight
@@ -34,7 +34,7 @@ Joel Mull 的首張專輯《Imagination》（2000 年）對許多聽眾來說仍
 11. Snabba Sekunder
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m93462120313?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m93462120313?afid=6142608987){: .button1}
 
 #### 尤特布埃
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tG6LoMWEzi0?si=oGeryVZjl6aDrLcU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,13 +9,13 @@ permalink: /zh-hant/alec-empire-the-destroyer/
 tags:
 - Digital Hardcore
 - Breakcore
-title: 亞歷克帝國——毀滅者
+title: 亞歷克帝國－毀滅者
 ---
 
 
-Alec Empire 是一位德國實驗電子音樂家，也是 Atari Teenage Riot 樂隊的創始成員。
+Alec Empire 是一位德國實驗電子音樂家，也是 Atari Teenage Riot 樂團的創始成員。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Untitled
 A2. We All Die!
@@ -38,7 +38,7 @@ D3. Pleasure Is Our Business (Live!)
 D4. Untitled
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m94890989911?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m94890989911?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pkVKrOFxTWk?si=kZuxmX7qD-gSKCRd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

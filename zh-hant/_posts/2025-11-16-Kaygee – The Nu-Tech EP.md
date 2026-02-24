@@ -18,14 +18,14 @@ title: Kaygee – Nu-Tech EP
 
 2001 年，英國廠牌 OTR (On The Record) Recordings 發行的 Hard House/Hard Trance 曲目《The Nu-Tech EP》是 Kaygee 以該名字發行的唯一一張專輯。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Agresif
 
 B. Bodakular
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m95459871369?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m95459871369?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9BAcbA_KHig?si=_bWQ3FG2gy3UlAVw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

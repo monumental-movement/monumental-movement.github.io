@@ -17,7 +17,7 @@ title: Leroy Hanghofer – Bathroomboogie
 
 但厚重的貝斯線和清脆的合成器使一切都保持在緊密的軌道上，並讓一切愉快地進行。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Overtüre
 
@@ -28,7 +28,7 @@ B1. Bathroomboogie (DJ Chloé Rmx)
 B2. Das Pi - Kurz!
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m31669126197?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m31669126197?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cwTqnWL15Pw?si=IiWztBIeDkNxL6pq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

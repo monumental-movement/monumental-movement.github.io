@@ -10,7 +10,7 @@ tags:
 - Breaks
 - Hardcore
 - Electronic
-title: 酶與惡意——蟲洞親密接觸
+title: 酵素與惡意－蟲洞親密接觸
 ---
 
 
@@ -22,14 +22,14 @@ Enzyme 是一位多產的硬核音樂 DJ、製作人，也是 2Fresh 和 2FX Rec
 
 他以其多產的作品和充滿活力、強大的現場表演而聞名，其獨特的風格融合了硬核音樂、電子音樂和叢林等流派。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Enzyme & Malice – Close Encounters
 
 AA. Enzyme – Thru The Wormhole
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m20131022518?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m20131022518?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EWC9cGx_084?si=lhQ49P5AYVVpKXRW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

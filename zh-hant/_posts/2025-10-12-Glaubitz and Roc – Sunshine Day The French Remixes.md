@@ -20,9 +20,9 @@ title: Glaubitz & Roc – Sunshine Day 法國混音
 
 A1 是 Robert Collado 和 Stéphane Bonan 的混音版。
 
-B 是 DJ Richard Gray 的混音作品，他為 house 音樂中“French Touch”的全球成功做出了貢獻。
+B 是 DJ Richard Gray 的混音作品，他為 house 音樂中「French Touch」的全球成功做出了貢獻。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Sunshine Day (Funky Stuff Ft. Stephane B & Robert Collado Mix)
 A2. Sunshine Day (Radio Edit)
@@ -31,4 +31,4 @@ B1. Sunshine Day (Richard Grey Dub Mix)
 B2. Sunshine Day (Richard Grey Classic Mix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m56961334854?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m56961334854?afid=6142608987){: .button1}

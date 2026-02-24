@@ -10,13 +10,13 @@ tags:
 - House
 - Disco
 - Acid
-title: 喬·斯穆特 – 迪斯科酸 4
+title: 喬·斯穆特 – 迪斯可酸 4
 ---
 
 
-《Disco Acid 4》是 Joe Smooth 於 2003 年在“Trax Records”廠牌上發行的一張 EP。
+《Disco Acid 4》是 Joe Smooth 於 2003 年在「Trax Records」廠牌上發行的 EP。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Alternative3
 
@@ -27,7 +27,7 @@ B1. Faster Than Light
 B2. Walking Into Sunshine
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m36121483921?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m36121483921?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/49AWQTaI14I?si=Kn9s85WRWB2Dev-f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

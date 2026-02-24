@@ -9,7 +9,7 @@ permalink: /zh-hant/illusion-why-can-t-we-live-together/
 tags:
 - House
 - 80s
-title: Illusion – Why Can't We Live Together
+title: 錯覺－為什麼我們不能住在一起
 ---
 
 
@@ -17,14 +17,14 @@ title: Illusion – Why Can't We Live Together
 
 A 是 Danny Rampling 的混音版，Danny Rampling 是一位英國 house 音樂 DJ，被廣泛認為是銳舞/俱樂部場景的創始人之一。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Why Can't We Live Together (Love & Unity Remix)
 
 B. Why Can't We Live Together (Original 12" Version)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m20635285409?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m20635285409?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F6oVUo_0TOM?si=y21sOPpBOFcPDe2t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

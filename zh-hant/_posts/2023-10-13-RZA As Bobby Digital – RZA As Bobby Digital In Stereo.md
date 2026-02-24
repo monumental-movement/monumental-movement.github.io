@@ -13,11 +13,11 @@ title: RZA 飾演 Bobby Digital – RZA 飾演 Bobby Digital 立體聲
 ---
 
 
-“RZA As Bobby Digital – RZA As Bobby Digital In Stereo”是
+「RZA As Bobby Digital – RZA As Bobby Digital In Stereo」是
 RZA 武當派的首張個人專輯。
 
 
-#### 曲目列表
+#### 曲目表
 ```md
 1.  B.O.B.B.Y.
 2. Unspoken Word
@@ -37,7 +37,7 @@ RZA 武當派的首張個人專輯。
 16. Domestic Violence
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m93089462366?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m93089462366?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x2mvgnXw--0?si=Q8WKX7zdu6pGJMSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -21,7 +21,7 @@ Buddy 和 Junior 都展示了他們作為領導者的技能，並在整張專輯
 這套 2 張唱片是藍調樂迷必看的作品。
 
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Let Me love You, Baby
 
@@ -62,7 +62,7 @@ D4. Waterman Blues (Instrumental)
 D5. Messin' With The Kid
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m61574554178?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m61574554178?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZdBIFuNbhqU?si=UiU10_aC8rWVGJLj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

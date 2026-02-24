@@ -17,7 +17,7 @@ title: 1200 麥克風 – 神奇數字
 
 《Magic Numbers》是 1200 Micrograms 的第三張錄音室專輯，以他們迷幻的恍惚狀態和飽滿的聲音為特色。他們的音樂在舞蹈和節日等電子音樂場景中廣受歡迎。
 
-#### 曲目列表
+#### 曲目表
 ```md
 1.The Magic Numbers Theme
 
@@ -34,7 +34,7 @@ title: 1200 麥克風 – 神奇數字
 7.Numbers Are Alive
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m59821579100?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m59821579100?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_u0ip7-HNyU?si=s4wCylQ3ypEhAjDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

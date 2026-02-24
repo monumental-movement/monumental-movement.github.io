@@ -11,7 +11,7 @@ tags:
 - Tech House
 - House
 - 00s
-title: 大衛·阿爾瓦拉多 – 藍色
+title: 大衛‧阿爾瓦拉多 – 藍色
 ---
 
 
@@ -19,14 +19,14 @@ title: 大衛·阿爾瓦拉多 – 藍色
 
 A 是創新的 techno/tech house DJ Christian Smith 和 John Selway 的混音作品。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Blue (Christian Smith & John Selway Remix)
 
 B. Blue (Original Dub)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m59687516519?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m59687516519?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c3qMxAFAoD0?si=mQ3lqXbodOUynUtR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

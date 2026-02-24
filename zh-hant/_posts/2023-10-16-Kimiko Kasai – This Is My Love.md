@@ -9,13 +9,13 @@ permalink: /zh-hant/kimiko-kasai-this-is-my-love/
 tags:
 - Soul
 - Jazz
-title: 葛西貴子——這是我的愛
+title: 葛西貴子－－這是我的愛
 ---
 
 
 《This Is My Love》是一張於1975年發行的專輯。由Bobby Scott編曲。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Use Me
 
@@ -38,7 +38,7 @@ B5. I Wish I Could Walk Away
 B6. Little Things
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m94581673647?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m94581673647?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_bVAr4GA19g?si=XE1jaizKmaCLSHKn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

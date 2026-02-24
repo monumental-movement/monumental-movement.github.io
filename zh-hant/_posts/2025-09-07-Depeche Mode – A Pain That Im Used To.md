@@ -10,7 +10,7 @@ tags:
 - IDM
 - Electro
 - 00s
-title: Depeche 模式——我已經習慣的痛苦
+title: Depeche 模式－我已經習慣的痛苦
 ---
 
 
@@ -21,14 +21,14 @@ title: Depeche 模式——我已經習慣的痛苦
 IDM/Electro 由英國廠牌 Mute 於 2005 年發行。
 
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. A Pain That I'm Used To (Bitstream Threshold Mix)
 
 AA. A Pain That I'm Used To (Bitstream Spansule Mix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m48271668097?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m48271668097?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G2iGtRseS7E?si=IXNE3FPN7DsfxaLw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

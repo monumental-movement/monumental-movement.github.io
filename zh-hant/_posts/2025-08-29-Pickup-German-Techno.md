@@ -26,7 +26,7 @@ title: 挑選德國Techno作品
 亮點：德國著名廠牌 Tresor 的合輯，收錄了 Sven Väth、Maurizio、Ben Sims、James Ruskin 和 Pacou 等科技界大腕的精選曲目。這是一首可以讓你充分體驗象徵德國柏林的硬派、簡約、創新的techno魅力的作品。
 
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. Sven Väth –Dub Control Your Mind (Track &amp; Feel Edit)
 2. Maurizio –M4
@@ -43,7 +43,7 @@ title: 挑選德國Techno作品
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m32845023734?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m32845023734?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -53,15 +53,15 @@ title: 挑選德國Techno作品
 
 
 
-### 殭屍國度——靈魂歸零
-<a href="https://jp.mercari.com/item/m23525284617?afid=6142608987"><img src="../assets/images/Zombie%20Nation%20%E2%80%93%20Souls%20At%20Zero.webp"></a>
+### 殭屍國度－靈魂歸零
+<a href="https://jp.mercari.com/item/m23525284617?afid=6142608987"><img src="../assets/images/Zombie%20Nation%20%E2%80%93%20Souls%20web%20Nation%20%E2%80%93%20Souls%20web%20Zero.
 
 
 
-亮點：德國DJ/製作人Splank的項目Zombie Nation的傑作！ （弗洛里安·森夫特）。特別是，A面“Souls At Zero（原創專輯版本）”與Sven Väth的混音B面搭配。 Sven Väth 的混音具有強大的收尾效果，融合了德國 techno 的沉重和戲劇性。
+亮點：德國DJ/製作人Splank的專案Zombie Nation的傑作！ （弗洛里安·森夫特）。特別是，A面「Souls At Zero（原始專輯版本）」與Sven Väth的混音B面搭配。 Sven Väth 的混音具有強大的收尾效果，融合了德國 techno 的沉重和戲劇性。
 
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Souls At Zero (Original Album Version)
 
@@ -69,7 +69,7 @@ B. Souls At Zero (Sven Väth Remix)
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m23525284617?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m23525284617?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -79,14 +79,14 @@ B. Souls At Zero (Sven Väth Remix)
 
 
 
-### Cygnus X – 橙色主題（混音版）
-<a href="https://jp.mercari.com/item/m39474275698?afid=6142608987"><img src="../assets/images/Cygnus%20X%20%E2%80%93%20The%20Orange%20Theme%20(The%20Remixes).webp"></a>
+### Cygnus X – 橘色主題（混音版）
+<a href="https://jp.mercari.com/item/m39474275698?afid=6142608987"><img src="../assets/images/Cygnus%20X%20%E2%80%93%20The%20Orange%20X%20%E2%80%93%20The%20Orange%(Thewebp.
 
 
 亮點：德國組合 Cygnus X 充滿活力、振奮人心的 trance techno 傑作《The Orange Theme》的混音版。包含 Moonman、Bervoets & De Goeij、Mark Van Dale 和 Enrico 等人的各種混音版，讓您享受捕捉原曲精髓的適合俱樂部的編曲。
 
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. The Orange Theme (Moonman's Orange Juice Mix)
 A2. The Orange Theme (Original Mix)6:29
@@ -96,7 +96,7 @@ B2. The Orange Theme (Mark Van Dale With Enrico Mix)
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m39474275698?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m39474275698?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -108,14 +108,14 @@ B2. The Orange Theme (Mark Van Dale With Enrico Mix)
 
 
 ### Elektrochemie LK – 金獎！
-<a href="https://jp.mercari.com/item/m11889088321?afid=6142608987"><img src="../assets/images/Elektrochemie%20LK%20%E2%80%93%20Gold.webp"></a>
+<a href="https://jp.mercari.com/item/m11889088321?afid=6142608987"><img src="../assets/images/Elektrochemie%20LK%20%E2%80%93%20Gold.webp"></aa>
 
 
 
-亮點：托馬斯·舒馬赫 (Thomas Schumacher) 2001 年推出的個人項目“Elektrochemie LK”。這是一首極具吸引力的作品，將紮實的節奏與經典的德國科技美學融為一體。自由奔放、前衛的賽道發展讓人眼前一亮。
+亮點：托馬斯·舒馬赫 (Thomas Schumacher) 2001 年推出的個人項目“Elektrochemie LK”。這是一首極具吸引力的作品，將紮實的節奏與經典的德國科技美學融為一體。自由奔放、前衛的賽道發展讓人眼睛一亮。
 
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Schall (Album Version)
 A2. Things Go Wrong II
@@ -135,7 +135,7 @@ F2. Ein Nenner
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m11889088321?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m11889088321?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -147,13 +147,13 @@ F2. Ein Nenner
 
 
 ### Elektrochemie LK – 當我搖滾時
-<a href="https://jp.mercari.com/item/m37743482457?afid=6142608987"><img src="../assets/images/Elektrochemie%20LK%20%E2%80%93%20When%20I%20Rock.webp"></a>
+<a href="https://jp.mercari.com/item/m37743482457?afid=6142608987"><img src="../assets/images/Elektrochemie%20LK%20%E2%80%93%20When%20I%20LK%20%E2%80%93%20When%20I%。
 
 
-亮點：《When I Rock》是托馬斯·舒馬赫的代表作之一。除了原始混音之外，它還包括 DJ Rush 和 Santos 的混音，使其成為您可以享受節奏衝突和不同詮釋的豐富性的作品。
+亮點：《When I Rock》是托馬斯舒馬克的代表作之一。除了原始混音之外，它還包括 DJ Rush 和 Santos 的混音，使其成為您可以享受節奏衝突和不同詮釋的豐富性的作品。
 
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. When I Rock (Original Mix)
 A2. When I Rock (DJ Rush's Rock Da Beat Remix) 
@@ -162,7 +162,7 @@ B1. When I Rock (Santos Remix)
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m37743482457?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m37743482457?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -174,14 +174,14 @@ B1. When I Rock (Santos Remix)
 
 
 ### 壞皮條客 – 給它
-<a href="https://jp.mercari.com/item/m71741554299?afid=6142608987"><img src="../assets/images/Bad%20Pimps%20%E2%80%93%20Give%20It.webp"></a>
+<a href="https://jp.mercari.com/item/m71741554299?afid=6142608987"><img src="../assets/images/Bad%20Pimps%20%E2%80%93%20Give%20It.webp</a>
 
 
 
-亮點：德國 Kanzleramt 廠牌創始人 Patrick Lindsey 和比利時 techno 藝術家 Stanny Franssen (G-Force) 的項目。由 Monika Kruse 的廠牌 Terminal M 於 2002 年發行，這是 Techno 和 Tech House 之間令人興奮的跨界作品。
+亮點：德國 Kanzleramt 廠牌創始人 Patrick Lindsey 和比利時 techno 藝術家 Stanny Franssen (G-Force) 的計畫。由 Monika Kruse 的廠牌 Terminal M 於 2002 年發行，這是 Techno 和 Tech House 之間令人興奮的跨界作品。
 
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Give.It.!
 
@@ -190,7 +190,7 @@ B2. Get On Up!
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m71741554299?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m71741554299?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -205,10 +205,10 @@ B2. Get On Up!
 <a href="https://jp.mercari.com/item/m77843863379?afid=6142608987"><img src="../assets/images/Bazz-Dee%20and%20Waldhaus%20Weichentechnikk%20%E2%80%93%20Brachial%202004%2004.webp"></a>
 
 
-魅力點：Waldhaus 和 Bazz-Dee 創作的帶有濃郁工業氣息的硬科技，其中一首歌曲大膽地借鑒了 KISS 的《I Was Made For Loving You》。正如標題所暗示的那樣，“肱”（激進和粗暴）的風格對粉絲來說是不可抗拒的。
+魅力：Waldhaus 和 Bazz-Dee 創作的帶有濃鬱工業氣息的硬科技，其中一首歌曲大膽地借鑒了 KISS 的《I Was Made For Loving You》。正如標題所暗示的那樣，“肱”（激進和粗暴）的風格對粉絲來說是不可抗拒的。
 
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Bazz-Dee &amp; Waldhaus – I Was Made For Loving Your
 
@@ -216,7 +216,7 @@ A2. Bazz-Dee &amp; Weichentechnikk – Samurai Pizza Cats
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m77843863379?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m77843863379?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -227,15 +227,15 @@ A2. Bazz-Dee &amp; Weichentechnikk – Samurai Pizza Cats
 
 
 
-### 約翰內斯·赫爾（Johannes Heil）——未來原始人
-<a href="https://jp.mercari.com/item/m46295753268?afid=6142608987"><img src="../assets/images/Johannes%20Heil%20%E2%80%93%20Future%20Primitive.webp"></a>
+### 約翰內斯·赫爾（Johannes Heil）－未來原始人
+<a href="https://jp.mercari.com/item/m46295753268?afid=6142608987"><img src="../assets/images/Johannes%20Heil%20%E2%80%93%20Future%200itive.webp">Prima>
 
 
 
 亮點：約翰內斯·海爾的作品，特點是黑暗和戲劇性的方向。這是一種具有深沉節拍和迷幻風格的未來科技體驗。這個故事令人印象深刻，它在沉默和爆炸之間來回移動。
 
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1  Future Primitive Intro
 A2  Children Of The Night
@@ -252,7 +252,7 @@ D   Cherubim
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m46295753268?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m46295753268?afid=6142608987){: .button1}
 
 
 #### Youtube

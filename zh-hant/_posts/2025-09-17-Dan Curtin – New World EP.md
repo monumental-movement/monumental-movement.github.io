@@ -12,7 +12,7 @@ tags:
 - Tribal
 - Latin
 - 90s
-title: 丹·科廷 (Dan Curtin) – 新世界 EP
+title: 丹‧科廷 (Dan Curtin) – 新世界 EP
 ---
 
 
@@ -24,7 +24,7 @@ D1 是荷蘭傳奇人物 Orlando Voorn 的混音版。
 
 D2 是英國 techno 音樂家 Dave Angel 的混音作品。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. New World
 A2 Page Me
@@ -38,7 +38,7 @@ D1. Page Me (Orlando Voorn Mix)
 D2. Sword Of Orion (Dave Angel Mix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m10623117121?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m10623117121?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zJs2ai8SWS4?si=LeWSLStQLvjsmBj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

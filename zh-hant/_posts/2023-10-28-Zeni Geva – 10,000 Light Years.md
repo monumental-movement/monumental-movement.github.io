@@ -14,10 +14,10 @@ title: Zeni Geva – 10000 光年
 ---
 
 
-“Zeni Geva – 10000 光年”是
-2000 年 10 月在芝加哥電氣音頻錄製的專輯的宣傳專輯。
+「Zeni Geva – 10000 光年」是
+專輯宣傳片於 2000 年 10 月在芝加哥 Electrical Audio 錄製。
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. 10,000 Light Years
 2. Implosion
@@ -29,7 +29,7 @@ title: Zeni Geva – 10000 光年
 8. Auto-Fuck
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m23225529130?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m23225529130?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ilhOe5LGhnc?si=gtMA25vrH-EcCUBv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

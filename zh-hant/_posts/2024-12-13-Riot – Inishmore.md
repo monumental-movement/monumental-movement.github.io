@@ -14,9 +14,9 @@ title: 騷亂——伊尼什莫爾
 ---
 
 
-《Inishmore》是美國硬搖滾/重金屬樂隊Riot於1997年在日本發行的第十張錄音室專輯。這張專輯取材於凱爾特和愛爾蘭神話的傳奇故事。第 12 首曲目是僅在日語版本中提供的附贈曲目。發行時的成員包括 Mike DiMeo、Mark Reale、Mike Flyntz、Pete Perez 和 Bobby Jarzombek。
+《Inishmore》是美国硬摇滚/重金属乐队Riot于1997年在日本发行的第十张录音室专辑。这张专辑取材于凯尔特和爱尔兰神话的传奇故事。第 12 首曲目是僅在日文版本中提供的附贈曲目。发行时的成员包括 Mike DiMeo、Mark Reale、Mike Flyntz、Pete Perez 和 Bobby Jarzombek。
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. Black Water
 2. Angel Eyes
@@ -32,7 +32,7 @@ title: 騷亂——伊尼什莫爾
 12. Danny Boy
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m31654204481?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m31654204481?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ytxAvA9ad48?si=dv6gN-nB9O3A00j4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,13 +10,13 @@ tags:
 - Techno
 - Break Beat
 - Hard Techno
-title: Quadrophonia——未來的浪潮
+title: Quadrophonia－未來的浪潮
 ---
 
 
 Quadrophonia 是荷蘭 DJ Lucien Foort 和比利時 DJ Olivier Abbeloos 的一個項目。
 
-《The Wave Of The Future》是一首 1991 年發行的碎拍硬核科技歌曲。
+《The Wave Of The Future》是一首 1991 年發行的碎拍硬蕊科技歌曲。
 
 A 面的第二首曲目是 Mark Ryder (DJ Ryder) 的混音版。
 
@@ -28,15 +28,15 @@ A 面的第二首曲目是 Mark Ryder (DJ Ryder) 的混音版。
 
 他的名字因與 Lucien Foott 的二人組 Quadroonia 而廣為人知。
 
-與此同時，T99最初是Patrick De Meyer的個人項目，在發行了三張專輯後，Patrick De Meyer聽說Olivier Abbeloos正在創作一首名為“Anastasia”的歌曲，並建議他們以T99的名義發行它。
+同時，T99最初是Patrick De Meyer的個人項目，在發行了三張專輯後，Patrick De Meyer聽說Olivier Abbeloos正在創作一首名為“Anastasia”的歌曲，並建議他們以T99的名義發行它。
 
 Olivier Abbeloos 同意了，T99 開始以二人組的形式工作。
 
 兩人後來發行了他們唯一的專輯《Children Of Chaos》。
 
-順便說一句，阿布里洛斯的妹夫是奧利維爾·彼得斯 (Olivier Pieters)，他也在唱片店 Target Records 的進口部門工作。
+順便說一句，阿布里洛斯的妹夫是奧利維爾彼得斯 (Olivier Pieters)，他也在唱片店 Target Records 的進口部門工作。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. The Wave Of The Future (Large Mix)
 
@@ -49,7 +49,7 @@ B2. The Wave Of The Future (Medium Mix)
 B3. The Wave Of The Future (Small Mix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m15962785209?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m15962785209?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rVJNh6D4kkE?si=gwjAs4eVSLK9Foff" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

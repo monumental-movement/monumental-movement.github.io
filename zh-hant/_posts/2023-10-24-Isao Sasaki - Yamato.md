@@ -10,7 +10,7 @@ tags:
 - Theme
 - JPop
 - 7inch
-title: 佐佐木功 – 告別宇宙戰艦大和號愛的戰士 – 好敵人
+title: 佐佐木勳 – 告別宇宙戰艦大和號愛的戰士 – 好敵人
 ---
 
 
@@ -22,14 +22,14 @@ title: 佐佐木功 – 告別宇宙戰艦大和號愛的戰士 – 好敵人
 
 歌曲 - 佐佐木功
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. 好敵手
 
 B. テレサよ永遠に
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m54170309035?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m54170309035?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kEpoq39ezN8?si=8jBS81DdYfFoXR7V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

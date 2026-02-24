@@ -10,16 +10,16 @@ tags:
 - Electro
 - Pops
 - 00s
-title: 莫莫——讓我快樂
+title: 莫莫—讓我快樂
 ---
 
 
-PostPet的粉紅小熊“MOMO”於2000年發行的項目唱片。製片人是石井健。
+PostPet的粉紅小熊「MOMO」於2000年發行的專案唱片。製片是石井健。
 
-A面的第二首歌是Co-Fusion樂隊Heigo Tani的混音版。
+A面的第二首歌是Co-Fusion樂團Heigo Tani的混音版。
 
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Make Me Happy (Momo's Theme)
 
@@ -30,5 +30,5 @@ B1. おつかいモモ
 B2. Make Me Happy (Instrumental)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m95229129822?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m95229129822?afid=6142608987){: .button1}
 

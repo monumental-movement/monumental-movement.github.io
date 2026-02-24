@@ -10,21 +10,21 @@ tags:
 - Rock
 - Pops
 - 7inch
-title: 信使——女人就是這樣
+title: 信差－女人就是這樣
 ---
 
 
-Messengers是一支活躍於1962年至1972年的美國流行搖滾樂隊。 《That's The Way A Woman Is》是Messengers於1971年發行的代表歌曲。
+Messengers是一支活躍於1962年至1972年的美國流行搖滾樂團。 《That's The Way A Woman Is》是Messengers於1971年發行的代表歌曲。
 
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. That's The Way A Woman Is (気になる女の子)
 
 B. The Letter (あの娘のレター)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m10066256629?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m10066256629?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2midSRBfkWM?si=1H76xP5LVzXbcZgT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

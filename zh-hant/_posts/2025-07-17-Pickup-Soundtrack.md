@@ -12,18 +12,18 @@ title: 拾取配樂作品
 ---
 
 
-“一系列非凡的配樂作品，通過聲音編織故事的情感，並將視覺體驗提升到一個新的維度。”
+“一系列非凡的配樂作品，透過聲音編織故事的情感，並將視覺體驗提升到一個新的維度。”
 
 <小時>
 
-### 傑里·戈德史密斯——一片藍色
-<a href="https://jp.mercari.com/item/m39224661224?afid=6142608987"><img src="../assets/images/Jerry%20Goldsmith%20%E2%80%93%20A%20Patch%20Of%20Blue.webp"></a>
+### 傑瑞·戈德史密斯——一片藍色
+<a href="https://jp.mercari.com/item/m39224661224?afid=6142608987"><img src="../assets/images/Jerry%20Goldsmith%20%E2%80%93%20A%20Patch%20Owebf%
 
 格式：乙烯基
 
 作品：1965 年電影《一片藍色》的原聲帶。 1978 年重新發行。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Main Title
 A2. A Favour For Selina
@@ -48,7 +48,7 @@ B9. Goodbye Selina
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m39224661224?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m39224661224?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -58,13 +58,13 @@ B9. Goodbye Selina
 
 
 ### VA – 坦克女郎
-<a href="https://jp.mercari.com/item/m36900627106?afid=6142608987"><img src="../assets/images/VA%20%E2%80%93%20Tank%20Girl.webp"></a>
+<a href="https://jp.mercari.com/item/m36900627106?afid=6142608987"><img src="../assets/images/VA%20%E2%80%93%20Tank%20Girl.webges/VA%20%E2%80%93%20Tank%20Girl.webp"></a>
 
 格式：CD
 
 作品：1995 年科幻電影《坦克女孩》的原聲帶。由 Courtney Love 編譯，SPK 的 Graeme Revell 原創音樂。
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. Stomp - Ripper Sole
 2. Björk - Army Of Me
@@ -81,21 +81,21 @@ B9. Goodbye Selina
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m36900627106?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m36900627106?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BHRTf5Cz8as?si=Owwzh4Wy6w93LehZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <小時>
 
-### 亞當·克萊頓 (Adam Clayton) 和拉里·馬倫 (Larry Mullen) – 《碟中諜》主題曲
+### 亞當克萊頓 (Adam Clayton) 與拉里馬倫 (Larry Mullen) – 《碟中諜》主題曲
 <a href="https://jp.mercari.com/item/m33330451602?afid=6142608987"><img src="../assets/images/Adam%20Clayton%20&%20Larry%20Mullen%20%E2%80%93%20Theme%20From%20Mission%20Impossible.webp"></a>
 
-格式：盒式磁帶
+格式：卡式磁帶
 
-作品：1996年發行的卡帶，收錄有電影《碟中諜》主題曲。
+作品：1996年發行的卡帶，收錄電影《不可能的任務》主題曲。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Theme From Mission: Impossible
 A2. Mission: Impossible Theme (Mission Accomplished)
@@ -104,7 +104,7 @@ B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m33330451602?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m33330451602?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -118,7 +118,7 @@ B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 
 作品：1989年經典電影《新電影天堂》原聲帶。
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. Nuovo Cinema Paradiso
 2. Maturita
@@ -139,14 +139,14 @@ B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m12330738876?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m12330738876?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qMgTCtSxOHE?si=9YjFz0Zd7nVwja81" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <小時>
 
-### 列表
+### 清單
 
 <div class="table-border">
 <table>

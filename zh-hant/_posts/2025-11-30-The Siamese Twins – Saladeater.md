@@ -12,7 +12,7 @@ tags:
 - Techno
 - Acid
 - 90s
-title: 連體雙胞胎——沙拉食者
+title: 連體雙胞胎－沙拉食者
 ---
 
 
@@ -26,7 +26,7 @@ title: 連體雙胞胎——沙拉食者
 
 《Saladeater》是The Siamese Twins於1993年發行的代表作。 Side A由Arndt Pecher製作，Side B由Markus Pecher製作。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Saladeater
 A2. Love Is An Ocean (Ship II)
@@ -36,7 +36,7 @@ B1. Twistscratcher
 B2. A Proper Cup O' Coffee
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m74325843652?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m74325843652?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k6UIqpzJXAU?si=FQn5gBdDHqzQdbAm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,7 +10,7 @@ tags:
 - Hard House
 - Techno
 - 00s
-title: Thermobee、The Teaser 和 Simon Hodge – Itchit
+title: Thermobee、The Teaser 與 Simon Hodge – Itchit
 ---
 
 
@@ -19,14 +19,14 @@ Thermobee，預告片，作者：Simon Hodge
 
 自發行以來，它就在地下音樂界引起了關注，其融合硬室音樂和電子音樂的充滿活力的歌曲至今仍然很受歡迎。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Thermobee & The Teaser – Itchit
 
 B. Thermobee & Simon Hodge – Itchit
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m58035463239?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m58035463239?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kwNxKKm5aUQ?si=9SzQFfpd2kccwTFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

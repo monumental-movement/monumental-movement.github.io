@@ -10,7 +10,7 @@ tags:
 - Pops
 - House
 - Soul
-title: 王子與新發電——下車
+title: Prince And The New Power Generation – Gett Off
 ---
 
 
@@ -18,7 +18,7 @@ title: 王子與新發電——下車
 
 《Gett Off》以時髦的節奏和絕妙的貝斯線為特色，輔以 Prince 充滿活力的聲樂表演，使其成為 Prince 音樂生涯的標誌性部分，也是一首對他的歌迷和音樂愛好者俱有特殊意義的歌曲。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1  Gett Off (Extended Remix)
 
@@ -33,7 +33,7 @@ B2  Gangster Glam
 B3  Clockin' The Jizz (Instrumental)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m13388071866?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m13388071866?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2bi-xdXFsqk?si=Yovi5xirfaodEap3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

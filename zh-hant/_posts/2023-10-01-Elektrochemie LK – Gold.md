@@ -13,11 +13,11 @@ title: Elektrochemie LK – 金獎！
 ---
 
 
-“金子！” Elektrochemie LK 的專輯由德國唱片公司 Confused Recordings 於 2001 年發行。
+「金子！」Elektrochemie LK 的專輯由德國唱片公司 Confused Recordings 於 2001 年發行。
 
-Elektrochemie LK 是托馬斯·舒馬赫的個人項目之一。
+Elektrochemie LK 是托馬斯·舒馬赫的個人計畫之一。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Schall (Album Version)
 
@@ -40,7 +40,7 @@ F1. En Route To Narita
 F2. Ein Nenner
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m11889088321?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m11889088321?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qtUW27MbrPo?si=5r5viji9JCycXs76" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

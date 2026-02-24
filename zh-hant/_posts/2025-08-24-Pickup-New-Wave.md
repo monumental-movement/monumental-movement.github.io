@@ -25,12 +25,12 @@ title: 拾起新浪潮作品
 
 發行：1984 年發行的第 24 張單曲。由代表 80 年代新浪潮/搖滾的藝術家 Elvis Costello & the Attractions 創作的歌曲。
 
-該樂隊於 1977 年底在倫敦成立，以其多元化的音樂風格在搖滾界留下了巨大的印記。 2003年，他還入選搖滾名人堂。
+該樂團於 1977 年底在倫敦成立，以其多元化的音樂風格在搖滾界留下了巨大的印記。 2003年，他還入選搖滾名人堂。
 
 推薦要點
-新浪潮前衛的吉他和節奏與精緻的流行感覺的完美融合。這是一首重要的歌曲，讓您感受到其背後 80 年代英國搖滾/新浪潮場景的能量。
+新浪潮前衛的吉他和節奏與精緻的流行感的完美融合。這是一首重要的歌曲，讓您感受到其背後 80 年代英國搖滾/新浪潮場景的能量。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Let Them All Talk
 
@@ -38,7 +38,7 @@ B. The Flirting Kind
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m52393761866?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m52393761866?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -47,15 +47,15 @@ B. The Flirting Kind
 <br>
 
 
-### Buggles – 塑料時代
-<a href="https://jp.mercari.com/item/m56132888760?afid=6142608987"><img src="../assets/images/Buggles%20%E2%80%93%20The%20Age%20Of%20Plastic.webp"></a>
+### Buggles – 塑膠時代
+<a href="https://jp.mercari.com/item/m56132888760?afid=6142608987"><img src="../assets/images/Buggles%20%E2%80%93%20The%20Age%20Of70%E2%80%93%20The%20Age%20Ofwebp.
 
-發行：發佈於 2025 年 5 月 1 日。 The Buggles（由 Trevor Horn 和 Geoff Downes 組成的英國新浪潮樂隊）的首張專輯。
+發行：發佈於 2025 年 5 月 1 日。 The Buggles（由 Trevor Horn 和 Geoff Downes 組成的英國新浪潮樂團）的首張專輯。
 
-推薦要點：象徵時代的傑作，包括《Video Killed the Radio Star》等標誌性合成器流行/新浪潮歌曲。兩人後來加入Yes樂隊也成為熱門話題。
+推薦重點：象徵時代的傑作，包括《Video Killed the Radio Star》等標誌性合成器流行/新浪潮歌曲。兩人後來加入Yes樂團也成為熱門話題。
 
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. Living In The Plastic Age
 2. Video Killed The Radio Star
@@ -68,7 +68,7 @@ B. The Flirting Kind
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m56132888760?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m561328888760?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -79,13 +79,13 @@ B. The Flirting Kind
 
 
 ### 表達——表達
-<a href="https://jp.mercari.com/item/m12510695910?afid=6142608987"><img src="../assets/images/The%20Expression%20%E2%80%93%20The%20Expression.webp"></a>
+<a href="https://jp.mercari.com/item/m12510695910?afid=6142608987"><img src="../assets/images/The%20Expression%20%E2%80%93%20The%20">Expression.webp</p</>
 
-發行：發佈於 2023 年 10 月 26 日。澳大利亞合成流行新浪潮樂隊的同名專輯。
+發行：發佈於 2023 年 10 月 26 日。澳洲合成流行新浪潮樂團的同名專輯。
 
 推薦點：流行氣息濃厚的新浪潮，尖銳的吉他riff、合成器、獨特的人聲。非常適合喜歡 80 年代早期合成流行音樂的人。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Present Communication
 A2. With Closed Eyes
@@ -101,7 +101,7 @@ B5. Satisfied Strangers
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m12510695910?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m12510695910?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -111,13 +111,13 @@ B5. Satisfied Strangers
 
 
 ### 一群海鷗——聽
-<a href="https://jp.mercari.com/item/m43509959556?afid=6142608987"><img src="../assets/images/A%20Flock%20Of%20Seagulls%20%E2%80%93%20Listen.webp"></a>
+<a href="https://jp.mercari.com/item/m43509959556?afid=6142608987"><img src="../assets/images/A%20Flock%20Of%20Seagulls%20%E2%80%93%E2%80%93%2050>
 
-發行：發佈於 2023 年 10 月 15 日。來自利物浦的新浪潮/合成流行/新浪漫樂隊 Flock of Seagulls 於 1983 年發行的第二張專輯。
+發行：發佈於 2023 年 10 月 15 日。來自利物浦的新浪潮/合成流行/新浪漫樂團 Flock of Seagulls 於 1983 年發行的第二張專輯。
 
-推薦要點：收錄《許願（如果我有你的照片）》等代表性歌曲。這是一首以其閃閃發光的合成聲音和美學世界觀而閃耀的作品。
+推薦重點：收錄《許願（如果我有你的照片）》等代表性歌曲。這是一首以其閃閃發光的合成聲音和美學世界觀而閃耀的作品。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Wishing (If I Had A Photograph Of You)
 A2. Nightmares
@@ -133,7 +133,7 @@ B6. (It's Not Me) Talking
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m43509959556?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m43509959556?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -143,14 +143,14 @@ B6. (It's Not Me) Talking
 
 
 ### 家具——我不能破解
-<a href="https://jp.mercari.com/item/m82619779908?afid=6142608987"><img src="../assets/images/Furniture%20%E2%80%93%20I%20Can't%20Crack.webp"></a>
+<a href="https://jp.mercari.com/item/m82619779908?afid=6142608987"><img src="../assets/images/Furniture%20%E2%80%93%20I%20rackCan't%20C.webp.
 
 發行：發佈於 2023 年 9 月 9 日。由一支帶有英國流行/新浪潮/後朋克元素的樂隊製作的 1985 年 EP。
 
 
-推薦要點：獨特的世界觀，結合了朗朗上口的旋律、大氣的聲音和內省的歌詞。這部作品獲得了評論家的高度評價。
+推薦重點：朗朗上口的旋律、大氣的聲音和內省的歌詞結合的獨特世界觀。這部作品獲得了評論家的高度評價。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. I Can't Crack
 A2. Switch Off
@@ -160,7 +160,7 @@ B1. I Can't Crack (Broken Mix)
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m82619779908?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m82619779908?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -169,15 +169,15 @@ B1. I Can't Crack (Broken Mix)
 <br>
 
 
-### Devo——新傳統主義者
-<a href="https://jp.mercari.com/item/m80101540352?afid=6142608987"><img src="../assets/images/Devo%20%E2%80%93%20New%20Traditionalists.webp"></a>
+### Devo－新傳統主義者
+<a href="https://jp.mercari.com/item/m80101540352?afid=6142608987"><img src="../assets/images/Devo%20%E2%80%93%20New%20Traditionalists.webp"></a☺
 
 發行：2024年5月18日發布。美國新浪潮代表Devo第四張自製專輯（1981）。
 
 
-推薦點：一張融合了極簡酷炫的合成器線條、電子打擊樂以及“deevolution”主題的創新專輯。收錄了《Through Being Cool》等代表性歌曲。
+推薦點：一張融合了極簡酷炫的合成器線條、電子打擊樂以及「deevolution」主題的創新專輯。收錄了《Through Being Cool》等代表性歌曲。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Through Being Cool
 A2. Jerkin' Back 'N' Forth
@@ -194,7 +194,7 @@ B6. Working In The Coal Mine
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m80101540352?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m80101540352?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -205,13 +205,13 @@ B6. Working In The Coal Mine
 
 
 ### 黑色——不僅僅是太陽
-<a href="https://jp.mercari.com/item/m36771334652?afid=6142608987"><img src="../assets/images/Black%20%E2%80%93%20More%20Than%20The%20Sun.webp"></a>
+<a href="https://jp.mercari.com/item/m36771334652?afid=6142608987"><img src="../assets/images/Black%20%E2%80%93%20More%20Than%Sun20The%</a.
 
-發行：發佈於 2023 年 10 月 13 日。英國創作型歌手 Colín Vearncombe 的獨唱作品 Black。
+發行：發佈於 2023 年 10 月 13 日。英國創作歌手 Colín Vearncombe 的獨唱作品 Black。
 
 推薦點：一首融合了細膩旋律和憂鬱歌詞的新浪潮/搖滾作品。深刻的世界觀很吸引人。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. More Than The Sun
 A2. Butterfly Man
@@ -222,7 +222,7 @@ B3. Stephen
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m36771334652?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m36771334652?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -231,14 +231,14 @@ B3. Stephen
 <br>
 
 
-### 狂喜——在你愛的恩典中
-<a href="https://jp.mercari.com/item/m73702880151?afid=6142608987"><img src="../assets/images/The%20Rapture%20%E2%80%93%20In%20The%20Grace%20Of%20Your%20Love.webp"></a>
+### 狂喜－在你愛的恩典中
+<a href="https://jp.mercari.com/item/m73702880151?afid=6142608987"><img src="../assets/images/The%20Rapture%20%E2%80%93%20In%20The70Gapture%20%E2%80%93%20In%20The70Gapture%20%E2%80%93%20In%20The70G
 
-發行：發佈於 2024 年 12 月 18 日。來自紐約的後朋克/舞曲朋克/新浪潮樂隊的第三張專輯（2011 年發行）。
+發行：發佈於 2024 年 12 月 18 日。來自紐約的後龐克/舞曲龐克/新浪潮樂團的第三張專輯（2011 年發行）。
 先生
-推薦要點：他們的風格是後朋克、電子、迪斯科等的大膽組合。推薦作為近年來也帶有復興感覺的舞蹈新浪潮。
+推薦重點：他們的風格是後龐克、電子、迪斯可等的大膽組合。推薦作為近年來也帶有復興感的舞蹈新浪潮。
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. Sail Away
 2. Miss You
@@ -254,7 +254,7 @@ B3. Stephen
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m73702880151?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m73702880151?afid=6142608987){: .button1}
 
 
 #### Youtube

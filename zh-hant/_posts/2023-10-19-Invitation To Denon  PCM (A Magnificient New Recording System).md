@@ -13,9 +13,9 @@ title: 邀請使用 Denon PCM（一個宏偉的新錄音系統）
 ---
 
 
-“Invitation To Denon PCM (A Magnificient New Recording System)”由 Denon 於 1975 年發行。
+「Invitation To Denon PCM (A Magnificient New Recording System)」由 Denon 於 1975 年發行。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Helmuth Rilling–Toccata and Fugue In D Minor, BWV565
 
@@ -32,5 +32,5 @@ B3. Josef Chuchro, Jan Panenka, Josef Suk–Piano Trio In B-Flat Major, "Archduk
 B4. Josef Suk, Zuzana Růžičková–Sonate No:4 In D Major For Violin And Continuo Op.1-13 など
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m60328897430?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m60328897430?afid=6142608987){: .button1}
 

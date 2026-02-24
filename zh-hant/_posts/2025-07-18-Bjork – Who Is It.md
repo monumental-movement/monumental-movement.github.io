@@ -18,11 +18,11 @@ title: 比約克——這是誰
 這張唱片於2005年發行，是Bogdan Raczynski繼Autechre和Ulver的混音作品之後的混音作品傑作。
 
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Who Is It (Shooting Stars & Asteroids Mix By Bogdan Raczynski)
 
 B. Who Is It (Shooting Stars & Asteroids Mix By Bogdan Raczynski)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m66653157293?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m66653157293?afid=6142608987){: .button1}

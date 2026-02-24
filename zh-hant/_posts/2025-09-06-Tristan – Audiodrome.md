@@ -15,10 +15,10 @@ title: 特里斯坦 – 音樂廳
 
 Tristan Cooke，也稱為 Tristan，是英國主要的 Psychedelic Trance 和 Goa trance 製作人/DJ，自 90 年代初以來一直活躍。
 
-《Audiodrome》由 Simon Posford（Hallucinogen）的廠牌 Twisted Records 於 1999 年發行，是 Tristan 的首張專輯。
+1999年にSimon Posford (Hallucinogen／ハルシノゲン)主宰のレーベルTwisted Recordsからリリースされた「Audiodrome」は、Tristanのデビューアルバム。
 
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Fetish
 A2. Valve
@@ -32,7 +32,7 @@ C2. Mind Over Matter
 D. Perimeter
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m78133892253?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m78133892253?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/esRxasnb4EY?si=J7BmbPJ3WKELO554" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -18,7 +18,7 @@ title: 傳動系統 – Symphium
 
 《交響曲》具有黑暗和旋律的元素，但又具有充滿活力和舞動的節奏，堅定地表達了動力傳動系統獨特的聲音特徵。這首歌將吸引電子音樂愛好者和舞曲愛好者。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Electronic Seduction
 
@@ -29,7 +29,7 @@ AA1. In The Rhythm
 AA2. Soundtrack
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m23783674213?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m23783674213?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oBUYzL6qFl4?si=xjmP4gGZ6wJoR0C0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

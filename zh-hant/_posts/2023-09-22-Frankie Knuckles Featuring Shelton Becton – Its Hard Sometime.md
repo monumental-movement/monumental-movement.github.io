@@ -17,7 +17,7 @@ title: 弗蘭基·納克斯 (Frankie Knuckles) 與謝爾頓·貝克頓 (Shelton 
 
 《It's Hard Sometime》是他們合作的一首歌曲，深情的旋律、細膩的節奏、感人的歌詞和優雅的浩室音色。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1  It's Hard Sometime (FK Classic Club)
 
@@ -28,7 +28,7 @@ B1  It's Hard Sometime (Alternative 12")
 B2  It's Hard Sometime (Factory Dub)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m27871104265?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m27871104265?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/psIVHuHxyLo?si=fV61Phs_-LUJd78Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

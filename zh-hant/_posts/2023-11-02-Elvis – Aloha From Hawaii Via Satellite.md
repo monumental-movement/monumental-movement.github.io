@@ -9,17 +9,17 @@ permalink: /zh-hant/elvis-aloha-from-hawaii-via-satellite/
 tags:
 - Rock
 - 70s
-title: 埃爾維斯 – 來自夏威夷的阿羅哈 (通過衛星)
+title: 艾維斯 – 來自夏威夷的阿羅哈 (透過衛星)
 ---
 
 
-埃爾維斯·普雷斯利 1973 年夏威夷演出現場專輯 - 日本原創合輯。
+貓王 1973 年夏威夷演出現場專輯 - 日本原創合輯。
 
 1973 年 1 月 14 日星期日中午 12:30 在檀香山國際中心現場錄製。
 
 這張專輯是電視特別節目播出後匆忙發行的日本特有合輯。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Introduction: Also Sprach Zarathustra
 
@@ -70,7 +70,7 @@ D4. A Big Hunk O' Love
 D5. Can't Help Falling In Love
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m26998964951?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m26998964951?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DfjIOL5MxLY?si=D3tE4-uWTEr-rsiM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

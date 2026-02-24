@@ -17,9 +17,9 @@ title: 戰鬥 – 光澤掉落
 
 Battles是一支美國實驗搖滾樂隊，成立於2002年。
 
-《Gloss Drop》是 Battles 於 2011 年發行的第二張專輯，嘉賓包括 Blonde Redhead 樂隊的 Gary Numan、Matias Aguayo、Blonde Redhead 樂隊的 Kaz Makino 和 Boredoms 樂隊的 EYyo Yamazuka。
+《Gloss Drop》是 Battles 在 2011 年發行的第二張專輯，嘉賓包括 Blonde Redhead 樂團的 Gary Numan、Matias Aguayo、Blonde Redhead 樂團的 Kaz Makino 和 Boredoms 樂團的 EYyo Yamazuka。
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. Africastle
 2. Ice Cream Featuring – Matias Aguayo
@@ -39,7 +39,7 @@ Battles是一支美國實驗搖滾樂隊，成立於2002年。
 13. Sundome (Instrumental)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m71359863771?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m71359863771?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vuKBipc69_o?si=sgCfoU--8llwj-oy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

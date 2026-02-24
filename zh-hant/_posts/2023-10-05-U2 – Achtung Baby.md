@@ -17,7 +17,7 @@ title: U2 – Achtung 寶貝
 
 《Achtung Baby》收錄了許多熱門歌曲。例子包括“One”、“Mysterious Ways”和“Even Better Than the Real Thing”。這些歌曲具有獨特的聲音和強烈的旋律，以及專輯的實驗方法。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Zoo Station
 
@@ -44,7 +44,7 @@ B5. Acrobat
 B6. Love Is Blindness
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m41507075580?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m41507075580?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ftjEcrrf7r0?si=NwEq0neJTCT0wwDO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

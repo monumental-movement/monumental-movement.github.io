@@ -19,7 +19,7 @@ title: Gabby Pahinui 夏威夷樂隊 – Gabby Band 第 2 卷
 
 Gabby Pahinui 於 2002 年入選夏威夷音樂名人堂。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Po Mahina
 A2. Waikiki Hula
@@ -33,7 +33,7 @@ B3. Kilakila'o Moanalua
 B4. No Ke Ano Ahiahi
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m54779948178?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m54779948178?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jP85P5gCXlE?si=0x8zozCk6iTQ7Ts9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

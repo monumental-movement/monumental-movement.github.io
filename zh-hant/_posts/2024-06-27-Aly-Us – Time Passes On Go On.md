@@ -10,7 +10,7 @@ tags:
 - House
 - Garage House
 - 90s
-title: Aly-Us – 時間流逝繼續
+title: Aly-Us – 時間流逝持續
 ---
 
 
@@ -18,7 +18,7 @@ Aly-Us 是一支來自新澤西州的 house 音樂團體，活躍於 20 世紀 9
 
 《Time Passes On / Go On》是 Aly-Us 1992 年紅極一時的《Follow Me》之後的第二年發行的，這是一首 house/garage house 歌曲，延續了《Follow Me》的風格。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Time Passes On (Club Mix)
 A2. Time Passes On (Dub Mix)
@@ -29,7 +29,7 @@ B2. Go On (Dub Mix)
 B3. Go On (Radio Edit)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m16355087576?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m16355087576?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u7lD876TJjQ?si=BEIcdPMmz68sAtj_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

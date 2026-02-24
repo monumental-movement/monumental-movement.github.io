@@ -15,9 +15,9 @@ title: 超級流感 – Switch Our Jumpers EP
 
 它於 2006 年由德國唱片公司 KarateKlub 發行。
 
-這首歌是 Feliks Thielemann 和 Mathias Schwarz 的樂隊“Super Flu”創作的。
+這首歌是由 Feliks Thielemann 和 Mathias Schwarz 的樂團「Super Flu」創作的。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Hallo Zeit
 
@@ -26,7 +26,7 @@ B1. Switch Our Jumpers
 B2. Trashy Whore (Lars-Christian Müller Remix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m85295773232?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m85295773232?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZSdA90_SU8Y?si=_9kHBY1F9M-EwiR9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

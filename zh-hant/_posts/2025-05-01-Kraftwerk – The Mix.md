@@ -20,7 +20,7 @@ Kraftwerk 由 Ralf Hütter 和 Florian Schneider 於 1970 年創立。
 這張專輯由EMI於1991年發行，是Kraftwerk的第10張錄音室專輯。這是對 Kraftwerk 專輯《Autobahn》（1974 年）和《Electric Café》（1986 年）中精選歌曲的完全重新編排和重新錄製的版本，其中《The Robots》和《Radioactivity》等歌曲採用了新的旋律和歌詞。
 
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. The Robots
 2. Computerlove
@@ -35,7 +35,7 @@ Kraftwerk 由 Ralf Hütter 和 Florian Schneider 於 1970 年創立。
 11. Music Non Stop
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m24338824694?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m24338824694?afid=6142608987){: .button1}
 
 #### 尤特布埃
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cbPc_Iu8JLA?si=OfpNSIXukiVUrSWW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

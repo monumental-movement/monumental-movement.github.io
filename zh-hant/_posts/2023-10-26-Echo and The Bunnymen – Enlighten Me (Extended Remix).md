@@ -18,7 +18,7 @@ Echo & The Bunnymen 是一支英國搖滾樂隊，於 1978 年在利物浦成立
 
 1980 年，Pete De Freitas 加入並擔任鼓手。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Enlighten Me (Extended Remix)
 
@@ -27,7 +27,7 @@ B1. Enlighten Me
 B2. Lady Don't Fall Backwards
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m55842232873?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m55842232873?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r2oCb3pQRx4?si=k1H7cQxLBpk_3Lm2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -13,9 +13,9 @@ title: VA – 同步性第二次會議
 ---
 
 
-由日本嘻哈廠牌 Future Shock 於 2000 年發行的兩張收錄了日本和美國嘻哈藝術家的合輯。
+由日本嘻哈廠牌 Future Shock 於 2000 年發行的兩張收錄了日本和美國嘻哈藝人的合輯。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Marley Marl – Intro
 A2. Dabo, Buckwild – 33:25 (Wussup Tokyo!?)
@@ -34,7 +34,7 @@ D2. T.A.K The Rhhhyme, 25 To Life – Nari-A-Gari
 D3. DJ Celory – Outro
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m84885288691?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m848852888691?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yvs1qp-5cBc?si=xGLd_Fr0msxtsYkr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

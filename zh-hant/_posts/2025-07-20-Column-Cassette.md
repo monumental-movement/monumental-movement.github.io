@@ -17,15 +17,15 @@ title: '[專欄] 盒式磁帶作為音樂媒介：歷史、類型、頻率特徵
 
 ## 它不是唱片，而是保存記憶的媒介。
 
-文：mmr｜主題：盒式磁帶，模擬音樂錄音中的配角
+文：mmr｜主題：卡式錄音帶，模擬音樂錄音中的配角
 
 
 <小時>
 
 ### 模擬時代的便攜式音樂革命
-盒式磁帶（Compact Cassette）由飛利浦於 1963 年開發，作為 20 世紀 70 年代至 90 年代領先的音樂媒體之一風靡全球。
+卡式錄音帶（Compact Cassette）由飛利浦於 1963 年開發，作為 20 世紀 70 年代至 1990 年代領先的音樂媒體之一風靡全球。
 
-- 推出便攜式播放器（Walkman）
+- 推出手提式播放器（Walkman）
 
 - 輕鬆家庭錄音
 
@@ -36,7 +36,7 @@ title: '[專欄] 盒式磁帶作為音樂媒介：歷史、類型、頻率特徵
 
 <小時>
 
-### 盒式磁帶的歷史演變
+### 卡式磁帶的歷史演變
 
 
 <小時>
@@ -54,19 +54,19 @@ title: '[專欄] 盒式磁帶作為音樂媒介：歷史、類型、頻率特徵
 
 - 普通（I 型）膠帶的標準化
 
-- 便攜式錄音機的普及催生了“Walkman”文化
+- 手提式錄音機的普及催生了「Walkman」文化
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K2rj-oDfb0w?si=RFsh8yWi0ghxlgdg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <小時>
 
-#### 20世紀80年代：高位（Type II）和金屬（Type IV）的出現
+#### 1980年代：高位（Type II）與金屬（Type IV）的出現
 
-- 改進磁帶材料旨在提高音質
+- 改良磁帶材料旨在提高音質
 
 - 改善高音特性並擴大動態範圍
 
-- 高端音頻設備的採用增加
+- 高階音響設備的採用增加
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3pM0etGdapg?si=ZR3hIeQ_2uifzQj-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -87,7 +87,7 @@ title: '[專欄] 盒式磁帶作為音樂媒介：歷史、類型、頻率特徵
 
 <小時>
 
-### 列表
+### 清單
 
 <div class="table-border">
 <table>
@@ -132,18 +132,18 @@ title: '[專欄] 盒式磁帶作為音樂媒介：歷史、類型、頻率特徵
 
 <小時>
 
-### 盒式磁帶的頻率特性和音質
+### 卡式磁帶的頻率特性與音質
 
 
 <小時>
 
 #### 基本頻率特性
 
-**普通磁帶**頻段約為 30Hz 至 12kHz
+**普通磁帶**頻段約 30Hz 至 12kHz
 
-大約 20Hz 至 15kHz，帶**鍍鉻帶**
+約 20Hz 至 15kHz，附**鍍鉻帶**
 
-**メタルテープ**では約20Hz〜18kHzまで拡張可能
+**金屬帶**可擴展到約20Hz至18kHz
 
 
 <小時>
@@ -154,16 +154,16 @@ title: '[專欄] 盒式磁帶作為音樂媒介：歷史、類型、頻率特徵
 
 - 高頻放大電路（鐵氧體磁頭等）實現高頻擴展
 
-- 優化偏置信號（高頻磁振動）以減少失真和噪聲
+- 優化偏壓訊號（高頻磁振動）以減少失真和雜訊
 
 
 <小時>
 
 #### 動態範圍和信噪比
 
-**普通型**：信噪比約為50-55dB
+**普通型**：訊號雜訊比約50-55dB
 
-**鍍鉻類型**：約 60dB
+**鍍鉻型**：約 60dB
 
 **金屬類型**：性能接近約 70dB
 
@@ -194,22 +194,22 @@ title: '[專欄] 盒式磁帶作為音樂媒介：歷史、類型、頻率特徵
 
 - 由於磁頭污垢或設備調整而導致音質波動
 
-- 無需倒帶或快進磁帶
+- 無需倒帶或快轉磁帶
 
-- 與 CD 和數字音源相比，頻帶和信噪比較差
+- 與 CD 和數位音源相比，頻帶和信噪比較差
 
 
 <小時>
 
 ### 盒式磁帶文化的當代意義
 
-近年、アナログ回帰やレトロ文化の再燃でカセットテープが再評価されている。
+近年來，由於模擬回歸和復古文化的復興，盒式磁帶被重新評估。
 
 - 需求作為獨立音樂和嘻哈音樂的發行形式
 
-- 原創錄音體驗與物理媒體的魅力
+- 原創錄音體驗與實體媒體的魅力
 
-- 適合錄音設備DIY使用和發燒友收藏。
+- 適合錄音設備DIY使用及發燒友收藏。
 
 
 <小時>
@@ -224,7 +224,16 @@ title: '[專欄] 盒式磁帶作為音樂媒介：歷史、類型、頻率特徵
 
 <小時>
 
-### 列表
+
+### YouTube 播客
+
+*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h6WsoClO0FE?si=L3FtaPU36N2_iSLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+### 清單
 
 <div class="table-border">
 <table>

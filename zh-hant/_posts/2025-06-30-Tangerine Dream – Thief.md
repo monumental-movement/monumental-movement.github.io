@@ -14,11 +14,11 @@ title: 橘夢-小偷
 ---
 
 
-邁克爾·曼 (Michael Mann) 作為導演的第一部電影（原名：《神偷》）的原聲帶，於 1981 年發行（原名：《神偷》）（改編自弗蘭克·霍赫默的小說）。日文版。
+麥可曼 (Michael Mann) 作為導演的第一部電影（原名：《神偷》）的原聲帶，於 1981 年發行（原名：《神偷》）（改編自弗蘭克霍赫默的小說）。日文版。
 
-負責音樂的Tangerine Dream是一支德國電子樂隊，由Edgar Froese於1967年組建。他們與 CAN、Amon Düül II、Kraftwerk 和 NEU! 一起被稱為領先的德國泡菜搖滾樂隊之一。
+負責音樂的Tangerine Dream是一支德國電子樂隊，由Edgar Froese於1967年組成。他們與 CAN、Amon Düül II、Kraftwerk 和 NEU! 一起被稱為領先的德國泡菜搖滾樂隊之一。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Beach Theme
 A2. Dr. Destructo
@@ -31,7 +31,7 @@ B3. Trap Feeling
 B4. Igneous
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m56163908524?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m56163908524?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DTXRcBrbUW8?si=VF2Kh_FIDIrxiSbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

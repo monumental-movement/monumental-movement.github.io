@@ -18,7 +18,7 @@ DJ Shufflemaster（金森龍也）是一位日本硬科技製作人/DJ，自 20 
 《EXP》是柏林著名科技廠牌Tresor於2001年發行的一張全長專輯。被譽為DJ Shufflemaster的代表作。
 
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. EXP
 A2. Slip Inside You
@@ -33,7 +33,7 @@ D1. Experience
 D2. Innervisions
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m45286503868?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m45286503868?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ksqYzWT3Kkk?si=_EI4RJ9jhjPMg8s3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

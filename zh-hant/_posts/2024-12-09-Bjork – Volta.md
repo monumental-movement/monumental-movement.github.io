@@ -16,9 +16,9 @@ title: 比約克 – 沃爾特
 ---
 
 
-《Volta》是 Björk 的第六張錄音室專輯，於 2007 年發行。有多位藝術家參與其中，包括 Mark Bell、Timbaland、Danja 以及 Antony & the Johnsons 樂隊的 Anohni Hegarty (Anohni Hegarty)。
+《Volta》是 Björk 的第六張錄音室專輯，於 2007 年發行。有多位藝術家參與其中，包括 Mark Bell、Timbaland、Danja 以及 Antony & the Johnsons 樂團的 Anohni Hegarty (Anohni Hegarty)。
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. Earth Intruders
 アース・イントゥルーダーズ
@@ -56,7 +56,7 @@ title: 比約克 – 沃爾特
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m35624877288?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m35624877288?afid=6142608987){: .button1}
 
 
 #### Youtube

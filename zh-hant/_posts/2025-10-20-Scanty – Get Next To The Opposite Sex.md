@@ -18,14 +18,14 @@ title: Scanty – 接近異性
 
 《Get Next To The Opposite Sex》是一首 House/Tech House 歌曲，由 Garry Blackburn 和 Norman Cook 的唱片公司 Southern Fried Records 於 2001 年發行。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Get Next To The Opposite Sex
 
 AA. Crazy Life
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m79633518114?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m79633518114?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A_uM_rmY7ug?si=sNsdteD8Q2lMZDTp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

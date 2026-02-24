@@ -15,10 +15,10 @@ title: 剪切並奔跑 – 太空之外 6,4367
 
 《Outta Space 6,4367》採樣了 The Prodigy 的《Out Of Space》。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Outta Space (Profanation Likes To Cover)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m59463185167?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m59463185167?afid=6142608987){: .button1}
 

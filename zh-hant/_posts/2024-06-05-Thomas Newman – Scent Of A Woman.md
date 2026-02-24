@@ -11,19 +11,19 @@ tags:
 - Movie
 - Film
 - 90s
-title: 托馬斯·紐曼 – 女人的香氣
+title: 湯瑪斯紐曼 – 女人的香氣
 ---
 
 
-曲目A1-A6、A8-A10、B1-B2和B4-B7由美國作曲家托馬斯·紐曼創作。托馬斯·紐曼為多部電影創作配樂，包括《肖申克的救贖》、《美國麗人》、《綠色奇蹟》、《海底總動員》、《機器人總動員》、《天幕殺機》和《007：幽靈》。
+曲目A1-A6、A8-A10、B1-B2和B4-B7由美國作曲家托馬斯紐曼創作。湯瑪斯紐曼為多部電影創作配樂，包括《蕭申克的救贖》、《美國心玫瑰情》、《綠色奇蹟》、《海底總動員》、《機器人總動員》、《天幕殺機》和《007：幽靈》。
 
-曲目 A7 和 B3 也是美國樂隊 The Tango Project 的作品。
+曲目 A7 和 B3 也是美國樂團 The Tango Project 的作品。
 
 電影《女人的香氣/夢的香氣》
 
 原聲帶盒式磁帶
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1.  Main Title
 A2.  A Tour Of Pleasures
@@ -45,7 +45,7 @@ B6. Fleurs De Rocaille
 B7. End Title
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m80593383212?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m80593383212?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/COQsa_u5nEg?si=fguM6L8R4SRjad1F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

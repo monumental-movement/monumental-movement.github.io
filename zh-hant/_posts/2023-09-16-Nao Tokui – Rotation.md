@@ -17,7 +17,7 @@ title: 德井奈緒 – 旋轉
 
 德井奈緒的歌曲，包括《Rotation》，對電子音樂愛好者很有吸引力，並因其音樂才華而受到認可。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Rotation
 
@@ -28,7 +28,7 @@ B1. On the Bank of Donau
 B2. Ms. Cherry
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m61748434887?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m61748434887?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rniIh6IOhC4?si=6zjfW_1NDLydCqSQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

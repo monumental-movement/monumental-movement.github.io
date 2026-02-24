@@ -19,14 +19,14 @@ Frank Zenker，又名 Arome，是一位來自德國的硬 trance/tech trance DJ 
 2000年發行的《Here We Go》是Arome的代表作，被認為是硬催眠經典。
 
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Here We Go (DJ Scot Project Remix)
 
 B1. Here We Go (Midnight Mix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m94656874755?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m94656874755?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oimiwO-ugQw?si=X-dtZE1tbog57xlG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

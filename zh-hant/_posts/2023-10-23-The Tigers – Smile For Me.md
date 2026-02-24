@@ -10,13 +10,13 @@ tags:
 - JPop
 - Group Sounds
 - 7inch
-title: 老虎隊——為我微笑
+title: 老虎隊－為我微笑
 ---
 
 
-《Smile For Me》是一首由 Bee Gees 樂隊的巴里·吉布 (Barry Gibb) 和莫里斯·吉布 (Maurice Gibb) 創作並創作的歌曲。
+《Smile For Me》是一首由 Bee Gees 樂團的 Barry Gibb 和 Maurice Gibb 創作並創作的歌曲。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Smile For Me = スマイル・フォー・ミー
 
@@ -29,7 +29,7 @@ B. Rain Falls On The Lonely = 淋しい雨
 編曲：John Fiddy
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m46304938061?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m46304938061?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IGVQlBBYdG0?si=5YsPxWJ_FgF9HDTr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

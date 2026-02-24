@@ -21,7 +21,7 @@ title: 折斷！ – 糟糕了
 這首歌是 Gap Band 1980 年熱門歌曲《I Don't Believe You Want to Get Up and Dance (Ooops!)》的翻唱版，成員 Penny Ford 作為伴唱參與其中。
 
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Ooops Up (Vocal Version)
 A2. Ooops Up (Other Mix)
@@ -29,7 +29,7 @@ A2. Ooops Up (Other Mix)
 B1. Ooops Up (Instrumental Version)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m20020494045?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m20020494045?afid=6142608987){: .button1}
 
 #### 尤特布埃
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H5mA76rzvyA?si=GaOzSo7d894dmsba" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

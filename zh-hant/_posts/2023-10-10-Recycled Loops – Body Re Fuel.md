@@ -13,18 +13,18 @@ title: 回收循環 – Body Re Fuel
 ---
 
 
-Recycled Loops 是斯洛文尼亞的一個技術項目，由 Umek 和 Valentino Kanzyani 設計。
+Recycled Loops 是斯洛維尼亞的技術項目，由 Umek 和 Valentino Kanzyani 設計。
 
 《Body Re:Fuel》是Recyclopedia Eclectronica系列的第三部作品。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Body Re:Fuel (Recycled By Umek)
 
 B. Body Re:Fuel (Recycled By Valentino Kanzyani)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m73344669027?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m73344669027?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gEuQ9i5_CbQ?si=nsTYh6GqfJlhwU1T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -13,9 +13,9 @@ title: 羅塞塔石碑 – 岩石圖片
 ---
 
 
-Rosetta Stone 是一支北愛爾蘭搖滾樂隊，由前 Bay City Rollers 吉他手 Ian Mitchell 組建。
+Rosetta Stone 是一支北愛爾蘭搖滾樂隊，由前 Bay City Rollers 吉他手 Ian Mitchell 組成。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. (If Paradise Is) Half As Nice
 
@@ -40,7 +40,7 @@ B5. Free As A Bird
 B6. You Really Got Me
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m83016536720?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m83016536720?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/366a3V7VHsY?si=fTeFG8musSDx6f9H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

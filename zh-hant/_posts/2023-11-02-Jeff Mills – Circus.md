@@ -11,7 +11,7 @@ tags:
 - Detroit Techno
 - Tribal
 - 90s
-title: 傑夫·米爾斯 – 馬戲團
+title: 傑夫米爾斯 – 馬戲團
 ---
 
 
@@ -20,18 +20,18 @@ title: 傑夫·米爾斯 – 馬戲團
 
 他追求硬朗、極簡的聲音，並以甚至帶有工業感的 DJ 表演而聞名。
 
-他是底特律才華橫溢的藝術家群體中的一員，他們贏得了國際讚譽，在世界各地的俱樂部和藝術空間進行表演。
+他是底特律才華橫溢的藝術家群體中的一員，他們贏得了國際讚譽，在世界各地的俱樂部和藝術空間表演。
 
-他還經營自己的廠牌“Axis”及其子廠牌。
+他也經營自己的廠牌「Axis」及其子廠牌。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Circus (The Greatest Show On Earth Mix)
 
 B. Circus (The Big Finale Mix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m96224343998?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m96224343998?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vdtbofdbFs4?si=Sw77Ivn1Mk_Xuxg6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
