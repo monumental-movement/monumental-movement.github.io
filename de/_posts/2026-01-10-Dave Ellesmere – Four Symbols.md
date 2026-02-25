@@ -14,7 +14,7 @@ title: Dave Ellesmere – Vier Symbole
 ---
 
 
-Der in Großbritannien geborene Dave Ellesmere ist ein Rockmusiker, der in britischen Punkbands wie The Insane, Discharge, Flux of Pink Indians und Doctor and the Crippens Schlagzeug spielte und in den 1980er Jahren Gitarre bei Disgust spielte. Derzeit arbeitet er als elektronischer DJ. Er hat auch unter den Namen Voco Derman, Solvent Electron Industries und Ronin veröffentlicht.
+Der in Großbritannien geborene Dave Ellesmere ist ein Rockmusiker, der in den 1980er Jahren Schlagzeug in britischen Punkbands wie The Insane, Discharge, Flux of Pink Indians, Doctor and the Crippens und Gitarre bei Disgust spielte und derzeit als elektronischer DJ arbeitet. Er hat auch unter den Namen Voco Derman, Solvent Electron Industries und Ronin veröffentlicht.
 
 „Four Symbols“ ist ein Techno/Tech-House-Track, der 2005 auf dem niederländischen House-Label 100 % Pure veröffentlicht wurde.
 

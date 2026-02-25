@@ -98,8 +98,8 @@ This "South Indian MTV feel" was later inherited by A.R. Rehman and Harris Jayar
 
 ## Chapter 5: Changes in social background and audience demographics
 
-In the late 1980s, southern India was undergoing a period of expansion of television culture, along with a wave of urbanization.
-It was a time when the state broadcaster Doordarshan opened up to commercial broadcasting, and young people from rural areas dreamed of becoming stars.
+In the late 1980s, southern India was experiencing a period of expansion of television culture, along with a wave of urbanization.
+It was a time when the state-run broadcaster Doordarshan opened up to commercial broadcasting, and young people from rural areas dreamed of becoming stars.
 
 The setting in which the main character of ""Dance Raja Dance'', Raja, becomes famous through a TV show truly symbolizes the germination of neoliberal values.
 Overcoming the constraints of work, class, and family and achieving success through talent and hard work—this can be called the ""Indian version of the American Dream.''
@@ -173,7 +173,7 @@ timeline
 When ""Dance Raja Dance'' was created in 1987, India had not yet experienced economic liberalization.
 However, the ""breath of liberation'' was already resounding within the rhythm of music and dance.
 
-Vijaya Anand's achievement lies in the use of music as a harbinger of social change.
+Vijaya Anand's achievement lies in using music as a harbinger of social change.
 His disco beats were not just entertainment, but a declaration for South India to dance its own cultural future.
 
 ---

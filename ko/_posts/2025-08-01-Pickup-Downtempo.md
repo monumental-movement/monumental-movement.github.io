@@ -9,20 +9,20 @@ permalink: /ko/pickup-downtempo/
 tags:
 - Downtempo
 - 90s
-title: 다운템포 작업 픽업
+title: 다운 템포 작품을 픽업
 ---
 
 
-깊은 그루브와 부드러운 비트로 마음을 감싸는 놀라운 다운템포 작품 모음입니다.”
+깊은 그루브와 완만한 비트가 마음을 감싸는, 주목해야 할 다운 템포 작품군
 
 <hr>
 
-### 겸손한 마우스 / 764‑HERO – 필요할 때마다
+### Modest Mouse / 764‑HERO – Whenever You See Fit
 <a href="https://jp.mercari.com/item/m99852743815?afid=6142608987"><img src="../assets/images/Modest%20Mouse%20764-HERO%20%E2%80%93%20Whenever%20You%20See%20Fit.webp"></a>
 
-조용한 리듬이 가득한 엉뚱한 인디 EP
+조용한 리듬이 스며드는 딥 인디 EP
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Whenever You See Fit (Original Version)
 
@@ -35,17 +35,17 @@ B2. Whenever You See Fit (Sientific American Mix)
 [メルカリで購入](https://jp.mercari.com/item/m99852743815?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4FhVkJkOjiU?si=-XOGs3zBc2_iqlCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
-### B.E.F. 위업. 그린 가트사이드 - 내가 왜 당신을 사랑하는지 모르겠어요
+### B.E.F. Feat. Green Gartside – I Don’t Know Why I Love You
 <a href="https://jp.mercari.com/item/m50800315242?afid=6142608987"><img src="../assets/images/B.E.F.%20Featuring%20Green%20Gartside%20%E2%80%93%20I%20Don't%20Know%20Why%20I%20Love%20You.webp"></a>
 
-Foundation의 세련된 브리티쉬 사운드
+Foundation의 세련된 영국 사운드
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. I Don't Know Why I Love You (But I Love You)
 
@@ -57,17 +57,17 @@ B2. Family Affair (Plati Party Mix)
 [メルカリで購入](https://jp.mercari.com/item/m50800315242?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-Alovg32ZbQ?si=oP2TuMPFpnStQw-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
 
-### Swing Out Sister – 모양과 패턴
+### Swing Out Sister – Shapes And Patterns
 <a href="https://jp.mercari.com/item/m34567494829?afid=6142608987"><img src="../assets/images/Swing%20Out%20Sister%20%E2%80%93%20Shapes%20And%20Patterns.webp"></a>
 
-소프트 일렉트로닉 재즈와 소울, 일본에서 인기
+일본에서도 인기, 부드러운 전자 재즈 & 서울
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Somewhere In The World
 2. Here And Now
@@ -88,17 +88,17 @@ B2. Family Affair (Plati Party Mix)
 [メルカリで購入](https://jp.mercari.com/item/m34567494829?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rWrIuSbpNO0?si=LWTlZEawiK8BR6zC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
 
-### 백색광 서커스 – 행진 명령
+### White Light Circus – Marching Orders
 <a href="https://jp.mercari.com/item/m33139936589?afid=6142608987"><img src="../assets/images/White%20Light%20Circus%20%E2%80%93%20Marching%20Orders.webp"></a>
 
-UK 일렉트로 느낌의 차분한 디스코 트랙입니다.
+UK 일렉트로 감 감도는 디스코 조틸 트럭
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Marching Orders (Special Mix)
 
@@ -108,18 +108,18 @@ B. The Shot! (Dub Copy)
 
 [メルカリで購入](https://jp.mercari.com/item/m33139936589?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7P0PxTEuSLY?si=md9VAShG3YBHgjyJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <hr>
 
 
-### 토미 브라운 – 감정(EP)
+### Tommy Brown – Feelings (EP)
 <a href="https://jp.mercari.com/item/m69743649538?afid=6142608987"><img src="../assets/images/Tommy%20Brown%20%E2%80%93%20Feelings.webp"></a>
 
-이탈로 향이 나는 오후의 칠 비트
+이타로 맛의 오후 계열 칠 비트
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Feelings (Mix Edit)
 
@@ -131,5 +131,5 @@ B2. Carillon
 [メルカリで購入](https://jp.mercari.com/item/m69743649538?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q3m_c59ddTE?si=UIL3E_2dltliUTGU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

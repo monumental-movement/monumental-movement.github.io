@@ -9,18 +9,18 @@ permalink: /ko/mauro-picotto-iguana/
 tags:
 - Trance
 - Euro
-title: 마우로 피코토 - 이구아나
+title: Mauro Picotto – Iguana
 ---
 
 
-"Iguana"는 이탈리아 테크노 뮤지션 Mauro Picotto의 노래입니다. 마우로 피코토(Mauro Picotto)는 1990년대 후반과 2000년대 초반에 테크노와 트랜스 장르에서 활동했습니다.
+"Iguana"는 이탈리아 테크노 뮤지션 마우로 피콧 (Mauro Picotto)의 음악입니다. 마우로 피콧은 1990년대 후반부터 2000년대 초반까지 테크노와 트랜스 장르에서 활약했습니다.
 
-"이구아나"는 마우로 피코토의 걸작 중 하나로 그의 첫 번째 대히트작이 되었습니다. 이 곡은 1999년 발매된 마우로 피코토(Mauro Picotto)의 앨범 'The Album'' 수록곡이다. 'Iguana'는 에너제틱하고 업템포적인 비트와 묵직한 베이스라인, 독특한 신스 사운드가 특징이다.
+'이구아나'는 마울로 피콧의 대표작 중 하나이며 그의 첫 메이저 히트가 되었습니다. 이 곡은 1999년에 발표된 마우로 피콧의 앨범 'The Album'에 수록되어 있습니다. "Iguana"는 활기차고 업 템포인 비트, 중후한 베이스라인, 독특한 신디사운드가 특징입니다.
 
-'Iguana''는 클럽 음악계에서 큰 성공을 거두었으며 테크노와 트랜스 팬, 레이버들의 폭넓은 지지를 받았습니다. 다이나믹한 비트와 에너지 넘치는 사운드가 댄스 플로어에서 자주 연주되었습니다.
+"Iguana"는 클럽 뮤직의 장면에서 큰 성공을 거두었으며 테크노 & 트랜스 팬, 레이버 등 널리 지지되었습니다. 그 역동적 인 비트와 하이 에너지 사운드는 댄스 플로어에서 자주 연주되었습니다.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A  Iguana (Megavoices Mix)
 
@@ -31,5 +31,5 @@ B2  Iguana (On Air Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m14868392351?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zitceMu3AmI?si=eiLTKrFPEywtA6Sm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

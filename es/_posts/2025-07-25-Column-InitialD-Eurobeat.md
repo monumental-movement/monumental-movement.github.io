@@ -34,8 +34,8 @@ En esta columna, exploramos la relación cultural entre [Initial D](https://amzn
 
 <hora>
 
-### Una historia de pasos de montaña y espíritus
-"Initial D" es un manga de Shuichi Shigeno que se ha serializado en "Weekly Young Magazine" desde 1995. La historia se desarrolla en un paso de montaña en la prefectura de Gunma, y ​​el personaje principal, Takumi Fujiwara, aprende habilidades para derrapar mientras reparte tofu en el AE86 de su padre (Toyota Sprinter Trueno), y poco a poco despierta como corredor.
+### La historia del puerto de montaña y el espíritu.
+"Initial D" es un manga de Shuichi Shigeno que se ha serializado en "Weekly Young Magazine" desde 1995. La historia se desarrolla en un paso de montaña en la prefectura de Gunma, y ​​el personaje principal, Takumi Fujiwara, aprende habilidades para derrapar mientras reparte tofu en el AE86 de su padre (Toyota Sprinter Trueno), y gradualmente despierta como un corredor.
 
 Se convirtió en anime en 1998 y se convirtió en un tema candente por su acción automovilística en 3D basada en CG y su música de alto ritmo.
 
@@ -102,20 +102,29 @@ El eurobeat se está reinterpretando de nuevas formas en los vídeos de TikTok y
 <hora>
 
 ### ¿Eurobeat es “combustible para la memoria”?
-``Initial D'' le dio historia y emoción a la música llamada Eurobeat. No era sólo "música de baile", sino que quedó grabada como una experiencia conectada con la "juventud acelerada" y los "recuerdos de derrota y victoria".
+``Initial D'' le dio historia y emoción a la música llamada Eurobeat. No se trataba sólo de "música de baile", sino de una experiencia vinculada a la "aceleración de la juventud" y a los "recuerdos de derrota y victoria".
 
 Como resultado, el eurobeat se convirtió en una música inusualmente "emocional" en Japón. En otras palabras:
 
-Eurobeat es música que habla de velocidad, pero al mismo tiempo se ha convertido en un medio que cuenta la historia de atravesar algo y perder algo.
+Si bien el Eurobeat es música que habla de velocidad, también se ha convertido en un medio que cuenta la historia de atravesar algo y perder algo.
 
 
 <hora>
 
-### El recuerdo de la velocidad nunca se desvanecerá.
+### El recuerdo de la velocidad nunca desaparecerá.
 ``Initial D'' ha terminado, pero los recuerdos de Eurobeat todavía corren por Internet. Incluso si la carrera termina, cada vez que suena la música, la carrera comienza de nuevo.
 
 Es también revivir la experiencia de nuestra propia "juventud" e "impulso".
 Incluso ahora, cada vez que escucho ese sonido, mi corazón se vuelve loco.
+
+---
+
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eR0-I4Xeo5o?si=TMXZAmOp3klwwJQI" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 

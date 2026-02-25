@@ -9,15 +9,15 @@ permalink: /ko/dharma-bums-dharma-means-truth/
 tags:
 - House
 - Trance
-title: 달마 부랑자 – 달마는 진실을 의미합니다
+title: Dharma Bums – Dharma Means Truth
 ---
 
 
-Dharma Bums는 Jason Hayward(DJ Phats)와 Martin Tyrell(DJ Dharma 900)로 구성된 영국의 일렉트로닉 댄스 음악 듀오입니다.
+Dharma Bums는 Jason Hayward(DJ Phats)와 Martin Tyrell(DJ Dharma 900)에 의한 영국 출신의 일렉트로닉 댄스 뮤직 듀오.
 
-"Dharma Means Truth"는 1994년 영국 레이블 Zoom Records에서 발매되었습니다.
+「Dharma Means Truth」는, UK의 라벨 Zoom Records보다 1994년에 릴리스.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Dharma Means Truth
 
@@ -28,5 +28,5 @@ B2. Dharma Means Dub
 
 [メルカリで購入](https://jp.mercari.com/item/m72375986642?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wQ8wr6-402Y?si=luq76WTTrGl8tGFm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

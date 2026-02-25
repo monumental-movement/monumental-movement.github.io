@@ -10,15 +10,15 @@ tags:
 - Reggae
 - Hiphop
 - 90s
-title: 이너 서클 – 검은 장미
+title: Inner Circle – Black Roses
 ---
 
 
-The Inner Circle Band 또는 The Bad Boys of Reggae로도 알려진 Inner Circle은 1968년 킹스턴에서 결성된 자메이카 레게 밴드입니다.
+Inner Circle(이너 서클)은 The Inner Circle Band 또는 The Bad Boys of Reggae(배드 보이즈 오브 레게)로도 알려져 있으며, 1968년 킹스톤에서 결성된 자메이카의 레게 밴드.
 
-이 CD에 수록된 "Bad Boys"는 전 세계적으로 히트를 쳤고, 미국 TV 프로그램 COPS의 주제가로도 유명합니다.
+이 CD에 수록되고 있는 「Bad Boys(배드·보이즈)」는 세계적인 히트가 되어, 미국의 TV 프로그램 COPS(전미 경찰 24시 컵스)의 주제가로서도 유명.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Man Standing On The Corner
 2. One Vibe
@@ -33,5 +33,5 @@ The Inner Circle Band 또는 The Bad Boys of Reggae로도 알려진 Inner Circle
 ```
 [メルカリで購入](https://jp.mercari.com/item/m27200283979?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tJzF7VO9oI4?si=UyEPv-UPdBpbUyX4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

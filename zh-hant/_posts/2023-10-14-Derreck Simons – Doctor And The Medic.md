@@ -13,9 +13,9 @@ title: 德雷克·西蒙斯——《醫生與醫生》
 
 
 “德雷克·西蒙斯——醫生與軍醫”
-製作人是戴夫·羅傑斯 (Dave Rodgers)，他是一位意大利 Eurobeat 製作人，也是 Eurobeat 廠牌 A.Beat-C 的聯合創始人。
+製作人是戴夫羅傑斯 (Dave Rodgers)，他是一位義大利 Eurobeat 製作人，也是 Eurobeat 廠牌 A.Beat-C 的共同創辦人。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Doctor And The Medic (Dance Power Mix)
 
@@ -26,7 +26,7 @@ B1. Doctor And The Medic (Radio Edit Version)
 B2. Doctor And The Medic (Playback)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m37328991093?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m37328991093?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KSWqspFBG-g?si=EVcrBobQY4ygYT2f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

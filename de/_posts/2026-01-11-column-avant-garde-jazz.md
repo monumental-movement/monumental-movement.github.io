@@ -69,7 +69,7 @@ Charakteristisch für Colemans Quartett, das Ende der 1950er Jahre gegründet wu
 
 ### 代表録音分析：[The Shape of Jazz to Come（1959）](https://amzn.to/49KxOLD)
 
-In diesem Werk sind die Grenzen zwischen Thema und Improvisation äußerst fließend. Die Eröffnungsmelodie ist klar vorgetragen, doch unmittelbar danach entwickelt jeder Spieler eine eigenständige Melodielinie. Wichtig ist, dass trotz des Fehlens von Akkordfolgen die Aufführung als Ganzes ein Gefühl der Einheit behält.
+In diesem Werk sind die Grenzen zwischen Thema und Improvisation äußerst fließend. Die Eröffnungsmelodie ist klar vorgetragen, doch unmittelbar danach entwickelt jeder Spieler eine eigenständige Melodielinie. Wichtig ist, dass die Aufführung als Ganzes trotz des Fehlens von Akkordfolgen ein Gefühl der Einheit behält.
 
 Colemans Altsaxophon nutzt häufig Tonhöhensprünge, die sich über die Tonhöhen erstrecken, und Phrasen dehnen und verkürzen sich wie Lieder. Der Bass bleibt nicht beim Gehen, sondern integriert melodische Bewegungen, und das Schlagzeug fungiert eher als Reaktionsmittel denn als Taktart. Hier wird das Konzept einer Rhythmusgruppe neu definiert.
 

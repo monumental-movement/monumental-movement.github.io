@@ -17,7 +17,7 @@ title: Tiefer Wald – Tiefer Wald
 
 Deep Forest ist ein Duo, das 1992 von Michel Sanchez und Éric Mouquet gegründet wurde. Sie zeichnet sich durch einen Weltmusikstil namens Ethno Electronica aus, der eine Mischung aus Ethno-, Elektronik-, Dance-Beats und Chillout-Beats ist.
 
-Das 1992 veröffentlichte Album wurde für einen Grammy Award nominiert und „Sweet Lullaby“ wurde ein Welthit.
+Das 1992 erschienene Album wurde für einen Grammy Award nominiert und „Sweet Lullaby“ wurde ein Welthit.
 
 
 #### Trackliste

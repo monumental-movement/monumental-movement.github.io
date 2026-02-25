@@ -14,7 +14,7 @@ title: Max Coo et Steve Coo – Danseurs de boogie
 ---
 
 
-Cette œuvre, publiée par Asia Records en 1990, est l'œuvre de l'unité "Max Coo & Steve Coo" de COO COO, célèbre pour le hit "UPSIDE DOWN".
+Cette œuvre, publiée par Asia Records en 1990, est réalisée par l'unité "Max Coo & Steve Coo" de COO COO, célèbre pour le hit "UPSIDE DOWN".
 
 L'Eurobeat promis par MAURO FARINA.
 

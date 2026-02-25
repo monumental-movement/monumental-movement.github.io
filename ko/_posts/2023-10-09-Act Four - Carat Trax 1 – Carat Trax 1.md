@@ -9,15 +9,15 @@ permalink: /ko/act-four-carat-trax-1-carat-trax-1/
 tags:
 - Trance
 - 90s
-title: 4막 - 캐럿 트랙스 1 – 캐럿 트랙스 1
+title: Act Four - Carat Trax 1 – Carat Trax 1
 ---
 
 
-'캐럿 트랙스 1'은
-안드레스 로메로(Andres Romero)와 스테판 우이츠(Stefan Wuyts)로 구성된 유닛 Act Four의 EP로 1994년 벨기에 레이블 Circus에서 발매되었습니다.
+"Carat Trax 1"은
+1994년에 벨기에의 라벨 「Circus」로부터 발매되었다고 Andres Romero와 Stefan Wuyts에 의한 유닛 Act Four의 EP입니다
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Blue (Deep Underground Mix)
 
@@ -30,5 +30,5 @@ B2. Blue (Piano Vocal Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m76260753119?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F8Grfgp5b9E?si=jIPZbyknlBOtSuTb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

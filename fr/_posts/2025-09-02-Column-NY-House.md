@@ -168,3 +168,14 @@ Club nouvelle génération de Brooklyn. Un lieu au patrimoine profond et émouva
 
 ### Toujours sur les pistes de danse du monde entier
 Même si la house de New York a été influencée par la house de Chicago, elle a hérité des gènes de la culture disco et a établi son propre style musical de « grooves émouvants et humains ». La culture de la ville, la diversité des communautés et les innovations en matière de DJing et de systèmes audio de club ont créé un héritage musical en constante évolution.
+
+---
+
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GqU193jA5kg?si=z_X40NiLoIX6iX2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

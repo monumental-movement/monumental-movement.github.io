@@ -16,11 +16,11 @@ title: 土、風與火 – All 'N All
 ---
 
 
-《All 'n All》是美國樂隊 Earth, Wind & Fire 的第八張錄音室專輯，由哥倫比亞唱片公司於 1977 年發行。這張專輯是 Earth, Wind & Fire 的代表作，在美國 Billboard 熱門 R&B/Hip-Hop 專輯排行榜上排名第一。
+《All 'n All》是美國樂團 Earth, Wind & Fire 的第八張錄音室專輯，由哥倫比亞唱片公司於 1977 年發行。這張專輯是 Earth, Wind & Fire 的代表作，在美國 Billboard 熱門 R&B/Hip-Hop 專輯排行榜上排名第一。
 
 
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Serpentine Fire
 A2. Fantasy
@@ -39,7 +39,7 @@ B3b. Brazilian Rhyme (Interlude)
 B4. Be Ever Wonderful
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m76644904752?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m76644904752?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SLdXACCX5Fg?si=IML-Fjvuj7lboTcI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -19,7 +19,7 @@ Stretch & Vern 是來自倫敦的 house 音樂 DJ/製作人二人組 Stuart Silv
 
 B 面的第一首歌曲由 Norman Cook（又名 Fatboy Slim）製作和混音。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. I'm Alive (12" Original)
 
@@ -30,7 +30,7 @@ Remix – Fat Boy
 B2. I'm Alive (Moonmen Mix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m14682088569?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m14682088569?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kt9upcRRgWo?si=CIOyr55ES5gNajYN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

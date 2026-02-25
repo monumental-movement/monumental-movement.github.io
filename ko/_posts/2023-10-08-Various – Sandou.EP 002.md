@@ -9,14 +9,14 @@ permalink: /ko/various-sandou-ep-002/
 tags:
 - Experimental
 - Break Beat
-title: 다양한 – Sandou.EP 002
+title: Various – Sandou.EP 002
 ---
 
 
-산도우.EP 002'는
-1997년 일본 레이블 '산도 레코드'가 발매한 EP이다.
+「Sandou.EP 002」는,
+1997년에 일본의 라벨 「Sandou Records」로부터 발매된 EP입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Wambanca–Ca1
 
@@ -31,5 +31,5 @@ B2. Takashi Uno–Machinary Funk2
 
 [メルカリで購入](https://jp.mercari.com/item/m49072274463?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vl4yPp-9jAg?si=iTV30cdzTwfmEhjp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

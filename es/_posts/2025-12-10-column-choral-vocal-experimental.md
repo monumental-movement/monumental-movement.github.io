@@ -187,7 +187,7 @@ Con estos, la imagen estática del coro queda completamente desmantelada, y la p
 
 Ligeti fue un compositor que simbolizó el pensamiento acústico del siglo XX y provocó las innovaciones más radicales en la música coral.
 
-### Características de las obras representativas.
+### Características de las obras representativas
 
 *《Lux Aeterna》: Micropolifonía sin acompañamiento
 * 《Requiem》: Textura densa y tensión en “Kyrie”
@@ -210,11 +210,11 @@ Whittaker es conocida por sus obras corales que mantienen una belleza clásica a
 ### Coro virtual
 
 “Virtual Choir”, que tuvo lugar en la década de 2010, es un intento de integrar voces individuales grabadas de todo el mundo y crear un coro gigantesco.
-Esto es digno de mención en términos de la historia de la música como una **expansión del concepto de canto coral en la era de Internet**.
+Esto es notable en la historia de la música como una **expansión del concepto de canto coral en la era de Internet**.
 
 ---
 
-## 5-3. Otras personas importantes
+## 5-3. otras personas importantes
 
 * Meredith Monk: Un enfoque minimalista que combina la voz con la expresión física.
 * Karlheinz Stockhausen: Tratamiento estructural del canto de armónicos en Stimmung (1968)

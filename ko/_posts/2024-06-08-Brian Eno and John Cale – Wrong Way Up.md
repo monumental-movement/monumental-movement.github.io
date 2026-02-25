@@ -12,17 +12,17 @@ tags:
 - Healing
 - 90s
 - Rare
-title: 브라이언 이노(Brian Eno) & 존 케일(John Cale) – Wrong Way Up
+title: Brian Eno & John Cale – Wrong Way Up
 ---
 
 
-1990년에 발매된 Brian Eno와 John Cale의 스튜디오 앨범 "Wrong Way Up"의 홍보용 카세트 테이프입니다.
+1990년에 릴리스된 Brian Eno(브라이언 이노)와 John Cale(존 케일)의 스튜디오·앨범 앨범 「Wrong Way Up」의 프로모션용 카세트 테이프.
 
-Wrong Way Up은 일렉트로닉, 프로그레시브 록, 아트 록 장르 사이에 속하며 비평가들의 호평을 받은 앨범입니다.
+'Wrong Way Up'은 일렉트로닉, 프로그레시블록, 아트록 장르의 중간에 위치한 작품으로 비평가에 극찬된 앨범.
 
-'Spinning Away'는 2000년 미국 록밴드 슈가레이(Sugar Ray)가 영화 '더 비치(The Beach)' 사운드트랙을 커버한 곡으로 유명하다.
+수록곡 「Spinning Away」는, 미국의 록 밴드 Sugar Ray가 2000년에 영화 「더 비치」의 사운드 트랙으로서 커버 버전을 제작한 것으로 유명.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Lay My Love
 A2. One Word
@@ -39,5 +39,5 @@ B5. The River
 
 [メルカリで購入](https://jp.mercari.com/item/m98335860609?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-INeMspNSQ0?si=rooDJWDXNgTju37W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

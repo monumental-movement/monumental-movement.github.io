@@ -88,7 +88,7 @@ Representative song:
 - "Atlas"
 - "Something"
 - "Arigato"
-- "Tokyo"
+-"Tokyo"
 -"Peoples"
 
 These are frequently played in the current setlist and best symbolize STS9's musical image.
@@ -275,7 +275,7 @@ They have established a new genre that bridges electronic music and jam bands.
 
 ## 11-2. Strong ties with festival culture
 
-STS9's live shows go well with festivals.
+STS9's live shows go well with festivals,
 - Bonnaroo
 - Electric Forest
 - Suwannee Hulaween

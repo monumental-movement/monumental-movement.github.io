@@ -19,7 +19,7 @@ title: 各種 – X 類 2
 
 僅這首歌就會讓您想將其添加到您的唱片收藏中，所以我強烈推薦它。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Simple Minds–New Gold Dream
 
@@ -45,7 +45,7 @@ D1. Heaven 17–Let Me Go
 D2. Yazoo–Don't Go
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m66807575600?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m66807575600?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gkCYh1x44G8?si=PHuaBCNVDI59kxRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

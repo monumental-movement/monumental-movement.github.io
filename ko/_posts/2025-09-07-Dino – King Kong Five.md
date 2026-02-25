@@ -10,19 +10,19 @@ tags:
 - House
 - Electro
 - 00s
-title: 디노 – 킹콩 파이브
+title: Dino – King Kong Five
 ---
 
 
-디노(Dino)로도 알려진 디노 레니(Dino Lenny)는 30년 넘게 댄스 음악계에서 활동해온 이탈리아 출신 DJ/프로듀서입니다.
+Dino와 Dino Lenny는, 댄스 뮤직 씬으로 30년 이상 활약하는 이탈리아의 DJ/프로듀서.
 
-"King Kong Five"는 원래 프랑스 밴드 Mano Negra의 오리지널 곡으로, 1989년 앨범 Puta's Fever에 수록되어 싱글로 발매되었습니다.
+King Kong Five는 원래 프랑스 밴드 Mano Negra의 오리지널 곡으로 1989년 앨범 'Puta’s Fever'에 수록되어 싱글에서도 출시됐다.
 
-Dino 버전은 Ilario Drago의 댄스 음악 레이블 Ego Music에서 2004년에 발표한 이 노래 House/Electro를 재해석한 곡입니다.
+Dino의 버전은, 이 악곡을 재해석한 것으로, Ilario Drago 주재의 댄스 뮤직 라벨 Ego Music에서 2004년에 릴리스된 House/Electro.
 
-B는 'Bucci Bag'(Dino Lenny 프로듀싱)으로 유명한 Andrea Doria의 리믹스입니다.
+B는, 「Bucci Bag」(프로듀서는 Dino Lenny)로 알려진 Andrea Doria에 의한 remix.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. King Kong Five (Extended Club Mix)
 
@@ -31,5 +31,5 @@ B1. King Kong Five (Andrea Doria Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m44912772102?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A-hSab_0GIs?si=03-DcndMeVO71FfS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

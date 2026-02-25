@@ -9,17 +9,17 @@ permalink: /ko/zion-fantasma-dos-jueyes/
 tags:
 - Speedcore
 - Hardcore
-title: 시온 – 판타스마 도스 유대인
+title: Zion – Fantasma Dos Jueyes
 ---
 
 
-Zion은 라틴 아메리카 레게톤 음악계에서 활동하는 아티스트이자 푸에르토리코 레게톤 듀오 Zion & Lennox의 멤버 중 한 명입니다.
+Zion은 라틴 아메리카의 레게톤 음악 장면에서 활약하는 아티스트이며, 푸에르토리코의 레게톤 듀오인 Zion & Lennox의 멤버 중 한 명.
 
-자이언 앤 레녹스(Zion & Lennox)는 대디 양키(Daddy Yankee), 돈 오마르(Don Omar)와 함께 레게톤 전성기에 등장해 수많은 히트곡을 발표한 그룹이다.
+Zion & Lennox는 Daddy Yankee, Don Omar 등과 함께 레게톤의 황금 시대에 등장한 그룹으로 많은 히트곡을 발표했습니다.
 
-B면에는 푸에르토리코인 살사 가수 Domingo Quiñones가 출연합니다.
+B면은 푸에르토리코의 살사 싱어 Domingo Quiñones(도밍고 키뇨네스)를 피처링.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Fantasma (Main)
 

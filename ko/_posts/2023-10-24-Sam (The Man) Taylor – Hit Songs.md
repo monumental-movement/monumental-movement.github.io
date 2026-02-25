@@ -10,13 +10,13 @@ tags:
 - Jazz
 - Nostalgic
 - 70s
-title: 샘(더 맨) 테일러 – 히트곡
+title: Sam (The Man) Taylor – Hit Songs
 ---
 
 
-"Sam (The Man) Taylor - 25세의 Sam Taylor"는 1970년에 발매된 케이블 히트곡 모음입니다.
+Sam (The Man) Taylor - 25시 샘 테일러는 유선 히트 곡집으로 1970 년에 발표되었습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. 恋ひとすじ – 森進一
 

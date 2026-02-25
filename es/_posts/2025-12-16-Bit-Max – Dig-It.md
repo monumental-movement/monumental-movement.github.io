@@ -15,7 +15,7 @@ title: Bit-Max – Dig-It
 
 Maurizio Pavesi, también conocido como Bit-Max, es un productor y DJ italiano. Ha trabajado bajo varios nombres, incluidos Italo Dance Project Alphabet, DJ Zanza y Pavesi Sound.
 
-"Dig-It" es una pista de Techno lanzada en 1999 en el sello House Beat Club Records en Milán, Italia.
+"Dig-It" es una pista de Techno lanzada en 1999 por el sello House Beat Club Records en Milán, Italia.
 
 #### Lista de canciones
 ```md

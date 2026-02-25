@@ -17,12 +17,12 @@ CJ Stone（Andreas Litterscheid）是一位活躍在舞曲音樂界的德國 DJ 
 
 B 面是來自柏林的德國 DJ 和 house 音樂製作人 Jean Elan（Sven Koslik）的混音，他也是 Bass Bumpers 的成員。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. City Lights (Jean Elan Mix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m31291560077?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m31291560077?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sUHuNSXxYNk?si=h3bHHP4qdNqbeYWx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

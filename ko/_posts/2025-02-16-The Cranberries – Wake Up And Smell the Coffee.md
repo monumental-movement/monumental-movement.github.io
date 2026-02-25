@@ -10,15 +10,15 @@ tags:
 - Pop Rock
 - Alternative Rock
 - Rock
-title: 크랜베리 - 일어나서 커피 냄새를 맡아보세요
+title: The Cranberries – Wake Up And Smell the Coffee
 ---
 
 
-더 크랜베리스는 1989년에 결성된 아일랜드의 얼터너티브 록 밴드입니다. 그들의 스타일은 인디 록, 정글 팝, 드림 팝, 포크 록, 포스트 펑크, 팝 록 요소를 결합한 것이 특징입니다.
+The Cranberries(크랜베리즈)는, 1989년에 결성된 아일랜드의 얼터너티브 록 밴드. 인디 락, 정글 팝, 드림 팝, 포크 락, 포스트 펑크, 팝 락의 요소를 도입한 스타일이 특징.
 
-"Wake Up and Smell the Coffee"는 2001년에 발매된 크랜베리스의 다섯 번째 정규 앨범이자 6년 만에 발매된 마지막 앨범입니다. 전 세계적으로 큰 히트를 쳤습니다.
+'Wake Up and Smell the Coffee'는 2001년에 발매된 The Cranberries의 5번째 스튜디오 앨범으로, 6년간 휴무 전 마지막 앨범. 전세계에서 대히트가 되었다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Never Grow Old
 2. Analyse
@@ -41,5 +41,5 @@ Bonus Tracks
 
 [メルカリで購入](https://jp.mercari.com/item/m14455490790?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TGcHisWvmuo?si=xzjGZsuga3trnuNM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

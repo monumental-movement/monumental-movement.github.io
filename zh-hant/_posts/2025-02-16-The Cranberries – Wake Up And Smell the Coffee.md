@@ -10,15 +10,15 @@ tags:
 - Pop Rock
 - Alternative Rock
 - Rock
-title: 小紅莓——醒來聞咖啡香
+title: 小紅莓－醒來聞咖啡香
 ---
 
 
-The Cranberry 是一支成立於 1989 年的愛爾蘭另類搖滾樂隊。他們的風格特點是融合了獨立搖滾、叢林流行、夢幻流行、民謠搖滾、後朋克和流行搖滾等元素。
+The Cranberry 是一支成立於 1989 年的愛爾蘭另類搖滾樂團。他們的風格特徵是融合了獨立搖滾、叢林流行、夢幻流行、民謠搖滾、後龐克和流行搖滾等元素。
 
-《Wake Up and Smell the Coffee》是小紅莓樂隊於 2001 年發行的第五張錄音室專輯，也是他們中斷六年前的最後一張專輯。它在全世界引起了巨大的轟動。
+《Wake Up and Smell the Coffee》是小紅莓樂團於 2001 年發行的第五張錄音室專輯，也是他們中斷六年前的最後一張專輯。它在全世界引起了巨大的轟動。
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. Never Grow Old
 2. Analyse
@@ -39,7 +39,7 @@ Bonus Tracks
 15. In The Ghetto
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m14455490790?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m14455490790?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TGcHisWvmuo?si=xzjGZsuga3trnuNM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

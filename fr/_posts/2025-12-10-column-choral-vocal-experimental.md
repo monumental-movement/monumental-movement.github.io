@@ -21,7 +21,7 @@ title: '[Chronique] Choral / Vocal Expérimental'
 Texte : mmr｜Thème : Développement historique, artistes représentatifs, analyse technique, contexte de l'enregistrement sonore/vidéo, tendances du travail contemporain
 
 Le « Choral/Vocal Experimental » est un domaine né de l’intersection de la musique expérimentale, de la recherche acoustique et des idées électroacoustiques de la seconde moitié du XXe siècle sur la forme musicale la plus ancienne du chœur.
-Sa particularité est qu'il va au-delà de la simple recherche de la beauté des harmonies et couvre une grande variété de techniques, notamment l'exploration de phénomènes acoustiques utilisant la voix comme matériau, la spatialisation, la manipulation microtonale, la structure de phase et la fusion avec le traitement électronique.
+Sa particularité est qu'il va au-delà de la simple recherche de la beauté des harmonies et couvre une grande variété de techniques, y compris l'exploration des phénomènes acoustiques utilisant la voix comme matériau, la spatialisation, la manipulation microtonale, la structure de phase et la fusion avec le traitement électronique.
 Cette tendance a présenté un nouveau style d’écoute de la culture chorale traditionnelle et a eu un impact majeur sur l’art acoustique dans son ensemble.
 
 ---
@@ -39,7 +39,7 @@ color: #fff;
 }
 </style>
 
-# 1. Introduction
+# 1. Présentation
 
 L’instrument de musique le plus primitif de l’histoire de l’humanité est la voix, et l’expression collaborative de plusieurs personnes par la voix s’est développée en étroite collaboration avec les rituels religieux et les structures communautaires.
 Cependant, l'image moderne du « chœur = harmonie disciplinée et homogène » n'est en réalité qu'un ensemble de valeurs devenues dominantes au cours d'une période limitée du 19e au 20e siècle.
@@ -72,7 +72,7 @@ en particulier
 
 * 《Requiem》 (1963–65)
 *《Lux Aeterna》(1966)
-* 《Horloges et nuages》 (1972-73)
+* 《Horloges et nuages》 (1972-1973)
 
 Ces œuvres marquent un tournant dans le traitement du chœur comme « une substance acoustique plutôt qu'un ensemble d'harmonies ».
 
@@ -297,7 +297,7 @@ C’est un exemple typique de la transformation de la voix en instrument.
 
 # 9. Tendances au 21ème siècle
 
-Modern Vocal Experimental a réalisé de nouveaux progrès dans les domaines suivants.
+Modern Vocal Experimental a encore progressé dans les domaines suivants.
 
 ##9-1. Intégration de la voix et du son électronique
 

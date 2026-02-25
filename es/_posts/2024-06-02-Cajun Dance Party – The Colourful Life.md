@@ -17,7 +17,7 @@ title: Fiesta de baile cajún – La vida colorida
 
 Cajun Dance Party es una banda de rock de cinco integrantes de Londres, Inglaterra.
 
-Su álbum debut, "The Colorful Life", lanzado con el sello XL Recordings en 2008, fue producido por Bernard Butler de la banda de rock británica Suede.
+Su álbum debut "The Colorful Life", lanzado con el sello XL Recordings en 2008, fue producido por Bernard Butler de la banda de rock británica Suede.
 Después de lanzar este álbum, actuaron en varios festivales de todo el mundo, incluidos Reading y Leeds, Glastonbury, Oxegen y Summer Sonic.
 
 #### Lista de canciones

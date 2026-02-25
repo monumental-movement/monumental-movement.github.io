@@ -14,7 +14,7 @@ title: Bio-Tónico – Rock Da People
 
 
 “Rock Da People” es
-Este es un EP de la banda francesa de trance psicodélico ``Bio-Tonic'' de Reims, lanzado por el sello alemán ``Spirit Zone Recordings'' en 2001.
+Este es un EP de la banda francesa de trance psicodélico ``Bio-Tonic'' de Rance, lanzado en 2001 por el sello alemán ``Spirit Zone Recordings''.
 
 #### Lista de canciones
 ```md

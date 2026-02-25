@@ -26,10 +26,10 @@ Texte : mmr｜Thème : Chill-out et esthétique du rythme profond
 ### Qu'est-ce que le downtempo ?
 "Downtempo", comme son nom l'indique, est un type de musique électronique au tempo lent. Généralement, le BPM (tempo) se situe autour de 60 à 110, et il se caractérise par des rythmes et des sons relaxants destinés à l'écoute et à la détente, plutôt que par des rythmes intenses pour les clubs.
 
-Entre les battements de cœur palpitants et l’agitation, un soudain silence apparaît. Si c'est de la musique, le downtempo est ce moment de respiration profonde. Dans le monde de la culture club et de la musique électronique, c'est un genre musical qui se situe à l'opposé des rythmes rapides de la techno et de la house, mais qui est proche des émotions de l'auditeur et se fond dans la nuit de la ville. C'est du downtempo.
+Entre les battements de cœur palpitants et l’agitation, un soudain silence apparaît. Si c'est de la musique, le downtempo est ce moment de respiration profonde. Dans le monde de la culture club et de la musique électronique, ce genre de musique se situe à l'opposé des rythmes rapides comme la techno et la house, mais c'est un genre musical proche des émotions de l'auditeur et qui se fond dans la nuit de la ville. C'est du downtempo.
 
 Le downtempo est créé à l'intersection de plusieurs genres, notamment la sensation flottante de l'ambient, les grooves du hip-hop et les éléments organiques du jazz et de la soul.
-Bien qu'il recoupe souvent des styles tels que la musique chillout, le trip hop et la musique lounge, il est également utilisé comme terme général pour désigner un groove doux qui englobe ces styles.
+Bien qu'il recoupe souvent des styles tels que le chillout, le trip hop et la musique lounge, il est également utilisé comme terme général pour désigner un groove doux qui englobe ces styles.
 
 
 <hr>
@@ -96,7 +96,7 @@ Downtempo a connu diverses évolutions grâce à sa fusion avec la culture local
 
 **Bien qu'il retient à nouveau l'attention dans le contexte du « chill », de la « relaxation » et de la « concentration »**, il existe de nombreuses listes de lecture sur Spotify et YouTube appelées « Lo-Fi », « Chillhop » et « Study Beats », qui sont familières aux auditeurs sous le nom de downtempo au sens large.
 
-De plus, les frontières entre la musique environnementale et la musique ambiante sont devenues floues, et la musique continue d'évoluer vers une musique plus étroitement adaptée à l'état psychologique et à la scène de vie d'un individu.
+De plus, les frontières entre musique environnementale et musique d’ambiance sont devenues floues, et la musique continue d’évoluer vers une musique plus étroitement alignée sur les états psychologiques individuels et les scènes de vie.
 
 Des artistes tels que Bonobo, Tycho, Khruangbin et les japonais Pictured Resort et Cuushe sont des acteurs importants du Downtempo moderne.
 
@@ -113,6 +113,16 @@ La prochaine fois que vous aurez envie d'oublier le temps et de m'éloigner, j'e
 
 
 ---
+
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ovpFgRFjRy8?si=ovvp2_KBD9HDzNJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 ### Colonnes associées
 

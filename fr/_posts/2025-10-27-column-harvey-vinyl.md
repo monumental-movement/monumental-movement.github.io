@@ -65,7 +65,7 @@ Pour lui, un document est « l’acte de conserver une trace de la vie de quelqu
 Flâner dans les marchés et les brocantes, dénicher des dossiers poussiéreux. Il n'y a pas que des sons mais aussi des **traces du temps** gravées là-bas.
 
 Harvey dit : « Plus un disque comporte d'empreintes digitales humaines, plus le son est vivant. »
-Son set comprend un mélange de disco italo inconnu, de rock des années 70, de boogie synthétisé des années 80 et même d'AOR hawaïen.
+Son set comprend un mélange de disco italo inconnu, de rock des années 70, de synth boogie des années 80 et d'AOR hawaïen.
 La sélection des chansons n'est pas aléatoire, mais basée sur une intuition de lecture du « flux d'air du son ».
 
 Son sac de DJ est comme un carnet de voyage. Chaque disque contient des souvenirs d'une nuit.
@@ -75,7 +75,7 @@ Son sac de DJ est comme un carnet de voyage. Chaque disque contient des souvenir
 ## Chapitre 3 : Londres - Ibiza - LA, une boîte à disques en mouvement
 
 Les disques d'Harvey ont toujours été en mouvement.
-Des clubs underground de Londres au **Pikes Hotel** d'Ibiza en passant par les événements dans les entrepôts de Los Angeles.
+Des clubs underground de Londres au **Pikes Hotel** à Ibiza en passant par les événements en entrepôt à Los Angeles.
 À mesure que les villes changent, les sons évoluent également. Il reconfigure le décor en fonction de l'ambiance.
 
 Pendant son séjour à Ibiza, Harvey a redéfini le mot « Baléares ».
@@ -103,7 +103,7 @@ Ces mots sont au cœur de l'esthétique de Harvey.
 
 ---
 
-## Chapitre 5 : L'éthique analogique à l'ère numérique
+## Chapitre 5 : L'éthique analogique à l'ère numérique
 
 Aujourd’hui, de nombreux DJ peuvent parcourir le monde avec une seule clé USB.
 Mais Harvey part toujours en tournée avec une caisse de disques.
@@ -214,7 +214,7 @@ pie title DJ Harvey's Vinyl Box Composition
 Harvey's record box est une archive organique fondée sur le mélange des genres.
 Ce qui est remarquable, c'est que « Rock » et « House » sont placés à égalité.
 Cela symbolise le fait qu’il est un DJ qui connecte toujours par ambiance et non par genre.
-La machine à sous "Oddities" est l'arme secrète d'Harvey. S'active pendant les réglages après les heures d'ouverture et au lever du soleil.
+La machine à sous "Oddities" est l'arme secrète d'Harvey. S'active pendant les heures d'ouverture et les réglages du lever du soleil.
 
 ---
 
@@ -276,5 +276,13 @@ Grâce à ceux-ci, la philosophie du DJ d'Harvey devient claire.
 Cela signifie qu’il ne s’agit pas simplement de jouer de la musique, mais d’accorder le temps, le corps et l’espace.
 La boîte à disques est sa vision du monde,
 Chaque disque est vivant comme un « fragment de mémoire et d'expérience ».
+
+---
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BrRcFNRq4u8?si=SBd4yIFFwTAlvgcm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

@@ -10,19 +10,19 @@ tags:
 - Techno
 - House
 - 90s
-title: 자동 반복 - Auto-Amerikanische Freundschaft(Revisited Remixed)
+title: Auto Repeat – Auto-Amerikanische Freundschaft (Revisited Remixed)
 ---
 
 
-Auto Repeat라고도 알려진 Alexander Müller가 1995년에 발표한 하우스 테크노 트랙입니다.
+Auto Repeat 알렉산더 뮐러가 1995년에 발매한 하우스 테크노 트럭.
 
-A면의 첫 번째 트랙은 미국 하우스 DJ Paul Johnson의 리믹스입니다.
+A면 1곡째는, US하우스 DJ Paul Johnson에 의한 remix.
 
-A면의 두 번째 트랙은 90년대 후반 미국 하우스 프로듀서의 선구자로 알려진 시카고 하우스 프로듀서 DJ Sneak의 리믹스이다.
+A면 2곡째는 시카고 하우스 프로듀서이며, 90s 후반의 US 하우스 프로듀서의 선구자 중 한 명으로 알려진 DJ Sneak에 의한 remix.
 
-The Sneak Mix는 90년대 중반의 황금기를 대표하는 시대를 초월한 하우스 넘버로 매우 임팩트 있는 트랙입니다.
+Sneak Mix는 매우 충격적인 트럭으로 황금의 90년대 중반을 대표하는 시대를 넘은 하우스 넘버입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. You Can't Stop (Remixed by Paul Johnson)
 
@@ -35,5 +35,5 @@ B2. Def Jam (Remixed by Auto Repeat)
 
 [メルカリで購入](https://jp.mercari.com/item/m18779388918?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RoD2WO18jQU?si=iVBK0iN8LA_acqso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

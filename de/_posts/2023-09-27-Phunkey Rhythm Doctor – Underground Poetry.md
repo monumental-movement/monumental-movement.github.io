@@ -9,7 +9,7 @@ permalink: /de/phunkey-rhythm-doctor-underground-poetry/
 tags:
 - Techno
 - Electro
-title: Phunkey Rhythm Doctor – Untergrundpoesie
+title: Phunkey Rhythm Doctor – Underground Poetry
 ---
 
 

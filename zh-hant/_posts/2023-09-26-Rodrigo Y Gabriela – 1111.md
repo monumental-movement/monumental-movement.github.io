@@ -22,7 +22,7 @@ Rodrigo y Gabriela 是來自墨西哥的吉他二人組。
 
 羅德里戈·加布里埃拉開展了廣泛的音樂活動並贏得了國際讚譽。
 
-#### 曲目列表
+#### 曲目表
 ```md
 CD1. Hanuman
 
@@ -63,7 +63,7 @@ DVD3. Lumbini
 DVD4. Buster Voodoo Tutorial
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m95612334096?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m95612334096?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HJtOs3z_0ow?si=luH-R4GMTw10meaV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

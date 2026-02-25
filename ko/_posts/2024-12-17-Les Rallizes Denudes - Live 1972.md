@@ -11,13 +11,13 @@ tags:
 - Avant-garde
 - Rock
 - 70s
-title: Les Rallizes Dénudés – 라이브 1972
+title: 벌거 벗은 랠리즈 Les Rallizes Dénudés – Live 1972
 ---
 
 
-Les Rallizes Dénudés/Hadaka no rariizu는 미즈타니 다카시가 이끄는 1967년 교토에서 결성된 실험적인 노이즈 록/사이키델릭 록 밴드입니다. 1960년대부터 1990년대까지 활동한 네이키드 래리스(Naked Larrys)는 국내외 노이즈 록 씬에 큰 영향을 미쳤으며, 지금도 컬트적 인기를 자랑하고 있다. 원래 멤버는 미즈타니 타카시, 나카무라 타케시, 와카바야시 모리스케였습니다. 또한 야마구치 후지오(구 하치부, 이후 티어드롭스)와 쿠보타 마코토가 한동안 합류하는 등 멤버는 유동적이다. 1996년 그룹 활동을 중단했다.
+알몸의 랠리즈(Les Rallizes Dénudés/Hadaka no rariizu)는 1967년 미즈타니 타카시를 중심으로 교토에서 결성된 익스피리멘탈 노이즈 록 사이키델릭 록 밴드. 1960년대부터 1990년대에 활동한 벌거벗은 랠리즈는 국내외 노이즈 록 장면에 큰 영향을 주어 현재도 컬트적 인기를 자랑한다. 결성 당시의 멤버는 미즈타니 타카시, 나카무라 타케시, 와카바야시 모리 료. 그 외, 야마구치 토미사오(모토무라 팔분, 나중에 티아드롭스), 쿠보타 마코토 등이 일시 재적하는 등 멤버는 유동적. 1996년을 마지막으로 활동을 휴지하고 있다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. 造花の原野 (Field of Artificial Flowers)
 2. 夜より深く (More Deeply Than the Night)
@@ -29,5 +29,5 @@ Les Rallizes Dénudés/Hadaka no rariizu는 미즈타니 다카시가 이끄는 
 
 [メルカリで購入](https://jp.mercari.com/item/m84819164983?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zoaAUptZ0mw?si=io-6qEGs_v6UDWeG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

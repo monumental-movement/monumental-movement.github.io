@@ -8,13 +8,13 @@ layout: post
 permalink: /ko/chayell-rio/
 tags:
 - New Beat
-title: 샤옐 – 리오
+title: Chayell – Rio
 ---
 
 
-"Rio"는 Peter Bonne과 Pick A Number의 유닛 Chayell이 1988년 "Subway"라는 레이블로 발매한 EP입니다.
+Rio는 1988년 라벨 Subway에서 출시된 Peter Bonne과 Pick A Number의 유닛 Chayell과 같은 EP입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Do You Wanna (DJ's Free Rap)
 
@@ -23,5 +23,5 @@ B. Breakfast In Rio (Hey That's Our Rap)
 
 [メルカリで購入](https://jp.mercari.com/item/m59298889139?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JqVwW_P9ibk?si=s3525SWFzOWN7Iib" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

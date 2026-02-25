@@ -18,13 +18,13 @@ La primera canción de la cara B es un remix del DJ y productor estadounidense R
 
 Joy Beltrame es ampliamente reconocida como una de las primeras innovadoras en la música dance underground.
 
-Comenzó a trabajar como DJ como pasatiempo en 1983, cuando tenía 12 años, tocando principalmente electro y hip-hop.
+Comenzó a trabajar como DJ en 1983, cuando tenía 12 años, tocando principalmente música electrónica y hip-hop.
 
 Se dedicó a la música house en 1985, el mismo año en que la primera ola de house de Chicago llegó a Nueva York, y en 1989, mientras todavía trabajaba como mensajero, comenzó a publicar algunos de sus primeros trabajos en varios sellos discográficos pequeños en Nueva York.
 
 Un año después, llamaron la atención de R&S Records de Bélgica, quienes lanzaron su primer disco importante, Energy Flash, a mediados de 1990, al que siguieron una serie de lanzamientos igualmente impresionantes.
 
-A lo largo de los años 90, continuó creando música atemporal en el sello de vanguardia de la época.
+A lo largo de la década de 1990, continuó haciendo música atemporal en el sello de vanguardia de la época.
 
 En 1999, fundó su propio sello, STX Records, que actualmente graba con JB³ y Joey Beltram.
 

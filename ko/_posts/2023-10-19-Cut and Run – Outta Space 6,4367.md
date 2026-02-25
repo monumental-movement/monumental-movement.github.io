@@ -9,13 +9,13 @@ permalink: /ko/cut-and-run-outta-space-6-4367/
 tags:
 - Breaks
 - Break Beat
-title: 컷 앤 런 - 아웃타 스페이스 6,4367
+title: Cut & Run – Outta Space 6,4367
 ---
 
 
-"Outta Space 6,4367"은 The Prodigy의 "Out Of Space"를 샘플링한 것입니다.
+Outta Space 6,4367은 The Prodigy Out Of Space를 샘플링.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Outta Space (Profanation Likes To Cover)
 ```

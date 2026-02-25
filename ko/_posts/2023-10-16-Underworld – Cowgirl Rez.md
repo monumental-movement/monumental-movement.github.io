@@ -9,15 +9,15 @@ permalink: /ko/underworld-cowgirl-rez/
 tags:
 - Techno
 - Progressive
-title: 언더월드 - 카우걸 레즈
+title: Underworld – Cowgirl Rez
 ---
 
 
-1994년 발표한 '카우걸'과 1993년 발표한 '레즈'는 언더월드의 90년대 대표곡이다.
+1994년에 릴리스된 「Cowgirl」과 1993년에 릴리스된 「Rez」는, Underworld의 90년대의 대표곡.
 
-'카우걸'은 감성적인 멜로디와 일렉트로닉 사운드가 어우러진 독특한 트랙이다. "Rez"는 에너지 넘치는 테크노 비트와 하우스 음악이 융합된 곡으로, 둘 다 당대의 클래식으로 평가됩니다.
+「Cowgirl」은, 에모쇼날인 멜로디와 일렉트로닉 사운드가 융합한 특징적인 트랙. 「Rez」는, 하이에너지인 테크노비트와 하우스 뮤직이 융합한 사운드로, 모두 이 시대의 클래식으로 여겨지고 있는 트럭.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Cowgirl
 
@@ -26,5 +26,5 @@ B. Rez
 
 [メルカリで購入](https://jp.mercari.com/item/m12368134512?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/feWNvGpWHLM?si=F4qXcSX8HtWErjar" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -12,7 +12,7 @@ title: Dubstar – Schande
 ---
 
 
-Dies ist ein Album, das 1995 von der britischen Band Dubstar veröffentlicht wurde. Es war ihr Debütalbum und wurde im Oktober 1995 von Food Records, einer Tochtergesellschaft von EMI, veröffentlicht.
+Dies ist ein Album, das 1995 von der britischen Band Dubstar veröffentlicht wurde. Es war ihr Debütalbum, das im Oktober 1995 von Food Records, einer Tochtergesellschaft von EMI, veröffentlicht wurde.
 
 Das Album enthält zwei Coversongs. Einer davon ist „Not So Manic Now“, ein Song, der ursprünglich von Brick Supply auf ihrer 1994er EP „Somebody's Intermezzo“ aufgenommen wurde. Das andere ist „St. Swithin’s Day“, ein Lied, das ursprünglich von Billy Bragg auf seinem 1984er Album „Brewing Up with Billy Bragg“ aufgenommen wurde.
 

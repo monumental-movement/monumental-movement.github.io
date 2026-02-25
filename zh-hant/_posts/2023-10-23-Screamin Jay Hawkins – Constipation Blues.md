@@ -10,7 +10,7 @@ tags:
 - Soul
 - 70s
 - 7inch
-title: 尖叫傑·霍金斯 – 憲法藍調
+title: 尖叫傑霍金斯 – 憲法藍調
 ---
 
 
@@ -20,14 +20,14 @@ title: 尖叫傑·霍金斯 – 憲法藍調
 
 這首歌是尖叫傑·霍金斯職業生涯和個性中最具標誌性的作品之一，體現了他音樂的獨特而神秘的本質。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Constipation Blues = べんぴのぶるーす
 
 B. I'm Lonely = 男泣きのブルース
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m74185895481?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m74185895481?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ic3g8Xnf7LI?si=IjXytaZWloDLct1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

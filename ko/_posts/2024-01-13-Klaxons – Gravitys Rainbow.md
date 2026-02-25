@@ -9,19 +9,19 @@ permalink: /ko/klaxons-gravitys-rainbow/
 tags:
 - Electro
 - Pops
-title: Klaxons - 중력의 무지개
+title: Klaxons – Gravity's Rainbow
 ---
 
 
-Klaxons는 2005년 영국 New Cross에서 결성된 일렉트로 록 밴드입니다. "Gravity's Rainbow"는 2006년 Kitsune Music에서 발매되었습니다.
+Klaxons(크락슨스)는, UK뉴크로스로 2005년에 결성된 일렉트로·록 밴드. 「Gravity's Rainbow」는, Kitsune Music보다 2006년에 릴리스 되었다.
 
-Side A의 두 번째 노래는 호주 일렉트로 팝 밴드 Van She의 리믹스입니다.
+A면 2곡째는 호주 출신의 일렉트로팝 밴드 Van She(반시)에 의한 remix.
 
-B면의 첫 번째 노래는 Nightmoves라고도 알려진 Matt Waites의 리믹스입니다.
+B면 1곡째는 Nightmoves와 Matt Waites에 의한 remix.
 
-B사이드 2번 트랙은 영국 인디 록/신스 팝 듀오 투 마이 보이(To My Boy)의 리믹스 곡이다.
+B면 2곡째 영국의 인디락 신디팝 듀오 To My Boy에 의한 remix.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Gravity's Rainbow
 
@@ -34,5 +34,5 @@ B2. Gravity's Rainbow (To My Boy Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m93108155500?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qDrctb2BzLg?si=5lsSD78Blix0WIcz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

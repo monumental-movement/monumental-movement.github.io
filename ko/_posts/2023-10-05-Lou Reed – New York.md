@@ -9,15 +9,15 @@ permalink: /ko/lou-reed-new-york/
 tags:
 - Punk
 - Art Rock
-title: 루 리드 - 뉴욕
+title: Lou Reed – 뉴욕
 ---
 
 
-"New York"은 Lou Reed의 경력에서 중요한 앨범으로 그의 고향인 뉴욕에 초점을 맞추고 있습니다. 앨범의 가사에는 뉴욕의 현실과 사회적 이슈가 반영되어 있다. 루 리드(Lou Reed)의 날카로운 시와 그만의 독특한 보컬 스타일이 돋보이는 이 곡은 도시의 어둠과 빛을 그의 시각으로 그려낸다.
+뉴욕은 루 리드의 경력 중에서도 중요한 작품이며 그의 고향인 뉴욕에 초점을 맞춘 앨범입니다. 앨범은 뉴욕시의 현실적인 모습과 사회적 문제를 가사에 반영합니다. 루 리드의 날카로운 시정과 자신의 독특한 보컬 스타일이 특징이며, 그의 관점에서 본 도시의 어둠과 빛을 그립니다.
 
-'뉴욕'은 정치, 마약, 범죄, 사랑, 인간관계 등 다양한 주제를 다룬다. 앨범의 가장 잘 알려진 노래로는 "Dirty Blvd.", "Halloween Parade", "Romeo Had Juliette" 등이 있습니다.
+뉴욕은 정치, 드래그, 범죄, 사랑, 인간 관계 등 다양한 주제를 다루고 있습니다. 앨범 중에서도 특히 알려진 곡으로는 'Dirty Blvd.', 'Halloween Parade', 'Romeo Had Juliette' 등이 있습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Romeo Had Juliette
 
@@ -50,5 +50,5 @@ title: 루 리드 - 뉴욕
 
 [メルカリで購入](https://jp.mercari.com/item/m25569195923?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X9Jw27EMBFo?si=4TeuVtyPAiW3EUlq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

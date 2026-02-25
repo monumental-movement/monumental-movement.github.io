@@ -9,17 +9,17 @@ permalink: /ko/troy-pierce-25-bitches-vol-i/
 tags:
 - Techno
 - Minimal
-title: 트로이 피어스 – 25 Bitches Vol. 나
+title: Troy Pierce – 25 Bitches Vol. I
 ---
 
 
-Troy Pierce는 베를린에 거주하는 미국 전자 음악 DJ이자 프로듀서입니다.
+Troy Pierce(트로이피어스)는 베를린을 거점으로 활동하는 미국의 일렉트로닉 뮤직 DJ 프로듀서.
 
-Troy Pierce는 Gibby Miller와 함께 미니멀 테크노 하우스 프로젝트인 Louderbach로도 활동하고 있으며 Magda 및 Marc Houle과 함께 독일 레이블 Items & Things를 운영하고 있습니다.
+Troy Pierce는 Gibby Miller와의 미니멀 테크노 하우스 프로젝트 Louderbach로도 활약해 독일의 레이블 Items & Things를 Magda, Marc Houle과 함께 운영하고 있다.
 
-"25 Bitches Vol. I"은 Richie Hawtin이 설립한 M_nus가 2006년에 발표한 테크노 미니멀 트랙입니다.
+「25 Bitches Vol. I」는 Richie Hawtin(리치 호우틴)이 설립한 M_nus에서 2006년에 릴리스된 테크노 미니멀 트랙.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. 25 Bitches
 
@@ -32,5 +32,5 @@ B2. 25 Bitches (Berg Nixon's Zigzag Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m30628826020?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o3VEiKtFVxo?si=YA0-_11PejkdOymq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

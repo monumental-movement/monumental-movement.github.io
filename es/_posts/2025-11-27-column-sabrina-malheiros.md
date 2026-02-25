@@ -89,7 +89,7 @@ Esta canción, que se puede decir que es un símbolo del álbum, combina la suav
 
 ### - Puente con el Reino Unido creado por Henry Wu, 2000 Black, IG Culture -**
 
-Se puede decir que la atención entusiasta que recibió la música de Sabrina en la escena británica es un símbolo de la "nueva reevaluación brasileña" de finales de la década de 2010.
+Se puede decir que el entusiasmo que recibió la música de Sabrina en la escena británica es un símbolo de la "nueva reevaluación de los brasileños" a finales de la década de 2010.
 En particular, es importante el remix de “Clareia” de los siguientes tres grupos que formaron el movimiento jazz/broken beat en Londres.
 
 ---
@@ -98,7 +98,7 @@ En particular, es importante el remix de “Clareia” de los siguientes tres gr
 
 Henry Wu fue una figura central en el movimiento de resurgimiento del jazz del sur de Londres, también conocido como Yussef Kamaal.
 
-Su remezcla enfatiza un complejo trabajo de batería en la línea del ritmo roto y la sofisticación del jazz eléctrico. Si bien mantiene la "luz" de la canción original, al agregar una sensación urbana londinense, tiene un final más amigable para los clubes.
+Su remezcla enfatiza el complejo trabajo de batería en la línea del ritmo roto y la sofisticación del jazz eléctrico. Si bien mantiene la "luz" de la canción original, al agregar una sensación urbana londinense, tiene un final más amigable para los clubes.
 
 ・ Ritmo que rebota
 ・Rodas suaves
@@ -114,7 +114,7 @@ Como resultado, "Clareia" ha adquirido una nueva apariencia que combina naturalm
 
 2000 Black, de Dego y Kaidi Tatham, es conocido como uno de los sellos y proyectos más importantes del Broken Beat.
 
-La versión negra de 2000 de “Clareia” está compuesta por un ritmo roto más intenso y una línea de bajo gruesa, creando un hermoso contraste con la voz cantante de Sabrina. Si bien hereda la "progresión fluida de acordes" que se puede llamar estilo de Azimuth, se reinterpreta con la sensación funk futurista exclusiva de 2000 Black.
+La versión negra de 2000 de “Clareia” está compuesta por un ritmo roto más intenso y una línea de bajo gruesa, creando un hermoso contraste con la voz de Sabrina. Si bien hereda la "progresión fluida de acordes" que se puede llamar estilo de Azimuth, se reinterpreta con la sensación funk futurista exclusiva de 2000 Black.
 
 La sensación es exactamente
 **“Alma del futuro brasileño”**
@@ -139,7 +139,7 @@ Se puede decir que es el acabado más "underground" con una fuerte textura negra
 
 ## **5. Jazz del Reino Unido ~ Resonancia con ritmo roto**
 
-Es fácil ver por qué las canciones de Sabrina resonaron con tanta fuerza entre los artistas del Reino Unido.
+Es fácil ver por qué las canciones de Sabrina tuvieron tanto eco entre los artistas del Reino Unido.
 
 * Azimuth ~ Un ritmo “oscilante” que conduce a la música brasileña
 * Lenguaje de jazz y trabajo de acordes suaves.
@@ -229,3 +229,11 @@ En sus trabajos futuros, seguirá estando en el centro de cómo la música brasi
 ---
 
 
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nGAtLk7x6sw?si=NtA_Y_rnX4N7f2QO" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---

@@ -9,15 +9,15 @@ permalink: /ko/miss-monday-curious/
 tags:
 - JPop
 - Soul
-title: 미스 먼데이 - 궁금하다
+title: Miss Monday – Curious
 ---
 
 
-'Curious'는 일본 싱어송라이터 Miss Mandy의 대표곡 중 하나입니다. 재즈와 소울의 요소가 가미된 ​​팝 음악을 전문으로 하며, 파워풀한 보컬과 감성 표현력이 뛰어난 것으로 알려져 있다.
+'Curious'는 일본 싱어송 작가, 미스 맨디의 대표곡 중 하나입니다. 그녀는 재즈와 서울의 요소를 도입한 팝 음악을 자랑으로, 그 강력한 보컬과 감정적인 표현이 특징입니다.
 
-세련된 프로듀싱과 풍부한 음악적 요소가 어우러진 곡으로, Miss Mandy의 독특한 예술성과 표현력이 곡만의 매력을 선사한다.
+이 악곡은 세련된 프로덕션과 풍부한 음악적 요소가 결합되어 미스 맨디의 개성적인 아티스트리와 표현력이 악곡에 독자적인 매력을 가져다줍니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1.  Curious
 
@@ -34,5 +34,5 @@ B3. Curious (SoopaSta! Remix Acapella)
 
 [メルカリで購入](https://jp.mercari.com/item/m29143021851?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fSM-8cgYaY0?si=wXjPSBKd41-z4JO0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

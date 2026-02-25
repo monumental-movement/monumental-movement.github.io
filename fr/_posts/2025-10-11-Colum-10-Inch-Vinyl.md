@@ -111,13 +111,13 @@ C’est une expérience musicale consciente de la fin, contrairement à une play
 
 ---
 
-### Dernier chapitre : Le temps dans la paume de votre main, la « densité sonore » de 10 pouces
+### Chapitre final : Le temps dans la paume de votre main, 10 pouces parle de la « densité du son »
 
 10 pouces est incomplet mais complet.
 Il ne s'agit pas d'une longue histoire ou d'une nouvelle, mais d'un format « nouvelle ».
 La musique dans la paume de votre main. Cependant, sa densité n’est pas inférieure à 12 pouces.
 
-Un format n'est pas seulement un conteneur, mais une idée.
+Un format n'est pas seulement un conteneur, c'est une idée.
 Réévaluer le 10 pouces, c'est reconsidérer la façon dont la musique est écoutée.
 
 Il y a toujours un « juste milieu » entre les technologies.

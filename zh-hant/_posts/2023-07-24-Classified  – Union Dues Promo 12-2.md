@@ -22,7 +22,7 @@ title: 分類 – 聯盟會費促銷 12-2
 
 Classified Classified（真名：Luke Donald Boyd）的 Union Dues Promo 12-2 於 2002 年由 HalfLife Records 唱片公司發行。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Talking Shit
 
@@ -37,7 +37,7 @@ B2. It Ain't Over (Instrumental)
 B3. Average MC (Instrumental)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m21956638266?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m21956638266?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HbuhWNuciBY?si=RujTEnd6CbCWcwzm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

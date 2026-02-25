@@ -20,7 +20,7 @@ title: '[Chronique] L''âge d''or des samplers 12 bits : MPC60/SP-1200'
 
 Texte : mmr｜Thème : À propos de l'échantillonneur 12 bits, qui a joué un rôle central dans la production musicale des années 1980 au début des années 1990.
 
-L'échantillonneur 12 bits n'était pas seulement un "à mi-chemin technologique", il créait des caractéristiques sonores involontaires, aboutissant à une nouvelle méthode de production et un nouveau langage musical. Avant que la « haute résolution » comme le 16 bits et le 24 bits ne soit idéalisée, le 12 bits, combiné aux contraintes de mémoire, produisait des contours sonores, une distorsion et un bruit de quantification uniques. Ce n'était pas un inconvénient pour de nombreux producteurs, mais plutôt une matière première pour la conception tonale.
+L'échantillonneur 12 bits n'était pas seulement un "à mi-chemin technologique", il créait des caractéristiques sonores involontaires, aboutissant à une nouvelle méthode de production et un nouveau langage musical. Avant que la « haute résolution » comme le 16 bits et le 24 bits ne soit idéalisée, le 12 bits, combiné aux contraintes de mémoire, produisait des contours sonores, une distorsion et un bruit de quantification uniques. Pour de nombreux producteurs, ce n'était pas un inconvénient, mais plutôt une matière première pour la conception tonale.
 
 ---
 
@@ -74,14 +74,18 @@ Entre le milieu et la fin des années 1980, les prix des mémoires à semi-condu
 * **Durée totale de l'échantillon** : environ 10 secondes (mono total)
 * **Principales caractéristiques** : séquenceur 8 pistes, filtre (analogique), sorties individuelles
 
-**Philosophie de conception et fonctionnalités**
-Le SP-1200 a été conçu en tenant compte des contraintes de temps d'un échantillonneur et est optimisé pour le flux de travail consistant à « couper et organiser des échantillons courts ». Combiné avec un circuit analogique interne, le résultat est une gamme de basses fréquences épaisse avec une « rugosité » ou une « ondulation ». Sur la base des spécifications et des documents techniques d'E-mu de l'époque, il peut être confirmé que le chemin A/D et la conception du filtre du SP-1200 contribuent à la coloration acoustique.
+**Philosophie et fonctionnalités de conception**
+Le SP-1200 a été conçu en tenant compte des contraintes de temps d'un échantillonneur et est optimisé pour le flux de travail consistant à « couper et organiser des échantillons courts ». Combiné avec un circuit analogique interne, le résultat est une gamme de basses fréquences épaisse avec une « rugosité » ou une « ondulation ». Sur la base des spécifications et de la documentation technique d'E-mu de l'époque, nous pouvons confirmer que le chemin A/D et la conception du filtre du SP-1200 contribuent à sa coloration acoustique.
 
 **Utilisation pratique**
 
 * Casser l'échantillonnage et le hachage
 * Pitch down après un échantillonnage rapide (induisant un effet passe-bas)
-* Créez des grooves en utilisant des ajustements de boucles et des swings de timing
+* Créez des grooves en utilisant des réglages de boucle et des swings de timing
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6-FLx_gIVCE?si=fHXFlga4-I9RphJZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 ### 4.2 Akai MPC60 (1988) — Réalisation en tant qu'instrument de musique
 
@@ -90,8 +94,12 @@ Le SP-1200 a été conçu en tenant compte des contraintes de temps d'un échant
 * **Profondeur de bits** : 12 bits
 * **Principales caractéristiques** : 16 pads, séquenceur intégré, compatible MIDI
 
-**Philosophie de conception et fonctionnalités**
+**Philosophie et fonctionnalités de conception**
 Avec l'aide de Roger Linn dans la conception, le MPC60 se voulait un « sampler jouable ». De grands pads et un séquenceur qui met l'accent sur le sens du groove améliorent considérablement la convivialité pour les performances d'improvisation et la production live. La fiche technique met l'accent sur la précision du séquenceur et le mécanisme de détection des pads du MPC60.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vnRc56hEMsw?si=65ZvsCS8iGBWfeZW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 ### 4.3 Akai S900 / S950
 
@@ -154,7 +162,7 @@ Dans la section d'analyse technique, la réponse en fréquence générale des é
 
 ### 7.1 Rôle du SP-1200 dans le Hip Hop
 
-Le SP-1200 a un son optimisé pour retravailler les bootlegs et les breaks, et il est devenu l'outil standard de facto dans de nombreux contextes de production hip-hop de l'âge d'or. Plusieurs articles ont confirmé que des producteurs tels que Pete Rock, DJ Premier et The Bomb Squad avaient effectué des échantillons de type SP.
+Le SP-1200 a un son optimisé pour retravailler les bootlegs et les breaks, et il est devenu l'outil standard de facto dans de nombreux contextes de production hip-hop de l'âge d'or. Plusieurs articles ont confirmé que des producteurs tels que Pete Rock, DJ Premier et The Bomb Squad avaient réalisé des échantillons de type SP.
 
 ### 7.2 Relation entre R&B et MPC
 
@@ -168,7 +176,7 @@ Les échantillons basse résolution sont efficaces pour créer des textures et o
 
 ## Chapitre 8 : Artistes clés et exemples d'utilisation
 
-> Vous trouverez ci-dessous des extraits d'exemples d'utilisation basés sur des informations factuelles telles que des entretiens publics, des crédits, des articles techniques et de la documentation officielle.
+> Vous trouverez ci-dessous des extraits d'exemples d'utilisation basés sur des informations factuelles telles que des entretiens publics, des crédits, des articles techniques et des documents officiels.
 
 <div class="mermaid">
 
@@ -202,16 +210,25 @@ Depuis les années 2010, le nombre de plug-ins et de produits de reproduction ma
 
 ## Chapitre 11 : Matériaux/Références
 
-* Manuel de service E-mu SP-1200 (Spécifications techniques)
+* Manuel d'entretien E-mu SP-1200 (Spécifications techniques)
 * Manuel d'utilisation Akai MPC60 (manuel du produit)
 * Magazine de technologie musicale de l'époque (numéro 1987-1995)
 * Interviews de producteurs (Pete Rock, DJ Premier, Dr. Dre, etc.)
 
 ---
 
-## Chapitre 12 : Résumé et perspectives
+## Chapitre 12 : Résumé et perspectives
 
 L'échantillonneur 12 bits est un excellent exemple de la façon dont les contraintes techniques peuvent conduire à l'ingéniosité. Le SP-1200 et le MPC60 sont allés plus loin que de simples outils et sont devenus l'expression musicale d'une époque particulière. Dans l'environnement de production actuel, il existe de nombreuses façons de recréer intentionnellement du « lo-fi » et du « grain », mais lorsque vous retrace leurs racines, vous revenez toujours à ces appareils.
+
+---
+
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Yr86z5Clz8?si=lRR5xNgILcSUnEQ3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -416,7 +433,7 @@ flowchart TD
 ---
 
 
-### Ajout 1 : Comparaison de la quantification 12 bits et 16 bits
+### Ajout 1 : Comparaison de la quantification 12 bits et 16 bits
 
 <div class="mermaid">
     

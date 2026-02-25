@@ -14,12 +14,12 @@ title: 馬可·斯福利 – reMarcoble
 ---
 
 
-Marco Sfogli 是一位意大利吉他手。他曾與美國前衛金屬樂隊 Dream Theater、PFM、Icefish 等樂隊的 James LaBrie 合作演出。
+Marco Sfogli 是一位義大利吉他手。他曾與美國前衛金屬樂團 Dream Theater、PFM、Icefish 等樂團的 James LaBrie 合作演出。
 
 這張專輯由JTC Records於2012年發行，是Marco Sfogli的第二張個人專輯。
 
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. Intro
 2. Jester's Tears
@@ -34,7 +34,7 @@ Marco Sfogli 是一位意大利吉他手。他曾與美國前衛金屬樂隊 Dre
 11. The Barbarian
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m30341234612?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m30341234612?afid=6142608987){: .button1}
 
 #### 尤特布埃
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HII6DsljXg4?si=_oGyKVfpH-HZFgnQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

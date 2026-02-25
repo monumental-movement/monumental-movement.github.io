@@ -140,7 +140,7 @@ color: #fff;
 
 | Artiste | Piste | Année |
 |--------------|----------|----|
-| Arc de Merz | Musique Acoustique Métallique | 1981 |
+| Merzbow | Musique acoustique métal | 1981 |
 | Infirmière avec plaie | Yagga Blues | 1982 |
 | Glenn Branca | Leçon n°1 | 1980 |
 | Actuel 93 | Le sang des chiens monte | 1984 |
@@ -171,14 +171,14 @@ color: #fff;
 |--------------|----------|----|
 | Ovale | Faire pendant | 1995 |
 | Aphex Jumeau | Rhubarbe | 1994 |
-| Autechre | Eutoow | 1995 |
+| Autechre | Eutow | 1995 |
 | Fennesz | Aus | 1997 |
 | Ryoji Ikeda | +/-[1] | 1996 |
 | Pan-Sonique | Uranie | 1995 |
 | Scanner | Observation de masse | 1994 |
 | Matmos | Rhinoplastie en Californie | 1998 |
 | Ikeda + Alva Noto | Acronyme universitaire | 1999 |
-| Arc de Merz | Démon Pulse (piste 1) | 1996 |
+| Merzbow | Démon Pulse (piste 1) | 1996 |
 
 ---
 
@@ -270,7 +270,18 @@ color: #fff;
 ## L'avenir de la musique expérimentale
 La musique expérimentale a toujours continué à repousser les frontières de la musique. Depuis les expériences de piano et de bande préparées dans les années 1940, jusqu'au bruit et à l'industriel dans les années 70, en passant par les problèmes numériques dans les années 90, jusqu'à la musique générée par l'IA dans les années 2020, tout est en constante évolution.
 
-L'essence de la musique expérimentale est l'imprévisibilité et l'esprit d'exploration. Même en dehors de la musique commerciale, son influence imprègne le rock, la musique de club, la musique contemporaine et la pop, ce qui en fait une force avec laquelle il faut compter.
+L’essence de la musique expérimentale est l’imprévisibilité et l’esprit d’exploration. Même en dehors de la musique commerciale, son influence imprègne le rock, la musique de club, la musique contemporaine et la pop, ce qui en fait une force avec laquelle il faut compter.
 
 À l’avenir, même le concept de « musique » pourrait changer en raison de la fusion de l’IA, des interfaces des ondes cérébrales et de la VR/AR.
 **La musique expérimentale est un miroir qui prédit l'avenir et continuera de présenter de « nouveaux horizons sonores » aux auditeurs et aux créateurs. **
+
+---
+
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P2O94rg-Ees?si=ZoOKP9544iDBPyj9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

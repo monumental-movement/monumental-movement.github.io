@@ -160,7 +160,7 @@ The theremin's unstable pitch disturbs the structure of the song while giving it
 
 - **Koichi Makigami**: Voice: Theremin. the center of the band. A wide range of activities from avant-garde music to theater to folk music.
 - **Mita Chojin**: Guitar. Skilled in acoustic processing and irregular playing techniques.
-- **Akira Toyama** (temporary participation): Drums. Introducing a sense of jazz/improvisation into the band.
+- **Akira Toyama** (temporary participant): Drums. Introducing a sense of jazz/improvisation into the band.
 - **Masami Sakaide**: Bass. Contributes to the complexity of the rhythm structure.
 - **Makoto Inoue** (initial): Keyboard. It determined Hikashu's techno/new wave feel in the early days.
 

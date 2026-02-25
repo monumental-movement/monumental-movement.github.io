@@ -51,7 +51,7 @@ color: #fff;
 ### Cassette MTR ouvre la porte à la production personnelle
 
 Dans les années 1980, la **cassette MTR (enregistreur multipiste)** lancée par des sociétés telles que TASCAM et Fostex a jeté les bases de la culture de l'enregistrement domestique.
-Le fait que même la qualité sonore basse fidélité puisse être superposée à la maison a donné aux musiciens amateurs la possibilité de « se suffire à eux-mêmes ».
+Le fait que même la qualité sonore basse fidélité puisse être superposée à la maison a donné aux musiciens amateurs la possibilité d'être « autosuffisants ».
 Les germes de ce développement avaient déjà commencé lorsque Ryuichi Sakamoto faisait des démos dans son home studio et que les artistes amateurs distribuaient leurs sources sonores ainsi que des zines.
 
 ### Révolution informatique et MIDI
@@ -77,7 +77,7 @@ Les bruits de l'extérieur, le craquement du lit, le bruit de la respiration en 
 
 ---
 
-## Chapitre 3 : L'ère de SoundCloud et YouTube — « Partager » et « Découvrir »
+## Chapitre 3 : L'ère de SoundCloud et YouTube — « Partager » et « Découvrir »
 
 ### Nouveau formulaire « release »
 
@@ -181,4 +181,14 @@ Et ces mains ne sont plus connectées via la souris ou le clavier MIDI.
 Directement connecté au monde entier.
 
 > « De ma chambre à votre monde. »
->- C'est peut-être l'image la plus honnête de la musique au 21ème siècle.
+>- C'est peut-être l'image la plus honnête de la musique du 21ème siècle.
+
+---
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3QPR7ms9ZKU?si=dO7M67ORHbzQx-bq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

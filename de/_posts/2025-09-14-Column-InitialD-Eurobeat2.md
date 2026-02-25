@@ -182,7 +182,7 @@ Autosound: ▒▒▒▒▒▒→ GT-R-Beschleunigungssound </div>
 
 ---
 
-### Übersichtstabelle zum Hintergrund des Zeitalters
+### Zusammenfassungstabelle zum Hintergrund des Zeitalters
 
 | Ära | Musikalische Besonderheiten | Verwandte Künstler | Beziehung zu Initial D |
 | ----- | ------------------- | ------------------------ | ----------- |
@@ -209,12 +209,12 @@ Drift: ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ → (Rutschgeräusch) </
 
 ---
 
-### Übersichtstabelle der kulturellen Kontaktpunkte
+###Übersichtstabelle der kulturellen Kontaktpunkte
 
 | Bereich | Repräsentative Elemente | Verbindung mit Eurobeat |
 | ------- | ------------------------------------ | -------------------- |
 | Toge-Läufer-Kultur | AE86, RX-7, GT-R | Synchronisiert mit der Fahrszene in „Initial D“ |
-| Clubkultur | Parapara, Velfarre | Direkt verbunden mit Avex Eurobeat |
+| Clubkultur | Parapara, Velfarre | Direkt mit Avex Eurobeat | verbunden
 | Internetkultur | Deja Vu Memes | Wiederexplosion auf YouTube/TikTok |
 | Spielkultur | Initial D Arcade Stage, Gran Turismo | Eurobeat wird zur Standard-Hintergrundmusik |
 | Drift-Wettbewerb | D1 Grand Prix, Formel Drift | Die Fahrerkultur wird international und koexistiert mit EDM in BGM |

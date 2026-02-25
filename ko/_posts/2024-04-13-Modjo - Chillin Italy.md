@@ -10,7 +10,7 @@ permalink: /ko/modjo-chillin-italy/
 tags:
 - House
 - French House
-title: Modjo - Chillin' Italy
+title: Modjo - Chillin’ Italy
 ---
 
 
@@ -20,15 +20,15 @@ title: Modjo - Chillin' Italy
 
 
 
-"Modjo - Chillin'"은 프랑스 듀오 Modjo가 2001년에 발표한 곡입니다. 이 곡은 그들의 데뷔 앨범 Modjo에 수록되어 있습니다.
+"Modjo - Chillin '"은 프랑스 듀오, 모조 (Modjo)의 2001 년에 발표 된 음악입니다. 이 곡은 셀프 타이틀의 데뷔 앨범 'Modjo'에 수록되어 있습니다.
 
-'Chillin''은 디스코와 하우스 뮤직의 요소를 가볍고 그루비한 비트와 펑키한 베이스라인, 매혹적인 보컬이 어우러진 곡이다.
+'Chillin''은 디스코와 하우스 뮤직의 요소를 결합한 곡으로, 경쾌하고 그루비한 비트, 펑키한 기준선, 그리고 매력적인 보컬이 특징입니다.
 
-이 곡은 편안한 분위기와 밝은 멜로디가 어우러진 팝 댄스 음악으로 알려져 있다.
+이 노래는 편안한 분위기와 밝은 멜로디가 공명하는 팝 댄스 음악으로 알려져 있습니다.
 
-*영국 버전과 이탈리아어 버전이 있는데, 이건 이탈리아어 버전입니다.
+※UK반과 Italy반이 있습니다만, 이쪽은 Italy반이 됩니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1  Chillin' (Original Extended Mix)
 

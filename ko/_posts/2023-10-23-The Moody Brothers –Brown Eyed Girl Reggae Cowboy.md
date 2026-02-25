@@ -10,15 +10,15 @@ tags:
 - Country
 - Folk
 - 7inch
-title: 무디 브라더스 – 브라운 아이드 걸 레게 카우보이
+title: The Moody Brothers – Brown Eyed Girl Reggae Cowboy
 ---
 
 
-무디 브라더스(Moody Brothers)는 1980년대와 1990년대에 활동한 미국 컨트리 음악 트리오였습니다. 멤버로는 칼튼 무디, 데이브 무디, 트렌트 무디가 있다.
+The Moody Brothers(무디 브라더스)는 1980년대부터 1990년대에 걸쳐 활약한 아메리카나 컨트리 뮤직 트리오. 멤버는 Carlton Moody(칼튼 무디), Dave Moody(데이브 무디), Trent Moody(토렌트 무디)의 3 형제.
 
-A면의 가사는 Van Morrison이 썼고, B면의 가사는 Bellamy Brothers의 David Bellamy가 썼습니다.
+A면의 작사는 Van Morrison(반모리슨), B면의 작사는 Bellamy Brothers(벨라미 브라더스)의 David Bellamy(데빗 베라미).
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Brown Eyed Girl
 
@@ -27,5 +27,5 @@ B. Reggae Cowboy
 
 [メルカリで購入](https://jp.mercari.com/item/m50457570606?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8-wQV5AUFFg?si=eBdayJ5RvoXEo1j8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

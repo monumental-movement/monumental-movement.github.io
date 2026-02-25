@@ -8,7 +8,7 @@ layout: post
 permalink: /zh-hant/soul-purpose-indulge/
 tags:
 - House
-title: 靈魂的目的——沉迷
+title: 靈魂的目的－沉迷
 ---
 
 
@@ -18,7 +18,7 @@ Soul Purpose，又名 Martin Ikin（也稱為 DJ Mayhem），自 90 年代初以
 
 《Soul Purpose – Indulge》是 Neil Howard 於 1990 年發行的《Indulge》的重製版。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Indulge (M's Classic Mix)
 
@@ -27,7 +27,7 @@ B1. Indulge (M's Dub Mix)
 B2. Indulge (M's Reprise)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m81678482711?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m81678482711?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A2QSYbwa1OI?si=m3YlnWg7VKI-gccV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

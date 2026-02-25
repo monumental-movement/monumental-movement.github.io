@@ -9,13 +9,13 @@ permalink: /ko/pnau-wild-strawberries-ep/
 tags:
 - Techno
 - Acid
-title: PNAU – 산딸기 EP
+title: PNAU – Wild Strawberries EP
 ---
 
 
-PNAU는 Nick Littlemore와 Peter Mayes가 결성한 호주 일렉트로닉 댄스 음악 그룹입니다.
+PNAU(푸나우)는, Nick Littlemore(닉 리틀 모어), Peter Mayes(피터 메이즈)에 의한 호주의 일렉트로닉 댄스 뮤직 그룹.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Wild Strawberries [Extended Mix]
 
@@ -26,5 +26,5 @@ B2. We Have Tomorrow [Extended Mix]
 
 [メルカリで購入](https://jp.mercari.com/item/m56119602273?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nd58wUq0gsM?si=fdf4f5_12M3JoS6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

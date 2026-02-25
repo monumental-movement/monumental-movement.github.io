@@ -19,11 +19,11 @@ A 是 DJ/製作人 Bobby D'Ambrosio（1994 年至 2006 年期間擔任 Def Mix P
 
 B 由 Todd Terry 創作，他是一位主要的 house 音樂 DJ/製作人。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Bobby D'ambrosio Presents with Kelli Sae – Here I Am (David Morales Club Mix) Remix – David Morales
 
 B. Todd Terry – For You (Todd Terry Mix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m43721960921?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m43721960921?afid=6142608987){: .button1}

@@ -11,13 +11,13 @@ tags:
 - Therapy
 - Healing
 - Meditation
-title: 아티스트 없음 - 환경(스테레오 사운드의 새로운 개념)(카세트 2)
+title: No Artist – Environments (New Concepts In Stereo Sound) (Cassette Two)
 ---
 
 
-1970년대 미국 레이블 Atlantic이 Syntonic Research Series의 일부로 발표한 노래 중 하나입니다. 'Environments'라는 제목처럼 현장 녹음을 바탕으로 한 마음의 안정을 주는 음악입니다.
+미국 라벨 Atlantic이 1970년대에 Syntonic Research Series로 출시한 하나. 타이틀 「Environments」(=「환경」) 대로, 필드 레코딩을 베이스로 한 기분 좋은 릴렉제이션 뮤직.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Tintinnabulation (Contemplative Sound)
 
@@ -26,7 +26,7 @@ B. Dawn At New Hope Pennsylvania (June, 1969)
 
 [メルカリで購入](https://jp.mercari.com/item/m64435232831?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aKg6BNrHeuU?si=tG_X8CHdaIZY54XP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O4BywiJZbLY?si=lm6w2DdHhR-u0CeT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

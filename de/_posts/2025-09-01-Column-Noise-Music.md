@@ -53,7 +53,7 @@ Nach dem Zweiten Weltkrieg ermöglichte die Entwicklung von Magnetbändern und e
 - Musique Concrète (1948-) von Pierre Schaeffer.
 
 ### Repräsentative Werke
-- Werke von Pierre Henri und Tod Dockstader.
+- Werke von Pierre Henry und Tod Dockstader.
 
 ### Ausrüstung/Technologie
 - Bandbearbeitung (Rückwärtsrotation, Looping, Schneiden/Spleißen).
@@ -121,7 +121,7 @@ Noise überschneidet sich mit Rock, Metal, Post-Rock und Electronica.
 Diversifizierung durch modulares Synthesizer-Revival und Laptop-Akustik.
 
 ### Repräsentative Trends
-- Verbindung mit Eurorack-Rauschen, Live-Coding und Sound Art.
+- Verbindung mit Eurorack-Noise, Live-Coding und Sound Art.
 
 ### Ausrüstung/Technologie
 - Modular (Eurorack), Max/MSP, SuperCollider, Circuit Bending.
@@ -154,4 +154,15 @@ Diversifizierung durch modulares Synthesizer-Revival und Laptop-Akustik.
 ---
 
 ## Am Ende
-Noise-Musik ist immer eine Herausforderung an die bestehende Ästhetik und ein Versuch, die Grenzen der Musik zu erweitern. Von Russolos mechanischen Klängen bis hin zu modularen Synthesizern besteht die Essenz aller Instrumente auch nach mehr als 100 Jahren Geschichte darin, „auf den Klang selbst zu hören“.
+Noise-Musik ist immer eine Herausforderung an die bestehende Ästhetik und ein Versuch, die Grenzen der Musik zu erweitern. Von Russolos mechanischen Klängen bis hin zu modularen Synthesizern liegt ihr Wesen auch nach mehr als 100 Jahren Geschichte darin, „auf den Klang selbst zu hören“.
+
+---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7RVUbywixfo?si=_AmKa_4dl_qCpxSb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

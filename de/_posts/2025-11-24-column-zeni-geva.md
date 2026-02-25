@@ -20,7 +20,7 @@ title: '[Kolumne] Zeni Geva – 30 Jahre Geschichte als Höhepunkt des japanisch
 
 Text: mmr｜Thema: Entschlüsselung der Klangentwicklung, wo sich Gewalt, Präzision und strukturelle Schönheit kreuzen
 
-Zeni Geva ist eine Band, die eine einzigartige Position in der Geschichte des japanischen experimentellen Noise Rock/Hardcore einnimmt. Seit ihrer Gründung im Jahr 1987 ist ihr Sound durchweg gewalttätig und gleichzeitig unglaublich strukturiert und umfasst präzise berechnete mathematische Rhythmen. Die weitreichende Klangphilosophie des Anführers **KK Null (Kazuyuki Kishino)** bildet weiterhin den Kern der Band und hatte starken Einfluss auf die Underground-Szene in Japan und im Ausland.
+Zeni Geva ist eine Band, die in der Geschichte des japanischen experimentellen Noise Rock/Hardcore eine ganz besondere Position einnimmt. Seit ihrer Gründung im Jahr 1987 ist ihr Sound durchweg gewalttätig und gleichzeitig unglaublich strukturiert und umfasst präzise berechnete mathematische Rhythmen. Die weitreichende Klangphilosophie des Anführers **KK Null (Kazuyuki Kishino)** bildet weiterhin den Kern der Band und hatte starken Einfluss auf die Underground-Szene in Japan und im Ausland.
 
 Ihre Musik ist mit Lärm, metallischen Gitarren, zerstörerischen Trommeln, sich wiederholenden Strukturen und elektroakustischen Texturen überlagert. Die Geschichte von Zeni Geva, die von den 1990er Jahren bis heute zeitweise aktiv war, ist als Bindeglied zwischen japanischer Noise-Kultur und ausländischem Underground äußerst wichtig.
 
@@ -62,7 +62,7 @@ In ihren frühen Werken, die sich auf Noise Rock und Hardcore konzentrieren, kö
 ---
 
 ## 2. Leap (1991–1995): Begegnung mit Albini und internationale Anerkennung
-1991 erreichte Zeni Geva einen großen Wendepunkt. Es ist eine Zusammenarbeit mit dem amerikanischen Ingenieur/Produzenten **Steve Albini**. Aufgrund seiner Aufnahmephilosophie ist Albini für seine Aufnahmemethoden bekannt, die die lebendige Atmosphäre eines Raumes einfangen.
+Im Jahr 1991 erreichte Zeni Geva einen großen Wendepunkt. Es ist eine Zusammenarbeit mit dem amerikanischen Ingenieur/Produzenten **Steve Albini**. Aufgrund seiner Aufnahmephilosophie ist Albini für seine Aufnahmemethoden bekannt, die die lebendige Atmosphäre eines Raumes einfangen.
 
 ### „Totale Kastration (1991)“
 Das erste von Albini aufgenommene Album in voller Länge.
@@ -96,7 +96,7 @@ In dieser Zeit wurden die Lieder von Zeni Geva länger und strukturierter, darun
 - Noise/metallische Gitarre/ungewöhnliche Taktart/elektronische Klänge verflechten sich in mehreren Schichten
 - Zeni Geva als Klangskulptur, anders als in den 1980er-90er Jahren
 
-In dieser Zeit erreichte die Band ihren Höhepunkt ihrer musikalischen Reife, doch gleichzeitig nahmen Nulls Soloaktivitäten und andere Projekte zu und die Zeit zwischen den Veröffentlichungen als Band wurde länger.
+In dieser Zeit erreichte die Band ihre musikalische Reife, doch gleichzeitig nahmen Nulls Soloaktivitäten und andere Projekte zu und die Zeit zwischen den Veröffentlichungen als Band wurde länger.
 
 ---
 
@@ -113,7 +113,7 @@ Für Zeni Geva hatte die Hinzufügung von Yoshida erneut einen starken Einfluss.
 
 ---
 
-## 5. Zweite Periode Zeni Geva (2010–): Neubewertung und globale Neuaufmerksamkeit
+## 5. Zweite Periode Zeni Geva (2010–): Neubewertung und weltweit erneuerte Aufmerksamkeit
 ### „Lebendig und aufstrebend (2010)“
 - Live-Soundquelle aus dem Lineup von 2009
 - Tatsuya Yoshidas perverses Schlagzeug und Null & Tabatas Gitarrenduell sind spektakulär
@@ -203,5 +203,13 @@ Sie sind eine seltene Einheit, die keinen Bezug zu kommerziellen Aktivitäten ha
 
 Auch heute noch ist ihre Musik nicht gut gealtert, und es ist klar, dass sie sogar den Rahmen moderner Noise-/Metal-/experimenteller Musik vorweggenommen haben.
 Ich hoffe, dass dieser Artikel eine Gelegenheit bietet, Zeni Geva neu zu entdecken.
+
+---
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XsTatSrADZQ?si=XnEL2HxSLh12LP5y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

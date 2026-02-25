@@ -16,7 +16,7 @@ title: '[Columna] Música europea y cultura de club: la intersección de la radi
 
 
 
-## ¿Está el euro en auge? ¿Está bajo tierra?
+## ¿Está pop el euro? ¿Está bajo tierra?
 
 Texto: mmr｜Género: Estudio de cultura musical｜Tema: La intersección entre el euro y los clubes en los años 90
 
@@ -119,7 +119,7 @@ ATB, Fragma, Darude y más presentan un sonido que se entrelaza entre el pop y e
 
 ### ¿Por qué se está reevaluando ahora?
 
-En los años 2020, el euro de los 90 se redescubre en TikTok y YouTube. Los siguientes factores están detrás de esto.
+En los años 2020, el euro de los 90 se redescubre en TikTok y YouTube. Las razones detrás de esto son las siguientes.
 
 Estructura melódica y clara **coincide con la “era de la visualización instantánea”**
 

@@ -39,7 +39,7 @@ Comme son nom l’indique, ce genre est une combinaison de « Happy » et de « 
 
 #### Affinité avec la musique d'anime/de jeu
 
-Happy Hardcore met l'accent sur les mélodies vives et entraînantes, ce qui se marie bien avec le goût des chansons d'anime et de la musique de jeu.
+Happy Hardcore met l'accent sur les mélodies vives et entraînantes, ce qui lui permet de se marier bien avec le goût des chansons d'anime et de la musique de jeu.
 
 En particulier, l'utilisation de matériel vocal provenant de l'anime bishoujo et des chiptunes de style Famicom/SNES sont populaires auprès des producteurs étrangers.
 

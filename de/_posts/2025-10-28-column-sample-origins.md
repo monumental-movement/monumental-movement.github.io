@@ -86,7 +86,7 @@ Curtis‘ Falsettgesang ist eine ewige Botschaft der „sich weiterentwickelnden
 ---
 
 #### 7. Bob James – „Take Me to the Mardi Gras“ (1975)
-Der Kuhglocken- und Glockenklang des Schlagzeugs war unverwechselbar und wurde von Run-D.M.C., Beastie Boys, Eric B. & Rakim und anderen geliebt.
+Der Kuhglocken- und Glockenklang der Trommeln war unverwechselbar und wurde von Run-D.M.C., Beastie Boys, Eric B. & Rakim und anderen geliebt.
 Bob James ist ein Symbol des Smooth Jazz, und der „harte Bruch“, den dieser Song hervorbrachte, wurde in der Sampling-Kultur der 1990er Jahre vergöttert.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ove38w3ztG4?si=BgFRFe1VL3bIC6HV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -141,7 +141,7 @@ Der sanfte Groove hat ein Maß an Perfektion, das sich anfühlt, als wäre er mi
 ---
 
 #### 14. Berg – „Long Red“ (1972)
-Der Gesang „Du weißt, was ich meine!“ wurde häufig von Public Enemy und De La Soul bei Live-Auftritten verwendet.
+The chant "You know what I mean!" wurde oft von Public Enemy und De La Soul bei Live-Auftritten verwendet.
 Dies ist ein großartiges Beispiel dafür, wie ein einfacher Rocksong durch Vocal-Sampling zu einem Hip-Hop-„Teil“ wird.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a-0selX930s?si=YqL4own2TZXbBbBO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -164,7 +164,7 @@ Der Moment, als der experimentelle Funk der 70er Jahre im Zeitalter der Technolo
 ---
 
 #### 17. Dennis Coffey – „Scorpio“ (1971)
-Ein Meisterwerk des Instrumental-Funks, das von LL Cool J und Public Enemy als Breakout-Song bezeichnet wurde. Die Verzerrung der E-Gitarre symbolisiert die Rauheit der Stadt.
+Ein Meisterwerk des instrumentalen Funks, das von LL Cool J und Public Enemy als Breakout-Song bezeichnet wurde. Die Verzerrung der E-Gitarre symbolisiert die Rauheit der Stadt.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KBn_oUH8Uo0?si=KqkkcQDOxXHnDnXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -197,7 +197,7 @@ Wird von The Roots, Eric B. & Rakim, Arrested Development und anderen verwendet.
 | Jahre | Veranstaltungen |
 |------|---------|
 | 1960er Jahre | Die Soul/Funk-Aufnahmetechnologie entwickelt sich. Die aufkeimende Drum-Break-Kultur. |
-| 1973 | Kool Herc spielt auf einer Blockparty zwei Kopien von „Apache“. Geburtsstunde des Hip Hop. |
+| 1973 | Kool Herc spielt auf einer Blockparty zwei Exemplare von „Apache“. Geburtsstunde des Hip Hop. |
 | 1984 | Run-D.M.C. erzielt den ersten kommerziellen Sampling-Hit. |
 | 1989 | „Fear of a Black Planet“ von Public Enemy etabliert mehrere Sampling-Techniken. |
 | 1994 | Wu-Tang Clan, RZAs „Noise Sampling“ schafft einen neuen Trend. |

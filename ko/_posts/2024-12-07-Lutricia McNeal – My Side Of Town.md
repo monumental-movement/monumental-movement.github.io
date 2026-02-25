@@ -11,13 +11,13 @@ tags:
 - Swing
 - Europop
 - 90s
-title: Lutricia McNeal - 내 동네
+title: Lutricia McNeal – My Side Of Town
 ---
 
 
-미국 R&B 가수 Lutricia McNeal의 데뷔 스튜디오 앨범. 현대 R&B와 유로팝에서 영감을 받은 이 앨범은 1998년 이탈리아 댄스 레이블인 Do It Yourself에서 한정판으로 발매되었습니다.
+미국의 R&B 싱어 ​​Lutricia McNeal의 데뷔 스튜디오 앨범. 컨템포러리 R&B&유로팝 테이스트의 이 앨범은 이탈리아의 댄스 라벨 Do It Yourself 로부터 1998년에 릴리스된 한정판.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. My Side Of Town
 A2. Always
@@ -34,5 +34,5 @@ B6. The Heart Is A Lonely Hunter
 
 [メルカリで購入](https://jp.mercari.com/item/m82712516054?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dV8l5IAcFus?si=00uEcCoHEQkycYFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,7 +10,7 @@ tags:
 - Industrial
 - UK Techno
 - Techno
-title: '[Chronique] Blawan : Le plaisir de l''acier et le corps au fond de la nuit
+title: '[Chronique] Blawan : Le plaisir de l''acier et le corps au fond de la nuit
   — Echoes of the Dreams of UK Techno'
 ---
 
@@ -21,7 +21,7 @@ title: '[Chronique] Blawan : Le plaisir de l''acier et le corps au fond de la nu
 Texte : mmr｜Thème : À propos du rythme froid mais en quelque sorte humain de Blawan qui continue d'avoir des racines dans l'underground britannique
 
 Autrefois, les zones industrielles du nord de l’Angleterre étaient remplies d’odeurs de vapeur et de métal.
-Jamie Roberts – ou Blawan – a peut-être grandi en inhalant inconsciemment ses réverbérations.
+Jamie Roberts, ou Blawan, a peut-être grandi en inhalant inconsciemment ses réverbérations.
 La lignée de la musique électronique venue de Sheffield (Cabaret Voltaire, Warp Records, The Black Dog)
 Il fait écho à la fois au rythme du travail et à la respiration de la ville.
 
@@ -102,7 +102,7 @@ L'espace d'un instant où tout se fond, la musique devient « substance ».
 
 ---
 
-## Chapitre 4 Wet Will Always Dry——Un enregistrement d'émotions sans émotions
+## Chapitre 4 Wet Will Always Dry——Enregistrement d'émotions sans émotions
 
 En 2018, Blawan sort enfin un album complet, Wet Will Always Dry.
 Comme le titre l'indique, **Mouillé, sec. **
@@ -161,7 +161,7 @@ En arrière-plan se trouve sa propre vie, y compris la perte d'amis et la lutte 
 Derrière les bruits mécaniques froids se cache le bruit respiratoire de la perte et de la renaissance.
 Après avoir eu un impact avec «Pourquoi ils cachent leurs corps sous mon garage», il est arrivé après plus de 10 ans à «une prière qui demeure dans la destruction».
 
-A l’heure où la techno devient plus abstraite et où les clubs se fondent dans le monde numérique, Blawan ose faire revenir la « gravité ».
+A l'heure où la techno devient plus abstraite et où les clubs se fondent dans le monde numérique, Blawan ose faire revenir la « gravité ».
 Le rythme qui coule dans les veines de la Steel City.
 Dans ce document, il demande doucement : le son peut-il encore être humain ? **
 
@@ -272,7 +272,7 @@ flowchart TD
 
 ### Chapitre final : Prière d'acier – Danser, c'est survivre
 
-Le son de Blawan est tantôt froid, tantôt rugueux.
+Le son de Blawan est tantôt froid, tantôt dur.
 Cependant, au plus profond de nous, il y a certainement une « prière humaine ».
 L'acte de danser est un rituel pour « survivre » dans le bruit de la ville.
 "Pourquoi cachent-ils leurs corps sous mon garage." attire toujours les gens parce que
@@ -367,7 +367,7 @@ Sa techno conserve donc une « instabilité humaine ».
 
 Des basses lourdes résonnent dans la ville nocturne.
 À une époque où tout le monde consomme du son sur son smartphone,
-Blawan tente de faire revivre le son du toucher.
+Blawan essaie de faire revivre le son du toucher.
 
 Il y a une chaleur humaine dans ce son d’acier.
 Cette contradiction est la raison de son existence.

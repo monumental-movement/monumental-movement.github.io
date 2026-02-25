@@ -15,11 +15,11 @@ title: The Pop Group = The Pop Group – Y = Y（最後警告）
 ---
 
 
-The Pop Group 是一支來自英國布里斯托爾的後朋克樂隊，成立於 1977 年。
+The Pop Group 是一支來自英國布里斯託的後龐克樂隊，成立於 1977 年。
 
-《Y》是該流行樂隊的首張專輯，於 1979 年發行，由配音音樂家丹尼斯·博維爾 (Dennis Bovell) 製作。
+《Y》是該流行樂團的首張專輯，於 1979 年發行，由配音音樂家丹尼斯·博維爾 (Dennis Bovell) 製作。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Thief Of Fire = 戦火は消えない
 A2. Snowgirl = スノー・ガール
@@ -33,7 +33,7 @@ B3. The Boys From Brazil = 人類回帰
 B4. Don't Sell Your Dreams = 夢を売りわたすな
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m32852043303?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m32852043303?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/viqOIqGLLgI?si=CNeo3CriaWr1epSR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -17,14 +17,14 @@ title: 聚酯纖維 – 文化俱樂部
 
 它產生了許多熱門歌曲，並經常在比利時廣播電台播出。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A  Culture Club
 
 B  Culture Club (Glimmmix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m58333186087?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m58333186087?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HjsMnGBqhVo?si=EiOVJH04jlz4ysoy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

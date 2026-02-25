@@ -11,12 +11,12 @@ tags:
 - 70s
 - 80s
 - 90s
-title: '[Chronique] Kronos Quartet : La trajectoire d''un quatuor à cordes qui ne
-  cesse d''innover et de relever des défis'
+title: '[Chronique] Kronos Quartet : La trajectoire d''un quatuor à cordes qui continue
+  d''innover et de relever des défis'
 ---
 
 
-## 1. Introduction
+## 1. Présentation
 
 
 Texte : mmr｜Thème : Styles d'interprétation qui ne sont pas liés au cadre traditionnel de la musique classique et à leur trajectoire
@@ -74,7 +74,7 @@ Cette période a été caractérisée par des **innovations dans les techniques 
 
 Des années 1990 aux années 2000, le Quatuor Kronos a commencé à dépasser les frontières de la musique classique, fusionnant avec des genres tels que la musique du monde, la pop, la musique de film et le jazz.
 
-L'innovation dans la musique de film est particulièrement remarquable avec le film « Requiem for a Dream » sorti en 2000. Composé par Clint Mansell, interprété par le Quatuor Kronos. « Lux Aeterna » du quatuor à cordes et d'autres pièces ont été extrêmement efficaces dans leur motif répétitif, créant de la tension et amplifiant l'émotion, tout cela est lié à la représentation psychologique du film.
+L'innovation dans la musique de film est particulièrement remarquable avec le film « Requiem for a Dream » sorti en 2000. Composé par Clint Mansell, interprété par le Quatuor Kronos. « Lux Aeterna » du quatuor à cordes et d'autres pièces ont été extrêmement efficaces dans leur motivation répétée, créant des tensions et amplifiant l'émotion, tout cela est lié à la représentation psychologique du film.
 
 ### Fonctionnalités de la bande originale du film
 

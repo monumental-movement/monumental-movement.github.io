@@ -55,7 +55,7 @@ Er hat eine einzigartige Klangsprache geschaffen, die sich frei zwischen Harfe u
 > „Klang ist für mich wie Partikel in der Luft.“
 > ― Nala Sinephro
 
-Wie sie sagt, besteht der Klang aus Schichten von „Partikeln“ und bricht die Zeit wie Licht.
+Wie sie sagt, ist der Klang als „Körner“ geschichtet und bricht die Zeit wie Licht.
 
 ---
 
@@ -84,7 +84,7 @@ Nala Sinephros Musik steht im Geiste von Harold Budd, Alice Coltrane und Laraaji
 Es ist der „kontemplative Modernismus“, der in der Post-Club-Ära des 21. Jahrhunderts neu definiert wurde.
 
 Ihre Harfe und ihre Synthesizer verbreiten „jazzartige Improvisationen“ im Raum, indem sie Klangebenen hinzufügen.
-Der Rhythmus verschwindet, die Melodie driftet und alles, was bleibt, ist das **Gefühl von Zeit und Raum**.
+Der Rhythmus verschwindet, die Melodie driftet ab und alles, was bleibt, ist das Gefühl von Zeit und Raum.
 
 
 <div class="mermaid">
@@ -104,7 +104,7 @@ Wie dieses Diagramm zeigt, ist Ambient Jazz eine Bewegung, die gleichzeitig das 
 ## Kapitel 4: Modulare Synthesizer und der „Hörkörper“
 
 Bei Live-Auftritten bedient Nala gleichzeitig mit der Harfe das **Eurorack-Modulsystem**.
-Hier ist das Patchen selbst eine improvisatorische Performance, die den Körper und den Raum des Zuhörers verändert.
+Hier ist das Patchen selbst eine improvisatorische Performance, die den Körper und Raum des Zuhörers verändert.
 
 > Beispiel einer Gerätekonfiguration:
 > - Machen Sie Lärm-Mathematik
@@ -115,7 +115,7 @@ Hier ist das Patchen selbst eine improvisatorische Performance, die den Körper 
 
 Diese Konfiguration ist wirklich ein „Atemgerät für Mensch und Maschine“.
 Wellenformen umhüllen die Echos der Harfe, die analoge Temperatur neutralisiert die elektronische Klarheit.
-Es ist auch ein Akt der Sublimierung von Musik in ein **Technologiegebet**.
+Es ist auch ein Akt der Sublimierung von Musik zu einem **Technologiegebet**.
 
 ---
 
@@ -174,5 +174,13 @@ Hierbei handelt es sich nicht um eine Erweiterung einer Technik oder eines Genre
 
 Im Mittelpunkt des Ambient-Jazz steht die Hoffnung, dass „Musikhören“ wieder zu „einem Akt der Verbindung mit der Welt“ werden kann.
 Jeder Ton, den Nalas Harfe ausstößt, ist so leise wie der Atem des Universums, aber er ist auf jeden Fall lebendig.
+
+---
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zpRsugYbfFQ?si=kxce0BKZlsXCVGzi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

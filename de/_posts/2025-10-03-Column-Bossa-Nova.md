@@ -216,7 +216,7 @@ Auch heute noch geht das Wort „Bossa Nova“ über eine reine Musikgenre hinau
 
 Der Charme von Bossa Nova liegt in seiner einzigartigen Musikalität, die die Freiheit des Jazz, den Rhythmus des Samba und den Sinn für Harmonie klassischer Musik vereint. Betrachtet man seine Geschichte, so spiegeln sich darüber hinaus auch gesellschaftliche Hintergründe wie der internationale Kulturaustausch während des Kalten Krieges, die Urbanisierung in Brasilien und die Interaktion mit dem amerikanischen Musikmarkt wider.
 
-Sie können nicht nur Alben und Diskographie verfolgen, sondern auch ein tieferes Verständnis für Bossa Nova erlangen, indem Sie Anekdoten aus der Zeit und dem Leben der Künstler erfahren. Die Musik selbst erklingt als wohltuender „heilender“ Klang, kann aber gleichzeitig auch als „Dokument“ genossen werden, das den Zeitgeist widerspiegelt. Das ist der wahre Wert des kulturellen Erbes von Bossa Nova.
+Indem Sie Alben und Diskographie verfolgen und Anekdoten aus der Zeit und dem Leben der Künstler kennenlernen, werden Sie in der Lage sein, Bossa Nova besser zu verstehen. Die Musik selbst erklingt als wohltuender „heilender“ Klang, kann aber gleichzeitig auch als „Dokument“ genossen werden, das den Zeitgeist widerspiegelt. Das ist der wahre Wert des kulturellen Erbes von Bossa Nova.
 
 ---
 

@@ -18,7 +18,7 @@ Liberty 是由比利時 DJ/製作人 Johan Goyvaerts（DJ Liberty）和 Maurits 
 
 《Seguro》是比利時唱片公司 No Name Records Trance 於 2000 年發行的一首硬 Trance 曲目。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Seguro (Original Mix)
 A2. Seguro (Maurizzio Mix)
@@ -27,7 +27,7 @@ B1. Seguro (Mirando Mix)
 B2. Seguro (Mirando Edit)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m66128506073?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m66128506073?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H8iD1wHWmE0?si=tWdsL_R7XI52UktA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

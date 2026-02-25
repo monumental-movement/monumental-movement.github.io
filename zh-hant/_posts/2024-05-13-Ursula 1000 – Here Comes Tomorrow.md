@@ -16,11 +16,11 @@ title: 烏蘇拉 1000 – 明天到來
 ---
 
 
-Alex Gimeno，也被稱為 Ursula 1000，紐約製作人兼休息室 DJ，通過融合 60 年代原聲帶、90 年代休息室復興、澀谷系、英國大節拍、放克和迪斯科等多種聲音，建立了一種他稱之為複古/未來聲音的獨特風格。
+Alex Gimeno，也被稱為 Ursula 1000，紐約製作人兼休息室 DJ，透過融合 60 年代原聲帶、90 年代休息室復興、澀谷系、英國大節拍、放克和迪斯科等多種聲音，建立了一種他稱之為復古/未來聲音的獨特風格。
 
 《Here Comes Tomorrow》是一首 2006 年發行的Bossa nova 電子曲目。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Kaboom!
 A2. Hello! Let's Go To A Disco
@@ -36,7 +36,7 @@ D2. Ragnarock
 D3. Here Comes Tomorrow
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m33082850505?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m33082850505?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kW5JsoGZCrM?si=o_0jqJFFpuw1coO2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

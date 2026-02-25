@@ -10,14 +10,14 @@ tags:
 - Noise
 - Progressive
 - Rock
-title: 제니 게바 – 10000광년
+title: Zeni Geva – 10000 Light Years
 ---
 
 
-'제니 게바 - 10000광년'은
-2000년 10월 Chicago Electrical Audio에서 녹음된 앨범 프로모션.
+"Zeni Geva - 10000 Light Years"는
+2000년 10월, 시카고 Electrical Audio에서 녹음된 앨범의 프로모션 보드.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. 10,000 Light Years
 2. Implosion
@@ -31,5 +31,5 @@ title: 제니 게바 – 10000광년
 
 [メルカリで購入](https://jp.mercari.com/item/m23225529130?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ilhOe5LGhnc?si=gtMA25vrH-EcCUBv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

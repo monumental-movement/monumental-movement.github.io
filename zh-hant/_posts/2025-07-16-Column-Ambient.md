@@ -11,7 +11,7 @@ tags:
 - 90s
 - 80s
 - 70s
-title: '[專欄]什麼是氛圍音樂？ “存在的聲音”而不是聽到的聲音的哲學'
+title: '[專欄]什麼是氛圍音樂？ 「存在的聲音」而不是聽到的聲音的哲學'
 ---
 
 
@@ -19,7 +19,7 @@ title: '[專欄]什麼是氛圍音樂？ “存在的聲音”而不是聽到的
 
 文：mmr｜主題：Ambient、環境音樂、電子音樂文化理論
 
-氛圍音樂是一種音樂流派，其目的不是讓聽眾“主動聆聽”，而是“存在於一個空間中”。他消除了清晰的旋律和節奏，而是使用持續的聲音（無人機）、環境聲音（現場錄音）和聲學處理來構建聽覺景觀。
+氛圍音樂是一種音樂流派，其目的不是讓聽眾“主動聆聽”，而是“存在於一個空間中”。他消除了清晰的旋律和節奏，而是使用持續的聲音（無人機）、環境聲音（現場錄音）和聲學處理來建立聽覺景觀。
 
 這種流派是一種極其哲學的音樂，處於音樂與藝術、聲音與空間、感知與意識之間的邊界。
 
@@ -31,25 +31,25 @@ title: '[專欄]什麼是氛圍音樂？ “存在的聲音”而不是聽到的
 
 英國音樂家布萊恩·伊諾將環境一詞定義為一種音樂流派。 1978年，他在他的傑作【Ambient 1：機場音樂】（https://amzn.to/48shEpU）中寫道：
 
-“環境音樂必須能夠適應多種層次的聆聽注意力，而不必強制某一特定層次；它必須既有趣又可以被忽視。”
+“環境音樂必須能夠適應多種層次的聆聽注意力，而不必強迫某一特定層次；它必須既有趣又可以被忽視。”
 “環境音樂不能強迫自己被聽到，但同時又允許自己被忽視。”
 
-換句話說，環境音樂不是背景音樂，但它的功能類似於背景音樂。 **這是在意識背景中流動的“空間藝術”**。
+換句話說，環境音樂不是背景音樂，但它的功能類似背景音樂。 **這是在意識背景中流動的「空間藝術」**。
 
 
 <小時>
 
-### 環境的譜系和起源
+### 環境的系譜和起源
 
 **● 史前史：環境音樂的萌芽**
 
-[**Eric Satie**](https://amzn.to/3Iqa4li)：19 世紀末作曲家。提出“Musique d'ameublement”（家具音樂）的概念，即像家具一樣發揮作用的音樂。
+[**Eric Satie**](https://amzn.to/3Iqa4li)：19 世紀末作曲家。提出「Musique d'ameublement」（家具音樂）的概念，即像家具一樣發揮作用的音樂。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KjSBSxWMnNo?si=eFPcxMHUiE2isxU2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-[**John Cage**](https://amzn.to/3Vrlzf8)：以無聲音樂《4'33》提出“環境本身就是音樂”的前衛理念。
+[**John Cage**](https://amzn.to/3Vrlzf8)：以無聲音樂《4'33》提出「環境本身就是音樂」的前衛概念。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9RAgthGA-9Q?si=SsNmEk1AFKtMSnKR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -57,7 +57,7 @@ title: '[專欄]什麼是氛圍音樂？ “存在的聲音”而不是聽到的
 
 **● 1970 年代：環境的建立**
 
-[**Brian Eno**](https://amzn.to/4h5oST4)：首次明確使用“環境”一詞。
+[**Brian Eno**](https://amzn.to/4h5oST4)：首次明確使用「環境」一詞。
 
 代表作品：
 
@@ -71,7 +71,7 @@ title: '[專欄]什麼是氛圍音樂？ “存在的聲音”而不是聽到的
 
 [Klaus Schulze](https://amzn.to/4pCnE5H)、[Tangerine Dream](https://monumental-movement.jp/Tangerine-Dream-Thief)：與德國電子產品的融合。
 
-[The Orb](https://amzn.to/4pA2F3v)、[Aphex Twin](https://amzn.to/46GS9Ps)：從技術到 IDM 的角度重建環境。
+[The Orb](https://amzn.to/4pA2F3v)、[Aphex Twin](https://amzn.to/46GS9Ps)：從技術到 IDM 角度重建環境。
 
 Ambient House/Ambient Techno 的興起。
 
@@ -79,9 +79,9 @@ Ambient House/Ambient Techno 的興起。
 
 **● 自 2000 年以來：超越類型的滲透**
 
-擴展到視頻作品、當代藝術、瑜伽、冥想、遊戲音樂和 VR 空間。
+擴展到錄像作品、當代藝術、瑜伽、冥想、遊戲音樂和 VR 空間。
 
-Spotify 的“chill”和“lo-fi”播放列表也受到影響。
+Spotify 的「chill」和「lo-fi」播放清單也受到影響。
 
 
 <小時>
@@ -145,7 +145,7 @@ Spotify 的“chill”和“lo-fi”播放列表也受到影響。
 
 **●環境無人機**
 
-通過聲音波動和微小變化深度沉浸。
+透過聲音波動和微小變化深度沉浸。
 
 藝術家：[Stars of the Lid](https://amzn.to/3Kztvsh)、[William Basinski](https://amzn.to/3VrnPmC)、[Eliane Radigue](https://amzn.to/4mrOevu)
 
@@ -159,7 +159,7 @@ Spotify 的“chill”和“lo-fi”播放列表也受到影響。
 
 用於放鬆和冥想的環境音樂。
 
-[恩雅](https://amzn.to/46vL0Bg)、[史蒂夫·羅奇](https://amzn.to/3VrnzEa)、[Laraaji](https://amzn.to/42KqUSB)等
+[恩雅](https://amzn.to/46vL0Bg)、[史蒂夫羅奇](https://amzn.to/3VrnzEa)、[Laraaji](https://amzn.to/42KqUSB)等
 
 
 
@@ -171,11 +171,11 @@ Spotify 的“chill”和“lo-fi”播放列表也受到影響。
 
 **● 極簡主義與時間藝術**
 
-氛圍音樂強調“靜止”、“空白”和“可持續性”。
+氛圍音樂強調「靜止」、「空白」和「永續性」。
 
 對建築和當代藝術有濃厚的興趣（[馬克·羅斯科](https://amzn.to/48uPz1g)、[唐納德·賈德](https://amzn.to/3W0xzEv))。
 
-**● 賽博朋克與未來城市**
+**● 賽博龐克與未來城市**
 
 一種融入未來城市無機空間的聲音。
 
@@ -192,7 +192,7 @@ Spotify 的“chill”和“lo-fi”播放列表也受到影響。
 
 ### 環境在現代的作用
 
-**遊戲音樂**：用於《寂靜嶺》(https://amzn.to/3IzI2nf)、《征途》(https://amzn.to/4nrbICj)、《無人深空》(https://amzn.to/3W14b0P)等。
+**ゲーム音楽**： [Silent Hill](https://amzn.to/3IzI2nf), [Journey](https://amzn.to/4nrbICj), [No Man's Sky](https://amzn.to/3W14b0P) などで使用。
 
 **ASMR/冥想/壓力緩解**：也用於心理健康和保健行業。
 
@@ -201,7 +201,7 @@ Spotify 的“chill”和“lo-fi”播放列表也受到影響。
 
 <小時>
 
-### Ambient是“音樂”和“空間”的交集
+### Ambient是「音樂」和「空間」的交集
 
 氛圍音樂是指不在音樂中心，而是在外圍的音樂。它是一門不涉及旋律或節奏的藝術，而是涉及氣氛、時間、感覺和意識的轉變。
 
@@ -209,7 +209,7 @@ Spotify 的“chill”和“lo-fi”播放列表也受到影響。
 
 <小時>
 
-### 列表
+### 清單
 
 <div class="table-border">
 <table>
@@ -274,9 +274,20 @@ Spotify 的“chill”和“lo-fi”播放列表也受到影響。
 </table>
 </div>
 
+---
+
+### YouTube 播客
+
+*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3aay4XuKsoQ?si=DAZIUgSUApmhtjlJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 ### 相關專欄
 
-🔗 [[專欄]氛圍：從“聽音樂”到“感受音樂”II](https://monumental-movement.jp/Column-Ambient2)
+🔗 [[專欄]氛圍：從「聽音樂」到「感受音樂」II](https://monumental-movement.jp/Column-Ambient2)
+
+
+---
+

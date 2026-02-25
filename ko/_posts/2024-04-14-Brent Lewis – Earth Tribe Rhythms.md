@@ -9,15 +9,15 @@ permalink: /ko/brent-lewis-earth-tribe-rhythms/
 tags:
 - Tribal
 - Soundtrack
-title: 브렌트 루이스 - 지구 부족 리듬
+title: Brent Lewis – Earth Tribe Rhythms
 ---
 
 
-브렌트 루이스(Brent Lewis)는 타악기 연주자이자 드러머로 수년 동안 많은 유명 아티스트와 함께 연주해 왔습니다.
+Brent Lewis(브렌토루이스)는 오랜 세월에 걸쳐 많은 유명한 아티스트와 공연하고 있는 퍼커셔니스트&드러머.
 
-두 번째 곡인 Ode to Buckwheat는 올리버 스톤의 영화 JFK의 오리지널 사운드 트랙에 포함되었습니다.
+2곡째 Ode to Buckwheat는 올리버 스톤 감독의 영화 'JFK'의 오리지널 사운드 트랙에 수록되어 있다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Doom Tac A Doom
 
@@ -42,5 +42,5 @@ title: 브렌트 루이스 - 지구 부족 리듬
 
 [メルカリで購入](https://jp.mercari.com/item/m92233354047?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tOmd8rX-ZyU?si=_JWAnqkuiKP3wCwQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

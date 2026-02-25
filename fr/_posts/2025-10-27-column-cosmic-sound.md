@@ -87,14 +87,14 @@ Tout au long de la nuit, on a l'impression qu'un vaisseau spatial descend et sor
 ## 4. Science des matériaux sonores – Délocalisation des sources sonores dans Cosmic
 
 Baldelli était un pionnier des DJ qui traitaient les chansons comme du « matériel ».
-Il y avait une forte impression de « composer » à nouveau les sons enregistrés sur la platine.
+J'avais l'impression de « composer » à nouveau les sons enregistrés sur la platine.
 
 | Sources utilisées | Exemples spécifiques |
 |:--|:--|
-| Usine Kraft | Kraftwerk, Can, Ash Ra Tempel |
+| Usine Kraft | Kraftwerk, Canette, Ash Ra Tempel |
 | Musique électronique italienne | Claudio Gizzi, Tullio De Piscopo |
 | Sons afro/ethniques | Manu Dibango, Fela Kuti |
-| Thème spatial | Espace, Fusées, Cerrone |
+| Thème spatial | Espace, fusées, Cerrone |
 | Bande sonore | Morricone, charpentier, gobelin |
 
 Ce mélange multiculturel a été le précurseur de **Balearic Sound**, **Leftfield Disco**, ainsi que de **Downtempo** et **Nu Disco**.

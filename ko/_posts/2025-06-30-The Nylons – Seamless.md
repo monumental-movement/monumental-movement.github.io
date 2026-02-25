@@ -10,15 +10,15 @@ tags:
 - Rock
 - Vocal
 - 80s
-title: 나일론 - 원활한
+title: The Nylons – Seamless
 ---
 
 
-나일론스는 1978년부터 2017년까지 활동한 캐나다 아카펠라 그룹입니다. 그는 The Turtles의 'Happy Together', Steam의 'Na Na Hey Hey Kiss Him Goodbye', The Tokens의 'The Lion Sleeps Tonight' 등 팝 커버로 가장 잘 알려져 있습니다.
+The Nylons는 1978년~2017년까지 활동한 캐나다의 아카펠라 그룹. The Turtles 'Happy Together', Steam 'Na Na Hey Hey Kiss Him Goodbye', The Tokens 'The Lion Sleeps Tonight' 등 Pops의 커버로 잘 알려져 있다.
 
-"Seamless"는 1986년 Open Air Records에서 발매한 앨범입니다.
+Seamless는 1986년 Open Air Records에서 발표된 앨범.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. The Lion Sleeps Tonight
 A2. Take Me To Your Heart
@@ -35,5 +35,5 @@ B5. The Stars Are Ours
 
 [メルカリで購入](https://jp.mercari.com/item/m29486121471?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oqUnVUzvQYA?si=L54otN6nNfXVjaQ9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

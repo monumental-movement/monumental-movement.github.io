@@ -79,7 +79,7 @@ Punk (NY/UK) construit des slogans contestataires et une infrastructure financi�
 
 ---
 
-Le reggae/dub est associé à la culture du sound system et est responsable de l'autodéfense et de la fierté des communautés immigrées. Les tensions avec la police sont fréquentes et les paroles parlent de résistance au racisme systémique.
+Le reggae/dub est associé à la culture du sound system et est responsable de l'autodéfense et de la fierté des communautés d'immigrants. Les tensions avec la police sont fréquentes et les paroles parlent de résistance au racisme systémique.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HwY7eY5I-9I?si=KQNXax_3yLCDTEcN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -116,7 +116,7 @@ Le hip-hop repose sur les « quatre piliers » que sont les block parties, le gr
 
 ---
 
-Le métal a reçu l'image d'être « diabolisé » et a suscité des controverses sur l'autorégulation comme celle du PMRC. Selon le sous-genre, cela peut également créer des conflits sociaux liés à des incidents violents et à des déclarations discriminatoires.
+Le métal a reçu l'image d'être « diabolisé » et a suscité des controverses sur l'autorégulation comme le PMRC. Selon le sous-genre, cela peut également créer des conflits sociaux liés à des incidents violents et à des déclarations discriminatoires.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G3LvhdFEOqs?si=4R5mtsKWW15IxBLC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -141,7 +141,7 @@ Bien que la musique grunge/alternative prône une position anti-commerciale, ell
 
 ---
 
-La représentation explicite du gangsta rap de la violence policière, des inégalités sociales et des normes de la rue en a fait une cible pour les médias. Le débat sur l’imitabilité de la violence et de son expression réelles est devenu un problème de société.
+La représentation explicite du gangsta rap de la violence policière, des inégalités sociales et des normes de la rue en a fait une cible pour les médias. Le débat sur l’imitabilité de la violence et de son expression réelles est devenu une question de société.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VMYAEHE2GrM?si=Xy2ZiHUL6lCAMwk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

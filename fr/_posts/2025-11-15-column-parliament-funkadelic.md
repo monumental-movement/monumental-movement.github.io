@@ -22,7 +22,7 @@ title: '[Chronique] Parlement / Funkadelic : Toute l''histoire de la révolution
 Texte : mmr｜Thème : À propos de la vision du monde du P-Funk, qui existe toujours comme fondement du hip-hop, du R&B, de l'électro, de l'art et de la mode actuels.
 
 
-Dans l'histoire de la musique noire américaine de la seconde moitié du XXe siècle, **Parliament/Funkadelic (communément appelé P-Funk)** est le groupe qui combine la plus grande mythologie et innovation sonore.
+Dans l'histoire de la musique noire américaine de la seconde moitié du XXe siècle, **Parliament/Funkadelic (communément appelé P-Funk)** est le groupe qui combine le plus grand mythe et l'innovation sonore.
 Dirigé par George Clinton, ce collectif était plus qu'un simple groupe, c'était un projet gigantesque mêlant une histoire multivers, une sensibilité technologique futuriste et les rythmes profondément physiques du funk.
 
 Le P-Funk devient clair lorsqu’on le comprend en fonction des trois axes suivants.
@@ -223,24 +223,27 @@ En particulier, les artistes suivants ont largement échantillonné.
 ## Chapitre 8 : Chronologie P-Funk (Détails)
 
 <div class="mermaid">
-
 timeline
-    title Parliament / Funkadelic 年表
-    1950 : ジョージ・クリントン、The Parliaments 結成
-    1967 : "I Wanna Testify" が小ヒット
-    1968 : Funkadelic 始動（Westbound Records）
-    1970 : 『Funkadelic』デビュー
-    1971 : 『Maggot Brain』発表
-    1974 : Parliament と Funkadelic が並行で活動
-    1975 : 『Mothership Connection』リリース
-    1977 : Bootsy’s Rubber Band が成功
-    1978 : 『One Nation Under a Groove』全米1位
-    1980 : P-Funk名義の活動が縮小
-    1990s : G-Funkムーブメントで再評価
-    1997 : George Clinton、Rock & Roll Hall of Fame入り
-    2010s : クリントン、若手と共演しつつツアー継続
-
+    title Parliament / Funkadelic History
+    1950 : George Clinton forms The Parliaments
+    1967 : I Wanna Testify released
+    1968 : Funkadelic begins
+    1970 : Funkadelic debut album
+    1971 : Maggot Brain released
+    1974 : Parallel era
+    1975 : Mothership Connection
+    1977 : Bootsy’s Rubber Band success
+    1978 : One Nation Under a Groove hits No.1
+    1980 : Activity declines
+    1990s : G-Funk revival
+    1997 : Rock & Roll Hall of Fame
+    2010s : Touring continues
 </div>
+
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({ startOnLoad: true });
+</script>
 
 ---
 
@@ -251,7 +254,7 @@ timeline
 * Hérité du synthétiseur et de l'arrangement de caisse claire de P-Funk
 * « Mothership Connection » samplé par Ice Cube et d'autres
 
-### ■Prince
+### ■ Prince
 
 * Construction de personnages à personnalités multiples
 * Théâtre live/expression sexuelle/cross-genre
@@ -283,21 +286,26 @@ Tant que P-Funk restera au centre d’une musique noire qui parle du futur, leur
 
 ---
 
-### Annexe : Composition live (schéma de reproduction du Mothership Tour de 1976)
+### Annexe : Composition live (carte de reproduction du Mothership Tour de 1976)
 
 <div class="mermaid">
-
 flowchart TD
     Audience((Audience)) --> Stage[Main Stage]
 
-    Stage --> Horns["Horn Section\n(Horny Horns)"]
+    Stage --> Horns["Horn Section<br/>(Horny Horns)"]
     Stage --> Vocals["Vocal Ensemble"]
-    Stage --> Bootsy["Bootsy Collins\n(Bass)"]
-    Stage --> Bernie["Bernie Worrell\n(Keyboards)"]
+    Stage --> Bootsy["Bootsy Collins<br/>(Bass)"]
+    Stage --> Bernie["Bernie Worrell<br/>(Keyboards)"]
     Stage --> Guitar["Guitar Zone"]
-    Stage --> Ship["Mothership\n降臨ギミック"]
-
+    Stage --> Ship["Mothership<br/>降臨ギミック"]
 </div>
 
+---
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZR_KBH5l4Q?si=dio345UiB7uDliAc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

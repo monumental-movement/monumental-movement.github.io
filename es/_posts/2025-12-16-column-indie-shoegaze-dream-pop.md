@@ -50,7 +50,7 @@ color: #fff;
 
 ### 1-1. Sensación acústica después del post-punk
 
-A finales de los años 1970 y principios de los 1980, el postpunk deconstruyó la estructura del rock y centró su atención en el timbre, la textura y el tratamiento espacial.
+A finales de los años 1970 y principios de los 1980, el postpunk deconstruyó las estructuras del rock y centró su atención en el timbre, la textura y el tratamiento espacial.
 Los sintetizadores, la reverberación y el retardo ya no son meros adornos, sino que funcionan como elementos que dan forma a la estructura de la propia canción.
 
 En este proceso, la voz cantante pasó de ser el cuerpo principal que contaba la historia a convertirse simplemente en una parte del sonido.
@@ -76,8 +76,8 @@ El retardo se utiliza para crear reverberaciones superpuestas en lugar de sincro
 
 ### 2-2. Ritmo de fondo
 
-La batería y el bajo no actúan como fuerza impulsora detrás de la canción, sino que funcionan como un centro de gravedad para soportar la imagen sonora.
-El ritmo es relativamente constante y se pone énfasis en la continuación de un estado más que en desarrollos dramáticos.
+La batería y el bajo no actúan como la fuerza impulsora detrás de la canción, sino que funcionan como un centro de gravedad para soportar la imagen sonora.
+El ritmo es relativamente constante y se pone énfasis en la continuación de un estado más que en un desarrollo dramático.
 
 ---
 
@@ -186,7 +186,7 @@ Esta técnica contribuyó tanto a la amplitud espacial del dream pop como a la d
 ### A-2. Redefiniendo el primer plano y el fondo en la mezcla
 
 Las mezclas de rock tradicionales suelen colocar las voces y los instrumentos principales en primer plano.
-Sin embargo, en el shoegaze/dream pop, este principio se rompe intencionalmente.
+Sin embargo, en el shoegaze/dream pop, este principio se rompe deliberadamente.
 
 Las voces están integradas en el rango medio y tratadas de la misma manera que las reverberaciones de guitarra y sintetizador.
 Este arreglo crea el efecto de brindarle al oyente una vista aérea de todo el sonido, en lugar de centrar su atención en un punto.

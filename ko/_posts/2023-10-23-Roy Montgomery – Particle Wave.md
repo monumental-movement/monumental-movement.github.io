@@ -9,15 +9,15 @@ permalink: /ko/roy-montgomery-particle-wave/
 tags:
 - Rock
 - Space Rock
-title: 로이 몽고메리 – 입자파
+title: Roy Montgomery – Particle Wave
 ---
 
 
-로이 몽고메리는 뉴질랜드 크라이스트처치 출신의 작곡가이자 기타리스트로, 뉴질랜드 언더그라운드의 선구자로 알려져 있다.
+Roy Montgomery(로이 몽고메리)는 뉴질랜드 크라이스트처치 출신의 작곡가 및 기타리스트로 NZ 언더그라운드의 선구자로 알려져 있습니다.
 
-로이 몽고메리의 솔로 기악 스타일은 포스트록, 로파이, 포크, 아방가르드, 실험적인 음악이 혼합되어 있다.
+Roy Montgomery의 악기 솔로 작품은 포스트 록, 로파이, 포크, 아방가르드 실험음, 경험 등의 요소가 섞인 음악 스타일입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Particle
 
@@ -26,5 +26,5 @@ B. Wave
 
 [メルカリで購入](https://jp.mercari.com/item/m96965847534?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bsg2DJpZ7Jw?si=rqFyoungrIdpmF3y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

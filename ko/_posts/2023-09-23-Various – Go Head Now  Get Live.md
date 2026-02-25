@@ -9,15 +9,15 @@ permalink: /ko/various-go-head-now-get-live/
 tags:
 - Hiphop
 - 90s
-title: 다양한 – 지금 바로 시작하세요
+title: Various – Go Head Now Get Live
 ---
 
 
-1999년 발매된 이 작품은 레이블이나 국적을 불문하고 일본과 미국의 래퍼들이 한자리에 모인 퓨처쇼크(Future Shock)가 발매한 컴필레이션 앨범 'SYNCHRONICITY'의 싱글이다.
+1999년에 발매된 본작은 Future Shock에서 발매된 일본과 미국의 래퍼가, 라벨이나 국적의 틀을 넘어 모은 편집 앨범 「SYNCHRONICITY」로부터의 싱글입니다.
 
-미국의 Matt Fingaz, Will Pack, Craig G, 일본의 DJ Yas 및 Hazu가 출연하는 언더그라운드 트랙이 포함되어 있습니다.
+미국에서는 Matt Fingaz, Will Pack, Craig G, 일본에서는 DJ Yas와 블레이드(Hazu)가 참여한 언더그라운드 트랙을 수록.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1  Matt Fingaz, Will Pack, Craig.G  & DJ Yas–Go Head Now (Original Mix)
 

@@ -19,7 +19,7 @@ title: '[Kolumne] Space Jazz / Cosmic Jazzs kosmische Genealogie und Transformat
 
 Text: mmr｜Thema: Space Jazz / Geschichte des Cosmic Jazz
 
-In der zweiten Hälfte des 20. Jahrhunderts begann sich der Jazz nicht nur auf die Spannung von Stadtnächten und Clubs zu konzentrieren, sondern auch auf die weite Welt des Weltraums. Im Mittelpunkt standen Künstler wie **Sun Ra** und **Pharoah Sanders**. Sie haben nicht nur Musikstile innoviert, sondern den „Raum“ auch als eine umfassende Kunst betrachtet, die visuelle Präsentation, Denken und Philosophie umfasst.
+In der zweiten Hälfte des 20. Jahrhunderts begann sich der Jazz nicht nur auf die Spannung von Stadtnächten und Clubs zu konzentrieren, sondern auch auf die weite Welt des Weltraums. Im Mittelpunkt standen Künstler wie **Sun Ra** und **Pharoah Sanders**. Sie erneuerten nicht nur Musikstile, sondern betrachteten „Raum“ auch als eine umfassende Kunst, die visuelle Präsentation, Denken und Philosophie umfasste.
 
 
 ---
@@ -75,14 +75,14 @@ Es entstand ein umfassendes musikalisches und visuelles Erlebnis, inklusive Bele
 
 ## 4. Technologische Entwicklung: Evolution der Elektroakustik und Raumorientierung
 
-Seit den 1960er Jahren sind neue elektronische Musikinstrumente aufgetaucht, die eine Umgebung schaffen, in der kosmische Klänge erzeugt werden können.
+Seit den 1960er Jahren sind neue elektronische Musikinstrumente aufgetaucht und haben eine Umgebung geschaffen, in der kosmische Klänge erzeugt werden können.
 
 * **Synthesizer (Moog, ARP usw.)**
 * **E-Piano (Fender Rhodes)**
 * **Bandecho**
 * **Analoge Effekte (Ringmodulator usw.)**
 
-Bemerkenswert ist Sun Ras frühe Einführung in Synthesizer. Er erforschte die physikalischen Grenzen des Klangs und entwickelte neue Formen des kosmischen Ausdrucks. Andererseits war die elektronische Ausstattung in Pharoah Sanders Werk begrenzt, er schuf jedoch eine „kosmische Weite“, indem er Nachhall, räumliche Verarbeitung und die akustischen Eigenschaften ethnischer Instrumente nutzte.
+Bemerkenswert ist Sun Ras frühe Einführung in Synthesizer. Er erforschte die physikalischen Grenzen des Klangs und entwickelte neue Formen des kosmischen Ausdrucks. Obwohl die elektronische Ausrüstung in Pharoah Sanders‘ Werk begrenzt war, schuf er andererseits eine „kosmische Weite“, indem er Nachhall, räumliche Verarbeitung und die akustischen Eigenschaften ethnischer Instrumente nutzte.
 
 ---
 

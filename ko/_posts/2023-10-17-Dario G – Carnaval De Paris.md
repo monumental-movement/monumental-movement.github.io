@@ -9,15 +9,15 @@ permalink: /ko/dario-g-carnaval-de-paris/
 tags:
 - House
 - Latin
-title: 다리오 G – 파리 카니발 축제
+title: Dario G – Carnaval De Paris
 ---
 
 
-Dario G는 영국의 DJ 겸 프로듀서인 Paul Spencer의 댄스 음악 프로젝트입니다.
+Dario G(다리오 G)는, UK의 DJ/프로듀서 Paul Spencer(폴·스펜서)에 의한 댄스 뮤직 프로젝트.
 
-A면의 두 번째 트랙은 Darren Pearce와 Julian Napolitano로 구성된 유닛 JDS의 리믹스입니다. B면은 영국 DJ/프로듀서/리믹서 Tall Paul(Paul Newman, Camisra라고도 알려짐)의 리믹스입니다.
+A면 2곡째는 Darren Pearce와 Julian Napolitano에 의한 유닛, JDS에 의한 remix. B면은, UK의 DJ/프로듀서/리믹서 Tall Paul(Paul Newman/폴·뉴먼 별명의:Camisra/카미슬라)에 의한 remix.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Carnaval De Paris (SRS Mix)
 
@@ -28,5 +28,5 @@ B. Carnaval De Paris (Tall Paul Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m16971968929?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fYyoGwjIejU?si=k8Ds4fTwOXlRk5QO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

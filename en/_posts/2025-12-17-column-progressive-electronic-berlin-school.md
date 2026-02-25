@@ -157,7 +157,7 @@ From the late 1970s onwards, Berlin School composers expanded their activities i
 
 The Berlin School method of film music is characterized by its emphasis on spatial formation rather than melody-driven music. Rather than illustrating a story, music plays a role in constructing a psychological and physical environment.
 
-This practice was inherited by later cinematic ambient and sound design-oriented electronic music.
+This practice was inherited in later cinematic ambient and sound design-oriented electronic music.
 
 ---
 
@@ -167,7 +167,7 @@ In order to accurately understand the Berlin School, it is necessary to organize
 
 ### Before Kraftwerk
 
-Before Kraftwerk, the Berlin School emphasized improvisation and long forms. The rhythm is fluid, and the piece is perceived as a transition rather than a progression. At this stage, electronic music was a means of escape from rock, and also a release from academic electronic music.
+Before Kraftwerk, the Berlin School emphasized improvisation and long forms. The rhythm is fluid, and the piece is perceived as a transition rather than a progression. At this stage, electronic music was a means of escape from rock and academic electronic music.
 
 ### After Kraftwerk
 

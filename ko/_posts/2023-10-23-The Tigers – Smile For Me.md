@@ -10,13 +10,13 @@ tags:
 - JPop
 - Group Sounds
 - 7inch
-title: 타이거스 – 나를 위해 웃어주세요
+title: The Tigers – Smile For Me
 ---
 
 
-"Smile For Me"는 비지스(Bee Gees)의 배리 깁(Barry Gibb)과 모리스 깁(Maurice Gibb)이 작사, 작곡한 곡이다.
+'Smile For Me'는 Bee Gees(비 지즈)의 Barry Gibb(배리 깁)과 Maurice Gibb(모리스 깁)이 작사·작곡을 다룬 곡.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Smile For Me = スマイル・フォー・ミー
 
@@ -31,5 +31,5 @@ B. Rain Falls On The Lonely = 淋しい雨
 
 [メルカリで購入](https://jp.mercari.com/item/m46304938061?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IGVQlBBYdG0?si=5YsPxWJ_FgF9HDTr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

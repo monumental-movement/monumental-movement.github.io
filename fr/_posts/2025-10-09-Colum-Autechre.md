@@ -22,7 +22,7 @@ Texte : mmr | Thème : Autechre de Sean Booth et Rob Brown. Retracer l'évolutio
 Autechre est bien plus qu'un simple duo de musique électronique.
 Leur son est à la fois mathématique et brut. Cela paraît froid et laisse une aspérité un peu humaine. Sean Booth et Rob Brown, deux jeunes hommes qui se sont rencontrés dans le nord de Manchester, se sont engagés sur la voie d'une redéfinition de la structure même du son, en utilisant le hip-hop et la curiosité de l'ingénierie comme points de départ.
 
-Au début des années 1990, Autechre se démarque parmi les séries sur l'intelligence artificielle de Warp Records. Ils cherchaient un moyen de « convertir les sons mécaniques en émotion ». Sean Booth a déclaré plus tard dans une interview :
+Au début des années 1990, Autechre se fait remarquer dans la série Intelligence Artificielle de Warp Records. Ils cherchaient un moyen de « convertir les sons mécaniques en émotion ». Sean Booth a déclaré plus tard dans une interview :
 
 > « Pour nous, la techno ne consiste pas à éliminer l'émotion, mais à l'exprimer à travers une structure. »
 
@@ -50,7 +50,7 @@ Leurs racines musicales se situent dans la culture Public Enemy, Electro Funk et
 Ses premiers travaux, Incunabula (1993), sentent bon les débuts de l'IDM, où les mélodies subsistent encore.
 La suite, « Amber » (1994), a captivé de nombreux auditeurs par son lyrisme et sa spatialité. En combinant un synthétiseur analogique (Roland SH-101, Oberheim Matrix-6) et un échantillonneur numérique, ils ont créé un espace entre l'humain et la machine.
 
-> "Nous n'avons pas oublié la piste de danse. Nous voulions juste réimaginer la raison pour laquelle nos corps bougent."
+> "Nous n'avons pas oublié la piste de danse. Nous voulions juste réimaginer pourquoi nos corps bougent."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pU7-yr70ntw?si=sEwVtn1PRCrpcwbO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -195,7 +195,7 @@ flowchart TD
 | Synthétiseur | Nord Lead, Roland SH-101, Oberheim Matrix-6 | Fréquemment utilisé dans les premiers travaux |
 | Échantillonneur | Akai MPC1000, Ensoniq EPS | Le cœur de la construction de battements |
 | Logiciel | Max/MSP, Kyma, Ableton en direct | Génération d'algorithmes maison |
-| Boîte à rythmes | Roland R8, batterie machine électronique | Réalise des structures de rythme complexes |
+| Boîte à rythmes | Roland R8, batterie machine électronique | Réalise des structures de battement complexes |
 | Philosophie de production | Génération automatique + intervention humaine | Pratique du « Contrôle à travers le chaos » |
 
 
@@ -208,6 +208,16 @@ Le voyage pour trouver la réponse est loin d’être terminé.
 
 
 ---
+
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bRHVGBmNKlk?si=NnSAEVjyGe-caGaD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 ### Colonnes associées
 

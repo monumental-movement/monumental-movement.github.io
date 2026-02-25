@@ -11,13 +11,13 @@ tags:
 - Folk
 - World
 - African
-title: 비타시카 – 팔리어 팔리어
+title: Bitasika – Pali Pali
 ---
 
 
-비타시카(Bitasika)는 콩고민주공화국 출신의 연주자이자 극단 시키 극단 '라이온 킹'의 첫 타악기 연주자 BB 모 프랑크(BB Mo-Franck)가 이끄는 아프리카 밴드이다. 드러머 겸 타악기 연주자 Jun Watanabe JunJun도 참여합니다.
+Bitasika(비타시카)는, 콩고 민주 공화국 출신의 연주가이며 극단 사계 「라이온 킹」 초대 퍼커션 연주자, BB Mo-Franck(BB 모프란) 이끄는 아프리카 밴드. 드러머/퍼커셔니스트의 JunJun 일 와타나베 아츠시도 참가하고 있다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Nyengo
 2. Tikanga Nayemba

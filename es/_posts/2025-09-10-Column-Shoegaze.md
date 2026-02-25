@@ -30,7 +30,7 @@ A continuación, repasaremos la historia de Shoegaze por década e introduciremo
 - Siguiendo las tendencias del post-punk y new wave, se buscaba un nuevo enfoque para fusionar el ruido de guitarra y las melodías pop.
 - Los sellos independientes como Creation Records están liderando la escena.
 
-### Obras maestras representativas
+### Obra maestra representativa
 - [Mi San Valentín Sangriento – *No es nada* (1988)](https://amzn.to/4njxSGF)
 - [Gemelos Cocteau – *Blue Bell Knoll* (1988)](https://amzn.to/4mAovBh)
 - [La cadena de Jesús y María – *Psychocandy* (1985)](https://amzn.to/3IyW48K)
@@ -77,7 +77,7 @@ color: #fff;
 - Ride, Slowdive, Lush y otros lanzaron obras maestras una tras otra.
 - Aunque decayó temporalmente con el auge del britpop, fue muy elogiado por las generaciones posteriores.
 
-### Obras maestras representativas
+### Obra maestra representativa
 - [Mi San Valentín Sangriento – *Sin Amor* (1991)](https://amzn.to/3Kijvne)
 - [Inmersión lenta – *Souvlaki* (1993)](https://amzn.to/4newBAp)
 - [Paseo – *A ninguna parte* (1990)](https://amzn.to/4o4V4IP)
@@ -87,7 +87,7 @@ color: #fff;
 - **Efector**: Digitech Whammy, Yamaha SPX90, Boss CE-2 Chorus
 - **Tecnología de grabación**: construcción de un "muro de sonido" mediante grabación múltiple en capas
 
-### 10 canciones recomendadas (años 90)
+### 10 canciones recomendadas (década de 1990)
 
 | Título de la canción | Artista | Comentarios |
 |------|--------------|----------|
@@ -110,7 +110,7 @@ color: #fff;
 - Una nueva generación de renacimiento del Shoegaze está progresando principalmente en Estados Unidos.
 - Con la difusión de la cultura de Internet, la reevaluación se está acelerando.
 
-### Obras maestras representativas
+### Obra maestra representativa
 - [M83 – *Ciudades muertas, mares rojos y fantasmas perdidos* (2003)](https://amzn.to/46Qy7D5)
 - [Cazador de ciervos – *Microcastillo* (2008)](https://amzn.to/4mu2OCC)
 - [Asobi Seksu – *Cítricos* (2006)](https://amzn.to/4nE4GtC)
@@ -143,7 +143,7 @@ A veces | Siempre | JAMC y Esperanza Sandoval | La línea entre el ruido y el po
 - Están surgiendo bandas de nueva generación como DIIV y Nothing.
 - Fusión con Dreampop y Chillwave.
 
-### Obras maestras representativas
+### Obra maestra representativa
 - [DIIV – *Oshin* (2012)](https://amzn.to/3KhoeFM)
 - [Nada – *Culpable de todo* (2014)](https://amzn.to/42C57wq)
 - [Ringo Deathstarr – *Viaje de color* (2011)](https://amzn.to/3IynMCB)
@@ -174,9 +174,9 @@ A veces | Siempre | JAMC y Esperanza Sandoval | La línea entre el ruido y el po
 ### Antecedentes históricos
 - La reevaluación se está acelerando en todo el mundo.
 - También es popular entre las generaciones más jóvenes debido a su difusión a través de festivales y streaming.
-- Las técnicas del Shoegaze también están ligadas al K-POP y a la revalorización del pop urbano japonés.
+- Las técnicas del Shoegaze también están ligadas al K-POP y a la revalorización del city pop japonés.
 
-### Obras maestras representativas
+### Obra maestra representativa
 - [Nada – *The Great Dismal* (2020)](https://amzn.to/4nNNmm8)
 - [Inmersión lenta – *Todo está vivo* (2023)](https://amzn.to/46PP5l8)
 - [Tamaryn – *Soñando en la oscuridad* (2019)](https://amzn.to/46sFjp7)
@@ -205,3 +205,14 @@ A veces | Siempre | JAMC y Esperanza Sandoval | La línea entre el ruido y el po
 
 # Balanceándose entre un sonido rugiente y una hermosa melodía
 Shoegaze surgió a finales de la década de 1980, alcanzó su edad de oro en la década de 1990 y, aunque alguna vez decayó, ha revivido desde la década de 2000. Desde la década de 2010 hasta la actualidad, su musicalidad ha seguido siendo amada en todo el mundo, incluso cuando se ha diversificado y subdividido. Este género, que oscila entre sonidos rugientes y hermosas melodías, sigue teniendo una fuerte influencia en la generación digital actual.
+
+---
+
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9jjcA9KJUNM?si=bP5Bi_3AS0jTRBr_" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---

@@ -78,7 +78,7 @@ Ancien membre de l'Empereur. Création d'un style médiéval fantastique "Dark D
 - **Premières pièces pour clavier de Burzum (Norvège)**
 La chanson finale de « Hvis Lyset Tar Oss » et les morceaux ambiants de « Filosofem » ont laissé un symbolisme fort pour Dungeon Synth plus tard.
 
-Bien qu’il s’agisse de sources sonores antérieures à « Dungeon Synth en tant que nom de genre », elles sont clairement traitées comme la source par les générations ultérieures.
+Bien qu'il s'agisse de sources sonores antérieures au terme « Dungeon Synth en tant que nom de genre », elles sont clairement traitées comme la source par les générations ultérieures.
 
 ### ● 2-2. Première vague (1995-2000)
 De 1995 à 2000, un jeune projet européen qui a précédé "Era I" de Mortii, Cernunnos Woods, Depressive Silence et Old Tower a sorti des œuvres distribuées principalement sur bande.
@@ -157,7 +157,7 @@ De nombreux artistes ont recherché la sensation des consoles de jeux et des cla
 Pianos GM, Choir Aahs, Strings, Pads, etc. Le bas prix et la nostalgie sont traités comme des valeurs.
 
 ### ■ Synthé logiciel
-Dans les temps modernes, les éléments suivants sont couramment utilisés :
+Dans les temps modernes, les éléments suivants sont souvent utilisés :
 
 - **VST gratuit DSK**
 - DSK ChoirZ, DSK Strings, etc.
@@ -203,7 +203,7 @@ L'ajout d'une rugosité d'environ 8 à 12 bits améliorera l'ambiance des année
 De nombreux artistes enregistrent leurs chansons sur cassettes.
 
 ### ■ Traitement de l'égalisation
-- **Supprimer les basses (en dessous de 100 Hz)** → Vers une sensation monaurale/ancien équipement
+- **Supprimer les basses (en dessous de 100 Hz)** → Vers une texture monaurale/ancien équipement
 - **Supprimer les hautes fréquences (au-dessus de 6-8 kHz)** → Supprimer les odeurs numériques
 
 ### ■ Réverbération
@@ -222,7 +222,7 @@ Sont spécifiquement utilisés :
 
 ---
 
-## ■ 5. Diagramme sirène : Structure acoustique
+## ■ 5. Schéma sirène : Structure acoustique
 
 <div class="mermaid">
 flowchart TD
@@ -277,7 +277,7 @@ L'influence visuelle est extrêmement importante et joue un rôle complémentair
 - **Fief (États-Unis)**
 
 ## ● Temps modernes (2024–)
-- Forte multinationalisation et fragmentation.
+- Forte multinationalisation et segmentation.
 Des thèmes tels que Forêt / Hiver / Héroïque / Cosmic Synth ont augmenté.
 
 ---
@@ -315,7 +315,7 @@ Vous trouverez ci-dessous un plan pour créer réellement une chanson.
 
 # ■ 9. Importance culturelle de Dungeon Synth
 
-Dungeon Synth est un type de musique rare qui combine la vision intense du monde du black metal avec la tranquillité de la musique ambiante, et c'est une culture qui aspire à « construire un monde intérieur ».
+Dungeon Synth est un type de musique rare qui combine la vision intense du monde du black metal avec la tranquillité de l'ambiant, et est une culture qui aspire à « construire un monde intérieur ».
 
 - Les créateurs individuels racontent leurs propres histoires sans s'appuyer sur des scènes à grande échelle
 - Fortement lié à l'esthétique de la littérature fantastique, des TRPG et de la musique de jeu
@@ -329,7 +329,7 @@ Il est même surnommé « le genre DIY le plus puissant de Bandcamp » depuis le
 
 Synthé de donjon
 **・ Spiritualité du black metal
-・ Récit fantastique
+・Récit fantastique
 ・La nature DIY de la musique synthétisée lo-fi**
 Il s’agit d’un espace culturel unique né de la combinaison de ces trois éléments.
 

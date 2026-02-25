@@ -11,13 +11,13 @@ tags:
 - Thrash
 - Hardcore
 - Punk
-title: RytmihairiovAmen – 進化的終結......即將來臨
+title: RytmihairiovAmen – 進化的終結......即將到來
 ---
 
 
-Rytmifäärä 是一支來自赫爾辛基的死亡核/硬核/金屬樂隊，成立於 1988 年。 Amen 是一支芬蘭硬核朋克樂隊。
+Rytmifäärä 是一支來自赫爾辛基的死亡核/硬核/金屬樂隊，成立於 1988 年。 Amen 是一支芬蘭硬核龐克樂團。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. They
 A2. How Much Longer
@@ -43,7 +43,7 @@ B10. Money Rules The Fools
 B11. Spice-Song
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m23657412972?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m23657412972?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QPqPvrnNB1c?si=mjRhOMtnUYV0l6Cd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -21,7 +21,7 @@ title: '[Chronique] Histoire du hip-hop américain : aperçu général, y compr
 Texte : mmr｜Thème : À propos du hip-hop, où différents styles se sont formés dans chaque région des États-Unis
 
 Le hip-hop est né dans le Bronx, à New York, à la fin des années 1970 et est devenu plus qu'un simple genre musical, il est également devenu une culture liée à la danse, au graffiti, à la mode et aux mouvements sociaux.
-En Amérique, différents styles se sont formés dans chaque région et le développement a été soutenu par la scène des clubs, la radio, les cassettes démo et la culture du disque. De plus, le développement de la technologie d'échantillonnage et la tendance ultérieure au déséchantillonnage symbolisaient l'innovation musicale dans le hip-hop.
+Aux États-Unis, différents styles se sont formés dans chaque région et le développement a été soutenu par la scène des clubs, la radio, les cassettes démo et la culture du disque. De plus, le développement de la technologie d'échantillonnage et la tendance ultérieure au déséchantillonnage symbolisaient l'innovation musicale dans le hip-hop.
 
 ---
 
@@ -92,7 +92,7 @@ Extrayez des phrases de disques soul, funk et jazz à l'aide d'un échantillonne
 
 ### Côte Est contre Côte Ouest
 Les tensions régionales influencent la musique, comme en témoigne le conflit entre The Notorious B.I.G. et 2Pac.
-Les clubs new-yorkais (Tunnel, Limelight) sont devenus des lieux de battles de rap et de premières nouveautés, favorisant une culture de battle de rap.
+Les clubs new-yorkais (Tunnel, Limelight) sont devenus des lieux de rap battles et de premières nouveautés, favorisant une culture rap battle.
 
 ### Sud (Atlanta, Houston, Nouvelle-Orléans)
 OutKast et UGK ont émergé et ont établi leur propre son unique. La distribution de cassettes dans les clubs a soutenu la diffusion du hip-hop régional.
@@ -379,7 +379,7 @@ Bass : ▂▂▄▆██▆▄▂
 
 ---
 
-## Années 2010 (ère Trap/sub bass et HiHat haute vitesse)
+## Années 2010 (Trap era/sub bass et HiHat haute vitesse)
 
 <table class="table-wave">
 <tr>
@@ -444,7 +444,15 @@ La carte du pouvoir visualise vers quelle région le centre de la scène s'est d
 
 ## Conclusion
  
-Le hip-hop a évolué pour refléter la culture et le contexte social de chaque région. La côte Est, la côte Ouest et la côte Sud ont chacune leurs propres styles qui ont influencé non seulement la musique, mais aussi la mode, la langue, les mouvements sociaux et bien plus encore. Le hip-hop continuera d’évoluer à mesure que de nouvelles techniques et méthodes d’expression émergeront.
+Le hip-hop a évolué pour refléter la culture et le contexte social de chaque région. La côte Est, la côte Ouest et la côte Sud ont chacune leurs propres styles uniques, qui ont influencé non seulement la musique, mais aussi la mode, la langue et les mouvements sociaux. Le hip-hop continuera d’évoluer à mesure que de nouvelles techniques et méthodes d’expression émergeront.
+
+---
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H241Xlr_nMQ?si=nrjaF03rwUrf6s90" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

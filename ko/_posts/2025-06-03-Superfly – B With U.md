@@ -10,14 +10,14 @@ tags:
 - Electronic
 - Hard Trance
 - 00s
-title: 슈퍼플라이 - 비위드유(B With U)
+title: Superfly – B With U
 ---
 
 
-영국 R&B 가수 Dee Jacobee의 "I'm Alive"(미국 DJ/하우스 뮤직 아티스트)
-리믹서 Todd Terry와 D.A.R.C.가 리믹스한 하우스 트랙입니다.
+영국의 R & B 싱어 Dee Jacobee의 "I'm Alive"를 미국 DJ 하우스 뮤직
+리믹서 Todd Terry와 D.A.R.C.가 remix한 하우스 트럭.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. B With U
 

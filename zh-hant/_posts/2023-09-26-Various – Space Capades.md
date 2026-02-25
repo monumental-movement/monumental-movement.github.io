@@ -14,15 +14,15 @@ title: 各種 – 太空斗篷
 
 
 曲目 1 錄製於 1967 年 4 月 12 日 · 選自專輯“Holiday For Strings”
-錄製軌道 2 c. 1960 · 選自專輯《The Magic Beat!》
+錄製曲目 2 c. 1960 · 選自專輯《The Magic Beat!》
 曲目 3 錄製於 1946 年 5 月 8 日 · 選自專輯“Music Out Of The Moon”
-錄製軌道 4 c. 1956 · 選自專輯《Power House》
+錄製曲目 4 c. 1956 · 選自專輯《Power House》
 曲目 5 錄製於 1960 年 6 月 23 日 · 選自專輯“Drums And More Drums”
 曲目 6 錄製於 1961 年 10 月 17 日 · 選自專輯“Sensational!”
 曲目 7 錄製於 1951 年 3 月 6 日 · 選自專輯“The Voices Of Walter Schumann”
 曲目 8 錄製於 1962 年 7 月 16 日 · 選自專輯“Zounds! What Sounds!”
 第 9 首（第一部分）錄製於 1953 年 11 月 6 日 · 來自 Capitol Records 單曲
-第 9 首（第二部分）錄製於 1961 年 5 月 2 日 · 選自專輯“Staging For Stereo - Highlights”
+第 9 首（第二部）錄製於 1961 年 5 月 2 日 · 選自專輯“Staging For Stereo - Highlights”
 曲目 10 錄製於 1960 年 3 月 23 日 · 選自專輯“Accent On Bamboo”
 曲目 11 錄製於 1959 年 3 月 23 日 · 選自專輯“Les Baxter's Wild Guitars”
 曲目 12 錄製於 1949 年 8 月 4 日 · 選自專輯“Music For Piece Of Mind”
@@ -33,7 +33,7 @@ title: 各種 – 太空斗篷
 曲目 17 錄製於 1957 年 11 月 22 日 · 選自專輯“Space Escapade”
 曲目 18 錄製於 1962 年 7 月 16 日 · 選自專輯“Zounds! What Sounds!”
 
-#### 曲目列表
+#### 曲目表
 ```md
 1.David Rose & His Orchestra–Gay Spirits
 
@@ -72,7 +72,7 @@ title: 各種 – 太空斗篷
 18.Dean Elliott & His Big Band–Lonesome Road
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m53410507614?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m53410507614?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nwQ6A7eWvpU?si=676P6Bidu6gbdIzJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

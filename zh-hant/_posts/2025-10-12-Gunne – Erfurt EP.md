@@ -18,14 +18,14 @@ Gunne (Gunnar Lenke) 是一位柏林 DJ/製作人，經營 Minimal & Tech House 
 
 2005年以自己廠牌發行的《Erfurt EP》可以說是Gunne的代表作。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Gaby Is Waiting
 
 B. Spinning Wax
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m76287547675?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m76287547675?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yTAM1Mz4tWI?si=KRvZWZ0MCiIfu77K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

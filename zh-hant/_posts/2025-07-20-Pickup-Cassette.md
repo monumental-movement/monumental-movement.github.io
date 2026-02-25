@@ -17,11 +17,11 @@ title: 拾取盒式磁帶作品
 <小時>
 
 ### 無藝術家 – 環境（磁帶二）
-<a href="https://jp.mercari.com/item/m64435232831?afid=6142608987"><img src="../assets/images/No%20Artist%20%E2%80%93%20Environments.webp"></a>
+<a href="https://jp.mercari.com/item/m64435232831?afid=6142608987"><img src="../assets/images/No%20Artist%20%E2%80%93%20Environments.webp"></a>.
 
-1970 年代現場錄音/治愈 捕捉自然環境的治愈音景。
+1970 年代現場錄音/療癒 捕捉自然環境的療癒音景。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Tintinnabulation (Contemplative Sound)
 
@@ -29,7 +29,7 @@ B. Dawn At New Hope Pennsylvania (June, 1969)
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m64435232831?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m64435232831?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -37,11 +37,11 @@ B. Dawn At New Hope Pennsylvania (June, 1969)
 <小時>
 
 ### 噪音的藝術——毫無意義的廢話
-<a href="https://jp.mercari.com/item/m27011020702?afid=6142608987"><img src="../assets/images/The%20Art%20Of%20Noise%20%E2%80%93%20In%20No%20Sense%20Nonsense.webp"></a>
+<a href="https://jp.mercari.com/item/m27011020702?afid=6142608987"><img src="../assets/images/The%20Art%20Of%20Noise%20%E2%80%93%2010%20Of%20Noise%20%E2%80%93%205%20N.
 
-1987 年 Leftfield Synth 波普藝術流行 x 實驗性、獨特的合成器作品。
+1987 年 Leftfield Synth 普普藝術流行 x 實驗性、獨特的合成器作品。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Galleons Of Stone
 A2. Dragnet
@@ -79,7 +79,7 @@ B16. One Earth
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m27011020702?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m27011020702?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -88,11 +88,11 @@ B16. One Earth
 
 
 ### 吻 – 搖滾翻滾
-<a href="https://jp.mercari.com/item/m33007072750?afid=6142608987"><img src="../assets/images/Kiss%20%E2%80%93%20Rock%20And%20Roll%20Over.webp"></a>
+<a href="https://jp.mercari.com/item/m33007072750?afid=6142608987"><img src="../assets/images/Kiss%20%E2%80%93%20Rock%20And%20Rollp">20Over.
 
-1976 年 70 年代 Hard Rock 日本第一版磁帶，很酷的複古。
+1976 年 70 年代 Hard Rock 日本第一版磁帶，很酷的復古。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. I Want You
 A2. Take Me
@@ -108,7 +108,7 @@ B5. Makin' Love
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m33007072750?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m33007072750?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -117,11 +117,11 @@ B5. Makin' Love
 
 
 ### Amany & The Badawist – 來吧，巴塞姆
-<a href="https://jp.mercari.com/item/m46511656290?afid=6142608987"><img src="../assets/images/Amany%20and%20The%20Badawist%20%E2%80%93%20Come%20on%20Bassem.webp"></a>
+<a href="https://jp.mercari.com/item/m46511656290?afid=6142608987"><img src="../assets/images/Amany%20and%20The%20Badawist%20%E2%80%9320and%20The%20Badawist%20%E2%80%9320and%20The%20Badawist%20%E2%80%9320ComeCome>
 
 2024 部落/世界音樂 來自中東和非洲的部落之聲。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1.  بدويست 
 
@@ -149,18 +149,18 @@ Come on, Bassem
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m46511656290?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m46511656290?afid=6142608987){: .button1}
 
 
 <小時>
 
 
-### 托馬斯·紐曼 – 女人的香氣
-<a href="https://jp.mercari.com/item/m80593383212?afid=6142608987"><img src="../assets/images/Thomas%20Newman%20%E2%80%93%20Scent%20Of%20A%20Woman.webp"></a>
+### 湯瑪斯紐曼 – 女人的香氣
+<a href="https://jp.mercari.com/item/m80593383212?afid=6142608987"><img src="../assets/images/Thomas%20Newman%20%E2%80%93%20Scent%20Of%20A%(webp.
 
 1992 年電影原聲帶 經典電影的原創配樂磁帶。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1.  Main Title
 A2.  A Tour Of Pleasures
@@ -183,19 +183,19 @@ B7. End Title
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m80593383212?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m80593383212?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/COQsa_u5nEg?si=fguM6L8R4SRjad1F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <小時>
 
-### 亞當·克萊頓 (Adam Clayton) 和拉里·馬倫 (Larry Mullen) – 《碟中諜》主題曲
+### 亞當克萊頓 (Adam Clayton) 與拉里馬倫 (Larry Mullen) – 《碟中諜》主題曲
 <a href="https://jp.mercari.com/item/m33330451602?afid=6142608987"><img src="../assets/images/Adam%20Clayton%20&%20Larry%20Mullen%20%E2%80%93%20Theme%20From%20Mission%20Impossible.webp"></a>
 
-1996年電影《碟中諜》官方磁帶主題曲。
+1996年電影《不可能的任務》官方錄音帶主題曲。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Theme From Mission: Impossible
 A2. Mission: Impossible Theme (Mission Accomplished)
@@ -204,7 +204,7 @@ B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m33330451602?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m33330451602?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -213,11 +213,11 @@ B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 
 
 ### Dieselboy – 導演剪輯版
-<a href="https://jp.mercari.com/item/m34797510612?afid=6142608987"><img src="../assets/images/Dieselboy%20%E2%80%93%20The%20Director's%20Cut.webp"></a>
+<a href="https://jp.mercari.com/item/m34797510612?afid=6142608987"><img src="../assets/images/Dieselboy%20%E2%80%93%20The%20Director's%20Cirector's%</Cut.
 
 2023 Drum n Bass 由美國鼓貝斯 DJ 打造的激烈混音
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Side A
 
@@ -254,7 +254,7 @@ B. Side B
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m34797510612?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m34797510612?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -262,11 +262,11 @@ B. Side B
 <小時>
 
 ### 各種 - 享受！故事
-<a href="https://jp.mercari.com/item/m75930589194?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20The%20Enjoy!%20Story.webp"></a>
+<a href="https://jp.mercari.com/item/m75930589194?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20The%20Enjoy!%">20Story.webp.
 
 20 世紀 90 年代？經典嘻哈祖魯民族時代早期合輯
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1.The Packman–I'm The Packman
 A2.Grandmaster Flash & The Furious Five–Superappin
@@ -305,7 +305,7 @@ D9. Higher Ground – Shake 'Em Up
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m75930589194?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m75930589194?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -313,11 +313,11 @@ D9. Higher Ground – Shake 'Em Up
 <小時>
 
 ### 運行-D.M.C. – 搖滾之王
-<a href="https://jp.mercari.com/item/m37727986910?afid=6142608987"><img src="../assets/images/Run-D.M.C.%20%E2%80%93%20King%20Of%20Rock.webp"></a>
+<a href="https://jp.mercari.com/item/m37727986910?afid=6142608987"><img src="../assets/images/Run-D.M.C.%20%E2%80%93%20King%20Of%20King%20Of%E2%80%93%20King%20Of%20King%20Of%。
 
-1985 年？  嘻哈/搖滾融合，搖滾和說唱的開創性流行作品
+1985 年？  嘻哈/搖滾融合，搖滾和饒舌的開創性流行作品
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Rock The House
 A2. King Of Rock
@@ -332,7 +332,7 @@ B4. Daryll And Joe (Krush-Groove 3){: .button1}
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m37727986910?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m37727986910?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -340,11 +340,11 @@ B4. Daryll And Joe (Krush-Groove 3){: .button1}
 <小時>
 
 ### Dr. Dre – 讓我騎
-<a href="https://jp.mercari.com/item/m33195503336?afid=6142608987"><img src="../assets/images/Dr.%20Dre%20%E2%80%93%20Let%20Me%20Ride.webp"></a>
+<a href="https://jp.mercari.com/item/m33195503336?afid=6142608987"><img src="../assets/images/Dr.%20Dre%20%E2%80%93%20Let%20Me%20Dre%20%E2%80%93%20Let%20Me%20Ride.
 
-1992年西海岸音樂經典嘻哈/G-Funk代表歌曲
+1992年西岸音樂經典嘻哈/G-Funk代表歌曲
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Let Me Ride (Radio Mix)
 
@@ -362,14 +362,14 @@ Guest– George Clinton
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m33195503336?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m33195503336?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zIG9BNugOEs?si=itP9y0O19GNYWvSe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <小時>
 
-### 列表
+### 清單
 
 <div class="table-border">
 <table>

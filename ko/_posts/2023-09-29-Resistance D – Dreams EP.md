@@ -10,14 +10,14 @@ tags:
 - Techno
 - Acid
 - Trance
-title: 저항 D – 꿈 EP
+title: Resistance D – Dreams EP
 ---
 
 
-"Dreams EP"는 1992년 Direct Drive 레이블로 발매된 Resistance D의 EP입니다.
-하드한 트랜스와 멜로디를 결합한 스타일.
+Dreams EP는 1992년 라벨 Direct Drive에서 출시된 Resistance D의 EP입니다.
+하드 트랜스와 멜로디어스함을 조합한 스타일입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Cosmic Love
 
@@ -30,5 +30,5 @@ B2. Index
 
 [メルカリで購入](https://jp.mercari.com/item/m57187510380?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IN30AapgaE4?si=j7gXOXphjEJ9r9Cm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -25,7 +25,7 @@ Ian Pooley nació en Mainz, Alemania, en 1973. Sus padres eran de Inglaterra y h
 
 Desde temprana edad, en casa se tocaba música negra como jazz, soul y funk en lugar de rock. Desde muy temprano desarrolló un oído para prestar atención no sólo a la dinámica rítmica, sino también a las progresiones de acordes y los intervalos de interpretación. En particular, las líneas de bajo eléctrico y la expansión espacial creada por los acordes se convirtieron en bases importantes para producciones posteriores.
 
-Cuando entró en la adolescencia, se sintió fuertemente atraído por la música dance que se estaba expandiendo en ese momento, como el hip-hop, el electro y el acid house. Lo que le fascinó aquí no fue la calidad de estrella ni la letra, sino la "estructura" del tema en sí. Para Pooley, los cambios sutiles que se producen a través de la repetición y la plasticidad de la música reorganizada por los DJ presentan una nueva forma de ver la música.
+Cuando entró en la adolescencia, se sintió fuertemente atraído por la música dance que se estaba expandiendo en ese momento, como el hip-hop, el electro y el acid house. Lo que le fascinó aquí no fue la calidad de estrella ni la letra, sino la "estructura" del tema en sí. Para Pooley, los pequeños cambios que se producen a través de la repetición y la plasticidad de la música reorganizada por los DJ presentan una nueva forma de ver la música.
 
 > Las múltiples raíces musicales aportan constantemente profundidad intelectual al trabajo de Ian Pooley.
 
@@ -66,7 +66,7 @@ C --> D[DJセット内での定着]
 
 ## Características de la musicalidad: diseño de ritmos, acordes y repeticiones.
 
-La musicalidad de Ian Pooley se basa más en la estructura interna que en el estilo superficial. El ritmo de cuatro en el suelo es engañosamente simple, pero en el fondo hay una interacción compleja entre la línea de bajo, los acordes y la percusión.
+La musicalidad de Ian Pooley se basa más en la estructura interna que en el estilo superficial. El ritmo de cuatro contra cuatro es engañosamente simple, pero en el fondo hay una interacción compleja entre la línea de bajo, los acordes y la percusión.
 
 Lo que es digno de mención es el trabajo del código. Aunque utiliza armonías que dan una sensación de tensión similar al jazz, no las pone demasiado en primer plano. Los acordes se colocan únicamente como elementos para reforzar el ritmo, sin robar demasiado la atención del oyente. Esta expresión suprimida es muy eficaz durante largas mezclas de DJ.
 
@@ -90,7 +90,7 @@ El mezclador no era sólo un dispositivo de control de volumen, sino que funcion
 
 Muchos artistas que trabajaban en el mismo contexto house del Reino Unido de los 90 gravitaron hacia una producción más basada en samples o centrada en la voz. Pooley, por otra parte, siguió buscando la belleza estructural de la música instrumental.
 
-Por ejemplo, mientras los productores fuertemente influenciados por el house estadounidense enfatizaban los picos emocionales, Pooley enfatiza el cambio de ritmos a lo largo del tiempo. Este es un enfoque que es posible debido al entorno de producción donde se acumulan diferencias mínimas a través del funcionamiento del equipo.
+Por ejemplo, mientras los productores fuertemente influenciados por el house estadounidense enfatizaban los picos emocionales, Pooley enfatiza el cambio de ritmos a lo largo del tiempo. Este enfoque es posible debido al entorno de producción donde se acumulan diferencias mínimas a través del funcionamiento del equipo.
 
 ### Posición dentro de la Cámara del Reino Unido
 

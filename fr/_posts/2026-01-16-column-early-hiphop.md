@@ -77,9 +77,9 @@ Les DJ ont joué le rôle le plus central dans les débuts de la culture hip-hop
 
 Le DJ était chargé de préparer l'équipement de sonorisation, d'assurer l'alimentation électrique, d'apporter les disques et de faire en sorte que la fête ait lieu. En plus de « sélectionner » la musique, il fallait également « créer l'espace ».
 
-Le fait d'extraire des parties rythmiques de disques funk et soul et de les répéter tout en observant la réaction du public est devenu spontané et sophistiqué.
+Le fait d'extraire des parties rythmiques de disques funk et soul et de les répéter tout en observant la réaction du public s'est spontanément affiné.
 
-À cette époque, les DJ étaient plus des manipulateurs de temps que des créateurs.
+A cette époque, les DJ étaient moins des créateurs que des contrôleurs du temps.
 
 > Le rôle du DJ n'était pas de jouer de la musique, mais de contrôler l'énergie du groupe.
 
@@ -140,7 +140,7 @@ Les DJ ont occupé l'espace avec le son, les danseurs ont occupé la piste avec 
 ## Groupe avant Bambaataa
 
 
-Avant l'intégration culturelle et l'idéalisation d'Afrika Bambaataa, il existait déjà de nombreux praticiens inconnus dans le domaine.
+Avant l’intégration culturelle et l’idéalisation d’Afrika Bambaataa, il existait déjà de nombreux praticiens inconnus dans le domaine.
 
 Bien que nombre d’entre elles ne soient pas enregistrées et soient souvent omises dans les récits ultérieurs, ce sont ces pratiques collectives qui constituent la base de la culture.
 

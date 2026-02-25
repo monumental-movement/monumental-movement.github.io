@@ -27,7 +27,7 @@ Texte : mmr｜Thème : Réactions chimiques de transformation sonore et culturel
 ### Origine : Rayonnement provenant du sous-sol de Chicago
 L'acid house est un genre musical originaire de la scène des clubs underground de Chicago, aux États-Unis, au milieu des années 1980, et constitue un sous-genre de la musique house.
 
-L'origine de ce genre est née de la « mauvaise utilisation accidentelle » d'un instrument électronique appelé Roland TB-303 Bass Line Synthesizer. Développé à l'origine pour remplacer la guitare basse, le TB-303 a été utilisé par les DJ et les producteurs (en particulier à partir d'une unité appelée **Phuture**) de manière inattendue, produisant des lignes de basse ondulantes, « liquides » et « psychédéliques ».
+L'origine de ce genre est née de la « mauvaise utilisation accidentelle » d'un instrument électronique appelé Roland TB-303 Bass Line Synthesizer. Développé à l'origine pour remplacer la guitare basse, le TB-303 a été utilisé par les DJ et les producteurs (en particulier par une unité appelée Phuture) pour le manipuler de manière inattendue, produisant des lignes de basse ondulantes, liquides et psychédéliques.
 
 Le single "Acid Tracks" de Phuture en 1987 est devenu le prototype de ce nouveau style, tant par son caractère sonore que par son nom.
 
@@ -53,7 +53,7 @@ Les caractéristiques les plus importantes de l’acid house sont les éléments
 
 <hr>
 
-#### Quadruple coup de pied
+#### Quatre coups de pied
 
 - Le BPM est un tempo stable d'environ 120-130
 
@@ -173,7 +173,7 @@ Aujourd’hui, l’acid house est réévaluée au milieu de la culture rétro et
 
 - Propagation explosive d'un avion clone TB-303 (reproduction d'équipement analogique)
 
-Plus qu’un simple genre musical, l’acid house continue d’être au carrefour de la musique électronique et de la contre-culture.
+Plus qu’un simple genre musical, l’acid house reste au carrefour de la musique électronique et de la contre-culture.
 
 
 <hr>

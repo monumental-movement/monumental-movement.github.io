@@ -98,7 +98,7 @@ Merkmale:
 
 Eine wichtige Präsenz in Norwegens Underground-DJ-Kultur.
 
-Mit einem einzigartigen Gespür für die Musikauswahl, basierend auf seiner umfangreichen Plattensammlung, verbindet er alles von Disco, Jazz, Afro, House und experimenteller Musik.
+Mit einer einzigartigen Musikauswahl, die auf seiner umfangreichen Plattensammlung basiert, verbindet er frei Disco, Jazz, Afro, House und experimentelle Musik.
 
 Er ist als DJ bekannt, der Genregrenzen durchbricht und der Arbeit von Mungolian Jet Set ein elektrisches Element verleiht.
 
@@ -128,7 +128,7 @@ Auf den Alben und Mixen von Mungolian Jet Set sind auch Gastsänger und Instrume
 
 #### Klangeigenschaften
 
-Genreübergreifend: Eine Mischung aus Disco-, Cosmic-, House-, Jazz-, Afro- und sogar Rock- und Prog-Elementen.
+Genreübergreifend: Eine Mischung aus Disco, Cosmic, House, Jazz, Afro und sogar Rock- und Progressive-Elementen.
 
 Remix-Sinn: Er ist bekannt für seine „Weltraumreise“-Remixe, die die Struktur des Originalsongs mutig verändern und ihn auf über 10 Minuten verlängern.
 

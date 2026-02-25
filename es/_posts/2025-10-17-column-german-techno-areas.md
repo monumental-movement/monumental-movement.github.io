@@ -154,7 +154,7 @@ No "música para bailar", sino "ritmos para pensar".
 
 ### 4-2. Escena local en el este de Leipzig
 
-El espíritu del bricolaje que se remonta a la época de Alemania del Este está vivo y coleando en los sótanos de esta ciudad.
+El espíritu del bricolaje, que ha perdurado desde la época de Alemania del Este, está vivo y coleando en los sótanos de esta ciudad.
 Convertir un edificio abandonado en una discoteca y producir sonido mediante un sistema casero.
 Lo que existe allí es **techno como comunidad**, sin relación con la comercialización.
 Para ellos, la música es a la vez política y cotidiana.
@@ -337,8 +337,16 @@ flowchart TD
 
 El ritmo del techno no es un dispositivo para olvidar el pasado, sino un dispositivo para preservar la memoria como un ritmo.
 La historia de Alemania todavía late como un latido.
-Por eso este país sigue siendo "honesto en su sonido" más que cualquier otro lugar del mundo.
+Es por eso que este país sigue siendo "honesto en sonido" más que cualquier otro lugar del mundo.
 
+
+---
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q15wupd1WM4?si=PMLbIbtVhzJTiorK" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 

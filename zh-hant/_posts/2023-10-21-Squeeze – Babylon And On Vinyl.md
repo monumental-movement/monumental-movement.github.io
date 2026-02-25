@@ -13,11 +13,11 @@ title: 擠壓 – 巴比倫和黑膠唱片
 ---
 
 
-《Babylon and On》是英國樂隊“Squeeze”於1987年發行的一張專輯。
+《Babylon and On》是英國樂團「Squeeze」於1987年發行的一張專輯。
 
 Squeeze 是 20 世紀 80 年代一支成功的樂隊，以其融合流行搖滾和新浪潮元素的歌曲而聞名。 《Babylon and On》專輯也因其獨特的流行音樂和精緻的歌曲而受到關注。尤其是《Hourglass》等歌曲被稱為Squeeze的招牌歌曲。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Hourglass
 
@@ -44,7 +44,7 @@ B5. The Waiting Game
 B6. Some Americans
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m85609686798?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m85609686798?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vIqpseoHOkE?si=wYy-Yf5sAJesvP1X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

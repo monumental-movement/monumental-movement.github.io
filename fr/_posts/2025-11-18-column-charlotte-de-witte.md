@@ -18,12 +18,12 @@ title: '[Chronique] Charlotte de Witte : Reine du monde techno'
 ## Prologue ─ L'avènement de la reine de la techno
 
 
-Texte : mmr | Thème : Découvrez comment Charlotte de Witte a construit son « monde techno » à travers sa discographie, son historique d'apparitions en festival, ses commentaires de chansons, sa chronologie et ses illustrations.
+Texte : mmr | Thème : Découvrez comment Charlotte de Witte a construit son « monde techno » à travers sa discographie, son historique d'apparitions en festival, ses commentaires de chansons, sa chronologie et ses illustrations.
 
 La DJ/productrice belge **Charlotte de Witte** est actuellement connue comme l'une des figures les plus importantes du monde techno.
 Son son profond et minimaliste, ses concerts énergiques et ses apparitions historiques dans les grands festivals lui ont valu le surnom de « Techno Queen ».
 
-Sa carrière est une histoire épique, depuis ses modestes débuts dans les clubs underground de sa ville natale de Gand jusqu'aux scènes principales de festivals internationaux tels que Tomorrowland et Movement Festival.
+Sa carrière est une histoire épique, depuis ses humbles débuts dans les clubs underground de sa ville natale de Gand jusqu'aux scènes principales de festivals internationaux tels que Tomorrowland et Movement Festival.
 
 ---
 
@@ -51,7 +51,7 @@ L'« amour des boîtes de nuit » et le « respect de l'underground » cultivés
 
 ## Débuts en tant que DJ et époque « Raving George » (2010-2014)
 
-Vers **2010**, Charlotte a commencé sa carrière en tant que DJ. On rapporte qu'au départ, ils jouaient un style qui penchait vers l'électro et l'EDM.
+Vers **2010**, Charlotte a débuté sa carrière en tant que DJ. On rapporte qu'au départ, ils jouaient un style qui penchait vers l'électro et l'EDM.
 Au début de sa carrière, il a également utilisé le pseudonyme de « Raving George » et a remporté en 2011 un concours de DJ sponsorisé par la radio belge Studio Brussel. Cela lui a valu une apparition sur la scène principale de Tomorrowland.
 
 Il a également sorti un EP et a sorti ses premiers travaux sur des labels tels que Bad Life et Crux Records. Peu à peu, augmentant sa réputation de DJ, il commence à explorer les moyens de passer à la techno.
@@ -66,7 +66,7 @@ Durant cette période, son son prend un style plus sombre et minimaliste, inclua
 Les œuvres représentatives comprennent :
 
 - **EP Weltschmerz (2015, Turbo)**
-- Chanson représentative : « Weltschmerz »
+- Chanson représentative : "Weltschmerz"
 - Présente un rythme sombre et lourd et une ligne acide.
 
 - **EP plus proche (2017, KNTXT)**
@@ -249,6 +249,6 @@ La carrière de Charlotte de Witte est bien plus qu’une simple success story.
 Il a construit un monde qui incarne sa philosophie et sa sensibilité musicale, et le partage à travers son label, ses concerts et ses disques.
 
 Son premier album en 2025 est une expression introspective de son univers techno.
-Le monde techno de Charlotte de Witte continuera de s'étendre à travers ses apparitions en festival et ses activités sur son label.
+Le monde techno de Charlotte de Witte continuera de s'étendre à travers ses apparitions en festival et ses activités en label.
 
 ---

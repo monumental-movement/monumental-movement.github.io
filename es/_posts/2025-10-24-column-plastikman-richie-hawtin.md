@@ -19,7 +19,7 @@ title: '[Columna] Plastikman | Richie Hawtin - Las profundidades del minimalismo
 
 Texto: mmr｜Tema: Reflexiones sobre cómo Plastikman, que heredó el espíritu de la segunda generación del techno de Detroit, despojó el sonido hasta el límite y lo sublimó hasta convertirlo en un arte que permite escuchar la "reverberación" del ritmo mismo.
 
-Richie Hawtin ha estado redefiniendo el "techno" desde principios de la década de 1990, no sólo como música de baile, sino como un "dispositivo de meditación sonora". Sus obras bajo el nombre de Plastikman, particularmente ``_Sheet One_'' (1993) y ``_Consumed_'' (1998), son **experimentos de visualización del espacio interno del cuerpo humano con sonido electrónico**, y el sonido, que se asemeja a un líquido frío, también se llama "escultura abstracta de sonido".
+Richie Hawtin ha estado redefiniendo el "techno" desde principios de la década de 1990, no sólo como música de baile, sino como un "dispositivo de meditación sonora". Sus obras bajo el nombre de Plastikman, particularmente ``_Sheet One_'' (1993) y ``_Consumed_'' (1998), son **un experimento para visualizar el espacio interno del cuerpo humano usando sonido electrónico**. El sonido, que se asemeja a un líquido frío, también se llama "escultura abstracta de sonido".
 
 
 
@@ -91,7 +91,7 @@ Con esta obra, Hawtin se convierte en el primer artista en equiparar "minimalism
 
 ## Capítulo 4: La tecnología y el cuerpo - Reconstruyendo el concepto LIVE
 Hawtin también fue pionero en la fusión de tecnología y rendimiento.
-En la década de 2000, **redefinió el juego de DJ** con la serie "DE9", estableciendo el ``**prototipo de DJ digital**'' que utilizaba Ableton Live y Traktor para reconstruir pistas en tiempo real.
+En la década de 2000, **redefinió el juego de DJ** con la serie DE9 y estableció el "prototipo de DJ digital**", que utiliza Ableton Live y Traktor para reconstruir pistas en tiempo real.
 
 En su escenario, se construyó un entorno en el que la MacBook, el controlador MIDI, la iluminación y el video estaban completamente sincronizados, presentando un nuevo concepto de **``en vivo = datos respirables''**.
 
@@ -125,7 +125,7 @@ La verdadera filosofía de Plastikman es su continua transformación de la músi
 
 ## Capítulo 8: Serie DE9 - Revolución del DJ digital
 
-### 1. Presentación de DE9
+### 1. Presentamos DE9
 En 2001, Plastikman lanzó DE9: Closer to the Edit.
 Las mezclas tradicionales de DJ se basan en el orden de las pistas y los fundidos, pero aquí Hawtin utiliza edición y reestructuración a nivel de forma de onda.
 Al dividir cada pista en pequeñas muestras y reorganizar los pulsos mínimos, creamos una línea de tiempo de música dance completamente nueva.

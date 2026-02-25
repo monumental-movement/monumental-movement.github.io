@@ -9,7 +9,7 @@ permalink: /de/various-sounds-of-om-japan/
 tags:
 - House
 - 00s
-title: Verschiedene – Sounds Of Om – Japan
+title: Verschiedenes – Sounds Of Om – Japan
 ---
 
 

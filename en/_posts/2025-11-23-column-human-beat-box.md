@@ -121,7 +121,7 @@ Rapid growth has been remarkable in recent years.
 - High quality of sound
 - Speed ​​of adaptation to genres
 
-In particular, Japan's strengths are ""accuracy of sound," ""compositional ability," and ""compatibility with images and production.''
+In particular, Japan's strengths include "accuracy of sound," "composition ability," and "compatibility with visuals and production."
 
 ---
 
@@ -213,7 +213,7 @@ Synchronization, harmony, and composition ability by multiple people are require
 
 ## ◆ Loopstation
 The category that has received the most attention in recent years,
-"Building multi-layered music by yourself"
+"Building multi-layered music alone"
 There is a strong music production element.
 
 ## ◆ Showcases / Exhibition
@@ -245,7 +245,7 @@ With the development of Loopstation, beatboxing
 Towards an area that can be called
 
 ## ◆ 2. Combination with visual culture
-The number of ""video-based showcases'' is increasing in tournaments around the world.
+""Video-based showcases'' are increasing in competitions around the world.
 We live in an era where SNS accelerates style.
 
 ## ◆ 3. Future of Japanese strengths
@@ -266,6 +266,6 @@ We can expect him to continue to be active in both Loopstation and solo.
 Human Beatbox is a modern expressive culture that combines many aspects such as music, performance, video, and composition.
 Now that the competition culture is maturing, technology is evolving, and Japanese artists are emerging, beatboxing is undergoing major changes, and beatboxing is becoming more than just a technique, it is becoming an international music genre.
 
-I hope that this article will help you understand the history and future of beatboxing.
+I hope this article will help you understand the history and future of beatboxing.
 
 ---

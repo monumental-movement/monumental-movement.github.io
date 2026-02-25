@@ -9,16 +9,16 @@ permalink: /ko/rah-digga-dirty-harriet/
 tags:
 - Hip Hop
 - 00s
-title: 라 디가 - 더티 해리엇
+title: Rah Digga – Dirty Harriet
 ---
 
 
-Dirty Harriet(2000)은 Rah Digga라고도 알려진 Rahim Fisher의 데뷔 스튜디오 앨범으로, 과소평가되었지만 힙합 역사에서 중요한 작품입니다.
+'Dirty Harriet'(2000년)는 라힘 피셔와 Rah Digga의 데뷔 스튜디오 앨범으로 힙합사에서 과소평가되면서도 중요한 한 장.
 
-라 디가(Rah Digga)는 플립모드 스쿼드(Flipmode Squad)의 첫 여성 멤버로서 버스타 라임스(Busta Rhymes)의 지원을 받아 뛰어난 서정성과 이스트 코스트 붐뱁 사운드로 여성 MC로서 확고히 자리매김했습니다.
+Flipmode Squad 최초의 여성 멤버로서, Busta Rhymes의 뒤 방패 아래, Rah Digga는 본작에서 탁월한 릴리시즘과 동해안의 붐밥 사운드를 무기로, 여성 MC로서의 확고한 지위를 구축했습니다.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Intro
 A2. Harriet Thugman
@@ -40,5 +40,5 @@ D3. Lessons Of Today
 
 [メルカリで購入](https://jp.mercari.com/item/m86266729628?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MQIxlsGwy6U?si=NIk_ZwsymxghsjgH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,15 +9,15 @@ permalink: /ko/mondo-grosso-mg4/
 tags:
 - House
 - Lounge
-title: 몬도 그로소 – MG4
+title: Mondo Grosso – MG4
 ---
 
 
-오사와 신이치의 재즈, 소울, 브라질 음악에 뿌리를 둔 일본의 클럽 음악으로 라이브 악기와 2Step 댄스 비트를 활용한 섬세한 편곡이 돋보입니다.
+오사와 신이치의 뿌리인 재즈, 서울, 브라질리안 뮤직을 바탕으로 생악기를 이용한 섬세한 어레인지와 2Step의 댄스 비트로 정리한 재패니즈 클럽 뮤직.
 
-또한 당시 히트작이자 Bird가 등장한 "Life"와 "Butterfly"도 포함되어 있습니다.
+bird를 피쳐링해, 당시 히트한 「Life」나 「Butterfly」도 수록.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1  MG2SS
 
@@ -46,5 +46,5 @@ F2  1974-Way Home
 
 [メルカリで購入](https://jp.mercari.com/item/m82949922453?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MTlbFVhh7Fw?si=otIP4cO1gTdZ2LcR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

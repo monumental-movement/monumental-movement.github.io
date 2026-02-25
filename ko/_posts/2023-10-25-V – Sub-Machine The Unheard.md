@@ -10,15 +10,15 @@ tags:
 - IDM
 - Indie Rock
 - 7inch
-title: V – 들어보지 못한 서브머신
+title: V – Sub-Machine The Unheard
 ---
 
 
-'서브머신/디 언허드'는
-1995년 영국 레이블 'Gift Records'가 발매한 7인치 음반이다.
+'Sub-Machine/The Unheard'는
+1995년에 UK의 라벨 「Gift Records」로부터 릴리스 된 7 인치의 레코드입니다.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Sub-Machine
 

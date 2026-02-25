@@ -61,7 +61,7 @@ L'enregistrement s'est imposé comme un moyen d'expression personnelle,
 - Les harmoniques saturées uniques de la cassette
 était associé à des expressions folkloriques.
 
-Dans les années 1990, parallèlement à la culture de la sortie de cassettes des labels indépendants, le nombre d'œuvres créées par les auteurs-compositeurs-interprètes dans leur chambre a augmenté.
+Dans les années 1990, parallèlement à la culture des cassettes des labels indépendants, le nombre d’œuvres créées par les auteurs-compositeurs-interprètes dans leur chambre a augmenté.
 
 ---
 
@@ -76,7 +76,7 @@ De nombreux enregistrements sont réalisés au domicile de l'artiste et comprenn
 - Utilise 2 pièces : chambre et salon
 - Utiliser activement le son réfléchi de la pièce
 - Le microphone utilise une combinaison de simple condensateur et de dynamique
-- Lorsque le MTR sur cassette et l'enregistrement numérique étaient mixés
+- Lorsque la cassette MTR et l'enregistrement numérique étaient mixés
 
 ### ● Caractéristiques sonores
 - Voix chuchotée
@@ -146,10 +146,10 @@ Même si la qualité sonore était plus claire qu'auparavant, les mixages qui av
 ---
 
 ## 5. Années 2020 : Post-lo-fi et retour acoustique
-Dans les années 2020, le Lo-Fi Folk s’oriente vers une approche plus statique. Avec des compositions minimalistes, un accent mis sur l'enregistrement en direct et une réduction du bruit apparent, Bedroom Folk se dirige vers une scène où « réalisme sonore de la vie » et « intimité haute résolution » coexistent.
+Dans les années 2020, le Lo-Fi Folk s’oriente vers une approche plus statique. Avec des compositions minimalistes, un accent mis sur l'enregistrement en direct et une réduction du bruit manifeste, Bedroom Folk se dirige vers une scène où « réalisme sonore de la vie » et « intimité haute résolution » coexistent.
 
 - Prix réduits pour les microphones à condensateur de haute qualité
-- Plugins standards DAW améliorés
+- Plug-ins standards DAW améliorés
 - Simplifiez le réglage de la pièce à la maison
 
 Ces facteurs rendent le folk moderne encore plus mature.
@@ -189,7 +189,7 @@ flowchart TD
 ### 8-1. Iron & Wine — Le ruisseau a bu le berceau (2002)
 - enregistrement à domicile
 - L'enregistrement est à volume extrêmement faible
-- Enregistrement à courte distance tout en supprimant le bruit de la pièce
+- Enregistrement à courte distance tout en supprimant le bruit ambiant
 - Haut de gamme souple de type cassette
 - Mix qui retient activement le bruit des doigts de guitare
 

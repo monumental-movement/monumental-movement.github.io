@@ -13,11 +13,11 @@ title: 胖喬——我們暴徒
 ---
 
 
-A 的《We Thuggin'》是一首嘻哈歌曲，由 Atlantic 於 2001 年與 R. Kelly 合作發行。製片人是羅恩·G.
+A 的《We Thuggin'》是一首嘻哈歌曲，由 Atlantic 於 2001 年與 R. Kelly 合作發行。製片為羅恩G.
 
-B 的《My Lifestyle》是一首由 D.I.T.C. 製作的嘻哈歌曲。成員兼嘻哈製作人/DJ Buckwild（安東尼·貝斯特）。
+B 的《My Lifestyle》是一首由 D.I.T.C. 製作的嘻哈歌曲。成員兼嘻哈製作人/DJ Buckwild（安東尼貝斯特）。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. We Thuggin' (Clean)
 A2. We Thuggin' (Explicit)
@@ -28,7 +28,7 @@ B2. My Lifestyle (Explicit)
 B3. My Lifestyle (Instrumental)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m40207557202?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m40207557202?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YW5MCnMNvEM?si=pajufjNSp5n0_Uwy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

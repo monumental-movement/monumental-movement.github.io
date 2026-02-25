@@ -21,7 +21,7 @@ title: '[Chronique] La trajectoire du rock et du noise underground japonais des 
 Texte : mmr｜Thème : Attention mondiale portée à la scène musicale underground japonaise des années 1990 aux années 2000
 
 Les années 1990 et 2000 ont été l’apogée de la **musique noise** et ont également servi de carrefour avec le rock alternatif et le punk d’avant-garde.
-En particulier, des artistes tels que Keiji Haino, Merzbow, Hijikaido, Melt-Banana, Boredoms et Violent Onsen Geisha ont détruit les genres musicaux existants et ouvert de nouveaux domaines d'expression.
+En particulier, des artistes tels que Keiji Haino, Merzbow, Hijikadan, Melt-Banana, Boredoms et Violent Onsen Geisha ont détruit les genres musicaux existants et ouvert de nouveaux domaines d'expression.
 
 ---
 
@@ -77,7 +77,7 @@ Cette période voit également l'essor des labels indépendants, des apparitions
 
 - **Caractéristiques** : Synonyme de « musique bruitiste ». Du rugissement chaotique des équipements analogiques, il est passé aux ordinateurs portables à la fin des années 1990.
 - **Modifications** : Acclamé internationalement avec des œuvres sur cassettes dans les années 80 et des sorties sur CD dans les années 90. Dans les années 2000, il intègre la « protection de l’environnement » et les « droits des animaux » dans sa musique.
-- **Anecdote** : L'album « Pulse Demon » est appelé « l'album le plus inécoutable » à l'étranger, et est considéré comme un morceau de noise monumental.
+- **Anecdote** : L'album « Pulse Demon » est appelé « l'album le plus inécoutable » à l'étranger, et est considéré comme un morceau de bruit monumental.
 
 | Albums | Caractéristiques | Liens |
 |--------------|------|--------------|
@@ -89,9 +89,9 @@ Cette période voit également l'essor des labels indépendants, des apparitions
 
 ### Escaliers de secours
 
-- **Caractéristiques** : Le premier "groupe de bruit" au monde. En plus des performances bruitistes, ils sont devenus légendaires pour leurs performances extrêmes (lancements de nourriture, étincelles, danse nue).
+- **Caractéristiques** : Le premier « groupe de bruit » au monde. En plus des performances bruitistes, ils sont devenus légendaires pour leurs performances extrêmes (lancements de nourriture, étincelles, danse nue).
 - **Changements** : Ils ont commencé leurs activités dans les années 80 et ont enregistré principalement des albums live dans les années 90. Depuis les années 2000, il développe des activités expérimentales comme le co-vedette avec des idoles.
-- **Anecdote** : Le fait de « dépecer un poulet » lors d'un spectacle live a suscité un énorme débat dans les médias étrangers et a été traité comme un scandale social.
+- **Anecdote** : Le fait de « dépecer un poulet » lors d'un spectacle live a provoqué un énorme débat dans les médias étrangers et a été traité comme un scandale social.
 
 | Albums | Caractéristiques | Liens |
 |--------------|------|--------------|

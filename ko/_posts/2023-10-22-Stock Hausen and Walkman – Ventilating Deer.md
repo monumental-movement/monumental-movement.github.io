@@ -10,29 +10,29 @@ tags:
 - Experimental
 - Collage
 - 10inch
-title: Stock, Hausen & Walkman – 환기 사슴
+title: Stock, Hausen & Walkman – Ventilating Deer
 ---
 
 
-Stock, Hausen & Walkman(스톡, 하우젠 & 워크맨)은 90년대를 대표하는 영국의 샘플링 콜라주 음악 유닛이다.
+Stock, Hausen & Walkman (스톡, 하우젠 & 워크맨)은 90년대를 대표하는 UK 샘플링 콜라주 뮤직 유닛.
 
-밴드 이름인 Stock, Hausen & Walkman(1991-2001)은 일렉트로닉 음악의 선구자인 Karlheinz Stockhausen, 80년대 대량 생산 팝 아티스트 Stock Aitken Waterman 및 Sony의 Walkman에 대한 희곡입니다.
+스톡, 하우젠 & 워크맨(1991-2001)이라는 밴드명은 전자 음악의 선구자인 칼하인츠 슈톡하우젠, 80년대 양산형 팝스를 다룬 스톡 에이트킨 워터맨, 그리고 소니의 워크맨을 곱한 것이다.
 
-1980년대 후반에 처음 결성되었을 때 그들은 Matt Wand(밴드의 대부이자 창립자)와 기타리스트 Rex Caswell로 구성된 실험적인 즉흥 연주 듀오였습니다.
+결성 당초의 1980년대 후반은, 매트 완드(밴드명부모 및 창설자)와 기타리스트의 렉스 카스웰에 의한 실험 즉흥 듀오였습니다.
 
-활동 기간 동안 첼리스트 Dan Weaver와 드러머 Richard Harrison, Andrew Sharpley가 라이브 공연과 스튜디오에 참여했습니다.
+활동 중에는 첼로의 댄 위버, 드러머 리처드 해리슨, 앤드류 샤프리 등이 라이브와 스튜디오에서 참가.
 
-1990년에는 데릭 베일리의 요청으로 '컴퍼니 위크'에도 출연했다.
+1990년에는 데렉 베일리의 요청으로 '컴퍼니 위크'에도 출연.
 
-Caswell이 덴마크로 이주하고 Weaver가 댄스와 연극 작업으로 인해 녹음을 중단한 후에도 Wand는 계속 작업하여 아마도 가장 성공적인 앨범인 Organ Transplants vol. 1 & 2. Sharpley는 음악적으로도 기여했습니다.
+카스웰이 덴마크로 이주하고 위버가 댄스나 연극 일로 녹화 휴지가 된 뒤에도 완드를 중심으로 활동은 이어 아마 가장 성공한 앨범 'Organ Transplants vol.1 & 2'가 제작됐다. 샤프리도 음악면에서 공헌하고 있다.
 
-Wand는 S,H&W 레코드를 홍보하기 위해 Hot Air Records를 설립 및 운영했으며 자신의 작품은 물론 레이블에 있는 다른 아티스트의 작품도 폭넓게 발표했습니다.
+완드는 S, H&W 레코드를 세상에 내놓기 위해 Hot Air Records를 설립·운영하고, 이 라벨에서 자신들의 작품뿐만 아니라 다른 아티스트의 작품도 폭넓게 발매했다.
 
-현재 그는 레이블을 계속 운영하며 앨범의 기획, 디자인, 프로듀싱을 담당하고 있다.
+현재도 라벨을 이어 앨범 기획, 디자인, 프로듀스를 하고 있다.
 
-프로젝트는 2001년에 종료되었지만 Wand는 Hot Air에서 "흥미로운" S, H&W 아카이브 자료를 계속해서 공개하고 있습니다.
+2001년에 프로젝트는 종료되었지만, 완드는 Hot Air로부터 「흥미로운」S, H&W의 아카이브 머티리얼을 계속 릴리스하고 있다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Sleep
 
@@ -57,5 +57,5 @@ B5. Flagging
 
 [メルカリで購入](https://jp.mercari.com/item/m86169877187?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/maYl0-KHSl0?si=ujk3exYDzMOCpngl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

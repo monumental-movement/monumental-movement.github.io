@@ -11,15 +11,15 @@ tags:
 - Euro House
 - Garage House
 - 90s
-title: Technotronic - Trip On This(리믹스)
+title: Technotronic – Trip On This (The Remixes)
 ---
 
 
-Technotronic은 1989년 싱글 "Pump Up the Jam"으로 가장 잘 알려진 Jo Bogaert가 결성한 벨기에 전자 음악 프로젝트입니다.
+Technotronic(테크노트로닉)은, 1989년의 싱글 「Pump Up the Jam」으로 잘 알려진, Jo Bogaert에 의해 결성된 벨기에의 일렉트로닉 뮤직 프로젝트.
 
-이 CD는 Shep Pettibone, David Morales, The Dust Brothers, New Order의 Bernard Sumner, Todd Terry, Junior Vasquez 등의 Technotronic 노래 리믹스 앨범입니다.
+이 CD는 Technotronic의 곡을 Shep Pettibone, David Morales, The Dust Brothers, New Order의 Bernard Sumner(버나드 샘너), Todd Terry, Junior Vasquez 등이 remix한 리믹스 앨범.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Techno Medley (Pettibone Mix)
 2. Spin That Wheel (Morales Spinster Mix)
@@ -34,5 +34,5 @@ Technotronic은 1989년 싱글 "Pump Up the Jam"으로 가장 잘 알려진 Jo B
 
 [メルカリで購入](https://jp.mercari.com/item/m97501269813?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BqB2vqkvAMA?si=73TbJTf6CN_vqubP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

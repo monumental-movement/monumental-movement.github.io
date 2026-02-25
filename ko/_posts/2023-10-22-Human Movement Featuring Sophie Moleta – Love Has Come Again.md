@@ -9,17 +9,17 @@ permalink: /ko/human-movement-featuring-sophie-moleta-love-has-come-again/
 tags:
 - House
 - Tech House
-title: 소피 몰레타(Sophie Moleta)가 출연하는 휴먼 무브먼트 - 사랑이 다시 찾아왔습니다
+title: Human Movement Featuring Sophie Moleta – Love Has Come Again
 ---
 
 
-Human Movement는 영국 채널 제도(Jersey Island) 출신의 Marc Mitchell과 Paul Mack의 프로젝트입니다.
+Human Movement는, UK의 채널 제도(저지섬) 출신의 Marc Mitchell와 Paul Mack에 의한 프로젝트.
 
-"Love Has Come Again"은 2001년 영국 프로그레시브 하우스 레이블인 Renaissance에서 발매되었습니다.
+「Love Has Come Again」은 UK의 프로그레시브 하우스 라벨 Renaissance보다 2001년에 릴리스.
 
-Remix는 Pet Shop Boys 등의 리믹스 작업을 해온 Brooklyn 출신 DJ Angel Moraes의 작품입니다.
+Remix는 Pet Shop Boys(애완동물 숍 보이즈)등의 리믹스를 다루고 있던, 브루클린 출신의 DJ Angel Moraes.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Love Has Come Again (Angelstereomix)
 
@@ -32,5 +32,5 @@ B2. Love Has Come Again (Angel Moraes Wah Dub)
 
 [メルカリで購入](https://jp.mercari.com/item/m81279883404?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/InSMtyCQbAY?si=khL9KAwv6hwDn28X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

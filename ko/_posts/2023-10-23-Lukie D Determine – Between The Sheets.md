@@ -10,15 +10,15 @@ tags:
 - Reggae
 - Rare
 - 7inch
-title: Lukie D 결정 – 시트 사이
+title: Lukie D Determine – Between The Sheets
 ---
 
 
-Isley Brothers의 "Between the Sheets"는 자메이카 댄스홀 씬을 대표하는 가수 Lukie D & Define이 커버했습니다.
+The Isley Brothers(아이슬리 브라더스)의 「Between the Sheets」를 자메이카의 댄스 홀 씬을 대표하는 싱어 Lukie D(루키 D) & Determine가 커버.
 
-B면은 자메이카 레게이자 가스펠 가수인 Chevelle Franklin의 "Got To Be Real"입니다. Chevelle Franklyn은 2010년 그래미상 최우수 현대 가스펠 앨범 부문을 수상했습니다.
+B면은 자메이카 출신의 레게 & 가스펠 가수 Chevelle Franklyn (셰벨 프랭클린)의 "Got To Be Real". Chevelle Franklyn은 2010년 그래미상 최우수 현대 고스펠 앨범상을 수상.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Lukie D/ Determine – Between The Sheets
 
@@ -27,5 +27,5 @@ B. Chevelle Franklyn –Got To Be Real (Version)
 
 [メルカリで購入](https://jp.mercari.com/item/m56561423059?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xRMYAeqCPzM?si=TQ5jM_WuL6aodJ9P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

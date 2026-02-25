@@ -11,17 +11,17 @@ tags:
 - Rock
 - Pop
 - 80s
-title: 펄 브라더스 - 철모의 여인
+title: 진주 형제 Pearl Bros. – 철 딱정벌레 여자
 ---
 
 
-펄 브라더스는 1983년 결성돼 1986년 데뷔한 일본의 록 유닛이다. 밴드 멤버들은 '형제'로 설정됐다.
+펄 형제는, 1983년 결성해, 1986년 데뷔한 일본의 락 유닛. 밴드 멤버가 「형제」인 설정으로 하고 있다.
 
-멤버로는 사에키 겐조, 쿠보타 하루오, 스즈키 바카본, 마츠나가 토시야, 야시로 츠네히코 등이 있다.
+멤버는 사에키 켄조(사에키 켄조), 쿠보타 하루오, 바카본 스즈키, 마츠나가 슌야, 야시로 츠네히코 등.
 
-"Tetsu Kabuto no Onna"는 1986년 Polydor Records에서 발매된 Pearl Brothers의 첫 번째 싱글입니다. 재킷 일러스트는 Shiriagari Kotobuki가 담당했습니다. 프로듀서는 오카다 토루.
+「철 카부토의 여자」는, 1986년에 폴리돌 레코드로부터 릴리스된 펄 형제의 1st 싱글. 재킷의 일러스트는 시리 아가리 스. 프로듀서는 오카다 토오루.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. 鉄カブトの女
 
@@ -31,7 +31,7 @@ B2. ◯。◯◯◯娘 (サエキ用カラオケ)
 
 [メルカリで購入](https://jp.mercari.com/item/m67375489466?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zI1Dq9i9nw0?si=lWyVFpOuRWX105TN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-3mb1CUdbWs?si=mVpzprXl3VtNwUQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

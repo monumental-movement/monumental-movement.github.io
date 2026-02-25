@@ -14,7 +14,7 @@ title: Marco Bailey et rousse – 2 3
 ---
 
 
-Un morceau Techno sorti par Marco Bailey et Redhead (Steve Vangilbergen), un duo de DJ incontournable du monde techno belge, sur le label Invasion en 2000.
+Un morceau Techno sorti en 2000 sur le label Invasion par Marco Bailey et Redhead (Steve Vangilbergen), un duo de DJ incontournable du monde techno belge.
 
 #### Liste des chansons
 ```md

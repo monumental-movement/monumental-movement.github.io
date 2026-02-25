@@ -70,7 +70,7 @@ Ces **troubles créent en fait de l'attachement**.
 
 ## Chapitre 2 : Souvenirs dans le bruit -- Analogique et nostalgie
 
-Au moment où l'aiguille tombe, il y a un bruit « sah ».
+Le bruit sourd au moment où l'aiguille tombe.
 Pour une raison quelconque, beaucoup de gens se sentent nostalgiques rien qu’en l’écoutant.
 
 Ce phénomène est psychologiquement appelé « effet Proust ».
@@ -109,7 +109,7 @@ Friedrich Kittler l'a déclaré dans « Media Archaeology ».
 Alors que le son évolue de « l'enregistrement » à la « lecture »,
 Le disque reste le seul support permettant de toucher le temps.
 
-Lorsque vous posez l’aiguille, elle émet un son et lorsque vous la relevez, le silence revient.
+Lorsque vous posez l’aiguille, elle émet un son, et lorsque vous la relevez, le silence revient.
 Au sein de ce mécanisme simple, il y a un **dialogue entre le temps et le corps**.
 
 ---

@@ -44,7 +44,7 @@ color: #fff;
 
 ## Kapitel 1: Das Wunder der Zusammenarbeit – Eno und Cale, die Schnittstelle zweier Gehirne
 
-In den 1970er Jahren verließ Eno Roxy Music und wurde zu einem führenden Anbieter experimenteller Musik.
+In den 1970er Jahren verließ Eno Roxy Music und wurde zu einem führenden Vertreter der experimentellen Musik.
 John Cale hingegen hatte den Einfluss des Velvet Underground verlassen und schwankte zwischen Klassik und Avantgarde.
 In den 1980er Jahren fühlten sich die beiden distanziert voneinander, trafen sich aber schließlich 1990 in einem Londoner Studio.
 
@@ -75,7 +75,7 @@ Klanglich ist Enos charakteristisches, sanftes Ambiente von Cales melodischer Ab
 > Mit meinem Bleistift, der Momente in Linien verwandelt…“
 
 Die Melodie ist wie eine „Erinnerungsskizze“.
-Dieses Album war ein Vorläufer von Enos „Environmental Pop“-Bewegung ab den 1990er Jahren und wurde von den Klängen von Coldplay und Moby übernommen.
+Dieses Album war ein Vorläufer von Enos „Environmental Pop“ ab den 1990er Jahren und wurde von den Klängen von Coldplay und Moby übernommen.
 „Falscher Aufstieg“ kann sich auf den Weg beziehen, den wir einschlagen, von dem wir glauben, dass er der richtige Weg ist.
 
 ---
@@ -118,7 +118,7 @@ Es handele sich um „durchsichtige Ungeduld“.
 Beide haben in ihrer tropischen Helligkeit einen Hauch von Angst.
 
 Obwohl die rhythmische Struktur von „Wrong Way Up“ elektronisch ist, erweckt sie den Eindruck von „menschlichem Atmen“.
-Der Beach-Soundtrack erkundet ebenfalls die Balance zwischen Club-Beats und natürlichen Klängen.
+Der Beach-Soundtrack erforscht ebenfalls die Balance zwischen Club-Beats und natürlichen Klängen.
 Das zugrunde liegende Thema ist die „Schnittstelle zwischen Natur und Technologie“ und die Idee von **Ambient = Landscape of Mind**, die Eno seit den 1980er Jahren vertritt.
 
 > „Die Idee von Ambient-Musik besteht darin, einem das Gefühl zu geben, Teil einer Landschaft zu sein, die möglicherweise nicht existiert.“ — Brian Eno

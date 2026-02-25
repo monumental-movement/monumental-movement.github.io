@@ -23,7 +23,7 @@ title: 麗貝卡——時間
 歌曲《從未告訴過你但我愛你》是
 電影《美越少年》主題曲《MONOTONE BOY》的聯曲。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. When A Woman Loves A Man
 A2. Lonely Butterfly
@@ -37,7 +37,7 @@ B3. White Sunday
 B4. Never Told You But I Love You
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m74901266311?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m74901266311?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IHuMjO9g0Bw?si=xg7jMwRxFEGpTRiP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

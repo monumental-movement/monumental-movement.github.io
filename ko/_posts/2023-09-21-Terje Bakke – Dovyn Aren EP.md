@@ -13,12 +13,12 @@ title: Terje Bakke – Dovyn Aren EP
 ---
 
 
-"Terje Bakke – Dovyn Aren EP"는 노르웨이 테크노 프로듀서 Terje Bakke의 EP입니다.
+Terje Bakke – Dovyn Aren EP는 노르웨이 출신의 테크노 프로듀서 테리예 바케(Terje Bakke)의 EP입니다.
 
-Dovyn Aren EP는 그의 걸작 중 하나로, 그의 시그니처 스타일과 음악적 비전을 어둡고 춤추기 좋은 비트와 진화하는 신디사이저 사운드로 강조합니다.
+Dovyn Aren EP는 그의 대표작 중 하나로, 다크하고 춤추기 쉬운 비트, 진화하는 신디사이저의 사운드 등, 그 특징적인 스타일과 음악적인 비전이 두드러집니다.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A  Rabanne
 

@@ -61,7 +61,7 @@ color: #fff;
 |------|--------------|--------------|
 | Vous êtes couleur naturelle | Eiichi Otaki | Monument pop de la ville |
 | Étincelle | Tatsuro Yamashita | Son urbain sophistiqué |
-| Septembre | Mariya Takeuchi | Pop AOR légère |
+| septembre | Mariya Takeuchi | Pop AOR légère |
 | Numéro de téléphone | Miki Matsubara | Des chefs-d'œuvre réévalués à l'étranger |
 | L'amour parle | Tatsuro Yamashita | Fusion d'éléments de boogie |
 | Centre-ville | Bébé de sucre | Origine de la pop urbaine |
@@ -204,3 +204,13 @@ color: #fff;
 ## Icône culturelle mondiale
 
 Le son Shibuya-kei est né dans les années 1990 et est devenu une icône culturelle mondiale et continue depuis d’influencer la scène musicale japonaise sous diverses formes. Actuellement, il est réévalué grâce à la génération Internet et entre dans une nouvelle phase à son croisement avec la city pop et la K-POP.
+
+---
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IlhT1IOwb9U?si=7ib4PYpqUf0c0aBC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

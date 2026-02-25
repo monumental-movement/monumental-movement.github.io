@@ -16,7 +16,7 @@ title: VA - Chica tanque
 ---
 
 
-Banda sonora de la película de ciencia ficción post-apocalíptica ``Tank Girl'' dirigida por Rachel Talalay, que se estrenó en cines en 1995. Tank Girl es una adaptación en imagen real del cómic de culto del Reino Unido. La banda sonora fue montada por Courtney Love y Graeme Revell de SPK proporcionó la música original. Devo grabó una nueva versión de "Girl U Want" para la película porque era una gran fanática del cómic.
+Banda sonora de la película de ciencia ficción post-apocalíptica ``Tank Girl'' dirigida por Rachel Talalay, que se estrenó en cines en 1995. Tank Girl es una adaptación en imagen real de un cómic que tiene seguidores de culto en el Reino Unido. La banda sonora fue montada por Courtney Love y Graeme Revell de SPK proporcionó la música original. Devo grabó una nueva versión de "Girl U Want" para la película porque era una gran fanática del cómic.
 
 #### Lista de canciones
 ```md

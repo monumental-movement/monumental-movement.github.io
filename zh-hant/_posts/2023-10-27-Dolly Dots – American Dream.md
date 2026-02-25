@@ -15,7 +15,7 @@ title: 多莉點——美國夢
 
 Dolly Dots 是一個活躍於 20 世紀 70 年代末至 80 年代末的荷蘭女子組合。它不僅在荷蘭取得了成功，還在比利時、日本和土耳其取得了成功。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1.  (They Are) Rollerskating
 
@@ -42,7 +42,7 @@ B5. Hollywood
 B6. My Boyfriend's Back
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m95282929146?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m95282929146?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LCaV_cppcbM?si=MIH5qvFodmU0bWPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

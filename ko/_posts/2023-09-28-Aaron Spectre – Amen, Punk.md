@@ -9,15 +9,15 @@ permalink: /ko/aaron-spectre-amen-punk/
 tags:
 - Drum n Bass
 - Jungle
-title: 아론 스펙터 – 아멘, 펑크
+title: Aaron Spectre – Amen, Punk
 ---
 
 
-Aaron Specter는 드럼과 베이스, 정글 기반 사운드와 독특한 펑크 및 하드코어 요소를 혼합한 작업으로 유명한 미국의 프로듀서, DJ 및 아티스트입니다.
+Aaron Spectre는 미국의 프로듀서, DJ, 아티스트로, 드럼 베이스나 정글을 베이스로 한 사운드에 독자적인 펑크나 하드 코어의 요소를 융합시킨 작품으로 알려져 있습니다.
 
-'아멘, 펑크(Amen, Punk)'라는 제목처럼 그의 음악은 드럼과 베이스의 기본이 되는 아멘 브레이크(Amen Break)라는 샘플 패턴을 접목하면서 펑크와 하드코어의 에너지와 거친 느낌을 표현하고 있다.
+"Amen, Punk"라는 타이틀에서도 알 수 있듯이 그의 음악은 아멘 브레이크(Amen Break)라고 불리는 드럼 기반의 기초가 되는 샘플 패턴을 도입하면서 펑크나 하드코어의 에너지와 거칠기를 표현하고 있습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. 1600 Penn, FTW
 
@@ -27,7 +27,7 @@ B2. You Don't Know
 
 [メルカリで購入](https://jp.mercari.com/item/m37597646129?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W0BRmZ-Bom8?si=fxjs9-XPDNQ4UwBT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gxS--2VawJ8?si=Ulgn9hh04ay2rmj_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

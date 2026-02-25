@@ -30,7 +30,7 @@ Son évolution a été incroyable, avec de nombreuses branches allant de la jung
 
 **• 1990-1993 : Mouvement Jungle**
 
-Les racines de D&B se situent dans le genre jungle. C'était une musique rythmée chaotique, un mélange d'acid house, de rave, de hip-hop et de reggae, et centrée autour d'un échantillonnage d'Amen Break.
+Les racines de D&B se situent dans le genre jungle. Il s'agissait d'une musique rythmique chaotique, un mélange d'acid house, de rave, de hip-hop et de reggae, centrée sur un échantillonnage d'Amen Break.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qwQLk7NcpO4?si=WwRny_YujM-qOSWR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -135,7 +135,7 @@ Un sous-genre influencé par la mi-temps et le dubstep. Excision, liaison descen
 
 **Hospital Records (Tony Colman alias London Elektricity)** : La maison du funk liquide.
 
-**Ram Records (Andy C)** : leader du marché grand public.
+**Ram Records (Andy C)** : leader du grand public.
 
 **Shogun Audio (Friction)** : prend en charge un large éventail de styles.
 
@@ -187,6 +187,6 @@ Actuellement, D&B règne comme la base de la bass music dans le monde. Les scèn
 
 ### Drum & Bass est le « battement de cœur de la ville »
 
-La Drum & Bass est bien plus que de la musique de club. C’est le rythme de l’anxiété, de l’espoir, de la vitesse, de la tension et de la résistance des habitants de la ville.
+La Drum & Bass est bien plus que de la simple musique de club. C’est le rythme de l’anxiété, de l’espoir, de la vitesse, de la tension et de la résistance des habitants de la ville.
 
 Cette musique connecte, bouge et fait réfléchir dans une société divisée. Une fois que vous tomberez amoureux du rythme, D&B commencera à couler en vous.

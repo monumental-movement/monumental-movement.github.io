@@ -23,7 +23,7 @@ Es gibt eine Reihe von Elementen, die den amerikanischen Westküsten-Hip-Hop in 
 Dr. Dre-Produktion, P-Funk-inspirierte Synthesizer-Schwellungen, dicke Basslinien und sanfte Sanftheit.
 Aber die Stimme von **Nate Dogg (richtiger Name Nathaniel Dwayne Hale, 1969-2011)** hat eine besondere Bedeutung.
 
-Seine Gesangsstimme ist weder Rap noch R&B, sondern liegt irgendwo dazwischen und unterscheidet sich dennoch von beiden.
+Seine Singstimme ist weder Rap noch R&B, sondern irgendwo dazwischen und doch anders als beides.
 Die trockene Textur und Tiefe des Basses, die Dicke und Geschmeidigkeit stammen aus der Gospelmusik. Er hat die Rolle, die „Songs“ im Hip-Hop spielen können, revolutioniert und beeinflusst bis heute viele Künstler.
 
 Vor allem wurde er als Künstler anerkannt, der stärker war als alle anderen, wenn er den Hook singen konnte, und zu dieser Zeit bei fast jedem in der Westküstenszene gefragt war.
@@ -56,7 +56,7 @@ Alle drei hatten Erfahrung als Sänger in der Kirche, und insbesondere Nate Dogg
 Diese Grundlage des Gospelgesangs hatte entscheidenden Einfluss auf seinen späteren Stil.
 Obwohl ihre Stimme linear und wenig Vibrato war, hatte sie eine tiefe Resonanz und ein Rhythmusgefühl, das von Natur aus in ihrem Körper verwurzelt war.
 
-### Beitritt zu den Marines
+### Beitritt zum Marine Corps
 
 Nach seinem High-School-Abschluss meldete sich Nate Dogg zum US Marine Corps und wurde nach etwa drei Jahren Dienst entlassen.
 Diese Erfahrung veränderte seine Lebensumstände, aber es war auch eine Zeit, die ihn im Wesentlichen dazu zwang, nach Long Beach und zur Musik zurückzukehren.
@@ -70,7 +70,7 @@ Das ist **213 (zwei eins drei)**.
 Der Name leitet sich von der Vorwahl 213 von Long Beach ab und spiegelt deutlich ihre lokale Identität wider.
 
 Lokale Aufnahmen aus dieser Zeit zeigten bereits, dass Nate Doggs Gesangsstimme sich von den Rappern um ihn herum abhob.
-Seine Stimme erinnerte an die Straße, und indem er die Melodie sang, verlieh er dem gesamten Lied ein angenehm schwebendes Gefühl.
+Seine Stimme klang wie eine Straße, und indem er die Melodie sang, verlieh er dem gesamten Lied ein angenehm schwebendes Gefühl.
 Dieser Stil sollte später zum Kern der Gastspielkultur werden.
 
 ---
@@ -190,7 +190,7 @@ Insbesondere Snoop Dogg und Warren G haben gesagt, dass ihr Sound ohne Nate Dogg
 
 ---
 
-## 10. Nate Dogg-Zeitleiste
+## 10. Nate Dogg Chronologie
 
 <div class="mermaid">
 timeline
@@ -249,7 +249,7 @@ Ohne seine Stimme wäre das goldene Zeitalter des Westküsten-Hip-Hops nicht den
 Nate Dogg war kein Rapper.
 Aber es blieb Teil des zentralsten Hip-Hop-Sounds.
 
-Er bewegte sich zwischen den Genres und gab dem Beat gleichzeitig eine solide Grundlage.
+Er bewegte sich zwischen den Genres und gab dem Beat gleichzeitig ein solides Fundament.
 Es gibt niemanden sonst mit einer Stimme, die Süße und Härte, Sanftheit und Straßenmusik in Einklang bringt.
 
 **Nate Dogg ist ein Symbol für G-Funk und eine Stimmrevolution in der Hip-Hop-Geschichte. **

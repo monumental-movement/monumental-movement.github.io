@@ -9,14 +9,14 @@ permalink: /ko/glow-i-am-gonna-be/
 tags:
 - House
 - Euro House
-title: 글로우 - 나는 될거야
+title: Glow – I Am Gonna Be
 ---
 
 
-'나는 될 거야'는
-이탈리아 레이블 "DUE Records"가 1997년에 발매한 Glow의 EP입니다.
+"I Am Gonna Be"는
+1997년에 이탈리아의 라벨 「DUE Records」로부터 발매된 Glow에 의한 EP입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. I Am Gonna Be (M.V.S. Remix)
 
@@ -27,5 +27,5 @@ B. I Am Gonna Be (Glow Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m91456308602?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ktHmAr-ut0w?si=flnOSvKJDeYHpQqv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

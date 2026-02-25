@@ -9,15 +9,15 @@ permalink: /ko/funkadelic-standing-on-the-verge-of-getting-it-on/
 tags:
 - Funk
 - Soul
-title: Funkadelic - 시작 직전에 서 있음
+title: Funkadelic – Standing On The Verge Of Getting It On
 ---
 
 
-"Standing on the Verge of Getting It On"은 미국 펑크 밴드 Funkadelic의 앨범입니다. 이 앨범은 1974년 발매됐다. 펑카델릭(Funkadelic)은 조지 클린턴(George Clinton)이 이끄는 그룹으로, 사이키델릭한 펑크 사운드와 실험적인 접근이 특징인 음악으로 알려져 있다.
+'Standing on the Verge of Getting It On'은 미국의 펑크 밴드, 팬카데릭(Funkadelic)의 앨범입니다. 이 앨범은 1974년에 출시되었습니다. 팬카데릭은 조지 클린턴(George Clinton)이 이끄는 그룹으로, 그들의 음악은 환각적인 펑크 사운드와 실험적 접근법으로 유명합니다.
 
-펑카델릭의 여섯 번째 정규 앨범으로, 그룹 특유의 펑크 사운드와 소울풀한 보컬이 특징이다. 생생한 기타 리프와 그루비한 베이스 라인, 묵직한 드럼 패턴 등 펑카델릭 특유의 사운드가 돋보이는 앨범이다.
+팬카데릭의 여섯 번째 스튜디오 앨범으로 그룹의 특징적인 펑크 사운드와 소울 풀 보컬을 특징으로 합니다. 앨범은 선명한 기타 리프, 그루비한 기준선, 중후한 드럼 패턴 등 팬카데릭의 특유의 사운드를 즐길 수 있습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Red Hot Momma
 
@@ -36,5 +36,5 @@ B3. Good Thoughts, Bad Thoughts
 
 [メルカリで購入](https://jp.mercari.com/item/m49054881048?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LGgeWEPhPpo?si=iZTpDybPlEOnmxiN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

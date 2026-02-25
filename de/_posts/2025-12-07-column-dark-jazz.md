@@ -68,7 +68,7 @@ Obwohl es mehrere Mitgliederwechsel gab, sind die folgenden Punkte gleich geblie
 - In den 1990er Jahren wandte er sich dem Ansatz zu, „Jazz in einem extrem langsamen Tempo zu spielen“.
 - Tim Bruns (Schlagzeug), Mickey Kohlmeyer (Klavier/Orgel), Robin Schuller (Bass), Christoph Kloser (Saxophon/Klavier) und andere spielen Schlüsselrollen.
 
-Musikalisch besteht die größte Besonderheit darin, dass es das Tempo des Doom Metal, die Instrumentierung des Jazz und die Räumlichkeit der Filmmusik vereint.
+Musikalisch ist die größte Besonderheit, dass es das Tempo des Doom Metal, die Instrumentierung des Jazz und die Räumlichkeit der Filmmusik vereint.
 
 Repräsentative Werke:
 
@@ -231,7 +231,7 @@ Als „Musik, die Atmosphäre schafft“ wird sie immer weiter ausgebaut.
 
 ## 9. Wohin entwickelt sich der Dark Jazz?
 Mit der Verbreitung von KI-generierten Videos, VJ-Software und Indie-Spielen
-Wir sind in eine Ära eingetreten, in der Bild und Ton in einem Atemzug gesprochen werden.
+Wir befinden uns jetzt in einer Zeit, in der Bild und Ton in einem Atemzug gesprochen werden.
 
 Aufgrund der Natur des Dark Jazz, der „langsam ist und viele Leerstellen aufweist“
 Man geht davon aus, dass es durch die Vermischung mit Bildern weiterhin einen neuen Wert erhält.

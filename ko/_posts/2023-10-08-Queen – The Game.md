@@ -9,17 +9,17 @@ permalink: /ko/queen-the-game/
 tags:
 - Rock
 - Pops
-title: 퀸 – 게임
+title: Queen – The Game
 ---
 
 
-"The Game"은 퀸의 여덟 번째 정규 앨범으로, 밴드 음악 스타일의 진화와 다양성을 보여준다. 이번 앨범에는 전통적인 록 사운드 외에도 디스코, 펑크 등의 요소를 접목한 곡들도 수록됐다.
+The Game은 여왕의 여덟 번째 스튜디오 앨범으로 밴드 음악 스타일의 진화와 다양성을 보여줍니다. 이 앨범에는 기존의 록 사운드 외에도 디스코와 펑크 등의 요소를 도입한 곡도 포함되어 있습니다.
 
-앨범에는 퀸의 대표곡 'Another One Bites the Dust', 'Crazy Little Thing Called Love' 등 다수의 히트곡이 수록됐다. 이 곡들은 팝적인 멜로디와 중독성 있는 후렴구가 특징으로 폭넓은 청취자들의 사랑을 받았습니다.
+앨범에는 퀸의 대표곡으로 알려진 'Another One Bites the Dust'나 'Crazy Little Thing Called Love' 등 수많은 히트곡이 수록되어 있습니다. 이 노래는 팝 멜로디와 캐치 리프레인이 특징이며 넓은 레이어 청취자에게 사랑 받았습니다.
 
-이 앨범은 퀸 음악의 다양성과 창의성을 구현하며 밴드의 커리어에서 중요한 위치를 차지한다. "The Game"은 퀸 팬들과 록 음악 애호가들로부터 퀸의 걸작 중 하나로 높은 평가를 받고 있습니다.
+이 앨범은 퀸 음악의 다양성과 창의성을 구현하며 밴드 경력에서 중요한 위치를 차지합니다. 'The Game'은 퀸 팬들과 록뮤직 애호가들에게 그들의 대표작 중 하나로 높은 평가를 받고 있습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Play The Game
 
@@ -44,5 +44,5 @@ B5. Save Me
 
 [メルカリで購入](https://jp.mercari.com/item/m30325124043?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8Z9eHciHgDE?si=qdn5Z3frKYtz5Soj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

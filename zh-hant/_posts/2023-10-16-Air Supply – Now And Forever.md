@@ -9,7 +9,7 @@ permalink: /zh-hant/air-supply-now-and-forever/
 tags:
 - Rock
 - Soft Rock
-title: 空氣供應——現在和永遠
+title: 空氣供應－現在和永遠
 ---
 
 
@@ -17,7 +17,7 @@ Air Supply 於 1981 年發行的專輯《Now and Forever》是他們最成功的
 
 尤其是《連夜都更好（再見孤獨的愛）》、《世界上少了兩個孤獨的人》等單曲在包括美國和日本在內的全球範圍內大受歡迎。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Now And Forever
 
@@ -40,7 +40,7 @@ B4. She Never Heard Me Call
 B5. What Kind Of Girl
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m66371881166?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m66371881166?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mk5cU2vkca0?si=Agp8c9ea6WICiYuZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

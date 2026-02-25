@@ -83,7 +83,7 @@ Fue muy elogiada como una idea que trasciende las fronteras entre el arte y la c
 ### 2.2 2017: Investigación sobre el “reproductor de música vaginal”
 
 En 2017, un estudio del **Institut Marquès** de Barcelona, ​​España
-Ganó el Premio Ig Nobel de Medicina.
+Ganador del Premio Ig Nobel de Medicina.
 Este equipo desarrolló un **altavoz intravaginal** llamado "Babypod",
 Investigamos cómo responden los fetos a los estímulos musicales en el útero.
 

@@ -53,7 +53,7 @@ Después de la Segunda Guerra Mundial, el desarrollo de la cinta magnética y lo
 - música concreta (1948-) de Pierre Schaeffer.
 
 ### Obras representativas
-- Obras de Pierre Henri y Tod Dockstader.
+- Obras de Pierre Henry y Tod Dockstader.
 
 ### Equipo/Tecnología
 - Edición de cintas (rotación inversa, looping, corte/empalme).
@@ -74,7 +74,7 @@ El rock se vuelve más experimental y el ruido se incorpora al contexto del rock
 
 ---
 
-## 4) Escena industrial y del ruido inicial (finales de los años 1970 – años 1980)
+## 4) Escena industrial y de ruido inicial (finales de los años 1970 – años 1980)
 ### Antecedentes históricos
 Una escena de ruido independiente nació de una reacción contra la música comercial.
 
@@ -154,4 +154,15 @@ Diversificación a través del renacimiento de los sintetizadores modulares y la
 ---
 
 ## Al final
-La música noise es siempre un desafío a la estética existente y un intento de ampliar los límites de la música. Desde los sonidos mecánicos de Russolo hasta los sintetizadores modulares, incluso después de más de 100 años de historia, la esencia de todos los instrumentos es "escuchar el sonido mismo".
+La música noise es siempre un desafío a la estética existente y un intento de ampliar los límites de la música. Desde los sonidos mecánicos de Russolo hasta los sintetizadores modulares, incluso después de más de 100 años de historia, su esencia radica en "escuchar el sonido mismo".
+
+---
+
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7RVUbywixfo?si=_AmKa_4dl_qCpxSb" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---

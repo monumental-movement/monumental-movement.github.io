@@ -9,15 +9,15 @@ permalink: /ko/elektrochemie-lk-gold/
 tags:
 - Techno
 - German Techno
-title: 전기화학 LK – 금!
+title: Elektrochemie LK – Gold!
 ---
 
 
-"금!" by Elektrochemie LK는 2001년 독일 레이블 Confused Recordings에서 발매되었습니다.
+Elektrochemie LK의 "Gold!"는 2001 년 독일 라벨 Confused Recordings에서 탄생했습니다.
 
-Elektrochemie LK는 Thomas Schumacher의 솔로 프로젝트 중 하나입니다.
+Elektrochemie LK는 Thomas Schumacher (토마스 슈마하)의 솔로 프로젝트 중 하나입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Schall (Album Version)
 
@@ -42,5 +42,5 @@ F2. Ein Nenner
 
 [メルカリで購入](https://jp.mercari.com/item/m11889088321?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qtUW27MbrPo?si=5r5viji9JCycXs76" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

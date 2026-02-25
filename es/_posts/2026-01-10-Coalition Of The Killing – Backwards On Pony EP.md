@@ -16,7 +16,7 @@ title: Coalition Of The Killing – Al revés en Pony EP
 
 Coalition Of The Killing (COTK) es un dúo de techno con sede en San Francisco formado por el DJ y productores de techno Jason Short y Marc Smith.
 
-Una pista Techno/Minimal lanzada en 2008 en Karloff Rekordings, un subsello de Sub Static, un sello alemán fundado por M.I.A. y Falko Brocksieper.
+Un tema Techno/Minimal lanzado en 2008 en Karloff Rekordings, un subsello de Sub Static, un sello alemán fundado por M.I.A. y Falko Brocksieper.
 
 #### Lista de canciones
 ```md

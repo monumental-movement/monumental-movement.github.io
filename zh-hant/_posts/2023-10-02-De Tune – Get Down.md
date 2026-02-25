@@ -14,7 +14,7 @@ title: De Tune – 下來
 
 《Get Down》是 De Tune 於 1995 年由 Groove On 廠牌發行的 EP。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Get Down (Club Mix)
 
@@ -27,7 +27,7 @@ B2. Get Down (Drums Til The End)
 B3. Get Down (On It Mix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m80710711719?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m80710711719?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4RBW3-rvSGw?si=1nSlICClEVXXUHwP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

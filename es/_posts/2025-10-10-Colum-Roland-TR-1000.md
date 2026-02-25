@@ -42,7 +42,7 @@ color: #fff;
 #### ── El incidente de la aparición del TR-1000
 
 El **TR-1000** lanzado por Roland en 2025 no es solo una extensión de la serie.
-808, 909, 707... Esta máquina que apareció al final de la historia, donde simbolizaban el ritmo de los tiempos, es una "máquina de ritmo intelectual" que aprende y reinterpreta "ritmos humanos".
+808, 909, 707... Esta máquina que apareció al final de la historia, donde simbolizaban el ritmo de los tiempos, es una "máquina de ritmo intelectual" que aprende y reinterpreta el "sentido humano del ritmo".
 
 En la década de 1980, los ritmos electrónicos se llamaban "latidos mecánicos". Sin embargo, lo que presenta el TR-1000 es todo lo contrario: **"una máquina entiende los latidos del corazón humano"**.
 Digital y analógico, IA y emociones. En esta frontera se encuentra la filosofía que Roland lleva medio siglo cultivando.
@@ -83,7 +83,7 @@ Capacidad de respuesta como si el ritmo fuera "respiración". Por eso Roland es 
 
 En el corazón del TR-1000 se encuentra una filosofía de diseño de gama baja.
 Se ha agregado un circuito único de control de armónicos y suboscilación al **circuito de generación de onda sinusoidal**, que continúa la tradición desde el 808.
-Como resultado, logramos una "baja frecuencia tridimensional" que combina la presión física y la textura del aire.
+Como resultado, hemos logrado una "baja frecuencia tridimensional" que combina la presión física y la textura del aire.
 
 La caja se construye utilizando un método de modelado de ruido + circuito discreto, y el charles se construye utilizando una fuente de ruido analógica que incluye un micro retardo de un minuto.
 Ha logrado una "coexistencia de realismo acústico y abstracción" que va más allá de la reproducción del 808/909.
@@ -143,6 +143,16 @@ La evolución del ritmo nunca termina.
 Y en el centro de todo esto siempre hay un ser humano. **
 
 ---
+
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fD7EXpX2ej0?si=ZIZG4vjHwn0XGhKi" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
 
 ### ▷ Cronología principal de la serie TR (Sirena)
 

@@ -76,7 +76,7 @@ Zu den repräsentativen Künstlern gehören **Tim Maia, Cassiano, Hyldon und Car
 | Tim Maia | 1960er-1998 | *Racional*, *Tim Maia Disco Club* | Souliger, funkorientierter Disco-Stil |
 | Cassiano | 1970er Jahre | *Realce* | Sanfter Funk, raffinierter Groove |
 | Hyldon | 1970er Jahre | *Na Rua, Na Chuva, Na Fazenda* | Funk x MPB, Club-Popularität |
-| Carlos Dafé | 1970er-1980er Jahre | *Brasilien Afrosamba* | Fusion aus Afro-Samba und Funk |
+| Carlos Dafé | 1970er-1980er Jahre | *Brasilien Afrosamba* | Afro-Samba und Funk-Fusion |
 
 ### 2-1. Tim Maia
 
@@ -117,7 +117,7 @@ timeline
 
 ## 4. Hintergrund der Neubewertung
 
-### 4-1. Sammler aus Übersee und der Markt für seltene Rillen
+### 4-1. Sammler aus Übersee und der Markt für seltene Grooves
 
 Seit den 1990er Jahren werden brasilianische Rare-Groove-Schallplatten zu hohen Preisen gehandelt, vor allem in Großbritannien und Japan. Insbesondere Cassianos *Realce* und Tim Maias frühe Disco-Werke erfreuten sich bei DJs und Sammlern im In- und Ausland großer Beliebtheit.
 

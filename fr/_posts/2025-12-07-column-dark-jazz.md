@@ -205,7 +205,7 @@ flowchart TD
 - Soirées piano (2014)
 
 ### ● L'Ensemble Kilimanjaro Darkjazz
-- L'ensemble Kilimanjaro Darkjazz (2006)
+- L'Ensemble Kilimanjaro Darkjazz (2006)
 - Voici les dragons (2009)
 - De la cage d'escalier (2011)
 
@@ -231,7 +231,7 @@ Elle continue de se développer en tant que « musique qui crée une atmosphère
 
 ## 9. Où va le dark jazz ?
 Avec la diffusion de vidéos générées par l'IA, de logiciels VJ et de jeux indépendants,
-Nous sommes désormais dans une époque où les visuels et les sons sont évoqués dans le même souffle.
+Nous sommes entrés dans une ère où les visuels et les sons sont évoqués dans le même souffle.
 
 En raison de la nature du dark jazz, qui est « lent et comporte de nombreux espaces vides »,
 On pense qu’il continuera à avoir une nouvelle valeur en se mélangeant aux images.

@@ -116,7 +116,7 @@ La transformation de la voix en matériau est une expansion de l'expression et s
 
 ### 5-1. Identité et voix
 
-La voix reflète les caractéristiques physiques d'un individu, mais elle est facilement modifiée par les techniques de traitement. Cela permet aux artistes d’élargir leur éventail d’expression personnelle et aux auditeurs de mettre à jour leur conscience de la voix.
+La voix reflète les caractéristiques physiques d'un individu, mais elle est facilement modifiée par les techniques de traitement. Cela permet aux artistes d’élargir leur éventail d’expressions personnelles et aux auditeurs de mettre à jour leur conscience des voix.
 
 ### 5-2. Éthique de la performance et technologie de génération
 

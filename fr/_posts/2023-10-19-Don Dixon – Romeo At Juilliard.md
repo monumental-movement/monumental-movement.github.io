@@ -13,7 +13,7 @@ title: Don Dixon – Roméo à Juilliard
 ---
 
 
-Don Dixon est un producteur/compositeur/musicien américain. Dans les années 1970, il a été actif dans le groupe de rock de Caroline du Nord Arrogance et, à partir des années 1980, il a produit un certain nombre de groupes indépendants et a également participé à la production du groupe de rock alternatif américain R.E.M.
+Don Dixon est un producteur/compositeur/musicien américain. Années 1970 : Arrog ance (ア ラ ガ ン ス) dans les années 1980 États-Unisヴ・ロックバンドR.E.M.のプロデュースにも関わった.
 
 #### Liste des chansons
 ```md

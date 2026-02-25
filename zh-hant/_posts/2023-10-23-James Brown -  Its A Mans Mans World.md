@@ -10,7 +10,7 @@ tags:
 - Soul
 - Funk
 - 7inch
-title: 詹姆斯·布朗——這是男人的男人的世界
+title: 詹姆斯布朗－這是男人的男人的世界
 ---
 
 
@@ -20,14 +20,14 @@ title: 詹姆斯·布朗——這是男人的男人的世界
 
 這首歌在布朗的音樂生涯中佔有重要地位，被廣泛讚譽為靈魂樂和R&B經典。由於她深沉的歌聲和感人的信息，她至今仍然受到許多聽眾的喜愛。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. It's A Man's Man's World
 
 B. Papa's Got A Brand New Bag
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m26166401596?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m26166401596?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H77fRz1rybs?si=wYDOE_p_OCxvdEdm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -13,9 +13,9 @@ title: 克里斯洛 – 低 (Tresor092)
 ---
 
 
-Chrislo Haas 是一位德國音樂家，通過與 Minus Delta t、D.A.F.、CHBB/Liaisons Dangereuses 和 Crime & the City Solution 等樂隊合作製作合成器 (Korg MS-20)，對 20 世紀 80 年代的德國音樂界產生了重大影響，被認為是 techno 和現代電子舞曲的創始人之一。
+Chrislo Haas 是一位德國音樂家，透過與 Minus Delta t、D.A.F.、CHBB/Liaisons Dangereuses 和 Crime & the City Solution 等樂團合作製作合成器 (Korg MS-20)，對 20 世紀 80 年代的德國音樂界產生了重大影響，被認為是 techno 和現代電子舞曲的創始人之一。
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. La Chouette
 2. Hangars D'Orion
@@ -28,7 +28,7 @@ Chrislo Haas 是一位德國音樂家，通過與 Minus Delta t、D.A.F.、CHBB/
 9. L'Eau
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m45327854456?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m45327854456?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y2XjC1_VbIs?si=IVJ0kMUlXYkRKvhX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -120,7 +120,7 @@ Werke wie **African Head Charge**, **Dub Syndicate**, **New Age Steppers**,
 Es wird ein Ort sein, an dem sich jamaikanische spirituelle Wurzeln und europäischer Post-Punk-Geist kreuzen.
 
 Etwa zur gleichen Zeit wurde auch das **Ariwa Studio** von **Mad Professor** im Süden Londons eröffnet.
-Seine Dub Me Crazy-Serie war ein Klangabenteuer zwischen Technologie und Fantasy.
+Seine Dub Me Crazy-Serie war ein Klangabenteuer zwischen Technologie und Fantasie.
 
 ---
 
@@ -136,7 +136,7 @@ Zu seinen Nachfolgern gehören **Deepchord**, **Rhythm & Sound** und **Echospace
 Im Ambient-Bereich **The Orb**, **Bill Laswell**, **Kode9**, **Burial** und andere
 Er erkundete weiterhin den Dub-ähnlichen Raum.
 Burials „Untrue“ (2007)
-Es kann durchaus als **einsamer Dub des postdigitalen Zeitalters** bezeichnet werden.
+Es kann wahrlich als **einsamer Dub des postdigitalen Zeitalters** bezeichnet werden.
 
 ---
 
@@ -146,7 +146,7 @@ Das Wesentliche beim Überspielen ist nicht nur das Anwenden von Effekten.
 Die Idee besteht darin, durch die Reduzierung des Schalls einen neuen Raum zu schaffen.
 Es ist die Ästhetik des Mangels und die Idee der Reproduktion.
 
-- Den „Rändern“ des Klangs Bedeutung verleihen.
+- Dem „weißen Raum“ des Klangs Bedeutung geben.
 - Technologie als „improvisatorischen Ausdruck“ nutzen.
 - Neudefinition von „Original“ im Prozess der Reproduktion.
 
@@ -177,7 +177,7 @@ timeline
 
 ---
 
-## Diagramm: Struktur des Dove-Denkens
+## Diagramm: Struktur des Dub-ähnlichen Denkens
 
 <div class="mermaid">
 

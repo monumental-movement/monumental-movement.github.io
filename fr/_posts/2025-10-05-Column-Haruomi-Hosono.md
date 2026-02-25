@@ -59,12 +59,12 @@ Un ami a ajouté des effets sonores et des rires aux enregistrements, et son sen
 ### Chapitre 1 : Happy End - L'aube du rock japonais (1969-1972)
 
 #### Œuvre représentative : « Kazamachi Roman » (1971)
-Une œuvre monumentale qui dépeint pour la première fois l'atmosphère poétique de la ville de Tokyo dans le contexte du rock.
+Une œuvre monumentale qui dépeint pour la première fois l’atmosphère poétique de la ville de Tokyo dans le contexte du rock.
 Durant cette période, Hosono a joué un rôle important dans la composition musicale tout en jouant de la basse.
 Des chansons telles que « It's Summer » et « Gather the Wind » ont un son urbain mais nostalgique.
 
 #### Contexte historique
-En pleine croissance économique d’après-guerre.
+Au milieu d’une forte croissance économique après la guerre.
 Avec l'essor du folk et du GS, la recherche d'une nouvelle expression appelée « rock japonais » a commencé.
 Happy End a été le premier groupe à explorer « des rythmes japonais qui n'étaient pas des imitations de l'anglais ».
 
@@ -145,7 +145,7 @@ Le Japon après le choc pétrolier. Mon désir de voyages à l’étranger et de
 #### Environnement de production
 Enregistré à la maison/studio "HOSONO HOUSE" (Saitama, Sayama).
 Ils ont transformé le salon d'une maison en bois en studio et ont enregistré à l'aide d'une bande analogique et d'un simple mixeur.
-Ce style d'enregistrement à domicile est devenu l'origine de la culture pop urbaine et de l'enregistrement à domicile.
+Ce style d'enregistrement à domicile est devenu l'origine de la culture pop urbaine et de l'enregistrement à domicile plus tard.
 
 #### Anecdote
 Pendant l'enregistrement de "HOSONO HOUSE", le disjoncteur s'est déclenché à plusieurs reprises.
@@ -258,7 +258,7 @@ Pendant l'enregistrement, il a éteint le climatiseur et s'est concentré sur «
 
 #### Anecdote
 Quand l'ingénieur du son a arrêté de mixer pendant l'enregistrement de "HoSoNoVa",
-Hosono aurait déclaré : « J'aime la façon dont le son se repose. » Vous pouvez avoir un aperçu de son attention inhabituelle envers « l'espace » du son.
+Hosono aurait déclaré : « J'aime la façon dont le son repose. » Vous pouvez avoir un aperçu de son attention inhabituelle envers « l'espace » du son.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qeHTFlkBBcM?si=pM6PE5l2p5zEWcoy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

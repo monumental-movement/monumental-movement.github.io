@@ -46,7 +46,7 @@ Wir verfolgen, wie daraus ein einziger sinnlicher und philosophischer Trend wurd
 Minimalismus bedeutet nicht nur „Entkleiden“.
 Es ist ein Akt des Betrachtens der „Ewigkeit“, die in der kleinsten Klangeinheit steckt.
 Eine unendliche Fluktuation, die zwischen Stille und Rhythmus entsteht.
-In dieser Umgebung spüren Menschen „Präsenz“ durch Hören.
+In dieser Umgebung spüren Menschen „Präsenz“ durch das Hören.
 
 ---
 
@@ -67,7 +67,7 @@ color: #fff;
 ## Kapitel 1: Die Ursprünge der Minimal Music – Terry Riley und Steve Reich
 
 1964 wurde In C von Terry Riley uraufgeführt.
-Dieses Stück hatte eine beispiellose Struktur, wobei die Interpreten 53 kurze Notenmuster frei wiederholten.
+Dieses Stück hatte eine beispiellose Struktur, bei der die Interpreten 53 kurze Notenmuster frei wiederholten.
 Jede Phrase überlagert sich mit einer leichten Verschiebung und erzeugt so einen Klang, der scheinbar endlos anhält.
 Diese „freie Wiederholung“ ist eine Idee, die später zur elektronischen Musik und DJ-Kultur führen sollte.
 
@@ -166,7 +166,7 @@ Der akustische Raum wurde als „digitaler Minimalismus“ präsentiert.
 
 | Künstler | Hauptwerke | Funktionen |
 |------|------------|------|
-| Isao Tomita | 《Mondlicht》《Planet》 | Elektronische Klassik/akustische Verfeinerung |
+| Isao Tomita | 《Mondlicht》《Planet》 | Elektronische klassische Musik/akustische Verfeinerung |
 | Ryoji Ikeda | 《Dataplex》《Testmuster》 | Mathematischer/Frequenz-Minimalismus |
 | Alva Noto + Ryuichi Sakamoto | 《Vrion》《Summvs》 | Fusion von Elektroakustik und Klavier |
 | Rei Harakami | 《Red Curb》《lust》 | Warme Wiederholung der Lo-Fi-Elektronik |
@@ -206,3 +206,10 @@ Auch heute noch experimentiert er weiterhin „mit Klang und Zeit“.
 ---
 
 
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CQAkF9_1-vg?si=zdouZOhFWeMB7Xev" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

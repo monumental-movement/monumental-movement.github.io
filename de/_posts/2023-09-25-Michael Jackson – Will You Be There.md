@@ -13,7 +13,7 @@ title: Michael Jackson – Willst du da sein?
 ---
 
 
-„Will You Be There“ stammt aus dem 1991 erschienenen Album Dangerous der amerikanischen Popmusik-Ikone Michael Jackson.
+„Will You Be There“ stammt aus dem Album Dangerous der amerikanischen Popmusik-Ikone Michael Jackson aus dem Jahr 1991.
 
 „Will You Be There“ ist eine bewegende und epische Ballade mit religiösen Themen und einer hoffnungsvollen Botschaft. Michael Jacksons kraftvoller Gesang und sein emotionaler Ausdruck stechen hervor und machen diesen Song zu einem Song, der die Herzen der Zuhörer tief berührt.
 

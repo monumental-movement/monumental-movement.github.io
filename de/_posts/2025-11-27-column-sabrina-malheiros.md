@@ -23,7 +23,7 @@ title: '[Kolumne] Sabrina Malheiros: Die Brillanz des modernen brasilianischen S
 Text: mmr｜Thema: Wie sich die brasilianische Musik seit dem 21. Jahrhundert weiterentwickelt und neu verbunden hat, im Mittelpunkt steht die Musikgeschichte von Sabrina Mallheiros, ihre Beziehung zu Azimuth, die Entwicklung ihrer Arbeit und die Symbolik von „Clareia“.
 
 
-Während die brasilianische Musik weltweit immer wieder neu bewertet wird, ist Sabrina Mallheiros die Person, die die Sensibilitäten von Samba Soul, Funk, Bossa Nova und Neo-Soul flexibel kombiniert. Als Nachkomme von Azimuth, angeführt von Aza Mallheiros, wurden sie von Musikgemeinschaften in London, Japan und Europa begeistert unterstützt.
+Während die brasilianische Musik weltweit immer wieder neu bewertet wird, ist Sabrina Mallheiros die Person, die die Sensibilitäten von Samba Soul, Funk, Bossa Nova und Neo-Soul flexibel kombiniert. Als Nachkomme von Azimuth unter der Leitung von Aza Mallheiros wurden sie von Musikgemeinschaften in London, Japan und Europa begeistert unterstützt.
 
 Insbesondere ihr Album **Clareia** aus dem Jahr 2017 war der Moment, in dem ihre musikalische Welt am deutlichsten aufblühte.
 Sein Titeltrack „Clareia“** fand später neues Leben in der Underground-Dance-Community und brachte Remixe von Schlüsselfiguren des britischen Jazz/Broken Beat hervor, darunter **Henry Wu (Kamaal Williams)**, **2000 Black (Dego & Kaidi)** und **IG Culture**.
@@ -129,7 +129,7 @@ würdig, genannt zu werden.
 
 IG Culture ist eine Londoner Broken-Beat-Legende, deren musikalischer und kultureller Einfluss unermesslich ist.
 
-Die IG Culture-Version von „Clareia“ hat einen Rhythmus mit einem niedrigeren Schwerpunkt und einem starken gefühlvollen und straßenartigen Gefühl.
+Die IG Culture-Version von „Clareia“ hat einen niedrigeren Schwerpunktrhythmus und ein starkes Soul- und Street-Feeling.
 Der Beat ist nicht rau, sondern eher sanft, wodurch ein tiefes Klangbild entsteht, das Sabrinas Gesangsstimme umhüllt.
 
 Man kann sagen, dass es sich um das „untergründigste“ Finish mit einer kräftigen schwarzen Textur handelt.
@@ -230,3 +230,11 @@ In seinen zukünftigen Werken wird er weiterhin im Mittelpunkt der Verbindung br
 ---
 
 
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nGAtLk7x6sw?si=NtA_Y_rnX4N7f2QO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

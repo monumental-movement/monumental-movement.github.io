@@ -9,14 +9,14 @@ permalink: /ko/willie-stubz-the-industry-come-with-me/
 tags:
 - Hiphop
 - Gangsta
-title: Willie Stubz – 업계가 나와 함께 가요
+title: Willie Stubz – The Industry Come With Me
 ---
 
 
-“Willie Stubz – 업계가 나와 함께 가요”
-A면 1과 2에는 Musaliny와 N.O.R.E가 포함되어 있습니다. 모든 곡의 프로듀서는 SPK(SPKilla)이다. Hydra Entertainment가 앨범 "The Industry"를 위해 발매한 프로모션 버전입니다.
+"Willie Stubz – The Industry Come With Me"
+A면 1, 2곡째는 Musaliny와 N.O.R.E.를 피처링. 프로듀서는 전곡 SPK(SPKilla). 앨범 'The Industry'를 위해 Hydra Entertainment에서 출시된 promo반.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. The Industry (Clean)
 
@@ -33,5 +33,5 @@ B3. Come With Me (Instrumental)
 
 [メルカリで購入](https://jp.mercari.com/item/m69076614496?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P-7DpuvTU2I?si=_s1JjFd6w5eZyHTx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

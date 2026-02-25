@@ -9,13 +9,13 @@ permalink: /ko/dj-bam-bam-mr-big-foot/
 tags:
 - Techno
 - Hard House
-title: DJ Bam Bam - 미스터 빅풋
+title: DJ Bam Bam – Mr. Big Foot
 ---
 
 
-"Mr. Big Foot"은 시카고 스타일의 하드하우스 DJ이자 프로듀서인 DJ Bam Bam이 1998년 Underground Construction을 통해 발매한 하드하우스 테크노 트랙입니다.
+"Mr. Big Foot"는 1998 년 Underground Construction에서 출시 된 시카고 스타일의 하드 하우스 DJ 겸 프로듀서 DJ Bam Bam의 하드 하우스 테크노 트랙.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Da Hard Beats
 
@@ -30,5 +30,5 @@ B3. DJ Bam Bam Drops
 
 [メルカリで購入](https://jp.mercari.com/item/m57199645919?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NrxZvxHKaxY?si=SJ5RRiCgW1quLcPj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

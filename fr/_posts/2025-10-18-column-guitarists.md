@@ -21,7 +21,7 @@ title: '[Chronique] Des cordes qui transmettent directement des émotions et des
 
 Texte : mmr｜Thème : Expliquer les principaux guitaristes du monde et du Japon du point de vue de l'époque, du genre, de la technique et de la philosophie.
 
-La guitare est plus qu’un simple instrument de musique ; dans l’histoire de la musique depuis le XXe siècle, il fonctionne comme une extension du corps qui transmet directement des émotions et des idées. Au moment où vos doigts touchent les cordes, le son est généré par les vibrations de vos doigts et atteint le monde via des amplificateurs et des effecteurs. Le son produit par une guitare agit comme un miroir, reflétant les émotions, l'état mental et même le contexte culturel d'une personne.
+La guitare est plus qu’un simple instrument de musique ; dans l’histoire de la musique depuis le XXe siècle, il fonctionne comme une extension du corps qui transmet directement les émotions et les pensées. Au moment où vos doigts touchent les cordes, le son est généré par les vibrations de vos doigts et atteint le monde via des amplificateurs et des effecteurs. Le son produit par une guitare agit comme un miroir, reflétant les émotions, l'état mental et même le contexte culturel d'une personne.
 
 L’image du guitariste est différente entre le Japon et le monde. Aux États-Unis et au Royaume-Uni, le blues et le rock sont devenus la base et le genre est devenu un genre dominant. Cependant, le Japon a connu un développement plus complexe et plus fluide, du boom électrique d’après-guerre au bruit underground, à l’improvisation et au post-rock. Le caractère unique des guitares japonaises émerge à l’intersection de la technique traditionnelle et de l’expression destructrice underground.
 
@@ -177,7 +177,7 @@ color: #fff;
 
 ## 4. La nouvelle génération de solitaires (années 2010-2020)
 
-**Ichika Nito** est un artiste talentueux de la génération SNS, utilisant pleinement la polyrythmie, le tapping et la construction d'harmonies. Diffusé dans le monde via YouTube.
+**Ichika Nito** est un artiste talentueux de la génération SNS, utilisant pleinement la polyrythmie, le tapping et la construction d'harmonies. Diffusion dans le monde via YouTube.
 
 **Ichiko Aoba** utilise une guitare acoustique pour exprimer des contes folkloriques oniriques.
 
@@ -189,11 +189,11 @@ color: #fff;
 
 #IV. Redéfinir la guitare : appareil, corps, prière
 
-La guitare n'est pas seulement un instrument de musique, mais un outil d'expression de soi.
+La guitare n'est pas seulement un instrument de musique, mais un moyen d'expression personnelle.
 
 - **Philosophie du pédalier** : Création sonore = ego design. Chaque pédale devient une extension de la personnalité du joueur.
 - **Loop/Glitch/DAW** : « mémoire des doigts » étendue. Un seul artiste peut interpréter une expression orchestrale.
-- **Seiichi Yamamoto x Jim O'Rourke** : Relier le monde depuis le sous-sol de Kyoto. A influencé la musique improvisée et expérimentale tant au niveau national qu'international.
+- **Seiichi Yamamoto x Jim O'Rourke** : Relier le sous-sol de Kyoto au monde. A influencé la musique improvisée et expérimentale tant au niveau national qu'international.
 
 Keiji Haino considère la guitare comme une extension de son corps et de son esprit, et c'est une présence qui ébranle les sens de l'auditeur avec les extrêmes du son. La trinité improvisation, destruction et expression devient une coordonnée importante dans l’histoire de la guitare underground japonaise.
 

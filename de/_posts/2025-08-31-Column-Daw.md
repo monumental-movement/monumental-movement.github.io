@@ -64,7 +64,7 @@ MIDI (Musical Instrument Digital Interface) ist ein Standard zum Austausch von N
 
 ### Der Aufstieg von Computern und Software (1990er Jahre)
 
-Verbesserungen der Computerleistung und der praktische Nutzen der Festplattenaufzeichnung haben es möglich gemacht, Audiowellenformen digital zu bearbeiten. Avids Pro Tools (damals Digidesign) ermöglichte digital professionelle Aufnahme- und Bearbeitungsworkflows und wurde zum Industriestandard für Film-, Rundfunk- und Musikproduktion. Gleichzeitig wurden Software-Sequenzer/umfassende DAWs wie Cubase von Steinberg und Logic von Emagic (später von Apple übernommen) populär. Darüber hinaus erweiterte das von Steinberg vorgeschlagene VST-Plug-In (Virtual Studio Technology) das Ökosystem, indem es Dritten einen Mechanismus zur Entwicklung von Software-Soundquellen und -Effekten bereitstellte.
+Verbesserungen der Computerleistung und der praktische Einsatz der Festplattenaufzeichnung haben es möglich gemacht, Audiowellenformen digital zu bearbeiten. Avids Pro Tools (damals Digidesign) ermöglichte digital professionelle Aufnahme- und Bearbeitungsworkflows und wurde zum Industriestandard für Film-, Rundfunk- und Musikproduktion. Gleichzeitig wurden Software-Sequenzer/umfassende DAWs wie Cubase von Steinberg und Logic von Emagic (später von Apple übernommen) populär. Darüber hinaus erweiterte das von Steinberg vorgeschlagene VST-Plug-In (Virtual Studio Technology) das Ökosystem, indem es Dritten einen Mechanismus zur Entwicklung von Software-Soundquellen und -Effekten bereitstellte.
 
 <hr>
 
@@ -171,3 +171,14 @@ Backup und Versionskontrolle. Speichern Sie Projekte häufig und nutzen Sie die 
 DTM/DAW ist nicht nur eine Sammlung von Werkzeugen, sondern ein kulturelles Gerät, das die „Demokratisierung der Musikproduktion“ symbolisiert. Von den Tagen der Bandbearbeitung und Hardware-Synthesizer über MIDI und digitale Aufnahme bis hin zu VST- und Plug-in-Ökosystemen, bis hin zu KI und der Cloud hat die Technologie die Hürden für den Ausdruck gesenkt und eine Umgebung geschaffen, in der jeder der Welt Klang liefern kann.
 
 Die Technologie wird sich weiterentwickeln, aber im Mittelpunkt steht die Absicht des Schöpfers: „Welche Art von Klang sollen wir erzeugen und warum?“ Durch die umfassende Nutzung der Technologie als Werkzeug werden weiterhin neue musikalische Ausdrucksformen entstehen.
+
+---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zGr8QOz9Gds?si=7q5fGAYmYO1lLNN2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

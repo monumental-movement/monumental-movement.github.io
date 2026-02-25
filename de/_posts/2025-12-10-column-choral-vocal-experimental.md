@@ -21,7 +21,7 @@ title: '[Spalte] Chor/Gesang experimentell'
 Text: mmr｜Thema: Historische Entwicklung, repräsentative Künstler, Technikanalyse, Tonaufnahme-/Videokontext, zeitgenössische Arbeitstrends
 
 „Choral/Vocal Experimental“ ist ein Bereich, der aus der Schnittstelle von experimenteller Musik, akustischer Forschung und elektroakustischen Ideen aus der zweiten Hälfte des 20. Jahrhunderts zur ältesten Musikform des Chors entstanden ist.
-Seine Besonderheit besteht darin, dass es über die bloße Suche nach der Schönheit von Harmonien hinausgeht und eine Vielzahl von Techniken umfasst, darunter die Erforschung akustischer Phänomene unter Verwendung von Stimme als Material, Räumlichkeit, mikrotonale Manipulation, Phasenstruktur und Fusion mit elektronischer Verarbeitung.
+Seine Besonderheit besteht darin, dass es über die bloße Suche nach der Schönheit von Harmonien hinausgeht und eine Vielzahl von Techniken umfasst, darunter die Erforschung akustischer Phänomene unter Verwendung der Stimme als Material, Räumlichkeit, mikrotonale Manipulation, Phasenstruktur und Fusion mit elektronischer Verarbeitung.
 Dieser Trend stellte einen neuen Hörstil für die traditionelle Chorkultur dar und hatte große Auswirkungen auf die akustische Kunst insgesamt.
 
 ---
@@ -43,7 +43,7 @@ color: #fff;
 
 Das primitivste Musikinstrument der Menschheitsgeschichte ist die Stimme, und der gemeinschaftliche Ausdruck mehrerer Menschen durch die Stimme hat sich eng mit religiösen Ritualen und Gemeinschaftsstrukturen entwickelt.
 Das moderne Bild von „Chor = disziplinierte, homogene Harmonie“ ist jedoch eigentlich nur eine Reihe von Werten, die während eines begrenzten Zeitraums vom 19. bis zum 20. Jahrhundert vorherrschend wurden.
-In der zweiten Hälfte des 20. Jahrhunderts, mit dem Aufkommen der Avantgarde-Musik und Entwicklungen in der Akustik, wurde der Chorgesang dramatisch erweitert, da die Stimme wiederentdeckte, dass sie mehr konnte.
+In der zweiten Hälfte des 20. Jahrhunderts, mit dem Aufkommen der Avantgarde-Musik und Fortschritten in der Akustik, wurde der Chorgesang dramatisch erweitert, da die Stimme wiederentdeckte, dass sie mehr konnte.
 
 Chor-/Gesangsexperimental ist ein Feld, das im Zuge der Wiederentdeckung etabliert wurde, und es ist zutreffender, es als eine Gruppe von Methoden zur Maximierung des künstlerischen Potenzials der Stimme zu betrachten und nicht nur als ein Genre.
 
@@ -99,7 +99,7 @@ Darüber hinaus war die Initiative „Virtual Choir“ insofern innovativ, als s
 
 ---
 
-# 3. Chronologie: Wichtige Entwicklungen im experimentellen Chor-/Gesangsbereich
+# 3. Chronologie: Wichtige Entwicklungen im Chor-/Gesangsexperiment
 
 <div class="mermaid">
 timeline
@@ -210,7 +210,7 @@ Whittaker ist für ihre Chorwerke bekannt, die eine klassische Schönheit bewahr
 ### Virtueller Chor
 
 „Virtual Choir“, das in den 2010er Jahren stattfand, ist ein Versuch, aus aller Welt aufgenommene Einzelstimmen zu integrieren und einen gigantischen Refrain zu schaffen.
-Als **Erweiterung des Konzepts des Chorgesangs im Internetzeitalter** ist dies musikgeschichtlich bemerkenswert.
+Dies ist in der Musikgeschichte als **Erweiterung des Konzepts des Chorgesangs im Internetzeitalter** bemerkenswert.
 
 ---
 

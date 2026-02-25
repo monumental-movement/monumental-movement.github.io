@@ -122,7 +122,7 @@ G[高周波電子音] --> H[実験的回避]
 
 ---
 
-### 4.2 Exemple d'expérimentation
+### 4.2 Exemple d'expérience
 
 - **Hokkaido Orchard (2015-2018)** : taux d'invasion réduit de 40 % grâce à l'utilisation de pétards
 
@@ -174,13 +174,13 @@ Les contre-mesures sonores sont non mortelles et efficaces
 
 ## 8. Conclusion
 
-Les dégâts croissants causés par les ours ne sont pas seulement un problème pour les animaux sauvages, mais aussi le reflet des changements structurels de la société humaine. Les distorsions de l’environnement que nous avons nous-mêmes créées, telles que le dépeuplement, le changement climatique et l’utilisation déséquilibrée des forêts, chassent les ours des montagnes vers les villages. Dans cette réalité, le contrôle des dégâts grâce au son est extrêmement suggestif en tant que « moyen de repenser la relation entre les humains et les animaux ». Le son n'est pas mortel et peut ajuster le comportement par la peur et l'apprentissage. En d’autres termes, il s’agit d’un contrôle par « résonance » plutôt que par la violence, et cela peut constituer une option éthiquement durable.
+Les dégâts croissants causés par les ours ne sont pas seulement un problème pour les animaux sauvages, mais aussi le reflet des changements structurels de la société humaine. Les distorsions de l’environnement que nous avons nous-mêmes créées, telles que le dépeuplement, le changement climatique et l’utilisation déséquilibrée des forêts, chassent les ours des montagnes vers les villages. Dans cette réalité, le contrôle des dégâts par le son est extrêmement suggestif en tant que « moyen de repenser la relation entre les humains et les animaux ». Le son n'est pas mortel et peut ajuster le comportement par la peur et l'apprentissage. En d’autres termes, il s’agit d’un contrôle par « résonance » plutôt que par la violence, et cela peut constituer une option éthiquement durable.
 
 Le défi pour l'avenir est de le transformer en un « aménagement paysager acoustique » qui intègre les sons environnementaux locaux et les sons de la vie humaine, plutôt qu'un simple son menaçant. Lorsque les modèles de comportement des ours appris par l'IA seront combinés à la culture sonore locale et aux rythmes saisonniers, le son dépassera un avertissement et deviendra une « interface de coexistence ». Une politique judicieuse combinant connaissances scientifiques et sensibilité culturelle est la clé pour façonner l'avenir des humains et de la nature. Communiquer avec le son, maintenir une distance et restaurer l'harmonie dans l'ensemble de la biosphère : c'est ce que l'on peut appeler « l'éthique environnementale du son » de la prochaine ère.
 
 ---
 
-### Études de cas sur le contrôle des dommages grâce au son (2000-2025)
+### Études de cas sur le contrôle des dommages par le son (2000-2025)
 
 <div class="mermaid">
 
@@ -207,6 +207,14 @@ C --> D[クマ逃避行動]
 D --> E[被害軽減・安全確保]
 
 </div>
+
+---
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Is-YgTooa5M?si=4t2_rCYDQZA5ezuA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

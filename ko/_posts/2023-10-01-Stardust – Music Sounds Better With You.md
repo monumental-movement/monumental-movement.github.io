@@ -9,24 +9,24 @@ permalink: /ko/stardust-music-sounds-better-with-you/
 tags:
 - House
 - French House
-title: Stardust – 당신과 함께하면 음악이 더 좋아집니다
+title: Stardust – Music Sounds Better With You
 ---
 
 
-스타더스트(Stardust)는 다프트 펑크(Thomas Bangalter), DJ 앨런 브랙스(Alan Braxe), 벤자민 다이아몬드(Benjamin Diamond)로 구성된 유닛이다.
+Stardust는 토마 방갈텔(다프트 펑크), DJ 알란 블랙스(DJ Alan Braxe), 벤자민 다이아몬드에 의한 유닛입니다.
 
-1998년 발매된 "Music Sounds Better With You"는 차카 칸(Chaka Khan)의 "Fate"를 샘플링한 곡으로 스타더스트의 유일한 곡이다.
+1998년에 발표된 「Music Sounds Better With You」는 차카 칸(Chaka Khan)의 「Fate」를 샘플링한 것으로, Stardust 유일한 곡입니다.
 
-'Music Sounds Better With You'는 캐치한 멜로디와 펑키한 리듬, 보컬 샘플링이 어우러져 댄스 플로어에서 재미를 추구하는 하우스 뮤직의 명작으로 호평받고 있다.
+'뮤직 사운드 베터 와이즈'는 캐치 멜로디, 펑키 리듬, 보컬 샘플링 등 댄스 플로어에서의 즐거움을 추구하는 하우스 음악의 명곡으로 높은 평가를 받고 있습니다.
 
-이 곡은 하우스 뮤직과 일렉트로닉 댄스 음악 팬들을 위한 클래식 곡입니다.
+이 악곡은, 하우스 뮤직이나 일렉트로닉 댄스 뮤직의 팬에게 있어서는 클래식이라고도 말할 수 있는 작품입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Music Sounds Better With You
 ```
 
 [メルカリで購入](https://jp.mercari.com/item/m55707483061?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ctcRHPME-ZU?si=mEkVicpT_aS4kyYq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

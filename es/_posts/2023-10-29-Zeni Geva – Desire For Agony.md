@@ -24,7 +24,7 @@ Los miembros principales son KK.Null, quien también es conocido por sus activid
 
 Después de una larga pausa, se reunieron en 2007 y reanudaron sus actividades en 2009.
 
-Tatsuya Yoshida, uno de los miembros originales, se unió a la batería. Desde que Mitsuru Tabata dejó el grupo en 2012, actualmente están activos como dúo.
+Tatsuya Yoshida, uno de los miembros originales, se unió como baterista. Mitsuru Tabata dejó el grupo en 2012, por lo que actualmente están activos como dúo.
 
 miembros actuales
 

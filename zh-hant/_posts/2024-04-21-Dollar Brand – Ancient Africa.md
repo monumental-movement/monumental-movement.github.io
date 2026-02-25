@@ -10,7 +10,7 @@ tags:
 - Jazz
 - African
 - 70s
-title: 美元品牌——古代非洲
+title: 美元品牌－古代非洲
 ---
 
 
@@ -18,9 +18,9 @@ title: 美元品牌——古代非洲
 
 專輯《Dollar Brand - 古代非洲》於1972年6月在哥本哈根蒙馬特爵士樂店現場錄製。
 
-阿卜杜拉·易卜拉欣因通過音樂為日本和南非共和國之間的友誼做出了貢獻而於 2020 年被授予旭日勳章。
+阿布杜拉·易卜拉欣因透過音樂為日本和南非共和國之間的友誼做出了貢獻而於 2020 年被授予旭日勳章。
 
-#### 曲目列表
+#### 曲目表
 ```md
 Aa. Bra Joe From Kilimanjaro
 
@@ -45,7 +45,7 @@ Bd. Peace - Salaam
 Be. Air
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m30156653798?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m30156653798?afid=6142608987){: .button1}
 
 
 

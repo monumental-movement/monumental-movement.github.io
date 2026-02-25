@@ -26,7 +26,7 @@ Avant la musique concrète, la musique était traitée comme une combinaison d�
 
 ### 1.2 Technologie de radiodiffusion et espace expérimental
 
-Le centre de recherche rattaché à la station de radiodiffusion fonctionnait comme un espace expérimental différent de la salle de spectacle. Les sons joués dans un espace exclusivement destiné à la reproduction ont été séparés du corps de l'interprète et l'acte d'écoute lui-même a été restructuré.
+L'installation de recherche rattachée à la station de radiodiffusion fonctionnait comme un espace expérimental différent de la salle de spectacle. Les sons joués dans un espace exclusivement destiné à la reproduction ont été séparés du corps de l'interprète et l'acte d'écoute lui-même a été restructuré.
 
 
 ---
@@ -109,7 +109,7 @@ La manipulation de bandes est devenue le prototype de l'électronique live ulté
 
 ### 7.1 Affirmation du bruit
 
-Avec la musique sur bande, la distorsion, le sifflement et les marques de montage n'étaient pas éliminés, mais traités comme faisant partie de la structure musicale. Ceci est directement lié à l’esthétique de la pratique du bruit dans les années 1970.
+Avec la musique sur bande, la distorsion, le sifflement et les marques d'édition n'étaient pas éliminés, mais traités comme faisant partie de la structure musicale. Ceci est directement lié à l’esthétique de la pratique du bruit dans les années 1970.
 
 ### 7.2 Bruit spécifique au média
 
@@ -135,13 +135,13 @@ Le studio est désormais considéré comme un espace de conception sonore plutô
 
 La musique sur bande ne nécessite pas nécessairement un début, un développement et une fin.
 
-### 9.2 Recyclage de l'écoute
+### 9.2 Rééducation à l'écoute
 
-Le processus par lequel les sons réels étaient abstraits obligeait les auditeurs à diriger leur attention d’une manière nouvelle.
+Le processus par lequel les sons réels étaient abstraits obligeait les auditeurs à diriger leur attention d’une nouvelle manière.
 
 ---
 
-## 10. Diffusion de l'influence
+## 10. Diffusion d'influence
 
 ### 10.1 Musique expérimentale et au-delà
 

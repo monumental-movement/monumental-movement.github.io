@@ -18,7 +18,7 @@ title: '[Chronique] Jazz microtonal / Jazz quart de ton'
 
 ## Introduction : Le jazz et l'expansion des concepts de pitch
 
-Texte : mmr｜Thème : Analyse de la théorie, de l'interprétation et du système éducatif du jazz microtonal/jazz quart-ton centré sur Joe Maneri et Jacob Collier
+Texte : mmr｜Thème : Analyse de la théorie, de l'interprétation et du système éducatif du jazz microtonal/jazz quart de ton centré sur Joe Maneri et Jacob Collier
 
 Depuis sa création, le jazz est une musique qui relativise un système de hauteur fixe. Historiquement, il existe des pratiques qui ne rentrent pas dans le cadre des 12 tempéraments égaux, comme la variabilité des tierces et des septièmes représentée par la Blue Note, l'embouchure sur les instruments à vent et le portamento sur les instruments à cordes. La tendance connue sous le nom de jazz microtonal ou jazz quart de ton se caractérise par l'extension théorique et structurelle de ces conventions et par le placement explicite des « intervalles microtonaux » au cœur de l'organisation sonore.
 
@@ -107,7 +107,7 @@ Dans l'improvisation, la tension et la libération sont créées en augmentant e
 Maneri a mené des activités éducatives principalement à Boston et a formé de nombreux disciples. Son système éducatif présente les caractéristiques suivantes.
 
 * Accent sur l'entraînement auditif du sens microtonal
-* Analyse du continuum de séquence pour la performance improvisée
+* Analyse du continuum de séquences pour la performance improvisée
 * Comprendre la hauteur relative à travers des expériences de résonance parmi les disciples
 
 Ses étudiants développent la méthodologie de Maneri et l'appliquent à de plus grands ensembles et projets d'enregistrement. En conséquence, les fondements techniques du jazz microtonal continuent d’être hérités et élargis.
@@ -142,7 +142,7 @@ Dans l'approche de Collier, les voix individuelles peuvent avoir des hypothèses
 
 ---
 
-## Chapitre 5 : Fonctionnement du microton en improvisation
+## Chapitre 5 : Utilisation du microton dans l'improvisation
 
 ### 5-1 Construction de phrases
 

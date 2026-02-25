@@ -20,7 +20,7 @@ title: '[Columna] Black Midi — El impacto del rock experimental de Londres y s
 
 Texto: mmr｜Tema: Desde su formación hasta sus principales trabajos, su evaluación tanto a nivel nacional como internacional, y su influencia en las bandas y la cultura posteriores.
 
-Black Midi es una joven banda de rock/música experimental formada en Londres en 2017. Apenas unos años después de su debut, conmocionaron al mundo del indie rock con su sonido audaz, su interpretación abrumadora y su estructura en vivo impredecible que iba más allá del rock tradicional y el post-punk.
+Black Midi es una joven banda de rock/música experimental formada en Londres en 2017. Apenas unos años después de su debut, conmocionaron al mundo del indie rock con su sonido audaz, su interpretación abrumadora y su estructura en vivo impredecible que iba más allá de los límites del rock convencional y el post-punk.
 
 ---
 
@@ -48,7 +48,7 @@ color: #fff;
 - **Participantes de apoyo/gira** (según la temporada): teclista, saxofonista, etc. (por ejemplo, el teclista Seth Evans, el saxofonista Kaidi Akinnibi)
 - **Estilo/género musical**: Tiene una amplia gama de estilos experimentales, que incluyen math rock, rock progresivo, post-punk, noise y avant-jazz. Caracterizado por la improvisación, la complejidad estructural y la mezcla de géneros.
 
-- **Origen del nombre de la banda**: Ellos mismos tomaron el nombre de la banda de “Black Midi” (una partitura musical llena de “negro” con muchas notas MIDI), que es un género musical/cultural de Internet que se originó en Japón. Sin embargo, no existe una relación directa en cuanto al sonido, y es sólo una referencia al nombre.
+- **Origen del nombre de la banda**: Ellos mismos tomaron el nombre de la banda de “Black Midi” (una partitura musical llena de “negro” con muchas notas MIDI), que es un género musical/cultural de Internet que se originó en Japón. Sin embargo, no existe una relación directa en términos de sonido, y es sólo una referencia del nombre.
 
 Black Midi comenzó en los live house y en la escena indie/underground del sur de Londres y, a pesar de su corta edad, rápidamente han ganado atención desde su debut en 2019, armados con una técnica y un experimentalismo sobresalientes.
 
@@ -65,7 +65,7 @@ Una breve historia de la discografía de Black Midi y las características de ca
 | **2018** | Soltero **“bmbmbm” y otros** | **Primer lanzamiento de Speedy Wunderground. **<br>A partir de aquí, las actividades oficiales de la banda comenzaron en serio. El fuerte minimalismo y la estética del ruido repetitivo surgieron como características iniciales.                                                                                            |
 | **2019** | **1er álbum “Schlagenheim”** | **Producido por: Dan Carey. Grabado en apenas unos días. **<br>Presentamos una variedad de tonos como sintetizadores, órganos, banjos y cajas de ritmos mientras se mantiene una energía similar a la del vivo. <br><br>**Revisión crítica**: Top 50 de listas del Reino Unido, nominado al Premio Mercury. <br>Ha sido descrita como "la obra debut más importante de finales de la década de 2010" debido a su construcción tosca pero densa. |
 | **2021** | **2do álbum "Cavalgata"** | **El enfoque compositivo y de música de cámara se amplía claramente respecto al trabajo anterior. **<br>Agrega saxofón, viola, teclado, etc., e integra vocabulario como jazz, rock progresivo, post-punk y música contemporánea. <br>La canción característica "John L" combina estructura caótica + fábula de culto + teatralidad, y la "coexistencia de frenesí y precisión" de la banda alcanza su punto máximo.                                       |
-| **2022** | **3er álbum “Hellfire”** | **El trabajo más “teatral” con una historia, personajes y alegoría aún más fuertes. **<br>Una mezcla de ruido, compases extraños, desarrollos barrocos y narraciones al estilo kabare. <br>La estructura es tal que cada canción se desarrolla en un escenario diferente, con temas de humor negro, fábulas de guerra y pecado y redención. <br><br>**Características posteriores a este período**: Se ha establecido una política de creación activa de diferencias entre las obras de estudio y las reinterpretaciones en vivo.          |
+| **2022** | **3er álbum “Hellfire”** | **La obra más “teatral” con una historia, personajes y alegoría aún más fuertes. **<br>Una mezcla de ruido, compases extraños, desarrollos barrocos y narraciones al estilo kabare. <br>La estructura es tal que cada canción se desarrolla en un escenario diferente, con temas de humor negro, fábulas de guerra y pecado y redención. <br><br>**Características posteriores a este período**: Se ha establecido una política de creación activa de diferencias entre las obras de estudio y las reinterpretaciones en vivo.          |
 | **2022** | **Álbum en vivo "Live Fire"** | **Grabación del festival en Portugal. **<br>Las canciones del período "Hellfire" han sido reconstruidas en vivo, enfatizando la improvisación y la pasión de la interpretación. <br>Este trabajo contiene muchas interpretaciones diferentes de la versión de estudio y define "Black Midi como una banda en vivo".                                                                    |
 
 A través de estos trabajos, Black Midi ha evolucionado de "la improvisación a la construcción", "del ruido a la estructura" y "del caos en vivo a la precisión del estudio".
@@ -78,7 +78,7 @@ Resumiremos las críticas nacionales e internacionales, los medios y las reaccio
 
 ### 3‑1. Período de debut: grandes elogios impactantes y frescos
 
-- Su álbum debut *Schlagenheim* fue muy elogiado por muchos críticos como "impredecible", "sonido vanguardista" y "romper los límites del rock/post-punk existente". En particular, hubo muchos elogios sobre la técnica de la batería (Morgan Simpson), con comentarios como "su habilidad para tocar es extraordinaria a una edad tan joven" y "el surgimiento de talentos jóvenes".
+- Su álbum debut *Schlagenheim* fue muy elogiado por muchos críticos como "impredecible", "sonido vanguardista" y "romper los límites del rock/post-punk existente". En particular, hubo muchos elogios sobre su técnica de batería (Morgan Simpson), con comentarios como "su habilidad para tocar es extraordinaria a una edad tan joven" y "el surgimiento de talentos jóvenes".
 
 - Recibieron atención en los medios japoneses y su debut fue presentado como "la banda extranjera más notable de 2019" y "un candidato al mejor álbum del año". Algunos oyentes y escritores japoneses han argumentado que su sonido resuena con "juegos", jazz japonés, alternativo y ruido, y fue aceptado no solo por los fanáticos del rock occidental tradicional sino también por los oyentes de la subcultura/alternativa.
 
@@ -90,7 +90,7 @@ De esta manera, durante su período de debut, Black Midi atrajo intensa atenció
 
 - Después del lanzamiento de su segundo álbum *Cavalcade*, muchos críticos comentaron que era "más estructurado y ambicioso", "Un laberinto de locura que se tragó muchos géneros como el jazz, el rock progresivo y la música experimental" y "Es raro que un artista joven pueda cambiar y expandirse tanto". En particular, se ha elogiado la composición ampliada que incluye saxofón, teclados, cuerdas, etc., y la variedad de instrumentos musicales. desarrollos.
 
-- Por otro lado, también hubo comentarios como "el sonido es demasiado denso", "el equilibrio entre ruido y estructura es difícil de encontrar" y "da la impresión de ser demasiado elaborado, en lugar de la libertad de la improvisación en vivo". Algunos críticos elogiaron la opulencia y la estructura de Cavalcade, pero sintieron que el "peligro crudo" y el "impulso de improvisación" característicos de su trabajo debut habían disminuido.
+- Por otro lado, también hubo comentarios como "el sonido es demasiado denso", "el equilibrio entre ruido y estructura es difícil de encontrar" y "da la impresión de que es demasiado elaborado, en lugar de la libertad de la improvisación en vivo". Mientras algunos críticos elogiaron la opulencia y la estructura de Cavalcade, otros sintieron que el "peligro crudo" y el "impulso de improvisación" característicos de su trabajo debut habían disminuido.
 
 - Además, con respecto a su tercer álbum *Hellfire*, hubo elogios como "el más experimental y teatral de todos los tiempos", "un grupo de canciones con una narrativa, alegoría y carácter", "elige al oyente, pero tiene un fuerte impacto", y "una obra de arte que va más allá del marco del 'rock'". En particular, la composición radical y el sonido de Hellfire, así como la naturaleza de múltiples capas de la música, han recibido grandes elogios.
 

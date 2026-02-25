@@ -104,13 +104,13 @@ Par exemple, le passage suivant :
 
 > "Le reste est vide, sans cerveau sauf le nerd intelligent"
 
-Les rimes internes de « vide », « cerveau » et « intelligent » sont enchaînées, transcendant le contexte et créant un sens en elles-mêmes.
+Les rimes internes de « vide », « cerveau » et « intelligent » s’enchaînent, transcendant le contexte et créant un sens en elles-mêmes.
 Son rap fonctionne comme un dispositif sonore plutôt que comme de la poésie.
 
 ### Tout en majuscules
 « TOUT EN MAJUSCULES lorsque vous épelez le nom de l'homme »──
 Ici, DOOM définit son propre symbolisme.
-L’ordre « Écrivez votre nom en majuscules » est comme un sort pour se protéger sous le masque.
+L’ordre « Écrivez votre nom en majuscules » est comme un sortilège pour se protéger sous le masque.
 Cette chanson, y compris le clip (style dessin animé), a été le pionnier de la fusion de la **culture hip-hop = super-héros**.
 
 ---
@@ -121,7 +121,7 @@ La photo de la pochette (prise par Eric Coleman) est un gros plan du masque mét
 La composition, dans laquelle la moitié du visage est immergée dans l’ombre, symbolise l’écart entre anonymat et exposition, mythe et réalité.
 Ce masque servait à la fois de moyen d’expression en tant qu’artiste noir et de forme de résistance aux médias commerciaux.
 
-Le masque de DOOM est une référence de la culture pop au Dr. Doom de Marvel, mais plus profondément, il représente un renversement de pouvoir et d'identité.
+Le masque de DOOM est une référence de la culture pop au Dr Doom de Marvel, mais plus profondément, il représente un renversement de pouvoir et d'identité.
 Il y a ici un paradoxe : « méchant = personne qui a la liberté de parler »**.
 
 ---
@@ -217,5 +217,13 @@ Le masque laissé par DOOM brille toujours dans les studios underground du monde
 
 > "Ce n'est pas fou comme le méchant."
 > – MF DOOM
+
+---
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gXOkqpWhsD0?si=WEZRPKJsazCLjDDX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

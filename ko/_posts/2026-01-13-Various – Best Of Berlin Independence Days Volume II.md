@@ -10,20 +10,20 @@ tags:
 - Alternative Rock
 - Industrial
 - Rock
-title: 다양한 – 베를린 독립기념일 베스트 2
+title: Various – Best Of Berlin Independence Days Volume II
 ---
 
 
-1990년 베를린 레이블 Stud!o K7에서 공개한 1988년 베를린 독립 음악 박람회의 라이브 공연 비디오(VHS). 출연 아티스트 Mudhoney, Young Gods, Buzzcocks F.O.C. (편의의 깃발).
+베를린의 라벨 Stud!o K7이 1990년에 발매한, 1988년 Berlin Fair For Independent Music에서의 라이브 연주 비디오(VHS). 출연 예술가 Mudhoney , Young Gods , Buzzcocks F.O.C. (Flag Of Convenience).
 
-머드허니(Mudhoney)는 NIRVANA 등 그런지/얼터너티브 록 뮤지션들에게 큰 영향을 준 미국 시애틀 출신의 밴드이다.
+Mudhoney(매드 허니)는 NIRVANA 등 그런지/얼터너티 블록 뮤지션들에게 다대한 영향을 준 미국 시애틀 출신의 밴드.
 
-Young Gods는 1985년에 결성된 스위스 인더스트리얼 록 밴드입니다. 밴드 이름은 미국 포스트 펑크/실험 록 밴드 Swan의 'Young God'에서 따왔습니다.
+Young Gods(영 고츠)는, 1985년에 결성된 스위스의 인더스트리얼 록 밴드. 밴드명은, 미국의 포스트 펑크/엑스페리멘탈 록 밴드 Swans(스완즈)의 「Young God」로부터 취했다.
 
-(전체 길이 42분)
+(전편 42분)
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Overture
 2. One Phone Call
@@ -38,7 +38,7 @@ Young Gods는 1985년에 결성된 스위스 인더스트리얼 록 밴드입니
 [メルカリで購入](https://jp.mercari.com/item/m31349607002?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### YouTube
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S6GxTeZqdJA?si=S2Ec2Kb3O_rt4SIY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

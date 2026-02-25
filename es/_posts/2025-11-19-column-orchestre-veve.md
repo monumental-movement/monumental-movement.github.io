@@ -104,7 +104,7 @@ Estas canciones muestran el núcleo de la música de baile de Veve, al mismo tie
 
 La guitarra principal de Veve se caracterizaba por una melodía de "muesca" más aguda que la de otras bandas de la época. Especialmente notable en grabaciones de los años 1970.
 
-- Subida líder cromática.
+- subida principal cromática
 - trémolo rápido
 - Repeticiones cortas de motivos de 2-4 compases
 
@@ -154,7 +154,7 @@ graph TD
 ### Análisis técnico
 
 * **El saxofón presenta la melodía al principio → la guitarra imita**
-* **Las voces son “preguntas” y los coros son “respuestas”**
+* **Las voces son “preguntas” y los estribillos son “respuestas”**
 * **Solo de guitarra lineal y agudo**
 
 ### Estructura de llamada y respuesta
@@ -202,10 +202,10 @@ flowchart LR
 # Capítulo 7 Tecnología de grabación, entorno de estudio, sistema de producción.
 
 El entorno de grabación de Veve era uno de los más avanzados de África en ese momento.
-Tenía su propio estudio, contaba con varios ingenieros de grabación en plantilla y contaba con las siguientes características técnicas:
+Tenía su propio estudio y siempre estuvieron presentes múltiples ingenieros de grabación, y tenía las siguientes características técnicas.
 
 - **Aproveche rápidamente el período de transición de grabación de 2 a 4 pistas a grabación de 4 a 8 pistas**
-- **Método estéreo para balancear la guitarra hacia la izquierda y hacia la derecha**
+- **Método estéreo para mover la guitarra hacia la izquierda y hacia la derecha**
 - **Mezcla que pone el saxofón en primer plano**
 - **Un enfoque pionero que graba múltiples tomas del coro y las combina en la edición**
 
@@ -213,7 +213,7 @@ Una de las características de este trabajo es que prioriza la emoción en vivo 
 
 ---
 
-# Capítulo 8 Cultura de la danza e historia de la recepción: Congo y la diáspora
+# Capítulo 8 Cultura de la danza e historia de la recepción: el Congo y la diáspora
 
 La música de Veve fue muy influyente en la cultura de danza urbana del Congo.
 Es especialmente popular en bares (salones de baile), y cada vez que suena la grabación de una banda, se establecen ciertos pasos.

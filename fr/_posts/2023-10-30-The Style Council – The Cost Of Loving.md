@@ -10,7 +10,7 @@ tags:
 - Pops
 - Soul
 - Synth-Pop
-title: Le conseil de style – Le coût d’aimer
+title: Le conseil de style – Le prix à payer pour aimer
 ---
 
 

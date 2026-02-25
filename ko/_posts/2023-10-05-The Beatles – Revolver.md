@@ -9,15 +9,15 @@ permalink: /ko/the-beatles-revolver/
 tags:
 - Rock
 - Psychedelic
-title: 비틀즈 – 리볼버
+title: The Beatles – Revolver
 ---
 
 
-"Revolver"에서 주목할만한 노래는 "Eleanor Rigby"입니다. 스트링 옥텟이 특징인 이 따뜻한 노래는 폴 매카트니의 스토리텔링 재능을 선보입니다.
+「Revolver」중에서 특필해야 할 곡으로서 들 수 있는 것은, 「엘리노아・리그비」입니다. 이것은 스트링스 옥텟을 피처한 마음 따뜻한 곡으로 폴 맥카트니의 스토리텔링의 재능이 발휘되고 있습니다.
 
-앨범에는 "Taxman"이라는 또 다른 노래가 있습니다. 이 노래는 조지 해리슨(George Harrison)이 작곡했으며 당시 영국의 높은 세금 제도에 대한 비판을 담고 있습니다. "Yellow Submarine"도 인기 트랙입니다.
+앨범에는 그 밖에도 '택스맨'이라는 곡이 있습니다. 이것은 조지 해리슨이 쓴 곡으로 당시 영국의 높은 세금 제도에 대한 비판이 담겨 있습니다. "옐로우 서브 마린"도 인기있는 트랙입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Good Day Sunshine
 
@@ -51,5 +51,5 @@ B7. Tomorrow Never Knows
 
 [メルカリで購入](https://jp.mercari.com/item/m23104265912?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TN-Imp3N3dM?si=mH3akE4hD8PxGquP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -17,7 +17,7 @@ title: '[Kolumne] Ursprung des Northern Soul und seine Popularität in Japan'
 
 ## Was ist Northern Soul?
 
-Text: mmr｜Thema: Wie Northern Soul, das in den 1960er Jahren in England geboren wurde, sich nach Japan ausbreitete und einzigartige Akzeptanz und Unterstützung erlangte, über die Geschichte, Kultur und die lokale Szene.
+Text: mmr｜Thema: Wie Northern Soul, das in den 1960er Jahren in England geboren wurde, sich nach Japan ausbreitete und einzigartige Akzeptanz und Unterstützung erlangte, über die Geschichte, Kultur und das Feld.
 
 
 Der Begriff Northern Soul ist sowohl ein Musikgenre als auch ein Konzept, das sich auf bestimmte kulturelle Einstellungen und Praktiken bezieht. Es handelt sich um eine Musikkultur, die in der Clubszene Nordenglands enthusiastisch unterstützt wurde und sich hauptsächlich auf schnelle Soulmusik konzentrierte, die Mitte bis Ende der 1960er Jahre in Amerika produziert wurde, insbesondere auf Songs kleinerer Labels, die keinen kommerziellen Erfolg hatten.
@@ -52,7 +52,7 @@ In Städten wie Manchester, Wigan, Blackpool und Sheffield entwickelte sich eine
 
 Wichtig ist in diesem Zusammenhang die physische und psychische Distanz zwischen Nordengland und Amerika. Soulmusik, die ihren Ursprung im amerikanischen Süden und in Detroit hatte, fand im Norden stärkeren Anklang bei den jungen Menschen als in London. Dies liegt daran, dass Themen wie Arbeit, Unterdrückung und Solidarität als alltägliche Sensibilitäten geteilt wurden.
 
-> Northern Soul entstand spontan an der Schnittstelle zwischen der sozialen Struktur Nordenglands und der Körperkultur junger Menschen.
+> Northern Soul entstand spontan an der Schnittstelle der sozialen Struktur Nordenglands und der Körperkultur junger Menschen.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kes0y1p4rs0?si=YXnEd8bauRf35vra" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -61,7 +61,7 @@ Wichtig ist in diesem Zusammenhang die physische und psychische Distanz zwischen
 ## Beziehung zur amerikanischen Seele
 
 
-Das musikalische Fundament von Northern Soul liegt in der in Amerika produzierten Soulmusik. Allerdings handelte es sich bei vielen davon eher um Singles, die von kleinen Labels in den örtlichen Städten veröffentlicht wurden, als von großen Labels wie Motown.
+Das musikalische Fundament von Northern Soul liegt in der in Amerika produzierten Soulmusik. Allerdings handelte es sich bei vielen davon nicht um Werke großer Labels wie Motown, sondern um Singles, die von kleinen Labels in regionalen Städten veröffentlicht wurden.
 
 Ein britischer Club-DJ entdeckt Werke unbekannter Künstler, die in Detroit, Chicago, Los Angeles, Philadelphia und sogar südlichen Regionen wie Alabama und Texas aufgenommen wurden. Obwohl diese Songs in den Vereinigten Staaten nie in die Charts gelangten, hatten sie die Macht, die Tanzflächen im Norden Englands in Brand zu setzen.
 
@@ -106,7 +106,7 @@ In den 1970er Jahren entstand neue Tanzmusik wie Disco, Funk und später House u
 
 Auch nach der Schließung der Clubs und dem Schrumpfen der Szene bleibt Northern Soul erhalten und wird durch Sammlerkultur, Neuauflagen und retrospektive Veranstaltungen weitergegeben. Seit den 1980er-Jahren gibt es eine wachsende Bewegung zur Neubewertung, und durch Filme und Dokumentationen ist es auch jüngeren Generationen bekannt geworden.
 
-> Northern Soul ist keine Modeerscheinung, sondern hat als Kultur überlebt, die immer wieder neu interpretiert wird.
+> Northern Soul ist keine vorübergehende Modeerscheinung, sondern hat als Kultur überlebt, die immer wieder neu interpretiert wird.
 
 ---
 
@@ -126,7 +126,7 @@ Japanische Soul-Funk-Enthusiasten und DJs haben Northern Soul als Teil ihrer Sam
 
 In Japan wurde Northern Soul nicht in der gleichen Form reproduziert wie in Großbritannien. Anstelle eines exklusiven All-Night-Clubs entwickelte es sich zu einer Community rund um DJ-Events, Bars und Plattenläden.
 
-Es betont tendenziell die Klangqualität von Schallplatten, die Seltenheit von Schallplatten und das Bekenntnis zu Originalschallplatten statt zum Tanz und zeichnet sich durch seine starke Verbindung zur Sammlerkultur aus. Andererseits bleibt der Wesensgehalt der tanzbaren Musik erhalten und es finden weiterhin tanzorientierte Veranstaltungen statt.
+Es betont tendenziell die Klangqualität von Schallplatten, die Seltenheit von Schallplatten und das Bekenntnis zu Originalschallplatten statt zum Tanz und zeichnet sich durch seine starke Verbindung zur Sammlerkultur aus. Andererseits bleibt der Kern der tanzbaren Musik erhalten und es finden weiterhin tanzorientierte Veranstaltungen statt.
 
 >Japans nördliche Seele hat sich durch die einzigartige Balance zwischen Wertschätzung und Körperlichkeit etabliert.
 

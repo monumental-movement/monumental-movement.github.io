@@ -10,13 +10,13 @@ tags:
 - JPop
 - Folk
 - 7inch
-title: 민속 십자군 - 나는 두 번 산다
+title: The Folk Crusaders - I Only Live Twice
 ---
 
 
-"Returning Yopparai"는 The Folk Crusaders의 데뷔 싱글이자 오리콘 차트 역사상 최초의 밀리언셀러 싱글이었습니다. '언더그라운드 포크' 붐을 일으킨 곡이기도 하며, 일본 만화가요의 대표작이기도 하다.
+『돌아온 요파라이』는, 더 포크 크루세다즈의 데뷔 싱글로, 오리콘 차트 사상 최초의 밀리언 싱글. '앵글라 포크'의 붐을 낳은 곡이자 일본의 코믹 송의 대표적인 작품.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. 帰って来たヨッパライ
 
@@ -32,5 +32,5 @@ B. ソーラン節
 
 [メルカリで購入](https://jp.mercari.com/item/m17450596937?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/41LOWxe9hgU?si=fk4Lg1S6ywoXm1qq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -46,11 +46,11 @@ color: #fff;
 
 ## Punk tras Punk: Colapso de las condiciones previas
 
-Alrededor de 1977, el punk se extendió rápidamente y al mismo tiempo se formalizó rápidamente. 3 acordes, canciones cortas, actitud agresiva. Rápidamente se convirtieron en un estilo y comenzaron a reproducirse. El noise punk/avant punk nació de un fuerte sentimiento de malestar por esta situación.
+Alrededor de 1977, el punk se extendió rápidamente y al mismo tiempo se formalizó rápidamente. 3 acordes, canciones cortas, actitud agresiva. Rápidamente se convirtieron en un estilo y comenzaron a reproducirse. El noise punk/avan punk nació de un fuerte sentimiento de malestar por esta situación.
 
-El problema para ellos era que el rock estaba siendo reducido una vez más a "música fácil de entender". La rebelión se convierte en símbolo y el disenso se pone de moda. Para rechazar el proceso en sí, la música se movió intencionalmente en una dirección incomprensible.
+El problema para ellos era que el rock estaba siendo reducido una vez más a "música fácil de entender". La rebelión se convierte en un símbolo y la disidencia se pone de moda. Para rechazar el proceso en sí, la música se movió intencionalmente en una dirección incomprensible.
 
-Esta actitud parecía negar el punk, pero en realidad era una implementación completa del espíritu fundamental del punk.
+Esta actitud parecía negar el punk, pero en realidad era una implementación exhaustiva del espíritu fundamental del punk.
 
 > El avant-punk nació no para acabar con el punk, sino para purificarlo.
 
@@ -74,7 +74,7 @@ DNA era una banda activa en Nueva York a finales de la década de 1970 y era un 
 
 La guitarra no forma acordes, sino que emite notas sueltas o ruidos irregulares. El bajo y la batería no comparten ritmo y la interpretación siempre está al borde del colapso. Las voces rechazan la melodía y se liberan en forma de palabras y gritos fragmentados.
 
-Aunque las actuaciones de DNA son de improvisación, no son simplemente caóticas. Más bien, está lleno de una sensación de tensión para sostener el "momento en el que el rock no está establecido".
+Aunque las actuaciones de DNA son de improvisación, no son simplemente caóticas. Más bien, está lleno de una sensación de tensión para sostener el "momento en que el rock no está establecido".
 
 > DNA logró la paradoja de negar el rock actuando.
 

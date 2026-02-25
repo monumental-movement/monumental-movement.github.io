@@ -13,7 +13,7 @@ title: Verschiedenes – Superstar
 ---
 
 
-„Various – Superstar“ ist
+„Various – Superstar“ lautet
 Dies ist ein Compilation-Album, das vom jamaikanischen Label „Rookie Production“ veröffentlicht wurde.
 
 #### Trackliste

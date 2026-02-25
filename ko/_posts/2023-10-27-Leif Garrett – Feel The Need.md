@@ -10,13 +10,13 @@ tags:
 - Disco
 - 70s
 - 7inch
-title: 레이프 개럿(Leif Garrett) – 필요성을 느껴보세요
+title: Leif Garrett – Feel The Need
 ---
 
 
-Leif Garrett은 미국 가수, 배우 및 텔레비전 인물입니다. 1979년에는 "Feel The Need"가 발매되었습니다.
+Leif Garrett (레이프 가렛)은 미국 가수, 배우, TV 탤런트입니다. 'Feel The Need'는 1979년에 출시되었습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Feel The Need
 
@@ -25,5 +25,5 @@ B. New York City Nights
 
 [メルカリで購入](https://jp.mercari.com/item/m71551680773?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TRMGp2jq8iU?si=XPtTUOfI1mB0MQHJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -19,7 +19,7 @@ title: '[Kolumne] MERZBOW ── Lärm, die befreiende Akustik'
 
 Text: mmr｜Thema: Erkundung der Philosophie und kulturhistorischen Bedeutung der von Masami Akita/Merzbow entwickelten Noise-Musik
 
-Seit den 1980er Jahren hat die aus Japan stammende „Lärmmusik“ eine einzigartige Entwicklung in der Geschichte der Weltmusik eingeschlagen. Die Person, die weiterhin im Mittelpunkt steht, ist **Masami Akita (Merzbow)**. Sein Sound ist gewalttätig und dennoch meditativ, destruktiv und dennoch organisch.
+Seit den 1980er Jahren hat die aus Japan stammende „Noise-Musik“ eine einzigartige Entwicklung in der Geschichte der Weltmusik eingeschlagen. Die Person, die weiterhin im Mittelpunkt steht, ist **Masami Akita (Merzbow)**. Sein Sound ist gewalttätig und dennoch meditativ, destruktiv und dennoch organisch.
 Es geht über den Rahmen von „Musik“ hinaus und sollte stattdessen als **ein „klangphilosophisches Experiment“** betrachtet werden.
 
 Der Name Merzbow stammt von Schulz' Dada-artiger Collagearbeit „Merzbau“. Mit anderen Worten: Schon der Akt der Demontage vorhandener Strukturen und die Rekonstruktion der Fragmente ist sein schöpferisches Prinzip.
@@ -95,7 +95,7 @@ Grundlage dafür ist die von Merzbow begründete Philosophie: „Mit Klang kann 
 ---
 
 ## Aktuell: Geräusch nach AI
-In den 2020er Jahren, als die Generierung von Musik durch KI alltäglich wird, gewinnt Merzbows Präsenz wieder an Bedeutung.
+In den 2020er Jahren, in denen die Generierung von Musik durch KI alltäglich wird, gewinnt Merzbows Präsenz wieder an Bedeutung.
 Sein Lärm wurde zum Symbol für „das nicht-algorithmische Chaos des menschlichen Bewusstseins“.
 Je geordneter und schöner die generative Musik wird, desto mehr treten Merzbows „Chaos“ als Spuren des wirklichen Lebens hervor.
 
@@ -221,5 +221,14 @@ Merzbows „Merzbird“ erschien 2004 beim amerikanischen Label Important Record
 
 
 > „Lärm ist nicht das Grab der Musik, sondern die Wiedergeburt der Musik.“
+
+---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OHrRAoQRlxw?si=Upnz8v8jY-ZEl3GV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

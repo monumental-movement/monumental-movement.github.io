@@ -107,7 +107,7 @@ flowchart TD
 - En 1995, « Growing Up » crée un boom au Japon.
 - Signé avec Fat Wreck Chords en 1997, a fait une tournée avec succès en Amérique et a acquis une renommée internationale.
 - Caractéristiques : chansons courtes et rapides, mélodies pop, paroles jeunes
-- Chansons représentatives : « Stay Gold », « Summer of Love »
+- Chansons représentatives : « Stay Gold », « Summer of Love »
 
 #### ELLEGARDEN (créé en 1998)
 - Influencé par le mélocore américain, utilise habilement le japonais et l'anglais dans les paroles

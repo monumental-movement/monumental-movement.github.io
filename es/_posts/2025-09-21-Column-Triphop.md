@@ -109,7 +109,7 @@ Derivado del sistema de sonido de Bristol "Wild Bunch". 3D (Robert Del Naja) tam
 
 #### Tecnología de producción
 
-En lugar de un tocadiscos, "convierte el estudio en un instrumento" y combina muestras y presentaciones en vivo. Caracterizado por graves profundos y procesamiento espacial tipo dub.
+En lugar de utilizar un tocadiscos, "convierte el estudio en un instrumento" y combina samples y música en vivo. Caracterizado por graves profundos y procesamiento espacial tipo dub.
 
 #### El vídeo funciona
 

@@ -8,13 +8,13 @@ layout: post
 permalink: /ko/morgana-dank-one-another-night-flower/
 tags:
 - Trance
-title: Morgana Dank-One – 또 다른 밤의 꽃
+title: Morgana Dank-One – Another Night Flower
 ---
 
 
-2005년 레이블 '메이저 레코드'가 발매한 EP이다.
+2005년에 라벨 「Major Record」로부터 발매된 EP입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Morgana – Another Night (DJ Tora Vocal Mix)
 
@@ -23,5 +23,5 @@ B. Dank-One – Flower (Original Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m79733444581?afid=61426089871){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mf-P1AFYaoI?si=Nfr7zyophUwCMcJy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

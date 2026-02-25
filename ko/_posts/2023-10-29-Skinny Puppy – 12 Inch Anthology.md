@@ -10,17 +10,17 @@ tags:
 - EBM
 - 90s
 - Digital Rock
-title: 스키니 퍼피(Skinny Puppy) - 12인치 앤솔로지
+title: Skinny Puppy – 12 Inch Anthology
 ---
 
 
-Skinny Puppy는 캐나다 태생의 Kelvin Key와 Kevin Ogilvie가 1982년에 결성한 전자 산업 밴드입니다.
+Skinny Puppy(스키니 파피)는 캐나다 출신의 켈빈 키와 케빈 오그리비가 중심이 되어 1982년에 결성한 일렉트로인더스트리얼 밴드입니다.
 
-Skinny Puppy는 인더스트리얼 록과 일렉트로 인더스트리얼 장르의 창시자 중 하나로 알려져 있습니다.
+스키니 파피는 인더스트리얼 락과 일렉트로인더스트리얼 장르의 창시자 중 한 명으로 알려져 있습니다.
 
-이번 앨범은 밴드의 초기 싱글과 B-side를 모두 담은 컴필레이션 앨범이다.
+이 앨범은 밴드 초기의 싱글&B면이 수록된 컴파일 앨범입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Dig It
 
@@ -45,5 +45,5 @@ B5. Testure (12 Inch Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m35594422931?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pY6rk963lUU?si=7GszfkIxE3Q-pPi0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

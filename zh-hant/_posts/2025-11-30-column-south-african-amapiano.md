@@ -10,18 +10,18 @@ permalink: /zh-hant/column-south-african-amapiano/
 tags:
 - African
 - History
-title: 【專欄】南非Amapiano——來自南非的新舞曲文化
+title: 【專欄】南非Amapiano－來自南非的新舞曲文化
 ---
 
 
 
 ## 簡介 — 現在為什麼選擇 Amapiano？
 
-文：mmr｜主題：阿皮亞諾的起源、音樂特點、發展歷史、主要藝術家、國際化進程
+文：mmr｜主題：阿皮亞諾的起源、音樂特徵、發展歷史、主要藝術家、國際化進程
 
 近年來，起源於南非的舞曲**Amapiano**不僅在日本，而且在非洲、歐洲、北美和亞洲的俱樂部場景中受到關注。
 
-阿皮亞諾是一種草根音樂，誕生於鄉鎮（低收入城市地區）的青年文化，並在當地社區中培育。自 2020 年代以來，流媒體和 SNS 的傳播將曾經的“地下音樂”轉變為一場全球運動。
+阿皮亞諾是一種草根音樂，誕生於鄉鎮（低收入城市地區）的青年文化，並在當地社區中培養。自 2020 年代以來，串流媒體和 SNS 的傳播將曾經的「地下音樂」轉變為全球運動。
 
 ---
 
@@ -39,17 +39,17 @@ color: #fff;
 </style>
 
 
-## 第一章：起源和音樂根源
+## 第一章：起源與音樂根源
 
 ### 作為一種音樂流派的背景
 
 阿皮亞諾受到以下流派的影響：
 
 * **Kwaito**：20 世紀 90 年代在南非城市地區流行的舞曲/浩室音樂。
-* **Gqom**：源自德班的俱樂部音樂
+* **Gqom**：源自德班的社團音樂
 * **深屋、爵士、酒廊、靈魂樂/R&B**
 
-特別是，通過鄉鎮俱樂部、街頭派對、出租車站等進行的社區外展在阿皮亞諾的誕生中發揮了重要作用。
+特別是，透過鄉鎮俱樂部、街頭派對、出租車站等進行的社區外展在阿皮亞諾的誕生中發揮了重要作用。
 
 ### 聲學特性
 
@@ -58,8 +58,8 @@ Amapiano 的聲音由以下元素組成：
 * **原木鼓**：混合低音和木質打擊樂的獨特聲音。
 * **鋼琴/鍵盤**：流派名稱“Amapiano”在祖魯語中的意思是“鋼琴”
 * **不引人注目的鼓和振動器**：利用停頓和空白的節奏結構
-* **節奏**：慢節奏，大約 110–120 BPM
-* **聲樂**：演唱、說唱、合唱等多種風格。
+* **節奏**：慢節奏，約 110–120 BPM
+* **聲樂**：唱歌、饒舌、合唱等多種風格。
 
 這些元素結合在一起發展出了表達鄉鎮俱樂部和街道青年文化的音樂。
 
@@ -79,25 +79,25 @@ graph LR
 
 ---
 
-## 第 2 章：出生和早期發展（2010 年代初至中期）
+## 第 2 章：出生與早期發展（2010 年代初至中期）
 
 ### 地理和時間
 
-阿皮亞諾的出生地是南非的**豪登省**。尤其重要的是**約翰內斯堡**和**比勒陀利亞**的城鎮。
+阿皮亞諾的出生地是南非豪登省。尤其重要的是**約翰尼斯堡**和**比勒陀利亞**的城鎮。
 
-據多方消息稱，Amapiano 的實驗於 2012 年左右開始，隨後確立了“Amapiano”這一流派的統一名稱。
+據多方消息稱，Amapiano 的實驗於 2012 年左右開始，隨後確立了「Amapiano」這一流派的統一名稱。
 
 ### 先鋒和領域的形成
 
-* **MFR Souls (Tumelo Nedondwe 和 Tumelo Mabe)** 為早期 Amapiano 的形成做出了貢獻
-* 聲音在朋友之間分享，並通過 WhatsApp、俱樂部、派對和出租車候客站傳播。
+* **MFR Souls (Tumelo Nedondwe and Tumelo Mabe)** 為早期 Amapiano 的形成做出了貢獻
+* 聲音在朋友之間分享，並透過 WhatsApp、俱樂部、派對和計程車候客站傳播。
 * 這種 DIY/草根傳播成為該流派建立的基礎。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Dx62kohEnsg?si=9J2-_DUYJlzvfs5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 圖 2：出生地和最初傳播
+### 図2：発祥地と初期拡散
 
 <div class="mermaid">
 graph TD
@@ -111,7 +111,7 @@ graph TD
 
 ---
 
-我得到了它。現在，我將擴展第 3 章及以後的內容，並構建 **完整的日語草稿**，同時插入 Markdown 圖表。
+我得到了它。現在，我將擴展第 3 章及以後的內容，並建立 **完整的日文草稿**，同時插入 Markdown 圖表。
 
 ---
 
@@ -120,10 +120,10 @@ graph TD
 ### 聲音的凝固、風格的統一
 
 從2017年到2019年，Amapiano的聲音框架得到了鞏固，DJ和聽眾之間形成了共識。
-這一時期的特點是：
+這一時期的特徵是：
 
 * 原木鼓x鋼琴x打擊樂的標準化組合
-* 節奏約為 110-120 BPM，節奏緩慢。
+* 節奏約 110-120 BPM，節奏緩慢。
 * 將測試包括人聲和合唱在內的各種表達方式。
 
 結果，阿皮亞諾已經從單純的地下音樂發展成為一種被認可的風格。
@@ -133,10 +133,10 @@ graph TD
 * **Kabza De Small 和 DJ Maphorisa**
 
   * 2019年7月，發行專輯《**蝎子王**》。
-  * 推動該類型在全國范圍內的突破和商業化
+  * 推動該類型在全國範圍內的突破和商業化
   * 續集 **蝎子王歸來（2019 年 11 月）** 也取得了成功
 
-這一時期使阿皮亞諾音樂不再只是一種鄉鎮音樂，而是一種全國和商業認可的流派。
+在此期間，阿皮亞諾不僅僅是一種鄉鎮音樂，它還成為一種全國和商業認可的流派。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u2V08RBLOdM?si=ajNfLm30b3Pom53A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -156,17 +156,17 @@ graph LR
 
 ---
 
-## 第四章：流行期和加速傳播（2020-2022）
+## 第四章：流行期與加速傳播（2020-2022）
 
-### COVID-19 和在線傳播
+### COVID-19 和線上傳播
 
 * 由於封鎖，俱樂部於 2020 年關閉
-* 藝術家在線分發混音（例如 Balcony Mix）以提高全國范圍內的知名度。
+* 藝術家在線上分發混音（例如 Balcony Mix）以提高全國範圍內的知名度。
 * 美國職業 DJz 等年輕 DJ 也加入了這一趨勢。
 
 ### 代表專輯
 
-* **Kabza De Small“我是阿皮亞諾之王：甜蜜與塵埃”**（2020 年 6 月）
+* **Kabza De Small「我是阿皮亞諾之王：甜蜜與塵埃」**（2020 年 6 月）
 
   * 這張專輯展現了這一流派的成熟。
   * 不僅可以為俱樂部欣賞，也可以作為專輯作品欣賞的作曲
@@ -198,20 +198,20 @@ graph LR
 
 ---
 
-## 第 5 章：國際化和全球擴張（2021 年及以後）
+## 第 5 章：國際化與全球擴張（2021 年及以後）
 
 ### 跨境阿皮亞諾
 
-* 從 2021 年起在英國、歐洲、北美和亞洲的俱樂部/節日演出
-* 與非洲節奏的國際合作和融合也在不斷增加。
-* 全球流媒體播放數據將達到數十億次（2023 年）
+* 從 2021 年起在英國、歐洲、北美和亞洲的俱樂部/節慶演出
+* 與非洲節奏的國際合作和融合也在增加。
+* 全球串流媒體播放數據將達到數十億次（2023 年）
 
 ### 大型現場/音樂節
 
 * **2025 年 8 月：Scorpion Kings 與朋友們一起生活（比勒陀利亞）**
 
   * 約5萬人動員起來
-  * 確立該流派作為“文化和社會符號”的地位
+  * 確立該流派作為「文化和社會符號」的地位
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T-2AMmBAHOw?si=NEejihEQW1mT5w3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -236,23 +236,23 @@ graph TD
 
 ---
 
-## 第六章：聲音的演變與現在——多樣化、批評、未來
+## 第六章：聲音的演變與現在──多元、批評、未來
 
 ### 聲音多樣化
 
-* 爵士樂、R&B、靈魂樂、休閒音樂、非洲節奏音樂和嘻哈音樂的融合
+* 爵士樂、R&B、靈魂樂、休閒音樂、非洲節奏音樂與嘻哈音樂的融合
 * 聲音有祖魯語、英語和其他語言
 * 年輕藝術家探索新的表達方式
 
 ### 批評和擔憂
 
-* 商業化帶來的“同質化”和“爆款”擔憂
+* 商業化帶來的「同質化」與「爆款」擔憂
 * 然而，多元化和分支化也在同時進行，類型也在不斷演變。
 
 ### 未來的可能性
 
 * 發展不僅在南非境內，而且在整個非洲乃至全球範圍內。
-* 由於流媒體、數字發行和 SNS 傳播，預計將進一步增長。
+* 由於串流媒體、數位發行和 SNS 傳播，預計將進一步成長。
 
 ---
 
@@ -273,11 +273,11 @@ graph TD
 
 ---
 
-## 第 7 章：文化和社會影響
+## 第 7 章：文化與社會影響
 
-* Amapiano 是小鎮青年文化的體現
-* 語言、地域特色、日常生活、節日文化都在音樂中得到體現。
-* 通過國際化，也成為向世界展示“非洲青年文化”的窗口。
+* Amapiano 是小鎮青年文化的展現
+* 語言、地理特色、日常生活、節慶文化都在音樂中體現。
+* 透過國際化，也成為向世界展示「非洲青年文化」的窗口。
 
 ---
 
@@ -313,9 +313,15 @@ timeline
 
 ## 結
 
-阿皮亞諾 (Amapiano) 是南非標誌性的音樂流派，已從鄉鎮地下文化擴展到世界各地的俱樂部音樂節。
+阿皮亞諾 (Amapiano) 是南非的標誌性音樂流派，已從鄉鎮地下文化擴展到世界各地的俱樂部音樂節。
 其核心是“原木鼓×鋼琴×打擊樂×青年文化表達”，始終保持著堅定不移的原點，但在多元化和國際化中不斷發展。
 
 ---
 
+### YouTube 播客
 
+*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aB5twZG-_V4?si=-50AUkCwEL67JsUW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

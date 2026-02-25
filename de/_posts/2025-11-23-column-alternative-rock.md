@@ -27,7 +27,7 @@ Obwohl der Begriff „Alternative Rock“ in den frühen 1990er Jahren populär 
 
 In den 1980er Jahren konzentrierte sich der Mainstream-Rock auf lauten, arenagroßen Hardrock, kommerziell aufpolierten AOR und Pop-Rock im Zusammenhang mit MTV. Andererseits begann in regionalen Städten und Universitätsstädten eine neue Bewegung von Bands zu entstehen, die im DIY-Geist verwurzelt waren und nicht auf kommerziellen Erfolg basierten.
 
-In den Vereinigten Staaten produzierten damals unabhängige Labels wie SST Records, Twin/Tone und Touch and Go eine Vielzahl von Stilen, die nicht vom Genre abhängig waren. Dies war eine Bewegung, die als „College-Rock“ bekannt war, eine Band, die die Geschwindigkeit und den Antiautoritarismus des Hardcore-Punks erbte, aber einen freieren experimentellen Geist hatte.
+In den Vereinigten Staaten produzierten damals unabhängige Labels wie SST Records, Twin/Tone und Touch and Go eine Vielzahl von Stilen, die nicht vom Genre abhängig waren. Dies war eine Bewegung namens „College Rock“, eine Band, die die Geschwindigkeit und den Antiautoritarismus des Hardcore-Punks erbte, aber einen freieren experimentellen Geist hatte.
 
 Etwa zur gleichen Zeit verzweigte sich in Großbritannien die Post-Punk-Szene auf komplizierte Weise im Untergrund.
 Labels wie Factory, 4AD und Creation hatten alle ihre eigene, einzigartige Ästhetik und veröffentlichten eine breite Palette von Bands von Gitarrenpop über Shoegaze bis hin zu Gothic Rock.
@@ -52,7 +52,7 @@ color: #fff;
 
 ## **Kapitel 1: Von Postpunk zum College Rock (1980–1987)**
 
-R.E.M.s „Murmur“ aus dem Jahr 1983 ist als Ausgangspunkt für Alternativen besonders wichtig. Während sie sich vom Kommerz distanzierten, präsentierten sie Melodien, die vom Folk-Rock beeinflusst waren, und zweideutige Texte und erlangten eine große Anhängerschaft, insbesondere in amerikanischen Universitätsstädten. Der Erfolg von R.E.M. war der Moment, der bewies, dass „eine neue Art von Rock geschaffen werden konnte, die sich vom Mainstream unterscheidet, aber ein verlässliches Publikum hat“.
+R.E.M.s „Murmur“ aus dem Jahr 1983 ist als Ausgangspunkt für Alternativen besonders wichtig. Während sie sich vom Kommerz distanzierten, präsentierten sie Melodien, die vom Folk-Rock beeinflusst waren, und zweideutige Texte und erlangten eine große Anhängerschaft, insbesondere in amerikanischen Universitätsstädten. Der Erfolg von R.E.M. war der Moment, der bewies, dass „eine neue Art von Rock, anders als der Mainstream, aber mit einem zuverlässigen Publikum“, geschaffen werden konnte.
 
 Etwa zur gleichen Zeit entstanden Bands wie The Replacements, Hüsker Dü, The Feelies und Sonic Youth, die flexibel Lärm, Melodie und Experimente mischten. Insbesondere Sonic Youths Auseinandersetzung mit Gitarrenstimmung und Geräuschstruktur hatte großen Einfluss auf die spätere alternative Musik.
 
@@ -141,7 +141,7 @@ Mit Tame Impalas psychedelischer Route, Bon Ivers digitaler/Folk-Fusion, Deerhun
 
 Anstelle des „Anti-Kommerzialismus“ der Vergangenheit,
 **„Eine Produktionshaltung, die Unabhängigkeit und Experimentierfreude betont“**
-Dies blieb die Essenz von Alterna.
+Dies blieb die Essenz von alterna.
 
 ---
 
@@ -178,7 +178,7 @@ flowchart TD
 
 # **Kapitel 7: Der aktuelle Standort und die Zukunft von Alternativen**
 
-In den 2020er Jahren wird das Wort „Alternative“ zunehmend für die Bezeichnung „Ort“ oder „Gemeinschaft“ und nicht für das Genre verwendet.
+In den 2020er Jahren wird das Wort „Alternative“ zunehmend für einen „Ort“ oder eine „Gemeinschaft“ und nicht für ein Genre verwendet.
 Da sich der Indie-Vertrieb auf Bandcamp, die Ausweitung von Bedroom Pop und die Verbreitung genreübergreifender Produktionsumgebungen konzentriert, ist Alternative weiterhin ein Konzept, das den „Geist der unabhängigen Produktion“ symbolisiert.
 
 Obwohl es unwahrscheinlich ist, dass es zu einer so großen Bewegung wie in der Vergangenheit kommen wird, kann man sagen, dass der „Geist der Unabhängigkeit“ breitere Wurzeln geschlagen hat.
@@ -197,6 +197,6 @@ Dieser Zyklus ist das Symbol von Alterna und seine größte Anziehungskraft in d
 
 Egal wie sich die Musik der Zukunft verändert,
 „Kreativität, die sich mit dem bestehenden Zentrum nicht zufrieden gibt“
-Solange dies der Fall ist, werden auch weiterhin Alternativen entstehen.
+Solange dies der Fall ist, wird es weiterhin Alternativen geben.
 
 ---

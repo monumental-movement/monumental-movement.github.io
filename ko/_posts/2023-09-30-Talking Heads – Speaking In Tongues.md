@@ -9,20 +9,20 @@ permalink: /ko/talking-heads-speaking-in-tongues/
 tags:
 - Rock
 - Art Rock
-title: 말하는 머리 – 방언으로 말하기
+title: Talking Heads – Speaking In Tongues
 ---
 
 
-Talking Heads의 "Speaking In Tongues"는 1983년에 발매되었습니다. 이 앨범은 Talking Heads의 가장 상업적으로 성공한 앨범 중 하나였으며 그들의 음악적 발전과 혁신을 표시했습니다.
+Talking Heads의 'Speaking In Tongues'는 1983년에 출시되었습니다. 이 앨범은 토킹 헤즈 중에서도 특히 상업적으로 성공한 작품 중 하나이며, 그들의 음악적인 진화와 혁신을 나타내는 것이 되었습니다.
 
-이번 앨범은 토킹 헤즈(Talking Heads) 특유의 포스트 펑크와 뉴 웨이브 요소가 가득 담겨 있으며, 데이비드 번(David Byrne)의 보컬 스타일과 기발한 가사, 중독성 있는 리듬과 멜로디가 어우러져 독특한 사운드를 만들어낸다.
+앨범에는 토킹 헤즈의 특징적인 포스트 펑크와 뉴 웨이브의 요소가 담겨 있으며, 데이비드 번 (David Byrne)의 보컬 스타일, 기발한 가사, 캐치 리듬과 멜로디가 결합되어 독자적인 사운드를 낳고 있습니다.
 
-'Burning Down the House', 'This Must Be the Place(Naive Melody)' 등 수많은 히트곡이 수록되어 있습니다.
+「Burning Down the House」나 「This Must Be the Place (Naive Melody)」등 많은 히트곡이 수록되어 있습니다.
 
-이 앨범은 Talking Heads 팬이라면 꼭 들어야 할 앨범으로, 독특한 사운드와 지적인 가사로 'Speaking In Tongues'를 록 음악 역사에 한 획을 그었습니다.
+이 앨범은 토킹 헤즈의 팬들에게는 필청의 작품이며, 독특한 사운드와 지능적인 가사가 융합한 'Speaking In Tongues'는 록 뮤직의 역사에서도 하나의 이정표가 되고 있습니다.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Burning Down The House
 
@@ -45,5 +45,5 @@ B4. This Must Be The Place (Naive Melody)
 
 [メルカリで購入](https://jp.mercari.com/item/m36336920613?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4c_YkN-8WRM?si=ShsHgvGu001PzDQp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

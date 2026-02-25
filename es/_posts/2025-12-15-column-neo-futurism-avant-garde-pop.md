@@ -61,7 +61,7 @@ Desde la década de 2000, los entornos de producción que utilizan DAW y computa
 * Diseño de tono futurista y no orgánico.
 * Visuales que reconstruyen la representación corporal.
 * Convivencia de estructura pop (ganchos, repetición) y experimentación.
-* Una visión del mundo que se centra en la tecnología.
+* Una visión del mundo que hace de la tecnología el tema
 
 ---
 

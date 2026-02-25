@@ -14,11 +14,11 @@ title: 聲音的定義 – Moira Jane’s Café
 ---
 
 
-Definition Of Sound 是一個總部位於倫敦的舞曲音樂團體，由 Donald Weekes 和 Kevin Clark 組建。
+Definition Of Sound 是一個總部位於倫敦的舞曲音樂團體，由 Donald Weekes 和 Kevin Clark 組成。
 
-他們的第四張單曲《Moira Jane's Café》於 1992 年發行，是一首 house 曲目，不僅在英國而且在全世界都很受歡迎。
+他們的第四首單曲《Moira Jane's Café》於 1992 年發行，是一首 house 曲目，不僅在英國而且在全世界都很受歡迎。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1.Moira Jane's Café (Live Version)
 
@@ -33,7 +33,7 @@ B2.Moira Jane's Café (Maurice's House Mix)
 B3.Moira Jane's Café (Aw Shucks Dub)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m85621168968?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m85621168968?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8UzQQQIdAfM?si=NtJ41PyQxEADm4xJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

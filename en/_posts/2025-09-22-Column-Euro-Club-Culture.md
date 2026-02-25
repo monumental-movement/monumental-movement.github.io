@@ -51,7 +51,7 @@ Due to the establishment of MTV Europe (1987), it was distributed as a set with 
 
 High-quality music videos by artists such as Real McCoy, Culture Beat, and 2 Unlimited resonated with American viewers and entered the Billboard charts as a reimport.
 
-**● パラパラ、J-WAVE、スーパー・ユーロビート**
+**● Parapara, J-WAVE, Super Eurobeat**
 
 In Japan, J-WAVE and Bay FM actively broadcast the euro.
 

@@ -11,18 +11,18 @@ tags:
 - World
 - Country
 - 80s
-title: 랜디 트래비스 - 생명의 폭풍
+title: Randy Travis – Storms Of Life
 ---
 
 
-랜디 트래비스는 1979년부터 활동한 미국의 컨트리 가수이자 배우이다.
+Randy Travis(랜디 트래비스)는 1979년부터 활동하는 미국 컨트리 가수 배우.
 
-1986년에 발매된 그들의 데뷔 스튜디오 앨범인 Storms of Life는 큰 상업적 성공을 거두었고 그들을 유명하게 만들었습니다. 트리플 플래티넘 디스크 인증을 받았습니다.
+1986년 출시된 데뷔 스튜디오 앨범 'Storms Of Life'는 상업적으로 대성공을 거두어 이 앨범에서 일약 유명해졌다. 트리플 플래티넘 디스크로 인증되었습니다.
 
-랜디 트래비스(Randy Travis)는 레바 맥엔타이어(Reba McEntire), 조지 해협(George Strait), 토비 키스(Toby Keith) 등과 함께 신전통주의 국가 발전에 기여한 인물 중 한 명으로 알려져 있다.
+Randy Travis는 리버 맥킨타이어, 조지 스트레이트, 토비 키스 등과 함께 네오트래디셔널 컨트리의 발전에 공헌한 한 사람으로 알려져 있다.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. On The Other Hand
 A2. The Storms Of Life
@@ -39,5 +39,5 @@ B5. There'll Always Be A Honky Tonk Somewhere
 
 [メルカリで購入](https://jp.mercari.com/item/m46471890400?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/syhTjuxqpVA?si=Xcy3uenTrKoAJG3J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

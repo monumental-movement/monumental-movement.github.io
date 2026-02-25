@@ -15,7 +15,7 @@ title: '[Columna] Andy Goldsworthy y la música: resonancia artística en torno 
 ---
 
 
-## Andy Goldsworthy y la música: resonancia artística en torno al tiempo y la naturaleza
+## Andy Goldsworthy y la música - Resonancia artística en torno al tiempo y la naturaleza
 
 Texto: mmr｜Tema: Las obras de Andy Goldsworthy y la resonancia sonora del ambiente, la grabación de campo y la música minimalista.
 
@@ -43,7 +43,7 @@ color: #fff;
 | Temas | Las obras de Goldsworthy | Similitudes con la música |
 |--------|----------------|----------------|
 | **Tiempo** | Obras basadas en la premisa de cambios como hielo, hojas, ramas, etc. derritiéndose o marchitándose | Sentido musical del tiempo mediante cambios de fase y bucles (por ejemplo, Steve Reich) |
-| **Ubicación** | Las obras son inseparables del entorno natural donde se crean | Música que capta los "sonidos del lugar" a través de grabaciones de campo |
+| **Ubicación** | Las obras son inseparables del entorno natural donde se crean | Música que capta los “sonidos del lugar” a través de grabaciones de campo |
 | **Transiencia** | Obras que colapsan por el viento, la lluvia y la luz solar | Reverberaciones que desaparecen y desvanecimientos de sonidos sostenidos |
 | **Ciclo** | Destaca los ciclos de las estaciones y los fenómenos naturales | Sentido cíclico del tiempo a través de drones y estructuras repetitivas |
 | **Silencio** | La importancia del espacio y el intervalo | La presencia del "silencio" en John Cage y las obras ambientales |
@@ -53,7 +53,7 @@ color: #fff;
 ### Obras/proyectos representativos de Goldsworthy
 
 - **Serie Bola de Nieve**: Se coloca una enorme bola de nieve en una ciudad y se muestra a medida que se derrite con el tiempo.
-- **Icicle Star**: Un trozo de hielo que se ensambla en forma de estrella y se derrite al amanecer.
+- **Icicle Star**: Un trozo de hielo con forma de estrella que se derrite al amanecer.
 - **Stone River (1997)**: Un muro de piedra serpenteante instalado en la Universidad de Stanford en Estados Unidos.
 - **Hojas y agujero de serbal**: Una obra en la que hojas rojas están dispuestas en círculo y flotan en la superficie del agua.
 - **Storm King Wall (1997–98)**: Un largo muro de piedra serpenteante en el Storm King Art Center de Nueva York.
@@ -95,7 +95,7 @@ color: #fff;
 
 ---
 
-### Lista de reproducción estructurada según el “flujo del tiempo”
+### Lista de reproducción organizada según el “flujo del tiempo”
 
 #### mañana
 

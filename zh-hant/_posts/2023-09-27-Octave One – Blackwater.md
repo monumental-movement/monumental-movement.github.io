@@ -17,14 +17,14 @@ title: 八度一 - 黑水（改變自我混音）
 
 德國 techno 界資深人士 Jorn Elling Wuttke 和 Roman Flugel 的 Alter Ego 混音非常出色。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Blackwater (Alter Ego Vocal Mix)
 
 B. Blackwater (Alter Ego Dub)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m73391781068?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m73391781068?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/687F3j2nZ-4?si=2ajm1apVr5h5OHnY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,16 +10,16 @@ tags:
 - Folk Rock
 - Rock
 - 90s
-title: 키나 쇼키치 + 야노 마코토 - The Celebrations
+title: Shokichi Kina + Makoto Yano – The Celebrations
 ---
 
 
-류큐 민요를 현대적으로 편곡한 '우치나 팝'을 창시한 키노 쇼키치와 프로듀서 겸 피아니스트 야노 마코토가 1982년 오사카와 도쿄에서 라이브로 녹음했습니다. 키노 쇼키치의 대표곡 'Hana'도수록되어 있습니다. 1990년 재발매.
+류큐의 민요를 현대풍으로 어레인지한 「우치나 팝」을 확립한 키노 마사요시와, 프로듀서/피아니스트의 야노 마코토에 의한 1982년의 오사카・도쿄 라이브 녹음. 키노 마사요시의 대표곡 '꽃'도 수록되어 있다. 1990년에 발매된 재발반.
 
-키노 쇼키치 + 야노 마코토
-1982년 오사카/도쿄 라이브 “The Celebrations”
+키노 마사요시 + 야노 마코토
+1982년 오사카・도쿄 라이브 「더 셀러브레이션즈」
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Cosmic Dance
 2. Aru Naiko
@@ -40,5 +40,5 @@ title: 키나 쇼키치 + 야노 마코토 - The Celebrations
 
 [メルカリで購入](https://jp.mercari.com/item/m31188097241?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kR5_BUy_B-Y?si=25ktUjtmb20p7Ao_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

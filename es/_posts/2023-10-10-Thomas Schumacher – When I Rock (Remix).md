@@ -9,7 +9,7 @@ permalink: /es/thomas-schumacher-when-i-rock-remix/
 tags:
 - Techno
 - Electro
-title: Thomas Schumacher – Cuando me rockeo (Remix)
+title: Thomas Schumacher – Cuando rockeo (Remix)
 ---
 
 

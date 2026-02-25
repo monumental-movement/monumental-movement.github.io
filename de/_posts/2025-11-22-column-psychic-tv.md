@@ -55,7 +55,7 @@ Durch seine Arbeit mit COUM Transmissions entwickelte Genesis ein starkes Intere
 
 Throbbing Gristle wurde 1976 gegründet und schockierte die Musikwelt Ende der 1970er Jahre mit ihrem Lärm, ihrer Industrial-Musik und ihren Live-Auftritten im Guerilla-Stil. 1981 löste sich die Gruppe jedoch auf. Kurz darauf startete Genesis ein neues musikalisches und künstlerisches Projekt mit Peter Christopherson und Alex Fergusson. Das ist Psychic TV.
 
-Psychic TV wurde nicht nur als Musikband konzipiert, sondern als „Multimedia-Kollektiv“, das Musik, Video, Performance und Okkultismus integriert und von Anfang an eine Struktur hatte, die den Schwerpunkt auf Experimente und Provokation legte.
+Psychic TV war nicht nur eine Musikband, sondern wurde als „Multimedia-Kollektiv“ konzipiert, das Musik, Video, Performance und Okkultismus integriert und von Anfang an eine Struktur hatte, die Experimente und Provokation in den Vordergrund stellte.
 
 ---
 
@@ -69,7 +69,7 @@ Frühe Musik zeichnete sich durch Innovationen aus, die über traditionelle Genr
 
 #### 3.2 Live-Auftritte und Videokunstaktivitäten
 
-Auch bei der Live-Performance war Psychic TV innovativ. Bei vielen Live-Auftritten wurden Videogeräte und mehrere Bildschirme eingesetzt, um dem Publikum ein herausforderndes und zeremonielles Erlebnis zu bieten. Es wurde versucht, die Live-Performance selbst als eine Art rituellen Raum zu rekonstruieren, nicht nur durch Musik, sondern auch durch Bilder und körperlichen Ausdruck.
+Auch bei der Live-Performance war Psychic TV innovativ. Bei vielen Live-Auftritten wurden Videogeräte und mehrere Bildschirme eingesetzt, um dem Publikum ein herausforderndes und rituelles Erlebnis zu bieten. Es wurde versucht, die Live-Performance selbst als eine Art rituellen Raum zu rekonstruieren, nicht nur durch Musik, sondern auch durch Bilder und körperlichen Ausdruck.
 
 #### 3.3 Geburt von Thee Temple ov Psychick Youth (T.O.P.Y.)
 
@@ -115,7 +115,7 @@ Nach seinem Umzug in die Vereinigten Staaten änderte Genesis seinen kreativen S
 
 Im Jahr 2003 wurde Psychic TV als PTV3 wieder vereint, begrüßte neue Mitglieder wie Edley ODowd und nahm Aktivitäten wieder auf, die Video, Ton und Performance integrierten.
 
-#### 6.2 Alben und konzeptionelle Arbeiten
+#### 6.2 Alben und konzeptuelle Arbeiten
 
 Zu den späteren Alben gehörten „Hell Is Invisible...Heaven Is Her/e“, „Mr. „Alien Brain vs. The Skinwalkers“ und „Alienist“, die ihren früheren Experimentalismus fortsetzten und gleichzeitig ein strukturiertes Konzept präsentierten.
 

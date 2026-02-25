@@ -9,17 +9,17 @@ permalink: /ko/elvis-aloha-from-hawaii-via-satellite/
 tags:
 - Rock
 - 70s
-title: 엘비스 – 위성을 통해 하와이에서 온 알로하
+title: Elvis – Aloha From Hawaii Via Satellite
 ---
 
 
-엘비스 프레슬리의 1973년 하와이 공연 라이브 앨범 - 일본 오리지널 컴필레이션.
+Elvis Presley(엘비스 프레슬리)의 1973년 하와이 공연 라이브 앨범 - 일본 독자 편집반입니다.
 
-1973년 1월 14일 일요일 오전 12시 30분 호놀룰루 국제센터에서 라이브로 녹음되었습니다.
+녹음은, 1973년 1월 14일(일요일) 오전 12:30, 호놀룰루 국제 센터에서 라이브 녹음.
 
-이번 앨범은 TV스페셜 방영 이후 급하게 발매된 일본 특집 컴필레이션 앨범이다.
+이 앨범은 텔레비전 특별번호 방영 후 급히 출시된 일본 독자적인 편집반입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Introduction: Also Sprach Zarathustra
 
@@ -72,5 +72,5 @@ D5. Can't Help Falling In Love
 
 [メルカリで購入](https://jp.mercari.com/item/m26998964951?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DfjIOL5MxLY?si=D3tE4-uWTEr-rsiM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

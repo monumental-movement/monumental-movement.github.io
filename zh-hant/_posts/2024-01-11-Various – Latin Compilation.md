@@ -14,11 +14,11 @@ title: 各種 – 拉丁語彙編
 ---
 
 
-Trebol Clan 是來自波多黎各的雷鬼樂隊。
+Trebol Clan（トレボルクラン）はプエルトリコ出身のレゲトン・グループ。
 
-尼基·賈姆（Nicky Jam）是一位在拉丁音樂界享有盛譽的美國歌手和詞曲作家，對雷鬼頓和拉丁陷阱的發展做出了重大貢獻。
+尼基·賈姆（Nicky Jam）是一位在拉丁音樂界享有盛譽的美國歌手和詞曲作者，對雷鬼頓和拉丁陷阱的發展做出了巨大貢獻。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Trebol Clan – Agarrate
 
@@ -33,5 +33,5 @@ B2. Zion, Hector –Mirandonos
 B3. Julio Voltio, Tego Calderón – Se Van
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m58940347986?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m58940347986?afid=6142608987){: .button1}
 

@@ -67,7 +67,7 @@ Tomamos las pistas características de Len Faki y las analizamos en detalle, inc
 
 #### información básica
 - BPM: 125
-- Tonalidad: Sol mayor
+- Tonalidad: sol mayor
 - Lanzamiento: CD de mezcla de Berghain 03 incluido, 2009
 
 #### Estructura y ritmo de la canción.
@@ -89,7 +89,7 @@ A menudo se usa desde la mitad hasta el final de una serie y es la pista princip
 
 #### información básica
 - BPM: 129
-- Tonalidad: Sol mayor
+- Tonalidad: sol mayor
 - Duración: Aproximadamente 8 minutos 15 segundos
 
 #### Estructura y ritmo de la canción.

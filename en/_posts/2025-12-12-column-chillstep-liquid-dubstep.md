@@ -103,7 +103,7 @@ The symbol of Chillstep is "smooth sub-bass."
 Liquid Dubstep inherits the feel of Liquid Drum"n"Bass, with a more "transparent, water-like" texture.
 
 * Clear high-end and sparkling impression
-*High vocal chop ratio
+* High vocal chop ratio
 *Base is smoother and less jittery
 * Often uses one-shot FX like bubbles
 
@@ -218,7 +218,7 @@ Emphasis is placed on ""sustainability" and ""lingering resonance" rather than m
 
 * Sine wave center
 * Mix in triangle waves to add warmth if desired
-*LFO is gentle
+* LFO is gentle
 * Side chain is thin
 * Release is short and tight
 

@@ -14,10 +14,10 @@ title: Synapsi 壯舉 Conny Lee – 你離開我了嗎
 
 
 《你要離開我嗎》是
-這是 Synapsi 於 1993 年在意大利唱片公司“Technology”上發行的 EP。
+這是 Synapsi 於 1993 年在義大利唱片公司「Technology」上發行的 EP。
 
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Are You Leaving Me? (Techno Beat)
 
@@ -28,7 +28,7 @@ B1. Are You Leaving Me? (House Beat)
 B2. Are You Leaving Me? (Instrumental)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m48922675494?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m48922675494?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PavLldO9Tmg?si=wmDa-xKnGXAUQeA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

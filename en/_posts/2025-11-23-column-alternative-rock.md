@@ -69,7 +69,7 @@ These three became the basis for later Alterna.
 
 Since 1987, US indie music has become more sophisticated, and album production methods have evolved significantly. Pixies released "Surfer Rosa" in 1988, clarifying the dynamic structure of "stillness and movement." This structure was later taken over by Nirvana, leading to the explosion of grunge.
 
-Dinosaur Jr. also brought back guitar solos and fused roar, defining the grammar of later alternative guitar.
+Dinosaur Jr. also brought back the guitar solo and fused it with roaring sounds, defining the grammar of later alternative guitar.
 Fugazi retained the spirit of hardcore, introduced melodies and structural arrangements, and held its own as a DIY icon.
 
 In the UK, bands such as Stone Roses (1989) and My Bloody Valentine (1990) appeared, and the Manchester scene and shoegaze brought a new trend to Europe.
@@ -87,7 +87,7 @@ characteristic of grunge
 ・Lyrics full of instability
 ・Mixture of roar and melody
 ・Punk ethics
-However, it presented a different set of values ​​from commercial rock, and became a worldwide movement with mass broadcasts by MTV.
+However, it presented a different set of values ​​from commercial rock, and became a worldwide movement with mass broadcasts on MTV.
 
 Around the same time, bands from Seattle such as Pearl Jam, Soundgarden, and Alice in Chains achieved success one after another, and became recognized worldwide as "representatives of grunge/alternative."
 

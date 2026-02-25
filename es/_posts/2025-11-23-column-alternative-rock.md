@@ -52,7 +52,7 @@ color: #fff;
 
 ## **Capítulo 1: Del postpunk al rock universitario (1980–1987)**
 
-Murmur de 1983 de R.E.M. es particularmente importante como punto de partida para la música alternativa. Aunque se distanciaron del comercialismo, presentaron melodías influenciadas por el folk rock y letras ambiguas, y ganaron un gran número de seguidores, especialmente en las ciudades universitarias estadounidenses. El éxito de R.E.M. fue el momento que demostró que se podía crear "un nuevo tipo de rock que es diferente del convencional, pero que tiene una audiencia confiable".
+Murmur de 1983 de R.E.M. es particularmente importante como punto de partida para la música alternativa. Aunque se distanciaron del comercialismo, presentaron melodías influenciadas por el folk rock y letras ambiguas, y ganaron un gran número de seguidores, especialmente en las ciudades universitarias estadounidenses. El éxito de R.E.M. fue el momento que demostró que se podía crear "un nuevo tipo de rock, diferente del convencional, pero con una audiencia confiable".
 
 Casi al mismo tiempo, surgieron bandas como The Reemplazos, Hüsker Dü, The Feelies y Sonic Youth, que mezclaban de manera flexible ruido, melodía y experimentación. En particular, la exploración de Sonic Youth sobre la afinación de la guitarra y la estructura del ruido tuvo una gran influencia en la música alternativa posterior.
 
@@ -118,7 +118,7 @@ Este movimiento conecta con bandas líricas y experimentales como Radiohead y Th
 ¡El ascenso de Tortuga, Mogwai, Godspeed You! Black Emperor y otros traspasaron los límites del rock.
 
 La alternativa ya no es un estilo único;
-**"Un ​​término general para la creatividad que no se refleja en el comercialismo"**
+**"Un ​​término general para la creatividad que no se recupera mediante el comercialismo"**
 Se ha llegado a entender como.
 
 ---

@@ -94,7 +94,7 @@ La edición no lineal introducida por Pro Tools ya no era el "concepto de cinta"
 
 ### ■ La transformación de Steinberg: Cubase Audio (1992)
 
-*MIDI y integración de audio
+* Integración de audio y MIDI
 * Funciones de edición innovadoras en ese momento.
 * **VST 1.0** se introdujo en 1996 y tuvo uno de los mayores impactos en la historia de DAW.
 
@@ -107,7 +107,7 @@ En este momento comenzó una cultura de aceptación del software de complementos
 * Introduciendo activamente sintetizadores suaves.
 
 emagic y Steinberg compiten como dos DAW importantes de Alemania.
-Digidesign está en camino de convertirse en el "rey absoluto de la edición de audio".
+Digidesign avanza hacia convertirse en el "rey absoluto de la edición de audio".
 
 ---
 
@@ -217,7 +217,7 @@ Durante este período, los DAW se generalizaron con **procesamiento nativo depen
 * Precios más bajos (hasta el rango de 10,000 yenes)
 * Optimización para maximizar el rendimiento de Mac
 
-### ■ Avid: Migrar a HDX y AAX
+### ■ Avid: Migración a HDX y AAX
 
 * DSP e integración nativa
 * Pro Tools sigue siendo el estándar de estudio
@@ -262,7 +262,7 @@ En los últimos años, la historia de los DAW ha experimentado otro cambio impor
 
 ### ■ Adobe: Aumento de la demanda de distribución y radiodifusión
 
-* Ventajas de integración con Premiere
+* Ventaja de integración con Premiere
 * Fuerte en la era YouTube/Podcast
 
 ---

@@ -11,13 +11,14 @@ tags:
 - Rock
 - Pops
 - 60s
-title: 워커 브라더스(The Walker Brothers) – 태양은 더 이상 빛나지 않을 것이다(베이비) 나에게 말할 필요도 없다
+title: The Walker Brothers –The Sun Ain't Gonna Shine Anymore (Baby) You Don't Have
+  To Tell Me
 ---
 
 
-워커 브라더스(The Walker Brothers)는 1960년대 로스앤젤레스에서 결성된 보컬 그룹이다.
+The Walker Brothers(더 워커 브라더스)는 1960년대에 로스앤젤레스에서 결성된 보컬 그룹.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1  The Sun Ain't Gonna Shine (Anymore)
 
@@ -46,5 +47,5 @@ B6  Don't Fight It
 
 [メルカリで購入](https://jp.mercari.com/item/m34490368131?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H27FxxaeS9Q?si=3bCcsgMXOXdFagwU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

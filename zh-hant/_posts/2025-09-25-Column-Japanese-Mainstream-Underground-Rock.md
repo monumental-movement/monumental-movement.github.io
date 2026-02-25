@@ -10,15 +10,15 @@ tags:
 - Rock
 - Noise
 - Psychedelic Rock
-title: 【專欄】日本搖滾史：主流與地下的交匯
+title: 【專欄】日本搖滾史：主流與地下的交會
 ---
 
 
-## 日本岩石歷史的雙重結構：前段與地下水脈
+## 日本岩石史的雙重結構：前段與地下水脈
 
 文：mmr｜主題：日本主流與地下搖滾
 
-日本搖滾以[Group Sounds (GS)](https://amzn.to/4gP5wli)開始傳播，並在20世紀60年代蓬勃發展。但與此同時，一股脫離公共舞台、具有實驗精神和破壞性能量的“地下搖滾”潮流誕生了。 Naked Larry's、Keiji Haino、Boredoms、Acid Mother's Temple 等樂隊幫助日本的噪音搖滾和迷幻音樂在國際上廣為人知。
+日本搖滾以[Group Sounds (GS)](https://amzn.to/4gP5wli)開始傳播，並在20世紀60年代蓬勃發展。但同時，一股脫離公共舞台、具有實驗精神和破壞性能量的「地下搖滾」潮流誕生了。 Naked Larry's、Keiji Haino、Boredoms、Acid Mother's Temple 等樂團幫助日本的噪音搖滾和迷幻音樂在國際上廣為人知。
 
 ---
 
@@ -36,11 +36,11 @@ color: #fff;
 
 ### 20 世紀 60 年代：拉里裸體的震撼
 
-[Naked Rally's](https://amzn.to/4mxUd1T) — 充滿酸和噪音的迷幻搖滾是日本“地下音樂”的起源。就連盜版音源也變得神秘起來。
+[Naked Rally's](https://amzn.to/4mxUd1T) — 充滿酸和噪音的迷幻搖滾是日本「地下音樂」的起源。就連盜版音源也變得神秘起來。
 
 ---
 
-### 20世紀70年代：灰野敬二的實驗精神
+### 70年代：灰野敬二的實驗精神
 
 [Keiji Haino](https://amzn.to/46ngHxU) — 跨越即興創作、自由爵士樂和噪音。它對國內外實驗音樂界產生了決定性的影響。
 
@@ -48,7 +48,7 @@ color: #fff;
 
 ---
 
-### 20 世紀 80 年代：樂隊熱潮
+### 20 世紀 80 年代：樂團熱潮
 
 在[BOØWY](https://amzn.to/48lIrED) / [RC Succession](https://amzn.to/48DtL3B)等主流音樂的同時，來自地下的實驗精神也增加了存在感。
 
@@ -68,21 +68,21 @@ color: #fff;
 
 ---
 
-### 2000年代：ギターウルフの爆音ロックンロール
+### 2000 年代：吉他狼的搖滾樂
 
-[Guitar Wolf](https://amzn.to/42cIG0G) — “Jet Rock and Roll”的旗手。在海外巡演後，他們成為車庫搖滾復興的象徵。
+[Guitar Wolf](https://amzn.to/42cIG0G) — 「Jet Rock and Roll」的旗手。在海外巡迴演出後，他們成為車庫搖滾復興的象徵。
 
 ---
 
-### 2010年代〜現在：再評価とデジタル時代
+### 2010 年代至今：重新評估與數位時代
 
 Shonen Knife、Keiji Haino、Boredoms 等在海外正在接受重新評估。
 
-搖滾聲音將與電影配樂製作和人工智能音樂生成相結合，地下精神將以新的方式複活。
+搖滾聲音將與電影配樂製作和人工智慧音樂生成相結合，地下精神將以新的方式復活。
 
 ---
 
-### 各代人和主要藝術家的演變
+### 各代和主要藝術家的演變
 
 <div class="mermaid">
 flowchart TD
@@ -98,33 +98,33 @@ flowchart TD
 
 ### 各代推薦傑作榜單
 
-|藝術家 |年份|傑作|特點|友情鏈接 |
+|藝術家 |年份|傑作|特點|友情連結 |
 |------------|-----|------|-----|------|
 |裸體拉里的| 20 世紀 60 年代至 70 年代 | 《現場1972》|迷幻又喧鬧的傳奇開機板作品| [mercari](https://jp.mercari.com/item/m84819164983?afid=6142608987) |
-|灰野敬二 | 20 世紀 70 年代 | “渡志岳？” (1973) |一張在沉默與爆發之間來回穿梭的孤獨個人專輯 | [亞馬遜](https://amzn.to/4pJ0OJw) |
-|少年刀| 20 世紀 80 年代 | 《燃燒的農場》(1983) |流行朋克的開端，在海外獨立音樂界也受到好評 | [亞馬遜](https://amzn.to/3Vycp0t) |
+| 灰野敬二 | 20 世紀 70 年代 | “渡志岳？” (1973) |一張在沉默與爆發之間來回穿梭的孤獨個人專輯 | [亞馬遜](https://amzn.to/4pJ0OJw) |
+|少年刀 | 20 世紀 80 年代 | 《燃燒的農場》(1983) |流行朋克的開端，在海外獨立音樂界也受到好評 | [亞馬遜](https://amzn.to/3Vycp0t) |
 |博威 | 20 世紀 80 年代 | “只是一個英雄”（1986）|日本樂隊熱潮巔峰，街頭氣勢| [亞馬遜](https://amzn.to/3IBpnrk) |
 |
 |無聊| 20 世紀 90 年代 | “視覺創造新太陽”（1999）|極端的迷幻噪音，帶來恍惚的體驗 | [亞馬遜](https://amzn.to/4nGVs0l) |
 |融化香蕉| 20 世紀 90 年代 | “細胞景觀”（1994/2003）|噪音核心/研磨手感，海外巡演大受歡迎 | [亞馬遜](https://amzn.to/4nX25vb) |
-|酸母寺 | 2000 年代 | “Univers Zen ou de Zéro à Zéro” (2002) |無人機和即興迷幻洪流| [亞馬遜](https://amzn.to/4nh87Xm) |
+|酸母寺 | 2000 年代 | “Univers Zen ou de Zéro à Zéro” (2002) |無人機與即興迷幻洪流| [亞馬遜](https://amzn.to/4nh87Xm) |
 |酸母寺 | 2000 年代 | “拉諾維亞”|川端元的太空迷幻果醬，史詩般的旅行感覺 | [亞馬遜](https://amzn.to/47XWVKz) |
-|山本精一 | 2000 年代 | “模糊凹槽之冠”(2002) |實驗與旋律共存的獨奏傑作 | [亞馬遜](https://amzn.to/4pJ0ESq) |
-|吉他狼| 2000 年代 | 《噴氣一代》(1999) |世界上最響亮的搖滾專輯 | [亞馬遜](https://amzn.to/4pIAlMg) |
+|山本精一 | 2000 年代 | 「模糊凹槽之冠」(2002) |實驗與旋律共存的獨奏傑作 | [亞馬遜](https://amzn.to/4pJ0ESq) |
+|吉他狼| 2000 年代 | 《噴射世代》(1999) |世界上最響亮的搖滾專輯 | [亞馬遜](https://amzn.to/4pIAlMg) |
 |拉德溫普斯 | 2010 年代 | “你的名字。原聲帶”(2016) |搖滾與配樂製作的融合，國際議論| [亞馬遜](https://amzn.to/46Gp9XV) |
-|尤阿索比 | 2020 年代 | “這本書”（2021）|數字時代的流行搖滾包括人工智能方法 | [亞馬遜](https://amzn.to/4gHaMXT) |
+|尤阿索比 | 2020 年代 | “這本書”（2021）|數位時代的流行搖滾包括人工智慧方法 | [亞馬遜](https://amzn.to/4gHaMXT) |
 
 
 ---
 
 
 
-### 常見問題解答：關於日本地下搖滾
+### 常見問題：關於日本地下搖滾
 
 
-**Q1。日本地下搖滾和主流有什麼區別？ **
+**Q1。日本地下搖滾和主流有什麼不同？ **
 
-A1。重點是實驗和原創性，而不是商業上的成功。另一個特點是他們在海外巡演和獨立界都受到了高度評​​價。
+A1。重點是實驗和原創性，而不是商業上的成功。另一個特點是他們在海外巡迴和獨立界都受到了高度評價。
 
 **問題2：為什麼Naked Larrys 音源如此稀有？ **
 
@@ -136,17 +136,26 @@ A3：這是因為我們獨特的現場製作結合了迷幻和噪音以及壓倒
 
 **Q4：為什麼Melt-Banana在海外很受歡迎？ **
 
-A4：我們憑藉壓倒性的現場表演、速度感以及與約翰·佐恩等實驗音樂家的聯繫而獲得了國際讚譽。
+A4：我們憑藉著壓倒性的現場表演、速度感以及與約翰·佐恩等實驗音樂家的聯繫而獲得了國際讚譽。
 
-**Q5：山本精一最著名的作品是什麼？ **
+**Q5：山本精一最著名的作品是？ **
 
-A5：[Memory Wharf ``Underwater Joe''](https://amzn.to/4pJINuQ)、[ROVO 現場表演](https://amzn.to/4gJvJRT) 和個人作品 [``Crown of Fuzzy Groove''](https://amzn.to/4pJ0ESq) 都很重要。
+A5：[Memory Wharf ``Underwater Joe''](https://amzn.to/4pJINuQ)、[ROVO的現場表演](https://amzn.to/4gJvJRT)和個人作品[``Crown of Fuzzy Groove''](https://amzn.to/4pJ0ES)都很重要。
 
 ---
 
 ### 概括
 
-日本的搖滾史是與前面的“主流”和後面的“地下”並行發展的。從 Naked Larry's 到 Guitar Wolf 的血統一直延續到當前的人工智能時代，繼續擴大搖滾樂的可能性。日本搖滾樂將繼續為世界樂壇提供“實驗和動力”。
+日本的搖滾史是與前面的「主流」和後面的「地下」並行發展的。從 Naked Larry's 到 Guitar Wolf 的血統一直延續到當前的人工智慧時代，繼續擴大搖滾樂的可能性。日本搖滾樂將繼續為世界樂壇提供「實驗與動力」。
+
+---
+
+
+### YouTube 播客
+
+*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CbCbxcj48jY?si=hS_WqAE6eWEpOhne" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

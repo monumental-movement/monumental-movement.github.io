@@ -17,7 +17,7 @@ title: 蒂娜——一定有天使
 
 90 年代流行的作品，以輕鬆而深情的方式講述英語。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1  There Must Be An Angel (Original Version)
 
@@ -26,5 +26,5 @@ B1  There Must Be An Angel (Instrumental)
 B2  There Must Be An Angel (A Cappella)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m20772595630?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m20772595630?afid=6142608987){: .button1}
 

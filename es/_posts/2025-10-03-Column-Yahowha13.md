@@ -14,12 +14,12 @@ title: '[Columna] Yahowha13 y Father Yod — El viaje de la música de culto psi
 ---
 
 
-##  Yahowha 13とは何か ─ Father YodとSource Familyの音楽遺産
+## ¿Qué es Yahowha 13? - El legado musical del Padre Yod y la Familia Source
 
 Texto: mmr｜Tema: Sobre un proyecto inusual que fusiona música, religión y prácticas comunitarias que van más allá de las bandas de culto.
 
 
-Yahowha13（別表記：Ya Ho Wha 13, Yahowah 13, YaHoWa13など）は、1970年代前後に活動したアメリカのスピリチュアル・コミューン “Fuente Familia (ソース・ファミリー)”に結びついた、即興性と儀式性を強く帯びたサイケデリック・ロック／実験音楽プロジェクトです. El personaje central es el padre Yod (nombre real: James Edward Baker).彼自身が宗教運動のリーダーでありながら音楽にも深く関与し、その音楽活動を通じて教えを拡張しようとしました.
+Yahowha13 (también conocido como Ya Ho Wha 13, Yahowah 13, YaHoWa13, etc.) es un proyecto de rock psicodélico/música experimental con un fuerte sentimiento de improvisación y ritualismo, conectado a la comuna espiritual estadounidense "Source Family" que estuvo activa alrededor de la década de 1970. El personaje central es el padre Yod (nombre real: James Edward Baker). Aunque él mismo fue un líder de un movimiento religioso, también estuvo profundamente involucrado en la música y buscó expandir sus enseñanzas a través de sus actividades musicales.
 
 ---
 
@@ -36,14 +36,14 @@ color: #fff;
 </style>
 
 
-### Father Yod／James Edward Baker — 軌跡と伝説
+### Padre Yod/James Edward Baker - Trayectoria y leyenda
 
 #### Vida temprana y carrera
 
 Nacido el 4 de julio de 1922 en Cincinnati, Ohio. Más tarde habla de su experiencia sirviendo como infante de marina (aunque algunos señalan que su medalla Silver Star no se puede encontrar en los registros oficiales).
 
 
-Abrió un restaurante de comida saludable llamado ``The Source'' en Sunset Strip en Los Ángeles, que supuestamente atrajo a muchos clientes famosos.
+Al mudarse a la costa oeste, se dedicó al movimiento de vida natural, el vegetarianismo, la cultura hippie y el pensamiento místico. Abrió un restaurante de comida saludable llamado "The Source" en Sunset Strip en Los Ángeles, que supuestamente atrajo a muchos clientes famosos.
 
 
 Finalmente, influenciado por la filosofía Kundalini Yoga de Yogi Bhajan, organizó su propio movimiento religioso, Source Family. El grupo liderado por él desarrolló un estilo de vida que integraba la vida comunitaria, prácticas espirituales, música, prácticas y rituales alimentarios y de salud.
@@ -89,7 +89,7 @@ También hubo un período en el que estuvieron activos en bandas con diferentes 
 - **Octavius**: "La perspectiva y la respiración del padre Yod determinaron la dirección de la improvisación."
 - **Reminiscencias de la familia Source**: La grabación era un ritual diario y la música era una comunión con Dios.
 
-De esta manera, las letras y actuaciones de Yahowha 13 se centraron en "ondas" y "mantra" en lugar de "significado".
+De esta manera, las letras y actuaciones de Yahowha 13 se centraron en las "ondas" y el "mantra" en lugar del "significado".
 
 ---
 
@@ -128,7 +128,7 @@ Durante este período, exploraba la fusión de experimentos acústicos y sesione
 Ya Ho Wa 13 (1974), Savage Sons of Ya Ho Wa (1974), Penetración: una sinfonía de Acuario (1974), Voy a llevarte a casa (1974), A los principios para los niños (1975), La opereta (inédita en 1975 → publicada más tarde), etc.
 
 
-Durante este período, también se intentó incorporar más "estructuralidad" y "musicalidad", con un estilo que incluía una mezcla de riffs de guitarra distorsionados, frases repetitivas y poesía y canto fragmentados.
+Durante este período, también se intentó incorporar más "estructuralidad" y "musicalidad", con un estilo que incluía riffs de guitarra distorsionados, frases repetidas y poesía y canto fragmentados.
 
 
 En particular, se dice que Penetration: An Aquarian Symphony es el trabajo más popular y reevaluado en la historia de la banda, y ha sido reeditado muchas veces.
@@ -277,7 +277,7 @@ Punto: El núcleo de la autograbación. Mientras grababa en Garage, la banda com
 
 [Penetración: Una sinfonía de Acuario (1974)] (https://amzn.to/4hdcYa5)
 
-Canciones y momentos destacados: Contiene temas largos como "Yod He Vau He", "Ho", "Journey Thru An Elemental Kingdom" y "Ya Ho Wha". Es la cristalización del "ritualista" y el "jam psicodélico", y es el álbum representativo más fácilmente disponible con muchas reediciones. Tiene una gran dinámica similar a un paisaje sonoro y recomendamos comenzar aquí para quienes lo escuchan por primera vez.
+Canciones y momentos destacados: Contiene temas largos como "Yod He Vau He", "Ho", "Journey Thru An Elemental Kingdom" y "Ya Ho Wha". Es la cristalización del "ritualista" y el "jam psicodélico", y es el álbum representativo más fácilmente disponible con muchas reediciones. Tiene una gran dinámica similar a un paisaje sonoro y recomendamos que quienes lo escuchen por primera vez comiencen aquí.
 
 
 ---
@@ -310,7 +310,7 @@ Hecho: Muchas pistas se centran en cánticos, líneas fragmentadas y declaracion
 
 Motivo principal:
 
-Repetición de “Ya Ho Wha / Ya Ho Wa / YHWH (similitud consonántica)” - nombre divino/rol sagrado.
+Repetición de "Ya Ho Wha / Ya Ho Wa / YHWH (similitud consonántica)" - Nombre divino/rol sagrado.
 
 
 Referencias al arquetipo “viaje/purificación/elementos (fuego/agua/aire/tierra)”, un símbolo que también aparece en los títulos del álbum/canción.

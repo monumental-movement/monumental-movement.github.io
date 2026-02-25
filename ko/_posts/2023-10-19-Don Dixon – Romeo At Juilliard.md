@@ -9,13 +9,13 @@ permalink: /ko/don-dixon-romeo-at-juilliard/
 tags:
 - Rock
 - Indie Rock
-title: 돈 딕슨 – 줄리어드의 로미오
+title: Don Dixon – Romeo At Juilliard
 ---
 
 
-Don Dixon은 미국의 프로듀서/작곡가/음악가입니다. 1970년대에는 노스캐롤라이나 록밴드 Arrogance에서 활동했고, 1980년대부터는 다수의 인디밴드를 프로듀싱했으며, 미국 얼터너티브 록밴드 R.E.M.의 프로듀싱에도 참여했다.
+Don Dixon(동 딕슨)은 미국 프로듀서/송 작가/뮤지션. 1970년대는 노스캐롤라이나의 록 밴드 Arrogance(아라간스)에서 활약해, 1980년대부터는 수많은 인디스계 밴드를 프로듀스해, US 얼터너티브·록 밴드 R.E.M.의 프로듀스에도 관여했다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Borrowed Time
 
@@ -42,5 +42,5 @@ B6. Jean Harlow's Return
 
 [メルカリで購入](https://jp.mercari.com/item/m45544074163?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Aw76DZDkoK8?si=2bEW1jWF7KBk4nUm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

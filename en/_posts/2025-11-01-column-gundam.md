@@ -113,7 +113,7 @@ At the same time, the number of theme songs with synth sounds, dance beats, and 
 
 In the TV anime "Mobile Suit Gundam W" (New Mobile Suit Gundam W) that aired in 1995, the opening theme "Just Communication" (sung by TWO-MIX) adopted a synth beat and a pop melody, making it a work that stands out from traditional Gundam theme songs.
 
-The appearance of this song was also an opportunity to change the conventional image of Gundam = war drama + heavy music to a slightly lighter version of a hero song that can be heard in pop music.
+The appearance of this song was also an opportunity to open up the conventional image of ""Gundam = war drama + heavy music" to a slightly lighter ""hero song that can be heard in pop music."
 
 Additionally, OVA and movie versions now have a richer variety of music products, including theme songs, insert songs, character songs, and remix discs. Music has expanded from being "exclusive for works" to "exclusive for brands."
 
@@ -174,7 +174,7 @@ Since the Mobile Suit Gundam series is a work that questions the question of ""m
 
 Another aspect of Gundam music is its close relationship with fan culture/live culture. For example, on the occasion of Gundam's 30th anniversary, an album called "Gundam Rock" was released, in which foreign musicians covered Gundam theme songs.This shows that music has transcended the production and become a "global culture."
 
-Additionally, Gundam theme songs are always included in the repertoire of anime song live events performed by artists, and the number of experiences where the audience sings along is increasing. In this way, music has changed into a content that is not only something to be "listened to" but also something to "participate in".
+Additionally, Gundam theme songs are always included in the repertoire of anime song live events performed by artists, and the number of experiences where the audience sings along is increasing. In this way, music has changed into content that is not only something to be "listened to" but also something to "participate in".
 
 ### 5.2 Gundam as a musical work: remix, arrangement, planning edition
 
@@ -207,7 +207,7 @@ After 2025, it is expected that the era of "listening to music" will shift from 
 ## Instead of a conclusion
 
 "Listen to Gundam again" can be said to be synonymous with "watching Gundam again." This is because music represents the characters' emotions and carves out the trajectory of the story. We hope that through this article, you will be able to pick up your favorite Gundam theme song again and listen to the history and story world that it has created once again.
-Finally, to dig deeper into Gundam music, be sure to search and collect CD jackets, live videos, composer interviews, and more. The journey of sound expands richly beyond your field of vision.
+Finally, to dig deeper into Gundam music, be sure to search and collect CD jackets, live videos, composer interviews, and more. The journey of sound expands richly beyond sight.
 
 ---
 

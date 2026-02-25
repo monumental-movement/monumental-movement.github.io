@@ -11,13 +11,13 @@ tags:
 - Leftfield
 - IDM
 - Experimental
-title: 라디오헤드 - 키드A
+title: Radiohead - Kid A
 ---
 
 
-2000년 발매된 영국의 록밴드 라디오헤드의 네 번째 정규앨범. 프로듀서는 나이젤 고드리치.
+UK의 록 밴드 Radiohead의 2000년에 릴리스한 4번째 스튜디오 앨범. 프로듀서는 Nigel Godrich(나이젤·고드리치).
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Everything In Its Right Place
 2. Kid A
@@ -35,5 +35,5 @@ title: 라디오헤드 - 키드A
 [メルカリで購入](https://jp.mercari.com/item/m39635612471?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NUnXxh5U25Y?si=XDBa027cloU4NAt9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

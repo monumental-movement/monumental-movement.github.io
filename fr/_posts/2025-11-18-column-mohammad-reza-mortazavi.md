@@ -14,7 +14,7 @@ title: '[Chronique] Poésie du battement de cœur : le monde du percussionniste 
 ---
 
 
-## 1. Introduction
+## 1. Présentation
 
 
 Texte : mmr｜Thème : Suivez attentivement son chemin depuis son éducation jusqu'à nos jours, en explorant le cœur de son innovation, de sa philosophie, de sa collaboration et de son expérience qu'il apporte aux auditeurs.
@@ -52,7 +52,7 @@ Durant cette période, sa relation avec les instruments de musique dans sa vie e
 ### 3. Instruments de musique traditionnels appelés tambak et duff - leur signification et leur contexte
 
 Son instrument principal, le tombak, est un instrument de percussion traditionnel qui constitue le cœur de la musique persane. Il a un corps en forme de gobelet et est fabriqué en tapotant la surface du cuir avec les mains ou les doigts, ce qui lui confère un ton extrêmement riche et un pouvoir expressif.
-Grâce à une variété de techniques de jeu, le tambak s’est imposé non seulement comme instrument d’accompagnement mais aussi comme instrument soliste.
+Grâce à une variété de techniques de jeu, le tamback a historiquement établi son statut non seulement d'instrument d'accompagnement mais également d'instrument soliste.
 
 Le **Daf** est un grand tambour sur cadre, parfois doté d'anneaux ou de cloches métalliques, et est un instrument de musique traditionnel qui a également des usages festifs et cérémoniaux. Mortazavi ne se produit pas seulement avec des tambacks, mais aussi avec des duffs, et a développé des performances solos et collaboratives qui tirent parti des caractéristiques de chacun.
 
@@ -64,7 +64,7 @@ La raison derrière sa sélection de ces instruments traditionnels n'est pas seu
 
 Malgré ses succès en compétition tout au long de son enfance, Mortazavi était plus qu'un simple gagnant. En même temps qu'il maîtrisait les techniques de jeu traditionnelles, son esprit curieux se tournait vers des questions telles que « Pourquoi le tamback est-il joué de cette façon ? » et « Y a-t-il des sons qui n'ont pas encore été utilisés ? »
 
-Il a commencé ses propres recherches sans être lié par les enseignements ou les coutumes existantes. Nous observons et pratiquons attentivement l'interaction physique entre le corps et l'instrument, comme les différentes parties de la peau, la résonance du torse, l'utilisation des doigts, la position de la paume et l'application des ongles et des articulations. Cela fait ressortir de nouveaux sons qui n'étaient pas présents dans la musique traditionnelle.
+Il a commencé ses propres recherches sans être lié par les enseignements existants ou douanes. 、爪と関節の応用など、身体と楽器の物理的な相互作用を丹念に観察・実践。 Cela fait ressortir de nouveaux sons qui n'étaient pas présents dans la musique traditionnelle.
 
 Il est également devenu enseignant dès son plus jeune âge. Il existe également une trace selon laquelle il a enseigné à des élèves plus jeunes à partir de 12 ans environ.
 L'enseignement lui a donné l'opportunité de verbaliser et d'organiser ses propres compétences, ce qui est devenu un cercle vertueux qui a conduit à une évolution ultérieure.
@@ -77,8 +77,8 @@ La réalisation la plus remarquable de Mortazavi est **plus de 30 techniques de 
 
 Plus précisément, les approches comprennent :
 
-* **Utiliser différents points d'attaque** : Zones d'attaque que les joueurs traditionnels n'utilisent pas, comme le centre du cuir, la jante et le corps (partie en bois).
-* **Diverses parties de la main** : La main entière du joueur est considérée comme un instrument de musique, y compris le bout des doigts, les articulations, les ongles, la paume, la racine du pouce et d'autres parties considérées comme taboues.
+* **Utilisation de différents points de frappe** : Zones d'attaque que les joueurs traditionnels n'utilisent pas, comme le centre du cuir, le bord (bord) et le corps (partie en bois).
+* **Diverses parties de la main** : La main entière du joueur est considérée comme un instrument de musique, y compris le bout des doigts, les articulations, les ongles, la paume, la racine du pouce et d'autres parties qui seraient autrement considérées comme taboues.
 * **Approche polyrythmique** : Une technique qui permet à plusieurs voix (couches) de sonner simultanément au sein du même instrument. Cela permet une performance de type ensemble par un seul joueur.
 * **Plage dynamique** : Des touches extrêmement silencieuses aux coups explosifs, contrôlez librement la force, le tempo et la densité du son.
 * **Opération de résonance** : contrôle la résonance du corps et conçoit l'arrière-goût lors de la frappe. De cette manière, la « réverbération » du son qui reste après un seul coup est utilisée comme élément d'expression.
@@ -108,7 +108,7 @@ La discographie de Mortazavi est une carte de l'évolution de ses explorations. 
 
 Sorti en 2010, cet album constitue un départ symbolique pour Mortazavi. Bien qu'il s'agisse d'une performance solo utilisant uniquement des instruments traditionnels (tamback/duff), son innovation technologique et son design sonore sont déjà clairement imprimés. Chaque morceau présente des rythmes délicats et multicouches qui utilisent pleinement les doigts, les paumes et les ongles, donnant à l'auditeur l'illusion qu'un seul instrument a plusieurs voix.
 
-Ce qui est remarquable, c'est que son style de frappe est non seulement rapide, mais aussi extrêmement dynamique. La résonance d’un toucher doux, la netteté d’un coup puissant et la douce gradation entre eux. Chaque fois que ses mains glissent sur la surface du cuir, touchent le bois du corps et que ses doigts rebondissent avec leurs ongles, différents tons se croisent en couches, créant une forte présence.
+Ce qui est remarquable, c'est que son style de frappe est non seulement rapide, mais aussi très dynamique. La résonance d’un toucher doux, la netteté d’un coup puissant et la douce gradation entre eux. Chaque fois que ses mains glissent sur la surface du cuir, touchent le bois du corps et que ses doigts rebondissent avec leurs ongles, différents tons se croisent en couches, créant une forte présence.
 
 Aussi, l’enregistrement/mixage de cet album ne peut être ignoré. Lorsque ses instruments de percussion sont recréés dans l’espace grâce à un microphone, leurs échos et réverbérations sont capturés avec vivacité, créant un paysage sonore qui donne l’impression d’écouter un microcosme.
 
@@ -165,7 +165,7 @@ Jouer Mortazavi en live est une expérience très physique et spirituelle. Chaqu
 
 Son jeu mélange des structures méditatives et répétitives avec des schémas de changement rapides et complexes qui font souvent perdre la notion du temps aux auditeurs. Au moment où le tempo ralentit, le son continue avec la réverbération, et ces durées se superposent progressivement, créant une résonance au sein du corps. A l'inverse, lorsque le rythme s'accélère brusquement, la concentration du public atteint son paroxysme, l'entraînant dans une sorte d'état de transe.
 
-Une expérience en direct comme celle-ci n'est pas seulement quelque chose que vous entendez avec vos oreilles, mais une expérience que vous pouvez « ressentir » avec votre corps. Mortazavi crée une résonance avec le public à mesure qu'il se produit, lui faisant partager un « pouls commun » à chaque instant. Le processus a un aspect rituel qui relie l’instrument et la personne, l’interprète et le public.
+Une expérience live comme celle-ci n'est pas seulement quelque chose que vous entendez avec vos oreilles, mais une expérience que vous « ressentez » avec votre corps. Mortazavi crée une résonance avec le public à mesure qu'il se produit, lui faisant partager un « pouls commun » à chaque instant. Le processus a un aspect rituel qui relie l’instrument et la personne, l’interprète et le public.
 
 ---
 
@@ -173,7 +173,7 @@ Une expérience en direct comme celle-ci n'est pas seulement quelque chose que v
 
 Mortazavi a reçu une reconnaissance internationale pour ses compétences, son sens artistique et son innovation. En 2003, il a remporté le **RUTH Newcomer Award**. Il a également suscité beaucoup d'intérêt de la part des médias, et son style et sa philosophie ont été présentés dans divers médias tels que le Deutschlandfunk allemand, Pitchfork, Hardwax et Boomkat.
 
-En particulier, Pitchfork a attiré l'attention sur la flexibilité des pulsations humaines et la nature improvisée des rythmes qu'il jouait, et les a décrits comme « une musique qui incarne l'humanité et la plasticité du temps ». Hardwax et d'autres ont loué la précision sonore et la profondeur spirituelle de ses plus de 30 nouvelles techniques.
+Pitchfork a particulièrement attiré l'attention sur la flexibilité des pulsations humaines et la nature improvisée des rythmes qu'il jouait, et l'a décrit comme « une musique qui incarne l'humanité et la plasticité du temps ». Hardwax et d'autres ont loué la précision sonore et la profondeur spirituelle de ses plus de 30 nouvelles techniques.
 
 De plus, leur aspect physique et leur spiritualité sont souvent soulignés dans les critiques en direct. Drummerszone et d'autres ont décrit en détail les points de frappe, les parties des mains et les opérations de résonance qu'il utilise, notant que ses mains semblent jouer sur un « système audio ».
 
@@ -232,7 +232,7 @@ Tous ces éléments interagissent pour faire de Mortazavi un « philosophe du ry
 
 ### 14. Conclusion : Implications pour l'avenir
 
-Le voyage de Mohammad Reza Mortazavi est un voyage qui redéfinit la tradition, élargit la technique et crée de nouveaux dialogues entre rythme et conscience. Les sons polyphoniques, les rythmes multicouches, les sons sustain et persistants et la philosophie profonde qui les sous-tendent vont au-delà de la simple performance et offrent à l'auditeur une expérience qui transcende le temps et l'espace.
+Le voyage de Mohammad Reza Mortazavi est un voyage qui redéfinit la tradition, élargit la technique et crée de nouveaux dialogues entre rythme et conscience. Les sons polyphoniques, les rythmes multicouches, les sons sustain et persistants et la philosophie profonde qui les sous-tend vont au-delà de la simple performance et offrent à l'auditeur une expérience qui transcende le temps et l'espace.
 
 Il ne se contente pas de préserver l'instrument classique, le tamback, mais le transforme pour l'avenir. Dans le processus de transformation, la musique, le corps, la communauté et la conscience se croisent et de nouveaux horizons s'ouvrent.
 

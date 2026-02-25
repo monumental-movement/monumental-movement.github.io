@@ -56,7 +56,7 @@ La Tech House est souvent confondue avec « un sous-genre de techno » ou « un 
 
 ---
 
-## 2. Années 1980 à 1990 : Contexte de la création
+## 2. Années 1980-1990 : Contexte de la création
 
 Les origines de Tech House seraient la culture des clubs du début des années 1990 en Grande-Bretagne, en particulier autour de Londres.
 À l'époque, l'Acid House et le Rave étaient populaires en Grande-Bretagne, et une variété de styles tels que la Hard House, la Progressive House, la Techno et la Tribal House étaient mélangés.
@@ -230,7 +230,7 @@ Voici les labels qui définissent Tech House.
 
 * Se tortiller
 * Enregistrements de butin
-*Les enregistrements de fin
+*La fin des enregistrements
 * Poker plat
 *Mobile
 * Bedrock (plus progressif, mais recoupe Tech House)

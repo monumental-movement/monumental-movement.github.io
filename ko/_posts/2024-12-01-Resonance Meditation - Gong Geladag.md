@@ -10,13 +10,13 @@ tags:
 - Deep House
 - House
 - Techno
-title: 공명 명상 - 공 겔라다그
+title: Resonance Meditation - Gong Geladag
 ---
 
 
-호소노 하루오미가 감수한 Lost & Found 시리즈의 첫 번째 앨범입니다. 2000년 4월 17일 발리에서 24비트 192KHz 음향 시스템을 사용하여 현지에서 녹음된 음원입니다.
+호소노 하루신이 감수한 Lost & Found 시리즈의 제1탄 앨범. 2000년 4월 17일 발리 섬에서 24bit 192KHz sonic system에 의한 현지 녹음 음원.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 01. 創作儀礼曲「革命の鐘」/I Wayan Beratha(イ・ワヤン・ブラダ)
 02. 儀礼曲「スマラ神の火刑」/Traditional(トラディッショナル)
@@ -25,10 +25,10 @@ title: 공명 명상 - 공 겔라다그
 05. 古典儀礼曲「慈愛」/Traditional(トラディッショナル）
 ```
 
-호소노 하루오미 감독의 'Lost & Found'
+호소노 하루신 감수 "Lost & Found"
 
-공명 명상 - 공 겔라다그
+Resonance Meditation - Gong Geladag
 
-공명명상 공명명상 - 공그라닥
+공명 메디테이션 공명 명상- 곤 그라다그
 
 [メルカリで購入](https://jp.mercari.com/item/m46194452889?afid=6142608987){: .button1}

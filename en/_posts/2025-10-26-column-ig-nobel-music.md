@@ -82,7 +82,7 @@ It was highly praised as an idea that transcends the boundaries between art and 
 ### 2.2 2017: "Vaginal Music Player" Research
 
 In 2017, a study by the **Institut Marquès** in Barcelona, ​​Spain
-Winner of the Ig Nobel Prize in Medicine.
+He won the Ig Nobel Prize in Medicine.
 This team developed an **intravaginal speaker** called "Babypod",
 We investigated how fetuses respond to musical stimuli in the womb.
 

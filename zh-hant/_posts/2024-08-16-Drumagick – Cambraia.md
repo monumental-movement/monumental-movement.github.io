@@ -19,14 +19,14 @@ title: Drumagick – 坎布拉亞/巴西
 
 他的風格將巴西音樂、拉丁音樂、靈魂音樂、放克音樂和爵士樂元素融入鼓和貝斯音樂中，為巴西鼓和貝斯界的發展做出了貢獻。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Cambraia
 
 B. Brasil
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m42086405804?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m42086405804?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d1PQ3tpTTtI?si=cyUR6jo8sAVgV3LC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

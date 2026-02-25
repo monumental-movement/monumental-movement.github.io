@@ -154,7 +154,7 @@ Remplacé par **Choix de production**.
 
 * La fréquence peut être spécifiée directement
 * Modification immédiate des tables de réglage
-* Libre de la disposition du clavier
+* Liberté de disposition du clavier
 
 En conséquence, le tempérament est devenu un **paramètre variable** plutôt qu'une prémisse fixe.
 
@@ -209,7 +209,7 @@ Le but n’est pas de faire des éléments microtonaux le thème de la structure
 
 ### 10.1 Conception de la composition
 
-* Décider quel tempérament utiliser
+* Décidez quel tempérament utiliser
 * Comprendre la gamme d'harmonies possibles
 * Examen pour savoir si la modulation est possible ou non
 
@@ -248,7 +248,7 @@ La musique microtonale ne constitue pas un genre unique.
 * À l'intérieur du Jazz/Pop
 * Vidéo/Installation
 
-Il n’existe pas comme « genre » mais comme philosophie de production.
+Il n'existe pas comme un « genre » mais comme une philosophie de production.
 
 ---
 
@@ -281,7 +281,7 @@ timeline
 
 ## 15. Conclusion
 
-La musique microtonale n’est pas un exercice d’augmentation de la hauteur. Il s’agit d’un changement vers une philosophie de production qui ne suppose pas un pas fixe. Harry Partch a ramené la musique au corps et à l'espace, et Jacob Collier a traduit cette théorie dans une sensibilité moderne. Ce mouvement continuera à œuvrer discrètement dans les couches profondes de la production musicale.
+La musique microtonale n’est pas un exercice d’augmentation de la hauteur. Il s’agit d’un changement vers une philosophie de production qui ne suppose pas un pas fixe. Harry Partch a ramené la musique au corps et à l'espace, et Jacob Collier a traduit cette théorie dans une sensibilité moderne. Ce mouvement continuera à œuvrer tranquillement dans les profondeurs de la production musicale.
 
 
 ---

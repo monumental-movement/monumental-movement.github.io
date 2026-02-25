@@ -14,13 +14,13 @@ title: 優音號 – 萊克伍德
 ---
 
 
-Euphone 是一支總部位於芝加哥的後搖滾樂隊。
+Euphone 是一支總部位於芝加哥的後搖滾樂團。
 
 傑里米·雅各布森（Jeremy Jacobsen）是 Five Style 的前成員，也被稱為“孤獨的風琴師”，從這張專輯正式加入樂隊。
 
-這張專輯是音樂雜誌AFTERHOURS於2001年策劃發行的一張特別專輯。這是一張雄心勃勃的作品，在傳統後搖滾風格的基礎上，融合了酸爵士、DUB、原聲、極簡主義等多種音樂品味。
+這張專輯是音樂雜誌AFTERHOURS於2001年策劃發行的特別專輯。這是一幅雄心勃勃的作品，在傳統後搖滾風格的基礎上，融合了酸爵士、DUB、原聲、極簡主義等多種音樂品味。
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. The Lakewood Burning Bad Boy
 2. Tools Of Love
@@ -32,7 +32,7 @@ Euphone 是一支總部位於芝加哥的後搖滾樂隊。
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m71395621792?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m71395621792?afid=6142608987){: .button1}
 
 
 #### Youtube

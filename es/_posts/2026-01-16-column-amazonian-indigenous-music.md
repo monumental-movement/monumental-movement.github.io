@@ -20,7 +20,7 @@ title: '[Columna] Cultura musical de los indígenas amazónicos: un universo de 
 
 ## Prólogo: Un mundo de sonidos que llena el bosque
 
-Texto: mmr｜Tema: La cultura musical no es una herencia fija, sino que se ha heredado cambiando de forma en respuesta a los cambios en el medio ambiente y la sociedad.
+Texto: mmr｜Tema: Cultura musical que no es una herencia fija, sino que se ha heredado cambiando de forma en respuesta a los cambios en el medio ambiente y la sociedad.
 
 La cuenca del río Amazonas es una de las regiones con mayor diversidad cultural del mundo. Cientos de grupos indígenas han convivido, cada uno con sus propios lenguajes, mitos y estructuras sociales. En este contexto, la música no se ha desarrollado como una forma independiente de entretenimiento o arte, sino como un acto inseparable de la vida misma.
 

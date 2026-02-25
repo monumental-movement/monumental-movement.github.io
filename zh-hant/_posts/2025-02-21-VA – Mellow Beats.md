@@ -17,7 +17,7 @@ title: VA – 柔和的節拍、精神和智慧
 P-Vine 唱片公司於 2008 年發行
 由橋本徹挑選並監修的爵士樂和醇厚的HIPHOP合輯。
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. Carlos Niño & Lil' Sci – Freedom
 2. SP – Movin' Along
@@ -40,7 +40,7 @@ P-Vine 唱片公司於 2008 年發行
 19. Noel Zancanella – Lovely
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m48043244738?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m48043244738?afid=6142608987){: .button1}
 
 #### 尤特布埃
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uVlkFN6itzU?si=XRVjZaMo41NLHC6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

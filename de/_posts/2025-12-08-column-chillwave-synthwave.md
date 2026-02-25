@@ -69,7 +69,7 @@ Chillwave liegt irgendwo zwischen Indie-Rock und Electronica und fällt mit der 
 
 # 2. Was ist Synthwave?
 ## 2-1. Entstehung (Mitte der 2000er bis Anfang der 2010er Jahre)
-Die Ursprünge von Synthwave liegen früher als Chillwave und lassen sich auf die französische elektronische Musik (insbesondere Kavinsky und College) Mitte der 2000er Jahre zurückführen.
+Die Ursprünge von Synthwave liegen früher als bei Chillwave und lassen sich auf die französische elektronische Musik (insbesondere Kavinsky und College) Mitte der 2000er Jahre zurückführen.
 „A Real Hero“ von College & Electric Youth, das im frühen Film „Drive“ (2011) verwendet wurde, wurde zum Katalysator für seine Verbreitung im Mainstream.
 
 Merkmale:
@@ -78,7 +78,7 @@ Merkmale:
 - **Konzentriert sich auf analoge Synthesizer (Juno-106, DX7, Prophet usw.)**
 - **4/4 treibender Beat (Synthwave)**
 - **Langsamer Ambient (Dreamwave/Retrowave)**
-- **Neon, Gitter, Pink x Blau 80er-Jahre-Visuals**
+- **Neon-, Gitter-, Pink- und Blau-80er-Visuals**
 
 Hauptkünstler:
 
@@ -115,7 +115,7 @@ Chillwave wurde hauptsächlich über MySpace, Bandcamp und Blogs verbreitet und 
 
 Besondere Elemente:
 
-- Tropisches Muster-Kunstwerk
+- Kunstwerk mit tropischen Mustern
 - Verschwommene Filmfotografie
 - Zeitlupenaufnahmen von verlassenen Schulen, Stränden, Wäldern usw.
 - VHS-Textur der 90er Jahre
@@ -148,7 +148,7 @@ Auch die Ausrüstung, die bei Chillwave und Synthwave zum Einsatz kommt, ist seh
 -Roland Juno-106
 - Yamaha DX7
 - Sequential Prophet-Reihe
--Korg Polysix
+- Korg Polysix
 - **Drum Machine**
 - LinnDrum / LM-1
 -Roland TR-707, TR-808
@@ -195,7 +195,7 @@ flowchart TD
 
 * Washed Out – **Life of Leisure (2009)**
 * Neon Indian – **Psychic Chasms (2009)**
-*Toro y Moi – **Ursachen davon (2010)**
+* Toro y Moi – **Ursachen davon (2010)**
 
 ## 8-2. Synthwave-Meisterwerke
 

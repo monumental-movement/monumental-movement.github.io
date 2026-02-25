@@ -25,7 +25,7 @@ Texto: mmr｜Tema: El chill-out y la estética del ritmo profundo
 ### ¿Qué es el downtempo?
 "Downtempo", como su nombre indica, es un tipo de música electrónica con un tempo lento. Generalmente, el BPM (tempo) oscila entre 60 y 110 y se caracteriza por ritmos y sonidos relajantes destinados a escuchar y relajarse, en lugar de ritmos intensos de discoteca.
 
-Entre los latidos palpitantes y el ajetreo, aparece un silencio repentino. Si se trata de música, el downtempo es ese momento de respiración profunda. En el mundo de la cultura de discoteca y la música electrónica, se trata de un género musical que se sitúa en el extremo opuesto del espectro de los ritmos rápidos del techno y el house, pero que se acerca a las emociones del oyente y se integra en la noche de la ciudad. Eso es ritmo lento.
+Entre los latidos palpitantes y el ajetreo, aparece un silencio repentino. Si se trata de música, el downtempo es ese momento de respiración profunda. En el mundo de la cultura de discoteca y la música electrónica, este género musical se encuentra en el extremo opuesto del espectro de ritmos rápidos como el techno y el house, pero es un género musical que se acerca a las emociones del oyente y se integra en la noche de la ciudad. Eso es ritmo lento.
 
 Downtempo se crea a través de la intersección de múltiples géneros, incluida la sensación flotante del ambient, los ritmos del hip-hop y los elementos orgánicos del jazz y el soul.
 Aunque a menudo se superpone con estilos como el chillout, el trip hop y la música lounge, también se utiliza como término general para un ritmo suave que abarca estos estilos.
@@ -95,7 +95,7 @@ En la era del streaming de la década de 2020, el downtempo se está reevaluando
 
 **Si bien está ganando atención nuevamente en el contexto de ``relajación'', ``relajación'' y ``concentración''**, hay muchas listas de reproducción en Spotify y YouTube llamadas ``Lo-Fi'', ``Chillhop'' y ``Study Beats'', que resultan familiares para los oyentes como downtempo en un sentido amplio.
 
-Además, los límites entre la música ambiental y la música ambiental se han vuelto borrosos, y la música continúa evolucionando hacia una música que está más estrechamente alineada con el estado psicológico y la escena de la vida de un individuo.
+Además, los límites entre la música ambiental y la música ambiental se han vuelto borrosos, y la música continúa evolucionando hacia una música que está más estrechamente alineada con los estados psicológicos individuales y las escenas de la vida.
 
 Artistas como Bonobo, Tycho, Khruangbin y los japoneses Pictured Resort y Cuushe son actores importantes del Downtempo moderno.
 
@@ -104,7 +104,7 @@ Artistas como Bonobo, Tycho, Khruangbin y los japoneses Pictured Resort y Cuushe
 ---
 
 ### El arte del sonido que calma las emociones.
-Aunque el downtempo es todo lo contrario del frenesí de fiesta, se ha convertido en un estilo musical importante que apoya las emociones, la concentración y la recuperación de la gente moderna. Su poder, que pasa desapercibido pero que actúa definitivamente sobre la mente, es verdaderamente un "gobernante silencioso".
+Downtempo es todo lo contrario del frenesí de fiesta, pero se ha convertido en un estilo de música importante que apoya las emociones, la concentración y la recuperación de la gente moderna. Su poder, que pasa desapercibido pero que actúa definitivamente sobre la mente, es verdaderamente un "gobernante silencioso".
 
 En estos tiempos en los que la tecnología evoluciona y todo se acelera, optar por reducir el ritmo es una elección muy radical y humana. Downtempo es música que te permite sumergirte profundamente en la emoción y el espacio sin competir por la velocidad.
 
@@ -112,6 +112,16 @@ La próxima vez que sientas que "quiero olvidarme del tiempo y alejarme", espero
 
 
 ---
+
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ovpFgRFjRy8?si=ovvp2_KBD9HDzNJA" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
 
 ### Columnas relacionadas
 

@@ -90,7 +90,7 @@ Pour la première fois de son histoire, la ville techno de renommée mondiale a 
 - Tous les clubs fermés (mars 2020 à début 2021)
 - Tous fermés y compris Berghain et Trésor
 - Les revenus du tourisme des clubs sont réduits à zéro
-- Les professions telles que les DJ, le personnel, l'éclairage et le son ont perdu leurs revenus.
+- Des professions telles que les DJ, le personnel, l'éclairage et le son ont perdu leurs revenus.
 - Aide du gouvernement avec le « Kurzarbeitegeld » (indemnité de chômage partiel)
 
 Les statistiques et les médias confirment que des dizaines de milliers de travailleurs qui dépendent des clubs comme source de revenus ont été touchés.
@@ -114,7 +114,7 @@ Aller en ligne a bousculé le stéréotype selon lequel les clubs sont une cultu
 Cela a prouvé que la culture des clubs peut également fonctionner comme un support numérique.
 
 ## ● La musique devient introvertie à cause des DJ sets sans public
-Puisqu'il n'y a pas de sol,
+Puisqu'il n'y a pas de plancher,
 Les DJ sets se sont orientés vers les tendances suivantes :
 
 - Le BPM diminue
@@ -137,7 +137,7 @@ Par conséquent, la production des EP/albums se déroulera dans la direction sui
 - Drone de bruit
 - Breakbeats/Électro
 
-En fait, les œuvres sorties en 2020-2021 sont davantage destinées à l’écoute qu’aux sommets des clubs.
+En fait, les œuvres sorties en 2020-2021 sont plus destinées à l’écoute qu’aux sommets des clubs.
 
 ## ● 2) La techno à grande vitesse se développe grâce aux réseaux sociaux
 Un renversement intéressant s’est également produit.
@@ -160,7 +160,7 @@ Cet étrange phénomène a progressé en 2020-2021.
 ## ● Les clubs seront légalement reclassés en « équipements culturels » (2021)
 En 2021, le Bundestag allemand a pris une décision historique.
 
-**Protéger légalement les clubs en tant qu'« institutions culturelles »**
+**Protection juridique des clubs en tant qu'« institutions culturelles » (Kultureinrichtung)**
 
 Il s’agit en fait d’un tournant majeur.
 Jusqu’alors, les clubs étaient considérés comme une industrie de la vie nocturne.
@@ -194,7 +194,7 @@ A partir de là, la musique change radicalement.
 ### Fonctionnalités après redémarrage :
 - 150-170 BPM est courant
 - Des éléments de transe plus forts
-- Le ton du style rave des années 90 est de retour
+- Les tons rave des années 90 sont de retour
 - L'hybride industriel x transformateur est établi
 - Le « 4 temps à grande vitesse » est devenu courant dans le monde entier
 
@@ -286,11 +286,11 @@ timeline
 On ne sait pas si cela va continuer, mais cela pourrait continuer en raison des facteurs suivants :
 
 - La présentation visuelle sur SNS se marie bien avec la musique à grande vitesse
-- Les esthétiques plus jeunes préfèrent une « haute densité d'informations »
+- Les jeunes esthétiques préfèrent la « haute densité d'informations »
 - Le marché international de la hard techno est en expansion
 
 ## ● 2) Le club sera protégé en tant que ressource culturelle de la ville.
-L’Allemagne a déjà institutionnalisé les clubs en tant qu’« équipements culturels ».
+Puisque l’Allemagne a déjà institutionnalisé les clubs en tant qu’« équipements culturels »,
 Il est prévu que les politiques de protection deviendront plus avancées à partir de 2025.
 
 ## ● 3) Montée des villes régionales

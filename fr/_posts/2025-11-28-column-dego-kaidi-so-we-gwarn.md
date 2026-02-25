@@ -29,7 +29,7 @@ title: '[Chronique] Dego & Kaidi et Signature sonore'
 Texte : mmr｜Thème : EUK À propos de l'intersection du Broken Beat et de la musique noire mondiale
 
 
-À la fin des années 1990, un nouveau mouvement musical a émergé dans la culture des clubs de l’ouest de Londres. Il s'agit d'un genre appelé « Broken Beat » (également connu sous le nom de « Bruk »), qui diffère de la house 4/4 traditionnelle ou de la drum and bass, et incorpore audacieusement des rythmes complexes et rebondissants et des éléments de jazz, de funk et de soul. Plus qu'un simple style de musique, Broken Beat s'est développé à partir des communautés noires de l'ouest de Londres, de la culture des clubs et des réseaux créatifs underground.
+À la fin des années 1990, un nouveau mouvement musical a émergé dans la culture des clubs de l’ouest de Londres. Il s'agit d'un genre appelé « Broken Beat » (également connu sous le nom de « Bruk »), qui diffère de la house 4/4 traditionnelle ou de la drum and bass, et incorpore audacieusement des rythmes complexes et rebondissants et des éléments de jazz, de funk et de soul. Plus qu'un simple style de musique, Broken Beat s'est développé à partir de la communauté noire de l'ouest de Londres, de la culture des clubs et des réseaux créatifs underground.
 
 <div class="mermaid">
 flowchart TD
@@ -67,7 +67,7 @@ Des artistes tels que Dego, Kaidi Tatham, IG Culture, Bugz in the Attic et Neon 
 
 ### Dego (Dennis McFarlane)
 
-Dego a commencé sa carrière au sein du groupe pionnier britannique Jungle/Drum & Bass 4Hero. Grâce à son expérience avec 4Hero, il a recherché la complexité rythmique et l'expression électronique tout en incorporant des éléments de jazz et de funk. En 1998, il crée son propre label, 2000Black, et construit une nouvelle base pour la musique noire britannique centrée sur Broken Beat. À travers ses activités en solo et sous divers pseudonymes, Dego a présenté une gamme variée de styles musicaux dans des genres tels que le jazz, le funk, la house, la drum & bass et le Broken Beat.
+Dego a commencé sa carrière au sein du groupe pionnier britannique Jungle/Drum & Bass 4Hero. Grâce à son expérience avec 4Hero, il a recherché la complexité rythmique et l'expression électronique tout en incorporant des éléments de jazz et de funk. En 1998, il crée son propre label, 2000Black, et construit une nouvelle base pour la musique noire britannique centrée sur Broken Beat. À travers ses activités en solo et sous divers pseudonymes, Dego a présenté une gamme variée de styles musicaux dans des genres tels que le jazz, le funk, la house, la drum and bass et le Broken Beat.
 
 ### Kaidi Tatham
 
@@ -77,7 +77,7 @@ Kaidi Tatham est un multi-instrumentiste, producteur et compositeur qui connaît
 
 ## Scène Broken Beat et 2000Black
 
-Broken Beat est un produit de la culture des clubs qui s'est développée dans l'ouest de Londres. IG Culture, Bugz in the Attic, Neon Phusion, Afronaught et d'autres ont été les pionniers de la scène et, en combinant librement des éléments de jazz, de soul, de funk, de latin, de hip-hop et de house, ils ont établi une position unique en tant que musique de club pour adultes.
+Broken Beat est un produit de la culture des clubs qui s'est développée dans l'ouest de Londres. Des pionniers tels que IG Culture, Bugz in the Attic, Neon Phusion et Afronaught ont formé la scène et, en combinant librement des éléments de jazz, de soul, de funk, de latin, de hip-hop et de house, ils ont établi une position unique en tant que musique de club pour adultes.
 
 <div class="mermaid">
 flowchart LR
@@ -112,7 +112,7 @@ timeline
     2017–2025 : ソロ・コラボ活動継続
 </div>
 
-Ce label a fonctionné comme une plateforme pour poursuivre la « sculpture sonore » en tant que collage créatif, transcendant les formes et les genres musicaux. Les artistes britanniques Broken Beat, en particulier Dego & Kaidi, ont été attirés par le label et ont trouvé un endroit pour exprimer leur musique dans de nouveaux contextes.
+Ce label a fonctionné comme une plateforme pour poursuivre la « sculpture sonore » en tant que collage créatif, transcendant les formes et les genres musicaux. Les artistes britanniques Broken Beat, notamment Dego & Kaidi, ont été attirés par le label et ont trouvé un endroit pour exprimer leur musique dans de nouveaux contextes.
 
 ---
 
@@ -126,7 +126,7 @@ Cette « rencontre » n'était pas seulement une collaboration musicale, mais au
 
 ## Musicalité de « A So We Gwarn »
 
-A So We Gwarn est un album de 14 titres qui combine des éléments de jazz, soul, house, hip-hop et afro. Des rythmes complexes, des touches jazzy, des cordes live et un ensemble de cuivres traversent les sensibilités noires urbaines britanniques et les sensibilités house de Détroit.
+A So We Gwarn est un album de 14 titres qui combine des éléments de jazz, soul, house, hip-hop et afro. Des rythmes complexes, des touches jazzy, des cordes live et un ensemble de cuivres traversent les sensibilités noires urbaines du Royaume-Uni et les sensibilités house de Détroit.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5XQlv0cAryQ?si=h78NsmjUFPwCldKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -150,7 +150,7 @@ flowchart TD
 
 ## Importance culturelle de « So We Gwarn »
 
-« A So We Gwarn » a fusionné la culture Broken Beat/jazz/soul du Royaume-Uni avec la culture house de Détroit. Ils ont représenté au monde le « instruments acoustiques + beat + jazz/funk/soul groove » établi par Broken Beat et ont encouragé une réévaluation de la musique noire britannique.
+« A So We Gwarn » a fusionné la culture Broken Beat/jazz/soul du Royaume-Uni avec la culture house de Détroit. Ils ont représenté au monde le « instruments acoustiques + beat + jazz/funk/soul groove » établi par Broken Beat et ont encouragé une réévaluation de la musique noire britannique.
 
 L'album ne fonctionne pas comme une nostalgie du passé, mais comme une proposition pour l'avenir. Dego & Kaidi se sont taillé une « signature sonore » qui traverse différents axes : passé et présent, Royaume-Uni et États-Unis, club et jazz.
 

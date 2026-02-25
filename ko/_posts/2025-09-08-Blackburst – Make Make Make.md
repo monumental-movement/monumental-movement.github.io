@@ -9,16 +9,16 @@ permalink: /ko/blackburst-make-make-make/
 tags:
 - House
 - 90s
-title: 블랙버스트 – Make Make Make
+title: Blackburst – Make Make Make
 ---
 
 
-Blackburst는 Edward Boellaard의 프로젝트입니다. 그는 또한 Ax Force 및 Human Impact라는 이름으로 작업하고 있습니다.
+Blackburst (블랙 버스트)는 Edward Boellaard에 의한 프로젝트. Axe Force와 Human Impact 명의에서도 활동하고 있다.
 
-"Make Make Make"는 초기 하우스, 로파이 하우스, 레트로 테크노, 인디 디스코, 브로큰 비트를 전문으로 하는 네덜란드 암스테르담에 본사를 둔 독립 레이블 Mr. Cheng의 Quality Tunes가 1997년에 발매한 House입니다.
+'Make Make Make'는 1997년 얼리하우스, 로파이하우스, 레트로테크노, 인디디스코, 브로큰비츠에 특화된 네덜란드 암스테르담을 거점으로 하는 인디펜던트 라벨 Mr. Cheng’s Quality Tunes에서 출시된 House.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Make Make Make
 A2. The Ponchoboy (Station Mix)
@@ -29,5 +29,5 @@ B2. Silverado
 
 [メルカリで購入](https://jp.mercari.com/item/m47324968375?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ntq7Nftvv3g?si=e0F4QmMnidk3r9sK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

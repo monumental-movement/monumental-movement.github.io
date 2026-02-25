@@ -9,15 +9,15 @@ permalink: /ko/nobukazu-takemura-meteor/
 tags:
 - Techno
 - Minimal
-title: 타케무라 노부카즈 - 메테오
+title: Nobukazu Takemura – Meteor
 ---
 
 
-"다케무라 노부카즈 - 유성"은 일본 음악가 다케무라 노부카즈(다케무라 노부카즈)의 음반이다. 타케무라 노부카즈(Nobukazu Takemura)는 일렉트로닉 음악과 실험적인 음악으로 유명한 음악 프로듀서이자 작곡가입니다.
+Nobukazu Takemura – Meteor는 일본의 음악 아티스트인 다케무라 연화(타케무라 노부카즈)에 의한 레코드입니다. 다케무라 연화는 일렉트로닉 뮤직이나 경험적인 음악으로 알려진 음악 프로듀서, 작곡가입니다.
 
-『유성』은 다케무라 노부카즈의 대표작 중 하나입니다. 1999년에 발매된 이 작품은 일렉트로닉 사운드와 앰비언트 요소를 융합하여 타케무라 노부카즈 음악의 특징인 몽환적인 사운드스케이프를 전개한 작품입니다.
+Meteor는 다케무라 연화의 대표적인 작품 중 하나로, 1999년에 발매되어 일렉트로닉 사운드와 앰비언트 요소를 융합시킨 작품으로, 다케무라 연화의 음악의 특징인 환상적인 사운드스케이프가 전개되고 있습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Meteor
 
@@ -26,5 +26,5 @@ B. Wax And Wane (Original Version)
 
 [メルカリで購入](https://jp.mercari.com/item/m46491271418?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6_DydCI6oEE?si=BionYn4yLBEhhz3-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

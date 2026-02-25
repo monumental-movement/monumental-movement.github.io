@@ -36,7 +36,7 @@ color: #fff;
 
 ### „Hi-Fi Lounge/Space Age Pop“
 
-Command Records zielte eindeutig auf den Markt als „Audio-Demo-Platte“ ab und wählte, arrangierte und nahm die Songs mit höchster Priorität auf Klangqualität auf. Wright führte die neueste Technologie wie Multi-Mic-Aufnahme und Master-Aufnahme auf 35-mm-Film ein und übte die Produktion mit einem ausgeprägten Bewusstsein für das Schallfeld (Stereobild). Dies führte zu einer Gruppe von Alben, die den „Panning-Effekt“ und die Lokalisierung von Schlaginstrumenten betonten und das Genre-Gefühl von „Hi-Fi-Lounge/Space-Age-Pop“ begründeten, das sich von allgemeinem Pop und Jazz unterschied.
+Command Records zielte eindeutig auf den Markt als „Audio-Demo-Platte“ ab und wählte, arrangierte und nahm die Songs mit höchster Priorität auf Klangqualität auf. Wright führte die neueste Technologie wie Multi-Mic-Aufnahme und Master-Aufnahme auf 35-mm-Film ein und übte die Produktion mit einem ausgeprägten Bewusstsein für das Schallfeld (Stereobild). Dies führte zu einer Gruppe von Alben, die den „Panning-Effekt“ und die Lokalisierung von Schlaginstrumenten betonten und das Genre „Hi-Fi-Lounge/Space-Age-Pop“ begründeten, das sich von allgemeinem Pop und Jazz unterschied.
 
 ---
 
@@ -45,7 +45,7 @@ Command Records zielte eindeutig auf den Markt als „Audio-Demo-Platte“ ab un
 
 - **Gatefold und grafische Ästhetik**
 
-Die LP-Cover von Command waren optisch stark und enthielten manchmal ein Cover des abstrakten Künstlers Josef Albers. Das Design der CD als etwas, das über eine bloße Demo-CD hinausging und zu etwas wurde, das die Leute besitzen wollten, stimulierte die darauffolgende Sammlerkultur.
+Die LP-Cover von Command waren optisch stark und enthielten manchmal ein Cover des abstrakten Malers Josef Albers. Das Design der CD als etwas, das über eine bloße Demo-CD hinausging und zu etwas wurde, das die Leute besitzen wollten, stimulierte die darauffolgende Sammlerkultur.
 
 
 - **Werbe-Slogan: „Sie werden überrascht sein, sobald Sie es zum ersten Mal hören“**
@@ -156,7 +156,7 @@ Er tritt in einem breiten Spektrum von Genres auf, darunter nicht nur Jazz, sond
 
 ### Begegnung und Beziehung mit Enoch Light
 
-- **Grand Award → Regelmäßiger Gitarrist bei Command Records**
+- **Grand Award → Regelmäßiger Gitarrist während der Command Records-Ära**
 
 Als Enoch Light Grand Award and Command gründete, versammelte er New Yorks Top-Session-Talente. Unter ihnen ist Tony Mottola der Stammgitarrist.
 
@@ -178,7 +178,7 @@ Mottola war eine der Säulen, die Commands „Lounge/Easy-Listening-Route“ unt
 
 ### Vertrauen in Arrangement und Aufnahmestil
 
-- **Stammgitarrist von Command Records**
+- **Command Records Stammgitarrist**
 
 Er nimmt fast immer an den Aufnahmen des von Light ins Leben gerufenen Grand Award~Command teil.
 Er war verantwortlich für die Durchführung von Gitarrenlokalisierungsexperimenten in der Reihe „Persuasive Percussion“ und anderen Werken.

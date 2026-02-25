@@ -40,7 +40,7 @@ color: #fff;
 </style>
 
 
-## 2. Los primeros años de vida y la formación musical de Tom Jenkinson
+## 2. Los primeros años de vida y la trayectoria musical de Tom Jenkinson
 
 ### 2.1 Infancia y entorno musical
 
@@ -100,7 +100,7 @@ graph TD
 
 ### 4.2 Influencia del jazz fusión
 
-* Interpretación de bajo altamente improvisada
+* Tocar el bajo muy improvisado.
 * Elementos de fusión en progresiones de acordes y frases.
 
 ### 4.3 Fusión analógica + digital

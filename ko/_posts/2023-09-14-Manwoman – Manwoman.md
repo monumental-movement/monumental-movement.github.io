@@ -10,13 +10,13 @@ tags:
 - Punk
 - Japanese Punk
 - 10inch
-title: 남자여자 – 남자여자
+title: Manwoman – Manwoman
 ---
 
 
-1995년에 발매된 일본의 하드코어/펑크 밴드 Man Woman의 첫 번째 싱글입니다.
+95년에 릴리스된 일본의 하드 코어/펑크 밴드 「맨우먼」의 퍼스트 싱글입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Blk(black)out
 

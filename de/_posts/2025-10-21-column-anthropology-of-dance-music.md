@@ -50,7 +50,7 @@ color: #fff;
 
 Aus archäologischer Sicht waren die frühesten „Musikinstrumente“ Schlaginstrumente.
 Es ist ein Stein oder Baum, der zum Jagen oder Beten geschlagen wird.
-Das Erschaffen eines „Beats“ war auch ein Akt der Schaffung einer Gemeinschaft.
+Einen „Beat“ zu kreieren war auch ein Akt der Schaffung einer Gemeinschaft.
 
 In vielen Stammesgesellschaften in Afrika und Ozeanien
 Die Trommel war sowohl Mittel zur Informationsübermittlung als auch zentraler Bestandteil von Ritualen.
@@ -152,7 +152,7 @@ flowchart TB
 
 ## Kapitel 4: Trance und Ekstase – Tanz als Bewusstseinstransformation
 
-### 1. Uralte Schichten in Trance
+### 1. Uralte Schicht im Trancezustand
 
 Tanz ist nicht nur Unterhaltung; Es ist auch eine Technik zur Bewusstseinsveränderung.
 Bei schamanistischen Ritualen

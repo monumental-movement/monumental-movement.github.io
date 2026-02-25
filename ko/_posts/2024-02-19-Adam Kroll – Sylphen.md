@@ -10,13 +10,13 @@ tags:
 - Techno
 - Tech House
 - Electro
-title: 아담 크롤 - 실펜
+title: Adam Kroll – Sylphen
 ---
 
 
-GODZILLA로 유명한 Adam Kroll이 2004년 독일 쾰른에 본사를 둔 레이블 Traum Schallplatten에서 발매한 일렉트로테크 하우스의 미니멀 트랙입니다.
+GODZILLA 재료로 알려진 Adam Kroll(아담 크롤)이 독일의 쾰른을 거점에 두는 라벨 Traum Schallplatten에서 2004년에 릴리스한 일렉트로 테크하우스 미니멀 트랙.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Squonk
 
@@ -27,5 +27,5 @@ B2. Puk
 
 [メルカリで購入](https://jp.mercari.com/item/m31773520944?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UBNMeHpfPO0?si=lwaDKtkLt-6HyMph" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

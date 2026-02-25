@@ -9,17 +9,17 @@ permalink: /ko/janet-jackson-doesnt-really-matter/
 tags:
 - House
 - Pops
-title: 자넷 잭슨 – 별로 중요하지 않음
+title: Janet Jackson – Doesn't Really Matter
 ---
 
 
-'Don't Real Matter'는 영화 '너티프로페서 2'의 사운드트랙으로 작곡된 곡이다. 업템포와 팝적인 사운드, 캐치한 멜로디가 돋보이는 곡으로 자넷 잭슨의 다이내믹한 보컬이 돋보인다.
+Doesn't Really Matter는 영화 '나티 프로페서 2'의 사운드 트랙으로 제작된 곡입니다. 이 곡은, 업 템포로 팝인 사운드와 캐치인 멜로디가 특징으로, 자넷·잭슨의 다이나믹한 보컬이 두드러지고 있습니다.
 
-자넷 잭슨의 파워풀한 가창력과 리드미컬하고 에너제틱한 사운드가 어우러져 듣는 이들에게 자신감과 긍정성을 선사하는 곡이다.
+자넷 잭슨의 강력한 노래 목소리와 리드미컬하고 활기찬 사운드가 결합되어 청취자에게 자신감과 긍정적인 감정을주는 곡이 되고 있습니다.
 
-"Does't really Matter"는 발매되자마자 빠르게 인기를 얻었으며 빌보드 핫 100 차트에서 1위를 차지했습니다. 이 곡은 그래미상 후보에 올랐으며 Janet Jackson의 경력에서 가장 중요한 노래 중 하나가 되었습니다.
+'Doesn't Really Matter'는 출시 직후 인기를 얻고 빌보드 Hot 100 차트에서 1위를 차지했다. 그래미 상에도 지명되어 자넷 잭슨의 경력에서 중요한 곡 중 하나가되었습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Doesn't Really Matter (Album Version)
 
@@ -32,5 +32,5 @@ B2. Doesn't Really Matter (Spensane Get Up Extended Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m40056303541?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZGo4WebNIjM?si=H90sLQn5GMkY8gt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

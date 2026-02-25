@@ -10,13 +10,13 @@ tags:
 - Acid Jazz
 - Jazz
 - 90s
-title: 다양한 – 토탈리 와이어드 나인
+title: Various – Totally Wired Nine
 ---
 
 
-영국 레이블 Acid Jazz가 1992년에 발매한 애시드 재즈 컴필레이션 앨범.
+UK의 라벨 Acid Jazz로부터 1992년에 릴리스된, 어시드 재즈 컴필레이션 앨범.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1.Max Beesley's High Vibes – Mr. Jeckle
 
@@ -39,5 +39,5 @@ B5.Raw – Dreams
 
 [メルカリで購入](https://jp.mercari.com/item/m73976121737?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/He46detc_ak?si=zj8xRWFsRknAKGZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

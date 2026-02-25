@@ -11,15 +11,15 @@ tags:
 - Heavy Metal
 - Glam Metal
 - 80s
-title: 윙어 - 윙어
+title: Winger – Winger
 ---
 
 
-윙거(Winger)는 1987년 뉴욕에서 결성된 미국의 록 밴드이다. 윙거는 1980년대 후반과 1990년대 초반 두 개의 플래티넘 앨범 'Winger'와 'In the Heart of the Young'을 발매했다. 1990년 아메리칸 뮤직 어워드에서 '베스트 뉴 헤비메탈 밴드' 후보에 올랐다.
+Winger(윙어)는, 1987년에 NY로 결성된 미국의 록 밴드. 윙어는, 1980년대 후반부터 1990년대 전반에 걸쳐, 2장의 플래티넘 앨범 「Winger(윙거)」와 「인 더 하트 오브 더 영」을 릴리스. 1990년에는 아메리칸 뮤직 어워드의 'Best New Heavy Metal Band'에 후보를 받았다.
 
-1988년에 발매된 "Winger"는 Winger의 데뷔 스튜디오 앨범으로 Beau Hill이 프로듀싱했습니다.
+1988년에 발표한 'Winger'는 Winger의 데뷔 스튜디오 앨범으로 Beau Hill이 프로듀스했다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Madalaine
 2. Hungry
@@ -35,5 +35,5 @@ title: 윙어 - 윙어
 
 [メルカリで購入](https://jp.mercari.com/item/m90240573963?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AIpRdbi9pYw?si=jt0s2nB6c5NgTA2P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

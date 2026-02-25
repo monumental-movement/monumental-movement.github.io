@@ -41,7 +41,7 @@ color: #fff;
 </style>
 
 
-## Finales de los años 60 y 70: nacimiento del reggae y la cultura del sound system
+## Finales de los años 1960 y 1970: nacimiento del reggae y la cultura del sound system
 
 - **Establecimiento del Reggae**
 El reggae se estableció alrededor de 1968 después del ska y el rocksteady. Se popularizaron letras con ritmos más pesados, énfasis en el bajo y mensajes. También fue durante este período que artistas como Bob Marley, Peter Tosh y Burning Spear se hicieron conocidos internacionalmente.
@@ -158,7 +158,7 @@ La difusión del reggae y la cultura del casete se organizará paralelamente com
 | 1997-99 | El período pico del cultivo en casetes. Están en circulación una gran cantidad de grabaciones in situ. | Japanese Sound System vende casetes de mezclas producidos de forma independiente. Ampliando la base de fans. |
 | 2000-05 | Con el auge del CD-R y el MP3, comienza el declive de los casetes. | Los CD-R se vuelven populares en clubes y tiendas. Sin embargo, en algunas zonas continúan los esfuerzos por preservar el cultivo en casetes. |
 | Década de 2010 | La distribución digital es la corriente principal. Los casetes están siendo revalorizados como memoria cultural. | Coleccionistas e investigadores digitalizan casetes de los años 90. La reevaluación continúa. |
-| Años 2020 | Los reproductores de casetes y las reimpresiones aparecen en el contexto del retorno analógico. | En Japón se están llevando a cabo proyectos de investigación y reedición para profundizar en la "cultura del casete reggae". |
+| Años 2020 | Los reproductores de casetes y las reimpresiones aparecen en el contexto del retorno analógico. | En Japón se están llevando a cabo proyectos de investigación y reedición para profundizar en la "cultura del reggae cassette". |
 
 ---
 
@@ -194,4 +194,13 @@ La conexión entre la música reggae y la cultura del casete no es sólo un acon
 
 Hay aspectos importantes como: Incluso en la era digital actual, la relación entre el reggae y los casetes sigue siendo un punto de referencia esencial para comprender la distribución musical callejera y la cultura del mixtape.
 
+---
 
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0EEEwVz_vcw?si=juWb_d1If0s5xsni" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---

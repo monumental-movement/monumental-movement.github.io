@@ -11,7 +11,7 @@ tags:
 - Rock
 - Noise
 - Post Rock
-title: '[Spalte] Saiten, die Emotionen und Gedanken direkt transportieren – Gitarristen
+title: '[Kolumne] Saiten, die Emotionen und Gedanken direkt transportieren – Gitarristen
   aus aller Welt und Japan'
 ---
 
@@ -21,7 +21,7 @@ title: '[Spalte] Saiten, die Emotionen und Gedanken direkt transportieren – Gi
 
 Text: mmr｜Thema: Erläuterung der führenden Gitarristen der Welt und Japans aus der Perspektive von Epoche, Genre, Technik und Philosophie
 
-Die Gitarre ist mehr als nur ein Musikinstrument; In der Musikgeschichte seit dem 20. Jahrhundert fungiert es als Erweiterung des Körpers, der Emotionen und Ideen direkt transportiert. In dem Moment, in dem Ihre Finger die Saiten berühren, wird der Klang aus den Vibrationen Ihrer Finger erzeugt und gelangt über Verstärker und Effektgeräte in die Welt. Der von einer Gitarre erzeugte Ton wirkt wie ein Spiegel und spiegelt die Emotionen, den Geisteszustand und sogar den kulturellen Hintergrund einer Person wider.
+Die Gitarre ist mehr als nur ein Musikinstrument; In der Musikgeschichte seit dem 20. Jahrhundert fungiert es als Erweiterung des Körpers, der Emotionen und Gedanken direkt übermittelt. In dem Moment, in dem Ihre Finger die Saiten berühren, wird der Klang aus den Vibrationen Ihrer Finger erzeugt und gelangt über Verstärker und Effektgeräte in die Welt. Der von einer Gitarre erzeugte Ton wirkt wie ein Spiegel und spiegelt die Emotionen, den Geisteszustand und sogar den kulturellen Hintergrund einer Person wider.
 
 Das Bild eines Gitarristen ist in Japan und auf der Welt unterschiedlich. In den Vereinigten Staaten und im Vereinigten Königreich sind Blues und Rock zur Grundlage geworden und das Genre hat sich zu einem Mainstream-Genre entwickelt. Japan hat jedoch eine komplexere und frei fließendere Entwicklung erlebt, vom Elektroboom der Nachkriegszeit bis hin zu Underground-Noise, Improvisation und Post-Rock. Die Einzigartigkeit japanischer Gitarren entsteht an der Schnittstelle zwischen Mainstream-Technik und destruktivem Underground-Ausdruck.
 
@@ -108,7 +108,7 @@ color: #fff;
 
 ---
 
-# III. Japan: Stille und rauschende Geschichte der Gitarristen
+# III. Japan: Eine Geschichte stiller und brüllender Gitarristen
 
 ## 1. Nach dem Krieg und dem Aufkommen der Elektrizität (1950er bis 1970er Jahre)
 
@@ -193,7 +193,7 @@ Die Gitarre ist nicht nur ein Musikinstrument, sondern ein Mittel zur Selbstdars
 
 - **Pedalboard-Philosophie**: Klangerzeugung = Ego-Design. Jedes Pedal wird zu einer Erweiterung der Persönlichkeit des Spielers.
 - **Loop/Glitch/DAW**: Erweiterter „Fingerspeicher“. Ein einzelner Interpret kann einen Orchesterausdruck ausüben.
-- **Seiichi Yamamoto x Jim O’Rourke**: Überbrückung des Untergrunds von Kyoto mit der Welt. Beeinflusste improvisatorische und experimentelle Musik im In- und Ausland.
+- **Seiichi Yamamoto x Jim O’Rourke**: Überbrückung der Welt aus dem Untergrund von Kyoto. Beeinflusste improvisatorische und experimentelle Musik im In- und Ausland.
 
 Keiji Haino betrachtet die Gitarre als eine Erweiterung seines Körpers und Geistes und ist eine Präsenz, die die Sinne des Zuhörers mit den Extremen des Klangs erschüttert. Die Dreifaltigkeit von Improvisation, Zerstörung und Ausdruck wird zu einer wichtigen Koordinate in der Geschichte der japanischen Underground-Gitarre.
 

@@ -11,8 +11,8 @@ tags:
 - History
 - 90s
 - 00s
-title: '[Spalte] Seltsame Musikspielzeuge – Spielzeuge mit seltsamen Geräuschen aus
-  der ganzen Welt'
+title: '[Spalte] Seltsame Musikspielzeuge – Spielzeuge mit seltsamen Klängen aus der
+  ganzen Welt'
 ---
 
 
@@ -44,7 +44,7 @@ color: #fff;
 ## Ⅰ. Das Vergnügen, Hände mit Klang zu spielen
 
 Wir dürfen nicht vergessen, dass der „Tastsinn“ der Ursprung des musikalischen Aktes ist. Wenn Sie die Saiten zupfen, die Tasten drücken oder die Knöpfe drehen, erhalten Sie eine Reaktion auf Knopfdruck. Diese Unmittelbarkeit gilt auch für die Spielzeuge, mit denen Kinder in ihrer Kindheit in Berührung kommen.
-Im 21. Jahrhundert wurden elektronische Klänge auch auf Kinderspielzeug und Lerngeräte ausgeweitet, und der Akt des „Klangs“ selbst wurde mittlerweile als Teil des Spiels konzipiert. Die Grenze zwischen Spielzeug und Musikinstrumenten verschwimmt zunehmend.
+Im 21. Jahrhundert wurden elektronische Klänge auf Kinderspielzeug und Lerngeräte ausgeweitet, und der Akt des „Klangs“ selbst wurde als Teil des Spiels konzipiert. Die Grenze zwischen Spielzeug und Musikinstrumenten verschwimmt zunehmend.
 
 ---
 
@@ -95,8 +95,8 @@ Eine Fusion aus subtilen elektronischen Klängen und analogem Feeling. Das zarte
 
 ## Ⅳ. Europäische seltsame Tongeräte
 
-### Stylophon und Optigan
-Das British Stylophone ist ein Schreibtisch-Synthesizer, der aus Fernsehwerbespots der 1970er Jahre bekannt ist. Wenn Sie mit den Fingerspitzen über die Metallkontakte fahren, ertönt ein markanter Piepton. Seine Leichtigkeit und sein lautes Gefühl wurden in die frühe Techno-Pop- und Avantgarde-Musik integriert.
+### Stylophone und Optigan
+Das British Stylophone ist ein Schreibtisch-Synthesizer, der aus Fernsehwerbespots der 1970er Jahre bekannt ist. Wenn Sie mit den Fingerspitzen über die Metallkontakte fahren, ertönt ein deutlicher Piepton. Seine Leichtigkeit und sein lautes Gefühl wurden in die frühe Techno-Pop- und Avantgarde-Musik integriert.
 Der Optigan ist ein Orgelspielzeug, das mithilfe optischer Platten Klänge abspielt und sich durch unvorhersehbare Muster und Rhythmen auszeichnet.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EL8PH9Fx0hw?si=aRc6EJ8WPVcaAXI9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -149,7 +149,7 @@ In den 1970er und 1980er Jahren wurden tragbare Synthesizer und elektronische Mu
 - CASIO VL-TONE
 - Pädagogische Synthesizer wie der SX-150 von Gakken
 
-Elektronische Klänge können problemlos auf Schreibtischen zu Hause oder in der Schule erlebt werden, und Kinder sind mit der Kultur des „Spielens mit Klängen“ vertraut geworden. In der heutigen Zeit sind digitale Spielzeuge wie Otamatone mit der YouTube-Kultur verbunden und schaffen eine neue Welt „süßer Klänge“.
+Elektronische Klänge können problemlos auf Schreibtischen zu Hause oder in der Schule erlebt werden, und Kinder haben sich mit der Kultur des „Spielens mit Klängen“ vertraut gemacht. In der heutigen Zeit sind digitale Spielzeuge wie Otamatone mit der YouTube-Kultur verbunden und schaffen eine neue Welt „süßer Klänge“.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VKfsCbe47Os?si=djdl5n1qjmiP3Scw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

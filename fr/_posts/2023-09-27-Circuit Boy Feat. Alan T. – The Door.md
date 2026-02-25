@@ -12,7 +12,7 @@ title: Circuit Boy Feat. Alan T. – La porte
 ---
 
 
-Un album techno du groupe « Circuit Boy » de Jay Winborn et Mike Mucci sorti sur le label allemand Flesh en 2001.
+Un album techno du groupe "Circuit Boy" de Jay Winborn & Mike Mucci, sorti sur le label allemand Flesh en 2001.
 
 #### Liste des chansons
 ```md

@@ -8,20 +8,20 @@ layout: post
 permalink: /ko/pickup-cassette/
 tags:
 - Cassette
-title: 픽업 카세트 테이프 작동
+title: 카세트 테이프 작품을 픽업
 ---
 
 
-“언더그라운드의 숨결을 생생하게 포착하고 독특한 미학을 발산하는 주목할만한 카세트테이프 작품군.”
+"언더그라운드의 숨결을 생생하게 새겨, 독자적인 미학을 발하는 주목해야 할 카세트 테이프 작품군"
 
 <hr>
 
-### 아티스트 없음 – 환경(카세트 2)
+### No Artist – Environments (Cassette Two)
 <a href="https://jp.mercari.com/item/m64435232831?afid=6142608987"><img src="../assets/images/No%20Artist%20%E2%80%93%20Environments.webp"></a>
 
-1970년대 현장 녹음/힐링 자연환경을 포착한 힐링 사운드스케이프.
+1970년대 필드 녹음/힐링 자연 환경을 포착한 치유계 사운드스케이프.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Tintinnabulation (Contemplative Sound)
 
@@ -32,16 +32,16 @@ B. Dawn At New Hope Pennsylvania (June, 1969)
 [メルカリで購入](https://jp.mercari.com/item/m64435232831?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aKg6BNrHeuU?si=tG_X8CHdaIZY54XP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-### 소음의 예술 - 말도 안 돼 넌센스
+### The Art of Noise – In No Sense Nonsense
 <a href="https://jp.mercari.com/item/m27011020702?afid=6142608987"><img src="../assets/images/The%20Art%20Of%20Noise%20%E2%80%93%20In%20No%20Sense%20Nonsense.webp"></a>
 
-1987 Leftfield Synth Pop Art 팝 x 실험적이고 독특한 신스 작품.
+1987년 Leftfield 신디팝 아트 팝×실험 들러, 독특한 신디작.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Galleons Of Stone
 A2. Dragnet
@@ -82,17 +82,17 @@ B16. One Earth
 [メルカリで購入](https://jp.mercari.com/item/m27011020702?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FQLm_x6LH5c?si=y8jM3zRRCyVF89-i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
 
-### 키스 – 로큰롤 오버
+### Kiss – Rock And Roll Over
 <a href="https://jp.mercari.com/item/m33007072750?afid=6142608987"><img src="../assets/images/Kiss%20%E2%80%93%20Rock%20And%20Roll%20Over.webp"></a>
 
-1976년 70년대 Hard Rock Japan 초판 카세트, 멋진 빈티지.
+1976년 70s 하드락 일본 초판 카세트, 멋진 빈티지.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. I Want You
 A2. Take Me
@@ -111,17 +111,17 @@ B5. Makin' Love
 [メルカリで購入](https://jp.mercari.com/item/m33007072750?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yEioRXSgdsk?si=z5LHPeQMfV66ZPPa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
 
-### Amany & The Badawist – 어서, Bassem
+### Amany & The Badawist – Come on, Bassem
 <a href="https://jp.mercari.com/item/m46511656290?afid=6142608987"><img src="../assets/images/Amany%20and%20The%20Badawist%20%E2%80%93%20Come%20on%20Bassem.webp"></a>
 
-2024 부족/세계 음악 중동 및 아프리카의 부족 사운드입니다.
+2024년 트라이벌/세계 음악 중동·아프리카계의 트라이벌 음향.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1.  بدويست 
 
@@ -155,12 +155,12 @@ Come on, Bassem
 <hr>
 
 
-### 토마스 뉴먼 – 여인의 향기
+### Thomas Newman – Scent Of A Woman
 <a href="https://jp.mercari.com/item/m80593383212?afid=6142608987"><img src="../assets/images/Thomas%20Newman%20%E2%80%93%20Scent%20Of%20A%20Woman.webp"></a>
 
-1992년 영화 사운드트랙 고전 영화의 오리지널 스코어 테이프.
+1992년 영화 사운드트랙 명작 영화의 오리지널 스코어 테이프.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1.  Main Title
 A2.  A Tour Of Pleasures
@@ -186,16 +186,16 @@ B7. End Title
 [メルカリで購入](https://jp.mercari.com/item/m80593383212?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/COQsa_u5nEg?si=fguM6L8R4SRjad1F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-### 아담 클레이튼 & 래리 멀렌 – 미션 임파서블 테마
+### Adam Clayton & Larry Mullen – Theme From Mission: Impossible
 <a href="https://jp.mercari.com/item/m33330451602?afid=6142608987"><img src="../assets/images/Adam%20Clayton%20&%20Larry%20Mullen%20%E2%80%93%20Theme%20From%20Mission%20Impossible.webp"></a>
 
-1996년 영화 주제가 영화 '미션 임파서블'의 공식 테이프.
+1996년 영화 테마곡 영화 「미션 임포시블」의 공식 테이프.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Theme From Mission: Impossible
 A2. Mission: Impossible Theme (Mission Accomplished)
@@ -207,17 +207,17 @@ B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 [メルカリで購入](https://jp.mercari.com/item/m33330451602?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1sibRQh_Ry0?si=uYrL9uW6B0nx9GjJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
 
-### 디젤보이 – 디렉터스 컷
+### Dieselboy – The Director’s Cut
 <a href="https://jp.mercari.com/item/m34797510612?afid=6142608987"><img src="../assets/images/Dieselboy%20%E2%80%93%20The%20Director's%20Cut.webp"></a>
 
-2023 Drum n Bass 미국 드럼 앤 베이스 DJ의 강렬한 믹스
+2023년 Drum n Bass 미 드럼 베이스 DJ에 의한 강렬 믹스
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Side A
 
@@ -257,16 +257,16 @@ B. Side B
 [メルカリで購入](https://jp.mercari.com/item/m34797510612?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X6EumRaarrQ?si=XRLLJb_BEWu1NV9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-### 다양한 – 즐겨보세요! 이야기
+### Various – The Enjoy! Story
 <a href="https://jp.mercari.com/item/m75930589194?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20The%20Enjoy!%20Story.webp"></a>
 
-1990년대? 클래식 힙합 Zulu Nation 시대 초기 편집
+1990년대? 클래식 힙합 Zulu Nation 시대의 여명기 편집
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1.The Packman–I'm The Packman
 A2.Grandmaster Flash & The Furious Five–Superappin
@@ -308,16 +308,16 @@ D9. Higher Ground – Shake 'Em Up
 [メルカリで購入](https://jp.mercari.com/item/m75930589194?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PIPDwUlbcNo?si=Wq-w3Cb25_mcZCUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-### Run‑D.M.C. – 킹 오브 락
+### Run‑D.M.C. – King Of Rock
 <a href="https://jp.mercari.com/item/m37727986910?afid=6142608987"><img src="../assets/images/Run-D.M.C.%20%E2%80%93%20King%20Of%20Rock.webp"></a>
 
-1985년?  힙합/록 퓨전, 록과 랩의 선구적이고 대중적인 작품
+1985년?  힙합/록 융합 락과 랩의 선구적 인기작
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Rock The House
 A2. King Of Rock
@@ -335,16 +335,16 @@ B4. Daryll And Joe (Krush-Groove 3){: .button1}
 [メルカリで購入](https://jp.mercari.com/item/m37727986910?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qXzWlPL_TKw?si=2o-hehPcll2R8E7O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-### 닥터 드레(Dr. Dre) - 렛 미 라이드(Let Me Ride)
+### Dr. Dre – Let Me Ride
 <a href="https://jp.mercari.com/item/m33195503336?afid=6142608987"><img src="../assets/images/Dr.%20Dre%20%E2%80%93%20Let%20Me%20Ride.webp"></a>
 
-1992년 클래식 힙합/G-펑크 웨스트코스트 사운드 대표곡
+1992년 클래식 힙합/G펑크 서해안 사운드의 대표곡
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Let Me Ride (Radio Mix)
 
@@ -365,11 +365,11 @@ Guest– George Clinton
 [メルカリで購入](https://jp.mercari.com/item/m33195503336?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zIG9BNugOEs?si=itP9y0O19GNYWvSe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-### 목록
+### List
 
 <div class="table-border">
 <table>

@@ -146,7 +146,7 @@ Das riesige Trommelensemble „77BOADRUM“ von Boredoms war ein Ritual, das die
 Für sie ist das Schlagzeug nicht nur ein Schlaginstrument, sondern die „Wellen des Lebens“.
 
 Darüber hinaus ist **Yo2ro** in Boredoms und anderen experimentellen Musikprojekten aktiv.
-Indem er die vertikalen und horizontalen Aspekte des Polyrhythmus frei manipuliert, spiegelt er YOSHIMIOs kosmischen Rhythmus wider.
+Indem er die vertikalen und horizontalen Aspekte des Polyrhythmus frei manipuliert, spiegelt er den kosmischen Beat von YOSHIMIO wider.
 Yo2ros Schlinge hat die Kraft, den Raum jedes Mal zu verändern, wenn sie angeschlagen wird.
 Er erregt Aufmerksamkeit als Symbol für Japans Avantgarde-Schlagzeuger.
 

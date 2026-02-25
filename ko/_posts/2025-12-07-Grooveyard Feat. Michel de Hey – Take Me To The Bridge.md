@@ -10,15 +10,16 @@ tags:
 - House
 - Tech House
 - 90s
-title: 그루브야드 Feat. 미셸 드 헤이 – 나를 다리로 데려가주세요! (FFWD 하이네켄 댄스 퍼레이드 1999의 공식 주제)
+title: Grooveyard Feat. Michel de Hey – Take Me To The Bridge! (Official Theme From
+  FFWD Heineken Dance Parade 1999)
 ---
 
 
-Grooveyard로도 알려진 Jeroen Verheij는 Secret Cinema로 알려진 네덜란드 하우스/테크노 DJ/프로듀서이자 암스테르담 레이블 Gem Records의 창립자입니다.
+Grooveyard는 Jeroen Verheij는 Secret Cinema 명의 등으로 알려진 네덜란드 출신의 House · TechnoDJ / 프로듀서 & 암스테르담의 레이블 Gem Records의 설립자.
 
-"나를 다리로 데려가 주세요!" 네덜란드 헤비급 선수 Michel de Hey가 출연하는 House/Tech House 트랙입니다. 1999년 Michel De Hey와 Jeroen Verheij의 레이블 EC Records를 통해 발매되었습니다.
+'Take Me To The Bridge! Michel De Hey와 Jeroen Verheij의 레이블 EC Records에서 1999 년에 출시되었습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Take Me To The Bridge! (Club Mix)
 A2. Take Me To The Bridge! (Instrumental Mix)

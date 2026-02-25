@@ -25,7 +25,7 @@ El Sludge metal no es música destinada a avanzar o elevarse. El tempo es lento,
 
 Lo importante en este género no es la melodía ni la técnica, sino la calidad del sonido. El espesor de la distorsión, la presión del bajo y el intervalo del ritmo. Estos factores actúan de manera compleja y la música no existe como una progresión lineal, sino como una sustancia precipitante.
 
-Como sugiere el nombre del género, la estética sonora del sludge metal reside en el "estancamiento". Se distancia intencionadamente del sonido claro, de la estructura sofisticada y de una experiencia auditiva cómoda, presentando la turbiedad y el estancamiento como valores. Esa actitud ha ocupado una posición única en la cultura de la música metal.
+Como sugiere el nombre del género, la estética sonora del sludge metal radica en el "estancamiento". Se distancia intencionadamente del sonido claro, de la estructura sofisticada y de una experiencia auditiva cómoda, presentando la turbidez y el estancamiento como valores. Esa actitud ha ocupado una posición única en la cultura de la música metal.
 
 > El sonido del lodo metálico existe no para avanzar, sino para hundirse en un lugar.
 
@@ -93,7 +93,7 @@ El ritmo del lodo metálico es intencionalmente lento. El tambor elimina relleno
 
 Esta lentitud es una elección, no una falta de representación. Al negarse a acelerarse o desarrollarse, la música mantiene un cierto peso. Es por eso que el tiempo se siente estancado a pesar de que la canción avanza.
 
-Los ritmos de Sludge Metal no funcionan para impulsarte hacia adelante, sino para mantenerte ahí.
+Los ritmos de Sludge Metal no funcionan para impulsarte hacia adelante, sino para mantenerte allí.
 
 > La lentitud no es una carencia, sino una expresión elegida.
 

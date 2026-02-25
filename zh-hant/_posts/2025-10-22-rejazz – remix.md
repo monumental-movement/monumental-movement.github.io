@@ -11,15 +11,15 @@ tags:
 - Future Jazz
 - Deep House
 - 00s
-title: '[回复：爵士樂] – （回复：混音）'
+title: '[回覆：爵士樂] – （回覆：混音）'
 ---
 
 
-[re:jazz] 是由 Matthias Vogt（也稱為 DJ Matt）和多位藝術家共同發起的爵士樂項目。
+[re:jazz] 是由 Matthias Vogt（也稱為 DJ Matt）和多位藝術家共同發起的爵士樂計畫。
 
-(re:mix) 是日本爵士廠牌Nebula於2003年發行的Downtempo/Future Jazz/Deep House。
+(re:mix)是日本爵士廠牌Nebula於2003年發行的Downtempo/Future Jazz/Deep House。
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. Quiet Nights (Nicola Conte "Out Of The Cool Version")
 2. My Love Is Higher (Russ Gabriel Rmx)
@@ -35,7 +35,7 @@ title: '[回复：爵士樂] – （回复：混音）'
 12. People Come Running (Les Gammas Sprinter Mix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m37383041694?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m37383041694?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EGl9lQlR1x4?si=3QYkgtH9qeWrA69D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -17,7 +17,7 @@ title: Booka Shade – Dans les salles blanches (Vinyl Two)
 
 Sortie en 2005, cette chanson était l'une des œuvres phares de Booka Shade et est devenue un succès majeur dans leur carrière.
 
-Une ligne de basse lourde, une mélodie de synthétiseur et un rythme résonnant se combinent pour créer une chanson de musique house qui incorpore des éléments de musique électronique, lui donnant une atmosphère sombre et mystérieuse.
+La combinaison d'une ligne de basse lourde, d'une mélodie de synthétiseur et d'un rythme résonnant crée une musique house qui incorpore des éléments de musique électronique, créant une chanson à l'atmosphère sombre et mystérieuse.
 
 #### Liste des chansons
 ```md

@@ -9,13 +9,13 @@ permalink: /zh-hant/speed-kiss-on-live-at-shinjuku-loft-on-12th-october-1985/
 tags:
 - Rock
 - Punk
-title: Speed ​​ – Kiss On -1985年10月12日在新宿Loft現場演出-
+title: Speed – Kiss On -1985年10月12日在新宿Loft現場演出-
 ---
 
 
 Speed是一支日本搖滾樂隊，由前Hachibu no Mura成員青木真一於1976年組建，一直活躍到20世紀80年代末。
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. 祈り合掌 Do It!
 
@@ -36,6 +36,6 @@ Speed是一支日本搖滾樂隊，由前Hachibu no Mura成員青木真一於197
 9. ひとつの氷
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m43996896011?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m43996896011?afid=6142608987){: .button1}
 
 

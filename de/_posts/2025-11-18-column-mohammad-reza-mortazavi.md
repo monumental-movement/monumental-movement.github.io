@@ -17,7 +17,7 @@ title: '[Kolumne] Poesie des Herzschlags: Die Welt des iranischen genialen Perku
 ## 1. Einführung
 
 
-Text: mmr｜Thema: Verfolgen Sie sorgfältig seinen Weg von seiner Kindheit bis zur Gegenwart und erforschen Sie den Kern seiner Innovation, Philosophie, Zusammenarbeit und Erfahrung, die er den Zuhörern vermittelt.
+Text: mmr｜Thema: Verfolgen Sie sorgfältig seinen Weg von seinem frühen Leben bis zur Gegenwart und erforschen Sie den Kern seiner Innovation, Philosophie, Zusammenarbeit und Erfahrung, die er den Zuhörern vermittelt.
 
 Mohammad Reza Mortazavi ist ein seltener Perkussionist, der traditionelle persische Schlaginstrumente im modernen musikalischen Ausdruck grundlegend neu interpretiert. Seine Auftritte sind nicht nur eine Zurschaustellung rhythmischer Technik, sondern werden von einer tiefen Spiritualität begleitet, die manchmal in Trance versetzt und das Publikum auf eine körperliche und bewusste Reise einlädt. In diesem Sinne sind seine Aktivitäten wichtig für die Schaffung neuer musikalischer Horizonte, die über die binären Gegensätze von „traditioneller Musik und experimenteller Musik“, „Ost und West“ und „Vergangenheit und Zukunft“ hinausgehen.
 
@@ -77,8 +77,8 @@ Mortazavis bemerkenswerteste Leistung sind **mehr als 30 selbst entwickelte Schl
 
 Im Einzelnen umfassen die Ansätze:
 
-* **Verwendung verschiedener Schlagpunkte**: Angriffsbereiche, die traditionelle Spieler nicht nutzen, wie z. B. die Mitte des Leders, die Kante (Rand) und den Körper (Holzteil).
-* **Verschiedene Teile der Hand**: Die gesamte Hand des Spielers gilt als Musikinstrument, einschließlich der Fingerspitzen, Gelenke, Nägel, Handfläche, Daumenwurzel und anderer Teile, die als Tabu gelten.
+* **Unterschiedliche Angriffspunkte nutzen**: Bereiche angreifen, die traditionelle Spieler nicht nutzen, wie z. B. die Mitte des Leders, den Rand und den Körper (Holzteil).
+* **Verschiedene Teile der Hand**: Die gesamte Hand des Spielers gilt als Musikinstrument, einschließlich der Fingerspitzen, Gelenke, Nägel, Handfläche, Daumenwurzel und anderer Teile, die sonst als tabu gelten würden.
 * **Polyrhythmischer Ansatz**: Eine Technik, die es ermöglicht, dass mehrere Stimmen (Ebenen) gleichzeitig innerhalb desselben Instruments erklingen. Dies ermöglicht eine ensembleähnliche Darbietung durch nur einen Spieler.
 * **Dynamikbereich**: Von extrem leisen Berührungen bis hin zu explosiven Schlägen können Sie die Stärke, das Tempo und die Dichte des Klangs frei steuern.
 * **Resonanzbetrieb**: Steuert die Resonanz des Körpers und gestaltet den Nachgeschmack beim Schlagen. Auf diese Weise wird der „Nachhall“ des Klangs, der nach einem einzigen Schlag verbleibt, als Ausdruckselement genutzt.
@@ -100,7 +100,7 @@ Für ihn war dieses Jahr ein symbolischer Wendepunkt, da seine musikalische Iden
 
 ---
 
-### 7. Analyse wichtiger Werke und Musikwelt
+### 7. Analyse wichtiger Werke und der Musikwelt
 
 Mortazavis Diskographie ist eine Karte der Entwicklung seiner Erkundungen. Im Folgenden werden wir tiefer in jedes seiner Hauptwerke eintauchen, um seine musikalische Vision und Technik zu entschlüsseln.
 
@@ -108,7 +108,7 @@ Mortazavis Diskographie ist eine Karte der Entwicklung seiner Erkundungen. Im Fo
 
 Dieses 2010 veröffentlichte Album ist ein symbolischer Aufbruch für Mortazavi. Obwohl es sich um einen Soloauftritt mit ausschließlich traditionellen Instrumenten (Tamback/Duff) handelt, sind seine technologische Innovation und sein Sounddesign bereits deutlich ausgeprägt. Jeder Titel verfügt über zarte, vielschichtige Rhythmen, die Finger, Handflächen und Nägel voll ausnutzen und dem Hörer die Illusion vermitteln, dass ein einzelnes Instrument mehrere Stimmen hätte.
 
-Bemerkenswert ist, dass sein Schlagstil nicht nur schnell, sondern auch äußerst dynamisch ist. Die Resonanz einer leisen Berührung, die Schärfe eines starken Schlags und der sanfte Übergang zwischen ihnen. Jedes Mal, wenn seine Hände über die Lederoberfläche gleiten, auf das Holz des Korpus treffen und seine Finger mit ihren Nägeln hüpfen, überlagern sich verschiedene Töne schichtweise und erzeugen so eine starke Präsenz.
+Bemerkenswert ist, dass sein Schlagstil nicht nur schnell, sondern auch sehr dynamisch ist. Die Resonanz einer leisen Berührung, die Schärfe eines starken Schlags und der sanfte Übergang zwischen ihnen. Jedes Mal, wenn seine Hände über die Lederoberfläche gleiten, auf das Holz des Korpus treffen und seine Finger mit ihren Nägeln hüpfen, überlagern sich verschiedene Töne schichtweise und erzeugen so eine starke Präsenz.
 
 Auch die Aufnahme/Mischung dieses Albums kann nicht ignoriert werden. Wenn seine Schlaginstrumente durch ein Mikrofon im Raum nachgebildet werden, werden deren Echos und Nachhall lebendig eingefangen und es entsteht eine Klanglandschaft, die sich anfühlt, als würde man einem Mikrokosmos lauschen.
 
@@ -165,7 +165,7 @@ Mortazavi live zu spielen ist eine sehr körperliche und spirituelle Erfahrung. 
 
 Sein Spiel vermischt meditative, sich wiederholende Strukturen mit schnellen, komplexen Wechselmustern, die den Zuhörer oft dazu bringen, das Zeitgefühl zu verlieren. In dem Moment, in dem sich das Tempo verlangsamt, setzt sich der Klang mit Nachhall fort, und diese Dauern überlappen sich allmählich und erzeugen Resonanz im Körper. Wenn sich der Rhythmus hingegen plötzlich beschleunigt, ist die Konzentration des Publikums am höchsten und es gelangt in eine Art tranceähnlichen Zustand.
 
-Ein solches Live-Erlebnis ist nicht nur etwas, das man mit den Ohren hört, sondern ein Erlebnis, das man mit seinem Körper „spürt“. Mortazavi erzeugt bei seinem Auftritt eine Resonanz beim Publikum und lässt sie in jedem Moment einen „gemeinsamen Puls“ teilen. Der Prozess hat einen rituellen Aspekt, der das Instrument und die Person, den Interpreten und das Publikum verbindet.
+Ein solches Live-Erlebnis ist nicht nur etwas, was man mit den Ohren hört, sondern ein Erlebnis, das man mit seinem Körper „spüren“ kann. Mortazavi erzeugt bei seinem Auftritt eine Resonanz beim Publikum und lässt sie in jedem Moment einen „gemeinsamen Puls“ teilen. Der Prozess hat einen rituellen Aspekt, der das Instrument und die Person, den Interpreten und das Publikum verbindet.
 
 ---
 
@@ -207,7 +207,7 @@ Diese Bildungsaktivitäten zeigen, dass seine Kunst nicht nur seine eigene ist, 
 
 ### 13. Zeitgenössische Position und Einfluss
 
-Mortazavis Aktivitäten nehmen in der aktuellen globalen Musikszene eine einzigartige und wichtige Stellung ein. Er ist nicht nur ein traditioneller Musiker, kein elektronischer Musiker, noch ein rein experimenteller Musiker. Vielmehr durchquert und verbindet es diese Elemente und eröffnet so ein neues Genre/Horizont.
+Mortazavis Aktivitäten nehmen in der aktuellen globalen Musikszene eine einzigartige und wichtige Stellung ein. Er ist weder ein traditioneller Musiker noch ein elektronischer Musiker noch ein rein experimenteller Musiker. Vielmehr durchquert und verbindet es diese Elemente und eröffnet so ein neues Genre/Horizont.
 
 Seine Auftritte und Werke haben folgende Einflüsse:
 
@@ -218,7 +218,7 @@ Seine Technik haucht dem traditionellen Instrument, dem Tambak, neues Leben ein 
 Seine Zusammenarbeit mit Produzenten elektronischer Musik und seine Auseinandersetzung mit Rhythmus und zyklischen Strukturen machen die Schnittstelle zwischen Tradition und Moderne deutlich.
 
 - **Fusion mit Performance-Kunst**
-Seine Live-Auftritte beinhalten Körperlichkeit, Rituale und Trance, und seine Auftritte gehen über bloße musikalische Darbietungen hinaus und werden zu körperlicher und räumlicher Kunst.
+Seine Live-Auftritte beinhalten Körperlichkeit, Rituale und Trance, und seine Auftritte gehen über bloße musikalische Darbietungen hinaus und werden zu physischer und räumlicher Kunst.
 
 - **Gemeinschaft und Bildung**
 Durch Workshops fördert er die Demokratisierung des Rhythmus, die Weitergabe und Transformation traditioneller Techniken sowie das interkulturelle Verständnis.

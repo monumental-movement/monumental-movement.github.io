@@ -18,7 +18,7 @@ title: '[Chronique] Detroit Techno : La danse humaine née du battement du cœur
 
 Texte : mmr | Thème : Detroit Techno est un produit culturel qui combine l'histoire urbaine, la technologie et la créativité noire américaine.
 
-La techno de Détroit est une « musique électronique avec une touche humaine » née de l'intersection des sons industriels urbains, de la culture de la danse noire américaine et de la musique électronique européenne. Dans cette chronique, nous présenterons de manière exhaustive l'histoire de son origine, les caractéristiques de son son, ses personnages principaux et chansons représentatives, son origine sociale, sa propagation dans le monde et son influence jusqu'à ce jour.
+La techno de Détroit est une « musique électronique avec une touche humaine » née de l'intersection des sons industriels urbains, de la culture de la danse noire américaine et de la musique électronique européenne. Dans cette chronique, nous présenterons de manière exhaustive l'histoire de son origine, les caractéristiques de son son, ses personnages principaux et chansons représentatives, son origine sociale, sa diffusion dans le monde et son influence jusqu'à ce jour.
 
 <hr>
 
@@ -37,7 +37,7 @@ Dirigés par Juan Atkins, Derrick May et Kevin Saunderson (pas le soi-disant « 
 
 ### Contexte culturel et social : l'ombre de la ville industrielle de Détroit
 
-Détroit est une ville connue pour son industrie automobile. Les bruits des machines d’usine, les histoires de retraite et de chômage, de dévastation et de renaissance urbaines ont profondément influencé la texture et l’émotion de la musique qui y poussait.
+Détroit est une ville connue pour son industrie automobile. Les bruits des machines d’usine, les histoires de retraite et de chômage, de dévastation et de renaissance urbaines ont profondément influencé la texture et l’émotion de la musique qui y a grandi.
 
 D’un autre côté, la culture des DJ radio afro-américains (par exemple des curateurs comme Electrifying Mojo) et la culture des clubs se sont mélangées à la musique électronique européenne (en particulier Kraftwerk) pour créer une direction unique (l’influence de Kraftwerk et d’autres est souvent soulignée).
 
@@ -49,9 +49,9 @@ D’un autre côté, la culture des DJ radio afro-américains (par exemple des c
 
 - Construit autour de boîtes à rythmes (TR-808/909) et de synthés (type Roland, analogiques).
 
-- Superposez un travail de synthétiseur mélodique/textural sur des rythmes répétitifs simples.
+- Superposez un travail de synthé mélodique/textural sur des rythmes répétitifs simples.
 
-- Le style Detroit est plus froid et plus mécanique que la house, mais il a « de la mélodie et de l'émotion ».
+- Le style Detroit est plus froid et mécanique que la house, mais il a « de la mélodie et de l'émotion ».
 
 La frontière entre DJ et producteur était floue et les chansons étaient affinées grâce à la pratique (mixage/réaction) dans les clubs.
 
@@ -79,7 +79,7 @@ La frontière entre DJ et producteur était floue et les chansons étaient affin
 
 #### **Kevin Saunderson / Centre-ville**
 
-Kevin a développé une approche pop de la techno de club, et "Big Fun" et "Good Life" d'Inner City (1988) sont devenus des succès mondiaux et des réussites commerciales pour la musique de Détroit.
+Kevin a développé une approche pop de la techno club, et "Big Fun" et "Good Life" d'Inner City (1988) sont devenus des succès mondiaux et des réussites commerciales pour la musique de Détroit.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gr-zG-IXDyo?si=4WxnonAAN-XCcRet" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -93,11 +93,11 @@ L'un des chefs-d'œuvre de Jeff Mills, « The Bells », s'est vendu à plus de 5
 
 ---
 
-#### **Autre (extension de scène)**
+#### **Autre (extension de la scène)**
 
 Diverses générations ont suivi, dont Richie Hawtin (une deuxième génération dont les travaux ultérieurs ont comblé le fossé entre Détroit et la scène internationale).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JKPScOuCkws?si=Jnj_0pWQz950yOZv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xk81Oty1a-U?si=ehXcCwf_TWvv1H9D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
@@ -118,7 +118,7 @@ La techno de Détroit s'est combinée à la culture rave et club berlinoise dans
 
 **Mode** : Les vêtements de travail, l'utilité et l'esthétique minimale/fonctionnelle influencent les tenues de club.
 
-**Visuel/Art** : les œuvres d'art utilisant des textures industrielles et des contrastes entre le néon et l'acier sont à la hausse.
+**Visuel/Art** : les œuvres d'art utilisant des textures industrielles et des contrastes entre le néon et l'acier sont en hausse.
 
 **Perspective technologique** : La démocratisation du matériel de production musicale (distribution de matériel d'occasion, synthétiseurs bon marché) a conforté l'idée selon laquelle « n'importe qui peut produire de la musique ».
 
@@ -160,6 +160,14 @@ Voici les chansons « principales » pour comprendre la techno de Détroit.
 ### De Détroit au monde - La poésie éternelle de l'électronique
 
 La techno de Détroit est bien plus que de la simple musique dance ; c'est un produit culturel qui combine l'histoire, la technologie et la créativité noire américaine de la ville. Au contraire, la répétition de rythmes mécaniques évoque des émotions humaines et une communauté – c'est le « son mécanique chaleureux » de Détroit. En écoutant des chansons célèbres du passé et en ressentant l'ambiance du lieu (DJ set ou festival), vous pourrez apprécier encore plus la profondeur de cette musique.
+
+---
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZTihU-gnxwo?si=lsZkzvpVRdjObT3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

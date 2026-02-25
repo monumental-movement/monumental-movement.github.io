@@ -80,7 +80,7 @@ Die daraus resultierenden übersetzten Texte sind ein Kompromiss zwischen dem Or
 
 ## Kapitel 3 Übersetzungen, die gesungen werden können und „Übersetzungen, die nicht gesungen werden können“
 
-Lyrische Übersetzungen werden in Übersetzungen zum Lesen und Übersetzungen zum Singen unterteilt.
+Lyrikübersetzungen werden in Übersetzungen zum Lesen und Übersetzungen zum Singen unterteilt.
 Im letzteren Fall sind einfache Aussprache, Vokalkontinuität und Akzentposition wichtig.
 
 Japanisch hat eine einfache Silbenstruktur und viele Vokale, was es schwierig macht, die Konsonantenfolge und Betonungsstruktur des Englischen zu reproduzieren.
@@ -147,7 +147,7 @@ Dies hat Hip-Hop zu einem Sonderfall von kultureller Bedeutung ohne jegliche Üb
 
 ---
 
-## Kapitel 8: Japanischer Rap und kultureller Import in die entgegengesetzte Richtung
+## Kapitel 8 Japanischer Rap und der gegenteilige Kulturtransfer
 
 Die Etablierung des japanischen Rap erfolgte nicht durch die Übersetzung englischer Texte, sondern durch die Transplantation von Form und Haltung.
 Hier liegt der Fokus eher auf Nachahmung und Rekonstruktion als auf Übersetzung.

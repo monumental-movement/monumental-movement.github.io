@@ -157,7 +157,7 @@ La característica es que
 - Diseño de sonido que combina voz y looper.
 - Equilibrio de melodía, acordes y línea de bajo.
 
-El "enfoque del compositor" es sólido.
+El "enfoque del compositor" es fuerte.
 
 ### ● SO-SO características técnicas
 - Voz sintética
@@ -173,7 +173,7 @@ Ha ayudado a elevar el perfil de los jugadores de Loopstation en Japón y tiene 
 
 ### ● Técnica precisa
 RUSY es conocido por sus ritmos altamente precisos y sus suaves técnicas de combinación, y ha recibido grandes elogios principalmente en torneos nacionales en Japón.
-Las características incluyen:
+Las características son:
 
 - ranura estrecha
 - Pronunciación clara y densa.
@@ -214,7 +214,7 @@ Se requiere sincronización, armonía y capacidad de composición por parte de v
 
 ## ◆ Estación de bucle
 La categoría que más atención ha recibido en los últimos años,
-“Construyendo solo música multicapa”
+"Construye tú mismo música de múltiples capas"
 Hay un fuerte elemento de producción musical.
 
 ## ◆ Vitrinas / Exposición
@@ -240,7 +240,7 @@ timeline
 
 # 9. Tendencias de Beatbox en todo el mundo y el futuro.
 
-## ◆ 1. La línea entre producción musical es borrosa
+## ◆ 1. La línea entre la producción musical se está desdibujando
 Con el desarrollo de Loopstation, el beatboxing
 **"Versión en tiempo real de la producción musical"**
 Hacia un área que se puede llamar
@@ -254,7 +254,7 @@ Japón es
 
 - Precisión técnica
 - Precisión
-- Capacidad de organización
+- Capacidad de arreglo
 - Expresión visual
 
 Tiene una fuerza internacional en este sentido.
@@ -265,7 +265,7 @@ Podemos esperar que continúe activo tanto en Loopstation como en solitario.
 # Conclusión - Human Beatbox como cultura
 
 Human Beatbox es una cultura expresiva moderna que combina muchos aspectos como música, interpretación, vídeo y composición.
-Ahora que la cultura de la competencia está madurando, la tecnología está evolucionando y los artistas japoneses están surgiendo, el beatboxing está experimentando cambios importantes y el beatboxing se está convirtiendo en algo más que una simple técnica: se está convirtiendo en un género musical internacional.
+Hoy en día, el beatboxing está experimentando cambios importantes, como la maduración de la cultura de la competencia, la evolución de la tecnología y el ascenso de los artistas japoneses, y el beatboxing se está convirtiendo en algo más que una simple "técnica", sino que se está estableciendo como un género musical internacional.
 
 Espero que este artículo te ayude a comprender la historia y el futuro del beatboxing.
 

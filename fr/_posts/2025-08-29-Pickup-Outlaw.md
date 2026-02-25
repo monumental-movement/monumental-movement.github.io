@@ -170,7 +170,7 @@ Format : Vinyle
 
 Genre : Acide / Techno / Trance
 
-Résumé : Sortie en 1992, une superbe compilation des débuts de Tresor. Une pièce historique qui incarne les « échos de la famille ».
+Résumé : Sortie en 1992, une superbe compilation des premières années de Tresor. Une pièce historique qui incarne les « échos de la famille ».
 
 
 Sentiment de hors-la-loi : souvenirs d'improvisation de la communauté urbaine et de sombres luttes qui entourent la naissance de la scène.

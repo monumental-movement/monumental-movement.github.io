@@ -75,7 +75,7 @@ Der Game Boy ist mit einer CPU + PSG-Soundquelle namens **Sharp LR35902** ausges
 - **Rechteckwelle (Puls 2)**
 - **Wellenformspeicher (Wave-Kanal)**
 - Kanal, mit dem Sie 4-Bit-Wellenformen mit 32 Samples frei zeichnen können
-- **Rauschkanal**
+- **Geräuschkanal**
 
 Der Wellenformspeicher ist das Herzstück der Kreativität, und selbst im modernen Game Boy Chiptune wird der Wave-Kanal häufig zur Erzeugung von Bässen, Lead-, Kick- und einzigartigen Tönen verwendet. Besonders attraktiv ist die Dicke im unteren Bereich, die als „Game-Boy-ähnlicher Klang“ geschätzt wird, einschließlich des für die Hardware typischen DAC-Rauschens.
 
@@ -200,7 +200,7 @@ Chiptune beschränkt sich keineswegs auf eine „Reproduktion von Spielemusik“
 
 ---
 
-## Kapitel 7: Chipune-Genealogie
+## Kapitel 7: Genealogie von Chiptune
 
 <div class="mermaid">
 flowchart TD
@@ -234,7 +234,7 @@ Es wird nicht nur als Musikgenre betrachtet, sondern als umfassende Ausdrucksfor
 ### 9-1. Produktion mit realer Ausrüstung
 
 - Game Boy DMG-01-Modifikation
-- EverDrive/Flash-Wagen
+- EverDrive・Flash-Wagen
 - Austausch zerbrechlicher Teile
 - Methode zur Aufnahme von jeweils einem Kanal in Stereo
 

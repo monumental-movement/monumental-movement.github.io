@@ -149,9 +149,9 @@ A3. Actuellement, les outils de composition d’IA sont utilisés pour créer de
 
 * Les films de science-fiction et la musique sont indissociables car ils créent une impression d'avenir et d'un autre monde.
 * Il a été exprimé de diverses manières, notamment avec des sons électroniques, des synthétiseurs, un orchestre et de l'ambiance.
-* Tout au long de l'histoire, on peut dire que la relation entre les humains et la technologie a été visualisée à travers le son.
+* Tout au long de l'histoire, on peut dire que la **relation entre les humains et la technologie** a été visualisée à travers le son.
 
-> La future musique de film de science-fiction ouvrira un nouveau monde grâce à la collaboration entre l'IA et les compositeurs humains.
+> Les futures musiques de films de science-fiction ouvriront un nouveau monde grâce à la collaboration entre l'IA et les compositeurs humains.
 
 
 ---

@@ -18,14 +18,14 @@ Ugra & Albrecht 是德國 techno DJ 和製作人 Sertac Ugra 和 Sören Albrecht
 
 《Retouched EP》是由 Corrado Izzo 於 1995 年創立的德國唱片公司 i220 於 2006 年發行的一首浩室電子曲目。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Retouched
 
 B. Schmetterball
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m46595455712?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m46595455712?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P8TE0mDP6tc?si=o_WDtTJA5fq3pJS8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

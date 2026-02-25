@@ -15,7 +15,7 @@ title: 噪音的藝術——毫無意義的廢話
 
 《In No Sense Nonsense》是Art Of Noise的專輯卡帶，由中國唱片於1987年發行。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Galleons Of Stone
 
@@ -82,7 +82,7 @@ B15. Crusoe
 B16. One Earth
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m27011020702?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m27011020702?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FQLm_x6LH5c?si=y8jM3zRRCyVF89-i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

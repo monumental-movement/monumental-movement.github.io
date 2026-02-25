@@ -13,10 +13,10 @@ title: 各種 – 超級巨星
 ---
 
 
-“各種-超級巨星”是
-這是牙買加廠牌“Rookie Production”發行的一張合輯。
+「各種-超級巨星」是
+這是牙買加廠牌「Rookie Production」發行的一張合輯。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Unknown Artist–The Enigma
 
@@ -43,5 +43,5 @@ B5. Spragga, Lady Saw–Backshot
 B6. Devonte–Sweet Symphony
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m12624594696?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m12624594696?afid=6142608987){: .button1}
 

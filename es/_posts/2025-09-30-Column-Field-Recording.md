@@ -151,7 +151,7 @@ La grabación in situ es la trinidad de "micrófono + grabadora + fuente de alim
 
 ---
 
-### Anécdotas sobre cada artista y su equipo
+### Anécdotas sobre cada artista y equipo
 
 #### Alan Lomax y Ampex
 
@@ -183,7 +183,7 @@ La grabación in situ es la trinidad de "micrófono + grabadora + fuente de alim
 
 - Las cintas se deterioran debido al moho en la selva tropical y la grabación puede fallar.
 
-- López asume el reto de "dejar el equipo en el entorno natural".
+- López asume el reto de ``dejar el equipo en el entorno natural''.
 
 #### Micrófono de bricolaje de Toshiya Tsunoda
 
@@ -207,7 +207,7 @@ La grabación in situ es la trinidad de "micrófono + grabadora + fuente de alim
 
 ### Historial de grabaciones de campo y álbumes representativos.
 
-| Generación | Artista | Álbum representativo | Comentar | Enlace |
+| Edad | Artista | Álbum representativo | Comentar | Enlace |
 | --------------- | ---------------------- | ---------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
 | **Décadas de 1950 a 1960** | Alan Lomax | *La colección Alan Lomax | Sistematiza grabaciones folklóricas de mediados del siglo XX. El equipo de grabación es Ampex/Nagra. La base de la grabación de campo. | [Amazon](https://amzn.to/3IQh8rr) |
 | **Década de 1980** | Anna Lockwood | *Un mapa sonoro del río Hudson* (1989) | Mapee el río Hudson con "sonido". Un trabajo pionero en ecología acústica.              | [Amazon](https://amzn.to/3Inx2cR) |
@@ -228,6 +228,16 @@ La grabación de campo no es sólo una técnica, sino un acto de creación de un
 
 
 ---
+
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7ntOEubh9a0?si=dWIBnh3D5-JVtJmH" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
 
 ### Columnas relacionadas
 

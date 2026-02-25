@@ -45,7 +45,7 @@ color: #fff;
 
 ## Pre-formation and early formation (1976–1978)
 
-Black Flag"s origins lie in guitarist Greg Ginn. The band"s name was Panic when it first started in 1976 in the Hermosa Beach, California area. It was a time when punk rock was beginning to spread from England and New York, and the influence of the Ramones and Sex Pistols was clear, but the scene in Southern California was still in its infancy.
+Black Flag's origins lie in guitarist Greg Ginn. When the band started in 1976 in the Hermosa Beach, California area, their name was Panic. It was a time when punk rock was beginning to spread from England and New York, and the influence of the Ramones and Sex Pistols was clear, but the scene in Southern California was still in its infancy.
 
 Panic briefly changed its name to Black Flag. The name refers to the anarchist symbol of the black flag, and rather than a clear political statement, it contained a sense of denial of order and stability. The four-line design used as a logo was a simple and instantly recognizable visual symbol that would go on to become one of the most famous icons in punk history.
 
@@ -127,7 +127,7 @@ This DIY model set a realistic precedent for later indie rock and hardcore scene
 
 ## Change in musicality: From speed to weight
 
-In the early days of Black Flag, speed and shortness were their weapons. However, in the Rollins period, the songs gradually became slower and heavier. The riffs were repeated, and the noisy texture became emphasized.
+In the early days of Black Flag, speed and shortness were their weapons. However, in the Rollins period, the songs gradually became slower and heavier. The riffs were repeated and the noisy texture became emphasized.
 
 This change was not just an experiment, but also a reflection of life on the road, physical exhaustion, and mental strain. As the performance time increases, the relationship with the audience changes as well. Amidst the violent mosh, the music begins to take on the character of a kind of endurance test.
 
@@ -153,9 +153,9 @@ flowchart TD
 
 ---
 
-## Impact and legacy
+## Impact and Legacy
 
-Black Flag was a band whose legacy was more about method and attitude than commercial success. Their DIY ethos, grueling touring, and refusal to compromise musically became a reference point for countless bands.
+Black Flag was a band whose legacy was more about method and attitude than commercial success. Their DIY ethos, grueling touring, and refusal to make musical compromises became a reference point for countless bands.
 
 The 7-inch songs ""Nervous Breakdown" and ""Jealous Again" are still talked about as the basic form of hardcore. On the other hand, the heavier, slower songs of the band's latter half dissolved genre boundaries and influenced audiences beyond punk.
 

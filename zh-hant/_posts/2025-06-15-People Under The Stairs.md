@@ -21,14 +21,14 @@ Side A 是 People Under The Stairs 的《Tuxedo Rap》的重新編輯版，Peopl
 B面是The Last Poets於1977年發行的傑作《Garden Of Delights》的重新編輯，The Last Poets是一群誕生於20世紀60年代末非裔美國民權運動的詩人和音樂家。
 
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. People Under The Stairs – Tuxedo Rap (Soul Sister Re-Edit
 
 B. The Last Poets – Garden Of Delights (Re-Edit)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m88500124894?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m88500124894?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EdCKKiU2E8Q?si=fZ26ZyJuLitOQ0e8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

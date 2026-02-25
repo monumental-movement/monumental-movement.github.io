@@ -23,7 +23,7 @@ Texto: mmr｜Tema: Sobre drones que expanden la música del arte temporal al art
 
 Drone es un principio musical que utiliza un sonido sostenido para transformar nuestro sentido del tiempo, la conciencia espacial y la concentración auditiva. Es único porque utiliza el tono, los armónicos, el timbre y la duración como unidades estructurales como alternativa a la melodía y la progresión armónica. En la historia de la música occidental, los primeros ejemplos incluyen la negrita de la gaita, la punta del pedal del órgano y las notas bajas sostenidas de la música religiosa.
 
-Desde finales del siglo XX, con el desarrollo de la tecnología de grabación y la acústica electrónica, el dron ha pasado de ser un mero elemento de acompañamiento a la estructura principal de una pieza entera. A través de este proceso nació Ambient Drone, seguido de Textural Drone, que enfatiza los cambios tonales y las capas de textura física.
+Desde finales del siglo XX, con el desarrollo de la tecnología de grabación y la acústica electrónica, el dron ha pasado de ser un mero elemento de acompañamiento a la estructura principal de toda la obra. A través de este proceso nació Ambient Drone, seguido de Textural Drone, que enfatiza los cambios tonales y las capas de textura física.
 
 ---
 
@@ -45,7 +45,7 @@ color: #fff;
 
 ### 1-1. Minimalismo y sonidos sostenidos.
 
-La música minimalista de los años 60 introdujo la repetición y la duración como principios estructurales. Los trabajos de drones de larga duración de La Monte Young se centraron en la interferencia armónica y la resonancia espacial en lugar de las diferencias de tono, formando la base teórica para los drones ambientales posteriores.
+La música minimalista de los años 1960 introdujo la repetición y la duración como principios estructurales. Los trabajos de drones de larga duración de La Monte Young se centraron en la interferencia armónica y la resonancia espacial en lugar de las diferencias de tono, formando la base teórica para los drones ambientales posteriores.
 
 ### 1-2. Acústica electrónica y tecnología de estudio.
 
@@ -97,7 +97,7 @@ Partiendo de su interés por la investigación del sueño y los estados de las o
 
 ### 4-2. Diseño de tono
 
-Los sintetizadores, el procesamiento de muestras y la integración de sonidos naturales forman texturas que desdibujan los límites entre lo natural y lo creado por el hombre. La lenta modulación de armónicos sirve para visualizar el paso del tiempo.
+Los sintetizadores, el procesamiento de muestras y la integración de sonidos naturales forman texturas que desdibujan los límites entre lo creado por el hombre y lo natural. La lenta modulación de armónicos sirve para visualizar el paso del tiempo.
 
 ### 4-3. Actuación en vivo e instalación.
 

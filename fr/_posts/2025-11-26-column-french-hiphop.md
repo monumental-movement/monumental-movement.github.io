@@ -114,7 +114,7 @@ flowchart TB
 
 ### 3-2. Styles régionaux
 
-| Région | Caractéristiques | Artistes principaux |
+| Région | Caractéristiques | Principaux artistes |
 |---------------|-------------------------------|---------------------------------------|
 | Banlieue de Paris | Critique politique et sociale, fort sentiment de rue | NTM, Rohff, La Fouine |
 | Marseille | Influences musicales afro-caribéennes, paroles philosophiques | IAM, juillet, soprano |

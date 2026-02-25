@@ -17,7 +17,7 @@ Passage 是美國靈魂/放克/爵士/迪斯科樂隊約翰遜兄弟的貝斯手
 
 這是一個三人組合，成員包括路易斯的前妻瓦萊麗·約翰遜和前約翰遜兄弟打擊樂手兼歌手理查德·希思。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Have You Heard The Word
 
@@ -38,7 +38,7 @@ B3. Love Eyes
 B4. The Son Will Come Again
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m12303276773?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m12303276773?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A-Nq6P6GqSQ?si=5oza423wPjlYPyyZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

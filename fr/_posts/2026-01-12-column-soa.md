@@ -45,7 +45,7 @@ color: #fff;
 
 ## Tournant du punk new-yorkais au hardcore
 
-Le punk new-yorkais de la fin des années 1970 avait formé sa propre sphère culturelle autour du CBGB. Le style présenté par des groupes comme les Ramones, Television et Patti Smith avait déjà une influence internationale. D'un autre côté, le vocabulaire et les expressions musicales se standardisaient rapidement et étaient déjà « faits » pour la jeune génération.
+Le punk new-yorkais de la fin des années 1970 avait formé sa propre sphère culturelle autour du CBGB. Le style présenté par des groupes comme les Ramones, Television et Patti Smith avait déjà une influence internationale. D'un autre côté, le vocabulaire et les expressions musicales se standardisaient rapidement et devenaient déjà « chose faite » pour la jeune génération.
 
 À peu près à la même époque, une nouvelle expression du punk émergeait à Los Angeles et à Washington, D.C. : plus rapide, plus courte et plus agressive. Ce mouvement, appelé plus tard hardcore, s'est progressivement répandu à New York. L’entité qui incarnait le plus clairement cette impulsion initiale était S.O.A.
 
@@ -102,7 +102,7 @@ Aucune politique n’est pas une œuvre évaluée pour son exhaustivité ou sa q
 
 Les activités live de SOA ont été de courte durée et les lieux étaient limités. Ils se produisaient principalement dans de petits clubs et des espaces de bricolage, et n'étaient alors connus que sur la scène punk new-yorkaise. Lors des performances live, l'accent était mis sur l'énergie de la collision plutôt que sur la perfection musicale, et la distance avec le public était extrêmement étroite.
 
-Le groupe s'est dissous vers 1981. La raison de la dissolution du groupe ressemble plus à une disparition naturelle due au mouvement des membres et à des changements dans leurs intérêts qu'à un incident spécifique. Toutefois, cette dissolution ne met pas fin à S.O.A. Au lieu de cela, il se propage d’une manière différente.
+Le groupe s'est dissous vers 1981. La raison de la dissolution du groupe ressemble plus à une disparition spontanée due au mouvement des membres et à des changements dans leurs intérêts qu'à un incident spécifique. Cependant, cette dissolution ne met pas fin à S.O.A. Au lieu de cela, il se propage d’une manière différente.
 
 > S.O.A était un groupe live et était plus présent sur le terrain que sur disque.
 

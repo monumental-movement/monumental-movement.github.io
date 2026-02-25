@@ -9,15 +9,15 @@ permalink: /ko/various-ep/
 tags:
 - Techno
 - Acid
-title: 다양한 – EP
+title: Various – EP
 ---
 
 
-'Various – EP'는
-1995년 일본 레이블 'D5 Records'가 발매한 EP이다.
+「Various – EP」는,
+1995년에 일본의 라벨 「D5 Records」로부터 발매된 EP입니다.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Just Master Rhythm–Mistura Deep
 Producer – Hitoshi "ME" Takasugi
@@ -36,5 +36,5 @@ Written-By, Producer – Acid Funk Shun
 
 [メルカリで購入](https://jp.mercari.com/item/m93431090288?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J8IL8cwH3eI?si=tvYzy-3ugAi7xDSh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

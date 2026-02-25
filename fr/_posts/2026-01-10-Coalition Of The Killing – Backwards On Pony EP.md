@@ -10,7 +10,7 @@ tags:
 - Techno
 - Minimal
 - 00s
-title: Coalition Of The Killing – À l'envers sur Pony EP
+title: Coalition Of The Killing – EP à l’envers sur Pony
 ---
 
 

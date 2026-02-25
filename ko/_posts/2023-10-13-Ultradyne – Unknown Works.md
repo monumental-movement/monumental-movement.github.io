@@ -10,17 +10,17 @@ tags:
 - Techno
 - Detroit Techno
 - 00s
-title: Ultradyne – 알려지지 않은 작품
+title: Ultradyne – Unknown Works
 ---
 
 
-Ultradyne은 Dennis Richardson과 Frank de Groodt의 미국 테크노 음악 프로젝트입니다. Majestic12라는 이름으로도 활동하고 있습니다.
+Ultradyne(울트라다인)은 Dennis Richardson과 Frank de Groodt에 의한 US 테크노 뮤직 프로젝트. Majestic12 명의에서도 활동.
 
-울트라다인은 1990년대 활동했던 디트로이트 테크노와 일렉트로닉 음악의 사운드를 추구하는 그룹이다. 에너제틱하고 춤추는 요소도 있으면서도 추상적이고 실험적인 요소도 담고 있어 테크노와 일렉트로닉 음악 팬들로부터 높은 평가를 받아왔다.
+Ultradyne은 1990년대에 활약한 디트로이트 테크노와 일렉트로닉 뮤직의 사운드를 추구하는 그룹으로, 활기차고 댄서블한 요소를 가지면서도, 추상적이고 실험적인 요소도 포함하고 있어 테크노나 일렉트로닉 뮤직의 팬으로부터 높은 평가를 받고 있었습니다.
 
-"Unknown Works"는 2002년 Daz Quayle의 영국 일렉트로/IDM 레이블 SCSI-AV를 통해 출시되었습니다.
+「Unknown Works」는, Daz Quayle 주재의 UK 일렉트로/IDM 라벨 SCSI-AV로부터 2002년에 릴리스.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Tangible–Theory Proliferation (Ultradyne Remix)
 
@@ -33,5 +33,5 @@ B2. Ultradyne–War Drum - Live
 
 [メルカリで購入](https://jp.mercari.com/item/m73570341601?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O3lUITAvCQg?si=GpmuLdaocdh8wu4C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

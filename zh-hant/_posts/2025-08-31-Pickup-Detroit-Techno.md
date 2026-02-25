@@ -18,14 +18,14 @@ title: 挑選底特律 Techno 的作品
 <小時>
 
 
-### 克勞德·楊 (Claude Young) – The Dexit E.P.
-<a href="https://jp.mercari.com/item/m84836534062?afid=6142608987"><img src="../assets/images/Claude%20Young%20%E2%80%93%20The%20Dexit%20E.P.webp"></a>
+### 克勞德楊 (Claude Young) – The Dexit E.P.
+<a href="https://jp.mercari.com/item/m84836534062?afid=6142608987"><img src="../assets/images/Claude%20Young%20%E2%80%93%20The%20Ditwebp.
 
-特點：：1997 年，來自比利時 Elypsia 品牌。這項工作結合了對底特律的尊重和我自己的探索意識。
+特色：：1997 年，來自比利時 Elypsia 品牌。這項工作結合了對底特律的尊重和我自己的探索意識。
 
-推薦要點：它在嚴肅的最小化開發方面有獨特的特色，當你想在你的場景中保持緊密的流程時，這是你可以依賴的一塊。
+推薦重點：它在嚴肅的最小化開發方面有獨特的特色，當你想在你的場景中保持緊密的流程時，這是你可以依賴的一塊。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Intro
 A2. Dexit
@@ -35,7 +35,7 @@ B2. Fade
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m84836534062?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m84836534062?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -50,11 +50,11 @@ B2. Fade
 <a href="https://jp.mercari.com/item/m23829394850?afid=6142608987"><img src="../assets/images/Model%20500%20%E2%80%93%20Deep%20Space.webp"></a>
 
 
-特點：《Milky Way》、《Orbit》和《The Flow》等歌曲的特點是漂浮的合成器作品，感覺就像穿越深空，以及空曠、硬朗的節奏。
+特色：《Milky Way》、《Orbit》和《The Flow》等歌曲的特點是漂浮的合成器作品，感覺就像穿越深空，以及空曠、硬朗的節奏。
 
-推薦要點：凝結了底特律techno面向未來的炫酷聲音的傑作。將其放置在 DJ 組的開頭，在地板上營造宇宙氛圍。
+推薦重點：凝結了底特律techno面向未來的酷炫聲音的傑作。將其放置在 DJ 組的開頭，在地板上營造宇宙氛圍。
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. Milky Way
 2. Orbit
@@ -68,7 +68,7 @@ B2. Fade
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m23829394850?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m23829394850?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -84,9 +84,9 @@ B2. Fade
 
 特點： 最小的軌道結構，具有簡單的合成線和節奏。它的特點是其空間感、浮動的合成器作品和冷靜、機械的節奏。
 
-推薦點：一首讓你體驗底特律techno起源的歌曲。如果您將其早期放入 DJ 設備中，您可以在地板上營造出“底特律般的宇宙感”。即使對於初學者來說也很容易聽，非常適合理解 Model 500 的世界觀。
+推薦點：一首讓你體驗底特律techno起源的歌曲。透過在 DJ 設備中儘早添加它，您可以在地板上營造出「底特律般的宇宙感」。即使對於初學者來說也很容易聽，非常適合理解 Model 500 的世界觀。
 
-#### 曲目列表
+#### 曲目表
 ```md
 S. The Flow M14 (G-Funk Mix)
 
@@ -95,7 +95,7 @@ T2. The Flow M38 (Alex Reece Mix)
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m38778885235?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m38778885235?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -106,15 +106,15 @@ T2. The Flow M38 (Alex Reece Mix)
 
 
 
-### 卡爾·克雷格——陸地巡航
+### 卡爾克雷格——陸上巡航
 <a href="https://jp.mercari.com/item/m22835584429?afid=6142608987"><img src="../assets/images/Carl%20Craig%20%E2%80%93%20Landcruising.webp"></a>
 
 
-特點： 戲劇性的聲像，將環境音樂、碎拍音樂、未來爵士樂等與簡約的基礎結合在一起。
+特色： 戲劇性的聲像，將環境音樂、碎拍音樂、未來爵士樂等與簡約的基礎結合在一起。
 
-推薦要點：一張有深度、精緻的專輯，帶領聽眾踏上情感之旅。這是一首無論是DJ還是聽眾都想仔細聆聽的作品。
+推薦重點：一張有深度、精緻的專輯，帶領聽眾踏上情感之旅。這是一首無論是DJ還是聽眾都想仔細聆聽的作品。
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. Mind Of A Machine
 2. Science Fiction
@@ -128,7 +128,7 @@ T2. The Flow M38 (Alex Reece Mix)
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m22835584429?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m22835584429?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -139,14 +139,14 @@ T2. The Flow M38 (Alex Reece Mix)
 
 
 ### Ultradyne – 未知作品
-<a href="https://jp.mercari.com/item/m73570341601?afid=6142608987"><img src="../assets/images/Ultradyne%20%E2%80%93%20Unknown%20Works.webp"></a>
+<a href="https://jp.mercari.com/item/m73570341601?afid=6142608987"><img src="../assets/images/Ultradyne%20%E2%80%93%20Unknown%20Works.p"></a>
 
 
-特點：平衡可跳舞的節奏和抽象實驗。曲目示例：“Tangible – Theory Proliferation (Ultradyne Remix)”和“Fantasy Era”。
+特點：平衡可跳舞的節奏和抽象實驗。曲目範例：「Tangible – Theory Proliferation (Ultradyne Remix)」和「Fantasy Era」。
 
-推薦要點：非常適合尋求探索性科技體驗的聽眾。無論是在地板上還是在耳機中，您都會被其實驗性的聲音所吸引。
+推薦重點：非常適合尋求探索性科技體驗的聽眾。無論是在地板上還是在耳機中，您都會被其實驗性的聲音所吸引。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Tangible–Theory Proliferation (Ultradyne Remix)
 A2. Ultradyne–Fantasy Era
@@ -156,7 +156,7 @@ B2. Ultradyne–War Drum - Live
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m73570341601?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m73570341601?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -170,11 +170,11 @@ B2. Ultradyne–War Drum - Live
 <a href="https://jp.mercari.com/item/m23783674213?afid=6142608987"><img src="../assets/images/Drivetrain%20%E2%80%93%20Symphium.webp"></a>
 
 
-特點：黑暗、悠揚、充滿活力、適合跳舞的節奏。
+特色：黑暗、悠揚、充滿活力、適合跳舞的節奏。
 
-推薦要點：現代且非常獨特的聲音。如果您在深夜俱樂部或高峰時段播放這首歌曲，會極大地活躍氣氛。
+推薦重點：現代且非常獨特的聲音。如果您在深夜俱樂部或高峰時段播放這首歌曲，將會大大活躍氣氛。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Electronic Seduction
 A2. Music
@@ -184,7 +184,7 @@ AA2. Soundtrack
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m23783674213?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m23783674213?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -196,14 +196,14 @@ AA2. Soundtrack
 
 
 
-### 傑夫·米爾斯 – Very EP
-<a href="https://jp.mercari.com/item/m40010323635?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Very%20EP.webp"></a>
+### 傑夫米爾斯 – Very EP
+<a href="https://jp.mercari.com/item/m40010323635?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Very%20EP.p"></a>
 
-特點： 簡約而緊張的單品，非常適合俱樂部熱身。
+特色： 簡約而緊張的單品，非常適合俱樂部熱身。
 
-推薦要點：簡單卻逐漸積累的聲像拉緊地板，讓你從一開始就創造出自己獨特的世界觀。
+推薦重點：簡單卻逐漸累積的聲像拉緊地板，讓你從一開始就創造出自己獨特的世界觀。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Cobolt
 A2. Untitled
@@ -214,7 +214,7 @@ B3. Untitled
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m40010323635?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m40010323635?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -224,14 +224,14 @@ B3. Untitled
 
 
 
-### 傑夫·米爾斯 (Jeff Mills) – 栩栩如生的 E.P.
-<a href="https://jp.mercari.com/item/m92521663560?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Lifelike%20E.P.webp"></a>
+### 米爾斯 (Jeff Mills) – 栩栩如生的 E.P.
+<a href="https://jp.mercari.com/item/m92521663560?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Lifelike%20</P.webp">Ea.webp">Ea>
 
 特點：《Condor To Mallorca》具有標誌性，其卡利普索般的節奏和鍵盤共鳴營造出獨特的漂浮感。
 
-推薦要點： 迷幻又靈性的氛圍，這是一首插入DJ後瞬間改變氣氛的“魔幻作品”。
+推薦重點： 迷幻又靈性的氛圍，這是一首插入DJ後瞬間改變氣氛的「魔幻作品」。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Condor To Mallorca
 A2. Time After Space
@@ -241,7 +241,7 @@ B2. Black Avenger
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m92521663560?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m92521663560?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -252,13 +252,13 @@ B2. Black Avenger
 
 
 ### Jeff Mills – Skin Deep EP
-<a href="https://jp.mercari.com/item/m68002048690?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Skin%20Deep%20EP.webp"></a>
+<a href="https://jp.mercari.com/item/m68002048690?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Skin%20Deep%20EP.
 
-特點：歌曲《野性的呼喚》引用了邁克爾·傑克遜的《Off The Wall》中的打擊樂。
+特點：歌曲《野性的呼喚》引用了麥可傑克森的《Off The Wall》中的打擊樂。
 
-推薦要點：底特律techno的硬朗手感與黑人音樂的律動相結合，賦予地板獨特的驅動力。
+推薦重點：底特律techno的硬朗手感與黑人音樂的律動相結合，賦予地板獨特的驅動力。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Call Of The Wild
 A2. Skin Deep
@@ -268,7 +268,7 @@ B2. Scout
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m68002048690?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m68002048690?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -278,14 +278,14 @@ B2. Scout
 
 
 
-### 傑夫·米爾斯 – 馬戲團
+### 傑夫米爾斯 – 馬戲團
 <a href="https://jp.mercari.com/item/m96224343998?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Circus.webp"></a>
 
-特點：一張包含 2 首曲目並營造出硬朗工業氛圍的 EP。
+特色：一張包含 2 首曲目並營造出硬朗工業氛圍的 EP。
 
-推薦點：其強烈的聲壓，在高峰時段使用時，有瞬間炸開地板的威力。
+推薦點：其強烈的聲壓，在尖峰時段使用時，有瞬間炸開地板的威力。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Circus (The Greatest Show On Earth Mix)
 
@@ -293,7 +293,7 @@ B. Circus (The Big Finale Mix)
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m96224343998?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m96224343998?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -303,15 +303,15 @@ B. Circus (The Big Finale Mix)
 
 
 
-###  “M”——更多戲劇（以 Axis 為名）
-<a href="https://jp.mercari.com/item/m89297730554?afid=6142608987"><img src="../assets/images/M%20%E2%80%93%20More%20Drama.webp"></a>
+###  「M」—更多戲劇（以 Axis 為名）
+<a href="https://jp.mercari.com/item/m89297730554?afid=6142608987"><img src="../assets/images/M%20%E2%80%93%20More%20Drama.webges/M%20%E2%80%93%20More%20Drama.webp"></a>
 
-特點： Axis 於 1992 年以“M”為名發行的歌曲。一首代表早期底特律極簡音樂的歌曲。
+特色： Axis 於 1992 年以“M”為名發行的歌曲。一首代表早期底特律極簡風格的歌曲。
 
-推薦要點： 可以體驗90年代初地下感覺的收藏家必備的一張唱片，聲音粗獷卻渾厚。
+推薦重點： 可以體驗90年代初地下感覺的收藏家必備的一張唱片，聲音粗獷卻渾厚。
 
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Scenario
 A2. Switchblade
@@ -321,7 +321,7 @@ B2. Getaway
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m89297730554?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m89297730554?afid=6142608987){: .button1}
 
 
 #### Youtube

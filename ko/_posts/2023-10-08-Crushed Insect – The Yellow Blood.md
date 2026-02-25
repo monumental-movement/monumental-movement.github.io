@@ -9,14 +9,14 @@ permalink: /ko/crushed-insect-the-yellow-blood/
 tags:
 - Techno
 - Electro
-title: 짓밟힌 곤충 – 노란 피
+title: Crushed Insect – The Yellow Blood
 ---
 
 
-<옐로우 블러드>는
-본명은 Kari Pekka Lekebusch인 Cari Lekebusch의 프로젝트 Crushed Insect의 EP로, 1996년 스웨덴 레이블 "Audio Pollution"에서 발매되었습니다.
+"The Yellow Blood"는
+1996년에 스웨덴의 레베루 「Audio Pollution」에서 릴리스된 본명 Kari Pekka Lekebusch Cari Lekebusch에 의한 프로젝트 Crushed Insect의 EP입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Dead Serious Insects
 
@@ -27,5 +27,5 @@ B2. Squash I
 
 [メルカリで購入](https://jp.mercari.com/item/m17439664895?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z9mZyvnN9CE?si=38SLj3YO4onbyEBC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

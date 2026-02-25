@@ -22,7 +22,7 @@ title: '[Columna] Artistas de transmisión en vivo de NTS/Boiler Room y cultura 
 
 Texto: mmr｜Tema: Cómo se han formado y expandido los sets de DJ, la música experimental y las presentaciones en vivo desconocidas en torno a las plataformas de transmisión en vivo.
 
-A principios del siglo XXI, los espacios de interpretación musical se expandieron gradualmente desde lugares físicos como clubes y salas de conciertos hasta espacios donde la música se distribuye a través de Internet. Especialmente desde la década de 2010, la transmisión de música en vivo se ha consolidado como una forma independiente de interpretación, en lugar de simplemente grabar o transmitir.
+A principios del siglo XXI, los espacios de interpretación musical se expandieron gradualmente desde lugares físicos como clubes y salas de conciertos hasta espacios donde la música se distribuye a través de Internet. Especialmente desde la década de 2010, la transmisión de música en vivo se ha establecido como una forma independiente de interpretación, en lugar de simplemente grabar o transmitir.
 
 NTS Radio y Boiler Room tienen orígenes y filosofías diferentes dentro de este flujo, pero son las que han hecho visible la cultura del streaming en vivo a nivel internacional. Lo que ambos tienen en común es el cruce de géneros, la improvisación y una actitud de distanciarse del marco existente de la industria musical.
 
@@ -150,7 +150,7 @@ Los hechos resumidos en este artículo servirán como base para considerar futur
 La práctica de los artistas de streaming en vivo que aparecen en NTS y ​​Boiler Room tiene más que ver con "la música como cuerpo de movimiento" que con el nombre de un género.
 
 Las sesiones de DJ y las actuaciones experimentales en transmisiones en vivo se presentan como un estado de cambio continuo a lo largo del tiempo, más que como una obra terminada.
-Esto puede considerarse como "movimiento registrable".
+Esto puede verse como "movimiento registrable".
 
 > "En el momento en que la música rechaza los formatos fijos, su movimiento se hace más evidente."
 
@@ -160,7 +160,7 @@ Esto puede considerarse como "movimiento registrable".
 
 Tradicionalmente, existía una distinción entre producción musical en el estudio y interpretación en el sitio. Sin embargo, en un entorno de transmisión en vivo, esta distinción se vuelve borrosa. Viviendas, espacios temporales, equipamientos públicos, estudios sin público, etc. se convierten en espacios de producción y performance al mismo tiempo.
 
-En NTS se ha confirmado que hay muchos casos en los que material en plena producción o fuentes de sonido sin terminar se reproducen tal cual en el programa. Boiler Room también lanza ocasionalmente sets en vivo que están cerca de los ensayos.
+En NTS se ha confirmado que hay muchos casos en los que material en plena producción o fuentes de sonido inacabadas se reproducen tal cual en el programa. Boiler Room también lanza ocasionalmente sets en vivo que están cerca de los ensayos.
 
 > “La desaparición de estudios y localizaciones liberó a la música de la 'preparación'”
 

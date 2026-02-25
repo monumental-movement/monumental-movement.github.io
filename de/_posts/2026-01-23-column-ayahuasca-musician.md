@@ -45,24 +45,10 @@ color: #fff;
 }
 </style>
 
-Ich habe es.
-Das Folgende ist der endgültige Kolumnenentwurf für die Jekyll-Einreichung, der alle bisher abgeschlossenen Korrekturen und Ergänzungen vollständig integriert.
-
-* Titelabstraktion: Reflektiert
-* Ideologische Stärke des einleitenden Leitsatzes: Bereits reflektiert
-* Yamazuka Ai: **Ende der 1990er Jahre überarbeitet**
-* Luciano: **Korngrößenanpassung um 2003–2005**
-* Shpongle: Granularität angepasst an **Beginn 1997–1998**
-* Kapitel „Told Experiences/Silent Artists“: hinzugefügt
-* Kapitel „Missbrauch, Mythologisierung und Verzerrung im SNS-Zeitalter“: Hinzugefügt
-* Kapitel zur Strukturierung der Äußerungszusammenfassung von Luciano/Shpongle: hinzugefügt
-* Formatvorgaben/-verbote: Alle müssen eingehalten werden.
-
-
 
 ## Kapitel 1: Der erste Kontaktpunkt zwischen Musikern und Ayahuasca
 
-In der zweiten Hälfte des 20. Jahrhunderts wurde die südamerikanische Ritualkultur durch Ethnologie und Literatur in die westliche Gesellschaft eingeführt. Ursprünglich wurde Ayahuasca nicht als Mittel zur Musikproduktion verstanden, sondern als eine Erfahrung, die die eigene Wahrnehmung der Welt herausforderte.
+In der zweiten Hälfte des 20. Jahrhunderts wurde die südamerikanische Ritualkultur durch Ethnologie und Literatur in die westliche Gesellschaft eingeführt. Zunächst wurde Ayahuasca nicht als Mittel zur Musikproduktion verstanden, sondern als eine Erfahrung, die die eigene Wahrnehmung der Welt herausforderte.
 Erst in den 1990er Jahren begannen Musiker, ihre Erfahrungen öffentlich zu teilen. Durch die Schaffung eines Kontextes, in dem elektronische Musik und experimentelle Musik mit Spiritualität und Körperlichkeit verbunden werden, wurde ein Ort des Geschichtenerzählens geschaffen.
 
 > Ayahuasca war eher eine Frage der Wahrnehmung als der Technik mit Musik verbunden.
@@ -80,7 +66,7 @@ Konsequent in seinen Aussagen ist seine Haltung, seine Erfahrungen nicht an best
 
 ## Kapitel 3: Ai Yamazukas Reisen und rituelle Erlebnisse in den späten 1990er Jahren
 
-Ai Yamazuka erwähnte erstmals Ende der 1990er Jahre Reisen und rituelle Erfahrungen. In Interviews und Gesprächen hat er über seine Reiseerlebnisse und Erfahrungen rund um den Körper und die Gruppenheit gesprochen.
+Ai Yamazuka erwähnte erstmals Ende der 1990er Jahre Reisen und rituelle Erlebnisse. In Interviews und Gesprächen hat er über seine Reiseerlebnisse und Erfahrungen rund um den Körper und die Gruppenheit gesprochen.
 Der sich wiederholende Rhythmus und die feierliche Natur der späten „Boredoms“ und „OOIOO“ lassen sich nicht auf ein einziges Erlebnis reduzieren. Er beschreibt sie als eine Kombination aus Reisen, körperlichem Training und gemeinschaftlicher Leistung.
 
 > Ai Yamazukas Erzählung zeigt ihre Erfahrung nicht als Erklärung ihrer Arbeit, sondern als Veränderung ihrer Sicht auf den Körper.

@@ -92,7 +92,7 @@ At the same time, it became a pioneer of ""fusion with hip-hop'' for the Japanes
 
 ---
 
-## Chapter 4: A new horizon for hip-hop opened up by an anime worldview
+## Chapter 4: A new horizon for hip-hop opened up by an anime-like worldview
 
 After Wu-Tang Clan, hip-hop acquired the ""language to talk about anime.''
 Tyler, The Creator references "Akira" and "Neon Genesis Evangelion",

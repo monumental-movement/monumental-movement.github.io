@@ -28,7 +28,7 @@ title: '[Chronique] Morton Subotnick : Un innovateur de la musique électronique
 Texte : mmr｜Thème : À propos du « futur contrôlable » lancé par les innovateurs de la musique électronique
 
 Morton Subotnick (1933–) est un musicien contemporain américain et compositeur de musique électronique, largement connu comme la personne qui a sorti le premier disque commercial au monde entièrement produit à l'aide de synthétiseurs, Silver Apples of the Moon (1967).
-Cette œuvre est sortie chez Nonesuch Records, label spécialisé dans la musique classique, et était révolutionnaire dans la mesure où elle présentait les sons électroniques comme une « œuvre » d'une manière inédite à l'époque.
+Cette œuvre est sortie chez Nonesuch Records, un label spécialisé dans la musique classique, et était révolutionnaire dans la mesure où elle présentait les sons électroniques comme une « œuvre » d'une manière inédite à l'époque.
 
 Les innovations de Subotnick vont au-delà de la simple composition de musique électronique ; il est également important en tant que personnage clé dans le développement du synthétiseur Buchla de la côte ouest et a eu une influence à long terme sur la culture des synthés modulaires modernes.
 

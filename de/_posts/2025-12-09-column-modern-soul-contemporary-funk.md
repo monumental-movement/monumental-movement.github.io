@@ -201,7 +201,7 @@ Die Produktion von Modern Soul/Contemporary Funk ist eine perfekte Fusion aus DA
 * Die Songstruktur ist eine suiteartige Struktur, in der mehrere Abschnitte miteinander verbunden sind.
 * Komplexe Akzente am Schlagzeug
 * Atypische Synthesizer-/Gitarrenstimmen
-* Starker Einsatz von Offbeat
+* Starker Gebrauch von Offbeat
 
 #### Struktur von Hiatus Kaiyote
 

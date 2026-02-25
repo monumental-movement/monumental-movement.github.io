@@ -9,15 +9,15 @@ permalink: /ko/brainkiller-brainkiller/
 tags:
 - Speedcore
 - Hardcore
-title: 브레인킬러 – 브레인킬러
+title: Brainkiller – Brainkiller
 ---
 
 
-Brainkiller는 Michael Bogdanski, Frank Behrens 및 MiBo(Michael B.)가 참여한 하드 테크노 공연입니다.
+Brainkiller는 Michael Bogdanski, Frank Behrens, MiBo (Michael B.)의 하드 테크노 액트입니다.
 
-"Brainkiller"는 1994년 Mike Hoppe(Roy Batty)가 설립한 독일 레이블 F%@#ing Loud!에서 발매되었습니다.
+"Brainkiller"는 Mike Hoppe (Roy Batty)에 의해 설립된 독일 라벨 F%@#ing Loud! 보다 1994년에 발매되었다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Pure Energy
 
@@ -30,5 +30,5 @@ B2. Wonderland
 
 [メルカリで購入](https://jp.mercari.com/item/m87341186255?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E-oDUFarvJQ?si=SYoHzHyZzA-SBYRR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

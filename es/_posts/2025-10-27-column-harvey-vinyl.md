@@ -51,7 +51,7 @@ En aquella época, los discos no eran sólo una fuente sonora, sino una cultura 
 El primer álbum que compró fue ``Pull Up to the Bumper'' de **Grace Jones**.
 En el momento en que su cuerpo se movió hacia esa línea de bajo, Harvey se dio cuenta de su destino como DJ.
 
-> "Para mí, los discos son como respirar. Inspiro el sonido y lo dejo salir. Eso es todo".
+> "Para mí, los discos son como respirar. Inspiro el sonido y lo dejo salir. Eso es todo."
 
 Esta sensación de "respiración" dio origen más tarde a su filosofía de mezcla: "Conectar a través del aire, no del tempo".
 
@@ -212,7 +212,7 @@ pie title DJ Harvey's Vinyl Box Composition
 **Explicación**:
 La caja de discos de Harvey es un archivo orgánico basado en la mezcla de géneros.
 Lo que llama la atención es que "Rock" y "House" están colocados en el mismo lugar.
-Esto simboliza el hecho de que es un DJ que siempre conecta con vibraciones, no con géneros.
+Esto simboliza el hecho de que es un DJ que siempre conecta por vibra, no por género.
 La tragamonedas "Rarezas" es el arma secreta de Harvey. Se activa durante las horas nocturnas y en la configuración del amanecer.
 
 ---
@@ -275,5 +275,13 @@ A través de estos, la filosofía de DJ de Harvey queda clara.
 Esto significa que no se trata sólo de tocar música, sino de un acto de sintonizar el tiempo, el cuerpo y el espacio.
 El cuadro de registro es su visión del mundo,
 Cada disco está vivo como un "fragmento de memoria y experiencia".
+
+---
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BrRcFNRq4u8?si=SBd4yIFFwTAlvgcm" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---

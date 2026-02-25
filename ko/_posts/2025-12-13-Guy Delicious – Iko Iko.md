@@ -10,15 +10,15 @@ tags:
 - House
 - Latin
 - 00s
-title: 가이 딜리셔스 - 이코 이코
+title: Guy Delicious – Iko Iko
 ---
 
 
-Guy Delicious(Guy Lenzner)가 유명한 노래 "Iko Iko"를 커버합니다. House and Garage를 전문으로 하는 호주 레이블인 Tinted Records가 2004년에 발매한 하우스/라틴 트랙입니다.
+명곡 「Iko Iko」를 Guy Delicious (Guy Lenzner)가 커버. 2004년에 House와 Garage를 전문으로 하는 호주 라벨 Tinted Records에서 출시된 House/Latin 트랙.
 
-A는 DJ/프로듀서 듀오 Mutiny의 리믹스입니다.
+A는 DJ 프로듀서 듀오 Mutiny에 의한 remix.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Iko Iko (Mutiny's Love Machine Dub
 B. Iko Iko (Full Vocal Mix)

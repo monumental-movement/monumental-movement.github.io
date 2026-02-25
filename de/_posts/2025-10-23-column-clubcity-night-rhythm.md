@@ -56,7 +56,7 @@ Da sich jeder als Niemand dem Klang hingibt, verschwinden vorübergehend die Gre
 Diskotheken dienten in den 1970er Jahren als Plattform für den Ausdruck der LGBTQ-Community und der schwarzen Kultur.
 Studio 54 und Paradise Garage waren „klangliche Emanzipationszonen“ für Menschen, die an den Rand der Gesellschaft gedrängt wurden, aber auch politische Räume.
 
-Ende der 1980er Jahre suchte die mit Acid House entstandene Rave-Kultur Zuflucht außerhalb der Stadt.
+Ende der 1980er Jahre entstand mit Acid House die Rave-Kultur und flüchtete aus der Stadt.
 Lagerhäuser, Felder, verlassene Fabriken – das Tanzen in unkontrollierten Räumen war auch eine Form des Widerstands gegen die Kontrolle der Zeit durch Staat und Kapital.
 Musik ist sowohl Protest als auch Feier.
 
@@ -95,7 +95,7 @@ Mit fortschreitender Technologie ändern sich die Form der Clubs und damit auch 
 ## Kapitel 5: Geschlecht und der öffentliche Raum der Nacht – die Schnittstelle von Sicherheit und Verlangen
 
 Clubs sind zwar Orte der Freiheit, aber auch Orte der Gefahr für Frauen und sexuelle Minderheiten.
-In der Nachtkulturforschung hat das Konzept der „sicheren Nacht“ große Aufmerksamkeit erregt.
+In der Nachtkulturforschung hat das Konzept der „sicheren Nacht“ Aufmerksamkeit erregt.
 Das Aufkommen weiblicher DJs und feministischer Partys ist ein Versuch, den nächtlichen öffentlichen Raum neu zu definieren.
 
 Für wen ist die Freiheit der Nacht?

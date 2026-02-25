@@ -9,13 +9,13 @@ permalink: /ko/no-more-mr-nice-guy-fixation/
 tags:
 - House
 - Progressive
-title: 더 이상 Mr Nice Guy는 없습니다 – 고정
+title: No More Mr Nice Guy – Fixation
 ---
 
 
-"Fixation"은 Pete Lazonby와 Tim Fielding의 유닛 No More Mr Nice Guy가 1995년 영국 레이블 ":Confusion Records"에서 발매한 EP입니다.
+"Fixation"은 1995년 UK의 라벨 ":Confusion Records"에서 출시된 Pete Lazonby와 Tim Fielding에 의한 유닛 No More Mr Nice Guy의 EP입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Fixation
 

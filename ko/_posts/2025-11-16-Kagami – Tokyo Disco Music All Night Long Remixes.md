@@ -10,17 +10,17 @@ tags:
 - Techno
 - Electro
 - 00s
-title: Kagami – 밤새도록 도쿄 디스코 음악 (리믹스)
+title: Kagami – Tokyo Disco Music All Night Long (Remixes)
 ---
 
 
-카가미의 명곡과 당시의 찬가를 리믹스한 모음집 "Tokyo Disco Music All Night Long" 2001년 독일 레이블 Leaded에서 출시되었습니다.
+Kagami의 대표작이며 당시의 앙셈 「Tokyo Disco Music All Night Long」의 리믹스집. 2001 년 독일 라벨 Leaded에서 출시되었습니다.
 
-A1은 독일의 테크노 DJ이자 프로듀서인 Beroshima의 리믹스입니다.
+A1은 독일 테크노 DJ/프로듀서 Beroshima(베로시마)에 의한 remix.
 
-B1은 애시드 테크노부터 테크 하우스, 하우스까지 폭넓은 스타일을 연주하는 DJ Brixton의 리믹스입니다.
+B1은 어시드 테크노~테크하우스, 하우스까지 폭넓은 스타일로 플레이하는 DJ Brixton에 의한 remix.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Tokyo Disco Music All Night Long (Beroshima Remix)
 A2. Tokyo Disco Music All Night Long (A Cappella)
@@ -31,5 +31,5 @@ B2. Tokyo Disco Music All Night Long (Duetppella)
 
 [メルカリで購入](https://jp.mercari.com/item/m15112046950?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jTGrkYncWjE?si=L5i5ER5kQBjf2gGJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

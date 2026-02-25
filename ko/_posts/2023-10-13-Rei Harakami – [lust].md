@@ -10,15 +10,15 @@ tags:
 - Break Beat
 - Ambient
 - Electronica
-title: 하라카미 레이 – [욕망]
+title: Rei Harakami – [lust]
 ---
 
 
-"하라카미 레이 - [욕망]"은
-2005년에 발매된 하라카미 레이의 네 번째 오리지널 앨범.
+"Rei Harakami – [lust]"는
+2005년 릴리스의 레이하라카미 4장째의 오리지널 앨범.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Long Time
 2. Joy
@@ -34,5 +34,5 @@ title: 하라카미 레이 – [욕망]
 
 [メルカリで購入](https://jp.mercari.com/item/m77173995141?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kvTPF7R5Eq0?si=_jOG4-_CSvhhiGWn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

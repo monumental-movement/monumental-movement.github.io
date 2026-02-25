@@ -23,7 +23,7 @@ title: Recoge obras New Age
 Características: Schawkie Roth es un compositor especializado en música de sanación, meditación, relajación y jazz acústico, y es considerado uno de los pioneros de la música espiritual New Age.
 
 
-Atractivo: Una fusión de filosofía oriental y música occidental, esta pieza es perfecta para la meditación y la relajación.
+Charm: Una fusión de filosofía oriental y música occidental, esta pieza es perfecta para la meditación y la relajación.
 
 #### Lista de canciones
 ```md

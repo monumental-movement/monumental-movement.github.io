@@ -18,12 +18,12 @@ title: Spork – 像我一樣自由
 
 B 面是荷蘭 DJ Sander Kleinenberg 的混音版。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Freek Like Me (Alma Matris Reconstruction Remix)
 
 B. Freek Like Me (Sander Kleinenberg Remix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m31370737487?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m31370737487?afid=6142608987){: .button1}
 

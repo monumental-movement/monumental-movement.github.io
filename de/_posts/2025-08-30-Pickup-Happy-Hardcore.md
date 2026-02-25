@@ -23,7 +23,7 @@ title: Holen Sie sich Happy Hardcore-Werke
 
 Veröffentlicht: 1994/Niederländisches Happy-Hardcore-Meisterwerk
 
-Features: Ein Klassiker, der mit seiner eingängigen Melodie und positiven Energie die Eurodance-Rave-Szene der 90er im Sturm eroberte. Es wird auch heute noch von vielen Clubs und Raves geliebt.
+Features: Ein Klassiker, der mit seiner eingängigen Melodie und positiven Energie die Eurodance-/Rave-Szene der 90er im Sturm eroberte. Es wird auch heute noch von vielen Clubs und Raves geliebt.
 
 #### Trackliste
 ```md

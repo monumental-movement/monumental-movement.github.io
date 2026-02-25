@@ -10,13 +10,13 @@ permalink: /zh-hant/no-artist-an-audio-obstacle-course-shure-trackability-test-r
 tags:
 - Technical
 - Non-Music
-title: 無藝術家 - 音頻障礙課程 - Shure 可追踪性測試記錄
+title: 無藝術家 - 音訊障礙課程 - Shure 可追蹤性測試記錄
 ---
 
 
 舒爾於 1967 年發布了《No Artist – An Audio Obstacle Course – Shure Trackability Test Record》。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Introduction
 
@@ -50,5 +50,5 @@ B9. Right Ch. Harpsichord - 4 Levels
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m44835881306?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m44835881306?afid=6142608987){: .button1}
 

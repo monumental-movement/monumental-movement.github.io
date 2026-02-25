@@ -53,7 +53,7 @@ Die Bandbreite ist extrem breit und reicht von den Enka-ähnlichen Gefühlen von
 
 Gemeinsam ist ihnen jedoch der „Glaube an die Melodie“ und die „Romantik im Schatten der Zeit“.
 Showa-Lieder, die zusammen mit dem Wirtschaftswachstum der Nachkriegszeit wuchsen, etablierten eine „emotionale Koordinatenachse“ im Leben der Menschen.
-Takashi Mikis Melodien zum Beispiel strahlen Nostalgie aus und Kyohei Tsutsumis Arrangements strahlen urbane Träume aus. **
+Takashi Mikis Melodien zum Beispiel haben einen Hauch von Nostalgie und Kyohei Tsutsumis Arrangements haben einen Traum von der Stadt. **
 
 Dieser „Nachhall der Träume“ wird später zur treibenden Kraft, die junge Menschen aus Übersee anzieht.
 
@@ -76,7 +76,7 @@ Im Ausland wurde es als „retrofuturistischer Pop“ und „ästhetische Nostal
 ## Kapitel 3: Vaporwave und die Illusion der Showa-Ära
 
 Vaporwave ist eine Kunstbewegung, die Anfang der 2010er Jahre aus der amerikanischen Internet-Bulletin-Board-Kultur hervorgegangen ist.
-Alte japanische Werbung, digitale Grafiken aus den 1980er Jahren und verzerrte Tonbilder von Kassetten wurden als „Nachhall“ der Konsumgesellschaft rekonstruiert.
+Alte japanische Werbung, digitale Grafiken aus den 1980er Jahren und die verzerrten Tonbilder von Kassetten wurden als „Nachhall“ der Konsumgesellschaft rekonstruiert.
 
 Es ist kein Zufall, dass die Melodien und Klänge der Showa-Lieder hier auf natürliche Weise verschmolzen sind.
 **Leichter Hall, urbane Sanftheit und übermäßige Romantik. **
@@ -102,7 +102,7 @@ Mit anderen Worten: Showa-Songs exportieren „Emotionen als Textur“.
 
 ## Kapitel 5: Die Schnittstelle zwischen digitalen Archiven und japanischer Kulturpolitik
 
-Interessant ist, dass dieser Boom durch private Zuhörer verbreitet wurde.
+Interessant ist, dass dieser Boom durch Privathörer verbreitet wurde.
 Es war nicht so, dass die japanische Regierung oder die Musikindustrie es absichtlich exportiert hätten; Vielmehr lag die Fanaktivität auf YouTube und Spotify an der Spitze.
 
 In den 2020er Jahren nahmen die „Showa Retro“-Inhalte auf Festivals und Ausstellungen in Übersee jedoch rapide zu.

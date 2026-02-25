@@ -22,7 +22,7 @@ Texto: mmr｜Tema: Sincronicidad de la danza y la música.
 En el corazón de la cultura gyaru en Japón en la década de 1990 había una danza que agitaba las manos llamada "parapara". El género musical que se ha extendido como uno solo es el "Eurobeat".
 
 ¿Por qué el Eurobeat, que nació en Europa y evolucionó a su manera en Asia, quedó profundamente conectado con el estilo Parapara en Japón?
-Hubo una mezcla de factores, como no sólo las características musicales sino también la cultura del club, la estrategia de medios y la psicología del consumidor.
+Hubo una mezcla de factores como no sólo las características musicales sino también la cultura del club, la estrategia de medios y la psicología del consumidor.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hoBatSC_2_A?si=enLmCPbL33iUcRs3" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -46,7 +46,7 @@ Esta estructura combinaba perfectamente con la danza parapara, que repite el mis
 
 <hora>
 
-### ¿Qué es Parapara? ──El placer de la repetición uniforme
+### ¿Qué es Parapara? ──Placer de la repetición uniforme
 ● Origen de Parapara
 
 - Ocurrió a finales de los años 1980 en discotecas de Roppongi y Shibuya, Tokio (Maharaja, Juliana Tokyo, etc.)
@@ -65,7 +65,7 @@ Esta estructura combinaba perfectamente con la danza parapara, que repite el mis
 
 - Borrar una estructura de melodía/coro → Fácil de crear “coreografía” de baile
 
-- Desarrollo dramático de la canción → coincide con el clímax del swing
+- Desarrollo dramático de la canción → Coincide con el clímax del swing.
 
 
 <hora>
@@ -96,13 +96,13 @@ De esta manera, se formó y gradualmente se integró el exclusivo "mercado Eurob
 
 - Distribución de vídeos de coreografías (VHS, posteriormente DVD)
 
-- También están disponibles series como ``Parapara Paradise'' y ``Parapara Kyonen''.
+- También aparecen series como “Parapara Paradise” y “Parapara Kyonen”
 
 ● Producción de medios
 
 - “Gal charisma” introduce coreografías en programas de televisión y revistas.
 
-- De hecho, el eurobeat se convirtió en una tendencia popular entre los adolescentes.
+- El eurobeat se convierte efectivamente en tendencia adolescente
 
 - “Recordar = un ritual de participación” y crear una cultura de unidad y presión de grupo
 
@@ -134,8 +134,18 @@ Fue un ejemplo perfecto del fenómeno de que "la música se convierte en cultura
 
 ---
 
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FursnFFzEgM?si=ShzerdYquUp1po3B" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
 ### Columnas relacionadas
 
 [[Columna] Relación cultural entre Initial D y Eurobeat](https://monumental-movement.jp/Column-InitialD-Eurobeat)
 
 [[Columna] Recuerdos de velocidad donde la D inicial y la música se cruzan](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
+

@@ -10,13 +10,13 @@ tags:
 - Samba
 - Latin
 - Euro House
-title: 엘 쿠바노 - 삼바 누에바
+title: El Cubano – Samba Nueva
 ---
 
 
-El Cubano의 Samba Nueva는 1998년 이탈리아 레이블 Muzic Without Control Records에서 발매된 라틴 유로하우스 트랙입니다.
+El Cubano (엘 쿠바노)의 Samba Nueva (삼바 누에바)는 1998 년 이탈리아 라벨 "Muzic Without Control Records"에서 출시 된 라틴 유로 하우스 트랙입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Samba Nueva (Partido Alto Mix)
 
@@ -29,5 +29,5 @@ B2. Samba Nueva (Partido Alto Radio Edit)
 
 [メルカリで購入](https://jp.mercari.com/item/m33632714433?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SNRU8xUNNA0?si=Wds3O-qdV3PEJGxh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

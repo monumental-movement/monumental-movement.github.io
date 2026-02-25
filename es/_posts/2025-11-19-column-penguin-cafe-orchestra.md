@@ -22,7 +22,7 @@ title: '[Columna] Penguin Cafe Orchestra - Un paraíso imaginario que resuena en
 Texto: mmr｜Tema: **Desde la creación de PCO hasta la trayectoria de sus actividades, estructura acústica, análisis de obras importantes, pensamientos de Simon Jeffes**
 
 Penguin Cafe Orchestra (PCO) es una unidad musical que apareció repentinamente en Inglaterra a finales de los años 1970.
-Más que una banda, se les puede llamar un "cuerpo de pensamiento musical", y su sonido único que trasciende los límites de la forma de conjunto, la instrumentación y los géneros todavía es aclamado como "único en su tipo".
+Más que una banda, se les puede llamar un "cuerpo de pensamiento musical", y su sonido único que trasciende los límites de la forma de conjunto, la instrumentación y el género todavía es aclamado como "único en su tipo" hasta el día de hoy.
 
 No es música folk, clásica, ambiental o mundial.
 Aunque incluye todos los elementos, no pertenece completamente a ninguna categoría.
@@ -127,7 +127,7 @@ Es una canción tranquila pero dramática que se siente como si la expansión y 
 
 ### 3-3. **Teléfono y goma elástica (1981)**
 
-Una extraña pieza musical en la que de repente suena un teléfono de dos tonos en un conjunto clásico.
+Una extraña pieza musical en la que de repente suena un teléfono bitono sobre un conjunto clásico.
 
 **Características**
 
@@ -148,7 +148,7 @@ Los álbumes principales se explican a continuación.
 
 Álbum debut lanzado en el subsello Obscure de Virgin Records.
 Entre las obras de Obscure producidas por Brian Eno, esta es la más "diferente" y "brillante".
-Una fusión de folklore y estructura repetitiva casi completa el estilo posterior.
+Se fusionan el folclore y las estructuras repetitivas, y el estilo posterior está casi completo.
 
 ### ● *Orquesta Penguin Café* (1981)
 
@@ -179,7 +179,7 @@ La música de PCO fue recibida de diversas formas en muchos países, a pesar de 
 
 ### ● Afinidad con la cultura de cafetería/salón
 
-Fue reevaluado durante el auge de la "música de café" a finales de los años 1990.
+Fue reevaluado durante el boom de la "música de café" a finales de los años 1990.
 Atrajo la atención la "música ambiental con carácter", que era ligera y fácil de escuchar, pero que no se convertía en un elemento de fondo.
 
 ### ● Uso intensivo de medios
@@ -194,7 +194,7 @@ La música de PCO es emotiva pero no descriptiva, por lo que se valora como "un 
 ### ● Impacto en las generaciones posteriores
 
 * Max Richter
-* Olafur Arnalds
+*Olafur Arnalds
 * Penguin Cafe (proyecto sucesor de su hijo Arthur Jeffes)
 * Artistas folk/minimalistas
 
@@ -202,7 +202,7 @@ El enfoque de PCO de "ausencia de género" y "una fusión de música de cámara 
 
 ---
 
-## Capítulo 6: La muerte de Simon Jeffes y sus secuelas
+## Capítulo 6: La muerte y las secuelas de Simon Jeffes
 
 En 1997, Simon Jeffes falleció a la edad de 48 años a causa de un tumor cerebral.
 Aunque fue una gran pérdida para el mundo de la música, las grabaciones restantes, las notas inéditas y las partituras de las interpretaciones aún se están reevaluando.

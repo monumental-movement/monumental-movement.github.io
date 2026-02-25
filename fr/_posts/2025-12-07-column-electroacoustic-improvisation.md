@@ -65,7 +65,7 @@ La « libération des sons non instrumentaux » démontrée par Eddie Prévost e
 
 ### 2-3. Origine ③ : bruit des années 1980-1990/son électronique alternatif
 Le bruit japonais (Merzbow, Incapacitants, etc.) a exposé la « matérialité du son » à travers la recherche ultime des matériaux acoustiques.
-De leur côté, Otomo Yoshihide et Sachiko M ont improvisé des sons électroniques minimaux et sophistiqués (ondes sinusoïdales) et ont posé les bases de l'EAI : « réduire le nombre de sons » et « mettre l'accent sur l'espace ».
+De leur côté, Otomo Yoshihide et Sachiko M ont introduit des sons électroniques minimaux et sophistiqués (ondes sinusoïdales) dans leurs improvisations, créant ainsi les fondements de l'EAI : « réduire le nombre de sons » et « mettre l'accent sur l'espace ».
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-N2JpUSOGQw?si=2iITe93bkSmd8sOW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -212,7 +212,7 @@ flowchart TD
 
 # 8. État actuel et développement futur de l'EAI
 
-Bien que l’EAI ne soit plus aussi concentrée qu’elle l’était au début des années 2000 en tant que scène distincte, elle continue de créer de nouvelles formes à mesure que l’équipement évolue.
+Bien que l’EAI ne soit pas aussi concentrée qu’elle l’était au début des années 2000 en tant que scène distincte, elle continue de créer de nouvelles formes à mesure que l’équipement évolue.
 Les connexions progressent notamment avec les domaines suivants :
 
 - Codage en direct
@@ -221,7 +221,7 @@ Les connexions progressent notamment avec les domaines suivants :
 - Intégration avec la technologie d'enregistrement sur le terrain
 - Improvisation d'Ambisonics
 
-L'EAI restant une « pratique » plutôt qu'un « genre », sa forme continuera à changer aussi longtemps qu'il y aura des musiciens travaillant avec des signaux électriques.
+L'EAI restant une « pratique » plutôt qu'un « genre », sa forme continuera à changer tant qu'il y aura des musiciens travaillant avec des signaux électriques.
 
 ---
 

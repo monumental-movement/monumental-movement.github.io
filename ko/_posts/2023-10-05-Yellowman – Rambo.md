@@ -9,19 +9,19 @@ permalink: /ko/yellowman-rambo/
 tags:
 - Reggae
 - Dancehall
-title: 옐로우맨 - 람보
+title: Yellowman – Rambo
 ---
 
 
-"Rambo"는 자메이카 레게 음악가 Yellowman의 노래입니다. Yellowman은 1980년대 자메이카 음악계에서 매우 인기 있는 아티스트였습니다.
+램보는 자메이카의 레게 뮤지션인 옐로만(Yellowman)의 곡입니다. 옐로맨은 1980년대에 자메이카 음악계에서 매우 인기 있는 아티스트였습니다.
 
-'Rambo'는 1982년 발매된 옐로우맨의 앨범 'King Yellowman'에 수록된 곡이다. 이 곡은 '옐로우맨의 토스트 스타일(Yellowman's Toast Style)'이라는 스타일로 유명한 곡이다. 토스트 스타일(Toast Style)은 리듬에 맞춰 즉흥적으로 가사를 만드는 랩 스타일로, 자메이카 음악의 사운드 시스템 문화에서 발전한 스타일이다.
+'램보'는 옐로맨의 앨범 '킹 옐로우맨'에 수록되어 있으며 1982년에 발매되었습니다. 이 노래는 옐로맨 토스트 스타일이라는 스타일로 알려져 있습니다. 토스트 스타일은 리듬에 맞춰 즉흥적으로 가사를 감싸는 스타일로 자메이카 음악의 사운드 시스템 문화에서 발전했습니다.
 
-"람보"는 동명의 영화 시리즈에 등장하는 액션 영웅 존 J. 람보(John J. Rambo)에게서 영감을 받았습니다. 노래 가사에서 옐로우맨은 자신을 램보에 비유하며 자신감 넘치는 태도와 파워풀한 퍼포먼스를 보여줬다.
+Rambo는 같은 이름의 영화 시리즈의 액션 히어로인 존 J. 람보에서 영감을 받았습니다. 노래의 가사에서 옐로맨은 자신을 람보에 비추어 자신감이 가득한 자세와 강력한 퍼포먼스를 선보이고 있습니다.
 
-이 곡은 댄스홀 레게 스타일과 파워풀한 퍼포먼스가 돋보이는 옐로우맨의 대표곡 중 하나로 꼽힌다. 그의 독특한 스타일과 독특한 예술적 접근 방식으로 인해 Yellowman은 자메이카 음악계에 큰 영향을 미쳤습니다.
+이 노래는 댄스 홀 레게의 스타일과 강력한 퍼포먼스로 유명한 옐로맨의 대표곡 중 하나입니다. 그의 독특한 스타일과 독특한 예술적 접근 방식으로 옐로맨은 자메이카 음악 장면에서 큰 영향력을 가진 존재가되었습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Tarzan
 
@@ -42,5 +42,5 @@ B4. Long Rider
 
 [メルカリで購入](https://jp.mercari.com/item/m27145474489?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cSO1ZXvhO0I?si=7-omSN929oREkmDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

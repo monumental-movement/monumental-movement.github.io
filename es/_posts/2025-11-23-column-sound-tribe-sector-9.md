@@ -71,7 +71,7 @@ Durante este período, STS9 actuó activamente en festivales locales.
 Hemos establecido una posición única.
 
 - largas improvisaciones
-- Sensación de bucle similar a la de un DJ
+- Sensación de loop tipo DJ
 - Producción de iluminación y vídeo con visión del mundo.
 
 Estos eran raros en la escena del rock en ese momento y fueron descritos por el público como "un set de DJ que tocaba".
@@ -90,7 +90,7 @@ Canción representativa:
 - "Algo"
 - “Arigato”
 -“Tokio”
--“Pueblos”
+- "Gente"
 
 Estos se reproducen con frecuencia en la lista de canciones actual y simbolizan mejor la imagen musical de STS9.
 
@@ -148,7 +148,7 @@ Desde el comienzo de STS9
 - Apoyo educativo
 - Protección del medio ambiente
 - Actividades locales
-Ha participado activamente en actividades benéficas como:
+Ha participado activamente en actividades benéficas como
 
 También hay muchas presentaciones que donan una parte de las ganancias de las entradas en vivo y muchas canciones que tienen temas sociales como tema.
 En particular, “Peaceblaster” (2008) se posiciona como una obra conceptual con temas políticos y ambientales como trasfondo.
@@ -198,9 +198,9 @@ Esto garantiza un **grosor acústico** incluso durante presentaciones en vivo, c
 ---
 
 # 7. Filosofía en vivo de STS9: estructura del escenario, iluminación, comunidad
-## 7-1. Estructurando la lista de canciones
+## 7-1. Estructurando el setlist
 STS9 cambia su lista de canciones cada vez que salen de gira,
-- Abridor (presentación de la visión del mundo)
+- Abridor (presentación de la cosmovisión)
 - Desarrollo del mediocampo
 - pico del piso
 - Parte de ritmo profundo
@@ -289,7 +289,7 @@ También es importante porque muestra cómo deberían ser los artistas en el sig
 
 ---
 
-# 12. Conclusión: “bandas que evolucionan a través de presentaciones en vivo” del siglo XXI
+# 12. Conclusión: “bandas que evolucionan a través de la presentación en vivo” del siglo XXI
 
 El Sector 9 de la Tribu del Sonido es
 **Un intento de transferir la estructura de la música electrónica a la interpretación en vivo manteniendo el formato de banda**

@@ -18,7 +18,7 @@ title: Terje Bakke – Dovyn Aren EP
 Dovyn Aren EP 是他的傑作之一，突出了他的標誌性風格和音樂視野，具有黑暗、適合跳舞的節奏和不斷發展的合成器聲音。
 
 
-#### 曲目列表
+#### 曲目表
 ```md
 A  Rabanne
 
@@ -27,5 +27,5 @@ B1  Dovyn Aren
 B2  Kokolores
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m90063547919?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m90063547919?afid=6142608987){: .button1}
 

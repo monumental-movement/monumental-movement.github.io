@@ -136,7 +136,7 @@ flowchart TD
 
 ## 4-3. Estructura de 100 gecs (género superpoblado)
 
-* Mezcla de ska, metal, trap y EDM en una sola canción.
+* Una mezcla de ska, metal, trap y EDM en una sola canción.
 * Cambios de BPM, desarrollos rápidos.
 
 ---
@@ -197,7 +197,7 @@ flowchart LR
 - 1. DI la guitarra → Saturación
 - 2. Tambor ligero (keynote de Trap)
 - 3. Sintonización automática + Duplicador
-- 4. Capa de líneas superiores llorando.
+- 4. Superponer las líneas superiores de llanto
 
 ---
 

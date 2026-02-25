@@ -10,13 +10,13 @@ tags:
 - Rock
 - Pop
 - 90s
-title: Original Love – 싱글 백 투 1991-1995
+title: Original Love – Singles Back To 1991-1995
 ---
 
 
-1996년 발매된 오리지널 러브의 베스트 앨범. 1991년부터 1995년까지 발매된 싱글을 모두 발매순으로 포함한다.
+1996년에 발매된 Original Love(오리지널 러브)의 베스트 앨범. 1991년부터 1995년까지 출시된 모든 싱글이 출시순으로 수록되어 있다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Deep French Kiss
 2. Blue Talk
@@ -37,5 +37,5 @@ title: Original Love – 싱글 백 투 1991-1995
 
 [メルカリで購入](https://jp.mercari.com/item/m78181861703?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kEdNGRbcVkc?si=Enu5YrzHQJ6yiqtL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

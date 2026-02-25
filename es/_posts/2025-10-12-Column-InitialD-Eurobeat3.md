@@ -113,7 +113,7 @@ Y los sonidos que se producen en el interior no son una recreación del pasado, 
 
 ---
 
-## 4. Fusión de sonido y espacio: instalación como música en marcha, experiencia en vivo
+## 4. Fusión de sonido y espacio: Instalación como música en marcha, experiencia en vivo
 
 En varias partes del mundo ha comenzado un movimiento artístico que reproduce audiblemente la sensación de correr.
 
@@ -142,7 +142,7 @@ Se está convirtiendo en un género impulsado por los usuarios.
 
 Cuando ingresa el registro de conducción (velocidad, ruta, información de curvas) en la IA,
 Genera automáticamente una pista estilo Eurobeat que corresponde a ese estilo de conducción.
-La era en la que "tu conducción se convierte en la canción" ya está empezando a hacerse realidad en el banco de pruebas.
+La era en la que "tu conducción se convierte en la canción" ya comienza a hacerse realidad en el banco de pruebas.
 
 ### ● Resurgimiento del Eurobeat desde las redes sociales
 

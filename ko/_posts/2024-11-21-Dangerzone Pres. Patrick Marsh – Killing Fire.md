@@ -9,14 +9,14 @@ permalink: /ko/dangerzone-pres-patrick-marsh-killing-fire/
 tags:
 - Trance
 - 00s
-title: 위험지대 프레스. 패트릭 마쉬 – 킬링 파이어
+title: Dangerzone Pres. Patrick Marsh – Killing Fire
 ---
 
 
-트랜스, 하드 트랜스, 프로그레시브 트랜스 전문 독일 레이블인 Reality Bites Records가 2002년에 발표한 트랜스 트랙입니다.
+트랜스, 하드 트랜스, 프로그레시브 트랜스를 전문으로 하는 독일의 라벨 Reality Bites Records에서 2002년 출시된 트랜스 트럭.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Killing Fire (Dangerzone's Club Mix)
 
@@ -25,5 +25,5 @@ B. Killing Fire (Patrick Marsh Trance Extended)
 
 [メルカリで購入](https://jp.mercari.com/item/m75629044982?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ib11Yk0Kix4?si=cifRw2mRTULabrXZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

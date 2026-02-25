@@ -147,7 +147,7 @@ B6. (It's Not Me) Talking
 Release: Posted on September 9, 2023. A 1985 EP by a band with British pop/new wave/post-punk elements.
 
 
-Recommended points: A unique worldview that combines catchy melodies, atmospheric sounds, and introspective lyrics. This work received high praise from critics.
+Recommended points: A unique world view that combines catchy melodies, atmospheric sounds, and introspective lyrics. This work received high praise from critics.
 
 #### Tracklist
 ```md

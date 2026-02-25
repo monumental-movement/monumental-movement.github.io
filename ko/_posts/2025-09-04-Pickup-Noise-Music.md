@@ -8,21 +8,21 @@ layout: post
 permalink: /ko/pickup-noise-music/
 tags:
 - Noise
-title: Pick up Noise Music 작품
+title: 노이즈 뮤직(Noise Music) 작품을 픽업
 ---
 
 
-“음악의 경계를 뛰어넘는 순수한 어쿠스틱 경험, 노이즈 뮤직이 작동합니다”
+「음악의 경계를 넘는, 순수한 음향 체험, 노이즈 뮤직(Noise Music) 작품군」
 
 <hr>
 
 ### Merzbow – Merzbird
 <a href="https://monumental-movement.jp/Merzbow-Merzbird/"><img src="../assets/images/Merzbow%20%E2%80%93%20Merzbird.webp"></a>
 
-- **배경**: 일본 소음에서 가장 중요한 인물인 Merzbow. 2004년 중요 음반사에서 발매된 새 제목의 노래가 줄지어 있던 시절의 앨범 중 하나이다.
-- **하이라이트**: 고밀도 밴드가 변화하는 '소리의 홍수'. 노이즈의 '조각성'을 체감할 수 있는 결정타.
+- **배경**: 일본 소음의 가장 중요한 인물 Merzbow. 2004년, Important Records로부터의 작품으로, 조류 타이틀의 곡군이 늘어선 시기의 한 장.
+- **듣기위치**: 고밀도 대역이 바뀌는 “소리의 홍수”. 노이즈의 「조각성」을 체감할 수 있는 결정타.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Black Swan
 2. Mandarin Duck
@@ -35,7 +35,7 @@ title: Pick up Noise Music 작품
 [メルカリで購入](https://jp.mercari.com/item/m86594770909?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zlf90ifE4kA?si=YBIoUjE4WsW1yEbk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
@@ -43,13 +43,13 @@ title: Pick up Noise Music 작품
 
 
 
-### Zeni Geva - 고통에 대한 욕망
+### Zeni Geva – Desire For Agony
 <a href="https://monumental-movement.jp/Zeni-Geva-Desire-For-Agony/"><img src="../assets/images/Zeni%20Geva%20%E2%80%93%20Desire%20For%20Agony.webp"></a>
 
-- **배경**: 1987년 도쿄에서 결성. KK.Null과 Tatsuya Yoshida가 출연한 그들은 프로그레시브 록/HC/메탈/노이즈 록을 넘나든다. 1993년 시카고에서 녹음.
-- **하이라이트**: 대담한 리프부터 즉흥적인 폭발까지 공격적인 사운드 이미지 범위. 노이즈와 록의 교차점을 대표하는 작품.
+- **배경**: 1987년 도쿄 결성. KK.Null과 요시다 타츠야를 요로, 프로그레/HC/메탈/노이즈 락을 횡단. 1993년 시카고에서 녹음.
+- **듣기 위치**: 골태 리프에서 즉흥 폭발에 이르기까지 공격적인 사운드 이미지의 흔들림 폭. 노이즈와 록의 교차점의 대표격.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Stigma = スティグマ
 A2. Dead Sun Rising = デッドサンライジング
@@ -67,7 +67,7 @@ B4. The Body = ザ ボディー
 [メルカリで購入](https://jp.mercari.com/item/m93829720298?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B2GSmBIqj2k?si=zrdl_IbSvKyJ4a8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
@@ -75,13 +75,13 @@ B4. The Body = ザ ボディー
 
 
 
-### Les Rallizes Dénudés – 라이브 1972
+### 벌거 벗은 랠리즈 (Les Rallizes Dénudés) – Live 1972
 <a href="https://monumental-movement.jp/Les-Rallizes-Denudes-Live-1972/"><img src="../assets/images/%E8%A3%B8%E3%81%AE%E3%83%A9%E3%83%AA%E3%83%BC%E3%82%BA%20%E2%80%93%20Live%201972.webp"></a>
 
-- **배경**: 1967년 교토에서 결성. 1960년대부터 1990년대까지 활동하며 국내외 노이즈 록에 큰 영향을 미친 전설적인 밴드. 컬트적인 인기를 유지하고 있습니다.
-- **하이라이트**: 황량한 지속 사운드, 포효하는 드론, 최소한의 반복 그루브. 일본 소음 정신의 원래 경험이 당신에게 직접적으로 다가옵니다.
+- **배경**: 1967년 교토에서 결성. 1960~90년대에 활동해 국내외의 노이즈 락에 큰 영향을 준 전설적 밴드. 컬트적 인기를 유지.
+- **청취 **: 황량한 지속음과 포효 드론, 최소한 반복하는 그루브. 일본 노이즈·사이케의 원체험적 질감이 직격.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. 造花の原野 (Field of Artificial Flowers)
 2. 夜より深く (More Deeply Than the Night)
@@ -95,7 +95,7 @@ B4. The Body = ザ ボディー
 [メルカリで購入](https://jp.mercari.com/item/m84819164983?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zoaAUptZ0mw?si=io-6qEGs_v6UDWeG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
@@ -103,14 +103,14 @@ B4. The Body = ザ ボディー
 
 
 
-### 헤어 스타일 – 불쾌한 공포의 인상 / 내 인생 최고의 헤어 스타일(7")
+### Hair Stylistics – Impression Of Nasty Dread / Best Of Hair-Style In My Life (7")
 <a href="https://monumental-movement.jp/Hair-Stylistics-Impression-Of-Nasty-Dread-Best-Of-Hair-Style-In-My-Life/"><img src="../assets/images/Hair%20Stylistics%20%E2%80%93%20Impression%20Of%20Nasty%20Dread%20Best%20Of%20Hair-Style%20In%20My%20Life.webp"></a>
 
 
-- **배경**: Hair Stylistics라는 이름의 나카하라 마사야. 1999년에 출시된 7인치 모델은 오늘날까지 계속해서 실험적이고 소음적인 맥락을 선도하고 있습니다.
-- **하이라이트**: 숏버전에는 컷팅과 편집의 느낌과 과도한 소음의 순간 최대 풍속이 포함되어 있습니다. 초보자와 컬렉션에 적합합니다.
+- **배경**: 나카하라 마사야의 Hair Stylistics 명의. 1999년 릴리스의 7인치로, 실험~노이즈 문맥을 현재까지 견인.
+- **듣기 힘 **: 단척 안에 절단·편집 감각과 과잉 노이즈의 순간 최대 풍속이 봉입. 입문에도 컬렉션에도 ◎.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Impression Of Nasty Dread
 
@@ -125,13 +125,13 @@ B. Best Of Hair-Style In My Life
 
 
 
-### SebastiAn – 흡연으로 인한 사망
+### SebastiAn – Smoking Kills
 <a href="https://monumental-movement.jp/SebastiAn-Smoking-Kills/"><img src="../assets/images/SebastiAn%20%E2%80%93%20Smoking%20Kills.webp"></a>
 
-- **배경**: Ed Banger 주변의 프랑스 일렉트로닉 표준 보유자. 미래적인 일렉트로닉에 '비명소리'를 주입한 싱글.
-- **하이라이트**: "Dolami"의 날카로운 끊김과 채도. 클럽 형식으로 소음의 질감을 즐기는 좋은 예입니다.
+- **배경**: Ed Banger 주변 프렌치 일렉트로 깃발 손. 미래파 일렉트로에 “소리치는 소음”을 주입한 싱글.
+- **청취 **: '돌라미'의 예각 브레이크와 포화. 클럽 포맷으로 노이즈의 질감을 즐기는 좋은 예.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A  Smoking Kills (?)
 
@@ -144,20 +144,20 @@ B2  Shoot
 [メルカリで購入](https://jp.mercari.com/item/m17778455704?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MpcsXaeZx7w?si=K2YtAvVZYNwf4xSS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
 
 
-### Tipsy – 달 위의 누드 / Space Golf
+### Tipsy – Nude On The Moon / Space Golf
 <a href="https://monumental-movement.jp/Tipsy-Nude-On-The-Moon-Space-Golf/"><img src="../assets/images/Tipsy%20%E2%80%93%20Nude%20On%20The%20Moon%20Space%20Golf.webp"></a>
 
-- **배경**: 샌프란시스코 라운지 콜라주 듀오. 추상적/트립홉/실험적/노이즈 요소가 혼합되어 있습니다.
-- **하이라이트**: Lo-fi 텍스처 x Mondo 컷업. 또한 "귀에 좋은 소음"에 대한 유쾌한 소개이기도 합니다.
+- **배경**: 샌프란시스코 라운지 콜라주 듀오. 추상/트립홉/실험/노이즈 요소가 혼교.
+- **듣기 커뮤니티**: 로우파이 질감×몬드인 컷업. “귀에 상냥한 노이즈”의 입구로서도 기분 좋다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Nude On The Moon (Naked Volleyball Mix)
 A2. Nude On The Moon (DJ Friendly Mix)
@@ -170,7 +170,7 @@ B2. Space Golf (Venusian Swing Mix)
 [メルカリで購入](https://jp.mercari.com/item/m39453173414?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PzGx4oDDhAY?si=7ghPeZCVRG_1at2Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
@@ -178,13 +178,13 @@ B2. Space Golf (Venusian Swing Mix)
 
 
 
-### 버팔로 딸 – WXBD
+### Buffalo Daughter – WXBD
 <a href="https://monumental-movement.jp/Buffalo-Daughter-WXBD/"><img src="../assets/images/Buffalo%20Daughter%20%E2%80%93%20WXBD.webp"></a>
 
-- **배경**: 일본의 실험적인 록 트리오. 다양한 리믹서들의 참여로 일렉트로니카/노이즈적인 면을 강화한 기획앨범.
-- **하이라이트**: 빅 비트와 브레이크 비트의 맥락에서 어쿠스틱 콜라주. 코넬리우스와 다른 사람들의 손길을 포함하여 편집의 즐거움을 즐겨보세요.
+- **배경**: 일본 실험 락 트리오. 다양한 리믹서 참가로 일렉트로니카~노이즈의 측면이 강화된 기획반.
+- **청취지**: 빅 비트~브레이크 비트 컨텍스트에서의 음향 콜라주. Cornelius 등의 손수건도 포함하여 편집의 쾌락을 만끽.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Great Five Lakes (Kut Masta Kurt Mix)
 A2. Super Blooper (Panda's Goodvibe Mix)
@@ -201,7 +201,7 @@ B4. Super Blooper (Remix Live From Lee's Palace, Toronto)
 [メルカリで購入](https://jp.mercari.com/item/m96206628423?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fu3Rm1g3wnY?si=X83Plhivo9HSub2F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
@@ -210,11 +210,11 @@ B4. Super Blooper (Remix Live From Lee's Palace, Toronto)
 
 ## 요약
 
-- **로얄 포효에서 입장한다면** *머즈버드*/네이키드 랠리즈.
-- 클럽 상황에서 소음의 질감을 경험하고 싶다면 *흡연이 죽습니다*.
-- **콜라주 접근법**의 경우 Hair Stylistics/Tipsy/WXBD를 사용해 보세요.
-- **직접 만들어보고 싶은 분들**, 유로랙 칼럼을 통해 최고의 장비를 먼저 확인하고 들어보세요.
+- **왕도의 포효로부터** 들어가면 *Merzbird*/알몸의 랠리즈.
+- **클럽 문맥에서**소음의 질감을 맛보면 *Smoking Kills*.
+- **콜라주적 접근**이라면 Hair Stylistics/Tipsy/WXBD.
+- **자작파**는 Eurorack 칼럼으로 장비를 맞추고 나서 시청에.
 
 ---
 
-소음은 단지 듣기만 하는 것이 아니라 경험할 수 있는 음악입니다. 더 자세히 알아보려면 링크를 사용하세요.
+노이즈는 「듣는 것만」이 아니라 「체험한다」음악. 꼭 링크처에서 더 깊이 파고 주세요.

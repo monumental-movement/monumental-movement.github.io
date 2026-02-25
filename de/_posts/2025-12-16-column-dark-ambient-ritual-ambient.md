@@ -48,7 +48,7 @@ color: #fff;
 </style>
 
 
-## 2. Experimenteller Hintergrund vor der Bildung
+## 2. Experimenteller Hintergrund vor der Gründung
 
 Von den späten 1970er bis in die 1980er Jahre experimentierten Menschen im Umfeld der Industrial-Musik damit, „die Funktionen der Musik zu stoppen“.
 
@@ -131,7 +131,7 @@ Seine Produktion zeichnet sich dadurch aus, dass er religiöse Themen nicht emot
 
 Obwohl alle Lieder unabhängig voneinander sind, bilden sie je nach Reihenfolge, in der sie arrangiert werden, einen rituellen Fluss.
 
-### 8.2 Auswahl des Tonmaterials
+### 8.2 Auswahl des Klangmaterials
 
 * Pfeifenorgelklang
 * Glockenharmonische
@@ -237,7 +237,7 @@ Obwohl die produzierte Stückzahl begrenzt ist, behält es seinen Wert als Refer
 
 ## 16. Fazit
 
-Lustmord und Raison d’être sind die Bezugspunkte, die die Dark Ambient/Ritual Ambient-Methodik begründet haben.
+Lustmord und Raison d’être sind die Bezugspunkte, die die Dark Ambient/Ritual Ambient-Methodik begründeten.
 
 Ihr Einfluss ist keine musikalische Nachahmung;
 

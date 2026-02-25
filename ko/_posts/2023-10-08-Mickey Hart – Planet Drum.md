@@ -9,17 +9,17 @@ permalink: /ko/mickey-hart-planet-drum/
 tags:
 - Tribal
 - Ambient
-title: 미키 하트 – 플래닛 드럼
+title: Mickey Hart – Planet Drum
 ---
 
 
-'Planet Drums''는 록 밴드 그레이트풀 데드(Grateful Dead)의 멤버였던 음악가이자 음악학자인 미키 하트(Mickey Hart)의 월드 뮤직 앨범이다.
+'플래닛 드럼'은 록 밴드인 그레이트 풀 데드의 멤버였던 음악가 겸 음악 학자 미키 하트의 월드 뮤직 앨범입니다.
 
-컨셉은 전 세계의 타악기 연주자들과 함께 드럼 음악을 연주하고 그들의 다양한 음악 스타일과 전통을 새로운 글로벌 사운드에 통합하는 것이었습니다. 이번 앨범에 참여한 뮤지션은 미국 본토(Mickey Hart), 푸에르토리코(Giovanni Hidalgo 및 Frank Colon), 인도(Zakir Hussain 및 T.H. "Vic" Vinayakram), 나이지리아(Sikiru Adepoju 및 Babatunde Olatunji), 브라질(Aatu Moreira 및 그의 아내, 보컬리스트 Flora Purim) 출신입니다.
+컨셉은 전세계의 퍼커셔니스트와 함께 드럼 음악을 연주하고 그들의 다른 음악 스타일과 전통을 새로운 글로벌 사운드에 통합하는 것이 었습니다. 이 앨범에 참여한 뮤지션은 미국 본토(미키 하트), 푸에르토리코(조반니 이달고와 프랭크 콜론), 인도(더킬 후세인과 T.H. '빅') 비나야 클램), 나이지리아(시킬 아데포주와 바바툰데 오라툰지), 브라질(아투 모레이라와 그의 아내, 보컬리스트 플로라 프림)에서 모였다.
 
-1991년 그래미 어워드에서 최우수 월드 뮤직 앨범 상을 수상했습니다.
+1991년 그래미상에서 최우수 월드뮤직 앨범상을 수상했습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Udu Chant
 
@@ -50,5 +50,5 @@ B6. Mysterious Island
 
 [メルカリで購入](https://jp.mercari.com/item/m30826670023?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fICEZNkhA1k?si=jo8IfirSq0cnkKyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

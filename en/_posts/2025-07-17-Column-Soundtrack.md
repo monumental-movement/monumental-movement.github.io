@@ -39,7 +39,7 @@ A pianist and an orchestra provided live music at the movie theater. Therefore, 
 
 Starting with [""The Jazz Singer'' (1927)] (https://amzn.to/3Wn4CTH), **Optical Sound** was introduced, and we entered an era in which audio information (scores) were recorded on video film.
 
-Around this time, the meaning of ""soundtrack = audio material of a movie'' became clear.
+Around this time, the meaning of ""soundtrack = movie audio material'' became clear.
 
 **●Major media for film music: technological changes in recording and playback**
 
@@ -79,7 +79,7 @@ Labels specializing in soundtracks (La-La Land Records, Intrada, Varese Saraband
 
 A medium for ""re-experiencing'' soundtracks in video works.
 
-The spatial expression of music has greatly evolved with stereophonic technology such as 5.1ch/DTS.
+The spatial expression of music has greatly evolved through stereophonic technology such as 5.1ch/DTS.
 
 ■Digital sound source (MP3/WAV/FLAC/AAC)
 
@@ -87,7 +87,7 @@ Music source sales on iTunes and Amazon MP3.
 
 Independent film composers are also featured on platforms such as Bandcamp.
 
-Full scores, unreleased songs, and alternate takes can be distributed in high resolution.
+Full scores, unreleased songs, and alternate takes can be delivered in high resolution.
 
 ■Subscription (Spotify / Apple Music, etc.)
 
@@ -104,8 +104,8 @@ The boundary between "functionality" and "artistic" in film music is once again 
 flowchart TD
   A["🎞 Sound on film (1930s-1960s) Optical recording → magnetic recording. Stereo conversion and improved sound quality"]
   B["💿 Records (1950s-1980s) General distribution of film music. Mainly recording highlights."]
-  C["📼 Cassette / 8-track (1970s-1980s) Popularity in home and car playback devices. Portability of movie music."]
-  D["💽 CD (from the 1980s) High quality sound and long recording time. Golden era with the advent of specialized labels."]
+  C["📼 Cassette / 8-track (1970s-80s) Popularity in home and car playback devices. Portability of movie music."]
+  D["💽CD (from the 1980s) High quality sound and long recording time. Golden era with the advent of specialized labels."]
   E["📀 DVD/Blu-ray (1990s and later) Re-experience the soundtrack with video + 3D sound"]
   F["💻Digital sound source (2000s~) MP3/FLAC, etc. High-resolution distribution and communication by independent artists"]
   G["☁ Subscription (2010s~) The era of listening to movie music. Making playlists and redefining them"]

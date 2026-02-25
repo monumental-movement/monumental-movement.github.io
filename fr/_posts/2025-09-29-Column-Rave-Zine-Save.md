@@ -45,7 +45,7 @@ Les vibrations de mon corps que je ressentais sur le sol du club. Une rave illé
 
 Souvent, ils ne sont pas enregistrés. Cela n’est pas rapporté dans les médias et n’est pas enregistré dans l’histoire.
 
-Cependant, un média DIY appelé « Zine » attire actuellement l'attention comme moyen de récupérer les fragments et de raconter l'histoire.
+Cependant, un média DIY appelé « zine » attire actuellement l'attention comme moyen de récupérer ces fragments et de les raconter.
 
 Un zine n'est pas un magazine, un journal intime ou un rapport. Cependant, il est plus proche des « voix des personnes impliquées » que n’importe lequel d’entre eux. Dans la culture rave, qui par nature résiste à l'enregistrement, les zines ont le potentiel de servir d'« aide-mémoire ».
 

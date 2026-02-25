@@ -50,7 +50,7 @@ Au milieu des années 1990, le jazz-funk et la drum and bass se développaient r
 > "A cette époque, il ne s'agissait pas seulement de danser ou d'écouter de la musique, c'était plus amusant de ressentir le swing et le groove qui naissaient derrière le rythme."
 > — Témoignage d'un DJ d'un club londonien de l'époque
 
-La fusion de ce sens du rythme à plusieurs niveaux et des harmonies de type jazz a formé le son principal de Broken Beat.
+La fusion de ce sens du rythme à plusieurs niveaux et des harmonies de type jazz forme le son principal de Broken Beat.
 
 ---
 
@@ -198,7 +198,7 @@ graph TD
 ### Kaidi Tatham
 - **Début des activités** : Fin des années 1990
 - **Caractéristiques** : Diverses œuvres au clavier, motifs rythmiques complexes
-- **Analyse de chanson** : Dans des chansons telles que "Episode 1", la ligne de basse répond au rythme et crée une mélodie fluctuante, créant la " sensation de flottement " propre à Broken Beat.
+- **Analyse de chanson** : Dans des chansons telles que « Episode 1 », la ligne de basse répond au rythme et crée une mélodie fluctuante, créant la « sensation de flottement » propre à Broken Beat.
 
 ### Culture IG
 - **Début des activités** : 1996

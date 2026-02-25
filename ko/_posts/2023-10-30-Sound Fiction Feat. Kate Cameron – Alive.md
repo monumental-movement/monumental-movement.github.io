@@ -10,24 +10,24 @@ tags:
 - Trance
 - Progressive
 - 00s
-title: 사운드픽션 Feat. 케이트 카메론 – 살아있다
+title: Sound Fiction Feat. Kate Cameron – Alive
 ---
 
 
-Sound Fiction은 2002년 모스크바에서 러시아 프로듀서이자 DJ인 Vadim Soloviev와 Dmitry Filatov에 의해 결성되었습니다.
+Sound Fiction(사운드 픽션)은 2002년 러시아 프로듀서 겸 DJ의 Vadim Soloviev & Dmitry Filatov(와딤 솔로비예프 & 도미토리 필라토프)에 의해 모스크바에서 결성되었다.
 
-Side A는 스웨덴 트랜스/프로그레시브 DJ이자 프로듀서인 Mike Shiver의 리믹스입니다.
+A면은 스웨덴 출신의 트랜스/프로그레시브 DJ&프로듀서의 Mike Shiver(마이크 시버)에 의한 remix.
 
 
-주요 케이트 카메론(Kate Cameron)은 풍부한 알토 목소리를 지닌 전문 하우스 겸 트랜스 가수로 Jones & Simmons와의 작업으로 가장 잘 알려져 있으며, 특히 Space Brothers 및 Chakra라는 가명으로 I Am 및 Home과 같은 크로스오버로 성공을 거둔 특집 아티스트로 활동하고 있습니다.
+피처링된 케이트 카메론은 풍부한 알토 보이스를 갖춘 프로 하우스 겸 트랜스 싱어로, 존스 & 시몬스와의 활동으로 가장 잘 알려져 있으며, 특히 그들의 별명인 우주 형제나 차크라의 주목 아티스트로서 「아이 암」이나 「홈」등의 크로스 오버 작품으로 성공을 거두고 있습니다.
 
-그녀의 작품으로는 John of Norman Cooke/Pleased Women의 "P.A.S.S.I.O.N", Above & Beyond의 "Far From In Love", Dutch House act Signum의 "What Ya" 등이 있습니다. Mount Rushmore Presents the Knack이라는 별칭으로 그녀의 하드 하우스 트랙 "You Better"에서 발췌한 곡으로, "Got 4 Me"를 포함하여 저명한 프로듀서와 함께 솔로 아티스트로서 차트 성공을 거두었습니다.
+그녀는 노먼 쿡/프리즈드 위민의 존과 공동 출연한 'P.A.S.S.I.O.N', 아밥 & 비욘드와 공동 출연한 '퍼프롬 인 러브', 그리고 더치 하우스 액트의 시그넘과 공동 출연한 '호왓 야 갓 4·미” 등, 저명한 프로듀서와 솔로 아티스트로서 차트에서의 성공을 거두고, 마운트·러시모어·프레젠트·더·낙이라는 별명으로 그녀의 하드하우스 트럭 “유·베터”로부터 발췌된 것이다.
 
-Angie Brown과 함께 그녀는 Freak Power의 히트 앨범 Drive Thru Booty의 두 번째 싱글 릴리스인 "Rush"를 포함하여 많은 노래의 백 보컬이었습니다. 그녀는 계속해서 Freak Power와 함께 투어와 녹음을 하고 있으며,
+앤지 브라운과 함께 그녀는 괴물 파워의 히트 앨범 '드라이브 스루 부티'의 많은 곡에서 백 보컬리스트를 맡았고, 그 중에는 세컨드 싱글 릴리스의 '러쉬'도 포함되어 있었다. 그녀는 괴물 파워로 투어와 녹음을 계속하고,
 
-그녀는 또한 서식스 대학교(University of Sussex)와 치체스터 대학교(University of Chichester)에서 가르쳤으며, 그녀의 주목할만한 코칭 동문으로는 Beth Lawrie, Tom Odell 및 Luke Pritchard가 있습니다.
+또한 서섹스 대학교와 치체스터 대학교 모두에서 교편을 취하고, 그녀의 코칭의 유명한 졸업생은 베스 롤리, 톰 오델, 루크 프리차드를 포함합니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Alive (Mike Shiver's Catching Sun Mix)
 
@@ -40,5 +40,5 @@ B2. Alive (Soliquid Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m89465785015?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bRKb2UDX8NE?si=JUOtFKTigm7ZU4ra" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -117,3 +117,14 @@ Durch Veranstaltungen in Clubs in Shibuya und Veröffentlichungen inländischer 
 Dubstep ist mehr als nur ein Genre, es ist zu einer ikonischen Klanglandschaft der urbanen Kultur des 21. Jahrhunderts geworden.
 
 Die Bassvibrationen, die durch das Soundsystem eines Clubs wahrgenommen werden, gehen über den Hörsinn hinaus, erschüttern den Körper und den Raum und verbinden die Zuhörer miteinander. Dubstep entwickelt sich weiter und wird auch weiterhin ein spannendes musikalisches Entdeckungsgebiet für neue Generationen sein.
+
+---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7ZdHzysA-g0?si=KNHLYPiuF8HQgKBm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

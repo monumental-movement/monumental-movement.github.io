@@ -10,17 +10,17 @@ tags:
 - Latin
 - House
 - 00s
-title: 보리스 고두노프 - 엘 바일레
+title: Boris Godunov – El Baile
 ---
 
 
-보리스 고두노프(Boris Godunov)는 코넬리우스 데 하스(Cornelius De Haas)와 사샤 모크(Sascha Mock)가 결성한 유닛이다. 그는 또한 Corn & Mocca 및 Cornelius De Haas & Mokka라는 이름으로 작업하고 있습니다.
+Boris Godunov(보리스 고두노프)는 Cornelius De Haas와 Sascha Mock에 의해 유닛. Corn & Mocca와 Cornelius De Haas & Mokka 명의에서도 활동하고 있다.
 
-일본 댄스 팝 레이블 Escalator Records(현재는 존재하지 않음)가 2002년에 발매한 라틴/하우스 트랙입니다.
+일본의 댄스팝 라벨 Escalator Records(현재는 폐지)로부터 2002년에 릴리스된 Latin/House 트럭.
 
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. El Baile (Corn&Mocca Club Mix With Von Spank)
 

@@ -9,13 +9,13 @@ permalink: /ko/va-thank-god-its-friday/
 tags:
 - Disco
 - 70s
-title: VA - 하느님 감사합니다 금요일이에요
+title: VA – Thank God It's Friday
 ---
 
 
-"VA - Thank God It's Friday"는 1978년 카사블랑카에서 발매되었습니다.
+VA – Thank God It's Friday는 1978년 Casablanca에서 출시되었습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Love And Kisses –Thank God It's Friday
 A2. Pattie Brooks–After Dark
@@ -44,5 +44,5 @@ E. Donna Summer - Je T'Aime (Moi Non Plus)
 
 [メルカリで購入](https://jp.mercari.com/item/m32254074664?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lZypJPjK2Sw?si=ycy2M3pNCLSiI-rz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

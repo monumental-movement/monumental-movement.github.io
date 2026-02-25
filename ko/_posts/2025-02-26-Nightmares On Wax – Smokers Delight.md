@@ -11,21 +11,21 @@ tags:
 - Acid Jazz
 - Dub
 - 90s
-title: 왁스에 악몽 – 흡연자의 기쁨
+title: Nightmares On Wax – Smokers Delight
 ---
 
 
-영국 프로듀서 George Evelyn 프로젝트의 두 번째 앨범인 Nightmares On Wax의 Smokers Delight(1995)는 Warp Records에서 발매되었으며 다운템포와 트립홉 역사에서 그 자리를 확고히 했습니다. 이 앨범은 시대를 초월한 걸작으로 남아 있으며, 청취자들을 복잡하고 분주한 클럽 문화에서 한 발짝 물러나 차분한 휴식의 영역으로 안내합니다.
+Nightmares On Wax의 'Smokers Delight'(1995년)는 영국 프로듀서 George Evelyn에 의한 프로젝트의 두 번째 작품으로 Warp Records에서 발표된 앨범으로 다운템포와 트립홉의 역사에서 확고한 지위를 쌓은 작품입니다. 이 앨범은 클럽 문화의 번잡함에서 한 걸음 끌어당긴 곳으로, 청취자를 기분 좋은 칠 아웃의 영역으로 초대하는, 시대를 넘은 걸작으로서 지금도 전해지고 있습니다.
 
-우선 '스모커스 딜라이트'의 핵심은 '느긋한 그루브'에 있다. 앨범은 퀸시 존스(Quincy Jones)의 'Summer In The City'를 샘플링한 부드러운 스트링과 잔잔한 비트가 돋보이는 'Nights Introlude'로 시작되며 청취자를 단숨에 편안한 공간으로 끌어들인다.
+우선 'Smokers Delight'의 핵심은 그 '느긋한 그루브'에 있습니다. 앨범은 처음 'Nights Introlude'에서 Quincy Jones의 'Summer In The City'를 샘플링한 부드러운 문자열과 부드러운 비트로 막을 열고 청취자를 즉시 ​​편안한 공간으로 끌어들인다.
 
-음악적으로는 힙합 스켈레톤에 레게, 소울, 펑크의 정수가 엮여 독특한 절충주의를 선사한다. 예를 들어 'Groove St.'에서는 깊은 피아노 베이스 라인과 부드러운 베이스 라인이 얽혀 있고, 경쾌한 드럼이 더해져 단순하면서도 중독성 있는 루프를 만들어낸다. 한편, 9분이 넘는 길이의 'Pipes Honor'와 같은 긴 트랙은 기타와 키보드의 레이어를 점차적으로 전개하여 청취자를 명상적인 여행으로 안내합니다.
+음악적으로는, 힙합의 골격에 레게, 서울, 펑크의 에센스가 짜넣어져, 독자적인 절충주의가 두드러지고 있습니다. 예를 들면, 「Groove St.」에서는 중후한 피아노의 저음과 매끄러운 베이스 라인이 얽혀, 거기에 경쾌한 드럼이 더해져, 심플하면서도 병이 붙는 루프가 태어나고 있습니다. 한편, 'Pipes Honour'와 같은 9분이 넘는 긴 트럭에서는 기타와 키보드가 짜는 레이어가 서서히 전개되어 청취자를 명상적인 여행으로 인도합니다.
 
-제작 배경도 흥미롭다. 파트너 Kevin Harper가 떠난 후 Evelyn은 Nightmares On Wax를 솔로 프로젝트로 재정의하고 Smokers Delight를 통해 새로운 방향을 찾았습니다. 아날로그 장비와 샘플링 기법을 활용한 이 음반은 90년대 DIY 정신을 구현하고 당시 Warp 레이블의 혁신적인 태도를 반영합니다. 로빈 테일러-퍼스(Robin Taylor-Firth)의 건반 참여와 곳곳에 흩어져 있는 손으로 연주하는 악기의 루프는 디지털과 아날로그의 절묘한 융합을 만들어내며 인공적인 차가움을 뛰어넘는 인간적인 사운드를 만들어냅니다.
+제작 배경도 흥미로운 점입니다. Evelyn은 파트너인 Kevin Harper가 떠난 후 솔로 프로젝트로 Nightmares On Wax를 재정의하고 'Smokers Delight'에서 새로운 방향을 발견했습니다. 아날로그 장비와 샘플링 기술을 구사한 이 작품은, 90년대의 DIY 정신을 체현하고 있어, 당시의 Warp 레이블의 혁신적인 자세와도 공명하고 있습니다. Robin Taylor-Firth의 키보드 참가와 곳곳에 박힌 손으로 연주하는 악기에 의한 루프가 디지털과 아날로그의 융합을 절묘하게 실현해, 인공적인 차가움을 넘은 인간 맛이 있는 사운드를 낳고 있습니다.
 
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Nights Introlude
 2. Dreddoverboard
@@ -48,5 +48,5 @@ title: 왁스에 악몽 – 흡연자의 기쁨
 
 [メルカリで購入](https://jp.mercari.com/item/m31522709152?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C6ixa3G_tL4?si=oqR77d3pR6_Eziw3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

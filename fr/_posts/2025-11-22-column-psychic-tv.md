@@ -17,7 +17,7 @@ title: '[Chronique] Psychic TV : L''histoire complète d''un groupe multimédia 
 ---
 
 
-## 1. Introduction
+## 1. Présentation
 
 
 Texte : mmr｜Thème : Histoire, philosophie, musicalité, activités live, rituels et influence sur les générations futures de Psychic TV depuis sa formation jusqu'à sa disparition
@@ -63,13 +63,13 @@ Psychic TV a été conçu non seulement comme un groupe de musique, mais comme u
 
 #### 3.1 Composition des membres et premiers travaux
 
-La programmation initiale de Psychic TV était composée de Genesis P-Orridge (chant, paroles), Peter Christopherson (vidéo, son) et Alex Fergusson (guitare). La première chanson, « Just Drifting », reflète la vision poétique de Genesis et sert de point de départ musical au groupe.
+La programmation initiale de Psychic TV était composée de Genesis P‑Orridge (chant, paroles), Peter Christopherson (vidéo, son) et Alex Fergusson (guitare). La première chanson, « Just Drifting », reflète la vision poétique de Genesis et sert de point de départ musical au groupe.
 
 La musique ancienne était caractérisée par une innovation qui transcendait les frontières traditionnelles des genres, combinant l'agressivité punk, la liberté psychédélique et le bruit expérimental.
 
 #### 3.2 Spectacles vivants et activités d'art vidéo
 
-Psychic TV a également innové dans sa performance live. De nombreuses performances en direct utilisaient du matériel vidéo et des écrans multiples pour offrir au public une expérience stimulante et cérémoniale. Une tentative a été faite pour reconstruire le spectacle vivant lui-même comme une sorte d'espace rituel, non seulement à travers la musique mais aussi à travers les images et l'expression physique.
+Psychic TV a également innové dans sa performance live. De nombreuses performances en direct utilisaient du matériel vidéo et des écrans multiples pour offrir au public une expérience stimulante et rituelle. Une tentative a été faite pour reconstruire le spectacle vivant lui-même comme une sorte d'espace rituel, non seulement à travers la musique mais aussi à travers les images et l'expression physique.
 
 #### 3.3 Naissance de toi Temple de Psychick Youth (T.O.P.Y.)
 
@@ -85,7 +85,7 @@ En 1986, Psychic TV lance un projet ambitieux : sortir un album live mensuel. Fi
 
 #### 4.2 Transformation des styles musicaux
 
-Au cours de cette période intermédiaire, en plus du noise industriel traditionnel et du punk, une variété d'éléments tels que la musique psychédélique, pop et expérimentale ont été incorporés, et le style musical a considérablement changé. Dans leurs spectacles et albums, la musique, la vidéo et la performance étaient étroitement liées, et le talent artistique intégrant l'audition, le visuel et la spiritualité se démarquait.
+Au cours de cette période intermédiaire, en plus du noise industriel traditionnel et du punk, une variété d'éléments tels que la musique psychédélique, pop et expérimentale ont été incorporés, et le style musical a considérablement changé. Dans leurs performances live et leurs albums, la musique, la vidéo et la performance étaient étroitement liées, et le talent artistique intégrant l'audition, le visuel et la spiritualité se démarquait.
 
 #### 4.3 Magie, magie du chaos et pensée approfondie
 

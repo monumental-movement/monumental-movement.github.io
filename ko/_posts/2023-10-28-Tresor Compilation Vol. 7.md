@@ -9,13 +9,13 @@ permalink: /ko/tresor-compilation-vol-7/
 tags:
 - Techno
 - German Techno
-title: Tresor 편집 권. 7
+title: Tresor Compilation Vol. 7
 ---
 
 
-"Tresor Compilation Vol. 7"은 1999년에 발매된 컴필레이션 앨범이다.
+'Tresor Compilation Vol. 7'은 1999년에 발표된 편집 앨범입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Sven Väth –Dub Control Your Mind (Track & Feel Edit)
 2. Maurizio –M4
@@ -33,5 +33,5 @@ title: Tresor 편집 권. 7
 
 [メルカリで購入](https://jp.mercari.com/item/m32845023734?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XhTbLCVAi0E?si=UWusy2wkIT2gl4oJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

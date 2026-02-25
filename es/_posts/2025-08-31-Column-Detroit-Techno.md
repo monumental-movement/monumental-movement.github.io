@@ -44,7 +44,7 @@ Por otro lado, la cultura de los DJ de radio afroamericanos (por ejemplo, curado
 
 <hora>
 
-### Características del sonido: mecánico pero cálido
+### Características del sonido: mecánico pero cálido.
 
 - Construido alrededor de cajas de ritmos (TR-808/909) y sintetizadores (tipo Roland, analógico).
 
@@ -52,11 +52,11 @@ Por otro lado, la cultura de los DJ de radio afroamericanos (por ejemplo, curado
 
 - El estilo Detroit es más frío y mecánico que el house, pero tiene "melodía y emoción".
 
-La línea entre DJ y productor se volvió borrosa, y las canciones se refinaron mediante la práctica de tocar (mezclando/reaccionando) en clubes.
+La línea entre DJ y productor se volvió borrosa, y las canciones se refinaron mediante la práctica de tocar (mezclar/reaccionar) en clubes.
 
 <hora>
 
-### Personajes principales y “canciones representativas”
+### Personajes principales y “canciones emblemáticas”
 
 #### **Juan Atkins / Cybotron / Modelo 500**
 
@@ -92,11 +92,11 @@ Una de las obras maestras de Jeff Mills, "The Bells", ha vendido más de 500.000
 
 ---
 
-#### **Otro (expansión de escena)**
+#### **Otro (Expansión de escena)**
 
 Siguieron diversas generaciones, incluido Richie Hawtin (una segunda generación cuyo trabajo posterior cerró la brecha entre Detroit y la escena internacional).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JKPScOuCkws?si=Jnj_0pWQz950yOZv" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xk81Oty1a-U?si=ehXcCwf_TWvv1H9D" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 <hora>
 
@@ -162,12 +162,20 @@ El techno de Detroit es más que sólo música de baile; es un producto cultural
 
 ---
 
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZTihU-gnxwo?si=lsZkzvpVRdjObT3F" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
 ### Columnas relacionadas
 
 🔗 [[Columna] Desde los orígenes del techno hasta el presente: una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)
 
 🔗 [[Columna] Tresor - El lugar sagrado del techno que cambió el mundo desde el underground en Berlín](https://monumental-movement.jp/Column-Tresor)
 
-🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-German-Techno)
+🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-Germain-Techno)
 
 🔗 [[Columna] La edad de oro del techno británico](https://monumental-movement.jp/Column-90s-UKTechno)

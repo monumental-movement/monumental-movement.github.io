@@ -25,7 +25,7 @@ B面第一首歌是電子樂老牌DJ Moonstarr。
 
 B 面的第二首歌是 Samiyam 的混音版，Samiyam 是一位居住在洛杉磯的美國嘻哈製作人，同時也是 Flying Lotus 的製作二人組 FLYamSAM。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Make It So (XXXchange Remix)
 A2. Make It So (Album Version)
@@ -34,7 +34,7 @@ B1. Make It So (Moonstar Remix)
 B2. Make It So (Samiyam Remix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m72975303181?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m72975303181?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lCylb7E0EXY?si=HxEuDUNKPER_Uss8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

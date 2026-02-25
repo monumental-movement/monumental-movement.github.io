@@ -13,13 +13,13 @@ title: 成吉思汗 – 精選
 ---
 
 
-成吉思汗是由拉爾夫·西格爾組建的德國迪斯科樂隊。 1979年，他參加了歐洲歌唱大賽並獲得第四名。
+成吉思汗是由拉爾夫·西格爾組成的德國迪斯科樂團。 1979年，他參加了歐洲歌唱大賽並獲得第四名。
 
 成吉思汗的歌曲以歷史人物、異國文化和地區為主題。
 
-《成吉思汗》和《瞄準莫斯科》等歌曲在全球範圍內風靡一時。
+《成吉思汗》和《瞄準莫斯科》等歌曲在全球風靡一時。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Machu Picchu 
 インカ帝国（マッチュ・ピッチュ）
@@ -64,7 +64,7 @@ B7. Dschinghis Khan
 ジンギスカン
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m50480268934?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m50480268934?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_WR4rNmy9mo?si=PwaouexbBOavPabb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

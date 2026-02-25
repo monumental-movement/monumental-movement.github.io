@@ -25,7 +25,7 @@ En 1978, apareció un grupo inusual en la ciudad portuaria de Bristol, en el sur
 Su nombre es **El Grupo Pop**.
 Aunque se llamaban a sí mismos pop, su música no era funk, punk o jazz, sino más bien un experimento en el que todos los géneros chocaban explosivamente.
 
-Su sonido evoca el **desempleo, clase, corrupción política y alienación de los jóvenes** que cubrieron Inglaterra en los años 1970.
+Su sonido evoca el **desempleo, la clase social, la corrupción política y la alienación de los jóvenes** que cubrían Inglaterra en los años 1970.
 Fue sublimado como un "grito" del sonido mismo.
 No era sólo música, era "una expresión física antisistema" y "un arte que reúne fragmentos de ideas".
 
@@ -56,7 +56,7 @@ Sin embargo, entre bastidores, avanzaban las divisiones sociales, el estancamien
 Al igual que en los disturbios de Brixton (Londres) de 1976, los conflictos entre la policía y los jóvenes se intensificaron en Bristol.
 Una "desconexión entre el Estado y las calles" se convirtió en la norma.
 
-Como ciudad portuaria, Bristol tenía una cultura de **reggae y dub** arraigada gracias a los inmigrantes de Jamaica.
+Como ciudad portuaria, Bristol tenía una cultura de **reggae y dub** arraigada debido a los inmigrantes de Jamaica.
 El ritmo, el bajo centro de gravedad del bajo y el espíritu de rebelión,
 También impregnó a la juventud de la roca blanca.
 
@@ -75,7 +75,7 @@ Los miembros tienen entre 10 y 20 años.
 **Dan Catsis (bajo)**, **John Waddington (guitarra)** fueron los jugadores principales.
 
 A diferencia de los punks londinenses, eran conscientes de ser **políticos y artísticos**.
-Su álbum debut ``**Y**'' (1979) fue una herejía entre los herejes incluso en ese momento.
+Su álbum debut, ``**Y**'' (1979), era una herejía de herejía incluso en ese momento.
 El desorden del free jazz, el deep space del dub, el impulso destructivo del punk...
 Estos se cruzan como **poemas socialmente críticos y gritos poéticos**.
 
@@ -127,7 +127,7 @@ Desde la década de 2000, ha sido reevaluado en medio de la tendencia de resurgi
 Especialmente desde 2005, después de las **reuniones de Gang of Four y Wire**,
 También reanudaron sus actividades en 2010. En 2015, lanzó su nuevo trabajo "Citizen Zombie".
 
-Si bien la naturaleza violenta del sonido todavía estaba presente, era más político y tenía un mensaje más agudo que antes.
+Si bien la naturaleza violenta del sonido todavía estaba presente, era más político y tenía un mensaje más claro que antes.
 Para ellos, la "reunión" no era una cuestión de nostalgia, sino de "continuación de la resistencia".
 
 > “No dejas de estar enojado porque pasa el tiempo”.

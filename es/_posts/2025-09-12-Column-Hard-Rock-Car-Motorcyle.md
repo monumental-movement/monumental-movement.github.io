@@ -66,7 +66,7 @@ Las bandas globales de hard rock **AC/DC** y **KISS** han cautivado al público 
 - AC/DC, como lo ejemplifican canciones como "Highway to Hell" y "Thunderstruck", superpusieron imágenes de "carretera", "trueno" y "exceso de velocidad" en la música rock, vinculando directamente la música con la sensación de conducir.
 - En la presentación en vivo de KISS, el sonido de un motor Harley hizo eco con las llamas de fondo, brindando al público una experiencia como si el escenario mismo se hubiera transformado en una road movie estadounidense.
 
-Esto se hizo eco de la "cultura de la velocidad" estadounidense de la década de 1970, y el hard rock abrazó fuertemente a los automóviles y motocicletas como íconos simbólicos de la cultura popular.
+Esto se hizo eco de la "cultura de glorificación de la velocidad" de la década de 1970 en Estados Unidos, y el hard rock abrazó fuertemente a los automóviles y las motocicletas como íconos simbólicos de la cultura popular.
 
 ---
 
@@ -78,7 +78,7 @@ Para los fans, el sonido del motor en sí era "otro tipo de rock'n'roll".
 - **El rugido del motor V8** resuena con el riff de guitarra, dando al oyente una sensación de liberación física.
 - El sonido de un motor es "ruido incontrolado" y se superpone con el espíritu rebelde del rock, ya que altera el orden social y el silencio.
 
-El rugido de los coches y motocicletas al alejarse era en sí mismo una experiencia musical, una "rebelión a través del sonido" contra los valores existentes.
+El rugido de los coches y motocicletas que pasaban era una experiencia musical en sí misma, una "rebelión a través del sonido" contra los valores existentes.
 
 ---
 
@@ -155,7 +155,7 @@ Particularmente en Estados Unidos, la musicalidad de las bandas se ha vuelto má
 Por otro lado, en Europa y Japón se han desarrollado estilos que enfatizan el lirismo y la técnica, y el hard rock continúa simbolizando el "espíritu fuera de la ley que cambia con los tiempos".
 
 | Artista | Álbum | Año de lanzamiento | Características |
-|-------------|----------|---------|------|
+|--------------|----------|---------|------|
 | Guns N' Roses | Usa tu ilusión I y II | 1991 | Una obra maestra que combina hard rock y balada |
 | Metálica | Álbum negro | 1991 | Rompiendo los límites entre el metal y el rock con “Enter Sandman” |
 | Foo Fighters | El color y la forma | 1997 | Himno del rock de nueva generación tras el grunge |
@@ -168,7 +168,7 @@ Por otro lado, en Europa y Japón se han desarrollado estilos que enfatizan el l
 ## Lista de álbumes representativos
 
 | Artista | Álbum | Año de lanzamiento | Características |
-|-------------|----------|---------|------|
+|--------------|----------|---------|------|
 | Led Zepelín | Led Zeppelin IV | 1971 | Incluye “Escalera al Cielo”, Ser Mítico |
 | CA/CC | De nuevo en negro | 1980 | Himno inmortal del hard rock con ventas mundiales |
 | Púrpura profundo | Cabezal de máquina | 1972 | “Smoke on the Water” establece un riff clásico |

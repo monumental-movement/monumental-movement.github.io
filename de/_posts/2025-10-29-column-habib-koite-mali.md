@@ -47,7 +47,7 @@ color: #fff;
 ## Einführung:
 
 Ende des 20. Jahrhunderts begann die Musik des afrikanischen Kontinents in neuen Formen die Welt zu durchdringen. Während sich Fela Kuti aus Nigeria für „politischen Afrobeat“ einsetzte, startete Habib Koité aus Mali eine Revolution auf eine ruhigere Art und Weise.
-──Mit einer einzigen Gitarre reproduzierte er den Klang von Malis traditionellem Saiteninstrument „Kamalengoni“ und schuf mit der Band **Bamada** „Mali-Musik ohne Grenzen“.
+──Mit nur einer Gitarre hat er den Klang von Malis traditionellem Saiteninstrument „Kamarengoni“ nachgebildet und mit der Band „**Bamada**“ „Mali-Musik ohne Grenzen“ geschaffen.
 
 Seine Musik redet nicht über Politik. In dieser Ruhe liegt jedoch die **ethnische Würde und kulturelle Kontinuität**. Koité war ein „Übersetzer afrikanischer Ästhetik“ im Zeitalter der globalen Musik.
 
@@ -56,7 +56,7 @@ Seine Musik redet nicht über Politik. In dieser Ruhe liegt jedoch die **ethnisc
 ## Kapitel 1: Das musikalische Universum Malis
 
 Die Republik Mali ist ein Binnenstaat in Westafrika. In der Geographie, in der sich die Sahara und der Fluss Niger kreuzen, gibt es ein reiches kulturelles Erbe, das bis zum Mali-Reich im 13. Jahrhundert zurückreicht.
-Die Musik dieses Landes wurde von Griots (traditionellen Geschichtenerzählern/Musikern) geerbt. Ihre Rolle besteht nicht nur darin, Darsteller zu sein, sondern auch als **Bewahrer des nationalen Gedächtnisses**.
+Die Musik dieses Landes wurde von Griots = traditionellen Geschichtenerzählern/Musikern geerbt. Ihre Rolle besteht nicht nur darin, Darsteller zu sein, sondern auch als **Bewahrer des nationalen Gedächtnisses**.
 
 Bambara, Songhai, Tuareg, Peul, Dogon ... Jede ethnische Gruppe hat ihr eigenes Musikinstrumenten- und Melodiesystem, und die Rhythmen sind vielschichtig miteinander verflochten.
 Diese Vielfalt ist die „grundlegende Polyphonie“ der malischen Musik, und Koité hat die „Gitarre“ neu in den Mittelpunkt gestellt.
@@ -80,7 +80,7 @@ Der von dieser Gitarre erzeugte Klang lehnt die europäische Stimmung ab und ten
 Bamada ist die umgangssprachliche Bezeichnung für die Hauptstadt Bamako und bedeutet „Volk von Bamako“. Der Bandname selbst symbolisiert **eine Brücke zwischen Stadt und Folklore**.
 
 Bamadas Sound kombiniert ein westliches Bandformat (Gitarre, Bass, Schlagzeug, Percussion) mit traditionellen afrikanischen Instrumenten wie Balafon und Camalengoni.
-Koité forderte die Mitglieder auf, „verschiedene ethnische Rhythmen an den Tisch zu bringen“ und **die Vielfalt innerhalb Malis in ein Ensemble zu übersetzen**.
+Koité forderte die Mitglieder auf, „verschiedene ethnische Rhythmen auf den Tisch zu bringen“ und **die Vielfalt innerhalb Malis in ein Ensemble zu übersetzen**.
 
 ---
 
@@ -100,7 +100,7 @@ Nachdem Koité auf Weltmusikfestivals in Europa und den Vereinigten Staaten von 
 ## Kapitel 5: Malis Gitarrensprache
 
 Koités Gitarre ist nicht nur eine Begleitung, sondern eine „Erzählung“.
-Sein Spielstil zeichnet sich durch drei Merkmale aus:
+Sein Spielstil weist drei Merkmale auf:
 
 - 1. **Vielfalt in der Stimmung**: Ändern Sie die Stimmung entsprechend der Skala jeder ethnischen Gruppe (insbesondere Bambara, Peul usw.)
 - 2. **Koexistenz von Melodie und Rhythmus**: Die Melodielinie spielt gleichzeitig eine perkussive Rolle.

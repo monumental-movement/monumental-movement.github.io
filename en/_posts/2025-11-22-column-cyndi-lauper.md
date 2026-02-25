@@ -53,7 +53,7 @@ However, her mother loved the voice very much. This is because even in the midst
 
 # **3. Youth: Rebellious spirit and inclination towards art**
 
-In her adolescence, Cindy turned to the arts and tried anything creative, including painting and writing poetry. I tried to go to art school, but even there I couldn't adapt to the environment where I was obsessed with "rules" and "correct expression."
+In her adolescence, Cindy turned to art, painting, writing poetry, and trying anything creative. I tried to go to art school, but even there I couldn't adapt to the environment where I was obsessed with "rules" and "correct expression."
 
 Cyndi Lauper's life has a consistent theme. It is a strong will that says, ""I want to be myself.'' This will was honed when she was around the age of 20, moving around the crowded streets of New York.
 
@@ -182,7 +182,7 @@ This incident has been passed down as an episode that symbolizes Cindy's "abilit
 
 # **10. Late 80s to 90s: From pop star to artist**
 
-From the late '80s to the '90s, Cindy was torn between commercial success and a desire for artistic expression.
+From the late '80s to the '90s, Cindy oscillated between commercial success and a desire for artistic expression.
 
 ### **Hat Full of Stars (1993)**
 
@@ -204,7 +204,7 @@ In 2013, he was in charge of the lyrics and composition for the musical "Kinky B
 
 Originally, Cindy grew up not only as a singer, but also deeply influenced by expressive culture such as movies and theater. That came to fruition in the form of Broadway.
 
-In this work, she strongly conveys the message that it's okay to live your life the way you are. It is also her own life philosophy, and has received great support from the LGBTQ community.
+In this work, she strongly conveys the message that it's okay to live your life the way you are. This is also her own life philosophy, and has received great support from the LGBTQ community.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8pltkucgl5w?si=w1KxlxWJdT0hlFZh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -237,7 +237,7 @@ Now, younger generations are rediscovering Cindy through YouTube and TikTok, and
 
 <div class="mermaid">
 flowchart TD
-  A["1953 クイーンズに生まれる"] --> B["1970s Blue Angelで活動"]
+  A["1953 Born in Queens"] --> B["Active in the 1970s Blue Angel"]
   B --> C["1983 Solo Contract"]
   C --> D["1984 She"s So Unusual Big Hit"]
   D --> E["1985 We Are the World Participation"]

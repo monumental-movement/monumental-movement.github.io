@@ -21,7 +21,7 @@ title: VA – Maharaja 前 20 卷。三、
 非賣品
 
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. Maximizor Featuring Kam + Paula – I Like It (Give It To Me)
 2. Bass Expanders – Beats Go
@@ -45,7 +45,7 @@ title: VA – Maharaja 前 20 卷。三、
 20. King & Queen – He - Hey Dancin'
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m24287278460?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m24287278460?afid=6142608987){: .button1}
 
 #### 尤特布埃
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LKEWlU4rkxc?si=0kHSiG1bJjkIDNxC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

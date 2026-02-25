@@ -9,17 +9,17 @@ permalink: /ko/mk-burning/
 tags:
 - House
 - Anthem
-title: MK – 버닝
+title: MK – Burning
 ---
 
 
-MK(Marc Kinchen)는 디트로이트 출신의 음악 프로듀서/DJ/리믹서입니다. '버닝'은 MK의 걸작 중 하나이다.
+MK(Marc Kinchen/마크·킨첸)는, 디트로이트 출신의 음악 프로듀서/DJ/리믹서. Burning은 MK의 대표작 중 하나.
 
-Side A의 첫 번째 트랙은 네덜란드의 댄스 뮤직 프로듀서/DJ 팀인 Klubbheads의 리믹스입니다.
+A면 1곡째는, 네덜란드 출신의 댄스 뮤직 프로듀서/DJ팀 Klubbheads(클럽 헤드)에 의한 remix.
 
-B면의 첫 번째 곡은 독일에 거주하는 이란 출신 DJ/프로듀서 Sharam Jey의 리믹스입니다.
+B면 1곡째는 독일 거주 이란인 DJ/프로듀서 Sharam Jey에 의한 remix.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Burning (Klubbheads Burning Floor Mix)
 
@@ -32,5 +32,5 @@ B2. Burning (Flexy & DJ Kryptonite Club Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m33103665790?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rQiWFIAO52g?si=igTKMFwfJZOdRAi2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -31,7 +31,7 @@ Abandonando el dramatismo y la expresión emocional que ha perseguido la música
 Más bien, se ha transformado en un arte que nos permite escuchar el "tiempo y la estructura" mismos.
 "In C" de Terry Riley, "Piano Phase" de Steve Reich,
 Y "Einstein en la playa" de Philip Glass——
-Elevaron la repetición del sonido a una experiencia meditativa en lugar de aburrida.
+Elevaron la repetición del sonido a una experiencia meditativa en lugar de una experiencia aburrida.
 
 Con el tiempo, esta filosofía impregnó el mundo de la música electrónica.
 Al ritmo constante de TR-808 y 909,
@@ -110,7 +110,7 @@ Por ejemplo, la influencia del "ritmo sostenido" de Grass se puede ver en las co
 
 ### Minimalismo geométrico de Detroit
 **Minimal techno** fue creado por Derrick May, Jeff Mills, Robert Hood y otros.
-Era una "construcción mental" basada en la abstracción del ritmo.
+Era una "construcción mental" basada en la abstracción rítmica.
 "Minimal Nation" (1994) de Robert Hood se toca con la caja de ritmos TR-909.
 Creando tensión extrema a partir de patrones mínimos.
 
@@ -133,7 +133,7 @@ La repetición y la reverberación de baja frecuencia crearon una experiencia ac
 ## Capítulo 4: Rock y posminimalismo: de Brian Eno a Radiohead
 
 Música para aeropuertos de Brian Eno (1978)
-No sólo es el padre de la música ambiental, sino también el origen del "minimalismo estático".
+No es sólo el padre de la música ambiental, sino también el origen del "minimalismo estático".
 La superposición accidental de cintas en bucle amplió la línea de tiempo auditiva.
 
 Más tarde, en "Todo en su lugar correcto" de Radiohead (2000),
@@ -206,3 +206,10 @@ Incluso ahora continúa "experimentando con el sonido y el tiempo".
 ---
 
 
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CQAkF9_1-vg?si=zdouZOhFWeMB7Xev" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---

@@ -9,15 +9,15 @@ permalink: /ko/va-trance-lovers-2/
 tags:
 - Trance
 - 00s
-title: VA – 트랜스 연인 2
+title: VA – Trance Lovers 2
 ---
 
 
-트랜스 편집
+Transcompilation
 
-DJ Tomo가 믹스한
+Mixed By DJ Tomo
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Safri Duo – Baya-Baya (Future Breeze Radio Edit)
 2. Musiqu vs U2 – New Years Dub (Mauro Picotto Club Mix)

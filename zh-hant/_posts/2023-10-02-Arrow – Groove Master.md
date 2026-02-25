@@ -14,11 +14,11 @@ title: 箭頭 – Groove Master
 ---
 
 
-阿方索斯·卡塞爾（Alphonsus Cassell），也被稱為阿羅（Arrow），是一位蒙特塞拉特卡里普索和索卡音樂家，也是蒙特塞拉特第一位索卡巨星。他們 1982 年的歌曲“Hot Hot Hot”成為國際熱門歌曲。
+阿方索斯·卡塞爾（Alphonsus Cassell），也被稱為阿羅（Arrow），是一位蒙特塞拉特卡利普索和索卡音樂家，也是蒙特塞拉特第一位索卡巨星。他們 1982 年的歌曲“Hot Hot Hot”成為國際熱門歌曲。
 
 Side A Groove Master（Acid Soca House Dub）是一首在浩室音樂和俱樂部音樂愛好者中流行的歌曲。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Groove Master (Popstand Party Remix)
 
@@ -33,7 +33,7 @@ B2. Groove Master (LP Version)
 B3. Groove Master (Instrumental Remix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m10585219627?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m10585219627?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o71IO3wHuhU?si=rCeqXF7NvUZeKc3r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,17 +10,17 @@ tags:
 - Electronic
 - Techno
 - 00s
-title: 피곤 마르셀 데트만(Pigon Marcel Dettmann) - 캄 플레인(Kamm Plain)
+title: Pigon Marcel Dettmann – Kamm Plain
 ---
 
 
-Beatstreet 레이블이 2008년에 발매한 더블 A면 테크노 트랙입니다.
+2008년 라벨 Beatstreet에서 출시된 양 A면의 테크노 트럭.
 
-Side A는 Oliver Kargl과 Phillip Sollmann으로 구성된 듀오 Pigon의 테크노 트랙 "Kamm"입니다.
+A면은 Oliver Kargl과 Phillip Sollmann에 의한 듀오 Pigon에 의한 테크노 트랙 「Kamm」.
 
-B면은 Berghain의 상주 DJ이자 베를린 테크노 씬에 충실한 Marcel Dettmann의 테크노 트랙 "Plain"입니다.
+B면은 Berghain의 레지던트 DJ이며 베를린 테크노 씬의 중진 Marcel Dettmann(마르셀 데트만)에 의한 테크노트랙 「Plain」.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Pigon – Kamm
 
@@ -29,7 +29,7 @@ G. Marcel Dettmann – Plain
 
 [メルカリで購入](https://jp.mercari.com/item/m11143340200?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vNv7i9i02Uw?si=nL8_S1tgeoR7qPry" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kwf7o8CPiyk?si=8LCbX4JGXmOG1b31" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

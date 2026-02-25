@@ -19,7 +19,7 @@ title: '[Columna] Buchla y Serge: Otra genealogía de la acústica electrónica'
 ## “Introducción: ¿Qué es modular?”
 
 
-Texto: mmr | Tema: La historia espiritual de los sintetizadores modulares de la costa oeste. Cómo las ideas de Don Buchler y Serge Tocheny se han trasladado al diseño de sonido actual
+Texto: mmr | Tema: Historia espiritual de los sintetizadores modulares de la costa oeste. Cómo las ideas de Don Buchler y Serge Tocheny se han trasladado al diseño de sonido actual
 
 Principios de la década de 1970, costa oeste de Estados Unidos.
 Hubo personas que abandonaron el estudio de música electrónica de su universidad e intentaron llevar **un dispositivo para diseñar sonido** a sus espacios creativos personales.

@@ -16,7 +16,7 @@ title: VA – 那是 Eurobeat Vol。 22
 
 Italo-Disco/Hi-NRG/Eurobeat 合輯系列的第 22 部分，於 1990 年由 Alfa 廠牌發行。大西重成的插圖。
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. Radiorama –Why Baby Why (Megatron Dance)
 2. Mister Black –Brown (High Energy Edit)
@@ -35,7 +35,7 @@ Italo-Disco/Hi-NRG/Eurobeat 合輯系列的第 22 部分，於 1990 年由 Alfa 
 9.6.. F.C.F. –Black Mother
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m49204932410?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m49204932410?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ee7ZqR6cFU4?si=Rd0FX1Mkb2l1fLcB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

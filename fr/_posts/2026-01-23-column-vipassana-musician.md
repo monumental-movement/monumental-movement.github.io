@@ -22,7 +22,7 @@ title: '[Chronique] Musique et son de la conscience : le parcours des musiciens
 Texte : mmr｜Thème : Le moment où la musique et la méditation Vipassana se croisent – ​​sur le voyage intérieur des musiciens et l'approfondissement de leur créativité
 
 
-musique et méditation. À première vue, ces deux domaines semblent appartenir à des domaines complètement différents, mais tous deux nécessitent une observation intérieure profonde, une respiration et une concentration sur le rythme, et ils partagent un terrain commun qui favorise la sensibilité humaine.
+musique et méditation. À première vue, ces deux domaines semblent appartenir à des domaines complètement différents, mais tous deux nécessitent une profonde observation intérieure, une respiration et une concentration sur le rythme, et ils partagent un terrain commun qui favorise la sensibilité humaine.
 Parmi celles-ci, la **méditation Vipassana (Insight Meditation)** a été acceptée par des personnes du monde entier comme une technique permettant d'observer les pensées et les sensations telles qu'elles sont réellement.
 
 Cette chronique se concentre sur **des musiciens célèbres qui ont pratiqué et expérimenté la méditation Vipassana** et fournit une introduction factuelle sur la façon dont ils ont intégré la méditation dans leurs propres créations et vies.
@@ -46,16 +46,9 @@ color: #fff;
 
 
 
-
-
-
-
-
----
-
 ## Qu'est-ce que la méditation Vipassana ?
 
-> Vipassana est une ancienne méthode de méditation qui signifie « voir les choses telles qu'elles sont réellement » et est encore largement pratiquée aujourd'hui comme moyen de cultiver un esprit équilibré par l'auto-observation et la purification mentale. :contentReference[oaicite:2]{index=2}
+> Vipassana est une ancienne méthode de méditation qui signifie « voir les choses telles qu'elles sont réellement » et est encore largement pratiquée aujourd'hui comme moyen de cultiver un esprit équilibré par l'auto-observation et la purification mentale.
 
 La méditation Vipassana a ses racines dans la tradition bouddhiste, mais elle s’est répandue en tant que technique universelle distincte de la religion.
 Les bases consistent à **observer attentivement votre respiration et vos sensations corporelles, et à reconnaître le flux naturel des pensées et des émotions**.
@@ -98,7 +91,7 @@ Ce sont tous des exemples notables de la façon dont la méditation a eu une pro
 
 > Le musicien classique iranien Omid Lotfi Kamkar pratiquerait la méditation Vipassana depuis 1997 et est capable d'équilibrer sa performance avec la méditation.
 
-Omid Lotfi Kamkar est un artiste qui pratique la musique depuis son enfance et pratique la méditation Vipassana depuis environ 20 ans. :contentReference[oaicite:12]{index=12}
+Omid Lotfi Kamkar est un artiste qui pratique la musique depuis son enfance et pratique la méditation Vipassana depuis environ 20 ans.
 De cette manière, il existe des exemples où la relation entre la méditation et la musique est reconnue non seulement dans le rock occidental mais aussi dans le monde de la musique classique et du Moyen-Orient.
 
 ---
@@ -136,9 +129,9 @@ graph LR
 
 Concernant les pratiquants de la méditation Vipassana**
 Bien que peu de musiciens aient confirmé des preuves publiées dans le monde entier,
-**Il existe au moins des exemples comme Rivers Cuomo où les pratiques quotidiennes sont révélées. **
+**Il existe au moins des exemples comme celui de Rivers Cuomo où les pratiques quotidiennes sont révélées. **
 
-De nombreux autres artistes apprennent la méditation pour s’explorer soi-même, améliorer leur concentration et stabiliser leurs performances, et les liens entre l’industrie musicale et les praticiens de la méditation continueront probablement d’être un sujet d’intérêt à l’avenir.
+De nombreux autres artistes apprennent la méditation pour s’explorer, améliorer leur concentration et stabiliser leurs performances, et les liens entre l’industrie musicale et les praticiens de la méditation continueront probablement d’être un sujet d’intérêt à l’avenir.
 
 ---
 

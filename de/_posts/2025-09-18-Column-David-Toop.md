@@ -74,7 +74,7 @@ Für ihn war Musik wirklich eine „Klangkarte der Welt“.
 
 ---
 
-## 1990er Jahre – „Rap Attack“ und Kritik der urbanen Kultur
+## 1990er – „Rap Attack“ und Kritik der urbanen Kultur
 
 Rap Attack ist ein innovatives Buch, das nicht nur die Anfänge des Hip-Hop dokumentiert, sondern auch Musik, urbane Kultur und Medienphänomene miteinander verbindet.
 Etwa zur gleichen Zeit beschäftigte er sich mit Ambient und Jungle und engagierte sich aktiv in der Kulturkritik elektronischer Musik.
@@ -98,7 +98,7 @@ Auch seine Ambient-Werke präsentierten eine Welt aus sanften und diffusen Klän
 |------|----------------|------|
 | 2001 | Brian Eno – *Ambient 1: Musik für Flughäfen* (Neubewertung) | Überdenken der Beziehung zwischen der Umgebung und dem Hören als „treibender Klang“. |
 | 2004 | *Haunted Weather* | Kritik im Zusammenhang mit elektronischer Musik und meteorologischen Sensationen. |
-| Mitte der 2000er | Glitch-Musik wie Oval, Fennesz | Bekräftigt den „Mangel an Ton“ im digitalen Zeitalter als Ästhetik. |
+| Mitte der 2000er Jahre | Glitch-Musik wie Oval, Fennesz | Bekräftigt den „Mangel an Ton“ im digitalen Zeitalter als Ästhetik. |
 
 ---
 
@@ -106,7 +106,7 @@ Auch seine Ambient-Werke präsentierten eine Welt aus sanften und diffusen Klän
 
 In Werken wie „Sinister Resonance“ erforscht er Überlegungen zu „Dingen, die man nicht hören kann“ und „Nachhall“.
 Er hat seine Aktivitäten auf den Bereich der bildenden Kunst und der Klangkunst ausgeweitet und die Musikkritik in die räumliche und philosophische Praxis ausgeweitet.
-Anhand von Themen wie Erinnerung, Stille und Leerraum überdenkt er den Sinn des Ohrs von seinen Wurzeln her.
+Anhand von Themen wie Erinnerung, Stille und Leerraum überdenkt er den Sinn des Ohrs von seinen Wurzeln her neu.
 
 
 | Jahr | Ausgewählte Tonquellen/Künstler | Kommentar |
@@ -117,7 +117,7 @@ Anhand von Themen wie Erinnerung, Stille und Leerraum überdenkt er den Sinn des
 
 ---
 
-### Fazit – Genreloser Praktiker
+### Fazit – Genrelose Praktiker
 
 David Toops Werdegang ist eine ein halbes Jahrhundert andauernde Erkundung der Frage, wie man Musik hört.
 Jazz, Hip-Hop, Ambient, Klangkunst – er passt in keines davon, sondern erweitert die „Möglichkeiten des Klangs selbst“ immer weiter, indem er diese Grenzen überschreitet.
@@ -132,7 +132,7 @@ Jazz, Hip-Hop, Ambient, Klangkunst – er passt in keines davon, sondern erweite
   - [*Haunted Weather* (2004)](https://amzn.to/48lz4o3)
   - [*Sinister Resonance* (2010)](https://amzn.to/3Kd5l6N)
 
-- **Musikwerke**
+- **Musik funktioniert**
 - *Neue und wiederentdeckte Musikinstrumente* (mit Max Eastley, 1975)
 - *Screen Ceremonies* (1990)
 - *Museum of Fruit* (1996)

@@ -10,13 +10,13 @@ tags:
 - Disco
 - Garage
 - 00s
-title: 슈가베이브 – 소울사운드
+title: Sugababes – Soul Sound
 ---
 
 
-Sugar Babes의 EP "Soul Sound"의 첫 번째 B면은 Jakatta, Doug Willis, Raven Maize 및 Sessomatto로도 알려진 영국 DJ이자 하우스 음악 프로듀서인 Joey Negro라고도 알려진 Dave Lee의 리믹스입니다.
+슈가베이브스에 의한 EP '서울 사운드'의 B면 1곡째는 Jakatta, Doug Willis, Raven Maize, Sessomatto 명의로도 알려진 UK의 DJ 하우스 뮤직 프로듀서 Joey Negro와 Dave Lee의 remix.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Run For Cover (G4orce All Things Nice Dub)
 
@@ -29,5 +29,5 @@ B2. Soul Sound (Soulchild Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m76809877901?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f8dxzllKuNA?si=27ksw_8qhl9Am2Pw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

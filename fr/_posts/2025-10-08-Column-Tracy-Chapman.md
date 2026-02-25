@@ -17,7 +17,7 @@ title: '[Chronique] Tracy Chapman : Une époque où la voix de l''immobilité bo
 
 ## « Parler pour les sans voix »
 
-Texte : mmr | Thème : Tracy Chapman est une artiste rare qui a continué à chanter sur la justice sociale, la dignité humaine et la résistance silencieuse tout en croisant des éléments de folk, de soul et de blues.
+Texte : mmr｜Thème : Tracy Chapman est une artiste rare qui continue de chanter sur la justice sociale, la dignité humaine et la résistance silencieuse tout en croisant des éléments de folk, de soul et de blues.
 
 
 « Parler pour les sans voix » : c'est probablement l'un des mots les plus appropriés pour décrire la musique et la vie de Tracy Chapman.
@@ -63,7 +63,7 @@ Après avoir fréquenté les écoles locales, Chapman est entré à la Wooster S
 Il a ensuite transmis sa passion pour la musique et la littérature à l'Université Tufts, où il a étudié l'art et les sciences humaines tout en poursuivant sa carrière musicale.
 On dit que pendant ses années universitaires, ses activités quotidiennes comprenaient des spectacles en direct sur le campus, des performances d'improvisation avec des amis et la fusion de la poésie et de la musique.
 
-Les interactions qu’il a eues avec les personnes qu’il a rencontrées au cours de cette période – amis universitaires, amis musiciens locaux et seniors de la scène folk – sont devenues la base de réseaux créatifs ultérieurs et d’une compréhension mutuelle.
+Les interactions qu'il a eues avec les personnes qu'il a rencontrées au cours de cette période - amis universitaires, amis musiciens locaux et seniors de la scène folk - sont devenues la base de réseaux créatifs ultérieurs et d'une compréhension mutuelle.
 
 ---
 
@@ -86,7 +86,7 @@ Un forum d'atelier d'enregistrement déclare :
 > "Deux microphones, deux compresseurs et 5 égaliseurs… il a fallu un équilibrage minutieux pour que le chant solo ou la guitare solo sonnent seuls, mais ensemble, ils ont fusionné comme par magie."
 
 En d’autres termes, plutôt que d’enregistrer le chant et la guitare séparément, une approche a été adoptée pour les mélanger tout en conservant un sentiment de synchronisation et d’atmosphère.
-Ils ont envisagé d'utiliser une DI (entrée directe) pour la guitare, mais la technologie de l'époque présentait un risque élevé de bruit et de déphasage, ils se sont donc concentrés sur l'amélioration de l'enregistrement du microphone.
+Ils ont envisagé d'utiliser la DI (entrée directe) pour la guitare, mais la technologie de l'époque présentait un risque élevé de bruit et de déphasage, ils se sont donc concentrés sur l'amélioration de l'enregistrement du microphone.
 
 De plus, Chapman a déclaré publiquement qu'au début de la production, il avait développé la chanson en utilisant du papier, un stylo et un magnétophone portable, plutôt que de s'appuyer sur des ordinateurs ou des équipements numériques.
 Cette méthode a probablement été choisie pour préserver la fraîcheur de la création.
@@ -128,7 +128,7 @@ Elle cite les chanteurs de gospel, de soul et de folk comme ses influences music
 Les versions live et enregistrées de « Talkin' 'bout a Revolution » utilisent souvent une légère réverbération en arrière-plan, permettant au chant et à la guitare de se fondre dans l'espace.
 Afin d'utiliser l'espace blanc dans les paroles, les sons excessifs sont évités et le mixage est conscient de la "pause". Cette idée est possible parce que ses chansons ont un caractère qui s'apparente à « parler aux gens ».
 
-De plus, en termes de technologie d'enregistrement, l'égalisation est souvent choisie pour laisser les contours des médiums-basses clairs, sans superposer le chant ou la guitare de manière trop épaisse. Cela donne à l’auditeur l’illusion que la voix lui parvient directement.
+De plus, en termes de technologie d'enregistrement, l'égalisation est souvent choisie pour laisser les contours des médiums et des graves clairs, sans superposer le chant ou la guitare de manière trop épaisse. Cela donne à l’auditeur l’illusion que la voix lui parvient directement.
 
 ---
 
@@ -173,15 +173,15 @@ Chapman a continué à publier des versions sélectionnées dans les années 200
 Bien qu'il ait changé de musicalité et de style d'accompagnement dans *Telling Stories* de 2000, *Let It Rain* de 2002, *Where You Live* de 2005 et *Our Bright Future* de 2008, il a toujours maintenu un sentiment de spontanéité et de douceur.
 
 Pour *Where You Live*, elle a elle-même participé à la production et aurait eu une influence sur la conception sonore.
-De plus, elle utilise rarement le streaming, proposant plutôt ses œuvres sur CD et vinyle. Il s'agit de l'expression de la position de l'entreprise consistant à « protéger les moyens par lesquels les artistes peuvent être équitablement récompensés ». :
+De plus, elle utilise rarement le streaming, proposant plutôt ses œuvres sur CD et vinyle. Il s'agit d'une expression de la position de l'entreprise consistant à « protéger les moyens par lesquels les artistes peuvent être équitablement récompensés ». :
 
 ---
 
 ### ● Relations humaines/amitié/présence publique
 Chapman est connue pour ne pas faire beaucoup d'apparitions publiques, mais pour cette raison, l'interaction et les relations de confiance qu'elle entretient avec ses collègues et co-stars ont soutenu son expérience en production.
-Par exemple, certaines informations indiquent qu'il serait un ami proche de la romancière Alice Walker et qu'ils auraient eu une relation pendant un certain temps, mais il n'a pas rendu publics les détails de sa vie privée.
+Par exemple, certaines informations indiquent qu'il est un ami proche de la romancière Alice Walker et qu'ils ont eu une relation pendant un certain temps, mais il n'a pas rendu publics les détails de sa vie privée.
 
-De plus, leur interprétation de « Fast Car » aux Grammys 2024 symbolisait leur lien musical intergénérationnel avec Luke Combs.
+De plus, sa performance de « Fast Car » aux Grammys 2024 symbolisait son lien musical intergénérationnel avec Luke Combs.
 Le processus de négociation pour cette étape aurait été prudent, les Grammys ayant adopté une approche mettant l'accent sur la confiance et évitant de mettre trop de pression sur elle.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pLfH9HSUyf4?si=xIapcYqmaMISuyS1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -209,7 +209,7 @@ De plus, des performances live et des reconfigurations en sessions acoustiques c
 ---
 
 ### ● Résonance avec la technologie acoustique : optimisation pour les environnements d'écoute modernes
-Streaming, sources sonores haute résolution, haut-parleurs intelligents, environnements de casque : l'environnement musical du 21e siècle se diversifie et les conditions d'écoute des auditeurs deviennent plus complexes.
+Streaming, sources sonores haute résolution, enceintes intelligentes, environnements de casques : l'environnement musical du 21e siècle se diversifie et les conditions d'écoute des auditeurs deviennent plus complexes.
 Parmi celles-ci, les chansons de Chapman ont un haut niveau de pureté qui élimine les fréquences inutiles, on peut donc analyser que la conception permet à sa voix d'être entendue dans n'importe quel environnement.
 
 Par exemple, l'égalisation pour garder les médiums clairs, le mixage pour éviter une amplification excessive des graves et la suppression de la réverbération et du traitement spatial - autant de facteurs qui permettent à ses chansons de ne pas se fondre dans le bruit.
@@ -220,7 +220,7 @@ De plus, l'approche consistant à mettre l'accent sur la « sensation live » da
 
 ## Chapitre final : Une lumière silencieuse qui éclaire les ténèbres
 
-Les chansons de Tracy Chapman sont toujours composées de la trinité « colère tranquille », « regard rapproché » et « distance poétique ».
+Les chansons de Tracy Chapman sont toujours constituées de la trinité « colère tranquille », « regard rapproché » et « distance poétique ».
 elle ne crie pas à haute voix. Cependant, chaque mot pénètre lentement dans le cœur de l’auditeur.
 
 Ce qu’elle laisse derrière elle n’est ni une scène tape-à-l’œil ni une production excessive.

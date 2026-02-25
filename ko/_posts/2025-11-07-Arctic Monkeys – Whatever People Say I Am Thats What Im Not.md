@@ -11,15 +11,15 @@ tags:
 - Indie Rock
 - Rock
 - 00s
-title: 악틱 몽키스(Arctic Monkeys) – 사람들이 나를 뭐라고 하든 그건 내가 아니다
+title: Arctic Monkeys – Whatever People Say I Am, That's What I'm Not
 ---
 
 
-악틱 몽키스는 2002년 결성된 영국 셰필드 출신의 록 밴드이다. 악틱 몽키스는 인터넷을 통해 세간의 주목을 받은 '블로그 록(Blog Rock)' 시대를 대표하는 그룹이다.
+Arctic Monkeys(아크틱 원숭이)는 2002년에 결성된 잉글랜드 셰필드 출신의 록 밴드. 아크틱 몽키스는 인터넷을 통해 세간의 주목을 받은 '블로그 록' 시대의 대표격.
 
-이번 앨범은 2006년 레이블 도미노가 발매한 데뷔 정규 앨범이다.
+이 앨범은 2006년 라벨 Domino에서 발표된 데뷔 스튜디오 앨범.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. The View From The Afternoon
 2. I Bet You Look Good On The Dancefloor
@@ -38,5 +38,5 @@ title: 악틱 몽키스(Arctic Monkeys) – 사람들이 나를 뭐라고 하든
 
 [メルカリで購入](https://jp.mercari.com/item/m72866996796?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pK7egZaT3hs?si=gqjos97Utn1Hjnin" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

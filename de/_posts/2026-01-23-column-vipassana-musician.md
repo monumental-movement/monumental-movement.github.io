@@ -22,12 +22,12 @@ title: '[Kolumne] Musik und der Klang des Bewusstseins: Die Reise von Musikern, 
 Text: mmr｜Thema: Der Moment, in dem sich Musik und Vipassana-Meditation kreuzen – über die innere Reise von Musikern und die Vertiefung ihrer Kreativität
 
 
-Musik und Meditation. Auf den ersten Blick scheinen diese in völlig unterschiedlichen Bereichen angesiedelt zu sein, aber beide erfordern eine tiefe innere Beobachtung, Atmung und Konzentration auf den Rhythmus, und sie haben eine gemeinsame Basis, die die menschliche Sensibilität fördert.
+Musik und Meditation. Auf den ersten Blick scheinen diese in völlig unterschiedlichen Bereichen angesiedelt zu sein, aber beide erfordern eine tiefe innere Beobachtung, Atmung und Konzentration auf den Rhythmus und sie haben eine gemeinsame Basis, die die menschliche Sensibilität fördert.
 Unter diesen wird die **Vipassana-Meditation (Einsichtsmeditation)** von Menschen auf der ganzen Welt als eine Technik zur Beobachtung von Gedanken und Empfindungen, wie sie wirklich sind, akzeptiert.
 
 Diese Kolumne konzentriert sich auf **berühmte Musiker, die Vipassana-Meditation praktiziert und erlebt haben** und bietet eine faktenbasierte Einführung, wie sie Meditation in ihre eigenen Kreationen und Leben integriert haben.
 
-> Vipassana-Meditation wird seit der Antike als Meditationsmethode weitergegeben, um „die Dinge so zu sehen, wie sie wirklich sind“, und in der heutigen Zeit tauchen viele Praktizierende nicht nur unter Sportlern und Managern, sondern auch unter kreativen Künstlern auf.
+> Vipassana-Meditation wird seit der Antike als Meditationsmethode weitergegeben, um „die Dinge so zu sehen, wie sie wirklich sind“, und in der heutigen Zeit tauchen viele Praktizierende nicht nur unter Sportlern und Führungskräften in der Wirtschaft auf, sondern auch unter kreativen Künstlern.
 
 ---
 
@@ -46,16 +46,9 @@ color: #fff;
 
 
 
-
-
-
-
-
----
-
 ## Was ist Vipassana-Meditation?
 
-> Vipassana ist eine alte Meditationsmethode, die bedeutet, „die Dinge so zu sehen, wie sie wirklich sind“, und wird auch heute noch häufig praktiziert, um durch Selbstbeobachtung und geistige Reinigung einen ausgeglichenen Geist zu kultivieren. :contentReference[oaicite:2]{index=2}
+> Vipassana ist eine alte Meditationsmethode, die bedeutet, „die Dinge so zu sehen, wie sie wirklich sind“, und wird auch heute noch häufig praktiziert, um durch Selbstbeobachtung und geistige Reinigung einen ausgeglichenen Geist zu kultivieren.
 
 Die Vipassana-Meditation hat ihre Wurzeln in der buddhistischen Tradition, hat sich jedoch als universelle Technik unabhängig von der Religion weit verbreitet.
 Die Grundlagen sind **sorgfältiges Beobachten Ihrer Atmung und Körperempfindungen sowie das Erkennen des natürlichen Gedanken- und Gefühlsflusses**.
@@ -98,7 +91,7 @@ Dies sind alles bemerkenswerte Beispiele dafür, wie Meditation einen tiefgreife
 
 > Der iranische klassische Musiker Omid Lotfi Kamkar soll seit 1997 Vipassana-Meditation praktizieren und ist in der Lage, seinen Auftritt mit Meditation in Einklang zu bringen.
 
-Omid Lotfi Kamkar ist ein Künstler, der sich seit seiner Kindheit der Musik widmet und seit etwa 20 Jahren Vipassana-Meditation praktiziert. :contentReference[oaicite:12]{index=12}
+Omid Lotfi Kamkar ist ein Künstler, der sich seit seiner Kindheit der Musik widmet und seit etwa 20 Jahren Vipassana-Meditation praktiziert.
 Auf diese Weise gibt es Beispiele, in denen die Beziehung zwischen Meditation und Musik nicht nur im westlichen Rock, sondern auch in der Welt der nahöstlichen und klassischen Musik anerkannt wird.
 
 ---

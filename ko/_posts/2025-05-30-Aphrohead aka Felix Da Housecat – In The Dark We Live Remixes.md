@@ -11,17 +11,17 @@ tags:
 - Techno
 - Acid
 - 90s
-title: Aphrohead 일명 Felix Da Housecat – In The Dark We Live (리믹스)
+title: Aphrohead aka Felix Da Housecat – In The Dark We Live (Remixes)
 ---
 
 
-Aphrohead는 시카고 하우스의 2세대 전설인 Felix Da Housecat의 별칭입니다.
+Aphrohead는 시카고 하우스의 2세대 하우스 레전드Felix Da Housecat의 별명의.
 
-"In The Dark We Live (Remixes)"는 벨기에 레이블 Re-load Records가 1994년에 발매한 테크노 애시드 트랙입니다.
+「In The Dark We Live (Remixes)」는 1994년에 벨기에의 라벨 Re-load Records에서 릴리스된 테크노 어시드 트랙.
 
-A면과 B면의 첫 번째 트랙은 "Techno Baron"(John Peel의 이름)으로 알려진 영국 일렉트로닉 댄스 음악 DJ이자 프로듀서인 Dave Clarke의 리믹스입니다.
+A면 1곡째와 B면은 "테크노 남작"(John Peel이 명명)의 이명을 가진 UK 일렉트로닉 댄스 뮤직 DJ, 프로듀서 Dave Clarke (데이비드 클락)에 의한 remix.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 Logo Side
 
@@ -36,5 +36,5 @@ B. In The Dark We Live (Dave Clarks 313 Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m60815233637?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1xHa1OhEVgc?si=HxygP-FiynNRzY6Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

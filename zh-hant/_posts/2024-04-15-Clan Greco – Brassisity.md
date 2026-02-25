@@ -20,21 +20,21 @@ Clan Greco是由Neffa e Sud Sound System製作人和聯合製作人Ricky Rinaldi
 
 貝斯手：克里斯蒂安·利斯
 
-鼓：羅伯托·龐齊奧、羅伯托·羅西
+鼓：羅伯托龐齊奧、羅伯托羅西
 
-鍵盤：大師加羅法洛、米歇爾·特羅貝蒂
+鍵盤：大師加羅法洛、米歇爾特羅貝蒂
 
-薩克斯管：奇科·蒙蒂菲奧里
+薩克斯風：奇科·蒙蒂菲奧裡
 
 小號：馬西莫·格雷科
 
-演唱：西爾維婭·多納蒂
+演唱：西爾維亞·多納蒂
 
-製片人 Massimo Greco、Ohm Guru
+製片 Massimo Greco、Ohm Guru
 
-聯合製片人：黃銅復仇者
+聯合製片：黃銅復仇者
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Fast Salsa
 
@@ -61,7 +61,7 @@ D2. Free Bossa
 D3. Full Funk
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m65234589421?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m65234589421?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LxDli9S5iKQ?si=qB-NlJXbDH_BJZcf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

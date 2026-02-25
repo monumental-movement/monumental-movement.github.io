@@ -113,7 +113,7 @@ Nous recherchions « un son qui change la nature de l'espace, pas seulement pour
 
 ---
 
-# **2-2. Midori Takada - Musique du temps et de l'espace dessinée par des instruments à percussion**
+#**2-2. Midori Takada - Musique du temps et de l'espace dessinée par des instruments à percussion**
 
 Midori Takada (1951–) est mondialement reconnu en tant que percussionniste et compositeur japonais.
 
@@ -149,7 +149,7 @@ Après récidive, le patient a été réévalué à l'étranger.
 
 ---
 
-#**2-4. Inoyama Land - Pastoralisme et description paysagère des sons électroniques**
+# **2-4. Inoyama Land - Pastoralisme et description paysagère des sons électroniques**
 
 Le duo « Inoyamaland » composé de Yasushi Yamashita et Makoto Inoue possède un style unique qui se situe à cheval entre la techno pop et la musique environnementale.
 
@@ -267,7 +267,7 @@ graph LR
 
 # **Chapitre 8 : Résumé - Pourquoi la musique environnementale japonaise captive le monde**
 
-La musique environnementale japonaise n’est pas seulement une « guérison » ou un « bruit de fond ».
+La musique environnementale japonaise n’est pas seulement une « guérison » ou un « fond sonore ».
 **Art sonore créé par la culture urbaine, le design et la philosophie de la vie**
 C'est.
 

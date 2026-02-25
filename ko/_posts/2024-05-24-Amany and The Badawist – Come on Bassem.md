@@ -11,20 +11,20 @@ tags:
 - Egypt
 - African
 - Lebanon
-title: Amany & The Badawist - 어서, Bassem
+title: Amany & The Badawist – Come on, Bassem
 ---
 
 
-"Come on, Bassem"은 레바논 레이블 Badawist Phone에서 발매한 카세트 테이프입니다.
-Amany로도 알려진 Angel Nabil Ayyoub은 레바논 출신의 댄서이자 안무가입니다.
+「Come on, Bassem」은, 레바논의 라벨 Badawist Phone로부터 릴리스된 카세트 테이프.
+Amany (아마니)과 Angel Nabil Ayyoub는 레바논 출신의 댄서 겸 안무가.
 
-프로듀서 - 나지 디아
+프로듀서 – Nazih Dia
 
-보컬 – 만 알 아미르
+보컬 – Maan Al-Amir
 
-편곡 - 바셈 야즈베크
+어레인지 Bassem Yazbek
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1.  بدويست 
 Budweit

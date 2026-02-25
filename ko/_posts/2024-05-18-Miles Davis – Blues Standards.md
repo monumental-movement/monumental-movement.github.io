@@ -10,23 +10,23 @@ tags:
 - Jazz
 - Jazz Funk
 - Rare
-title: 마일스 데이비스 – 블루스/표준
+title: Miles Davis – Blues / Standards
 ---
 
 
-1988년에 발표된 마일즈 데이비스의 4개 카세트 편집물 중 하나입니다. 테이프는 크롬 테이프입니다.
+1988년에 발표된 마일스 데이비스의 4개 카세트 편집 중 하나. 테이프는 크롬 테이프.
 
-G-1과 G-5의 피아노는 Keith Jarrett입니다.
+G-1과 G-5의 piano는 Keith Jarrett(키스 자렛트).
 
-G-2와 H-1의 색소폰은 Bill Evans입니다.
+G-2와 H-1의 Sax는 Bill Evans(빌 에반스).
 
-G-2와 G-3의 베이스는 Darryl Jones입니다.
+G-2와 G-3의 bass는 Darryl Jones(다릴 존스)
 
-G-1, G-5, H-2의 베이스는 Michael Henderson입니다.
+G-1, G-5와 H-2의 bass는 Michael Henderson(마이클 헨더슨).
 
-G-2와 H-1의 드럼은 Al Foster입니다.
+G-2와 H-1의 드럼은 Al Foster(알 포스터).
 
-#### 트랙리스트
+#### Tracklist
 ```md
 G-1. Sivad
 G-2. What It Is
@@ -41,5 +41,5 @@ H-3. Miles Runs The Voodoo Down
 
 [メルカリで購入](https://jp.mercari.com/item/m19052626222?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dbZ-bvbwz18?si=YsDclY54GYIPT8qC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

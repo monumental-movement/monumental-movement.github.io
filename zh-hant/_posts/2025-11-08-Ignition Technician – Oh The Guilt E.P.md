@@ -19,7 +19,7 @@ Ignition Technician 是一支技術製作團隊，由來自英國利茲的 Pete 
 
 《噢，罪惡 E.P》是 2002 年由 Ignition Technician 經營的唱片公司 Ignition Records 發行的一首 Techno 曲目。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Oh The Guilt
 
@@ -27,7 +27,7 @@ B1. Slunk
 B2. Funka
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m80225784956?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m80225784956?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f7JJnn1J8PU?si=2F2Ih7jowIiUXR54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

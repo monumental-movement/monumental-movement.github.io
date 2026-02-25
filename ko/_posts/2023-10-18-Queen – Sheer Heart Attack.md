@@ -8,14 +8,14 @@ layout: post
 permalink: /ko/queen-sheer-heart-attack/
 tags:
 - Rock
-title: 퀸 – 순전히 심장 마비
+title: Queen – Sheer Heart Attack
 ---
 
 
-"Sheer Heart Attack"은 퀸의 세 번째 앨범이다.
-퀸과 로이 토마스 베이커가 프로듀싱했습니다. 존 디콘이 작곡한 곡들이 수록되기 시작한 것도 이 앨범부터다.
+'Sheer Heart Attack'은 Queen(퀸)의 3번째 앨범.
+프로듀서는 Queen과 Roy Thomas Baker(로이 토마스 베이커). 또 John Deacon이 만든 곡이 수록되기 시작한 것도 이 앨범에서.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Brighton Rock
 A2. Killer Queen
@@ -35,5 +35,5 @@ B7. In The Lap Of The Gods...Revisited
 
 [メルカリで購入](https://jp.mercari.com/item/m74402889880?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-4kS_PBbn_0?si=BsjLW1vDg9IGh_h1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

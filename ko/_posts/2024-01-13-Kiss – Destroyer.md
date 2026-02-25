@@ -10,16 +10,16 @@ tags:
 - Rock
 - Hard Rock
 - 80s
-title: 키스 – 디스트로이어
+title: Kiss – Destroyer
 ---
 
 
-키스의 육군 오브 지옥(Kiss's Army of Hell)은 키스의 네 번째 정규 앨범으로, 키스의 시그니처 곡인 '디트로이트 록 시티', 'Scream of Madness', '라이진', '베스' 등이 수록되어 있다.
+키스의 지옥 군단은 대표곡 '디트로이트 록 시티', '광기의 외침', '뇌신', '베스' 등이 수록된 키스 4번째 스튜디오 앨범.
 
-프로듀서는 앨리스 쿠퍼(Alice Cooper) 등과 함께 작업한 밥 에즈린(Bob Ezrin)입니다.
+프로듀서는 앨리스 쿠퍼 등을 다룬 밥 에즐린.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Detroit Rock City（デトロイト・ロック・シティ ）
 
@@ -42,5 +42,5 @@ B5. Do You Love Me（ドゥ・ユー・ラヴ・ミー ）
 
 [メルカリで購入](https://jp.mercari.com/item/m24161536760?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_VkUL9a-ngI?si=EDGCfMKUKFLKNqtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

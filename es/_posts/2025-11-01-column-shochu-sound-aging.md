@@ -18,7 +18,7 @@ title: '[Columna] Shochu cultivado por el sonido: La armonía de la fermentació
 ## Prólogo: En la isla del sonido de las olas y shochu
 
 
-Texto: mmr｜Tema: Un experimento realizado en Amami Oshima para favorecer el envejecimiento del shochu haciéndolo escuchar música. Explorando su base científica y trasfondo cultural.
+Texto: mmr｜Tema: Un experimento realizado con Amami Oshima para favorecer el envejecimiento del shochu haciéndolo escuchar música. Explora su base científica y trasfondo cultural.
 
 
 Amami Oshima, el punto más lejano de las Islas Nansei.
@@ -147,7 +147,7 @@ Ese día se acerca.
 | Años | Eventos |
 |------|---------|
 | 1600 | Comienza el cultivo de caña de azúcar en Amami |
-| 1800 | Comienza la producción de shochu local utilizando azúcar moreno como materia prima |
+| 1800 | Inicio de la producción de shochu local utilizando azúcar moreno |
 | 1949 | Devolución de las islas Amami a Japón, aprobación especial del "shochu de azúcar moreno" |
 | 2005 | Comienza la primera prueba de shochu envejecido acústicamente de Amami Oshima |
 | 2008 | Universidad de Kagoshima inicia investigación científica sobre maduración acústica |

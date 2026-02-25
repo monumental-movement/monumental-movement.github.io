@@ -37,5 +37,5 @@ Este álbum, lanzado por EMI en 1991, es el décimo álbum de estudio de Kraftwe
 
 [Comprar en Mercari](https://jp.mercari.com/item/m24338824694?afid=6142608987){: .button1}
 
-#### Youtube
+#### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cbPc_Iu8JLA?si=OfpNSIXukiVUrSWW" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -90,7 +90,7 @@ En particulier, travailler au **Cold Storage Studio** (un studio expérimental c
 
 #### « Santé et efficacité » (1980)
 
-- **"Santé et Efficacité"** : Bien que le titre semble positif à première vue, les paroles sont pleines de phrases ironiques sur la "crise énergétique" et "le mythe sanitaire de la société industrielle". Un hymne ironique qui reprend un slogan de la guerre froide et le renverse.
+- **"Santé et Efficacité"** : Bien que le titre semble positif à première vue, les paroles sont pleines de phrases ironiques sur la "crise énergétique" et "le mythe sanitaire de la société industrielle". Un hymne ironique qui prend un slogan de la guerre froide et le renverse.
 
 ---
 
@@ -100,7 +100,7 @@ Le meilleur travail du groupe. Le thème entier est **la peur et les mensonges (
 - **"Sleep"** : Les paroles ressemblant à une berceuse chuchotant "dors en paix" sont en fait ironiques car "le monde s'effondre pendant que tu dors".
 - **"Cénotaphe"** : Titre faisant référence au Cénotaphe. Un réquisitoire contre la folie de l’humanité, qui se souvient et répète les guerres.
 - **"Un ​​nouveau type d'eau"** : Nouvelle eau = contamination radioactive. Une métaphore des essais nucléaires et de la guerre nucléaire.
-- **"Independence"** : Il crie l'indépendance et la liberté, mais les paroles sont pleines de contradictions. Critique la fiction du nationalisme.
+- **"Independence"** : Il crie à l'indépendance et à la liberté, mais les paroles sont pleines de contradictions. Critique la fiction du nationalisme.
 
 #### « Rendu disponible (séances de peeling) » (1983)
 
@@ -176,10 +176,10 @@ flowchart TD
 ### Conclusion
 
 - **Interprétation lyrique** : This Heat critique la guerre froide à la fois sur le plan lyrique et sonore.
-- **Philosophie d'enregistrement de Cunningham** : utilise des équipements tels que Revox, Studer et EQ comme « dispositif métaphorique politique ».
+- **Philosophie d'enregistrement de Cunningham** : utilise des équipements tels que Revox, Studer et EQ comme « dispositifs métaphoriques politiques ».
 - **Importance historique de la musique expérimentale** : au-delà du post-punk, elle est directement liée aux fondements de la culture moderne d'échantillonnage/DAW et même à la production musicale IA.
 
-Leur musique est toujours un groupe d'œuvres qui devraient être réévaluées comme « enregistrement = critique = expérience ».
+Leur musique est toujours un ensemble d'œuvres qui devraient être réévaluées comme « enregistrement = critique = expérience ».
 
 David Cunningham lui-même était plus qu’un simple innovateur post-punk excentrique ; il était un innovateur dans le domaine de la technologie d'enregistrement. La musique de Heat, qui utilise des équipements tels que Revox et Studer et présente des paroles et des structures sonores critiques de la guerre froide, n'aurait pas été possible sans sa manipulation de bandes et son montage multipiste.
 

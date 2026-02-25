@@ -9,20 +9,20 @@ permalink: /zh-hant/pickup-punk-hardcore/
 tags:
 - Punk
 - Hardcore
-title: 挑選朋克/硬核作品
+title: 挑選龐克/硬核作品
 ---
 
 
-“這是一組非凡的朋克/硬核作品，體現了混亂和激情，並尖銳地切入了時代氛圍。”
+“這是一組非凡的龐克/硬核作品，體現了混亂和激情，並尖銳地切入了時代氛圍。”
 
 <小時>
 
 ### 鼻煙 – Flibbiddydibbiddydob
-<a href="https://jp.mercari.com/item/m21120251672?afid=6142608987"><img src="../assets/images/Snuff%20%E2%80%93%20Flibbiddydibbiddydob.webp"></a>
+<a href="https://jp.mercari.com/item/m21120251672?afid=6142608987"><img src="../assets/images/Snuff%20%E2%80%93%20Fliiddydidiid">dydob.webp</bbid">
 
-英國朋克樂隊翻唱的 EP。最初於 1990 年發布，於 1996 年重新發布
+英國龐克樂團翻唱的 EP。最初於 1990 年發布，於 1996 年重新發布
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Rods & Mockers
 A2. Do Nothing
@@ -39,7 +39,7 @@ B6. In Sickness & In Health
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m21120251672?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m21120251672?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -47,13 +47,13 @@ B6. In Sickness & In Health
 
 <小時>
 
-### 幫派 - Barricada Rumble Beat
+### 幫 - Barricada Rumble Beat
 <a href="https://jp.mercari.com/item/m64968588416?afid=6142608987"><img src="../assets/images/The%20Gang%20%E2%80%93%20Barricada%20Rumble%20Beat.webp"></a>
 
 
-意大利朋克樂隊的作品。來自英國的比利·布拉格 (Billy Bragg) 部分參與的罕見作品。
+義大利龐克樂團的作品。來自英國的比利·布拉格 (Billy Bragg) 部分參與的罕見作品。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Goin’ To The Crossroads
 A2. Blue Message
@@ -70,18 +70,18 @@ B5. Bad News From Swing Street
 B6. Not For Sale
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m64968588416?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m64968588416?afid=6142608987){: .button1}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uIEjRm21s9c?si=CZzwJ3KN13rGYC09" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <小時>
 
-### Rytmihairiov/阿門——進化的終結……即將來臨
+### Rytmihairiov/阿門－進化的終結…即將來臨
 <a href="https://jp.mercari.com/item/m23657412972?afid=6142608987"><img src="../assets/images/RytmihairiovAmen%20%E2%80%93%20The%20End%20Of%20Evolution...%20...Is%20Round%20The%20Corner.webp"></a>
 
-芬蘭硬核/激流樂隊
+芬蘭硬蕊/激流樂隊
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. They
 A2. How Much Longer
@@ -108,7 +108,7 @@ B11. Spice-Song
 
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m23657412972?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m23657412972?afid=6142608987){: .button1}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QPqPvrnNB1c?si=BhCSsU2LP2Tnrs6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -117,9 +117,9 @@ B11. Spice-Song
 ### 摩擦力——摩擦力
 <a href="https://jp.mercari.com/item/m28248906619?afid=6142608987"><img src="../assets/images/Friction%20%E2%80%93%20%E8%BB%8B%E8%BD%A2.webp"></a>
 
-1980 年日本先鋒朋克樂隊 Friction 發行的 CD
+1980 年日本先鋒龐克樂團 Friction 發行的 CD
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. A-Gas
 2. オートマチック・フラ 
@@ -133,14 +133,14 @@ B11. Spice-Song
 10. Out
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m28248906619?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m28248906619?afid=6142608987){: .button1}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CCiVZYQpJr0?si=axUznw0EJG8JEibJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <小時>
 
 
-### 列表
+### 清單
 
 <div class="table-border">
 <table>

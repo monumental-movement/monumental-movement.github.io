@@ -10,13 +10,13 @@ permalink: /ko/no-artist-an-audio-obstacle-course-shure-trackability-test-record
 tags:
 - Technical
 - Non-Music
-title: 아티스트 없음 – 오디오 장애물 코스 - Shure 추적성 테스트 기록
+title: No Artist – An Audio Obstacle Course - Shure Trackability Test Record
 ---
 
 
-"아티스트 없음 - 오디오 장애물 코스 - Shure 추적 가능성 테스트 기록"은 1967년 Shure에서 출시되었습니다.
+1967년 Shure에서 출시되었습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Introduction
 

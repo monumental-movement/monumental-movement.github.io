@@ -91,7 +91,7 @@ This led to the following trends:
 
 * Individual developers publish sound sources/effects, and you can enjoy new sounds/processing just by downloading and incorporating them.
 * Users began to take on the challenge of ""how far they could create circuits" and ""how much experimental sound could they get."
-* People who create experimental works that cross musical genres are increasingly choosing Buzz as a "tool."
+* There has been an increase in the number of cases in which people who create experimental works that cross musical genres choose Buzz as a "tool."
 
 ### 3.4 Lightweight, immediate, and superior as an experimental environment
 
@@ -247,7 +247,7 @@ To put it another way, the existence of Buzz has broken down the stereotype that
 Below is a chronology of Buzz's history/major events.
 
 | Year | Events |
-| ------------ | ------------------------------------------------------------------------- |
+| ------------ | ------------------------------------------------------------------- |
 | Around 1997 | Jeskola Buzz published. Introduced as a modular tracker for Windows.                                |
 | 1998 | Initial version activates user community. Many plugins/machines have appeared.                                    |
 | 1999 | Widespread use among demo scenes and indie electronic music.                                                 |

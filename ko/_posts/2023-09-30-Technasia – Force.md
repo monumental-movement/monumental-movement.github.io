@@ -8,17 +8,17 @@ layout: post
 permalink: /ko/technasia-force/
 tags:
 - Techno
-title: 테크나시아 – 포스
+title: Technasia – Force
 ---
 
 
-Technasia의 "Force"는 테크노 찬가라고 할 수 있습니다.
+이 Technasia에 의한 「Force」는 테크노의 앙셈이라고 해도 좋을 것입니다.
 
-"Force"는 이 전형적인 Technasia 트랙을 특별하게 만드는 보컬이 포함된 훌륭한 클래식입니다.
+"Force"는 보컬이이 전형적인 Technasia 트랙을 특별하게 만들고 훌륭한 클래식이되었습니다.
 
-뒷면의 브레이크비트 믹스를 확인해 보세요. 들어볼 가치가 있습니다.
+뒷면의 브레이크 비트 믹스도 꼭 체크하면 듣는 가치가 있습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Force
 

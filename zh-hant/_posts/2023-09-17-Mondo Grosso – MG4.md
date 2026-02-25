@@ -13,11 +13,11 @@ title: 蒙多格羅索 – MG4
 ---
 
 
-日本俱樂部音樂以大澤伸一的爵士樂、靈魂樂和巴西音樂為基礎，採用現場樂器和 2Step 舞曲節拍精心編排。
+日本俱樂部音樂以大澤伸一的爵士樂、靈魂樂和巴西音樂為基礎，以現場樂器和 2Step 舞曲節拍精心編排。
 
 還包括當時熱門的《Life》和《Butterfly》，其中以 Bird 為主角。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1  MG2SS
 
@@ -44,7 +44,7 @@ F1  Star Suite IIII. North Star
 F2  1974-Way Home
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m82949922453?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m82949922453?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MTlbFVhh7Fw?si=otIP4cO1gTdZ2LcR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

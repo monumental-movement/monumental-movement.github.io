@@ -10,13 +10,13 @@ tags:
 - Rock
 - Progressive
 - 7inch
-title: 지구와 불 - 계절
+title: Earth and Fire - Seasons
 ---
 
 
-Earth & Fire는 네덜란드 Voorchoten/Vorburg 출신의 팝 록 밴드입니다. 1969년 발매된 'Seasons'는 Earth & Fire의 대표곡이다.
+Earth & Fire(어스 앤 파이어)는 네덜란드, 폴스호텐/폴버그 출신의 팝 록 밴드. 1969년 릴리스의 「Seasons(시즌즈)」는 Earth & Fire의 대표곡.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Seasons = シーズン
 
@@ -25,5 +25,5 @@ B. Hazy Paradise = 霧のパラダイス
 
 [メルカリで購入](https://jp.mercari.com/item/m85479592073?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0v4Gx9_0nq4?si=V2prhoGrGwQqxkdL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

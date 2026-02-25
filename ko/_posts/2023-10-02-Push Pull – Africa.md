@@ -10,13 +10,13 @@ tags:
 - House
 - Tribal
 - Minimal
-title: 푸시 풀 - 아프리카
+title: Push Pull – Africa
 ---
 
 
-"Push/Pull-Africa"는 일렉트로 전설 NEWCLEUS의 중심 인물인 BEN CENAC(COZMO D/Maurice Cenac)이라는 이름으로 Deep End 레이블이 1990년에 발표한 부족 하우스 레코드입니다.
+「Push/Pull-Africa」는 일렉트로 레전드 NEWCLEUS의 중심 인물 BEN CENAC(COZMO D/Maurice Cenac)의 별명의로, 1990년에 Deep End 레이블이 릴리즈 된 트라이벌 하우스 레코드.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Africa
 
@@ -27,5 +27,5 @@ B2. Africa (Future Primitive)
 
 [メルカリで購入](https://jp.mercari.com/item/m43922737030?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GoZQgoZA4dA?si=Cctx7HaWBSrQaSp5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

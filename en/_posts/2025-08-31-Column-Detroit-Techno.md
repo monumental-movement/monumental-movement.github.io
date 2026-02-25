@@ -22,7 +22,7 @@ Detroit techno is ""electronic music with a human touch'' that was born from the
 
 ### Origins and Definition — When and Who Called it "Techno"?
 
-In the early 1980s in Detroit, electronic dance music that made full use of synths and rhythm machines grew.
+In Detroit in the early 1980s, electronic dance music that made full use of synths and rhythm machines grew.
 
 Led by Juan Atkins, Derrick May, and Kevin Saunderson (not the so-called "Berlin trio" but the "Detroit trio"), they presented a sonic aesthetic that was different from the existing "electro" and "house," and it became established as "techno."
 
@@ -55,7 +55,7 @@ The line between DJ and producer was blurred, and the songs were refined through
 
 <hr>
 
-### Main characters and "signature songs"
+### Main characters and "representative songs"
 
 #### **Juan Atkins / Cybotron / Model 500**
 
@@ -95,7 +95,7 @@ One of Jeff Mills' masterpieces, ""The Bells,'' has sold over 500,000 copies wor
 
 Diverse generations followed, including Richie Hawtin (a second generation whose later work bridged the gap between Detroit and the international scene).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JKPScOuCkws?si=Jnj_0pWQz950yOZv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xk81Oty1a-U?si=ehXcCwf_TWvv1H9D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 

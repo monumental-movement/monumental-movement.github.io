@@ -58,7 +58,7 @@ In ihrer Jugend wandte sich Cindy der Kunst zu und versuchte alles Kreative, ein
 
 Das Leben von Cyndi Lauper hat ein einheitliches Thema. Es ist ein starker Wille, der sagt: „Ich möchte ich selbst sein.“ Dieser Wille wurde geschärft, als sie etwa 20 Jahre alt war und durch die überfüllten Straßen von New York zog.
 
-Während dieser Zeit trug sie einzigartige Modekombinationen in Secondhand-Läden und auf Flohmärkten. Die „einzigartige und farbenfrohe Mode“, die später auf den Markt kam, entstand zum Teil, weil sich die Menschen in der Armut keine neuen Artikel leisten konnten.
+Während dieser Zeit trug sie einzigartige Modekombinationen in Secondhand-Läden und auf Flohmärkten. Die „einzigartige und farbenfrohe Mode“, die später bekannt wurde, entstand zum Teil, weil die Menschen es sich in der Armut nicht leisten konnten, neue Artikel zu kaufen.
 
 Die Wurzeln der Musik sind Soul, Blues, Rock und Musicals. Die Stadt New York war für sie die beste „kostenlose Musikhochschule“.
 
@@ -114,7 +114,7 @@ Mit dem Aufstieg von MTV traten wir in eine Ära ein, in der Bilder die Musik be
 
 ---
 
-## **7-1. Tauchen Sie tief in repräsentative Songs ein**
+## **7-1. Ein tiefer Einblick in repräsentative Songs**
 
 ### **Mädchen wollen einfach nur Spaß haben**
 
@@ -135,7 +135,7 @@ Es heißt, dass sich in dem Lied die Gefühle einer Zeit widerspiegeln, in der d
 
 ### **She Bop**
 
-Für die damalige Zeit war es ein sehr kühnes Lied, ein Popsong über Sexualität.
+Es war für seine Zeit ein sehr gewagtes Lied, ein Popsong über Sexualität.
 
 ---
 
@@ -150,7 +150,7 @@ Es gibt drei Gründe.
 2. **Die Wärme ihrer Persönlichkeit**
 3. **Besondere Affinität zu Japan**
 
-Sie genießt jedes Mal, wenn sie Japan besucht, japanisches Essen und freundet sich schnell mit den Mitarbeitern vor Ort an. During the 1994 Japan tour, when he heard that there was a fan with a disability in the audience, he took time after the stage to meet him in person.
+Sie genießt jedes Mal, wenn sie Japan besucht, japanisches Essen und freundet sich schnell mit den Mitarbeitern vor Ort an. Als er während der Japan-Tournee 1994 hörte, dass sich im Publikum ein Fan mit einer Behinderung befand, nahm er sich nach der Bühne Zeit, um ihn persönlich zu treffen.
 
 Darüber hinaus wurde das Album „Shine“ aus dem Jahr 2001 nur in Japan veröffentlicht. Dies soll eine Möglichkeit gewesen sein, „den japanischen Fans etwas zurückzugeben“.
 
@@ -168,7 +168,7 @@ Währenddessen verursacht Cindy einen „Zwischenfall“.
 
 ### **Ein Vorfall, bei dem ein Zubehörteil das Mikrofon traf und Lärm verursachte**
 
-Die zahlreichen Accessoires, die sie um den Hals trug, trafen das Mikrofon und verursachten ein klapperndes Geräusch.
+Die große Menge an Accessoires, die sie um den Hals trug, traf das Mikrofon und verursachte ein klapperndes Geräusch.
 
 Ingenieur: „Was ist das für ein Geräusch?“
 Quincy Jones: „Cindy, kannst du... das nehmen?“
@@ -201,7 +201,7 @@ Cindy legte keinen Wert darauf, „erfolgreiche Formen zu wiederholen“ und leg
 
 # **12. Herausforderung am Broadway: Gewinnt den Tony Award für „Kinky Boots“**
 
-2013 war er für den Text und die Komposition des Musicals „Kinky Boots“ verantwortlich, das ihm den Tony Award für den besten Originalsong einbrachte.
+2013 war er für Text und Komposition des Musicals „Kinky Boots“ verantwortlich und gewann den Tony Award für den besten Originalsong.
 
 Ursprünglich wuchs Cindy nicht nur als Sängerin auf, sondern war auch stark von der Ausdruckskultur wie Film und Theater beeinflusst. Dies wurde in Form des Broadway verwirklicht.
 

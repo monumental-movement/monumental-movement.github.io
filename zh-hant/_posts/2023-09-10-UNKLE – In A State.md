@@ -11,7 +11,7 @@ tags:
 - House
 - Progressive
 - Remix
-title: UNKLE——處於一種狀態
+title: UNKLE－處於一種狀態
 ---
 
 
@@ -25,16 +25,16 @@ title: UNKLE——處於一種狀態
 
 Sasha 的這首混音版尤其以其電子音樂元素和獨特的節奏而聞名。
 
-UNKLE的歌曲受到了廣大樂迷的支持，是最受歡迎的樂隊之一，尤其是在電子音樂愛好者中。
+UNKLE的歌曲受到了廣大樂迷的支持，是最受歡迎的樂團之一，尤其是在電子音樂愛好者中。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. In A State (Sasha Remix)
 
 B. In A State (Album Version)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m76870494810?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m76870494810?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_aZ7MLvaO2U?si=c90K8CISqlZW6PXr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

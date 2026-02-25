@@ -14,19 +14,19 @@ title: Dubstep 작품 픽업
 ---
 
 
-``페스티벌의 주요 매력이 된 폭발적인 베이스 라인을 갖춘 놀라운 덥스텝 작품 컬렉션입니다.''
+"페스의 주역으로 뛰어오른 폭발하는 기준선의 충동, 주목할 만한 Dubstep 작품군"
 
 <hr>
 
-### Benga & Walsh Vs Darqwan – 중독자 / Megatection
+### Benga & Walsh Vs Darqwan – Addicts / Megatection
 <a href="https://jp.mercari.com/item/m84498913064?afid=6142608987"><img src="../assets/images/Benga%20and%20Walsh%20Vs%20Darqwan%20%E2%80%93%20Addicts%20Megatection.webp"></a>
 
-특징 : 각기 다른 접근 방식을 가진 세 사람이 각 면을 담당해 양면적인 구성이 매력적인 작품이다.
+특징 : 다른 접근법을 가진 3 명이 각면을 담당하는 양극 모두 매력있는 구성 중 하나입니다.
 
 
-이유: Benga의 베이스 깊이, Walsh의 그루브, Darqwan의 독창성이 각 트랙에서 빛을 발합니다.
+매력 : Benga의베이스 깊이, Walsh의 그루브, Darqwan의 독창성이 각 트랙에 빛납니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Benga & Walsh–Addicts
 
@@ -37,21 +37,21 @@ B. Darqwan–Megatection
 [メルカリで購入](https://jp.mercari.com/item/m84498913064?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FCIYKNWvztw?si=P3q1mAbq-tkP1Dl5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
 
-### 제드 바이어스 – 매복 리딤 우주 지뢰밭
+### Zed Bias – Ambush Riddim Cosmic Minefield
 <a href="https://jp.mercari.com/item/m24563380376?afid=6142608987"><img src="../assets/images/Zed%20Bias%20%E2%80%93%20Ambush%20Riddim%20Cosmic%20Minefield.webp"></a>
 
 
-특징 : 2000년대 덥스텝 초기를 상징하는 스타일이 강하게 반영되어 있으며, 비트의 강인함과 베이스의 깊이가 돋보이는 부분입니다.
+특징 : 00년대 Dubstep 여명기를 상징하는 스타일이 짙게 반영되어 있어 비트의 강인함과 베이스의 깊이가 듣는 곳.
 
-매력: Zed Bias의 사운드 디자인은 당시 영국 일렉트로닉 씬의 최첨단에서 느껴지는 구조감과 장난기를 결합합니다. 짜릿한 리듬과 미래지향적인 공간 묘사가 콘텐츠와 공존해 소장가치도 높다.
+매력 : Zed Bias의 사운드 디자인은 당시의 UK 일렉트로닉 씬의 첨단을 느끼게 하는 구축성과 장난기를 겸비하고 있습니다. 스릴 넘치는 리듬과 미래의 공간 묘사가 공존한 내용으로, 컬렉터즈 피스로서도 가치가 있습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Ambush Riddim
 
@@ -62,23 +62,23 @@ B. Cosmic Minefield
 [メルカリで購入](https://jp.mercari.com/item/m24563380376?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YIDIKaYJzQQ?si=OVLz4gBdZFxRPVMz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
 
 
-### 거리 – 야간 투시경 교통(리믹스)
+### Distance – Night Vision Traffic (Remixes)
 <a href="https://jp.mercari.com/item/m41976267806?afid=6142608987"><img src="../assets/images/Distance%20%E2%80%93%20Night%20Vision%20Traffic%20(Remixes).webp"></a>
 
 
-특징: 덥스텝 씬 탄생부터 선두를 지켜온 디스턴스(Distance), 스크림(Skream), 일본을 대표하는 고스-트라드(Goth-Trad)의 조합은 꿈의 콜라보레이션이다.
+특징 : Dubstep의 탄생기부터 장면을 견인해 온 Distance, Skream, 그리고 일본을 대표하는 Goth-Trad의 조합은 바로 꿈의 공연.
 
 
-매력 : Skream은 원곡의 본질을 살린 '파괴적인 비트'인 반면, Goth-Trad는 어둡고 질감 중심으로 재구성한 것으로, 한 앨범에 담긴 전혀 반대되는 사운드 이미지라고 할 수 있다. 이 아이템은 클래식으로서 큰 가치를 지니고 있으며 아날로그 매니아와 DJ들로부터 높은 수요를 보이고 있습니다.
+매력：Skream은 원곡의 에센스를 살린 「파괴적인 비트」, Goth-Trad는 암흑적이고 텍스처 중시의 재구축이라고 하는, 정반대라고도 말할 수 있는 음상이 1장에 들어가 있습니다. 클래식으로서의 가치가 높고, 아날로그 애호가나 DJ로부터의 수요도 높은 아이템입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Night Vision (Skream's 'So Nasty' Version)
 
@@ -89,20 +89,20 @@ B. Traffic (Goth-Trad Remix)
 [メルカリで購入](https://jp.mercari.com/item/m41976267806?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O5spVczGPJA?si=J6aFlCLkltJ4LQDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
 
-### Skrillex – 무서운 괴물과 멋진 스프라이트
+### Skrillex – Scary Monsters And Nice Sprites
 <a href="https://jp.mercari.com/item/m86556698095?afid=6142608987"><img src="../assets/images/Skrillex%20%E2%80%93%20Scary%20Monsters%20And%20Nice%20Sprites.webp"></a>
 
-특징: Skrillex의 이름을 전 세계적으로 확립한 EP이며, 특히 "Scary Monsters And Nice Sprites"는 덥스텝을 주류로 끌어올린 기념비적인 작품으로 평가됩니다.
+특징: 본작은 Skrillex의 이름을 세계적으로 확립한 EP로, 특히 "Scary Monsters And Nice Sprites"는 Dubstep를 메인 스트림에 밀어 올린 금자탑이라고도 불립니다.
 
-Appeal : Noisia, Zedd, Bare Noize 등 유명 프로듀서들의 리믹스를 수록해, 각 아티스트 관점에서 곡의 새로운 매력을 끌어낸다.
+매력 : Noisia, Zedd, Bare Noize 등 제일선의 프로듀서들에 의한 리믹스가 수록되어 있어, 각각의 아티스트 시점으로부터 악곡의 새로운 매력이 끌어내지고 있습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Rock N' Roll (Will Take You To The Mountain)
 2. Scary Monsters And Nice Sprites
@@ -119,23 +119,23 @@ Appeal : Noisia, Zedd, Bare Noize 등 유명 프로듀서들의 리믹스를 수
 [メルカリで購入](https://jp.mercari.com/item/m86556698095?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iIyE3EDCigE?si=-xd56PahPgXj-IkV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
 
-### Aquasky – 나일론 로드스터 우주 접착제
+### Aquasky – Nylon Roadster Cosmic Glue
 <a href="https://jp.mercari.com/item/m84434801659?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Nylon%20Roadster%20Cosmic%20Glue.webp"></a>
 
 
-특징: 1996~97년 Moving Shadow 레이블로 발매된 이 앨범은 지나치게 재즈적인 사운드에서 벗어나 부드럽고 감성적인 피아노 섹션이 특징인 '부드러운' 브레이크비트를 제공합니다. 마치 자장가처럼 잔잔한 느낌이 들고, 덥스텝과 비슷한 묵직한 베이스의 질감도 느낄 수 있습니다.
+특징 : 1996-97 년에 Moving Shadow 라벨에서 출시 된이 작품은 너무 지저분한 소리에서 벗어나 부드럽고 감정적인 피아노 섹션을 특징으로 "부드러운"브레이크 비트를 제공합니다. 마치 자장가처럼 기분 좋게, Dubstep에 통하는 중후한 베이스의 질감도 느껴집니다.
 
 
-매력: 덥스텝의 어둡고 깊은 베이스라인과 비트를 좋아하는 분들이 듣기 좋은 앨범입니다.
+매력: Dubstep의 어둡고 깊이 있는 베이스라인이나 비트감을 좋아하는 분에게 있어서, 청취가 있는 1장입니다.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 X. Nylon Roadster
 
@@ -146,7 +146,7 @@ Y. Cosmic Glue
 [メルカリで購入](https://jp.mercari.com/item/m84434801659?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I-__29FDWnA?si=z_1b6MSIf5ltVj4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>

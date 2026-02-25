@@ -10,18 +10,18 @@ tags:
 - Tech House
 - House
 - 00s
-title: 케이핸드 – 살사파이드
+title: K Hand – Salsafied
 ---
 
 
-K: Kelli Hand로도 알려진 Hand는 디트로이트 출신의 테크노 하우스 뮤지션이자 DJ입니다. 1990년대 그녀는 남성이 지배하는 테크노와 일렉트로닉 음악계를 대표하는 흑인 여성 중 한 명으로 알려져 '디트로이트 테크노의 영부인'으로 불렸다. 그는 2021년 세상을 떠날 때까지 계속해서 음악을 창작했다.
+K : Hand Kelli Hand(켈리 핸드)는 디트로이트 출신의 테크노하우스 뮤지션 DJ. 1990년대 남성 우위였던 테크노 일렉트로닉 뮤직 장면에서 활약한 흑인 여성의 제일인자로 알려져 '디트로이트 테크노의 퍼스트 레이디'라고 불렸다. 2021년에 타계할 때까지 음악 제작을 계속했다.
 
-2016년에는 Jeff Mills, Juan Atkins, Derrick May, Kevin Sanderson 등 다른 일렉트로닉 뮤지션들과 함께 Spirit of Detroit Award를 수상했습니다.
+2016년에는 제프 밀스, 후안 앳킨스, 데릭 메이, 케빈 샌더슨 등 다른 일렉트로닉 뮤지션과 함께 디트로이트 스피릿상을 수상했다.
 
-"Salsafied"는 독일 레이블 Ausfahrt가 2000년에 발매한 테크 하우스 앨범입니다.
+Salsafied는 2000년 독일 라벨 Ausfahrt에서 발표된 테크하우스 하우스 앨범.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Be Right There (Orig)
 2. So Special
@@ -39,5 +39,5 @@ K: Kelli Hand로도 알려진 Hand는 디트로이트 출신의 테크노 하우
 
 [メルカリで購入](https://jp.mercari.com/item/m40094738865?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AJ6TE0Mh_lc?si=4KaeY9bmIGR6u4r5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -13,9 +13,9 @@ title: PNAU – 野草莓 EP
 ---
 
 
-PNAU 是由 Nick Littlemore 和 Peter Mayes 組建的澳大利亞電子舞曲樂隊。
+PNAU 是由 Nick Littlemore 和 Peter Mayes 組成的澳洲電子舞曲樂團。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Wild Strawberries [Extended Mix]
 
@@ -24,7 +24,7 @@ B1. No More Violence [Extended Mix]
 B2. We Have Tomorrow [Extended Mix]
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m56119602273?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m56119602273?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nd58wUq0gsM?si=fdf4f5_12M3JoS6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

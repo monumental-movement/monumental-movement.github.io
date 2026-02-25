@@ -9,14 +9,14 @@ permalink: /ko/patrick-bernhardt-atlantis-angelis/
 tags:
 - New Age
 - Ambient
-title: 패트릭 베른하르트 - 아틀란티스 안젤리스
+title: Patrick Bernhardt – Atlantis Angelis
 ---
 
 
-"Atlantis Angelis"는 캐나다 레이블 "Imagine Records"가 발매한 패트릭 베른하르트(Patrick Bernhardt)의 앨범 카세트 테이프입니다.
+'Atlantis Angelis'는 캐나다 라벨 'Imagine Records'에서 출시된 Patrick Bernhardt의 앨범 카세테 테이프입니다.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Le Chant De L'universel/The Song Of The Universal Light
 
@@ -39,5 +39,5 @@ B3. Transcendastral Voyage
 
 [メルカリで購入](https://jp.mercari.com/item/m83639772653?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rz-WzRuR0dY?si=VYZ5pxbQVXQFHNrs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

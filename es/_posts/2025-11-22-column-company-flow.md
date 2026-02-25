@@ -166,7 +166,7 @@ El ritmo de El-P se destaca de las siguientes maneras en comparación con el boo
 
 Lo que sustenta la totalidad de "Funcrusher Plus" es una estética que enfatiza la "tensión" sobre el "placer".
 
-### ● scratch del DJ Sr. Len
+### ● DJ Sr. Len's Scratch
 
 Se colocan rayas afiladas en toda la mezcla, reforzando la sensación dura del ritmo.
 
@@ -191,7 +191,7 @@ La canción que tuvo una influencia particularmente grande aquí fue "El fuego e
 **Grabado: "Funcrusher Plus" (1997)**
 Esta canción se conoce como una canción que simboliza el mensaje de Company Flow.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rrUn2Qf3UXI?si=ez3YLxIa9fEDVal4" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rrUn2Qf3UXI?si=ez3YLxIa9fEDVal4" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
@@ -216,7 +216,7 @@ Se compone de metáforas elaboradas y expresiones abstractas.
 ## ● Composición de sonido
 
 * Bajo bajo y gruñido
-* bucle de muestra siniestro
+* Bucle de muestra siniestro
 * Ruido de sintetizador intermitente
 * Percusión detallada con MPC chop
 * Una mezcla de texturas frescas en todas partes.
@@ -232,7 +232,7 @@ Se compone de metáforas elaboradas y expresiones abstractas.
 * Contenidos que simbolizan el hip-hop underground de finales de los 90.
 * Se pueden ver muchos elementos prototipo de trabajos posteriores de Def Jux (Cannibal Ox, etc.).
 
-Se dice que "Funcrusher Plus" estableció "el underground como una ideología" en torno a esta canción.
+Se dice que "Funcrusher Plus" estableció una "ideología clandestina" en torno a esta canción.
 
 ---
 
@@ -262,7 +262,7 @@ Eliminando el rap, la estética beat de El-P pasa a primer plano.
 
 ### ● Ampliación de la experimentación
 
-* Elimina los gritos de DJ.
+* Elimina el grito de DJ
 * BPM, estructura y número de capas son más complejos que antes
 * Aumento de elementos electrónicos.
 * Mezcla de texturas Lo-Fi y Hi-Fi
@@ -386,7 +386,7 @@ Esto llevó a artistas experimentales como
 ## ● 4. “Estética antisistema” que perdura hasta nuestros días
 
 Las canciones, incluida “El fuego en el que ardes”,
-Desde los años 1990 se ocupa de temas como el poder, la vigilancia y la guerra de la información.
+Se ocupa de temas como el poder, la vigilancia y la guerra de la información desde los años 1990.
 Presentó una perspectiva que sigue siendo relevante incluso después de más de 20 años.
 
 ---

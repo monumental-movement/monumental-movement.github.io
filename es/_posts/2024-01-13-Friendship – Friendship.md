@@ -32,7 +32,7 @@ Obtuvo una licenciatura en composición en 1972. Mientras asistía a la escuela,
 
 Luego realizó una gira con artistas como Johnny Mathis, Michel Legrand y Henry Mancini, antes de mudarse a Los Ángeles en 1976 y comenzar una carrera discográfica de estudio de múltiples géneros.
 
-Ha actuado y grabado con numerosos artistas de jazz, entre ellos George Benson, Larry Carlton, The Crusaders, Ella Fitzgerald, Dave Grusin, Herbie Hancock, Freddie Hubbard, Al Jarreau, John Kremer, the Manhattan Transfer, Joe Pass, Joe Sample, Lalo Schifrin, Diane Schur, Sarah Vaughan, Joe Zawinul y otros.
+Ha actuado y grabado con numerosos artistas de jazz, entre ellos George Benson, Larry Carlton, The Crusaders, Ella Fitzgerald, Dave Grusin, Herbie Hancock, Freddie Hubbard, Al Jarreau, John Kremer, Manhattan Transfer, Joe Pass, Joe Sample, Lalo Schiffrin, Diane Schur, Sarah Vaughan, Joe Zawinul y otros.
 
 También grabó con la banda Friendship con Lee Ritenour, Ernie Watts y Alex Acuna, y continúa actuando y grabando con Lee y Dave Grusin, lanzando trabajos en GRP Records.
 

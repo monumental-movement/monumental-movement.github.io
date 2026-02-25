@@ -207,7 +207,7 @@ In seinen späteren Jahren wuchs Jamals Ruf von einem „Meister“ zu einer „
 
 ## Abschluss
 
-Ahmad Jamal war nicht nur ein „erfahrener Jazzpianist“, sondern ein Innovator, der die Struktur des Jazz grundlegend veränderte.
+Ahmad Jamal war nicht nur ein „begabter Jazzpianist“, sondern ein Innovator, der die Struktur des Jazz grundlegend veränderte.
 
 - Wie man mit Platz umgeht
 - Das Trio neu definieren
@@ -219,3 +219,10 @@ Durch diese Bemühungen gilt Jamal als eine der wichtigsten Persönlichkeiten, d
 
 ---
 
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2a6-t7qfxoU?si=LqrvHHoTBnBoNsCJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

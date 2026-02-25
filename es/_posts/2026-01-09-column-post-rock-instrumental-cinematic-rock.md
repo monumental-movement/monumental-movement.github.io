@@ -50,7 +50,7 @@ color: #fff;
 
 El término "post-rock" se estableció a mediados de los años 1990. Comenzó a usarse para describir música que utiliza instrumentación de rock pero que se distancia de los riffs derivados del blues, el enfoque vocal y las estructuras de canciones formuladas. Este concepto no hacía referencia a un sonido concreto, sino a una actitud o metodología.
 
-El trasfondo se encuentra en las múltiples culturas musicales que se han acumulado desde la década de 1970. La repetición y los cambios mínimos que exhibe la música minimalista, la idea de música ambiental presentada por el ambient, la actitud deconstructiva provocada por el post-punk e incluso la sensación de procesamiento espacial en el dub y la música electrónica. El post-rock se formó como resultado de su intersección con el contexto rocoso.
+El trasfondo se encuentra en las múltiples culturas musicales que se han acumulado desde la década de 1970. La repetición y los cambios sutiles que exhibe la música minimalista, la idea de música ambiental presentada por el ambient, la actitud deconstructiva provocada por el post-punk e incluso la sensación de procesamiento espacial en el dub y la música electrónica. El post-rock se formó como resultado de su intersección con el contexto rocoso.
 
 Lo importante es que el post-rock no fue una "negación del rock". Si bien se mantuvo la formación de guitarra, bajo y batería, sus roles se redefinieron. La guitarra se convirtió en un dispositivo para crear sonidos y texturas sostenidos en lugar de crear riffs, y la batería pasó de ser un dispositivo para establecer ritmos a uno que controlaba el flujo del tiempo y la tensión.
 
@@ -98,11 +98,11 @@ La razón por la que su música se ha utilizado en tantas producciones de vídeo
 
 ---
 
-## ¡Buena suerte! Black Emperor: Un grupo que talla la sociedad y el tiempo
+## ¡Que te vaya bien! Black Emperor: Un grupo que talla la sociedad y el tiempo
 
 ¡Que te vaya bien! Black Emperor es un colectivo musical que comenzó en Montreal a finales de los años 1990. Tiene un fuerte carácter de composición colectiva fluida más que de composición de miembros fijos, y se caracteriza por una gran composición que utiliza múltiples guitarras, bajos, baterías, instrumentos de cuerda y grabaciones de campo.
 
-Su trabajo se aleja mucho del marco de un típico álbum de rock. La pieza es larga y estructurada como múltiples movimientos, alternando silencio y ruido, melodía y caos. A menudo no hay ganchos o resoluciones claras, lo que requiere paciencia y concentración por parte del oyente.
+Su trabajo se aleja mucho del marco de un típico álbum de rock. La pieza es larga y estructurada como múltiples movimientos, alternando silencio y ruido, melodía y caos. Las canciones a menudo no tienen un estribillo o una resolución claros, lo que requiere paciencia y concentración por parte del oyente.
 
 ¡Qué buena suerte te! Black Emperor presentado fue un intento de registrar el tiempo social e histórico en sonidos más que en sentimientos personales. Los sonidos, anuncios y narrativas fragmentadas de la ciudad evocan una sensación colectiva de ansiedad y tensión en lugar de manifestar un mensaje específico.
 
@@ -161,7 +161,7 @@ Esta tendencia no es una ruptura abrupta, sino que puede entenderse como un cont
 
 Actualmente, el post-rock instrumental y el rock cinematográfico se han consolidado como métodos expresivos más que como nombres de géneros específicos. Su estructura sigue siendo referenciada en diferentes contextos como videos, juegos e instalaciones.
 
-¡Dos direcciones establecidas por Explosions in the Sky y Godspeed You! Black Emperor todavía sirve como punto de referencia creativo. La música sin palabras continúa conectando con las propias experiencias del oyente, trascendiendo épocas y culturas.
+¡Dos direcciones establecidas por Explosions in the Sky y Godspeed You! Black Emperor todavía sirve como punto de referencia creativo. La música, que no tiene palabras, sigue conectando con las propias experiencias del oyente, trascendiendo épocas y culturas.
 
 > La música instrumental post-rock seguirá creando nuevas historias a través del silencio y el tiempo.
 

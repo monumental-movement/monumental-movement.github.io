@@ -28,9 +28,9 @@ title: 拾取環境作品
 
 形式：限量200張專輯（黑膠唱片）
 
-特點：深溝與空間音景相結合的作品
+特色：深溝與空間音景結合的作品
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Blanx
 A2. Elect Burns
@@ -42,7 +42,7 @@ B2. Equalizer
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m64740020390?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m64740020390?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -55,7 +55,7 @@ B2. Equalizer
 
 
 ### 時空連續體 – 發射 Ecaps
-<a href="https://jp.mercari.com/item/m12946322168?afid=6142608987"><img src="../assets/images/Spacetime%20Continuum%20%E2%80%93%20Emit%20Ecaps.webp"></a>
+<a href="https://jp.mercari.com/item/m12946322168?afid=6142608987"><img src="../assets/images/Spacetime%20Continuum%20%E2%80%93%20Emit%20Ecapsweb.
 
 類型： 環境音樂 / IDM / 電子音樂
 
@@ -65,7 +65,7 @@ B2. Equalizer
 
 特色：Jonah Sharp 的 90 年代地下環境傑作
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Iform
 A2. Kario
@@ -83,7 +83,7 @@ D3. String Of Pearls
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m12946322168?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m12946322168?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -92,7 +92,7 @@ D3. String Of Pearls
 <小時>
 
 ### Sanjiva – 流動喜悅的秘密房間
-<a href="https://jp.mercari.com/item/m64537579861?afid=6142608987"><img src="../assets/images/Sanjiva%20%E2%80%93%20Secret%20Rooms%20Over%20Flowing%20Delight.webp"></a>
+<a href="https://jp.mercari.com/item/m64537579861?afid=6142608987"><img src="../assets/images/Sanjiva%20%E2%80%93%20Secret%20Rooms%20Over%E2%80%93%20Secret%20Rooms%Flowaver%2009%(
 
 類型： 環境電子技術
 
@@ -102,7 +102,7 @@ D3. String Of Pearls
 
 特點： Charles Reix 的 Deep trance 曲目
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Secret Rooms
 
@@ -110,7 +110,7 @@ B. Over Flowing Delight
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m64537579861?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m64537579861?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -119,7 +119,7 @@ B. Over Flowing Delight
 <小時>
 
 ### 配音拖拉機 – 可怕的 H H 循環 / 104 配音
-<a href="https://jp.mercari.com/item/m94070661611?afid=6142608987"><img src="../assets/images/Dub%20Tractor%20%E2%80%93%20Scary%20H%20H%20Loop.webp"></a>
+<a href="https://jp.mercari.com/item/m94070661611?afid=6142608987"><img src="../assets/images/Dub%20Tractor%20%E2%80%93%20Scary%20H%20Trac
 
 類型： 環境 / 實驗 / Trip Hop
 
@@ -127,9 +127,9 @@ B. Over Flowing Delight
 
 格式：12英寸
 
-特點： 來自丹麥的實驗氛圍 Trip-hop 音樂。包括 Luke Vibert (Wagon Christ) 混音版
+特色： 來自丹麥的實驗氛圍 Trip-hop 音樂。包括 Luke Vibert (Wagon Christ) 混音版
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Scary H H Loop
 A2. 104 Dub
@@ -145,7 +145,7 @@ B2. A C Tractor
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m94070661611?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m94070661611?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -153,8 +153,8 @@ B2. A C Tractor
 
 <小時>
 
-### 冷靜——來自太陽和地球的人們
-<a href="https://jp.mercari.com/item/m88603722096?afid=6142608987"><img src="../assets/images/Calm%20%E2%80%93%20People%20From%20The%20Sun%20And%20The%20Earth.webp"></a>
+### 冷靜－來自太陽和地球的人們
+<a href="https://jp.mercari.com/item/m88603722096?afid=6142608987"><img src="../assets/images/Calm%20%E2%80%93%20People%20FromSun%20The">ThewebromSun20Thearth%
 
 類型： 氛圍音樂 / 巴利阿里群島音樂
 
@@ -162,9 +162,9 @@ B2. A C Tractor
 
 格式：乙烯基
 
-特點： 日本休閒氛圍音樂的傑作。 4 軌 EP，包括 Dixon 混音版
+特色： 日本休閒氛圍音樂的傑作。 4 軌 EP，包括 Dixon 混音版
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. People From The Sun And The Earth (MKL vs. Soy Sos Dark Sun Mix)
 A2. People From The Sun And The Earth (Original Mix)
@@ -174,7 +174,7 @@ B2. People From The Sun And The Earth (MKL vs. Soy Sos Dark Ambient Mix)
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m88603722096?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m88603722096?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -182,8 +182,8 @@ B2. People From The Sun And The Earth (MKL vs. Soy Sos Dark Ambient Mix)
 
 <小時>
 
-### 大衛·多諾霍 – Nature Morte！
-<a href="https://jp.mercari.com/item/m44618492590?afid=6142608987"><img src="../assets/images/David%20Donohoe%20%E2%80%93%20Nature%20Morte.webp"></a>
+### 大衛多諾霍 – Nature Morte！
+<a href="https://jp.mercari.com/item/m44618492590?afid=6142608987"><img src="../assets/images/David%20Donohoe%20%E2%80%93%20Nature%20Morte.webonohoe%20%E2%80%93%20Nature%20Morte.webp"></a>
 
 類型：環境/最小
 
@@ -191,9 +191,9 @@ B2. People From The Sun And The Earth (MKL vs. Soy Sos Dark Ambient Mix)
 
 格式：乙烯基
 
-特點：來自愛爾蘭，簡約氛圍音樂的優秀作品。
+特色：來自愛爾蘭，簡約氛圍音樂的優秀作品。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Nature Morte!
 A2. Still Life Is Alive
@@ -202,7 +202,7 @@ B. Our Ghosts
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m44618492590?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m44618492590?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -211,7 +211,7 @@ B. Our Ghosts
 <小時>
 
 ### 布蘭克先生 – 在地面上
-<a href="https://jp.mercari.com/item/m86675145742?afid=6142608987"><img src="../assets/images/Mr.%20Blank%20%E2%80%93%20On%20The%20Ground.webp"></a>
+<a href="https://jp.mercari.com/item/m86675145742?afid=6142608987"><img src="../assets/images/Mr.%20Blank%20%E2%80%93%20On%20The%20Ground.
 
 類型： 氛圍音樂 / 配音 / 未來爵士 / 嘻哈音樂
 
@@ -219,9 +219,9 @@ B. Our Ghosts
 
 格式： 2 張黑膠唱片
 
-特點：史蒂夫·米勒以另一個名字創作的作品。融合多種流派的深沉放鬆聲音
+特點：史蒂夫米勒以另一個名字創作的作品。融合多種流派的深沉放鬆聲音
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Out Of Order
 A2. No Sweat
@@ -244,7 +244,7 @@ D4. The End Game
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m86675145742?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m86675145742?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -253,16 +253,16 @@ D4. The End Game
 <小時>
 
 ### 森林深處 – 森林深處
-<a href="https://jp.mercari.com/item/m99158480308?afid=6142608987"><img src="../assets/images/Deep%20Forest%20%E2%80%93%20Deep%20Forest.webp"></a>
+<a href="https://jp.mercari.com/item/m99158480308?afid=6142608987"><img src="../assets/images/Deep%20Forest%20%E2%80%93%20Deep%20Forest.webp">
 類型： 環境音樂/慢節奏/新時代
 
 發佈時間：1992
 
 格式：CD
 
-特點：民謠與電子音樂的融合，格萊美提名，收錄簽名曲《Sweet Lullaby》
+特色：民謠與電子音樂的融合，葛萊美提名，收錄簽名曲《Sweet Lullaby》
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. Deep Forest
 2. Sweet Lullaby
@@ -277,7 +277,7 @@ D4. The End Game
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m99158480308?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m99158480308?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -285,7 +285,7 @@ D4. The End Game
 
 <小時>
 
-### 列表
+### 清單
 
 <div class="table-border">
 <table>

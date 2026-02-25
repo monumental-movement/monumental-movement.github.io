@@ -10,15 +10,15 @@ tags:
 - Alternative Rock
 - Folk Rock
 - 10s
-title: 아빠 락! – 마운트 모던
+title: Dad Rocks! – Mount Modern
 ---
 
 
-아빠 락! 는 덴마크 인디 록 밴드 미마스(Mimas)로 유명해진 아이슬란드 음악가 스네바르 알베르손(Snaevar Albertsson)이 2010년에 결성한 프로젝트입니다.
+Dad Rocks!는 덴마크의 인디 록 밴드 Mimas로 유명해진 아이슬란드의 뮤지션, Snaevar Albertsson이 2010년에 결성한 프로젝트.
 
-"Mount Modern"은 2011년에 발매된 Dad Rocks!의 데뷔 앨범입니다.
+「Mount Modern」은 2011년에 릴리스된 Dad Rocks!의 데뷔 앨범.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Mount Modern
 2. Weapons
@@ -35,5 +35,5 @@ title: 아빠 락! – 마운트 모던
 
 [メルカリで購入](https://jp.mercari.com/item/m97240263266?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g7pEjQxcQMQ?si=GZ2TcKCRoE2ifNsG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

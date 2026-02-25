@@ -12,16 +12,16 @@ tags:
 - British
 - Folk
 - 80s
-title: 문코인 - 문코인
+title: Mooncoin – Mooncoin
 ---
 
 
-문코인(Mooncoin)은 미키 제클리(Mickie Zekley)와 마이클 허버트(Michael Hubbert)가 결성한 듀오로 아일랜드 음악, 켈트 음악, 영국 음악을 결합한 스타일을 선보이고 있다.
+Mooncoin은, Mikie Zekley(미키 제크리)와 Michael Hubbert(마이클 허버트)에 의한 듀오로, 아일랜드 음악, 켈트 음악 & 영국 음악을 조합한 스타일이 특징.
 
-"Mooncoin"은 미국 레이블 Kicking Mule Records가 1982년에 발표한 희귀한 음원입니다.
+「Mooncoin」은, US의 라벨 Kicking Mule Records로부터 1982년에 릴리스된 레어 음원.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. The Barley Straw
 A2. The Rambling Pitchfork

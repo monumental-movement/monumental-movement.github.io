@@ -9,13 +9,13 @@ permalink: /zh-hant/michael-saxell-red-and-blue/
 tags:
 - Rock
 - Pops
-title: 邁克爾·薩克塞爾 – 紅與藍
+title: 麥可薩克塞爾 – 紅與藍
 ---
 
 
-邁克爾·薩克塞爾 (Michael Saxell) 是一位瑞典創作型歌手/作曲家/作詞家/多樂器演奏家/製作人。
+麥可‧薩克塞爾 (Michael Saxell) 是一位瑞典創作歌手/作曲家/作詞家/多樂器演奏家/製作人。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Kelly
 
@@ -38,5 +38,5 @@ B4. Nothing But The Best
 B5. My Love Belongs To You
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m62004854005?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m62004854005?afid=6142608987){: .button1}
 

@@ -14,21 +14,21 @@ title: Pianoheadz – 結束了（失真）
 ---
 
 
-Pianoheadz 是由美國室內製作人 Jose Nuñez 和 Erick Morillo 組建的樂隊。
+Pianoheadz 是由美國室內製作人 Jose Nuñez 和 Erick Morillo 組成的樂團。
 
-《It's Over》是英國唱片公司 INCredibled 於 1998 年發行的一首 house/hard house 曲目。
+《It's Over》是英國唱片公司 INCredibled 於 1998 年發行的一首 house/hard house 歌曲。
 
-A面的第二首歌是 Knuckleheadz 的混音版，他以“House Rocca / Turn That Fucking Music Up”和“Raise Your Hands”而聞名。
+A 面的第二首歌曲是 Knuckleheadz 的混音版，他以“House Rocca / Turn That Fucking Music Up”和“Raise Your Hands”而聞名。
 
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. It's Over (Distortion) (It's Over Mix)
 A2. It's Over (Distortion) (Knuckleheadz Remix)
 B. It's Over (Distortion) (Raw Demo Mix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m95305362501?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m95305362501?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l7rf3NTLSqQ?si=9rJKV1pD_resffgq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

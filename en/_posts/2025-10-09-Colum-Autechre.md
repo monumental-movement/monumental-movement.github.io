@@ -103,7 +103,7 @@ Autechre's live performances completely exclude visual presentation.
 The lights go out and the stage is dark. The audience will be enveloped in a **space of pure sound**.
 This complete inorganic nature is proof that they aim to "dominate the body with sound alone."
 
-In the 2010s, they released the **AE_LIVE series**. We recorded the sounds that the program improvised as they were, and presented a different structure for each city.
+In the 2010s, they released the **AE_LIVE series**. The sounds that the program improvised were recorded as they were, and different structures were presented for each city.
 Furthermore, "NTS Sessions 1–4" (2018) is a masterpiece that is over 8 hours long. This is a monumental achievement in which Autechre has built a "universe of acoustic algorithms."
 
 > "Improvisation is also about borrowing the thinking of a program."

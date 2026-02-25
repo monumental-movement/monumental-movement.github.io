@@ -14,7 +14,7 @@ title: John Tejada – Sueños despiertos en climas fríos
 
 
 “Sueños despiertos en climas fríos” es
-Un LP doble de John Tejada lanzado en 2002 en el sello británico Plug Research.
+Se trata de un LP doble de John Tejada lanzado en 2002 por el sello británico "Plug Research".
 
 #### Lista de canciones
 ```md

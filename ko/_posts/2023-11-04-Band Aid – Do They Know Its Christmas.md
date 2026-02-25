@@ -9,59 +9,59 @@ permalink: /ko/band-aid-do-they-know-its-christmas/
 tags:
 - Rock
 - Pops
-title: 반창고 – 그들은 크리스마스인 것을 알고 있습니까?
+title: Band Aid – Do They Know It's Christmas
 ---
 
 
-밴드에이드(Band Aid)는 영국과 아일랜드의 록, 팝 슈퍼스타들을 모아 에티오피아의 기아퇴치 활동을 위한 기금을 마련하기 위해 1984년 밥 겔도프(Bob Geldof)와 미지 우레(Midge Ure)가 결성한 자선 프로젝트 그룹입니다.
+Band Aid(밴드에이드)는 에티오피아의 굶주림 활동에 대한 자금을 모으기 위해 밥 겔도프와 미지 유로에 의해 1984년에 설립된 영국과 아일랜드의 록팝스계 슈퍼스타가 모인 자선 프로젝트 그룹.
 
-[참여작가]는 다음과 같습니다.
+【참가 아티스트】는 다음과 같습니다.
 
-・필 콜린스(제네시스)
+・필・콜린스(제네시스)
 
-・붐타운 랫츠
+・붐타운・라츠
 
-・스판다우발레단
+・스팬더・발레
 
-・Midge Ure, 크리스 크로스(Ultravox)
+· 미지 유로, 크리스 크로스 (울트라 보크스)
 
-・듀란듀란
+・듀란 듀란
 
-・폴 영
+· 폴 영
 
 ・헤븐 17
 
 ・마릴린
 
-・바나나라마
+· 바나나 라마
 
-・조디 와틀리(샬라마르)
+・조디 와트리(샤라마)
 
-・보노, 아담 클레이튼(U2)
+· 보노, 아담 클레이튼 (U2)
 
-・폴 웰러(스타일 카운실)
+・폴・웰러(스타일・카운실)
 
-・쿨 앤 더 갱
+· 쿨 & 더 갱
 
-・조지 마이클(Wham!)
+・조지 마이클(왓!)
 
-・현황
+・스테이터스 쿼
 
-・보이 조지, 존 모스(문화 클럽)
+· 보이 조지, 존 모스 (컬쳐 클럽)
 
-・스팅(경찰)
+・스팅(폴리스)
 
-・데이비드 보위
+· 데이비드 보위
 
-・프랭키가 헐리우드에 가다
+・프랑키・고즈・투・할리우드
 
-・폴 매카트니
+· 폴 매카트니
 
 ・빅 컨트리
 
 ・트레버 혼
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Do They Know It's Christmas? (12" Mix)
 
@@ -71,5 +71,5 @@ B2. Feed The World
 ```
 [メルカリで購入](https://jp.mercari.com/item/m57662834439?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j3fSknbR7Y4?si=ystwOi1DXMpBHz0u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -19,7 +19,7 @@ title: '[Columna] Historia del rock japonés: la intersección de lo convenciona
 
 Texto: mmr｜Tema: Rock japonés convencional y underground
 
-El rock japonés comenzó a extenderse con [Group Sounds (GS)](https://amzn.to/4gP5wli), que floreció en la década de 1960. Sin embargo, al mismo tiempo nació una tendencia de "rock underground" con espíritu experimental y energía destructiva, alejada del escenario público. Naked Larry's, Keiji Haino, Boredoms, Acid Mother's Temple y otros ayudaron a que la escena del noise rock y psicodélico de Japón fuera conocida internacionalmente.
+El rock japonés comenzó a extenderse con [Group Sounds (GS)] (https://amzn.to/4gP5wli), que floreció en la década de 1960. Sin embargo, al mismo tiempo nació una tendencia de "rock underground" con espíritu experimental y energía destructiva, alejada del escenario público. Naked Larry's, Keiji Haino, Boredoms, Acid Mother's Temple y otros ayudaron a que la escena del noise rock y psicodélico de Japón fuera conocida internacionalmente.
 
 ---
 
@@ -43,7 +43,7 @@ color: #fff;
 
 ### Década de 1970: el espíritu experimental de Keiji Haino
 
-[Keiji Haino](https://amzn.to/46ngHxU) — Cruce de improvisación, free jazz y noise. Tuvo una influencia decisiva en la escena de la música experimental tanto a nivel nacional como internacional.
+[Keiji Haino](https://amzn.to/46ngHxU) — Cruzando improvisación, free jazz y noise. Tuvo una influencia decisiva en la escena de la música experimental tanto a nivel nacional como internacional.
 
 A diferencia de [Happy End ``Kazemachi Roman''](https://amzn.to/3Vzh16v), Underground ha evolucionado en una dirección más oscura.
 
@@ -103,7 +103,7 @@ flowchart TD
 |-------------|------|------|------|------|
 | Larry desnudo | Décadas de 1960 y 1970 | "En vivo 1972" | Trabajo de tablero de arranque legendario, psicodélico y ruidoso | [mercari](https://jp.mercari.com/item/m84819164983?afid=6142608987) |
 | Keiji Haino | Década de 1970 | “¿Watashi Dake?” (1973) | Un disco solista en solitario que va y viene entre el silencio y la explosión | [Amazon](https://amzn.to/4pJ0OJw) |
-| Cuchillo Shonen | Década de 1980 | "Granja en llamas" (1983) | El inicio del pop punk, elogiado incluso en la escena indie extranjera | [Amazon](https://amzn.to/3Vycp0t) |
+| Cuchillo shonen | Década de 1980 | "Granja en llamas" (1983) | El inicio del pop punk, elogiado incluso en la escena indie extranjera | [Amazon](https://amzn.to/3Vycp0t) |
 | BOWY | Década de 1980 | “SÓLO UN HÉROE” (1986) | El pico del boom de las bandas japonesas, un impulso callejero | [Amazon](https://amzn.to/3IBpnrk) |
 |
 | Aburrimientos | Década de 1990 | “Visión Creación Newsun” (1999) | Los extremos del ruido psicodélico, que inducen una experiencia similar al trance | [Amazon](https://amzn.to/4nGVs0l) |
@@ -141,13 +141,22 @@ R4: Obtuvimos reconocimiento internacional por nuestras abrumadoras presentacion
 
 **P5: ¿Cuál es la obra más famosa de Seiichi Yamamoto? **
 
-R5: [Memory Wharf ``Underwater Joe''](https://amzn.to/4pJINuQ), [el show en vivo de ROVO](https://amzn.to/4gJvJRT) y trabajos en solitario [``Crown of Fuzzy Groove''](https://amzn.to/4pJ0ESq) son importantes.
+R5: [Memory Wharf ``Underwater Joe''](https://amzn.to/4pJINuQ), [la presentación en vivo de ROVO](https://amzn.to/4gJvJRT) y los trabajos en solitario [``Crown of Fuzzy Groove''](https://amzn.to/4pJ0ESq) son importantes.
 
 ---
 
 ### resumen
 
 La historia del rock japonés ha evolucionado en paralelo con la corriente principal en el frente y el underground en la retaguardia. El linaje desde Naked Larry's hasta Guitar Wolf continúa en la era actual de la IA y continúa ampliando las posibilidades del rock. El rock japonés seguirá aportando "experimentación e impulso" a la escena musical mundial.
+
+---
+
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CbCbxcj48jY?si=hS_WqAE6eWEpOhne" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 

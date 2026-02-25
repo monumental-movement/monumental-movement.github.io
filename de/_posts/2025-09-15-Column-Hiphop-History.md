@@ -21,7 +21,7 @@ title: '[Kolumne] Geschichte des US-amerikanischen Hip Hop: Gesamtbild einschlie
 Text: mmr｜Thema: Über Hip-Hop, wo in jeder Region der Vereinigten Staaten unterschiedliche Stile entstanden sind
 
 Hip-Hop wurde Ende der 1970er Jahre in der Bronx, New York, geboren und hat sich nicht nur zu einem Musikgenre entwickelt, sondern auch zu einer Kultur, die mit Tanz, Graffiti, Mode und sozialen Bewegungen verbunden ist.
-In Amerika bildeten sich in jeder Region unterschiedliche Stile heraus, und die Entwicklung wurde durch die Clubszene, das Radio, Demotapes und die Plattenkultur unterstützt. Darüber hinaus symbolisierten die Entwicklung der Sampling-Technologie und der daraus resultierende Trend zum De-Sampling musikalische Innovationen im Hip-Hop.
+In den Vereinigten Staaten bildeten sich in jeder Region unterschiedliche Stile heraus, und die Entwicklung wurde durch die Clubszene, das Radio, Demotapes und die Plattenkultur unterstützt. Darüber hinaus symbolisierten die Entwicklung der Sampling-Technologie und der daraus resultierende Trend zum De-Sampling musikalische Innovationen im Hip-Hop.
 
 ---
 
@@ -46,7 +46,7 @@ color: #fff;
 Junge Leute in der Bronx veranstalten DJ-Partys in verlassenen öffentlichen Räumen und Gemeindezentren. Durch die Wiederholung gebrochener Beats entwickelte sich der B-Boy/B-Girl-Tanz.
 Clubs und Blockpartys waren mehr als nur Musikveranstaltungsorte; Sie waren ein Symbol der Einheit der Gemeinschaft.
 
-### Die Bedeutung von Radio- und Demobändern
+### Die Bedeutung von Radio- und Demotapes
 Damals wurde Hip-Hop durch Radiosendungen populär gemacht (z. B. „The Show“ von WBLS), und Demotapes waren ein wichtiges Mittel, um Künstler zu entdecken.
 DJ Kool Herc und Afrika Bambaataa spielten ihre Mixtapes im lokalen Radio und auf Partys und trugen so zur Verbreitung der Musik bei.
 
@@ -230,7 +230,7 @@ Unautorisierte Probe in „Übertragung von Livedaten vom Mars“. Seitdem war D
 | 1980er Jahre | Osten (zentriert in NYC) | Goldenes Zeitalter des Samplings, Schwerpunkt auf Lyrik |
 | 1990er Jahre | West (LA, Bay) | G-Funk auf dem Höhepunkt, 2Pac vs. Biggie |
 | 2000er | Süden (ATL, Houston, Miami) | Trap Eve, Crunk und der Aufstieg von Screwstyle |
-| 2010er | Trap (Süd) + Mittlerer Westen (Chicago Drill, Kanye, Detroit Beat) | Sampling-Reduzierung + FL Studio-Spread |
+| 2010er | Trap (Süd) + Mittlerer Westen (Chicago Drill, Kanye, Detroit Beat) | Sampling-Reduktion + FL Studio-Spread |
 | 2020er | Multipolarisierung (Ost, West, Süden, Mittlerer Westen) | KI-Beat, Stichprobenregression, dezentrale Internetkultur |
 
 ---
@@ -352,7 +352,7 @@ Bass : ▂▄▆█▇▆▄▂
 
 ---
 
-## 2000er Jahre (Digitalisierung/Vereinsfokus)
+## 2000er (Digitalisierung/Vereinsfokus)
 
 <table class="table-wave">
 <tr>
@@ -432,7 +432,7 @@ Bass : ▂▄▇█▇█▇█▄▂
 </tr>
 </table>
 
-**Ergänzende Überlegungen**
+**Zusätzliche Überlegungen**
 
 Genealogiediagramme ermöglichen es Schülern, „Meister-Schüler-Beziehungen“ und „Einflussbeziehungen“ intuitiv zu verstehen.
 
@@ -444,7 +444,15 @@ Die Karte der Macht visualisiert, in welche Region sich das Zentrum der Szene in
 
 ## Abschluss
  
-Hip-Hop hat sich so entwickelt, dass es die Kultur und den sozialen Hintergrund jeder Region widerspiegelt. Die Ostküste, die Westküste und der Süden haben jeweils ihre eigenen einzigartigen Stile, die nicht nur die Musik, sondern auch Mode, Sprache, soziale Bewegungen und mehr beeinflusst haben. Hip-Hop wird sich weiterentwickeln, da neue Techniken und Ausdrucksmethoden auftauchen.
+Hip-Hop hat sich so entwickelt, dass es die Kultur und den sozialen Hintergrund jeder Region widerspiegelt. Die Ostküste, die Westküste und der Süden haben jeweils ihre eigenen einzigartigen Stile, die nicht nur die Musik, sondern auch Mode, Sprache und soziale Bewegungen beeinflusst haben. Hip-Hop wird sich weiterentwickeln, da neue Techniken und Ausdrucksmethoden auftauchen.
+
+---
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H241Xlr_nMQ?si=nrjaF03rwUrf6s90" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

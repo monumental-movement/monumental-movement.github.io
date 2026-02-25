@@ -15,11 +15,11 @@ title: VA – 電影院啤酒堅果
 ---
 
 
-硬核朋克合輯：Hopeless Records 電影啤酒系列
+硬蕊龐克合輯：Hopeless Records 電影啤酒系列
 
 VA – 電影院啤酒堅果
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. The Vandals – It's A Fact
 2. MxPx – Doing Time
@@ -42,4 +42,4 @@ VA – 電影院啤酒堅果
 19. Millencolin – Lozin' Must
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m72326098002?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m72326098002?afid=6142608987){: .button1}

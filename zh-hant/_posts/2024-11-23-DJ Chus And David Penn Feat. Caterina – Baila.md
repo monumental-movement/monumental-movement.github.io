@@ -20,7 +20,7 @@ title: DJ Chus 和 David Penn 的壯舉。卡特琳娜-拜拉
 一首部落浩室/深屋曲目，由著名的英國舞曲音樂廠牌 Defected 於 2003 年發行。
 
 
-#### 曲目列表
+#### 曲目表
 ```md
 This Side
 A1. Baila (Dennis Ferrer Bergentine Mix)
@@ -30,7 +30,7 @@ That Side
 AA1.Baila (Peter "Tha Zouk" & Bruno Marciano Remix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m72185729340?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m72185729340?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jdks0tZnUs4?si=C5CQdGWESB1NuhDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

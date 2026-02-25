@@ -17,9 +17,9 @@ title: Dieselboy – 導演剪輯版
 
 這個混音也很棒，時機、EQ、電平和過渡都恰到好處，這是他技巧的一個很好的例子。
 
-這是一張你會想一遍又一遍地聽的混音。
+這是一張你會想一遍又一遍聽的混音。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Side A
 
@@ -56,7 +56,7 @@ B. Side B
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m34797510612?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m34797510612?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X6EumRaarrQ?si=XRLLJb_BEWu1NV9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

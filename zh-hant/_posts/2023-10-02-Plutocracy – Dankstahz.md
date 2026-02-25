@@ -13,10 +13,10 @@ title: 財閥統治 – Dankstahz
 ---
 
 
-“丹克斯塔茲”是
-這是加州碾核樂隊“Plutocracy”的 10 英寸唱片，由德國廠牌“Anomie Records”於 1996 年發行。
+「丹克斯塔茲」是
+這是加州碾核樂團「Plutocracy」的 10 吋唱片，由德國廠牌「Anomie Records」於 1996 年發行。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Intro
 
@@ -51,7 +51,7 @@ B7. Erupt
 B8. Outro
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m53644996451?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m53644996451?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pdLNtQ2wsGA?si=Ta1jq1h4GitaWVfr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -250,7 +250,7 @@ La ligne de mire basse, l’éclairage tamisé et l’apparence inexpressive sur
 
 ### J-2. Absence de sujet dans la vidéo
 
-Dans les vidéoclips et les supports visuels, les personnes ne sont souvent pas représentées clairement ou sont intentionnellement floues.
+Dans les vidéos musicales et les supports visuels, les personnes ne sont souvent pas représentées clairement ou sont intentionnellement floues.
 Il s’agit d’une tentative d’assurer un anonymat visuel similaire à celui de la musique.
 
 ["Il ne s'agit pas de qui fait le son, mais de ce qui fait le son"]

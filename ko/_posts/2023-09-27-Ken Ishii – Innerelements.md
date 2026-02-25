@@ -9,16 +9,16 @@ permalink: /ko/ken-ishii-innerelements/
 tags:
 - Techno
 - Ambient
-title: 이시이 켄 - 이너엘리먼츠
+title: Ken Ishii – Innerelements
 ---
 
 
-Ken Ishii는 국내외에서 높은 평가를 받고 있는 일본의 테크노 뮤지션입니다. R&S Records에서 발표한 이 앨범은 그의 걸작 중 하나입니다.
+켄이시이(Ken Ishii)는 일본의 테크노 뮤지션으로 국내외에서 높은 평가를 받고 있는 아티스트입니다. R&S Records에서 발표된 이 앨범은 그의 대표작 중 하나입니다.
 
-1994년 발매된 'Innerelements'는 트립합과 일렉트로니카의 요소를 접목한 테크노 음악으로 알려져 있다. 주변 사운드스케이프와 다운템포 리듬이 특징인 이 혁신적인 접근 방식은 많은 청취자에게 강한 인상을 남겼습니다.
+'Innerelements'는 1994년에 출시되었으며, 테크노 뮤직 중에서도 특히 트립홉이나 일렉트로니카의 요소를 도입한 작품으로 알려져 있습니다. 앰비언트 사운드 스케이프와 다운 템포 리듬이 특징이며, 혁신적인 접근 방식은 많은 청취자에게 강한 느낌을주었습니다.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Encoding
 
@@ -47,5 +47,5 @@ Ken Ishii는 국내외에서 높은 평가를 받고 있는 일본의 테크노 
 
 [メルカリで購入](https://jp.mercari.com/item/m57457067000?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3X9fDv6q-fU?si=8iIOsEMWv3miwpO3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

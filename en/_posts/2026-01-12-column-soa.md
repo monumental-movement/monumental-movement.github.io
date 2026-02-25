@@ -69,7 +69,7 @@ The guitar, bass, and drum members were also closely connected to the New York u
 
 S.O.A's music is not oriented toward performance technique or complexity. Most of the songs last around one minute, and there are almost no introductions or development elements. The drums serve to push the beat forward rather than drive it, and the guitar is more on the border between noise and rhythm than a riff.
 
-This musicality is different from the "heaviness" and "groove" of later New York hardcore, and is rather closer to the early impulses of D.C. hardcore. However, S.O.A's sound has a dry tension typical of urban New York, and the immediate outpouring of emotion is more at the forefront than politics.
+This musicality is different from the "heaviness" and "groove" of later New York hardcore, and is rather closer to the early impulses of D.C. hardcore. However, S.O.A's sound has a dry tension typical of urban New York, and the immediate eruption of emotion is more at the forefront than politics.
 
 > S.O.A's songs exist as a result of excision rather than construction.
 

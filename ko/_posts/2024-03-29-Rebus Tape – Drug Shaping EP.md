@@ -9,15 +9,15 @@ permalink: /ko/rebus-tape-drug-shaping-ep/
 tags:
 - Techno
 - 00s
-title: 수수께끼 테이프 – 약물 형성 EP
+title: Rebus Tape – Drug Shaping EP
 ---
 
 
-Rebus Tape는 브레이크비트 유닛 Phab Com Masters의 멤버 나카지마 시로의 솔로 유닛입니다.
+Rebus Tape(리버스 테이프)는 브레이크 비트 유닛 Phab Com Masters의 멤버 Shiro Nakajima의 솔로 유닛.
 
-"Drug Shaping EP"는 2000년 Sublime Records의 하위 레이블인 Reel Musiq에서 발매된 Rebus Tape의 데뷔 작품입니다.
+「Drug Shaping EP」는 서브 라임 레코즈의 서브 라벨 Reel Musiq에서 2000년에 릴리스된 Rebus Tape의 데뷔작.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Element Of The Ape
 

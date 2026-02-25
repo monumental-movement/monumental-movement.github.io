@@ -11,15 +11,15 @@ tags:
 - Folk
 - Psychedelic
 - Spiritual
-title: 나무 정령 – 나무 정령
+title: Tree Spirit – Tree Spirit
 ---
 
 
-Tree Spirit은 캘리포니아 출신의 그룹입니다. 에너지가 넘치고 지구를 사랑하는 밴드는 록, 포크, 사이키델릭을 융합한 독특한 스타일을 '어스 록'이라고 부릅니다.
+Tree Spirit은 캘리포니아 출신의 그룹. 하이에너지로 지구를 사랑하는 이들이 '어스 록'이라고 부르는 독자적인 스타일은 록, 포크, 사이키델릭이 융합한 음악이 되고 있다.
 
-그룹 이름을 딴 '나무 정령'은 1985년 자체 레이블인 나무 정령 레코드에서 발매된 개인 발매작이다. 꽤 희귀한 음원이자 희귀한 카세트테이프.
+그룹명을 타이틀로 한 「Tree Spirit」은, 자주 라벨 Tree Spirit Records로부터 1985년에 릴리스한 프라이빗 릴리스. 꽤 희귀 음원 & 희귀 카세트 테이프.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Swamp Song
 A2. Heavy Times
@@ -35,7 +35,7 @@ B4. Hena Hondohlay Ahn (The Wind, The Sun, The Waters That Run)
 
 [メルカリで購入](https://jp.mercari.com/item/m44768758537?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MTE3YbLIWsU?si=JfP0QW0IGyLoo74s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5hFven7nzYk?si=U_1r4ZnkVgUl0Vjw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

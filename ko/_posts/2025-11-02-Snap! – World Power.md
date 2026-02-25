@@ -12,7 +12,7 @@ tags:
 - Euro House
 - Hiphop
 - 90s
-title: 스냅! – 세계의 힘
+title: Snap! – World Power
 ---
 
 
@@ -22,9 +22,9 @@ title: 스냅! – 세계의 힘
 
 
 
-1990년 로직 레코드가 발매한 독일의 유로댄스 프로젝트 Snap!의 데뷔 앨범. 'The Power', 'Ooops Up', 'Mary Had A Little Boy' 등의 히트곡이 수록된 Snap!의 걸작.
+1990년에 Logic Records에서 발매된 독일의 Eurodance(유로 댄스) 프로젝트 Snap!(스냅)의 데뷔 앨범. 히트곡 「The Power」 「Ooops Up」 「Mary Had A Little Boy」등이 수록된 Snap!의 대표작.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. The Power
 2. Ooops Up
@@ -40,5 +40,5 @@ title: 스냅! – 세계의 힘
 
 [メルカリで購入](https://jp.mercari.com/item/m30191324819?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nm6DO_7px1I?si=bDNzXKZ6XtaLZu1Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

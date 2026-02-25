@@ -44,7 +44,7 @@ color: #fff;
 </style>
 
 
-## Chapter 1 Historical origins of Lala
+## Chapter 1 Historical origin of Lala
 
 The origin of lala is closely tied to the deep layers of Haitian society that was formed between the 18th and 19th centuries. In Saint-Domingue during the French colonial period, people brought from various parts of Africa maintained their own religious rituals and musical culture. Although these traditions were suppressed under plantation control, they were inherited in fragments through nightly gatherings and festivals.
 
@@ -58,7 +58,7 @@ The Rara procession was not simply a celebration, but had the clear purpose of o
 
 ## Chapter 2 Lala as a religious ritual
 
-Lara is deeply connected to Voodoo beliefs. Many of the processions are dedicated to a specific loa (spirit), and each piece of music and rhythm is given a symbolic meaning. Participants not only play music, but also purify the path for spirits and receive blessings.
+Lara is deeply connected to Voodoo beliefs. Many of the processions are dedicated to a specific loa (spirit), and each piece of music and rhythm is given a symbolic meaning. Participants not only play music, but also purify the passageways for spirits and receive blessings.
 
 Ceremonial preparations are often made before the start of a march. After offerings, prayers, and calls from leaders, the group takes to the streets. Music is a means of communicating with spirits, and its volume and repetition function as elements that promote a trance state.
 
@@ -79,7 +79,7 @@ flowchart LR
 A[Vaxin] --> B[rhythm layer]
 C[drum] --> B
 D[shaker] --> B
-B --> E[group acoustics]
+B --> E[collective sound]
 </div>
 
 > Rara's sound is created not as an individual performance, but as a collective breath.
@@ -132,7 +132,7 @@ Still, every year during Lent, Lara reappears on the streets. Even in situations
 
 ## Chapter 7 Spatial structure and physical sensation of marching
 
-The essence of Lala is "movement". The performers and participants do not remain on a fixed stage, but pass through roads, intersections, village boundaries, and the vicinity of cemeteries. These spaces have a functional meaning in everyday life, but during the Rara period they take on a ceremonial meaning. The places through which the music passes are temporarily sanctified and become etched in the community's memory.
+The essence of Lala is "movement". The performers and participants do not remain on a fixed stage, but pass through roads, intersections, village boundaries, and areas around cemeteries. These spaces have a functional meaning in everyday life, but during the Rara period they take on a ceremonial meaning. The places through which the music passes are temporarily sanctified and become etched in the community's memory.
 
 What is important in marching is acoustic continuity rather than visual order. Even if the ranks are disorganized, the march will continue as long as the sound does not break up. Participants rely on sound to determine their location and synchronize their bodies. For this reason, in Lara, hearing is more central to spatial recognition than line of sight.
 

@@ -20,11 +20,11 @@ title: 石野卓急 – 卡拉 OK 傑克
 
 石野卓急 - 卡拉 OK 傑克
 
-首批限量版紙護套規格
+第一批限量版紙護套規格
 
 
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. Elektronik Go Go Go
 2. Rock Da Beat
@@ -41,7 +41,7 @@ title: 石野卓急 – 卡拉 OK 傑克
 13. Frankenstein's Haus
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m24933768293?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m24933768293?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/McJib0kKbv0?si=6RNlMZsRoNEPI4lz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

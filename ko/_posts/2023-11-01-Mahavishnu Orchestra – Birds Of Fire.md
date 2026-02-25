@@ -10,17 +10,17 @@ tags:
 - Fusion
 - Jazz
 - Rock
-title: 마하비슈누 오케스트라 – Birds Of Fire
+title: Mahavishnu Orchestra – Birds Of Fire
 ---
 
 
-마하비슈누 오케스트라(Mahavishnu Orchestra)는 영국의 기타리스트 존 맥러플린(John McLaughlin)이 1970년에 결성한 선구적인 퓨전 재즈 록 밴드입니다.
+Mahavishnu Orchestra(마하비슈누 오케스트라)는 1970년에 영국인 기타리스트 John McLaughlin(존 맥라프린)에 의해 결성된 퓨전 재즈 락의 초분적 밴드.
 
-1973년에 발매된 Birds Of Fire는 마하비슈누 오케스트라의 두 번째 앨범이었으며 재즈 록 분야에서 흔치 않은 세계적인 히트작이 되었습니다.
+1973년에 발매한 Birds Of Fire(불새)는 Mahavishnu Orchestra의 2번째 작품으로 재즈록으로는 이례적인 세계적 히트가 되었다.
 
-이때 참여 멤버는 존 맥러플린(기타), 제리 굿맨(바이올린), 잰 해머(키보드), 릭 레어드(베이스), 빌리 코밤(드럼)이었다.
+이 시기의 참가 멤버는 존 맥라플린(기타), 제리 굿맨(바이올린), 얀 해머(키보드), 릭 레어드(베이스), 빌리 코브햄(드럼스).
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Birds Of Fire
 
@@ -45,5 +45,5 @@ B4. Resolution
 
 [メルカリで購入](https://jp.mercari.com/item/m23380322375?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AulNvAR0u5c?si=dwJR6pVDbzzbcEyx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

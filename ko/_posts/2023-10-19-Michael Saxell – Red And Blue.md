@@ -9,13 +9,13 @@ permalink: /ko/michael-saxell-red-and-blue/
 tags:
 - Rock
 - Pops
-title: 마이클 색셀 – 레드 앤 블루
+title: Michael Saxell – Red And Blue
 ---
 
 
-Michael Saxell은 스웨덴의 싱어송라이터/작곡가/작사가/다중 악기 연주자/프로듀서입니다.
+Michael Saxell은 스웨덴 출신의 싱어 송 라이터 / 작곡가 작사가 / 멀티 악기 연주자 / 프로듀서.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Kelly
 

@@ -18,7 +18,7 @@ title: '[Kolumne] Überblick über den Westküsten-Hip-Hop – von seinen Urspr�
 
 Text: mmr｜Thema: Von der Geburt des Westküsten-Hip-Hop bis zur Gegenwart, Produzenten, Labels, Ost-West-Konflikt, Meisterwerke, visueller Ausdruck und Modeveränderungen
 
-Der Westküsten-Hip-Hop begann mit Block-Party- und Funk-Beats, und während er sich zur Mainstream-Musik ausweitete, hat er immer auch Underground-Kreativität einbezogen. Dieser Artikel fasst Veränderungen bei wichtigen Persönlichkeiten, Produzenten, Labels, visueller Ästhetik und Mode nach Epoche sowie akademische Referenzen und Diskographie zusammen.
+Der Westküsten-Hip-Hop begann mit Block-Party- und Funk-Beats, und während er sich in die Mainstream-Musik ausweitete, hat er immer auch Underground-Kreativität einbezogen. Dieser Artikel fasst Veränderungen bei wichtigen Persönlichkeiten, Produzenten, Labels, visueller Ästhetik und Mode nach Epoche sowie akademische Referenzen und Diskographie zusammen.
 
 ---
 
@@ -61,7 +61,7 @@ color: #fff;
 
 * **Repräsentative Produzenten**: Dr. Dre, DJ Quik, Battlecat
 * **Große Labels**: Death Row Records, Priority, Ruthless
-* **Kultureller Kontext**: G-Funk war eng mit der Lowrider- und Autokultur verbunden, mit seinem 70er-Jahre-Funk-Sampling und dem dicken Synthesizer-Bass.
+* **Kultureller Hintergrund**: G-Funk war eng mit der Lowrider- und Autokultur verbunden, mit seinem 70er-Jahre-Funk-Sampling und dem dicken Synthesizer-Bass.
 * **Ost-West-Konflikt**: Der Konflikt zwischen Ost- und Westküste verschärft sich und führt zur Tragödie von 2Pac und The Notorious B.I.G.
 * **Video/Mode**: MVs mit Lowridern, Stränden und den Straßen von South Central werden immer beliebter. Dickies, Chuck Taylor und Bandanas sind ikonisch.
 
@@ -183,6 +183,15 @@ Seit den 2000er Jahren hat die Vielfalt mit dem Erfolg unabhängiger Underground
 
 Der Hip-Hop der Region ist mehr als nur ein Musikgenre, er beeinflusst weiterhin soziale Botschaften, Mode, Film und Kultur im Allgemeinen und inspiriert weiterhin Künstler und Fans auf der ganzen Welt.
 
+
+---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CkZo_BMM120?si=qlhYZFYXqZj43i0R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

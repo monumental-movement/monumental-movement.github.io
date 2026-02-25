@@ -74,7 +74,7 @@ Dans ce genre, en plus des tonalités majeures et mineures, les modes d'église 
 
 ### Rythme et tempo
 
-Le tempo est généralement moyen à faible, et même si le rythme est clair, la force motrice est supprimée. Le rythme répétitif souligne la nature rituelle et sert à obscurcir la notion du temps.
+Le tempo est principalement moyen à faible, et même si le rythme est clair, la force motrice est supprimée. Le rythme répétitif souligne la nature rituelle et sert à obscurcir la notion du temps.
 
 ### Organisation
 
@@ -126,7 +126,7 @@ Les voix jouent souvent un rôle tonal plutôt qu'une signification linguistique
 
 ---
 
-Dead Can Dance a traversé les frontières de la musique folk, de la musique religieuse et de l'ambient et a eu une influence majeure sur la Darkwave néoclassique qui a suivi. Bien que leurs œuvres soient difficiles à classer dans un genre spécifique, elles continuent d’être référencées en termes d’esthétique sonore et de spiritualité.
+Dead Can Dance a traversé les frontières de la musique folk, de la musique religieuse et de la musique ambiante et a eu une influence majeure sur la Darkwave néoclassique qui a suivi. Bien que leurs œuvres soient difficiles à classer dans un genre spécifique, elles continuent d’être référencées en termes d’esthétique sonore et de spiritualité.
 
 ---
 

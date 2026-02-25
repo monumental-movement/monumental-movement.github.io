@@ -9,20 +9,20 @@ permalink: /ko/pickup-punk-hardcore/
 tags:
 - Punk
 - Hardcore
-title: 펑크/하드코어 작품 선택
+title: 펑크/하드코어 작품 픽업
 ---
 
 
-"혼돈과 열정을 형상화하고 시대적 분위기를 날카롭게 꿰뚫는 펑크/하드코어 작품들의 주목할만한 그룹."
+「혼돈과 격정을 체현해, 시대의 공기를 날카롭게 찢어진 주목해야 할 펑크/하드 코어 작품군」
 
 <hr>
 
-### 스너프 - Flibbiddydibbiddydob
+### Snuff – Flibbiddydibbiddydob
 <a href="https://jp.mercari.com/item/m21120251672?afid=6142608987"><img src="../assets/images/Snuff%20%E2%80%93%20Flibbiddydibbiddydob.webp"></a>
 
-영국 펑크 밴드의 커버 EP입니다. 1990년에 처음 출시되었고 1996년에 다시 출시되었습니다.
+영국 펑크 밴드에 의한 커버 EP. 원래 1990년, 재발매는 1996년
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Rods & Mockers
 A2. Do Nothing
@@ -42,18 +42,18 @@ B6. In Sickness & In Health
 [メルカリで購入](https://jp.mercari.com/item/m21120251672?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mx_z6vLGOrg?si=mzzX-VZTSz4bUWEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
-### 더 갱 - 바리카다 럼블 비트
+### The Gang - Barricada Rumble Beat
 <a href="https://jp.mercari.com/item/m64968588416?afid=6142608987"><img src="../assets/images/The%20Gang%20%E2%80%93%20Barricada%20Rumble%20Beat.webp"></a>
 
 
-이탈리아 펑크밴드의 작품입니다. 영국의 빌리 브래그(Billy Bragg)가 일부 참여한 흔치 않은 작품이다.
+이탈리아 출신 펑크 밴드의 작품. UK의 Billy Bragg이 일부 참여한 특이한 한 장
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Goin’ To The Crossroads
 A2. Blue Message
@@ -76,12 +76,12 @@ B6. Not For Sale
 
 <hr>
 
-### Rytmihairiov/Amen – 진화의 종말... 이제 곧 다가옵니다
+### Rytmihairiov/Amen – The End Of Evolution... Is Round The Corner
 <a href="https://jp.mercari.com/item/m23657412972?afid=6142608987"><img src="../assets/images/RytmihairiovAmen%20%E2%80%93%20The%20End%20Of%20Evolution...%20...Is%20Round%20The%20Corner.webp"></a>
 
-핀란드의 하드코어/스래시 밴드
+핀란드의 하드코어/슬래시계 밴드 작품
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. They
 A2. How Much Longer
@@ -114,12 +114,12 @@ B11. Spice-Song
 
 <hr>
 
-### 마찰 – 마찰
+### Friction – 갈등
 <a href="https://jp.mercari.com/item/m28248906619?afid=6142608987"><img src="../assets/images/Friction%20%E2%80%93%20%E8%BB%8B%E8%BD%A2.webp"></a>
 
-일본의 선구적인 펑크 밴드 Friction의 1980년 CD
+일본의 선구적인 펑크 밴드 Friction의 1980년작(CD)
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. A-Gas
 2. オートマチック・フラ 
@@ -140,7 +140,7 @@ B11. Spice-Song
 <hr>
 
 
-### 목록
+### List
 
 <div class="table-border">
 <table>

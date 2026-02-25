@@ -13,11 +13,11 @@ title: 幻想曲——今夜
 ---
 
 
-《幻想曲》是海倫·謝潑德和蒂姆·戈丁於 1988 年推出的項目。
+《幻想曲》是海倫謝潑德和提姆戈丁於 1988 年推出的計畫。
 
 這是來自英國“Chrysalis”的 80 年代合成流行音樂。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A  Tonight's The Night (Dancing Fish Mix)
 
@@ -26,7 +26,7 @@ B1  Tonight's The Night
 B2  Emily's Party
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m66329319879?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m66329319879?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HJqIDTRD12s?si=3TGMyq6d0_stOCkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -11,23 +11,23 @@ tags:
 - Modular
 - Ambient
 - Techno
-title: '[칼럼] Eurorack 모듈러 신디사이저의 변화와 음악계에 미치는 영향'
+title: 【칼럼】 유로 락 모듈러 신디사이저의 변천과 음악 장면에의 영향
 ---
 
 
-## “무한한 소리를 내는 레고 블록”
+## "무한히 퍼지는 소리의 레고 블록"
 
-글: mmr|주제: Eurorack 모듈러 신디사이저의 변화와 음악계에 미치는 영향
+문장 : mmr | 테마 : 유로 랙 모듈러 신디사이저의 변천과 음악 장면에 미치는 영향
 
-Eurorack 모듈형 신디사이저는 1990년대 초 독일 엔지니어 Dieter Doepfer가 발명했습니다. 그의 A-100 시스템을 시작으로 모듈 크기와 전원 공급 장치 규격을 표준화함으로써 다양한 제조업체의 모듈을 자유롭게 결합할 수 있는 시스템이 탄생했습니다.
+유로락(Eurorack) 모듈러 신디사이저는 1990년대 초에 독일 엔지니어인 디터 도프퍼(Dieter Doepfer)가 제창했다. 그의 A-100 시스템을 기점으로, 모듈의 사이즈나 전원 규격을 통일한 것으로, 다른 메이커의 모듈을 자유롭게 조합할 수 있는 구조가 탄생했습니다.
 
-전통적인 Moog 및 Bucla보다 더 작고 저렴한 Eurorack은 많은 음악가와 애호가들의 지지를 얻었으며 현재 전 세계 300개 이상의 제조업체가 참여하는 대규모 생태계로 발전했습니다.
+기존의 모그와 부쿠라에 비해 작고 저렴한 가격으로 제공되는 유로락은 많은 뮤지션과 애호가들에게 지지를 받고 있으며, 현재는 전세계 300여개 업체가 참여하는 대규모 생태계로 발전하고 있습니다.
 
 <hr>
 
-### 메인모듈 및 제조사 특성
+### 주요 모듈 및 제조업체의 특징
 
-#### 소음을 낸다
+#### Make Noise(메이크업 노이즈)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hFvhsahHcpM?si=grWL0pmruhL5tqVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -35,11 +35,11 @@ Eurorack 모듈형 신디사이저는 1990년대 초 독일 엔지니어 Dieter 
 
 **대표 모듈**: MATHS, Erbe-Verb, Phonogene
 
-**특징**: 직관적인 조작성과 고유한 기능을 갖춘 모듈을 제공합니다. 아날로그 컴퓨터인 MATHS는 복잡한 변조를 허용합니다.
+**특징**: 직관적인 조작성과 독창적인 기능을 가진 모듈을 제공. MATHS는 아날로그 컴퓨터로서 복잡한 모듈레이션을 가능하게 합니다.
 
 ---
 
-#### 인텔리젤
+#### Intellijel(인텔리젤)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ui0gEcdWdsk?si=19pl-qrlE4OuxRGC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -47,17 +47,17 @@ Eurorack 모듈형 신디사이저는 1990년대 초 독일 엔지니어 Dieter 
 
 **대표 모듈**: Plonk, Metropolis, Tetrapad
 
-특징: 우리는 많은 고품질 디지털 모듈을 생산하며 특히 시퀀서 및 성능 인터페이스에 강합니다.
+특징 : 고품질의 디지털 모듈을 많이 다루며 특히 시퀀서 및 성능을위한 인터페이스에 강점이 있습니다.
 
-#### 변경 가능한 도구
+#### Mutable Instruments(뮤터블 인스트루먼트)
 
-**대표 모듈**: 브레이드, 링, 클라우드
+**대표 모듈**: Braids, Rings, Clouds
 
-**기능**: 오픈 소스로 개발되었으며 유연한 사운드 생성이 가능한 모듈을 제공합니다. 특히 음색의 다양성이 뛰어납니다.
+**특징**: 오픈 소스로 개발되어 유연한 소리 만들기가 가능한 모듈을 제공. 특히 음색의 다양성이 우수합니다.
 
 ---
 
-#### 도퍼
+#### Doepfer (도핑 퍼)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NEsKKIOkx5k?si=Jow4l0OhJfpSzTXn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -65,11 +65,11 @@ Eurorack 모듈형 신디사이저는 1990년대 초 독일 엔지니어 Dieter 
 
 **대표 모듈**: A-110(VCO), A-120(SVF), A-140(EG)
 
-**특징**: Eurorack 표준 지지자로서 당사는 다양한 기본 모듈 라인업을 제공합니다. 초보자도 사용하기 쉬운 디자인이 특징입니다.
+**특징**: 유로락 규격의 제창자로서 기본적인 모듈을 많이 라인업. 초보자도 취급하기 쉬운 디자인이 특징입니다.
 
 ---
 
-#### 소음공학
+#### Noise Engineering(노이즈 엔지니어링)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MhbaVXk5Mr8?si=89rfvzzrMWqoAlBx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -77,34 +77,34 @@ Eurorack 모듈형 신디사이저는 1990년대 초 독일 엔지니어 Dieter 
 
 **대표 모듈**: Basimilus Iteritas, Loquelic Iteritas
 
-**특징**: 디지털 합성을 활용하여 모듈에 날카로운 톤과 높은 음압을 제공합니다. 특히 극단적인 사운드 생성에 적합합니다.
+**특징**: 디지털 신디시스를 구사해, 날카로운 음색과 높은 음압을 가지는 모듈을 제공. 특히 익스트림 소리 만들기에 적합합니다.
 
 
 <hr>
 
-### 음악 장르/장면에 미치는 영향
+### 음악 장르 장면에 미치는 영향
 
-Eurorack 모듈식 신디사이저는 특정 음악 장르와 장면에 큰 영향을 미쳤습니다.
+유로 랙 모듈러 신디사이저는 특정 음악 장르와 장면에 큰 영향을 미쳤습니다.
 
-#### 실험적/주변적
+#### 체험 / 앰비언트
 
-Alessandro Cortini 및 Keith Fullerton Whitman과 같은 아티스트는 Eurorack을 사용하여 복잡하고 심오한 음향 세계를 만듭니다.
+알레산드로 코르티니 (Alessandro Cortini)와 케이트 풀턴 휘트먼 (Keith Fullerton Whitman)과 같은 아티스트는 유로 랙을 사용하여 복잡하고 심오한 사운드 세계를 구축합니다.
 
 
 #### 테크노/IDM
 
-많은 아티스트가 라이브 공연과 스튜디오 제작에 Eurorack을 사용하여 즉흥적이고 역동적인 사운드를 만들어냅니다.
+아티스트 중에는 유로락을 라이브 퍼포먼스나 스튜디오 제작에 활용해 즉흥적이고 역동적인 소리 만들기를 실시하고 있는 사람도 많습니다.
 
-#### 팝/록
+#### 팝/락
 
-Coldplay 및 Nine Inch Nails와 같은 밴드도 Eurorack을 수용하여 작곡 및 라이브 공연에 새로운 톤을 추가했습니다.
+Coldplay나 Nine Inch Nails등의 밴드도 유로락을 도입해, 악곡 제작이나 라이브 퍼포먼스에 새로운 음색을 더하고 있습니다.
 
 
 <hr>
 
-### 사용자 및 아티스트를 위한 사용 예
+### 사용자 및 아티스트 활용 사례
 
-다음은 Eurorack 모듈식 신디사이저를 활용하는 주목할만한 아티스트와 그들의 시그니처 모듈입니다.
+다음은 유로 랙 모듈러 신디사이저를 활용하는 유명한 아티스트와 그 대표적인 모듈의 일부입니다.
 
 <div class="table-border">
 <table>
@@ -146,9 +146,9 @@ Coldplay 및 Nine Inch Nails와 같은 밴드도 Eurorack을 수용하여 작곡
 
 <hr>
 
-### Surgeon's Live 설정의 특징
+### Surgeon의 라이브 설정 기능
 
-Surgeon의 라이브 셋업은 최소한의 장비로 최대의 표현력을 추구하는 것이 특징입니다. 그는 복잡한 장비 조합보다는 제한된 수의 모듈을 사용하여 즉흥적으로 연주합니다. 이는 관객과의 일체감과 예측 불가능성을 만들어 라이브 테크노 공연에 새로운 차원을 선사합니다.
+Surgeon의 라이브 셋업은 최소한의 장비로 최대의 표현을 추구하는 것을 특징으로 합니다. 그는 복잡한 장비 조합이 아닌 제한된 모듈을 사용하여 즉각적인 성능을 제공합니다. 이를 통해 관객과의 일체감과 예측 불가능한 전개를 만들어내 테크노의 라이브 퍼포먼스에 새로운 차원을 가져오고 있습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YzbRHySXq9s?si=opHMYGQNVsB-7qI6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -156,8 +156,8 @@ Surgeon의 라이브 셋업은 최소한의 장비로 최대의 표현력을 추
 <hr>
 
 
-### 작은 상자부터 무한한 소리까지
+### 작은 상자에서 끝없는 사운드로
 
-Eurorack 모듈식 신디사이저는 유연성과 확장성을 통해 아티스트에게 새로운 창작의 자유를 제공합니다. 계속 발전함에 따라 음악 현장에서 그 역할은 더욱 중요해질 것입니다.
+유로 랙 모듈러 신디사이저는 유연성과 확장성으로 아티스트에게 새로운 창조의 자유를 제공합니다. 앞으로도 그 진화와 함께 음악 장면에서의 역할은 점점 중요해질 것입니다.
 
 ---

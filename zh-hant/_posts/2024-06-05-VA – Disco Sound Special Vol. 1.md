@@ -11,13 +11,13 @@ tags:
 - Soul
 - Funk
 - 70s
-title: VA – 迪斯科聲音特別卷。 1
+title: VA – 迪斯可聲音特別卷。 1
 ---
 
 
-VA – 迪斯科聲音特別卷。 1 - 迪斯科聲音特殊 2 碟唱片套裝
+VA – 迪斯可聲音特別卷。 1 - 迪斯可聲音特殊 2 碟唱片套裝
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Stevie Wonder – You Haven't Done Nothin
 A2. The Temptations – Shakey Ground
@@ -48,5 +48,5 @@ D5. Eddie Kendricks – Shoeshine Boy
 D6. Stevie Wonder – Boogie On Reggae Woman
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m98452664415?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m98452664415?afid=6142608987){: .button1}
 

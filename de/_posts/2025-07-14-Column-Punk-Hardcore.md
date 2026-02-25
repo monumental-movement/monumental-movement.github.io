@@ -13,7 +13,7 @@ title: '[Kolumne] Definition von Punk und Hardcore: der Wendepunkt von Wut und A
 ---
 
 
-## Definition von Punk und Hardcore: der Schnittpunkt von Wut und Ausdruck
+## Definition von Punk und Hardcore ─ Der Schnittpunkt von Wut und Ausdruck
 
 Text: mmr｜Thema: Punk/Hardcore
 
@@ -49,7 +49,7 @@ In dieser Kolumne befassen wir uns mit den Definitionen und Unterschieden zwisch
 
 In Großbritannien wurden in den 1970er Jahren eine Rezession, steigende Arbeitslosenquoten und das Gefühl der Isolation junger Menschen zu sozialen Problemen.
 
-Politisch war es die Entstehungsphase des Thatcherismus. Music functioned as that counterculture.
+Politisch war es die Entstehungsphase des Thatcherismus. Musik fungierte als Gegenkultur.
 
 
 <hr>
@@ -144,7 +144,7 @@ Es hat sich in verschiedene Subgenres wie Post-Hardcore, Emo, Crustcore und Melo
 
 In Japan hat Hardcore-Punk (GAUZE, Lip Cream, G.I.S.M. usw.) eine einzigartige Kultur geschaffen.
 
-Heutzutage gibt es eine Neubewertung der Festivals der Generation Z und der DIY-Generation und sie behalten weiterhin ihre Stärke als Subkultur.
+Mittlerweile gibt es eine Neubewertung der Generation-Z- und DIY-Festivals und sie behalten weiterhin ihre Stärke als Subkultur.
 
 
 <hr>
@@ -154,4 +154,12 @@ Heutzutage gibt es eine Neubewertung der Festivals der Generation Z und der DIY-
 Punk und Hardcore sind nicht nur Musikgenres. Vielmehr ist es Ausdruck der Philosophie, „die eigene Stimme zu haben“, und es ist ein Medium, das dies durch Klang, Körper und Gruppe zum Ausdruck bringt.
 Was diese beiden Trends von uns verlangen, ist nicht nur Zerstörung, sondern vielleicht eine Richtlinie für die Zukunft: „Was sollten wir widerstehen und was sollten wir schaffen?“
 
+---
 
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DaMyCkV5tyk?si=r9sVuMm3thxSfIJq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

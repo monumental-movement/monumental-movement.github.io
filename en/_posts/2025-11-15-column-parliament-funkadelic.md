@@ -21,7 +21,7 @@ title: '[Column] Parliament / Funkadelic: The whole story of the P-Funk revoluti
 Text: mmr｜Theme: About the worldview of P-Funk, which still exists as the foundation of current hip-hop, R&B, electro, art, and fashion.
 
 
-In the history of American black music in the latter half of the 20th century, **Parliament/Funkadelic (commonly known as P-Funk)** is the group that combines the most grand myth and sound innovation.
+In the history of black American music in the second half of the 20th century, **Parliament/Funkadelic (commonly known as P-Funk)** is the group that combines the grandest mythology and sound innovation.
 Led by George Clinton, this collective was more than just a band, it was a gigantic project that combined a multiverse story, a futuristic technological sensibility, and the thoroughly physical rhythms of funk.
 
 P-Funk becomes clear when you understand it in terms of the following three axes.
@@ -83,7 +83,7 @@ After Larry Graham's slap, funk quickly became more rhythm-driven, but Funkadeli
 * **Black church gospel call and response**
 * **Lyrics with strong political criticism**
 
-In particular, 1971"s "Maggot Brain" is famous for Eddie Hazell"s over 10 minute guitar solo.
+In particular, 1971"s "Maggot Brain" is remembered for Eddie Hazell"s over 10 minute guitar solo.
 It has been described as the "musical embodiment of black sadness and anger."
 
 ---
@@ -129,7 +129,7 @@ The drumming of Jerome "Bigfoot" Braley and others has the following characteris
 
 * Minimal bass drum
 * Snare is deep and back
-*Hi-hat has a bit of shuffle
+*Hi-hat has a bit of a shuffle
 
 As a result, the beat feels like it's moving forward while floating.
 
@@ -222,24 +222,27 @@ In particular, the following artists sampled extensively.
 ## Chapter 8: P-Funk Chronology (Details)
 
 <div class="mermaid">
-
 timeline
-    title Parliament / Funkadelic 年表
-    1950 : ジョージ・クリントン、The Parliaments 結成
-    1967 : "I Wanna Testify" が小ヒット
-    1968 : Funkadelic 始動（Westbound Records）
-    1970 : 『Funkadelic』デビュー
-    1971 : 『Maggot Brain』発表
-    1974 : Parliament と Funkadelic が並行で活動
-    1975 : 『Mothership Connection』リリース
-    1977 : Bootsy’s Rubber Band が成功
-    1978 : 『One Nation Under a Groove』全米1位
-    1980 : P-Funk名義の活動が縮小
-    1990s : G-Funkムーブメントで再評価
-    1997 : George Clinton、Rock & Roll Hall of Fame入り
-    2010s : クリントン、若手と共演しつつツアー継続
-
+    title Parliament / Funkadelic History
+    1950 : George Clinton forms The Parliaments
+    1967 : I Wanna Testify released
+    1968 : Funkadelic begins
+    1970 : Funkadelic debut album
+    1971 : Maggot Brain released
+    1974 : Parallel era
+    1975 : Mothership Connection
+    1977 : Bootsy’s Rubber Band success
+    1978 : One Nation Under a Groove hits No.1
+    1980 : Activity declines
+    1990s : G-Funk revival
+    1997 : Rock & Roll Hall of Fame
+    2010s : Touring continues
 </div>
+
+<script type="module">
+import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+mermaid.initialize({ startOnLoad: true });
+</script>
 
 ---
 
@@ -265,7 +268,7 @@ timeline
 ## Conclusion: P-Funk is a "huge archive of black futures"
 
 George Clinton is more than just a funk leader.
-He was a "cultural architect" who brought together **music, the body, the universe, mythology, and social criticism**.
+He was a "cultural designer" who brought together **music, the body, the universe, mythology, and social criticism**.
 
 P-Funk's worldview is still alive today as the foundation of current hip-hop, R&B, electro art, and fashion.
 As long as P-Funk remains at the center of black music that speaks to the future, their spaceship "Mothership" will never land.
@@ -285,18 +288,23 @@ As long as P-Funk remains at the center of black music that speaks to the future
 ### Appendix: Live composition (1976 Mothership Tour reproduction map)
 
 <div class="mermaid">
-
 flowchart TD
     Audience((Audience)) --> Stage[Main Stage]
 
-    Stage --> Horns["Horn Section\n(Horny Horns)"]
+    Stage --> Horns["Horn Section<br/>(Horny Horns)"]
     Stage --> Vocals["Vocal Ensemble"]
-    Stage --> Bootsy["Bootsy Collins\n(Bass)"]
-    Stage --> Bernie["Bernie Worrell\n(Keyboards)"]
+    Stage --> Bootsy["Bootsy Collins<br/>(Bass)"]
+    Stage --> Bernie["Bernie Worrell<br/>(Keyboards)"]
     Stage --> Guitar["Guitar Zone"]
-    Stage --> Ship["Mothership\nAdvent Gimmick"]
-
+    Stage --> Ship["Mothership Advent Gimmick"]
 </div>
 
+---
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZR_KBH5l4Q?si=dio345UiB7uDliAc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

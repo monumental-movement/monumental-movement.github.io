@@ -14,10 +14,10 @@ title: Håkan Lidbo – 從哈克尼到加拉加斯 EP
 ---
 
 
-Hakan Lidbo 是一位瑞典流行/舞曲音樂製作人，他與 Fatboy Slim、Yello、Depeche Mode 和 Kool Keith 等藝術家進行混音和合作。他還管理瑞典舞蹈廠牌 MNW Dance、Left < > Right Recordings，並與 John Andersson 共同經營 Container Recordings。
+Hakan Lidbo 是一位瑞典流行/舞曲音樂製作人，他與 Fatboy Slim、Yello、Depeche Mode 和 Kool Keith 等藝術家進行混音和合作。他也管理瑞典舞蹈廠牌 MNW Dance、Left < > Right Recordings，並與 John Andersson 共同經營 Container Recordings。
 
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. From Hackney To Caracas
 A2. Hot Pants
@@ -26,7 +26,7 @@ B1. Both Ends Burning
 B2. Out To Lunch
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m66936691060?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m66936691060?afid=6142608987){: .button1}
 
 #### Youtube
 

@@ -58,7 +58,7 @@ Mariage, épouses et enfants : Son épouse légale était Robin Popper (plus tar
 Des articles de journalisme et de non-fiction ont exploré cette double nature, avec des anecdotes sur lui comme un « soldat/ancien marine/héros de guerre » et des histoires sur lui comme un « chef de secte/ex-marine/voleur de banque » avec des accusations d'implication dans des vols de banque et des meurtres.
 
 
-Pendant que la commune fonctionnait, il existe des documents faisant état de conflits typiques des opérations sectaires, tels que « l'abandon de biens personnels », « la séparation des membres de la famille » et « l'autorisation de marier de jeunes membres ».
+Pendant que la commune fonctionnait, il existe des documents faisant état de conflits typiques des opérations sectaires, tels que « l'abandon de biens personnels », « la séparation des parents » et « l'autorisation de marier de jeunes membres ».
 
 
 Le 25 août 1975, il est décédé dans un accident alors qu'il tentait son premier vol en deltaplane à Hawaï (il se serait écrasé et serait décédé environ 9 heures plus tard). Cet accident est effectivement devenu un événement symbolisant la « fin » de Yahooha13.
@@ -73,7 +73,7 @@ Après cela, les membres de la congrégation se sont dispersés, mais celle-ci a
 
 #### Membres constituants et historique de dénomination
 
-Programmation principale : principalement Djin Aquarian (guitare), Octavius ​​​​Aquarian (batterie) et Sunflower Aquarian (basse), ainsi que d'autres musiciens croyants du "nom de famille Aquarian" tels que Lovely, Hom, Rhythm, Pythias, Aquarian.
+Programmation principale : principalement Djin Aquarian (guitare), Octavius ​​​​​​Aquarian (batterie) et Tournesol Aquarian (basse), ainsi que d'autres musiciens croyants du « nom de famille Aquarian » tels que Lovely, Hom, Rhythm, Pythias, Aquarian.
 
 
 Initialement publié sous le nom de « Father Yod & The Spirit of '76 ». Après cela, la notation telle que « Ya Ho Wa 13 / Yahowha13 / YaHoWha13 / Yahowa 13 » a été utilisée avec quelques fluctuations.
@@ -128,7 +128,7 @@ Durant cette période, il explore la fusion des expérimentations acoustiques et
 Ya Ho Wa 13 (1974), Savage Sons of Ya Ho Wa (1974), Penetration: An Aquarian Symphony (1974), I'm Gonna Take You Home (1974), To the Principles for the Children (1975), The Operetta (inédit en 1975 → sorti plus tard), etc.
 
 
-Au cours de cette période, des tentatives ont également été faites pour incorporer davantage de « structuralité » et de « musicalité », avec un style qui comprenait un mélange de riffs de guitare déformés, de phrases répétitives et de poésie et de chant fragmentés.
+Au cours de cette période, des tentatives ont également été faites pour incorporer davantage de « structuralité » et de « musicalité », avec un style comprenant des riffs de guitare déformés, des phrases répétées et une poésie et un chant fragmentés.
 
 
 En particulier, Penetration: An Aquarian Symphony est considéré comme l'œuvre la plus populaire et la plus réévaluée de l'histoire du groupe, et a été rééditée à plusieurs reprises.
@@ -150,7 +150,7 @@ Depuis les années 2000, il y a eu des rééditions et des réimpressions d'arch
 
 ### Liste d'albums recommandés par génération
 
-Ce qui suit est une liste d'œuvres majeures liées à Yahowha13/Father Yod organisées par année en tant qu'œuvres recommandées.
+Ce qui suit est une liste d'œuvres majeures liées à Yahowha13/Father Yod, organisées par année en tant qu'œuvres recommandées.
 
 
 | Année | Nom de l'album | Explication | Lien |
@@ -209,7 +209,7 @@ Depuis la fin des années 1990, les enregistrements Yahooha13 et Source Family o
 Depuis les années 2000, des rééditions remasterisées de LP originaux et des collections de matériels inédits ont été publiées les unes après les autres par Swordfish Records, Drag City, Captain Trip Records et d'autres.
 
 
-En 2012, la sortie du film documentaire The Source Family (réalisé par Jodi Wille et Maria Demopoulos) a suscité un regain d'intérêt du grand public.
+En 2012, la sortie du film documentaire The Source Family (réalisé par Jodi Wille et Maria Demopoulos) a suscité un regain d'intérêt auprès du grand public.
 
 
 2009 年には [Magnificence in the Memory](https://amzn.to/4nZE5aq) といった未発表曲編集盤がリリースされ、ファン・研究者の関心を再び喚起した。
@@ -277,7 +277,7 @@ Point : Le cœur de l’auto-enregistrement. Lors de l'enregistrement au Garage
 
 [Penetration: An Aquarian Symphony（1974）](https://amzn.to/4hdcYa5)
 
-Chansons et moments forts : contient de longs morceaux tels que "Yod He Vau He", "Ho", "Journey Thru An Elemental Kingdom" et "Ya Ho Wha". C'est la cristallisation du "ritualistic" et du "psychedelic jam", et c'est l'album représentatif le plus facilement disponible avec de nombreuses rééditions. Il a une grande dynamique semblable à un paysage sonore, et nous recommandons de commencer ici pour les nouveaux auditeurs.
+Chansons et moments forts : contient de longs morceaux tels que "Yod He Vau He", "Ho", "Journey Thru An Elemental Kingdom" et "Ya Ho Wha". C'est la cristallisation du "ritualistic" et du "psychedelic jam", et c'est l'album représentatif le plus facilement disponible avec de nombreuses rééditions. Il a une grande dynamique semblable à un paysage sonore, et nous recommandons aux nouveaux auditeurs de commencer ici.
 
 
 ---
@@ -310,10 +310,10 @@ Fait : De nombreux morceaux sont centrés sur des chants, des lignes fragmenté
 
 Motif principal :
 
-Répétition de « Ya Ho Wha / Ya Ho Wa / YHWH (similitude consonantique) » - nom divin/rôle sacré.
+Répétition de « Ya Ho Wha / Ya Ho Wa / YHWH (similitude consonantique) » - Nom divin/rôle sacré.
 
 
-Références à l’archétype « voyage/purification/éléments (feu/eau/air/terre) » — un symbole qui apparaît également dans les titres des albums/chansons.
+Références à l’archétype « voyage/purification/éléments (feu/eau/air/terre) » – un symbole qui apparaît également dans les titres des albums/chansons.
 
 
 Phrases doctrinales/rituelles (mots indiqués par des noms de morceaux expurgés tels que « l'homme le messie ») – mots improvisés et superposés comme la déclaration d'un leader.
@@ -563,4 +563,4 @@ Plus qu'un simple rock psychédélique, la musique de Yahowha 13 et de Father Yo
 
 Ses enregistrements, tels que les albums Penetration: An Aquarian Symphony et I'm Gonna Take You Home, documentent une fusion de rituel religieux et d'improvisation psychédélique qui reste évocatrice même pour les auditeurs modernes. Il a été réévalué aux États-Unis en tant que document de l'histoire du culte, en Allemagne en tant qu'expérience acoustique et au Japon en tant que religion psychédélique ésotérique, chaque culture développant ses propres interprétations.
 
-Aujourd'hui, grâce au streaming et aux rééditions, la musique de Yahowha 13 est largement accessible, et leur passé culte a culminé dans leur influence sur la scène musicale contemporaine. L'esprit de Father Yod et l'esprit expérimental de Source Family vont au-delà de la simple musique et continuent de défier les nouvelles générations aux possibilités de la communauté, de l'improvisation et de la spiritualité.
+Aujourd'hui, grâce au streaming et aux rééditions, la musique de Yahowha 13 est largement accessible, et leur passé culte a culminé dans leur influence sur la scène musicale contemporaine. L'esprit de Father Yod et l'esprit expérimental de Source Family vont au-delà de la simple musique et continuent de défier les nouvelles générations aux possibilités de communauté, d'improvisation et de spiritualité.

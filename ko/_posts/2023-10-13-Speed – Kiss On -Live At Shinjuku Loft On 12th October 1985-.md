@@ -9,13 +9,13 @@ permalink: /ko/speed-kiss-on-live-at-shinjuku-loft-on-12th-october-1985/
 tags:
 - Rock
 - Punk
-title: Speed ​​– Kiss On -1985년 10월 12일 신주쿠 로프트 라이브-
+title: Speed ​​– Kiss On -Live At Shinjuku Loft On 12th October 1985-
 ---
 
 
-스피드(Speed)는 하치부노무라(Hachibu no Mura)의 전 멤버인 아오키 신이치(Aoki Shinichi)가 1976년에 결성하여 1980년대 후반까지 활동한 일본의 록 밴드이다.
+Speed(스피드)는, 모토무라 팔분의 아오키 마이치가 1976년에 결성해, 1980년대 후반까지 활동한 일본의 록 밴드.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. 祈り合掌 Do It!
 

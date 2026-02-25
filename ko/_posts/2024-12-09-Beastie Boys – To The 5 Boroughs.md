@@ -11,14 +11,14 @@ tags:
 - Electro
 - Conscious
 - 00s
-title: 비스티 보이즈 – 5개 자치구로
+title: Beastie Boys – To The 5 Boroughs
 ---
 
 
-"To the 5 Boroughs"는 2004년 발매된 미국 힙합 그룹 비스티 보이즈의 여섯 번째 정규 앨범이다. 이 앨범은 빌보드 200에서 1위로 데뷔해 첫 주에 36만 장을 팔았고 RIAA로부터 플래티넘 인증을 받았다.
-12번 트랙은 일본어판에서만 볼 수 있는 보너스 트랙이다.
+‘To the 5 Boroughs’는 2004년 출시된 US 힙합 그룹 Beastie Boys의 6번째 스튜디오 앨범. 이 앨범은 빌보드 200에서 1위로 데뷔해 첫 주에 360,000장을 매상, RIAA로부터 플래티넘 인증을 받았다.
+12곡째는 일본판만의 보너스 트랙.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Ch-Check It Out
 2. Right Right Now Now
@@ -42,5 +42,5 @@ title: 비스티 보이즈 – 5개 자치구로
 [メルカリで購入](https://jp.mercari.com/item/m39197590666?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ny6hwUOFvlw?si=v7n3tnD_yykZo3wm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

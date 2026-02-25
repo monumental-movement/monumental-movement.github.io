@@ -154,7 +154,7 @@ La musique a toujours donné la priorité au sens au sein de la communauté. Le 
 ## Héritage et pratique à l'époque moderne
 
 
-Actuellement, de nombreux peuples autochtones utilisent des enregistrements audio et vidéo pour enregistrer leur culture musicale et l'utiliser à des fins éducatives et d'héritage culturel. La musique est également devenue un symbole d’affirmation de l’indépendance culturelle et des droits fonciers.
+Actuellement, de nombreux peuples autochtones utilisent des enregistrements audio et vidéo pour enregistrer leur culture musicale et l'utiliser à des fins d'éducation et d'héritage culturel. La musique est également devenue un symbole d’affirmation de l’indépendance culturelle et des droits fonciers.
 
 Dans le même temps, il existe une forte prudence à l’égard d’une utilisation commerciale qui a perdu son contexte. La musique continue d'être un acte de vie au sein d'une communauté.
 

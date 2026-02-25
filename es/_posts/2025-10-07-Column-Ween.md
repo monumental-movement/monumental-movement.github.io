@@ -17,7 +17,7 @@ title: '[Columna] Ween - Un universo extraño nacido de un garaje suburbano'
 
 ## “¿Qué es Ween?”
 
-Texto: mmr | Tema: Boognish, un extraño dios nacido en un garaje suburbano de Estados Unidos. Desde su descenso hasta la alquimia lo-fi y la mitología de las profundidades marinas, The Mollusk, rastreamos el universo musical dibujado por los extraños hermanos Ween.
+Texto: mmr | Tema: Boognish, un extraño dios nacido en un garaje suburbano de Estados Unidos. Desde su descenso hasta la alquimia lo-fi y la mitología de las profundidades marinas, The Mollusk, recorre el universo musical dibujado por los extraños hermanos Ween.
 
 
 > Un garaje escondido en los suburbios de Estados Unidos.
@@ -48,9 +48,9 @@ Una tranquila zona residencial en Pensilvania a mediados de los años 1980.
 Dos niños toman una cinta de casete y una grabadora de 4 pistas y comienzan un extraño ritual.
 **Aaron Freeman (Gene Ween)** y **Mickey Melchiondo (Dean Ween)**.
 
-El “**Boognish**” que crearon es más que un simple logotipo o personaje.
+La existencia de “**Boognish**” que crearon es más que un simple logotipo o personaje.
 Un dios ficticio de la risa y la locura, era un símbolo de la propia música de Ween.
-Los ruidos, las voces extrañas y los cambios de tono inusuales que se encontraban dispersos a lo largo de las grabaciones caseras fueron todos bendecidos por Boognish.
+Los ruidos, las voces extrañas y los cambios de tono inusuales que se encontraban dispersos a lo largo de las grabaciones caseras fueron bendecidos por Boognish.
 
 > "Boognish no es una broma. Es todo lo que hacemos".
 > — *Entrevista a Dean Ween, 2003*
@@ -67,7 +67,7 @@ Pero musicalmente eran casi como gemelos.
 Gene es la encarnación de la emoción y el caos, Dean es el maestro de la construcción y el oficio.
 En el momento en que los dos chocan, nace el caos y la magia típicos de Ween.
 
-[“The Pod”](https://amzn.to/46LSWjm) (1991) usa un micrófono barato y un viejo cuatro pistas
+[“The Pod”](https://amzn.to/46LSWjm) (1991) usa un micrófono barato y un viejo reproductor de cuatro pistas
 **Reglas de “Belleza sucia”**. Voces distorsionadas, tambores apagados,
 Aún así, todo fue perfectamente Ween.
 Es como si Boognish viviera dentro del equipo.
@@ -167,7 +167,7 @@ Era más un ritual que una banda.
 Sin embargo, detrás de escena, hubo conflictos entre el alcohol, las drogas, el cansancio y la amistad.
 En 2008, Gene Ween dejó la banda por motivos personales.
 Superó su dependencia del alcohol y comenzó un camino tranquilo hacia la recuperación.
-Dean formó **The Dean Ween Group** y conectó el espíritu de Ween de otra manera.
+Dean formó **The Dean Ween Group** y conectó las almas de Ween de otra manera.
 
 ---
 
@@ -238,7 +238,7 @@ flowchart TD
 | 1997 | [El Molusco](https://amzn.to/48VBtpT) | Un hito en el psico-pop |
 | 2000 | [Pimienta blanca] (https://amzn.to/4o6RI7P) | “Ween como los Beatles” |
 | 2003 | [Québec](https://amzn.to/4gZ8SlA) | Fusión de introspección y experimentación |
-| 2007 | [La Cucaracha](https://amzn.to/46STLa9) | La última obra que marca el final |
+| 2007 | [La Cucaracha](https://amzn.to/46STLa9) | La última obra que marca el final de la vida |
 
 ---
 
@@ -272,3 +272,13 @@ Un viaje sin fin para volver a los orígenes de la música.
 
 Hoy en día, Ween todavía se ríe felizmente en algún lugar del fondo del océano.
 
+---
+
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F53T6s06MUc?si=6dfE6Ds-w1YpqkYh" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---

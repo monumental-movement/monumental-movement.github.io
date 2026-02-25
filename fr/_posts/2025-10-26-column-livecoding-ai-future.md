@@ -80,7 +80,7 @@ Cette fusion laisse présager un avenir où l’IA deviendra une co-star du Live
 
 Les Human Live Coders **apprécient les erreurs et le hasard**.
 Des sons inattendus et des malentendus animent la musique.
-En revanche, l’improvisation de l’IA est une **« reconstruction » basée sur des données passées**,
+D’un autre côté, l’improvisation de l’IA est une **« reconstruction » basée sur des données passées**,
 Pour l’essentiel, cela reste dans les limites du vraisemblable.
 
 Mais cette différence est aussi source de créativité.
@@ -130,7 +130,7 @@ La philosophie de TOPLAP « ouvrir le processus » est
 Lorsque l'IA rejoint cette culture,
 Nous devons résister à la « boîte noire ».
 
-Si une IA générative propose un code, son processus d’apprentissage et ses critères de décision devraient également être rendus publics.
+Si une IA générative propose un code, son processus d’apprentissage et ses critères de décision doivent également être rendus publics.
 C’est la clé pour ouvrir l’avenir de la musique algorithmique.
 
 ---
@@ -144,7 +144,7 @@ L'IA improvise des centaines de modèles sonores.
 Le fait de sélectionner et d'éditer à partir de là est en soi une « performance ».
 
 De plus, en intégrant l'environnement Live Coding à l'IA,
-Il est également possible qu'elle devienne une "interface invite = performance".
+Il est également possible qu'elle devienne une "interface invite = performances".
 Plus besoin de souris ou de MIDI.
 **L'ère où le langage et les pensées elles-mêmes deviennent des sons** arrive.
 
@@ -190,7 +190,7 @@ flowchart TD
 
 ## Conclusion : Une nouvelle démocratisation de la créativité
 
-Le Live Coding passe par "l'expression improvisée à travers des accords".
+Le Live Coding passe par "l'expression d'improvisation à travers des accords".
 Il a ouvert la musique à un acte que n'importe qui pouvait créer.
 L’IA favorisera davantage la démocratisation,
 Nous essayons de créer une **culture de partage de « l'intelligence du spectacle »**.

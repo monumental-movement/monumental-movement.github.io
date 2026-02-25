@@ -9,13 +9,13 @@ permalink: /ko/quartz-the-calling-ep/
 tags:
 - Techno
 - Tech Trance
-title: 쿼츠 – The Calling EP
+title: Quartz – The Calling EP
 ---
 
 
-Quartz(Adriano Filippucci)는 이탈리아의 DJ이자 프로듀서입니다. The Calling은 몬트리올에 본사를 둔 테크 트랜스 레이블 Ascend Recordings에서 2002년에 발매한 테크노 트랙입니다.
+Quartz [ 쿼츠 ] (Adriano Filippucci)는 이탈리아의 DJ 프로듀서. The Calling은 2002년에 몬트리올에 거점을 두는 테크 트랜스 라벨 Ascend Recordings로부터 릴리스된 테크노 트럭.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Calling
 

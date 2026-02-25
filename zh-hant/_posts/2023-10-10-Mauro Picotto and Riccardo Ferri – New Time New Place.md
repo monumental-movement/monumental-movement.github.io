@@ -12,10 +12,10 @@ title: Mauro Picotto & Riccardo Ferri – 新時間新地點
 ---
 
 
-“新時間新地點”是
-這是 Mauro Picotto 和 Riccardo Ferri 於 2004 年在德國廠牌“T:Classixx”上發行的 EP。
+「新時間新地點」是
+這是 Mauro Picotto 和 Riccardo Ferri 於 2004 年在德國廠牌「T:Classixx」發行的 EP。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. New Time New Place (Eric Sneo Remix)
 
@@ -24,7 +24,7 @@ A2. New Time New Place (Marc Etienne & Rob Acid Remix)
 B1. New Time New Place (Original)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m99146972964?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m99146972964?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s1AW1kXHb8A?si=i6eMz0-1r7AmYoj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,17 +10,17 @@ tags:
 - Electro
 - Tech House
 - 00s
-title: 에클리에 – Boxon Say Hello
+title: Eclier – Boxon Say Hello
 ---
 
 
-Boxon Records의 디렉터 Julien Minet(일명 DCFTD, DJ Cat)이 SNS를 통해 발굴한 시베리아 출신의 Eclier는 프렌치 일렉트로 스타일로 유명한 아티스트이다.
+SNS를 통해 Boxon Records의 디렉터 Julien Minet(일명 DFCTD, DJ Cat)에 의해 발굴된 시베리아 출신의 Eclier는 프렌치 일렉트로 스타일이 특징인 아티스트.
 
-B2는 Romain Grenier와 함께 Just A Band 유닛으로 활동하고 있는 프랑스 DJ 겸 프로듀서 Tom Deluxx의 리믹스입니다.
+B2는 Romain Grenier와의 유닛 Just A Band에서도 활동하는 프랑스인 DJ 프로듀서 Tom Deluxx(톰 디럭스)에 의한 remix.
 
-"Boxon Say Hello"는 2008년 Boxon Records가 발매한 Electro, Tech House의 트랙입니다.
+「Boxon Say Hello」는 2008년에 Boxon Records에서 발매된 Electro, Tech House 트랙.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Boxon Say Hello
 A2. Disco
@@ -32,7 +32,7 @@ B2. The Geneticist (Tom Deluxx Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m10519633857?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0s36c1i0MPA?si=rvYDEsEapn07J8AN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QDnPiniV_cE?si=8Rfh9aycybU0oxoL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

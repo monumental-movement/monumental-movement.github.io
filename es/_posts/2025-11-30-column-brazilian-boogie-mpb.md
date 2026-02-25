@@ -80,7 +80,7 @@ Los artistas representativos incluyen **Tim Maia, Cassiano, Hyldon y Carlos Daf�
 
 ### 2-1. Tim Maia
 
-Tim Maia es un pionero de la música soul/funk brasileña. Después de vivir en Estados Unidos, desarrolló MPB que incorporó elementos disco-funk después de regresar a Japón. El disco *Racional*, lanzado en 1975, combinaba temas religiosos con funk-disco, y posteriormente fue reevaluado.
+Tim Maia es un pionero de la música soul/funk brasileña. Después de vivir en Estados Unidos, desarrolló MPB que incorporó elementos disco-funk después de regresar a Japón. El disco *Racional*, lanzado en 1975, combinaba temas religiosos con funk-disco, y fue posteriormente reevaluado.
 
 ### 2-2. casiano
 

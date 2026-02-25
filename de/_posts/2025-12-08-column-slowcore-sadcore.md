@@ -67,7 +67,7 @@ In den späten 1980er Jahren galten **Galaxie 500** mit ihren entspannten Tempi,
 Im Jahr 1991, während der alternativen Explosion, die durch Nirvanas „Nevermind“ symbolisiert wurde, erwies sich die Haltung „Wage es nicht, die Lautstärke aufzudrehen“ als paradoxe Alternative.
 
 ## ■ Indie-Ästhetik des Mittleren Westens Amerikas
-Durch die Konzentration auf kleine Labels in regionalen Städten wie Minnesota, Ohio und Kalifornien wurde **eine rustikale Aufnahmeumgebung = Lo-Fi-Ästhetik** mit Slowcore in Verbindung gebracht.
+Durch die Konzentration auf kleine Labels in regionalen Städten wie Minnesota, Ohio und Kalifornien wurde die **rustikale Aufnahmeumgebung = Lo-Fi-Ästhetik** mit Slowcore in Verbindung gebracht.
 
 ---
 
@@ -84,7 +84,7 @@ Durch die Konzentration auf kleine Labels in regionalen Städten wie Minnesota, 
 - *Ocean Beach* (1995)
 
 **Besonderheiten:**
-Lieder wie „Katy Song“ und „Funhouse“ haben eine Struktur, bei der die „Verlängerung zwischen den Noten“ aufgrund ihrer Ruhe und Länge (6 bis 10 Minuten) die Emotionen verstärkt.
+Songs wie „Katy Song“ und „Funhouse“ haben eine Struktur, bei der die „Verlängerung zwischen den Noten“ aufgrund ihrer Ruhe und Länge (6 bis 10 Minuten) die Emotionen verstärkt.
 
 ---
 
@@ -133,7 +133,7 @@ Lieder wie „Katy Song“ und „Funhouse“ haben eine Struktur, bei der die �
 - Clean-orientierte Verstärker wie Fender Twin Reverb, Vox und Mesa/Boogie
 
 ### ■ Wirkung
-- Reverb (Platte, Hall)
+- Reverb (Platte, Halle)
 - Verzögerung (Analogverzögerung / Digitalverzögerung)
 - Tremolo
 - Chor (mindestens erforderlich)
@@ -175,7 +175,7 @@ Aus musikpsychologischer Sicht fördert Musik mit langsamem Tempo und geringem I
 - **Emotionale Ruhe**
 - **Erweiterung des Zeitbewusstseins (Lieder fühlen sich länger an)**
 
-Wenn Slowcore daher häufig in Filmen, Fotos und Videoarbeiten verwendet wird, weist es eine äußerst starke Kompatibilität auf, wenn es um die Angabe „angehaltener Zeit“ geht.
+Wenn Slowcore daher häufig in Filmen, Fotos und Videoarbeiten verwendet wird, weist es eine äußerst hohe Kompatibilität auf, wenn es um die Angabe „angehaltener Zeit“ geht.
 
 ---
 
@@ -192,7 +192,7 @@ Auf YouTube haben sich Videogenres wie „Slowcore Edit“ und „Sadcore-Atmosp
 
 ---
 
-# 7. Slowcore seit den 2000ern
+# 7. Slowcore seit 2000
 ## ■ Beispiele für geerbte Künstler
 - **Duster** (1996~) Neubewertung
 - **Zigaretten nach dem Sex** (2012~)
@@ -236,7 +236,7 @@ flowchart TD
 # 10. Zusammenfassung
 Slowcore/Sadcore ist ein Genre, das in den 1990er Jahren in der amerikanischen Indie-Musik entstand und Wert auf „Ruhe“ legt. Langsames Tempo, wenige Noten, entfernter Nachhall und introspektive Texte. Diese wurden als Gegenstück zu intensiver Musik geboren, stehen nun aber wieder im Rampenlicht der visuellen Kultur und der sozialen Medien.
 
-Vielmehr erlaubt die Beschränkung auf „wenige Töne“ **dem Zuhörer, tiefer in die Musik einzutauchen und die Konturen der Welt deutlicher hervortreten zu lassen**.
+Vielmehr erlaubt die Beschränkung auf „wenige Töne“ **dem Zuhörer, tiefer in die Musik einzutauchen und die Konturen der Welt klarer hervortreten zu lassen**.
 Slowcore ist eine einzigartige Musikrichtung, die kleinste Emotionseinheiten leise darstellt.
 
 

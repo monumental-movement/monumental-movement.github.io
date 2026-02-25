@@ -160,7 +160,7 @@ Una obra maestra electrónica pero idílica.
 
 ## ● Funciones musicales
 - Sonidos electrónicos suaves.
-- Sonido temático en torno a la "cosmovisión de los niños"
+- Sonido temático en torno a la "visión del mundo de los niños"
 - Énfasis en la textura suave del sintetizador.
 
 ---
@@ -275,7 +275,7 @@ Es.
 - Respuesta a la urbanización
 - Cultura de estilo de vida y tecnología de electrodomésticos.
 - Innovación en sintetizadores
-- Cooperación con el diseño espacial.
+- Colaboración con el diseño espacial.
 
 Todos estos estuvieron presentes en Japón en la década de 1980.
 

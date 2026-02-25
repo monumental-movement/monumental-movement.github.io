@@ -14,7 +14,7 @@ title: '[Chronique] EBM : une physicalité électronique pilotée par des rythm
 ---
 
 
-## Qu'est-ce que la musique électronique corporelle ?
+## Qu'est-ce que la musique corporelle électronique ?
 
 
 
@@ -154,7 +154,7 @@ EBM a également eu une énorme influence sur les genres suivants :
 
 <hr>
 
-### Lien avec la culture club : l'EBM comme musique corporelle
+### Lien avec la culture du club : l'EBM comme musique corporelle
 L'EBM n'est pas seulement de la musique à écouter à la maison, mais a un aspect très fort en tant que « musique pour danser ». Depuis la fin des années 1980, l'EBM est devenue une culture établie, centrée autour de boîtes de nuit et de festivals spécifiques (par exemple Wave-Gotik-Treffen, Amphi Festival), accompagnée de vêtements sombres, de cuir et de cybercostumes.
 
 Dans les années 1990, alors qu’elle était considérée comme **« Old School EBM »**, la scène s’est diversifiée comme suit :
@@ -205,10 +205,20 @@ Ces artistes sont influencés par l'EBM, mais le combinent avec des éléments t
 <hr>
 
 ### Une esthétique qui fusionne le corps physique et l'électronique
-Comme son nom l’indique, l’EBM est une « musique corporelle électronique ». C'était plus qu'une simple musique de danse, c'était une forme d'expression totale : politique, mécanique, physique et rebelle.
+Comme son nom l’indique, l’EBM est une « musique corporelle électronique ». C’était plus qu’une simple musique de danse, c’était une forme totale d’expression politique, mécanique, physique et rebelle.
 
 Actuellement, l’influence d’EBM s’étend à de nombreux domaines, de la culture des clubs et des festivals à la scène DIY, en passant par l’art et la mode.
 
 Et surtout——
 La « chaleur » qui réside dans ce rythme inorganique fait bouger le corps.
 C'est là l'attrait essentiel d'EBM.
+
+---
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hylMPb5iS7M?si=35mFJOgSczFpbhYp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

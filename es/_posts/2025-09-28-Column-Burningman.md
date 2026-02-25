@@ -273,7 +273,7 @@ Sin embargo, ese año, su arte en llamas "Crude Awakening", que imitaba una plat
 
 #### 2008: Sueño americano
 
-Sueño americano/Cuestiones sobre la sociedad de consumo. Hay mucho arte que presenta temas de consumismo, mitología y estructura social.
+Sueño americano/Preguntas sobre la sociedad de consumo. Hay mucho arte que presenta temas de consumismo, mitología y estructura social.
 
 ---
 
@@ -418,3 +418,12 @@ El tema, que cambia cada año, y la obra de arte a gran escala funcionan como un
 Esa es la esencia de Burning Man: incluso cuando se apagan las hogueras del desierto, el espíritu continúa ardiendo durante el próximo año y en nuestra imaginación.
 
 
+---
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BwoyZozIZl0?si=NTMdBDS8H9g8U7HR" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---

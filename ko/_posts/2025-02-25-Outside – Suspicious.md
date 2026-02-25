@@ -11,19 +11,19 @@ tags:
 - Downtempo
 - Ambient
 - 90s
-title: 외부 – 의심스러운
+title: Outside – Sus?icious
 ---
 
 
-Outside는 Matt Cooper, Andreas Allen, Patrice Blanchard가 결성한 영국 재즈 펑크 그룹입니다.
+Outside는 Matt Cooper(매트 쿠퍼), Andreas Allen, Patrice Blanchard에 의해 결성된 UK 재즈 펑크 그룹.
 
-트랙 2와 8에는 영국 가수 Cleveland Watkiss가 피처링으로 참여했습니다.
+2,8곡째는 영국의 싱어 Cleveland Watkiss(클리블랜드 왓키스)를 피쳐.
 
-트랙 4와 7에는 영국 애시드 재즈 그룹 Galliano의 Constantine Weir가 피처링으로 참여했습니다.
+4,7곡째는 UK 어시드 재즈 그룹 Galliano(갈리아노)의 Constantine Weir(콘스탄틴 위어)를 피쳐.
 
-이 CD는 1998년 Avex에서 발매된 일본어판입니다.
+이 CD는 1998년에 Avex로부터 릴리스된 일본반.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. To Fly As Fast As Thought
 2. The Blackman And The Jew (Similarities)
@@ -42,5 +42,5 @@ Bonus Tracks
 
 [メルカリで購入](https://jp.mercari.com/item/m95343943947?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8CEG3D4-MAk?si=2SwPga66hDBt2BVP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -191,7 +191,7 @@ Parfois | Toujours | JAMC et Espoir Sandoval | La frontière entre noise et pop 
 | Titre de la chanson | Artiste | Commentaires |
 |------|--------------|--------------|
 | Asile contre la famine | Rien | Rugissement moderne et profond |
-| Attrapez la brise (refonte) | Plongée lente | Symbole du nouveau Slowdive |
+| Attrapez la brise (Rework) | Plongée lente | Symbole du nouveau Slowdive |
 | Bisous | Plongée lente | Beauté mélodique transparente |
 | Dites moins | Rien | Mur de son sombre et écrasant |
 | Ne vous fanez pas | Ringo Étoile de la Mort | Beauté rugissante rafraîchie |
@@ -205,3 +205,14 @@ Parfois | Toujours | JAMC et Espoir Sandoval | La frontière entre noise et pop 
 
 # Se balançant entre un son rugissant et une belle mélodie
 Le Shoegaze a germé à la fin des années 1980, a atteint son âge d’or dans les années 1990 et, bien qu’il ait autrefois décliné, il a été relancé depuis les années 2000. Des années 2010 à nos jours, sa musicalité n’a cessé d’être appréciée partout dans le monde, même si elle s’est diversifiée et subdivisée. Ce genre, qui oscille entre sons rugissants et belles mélodies, continue d'avoir une forte influence sur la génération numérique d'aujourd'hui.
+
+---
+
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9jjcA9KJUNM?si=bP5Bi_3AS0jTRBr_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

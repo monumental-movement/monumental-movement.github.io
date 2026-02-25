@@ -109,7 +109,7 @@ Este éxito le valió a Nate Dogg el reconocimiento como "el mejor fabricante de
 La voz de Nate Dogg es distintiva a primera vista, pero si la desglosas en sus elementos, se puede resumir de la siguiente manera.
 
 ### ■ Voz gruesa derivada de la música gospel
-Las cuerdas vocales vibran fuertemente y el sonido es profundo.
+La vibración de las cuerdas vocales es fuerte y la resonancia profunda.
 
 ### ■ Canto en línea recta con poco vibrato
 Esto lo hizo extremadamente compatible con los ritmos duros del hip-hop.

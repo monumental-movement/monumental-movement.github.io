@@ -16,9 +16,9 @@ title: Grooveyard 壯舉。米歇爾·德·海 – 帶我去橋！ （FFWD Heine
 
 Jeroen Verheij，也被稱為 Grooveyard，是一位荷蘭 house/techno DJ/製作人，被稱為 Secret Cinema，也是阿姆斯特丹唱片公司 Gem Records 的創始人。
 
-“帶我去橋！”是由荷蘭重量級選手 Michel de Hey 演唱的 House/Tech House 曲目。該專輯於 1999 年由 Michel De Hey 和 Jeroen Verheij 的唱片公司 EC Records 發行。
+「帶我去橋！」是由荷蘭重量級選手 Michel de Hey 演唱的 House/Tech House 曲目。該專輯於 1999 年由 Michel De Hey 和 Jeroen Verheij 的唱片公司 EC Records 發行。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Take Me To The Bridge! (Club Mix)
 A2. Take Me To The Bridge! (Instrumental Mix)
@@ -27,4 +27,4 @@ B1. Take Me To The Bridge! (Party Mix)
 
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m28809022812?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m28809022812?afid=6142608987){: .button1}

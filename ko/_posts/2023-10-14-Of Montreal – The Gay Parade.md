@@ -9,13 +9,13 @@ permalink: /ko/of-montreal-the-gay-parade/
 tags:
 - Rock
 - Psychedelic
-title: 몬트리올 – 게이 퍼레이드
+title: Of Montreal – The Gay Parade
 ---
 
 
-of Montreal은 Kevin Burns가 이끄는 1996년 조지아에서 결성된 미국의 록 밴드입니다.
+of Montreal은 1996년 조지아 주에서 케빈 번즈를 중심으로 결성된 US 록 밴드.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Old Familiar Way
 2. Fun Loving Nun
@@ -35,5 +35,5 @@ of Montreal은 Kevin Burns가 이끄는 1996년 조지아에서 결성된 미국
 
 [メルカリで購入](https://jp.mercari.com/item/m71222444726?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T4aLrkrnLNc?si=8w34sKNKY0yy2kN7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

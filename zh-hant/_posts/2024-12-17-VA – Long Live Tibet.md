@@ -17,7 +17,7 @@ title: VA——西藏萬歲
 
 慈善CD於1997年發行。該CD的銷售收入捐贈給西藏之家信託慈善機構，該機構支持西藏的解放和西藏難民。
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. Longpigs – Jesus Christ Revisited
 2. Kula Shaker – Govinda, Hari And St. George
@@ -37,7 +37,7 @@ title: VA——西藏萬歲
 16. Supergrass – Wait For The Sun
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m28246404715?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m28246404715?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K_Qd4Qz5Kw0?si=MYHbfQu-eMYWs0_F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

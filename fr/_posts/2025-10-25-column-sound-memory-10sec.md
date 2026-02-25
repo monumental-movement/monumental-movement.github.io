@@ -22,7 +22,7 @@ Texte : mmr｜Thème : Fragments de « 10 secondes » qui ne cessent de résonne
 Lorsque vous regardez votre vie, il y a des moments où quelques secondes de son ont changé vos pensées, vos actions et le reste de votre vie.
 Il peut s'agir de l'intro d'une chanson, du bruit de la radio, d'un riff que vous avez entendu par hasard dans un club ou d'une mélodie que quelqu'un a fredonnée au coin d'une rue la nuit.
 
-Dans cette chronique, j'utiliserai ma propre expérience avec « 10 secondes de son » comme point de départ pour explorer comment le son est lié aux souvenirs, façonne la culture et influence notre « mode de vie ».
+Dans cette chronique, j'utiliserai ma propre expérience avec « 10 secondes de son » comme point de départ pour explorer comment le son est connecté aux souvenirs, façonne la culture et influence notre façon de vivre.
 
 ---
 
@@ -92,7 +92,7 @@ Par exemple, la fanfare olympique, l'intro d'un film Star Wars ou le son d'une n
 Ces sons subtils évoquent une réponse émotionnelle commune à travers les générations et les frontières.
 
 Ce n'est pas un hasard si TikTok et YouTube Shorts se concentrent sur des boucles sonores de 10 à 15 secondes depuis les années 2000.
-L'algorithme sélectionne le « son qui stimule les émotions le plus rapidement », ce qui est devenu un réflexe conditionné par la culture.
+L'algorithme sélectionne le « son qui stimule les émotions le plus rapidement » et c'est devenu un réflexe culturellement conditionné.
 
 ---
 

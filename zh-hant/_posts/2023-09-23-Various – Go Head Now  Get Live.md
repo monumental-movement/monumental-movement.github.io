@@ -17,7 +17,7 @@ title: 各種 – Go Head Now 上線
 
 包含來自美國的 Matt Fingaz、Will Pack 和 Craig G 以及來自日本的 DJ Yas 和 Hazu 的地下曲目。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1  Matt Fingaz, Will Pack, Craig.G  & DJ Yas–Go Head Now (Original Mix)
 
@@ -28,5 +28,5 @@ B1  F.T., P-Dap & Hazu –Get Live (Original Mix)
 B2  F.T., P-Dap & Hazu –Get Live (Instrumental)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m86496222032?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m86496222032?afid=6142608987){: .button1}
 

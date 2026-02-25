@@ -9,17 +9,17 @@ permalink: /ko/stock-hausen-and-walkman-organ-transplants-vol-2/
 tags:
 - Experimental
 - 00s
-title: Stock, Hausen & Walkman – 장기 이식 Vol. 2
+title: Stock, Hausen & Walkman – Organ Transplants Vol. 2
 ---
 
 
-Stock, Hausen & Walkman(Andrew Sharpley & Matt Wand)은 1991년부터 2001년까지 활동한 영국의 실험적인 전자 유닛입니다. 그들의 사운드는 컷업, 샘플링, 콘크리트 음악, 정크 팝 요소가 혼합되어 있습니다.
+Stock, Hausen & Walkman(Andrew Sharpley & Matt Wand)은 1991년~2001년에 활동한 영국의 체험 일렉트로닉 유닛. 컷업, 샘플링, 뮤직 콘크레이트, 정크 팝적 요소를 믹스한 사운드가 특징.
 
-『장기이식 Vol.2』는 1990년대 실험적인 일렉트로니카/포스트모던 샘플링 문화의 상징으로 높은 평가를 받은 『장기이식』(1996)에 이은 두 번째 발매작이다.
+「Organ Transplants Vol. 2」는, 90년대의 익스피리멘탈 일렉트로니카/포스트·모던 샘플링 문화를 상징하는 존재라고 높이 평가된 「Organ Transplants」(96년)에 이어 제2탄.
 
-2000년 Matt Wand의 Hot Air 레이블로 출시되었습니다.
+Matt Wand의 레이블 Hot Air에서 2000 년에 출시되었습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Hairy Globe
 A2. IKEA
@@ -40,5 +40,5 @@ B7. OOPS
 
 [メルカリで購入](https://jp.mercari.com/item/m22757560879?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jB2C8gmwuZc?si=wD08La3Z7g8UwSkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

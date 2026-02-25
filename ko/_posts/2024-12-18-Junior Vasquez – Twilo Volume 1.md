@@ -11,13 +11,13 @@ tags:
 - Mix
 - DJMix
 - 00s
-title: 주니어 바스케스 - Twilo 1권
+title: Junior Vasquez – Twilo Volume 1
 ---
 
 
-2000년 Virgin이 출시한 DJ Junior Vasquez의 하우스 믹스 2디스크 세트입니다.
+2000년에 Virgin에서 릴리스된 DJ Junior Vasquez에 의한 House 믹스 2매 세트.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1-01. Pre YMO – InDo (Junior Vasquez Remix)
 1-02. Bobby Slate – Floating Higher
@@ -44,5 +44,5 @@ title: 주니어 바스케스 - Twilo 1권
 
 [メルカリで購入](https://jp.mercari.com/item/m88730253725?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TXYsBCm8z40?si=x5KTgKy1y4bJH9Sp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

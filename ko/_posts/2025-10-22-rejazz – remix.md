@@ -11,15 +11,15 @@ tags:
 - Future Jazz
 - Deep House
 - 00s
-title: '[re:재즈] – (re:mix)'
+title: '[re:jazz] – (re:mix)'
 ---
 
 
-[re:jazz]는 DJ Matt로도 알려진 Matthias Vogt와 다양한 아티스트들의 재즈 프로젝트입니다.
+[re:jazz]는 Matthias Vogt DJ Matt와 다양한 아티스트에 의한 재즈 프로젝트.
 
-(re:mix)는 일본 재즈 레이블 Nebula가 2003년에 발매한 Downtempo/Future Jazz/Deep House입니다.
+(re:mix)는, 2003년에 일본의 재즈 라벨 Nebula로부터 릴리스된 Downtempo/Future Jazz/Deep House.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Quiet Nights (Nicola Conte "Out Of The Cool Version")
 2. My Love Is Higher (Russ Gabriel Rmx)
@@ -37,5 +37,5 @@ title: '[re:재즈] – (re:mix)'
 
 [メルカリで購入](https://jp.mercari.com/item/m37383041694?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EGl9lQlR1x4?si=3QYkgtH9qeWrA69D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

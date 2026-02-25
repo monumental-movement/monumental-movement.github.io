@@ -18,7 +18,7 @@ title: '[Columna] Clásica Contemporánea / Neominimalismo Una nueva ola de mús
 
 ## Introducción: Tendencia clásica moderna/neominimalista
 
-Texto: mmr｜Tema: Acerca de esta tendencia, basado en hechos como técnicas de composición, entorno de producción y antecedentes institucionales, más que tendencias o evaluaciones emocionales.
+Texto: mmr｜Tema: Acerca de esta tendencia, basado en hechos como técnicas de composición, entorno de producción y antecedentes institucionales, más que tendencias o valoraciones emocionales.
 
 
 La música clásica desde la segunda mitad del siglo XX se ha diversificado en diversas direcciones a través de experimentos con la atonalidad, el aleatorismo y la música electrónica. En el siglo XXI, una tendencia que enfatiza la "tonalidad", la "repetición", la "tranquilidad" y la "experiencia auditiva en sí" ha vuelto a ganar atención internacional. Esta es el área generalmente denominada Clásico Contemporáneo o Neominimalismo.
@@ -48,7 +48,7 @@ color: #fff;
 
 Establecido en los Estados Unidos en la década de 1960 por La Monte Young, Terry Riley, Steve Reich y Philip Glass, el minimalismo se caracterizaba por repeticiones cortas, cambios graduales y estructuras métricas claras. Esto se entiende como una reacción a la música de apio de la época y a la cada vez más compleja música de vanguardia.
 
-El minimalismo finalmente influyó en la ópera, la música cinematográfica y la música de baile, y llegó a ser aceptado institucionalmente en la música clásica en la segunda mitad del siglo XX.
+El minimalismo finalmente influyó en la ópera, la música de cine y la música de baile, y llegó a ser aceptado institucionalmente en la música clásica a finales del siglo XX.
 
 ### Transición al posminimalismo
 
@@ -138,7 +138,7 @@ La técnica en sí tiene su origen en la música experimental de mediados del si
 
 ### Composición e improvisación
 
-Sus obras incluyen tanto patrones estrictamente anotados como elementos de improvisación. Mientras se repite un determinado patrón rítmico, pequeños cambios causados ​​por la manipulación física del intérprete impulsan la música.
+Sus obras incluyen tanto patrones estrictamente anotados como elementos de improvisación. A medida que se repite un determinado patrón rítmico, pequeños cambios causados ​​por la manipulación física del intérprete impulsan la música.
 
 ### Conexión con otros campos
 

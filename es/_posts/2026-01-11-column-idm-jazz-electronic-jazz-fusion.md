@@ -117,7 +117,7 @@ En la superficie, la simple repetición continúa, pero internamente las posicio
 
 ### Polirritmo y Polimetro
 
-IDM x Jazz utiliza polirritmo, que tiene múltiples ciclos de ritmo al mismo tiempo, y polimetro, que tiene un compás diferente. Lo importante es que sean matemáticamente consistentes y no completamente caóticos.
+En IDM x Jazz, se utilizan juntos el polirritmo, en el que se ejecutan múltiples ciclos de ritmo simultáneamente, y el polimetro, que tienen diferentes tipos de compás. Lo importante es que sean matemáticamente consistentes y no completamente caóticos.
 
 ### Control de sincronización micro
 

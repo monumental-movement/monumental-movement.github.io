@@ -97,3 +97,14 @@ New-Age-Musik wurde, um es deutlich auszudrücken, oft als „Hintergrundmusik�
 In der Neuzeit wurde es wieder in Genres wie Ambient und Chillout aufgenommen, aber seine Ideale – Harmonie mit der Natur, Selbstbeobachtung und Heilung – sind noch dringlicher geworden.
 
 New Age ist keine Modeerscheinung der Vergangenheit, sondern eine Musikkultur, die stillschweigend, aber sicher weiterhin eine Rolle im Leben der Menschen spielt.
+
+---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/APnXan4Anf8?si=r8eC5X9i9XtZ0NXB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

@@ -18,7 +18,7 @@ title: '[Chronique] Légende du Gong : époque, mythe, son et communauté'
 ## 1. Introduction : Le musicien comme scientifique
 
 
-Texte : mmr｜Thème : Gong, la « communauté cosmique » construite par David Allen et Gilly Smith. À propos du mythe, du son et de l'héritage des années 1960 à nos jours
+Texte : mmr | Thème : Gong, la « communauté cosmique » construite par David Allen et Gilly Smith. À propos du mythe, du son et de l'héritage des années 1960 à nos jours
 
 > « Nous étions une théière volante naviguant à travers la révolution. »
 > -Daevid Allen
@@ -47,7 +47,7 @@ color: #fff;
 * [Chapitre 4 Trilogie Radio Gnomes - Mythes et albums] (#chapitre4)
 * [Chapitre 5 Le Gong en tant que communauté - vie, création, membres fluides] (#chapitre5)
 * [Chapitre 6 Société et Gong – le point de contact avec la contre-culture](#chapitre6)
-* [Chapitre 7 Transformation et héritage——Gong Moellan et Renaissance](#chapitre7)
+* [Chapitre 7 Transformation et héritage——Gong Moellan et renaissance](#chapitre7)
 * [Chapitre 8 Le monde de la mythologie Gong — Personnages, iconographie et vision du monde] (#chapitre8)
 * [Chapitre 9 Épisodes et anecdotes] (#chapitre9)
 * [Chapitre 10 Chronologie et chiffres de référence](#chapitre10)
@@ -151,7 +151,7 @@ Le Gong était le symbole d’une pratique contre-culturelle qui ne séparait pa
 
 ---
 
-## Chapitre 7 Transformation et héritage——Moellan-Gong et renaissance {#chapter7}
+## Chapitre 7 Transformation et héritage —— Gong Moellan et renaissance {#chapter7}
 
 Après 1976, David Allen part.
 Pierre Moerlan prend le relais et le **Pierre Moerlan's Gong**, orienté jazz fusion, est né.

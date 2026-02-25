@@ -18,9 +18,9 @@ Los Terrorpinos 是由 Andrew Innes（最著名的是蘇格蘭搖滾樂隊 Prima
 
 Dub/Drum n Bass（促銷版和限量版，單面）由英國唱片公司 Eruption Records 於 1997 年發行，Jack The Tab 時代 Psychic TV 成員 Richard Norris 擔任 A&R 顧問。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. The Desert Song (The Magnificent Seven)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m79697585205?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m79697585205?afid=6142608987){: .button1}

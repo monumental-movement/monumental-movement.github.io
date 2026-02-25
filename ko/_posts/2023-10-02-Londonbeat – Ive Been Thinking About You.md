@@ -9,17 +9,17 @@ permalink: /ko/londonbeat-ive-been-thinking-about-you/
 tags:
 - House
 - EDM
-title: Londonbeat – 나는 당신에 대해 생각하고 있어요
+title: Londonbeat – I've Been Thinking About You
 ---
 
 
 
-런던비트(Londonbeat)는 1990년대 초반에 수많은 팝과 댄스 히트곡을 탄생시킨 영국의 댄스팝 밴드입니다.
-회원은 Jimmy Helms, Jimmy Chambers 및 Charles Pierrer입니다.
+Londonbeat(런던 비트)는 1990년대 초반에 팝과 댄스의 히트곡을 많이 만들어낸 영국의 댄스 팝 밴드입니다.
+멤버는 Jimmy Helms(지미 헬름스), Jimmy Chambers(지미 체임버스), Charles Pierrer(찰스 피에르).
 
-"I've Been Thinking About You"는 그들의 시그니처 곡으로 1991년 빌보드 핫 100과 핫 댄스 뮤직/클럽 플레이 차트에서 1위를 차지했습니다.
+'I've Been Thinking About You'는 그들의 대표곡으로 1991년 Billboard Hot 100과 Hot Dance Music/Club Play 차트에서 1위를 차지했다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. I've Been Thinking About You (Def 12" Mix)
 
@@ -36,5 +36,5 @@ B3. I've Been Thinking About You (Trak Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m47205730719?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dGw3w_njQ4g?si=JLeWYzbBaWn8TXmz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

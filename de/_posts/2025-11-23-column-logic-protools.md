@@ -122,7 +122,7 @@ Im Jahr 1996 kam es zum größten Wendepunkt in der DAW-Geschichte.
 * Eine Kultur geschaffen, in der Tonquellen und Effekte auf einem PC laufen
 
 VST wurde später zu Apple AU, Digidesign RTAS/AAX, Propellerhead Rack Extensions usw.
-Es ist der „Vorfahre“ aller Plug-in-Standards.
+Es ist der „Vorfahre“ aller Plug-In-Standards.
 
 ### ■ MOTU: Verbessern Sie die Videosynchronisierung mit Digital Performer 2.0
 
@@ -168,7 +168,7 @@ Die Übernahme erfolgte 1994, die Marke Digidesign verschwand jedoch 2010.
 *Übernimmt vollständig den Industriestandard für Videobearbeitung und Audio-Finishing
 * Der Trend „Avid → Pro Tools“ in der Filmproduktion hat sich weltweit etabliert.
 
-Apple und Avid
+Zwei Unternehmen, Apple und Avid
 **Planen Sie, sowohl im Hinblick auf das Betriebssystem als auch auf die Videoproduktion die Führung auf dem DAW-Markt zu übernehmen**
 ist hier abgeschlossen.
 
@@ -226,7 +226,7 @@ In dieser Zeit wurden DAWs mit **CPU-abhängiger nativer Verarbeitung** zum Main
 ### ■ Steinberg, MOTU und Adobe werden ebenfalls weiterhin aktualisiert
 
 *Steinberg hat seine VST3-Engine aktualisiert.
-* MOTU geht mit DP9/10 in den modernen Workflow über
+*MOTU geht mit DP9/10 in den modernen Workflow über
 * Die Marktdurchdringung von Adobe Audition ist auf die steigende Nachfrage nach Podcasts zurückzuführen
 
 Zu diesem Zeitpunkt war das Wort „DAW“ völlig gebräuchlich,
@@ -262,7 +262,7 @@ In den letzten Jahren hat die Geschichte der DAWs einen weiteren großen Wandel 
 
 ### ■ Adobe: Steigende Nachfrage nach Vertrieb und Rundfunk
 
-* Vorteile der Integration mit Premiere
+* Integrationsvorteil mit Premiere
 * Stark im YouTube-/Podcast-Zeitalter
 
 ---
@@ -316,7 +316,7 @@ MOTU beherrscht die **Videosynchronisation**,
 Adobe hat mit der **Integration in Rundfunk und Videobearbeitung** einen eigenen Markt geschaffen.
 
 Obwohl die sechs Unternehmen miteinander konkurrieren,
-Dadurch haben sie gemeinsam die Kultur der Musikproduktion geprägt.
+Dadurch haben sie gemeinsam die „Kultur der Musikproduktion selbst“ geprägt.
 
 Nach 2025 KI-Bearbeitung, Cloud-Kollaboration, Ausbau der mobilen Produktion usw.
 Die Zukunft von DAWs wird eine neue Dimension annehmen.

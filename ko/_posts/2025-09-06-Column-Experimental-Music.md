@@ -10,26 +10,26 @@ tags:
 - Experimental
 - Avant-garde
 - Noise
-title: '[칼럼] 실험음악의 역사와 명작: 기원부터 현재까지'
+title: 【칼럼】 Experimental Music(엑스페리멘탈·뮤직)의 역사와 명반:발상부터 현재까지
 ---
 
 
 
-## 실험음악의 역사와 명작
+## Experimental Music(익스페리멘탈 뮤직)의 역사와 명반
 
 
-글 : mmr｜주제 : 아방가르드에서 포스트디지털 시대까지 실험음악의 변화
+문장：mmr｜테마：실험 음악에 관한 전위로부터 포스트・디지털 시대까지의 변천
 
 
-"실험음악"은 전통적인 화성과 형식에서 벗어나 소리 자체의 가능성을 탐구하려는 시도로 탄생했습니다. 20세기 초 아방가르드 운동으로 시작되어 클래식 음악의 틀을 뛰어넘어 일렉트로닉 어쿠스틱, 인더스트리얼, 노이즈, 현대 디지털 음악 등으로 계속 확장되고 있다. 여기서는 시대별 역사적 배경과 유명 음반, 장비의 변화 등을 정리하고 실험음악의 궤적을 추적해 본다.
+「익스피리멘탈 뮤직(실험 음악)」은 전통적인 화성이나 형식에서 벗어나 **음 자체의 가능성을 탐구하는 시도**로서 탄생했습니다. 클래식 틀을 넘어선 20세기 초의 전위 운동으로 시작되어 전자음향, 산업, 노이즈, 현대 디지털 음악까지 계속 퍼지고 있습니다. 여기에서는 **연대별 시대 배경, 명반, 장비의 변천**을 정리하고, 경험의 궤적을 따릅니다.
 
 ---
 
-## 1940~1950년대: 실험음악의 탄생
-- **배경:** 전후 유럽과 미국은 음악의 재구성을 모색한다. John Cage의 'Music of Chance'와 Schaeffer의 musique concrète가 등장합니다.
-- **장비:** 테이프 레코더, 준비된 피아노, 초기 발진기.
+##1940s~1950s: 실험 음악의 태동
+- **배경:** 전후 유럽과 미국에서 음악의 재구축이 모색된다. 존 케이지에 의한 「우연성의 음악」, 셰페이르에 의한 뮤직・콘크레이트가 등장.
+- **기재:** 테이프 레코더, 프리페어드 피아노, 초기 오실레이터.
 
-### 걸작
+### 명반
 - [Pierre Schaeffer – *Cinq études de bruits* (1948)](https://amzn.to/3KBB0yU)  
 - [John Cage – *Sonatas and Interludes* (1948)](https://amzn.to/425qJRN)  
 - [Karlheinz Stockhausen – *Gesang der Jünglinge* (1956)](https://amzn.to/46p9j3C)  
@@ -52,26 +52,26 @@ color: #fff;
 }
 </style>
 
-| 아티스트 | 트랙 | 연도 |
-|---------------|----------|----|
-| 피에르 쉐퍼 | Étude aux chemins de fer | 1948 |
-| 존 케이지 | 4분 33초' | 1952 |
-| 존 케이지 | 윌리엄스 믹스 | 1952 |
-| 피에르 앙리 | 심포니 뿌르 언 옴므 슬 | 1950 |
-| 칼하인츠 슈톡하우젠 | 연구 II | 1954 |
-| 에드가르드 바레스 | 전자시 | 1958 |
-| 존 케이지 | 상상의 풍경 No.4 | 1951 |
-| 루이지 루솔로(재녹음) | 인토나루모리 데모 | 1940년대 재현 |
-| 모튼 펠드먼 | 프로젝션 I | 1950 |
-| 얼 브라운 | 1952년 12월 | 1952 |
+| 아티스트 | 트럭 | 년 |
+|--------------|----------|----|
+Pierre Schaeffer | Étude aux chemins de fer | 1948 |
+| John Cage | 4’33’’ | 1952 |
+| John Cage | Williams Mix | 1952 |
+| Pierre Henry | Symphonie pour un homme seul | 1950 |
+| Karlheinz Stockhausen | Studie II | 1954 |
+| Edgard Varèse | Poème électronique | 1958 |
+| John Cage | Imaginary Landscape No.4 | 1951 |
+| Luigi Russolo (재녹음 작품) | Intonarumori Demo | 1940s 재현 |
+| Morton Feldman | Projection I | 1950 |
+| Earle Brown | December 1952 | 1952 |
 
 ---
 
-## 1960년대: 아방가르드와 전자음악의 전성기
-- **배경:** 미니멀리즘, 아방가르드 예술 운동, 사이키델릭 문화에 공감합니다. 모듈러 신디사이저의 탄생.
-- **장비:** Moog Modular, Buchla, EMS VCS3, 테이프 루프.
+## 1960s : 아방가르드와 전자 음악의 개화
+- ** 배경 : ** 미니멀리즘, 아방가르드 예술 운동, 환각 문화와 공진. 모듈러 신디의 탄생.
+- **기재:** Moog Modular, Buchla, EMS VCS3, 테이프 루프.
 
-### 걸작
+### 명반
 - [La Monte Young – *The Well-Tuned Piano* (1964)](https://amzn.to/4msIjGA)  
 - [Terry Riley – *In C* (1968)](https://amzn.to/46p9sEc)  
 - [Silver Apples – *Silver Apples* (1968)](https://amzn.to/3ImPkLd)  
@@ -80,26 +80,26 @@ color: #fff;
 
 ## 추천 10선
 
-| 아티스트 | 트랙 | 연도 |
-|---------------|----------|----|
-| 라 몬테 영 | 고압선 강압변압기의 두 번째 꿈 | 1962 |
-| 테리 라일리 | C에서 | 1968 |
-| 스티브 라이히 | 피아노 단계 | 1967 |
-| 폴린 올리베로스 | 안녕 안녕 나비 | 1965년 |
-| 실버 사과 | 진동 | 1968 |
-| 슈톡하우젠 | 연락처 | 1960 |
-| 앨빈 루시어 | 솔로 연주자를 위한 음악 | 1965년 |
-| 고넬료 카듀 | 논문 | 1967 |
-| 모튼 서브트닉 | 달의 은사과 | 1967 |
-| AMM | AMM음악 | 1966년 |
+| 아티스트 | 트럭 | 년 |
+|--------------|----------|----|
+| La Monte Young | The Second Dream of the High-Tension Line Stepdown Transformer | 1962 |
+| Terry Riley | In C | 1968 |
+| Steve Reich | Piano Phase | 1967 |
+| Pauline Oliveros | Bye Bye Butterfly | 1965 |
+| Silver Apples | Oscillations | 1968 |
+| Stockhausen | Kontakte | 1960 |
+| Alvin Lucier | Music for Solo Performer | 1965 |
+| Cornelius Cardew | Treatise | 1967 |
+| Morton Subotnick | Silver Apples of the Moon | 1967 |
+|AMM |AMMMusic |1966 |
 
 ---
 
-## 1970년대: 소음, 산업화의 출현
-- **배경:** 펑크와 아방가르드 예술을 교차하면서 음악에 '노이즈'를 접목시킨다. 산업문화의 탄생.
-- **장비:** EMS Synthi A, ARP 2600, Roland System 100, 수제 소음 발생기.
+## 1970s: 소음, 산업의 싹
+- **배경:** 펑크나 아방가르 예술과 교차하면서 '소음'을 음악에 담는다. 산업 문화의 탄생.
+- **기재:** EMS Synthi A, ARP 2600, Roland System 100, 자작 노이즈 제너레이터.
 
-### 걸작
+### 명반
 - [Throbbing Gristle – *The Second Annual Report* (1977)](https://amzn.to/42E1K87)  
 - [Brian Eno – *Discreet Music* (1975)](https://amzn.to/3KAP0sL)  
 - [Faust – *Faust IV* (1973)](https://amzn.to/4mwh9hY)  
@@ -108,27 +108,27 @@ color: #fff;
 
 ## 추천 10선
 
-| 아티스트 | 트랙 | 연도 |
-|---------------|----------|----|
-| 욱신거리는 Gristle | 햄버거 레이디 | 1978 |
-| 브라이언 이노 | 신중한 음악 | 1975년 |
-| 파우스트 | 크라우트록 | 1973년 |
-| 필립 글래스 | 12성부 음악(1부) | 1974년 |
-| 로리 앤더슨 | 오 슈퍼맨(라이브 오리지널) | 1979 |
-| 귤의 꿈 | 페드라 | 1974년 |
-| 크라프트베르크 | 아우토반 | 1974년 |
-| 자살 | 고스트 라이더 | 1977 |
-| 샤를마뉴 팔레스타인 | 스트러밍 음악 | 1974년 |
-| 로버트 애쉴리 | 자동 쓰기 | 1979 |
+| 아티스트 | 트럭 | 년 |
+|--------------|----------|----|
+| Throbbing Gristle | Hamburger Lady | 1978 |
+| Brian Eno | Discreet Music | 1975 |
+| Faust | Krautrock | 1973 |
+| Philip Glass | Music in Twelve Parts (Part 1) | 1974 |
+| Laurie Anderson | O Superman (라이브 원곡) | 1979 |
+| Tangerine Dream | Phaedra | 1974 |
+| Kraftwerk | Autobahn | 1974 |
+| Suicide | 고스트 라이더 | 1977 |
+| Charlemagne Palestine | Strumming Music | 1974 |
+| Robert Ashley | Automatic Writing | 1979 |
 
 ---
 
 
-## 1980년대: DIY 정신과 카세트 문화
-- **배경:** 카세트 MTR의 보급과 함께 언더그라운드 실험음악계가 확대되었다. 일본에서는 '소음' 장면이 확립됐다.
-- **장비:** Tascam Portastudio, Roland TR-808, Yamaha DX7, 단파 라디오.
+## 1980s: DIY 정신과 카세트 문화
+- ** 배경 : ** 카세트 MTR의 보급으로 지하에서 실험 음악 장면이 확대. 일본에서는 「노이즈」신이 확립.
+- **기재:** Tascam Portastudio, Roland TR-808, Yamaha DX7, 쇼트웨이 브라디오.
 
-### 걸작
+### 명반
 - [Nurse With Wound – *Homotopy to Marie* (1982)](https://amzn.to/3W3pNK4)  
 - [Merzbow – *Metal Acoustic Music* (1981)](https://amzn.to/3IxXFvp)  
 - [Glenn Branca – *The Ascension* (1981)](https://amzn.to/42sW29p)  
@@ -137,27 +137,27 @@ color: #fff;
 
 ## 추천 10선
 
-| 아티스트 | 트랙 | 연도 |
-|---------------|----------|----|
-| 메르츠보우 | 메탈 어쿠스틱 음악 | 1981 |
-| 상처를 입은 간호사 | 야가 블루스 | 1982 |
-| 글렌 브랑카 | 제1과 | 1980 |
-| 현재 93 | 개 혈액 상승 | 1984년 |
-| SPK | 메탈 댄스 | 1983년 |
-| 조비에트 프랑스 | 소련의 대중가요와 청소년음악(발췌) | 1985 |
-| 백악관 | 빌어먹을 장어처럼 꿈틀거리다 | 1981 |
-| 소닉 청소년 | 이씨는 무료 | 1987 |
-| 테스트 부서 | 강제 | 1983년 |
-| Einstürzende Neubauten | 유궁 | 1985 |
+| 아티스트 | 트럭 | 년 |
+|--------------|----------|----|
+| Merzbow | Metal Acoustic Music | 1981 |
+| Nurse With Wound | Yagga Blues | 1982 |
+| Glenn Branca | Lesson No. 1 | 1980 |
+| Current 93 | Dogs Blood Rising | 1984 |
+| SPK | Metal Dance | 1983 |
+| Zoviet France | Popular Soviet Songs and Youth Music (excerpt) | 1985 |
+| Whitehouse | Wriggle Like a Fucking Eel | 1981 |
+| Sonic Youth | Lee Is Free | 1987 |
+| Test Dept | Compulsion | 1983 |
+| Einstürzende Neubauten | Yü-Gung | 1985 |
 
 ---
 
 
-## 1990년대: 디지털 실험과 결함
-- **배경:** PC와 샘플러의 보급으로 음향해체와 재구성이 진행되었다. 또한 IDM 및 주변 음악에도 연결됩니다.
-- **장비:** Akai S3000, Max/MSP, Cubase, Pro Tools.
+##1990s: 디지털 실험 및 글리치
+- **배경:** PC와 샘플러가 보급되어 음향해체·재구축이 진행된다. IDM이나 앰비언트와도 연결.
+- **기재:** Akai S3000, Max/MSP, Cubase, Pro Tools.
 
-### 걸작
+### 명반
 - [Oval – *94diskont* (1995)](https://amzn.to/4pIOKbx)  
 - [Aphex Twin – *Selected Ambient Works Volume II* (1994)](https://amzn.to/47XIhmE)  
 - [Autechre – *Tri Repetae* (1995)](https://amzn.to/4gI0iru)  
@@ -166,27 +166,27 @@ color: #fff;
 
 ## 추천 10선
 
-| 아티스트 | 트랙 | 연도 |
-|---------------|----------|----|
-| 타원형 | 하는 동안 | 1995 |
-| 에이펙스 트윈 | 대황 | 1994년 |
-| 오테크레 | 유토 | 1995 |
-| 페네스 | 호주 | 1997 |
-| 이케다 료지 | +/- [1] | 1996 |
-| 팬 소닉 | 우라니아 | 1995 |
-| 스캐너 | 대량 관찰 | 1994년 |
-| 맛모스 | 캘리포니아 코 성형술 | 1998 |
-| 이케다 + 알바 노토 | Uni 약어 | 1999 |
-| 메르츠보우 | 펄스 데몬(트랙 1) | 1996 |
+| 아티스트 | 트럭 | 년 |
+|--------------|----------|----|
+| Oval | Do While | 1995 |
+| Aphex Twin | Rhubarb | 1994 |
+| Autechre | Eutow | 1995 |
+| Fennesz | Aus | 1997 |
+| 류지 이케다 | +/- [1] | 1996 |
+| Pan Sonic | Urania | 1995 |
+| Scanner | Mass Observation | 1994 |
+| Matmos | California Rhinoplasty | 1998 |
+| 이케다 + 알바 노토 | Uni Acronym | 1999 |
+| Merzbow | Pulse Demon (track 1) | 1996 |
 
 ---
 
 
-## 2000년대: 노트북과 세계화
-- **배경:** 소음, 일렉트로니카, 현장 녹음이 국제적으로 퍼졌습니다. 라이브 공연에서 '노트북 연주'가 일반화됐다.
-- **장비:** Ableton Live, SuperCollider, Kontakt, 노트북.
+## 2000s: 노트북과 글로벌화
+- **배경:** 노이즈, 일렉트로니카, 필드 레코딩이 국제적으로 퍼진다. 라이브에서의 「랩톱 연주」가 일반화.
+- **기재:** Ableton Live, SuperCollider, Kontakt, 노트북.
 
-### 걸작
+### 명반
 - [Fennesz – *Endless Summer* (2001)](https://amzn.to/3K9awVB)  
 - [Wolf Eyes – *Burned Mind* (2004)](https://amzn.to/4nCm8P2)  
 - [Ryoji Ikeda – *Dataplex* (2005)](https://amzn.to/4nLgwSW)  
@@ -195,27 +195,27 @@ color: #fff;
 
 ## 추천 10선
 
-| 아티스트 | 트랙 | 연도 |
-|---------------|----------|----|
-| 페네스 | 끝없는 여름 | 2001 |
-| 늑대의 눈 | 얼굴에 칼을 찔림 | 2004년 |
-| 이케다 료지 | 데이터플렉스 | 2005년 |
-| 크리스티안 페네즈 & 사카모토 류이치 | 하루 | 2005년 |
-| 알바 노토 | 제록스 Vol.1 (제록스 모노페이저) | 2007년 |
-| 팀 헤커 | 라디오 스피리컴 | 2003년 |
-| 오렌 암바르치 | 부동산의 포도 | 2004년 |
-| 매장 | 처참한 (주변) | 2005년 |
-| KTL | 숲 바닥 | 2007년 |
-| 맛모스 | 슈프림 벌룬 | 2008 |
+| 아티스트 | 트럭 | 년 |
+|--------------|----------|----|
+| Fennesz | Endless Summer | 2001 |
+| Wolf Eyes | Stabbed in the Face | 2004 |
+| Ryoji Ikeda | Dataplex | 2005 |
+| Christian Fennesz & Ryuichi Sakamoto | Haru | 2005 |
+| Alva Noto | Xerrox Vol.1 (Xerrox Monophaser) | 2007 |
+| Tim Hecker | Radio Spiricom | 2003 |
+| Oren Ambarchi | Grapes from the Estate | 2004 |
+| Burial | Gutted (앰비언트) | 2005 |
+| KTL | Forest Floor | 2007 |
+| Matmos | Supreme Balloon | 2008 |
 
 ---
 
 
-## 2010년대: 멀티미디어 및 설치
-- **배경:** 사운드 아트와 설치가 융합되었습니다. ASMR, 드론, 주변 음악이 재평가되고 있습니다.
-- **장비:** Eurorack 모듈, Max for Live, Pure Data, DIY 악기.
+## 2010s: 멀티미디어 및 설치
+- ** 배경 : ** 사운드 아트 및 설치와 융합. ASMR이나 드론, 앰비언트가 재평가.
+- **기재:** Eurorack 모듈, Max for Live, Pure Data, DIY 악기.
 
-### 걸작
+### 명반
 - [Oneohtrix Point Never – *Replica* (2011)](https://amzn.to/3W29tJz)  
 - [Tim Hecker – *Virgins* (2013)](https://amzn.to/3VrREDB)  
 - [Holly Herndon – *Platform* (2015)](https://amzn.to/3W1lCyj)  
@@ -224,26 +224,26 @@ color: #fff;
 
 ## 추천 10선
 
-| 아티스트 | 트랙 | 연도 |
-|---------------|----------|----|
-| 원오트릭스 포인트 네버 | 복제본 | 2011 |
-| 팀 헤커 | 처녀 | 2013 |
-| 홀리 헌던 | 합창 | 2014 |
-| 벤 프로스트 | 벤터 | 2014 |
-| 이브 종양 | 난초 핥기 | 2018 |
-| 카테리나 바르비에리 | 환타스 | 2019 |
-| 케이틀린 아우렐리아 스미스 | 의도 | 2016 |
-| 롤리 포터 | 4101 | 2016 |
-| 로렌스 영어 | 거울의 황야 | 2014 |
-| 휴에르코 S. | 한 번도 경험하지 못한 분들을 위해(그리고 경험한 분들도) | 2016 |
+| 아티스트 | 트럭 | 년 |
+|--------------|----------|----|
+| Oneohtrix Point Never | Replica | 2011 |
+| Tim Hecker | Virgins | 2013 |
+| Holly Herndon | Chorus | 2014 |
+| Ben Frost | Venter | 2014 |
+| Yves Tumor | Licking an Orchid | 2018 |
+| Caterina Barbieri | Fantas | 2019 |
+| Kaitlyn Aurelia Smith | An Intention | 2016 |
+| Roly Porter | 4101 | 2016 |
+| Lawrence English | Wilderness of Mirrors | 2014 |
+| Huerco S. | For Those of You Who Have Never (And Also Those Who Have) | 2016 |
 
 ---
 
-## 2020년대: AI와 포스트 디지털 시대
-- **배경:** AI 작곡, 알고리즘 음악, VR/AR 공간에서의 몰입형 경험이 진행되고 있습니다. 소음과 실험적인 음악이 다시 한번 클럽씬과 교차한다.
-- **장비:** AI 생성 도구(RAVE, Magenta Studio), Eurorack, 모듈식 신디사이저 + 기계 학습 알고리즘.
+## 2020s: AI와 포스트 디지털 시대
+- **배경:** AI 작곡, 알고리즘 음악, VR/AR 공간에서의 몰입형 체험이 진행 중. 소음과 실험 음악이 다시 클럽 장면과 교착.
+- **기재:** AI 생성 툴(RAVE, Magenta Studio), Eurorack, 모듈러 신디 + 기계 학습 알고리즘.
 
-### 걸작
+### 명반
 - [Holly Herndon – *PROTO* (2019, AIボーカル合唱)](https://amzn.to/4nhKdv3)  
 - [Kali Malone – *Living Torch* (2022)](https://amzn.to/4nJoBYc)
 - [Caterina Barbieri – *Spirit Exit* (2022)](https://amzn.to/3W4Hg4M)  
@@ -251,25 +251,36 @@ color: #fff;
 ---
 ## 추천 10선
 
-| 아티스트 | 트랙 | 연도 |
-|---------------|----------|----|
-| 홀리 헌던 | 프론티어 | 2019 (AI 합창) |
-| 칼리 말론 | 리빙 토치 I | 2022 |
-| 카테리나 바르비에리 | 깨진 멜로디 | 2022 |
-| 기억상실 스캐너 | AS 티어리스 | 2020 |
-| 오테크레 | 로그인 | 2020 |
-| 리 갬블 | 테르고 레알 | 2021 |
-| 오브젝트 블루 | 성 테레사의 엑스터시 | 2021 |
-| 이케다 료지 | 울트라 | 2020 |
-| 칼리 말론 | 희생 코드 | 2020 |
-| 마리나 헐롭 | 미우 | 2022 |
+| 아티스트 | 트럭 | 년 |
+|--------------|----------|----|
+| Holly Herndon | Frontier | 2019(AI 합창) |
+| Kali Malone | Living Torch I | 2022 |
+| Caterina Barbieri | Broken Melody | 2022 |
+| Amnesia Scanner | AS Tearless | 2020 |
+| Autechre | Sign | 2020 |
+| Lee Gamble | A Tergo Real | 2021 |
+| Object Blue | Ecstasy of Saint Teresa | 2021 |
+| 류지 이케다 | 울트라 | 2020 |
+| Kali Malone | The Sacrificial Code | 2020 |
+| Marina Herlop | miu | 2022 |
 
 ---
 
-## 실험음악의 미래
-실험적인 음악은 언제나 음악의 경계를 넓혀왔습니다. 1940년대 준비된 피아노와 테이프 실험을 시작으로 70년대 소음과 산업, 90년대 디지털 글리치, 2020년대 AI가 생성한 음악까지 끊임없이 변화하고 있습니다.
+## 실험 음악의 미래
+경험 음악은 항상 "음악 경계"를 계속 확장해 왔습니다. **1940년대의 프리페어드 피아노와 테이프 실험**부터 시작해, **70년대의 노이즈나 인더스트리얼**, **90년대의 디지털 글리치**, 그리고 **2020년대의 AI 생성 음악**까지, 그 모습은 끊임없이 변화하고 있습니다.
 
-실험음악의 본질은 예측불가능성과 탐구정신이다. 상업음악 외에도 록, 클럽음악, 현대음악, 팝 등에도 그 영향력이 팽배해 무시할 수 없는 강세를 보이고 있다.
+실험 음악의 본질은 "예측 불가능성"과 "탐구의 정신"입니다. 상업음악의 외측이라도 그 영향은 록, 클럽뮤직, 현대음악, 팝에까지 침투하고 있어 더 이상 무시할 수 없는 존재입니다.
 
-앞으로는 AI와 뇌파인터페이스, VR/AR의 융합으로 '음악'이라는 개념조차 바뀔 수도 있다.
-**실험음악은 미래를 예측하는 거울이며, 청취자와 창작자 모두에게 '소리의 새로운 지평'을 계속해서 제시해 나갈 것입니다. **
+향후는 AI나 뇌파 인터페이스, VR/AR와의 융합에 의해 「음악」이라고 하는 개념조차 바뀔 가능성이 있습니다.
+**실험 음악은 미래를 차지하는 거울이며, 듣는 사람·창성하는 사람 쌍방에 「소리의 새로운 지평」을 계속 제시할 것입니다. **
+
+---
+
+
+### YouTube Podcast
+
+※이 Podcast는 영어입니다만, 자동 자막・번역으로 시청할 수 있습니다
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P2O94rg-Ees?si=ZoOKP9544iDBPyj9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

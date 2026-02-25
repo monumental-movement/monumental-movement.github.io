@@ -26,7 +26,7 @@ Una persona en el centro de esto es **Waajeed**.
 Comenzó su carrera en Slum Village y continuó haciendo que la estética musical de Detroit funcione como una "plataforma para conectarse con el futuro" con Platinum Pied Pipers (PPP), Tiny Hearts y su propio sello **Dirt Tech Reck**.
 
 Desde finales de la década de 2010, ha estado construyendo un cuerpo de trabajo que sigue más directamente el flujo del house/techno de Detroit, al mismo tiempo que pone en primer plano la expresión de las raíces negras.
-En particular, **``Shango EP'' (2017)** y una de sus obras maestras actuales, **``Mother EP'' (2018)**, se posicionan como obras que presentan fuertemente la espiritualidad y la naturaleza comunitaria de la música de club al tiempo que heredan las tradiciones de Detroit.
+En particular, **``Shango EP'' (2017)** y una de sus obras maestras actuales, **``Mother EP'' (2018)** se posicionan como obras que presentan fuertemente la espiritualidad y la naturaleza comunitaria de la música de club al tiempo que heredan las tradiciones de Detroit.
 
 
 ---
@@ -67,7 +67,7 @@ Lo que Waajeed absorbió aquí fue más que simplemente hacer ritmos.
 # **2. Periodo PPP (Platinum Pied Pipers): un nuevo punto de conexión entre hip-hop y soul**
 
 A principios de la década de 2000, Waajeed y Saadiq formaron **Platinum Pied Pipers (PPP)**.
-Este es un proyecto que fusiona orgánicamente hip-hop, R&B, soul y música beat, y ha ganado reconocimiento mundial mientras tiene su base en Detroit.
+Este es un proyecto que fusiona orgánicamente hip-hop, R&B, soul y música beat, y ha ganado reconocimiento mundial mientras tiene su sede en Detroit.
 
 ### **2005 “Triple P”**
 
@@ -118,14 +118,14 @@ Lanzado en 2017, **Shango EP** fue un punto de inflexión significativo en la ca
 
 El título **“Shango”** es una deidad que aparece en la religión tradicional de África Occidental y es un símbolo que conecta la espiritualidad de la diáspora afro con la historia de la música negra.
 
-Sobre este EP Waajeed:
+En este EP, Waajeed:
 
 * Estructura de ritmo house/techno de Detroit.
 * percusión afro
 * Llamada Espiritual Negra
 * Naturaleza ritual de sonidos y ritmos crudos.
 
-Claramente dirigió a la banda hacia "representar el house/techno como un regreso al espíritu del arte negro".
+Claramente dirigió a la banda hacia "representar el house/techno como un regreso al espíritu del arte negro" al fusionarlos.
 
 **En lugar de ser una extensión de la era del PPP y el hip-hop, este trabajo presentó una nueva fase de la música de Detroit** y recibió grandes elogios en todo el mundo.
 
@@ -216,7 +216,7 @@ La técnica de combinar naturalmente sintetizadores, pads, piano eléctrico, bat
 
 * **PPP『Triple P』(2005)**
 * **PPA『Abundancia』(2009)**
-* **『La Guerra LP』(2012)**
+* **“La Guerra LP” (2012)**
 * **『Shangó EP』(2017)**
 * **『De la tierra』 (2017)**
 * **『Diez dedos de los pies hacia abajo EP』(2018)**

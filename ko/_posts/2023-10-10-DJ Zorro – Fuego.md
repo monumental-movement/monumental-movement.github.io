@@ -9,15 +9,15 @@ permalink: /ko/dj-zorro-fuego/
 tags:
 - Techno
 - Hyper Techno
-title: DJ 조로 - 푸에고
+title: DJ Zorro – Fuego
 ---
 
 
-'Fuego'는 '불'을 뜻하는 스페인어로, 곡 제목에서 짐작할 수 있듯이 열정적이고 에너지 넘치는 곡이다. 라틴 리듬과 요소를 접목한 동시에 댄스 음악의 요소도 융합한 곡이다.
+「Fuego」는 스페인어로 「불」이라는 의미를 가지는 단어이며, 곡의 타이틀로부터도 상상할 수 있도록, 열정적이고 활기찬 곡이 되고 있습니다. 노래는 라틴 리듬과 요소를 통합하면서 댄스 음악의 요소와 융합합니다.
 
-DJ Zorro의 "Fuego"는 클럽이나 파티에서 연주할 때 댄스 플로어를 활기차게 하는 노래로 자주 사용되었습니다. 리드미컬한 비트와 중독성 있는 멜로디가 춤을 추고 싶게 만든다.
+DJ Zoro의 "Fuego"는 클럽이나 파티에서 플레이 할 때 댄스 플로어를 북돋우는 음악으로 자주 사용되었습니다. 그 리드미컬한 비트와 귀에 남는 멜로디는 듣는 사람들에게 춤추고 싶어지는 충동을 줄 것입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Fuego (DJ Sick Mix)
 
@@ -28,5 +28,5 @@ B2. Fuego (Instrumental)
 
 [メルカリで購入](https://jp.mercari.com/item/m80445100076?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dESaUV6c5Ow?si=t31chRcpKZMwMO3L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

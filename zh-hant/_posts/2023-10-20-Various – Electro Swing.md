@@ -15,7 +15,7 @@ title: 各種 – 電子搖擺
 
 《Various – Electro Swing》由 Wagram Music 於 2009 年發行。
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. Caravan Palace –Jolie Coquine
 2. Mr. Scruf f–Get A Move On
@@ -36,5 +36,5 @@ title: 各種 – 電子搖擺
 など、全20曲
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m97133346644?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m97133346644?afid=6142608987){: .button1}
 

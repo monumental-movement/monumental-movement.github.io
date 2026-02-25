@@ -9,16 +9,16 @@ permalink: /ko/armand-van-helden-i-want-your-soul/
 tags:
 - House
 - Electro
-title: 아르망 반 헬덴(Armand Van Helden) - 나는 당신의 영혼을 원해요
+title: Armand Van Helden – I Want Your Soul
 ---
 
 
-"I Want Your Soul"은 Armand Van Helden이 만든 하우스 뮤직 곡입니다. Armand Van Helden은 수년간 하우스 뮤직 씬에서 활동해온 미국의 DJ이자 프로듀서입니다.
+'I Want Your Soul'은 아만드 반 헬든이 제작한 하우스 뮤직의 곡입니다. 아만드 반 헬든은 미국 DJ, 프로듀서이며 하우스 뮤직 장면에서 오랫동안 활약하고 있습니다.
 
-"I Want Your Soul"은 Armand Van Helden의 시그니처 비트메이킹 및 샘플링 기술, 눈길을 끄는 리듬, 프렌치 비트, 잊혀지지 않는 보컬 샘플을 특징으로 합니다.
+'I Want Your Soul'은 아만드 반 헬든의 뛰어난 비트 메이킹과 샘플링 기술, 캐치 리듬, 프렌틱 비트, 귀에 남는 보컬 샘플이 특징입니다.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1  I Want Your Soul (Original)
 
@@ -31,5 +31,5 @@ B2  I Want Your Soul (Fake Blood Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m70846990224?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f4RWiK_cjjs?si=65g8oQMJrve_peUz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

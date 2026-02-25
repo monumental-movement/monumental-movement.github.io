@@ -15,7 +15,7 @@ title: Tignino & Léo Feat. Mark Kerr – Comment pouvez-vous vous sentir
 ---
 
 
-Un morceau électro house du DJ/producteur italien Daniele Tignino et du musicien sicilien Ottavio Leo, avec Mark Kerr, frère du groupe de rock écossais Simple Minds, Jim Kerr.
+Un morceau électro house du DJ/producteur italien Daniele Tignino et du musicien sicilien Ottavio Leo, avec Mark Kerr, frère du leader du groupe de rock écossais Simple Minds, Jim Kerr.
 
 Le premier morceau de la face A est un remix du duo de DJ et producteurs allemands D-Nox & Beckers.
 

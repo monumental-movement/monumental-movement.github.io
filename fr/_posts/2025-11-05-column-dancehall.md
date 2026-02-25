@@ -70,7 +70,7 @@ Cet espace, où circulaient musique, alcool et nourriture, deviendra plus tard l
 
 ## Chapitre 2 Roots Rock et Dub Era (années 1970)
 
-### ▪ Les ingénieurs du son deviennent des « compositeurs »
+### ▪ Les ingénieurs du son deviennent « compositeurs »
 
 King Tubby, Lee Perry, Errol Thompson et d'autres ont utilisé la table de mixage comme un instrument de musique et ont inventé une nouvelle expression sonore appelée « dub ».
 **Effacer les voix et reconstruire le rythme avec des échos**—Cette idée est devenue le point de départ de la culture du remix ultérieure.
@@ -90,7 +90,7 @@ Cette idée a ensuite été héritée par le **UK dub** (Jah Shaka, Aba Shanti-I
 ### ▪ Lacune et explosion d'argot
 
 En 1985, « Under Mi Sleng Teng » de **Wayne Smith** a tout changé.
-Cette chanson, qui utilise les préréglages rythmiques du Casio MT-40, est considérée comme le premier reggae entièrement numérique de l'histoire, et à partir de ce moment-là, le « dancehall numérique » est devenu courant.
+Cette chanson, qui utilisait les préréglages rythmiques du Casio MT-40, est considérée comme le premier reggae entièrement numérique de l'histoire, et à partir de ce moment-là, le « dancehall numérique » est devenu courant.
 
 | Année | Chanson représentative | Artiste | Remarques |
 |----|--------|---------------|------|
@@ -131,7 +131,7 @@ Depuis lors, des sons locaux sont nés dans tout le Japon et un espace culturel 
 ### ▪ Impact sur la pop mondiale
 
 Sean Paul, Vybz Kartel, Popcaan et d'autres ont pris d'assaut le courant dominant.
-Dans les années 2010, « One Dance »** de **Drake et « Lean On »** de **Major Lazer ont fait la pop dancehall.
+Dans les années 2010, « One Dance »** de **Drake et « Lean On »** de **Major Lazer ont fait de la pop dancehall.
 Le motif rythmique « Dem Bow » a été étendu au reggaeton, aux Afrobeats et à la K-Pop.
 
 ### ▪ Bass en tant que diaspora
@@ -156,7 +156,7 @@ Principaux acteurs japonais :
 ### ▪ Esprit DIY et héritage moderne
 
 Ces dernières années, il a croisé le dubstep/techno.
-**Tokyo Dub Attack**, **Zettai-Mu (Osaka)**, **Mura Masa System (Okinawa)** et d'autres sont actuellement actifs.
+**Tokyo Dub Attack**, **Zettai-Mu (Osaka)**, **Mura Masa System (Okinawa)** sont actuellement actifs.
 À la base de tout cela se trouve la philosophie du sound system consistant à « produire nos propres sons de nos propres mains ».
 
 ---
@@ -256,7 +256,7 @@ graph TD
 </div>
 
 Ce diagramme montre le réseau de cultures de sound system indépendantes formé par région.
-Les caractéristiques suivantes sont claires : « Yokohama = orienté vers la compétitivité internationale », « Osaka = connexion directe avec les rues » et « Okinawa = le point de connexion entre les Caraïbes et l'Asie ».
+Les caractéristiques suivantes sont claires : « Yokohama = orientation vers la compétitivité internationale », « Osaka = connexion directe avec les rues » et « Okinawa = point de connexion entre les Caraïbes et l'Asie ».
 
 ---
 

@@ -9,16 +9,16 @@ permalink: /ko/kalim-shabazz-peak-bomb/
 tags:
 - House
 - Minimal
-title: 칼림 샤바즈 – 피크 폭탄
+title: Kalim Shabazz – Peak Bomb
 ---
 
 
-Kalim Shabazz는 뉴욕에 거주하는 DJ이자 프로듀서입니다. Nick Jones와 함께하는 소울 무브먼트
-(Moments Of Soul)로도 활동하고 있습니다.
+Kalim Shabazz(칼림 샤바즈)는 뉴욕을 거점으로 하는 DJ 겸 프로듀서. Nick Jones(닉 존스)와 함께 Soul Movement
+(Moments Of Soul)로서도 활동.
 
-B면은 베를린에 거주하는 독일 태생의 하우스 DJ/프로듀서인 Phonique라고도 알려진 Michael Vater의 리믹스입니다.
+B면은 독일 출신으로 베를린을 거점으로 활동하는 하우스 DJ/프로듀서 Phonique(포닉)과 Michael Vater에 의한 remix.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Peak Bomb (Original Mix)
 
@@ -27,5 +27,5 @@ B. Peak Bomb (Phonique Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m35106793909?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cZ8c216Rq7o?si=F8coC7yOKqYSh_8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

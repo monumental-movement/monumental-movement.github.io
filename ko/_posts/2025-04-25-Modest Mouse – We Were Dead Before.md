@@ -10,18 +10,18 @@ tags:
 - Rock
 - Indie Rock
 - 00s
-title: 겸손한 쥐 – 우리는 전에 죽었습니다
+title: Modest Mouse – We Were Dead Before
 ---
 
 
-모디스트 마우스(Modest Mouse)는 1992년 워싱턴 주에서 결성되었으며 현재 오리건주 포틀랜드를 기반으로 활동하고 있는 미국의 얼터너티브 록 및 인디 록 밴드입니다.
+Modest Mouse(모데스트 마우스)는 1992년에 워싱턴주에서 결성되어 현재는 오레곤주 포틀랜드를 거점으로 활동하는 US얼터너티 블록&인디 록 밴드.
 
-2007년 에픽이 발매한 이 앨범은 모데스트 마우스의 대표작으로 빌보드 앨범 차트 1위를 차지했다.
+2007년에 Epic에서 릴리스된 이 앨범은, 빌보드 앨범 차트 1위를 획득한 모데스트 마우스의 대표작.
 
-프로듀서는 The Hives, Elvis Costello, Counting Crows 등의 밴드에서 작업한 Dennis Herring입니다.
+프로듀서는 The Hives(더 하이브스), Elvis Costello(엘비스 코스테로), Counting Crows(Counting Crows) 등을 다루는 Dennis Herring.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. March Into The Sea
 2. Dashboard
@@ -41,5 +41,5 @@ title: 겸손한 쥐 – 우리는 전에 죽었습니다
 
 [メルカリで購入](https://jp.mercari.com/item/m58476843195?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O4XskfT6vNY?si=5z5qM172pl0q_OrU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

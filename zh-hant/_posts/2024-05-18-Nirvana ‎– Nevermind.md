@@ -14,13 +14,13 @@ tags:
 title: 涅槃——無所謂
 ---
 
-Nirvana 是一支美國搖滾樂隊，被譽為另類搖滾和垃圾搖滾的先驅。 《Nevermind》是 Nirvana 的第二張專輯，大受歡迎，在公告牌上排名第一。這張專輯的成功引發了美國的垃圾/另類搖滾運動。
+Nirvana 是一支美國搖滾樂隊，被譽為另類搖滾和垃圾搖滾的先驅。 《Nevermind》是 Nirvana 的第二張專輯，大受歡迎，在告示牌上排名第一。這張專輯的成功引發了美國的垃圾/另類搖滾運動。
 
 《Smells Like Teen Spirit》作為《Nevermind》的主打單曲發行，並成為 Nirvana 的標誌性歌曲。
 
 歌曲《Something In The Way》將在2022年上映的電影《蝙蝠俠》中使用。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Smells Like Teen Spirit
 A2. In Bloom
@@ -37,7 +37,7 @@ B5. On A Plain
 B6. Something In The Way
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m96749166206?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m96749166206?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hTWKbfoikeg?si=4OFKMwmxqXEsoe2v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

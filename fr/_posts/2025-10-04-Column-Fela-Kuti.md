@@ -209,9 +209,17 @@ Il dirige les années 80 égyptiennes et hérite directement du style de son pè
 ### résumé
 
 Fela Kuti n'était pas seulement le « père des Afrobeats » mais aussi un symbole de résistance politique à travers la musique. Cet héritage continue de se refléter à travers ses fils Femi Kuti et Soon Kuti, ainsi que dans le travail d'artistes du monde entier.
-Si vous souhaitez en savoir plus sur l'afrobeat, nous vous recommandons de commencer par « Gentleman », « Expensive Shit » et « Zombie ».
+Si vous souhaitez en savoir plus sur l'Afrobeat, nous vous recommandons de commencer par « Gentleman », « Expensive Shit » et « Zombie ».
 
 Les paroles et les rythmes de Fela résonnent encore dans les brises de Lagos et sur les scènes du monde.
+
+---
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OoyGKEqfyZw?si=A3wzzGbNKrxU-Xfl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

@@ -9,20 +9,20 @@ permalink: /ko/filter-science-darkness-falls-joey-beltram-remix/
 tags:
 - House
 - Hard House
-title: 필터 사이언스 - Darkness Falls(Joey Beltram 리믹스)
+title: Filter Science – Darkness Falls (Joey Beltram Remix)
 ---
 
 
-이번 'Filter Science – Darkness Falls (Joey Beltram Remix)'가 두 번째 작품입니다.
+이 "Filter Science - Darkness Falls (Joey Beltram Remix)"는 두 번째 프레스 보드입니다.
 
-이 트랙은 호주 멜버른의 Shane Andrews가 프로듀싱했으며 미국 뉴욕의 Joy Bertram이 리믹스했습니다.
+트럭은 호주 멜버른에서 셰인 앤드류스 씨에 의해 제작되어 리믹스는 미국 뉴욕에서 조이 벨트램.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Darkness Falls (Joey Beltram Remix)
 ```
 
 [メルカリで購入](https://jp.mercari.com/item/m45484922511?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gr0myn6BoT0?si=e9CTnpRguy7cfJ6i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

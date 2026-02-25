@@ -17,7 +17,7 @@ title: Sec et lourd – De la création
 Dry&Heavy est un groupe de reggae dub japonais formé en 1991 par le batteur Shigeki Nanao (Dry) et le bassiste Takeshi Akimoto (Heavy).
 Le son de Dry&Heavy est influencé par les sons dub jamaïcains des années 1970 tels que King Tubby et Lee Perry, et ils ont connu du succès dans les festivals de reggae et de dub tant au niveau national qu'international.
 
-En 1995, Rikuru Mai et Ao Inoue les rejoignent. Pendant Fuji Rock en 2001, Takeshi Akimoto quitte le groupe et le bassiste d'Audio Active, Pata, le rejoint. En 2011, ils reprennent leurs activités en tant qu'équipe rythmique originale composée de Nanao et Akimoto.
+En 1995, Rikuru Mai et Ao Inoue les rejoignent. Pendant Fuji Rock en 2001, Takeshi Akimoto a quitté le groupe et le bassiste d'Audio Active, Pata, l'a rejoint. En 2011, ils reprennent leurs activités en tant qu'équipe rythmique originale composée de Nanao et Akimoto.
 
 "From Creation" est le cinquième album du label électronique japonais Beat Records en 2002.
 

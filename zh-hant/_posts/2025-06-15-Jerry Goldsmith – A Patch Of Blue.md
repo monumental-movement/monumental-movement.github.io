@@ -10,16 +10,16 @@ tags:
 - Soundtrack
 - Score
 - 70s
-title: 傑里·戈德史密斯——一片藍色
+title: 傑瑞·戈德史密斯——一片藍色
 ---
 
 
 1965 年美國電影《一片藍色》的原聲帶。 1978 年重新發行。
 
-傑里·戈德史密斯為 170 多部電影創作了配樂，包括《猩球崛起》、《巴比龍》、《預兆》、《異形》、《惡作劇》、《第一滴血》和《星際迷航》。
+傑瑞·戈德史密斯為 170 多部電影創作了配樂，包括《猩球崛起》、《巴比龍》、《預兆》、《異形》、《惡作劇》、《第一滴血》和《星際爭霸戰》。
 
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Main Title
 A2. A Favour For Selina
@@ -43,7 +43,7 @@ B8. Bacon And Eggs
 B9. Goodbye Selina
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m39224661224?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m39224661224?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5VQ4INxJSog?si=MMwskDMS5k-RdTO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

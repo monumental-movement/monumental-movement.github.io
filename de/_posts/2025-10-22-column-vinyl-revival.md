@@ -37,7 +37,7 @@ color: #fff;
 
 
 
-## Kapitel 1: Die Schnittstelle von Daten und Psychologie
+## Kapitel 1: Die Schnittstelle zwischen Daten und Psychologie
 
 Hinter dem Wiederaufleben von Aufzeichnungen stehen **psychologische Wünsche und soziale Reaktionen**.
 Die Bewegung, das physische Musikerlebnis zurückzugewinnen, ist auch eine unbewusste Rebellion der digitalen Generation.

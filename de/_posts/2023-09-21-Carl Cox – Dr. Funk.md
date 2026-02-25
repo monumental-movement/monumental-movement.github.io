@@ -15,7 +15,7 @@ title: Carl Cox – Dr. Funk
 
 „Carl Cox – Dr. Funk“ ist einer der Signature-Songs von Carl Cox. Carl Cox ist ein weltbekannter Techno-DJ und Musikproduzent/Künstler aus Großbritannien.
 
-„Dr. Funk“ ist ein energiegeladener und tanzbarer Techno-Track mit kraftvollem Beat, kraftvoller Basslinie, rhythmischer Synthesizer-Melodie und Sampling. Die DJ-Fähigkeiten und das Talent des Produzenten von Carl Cox verleihen dem Song seine eigene Persönlichkeit und seinen eigenen Charme.
+„Dr. Funk“ ist ein energiegeladener und tanzbarer Techno-Track mit starkem Beat, kraftvoller Basslinie, rhythmischer Synthesizer-Melodie und Sampling. Die DJ-Fähigkeiten und das Talent des Produzenten von Carl Cox verleihen dem Song seine eigene Persönlichkeit und seinen eigenen Charme.
 
 „Dr. Funk“ ist ein bemerkenswerter Song in der Karriere von Carl Cox und bei Techno-Musikfans und der Clubszene beliebt.
 

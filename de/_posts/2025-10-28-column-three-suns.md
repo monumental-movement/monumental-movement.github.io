@@ -69,7 +69,7 @@ Diese erzeugen das einzigartige **Gefühl von Schweben und Glück** von Three Su
 
 In den 1950er Jahren unterzeichneten sie einen Vertrag mit RCA und veröffentlichten eine Reihe experimenteller Werke, die Magnetaufzeichnung und Stereotechnologie beinhalteten.
 „Movin‘ n‘ Groovin‘“ (1956), „Midnight for Two“ (1957) usw.
-Es war klanglich so raffiniert, dass man es als „elektronische Wohnzimmermusik“ bezeichnen konnte.
+Es war klanglich so raffiniert, dass man es als „elektronische Wohnzimmermusik“ bezeichnen könnte.
 
 > Akkordeon = keine Nostalgie,
 > Es fungierte als „atmender Synthesizer“, der für die Zukunft des Sounddesigns verantwortlich war.
@@ -121,7 +121,7 @@ Das „Ma“, bei dem die Klangdichte dünn ist und wie Luft existiert, war der 
 | Luft | Französisches Duo | Analoges Feeling und schwebende Melodie |
 | Kornelius | Japan | Heimakustischer Klangbau |
 | Stereolab | Britisch und Französisch | Retro-Future-Sound |
-| Beirut | Amerika | Fahnenträger des Akkordeon-Revivals |
+| Beirut | Amerika | Fahnenträger der Wiederbelebung des Akkordeons |
 
 ---
 

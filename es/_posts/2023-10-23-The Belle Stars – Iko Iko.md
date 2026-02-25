@@ -10,13 +10,13 @@ tags:
 - Pops
 - UK Pops
 - 7inch
-title: Las bellas estrellas – Iko Iko
+title: Las Bellas Estrellas – Iko Iko
 ---
 
 
 La cara A, "Iko Iko", es una versión de The Belle Stars, una banda de chicas pop del Reino Unido formada en Londres en 1980 por ex miembros de The Bodysnatchers.
 
-La versión Belle Stars de Iko Iko también apareció en la película Rain Man (protagonizada por Dustin Hoffman y Tom Cruise), la película Knockin' on Heaven's Door y la película The Hangover.
+La versión Belle Stars de Iko Iko también apareció en la película Rain Man (protagonizada por Dustin Hoffman y Tom Cruise), Knockin' on Heaven's Door y The Hangover.
 
 La cara B, "Las Vegas", fue escrita por el reconocido compositor cinematográfico Hans Zimmer y también se incluyó en la banda sonora de la película "Rain Man".
 

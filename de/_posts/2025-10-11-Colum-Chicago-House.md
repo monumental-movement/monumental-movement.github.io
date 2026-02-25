@@ -121,7 +121,7 @@ Larry Heards selbstproduziertes Can You Feel It ist eine Anekdote, die die Demok
 
 ---
 
-## Kapitel 6: Unerwartete Beziehungen
+## Kapitel 6: Überraschende Beziehungen
 
 Chicago House überschneidet sich mit scheinbar nicht zusammenhängenden Bereichen.
 

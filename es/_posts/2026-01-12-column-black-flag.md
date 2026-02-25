@@ -46,9 +46,9 @@ color: #fff;
 
 ## Preformación y formación temprana (1976–1978)
 
-Los orígenes de Black Flag se encuentran en el guitarrista Greg Ginn. El nombre de la banda era Panic cuando comenzó en 1976 en el área de Hermosa Beach, California. Era una época en la que el punk rock comenzaba a extenderse desde Inglaterra y Nueva York, y la influencia de los Ramones y Sex Pistols era clara, pero la escena en el sur de California aún estaba en su infancia.
+Los orígenes de Black Flag se encuentran en el guitarrista Greg Ginn. Cuando la banda comenzó en 1976 en el área de Hermosa Beach, California, su nombre era Panic. Era una época en la que el punk rock comenzaba a extenderse desde Inglaterra y Nueva York, y la influencia de los Ramones y Sex Pistols era clara, pero la escena en el sur de California aún estaba en su infancia.
 
-Panic cambió brevemente su nombre a Black Flag. El nombre hace referencia al símbolo anarquista de la bandera negra y, más que una declaración política clara, contenía una sensación de negación del orden y la estabilidad. El diseño de cuatro líneas utilizado como logotipo era un símbolo visual simple y reconocible al instante que se convertiría en uno de los íconos más famosos de la historia del punk.
+Panic cambió brevemente su nombre a Black Flag. El nombre hace referencia al símbolo anarquista de la bandera negra y, más que una declaración política clara, contenía una sensación de negación del orden y la estabilidad. El diseño de cuatro líneas utilizado como logotipo es un símbolo visual simple y reconocible al instante que se convertiría en uno de los íconos más famosos de la historia del punk.
 
 Los miembros iniciales cambiaron drásticamente, y la voz, el bajo y la batería fueron reemplazados con frecuencia. Esta inestabilidad fue una debilidad, pero también un factor que impidió que la dirección musical de la banda se fijara. Desde el principio, la forma de tocar la guitarra de Greg Ginn se caracterizó por una distorsión excesiva y riffs repetitivos, y ya podemos ver los inicios de su desarrollo posterior.
 
@@ -62,7 +62,7 @@ Los miembros iniciales cambiaron drásticamente, y la voz, el bajo y la batería
 
 ---
 
-El EP de 7 pulgadas Nervous Breakdown, lanzado en 1979, fue el primer disco que definió a Black Flag. Este trabajo fue lanzado por SST Records, que luego se fundó, y se distribuyó como una producción completamente independiente. Las canciones eran cortas, rápidas y directas, con una agresividad sobresaliente en la Costa Oeste de la época.
+El EP de 7 pulgadas Nervous Breakdown, lanzado en 1979, fue el primer disco que definió a Black Flag. Este trabajo fue lanzado por SST Records, que luego se fundó, y se distribuyó como una producción completamente independiente. Las canciones eran cortas, rápidas y directas, y tenían una agresividad sobresaliente en la Costa Oeste de la época.
 
 La canción principal, "Nervous Breakdown", trata sobre un colapso mental, pero está llena de energía urgente en lugar de introspección. La letra es concisa y presenta las emociones crudas en lugar de descriptivas. Este enfoque se convirtió en la base del posterior punk hardcore.
 
@@ -90,7 +90,7 @@ Es importante destacar que durante este período de transición, Greg Ginn tomó
 
 ---
 
-El siguiente momento importante fue la incorporación de Ron Reis (más tarde conocido como Chavo Pederasta). Un ejemplo representativo de la fuente de sonido grabada durante el período en el que él era vocalista es el "Jealous Again" de 7 pulgadas. Este trabajo está particularmente valorado entre los primeros Black Flag.
+El siguiente momento importante fue la incorporación de Ron Reis (más tarde conocido como Chavo Pederasta). Un ejemplo representativo de la fuente de sonido grabada durante el período en el que era vocalista es "Jealous Again" de 7 pulgadas. Este trabajo está particularmente valorado entre los primeros Black Flag.
 
 "Jealous Again" trata sobre simples celos y tiene una expresión agresiva pero algo sarcástica. La voz de Ron Reis es un poco más comedida que la de Keith Morris y el contorno de sus palabras es más claro. Como resultado, la estructura y el ritmo de las canciones se vuelven más pronunciados.
 
@@ -130,7 +130,7 @@ Este modelo de bricolaje sentó un precedente realista para escenas posteriores 
 
 En los primeros días de Black Flag, la velocidad y la rapidez eran sus armas. Sin embargo, en el período de Rollins, las canciones gradualmente se volvieron más lentas y pesadas. Los riffs se repitieron y la textura ruidosa se enfatizó.
 
-Este cambio no fue sólo un experimento, sino también un reflejo de la vida de gira, el agotamiento físico y la tensión mental. A medida que aumenta el tiempo de actuación, la relación con el público también cambia. En medio del violento mosh, la música comienza a adquirir el carácter de una especie de prueba de resistencia.
+Este cambio no fue sólo un experimento, sino también un reflejo de la vida en la carretera, el agotamiento físico y la tensión mental. A medida que aumenta el tiempo de actuación, la relación con el público también cambia. En medio del violento mosh, la música comienza a adquirir el carácter de una especie de prueba de resistencia.
 
 Durante este período, Black Flag amplió los límites del hardcore y sentó las bases para influencias posteriores en el sludge, el grunge y el rock alternativo.
 
@@ -156,7 +156,7 @@ flowchart TD
 
 ## Impacto y legado
 
-Black Flag era una banda cuyo legado tenía más que ver con el método y la actitud que con el éxito comercial. Su espíritu de bricolaje, sus giras agotadoras y su negativa a comprometerse musicalmente se convirtieron en un punto de referencia para innumerables bandas.
+Black Flag era una banda cuyo legado tenía más que ver con el método y la actitud que con el éxito comercial. Su espíritu de bricolaje, sus giras agotadoras y su negativa a hacer concesiones musicales se convirtieron en un punto de referencia para innumerables bandas.
 
 Las canciones de 7 pulgadas ``Nervous Breakdown'' y ``Jealous Again'' todavía se consideran la forma básica de hardcore. Por otro lado, las canciones más pesadas y lentas de la segunda mitad de la banda disolvieron las fronteras de los géneros e influyeron en audiencias más allá del punk.
 

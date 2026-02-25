@@ -84,7 +84,7 @@ L'élément le plus distinctif de la Berlin School est le motif sonore répété
 
 Alors que la musique pop et rock traditionnelle est basée sur des structures de chansons qui durent plusieurs minutes, il n'est pas rare qu'une seule chanson de la musique de la Berlin School dure plus de 20 minutes. Il s’agit d’une forme rendue possible par le développement de la performance improvisée et de la technologie d’enregistrement.
 
-### Conception des tons
+### Conception sonore
 
 L'instabilité et la fluctuation des synthétiseurs analogiques sont devenues partie intégrante de l'esthétique sonore de l'école de Berlin. Les infimes écarts provoqués par les changements de température et les fluctuations de tension donnent un aspect organique à la répétition mécanique.
 
@@ -108,7 +108,7 @@ Durant cette période, la méthode de la Berlin School est réinterprétée comm
 
 ## Chapitre 6 L'héritage des temps modernes
 
-Au 21e siècle, les synthétiseurs modulaires sont réévalués. La méthode de la Berlin School attire à nouveau l'attention dans les petits studios et dans l'improvisation live. Ce n’est pas lié à la nostalgie, mais à un intérêt croissant pour la musique générée en temps réel.
+Au 21e siècle, les synthétiseurs modulaires sont réévalués. La méthode de la Berlin School attire à nouveau l'attention dans les petits studios et l'improvisation live. Ce n’est pas lié à la nostalgie, mais à un intérêt croissant pour la musique générée en temps réel.
 
 ---
 
@@ -136,7 +136,7 @@ L'enregistrement multipiste et le montage sur bande ont joué un rôle important
 
 ## Chapitre 8 Analyser la structure des œuvres représentatives
 
-Dans ce chapitre, plutôt que d’énumérer les noms d’œuvres spécifiques, nous les analyserons comme des types structurels pouvant être confirmés.
+Dans ce chapitre, plutôt que d'énumérer les noms d'œuvres spécifiques, nous les analyserons comme des types structurels pouvant être confirmés.
 
 ### Type d'extension à séquence unique
 
@@ -146,7 +146,7 @@ Un format dans lequel une certaine séquence parcourt toute la chanson, s'étend
 
 Une forme construite autour de notes soutenues et de changements lents, sans séquence claire. Il occupe une place importante dans les œuvres de Klaus Schulze et est devenu le prototype de la musique d'ambiance et de drone ultérieure.
 
-### Type d'édition d'enregistrement d'improvisation
+### Type d'édition d'enregistrement impromptu
 
 Un format qui utilise l'improvisation live ou en studio comme matériau et est structuré par post-édition. Cette méthode brouille les frontières entre composition et performance, positionnant l’œuvre comme le récit d’un événement.
 

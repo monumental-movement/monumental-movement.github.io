@@ -58,7 +58,7 @@ Casi al mismo tiempo, estaba surgiendo una nueva expresión del punk en Los Áng
 
 ## Composición de miembros e historia de formación.
 
-La figura central de S.O.A es Henry Rollins. Rollins, más tarde conocido como el líder de Black Flag, era en ese momento un joven de Washington, D.C., y se unió a S.O.A mientras estaba en Nueva York. Aunque su estilo como vocalista era inmaduro en comparación con sus expresiones posteriores, ya poseía un sentido extremo de urgencia y franqueza.
+La figura central de S.O.A es Henry Rollins. Rollins, más tarde conocido como el líder de Black Flag, era en ese momento un joven de Washington, D.C., y se unió a SOA mientras estaba en Nueva York. Aunque su estilo como vocalista era inmaduro en comparación con sus expresiones posteriores, ya poseía un sentido extremo de urgencia y franqueza.
 
 Los miembros de guitarra, bajo y batería también estuvieron estrechamente relacionados con la escena punk underground de Nueva York y luego pasaron a otras bandas importantes. Esta estructura de ser "desmantelada en un corto período de tiempo y reconstruida de una forma diferente" era en sí misma una característica de la escena hardcore de principios de los años 1980.
 
@@ -125,7 +125,7 @@ Rara vez se habla de la propia SOA como representante del hardcore neoyorquino. 
 
 El hardcore neoyorquino ha tenido un estilo y una estética distintos desde mediados de los años 1980. Sin embargo, S.O.A existió en una etapa anterior, encarnando música a la que aún no se le había dado un nombre.
 
-Por tanto, es difícil evaluar la SOA de forma independiente. Sin embargo, SOA es indispensable para comprender lo que estaba sucediendo antes de que el hardcore tuviera la norma de "así es como deberían ser las cosas".
+Por tanto, es difícil evaluar la SOA de forma independiente. Sin embargo, SOA es indispensable para comprender lo que estaba pasando antes de que el hardcore tuviera la norma de "así es como deberían ser las cosas".
 
 > S.O.A captura el género en su momento más volátil, antes de que fuera definido.
 

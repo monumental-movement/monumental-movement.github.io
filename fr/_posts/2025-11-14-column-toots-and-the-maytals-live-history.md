@@ -43,7 +43,7 @@ color: #fff;
 </style>
 
 
-## 1. Premiers spectacles live (1962-1969) : Cultiver la culture à partir de petits clubs
+## 1. Premiers spectacles live (1962-1969) : Cultiver la culture à partir de petits clubs
 
 ### 1.1 Formation et première étape
 
@@ -100,7 +100,7 @@ En 1975, avec la sortie de l'album « Funky Kingston », ils tournent à New Yor
 
 **Caractéristiques du spectacle live** :
 
-* Avec l'introduction d'un système de sonorisation, des basses graves peuvent être entendues dans tout l'étage.
+* Avec l'introduction d'un système audio, des sons graves peuvent être entendus dans tout l'étage.
 * Le discours impromptu de Toots permet au public de ne faire qu'un avec le spectacle.
 
 * Les effets de lumière soulignent l'atmosphère de la chanson et sont visuellement époustouflants.

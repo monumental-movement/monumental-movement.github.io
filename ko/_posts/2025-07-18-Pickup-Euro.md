@@ -8,24 +8,24 @@ layout: post
 permalink: /ko/pickup-euro/
 tags:
 - Euro
-title: 유로 음악 작품 픽업
+title: 유로 뮤직 작품 픽업
 ---
 
 
-'정교한 멜로디와 댄스 플로어를 흥분시키는 역동성으로 가득 찬 놀라운 유로 음악 그룹''
+"세련된 멜로디와 댄스 플로어를 열광시키는 역동감이 가득한 주목할 만한 유로 뮤직 작품군"
 
 <hr>
 
-### Rednex – 코튼 아이 조
+### Rednex – Cotton Eye Joe
 <a href="https://jp.mercari.com/item/m58300098495?afid=6142608987"><img src="../assets/images/Rednex%20%E2%80%93%20Cotton%20Eye%20Joe.webp"></a>
 
-형식: 비닐
+포맷: Vinyl
 
-장르 : 유로하우스 / 신스팝
+장르: Euro House/Synth-pop
 
-발매일 : 2024년 11월 15일 게시 (레드넥스 – 코튼아이조)
+출시일: 2024년 11월 15일 게재 (Rednex – Cotton Eye Joe)
 
-#### 트랙리스트
+#### Tracklist
 ```md
 Hatfield Side
 A1. Cotton Eye Joe (Madcow Mix)
@@ -42,21 +42,21 @@ B2. Cotton Eye Joe (Overworked Mix)
 [メルカリで購入](https://jp.mercari.com/item/m58300098495?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/15m2ORdQi9A?si=A3GFZUrssPzi4ctx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
 
-### 마스터보이 – 다른 꿈
+### Masterboy – Different Dreams
 <a href="https://jp.mercari.com/item/m79586502927?afid=6142608987"><img src="../assets/images/Masterboy%20%E2%80%93%20Different%20Dreams.webp"></a>
 
-형식: CD
+포맷: CD
 
-장르 : 90년대 유로 / 유로비트
+장르: '90s Euro/Euro Beat
 
-수록곡: "Feel the Heat of the Night", "I Got to Give It Up" 등 1994년 발매된 독일 유로댄스 명작
+수록곡 : 「Feel the Heat of the Night」 「I Got to Give It Up」등. 1994년 릴리스의 독일·유로 댄스 대표작
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Waterfall (Intro)
 2. Different Dreams
@@ -78,21 +78,21 @@ Bonus Track For Japan
 [メルカリで購入](https://jp.mercari.com/item/m79586502927?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/otQl3yk2Nz8?si=PNCCy9WRGI5YV6FS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
 
-### VA – 마하라자 탑 20 Vol. III
+### VA – Maharaja Top 20 Vol. III
 <a href="https://jp.mercari.com/item/m24287278460?afid=6142608987"><img src="../assets/images/VA%20%E2%80%93%20Maharaja%20Top%2020.webp"></a>
 
-형식: CD(비매품)
+포맷: CD(비매품)
 
-장르 : 90년대 유로하우스 / 유로비트 / 이탈로댄스
+장르：90년대 Euro House / Eurobeat / Italodance
 
-90년대 대표곡을 컴필레이션 형식으로 수록
+컴필레이션 형식으로 90년대 장면의 대표곡을 수록
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Maximizor Featuring Kam + Paula – I Like It (Give It To Me)
 2. Bass Expanders – Beats Go
@@ -120,20 +120,20 @@ Bonus Track For Japan
 [メルカリで購入](https://jp.mercari.com/item/m24287278460?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LKEWlU4rkxc?si=0kHSiG1bJjkIDNxC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-### 다양한 – 하룻밤 리믹스 II
+### Various – Overnight Remixes II
 <a href="https://jp.mercari.com/item/m82073091012?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Overnight%20Remixes%20II.webp"></a>
 
-형식: 비닐
+포맷: Vinyl
 
-장르 : 80~90년대 유로하우스
+장르：80-90년대 Euro House
 
-80년대 후반부터 90년대까지의 유로 하우스, 테크노, 뉴 비트, 개러지 하우스 컴필레이션
+80년대 후반부터 90년대의 유로하우스 테크노 뉴비트 갈라지 하우스계 편집
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Sophia – Running So Hard
 A2. The Creator – Jack
@@ -152,21 +152,21 @@ B5. LNR – Work It To The Bone
 [メルカリで購入](https://jp.mercari.com/item/m82073091012?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/znm-HC2GXiM?si=XMALsoMlo2nVH6Kz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
 
-### MDC‑X‑Static – 당신과 나
+### MDC‑X‑Static – You And Me
 <a href="https://jp.mercari.com/item/m13942238876?afid=6142608987"><img src="../assets/images/MDC-X-Static%20%E2%80%93%20You%20And%20Me.webp"></a>
 
-형식: 비닐
+포맷: Vinyl
 
-장르 : 90년대 유로 / 유로하우스
+장르: 90s Euro/Euro House
 
-1990년대 클럽 히트곡 "In Ecstasy"를 믹스한 12인치 EP
+1990년대 클럽 히트 'In Ecstasy' 믹스가 들어간 12″ EP
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. You And Me (In Ecstasy) (Extended Ecstasy Mix)
 
@@ -178,20 +178,20 @@ B2. You And Me (In Ecstasy) (Save The Whales Mix)
 [メルカリで購入](https://jp.mercari.com/item/m13942238876?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6MNSo1rK2Is?si=exn3QqrRH3_IDUdw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-### Ziggy – No Police(아즈텍 리믹스)
+### Ziggy – No Police (Aztec Remix)
 <a href="https://jp.mercari.com/item/m35371062618?afid=6142608987"><img src="../assets/images/Ziggy%20%E2%80%93%20No%20Police%20(Aztec%20Remix).webp"></a>
 
-형식: 비닐
+포맷: Vinyl
 
-장르 : 90년대 유로 / 유로하우스
+장르: 90s Euro/Euro House
 
-1990년대 클럽 히트곡 "In Ecstasy"를 믹스한 12인치 EP
+1990년대 클럽 히트 'In Ecstasy' 믹스가 들어간 12″ EP
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. No Police = No Llamen A La Policia (Aztec Remix)
 
@@ -202,20 +202,20 @@ B. No Police = No Llamen A La Policia (Original Version)
 [メルカリで購入](https://jp.mercari.com/item/m35371062618?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fsKzWPt86Nw?si=1C__MdgSJcUnHqW3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-### 베이커 박사 – 카오스
+### Dr. Baker – Kaos
 <a href="https://jp.mercari.com/item/m83196886792?afid=6142608987"><img src="../assets/images/Dr.%20Baker%20%E2%80%93%20Kaos.webp"></a>
 
-형식: 비닐
+포맷: Vinyl
 
-장르 : 90년대 유로 / 유로하우스
+장르: 90s Euro/Euro House
 
-1990년대 클럽 히트곡 "In Ecstasy"를 믹스한 12인치 EP
+1990년대 클럽 히트 'In Ecstasy' 믹스가 들어간 12″ EP
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Kaos (Baby Mix)
 A2. Kaos (Radio Mix)
@@ -228,20 +228,20 @@ B2. Kaos (Original German Sausage Mix)
 [メルカリで購入](https://jp.mercari.com/item/m83196886792?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M3L7YsbqySw?si=9j6BrvroNiFf3S3I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-### 채널X – So High
+### Channel X – So High
 <a href="https://jp.mercari.com/item/m84866354258?afid=6142608987"><img src="../assets/images/Channel%20X%20%E2%80%93%20So%20High.webp"></a>
 
-형식: 비닐
+포맷: Vinyl
 
-장르 : 유로비트 / 유로하우스
+장르: Euro Beat/Euro House
 
-벨기에 생산 유로 트럭, 2023년 10월 출시
+벨기에 제작 유로트럭, 2023년 10월
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. So High (Club Mix)
 
@@ -252,21 +252,21 @@ B. So High (Single Mix)
 [メルカリで購入](https://jp.mercari.com/item/m84866354258?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dFN94Ma9R1I?si=nHABXp2N8Gu8BFQm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
 
-### 이스트 17 – 전 세계
+### East 17 – Around The World
 <a href="https://jp.mercari.com/item/m87830012673?afid=6142608987"><img src="../assets/images/East%2017%20%E2%80%93%20Around%20The%20World.webp"></a>
 
-형식: 비닐
+포맷: Vinyl
 
-장르 : 90년대 유로하우스
+장르：90s Euro House
 
-1994년에 발매된 영국 팝 유로 사운드, Ben Liebrand가 리믹스
+1994년 릴리스, Ben Liebrand에 의한 리믹스 수록의 UK팝 유로 사운드
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A #1. Around The World (Overworld Vocal)
 A #2. Around The World (Overworld Dub)
@@ -279,20 +279,20 @@ B #2. Around The World (Global House Mix)
 [メルカリで購入](https://jp.mercari.com/item/m87830012673?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2ae0MbbPPb8?si=TKON2zCX1nrR9_s5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-### 탐 애로우(Tam Arrow) – 원샷걸(One Shot Girl)
+### Tam Arrow – One Shot Girl
 <a href="https://jp.mercari.com/item/m53285819387?afid=6142608987"><img src="../assets/images/Tam%20Arrow%20%E2%80%93%20One%20Shot%20Girl.webp"></a>
 
-형식: 비닐
+포맷: Vinyl
 
-장르 : 유로비트 / Hi-NRG
+장르: Euro Beat/Hi‑NRG
 
-2001년 이탈리아 EP 발매, Energy 12″
+2001년 릴리스의 이탈리아산 EP, 에너지계 12″
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Joe Banana–Bang Bang Bang (Extended Version)
 
@@ -307,7 +307,7 @@ B2. P. Stone–Kosmic Woofer (Extended Version)
 [メルカリで購入](https://jp.mercari.com/item/m53285819387?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o0bWLZXLrRY?si=nw3NL9KpzOohA7ZZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
@@ -315,13 +315,13 @@ B2. P. Stone–Kosmic Woofer (Extended Version)
 ### Dao Dezi – La Jument De Mishao
 <a href="https://jp.mercari.com/item/m81110098498?afid=6142608987"><img src="../assets/images/Dao%20Dezi%20%E2%80%93%20La%20Jument%20De%20Mishao.webp"></a>
 
-형식: 비닐
+포맷: Vinyl
 
-장르 : 유로 / 유로 하우스
+장르: Euro/Euro House
 
-딥포레스트 멤버들이 1994년 이탈리아에서 발매한 작품 ◆
+Deep Forest 멤버에 의한 1994년 이탈리아 릴리스 ◆
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. La Jument De Mishao (Extended Mix)
 
@@ -332,21 +332,21 @@ B. La Jument De Mishao (Club Mix)
 [メルカリで購入](https://jp.mercari.com/item/m81110098498?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MBeqP32w7DE?si=G1an0xmKRRe56Jth" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
 
-### E‑Rotic – 성적 광기
+### E‑Rotic – Sexual Madness
 <a href="https://jp.mercari.com/item/m50295230132?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Sexual%20Madness.webp"></a>
 
-형식: CD
+포맷: CD
 
-장르: 90년대 유로 / 유로비트 / Hi-ERG 하우스
+장르：90s Euro / Euro Beat / Hi‑ERG House
 
-1997년 발매된 앨범에는 히트곡 '턴 미 온(Turn Me On)'이 수록됐다.
+1997년 릴리스의 앨범으로 히트곡 「Turn Me On」수록
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Sexual Madness
 2. Turn Me On
@@ -366,7 +366,7 @@ B. La Jument De Mishao (Club Mix)
 [メルカリで購入](https://jp.mercari.com/item/m50295230132?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0wqWyIC8m90?si=SWNteosxSvOl8wXN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
@@ -374,13 +374,13 @@ B. La Jument De Mishao (Club Mix)
 ### E‑Rotic – Willy Use A Billy... Boy
 <a href="https://jp.mercari.com/item/m74466346239?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Willy%20Use%20A%20Billy%20Boy.webp"></a>
 
-형식: CD
+포맷: CD
 
-장르: 90년대 유로 / 유로비트 / Hi-ERG 하우스
+장르：90s Euro / Euro Beat / Hi‑ERG House
 
-"Willy Use A Billy… Boy"는 E-Rotic의 독일 네 번째 싱글이자 일본 데뷔 싱글입니다.
+'Willy Use A Billy… Boy'는 독일에서는 E-Rotic의 4번째 싱글, 일본에서는 데뷔 싱글
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Willy Use A Billy... Boy (Extended Version)
 B. Willy Use A Billy... Boy (Safe The Sex Re-Max)
@@ -390,11 +390,11 @@ B. Willy Use A Billy... Boy (Safe The Sex Re-Max)
 [メルカリで購入](https://jp.mercari.com/item/m74466346239?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mpg2H1M_U-c?si=IUJAabPAnffXlUT9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-### 목록
+### List
 
 <div class="table-border">
 <table>

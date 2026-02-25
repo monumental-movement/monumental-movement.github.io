@@ -10,15 +10,15 @@ tags:
 - Euro
 - Compilation
 - 90s
-title: 다양한 – 하룻밤 리믹스 II
+title: Various – Overnight Remixes II
 ---
 
 
-80년대 후반부터 90년대까지의 유로 하우스, 테크노, 뉴 비트, 개러지 하우스 컴필레이션 앨범.
+80년대 후반부터 90년대의 유로하우스 테크노 뉴비트 갈라지 하우스계 편집 앨범.
 
-하드코어 테크노 거물인 2 Unlimited, 벨기에 Eurodance와 새로운 비트 밴드 Bizz Nizz, 선도적인 뉴 웨이브 그룹 중 하나인 영국의 음악 유닛 Soft Cell이 포함되어 있습니다.
+하드코어 테크노의 입역자 2 Unlimited(2 언리미티드), 벨기에의 유로 댄스 & 뉴 비트 밴드 Bizz Nizz, 뉴 웨이브의 대표적인 그룹 중 하나인 UK의 음악 유닛 Soft Cell(소프트 셀) 등이 수록되어 있다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Sophia – Running So Hard
 A2. The Creator – Jack
@@ -35,5 +35,5 @@ B5. LNR – Work It To The Bone
 
 [メルカリで購入](https://jp.mercari.com/item/m82073091012?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/znm-HC2GXiM?si=XMALsoMlo2nVH6Kz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

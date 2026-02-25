@@ -9,18 +9,18 @@ permalink: /ko/the-call-modern-romans/
 tags:
 - Rock
 - New-Wave
-title: 부름 – 현대 로마서
+title: The Call – Modern Romans
 ---
 
 
-더 콜(The Call)은 1980년 캘리포니아주 산타크루즈에서 결성된 미국의 록 밴드이다. 이들은 20년여에 걸쳐 9장의 스튜디오 앨범을 발매한 뒤 2000년 해체했다. 대표적인 곡으로는 앨 고어(Al Gore)의 2000년 대선 캠페인 주제가로 사용된 'Let the Day Begin'이 있다.
+The Call은 1980년 캘리포니아주 산타크루즈에서 결성된 미국의 록밴드. 2000년에 해산할 때까지 20년간 9장의 스튜디오 앨범을 발표했다. 대표곡에는 알고아의 2000년 대선 캠페인 테마송으로 사용된 'Let the Day Begin' 등이 있다.
 
-1983년 발매된 Modern Romans는 The Call의 두 번째 앨범으로 그들의 음악적 성숙함과 세련미를 보여주었다. 이번 앨범은 포스트 펑크와 뉴 웨이브의 영향을 받았지만, 독특한 사운드와 웅장한 멜로디가 특징이다. 여기에는 싱글 'Walls Came Down'과 'Everywhere I Go'가 포함되어 있습니다.
+1983년에 발표된 'Modern Romans'는 The Call의 두 번째 앨범으로 그들의 음악적 성숙과 세련을 보여주는 작품. 앨범은 포스트펑크나 뉴웨이브의 영향을 받으면서도, 독자적인 사운드와 장대한 멜로디가 특징. 싱글곡 「Walls Came Down」이나 「Everywhere I Go」등이 수록되어 있다.
 
-'현대 로마인'은 평론가들의 극찬을 받았고 일부 팬들의 열렬한 지지를 받았다. 앨범은 발매 당시 상업적인 성공을 거두지는 못했지만 나중에 컬트 추종자를 형성했습니다.
+'Modern Romans'는 비평가들로부터 높은 평가를 받아 일부 팬들로부터도 열렬한 지지를 얻었다. 앨범은 발매 당초는 상업적 성공에 이르지 못했지만 나중에 컬트적인 인기를 쌓았다.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. The Walls Came Down
 
@@ -43,5 +43,5 @@ B4. All About You
 
 [メルカリで購入](https://jp.mercari.com/item/m79709500241?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uPosJRGpsLU?si=cbzuwTwEhwMuXIDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

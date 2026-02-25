@@ -45,7 +45,7 @@ color: #fff;
 
 ### 1-1 Préhistoire de la musicalisation des sons d'échecs numériques
 
-L'idée même du glitch remonte à l'esthétique présentée par l'électro à la fin des années 1990 (Oval, Alva Noto, Ryoji Ikeda, etc.). Il traitait les erreurs de lecture de CD et les dysfonctionnements du signal numérique comme des matériaux musicaux, et citait activement « l'esthétique de l'échec ».
+L'idée même du glitch remonte à l'esthétique présentée par l'électro à la fin des années 1990 (Oval, Alva Noto, Ryoji Ikeda, etc.). Il traitait les erreurs de lecture des CD et les dysfonctionnements des signaux numériques comme des matériaux musicaux, et citait activement « l’esthétique de l’échec ».
 
 La musique glitch de cette époque était plus expérimentale, mettant l'accent sur la texture, l'espace et la structure plutôt que sur le rythme. D’un autre côté, le Glitchcore ultérieur se distingue de manière décisive par le fait qu’il est fortement lié à la culture pop populaire et à Internet.
 
@@ -110,7 +110,7 @@ Glitchcore utilise activement l'écrêtage et le crépitement qui peuvent être 
 
 ---
 
-### 2-4 Réinterprétation de la structure pop
+### 2-4　Réinterprétation de la structure pop
 
 Malgré une acoustique perturbatrice, les mélodies sont souvent « très pop » et faciles à retenir. C'est l'essence du Glitchcore ; il ne s’agit pas seulement de musique noise, mais d’un genre qui déverse des effets surchargés dans un vaisseau pop.
 
@@ -131,7 +131,7 @@ Caractéristiques typiques :
 
 ---
 
-### 3-2　100 gecs
+### 3-2　100 gés
 
 100 gecs (Laura Les & Dylan Brady) est une icône du Glitchcore. Ils ont mélangé l'emo, le ska, le métal, la trap et le Bubblegum Pop dans un état frénétique, transformant « l'effondrement du genre » en pop.
 
@@ -268,7 +268,7 @@ Une autre caractéristique majeure est que les expressions de style anime, la cu
 
 ### 7-3 Personnalité SoundCloud
 
-Osquinn et Glaive ont apporté des progressions d'accords emo, des touches de guitare et des voix légères au Glitchcore. Cela représente une direction mélodique plus introvertie par rapport à la nature « avant-gardiste » de l’Hyperpop.
+Osquinn et Glaive ont apporté des progressions d'accords emo, des touches de guitare et des voix aériennes au Glitchcore. Cela représente une direction mélodique plus introvertie par rapport à la nature « avant-gardiste » de l’Hyperpop.
 
 ---
 
@@ -317,7 +317,7 @@ Celles-ci sont tout à fait cohérentes avec les techniques du Glitchcore.
 
 ### 10-2 Le « pop cassé » sera-t-il standardisé ?
 
-Les traitements destructeurs comme Hyper-Glitch commencent déjà à trouver leur place dans la pop grand public. À l'avenir, il est fort possible que le « glitch » en tant qu'idée de production devienne un outil standard plutôt que des limites en tant que genre.
+Les traitements destructeurs comme Hyper-Glitch commencent déjà à trouver leur place dans la pop grand public. À l'avenir, il y a de fortes chances que le « glitch en tant qu'idée de production » devienne un outil standard plutôt que des limites en tant que genre.
 
 ---
 

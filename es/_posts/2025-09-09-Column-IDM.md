@@ -99,7 +99,7 @@ Los sintetizadores de hardware como **Nord Lead** y **Access Virus** se hicieron
 ---
 
 ## Década de 2000: post-IDM y crossover
-Fusionándose con la electrónica, el post-rock, el ambient, etc., se expande a un abanico más amplio de oyentes. Con la expansión de Internet y P2P, la forma en que se realizan las publicaciones también ha cambiado.
+Fusionándose con la electrónica, el post-rock, el ambient, etc., se expande a un abanico más amplio de oyentes. Con la expansión de Internet y P2P, la naturaleza de los lanzamientos ha cambiado.
 
 - **Obra maestra representativa**
 - Juntas de Canadá – *Geogaddi* (2002)
@@ -191,3 +191,14 @@ Producción híbrida que combina modularidad y software.
 ## El espíritu de experimentación acústica en sí
 IDM ha ido más allá del marco de la "música de baile para escucha intelectual" y ha evolucionado hacia el espíritu mismo de la experimentación sonora.
 Aunque comenzó fuera de los clubes, ahora ha regresado a la música pop y de clubes, y su estética se extiende por toda la música electrónica contemporánea.
+
+---
+
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlKbA9Cehh4?si=1j50VFSKQk04Nn7c" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---

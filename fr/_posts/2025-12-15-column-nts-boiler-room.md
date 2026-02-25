@@ -22,7 +22,7 @@ title: '[Chronique] Artistes diffusés en direct sur NTS/Boiler Room et culture 
 
 Texte : mmr｜Thème : Comment les DJ sets, la musique expérimentale et les performances live inconnues ont été formés et étendus autour des plateformes de streaming en direct.
 
-Au début du 21e siècle, les espaces de représentation musicale se sont progressivement étendus, passant de lieux physiques tels que les clubs et les salles de concert à des espaces où la musique est distribuée via Internet. Surtout depuis les années 2010, le streaming musical en direct s’est imposé comme une forme indépendante de performance, plutôt que comme un simple enregistrement ou diffusion.
+Au début du 21e siècle, les espaces de représentation musicale se sont progressivement étendus, passant de lieux physiques tels que les clubs et les salles de concert à des espaces où la musique est distribuée via Internet. Depuis les années 2010 en particulier, le streaming musical en direct s’est imposé comme une forme indépendante de performance, plutôt que comme un simple enregistrement ou diffusion.
 
 NTS Radio et Boiler Room ont des origines et des philosophies différentes au sein de ce flux, mais ce sont elles qui ont rendu la culture du streaming en direct visible à l'échelle internationale. Ce qu’ils ont tous deux en commun, c’est le cross-genre, l’improvisation et une attitude de prise de distance par rapport au cadre existant de l’industrie musicale.
 
@@ -158,7 +158,7 @@ Cela peut être considéré comme un « mouvement enregistrable ».
 
 ## Chapitre supplémentaire 2 Disparition du studio et du site
 
-Traditionnellement, il y avait une distinction entre la production musicale en studio et la performance sur place. Cependant, dans un environnement de diffusion en direct, cette distinction devient floue. Les maisons, les espaces temporaires, les équipements publics, les studios sans public, etc. deviennent à la fois des espaces de production et de représentation.
+Traditionnellement, il y avait une distinction entre la production musicale en studio et l’interprétation sur place. Cependant, dans un environnement de diffusion en direct, cette distinction devient floue. Les maisons, les espaces temporaires, les équipements publics, les studios sans public, etc. deviennent à la fois des espaces de production et de représentation.
 
 Sur NTS, il a été confirmé qu'il existe de nombreux cas dans lesquels du matériel en cours de production ou des sources sonores inachevées sont joués tels quels dans le programme. Boiler Room sort également occasionnellement des sets live proches des répétitions.
 

@@ -16,13 +16,13 @@ title: 布萊恩·伊諾 (Brian Eno) 和約翰·卡爾 (John Cale) – 錯誤的
 ---
 
 
-Brian Eno 和 John Cale 於 1990 年發行的錄音室專輯“Wrong Way Up”的宣傳盒式磁帶。
+Brian Eno 和 John Cale 於 1990 年發行的錄音室專輯「Wrong Way Up」的宣傳盒式磁帶。
 
 《Wrong Way Up》是一張廣受好評的專輯，介於電子、前衛搖滾和藝術搖滾之間。
 
-歌曲《Spinning Away》因美國搖滾樂隊Sugar Ray在2000年翻唱電影《海灘》原聲帶而聞名。
+歌曲《Spinning Away》因美國搖滾樂團Sugar Ray在2000年翻唱電影《海灘》原聲帶而聞名。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Lay My Love
 A2. One Word
@@ -37,7 +37,7 @@ B4. Crime In The Desert
 B5. The River
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m98335860609?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m98335860609?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-INeMspNSQ0?si=rooDJWDXNgTju37W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,15 +10,15 @@ tags:
 - Nostalgic
 - 7inch
 - Rock
-title: Pat McGlynn - 그녀는 나와 함께 있고 싶어
+title: Pat McGlynn – She'd Rather Be With Me
 ---
 
 
-원래 스코틀랜드 출신인 Pat McGlynn은 자신의 밴드인 Pat McGlynn's Scotties를 결성하기 전에 1976년 후반에 Bay City Rollers의 기타리스트로 일했습니다.
+스코틀랜드 출신인 퍼트 매그린은 1976년 후반에 베이 시티 롤러스(Bay City Rollers)의 기타리스트로 활동한 후 자신의 밴드 Pat McGlynn's Scotties(퍼트 맥그린스 스코티즈)를 결성.
 
-"She'd 차라리 Be With Me"는 1977년 London Records에서 발매되었습니다. 프로듀서는 Nick Raymonde입니다.
+「She'd Rather Be With Me(그 딸은 아이돌)」는, 1977년에 London Records보다 발매되었다. 프로듀서는 Nick Raymonde.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. She'd Rather Be With Me (あの娘はアイドル)
 
@@ -27,5 +27,5 @@ B. Street Walkin' Girl (テクニカラーの女の子)
 
 [メルカリで購入](https://jp.mercari.com/item/m46039365171?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A1eEvI-Y6p0?si=t7IUWVojD9-kb25Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

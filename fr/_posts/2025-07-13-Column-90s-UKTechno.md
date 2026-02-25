@@ -100,7 +100,7 @@ Il convient de noter qu'au Royaume-Uni, il y avait une plus grande conscience no
 <hr>
 
 ### Politique de la musique et de l'espace
-La techno britannique des années 1990 était une culture qui valorisait davantage le lieu que la musique. Des raves illégales organisées dans des entrepôts ruraux et des champs en plein air aux équipes de free party (comme Spiral Tribe) qui se déplaçaient avec des systèmes audio chargés sur des camions, sonnaient l'espace physique et bouleversaient l'ordre social existant.
+La techno britannique des années 1990 était une culture qui valorisait davantage le lieu que la musique. Des raves illégales organisées dans des entrepôts ruraux et des champs en plein air aux équipes de free party (comme Spiral Tribe) qui se déplaçaient avec des systèmes de sonorisation chargés sur des camions, sonnaient l'espace physique et bouleversaient l'ordre social existant.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dSDJsqSGhqM?si=rvn6yH969EiyUfjC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

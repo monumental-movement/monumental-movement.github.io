@@ -12,15 +12,15 @@ tags:
 - Italy
 - Movie
 - 90s
-title: 埃尼奧·莫里康內 – Nuovo Cinema Paradiso（電影原創音樂）
+title: 艾尼歐莫里康內 – Nuovo Cinema Paradiso（電影原創音樂）
 ---
 
 
-由意大利作曲家埃尼奧·莫里康內 (Ennio Morricone) 為 1989 年電影《新電影天堂》創作的原聲帶。這張 CD 使埃尼奧·莫里康內 (Ennio Morricone) 成名。
+由義大利作曲家 Ennio Morricone 為 1989 年電影《新電影天堂》創作的原聲帶。這張 CD 使 Ennio Morricone 成名。
 
 埃尼奧·莫里康內 (Ennio Morricone) 憑藉為昆汀·塔倫蒂諾 (Quentin Tarantino) 編劇和導演的電影《八惡人》配樂獲得第 88 屆奧斯卡金像獎最佳原創配樂獎。
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. Nuovo Cinema Paradiso
 2. Maturita
@@ -40,7 +40,7 @@ title: 埃尼奧·莫里康內 – Nuovo Cinema Paradiso（電影原創音樂）
 16. Per Elena
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m12330738876?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m12330738876?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qMgTCtSxOHE?si=9YjFz0Zd7nVwja81" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

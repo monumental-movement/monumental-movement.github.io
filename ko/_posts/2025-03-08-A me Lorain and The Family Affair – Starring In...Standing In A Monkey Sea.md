@@ -13,16 +13,16 @@ tags:
 - Pop Rock
 - Ballad
 - 90s
-title: A'me Lorain & The Family Affair – 출연...Standing In A Monkey Sea
+title: A'me Lorain & The Family Affair – Starring In...Standing In A Monkey Sea
 ---
 
 
-1990년 RCA가 발표한 이 앨범은 펑크 밴드 The Family Affair의 선두주자인 미국 팝 가수 A'me Lorain의 데뷔 앨범이다. 일본제목은 '도키메키의 이상한 나라'
+1990년 RCA에서 발매된 이 앨범은 미국의 팝 싱어이며, 펑크 밴드 The Family Affair의 프런트, A'me Lorain(에이미 롤레인)의 데뷔 앨범. 일본제는 「토키메키의 원더랜드」
 
-1990년에 발매된 Whole Wide World라는 노래는 미국 댄스 차트에서 큰 히트를 쳤고 영화 True Love의 사운드 트랙에 등장했습니다.
+1990년에 발매한 수록곡 Whole Wide World는 전미의 댄스 차트에서 대히트가 되어, 영화 True Love의 사운드 트랙에도 사용되었다.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Time You Take
 2. Letter 'C' Card
@@ -40,5 +40,5 @@ title: A'me Lorain & The Family Affair – 출연...Standing In A Monkey Sea
 
 [メルカリで購入](https://jp.mercari.com/item/m26638161977?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0gFzLWYVt14?si=eBYxdOGOwIvtMJ-9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

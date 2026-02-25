@@ -114,7 +114,7 @@ C'était une version moderne d'un ancien rituel.
 
 Immédiatement après la chute du Mur, Berlin était une zone de non-droit et un terrain d’essai pour la liberté.
 Des clubs comme Trésor et Berghain
-Il a créé une nouvelle communauté physique dans une ville en attente de restructuration politique et économique.
+Une nouvelle communauté physique a été créée dans une ville en attente de restructuration politique et économique.
 Là, la « danse » elle-même est
 C'était un acte politique de mémoire et de renaissance.
 
@@ -170,7 +170,7 @@ Ce que le sociologue Durkheim appelle « l’effervescence collective » est
 C'est un moment où l'énergie de la communauté est simultanément dynamisée.
 La piste de danse du club est une reconstitution moderne de cela.
 Un lieu où les individus seuls peuvent se connecter aux autres grâce au rythme.
-Il s’agit d’un dispositif empathique plus primitif et bien plus physique que les médias sociaux.
+C'est un dispositif empathique plus primitif et beaucoup plus physique que SNS.
 
 ---
 

@@ -52,7 +52,7 @@ color: #fff;
 ## Chapter 1: Moritz von Oswald and Mark Ernestus - two people of anonymity
 
 Basic Channel is a unit formed by German musicians **Moritz von Oswald** and **Mark Ernestus**.
-二人の経歴は意外なほど異なる。
+Their backgrounds are surprisingly different.
 
 - **Moritz von Oswald**: Former percussionist. In the 1980s, he was active in the pop group Palais Schaumburg. He began exploring African music and dub early on.
 - **Mark Ernestus**: Founder of the record shop "Hard Wax". He played an extremely important role in the distribution and reception of Detroit techno.
@@ -187,9 +187,9 @@ The end of a rhythm becomes the starting point of the next reverberation - this 
 | **1990** | Mark Ernestus opens Hard Wax (Berlin) |
 | **1993** | "Phylyps Trak" released under the name Basic Channel |
 | **1994** | Completed the series up to Basic Channel No. 6. Representative works such as "Quadrant Dub" |
-| **1995** | Established Chain Reaction. Experimental dub techno begins to spread |
+| **1995** | Established Chain Reaction.実験的ダブテクノの拡散開始                        |
 | **1996** | Maurizio series start (M series) |
-| **1999** | Started Rhythm & Sound, started collaborating with Jamaican vocalists |
+| **1999**  | Rhythm & Sound始動、ジャマイカン・ヴォーカリストとの共演開始                 |
 | **2003** | "Rhythm & Sound w/ The Artists" released |
 | **2010** | Moritz von Oswald Trio started (with Max Loderbauer and Tony Allen) |
 | **2020s** | Wave of reappraisal, Dub Techno revival, spreading mainly on Bandcamp |
@@ -211,7 +211,7 @@ The sound of Basic Channel is timeless and still remains in the "present tense."
 The reason for this is that they didn't just create techno, they rebuilt the very act of listening.
 
 The echo never ends.
-It is a lingering scent of time, and a tunnel that leads the listener to the outside of space.
+It is the lingering fragrance of time, and it is also a tunnel that leads the listener to the outside of space.
 
 And the ripples emanating from Berlin at the end of the 20th century continue to silently reverberate underground all over the world.
 

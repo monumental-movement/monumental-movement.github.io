@@ -32,7 +32,7 @@ Der deutsche Techno erlebte in den 2020er Jahren einen dramatischen seismischen 
 Clubs wurden von der Regierung komplett geschlossen und die gesamte Szene grundlegend erschüttert, darunter Tourismus, Wirtschaft, Kultur, Musikproduktion und gesellschaftliche Werte.
 
 Deutschland gehört zu den Ländern weltweit, in denen die „Institutionalisierung der Clubkultur“ am weitesten fortgeschritten ist, Clubs politisch als Kultureinrichtungen behandelt werden und sogar auf der Agenda der Stadtpolitik stehen.
-Daher handelt es sich bei den Veränderungen in den 2020er Jahren nicht nur um Veränderungen in den Musikgenres, sondern sie werden auch weitgehend in der Forschung zu Kulturpolitik, Stadtplanung, Tourismuswirtschaft und Subkultur in der deutschen Gesellschaft erfasst.
+Daher handelt es sich bei den Veränderungen in den 2020er Jahren nicht nur um Veränderungen der Musikgenres, sondern sie werden auch weitgehend in der Forschung zu Kulturpolitik, Stadtplanung, Tourismuswirtschaft und Subkultur in der deutschen Gesellschaft erfasst.
 
 ---
 
@@ -59,7 +59,7 @@ Vor März 2020 stach Berlin weltweit von anderen Städten ab.
 - Touristen kommen nicht nur aus der EU, sondern auch aus Südamerika und Asien
 - Laut Tourismusstatistik wurden Vereine als Gebiet mit äußerst großen wirtschaftlichen Auswirkungen behandelt.
 
-In dieser Zeit waren die Berliner Clubs der Kern der Marke der Stadt, und es war auch bemerkenswert, dass die Stadt offiziell eine Club-Förderpolitik bekannt gab.
+In dieser Zeit waren die Berliner Clubs der Kern der Stadtmarke, und es war auch bemerkenswert, dass die Stadt offiziell eine Clubunterstützungsrichtlinie bekannt gab.
 Kulturpolitisch sind Vereine in gewisser Weise durch den städtischen Kulturförderhaushalt geschützt, da sie Theatern und Galerien ähneln.
 
 ## ● Musikalisch gab es Anzeichen für eine Beschleunigung.
@@ -282,7 +282,7 @@ timeline
 
 # Kapitel 10: Zukunftsprognosen nach 2025
 ## ● 1) Wird es weiterhin Geschwindigkeitssteigerungen geben?
-Ab 2024 werden 150–170 BPM der Mainstream sein.
+Ab 2024 werden 150-170 BPM der Mainstream sein.
 Es ist unklar, ob dies so weitergehen wird, aber es kann aufgrund der folgenden Faktoren so weitergehen:
 
 - Die visuelle Präsentation auf SNS passt gut zu Hochgeschwindigkeitsmusik
@@ -290,7 +290,7 @@ Es ist unklar, ob dies so weitergehen wird, aber es kann aufgrund der folgenden 
 - Der internationale Markt für Hard Techno wächst
 
 ## ● 2) Der Club wird als kulturelle Ressource der Stadt geschützt.
-Deutschland hat Vereine also bereits als „kulturelle Einrichtungen“ institutionalisiert
+Da Deutschland Vereine bereits als „kulturelle Einrichtungen“ institutionalisiert hat,
 Es wird prognostiziert, dass die Schutzmaßnahmen ab 2025 fortschrittlicher werden.
 
 ## ● 3) Aufstieg regionaler Städte

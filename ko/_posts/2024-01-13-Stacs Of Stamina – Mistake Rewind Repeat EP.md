@@ -10,13 +10,13 @@ tags:
 - Experimental
 - Glitch
 - Garage
-title: Stacs Of Stamina – 실수 되감기 반복 EP
+title: Stacs Of Stamina – Mistake Rewind Repeat EP
 ---
 
 
-2005년 영국 독립 레이블 Werk Discs에서 발매된 스웨덴 일렉트로 힙합 크루 Stacs Of Stamina의 글리치 + 영국 개러지 + IDM + 실험적인 트랙입니다.
+UK의 인디펜덴 트래블 Werk Discs로부터 2005년에 릴리스된, 스웨덴의 일렉트로·힙합·크루 Stacs Of Stamina에 의한 글리치+UK 갈라지+IDM+익스피리멘탈 트럭.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Mistake, Rewind, Repeat
 
@@ -33,5 +33,5 @@ B3. Mistake, Rewind, Repeat (Original Johan Instr)
 
 [メルカリで購入](https://jp.mercari.com/item/m30112362592?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZLeMZ6sHzAE?si=jfqHSJRimWM4jOVw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

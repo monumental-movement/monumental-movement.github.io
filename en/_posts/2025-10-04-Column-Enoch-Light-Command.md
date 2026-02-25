@@ -7,8 +7,8 @@ lang: en
 layout: post
 tags:
 - History
-title: '[Column] Enoch Light and Command Records: The man who created hi-fi culture
-  and the lineage of the label'
+title: '[Column] Enoch Light and Command Records: The lineage of the man and label
+  who created hi-fi culture'
 ---
 
 
@@ -109,7 +109,7 @@ The album was recorded at Carnegie Hall using a 35mm master. It remained at the 
 
 ### Musicians involved/artists produced
 
-In addition to conducting himself, Enoch Light also used top session musicians for each album (eg, Doc Severinsen, Phil Bodner, etc.). He also released albums by performers/arrangers such as Terry Snyder, Tony Mottola, and Dick Hyman on Command, showing his versatility as a producer. As a recording engineer, he collaborated with Bob Fine and others, conducting a number of acoustic experiments.
+In addition to conducting himself, Enoch Light used top session musicians for each album (eg, Doc Severinsen, Phil Bodner, etc.). He also released albums by performers/arrangers such as Terry Snyder, Tony Mottola, and Dick Hyman on Command, showing his versatility as a producer. As a recording engineer, he collaborated with Bob Fine and others, conducting a number of acoustic experiments.
 
 ---
 

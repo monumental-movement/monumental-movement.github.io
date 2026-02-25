@@ -9,14 +9,14 @@ permalink: /ko/pink-floyd-vs-underworld-brown-acid/
 tags:
 - Techno
 - Mashup
-title: 핑크 플로이드 대 언더월드 - 브라운 애시드
+title: Pink Floyd vs. Underworld – Brown Acid
 ---
 
 
-"Brown Acid"는 Underworld의 "Born Slippy"와 Pink Floyd의 "Is There Anybody Out There? Is There Anybody Out There?"를 다크하게 매시업한 곡입니다. 쿠웨이트/미국 음반 프로듀서이자 리믹서인 뉴욕 출신 Hani와 뉴욕 출신 DJ 겸 프로듀서 Jonathan Peters가 제작했습니다.
+Brown Acid는 NY 출신의 쿠웨이트 / 미국인 레코드 프로듀서 겸 리믹서 Hani (하니)와 NY 출신 DJ / 프로듀서 Jonathan Peters (조나단 피터스)에 의한 Underworld의 "Born Slippy 본 스리피"와 Pink Floyd의 "Is 이즈 제아 에니바디 아웃 제어의 빅 다크 매쉬업.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Brown Acid
 
@@ -25,5 +25,5 @@ B. Brown Acid
 
 [メルカリで購入](https://jp.mercari.com/item/m72837150072?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jfiTem4tjYs?si=BYMqsili-yP73SaF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

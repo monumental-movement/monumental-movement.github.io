@@ -10,17 +10,17 @@ tags:
 - Techno
 - Acid
 - 10inch
-title: 엠피리온 – 예수 그리스도
+title: Empirion – Jesus Christ
 ---
 
 
-엠피리온(Empirion)은 오즈 모슬리(Oz Morsley), 바비 글레니(Bobby Glennie), 제이미 스마트(Jamie Smart)로 구성된 유닛이다.
+Empirion은 Oz Morsley, Bobby Glennie, Jamie Smart의 3명으로 구성된 유닛입니다.
 
-그들은 1993년 Essex에서 영국의 인더스트리얼 테크노 밴드로 활동을 시작했습니다.
+브리티시 인더스트리얼 테크노 밴드로서 1993년에 에섹스로 경력을 스타트했습니다.
 
-90년대 테크노 애시드 팬의 필수품인 10인치 2디스크 세트입니다.
+90년대의 테크노·아시드 좋아하게는 견딜 수 없는 일품으로, 10 인치의 2매 세트입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Jesus Christ
 
@@ -36,5 +36,5 @@ D. New Religion
 
 [メルカリで購入](https://jp.mercari.com/item/m51146991051?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7QfL99F3l_M?si=UtplTV3W34tXS8Y9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -18,7 +18,7 @@ title: 烏蘇拉·拉克——瑟茜
 
 《Circe》於 1999 年發行，是一首由 King Britt 製作的 Deep House/Downtempo 曲目。 A1 是 Jazzanova 的混音版。 A2, B1 是 Rob Yancey 的混音版。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Circe (Jazzanova Mix)
 A2. Circe (Rob Yancey Vocal Mix)
@@ -27,7 +27,7 @@ B1. Circe (Rob Yancey Dub)
 B2. Circe (Original Mix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m88394782915?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m88394782915?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U06KkNHUEMw?si=B0nNe023h24nyilx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

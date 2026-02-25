@@ -9,15 +9,15 @@ permalink: /ko/the-junkies-nathan-barato-the-big-smoke/
 tags:
 - House
 - Tech House
-title: 더 정키즈(The Junkies) & 네이선 바라토(Nathan Barato) - 빅 스모크(The Big Smoke)
+title: The Junkies & Nathan Barato – The Big Smoke
 ---
 
 
-Junkies는 캐나다 토론토에 본사를 둔 DJ/프로듀서 Valentino Colavecchia와 Vincenzo Nicolazzo로 구성된 듀오입니다.
+The Junkies는 캐나다 토론토를 거점으로 활동하는 DJ / 프로듀서 Valentino Colavecchia와 Vincenzo Nicolazzo의 듀오.
 
-Nathan Barato는 캐나다 출신의 DJ입니다.
+Nathan Barato(네이산 바라토)는 캐나다 출신의 DJ.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Wow!
 
@@ -26,5 +26,5 @@ B. For You One Time
 
 [メルカリで購入](https://jp.mercari.com/item/m25171037533?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yKAwnPusl34?si=EszvaHoYmvhpg2Pc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

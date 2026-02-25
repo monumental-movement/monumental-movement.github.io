@@ -14,9 +14,9 @@ title: 約翰·特賈達——寒冷天氣中的白日夢
 
 
 《寒冷天氣裡的白日夢》是
-John Tejada 於 2002 年在英國唱片公司 Plug Research 發行的雙密紋唱片。
+這是 John Tejada 於 2002 年由英國廠牌「Plug Research」發行的雙密紋唱片。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. To The West
 
@@ -43,7 +43,7 @@ D11. In Coach5:06
 D12. Some Would Know Why
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m89173131309?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m89173131309?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-IhLF7XI2vA?si=-P_QKitbQvPrQe9f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

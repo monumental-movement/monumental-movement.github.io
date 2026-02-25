@@ -17,7 +17,7 @@ Ignition Technician 是一個由 Cracker Jack、DJ Special Needs 和 Slut Peddle
 
 這張 EP 於 2001 年由英國唱片公司 Tortured Records 發行。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Broken
 
@@ -28,7 +28,7 @@ B1. Northern Soul
 B2. The Samba
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m36597756478?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m36597756478?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b04j5mc8XmQ?si=b6V-A8OcP9yefb6R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

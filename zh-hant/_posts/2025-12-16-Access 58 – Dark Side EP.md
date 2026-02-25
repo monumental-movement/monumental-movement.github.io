@@ -21,7 +21,7 @@ AA1 是美國 techno/ambient 製作人和 DJ Steve Stoll 的混音版。
 
 AA2 是德國 techno 製作人 Pacou 的混音作品，曾在他自己的廠牌 LL Records、Tresor、Djax-Up-Beats、Konsequent 和 Music Man Records 等著名唱片公司發行。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. On Test
 A2. Resolution
@@ -30,7 +30,7 @@ AA1. Orient Express (Steve Stoll Proper Dub Remix)
 AA2. Quiet Mind (Pacou Remix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m70119749536?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m70119749536?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xWrxlyOGCPY?si=kIcKrS0_wgTzUX9y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

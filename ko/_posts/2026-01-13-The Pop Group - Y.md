@@ -11,15 +11,15 @@ tags:
 - Avantgarde
 - Experimental
 - 70s
-title: 더 팝 그룹 = 더 팝 그룹 – Y = Y(마지막 경고)
+title: The Pop Group = 더 • 팝 • 그룹 – Y = Y (마지막 경고)
 ---
 
 
-팝 그룹(The Pop Group)은 1977년 영국 브리스톨 출신의 포스트 펑크 밴드이다.
+The Pop Group은 1977년에 결성된 영국 브리스톨 출신의 Post-punk(포스트펑크) 밴드.
 
-'Y'는 1979년 발매된 팝 그룹의 데뷔 앨범으로, 더빙 뮤지션 데니스 보벨(Dennis Bovell)이 프로듀싱했다.
+Y는 1979년에 발표된 팝그룹의 데뷔 앨범으로 Dub 뮤지션 Dennis Bovell(데니스 보벨)이 프로듀스했다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Thief Of Fire = 戦火は消えない
 A2. Snowgirl = スノー・ガール
@@ -35,5 +35,5 @@ B4. Don't Sell Your Dreams = 夢を売りわたすな
 
 [メルカリで購入](https://jp.mercari.com/item/m32852043303?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/viqOIqGLLgI?si=CNeo3CriaWr1epSR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

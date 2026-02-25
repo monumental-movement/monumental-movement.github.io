@@ -23,7 +23,7 @@ In den frühen 1970er Jahren kam es in Philadelphia, einer Stadt an der Ostküst
 Im Mittelpunkt standen **MFSB (Mother Father Sister Brother)** und **Salsoul Orchestra**.
 
 Sie etablierten einen neuen Sound namens „Orchestra Soul“, indem sie wunderschöne Arrangements mit vielen Streichern und Hörnern, einer detaillierten Rhythmussektion und einem gefühlvollen Geist verbanden.
-Diese Abstammung verbreitete sich später in der Disco-Kultur auf der ganzen Welt und wurde von House-, Latin- und sogar Hip-Hop-Sampling-Kulturen übernommen.
+Diese Abstammung breitete sich später auf die Disco-Kultur auf der ganzen Welt aus und wurde von House-, Latin- und sogar Hip-Hop-Sampling-Kulturen übernommen.
 
 ---
 
@@ -161,7 +161,7 @@ Den Übergang vom Soul zur Disco schafften sie mit brillantem und intelligentem 
 
 Das Blut Philadelphias fließt zweifellos durch die aktuelle Clubkultur – House und New Disco.
 Es ist die paradoxe Schönheit von **Streichern, die den Rhythmus spielen**.
-Die architektonische Schönheit, die Montanas Hände geschaffen haben, strahlt weiterhin tief auf der Tanzfläche.
+Die architektonische Schönheit, die Montanas Hände geschaffen haben, strahlt bis tief in die Tanzfläche hinein.
 
 > „Der Sound of Philadelphia stirbt nie – er tanzt einfach weiter.“
 > - Vincent Montana Jr.

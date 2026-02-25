@@ -45,7 +45,7 @@ color: #fff;
 
 # # 1. Les fondements de la musique éthiopienne : la gamme pentatonique (kinet) et la culture modale unique
 
-Une culture musicale à plusieurs niveaux existe en Éthiopie depuis l'Antiquité, comprenant les chants chrétiens orthodoxes éthiopiens (Zara), la culture locale des ménestrels Azmari et la musique urbaine de la capitale Addis-Abeba.
+L'Éthiopie possède une culture musicale à plusieurs niveaux depuis l'Antiquité, comprenant les chants orthodoxes éthiopiens (Zara), la culture azmari des bardes locaux et la musique urbaine de la capitale Addis-Abeba.
 
 Le système modal unique de l'Éthiopie appelé « qenet » est particulièrement célèbre.
 Il existe quatre Kinets typiques :
@@ -145,7 +145,7 @@ Des enregistrements d'orchestres militaires ont été réédités, ce qui a déc
 En 2005, comme la musique du film **Broken Flowers** réalisé par Jim Jarmusch.
 De nombreuses chansons de Mulatu ont été utilisées et ont attiré beaucoup d'attention.
 
-Après cet événement, les collaborations avec des artistes européens et nord-américains se multiplient.
+Après cet événement, les collaborations avec des artistes d'Europe et d'Amérique du Nord se sont multipliées,
 L'Ethio-Jazz redevient reconnu comme un genre musical international.
 
 ---
@@ -216,7 +216,7 @@ Réévalué à l'international avec la série Éthiopiques.
 
 ### ■ Tilahun Gessesse
 
-Un chanteur connu comme le « roi de la musique éthiopienne ». Il est un ancien membre d'un orchestre militaire et possède des compétences avancées en chant.
+Un chanteur connu comme le « roi de la musique éthiopienne ». Il est un ancien membre d'un orchestre militaire et possède de grandes compétences en chant.
 
 ### ■ Hailu Mergia
 
@@ -238,7 +238,7 @@ Il a ensuite été redécouvert à Washington, D.C., et a fait le tour du monde.
 
 ### ■ Jazz/Funk/Hip-hop
 
-* Élargir l'interprétation des modes jazz
+* Expansion de l'interprétation du mode jazz
 * Fréquemment utilisé comme échantillon dans le hip-hop
 * Influence sur l'Afrobeat/Afrofusion
 

@@ -9,15 +9,15 @@ permalink: /zh-hant/brent-lewis-earth-tribe-rhythms/
 tags:
 - Tribal
 - Soundtrack
-title: 布倫特·劉易斯 – 地球部落節奏
+title: 布倫特劉易斯 – 地球部落節奏
 ---
 
 
 布倫特·劉易斯是一位打擊樂手和鼓手，多年來與許多著名藝術家合作。
 
-第二首歌曲《蕎麥頌》包含在奧利弗·斯通的電影《肯尼迪》的原聲帶中。
+第二首歌曲《蕎麥頌》包含在奧利佛史東的電影《甘迺迪》的原聲帶中。
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. Doom Tac A Doom
 
@@ -40,7 +40,7 @@ title: 布倫特·劉易斯 – 地球部落節奏
 10. Voodoo You're Mine
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m92233354047?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m92233354047?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tOmd8rX-ZyU?si=_JWAnqkuiKP3wCwQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

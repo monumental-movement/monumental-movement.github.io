@@ -76,7 +76,7 @@ Ihr frühes Werk war eine dichte Mischung aus der Geschwindigkeit des Hardcore u
 Im Jahr 1988 erregten sie in der Indie-Szene im Ausland Aufmerksamkeit und wurden zu einem heißen Thema in der Underground-Community der Vereinigten Staaten.
 1989 wurden sie von Sonic Youth stark unterstützt und durch die Interaktion mit ihnen wurden sie mit den großen amerikanischen Indies verbunden.
 
-### Musikalische Struktur früher Boredoms
+### Musikalische Struktur der frühen Boredoms
 
 <div class="mermaid">
 flowchart TD
@@ -103,7 +103,7 @@ Live-Auftritte waren in dieser Zeit immer unvorhersehbar und das Bühnengeschehe
 ---
 
 „Super æ“ (Super æ) aus dem Jahr 1998 ist ein Werk, das die traditionellen Elemente der Geräuschmischung beibehält, jedoch großen Wert auf Klangordnung, Wiederholung und Minimalismus legt.
-Der Klang wurde vielschichtiger, ein Trance-Feeling schlüpfte in den sich wiederholenden Rhythmus und es begann eine psychedelische Anmutung anzunehmen.
+Der Klang wurde vielschichtiger, ein Trance-Feeling schlüpfte in den sich wiederholenden Rhythmus und es begann eine psychedelische Atmosphäre anzunehmen.
 
 ### 3-2. Der Höhepunkt von „Vision Creation Newsun“
 
@@ -114,7 +114,7 @@ Der Klang wurde vielschichtiger, ein Trance-Feeling schlüpfte in den sich wiede
 Die Vision Creation Newsun des darauffolgenden Jahres 1999 war eines der prägenden Werke in Boredoms‘ Karriere.
 Natürliche Klänge, ethnische Percussion, anhaltende Klänge und zyklische Strukturen, Gitarrendrohnen, vielschichtige Rhythmen ...
 
-Die Boredoms waren hier nicht einmal eine „Rockband“; Sie waren tief im kosmischen Minimalismus und rituellen Trance versunken.
+Die Boredoms waren hier nicht einmal eine „Rockband“, sondern vertieften sich stattdessen in kosmischen Minimalismus und rituellen Trance.
 
 ---
 
@@ -144,7 +144,7 @@ Elemente von Strandaufnahmen, lange Borduntöne, meditative Strukturen, Umgebung
 
 ---
 
-Hier wird der Name der Band oft als V∞redoms geschrieben, und das Konzept von Boredoms selbst ändert sich zu einem „kollektiven kreativen Körper“ und nicht zu einer musikalischen Einheit.
+Hier wird der Bandname oft als V∞redoms geschrieben, und das Konzept von Boredoms selbst ändert sich zu einem „kollektiven kreativen Körper“ und nicht zu einer musikalischen Einheit.
 In den 2000er Jahren starteten Boredoms neue Entwicklungen, darunter den Namen **V∞redoms**, und das ikonischste davon war das große Schlagzeugensemble, das mit dem „7x7x7“-Konzert am 7. Juli begann**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vjk01Wo-aEs?si=NY65yyeeoj0-m5te" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -212,7 +212,7 @@ In diesem Kapitel werde ich die bisher fragmentarisch erwähnten persönlichen A
 ### 7.1 Anfangszins
 - Collage, Manga, Konkrete Kunst
 - Zerstörerische Leistung
-- Mehr Interesse an „Ort“ als an Klang
+- Interessiert sich eher für „Ort“ als für Klang
 
 ### 7.2 Bildung des Sampling-Senses
 Seit den frühen 1990er Jahren verwendet Ai Plattenspieler und Kassetten als Materialien und ist auf die „taktile Bearbeitung“ spezialisiert, bei der Fragmente physischen Klangs miteinander verbunden werden.

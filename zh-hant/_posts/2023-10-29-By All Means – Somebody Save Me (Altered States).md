@@ -10,14 +10,14 @@ tags:
 - House
 - Acid
 - Garage
-title: 無論如何——有人救救我（改變狀態）
+title: 無論如何－有人救救我（改變狀態）
 ---
 
 
-“無論如何 - 有人救救我（改變狀態）”
+“無論如何 - 有人救我（改變狀態）”
 來自芝加哥的製作人和 DJ Marshall Jefferson 的 Acid 混音。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Somebody Save Me (Altered States)
 
@@ -26,7 +26,7 @@ B1. Somebody Save Me (Liquid Sky)
 B2. Somebody Save Me (Album Mix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m41822459521?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m41822459521?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/heIs8urCkxg?si=lSGSMzooC13Hdiqp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

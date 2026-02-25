@@ -62,7 +62,7 @@ Die erste Kompaktkassette wurde für monaurale Aufnahmen eingeführt.
 
 #### 1980er Jahre: Die Entstehung von Hochposition (Typ II) und Metall (Typ IV)
 
-- Verbesserung des Bandmaterials zur Verbesserung der Klangqualität
+- Verbesserungen am Bandmaterial zur Verbesserung der Klangqualität
 
 - Verbesserte Höheneigenschaften und erweiterter Dynamikbereich
 
@@ -220,9 +220,18 @@ Kassetten sind ein sowohl praktisches als auch analoges Format, das in der Gesch
 
 Mit der Verbesserung der Materialien und der Entwicklung der Aufnahmetechnik hat sich auch die Klangqualität weiterentwickelt und jeder Typ weist unterschiedliche akustische Eigenschaften auf.
 
-Obwohl es in Bezug auf Frequenzband und Signal-Rausch-Verhältnis nicht so gut ist wie das digitale Gerät, erfreut es sich aufgrund seines warmen Klangs und seiner einfachen Bedienung nach wie vor großer Beliebtheit.
+Obwohl es in Bezug auf Frequenzband und Signal-Rausch-Verhältnis nicht so gut wie das digitale Gerät ist, erfreut es sich aufgrund seines warmen Klangs und seiner Benutzerfreundlichkeit weiterhin großer Beliebtheit.
 
 <hr>
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h6WsoClO0FE?si=L3FtaPU36N2_iSLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 ### Liste
 

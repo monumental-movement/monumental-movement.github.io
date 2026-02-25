@@ -11,7 +11,7 @@ tags:
 - Detroit Techno
 - Minimal
 title: '[Kolumne] Von den Ursprüngen des Techno bis zur Gegenwart – Eine chronologische
-  Geschichte anhand berühmter Platten und Geräte'
+  Geschichte, die anhand berühmter Platten und Geräte nachgezeichnet wird'
 ---
 
 
@@ -67,7 +67,7 @@ Die Geschichte des Techno entstand und entwickelte sich aus der Beziehung zwisch
 - Britische Rave-Kultur und Clubbing
 
 **Meisterwerk**
-- Underground Resistance – *X-101/X-102* (1991–)
+- Untergrundwiderstand – *X-101/X-102* (1991–)
 - Aphex Twin – *Selected Ambient Works 85–92* (1992)
 - Basic Channel – *BCD* (1994)
 - Robert Hood – *Minimal Nation* (1994)
@@ -135,7 +135,7 @@ Die Geschichte des Techno entstand und entwickelte sich aus der Beziehung zwisch
 
 **Soundtrends**
 - Kraftvolle Kicks und Riff-Wiederholungen
-- Harter Techno ~ Schranz-Comeback
+- Hard Techno ~ Schranz-Comeback
 - Rekontextualisierung von Trans-Motiven
 
 **Ausrüstung**
@@ -144,7 +144,7 @@ Die Geschichte des Techno entstand und entwickelte sich aus der Beziehung zwisch
 - ASM Hydrasynth
 - Polyend Tracker / Dirtywave M8
 - Akai MPC One/Live II
-- KI-Mastering, Stammtrennungswerkzeuge
+- KI-Mastering, Stammtrennungstool
 
 ---
 
@@ -169,8 +169,16 @@ Die Geschichte des Techno entstand und entwickelte sich aus der Beziehung zwisch
 
 ### Zusammenfassung
 Der Kern von Techno ist „Wiederholung“ und „Sounddesign“.
-Rhythmen stammen direkt von x0x ab, Klangbilddesign von Samplern, Bearbeitungsästhetik aus der PC-Ära, die Zufälligkeit der Modularität, sogar KI-Unterstützung – die Rhythmen von Maschinen und Städten entwickeln sich auch im Wandel der Zeit weiter.
+Rhythmen, die direkt von x0x abstammen, Klangbilddesign von Samplern, Bearbeitungsästhetik der PC-Ära, die Zufälligkeit der Modularität, sogar KI-Unterstützung – die Rhythmen von Maschinen und Städten entwickeln sich auch im Wandel der Zeit weiter.
 
+
+---
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BaHKgcXXwVY?si=p6D9QsstvecYHdeT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

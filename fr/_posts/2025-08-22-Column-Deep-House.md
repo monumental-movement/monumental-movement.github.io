@@ -28,9 +28,9 @@ La deep house est une sorte de house qui a émergé dans la région de Chicago e
 
 ### Contexte et développement de la naissance
 
-**1985-1990 : tôt tôt (Chicago/NJ)**
+**1985-1990 : début précoce (Chicago/NJ)**
 
-[Larry Heard (Mr. Fingers)](https://amzn.to/4q97ot4) présente le prototype avec "Can You Feel It" et "Mystery of Love". Suivant le flux de [Frankie Knuckles](https://amzn.to/4nUwWJ4) et [Marshall Jefferson](https://amzn.to/3KOf4AV), une fusion de la douce sensation soul de Jersey Garage ([Blaze](https://amzn.to/4ooZuuc) et [Kerri Chandler](https://amzn.to/4qbd4CR)).
+[Larry Heard (Mr. Fingers)](https://amzn.to/4q97ot4) présente le prototype avec "Can You Feel It" et "Mystery of Love". Suivant le flux de [Frankie Knuckles](https://amzn.to/4nUwWJ4) et [Marshall Jefferson](https://amzn.to/3KOf4AV), le doux sentiment soul de Jersey Garage ([Blaze](https://amzn.to/4ooZuuc) et [Kerri Chandler](https://amzn.to/4qbd4CR)) est fusionné.
 
 **Années 1990 : Approfondissement et diversification**
 
@@ -55,7 +55,7 @@ Anjunadeep et All Day I Dream se sont tournés vers la musique mélodique/organi
 
 **Basse** : notes longues principalement ondulantes avec des sous-bandes soigneusement contrôlées.
 
-**Clavier/Texture** : orgue Rhodes/M1/cordes douces, le type d'espace (delay/reverb) est long mais pas dense.
+**Clavier/Texture** : orgue Rhodes/M1/cordes douces, le type d'espace (délai/réverbération) est long mais pas dense.
 
 **Voix** : Parlant du grave au médium, du gospel à la lignée de l'âme. Utilisez la « pause » en utilisant le nombre de mots nécessaire et suffisant.
 
@@ -91,7 +91,7 @@ Anjunadeep et All Day I Dream se sont tournés vers la musique mélodique/organi
 
 ### Sous-genres et lignées périphériques
 
-**Chicago Deep** : Coup de pied lourd + réverbération soul. Exemple : M. Fingers, Ron Trent.
+**Chicago Deep** : coup de pied lourd + réverbération soul. Exemple : M. Fingers, Ron Trent.
 
 **Type Jersey/garage** : Piano/orgue et chant de type gospel. Exemple : Kerri Chandler, Blaze.
 
@@ -103,7 +103,7 @@ Anjunadeep et All Day I Dream se sont tournés vers la musique mélodique/organi
 
 **Afro Deep** : Polyrythmie, appel et réponse et percussions à haute température.
 
-**Lo-fi House** : saturation chaude, sensation d'échantillon des années 90.
+**Lo-fi House** : saturation chaleureuse, sensation d'échantillon des années 90.
 
 
 <hr>

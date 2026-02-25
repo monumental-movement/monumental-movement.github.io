@@ -110,7 +110,7 @@ Wir haben einen Vertrag mit einem Label in Los Angeles unterzeichnet und das Alb
 ### 4.2 Produktion und Veröffentlichung von „Ghetto Reggae“
 - Am 29. August 2025 erschien das Album „Ghetto Reggae“**.
 - Themen: Hommage an die Soundsystemkultur, Nachstellung von Reggae/Dancehall der 80er und 90er Jahre, Liebe, Glaube, Umweltprobleme, Bosheit, Ganja usw.
-- Teilnehmende Künstler: Daddy U-Roy, Demelo, Greentone. Produzent: Kirkledove, Ed Robinson, Jemoi Monteith.
+- Teilnehmende Künstler: Daddy U-Roy, Demelo, Greentone. Produzenten: Kirkledove, Ed Robinson, Jemoi Monteith.
 
 ### 4.3 Soziale Aktivitäten und Aussagen
 - An politischen Veranstaltungen in Jamaika teilnehmen oder sich dazu äußern.
@@ -135,7 +135,7 @@ Wir haben einen Vertrag mit einem Label in Los Angeles unterzeichnet und das Alb
 - Der Kontrast zwischen dem melodischen Refrain und dem rauen Gesang ist beeindruckend.
 - Stärken Sie die Botschaft und verbreiten Sie sie durch die Zusammenarbeit mit Ayo.
 
-### 5.4 Weitere wichtige Lieder
+### 5.4 Andere wichtige Lieder
 - „Pull Up“: Coolie Dance Riddim. In internationalen Charts bewertet.
 - „Hot Wuk“: Partyhymne.
 - „Bruk It Down“: Für die Tanzfläche.

@@ -18,7 +18,7 @@ title: '[Kolumne] Shochu, gewachsen durch Klang: Die Harmonie der Gärung, die i
 ## Prolog: Auf der Insel des Wellenrauschens und des Shochu
 
 
-Text: mmr｜Thema: Ein an Amami Oshima durchgeführtes Experiment, um die Alterung von Shochu zu fördern, indem man es dazu bringt, Musik zu hören. Erkundung der wissenschaftlichen Grundlagen und des kulturellen Hintergrunds
+Text: mmr｜Thema: Ein an Amami Oshima durchgeführtes Experiment, um die Alterung von Shochu zu fördern, indem man es dazu bringt, Musik zu hören. Entdecken Sie die wissenschaftlichen Grundlagen und den kulturellen Hintergrund
 
 
 Amami Oshima, der äußerste Punkt der Nansei-Inseln.

@@ -16,7 +16,7 @@ title: 比爾·萊利——逼近
 
 Side C 是 Daniel Robert Kausman（又名 DJ Die）的混音版，他是一位英國 DJ/製作人，也是 Roni Size & Reprazent（和 Breakbeat Era）的前成員。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Closing In
 
@@ -27,7 +27,7 @@ C. The Phoenix
 D. The Edge
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m36282109210?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m36282109210?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VxlE8eihJ2o?si=qcPF_WSFJIQAjzxk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

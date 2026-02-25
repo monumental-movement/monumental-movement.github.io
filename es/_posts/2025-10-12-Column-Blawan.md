@@ -68,7 +68,7 @@ Fue la sensación física de "tocar" sonidos electrónicos lo que hizo que su so
 
 En 2012, la escena mundial de clubes sacudió.
 "Por qué esconden sus cuerpos debajo de mi garaje".
-Esta única canción hizo definitivo el nombre de Blawan.
+Esta canción hizo que el nombre de Blawan fuera definitivo.
 
 El título es inquietante.
 La muestra vocal distorsionada suena como un fantasma que gime en un sótano.
@@ -102,7 +102,7 @@ En un momento en el que todo se funde, la música se convierte en "sustancia".
 
 ---
 
-## Capítulo 4 Lo húmedo siempre se secará: un registro de emociones sin emociones
+## Capítulo 4 Lo húmedo siempre se secará——Registro de emociones sin emociones
 
 En 2018, Blawan finalmente lanzó un álbum de larga duración, Wet Will Always Dry.
 Como sugiere el título, **Húmedo, seco. **
@@ -113,7 +113,7 @@ Cada canción esconde una ligera calidez debajo de su frialdad.
 En medio del sonido metálico e inexpresivo, hay pausas ocasionales que parecen respirar.
 Las emociones humanas permean ese pequeño espacio.
 
-Elimina el sonido y deja solo la estructura.
+Quita el sonido y deja sólo la estructura.
 Al contrario, su estoicismo resalta la "emoción" de Blawan.
 
 ---
@@ -152,7 +152,7 @@ También es una forma de resistencia para que el club siga siendo un "lugar" una
 
 ## Capítulo 7 SickElixir - El ritmo del colapso y renacimiento de la ciudad del acero
 
-El último trabajo de Blawan ['SickElixir' (2025)] (https://www.amazon.co.jp/dp/B087B9MBK4) es un trabajo poco común que desmantela la estructura del techno pero aún te hace sentir la presencia de la 'humanidad'.
+El último trabajo de Blawan ['SickElixir' (2025)] (https://www.amazon.co.jp/dp/B087B9MBK4) es un trabajo poco común que desmantela la estructura del techno, pero aún te hace sentir la presencia de la "humanidad".
 En medio de ruidos arremolinados y distorsiones, el ritmo mantiene su equilibrio al borde del colapso, y la voz pierde su significado y se transforma en un instrumento.
 La luz que brilla con “Rabbit Hole” y el torrente de graves profundos con “NOS”.
 En cada momento, el sonido de Blawan cruza la línea entre la frialdad y la pasión.
@@ -162,7 +162,7 @@ Detrás de los fríos sonidos mecánicos está el sonido de la respiración de l
 Después de causar impacto con "Por qué esconden sus cuerpos debajo de mi garaje", a lo que llegó después de más de 10 años es a "una oración que habita en la destrucción".
 
 En un momento en el que el techno se vuelve más abstracto y los clubs se funden con el mundo digital, Blawan se atreve a recuperar la "gravedad".
-Un ritmo corre por las venas de Steel City.
+El ritmo que corre por las venas de la Ciudad del Acero.
 En él, pregunta en voz baja: ¿Puede el sonido seguir siendo humano? **
 
 ---
@@ -241,7 +241,7 @@ flowchart TD
 
 > “Estaba viendo la actuación en vivo de Karenn desde el costado,
 > Me sentí como si estuviera dentro de una acería.
->Suena como chispas volando.
+> Suena como chispas volando.
 >Aun así, los rostros de la audiencia eran de alguna manera amables. "
 > —— **Cirujano (Anthony Child)**
 
@@ -384,7 +384,7 @@ Esa contradicción es la razón de su existencia.
 
 🔗 [[Columna] Desde los orígenes del techno hasta el presente: una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)
 
-🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-German-Techno)
+🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-Germain-Techno)
 
 🔗 [[Columna] Tresor - El lugar sagrado del techno que cambió el mundo desde el underground en Berlín](https://monumental-movement.jp/Column-Tresor)
 

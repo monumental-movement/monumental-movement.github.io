@@ -9,13 +9,13 @@ permalink: /ko/lsg-netherworld/
 tags:
 - Trance
 - Progressive
-title: LSG – 네더월드
+title: LSG – Netherworld
 ---
 
 
-"Netherworld"는 1997년 영국 레이블 "Hooj Choons"에서 발매된 Oliver Lieb의 프로젝트 "LSG"의 EP입니다.
+'Netherworld'는 1997년 UK의 라벨 'Hooj Choons'에서 출시된 Oliver Lieb의 프로젝트 'LSG'의 EP입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Netherworld (Jules Verne Mix)
 
@@ -24,5 +24,5 @@ B. Netherworld (DJ Randy's Smoke Free Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m39575231114?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cbOub9r1kI4?si=BlDX0vcPtQ_KuVBc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

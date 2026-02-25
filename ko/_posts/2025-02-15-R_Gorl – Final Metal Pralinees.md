@@ -9,15 +9,15 @@ permalink: /ko/r_gorl-final-metal-pralinees/
 tags:
 - Techno
 - 00s
-title: R_Görl – 최종 금속 프랄리네
+title: R_Görl – Final Metal Pralinées
 ---
 
 
-R_Görl로도 알려진 Robert Görl은 독일 뮌헨 출신의 음악가입니다. 가비 델가도(Gabi Delgado)와 함께 테크노의 선구자로 알려진 NDW(Neue Deutsche Welle), EBM(Electronic Body Music), NDH(Neue Deutsche Heate), Deutsch Amerikanische Freundschaft(DAF)를 결성한 것으로도 유명하다.
+R_Görl과 Robert Görl(로베르토 게알)은 독일 뮌헨 출신의 뮤지션. Gabi Delgado(가비 델가도)와 함께 NDW(노이에 도이체 베레), EBM(일렉트로닉 바디 뮤직), NDH(노이에 도이체 헤아테), 테크노의 선구자로 알려진 Deutsch Amerikanische Freundschaft(DAF)로 유명했다.
 
-Final Metal Pralinies는 2000년 레이블 Disko B가 발매한 테크노 앨범이다.
+「Final Metal Pralinies」는 2000년에 라벨 Disko B로부터 릴리스된 테크노 앨범.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. One More Hour
 2. Artificial Water
@@ -35,5 +35,5 @@ Final Metal Pralinies는 2000년 레이블 Disko B가 발매한 테크노 앨범
 
 [メルカリで購入](https://jp.mercari.com/item/m39402109762?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WaMKLqD-fJQ?si=Uzoe9iVfuMAZ247a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

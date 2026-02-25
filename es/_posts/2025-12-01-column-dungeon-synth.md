@@ -28,7 +28,7 @@ title: '[Columna] Dungeon Synth ─ Una estética ambiental underground que se a
 Texto: mmr｜Tema: Sobre la historia, técnicas de producción y posición cultural de Dungeon Synth, un género ambiental underground derivado del black metal.
 
 Dungeon Synth es un género musical que expresa la espiritualidad del black metal y la cosmovisión fantástica/medieval a través de sonidos de sintetizador minimalistas.
-Sus orígenes se remontan a la escena musical extrema europea de principios de la década de 1990, pero la segunda y tercera generación se han expandido rápidamente desde finales de la década de 2010 con la expansión de la cultura Bandcamp, y ahora se ha convertido en una gigantesca red de bricolaje.
+Sus orígenes se pueden encontrar en la escena de la música extrema europea de principios de la década de 1990, pero desde finales de la década de 2010, con la expansión de la cultura Bandcamp, la segunda y tercera generación se expandieron rápidamente y ahora se ha convertido en una enorme red de bricolaje.
 
 ---
 
@@ -78,7 +78,7 @@ Ex miembro del Emperador. Estableció un estilo de fantasía medieval "Dark Dung
 - **Primeras piezas para teclado de Burzum (Noruega)**
 La canción final de ``Hvis Lyset Tar Oss'' y las pistas ambientales de ``Filosofem'' dejaron un fuerte simbolismo para el posterior Dungeon Synth.
 
-Aunque estas son fuentes de sonido anteriores a "Dungeon Synth como nombre de género", las generaciones posteriores las tratan claramente como la fuente.
+Aunque estas son fuentes de sonido anteriores al término "Dungeon Synth como nombre de género", las generaciones posteriores las tratan claramente como la fuente.
 
 ### ● 2-2. Primera ola (1995-2000)
 De 1995 a 2000, un joven proyecto europeo que precedió a Mortiis "Era I", Cernunnos Woods, Depressed Silence y Old Tower publicó obras distribuidas principalmente en cinta.
@@ -101,7 +101,7 @@ Durante este período, en paralelo con el Black Metal atmosférico, aumentaron e
 El período más importante cuando el género creció rápidamente.
 
 - **Torre Vieja (Países Bajos)**
-Con su majestuoso estilo en capas, juega un papel central en el Dungeon Synth moderno.
+Con su estilo majestuoso y en capas, juega un papel central en el Dungeon Synth moderno.
 - **Thangorodrim (Portugal)**
 Representando la sensación de baja fidelidad temprana y la cosmovisión de fantasía clásica.
 - **Feudo (EE.UU.)**
@@ -147,7 +147,7 @@ A continuación, resumiremos las fuentes de sonido, el funcionamiento MIDI y los
 ## ● 4-1. Fuente de sonido utilizada (complemento de sintetizador)
 
 ### ■ Fuente de sonido PCM clásica
-Muchos artistas buscaron la sensación de las consolas de juegos y los teclados PCM de los años 90.
+Muchos artistas buscaron la sensación de las videoconsolas y los teclados PCM de los años 90.
 
 - **Serie Roland JV/XP (real o de muestreo)**
 - **Serie Yamaha PSR** (teclado doméstico económico)
@@ -213,7 +213,7 @@ Se utilizan específicamente:
 
 - Salón (parece un salón medieval)
 - Placa (reverberación metálica antigua)
-- Menos reflejos tempranos/decaimiento más prolongado
+- Menos reflejos tempranos/decaimiento más largo
 
 ### ■ Ancho estéreo
 - La almohadilla es ancha
@@ -277,7 +277,7 @@ La influencia visual es extremadamente grande y juega un papel para complementar
 - **Feudo (EE.UU.)**
 
 ## ● Hoy en día (2024–)
-- Importante multinacionalización y segmentación.
+- Importante multinacionalización y fragmentación.
 Se han incrementado temas como Bosque / Invierno / Heroico / Sinte cósmico.
 
 ---
@@ -315,7 +315,7 @@ A continuación se muestra un plan para crear una canción.
 
 # ■ 9. Importancia cultural de Dungeon Synth
 
-Dungeon Synth es un tipo raro de música que combina la intensa visión del mundo del black metal con la tranquilidad del ambiente, y es una cultura que aspira a "construir un mundo interior".
+Dungeon Synth es un tipo poco común de música que combina la intensa visión del mundo del black metal con la tranquilidad de la música ambiental, y es una cultura que aspira a "construir un mundo interior".
 
 - Los creadores individuales tejen sus propias historias sin depender de escenas a gran escala.
 - Fuertemente ligado a la estética de la literatura fantástica, los TRPG y la música de juegos.

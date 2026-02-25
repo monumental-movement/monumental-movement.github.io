@@ -16,7 +16,7 @@ title: '[Chronique] Buchla et Serge : Une autre généalogie de l''acoustique é
 ---
 
 
-## « Introduction – Qu'est-ce que le modulaire ? »
+## « Introduction – Qu'est-ce que le modulaire ? »
 
 
 Texte : mmr | Thème : Histoire spirituelle des synthés modulaires de la côte Ouest. Comment les idées de Don Buchler et Serge Tocheny ont été transposées dans la conception sonore d'aujourd'hui
@@ -53,7 +53,7 @@ Au Tape Music Center de San Francisco, au début des années 1960, des artistes
 Ce qu'ils recherchaient, c'était «un instrument qui ne soit pas une extension du piano ou de la guitare».
 
 La **Série Buchla 100 (1963-1966)** est apparue en réponse à la demande de Subotnick.
-L'opérabilité musicale traditionnelle a été intentionnellement évitée, comme la configuration du circuit acoustique utilisant des boutons et des câbles de raccordement, et le clavier à plaque tactile (en fait un dispositif d'entrée de tension sans échelle).
+Il a intentionnellement évité le fonctionnement des instruments de musique conventionnels, comme la configuration du circuit acoustique utilisant des boutons et des câbles de raccordement, et le clavier à plaque tactile (en fait un dispositif d'entrée de tension sans échelle).
 
 > "Pas de touches noires et blanches." -Don Buchla
 

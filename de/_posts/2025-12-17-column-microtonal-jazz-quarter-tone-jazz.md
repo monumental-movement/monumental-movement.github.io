@@ -46,7 +46,7 @@ color: #fff;
 
 Mikrotonale Intervalle gibt es in der westlichen Musik bereits vor dem 20. Jahrhundert. Der Kommaunterschied in der pythagoräischen Stimmung und der reinen Intonation des Mittelalters und der Renaissance umfasst einen Intervallunterschied von weniger als einem Halbton. Mit der Einführung der 12-Temperament-Stimmung zur Vereinfachung der Musiknotation und des Musikunterrichts traten diese Ideen jedoch in den Hintergrund der Theorie.
 
-Zu Beginn des 20. Jahrhunderts begannen Komponisten, gezielt mikrotonale Intervalle zu verwenden, und es wurden Systeme entwickelt, die 24 gleichschwebende Stimmungen (Vierteltöne) und höhere Unterteilungen verwendeten. Dieser Trend ist in der zeitgenössischen Musik offensichtlich, aber der Jazz hat die Mikrotonalität durch Improvisation und physische Manipulation auf praktischere Weise integriert.
+Zu Beginn des 20. Jahrhunderts begannen Komponisten, absichtlich mikrotonale Intervalle zu verwenden, und es wurden Systeme entwickelt, die 24 gleichschwebende Stimmungen (Vierteltöne) und höhere Unterteilungen verwendeten. Dieser Trend ist in der zeitgenössischen Musik offensichtlich, aber der Jazz hat die Mikrotonalität durch Improvisation und physische Manipulation auf praktischere Weise integriert.
 
 ### 1-2 Blues und Tonhöhenmehrdeutigkeit
 
@@ -106,7 +106,7 @@ Bei der Improvisation werden Spannung und Entspannung dadurch erzeugt, dass die 
 
 Maneri führte Bildungsaktivitäten hauptsächlich in Boston durch und bildete viele Schüler aus. Sein Bildungssystem weist die folgenden Merkmale auf.
 
-* Schwerpunkt auf der auditiven Schulung des mikrotonalen Sinnes
+* Schwerpunkt auf auditivem Training des mikrotonalen Sinnes
 * Sequenzkontinuumsanalyse für Improvisationsdarbietungen
 * Verständnis der relativen Tonhöhe durch Resonanzerfahrungen unter Schülern
 
@@ -150,14 +150,14 @@ Bei der mikrotonalen Jazzimprovisation ist die Richtung des Tonhöhenübergangs 
 
 ### 5-2 Beziehung zum Rhythmus
 
-Mit der Unterteilung der Intervalle verändert sich auch die Rolle des Rhythmus. Eine Methode zur Darstellung kleinster Tonhöhenunterschiede mithilfe langer Notenwerte und eine Methode zur Erhöhung der Tonhöhendichte durch Erstellung einer Reihe kurzer Notenwerte werden in Kombination verwendet.
+Durch die Unterteilung der Tonhöhe verändert sich auch die Rolle des Rhythmus. Eine Methode zur Darstellung kleinster Tonhöhenunterschiede mithilfe langer Notenwerte und eine Methode zur Erhöhung der Tonhöhendichte durch Erstellung einer Reihe kurzer Notenwerte werden in Kombination verwendet.
 
 ### 5-3 Vertiefung der akustischen Analyse
 
 Für Improvisationsdarbietungen mittels Mikrotonalität ist eine akustische Auswertung mittels Fourier-Analyse und Spektrogrammen möglich. insbesondere:
 
 * Feine Spitzenverteilung im Frequenzspektrum
-*Änderungen in der harmonischen Struktur und der Kontinuität der Klangfarbe
+*Änderungen in der Obertonstruktur und der Kontinuität der Klangfarbe
 * Bewertung der psychischen Anspannung anhand der Tonhöhendichte
 
 Dadurch kann der mikrotonale Ausdruck als auditive Wirkung quantitativ analysiert werden.
@@ -170,7 +170,7 @@ Dadurch kann der mikrotonale Ausdruck als auditive Wirkung quantitativ analysier
 
 Es werden erweiterte Viertelnoten und Vorzeichen verwendet, die vollständige Notation ist jedoch schwierig und hängt stark vom Hörverständnis des Interpreten ab. Dieser Punkt hat eine Affinität zur mündlichen Natur des Jazz.
 
-### 6-2 Anpassungen im Ensemble
+### 6-2 Anpassung im Ensemble
 
 In mikrotonalen Ensembles ist die gemeinsame Nutzung relativer Tonhöhen wichtiger als die absoluter Tonhöhen. Eine gängige Methode besteht darin, die harmonischen Beziehungen während der Probenphase zu überprüfen und die Tonhöhe anhand der Resonanz anzupassen.
 

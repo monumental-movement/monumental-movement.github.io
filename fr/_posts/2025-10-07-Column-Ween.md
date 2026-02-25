@@ -85,7 +85,7 @@ Le son des débuts de Ween était la magie de l'enregistrement à domicile sur *
 Laisse le bruit et la distorsion intacts. Ce n’était pas de la « saleté », c’était de la « vérité ».
 Leurs enregistrements maison sont une sorte d’alchimie lo-fi.
 The Pod est un mélange bizarre de rires morbides et de structure psychédélique.
-Cela mettait les auditeurs mal à l’aise tout en leur procurant un sentiment de plaisir addictif.
+Cela rendait les auditeurs anxieux, mais en même temps cela leur procurait un sentiment de plaisir addictif.
 
 ### Contact avec la scène underground
 
@@ -147,7 +147,7 @@ Un morceau monumental de pop psychédélique avec pour thème la mythologie océ
 La romance de Brian Wilson et la folie du capitaine Beefheart,
 C'est un album qui donne l'impression d'être enfermé dans une seule coque.
 
-Tous les enregistrements sont analogiques sur une **bande 16 pistes**.
+Tous les enregistrements sont analogiques et utilisent une **bande 16 pistes**.
 Même les fluctuations du bruit étaient contrôlées comme de la musique, créant un pseudo-son de fond marin.
 Des effets comme des échos de guitare, des harmoniques vocales et le bruit de la mer.
 Le son lui-même raconte le mythe des profondeurs marines.
@@ -254,7 +254,7 @@ Une mélodie de qualité B traitée comme une poubelle, une scène rurale à laq
 Rires ivres – ils ont récupéré tout cela et en ont fait un « mythe ».
 
 Ween n'a créé ni un genre ni un mouvement.
-Il s’agit d’une croyance infiniment croissante selon laquelle « on peut aimer n’importe quel type de musique ».
+Il s'agit d'une croyance infiniment croissante selon laquelle « on peut aimer n'importe quel type de musique ».
 Il y a la décadence du rock, l'intelligence du jazz, l'avenir de la techno,
 La chaleur du pays est également égale.
 
@@ -272,3 +272,13 @@ Un voyage sans fin pour revenir aux origines de la musique.
 
 Aujourd’hui, Ween rit encore joyeusement quelque part au fond de l’océan.
 
+---
+
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F53T6s06MUc?si=6dfE6Ds-w1YpqkYh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

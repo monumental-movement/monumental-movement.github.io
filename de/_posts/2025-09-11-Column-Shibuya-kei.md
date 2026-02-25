@@ -41,7 +41,7 @@ Shibuya-kei-Sound ist eine japanische Musikbewegung, die sich Anfang der 1990er 
 - Frühe Drum-Maschinen wie Roland TR-808
 - Homerecording-Kultur mit Kassetten-MTR
 
-### 10 empfohlene Songs (1980er)
+### Empfohlene 10 Songs (1980er)
 
 <style type="text/css">
 
@@ -137,7 +137,7 @@ color: #fff;
 
 ---
 
-## 2010er Jahre – Neubewertung und Erweiterung
+## 2010er – Neubewertung und Erweiterung
 ### Historischer Hintergrund
 - Es wurde von der Internet-Generation wiederentdeckt und wurde im Ausland als „Shibuya-kei“ zu einem Genre.
 - Wiederbelebung parallel zur Neubewertung von City Pop.
@@ -204,3 +204,13 @@ color: #fff;
 ## Globale kulturelle Ikone
 
 Der Shibuya-kei-Sound wurde in den 1990er Jahren geboren und entwickelte sich zu einer globalen kulturellen Ikone. Seitdem beeinflusst er die japanische Musikszene in verschiedenen Formen. Derzeit wird es durch die Internet-Generation neu bewertet und tritt in eine neue Phase ein, da es sich mit City-Pop und K-POP überschneidet.
+
+---
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IlhT1IOwb9U?si=7ib4PYpqUf0c0aBC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

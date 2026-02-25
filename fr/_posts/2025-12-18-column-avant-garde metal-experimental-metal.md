@@ -45,7 +45,7 @@ color: #fff;
 
 ## Hypothèses structurelles dans le métal
 
-Pour comprendre le métal d’avant-garde, il est d’abord nécessaire de clarifier quelle est la prémisse du métal ordinaire.
+Afin de comprendre le métal d’avant-garde, il faut d’abord clarifier sur quoi est basé le métal normal.
 
 Le métal traditionnel a été formé à partir d’un ensemble d’hypothèses structurelles telles que les suivantes.
 
@@ -63,7 +63,7 @@ Avant-Garde Metal ne nie pas en partie ces hypothèses, mais les invalide en tan
 
 L’avant-garde n’est pas une question d’excentricité ou de radicalité, mais plutôt la capacité de démanteler la grammaire existante de l’intérieur.
 
-La raison pour laquelle le Metal d’Avant-Garde est perçu comme difficile n’est pas due à son expression émotionnelle excessive, mais au fait que les structures sur lesquelles les auditeurs se sont inconsciemment appuyés ne fonctionnent plus. Le rythme est présent mais peu fiable, le riff est présenté mais ne colle pas, et même s'il évolue, les prédictions ne se réalisent pas.
+La raison pour laquelle le Metal d’Avant-Garde est perçu comme difficile n’est pas due à son expression émotionnelle excessive, mais au fait que les structures sur lesquelles les auditeurs s’appuyaient inconsciemment ne fonctionnent plus. Le rythme est présent mais peu fiable, le riff est présenté mais ne colle pas, et même s'il évolue, les prédictions ne se réalisent pas.
 
 ---
 
@@ -105,7 +105,7 @@ flowchart TD
 
 ## Structure rythmique de Gorguts
 
-Gorguts n'efface pas le compteur, mais il crée un état dans lequel on ne peut plus lui faire confiance. Les phrases ne convergent pas vers le rythme, et au lieu d'accentuer les doubles temps, les tambours jouent le rôle de couper le sens du rythme.
+Gorguts n'efface pas le compteur, mais crée un état dans lequel on ne peut plus lui faire confiance. Les phrases ne convergent pas vers le rythme, et au lieu d'accentuer les doubles temps, les tambours jouent le rôle de couper le sens du rythme.
 
 Ce rythme n’est pas une polyrythmie, mais devrait être qualifié de rythme déconstruit.
 
@@ -152,7 +152,7 @@ flowchart TD
 
 ---
 
-## Rythme respiratoire
+## Respiration rythmée
 
 Leur rythme n’est pas un battement, mais plutôt une respiration ou la durée d’une histoire. Le tempo n’est pas fixe et les tambours jouent un rôle de régulation de la densité spatiale plutôt que de chronomètre.
 
@@ -177,7 +177,7 @@ Dans ce travail, la séparation des structures va encore plus loin. Les chansons
 | Méthode | Démolition | Superposition |
 | Temps | Rupture | Parallèle |
 | Rythme | Destruction de la sensation du pouls | Contrôle respiratoire |
-| Dissonances | Armement structurel | Direction spatiale |
+| Dissonances | Armement structurel | Production spatiale |
 
 ---
 
@@ -203,7 +203,7 @@ Le métal d'avant-garde n'a pas créé un genre, il a laissé derrière lui une 
 
 Gorguts et Maudlin of the Well ne sont pas aux antipodes du metal d’avant-garde. Ce sont des coordonnées différentes qui existent sur le même axe structurel.
 
-Le metal d’avant-garde n’est pas un mouvement qui radicalise la musique, mais un acte qui continue de remettre en question les conditions mêmes dans lesquelles la musique existe. La question reste inachevée et est en cours de mise à jour.
+Le métal d’avant-garde n’est pas un mouvement qui radicalise la musique, mais un acte qui continue de remettre en question les conditions mêmes dans lesquelles la musique existe. La question reste inachevée et est en cours de mise à jour.
 
 ---
 

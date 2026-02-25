@@ -10,15 +10,15 @@ tags:
 - Jpop
 - Pops
 - 90s
-title: 나가이 토시 - D.O.S 드럼
+title: Toshi Nagai – D.O.S Drum
 ---
 
 
-나가이 토시미츠(Toshimitsu Nagai)는 GLAY, 히무로 쿄스케, EXILE TAKAHIRO 등의 그룹에서 서포트 드러머로 활동하고 있는 일본의 드러머이다.
+Toshi Nagai 일 나가이 토모미츠는, GLAY나 히무로 쿄스케, EXILE TAKAHIRO등의 서포트 드러머로서 활동하고 있는 일본의 드러머.
 
-D.O.S Drum은 1999년에 발매된 나가이 토시(Toshi Nagai)의 두 번째 솔로 앨범이다.
+「D.O.S Drum」은 1999년에 발매한 Toshi Nagai 두 번째 솔로 앨범.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Laissez-moi Tranquille! (SPT Version)
 2. Moi

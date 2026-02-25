@@ -59,7 +59,7 @@ El ritmo se basa en **2 pasos** derivado del garage, pero también incluye ciert
 - El bombo oscila entre **110 y 130 BPM** en lugar de alrededor de 140
 - La caja tiene un tono de ataque débil sin enfatizar el contratiempo.
 - Los sombreros suelen estar hechos de grabaciones de campo procesadas en lugar de metal.
-- Además de las cajas de ritmos, puedes utilizar muestras cortas como el sonido de pequeños objetos golpeando, el sonido del papel raspando, etc.
+- Utilice muestras breves no sólo de cajas de ritmos, sino también de sonidos de golpes de objetos pequeños, sonidos de raspado de papel, etc.
 
 ### 1-3 Espacio acústico: reverberación, partícula, grabación de campo
 El post-dubstep puede describirse como un "género que crea espacio". En particular, los siguientes elementos son distintivos.

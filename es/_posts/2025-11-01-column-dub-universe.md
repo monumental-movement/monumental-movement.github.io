@@ -101,7 +101,7 @@ Le dio al reggae una dimensión mítica y cósmica.
 > Solo escucho la voz y la mezclo. "
 > ―Lee “Scratch” Perry
 
-Su obra maestra, **The Upsetters "Super Ape" (1976)**, es
+Su obra maestra, **The Upsetters ``Super Ape'' (1976)**, es
 Es una "jungla sonora" donde se entrelazan la gravedad de los graves y la niebla de la reverberación.
 El Arca Negra fue destruida en un incendio en 1979.
 La leyenda se extendió por todas partes del mundo, incluido el Reino Unido.
@@ -146,7 +146,7 @@ La esencia del doblaje no es simplemente aplicar efectos.
 La idea es crear un nuevo espacio reduciendo el sonido.
 Es la estética de la carencia y la idea de reproducción.
 
-- Dar sentido a los “márgenes” del sonido.
+- Dar sentido al “espacio en blanco” del sonido.
 - Utilizar la tecnología como “expresión improvisada”.
 - Redefinir lo “original” en el proceso de reproducción.
 
@@ -177,7 +177,7 @@ timeline
 
 ---
 
-## Diagrama: Estructura del pensamiento Dove
+## Diagrama: estructura del pensamiento tipo Dub
 
 <div class="mermaid">
 

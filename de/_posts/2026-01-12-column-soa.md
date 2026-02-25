@@ -68,7 +68,7 @@ Auch die Gitarren-, Bass- und Schlagzeugmitglieder waren eng mit der New Yorker 
 
 ## Soundfunktionen: Geschwindigkeit und Reduzierung
 
-Die Musik von S.O.A. ist nicht auf Spieltechnik oder Komplexität ausgerichtet. Die meisten Songs dauern etwa eine Minute und es gibt fast keine Einleitungen oder Durchführungselemente. Das Schlagzeug dient eher dazu, den Beat voranzutreiben, als ihn voranzutreiben, und die Gitarre bewegt sich eher an der Grenze zwischen Lärm und Rhythmus als ein Riff.
+Die Musik von S.O.A ist nicht auf Spieltechnik oder Komplexität ausgerichtet. Die meisten Songs dauern etwa eine Minute und es gibt fast keine Einleitungen oder Durchführungselemente. Das Schlagzeug dient eher dazu, den Beat voranzutreiben, als ihn voranzutreiben, und die Gitarre bewegt sich eher an der Grenze zwischen Lärm und Rhythmus als einem Riff.
 
 Diese Musikalität unterscheidet sich von der „Heaviness“ und dem „Groove“ des späteren New Yorker Hardcore und ist den frühen Impulsen des D.C. Hardcore eher ähnlich. Der Sound von S.O.A. hat jedoch eine trockene Spannung, die typisch für das urbane New York ist, und das unmittelbare Ausströmen von Emotionen steht mehr im Vordergrund als die Politik.
 
@@ -112,7 +112,7 @@ Die Band löste sich um 1981 auf. Der Grund für die Auflösung der Gruppe ist e
 ## Fluss abgeleitet von S.O.A
 
 
-Henry Rollins schließt sich Black Flag an, nachdem sich S.O.A. auflöst. Dort erlangte er einen nachhaltigeren und strukturierteren Ausdruck. Andererseits beteiligten sich Mitglieder der New Yorker Seite und umliegende Persönlichkeiten an der Bildung der Szene, die zu Agostic Front und Cro-Mags führte.
+Henry Rollins schließt sich Black Flag an, nachdem sich S.O.A. auflöst. Dort erlangte er einen nachhaltigeren und strukturierteren Ausdruck. Andererseits waren Mitglieder der New Yorker Seite und umliegende Persönlichkeiten an der Bildung der Szene beteiligt, die zu Agostic Front und Cro-Mags führte.
 
 S.O.A selbst wird selten als Vertreter des New Yorker Hardcore erwähnt. Als Aufzeichnung dieser „Niemandsphase“ liefert es jedoch wichtige Hinweise zum Verständnis dessen, was nachfolgende Bands geerbt und was sie verworfen haben.
 
@@ -140,7 +140,7 @@ Daher ist es schwierig, S.O.A. unabhängig zu bewerten. Allerdings ist S.O.A une
 1981 Einstellung der Aktivitäten/de facto Auflösung
 Nach 1981 zerstreuten sich die Mitglieder zu Hardcore-Bands im ganzen Land.
 
-> Auch wenn die Aktivitäten von S.O.A. nur von kurzer Dauer sind, sind sie eng mit den Veränderungen der Zeit verknüpft.
+> Obwohl die Aktivitäten von S.O.A. nur von kurzer Dauer sind, sind sie eng mit den Veränderungen der Zeit verknüpft.
 
 ## Beziehungsdiagramm mit Schwerpunkt auf S.O.A
 
@@ -157,7 +157,7 @@ E --> G[Cro-Mags]
 ---
 
 
-## Fazit: Geräusche, die in Alarmbereitschaft zurückgelassen wurden
+## Fazit: Klingt nach links in Alarmbereitschaft
 
 > S.O.A war kein abgeschlossenes Werk, sondern ein Alarmton an sich.
 

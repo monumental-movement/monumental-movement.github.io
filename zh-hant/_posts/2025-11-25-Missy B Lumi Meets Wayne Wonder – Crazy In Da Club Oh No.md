@@ -17,11 +17,11 @@ title: Missy B. Lumi 遇見 Wayne Wonder – Crazy In Da Club / Oh No
 
 B 是 Lumi 和雷鬼歌手 Wayne Wonder 自 20 世紀 80 年代以來一直活躍的歌曲。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Missy B. – Crazy In Da Club (Main Mix)
 
 B. Lumi Meets Wayne Wonder – Oh No (Main Mix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m35948441813?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m35948441813?afid=6142608987){: .button1}

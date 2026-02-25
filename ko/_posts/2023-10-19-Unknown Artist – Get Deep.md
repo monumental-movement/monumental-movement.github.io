@@ -9,13 +9,13 @@ permalink: /ko/unknown-artist-get-deep/
 tags:
 - House
 - Mashup
-title: 무명 아티스트 – Get Deep
+title: Unknown Artist – Get Deep
 ---
 
 
-Roland Clark의 "I Get Deep", Carl Craig의 "Just Another Day", Carl Craig의 별칭인 Paperclip People의 "리메이크"를 매시업한 작품으로 Manuel Göttsching의 "E2-E4"를 샘플링했습니다. 티미 레지스포드(Timmy Regisford)가 편집함.
+Roland Clark(롤랜드 클라크)의 'I Get Deep(아이 겟 딥)', Carl Craig(칼 크레이그)의 'Just Another Day(저스트 어나더 데이)', Manuel Göttsching 'E2-E4'를 샘플링한 Carl Craig의 별명의 Paper. Edit는 Timmy Regisford(티미 레지스포드).
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Get Deep
 
@@ -24,5 +24,5 @@ B. Get Deep (Instrumental)
 
 [メルカリで購入](https://jp.mercari.com/item/m62836204248?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GwXhWTxhqFc?si=cCGUUnc_iZjwHADu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

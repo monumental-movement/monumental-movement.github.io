@@ -22,7 +22,7 @@ Text: mmr｜Thema: Warum erreicht japanische Subkulturmusik die Welt? Entschlüs
 
 
 „X JAPAN“ „BABYMETAL“ „Parfüm“ „Dir en grey“
-Wenn diese Namen fallen, erinnern sich viele Zuhörer im Ausland gerne daran.
+Wenn diese Namen fallen, erinnern sich viele Zuhörer im Ausland gern daran.
 Die japanische Subkulturmusik, die einst als „Galapagos-Kultur“ galt, hat im 21. Jahrhundert als einzigartiges Ausdruckssystem nationale Grenzen überschritten.
 
 Im Grunde liegt das Phänomen, dass Musik als Übersetzungsinstrument für kulturelle Codes fungiert.
@@ -91,7 +91,7 @@ Er hat eine Kultur etabliert, in der japanische Musik nicht nur „gehört“, s
 Wenn wir diese Struktur aus medientheoretischer Perspektive betrachten,
 **Man kann sagen, dass „Aktivierung des Publikums“ = „Mitgestaltung der kulturellen Übersetzung“**.
 Fans schreiben ihre eigenen Untertitel, verbreiten Memes und rekonstruieren die Symbolik von Idolen und Künstlern.
-Aufgrund dieser „Wiederbearbeitbarkeit“ spielt die Musik der japanischen Subkultur mittlerweile eine Rolle im globalen Pop.
+Aufgrund dieser „Wiederbearbeitbarkeit“ spielt japanische Subkulturmusik mittlerweile eine Rolle im globalen Pop.
 
 ---
 
@@ -103,7 +103,7 @@ Es verbindet sich auch mit der LGBTQ+-Community und der Queer-Theorie.
 
 Beispielsweise tragen YOSHIKI von X JAPAN und HYDE von L'Arc~en~Ciel weibliche Ausdrücke, obwohl sie männlich sind.
 Dies wurde als „Richtung“ sublimiert.
-Diese Zweideutigkeit ist der Grund dafür, dass er weltweit als Ausdrucksfigur der Post-Gender-Ära akzeptiert wird.
+Diese Mehrdeutigkeit ist der Grund dafür, dass er weltweit als Ausdrucksfigur der Post-Gender-Ära akzeptiert wird.
 
 Darüber hinaus ist die Art und Weise, wie junge weibliche Idole wie BABYMETAL die männerdominierte Metal-Szene „zeremoniell untergraben“,
 Es ermöglichte auch eine feministische Interpretation.
@@ -160,4 +160,10 @@ timeline
 
 ---
 
+### YouTube-Podcast
 
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ewZmWO1mtgg?si=hDfoT8Uy60mak_Z9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

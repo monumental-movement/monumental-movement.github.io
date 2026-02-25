@@ -15,7 +15,7 @@ title: 各種 - 享受！故事
 
 《Various – The Enjoy! Story》是一張收錄了祖魯民族誕生以來的熱門歌曲的專輯，這是說唱的傑作。
 
-曲目 A2 拼寫錯誤：Artist 被錯誤地拼寫為“Grandmaster Flash”，而不是原來的“Grandmaster Flash & The Furious Five”。
+曲目 A2 拼字錯誤：Artist 被錯誤地拼寫為“Grandmaster Flash”，而不是原來的“Grandmaster Flash & The Furious Five”。
 
 曲目 B4 上的歌曲作者錯誤：片尾曲被錯誤地寫為“Treacherous Three”，而不是“Doug E. Fresh”。
 
@@ -23,12 +23,12 @@ title: 各種 - 享受！故事
 
 曲目 B6 的藝術家描述不正確：該藝術家被標記為“Funky Four & One”，而不是原來的“Funky 4 + 1”。
 
-また、ボーナス・トラックとして以下の曲が収録されていますが、CDには含まれていません。
+以下歌曲也作為附贈曲目包含在內，但未包含在 CD 中。
 
 曲目 B5 至 B6
 曲目 D6 至 D9
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1.The Packman–I'm The Packman
 A2.Grandmaster Flash & The Furious Five–Superappin
@@ -66,7 +66,7 @@ D8. Midnight Blue – Enjoy With Me
 D9. Higher Ground – Shake 'Em Up
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m75930589194?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m75930589194?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PIPDwUlbcNo?si=Wq-w3Cb25_mcZCUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

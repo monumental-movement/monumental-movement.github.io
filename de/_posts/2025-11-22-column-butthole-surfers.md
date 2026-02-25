@@ -54,7 +54,7 @@ Die Band wurde in Texas gegründet und hatte von Anfang an Elemente, die zum Syn
 
 Obwohl sich die Mitglieder im Laufe der Zeit ändern, sind die anfänglichen Kernmitglieder wie folgt.
 
-* **Gibby Haynes** – Gesang, Gitarre, visuelle Leitung
+* **Gibby Haynes** – Gesang, Gitarre, visuelle Regie
 * **Paul Leary** – Gitarre
 * **King Coffey** – Schlagzeug
 * **Teresa Taylor** – Schlagzeug (Doppeltrommelkonfiguration)
@@ -86,8 +86,8 @@ Der erste Sound der Band mischt die Schnelligkeit des späten Punk/Hardcore mit 
 flowchart TD
     A[„Direkte Gitarrenaufnahme“] --> B[„Verzerrungsverarbeitung“]
     B --> C[„Sax improvisierte Aufnahme“]
-    C --> D[„Schlagzeug ungerade Taktart 1 Take-Aufnahme“]
-    D --> E[„Gesamtmix (Lo-Fi)“]
+    C --> D[„Drum ungerade Taktart 1 Take-Aufnahme“]
+    D --> E[„Gesamtmischung (Lo-Fi)“]
 
 ---
 
@@ -127,7 +127,7 @@ flowchart TD
 
 <div class="mermaid"></div>
 flowchart TD
-    A[„Gitarrenriff/Geräusch“] --> B[„Mehrschichtige Schlagzeugaufnahme“]
+    A[„Gitarrenriff/Geräusch“] --> B[„Mehrschichtige Drum-Aufnahme“]
     B --> C[„Saxophonimprovisation“]
     C --> D[„Stereofeldanpassung“]
     D --> E[„Mixing und Mastering“]
@@ -156,7 +156,7 @@ flowchart TD
 
 <div class="mermaid"></div>
 flowchart TD
-    A[„Gitarre/Bass/Schlagzeug getrennte Aufnahme“] --> B[„Wirkungsverarbeitung“]
+    A[„Gitarre/Bass/Schlagzeug getrennte Aufnahme“] --> B[„Effektverarbeitung“]
     B --> C[„Sax improvisierte Aufnahme“]
     C --> D[„Mischen/Stereo-Anpassung“]
 
@@ -202,8 +202,8 @@ flowchart TD
 flowchart TD
     A[„Direkte Gitarrenaufnahme“] --> B[„Verzerrungsverarbeitung“]
     B --> C[„Sax improvisierte Aufnahme“]
-    C --> D[„Schlagzeug ungerade Taktart 1 Take-Aufnahme“]
-    D --> E[„Gesamtmix (Lo-Fi)“]
+    C --> D[„Drum ungerade Taktart 1 Take-Aufnahme“]
+    D --> E[„Gesamtmischung (Lo-Fi)“]
 
 ---
 
@@ -234,7 +234,7 @@ flowchart TD
 
 <div class="mermaid"></div>
 flowchart TD
-    A[„Gitarrenriff/Geräusch“] --> B[„Mehrschichtige Schlagzeugaufnahme“]
+    A[„Gitarrenriff/Geräusch“] --> B[„Mehrschichtige Drum-Aufnahme“]
     B --> C[„Saxophonimprovisation“]
     C --> D[„Stereofeldanpassung“]
     D --> E[„Mixing und Mastering“]
@@ -264,7 +264,7 @@ flowchart TD
 
 <div class="mermaid"></div>
 flowchart TD
-    A[„Gitarre/Bass/Schlagzeug getrennte Aufnahme“] --> B[„Wirkungsverarbeitung“]
+    A[„Gitarre/Bass/Schlagzeug getrennte Aufnahme“] --> B[„Effektverarbeitung“]
     B --> C[„Sax improvisierte Aufnahme“]
     C --> D[„Mischen/Stereo-Anpassung“]
 

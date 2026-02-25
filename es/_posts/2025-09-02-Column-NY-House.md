@@ -137,7 +137,7 @@ Después de la pandemia, el streaming online y los clubes virtuales se han popul
 - **Garaje Paraíso (1977–1987)**
 La legendaria casa de Larry Levan. El punto de partida de NY House.
 
-- **El desván**
+- **El Desván**
 Presentado por David Mancuso. El origen de la cultura de las fiestas privadas.
 
 - **Fábrica de sonido (1989–1995)**
@@ -168,3 +168,14 @@ Club de nueva generación de Brooklyn. Un lugar de herencia profunda y conmovedo
 
 ### Todavía en las pistas de baile de todo el mundo.
 Si bien el house de Nueva York recibió la influencia del house de Chicago, heredó los genes de la cultura disco y estableció su propio estilo musical de "ritmos conmovedores y humanos". La cultura de la ciudad, las diversas comunidades y las innovaciones en el ámbito de la actuación como DJ y los sistemas de sonido de los clubes han creado una herencia musical en constante evolución.
+
+---
+
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GqU193jA5kg?si=z_X40NiLoIX6iX2E" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---

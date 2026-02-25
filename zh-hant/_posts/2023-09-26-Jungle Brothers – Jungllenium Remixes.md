@@ -13,10 +13,10 @@ title: 叢林兄弟 – Jungllenium Remixes
 ---
 
 
-“Jungllenium Remixes”是由各個製作人和混音師對 Jungle Brothers 歌曲進行混音的合集。
+「Jungllenium Remixes」是由各個製作人和混音師對 Jungle Brothers 歌曲進行混音的收藏。
 
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. Ultimatum Ultramix - The Mega Mix Of "Straight Out The Jungle"
 
@@ -45,7 +45,7 @@ title: 叢林兄弟 – Jungllenium Remixes
 13. Straight Out The Jungle (Soul Shock Remix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m23288815689?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m23288815689?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0_Br-JWVk80?si=4XmyMDo4nmb71LMZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

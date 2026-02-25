@@ -23,7 +23,7 @@ title: 傳染性凹槽 – 薩西皮烏斯方舟（限量版）
 
 傳染性溝
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. Intro
 2. Turtle Wax (Funkaholics Anonymous)
@@ -47,7 +47,7 @@ title: 傳染性凹槽 – 薩西皮烏斯方舟（限量版）
 20. Spreck
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m71622219554?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m71622219554?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3Wtkkxdua8c?si=BjnwCWlotVYa5TiK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

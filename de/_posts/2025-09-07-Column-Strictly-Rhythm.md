@@ -50,7 +50,7 @@ color: #fff;
 - Roger Sanchez – *Luv Dancin'* (1990, unter dem Namen Underground Solution)
 
 **Ausrüstungstrends**
-Viele der Produktionen nutzten Plattenspieler und Sampler (frühe SP-Serie und Akai), um das „Loop-Feeling“ von Schallplatten auszunutzen.
+Es gab viele Produktionen mit Plattenspielern und Samplern (frühe SP-Serie und Akai), die sich das „Loop-Feeling“ von Schallplatten zunutze machten.
 
 ---
 
@@ -89,7 +89,7 @@ Viele der Produktionen nutzten Plattenspieler und Sampler (frühe SP-Serie und A
 
 | Nein | Künstler | Verfolgen | Kommentare |
 |---|---|---|---|
-| 1 | Rolle 2 Real ft. The Mad Stuntman | Ich bewege es gern (1993) | Eine weltweit erfolgreiche Tanzhymne mit karibischem Rhythmus. |
+| 1 | Rolle 2 Real ft. The Mad Stuntman | Ich bewege es gerne (1993) | Eine weltweit erfolgreiche Tanzhymne mit karibischem Rhythmus. |
 | 2 | Armand Van Helden | Hexendoktor | Einzigartiges Sampling und harte Beats sind beeindruckend. |
 | 3 | Barbara Tucker | Ich habe einen Platz gefunden | Gefühlvoller und warmer Vocal-House. |
 | 4 | George Morel | Morels Groove | Eine einfache Schlaufe, die auf dem Boden großartig aussieht. |
@@ -190,7 +190,7 @@ Die Marke/der Katalog ist immer noch aktiv und wird als „Asset“ für Neuaufl
 
 | Zeiteinteilung | Hauptausrüstung |
 |---|---|
-| 1989~Anfang der 90er | Roland TR-909 / TR-808, TB-303, Plattenspieler + Mixer |
+| 1989~Anfang der 90er Jahre | Roland TR-909 / TR-808, TB-303, Plattenspieler + Mixer |
 | Mitte der 90er | E-MU SP-12 / SP-1200, Akai MPC-Serie, Außenborder/Band |
 | 2000er bis heute | DAW (Pro Tools, Ableton, Logic), Plug-Ins/Software-Synthesizer |
 

@@ -26,7 +26,7 @@ El flujo de fondo es el siguiente.
 
 * Finales de la década de 2000: Profundización del dubstep en el Reino Unido (Skream, Benga, Digital Mystikz)
 * 2008-2010: Auge de los enfoques melódicos (por ejemplo, Mt. Eden)
-* Década de 2010: difusión de “Chillstep Compilation” en YouTube
+* Década de 2010: Difusión de “Chillstep Compilation” en YouTube
 * Artistas como Blackmill y MitiS han establecido un estilo orientado a la melodía.
 
 El resultado fue "el dubstep como expresión emocional", que absorbió elementos líquidos del ambient, el trance y el drum and bass, y creció hasta convertirse en un género profundamente conectado con el EDM, el lo-fi y la hermosa cultura de edición de videos.
@@ -70,7 +70,7 @@ Aquí organizaremos las características a nivel del proceso de producción.
 
 ### 2-1 BPM/Estructura
 
-* El BPM suele rondar los **140** (estándar de dubstep)
+* El BPM suele estar alrededor de **140** (estándar de dubstep)
 * Tambor de entretiempo (tiempo de caja 2)
 * Las gotas existen, pero usan "espacios en blanco" en lugar de agresión.
 
@@ -80,7 +80,7 @@ El símbolo de Chillstep es "subgrave suave".
 
 * Centro de onda sinusoidal
 * Ajuste la calidez con una ligera distorsión (recorte suave)
-* Produce fluctuaciones similares a la respiración con un LFO ligero (1/4, 1/8, etc.)
+* Produce una fluctuación similar a la respiración con un LFO ligero (1/4, 1/8, etc.)
 * Agregue emoción a través de cambios de volumen sin usar una modulación de filtro excesiva
 
 ### 2-3 Diseño de melodía y sintetizador
@@ -96,7 +96,7 @@ El símbolo de Chillstep es "subgrave suave".
 
 * Reverb: Grande, pero con fuerte corte de agudos
 * Retraso: 1/4, 1/8 reflejos suaves punteados
-* Cadena lateral: crea distancia entre tambores y pads
+* Cadena lateral: crea distancia entre la batería y los pads.
 * Capa de ruido: Ambiente como viento, lluvia, silbido analógico, etc.
 
 ### 2-5 Diferencias con Liquid Dubstep
@@ -140,7 +140,7 @@ El estilo de Blackmill se convirtió en el modelo de Chillstep y generó un gran
 
 MitiS tiene experiencia en piano clásico y aporta una emoción única al Chillstep/Melodic Dubstep.
 
-* Melodía principal del piano
+*Melodía principal del piano
 * Mezcla transparente e irrompible
 * Sensación ascendente similar a un trance
 * Corte vocal cuidadosamente procesado
@@ -152,7 +152,7 @@ El trabajo de MitiS se extiende suavemente entre el Chillstep y el Melodic Dubst
 
 ## 4. La cultura del vídeo de Chillstep y su difusión en Internet
 
-Es importante que Chillstep se difunda junto con la música como una "cultura visual".
+Es importante que Chillstep se difunda como una "cultura visual" junto con la música.
 
 * Vista nocturna, cielo estrellado, niebla, bosque.
 * Tono cinematográfico de baja saturación.
@@ -232,7 +232,7 @@ Se pone énfasis en la "sostenibilidad" y la "resonancia persistente" en lugar d
 
 ### 5-6 mezcla
 
-*Suprime suavemente la estimulación de 5-7kHz
+* Suprime y suaviza la estimulación de 5-7 kHz
 * Minimizar el ruido de fondo (silbido analógico, viento, lluvia, etc.)
 * Textura similar a la niebla con reverberación de corte alto
 * La cadena lateral es supresora, solo crea movimiento.
@@ -273,7 +273,7 @@ flowchart TD
 
 ## 8. Estado actual y perspectivas futuras del género.
 
-Chillstep/Liquid Dubstep no es sólo una rama del dubstep, sino un caso representativo de Internet y la cultura visual formando un género musical. Incluso en la década de 2020, se ha integrado sin problemas con géneros como la cultura lo-fi, el ambient, el bajo melódico y el garage del futuro, y ha sido ampliamente aceptado como una forma de "electrónica silenciosa".
+Chillstep/Liquid Dubstep no es sólo una rama del dubstep, sino un ejemplo típico de cómo Internet y la cultura visual han dado forma a un género musical. Incluso en la década de 2020, se ha integrado sin problemas con géneros como la cultura lo-fi, el ambient, el bajo melódico y el garage del futuro, y ha sido ampliamente aceptado como una forma de "electrónica silenciosa".
 
 Además, en los últimos años se han observado las siguientes tendencias.
 

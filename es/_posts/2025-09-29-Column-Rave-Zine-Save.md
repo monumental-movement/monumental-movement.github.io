@@ -129,7 +129,7 @@ Así como el rave fue una "experiencia física", el zine también es un "medio f
 
 ### Archivo delirio
 
-Fundado en 2007, Rave Archive es un archivo que preserva y comparte recuerdos de la cultura rave de los años 90. Desde la perspectiva de un raver y un archivero, transmitiré una cultura que tiende a desaparecer a las generaciones futuras.
+Fundado en 2007, Rave Archive es un archivo que preserva y comparte recuerdos de la cultura rave de los noventa. Desde la perspectiva de un raver y un archivero, transmitiré una cultura que tiende a desaparecer a las generaciones futuras.
 
 [Archivo Rave](https://ravearchive.com)
 

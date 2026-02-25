@@ -116,6 +116,15 @@ Leftfield es un ícono de la electrónica británica y sinónimo de aventura mus
 
 ---
 
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7scq3_vpAgw?si=hy0NK0UAMmNSge5M" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
 ### Columnas relacionadas
 
 🔗 [[Columna] Sumérgete en el trip hop: Massive Attack / Portishead / DJ Shadow / DJ Krush](https://monumental-movement.jp/Column-Triphop)

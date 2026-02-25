@@ -21,7 +21,7 @@ title: '[Kolumne] Vollständige Geschichte der Vaporwave-Kultur – Etikettenges
 Text: mmr｜Thema: Vaporwave, eine Bewegung, die als Musikgenre begann, ist ein riesiger kultureller Bereich rund um Erinnerung, Geschichte, Medien und Sozialpsychologie.
 
 
-Vaporwave ist ein kulturelles Phänomen, das um 2010 an der Schnittstelle von Internetkultur, Emotionen nach der Finanzkrise und archivierten Bildern der Vergangenheit entstand. Dieser Artikel fasst die Etikettengeschichte, Ästhetik, akustische Struktur, soziokulturelle Theorie, abgeleitete Genres, Semiotik, Chronologie und Illustrationen zusammen und definiert Vaporwave neu als „umfassende Kunst, die in einer Ära der verlorenen Zukunft geboren wurde“.
+Vaporwave ist ein kulturelles Phänomen, das um 2010 an der Schnittstelle von Internetkultur, Emotionen nach der Finanzkrise und archivierten Bildern der Vergangenheit entstand. Dieser Artikel fasst die Etikettengeschichte, Ästhetik, akustische Struktur, soziokulturelle Theorie, abgeleitete Genres, Semiotik, Chronologie und Illustrationen zusammen und interpretiert Vaporwave als „eine umfassende Kunst, die in einer Ära der verlorenen Zukunft geboren wurde“.
 
 ---
 
@@ -60,7 +60,7 @@ Frühe Eccojams waren nicht nur Verlangsamungen, sondern Geräte, die neue Emoti
 ### 2-2 Richtung der Ästhetik
 
 * **Der Zusammenbruch einer künstlichen Utopie** (Utopian Virtual)
-* **Dekadenz, Industrialisierung und destruktive Zukunftsvision** (Hardvapour)
+* **Dekadenz, Industrialisierung, destruktives Zukunftsbild** (Hardvapour)
 * **Die Süße und Ironie der Konsumkultur** (Future Funk)
 * **Verschmelzung von städtischem Geistergefühl und Umgebungsgeräuschen** (Mallsoft)
 
@@ -80,7 +80,7 @@ Die Ästhetik basiert auf der „Ambivalenz von Kritik und Vergnügen“, und al
 
 ### 3-2 Akustische Struktur
 
-Dampfwellenschall basiert auf den Prinzipien „Dämpfung, Verlängerung, Verschlechterung und Wiederholung“. Insbesondere die Tonhöhenverschiebung (-20 bis -35 %) ist ein Synonym für das Genre.
+Vaporwave-Sound basiert auf den Prinzipien „Dämpfung, Verlängerung, Verschlechterung und Wiederholung“. Insbesondere die Tonhöhenverschiebung (-20 bis -35 %) ist ein Synonym für das Genre.
 
 ### 3-3 Frequenzbandeigenschaften
 
@@ -95,7 +95,7 @@ Dampfwellenschall basiert auf den Prinzipien „Dämpfung, Verlängerung, Versch
 * Verschlechterung der Verarbeitung aufgrund der tatsächlichen VHS-Aufnahme
 * EQ-Schnitt und Komprimierungsunterdrückung in DAW
 
-Man kann sagen, dass es sich hierbei um Techniken zur Rekonstruktion „verlorener Materialität“ handelt.
+Man kann sagen, dass es sich dabei um Techniken zur Rekonstruktion „verlorener Materialität“ handelt.
 
 ## Kapitel 4: Soziokulturelle Theorie – Konsumkritik, Semiotik und Psychologie der Internetgeneration
 
@@ -215,7 +215,7 @@ Dieser Widerspruch ist postmodern und die Essenz der Ästhetik von Vaporwave.
 
 ---
 
-### **5-3 Fazit: Philosophische Definition der Dampfwelle (endgültige Version)**
+### **5-3 Fazit: Philosophische Definition von Dampfwelle (endgültige Version)**
 
 > **Vaporwave ist eine Welt, in der die Zukunftsvision der Vergangenheit zusammengebrochen ist.
 > Die Internet-Generation hat die Symbolfragmente neu aufbereitet,

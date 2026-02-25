@@ -9,15 +9,15 @@ permalink: /ko/dj-pierre-we-gonna-funk/
 tags:
 - House
 - Acid
-title: DJ 피에르 – We Gonna Funk
+title: DJ Pierre – We Gonna Funk
 ---
 
 
-영국 레이블 Solid Pleasure가 1993년에 발매한 이 음반에는 "We Gonna Funk ((Underground Mix)")가 포함되어 있습니다.
+1993년에 UK의 라벨 Solid Pleasure로부터 릴리스된 이 레코드는 「We Gonna Funk((Underground Mix)」를 수록.
 
-Nightcrawlers의 "Push the Feeling On" 요소를 결합한 이 트랙은 원곡보다 훨씬 뛰어난 훌륭한 믹스입니다.
+Nightcrawlers의 "Push the Feeling On"의 요소를 도입한 이 트랙은 오리지널보다 뛰어나다고 말할 수 있는 최고의 믹스입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. We Gonna Funk (P&C's 9am Ultimate Mix)
 Remix – P&C
@@ -34,5 +34,5 @@ AA2. We Gonna Funk (Underground Mix) (DJ Master Gola Version)
 
 [メルカリで購入](https://jp.mercari.com/item/m36364872632?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ijE61Kd2i6M?si=AYvjarIf4HfQ5Kbd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

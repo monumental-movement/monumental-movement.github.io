@@ -123,7 +123,7 @@ Ciani dit : « Buchla est un instrument respiratoire. »
 Sur le plan sonore, la **modulation asynchrone** d'Easel crée un flux d'harmoniques qui semble flotter dans l'espace.
 Le public a l'illusion que « l'air lui-même est diffusé ».
 
-### Analyse de forme d'onde : Caractéristiques de la structure d'improvisation
+### Analyse de forme d'onde : Caractéristiques des structures improvisées
 
 | Éléments | Points techniques | Impressions auditives |
 | -------------------------------- | ------------- | ------------ |
@@ -137,7 +137,7 @@ Le public a l'illusion que « l'air lui-même est diffusé ».
 
 L’attrait d’Easel réside dans le fait que la sculpture sonore peut être réalisée sans aucun effet extérieur.
 En reliant plusieurs modulations en utilisant Pulser comme déclencheur,
-Il est possible de créer des « motifs minimaux générés » et des « structures rythmiques aléatoires ».
+Il est possible de créer des « motifs minimaux générés » et des « structures rythmiques aléatoires ».
 
 ### Cas 2 : Charles Cohen « Live at the Rotunda » (2014)
 
@@ -145,7 +145,7 @@ L'improvisateur légendaire de Philadelphie **Charles Cohen** a utilisé le chev
 Lors de ses concerts, le concept de tempo s'effondre et Pulser se dilate et se contracte comme une respiration.
 Cohen a déclaré : « Le chevalet est un outil pour sculpter le temps. »
 
-Dans sa performance, le repliement de la forme d'onde de l'oscillateur complexe provoque l'effondrement et la reproduction continue des harmoniques,
+Dans sa performance, le pliage de la forme d'onde de l'oscillateur complexe provoque l'effondrement et la reproduction continue des harmoniques,
 Il produit un son qui ressemble à celui d’un instrument acoustique en train de se reconstruire.
 
 ### Analyse de la technologie sonore : la structure d'improvisation de Cohen
@@ -235,5 +235,13 @@ timeline
     2022 : 新世代アーティストによるBuchlaライブ・ムーブメント拡大
 
 </div>
+
+---
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ehLVOMR8Txw?si=Pp3UIOfRvj41tH3D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

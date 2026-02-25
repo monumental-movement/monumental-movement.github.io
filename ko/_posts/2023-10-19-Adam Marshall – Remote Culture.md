@@ -9,15 +9,15 @@ permalink: /ko/adam-marshall-remote-culture/
 tags:
 - Techno
 - Minimal
-title: Adam Marshall – 원격 문화
+title: Adam Marshall – Remote Culture
 ---
 
 
-Adam Marshall은 캐나다 태생의 DJ/프로듀서이자 현재 베를린에 본사를 둔 New Kanada 레이블의 소유자입니다. 크리스티안 안데르센과 함께 Graze라는 유닛으로도 활동 중이다.
+Adam Marshall(아담 마샬)은 캐나다 출신으로 현재는 베를린을 거점으로 하는 DJ/프로듀서 & 라벨 New Kanada의 오너. Christian Andersen과의 유닛 Graze로도 활동.
 
-"Remote Culture"는 2005년 Mike Shannon의 캐나다 미니멀 더빙 딥 테크노/하우스 레이블인 Cynosure에서 발매되었습니다.
+「Remote Culture」는, Mike Shannon 주재의 캐나다발의 미니멀·더브·딥 테크노/하우스 라벨 Cynosure로부터 2005년에 릴리스.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Magnum
 
@@ -28,5 +28,5 @@ B2. Nature Gone
 
 [メルカリで購入](https://jp.mercari.com/item/m22710623242?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iNmLADC_mZ4?si=GaIhq38CEE623leA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -11,13 +11,13 @@ tags:
 - Britpop
 - Rock
 - 90s
-title: VA – 티베트 만세
+title: VA – Long Live Tibet
 ---
 
 
-1997년에 발매된 Charity CD. 이 CD의 판매 수익금은 티베트와 티베트 난민의 해방을 지원하는 Tibet House Trust 자선단체에 기부되었습니다.
+1997년에 발매된 자선 CD. 이 CD의 매출은 티베트 해방 및 티베트 난민을 지원하는 Tibet House Trust(티벳 하우스 트러스트) 자선 단체에 기부되었다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Longpigs – Jesus Christ Revisited
 2. Kula Shaker – Govinda, Hari And St. George
@@ -39,5 +39,5 @@ title: VA – 티베트 만세
 
 [メルカリで購入](https://jp.mercari.com/item/m28246404715?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K_Qd4Qz5Kw0?si=MYHbfQu-eMYWs0_F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -11,26 +11,26 @@ tags:
 - Postpunk
 - Artrock
 - Rock
-title: '[칼럼] 메콘족 — 반란과 재창조의 길'
+title: 【칼럼】 The Mekons — 반역과 재발명의 궤적
 ---
 
 
-## 반란은 리즈 예술학교에서 시작됩니다
+## 반역의 시작, 리즈의 아트 스쿨에서
 
-글 : mmr │ 주제 : 리즈 펑크에서 미국의 황야까지. Mekons의 45년 음악 및 커뮤니티 역사
+문장 : mmr | 테마 : 리즈의 펑크에서 미국의 황야로. The Mekons가 보여준 음악과 공동체의 45년사
 
-> **"반란이 아닌 웃음으로 시작되었습니다."**
+> ** "시작은 반항이 아니라 웃음이었다."**
 
-1977년 영국 북부 리즈 대학교.
-메콘스는 강의실 한구석에서 '우리끼리 밴드를 결성하면 어떨까'라고 농담으로 생각한 학생들에 의해 시작됐다. 존 랭포드(Jon Langford), 톰 그린할그(Tom Greenhalgh), 케빈 라이셋(Kevin Lycett) 등이 포스트펑크 문화의 상징이 됐다. 그들은 음악적 재능도 없었고 악기를 빌린 적도 없었습니다.
-당시 펑크는 누구나 시작할 수 있는 혁명이었습니다. Mekons라는 이름은 Byron의 연극 The Curse of Minerva에 나오는 "반란군" 캐릭터에서 유래했다고 합니다.
+1977년, 영국 북부 리즈 대학.
+학생들이 강의실 한 구석에서 "자신들도 밴드를 할 수 있지 않을까"라고 농담 교제에 시작한 것이 메콴스였다. Jon Langford, Tom Greenhalgh, Kevin Lycett 등, 나중에 포스트펑크의 문화권을 상징하는 면면이다. 그들은 연주 기술을 갖지 못했고, 악기조차 차용물이었다고 한다.
+당시 펑크란 '누구나 시작할 수 있는 혁명'이었다. Mekons의 이름은 바이런의 연극 'The Curse of Minerva'에 등장하는 '반역자'에서 유래한다고 한다.
 
-1978년에 발매된 싱글 '당신은 어디에 있었나요 / 그러면 춤을 추어야 할 거에요 (On My Own)''은 그들의 초기 펑크 정신을 상징합니다.
-'당신은 어디에 있었나요?''는 날카로운 기타 리프와 노이즈가 섞인 보컬로 젊은이들의 외로움과 사회에 대한 회의를 그린다. B사이드 '그럼 춤을 춰야겠어(On My Own)'는 자기소외와 자유에 대한 열망을 펑크 에너지로 표현한 곡이다.
-녹음은 거칠지만 대학 친구들과의 즉흥 연주로 가득 차 있으며, 훗날 메콘스가 추구한 '불완전성의 미학'의 유래를 엿볼 수 있다.
+1978년 출시의 **싱글《Where Were You/I'll ​​Have To Dance Then(On My Own)》**은 그들의 초기 펑크 정신을 상징하는 작품이다.
+《Where Were You?》는, 젊은이의 외로움과 사회에의 의심을, 예리한 날카로운 기타 리프와 노이즈 마지리의 보컬로 묘사. B면《I'll Have To Dance Then(On My Own)》은 자기 소외와 자유에 대한 희구를 펑크적 에너지로 표현하고 있다.
+녹음은 거칠어지면서도 대학 친구들과의 즉흥성으로 가득 메커스가 나중에 추구하는 '불완전 미학'의 원점을 볼 수 있다.
 
-초기 싱글 "Never Been in a Riot"과 함께 이 싱글은 Mekons의 초기 사회 비판, 유머, 자기 탐구의 삼위일체의 중요한 부분으로 간주됩니다.
-당시 라이브에서는 이 노래가 끝날 때마다 관객들이 웃고, 혼란스러워하고, 때로는 논쟁을 벌이는 모습을 흔히 볼 수 있었다.
+초기 싱글《Never Been in a Riot》과 나란히, 이 싱글은 Mekons 초기의 사회 비평과 유머, 그리고 자기 탐구의 삼위일체를 나타내는 중요작으로 여겨진다.
+당시의 라이브에서는 이 곡이 끝날 때마다 관객이 웃고 혼란스러워 때로 논란이 일어난다는 광경이 일상이었다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/71s-T8oUTQs?si=JRL_vF4jjerlZhUh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -49,129 +49,129 @@ color: #fff;
 </style>
 
 
-### 1장: 거칠고 서투른 펑크에서 탈출하기
-> **“서투름이 곧 진심이었습니다.”**
+### 제1장: 거칠고 서투른 펑크에서 탈피
+> ** "서양한 사코소가 성실했다."**
 
 1979年発表のデビュー・アルバム[『The Quality of Mercy Is Not Strnen』](https://amzn.to/477GZ6y)。タイトルは“ストレン”という誤植そのものがバンドの姿勢を象徴していた。  
-런던의 Virgin Studios에서 녹음되었습니다. 당시 그들은 "믹서테이블을 처음 봤다"고 말했다.
-음향이 거칠고 마이크 거리와 밸런스가 불안정합니다. 그래도 울부짖는 기타와 보컬의 디스토션은 '무지에서 태어난 창의성'으로 기록됐다. 프로듀서가 없고, 사운드 이미지는 DIY 정신을 기반으로 합니다.
+녹음은 런던의 Virgin 스튜디오. 당시 그들은 "처음 믹서 탁자를 보았다"고 말했다.
+음향적으로는 거칠고, 마이크의 거리나 밸런스가 안정되지 않는다. 그래도 기타 하울링과 보컬의 왜곡이 '무지에서 태어난 창조성'으로 기록됐다. 프로듀서는 존재하지 않고, DIY 정신이 그대로 음상이 되고 있다.
 
-"우리는 정치적이거나 낭만적이지 않았습니다. 단지 혼란스러웠을 뿐입니다."라고 Jon Langford는 말합니다.
-당시 메콘족은 반란을 꾀하기보다는 '행동'을 의식하고 있었다. 이것이 바로 그들의 사운드가 다른 펑크 밴드들이 버린 '의심'을 반영하는 이유입니다.
+"우리는 정치적이거나 낭만적이지 않고 단지 혼란스러웠다"고 Jon Langford는 말한다.
+당시의 Mekons는, 반역을 연기하는 것이 아니라, 「연기하는 것 그 자체」에의 자각을 가지고 있었다. 그렇기 때문에 그들의 소리는 다른 펑크 밴드가 놓친 '의심'을 울리고 있었던 것이다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zU9zbbBMxTI?si=lm70X_cOq77g-pIy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 2장: 포스트펑크와 사회비판
-> **"분노 뒤에 남은 것은 관찰하는 눈빛이었다."**
+### 제2장: 포스트펑크와 사회 비평
+> ** "분노 후에 남은 것은 관찰의 눈빛이었다."**
 
-1980년대 초반 펑크가 대중화되면서 메콘스는 점차 형태를 바꾸게 된다.
-이들은 런던을 떠나 정치와 문화를 넘나드는 사회비평그룹으로 변신한다. Theatre of Hate와 Red Wedge 운동의 맥락에서 Mekons는 "음악보다 공동체"를 선택했습니다.
-멤버는 고정되어 있지 않고 대학시절 친구들이 오가며 때로는 10명이서 녹음을 하기도 한다. 예술집단으로서의 성격이 더욱 강해지고 있다.
+80년대 초반, 펑크가 소비되는 가운데, Mekons는 점차 그 형태를 바꾸어 간다.
+그들은 런던을 떠나 정치와 문화를 교차시키는 사회 비평 집단으로 변모한다. Theatre of Hate와 Red Wedge 운동에 이어지는 맥락에서 Mekons는 "음악보다 공동체"를 선택했다.
+멤버는 고정되지 않고, 대학 시대의 동료가 출입하면서, 때로는 10명 가까이에서 녹음을 실시한다. 아트·컬렉티브로서의 성질이 강해져 간다.
 
 1989年の代表作[『The Mekons Rock ’n’ Roll』](https://amzn.to/4nIWLMc)は、その総括だった。  
-기타의 더블 트래킹, 과도한 리버브, 베이스의 억제된 저음 등 독특한 공간 구성을 자랑합니다. 이는 '록의 형식미'를 의도적으로 왜곡하기 위한 기믹이었다.
-이번 앨범을 통해 그들은 '락은 시스템 자체가 아닌가?'라는 역설을 제시했다.
+기타의 더블 트래킹, 과도한 리버브, 베이스의 저역을 억제한 독특한 공간 구성. 이들은 “록의 형식미”를 의도적으로 즐겁게 하기 위한 장치였다.
+이들은 이 앨범에서 ‘록이란 체제 그 자체가 아닌가?’라는 역설을 제시했다.
 
-> "우리는 로큰롤이 위험하다는 것을 알고 있습니다. 그것은 국가를 파괴할 수 있습니다."
-> — *Mekons, 인터뷰 1989*
+> “We know that rock and roll is dangerous. It can destroy countries.”
+> — *The Mekons, interview 1989*
 
 ---
 
-### 3장: 미국 음악과의 만남, 그리고 '얼터너티브 컨트리'의 여명
-> **"포도주와 먼지 속에 진실이 있었다."**
+### 제3장: 미국 음악과의 만남과 “얼터나 컨트리”의 새벽
+>** "술과 모래 속에 진실이 있었다."**
 
 1985年の[『Fear and Whiskey』](https://amzn.to/4mV4QMk)で、Mekonsは完全に新しい地平へ踏み出す。  
-거기에 있던 것은 미국 남부의 포크와 컨트리 음악, 그리고 전후 영국 사회가 느낀 '고향 상실'의 감정이었다.
-이 기간 동안 존 랭포드(Jon Langford)는 행크 윌리엄스(Hank Williams)와 멀 해거드(Merle Haggard)의 말을 들으면서 ``국가는 노동계급의 블루스''라는 사실을 재발견했습니다.
+거기에 있던 것은, 미국 남부의 포크와 컨트리, 그리고 전후의 영국 사회가 안고 있는 “고향 상실”의 감정이었다.
+Jon Langford는 이 시기 Hank Williams와 Merle Haggard를 들으면서 "컨트리야말로 노동자 계급의 블루스"라고 재발견했다고 한다.
 
-당시 인디 스튜디오였던 Leeds의 Woodlands에서 녹음되었습니다. 아날로그 테이프에 직접 라인으로 녹음한 기타는 앰프의 왜곡을 활용한 자연스러운 채도를 갖고 있으며, 보컬에는 룸 마이크를 사용하는 경우가 많습니다.
-이 로파이 사운드는 '탁한 냄새'보다는 '시적인 거리감'을 만들어낸다.
-이 앨범은 나중에 Uncle Tupelo와 Wilco와 같은 "alt-country" 아티스트의 선구자로 재평가됩니다.
+녹음은 당시의 인디 스튜디오인 Leeds의 Woodlands에서. 아날로그 테이프에 직접 라인 녹음한 기타는 앰프의 왜곡을 살린 자연스러운 포화를 가지고 보컬에는 룸 마이크를 많이 사용.
+이 로파이한 음향이 ‘도취함’이 아니라 ‘시적인 거리감’을 낳고 있다.
+이 앨범은 나중에 Uncle Tupelo와 Wilco와 같은 "얼터나 컨트리"의 선구자로 재평가된다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cTToDniWwdQ?si=cfNzh4SRSgb_Nbwy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 4장: 이민자로서의 로큰롤
-> **“바위에는 국경이 없지만 이민자에게는 땅이 필요합니다.”**
+### 제4장: 이민자로서의 로큰롤
+> **"록은 국경을 가지지 않는다. 하지만 이민자에게는 땅이 필요하다."**
 
-1990년대에 Mekon 가족은 시카고로 이주했습니다.
-Jon Langford는 미국 음악가들과의 협력을 심화하여 Waco Brothers 및 Pine Valley Cosmonauts와 같은 다른 프로젝트를 개발합니다.
-Sally Timms는 지역 시인들과 협력할 예정이며 Tom Greenhalgh는 비디오 제작에 참여할 예정입니다.
-이 시기 메콘스는 국적과 장르를 초월한 '표류하는 예술공동체'로 존재했다.
+1990년대 Mekons는 활동의 거점을 시카고로 옮겼다.
+Jon Langford는 미국인 뮤지션과의 제휴를 깊게 해, Waco Brothers나 Pine Valley Cosmonauts라고 하는 다른 프로젝트를 전개.
+Sally Timms는 현지 시인들과 공연하며 Tom Greenhalgh는 영상 제작에 관여한다.
+이 시기의 Mekons는, 국적이나 장르를 넘은 “표류하는 예술 공동체”로서 존재하고 있었다.
 
-"메콘스의 음악은 어디에도 속하지 않는 것 같다"는 말이 있었다.
-이민자들처럼 그들은 음악적 맥락 사이를 이동하면서 그곳에 임시 집을 만들었습니다.
+"Mekons의 음악은 어디에도 속하지 않는 소리"라고 평가되었다.
+그들은 이민자처럼 음악의 맥락을 건너 가서 거주지의 장소를 만들었습니다.
 アルバム[『Journey to the End of the Night』（2000）](https://amzn.to/4q3A5HR)はその象徴であり、ブラスやヴァイオリンを加えた音響構成が“異郷性”を強調する。  
-이번 작업에는 Pro Tools를 사용했지만, 믹싱에는 일부러 아날로그 콘솔을 사용해 '인간의 불균형'을 남겼다.
+이 작품에서는 Pro Tools를 도입하면서도, 믹스에는 굳이 아날로그 탁자를 사용해, 「인간적인 불균형」을 남겼다고 한다.
 
 ---
 
-### 제5장: 페미니즘과 연대, 여성회원의 시선
-> **“목소리가 늘어나면 진실은 갈라집니다.”**
+### 제5장: 페미니즘과 연대, 여성 멤버의 관점
+>** "목소리가 늘어날 때마다 진실은 분열한다."**
 
-Sally Timms는 Mekons 역사에서 특별한 언급을 받을 자격이 있습니다.
-그녀는 1985년 공식적으로 그룹에 합류하면서 보컬리스트로서의 역할뿐만 아니라 '스토리텔러'로서의 역할도 수행했다.
-그녀의 맑은 목소리는 밴드의 정치적 언어를 시적인 우화로 바꾸는 힘을 가지고 있었습니다.
-Sally는 "화를 외치는 것보다 이야기를 하는 것이 더 강력하다"고 말합니다. 그녀의 관점이 추가되면서 메콘스는 페미니스트적 맥락에서 재평가됐다.
+Mekons의 역사에서 Sally Timms의 존재는 특필해야합니다.
+1985년에 정식 가입한 그녀는 단순한 보컬리스트가 아니라 '이야기의 이야기부'로서 기능했다.
+그녀의 투명한 목소리는 밴드의 정치적 말을 시적인 우화로 바꾸는 힘을 가지고 있었다.
+Sally는 "분노를 외치는 것보다 이야기를 말하는 것이 더 강하다"고 말한다. 그녀의 관점이 더해지면서, Mekons는 페미니즘적인 맥락에서도 재평가되었다.
 
-동시대 레인코트(Raincoats) 및 오페어(Au pairs)와 함께 다성적 특성은 여성의 목소리가 사회적 현실을 획득하는 드문 예입니다.
-라이브 공연에서는 샐리가 낭독을 하고, 랭포드가 기타를 반주하는 장면이 많아 메콘스의 '음악=스토리텔링' 구조를 명확하게 한다.
+그 다성성은 동시대의 Raincoats나 Au Pairs와 함께 여성의 발언이 사회적 리얼리티를 획득한 드문 예이기도 하다.
+라이브에서는 Sally가 낭독을 하고, Langford가 기타로 반주하는 장면도 많아, Mekons의 “음악=말하기”라는 구조가 명확해진다.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iQJbxIaUEjI?si=M-SWXL5_ebqPcrqM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 6장: 예술로서의 메콘 — 멀티미디어 및 다큐멘터리
-> **"그들의 예술은 간증이자 축하입니다."**
+### 6장: 예술로서의 Mekons — 멀티미디어 및 다큐멘터리
+> **“그들의 예술은 증언이며 축제이다.”**
 
 2013年のドキュメンタリー映画[『Revenge of the Mekons』](https://amzn.to/3KJVhCA)は、その活動の核心を映し出した。  
-조 안지오 감독은 이를 '살아있는 예술 작품'이라고 표현한다.
-이 작품은 메콘들이 음악뿐 아니라 회화, 사진, 시, 정치운동 등 다양한 표현 형태를 넘나들며 살아온 과정을 묘사하고 있다.
-존 랭포드 자신도 화가로 활동하며 미국 중서부의 풍경을 상징적으로 그려 '미국의 반낭만적 이미지'를 제시했다.
+감독 Joe Angio는 그들을 "살아있는 예술 작품"으로 형용한다.
+이 작품에서는 Mekons가 음악뿐만 아니라 회화, 사진, 시, 정치운동 등 다양한 표현 형태를 횡단해 온 것이 그려진다.
+Jon Langford 자신도 화가로 활동하고 있으며, 미국 중서부의 풍경을 상징적으로 그려 '반로맨틱한 미국상'을 제시했다.
 
-아날로그 녹음을 유지하면서 그들의 사운드는 의도적으로 '거친 느낌'을 만들어냅니다.
-Langford는 "Noise is in our blood"라고 말하며 녹음할 때 노이즈 게이트를 제거하고 주변 소리를 남기는 것을 선호했습니다.
-이 "상처진 소리"는 메콘스가 믿었던 리얼리즘이었다.
+아날로그 녹음을 유지하면서도 그들의 소리는 "거칠기"를 의도적으로 연출하고 있다.
+Langford는 "노이즈는 우리의 피다"고 말했고, 녹음 현장에서는 노이즈 게이트를 풀어 환경음을 남긴 테이크를 선호했다고 한다.
+이 "상처있는 소리"야말로 Mekons가 믿는 리얼리즘이었다.
 
 ---
 
-### 7장: 해체와 재구성을 넘어서
-> **"해체해도 끝나지 않아요. 안 끝나니까 메콘이에요."**
+### 제7장: 해체와 재결성을 넘어
+> **「해산해도 끝나지 않는다. 끝나지 않기 때문에, Mekons다.」**
 
-Mekons는 여러 번 해체되고 개혁되었습니다.
-그러나 그것은 끝이 아니라 오히려 계절과 같은 순환이다.
+Mekons는 여러 번 해산과 재결성을 반복했다.
+하지만 그것은 끝이 아니라 '계절과 같은 순환'이다.
 2019年の[『Deserted』](https://amzn.to/4nHdkYD)は、メンバーが砂漠に集まり数日で録音したセッション盤。  
-전성기를 맞이한 이들에게는 '조용한 분노'가 느껴진다.
-어쿠스틱 기타, 전자 드론, 멀리서 들려오는 바람 소리. 마치 '인류의 증거'처럼 들립니다.
+거기에는 장년기를 맞이한 그들의 “조용한 분노”가 감돌았다.
+어쿠스틱 기타와 전자 무인 항공기, 멀리 바람 소리. 마치 '인류의 유언' 같은 소리다.
 
-> “우리는 여전히 여기에 있습니다. 그래야 하기 때문이 아니라, 있을 수 있기 때문입니다.”
-> — *존 랭포드, 2019*
+> “We are still here, not because we should be, but because we can be.”
+> — *Jon Langford, 2019*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p5y0KqiGjOM?si=ynwQfZRqbD2I6-wo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 마지막 장: 메콘족은 왜 "생존"했는가?
-> **"희망은 집단생존이다."**
+### 종장 : Mekons는 왜 "살아남은"지
+> **「희망이란 집단에서 살아남는 것이다.」**
 
-45년 넘게 그들은 상업주의를 거부하고 음악 산업 밖에서 생계를 꾸릴 수 있는 방법을 모색해 왔습니다.
-그것은 자기 보존이 아닌 연대의 미학이다.
-그들의 작품은 포스트펑크의 이상을 초월하여 '생존의 예술'의 실천 그 자체가 되었습니다.
+45년 이상에 걸쳐 그들은 상업주의를 거부하고 음악산업 밖에서 '사는 방법'을 찾아왔다.
+그것은 자기 보존이 아니라 연대의 미학입니다.
+그들의 작품군은, 포스트펑크의 이념을 넘어, 「살아남는 예술」의 실천 그 자체가 되었다.
 
-Mekons의 음악은 완벽하지 않습니다. 그러나 그 불완전성은 세상의 불완전성과 공명합니다.
-그래서 그들은 여전히 ​​​​전화를 겁니다.
+Mekons의 음악은 완벽하지 않습니다. 하지만 그 불완전함이 세계의 불완전함과 공명한다.
+그것이 그들이 지금도 울리는 이유다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/afFqy--NADw?si=Zgaw5OYcbM0x6V3t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 메콘스 메인 음반
+## The Mekons 주요 디스코그래피
 
-| 출시 연도 | 제목 | 메모 | 링크 |
+| 출시 연도 | 제목 | 비고 | 링크 |
 |:--:|:--|:--|:--|
 | 1978 | *Where Were You / I'll Have To Dance Then (On My Own)* | デビュー初期シングル、パンク精神の象徴 | [Amazon](https://amzn.to/3ICpuDb) |
 | 1979 | *The Quality of Mercy Is Not Strnen* | 初期パンクの記録 | [Amazon](https://amzn.to/475k7ED) |
@@ -183,7 +183,7 @@ Mekons의 음악은 완벽하지 않습니다. 그러나 그 불완전성은 세
 
 ---
 
-## 연대기 - 메콘의 역사
+## 연표 — The Mekons 행보
 
 <div class="mermaid">
 

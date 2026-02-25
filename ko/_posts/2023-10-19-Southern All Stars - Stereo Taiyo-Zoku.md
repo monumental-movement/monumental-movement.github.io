@@ -9,16 +9,16 @@ permalink: /ko/southern-all-stars-stereo-taiyo-zoku/
 tags:
 - JPop
 - Pops
-title: Southern All Stars - 스테레오 태양조쿠
+title: Southern All Stars - Stereo Taiyo-Zoku
 ---
 
 
-"Stereo Taiyozoku"는 Southern All Stars의 네 번째 오리지널 앨범입니다. 1981년 오리지널 버전.
+스테레오 태양족은 남부 올스타즈의 4번째 오리지널 앨범. 1981년의 오리지널판.
 
 참여 뮤지션
-쿠와타 케이스케, 오모리 타카시, 하라 유코, 세키구치 카즈유키, 마츠다 히로시, 노자와 히데유키, 가네자키 준이치, 세노오 류이치로, EVE, 린다, 제이크 콘셉시온 등
+쿠와타 카유, 오모리 타카시, 하라 유코, 세키구치 카즈유키, 마츠다 히로시, 노자와 히데유키, 가네자키 준이치, 여동생 오타카 이치로, EVE, Linda, 제이크 컨셉션 등
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Hello My Love
 
@@ -49,5 +49,5 @@ B7. 栞(しおり)のテーマ
 
 [メルカリで購入](https://jp.mercari.com/item/m44193861071?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o8nxYn-3jRU?si=KuIbDWGya-WkpZyO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

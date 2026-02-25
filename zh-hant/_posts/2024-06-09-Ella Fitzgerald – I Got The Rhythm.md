@@ -11,15 +11,15 @@ tags:
 - Ballad
 - Pops
 - 80s
-title: 艾拉·菲茨杰拉德——我掌握了節奏
+title: 艾拉·費茲傑拉——我掌握了節奏
 ---
 
 
-艾拉·菲茨杰拉德是美國爵士樂歌手，被譽為“歌曲第一夫人”、“艾拉夫人”。與比莉·哈樂黛、莎拉·沃恩齊名的20世紀頂尖爵士女歌手之一。
+艾拉·費茲傑拉是美國爵士歌手，被譽為「歌曲第一夫人」、「艾拉夫人」。與比莉·哈樂黛、莎拉·沃恩齊名的20世紀頂尖爵士女歌手之一。
 
 在近 60 年的職業生涯中，艾拉·菲茨杰拉德獲得的榮譽包括 14 項格萊美獎、國家藝術獎、全國有色人種協進會首屆總統獎和總統自由勳章。
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. Love Is Here To Stay
 2. I Got Rhythm
@@ -39,7 +39,7 @@ title: 艾拉·菲茨杰拉德——我掌握了節奏
 16. Shall We Dance
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m45583200877?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m45583200877?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fSTkz1BvrXY?si=i_4bTuPGvRYKOgcd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

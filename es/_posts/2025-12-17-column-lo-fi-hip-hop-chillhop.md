@@ -117,7 +117,7 @@ Si bien esta formalización reduce la barrera de entrada, también limita el ran
 
 ## 10. Comercialización y perspectiva crítica
 
-Lo‑Fi Hip Hop/Chillhop estaba fuertemente ligado a un modelo de ingresos basado en visualizaciones en streaming. Las estructuras adecuadas para la reproducción a largo plazo son altamente compatibles con los algoritmos y ha habido muchos casos de éxito comercial.
+Lo‑Fi Hip Hop/Chillhop está fuertemente ligado a un modelo de ingresos basado en visualizaciones en streaming. Las estructuras adecuadas para la reproducción a largo plazo son altamente compatibles con los algoritmos y ha habido muchos casos de éxito comercial.
 
 Por otro lado, también se critica que consumir música como fondo dificulta la evaluación de obras individuales.
 

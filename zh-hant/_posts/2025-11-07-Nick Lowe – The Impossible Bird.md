@@ -11,7 +11,7 @@ tags:
 - Country Rock
 - Pub Rock
 - 90s
-title: 尼克·洛——不可能的鳥
+title: 尼克洛——不可能的鳥
 ---
 
 
@@ -19,7 +19,7 @@ title: 尼克·洛——不可能的鳥
 
 《The Impossible Bird》是一張流行搖滾/鄉村搖滾/酒吧搖滾專輯，於 1994 年與聯合製作人 Neil Brockbank 發行。 （補發）
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. Soulful Wind
 2. The Beast In Me
@@ -36,7 +36,7 @@ title: 尼克·洛——不可能的鳥
 13. I'll Be There
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m38200351869?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m38200351869?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h_U8lR_JrDo?si=UMGoRySTUA1u-kES" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

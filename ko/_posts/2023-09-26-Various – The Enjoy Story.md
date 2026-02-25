@@ -9,26 +9,26 @@ permalink: /ko/various-the-enjoy-story/
 tags:
 - Hiphop
 - Classic
-title: 다양한 – 즐겨보세요! 이야기
+title: Various – The Enjoy! Story
 ---
 
 
-'Various – The Enjoy!
+"Various – The Enjoy! Story"는 랩의 최고 걸작 Zulu Nation 탄생기의 히츠로서 컴파일된 앨범입니다.
 
-트랙 A2 오타: 아티스트의 철자가 원래 "Grandmaster Flash & The Furious Five" 대신 "Grandmaster Flash"로 잘못 입력되었습니다.
+트랙 A2의 표기 오류: 아티스트가 본래의 "Grandmaster Flash & The Furious Five"가 아니라 "Grandmaster Flash"라고 오기되어 있습니다.
 
-트랙 B4의 작곡가 오류: 크레딧이 "Doug E. Fresh" 대신 "Treacherous Three"로 잘못 기록되었습니다.
+트랙 B4의 작사 작곡자 오류 : 크레딧이 원래의 "Doug E. Fresh"가 아니라 "Treacherous Three"로 오기되었습니다.
 
-트랙 B5의 아티스트 오류: 아티스트가 원래 "Spoonie Gee가 참여한 Treacherous Three" 대신 "Treacherous Three"로 잘못 표시되었습니다.
+트랙 B5의 아티스트 표기 오류: 아티스트가 본래의 "Treacherous Three featuring Spoonie Gee"가 아니라 "Treacherous Three"라고 오기되어 있습니다.
 
-트랙 B6에 대한 잘못된 아티스트 설명: 아티스트는 원래 "Funky 4 + 1" 대신 "Funky Four & One"으로 표시됩니다.
+트랙 B6의 아티스트 표기 오류 : 아티스트는 본래의 "Funky 4 + 1"이 아니라 "Funky Four & One"이라고 라벨 표기되어 있습니다.
 
-다음 곡도 보너스 트랙으로 포함되어 있지만 CD에는 포함되어 있지 않습니다.
+또, 보너스 트랙으로서 이하의 곡이 수록되어 있습니다만, CD에는 포함되어 있지 않습니다.
 
-트랙 B5~B6
-D6~D9 트랙
+트랙 B5 ~ B6
+트랙 D6 ~ D9
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1.The Packman–I'm The Packman
 A2.Grandmaster Flash & The Furious Five–Superappin
@@ -68,7 +68,7 @@ D9. Higher Ground – Shake 'Em Up
 
 [メルカリで購入](https://jp.mercari.com/item/m75930589194?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PIPDwUlbcNo?si=Wq-w3Cb25_mcZCUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gxnZktDkYiY?si=tLLkEdeOGDfKJbAr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

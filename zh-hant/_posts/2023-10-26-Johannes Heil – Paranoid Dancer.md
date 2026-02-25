@@ -15,14 +15,14 @@ title: Johannes Heil – 偏執舞者
 
 約翰內斯·赫爾 (Johannes Heil) 的經典《Paranoid Dance》的重製版，由 Heiko Laux 的 Kanzleramt 廠牌發行。
 
-#### 曲目列表
+#### 曲目表
 ```md
 a. Paranoid Dancer (Re-Mastered Original)
 
 b. Paranoid Dancer (DJ Hell Remix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m54249919762?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m54249919762?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XYfTsWn34dc?si=-S-5fhxtivHGLnpa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

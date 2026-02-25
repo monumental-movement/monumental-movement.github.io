@@ -9,15 +9,15 @@ permalink: /ko/various-we-are-reasonable-people/
 tags:
 - Techno
 - Downtempo
-title: 다양함 – 우리는 합리적인 사람들입니다
+title: Various – We Are Reasonable People
 ---
 
 
-뮤직위크는 "기존 팬들에게 확실히 어필할 수 있고, 언더그라운드 사운드에 관심이 있는 이들에게 좋은 입문용 앨범"이라며 긍정적인 평가를 내렸다.
+'Music Week'은 이 앨범에 긍정적인 리뷰로 “기존 팬들에게는 확실히 어필하고 언더그라운드 사운드에 관심을 가진 사람에게도 좋은 소개가 될 것”이라고 게재했습니다.
 
-'Brainwashed''는 1998년 컴필레이션 앨범 중 3위를 차지하기도 했습니다. 또한 2013년 Fact 매거진은 "Freeman Hardy & Willis Acid"를 Aphex Twin 트랙 상위 50개 목록에서 10위로 선정했습니다.
+또, 「Brainwashed」는 1998년의 컴필레이션 앨범 중(안)에서 3번째로 랭킹. 게다가 2013년에 「Fact」매거진은 「Freeman Hardy & Willis Acid」를, Aphex Twin의 트럭의 베스트 50에 있어서 10위에 위치시킬 정도의 평가를 했습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. AFX / Squarepusher–Freeman, Hardy & Willis Acid
 
@@ -46,7 +46,7 @@ title: 다양함 – 우리는 합리적인 사람들입니다
 
 [メルカリで購入](https://jp.mercari.com/item/m25692223932?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cy-vZouMuww?si=1RNPr9kDQtBPTwUc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ctFfLxDwB4U?si=PU-bZ89mgZtefhZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

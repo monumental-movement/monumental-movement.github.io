@@ -10,25 +10,25 @@ tags:
 - Experimental
 - Rock
 - 00s
-title: 하이노 케이지 - 나니모카모 하이노 케이지 - Everything
+title: Keiji Haino - Nanimokamo 아이노 케이지 – 아무것도
 ---
 
 
-하이노 케이지 – 모든 것
+아이노 케이지 – 아무것도
 타악기 솔로
-하이노 케이지
+Keiji Haino
 
-VHS(비디오테이프)
+VHS(비디오 테이프)
 
-High Rise, Acid Mother's Temple, Mainliner, White Heaven, Ghost, Koshu Yo, Masayuki Takayanagi, Kaoru Abe, Hiroshi Mikami, Toshiaki Ishizuka, Keiji Haino, Fushisha 등 수많은 일본 언더그라운드 음악을 발매한 PSF Records에서 2002년에 발매한 VHS입니다.
+하이 라이즈, 애시드 마더스 템플, 메인 라이너, 화이트 헤븐, 고스트, 광속 밤, 타카야나 마사유키, 아베 가오루, 미카미 히로시, 이시즈카 슌 아키, 아시노 케이지, 불실자 등 수많은 일본의 언더그라운드 음악을 발매하고 있던 PSF 레코드로부터 20
 
-감독은 미카미 히로시 감독의 '조몬에서 우주로: 조몬 록'(VHS)을 담당한 비디오 아티스트 노비키 소이치로.
+감독은 미카미 히로시 『조몬에서 우주로 조몬의 노래(Johmon Rock)』(VHS) 등 담당한 VideoArtist의 노부키 소이치로.
 
-아트 디렉션은 하이노 케이지, 후시샤, 존 조른, 요시자와 모토하루 등의 재킷을 제작한 아라이 야스요시가 맡았습니다.
+Art Direction은, 아시노 케이지, 불실자, John Zorn, 요시자와 모토지 등의 재킷을 다루는 아라이 야스히사.
 
-프로듀서는 P.S.F의 오너 이쿠에츠 히데오. 기록.
+프로듀서는, P.S.F. Records의 오너 생기주 히데오.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. 何もかも
 ```

@@ -10,15 +10,15 @@ permalink: /ko/daddy-freddy-dj-honda-rough-and-rugged-remix-travellin-man-remix/
 tags:
 - Drum n Bass
 - Hiphop
-title: Daddy Freddy DJ Honda – Rough and Rugged (리믹스) Travellin' Man (리믹스)
+title: Daddy Freddy DJ Honda – Rough and Rugged (Remix) Travellin' Man (Remix)
 ---
 
 
-"Rough and Rugged (리믹스) Travellin' Man (리믹스)"
-이것은 2005년 "Jacked Recordings"라는 레이블로 발매된 Daddy Freddy/DJ Honda의 노래를 드럼 앤 베이스로 리믹스한 것입니다.
+"Rough and Rugged (Remix) Travellin' Man (Remix)"는
+2005년에 라벨 「Jacked Recordings」로부터 릴리스 된 Daddy Freddy/DJ Honda의 악곡의 드럼 베이스 리믹스입니다.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Daddy Freddy–Rough & Rugged (Remix)
 

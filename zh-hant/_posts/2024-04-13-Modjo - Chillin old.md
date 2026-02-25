@@ -15,13 +15,13 @@ title: Modjo - 寒冷的老
 
 《Modjo - Chillin'》是法國二人組 Modjo 於 2001 年發行的歌曲。這首歌收錄在他們的首張同名專輯《Modjo》中。
 
-《Chillin'》是一首結合了迪斯科和浩室音樂元素的歌曲，具有輕快而優美的節奏、時髦的貝斯線和迷人的歌聲。
+《Chillin'》是一首結合了迪斯可和浩室音樂元素的歌曲，具有輕快而優美的節奏、時髦的貝斯線和迷人的歌聲。
 
-這首歌曲被譽為流行舞曲，氣氛輕鬆，旋律明快。
+這首歌被譽為流行舞曲，氣氛輕鬆，旋律明快。
 
-*有英國版和意大利版，但這是意大利版。
+*有英國版和義大利版，但這是義大利版。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1  Chillin' (Original Extended Mix)
 
@@ -32,7 +32,7 @@ B2  The Art Of Chillin'
 Remix – Hervé Bordes
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m34688669419?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m34688669419?afid=6142608987){: .button1}
 
 
 

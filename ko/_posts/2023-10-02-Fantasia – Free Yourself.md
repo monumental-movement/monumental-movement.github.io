@@ -9,13 +9,13 @@ permalink: /ko/fantasia-free-yourself/
 tags:
 - House
 - Deep House
-title: 판타지아 - 자유로워지세요
+title: Fantasia – Free Yourself
 ---
 
 
-House REMIX of Fantasia – Charles Spencer와 David Harness의 Free Yourself.
+Charles Spencer & David Harness의 Fantasia – Free Yourself의 집 REMIX.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Free Yourself
 
@@ -24,5 +24,5 @@ B. Free Yourself
 
 [メルカリで購入](https://jp.mercari.com/item/m69660519170?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9UIqymk5mBI?si=7yAb1n4XuCGHd7O5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

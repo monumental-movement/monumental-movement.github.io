@@ -102,11 +102,11 @@ Eurobeat wird in TikTok- und MAD-Videos auf neue Weise neu interpretiert.
 <hr>
 
 ### Ist Eurobeat „Memory Fuel“?
-„Initial D“ verlieh der Musik namens Eurobeat eine Geschichte und Emotion. Es handelte sich nicht nur um „Tanzmusik“, sondern um eine Erfahrung, die mit „beschleunigender Jugend“ und „Erinnerungen an Niederlagen und Siege“ verbunden war.
+„Initial D“ verlieh der Musik namens Eurobeat eine Geschichte und Emotion. Es handelte sich nicht nur um „Tanzmusik“, sondern um eine Erfahrung, die mit „beschleunigter Jugend“ und „Erinnerungen an Niederlagen und Siege“ verbunden war.
 
 Dadurch wurde Eurobeat in Japan zu einer ungewöhnlich „emotionalen“ Musik. Mit anderen Worten:
 
-Eurobeat ist Musik, die von Geschwindigkeit spricht, aber gleichzeitig ist es zu einem Medium geworden, das die Geschichte davon erzählt, wie man durch etwas hindurchläuft und dabei etwas verliert.
+Während Eurobeat Musik ist, die von Geschwindigkeit spricht, ist es auch zu einem Medium geworden, das die Geschichte davon erzählt, wie man durch etwas hindurchläuft und dabei etwas verliert.
 
 
 <hr>
@@ -116,6 +116,15 @@ Eurobeat ist Musik, die von Geschwindigkeit spricht, aber gleichzeitig ist es zu
 
 Es ist auch ein Wiedererleben unserer eigenen „Jugend“ und unseres „Impulses“.
 Auch jetzt noch, wenn ich dieses Geräusch höre, schlägt mein Herz verrückt.
+
+---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eR0-I4Xeo5o?si=TMXZAmOp3klwwJQI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

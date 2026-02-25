@@ -10,13 +10,13 @@ tags:
 - Rock
 - Pop
 - 90s
-title: 原始愛​​情 – 單身回到 1991-1995
+title: 原始愛情 – 單身回到 1991-1995
 ---
 
 
-Original Love於1996年發行的最佳專輯。 1991年至1995年發行的所有單曲均按發行順序收錄。
+Original Love於1996年發行的最佳專輯。 1991年至1995年發行的所有單曲均依發行順序收錄。
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. Deep French Kiss
 2. Blue Talk
@@ -35,7 +35,7 @@ Original Love於1996年發行的最佳專輯。 1991年至1995年發行的所有
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m78181861703?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m78181861703?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kEdNGRbcVkc?si=Enu5YrzHQJ6yiqtL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

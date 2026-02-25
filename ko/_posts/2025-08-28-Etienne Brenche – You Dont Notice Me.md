@@ -10,16 +10,16 @@ tags:
 - House
 - Deep House
 - 90s
-title: Etienne Brenche – 당신은 나를 눈치 채지 못합니다
+title: Etienne Brénche – You Don't Notice Me
 ---
 
 
-House/Deep House는 1999년부터 2002년까지 런던을 기반으로 한 House 레이블 Touchdown Recordings(Defender Music의 하위 레이블)에서 발매되었습니다. 프로듀서는 초기 하우스와 애시드 하우스의 선구자로 알려진 Dominic Moir입니다.
+1999~2002년에 런던을 거점으로 한 House 라벨 Touchdown Recordings(Defender Music의 서브 라벨)로부터 1999년에 릴리스된 House/Deep House. 프로듀서는 초기 하우스 어시드 하우스의 선구자적 존재로 알려진 Dominic Moir.
 
-Etienne Brénche라는 이름으로 12인치 레코드 두 개만 남아 있는데, 이 레코드는 Touchdown Recordings와 The Fantasy에서 발매되었습니다.
+Etienne Brénche 명의에서는, Touchdown Recordings로부터 릴리스 된 이 레코드와 「The Fantasy」의 12 인치 2장만 남기고 있다.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. You Don't Notice Me
 
@@ -28,5 +28,5 @@ B. You Don't Notice Me (Spoken)
 
 [メルカリで購入](https://jp.mercari.com/item/m44464677586?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oaKgNFzWoFs?si=ruD4WcBLs-i8YpDb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

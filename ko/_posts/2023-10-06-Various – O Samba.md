@@ -9,14 +9,14 @@ permalink: /ko/various-o-samba/
 tags:
 - Samba
 - Latin
-title: 다양 – 오 삼바
+title: Various – O Samba
 ---
 
 
-'Various - O Samba'는
-1991년에 발매된 David Byrne이 편집한 편집 카세트 테이프입니다.
+"Various – O Samba"는
+1991년에 출시된 David Byrne에 의해 컴파일된 편집의 카세테 테이프입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Clara Nunes–A Deusa Dos Orixás
 
@@ -51,5 +51,5 @@ title: 다양 – 오 삼바
 
 [メルカリで購入](https://jp.mercari.com/item/m33683727041?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E8drLmwYMTU?si=Ik2EPOb7u_MmQq-U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

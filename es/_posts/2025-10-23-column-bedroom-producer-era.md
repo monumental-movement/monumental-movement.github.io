@@ -27,7 +27,7 @@ La magia de la producción musical, que alguna vez estuvo confinada a las parede
 
 Un productor de dormitorio no es sólo alguien que crea sonido por sí solo.
 Son la encarnación de la "democratización" de la industria musical y, al mismo tiempo, también son un símbolo de la "creatividad de la soledad".
-Hoy en día, con acceso directo al mundo a través de Spotify y SoundCloud, el dormitorio ya no es un "espacio privado". A través de su red, se ha convertido en la base de una nueva ciudad musical = ciudad digital.
+Hoy en día, con acceso directo al mundo a través de Spotify y SoundCloud, el dormitorio ya no es un "espacio privado". A través de su red, se ha convertido en la base de una nueva ciudad de la música = ciudad digital.
 
 ---
 
@@ -182,3 +182,13 @@ Conectado directamente con el mundo entero.
 
 >“De mi habitación a tu mundo”.
 >- Ésa puede ser la imagen más honesta de la música en el siglo XXI.
+
+---
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3QPR7ms9ZKU?si=dO7M67ORHbzQx-bq" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---

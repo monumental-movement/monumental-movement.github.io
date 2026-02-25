@@ -9,15 +9,15 @@ permalink: /ko/roberto-rodriguez-moonraker-serenade-ep/
 tags:
 - House
 - Tech House
-title: 로베르토 로드리게스 - 문레이커 세레나데 EP
+title: Roberto Rodriguez – Moonraker Serenade EP
 ---
 
 
-Roberto Rodriguez는 핀란드의 DJ/프로듀서이자 Serenades 레이블의 창립자입니다. Roberto Rodriguez는 DJ Harvey 세트의 주요 곡인 "Mustat Varjot"를 포함하여 다수의 하우스 클래식을 발표했습니다.
+Roberto Rodriguez(로버드 로드리게스)는 핀란드 출신의 DJ/프로듀서이며, 라벨 Serenades의 창시자. Roberto Rodriguez는, DJ Harvey 세트의 단골곡 「Mustat Varjot」등, 하우스 클래식이라고 할 수 있는 수많은 트랙을 릴리스 하고 있다.
 
-"Moonraker Serenade EP"는 2007년 Laka 레이블로 출시되었습니다. B면의 첫 번째 곡은 Phonique(Michael Vater)의 리믹스 곡이다.
+'Moonraker Serenade EP'는 라벨 Laka보다 2007년에 발매되었다. B면 1곡째는 Phonique(Michael Vater)에 의한 리믹스.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Moonraker
 
@@ -28,5 +28,5 @@ B2. Serenade
 
 [メルカリで購入](https://jp.mercari.com/item/m52395790850?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SDsc3g0KG1s?si=jmRreuk27l8oW2nb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

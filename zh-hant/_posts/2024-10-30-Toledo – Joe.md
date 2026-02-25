@@ -19,7 +19,7 @@ title: 托萊多——喬
 它於1994年由美國獨立廠牌Moonshine Music發行。
 
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Joe (Joey Malcom Mix)
 
@@ -27,4 +27,4 @@ B1. Joe (T.C. Mix)
 B2. Joe (Extended Dub)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m22782567301?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m22782567301?afid=6142608987){: .button1}

@@ -19,7 +19,7 @@ title: 太空牛仔 - 太空牛仔
 B1 是美國製作人/混音師 Jason Nevins 的混音作品。
 B2hq，由駐倫敦的法國 DJ Miss Frenchie 製作的混音版。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Space Cowboy (Space Cowboy Extended Club Mix)
 A2. Uno Dos Tres
@@ -28,4 +28,4 @@ B1. Space Cowboy (Jason Nevins Club Mix)
 B2. Space Cowboy (Miss Frenchie Breaks Mix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m96573920140?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m96573920140?afid=6142608987){: .button1}

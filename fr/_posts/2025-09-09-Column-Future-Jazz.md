@@ -36,7 +36,7 @@ L'Acid Jazz est devenu populaire principalement au Royaume-Uni, réinventant le 
 
 - **Caractéristiques de l'équipement**
 -Akai MPC60/S1000
--Roland TR-808/TR-909
+-Roland TR-808 / TR-909
 - Principalement platine et sampler
 
 <style type="text/css">
@@ -132,7 +132,7 @@ La scène Broken Beat de l'ouest de Londres fait évoluer Future Jazz. Une fusio
 
 ---
 
-## Fin des années 2000 : Du club jazz à l'électro
+## Fin des années 2000 : Du club jazz à l’électro
 - **Arrière-plan**
 Le Nu-Jazz a fusionné avec l'électro et a renforcé le style d'écoute.
 
@@ -217,7 +217,7 @@ Future Jazz fusionne avec le hip-hop et le jazz contemporain et évolue de mani�
 | 3 | Clapiers Shabaka | Agitation | Spirituel et puissant. |
 | 4 | Nubya Garcia | Rythme | Le saxophone se démarque. |
 | 5 | Battements du laboratoire bleu | Ananas | Une fusion de hip-hop et de jazz. |
-| 6 | Kokoroko | Jonction Abusey | Mélancolique et beau. |
+| 6 | Kokoroko | Jonction Abusey | Melancholic and beautiful. |
 | 7 | Points flottants | LesAlpx | Électronique et jazz fusion. |
 | 8 | Tom Misch et Yussef Dayes | Quel genre de musique | Interprétations modernes de la pop et du jazz. |
 | 9 | Makaya McCraven | L'automne à New York | Une fusion d'improvisation et de montage. |
@@ -229,3 +229,13 @@ Future Jazz fusionne avec le hip-hop et le jazz contemporain et évolue de mani�
 Future Jazz a continué d’évoluer en tant que lieu où se croisent l’improvisation du jazz traditionnel et l’innovation électronique. Cela a commencé avec la culture club des années 90, est passé par Broken Beat et Nu-Jazz, et s'étend maintenant vers une expression à plusieurs niveaux qui intègre également la modularité et l'IA.
 
 Comme il sied au nom de « jazz futuriste », c'est un genre toujours à l'avant-garde de son temps.
+
+---
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BtW4N8sBrSY?si=Yc7my4Dx9xyOLdTD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

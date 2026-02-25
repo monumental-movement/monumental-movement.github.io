@@ -64,7 +64,7 @@ Für ihn ist eine Aufzeichnung „der Akt, das Leben eines anderen aufzuzeichnen
 Über Märkte und Flohmärkte schlendern und verstaubte Schallplatten ausgraben. Dort sind nicht nur Geräusche, sondern auch **Spuren der Zeit** eingraviert.
 
 Harvey sagt: „Je mehr menschliche Fingerabdrücke auf einer Schallplatte sind, desto lebendiger ist der Klang.“
-Sein Set umfasst eine Mischung aus unbekanntem Italo-Disco, Rock der 70er Jahre, Synth-Boogie der 80er Jahre und hawaiianischem AOR.
+Sein Set umfasst eine Mischung aus unbekanntem Italo-Disco, 70er-Jahre-Rock, 80er-Synth-Boogie und sogar hawaiianischem AOR.
 Die Auswahl der Lieder erfolgt nicht zufällig, sondern basiert auf der Intuition, den „Luftstrom des Klangs“ zu lesen.
 
 Seine DJ-Tasche ist wie ein Reisetagebuch. Jede Aufzeichnung enthält Erinnerungen an eine Nacht.
@@ -275,5 +275,13 @@ Dadurch wird Harveys DJ-Philosophie deutlich.
 Das bedeutet, dass es nicht nur darum geht, Musik zu spielen, sondern um die Abstimmung von Zeit, Körper und Raum.
 Die Plattenbox ist sein Weltbild,
 Jede CD ist als „Fragment der Erinnerung und Erfahrung“ lebendig.
+
+---
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BrRcFNRq4u8?si=SBd4yIFFwTAlvgcm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

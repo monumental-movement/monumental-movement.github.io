@@ -91,14 +91,14 @@ flowchart LR
 
 Music → Film: Music manipulates psychological space and sense of time.
 
-Music → Architecture: 音楽が空間体験を設計
+Music → Architecture: Music designs spatial experiences
 
 Film ↔ Architecture: Interaction between visual art and spatial design
 
 
 ---
 
-### 代表的な映画とサウンドサンプル
+### Representative movies and sound samples
 
 #### Arrival (2016)
 
@@ -160,7 +160,7 @@ Ambient/post-rock has a strong presence in dialogue with urban spaces and archit
 
 Post-rock/ambient is not just a music genre, but has evolved as a method of designing time and space.
 
-Psychological expansion in film: Manipulating time with drones, loops, and soundscapes
+Psychological expansion in film: time manipulation with drones, loops, and soundscapes
 
 Applications in architecture and urban planning: the experience of staying in a space, walking lines, and harmony with urban environmental sounds
 

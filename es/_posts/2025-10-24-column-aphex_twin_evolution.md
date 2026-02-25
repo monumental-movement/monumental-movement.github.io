@@ -20,7 +20,7 @@ title: '[Columna] Los inicios y la actualidad de Aphex Twin: más allá del punt
 
 Texto: mmr｜Tema: Comparar los primeros trabajos de Aphex Twin con sus logros actuales e interpretar críticamente los cambios en su estructura acústica, filosofía y tecnología.
 
-A principios de la década de 1990, Richard D. James (Aphex Twin) surgió como alguien que cambió por completo la gramática existente de géneros como el techno y el ambient. Sus primeros trabajos son experimentos sonoros en los que se entrelazan sueños mecánicos e ilusiones humanas, y su sonido actual se sitúa entre una estructura de inteligencia artificial y un retorno a la nostalgia.
+A principios de la década de 1990, Richard D. James (Aphex Twin) surgió como alguien que cambió por completo la gramática existente de géneros como el techno y el ambient. Sus primeros trabajos son **experimentos sonoros donde los sueños de las máquinas y las ilusiones humanas se entrelazan**, y su sonido actual se sitúa entre **estructuras similares a inteligencia artificial y el regreso de la nostalgia**.
 
 A continuación, compararemos y examinaremos estos "cambios" y "no cambios" desde los cuatro ejes: trabajo, tecnología, estética e ideología.
 
@@ -145,7 +145,7 @@ En otras palabras, su música es un campo de pruebas para el humanismo post-IA.
 
 El núcleo de Aphex Twin reside en "permanecer extranjero" incluso cuando los tiempos cambian.
 Incluso cuando la música se pone de moda, su sonido siempre deja un "margen".
-Es en ese margen donde hay espacio para que el oyente proyecte sus propios sentimientos.
+Es en ese espacio en blanco donde hay espacio para que los oyentes proyecten sus propios sentimientos.
 
 ---
 
@@ -153,7 +153,7 @@ Es en ese margen donde hay espacio para que el oyente proyecte sus propios senti
 
 Después de Aphex Twin, la música electrónica ya no es sólo un "género".
 Los artistas influenciados por él incluyen Burial, Oneohtrix Point Never, Autechre, Arca, etc.
-Todas estas preguntas reconsideran la generación de significado del sonido mismo.
+Todas estas preguntas reconsideran la "generación de significado" del sonido mismo.
 
 > “En una era donde la música se convierte en datos, Aphex Twin se ha convertido en un ``escultor de la percepción''.
 
@@ -197,9 +197,19 @@ También es un **evento filosófico** donde las emociones humanas y la percepci�
 
 En sus primeros trabajos se llevó a cabo la “electronización de las emociones”,
 Hoy en día, la tendencia se ha invertido hacia la "emocionalización de la electrónica".
-Su viaje puede predecir un futuro en el que la música misma tenga conciencia.
+Su viaje puede predecir un futuro en el que la música misma se vuelve consciente.
 
 ---
+
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VsS7eedYWa8?si=g5ND3g8oV87JYTNE" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
 
 ## Materiales de referencia/discografía recomendada
 

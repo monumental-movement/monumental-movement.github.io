@@ -16,7 +16,7 @@ title: '[Chronique] L''intersection du hard rock, de la philosophie orientale et
 
 ## « Ouest » et « Est » cachés dans le hard rock
 
-Texte : mmr｜Thème : Explorer la relation entre le hard rock, la philosophie orientale et le mysticisme à travers les exemples de Led Zeppelin et Deep Purple
+Texte : mmr | Thème : Explorer la relation entre le hard rock, la philosophie orientale et le mysticisme à travers les exemples de Led Zeppelin et Deep Purple
 
 Le hard rock est un genre majeur du rock qui a explosé de la fin des années 1960 aux années 1970. Sa musicalité se caractérise par son incorporation audacieuse de la philosophie orientale et d'éléments mystiques, en plus du machisme et de la force occidentaux.
 
@@ -101,7 +101,7 @@ Dans les temps modernes, la **production de bandes sonores** et la **génératio
 
 * Son métallique intégrant des gammes orientales → Parfait pour le jeu BGM
 * Son de drone qui crée une ambiance mystérieuse → Pour les bandes-annonces de films
-* Bande sonore cinématographique générée par l'IA → Appliquée aux œuvres de science-fiction et de fantasy
+* Bande sonore cinématographique générée par l'IA → Appliquée aux œuvres de science-fiction et fantastiques
 
 ---
 
@@ -117,7 +117,7 @@ A2 : Nous exprimons « l'exotisme » et le « mysticisme » en utilisant des gam
 A3 : Oui. En faisant apprendre à l’IA les caractéristiques musicales de Zeppelin et de Deep Purple, il est possible de recréer la mystique et la puissance du hard rock.
 
 **Q4 : Le hard rock est-il adapté à la production de bandes sonores ? **
-R4 : Oui. Idéal pour créer une atmosphère puissante et mystérieuse, notamment lors des scènes de bataille et des climax.
+A4 : Oui. Idéal pour créer une atmosphère puissante et mystérieuse, notamment lors des scènes de bataille et des climax.
 
 ---
 

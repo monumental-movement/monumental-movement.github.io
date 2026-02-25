@@ -11,13 +11,13 @@ tags:
 - House
 - Euro
 - 90s
-title: 쇠르 플러스! – 아기오
+title: Soeur Plus! – Agio
 ---
 
 
-1996년 발매된 네덜란드 듀오 Soeur Plus!의 데뷔 앨범.
+1996년에 발매된 네덜란드 출신의 남녀 듀오 Soeur Plus!(스루 프류!)의 데뷔 앨범.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Jolie Jacqueline
 ジョリ・ジョリ・ジャクリーン
@@ -66,5 +66,5 @@ title: 쇠르 플러스! – 아기오
 
 [メルカリで購入](https://jp.mercari.com/item/m78483157009?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X4svCdEp6io?si=Og2p-G8a6-Tfnp70" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

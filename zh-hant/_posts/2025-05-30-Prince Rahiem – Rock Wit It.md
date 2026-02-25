@@ -19,7 +19,7 @@ title: 拉希姆王子 – Rock Wit' It
 
 《Rock Wit' It》是專輯 On A Ride 中的一首單曲。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Rock Wit' It (Bass Mechanics Edit)
 A2. Rock Wit' It (Bass Mechanics Extended Remix)
@@ -31,7 +31,7 @@ B3. Rock Wit' It (Frank Ski Dope Beat Instrumental)
 
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m72029326823?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m72029326823?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QOe5unEWZk8?si=dD4oEUElRVHGt_PC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

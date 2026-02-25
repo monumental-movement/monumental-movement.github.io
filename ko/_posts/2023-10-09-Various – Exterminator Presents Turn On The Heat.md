@@ -9,16 +9,16 @@ permalink: /ko/various-exterminator-presents-turn-on-the-heat/
 tags:
 - Reggae
 - Dancehall
-title: 다양한 – 익스터미네이터(Exterminator)가 열을 가합니다.
+title: Various – Exterminator Presents Turn On The Heat
 ---
 
 
-'Exterminator Presents Turn On The Heat' 는
-1989년 영국 레이블 "Sir Coxsone"이 발매한 매우 클래식한 Fatis Burrell 원리딤 컴필레이션 앨범입니다.
-이다.
+「Exterminator Presents Turn On The Heat」는,
+1989년 UK의 라벨 'Sir Coxsone'에서 발매된 컴필레이션 앨범에서 매우 클래식한 Fatis Burrell의 원 리듬 앨범
+입니다.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Sanchez–Joy (Medley)
 
@@ -43,5 +43,5 @@ B5. Fire House Crew –Version
 
 [メルカリで購入](https://jp.mercari.com/item/m95069371918?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qoCuWO4b0TE?si=LZKNGTWufF0d0vE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

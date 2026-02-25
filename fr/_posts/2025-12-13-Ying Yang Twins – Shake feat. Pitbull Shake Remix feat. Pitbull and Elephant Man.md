@@ -14,7 +14,7 @@ title: Ying Yang Twins – Shake feat. Pitbull / Shake Remix feat. Pitbull et l'
 ---
 
 
-"Shake", sorti en 2005, est un single extrait de l'album "USA" des Ying Yang Twins. Avec Pitbull et Elephant Man. La chanson comprend un extrait de " Din Daa Daa " de George Kranz .
+"Shake", sorti en 2005, est un single extrait de l'album "USA" des Ying Yang Twins. Avec Pitbull et Elephant Man. La chanson comprend un extrait de "Din Daa Daa" de George Kranz.
 
 #### Liste des chansons
 ```md

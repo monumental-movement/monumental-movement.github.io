@@ -9,15 +9,15 @@ permalink: /ko/missy-b-lumi-meets-wayne-wonder-crazy-in-da-club-oh-no/
 tags:
 - Hiphop
 - 00s
-title: Missy B. Lumi, Wayne Wonder를 만나다 – Crazy In Da Club / Oh No
+title: Missy B. Lumi Meets Wayne Wonder – Crazy In Da Club / Oh No
 ---
 
 
-2003년부터 활동해온 DJ Missy B가 프로듀싱한 힙합곡이다.
+2003년부터 활동하는 DJ Missy B 프로듀스에 의한 HipHop 트럭.
 
-B는 1980년대부터 활동한 루미(Lumi)와 레게 가수 웨인 원더(Wayne Wonder)의 곡이다.
+B는 Lumi와 1980년대부터 활동하는 레게 싱어 Wayne Wonder(웨인 원더)에 의한 트럭.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Missy B. – Crazy In Da Club (Main Mix)
 

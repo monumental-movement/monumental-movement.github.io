@@ -10,15 +10,15 @@ tags:
 - House
 - Progressive House
 - 00s
-title: 스포크 – Freek Like Me
+title: Spork – Freek Like Me
 ---
 
 
-Korn, Pitchshifter, Kurtis Mantronik을 리믹스한 영국 프로듀서 J.P. Davies(Deejay Punk-Roc)가 Spork라는 이름으로 발표한 프로그레시브 하우스 트랙입니다.
+Korn, Pitchshifter, Kurtis Mantronik의 리믹스를 다루는 UK 프로듀서 J.P. Davies (Deejay Punk-Roc)가 Spork 명의로 출시한 프로그레시브 하우스 트럭.
 
-B면은 네덜란드 DJ Sander Kleinenberg의 리믹스입니다.
+B면은 네덜란드 DJ Sander Kleinenberg (썬더 클라이넨버그)의 remix.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Freek Like Me (Alma Matris Reconstruction Remix)
 

@@ -40,7 +40,7 @@ color: #fff;
 
 ## 1960er-1970er: Geburt des Hard Rock und der Vorabend der Spielhallen
 
-- **Hintergrund**: Led Zeppelin, Deep Purple und Black Sabbath treten in London und Los Angeles auf. Präsentiert ein neues Musikerlebnis mit explosiven Sounds und tiefgründigen Riffs.
+- **Hintergrund**: Led Zeppelin, Deep Purple und Black Sabbath traten in London und Los Angeles auf. Präsentiert ein neues Musikerlebnis mit explosiven Sounds und tiefgründigen Riffs.
 - **Berührungspunkt mit Spielen**: Diese Ära befand sich noch in den Anfängen der Spielhallen (am Vorabend von „Pong“ und „Space Invaders“). Obwohl die direkte Verbindung schwach ist, erzeugen die psychedelischen Kunstwerke und Experimente mit elektronischen Klängen Keime, die mit der Ästhetik der elektronischen Musik des Spiels in Einklang stehen.
 
 **Repräsentatives Meisterwerk**
@@ -285,7 +285,7 @@ Seit den 2000er Jahren spielen Musikspiele wie **Guitar Hero** und **Rock Band**
 
 | Titel | Spuren | Künstler | Notizen |
 |----------|---------|-------------|------|
-| IIDX 3. (1999) | V | TAKA | Klassisches x HR-Arrangement im Gitarrenstil |
+| IIDX 3. (1999) | V | TAKA | Arrangement im klassischen x HR-Gitarrenstil |
 | IIDX 9. (2002) | Abyss -The Heavens Remix- | dj TAKA Remixed von Ryu☆ | Enthält Metallelemente |
 | IIDX 14 GOLD (2007) | V2 | TAKA | Remake mit Schwerpunkt auf Bandsound |
 
@@ -306,7 +306,7 @@ Seit den 2000er Jahren spielen Musikspiele wie **Guitar Hero** und **Rock Band**
 
 | Titel | Spuren | Künstler | Notizen |
 |----------|---------|-------------|------|
-| SOUND VOLTEX BOOTH (2012) | Schwarzer Kaiser | Grobe Skizze | Metalcore + Elektro |
+| SOUND VOLTEX BOOTH (2012) | Schwarzer Kaiser | Grobe Skizze | Metalcore + Electro |
 | SOUND VOLTEX II (2013) | XROSS-INFEKTION | BlackY gegen Siromaru | Hard Rock x Speed ​​​​Core |
 | SOUND VOLTEX III (2014) | Wachstumserinnerungen | akhuta | Bandsound |
 | SOUND VOLTEX VIVID WAVE (2019) | Ich | nora2r | Digitaler Hardrock-Stil |
@@ -362,7 +362,7 @@ Seit den 2000er Jahren spielen Musikspiele wie **Guitar Hero** und **Rock Band**
 | Titel | Spuren | Künstler | Notizen |
 |----------|---------|-------------|------|
 | Audioshield (2016) | Beliebiger Import | Benutzertonquelle | Erleben Sie Hardrock selbst |
-| Ragnarok VR (2020) | Viele HR-Vereinbarungen | Hauskünstler | HR-Erfahrung aus der Sicht eines Schlagzeugers |
+| Ragnarok VR (2020) | Viele HR-Vereinbarungen | Hausinterner Künstler | HR-Erfahrung aus der Sicht eines Schlagzeugers |
 
 ---
 

@@ -10,17 +10,17 @@ tags:
 - House
 - NY House
 - 90s
-title: 현실 – 욜란다
+title: Reality – Yolanda
 ---
 
 
-Reality는 Afrika Bambaataa의 사촌인 Kool Rock Steady(일명 Edward Rudolph)가 보컬을 맡은 힙합 하우스 트리오입니다.
+Reality는 아프리카 밤버타의 사촌인 Kool Rock Steady(쿨 록 스테디)와 Edward Rudolph(에드워드 루돌프)가 보컬을 맡는 힙하우스 트리오.
 
-1993년 하우스 레이블 Strictly Rhythm을 통해 발매된 "Yolanda"는 전 세계적으로 큰 히트를 쳤던 하우스 트랙입니다.
+1993년 하우스 라벨 Strictly Rhythm에서 출시된 「Yolanda」는 세계적 대히트가 된 하우스 트럭.
 
-Side A는 하드하우스 DJ Bad Boy Bill의 믹스곡입니다. B면은 Reel 2 Real이라고도 알려진 Erick Morillo의 리믹스입니다.
+A면은, 하드하우스 DJ Bad Boy Bill에 의한 mix. B면은 Reel 2 Real 명의로도 유명한 Erick Morillo에 의한 remix.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 Bill Side
 A1. Yolanda (Club Mix)
@@ -35,5 +35,5 @@ B3. Yolanda ("More's" Radio Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m44250620277?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ByGaBFNmOhQ?si=xrY8rteb07ulWQjp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

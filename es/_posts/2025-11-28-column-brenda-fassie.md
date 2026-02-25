@@ -150,8 +150,8 @@ Su muerte provocó una profunda conmoción en el mundo de la música sudafricana
 ## Álbumes principales
 
 * Primeros álbumes de la banda.
-* Presidente negro
-*Ahora es tiempo
+*Presidente negro
+* Ahora es el momento
 *Paparazzi
 *Memeza
 * Nomakanjani

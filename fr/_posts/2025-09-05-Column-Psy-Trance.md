@@ -87,7 +87,7 @@ color: #fff;
 | 1 | Réacteur Juno – Transmissions | 1993 | Fusion Ethno + Transe |
 | 2 | Homme sans nom – Téléportation | 1994 | Goa Classique |
 | 3 | Le projet Infinity – Se sentir très bizarre | 1994 | Icône de scène Goa |
-| 4 | Doof – Allumons | 1994 | Riff psychédélique |
+| 4 | Doof – Allumons | 1994 | Riff Psychédélique |
 | 5 | Total Eclipse – Le Lotus Bleu | 1994 | Représentant psychédélique français |
 | 6 | Etnica – Voyage Tonite | 1994 | Synthé multicouche |
 | 7 | Sœurs Vertes de la Révolution – Conflit | 1994 | Énergique |
@@ -210,7 +210,7 @@ color: #fff;
 ---
 
 ### Vers le futur des psychédéliques
-La Psy-Trance est née de l'intersection de la culture hippie et de la technologie, s'est diversifiée sous de nombreuses formes différentes après son âge d'or dans les années 90 et continue de dominer les festivals à travers le monde. Suivre l'évolution du design sonore et les changements d'équipement révèle le dynamisme de son son et la profondeur de sa culture.
+La Psy-Trance est née de l'intersection de la culture hippie et de la technologie, s'est diversifiée sous diverses formes après son âge d'or dans les années 1990 et continue de dominer les festivals à travers le monde. Suivre l'évolution du design sonore et les changements d'équipement révèle le dynamisme de son son et la profondeur de sa culture.
 
 Nous avons commencé avec du matériel analogique, sommes passés par la numérisation et sommes maintenant dans une étape de fusion qui transcende les genres. **La spiritualité gore des années 1990**, **l'explosivité high-tech totale des années 2000**, **le crossover numérique des années 2010** et **l'évolution inter-genres des années 2020**. Chaque époque a créé sa propre esthétique.
 
@@ -220,3 +220,13 @@ Ce qui est commun dans ce flux, c'est « l'expansion de la conscience » et « l
 
 **La Psy-Trance continuera d'être un « mouvement culturel et spirituel », pas seulement un genre musical. **
 Retracer cette histoire n'est pas seulement un enregistrement sonore, mais une partie partagée du « voyage d'expansion de la conscience » de l'humanité.
+
+---
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GI3aHA-weQs?si=aikBPd66aE2W9AFj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

@@ -10,15 +10,15 @@ tags:
 - Techno
 - 10inch
 - Electronic
-title: 비요크(Björk) - 하이퍼발라드(LFO 믹스)
+title: Björk – Hyperballad (LFO Mixes)
 ---
 
 
-LFO는 1995년에 발매된 Björk의 두 번째 앨범의 유명한 노래를 리믹스합니다.
+1995년에 릴리스된 뷔크의 세컨드 앨범에 수록의 명곡을 그 LFO가 리믹스.
 
-실험적인 사운드와 매력적인 두 가지 믹스가 어우러진 일렉트로닉 클래식 음악의 훌륭한 작품입니다.
+익스피리멘탈인 사운드로 매력적인 2 믹스가 수록된 일렉트로닉·클래식의 수작입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Hyperballad (Disco Sync Mix)
 
@@ -28,5 +28,5 @@ B. Hyperballad (The Stomp Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m51141432858?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xENFEImvqnw?si=_VNmmlWtwOibFc7W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

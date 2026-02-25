@@ -9,15 +9,15 @@ permalink: /ko/mark-de-clive-lowe-six-degrees/
 tags:
 - House
 - Latin
-title: 마크 드 클라이브-로우(Mark De Clive-Lowe) – 식스 디그리스
+title: Mark De Clive-Lowe – Six Degrees
 ---
 
 
-Mark De Clive-Lowe는 뉴질랜드 재즈 키보디스트, 음악 프로듀서, 작곡가, 아티스트 및 클럽 DJ입니다.
+Mark De Clive-Lowe(마크 드 클라이브 로우)는 뉴질랜드 출신의 재즈키 보디스트, 음악 프로듀서, 작곡가, 아티스트, 클럽 DJ.
 
-"Six Degrees"는 Universal Jazz가 2000년에 발매한 Marc de Clive Lowe의 세 번째 앨범입니다.
+'Six Degrees'는 Universal Jazz에서 2000년에 발매된 마크 드 클라이브 로우 세 번째 앨범.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Roundtrip
 A2. La Zorra
@@ -38,5 +38,5 @@ D3. El Dîa Perfecto (Reprise)
 
 [メルカリで購入](https://jp.mercari.com/item/m41280420155?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q1GbddYtNVg?si=4eftkyqnuAw4svLO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

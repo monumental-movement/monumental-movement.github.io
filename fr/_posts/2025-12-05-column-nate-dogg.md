@@ -71,7 +71,7 @@ C'est **213 (deux un trois)**.
 Le nom est dérivé de l'indicatif régional de Long Beach, 213, et marque clairement leur identité locale.
 
 Des enregistrements locaux de l'époque montraient déjà que la voix chantée de Nate Dogg se démarquait de celle des rappeurs qui l'entouraient.
-Sa voix avait une ambiance de rue et en chantant la mélodie, il donnait à toute la chanson une agréable sensation de flottement.
+Sa voix avait l'air de la rue, et en chantant la mélodie, il donnait à l'ensemble de la chanson une agréable sensation de flottement.
 Ce style deviendra plus tard le cœur de la culture des performances invitées.
 
 ---
@@ -86,7 +86,7 @@ Sa participation à cette époque était presque comme un début, mais il avait 
 
 ---
 
-## 4. L'impact du «Regulate» : La naissance du hook type G-Funk
+## 4. L’impact du «Regulate» : La naissance du hook type G-Funk
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1plPyJdXKIY?si=rx9XunHS0vwUPsA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -134,7 +134,7 @@ Nate Dogg est très apprécié pour ses apparitions en tant qu'invité, mais il 
 #### ■ « G-Funk Classics, Vol. 1 et 2 » (1998)
 
 Sorti après une longue période de problèmes de production et de transfert d'étiquettes.
-De nombreux artistes de la côte ouest tels que Snoop Dogg, Warren G et Kurupt ont participé, et c'était une œuvre qui montrait les os du G-Funk dans sa forme la plus pure.
+De nombreux artistes de la côte ouest tels que Snoop Dogg, Warren G et Kurupt y ont participé, et c'était une œuvre qui montrait les os du G-Funk dans sa forme la plus pure.
 
 #### ■ « La musique et moi » (2001)
 
@@ -174,7 +174,7 @@ Bien qu'il s'agisse d'un doux son R&B, il est important que la voix de Nate Dogg
 
 ## 8. 213 « À la dure » : Le fruit de l'amitié
 
-213, le trio composé de Snoop, Warren et Nate, a sorti son album studio officiel, The Hard Way, en 2004.
+213, composé de Snoop, Warren et Nate, ont sorti leur album studio officiel, The Hard Way, en 2004.
 L'album a atteint le numéro un sur Billboard et a été le point culminant de la longue amitié et carrière des trois.
 
 ---

@@ -18,7 +18,7 @@ Ultradyne ist ein US-amerikanisches Techno-Musikprojekt von Dennis Richardson un
 
 Ultradyne ist eine Gruppe, die den Sound von Detroit Techno und elektronischer Musik verfolgt, die in den 1990er Jahren aktiv war. Sie enthält zwar energiegeladene und tanzbare Elemente, enthält aber auch abstrakte und experimentelle Elemente und hat von Fans von Techno und elektronischer Musik großes Lob erhalten.
 
-„Unknown Works“ wurde 2002 auf Daz Quayles britischem Electro/IDM-Label SCSI-AV veröffentlicht.
+„Unknown Works“ wurde 2002 auf Daz Quayles britischem Elektro-/IDM-Label SCSI-AV veröffentlicht.
 
 #### Trackliste
 ```md

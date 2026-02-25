@@ -10,17 +10,17 @@ tags:
 - Breakbeat
 - Big Beat
 - 90s
-title: 천재 - 땅의 기름진
+title: Prodigy – The Fat Of The Land
 ---
 
 
-프로디지(Prodigy)는 프로듀서 리암 하울렛(Liam Howlett)이 1990년에 결성한 영국의 일렉트로닉 펑크 록 밴드입니다.
+Prodigy(프로디지)는, 1990년에 프로듀서 Liam Howlett에 의해 결성된 영국의 일렉트로닉·펑크록 밴드.
 
-이 앨범은 1997년 XL Recordings 레이블로 발매된 프로디지의 세 번째 정규 앨범이다. 이 앨범은 세계적인 히트를 기록하며 프로디지의 대표작이 됐다.
-1999년에는 영국에서 가장 많이 팔린 댄스 앨범으로 기네스북에 등재되었습니다.
+이 앨범은 1997년 라벨 XL Recordings에서 발표된 Prodigy의 세 번째 스튜디오 앨범. 이 앨범은 세계적인 대히트가 되어 Prodigy의 대표작이 되었다.
+1999년에는 UK에서 가장 팔린 댄스 앨범으로 기네스 세계 기록에 등록됐다.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Smack My Bitch Up
 2. Breathe
@@ -36,5 +36,5 @@ title: 천재 - 땅의 기름진
 
 [メルカリで購入](https://jp.mercari.com/item/m90593140176?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GP6F0y3eU0Q?si=YQqQxarVY4I3jtjF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -12,18 +12,18 @@ tags:
 - Dub
 - Tribal
 - 00s
-title: 옥시아 - 반사
+title: Oxia – Reflexion
 ---
 
 
-GoodLife의 창립자 중 한 명인 프랑스 DJ이자 프로듀서인 Oxia로도 알려진 Olivier Raymond의 테크노 트랙입니다.
+GoodLife의 창립자 중 한 명, 프랑스 DJ 프로듀서 Oxia (옥시아)와 Olivier Raymond (올리비에 레이몬드)의 테크노 트랙.
 
-Side A의 첫 번째 트랙은 Techno/House 레이블 Character를 운영하는 스위스 DJ이자 프로듀서인 Deetron으로도 알려진 Samuel Geiser의 리믹스입니다.
+A면 1곡째는, 스위스의 DJ·프로듀서이며, Techno/House 라벨 Character를 운영하는 Deetron과 Samuel Geiser에 의한 remix.
 
-B면의 첫 번째 트랙은 프랑스 테크노/일렉트로/멜로딕 테크노 DJ/프로듀서 Kiko와 프랑스 누디스코 레이블 Springbok Records를 운영하는 Stephane Deschezeaux의 리믹스입니다.
-B면의 두 번째 노래는 The Hacker라고도 알려진 프랑스 음악가/DJ Michel Amato의 리믹스입니다.
+B면 1곡째는, 프랑스의 Techno/Electro/Melodic Techno DJ·프로듀서 Kiko와 프렌치 nu disco 라벨 Springbok Records를 운영하는 Stephane Deschezeaux에 의한 remix.
+B면 2곡째는 프랑스 뮤지션 DJ, The Hacker와 Michel Amato의 remix.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Reflexion (Deetron Remix)
 A2. Reflexion (Original Rework)
@@ -34,5 +34,5 @@ B2. TNN (The Hacker (Night Version))
 
 [メルカリで購入](https://jp.mercari.com/item/m31595514609?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G1XVcvBGj88?si=Rvmd7pX56uMJd_lG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

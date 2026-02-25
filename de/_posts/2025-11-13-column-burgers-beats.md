@@ -23,7 +23,7 @@ Text: mmr｜Thema: Zur Entwicklung der Fast-Food-Musik als „Kultur, die man mi
 Die Musik des Hamburgerladens ist kein bloßer Werbesong, sondern ein „Klangporträt der Zeit“.
 Welche Werte die Gesellschaft suchte und in welchem ​​Tempo sie lebte – all das ist in einem 15-sekündigen Jingle und Soundlogo verdichtet.
 
-Der fröhliche Family-Pop von McDonald's, die rebellischen Gitarrenriffs von Burger King und die handgefertigten Ukulele-Sounds von Mos Burger.
+Der fröhliche Family-Pop von McDonald's, die rebellischen Gitarrenriffs von Burger King und die handgefertigte Wärme von Mos Burger auf der Ukulele.
 Dabei handelt es sich nicht um Unternehmenswerbung, sondern um „akustische Erinnerungen an die Zeit“.
 
 ---

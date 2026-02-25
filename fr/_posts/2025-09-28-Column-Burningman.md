@@ -18,7 +18,7 @@ title: '[Chronique] Desert City : histoire, anecdotes et signification moderne 
 
 Texte : mmr｜Thème : Connaître l’histoire de Burning Man, c’est comprendre que c’est plus qu’un simple festival, c’est une « ville du futur et une expérience humaine »
 
-Burning Man est plus qu'un simple festival, c'est un terrain d'essai pour créer en collaboration une Black Rock City. Il a débuté sur les plages de la baie de San Francisco en 1986 et, depuis les années 1990, il a lieu chaque année dans le désert de Black Rock, au Nevada. C'est un lieu où se croisent l'art, le feu, la technologie et une culture du cadeau, recoupant profondément la culture d'entreprise et de startup de la Bay Area.
+Burning Man est plus qu'un simple festival, c'est un terrain d'essai pour créer en collaboration une Black Rock City. Il a débuté sur les plages de la région de la baie de San Francisco en 1986 et, depuis les années 1990, il a lieu chaque année dans le désert de Black Rock, au Nevada. C'est un lieu où se croisent l'art, le feu, la technologie et une culture du cadeau, recoupant profondément la culture d'entreprise et de startup de la Bay Area.
 
 ---
 
@@ -71,7 +71,7 @@ Burning Man attire depuis longtemps les célébrités – entrepreneurs, artiste
 
 ### Anecdote/Légende
 
-Lorsqu'il a été déplacé en 1990, l'interdiction par la police de brûler les plages a constitué un tournant et la décision a été prise de s'installer dans le désert.
+Lorsqu'il a été déplacé en 1990, l'interdiction par la police de brûler les plages a constitué un tournant et la décision a été prise de déménager dans le désert.
 Homme brûlant
 
 Une histoire intéressante selon laquelle les racines de "Google Doodle" sont liées à l'annonce de vacances du fondateur à Burning Man (le carrefour de la culture d'entreprise et des festivals).
@@ -90,7 +90,7 @@ Depuis les années 2000, les « véhicules mutants » géants et les sculpture
 ### Livres connexes
 
 
-| Année | Magazines/Médias | Notes/Relation | Lien |
+| Année | Magazines/Média | Notes/Relation | Lien |
 | ---- : | -------------------------------- | -------------------- | ----------------- |
 |    書籍 | *Burning Man: Art on Fire*（写真集） | 祭りのアートを網羅する定番書  | [Amazon](https://amzn.to/3VFwNge)  |
 |    書籍 | *Once Upon a Time in the Dust*（Roxane Jessi） | グローバルなBurning文化に迫る紀行      |  [Amazon](https://amzn.to/4nv3MQw)              |
@@ -187,7 +187,7 @@ Le prototype de la « célébration de la vie et de la créativité » dont ont 
 
 ---
 
-#### 1998 : Entité nébuleuse
+#### 1998 : Entité nébuleuse
 
 Un thème qui explore l'existence mystérieuse et l'ambiguïté de l'univers et de la conscience. Les œuvres interactives utilisant la lévitation ou la lumière participative se sont démarquées.
 
@@ -197,7 +197,7 @@ Par exemple, il a été rapporté qu'il existe une œuvre intitulée « Flotteu
 
 #### 1999 : La Roue du Temps
 
-Le thème de la roue du temps/circularité. Les pâtés de maisons et les rues ont été rénovés avec des motifs planétaires.
+Le thème de la roue du temps/circularité. The city blocks and streets have been renovated with planet motifs.
 
 ---
 
@@ -393,7 +393,7 @@ Le thème est inconnu et imprévisible, et une composition stimulante est dével
 
 #### 2025 : Demain aujourd'hui
 
-Se concentrer sur le futur proche, les inventions futures et les concepts sociaux. Un art qui incarne "Demain à aujourd'hui", un prototypage et un design qui induit un espace de dialogue futuriste.
+Se concentrer sur le futur proche, les inventions futures et les plans sociaux. Un art qui incarne "Demain à aujourd'hui", un prototypage et un design qui induit un espace de dialogue futuriste.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5yrIwJo-RZ0?si=PF7ug6sEAIFeT2i1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -418,3 +418,12 @@ Le thème, qui change chaque année, et les œuvres d'art à grande échelle fon
 C'est l'essence même de Burning Man : même lorsque les feux de joie du désert s'éteignent, l'esprit continue de brûler l'année suivante et dans notre imagination.
 
 
+---
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BwoyZozIZl0?si=NTMdBDS8H9g8U7HR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

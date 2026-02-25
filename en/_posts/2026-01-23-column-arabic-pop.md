@@ -49,7 +49,7 @@ color: #fff;
 
 In the mid-20th century, Egypt had the largest film industry in the Arab world, and music was an integral part of film. The songs of Umm Kulthum and Abdel Haleem Hafez were widely distributed through movies and radio, creating a star image common to the Arab-speaking world.
 
-The national broadcasting station also played a major role, and music was used as a device for cultural integration. As a result, Arab pop acquired the character of ""regional standard music'' from an early stage.
+The national broadcasting station also played a major role, and music was used as a device for cultural integration. As a result, Arab pop gained the character of ""regional standard music'' from an early stage.
 
 > The concentration of mass media quickly connected Arab pop to a broader market.
 
@@ -59,7 +59,7 @@ The national broadcasting station also played a major role, and music was used a
 
 ### Turning point in the 1990s
 
-In the 1990s, the spread of satellite broadcasting gave rise to cross-border music channels. A Lebanese-based music channel broadcast music videos 24 hours a day, churning out pop stars with visual images.
+In the 1990s, with the spread of satellite broadcasting, cross-border music channels were born. A Lebanese-based music channel broadcast music videos 24 hours a day, churning out pop stars with visual images.
 
 During this period, singers such as Nancy Ajram and Amr Diab gained widespread popularity, and Arab pop was redefined as a pan-Arab market product rather than a single national culture.
 

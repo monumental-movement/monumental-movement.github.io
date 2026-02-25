@@ -11,13 +11,13 @@ tags:
 - Jpop
 - Neo-Classical
 - 00s
-title: 칸노 요코 feat. 마아야 사카모토 – 오후 11시 음악
+title: Yoko Kanno feat. Maaya Sakamoto – 23시 음악
 ---
 
 
-세토 아사카와 요시카와 코지가 주연을 맡은 NHK 드라마 시리즈 "자정은 또 다른 얼굴"의 미니 사운드트랙, 칸노 요코 feat. 사카모토 마아야.
+스가노 요코 feat. 사카모토 마야에 의한 세토 아사카 & 요시카와 아키시 출연의 NHK 연속 드라마 「한밤중은 다른 얼굴」의 미니 사운드 트랙.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Two Things
 2. Here
@@ -37,5 +37,5 @@ title: 칸노 요코 feat. 마아야 사카모토 – 오후 11시 음악
 
 [メルカリで購入](https://jp.mercari.com/item/m40482792919?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/laxii4Q9c6k?si=fl99wAMnkL3s_ZAL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

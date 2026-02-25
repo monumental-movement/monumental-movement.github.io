@@ -12,19 +12,19 @@ tags:
 - Electro
 - Downtempo
 - 00s
-title: Cari Lekebusch – 건축가
+title: Cari Lekebusch – The Architect
 ---
 
 
-Cari Lekebusch는 스웨덴을 대표하는 DJ/프로듀서입니다.
+Cari Lekebusch(카리 레케부시)는 스웨덴을 대표하는 DJ/프로듀서.
 
-A1, 2에 등장하는 Aaron(Aaron Phiri)은 재즈적인 HIPHOP 사운드가 특징인 그룹 Boogaloo의 멤버로 활동했던 뮤지션입니다.
+A1, 2 피쳐하고 있는 Aaron(Aaron Phiri)는, 재지인 HIPHOP 사운드가 특징의 그룹, Boogaloo의 일원으로서 활약한 뮤지션.
 
-B2에 등장하는 크리스터(Krister Linder)는 스웨덴의 일렉트로닉 뮤지션이다.
+B2에서 피처하고 있는 Krister(Krister Linder/크리스터 린더)는 스웨덴의 일렉트로닉 뮤지션.
 
-Techno/Deep House/Electro/Downtempo는 Adam Beyer가 설립하고 스웨덴 스톡홀름에 본사를 둔 음반사인 Truesoul에 의해 2004년에 발매되었습니다.
+아담 베이어에 의해 설립되어 스웨덴 스톡홀름을 거점으로 하는 레코드 라벨 Truesoul에서 2004년에 릴리스된 Techno/Deep House/Electro/Downtempo.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. True Blue (Club Mix) Featuring – Aaron
 A2. Electro Magnetic Featuring – Aaron
@@ -35,5 +35,5 @@ B2. For Her Featuring – Krister
 
 [メルカリで購入](https://jp.mercari.com/item/m68178436589?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FuUwv5RGzPk?si=SHL8UqQGISfxT1WZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

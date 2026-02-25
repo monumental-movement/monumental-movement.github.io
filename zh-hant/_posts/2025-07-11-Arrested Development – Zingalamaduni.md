@@ -13,11 +13,11 @@ title: 發展受阻——Zingalamaduni
 ---
 
 
-Arrested Development 是一個美國非洲中心嘻哈樂隊，由說唱歌手 Speech 和 Headliner 於 1988 年組建。
+Arrested Development 是一個美國非洲中心嘻哈樂隊，由饒舌歌手 Speech 和 Headliner 於 1988 年組成。
 
 標題“Zingalamaduni”在斯瓦希里語中意為“靈魂節（文化存在）”，是 Arrested Development 的第二張專輯，探討了非裔美國人的文化根源、靈性、社會問題和希望。 1997年發行再版/日文版。
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. WMFW (We Must Fight & Win) FM
 2. United Minds
@@ -37,7 +37,7 @@ Arrested Development 是一個美國非洲中心嘻哈樂隊，由說唱歌手 S
 16. Eggbeaters(日本盤のみのボーナストラック)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m29553577670?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m29553577670?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GEmukFkQBTg?si=aP1NoOVfsEtZsUEq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

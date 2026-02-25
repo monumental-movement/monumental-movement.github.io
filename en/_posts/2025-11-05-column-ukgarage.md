@@ -62,7 +62,7 @@ Early UK garages were known as **Speed ​​Garage**. This is a style of Americ
 There is. Speed ​​Garage rocked the club floor with its balance of sub-bass swells and vocal chops.
 
 ### Transition to 2-Step (1998-2000)
-Gradually, the four-on-one kick was omitted, and the swinging beat became dominant.
+次第に4つ打ちのキックが省略され、スウィングするビートが支配的となる。  
 This was the **2-Step Garage**, led by **Artful Dodger**, **MJ Cole**, **Craig David** and others.
 
 - **Artful Dodger feat. Craig David – "Re-Rewind" (1999)**
@@ -120,15 +120,15 @@ From 2001 to 2003, a more aggressive and dark sound emerged in clubs. This becam
 
 ## Chapter 6: Social Background——Multi-layered culture of London, a city of immigrants
 
-UK Garage is music developed mainly by young people of black, Caribbean, and Asian descent.
+UKガラージは**黒人系・カリブ系・アジア系の若者**が中心となって育てた音楽であり、  
 It is this diversity that creates the ""fluctuation'' of the rhythm.
 
 - **Afro-Caribbean rhythm** (derived from jungle and reggae)
 - **American R&B melody**
-- **The DIY spirit of British cities**
+- **The DIY spirit of urban Britain**
 
 This intersection formed the UK's unique sonic identity.
-The UKG party was also a common space that transcended class and race, and served as a means of positive expression for young people in response to the social unrest at the time (riots, unemployment, policies under the Blair government).
+The UKG party was also a common space that transcended class and race, and served as a positive means of expression for young people in response to the social unrest at the time (riots, unemployment, policies under the Blair government).
 
 ---
 

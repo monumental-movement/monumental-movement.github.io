@@ -9,15 +9,15 @@ permalink: /ko/nao-tokui-rotation/
 tags:
 - Techno
 - Minimal
-title: 토쿠이 나오 - 로테이션
+title: Nao Tokui – Rotation
 ---
 
 
-2004년에 발매된 이 앨범에는 4개의 최소 트랙이 포함되어 있습니다.
+2004년의 릴리스로 미니멀한 4트랙을 수록.
 
-"Rotation"을 포함한 Nao Tokui의 노래는 일렉트로닉 음악 팬들의 관심을 끌며 그의 음악적 재능을 인정받고 있습니다.
+'로테이션'을 포함한 나오토쿠이의 음악은 일렉트로닉 뮤직 팬들에게 매력적이며 그의 음악적 재능을 인정받고 있다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Rotation
 
@@ -30,5 +30,5 @@ B2. Ms. Cherry
 
 [メルカリで購入](https://jp.mercari.com/item/m61748434887?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rniIh6IOhC4?si=6zjfW_1NDLydCqSQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

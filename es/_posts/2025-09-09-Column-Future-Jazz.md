@@ -36,7 +36,7 @@ Acid Jazz se ha hecho popular principalmente en el Reino Unido, reimaginando el 
 
 - **Características del equipo**
 -Akai MPC60/S1000
--Roland TR-808 / TR-909
+-Roland TR-808/TR-909
 - Principalmente tocadiscos y sampler.
 
 <style type="text/css">
@@ -151,7 +151,7 @@ El Nu-Jazz se fusionó con la electrónica y fortaleció el estilo de escucha.
 | No | Artista | Pista | Comentarios |
 |---|---|---|---|
 | 1 | Nils Petter Molvær | jemer | Fusión de trompeta y electro. |
-| 2 | Orquesta Cinematográfica | Para construir una casa | Hermoso escuchar jazz. |
+| 2 | Orquesta Cinemática | Para construir una casa | Hermoso escuchar jazz. |
 | 3 | Jazzista de Jaga | Todo lo que sé es esta noche | Tiene elementos progresistas. |
 | 4 | Bugge Wesseltoft | Existencia | Electro-jazz con un fuerte sentido de la improvisación. |
 | 5 | Escalpelo | Alto | Sampleo de jazz polaco. |
@@ -159,7 +159,7 @@ El Nu-Jazz se fusionó con la electrónica y fortaleció el estilo de escucha.
 | 7 | Sidsel Endresen | Aquí afuera | Jazz vocal experimental. |
 | 8 | Orquesta Oculta | Pasos | Cinemático y profundo. |
 | 9 | Cuarteto Pórtico | Hasta las rodillas en el Mar del Norte | Una fusión de hang drums y jazz. |
-| 10 | Orquesta Cinematográfica | Respirar | Un track delicado y profundo. |
+| 10 | Orquesta Cinemática | Respirar | Un track delicado y profundo. |
 
 ---
 
@@ -213,7 +213,7 @@ En la era del streaming y la IA, Future Jazz ha sido reevaluado y se ha cruzado 
 | No | Artista | Pista | Comentarios |
 |---|---|---|---|
 | 1 | Niebla Alfa | Sigue adelante | Melancolía del futuro jazz. |
-| 2 | Kamaal Williams | Espera | Una canción representativa del jazz contemporáneo de Londres. |
+| 2 | Kamaal Williams | Espera | Una pieza representativa del jazz contemporáneo de Londres. |
 | 3 | Shabaka Hutchings | Ajetreo | Espiritual y poderoso. |
 | 4 | Nubia García | ritmo | Destaca el saxofón. |
 | 5 | Latidos de laboratorio azul | Piña | Una fusión de hip-hop y jazz. |
@@ -229,3 +229,13 @@ En la era del streaming y la IA, Future Jazz ha sido reevaluado y se ha cruzado 
 Future Jazz ha seguido evolucionando como un lugar donde se cruzan la improvisación del jazz tradicional y la innovación electrónica. Comenzó con la cultura de club de los años 90, pasó por Broken Beat y Nu-Jazz, y ahora se está expandiendo hacia una expresión de múltiples capas que también incorpora modularidad e inteligencia artificial.
 
 Como corresponde al nombre "jazz futurista", es un género que siempre está a la vanguardia de los tiempos.
+
+---
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BtW4N8sBrSY?si=Yc7my4Dx9xyOLdTD" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---

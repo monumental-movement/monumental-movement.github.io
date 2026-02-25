@@ -9,15 +9,15 @@ permalink: /ko/the-band-rock-of-ages-the-band-in-concert/
 tags:
 - Rock
 - Folk
-title: 더 밴드(The Band) - 락 오브 에이지(Rock Of Ages) 더 밴드 인 콘서트(The Band In Concert)
+title: The Band – Rock Of Ages The Band In Concert
 ---
 
 
-더 밴드(The Band)는 1960년대 후반부터 1970년대 초반까지 활동한 캐나다의 록 밴드입니다.
+The Band(더 밴드)는, 1960년대 후반부터 1970년대 초반에 걸쳐 활약한 캐나다의 록 밴드.
 
-1972년 발매된 라이브 앨범 'Rock Of Ages: The Band In Concert'는 1971년 12월 뉴욕 Academy of Music에서 열린 라이브 콘서트의 음원이다.
+1972년에 발매한 라이브 앨범 「Rock Of Ages: The Band In Concert」는, 1971년 12월에 NY의 아카데미 오브 뮤직에서 행해진 라이브 콘서트의 음원.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Don't Do It
 A2. King Harvest (Has Surely Come)
@@ -43,5 +43,5 @@ D3. (I Don't Want To) Hang Up My Rock And Roll Shoes
 
 [メルカリで購入](https://jp.mercari.com/item/m74070924210?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-c_E-W3yhHY?si=dEbQ2J2BCooYUqXm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

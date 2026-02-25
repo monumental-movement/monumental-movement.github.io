@@ -256,7 +256,7 @@ color: #fff;
 ## Résumé : Du son du moteur à l'art sonore : une vision du futur des voitures et du son
 
 Les voitures étaient autrefois des « machines de transport ». Cependant, c'est désormais un « espace qui embrasse le son » et constitue une extension de la culture.
-L’Allemagne a imprégné le son d’ingénierie de précision, la Grande-Bretagne de tradition et de formalité, l’Amérique de liberté et de puissance et le Japon d’harmonie délicate.
+L’Allemagne a imprégné le son d’ingénierie de précision, l’Angleterre de tradition et de formalité, l’Amérique de liberté et de puissance et le Japon d’harmonie délicate.
 L'audio automobile dans chaque pays est également une cristallisation du sens esthétique et de la philosophie industrielle de cette société.
 
 La « scène silencieuse » de Rolls-Royce est le summum du silence.
@@ -268,7 +268,7 @@ Maintenant que le passage aux véhicules électriques progresse, l'élément sym
 L’acoustique embarquée commence à jouer un nouveau rôle.
 C'est une « salle d'écoute mouvante » et un « univers acoustique personnel ».
 Les fabricants du monde entier ne recherchent plus la puissance ou le silence ;
-**"Quels types de sons pouvez-vous entendre lorsque vous courez ?"** Il s'agit d'une nouvelle valeur d'expérience.
+**"Quels types de sons pouvez-vous entendre en courant ?"** Il s'agit d'une nouvelle valeur d'expérience.
 
 L’audio automobile ne cesse d’évoluer.
 La conception acoustique est corrigée par l'IA et le siège devient une plaque résonante, modifiant le champ sonore en fonction du rythme cardiaque et de l'humeur du conducteur.

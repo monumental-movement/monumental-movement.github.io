@@ -14,11 +14,11 @@ title: Elektrochemie LK – 當我搖滾時
 ---
 
 
-德國技術重量級人物托馬斯·舒馬赫 (Thomas Schumacher) 於 2001 年以 Elektrochemie LK 名義發布了一首技術曲目。
+德國技術重量級人物 Thomas Schumacher 於 2001 年以 Elektrochemie LK 名義發布了一首技術曲目。
 
-《When I Rock》與《Schall!》一起是托馬斯·舒馬赫的傑作之一。
+《When I Rock》與《Schall!》一起是湯瑪斯舒馬克的傑作之一。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. When I Rock (Original Mix)
 
@@ -27,7 +27,7 @@ A2. When I Rock (DJ Rush's Rock Da Beat Remix)
 B1. When I Rock (Santos Remix) 
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m37743482457?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m37743482457?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2tYr7taCzTE?si=wX4h6NziLGd7He8m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

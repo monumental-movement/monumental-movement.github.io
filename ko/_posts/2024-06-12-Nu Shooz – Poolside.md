@@ -11,15 +11,15 @@ tags:
 - Synth-pop
 - Pops
 - 80s
-title: Nu Shooz – 풀사이드
+title: Nu Shooz – Poolside
 ---
 
 
-Nu Shooz는 미국 오리건주 포틀랜드를 기반으로 하는 팝, 라틴, 프리스타일, 일렉트로닉 댄스 음악 듀오로, 남편과 아내 듀오인 John Smith와 Valerie Day가 결성했습니다.
+Nu Shooz(뉴 슈즈)는 미국 오리건주 포틀랜드를 거점으로 활동하는 John Smith(존 스미스)와 Valerie Day(발레리 데이) 부부의 팝, 라틴, 프리스타일, 일렉트로닉 댄스 뮤직 듀오.
 
-1986년 발매된 'Poolside'는 누슈즈의 세 번째 앨범으로 미국음반산업협회와 캐나다음반산업협회로부터 골드 인증을 받은 히트작이다.
+1986년에 릴리스된 「Poolside」는, Nu Shooz의 3번째 앨범으로 미국 레코드 협회＆캐나다 레코드 협회로부터 골드 인정을 받을 정도의 히트가 된 Nu Shooz의 대표작.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Lost Your Number
 A2. I Can't Wait
@@ -34,5 +34,5 @@ B4. Don't You Be Afraid
 
 [メルカリで購入](https://jp.mercari.com/item/m34562630097?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wZAl-mDC6Dw?si=4OEVtXar3cYrqjvt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

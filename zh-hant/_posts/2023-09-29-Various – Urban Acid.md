@@ -14,10 +14,10 @@ title: 各種 – 城市酸
 ---
 
 
-“各種-城市酸”是
-這是英國廠牌“Urban”於1988年發行的一張acid house合輯。
+「各種-城市酸」是
+這是英國廠牌「Urban」於1988年發行的一張acid house合輯。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Perfectly Ordinary People–Theme From P.O.P.
 
@@ -36,7 +36,7 @@ B3. The Candy Man–The Candy Man
 B4. Charm–Walk On The Wild Side
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m11742134680?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m11742134680?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QNGdn1V5vqs?si=mmSav-egFv9CGnaX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

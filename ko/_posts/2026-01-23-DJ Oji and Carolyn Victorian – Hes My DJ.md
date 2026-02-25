@@ -10,16 +10,16 @@ tags:
 - House
 - Deep House
 - 00s
-title: DJ Oji & Carolyn Victorian - He's My DJ
+title: DJ Oji & Carolyn Victorian – He's My DJ
 ---
 
 
 
-DJ Oji는 볼티모어에 거주하는 DJ/프로듀서입니다. 볼티모어에서 활동하는 보컬리스트 Carolyn Victorian과 공동 작곡한 "He's My DJ"는 2004년 이시오카 히사(Hisa Ishioka)의 하우스 레이블 BPM King Street Sounds에서 발매된 하우스/딥 하우스 트랙입니다.
+DJ Oji는 볼티모어를 거점으로 활동하는 DJ/프로듀서. 마찬가지로 볼티모어를 거점으로 하는 보컬리스트 Carolyn Victorian과의 공작 「He's My DJ」는, 2004년에 Hisa Ishioka(히사시오카)의 Houses 라벨 BPM King Street Sounds로부터 릴리스된 House/Deep House 트랙.
 
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. He's My DJ (Sanctuary Spiritual Journey Vocal Mix)
 
@@ -29,5 +29,5 @@ B2. He's My DJ (Red High Beats)
 
 [メルカリで購入](https://jp.mercari.com/item/m85020994285?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uwswVH1Pfbw?si=ByYIID1eIG8WbGTj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

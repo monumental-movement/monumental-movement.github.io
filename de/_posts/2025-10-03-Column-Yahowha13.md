@@ -143,7 +143,7 @@ Nach 1975 löste sich die Band aufgrund des Todes von Pater Yod auf. Laienmusike
 1977 wurden Golden Sunrise (unter dem Namen Fire Water Air) und Yodship Suite (Private Press) veröffentlicht. Es gibt auch eine Zusammenarbeit mit Sky Saxon (ehemals The Seeds) und Gesangsbeteiligung.
 
 
-Seit den 2000er Jahren kam es zu Neuauflagen und Archivnachdrucken, fragmentarischen Neuaufnahmen und Mitgliedertreffen (Sonic Portation von Djin, Sunflower, Octavius ​​etc.).
+Seit den 2000er Jahren kam es zu Neuauflagen und Archivnachdrucken, fragmentarischen Neuaufnahmen und Mitgliedertreffen (wie Sonic Portation von Djin, Sunflower, Octavius ​​etc.).
 
 
 ---
@@ -270,7 +270,7 @@ Punkt: Eine Reihe „kosmischer“ Serien. Akustische Experimente (Schlagzeug, G
 [Ya Ho Wa 13（1974）](https://www.discogs.com/release/5024800-Ya-Ho-Wa-13-Ya-Ho-Wa-13)
 
 
-Punkt: Der Kern der Selbstaufzeichnung. Während der Aufnahmen in Garage begann die Band, eine improvisatorische Struktur zu bilden. Djin (Gitarre) / Sunflower (Bass) / Octavius ​​​​(Schlagzeug) und andere werden benötigt.
+Punkt: Der Kern der Selbstaufzeichnung. Während der Aufnahmen in Garage begann die Band, eine improvisatorische Struktur zu bilden. Djin (Gitarre) / Sunflower (Bass) / Octavius ​​(Schlagzeug) und andere werden benötigt.
 
 
 ---
@@ -319,7 +319,7 @@ Verweise auf das Archetyp „Reise/Reinigung/Elemente (Feuer/Wasser/Luft/Erde)�
 Doktrinäre/rituelle Phrasen (Wörter, die durch redigierte Titelnamen wie „Mann, der Messias“ gekennzeichnet sind) – Wörter, die als Erklärung eines Führers improvisiert und geschichtet sind.
 
 
-Analyse: Anstatt die Texte einfach nur als „Lyrik = Übertragung von Bedeutung“ zu lesen, ist es am nützlichsten, sie wie folgt zu lesen: „(1) Die Klänge selbst sind Rituale / (2) Worte sind suggestive und poetische Auslöser, die ein unmittelbares Gemeinschaftserlebnis erzeugen.“ Mit anderen Worten, die partizipative religiöse Führung durch „Klang/Wiederholung“ ist der Kern des Albums.
+Analyse: Anstatt die Texte einfach nur als „Lyrik = Bedeutungsübertragung“ zu lesen, ist es am nützlichsten, sie wie folgt zu lesen: „(1) Der Klang selbst ist ein Ritual / (2) Worte sind suggestive und poetische Auslöser, die vor Ort ein Gemeinschaftserlebnis erzeugen.“ Mit anderen Worten: Die partizipative religiöse Führung durch „Klang/Wiederholung“ ist der Kern des Albums.
 
 ---
 
@@ -467,7 +467,7 @@ Der Klang „Ya Ho Wha“ selbst ist ein heiliges Mantra der Quellfamilie, ein A
 
 **Psych-Reissue-Boom der 90er-Jahre**: P.S.F. Records und Captain Trip Records haben Yahooha 13 aktiv eingeführt.
 
-In Magazinen wie Eureka und Eurorock Press wurde es als „Phantom-Kult-Psychedelikum“ beschrieben und japanische Hörer sammeln es eifrig.
+In Magazinen wie „Eureka“ und „Eurorock Press“ wurde es als „Phantomkult-Psychedelikum“ beschrieben und japanische Hörer sammeln es eifrig.
 
 **Bewertungstendenzen**: In Japan wird es als „ketzerisch“ und „esoterisch-psychedelisch“ geliebt und ist in importierten Plattenläden (Disc Union, Melon, Manhattan Records usw.) zu einem Sammlerstück geworden.
 
@@ -512,7 +512,7 @@ Mitglied Octavius ​​​​bezeugt: „Er ließ uns spielen, aber gleichzeiti
 
 #### Gemeinschaftsleben und Musik
 
-Die Source-Familie lebte zusammen in einer Hollywood-Villa namens The Father House, wo sie täglich Meditation, Vegetarismus, Yoga und Gruppenaktivitäten praktizierte.
+Die Source-Familie lebte zusammen in einem Hollywood-Herrenhaus namens The Father House, wo sie täglich Meditation, Vegetarismus, Yoga und Gruppenaktivitäten praktizierte.
 
 Musik machen war eine „Verlängerung des Alltagslebens“ und sein Wohnzimmer und Keller wurden zu seinem Studio.
 
@@ -548,7 +548,7 @@ Die Musik von Yahowha 13 ist kein „Lied“, sondern eine „Aufzeichnung des G
 
 Die Texte hatten eher eine mantraartige Kraft als eine Bedeutung.
 
-Pater Yod ist kein Künstler, sondern ein „spiritueller Dirigent“.
+Pater Yod ist kein Performer, sondern ein „spiritueller Dirigent“.
 
 Auch nach seinem Tod lebt seine Musik als „spirituelles Erbe“ weiter.
 

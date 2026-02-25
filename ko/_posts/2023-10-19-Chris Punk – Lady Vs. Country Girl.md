@@ -9,13 +9,13 @@ permalink: /ko/chris-punk-lady-vs-country-girl/
 tags:
 - House
 - Remix
-title: 크리스 펑크 – Lady Vs. 시골 소녀
+title: Chris Punk – Lady Vs. Country Girl
 ---
 
 
-수많은 클럽 히트곡을 리믹스한 Chris Punk의 Primal Scream의 "Country Girl"과 Modjo의 "Lady (Hear Me Tonight)"를 하우스 리믹스한 곡입니다.
+수많은 클럽 히트곡을 remix 하고 있는 Chris Punk(크리스·펑크)에 의한, Primal Scream(프라이멀·스크림) “Country Girl”과 Modjo(모조) “Lady (Hear Me Tonight)”의 하우스 remix.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Chris Punk Vs. Untamed Society–Country Girl
 

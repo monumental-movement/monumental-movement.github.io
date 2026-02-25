@@ -28,7 +28,7 @@ Als diese Musik Ende der 1990er Jahre aufkam, schien der Rock seine vielen Forme
 
 Explosionen am Himmel und viel Glück! Black Emperor sind in diesem Zusammenhang ikonisch. Ersteres nähert sich persönlichen Erlebnissen durch Melodien und gesteigerte Emotionen, während letzteres soziale und kollektive Zeit in Form von Klängen einprägt. Während beide Künstler gleichzeitig aktiv waren, demonstrierten sie die Breite und Tiefe des Post-Rock-Rahmens.
 
-> Post-Rock-Instrumentalstücke bieten dem Zuhörer die Möglichkeit zu sprechen und nicht die Musik.
+> Post-Rock-Instrumentalstücke bieten dem Hörer die Möglichkeit, mit dem Sprechen zu beginnen, statt dass die Musik spricht.
 
 ---
 
@@ -102,11 +102,11 @@ Der Grund, warum ihre Musik in so vielen Videoproduktionen verwendet wurde, lieg
 
 Viel Glück! Black Emperor ist ein Musikkollektiv, das Ende der 1990er Jahre in Montreal gegründet wurde. Es hat den starken Charakter eines fließenden Kollektivs und nicht einer festen Zusammensetzung und zeichnet sich durch eine große Komposition aus, die mehrere Gitarren, Bässe, Trommeln, Streichinstrumente und Feldaufnahmen verwendet.
 
-Ihre Arbeit weicht stark vom Rahmen eines typischen Rockalbums ab. Das Stück ist lang und mehrsätzig aufgebaut, es wechselt zwischen Stille und Lärm, Melodie und Chaos. Es gibt oft keine klaren Anknüpfungspunkte oder Lösungen, was vom Zuhörer Geduld und Konzentration erfordert.
+Ihre Arbeit weicht stark vom Rahmen eines typischen Rockalbums ab. Das Stück ist lang und mehrsätzig aufgebaut, es wechselt zwischen Stille und Lärm, Melodie und Chaos. Den Liedern fehlt oft ein klarer Refrain oder eine klare Auflösung, was vom Hörer Geduld und Konzentration erfordert.
 
 Was für ein Glück! „Black Emperor“ war ein Versuch, gesellschaftliche und historische Zeit eher in Tönen als in persönlichen Gefühlen festzuhalten. Die Geräusche, Ankündigungen und fragmentierten Erzählungen der Stadt rufen ein kollektives Gefühl von Angst und Spannung hervor, anstatt eine bestimmte Botschaft zu manifestieren.
 
-> Viel Glück! Black Emperor machte den Post-Rock zu einem Archiv des gesellschaftlichen Gedächtnisses.
+> Viel Glück! Black Emperor machte Post-Rock zu einem Archiv des gesellschaftlichen Gedächtnisses.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iSLgaQ25fVY?si=DvDFlcpP6hvJHL1l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -161,7 +161,7 @@ Dieser Trend stellt keinen abrupten Bruch dar, sondern kann als Kontinuum versta
 
 Derzeit haben sich Post-Rock-Instrumental- und Cinematic-Rock eher als Ausdrucksmethoden denn als spezifische Genrebezeichnungen etabliert. Auf seine Struktur wird weiterhin in verschiedenen Kontexten wie Videos, Spielen und Installationen verwiesen.
 
-Zwei Richtungen, die von Explosions in the Sky und Godspeed You! Black Emperor dienen immer noch als kreative Bezugspunkte. Musik ohne Worte stellt weiterhin eine Verbindung zu den eigenen Erfahrungen des Hörers her und überschreitet Epochen und Kulturen.
+Zwei Richtungen, die von Explosions in the Sky und Godspeed You! Black Emperor dienen immer noch als kreative Bezugspunkte. Musik, die keine Worte hat, verbindet sich weiterhin mit den eigenen Erfahrungen des Hörers und überschreitet Epochen und Kulturen.
 
 > Post-Rock-Instrumentalmusik wird durch Stille und Zeit weiterhin neue Geschichten schaffen.
 

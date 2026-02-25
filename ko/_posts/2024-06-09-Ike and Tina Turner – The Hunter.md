@@ -12,15 +12,15 @@ tags:
 - Blues
 - 70s
 - Rare
-title: 아이크 & 티나 터너 - 헌터
+title: Ike & Tina Turner – The Hunter
 ---
 
 
-아이크 & 티나 터너(Ike & Tina Turner)는 1960년대와 1970년대에 활동한 미국의 R&B/소울 듀오였습니다. 그는 록, 소울, 블루스, 펑크, 펑크 록 등 다양한 음악 스타일을 작업해 왔습니다.
+Ike & Tina Turner(아이크&티나 터너)는 1960년대부터 1970년대에 걸쳐 활약한 US의 R&B 서울 듀오. 록, 서울, 블루스, 펑크, 펑크록 등 폭넓은 음악 스타일을 다뤘다.
 
-1969년에 발매된 앨범 'The Hunter'는 일렉트릭 블루스 기타리스트 앨버트 콜린스가 참여한 가장 블루스 지향적인 앨범 중 하나입니다. 타이틀곡 'The Hunter'는 앨버트 킹(Albert King)의 커버곡이다. 이 노래로 Tina Turner는 제12회 그래미 어워드 최우수 R&B 여성 보컬 퍼포먼스 부문에서 첫 솔로 후보로 지명되었습니다.
+1969년에 발표한 앨범 'The Hunter'는 일렉트릭 블루스 기타리스트 Albert Collins(앨버트 콜린스)를 피처한 가장 블루스 지향의 강한 앨범 중 하나. 타이틀곡 「The Hunter」는 Albert King(앨버트 킹)의 커버. 이 곡으로 Tina Turner는 제12회 그래미상에서 최우수 R&B 여성 보컬 퍼포먼스 부문에 솔로로서 처음으로 노미네이트되었다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. The Hunter
 A2. You Don't Love Me
@@ -36,5 +36,5 @@ B5. I Know
 
 [メルカリで購入](https://jp.mercari.com/item/m74775936119?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r0F5ypDEbuc?si=VThOXDu2r5MxR2zB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

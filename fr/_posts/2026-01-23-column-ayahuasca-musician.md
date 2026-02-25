@@ -45,20 +45,6 @@ color: #fff;
 }
 </style>
 
-J'ai compris.
-Ce qui suit est le projet de colonne finale pour la soumission de Jekyll, intégrant pleinement toutes les corrections et ajouts finalisés jusqu'à présent.
-
-* Abstraction du titre : réfléchi
-* Force idéologique de la première phrase d'ouverture : déjà reflétée
-* Yamazuka Ai : **révisé à la fin des années 1990**
-* Luciano : **Ajustement de la taille des grains vers 2003–2005**
-* Shpongle : granularité ajustée au **début 1997-1998**
-* Chapitre « Expériences racontées/Artistes silencieux » : ajouté
-* Chapitre « Utilisation abusive, mythologisation et distorsion à l'ère SNS » : ajouté
-* Chapitre sur la structuration du résumé de l'énoncé Luciano/Shpongle : ajouté
-* Exigences/interdictions de format : Toutes doivent être respectées.
-
-
 
 ## Chapitre 1 : Le premier point de contact entre les musiciens et l'ayahuasca
 

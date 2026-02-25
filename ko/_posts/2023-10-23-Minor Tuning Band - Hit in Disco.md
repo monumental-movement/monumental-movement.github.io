@@ -11,13 +11,13 @@ tags:
 - JPop
 - Soul
 - 7inch
-title: 마이너 튜닝 밴드 - Hit in Disco
+title: Minor Tuning Band - Hit in Disco
 ---
 
 
-마이너 튜닝 밴드의 disco '76 인기 히트작은 1976년에 발매되었습니다.
+마이너 튜닝 밴드의 가요 히트 인 디스코 '76은 1976 년에 출시되었습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. マイナー・チューニング・バンド–ソウルこれっきりですか
 
@@ -26,5 +26,5 @@ B. マリリン・モンロー・ハズバンド–ピーナッツ
 
 [メルカリで購入](https://jp.mercari.com/item/m64994772893?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-EyXdh_WZ9Y?si=UwO_3_2xlvLQ0a6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -18,7 +18,7 @@ La première chanson de la face B est un remix du DJ et producteur américain Ro
 
 Joy Beltrame est largement reconnue comme l’une des premières innovatrices de la musique dance underground.
 
-Il a commencé à travailler comme DJ comme passe-temps en 1983, alors qu'il avait 12 ans, jouant principalement de l'électro et du hip-hop.
+Il a commencé à travailler comme DJ en 1983, à l'âge de 12 ans, jouant principalement de la musique électro et hip-hop ancienne.
 
 Il s'est tourné vers la house music en 1985, l'année même où la première vague de Chicago house est arrivée à New York, et en 1989, tout en travaillant toujours comme coursier, il a commencé à sortir certains de ses premiers travaux sur plusieurs petites maisons de disques à New York.
 

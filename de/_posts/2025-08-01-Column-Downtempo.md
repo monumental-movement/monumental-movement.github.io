@@ -25,7 +25,7 @@ Text: mmr｜Thema: Chill-out und die Ästhetik des tiefen Rhythmus
 ### Was ist Downtempo?
 „Downtempo“ ist, wie der Name schon sagt, eine Art elektronischer Musik mit langsamem Tempo. Im Allgemeinen liegt das BPM (Tempo) bei etwa 60 bis 110 und zeichnet sich durch entspannende Rhythmen und Klänge aus, die auf das Zuhören und Entspannen abzielen, und nicht durch intensive Beats für Clubs.
 
-Zwischen dem pochenden Herzschlag und der Hektik herrscht plötzlich Stille. Wenn es um Musik geht, ist Downtempo der Moment des tiefen Durchatmens. In der Welt der Clubkultur und der elektronischen Musik ist es ein Musikgenre, das am anderen Ende des Spektrums der schnellen Beats von Techno und House steht, aber nah an den Emotionen des Zuhörers ist und sich in die Stadtnacht einfügt. Das ist Downtempo.
+Zwischen dem pochenden Herzschlag und der Hektik herrscht plötzlich Stille. Wenn es um Musik geht, ist Downtempo der Moment des tiefen Durchatmens. In der Welt der Clubkultur und der elektronischen Musik steht dieses Musikgenre am anderen Ende des Spektrums als schnelle Beats wie Techno und House, aber es ist ein Musikgenre, das nah an den Emotionen des Zuhörers ist und sich in die Stadtnacht einfügt. Das ist Downtempo.
 
 Downtempo entsteht durch die Schnittstelle mehrerer Genres, darunter das schwebende Gefühl von Ambient, die Grooves von Hip-Hop und die organischen Elemente von Jazz und Soul.
 Obwohl es sich oft mit Stilen wie Chillout, Trip Hop und Lounge-Musik überschneidet, wird es auch als allgemeiner Begriff für einen sanften Groove verwendet, der diese Stile umfasst.
@@ -95,7 +95,7 @@ Im Streaming-Zeitalter der 2020er Jahre wird Downtempo als „entspannende Playl
 
 **Während es im Kontext von „Chill“, „Entspannung“ und „Konzentration“ wieder an Aufmerksamkeit gewinnt**, gibt es auf Spotify und YouTube viele Playlists mit den Namen „Lo-Fi“, „Chillhop“ und „Study Beats“, die den Hörern als Downtempo im weitesten Sinne bekannt sind.
 
-Darüber hinaus verschwimmen die Grenzen zwischen Umweltmusik und Ambient-Musik, und Musik entwickelt sich weiter zu einer Musik, die enger auf den psychologischen Zustand und die Lebensszene eines Individuums abgestimmt ist.
+Darüber hinaus verschwimmen die Grenzen zwischen Umweltmusik und Ambient-Musik, und Musik entwickelt sich weiter zu einer Musik, die stärker auf individuelle psychologische Zustände und Lebensszenen ausgerichtet ist.
 
 Künstler wie Bonobo, Tycho, Khruangbin und Japans Pictured Resort und Cuushe sind wichtige Akteure im modernen Downtempo.
 
@@ -112,6 +112,16 @@ Wenn Sie das nächste Mal das Gefühl haben: „Ich möchte die Zeit vergessen u
 
 
 ---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ovpFgRFjRy8?si=ovvp2_KBD9HDzNJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 ### Verwandte Spalten
 

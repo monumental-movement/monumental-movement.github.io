@@ -10,17 +10,17 @@ tags:
 - Italo
 - Disco
 - Rare
-title: 켄 라즐로 – 오늘밤
+title: Ken Laszlo – Tonight
 ---
 
 
-"Ken Laszlo - Tonight"은 이탈리아 이탈로(Italo) 디스코 아티스트 Ken Laszlo가 1985년에 발표한 노래입니다.
+'Ken Laszlo - Tonight'는 이탈리아의 이탈로 디스코 작가 켄 라즈로(Ken Laszlo)의 1985년 릴리즈 곡입니다.
 
-Ken Laszlo는 Italo Disco 운동에서 활동한 예술가였으며 "Tonight"은 그의 걸작 중 하나로 평가됩니다.
+켄 라즈로는 이탈로 디스코 무브먼트에서 활약한 아티스트이며, 'Tonight'는 그의 대표작 중 하나로 여겨지고 있습니다.
 
-'Tonight'은 춤추기 좋은 비트와 캐치한 멜로디, 에너제틱한 보컬이 돋보이는 디스코 팝 곡으로, 세련된 사운드와 캐치한 후렴구가 당시 디스코 씬에서 큰 인기를 끌었던 곡이다.
+'Tonight'는 댄서블한 비트, 캐치한 멜로디, 활기찬 보컬이 특징인 디스코 팝 곡으로 세련된 사운드와 캐치한 리프레인은 당시 디스코 씬으로 인기를 끌었습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Tonight (Factory Team Edit)
 
@@ -33,5 +33,5 @@ B2. Me And You
 
 [メルカリで購入](https://jp.mercari.com/item/m16945300429?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/362IGtdem5Y?si=IrAt7FHbHCsigofz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

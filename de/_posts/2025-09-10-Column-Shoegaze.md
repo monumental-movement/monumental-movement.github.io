@@ -40,7 +40,7 @@ Im Folgenden blicken wir jahrzehntelang auf die Geschichte von Shoegaze zurück 
 - **Effektor**: Big Muff, Boss DD-3 Delay, Electro-Harmonix Memory Man
 - **Verstärker**: Vox AC30, Fender Twin Reverb
 
-### 10 empfohlene Songs (1980er)
+### Empfohlene 10 Songs (1980er)
 
 <style type="text/css">
 
@@ -139,7 +139,7 @@ Manchmal | Immer | JAMC & Hope Sandoval | Die Grenze zwischen Lärm und Pop |
 
 ## 2010er – Neo Shoegaze
 ### Historischer Hintergrund
-- Von der Internet-Generation entdeckt und neue Unterstützung gewonnen.
+- Von der Generation Internet entdeckt und neue Unterstützung gewonnen.
 - Bands der neuen Generation wie DIIV und Nothing entstehen.
 - Fusion mit Dreampop und Chillwave.
 
@@ -205,3 +205,14 @@ Manchmal | Immer | JAMC & Hope Sandoval | Die Grenze zwischen Lärm und Pop |
 
 # Schwanken zwischen einem dröhnenden Klang und einer wunderschönen Melodie
 Shoegaze entstand in den späten 1980er-Jahren, erreichte in den 1990er-Jahren sein goldenes Zeitalter, und obwohl es einst einen Niedergang erlebte, wurde es seit den 2000er-Jahren wiederbelebt. Von den 2010er Jahren bis heute ist seine Musikalität auf der ganzen Welt weiterhin beliebt, auch wenn sie sich diversifiziert und unterteilt hat. Dieses Genre, das zwischen tosenden Klängen und schönen Melodien oszilliert, hat auch heute noch einen starken Einfluss auf die digitale Generation.
+
+---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9jjcA9KJUNM?si=bP5Bi_3AS0jTRBr_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

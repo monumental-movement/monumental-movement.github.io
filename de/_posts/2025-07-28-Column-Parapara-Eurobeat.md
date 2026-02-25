@@ -46,7 +46,7 @@ Diese Struktur passte perfekt zum Parapara-Tanz, der das gleiche Muster wiederho
 
 <hr>
 
-### Was ist Parapara? ──Die Freude an der einheitlichen Wiederholung
+### Was ist Parapara? ──Vergnügen an gleichförmiger Wiederholung
 ● Herkunft von Parapara
 
 - Trat Ende der 1980er Jahre in Diskotheken in Roppongi und Shibuya, Tokio auf (Maharaja, Juliana Tokyo usw.)
@@ -134,8 +134,18 @@ Es war ein perfektes Beispiel für das Phänomen, dass „Musik durch den Körpe
 
 ---
 
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FursnFFzEgM?si=ShzerdYquUp1po3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ### Verwandte Spalten
 
  [【コラム】 頭文字Dとユーロビートの文化的関係](https://monumental-movement.jp/Column-InitialD-Eurobeat)
 
 [【コラム】 頭文字Dと音楽が交差したスピードの記憶](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
+

@@ -15,13 +15,13 @@ title: 音頻活動 – 紅色歸來 I
 
 《Audio Active – Return Of The Red I》是日本音樂團體Audio Active的一張專輯。這張專輯於1999年發行。
 
-《Return Of The Red I》是Audio Active的作品，其音樂融合了配音、雷鬼、電子音樂的元素。他們的音樂採取實驗性和激進的方式，追求獨特的聲音。
+《Return Of The Red I》是Audio Active的作品，音樂融合了配音、雷鬼、電子音樂的元素。他們的音樂採取實驗性和激進的方式，追求獨特的聲音。
 
-“Free The Marijuana” - 一首雷鬼曲目，氛圍輕鬆，聲音迷幻。它邀請聽眾進入平靜的心情。
+「Free The Marijuana」 - 一首雷鬼曲目，氣氛輕鬆，聲音迷幻。它邀請聽眾進入平靜的心情。
 
-“Jah Army” - 一首結合了配音和電子音樂的歌曲，具有沉重的低音和節奏感。它還包含帶有強烈信息的歌詞。
+「Jah Army」 - 一首結合了配音和電子音樂的歌曲，具有沉重的低音和節奏感。它還包含帶有強烈訊息的歌詞。
 
-#### 曲目列表
+#### 曲目表
 ```md
 1.Return Of The Red I
 
@@ -50,7 +50,7 @@ title: 音頻活動 – 紅色歸來 I
 11.3. Untitled
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m49892584045?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m49892584045?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9i5YtgsvHE0?si=TEF29L0Km600uZqr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

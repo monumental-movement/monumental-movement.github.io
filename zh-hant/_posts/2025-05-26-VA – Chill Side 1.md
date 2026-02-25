@@ -9,7 +9,7 @@ permalink: /zh-hant/va-chill-side-1/
 tags:
 - Hiphop
 - 00s
-title: VA – 寒冷面 1
+title: VA – 冷面 1
 ---
 
 
@@ -17,7 +17,7 @@ DJ Taiji、Hard Rock Firm、Madara、Yakomushi、Word Swingaz、802 Flava、DJ F
 
 2碟密紋唱片重新發行
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. DJ Taiji - Intro
 A2. Hard Rock Firm - Hot Shot
@@ -35,7 +35,7 @@ D2. 802 Flava - 犧牲 - Instrumental
 D3. DJ Flesh & Kohei Japan - Funky Flow - Instrumental
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m47805886707?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m47805886707?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GTH4pHF04ao?si=K7jXbuhVLROYeJfS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -24,7 +24,7 @@ title: Récupérez des œuvres ambiantes
 
 Genre : Techno ambiante
 
-Sortie : 2012 (label américain Kimochi)
+Sortie : 2012 (label américain Kimochi)
 
 Format : Limité à 200 albums (Vinyle)
 
@@ -185,7 +185,7 @@ B2. People From The Sun And The Earth (MKL vs. Soy Sos Dark Ambient Mix)
 ### David Donohoe – Nature Morte !
 <a href="https://jp.mercari.com/item/m44618492590?afid=6142608987"><img src="../assets/images/David%20Donohoe%20%E2%80%93%20Nature%20Morte.webp"></a>
 
-Genre : Ambiant/Minimal
+Genre : Ambiant/Minimal
 
 Sortie : 2004 (label Minimise)
 
@@ -219,7 +219,7 @@ Sortie : 1994
 
 Format : 2 disques vinyle
 
-Caractéristiques : L'œuvre de Steve Miller sous un autre nom. Un son profond et relaxant qui mélange différents genres
+Caractéristiques : Le travail de Steve Miller sous un autre nom. Un son profond et relaxant qui mélange différents genres
 
 #### Liste des chansons
 ```md
@@ -256,7 +256,7 @@ D4. The End Game
 <a href="https://jp.mercari.com/item/m99158480308?afid=6142608987"><img src="../assets/images/Deep%20Forest%20%E2%80%93%20Deep%20Forest.webp"></a>
 Genre : Ambient/Downtempo/New Age
 
-Sortie : 1992
+Sortie : 1992
 
 Format : CD
 

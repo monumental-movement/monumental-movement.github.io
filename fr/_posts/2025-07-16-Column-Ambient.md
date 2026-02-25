@@ -168,7 +168,7 @@ Musique d'ambiance pour la relaxation et la méditation.
 
 ### Ambient est un art spatial
 
-La musique d’ambiance n’est pas seulement une musique de fond, mais est également profondément liée aux idées et concepts artistiques suivants.
+La musique d’ambiance n’est pas seulement une musique de fond, elle est également profondément liée aux idées et concepts artistiques suivants.
 
 ** ● Minimalisme et art du temps **
 
@@ -197,7 +197,7 @@ Fortement connecté à la santé mentale/méditation/slow tech moderne.
 
 **ASMR/Méditation/Soulagement du stress** : Également utilisé dans les secteurs de la santé mentale et du bien-être.
 
-La fusion avec l’art NFT et la musique générative est également en cours.
+La fusion avec l'art NFT et la musique générative est également en cours.
 
 
 <hr>
@@ -275,9 +275,20 @@ C'est un son qui transcende le cadre de la musique et entre dans le silence au m
 </table>
 </div>
 
+---
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3aay4XuKsoQ?si=DAZIUgSUApmhtjlJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 ### Colonnes associées
 
 🔗  [【コラム】 アンビエント：「聴く音楽」から「感じる音楽」へII](https://monumental-movement.jp/Column-Ambient2)
+
+
+---
+

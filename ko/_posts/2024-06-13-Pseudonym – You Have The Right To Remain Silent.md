@@ -11,15 +11,15 @@ tags:
 - Euro House
 - Disco
 - 80s
-title: 가명 – 당신은 묵비권을 행사할 권리가 있습니다
+title: Pseudonym – You Have The Right To Remain Silent
 ---
 
 
-프로듀서는 영국의 DJ/프로듀서 Ian Levine과 고에너지 프로듀서 Steven Wagner입니다. Ian Levine은 영국 북부 소울 음악을 현대화했으며 Hi NRG 스타일의 창시자로도 알려져 있습니다.
+프로듀서는 영국 출신의 DJ 프로듀서 Ian Levine(이안 레빈)과 하이에너지의 프로듀서 Steven Wagner. Ian Levine은 UK의 Northern soul music(노던·소울 뮤직)을 현대화해 Hi NRG 스타일의 개발자로도 알려져 있다.
 
-"You Have The Right To Remain Silent"는 1988년 Hi-NRG를 전문으로 하는 Nightmare Records의 하위 레이블인 Saturday Records에서 발매된 에너지 넘치는 유로하우스의 디스코 트랙입니다.
+「You Have The Right To Remain Silent」는, Nightmare Records의 서브 라벨이며, Hi-NRG 전문의 Saturday Records로부터 1988년에 릴리스 된 하이에너지·유로하우스·디스코 트랙.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. You Have The Right To Remain Silent
 
@@ -28,5 +28,5 @@ B. You Have The Right To Remain Silent (Loadsadubvipermix)
 
 [メルカリで購入](https://jp.mercari.com/item/m72664959965?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GkgA62cU_o4?si=iYe-CsLUGhiac7u0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

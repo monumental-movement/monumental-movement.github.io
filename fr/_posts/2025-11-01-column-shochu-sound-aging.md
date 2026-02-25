@@ -48,7 +48,7 @@ color: #fff;
 ## Chapitre 1 : L'origine du shochu à la cassonade Amami
 
 La culture du shochu d'Amami Oshima remonte à la fin de la période Edo.
-Sur cette île, où la culture de la canne à sucre était populaire, est né un alcool distillé unique à base de mélasse de marc : le **shochu à la cassonade**.
+Sur cette île, où la culture de la canne à sucre était populaire, un alcool distillé unique à base de mélasse de marc est né : le **shochu à la cassonade**.
 
 En 1949 (Showa 24), lorsque les îles Amami furent restituées au Japon, une exonération spéciale fut accordée pour le « shochu au sucre brun » tel que défini par l'Agence nationale des impôts.
 Il s'agit du seul standard de shochu qui permet la combinaison de cassonade et de malt de riz, et est devenu un patrimoine culturel exclusif aux îles Amami.
@@ -135,7 +135,7 @@ Aujourd’hui, la maturité sonore s’étend au-delà d’Amami.
 Les expériences progressent avec l'Iki shochu à Nagasaki et le shochu d'orge à Fukuoka.
 Il s’est également répandu dans le monde du vin, du saké et du whisky.
 
-Dans le futur, il viendra peut-être un moment où le vieillissement sera contrôlé par la « conception sonore » générée par l’IA.
+Dans le futur, il viendra peut-être un moment où le vieillissement sera contrôlé par une « conception sonore » générée par l’IA.
 AI compose une chanson vieillissante de shochu,
 Les molécules d'alcool dansent au rythme——
 Ce jour approche.
@@ -145,7 +145,7 @@ Ce jour approche.
 ## Chronologie : Histoire de l'Amami shochu et maturation acoustique
 
 | Années | Événements |
-|------|--------------|
+|------|---------|
 | Années 1600 | Début de la culture de la canne à sucre à Amami |
 | Années 1800 | Début de la production de shochu local à base de cassonade |
 | 1949 | Retour des îles Amami au Japon, approbation spéciale pour le « shochu au sucre brun » |
@@ -179,7 +179,7 @@ Les gens peuvent « entendre » les sons grâce à leur sens du goût.
 Par exemple, on sait que l’amertume est perçue comme plus faible dans un espace où sont joués des sons doux.
 En d’autres termes, le son et le goût sont connectés dans le cerveau.
 
-Le fait d'écouter le son de l'Amami shochu est
+L'acte d'écouter le son de l'Amami shochu est
 Ce n’est pas seulement une question de science, c’est aussi la réunification des humains et de la nature.
 Le bruit du vent, le bruit des vagues, le bruit du chant et le bruit de la fermentation.
 Ils deviennent une seule harmonie,
@@ -307,7 +307,7 @@ J'écoute cette mélodie.
 
 Le temps et le son affinent lentement le goût.
 « Maturité du son » créée par le climat d'Amami et la sagesse humaine——
-C'est un autre type de musique joué par l'île.
+C'est un autre type de musique jouée par l'île.
 
 ---
 

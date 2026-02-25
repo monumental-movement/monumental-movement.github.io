@@ -87,7 +87,7 @@ flowchart TD
     A["Grabación directa de guitarra"] --> B["Procesamiento de distorsión"]
     B --> C["Grabación improvisada de saxo"]
     C --> D["Grabación de la toma 1 de compás impar de batería"]
-    D --> E["Mezcla general (Lo-Fi)"]
+    D --> E["Mezcla completa (Lo-Fi)"]
 
 ---
 
@@ -203,7 +203,7 @@ flowchart TD
     A["Grabación directa de guitarra"] --> B["Procesamiento de distorsión"]
     B --> C["Grabación improvisada de saxo"]
     C --> D["Grabación de la toma 1 de compás impar de batería"]
-    D --> E["Mezcla general (Lo-Fi)"]
+    D --> E["Mezcla completa (Lo-Fi)"]
 
 ---
 

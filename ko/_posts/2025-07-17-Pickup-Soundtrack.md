@@ -8,22 +8,22 @@ layout: post
 permalink: /ko/pickup-soundtrack/
 tags:
 - Soundtrack
-title: 사운드트랙 작품 픽업
+title: 사운드 트랙 작품을 픽업
 ---
 
 
-'소리를 통해 이야기의 감정을 엮고 시각적 경험을 새로운 차원으로 끌어올리는 놀라운 사운드트랙 작품 모음입니다.''
+「이야기의 정감을 소리로 되살려 영상 체험을 새로운 차원으로 끌어올리는 주목할만한 사운드트랙 작품군」
 
 <hr>
 
-### Jerry Goldsmith – 블루 패치
+### Jerry Goldsmith – A Patch Of Blue
 <a href="https://jp.mercari.com/item/m39224661224?afid=6142608987"><img src="../assets/images/Jerry%20Goldsmith%20%E2%80%93%20A%20Patch%20Of%20Blue.webp"></a>
 
-형식: 비닐
+형식: vinyl
 
-작품: 1965년 영화 'A Patch of Blue'의 사운드트랙. 1978년 재발행.
+작품: 1965년 공개 영화 '언젠가 본 푸른 하늘'(A Patch of Blue)의 사운드 트랙. 1978년 재발반.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Main Title
 A2. A Favour For Selina
@@ -51,20 +51,20 @@ B9. Goodbye Selina
 [メルカリで購入](https://jp.mercari.com/item/m39224661224?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5VQ4INxJSog?si=ZcAJ1_q_vtblxgJX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
 
 
-### VA – 탱크　소녀
+### VA – Tank Girl
 <a href="https://jp.mercari.com/item/m36900627106?afid=6142608987"><img src="../assets/images/VA%20%E2%80%93%20Tank%20Girl.webp"></a>
 
 형식: CD
 
-작품: 1995년 SF 영화 '탱크 걸(Tank Girl)'의 사운드트랙. Courtney Love 편집, SPK Graeme Revell 작곡.
+작품：1995년 공개의 SF영화 『Tank Girl』의 사운드트랙. Courtney Love 편찬, 오리지널 음악은 SPK의 Graeme Revell.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Stomp - Ripper Sole
 2. Björk - Army Of Me
@@ -84,18 +84,18 @@ B9. Goodbye Selina
 [メルカリで購入](https://jp.mercari.com/item/m36900627106?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BHRTf5Cz8as?si=Owwzh4Wy6w93LehZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-### 아담 클레이튼 & 래리 멀렌 – 미션 임파서블 테마
+### Adam Clayton & Larry Mullen – Theme From Mission: Impossible
 <a href="https://jp.mercari.com/item/m33330451602?afid=6142608987"><img src="../assets/images/Adam%20Clayton%20&%20Larry%20Mullen%20%E2%80%93%20Theme%20From%20Mission%20Impossible.webp"></a>
 
-형식: 카세트
+형식: Cassette
 
-작품 : 1996년 발매된 Cassette. 영화 '미션 임파서블'의 주제곡이 수록되어 있다.
+작품 : 1996년 릴리스, 영화 '미션 : 임포시블'의 테마곡을 수록한 카세트.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Theme From Mission: Impossible
 A2. Mission: Impossible Theme (Mission Accomplished)
@@ -107,18 +107,18 @@ B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 [メルカリで購入](https://jp.mercari.com/item/m33330451602?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1sibRQh_Ry0?si=uYrL9uW6B0nx9GjJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-### 엔니오 모리꼬네 - 누오보 시네마 파라디소
+### Ennio Morricone – Nuovo Cinema Paradiso
 <a href="https://jp.mercari.com/item/m12330738876?afid=6142608987"><img src="../assets/images/Ennio%20Morricone%20%E2%80%93%20%20Nuovo%20Cinema%20Paradiso%20(Musica%20Originale%20Del%20Film).webp"></a>
 
 형식: CD
 
-작품: 1989년 고전 영화 '뉴 시네마 파라다이스'의 사운드트랙.
+작품 : 1989 년의 명작 영화 "뉴 시네마 파라다이스"의 사운드 트랙.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Nuovo Cinema Paradiso
 2. Maturita
@@ -142,11 +142,11 @@ B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 [メルカリで購入](https://jp.mercari.com/item/m12330738876?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qMgTCtSxOHE?si=9YjFz0Zd7nVwja81" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-### 목록
+### List
 
 <div class="table-border">
 <table>

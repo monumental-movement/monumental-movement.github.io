@@ -17,7 +17,7 @@ title: Soirée dansante cajun – La vie colorée
 
 Cajun Dance Party est un groupe de rock composé de cinq musiciens originaire de Londres, en Angleterre.
 
-Leur premier album, « The Colorful Life », sorti sur le label XL Recordings en 2008, a été produit par Bernard Butler du groupe de rock britannique Suede.
+Leur premier album « The Colorful Life », sorti sur le label XL Recordings en 2008, a été produit par Bernard Butler du groupe de rock britannique Suede.
 Après la sortie de cet album, ils se sont produits dans divers festivals à travers le monde, notamment Reading et Leeds, Glastonbury, Oxegen et Summer Sonic.
 
 #### Liste des chansons

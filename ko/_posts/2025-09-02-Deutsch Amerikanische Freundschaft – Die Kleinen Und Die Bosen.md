@@ -13,11 +13,11 @@ title: Deutsch Amerikanische Freundschaft – Die Kleinen Und Die Bösen
 ---
 
 
-DAF는 1978년 독일 뒤셀도르프에서 결성된 일렉트로펑크/뉴 도이체 ​​벨레 밴드입니다. EBM, NDW, 하우스, 테크노, NDH의 선구자로 알려져 있습니다.
+DAF는 1978년 독일 뒤셀도르프에서 결성된 일렉트로펑크/노이에 도이체 베레 밴드. EBM, NDW, 하우스, 테크노, NDH의 선구자로 알려져 있습니다.
 
-이 음반은 1980년 Mute Records가 발매한 DAF의 두 번째 음반이다.
+이 레코드는 1980년에 Mute Records에서 발표된 DAF의 두 번째 앨범.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Osten Währt Am Längsten
 A2. Essen Dann Schlafen
@@ -43,5 +43,5 @@ B12. Y La Gracia
 
 [メルカリで購入](https://jp.mercari.com/item/m13146696655?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8_nyMRQKJ9Q?si=vzj01jOqYgcLzU7L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

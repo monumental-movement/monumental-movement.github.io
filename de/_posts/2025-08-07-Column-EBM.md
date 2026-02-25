@@ -34,7 +34,7 @@ Als Pioniere gelten insbesondere die folgenden zwei Gruppen:
 
 - [**DAF**](https://amzn.to/4ogYOH1)（Deutsch Amerikanische Freundschaft、ドイツ）
 
-Durch den vollen Einsatz kalter, scharfer Elektronik, heftiger Minimalbeats und militaristischer Vocals schufen sie eine neue Art „physischer elektronischer Musik“, die sich von herkömmlichem Pop und Rock unterscheidet.
+Indem sie kalte, scharfe Elektronik, gewalttätige Minimalbeats und militaristische Vocals voll ausnutzten, schufen sie eine neue Art „physischer elektronischer Musik“, die sich von herkömmlichem Pop und Rock unterscheidet.
 
 
 <hr>
@@ -210,5 +210,15 @@ Wie der Name schon sagt, handelt es sich bei EBM um „elektronische Körpermusi
 Derzeit breitet sich der Einfluss von EBM auf viele Bereiche aus, von Clubkultur und Festivals bis hin zur DIY-Szene, Kunst und Mode.
 
 Und vor allem——
-Die „Wärme“, die in diesem anorganischen Rhythmus steckt, bewegt den Körper.
+Die „Wärme“, die diesem anorganischen Rhythmus innewohnt, bewegt den Körper.
 Das ist der wesentliche Reiz von EBM.
+
+---
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hylMPb5iS7M?si=35mFJOgSczFpbhYp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

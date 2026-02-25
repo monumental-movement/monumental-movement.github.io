@@ -10,15 +10,15 @@ tags:
 - Progressive House
 - House
 - 00s
-title: DJ 데로 – 더 호른 2000
+title: DJ Dero – The Horn 2000
 ---
 
 
-DJ Dero는 아르헨티나 출신의 프로듀서이자 DJ입니다.
+DJ Dero(DJ데로)는 아르헨티나 출신의 프로듀서&DJ.
 
-"The Horn 2000"은 일렉트로닉 댄스 음악과 댄스 팝을 전문으로 하는 아르헨티나 레이블인 Oid Mortales Records가 2000년에 발표한 프로그레시브 하우스 트랙입니다.
+'The Horn 2000'은 일렉트로닉 댄스 뮤직과 댄스 팝에 특화된 아르헨티나의 라벨 Oid Mortales Records에서 2000년에 발표된 프로그레시브 하우스 트랙.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. The Horn 2000 (It's Party Time Mix)
 A2. The Horn 2000 (Live In The Mix)
@@ -29,5 +29,5 @@ B2. Euphoria (What Time Is It?)
 
 [メルカリで購入](https://jp.mercari.com/item/m47009934886?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Buu8GHSCMhs?si=gVV8UXrV2pFLutL8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

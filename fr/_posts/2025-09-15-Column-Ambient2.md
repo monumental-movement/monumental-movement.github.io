@@ -30,7 +30,7 @@ Ce genre est une musique extrêmement philosophique qui se situe à la frontièr
 ## ■ Avant les années 1960 : la musique d'ambiance comme idée
 
 ### Origine sociale
-Après la Seconde Guerre mondiale, avec l'accélération de l'urbanisation et de l'industrialisation, les milieux de vie ont pris une conscience aiguë du contraste entre « bruit » et « silence ». Les artistes et les compositeurs ont commencé à essayer de repenser la musique comme un « environnement » plutôt que comme un « divertissement ».
+Après la Seconde Guerre mondiale, avec l'accélération de l'urbanisation et de l'industrialisation, les milieux de vie des gens ont pris une conscience aiguë du contraste entre « bruit » et « silence ». Les artistes et les compositeurs ont commencé à essayer de repenser la musique comme un « environnement » plutôt que comme un « divertissement ».
 
 ### Tendances représentatives
 - [**エリック・サティ**：「家具の音楽」(Musique d’ameublement)](https://amzn.to/42JssfB) により、音楽を積極的に聴くものではなく空間を構成する“機能”と位置付けた。  
@@ -101,7 +101,7 @@ Mondialisation et explosion de la culture techno/rave après la fin de la guerre
 - Enregistrement en direct avec bande DAT
 
 ### Caractéristiques
-L'essor de la house ambiante et de la techno ambiante. Il fonctionne comme une musique qui soutient les « coulisses » de la culture club. La zone où les sons et les battements environnementaux se croisent est explorée.
+L’essor de la house ambiante et de la techno ambiante. Il fonctionne comme une musique qui soutient les « coulisses » de la culture club. La zone où les sons et les battements environnementaux se croisent est explorée.
 
 ---
 
@@ -256,7 +256,7 @@ color: #fff;
 | années 1960 | Synthétiseur modulaire Moog | Le premier synthétiseur modulaire disponible dans le commerce au monde. Utilisé pour générer des sons soutenus et des drones. |
 | années 1970 | EMS VCS3 / Synthi A | Utilisé par Brian Eno et d'autres. Traitement du son compact mais polyvalent. |
 | années 1970 | Magnétophone Revox | Traitement du son ambiant avec boucle de bande et système flipback. |
-| années 1980 | YamahaDX7 | Son transparent de la source sonore FM. Un symbole de l'ambiance des années 80. |
+| années 1980 | YamahaDX7 | Son transparent provenant d'une source sonore FM. Un symbole de l'ambiance des années 80. |
 | années 1980 | Roland Juno-60 | Ton de corde chaud adapté à l'espace méditatif. |
 | années 1980 | Fairlight CMI | Échantillonneur coûteux. Introduire des sons naturels et des effets sonores dans la musique ambiante. |
 | années 1990 | Akai S1000/S3000 | Un échantillonneur classique prenant en charge la musique ambiante de club. |

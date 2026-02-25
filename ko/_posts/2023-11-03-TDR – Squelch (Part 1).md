@@ -9,15 +9,15 @@ permalink: /ko/tdr-squelch-part-1/
 tags:
 - Trance
 - Tech House
-title: TDR – 스퀠치(1부)
+title: TDR – Squelch (Part 1)
 ---
 
 
-Tom De Ridder Tom De Ridder의 "Squelch (Part 1)"는 네덜란드 테크/프로그레시브 하우스/트랜스 레이블 Oxygen Recordings에서 2005년에 발매한 트랜스/테크 하우스 트랙입니다.
+Tom De Ridder 톰 데 리더의 "Squelch (Part 1)"는 네덜란드의 테크 프로그레시브 하우스 트랜스 라벨 Oxygen Recordings에서 2005 년에 발표 된 트랜스 테크 하우스 트랙.
 
-A면의 첫 번째 트랙은 Sia, The Killers, Swedish House Mafia, Depeche Mode 등의 밴드를 리믹스한 네덜란드 DJ 겸 프로듀서 Sander Van Doorn의 리믹스입니다.
+A면 1곡째는, 시어, 더 킬러스, 스웨디시 하우스 마피아, 디페쉬 모드 등의 remix를 다루는 네덜란드의 DJ/프로듀서 Sander Van Doorn(썬더·밴·돈)에 의한 remix.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Squelch (Sander Van Doorn Remix)
 
@@ -26,5 +26,5 @@ AA. Squelch (Original Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m69773551122?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EIhOw57FO0Y?si=AVJiQSzDReSHqh5F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

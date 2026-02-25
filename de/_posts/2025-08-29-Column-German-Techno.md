@@ -83,7 +83,7 @@ Wie das Berliner Berghain und der Tresor symbolisieren, sind Clubraum und Sound 
 
 - Viele repetitive Riffs mit Synthesizern
 
-**Bedeutende Bewegung**: Der Club „Dorian Gray“ in Frankfurt und Underground-Partys in Berlin unterstützen die Szene.
+**Bedeutende Bewegung**: Der Frankfurter Club „Dorian Gray“ und Underground-Partys in Berlin unterstützen die Szene.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9u7x5UQHlqA?si=plSaqk1woQjz_HrY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -175,7 +175,7 @@ Wie das Berliner Berghain und der Tresor symbolisieren, sind Clubraum und Sound 
 
 **Trend**: Während er die für den „deutschen Techno“ der Vergangenheit typische Kälte geerbt hat, hat er sich durch die Hinzufügung von emotionalem Ausdruck und visueller Produktion weiterentwickelt.
 
-Wenn man die Songs nach Jahrzehnten vergleicht, erkennt man einen Zyklus von „Industrie und Kälte → Minimalisierung → Härte → Melodisierung → Reindustrialisierung“**.
+Wenn man die Songs nach Jahrzehnten vergleicht, erkennt man einen Zyklus von „Industriell und kalt → Minimalisierung → Verhärtung → Melodisierung → Reindustrialisierung“**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t6oPQFIWcV0?si=NRKnyUWxI2vIXS1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -187,6 +187,16 @@ Der heutige deutsche Techno hat sich stark weiterentwickelt, von harten, industr
 
 Zusammenfassend lässt sich sagen, dass deutscher Techno sowohl ein kulturelles Produkt der Vergangenheit als auch ein Testfeld für die Zukunft des Sounddesigns ist.
 Seine Werke zu hören und gleichzeitig ihrer Geschichte nachzuspüren, bedeutet nichts anderes, als die Dynamik der Musik zu verstehen, in der Städte und Menschen, Maschinen und Emotionen miteinander verwoben sind.
+
+
+---
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vGhjoN-y5IQ?si=kyE9hG3WPAYoTPS3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ---
 

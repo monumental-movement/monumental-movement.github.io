@@ -16,13 +16,13 @@ title: Erdbeerfeld – Warten Sie Schon Lange?
 ---
 
 
-Erdbeerfeld는 사운드 아티스트 Susanne Feld와 샘플링 아티스트 Sascha Wild가 결성한 듀오입니다.
+Erdbeerfeld(에어트 베어 펠트)는, 사운드 아티스트의 Susanne Feld와 샘플링 아티스트 Sascha Wild에 의한 듀오.
 
-"Warten Sie Schon Lange?" 는 독일 레이블 Hal 9000이 2005년에 발매한 Electro/Synth-pop/Tech House 트랙입니다. 배포는 Kompakt가 담당합니다.
+"Warten Sie Schon Lange?"는 2005년 독일 라벨 Hal 9000에서 출시된 Electro/Synth-pop/Tech House 트랙. 배급은 Kompakt.
 
-A2는 90년대 프랑크푸르트 클럽씬에서 활약한 독일 일렉트로 뮤지션 Hal 9000(Falk Meinunger)과 DJ 겸 프로듀서인 Sylvie Marks가 리믹스한 곡입니다.
+A2는, 독일의 일렉트로 뮤지션으로 90년대의 프랑크푸르트·클럽 씬으로 활약한 Hal 9000(Falk Meinunger)와, DJ/프로듀서 Sylvie Marks에 의한 remix.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Warten Sie Schon Lange?
 A2. Im Schein Sein (Hal 9000 & Sylvie Marks Mix)
@@ -33,5 +33,5 @@ B2. Warten Sie Schon Lange? (Lucius14 Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m92814088766?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XaIh6Owspy4?si=g4lIkOjDCImSbGUx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

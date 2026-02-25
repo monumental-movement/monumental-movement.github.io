@@ -17,7 +17,7 @@ title: 建築師 – 像素化色情之王
 
 《Pixelated Porn King》由 Tuning Spork Records 於 2002 年發行。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Funkin
 
@@ -28,7 +28,7 @@ B1. Yknewk
 B2. Oinan
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m82819897771?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m828198977771?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wiw4kPKatAo?si=F8aqaoZCL-kQuebU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

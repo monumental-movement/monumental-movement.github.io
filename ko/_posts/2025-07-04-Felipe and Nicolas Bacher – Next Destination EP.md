@@ -9,16 +9,16 @@ permalink: /ko/felipe-and-nicolas-bacher-next-destination-ep/
 tags:
 - Techno
 - 00s
-title: 펠리페 & 니콜라스 바허 – Next Destination EP
+title: Felipe & Nicolas Bacher – Next Destination EP
 ---
 
 
-Felipe(Philipp Straub)와 Nicolas Bacher(DJ Dexter)는 비엔나에 거주하는 오스트리아 DJ이자 프로듀서 듀오입니다. 그는 또한 Enzian 및 Titanium이라는 이름으로 작업하고 있으며 Titanium Records 및 Supreme Entertainment 레이블의 창립자입니다.
+Felipe(Philipp Straub) & Nicolas Bacher(DJ Dexter)는 비엔나를 거점으로 활동하는 오스트리아의 DJ&프로듀서 듀오. Enzian과 Titanium 명의에서도 활동하고 있으며, 레이블 Titanium Records와 Supreme Entertainment의 창립자이기도 하다.
 
-"Next Destination EP"는 Ben Long이 설립한 영국 최고의 테크노 레이블 중 하나인 Potential Recordingz에서 2004년에 발매된 테크노 트랙입니다.
-마스터링은 Ø(Phase)입니다.
+Next Destination EP는 Ben Long이 설립한 UK 테크노를 대표하는 라벨 중 하나인 Potential Recordingz에서 2004년 출시된 Techno 트랙.
+마스터링은 Ø(Phase 페이즈).
 
-#### 트랙리스트
+#### Tracklist
 ```md
 Dis Side
 A. Rio Grande
@@ -30,5 +30,5 @@ B2. Maurice Island
 
 [メルカリで購入](https://jp.mercari.com/item/m83389929118?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bYfbNdPRMIQ?si=jo-Tsm4T40DMSG_q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

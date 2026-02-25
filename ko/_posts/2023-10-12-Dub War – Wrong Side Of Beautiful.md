@@ -9,15 +9,15 @@ permalink: /ko/dub-war-wrong-side-of-beautiful/
 tags:
 - Dub
 - Reggae
-title: Dub War – 아름다운 것의 잘못된 면
+title: Dub War – Wrong Side Of Beautiful
 ---
 
 
-더브 워(Dub War)는 헤비메탈, 레게, 펑크, 더빙 등 다양한 음악 스타일을 믹스해 1990년대 활동한 믹스 밴드이다. 파워풀한 록 사운드와 캐치한 멜로디에 레게 리듬과 펑크적 요소가 결합된 밴드 특유의 스타일, 보컬리스트 벤지 웨베의 특유의 가창력과 표현력이 밴드 음악에 강한 인상을 남겼다.
+Dub War(더브 워)는 1990년대에 활동하고 있던 헤비메탈, 레게, 펑크, 더브 등 다양한 음악 스타일을 믹스시킨 믹스처 밴드. 파워풀한 록 사운드와 캐치한 멜로디에, 레게의 리듬과 펑크의 요소를 융합시킨 독자적인 스타일과 보컬의 Benji Webbe의 특징적인 가성과 표현력이, 밴드의 음악에 강한 인상을 주고 있었다.
 
-Wrong Side Of Beautiful은 Dub War의 두 번째 앨범으로 밴드의 가장 널리 알려진 작품 중 하나로 간주됩니다.
+'Wrong Side Of Beautiful'은 Dub War의 두 번째 앨범으로 밴드의 가장 널리 인지된 작품 중 하나로 알려져 있다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Control
 
@@ -50,5 +50,5 @@ B7. Universal Jam
 
 [メルカリで購入](https://jp.mercari.com/item/m79906775059?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YfGd-nXFfVY?si=AsdcXdWTQQSdK_Ud" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -11,13 +11,13 @@ tags:
 - Detroit Techno
 - Tribal
 - 90s
-title: M - 더 많은 드라마
+title: M – More Drama
 ---
 
 
-"'M' – More Drama"는 Jeff Mills가 1992년에 설립한 테크노 레이블 Axis에서 "M"이라는 이름으로 발표한 테크노 트랙입니다.
+"M" – More Drama"는 1992년 Jeff Mills(제프 밀스)가 설립한 테크노 라벨 Axis에서 "M" 명의로 출시한 Jeff Mills의 테크노 트랙.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Scenario
 
@@ -30,5 +30,5 @@ B2. Getaway
 
 [メルカリで購入](https://jp.mercari.com/item/m89297730554?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y4nfv1umHFU?si=PAuZ14GX1UywqvoS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

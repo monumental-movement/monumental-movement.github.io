@@ -9,13 +9,13 @@ permalink: /ko/dmx-krew-showroom-dummies/
 tags:
 - Electro
 - Techno
-title: DMX Krew – 쇼룸 인형
+title: DMX Krew – Showroom Dummies
 ---
 
 
-DMX Krew (Ed Upton) EP는 1998년 독일 레이블 International Deejay Gigolo Records에서 발매되었습니다.
+1998년 독일 라벨 International Deejay Gigolo Records에서 출시된 DMX Krew(Ed Upton/에드 업턴)의 EP.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Showroom Dummies Part I & II Written-By – Schneider, Hütter
 

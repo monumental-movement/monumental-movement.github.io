@@ -22,16 +22,16 @@ title: 挑選 Psy-Trance 作品
 ## Psy-Trance 精選作品
 
 介紹 Monumental-Movement.jp 上列出的推薦 **Psy-Trance** 專輯並附有說明。
-收藏範圍從 90 年代的血腥迷幻傑作到融入現代聲音設計的作品。
+收藏從 90 年代的血腥迷幻傑作到融入現代聲音設計的作品。
 
 ---
 
 ### Shpongle / GMS & 1300 Mics – *The Crystal Skulls EP*
 <a href="https://monumental-movement.jp/Shpongle-GMS-and-1300-Mics-The-Crystal-Skulls-EP/"><img src="../assets/images/Shpongle%20GMS%20&%201300%20Mics%20%E2%80%93%20The%20Crystal%20Skulls%20EP.webp"></a>
 
-- **評論**：Shpongle 的奇幻元素與 GMS 的全面能量的融合。 TIP.World於2001年發布的Psy-Trance的代表作。
+- **評論**：Shpongle 的奇幻元素與 GMS 的全面能量的融合。 TIP.World於2001年發表的Psy-Trance的代表作。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Shpongle – The Sixth Revelation
 
@@ -39,7 +39,7 @@ B. GMS &amp; 1300 Mics – The Fourth Revelation
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m12492463134?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m12492463134?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -56,9 +56,9 @@ B. GMS &amp; 1300 Mics – The Fourth Revelation
 
 - **發布發布日期**：2025-09-05
 
-- **評論**：Gore/Psy-Trance 項目在德國成立。一部回歸根源的作品，聲音讓人想起 90 年代的黃金時代。
+- **評論**：Gore/Psy-Trance 計畫在德國成立。一部回歸根源的作品，聲音讓人想起 90 年代的黃金時代。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Zwork
 A2. Subsonic Overdrive
@@ -80,7 +80,7 @@ F2. Deeper And Deeper
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m32084411022?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m32084411022?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -96,9 +96,9 @@ F2. Deeper And Deeper
 <a href="https://monumental-movement.jp/Psycomex-Mexican-Trance-Compilation-EP4/"><img src="../assets/images/Psycomex%20Mexican%20Trance%20Compilation%20EP4.webp"></a>
 
 
-- **評論**：總結墨西哥恍惚場景的彙編。一部可以讓你享受地域特色和多樣風格的作品。
+- **評論**：總結墨西哥恍惚場景的彙編。一部可以讓你享受地域特色和多元風格的作品。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A  Shove Vs. Barak–Super Marihuano Bross (Teen Sluts Remix)
 
@@ -107,7 +107,7 @@ B2  Teen Sluts–Foust On Doust
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m61208670759?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m61208670759?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -119,13 +119,13 @@ B2  Teen Sluts–Foust On Doust
 
 ---
 
-### 阿卡莎項目 – *永遠*
+### 阿卡莎計畫 – *永遠*
 <a href="https://monumental-movement.jp/Akasha-Project-Always/"><img src="../assets/images/Akasha%20Project%20%E2%80%93%20Always.webp"></a>
  
 
-- **評論**：血腥恍惚和科技風格的融合。這是一首包含環境元素並提供深度沉浸感的實驗曲目。
+- **評論**：血腥恍惚與科技風格的融合。這是一首包含環境元素並提供深度沉浸感的實驗曲目。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. You Got To Love It
 A2. The Flying Field
@@ -135,7 +135,7 @@ B2. Whales 'n' Wave (Edit)
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m14929895714?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m14929895714?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -147,13 +147,13 @@ B2. Whales 'n' Wave (Edit)
 
 ---
 
-### Total Eclipse – *更新文件*
+### Total Eclipse – *更新檔案*
 <a href="https://monumental-movement.jp/Total-Eclipse-Update-Files/"><img src="../assets/images/Total%20Eclipse%20%E2%80%93%20Update%20Files.webp"></a>
 
 
 - **評論**：來自法國的傳奇單位。憑藉其厚重的層次和宏偉的構圖，這張專輯是 Goa Trance 一代的必備專輯。
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. None Of This
 2. Jadran Temple
@@ -168,7 +168,7 @@ B2. Whales 'n' Wave (Edit)
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m19106789178?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m19106789178?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -180,13 +180,13 @@ B2. Whales 'n' Wave (Edit)
 
 ---
 
-### 蒂姆·舒爾特 – *Animatronic EP*
+### 提姆舒爾特 – *Animatronic EP*
 <a href="https://monumental-movement.jp/Tim-Schuldt-Animatronic-EP/"><img src="../assets/images/Tim%20Schuldt%20%E2%80%93%20Animatronic%20EP.webp"></a>
 
 
-- **評論**：來自德國的藝術家。這是一部雄心勃勃的作品，通過巧妙的聲音設計展示了現代 Psy-Trance。
+- **評論**：來自德國的藝術家。這是一部雄心勃勃的作品，透過巧妙的聲音設計展示了現代 Psy-Trance。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Animatronic
 
@@ -194,7 +194,7 @@ AA. Inner Child
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m43029708397?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m43029708397?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -213,7 +213,7 @@ AA. Inner Child
 
 - **解說**：DJ Tsuyoshi 的 MATSURI 廠牌彙編。這是一部將 90 年代的 trance 傳統與現代聯繫起來的偉大作品。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Deflo – Tio Mate
 A2. Anti Matter – Pulse II
@@ -227,7 +227,7 @@ F. Sandman – Target Eye
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m68689718449?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m68689718449?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -245,7 +245,7 @@ F. Sandman – Target Eye
 
 - **評論**：1995 年由 Flying Rhino Records 發行。代表果阿恍惚黃金時代的經典作品。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Flying + To The Sky
 
@@ -253,7 +253,7 @@ AA. Umbellikilisis
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m90557219720?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m90557219720?afid=6142608987){: .button1}
 
 
 #### Youtube

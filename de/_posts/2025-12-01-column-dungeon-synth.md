@@ -78,7 +78,7 @@ Ehemaliges Mitglied des Kaisers. Etablierte einen mittelalterlichen Fantasy-Stil
 - **Frühe Klavierstücke von Burzum (Norwegen)**
 Der letzte Song von „Hvis Lyset Tar Oss“ und die Ambient-Tracks von „Filosofem“ hinterließen eine starke Symbolik für den späteren Dungeon Synth.
 
-Obwohl es sich dabei um Klangquellen aus der Zeit vor „Dungeon Synth als Genrename“ handelt, werden sie von späteren Generationen eindeutig als Quelle behandelt.
+Obwohl es sich hierbei um Klangquellen handelt, die älter waren als der Begriff „Dungeon Synth als Genrename“, werden sie von späteren Generationen eindeutig als Quelle behandelt.
 
 ### ● 2-2. Erste Welle (1995–2000)
 Von 1995 bis 2000 veröffentlichte ein junges europäisches Projekt, das Mortiis „Era I“ vorausging, Cernunnos Woods, Depressive Silence und Old Tower Werke, die hauptsächlich auf Tonband vertrieben wurden.
@@ -140,7 +140,7 @@ timeline
 # ■ 4. Sounddesign: Dungeon Synth-Produktionstechniken
 
 Dungeon Synth ist „ein Genre, das die Einschränkungen der Ausrüstung als Ästhetik sublimiert.“
-Im Folgenden fassen wir die Klangquellen, MIDI-Bedienung und Effektmethoden zusammen, die in der tatsächlichen Produktion verwendet werden.
+Im Folgenden fassen wir die Tonquellen, MIDI-Bedienung und Effektmethoden zusammen, die in der tatsächlichen Produktion verwendet werden.
 
 ---
 
@@ -149,7 +149,7 @@ Im Folgenden fassen wir die Klangquellen, MIDI-Bedienung und Effektmethoden zusa
 ### ■ Klassische PCM-Tonquelle
 Viele Künstler suchten das Gefühl von Spielekonsolen und PCM-Tastaturen aus den 90er Jahren.
 
-- **Roland JV/XP-Serie (aktuell oder als Probe)**
+- **Roland JV/XP-Serie (aktuell oder Probenahme)**
 - **Yamaha PSR-Serie** (günstige Heimtastatur)
 - **Korg Triton / M1 Beispieltonquelle**
 - **General MIDI-Ton (GM-Klangquelle)**
@@ -203,7 +203,7 @@ Das Hinzufügen einer Rauheit von etwa 8 bis 12 Bit verstärkt das 90er-Jahre-Fe
 Viele Künstler nehmen ihre Songs tatsächlich auf Kassetten auf.
 
 ### ■ EQ-Verarbeitung
-- **Low (unter 100 Hz) entfernen** → In Richtung Mono/Altgeräte-Feeling
+- **Niedrig (unter 100 Hz) entfernen** → In Richtung Mono/Textur alter Geräte
 - **Hohe Frequenzen (über 6–8 kHz) entfernen** → Digitalgeruch entfernen
 
 ### ■ Hall
@@ -213,7 +213,7 @@ Konkret eingesetzt werden:
 
 - Halle (gefühlt wie eine mittelalterliche Halle)
 - Platte (altmodischer metallischer Nachhall)
-- Weniger frühe Reflexionen/längerer Verfall
+- Weniger frühe Reflexionen/längerer Zerfall
 
 ### ■ Stereobreite
 - Das Pad ist breit
@@ -253,7 +253,7 @@ Zeitgenössische Künstler verwenden eine Vielzahl von Ausdrucksformen wie handg
 ## ● 6-2. Jackenkultur
 - Kleinformatige Kunst für Kassetten
 - Vertikales Bild für die Bandcamp-Jacke
-- Leicht verwischte Schrift
+- Leicht verschmierte Schrift
 
 Der visuelle Einfluss ist äußerst groß und trägt dazu bei, das Weltbild des Werkes zu ergänzen.
 
@@ -315,7 +315,7 @@ Nachfolgend finden Sie einen Plan für die tatsächliche Erstellung eines Songs.
 
 # ■ 9. Kulturelle Bedeutung von Dungeon Synth
 
-Dungeon Synth ist eine seltene Art von Musik, die die intensive Weltanschauung des Black Metal mit der Ruhe des Ambient verbindet und eine Kultur darstellt, die danach strebt, „eine innere Welt aufzubauen“.
+Dungeon Synth ist eine seltene Musikrichtung, die die intensive Weltanschauung des Black Metal mit der Ruhe der Ambient-Musik verbindet und eine Kultur darstellt, die danach strebt, „eine innere Welt aufzubauen“.
 
 - Einzelne Schöpfer erzählen ihre eigenen Geschichten, ohne sich auf groß angelegte Szenen verlassen zu müssen
 – Stark verbunden mit der Ästhetik von Fantasy-Literatur, TRPGs und Spielemusik

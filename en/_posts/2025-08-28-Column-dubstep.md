@@ -83,7 +83,7 @@ A uniquely Japanese dubstep culture was formed through events held at clubs in S
 
 ### Cultural influence of dubstep
 
-- **Penetration into the EDM scene**: Connected to festival culture and becoming a presence that resonates on the main stage.
+- **Penetration into the EDM scene**: Connected with festival culture and becoming a presence that resonates on the main stage.
 
 - **Re-evaluation of bass music**: Significantly influenced the development of subsequent genres such as trap and future bass.
 
@@ -116,3 +116,14 @@ A uniquely Japanese dubstep culture was formed through events held at clubs in S
 More than just a genre, dubstep has become an iconic soundscape of 21st century urban culture.
 
 The bass vibrations experienced through a club's sound system go beyond the sense of hearing, shaking the body and space, and connecting listeners with each other. Dubstep continues to evolve and will continue to be an exciting musical exploration ground for new generations.
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7ZdHzysA-g0?si=KNHLYPiuF8HQgKBm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

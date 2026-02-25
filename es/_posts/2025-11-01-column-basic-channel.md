@@ -18,7 +18,7 @@ title: '[Columna] Canal Básico──El origen del dub techno berlinés'
 ## Prólogo: Del ruido anónimo a una revolución silenciosa
 
 
-Texto: mmr｜Tema: “Abyss of sound” nacido del underground de Berlín en los años 1990 - Historia de la creación de Basic Channel y Dub Techno
+Texto: mmr｜Tema: El “abismo del sonido” nacido del underground de Berlín en los años 1990—La historia de la creación de Basic Channel y Dub Techno
 
 
 En 1993, apenas unos años después de la caída del Muro de Berlín.
@@ -101,7 +101,7 @@ En 1995, Basic Channel estableció una subetiqueta, **Chain Reaction**.
 Aquí se desarrolló un proyecto más anónimo y experimental.
 Aquí se cruza la genealogía de la música electrónica berlinesa posterior, incluidos Monolake, Porter Ricks, Vladislav Delay y Substance.
 
-Características de reacción en cadena:
+Características de la reacción en cadena:
 - No hay nombre del artista en la portada, sólo el número de catálogo.
 - Una sensación de unidad como si todas las fuentes sonoras compartieran el “mismo espacio”
 - No una producción en masa, sino una **red ideológica basada en una cadena de sonidos**
@@ -212,7 +212,7 @@ El sonido de Basic Channel es atemporal y aún permanece en "tiempo presente".
 La razón de esto es que no sólo crearon techno, sino que reconstruyeron el acto mismo de escuchar.
 
 El eco nunca termina.
-Es la fragancia persistente del tiempo y también es un túnel que lleva al oyente al exterior del espacio.
+Es un olor persistente del tiempo y un túnel que lleva al oyente al exterior del espacio.
 
 Y las ondas que emanan del Berlín de finales del siglo XX siguen resonando silenciosamente bajo tierra en todo el mundo.
 
@@ -222,13 +222,9 @@ Y las ondas que emanan del Berlín de finales del siglo XX siguen resonando sile
 
 ---
 
-#### Podcast
+#### Pódcast de YouTube
 
-<iframe title="Canal básico: Los orígenes del Dub Techno berlinés" enabletransparency="true" height="300" width="100%" style="border: none; min-width: min(100%, 430px);height:300px;" desplazamiento="no" nombre-datos="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=i9ehm-19f955e-pb&from=pb6admin&square=1&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&logo_link=episode_page&btn-skin=ff6d00&size=300" cargando="lazy" enablefullscreen=""></iframe>
-
----
-
-#### YouTube
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vWQDlU4uskw?si=oyKWaD4B9WwRvvGb" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 

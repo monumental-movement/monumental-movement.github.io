@@ -73,7 +73,7 @@ The chord progression uses Major 7 and 9th frequently, creating a floating feeli
 Although the rhythm is AOR-like, it absorbs the disco and soul trends of the time, and is characterized by a light groove of around 110 BPM.
 
 In terms of recording, the ""aesthetics of space'' created by the analog equipment and skilled engineers of the time shines.
-The studio's reverb processing and EQ precision achieved both "transparency" and "humidity."
+The studio's reverb processing and precision EQ achieved both transparency and humidity.
 In particular, Tatsuro Yamashita's ""SPACY'' (1978) is handed down as a monumental work that elevated the artistry of studio recording to its ultimate limit.
 The perfection of this sound is one of the reasons why it was "discovered" overseas more than 40 years later.
 
@@ -113,7 +113,7 @@ DJs everywhere brought City Pop to clubs: France, South Korea, London, LA.
 Night Tempo, Yung Bae, Macross 82-99 are some of the most iconic.
 They sampled and reimagined city pop, creating a new genre called "Future Funk."
 
-This music is not just nostalgic, but a fusion of the brightness of the 80's and a modern tempo.
+This music is not just nostalgic, but a fusion of the brightness of the 80s and a modern tempo.
 For DJs, city pop is a ""comfortable danceable tempo'' of 110 to 115 BPM.
 It has perfect sound quality as sampling material.
 
@@ -138,7 +138,7 @@ Herein lies the essence of ""digital nostalgia,'' which goes beyond cultural tra
 ## 9. Influence on contemporary artists
 
 In Japan in the 2020s, a new generation is emerging that has inherited the DNA of city pop.
-Not only Suchmos, Lucky Tapes, cero, and Nulbarich, but also young artists like iri, Taichi Mukai, and Vaundy are part of that lineage.
+That lineage includes not only Suchmos, Lucky Tapes, cero, and Nulbarich, but also young artists like iri, Taichi Mukai, and Vaundy.
 They reconstruct the chords and grooves of the 1980s in a modern way, and depict the ""emotions of living in the city'' in a new language.
 
 Overseas, artists such as Khruangbin, Men I Trust, and Crumb are consciously incorporating "Japanese Aesthetic."

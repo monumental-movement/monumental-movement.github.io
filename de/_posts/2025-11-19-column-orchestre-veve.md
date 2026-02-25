@@ -104,7 +104,7 @@ Diese Lieder zeigen den Kern von Veves Tanzmusik, zeigen aber auch deutlich die 
 
 Veves Leadgitarre zeichnete sich durch eine schärfere „Notch“-Melodie aus als andere Bands dieser Zeit. Besonders auffällig bei Aufnahmen aus den 1970er Jahren.
 
-- Chromatischer Leitanstieg
+- chromatischer Leitanstieg
 - schnelles Tremolo
 - Kurze Motivwiederholungen von 2-4 Takten
 
@@ -117,7 +117,7 @@ Verglichen mit der einzeiligen Musik von ZAïko und der auf tiefen Harmonien bas
 
 ## Innovation in der Rhythmusgruppe
 
-Veves Rhythmusgruppe hat eine ausgeprägte Sprungkraft. Die Hi-Hat prägt die Rückseite der 16. Minute nicht stark, sondern erzeugt stattdessen einen Groove im Bereich der 8. Minute mit einem weiten horizontalen Schwung, wodurch sie sanfter ist als die Soukous aus derselben Zeit und eine Textur beibehält, die der einer Rumba ähnelt.
+Veves Rhythmusgruppe hat eine ausgeprägte Sprungkraft. Die Hi-Hat prägt die Rückseite der 16. Minute nicht stark, sondern erzeugt stattdessen einen Groove im Bereich der 8. Minute mit einem weiten horizontalen Schwung, wodurch sie sanfter als die Soukous aus derselben Zeit wird und eine Textur beibehält, die der einer Rumba ähnelt.
 
 ---
 
@@ -129,7 +129,7 @@ Veves Rhythmusgruppe hat eine ausgeprägte Sprungkraft. Die Hi-Hat prägt die R�
 
 ### Technische Analyse
 - **Tempo: ca. 118–122 BPM**
-- **Gitarre: 3-Schichten-Struktur (Begleitgitarre betont Off-Beat)**
+- **Gitarre: 3-Lagen-Struktur (Begleitgitarre betont Off-Beat)**
 - **Bass: Absteigende Linie → steigende Linie alle 4 Takte wiederholen**
 - **Mischung: Gesang in der Mitte, Gitarren links und rechts getrennt**
 
@@ -202,14 +202,14 @@ flowchart LR
 # Kapitel 7 Aufnahmetechnik, Studioumgebung, Produktionssystem
 
 Veves Aufnahmeumgebung war zu dieser Zeit eine der fortschrittlichsten in Afrika.
-Es verfügte über ein eigenes Studio, mehrere Toningenieure und verfügte über folgende technische Merkmale:
+Es verfügte über ein eigenes Studio, in dem immer mehrere Toningenieure anwesend waren, und verfügte über die folgenden technischen Merkmale.
 
 - **Nutzen Sie schnell die Übergangszeit von der 2- bis 4-Spur-Aufnahme zur 4- bis 8-Spur-Aufnahme**
 - **Stereo-Methode zum Schwingen der Gitarre nach links und rechts**
 - **Mixing, das das Saxophon in den Vordergrund stellt**
 - **Ein bahnbrechender Ansatz, der mehrere Takes des Refrains aufnimmt und sie beim Bearbeiten kombiniert**
 
-Eines der Merkmale dieses Werks besteht darin, dass es die Live-Spannung der Interpreten in den Vordergrund stellt, anstatt Zeit für die Bearbeitung aufzuwenden, und viele der Werke sind in einer Struktur aufgenommen, die fast einer Live-Aufnahme ähnelt.
+Eines der Merkmale dieses Werks besteht darin, dass es die Live-Spannung der Interpreten in den Vordergrund stellt, anstatt Zeit für den Schnitt aufzuwenden, und viele der Werke sind in einer Struktur aufgenommen, die fast einer Live-Aufnahme ähnelt.
 
 ---
 
@@ -233,7 +233,7 @@ Es war auch in der kongolesischen Diaspora (Frankreich, Belgien und das Vereinig
 ## Unterschied zu Zaïko Langa Langa
 
 * **Zaïko: leicht, schnell, percussionlastig, lange Seben**
-* **Veve: sanft, Rumba-artig, saxophonischer Schwerpunkt, Chorpolyphonie**
+* **Veve: sanft, Rumba-artig, saxofonischer Schwerpunkt, Chorpolyphonie**
 
 Obwohl beide aus derselben Zeit stammen, sind ihre Richtungen sehr unterschiedlich.
 

@@ -19,17 +19,17 @@ title: 轟炸低音 – 說一點祈禱
 
 《Say A Little Prayer》翻唱了 Burt Bacharach 和 Hal David 創作、Dionne Warwick 於 1967 年發行的著名歌曲。
 
-Bomb The Bass 版本是由 Rhythm King（一家專門從事 house 和 Acid house 的唱片公司）於 1988 年發行的 Acid house 和 downtempo 混音版本。
+Bomb The Bass 版本是由 Rhythm King（專門從事 house 和 Acid house 的唱片公司）於 1988 年發行的 Acid house 和 downtempo 混音版本。
 
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Say A Little Prayer
 
 B. 10 Seconds To Terminate
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m69818957140?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m69818957140?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jfLZd6dngpQ?si=3JByW1IDZD59zT7Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

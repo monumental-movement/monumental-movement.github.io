@@ -116,7 +116,7 @@ Il a une structure répétitive similaire à la musique minimale, mais elle n'es
 
 **structure**
 
-* Arpège de clavier répétitif
+* Arpège répétitif sur le clavier
 * Créez un espace avec de longues notes d'instruments à cordes
 * La percussion est ajoutée à partir du milieu pour gagner en force motrice
 * « Structure réciproque » qui revient à la tranquillité à la fin
@@ -127,7 +127,7 @@ C'est une chanson calme mais dramatique qui donne l'impression que l'expansion e
 
 ### 3-3. **Téléphone et élastique (1981)**
 
-Un étrange morceau de musique dans lequel un téléphone bicolore sonne soudain dans un ensemble classique.
+Étrange morceau de musique dans lequel un téléphone bicolore retentit soudain au-dessus d'un ensemble classique.
 
 **Caractéristiques**
 
@@ -141,7 +141,7 @@ En termes de son minimal + trouvé, cette œuvre recoupe la lignée de Brian Eno
 
 ## Chapitre 4 Vision du monde par album
 
-**PCO construit un «espace imaginaire» pour chaque œuvre.'' **
+**PCO construit un « espace imaginaire » pour chaque œuvre.'' **
 Les principaux albums sont expliqués ci-dessous.
 
 ### ● *Musique du Penguin Café* (1976)

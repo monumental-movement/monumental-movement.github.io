@@ -58,7 +58,7 @@ Así como el metal es "un arte que convierte el caos en orden", el discurso de T
 
 ## Capítulo 2: Construyendo la voz: la política de la voz metálica
 
-Para los políticos, su "voz" es un instrumento que encarna sus ideas. La vocalización de Takaichi es particularmente baja y estable entre las mujeres políticas. Acústicamente, se basa en el rango medio-bajo (aproximadamente 170-180 Hz), con poca fluctuación de tono, que recuerda al "control de acero" de las voces de metal.
+Para los políticos, su "voz" es un instrumento que encarna sus ideas. La vocalización de Takaichi es particularmente baja y estable entre las mujeres políticas. Acústicamente, se basa en el rango medio-bajo (aproximadamente 170-180 Hz), con poca variación de tono, que recuerda al "control de acero" de las voces de metal.
 
 "La voz es el arte de hacer resonar las emociones sin dejar que se descontrolen". Como lo simbolizan estas palabras, vive la política como una "estructura de hierro".
 
@@ -127,6 +127,14 @@ Así como el metal ha evolucionado al aceptar el ruido, la política madura tamb
 
 ---
 
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6n3k1OcIKXs?si=1wAxtEv1xDU1tP-2" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
 ## Cronología: Sanae Takaichi y la historia de la resonancia del metal (1980-2025)
 
 <div class="mermaid">
@@ -159,6 +167,7 @@ flowchart LR
     A --> B --> C --> D --> E
 
 </div>
+
 ---
 
 ## Referencias/Citas
@@ -172,12 +181,12 @@ flowchart LR
 | Banda | Álbum | Año de lanzamiento | Características y aspectos destacados |
 | ----------------- | ------------ | ---- | -------------------------- | ---------------------------------------- |
 | **Sábado Negro** | **Sábado Negro** | 1970 | Una obra que se dice que es el nacimiento del primer heavy metal del mundo. El oscurecimiento del azul y la campana de la iglesia SE son simbólicos.            |
-| | **Paranoico** | 1970 | Una obra maestra que estableció el prototipo del metal. Rapidez, sociabilidad y seriedad conviven.    |
-| | **Maestro de la Realidad** | 1971 | Evolución del bajo pesado con afinación drop D. El padre del doom metal.      |
+| | **Paranoico** | 1970 | Una obra maestra que estableció el prototipo del metal. Conviven rapidez, sociabilidad y seriedad.    |
+| | **Maestro de la Realidad** | 1971 | Evolución de los graves profundos con afinación drop D. El padre del doom metal.      |
 | **Púrpura oscuro** | **Púrpura profundo en roca** | 1970 | Una obra maestra que sentó las bases del hard rock. Una fusión de belleza compositiva clásica y poder explosivo.                    |
 | | **Bola de fuego** | 1971 | Más agresivo y experimental. Tiene un fuerte cambio de tempo y sensación de blues.                  |
 | | **Cabeza de máquina** | 1972 | Un nivel de perfección que permanece en la historia del rock. La proporción áurea de riff y groove.          |
-| **Judas Sacerdote** | **Tristes alas del destino** | 1976 | Se establece una estética metalera de melancolía y lirismo. El prototipo de doble plomo.                           |
+| **Judas Sacerdote** | **Tristes alas del destino** | 1976 | Se establece una estética metalera de melancolía y lirismo. El prototipo de cables gemelos.                           |
 | | **Pecado tras pecado** | 1977 | Gran obra debut. Producida por Roger Glover (Deep Purple). Un desarrollo dramático. |
 | | **Clase manchada** | 1978 | Los inicios del speed metal. Imagen sonora precisa y fría.          |
 

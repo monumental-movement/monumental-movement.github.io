@@ -9,13 +9,13 @@ permalink: /zh-hant/scarfo-scarfo/
 tags:
 - Pops
 - Rock
-title: 斯卡福——斯卡福
+title: 斯卡福－斯卡福
 ---
 
 
-Scarfo 是一支英國搖滾樂隊，由 Jamie Hince、Nick Prior 和 Al Saunders 於 1994 年組建。
+Scarfo 是一支英國搖滾樂隊，由 Jamie Hince、Nick Prior 和 Al Saunders 於 1994 年組成。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Eyesore
 
@@ -32,5 +32,5 @@ B6. Throw It All
 B7. Wailing Words
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m51458785746?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m51458785746?afid=6142608987){: .button1}
 

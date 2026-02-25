@@ -49,7 +49,7 @@ The characteristics are as follows.
 
 - **Lo-fi recording**
 - **Soft texture centered on synth + sampler**
-- **Vocal melts into reverb**
+- **Vocals melting into reverb**
 - **Influenced by 80's city pop and dream pop**
 - **Visuals such as pale colors and blurry photos**
 

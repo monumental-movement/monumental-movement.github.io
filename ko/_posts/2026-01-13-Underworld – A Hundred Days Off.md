@@ -10,13 +10,13 @@ tags:
 - Progressive House
 - Techno
 - Downtempo
-title: 언더월드 – 백일의 휴가
+title: Underworld – A Hundred Days Off
 ---
 
 
-'A Hundred Days Off'는 영국의 일렉트로닉 뮤직 그룹 언더월드가 2002년 발매한 6집 앨범이자, 대런 에머슨이 2001년 그룹을 탈퇴한 이후 첫 번째 앨범이다. 'Two Months Off'라는 주제를 담았다. (일본어판)
+'A Hundred Days Off'는 2002년 영국의 일렉트로닉 뮤직그룹 Underworld(언더월드)가 발매한 6번째 앨범이며, 이 앨범은 2001년에 달렌 에머슨이 그룹 탈퇴 후 첫 앨범이다. 안셈 'Two Months Off'가 수록되어 있다. (일본판)
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Mo Move
 2. Two Months Off
@@ -32,5 +32,5 @@ title: 언더월드 – 백일의 휴가
 
 [メルカリで購入](https://jp.mercari.com/item/m32312918498?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xnenJizLpts?si=KkIsxEzwxAAMD4Oc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

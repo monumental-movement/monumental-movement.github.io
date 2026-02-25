@@ -19,11 +19,11 @@ title: 拾起高能（Hi-NRG）作品
 <小時>
 
 ### E-Rotic – “威利使用比利......男孩”
-<a href="https://jp.mercari.com/item/m74466346239?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Willy%20Use%20A%20Billy%20Boy.webp"></a>
+<a href="https://jp.mercari.com/item/m74466346239?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Willy%20Use%20A%20%E2%80%93%20Willy%20Use%20A%20Use%20A%500]p.
 
 來自德國的性感而朗朗上口的歐洲流行音樂。作為對 90 年代 Hi-NRG 的詮釋，這是一首非常容易上癮的歌曲，您會想哼唱。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Willy Use A Billy... Boy (Extended Version)
 
@@ -31,7 +31,7 @@ B. Willy Use A Billy... Boy (Safe The Sex Re-Max)
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m74466346239?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m74466346239?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -41,11 +41,11 @@ B. Willy Use A Billy... Boy (Safe The Sex Re-Max)
 
 
 ### 諾瑪·謝菲爾德 – “看著我的眼睛”
-<a href="https://jp.mercari.com/item/m83336143177?afid=6142608987"><img src="../assets/images/Norma%20Sheffield%20%E2%80%93%20Look%20Me%20In%20The%20Eyes.webp"></a>
+<a href="https://jp.mercari.com/item/m83336143177?afid=6142608987"><img src="../assets/images/Norma%20Sheffield%20%E2%80%93%20Look%20Me％
 
-一首突出 Italo/Hi-NRG 項目美妙歌聲的作品。注意抒情和悲傷的和弦進行。
+突出 Italo/Hi-NRG 項目美妙歌聲的作品。注意抒情和悲傷的和弦進行。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Look Me In The Eyes (Club Mix)
 A2. Look Me In The Eyes (No Rhythm Mix)
@@ -55,7 +55,7 @@ B2. Look Me In The Eyes (Instrumental)
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m83336143177?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m83336143177?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -65,12 +65,12 @@ B2. Look Me In The Eyes (Instrumental)
 
 
 
-### 快樂與痛苦——更高
-<a href="https://jp.mercari.com/item/m33072683805?afid=6142608987"><img src="../assets/images/Pleasure%20and%20Pain%20%E2%80%93%20Higher.webp"></a>
+### 快樂與痛苦－更高
+<a href="https://jp.mercari.com/item/m33072683805?afid=6142608987"><img src="../assets/images/Pleasure%20and%20Pain%20%E2%80%93%20Hig.webp.
 
 FRED VENTURA 的一個項目（1990-1992 年），FRED VENTURA 是一位自 20 世紀 80 年代以來一直活躍的 Italo 著名製作人。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Higher (Club Mix)
 A2. Higher (Bonus Beat)
@@ -80,7 +80,7 @@ B2. Higher (Instrumental)
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m33072683805?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m33072683805?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -91,11 +91,11 @@ B2. Higher (Instrumental)
 
 
 ### Max Coo 和 Steve Coo – “布吉舞者”
-<a href="https://jp.mercari.com/item/m15855209847?afid=6142608987"><img src="../assets/images/Max%20Coo%20&%20Steve%20Coo%20%E2%80%93%20Boogie%20Dancer.webp"></a>
+<a href="https://jp.mercari.com/item/m15855209847?afid=6142608987"><img src="../assets/images/Max%20Coo%20&%20Steve%20Coo%20%E2%80%93oo%20&%20Steve%20Coo%20%E2%80%930%200%207%205)>
 
 肯·拉斯洛 (Ken Laszlo) 的演唱增添了趣味。一個讓你感受到伊塔洛正統又時髦魅力的好數字。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Boogie Dancer (Woogie Version)
 A2. Boogie Dancer (D.D.J. Version)
@@ -106,7 +106,7 @@ B3. Boogie Dancer (Verona Beat)
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m15855209847?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m15855209847?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -115,12 +115,12 @@ B3. Boogie Dancer (Verona Beat)
 <br>
 
 
-### 戴夫·哈蒙德——《非洲》
-<a href="https://jp.mercari.com/item/m93036918375?afid=6142608987"><img src="../assets/images/Dave%20Hammond%20%E2%80%93%20Africa.webp"></a>
+### 戴夫‧哈蒙德－《非洲》
+<a href="https://jp.mercari.com/item/m93036918375?afid=6142608987"><img src="../assets/images/Dave%20Hammond%20%E2%80%93%20Africa/Dave%20Hammond%20%E2%80%93%20Africa.webp"></a>
 
-一種在歐洲發展起來的 Italo 迪斯科風格，傾向於 Eurobeat。當您想用舞蹈來溫暖空間時。
+一種在歐洲發展的 Italo 迪斯科風格，傾向於 Eurobeat。當您想用舞蹈來溫暖空間時。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Africa (Extended Mix)
 A2. Africa (Acappella)
@@ -131,7 +131,7 @@ B3. Africa (Dub Mix)
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m93036918375?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m93036918375?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -140,12 +140,12 @@ B3. Africa (Dub Mix)
 <br>
 
 
-### 筆名——“你有權保持沉默”
-<a href="https://jp.mercari.com/item/m72664959965?afid=6142608987"><img src="../assets/images/Pseudonym%20%E2%80%93%20You%20Have%20The%20Right%20To%20Remain%20Silent.webp"></a>
+### 化名——“你有權保持沉默”
+<a href="https://jp.mercari.com/item/m72664959965?afid=6142608987"><img src="../assets/images/Pseudonym%20%E2%80%93%20You%20Have%20The7%20%E2%80%93%20You%20Have%20The7%20%2020.
 
-這是 Hi-NRG 傳道者伊恩·萊文 (Ian Levine) 參與的重要作品。感覺像是記錄當時俱樂部現場氣氛的一張唱片。
+這是 Hi-NRG 傳道者 Ian Levine 參與的重要作品。感覺像是記錄當時俱樂部現場氣氛的一張唱片。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. You Have The Right To Remain Silent
 
@@ -153,7 +153,7 @@ B. You Have The Right To Remain Silent (Loadsadubvipermix)
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m72664959965?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m72664959965?afid=6142608987){: .button1}
 
 
 #### Youtube

@@ -47,7 +47,7 @@ color: #fff;
 ### ● Onda mínima
 - **Principales regiones: América/Bélgica/Países Bajos/Reino Unido**
 - **Período centro: 1978-1986**
-- **Características: Sintes principalmente analógicos, estructura minimalista, más rústico y experimental que el techno pop**
+- **Características: Principalmente sintetizadores analógicos, estructura mínima, más rústico y experimental que el techno pop**
 - Principalmente cultura del casete de bricolaje y sellos de distribución independientes.
 - Sistematizado por el sello neoyorquino **Minimal Wave Records (Veronica Vasicka)** en los años 2000
 
@@ -66,7 +66,7 @@ Es fácil de entender si lo entiendes de la siguiente manera:
 
 ---
 
-## 2. Antecedentes del nacimiento del género: Revolución de la música electrónica desde finales de los 70 hasta los 80
+## 2. Antecedentes del nacimiento del género: revolución de la música electrónica desde finales de los 70 hasta los 80
 
 ### ● 2-1. Innovación tecnológica: Popularización de los sintetizadores analógicos
 A finales de la década de 1970, el precio de los sintetizadores cayó, haciéndolos asequibles para los músicos comunes y corrientes.

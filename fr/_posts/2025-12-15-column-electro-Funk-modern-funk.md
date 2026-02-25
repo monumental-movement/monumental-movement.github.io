@@ -20,7 +20,7 @@ title: '[Chronique] Electro-Funk / Modern Funk'
 Texte : mmr｜Thème : La généalogie du funk électronique et la structure, l'équipement, le rythme et la culture visuelle observés dans les dérivés de Chromeo et Jamiroquai
 
 
-Electro-Funk/Modern Funk n'est pas un nom qui fait référence à une époque spécifique ou à un seul mouvement. Ce nom est un cadre complet qui fait référence à l'ensemble du processus par lequel les principes structurels du funk établis dans les années 1970 ont été réorganisés tout en embrassant les instruments de musique électroniques et les environnements de production numérique.
+Electro-Funk/Modern Funk n’est pas un nom qui fait référence à une époque spécifique ou à un seul mouvement. Ce nom est un cadre complet qui fait référence à l'ensemble du processus par lequel les principes structurels du funk établis dans les années 1970 ont été réorganisés tout en embrassant les instruments de musique électroniques et les environnements de production numérique.
 
 L'essence du funk réside dans les rythmes répétés, les lignes de basse et une sensation physique du temps, plutôt que dans les progressions d'accords ou les mélodies. Electro-Funk/Modern Funk a changé ses méthodes de production et sa conception sonore sans perdre son essence. En conséquence, de multiples réalisations ont été réalisées, notamment le funk électronique en studio et le funk étendu basé sur les performances.
 
@@ -45,7 +45,7 @@ color: #fff;
 ## Chapitre 1 : La structure originale du funk
 
 
-Le funk est une musique axée sur le rythme et la basse. Les progressions harmoniques sont réduites au minimum et les mêmes phrases sont répétées pendant de longues périodes. Cette répétition n'est pas stagnante, mais une structure dynamique qui est constamment mise à jour par les changements d'accent, de timing et de timbre de l'interprète.
+Le funk est une musique axée sur le rythme et les basses. Les progressions harmoniques sont réduites au minimum et les mêmes phrases sont répétées pendant de longues périodes. Cette répétition n'est pas stagnante, mais une structure dynamique qui est constamment mise à jour par les changements d'accent, de timing et de timbre de l'interprète.
 
 Dans le funk des années 1970, la batterie formait un groove basé sur des doubles croches et la basse manipulait le centre de gravité du rythme tout en s'entrelaçant avec le coup de pied. Les guitares et les claviers fonctionnaient comme des instruments rythmiques, l'accent étant mis sur les coupures et les coups plutôt que sur les accords.
 
@@ -58,7 +58,7 @@ Dans le funk des années 1970, la batterie formait un groove basé sur des doubl
 
 À la fin des années 1970, les progrès de la technologie des studios ont commencé à changer la façon dont le funk était produit. Avec la généralisation de l’enregistrement multipiste, les performances sont désormais décomposées et traitées comme du matériel modifiable. En conséquence, l’accent a été mis davantage sur la précision rythmique et l’unité du timbre.
 
-À peu près à la même époque, les pianos électriques et les premiers synthétiseurs ont été introduits, et le clavier est passé d'un simple instrument harmonique à un joueur de timbre. À ce stade, les idées des basses synthétisées et des leads électroniques ultérieurs étaient en cours de préparation.
+À peu près à la même époque, les pianos électriques et les premiers synthétiseurs ont été introduits, et le clavier est passé du simple instrument harmonique à celui d'un joueur de timbre. À ce stade, les idées des basses synthétisées et des leads électroniques ultérieurs étaient en préparation.
 
 ---
 

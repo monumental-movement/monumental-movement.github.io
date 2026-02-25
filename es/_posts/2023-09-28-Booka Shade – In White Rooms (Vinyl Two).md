@@ -17,7 +17,7 @@ title: Booka Shade - En habitaciones blancas (vinilo dos)
 
 Lanzada en 2005, esta canción fue una de las obras emblemáticas de Booka Shade y se convirtió en un gran éxito en su carrera.
 
-Una línea de bajo pesada, una melodía de sintetizador y un ritmo resonante se combinan para crear una canción de música house que incorpora elementos de la música electrónica, dándole una atmósfera oscura y misteriosa.
+La combinación de una línea de bajo pesada, una melodía de sintetizador y un ritmo resonante crea una música house que incorpora elementos de la música electrónica, creando una canción con una atmósfera oscura y misteriosa.
 
 #### Lista de canciones
 ```md

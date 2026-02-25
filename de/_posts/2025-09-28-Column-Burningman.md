@@ -16,7 +16,7 @@ title: '[Kolumne] Desert City: Geschichte, Anekdoten und moderne Bedeutung von B
 
 ## Erinnerungen an Kunst und Themen, die in der Wüste geschnitzt wurden
 
-Text: mmr｜Thema: Wer die Geschichte von Burning Man kennt, muss verstehen, dass es mehr als nur ein Festival ist, es ist ein „zukünftiges Stadt- und Menschenexperiment“
+Text: mmr｜Thema: Wer die Geschichte des Burning Man kennt, muss verstehen, dass es mehr als nur ein Festival ist, es ist ein „zukünftiges Stadt- und Menschenexperiment“
 
 Burning Man ist mehr als nur ein Festival, es ist ein Testgelände für die gemeinsame Schaffung einer Black Rock City. Es begann 1986 an den Stränden der San Francisco Bay Area und findet seit den 1990er Jahren jährlich in der Black Rock Desert in Nevada statt. Es ist ein Ort, an dem sich Kunst, Feuer, Technologie und eine Kultur des Schenkens kreuzen und die tief mit der Unternehmens- und Startup-Kultur der Bay Area verknüpft ist.
 
@@ -100,7 +100,7 @@ Seit den 2000er Jahren erregen riesige „Mutantenfahrzeuge“ und Skulpturen au
 
 ### Zeitgenössische Implikationen und Herausforderungen
 
-Während Burning Man nach wie vor ein Zentrum der Kreativität ist, steht es vor Kommerzialisierungs-, Sicherheits- und Umweltproblemen und der Frage: „Für wen ist Burning?“ Die Community verstärkt ihre Nachhaltigkeitsbemühungen (Leave No Trace, Kunststipendien) und teilt ihr Wissen in regionalen Netzwerken.
+Während Burning Man nach wie vor ein Zentrum der Kreativität ist, steht es vor Kommerzialisierungs-, Sicherheits- und Umweltbedenken und der Frage: „Für wen ist Burning?“ Die Community verstärkt ihre Nachhaltigkeitsbemühungen (Leave No Trace, Kunststipendien) und teilt ihr Wissen in regionalen Netzwerken.
 
 ---
 
@@ -191,7 +191,7 @@ Der Prototyp der „Feier des Lebens und der Kreativität“, der von nachfolgen
 
 Ein Thema, das die geheimnisvolle Existenz und die Mehrdeutigkeit des Universums und des Bewusstseins erforscht. Interaktive Arbeiten mit partizipatorischer Levitation oder Licht stachen hervor.
 
-Beispielsweise wurde berichtet, dass es ein Werk mit dem Titel „30-Fuß-Leuchtkörper ‚Nebulous Entity‘“ gibt.
+Es wurde beispielsweise berichtet, dass es ein Werk mit dem Titel „30-Fuß-Leuchtkörper ‚Nebulous Entity‘“ gibt.
 
 ---
 
@@ -265,7 +265,7 @@ Ein Thema, das die widersprüchlichen Achsen von Hoffnung und Angst untersucht. 
 
 Ein Thema, das die Beziehung zwischen Natur und Zivilisation neu überdenkt. Eine Komposition basierend auf dem Motiv des „Grünen Mannes“ (einer anthropomorphen Figur aus Pflanzen und natürlich vorkommenden Pflanzen).
 
-Allerdings sorgte in diesem Jahr sein brennendes Kunstwerk „Crude Awakening“, das eine riesige Bohrinsel imitierte, für Kontroversen und wurde kritisiert.
+Doch in diesem Jahr sorgte sein brennendes Kunstwerk „Crude Awakening“, das eine riesige Bohrinsel imitierte, für Kontroversen und wurde kritisiert.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dyU2Wjrw3Do?si=C0LD82S702ZyNlGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -329,7 +329,7 @@ Das Thema des Spiegelkarnevals ist Gerät, Reflexion und Illusion. Mit Spiegelst
 
 #### 2016: Da Vincis Werkstatt
 
-Ein Thema, das Kunst, Technik, Erfindung und Fusion mit Bezug zur italienischen Renaissance erforscht. Die Schnittstelle zwischen Kreativität und Technologie wurde gestärkt.
+Ein Thema, das Kunst, Technik, Erfindung und Fusion mit Bezug auf die italienische Renaissance erforscht. Die Schnittstelle zwischen Kreativität und Technologie wurde gestärkt.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gt0evF196Fs?si=Wam42mTMxQ34x_co" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -405,7 +405,7 @@ Die obige Liste wurde unter Bezugnahme auf die Themenbeschreibungen aus dem offi
 
 Der Tempel (ein Ort des Gebets) und der Mann selbst werden oft als Reaktion auf ein Thema gestaltet, mit Elementen, die vom Thema unabhängig sind, aber jedes Jahr neu konfiguriert werden.
 
-Darüber hinaus wird das Thema nicht zwingend auf alle Lager/Werke angewendet, sondern fungiert vielmehr als „suggestiver Rahmen“.
+Darüber hinaus wird das Thema nicht zwangsläufig auf alle Lager/Werke angewendet, sondern fungiert vielmehr als „suggestiver Rahmen“.
 
 ---
 
@@ -415,6 +415,15 @@ Burning Man ist eine moderne kulturelle Experimentalstadt, die sich aus dem Them
 
 Das jedes Jahr wechselnde Thema und das großformatige Kunstwerk dienen den Teilnehmern als Mittel, ihre Werte und sozialen Beziehungen anhand ihrer Erfahrungen zu hinterfragen. Die vergänglichen Städte, die in der Wüste gebaut wurden, prägen sich in die Erinnerungen des Einzelnen ein und haben weiterhin einen nachhaltigen Einfluss auf Gesellschaft, Kultur und Kreativität.
 
-Das ist die Essenz von Burning Man: Auch wenn die Wüstenfeuer erlöschen, brennt der Geist weiter in das nächste Jahr hinein und in unsere Vorstellungen.
+Das ist die Essenz von Burning Man: Selbst wenn die Wüstenfeuer erlöschen, brennt der Geist weiter in das nächste Jahr hinein und in unsere Vorstellungen.
 
 
+---
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BwoyZozIZl0?si=NTMdBDS8H9g8U7HR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

@@ -117,12 +117,12 @@ Released in 2017, **Shango EP** was a significant turning point in Waajeed's car
 
 The title **"Shango"** is a deity that appears in traditional West African religion, and is a symbol that connects Afro-diaspora spirituality with the history of black music.
 
-On this EP, Waajeed:
+On this EP Waajeed:
 
 * Detroit house/techno beat structure
 * Afro percussion
 * Black Spiritual Call
-* Ritual nature of raw sounds and rhythm
+* Ritualistic nature of raw sounds and rhythms
 
 He clearly steered the band towards ""representing house/techno as a return to the spirit of black art'' by fusing them.
 
@@ -152,7 +152,7 @@ It is in a position that can be called **"the aesthetic destination of Dirt Tech
 
 # **6. Production attitude: Practitioner redefining Detroit**
 
-To sum up Waajeed's production approach, the following three points are central.
+To summarize Waajeed's production approach, the following three points are central.
 
 ---
 
@@ -269,7 +269,7 @@ It will continue to be referred to as **club music that looks at the roots and f
 
 # **Ending**
 
-Waajeed's career has been one of continuing to reinterpret the "layers of history" of the city of Detroit by intersecting them with contemporary club culture.
+Waajeed's career has also been a continuous effort to reinterpret the "layers of history" of the city of Detroit by intersecting them with contemporary club culture.
 Not only are the individual works attractive;
 **It is also important as a methodology for translating urban memory and black spirituality into music**, and its existence will continue to be a symbol that supports the evolution of Detroit music.
 

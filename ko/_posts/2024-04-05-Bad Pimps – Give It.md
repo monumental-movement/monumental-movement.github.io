@@ -10,15 +10,15 @@ tags:
 - Techno
 - Tech House
 - German Techno
-title: 나쁜 포주 – 포기하세요
+title: Bad Pimps – Give It
 ---
 
 
-Bad Pimps는 Kanzleramt 레이블의 창립자 중 한 명인 Patrick Lindsey와 벨기에 테크노 씬을 대표하는 아티스트 중 한 명인 Stanny Franssen(일명 G-Force)의 프로젝트입니다.
+Bad Pimps(배드 핀프스)는 라벨 Kanzleramt의 창립자인 Patrick Lindsey와 벨기에의 테크노 씬을 대표하는 아티스트의 1명 Stanny Franssen(aka. G-Force)의 프로젝트.
 
-2002년 Monika Kruse의 레이블 Terminal M에서 발매된 테크노/테크 하우스 트랙입니다.
+Monika Kruse (모니카 크루즈)의 라벨 터미널 M에서 2002 년에 출시 된 테크노 테크 하우스 트랙.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Give.It.!
 
@@ -29,5 +29,5 @@ B2. Get On Up!
 
 [メルカリで購入](https://jp.mercari.com/item/m71741554299?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XiU2zYe4kYQ?si=6pcS7Tn_ZFjecY7H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

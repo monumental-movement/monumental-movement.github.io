@@ -68,7 +68,7 @@ Er verwendet selten handelsübliche Synthesizer, sondern konzentriert sich statt
 - Spannungssteuerkreis
 - Physikalische Materialien wie Verstärker, Metallteile, Magnetspulen usw.
 
-Dadurch hat der Sound von Pan Sonic eine Rohheit, die wie eine Aufnahme des genauen Moments klingt, in dem eine elektronische Komponente in Betrieb ist. Der Klang ist hart, die Partikel sind groß und es fühlt sich überwältigend körperlich an.
+Dadurch hat der Sound von Pan Sonic eine Rohheit, die wie eine Aufnahme des genauen Moments klingt, in dem eine elektronische Komponente in Betrieb ist. Der Klang ist hart, die Partikel sind groß und er ist überwältigend körperlich.
 
 ## 2-2. Minimale Struktur
 Obwohl das Klangmaterial äußerst einfach ist, weist der Song eine detaillierte Struktur auf.
@@ -119,7 +119,7 @@ Die Live-Auftritte von Pan Sonic wurden als ein noch kraftvolleres Erlebnis besc
 - Extrem tiefe Frequenzen lassen die Luft erzittern
 - Minimal und doch brutal
 - Gefühl, als würde der Klang den „Raum“ selbst verändern
-- Improvisierte Feedback-Operationen
+- Impromptu-Feedback-Operationen
 
 Es gibt wenig visuelle Präsentation und minimale Beleuchtung. Vielmehr wird das Publikum mit der Materialität von Klang konfrontiert.
 Während des Live-Auftritts konzentrierte er sich auf seine Hände, während er die elektronischen Schaltkreise bediente, und die Veränderungen im Klang selbst wurden zu einer Performance.
@@ -131,7 +131,7 @@ Während des Live-Auftritts konzentrierte er sich auf seine Hände, während er 
 Der Einfluss von Pan Sonic geht über ein bestimmtes Genre hinaus.
 
 ### 5-1. Minimaler Techno
-Die Berliner Minimalisten (Basic Channel, Thomas Brinkmann usw.) fanden Resonanz in der Klangstruktur von Pan Sonic.
+Berlins Minimalisten (Basic Channel, Thomas Brinkmann usw.) fanden Resonanz in der Klangstruktur von Pan Sonic.
 Seine **Reinheit der Wiederholung** markierte einen neuen Weg für die Clubmusik.
 
 ### 5-2. Experimentell/Lärm

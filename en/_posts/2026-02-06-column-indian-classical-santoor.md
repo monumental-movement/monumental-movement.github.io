@@ -113,7 +113,7 @@ Even in performances outside of the Indian classical framework, raga thinking co
 
 Modern santour players go back and forth between pure classical performance and experimental expression. With an emphasis on complete improvisation, sonic texture, and the treatment of silence, the santour is being redefined as a musical object.
 
-Performances often begin with a soft note. The moment the mallet touches the string, before there is a clear sound of impact, you can feel the metal string pushing through the air. The overtones that appear immediately after that vaguely dissolve the individual pitches, forming a cloud of sustained resonance.
+Performances often begin with a soft note. The moment the mallet touches the string, before there is a distinct sound of impact, you can feel the presence of a metal string pushing through the air. The overtones that appear immediately after that vaguely dissolve the individual pitches, forming a cloud of sustained resonance.
 
 > The santour is changing from an instrument to be played to one that shapes the listening space.
 

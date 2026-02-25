@@ -28,7 +28,7 @@ Lo importante para comprender este período es que las prácticas culturales cen
 
 El hip-hop no fue invención de una sola persona, sino un fenómeno complejo creado por el entorno y la necesidad.
 
->El hip-hop no nació de una ideología, sino que fue una cultura que tomó nombre a partir de la acumulación de acciones.
+>El hip-hop no nació de una ideología, sino que fue una cultura que tomó su nombre a partir de la acumulación de acciones.
 
 ---
 
@@ -77,7 +77,7 @@ Los DJ desempeñaron el papel más central en los inicios de la cultura hip-hop.
 
 El DJ fue responsable de preparar el equipo de sonido, asegurar la energía, traer los discos y hacer realidad la fiesta. Además de "seleccionar" la música, también era necesario "crear el espacio".
 
-El acto de extraer partes rítmicas de discos de funk y soul y repetirlas mientras se observaba la reacción del público se volvió espontáneo y sofisticado.
+El acto de extraer partes rítmicas de discos de funk y soul y repetirlas mientras se observaba la reacción del público se volvió refinado espontáneamente.
 
 En esta etapa, los DJ eran menos creadores que controladores de tiempo.
 

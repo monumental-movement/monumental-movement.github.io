@@ -10,17 +10,17 @@ tags:
 - House
 - Techno
 - Tribal
-title: MC Tunes Vs 808state – 99를 깨뜨리는 유일한 운율
+title: MC Tunes Vs 808state –The Only Rhyme That Bites 99
 ---
 
 
-'The Only Rhyme That Bites 99'는 영국 힙합 아티스트 MC Tunes와 일렉트로닉 뮤직 그룹 808 State가 1990년 발표한 곡 'The Only Rhyme That Bites'를 리메이크한 곡이다.
+'The Only Rhyme That Bites 99'는 영국 힙합 아티스트 MC 튠즈와 일렉트로닉 뮤직 그룹 808 스테이트가 1990년에 발표한 곡 'The Only Rhyme That Bites'의 리메이크 버전입니다.
 
-원작은 힙합과 테크노의 요소를 결합한 파티곡으로 알려져 있으며, 힙합과 일렉트로닉 음악을 융합한 영국 90년대의 가장 대표적인 작품 중 하나로 꼽힌다.
+오리지널은, 힙합과 테크노의 요소를 조합한 파티 앙셈으로 알려져 있어 영국의 90년대 힙합과 일렉트로닉 음악의 융합을 대표하는 작품의 하나로 되어 있습니다.
 
-이번 리메이크는 새로운 편곡과 제작으로 원작의 매력을 그대로 유지했다.
+이 리메이크는 오리지널의 매력을 유지하면서 새로운 어레인지와 프로덕션이 더해지고 있습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. MC Tunes Vs 808state–The Only Rhyme That Bites
 
@@ -31,5 +31,5 @@ B. 808state –Cubik (Victor Calderone's Not So Long Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m96097722789?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0CMiB4z8JgY?si=1EzU8IcVo5886S8k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

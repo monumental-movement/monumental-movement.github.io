@@ -107,7 +107,7 @@ There were also age restrictions, and performances with specific song series wer
 
 Circular breathing is a widely shared technique, but its use varies by region. In the east, the stability of sustained sounds is emphasized, while in the west, intermittent rhythmic changes are prominent.
 
-Additionally, there are regional differences in the techniques used to make simultaneous voices, such as adding a low growl or emphasizing tongue sounds. These are not improvised, but are stylized for each song series.
+There are also regional differences in the techniques used to make simultaneous voices, such as adding a low growl or emphasizing tongue sounds. These are not improvised, but are stylized for each song series.
 
 > The difference in technique is not the improvisational nature, but the difference in the tradition system.
 

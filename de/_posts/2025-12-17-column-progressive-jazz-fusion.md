@@ -53,7 +53,7 @@ In dieser Zeit führten viele Jazzmusiker E-Pianos, E-Bässe und verstärkte Git
 
 ### Entstehung und Grundphilosophie der Band
 
-Weather Report wurde 1970 gegründet und legte Wert auf die klangliche Integrität des Ensembles als Ganzes und nicht auf die Exzellenz einzelner Solisten. Die traditionelle Rollenverteilung zwischen Thema, Begleitung und Improvisation wurde bewusst verwischt und die Stücke als Prozesse konzipiert, die im Laufe der Zeit entstehen und sich verändern, und nicht als feste Formen.
+Weather Report wurde 1970 gegründet und legte Wert auf die klangliche Integrität des gesamten Ensembles über die Exzellenz einzelner Solisten. Die traditionelle Rollenverteilung zwischen Thema, Begleitung und Improvisation wurde bewusst verwischt und die Stücke als Prozesse konzipiert, die im Laufe der Zeit entstehen und sich verändern, und nicht als feste Formen.
 
 Diese Idee zeichnet sich dadurch aus, dass Improvisation als „Klangproduktion einer Gruppe“ und nicht als „individueller Ausdruck“ betrachtet wird. Jedes Instrument verlässt seine feste Rolle als Hauptmelodie oder Begleitung und fungiert stattdessen als Element der Klangfarbe, rhythmischen Dichte und räumlichen Anordnung.
 
@@ -84,7 +84,7 @@ Die Tastatur nutzt ein E-Piano oder einen Synthesizer, und anstatt einen harmoni
 
 Das Mahavishnu Orchestra nahm seine Tätigkeit in den frühen 1970er Jahren auf und zeichnete sich durch extrem schnelle Tempi, komplexe Taktstrukturen und einen streng komponierten Unisono aus. Während Weather Report den Schwerpunkt auf die Erzeugung von Flüssigkeiten legte, kontrastiert Mahavishnu Orchestra mit der Betonung der Konstruierbarkeit und Reproduzierbarkeit.
 
-Die Improvisation findet hier eher in einem komponierten Rahmen als in völliger Freiheit statt. Jeder Künstler muss innerhalb höchster technischer Grenzen auftreten, und das Ensemble als Ganzes verfügt über die Integrität einer Präzisionsmaschine.
+Die Improvisation entwickelt sich hier eher in einem komponierten Rahmen als in völliger Freiheit. Jeder Künstler muss innerhalb höchster technischer Grenzen auftreten, und das Ensemble als Ganzes verfügt über die Integrität einer Präzisionsmaschine.
 
 ### Rhythmische Struktur und Form
 

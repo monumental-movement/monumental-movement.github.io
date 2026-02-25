@@ -10,7 +10,7 @@ tags:
 - House
 - Deep House
 - 10s
-title: '[Kolumne] Waajeed – Ein Schöpfer, der die Genealogie von Detroit immer wieder
+title: '[Kolumne] Waajeed – Ein Schöpfer, der die Genealogie von Detroit weiterhin
   erneuert'
 ---
 
@@ -27,7 +27,7 @@ Eine Person im Mittelpunkt ist **Waajeed**.
 Er begann seine Karriere rund um Slum Village und hat mit Platinum Pied Pipers (PPP), Tiny Hearts und seinem eigenen Label **Dirt Tech Reck** die musikalische Ästhetik Detroits weiterhin als „Plattform für die Verbindung zur Zukunft“ fungieren lassen.
 
 Seit Ende der 2010er Jahre baut er ein Werk auf, das direkter dem Fluss des Detroit House/Techno folgt und gleichzeitig den Ausdruck schwarzer Wurzeln in den Vordergrund rückt.
-Insbesondere die „Shango EP“ (2017)** und eines ihrer aktuellen Meisterwerke, die „Mother EP“ (2018)**, werden als Werke positioniert, die die Spiritualität und den Gemeinschaftscharakter der Clubmusik stark zum Ausdruck bringen und gleichzeitig die Traditionen von Detroit übernehmen.
+Insbesondere **„Shango EP“ (2017)** und eines ihrer aktuellen Meisterwerke, **„Mother EP“ (2018)** werden als Werke positioniert, die die Spiritualität und den Gemeinschaftscharakter der Clubmusik stark zum Ausdruck bringen und gleichzeitig die Traditionen von Detroit übernehmen.
 
 
 ---
@@ -75,7 +75,7 @@ Dabei handelt es sich um ein Projekt, das Hip-Hop, R&B, Soul und Beat-Musik auf 
 * PPPs Debütalbum
 * Mit Georgia Anne Muldrow, Tiombe Lockhart, Saadiq und mehr
 * Gilt als eines der „radikalsten und wärmsten Werke“ im damaligen Neo-Soul- und Hip-Hop-Kontext.
-* Ein wichtiges Werk, das Detroits schwarze Musikästhetik international bekannt machte.
+* Ein wichtiges Werk, das Detroits Ästhetik der schwarzen Musik international bekannt machte.
 
 In dieser Zeit verwischte Waajeed die Grenzen zwischen Sampling und Live-Musik und entwickelte einen „futuristischen Soul“-Stil, der keine Clubmusik war. **
 
@@ -158,7 +158,7 @@ Um Waajeeds Produktionsansatz zusammenzufassen, sind die folgenden drei Punkte z
 
 ---
 
-## **① Das Erbe Detroits erben und neu erschaffen**
+## **① Detroits Erbe erben und neu erschaffen**
 
 * Beeinflusst von J Dilla
 * Evangelium/Seelentradition
@@ -217,10 +217,10 @@ Die Technik, Synthesizer, Pads, E-Piano, Live-Drums, Percussion usw. auf natürl
 
 * **PPP『Triple P』(2005)**
 * **PPP『Abundance』(2009)**
-* **『The War LP』 (2012)**
+* **„The War LP“ (2012)**
 * **『Shango EP』(2017)**
 * **『From The Dirt』 (2017)**
-* **„Ten Toes Down EP“ (2018)**
+* **『Ten Toes Down EP』 (2018)**
 * **„Mutter“ (2022)**
 
 ---

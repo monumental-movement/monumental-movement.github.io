@@ -9,13 +9,13 @@ permalink: /ko/yellow-magic-orchestra-public-pressure/
 tags:
 - JPop
 - Techno
-title: 옐로우 매직 오케스트라 – 대중의 압력
+title: Yellow Magic Orchestra – Public Pressure
 ---
 
 
-1983년 Yellow Magic Orchestra의 Public Pressure가 Alfa 레이블로 발매되었습니다.
+1983년 옐로우 매직 오케스트라(옐로우 매직 오케스트라)의 공공 프레스저(공적 억압)가 라벨 알파에서 출시되었습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Rydeen
 
@@ -38,5 +38,5 @@ B5. Back In Tokio
 
 [メルカリで購入](https://jp.mercari.com/item/m68419972040?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5nlIt3tDmgY?si=gca4Y3rJ2VcN5IiX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

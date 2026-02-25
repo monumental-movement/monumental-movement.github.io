@@ -10,17 +10,17 @@ tags:
 - Hiphop
 - Reggae
 - 00s
-title: VA – 라 파밀리아 레게톤
+title: VA – La Familia Reggaeton
 ---
 
 
-2005년 발매된 "La Familia Reggaeton"은 실험적/산업적 노이즈 음악 그룹 SPK(Graeme Revell & Neil Hill)가 퀸즈 래퍼 N.O.R.E의 노래를 믹싱한 힙합/레게 음반입니다.
+2005년에 릴리스된 「La Familia Reggaeton」은, Queens 출신의 래퍼 N.O.R.E.의 곡을 익페리멘탈·인더스트리얼 노이즈 뮤직 그룹 SPK(Graeme Revell & Neil Hill)가 mix한 Hip Hop/Reggae 레코드.
 
-A1은 빅 마토(Big Mato), 칭고 블링(Chingo Bling), 팻 조(Fat Joe), 루미 디(Lumi Dee), 네그라(Negra), 니나 스카이(Nina Sky), 핏불(Pitbull)이 피처링한 트랙이다.
+A1은 Big Mato, Chingo Bling, Fat Joe, Lumi Dee, Negra, Nina Sky, Pitbull을 갖춘 트랙.
 
-B2는 빅마토(Big Mato), 엘부그스(L.Boogs), 마누엘리토(Manuelito)가 피처링한 곡이다.
+B2는, Big Mato, L. Boogs, Manuelito를 피처한 트럭.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. N.O.R.E. – Mas Maiz (Clean)
 A2. N.O.R.E. – Mas Maiz (Dirty)

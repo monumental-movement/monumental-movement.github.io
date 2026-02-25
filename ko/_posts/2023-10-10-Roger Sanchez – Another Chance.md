@@ -9,15 +9,15 @@ permalink: /ko/roger-sanchez-another-chance/
 tags:
 - House
 - Downtempo
-title: 로저 산체스 – 또 다른 기회
+title: Roger Sanchez – Another Chance
 ---
 
 
-Roger Sanchez는 미국의 하우스 DJ/리믹서/프로듀서입니다. 2003년에는 No Doubt의 "Hella Good"을 리믹스하여 그래미상을 수상했습니다.
+Roger Sanchez(로저 산체스)는 US 하우스 DJ/리믹서/프로듀서. 2003년에 No Doubt(노다우트) 「Hella Good」의 리믹스로 그래미상을 수상.
 
-Defected가 2001년 발표한 'Another Chance'는 로저 산체스의 시그니처 곡으로 전 세계적으로 히트를 쳤습니다.
+2001년에 Defectod에서 발표된 「Another Chance 어나더 찬스」는, 세계적으로 히트가 된 Roger Sanchez의 대표곡.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Another Chance (Original Mix)
 
@@ -28,5 +28,5 @@ B2. Another Chance (Afterlife Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m78518040318?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pf4fiP7SQF8?si=ex7CG-N5nJs6gqwb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

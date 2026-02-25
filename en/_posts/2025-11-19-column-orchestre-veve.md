@@ -80,7 +80,7 @@ In particular, early recordings such as ""Nakomitunaka" and ""Mfumbwa" have been
 
 The early 1970s saw Veve's most creative period. With Veran himself in charge as a recording producer, he was able to achieve a compact recording system and mass releases at the same time.
 
-The reason why this "coexistence of quantity and quality" was possible is as follows.
+この「量と質の共存」が可能だった理由は次の通りである。
 
 - **Systematization to maximize the operating rate of your own studio**
 - **Rotation system between performers**
@@ -103,7 +103,7 @@ These songs show the core of Veve's dance music, while also clearly showing the 
 
 Veve's lead guitar was characterized by a sharper "notch" melody than other bands at the time. Especially noticeable in recordings from the 1970s.
 
-- Chromatic leading rise
+- chromatic leading rise
 - fast tremolo
 - Short motif repeats of 2-4 bars
 
@@ -154,7 +154,7 @@ graph TD
 
 * **The saxophone presents the melody at the beginning → the guitar imitates**
 * **Vocals are "questions" and choruses are "responses"**
-* **Linear, high-pitched guitar solo**
+* **Linear, high-range guitar solo**
 
 ### Call and response structure
 
@@ -176,7 +176,7 @@ sequenceDiagram
 
 ## Song C: Nitarudia — Dance-oriented soukous eve
 
-In this song, a faster and more segmented guitar appears as a precursor to the soukousu style. It is said to be the most future-oriented sound of Veve's works.
+In this song, a faster and more fragmented guitar appears as a precursor to the song becoming sokusu. It is said to be the most future-oriented sound of Veve's works.
 
 ### Technical analysis
 
@@ -201,7 +201,7 @@ flowchart LR
 # Chapter 7 Recording technology, studio environment, production system
 
 Veve's recording environment was one of the most advanced in Africa at the time.
-It had its own studio and multiple recording engineers were always present, and had the following technical characteristics.
+It had its own studio, had multiple recording engineers on staff, and had the following technical characteristics:
 
 - **Quickly take advantage of the transition period from 2-4 track recording to 4-8 track recording**
 - **Stereo method of swinging the guitar left and right**
@@ -238,7 +238,7 @@ Although both are from the same era, their directions are very different.
 
 ## Musical distance with OK Jazz
 
-Veran himself is from OK Jazz, so they have the same sense of harmony and depth of melodic processing, but
+Since Veran himself is from OK Jazz, they have the same sense of harmony and depth of melodic processing, but
 Veve is more modern and danceable compared to OK Jazz.
 
 ## Commonalities with Afrisa International

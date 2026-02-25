@@ -22,7 +22,7 @@ title: Blak Beat Niks – Le soleil brillera
 
 
 
-Blak Beat Niks est un projet de Craig Simpkins et Ed Matthews, également membres de Da Posse. Il travaille également sous les noms de Boogie Bruthaz et Serenity Project.
+Blak Beat Niks est un projet de Craig Simpkins et Ed Matthews, également membres de Da Posse. Il se produit également sous les noms de Boogie Bruthaz et Serenity Project.
 
 "The Sun Will Shine" est un morceau latin/Deep House sorti sur le label Slip 'n' Slide en 2004.
 

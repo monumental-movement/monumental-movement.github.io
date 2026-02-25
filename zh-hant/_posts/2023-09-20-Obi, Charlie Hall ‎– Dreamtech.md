@@ -10,7 +10,7 @@ tags:
 - House
 - Deep House
 - Tribal
-title: 奧比·查理·霍爾 – Dreamtech
+title: 奧比·查理霍爾 – Dreamtech
 ---
 
 
@@ -22,7 +22,7 @@ B2是一款完全魔幻催眠的部落碎拍深屋傑作。這張唱片使用了
 
 這張唱片確實是挖掘者的夢想，在您尋找的 12 英寸唱片中很少能找到這樣的東西。這絕對是一個值得更多關注的記錄。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Labanba
 
@@ -31,7 +31,7 @@ A2. House Pod
 AA1. Dreamtech
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m49518581240?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m49518581240?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3qRHr0eoZlA?si=hsm9vz3Gr4BXTIVr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,15 +10,15 @@ tags:
 - House
 - Tribal House
 - 00s
-title: 킹스 오브 투모로우(Kings Of Tomorrow) 피쳐링 Haze – Dreams(리믹스)
+title: Kings Of Tomorrow Featuring Haze – Dreams (Remixes)
 ---
 
 
-Sandy Rivera와 Jay "Sinister" Sealée의 프로덕션 팀인 Kings Of Tomorrow의 Haze가 피쳐링한 스페인 DJ/프로듀서 듀오 Chus & Ceballos가 리믹스한 House/Tribal House 트랙입니다.
+Sandy Rivera와 Jay "Sinister" Sealée의 프로덕션 팀 Kings Of Tomorrow가 Haze를 피처한 "Dreams"를 스페인 DJ / 프로듀서 듀오 Chus & Ceballos (추스 & 세바로스)가 리믹스 한 House / Tribal House 트랙.
 
-2004년 영국의 유명 댄스 레이블 Defected가 발매한 곡입니다.
+2004 년 영국의 명문 댄스 라벨 Defectd에서 출시되었습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Dreams (Chus & Ceballos Club Mix)
 

@@ -11,13 +11,13 @@ tags:
 - Noise
 - Experimental
 - 7inch
-title: 헤어스타일리쉬 – 내 인생 최고의 헤어스타일 중 불쾌한 공포의 인상
+title: Hair Stylistics – Impression Of Nasty Dread Best Of Hair-Style In My Life
 ---
 
 
-Hair Stylistics(Hair Stylistics a.k.a. 나카하라 마사야)의 "Impression Of Nasty Dread Best Of Hair-Style In My Life"는 1999년에 발매된 7인치 앨범입니다.
+Hair Stylistics(헤어 스타일리스틱스 a.k.a. 나카하라 마사야)에 의한 「Impression Of Nasty Dread Best Of Hair-Style In My Life」는, 1999년 릴리스의 7 인치.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Impression Of Nasty Dread
 

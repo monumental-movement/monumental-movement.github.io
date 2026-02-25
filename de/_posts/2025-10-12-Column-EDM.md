@@ -19,9 +19,9 @@ title: '[Kolumne] Die Illusion von EDM: Feiern und Wiederaufbau im digitalen Zei
 ## Es gibt einen Moment, in dem Klang zur Architektur wird
 
 
-Text: mmr｜Thema: Festivals und Städte, Ton und Licht, Menschenmassen und Technologie. Wie hat das Phänomen EDM die Form von Feierlichkeiten im 21. Jahrhundert verändert?
+Text: mmr | Thema: Festivals und Städte, Ton und Licht, Menschenmassen und Technologie. Wie hat das Phänomen EDM die Form von Feierlichkeiten im 21. Jahrhundert verändert?
 
-Ein Laserlichtblitz zerteilt den Nachthimmel, der Bass vibriert tief in seinem Körper und unzählige Arme heben sich gleichzeitig.
+Ein Laserlichtblitz zerteilt den Nachthimmel, der Bass zittert tief in seinem Körper und unzählige Arme heben sich gleichzeitig.
 Das Phänomen „EDM“ war mehr als nur ein Musikgenre, es war eine Feier des digitalen Zeitalters.
 In den 2010er Jahren wurden Städte auf der ganzen Welt durch den Klang neu geformt. Die Wüste von Las Vegas, die Wälder Belgiens, die Bucht von Tokio.
 In dieser Kolumne werfen wir einen Blick auf die Entstehung, Transformation und „Darüber hinaus“ von EDM aus der Schnittstelle von Klang, Licht, Körper und Technologie.
@@ -114,14 +114,14 @@ In den späten 2010er Jahren wurde EDM zu einem Meme.
 Der Drop wird auf TikTok geschnitten und der Rhythmus geht viral wie ein GIF.
 Der „Closer“ der Chainsmokers ist ein Symbol dafür.
 Ein DJ ist sowohl Produzent als auch **Marke**.
-Logos, Parfums, NFTs, Kopfhörer – sie alle sind zu „Industrien rund um den Klang“ geworden.
+Logos, Parfums, NFTs, Kopfhörer – sie alle sind zu „Sound-bezogenen Branchen“ geworden.
 
 ---
 
 ### Ⅵ. Verzweigung und Mutation: Post-EDM-Horizont
 
 Irgendwann schwächeln die Feierlichkeiten.
-Die Leute, die das grelle Licht der Hauptbühne satt hatten, kehrten in die dunklen Clubs zurück.
+Menschen, die das grelle Licht der Hauptbühne satt hatten, kehrten in die dunklen Clubs zurück.
 
 „Introspektives EDM“, demonstriert von Porter Robinson und Madeon——
 Es war kein Festival, es war ein Klang, der sich mit individuellen Emotionen auseinandersetzte.

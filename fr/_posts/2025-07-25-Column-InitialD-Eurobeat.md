@@ -35,7 +35,7 @@ De la fin des années 1990 aux années 2000, un anime japonais a complètement c
 <hr>
 
 ### L'histoire du col et de l'esprit
-"Initial D" est un manga de Shuichi Shigeno publié en série dans "Weekly Young Magazine" depuis 1995. L'histoire se déroule sur un col de montagne dans la préfecture de Gunma, et le personnage principal, Takumi Fujiwara, apprend les techniques de dérive tout en livrant du tofu dans l'AE86 (Toyota Sprinter Trueno) de son père, et se réveille progressivement en tant que coureur.
+"Initial D" est un manga de Shuichi Shigeno qui est publié en série dans "Weekly Young Magazine" depuis 1995. L'histoire se déroule sur un col de montagne dans la préfecture de Gunma, et le personnage principal, Takumi Fujiwara, apprend les techniques de dérive tout en livrant du tofu dans l'AE86 (Toyota Sprinter Trueno) de son père, et se réveille progressivement en tant que coureur.
 
 Il a été transformé en anime en 1998 et est devenu un sujet brûlant pour son action de voiture 3D basée sur CG et sa musique au tempo élevé.
 
@@ -106,16 +106,25 @@ L'Eurobeat est réinterprété de nouvelles manières sur les vidéos TikTok et 
 
 En conséquence, l'Eurobeat est devenu une musique inhabituellement « émotionnelle » au Japon. Autrement dit:
 
-L'Eurobeat est une musique qui parle de vitesse, et en même temps, elle est devenue un média qui raconte l'histoire d'une traversée de quelque chose tout en perdant quelque chose.
+Si l’Eurobeat est une musique qui parle de vitesse, elle est également devenue un média qui raconte l’histoire d’une traversée de quelque chose tout en perdant quelque chose.
 
 
 <hr>
 
-### La mémoire de la vitesse ne s'effacera jamais
+### La mémoire de la vitesse ne disparaîtra jamais
 ``Initial D'' est terminé, mais les souvenirs d'Eurobeat circulent encore sur Internet. Même si la course est terminée, à chaque fois que la musique retentit, la course recommence.
 
 C'est aussi une expérience de revivre notre propre « jeunesse » et notre « impulsion ».
 Même maintenant, chaque fois que j’entends ce son, mon cœur devient fou.
+
+---
+
+
+### Podcasts YouTube
+
+*Ce podcast est en anglais, mais vous pouvez le regarder avec sous-titres et traduction automatiques.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eR0-I4Xeo5o?si=TMXZAmOp3klwwJQI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

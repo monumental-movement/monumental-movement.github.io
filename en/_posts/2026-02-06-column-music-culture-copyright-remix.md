@@ -85,7 +85,7 @@ At the same time, there are exceptions such as quotation, personal use, and educ
 
 A distinctive feature of US copyright law is the fair use provision. It has the flexibility to allow use without permission after comprehensively determining factors such as the purpose of use, nature of the work, amount of use, and impact on the market.
 
-In music sampling lawsuits, there has been an increase in the number of cases in which even short fragments are judged to be infringing, but modified uses for parody and criticism have been protected to a certain extent. This concept of transformability has become an important criterion in video remix and meme culture.
+In music sampling lawsuits, there has been an increase in the number of cases in which even short fragments are judged to be infringing, but modified uses for parody and criticism have been protected to a certain extent. This concept of deformability has become an important criterion in video remix and meme culture.
 
 > US law has a structure in which freedom of expression and protection of rights are adjusted after the fact.
 
@@ -95,7 +95,7 @@ In music sampling lawsuits, there has been an increase in the number of cases in
 
 In the EU, the focus is on directives aimed at harmonizing systems among member countries. While copyright protection is relatively strong, there are clear exceptions regarding parody and quotation.
 
-The Digital Single Market Directive clarified platform responsibilities and had a major impact on how remixes and user-generated content are handled. It has also been pointed out that the automatic detection and deletion mechanism may lead to atrophy of expression.
+The Digital Single Market Directive clarified platform responsibilities and had a major impact on how remixes and user-generated content are treated. It has also been pointed out that the automatic detection and deletion mechanism may lead to atrophy of expression.
 
 > EU law systematically seeks a balance between market integration and cultural protection.
 
@@ -115,7 +115,7 @@ On the other hand, in recent years, efforts have been made to respond to the dig
 
 In the video field, re-editing movies, reconstructing trailers, and fan-made videos have expanded remix culture. Because visual references are more obvious than music, rights issues are easier to visualize.
 
-Still, critical reediting and pedagogical use have gained some legitimacy.
+Still, critical reediting and educational use have gained some legitimacy.
 
 > Video remix emphasizes criticality through the power of visual quotation.
 
@@ -143,7 +143,7 @@ This can be said to be a choice that prioritizes cultural sustainability over st
 
 ## Re-editing problem in the AI ​​era
 
-Generation and conversion by AI further expands the concept of remixing. Data use, output similarity, and style imitation during the learning stage raise issues that cannot be resolved using traditional copyright concepts.
+Generation and conversion by AI further expands the concept of remixing. Data use, output similarity, and style imitation during the learning stage raise issues that cannot be resolved using conventional copyright concepts.
 
 > AI will redefine who is responsible for remixing.
 

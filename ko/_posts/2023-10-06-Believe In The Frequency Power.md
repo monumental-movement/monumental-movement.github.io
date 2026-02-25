@@ -9,13 +9,13 @@ permalink: /ko/believe-in-the-frequency-power/
 tags:
 - Techno
 - Acid
-title: 주파수 전력을 믿으세요
+title: Believe In The Frequency Power
 ---
 
 
-"Believe In The Frequency Power"는 영국 레이블 "North South"가 1994년에 발매한 컴필레이션 앨범입니다.
+'Believe In The Frequency Power'는 1994년 UK의 라벨 'North South'에서 발매된 컴필레이션 앨범입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Organization–Eternal
 
@@ -38,5 +38,5 @@ B5. Kiyoshi Hazemoto–Dawn Of Rainland
 
 [メルカリで購入](https://jp.mercari.com/item/m23425148863?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CURYL9vRtMw?si=gaB6hOqWkSg5yz-G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

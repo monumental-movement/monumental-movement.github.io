@@ -71,7 +71,7 @@ There is often a structure in which they talk to their inner demons and ask God 
 
 ### 2. Animal metaphor
 DMX often refers to himself as "dog".
-It is a symbol of violence and at the same time indicates **loyalty, solitude, and wildness**.
+It is a symbol of violence, and at the same time indicates **loyalty, solitude, and wildness**.
 The dog was the only companion he could trust, and the object of his prayers.
 
 > "I trust dogs more than humans."
@@ -138,7 +138,7 @@ His faith is not one of forgiveness but **faith in battle**.
 ### 1. A man sleeping with a dog
 
 DMX has rescued homeless dogs and lived with them on the streets.
-He also brought his dog with him on tour, saying, ""**Dogs have pure souls**.''
+He also brought his dog with him on tour, saying, ""Dogs have pure souls.''
 
 ### 2. Free Sermon
 
@@ -192,7 +192,7 @@ Those words still serve as a self-forgiveness mantra for many young people today
 ## X. Conclusion: Mythical structure called DMX
 
 DMX's story is more than just a hip-hop biography.
-It was a **modern religious drama** and a myth about the coexistence of **violence and prayer**.
+It was a **modern religious drama** and a myth depicting **the coexistence of violence and prayer**.
 
 *His "roar" is not anger, but a cry to prove his existence**
 *His "prayer" is not salvation but **continuation of the battle**

@@ -14,7 +14,7 @@ title: 美國空軍 F-15 鷹超級戰鬥機
 
 美國空軍 F-15 鷹超級戰鬥機
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1  プロローグ
 
@@ -33,4 +33,4 @@ B3  空中戦訓練中の無線交信 （コクピットにて）
 B4  夕暮れの着陸
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m59353657032?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m59353657032?afid=6142608987){: .button1}

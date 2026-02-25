@@ -9,14 +9,14 @@ permalink: /ko/various-viennatone/
 tags:
 - Breaks
 - Minimal
-title: 다양 – 비엔나톤
+title: Various – Viennatone
 ---
 
 
-"Various - Viennatone"은
-1999년 독일의 !k7레코드가 발표한 작품입니다.
+"Various – Viennatone"은
+1999년에 독일의! k7 records로부터 릴리스 된 작품입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Count Basic–Gotta Jazz
 
@@ -43,5 +43,5 @@ title: 다양 – 비엔나톤
 
 [メルカリで購入](https://jp.mercari.com/item/m83184827201?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UgOdCoAjEWE?si=fl1__B3nErk6T2jb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

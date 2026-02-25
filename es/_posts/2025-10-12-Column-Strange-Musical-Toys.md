@@ -44,7 +44,7 @@ color: #fff;
 ##Ⅰ. El placer de las manos jugando con el sonido
 
 No debemos olvidar que el "sentido táctil" está en el origen del acto musical. Cuando tocas las cuerdas, presionas las teclas o giras las perillas, recibes una respuesta al alcance de tu mano. Esta inmediatez es la misma en los juguetes con los que los niños entran en contacto durante su infancia.
-En el siglo XXI, los sonidos electrónicos se han extendido a los juguetes y aparatos educativos de los niños, y el propio acto de "sonar" ha llegado a diseñarse como parte del juego. La línea entre juguetes e instrumentos musicales es cada vez más borrosa.
+En el siglo XXI, los sonidos electrónicos se han extendido a los juguetes y aparatos educativos de los niños, y el propio acto de "sonar" se ha diseñado como parte del juego. La línea entre juguetes e instrumentos musicales es cada vez más borrosa.
 
 ---
 
@@ -96,7 +96,7 @@ Una fusión de sutiles sonidos electrónicos y sensación analógica. La delicad
 ## Ⅳ. Dispositivos de sonido extraños europeos.
 
 ### Stylophone y Optigan
-El Stylophone británico es un sintetizador de escritorio conocido por los anuncios de televisión de los años 70. Cuando recorre los contactos metálicos con las yemas de los dedos, suena un pitido distintivo. Su facilidad y sensación ruidosa se incorporaron al tecno-pop temprano y a la música de vanguardia.
+El British Stylophone es un sintetizador de escritorio conocido por los anuncios de televisión de los años 70. Cuando recorre los contactos metálicos con las yemas de los dedos, suena un pitido distintivo. Su facilidad y sensación ruidosa se incorporaron al tecno-pop temprano y a la música de vanguardia.
 El Optigan es un órgano de juguete que reproduce sonidos mediante discos ópticos y se caracteriza por patrones y ritmos impredecibles.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EL8PH9Fx0hw?si=aRc6EJ8WPVcaAXI9" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
@@ -165,7 +165,7 @@ Los sonidos electrónicos se pueden experimentar fácilmente en los escritorios 
 
 ##VII. Estética irregular escandinava
 
-En Escandinavia han aparecido sintetizadores pequeños y de gran diseño.
+En Escandinavia han aparecido pequeños sintetizadores de gran diseño.
 
 - Ingeniería adolescente OP-1
 - Serie Operador de bolsillo

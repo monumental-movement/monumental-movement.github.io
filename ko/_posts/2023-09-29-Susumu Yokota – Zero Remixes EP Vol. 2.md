@@ -9,13 +9,13 @@ permalink: /ko/susumu-yokota-zero-remixes-ep-vol-2/
 tags:
 - House
 - Remix
-title: 요코타 스스무 - Zero Remixes EP Vol.2
+title: Susumu Yokota – Zero Remixes EP Vol.2
 ---
 
 
-리믹스컷 Vol. 2001년 Sublime Records에서 발매된 요코타 스스무의 걸작 "Zero"의 2번에는 교토 재즈 매시브(Kyoto Jazz Massive)의 "Feel My Love" 리믹스와 요코타 스스무 자신의 할렐루야 믹스가 포함되어 있습니다.
+2001년에 Sublime Records에서 발표된 Susumu Yokota의 명작 「Zero」로부터의 리믹스 컷 Vol.2는, 「Feel My Love」에서는 Kyoto Jazz Massive에 의한 리믹스와 Hallelujah에서는 Susumu Yokota 자신의 믹스를 수록.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Feel My Love (Kyoto Jazz Massive Mix)
 
@@ -28,5 +28,5 @@ B2. Could Heaven Ever Be Like This (Malawi Rocks Mix Instrumental)
 
 [メルカリで購入](https://jp.mercari.com/item/m62284633728?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1pMu8xHxGkc?si=7rFR-uTkH1UM77lx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

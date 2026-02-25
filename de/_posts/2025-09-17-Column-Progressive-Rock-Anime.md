@@ -95,7 +95,7 @@ Andererseits gibt es jedoch immer noch Raum dafür, dass Progressive-Rock-Techni
 ### ■ Was wäre, wenn Progressive Rock in den Anime eingedrungen wäre?
 Stellen Sie sich das einfach vor.
 - Symphonischer Progressive Rock, der die Fantasiewelt von Hayao Miyazakis Werken unterstützt.
-- King-Crimson-ähnliches, schneidendes Gitarrenriff, das durch Cyberpunk-Anime widerhallt.
+- King-Crimson-artiges schneidendes Gitarrenriff, das durch Cyberpunk-Anime widerhallt.
 - Stellen Sie sich langfristige Serienwerke als Alben vor und entwerfen Sie Musik mit Progressive-Rock-Suiten für jede Staffel.
 
 Die Affinität zwischen Anime und Progressive Rock ist nicht nur eine Kombination aus Musikgenres und visuellen Ausdrucksformen, sondern hat das Potenzial, sich auf die strukturelle Gestaltung der gesamten Geschichte auszudehnen.
@@ -137,9 +137,9 @@ Die Affinität zwischen Anime und Progressive Rock ist nicht nur eine Kombinatio
 
 
 ### ■ Fazit
-Progressive Rock wurde im kommerziellen Anime nie zum „Mainstream“. Seine Merkmale wie lange Struktur, schwieriger Rhythmus und konzeptioneller Charakter weisen jedoch eine hohe Affinität zur Taiga-Entwicklung von Anime-Werken auf, die sich auf Science-Fiction und Fantasy konzentrieren.
+Progressive Rock wurde im kommerziellen Anime nie zum „Mainstream“. Seine lange Komposition, sein schwieriger Rhythmus und seine konzeptionelle Natur weisen jedoch eine hohe Affinität zur Taiga-ähnlichen Entwicklung von Anime-Werken auf, die sich auf Science-Fiction und Fantasy konzentrieren.
 
-Beispiele wie Neon Genesis Evangelion, die Progressive-Rock-Techniken direkt integrieren, sind nur die Spitze des Eisbergs. Auch in Zukunft wird die Illusion „Was wäre, wenn Anime durch Progressive Rock erzählt würde“ weiterhin neue Überschneidungen zwischen Musik und Video aufzeigen.
+Beispiele wie Neon Genesis Evangelion, die Progressive-Rock-Techniken direkt integrieren, sind nur die Spitze des Eisbergs. Auch in Zukunft wird die Wahnvorstellung „Was wäre, wenn Anime im Progressive Rock erzählt würde“ weiterhin neue Überschneidungen zwischen Musik und Video aufzeigen.
 
 
 ---

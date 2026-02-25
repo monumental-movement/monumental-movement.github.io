@@ -11,16 +11,16 @@ tags:
 - Downtempo
 - Ambient
 - 90s
-title: 깊은 숲 – 깊은 숲
+title: Deep Forest – Deep Forest
 ---
 
 
-딥 포레스트(Deep Forest)는 Michel Sanchez와 Éric Mouquet가 1992년에 결성한 듀오입니다. 에스닉, 일렉트로닉, 댄스 비트, 칠아웃 비트가 혼합된 에스닉 일렉트로니카(ethnic electronica)라는 월드 뮤직 스타일이 특징이다.
+Deep Forest는 1992년에 Michel Sanchez(미셸 산체즈)와 Éric Mouquet(에릭 무케)에 의해 결성된 듀오. 에스닉, 일렉트로닉, 댄스 비트, 칠아웃 비트를 믹스한, 에스닉 일렉트로니카라고 불리는 월드 뮤직의 스타일이 특징.
 
-1992년에 발매된 이 앨범은 그래미상 후보에 올랐고 "Sweet Lullaby"는 전 세계적으로 히트를 쳤습니다.
+1992년에 발표된 이 앨범은, 그래미상의 후보로 되어, 「Sweet Lullaby」는 세계적인 대히트가 되었다.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Deep Forest
 2. Sweet Lullaby
@@ -36,5 +36,5 @@ title: 깊은 숲 – 깊은 숲
 
 [メルカリで購入](https://jp.mercari.com/item/m99158480308?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ovwGCpx8ecY?si=0gwiOrYT1sVmECcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

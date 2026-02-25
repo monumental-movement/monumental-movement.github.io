@@ -17,7 +17,7 @@ Midnight Juggernauts fue una banda australiana de música electrónica que estuv
 
 La segunda pista de la cara A es un remix de Chateau Marmont, fundador de Chambre404, un productor de música electrónica francés y equipo de intérpretes en vivo con sede en París.
 
-La primera canción de la cara B es un remix de la banda británica de electrónica/alternativa Metronomy. La segunda canción de la cara B es un remix del músico y productor electrónico francés Danger (Franck Rivoire).
+La primera canción de la cara B es un remix de la banda británica de música electrónica/alternativa Metronomy. La segunda canción de la cara B es un remix del músico y productor electrónico francés Danger (Franck Rivoire).
 
 #### Lista de canciones
 ```md

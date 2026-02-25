@@ -74,7 +74,7 @@ These will later serve as a basis for enhanced experimentation.
 * Sound image design that does not hide artificiality
 * Simultaneous visual expression and music production
 
-This experimental nature decomposes the listener's experience into multiple layers and expands music listening from an ""auditory-only act.''
+This experimental nature decomposes the listener's experience into multiple layers and expands music listening from an ""auditory-only activity.''
 
 ---
 
@@ -114,7 +114,7 @@ The visuals presented along with the music do not serve to explain the worldview
 
 Carpenter Brut represents a different direction in electropop experimentation.
 
-### Acoustic characteristics
+### Acoustic features
 
 * Synthwave tone design
 * Extremely emphasized rhythm and distortion
@@ -128,7 +128,7 @@ The experimental nature of Carpenter Brut manifests itself less in the music its
 
 ## Chapter 7 Visual Culture and Electropop Experiments
 
-In electropop experimental music, the following elements work together, rather than just music alone.
+In electropop experimental music, the following elements work together, rather than just the music alone.
 
 * Album artwork
 * Music video

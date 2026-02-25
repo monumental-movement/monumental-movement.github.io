@@ -23,7 +23,7 @@ Text: mmr｜Theme: Using speed and distortion as weapons, we depict the history 
 
 In the late 1980s, Chicago house and Detroit techno traveled to Europe, receiving their own interpretations in each city. In Germany, there is an emphasis on minimal and mechanical repetition, while in England, breakbeats and rave culture are combined. Meanwhile, in the Netherlands, there was an unusual amount of interest in the ""hardness" and ""speed" of techno.
 
-At the time, Dutch DJs didn't play imported American techno as it was, but instead raised the pitch and used equalizers to exaggerate the low frequencies to see how the floor would react. The BPM exceeds 140, the beat becomes more linear, and the music begins to be treated as a shock to the body.
+At the time, Dutch DJs didn't play imported American techno as it was, but instead raised the pitch and used equalizers to exaggerate the low frequencies to see how the floor would respond. The BPM exceeds 140, the beat becomes more linear, and the music begins to be treated as a shock to the body.
 
 This change was driven more by the field than by studio production. Parties in clubs and warehouses became testing grounds, and the audience's reaction directly determined the direction of the music. Immediate effectiveness began to be valued over refinement, and destructive power over architectural beauty.
 

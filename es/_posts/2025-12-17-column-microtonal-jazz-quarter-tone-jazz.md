@@ -42,7 +42,7 @@ color: #fff;
 
 ## Capítulo 1: Microtonos y la Prehistoria del Jazz
 
-### 1-1 Posición histórica de los intervalos microtonales
+### 1-1 Posición histórica del intervalo microtonal
 
 Los intervalos microtonales existen en la música occidental desde antes del siglo XX. La diferencia de coma en el temperamento pitagórico y la entonación justa de la Edad Media y el Renacimiento incluye una diferencia de intervalo de menos de un semitono. Sin embargo, con el establecimiento del temperamento 12-igual con el fin de simplificar la notación musical y la enseñanza, estas ideas pasaron a un segundo plano teórico.
 
@@ -142,7 +142,7 @@ En el enfoque de Collier, las voces individuales pueden tener diferentes supuest
 
 ---
 
-## Capítulo 5: Operación de microtonos en la improvisación
+## Capítulo 5: Uso del microtono en la improvisación
 
 ### 5-1 Construcción de frases
 
@@ -150,7 +150,7 @@ En la improvisación de jazz microtonal, la dirección de la transición del ton
 
 ### 5-2 Relación con el ritmo
 
-A medida que se subdividen los intervalos, el papel del ritmo también cambia. Se utilizan en combinación un método para presentar diferencias de tono mínimas utilizando valores de notas largas y un método para aumentar la densidad del tono mediante la creación de una serie de valores de notas cortas.
+Al subdividir el tono, también cambia el papel del ritmo. Se utilizan en combinación un método para presentar diferencias de tono mínimas utilizando valores de notas largas y un método para aumentar la densidad del tono mediante la creación de una serie de valores de notas cortas.
 
 ### 5-3 Profundización en el análisis acústico
 

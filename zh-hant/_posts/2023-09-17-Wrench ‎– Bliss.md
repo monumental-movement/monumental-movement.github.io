@@ -18,7 +18,7 @@ Wrench 於 1992 年 7 月由 Shige、Azusa Sakamoto、Tomohiro Matsuda 和 Fujim
 
 這張專輯是2000年發行的雙LP唱片。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1  Sound Wave
 
@@ -59,7 +59,7 @@ D1  Passion
 D2  Blood Type Mysterious
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m26534523251?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m26534523251?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lJ1D_vYYAug?si=Y5Ga3kjLFF9wfMxy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

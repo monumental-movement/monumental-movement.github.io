@@ -9,17 +9,17 @@ permalink: /ko/talking-heads-little-creatures/
 tags:
 - New-Wave
 - Post Punk
-title: 말하는 머리 – 작은 생물
+title: Talking Heads – Little Creatures
 ---
 
 
-"Little Creatures"는 Talking Heads의 음악적 발전 중 하나를 나타냅니다. 이번 앨범은 팝적인 요소를 밴드 사운드에 접목시켰으며, 멜로디컬하고 눈길을 끄는 노래들로 가득 차 있다. 이를 통해 그들의 음악은 더 많은 청중에게 어필할 수 있었습니다.
+Little Creatures는 토킹 헤드의 음악적 진화 중 하나를 보여주는 작품입니다. 앨범은 밴드의 사운드에 팝적인 요소를 도입해, 멜로디아스로 캐치인 곡이 풍부하게 수록되어 있습니다. 이것은 그들의 음악이 더 넓은 청중에게 호소하는 데 성공했습니다.
 
-이 앨범에는 히트곡 "And She Was"와 "Road to Nowhere"를 포함한 많은 노래가 포함되어 있습니다. 이 곡들은 토킹헤즈 특유의 리듬과 유머러스한 가사, 중독성 있는 멜로디가 어우러져 많은 이들의 사랑을 받았다.
+앨범에는 히트곡 'And She Was'와 'Road to Nowhere'를 포함한 많은 곡이 수록되어 있습니다. 이 노래는 토킹 헤즈의 특징적인 리듬, 유머러스 한 가사, 캐치 멜로디가 융합되어 많은 사람들에게 사랑 받았습니다.
 
-"Little Creatures"는 Talking Heads의 경력 중 상업적으로 가장 성공적인 앨범이었으며 비평가들의 찬사를 받았습니다.
+'Little Creatures'는 토킹헤즈의 경력 중에서도 상업적으로도 성공한 앨범으로 비평가로부터도 높은 평가를 받았습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. And She Was
 
@@ -42,5 +42,5 @@ B4. Road To Nowhere
 
 [メルカリで購入](https://jp.mercari.com/item/m89766672710?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cl3B_FTDKD0?si=WT0U3FTNIBn08KP0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

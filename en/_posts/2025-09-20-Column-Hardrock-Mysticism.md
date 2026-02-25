@@ -14,7 +14,7 @@ title: '[Column] The intersection of hard rock, oriental philosophy, and mystici
 
 ## "West" and "East" hidden in hard rock
 
-Text: mmr｜Theme: Exploring the relationship between hard rock, Eastern philosophy, and mysticism through the examples of Led Zeppelin and Deep Purple
+Text: mmr | Theme: Exploring the relationship between hard rock, Eastern philosophy, and mysticism through the examples of Led Zeppelin and Deep Purple
 
 Hard rock is a major genre of rock that exploded from the late 1960s to the 1970s. Its musicality is characterized by its bold incorporation of Eastern philosophy and mystical elements, in addition to Western machoism and strength.
 
@@ -66,7 +66,7 @@ flowchart LR
 
 </div>
 
-As shown in this diagram, hard rock combines the power of Western rock with influences from Eastern thought and occultism. As a result, we have built a ""rich musical ground'' that can be applied to movie soundtrack production and the latest AI music generation.
+As shown in this diagram, hard rock combines the power of Western rock with influences from Eastern philosophy and occultism. As a result, we have built a ""rich musical ground'' that can be applied to movie soundtrack production and the latest AI music generation.
 
 ---
 

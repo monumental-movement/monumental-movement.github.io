@@ -9,14 +9,14 @@ permalink: /ko/modest-mouse-764-hero-whenever-you-see-fit/
 tags:
 - Downtempo
 - Indie Rock
-title: Modest Mouse 764-HERO – 필요할 때마다
+title: Modest Mouse 764-HERO – Whenever You See Fit
 ---
 
 
-"당신이 적합하다고 볼 때마다"는
-1998년 Suicide Squeeze에서 발매된 Modest Mouse/764-HERO의 EP입니다.
+'Whenever You See Fit'은
+1998년 Suicide Squeeze에서 출시된 Model Mouse/764-HERO에 의한 EP입니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Whenever You See Fit (Original Version)
 
@@ -27,5 +27,5 @@ B2. Whenever You See Fit (Sientific American Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m99852743815?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4FhVkJkOjiU?si=-XOGs3zBc2_iqlCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

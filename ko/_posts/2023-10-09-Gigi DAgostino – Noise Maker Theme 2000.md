@@ -9,15 +9,15 @@ permalink: /ko/gigi-dagostino-noise-maker-theme-2000/
 tags:
 - Trance
 - Progressive
-title: Gigi D'Agostino – 소음 발생기 테마 2000
+title: Gigi D'Agostino – Noise Maker Theme 2000
 ---
 
 
-"Gigi D'Agostino – 노이즈 메이커 테마 2000"은
-B면에는 94년의 훌륭한 원본이 포함되어 있습니다.
+「Gigi D'Agostino – Noise Maker Theme 2000」은,
+멋진 '94년의 오리지널이 B면에 수록되어 있습니다.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Noise Maker Theme (2000 Remix)
 
@@ -26,5 +26,5 @@ B. Noise Maker Theme (Original Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m32554677357?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mpQ2r4AkX6w?si=7BHWO2a_ACtVS3Rf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

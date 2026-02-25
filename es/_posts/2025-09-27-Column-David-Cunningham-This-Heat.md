@@ -74,7 +74,7 @@ Aquí analizaremos la letra de cada canción desde un punto de vista socialmente
 
 This Heat (1976-1982) fue una banda de rock experimental de Londres formada por Charles Hayward, Charles Burrell y Gareth Williams. Cunningham estuvo profundamente involucrado en la grabación y edición, brindando soporte técnico para la introducción de bucles de cinta, retroalimentación y collage acústico.
 
-En particular, trabajar en **Cold Storage Studio** (un estudio experimental convertido de un almacén refrigerado) se convirtió en un lugar donde Cunningham pudo demostrar sus habilidades técnicas. Cortar y unir cintas, reproducirlas al revés y desensamblar la grabación en 24 pistas dio lugar a sonidos que luego se conectarían directamente con la escena post-rock y noise.
+En particular, trabajar en **Cold Storage Studio** (un estudio experimental convertido de un almacén refrigerado) se convirtió en un lugar donde Cunningham pudo demostrar sus habilidades técnicas. Cortar y unir cintas, reproducirlas al revés y desensamblar la grabación en 24 pistas dio lugar a sonidos que luego se conectarían directamente con las escenas post-rock y noise.
 
 ---
 
@@ -83,7 +83,7 @@ En particular, trabajar en **Cold Storage Studio** (un estudio experimental conv
 #### “Este calor” (1979)
 
 - **"Not Waving"**: El título recuerda un poema de Stevie Smith. Simboliza la soledad individual y la alienación nacional.
-- **"24 Track Loop"**: Sin letra, pero expresa la "repetición mecánica del capitalismo" con sonido. El bucle infinito es una metáfora de "una época estancada".
+- **"24 Track Loop"**: Sin letra, pero expresa la "repetición mecánica del capitalismo" con sonido. El bucle infinito es una metáfora de la "era del estancamiento".
 - **"Retención horizontal"**: citado de la terminología televisiva. Una sátira de la "manipulación de la información" y el "control de los medios de comunicación" durante la Guerra Fría.
 
 ---
@@ -127,7 +127,7 @@ La letra era más clara que la versión de estudio y el comentario social se ent
 
 #### Ecualizador analógico y externo
 - Utiliza ecualizador estilo Neve y Trident.
-- La vívida interpretación de la banda está deliberadamente "distorsionada" y "dispuesta espacialmente" para enfatizar su naturaleza experimental.
+- La animada actuación de la banda está deliberadamente "distorsionada" y "dispuesta espacialmente" para enfatizar su naturaleza experimental.
 - Se utilizó para crear una "incomodidad acústica" en lugar de una corrección estándar.
 
 ---
@@ -176,7 +176,7 @@ flowchart TD
 ### Conclusión
 
 - **Interpretación lírica**: This Heat critica la Guerra Fría tanto lírica como sonoramente.
-- **Filosofía de grabación de Cunningham**: Utiliza equipos como Revox, Studer y EQ como un "dispositivo metafórico político".
+- **Filosofía de grabación de Cunningham**: Utiliza equipos como Revox, Studer y EQ como "dispositivos metafóricos políticos".
 - **Importancia histórica de la música experimental**: más allá del post-punk, está directamente conectado con los fundamentos de la cultura moderna del muestreo/DAW e incluso con la producción musical de IA.
 
 Su música sigue siendo un grupo de obras que deberían reevaluarse como "grabación = crítica = experimento".

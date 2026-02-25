@@ -9,14 +9,14 @@ permalink: /ko/kaori-in-my-head-dj-kawasaki-remix/
 tags:
 - House
 - Deep House
-title: 카오리 – In My Head (DJ 가와사키 리믹스)
+title: Kaori – In My Head (DJ Kawasaki Remix)
 ---
 
 
-Kaori의 In My Head (DJ Kawasaki Remix)는 2007년 Crue-L Records에서 발매되었습니다. 이 작품은 Kaori의 IN My Head를 DJ Kawasaki가 리믹스한 작품입니다.
+Kaori의 In My Head (DJ Kawasaki Remix)는, 그 Crue-L Records로부터 2007년에 릴리스된 본작은, Kaori의 IN My Head를 DJ Kawasaki가 리믹스.
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A In My Head (DJ Kawasaki Remix)
 

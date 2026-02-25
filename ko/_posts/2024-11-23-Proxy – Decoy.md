@@ -10,17 +10,17 @@ tags:
 - Techno
 - Electro
 - 00s
-title: 프록시 – 미끼
+title: Proxy – Decoy
 ---
 
 
-Proxy로도 알려진 Evgeny Pozharnov는 러시아 전자 프로듀서이자 DJ입니다. 그들은 Coachella, EDC Las Vegas, I love Techno, Creamfields, Hard Summer 및 Electric Zoo와 같은 국제 페스티벌에서 성공적으로 연주했습니다.
+프록시 Evgeny Pozharnov는 러시아의 전자 프로듀서 DJ. Coachella, EDC Las Vegas, I love Techno, Creamfields, Hard Summer, Electric Zoo 등 세계적인 페스티벌에서 플레이하여 성공을 거두고 있다.
 
-Prodigy, Marilyn Manson, Moby, Peaches, Tiga, Boys Noize 등 다수의 아티스트와 협업하고 있는 러시아 대표 DJ.
+Prodigy, Marilyn Manson, Moby, Peaches, Tiga, Boys Noize 등 수많은 아티스트와도 콜라보하는 러시아 DJ의 대표격.
 
-"Decoy"는 Tiga Sontag의 캐나다 테크노/일렉트로/하우스 레이블 Turbo가 2007년에 발매한 테크노/일렉트로 트랙입니다.
+「Decoy」는, Tiga Sontag 주재의 캐나다의 테크노/일렉트로/하우스 라벨 Turbo로부터 2007년에 릴리스된 테크노 일렉트로트랙.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Decoy
 
@@ -29,5 +29,5 @@ B. Ready To Watching
 
 [メルカリで購入](https://jp.mercari.com/item/m80589713600?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/16VdKMP0FWY?si=gz4eBGb3McLsCdop" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

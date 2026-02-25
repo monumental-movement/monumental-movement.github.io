@@ -155,8 +155,17 @@ Heute treten dort DJs aus aller Welt auf und er dient weiterhin als Wallfahrtsor
 
 ### Die Musik des Techno von einer „vorübergehenden Modeerscheinung“ zu einer „universellen Kultur“ erheben
 
-Tresor ist mehr als nur ein Club oder ein Label, es ist ein „kultureller Knotenpunkt“, der die Geschichte Berlins, den Stadtraum nach dem Kalten Krieg und die Zukunft der schwarzen Musik in Detroit verbindet.
+Tresor ist mehr als nur ein Club oder Label, es ist ein kultureller Knotenpunkt, der die Geschichte Berlins, den urbanen Raum nach dem Kalten Krieg und die Zukunft der schwarzen Musik in Detroit verbindet.
 Die aus diesem Gewölbe freigesetzten Klänge hallen immer noch in der Clubkultur auf der ganzen Welt nach und erheben die Musik des Techno von einer „vorübergehenden Modeerscheinung“ zur „universellen Kultur“.
+
+---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xwtxAjklWUs?si=7Y2a50t-7N_ZlgpX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

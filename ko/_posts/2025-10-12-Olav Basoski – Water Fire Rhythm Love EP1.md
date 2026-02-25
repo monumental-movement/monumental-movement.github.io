@@ -10,15 +10,15 @@ tags:
 - House
 - Electro
 - 00s
-title: Olav Basoski – 물불 리듬 사랑 EP1
+title: Olav Basoski – Water Fire Rhythm Love EP1
 ---
 
 
-올라프 바소스키(Olav Basoski)는 1990년대 후반부터 활동해온 홀랜드 하우스(Holland House)의 대표적인 인물이다.
+Olav Basoski는 1990년대 후반부터 활동하는 네덜란드 하우스의 중진.
 
-2004년 자신의 레이블인 Rootz Records에서 발매된 "Water Fire Rhythm Love EP1"은 Olav Basoski의 세련된 하우스/일렉트로 사운드를 즐길 수 있습니다.
+2004년에 자신의 라벨 Rootz Records로부터 릴리스한 「Water Fire Rhythm Love EP1」은, Olav Basoski의 세련된 House/Electro 사운드를 즐길 수 있는 마무리가 되고 있다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Back Of Da Bus
 
@@ -28,5 +28,5 @@ B2. No-1 Rocks
 
 [メルカリで購入](https://jp.mercari.com/item/m50607428218?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7Q4eFfBaZwk?si=SWnq_Ga-KR_3LVOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

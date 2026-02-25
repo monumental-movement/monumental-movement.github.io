@@ -192,7 +192,7 @@ Incluso los sonidos cortos pueden evocar contexto, por lo que combinan bien con 
 
 ---
 
-## Cronología: Historia de la música de bits bajos y del enamoramiento de bits
+## Cronología: Historia de la música de bits bajos y el enamoramiento de bits
 
 
 

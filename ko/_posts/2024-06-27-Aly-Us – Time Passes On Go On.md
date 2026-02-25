@@ -10,15 +10,15 @@ tags:
 - House
 - Garage House
 - 90s
-title: 알리어스(Aly-Us) – 시간은 흐르고 계속된다
+title: Aly-Us – Time Passes On Go On
 ---
 
 
-Aly-Us는 1990년대 초반에 활동했던 뉴저지 출신의 하우스 뮤직 그룹입니다. 트리오는 Eddie L. Lewis(Supa라고도 함), DJ Kyle "Small" Smith, William Brian Jennings로 구성됩니다.
+Aly-Us(얼라이어스)는 1990년대 초에 활약한 뉴저지 출신의 하우스 뮤직 그룹. 멤버는 Supa Eddie L. Lewis, DJ Kyle “Small” Smith, William Brian Jennings의 3 인조.
 
-Aly-Us의 1992년 대히트 "Follow Me" 다음 해에 발매된 "Time Passes On / Go On"은 "Follow Me"의 풍미를 이어가는 하우스/개러지 하우스 트랙입니다.
+1992년에 발매된 Aly-Us의 대히트곡 「Follow Me」의 다음해에 발매된 「Time Passes On/Go On」은, 「Follow Me」의 테이스트를 계승한 하우스·갈라지 하우스 트럭이 되고 있다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Time Passes On (Club Mix)
 A2. Time Passes On (Dub Mix)
@@ -31,5 +31,5 @@ B3. Go On (Radio Edit)
 
 [メルカリで購入](https://jp.mercari.com/item/m16355087576?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u7lD876TJjQ?si=BEIcdPMmz68sAtj_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

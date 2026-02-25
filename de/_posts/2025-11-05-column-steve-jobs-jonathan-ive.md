@@ -48,7 +48,7 @@ color: #fff;
 ## Chapter 1 Records und die California Air
 
 Steve Jobs war ein Produkt der kalifornischen Gegenkultur der späten 1960er und 1970er Jahre.
-Viele Biografien bestätigen, dass er Bob Dylan und die Beatles schon in jungen Jahren bewunderte.
+Seine Bewunderung für Bob Dylan und die Beatles schon in jungen Jahren wird durch zahlreiche Biografien bestätigt.
 
 In Walter Isaacsons Biografie „Steve Jobs“ (2011) hat er einen **Röhrenverstärker und einen Plattenspieler** in seinem Wohnzimmer.
 Es heißt, er habe jeden Abend Alben von Bob Dylan und Joan Baez gehört.
@@ -126,7 +126,7 @@ Ive sagt: „Das Gehäuse selbst prägt den Klang“ (Interview mit Fast Company
 Als Jobs über das iCloud-Konzept sprach, träumte er von „einer Welt, in der Musik abgespielt werden kann, egal wo man ist.“
 Im Kern geht es um das Konzept der Wolke als Erweiterung des Vorgangs, eine Schallplatte in die Hand zu nehmen und die Nadel fallen zu lassen.
 
-Andererseits habe ich über LoveFrom,
+Andererseits habe ich durch LoveFrom,
 Wir streben nach „taktilem Klang“, dem Gegenteil von Cloud Computing.
 Die Vektoren dieser beiden Menschen scheinen jedoch gegensätzlich zu sein
 Tatsächlich eint sie die Philosophie, „Menschen durch Musik zu befreien“.
@@ -144,7 +144,7 @@ Tatsächlich eint sie die Philosophie, „Menschen durch Musik zu befreien“.
 | 2004 | GarageBand | Apfel | Popularisierung der Musikproduktion |
 | 2007 | iPhone | Ive + Jobs | Integration von Musikwiedergabegeräten |
 | 2015 | Apple-Musik | Apfel | Der Wendepunkt zum Streaming |
-| 2023 | Linn Sondek LP12 LoveFrom Edition | LoveFrom | Zurück zum analogen Ton |
+| 2023 | Linn Sondek LP12 LoveFrom Edition | LoveFrom | Zurück zum analogen Sound |
 
 ---
 

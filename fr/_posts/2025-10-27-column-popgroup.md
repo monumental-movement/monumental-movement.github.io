@@ -19,7 +19,7 @@ title: '[Chronique] The Pop Group - Le son rebelle et le background historique n
 ## Prologue : Les germes d'une explosion dont l'époque est enceinte
 
 
-Texte : mmr | Thème : Un mouvement musical rebelle qui a explosé à Bristol, en Angleterre, à la fin des années 1970 – retraçant l'intersection de la politique et de l'art joué par The Pop Group, et son impact ainsi que le contexte historique.
+Texte : mmr | Thème : Un mouvement musical rebelle qui a explosé à Bristol, en Angleterre, à la fin des années 1970 - retraçant l'intersection de la politique et de l'art joué par The Pop Group, et son impact ainsi que le contexte historique.
 
 En 1978, un groupe inhabituel est apparu dans la ville portuaire de Bristol, dans le sud-ouest de l'Angleterre.
 Son nom est **The Pop Group**.
@@ -58,7 +58,7 @@ Une « déconnexion entre l'État et la rue » est devenue la norme.
 
 En tant que ville portuaire, Bristol avait une culture **reggae et dub** enracinée en raison des immigrants jamaïcains.
 Le rythme, le centre de gravité bas de la basse et l'esprit de rébellion,
-Cela a également imprégné la jeunesse du rocher blanc.
+Cela a également imprégné la jeunesse de White Rock.
 
 C’est dans ce mélange culturel que les jeunes de The Pop Group ont grandi.
 À l’école, il écoutait du punk et du funk, et le soir, il fréquentait les sound-systems des quartiers d’immigrés.
@@ -75,7 +75,7 @@ Les membres sont entre la fin de l’adolescence et le début de la vingtaine.
 **Dan Catsis (basse)**, **John Waddington (guitare)** étaient les principaux acteurs.
 
 Contrairement aux punks londoniens, ils étaient conscients d'être **politiques et artistiques**.
-Leur premier album «**Y**» (1979) était déjà à l'époque une hérésie parmi les hérétiques.
+Leur premier album, « **Y** » (1979), était une hérésie d'hérésie, même à l'époque.
 Le désordre du free jazz, l'espace profond du dub, l'élan destructeur du punk...
 Ceux-ci se croisent comme des **poèmes socialement critiques et des cris poétiques**.
 
@@ -112,7 +112,7 @@ Après cela, chaque membre emprunte un chemin différent.
 - Mark Stewart : a collaboré avec Adrian Sherwood en tant qu'artiste solo et créé **Industrial Dub**.
 - Gareth Sager et Bruce Smith : Formé **Rip Rig + Panic**.
 Une jeune **Neneh Cherry** était également présente.
-- Dan Catsis : Il est resté à la fondation de la musique de Bristol, puis s'est impliqué dans Massive Attack.
+- Dan Catsis : Il s'est ensuite impliqué dans Massive Attack et est resté une pierre angulaire de la musique de Bristol.
 
 Cette divergence a donné naissance à la diversité du son Bristol.
 Trip hop, dub, musique expérimentale, hip hop politique...
@@ -127,7 +127,7 @@ Depuis les années 2000, il a été réévalué dans le contexte du revival post
 Surtout depuis 2005, suite aux retrouvailles **Gang of Four et Wire**,
 Ils ont également repris leurs activités en 2010. En 2015, il sort son nouvel ouvrage « Citizen Zombie ».
 
-Même si la nature violente du son était toujours présente, elle était plus politique et contenait un message plus précis qu'auparavant.
+Même si la nature violente du son était toujours présente, elle était plus politique et contenait un message plus aigu qu'auparavant.
 Pour eux, les « retrouvailles » n’étaient pas une question de nostalgie, mais plutôt une « poursuite de la résistance ».
 
 > « On n'arrête pas d'être en colère parce que le temps passe. »

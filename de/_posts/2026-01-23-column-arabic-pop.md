@@ -25,7 +25,7 @@ Arabischer Pop ist ein allgemeiner Begriff für populäre Musik, die in arabisch
 
 Diese Musik war lange Zeit auf den lokalen Konsum ausgerichtet, aber im 21. Jahrhundert, als sich das Vertriebsumfeld veränderte, weitete sich die Präsenz auf dem globalen Markt rasch aus.
 
-> Die Internationalisierung des arabischen Pops wurde eher durch Veränderungen in der Vertriebsstruktur als durch Veränderungen im Musikstil beschleunigt.
+> Die Internationalisierung des arabischen Pops wurde eher durch Veränderungen in der Vertriebsstruktur als durch Veränderungen in den Musikstilen beschleunigt.
 
 ---
 
@@ -60,9 +60,9 @@ Auch der nationale Rundfunk spielte eine wichtige Rolle und Musik wurde als Inst
 
 ### Wendepunkt in den 1990er Jahren
 
-In den 1990er Jahren entstanden mit der Verbreitung des Satellitenrundfunks grenzüberschreitende Musikkanäle. Ein im Libanon ansässiger Musiksender sendete 24 Stunden am Tag Musikvideos und produzierte Popstars mit visuellen Bildern.
+In den 1990er Jahren führte die Ausbreitung des Satellitenrundfunks zur Entstehung grenzüberschreitender Musiksender. Ein im Libanon ansässiger Musiksender sendete 24 Stunden am Tag Musikvideos und produzierte Popstars mit visuellen Bildern.
 
-In dieser Zeit erlangten Sänger wie Nancy Ajram und Amr Diab große Popularität, und arabischer Pop wurde als panarabisches Marktprodukt und nicht als einzelne nationale Kultur neu definiert.
+In dieser Zeit erfreuten sich Sänger wie Nancy Ajram und Amr Diab großer Beliebtheit, und arabischer Pop wurde als panarabisches Marktprodukt und nicht als einzelne nationale Kultur neu definiert.
 
 > Durch die Satellitenübertragung wurde arabischer Pop zu einer Ware, die gleichzeitig konsumiert wurde.
 
@@ -72,7 +72,7 @@ In dieser Zeit erlangten Sänger wie Nancy Ajram und Amr Diab große Popularitä
 
 ### Abstand zu europäischen und amerikanischen Charts
 
-Bis in die frühen 2000er Jahre hatte arabischer Pop weitgehend keinen Bezug zu westlichen Charts. Die Hauptgründe sind die Sprachbarriere und das unterentwickelte Vertriebsnetz. Andererseits gab es in ganz Europa einen begrenzten Konsum durch die Diaspora-Bevölkerung.
+Bis in die frühen 2000er Jahre hatte arabischer Pop weitgehend keinen Bezug zu westlichen Charts. Die Hauptgründe sind die Sprachbarriere und das unterentwickelte Vertriebsnetz. Andererseits bestand in ganz Europa ein begrenzter Konsum durch die Diasporabevölkerung.
 
 Zu diesem Zeitpunkt blieb die globale Expansion eher ein Nebeneffekt als eine beabsichtigte Strategie.
 
@@ -144,7 +144,7 @@ Algorithmenempfehlungen haben zu unbeabsichtigtem grenzüberschreitendem Konsum 
 
 ### Zwischen Tradition und Kommerz
 
-Die rasche Internationalisierung hat zu einer Debatte über ihre Beziehung zur traditionellen Musik geführt. Es gibt auch Kritik, dass kommerzieller Erfolg zu einer kulturellen Verwässerung führe.
+Die rasche Internationalisierung hat eine Debatte über ihre Beziehung zur traditionellen Musik ausgelöst. Es gibt auch Kritik, dass kommerzieller Erfolg zu einer kulturellen Verwässerung führe.
 
 Andererseits eröffnet Popmusik neue Ausdrucksmöglichkeiten und unterstützt den Fortbestand der Musikkultur.
 

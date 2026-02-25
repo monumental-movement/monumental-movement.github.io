@@ -9,11 +9,11 @@ permalink: /zh-hant/harmonic-33-music-for-film-television-and-radio-volume-one/
 tags:
 - Leftfield
 - Downtempo
-title: Harmonic 33 – 電影、電視和廣播音樂第一卷
+title: Harmonic 33 – 電影、電視與廣播音樂第一卷
 ---
 
 
-這張專輯於 2005 年發行，是 Warp 專輯中的經典之作。
+這張專輯於 2005 年發行，是 Warp 專輯中的經典。
 
 從《Optigan》搖擺的外太空節奏到《Carousel》旋轉的遊樂園氛圍，Harmonic 33 在短時間內將盡可能多的情緒融入其中。
 
@@ -21,11 +21,11 @@ title: Harmonic 33 – 電影、電視和廣播音樂第一卷
 
 另一方面，如果您正在尋找徹底的古怪，請聽聽“Funky Duck”。
 
-如果你喜歡諜戰劇，我們有《偏執狂》和《長影》。
+如果你喜歡諜報劇，我們有《偏執狂》和《長影》。
 
 即使是像“Marionette”這樣的短歌，這張專輯仍然讓人感覺到它的存在，專輯以深思熟慮和憂鬱的“Planet 54”結束。
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. Optigan
 
@@ -60,7 +60,7 @@ title: Harmonic 33 – 電影、電視和廣播音樂第一卷
 16. Pianet 54
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m74819615393?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m74819615393?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MrAkBKCVDVI?si=vTEzL103-VXkWYY0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

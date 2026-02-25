@@ -19,7 +19,7 @@ title: 傑米 – 迷失內心
 
 2004年，Jaimy走獨立路線，創立了自己的廠牌Fatal Music。一年後，他還創立了 Drum Mode。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Lost Inside
 
@@ -28,7 +28,7 @@ B1. No Way Out
 B2. Blow Your Mind
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m47948860617?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m47948860617?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-yx9hBc8REo?si=1VPt2edrqlcOYzrZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

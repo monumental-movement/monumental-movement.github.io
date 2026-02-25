@@ -17,15 +17,15 @@ title: 挑選歐洲音樂作品
 <小時>
 
 ### Rednex – 棉眼喬
-<a href="https://jp.mercari.com/item/m58300098495?afid=6142608987"><img src="../assets/images/Rednex%20%E2%80%93%20Cotton%20Eye%20Joe.webp"></a>
+<a href="https://jp.mercari.com/item/m58300098495?afid=6142608987"><img src="../assets/images/Rednex%20%E2%80%93%20Cotton%20Eye%">20Joewebp</a>
 
 格式：乙烯基
 
 類型： 歐洲 House / 合成流行音樂
 
-發布日期：發佈於 2024 年 11 月 15 日（Rednex – Cotton Eye Joe）
+發售日期：發佈於 2024 年 11 月 15 日（Rednex – Cotton Eye Joe）
 
-#### 曲目列表
+#### 曲目表
 ```md
 Hatfield Side
 A1. Cotton Eye Joe (Madcow Mix)
@@ -39,7 +39,7 @@ B2. Cotton Eye Joe (Overworked Mix)
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m58300098495?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m58300098495?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -48,15 +48,15 @@ B2. Cotton Eye Joe (Overworked Mix)
 
 
 ### Masterboy – 不同的夢想
-<a href="https://jp.mercari.com/item/m79586502927?afid=6142608987"><img src="../assets/images/Masterboy%20%E2%80%93%20Different%20Dreams.webp"></a>
+<a href="https://jp.mercari.com/item/m79586502927?afid=6142608987"><img src="../assets/images/Masterboy%20%E2%80%93%20Different%20Dreams.web</a>
 
 格式：CD
 
 類型： 90 年代歐元/歐洲節拍
 
-收錄歌曲：《Feel the Heat of the Night》、《I Got to Give It Up》等1994年發行的德國歐洲舞曲傑作
+收錄歌曲：《Feel the Heat of the Night》、《I Got to Give It Up》等1994年發行的德國歐洲舞曲代表作
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. Waterfall (Intro)
 2. Different Dreams
@@ -75,7 +75,7 @@ Bonus Track For Japan
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m79586502927?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m79586502927?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -88,11 +88,11 @@ Bonus Track For Japan
 
 格式：CD（非賣品）
 
-類型： 90 年代 Euro House / Eurobeat / Italodance
+模式標本： 90 年代 Euro House / Eurobeat / Italodance
 
-包含 90 年代代表性歌曲的合輯
+收錄 90 年代代表性歌曲的合輯
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. Maximizor Featuring Kam + Paula – I Like It (Give It To Me)
 2. Bass Expanders – Beats Go
@@ -117,7 +117,7 @@ Bonus Track For Japan
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m24287278460?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m24287278460?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -125,15 +125,15 @@ Bonus Track For Japan
 <小時>
 
 ### 各種 – Overnight Remixes II
-<a href="https://jp.mercari.com/item/m82073091012?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Overnight%20Remixes%20II.webp"></a>
+<a href="https://jp.mercari.com/item/m82073091012?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Overnight%20Remixes%</II.webp.
 
 格式：乙烯基
 
-類型： 80-90 年代歐洲 House
+ジャンル：80-90年代 Euro House
 
 80 年代末到 90 年代的 Euro house、techno、newbeat、garage house 合輯
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Sophia – Running So Hard
 A2. The Creator – Jack
@@ -149,7 +149,7 @@ B5. LNR – Work It To The Bone
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m82073091012?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m82073091012?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -158,15 +158,15 @@ B5. LNR – Work It To The Bone
 
 
 ### MDC‑X‑Static – 你和我
-<a href="https://jp.mercari.com/item/m13942238876?afid=6142608987"><img src="../assets/images/MDC-X-Static%20%E2%80%93%20You%20And%20Me.webp"></a>
+<a href="https://jp.mercari.com/item/m13942238876?afid=6142608987"><img src="../assets/images/MDC-X-Static%20%E2%80%93%20You%20And%</Me.web.
 
 格式：乙烯基
 
-類型： 90 年代歐洲 / 歐洲 House
+模式標本： 90 年代歐洲 / 歐洲 House
 
 12 英寸 EP，混合了 90 年代俱樂部熱門歌曲“In Ecstasy”
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. You And Me (In Ecstasy) (Extended Ecstasy Mix)
 
@@ -175,7 +175,7 @@ B2. You And Me (In Ecstasy) (Save The Whales Mix)
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m13942238876?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m13942238876?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -183,15 +183,15 @@ B2. You And Me (In Ecstasy) (Save The Whales Mix)
 <小時>
 
 ### Ziggy – 沒有警察（阿茲特克混音）
-<a href="https://jp.mercari.com/item/m35371062618?afid=6142608987"><img src="../assets/images/Ziggy%20%E2%80%93%20No%20Police%20(Aztec%20Remix).webp"></a>
+<a href="https://jp.mercari.com/item/m35371062618?afid=6142608987"><img src="../assets/images/Ziggy%20%E2%80%93%20No%20Police%20(Aztec%20).web
 
 格式：乙烯基
 
-類型： 90 年代歐洲 / 歐洲 House
+模式標本： 90 年代歐洲 / 歐洲 House
 
 12 英寸 EP，混合了 90 年代俱樂部熱門歌曲“In Ecstasy”
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. No Police = No Llamen A La Policia (Aztec Remix)
 
@@ -199,7 +199,7 @@ B. No Police = No Llamen A La Policia (Original Version)
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m35371062618?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m35371062618?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -211,11 +211,11 @@ B. No Police = No Llamen A La Policia (Original Version)
 
 格式：乙烯基
 
-類型： 90 年代歐洲 / 歐洲 House
+模式標本： 90 年代歐洲 / 歐洲 House
 
 12 英寸 EP，混合了 90 年代俱樂部熱門歌曲“In Ecstasy”
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Kaos (Baby Mix)
 A2. Kaos (Radio Mix)
@@ -225,7 +225,7 @@ B2. Kaos (Original German Sausage Mix)
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m83196886792?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m83196886792?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -233,7 +233,7 @@ B2. Kaos (Original German Sausage Mix)
 <小時>
 
 ### 頻道 X – 如此之高
-<a href="https://jp.mercari.com/item/m84866354258?afid=6142608987"><img src="../assets/images/Channel%20X%20%E2%80%93%20So%20High.webp"></a>
+<a href="https://jp.mercari.com/item/m84866354258?afid=6142608987"><img src="../assets/images/Channel%20X%20%E2%80%93%20So%20High.webS"></a>
 
 格式：乙烯基
 
@@ -241,7 +241,7 @@ B2. Kaos (Original German Sausage Mix)
 
 比利時生產的歐洲卡車，2023 年 10 月發布
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. So High (Club Mix)
 
@@ -249,7 +249,7 @@ B. So High (Single Mix)
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m84866354258?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m84866354258?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -258,7 +258,7 @@ B. So High (Single Mix)
 
 
 ### East 17 – 環遊世界
-<a href="https://jp.mercari.com/item/m87830012673?afid=6142608987"><img src="../assets/images/East%2017%20%E2%80%93%20Around%20The%20World.webp"></a>
+<a href="https://jp.mercari.com/item/m87830012673?afid=6142608987"><img src="../assets/images/East%2017%20%E2%80%93%20Around%20The%2017%20%E2%80%93%20Around%20The%20A.
 
 格式：乙烯基
 
@@ -266,7 +266,7 @@ B. So High (Single Mix)
 
 1994 年發行的英國流行歐元音樂，由 Ben Liebrand 重新混音
 
-#### 曲目列表
+#### 曲目表
 ```md
 A #1. Around The World (Overworld Vocal)
 A #2. Around The World (Overworld Dub)
@@ -276,7 +276,7 @@ B #2. Around The World (Global House Mix)
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m87830012673?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m87830012673?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -284,15 +284,15 @@ B #2. Around The World (Global House Mix)
 <小時>
 
 ### Tam Arrow – 一擊女孩
-<a href="https://jp.mercari.com/item/m53285819387?afid=6142608987"><img src="../assets/images/Tam%20Arrow%20%E2%80%93%20One%20Shot%20Girl.webp"></a>
+<a href="https://jp.mercari.com/item/m53285819387?afid=6142608987"><img src="../assets/images/Tam%20Arrow%20%E2%80%93%20One%20Shot%20Arrow%20%E2%80%93%20One%20Shot%20aGirl.
 
 格式：乙烯基
 
 類型： 歐洲節拍 / Hi‑NRG
 
-2001年發行的意大利EP《能量12》
+2001年發行的義大利EP《能量12》
 
-#### 曲目列表
+#### 曲目表
 ```md
 A1. Joe Banana–Bang Bang Bang (Extended Version)
 
@@ -304,7 +304,7 @@ B2. P. Stone–Kosmic Woofer (Extended Version)
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m53285819387?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m53285819387?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -313,15 +313,15 @@ B2. P. Stone–Kosmic Woofer (Extended Version)
 
 
 ### 道德子 – 迷失的故事
-<a href="https://jp.mercari.com/item/m81110098498?afid=6142608987"><img src="../assets/images/Dao%20Dezi%20%E2%80%93%20La%20Jument%20De%20Mishao.webp"></a>
+<a href="https://jp.mercari.com/item/m81110098498?afid=6142608987"><img src="../assets/images/Dao%20Dezi%20%E2%80%93%20La%20Jua.Deweb%20Juo.Deweb%20Jua.Deweb%20Jua.Deweb%20Jua.Deweb%20Jua.Deweb%2070
 
 格式：乙烯基
 
 類型： 歐元 / 歐元之家
 
-Deep Forest成員於1994年在意大利發行◆
+Deep Forest成員於1994年在義大利發行◆
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. La Jument De Mishao (Extended Mix)
 
@@ -329,7 +329,7 @@ B. La Jument De Mishao (Club Mix)
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m81110098498?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m81110098498?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -338,15 +338,15 @@ B. La Jument De Mishao (Club Mix)
 
 
 ### E-Rotic – 性瘋狂
-<a href="https://jp.mercari.com/item/m50295230132?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Sexual%20Madness.webp"></a>
+<a href="https://jp.mercari.com/item/m50295230132?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Sexual%20Madness.p"></a>
 
 格式：CD
 
-類型： 90 年代歐元 / Euro Beat / Hi‑ERG House
+模式標本： 90 年代歐元 / Euro Beat / Hi‑ERG House
 
-熱門歌曲“Turn Me On”收錄在1997年發行的專輯中。
+熱門歌曲「Turn Me On」收錄在1997年發行的專輯中。
 
-#### 曲目列表
+#### 曲目表
 ```md
 1. Sexual Madness
 2. Turn Me On
@@ -363,7 +363,7 @@ B. La Jument De Mishao (Club Mix)
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m50295230132?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m50295230132?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -372,29 +372,29 @@ B. La Jument De Mishao (Club Mix)
 
 
 ### E‑Rotic – Willy 使用 Billy...男孩
-<a href="https://jp.mercari.com/item/m74466346239?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Willy%20Use%20A%20Billy%20Boy.webp"></a>
+<a href="https://jp.mercari.com/item/m74466346239?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Willy%20Use%20A%20%E2%80%93%20Willy%20Use%20A%20Use%20A%500]p.
 
 格式：CD
 
-類型： 90 年代歐元 / Euro Beat / Hi‑ERG House
+模式標本： 90 年代歐元 / Euro Beat / Hi‑ERG House
 
-《Willy Use A Billy… Boy》是 E-Rotic 在德國的第四張單曲，也是在日本的首張單曲。
+《Willy Use A Billy… Boy》是 E-Rotic 在德國的第四首單曲，也是在日本的首支單曲。
 
-#### 曲目列表
+#### 曲目表
 ```md
 A. Willy Use A Billy... Boy (Extended Version)
 B. Willy Use A Billy... Boy (Safe The Sex Re-Max)
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m74466346239?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m74466346239?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mpg2H1M_U-c?si=IUJAabPAnffXlUT9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <小時>
 
-### 列表
+### 清單
 
 <div class="table-border">
 <table>

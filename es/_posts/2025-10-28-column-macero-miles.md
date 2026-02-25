@@ -86,7 +86,7 @@ flowchart LR
 Con Bitches Brew de 1970, las técnicas de edición de Macero explotaron aún más.
 Más de seis grabadoras estaban funcionando al mismo tiempo, lo que hacía que el estudio pareciera un laboratorio.
 
-Cada intérprete no comparte un tema común, lo que resulta en una avalancha de improvisaciones fragmentadas.
+Cada intérprete no comparte un tema común, lo que resulta en una **inundación de improvisación fragmentada**.
 Macero empalmó estos fragmentos en unidades de varios metros y diseñó el flujo rítmico y el "lugar" acústico mediante la edición.
 
 > "Corté sonidos y los reconstruí. Era el mismo acto que componer."
@@ -126,7 +126,7 @@ Fue el precursor del paradigma de "edición = composición".
 
 - Crear nuevos contextos controlando la coincidencia (reorganizando el orden de las frases)
 
-Esta filosofía se trasladaría más tarde al muestreo de hip-hop y al arte de estudio de Brian Eno.
+Esta filosofía se trasladó más tarde al muestreo de hip-hop y al arte de estudio de Brian Eno.
 En otras palabras, Macero se ha labrado una nueva profesión: "compositor post-grabación".
 
 ---
@@ -285,7 +285,7 @@ Se puede decir que el sonido editado por Macero ya estaba poniendo en práctica 
 
 ---
 
-## Figura complementaria: Modelo de “composición por edición” al estilo Macero
+## Figura complementaria: Modelo de “composición por edición” estilo Masero
 
 <div class="mermaid">
 
@@ -492,6 +492,16 @@ graph LR
 </div>
 
 ---
+
+
+### Pódcast de YouTube
+
+*Este podcast está en inglés, pero puedes verlo con subtítulos y traducción automática.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HmQjbJo1pGg?si=Guk39cSV_j7-kSL8" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
 
 ## Referencias/Materiales
 

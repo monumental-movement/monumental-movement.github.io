@@ -9,17 +9,17 @@ permalink: /ko/dance-hall-crashers-dance-hall-crashers/
 tags:
 - Ska
 - Ska Punk
-title: 댄스홀 크래셔 – 오래된 기록(1989-1992)
+title: Dance Hall Crashers – THE OLD RECORD (1989-1992)
 ---
 
 
-DANCE HALL CRASHERS는 1989년 캘리포니아주 버클리에서 결성된 미국의 스카코어 밴드입니다.
+댄스 홀 크러셔스(DANCE HALL CRASHERS)는 1989년 미국 캘리포니아주 버클리에서 결성된 스카코아 밴드입니다.
 
-1989년 Rancid의 모 밴드 Operation Ivy의 Matt Freeman과 Tim Armstrong이 사이드 프로젝트로 밴드를 결성했습니다.
+1989년, 란시드의 모체 밴드인 오퍼레이션 아이비의 매트 프리먼과 팀 암스트롱이 사이드 프로젝트로서의 결성이 시작되었다.
 
-1996년에 발매된 이번 앨범 『THE OLD RECORD(1989~1992)』.
+이 앨범 'THE OLD RECORD (1989-1992)'는 1996년에 발매되었습니다.
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Pick Up Lines
 
@@ -62,5 +62,5 @@ B6. DHC
 
 [メルカリで購入](https://jp.mercari.com/item/m77868412341?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DNE4RkIHhFw?si=8ZT12OKMDgHdWVU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
