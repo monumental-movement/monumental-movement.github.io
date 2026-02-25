@@ -35,7 +35,8 @@ color: #fff;
 
 #### ジョアン・ジルベルト（João Gilberto）
 
-- **ソロアルバム**: [『Chega de Saudade』（1959年）](https://amzn.to/3W7J1yt)、[『O Amor, o Sorriso e a Flor』（1960年）](https://amzn.to/4mXnymQ)
+- **ソロアルバム**: [『Chega de Saudade』（1959年）](https://amzn.to/3W7J1yt)、[『O Amor, o Sorriso e a Flor』（1960年）](https://amzn.to/4mXnymQ) 
+
 - **コラボレーション**: スタン・ゲッツとの共演アルバム[『Getz/Gilberto』（1964年）](https://amzn.to/4nAx9Ry) 
 ---
 
@@ -210,6 +211,14 @@ flowchart TD
 ボサノバの魅力は、ジャズの自由さ、サンバのリズム、クラシックの和声感覚が融合した唯一無二の音楽性にあります。さらに、歴史をひもとけば、そこには冷戦期の国際文化交流、ブラジルの都市化、アメリカ音楽市場との交錯といった社会背景までも映し出されています。
 
 アルバムやディスコグラフィーを追うことはもちろん、当時の逸話やアーティストの人生を知ることで、より深くボサノバを理解することができるでしょう。音楽そのものが心地よい「癒やし」として響くと同時に、時代精神を映す「ドキュメント」としても味わえる。それが、ボサノバという文化遺産の真の価値なのです。
+
+---
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vix6v78xnH0?si=Z3TTlYeFjDtmTi_q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
