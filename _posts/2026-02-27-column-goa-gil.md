@@ -3,7 +3,7 @@ layout: post
 title: "【コラム】 Goa Gil：終わらないダンスフロアと儀式の時間"
 author: mmr
 categories: [ Column ]
-tags: [ GoaTrance, Psytrance, Trance ]
+tags: [ Goa Trance, Psy trance, Trance ]
 image: ../assets/images/column-goa-gil.webp
 date: 2026-02-27 00:00:00 +0900
 ---
@@ -76,6 +76,10 @@ color: #fff;
 彼はこれを「サイケデリック・ヨガ」と呼び、ダンスを通じた意識の変容を目指したと語っている。
 
 > セットは時間ではなく、儀式の曲線で設計されていた。
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wwi1ONMwwjM?si=gN9H0G2QswKFpyNZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

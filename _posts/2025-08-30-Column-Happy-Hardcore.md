@@ -91,3 +91,14 @@ Konamiの [Dance Dance Revolution (DDR)](https://amzn.to/4mxxAe5) や [beatmania
 
 ハッピーハードコアは本来イギリスのレイヴ由来ですが、日本文化（アニメ・ゲーム・同人・音ゲー）と融合し、独自の「J-Core」カルチャーを形成。
 今では「Happy Hardcore = アニメ的な可愛さ」と結びついて認識され、国際的にも日本が重要な拠点になっています。
+
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LLGgkxizNr4?si=StIaQMuLxvvTvUtg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

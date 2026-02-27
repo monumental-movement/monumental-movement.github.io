@@ -110,7 +110,7 @@ color: #fff;
 ## 構造図
 
 <div class="mermaid">
-flowchart LR
+flowchart TD
 A[Kingston Sound System] --> B[Toasting Culture]
 B --> C[Migration to Bronx]
 C --> D[Breakbeat DJing]

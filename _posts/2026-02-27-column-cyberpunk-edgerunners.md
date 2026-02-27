@@ -39,12 +39,12 @@ color: #fff;
 
 ## 概要
 
-・原作ゲーム：Cyberpunk 2077（2020年発売）
-・アニメ配信開始：2022年9月
-・制作スタジオ：TRIGGER
-・配信プラットフォーム：Netflix
-・再ヒット楽曲：I Really Want to Stay at Your House
-・アーティスト：Rosa Walton
+- 原作ゲーム：Cyberpunk 2077（2020年発売）
+- アニメ配信開始：2022年9月
+- 制作スタジオ：TRIGGER
+- 配信プラットフォーム：Netflix
+- 再ヒット楽曲：I Really Want to Stay at Your House
+- アーティスト：Rosa Walton
 
 ---
 
@@ -73,7 +73,7 @@ color: #fff;
 SpotifyのViralチャートや各国ランキングで再浮上を記録した。
 
 <div class="mermaid">
-graph LR
+graph TD
 A[2020 Game Release] --> B[Song Included]
 B --> C[2022 Anime Release]
 C --> D[Emotional Finale Scene]

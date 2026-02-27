@@ -102,3 +102,14 @@ Hi-NRGは単なる「ダンス音楽」ではなく、LGBTQコミュニティの
 疾走するビートと煌めくシンセは、80年代のゲイクラブにとって「生きることの祝祭」であり、社会の抑圧から逃れる手段でもありました。
 
 今日においてもHi-NRGは、音楽とセクシュアリティの関係を語る上で不可欠な存在 として再評価され続けています。
+
+---
+
+
+### YouTube Podcast
+
+※このPodcastは英語ですが、自動字幕・翻訳で視聴できます
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m1GDA17poIo?si=5xCGaeSoSqNLE74g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
