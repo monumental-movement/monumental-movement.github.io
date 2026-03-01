@@ -5,7 +5,7 @@ author: mmr
 categories: [ Column ]
 tags: [ [Global Bass, Culture, Electronic ]
 image: ../assets/images/column-global-bass.webp
-date: 2026-03-01 00:00:04 +0900
+date: 2026-03-01 00:00:00 +0900
 ---
 
 
