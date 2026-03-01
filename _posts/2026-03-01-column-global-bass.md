@@ -3,9 +3,9 @@ layout: post
 title: "【コラム】 Global Bassの台頭：世界中のリズムが融合する現代音楽地図"
 author: mmr
 categories: [ Column ]
-tags: [ [Global Bass, Culture, Electronic ]
+tags: [ Global Bass, Culture, Electronic ]
 image: ../assets/images/column-global-bass.webp
-date: 2026-03-01 00:00:00 +0900
+date: 2026-02-14 00:00:04 +0900
 ---
 
 
