@@ -217,35 +217,41 @@ D --> E[成人後の行動傾向]
 ### 音楽嗜好と人格・心理
 
 ・Rentfrow, P. J., & Gosling, S. D.（2003）Music preferences and personality traits. Journal of Personality and Social Psychology.
+
 ・Rentfrow, P. J., et al.（2011）The structure of musical preferences. Journal of Personality and Social Psychology.
+
 ・North, A. C., & Hargreaves, D. J.（2008）The social and applied psychology of music.
 
 ### 若年期記憶・発達心理
 
 ・Rubin, D. C., Rahhal, T. A., & Poon, L. W.（1998）Things learned in early adulthood are remembered best. Memory & Cognition.
+
 ・Arnett, J. J.（2000）Emerging adulthood: A theory of development from the late teens through the twenties. American Psychologist.
 
 ### 音楽文化と社会行動・政治参加
 
 ・Street, J.（2012）Music and politics.
+
 ・Bennett, A.（2001）Cultures of popular music.
+
 ・Frith, S.（1996）Music and identity.
 
 ### 教育・職業選択と文化資本
 
 ・Bourdieu, P.（1984）Distinction: A social critique of the judgement of taste.
+
 ・Savage, M., et al.（2013）A new model of social class. Sociology.
 
 ### 国別・世代別長期調査
 
 ・General Social Survey（米国・長期社会調査）
+
 ・European Social Survey（欧州・比較社会調査）
+
 ・World Values Survey（国際価値観調査）
 
 ### 日本の音楽文化・世代研究
 
-・中村美亜（2001）サブカルチャーと若者文化の社会学.
-・吉見俊哉（1994）都市のドラマトゥルギー.
 ・文化庁（各年）文化に関する世論調査.
 
 > 本稿は、音楽ジャンルと社会行動の関係を、決定論ではなく累積的影響として捉える研究潮流に依拠している。
