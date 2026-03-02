@@ -45,7 +45,7 @@ color: #fff;
 ## Chapter 1: Birth of the entertainment Yamashiro Gumi - Art as a "group"
 
 The starting point for the Geino Yamashiro Gumi was the formation of a ""collective'' of people who came together across universities, companies, and professions.
-Doctors, teachers, engineers, students, housewives - people with different professions and philosophies shared an intuitive desire to ""live in sound''.
+Doctors, teachers, engineers, students, housewives - people with different occupations and philosophies shared an intuitive desire to ""live within sound.''
 
 From the beginning, Yamashiro defined art not as an act of individual expression, but as the expression of a group.
 Therefore, their rehearsals were not just performances, but the process of ""sound generating a field.''
@@ -59,7 +59,7 @@ The moment when body, voice, space, and time come together to resonate - that is
 ## Chapter 2: 80 types of "sounds of groups" from around the world - Quest for universal musical structure
 
 Geino Yamashiro-gumi was active from the late 1970s to the 1980s.
-He has actually performed and researched ""80 types of ethnic performances from around the world''.
+He has actually performed and researched **""80 types of ethnic performances from around the world''**.
 This was not just a collection of folk music, but an exploration of the fundamental question, ""What is the sound that humans make as a group?''
 
 ### ◇ Examples of research/performance targets
@@ -73,7 +73,7 @@ This was not just a collection of folk music, but an exploration of the fundamen
 | Tibet/Mongolia | Homie chanting | Laryngeal resonance and overtone separation |
 
 Rather than treating these as "materials," Yamashiro et al. observed and reconstructed their structure, function, and social significance.
-In particular, the ""acoustic structure that transcends time and space" of gamelan music in Bali is fundamental to Geino Yamashiro Gumi's ""group creation," ""information environment," and ""sound environmental studies."
+In particular, the ""acoustic structure that transcends time and space" of gamelan music in Bali is fundamental to the ""group creation", ""information environment", and ""sound environmental studies" of the Geino Yamashiro Gumi.
 
 > "People form groups based on sound. Sound evolves through groups."
 > — Shoji Yamashiro

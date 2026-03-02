@@ -65,9 +65,9 @@ In particular, the following trends were the premise for the creation of Tech Ho
 * Minimalism of UK Techno (Surgeon, Regis, Dave Clarke, etc.)
 * A British take on the groove of US House (Chicago/NY)
 * Mix of Tribal House, Garage, and Progressive House
-* Genre-crossing DJ styles from Pirate Radio and the London club scene (The End, etc.)
+* Cross-genre DJ styles from Pirate Radio and the London club scene (The End, etc.)
 
-The people who gathered at the club weren't just looking for either techno or house, but were enjoying long DJ plays that mixed elements of both. Through this process, he developed a sense of mixing that naturally combines the "hardness of techno" and the "warmth of house."
+The people who flocked to the club weren't just looking for either techno or house, they were enjoying long-form DJ plays that mixed elements of both. Through this process, he developed a sense of mixing that naturally combines the "hardness of techno" and the "warmth of house."
 
 ---
 
@@ -152,7 +152,7 @@ flowchart TD
 
 ## 6. Changes in sound
 
-Towards the end of the 2000s, Tech House underwent the following changes.
+Towards the late 2000s, Tech House experienced the following changes.
 
 * **More detailed arrangement of rhythm**
 * **Increase in sub-base** (increased influence of Germany and South America)

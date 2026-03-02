@@ -56,7 +56,7 @@ However, what set him apart from other producers was that he understood editing 
 ## Chapter 2: "In a Silent Way"—— The magic of time editing
 
 ""In a Silent Way," recorded in 1969, can be said to be the ""starting point of editing" in the history of jazz.
-Miles, John McLaughlin, Chick Corea, Wayne Shorter and others improvised the session, but Theo Macero boldly reconstructed the recording.
+Miles, John McLaughlin, Chick Corea, Wayne Shorter and others improvised the sessions, but Theo Macero boldly restructured the recordings.
 
 What is particularly impressive is the ""ring structure'' in which the same take is used at the beginning and end.
 Phrases that were only played once in the actual recording "reappeared" through Macero's editing, musically embodying the concept of a **time loop**.
@@ -87,7 +87,7 @@ More than six tape recorders were running at the same time, making the studio fe
 Each performer does not share a common theme, resulting in a flood of fragmented improvisations.
 Macero spliced ​​these fragments into units of several meters and designed the rhythmic flow and acoustic "place" through editing.
 
-> "I chopped up the sounds and reconstructed them. It was the same act as composing."
+> "I chopped up sounds and reconstructed them. It was the same act as composing."
 > — Teo Macero
 
 His method was similar to musique concrète, but also connected to the free improvisation of jazz.
@@ -470,7 +470,7 @@ Macero's editing was not just "post-processing" but a redefinition of the art of
 He did not draw a clear line between performance and editing. Rather, that gap was the source of creativity.
 
 In modern music production, the acts we unconsciously perform, such as ""cut and loop," ""automation," and ""remix,'' are all extensions of Macero's philosophy.
-His accomplishment is nothing less than turning the technology of recording into an art form as an extension of human thought.
+His accomplishment is nothing less than turning the technology of recording into an art form as an extension of human thinking.
 
 > "Editing is putting scissors in time. And the cut time becomes new music."
 > — Teo Macero

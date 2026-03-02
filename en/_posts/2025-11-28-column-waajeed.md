@@ -50,7 +50,7 @@ Waajeed (real name Robert O'Bryant) was born in Detroit in the late 1970s.
 The artist's name is of Arabic origin and is taken from a word meaning "to find" or "to discover."
 
 From an early age, he grew up in an environment influenced by **Detroit's soul/gospel culture**, and later came into contact with Slum Village.
-In the late 1990s and early 2000s, Detroit was creating a new standard for neo-soul/hip-hop, symbolized by J Dilla. At the forefront of this field, Waajeed turned to music production while also working as a photographer.
+In the late 1990s and early 2000s, Detroit was creating a new standard for neo-soul/hip-hop, symbolized by J Dilla. Waajeed was at the forefront of this field, and while also working as a photographer, he turned to music production.
 
 ### **● Relationship with Slum Village**
 
@@ -59,7 +59,7 @@ In the late 1990s and early 2000s, Detroit was creating a new standard for neo-s
 * Directly influenced by the creativity of J Dilla
 
 What Waajeed absorbed here was more than just beat making.
-**The attitude is to carry out the inheritance of black music as ""reinvention'' in the modern era**.
+**The attitude is to ""carry out the inheritance of black music as a 'reinvention' for the modern era.''**
 
 ---
 
@@ -117,12 +117,12 @@ Released in 2017, **Shango EP** was a significant turning point in Waajeed's car
 
 The title **"Shango"** is a deity that appears in traditional West African religion, and is a symbol that connects Afro-diaspora spirituality with the history of black music.
 
-On this EP Waajeed:
+On this EP, Waajeed:
 
 * Detroit house/techno beat structure
 * Afro percussion
 * Black Spiritual Call
-* Ritualistic nature of raw sounds and rhythms
+* Ritual nature of raw sounds and rhythm
 
 He clearly steered the band towards ""representing house/techno as a return to the spirit of black art'' by fusing them.
 
@@ -152,7 +152,7 @@ It is in a position that can be called **"the aesthetic destination of Dirt Tech
 
 # **6. Production attitude: Practitioner redefining Detroit**
 
-To summarize Waajeed's production approach, the following three points are central.
+To sum up Waajeed's production approach, the following three points are central.
 
 ---
 
@@ -269,7 +269,7 @@ It will continue to be referred to as **club music that looks at the roots and f
 
 # **Ending**
 
-Waajeed's career has also been a continuous effort to reinterpret the "layers of history" of the city of Detroit by intersecting them with contemporary club culture.
+Waajeed's career has been one of continuing to reinterpret the "layers of history" of the city of Detroit by intersecting them with contemporary club culture.
 Not only are the individual works attractive;
 **It is also important as a methodology for translating urban memory and black spirituality into music**, and its existence will continue to be a symbol that supports the evolution of Detroit music.
 

@@ -143,7 +143,7 @@ This can be said to be a choice that prioritizes cultural sustainability over st
 
 ## Re-editing problem in the AI ​​era
 
-Generation and conversion by AI further expands the concept of remixing. Data use, output similarity, and style imitation during the learning stage raise issues that cannot be resolved using conventional copyright concepts.
+Generation and conversion by AI further expands the concept of remixing. Data use, output similarity, and style imitation during the learning stage pose problems that cannot be resolved using conventional copyright concepts.
 
 > AI will redefine who is responsible for remixing.
 

@@ -118,7 +118,7 @@ The decisive difference from deep-sea ambient music lies in the master-slave rel
 
 ## 10. Comparison with Deep Techno
 
-Deep Techno is characterized by its minimal structure, slow tempo, and restrained development, and is music that pursues depth while retaining the club context.
+Deep Techno is characterized by minimal structure, slow tempo, and restrained development, and is music that pursues depth while retaining the club context.
 
 While Ambient Techno/Deep Ambient distances itself from the club-like nature, Deep Techno introduces deep-sea sound while retaining the floor function. This difference creates a clear difference in usage and listening posture.
 

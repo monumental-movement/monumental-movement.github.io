@@ -42,6 +42,7 @@ color: #fff;
 #### João Gilberto
 
 - **Solo album**: ["Chega de Saudade" (1959)](https://amzn.to/3W7J1yt), ["O Amor, o Sorriso e a Flor" (1960)](https://amzn.to/4mXnymQ)
+
 - **Collaboration**: Collaboration album with Stan Getz ["Getz/Gilberto" (1964)](https://amzn.to/4nAx9Ry)
 ---
 
@@ -89,7 +90,7 @@ color: #fff;
 
 **Anecdote**: He worshiped Frank Sinatra as a "god" and dreamed of working with him. In fact, his dream came true in 1967 when they collaborated on the album [Francis Albert Sinatra & Antônio Carlos Jobim](https://amzn.to/42jb1Te).
 
-**Influence**: Jobim's compositions have influenced not only bossa nova, but also a wide variety of genres including jazz and pop.
+**Influence**: Jobim's compositions have influenced not only bossa nova, but also a wide variety of genres, including jazz and pop.
 
 ---
 
@@ -209,13 +210,21 @@ Bossa Nova has influenced various genres such as jazz, pop, and classical music,
 
 ## summary
 
-Bossa Nova is a rare genre that began in an apartment in Rio de Janeiro in the late 1950s and has rewritten the world"s musical map. João Gilberto"s whispering guitar and voice, Antonio Carlos Jobim"s sophisticated compositions, Stan Getz"s jazz interpretation, and Sergio Mendes' pop internationalization. Although their individual personalities and activities are independent, they are organically linked and continue to be listened to throughout the ages.
+Bossa Nova is a rare genre that began in an apartment in Rio de Janeiro in the late 1950s and has rewritten the world"s musical map. João Gilberto"s whispering guitar and voice, Antonio Carlos Jobim"s sophisticated compositions, Stan Getz"s jazz interpretation, and Sergio Mendes' pop internationalism. Although their individual personalities and activities are independent, they are organically linked and continue to be listened to throughout the ages.
 
 Even today, the word "Bossa Nova" goes beyond just a musical genre and functions as a symbol of "Brazilian culture" and a "relaxed atmosphere." Through digital platforms such as Spotify and YouTube, it has been received freshly by the younger generation, and it frequently appears in AI recommendations and playlists.
 
 The charm of bossa nova lies in its unique musicality, which combines the freedom of jazz, the rhythm of samba, and the sense of harmony of classical music. Furthermore, if we look at its history, it also reflects social backgrounds such as international cultural exchange during the Cold War, urbanization in Brazil, and interaction with the American music market.
 
 By following albums and discography, as well as learning about anecdotes from the time and the lives of artists, you will be able to understand bossa nova more deeply. The music itself resonates as a soothing ""healing" sound, but at the same time, it can also be enjoyed as a ""document" that reflects the spirit of the times. That is the true value of the cultural heritage that is Bossa Nova.
+
+---
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vix6v78xnH0?si=Z3TTlYeFjDtmTi_q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

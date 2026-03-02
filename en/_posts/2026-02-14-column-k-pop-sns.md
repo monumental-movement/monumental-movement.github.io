@@ -17,7 +17,7 @@ title: '[Column] Relationship between K-POP and SNS strategy | Why did it gain g
 
 ## Why is K-POP so popular? - Success factors seen from the structure
 
-Text: mmr｜Theme: Understanding the background behind K-POP's global success from the perspective of SNS strategy
+Text: mmr｜Theme: Understanding the background behind K-POP's global success from the perspective of SNS strategy based on facts
 
 ### K-POP as a "system" that transcends music genres
 
@@ -85,7 +85,7 @@ By actively communicating on Twitter, they were shaping overseas trends even bef
 
 ## Chronology of K-POP expansion seen through data
 
-### Main events
+### Major events
 
 * 1996: H.O.T. debut
 * 2009: Girls' Generation enters Japan

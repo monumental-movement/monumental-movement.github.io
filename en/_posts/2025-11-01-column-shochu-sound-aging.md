@@ -67,7 +67,7 @@ The impetus was the ""acoustic aging'' of wine that a wine brewer saw in Tokyo.
 I learned about an attempt to speed up maturation by playing classical music,
 He returned to Amami thinking, ""Maybe it could be done with shochu.''
 
-In 2005, a certain warehouse on Amami Oshima installed acoustic speakers in its storage room for the first time.
+In 2005, an acoustic speaker was installed in a warehouse on Amami Oshima for the first time.
 The subjects tested were classical music (Bach, Mozart) and island songs (such as Satokuni Taka's ""Asahabushi'').
 Six months later, the people involved who tasted it were surprised.
 "Even though it's the same raw sake, it was more mellow when I listened to it."
@@ -266,7 +266,7 @@ C --> C2[Mashira Sake Brewery<br>🌾 Traditional fermentation/silence]
 D[Okinoerabu Island] --> D1[Okinoerabu Sake Brewery<br>🌊 Ocean current aging]
 
 E[Yoron Island] --> E1[Arimura Sake Brewery<br>🌺 Traditional storage only]
-E --> E2[Nanno Kaze Sake Brewery<br>🎧 Introduction of AI sound test from 2024]
+E --> E2[Nanno Kaze Sake Brewery<br>🎧 Introduction of AI acoustic test from 2024]
 
 </div>
 

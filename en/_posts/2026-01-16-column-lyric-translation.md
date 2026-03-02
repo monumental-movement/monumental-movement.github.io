@@ -80,7 +80,7 @@ The resulting translated lyrics are a compromise between the original song and t
 ## Chapter 3 Translations that can be sung and "translations that cannot be sung"
 
 Lyric translations are divided into translations for reading and translations for singing.
-In the latter case, ease of pronunciation, vowel continuity, and accent position are important.
+In the latter case, ease of pronunciation, vowel sequence, and accent position are important.
 
 Japanese has a simple syllable structure and many vowels, making it difficult to reproduce the consonant sequence and stress structure of English.
 Therefore, when singing English lyrics in Japanese, the meaning of the words is often simplified or the grammar is rearranged.
@@ -97,7 +97,7 @@ As a result, Japanese lyrics tend to prioritize sound over meaning.
 After the war, with the spread of radio and records, a large amount of Western popular music flowed into Japan.
 During this period, many songs were introduced in their original language or with simple translations.
 
-On the other hand, there are many cases where it has been adapted as a popular song, with new Japanese lyrics added to the original melody.
+On the other hand, in many cases it has been adapted as a popular song, with new Japanese lyrics added to the original melody.
 These are not strictly translations, but cultural re-creations.
 
 The custom of ""Japanese lyrics that are separate from the original songs'' that was formed during this period had a long-lasting influence.

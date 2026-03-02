@@ -109,3 +109,14 @@ Hi-NRG is more than just "dance music"; it is a genre that embodies the history,
 Driving beats and shimmering synths were a celebration of life and a means of escaping society's oppression for gay clubs in the 1980s.
 
 Even today, Hi-NRG continues to be reevaluated as an essential presence when discussing the relationship between music and sexuality.
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m1GDA17poIo?si=5xCGaeSoSqNLE74g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

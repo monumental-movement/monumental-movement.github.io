@@ -163,7 +163,7 @@ DAW-centricity, plug-in sound sources, and software/analog modeling became mains
 
 **Background of the times**: The investment value of music catalogs is expanding. The 90s dance catalog is re-evaluated with sampled material, re-releases and licenses.
 
-**What happened**: In 2013, BMG acquired the Strictly Rhythm master catalog. After that, publishing rights were also transferred.
+**What happened**: In 2013, BMG acquired the Strictly Rhythm master catalog. Publishing rights were subsequently transferred.
 
 **Current position**
 The brand/catalog is still active and is used as an "asset" for reissues, compilations, licensing, etc.
@@ -172,7 +172,7 @@ The brand/catalog is still active and is used as an "asset" for reissues, compil
 
 | No | Artist | Track | Comments |
 |---|---|---|---|
-| 1 | Kings Of Tomorrow | Finally (2014 Remaster) | Traditional deep house remastered, smooth sound quality. |
+| 1 | Kings Of Tomorrow | Finally (2014 Remaster) | Traditional deep house remastered with smooth sound quality. |
 | 2 | Dennis Ferrer | Maniac 3000 | Features a modern and sophisticated house beat. |
 | 3 | Quentin Harris | My Joy (Re-edit) | Deep house re-edited for clubs. |
 | 4 | Barbara Tucker | Think (About It) 2015 Mix | A reinterpretation of vocal house, full of emotion. |
@@ -190,7 +190,7 @@ The brand/catalog is still active and is used as an "asset" for reissues, compil
 | Timing | Main equipment |
 |---|---|
 | 1989~Early 90s | Roland TR-909 / TR-808, TB-303, turntable + mixer |
-| Mid-90s | E-MU SP-12 / SP-1200, Akai MPC series, outboard/tape |
+| Mid 90s | E-MU SP-12 / SP-1200, Akai MPC series, outboard/tape |
 | 2000s to present | DAW (Pro Tools, Ableton, Logic), plug-ins/software synths |
 
 ---

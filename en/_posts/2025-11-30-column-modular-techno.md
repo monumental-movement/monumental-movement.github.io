@@ -269,7 +269,7 @@ The shift from ""track reproduction" to ""sound generation" has also influenced 
 
 ---
 
-# Future prospects
+# Future outlook
 
 Modular Techno is expected to continue to evolve, and several directions are expected.
 

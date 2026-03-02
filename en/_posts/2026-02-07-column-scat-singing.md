@@ -49,7 +49,7 @@ color: #fff;
 
 Although it is difficult to pinpoint the direct origins of scat singing, its prehistory clearly exists. In musical cultures originating from Africa, the voice was not only a tool for communicating words, but also a physical act responsible for rhythm and pitch. The sense that meaningful language and meaningless vocalizations coexist in the same space was deeply rooted in call-and-response and ritual music.
 
-アメリカ南部のプランテーションで歌われたワークソングやフィールド・ホラーでは、長く引き伸ばされた母音や、即興的に挿入される叫び声が労働のリズムを形成していた。 These vocalizations were more like movement than melodies, and the voice functioned as an extension of the body.
+In the work songs and field horrors sung on plantations in the American South, elongated vowels and improvised screams formed the rhythm of labor. These vocalizations were more like movement than melodies, and the voice functioned as an extension of the body.
 
 In early 20th century vaudeville and music halls, it was common to sing with many meaningless syllables to attract the attention of the audience. Even in the early jazz vocal recordings that remain, the habit of breaking the endings of words and elongating syllables can be seen. These were the germs of the sensibility that would later become formalized as scat.
 
@@ -63,7 +63,7 @@ In the mid-1920s, one-shot recording was the norm in recording studios in Chicag
 
 In his scat, the syllables have no meaning, but the rhythmic arrangement is very clear. The beginning of the phrase is the attack of the trumpet, and the ending naturally converges with the breath. Here the voice acts as a melodic instrument, and the absence of lyrics becomes a prerequisite rather than an omission.
 
-If you listen carefully to records from that time, you"ll realize that the sense of distance between you and the band was also important. The scat doesn"t get lost in the accompaniment, but it doesn't stand out too much either. The sense of improvising within the ensemble had already been perfected.
+If you listen carefully to records from that time, you will see that a sense of distance from the band was also important. The scat doesn"t get lost in the accompaniment, but it doesn"t stand out too much either. The sense of improvising within the ensemble had already been perfected.
 
 <div class="mermaid">
 timeline
@@ -103,7 +103,7 @@ Using bebop idioms vocally was an act that presupposed an understanding of impro
 
 <div class="mermaid">
 flowchart LR
-    A[bebop usage] --> B[fast tempo]
+    A[Bebop usage] --> B[fast tempo]
     A --> C[complex harmony]
     B --> D[instrumental scat]
     C --> D
@@ -159,7 +159,7 @@ Scat ideas have become widespread, from the light vocal improvisations of bossa 
 
 ## Supplementary chapter: Scat for Japanese speakers
 
-The reason Japanese speakers find scat difficult is not so much the technique but the structure of the language. Japanese language is centered around vowels, with few consecutive consonants and clear breaks between syllables. As a result, detailed rhythmic expressions using plosives and fricatives are difficult to embody.
+The reason Japanese speakers find scat difficult is not so much the technique but the structure of the language. Japanese language is centered on vowels, has few consecutive consonants, and has clear breaks between syllables. As a result, detailed rhythmic expressions using plosives and fricatives are difficult to embody.
 
 In addition, Japanese vocalizations have a strong connection between meaning and sound, and it is easy to feel psychological resistance to uttering meaningless syllables. Scat requires the courage not to say the syllable, and this feeling may be easier for non-native speakers to acquire.
 

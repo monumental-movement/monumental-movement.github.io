@@ -23,11 +23,11 @@ Text: mmr｜Theme: Using speed and distortion as weapons, we depict the history 
 
 In the late 1980s, Chicago house and Detroit techno traveled to Europe, receiving their own interpretations in each city. In Germany, there is an emphasis on minimal and mechanical repetition, while in England, breakbeats and rave culture are combined. Meanwhile, in the Netherlands, there was an unusual amount of interest in the ""hardness" and ""speed" of techno.
 
-At the time, Dutch DJs didn't play imported American techno as it was, but instead raised the pitch and used equalizers to exaggerate the low frequencies to see how the floor would respond. The BPM exceeds 140, the beat becomes more linear, and the music begins to be treated as a shock to the body.
+At the time, Dutch DJs didn't play imported American techno as it was, but instead raised the pitch and used equalizers to exaggerate the low frequencies to see how the floor would react. The BPM exceeds 140, the beat becomes more linear, and the music begins to be treated as a shock to the body.
 
 This change was driven more by the field than by studio production. Parties in clubs and warehouses became testing grounds, and the audience's reaction directly determined the direction of the music. Immediate effectiveness began to be valued over refinement, and destructive power over architectural beauty.
 
->While techno tends towards futuristic sophistication, another vision of the future was chosen: ""runaway speed.''
+> While techno tends towards futuristic sophistication, another vision of the future was chosen: ""runaway speed.''
 
 ---
 
@@ -75,7 +75,7 @@ Gabba Hardcore was not a culture that could be defined solely by hearing. Skinhe
 
 Sportswear and sneakers are the result of prioritizing functionality to allow people to continue dancing for long periods of time, and were formed without regard to trends in the fashion industry. Here, there was an aesthetic that was not ""for show" but ""for use."
 
-The dance was jumping, and was characterized by movements in which the whole body was thrown against the rhythm. Rather than individual expression, emphasis is placed on the collective elation that comes from sharing the same movement.
+The dance was jumping, and was characterized by movements in which the whole body was thrown against the rhythm. Rather than individual expression, emphasis is placed on the collective elation that comes from sharing the same movements.
 
 > Gaba's physicality was an extreme demonstration of music as a device for creating social solidarity.
 
@@ -125,11 +125,11 @@ Since the 2000s, a unique Japanese interpretation of hardcore has been formed, a
 
 ---
 
-## 9. Re-evaluation and the present – ​​the legacy of hardcore
+## 9. Reappraisal and the Present: The Legacy of Hardcore
 
 Since the 2010s, 90s hardcore has been subject to re-evaluation. Elements that were once shunned because they were excessive have come to be seen as more of an element of sincerity.
 
-In the context of contemporary techno and experimental music, gabber-like speed and distortion are taking on new meaning. The former rebellion now serves as a reference point.
+Gabba-like speed and distortion are taking on new meaning in the context of contemporary techno and experimental music. The former rebellion now serves as a reference point.
 
 > Gabba Hardcore is an unfinished culture that continues to be reinterpreted over time.
 

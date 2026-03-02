@@ -180,7 +180,7 @@ flowchart TD
     A1955["1955: 12-inch LP became standard"]
     A1970["1970s: 45RPM re-evaluation for DJ use"]
     A2000["2000s: 10-inch re-release as limited edition/art edition"]
-    A2020["2020s: Movement of reexamination by audiophiles"]
+    A2020["2020s: Movement of re-examination by audiophiles"]
 
     A1948 --> A1950 --> A1955 --> A1970 --> A2000 --> A2020
 

@@ -52,7 +52,7 @@ After the 2000s: There was a time when it was looked down upon as "spiritual bac
 
 - **Brian Eno**: "Ambient 1: Music for Airports" - Connecting the origins of New Age and Ambient.
 
-- **Kitaro**: A magnificent soundscape that makes full use of synthesizers. Known worldwide for NHK's ""Silk Road''.
+- **Kitaro**: A magnificent soundscape that makes full use of synthesizers. Known worldwide for NHK's ""Silk Road.''
 
 - **George Winston**: A tranquil sound world of solo piano. Works with a seasonal feel, such as "December."
 

@@ -61,7 +61,7 @@ The noises, strange voices, and unusual key changes that were scattered througho
 ### Gene and Dean — imaginary brothers or spiritual doubles?
 
 Gene and Dean.
-The sound of their names suggests "brothers," but they are not related by blood.
+Although the sound of their names suggests "brothers," they are not related by blood.
 But musically, they were almost like twins.
 Gene is the embodiment of emotion and chaos, Dean is the master of construction and craft.
 The moment the two collide, the chaos and magic that is typical of Ween is born.
@@ -84,7 +84,7 @@ The early Ween sound was the magic of home recording on **4-track cassette MTR**
 Leaves noise and distortion intact. It wasn't "filth", it was "truth".
 Their home recordings are a kind of lo-fi alchemy.
 The Pod is a bizarre mix of morbid laughter and psychedelic structure.
-It made listeners feel uneasy while at the same time giving them an addictive feeling of pleasure.
+It made listeners feel anxious, but at the same time it gave them an addictive feeling of pleasure.
 
 ### Contact with the underground scene
 
@@ -237,7 +237,7 @@ flowchart TD
 | 1997 | [The Mollusk](https://amzn.to/48VBtpT) | A milestone in psych-pop |
 | 2000 | [White Pepper](https://amzn.to/4o6RI7P) | "Beatles-like Ween" |
 | 2003 | [Quebec](https://amzn.to/4gZ8SlA) | Fusion of introspection and experimentation |
-| 2007 | [La Cucaracha](https://amzn.to/46STLa9) | The last work that marks the end |
+| 2007 | [La Cucaracha](https://amzn.to/46STLa9) | The last work that marks the end of life |
 
 ---
 

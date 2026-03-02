@@ -97,7 +97,7 @@ The algorithm selects the ""sound that stimulates emotions the fastest,'' which 
 ## Chapter 4: "Fragments" echoing in the darkness of the club – the structure of collective trance
 
 At clubs and festivals, the music seems to go on for a long time, but in reality it is made up of a series of ""several seconds''.
-DJs unconsciously ""reorganize the space every 10 seconds.''
+DJs unconsciously reorganize the space every 10 seconds.
 Phrase changes, bass omissions, snare repetitions——
 Each moment recalibrates the breathing and energy of the floor.
 

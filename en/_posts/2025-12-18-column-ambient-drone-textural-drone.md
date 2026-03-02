@@ -58,11 +58,11 @@ Since the 1970s, ambient music has presented a form of listening that assumes co
 
 ### 2-1. The concept of texture
 
-Textural Drone is characterized by a structure in which multiple tonal layers change slightly over time, rather than a single sustained pitch. Texture here is the sum total of overtone distribution, noise components, spatial localization, and dynamics fluctuations.
+Textural Drone is characterized by a structure in which multiple tonal layers vary slightly over time, rather than a sustained single pitch. Texture here is the sum total of overtone distribution, noise components, spatial localization, and dynamics fluctuations.
 
 ### 2-2. Layering techniques
 
-The overlaying of multiple tracks transforms the music from a linear structure to a surface structure. Each layer has an independent period and modulation speed, producing asynchronous fluctuations as a whole.
+The overlaying of multiple tracks transforms the music from a linear structure to a planar structure. Each layer has an independent period and modulation speed, producing asynchronous fluctuations as a whole.
 
 <div class="mermaid">
 flowchart LR
@@ -123,7 +123,7 @@ flowchart TB
 
 ### 5-2. Dynamics control
 
-Sudden volume changes are avoided and fine amplitude fluctuations are used. This design allows the music to function as an environment rather than an event.
+Sudden changes in volume are avoided and fine amplitude fluctuations are used. This design allows the music to function as an environment rather than an event.
 
 ### 5-3. Spatial processing
 

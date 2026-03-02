@@ -91,7 +91,7 @@ In the 1980s and 1990s, "neofolk" with acoustic elements emerged from the Britis
 One of the central players is **Current 93 (led by David Tibet)**.
 
 ## Features of Current 93
-- In the beginning, noise/industrial elements were strong.
+- Early on there was a strong noise/industrial element.
 - Since the 1990s, the focus has shifted to acoustic instruments such as harmonium, guitar, hurdy-gurdy, and percussion.
 - Emphasis on mysticism and poetic recitation
 - Inheriting Comus and British folk approaches

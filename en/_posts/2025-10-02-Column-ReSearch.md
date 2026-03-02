@@ -11,7 +11,7 @@ tags:
 - Film
 - Zine
 - History
-title: '[Column] RE/Search: Magazines that record subcultures and their cultural influence'
+title: 【コラム】 RE/Search：サブカルチャーを記録する雑誌と文化的影響
 ---
 
 
@@ -76,19 +76,19 @@ RE/Search is more than just a publication; it also serves as a subculture archiv
 | **RE/Search Incredibly Strange Films** | 1983 | Special feature on B-movies and cult films | Nick Zedd, John Waters | [Amazon](https://amzn.to/46T0YFX) |
 | **RE/Search Industrial Culture Handbook (Revised)** | 1987 | Revised edition of Industrial Culture | SPK, Nurse With Wound | [Amazon](https://amzn.to/430Mnqx) |
 | **RE/Search J.G. Ballard** | 1988 | Science fiction writer Ballard special feature | J.G. Ballard | [Amazon](https://amzn.to/4756574) |
-| **RE/Search Industrial Culture Handbook 2000 Edition** | 2000 | Noise/Rethinking Industrial Culture | Coil, Merzbow | [Amazon](https://amzn.to/48KwgkG) |
+| **RE/Search Industrial Culture Handbook 2000 Edition** | 2000 | ノイズ／インダストリアル文化の再考 | Coil, Merzbow | [Amazon](https://amzn.to/48KwgkG) |
 
 ---
 
 ## By era: Related music albums, movies, art events
 
-| Year | Item | Type | Explanation | Link |
+| 年代 | アイテム | 種類 | 解説 | リンク |
 |------|----------|------|------|-------|
 | 1980 | *20 Jazz Funk Greats* | Music | Throbbing Gristle's masterpiece of early industrial. A fusion of social criticism and acoustic experimentation. | [Amazon](https://amzn.to/3IFw77C) |
 | 1980 | Industrial Music Night | Events | Live Series in San Francisco. Documents the early days of industrial culture. | RE/Search Archive |
 | 1981 | *Red Mecca* | Music | Cabaret Voltaire's masterpiece. Reflecting urban anxiety and the atmosphere of the Cold War era. | [Amazon](https://amzn.to/42U9djx) |
 | 1981 | *Pink Flamingos* | Movie | Cult film by John Waters. A symbol of subculture. | [Amazon](https://amzn.to/46QdBS2) |
-| 1983 | *Scatology* | Music | Coil's early experimental work. A fusion of ritual and noise aesthetics. | [Amazon](https://amzn.to/42jkIB8) |
+| 1983 | *Scatology* | 音楽 | Coilの初期実験作。 A fusion of ritual and noise aesthetics. | [Amazon](https://amzn.to/42jkIB8) |
 | 1983 | *Liquid Sky* | Movie | A cult science fiction film depicting New York's drug culture. Resonates with the RE/Search worldview. | [Amazon](https://amzn.to/3IPyDbj) |
 | 1987 | *Leichenschrei* | Music | The pinnacle of noise industrial music by SPK. | [Amazon](https://amzn.to/46QdYMq) |
 | 1987 | *Begotten* | Movie | Silent, monochrome experimental film. Mythical and decadent visual beauty. | [Amazon](https://amzn.to/46IZMEU) |
@@ -104,7 +104,7 @@ RE/Search is more than just a publication; it also serves as a subculture archiv
 
 ---
 
-### RE/Search anecdotes and inside stories
+### RE/Searchの逸話と裏話
 
 There are many anecdotes about RE/Search's publishing activities. Typical examples are listed below.
 
@@ -124,10 +124,10 @@ John Waters provided many materials during the production of Incredibly Strange 
 In 1988, he traveled to London to interview J.G. Ballard in person. Ballard said, ""I never thought that the people who would read my novels would be the punk generation.''
 
 - **Funding difficulties and the continuation of zine culture**
-Although its circulation was small, its readership spread all over the world, and Vale said, ""A passionate readership is more important than mass circulation.''
+  発行部数は少なかったが、読者は世界中に広がり、Valeは「大量発行よりも熱狂的な読者が大事」と語った。
 
 - **Resonance with San Francisco**
-Experimental groups such as Survival Research Laboratories and Other Cinema gathered around RE/Search, building a network of zines and art.
+  RE/Searchの周囲には、Survival Research LaboratoriesやOther Cinemaといった実験的集団が集い、Zineとアートのネットワークを構築した。
 
 ---
 

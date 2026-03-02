@@ -189,7 +189,7 @@ French Touch's filter sweep relied on analog harmonic changes.
 
 ### ◆ ② Record culture: Music production based on sampling
 Much of French Touch begins with vinyl samples.
-Here is the ""joy of discovering'' music**.
+Here lies the ""joy of discovering'' music**.
 It was the atmosphere of the time when club culture and record culture were directly connected.
 Digging records itself was the gateway to creation.
 
@@ -238,7 +238,7 @@ flowchart TD
     A2001["2001\nDaft Punk"s "Discovery' announced"]
     A2004["2004–2008\nRe-evaluation of Italo Disco\nNu Disco sprouts in Northern Europe"]
     A2010["2010\nTodd Terje・Lindstrøm International Evaluation"]
-    A2012["2012\nBreakbot ""By Your Side''"]
+    A2012["2012\nBreakbot "By Your Side""]
     A2020["2020s\nAnalog/record re-boom\nFrench Touch re-evaluation"]
 
     A1995 --> A1998 --> A1999 --> A2001 --> A2004 --> A2010 --> A2012 --> A2020

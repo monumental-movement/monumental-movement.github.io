@@ -11,7 +11,7 @@ tags:
 - Techno
 - Modular
 - History
-title: '[Column] Buchla and Serge: Another genealogy of electronic acoustics'
+title: '[Column] Buchla and Serge: Another lineage of electronic acoustics'
 ---
 
 
@@ -69,7 +69,7 @@ Therefore, the performance becomes an improvisational "act" and the sound is flu
 flowchart LR
   subgraph Buchla_System["Buchla System 100/200 Conceptual Structure"]
     direction LR
-    CV["Voltage Source<br>(Control voltage)"] --> MOD["Modulation Bus<br>(Modulation path)"]
+    CV["Voltage Source<br>(Control voltage)"] --> MOD["Modulation Bus<br>"]
     MOD --> OSC["Complex Oscillator<br>"]
     OSC --> LPG["Low Pass Gate<br>(tone/volume linked)"]
     LPG --> OUT["Audio Out"]

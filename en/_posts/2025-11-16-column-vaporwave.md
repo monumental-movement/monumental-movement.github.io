@@ -20,7 +20,7 @@ title: '[Column] Complete history of vaporwave culture — label history, acoust
 Text: mmr｜Theme: Vaporwave, a movement that started as a music genre, is a huge cultural sphere surrounding memory, history, media, and social psychology.
 
 
-Vaporwave is a cultural phenomenon that was born around 2010 at the intersection of Internet culture, post-financial crisis emotions, and archived images of the past. This article synthesizes label history, aesthetics, acoustic structure, sociocultural theory, derivative genres, semiotics, chronology, and illustrations, and reinterprets vaporwave as ""a comprehensive art born in an era of lost future.''
+Vaporwave is a cultural phenomenon that was born around 2010 at the intersection of Internet culture, post-financial crisis emotions, and archived images of the past. This article synthesizes label history, aesthetics, acoustic structure, sociocultural theory, derivative genres, semiotics, chronology, and illustrations, and redefines vaporwave as a ""comprehensive art born in an era of lost future.''
 
 ---
 
@@ -175,7 +175,7 @@ graph TD
 
 What is vaporwave and its core definition**
 
-### **5-1　Beyond "genre"**
+### **5-1 Towards an existence that transcends "genre"**
 
 Vaporwave was initially treated as a ""minor genre that originated on the Internet'', but
 After spreading for more than 10 years, it has become a cultural device that transcends genres, as shown below.

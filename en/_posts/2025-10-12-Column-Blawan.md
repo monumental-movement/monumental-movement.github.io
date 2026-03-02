@@ -271,7 +271,7 @@ flowchart TD
 
 ### Final Chapter: Prayer of Steel—Dancing is survival
 
-Blawan's sound is sometimes cold and sometimes rough.
+Blawan's sound is sometimes cold and sometimes harsh.
 However, deep within, there is certainly a ""human prayer.''
 The act of dancing is a ritual for "surviving" in the noise of the city.
 "Why They Hide Their Bodies Under My Garage." still attracts people because

@@ -199,7 +199,7 @@ With a passion for education, social commentary, and cultural preservation, he s
 <div class="mermaid">
 graph TB
   A[childhood kingston] --> B[Nike Air recording]
-  B --> C[Heads High hits]
+  B --> C[Heads High hit]
   C --> D[Debut & international expansion]
   D --> E[Expansion of music genre (Soca/Gospel)]
   E --> F[Establishment of independent label]

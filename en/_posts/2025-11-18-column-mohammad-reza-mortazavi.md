@@ -76,7 +76,7 @@ Mortazavi's most notable accomplishment is **more than 30 self-developed strikin
 
 Specifically, the approaches include:
 
-* **Using different points of attack**: Attacking areas that traditional players do not use, such as the center of the leather, the rim, and the body (wooden part).
+* **Use of different hitting points**: Attack areas that traditional players do not use, such as the center of the leather, the edge (rim), and the body (wooden part).
 * **Diverse parts of the hand**: The player's entire hand is considered a musical instrument, including the fingertips, joints, nails, palm, root of the thumb, and other parts that are considered taboo.
 * **Polyrhythmic approach**: A technique that allows multiple voices (layers) to sound simultaneously within the same instrument. This allows ensemble-like performance by just one player.
 * **Dynamic Range**: From extremely quiet touches to explosive blows, freely control the strength, tempo, and density of the sound.
@@ -107,7 +107,7 @@ Mortazavi's discography is a map of the evolution of his explorations. Below, we
 
 Released in 2010, this album is a symbolic departure for Mortazavi. Although it is a solo performance using only traditional instruments (tamback/duff), his technological innovation and sound design are already clearly imprinted. Each track features delicate, multi-layered rhythms that make full use of fingers, palms, and nails, giving the listener the illusion that a single instrument has multiple voices.
 
-What is noteworthy is that his style of hitting is not only fast, but also very dynamic. The resonance of a quiet touch, the sharpness of a strong blow, and the smooth gradation between them. Every time his hands slide over the leather surface, hit the wood of the body, and his fingers bounce with their nails, different tones intersect in a layered manner, creating a strong presence.
+What is noteworthy is that his style of hitting is not only fast, but also extremely dynamic. The resonance of a quiet touch, the sharpness of a strong blow, and the smooth gradation between them. Every time his hands slide over the leather surface, hit the wood of the body, and his fingers bounce with their nails, different tones intersect in a layered manner, creating a strong presence.
 
 Also, the recording/mixing of this album cannot be ignored. When his percussion instruments are recreated in space through a microphone, their echoes and reverberations are vividly captured, creating a soundscape that feels like listening to a microcosm.
 

@@ -20,7 +20,7 @@ title: '[Column] Expanding trajectory of Minimal Music: Aesthetics of repetition
 
 Text: mmr｜Theme: "Aesthetics of Repetition and Change"—A cross-sectional interpretation of minimal music, the richest expression of music achieved through "scarcity," from classical to techno to contemporary Japan.
 
-A single sound rings out and then disappears silently.
+A single sound rings out, then disappears silently.
 The next sound appears again, at a slightly different angle.
 By the time that series takes shape, we are listening not to the music's "story" but to its "existence itself."
 --That was the beginning of minimal music.
@@ -30,7 +30,7 @@ Abandoning the drama and emotional expression that traditional Western music has
 Instead, it has transformed into an art that allows us to listen to "time and structure" itself.
 Terry Riley"s "In C", Steve Reich"s "Piano Phase",
 And Philip Glass's "Einstein on the Beach"——
-They elevated the repetition of sound to a meditative experience rather than a boring one.
+They elevated the repetition of sound to a meditative experience rather than a boring experience.
 
 Eventually, this philosophy permeated the world of electronic music.
 In the constant rhythm of TR-808 and 909,
@@ -165,7 +165,7 @@ The acoustic space was presented as "digital minimalism".
 
 | Artist | Main works | Features |
 |------|------------|------|
-| Isao Tomita | 《Moonlight》《Planet》 | Electronic classical/acoustic refinement |
+| Isao Tomita | 《Moonlight》《Planet》 | Electronic classical music/acoustic refinement |
 | Ryoji Ikeda | 《dataplex》《test pattern》 | Mathematical/frequency minimalism |
 | Alva Noto + Ryuichi Sakamoto | 《Vrion》《Summvs》 | Fusion of electro acoustics and piano |
 | Rei Harakami | 《Red Curb》《lust》 | Warm repetition of Lo-fi electronics |

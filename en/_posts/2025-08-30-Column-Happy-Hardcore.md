@@ -98,3 +98,14 @@ Unlike rave in the UK, the scene in Japan is centered around M3 (sound/media mix
 
 Happy Hardcore originally came from British rave, but it merged with Japanese culture (anime, games, doujins, music games) to form a unique "J-Core" culture.
 Today, it is recognized as being associated with "Happy Hardcore = anime-like cuteness," and Japan has become an important base internationally.
+
+---
+
+
+### YouTube Podcast
+
+*This podcast is in English, but you can watch it with automatic subtitles and translation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LLGgkxizNr4?si=StIaQMuLxvvTvUtg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

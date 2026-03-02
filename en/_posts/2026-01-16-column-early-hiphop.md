@@ -23,7 +23,7 @@ The cultural phenomenon that was occurring in New York's South Bronx in the earl
 
 Young people just gathered together, made music, danced, raised their voices, and left their mark on the city. This series of actions would later be organized as a single culture.
 
-What is important in understanding this period is that the core cultural practices already existed even before Afrika Bambaataa, who would later become an icon.
+What is important in understanding this era is that the core cultural practices already existed even before Afrika Bambaataa, who would later become an icon.
 
 Hip-hop was not the invention of one person, but a complex phenomenon created by environment and necessity.
 

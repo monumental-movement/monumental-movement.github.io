@@ -19,7 +19,7 @@ title: '[Column] Pan Sonic - Extreme acoustic minimalism: Finland''s black curre
 
 Text: mmr｜Theme: Background of Pan Sonic's formation, acoustic approach, characteristics of their works, impact of live performances, influence on electronic music history
 
-When talking about the history of electronic music since the 1990s, there are few artists who have changed the very materiality of sound as much as **Pan Sonic (formerly Panasonic)**. The Helsinki-based duo of Mika Vainio and Ilpo Väisänen has thoroughly dismantled the boundaries between techno, industrial, noise, and minimalism, creating works of highly pure electronic vibrations that can be described as ""the rawness of electricity''.
+When talking about the history of electronic music since the 1990s, there are few artists who have changed the very materiality of sound as much as **Pan Sonic (formerly Panasonic)**. The Helsinki-based duo of Mika Vainio and Ilpo Väisänen has thoroughly dismantled the boundaries between techno, industrial, noise, and minimalism, creating works of highly pure electronic vibrations that can be described as ""the rawness of electricity.''
 
 In particular, their activities from the mid-to-late 1990s resonated with Berlin"s minimal techno crowd, the electronic sound scene of Warp Records in the UK, and Japanese noise culture, greatly expanding the horizons of experimental sound. Pan Sonic"s distinctive feature is that he does not rely on general synthesizers or computers, but uses **homemade analog equipment, modified electronics, and minimal step sequences** to create sound sculptures with thorough structural beauty.
 
@@ -46,7 +46,7 @@ When Pan Sonic was formed in Finland in the early 90s, the electronic music scen
 Mika Vainio was originally active in the industrial/noise genre, and in the early 1990s he turned to electrical sound experiments. Ilpo Vaisanen similarly moved between the realms of DIY electronics and performance art.
 
 ### Debut under the name Panasonic
-Around 1993, the two began collaborating under the name **Panasonic**, and released their first sound source in 1994. Much of the equipment consisted of modified analog circuits, feedback systems, and oscillators, and the main component was ""physical electronic vibrations'' that were completely different from existing forms of club music.
+Around 1993, the two began collaborating under the name **Panasonic**, and released their first sound source in 1994. Much of the equipment consisted of modified analog circuits, feedback systems, and oscillators, and the main component was physical electronic vibrations, which were completely different from existing forms of club music.
 In the music scene of the time, there were few who presented electroacoustic minimalism in such a pure form.
 
 ### Name issue with Matsushita Electric
@@ -75,7 +75,7 @@ Although the sonic material is extremely simple, the song has a detailed structu
 - repeating pulses
 - Finely fluctuating frequency
 - Extremely limited number of notes
-- Low frequency oscillations that vary by a few Hz.
+- Low frequency fluctuations varying by a few Hz
 
 The combination of these creates ""electronic music that is not artificial, but rather feels like a natural phenomenon.''**
 
@@ -137,7 +137,7 @@ Its **purity of repetition** marked a new path for club music.
 They have often collaborated with Japanese noise artists (especially Merzbow, etc.), and they have enhanced each other's experimentalism.
 
 ### 5-3. Contemporary acoustics/sound art
-The approach of treating electronic sound as a "phenomenon" was inherited by later electronic sound artists.
+This approach of treating electronic sound as a "phenomenon" was inherited by later electronic sound artists.
 
 ### 5-4. Mika Vainio's solo activities
 Mika Vainio has released numerous works under the solo name Ø (Zero). He shared the same attitude as Pan Sonic in exploring the smallest unit of electronic sound.
