@@ -14,7 +14,7 @@ title: 田中文也 – 玩家 EP
 
 
 「玩家EP」是
-2002年にTorema RecordsからリリースされたFumiya TanakaのEPです。
+這是田中文也的EP，由Torema Records於2002年發行。
 
 
 #### 曲目表

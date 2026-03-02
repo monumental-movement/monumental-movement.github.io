@@ -27,7 +27,7 @@ B1. Too Much (Seven Inch Version)
 B2. Astrologically
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m98922901775?afid=6142608987){: .button1}
+[在 Mercari 購買](https://jp.mercari.com/item/m98922901775?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Oq_-qj3JHt0?si=Bt9BVGT47kudJbca" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

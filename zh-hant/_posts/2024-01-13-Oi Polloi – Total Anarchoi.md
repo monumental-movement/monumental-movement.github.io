@@ -9,7 +9,7 @@ permalink: /zh-hant/oi-polloi-total-anarchoi/
 tags:
 - Punk
 - 90s
-title: Oi Polloi – Total Anarchoi
+title: Oi Polloi – 完全無政府主義
 ---
 
 

@@ -233,7 +233,7 @@ sequenceDiagram
 
 1. **去！痙攣**
 
-   * 高速ブレイクビーツ＋フラクタルリズム
+   * 高速碎拍+分形節奏
 
 <div class="mermaid">
 
@@ -247,7 +247,7 @@ graph TD
 ---
 
 
-### 5.5〜5.9 Ultravisitor〜Be Up A Hello
+### 5.5〜5.9 Ultravisitor〜打個招呼
 
 * 每首歌曲的節奏圖、波形影像和分形結構都以相同的方式發展。
 * **範例**：Ultravisitor *歡迎來到歐洲*
@@ -285,8 +285,8 @@ graph TD
 ## 7. 評估/影響
 
 * IDM，鼓和貝斯先驅
-* Warp Records黃金時代支柱
-* 技術精準+即興融合+創新評價
+* Warp Records 黃金時代支柱
+* 技術精密＋即興融合＋革新性評価
 
 ---
 

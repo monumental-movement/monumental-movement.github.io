@@ -58,7 +58,7 @@ title: 挑選德國Techno作品
 
 
 
-亮點：德國DJ/製作人Splank的專案Zombie Nation的傑作！ （弗洛里安·森夫特）。特別是，A面「Souls At Zero（原始專輯版本）」與Sven Väth的混音B面搭配。 Sven Väth 的混音具有強大的收尾效果，融合了德國 techno 的沉重和戲劇性。
+亮點：德國DJ/製作人Splank的專案Zombie Nation的傑作！ （弗洛里安·森夫特）。特別是，A面「Souls At Zero（原始專輯版本）」與Sven Väth的混音B面搭配。 Sven Väth 的混音具有強大的收尾效果，融合了德國 techno 的深度和戲劇性。
 
 
 #### 曲目表

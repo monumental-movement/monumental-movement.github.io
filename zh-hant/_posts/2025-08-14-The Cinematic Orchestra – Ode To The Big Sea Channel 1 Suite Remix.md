@@ -15,7 +15,7 @@ title: 電影管弦樂團 – 海頌 / Channel 1 Suite（混音）
 ---
 
 
-The Cinematic Orchestra 是一支爵士/慢速/電子樂隊，於 1999 年在英國倫敦成立，由作曲家/製作人 Jason Swinscoe 領導。
+The Cinematic Orchestraは、作曲家／プロデューサーの Jason Swinscoe（J Swinscoeジェイソン・スウィンスコー） が中心となって1999年にイギリス・ロンドンで結成されたジャズ／ダウンテンポ／エレクトロニカ バンド。
 
 「Ode To The Big Sea / Channel 1 Suite」的 Future Jazz & Downtempo 混音版於 1999 年在英國獨立廠牌 Ninja Tune 發行。
 

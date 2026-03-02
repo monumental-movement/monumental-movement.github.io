@@ -14,7 +14,7 @@ title: 吉恩和吉姆都喜歡奶昔——奶昔！
 ---
 
 
-Gene And Jim Are Into Shakes 是一個英國電子/浩室樂隊，由 Gene Noakes 和 Jim Cunningham 組成。
+Gene And Jim Are Into Shakesは、Gene Noakes & Jim Cunningham からなるUKのエレクトロニック／ハウス系ユニット。
 
 「搖！」是英國獨立廠牌 Rough Trade 於 1988 年發行的 House 曲目，也是 Gene And Jim Are Into Shakes 的唯一作品。皮特·哈蒙德的混音。
 

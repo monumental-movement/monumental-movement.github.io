@@ -13,7 +13,7 @@ title: Supermatic – 無法阻止 Bumrush
 ---
 
 
-「Can't Stop The Bumrush」は、
+“無法阻止Bumrush”是
 這是 Otto van den Toorn 的 Supermatic 專案中的一張 EP，於 1992 年由 Sonic Records 廠牌發行。
 
 #### 曲目表

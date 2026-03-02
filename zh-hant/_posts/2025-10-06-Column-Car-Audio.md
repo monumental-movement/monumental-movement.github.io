@@ -200,7 +200,7 @@ color: #fff;
 ### 路虎
 
 - **代表車型**：路虎攬勝極光（Meridian 13-19揚聲器，825W）
-- **技術**：車両設計段階で音響最適化  
+- **技術**：車輛設計階段的聲學優化
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P9b2M4QzWKQ?si=AuLz_pyciWmkgTT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -239,7 +239,7 @@ color: #fff;
 |捷豹/F-Pace |經絡| 14/825W|特里菲爾德 3D |
 |路虎/極光 |經絡| 19/825W| 3D環繞|
 |阿斯頓馬丁/Vantage |黑白 | 15/1,170W |鸚鵡螺高音揚聲器 |
-|賓利/添越|奈姆 | 20/1,960W |自動音質校正 |
+|賓利/添越|奈姆 | 20/1,960W |自動音質校正|
 |勞斯萊斯/幻影 |定制| 18/1,300W |工作室品質 |
 
 ---
@@ -258,7 +258,7 @@ color: #fff;
 德國賦予聲音精密工程，英國賦予傳統和正式，美國賦予自由和權力，日本賦予微妙的和諧。
 各國的汽車音響也是該社會美學意識和產業概念的結晶。
 
-勞斯萊斯的“寂靜舞台”，是寂靜中的極致。
+勞斯萊斯的「寂靜舞台」是極致的寂靜。
 Tesla 的 DSP 控制連接電訊號和情緒。
 雷克薩斯 (Lexus) 的馬克·萊文森 (Mark Levinson) 將材料和空間作為「工具」。
 這些不僅僅是揚聲器系統，而且是人類與機器、工程和情感交叉的「聲音架構」。

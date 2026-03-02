@@ -105,7 +105,7 @@ Sid Vicious（性手槍樂團）拒絕詭計，用他的存在發出叛逆的聲
 Bootsy Collins 的宇宙放克，
 雅科·帕斯托里斯的一首無憂無慮的詩。
 
-低音不再是“伴奏”，而是演變成了“敘述者”。
+ベースはもはや“伴奏”ではなく、“語り部”へと進化する。  
 米克·卡恩和東尼·萊文將聲音本身視為一座雕塑，
 他將貝斯推向了抽象藝術的領域。
 
@@ -126,7 +126,7 @@ Bootsy Collins 的宇宙放克，
 ---
 
 山下達郎樂隊的伊藤博典、後藤繼俊、岡澤晃──
-他們創造了介於流行歌曲和 AOR 之間的世界級聲音。
+他們創造了一種連接流行歌曲和 AOR 之間世界的聲音。
 低音吉他不再扮演幕後角色，而是成為支撐音樂「尊嚴」的元素。
 
 ---
@@ -146,7 +146,7 @@ ROVO和Shibusa Shirazu的貝斯手，
 ---
 
 downy和toe細膩的低音聽起來就像一首描繪城市夜晚的詩。
-沒有尖叫聲，只有「呼吸靜止」。
+そこには、叫びではなく“呼吸する静けさ”がある。
 
 ---
 
@@ -154,7 +154,7 @@ downy和toe細膩的低音聽起來就像一首描繪城市夜晚的詩。
 
 2000年代，貝斯再次改變了面貌。
 大澤伸一將「人類貝斯」帶入俱樂部曲目，
-STUTS 和 yahyel 將打字和現場音樂結合。
+STUTS 和 yahyel 將打字和現場音樂結合在一起。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HHQBdxG9kVA?si=o0IZpEwWOjz4uMle" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -162,7 +162,7 @@ STUTS 和 yahyel 將打字和現場音樂結合。
 
 目前的樂團如 King Gnu 和 millennium parade，
 低音控制著歌曲的「敘事」。
-濱岡本是傳統與現代的結合體。
+ハマ・オカモトは伝統と現代性の結節点として、  
 它提供了超越可玩性的“音樂文明”。
 
 ---
@@ -203,10 +203,10 @@ Fender Precision、爵士貝斯、Rickenbacker。
 
 ## 六．結論：低音是“社會的潛意識”
 
-低音不是音樂的中心。
+ベースは音楽の中心ではない。  
 然而，它仍然是所有聲音所立足的「基礎」。
 
-低音詮釋著無法用語言表達的感情，
+低音は言葉にできない感情を翻訳し、  
 慢慢地動搖社會的潛意識。
 
 在那條穿越世界和日本、地上和地下的線路上，

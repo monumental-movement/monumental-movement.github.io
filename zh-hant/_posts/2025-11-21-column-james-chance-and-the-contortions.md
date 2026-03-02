@@ -41,14 +41,14 @@ color: #fff;
 
 ## 1. 詹姆斯錢斯的早年生活和音樂背景
 
-詹姆斯·錢斯（James Chance）（本名詹姆斯·齊格弗里德）1953年出生於美國威斯康辛州，學習鋼琴。受到自由爵士乐，尤其是奥内特·科尔曼和阿尔伯特·艾勒的影响，他致力于寻求与现有音乐形式无关的表达方式。
+詹姆斯·錢斯（James Chance）（本名詹姆斯·齊格弗里德）1953年出生於美國威斯康辛州，學習鋼琴。受到自由爵士樂，尤其是奧內特·科爾曼和阿爾伯特·艾勒的影響，他致力於尋求與現有音樂形式無關的表達方式。
 1975 年，他搬到了紐約，在 Flaming Youth 和 Teenage Jesus and the Jerks 等早期樂隊中演奏後，他組建了 **Contortions**，這是一支實現了他的願景的樂隊。
 
 ---
 
 ## 2.扭曲的形成與無波的核心
 
-1977 年，Contortions 圍繞著 James Chance 成立。成員有：
+1977 年，Contortions 圍繞著 James Chance 成立。成員是：
 
 - **喬迪·哈里斯**（吉他）
 - **Pat Place**（滑音吉他）
@@ -94,7 +94,7 @@ B --> H["Lydia Lunch / Teenage Jesus and the Jerks"]
 
 ---
 
-## 4. 詹姆斯懷特與黑人 姓名：Off White (1979)
+## 4. 詹姆斯懷特與黑人 名稱：Off White (1979)
 
 **Off White**，以 Contortions 名義發布，將迪斯科元素與無波浪的即興本質結合在一起。
 

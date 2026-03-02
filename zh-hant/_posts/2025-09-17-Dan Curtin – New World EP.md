@@ -22,7 +22,7 @@ title: 丹‧科廷 (Dan Curtin) – 新世界 EP
 
 D1 是荷蘭傳奇人物 Orlando Voorn 的混音版。
 
-D2 是英國 techno 音樂家 Dave Angel 的混音作品。
+D2は、イギリスのテクノミュージシャンDave Angel(デイヴ・エンジェル)によるremix。
 
 #### 曲目表
 ```md

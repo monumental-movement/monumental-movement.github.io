@@ -13,7 +13,7 @@ title: Aquasky – 寧靜考納
 ---
 
 
-1996年にUKのレーベル「Moving Shadow」からリリースされたAquaskyによるEPです。
+這是 Aquasky 於 1996 年在英國廠牌「Moving Shadow」上發行的一張 EP。
 
 Aquasky 曾與 4/4 別名 Black Noise 合作過，例如 Southern Fried 和 Wearhouse Music，但這次他們回歸根源，推出了一首讓他們回到 Acid House 時代的歌曲。
 

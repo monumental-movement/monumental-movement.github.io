@@ -14,7 +14,7 @@ title: 幸運－指路明燈
 
 
 「指路明燈」是
-ベルギーのレーベル「WL Records」からリリースされたLuckyによるEPです。
+這是Lucky的一張EP，由比利時廠牌「WL Records」發行。
 
 #### 曲目表
 ```md

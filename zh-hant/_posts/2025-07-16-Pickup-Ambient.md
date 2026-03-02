@@ -92,7 +92,7 @@ D3. String Of Pearls
 <小時>
 
 ### Sanjiva – 流動喜悅的秘密房間
-<a href="https://jp.mercari.com/item/m64537579861?afid=6142608987"><img src="../assets/images/Sanjiva%20%E2%80%93%20Secret%20Rooms%20Over%E2%80%93%20Secret%20Rooms%Flowaver%2009%(
+<a href="https://jp.mercari.com/item/m64537579861?afid=6142608987"><img src="../assets/images/Sanjiva%20%E2%80%93%20Secret%20Rooms%Flowa$
 
 類型： 環境電子技術
 

@@ -9,11 +9,11 @@ permalink: /zh-hant/zoo-brazil-selected/
 tags:
 - House
 - Tech House
-title: Zoo Brazil – Selected
+title: 巴西動物園 – 精選
 ---
 
 
-「Selected」は、
+「選定」是
 這是 Zoo Brazil 於 2002 年由德國廠牌「Great Stuff Recordings」發行的 EP。
 
 #### 曲目表

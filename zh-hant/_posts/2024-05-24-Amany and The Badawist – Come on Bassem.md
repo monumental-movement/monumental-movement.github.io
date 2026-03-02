@@ -11,14 +11,14 @@ tags:
 - Egypt
 - African
 - Lebanon
-title: Amany & The Badawist – Come on, Bassem
+title: Amany & The Badawist – 來吧，巴塞姆
 ---
 
 
 《來吧，巴塞姆》是黎巴嫩廠牌 Badawist Phone 發行的卡帶。
 安吉爾·納比勒·阿尤布（Angel Nabil Ayyoub），也被稱為阿曼尼（Amany），是一位來自黎巴嫩的舞者和編舞家。
 
-プロデューサー – Nazih Dia
+製片 – 納齊赫·迪亞
 
 演唱：馬安·阿米爾
 

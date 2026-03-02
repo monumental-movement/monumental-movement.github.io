@@ -9,13 +9,13 @@ permalink: /zh-hant/steve-angello-voices/
 tags:
 - House
 - Electro
-title: Steve Angello – Voices
+title: 史蒂夫安傑洛 – 配音
 ---
 
 
-Steve Angello（スティーブアンジェロ）は、ギリシャ系スウェーデン人の DJ・レコードプロデューサー・リミキサー。
+Steve Angello 是一位希臘裔瑞典 DJ、唱片製作人和混音師。
 
-Steve Angelloは、Axwell（アクスウェル）、Sebastian Ingrosso（セバスチャン・イングロッソ ）と共にSwedish House Mafia（スウェディッシュハウスマフィア）の一員である。
+史蒂夫·安傑洛（Steve Angello）是瑞典眾議院黑手黨的成員，其他成員包括阿克斯韋爾（Axwell）和塞巴斯蒂安·英格羅索（Sebastian Ingrosso）。
 
 A 面的第一首曲目是由瑞典 DJ 兼製作人 Eric Prydz（同時也擔任 Cirez D 和 Pryda）混音的作品。
 

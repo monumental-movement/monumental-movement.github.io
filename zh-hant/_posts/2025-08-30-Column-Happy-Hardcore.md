@@ -98,3 +98,14 @@ Konami 的 [Dance Dance Revolution (DDR)](https://amzn.to/4mxxAe5) 和 [beatmani
 
 Happy Hardcore最初源自英國銳舞，但與日本文化（動漫、遊戲、同人、音樂遊戲）融合，形成了獨特的「J-Core」文化。
 如今，它被認為與「快樂硬核=動漫般的可愛」聯繫在一起，日本已成為國際上的重要基地。
+
+---
+
+
+### YouTube 播客
+
+*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LLGgkxizNr4?si=StIaQMuLxvvTvUtg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

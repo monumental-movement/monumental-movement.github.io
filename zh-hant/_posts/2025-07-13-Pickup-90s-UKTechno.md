@@ -50,7 +50,7 @@ B2. Neon
 
 發佈時間：1997 年
 
-Sean Booth 和 Rob Brown 的英國電子/科技作品。一张具有实验节奏和音景的 CD
+Sean Booth 和 Rob Brown 的英國電子/科技作品。一張具有實驗節奏與音景的 CD
 
 #### 曲目表
 ```md
@@ -70,7 +70,7 @@ Sean Booth 和 Rob Brown 的英國電子/科技作品。一张具有实验节奏
 <小時>
 
 
-### 盧克·斯萊特 – 弗里克 – 放克
+### 盧克·斯萊特 – Freek – Funk
 <a href="https://jp.mercari.com/item/m61298864776?afid=6142608987"><img src="../assets/images/Luke%20Slater%20%E2%80%93%20Freek%20Funk.webp.
 
 發佈時間：1997 年
@@ -105,9 +105,9 @@ Sean Booth 和 Rob Brown 的英國電子/科技作品。一张具有实验节奏
 <小時>
 
 ### D.O.M. – Acid War（解放者 DJ RMX）
-<a href="https://jp.mercari.com/item/m93454980108?afid=6142608987"><img src="../assets/images/D.O.M.%20%E2%80%93%20Acid%20WRM20(Liberator
+<a href="https://jp.mercari.com/item/m93454980108?afid=6142608987"><img src="../assets/images/D.O.M.%20%E2%80%93%20Acid%20War%20(Liberator%20DJs%20RMX).webp"></a>
 
-發行時間：1995年（原版），2006年發行混音版
+發行時間：1995年（原版），2006年發行混音版本
 
 由英國二人組 Jon Nuccle/Mike Humphries 創作的 Acid techno remix
 

@@ -12,7 +12,7 @@ tags:
 - Experimental
 - Big Beat
 - 90s
-title: VA－這是拉丁美洲
+title: VA – This Is Latinamyl
 ---
 
 

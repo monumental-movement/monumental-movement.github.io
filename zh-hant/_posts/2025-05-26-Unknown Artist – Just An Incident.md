@@ -10,7 +10,7 @@ tags:
 - Electronic
 - Techno
 - 00s
-title: Unknown Artist – Just An Incident / Head, Booty & Beats
+title: 不知名藝術家 – 只是一個事件 / Head、Booty & Beats
 ---
 
 

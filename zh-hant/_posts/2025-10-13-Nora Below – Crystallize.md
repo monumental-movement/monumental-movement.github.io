@@ -11,13 +11,13 @@ tags:
 - Experimental
 - Tech House
 - 00s
-title: Nora Below – Crystallize...
+title: 諾拉下面——結晶…
 ---
 
 
 Nora Below 是一位柏林藝術家，發行電子/電子/工業/新浪潮為主的以聲樂為中心的電子音樂。
 
-「Crystallize...」是一首抽象/實驗/Tech House 歌曲，由德國電子/科技唱片公司 BPitch 於 2002 年發行。
+「Crystallize... 」は、2002年にドイツのelectro/techno系レーベルBPitchからリリースされたAbstract／Experimental／Tech House。
 
 #### 曲目表
 ```md

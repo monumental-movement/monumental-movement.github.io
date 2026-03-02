@@ -14,7 +14,7 @@ title: 新星－觸摸我
 
 Armin van Buuren（也稱為 Rising Star）的 trance 曲目於 2001 年由德國廠牌 Reef Recordings 發行。
 
-A面はトラック「Sandstorm」が有名なフィンランドのトランスDJ Darude（ダルード）によるremix。
+Side A 是芬蘭 trance DJ Darude 的混音版，他因歌曲“Sandstorm”而聞名。
 
 #### 曲目表
 ```md

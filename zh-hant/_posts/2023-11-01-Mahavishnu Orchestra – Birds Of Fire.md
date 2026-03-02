@@ -10,7 +10,7 @@ tags:
 - Fusion
 - Jazz
 - Rock
-title: Mahavishnu Orchestra – Birds Of Fire
+title: Mahavishnu Orchestra – 火鳥
 ---
 
 

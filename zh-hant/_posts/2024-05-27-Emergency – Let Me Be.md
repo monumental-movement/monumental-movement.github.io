@@ -12,7 +12,7 @@ tags:
 - Euro
 - 90s
 - Rare
-title: Emergency – Let Me Be
+title: 緊急情況 – 讓我來吧
 ---
 
 

@@ -69,7 +69,7 @@ color: #fff;
 
 ## 第二章 喧囂中的記憶─類比與懷舊
 
-針落下的瞬間發出「咚咚」的聲音。
+針落下的瞬間，會發出「沙」的聲音。
 出於某種原因，很多人一聽就會產生懷舊的感覺。
 
 這種現像在心理學上被稱為「普魯斯特效應」。
@@ -147,7 +147,7 @@ Z世代唱片購買者
 
 從心理上來說，人們傾向於「執著於不完美」而不是完美。
 接受這種不完美作為你自己的一部分。
-這就是它作為「模擬之魂」的吸引力。
+這就是「模擬之魂」的吸引力。
 
 ——唱片不是音樂的墓碑。
 相反，**人類記憶本身就是一個旋轉裝置**。
@@ -180,12 +180,20 @@ flowchart TD
 
 ---
 
+### YouTube 播客
+
+*此播客是英文的，但您可以透過自動字幕和翻譯觀看。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-pxh2SnpHVc?si=C86GU4bYwAA_J9Rl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ### 參考文獻（英文原文）
 
 |標題 |作者 |出版商 |連結 |
 |---------------------------------------------------------------- | --------------------------------- |-------------------------------- |------------------------------------------------ |
 | *音樂癖：音樂與大腦的故事* |奧利佛薩克斯 |復古書籍| [亞馬遜](https://amzn.to/48AVBxw) |
 | *噪音：音樂的政治經濟學* |雅克·阿塔利 |明尼蘇達大學出版社| [亞馬遜](https://amzn.to/3WifuSz) |
-| *復古狂熱：流行文化對其過去的沉迷* |西蒙雷諾茲 |費貝爾和費貝爾| [亞馬遜](https://amzn.to/42RokKQ) |
-| *音樂如何運作* |大衛伯恩 |皇冠原型| [Amazon](https://amzn.to/42UI0xs) |
+| *復古狂熱：流行文化對其過去的沉迷*|西蒙雷諾茲 |費貝爾和費貝爾| [亞馬遜](https://amzn.to/42RokKQ) |
+| *音樂如何運作* |大衛伯恩 |皇冠原型| [亞馬遜](https://amzn.to/42UI0xs) |
 | *黑膠唱片：數位時代的類比唱片* |多明尼克巴特曼斯基和伊恩伍德沃德 |布魯姆斯伯里 | [亞馬遜](https://amzn.to/47ANEY7) |

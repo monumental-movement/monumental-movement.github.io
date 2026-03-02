@@ -8,11 +8,11 @@ layout: post
 permalink: /zh-hant/deep-side-what-i-need/
 tags:
 - Hiphop
-title: Deep Side – What I Need
+title: 深層—我需要什麼
 ---
 
 
-「Deep Side – What I Need」の
+“深層——我需要什麼”
 B 面的第一首歌曲由來自新奧爾良的 MC/嘻哈藝人/饒舌歌手 Juvenile 演唱。
 
 
