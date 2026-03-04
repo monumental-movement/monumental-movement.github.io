@@ -14,7 +14,7 @@ title: Inland Knights – Filter Interference
 
 
 「Filter Interference」는,
-1999년에 UK의 라벨 「Drop Music」에서 발매된 Andy Riley와 Laurence Ritchie에 의한 유닛 Inland Knights에 의한 EP입니다.
+1999년에 UK의 라벨 「Drop Music」으로부터 릴리스 된 Andy Riley와 Laurence Ritchie에 의한 유닛 Inland Knights에 의한 EP입니다.
 
 #### Tracklist
 ```md

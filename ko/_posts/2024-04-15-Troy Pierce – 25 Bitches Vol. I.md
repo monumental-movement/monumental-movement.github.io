@@ -13,7 +13,7 @@ title: Troy Pierce – 25 Bitches Vol. I
 ---
 
 
-Troy Pierce(트로이피어스)는 베를린을 거점으로 활동하는 미국의 일렉트로닉 뮤직 DJ 프로듀서.
+Troy Pierce(트로이 피어스)는 베를린을 거점으로 활동하는 미국의 일렉트로닉 뮤직 DJ 프로듀서.
 
 Troy Pierce는 Gibby Miller와의 미니멀 테크노 하우스 프로젝트 Louderbach로도 활약해 독일의 레이블 Items & Things를 Magda, Marc Houle과 함께 운영하고 있다.
 

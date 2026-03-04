@@ -14,7 +14,7 @@ title: Unknown Artist – Gamelan Music Of Bali
 ---
 
 
-라벨 Lyrichord에서 발매된 발리 섬의 감람 음악 앨범.
+라벨 Lyrichord에서 발매된 발리 섬의 갬란 음악 앨범.
 
 1950년 Peter Fritsch에 의해 설립된 US 레코드 회사 Lyrichord는 미국에서 가장 오래되었던 것부터 의식적, 부족적, 민족적 전통의 필드 레코딩 등 인류 음악의 전통을 모아 출시하고 있다. 이 앨범의 녹음자는 Ruby Ornstein.
 

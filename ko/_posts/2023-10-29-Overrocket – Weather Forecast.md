@@ -13,7 +13,7 @@ title: Overrocket – Weather Forecast
 ---
 
 
-OVERROCKET는, 전기 그루브의 엔지니어 와타나베 고사, 혼다 미치요, 스즈키 미츠히토의 일렉트로팝 유닛. B면 「Weather Forecast (Rain Hat Mix)」는, DJ Tasaka에 의한 Remix.
+OVERROCKET은, 전기 그루브의 엔지니어 와타나베 고사, 혼다 미치요, 스즈키 미츠히토의 일렉트로팝 유닛. B면 「Weather Forecast (Rain Hat Mix)」는, DJ Tasaka에 의한 Remix.
 
 #### Tracklist
 ```md

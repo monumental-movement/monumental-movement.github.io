@@ -42,7 +42,7 @@ color: #fff;
 
 ## Ⅰ. 소리를 괴롭히는 손의 쾌락
 
-음악이라는 행위의 원점에 '촉각'이 있다는 것을 잊지 말라. 현을 연주하고 건반을 누르고 노브를 돌리면 손가락 끝에 반응이 돌아온다. 그 즉각성은 어린 시절을 만지는 완구에서도 마찬가지다.
+음악이라는 행위의 원점에 '촉각'이 있다는 것을 잊지 말라. 현을 연주하고 건반을 누르고 노브를 돌리면 손가락 끝에 반응이 돌아온다. 그 즉각성은 어린 시절에 접하는 완구에서도 마찬가지다.
 21세기에 들어 전자음은 아이의 장난감이나 교육용 가젯으로까지 확장되어 '울리는' 행위 자체가 놀이의 일부로 디자인되게 되었다. 장난감과 악기의 경계는 점점 모호해지고 있습니다.
 
 ---
@@ -51,7 +51,7 @@ color: #fff;
 
 ### Radel Electronic Tanpura
 인도의 Radel사가 1970년대 말에 개발한 전자 타블러는, 전통적인 라가 연주에 있어서의 지속음을 휴대용화한 장치이다. 복잡한 현악기를 가정에서 쉽게 재현할 수 있기 때문에 아이부터 어른까지 폭넓게 사랑받았다.
-전자음의 단순화는 오히려 새로운 즉흥문을 열었다. 가정의 책상에 놓인 전자 탬풀러는 학습과 놀이의 경계에서 울리는 “가정적인 의식”이 되었다.
+전자음의 단순화는 오히려 새로운 즉흥문을 열었다. 가정의 책상 위에 놓인 전자 탬풀러는 학습과 놀이의 경계에서 울리는 “가정적인 의식”이 되었다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k2sYalri8oo?si=XlAvOI4CTDOG2yH_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -92,7 +92,7 @@ Omnichord는 테크노팝이나 인디의 아티스트에게 라이브 퍼포먼
 
 ---
 
-## Ⅳ. 유럽의 기음 장치
+## IV. 유럽의 기음 장치
 
 ### Stylophone과 Optigan
 영국의 Stylophone은, 1970년대의 텔레비전 광고로 친숙한 “책상상의 신디”이다. 손가락 끝으로 금속 접점을 추적하면 독특한 신호음이 울립니다. 그 간편함과 노이즈감은 초기 테크노팝이나 아반가르드 음악에 도입되었다.

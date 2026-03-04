@@ -43,7 +43,7 @@ title: 【칼럼】 UK 테크노의 황금 시대
 
 [**● Surgeon（アンソニー・チャイルド）**](https://amzn.to/3J8lKJC)
 
-버밍엄 테크노의 국기 손입니다. 단단하고 산업, 그리고 솔리드. Tresor나 Downwards로부터의 릴리스로 이름을 올리고, 현재도 UK테크노의 핵심에 있다.
+버밍엄 테크노의 국기 손입니다. 단단하고 산업, 그리고 솔리드. Tresor나 Downwards로부터의 릴리스로 이름을 올리고, 현재도 UK 테크노의 핵심에 있다.
 
 [**● Luke Slater**](https://amzn.to/4mZWTpi)
 
@@ -72,7 +72,7 @@ Regis가 설립. 인더스트리얼로 금욕적인 사운드를 중심으로, S
 
 [**● NovaMute**](https://amzn.to/4mULqqV)
 
-Mute Records의 하위 레이블. Luke Slater, Speedy J, Laurent Garnier 등을 안고, UK뿐만 아니라 유럽 전체의 테크노 씬에도 파급.
+Mute Records의 서브 라벨. Luke Slater, Speedy J, Laurent Garnier 등을 안고 UK뿐만 아니라 유럽 전체의 테크노 씬에도 파급.
 
 [**● Peacefrog**](https://amzn.to/42BtHxw)
 

@@ -16,7 +16,7 @@ title: Futureshock – Pride's Paranoia
 
 
 Futureshock (퓨처 쇼크)는 UK의 DJ 프로듀서 Alex Tepper와 Phil Dockerty
-에 의해 일렉트로닉 듀오. 주로 1998년~2003년까지 활동했다.
+에 의한 전자 듀오. 주로 1998년~2003년까지 활동했다.
 
 'Pride's Paranoia'는 2003년 라벨 Parlophone에서 출시된 프로그레시브 하우스 트럭.
 

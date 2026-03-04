@@ -20,10 +20,10 @@ title: Yumi Matsutoya – Da·Di·Da
 · 드럼 : 하야시 타츠오, Mike Baird
 ・기타:마츠바라 마사키
 ・키보드：마츠토야 마사타카
-・퍼커션：사이토 노브, 하마구치 시게야야
+・퍼커션：사이토 노브, 하마구치 시게야
 ・삭스:Jake H. Conception, Ernest J. Watts
 · 신디사이저 프로그래밍 : 우라타 에지, Chuck Wild
-・코러스 : 마츠토야 유미, 키리가야 히토시, 키리가야 "Bobby" 토시히로, 시라토리 히데미코, 하이파이 세트, 츠노다히로, Mark I, Marvin Walker, Marvin Baker, Cindy
+・코러스 : 마츠토야 유미, 키리가야 히토시, 키리가야 "Bobby" 순박, 시라토리 히데미코, 하이파이 세트, 츠노다히로, Mark I, Marvin Walker, Marvin Baker, Cindy
 
 #### Tracklist
 ```md

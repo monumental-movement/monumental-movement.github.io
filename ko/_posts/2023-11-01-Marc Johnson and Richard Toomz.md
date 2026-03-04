@@ -14,7 +14,7 @@ title: Marc Johnson & Richard Toomz
 
 
 
-Dave Owens(Dave Owens)의 DJ 경력은 2000년대 초에 궤도를 타고 Insomniacz, Housework, Insekt, Byte, Ultim-8, Incisions, Hard Up North, Out of Order, Toast, Housewives Choice, Forbidden 등의 클럽 장면을 대표한다.
+Dave Owens(Dave Owens)의 DJ 경력은 2000년대 초반에 궤도를 타고 Insomniacz, Housework, Insekt, Byte, Ultim-8, Incisions, Hard Up North, Out of Order, Toast, Housewives Choice, Forbidden 등의 클럽 장면을 대표
 
 맨체스터의 PureFilth에서는 레지던트 DJ도 역임했습니다.
 

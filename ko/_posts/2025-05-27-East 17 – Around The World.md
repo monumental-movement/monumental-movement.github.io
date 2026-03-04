@@ -17,7 +17,7 @@ title: East 17 – Around The World
 
 East 17(이스트 17)은, 히트 싱글 「Stay Another Day」로 알려진 UK의 팝 보이즈 밴드.
 
-'Around The World'는 1994년 London Records에서 출시된 유로하우스 하우스 트랙.
+「Around The World」는 1994년 London Records에서 발매된 유로하우스 하우스 트랙.
 
 B면 2곡째는 Sting, TLC, Fun Fun, Tavares, The Limit, Bill Withers, Frankie Valli & The Four Seasons, Hot Chocolate, Pia Zadora, The Doobie Brothers, The Art Of Noise, Dimples D, Phil Collins, Jeff Wayne 등 다양한 아티스트의 remix를 다룬다.
 

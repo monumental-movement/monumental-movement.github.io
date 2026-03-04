@@ -13,7 +13,7 @@ title: Invitation To Denon PCM (A Magnificient New Recording System)
 ---
 
 
-"Invitation To Denon PCM (A Magnificient New Recording System)"은 1975년에 Denon에서 출시되었습니다.
+Invitation To Denon PCM(A Magnificient New Recording System)은 1975년에 Denon에서 출시되었습니다.
 
 #### Tracklist
 ```md

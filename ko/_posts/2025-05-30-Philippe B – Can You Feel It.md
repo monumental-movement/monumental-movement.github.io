@@ -15,7 +15,7 @@ title: Philippe B – Can You Feel It
 ---
 
 
-네덜란드의 프로듀서 그룹 Solid Sessions가 Pronti & Kalmani를 피처한 보컬 트랜스 트랙 「Janeiro」는, 2000년의 릴리스 이후 수많은 유명 DJ에 remix 되고 있다.
+네덜란드의 프로듀서 그룹 Solid Sessions가 Pronti & Kalmani를 피처한 보컬 트랜스 트랙 「Janeiro」는 2000년의 릴리스 이후 수많은 유명 DJ에 remix되고 있다.
 
 이 레코드는 2002년 라벨 Alpha+에서 발표된 네덜란드 DJ 프로듀서 Armin van Buuren(아민 밴 뷰렌)과 Paul Hutsch의 remix 버전.
 

@@ -16,7 +16,7 @@ title: Gene And Jim Are Into Shakes – Shake!
 
 Gene And Jim Are Into Shakes는 Gene Noakes & Jim Cunningham로 구성된 UK의 일렉트로닉/하우스계 유닛.
 
-Shake!는 1988년 UK의 인디 라벨 Rough Trade에서 출시된 House 트럭으로 Gene And Jim Are Into Shakes 유일한 작품. Remix는 Pete Hammond.
+「Shake!」는 1988년에 UK의 인디 라벨 Rough Trade에서 출시된 House 트럭이며, Gene And Jim Are Into Shakes 유일한 작품. Remix는 Pete Hammond.
 
 #### Tracklist
 ```md

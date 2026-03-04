@@ -15,7 +15,7 @@ title: Brainkiller – Brainkiller
 
 Brainkiller는 Michael Bogdanski, Frank Behrens, MiBo (Michael B.)의 하드 테크노 액트입니다.
 
-"Brainkiller"는 Mike Hoppe (Roy Batty)에 의해 설립된 독일 라벨 F%@#ing Loud! 보다 1994년에 발매되었다.
+"Brainkiller"는 Mike Hoppe (Roy Batty)에 의해 설립된 독일 라벨 F%@#ing Loud!보다 1994년에 발매되었다.
 
 #### Tracklist
 ```md

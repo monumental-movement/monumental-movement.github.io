@@ -16,7 +16,7 @@ title: Ween – Pure Guava
 ---
 
 
-1992년에 릴리스된 「Pure Guava」는, Ween의 3번째의 스튜디오 앨범이며, 메이저 라벨 데뷔작. Ween의 대표작 'Push th' Little Daisies'가 수록되어 있다.
+1992년에 릴리스된 「Pure Guava」는, Ween의 3번째 스튜디오 앨범이며, 메이저 라벨 데뷔작. Ween의 대표작 'Push th' Little Daisies'가 수록되어 있다.
 
 #### Tracklist
 ```md

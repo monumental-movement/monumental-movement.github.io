@@ -16,7 +16,7 @@ title: Ruff Driverz – Chosen Ones
 
 Ruff Driverz는 1998년부터 2019년까지 활동한 Brad Carter와 Chris Brown에 의한 UK의 DJ/리믹스/프로덕션 듀오. Dreaming(1998)과 Waiting for the Sun(1999) 등의 히트곡으로 알려져 2000BC나 Transit 명의에서도 활동하고 있었다.
 
-"Chosen Ones"는 2000년 UK의 라벨 Recognition에서 출시된 Trance 트랙.
+"Chosen Ones"는 2000년에 UK의 라벨 Recognition에서 출시된 Trance 트랙.
 
 #### Tracklist
 ```md

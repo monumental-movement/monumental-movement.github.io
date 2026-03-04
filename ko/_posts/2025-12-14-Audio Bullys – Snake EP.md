@@ -14,7 +14,7 @@ title: Audio Bullys – Snake EP
 ---
 
 
-Audio Bullys는 'Shot You Down'(2005)으로 알려진 일렉트로닉 뮤직 듀오. 오리지널 멤버는 Simon Franks와 Tom Dinsdale.
+Audio Bullys는 "Shot You Down"(2005)으로 알려진 일렉트로닉 뮤직 듀오. 오리지널 멤버는 Simon Franks와 Tom Dinsdale.
 
 'Snake EP'는 Audio Bullys의 데뷔 앨범 'Ego War'의 싱글 컷으로, 2004년 프랑스 라벨 Source에서 출시된 House/Tech House 트랙.
 

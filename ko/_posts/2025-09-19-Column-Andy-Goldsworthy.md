@@ -42,10 +42,10 @@ color: #fff;
 | 테마 | Goldsworthy의 작품 | 음악과의 공통점 |
 |--------|----------------|----------------|
 **시간** | 얼음, 잎, 가지 등이 녹거나 시들거나 하는 변화를 전제로 한 작품 | 페이즈 시프트나 루프에 의한 음악적 시간 감각(예: 스티브 라이히) |
-| **장소** | 작품은 제작 장소의 자연 환경과 불가분 |
+**장소** | 작품은 제작 장소의 자연 환경과 불가분 |
 ** 바보** | 바람, 비, 햇빛에 의해 붕괴되는 작품 | 사라지는 잔향과 지속음의 페이드 아웃 |
 **순환** | 계절과 자연 현상의 사이클을 강조 | 드론과 반복 구조에 의한 순환적 시간 감각 |
-** 침묵 ** | 공간과 틈의 중요성 | 존 케이지와 앰비언트 작품에서 "무음"의 존재 |
+** 침묵 ** | 공간과 틈새의 중요성 | 존 케이지와 앰비언트 작품에서 "무음"의 존재 |
 
 ---
 
@@ -86,7 +86,7 @@ color: #fff;
 - Jana Winderen - *Energy Field*
 - Hildegard Westerkamp - *Into the Labyrinth*
 
-#### 최소
+#### 미니멀
 
 - Steve Reich - *Music for 18 Musicians*
 - Terry Riley - *In C*
@@ -131,7 +131,15 @@ color: #fff;
 
 ### 결론
 
-앤디 골즈 워지의 작품은 시간과 자연과 함께 변화하고 사라져 가는 '한 번성'을 갖고 있다. 그 미학은 앰비언트나 필드 녹음, 미니멀 뮤직이 가지는 소리의 「환경성」 「반복」 「침묵」과 강하게 공명한다. 양자를 조합해 체험하는 것으로, 시각과 청각을 횡단하는 「자연과의 대화」가 태어난다.
+앤디 골즈 워지의 작품은 시간과 자연과 함께 변화하고 사라져 가는 '일회성'을 갖고 있다. 그 미학은 앰비언트나 필드 녹음, 미니멀 뮤직이 가지는 소리의 「환경성」 「반복」 「침묵」과 강하게 공명한다. 양자를 조합해 체험하는 것으로, 시각과 청각을 횡단하는 「자연과의 대화」가 태어난다.
+
+---
+
+### YouTube Podcast
+
+※이 Podcast는 영어입니다만, 자동 자막・번역으로 시청할 수 있습니다
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tb-uIGywwqc?si=Ag_bqU4OVg_fE593" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

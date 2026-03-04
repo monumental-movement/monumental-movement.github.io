@@ -14,7 +14,7 @@ title: Ken Laszlo – Tonight
 ---
 
 
-'Ken Laszlo - Tonight'는 이탈리아의 이탈로 디스코 작가 켄 라즈로(Ken Laszlo)의 1985년 릴리즈 곡입니다.
+"Ken Laszlo - Tonight"는 이탈리아의 이탈로 디스코어 티스트, 켄 라즈로 (Ken Laszlo)의 1985 년 릴리스의 음악입니다.
 
 켄 라즈로는 이탈로 디스코 무브먼트에서 활약한 아티스트이며, 'Tonight'는 그의 대표작 중 하나로 여겨지고 있습니다.
 

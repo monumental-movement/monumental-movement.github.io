@@ -17,7 +17,7 @@ title: 【칼럼】 Folk-Tronica / Indietronica：어쿠스틱×전자음악의 
 
 ## 어쿠스틱×전자음악이 낳은 21세기의 새로운 노래의 형태
 
-문장：mmr｜테마：Four Tet, Caribou, Bonobo 를 중심축으로, Folk-Tronica / Indietronica 의 역사·기법·영향·기재·음악적 특징에 대해서
+문장：mmr｜테마：Four Tet, Caribou, Bonobo를 중심축으로, Folk-Tronica / Indietronica의 역사·기법·영향·기재·음악적 특징에 대해서
 
 Folk-Tronica(포크트로니카)/Indietronica(인디트로니카)는, **어쿠스틱 악기의 소박한 울림**과 **전자 음향의 텍스처**가 교차하는 21세기 이후의 하이브리드인 음악 조류이다.
 포크의 멜로디와 기타 아르페지오, 자연음의 필드 레코딩과 랩톱 일렉트로니카 샘플링 문화가 연결되어 태어났다.
@@ -49,7 +49,7 @@ color: #fff;
 
 주요 특징:
 - 어쿠스틱 기타, 현악기, 타악기의 생녹음을 많이 사용
-- 디지털 편집 (컷업, 과립 처리)
+- 디지털 편집 (컷 업, 과립 처리)
 #10101220 - 필드 녹음 질감
 - 심플하지만 정서 풍부한 멜로디
 - "촉감"과 "인공물"의 동거
@@ -185,7 +185,7 @@ Folk-Tronica / Indietronica는 다음 장르에 영향을 미쳤습니다.
 ***Bedroom Pop**
 ***Lo-Fi Hip Hop**(필드 레코딩 질감)
 ***Chillwave**(따뜻한 아날로그감)
-***Modern Indie Pop**(일렉트로닉 도입)
+* **Modern Indie Pop**(일렉트로닉 도입)
 ***Ambient Pop**
 
 또, 라이브에서는 전자 세트＋어쿠스틱 악기의 편성이 일반화하는 등, 라이브 운영면에서도 새로운 스타일을 형성했다.

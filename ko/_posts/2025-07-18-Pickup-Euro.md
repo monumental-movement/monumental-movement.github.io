@@ -21,7 +21,7 @@ title: 유로 뮤직 작품 픽업
 
 포맷: Vinyl
 
-장르: Euro House/Synth-pop
+장르: Euro House / Synth-pop
 
 출시일: 2024년 11월 15일 게재 (Rednex – Cotton Eye Joe)
 
@@ -378,7 +378,7 @@ B. La Jument De Mishao (Club Mix)
 
 장르：90s Euro / Euro Beat / Hi‑ERG House
 
-'Willy Use A Billy… Boy'는 독일에서는 E-Rotic의 4번째 싱글, 일본에서는 데뷔 싱글
+'Willy Use A Billy… Boy'는 독일에서는 E-Rotic의 네 번째 싱글, 일본에서는 데뷔 싱글
 
 #### Tracklist
 ```md

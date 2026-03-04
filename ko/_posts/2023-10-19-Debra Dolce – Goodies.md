@@ -14,7 +14,7 @@ title: Debra Dolce – Goodies
 
 
 「Goodies」는,
-2008년에 라벨 「Coco Machete Records」로부터 발매된 Debra Dolce에 의한 EP입니다.
+2008 년 라벨 "Coco Machete Records"에서 출시 된 Debra Dolce의 EP입니다.
 
 
 #### Tracklist

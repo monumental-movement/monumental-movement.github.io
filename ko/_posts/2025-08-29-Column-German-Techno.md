@@ -82,7 +82,7 @@ Kraftwerk로 대표되는 전자 음악의 전통을 계승해, 공업 도시적
 
 - 신디사이저에 의한 반복적 리프가 많다
 
-**대표적 움직임**: 프랑크푸르트의 클럽 '도리안 그레이', 베를린의 언더그라운드 파티가 장면을 지원한다.
+**대표적인 움직임**: 프랑크푸르트의 클럽 '도리안 그레이', 베를린의 언더그라운드 파티가 장면을 지원한다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9u7x5UQHlqA?si=plSaqk1woQjz_HrY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -136,7 +136,7 @@ Kraftwerk로 대표되는 전자 음악의 전통을 계승해, 공업 도시적
 
 - 일부에서는 멜로딕 요소도 부활(Paul Kalkbrenner 등)
 
-** 대표 아티스트** : 렌 패키, 모니카 크루즈, 엘렌 앨리언, 좀비 네이션.
+** 대표 아티스트 **: 렌 패키, 모니카 크루즈, 엘렌 앨리언, 좀비 네이션.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jQRI3b2SX8c?si=06ngyujErrkR6Kfh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -182,10 +182,10 @@ Kraftwerk로 대표되는 전자 음악의 전통을 계승해, 공업 도시적
 
 ### 라이프 스타일과 밀접하게 연결되어 진화
 
-오늘날의 German Techno는 힘들고 산업적인 조류에서 멜로딕으로 서정적인 표현에 이르기까지 폭넓게 진화하면서도 여전히 베를린 테크노의 도시라는 상징적인 지위를 유지하고 있습니다.
+오늘날의 German Techno는 하드와 산업의 조류에서 멜로디하고 서정적인 표현에 이르기까지 폭넓게 진화하면서도 여전히 베를린 테크노의 도시라는 상징적인 지위를 유지하고 있습니다.
 
 결론적으로 German Techno는 과거의 문화적 산물인 동시에 미래의 사운드 디자인을 개척하는 실험장이기도 하다.
-그 역사를 탐험하면서 작품을 듣는 것은 도시와 인간, 기계와 감정이 교차하는 음악의 역동성을 이해하는 것 외에는 없습니다.
+그 역사를 탐험하면서 작품을 듣는 것은 도시와 인간, 기계와 감정이 섞인 음악의 역동성을 이해하는 것 외에 다른 것입니다.
 
 
 ---

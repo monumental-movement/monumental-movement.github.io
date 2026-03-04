@@ -13,7 +13,7 @@ title: Fantasia – Tonight's The Night
 ---
 
 
-Fantasia는 1988년에 발표된 Helen Sheppard와 Tim Gordine의 프로젝트입니다.
+Fantasia는 1988년에 출시된 Helen Sheppard와 Tim Gordine의 프로젝트입니다.
 
 UK 「Chrysalis」로부터의 릴리스로 80's의 신디팝입니다.
 

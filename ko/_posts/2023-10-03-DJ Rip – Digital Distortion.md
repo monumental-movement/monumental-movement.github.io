@@ -15,7 +15,7 @@ title: DJ Rip – Digital Distortion
 
 
 「Digital Distortion」은,
-1999년 Underground Construction에서 출시된 하드하우스와 테크노의 선구자인 본명 Xavier Jacome와 DJ Rip의 EP입니다.
+1999년 Underground Construction에서 출시된 하드하우스와 테크노의 선구자인 본명 Xavier Jacome DJ Rip의 EP입니다.
 
 #### Tracklist
 ```md

@@ -20,7 +20,7 @@ title: 【칼럼】 디지털에 지친 우리들은, 왜 레코드를 사는지
 
 Spotify, Apple Music, YouTube Music.
 전세계 소리가 탭 하나로 손에 들어오는 시대가 되었다.
-그러나 그런 **완벽한 편리함 속에서** 이상한 역류가 일어나고 있다.
+그러나, 그런 **완벽한 편리함 속에서**, 이상한 역류가 일어나고 있다.
 
 ──레코드의 부활이다.
 
@@ -30,7 +30,7 @@ Spotify, Apple Music, YouTube Music.
 그것은 '듣기'라기보다는 **의식에 가까운 행위**다.
 
 사람은 왜 불편한 미디어로 돌아가는가?
-거기에는 심리학적 "접촉 욕구"나 "기억의 회로"가 깊게 관련되어있다.
+거기에는 심리학적인 '접촉 욕구'와 '기억의 회로'가 깊이 관여하고 있다.
 
 ---
 
@@ -58,7 +58,7 @@ color: #fff;
 디지털 소리는 너무 완벽하기 때문에 '존재감'이 얇다.
 손에 닿을 수 없는 소리, 교체가 가는 플레이리스트.
 심리학자의 Winnicott가 말하는 「이행 대상(transitional object)」──
-즉, 아이가 안심을 느끼는 "봉제인형" 같은 존재가 음악에서 잃어버린 것이다.
+즉, 아이가 안심을 느끼는 “봉제인형” 같은 존재가 음악에서 잃어버린 것이다.
 
 기록은 그 정반대다.
 판은 무겁고, 먼지를 빨고, 온도에 민감하고, 회전수조차 미친다.
@@ -91,7 +91,7 @@ color: #fff;
 이 미묘한 흔들림(1/f 변동)은
 뇌파의 α파와 공명하여 릴렉스 효과를 낳는 것으로 알려져 있다.
 
-즉, 아날로그 레코드는 **신체에 쾌적한 노이즈**이다.
+즉, 아날로그 레코드는 **신체에 있어서 쾌적한 노이즈**인 것이다.
 무의식적으로, 우리는 "너무 잘 정돈되지 않은 소리"를 찾고 있습니다.
 
 ---
@@ -176,7 +176,15 @@ flowchart TD
 아날로그의 망령이란 단순한 복고풍 취미가 아니다.
 그것은 인간이 기억·촉감·시간과 어떻게 사귀는가 하는 질문의 상징이다.
 
-바늘 끝에 머무르는 '소리의 영혼'은 지금도 조용히 회전을 계속하고 있다.
+바늘 끝에 머무는 '소리의 영혼'은 지금도 조용히 회전을 계속하고 있다.
+
+---
+
+### YouTube Podcast
+
+※이 Podcast는 영어입니다만, 자동 자막・번역으로 시청할 수 있습니다
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-pxh2SnpHVc?si=C86GU4bYwAA_J9Rl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

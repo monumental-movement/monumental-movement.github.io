@@ -45,7 +45,7 @@ Tech House의 일반적인 이해는 "하우스의 온도감을 유지하면서 
 
 특징을 정리하면 다음과 같다.
 
-* 4개 치는 좁은 레인지 킥
+* 4타격 좁은 레인지 킥
 * 서브베이스가 아닌 중저역 타이트한 기준선
 * 신디 퍼커션의 섬세한 배치
 * 최소한의 루프 구조
@@ -68,7 +68,7 @@ Tech House의 출발점은 1990년대 초기 영국, 특히 런던 주변의 클
 * Tribal House, Garage, Progressive House의 혼합
 * Pirate Radio 및 런던 클럽 장면 (The End 등)의 장르 횡단 DJ 스타일
 
-클럽에 모이는 사람들은 단순히 테크노나 하우스를 찾는 것이 아니라, 양자의 요소를 왕래하는 긴 DJ 플레이를 즐겼다. 그 중에서 "테크노의 경도"와 "하우스의 따뜻함"을 자연스럽게 조합하는 믹스 감각이 자라나간다.
+클럽에 모이는 사람들은 단순히 테크노나 하우스를 찾는 것이 아니라, 두 요소를 왕래하는 긴 DJ 플레이를 즐겼다. 그 중에서 "테크노의 경도"와 "하우스의 따뜻함"을 자연스럽게 조합하는 믹스 감각이 자라나간다.
 
 ---
 
@@ -86,7 +86,7 @@ Tech House의 출발점은 1990년대 초기 영국, 특히 런던 주변의 클
 * Swag Records
 
 그들은 하우스의 뿌리를 가지면서 테크노적인 소리 처리, 그루브의 미니멀화, 베이스의 타이트화를 적극적으로 실험해 갔다.
-Tech House라는 명칭이 퍼진 이유 중 하나로서 그들의 DJ 믹스나 클럽 'The End', 'Fabric'에서의 장시간 플레이를 들 수 있다.
+Tech House라는 명칭이 퍼진 이유 중 하나로 그들의 DJ믹스나 클럽 'The End', 'Fabric'에서 장시간 플레이를 들 수 있다.
 
 이하는 초기 Tech House의 계보를 간결하게 도시한 것.
 
@@ -132,7 +132,7 @@ Fabric은 1999년 개업 이후, 그 믹스 CD시리즈 「Fabric」 「Fabricli
 * Steve Bug (Poker Flat)
 * Booka Shade
 * M.A.N.D.Y.
-* Ricardo Villalobos (미니멀하지만 Tech House와도 교차)
+* Ricardo Villalobos (미니멀하지만 Tech House와 교차)
 * Loco Dice
 * Luciano
 * John Tejada

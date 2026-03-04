@@ -21,7 +21,7 @@ title: Real McCoy – One More Time
 
 
 
-1997년에 발표된 「One More Time」은 독일의 유로하우스 액트 Real McCoy의 4번째 스튜디오 앨범.
+1997년에 릴리스된 「One More Time」은, 독일의 유로하우스 액트 Real McCoy의 4번째 스튜디오 앨범.
 
 #### Tracklist
 ```md

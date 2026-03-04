@@ -12,7 +12,7 @@ title: A Hundred Birds – Black Water
 ---
 
 
-A Hundred Birds(어핸드 레드 버즈)는 1996년 DJ YOKU를 중심으로 결성된 하우스 뮤직을 오케스트라 밴드 편성으로 연주하는 일본 오케스트라 밴드.
+A Hundred Birds(아핸드레드 버즈)는 1996년 DJ YOKU를 중심으로 결성된 하우스 뮤직을 오케스트라 밴드 편성으로 연주하는 일본 오케스트라 밴드.
 
 「Black Water」는, François Kevorkian(프랑소와·K)가 주재하는 라벨 「WAVE MUSIC」보다 2006년에 릴리스.
 

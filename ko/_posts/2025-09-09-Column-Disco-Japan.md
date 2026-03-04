@@ -47,7 +47,7 @@ title: 【칼럼】 디스코와 일본 문화의 교차부터 현재까지 — 
 
 - **주요 장비**
 - Technics SL-1200(턴테이블/1972년 등장)
-- Urei 1620 (클럽용 믹서)
+- Urei 1620(클럽용 믹서)
 - JBL 4350 스피커
 
 - **일본 대표 클럽/디스코**
@@ -96,7 +96,7 @@ color: #fff;
 - Chaka Khan — *I Feel for You* (1984)
 
 - ** 대표적인 명반(일본)**
-- 오기노 메 요코 - * 댄싱 히어로 * (1985)
+- 오기노 메 요코 - *댄싱 히어로 * (1985)
 - 나카모리 아키나 - *DESIRE -열정-* (1986)
 - 사노 모토하루 — *Young Bloods* (1985)
 
@@ -126,7 +126,7 @@ color: #fff;
 | Let’s Groove | Earth, Wind & Fire | 펑크에서 디스코까지 다리. |
 | Word Up! | Cameo | 펑크 기반 디스코 클래식. |
 | Celebration | Kool & The Gang | 축제 클래식 노래. |
-| Holiday | Madonna | 전세계의 댄스 플로어를 열광시킨 명곡. |
+| Holiday | Madonna | 전세계 댄스 플로어를 열광시킨 명곡. |
 
 ---
 
@@ -176,7 +176,7 @@ color: #fff;
 
 ## 2000s — Nu-Disco의 상승과 클럽 재편
 - **시대 배경**
-세계적으로 「Nu-Disco」나 일렉트로 크래쉬가 유행. 일본에서도 디스코 리바이벌이 진행되어 다시 클럽 장면에서 각광을 받는다.
+세계적으로 「Nu-Disco」나 일렉트로 크래시가 유행. 일본에서도 디스코 리바이벌이 진행되어 다시 클럽 장면에서 각광을 받는다.
 
 - ** 대표적인 명반(해외)**
 - Daft Punk — *Discovery* (2001)
@@ -189,7 +189,7 @@ color: #fff;
 - CAPSULE — *L.D.K Lounge Designers Killer* (2005)
 
 - **일본문화와의 관계**
-시부야와 다이칸야마에서 Nu-Disco나 하우스의 재해석이 활발하게. 패션도 70년대풍의 리바이벌이 눈에 띈다.
+시부야나 다이칸야마에서 Nu-Disco나 하우스의 재해석이 활발하게. 패션도 70년대풍의 리바이벌이 눈에 띈다.
 
 - **주요 장비**
 - Ableton Live (2001년 등장)
@@ -197,7 +197,7 @@ color: #fff;
 - Pioneer CDJ-2000
 
 - **일본 대표 클럽/디스코**
-- 롯폰기 : Velfarre (~2007), AgeHa (신키바)
+- 롯폰기: Velfarre(~2007), AgeHa(신기장)
 - 시부야: WOMB, Club Asia
 - 오사카 미나미 : Underlounge, MOTHER HALL
 
@@ -210,7 +210,7 @@ color: #fff;
 | Lazy | X-Press 2 ft. David Byrne | 하우스와 디스코의 융합 |
 | Crazy | Gnarls Barkley | 소울 풀 크로스 오버 |
 | House of Jealous Lovers | The Rapture | 일렉트로 크래시 대표 |
-| Lady (Hear Me Tonight) Reissue | Modjo | 재평가 파 |
+| Lady (Hear Me Tonight) Reissue | Modjo | 재평가 파도 |
 | Never Can Say Goodbye (Rework) | Gloria Gaynor | Nu-Disco 리믹스 |
 | Do It Again | Röyksopp | 북유럽 일렉트로 감각 |
 | Eple | Röyksopp | 포스트 디스코 요소 |
@@ -219,7 +219,7 @@ color: #fff;
 
 ---
 
-## 2010s — 리바이벌과 시티팝 재평가
+## 2010s — 리바이벌 및 시티팝 재평가
 - **시대 배경**
 세계적으로 Nu-Disco가 확대되어 Caribou나 Todd Terje 등이 인기를 획득. 일본에서는 시티팝이 세계적으로 재평가되어 호시노 겐이나 CAPSULE이 디스코 문맥을 계승.
 
@@ -266,7 +266,7 @@ color: #fff;
 
 ## 2020s — 포스트 판데믹과 하우스/디스코 재해석
 - **시대 배경**
-코로나 화 이후, 전달 문화와 리얼 파티의 가치가 재정의되어 하우스와 디스코의 따뜻함이 재주목. 일본에서는 「시티팝 수출 붐」과 함께, 디스코적 그루브를 가지는 음악이 세계에.
+코로나 화 이후, 전달 문화와 리얼 파티의 가치가 재정의되어 하우스나 디스코의 따뜻함이 재주목. 일본에서는 「시티팝 수출 붐」과 함께, 디스코적 그루브를 가지는 음악이 세계에.
 
 - ** 대표적인 명반(해외)**
 - Dua Lipa — *Future Nostalgia* (2020)
@@ -290,7 +290,7 @@ TikTok이나 YouTube로 시티팝/디스코가 확산. 시부야와 신주쿠의
 - **일본 대표 클럽/디스코**
 - 롯폰기 : 1 OAK Tokyo, SEL OCTAGON
 - 시부야: Vent, DJ Bar Bridge
-- 오사카 미나미 : Compufunk, Club Ammona
+- 오사카 미나미: Compufunk, Club Ammona
 
 
 ### 추천 트랙 10선(2020s)

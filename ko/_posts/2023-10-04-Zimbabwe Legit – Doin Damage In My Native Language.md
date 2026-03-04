@@ -12,7 +12,7 @@ title: Zimbabwe Legit – Doin' Damage In My Native Language
 ---
 
 
-Zimbabwe Legit은 미국의 힙합 그룹이며, 그들의 음악은 폴리티컬 메시지와 아프리카 문화를 통합한 가사가 특징입니다.
+Zimbabwe Legit은 미국의 힙합 그룹으로, 그들의 음악은 폴리티컬 메시지와 아프리카 문화를 통합한 가사가 특징입니다.
 
 DJ Shadow, Black Sheep의 Mista Lawnge 등이 프로듀스한 곡도 수록되어 있습니다.
 

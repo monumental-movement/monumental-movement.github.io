@@ -13,7 +13,7 @@ title: Tomas Andersson – Washing Up
 ---
 
 
-Tomas Andersson은 스웨덴 출신의 일렉트로 / 테크노 / Synthwave 프로듀서. Jacques C와의 Electronica / Techno 듀오 Vaerelsen로도 활동하고 DJ Hell, Ellen Allien, Dexter, DJ Assault, Hakan Lidbo, F Communications 아티스트 Landsky 등의 리믹스도 담당하고 있다.
+Tomas Andersson은 스웨덴 출신의 일렉트로/테크노/Synthwave 프로듀서. Jacques C와의 Electronica / Techno 듀오 Vaerelsen로도 활동하고 DJ Hell, Ellen Allien, Dexter, DJ Assault, Hakan Lidbo, F Communications 아티스트 Landsky 등의 리믹스도 담당하고 있다.
 
 「Washing Up」은 2008년에 영국의 빅 비트, 브레이크, 하우스 뮤직 라벨 Skint로부터 발매된 Electro.
 

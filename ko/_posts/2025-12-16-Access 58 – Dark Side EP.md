@@ -13,7 +13,7 @@ title: Access 58 – Dark Side EP
 ---
 
 
-Access 58은 포르투갈 출신 Paulo Nascimento (Urban Ritual)와 프랑스 출신 Philippe Quenum에 의한 유닛. The Funk Element 명의에서도 발표하고 있다.
+Access 58은 포르투갈 출신 Paulo Nascimento (Urban Ritual)와 프랑스 출신 Philippe Quenum에 의한 유닛. The Funk Element 명의로도 발표하고 있다.
 
 「Dark Side EP」는 Access58의 라벨로부터 1999년에 릴리스한 Techno 트랙.
 

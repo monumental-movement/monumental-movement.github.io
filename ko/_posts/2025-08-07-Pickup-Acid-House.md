@@ -70,7 +70,7 @@ B4. Charm–Walk On The Wild Side
 ### Petter – Untitled Acid EP
 <a href="https://jp.mercari.com/item/m32455910195?afid=6142608987"><img src="../assets/images/Petter%20%E2%80%93%20Untitled%20Acid%20EP.webp"></a>
 
-현대적인 소리 만들기로 어시드를 재구축. 미니멀~프로그레의 사이에 감돌린다.
+현대적인 소리 만들기로 어시드를 재구축. 미니멀~프로그레의 사이에 감돈다.
 
 #### Tracklist
 ```md
@@ -198,7 +198,7 @@ Y. Kauna
 #### Pergon – #2
 <a href="https://jp.mercari.com/item/m67998542214?afid=6142608987"><img src="../assets/images/Pergon%20%E2%80%93%202.webp"></a>
 
-90년대 초반의 독일 어시드 테크노. 경파로 기계적인 소리가 매력.
+90년대 초의 독일 아시드 테크노. 경파로 기계적인 소리가 매력.
 
 #### Tracklist
 ```md

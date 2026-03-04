@@ -17,7 +17,7 @@ title: The Communards – Red
 
 "Red"는 The Communards의 데뷔 앨범으로 가장 성공적인 작품 중 하나로 널리 인정받고 있습니다. 앨범에는 감정적인 보컬과 댄서블한 비트가 특징인 곡이 수록되어 있습니다.
 
-앨범에는 히트 싱글 'Don't Leave Me This Way'와 'Never Can Say Goodbye' 등이 포함되어 있습니다. 이 곡은 Communards의 특징적인 사운드와 댄스 플로어에서 인기를 얻고 상업적으로 성공을 거두었습니다.
+앨범에는 히트 싱글 'Don't Leave Me This Way'와 'Never Can Say Goodbye' 등이 포함되어 있습니다. 이 곡은 Communards의 특징적인 사운드와 댄스 플로어에서 인기를 얻어 상업적으로 성공을 거두었습니다.
 
 #### Tracklist
 ```md

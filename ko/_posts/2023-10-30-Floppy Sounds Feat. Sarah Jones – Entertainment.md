@@ -13,7 +13,7 @@ title: Floppy Sounds Feat. Sarah Jones – Entertainment
 ---
 
 
-Floppy Sounds, Rob Rives(롭 립스)는 NY 브루클린을 거점으로 한 US 모던 댄스 장면의 프로듀서 겸 엔지니어.
+Floppy Sounds, Rob Rives(롭 립스)는 NY 브루클린을 거점으로 하는 US 모던 댄스 장면의 프로듀서 겸 엔지니어.
 
 보컬에 Sarah Jones(사라 존스)를 맞이한 「Entertainment」는 Francois Kevorkian(프랑소와 케보키안)의 라벨 Wave Music보다 97년에 릴리스.
 

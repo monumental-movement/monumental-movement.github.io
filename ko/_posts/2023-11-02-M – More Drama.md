@@ -15,7 +15,7 @@ title: M – More Drama
 ---
 
 
-"M" – More Drama"는 1992년 Jeff Mills(제프 밀스)가 설립한 테크노 라벨 Axis에서 "M" 명의로 출시한 Jeff Mills의 테크노 트랙.
+""M" – More Drama"는 1992년 Jeff Mills(제프 밀스)가 설립한 테크노 라벨 Axis에서 "M" 명의로 출시한 Jeff Mills의 테크노 트랙.
 
 #### Tracklist
 ```md

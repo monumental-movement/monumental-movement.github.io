@@ -14,11 +14,11 @@ title: Budai & Vic – Luv U
 ---
 
 
-Budai & Vic Imre Bugyik & Viktor Kámán은 2000년부터 제작을 시작하여 자발적인 레이블 egoist records (egotraxx records)를 설립. 2005년에는 서브 라벨 I Love Deep Records를 설립했다.
+Budai & Vic Imre Bugyik & Viktor Kámán은 2000년부터 제작을 시작하여 자발적 레이블 egoist records (egotraxx records)를 설립. 2005년에는 서브 라벨 I Love Deep Records를 설립했다.
 
 「Luv U」는, 2006년에 I Love Deep Records 분 출시된 Deep House.
 
-A는 독일 DJ/프로듀서 Terry Lee Brown Jr.(Norman Feller)에 의한 remix.
+A는 독일의 DJ/프로듀서 Terry Lee Brown Jr.(Norman Feller)에 의한 remix.
 
 B2는 헝가리 출신의 DJ/프로듀서 Andro(Gábor Baki)에 의한 remix.
 

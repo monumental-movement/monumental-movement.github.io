@@ -14,14 +14,14 @@ title: 딥 하우스 작품 픽업
 ---
 
 
-"도시의 밤을 감싸는 세련된 비트와 깊은 그루브를 새기는 딥 하우스를 상징하는 주목할만한 작품군"
+「도시의 밤을 감싸는 세련된 비트와 깊은 그루브를 새기는, 딥 하우스를 상징하는 주목할 만한 작품군」
 
 <hr>
 
 ### Various – Workshop 04
 <a href="https://jp.mercari.com/item/m23721694643?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Workshop%2004.webp"></a>
 
-개요: 'Workshop 04'는 Vinyl에서 출시된 미니멀함과 딥하우스의 요소가 어우러진 작품입니다. A면에는 독일의 뮤지션 Move D(David Moufang)와 Fragment에 의한 딥 하우스 트랙, B1에는 Even Tuell의 딥 미니멀 하우스, B2에는 Sascha Dive에 의한 다운 템포 트랙이 수록되어 있습니다.
+개요: 'Workshop 04'는 Vinyl에서 출시된 미니멀함과 딥하우스의 요소가 어우러진 작품입니다. A면에는 독일의 뮤지션 Move D(David Moufang)와 Fragment에 의한 딥 하우스 트럭, B1에는 Even Tuell의 딥 미니멀 하우스, B2에는 Sascha Dive에 의한 다운 템포 트럭이 수록되어 있습니다.
 
 추천 포인트 : 클럽감 넘치는 그루브와 깊이있는 음상이 매력. 유럽의 세련된 하우스/미니멀 씬을 맛보고 싶은 분에게 딱 한 장입니다.
 
@@ -48,7 +48,7 @@ B2. Sascha Dive –Untitled
 
 개요 : UK 하우스 뮤직 라벨 Strictly 4 Groovers의 후계 DiY Discs에서 2005 년에 발표 된 Paul Johnston (Peej)의 딥 하우스 작품입니다. A면에는 「Cosmic Love (Interstellar Overdrive Mix)」등 복수의 믹스를 수록.
 
-추천 포인트: 심우주를 느끼게 하는 환상적인 음향과 로파이한 비트가 융합한 청취자를 부드럽게 감싸는 딥 하우스입니다.
+추천 포인트 : 심우주를 느끼게 하는 환상적인 음향과 로파이한 비트가 융합한 청취자를 부드럽게 감싸는 딥 하우스입니다.
 
 #### Tracklist
 ```md

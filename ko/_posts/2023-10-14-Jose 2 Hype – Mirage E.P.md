@@ -13,7 +13,7 @@ title: Jose 2 Hype – Mirage E.P
 ---
 
 
-Jose Gutierrez(호세 구티에레스), 일명 Jose 2 Hype는 1992년 이래 테크노 씬, 레이브 컬처의 선구자 중 한 명으로 여겨지고 있습니다.
+Jose Gutierrez(호세 구티에레스), 일명 Jose 2 Hype는 1992년부터 테크노 씬, 레이브 컬처의 선구자의 한 사람으로 되어 왔습니다.
 
 1996년에 시카고의 라벨 Underground Construction에서 출시된 「Jack Attack은」Jose 2 Hype의 앙셈.
 

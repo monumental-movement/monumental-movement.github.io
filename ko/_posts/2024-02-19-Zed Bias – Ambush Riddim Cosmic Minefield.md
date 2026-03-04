@@ -14,7 +14,7 @@ title: Zed Bias – Ambush Riddim Cosmic Minefield
 ---
 
 
-Zed Bias(제드 바이어스) Dave Jones(데이브 존스)는 맨체스터를 거점으로 하는 UK 일렉트로닉 뮤지션이며, UK 갈라지, 2 스텝, 브로큰 비트, UK 펑키의 프로듀서 DJ.
+Zed Bias(제드 바이어스) Dave Jones(데이브 존스)는 맨체스터를 거점으로 하는 UK 일렉트로닉 뮤지션이며, UK 갤러지, 2 스텝, 브로큰 비트, UK 펑키의 프로듀서 DJ.
 
 별칭으로 Maddslinky (매드 스링키)로 활동하고 있으며, Phuturistix (퓨처리스틱스)의 멤버.
 

@@ -54,7 +54,7 @@ color: #fff;
 
 ## 1. 1980년대 : 시퀀서의 시대와 "시작의 4사"
 
-DAW사의 기원은 1980년대 초반 시퀀서로 거슬러 올라간다.
+DAW사의 기원은 1980년대 전반의 시퀀서로 거슬러 올라간다.
 음성을 다루기 전의 “순수한 MIDI 편집 소프트”의 시대이다.
 
 ### ■ Atari ST가 낳은 황금 시대
@@ -144,7 +144,7 @@ VST는 이후 Apple AU, Digidesign RTAS/AAX, Propellerhead Rack Extensions 등
 
 ## 4. 2000년대 초반 : 두 인수극이 DAW 역사를 바꾼다
 
-여기서 역사를 결정적으로 바꾼 ‘기업 인수’가 일어난다.
+여기서 역사를 결정적으로 바꾼 “기업 인수”가 일어난다.
 
 ### ■ 4-1 Apple이 emagic 인수 (2002)
 
@@ -219,7 +219,7 @@ Steinberg·MOTU·Adobe는 “전문 영역 강화”로 세력을 늘렸다.
 ### ■ Avid : HDX 및 AAX로 마이그레이션
 
 * DSP와 네이티브 통합
-* Pro Tools는 여전히 스튜디오 표준입니다.
+* Pro Tools는 여전히 스튜디오 표준
 * 영화의 대규모 믹싱에서는 Pro Tools 이외의 옵션이 거의 없는 상태로
 
 ### ■ Steinberg, MOTU, Adobe도 업데이트 계속

@@ -11,7 +11,7 @@ tags:
 - 90s
 - 80s
 - 00s
-title: 【칼럼】 US HipHop(미국 힙합)의 역사：지역・클럽・미디어・기재를 포함한 전체상
+title: 【칼럼】 US HipHop(미국 힙합)의 역사:지역·클럽·미디어·기재를 포함한 전체상
 ---
 
 
@@ -70,7 +70,7 @@ Public Enemy나 Eric B. & Rakim이 등장해, 정치적·사회적 메세지를 
 서해안의 클럽이나 롤링 파티에서는 독자적인 G-funk 스타일이 연마되었습니다.
 
 ### 데모 테이프와 라디오의 역할
-지역 라디오 (KDAY, KMEL)에서 신곡이 온에어되어 데모 테이프를 듣는 젊은이들이 입소문으로 확산. 특히 현지 라디오의 DJ는 장면의 심판 역할이었습니다.
+지역 라디오 (KDAY, KMEL)에서 신곡이 온에어되어 데모 테이프를 듣는 젊은이들이 입소문으로 확산. 특히 현지 라디오의 DJ는 장면의 심판역이었다.
 
 ### 대표적인 명반
 
@@ -169,7 +169,7 @@ DAW(Ableton Live, FL Studio)
 ## 샘플링 저작권 소송의 구체적인 예
 
 - **Grand Upright Music v. Biz Markie (1991)**
-Gilbert O’Sullivan의 "Alone Again" 무단 샘플링 소송. 이후, 허가없이 샘플은 불법과 명확화.
+Gilbert O’Sullivan의 "Alone Again" 무단 샘플링 소송. 이후, 허가 없음 샘플은 불법과 명확화.
 
 - **Bridgeport Music v. Dimension Films (2005)**
 Funkadelic 기타 루프를 무단 사용한 사건. 샘플은 「1초라도 무단 사용 금지」라고 판례화.
@@ -203,7 +203,7 @@ Funkadelic 기타 루프를 무단 사용한 사건. 샘플은 「1초라도 무
 
 | 지역 | 클럽 | 라디오 방송국 |
 |------|--------|----------|
-East (NYC) | Paradise Garage, Tunnel, Latin Quarter | WBLS, KISS FM |
+| East (NYC) | Paradise Garage, Tunnel, Latin Quarter | WBLS, KISS FM |
 | West (LA) | The Good Life Cafe, Club Unity, Echoplex | KKBT (The Beat), Power 106 |
 | South (ATL, Houston, Miami) | Magic City, Fifth Ward Block Parties, Club Rolex | Hot 107.9, SwishaHouse Radio, 99 Jamz |
 | Midwest (Chicago, Detroit, KC) | The Mid, Detroit Basement Parties, Blue Room (KC) | WGCI (Chicago), WJLB (Detroit), Hot 103 Jamz (KC) |
@@ -296,7 +296,7 @@ flowchart TB
 
 ---
 
-##1980s(여명기: 드럼머신 및 샘플러)
+##1980s(여명기: 드럼머신과 샘플러)
 
 <table class="table-wave">
 <tr>
@@ -323,7 +323,7 @@ Bass : ▂▄▅▄▂
 
 ---
 
-##1990s (황금기: 샘플링 및 Boom Bap/G-Funk)
+##1990s (황금기: 샘플링과 Boom Bap/G-Funk)
 
 <table class="table-wave">
 <tr>
@@ -443,7 +443,7 @@ Bass : ▂▄▇█▇█▇█▄▂
 
 ## 결어
  
-힙합은 지역별 문화와 사회적 배경을 반영하면서 진화해 왔습니다. 동해안, 서해안, 남부 각각에 독자적인 스타일이 존재하며 음악뿐만 아니라 패션과 언어, 사회운동 등 다양한 영향을 주고 있습니다. 앞으로도 새로운 기술과 표현 방법이 등장하고 힙합은 계속 진화할 것입니다.
+힙합은 지역별 문화와 사회적 배경을 반영하면서 진화해 왔습니다. 동해안, 서해안, 남부 각각에 독자적인 스타일이 존재하며 음악뿐만 아니라 패션과 언어, 사회운동 등 다양한 영향을 미치고 있습니다. 앞으로도 새로운 기술과 표현 방법이 등장하고 힙합은 계속 진화할 것입니다.
 
 ---
 

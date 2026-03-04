@@ -68,7 +68,7 @@ color: #fff;
 ---
 
 ## 1990년대 후반: 심화와 복잡화
-정글이나 드럼 베이스와의 교류를 거쳐 IDM은 리듬의 세분화와 음향적 실험으로 진행되었다. 클럽에서 떨어진 예술적 평가가 높아져 아트스쿨이나 갤러리에서의 맥락에서도 말할 수 있게 된다.
+정글이나 드럼 베이스와의 교류를 거쳐 IDM은 리듬의 세분화와 음향적 실험으로 진행되었다. 클럽에서 떨어진 예술적 평가가 높아져, 아트 스쿨이나 갤러리에서의 문맥에서도 말할 수 있게 된다.
 
 - ** 대표적인 명반 **
 - Aphex Twin – *Richard D. James Album* (1996)
@@ -91,7 +91,7 @@ color: #fff;
 | 5 | Boards of Canada | Roygbiv | 그리운 따뜻한 사운드 |
 | 6 | Plaid | Abla Eedio | 기하학적이고 팝적인 선율 |
 | 7 | Bogdan Raczynski | Samurai Math Beats | 격렬한 비트 실험 |
-| 8 | Cylob | Cut The Midrange, Drop The Bass | Aphex 유명한 유머
+| 8 | Cylob | Cut The Midrange, Drop The Bass |
 |9 | Luke Vibert | I Love Acid | IDM과 아시드의 교차로 |
 | 10 | Venetian Snares | Hajnal | 클래식과 브레이크 코어의 융합 |
 
@@ -150,7 +150,7 @@ color: #fff;
 | 4 | Aphex Twin | Minipops 67 | 부활을 말하는 명곡 |
 | 5 | James Blake | CMYK | 포스트 더브 스텝과 IDM 브리지 |
 | 6 | Laurel Halo | Sunlight on the Faded | 실험적인 보컬과 음향 |
-| 7 | Tim Hecker | Virgins | 노이즈 및 IDM 구축 |
+| 7 | Tim Hecker | Virgins | 노이즈와 IDM 구축 |
 | 8 | Andy Stott | Luxury Problems |
 | 9 | Holly Herndon | Chorus | AI 접근법의 선구자 |
 | 10 | Lapalux | Without You | 감정적 인 IDM R & B |

@@ -199,7 +199,7 @@ B3. Transcendastral Voyage
 ### Deep Forest – Deep Forest
 <a href="https://jp.mercari.com/item/m99158480308?afid=6142608987"><img src="../assets/images/Deep%20Forest%20%E2%80%93%20Deep%20Forest.webp"></a>
 
-특징: 프랑스의 듀오 Deep Forest에 의한 1992년 릴리스의 앨범입니다. 에스닉, 일렉트로닉, 댄스 비트, 칠 아웃 비트를 믹스한 월드 뮤직의 스타일이 특징입니다.
+특징 : 프랑스 듀오 Deep Forest의 1992 년 릴리스의 앨범입니다. 에스닉, 일렉트로닉, 댄스 비트, 칠 아웃 비트를 믹스한 월드 뮤직의 스타일이 특징입니다.
 
 매력 : 다양한 민족 음악을 도입한 사운드가 이문화의 여행으로 초대합니다.
 

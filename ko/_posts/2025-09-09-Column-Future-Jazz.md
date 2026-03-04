@@ -60,7 +60,7 @@ color: #fff;
 | 2 | Brand New Heavies | Dream Come True | 펑크와 서울이 융합. |
 | 3 | Young Disciples | Apparently Nothin’ | UK 장면의 대표곡. |
 | 4 | US3 | Cantaloop (Flip Fantasia) | Blue Note의 명곡을 재구축. |
-| 5 | Jamiroquai | When You Gonna Learn | 초기 Future Jazz적 접근. |
+| 5 | Jamiroquai | When You Gonna Learn | 초기 Future Jazz 접근법. |
 | 6 | Incognito | Always There | 재즈와 클럽 다리. |
 | 7 | Corduroy | Something in My Eye | 스윙에서 경쾌. |
 | 8 | Galliano | Skunk Funk | 펑키로 클럽 빛. |
@@ -71,7 +71,7 @@ color: #fff;
 
 ## 1990년대 후반: Future Jazz 설립
 - **시대 배경**
-독일의 Compost Records를 중심으로 "Future Jazz"라는 단어가 정착. 클럽 문화와 재즈의 융합이 듣기 장면에서도 대두.
+독일의 Compost Records를 중심으로 「Future Jazz」라는 말이 정착. 클럽 문화와 재즈의 융합이 듣기 장면에서도 대두.
 
 - **대표적 아티스트/명반**
   - [Kruder & Dorfmeister — *The K&D Sessions* (1998)](https://amzn.to/47VWvV1)  

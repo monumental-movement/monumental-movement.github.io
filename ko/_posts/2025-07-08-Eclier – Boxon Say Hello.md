@@ -16,7 +16,7 @@ title: Eclier – Boxon Say Hello
 
 SNS를 통해 Boxon Records의 디렉터 Julien Minet(일명 DFCTD, DJ Cat)에 의해 발굴된 시베리아 출신의 Eclier는 프렌치 일렉트로 스타일이 특징인 아티스트.
 
-B2는 Romain Grenier와의 유닛 Just A Band에서도 활동하는 프랑스인 DJ 프로듀서 Tom Deluxx(톰 디럭스)에 의한 remix.
+B2는, Romain Grenier와의 유닛 Just A Band에서도 활동하는 프랑스인 DJ·프로듀서 Tom Deluxx(톰 디럭스)에 의한 remix.
 
 「Boxon Say Hello」는 2008년에 Boxon Records에서 발매된 Electro, Tech House 트랙.
 

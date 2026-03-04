@@ -47,7 +47,7 @@ title: 노이즈 뮤직(Noise Music) 작품을 픽업
 <a href="https://monumental-movement.jp/Zeni-Geva-Desire-For-Agony/"><img src="../assets/images/Zeni%20Geva%20%E2%80%93%20Desire%20For%20Agony.webp"></a>
 
 - **배경**: 1987년 도쿄 결성. KK.Null과 요시다 타츠야를 요로, 프로그레/HC/메탈/노이즈 락을 횡단. 1993년 시카고에서 녹음.
-- **듣기 위치**: 골태 리프에서 즉흥 폭발에 이르기까지 공격적인 사운드 이미지의 흔들림 폭. 노이즈와 록의 교차점의 대표격.
+- **청취 **: 골태 리프에서 즉흥 폭발에 이르기까지 공격적인 사운드 이미지의 흔들림 폭. 노이즈와 록의 교차점의 대표격.
 
 #### Tracklist
 ```md
@@ -79,7 +79,7 @@ B4. The Body = ザ ボディー
 <a href="https://monumental-movement.jp/Les-Rallizes-Denudes-Live-1972/"><img src="../assets/images/%E8%A3%B8%E3%81%AE%E3%83%A9%E3%83%AA%E3%83%BC%E3%82%BA%20%E2%80%93%20Live%201972.webp"></a>
 
 - **배경**: 1967년 교토에서 결성. 1960~90년대에 활동해 국내외의 노이즈 락에 큰 영향을 준 전설적 밴드. 컬트적 인기를 유지.
-- **청취 **: 황량한 지속음과 포효 드론, 최소한 반복하는 그루브. 일본 노이즈·사이케의 원체험적 질감이 직격.
+- **청취지**: 황량한 지속음과 포효 드론, 최소한으로 반복되는 그루브. 일본 노이즈·사이케의 원체험적 질감이 직격.
 
 #### Tracklist
 ```md
@@ -108,7 +108,7 @@ B4. The Body = ザ ボディー
 
 
 - **배경**: 나카하라 마사야의 Hair Stylistics 명의. 1999년 릴리스의 7인치로, 실험~노이즈 문맥을 현재까지 견인.
-- **듣기 힘 **: 단척 안에 절단·편집 감각과 과잉 노이즈의 순간 최대 풍속이 봉입. 입문에도 컬렉션에도 ◎.
+- **듣기 어려움**: 단척 안에 절단·편집 감각과 과잉 노이즈의 순간 최대 풍속이 봉입. 입문에도 컬렉션에도 ◎.
 
 #### Tracklist
 ```md
@@ -128,8 +128,8 @@ B. Best Of Hair-Style In My Life
 ### SebastiAn – Smoking Kills
 <a href="https://monumental-movement.jp/SebastiAn-Smoking-Kills/"><img src="../assets/images/SebastiAn%20%E2%80%93%20Smoking%20Kills.webp"></a>
 
-- **배경**: Ed Banger 주변 프렌치 일렉트로 깃발 손. 미래파 일렉트로에 “소리치는 소음”을 주입한 싱글.
-- **청취 **: '돌라미'의 예각 브레이크와 포화. 클럽 포맷으로 노이즈의 질감을 즐기는 좋은 예.
+- **배경**: Ed Banger 주변 프렌치 일렉트로 깃발 손. 미래파 일렉트로에 “부르짖는 노이즈”를 주입한 싱글.
+- **듣기 위치**: '돌라미'의 날카로운 브레이크와 포화. 클럽 포맷으로 노이즈의 질감을 즐기는 좋은 예.
 
 #### Tracklist
 ```md
@@ -155,7 +155,7 @@ B2  Shoot
 <a href="https://monumental-movement.jp/Tipsy-Nude-On-The-Moon-Space-Golf/"><img src="../assets/images/Tipsy%20%E2%80%93%20Nude%20On%20The%20Moon%20Space%20Golf.webp"></a>
 
 - **배경**: 샌프란시스코 라운지 콜라주 듀오. 추상/트립홉/실험/노이즈 요소가 혼교.
-- **듣기 커뮤니티**: 로우파이 질감×몬드인 컷업. “귀에 상냥한 노이즈”의 입구로서도 기분 좋다.
+- **듣기 어려움**: 로우파이 질감×몬드인 컷 업. “귀에 상냥한 노이즈”의 입구로서도 기분 좋다.
 
 #### Tracklist
 ```md
@@ -217,4 +217,4 @@ B4. Super Blooper (Remix Live From Lee's Palace, Toronto)
 
 ---
 
-노이즈는 「듣는 것만」이 아니라 「체험한다」음악. 꼭 링크처에서 더 깊이 파고 주세요.
+노이즈는 「듣는 것만」이 아니라 「체험한다」음악. 꼭 링크처에서 더 깊은 파고 주세요.

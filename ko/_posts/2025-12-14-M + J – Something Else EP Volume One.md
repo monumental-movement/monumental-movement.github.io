@@ -14,7 +14,7 @@ title: M + J – Something Else EP Volume One
 ---
 
 
-Murray Gold는 2005년~2017년 SF 드라마 '닥터 푸'의 음악 감독/작곡가를 담당하고 있던 것으로 알려진 영국의 무대·영화·TV 음악 작곡/극장·라디오 각본가.
+Murray Gold는 2005년~2017년에 SF 드라마 '닥터 푸'의 음악 감독/작곡가를 담당하고 있던 것으로 알려진 잉글랜드의 무대·영화·TV 음악 작곡/극장·라디오 각본가.
 
 Joe Davis는 영국의 라벨 Far Out Recordings의 설립자이자 DJ & 브라질 음악의 매니아.
 

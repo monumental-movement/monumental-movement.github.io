@@ -90,7 +90,7 @@ color: #fff;
 
 
 필립 글라스는 반복을 "구조의 질서"로 승화했다.
-오페라 "Einstein on the Beach"(1976)는 5시간에 걸친 음향 건축물이다.
+오페라 "Einstein on the Beach"(1976)는 5시간에 이르는 음향 건축물이다.
 같은 문구를 단계적으로 변화시키면서 목소리, 오르간, 바이올린
 기하학적 소리 패턴을 계속 그립니다.
 
@@ -117,7 +117,7 @@ color: #fff;
 
 | 요소 | 내용 |
 |------|------|
-|박자 | 4/4 |
+| 박자 | 4/4 |
 | BPM | 128 |
 | 사운드 구성 | Kick, Hi-hat, Snare, Sub bass |
 | 변화 | 필터의 미세 변화와 리듬의 탈락에 의한 심리적 흔들림 |
@@ -132,7 +132,7 @@ Dub Echo와 함께 ** "Dub Techno"**를 확립.
 ## 4장: 록과 포스트 미니멀리즘 - Brian Eno에서 Radiohead로
 
 브라이언 이노의 "Music for Airports"(1978)는
-앰비언트의 조로서 뿐만 아니라 ** '정적 미니멀'**의 원류이기도 하다.
+앰비언트의 조상으로서뿐만 아니라 ** '정적 미니멀'**의 원류이기도 하다.
 루프 테이프로 인한 우발적 인 중첩은 청각 시간축을 확장했습니다.
 
 그 후, Radiohead의 "Everything in Its Right Place"(2000)에서는,
@@ -169,7 +169,7 @@ Dub Echo와 함께 ** "Dub Techno"**를 확립.
 | 이케다 료지 | "dataplex" "test pattern" | 수학 및 주파수 최소 |
 | Alva Noto + 사카모토 류이치 | 《Vrioon》《Summvs》 |
 | Rei Harakami | "Red Curb" "lust" | Lo-fi 전자의 따뜻한 반복 |
-| Asa-Chang & 순례 | 《꽃》 | 최소한의 리듬과 인성의 교착
+Asa-Chang & 순례 | 《꽃》 | 미니멀리즘과 인성의 교착 |
 
 ---
 
