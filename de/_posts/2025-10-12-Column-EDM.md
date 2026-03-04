@@ -21,7 +21,7 @@ title: '[Kolumne] Die Illusion von EDM: Feiern und Wiederaufbau im digitalen Zei
 
 Text: mmr | Thema: Festivals und Städte, Ton und Licht, Menschenmassen und Technologie. Wie hat das Phänomen EDM die Form von Feierlichkeiten im 21. Jahrhundert verändert?
 
-Ein Laserlichtblitz zerteilt den Nachthimmel, der Bass zittert tief in seinem Körper und unzählige Arme heben sich gleichzeitig.
+Ein Laserlichtblitz zerteilt den Nachthimmel, der Bass vibriert tief in seinem Körper und unzählige Arme heben sich gleichzeitig.
 Das Phänomen „EDM“ war mehr als nur ein Musikgenre, es war eine Feier des digitalen Zeitalters.
 In den 2010er Jahren wurden Städte auf der ganzen Welt durch den Klang neu geformt. Die Wüste von Las Vegas, die Wälder Belgiens, die Bucht von Tokio.
 In dieser Kolumne werfen wir einen Blick auf die Entstehung, Transformation und „Darüber hinaus“ von EDM aus der Schnittstelle von Klang, Licht, Körper und Technologie.
@@ -53,7 +53,7 @@ EDM war die „Festivalarchitektur“ des 21. Jahrhunderts.
 Ursprünglich war das Wort EDM eher ein Marketingbegriff als ein Genrename.
 Diese Zweideutigkeit war jedoch ein Symbol der Zeit.
 Egal ob House, Techno oder Trance – wichtig war das Erlebnis.
-Jeder hat mindestens einmal an die Illusion geglaubt, dass ein einziger Ton die Welt erschüttern kann.
+Jeder glaubte mindestens einmal an die Illusion, dass ein einziger Ton die Welt erschüttern kann.
 
 ---
 
@@ -121,7 +121,7 @@ Logos, Parfums, NFTs, Kopfhörer – sie alle sind zu „Sound-bezogenen Branche
 ### Ⅵ. Verzweigung und Mutation: Post-EDM-Horizont
 
 Irgendwann schwächeln die Feierlichkeiten.
-Menschen, die das grelle Licht der Hauptbühne satt hatten, kehrten in die dunklen Clubs zurück.
+Die Leute, die das grelle Licht der Hauptbühne satt hatten, kehrten in die dunklen Clubs zurück.
 
 „Introspektives EDM“, demonstriert von Porter Robinson und Madeon——
 Es war kein Festival, es war ein Klang, der sich mit individuellen Emotionen auseinandersetzte.
@@ -170,11 +170,11 @@ EDM ist gleichzeitig eine Hommage an die Technologie.
 ### Ⅸ. Letztes Kapitel: Auf dem Weg zu einem Post-EDM-Musikerlebnis
 
 Der Begriff „EDM“ mag heute wie ein Relikt der Vergangenheit erscheinen.
-Doch sein Erbe durchdringt bereits alle Genres.
+Aber sein Erbe durchdringt bereits alle Genres.
 Pop, Hip Hop, Gamemusik...
 Erbt die Ästhetik der Tropfenstruktur und des Schalldrucks.
 
-Von nun an werden Feierlichkeiten nicht mehr auf physische Bühnen beschränkt sein.
+Feiern werden sich in Zukunft nicht mehr nur auf physische Bühnen beschränken.
 Metaverse, AR, virtueller DJ.
 Die Menge wird zum Avatar und das Licht fließt als Code.
 

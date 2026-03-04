@@ -62,7 +62,7 @@ C --> D[インド北部音楽文化]
 
 ## Eine ketzerische Präsenz in der klassischen indischen Musik
 
-Sitar, Sarod und Bansuri, die Hauptinstrumente der Hindustani-Musik, legen alle Wert auf anhaltende und sanfte Klänge. Da es sich bei der Santur andererseits um ein Schlaginstrument handelt, ist die Dauer des Tons kurz, was es schwierig macht, Mitteltöne (sanfte Töne) direkt auszudrücken.
+Sitar, Sarod und Bansuri, die Hauptinstrumente der Hindustani-Musik, legen alle Wert auf anhaltende und sanfte Klänge. Da es sich beim Santoor andererseits um ein Schlaginstrument handelt, ist die Dauer des Klangs kurz, was es schwierig macht, Mitteltöne (sanfte Töne) direkt auszudrücken.
 
 Aus diesem Grund galt die Santour lange Zeit als „unvollendetes klassisches Instrument“. Diese Einschränkung wurde jedoch zur Grundlage für spätere einzigartige Interpretationen.
 
@@ -74,7 +74,7 @@ Aus diesem Grund galt die Santour lange Zeit als „unvollendetes klassisches In
 
 Pandit Shivkumar Sharma war der Mann, der die Santoor im späten 20. Jahrhundert als offizielles Soloinstrument in der klassischen indischen Musik förderte. Er verbesserte die Saitenstruktur des Santoor und realisierte das für die Raga-Darbietung notwendige Tonleitersystem.
 
-Darüber hinaus erlangte der Santur seinen Status als melodisches Instrument, indem er die Körnigkeit des durch das Anschlagen der Saiten erzeugten Klangs nutzte und eine Spielmethode etablierte, die Gamaka und Meando simuliert.
+Darüber hinaus erlangte der Santur seinen Status als Melodieinstrument, indem er sich die Körnigkeit des Klangs zunutze machte, der durch das Anschlagen der Saiten erzeugt wurde, und eine Spielmethode etablierte, die Gamaka und Meando simuliert.
 
 > Sharmas Leistung bestand nicht darin, das Instrument zu verändern, sondern darin, die Art und Weise zu verändern, wie das Instrument gehört wurde.
 
@@ -82,7 +82,7 @@ Darüber hinaus erlangte der Santur seinen Status als melodisches Instrument, in
 
 ## Santoor in Raga und Tara
 
-Auch bei der Darbietung des Santoor werden der Zeitraum, der emotionale Charakter und die Tonleiterstruktur des Raga strikt beachtet. Der klare Anschlag der Streicher verleiht der statischen Entwicklung von Aarap ein neues Spannungsgefühl.
+Auch bei der Aufführung des Santoor werden der Zeitraum, der emotionale Charakter und die Tonleiterstruktur des Raga strikt beachtet. Der klare Anschlag der Streicher verleiht der statischen Entwicklung von Aarap ein neues Spannungsgefühl.
 
 Sobald der Santoor in der Tala angekommen ist, beginnt er eine perkussive treibende Kraft anzunehmen und verwischt die Grenze zwischen Melodie und Rhythmus. Diese Dualität erzeugt einen Charme, den man bei anderen Melodieinstrumenten nicht findet.
 
@@ -92,17 +92,17 @@ Sobald der Santoor in der Tala angekommen ist, beginnt er eine perkussive treibe
 
 ## Aufnahmetechnik und Santour-Ausbau
 
-Seit dem späten 20. Jahrhundert hatten Fortschritte in der Aufnahmetechnologie einen erheblichen Einfluss auf den Ruf von Santour. Die Details des Santour, der einen kurz ausklingenden Klang hat, wurden durch das Mikrofon betont, was ihm einen dreidimensionalen Klang verleiht.
+Seit dem späten 20. Jahrhundert hatten Fortschritte in der Aufnahmetechnologie einen erheblichen Einfluss auf den Ruf von Santoor. Die Details des Santour, der einen kurzen, ausklingenden Ton hat, wurden durch das Mikrofon hervorgehoben, was ihm einen dreidimensionalen Klang verleiht.
 
 Dies hat dazu geführt, dass es nicht nur auf Soloauftritte, sondern auch auf Ensembles und Filmmusik angewendet wird.
 
-> Die Technologie hat die Präsenz von Santour erweitert, nicht das Volumen.
+> Die Technologie hat die Präsenz von Santour erweitert, nicht sein Volumen.
 
 ---
 
 ## Verbindung zu zeitgenössischer Musik/Fusion
 
-Seit den 1970er Jahren wird Santoor mit Jazz, Ambient- und Minimal-Musik in Verbindung gebracht. Das regelmäßige Schlagmuster der Saiten passt gut zur sich wiederholenden Struktur und wurde auch mit Borduntönen und elektronischen Klängen integriert.
+Seit den 1970er Jahren wird Santoor mit Jazz, Ambient und Minimal Music in Verbindung gebracht. Das regelmäßige Schlagmuster der Saiten passt gut zur sich wiederholenden Struktur und wurde auch mit Bordungeräuschen und elektronischen Klängen integriert.
 
 Auch bei Aufführungen außerhalb des indischen klassischen Rahmens beeinflusst das Raga-Denken weiterhin die Auswahl der Klänge.
 

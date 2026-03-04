@@ -42,7 +42,7 @@ color: #fff;
 
 ### 2. Wissenschaft der Struktur – Elaenia-Zeit (2015)
 Sein Debütalbum „Elaenia“ markiert einen Wendepunkt in der wissenschaftlichen Neuordnung des Kontexts des Ambient Jazz.
-Der Klang besteht aus modularen Synthesizer-Wellenformen, Rhodes-Obertönen und Saitennachhall, die übereinander geschichtet sind, um einen Frequenzdialog zu erzeugen.
+Der Klang ist eine Kombination aus modularen Synthesizer-Wellenformen, Rhodes-Obertönen und Saitennachhall, die übereinander geschichtet sind, um einen Frequenzdialog zu erzeugen.
 Dieser Dialog ähnelt eher einer „Resonanz als physikalischem Phänomen“, einer Welleninterferenz, als einer Improvisation.
 
 > „Silhouettes (I, II & III)“ ist ein 10-minütiges Klangexperiment,
@@ -135,7 +135,7 @@ timeline
 ### 8. Fazit: Schall beobachten
 
 Die Musik von Floating Points zu hören ist eher ein Akt des „Beobachtens“ des Klangs, als dass man ihn „erlebt“.
-Hier fungiert das Gehör als wissenschaftliches Sinnesorgan, und Musik stellt den Mittelweg** zwischen Geist und Physischem dar.
+Hier fungiert das Gehör als wissenschaftliches Sinnesorgan, und Musik stellt den Mittelweg** zwischen Geist und Körper dar.
 
 Das Genre des Ambient-Jazz wurde von ihm aus „experimenteller Musik in Stille“ geschaffen.
 Es entwickelte sich zu „Musik als Beobachtung“.

@@ -120,7 +120,7 @@ Mit anderen Worten: Der Wert der Stille kommt im Zeitalter der digitalen Sättig
 
 ---
 
-## Illustration: Die Struktur des Zuhörens – die Balance zwischen Klang und Stille
+## Diagramm: Die Struktur des Zuhörens – die Balance zwischen Klang und Stille
 
 <div class="mermaid">
 
@@ -160,5 +160,5 @@ Musik verbindet uns wieder mit der Welt.
 | 1977 | „Tuning of the World“ Verlag | R. Marie Schäfer |
 | 1982 | Der Aufstieg der Ambient-Musik | Brian Eno |
 | 2000er | Ausbau der Field-Recording-Kultur | Chris Watson, Ryuichi Sakamoto |
-| 2020er | „Stille“ mit KI-generierter Musik neu bewerten | Klangkünstler aus verschiedenen Ländern |
+| 2020er Jahre | „Stille“ mit KI-generierter Musik neu bewerten | Klangkünstler aus verschiedenen Ländern |
 

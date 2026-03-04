@@ -9,7 +9,7 @@ permalink: /de/blue-beat-liquid-audio/
 tags:
 - Trance
 - Progressive
-title: Blue Beat – Liquid Audio
+title: Blue Beat – Flüssiges Audio
 ---
 
 

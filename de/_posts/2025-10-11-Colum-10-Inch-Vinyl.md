@@ -57,14 +57,14 @@ Darüber hinaus reduziert die kleine Platinenoberfläche interne Verzerrungen, w
 
 ---
 
-### 10-Zoll-Goldenes Zeitalter der 1950er Jahre: Das Experimentierfeld für Jazz und klassische Musik
+### 10-Zoll-Goldenes Zeitalter der 1950er Jahre: Experimentierfeld für Jazz und klassische Musik
 
 Das 10-Zoll-Format erreichte seinen Höhepunkt zu Beginn des Jazz in den frühen 1950er Jahren.
 Labels wie Blue Note, Prestige und Clef beschränkten die Experimente der Künstler auf das 10-Zoll-Format.
 
 Miles Davis [„Junger Mann mit Horn“](https://amzn.to/4qkdGGC) (1952), Thelonious Monk [„Thelonious Monk Trio“](https://amzn.to/4ol2uI1) (1954), Charlie Parker [„Now’s the Time“](https://amzn.to/4qkfrUe) (1953). Alle diese Werke waren wie „Kurzfilme“, bei denen die beste Komposition innerhalb der Beschränkungen von 10 Zoll angestrebt wurde.
 
-Vor der Einführung der 12-Zoll-LP war die 10-Zoll-Version das Testfeld für das neue Konzept der „LP“. Zu einer Zeit, als das Format für Langwerke noch nicht festgelegt war, vermittelte das 10-Zoll-Format dem Künstler ein Gefühl von „Zusammenhalt“ und hinterließ gleichzeitig die Dichte eines „ausgeschnittenen Moments“.
+Vor dem Aufkommen der 12-Zoll-LP war das 10-Zoll-Format das Testfeld für das neue Konzept der „LP“. Zu einer Zeit, als das Format für Langwerke noch nicht festgelegt war, vermittelte das 10-Zoll-Format dem Künstler ein Gefühl von „Zusammenhalt“ und hinterließ gleichzeitig die Dichte eines „ausgeschnittenen Moments“.
 
 Was nicht übersehen werden darf, ist die Entwicklung des Jackendesigns. Blue Note, das dem Erscheinen von Reid Miles vorausging, war für seine einfachen Kompositionen bekannt, die Typografie und Fotoränder nutzten, aber der Goldene Schnitt kam in der 10-Zoll-Ära am schönsten zum Ausdruck.
 
@@ -111,13 +111,13 @@ Es ist ein Musikerlebnis, das sich des Endes bewusst ist, im Gegensatz zu einer 
 
 ---
 
-### Letztes Kapitel: Die Zeit in Ihrer Handfläche, 10 Zoll spricht von der „Klangdichte“
+### Letztes Kapitel: Zeit in Ihrer Handfläche, die 10-Zoll-„Klangdichte“
 
 10 Zoll sind unvollständig, aber vollständig.
 Es handelt sich nicht um eine lange Geschichte oder eine Kurzgeschichte, sondern um ein „Kurzgeschichten“-Format.
 Musik in Ihrer Handfläche. Seine Dichte ist jedoch nicht schlechter als 12 Zoll.
 
-Ein Format ist nicht nur ein Container, sondern eine Idee.
+Ein Format ist nicht nur ein Container, es ist eine Idee.
 Die Neubewertung des 10-Zoll-Geräts ist ein Akt des Überdenkens der Art und Weise, wie Musik gehört wird.
 
 Es gibt immer eine „Mitte“ zwischen Technologien.

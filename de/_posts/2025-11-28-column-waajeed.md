@@ -10,7 +10,7 @@ tags:
 - House
 - Deep House
 - 10s
-title: '[Kolumne] Waajeed – Ein Schöpfer, der die Genealogie von Detroit weiterhin
+title: '[Kolumne] Waajeed – Ein Schöpfer, der die Genealogie von Detroit immer wieder
   erneuert'
 ---
 
@@ -52,7 +52,7 @@ Waajeed (richtiger Name Robert O'Bryant) wurde Ende der 1970er Jahre in Detroit 
 Der Name des Künstlers ist arabischen Ursprungs und leitet sich von einem Wort ab, das „finden“ oder „entdecken“ bedeutet.
 
 Schon in jungen Jahren wuchs er in einem Umfeld auf, das von **Detroits Soul-/Gospel-Kultur** beeinflusst war, und kam später mit Slum Village in Kontakt.
-In den späten 1990er und frühen 2000er Jahren schuf Detroit einen neuen Standard für Neo-Soul/Hip-Hop, symbolisiert durch J Dilla. Waajeed war einer der Vorreiter auf diesem Gebiet und wandte sich neben seiner Tätigkeit als Fotograf auch der Musikproduktion zu.
+In den späten 1990er und frühen 2000er Jahren schuf Detroit einen neuen Standard für Neo-Soul/Hip-Hop, symbolisiert durch J Dilla. Als Vorreiter auf diesem Gebiet wandte sich Waajeed der Musikproduktion zu und arbeitete gleichzeitig als Fotograf.
 
 ### **● Beziehung zum Slum Village**
 
@@ -61,7 +61,7 @@ In den späten 1990er und frühen 2000er Jahren schuf Detroit einen neuen Standa
 * Direkt beeinflusst von der Kreativität von J Dilla
 
 Was Waajeed hier absorbierte, war mehr als nur das Erstellen von Beats.
-**Die Einstellung besteht darin, „das Erbe der schwarzen Musik als ‚Neuerfindung‘ für die Moderne weiterzuführen.“**
+**Die Einstellung besteht darin, das Erbe der schwarzen Musik als „Neuerfindung“ in der Moderne weiterzuführen**.
 
 ---
 
@@ -75,7 +75,7 @@ Dabei handelt es sich um ein Projekt, das Hip-Hop, R&B, Soul und Beat-Musik auf 
 * PPPs Debütalbum
 * Mit Georgia Anne Muldrow, Tiombe Lockhart, Saadiq und mehr
 * Gilt als eines der „radikalsten und wärmsten Werke“ im damaligen Neo-Soul- und Hip-Hop-Kontext.
-* Ein wichtiges Werk, das Detroits Ästhetik der schwarzen Musik international bekannt machte.
+* Ein wichtiges Werk, das Detroits schwarze Musikästhetik international bekannt machte.
 
 In dieser Zeit verwischte Waajeed die Grenzen zwischen Sampling und Live-Musik und entwickelte einen „futuristischen Soul“-Stil, der keine Clubmusik war. **
 
@@ -119,12 +119,12 @@ Die 2017 veröffentlichte **Shango EP** war ein bedeutender Wendepunkt in Waajee
 
 Der Titel **„Shango“** ist eine Gottheit, die in der traditionellen westafrikanischen Religion vorkommt und ein Symbol ist, das die Spiritualität der Afro-Diaspora mit der Geschichte der schwarzen Musik verbindet.
 
-Auf dieser EP, Waajeed:
+Auf dieser EP Waajeed:
 
 * Detroit House/Techno-Beat-Struktur
 * Afro-Percussion
 * Schwarzer spiritueller Ruf
-* Ritueller Charakter roher Klänge und Rhythmen
+* Ritualischer Charakter roher Klänge und Rhythmen
 
 Er lenkte die Band eindeutig in die Richtung, „House/Techno als eine Rückkehr zum Geist der schwarzen Kunst darzustellen“, indem er sie verschmolz.
 
@@ -158,7 +158,7 @@ Um Waajeeds Produktionsansatz zusammenzufassen, sind die folgenden drei Punkte z
 
 ---
 
-## **① Detroits Erbe erben und neu erschaffen**
+## **① Das Erbe Detroits erben und neu erschaffen**
 
 * Beeinflusst von J Dilla
 * Evangelium/Seelentradition
@@ -171,7 +171,7 @@ Anstatt diese zu fragmentieren, werden sie als „musikalisches Gedächtnis der 
 
 ## **② Community-basierte Produktion**
 
-Nach der Dirt Tech Reck-Zeit begann Waajeed, Musik nicht mehr als „persönliche Kunst“, sondern als „persönliche Kunst“ zu betrachten
+Nach der Dirt-Tech-Reck-Zeit begann Waajeed, Musik nicht mehr als „persönliche Kunst“, sondern als „persönliche Kunst“ zu betrachten
 **Es besteht ein starker Wunsch, es als kulturelles Instrument in der örtlichen Gemeinschaft zu nutzen. **
 
 * Mitarbeit in Bildungsprojekten
@@ -207,7 +207,7 @@ Dies ist bei „Mother“ noch deutlicher ausgeprägt und verleiht dem Club-Trac
 
 ### **■ Hybrid aus Live-Sound und elektronischem Sound**
 
-Die Technik, Synthesizer, Pads, E-Piano, Live-Drums, Percussion usw. auf natürliche Weise zu vermischen, ist auch das Ergebnis der „Gehörschulung“ der Hip-Hop-Ära.
+Die Technik, Synthesizer, Pads, E-Piano, Live-Schlagzeug, Percussion usw. auf natürliche Weise zu vermischen, ist auch ein Ergebnis der „Gehörschulung“ der Hip-Hop-Ära.
 
 ---
 

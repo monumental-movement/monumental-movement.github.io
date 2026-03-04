@@ -256,7 +256,7 @@ B2. Black Avenger
 
 Features: Der Titel „Call Of The Wild“ zitiert Percussion aus Michael Jacksons „Off The Wall“.
 
-Empfohlene Punkte: Das harte Gefühl von Detroit-Techno wird mit dem Groove schwarzer Musik kombiniert und verleiht dem Boden eine einzigartige treibende Kraft.
+Empfohlene Punkte: Das harte Gefühl von Detroit Techno wird mit dem Groove schwarzer Musik kombiniert und verleiht dem Boden eine einzigartige treibende Kraft.
 
 #### Trackliste
 ```md
@@ -283,7 +283,7 @@ B2. Scout
 
 Features: Eine EP, die 2 Tracks enthält und eine harte, industrielle Atmosphäre erzeugt.
 
-Empfohlener Punkt: Sein intensiver Schalldruck hat die Kraft, den Boden in Spitzenzeiten sofort zum Explodieren zu bringen.
+Empfohlener Punkt: Der starke Schalldruck hat die Kraft, den Boden in Spitzenzeiten sofort zum Explodieren zu bringen.
 
 #### Trackliste
 ```md

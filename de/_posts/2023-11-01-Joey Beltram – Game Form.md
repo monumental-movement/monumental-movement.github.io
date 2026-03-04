@@ -18,7 +18,7 @@ Der erste Song auf Seite B ist ein Remix des US-DJ und Produzenten Robert Armani
 
 Joy Beltrame gilt weithin als eine der ersten Erneuerinnen der Underground-Tanzmusik.
 
-Er begann 1983, als er 12 Jahre alt war, als DJ zu arbeiten und spielte hauptsächlich frühe Elektro- und Hip-Hop-Musik.
+Er begann 1983, als er 12 Jahre alt war, als Hobby als DJ zu arbeiten und spielte hauptsächlich frühe Elektro- und Hip-Hop-Musik.
 
 Er wandte sich 1985 der House-Musik zu, im selben Jahr, in dem die erste Welle des Chicago House in New York ankam, und 1989, während er noch als Kurier arbeitete, begann er, einige seiner frühen Werke auf mehreren kleinen Plattenlabels in New York zu veröffentlichen.
 

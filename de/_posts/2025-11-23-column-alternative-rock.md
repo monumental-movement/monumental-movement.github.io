@@ -27,7 +27,7 @@ Obwohl der Begriff „Alternative Rock“ in den frühen 1990er Jahren populär 
 
 In den 1980er Jahren konzentrierte sich der Mainstream-Rock auf lauten, arenagroßen Hardrock, kommerziell aufpolierten AOR und Pop-Rock im Zusammenhang mit MTV. Andererseits begann in regionalen Städten und Universitätsstädten eine neue Bewegung von Bands zu entstehen, die im DIY-Geist verwurzelt waren und nicht auf kommerziellen Erfolg basierten.
 
-In den Vereinigten Staaten produzierten damals unabhängige Labels wie SST Records, Twin/Tone und Touch and Go eine Vielzahl von Stilen, die nicht vom Genre abhängig waren. Dies war eine Bewegung namens „College Rock“, eine Band, die die Geschwindigkeit und den Antiautoritarismus des Hardcore-Punks erbte, aber einen freieren experimentellen Geist hatte.
+In den Vereinigten Staaten produzierten damals unabhängige Labels wie SST Records, Twin/Tone und Touch and Go eine Vielzahl von Stilen, die nicht vom Genre abhängig waren. Dies war eine Bewegung, die als „College-Rock“ bekannt war, eine Band, die die Geschwindigkeit und den Antiautoritarismus des Hardcore-Punks erbte, aber einen freieren experimentellen Geist hatte.
 
 Etwa zur gleichen Zeit verzweigte sich in Großbritannien die Post-Punk-Szene auf komplizierte Weise im Untergrund.
 Labels wie Factory, 4AD und Creation hatten alle ihre eigene, einzigartige Ästhetik und veröffentlichten eine breite Palette von Bands von Gitarrenpop über Shoegaze bis hin zu Gothic Rock.
@@ -52,7 +52,7 @@ color: #fff;
 
 ## **Kapitel 1: Von Postpunk zum College Rock (1980–1987)**
 
-R.E.M.s „Murmur“ aus dem Jahr 1983 ist als Ausgangspunkt für Alternativen besonders wichtig. Während sie sich vom Kommerz distanzierten, präsentierten sie Melodien, die vom Folk-Rock beeinflusst waren, und zweideutige Texte und erlangten eine große Anhängerschaft, insbesondere in amerikanischen Universitätsstädten. Der Erfolg von R.E.M. war der Moment, der bewies, dass „eine neue Art von Rock, anders als der Mainstream, aber mit einem zuverlässigen Publikum“, geschaffen werden konnte.
+R.E.M.s „Murmur“ aus dem Jahr 1983 ist als Ausgangspunkt für Alternativen besonders wichtig. Während sie sich vom Kommerz distanzierten, präsentierten sie Melodien, die vom Folk-Rock beeinflusst waren, und zweideutige Texte und erlangten eine große Anhängerschaft, insbesondere in amerikanischen Universitätsstädten. Der Erfolg von R.E.M. war der Moment, der bewies, dass „eine neue Art von Rock geschaffen werden konnte, die sich vom Mainstream unterscheidet, aber ein verlässliches Publikum hat“.
 
 Etwa zur gleichen Zeit entstanden Bands wie The Replacements, Hüsker Dü, The Feelies und Sonic Youth, die flexibel Lärm, Melodie und Experimente mischten. Insbesondere Sonic Youths Auseinandersetzung mit Gitarrenstimmung und Geräuschstruktur hatte großen Einfluss auf die spätere alternative Musik.
 
@@ -118,7 +118,7 @@ Diese Bewegung verbindet sich mit lyrischen und experimentellen Bands wie Radioh
 Der Aufstieg von Tortoise, Mogwai, Gott sei Dank! Black Emperor und andere haben die Grenzen des Rock überschritten.
 
 Alternative ist kein einzelner Stil mehr;
-**„Ein allgemeiner Begriff für Kreativität, der nicht durch Kommerzialisierung wiederhergestellt wird“**
+**„Ein allgemeiner Begriff für Kreativität, der nicht durch Kommerzialisierung erfasst wird“**
 Es wurde verstanden als.
 
 ---

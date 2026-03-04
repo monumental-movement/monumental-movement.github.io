@@ -25,7 +25,7 @@ Text: mmr｜Thema: Showa-Songs und Pop werden mit der Internetkultur des 21. Jah
 In den 2020er Jahren verbreiten sich Schlagworte wie „Showa Retro“, „Showa Kayo“ und „Japanese 80s Pop“ explosionsartig auf SNS- und Streaming-Diensten auf der ganzen Welt.
 Es war ein symbolisches Ereignis, dass Miki Matsubaras „Midnight Door~Stay With Me“ und Tatsuro Yamashitas „Ride on Time“ plötzlich in den weltweiten Spotify-Charts auftauchten.
 
-Dieses „Showa-Pop-Revival“ ist jedoch nicht nur ein nostalgisches Hobby. Vielmehr handelt es sich um eine **Wiederentdeckung analoger Empfindungen im digitalen Zeitalter** und ein neues kulturelles Phänomen des **globalen „emotionalen Teilens“**.
+Dieses „Showa-Pop-Revival“ ist jedoch nicht nur ein nostalgisches Hobby. Es handelt sich vielmehr um eine **Wiederentdeckung analoger Empfindungen im digitalen Zeitalter** und ein neues kulturelles Phänomen des **globalen „Emotion Sharing“**.
 
 In diesem Artikel werden wir untersuchen, welche Resonanz Showa-Songs im Ausland finden und wie sie aufgenommen und rekonstruiert werden.
 Wir werden es aus verschiedenen Blickwinkeln untersuchen, darunter 1) den historischen Hintergrund, 2) das Medienumfeld, 3) die Rezeptionsstruktur im Ausland und 4) die Perspektive der musikalischen Übersetzung.
@@ -53,7 +53,7 @@ Die Bandbreite ist extrem breit und reicht von den Enka-ähnlichen Gefühlen von
 
 Gemeinsam ist ihnen jedoch der „Glaube an die Melodie“ und die „Romantik im Schatten der Zeit“.
 Showa-Lieder, die zusammen mit dem Wirtschaftswachstum der Nachkriegszeit wuchsen, etablierten eine „emotionale Koordinatenachse“ im Leben der Menschen.
-Takashi Mikis Melodien zum Beispiel haben einen Hauch von Nostalgie und Kyohei Tsutsumis Arrangements haben einen Traum von der Stadt. **
+Takashi Mikis Melodien zum Beispiel strahlen Nostalgie aus und Kyohei Tsutsumis Arrangements strahlen urbane Träume aus. **
 
 Dieser „Nachhall der Träume“ wird später zur treibenden Kraft, die junge Menschen aus Übersee anzieht.
 
@@ -65,7 +65,7 @@ Ausgangspunkt für die internationale Aufarbeitung von Showa-Songs war YouTube E
 Ausländische Nutzer hinterließen Kommentare zu Songs aus den 1980er-Jahren, die plötzlich vom Algorithmus empfohlen wurden, fügten englische Untertitel hinzu und erstellten Remixe.
 
 Ein typisches Beispiel ist Miki Matsubaras „Midnight Door“.
-Der Anstieg der Wiedergaben breitete sich auch auf die automatischen Playlists von Spotify aus und löste auf TikTok einen Trend namens „Japanische 80er-Jahre-Ästhetik“ aus.
+Der Anstieg der Wiedergaben breitete sich auch auf die automatischen Wiedergabelisten von Spotify aus und löste auf TikTok einen Trend namens „Japanische 80er-Jahre-Ästhetik“ aus.
 
 Dies wurde durch das neu definierte Genre des **City Pop** vorangetrieben.
 Musik, die in Japan ursprünglich „Urban Pop“ genannt wurde,
@@ -76,7 +76,7 @@ Im Ausland wurde es als „retrofuturistischer Pop“ und „ästhetische Nostal
 ## Kapitel 3: Vaporwave und die Illusion der Showa-Ära
 
 Vaporwave ist eine Kunstbewegung, die Anfang der 2010er Jahre aus der amerikanischen Internet-Bulletin-Board-Kultur hervorgegangen ist.
-Alte japanische Werbung, digitale Grafiken aus den 1980er Jahren und die verzerrten Tonbilder von Kassetten wurden als „Nachhall“ der Konsumgesellschaft rekonstruiert.
+Alte japanische Werbung, digitale Grafiken aus den 1980er Jahren und verzerrte Tonbilder von Kassetten wurden als „Nachhall“ der Konsumgesellschaft rekonstruiert.
 
 Es ist kein Zufall, dass die Melodien und Klänge der Showa-Lieder hier auf natürliche Weise verschmolzen sind.
 **Leichter Hall, urbane Sanftheit und übermäßige Romantik. **
@@ -149,7 +149,7 @@ Bei Nostalgie geht es nicht mehr um Rückblick, sondern um eine Energie der Neus
 
 ## Fazit: „Musik des Herzens“ namens Showa
 
-Showa-Lieder prägen sich zunehmend in die emotionale Landkarte der Welt ein und gehen über den historischen Kontext Japans hinaus.
+Showa-Lieder prägen sich in die emotionale Landkarte der Welt ein und gehen über den historischen Kontext Japans hinaus.
 Dieses Echo ist auch eine Rückkehr zum „individuellen Gedächtnis“, das durch die Globalisierung verloren ging.
 Die Lieder der Showa-Ära sind nicht nur für die Japaner der Vergangenheit, sondern für alle einsamen jungen Menschen des 21. Jahrhunderts zu einem „emotionalen Zufluchtsort“ geworden.
 
@@ -165,7 +165,7 @@ Auch wenn die Showa-Ära schon in weiter Ferne liegt, spielt sie sich irgendwo i
 | 1970er Jahre | Neue Musik und das goldene Zeitalter der Idole | Yumi Matsutoya, Momoe Yamaguchi, Süßigkeiten |
 | 1980er Jahre | City-Pop-Reife | Tatsuro Yamashita, Eiichi Otaki, Mariya Takeuchi |
 | 2010er | Entdecken Sie Übersee mit YouTube und verbinden Sie sich mit der Vaporwave-Kultur | Miki Matsubara bewertet neu |
-| 2020er | Globaler Boom über TikTok und Spotify | „Showa Retro“ neu entfacht, Geburt der AI Showa-Musik |
+| 2020er Jahre | Globaler Boom über TikTok und Spotify | „Showa Retro“ neu entfacht, Geburt der AI Showa-Musik |
 
 ---
 

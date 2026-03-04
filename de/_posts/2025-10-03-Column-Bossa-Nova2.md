@@ -14,7 +14,7 @@ title: '[Kolumne] Das moderne Brasilien im Spiegel von Bossa Nova: Die Schnittst
 ---
 
 
-## Schlüsselwort ist „Modernismus“
+## Stichwort ist „Modernismus“
 
 Text: mmr｜Thema: Betrachtet man die kulturelle Verbreitung des Bossa Nova, gibt es Phänomene und Dinge, die auf den ersten Blick nichts miteinander zu tun haben, in Wirklichkeit aber tief miteinander verbunden sind.
 
@@ -37,7 +37,7 @@ color: #fff;
 </style>
 
 
-### Bossa Nova- und Brasilia-Architektur – Modernismus in Städten und Musik
+### Architektur von Bossa Nova und Brasilia – Modernismus in Städten und Musik
 
 Im Jahr 1956 wurde die futuristische Stadt Brasilia als Teil eines Plans zur Verlegung der brasilianischen Hauptstadt gebaut. Die geschwungene und kühne Betonkonstruktion des Architekten Oscar Niemeyer zeigte der Welt ein neues Bild von Brasilien. Zufälligerweise änderte João Gilberto zu dieser Zeit mit „Chega de Saudade“ die Musikgeschichte und Antonio Carlos Jobim erzielte mit „The Girl from Ipanema“ internationalen Erfolg.
 
@@ -65,7 +65,7 @@ Noch interessanter ist, dass die Verbreitung von Bossa Nova im Einklang mit den 
 
 ---
 
-### Fazit —— Bossa Nova ist ein Schnittpunkt der Kulturen
+### Fazit —— Bossa Nova ist eine Kreuzung der Kulturen
 
 Wenn wir es so betrachten, können wir erkennen, dass Bossa Nova nicht nur ein Musikgenre war, sondern ein umfassendes kulturelles Phänomen, das das moderne Brasilien symbolisierte und sich mit Architektur, Technologie und Mode überschnitt.
 
@@ -77,7 +77,7 @@ Wenn wir es so betrachten, können wir erkennen, dass Bossa Nova nicht nur ein M
 
 All dies ist in einer Note von João Gilbertos Gitarre, Jobims Harmonien und der Melodie von „The Girl from Ipanema“ zusammengefasst.
 
-Der Bossa Nova, den man heute in Cafés und Lounges hört, ist mehr als nur beruhigende Hintergrundmusik. Dahinter steckt der Wunsch Brasiliens nach „Neuheit“ in der zweiten Hälfte des 20. Jahrhunderts und eine kulturelle Resonanz, die über die Musik hinausgeht.
+Bossa Nova, den man heute in Cafés und Lounges hört, ist mehr als nur beruhigende Hintergrundmusik. Dahinter steckt der Wunsch Brasiliens nach „Neuheit“ in der zweiten Hälfte des 20. Jahrhunderts und eine kulturelle Resonanz, die über die Musik hinausgeht.
 
 
 ---

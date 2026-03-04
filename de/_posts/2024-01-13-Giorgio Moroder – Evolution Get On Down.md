@@ -24,7 +24,7 @@ Florian Holzinger, auch bekannt als Woodbay, ist Musikproduzent und Sounddesigne
 
 Giorgio Moroder (richtiger Name: Giovanni Giorgio Moroder) wurde am 26. April 1940 in St. Ulrich, Bozen, Italien geboren.
 
-Ein Musiker aus Italien, der Komponist, Arrangeur, Produzent, Performer und DJ ist. Er gilt als einer der innovativsten und einflussreichsten Persönlichkeiten der elektronischen und Disco-Musik.
+Ein italienischer Musiker, Komponist, Arrangeur, Produzent, Performer und DJ. Er gilt als einer der innovativsten und einflussreichsten Persönlichkeiten der elektronischen und Disco-Musik.
 
 Als Gründer des Labels Oasis und der Musicland Studios schuf er in den 1970er Jahren den Münchner Sound (oft verwechselt mit dem späteren Italo-Disco) und produzierte ikonische Werke mit Donna Summer und Roberta Kelly.
 

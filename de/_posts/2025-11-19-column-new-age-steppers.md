@@ -24,7 +24,7 @@ Text: mmr｜Thema: Über die Geschichte des „gemischten Teams“, das On-U Sou
 Auch wenn die Punk-Explosion Ende der 1970er Jahre in London nachgelassen hatte, war die Gesellschaft immer noch von vielen Spaltungen wie Arbeitslosigkeit, Spaltung, Streiks und Diskriminierung von Einwanderern geplagt. Die Szene wirkte wie eine Einöde, doch ihre Spalten wurden zu einer Brutstätte der Musik.
 Post-Punk-Künstler gingen schnell über das Rockformat hinaus und widmeten sich Dub, Reggae, afrikanischer Percussion, Noise, elektronischen Klängen und DIY-Aufnahmetechniken.
 
-Genau in dieser komplexen Zeit erhob sich ein junger Produzent namens **Adrian Sherwood** und begann, das riesige Netzwerk aufzubauen, das später als **On-U Sound** bekannt wurde.
+Genau in dieser komplexen Zeit erhob sich ein junger Produzent namens **Adrian Sherwood** und begann mit dem Aufbau des riesigen Netzwerks, das später als **On-U Sound** bekannt wurde.
 Und die frühesten „Symbole“ und „Gedanken selbst“ waren nichts anderes als **New-Age-Stepper**.
 
 ---
@@ -295,7 +295,7 @@ Dies ist die Prämisse der Musikproduktion nach dem Internet.
 
 NAS, das diesen Trends in den frühen 1980er Jahren Pionierarbeit leistete, kann als Prototyp der modernen Musik bezeichnet werden.
 
-Der Sound, den sie hinterließen, war intensiv, rau, schwungvoll, federnd und manchmal destruktiv, aber im Kern ging es darum, frei zu sein.
+Ihr Sound war intensiv, rau, schwungvoll, federnd und manchmal destruktiv, aber im Kern ging es um Freiheit.
 Diese Freiheit ist in der Arbeit von On-U Sound und in Underground-Szenen auf der ganzen Welt weiterhin spürbar.
 
 ---

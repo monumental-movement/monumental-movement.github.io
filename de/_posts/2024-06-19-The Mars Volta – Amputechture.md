@@ -11,7 +11,7 @@ tags:
 - Psychedelic Rock
 - Prog Rock
 - 00s
-title: Der Mars Volta – Amputetechnik
+title: Der Mars Volta – Amputechur
 ---
 
 

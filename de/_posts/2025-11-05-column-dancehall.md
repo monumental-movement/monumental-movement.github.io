@@ -90,7 +90,7 @@ Diese Idee wurde später von **UK Dub** (Jah Shaka, Aba Shanti-I) und **Soundcla
 ### ▪ Lässigkeit und Slang-Explosion
 
 1985 veränderte **Wayne Smiths „Under Mi Sleng Teng“** alles.
-Dieser Song, der die Rhythmus-Presets des Casio MT-40 verwendete, gilt als der erste vollständig digitale Reggae in der Geschichte, und von da an wurde „Digital Dancehall“ zum Mainstream.
+Dieser Song, der die Rhythmus-Presets des Casio MT-40 nutzt, gilt als der erste vollständig digitale Reggae der Geschichte, und von da an wurde „Digital Dancehall“ zum Mainstream.
 
 | Jahr | Repräsentatives Lied | Künstler | Notizen |
 |----|--------|---------------|------|
@@ -156,7 +156,7 @@ Wichtigste japanische Spieler:
 ### ▪ DIY-Geist und modernes Erbe
 
 In den letzten Jahren kam es zu Überschneidungen mit Dubstep/Techno.
-**Tokyo Dub Attack**, **Zettai-Mu (Osaka)**, **Mura Masa System (Okinawa)** sind derzeit aktiv.
+**Tokyo Dub Attack**, **Zettai-Mu (Osaka)**, **Mura Masa System (Okinawa)** und andere sind derzeit aktiv.
 Die Grundlage dafür ist die Soundsystem-Philosophie, „unseren eigenen Sound mit unseren eigenen Händen zu erzeugen“.
 
 ---
@@ -170,10 +170,10 @@ Die Grundlage dafür ist die Soundsystem-Philosophie, „unseren eigenen Sound m
 | 1960er Jahre | Ska → Rocksteady → Reggae | Die Skataliten |
 | 1970er Jahre | Geburt des Dub, Durchdringung der Rasta-Ideologie | King Tubby, Lee Perry |
 | 1980er Jahre | Digitale Revolution, „Sleng Teng“ | Wayne Smith |
-| 1990er Jahre | Dancehalls goldenes Zeitalter, Mighty Crown entsteht | Shabba Ranks, Beenie Man |
+| 1990er Jahre | Dancehalls goldenes Zeitalter, mächtiger Kronenaufstieg | Shabba Ranks, Beenie Man |
 | 2000er | Globaler Pop | Sean Paul, Elefantenmensch |
 | 2010er | Globale Dancehall-/Reggaeton-Ära | Popcaan, Drake |
-| 2020er | Aufstieg des lokalen DIY-Sounds | Mura Masa System und andere |
+| 2020er Jahre | Aufstieg des lokalen DIY-Sounds | Mura Masa System und andere |
 
 ---
 
@@ -193,7 +193,7 @@ D --> G["日本のSound System文化\n(1990s〜)"]
 
 ---
 
-## Fazit: Wohin steuert der Bass?
+## Fazit: Wohin geht der Bass?
 
 Ein Soundsystem ist mehr als nur Audiogeräte.
 Es ist eine Infrastruktur des Selbstausdrucks und ein Symbol des Widerstands und der Solidarität.

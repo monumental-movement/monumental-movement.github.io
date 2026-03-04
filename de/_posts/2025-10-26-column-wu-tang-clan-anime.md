@@ -24,7 +24,7 @@ Daraus entstand eine Gruppe namens „Xiaolin“, die die Geschichte des Hip-Hop
 **Wu-Tang Clan** – Die Kette kämpferischer und philosophischer Worte, die von neun MCs gewebt wurde, war eine seltsame Kunstform, die Straßengewalt mit buddhistischer Ruhe verband.
 
 Im Kern ihrer Weltanschauung existierten **Kung-Fu-Filme, orientalische Philosophie und „Anime-Fantasie“** nebeneinander.
-Für die schwarze amerikanische Jugend der 1990er Jahre war die asiatische Kultur eine „exotische spirituelle Waffe“ und ein Mittel, um der sozialen Unterdrückung zu entkommen.
+Für die schwarze amerikanische Jugend der 1990er Jahre war die asiatische Kultur sowohl eine „exotische spirituelle Waffe“ als auch ein Mittel, um der sozialen Unterdrückung zu entkommen.
 Der Wu-Tang-Clan probierte Bruce Lee, Sun Tzu und Lao Tzu aus und lehnte sich später stark an die Ästhetik japanischer Animes an.
 
 ---
@@ -56,7 +56,7 @@ RZA (Wu-Tangs spiritueller Führer) sagte später:
 > „Anime-Krieger waren unser Leben.
 > Sie trainierten sich in der Einsamkeit und kämpften gegen die Welt. ”
 
-Diese „spirituelle Shaolin = Trainingsgeschichte“ hat eine ähnliche Struktur wie der Straßenkampf.
+Diese „spirituelle Shaolin = Trainingsgeschichte“ hat eine ähnliche Struktur wie Straßenkämpfe.
 Das „Samurai-Selbstbild“ der Wu-Tang-Clan-Mitglieder wurde zum Prototyp für den „animeartigen Stoizismus“, der sich später im gesamten Hip-Hop verbreitete.
 
 ---
@@ -76,7 +76,7 @@ An diesem Punkt bewegt sich die asiatische Kultur vom bloßen Zitat in den Berei
 
 ---
 
-## Kapitel 3: „Afro Samurai“ und die Kette der Reimporte
+## Kapitel 3: „Afro Samurai“ und die Kette der Reimportation
 
 Im Jahr 2007 wurde der japanische Anime „Afro Samurai“ landesweit ausgestrahlt.
 Der Synchronsprecher ist Samuel L. Jackson.
@@ -113,7 +113,7 @@ Mit anderen Worten: Die „asiatische Ausrichtung“ des Wu-Tang-Clans ist nicht
 In Japan breitete sich der Einfluss des Wu-Tang-Clans langsam aus.
 Künstler wie DJ Krush, Nujabes und Shing02.
 Es betonte den „Zen“-Aspekt des Hip-Hop und spiegelte die spirituelle Welt von RZA wider.
-Insbesondere Nujabes‘ Musik verbindet Sampling und die Ästhetik von ma.
+Insbesondere Nujabes‘ Musik verbindet Sampling und die Ästhetik von Ma.
 Er war spirituell mit dem Wu-Tang-Clan verbunden, dem „Samurai des Klangs“.
 
 In den 2020er Jahren tauchen auch in japanischen Anime-Werken deutliche Bezüge auf.
@@ -210,5 +210,13 @@ Anime-Charaktere und Rapper stehen alle vor der gleichen Frage.
 **„Wie man sich selbst trainiert und gegen die Welt kämpft“**
 
 Das ist das größte Erbe, das der Wu-Tang-Clan hinterlassen hat.
+
+---
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S46YQYuxx_I?si=-fAD-tm5XD8It5kp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

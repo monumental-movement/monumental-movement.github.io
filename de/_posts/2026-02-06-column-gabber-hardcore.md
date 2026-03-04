@@ -24,11 +24,11 @@ Text: mmr｜Thema: Mit Geschwindigkeit und Verzerrung als Waffen stellen wir die
 
 In den späten 1980er Jahren reisten Chicago House und Detroit Techno nach Europa und erhielten in jeder Stadt ihre eigenen Interpretationen. In Deutschland liegt der Schwerpunkt auf minimaler und mechanischer Wiederholung, während in England Breakbeats und Rave-Kultur kombiniert werden. Unterdessen gab es in den Niederlanden ein ungewöhnlich großes Interesse an der „Härte“ und „Geschwindigkeit“ von Techno.
 
-Damals spielten niederländische DJs keinen importierten amerikanischen Techno, wie er war, sondern erhöhten stattdessen die Tonhöhe und verwendeten Equalizer, um die tiefen Frequenzen zu übertreiben, um zu sehen, wie der Boden reagieren würde. Der BPM übersteigt 140, der Beat wird linearer und die Musik wird als Schock für den Körper empfunden.
+Damals spielten niederländische DJs nicht nur importierten amerikanischen Techno, sondern erhöhten die Tonhöhe und nutzten Equalizer, um die tiefen Frequenzen zu übertreiben, um zu sehen, wie der Boden darauf reagieren würde. Der BPM übersteigt 140, der Beat wird linearer und die Musik wird als Schock für den Körper empfunden.
 
 Diese Veränderung wurde eher durch das Feld als durch die Studioproduktion vorangetrieben. Partys in Clubs und Lagerhäusern wurden zu Testgeländen, und die Reaktion des Publikums bestimmte direkt die Richtung der Musik. Sofortige Wirksamkeit wurde wichtiger als Raffinesse und zerstörerische Kraft wichtiger als architektonische Schönheit.
 
->Während Techno zu futuristischer Raffinesse tendiert, wurde eine andere Zukunftsvision gewählt: „rasende Geschwindigkeit“.
+> Während Techno zu futuristischer Raffinesse tendiert, wurde eine andere Zukunftsvision gewählt: „außer Kontrolle geratene Geschwindigkeit“.
 
 ---
 
@@ -88,7 +88,7 @@ Selbst innerhalb der Niederlande waren die musikalischen Ausrichtungen zwischen 
 
 Rotterdams Hardcore hingegen fungiert als Reaktion auf diese Raffinesse. Unmittelbare Wirkung und Zerstörungskraft haben Vorrang vor Melodie und Atmosphäre, und das Kriterium ist „ob man es aushalten kann“ und nicht „ob man tanzen kann“.
 
-Dieser Konflikt wurde von den Medien übertrieben, wobei die Szenen in beiden Städten oft gegensätzlich dargestellt wurden. In Wirklichkeit war der Fluss von Menschen und Einfluss jedoch wechselseitig und die Spannung selbst war die Vitalität der Szene.
+Dieser Konflikt wurde von den Medien übertrieben und die Szenen in beiden Städten waren oft gegensätzlich. In Wirklichkeit war der Fluss von Menschen und Einfluss jedoch wechselseitig und die Spannung selbst war die Vitalität der Szene.
 
 > Die Unterschiede zwischen den beiden Städten isolierten den Hardcore nicht, sondern betonten vielmehr seine Präsenz.
 
@@ -126,11 +126,11 @@ Seit den 2000er Jahren hat sich eine einzigartige japanische Interpretation von 
 
 ---
 
-## 9. Neubewertung und Gegenwart – ​​das Erbe des Hardcore
+## 9. Neubewertung und Gegenwart: Das Erbe des Hardcore
 
 Seit den 2010er Jahren erfährt der 90er-Jahre-Hardcore eine Neubewertung. Elemente, die einst wegen ihrer Übertreibung gemieden wurden, werden mittlerweile eher als ein Element der Aufrichtigkeit angesehen.
 
-Im Kontext von zeitgenössischem Techno und experimenteller Musik bekommen gabberartige Geschwindigkeit und Verzerrung eine neue Bedeutung. Der ehemalige Aufstand dient heute als Bezugspunkt.
+Im Kontext von zeitgenössischem Techno und experimenteller Musik bekommen gabberartige Geschwindigkeit und Verzerrung eine neue Bedeutung. Der ehemalige Aufstand dient nun als Bezugspunkt.
 
 > Gabba Hardcore ist eine unvollendete Kultur, die im Laufe der Zeit immer wieder neu interpretiert wird.
 

@@ -20,7 +20,7 @@ title: '[Kolumne] Musikkultur der indigenen Amazonas: ein Universum aus Klängen
 
 ## Prolog: Eine Klangwelt, die den Wald erfüllt
 
-Text: mmr｜Thema: Musikkultur, die kein festes Erbe ist, sondern vererbt wurde, während sie als Reaktion auf Veränderungen in der Umwelt und der Gesellschaft ihre Formen veränderte.
+Text: mmr｜Thema: Musikkultur ist kein festes Erbe, sondern wurde vererbt, während sie als Reaktion auf Veränderungen in der Umwelt und der Gesellschaft ihre Formen verändert.
 
 Das Amazonasbecken ist eine der kulturell vielfältigsten Regionen der Welt. Hunderte indigene Gruppen haben zusammengelebt, jede mit ihren eigenen Sprachen, Mythen und sozialen Strukturen. In diesem Zusammenhang hat sich Musik nicht als eigenständige Form der Unterhaltung oder Kunst entwickelt, sondern als ein Akt, der untrennbar mit dem Leben selbst verbunden ist.
 
@@ -71,7 +71,7 @@ Diese Musik „beschreibt“ nicht die Natur. Dies ist ein Akt, um zu bekräftig
 
 ---
 
-## Symbolik von Instrumentierung und Materialien
+## Symbolik von Instrumentensystemen und Materialien
 
 
 Die verwendeten Instrumente werden aus Materialien hergestellt, die aus der Umgebung stammen. Die Hauptmaterialien sind Holz, Bambus, Knochen, Samen, Muscheln und Ton, jedes mit spezifischer Symbolik.

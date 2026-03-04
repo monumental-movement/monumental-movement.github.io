@@ -11,7 +11,7 @@ tags:
 - NY House
 - 90s
 title: '[Kolumne] Strictly Rhythm – Von seinen Anfängen bis zur Gegenwart: Historischer
-  Hintergrund, berühmte Aufzeichnungen und Änderungen in der Ausrüstung'
+  Hintergrund, berühmte Aufzeichnungen und Veränderungen in der Ausrüstung'
 ---
 
 
@@ -22,7 +22,7 @@ title: '[Kolumne] Strictly Rhythm – Von seinen Anfängen bis zur Gegenwart: Hi
 Text: mmr｜Thema: Von der Gründung des legendären New Yorker House-Labels **Strictly Rhythm** bis zur Gegenwart, geordnet nach Epochen aus der Perspektive des historischen Hintergrunds, repräsentativer Meisterwerke und Trends bei der damaligen Produktionsausrüstung.
 
 
-Strictly Rhythm (allgemein bekannt als Strictly) ist ein House-Speziallabel, das 1989 in New York gegründet wurde. Mit ihrem auf der Straße geschärften A&R-Gespür und ihrer Club-orientierten Songauswahl führten sie die House-Szene der 90er in New York und auf der ganzen Welt an. Das Label zeichnete sich durch die Entdeckung und Förderung von DJs/Produzenten aus und schaffte gleichzeitig eine Balance zwischen Underground-„Sounds“ und kommerziellen Hits.
+Strictly Rhythm (allgemein bekannt als Strictly) ist ein House-Speziallabel, das 1989 in New York gegründet wurde. Mit ihrem auf der Straße geschärften A&R-Gespür und ihrer Club-orientierten Songauswahl führten sie in den 1990er Jahren die House-Szene in New York und auf der ganzen Welt an. Das Label zeichnete sich durch die Entdeckung und Förderung von DJs/Produzenten aus und schaffte gleichzeitig eine Balance zwischen Underground-„Sounds“ und kommerziellen Hits.
 
 ---
 
@@ -50,7 +50,7 @@ color: #fff;
 - Roger Sanchez – *Luv Dancin'* (1990, unter dem Namen Underground Solution)
 
 **Ausrüstungstrends**
-Es gab viele Produktionen mit Plattenspielern und Samplern (frühe SP-Serie und Akai), die sich das „Loop-Feeling“ von Schallplatten zunutze machten.
+Viele der Produktionen nutzten Plattenspieler und Sampler (frühe SP-Serie und Akai), um das „Loop-Feeling“ von Schallplatten auszunutzen.
 
 ---
 
@@ -120,7 +120,7 @@ DAWs und Software-Plug-Ins haben begonnen, in den Produktionsworkflow Einzug zu 
 |---|---|---|---|
 | 1 | Wamdue-Projekt | König meines Schlosses | Ein Welthit, eine exquisite Fusion aus Melodie und Rhythmus. |
 | 2 | Barbara Tucker | Hör auf, mit meinem Verstand zu spielen | Groove-Deep-House mit Gesang als Hauptdarsteller. | 2 | Barbara Tucker | Hör auf, mit meinem Verstand zu spielen | |
-| 3 | George Morel | Let's Groove 98 | Veröffentlicht 1998 mit einem modernen Arrangement. |
+| 3 | George Morel | Let’s Groove 98 | Veröffentlicht 1998 mit einem modernen Arrangement. |
 | 4 | Rollenleute | Der Regen | Ein Werk, das jazzige Elemente und House-Beats vereint. |
 | 5 | Groove Armada | Superstylin’ | Funkiger und energiegeladener Clubsong. |
 | 6 | Armand Van Helden | Du kennst mich nicht | Melodischer House, ein Klassiker im Club. |
@@ -164,7 +164,7 @@ DAW-Schwerpunkt, Plug-in-Soundquellen und Software-/Analogmodellierung wurden zu
 
 **Hintergrund der Zeit**: Der Investitionswert von Musikkatalogen steigt. Der Tanzkatalog der 90er Jahre wird mit gesampeltem Material, Neuveröffentlichungen und Lizenzen neu bewertet.
 
-**Was ist passiert**: Im Jahr 2013 erwarb BMG den Strictly Rhythm-Masterkatalog. Die Veröffentlichungsrechte wurden anschließend übertragen.
+**Was ist passiert**: Im Jahr 2013 erwarb BMG den Strictly Rhythm-Masterkatalog. Danach wurden auch die Verlagsrechte übertragen.
 
 **Aktuelle Position**
 Die Marke/der Katalog ist immer noch aktiv und wird als „Asset“ für Neuauflagen, Zusammenstellungen, Lizenzen usw. verwendet.
@@ -173,7 +173,7 @@ Die Marke/der Katalog ist immer noch aktiv und wird als „Asset“ für Neuaufl
 
 | Nein | Künstler | Verfolgen | Kommentare |
 |---|---|---|---|
-| 1 | Könige von morgen | Endlich (Remaster 2014) | Traditioneller Deep House neu gemastert mit sanfter Klangqualität. |
+| 1 | Könige von morgen | Endlich (Remaster 2014) | Traditioneller Deep House neu gemastert, sanfte Klangqualität. |
 | 2 | Dennis Ferrer | Maniac 3000 | Verfügt über einen modernen und raffinierten House-Beat. |
 | 3 | Quentin Harris | Meine Freude (Neubearbeitung) | Deep House für Clubs neu aufgelegt. |
 | 4 | Barbara Tucker | Think (About It) 2015 Mix | Eine Neuinterpretation des Vocal-House voller Emotionen. |
@@ -190,7 +190,7 @@ Die Marke/der Katalog ist immer noch aktiv und wird als „Asset“ für Neuaufl
 
 | Zeiteinteilung | Hauptausrüstung |
 |---|---|
-| 1989~Anfang der 90er Jahre | Roland TR-909 / TR-808, TB-303, Plattenspieler + Mixer |
+| 1989~Anfang der 90er | Roland TR-909 / TR-808, TB-303, Plattenspieler + Mixer |
 | Mitte der 90er | E-MU SP-12 / SP-1200, Akai MPC-Serie, Außenborder/Band |
 | 2000er bis heute | DAW (Pro Tools, Ableton, Logic), Plug-Ins/Software-Synthesizer |
 

@@ -23,7 +23,7 @@ Text: mmr｜Thema: Über die Entstehung und Entwicklung des experimentellen elek
 
 Experimenteller elektronischer Pop/Art Pop ist ein Musikfeld, das durch die Einführung elektronischer Akustiktechnologie, experimenteller Kompositionsmethoden und zeitgenössischen künstlerischen Denkens unter Beibehaltung des Formats der Popmusik etabliert wurde. Das Genre wird tendenziell eher durch Produktionseinstellungen und strukturelle Ausrichtung definiert als durch einen gemeinsamen klaren Musikstil.
 
-Der Begriff Art Pop wurde als Oberbegriff verwendet, um die Schnittstelle von Popmusik mit Kunst und Denken zu bezeichnen. Andererseits bezieht sich Experimental Electronic Pop oft auf die Praxis des strukturellen Experimentierens im Rahmen von Pop, mit einem Schwerpunkt auf elektronischer Akustik. Die beiden haben sich überlappend entwickelt und werden seit den 2010er Jahren zunehmend als nahezu dasselbe Ausdrucksfeld anerkannt.
+Der Begriff Art Pop wurde als Oberbegriff verwendet, um die Schnittstelle von Popmusik mit Kunst und Denken zu bezeichnen. Andererseits bezieht sich Experimental Electronic Pop oft auf die Praxis des strukturellen Experimentierens im Rahmen von Pop, mit einem Schwerpunkt auf elektronischer Akustik. Die beiden haben sich überlappend entwickelt und werden seit den 2010er Jahren zunehmend als nahezu dasselbe Ausdrucksfeld erkannt.
 
 ---
 
@@ -43,7 +43,7 @@ color: #fff;
 
 ## 2. Historische Beziehung zwischen Popmusik und Experimentieren
 
-Obwohl Popmusik auf der Grundlage der Massenverbreitung und des unmittelbaren Verständnisses etabliert wurde, wurden in sie immer auch experimentelle Elemente eingeführt. Seit den 1960er Jahren wird mit der Weiterentwicklung der Studiotechnologie das Aufnehmen selbst als kreativer Akt anerkannt. Zur Erweiterung der Songstruktur wurden Bandmanipulation, Rückwärtswiedergabe und künstlicher Nachhall eingesetzt.
+Obwohl Popmusik auf der Prämisse der Massenverbreitung und des unmittelbaren Verständnisses etabliert wurde, wurden in sie immer experimentelle Elemente eingeführt. Seit den 1960er Jahren wird mit der Weiterentwicklung der Studiotechnologie das Aufnehmen selbst als kreativer Akt anerkannt. Zur Erweiterung der Songstruktur wurden Bandmanipulation, Rückwärtswiedergabe und künstlicher Nachhall eingesetzt.
 
 In den 1970er Jahren wurden Synthesizer populär und elektronische Klänge etablierten sich im Pop-Vokabular. Elektronische Klänge fungierten in dieser Zeit als futuristische Bilder und Symbole der Künstlichkeit, Musik und visuelle Darstellung waren eng miteinander verbunden.
 
@@ -131,7 +131,7 @@ In Arcas Liedern bleibt die Klangfarbe nicht stabil. Es kommt ständig zu Zerrun
 
 * Extreme Bassmodulation
 * Einfügen von hochfrequentem Rauschen
-* Schnelles Umschalten von Lautstärkeänderungen
+* Plötzliche Lautstärkeänderung
 
 Diese werden verwendet, um die musikalische Kontinuität absichtlich zu stören.
 
@@ -149,7 +149,7 @@ Dies versetzt den Zuhörer in einen Zustand körperlicher Anspannung.
 
 In Arcas visuellen Ausdrucksformen wird der Körper als wandelbares Material behandelt. Der menschliche Körper, künstliche Objekte und digital verarbeitete Bilder überlagern sich und stehen in einem entsprechenden Zusammenhang mit akustischen Verzerrungen.
 
-Körperdarstellungen weisen nicht auf feste Identitäten hin, sondern werden als sich ständig verändernde Strukturen dargestellt.
+Körperdarstellungen weisen nicht auf feste Identitäten hin, sondern werden als sich ständig verändernde Strukturen präsentiert.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X4LaCgzhidY?si=3Ml1wlUr-tNSts8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

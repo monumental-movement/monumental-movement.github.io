@@ -116,7 +116,7 @@ In diesem Sinne erschien **On-U Sound** unter der Leitung von **Adrian Sherwood*
 Er kombiniert das Chaos von Perry mit der Raffinesse von Tubby.
 Sie schufen einen industrielleren und abstrakteren „UK-Dub“.
 
-Werke wie **African Head Charge**, **Dub Syndicate**, **New Age Steppers**,
+Werke wie **African Head Charge**, **Dub Syndicate**, **New Age Steppers** sind
 Es wird ein Ort sein, an dem sich jamaikanische spirituelle Wurzeln und europäischer Post-Punk-Geist kreuzen.
 
 Etwa zur gleichen Zeit wurde auch das **Ariwa Studio** von **Mad Professor** im Süden Londons eröffnet.
@@ -134,7 +134,7 @@ Sie verarbeiteten rhythmische Partikel räumlich und etablierten **Dub-Techno**.
 Zu seinen Nachfolgern gehören **Deepchord**, **Rhythm & Sound** und **Echospace**.
 
 Im Ambient-Bereich **The Orb**, **Bill Laswell**, **Kode9**, **Burial** und andere
-Er erkundete weiterhin den Dub-ähnlichen Raum.
+Er erkundete weiterhin den Dub-Bereich.
 Burials „Untrue“ (2007)
 Es kann wahrlich als **einsamer Dub des postdigitalen Zeitalters** bezeichnet werden.
 

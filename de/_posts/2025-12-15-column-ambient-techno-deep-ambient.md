@@ -21,7 +21,7 @@ Text: mmr｜Thema: Anstatt die beiden als Genrenamen zu trennen, geht es bei bei
 
 Ambient Techno ist ein Bereich der elektronischen Musik, der in den frühen 1990er Jahren gegründet wurde und ein Musikstil ist, der die repetitive rhythmische Struktur von Techno mit der Räumlichkeit und Nachhaltigkeit von Ambient-Musik verbindet. Seine Besonderheit besteht darin, dass es das Zeitgefühl der Clubmusik beibehält und gleichzeitig als Musik der Wertschätzung fungiert.
 
-Deep Ambient (sog. Deep-Sea-Ambient) weist einen höheren Abstraktionsgrad auf und erfordert keine Anwesenheit von Beats. Der Schwerpunkt liegt auf extrem tiefen Klangbildern, anhaltenden Klängen mit Schwerpunkt auf niedrigen Frequenzbändern und Kompositionen, die die Konturen der Zeit verschleiern.
+Deep Ambient (sog. Deep-Sea-Ambient) weist einen höheren Abstraktionsgrad auf und erfordert keine Anwesenheit von Beats. Der Schwerpunkt liegt auf extrem tiefen Klangbildern, anhaltenden, auf tiefe Frequenzen konzentrierten Klängen und Kompositionen, die die Konturen der Zeit verschleiern.
 
 ---
 
@@ -56,7 +56,7 @@ Der Orb integriert die räumliche Verarbeitung von Ambient, Techno und Dub und p
 
 Bemerkenswert ist, dass er selbst in Szenen, in denen der Rhythmus im Vordergrund steht, nie seine treibende Kraft zur Schau stellt. Der Schlag ist kein Gerät, das Bewegungen steuert, sondern dient vielmehr als Referenzpunkt für die Tiefenmessung.
 
-Diese Designphilosophie wurde zur Grundlage von Ambient Techno und hatte einen entscheidenden Einfluss auf die späteren Ausdrucksformen Deep Ambient und Deep Sea Techno.
+Dieses Designkonzept wurde zur Grundlage des Ambient Techno und hatte entscheidenden Einfluss auf die späteren Ausdrucksformen Deep Ambient und Deep Sea Techno.
 
 
 ---

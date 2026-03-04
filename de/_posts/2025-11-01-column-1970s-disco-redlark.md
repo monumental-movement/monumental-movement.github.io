@@ -18,7 +18,7 @@ title: '[Kolumne] Japans 70er-Jahre-Disco und Red Lark – Ästhetik der Nacht, 
 ## Japans 70er-Jahre-Disco und Red Lark – Eine nächtliche Ästhetik, die von Musik und Zigaretten geprägt ist
 
 
-Text: mmr | Thema: Eine Aufzeichnung aus Japans 1970er-Jahren, als Disco- und Red Lark-Werbung miteinander verflochten waren. Erinnert sich an eine Nacht, in der sich Musik, Mode und der Geruch von Zigaretten kreuzen
+Text: mmr | Thema: Eine Aufzeichnung aus Japans 1970er-Jahren, als Disco- und Red Lark-Werbung miteinander verflochten waren. Erinnert sich an die Nacht, als sich Musik, Mode und der Geruch von Zigaretten kreuzten
 
 Japan in den 1970er Jahren. Shinjuku, Akasaka, Roppongi.
 Die Nachtstadt versuchte, durch das Wort „Disco“ unbekannte Freiheit zu erlangen.
@@ -49,7 +49,7 @@ Diskotheken wie „Mugen“, „Cleopatra“ und „Space Capsule“ sind nicht 
 
 Der musikalische Schwerpunkt lag damals auf Soul-Disco mit Bands wie **The Trammps, KC and the Sunshine Band und Donna Summer**.
 Allerdings spielen japanische DJs nicht nur importierte Platten;
-**Ich habe vor dem YMO mein „urbanes akustisches Gespür“ geschärft**.
+**Ich habe vor YMO mein „urbanes akustisches Gespür“ verfeinert**.
 BPM-Erkennung, Bass-Handhabung und Lichtsynchronisation.
 Nachts wurden „Ton“ und „Licht“ zu einem atmenden Organismus.
 

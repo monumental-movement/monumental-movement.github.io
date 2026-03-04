@@ -38,7 +38,7 @@ color: #fff;
 
 ### Pater Yod/James Edward Baker – Flugbahn und Legende
 
-#### Frühes Leben und Karriere
+#### Frühes Leben und Übergang
 
 Geboren am 4. Juli 1922 in Cincinnati, Ohio. Später spricht er über seine Erfahrungen als Marinesoldat (obwohl einige darauf hinweisen, dass seine Silver Star-Medaille nicht in offiziellen Aufzeichnungen zu finden ist).
 
@@ -76,7 +76,7 @@ Danach zerstreuten sich die Mitglieder der Gemeinde, was jedoch durch Tonarchive
 Kernbesetzung: Hauptsächlich Djin Aquarian (Gitarre), Octavius ​​​​Aquarian (Schlagzeug) und Sunflower Aquarian (Bass), zusammen mit anderen Musikern, die an den „Aquarian Nachnamen“ glauben, wie Lovely, Hom, Rhythm, Pythias, Aquarian.
 
 
-Ursprünglich unter dem Namen „Father Yod & The Spirit of ’76“ veröffentlicht. Danach wurde mit einigen Schwankungen die Notation wie „Ya Ho Wa 13 / Yahowha13 / YaHoWha13 / Yahowa 13“ verwendet.
+Ursprünglich unter dem Namen „Father Yod & The Spirit of ’76“ veröffentlicht. Danach wurden mit einigen Schwankungen Schreibweisen wie „Ya Ho Wa 13 / Yahowha13 / YaHoWha13 / Yahowa 13“ verwendet.
 
 
 Es gab auch eine Zeit, in der sie in Bands unter verschiedenen Namen wie „Savage Sons of Ya Ho Wa“, „Fire, Water, Air“ und „Yodship“ aktiv waren.
@@ -128,7 +128,7 @@ In dieser Zeit erforschte er die Verschmelzung von akustischen Experimenten und 
 Ya Ho Wa 13 (1974), Savage Sons of Ya Ho Wa (1974), Penetration: An Aquarian Symphony (1974), I’m Gonna Take You Home (1974), To the Principles for the Children (1975), The Operetta (1975 unveröffentlicht → später veröffentlicht) usw.
 
 
-In dieser Zeit wurden auch Versuche unternommen, mehr „Strukturalität“ und „Musikalität“ zu integrieren, mit einem Stil, der verzerrte Gitarrenriffs, wiederholte Phrasen sowie fragmentierte Poesie und Gesang umfasste.
+In dieser Zeit wurden auch Versuche unternommen, mehr „Strukturalität“ und „Musikalität“ zu integrieren, mit einem Stil, der eine Mischung aus verzerrten Gitarrenriffs, sich wiederholenden Phrasen und fragmentierter Poesie und Gesang beinhaltete.
 
 
 Insbesondere „Penetration: An Aquarian Symphony“ gilt als das beliebteste und am meisten neu bewertete Werk in der Geschichte der Band und wurde viele Male neu aufgelegt.
@@ -143,7 +143,7 @@ Nach 1975 löste sich die Band aufgrund des Todes von Pater Yod auf. Laienmusike
 1977 wurden Golden Sunrise (unter dem Namen Fire Water Air) und Yodship Suite (Private Press) veröffentlicht. Es gibt auch eine Zusammenarbeit mit Sky Saxon (ehemals The Seeds) und Gesangsbeteiligung.
 
 
-Seit den 2000er Jahren kam es zu Neuauflagen und Archivnachdrucken, fragmentarischen Neuaufnahmen und Mitgliedertreffen (wie Sonic Portation von Djin, Sunflower, Octavius ​​etc.).
+Seit den 2000er Jahren kam es zu Neuauflagen und Archivnachdrucken, fragmentarischen Neuaufnahmen und Mitgliedertreffen (Sonic Portation von Djin, Sunflower, Octavius ​​etc.).
 
 
 ---
@@ -319,7 +319,7 @@ Verweise auf das Archetyp „Reise/Reinigung/Elemente (Feuer/Wasser/Luft/Erde)�
 Doktrinäre/rituelle Phrasen (Wörter, die durch redigierte Titelnamen wie „Mann, der Messias“ gekennzeichnet sind) – Wörter, die als Erklärung eines Führers improvisiert und geschichtet sind.
 
 
-Analyse: Anstatt die Texte einfach nur als „Lyrik = Bedeutungsübertragung“ zu lesen, ist es am nützlichsten, sie wie folgt zu lesen: „(1) Der Klang selbst ist ein Ritual / (2) Worte sind suggestive und poetische Auslöser, die vor Ort ein Gemeinschaftserlebnis erzeugen.“ Mit anderen Worten: Die partizipative religiöse Führung durch „Klang/Wiederholung“ ist der Kern des Albums.
+Analyse: Anstatt die Texte einfach nur als „Lyrik = Übertragung von Bedeutung“ zu lesen, ist es am nützlichsten, sie wie folgt zu lesen: „(1) Die Klänge selbst sind Rituale / (2) Worte sind suggestive und poetische Auslöser, die ein unmittelbares Gemeinschaftserlebnis erzeugen.“ Mit anderen Worten, die partizipative religiöse Führung durch „Klang/Wiederholung“ ist der Kern des Albums.
 
 ---
 
@@ -334,7 +334,7 @@ Ein religiöser Führer und das „Gesicht“ der Band. Er betreibt das Naturkos
 
 - **Djin Aquarian (Gitarre)**
 
-Das Hauptmitglied, das die „Improvisationsgitarre“ der Band spielte. In späteren Jahren arbeitete er weiterhin alleine/zusammen. In Interviews und Archiven wird er oft als zentrale Figur der damaligen Zeit bezeichnet.
+Das Hauptmitglied, das die „Improvisationsgitarre“ der Band spielte. In späteren Jahren arbeitete er weiterhin alleine/zusammen. In Interviews und Archiven wird er oft als zentrale Figur dieser Zeit bezeichnet.
 
 
 - **Sonnenblume (Patrick Sunflower Aquarian, Basis)**
@@ -440,7 +440,7 @@ Der Klang „Ya Ho Wha“ selbst ist ein heiliges Mantra der Quellfamilie, ein A
 
 #### 🇺🇸 Amerika
 
-**Ausgangssituation**: In den 1970er Jahren gab es nur selbst produzierte Scheiben (sehr kleine Stückzahlen) und sie blieben ein Kult.
+**Ausgangssituation**: In den 1970er Jahren gab es nur selbst produzierte Platten (sehr kleine Stückzahlen) und die Band blieb Kult.
 
 **1990er Jahre**: Neuauflagen von Indie-Labels wie Drag City und Swordfish im Kontext einer psychedelischen Neubewertung.
 
@@ -452,7 +452,7 @@ Der Klang „Ya Ho Wha“ selbst ist ein heiliges Mantra der Quellfamilie, ein A
 
 #### Deutschland
 
-**Neubewertung im Krautrock-Kontext**: Amon Düül II und Cans Fangemeinde entdecken Yahowha 13 als „Acid Jam“.
+**Neubewertung im Krautrock-Kontext**: Amon Düül II und Cans Fangemeinde entdeckten Yahowha 13 als „Acid Jam“.
 
 **Umfangreiche Neuauflagen**: Seit 1998 wurden zahlreiche Neuauflagen über Captain Trip (eigentlich ein japanisches Label) und deutsche Vertriebe durchgeführt.
 
@@ -506,7 +506,7 @@ Familienberichten zufolge war Yod (James Edward Baker) ursprünglich ein Gastron
 
 Es wird gesagt, dass er sich seiner Rolle in der Musik als „Energievermittler“ und nicht als „Interpret“ bewusst war.
 
-Mitglied Octavius ​​​​bezeugt: „Er ließ uns spielen, aber gleichzeitig ‚hörte‘ er uns zu. Sein Blick und sein Atem bestimmten die Richtung der Sitzung.“
+Mitglied Octavius ​​​​sagt: „Er ließ uns spielen, aber gleichzeitig ‚hörte‘ er uns zu. Sein Blick und sein Atem bestimmten die Richtung der Sitzung.“
 
 ---
 
@@ -563,4 +563,4 @@ Die Musik von Yahowha 13 und Father Yod war mehr als nur psychedelischer Rock, s
 
 Seine Aufnahmen, wie die Alben „Penetration: An Aquarian Symphony“ und „I’m Gonna Take You Home“, dokumentieren eine Verschmelzung von religiösem Ritual und psychedelischer Improvisation, die auch für moderne Hörer noch immer eine eindrucksvolle Wirkung hat. In den USA wurde es als Dokument der Kultgeschichte, in Deutschland als akustisches Experiment und in Japan als esoterische psychedelische Religion neu bewertet, wobei jede Kultur ihre eigenen, einzigartigen Interpretationen entwickelte.
 
-Heute ist die Musik von Yahowha 13 durch Streaming und Neuauflagen allgemein zugänglich, und ihre Kultvergangenheit hat in ihrem Einfluss auf die zeitgenössische Musikszene ihren Höhepunkt gefunden. Der Geist von Pater Yod und der experimentelle Geist von Source Family gehen über die reine Musik hinaus und fordern auch neue Generationen heraus, die Möglichkeiten von Gemeinschaft, Improvisation und Spiritualität zu entdecken.
+Heute ist die Musik von Yahowha 13 durch Streaming und Neuauflagen allgemein zugänglich, und ihre Kultvergangenheit hat in ihrem Einfluss auf die zeitgenössische Musikszene ihren Höhepunkt gefunden. Der Geist von Pater Yod und der experimentelle Geist von Source Family gehen über die bloße Musik hinaus und fordern auch neue Generationen heraus, die Möglichkeiten von Gemeinschaft, Improvisation und Spiritualität zu entdecken.

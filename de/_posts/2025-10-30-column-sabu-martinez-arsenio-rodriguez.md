@@ -18,7 +18,7 @@ title: '[Kolumne] Das afrokubanische Skelett – Die Genealogie des Herzschlags,
 ## Einführung: Eine weitere Geschichte amerikanischer Musik, erzählt von Taiko-Trommeln
 
 
-Text: mmr｜Thema: Basierend auf Sabu Martinez und Arsenio Rodríguez
+Text: mmr｜Thema: Im Mittelpunkt stehen Sabu Martinez und Arsenio Rodríguez
 Die Wendepunkte der lateinamerikanischen Musikgeschichte im Längsschnitt verfolgen
 
 In den 1950er Jahren erschütterte ein Rhythmus, der an der Hintertür eines Jazzclubs ausgetauscht wurde, das Gefüge der amerikanischen Musik.
@@ -50,11 +50,11 @@ Doch hinter der Hektik des Unabhängigkeitskrieges war eine weitere Revolution i
 Yoruba- und kongolesische Ritualrhythmen kreuzen sich mit spanischen Melodien und schaffen Lieder wie „Son“, „Rumba“ und „Abakua“.
 Dadurch entstand eine vielschichtige rhythmische Struktur.
 
-* **Religiöse Elemente: ** Rituelle Rhythmen wie die „Bata-Trommel“ von Santería und die kongolesische „Makuta“ sind zu urbaner Musik geworden.
+* **Religiöse Elemente: ** Festivalrhythmen wie die „Bata-Trommel“ von Santería und die kongolesische „Makuta“ sind zu urbaner Musik geworden.
 * **Soziale Faktoren:** Nach der Abschaffung der Sklaverei bildete sich in Havanna eine afroamerikanische Gemeinschaft und die Professionalisierung schwarzer Musiker schritt voran.
 * **Technische Elemente:** Die Standardisierung der Tres (dreisaitige Gitarre) und Congas ermöglichte die spätere Montuno-Struktur.
 
-Vor diesem Hintergrund erscheint ein blinder Revolutionär namens **Arsenio Rodríguez** (1911–1970).
+Vor diesem Hintergrund entsteht ein blinder Revolutionär namens **Arsenio Rodríguez** (1911–1970).
 
 ---
 
@@ -63,13 +63,13 @@ Vor diesem Hintergrund erscheint ein blinder Revolutionär namens **Arsenio Rodr
 ### „El Ciego Maravilloso (Der wundersame blinde Spieler)“
 
 Arsenio wurde in Havanna geboren und verlor als Kind bei einem Unfall sein Augenlicht.
-Als Gegenleistung für dieses Gefühl erlangte er die übernatürliche Fähigkeit, die „innere Struktur des Rhythmus“ zu hören.
+Im Austausch für diesen Sinn erlangte er die übernatürliche Fähigkeit, die „innere Struktur des Rhythmus“ zu hören.
 
 ### Seine Innovationen:
 
 - 1. Erweiterter Sohn mit **Kombination aus Trompete und Locken**.
 - 2. **Montuno (repetitiver Teil)** wird als Grundlage des Rhythmus in den Vordergrund gerückt.
-- 3. Wandeln Sie **Call and Response** in Jazz-Interplay um.
+- 3. Konvertieren Sie **Call and Response** in Jazz-Interplay.
 - 4. Klärung des „Tumbao“-Konzepts durch **Stärkung der Grundlinie**.
 
 Dies führte dazu, dass seine Band als „afro-kubanisches Ensemble“ Pionierarbeit leistete.
@@ -80,7 +80,7 @@ Es beeinflusste auch später Tito Puente, Machito und Thelonious Monk.
 
 ---
 
-## **Kapitel 3: Sabu Martinez – Beat Poet with Fire**
+## **Kapitel 3: Sabu Martinez – Schlage den Dichter mit Feuer**
 
 ### „Der Herzschlag des Heiligen von Harlem“
 
@@ -111,7 +111,7 @@ Sein Sound ist mit dem späteren afro-spirituellen Jazz (Pharoah Sanders, Alice 
 
 Als Arsenio 1950 in die Vereinigten Staaten zog und in Harlem zu arbeiten begann,
 Sabu hatte Sitzungen in derselben Stadt durchgeführt.
-Obwohl es sich bei ihrem Ansprechpartner nicht um eine direkte Zusammenarbeit handelt,
+Obwohl ihr Kontaktpunkt nicht die direkte Co-Hauptrolle ist,
 Sie waren tief in der **Bronx-Harlem Afro-Diaspora-Kultur** verwurzelt.
 
 | Ära | Arsenio Rodríguez | Sabu Martinez |
@@ -178,7 +178,7 @@ Es ist auch der Prototyp der „rhythmischen Symmetrie“ im Hip-Hop-Loop-Aufbau
 
 ---
 
-## **Kapitel 8: Fazit – Auf die „Wurzeln“ des Afro-Kubaner hören**
+## **Kapitel 8: Fazit – Auf die „Wurzeln“ des Afro-Kubanern hören**
 
 Sabu Martinez und Arsenio Rodriguez――
 Die beiden starteten auf verschiedenen Inseln und landeten im selben Herzschlag.

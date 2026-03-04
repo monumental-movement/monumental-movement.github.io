@@ -49,7 +49,7 @@ Glitch Hop entstand an der Schnittstelle zwischen dem aus dem Hip-Hop stammenden
 
 ### 2.1 Tempo und Groove
 
-Der Tempobereich von Glitch Hop liegt im Allgemeinen bei 85–110 BPM. Dies passt gut zum Halftime-Feeling des Hip-Hop und maximiert das Gewichtsgefühl im unteren Bereich. Das Ausmaß des Schwunges ist nicht festgelegt, sondern wird bewusst für jede Spur angepasst, und sowohl mechanische Steifigkeit als auch künstliche Abweichung existieren gleichzeitig.
+Der Tempobereich von Glitch Hop liegt im Allgemeinen bei 85–110 BPM. Dies passt gut zum Halftime-Feeling des Hip-Hop und maximiert das Gewichtsgefühl im unteren Bereich. Das Ausmaß des Schwungs ist nicht festgelegt, sondern wird bewusst für jede Spur angepasst, und sowohl mechanische Steifigkeit als auch künstliche Abweichung existieren gleichzeitig.
 
 ### 2.2 Rhythmusstruktur
 

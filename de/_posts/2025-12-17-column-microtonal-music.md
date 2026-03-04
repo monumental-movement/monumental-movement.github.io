@@ -38,7 +38,7 @@ color: #fff;
 </style>
 
 
-## 1. Temperament ist keine Regel, sondern eine Idee.
+## 1. Temperament ist eine Ideologie, keine Regel.
 
 12 Gleichtemperierung ist eher ein etablierter **Industriestandard für Produktion und Vertrieb** als Musiktheorie.
 Dies ist eine Reaktion auf Forderungen nach größerer Freiheit bei der Modulation, Massenproduktion von Tasteninstrumenten und Standardisierung der Ausbildung und stellt keine optimale akustische Lösung dar.
@@ -71,9 +71,9 @@ In der zweiten Hälfte des 19. Jahrhunderts traten die folgenden Probleme auf, a
 
 * Echte akustische Trübung 3. und 6. Grades
 * Homogenisierung der harmonischen Farbe
-* Verwässerung des Tonalitätssinns
+* Verwässerung des Tonsinns
 
-Viele Komponisten wandten sich jedoch der Atonal- und Zwölftontechnik zu
+Viele Komponisten wandten sich jedoch der atonalen oder Zwölftontechnik zu
 In einer anderen Abstammungslinie wurde die „Neueinteilung der Intervalle“ selbst gewählt.
 
 ---
@@ -120,7 +120,7 @@ Neue Temperamente erfordern neue Instrumente.
 
 Partchs Instrumente hatten folgende Rollen:
 
-* Visualisierung der Intervallstruktur
+* Visualisierung der Spielfeldstruktur
 *Direkte Gravur auf dem Körper des Darstellers
 * Untrennbarkeit von Theorie und Praxis
 
@@ -209,7 +209,7 @@ Es geht nicht darum, mikrotonale Elemente zum Thema der Songstruktur zu machen.
 
 ### 10.1 Kompositionsdesign
 
-* Entscheiden Sie, welches Temperament Sie verwenden möchten
+* Entscheiden, welches Temperament verwendet werden soll
 * Verstehen Sie die Bandbreite möglicher Harmonien
 * Prüfung, ob Modulation möglich ist oder nicht
 
@@ -281,7 +281,7 @@ timeline
 
 ## 15. Fazit
 
-Mikrotonale Musik ist keine Übung zur Erhöhung der Tonhöhe. Dies ist ein Übergang zu einer Produktionsphilosophie, die keine feste Tonhöhe voraussetzt. Harry Partch brachte Musik zurück zum Körper und Raum, und Jacob Collier übersetzte diese Theorie in eine moderne Sensibilität. Diese Bewegung wird still und leise in den Tiefen der Musikproduktion weiterarbeiten.
+Mikrotonale Musik ist keine Übung zur Erhöhung der Tonhöhe. Dies ist ein Übergang zu einer Produktionsphilosophie, die keine feste Tonhöhe voraussetzt. Harry Partch brachte Musik zurück zum Körper und Raum, und Jacob Collier übersetzte diese Theorie in eine moderne Sensibilität. Diese Bewegung wird still und leise in den tieferen Schichten der Musikproduktion weiterarbeiten.
 
 
 ---

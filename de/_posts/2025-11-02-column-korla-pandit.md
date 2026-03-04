@@ -18,7 +18,7 @@ title: '[Kolumne] Korla Pandit und die Vision von Exotica: Träume und Masken de
 ## Prolog: Was war Exotica?
 
 
-Text: mmr｜Thema: Erkundung der Rolle von Korla Pandit in der aufkommenden Periode der Exotik und der Ästhetik des Orientalismus in der amerikanischen Nachkriegskultur
+Text: mmr｜Thema: Erforschung der Rolle der Korla Pandits bei der Schaffung von Exotika und der Ästhetik des Orientalismus in der amerikanischen Nachkriegskultur
 
 ![Korla Pandit at the organ](https://upload.wikimedia.org/wikipedia/en/4/4d/Korlaorgan.jpg) 
 出典：[Wikipedia - Korla Pandit](https://en.wikipedia.org/wiki/Korla_Pandit)

@@ -46,11 +46,11 @@ color: #fff;
 
 Ricardo Villalobos wurde 1970 in Santiago, Chile, geboren. Als er jung war, zog seine Familie nach Deutschland, doch die Rhythmen Südamerikas blieben ihm erhalten. Die Klänge von Congas und Bongos wurden später als subtile Percussion in seinen Tracks wiederbelebt. Als er in seinen frühen Zwanzigern in der Berliner Clubszene arbeitete, kam er mit der neuesten Generation des Minimal Techno in Kontakt und durch die Verbindung dieser mit einem lateinamerikanischen Rhythmusgefühl entwickelte er seine eigene Musiksprache.
 
-Seine frühen EP-Werke zeichneten sich durch einen „immersiven“ Sound mit dezenter Percussion und langen Tracks aus. „Halma“ und „Que Belle Epoque“ beispielsweise gehen über reine Tanzmusik hinaus und haben Strukturen, die den Hörer in den Fluss der Zeit einbeziehen.
+Seine frühen EP-Werke zeichneten sich durch einen „immersiven“ Sound mit dezenter Percussion und langen Tracks aus. „Halma“ und „Que Belle Epoque“ beispielsweise gehen über reine Tanzmusik hinaus und verfügen über Strukturen, die den Hörer in den Fluss der Zeit einbeziehen.
 
 ### Lucianos Flugbahn
 
-Luciano (richtiger Name Lucien Nicolet) wurde 1978 in der Schweiz geboren und wuchs in Chile auf. Schon früh wurde er mit der Gitarre vertraut und entwickelte ein Gespür für den Rhythmus der lateinamerikanischen Musik. Als Teenager kam er zum ersten Mal mit Clubmusik in Berührung, als er sich mit Disco, House und Techno beschäftigte und gleichzeitig nach seinem eigenen „warmen, minimalistischen“ Stil suchte.
+Luciano (richtiger Name Lucien Nicolet) wurde 1978 in der Schweiz geboren und wuchs in Chile auf. Schon früh wurde er mit der Gitarre vertraut und entwickelte ein Gespür für den Rhythmus der lateinamerikanischen Musik. Als Teenager kam er zum ersten Mal mit Clubmusik in Berührung und beschäftigte sich mit Disco, House und Techno, während er nach seinem eigenen „warmen, minimalistischen“ Stil suchte.
 
 Das von ihm später gegründete Label Cadenza brachte Künstler hervor, die südamerikanische Begeisterung mit europäischem Minimalismus verbanden. Lucianos Musik steht stets im „Dialog mit der Tanzfläche“ und stellt die körperlichen Empfindungen des Tänzers in den Mittelpunkt.
 
@@ -72,7 +72,7 @@ Eines Abends waren etwa 300 Leute auf der Clubetage. Villalobos spielt lange Tit
 
 ### Entwicklung von Alcachofa und Villalobos
 
-Im Jahr 2003 veröffentlichte Villalobos das Album Alcachofa. Dieses Werk wird als Meisterwerk gefeiert, das die Sprache der Clubkultur neu definiert. Im langen Track, der über 10 Minuten dauert, ändert sich der Rhythmus minutiös und die Beats greifen ständig ineinander. Die Körper der Zuhörer tauchten auf natürliche Weise in den Fluss der Zeit ein und der Boden wurde zu einer Art „Zeremonienraum“.
+Im Jahr 2003 veröffentlichte Villalobos das Album Alcachofa. Dieses Werk wird als Meisterwerk gefeiert, das die Sprache der Clubkultur neu definiert. Während des langen Tracks, der über 10 Minuten dauert, ändert sich der Rhythmus minutiös und die Beats verflechten sich unaufhörlich. Die Körper der Zuhörer tauchten auf natürliche Weise in den Fluss der Zeit ein und der Boden wurde zu einer Art „Zeremonienraum“.
 
 Beispiele für im Album enthaltene Songs:
 
@@ -92,11 +92,11 @@ Etwa zur gleichen Zeit gründete Luciano das in der Schweiz ansässige Label Cad
 
 ## Kapitel 4 Schnittstelle von Kultur und Klang
 
-Ihre Musik besteht aus mehr als nur Beats. Durch die Kombination von Villalobos‘ deutscher Präzision mit elektronischer Musik und Lucianos südamerikanischem Rhythmusgefühl wurde der Club mehr als nur ein Spielplatz, sondern eine kulturelle Verkörperung. Das Publikum bewegte sich unwissentlich zwischen zwei Welten, als es sich dem Takt hingab.
+Ihre Musik besteht aus mehr als nur Beats. Durch die Kombination von Villalobos‘ deutscher Präzision mit elektronischer Musik und Lucianos südamerikanischem Rhythmusgefühl wurde der Club mehr als nur ein Spielplatz, sondern eine kulturelle Verkörperung. Das Publikum bewegte sich unbewusst zwischen zwei Welten, als es sich dem Takt hingab.
 
 ### Revolution von Rhythmus und Körper
 
-Die langen Tracks von Villalobos ziehen den Zuhörer/Tänzer in einen Strudel der Zeit. Die über 10 oder 15 Minuten wiederholten Minutenwechsel gewöhnen den Körper an den Rhythmus und verwandeln den Club in einen zeremoniellen Raum und nicht nur in einen Spielplatz. Lucianos lateinamerikanische Percussion erfüllt den Boden mit Wärme und Dynamik.
+Die langen Stücke von Villalobos ziehen den Zuhörer/Tänzer in einen Strudel der Zeit. Die über 10 oder 15 Minuten wiederholten Minutenwechsel gewöhnen den Körper an den Rhythmus und verwandeln den Club in einen zeremoniellen Raum und nicht nur in einen Spielplatz. Lucianos lateinamerikanische Percussion erfüllt den Boden mit Wärme und Dynamik.
 
 ---
 
@@ -149,7 +149,7 @@ timeline
 ## Musikalität und Klanganalyse
 
 - **Rhythmus**: Eine Fusion aus subtiler Percussion aus Südamerika und europäischen Minimal-Beats
-- **Langlänge Struktur**: Tracks mit einer Dauer von mehr als 10 bis 20 Minuten, um Zeit und körperliches Eintauchen zu fördern
+- **Langlänge Struktur**: Tracks mit einer Dauer von mehr als 10 bis 20 Minuten, um Zeit und Körpervertiefung zu fördern
 - **Transkulturalität**: Als Brücke zwischen den Kulturen des Nordens und des Südens koexistieren die Wärme des Lateinischen und die Präzision des Techno.
 
 ---

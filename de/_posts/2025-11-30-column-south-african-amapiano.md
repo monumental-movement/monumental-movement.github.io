@@ -51,7 +51,7 @@ Amapiano wird von folgenden Genres beeinflusst:
 
 Insbesondere die Öffentlichkeitsarbeit durch Township-Clubs, Straßenfeste, Taxistände usw. spielte bei der Geburt von Amapiano eine wichtige Rolle.
 
-### Akustische Merkmale
+### Akustische Eigenschaften
 
 Der Sound von Amapiano besteht aus folgenden Elementen:
 
@@ -83,7 +83,7 @@ graph LR
 
 ### Geographie und Zeit
 
-Der Geburtsort von Amapiano ist Gauteng in Südafrika. Besonders wichtig sind die Townships **Johannesburg** und **Pretoria**.
+Der Geburtsort von Amapiano ist Gauteng, Südafrika. Besonders wichtig sind die Townships **Johannesburg** und **Pretoria**.
 
 Mehreren Quellen zufolge begannen die Experimente mit Amapiano um 2012, und später wurde der einheitliche Name „Amapiano“ als Genre etabliert.
 
@@ -97,7 +97,7 @@ Mehreren Quellen zufolge begannen die Experimente mit Amapiano um 2012, und spä
 
 ---
 
-### Abbildung 2: Geburtsort und anfängliche Ausbreitung
+### Abbildung 2: Geburtsort und anfängliche Verbreitung
 
 <div class="mermaid">
 graph TD
@@ -142,7 +142,7 @@ In dieser Zeit wurde Amapiano mehr als nur eine Township-Musik, es wurde zu eine
 
 ---
 
-### Abbildung 3: Künstlerbeziehungen während der Etablierung des Genres
+### Abbildung 3: Künstlerbeziehungen während der Genre-Etablierung
 
 <div class="mermaid">
 graph LR
@@ -314,7 +314,7 @@ timeline
 ## Schließung
 
 Amapiano ist ein ikonisches südafrikanisches Musikgenre, das sich von der Township-Underground-Kultur zu Clubfestivals auf der ganzen Welt ausgeweitet hat.
-Im Kern bleibt „Klangtrommel x Klavier x Schlagzeug x Ausdruck der Jugendkultur“ ein unerschütterlicher Ursprung, entwickelt sich aber im Zuge der Diversifizierung und Internationalisierung weiter.
+Im Kern bleibt „Log Drum x Piano x Percussion x Ausdruck der Jugendkultur“ ein unerschütterlicher Ursprung, entwickelt sich aber im Zuge der Diversifizierung und Internationalisierung weiter.
 
 ---
 

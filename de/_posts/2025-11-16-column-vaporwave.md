@@ -42,7 +42,7 @@ color: #fff;
 
 ### 1-1 Kontext der frühen Tage der Vaporwave- und Internetkultur
 
-Die Gründung von Vaporwave ist eng mit der Blogging-Kultur der späten 2000er Jahre, der Bildersammelkultur von Tumblr und dem Beginn der Algorithmus-Ära von YouTube verbunden. Insbesondere die übermäßige Verlangsamungsverarbeitung von Eccojams (Oneohtrix Point Never) wurde zum Keim für nachfolgende Genres und etablierte sich als „Methode zur Zerstörung der Echtzeit“.
+Die Gründung von Vaporwave ist eng mit der Blogging-Kultur der späten 2000er Jahre, der Bildersammelkultur von Tumblr und dem Beginn der Algorithmus-Ära von YouTube verbunden. Insbesondere die übermäßige Verlangsamung der Verarbeitung durch Eccojams (Oneohtrix Point Never) wurde zum Keim nachfolgender Genres und etablierte sich als „Methode zur Zerstörung der Echtzeit“.
 
 ### 1-2 Hauptetiketten (Beer On The Rug / Constellation Tatsu / Dream Catalog / Orange Milk)
 
@@ -60,7 +60,7 @@ Frühe Eccojams waren nicht nur Verlangsamungen, sondern Geräte, die neue Emoti
 ### 2-2 Richtung der Ästhetik
 
 * **Der Zusammenbruch einer künstlichen Utopie** (Utopian Virtual)
-* **Dekadenz, Industrialisierung, destruktives Zukunftsbild** (Hardvapour)
+* **Dekadenz, Industrialisierung und destruktive Zukunftsvision** (Hardvapour)
 * **Die Süße und Ironie der Konsumkultur** (Future Funk)
 * **Verschmelzung von städtischem Geistergefühl und Umgebungsgeräuschen** (Mallsoft)
 

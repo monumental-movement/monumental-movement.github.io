@@ -91,7 +91,7 @@ Im 21. Jahrhundert haben junge brasilianische Bands ihre „tropische Illusion�
 
 ## Kapitel 5: Live-Rezension – Tropical Trance Experience
 
-Die Show der Boogarins im Cine Joia in São Paulo im Jahr 2018 war der Moment, in dem der Geist von Tropicália wieder zum Leben erweckt wurde.
+Die Show von Boogarins 2018 im Cine Joia in São Paulo war der Moment, in dem der Geist von Tropicália wieder zum Leben erweckt wurde.
 Hinter der Bühne befinden sich bewegte Bilder tropischer Pflanzen, eine Beleuchtung, die ein Gefühl von Feuchtigkeit vermittelt, und ein endloser Gitarrendröhn. Anstatt zu tanzen, „schwebte“ das Publikum und tauchte in den Klang ein.
 
 Die Zugabe von „Lucifernandis“ erzeugte einen chaotischen Sound, der wie das zweite Kommen von Os Mutantes klang, und der Jubel des Publikums erschütterte die Luft.
@@ -135,7 +135,7 @@ flowchart TD
 
 Der Geist von Tropicalia entwickelt sich auch nach einem halben Jahrhundert weiter. Durch die Verschmelzung von digitaler Aufnahme, KI-generierter Musik und bildender Kunst schaffen brasilianische Künstler „neue Halluzinationen“.
 Es ist keine Flucht vor der Realität, sondern eine Rekonstruktion der Realität.
-Die „Tropical Vision“ hallt immer noch irgendwo auf der Welt nach.
+Die „Tropical Vision“ hallt immer noch irgendwo auf der Welt wider.
 
 > „Psychedelia betrachtet die Realität in deinem Kopf.“
 > — Gilberto Gil

@@ -156,7 +156,7 @@ Er tritt in einem breiten Spektrum von Genres auf, darunter nicht nur Jazz, sond
 
 ### Begegnung und Beziehung mit Enoch Light
 
-- **Grand Award → Regelmäßiger Gitarrist während der Command Records-Ära**
+- **Grand Award → Regelmäßiger Gitarrist während der Command Records-Zeit**
 
 Als Enoch Light Grand Award and Command gründete, versammelte er New Yorks Top-Session-Talente. Unter ihnen ist Tony Mottola der Stammgitarrist.
 
@@ -180,8 +180,8 @@ Mottola war eine der Säulen, die Commands „Lounge/Easy-Listening-Route“ unt
 
 - **Command Records Stammgitarrist**
 
-Er nimmt fast immer an den Aufnahmen des von Light ins Leben gerufenen Grand Award~Command teil.
-Er war verantwortlich für die Durchführung von Gitarrenlokalisierungsexperimenten in der Reihe „Persuasive Percussion“ und anderen Werken.
+Er ist fast immer an den Aufnahmen von Grand Award~Command beteiligt, das von Light gegründet wurde.
+Er war verantwortlich für Gitarrenlokalisierungsexperimente in der Reihe „Persuasive Percussion“.
 
 - **Veröffentlichung eines Soloalbums**
 
@@ -213,7 +213,7 @@ Betont die Auswirkungen von Hall und Nachhallverarbeitung
 
 ### Aktuelle Situation und Auswirkungen
 
-Command Records selbst endete praktisch um 1970, aber ihre Werke sind immer noch in Form von Neuauflagen, hochwertigen Remastern und Neuauflagen für Audiophile im Umlauf. Überzeugende/provokative Lieder und Jacken werden weiterhin im Kontext von „Mid-Century-Design“ und Junggesellenabschiedskultur zitiert und sind auch Gegenstand von Sampling und Remixen. Sein Einfluss auf die moderne Hörkultur (Vintage-Audio-Hobbys, virtuelle Raumsimulationen usw.) ist beträchtlich.
+Command Records selbst endete praktisch um 1970, aber ihre Werke sind immer noch durch Neuauflagen, hochwertige Remaster und Neuauflagen für Audiophile im Umlauf. Überzeugende/provokative Lieder und Jacken werden weiterhin im Kontext von „Mid-Century-Design“ und Junggesellenabschiedskultur zitiert und sind auch Gegenstand von Sampling und Remixen. Sein Einfluss auf die moderne Hörkultur (Vintage-Audio-Hobbys, virtuelle Raumsimulationen usw.) ist beträchtlich.
 
 
 ---

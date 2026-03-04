@@ -17,7 +17,7 @@ title: '[Kolumne] Ween – Ein seltsames Universum, geboren aus einer Vorstadtga
 
 ## „Was ist Ween?“
 
-Text: mmr | Thema: Boognish, ein seltsamer Gott, geboren in einer Vorstadtgarage in Amerika. Von seinem Abstieg bis zur Lo-Fi-Alchemie und der Tiefsee-Mythologie zeichnet „The Mollusk“ das musikalische Universum nach, das von den seltsamen Brüdern Ween geschaffen wurde.
+Text: mmr | Thema: Boognish, ein seltsamer Gott, geboren in einer Vorstadtgarage in Amerika. Von seinem Abstieg bis zur Lo-Fi-Alchemie und der Tiefseemythologie zeichnet „The Mollusk“ das musikalische Universum nach, das von den seltsamen Brüdern Ween geschaffen wurde.
 
 
 > Eine versteckte Garage in einem Vorort von Amerika.
@@ -62,7 +62,7 @@ Die Geräusche, seltsamen Stimmen und ungewöhnlichen Tonartwechsel, die über d
 ### Gene und Dean – imaginäre Brüder oder spirituelle Doppelgänger?
 
 Gene und Dean.
-Der Klang ihrer Namen deutet auf „Brüder“ hin, aber sie sind nicht blutsverwandt.
+Obwohl der Klang ihrer Namen auf „Brüder“ schließen lässt, sind sie nicht blutsverwandt.
 Aber musikalisch waren sie fast wie Zwillinge.
 Gene ist die Verkörperung von Emotionen und Chaos, Dean ist der Meister des Bauens und Handwerks.
 In dem Moment, in dem die beiden aufeinandertreffen, entsteht das für Ween typische Chaos und die Magie.
@@ -103,7 +103,7 @@ In dieser Zeit lebte Ween „zwischen Streichen und experimenteller Musik“.
 > — *Dean Ween, Interview 1994*
 
 1994年の[『Chocolate and Cheese』](https://amzn.to/46LSWQo)は、  
-Es ist Weens erstes Meisterwerk, das aus der Lo-Fi-Höhle ins Studio kommt.
+Es ist Weens erster Durchbruch aus der Lo-Fi-Höhle ins Studio.
 Pop, Funk, Country, Progressive Rock, Soul... alles kollidiert,
 Vulgär und edel existieren auf wundersame Weise nebeneinander.
 
@@ -159,7 +159,7 @@ Der Klang selbst erzählt den Mythos der Tiefsee.
 Live Ween war völliges Chaos.
 „**Live in Toronto 1996**“ ignoriert die Reihenfolge der Songs.
 Lachen und Lärm prallen aufeinander, die Grenzen zum Publikum verschwimmen.
-Es war eher ein Ritual als eine Band.
+Es fühlte sich eher wie ein Ritual als wie eine Band an.
 
 > „Jede Show ist ein Zufall, der nur darauf wartet, schön zu sein.“
 > — *Dean Ween, 1997*
@@ -167,7 +167,7 @@ Es war eher ein Ritual als eine Band.
 Doch hinter den Kulissen gab es Konflikte zwischen Alkohol, Drogen, Müdigkeit und Freundschaft.
 Im Jahr 2008 verließ Gene Ween die Band aus persönlichen Gründen.
 Er überwand seine Alkoholabhängigkeit und begann einen ruhigen Weg der Genesung.
-Dean gründete die **Dean Ween Group** und verband die Seelen von Ween auf andere Weise.
+Dean gründete die **Dean Ween Group** und verband den Geist von Ween auf andere Weise.
 
 ---
 

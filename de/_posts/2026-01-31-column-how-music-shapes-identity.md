@@ -109,7 +109,7 @@ Diese Veränderung verwandelte die Beziehung zwischen Musik und dem Selbst in ei
 
 ### Bildung der Generationenidentität
 
-In der zweiten Hälfte des 20. Jahrhunderts wurden Musikgenres zu zentralen Indikatoren der Generationenidentität. Jazz symbolisierte Urbanisierung und Modernität, Rock verkörperte Rebellion und Freiheit. Punk drückte in kurzen, scharfen Klängen eine Ablehnung der etablierten Ordnung aus und Hip-Hop wurde zu einer Möglichkeit, über marginalisierte Erfahrungen zu sprechen.
+In der zweiten Hälfte des 20. Jahrhunderts wurden Musikgenres zu zentralen Markern der Generationenidentität. Jazz symbolisierte Urbanisierung und Modernität, Rock verkörperte Rebellion und Freiheit. Punk drückte in kurzen, scharfen Klängen eine Ablehnung der etablierten Ordnung aus und Hip-Hop wurde zu einer Möglichkeit, über marginalisierte Erfahrungen zu sprechen.
 
 Für junge Menschen war die von ihnen gewählte Musik ein Akt, um zu zeigen, mit welchen Werten sie in Resonanz stehen. Ebenso wie die Art und Weise, wie wir uns kleiden und wie wir sprechen, ist unser Musikgeschmack der Kern unseres Selbstausdrucks.
 
@@ -130,7 +130,7 @@ timeline
 
 ### Vertretung derer ohne Stimme
 
-Auch für sozial unterdrückte Menschen war Musik ein wichtiges Ausdrucksmittel. Blues erzählte persönliche Geschichten über harte Arbeit und Diskriminierung, und Reggae verbreitete im Rhythmus politische Botschaften. Diese Musik bot eine Plattform zum Teilen von Emotionen, die in der Mainstream-Sprache nicht ausgedrückt werden konnten.
+Auch für sozial unterdrückte Menschen war Musik ein wichtiges Ausdrucksmittel. Der Blues erzählte persönliche Geschichten von Erfahrungen harter Arbeit und Diskriminierung und Reggae verbreitete im Rhythmus politische Botschaften. Diese Musik bot eine Plattform zum Teilen von Emotionen, die in der Mainstream-Sprache nicht ausgedrückt werden konnten.
 
 > Musik war eine andere Sprache für diejenigen, die zum Schweigen gezwungen wurden.
 
@@ -150,7 +150,7 @@ Radio und Fernsehen schufen ein Gefühl des gleichzeitigen gemeinsamen Musikerle
 
 ### Hörer als Auswahlsubjekt
 
-Im Streaming-Zeitalter ist Musik zu einer endlosen Auswahl geworden. Anstatt Lieder passiv anzuhören, wählen, arrangieren und teilen Menschen Lieder entsprechend ihrer Stimmung und Werte. Eine Playlist ist ein narratives Mittel, das fragmentierte Selbstbilder miteinander verbindet.
+Im Streaming-Zeitalter ist Musik zu einer endlosen Auswahl geworden. Anstatt sich Lieder passiv anzuhören, wählen, arrangieren und teilen Menschen Lieder entsprechend ihrer Stimmung und Werte. Eine Playlist ist ein narratives Mittel, das fragmentierte Selbstbilder miteinander verbindet.
 
 > Die Songauswahl ist zu einer Form der Selbstvorstellung geworden.
 

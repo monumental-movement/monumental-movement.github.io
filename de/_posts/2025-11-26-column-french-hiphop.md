@@ -80,7 +80,7 @@ flowchart TD
 ### 2-1. NTM-Social-Botschaft
 
 NTM entwickelte sich in den 1990er Jahren zu einer Gruppe, die den französischen Hip-Hop vertrat.
-Hauptwerke und Funktionen:
+Hauptwerke und Merkmale:
 
 1. **Suprême NTM (1993)**
 - Darstellung der Realität der Pariser Vororte

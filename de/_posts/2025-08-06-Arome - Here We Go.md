@@ -14,7 +14,7 @@ title: Arome – Los geht's
 ---
 
 
-Frank Zenker, auch bekannt als Arome, ist ein Hard-Trance/Tech-Trance-DJ und Produzent aus Deutschland, besser bekannt als Scot Project. Die unter dem Namen Arome veröffentlichte Musik weist einen stärkeren Einfluss von Tech-Trance und Techno auf als unter dem Namen Scot Projec, was zu einem härteren und minimalistischeren Hard-Trance-Stil führt.
+Frank Zenker, auch bekannt als Arome, ist ein Hard-Trance/Tech-Trance-DJ und Produzent aus Deutschland, besser bekannt als Scot Project. Die unter dem Namen Arome veröffentlichte Musik hat einen stärkeren Einfluss von Tech-Trance und Techno als unter dem Namen Scot Projec, was zu einem härteren und minimalistischeren Hard-Trance-Stil führt.
 
 „Here We Go“, veröffentlicht im Jahr 2000, ist Aromes Meisterwerk und gilt als Hard-Trance-Klassiker.
 

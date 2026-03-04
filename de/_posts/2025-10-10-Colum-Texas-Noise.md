@@ -20,10 +20,10 @@ title: '[Kolumne] Noise Desert: Von der Texas-Szene der 2000er Jahre bis zur Geg
 Text: mmr｜Thema: Von Charalambides bis Black Leather Jesus, eine Nachverfolgung der Genealogie des südlichen experimentellen Sounds – Texas Noise in den 2000er Jahren und sein aktueller Zustand
 
 
-Von Ende der 1990er bis Anfang der 2000er Jahre hat die als Noise bekannte Musik in der weiten Landschaft des amerikanischen Südens Fuß gefasst.
+Von Ende der 1990er bis Anfang der 2000er Jahre hat sich Noise-Musik in der weiten Landschaft des amerikanischen Südens etabliert.
 Während New York und Los Angeles „Kunststädte“ waren, die in Kunstgalerien und Underground-Clubs Noise-Musik entwickelten, entwickelte Texas seine Grammatik als Ort der geografischen Isolation und des persönlichen Experimentierens.
 
-Houston, Austin und San Antonio – oberflächlich betrachtet mögen diese Städte die „Heimatländer von Country und Blues“ sein, aber hinter den Kulissen wurden still und leise **Tape-Collage, Nichtmusik und Drone** kultiviert.
+Houston, Austin und San Antonio – oberflächlich betrachtet mögen diese Städte die „Heimatländer von Country und Blues“ sein, doch hinter den Kulissen wurden in aller Stille **Tape-Collage, Nicht-Musik und Drone** kultiviert.
 
 ---
 

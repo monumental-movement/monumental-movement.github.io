@@ -42,7 +42,8 @@ color: #fff;
 
 #### João Gilberto
 
-- **ソロアルバム**: [『Chega de Saudade』（1959年）](https://amzn.to/3W7J1yt)、[『O Amor, o Sorriso e a Flor』（1960年）](https://amzn.to/4mXnymQ)
+- **ソロアルバム**: [『Chega de Saudade』（1959年）](https://amzn.to/3W7J1yt)、[『O Amor, o Sorriso e a Flor』（1960年）](https://amzn.to/4mXnymQ) 
+
 - **コラボレーション**: スタン・ゲッツとの共演アルバム[『Getz/Gilberto』（1964年）](https://amzn.to/4nAx9Ry) 
 ---
 
@@ -210,13 +211,21 @@ Bossa Nova hat verschiedene Genres wie Jazz, Pop und klassische Musik beeinfluss
 
 ## Zusammenfassung
 
-Bossa Nova ist ein seltenes Genre, das Ende der 1950er Jahre in einer Wohnung in Rio de Janeiro begann und die musikalische Weltkarte neu geschrieben hat. João Gilbertos flüsternde Gitarre und Stimme, Antonio Carlos Jobims anspruchsvolle Kompositionen, Stan Getz' Jazz-Interpretation und Sergio Mendes' Pop-Internationalismus. Obwohl ihre individuellen Persönlichkeiten und Aktivitäten unabhängig voneinander sind, sind sie organisch miteinander verbunden und werden im Laufe der Jahrhunderte weiterhin gehört.
+Bossa Nova ist ein seltenes Genre, das Ende der 1950er Jahre in einer Wohnung in Rio de Janeiro begann und die musikalische Weltkarte neu geschrieben hat. João Gilbertos flüsternde Gitarre und Stimme, Antonio Carlos Jobims anspruchsvolle Kompositionen, Stan Getz' Jazz-Interpretation und Sergio Mendes' Pop-Internationalisierung. Obwohl ihre individuellen Persönlichkeiten und Aktivitäten unabhängig voneinander sind, sind sie organisch miteinander verbunden und werden im Laufe der Jahrhunderte weiterhin gehört.
 
 Auch heute noch geht das Wort „Bossa Nova“ über eine reine Musikgenre hinaus und fungiert als Symbol für „brasilianische Kultur“ und eine „entspannte Atmosphäre“. Durch digitale Plattformen wie Spotify und YouTube wird es von der jüngeren Generation frisch aufgenommen und taucht häufig in KI-Empfehlungen und Playlists auf.
 
 Der Charme von Bossa Nova liegt in seiner einzigartigen Musikalität, die die Freiheit des Jazz, den Rhythmus des Samba und den Sinn für Harmonie klassischer Musik vereint. Betrachtet man seine Geschichte, so spiegeln sich darüber hinaus auch gesellschaftliche Hintergründe wie der internationale Kulturaustausch während des Kalten Krieges, die Urbanisierung in Brasilien und die Interaktion mit dem amerikanischen Musikmarkt wider.
 
 Indem Sie Alben und Diskographie verfolgen und Anekdoten aus der Zeit und dem Leben der Künstler kennenlernen, werden Sie in der Lage sein, Bossa Nova besser zu verstehen. Die Musik selbst erklingt als wohltuender „heilender“ Klang, kann aber gleichzeitig auch als „Dokument“ genossen werden, das den Zeitgeist widerspiegelt. Das ist der wahre Wert des kulturellen Erbes von Bossa Nova.
+
+---
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vix6v78xnH0?si=Z3TTlYeFjDtmTi_q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

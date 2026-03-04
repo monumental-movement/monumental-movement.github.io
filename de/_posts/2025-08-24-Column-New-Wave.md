@@ -17,7 +17,7 @@ title: '[Kolumne] New Wave: Die Schnittstelle zwischen Post-Punk-Musikinnovation
 ## New Wave ist nicht nur ein Genre, sondern ein „Zeitgefühl“, das den experimentellen Geist der Post-Punk-Ära erbt und verschiedene Musik und Kulturen vereint.**
 
 
-Text: mmr｜Thema: Kunstbewegungen in der Post-Punk-Ära
+Text: mmr｜Thema: Kunstbewegung der Post-Punk-Ära
 
 <hr>
 
@@ -129,7 +129,7 @@ New Wave war ein wichtiger Wendepunkt in der Musikgeschichte, da es „Genregren
 
 ### Kunstbewegung der Post-Punk-Ära, kein Genre
 
-New Wave entstand in den 1970er Jahren aus dem Punk und war eine wichtige Bewegung in der Musikgeschichte, die elektronische Technologie einbezog, genreübergreifend war und gesellschaftskritisch war. Gleichzeitig handelte es sich um eine umfassende kulturelle Bewegung, die die urbane Kultur der 1980er Jahre symbolisierte und Mode, Video, Kunst und Lebensstil umfasste.
+New Wave entstand in den 1970er Jahren aus dem Punk und war eine wichtige Bewegung in der Musikgeschichte, die elektronische Technologie einbezog, genreübergreifend war und gesellschaftskritisch war. Gleichzeitig war es eine umfassende kulturelle Bewegung, die die urbane Kultur der 1980er Jahre symbolisierte und Mode, Video, Kunst und Lebensstil umfasste.
 
 New Wave ist eine „umfassende Kunst der Ära“, in der Musik, Kunst, Gesellschaftskritik und Mode eng miteinander verbunden sind.
 

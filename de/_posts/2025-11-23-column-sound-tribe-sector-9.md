@@ -130,7 +130,7 @@ Die Live-Struktur der gleichen Zeit war
 Das Publikum wechselte zu einem Floor-/Festival-ähnlichen Erlebnis mit der Prämisse des „Tanzens“.
 
 Wichtig hierbei ist, dass STS9 eine Technik verfolgte, um die „Textur elektronischer Musik“ mit Gitarre und Bass zu reproduzieren.
-Viele Teile durchliefen die Effektkette und schufen so eine Charakteristik, in der sich das redaktionelle Denken in der DAW direkt in der Live-Performance widerspiegelte.
+Viele Teile durchliefen die Effektkette, wodurch sich die Eigenschaft ergab, dass sich das redaktionelle Denken in der DAW direkt in der Live-Performance widerspiegelte.
 
 ---
 
@@ -168,7 +168,7 @@ Bei den Live-Arrangements gab es viele Versuche, vergangene Songs im EDM-Stil zu
 
 ## 5-3. Aktueller STS9
 
-In den 2020er Jahren behauptete STS9 eine feste Position als Festival-Headliner, veranstaltete gleichzeitig seine eigene Veranstaltung „WAVE SPELL“ und verstärkte seine gemeinschaftsähnlichen Aktivitäten.
+In den 2020er Jahren hat sich STS9 eine feste Position als Festival-Headliner behauptet, veranstaltete aber auch seine eigene Veranstaltung „WAVE SPELL“ und verstärkte seine gemeinschaftsähnlichen Aktivitäten.
 
 ---
 
@@ -276,7 +276,7 @@ Sie haben ein neues Genre etabliert, das eine Brücke zwischen elektronischer Mu
 
 ## 11-2. Starke Bindung zur Festivalkultur
 
-Die Live-Shows von STS9 passen gut zu Festivals.
+Die Live-Shows von STS9 passen gut zu Festivals,
 - Bonnaroo
 - Elektrischer Wald
 - Suwannee Hulaween

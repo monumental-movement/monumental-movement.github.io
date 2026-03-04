@@ -19,7 +19,7 @@ title: '[Spalte] Plastikman | Richie Hawtin – Die Tiefen des Minimalismus und 
 
 Text: mmr｜Thema: Gedanken darüber, wie Plastikman, der den Geist der zweiten Generation des Detroit-Techno geerbt hat, den Sound bis aufs Äußerste reduzierte und ihn zu einer Kunst sublimierte, die es einem ermöglicht, den „Nachhall“ des Rhythmus selbst zu hören.
 
-Richie Hawtin definiert „Techno“ seit den frühen 1990er Jahren neu, nicht nur als Tanzmusik, sondern als „Klangmeditationsgerät“. Seine Arbeiten unter dem Namen Plastikman, insbesondere „_Sheet One_“ (1993) und „_Consumed_“ (1998), sind **ein Experiment zur Visualisierung des Innenraums des menschlichen Körpers mithilfe von elektronischem Klang.** Der Klang, der einer kalten Flüssigkeit ähnelt, wird auch „abstrakte Klangskulptur“ genannt.
+Richie Hawtin definiert „Techno“ seit den frühen 1990er Jahren neu, nicht nur als Tanzmusik, sondern als „Klangmeditationsgerät“. Seine Arbeiten unter dem Namen Plastikman, insbesondere „_Sheet One_“ (1993) und „_Consumed_“ (1998), sind **Experimente zur Visualisierung des Innenraums des menschlichen Körpers mit elektronischem Klang**, und der Klang, der einer kalten Flüssigkeit ähnelt, wird auch „abstrakte Klangskulptur“ genannt.
 
 
 
@@ -91,7 +91,7 @@ Mit dieser Arbeit ist Hawtin der erste Künstler, der „Minimalismus“ mit „
 
 ## Kapitel 4: Technologie und der Körper – Neuaufbau des LIVE-Konzepts
 Hawtin leistete auch Pionierarbeit bei der Verschmelzung von Technologie und Leistung.
-In den 2000er Jahren definierte er mit der DE9-Serie das DJ-Spiel neu und etablierte den „Prototyp des digitalen DJs“, der Ableton Live und Traktor nutzt, um Tracks in Echtzeit zu rekonstruieren.
+In den 2000er Jahren **definierte er das DJ-Spiel neu** mit der „DE9“-Serie und etablierte den „**Prototyp des digitalen DJs**“, der Ableton Live und Traktor nutzte, um Tracks in Echtzeit zu rekonstruieren.
 
 Auf seiner Bühne wurde eine Umgebung aufgebaut, in der MacBook, MIDI-Controller, Beleuchtung und Video vollständig synchronisiert waren und ein neues Konzept von „Live = Atemdaten“** präsentierte.
 
@@ -242,7 +242,7 @@ graph TD
 ---
 
 
-## Illustration: Struktur des Plastikman-Sounds
+## Illustration: Plastikman-Klangstruktur
 
 <div class="mermaid">
 

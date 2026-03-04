@@ -45,7 +45,7 @@ color: #fff;
 
 ## Strukturannahmen in Metall
 
-Um Avantgarde-Metal zu verstehen, muss zunächst geklärt werden, worauf normaler Metal basiert.
+Um Avantgarde-Metal zu verstehen, muss zunächst geklärt werden, was die Prämisse hinter regulärem Metal ist.
 
 Traditionelles Metall wurde als eine Sammlung struktureller Annahmen wie die folgenden gebildet.
 
@@ -63,7 +63,7 @@ Avantgarde Metal bestreitet diese Annahmen nicht teilweise, sondern entkräftet 
 
 Bei Avantgarde geht es nicht um Exzentrizität oder Radikalität, sondern vielmehr um die Fähigkeit, bestehende Grammatik von innen heraus zu demontieren.
 
-Der Grund dafür, dass Avantgarde-Metal als schwierig empfunden wird, liegt nicht an seinem übermäßigen emotionalen Ausdruck, sondern daran, dass die Strukturen, auf die sich die Zuhörer unbewusst verlassen haben, nicht mehr funktionieren. Der Beat ist präsent, aber unzuverlässig, das Riff ist präsentiert, bleibt aber nicht hängen, und obwohl es sich weiterentwickelt, werden die Vorhersagen nicht wahr.
+Der Grund, warum Avantgarde-Metal als schwierig empfunden wird, liegt nicht an seinem übermäßigen emotionalen Ausdruck, sondern daran, dass die Strukturen, auf die sich die Hörer unbewusst verlassen haben, nicht mehr funktionieren. Der Beat ist präsent, aber unzuverlässig, das Riff ist präsentiert, bleibt aber nicht hängen, und obwohl es sich weiterentwickelt, werden die Vorhersagen nicht wahr.
 
 ---
 
@@ -113,7 +113,7 @@ Dieser Rhythmus ist kein Polyrhythmus, sondern sollte als beat-dekonstruierter R
 
 ## Albumanalyse: Gorguts „Obscura“
 
-In Obscura werden Gorguts‘ Strukturideen in extremer Form umgesetzt. Die Songs sind keine Ansammlung von Riffs, sondern eine Kette fragmentierter Tonhöhenanordnungen und instabiler Rhythmen.
+In Obscura werden Gorguts' Strukturideen in extremer Form umgesetzt. Die Songs sind keine Ansammlung von Riffs, sondern eine Kette fragmentierter Tonhöhenanordnungen und instabiler Rhythmen.
 
 * Es gibt keine hierarchische Beziehung zwischen den Riffs
 * Eine Änderung der Taktart weist nicht auf eine strukturelle Änderung hin
@@ -177,7 +177,7 @@ In dieser Arbeit geht die Trennung der Strukturen noch weiter. Die Lieder sind e
 | Methode | Abriss | Schichtung |
 | Zeit | Bruch | Parallel |
 | Rhythmus | Zerstörung des Pulsgefühls | Atemkontrolle |
-| Dissonanz | Strukturelle Bewaffnung | Raumproduktion |
+| Dissonanz | Strukturelle Bewaffnung | Raumrichtung |
 
 ---
 

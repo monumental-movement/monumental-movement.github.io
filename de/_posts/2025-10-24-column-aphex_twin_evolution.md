@@ -20,7 +20,7 @@ title: '[Kolumne] Die Anfänge und die Gegenwart von Aphex Twin – jenseits des
 
 Text: mmr｜Thema: Vergleich der frühen Werke von Aphex Twin mit ihren aktuellen Errungenschaften und kritische Interpretation der Veränderungen in ihrer akustischen Struktur, Philosophie und Technologie.
 
-In den frühen 1990er-Jahren trat Richard D. James (Aphex Twin) als jemand hervor, der die bestehende Grammatik von Genres wie Techno und Ambient völlig auf den Kopf stellte. Seine frühen Werke sind **Klangexperimente, bei denen Maschinenträume und menschliche Illusionen ineinandergreifen**, und sein aktueller Sound bewegt sich zwischen **künstliche Intelligenz-ähnlichen Strukturen und der Rückkehr der Nostalgie**.
+In den frühen 1990er-Jahren trat Richard D. James (Aphex Twin) als jemand hervor, der die bestehende Grammatik von Genres wie Techno und Ambient völlig auf den Kopf stellte. Seine frühen Werke sind Klangexperimente, in denen sich mechanische Träume und menschliche Illusionen vermischen, und sein aktueller Klang liegt zwischen einer Struktur künstlicher Intelligenz und einer Rückkehr zur Nostalgie.
 
 Im Folgenden werden wir diese „Veränderungen“ und „Unveränderungen“ auf den vier Achsen Arbeit, Technologie, Ästhetik und Ideologie vergleichen und untersuchen.
 
@@ -86,7 +86,7 @@ Es ist erstaunlich, dass sie diese Komplexität in einer Pre-DAW-Umgebung gescha
 ### 2.2 „Come to Daddy“ „Windowlicker“ ─ Medien und Albtraum
 
 Von 1997 bis 1999 verband Aphex Twin Musik mit „visuellem Horror“.
-Die in Zusammenarbeit mit Chris Cunningham gegründete PV-Gruppe **übersetzte die Instabilität des elektronischen Klangs in die Amorphität von Bildern**.
+Die in Zusammenarbeit mit Chris Cunningham gegründete PV-Gruppe **wandelte die Instabilität des elektronischen Klangs in die Amorphität von Bildern um**.
 
 Ungefähr zu der Zeit, als MTV ihn als „seltsamstes Genie“ bezeichnete
 Er spürte bereits, dass seine Musik Gefahr lief, in die Populärkultur aufgenommen zu werden.
@@ -133,7 +133,7 @@ Mit anderen Worten: Seine Musik ist ein Testfeld für den Post-KI-Humanismus.
 
 | Artikel | Früh (1990–1995) | Aktuell (2014–2025) |
 |------|----|------|
-| Technologie | Hauptsächlich analoge Geräte und Sampler | Modulare + digitale Algorithmen |
+| Technologie | Analoge Geräte, hauptsächlich Sampler | Modulare + digitale Algorithmen |
 | Klangtextur | Organisch, zufällig, materiell | Geometrisch, informativ, transparent |
 | Ästhetik | Koexistenz von Lärm und Rhythmus | Symbiose aus Daten und Emotionen |
 | Gegenstand des Ausdrucks | Innere Welt/Körper des Individuums | Grenze zwischen Mensch und Maschine |

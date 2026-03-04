@@ -9,7 +9,7 @@ permalink: /de/man-to-man-cyclone/
 tags:
 - Techno
 - 00s
-title: Von Mann zu Mann – Zyklon
+title: Mann-zu-Mann – Zyklon
 ---
 
 

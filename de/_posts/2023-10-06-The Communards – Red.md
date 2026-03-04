@@ -13,11 +13,11 @@ title: Die Kommunarden – Rot
 ---
 
 
-„Red“ ist ein Album des britischen Musikduos The Communards. Dieses Album wurde 1987 veröffentlicht. The Communards sind eine von Jimmy Somerville und Richard Coles gegründete Band, die für ihre Musik bekannt ist, die Elemente von Dance-Pop und Synth-Pop enthält.
+"Red" is an album by the British music duo The Communards. Dieses Album wurde 1987 veröffentlicht. The Communards sind eine von Jimmy Somerville und Richard Coles gegründete Band, die für ihre Musik bekannt ist, die Elemente von Dance-Pop und Synth-Pop enthält.
 
 „Red“ ist das Debütalbum der Communards und gilt weithin als eines ihrer erfolgreichsten Werke. Das Album enthält Songs mit emotionalem Gesang und tanzbaren Beats.
 
-Das Album enthält Hitsingles wie „Don’t Leave Me This Way“ und „Never Can Say Goodbye“. Diese Songs waren aufgrund des unverwechselbaren Sounds und der Beliebtheit der Communards auf der Tanzfläche kommerziell erfolgreich.
+Das Album enthält Hitsingles wie „Don’t Leave Me This Way“ und „Never Can Say Goodbye“. These songs were commercially successful due to The Communards' distinctive sound and dance floor popularity.
 
 #### Trackliste
 ```md

@@ -56,7 +56,7 @@ Er erhielt eine klassische Jazzausbildung und beherrschte komplexe Rhythmen und 
 
 ### 2.3 Begegnung mit elektronischer Musik
 
-Nachdem er mit Acid House und frühem Techno in Berührung gekommen war, begann er, zu Hause mit Akai S1000 und TR-808/909 aufzunehmen.
+Nachdem er Acid House und frühen Techno kennengelernt hatte, begann er zu Hause mit Akai S1000 und TR-808/909 aufzunehmen.
 
 ---
 
@@ -101,7 +101,7 @@ graph TD
 
 ### 4.2 Jazz-Fusion-Einfluss
 
-* Stark improvisiertes Bassspiel
+* Stark improvisierte Bass-Performance
 * Fusionselemente in Akkordfolgen und Phrasen
 
 ### 4.3 Analoge + digitale Fusion
@@ -286,7 +286,7 @@ graph TD
 ## 7. Bewertung/Auswirkung
 
 * IDM, Drum-and-Bass-Pionier
-* Säule der Goldenen Ära von Warp Records
+* Warp Records-Säule der goldenen Ära
 * Technische Präzision + improvisatorische Fusion + Innovationsbewertung
 
 ---

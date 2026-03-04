@@ -49,9 +49,9 @@ color: #fff;
 
 ---
 
-## 1. Von „Pass“ zu „Orbit“: die Abstufung des von Eurobeat nachgezeichneten musikalischen Raums
+## 1. Von „Pass“ zu „Trajectory“: die Abstufung des von Eurobeat nachgezeichneten musikalischen Raums
 
-Wie in den beiden vorherigen Werken erwähnt, war der Eurobeat in Initial D untrennbar mit Touges Geschichte verbunden.
+Wie in den beiden vorherigen Werken erwähnt, war der Eurobeat in Initial D untrennbar mit Toges Geschichte verbunden.
 Allerdings war es nicht nur ein Hilfsmittel für das Gelände und die visuelle Produktion, sondern ein **Gerät, das die Verzerrung der Zeit in Ton übersetzte**.
 
 Rückblickend können wir sagen, dass Eurobeat ein Genre war, das die „innere Zeit eines laufenden Körpers“ akustisch visualisierte.
@@ -73,7 +73,7 @@ Und jetzt beginnt sein Nachhall im Internetraum erneut zu pulsieren.
 
 In den 2020er Jahren gibt es viele junge Künstler, die bewusst das Eurobeat-ähnliche „Gefühl der Beschleunigung“ zitieren.
 Wenn Sie beispielsweise den Tags „Eurobeat Remake“ und „Nightcore Revival“ auf YouTube folgen,
-Man sieht, dass unzählige Tracks an der Schnittstelle von EDM, Anime-Kultur und Game-Musik entstehen.
+Man sieht, dass unzählige Tracks an der Schnittstelle von EDM, Anime-Kultur und Spielemusik entstehen.
 
 Der Aufbau von EDM, der Stimmschwung von Hyperpop, der Melodieanstieg von Trance.
 Was sie durchdringt, ist die Idee eines „Klangs, der Auftrieb schafft“.
@@ -146,7 +146,7 @@ Die Ära, in der „Ihr Auto zum Song wird“, beginnt auf dem Prüfstand bereit
 
 ### ● Eurobeat-Revival von SNS
 
-Auf TikTok und YouTube ist die Zahl der Posts, die „Eurobeat x eigenes Fahrvideo“ kombinieren, explosionsartig gestiegen.
+Auf TikTok und YouTube ist die Zahl der Posts, die „Eurobeat x dein eigenes Fahrvideo“ kombinieren, explosionsartig gestiegen.
 Dabei handelt es sich nicht nur um Nostalgie, sondern um ein „neues Format zum Teilen des Fahrgefühls“.
 Es handelt sich sozusagen um ein „Speed-Sharing-Medium“.
 
@@ -210,6 +210,14 @@ Die Scheinwerfer, die einst den Bergpass beleuchteten,
 
 > Eurobeat ist noch nicht vorbei.
 > Es geht nur darum, den Ort zu ändern, an dem man läuft.
+
+---
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2It7HPi2Ing?si=0hZVnLYZfEdLFICn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

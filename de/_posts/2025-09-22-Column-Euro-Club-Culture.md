@@ -132,7 +132,7 @@ Nostalgischer und dennoch funktionaler Sound für Open-Air- und Festivalszenen
 ### Fazit: Euro lebte an der Grenze zwischen „Pop“ und „Club“
 
 Euro-Musik war nicht nur „lässige Chartmusik“ oder „harte Club-Tracks“.
-Ihr wahrer Wert liegt in der Tatsache, dass es Musik war, die ein Gleichgewicht zwischen Medien und Untergrund, Melodie und Rhythmus, System und Körperlichkeit aufrechterhielt.
+Ihr wahrer Wert liegt in der Musik, die ein Gleichgewicht zwischen Medien und Underground, Melodie und Rhythmus, System und Körperlichkeit aufrechterhält.
 
 Hören Sie es im Radio und tanzen Sie im Club.
 Das war vielleicht die „richtigste“ Art, den Euro in den 1990er Jahren auszugeben.

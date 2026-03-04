@@ -40,7 +40,7 @@ color: #fff;
 
 ---
 
-## 1. Prolog: Wo Wissenschaft und Musik aufeinandertreffen
+## 1. Prolog: Wo Wissenschaft und Musik aufeinander treffen
 
 Der **Ig-Nobelpreis** ist als „exzentrischer kleiner Bruder“ des Nobelpreises bekannt.
 Seit seiner Gründung im Jahr 1991 durch die amerikanische satirische Wissenschaftszeitschrift *Annals of Improbable Research*
@@ -83,8 +83,8 @@ Es wurde als eine Idee hoch gelobt, die die Grenzen zwischen Kunst und Wissensch
 
 ### 2.2 2017: Forschung zum „Vaginal Music Player“.
 
-Im Jahr 2017 wurde eine Studie des **Institut Marquès** in Barcelona, ​​​​Spanien, durchgeführt
-Gewinner des Ig-Nobelpreises für Medizin.
+Im Jahr 2017 wurde eine Studie des **Institut Marquès** in Barcelona, ​​Spanien, durchgeführt
+Er gewann den Ig-Nobelpreis für Medizin.
 Dieses Team entwickelte einen **intravaginalen Lautsprecher** namens „Babypod“,
 Wir haben untersucht, wie Föten im Mutterleib auf musikalische Reize reagieren.
 

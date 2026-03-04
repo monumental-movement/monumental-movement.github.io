@@ -21,7 +21,7 @@ title: '[Spalte] Chor/Gesang experimentell'
 Text: mmr｜Thema: Historische Entwicklung, repräsentative Künstler, Technikanalyse, Tonaufnahme-/Videokontext, zeitgenössische Arbeitstrends
 
 „Choral/Vocal Experimental“ ist ein Bereich, der aus der Schnittstelle von experimenteller Musik, akustischer Forschung und elektroakustischen Ideen aus der zweiten Hälfte des 20. Jahrhunderts zur ältesten Musikform des Chors entstanden ist.
-Seine Besonderheit besteht darin, dass es über die bloße Suche nach der Schönheit von Harmonien hinausgeht und eine Vielzahl von Techniken umfasst, darunter die Erforschung akustischer Phänomene unter Verwendung der Stimme als Material, Räumlichkeit, mikrotonale Manipulation, Phasenstruktur und Fusion mit elektronischer Verarbeitung.
+Seine Besonderheit besteht darin, dass es über die bloße Suche nach der Schönheit von Harmonien hinausgeht und eine Vielzahl von Techniken umfasst, darunter die Erforschung akustischer Phänomene unter Verwendung von Stimme als Material, Räumlichkeit, mikrotonale Manipulation, Phasenstruktur und Fusion mit elektronischer Verarbeitung.
 Dieser Trend stellte einen neuen Hörstil für die traditionelle Chorkultur dar und hatte große Auswirkungen auf die akustische Kunst insgesamt.
 
 ---
@@ -177,7 +177,7 @@ Aktuelle Experimente verwenden manchmal Echtzeitverarbeitung und Mehrkanalvertei
 * Tonhöhenverschiebung
 * Granulare Verarbeitung
 
-Damit wird das statische Bild des Chores vollständig aufgelöst und die Partikelisierung und räumliche Verteilung der Stimmen zum Zentrum der musikalischen Struktur.
+Damit wird das statische Bild des Chores vollständig aufgelöst und die **partikuläre/räumliche Verteilung der Stimmen** zum Zentrum der musikalischen Struktur.
 
 ---
 

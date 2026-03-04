@@ -57,7 +57,7 @@ Mit der Verbreitung der Drucktechnik wurde die Poesie auf Papier fixiert und der
 
 ---
 
-## Avantgarde-Kunst des 20. Jahrhunderts und die Befreiung der Stimme
+## Avantgarde-Kunst des 20. Jahrhunderts und die Befreiung der Stimmen
 
 ### Dada und Audio-Poesie
 
@@ -189,7 +189,7 @@ In Radiowerken wird die Sendezeit selbst zur Struktur. Poesie wurde als zeitlich
 
 ### Der Körper, der Stimme gibt
 
-Das Lesen von Gedichten ist ein Ausdruck, der einem die Existenz nicht nur der Stimme, sondern auch des Körpers deutlich bewusst macht. Atmung, Haltung und Bewegung beeinflussen die Qualität der Stimme, und das Rezitieren ist auch mit der visuellen Leistung verbunden.
+Das Lesen von Gedichten ist ein Ausdruck, der einem die Existenz nicht nur der Stimme, sondern auch des Körpers deutlich bewusst macht. Atmung, Haltung und Bewegung beeinflussen die Qualität der Stimme, und das Rezitieren ist auch mit der visuellen Leistung verknüpft.
 
 ### Die Bedeutung der Improvisation
 
@@ -203,7 +203,7 @@ Bei der Zusammenarbeit mit Klangkunst sind improvisatorische Lautäußerungen un
 
 ### Eine Stimme, die über die Bedeutung hinausgeht
 
-Das Vorlesen in verschiedenen Sprachen rückt den Rhythmus und die Intonation der Stimme in den Vordergrund, während das Verständnis der Bedeutung unvollständig wird. Dies hat eine hohe Affinität zur Audiopoesie und Klangkunst.
+Das Vorlesen in einer anderen Sprache rückt den Rhythmus und die Intonation der Stimme in den Vordergrund, während das Verständnis der Bedeutung unvollständig wird. Dies hat eine hohe Affinität zur Audiopoesie und Klangkunst.
 
 ### Multikultureller Raum
 

@@ -90,7 +90,7 @@ Im Mittelpunkt stand dabei das **CBS Sony Shinanomachi Studio**.
 ### ▼ Analoge Aufnahmespitze
 - Verwendete Ausrüstung: Studer A80/A800 24tr, NEVE-Konsole
 - Rhythmus: Live-Schlagzeug + analoge Aufnahme
-- Gitarre: Warmer Klang durch Kompressor
+- Gitarre: warmer Klang durch Kompressor
 - Refrain: „Dense Layering“, einzigartig bei Analog
 - Reverb: EMT 140-Platte mit Lexicon-Vorverzögerung
 
@@ -155,7 +155,7 @@ Tatsuro sagt: „Selbst bei der digitalen Aufnahme kann man ein Temperaturgefüh
 # 6. 2000er Jahre: Die Reife der digitalen Produktion und die Etablierung von „analog digital“
 
 ## ■ Aufnahmephilosophie der 2000er Jahre
-- Die Produktionsumgebung ist vollständig digital
+- Die Produktionsumgebung ist vollständig digitalisiert
 - Konzentrieren Sie sich jedoch während der Aufnahmephase auf die Mikrofonauswahl und den Raumklang.
 - „Entwerfen Sie analoge Texturen, auch wenn sie digital sind“
 
@@ -191,7 +191,7 @@ Tatsuro behält im digitalen Zeitalter die folgende Haltung bei:
 - Vermeiden Sie übermäßigen Schalldruck
 - Behält die Rundheit des Hochtonbereichs und die Dicke des Mitteltonbereichs bei
 
-Insbesondere sein neuestes Werk hat einen Sound, der eine Verschmelzung von „analoger Rundheit“ und „digitalem Informationsgehalt“ auf hohem Niveau darstellt.
+Insbesondere sein neuestes Werk hat einen Klang, der eine Verschmelzung von „analoger Rundheit“ und „digitalem Informationsgehalt“ auf hohem Niveau darstellt.
 
 ---
 

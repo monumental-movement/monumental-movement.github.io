@@ -65,7 +65,7 @@ Diese Hüllen enthielten bereits zwei Elemente, die für spätere virtuelle Band
 
 ### Einrichtung einer Umgebung, in der Charaktere „aktiviert“ werden können
 
-Von Ende der 1990er bis Anfang der 2000er Jahre entwickelten sich Computergrafik, das Internet und die digitale Musikproduktionsumgebung rasant. Dadurch handelt es sich bei den Charakteren nicht nur um Illustrationen, sondern um Charaktere, die sich im Video bewegen und wachsen und zu Einheiten werden, die kontinuierlich zur Schau gestellt werden können.
+Von Ende der 1990er bis Anfang der 2000er Jahre entwickelten sich CG, das Internet und die digitale Musikproduktionsumgebung rasant. Dadurch handelt es sich bei den Charakteren nicht nur um Illustrationen, sondern um Charaktere, die sich im Video bewegen und wachsen und zu Einheiten werden, die kontinuierlich zur Schau gestellt werden können.
 
 Was die Musikproduktion anbelangt, ist mit der Verbreitung von DAWs und Sampling-Technologie eine Musikproduktion üblich geworden, die von der Körperlichkeit der Aufführung losgelöst ist. Auch Singstimmen können bearbeitet und bearbeitet werden, um deutlich zu machen, zu wem sie gehören. Dies war eine wichtige Veränderung, die zur späteren Sprachsynthesekultur führte.
 
@@ -109,7 +109,7 @@ Dadurch werden virtuelle Bands eher zu dezentralen Kreativplattformen als zu ein
 
 Bei Live-Auftritten virtueller Bands müssen sich Künstler und Publikum nicht unbedingt am selben Ort versammeln. Es haben sich verschiedene Formen etabliert, unter anderem über einen Bildschirm, AR, VR und Vertriebsplattformen. Dabei kommt es auf Gleichzeitigkeit und gemeinsames Erleben an, nicht auf physische Distanz.
 
-Anstatt die „Person in“ der Figur zu sehen, sucht das Publikum nach einer Erfahrung, bei der es das Gefühl hat, dass die Figur selbst da ist. Aus diesem Grund sind Regie, Bildmaterial und Story-Setting genauso wichtig, wenn nicht sogar wichtiger als die Aufführungstechnik.
+Anstatt die Person „in“ der Figur zu sehen, sucht das Publikum nach einer Erfahrung, bei der es das Gefühl hat, dass die Figur selbst da ist. Aus diesem Grund sind Regie, Bildmaterial und Story-Setting genauso wichtig, wenn nicht sogar wichtiger als die Aufführungstechnik.
 
 Dieses Format relativierte geografische Zwänge und Beschränkungen der Personenzahl und erweiterte den eigentlichen Begriff einer Musikveranstaltung.
 
@@ -147,7 +147,7 @@ Diese Situation unterscheidet sich vom traditionellen Modell, bei dem Musik in A
 
 ## Chronologie: Wichtige Meilensteine ​​in der Entwicklung virtueller Bands
 
-### Die Schnittstelle zwischen Technologie, Ausdruck und Verbreitung
+### Die Schnittstelle zwischen Technologie, Ausdruck und Vertrieb
 
 <div class="mermaid">
 flowchart TB

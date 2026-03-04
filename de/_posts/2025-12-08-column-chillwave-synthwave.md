@@ -78,7 +78,7 @@ Merkmale:
 - **Konzentriert sich auf analoge Synthesizer (Juno-106, DX7, Prophet usw.)**
 - **4/4 treibender Beat (Synthwave)**
 - **Langsamer Ambient (Dreamwave/Retrowave)**
-- **Neon-, Gitter-, Pink- und Blau-80er-Visuals**
+- **Neon, Gitter, Pink x Blau 80er-Jahre-Visuals**
 
 Hauptkünstler:
 
@@ -115,7 +115,7 @@ Chillwave wurde hauptsächlich über MySpace, Bandcamp und Blogs verbreitet und 
 
 Besondere Elemente:
 
-- Kunstwerk mit tropischen Mustern
+- Tropisches Muster-Kunstwerk
 - Verschwommene Filmfotografie
 - Zeitlupenaufnahmen von verlassenen Schulen, Stränden, Wäldern usw.
 - VHS-Textur der 90er Jahre
@@ -148,7 +148,7 @@ Auch die Ausrüstung, die bei Chillwave und Synthwave zum Einsatz kommt, ist seh
 -Roland Juno-106
 - Yamaha DX7
 - Sequential Prophet-Reihe
-- Korg Polysix
+-Korg Polysix
 - **Drum Machine**
 - LinnDrum / LM-1
 -Roland TR-707, TR-808
@@ -219,7 +219,7 @@ Synthwave wurde stark von der elektronischen Musik und Visuals beeinflusst, die 
 
 ## 9-2. Kontext des digitalen Revivals
 
-Chillwave nutzte in großem Umfang visuelle Ausdrucksformen, die an die persönliche Medienkultur der 1990er Jahre erinnerten (VHS, Camcorder, Heimaufnahmen vom Meer) und war mit der Lo-Fi-Fotokultur des Internets (wie dem frühen Instagram) kompatibel.
+Chillwave nutzte in großem Umfang visuelle Ausdrucksformen, die an die persönliche Medienkultur der 1990er Jahre erinnerten (VHS, Camcorder, Heimaufnahmen vom Meer) und war mit der Lo-Fi-Fotografiekultur des Internets (wie dem frühen Instagram) kompatibel.
 
 Der von Grafikdesignern erstellte **Gitterhintergrund + Neontypografie** von Synthwave ist weltweit standardisiert und auch in Mix-Videos auf YouTube beliebt geworden.
 

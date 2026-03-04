@@ -18,7 +18,7 @@ Pianoheadz ist eine Gruppe der US-House-Produzenten Jose Nuñez und Erick Morill
 
 „It's Over“ ist ein House/Hard-House-Track, der 1998 vom britischen Label INCredibled veröffentlicht wurde.
 
-Der zweite Song auf Seite A ist ein Remix von Knuckleheadz, berühmt für „House Rocca / Turn That Fucking Music Up“ und „Raise Your Hands“.
+Der zweite Song auf Seite A ist ein Remix von Knuckleheadz, bekannt für „House Rocca / Turn That Fucking Music Up“ und „Raise Your Hands“.
 
 
 #### Trackliste

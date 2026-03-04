@@ -107,7 +107,7 @@ Nach der Veröffentlichung dieses Albums war Gaye sowohl körperlich als auch ge
 ## Kapitel 4: Eine Zeit des Chaos und der Wiedergeburt (1977-1983)
 
 ### Steuervermeidung, Flucht aus Europa, Vorbereitung auf den Neustart
-In the late 1970s and early 1980s, gay men faced many challenges in the United States, including tax problems, drug use, and creative stagnation. Nach Belgien zu ziehen und mehr Zeit in Europa zu verbringen, wurde sowohl musikalisch als auch körperlich zu einem „Eskapismus“.
+In den späten 1970er und frühen 1980er Jahren standen schwule Männer in den Vereinigten Staaten vor vielen Herausforderungen, darunter Steuerprobleme, Drogenkonsum und kreative Stagnation. Nach Belgien zu ziehen und mehr Zeit in Europa zu verbringen, wurde sowohl musikalisch als auch körperlich zu einem „Eskapismus“.
 Inmitten all dessen suchte er nach einem Comeback, nach neuen Klängen und neuen Umgebungen.
 
 ### „Midnight Love“ (1982)/„Sexuelle Heilung“
@@ -143,8 +143,8 @@ Marvin Gaye war nicht nur ein Hitmacher, sondern auch jemand, der Künstlern den
 Darüber hinaus zeigte der Einsatz des Roland TR-808 bei „Midnight Love“ auch neue Möglichkeiten für die Fusion von elektronischem Equipment und Soulmusik auf.
 
 ### Persönliches seltsames Schicksal
-Gays Leben ist erfüllt von dem „merkwürdigen“ Schicksal häuslicher Gewalt in der Kindheit, zerbrochener Liebe, finanziellen und Drogenproblemen und der Erschießung durch seinen Vater. Dieser Trend geht über den Rahmen eines bloßen „tragischen Sterns“ hinaus und offenbart das menschliche Bild eines Mannes, dessen „Talent und Leid“ ineinandergreifen.
-Wenn man darüber hinaus aus der „Was wäre, wenn“-Perspektive darüber nachdenkt, kommen einem viele Hypothesen in den Sinn: Was wäre, wenn er die Beziehung zu seinem Vater abgebrochen hätte, was wäre, wenn er nicht vollständig im Motown-System gefangen gewesen wäre, was wäre, wenn er weitergelebt hätte? Sie zeugen von einem „seltsamen Leben“, in dem Zufall und Notwendigkeit ineinander greifen.
+Gays Leben ist erfüllt von dem „merkwürdigen“ Schicksal häuslicher Gewalt in der Kindheit, zerbrochener Liebesbeziehungen, finanziellen und Drogenproblemen und der Erschießung durch seinen Vater. Dieser Trend geht über den Rahmen eines bloßen „tragischen Sterns“ hinaus und offenbart das menschliche Bild eines Mannes, dessen „Talent und Leid“ ineinandergreifen.
+Wenn man darüber hinaus aus der „Was wäre wenn“-Perspektive darüber nachdenkt, kommen einem viele Hypothesen in den Sinn: Was wäre, wenn er die Beziehung zu seinem Vater abgebrochen hätte, was wäre, wenn er nicht vollständig im Motown-System gefangen gewesen wäre, was wäre, wenn er weitergelebt hätte? Sie zeugen von einem „seltsamen Leben“, in dem Zufall und Notwendigkeit ineinander greifen.
 
 ### Neubewertung und Erweiterung des Ausdrucks in der Neuzeit
 Auch nach Gayes Tod wurde seine Musik remastered, wiederentdeckt und gesampelt und beeinflusst auch heute noch neue Generationen. Beispielsweise wurde auch über die Entdeckung unveröffentlichter Demo-Soundquellen berichtet.

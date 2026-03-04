@@ -22,7 +22,7 @@ Text: mmr｜Thema: Elektroindustrie/Über die Entstehung, Struktur und Ausbreitu
 
 Electro-Industrial und EBM (Electronic Body Music) sind Trends in der elektronischen Musik, die in den späten 1970er bis 1980er Jahren entstanden sind und sich durch die Kombination des experimentellen Geistes der Industrial-Musik mit sich wiederholenden körperlichen Bewegungen auf der Tanzfläche auszeichnen. Dieses Genre ist nicht nur ein Musikstil, sondern hat sich zu einem umfassenden Ausdruckssystem entwickelt, das Veränderungen in Produktionsmethoden, Sounddesign, Aufführungsformen und sogar Veränderungen in der Stadtkultur und dem technologischen Umfeld widerspiegelt.
 
-EBM ist nicht einseitig aus einem einzelnen Land oder einer einzelnen Stadt hervorgegangen. Sie entstand durch die Schnittstelle von Post-Punk, Industrial, elektronischer Musiktechnologie und Clubkultur in mehreren Regionen, hauptsächlich Belgien, England und Deutschland. Front 242 und Nitzer Ebb sind repräsentative Beispiele für strukturelle und ästhetische Formulierungen in diesem Prozess.
+EBM ist nicht einseitig aus einem bestimmten Land oder einer bestimmten Stadt entstanden. Es entstand durch die Schnittstelle von Post-Punk, Industrial, elektronischer Musiktechnologie und Clubkultur in mehreren Regionen, hauptsächlich Belgien, England und Deutschland. Front 242 und Nitzer Ebb sind repräsentative Beispiele für strukturelle und ästhetische Formulierungen in diesem Prozess.
 
 ---
 
@@ -42,7 +42,7 @@ color: #fff;
 
 ## 1. EBM und Electro-Industrial als Begriffe
 
-Der Begriff EBM wurde Anfang der 1980er Jahre eingeführt und fungierte zunächst eher als Konzept zur Angabe einer kreativen Einstellung und musikalischen Richtung denn als Genrename. Wie der Name „Electronic Body Music“ vermuten lässt, liegt der Schwerpunkt auf der direkten Ansteuerung körperlicher Bewegung durch elektronische Klänge.
+Der Begriff EBM wurde Anfang der 1980er Jahre eingeführt und diente zunächst eher als Konzept zur Angabe einer kreativen Haltung und musikalischen Richtung denn als Genrename. Wie der Name Electronic Body Music schon vermuten lässt, liegt der Fokus auf der direkten Ansteuerung körperlicher Bewegung durch elektronische Klänge.
 
 Andererseits ist Electro-Industrial ein Name, der sich aus der Struktur von EBM entwickelt hat und komplexere akustische Verarbeitung, Geräuschelemente sowie psychologische und introspektive Themen umfasst. Die beiden Genres sind keine diskontinuierlichen Genres, sondern zeichnen sich durch eine kontinuierliche Weiterentwicklung mit EBM als Rückgrat aus.
 
@@ -86,7 +86,7 @@ flowchart LR
 
 Die Basslinie in EBM hat fast keine melodische Entwicklung und besteht aus Wiederholungen einzelner Noten oder extrem begrenzten Intervallen. Dieses Design maximiert die Integration in den Rhythmus und gibt der motorischen Funktion Vorrang vor dem musikalischen Ausdruck.
 
-Sequenzen basieren auf kurzen Mustern und Entwicklungen werden durch subtile Tonänderungen und Stummschaltungen erzeugt.
+Sequenzen basieren auf kurzen Mustern und Entwicklungen werden durch subtile Tonänderungen und Stummschaltungsvorgänge erzeugt.
 
 ---
 
@@ -142,7 +142,7 @@ Seit Ende der 1980er Jahre ist eine Werkgruppe entstanden, die die Struktur von 
 
 ## 12. Interaktion mit der Clubkultur
 
-EBM wurde mit der Prämisse der Wiedergabe in Clubräumen entwickelt. Lauter Druck, Wiederholung und unmittelbare Reaktionsfähigkeit wurden betont und die Liedstrukturen an die Funktion auf dem Boden angepasst.
+EBM wurde mit der Prämisse der Wiedergabe in Clubräumen entwickelt. Schalldruck, Wiederholung und unmittelbare Reaktionsfähigkeit wurden betont und die Liedstrukturen an die Funktion auf dem Boden angepasst.
 
 ---
 

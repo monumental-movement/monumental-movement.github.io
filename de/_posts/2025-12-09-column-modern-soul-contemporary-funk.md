@@ -304,7 +304,7 @@ flowchart TD
 | 2016 | Anderson .Paak „Malibu“ angekündigt |
 | 2017 | Thundercat „Drunk“ angekündigt |
 | 2021 | Hiatus Kaiyote „Mood Valiant“ angekündigt |
-| 2020er | Bandkultur und DAW-Bearbeitung werden stärker integriert und weltweit verbreitet |
+| 2020er Jahre | Bandkultur und DAW-Bearbeitung werden stärker integriert und weltweit verbreitet |
 
 ---
 

@@ -79,7 +79,7 @@ Dieses „Zeichen der Beschleunigung“ wurde durch die Pandemie jäh unterbroch
 
 # Kapitel 2: März 2020 – Erster „landesweiter Club-Lockdown“
 ## ● Clubs in ganz Deutschland müssen schließen
-Im März 2020 hat die Bundesregierung Folgendes als Infektionsschutzmaßnahme angekündigt:
+Im März 2020 hat die Bundesregierung folgende Maßnahmen zur Infektionsprävention angekündigt:
 **Ankündigte vollständige Schließung von Clubs, Bars und Freizeiteinrichtungen**.
 
 Dies war eine rechtliche Maßnahme und alle Clubs wurden sofort geschlossen.
@@ -90,7 +90,7 @@ Zum ersten Mal in ihrer Geschichte kam es in der weltberühmten Technostadt zu e
 - Alle Clubs geschlossen (März 2020 bis Anfang 2021)
 - Alle geschlossen, einschließlich Berghain und Tresor
 - Die Einnahmen aus dem Clubtourismus werden auf Null reduziert
-- Berufe wie DJs, Personal, Licht- und Tonarbeiter haben Einkommenseinbußen erlitten.
+- Berufe wie DJs, Personal, Licht- und Tonarbeiter haben Einkommensverluste erlitten.
 - Staatliche Unterstützung mit Kurzarbeitsgeld
 
 Statistiken und Medienberichte bestätigen, dass Zehntausende Arbeitnehmer betroffen sind, die auf Vereine als Einnahmequelle angewiesen sind.
@@ -110,7 +110,7 @@ Im März 2020 starteten wir **United We Stream**, das weltweit erste groß angel
 - Von Millionen Menschen gesehen
 - Ähnliche Modelle verbreiten sich in Städten auf der ganzen Welt
 
-Die Online-Präsenz hat das Klischee, dass Clubs eine Kultur sind, die in einem physischen Raum stattfindet, auf den Kopf gestellt.
+Die Online-Präsenz hat das Stereotyp auf den Kopf gestellt, dass Clubs eine Kultur seien, die in einem physischen Raum stattfindet.
 Es wurde bewiesen, dass Clubkultur auch als digitales Medium funktionieren kann.
 
 ## ● Musik wird durch DJ-Sets ohne Publikum introvertiert
@@ -160,7 +160,7 @@ Dieses seltsame Phänomen hat in den Jahren 2020–2021 Fortschritte gemacht.
 ## ● Clubs werden gesetzlich zu „Kultureinrichtungen“ aufgewertet (2021)
 Im Jahr 2021 hat der Deutsche Bundestag eine historische Entscheidung getroffen.
 
-**Rechtlicher Schutz von Vereinen als „Kultureinrichtung“**
+**Vereine rechtlich als „kulturelle Institutionen“ schützen**
 
 Dies ist tatsächlich ein wichtiger Wendepunkt.
 Bis dahin galten Clubs als Ausgehindustrie.
@@ -178,7 +178,7 @@ Der Club wurde institutionell als „Kulturgut“ anerkannt.
 
 ## ● Schließung des Berghains und „Verwandlung in eine Galerie“
 Während seiner langfristigen Schließung öffnete das Berghain seine Innenräume als Galerieraum, „Studio Berlin“, für die Öffentlichkeit.
-Es erregte Aufmerksamkeit als Beispiel dafür, wie ein Techno-Club wie ein Museum behandelt wird.
+Es erregte Aufmerksamkeit als Beispiel dafür, wie ein Techno-Club wie ein Museum behandelt wurde.
 
 ## ● Auch alteingesessene Geschäfte wie Tresor sind stark betroffen.
 Clubs wie Tresor, Watergate und ://about blank verloren ihre Einnahmen aus den Eintrittskarten.
@@ -205,7 +205,7 @@ Es ist, als ob der Sound des tatsächlichen Clubs überschrieben wurde.
 Im Zeitraum 2022–2023 ist die Zahl junger Touristen, insbesondere aus der EU, gestiegen.
 Als Gründe dafür werden ein „Freiheitsgefühl“ nach der Pandemie und die Visualisierung der Clubkultur durch soziale Medien genannt.
 
-Wochenendveranstaltungen in Berlin
+Berliner Wochenendveranstaltungen
 Partys, die **30–40 Stunden am Stück** dauern, sind immer häufiger geworden.
 
 ## ● High-Speed-Techno breitet sich in den umliegenden Städten aus
@@ -229,7 +229,7 @@ Die Idee, Vereine als Kulturgut zu schützen, setzt sich durch.
 Die Pandemie hat den internationalen Tourismus ausgelöscht;
 Berlin hat die Fragilität seiner Stadtstruktur offengelegt, die zu stark vom Tourismus abhängig ist.
 
-Seitdem hat die Stadt damit begonnen, kulturelle Maßnahmen für die Anwohner zu stärken.
+Seitdem hat die Stadt begonnen, kulturelle Maßnahmen für die Anwohner zu stärken.
 
 ## ● 3) Digitalisierung und Archivierung schreiten voran
 Im Zuge der Pandemie wurden die historischen Materialien, Videos und Audioquellen des Clubs online zur Verfügung gestellt.
@@ -286,7 +286,7 @@ Ab 2024 werden 150-170 BPM der Mainstream sein.
 Es ist unklar, ob dies so weitergehen wird, aber es kann aufgrund der folgenden Faktoren so weitergehen:
 
 - Die visuelle Präsentation auf SNS passt gut zu Hochgeschwindigkeitsmusik
-- Junge Ästhetiker bevorzugen „hohe Informationsdichte“
+- Jüngere Ästhetiker bevorzugen „hohe Informationsdichte“
 - Der internationale Markt für Hard Techno wächst
 
 ## ● 2) Der Club wird als kulturelle Ressource der Stadt geschützt.
@@ -308,7 +308,7 @@ Der deutsche Techno der 2020er Jahre war vor und nach der Pandemie völlig ander
 - **Berlin ist wieder einmal eine internationale Rave-Stadt**
 
 Die Pandemie hat Zerstörung gebracht, aber auch eine „Neudefinition der Kultur“ verursacht.
-Der deutsche Techno der späten 2020er Jahre ist eine Kultur, die vielfältiger, internationaler und schneller ist als zuvor.
+Der deutsche Techno ist Ende der 2020er Jahre zu einer vielfältigeren, internationaleren und schnelleren Kultur geworden als zuvor.
 
 Dieser Wandel wird wahrscheinlich als „2020er Jahre = Ära der Diskontinuität“ in die zukünftige Geschichte der elektronischen Musik eingehen.
 

@@ -47,20 +47,20 @@ color: #fff;
 Reggae entstand um 1968 nach Ska und Rocksteady. Texte mit schwereren Rhythmen, einer Betonung des Basses und Botschaften wurden populär. In dieser Zeit wurden auch Künstler wie Bob Marley, Peter Tosh und Burning Spear international bekannt.
 
 - **Rolle des Soundsystems**
-In Jamaika war es schwierig, teure Plattenspieler und Stereoanlagen zu besitzen, sodass riesige Soundsysteme oder an Straßenecken installierte Lautsprechergruppen zum Mittelpunkt des Musikerlebnisses wurden. Produzenten und DJs spielten unabhängig voneinander die neuesten 7-Zoll-Singles, um das Publikum anzusprechen.
+In Jamaika war es schwierig, teure Plattenspieler und Stereoanlagen zu besitzen, sodass riesige, an Straßenecken installierte Lautsprecher (Soundsysteme) zum Mittelpunkt des Musikerlebnisses wurden. Produzenten und DJs spielten unabhängig voneinander die neuesten 7-Zoll-Singles, um das Publikum anzusprechen.
 
 - **Das Aufkommen der Kassetten**
 Kompaktkassetten, die Anfang der 1970er Jahre unter dem Philips-Standard eingeführt wurden, fanden bald ihren Weg nach Jamaika. Obwohl es sich noch in einem frühen Stadium seiner Popularität befand, begannen lokale Reggae-Fans und DJs, auf das Potenzial dieses kleinen Mediums zu achten.
 
 ---
 
-## 1980er – Goldenes Zeitalter der Kassettenkultur und Verbreitung von Reggae
+## 1980er Jahre – Goldenes Zeitalter der Kassettenkultur und Verbreitung von Reggae
 
 - **Popularisierung von Kassetten**
 In den 1980er Jahren wurden Kassetten zum weltweit beliebtesten Musikmedium. Günstig und leicht zu transportieren, ist es mit dem Aufkommen von Wiedergabegeräten wie Radiokassettenspielern und Walkmans weitaus bekannter geworden als Schallplatten.
 
 - **Kassettenaufnahme in Jamaika**
-Bei Beschallungsveranstaltungen und Tanzlokalen entstand eine Kultur, in der Live-Mitschnitte auf Kassetten aufgezeichnet und sofort verbreitet wurden. Obwohl dies einige Raubkopie-Aspekte aufwies, wurde es zu einem wichtigen Mechanismus, um die Begeisterung des Fachgebiets zu bündeln und zu verbreiten.
+Bei Beschallungsveranstaltungen und Tanzlokalen entstand eine Kultur, in der Live-Mitschnitte auf Kassetten aufgezeichnet und sofort verbreitet wurden. Obwohl dies einige Raubkopie-ähnliche Aspekte aufwies, wurde es zu einem wichtigen Mechanismus, um die Begeisterung der Branche zu bündeln und zu verbreiten.
 Beispielsweise war die Aufzeichnung spezifischer Soundsystem-Konfrontationen (Sound Clashes) und deren spätere Verbreitung auf Kassette ein wertvolles Mittel zum Erfahrungsaustausch für Fans.
 
 - **Diaspora und Kassette**
@@ -74,7 +74,7 @@ Für karibische Einwanderergemeinschaften in Großbritannien und den Vereinigten
 Nach dem Debüt von Sleng Teng im Jahr 1985 wurde digitaler Sound zum Mainstream und Dancehall-Reggae verbreitete sich auf der ganzen Welt. Mit der Massenproduktion von Riddims, dem Aufstieg der MC-Kultur und der Notwendigkeit einer schnellen Verbreitung spielten Kassetten weiterhin eine wichtige Rolle.
 
 - **Kassetten und lokale Wirtschaft**
-Während es offizielle CD-Veröffentlichungen gab, florierten inoffizielle Kassettenverkäufe auf den Straßen Jamaikas. Mixtapes, die auf Märkten und an Essensständen verkauft wurden, waren für den Normalbürger eine Möglichkeit, zu günstigen Preisen an die neuesten Soundquellen zu kommen, und für DJs ein Mittel zur Eigenwerbung.
+Während es offizielle CD-Veröffentlichungen gab, florierten inoffizielle Kassettenverkäufe auf den Straßen Jamaikas. Mixtapes, die auf Märkten und an Imbissständen verkauft wurden, waren für den Normalbürger eine Möglichkeit, zu günstigen Preisen an die neuesten Soundquellen zu kommen, und für DJs ein Mittel zur Eigenwerbung.
 
 - **Beziehung zu Japan**
 Auch japanische Reggae-Fans und DJs besuchten in den 1990er Jahren Jamaika und sammelten lokale Kassetten. Diese Aufnahmen wurden bei Clubveranstaltungen und Plattenläden verbreitet und standen in direktem Zusammenhang mit der Entwicklung der Reggae-Kultur in Japan. Vor allem in der Shibuya- und Osaka-Szene spielten importierte Kassetten eine wichtige Rolle.
@@ -102,7 +102,7 @@ Eine Liste berühmter Aufnahmen, die die Reggae-Kassettenkultur symbolisieren. D
 |----|------|------|
 | Stone Love Sound System Live @ Kingston | 1982 | Eine repräsentative Aufnahme aus den Anfängen von Sound Clash. Auch der Jubel des Publikums war lebhaft. |
 | Killamanjaro vs. Black Scorpio Clash | 1985 | Die Spannung des Sound-Showdowns und der Austausch spontaner MCs. |
-| Silverhawk Sound System 90er Dancehall-Set | 1992 | Die Begeisterung für Dancehall in der Blütezeit des digitalen Riddims verdichtet sich. |
+| Silverhawk Sound System 90er Dancehall-Set | 1992 | Die Begeisterung für Dancehall während der Blütezeit des digitalen Riddims verdichtete sich. |
 | Bass Odyssey Live in Clarendon | 1994 | Enthält die lebendige Spannung lokaler Ereignisse. |
 | Stone Love Jubiläumsparty-Bänder | 1997 | Eine Gedenkkassette, die die Höhepunkte der Szene zusammenfasst. |
 
@@ -110,7 +110,7 @@ Eine Liste berühmter Aufnahmen, die die Reggae-Kassettenkultur symbolisieren. D
 
 ## Repräsentative Reggae-Künstler nach Epoche
 
-Die Klänge repräsentativer Künstler, die eng mit der Kassettenkultur verbunden sind, sind nach Epochen geordnet.
+Organisiert die Klänge repräsentativer Künstler, die eng mit der Kassettenkultur verbunden sind, nach Jahrzehnten.
 
 | Ära | Repräsentative Künstler/Sounds | Eigenschaften |
 |------|-------------|------|
@@ -149,16 +149,16 @@ Die Verbreitung von Reggae und Kassettenkultur wird parallel als Bewegungen inne
 
 | Alter | Bewegungen in Jamaika | Bewegungen in Japan |
 |------|-----|-------------|
-| 1968 | Die Geburt des Reggae. Es wechselte von Ska zu Rock Steady und es wurde ein Bass-basierter Rhythmus etabliert. | Die Existenz von Reggae ist in begrenztem Umfang bekannt und es gibt noch fast keine allgemeine Anerkennung. |
+| 1968 | Die Geburt des Reggae. Es wechselte von Ska zu Rock Steady und es wurde ein Bass-basierter Rhythmus etabliert. | Die Existenz von Reggae wurde in begrenztem Umfang eingeführt und es gibt noch immer fast keine allgemeine Anerkennung. |
 | 1970er Jahre | Die Soundsystem-Kultur breitet sich aus. Kompaktkassetten beginnen einzuströmen. | Bob Marley wird durch einige Musikzeitschriften und importierte Plattenläden vorgestellt. |
-| 1980-82 | Die Kassettenaufnahme nahm im Bereich der Tonsysteme rasch zu. Auf der Straße verteilt. | Einige Plattenläden in Tokio und Osaka beginnen, aus Jamaika mitgebrachte Kassetten inoffiziell zu vertreiben. |
+| 1980-82 | Die Kassettenaufnahme nahm in den Soundsystemeinstellungen schnell zu. Auf der Straße verteilt. | Einige Plattenläden in Tokio und Osaka beginnen, aus Jamaika mitgebrachte Kassetten inoffiziell zu vertreiben. |
 | 1985 | Das Riddim „Sleng Teng“ wird eingeführt und das digitale Zeitalter beginnt. Beschleunigt die Kassettenaufnahme. | Der Import lokaler Aufnahmekassetten durch Überseereisende und DJs nimmt zu und sie werden in der Clubszene eingesetzt. |
 | 1990-92 | Das goldene Zeitalter des Dancehalls. Stone Love, Killamanjaro und andere sind beliebt. Kassetten sind zu einem unverzichtbaren Medium geworden. | Mighty Crown wurde 1991 gegründet. Recherchierte lokale Kassetten und begann mit der Arbeit an einem in Japan einzigartigen Soundsystem. |
 | 1994-96 | Sound Clash-Aufnahmen werden weltweit vertrieben. | Reggae-Veranstaltungen erfreuen sich vor allem in Shibuya und Osaka Minami großer Beliebtheit. Importierte Kassetten sind eine Informationsquelle zu den neuesten Riddims. |
 | 1997-99 | Die Hochphase der Kassettenkultur. Es sind zahlreiche Vor-Ort-Aufnahmen im Umlauf. | Japanese Sound System verkauft unabhängig produzierte Mixkassetten. Erweiterung der Fangemeinde. |
 | 2000-05 | Mit dem Siegeszug von CD-R und MP3 beginnt der Niedergang der Kassetten. | CD-Rs werden in Clubs und Geschäften zum Mainstream. In einigen Bereichen werden jedoch weiterhin Bemühungen zur Erhaltung der Kassettenkultur unternommen. |
 | 2010er | Der digitale Vertrieb ist Mainstream. Kassetten werden als kulturelles Gedächtnis neu bewertet. | Sammler und Forscher digitalisieren Kassetten aus den 90er Jahren. Die Neubewertung wird fortgesetzt. |
-| 2020er | Kassettenspieler und Nachdruckveröffentlichungen erscheinen im Kontext der analogen Rückkehr. | In Japan werden Forschungs- und Neuauflagenprojekte durchgeführt, um sich mit der „Reggae-Kassettenkultur“ zu befassen. |
+| 2020er Jahre | Kassettenspieler und Nachdruckveröffentlichungen erscheinen im Kontext der analogen Rückkehr. | In Japan werden Forschungs- und Neuauflagenprojekte durchgeführt, um sich mit der „Reggae-Kassettenkultur“ zu befassen. |
 
 ---
 

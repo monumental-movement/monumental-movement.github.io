@@ -85,7 +85,7 @@ Auch bei der Live-Performance war Psychic TV innovativ. Bei vielen Live-Auftritt
 
 #### 4.2 Transformation von Musikstilen
 
-In dieser mittleren Periode wurden neben traditionellem Industrielärm und Punk verschiedene Elemente wie psychedelische, Pop- und experimentelle Musik integriert, und der Musikstil veränderte sich erheblich. In ihren Live-Shows und Alben waren Musik, Video und Performance eng miteinander verbunden, und die Kunstfertigkeit, die Hör-, Bild- und Spiritualität miteinander verknüpfte, stach heraus.
+In dieser mittleren Periode wurden neben traditionellem Industrielärm und Punk verschiedene Elemente wie psychedelische, Pop- und experimentelle Musik integriert, und der Musikstil veränderte sich erheblich. Bei ihren Live-Auftritten und Alben waren Musik, Video und Performance eng miteinander verbunden, und die Kunstfertigkeit, die Hör-, Bild- und Spiritualität miteinander verknüpfte, stach heraus.
 
 #### 4.3 Magie, Chaosmagie und vertiefendes Denken
 
@@ -115,7 +115,7 @@ Nach seinem Umzug in die Vereinigten Staaten änderte Genesis seinen kreativen S
 
 Im Jahr 2003 wurde Psychic TV als PTV3 wieder vereint, begrüßte neue Mitglieder wie Edley ODowd und nahm Aktivitäten wieder auf, die Video, Ton und Performance integrierten.
 
-#### 6.2 Alben und konzeptuelle Arbeiten
+#### 6.2 Alben und konzeptionelle Arbeiten
 
 Zu den späteren Alben gehörten „Hell Is Invisible...Heaven Is Her/e“, „Mr. „Alien Brain vs. The Skinwalkers“ und „Alienist“, die ihren früheren Experimentalismus fortsetzten und gleichzeitig ein strukturiertes Konzept präsentierten.
 

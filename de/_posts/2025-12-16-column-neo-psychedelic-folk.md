@@ -68,7 +68,7 @@ Die Lieder von Neo-Psychedelic Folk weisen strukturelle Tendenzen auf, wie die W
 
 ### 2-2. Akustische Verarbeitung
 
-Zum Einsatz kommen räumliche Erweiterungen mittels Hall und Delay, Tonhöhenschwankungen, die bandähnliche Schwankungen nachahmen, sowie eine Mischung aus Lo-Fi und Hi-Fi. Die Aufnahmen wurden zu Hause oder in einem provisorischen Studio gemacht, und die Ungleichmäßigkeit der Klangqualität wurde als ästhetischer Aspekt behandelt.
+Zum Einsatz kommen räumliche Erweiterungen mittels Hall und Delay, Tonhöhenschwankungen, die bandähnliche Schwankungen nachahmen, sowie eine Mischung aus Lo-Fi und Hi-Fi. Die Aufnahmen wurden zu Hause oder in einem provisorischen Studio gemacht, und die Ungleichmäßigkeit der Klangqualität wurde als ästhetischer Aspekt betrachtet.
 
 > „Fragmentierung der Erfahrung wird wichtiger als Homogenität“
 
@@ -110,7 +110,7 @@ Dazu gehören das abgerundete Klangbild des Schlagzeugs, die Phasenlage der Gita
 
 ---
 
-## Kapitel 5: Visueller Kommentar – Bildsprache des Neo-Psychedelic Folk
+## Kapitel 5: Visueller Kommentar – Bildsprache des neo-psychedelischen Folk
 
 Häufig kommen Abstraktion und Naturmotive, Loops, Zeitlupe und asynchrone Schnitte zum Einsatz. Der Videoschnitt synchronisiert sich mit der repetitiven Struktur des Songs und dient der Erweiterung des Zeitgefühls.
 
@@ -164,7 +164,7 @@ In den frühen Werken von Animal Collective sorgen Percussion und Händeklatsche
 
 Stimme ist eines der wichtigsten Elemente im neo-psychedelischen Folk. Die Rollenverteilung zwischen Leadsänger und Begleitung wird gelockert und mehrere Stimmen werden in einer Linie platziert. Stimmqualität, Überlappung und Nachhall haben Vorrang vor der Klarheit der Texte.
 
-Dies ist das Ergebnis der Übertragung des Gruppengesangscharakters der Volksmusik auf den Studioraum.
+Dies ist das Ergebnis der Übertragung des Gruppengesangscharakters des Folk auf den Studioraum.
 
 > „Lieder sind kein Mittel, um eine Geschichte zu erzählen, sondern ein Material, das einen Raum füllt.“
 
@@ -214,7 +214,7 @@ Neo-Psychedelic Folk hat mit Dream Pop, experimentellem Pop, Ambient und Post-Ro
 
 ## Letztes Kapitel
 
-Neo-Psychedelic Folk ist kein Genre, das die Psychedelik der Vergangenheit bewahrt, sondern eine redaktionelle Praxis, die Wahrnehmungserfahrungen erneuert. Der kollektive Sound von Animal Collective und die Introspektivität der frühen Werke von Tame Impala sind das Ergebnis einer folkloristischen Einfachheit in Kombination mit einer zeitgenössischen Produktionsumgebung.
+Neo-Psychedelic Folk ist kein Genre, das die Psychedelik der Vergangenheit bewahrt, sondern eine redaktionelle Praxis, die Wahrnehmungserfahrungen erneuert. Der kollektive Sound von Animal Collective und die Selbstbeobachtung der frühen Werke von Tame Impala sind das Ergebnis volkstümlicher Einfachheit in Kombination mit zeitgenössischen Produktionsumgebungen.
 
 Dieser Trend wird nicht als abgeschlossener Stil verstanden, sondern als ein Körper in Bewegung, der sich ständig neu konfiguriert.
 

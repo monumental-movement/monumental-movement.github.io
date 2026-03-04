@@ -69,7 +69,7 @@ Mit dem Aufkommen von Folk und GS begann die Suche nach einem neuen Ausdruck nam
 Happy End war die erste Band, die „japanische Rhythmen erkundete, die keine Imitationen englischer Rhythmen waren“.
 
 #### Produktionsumgebung
-Die damaligen Aufnahmen fanden im Vorgängerstudio des Yotsuya Onkyo House statt. Warmer Klang von analogen Bandaufnahmen und Vintage-Geräten.
+Die damaligen Aufnahmen fanden im Vorgängerstudio des Yotsuya Onkyo House statt. Warmer Klang von analoger Bandaufnahme und Vintage-Geräten.
 Obwohl sie von amerikanischen Bands wie The Band und Buffalo Springfield beeinflusst wurden, stellten sie literarische japanische Texte in den Vordergrund.
 
 #### Anekdote
@@ -87,7 +87,7 @@ Danach wurde es für ihn zur Grundlage, seine eigenen Klangideale zu verfolgen.
 - „Caramel Mama“ (1975)
   
 Sie verschmelzen Elemente aus Folk und Psychedelic Rock und zeigen eine Musikalität, die direkt mit dem späteren Happy End verbunden ist.
-Hosono war am Bass und am Keyboard beteiligt und stellte seine Improvisations- und Arrangierfähigkeiten unter Beweis.
+Hosono beteiligte sich am Bass und am Keyboard und stellte seine Improvisations- und Arrangierfähigkeiten unter Beweis.
 
 #### Historischer Hintergrund
 Es war eine Übergangszeit, in der Folk- und psychedelische Musik in Japan Aufmerksamkeit erregte und eine urbane Rockkultur entstand.
@@ -110,7 +110,7 @@ Diese Erfahrung führte zu seiner späteren Arbeit an der Tropical Trilogy und d
 - „Tin Pan Alley“ (1977)
 
 Blues, R&B und Pop im Beatles-Stil werden auf Japanisch interpretiert, wobei der Schwerpunkt auf Musik liegt, die auf Schulfesten und Live-Musikveranstaltungen in Tokio gespielt wird.
-Hosono war für den Bass und die Komposition verantwortlich und demonstrierte ein frühes urbanes Gespür.
+Hosono war für den Bass und die Komposition verantwortlich und demonstrierte damit ein frühes urbanes Gespür.
 
 #### Historischer Hintergrund
 Die aufkommende Periode des urbanen Pop-Rock in Japan, beeinflusst von den Beatles und den Rolling Stones.
@@ -167,7 +167,7 @@ YMO (Yellow Magic Orchestra) ist eine revolutionäre Einheit, die das Wort Techn
 Als Anführer nutzte Hosono Rhythmusmaschinen und Sequenzer, um asiatischen Humor und futuristische Klänge zu verbinden.
 
 #### Historischer Hintergrund
-In den frühen 1980er Jahren erreichte Japan den Höhepunkt seines technologischen und wirtschaftlichen Wachstums.
+In den frühen 1980er Jahren erreichte Japan den Höhepunkt seines technologischen und wirtschaftlichen Wohlstands.
 Eine Zeit, in der die Entwicklung von Computern, Videospielen und elektronischen Musikinstrumenten mit der Musik verschmolzen war.
 Der Sound von YMO war ein Symbol für Japan als elektronische Nation.
 
@@ -218,7 +218,7 @@ Hosono sagte scherzhaft: „Bei Musik geht es darum, mit dem Zufall zu leben.“
 - „N.T.E.“ (1995)
 
 Zu dieser Zeit arbeitete er an Musik für eine Vielzahl von Medien, darunter Animationen, Filme und Werbespots.
-„Night on the Galaxy Express“ glänzt mit zarten Kompositionen, die Kenji Miyazawas Fantasy-Literatur in Klang zu übersetzen scheinen.
+„Night on the Galactic Railway“ glänzt mit zarten Kompositionen, die Kenji Miyazawas Fantasy-Literatur in Klang zu übersetzen scheinen.
 
 #### Historischer Hintergrund
 Nach dem Platzen der Blasenwirtschaft geraten Japans Werte ins Wanken.

@@ -107,7 +107,7 @@ Dieses Phänomen, dass „Klang und Stimme eins werden“, wurde zur Grundlage f
 ## Kapitel 5: Anfang der 2000er Jahre – Mainstreaming und Fragmentierung
 
 Um das Jahr 2000 herum erlebte die britische Garage ihr goldenes Zeitalter in den Charts.
-**Craig David**s „Born To Do It“ (2000) erreichte Platz 1 in Großbritannien und 2-Step wurde in der Popmusik populär. Gleichzeitig kam es jedoch zu einer Gegenreaktion gegen die „Kommerzialisierung“.
+**Craig David**s „Born To Do It“ (2000) erreichte Platz eins in Großbritannien und 2-Step wurde in der Popmusik populär. Gleichzeitig kam es jedoch zu einer Gegenreaktion gegen die „Kommerzialisierung“.
 
 Von 2001 bis 2003 entstand in Clubs ein aggressiverer und düstererer Sound. Dies wurde zum Ausgangspunkt für spätere **Grime** und **Dubstep**.
 
@@ -126,10 +126,10 @@ Es ist diese Vielfalt, die die „Schwankung“ des Rhythmus erzeugt.
 
 - **Afro-karibischer Rhythmus** (abgeleitet von Jungle und Reggae)
 - **Amerikanische R&B-Melodie**
-- **Der DIY-Geist des urbanen Großbritanniens**
+- **Der DIY-Geist britischer Städte**
 
 Dieser Schnittpunkt bildete die einzigartige Klangidentität Großbritanniens.
-Die UKG-Partei war auch ein gemeinsamer Raum, der über Klasse und Rasse hinausging und jungen Menschen als Mittel zur positiven Meinungsäußerung als Reaktion auf die damaligen sozialen Unruhen (Unruhen, Arbeitslosigkeit, Politik unter der Blair-Regierung) diente.
+Die UKG-Partei war auch ein gemeinsamer Raum, der über Klasse und Rasse hinausging und jungen Menschen als positives Ausdrucksmittel als Reaktion auf die damaligen sozialen Unruhen (Unruhen, Arbeitslosigkeit, Politik unter der Blair-Regierung) diente.
 
 ---
 
@@ -143,7 +143,7 @@ Disclosure, Burial, Jamie xx und andere interpretieren es auf moderne Weise neu 
 - **Joy Orbison – „Hyph Mngo“ (2009)**
 
 Darüber hinaus wurde mit dem Hit **Eliza Rose – „B.O.T.A.“ (2022)** dominierten 2-Step-Rhythmen erneut die Charts.
-Es hat begonnen, junge Menschen nicht nur in Clubs, sondern auch über soziale Netzwerke wie TikTok zu erreichen.
+Es hat begonnen, junge Menschen nicht nur in Clubs, sondern auch über soziale Medien wie TikTok zu erreichen.
 
 ---
 

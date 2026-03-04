@@ -20,7 +20,7 @@ title: '[Spalte] Chillstep / Liquid Dubstep'
 
 Text: mmr｜Thema: Über den „emotionalen Dubstep“, der zwischen Stille und Bass entsteht
 
-Chillstep und Liquid Dubstep sind Spin-off-Genres, die etwa 2010 im Internet Gestalt anzunehmen begannen und die melodischen und Ambient-Aspekte von Dubstep hervorheben. Im Gegensatz zum aggressiven Wobble-Bass, der harschen Filtermodulation und den Post-Brostep-Metal-Leads des traditionellen Dubstep bringt Chillstep „Ruhe, Transparenz und eine weiche Kontur des tiefen Bereichs“ in den Vordergrund.
+Chillstep und Liquid Dubstep sind Spin-off-Genres, die etwa 2010 im Internet Gestalt anzunehmen begannen und die melodischen und Ambient-Aspekte von Dubstep hervorheben. Im Gegensatz zum aggressiven Wobble-Bass, der harschen Filtermodulation und den Post-Brostep-Metal-Leads des herkömmlichen Dubstep bringt Chillstep „Ruhe, Transparenz und einen weich definierten Tieftonbereich“ in den Vordergrund.
 
 Der Hintergrundablauf ist wie folgt.
 
@@ -60,7 +60,7 @@ Zu den Funktionen gehören:
 * Verleiht Atmungsdynamik, ohne dass die Seitenkette extrem tief wird
 * Konzentrieren Sie sich eher auf „Build ~ Melodie“ als auf Drop
 
-Obwohl der Einfluss von Mt. Eden groß ist, entstand der Genrename „Chillstep“ ganz natürlich innerhalb der Internetkultur.
+Obwohl der Einfluss von Mt. Eden groß ist, entstand der Name „Chillstep“ als Genre spontan in der Internetkultur.
 
 ---
 
@@ -71,7 +71,7 @@ Hier organisieren wir die Merkmale auf der Ebene des Produktionsprozesses.
 ### 2-1 BPM/Struktur
 
 * BPM liegt am häufigsten bei etwa **140** (Dubstep-Standard)
-* Halftime Drum (Snare Beat 2)
+* Halbzeittrommel (Snare-Beat 2)
 * Es gibt Drops, aber sie verwenden „Leerraum“ statt Aggression
 
 ### 2-2 Basisdesign
@@ -104,7 +104,7 @@ Das Symbol von Chillstep ist „sanfter Subbass“.
 Liquid Dubstep übernimmt das Spielgefühl von Liquid Drum’n’Bass, mit einer „transparenteren, wasserähnlichen“ Textur.
 
 * Klarer High-End- und funkelnder Eindruck
-*Hohes Stimm-Chop-Verhältnis
+* Hohes Stimm-Chop-Verhältnis
 *Die Basis ist glatter und weniger nervös
 * Verwendet oft einmalige Effekte wie Blasen
 
@@ -140,11 +140,11 @@ Blackmills Stil wurde zur Vorlage für Chillstep und schuf eine große Fangemein
 
 MitiS hat einen Hintergrund im klassischen Klavier und bringt eine einzigartige Emotion in Chillstep/Melodic Dubstep ein.
 
-*Hauptmelodie des Klaviers
+* Hauptmelodie des Klaviers
 * Transparente und unzerbrechliche Mischung
 * Tranceartiges aufsteigendes Gefühl
 * Sorgfältig verarbeiteter Stimmschnitt
-* Überlagert mit einem Stakkato-Synthesizer-Lead
+* Überlagert mit einem Stakkato-Synth-Lead
 
 Die Arbeit von MitiS überspannt sanft die Grenze zwischen Chillstep und Melodic Dubstep und weist eine dramatischere Struktur auf.
 
@@ -201,7 +201,7 @@ Der Schwerpunkt liegt eher auf „Nachhaltigkeit“ und „nachhaltiger Resonanz
 
 * Sägewelle + Rauschen-Mischung
 * Langsamerer Angriff, längeres Release
-* Fügen Sie einen analogen Stildrift hinzu
+* Analogen Stildrift hinzufügen
 
 #### Unterlage
 
@@ -225,14 +225,14 @@ Der Schwerpunkt liegt eher auf „Nachhaltigkeit“ und „nachhaltiger Resonanz
 
 ### 5-5 Trommeln
 
-* Kick: Reduzieren Sie den Tieftonbereich nicht zu stark
+* Kick: Reduzieren Sie den Tieftonbereich nicht zu sehr
 * Snare: Dünner, tiefer Hall
 * Hut: Reduziert Verwacklungen und glättet Höhen
 * Percussion: Wassertropfen-FX aktiviert
 
 ### 5-6 mischen
 
-* Unterdrücken und glätten Sie die 5-7-kHz-Stimulation
+*Unterdrückt sanft die 5-7-kHz-Stimulation
 * Hintergrundgeräusche minimieren (analoges Rauschen, Wind, Regen usw.)
 * Nebelartige Textur mit hochgeschnittenem Hall
 * Sidechain ist unterdrückend, erzeugt nur Bewegung

@@ -54,11 +54,11 @@ Ihre Mutter liebte die Stimme jedoch sehr. Denn selbst in schwierigen Familiensi
 
 # **3. Jugend: Rebellischer Geist und Neigung zur Kunst**
 
-In ihrer Jugend wandte sich Cindy der Kunst zu und versuchte alles Kreative, einschließlich Malen und Schreiben von Gedichten. Ich habe versucht, eine Kunsthochschule zu besuchen, aber selbst dort konnte ich mich nicht an die Umgebung anpassen, in der ich von „Regeln“ und „richtigem Ausdruck“ besessen war.
+In ihrer Jugend wandte sich Cindy der Kunst zu, malte, schrieb Gedichte und probierte alles Kreative aus. Ich habe versucht, eine Kunsthochschule zu besuchen, aber selbst dort konnte ich mich nicht an die Umgebung anpassen, in der ich von „Regeln“ und „richtigem Ausdruck“ besessen war.
 
 Das Leben von Cyndi Lauper hat ein einheitliches Thema. Es ist ein starker Wille, der sagt: „Ich möchte ich selbst sein.“ Dieser Wille wurde geschärft, als sie etwa 20 Jahre alt war und durch die überfüllten Straßen von New York zog.
 
-Während dieser Zeit trug sie einzigartige Modekombinationen in Secondhand-Läden und auf Flohmärkten. Die „einzigartige und farbenfrohe Mode“, die später bekannt wurde, entstand zum Teil, weil die Menschen es sich in der Armut nicht leisten konnten, neue Artikel zu kaufen.
+Während dieser Zeit trug sie einzigartige Modekombinationen in Secondhand-Läden und auf Flohmärkten. Die „einzigartige und farbenfrohe Mode“, die später auf den Markt kam, entstand zum Teil, weil sich die Menschen in der Armut keine neuen Artikel leisten konnten.
 
 Die Wurzeln der Musik sind Soul, Blues, Rock und Musicals. Die Stadt New York war für sie die beste „kostenlose Musikhochschule“.
 
@@ -114,7 +114,7 @@ Mit dem Aufstieg von MTV traten wir in eine Ära ein, in der Bilder die Musik be
 
 ---
 
-## **7-1. Ein tiefer Einblick in repräsentative Songs**
+## **7-1. Tauchen Sie tief in repräsentative Songs ein**
 
 ### **Mädchen wollen einfach nur Spaß haben**
 
@@ -168,10 +168,10 @@ Währenddessen verursacht Cindy einen „Zwischenfall“.
 
 ### **Ein Vorfall, bei dem ein Zubehörteil das Mikrofon traf und Lärm verursachte**
 
-Die große Menge an Accessoires, die sie um den Hals trug, traf das Mikrofon und verursachte ein klapperndes Geräusch.
+Die zahlreichen Accessoires, die sie um den Hals trug, trafen das Mikrofon und verursachten ein klapperndes Geräusch.
 
 Ingenieur: „Was ist das für ein Geräusch?“
-Quincy Jones: „Cindy, kannst du... das nehmen?“
+Quincy Jones: „Cindy, kannst du... das ertragen?“
 
 Cindy brach in Gelächter aus und sagte: „Oh, tut mir leid!“ Als sie ihre Accessoires abnahm, soll sich die Atmosphäre sofort entspannt haben.
 
@@ -183,7 +183,7 @@ Dieser Vorfall wurde als eine Episode überliefert, die Cindys „Fähigkeit, Sp
 
 # **10. Ende der 80er bis 90er: Vom Popstar zum Künstler**
 
-Von den späten 80ern bis in die 90er Jahre schwankte Cindy zwischen kommerziellem Erfolg und dem Wunsch nach künstlerischem Ausdruck.
+Von Ende der 80er bis in die 90er Jahre war Cindy hin- und hergerissen zwischen kommerziellem Erfolg und dem Wunsch nach künstlerischem Ausdruck.
 
 ### **Der Hut voller Sterne (1993)**
 
@@ -205,7 +205,7 @@ Cindy legte keinen Wert darauf, „erfolgreiche Formen zu wiederholen“ und leg
 
 Ursprünglich wuchs Cindy nicht nur als Sängerin auf, sondern war auch stark von der Ausdruckskultur wie Film und Theater beeinflusst. Dies wurde in Form des Broadway verwirklicht.
 
-In dieser Arbeit vermittelt sie eindringlich die Botschaft, dass es in Ordnung ist, sein Leben so zu leben, wie man ist. Dies ist auch ihre eigene Lebensphilosophie und hat große Unterstützung von der LGBTQ-Community erhalten.
+In dieser Arbeit vermittelt sie eindringlich die Botschaft, dass es in Ordnung ist, sein Leben so zu leben, wie man ist. Es ist auch ihre eigene Lebensphilosophie und hat große Unterstützung von der LGBTQ-Community erhalten.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8pltkucgl5w?si=w1KxlxWJdT0hlFZh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

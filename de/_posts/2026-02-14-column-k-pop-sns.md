@@ -18,13 +18,13 @@ title: '[Spalte] Beziehung zwischen K-POP und SNS-Strategie | Warum erlangte es 
 
 ## Warum ist K-POP so beliebt? - Erfolgsfaktoren aus der Struktur gesehen
 
-Text: mmr｜Thema: Den Hintergrund hinter dem weltweiten Erfolg von K-POP aus der Perspektive der SNS-Strategie verstehen
+Text: mmr｜Thema: Den Hintergrund hinter dem weltweiten Erfolg von K-POP aus der Perspektive der SNS-Strategie auf der Grundlage von Fakten verstehen
 
 ### K-POP als „System“, das über Musikgenres hinausgeht
 
 K-POP ist nicht nur ein Musikgenre. Es handelt sich um ein umfassendes Unterhaltungsmodell, das Produktion, Schulung, Visuals, Performance und sogar SNS-Betrieb integriert.
 
-In Südkorea wurde Ende der 1990er Jahre ein von Talentagenturen geleitetes Ausbildungssystem eingerichtet, und die Ausbildung in Gesang, Tanz, Sprache, Medienarbeit usw. wurde über mehrere Jahre im Rahmen des Trainee-Systems durchgeführt. Zu den repräsentativen Agenturen gehören SM Entertainment, YG Entertainment und JYP Entertainment.
+In Südkorea wurde Ende der 1990er Jahre ein von Unterhaltungsagenturen geleitetes Ausbildungssystem eingerichtet, und die Ausbildung in Gesang, Tanz, Sprache, Medienarbeit usw. wurde über mehrere Jahre im Rahmen des Trainee-Systems durchgeführt. Zu den repräsentativen Agenturen gehören SM Entertainment, YG Entertainment und JYP Entertainment.
 
 Dieser Fluss von „Pflege → Debüt → kontinuierliche Bereitstellung von Inhalten“ hat eine hohe Affinität zur SNS-Ära, was eine wichtige Voraussetzung für den Erfolg von K-POP ist.
 
@@ -78,7 +78,7 @@ Besonders auf TikTok fungieren Tanzherausforderungen als Verbreitungsinstrument,
 
 BTS nutzte SNS Ende der 2010er Jahre in großem Umfang und bildete eine internationale Fangemeinde, noch bevor sie den englischsprachigen Medien bekannt wurde. Auftritte in amerikanischen Musikpreisverleihungen und Talkshows basieren auf der bestehenden Fangemeinde.
 
-Durch die aktive Kommunikation auf Twitter prägten sie Trends in Übersee, noch bevor sie in die Billboard-Charts einstiegen. Dies ist ein gelungenes Beispiel für einen „Reimport-Typ“, der sich vom herkömmlichen „lokalen Erwerbstyp“ unterscheidet.
+Durch die aktive Kommunikation auf Twitter prägten sie Trends im Ausland, noch bevor sie in die Billboard-Charts einstiegen. Dies ist ein gelungenes Beispiel für einen „Reimport-Typ“, der sich vom herkömmlichen „lokalen Erwerbstyp“ unterscheidet.
 
 > SNS ist nicht nur ein Werbeträger für K-POP, sondern das Zentrum der Fandombildung.
 
@@ -86,7 +86,7 @@ Durch die aktive Kommunikation auf Twitter prägten sie Trends in Übersee, noch
 
 ## Chronologie der K-POP-Expansion anhand von Daten
 
-### Hauptveranstaltungen
+### Großveranstaltungen
 
 * 1996: H.O.T. Debüt
 * 2009: Girls' Generation kommt nach Japan

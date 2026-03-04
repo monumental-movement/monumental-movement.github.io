@@ -21,7 +21,7 @@ Text: mmr｜Thema: Wie Frauen die Musikgeschichte in Form von Bands aktualisiert
 
 
 
-In der Geschichte des Rock und Pop galten Girlbands lange Zeit als Anomalie. In Wirklichkeit haben rein weibliche Bands jedoch ihre eigenen einzigartigen Ausdrucksformen angesammelt und gleichzeitig ständig mit den Institutionen, der Technologie und den sozialen Normen der Zeit konkurriert. Mädchenbands werden nicht einfach nach Geschlecht kategorisiert, sondern sind eine Sammlung von Praktiken rund um Produktion, Auftritt und Selbstbestimmung.
+In der Geschichte des Rock und Pop galten Girlbands lange Zeit als Anomalie. In Wirklichkeit standen rein weibliche Bands jedoch schon immer im Konflikt mit den Systemen, der Technologie und den gesellschaftlichen Normen der Zeit und entwickelten gleichzeitig ihre eigenen, einzigartigen Ausdrucksformen. Mädchenbands werden nicht einfach nach Geschlecht kategorisiert, sondern sind eine Sammlung von Praktiken rund um Produktion, Auftritt und Selbstbestimmung.
 
 Schon vor der Entwicklung der Musikindustrie traten Frauen in Ensembles zu Hause und in den örtlichen Gemeinden auf. Im 20. Jahrhundert, mit der Etablierung der Plattenindustrie und der Live-House-Kultur, begann die bloße Präsenz von Frauen in der Öffentlichkeit als Band eine gesellschaftliche Bedeutung zu erlangen. In diesem Artikel werden diese Trends als Weltgeschichte rekonstruiert.
 
@@ -48,7 +48,7 @@ color: #fff;
 
 In den 1950er Jahren entstand in den USA der Rock'n'Roll und die Bandform wurde zum Zentrum der Jugendkultur. Andererseits standen damals oft Musikerinnen als Sängerinnen im Vordergrund und der Auftritt wurde in der Regel von Männern übernommen. Eine Ausnahme bildete eine rein weibliche Gruppe, die Musikinstrumente spielte.
 
-Die Shirelles und die Ronettes, die 1964 auftauchten, waren technisch gesehen Gesangsgruppen, aber als von Frauen dominierte Kollektive hatten sie einen starken Einfluss auf ihre Nachfolger. Schließlich, in den späten 1960er Jahren, wurde an der Westküste der Vereinigten Staaten und in England allmählich der Anblick von Frauen sichtbar, die Gitarren und Schlagzeug in die Hand nahmen.
+Die Shirelles und die Ronettes, die 1964 auftraten, waren technisch gesehen Gesangsgruppen, aber als von Frauen dominiertes Kollektiv hatten sie einen starken Einfluss auf ihre Nachfolger. Schließlich, in den späten 1960er Jahren, wurde an der Westküste der Vereinigten Staaten und in England allmählich der Anblick von Frauen sichtbar, die Gitarren und Schlagzeug in die Hand nahmen.
 
 <div class="mermaid">
 flowchart LR
@@ -88,7 +88,7 @@ B --> C[女性バンドの増加]
 
 ## 1990er Jahre: Riot Grrrl und die Politik der Selbstdarstellung
 
-Anfang der 1990er Jahre entstand im Nordwesten der USA die Riot-Grrrl-Bewegung. Dieser Trend, der durch Bikini Kill und Bratmobile veranschaulicht wird, verband Musik und Feminismus direkt miteinander. Songtexte und Zines behandelten Themen wie sexuelle Gewalt, Körper und Macht, und Lebensräume wurden als sichere Räume neu definiert.
+Anfang der 1990er Jahre entstand im Nordwesten der USA die Riot-Grrrl-Bewegung. Dieser Trend, der durch Bikini Kill und Bratmobile veranschaulicht wird, verband Musik und Feminismus direkt miteinander. Texte und Zines behandelten Themen wie sexuelle Gewalt, Körper und Macht, und Lebensräume wurden als sichere Räume neu definiert.
 
 Obwohl sich diese Bewegung von der kommerziellen Musik distanzierte, machte sie die Bedeutung der Existenz von Girlbands weltweit sichtbar. Es hatte auch einen ideologischen Einfluss auf Europa und Japan und begründete die Legitimität von Frauen, die mit ihrer eigenen Stimme sprechen.
 
@@ -151,7 +151,7 @@ Die Geschichte der Girlbands in Nordamerika ist geprägt von der Spannung zwisch
 
 In Amerika gibt es seit langem ein gesellschaftliches Unbehagen gegenüber Frauen, die Musikinstrumente besitzen. Infolgedessen waren frühe Frauenbands anfällig für starke Eingriffe seitens des Managements und der Produzenten, und es brauchte Zeit, bis sie das Recht auf Selbstbestimmung erlangten. Andererseits verbreiteten sich in Universitäts- und Regionalstädten Frauenbands, die nichts mit kommerziellem Erfolg zu tun hatten.
 
-Während der Alternative-Rock-Ära der 1990er Jahre wurden Girlbands zu genreübergreifenden Einheiten, die sich frei zwischen Rock, Punk und Indie bewegten. Infolgedessen wurden reine Frauenbands eher als eine von vielen Arten von Bands denn als etwas Besonderes anerkannt.
+Während der Alternative-Rock-Ära der 1990er Jahre wurden Girlbands zu genreübergreifenden Einheiten, die sich frei zwischen Rock, Punk und Indie bewegten. Infolgedessen wurden reine Frauenbands eher als eine von vielen Arten von Bands denn als etwas Besonderes erkannt.
 
 > Die nordamerikanische Szene war ein Testgelände, in dem die beiden Extreme von Werbung und Heimwerken nebeneinander existierten.
 
@@ -161,7 +161,7 @@ Während der Alternative-Rock-Ära der 1990er Jahre wurden Girlbands zu genreüb
 
 Die europäische Girlband-Szene hat einen anderen kulturellen Hintergrund als die amerikanische. In Großbritannien waren Klassengesellschaft und Jugendkultur eng miteinander verbunden, und für Frauen war die Gründung einer Band ein Ausdruck ihrer sozialen Stellung.
 
-In der Post-Punk-Ära der späten 1970er und 1980er Jahre gab es immer mehr Bands aus Kunstschulen und Schulnetzwerken, die musikalisches Experimentieren mit politischem Bewusstsein verbanden. In diesem Kontext wurden Frauenbands zu einer Präsenz, die in der musikalischen Avantgarde und Gesellschaftskritik eine Rolle spielten.
+In der Post-Punk-Ära der späten 1970er und 1980er Jahre gab es immer mehr Bands, die in Kunstschulen und Schulnetzwerken ansässig waren und musikalisches Experimentieren mit politischem Bewusstsein verbanden. In diesem Kontext wurden Frauenbands zu einer Präsenz, die in der musikalischen Avantgarde und Gesellschaftskritik eine Rolle spielten.
 
 In Kontinentaleuropa formiert sich rund um Berlin und Paris eine Szene, in der die Grenzen zwischen Kunst und Musik verschwimmen. Frauenbands entwickelten ihre eigenen einzigartigen Ausdrucksformen und vermischten sich dabei mit Clubkultur und Performance-Kunst.
 
@@ -207,7 +207,7 @@ Da sich die Medien verändern, von Musikmagazinen über das Fernsehen bis hin zu
 
 Bildung und Gemeinschaft waren für die Zunahme der Girlbands von entscheidender Bedeutung. Durch die Förderung der Musikausbildung, Workshops und Veranstaltungen nur für Frauen konnten neue Teilnehmer gewonnen werden.
 
-Insbesondere seit den 1990er Jahren fördern Netzwerke unter Frauen den Wissens- und Erfahrungsaustausch und unterstützen die Bildung einer nachhaltigen Szene.
+Besonders seit den 1990er Jahren fördern Netzwerke unter Frauen den Wissens- und Erfahrungsaustausch und unterstützen die Bildung einer nachhaltigen Szene.
 
 > Community ist ein Gerät, das die Fortsetzung der Geschichte ermöglicht.
 

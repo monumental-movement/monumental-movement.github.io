@@ -133,14 +133,14 @@ Diese Philosophie setzt sich direkt in den heutigen Max/MSP-Patches, Reaktor Blo
 | 1980 | Wir stellen vor: Serge Dual Slope Generator | Abgeschlossene Patch-Philosophie |
 | 1990er Jahre | Serge-Neubewertungszeitraum | Analoges Revival und Rückfall |
 | 2004 | Eurorack-Boom beginnt | Geerbt von Doepfer, Make Noise usw. |
-| 2020er | Buchla USA / Serge Nachdruck | Rekontextualisierung des ursprünglichen Gedankens |
+| 2020er Jahre | Buchla USA / Serge Nachdruck | Rekontextualisierung des ursprünglichen Gedankens |
 
 ---
 
 ## 5. Auswirkungen auf die modulare Kultur
 
 Die Philosophie von Buchler und Sarge definierte Klang selbst als „sozialen Akt“ neu.
-Mit anderen Worten: Er verlagerte seinen Fokus von „Instrumenten“ auf „Umgebungen“ und „Schnittstellen“.
+Mit anderen Worten, er verlagerte seinen Fokus vom „Instrument“ auf die „Umgebung“ und die „Schnittstelle“.
 
 Die modularen „unendlichen Kombinationen“ von Eurorack sind nicht einfach die Freiheit der Teile, sondern die Neukonfiguration der Bedeutung.
 Buchlas „Körperlichkeit“ und Serges „Strukturalität“ sind verschmolzen, und die heutige elektronische Musik wird immer „dezentrischer“.

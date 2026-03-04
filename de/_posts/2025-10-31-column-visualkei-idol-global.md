@@ -52,7 +52,7 @@ Dieses Genre, das einer westlichen Rockstruktur Ästhetizismus, Theatralik und G
 
 Für ausländische Zuhörer liegt der Reiz von Visual Kei in seiner Ausdruckskraft, die über Musikgenres hinausgeht.
 Make-up und Kostüme sind nicht nur Schein; Sie verwischen die Grenzen zwischen Individuum und Gesellschaft und gelten als Symbole der Selbstrekonstruktion.
-Vor allem in Europa wird es als Erweiterung der Gothic-, Androgynen- und Post-Punk-Kultur verstanden.
+Insbesondere in Europa wird es als Erweiterung der Gothic-, Androgynen- und Post-Punk-Kultur verstanden.
 In Amerika wurde es durch die Anime-Kultur und die Otaku-Sensibilität neu kontextualisiert.
 
 > „Sie geben nicht vor, Rockstars zu sein – sie *spielen* ihre Identität.“
@@ -119,7 +119,7 @@ Es hieß, die japanische Popkultur sei vorübergehend in Vergessenheit geraten.
 Allerdings überlebte die Visual Kei- und Idol-Kultur mit einer „anderen Grammatik“.
 
 Wenn die Stärke von K-POP in seiner Präzision als „fertiges Produkt“ liegt,
-In der Musik der japanischen Subkultur geht es um „Unvollkommenheit“ und „Nähe“.
+In der Musik der japanischen Subkultur dreht sich alles um „Unvollkommenheit“ und „Nähe“.
 Mit anderen Worten: Der Wert ist der Spielraum für den Lüftereingriff.
 Der Grund, warum ausländische Fans von japanischen Underground-Idolen und Indie-Visual Kei angezogen werden, ist dieser
 Das liegt daran, dass ich mit seiner „offenen und unvollendeten Natur“ sympathisiere.

@@ -14,7 +14,7 @@ title: Kinderkreis – Indonesien Mamba Mama
 ---
 
 
-Circle Children ist einer der Pseudonyme des US-amerikanischen DJs und Produzenten Armand Van Helden.
+Circle Children ist einer der Pseudonyme des US-DJs und Produzenten Armand Van Helden.
 
 „Indonesia / Mamba Mama“ ist ein House-/Tribal-House-Track, der 1993 auf dem House-Label Strictly Rhythm veröffentlicht wurde. Ausführende Produzentin ist Gladys Pizarro, Mitbegründerin von Strictly Rhythm.
 

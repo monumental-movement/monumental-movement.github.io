@@ -45,7 +45,7 @@ color: #fff;
 - **Asiatischer Schwarzbär (Ursus thibetanus)**: Kommt in Honshu, Shikoku und Kyushu vor, Körperlänge 120–150 cm, gutes Baumverhalten, Allesfresser.
 - **Braunbär (Ursus arctos yesoensis)**: Hokkaido, 180–250 cm lang, groß, frisst auch Fische und Kleintiere.
 
-Beide Arten sind nachtaktiv, aber während der Jagdsaison im Frühling und Herbst sind auch tagsüber Aktivitäten zu beobachten.
+Beide Arten sind nachtaktiv, aber während der Jagdsaison im Frühjahr und Herbst sind auch tagsüber Aktivitäten zu beobachten.
 
 ### 2.2 Höreigenschaften und Reaktion auf Geräusche
 
@@ -136,7 +136,7 @@ G[高周波電子音] --> H[実験的回避]
 
 ### 5.1 Sensorgebundener Warnton
 
-Erzeugt automatisch einen Ton, wenn sich ein Bär nähert. Ermutigen Sie zum Ausweichen, bevor ein Schaden entsteht.
+Erzeugt automatisch ein Geräusch, wenn sich ein Bär nähert. Ermutigen Sie zu Vermeidungsmaßnahmen, bevor ein Schaden entsteht.
 
 ### 5.2 Normaler Patrouillensound
 
@@ -156,7 +156,7 @@ Klangerzeugung nach Verhaltensmustern mittels KI-Analyse. Decken Sie ein großes
 
 ### 6.2 Internationale Fälle
 
-- **Kalifornien, USA**: Einbruchschutz mit elektronischen Klängen und menschlicher Stimme
+- **Kalifornien, USA**: Einbruchschutz mit elektronischen Klängen und menschlichen Stimmen
 
 - **BC, Kanada**: Nicht-tödliches Akustikmanagement reduziert Ernteschäden
 
@@ -166,7 +166,7 @@ Klangerzeugung nach Verhaltensmustern mittels KI-Analyse. Decken Sie ein großes
 
 Schadensbegrenzung ist eine Frage der Koexistenz, nicht der Schädlingsbekämpfung.
 
-Gegenmaßnahmen mit Schall sind nicht tödlich und wirksam
+Vernünftige Gegenmaßnahmen sind nicht tödlich und wirksam
 
 - **Herausforderungen**: Gewöhnung, Auswirkungen auf das Ökosystem, Kosten
 

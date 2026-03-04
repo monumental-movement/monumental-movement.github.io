@@ -76,7 +76,7 @@ Londoner Zeit → Aufnahme in den USA → Gründung in Afrika 1970 → politisch
 
 ### Beteiligte Bands/Produzenten/Menschen um sie herum
 
-**Koola Lobitos (früh)** → Afrika ’70 (kultigste Konfiguration) → Ägypten 80 (Konfiguration nach 1980). Obwohl die Mitglieder jede Saison wechseln, zeichnet es sich durch eine große, gemeinsame Zusammensetzung aus Bläsergruppe, Chor und Rhythmusgruppe aus.
+**Koola Lobitos (früh)** → Afrika ’70 (kultigste Konfiguration) → Ägypten 80 (Konfiguration nach 1980). Obwohl die Mitglieder jede Saison wechseln, zeichnet es sich durch eine große Zusammensetzung aus Bläsergruppe, Chor und Rhythmusgruppe aus.
 
 ---
 
@@ -110,7 +110,7 @@ Dies ist sein frühes Werk nach seinem Auslandsstudium in London und konzentrier
 #### Anfang der 1970er Jahre: Etablierung des Afrobeat
 - **Gentleman (1973)**
 Ein Meisterwerk, das den Kolonialismus kritisiert. Dem Funk-Groove wird eine soziale Botschaft hinzugefügt.
-- **„Confusion“ (1975)**
+- **Verwirrung (1975)**
 Ein 20-minütiges Lied, das das städtische Chaos in Lagos im übertragenen Sinne darstellt.
 
 #### Ende der 1970er Jahre: Politischer Höhepunkt
@@ -211,7 +211,7 @@ Auch „Black Times“ (2018) kreuzt sich mit Hip-Hop und Rock.
 Fela Kuti war nicht nur der „Vater des Afrobeats“, sondern auch ein Symbol des politischen Widerstands durch Musik. Dieses Erbe spiegelt sich weiterhin in seinen Söhnen Femi Kuti und Soon Kuti sowie in der Arbeit von Künstlern auf der ganzen Welt wider.
 Wenn Sie mehr über Afrobeat erfahren möchten, empfehlen wir Ihnen, mit „Gentleman“, „Expensive Shit“ und „Zombie“ zu beginnen.
 
-Die Worte und Rhythmen von Fela hallen immer noch in der Brise von Lagos und auf den Bühnen der Welt wider.
+Die Worte und Rhythmen von Fela hallen noch immer in den Winden von Lagos und auf den Bühnen der Welt wider.
 
 ---
 

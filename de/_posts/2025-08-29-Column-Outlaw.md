@@ -40,7 +40,7 @@ Rock and Roll/Rockabilly ist eine grenzüberschreitende Fusion aus weißer Jugen
 
 ---
 
-**Mechanismus**: Mischung von Musik, die Rassen- und Klassengrenzen überschreitet, + nächtliche Unterhaltung = „moralische Panik“ auslösen (Volksteufel und moralische Panik: Stanley Cohen). Vorschriften von Polizei, Schulen und Religionsgemeinschaften stärken tatsächlich die Einheit der Szene.
+**Mechanismus**: Mischung aus Musik, die Rassen- und Klassengrenzen überschreitet + nächtliche Unterhaltung = „moralische Panik“ auslösen (Volksteufel und moralische Panik: Stanley Cohen). Vorschriften von Polizei, Schulen und Religionsgemeinschaften stärken tatsächlich die Einheit der Szene.
 
 
 <hr>
@@ -84,7 +84,7 @@ Reggae/Dub wird mit der Soundsystemkultur in Verbindung gebracht und ist für di
 
 ---
 
-Disco ist ein Zufluchtsort für die LGBTQ+/Black/Latinx-Community, die sich das Recht zum Tanzen an der Grenze zwischen Legal und Illegalität verschafft, aber auch ihre Schattenseiten wie Nachtclubsicherheit und Diskriminierung beim Einlass hat.
+Disco ist ein Zufluchtsort für die LGBTQ+/Black/Latinx-Community, die sich das Recht zum Tanzen an der Grenze zwischen Legal und Illegalität verschafft, auch wenn sie ihre Schattenseiten wie Nachtclubsicherheit und Diskriminierung beim Einlass hat.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4KUL9-eNXzQ?si=0RcRn_F0ErMntOI7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -115,7 +115,7 @@ Hip-Hop hat die „vier Säulen“ Blockpartys, Graffiti, Breaking und DJ/MC. Vi
 
 ---
 
-Dem Metall wurde das Image vermittelt, es sei „dämonisiert“, und es löste Kontroversen über Selbstregulierungsmaßnahmen wie das PMRC aus. Je nach Subgenre kann es auch zu sozialen Konflikten über gewalttätige Vorfälle und diskriminierende Äußerungen kommen.
+Dem Metall wurde das Image verliehen, „dämonisiert“ zu werden, und es löste Kontroversen über Selbstregulierungen wie das PMRC aus. Je nach Subgenre kann es auch zu sozialen Konflikten über gewalttätige Vorfälle und diskriminierende Äußerungen kommen.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G3LvhdFEOqs?si=4R5mtsKWW15IxBLC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -186,7 +186,7 @@ Leftfield/Queer Clubs bauen sichere Nachträume wieder auf und legen interne „
 
 Während des Lockdowns kam es überall auf der Welt zu Outdoor-DJs/Streaming im Guerilla-Stil. Es wurden Versuche unternommen, „öffentliche Räume“ wie Parks, Dächer und Straßen „wieder zu besetzen“, und die Verhandlungen mit Polizei und Anwohnern sind in eine neue Phase eingetreten.
 
-Die Hybridisierung sozialer Bewegungen und Musikveranstaltungen (Spendenpartys, Gemeinschaftsküchen für gegenseitige Hilfe usw.) ist fortgeschritten, und der Schwerpunkt hat sich von der Dichotomie „illegal/legal“ hin zu Fürsorge und Konsensbildung verlagert.
+Die Hybridisierung sozialer Bewegungen und Musikveranstaltungen (Spendenpartys, Gemeinschaftsküchen für gegenseitige Hilfe usw.) schreitet voran und der Schwerpunkt liegt auf Fürsorge und Konsensbildung statt auf der Dichotomie „illegal/legal“.
 
 
 <hr>
@@ -251,3 +251,13 @@ Die Hybridisierung sozialer Bewegungen und Musikveranstaltungen (Spendenpartys, 
 
 Die Beziehung zwischen Musik und Gesetzlosen ist keine Verherrlichung des Verbrechens. Vielmehr handelt es sich um eine Visualisierung der Machtdynamik darüber, „wer, was und wie man Abweichung nennt“ und gleichzeitig eine Geschichte der Kreativität der Peripherie.
 Vom Rockabilly in den 1950er-Jahren bis zum Micro-Rave in den 2020er-Jahren hat Musik die Grenzen von Normen ausgereizt, gesellschaftliche Starrheiten gelockert und mit neuen öffentlichen Sensibilitäten experimentiert. Obwohl ihr Outlaw-Charakter gefährlich ist, prägen die Beats, die aus diesem Funken entspringen, oft die nächste Mainstream-Bewegung – und zwar ständig.
+
+---
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QEnLWtS3zcg?si=hjIeAyjhO4sw8kiY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

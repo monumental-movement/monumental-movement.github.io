@@ -51,7 +51,7 @@ Seine abstrakte, mathematische Klangkonstruktion vermittelte späteren jungen Me
 
 Die CAN-Gründer Holger Czukay und Irmin Schmidt waren seine Schüler.
 Nachdem sie eine klassische Ausbildung erhalten hatten, betrachteten sie Rock als eine Erweiterung der modernen Musik und nicht als Anti-Kunst.
-Ihr Experimentiergeist verbindet sich mit der Kommunalkultur, die der Studentenbewegung folgte, und das Studio verwandelt sich in einen „sozialen Experimentierort“.
+Ihr experimenteller Geist verbindet sich mit der Kommunalkultur, die der Studentenbewegung folgte, und das Studio verwandelt sich in einen „sozialen Experimentierort“.
 
 > „Wir haben keinen Blues. Wir müssen einfach unseren eigenen Sound machen.“
 > — Holger Czukay (CAN)
@@ -105,7 +105,7 @@ Es erschütterte die Grenze zwischen „Leben“ und „Maschine“.
 > „Motorik ist der Klang der „menschlichen Fortsetzung“, nicht einer Maschine.“
 > — Klaus Dinger
 
-Diese einfache rhythmische Struktur ähnelt der Berlin-Trilogie von David Bowie.
+Diese einfache rhythmische Struktur ähnelt David Bowies Berlin-Trilogie.
 Er hinterließ auch großen Einfluss auf Brian Enos Ambient-Werke.
 Im Klang von NEU! wird dem Zuhörer bewusst, dass die Zeit keine gerade Linie, sondern ein Kreis ist.
 
@@ -122,7 +122,7 @@ Sie schufen neue Musik, indem sie das „Rockformat“ völlig zerstörten.
 Mitglied **Jan Ermler** sagt.
 „Wir haben nicht an Rock geglaubt. Das Einzige, woran wir geglaubt haben, war ‚Aufnahmeband‘.“
 
-Die Hülle seines 1971 erschienenen Debütalbums „Faust“ wurde auf transparentes Vinyl gedruckt und erinnert an ein pulsierendes Herz.
+Die Hülle seines 1971 erschienenen Debütalbums „Faust“ wurde auf transparentes Vinyl gedruckt und ähnelte einem pulsierenden Herzen.
 Auch die Musik war fragmentiert.
 Die Lieder haben keine Melodie und ähneln eher dem Anhören einer Radiosendung.
 Es war jedoch eine Herausforderung für das eigentliche Gerüst der Popmusik.
@@ -193,7 +193,7 @@ Ihr Nachfolger „Deluxe“ (1975) wurde von Brian Eno als „die wichtigste Ban
 
 > „Ihr Sound war die pastorale Musik der Zukunft“ – Brian Eno
 
-Der von Forst geborene Klanggeist wurde an Ambient-, Post-Rock- und sogar zeitgenössische Umweltmusik weitergegeben.
+Der von Forst geborene Klanggeist wurde an Ambient, Post-Rock und sogar zeitgenössische Umweltmusik weitergegeben.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1Tl5fvP7LBM?si=Fu7MAW7YegbUcBfD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -201,7 +201,7 @@ Der von Forst geborene Klanggeist wurde an Ambient-, Post-Rock- und sogar zeitge
 
 ## Kapitel 8: Popol Vuh – Spiritualität und Klang in Bildern
 
-**Popol Vuh** sticht aus dem Krautrock heraus.
+**Popol Vuh** sticht aus dem Krautrock hervor.
 Leiter **Florian Fricke** widmete sich intensiv der religiösen Musik und Philosophie und war einer der ersten Anwender des Moog-Synthesizers.
 Sein Ziel war jedoch nicht die Kälte der Elektronik, sondern **Geheimnis und innerer Klang**.
 

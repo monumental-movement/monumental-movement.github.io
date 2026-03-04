@@ -17,7 +17,7 @@ title: '[Kolumne] Recondite und Waldbaden – Wenn Techno in den Wald zurückkeh
 ## Prolog: Ein Beat, der im Wald versinkt
 
 
-Text: mmr | Thema: Deutscher Minimal-Techno-Künstler Recondite. Die Musik lässt in ihren künstlichen Sequenzen das Atmen des Waldes hören. Hier erkunden wir die philosophische Schnittstelle zwischen seiner Arbeit und dem Waldbaden (Shinrin-yoku).
+Text: mmr | Thema: Deutscher Minimal-Techno-Künstler Recondite. In der Musik hört man in seinen künstlichen Sequenzen das Atmen des Waldes. Hier erkunden wir die philosophische Schnittstelle zwischen seiner Arbeit und dem Waldbaden (Shinrin-yoku).
 
 Recondite – richtiger Name Lorenz Brunner.
 Wenn viele Menschen seine Musik zum ersten Mal hören, verspüren sie ein Gefühl von „Einsamkeit“ und „Ruhe“.
@@ -183,7 +183,7 @@ Mit anderen Worten: Es präsentiert eine neue Körperlichkeit namens **Musik = W
 ## Kapitel 10: Fazit – Techno kehrt in den Wald zurück
 
 Die Musik von Recondite ist nicht mechanischer Natur, sondern
-**Es hält ein Gleichgewicht aufrecht, das sich anfühlt, als würde eine Maschine in der Natur atmen**.
+**Es hält das Gleichgewicht aufrecht wie eine Maschine, die in der Natur atmet**.
 
 Wenn das Baden im Wald ein Akt der „Rückkehr des Menschen zur Natur“ ist,
 Die Musik von Recondite ist ein Akt der „Rückführung von Techno in die Natur“.

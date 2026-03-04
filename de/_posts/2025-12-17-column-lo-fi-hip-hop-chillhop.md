@@ -13,7 +13,7 @@ tags:
 - Chillhop
 - 80s
 - 90s
-title: '[Kolumne] Lo-Fi Hip Hop / Chillhop (selbst aufgenommene Beat-Kultur)'
+title: '[Kolumne] Lo-Fi Hip Hop / Chillhop (selbst aufgenommene Beatkultur)'
 ---
 
 
@@ -56,7 +56,7 @@ Damals konzentrierte sich die Produktionsumgebung auf Hardware wie MPC, SP-1200 
 
 Von Ende der 1990er bis in die 2000er Jahre erfreuten sich DAW-Software und PCs immer größerer Beliebtheit. Dies hat es auch Personen ohne professionelles Studio ermöglicht, Beats zu Hause zu produzieren.
 
-In dieser Home-Recording-Umgebung ist es üblich geworden, dass die Produktion nur mit einem einfachen Audio-Interface, einem kostengünstigen MIDI-Controller und Kopfhörern durchgeführt wird. Es wird angenommen, dass der private Charakter des Produktionsraums eine introspektivere und unauffälligere Tendenz zum Klang gefördert hat.
+In dieser Home-Recording-Umgebung ist es üblich geworden, dass die Produktion nur mit einem einfachen Audio-Interface, einem kostengünstigen MIDI-Controller und Kopfhörern durchgeführt wird. Es wird angenommen, dass der private Charakter des Produktionsraums eine introspektivere und zurückhaltendere Tendenz zum Klang gefördert hat.
 
 Die Produktionsbedingungen des Homerecordings prägten das Gefühl des Genres.
 
@@ -85,7 +85,7 @@ Durch die Verknüpfung mit konzentrierten Aktivitäten wie Lernen, Lesen und Arb
 
 ## 6. Veränderungen in der Internet- und Vertriebsstruktur
 
-Seit den späten 2000er Jahren, mit dem Aufkommen von Video-Sharing-Sites und Musikvertriebsdiensten, ist Lo-Fi Hip Hop schnell sichtbarer geworden. Hochgradig anonyme Accountverwaltung, 24-Stunden-Streaming und eine auf Loop-Playback basierende Konfiguration bildeten eine in diesem Genre einzigartige Vertriebsform.
+Seit den späten 2000er Jahren, mit dem Aufkommen von Video-Sharing-Sites und Musikvertriebsdiensten, ist Lo-Fi Hip Hop schnell sichtbarer geworden. Hochgradig anonyme Account-Verwaltung, 24-Stunden-Streaming und eine auf Loop-Playback basierende Konfiguration bildeten eine in diesem Genre einzigartige Vertriebsform.
 
 Dies ist ein Beispiel dafür, wie das Vertriebsdesign das Musikformat direkt beeinflusst hat.
 
@@ -101,7 +101,7 @@ Diese Kategorisierung führte zu einem gewissen Grad an Formatbewusstsein auf de
 
 ## 8. Visuelle Darstellung und Animationskultur
 
-Auch mit Musik verbundene visuelle Darstellungen spielten eine wichtige Rolle bei der Verbreitung von Lo-Fi Hip Hop. Loop-Bilder aus Standbildern und einfachen Animationen passten gut zur repetitiven Natur der Musik.
+Auch mit Musik verbundene visuelle Darstellungen spielten eine wichtige Rolle bei der Verbreitung von Lo-Fi Hip Hop. Loop-Bilder aus Standbildern und einfachen Animationen passten hervorragend zum sich wiederholenden Charakter der Musik.
 
 Die visuelle Wiederholung diente dazu, die akustische Wiederholung zu verstärken.
 
@@ -117,7 +117,7 @@ Während diese Formalisierung die Eintrittsbarriere senkt, schränkt sie auch di
 
 ## 10. Kommerzialisierung und kritische Perspektive
 
-Lo‑Fi Hip Hop/Chillhop ist stark an ein Umsatzmodell gebunden, das auf gestreamten Aufrufen basiert. Für die Langzeitwiedergabe geeignete Strukturen sind sehr gut mit Algorithmen kompatibel und es gibt viele Fälle von kommerziellem Erfolg.
+Lo‑Fi Hip Hop/Chillhop war stark an ein Umsatzmodell gebunden, das auf gestreamten Aufrufen basierte. Für die Langzeitwiedergabe geeignete Strukturen sind sehr gut mit Algorithmen kompatibel und es gibt viele Fälle von kommerziellem Erfolg.
 
 Andererseits wird auch kritisiert, dass der Konsum von Musik als Hintergrund die Bewertung einzelner Werke erschwert.
 
@@ -181,7 +181,7 @@ Diese Erweiterung der Kultur wurde durch die Verlagerung der Rolle der Musik hin
 
 ---
 
-## 16. Musikalische Struktur im Zeitalter der Algorithmen
+## 16. Musikstruktur im Zeitalter der Algorithmen
 
 Empfehlungsalgorithmen in Vertriebsplattformen hatten einen starken Einfluss auf die Strukturbildung von Lo-Fi Hip Hop/Chillhop. Stabilität, die die Abbrecherquote senkt, ist wichtiger geworden als Vorstellungen, die in kurzer Zeit Eindruck machen oder dramatische Entwicklungen.
 

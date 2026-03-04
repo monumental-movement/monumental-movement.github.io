@@ -28,7 +28,7 @@ title: '[Kolumne] Morton Subotnick: Ein Innovator der elektronischen Musik und d
 Text: mmr｜Thema: Über die „kontrollierbare Zukunft“, die von Innovatoren der elektronischen Musik entwickelt wurde
 
 Morton Subotnick (1933–) ist ein amerikanischer zeitgenössischer Musiker und Komponist elektronischer Musik und weithin bekannt als die Person, die mit Silver Apples of the Moon (1967) die weltweit erste kommerzielle Schallplatte veröffentlichte, die vollständig mit Synthesizern produziert wurde.
-Dieses Werk erschien bei Nonesuch Records, einem auf klassische Musik spezialisierten Label, und war insofern bahnbrechend, als es elektronische Klänge in einer damals noch nie dagewesenen Art und Weise als „Werk“ präsentierte.
+Dieses Werk wurde von Nonesuch Records, einem auf klassische Musik spezialisierten Label, veröffentlicht und war insofern bahnbrechend, als es elektronischen Sound in einer damals noch nie dagewesenen Art und Weise als „Werk“ präsentierte.
 
 Subotnicks Innovationen gehen über das bloße Komponieren elektronischer Musik hinaus. Er ist auch als Schlüsselfigur bei der Entwicklung von Buchlas Westküsten-Synthesizer wichtig und hat die moderne modulare Synthesizer-Kultur nachhaltig beeinflusst.
 

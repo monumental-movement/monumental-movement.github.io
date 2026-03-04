@@ -21,7 +21,7 @@ title: '[Kolumne] Geschichte des US-amerikanischen Hip Hop: Gesamtbild einschlie
 Text: mmr｜Thema: Über Hip-Hop, wo in jeder Region der Vereinigten Staaten unterschiedliche Stile entstanden sind
 
 Hip-Hop wurde Ende der 1970er Jahre in der Bronx, New York, geboren und hat sich nicht nur zu einem Musikgenre entwickelt, sondern auch zu einer Kultur, die mit Tanz, Graffiti, Mode und sozialen Bewegungen verbunden ist.
-In den Vereinigten Staaten bildeten sich in jeder Region unterschiedliche Stile heraus, und die Entwicklung wurde durch die Clubszene, das Radio, Demotapes und die Plattenkultur unterstützt. Darüber hinaus symbolisierten die Entwicklung der Sampling-Technologie und der daraus resultierende Trend zum De-Sampling musikalische Innovationen im Hip-Hop.
+In Amerika bildeten sich in jeder Region unterschiedliche Stile heraus, und die Entwicklung wurde durch die Clubszene, das Radio, Demotapes und die Plattenkultur unterstützt. Darüber hinaus symbolisierten die Entwicklung der Sampling-Technologie und der daraus resultierende Trend zum De-Sampling musikalische Innovationen im Hip-Hop.
 
 ---
 
@@ -46,11 +46,11 @@ color: #fff;
 Junge Leute in der Bronx veranstalten DJ-Partys in verlassenen öffentlichen Räumen und Gemeindezentren. Durch die Wiederholung gebrochener Beats entwickelte sich der B-Boy/B-Girl-Tanz.
 Clubs und Blockpartys waren mehr als nur Musikveranstaltungsorte; Sie waren ein Symbol der Einheit der Gemeinschaft.
 
-### Die Bedeutung von Radio- und Demotapes
+### Die Bedeutung von Radio- und Demobändern
 Damals wurde Hip-Hop durch Radiosendungen populär gemacht (z. B. „The Show“ von WBLS), und Demotapes waren ein wichtiges Mittel, um Künstler zu entdecken.
 DJ Kool Herc und Afrika Bambaataa spielten ihre Mixtapes im lokalen Radio und auf Partys und trugen so zur Verbreitung der Musik bei.
 
-### Repräsentatives Meisterwerk
+### Repräsentative Meisterwerke
 
 [The Sugarhill Gang『Rapper's Delight』(1979)](https://amzn.to/4ngQIOx)
 
@@ -73,7 +73,7 @@ In den Clubs und Partys der Westküste wurde ein einzigartiger G-Funk-Stil entwi
 ### Rolle von Demotapes und Radio
 Das neue Lied wurde auf lokalen Radiosendern (KDAY, KMEL) ausgestrahlt und junge Leute, die sich das Demoband anhörten, verbreiteten es mündlich. Insbesondere lokale Radio-DJs fungierten als Schiedsrichter der Szene.
 
-### Repräsentatives Meisterwerk
+### Repräsentative Meisterwerke
 
 [Run-D.M.C.『Raising Hell』(1986)](https://amzn.to/3IBasNE)
 
@@ -101,7 +101,7 @@ OutKast und UGK entstanden und etablierten ihren eigenen einzigartigen Sound. Di
 Aufgrund von Urheberrechtsproblemen und steigenden Kosten greifen immer mehr Künstler auf die Produktion von Originaltonquellen und Live-Auftritten zurück.
 Dr. Dres „The Chronic“ (1992) nutzt gekonnt Sampling, während G-Funk viele Synthesizer und originelle Basslinien verwendet.
 
-### Repräsentatives Meisterwerk
+### Repräsentative Meisterwerke
 
 **East Coast**: [The Notorious B.I.G.『Ready to Die』(1994)](https://amzn.to/3K94fcv)
 
@@ -121,7 +121,7 @@ Probenentnahme und Ausrüstungsänderungen
 Mit der Verbreitung von DAWs (Pro Tools, Ableton Live) ist es nun möglich, mithilfe von Synthesizern und Plug-Ins einzigartige Klangquellen zu erstellen, ohne auf Sampling angewiesen zu sein.
 Dadurch erhöht sich der Anteil der Original-Beats.
 
-### Repräsentatives Meisterwerk
+### Repräsentative Meisterwerke
 
 [Jay-Z『The Blueprint』(2001)](https://amzn.to/4pC13WW)
 
@@ -143,7 +143,7 @@ DAW (Ableton Live, FL Studio)
 
 Erweiterung der Verwendung von Plugins und Beispielpaketen
 
-### Repräsentatives Meisterwerk
+### Repräsentative Meisterwerke
 
 [Kendrick Lamar『good kid, m.A.A.d city』(2012)](https://amzn.to/4pCB4yv)
 
@@ -196,7 +196,7 @@ Unautorisierte Probe in „Übertragung von Livedaten vom Mars“. Seitdem war D
 | 1990er Jahre | *The Chronic*, *All Eyez on Me* | Parliament-Funkadelic, G-Funk |
 | 2000er | *Stakonia*, *Tha Carter III* | Reduzierter Sampling/Synth-Mainstream |
 | 2010er | *DS2*, *My Beautiful Dark Twisted Fantasy* | Sampling-Reduktion/hausgemachter Beat + Auto-Tune |
-| 2020er | *Herr. Moral & The Big Steppers*, *The Off-Season* | Beispielregression + KI-generiertes Beat-Experiment |
+| 2020er Jahre | *Herr. Moral & The Big Steppers*, *The Off-Season* | Beispielregression + KI-generiertes Beat-Experiment |
 
 ---
 
@@ -219,7 +219,7 @@ Unautorisierte Probe in „Übertragung von Livedaten vom Mars“. Seitdem war D
 | 1990er Jahre | Akai MPC60/3000, Roland TR-909, Ensoniq ASR-10 |
 | 2000er | Korg Triton, Roland Fantom, Pro Tools, TR-808 |
 | 2010er | FL Studio, Ableton Live, Auto-Tune, Maschine |
-| 2020er | Serato DJ, Ableton Push, Native Instruments Maschine+, AI-Beat-Generierungstool |
+| 2020er Jahre | Serato DJ, Ableton Push, Native Instruments Maschine+, AI-Beat-Generierungstool |
 
 ---
 
@@ -231,7 +231,7 @@ Unautorisierte Probe in „Übertragung von Livedaten vom Mars“. Seitdem war D
 | 1990er Jahre | West (LA, Bay) | G-Funk auf dem Höhepunkt, 2Pac vs. Biggie |
 | 2000er | Süden (ATL, Houston, Miami) | Trap Eve, Crunk und der Aufstieg von Screwstyle |
 | 2010er | Trap (Süd) + Mittlerer Westen (Chicago Drill, Kanye, Detroit Beat) | Sampling-Reduktion + FL Studio-Spread |
-| 2020er | Multipolarisierung (Ost, West, Süden, Mittlerer Westen) | KI-Beat, Stichprobenregression, dezentrale Internetkultur |
+| 2020er Jahre | Multipolarisierung (Ost, West, Süden, Mittlerer Westen) | KI-Beat, Stichprobenregression, dezentrale Internetkultur |
 
 ---
 
@@ -352,7 +352,7 @@ Bass : ▂▄▆█▇▆▄▂
 
 ---
 
-## 2000er (Digitalisierung/Vereinsfokus)
+## 2000er Jahre (Digitalisierung/Vereinsfokus)
 
 <table class="table-wave">
 <tr>
@@ -432,7 +432,7 @@ Bass : ▂▄▇█▇█▇█▄▂
 </tr>
 </table>
 
-**Zusätzliche Überlegungen**
+**Ergänzende Überlegungen**
 
 Genealogiediagramme ermöglichen es Schülern, „Meister-Schüler-Beziehungen“ und „Einflussbeziehungen“ intuitiv zu verstehen.
 

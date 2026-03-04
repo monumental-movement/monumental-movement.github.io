@@ -22,9 +22,9 @@ title: '[Kolumne] Indie Shoegaze / Dream Pop'
 Text: mmr｜Thema: Zur Geschichte der Rekonstruktion von Klangbildern und Empfindungen
 
 Shoegaze und Dream Pop, die zwischen Ende der 1980er und Anfang der 1990er Jahre vor allem im Vereinigten Königreich aufkamen, veränderten den Ausdrucksbereich der Rockmusik erheblich von „Performance“ hin zu „Klangbild“.
-Diese Musik konzentriert sich auf den Raum, den Nachhall und die sinnliche Dauer, die durch überlappende Klänge entstehen, und nicht auf den unmittelbaren Reiz der Melodie oder die klare Wiedergabe von Texten.
+Diese Musik konzentriert sich auf den Raum, den Nachhall und den sinnlichen Sustain, der durch überlappende Klänge entsteht, und nicht auf den unmittelbaren Reiz der Melodie oder die klare Wiedergabe von Texten.
 
-Der Begriff „Shoegaze“ entstand aus der Art und Weise, wie Menschen während der Aufführung auf die Effektorbretter zu ihren Füßen blickten, und der Begriff etablierte sich als Symbol für die introvertierte Natur der Aufführung. Dream Pop hingegen entstand als Ergebnis der Verschmelzung einer früheren Ambient-Pop-Sensibilität mit der klanglichen Ausrichtung des Post-Punk.
+Der Begriff „Shoegaze“ entstand aus der Art und Weise, wie Menschen während der Aufführung auf die Effektorbretter zu ihren Füßen blickten, und der Begriff etablierte sich als Symbol für die introvertierte Natur der Aufführung. Dream Pop hingegen entstand als Ergebnis der Verschmelzung einer früheren Ambient-Pop-Sensibilität mit der Post-Punk-Klangorientierung des Post-Punks.
 
 Obwohl die beiden unterschiedlichen Ursprungs sind, sind sie hinsichtlich der Klangverarbeitung, der Stimmverarbeitung und der visuellen Sensibilität eng miteinander verbunden.
 
@@ -77,7 +77,7 @@ Die Verzögerung wird verwendet, um überlappende Nachhalleffekte zu erzeugen, a
 ### 2-2. Rhythmus im Hintergrund
 
 Schlagzeug und Bass fungieren nicht als treibende Kraft hinter dem Song, sondern fungieren als Schwerpunkt zur Unterstützung des Klangbildes.
-Das Tempo ist relativ konstant und der Schwerpunkt liegt eher auf der Fortsetzung eines Zustands als auf einer dramatischen Entwicklung.
+Das Tempo ist relativ konstant und der Schwerpunkt liegt eher auf der Fortsetzung eines Zustands als auf dramatischen Entwicklungen.
 
 ---
 
@@ -94,7 +94,7 @@ My Bloody Valentine ist eine Ikone von Shoegaze.
 Ihre Musik ist nicht nur Verzerrung, sondern basiert auf Tonhöhenschwankungen, Tonhöheninstabilität und winzigen Verschiebungen.
 
 Kevin Shields nutzt eine einzigartige Spieltechnik mit einem Tremoloarm, um ein Klangbild zu erzeugen, das den gesamten Akkord weiter zum Beben bringt.
-Dadurch verliert die Gitarre ihren perkussiven Anschlag und erhält eine kontinuierliche wellenartige Textur.
+Dadurch verliert die Gitarre ihren perkussiven Anschlag und erhält eine kontinuierliche wellenartige Struktur.
 
 [„Die Instabilität der Darbietung schafft Stabilität in der Musik“]
 
@@ -185,7 +185,7 @@ Diese Technik trug sowohl zur räumlichen Räumlichkeit des Dream Pop als auch z
 
 ### A-2. Vordergrund und Hintergrund im Mix neu definieren
 
-Bei traditionellen Rockmixen stehen Gesang und Leadinstrumente typischerweise im Vordergrund.
+Bei traditionellen Rockmischungen stehen Gesang und Leadinstrumente typischerweise im Vordergrund.
 Im Shoegaze/Dream Pop wird dieses Prinzip jedoch bewusst gebrochen.
 
 Gesang wird in den Mitteltonbereich eingebettet und genauso behandelt wie der Nachhall von Gitarre und Synthesizer.
@@ -251,7 +251,7 @@ Die niedrige Sichtlinie, die gedämpfte Beleuchtung und das ausdruckslose Ersche
 ### D-2. Fehlen eines Themas im Video
 
 In Musikvideos und Bildmaterialien werden Personen oft nicht klar dargestellt oder absichtlich unscharf dargestellt.
-Dies ist ein Versuch, die visuelle Anonymität ähnlich wie bei der Musik sicherzustellen.
+Dies ist ein Versuch, ähnlich wie bei Musik, visuelle Anonymität zu gewährleisten.
 
 [„Es geht nicht darum, wer den Ton erzeugt, sondern darum, was den Ton erzeugt“]
 
@@ -262,7 +262,7 @@ Dies ist ein Versuch, die visuelle Anonymität ähnlich wie bei der Musik sicher
 ### E-1. Nachfolge bis Ende der 1990er Jahre und darüber hinaus
 
 Auch nachdem Shoegaze und Dream Pop vorübergehend die kommerzielle Aufmerksamkeit verloren, blieben ihre Techniken im Untergrund bestehen.
-Der Schwerpunkt auf Klangbildern wird in Alternative Rock, Post-Rock und Ambient-Pop neu interpretiert.
+Die Betonung des Klangbildes wird in Alternative Rock, Post-Rock und Ambient-Pop neu interpretiert.
 
 ---
 

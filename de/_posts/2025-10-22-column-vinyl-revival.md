@@ -78,7 +78,7 @@ Der Anstieg der Plattenverkäufe hat nicht nur etwas mit Nostalgie zu tun;
 Es ist ein Symbol für das neue Verbraucherverhalten des „Kauferlebnisses“.
 
 Insbesondere viele der Käufer der Generation Z sind selbst die „digitale Generation“.
-Schallplatten fungieren für sie als „unbekannte Klassiker“ – ein neues Erzählmittel.
+Schallplatten fungieren für sie als „unbekannte Klassiker“ = ein neues Erzählmittel.
 
 ---
 

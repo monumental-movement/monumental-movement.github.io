@@ -20,7 +20,7 @@ title: '[Kolumne] Nala Sinephro – Klangatmung und kosmische Stille: Der aktuel
 
 Text: mmr｜Thema: Beim Jazz geht es nicht um Technik oder Genreerweiterung, sondern um die grundlegende Frage, was Klang dem Menschen bringen kann.
 
-Wenn wir zum ersten Mal mit der Musik von Nala Sinephro in Kontakt kommen, sind wir gezwungen, das Konzept eines „Liedes“ loszulassen.
+Wenn wir Nala Sinephros Musik zum ersten Mal hören, sind wir gezwungen, das Konzept eines „Liedes“ aufzugeben.
 Sein Debütalbum Space 1.8, das 2021 bei Warp Records erschien, war ein Werk, das die Grenzen zwischen Jazz und Ambient, modularer Synthese und Improvisation verschmolz, als ob es atmen würde.
 
 Harfe, Tenorsaxophon, modularer Synthesizer und der Raum selbst.
@@ -83,7 +83,7 @@ Dies ist ein Fluss, der das von Brian Eno vorgeschlagene Konzept der „Umweltmu
 Nala Sinephros Musik steht im Geiste von Harold Budd, Alice Coltrane und Laraaji.
 Es ist der „kontemplative Modernismus“, der in der Post-Club-Ära des 21. Jahrhunderts neu definiert wurde.
 
-Ihre Harfe und ihre Synthesizer verbreiten „jazzartige Improvisationen“ im Raum, indem sie Klangebenen hinzufügen.
+Ihre Harfe und ihre Synthesizer verbreiten „jazzartige Improvisationen“ im Raum und fügen Klangebenen hinzu.
 Der Rhythmus verschwindet, die Melodie driftet ab und alles, was bleibt, ist das Gefühl von Zeit und Raum.
 
 

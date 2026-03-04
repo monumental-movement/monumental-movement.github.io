@@ -23,7 +23,7 @@ title: '[Kolumne] Rei Harakami – Leiser elektronischer Sound, geboren in Kyoto
 ## Prolog: Kyoto, das im Klangraum lebt
 
 
-Text: mmr｜Thema: Rei Harakamis Musik und die Atmosphäre und Ästhetik der Stadt Kyoto
+Text: mmr | Thema: Rei Harakamis Musik und die Atmosphäre und Ästhetik der Stadt Kyoto
 
 
 Wenn ich Rei Harakamis Musik höre, spüre ich als Erstes „Ruhe“.

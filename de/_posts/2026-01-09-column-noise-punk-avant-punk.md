@@ -18,11 +18,11 @@ title: '[Kolumne] Noise Punk / Avant-Punk ─ Wenn destruktiver Impuls zur Ideol
 
 ## Prolog: Warum Punk brechen musste
 
-Text: mmr｜Thema: Über Noise-Punk/Avant-Punk, der ein Erinnerungsgerät zur ständigen Ablehnung der sicheren Zone der Musik ist
+Text: mmr｜Thema: Über Noise-Punk/Avant-Punk, der als Erinnerungsinstrument für die ständige Ablehnung der sicheren Zone der Musik dient
 
 Noise Punk/Avant Punk ist ein Versuch der extremen Selbstzerstörung, der aus der Punk-Bewegung hervorgegangen ist, die Ende der 1970er Jahre entstand. Anstelle der oberflächlichen Bilder des frühen Punks wie Geschwindigkeit und Rebellion zeichnet sich Punk durch seinen zugrunde liegenden Impuls der „Verleugnung“, „Verweigerung“ und „Zerstörung“ aus, der sich auf die musikalische Struktur selbst erstreckt.
 
-Bei dieser Musik kommt es nicht auf Können und Vergnügen an. Vielmehr werden aktiv Phrasen gewählt, die nahezu unspielbar sind, Dissonanzen aufweisen und Rhythmen am Rande des Zusammenbruchs stehen. Es herrschte ein klares Misstrauen gegenüber dem Unterhaltungswert und dem kommerziellen Wert der Rockmusik.
+Bei dieser Musik kommt es nicht auf Können und Vergnügen an. Vielmehr werden aktiv Phrasen gewählt, die nahezu unspielbar sind, Dissonanzen aufweisen und Rhythmen kurz vor dem Zusammenbruch stehen. Es herrschte ein klares Misstrauen gegenüber dem Unterhaltungswert und dem kommerziellen Wert der Rockmusik.
 
 DNA und The Pop Group sind die radikalste Verkörperung dieser Haltung. Anstatt den Punk zu aktualisieren, haben sie ihn von innen heraus zerlegt und so einen völlig anderen Ausdrucksbereich eröffnet.
 
@@ -48,7 +48,7 @@ color: #fff;
 
 Um 1977 verbreitete sich Punk rasant und wurde gleichzeitig schnell formalisiert. 3 Akkorde, kurze Lieder, aggressive Einstellung. Sie entwickelten sich schnell zu einem Stil und begannen, reproduziert zu werden. Noise Punk/Avan Punk entstand aus einem starken Gefühl des Unbehagens in dieser Situation.
 
-Das Problem für sie bestand darin, dass Rock wieder einmal auf „leicht verständliche Musik“ reduziert wurde. Rebellion wird zum Symbol und Dissens wird zur Mode. Um den Prozess selbst abzulehnen, bewegte sich die Musik bewusst in eine unverständliche Richtung.
+Das Problem für sie bestand darin, dass Rock erneut auf „leicht verständliche Musik“ reduziert wurde. Rebellion wird zum Symbol und Dissens wird zur Mode. Um den Prozess selbst abzulehnen, bewegte sich die Musik bewusst in eine unverständliche Richtung.
 
 Diese Haltung schien Punk zu leugnen, in Wirklichkeit war sie jedoch eine gründliche Umsetzung des grundlegenden Geistes des Punk.
 
@@ -139,7 +139,7 @@ timeline
 
 Dieser Trend trat in kurzer Zeit intensiv auf und hinterließ einen tiefgreifenden Einfluss auf die nachfolgende alternative Musik.
 
-> Obwohl die Geschichte des Noise Punk kurz ist, dauern seine Nachbeben noch lange an.
+> Die Geschichte des Noise Punk ist kurz, aber seine Nachbeben sind lang anhaltend.
 
 ---
 

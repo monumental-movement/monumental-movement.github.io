@@ -56,7 +56,7 @@ Zu diesem Zeitpunkt hatte Funk bereits die Qualitäten einer Loop-basierten Musi
 ## Kapitel 2: Änderungen vor der Elektronikisierung
 
 
-In den späten 1970er Jahren begannen Fortschritte in der Studiotechnologie die Art und Weise, wie Funk produziert wurde, zu verändern. Mit der Verbreitung der Mehrspuraufzeichnung begann man, Aufführungen aufzuschlüsseln und als Material zu behandeln, das bearbeitet werden konnte. Dadurch wurde mehr Wert auf rhythmische Präzision und klangliche Einheitlichkeit gelegt.
+In den späten 1970er Jahren begannen Fortschritte in der Studiotechnologie die Art und Weise, wie Funk produziert wurde, zu verändern. Mit der Verbreitung der Mehrspuraufzeichnung wurden Aufführungen zunehmend zerlegt und als bearbeitbares Material behandelt. Dadurch wurde mehr Wert auf rhythmische Präzision und klangliche Einheitlichkeit gelegt.
 
 Etwa zur gleichen Zeit wurden E-Pianos und frühe Synthesizer eingeführt, und das Keyboard wandelte sich von einem reinen Harmonieinstrument zu einem Instrument zur Wiedergabe von Klangfarben. Zu diesem Zeitpunkt wurden die Ideen für spätere Synthesizer-Bässe und elektronische Leads vorbereitet.
 
@@ -76,7 +76,7 @@ Gleichzeitig wurden Synthesizer-Basslinien alltäglich, und der tiefe Bereich wu
 ## Kapitel 4: Digitale Produktionsumgebung und Modern Funk
 
 
-Seit den 1990er Jahren ist mit der Verbreitung von DAWs die individuelle Produktion zu einer realistischen Option geworden. Funk setzt nicht mehr auf große Bands, sondern auf Musik, die von einer kleinen Gruppe von Menschen oder von einem einzelnen Produzenten geschaffen werden kann.
+Seit den 1990er Jahren ist mit der Verbreitung von DAWs die individuelle Produktion zu einer realistischen Option geworden. Funk setzt nicht mehr auf große Bands, sondern wechselt zu Musik, die von einer kleinen Gruppe von Menschen oder von einem einzelnen Produzenten geschaffen werden kann.
 
 Im Modern Funk ist jedes Element klar organisiert. Es ist üblich geworden, einen Synthesizer-Bass für tiefe Frequenzen, eine programmierte Trommel für den Rhythmus und einen polyphonen Synthesizer für Akkorde zu haben, und das Frequenzmanagement in der Mix-Phase wird immer wichtiger.
 

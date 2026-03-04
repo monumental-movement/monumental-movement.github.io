@@ -232,7 +232,7 @@ Es besteht aus aufwändigen Metaphern und abstrakten Ausdrücken.
 * Inhalte, die den Underground-Hip-Hop der späten 90er Jahre symbolisieren
 * Viele Prototypelemente späterer Werke von Def Jux (Cannibal Ox usw.) sind zu sehen.
 
-Es heißt, dass „Funcrusher Plus“ um dieses Lied herum eine „Underground-Ideologie“ etabliert habe.
+Es wird gesagt, dass „Funcrusher Plus“ um dieses Lied herum eine „Underground-Ideologie“ etabliert hat.
 
 ---
 
@@ -396,7 +396,7 @@ Er präsentierte eine Perspektive, die auch nach mehr als 20 Jahren noch aktuell
 Das Erbe von Company Flow ist
 Es geht über den Wert bloßer Musikwerke hinaus.
 
-* Möglichkeit von Indie
+* Indie-Möglichkeiten
 * Autonomie des Künstlers
 * Bedeutung der Politik
 * Untergrund als Ästhetik

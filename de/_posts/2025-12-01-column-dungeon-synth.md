@@ -27,7 +27,7 @@ title: '[Kolumne] Dungeon Synth – Eine Underground-Ambient-Ästhetik, die vom 
 
 Text: mmr｜Thema: Über die Geschichte, Produktionstechniken und die kulturelle Stellung von Dungeon Synth, einem vom Black Metal abgeleiteten Underground-Ambient-Genre
 
-Dungeon Synth ist ein Musikgenre, das die Spiritualität von Black Metal und Fantasy/mittelalterlicher Weltanschauung durch minimalistische Synthesizer-Sounds zum Ausdruck bringt.
+Dungeon Synth ist ein Musikgenre, das die Spiritualität von Black Metal und Fantasy/mittelalterlicher Weltanschauung mit minimalistischen Synthesizer-Sounds zum Ausdruck bringt.
 Seine Ursprünge liegen in der europäischen Extremmusikszene der frühen 1990er Jahre, doch ab Ende der 2010er Jahre, mit der Ausbreitung der Bandcamp-Kultur, wuchs die zweite und dritte Generation rasch an und hat sich mittlerweile zu einem riesigen DIY-Netzwerk entwickelt.
 
 ---
@@ -65,7 +65,7 @@ Daher wird die Musik oft als „Soundtrack ohne Film“, „Ambient-Musik für e
 
 ---
 
-## ■ 2. Geschichte ─ Von den Anfängen bis zur Gegenwart
+## ■ 2. Geschichte – von den Anfängen bis zur Gegenwart
 
 Im Folgenden fassen wir die wichtigen Trends von der Geburt des Genres bis zur Gegenwart zusammen.
 
@@ -75,10 +75,10 @@ In den frühen 1990er Jahren, am Rande des skandinavischen Black Metal, begannen
 Von besonderer Bedeutung sind:
 - **Mortiis (Norwegen)**
 Ehemaliges Mitglied des Kaisers. Etablierte einen mittelalterlichen Fantasy-Stil „Dark Dungeon Music“.
-- **Frühe Klavierstücke von Burzum (Norwegen)**
+- **Burzum (Norwegen) frühe Klavierstücke**
 Der letzte Song von „Hvis Lyset Tar Oss“ und die Ambient-Tracks von „Filosofem“ hinterließen eine starke Symbolik für den späteren Dungeon Synth.
 
-Obwohl es sich hierbei um Klangquellen handelt, die älter waren als der Begriff „Dungeon Synth als Genrename“, werden sie von späteren Generationen eindeutig als Quelle behandelt.
+Obwohl es sich dabei um Klangquellen aus der Zeit vor „Dungeon Synth als Genrename“ handelt, werden sie von späteren Generationen eindeutig als Quelle behandelt.
 
 ### ● 2-2. Erste Welle (1995–2000)
 Von 1995 bis 2000 veröffentlichte ein junges europäisches Projekt, das Mortiis „Era I“ vorausging, Cernunnos Woods, Depressive Silence und Old Tower Werke, die hauptsächlich auf Tonband vertrieben wurden.
@@ -89,7 +89,7 @@ Da das Genre außerhalb des Mainstreams der Metal-Szene lag, blieb es bis Mitte 
 Doch Ende der 2000er Jahre, als der frühe Black Metal neu bewertet wurde, wurde **Mortiis Era I neu aufgelegt** und begann weltweit erneute Aufmerksamkeit zu erregen.
 
 ### ● 2-4. Zweite Welle (2010–2015)
-Ausschlaggebend waren Veränderungen im Internetumfeld und die Verbreitung von Bandcamp.
+Veränderungen im Internetumfeld und die Verbreitung von Bandcamp waren der entscheidende Faktor.
 
 - **Rise of Bandcamp (Anfang der 2010er Jahre)**
 - **Der Name „Dungeon Synth“ hat sich auf Reddit/Forum etabliert**
@@ -101,7 +101,7 @@ Parallel zum Atmospheric Black Metal entstanden in dieser Zeit in Übersee immer
 Die wichtigste Zeit, in der das Genre schnell wuchs.
 
 - **Alter Turm (Niederlande)**
-Mit seinem majestätischen, vielschichtigen Stil spielt es eine zentrale Rolle im modernen Dungeon Synth.
+Mit seinem majestätischen, vielschichtigen Stil spielt es die zentrale Rolle im modernen Dungeon Synth.
 - **Thangorodrim (Portugal)**
 Neuinterpretation des frühen Lo-Fi-Feelings und der klassischen Fantasy-Weltanschauung.
 - **Lehen (USA)**
@@ -140,7 +140,7 @@ timeline
 # ■ 4. Sounddesign: Dungeon Synth-Produktionstechniken
 
 Dungeon Synth ist „ein Genre, das die Einschränkungen der Ausrüstung als Ästhetik sublimiert.“
-Im Folgenden fassen wir die Tonquellen, MIDI-Bedienung und Effektmethoden zusammen, die in der tatsächlichen Produktion verwendet werden.
+Im Folgenden fassen wir die Klangquellen, MIDI-Bedienung und Effektmethoden zusammen, die in der tatsächlichen Produktion verwendet werden.
 
 ---
 
@@ -149,15 +149,15 @@ Im Folgenden fassen wir die Tonquellen, MIDI-Bedienung und Effektmethoden zusamm
 ### ■ Klassische PCM-Tonquelle
 Viele Künstler suchten das Gefühl von Spielekonsolen und PCM-Tastaturen aus den 90er Jahren.
 
-- **Roland JV/XP-Serie (aktuell oder Probenahme)**
+- **Roland JV/XP-Serie (aktuell oder als Probe)**
 - **Yamaha PSR-Serie** (günstige Heimtastatur)
-- **Korg Triton / M1 Beispieltonquelle**
+- **Korg Triton / M1 Beispiel-Soundquelle**
 - **General MIDI-Ton (GM-Klangquelle)**
 
 GM-Klaviere, Chor-Aahs, Streicher, Pads usw. Billigkeit und Nostalgie werden als Werte behandelt.
 
 ### ■ Soft-Synth
-In der heutigen Zeit werden häufig folgende verwendet:
+In der heutigen Zeit werden häufig verwendet:
 
 - **DSK-freies VST**
 - DSK ChoirZ, DSK Strings usw.
@@ -200,7 +200,7 @@ Das Hinzufügen einer Rauheit von etwa 8 bis 12 Bit verstärkt das 90er-Jahre-Fe
 - Wow & Flatter
 - Rauschen (Bandrauschen)
 
-Viele Künstler nehmen ihre Songs tatsächlich auf Kassetten auf.
+Viele Künstler nehmen ihre Songs tatsächlich auf Kassette auf.
 
 ### ■ EQ-Verarbeitung
 - **Niedrig (unter 100 Hz) entfernen** → In Richtung Mono/Textur alter Geräte
@@ -252,7 +252,7 @@ Zeitgenössische Künstler verwenden eine Vielzahl von Ausdrucksformen wie handg
 
 ## ● 6-2. Jackenkultur
 - Kleinformatige Kunst für Kassetten
-- Vertikales Bild für die Bandcamp-Jacke
+- Vertikales Bild für Bandcamp-Jacke
 - Leicht verschmierte Schrift
 
 Der visuelle Einfluss ist äußerst groß und trägt dazu bei, das Weltbild des Werkes zu ergänzen.
@@ -315,7 +315,7 @@ Nachfolgend finden Sie einen Plan für die tatsächliche Erstellung eines Songs.
 
 # ■ 9. Kulturelle Bedeutung von Dungeon Synth
 
-Dungeon Synth ist eine seltene Musikrichtung, die die intensive Weltanschauung des Black Metal mit der Ruhe der Ambient-Musik verbindet und eine Kultur darstellt, die danach strebt, „eine innere Welt aufzubauen“.
+Dungeon Synth ist eine seltene Musikrichtung, die die intensive Weltanschauung des Black Metal mit der Ruhe des Ambient verbindet und eine Kultur darstellt, die danach strebt, „eine innere Welt aufzubauen“.
 
 - Einzelne Schöpfer erzählen ihre eigenen Geschichten, ohne sich auf groß angelegte Szenen verlassen zu müssen
 – Stark verbunden mit der Ästhetik von Fantasy-Literatur, TRPGs und Spielemusik

@@ -14,7 +14,7 @@ title: Kobbe & Austin Leeds – Verschmelzende Liebe
 ---
 
 
-Ein progressiver House-Track des amerikanischen DJs/Produzenten Pierre Cobbaert alias Kobbe und Austin Leeds.
+Ein Progressive-House-Track des amerikanischen DJs/Produzenten Pierre Cobbaert alias Kobbe und Austin Leeds.
 
 Die B-Seite ist ein Remix von DJ/Produzent Markus Schulz.
 

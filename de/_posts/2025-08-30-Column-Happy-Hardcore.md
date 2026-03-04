@@ -37,7 +37,7 @@ Wie der Name schon sagt, handelt es sich bei diesem Genre um eine Kombination au
 
 ### Relevanz für die japanische Kultur
 
-#### Affinität zu Anime-/Game-Musik
+#### Affinität zu Anime-/Spielemusik
 
 Happy Hardcore legt Wert auf helle und eingängige Melodien und passt daher gut zum Geschmack von Anime-Songs und Spielemusik.
 
@@ -65,7 +65,7 @@ Infolgedessen hat sich in Japan die Game-Center-Kultur, die sich von den Clubs u
 
 #### Festivals und Doujin-Verkäufe
 
-Im Gegensatz zum Rave im Vereinigten Königreich konzentriert sich die Szene in Japan auf M3 (Sound-/Medien-Mix-Doujin-Verkäufe) und Clubveranstaltungen im Akihabara-Stil.
+Im Gegensatz zum Rave in Großbritannien konzentriert sich die Szene in Japan auf M3 (Verkauf von Sound-/Medienmix-Doujins) und Clubveranstaltungen im Akihabara-Stil.
 
 „Derivativer Musikvertrieb“ und „Doujin-CD-Kultur“ unterstützten auf einzigartige Weise den Vertrieb und die Entwicklung von Happy Hardcore.
 
@@ -79,7 +79,7 @@ Im Gegensatz zum Rave im Vereinigten Königreich konzentriert sich die Szene in 
 
 - **Spielkultur**: DDR- und Musikspiele machten Happy Hardcore vertrauter.
 
-- **Reimportationsphänomen**: Ein Genre, das seinen Ursprung in Großbritannien hat, entwickelt sich in Japan unabhängig und beeinflusst erneut die Welt.
+- **Reimportationsphänomen**: Ein Genre, das seinen Ursprung im Vereinigten Königreich hat, entwickelt sich in Japan unabhängig und beeinflusst erneut die Welt.
 
 <hr>
 
@@ -99,3 +99,14 @@ Im Gegensatz zum Rave im Vereinigten Königreich konzentriert sich die Szene in 
 
 Happy Hardcore entstand ursprünglich aus dem britischen Rave, verschmolz jedoch mit der japanischen Kultur (Anime, Spiele, Doujins, Musikspiele) und bildete eine einzigartige „J-Core“-Kultur.
 Heute wird es mit „Happy Hardcore = Anime-ähnliche Niedlichkeit“ in Verbindung gebracht und Japan ist international zu einem wichtigen Stützpunkt geworden.
+
+---
+
+
+### YouTube-Podcast
+
+*Dieser Podcast ist auf Englisch, Sie können ihn jedoch mit automatischen Untertiteln und Übersetzung ansehen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LLGgkxizNr4?si=StIaQMuLxvvTvUtg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

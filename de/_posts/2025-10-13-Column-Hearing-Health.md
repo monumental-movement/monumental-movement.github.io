@@ -9,7 +9,7 @@ permalink: /de/column-hearing-health/
 tags:
 - History
 - Ambient
-title: '[Kolumne] Das Wunder des Zuhörens: die Zukunft des „Klangs“, wie sie sich
+title: '[Kolumne] Das Wunder des Zuhörens: Die Zukunft des „Klangs“, wie sie sich
   die Hearing Health Foundation vorstellt'
 ---
 
@@ -159,7 +159,7 @@ Der Schutz Ihres Gehörs ist auch eine Form der „künstlerischen Selbstfürsor
 - **Phil Collins**: Tournee trotz Hörverlust auf einem Ohr.
 - Thom Yorke von **Radiohead**: Obwohl er unter Tinnitus litt, sublimierte er seine „inneren Geräusche“ in Lieder.
 
-Diese Anekdoten zeigen, dass die Musik nicht endet, wenn die Ohren geschädigt sind.
+Diese Anekdoten zeigen, dass die Musik auch dann nicht aufhört, wenn die Ohren geschädigt sind.
 Die Philosophie von HHF bietet auch wissenschaftliche Unterstützung für seinen Geist.
 
 ---
@@ -170,7 +170,7 @@ HHF fördert die kulturelle Kompetenz im Bereich Hörgesundheit durch Spenden, F
 Zu den Gewinnern der **Emerging Research Grants**, die jedes Jahr ausgewählt werden, gehören beispielsweise:
 Von der Genbearbeitung bis zur künstlichen Intelligenz beleuchtet er die „Zukunft des Zuhörens“ aus verschiedenen Blickwinkeln.
 
-Darüber hinaus finden Sie im Online-Magazin für die breite Öffentlichkeit, **Hearing Health Magazine**,
+Darüber hinaus wird im Online-Magazin für die breite Öffentlichkeit, **Hearing Health Magazine**,
 Es enthält aktuelle Erfahrungen und Kolumnen von Experten und schlägt Ohrengesundheit als Lebensstil vor.
 
 ---

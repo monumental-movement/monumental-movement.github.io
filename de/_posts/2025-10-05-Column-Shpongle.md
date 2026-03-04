@@ -19,7 +19,7 @@ title: '[Kolumne] Shpongle: Reinkarnation des Klangs und Reise des Bewusstseins'
 Text: mmr｜Thema: Philosophie des akustischen Universums, gezeichnet von Raja Ram und Simon Posford
 
 
-Shpongle ist ein monumentales psychedelisches Electronica/Psychedelic-Projekt rund um Simon Posford und Raja Ram. Die 1996 gegründete Band wurde von der totalen Sonnenfinsternis in Indien inspiriert und präsentierte eine „Audio-Reise“, die ethnisches Sampling, akustische Instrumentierung und meisterhafte Studioproduktion vereint. Ihr Klangbild unterscheidet sich vom Club-orientierten Trance und lädt den Zuhörer zu einer Geschichte ein, die Zeit und Raum überschreitet.
+Shpongle ist ein monumentales psychedelisches Electronica/Psychedelic-Projekt rund um Simon Posford und Raja Ram. 1996 gegründet, inspiriert von der totalen Sonnenfinsternis in Indien, präsentierten sie eine „Audio-Reise“, die ethnisches Sampling, akustische Instrumentierung und meisterhafte Studioproduktion vereint. Ihr Klangbild unterscheidet sich vom Club-Trance und lädt den Zuhörer zu einer Geschichte ein, die Zeit und Raum überschreitet.
 
 ---
 
@@ -122,7 +122,7 @@ flowchart TD
 
 ---
 
-Shpongles Lieder erschaffen, zerstören und regenerieren Universen in einem Lied.
+Shpongles Lieder erschaffen, zerstören und regenerieren Universen in einem einzigen Lied.
 Zuhören selbst ist ein philosophischer Akt.
 
 ---
@@ -142,7 +142,7 @@ flowchart TD
 
 ---
 
-#### Shpongletron: Mandala aus Ton und Licht
+#### Shpongletron: Mandala aus Klang und Licht
 
 Während des Live-Auftritts kommt ein riesiges Videogerät namens Shpongletron zum Einsatz.
 Die Bilder von Android Jones werden mit dem Ton synchronisiert.
@@ -217,7 +217,7 @@ Seine Werke haben eine konsistente dreischichtige Struktur: tiefer Ton = Körper
 
 - Rekonstruktion im 3D-Raum (Ambisonics)
 
-> „Anstatt Klänge zu erzeugen, geht es mir eher darum, die Klänge zu steuern, die auftauchen.“
+> „Anstatt Klänge zu erzeugen, geht es mir eher darum, die Klänge zu steuern, die erscheinen.“
 > — Simon Posford
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B2NF_J56rFs?si=SgGtrhrKFQfDFSSv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -259,7 +259,7 @@ Das ist die Reinkarnation selbst.
 
 - Atme im dunklen Raum
 
-- Spielen Sie „Divine Moments of Truth“
+- Spielen Sie Divine Moments of Truth
 
 - Konzentrieren Sie sich auf den Moment, in dem der Klang „geboren“ wird.
 
@@ -309,7 +309,7 @@ Diese Struktur verursacht ein psychologisches Phänomen, das als „akustischer 
 ---
 
 | Akustische Elemente | Physiologische Wirkungen | Psychologische Erfahrungen |
-| ------ | -------- | -------- |
+| ------ | -------- | --------- |
 | Niederfrequenzbasis | Synchronisation von Atmung und Herzschlag | Erdungsgefühl |
 | Hochfrequente Obertöne | Aktivität der Zirbeldrüse | Visuelle Halluzinationen/Zeitdilatation |
 | Nachhall | Nachhall | Erweiterung der räumlichen Lokalisierung | Auflösung des Ego |

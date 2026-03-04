@@ -74,7 +74,7 @@ In den späten 1980er und 1990er Jahren wurden Detroiter Techno und Elektro wied
 
 ---
 
-**Juan Atkins (Model 500)** war ein Pionier des Techno und ein produktiver Produzent von Elektro-inspirierten Tracks, wobei er die Grenzen zwischen beiden frei sprengte.
+**Juan Atkins (Modell 500)** war ein Pionier des Techno und ein produktiver Produzent von Elektro-inspirierten Tracks, wobei er die Grenzen zwischen beiden frei sprengte.
 
 Dieser Trend führte später zu IDM und Glitch Electronica.
 
@@ -149,5 +149,5 @@ In der japanischen Szene haben Ken Ishii und Goth-Trad Elektroelemente integrier
 
 ### Ein elektrischer Groove, der die Grenze zwischen Maschine und Mensch erschüttert
 
-Electro ist nicht nur ein vorübergehendes Genre, sondern ein Grundpfeiler der Entwicklung elektronischer Musik. Seine DNA lebt in Hip-Hop, Techno, House, Electroclash und sogar moderner elektronischer Tanzmusik weiter.
+Elektro ist nicht nur ein vorübergehendes Genre, sondern ein Grundpfeiler der Entwicklung elektronischer Musik. Seine DNA lebt in Hip-Hop, Techno, House, Electroclash und sogar moderner elektronischer Tanzmusik weiter.
 Der Klang von Maschinen und Menschen ist der Kern von Elektro und der Grund, warum er weiterhin die Zukunft der Musik vorhersagt.

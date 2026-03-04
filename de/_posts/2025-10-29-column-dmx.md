@@ -148,7 +148,7 @@ Diese Zeit war keine Unterhaltung, sondern eine **Zeremonie**.
 
 ### 3. Rechtskette und Drogen
 
-Er wurde Dutzende Male verhaftet. Das meiste davon ist jedoch das Ergebnis von Drogenabhängigkeit und emotionalem Trauma, und er selbst sagt: „Mein Körper brach zusammen, bevor mein Geist starb.“
+Wurde Dutzende Male verhaftet. Das meiste davon ist jedoch das Ergebnis von Drogenabhängigkeit und emotionalem Trauma, und er selbst sagt: „Mein Körper brach zusammen, bevor mein Geist starb.“
 
 ---
 
@@ -204,7 +204,7 @@ Aber sein Geist schreit immer noch „Arf! Arf!“** aus den Lautsprechern vor d
 
 ---
 
-## DMX-Zeitleiste (Hauptaktivitäten und Ereignisse)
+## DMX-Chronologie (Hauptaktivitäten und Ereignisse)
 
 <div class="mermaid">
 
@@ -257,7 +257,7 @@ D -->|静寂| F[祈りの独白]
 
 ## Letztes Kapitel: Bellendes Gebet
 
-Die Musik von DMX ist kein „Zeugnis der Straße“, sondern eine „Aufnahme der Seele“.
+Die Musik von DMX ist kein „Straßenzeugnis“, sondern eine „Platte der Seele“.
 Dieser Schrei ist die wahre Wahrheit von Menschen, die ihr Leben lang an ihrem Glauben festgehalten haben, ohne der Gewalt nachzugeben.
 
 > „Wenn du real bist, wirst du es spüren.“ ― DMX

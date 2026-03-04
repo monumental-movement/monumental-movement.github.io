@@ -54,7 +54,7 @@ Dadurch wurde der in den USA geborene futuristische und politische Techno mit de
 
 ### Label „Tresor Records“
 
-Tresor Records wurde 1991 als angeschlossener Club gegründet und fungiert als wichtiges Techno-Label.
+Tresor Records wurde 1991 als Teil eines Clubs gegründet und fungiert als wichtiges Techno-Label.
 
 [Jeff Mills – Waveform Transmissionシリーズ](https://amzn.to/4mJeXE1)
 
@@ -79,7 +79,7 @@ Tresor ist ein Symbol der „Kultur der Wiederverwendung städtischer Ruinen“.
 
 In Berlin, wo die Vorschriften lax waren, wurde ein Raum geschaffen, in dem die Menschen morgens, mittags und abends weitertanzen konnten. Sein Stil wird immer noch weltweit beneidet.
 
-**Techno = urbane Identität**
+**Techno=urbane Identität**
 
 Der Einfluss von Tresor ist der Grund dafür, dass die Stadt Berlin die Clubkultur offiziell als Stadtmarke anerkennt.
 

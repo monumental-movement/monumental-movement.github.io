@@ -173,10 +173,10 @@ Er hat auch experimentelle Werke wie „The Heads That Know (feat. Comma Dee)“
 | 2015 | Startete Aktivitäten unter echtem Namen, kündigte Weltschmerz EP | an
 | 2017 | EP „Closer, Wisdom“ veröffentlicht, erregt Aufmerksamkeit in Europa und Amerika |
 | 2018 | BBC Radio 1 Essential Mix-Auftritt |
-| 2019 | KNTXT gegründet |
+| 2019 | Gründung von KNTXT |
 | 2022 | Abschluss der Hauptbühne von Tomorrowland |
 | 2023 | Abschluss des Bewegungsfestivals |
-| 2024 | KNTXT-Store eröffnet, Label Époque gegründet |
+| 2024 | KNTXT-Store eröffnet, Époque-Label gegründet |
 | 2025,4 | Single „The Realm“ angekündigt |
 | 2025,7 | Zeitplan für den Eröffnungs- und Abschlussauftritt von Tomorrowland |
 | 2025.11 | Debütalbum „Charlotte de Witte“ veröffentlicht |

@@ -16,7 +16,7 @@ title: '[Kolumne] Desert City: Geschichte, Anekdoten und moderne Bedeutung von B
 
 ## Erinnerungen an Kunst und Themen, die in der Wüste geschnitzt wurden
 
-Text: mmr｜Thema: Wer die Geschichte des Burning Man kennt, muss verstehen, dass es mehr als nur ein Festival ist, es ist ein „zukünftiges Stadt- und Menschenexperiment“
+Text: mmr｜Thema: Wer die Geschichte des Burning Man kennt, muss verstehen, dass es mehr als nur ein Festival ist, es ist ein „zukünftiges Stadt- und Menschenexperiment“.
 
 Burning Man ist mehr als nur ein Festival, es ist ein Testgelände für die gemeinsame Schaffung einer Black Rock City. Es begann 1986 an den Stränden der San Francisco Bay Area und findet seit den 1990er Jahren jährlich in der Black Rock Desert in Nevada statt. Es ist ein Ort, an dem sich Kunst, Feuer, Technologie und eine Kultur des Schenkens kreuzen und die tief mit der Unternehmens- und Startup-Kultur der Bay Area verknüpft ist.
 
@@ -265,7 +265,7 @@ Ein Thema, das die widersprüchlichen Achsen von Hoffnung und Angst untersucht. 
 
 Ein Thema, das die Beziehung zwischen Natur und Zivilisation neu überdenkt. Eine Komposition basierend auf dem Motiv des „Grünen Mannes“ (einer anthropomorphen Figur aus Pflanzen und natürlich vorkommenden Pflanzen).
 
-Doch in diesem Jahr sorgte sein brennendes Kunstwerk „Crude Awakening“, das eine riesige Bohrinsel imitierte, für Kontroversen und wurde kritisiert.
+Allerdings sorgte in diesem Jahr sein brennendes Kunstwerk „Crude Awakening“, das eine riesige Bohrinsel imitierte, für Kontroversen und wurde kritisiert.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dyU2Wjrw3Do?si=C0LD82S702ZyNlGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -273,7 +273,7 @@ Doch in diesem Jahr sorgte sein brennendes Kunstwerk „Crude Awakening“, das 
 
 #### 2008: Amerikanischer Traum
 
-American Dream/Fragen zur Konsumgesellschaft. Es gibt viel Kunst zu Themen wie Konsumismus, Mythologie und soziale Struktur.
+Amerikanischer Traum/Frage an die Konsumgesellschaft. Es gibt viel Kunst zu Themen wie Konsumismus, Mythologie und soziale Struktur.
 
 ---
 
@@ -415,7 +415,7 @@ Burning Man ist eine moderne kulturelle Experimentalstadt, die sich aus dem Them
 
 Das jedes Jahr wechselnde Thema und das großformatige Kunstwerk dienen den Teilnehmern als Mittel, ihre Werte und sozialen Beziehungen anhand ihrer Erfahrungen zu hinterfragen. Die vergänglichen Städte, die in der Wüste gebaut wurden, prägen sich in die Erinnerungen des Einzelnen ein und haben weiterhin einen nachhaltigen Einfluss auf Gesellschaft, Kultur und Kreativität.
 
-Das ist die Essenz von Burning Man: Selbst wenn die Wüstenfeuer erlöschen, brennt der Geist weiter in das nächste Jahr hinein und in unsere Vorstellungen.
+Das ist die Essenz von Burning Man: Auch wenn die Wüstenfeuer erlöschen, brennt der Geist weiter in das nächste Jahr hinein und in unsere Vorstellungen.
 
 
 ---

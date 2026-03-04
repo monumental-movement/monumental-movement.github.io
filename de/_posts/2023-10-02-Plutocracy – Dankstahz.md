@@ -14,7 +14,7 @@ title: Plutokratie – Dankstahz
 
 
 „Dankstahz“ ist
-Hierbei handelt es sich um eine 10-Zoll-Platte der kalifornischen Grindcore-Band „Plutocracy“, die 1996 beim deutschen Label „Anomie Records“ veröffentlicht wurde.
+Hierbei handelt es sich um eine 10-Zoll-Platte der in Kalifornien gegründeten Grindcore-Band „Plutocracy“, die 1996 vom deutschen Label „Anomie Records“ veröffentlicht wurde.
 
 #### Trackliste
 ```md

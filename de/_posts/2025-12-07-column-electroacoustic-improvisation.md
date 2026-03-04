@@ -88,7 +88,7 @@ Sein Meisterwerk „Endless Summer“ (2001) wurde als Beispiel für die Verschm
 Aus EAI-Sicht sind folgende Punkte wichtig:
 
 - Behandeln Sie rohen Gitarrensound und verarbeiteten Sound auf derselben Ebene
-- Füge Störgeräusche zum Improvisieren ein
+- Einführung von Glitch-Noise zum Improvisieren
 - Behandeln Sie Ihren Laptop als „zweites Instrument“
 - Integrieren Sie die Signalverarbeitung (Filterung, Granularität) als Leistungsakt
 
@@ -106,7 +106,7 @@ Merkmale:
 - Selbstgebaute/modifizierte Synthesizerschaltungen, Signalgeneratoren usw.
 - Spielt „steuerbare elektronische Signale“ anstelle von Rauschen
 - Behandeln Sie elektronische Klänge wie Jazzphrasen
-- Verfolgung der Übereinstimmung zwischen körperlichen Bewegungen und elektronischen Reaktionen
+- Verfolgung des Zusammenspiels zwischen körperlichen Bewegungen und elektronischen Reaktionen
 
 Toral ist einzigartig unter EAI in seiner Gründlichkeit beim „Handspielen elektronischer Klänge“ und ist ein repräsentatives Beispiel für die Improvisationsmöglichkeiten des modularen Betriebs.
 

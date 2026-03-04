@@ -19,7 +19,7 @@ title: '[Kolumne] DEVO und Energy Dome ─ Utopie und Degenerationstheorie im te
 ## Prolog: Was bedeutet die rote Kuppel?
 
 
-Text: mmr｜Thema: Verwendung des DEVO-Symbols „Energy Dome“ als Hinweis zur Entschlüsselung der Theorie von Degeneration, Technologie, DIY-Denken und der Transformation der Popkultur.
+Text: mmr｜Thema: Verwendung des DEVO-Symbols „Energy Dome“ als Hinweis zur Entschlüsselung der Theorie von Degeneration, Technologie, DIY-Denken und der Transformation der Popkultur
 
 In den späten 1970er Jahren verkörperte die amerikanische New-Wave-Band **DEVO** eine neue Ära der Pop-Art, nicht nur mit ihrer Musik, sondern auch mit ihrer visuellen Ikonographie.
 Das Symbol dafür ist der rote Plastikhut, den sie auf der Bühne und in ihren Musikvideos trugen – **Energy Dome**.
@@ -50,7 +50,7 @@ Der Bandname DEVO kommt von „De-Evolution“ – dem paradoxen Konzept, dass �
 Diese Idee entstand als Reaktion auf die Unruhen in Amerika in den späten 1960er bis 1970er Jahren: den Vietnamkrieg, die Umweltverschmutzung und die außer Kontrolle geratene Konsumgesellschaft.
 
 **Mark Mothersbaugh** und **Gerald Casale** aus Akron, Ohio, entwickelten während ihres Kunst- und Politikstudiums „Zweifel am Mythos der Evolution“.
-Sie erkannten, dass religiöser Progressivismus und Technologieglaube letztendlich Variationen derselben Fantasie waren, und erfanden „entarteten Pop“, um dies zu verspotten.
+Sie erkannten, dass religiöser Progressivismus und Technologieglaube letztendlich Variationen derselben Fantasie waren, und erfanden „entarteten Pop“, um dies zu persiflieren.
 
 > „Wir sind alle DEVO.“
 > — Mark Mothersbaugh
@@ -206,7 +206,7 @@ Energy Dome ist kein Helm, der die Zukunft verschließt.
 
 #### Devo – Neue Traditionalisten
 
-„New Traditionalists“ ist das vierte Album der US-amerikanischen New-Wave-Band Devo, das 1981 veröffentlicht wurde, und das erste komplett selbstproduzierte Album der Band.
+„New Traditionalists“ ist das vierte Album der US-amerikanischen New-Wave-Band Devo aus dem Jahr 1981 und das erste komplett selbstproduzierte Album der Band.
 
 Nach dem Erfolg ihres vorherigen Albums Freedom Of Choice (Desire Psychology), das „Whip It“ enthielt, hat dieses Album eine minimalistische Atmosphäre mit einem Schwerpunkt auf Synthesizer-Riffs, Rhythmus und elektronischer Percussion, mit dem Konzept der „Deevolution“.
 

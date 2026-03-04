@@ -81,7 +81,7 @@ Wie das Berliner Berghain und der Tresor symbolisieren, sind Clubraum und Sound 
 
 - Kalte Textur mit starkem Einfluss von Kraftwerk und Industrial
 
-- Viele repetitive Riffs mit Synthesizern
+- Viele sich wiederholende Riffs mit Synthesizern
 
 **Bedeutende Bewegung**: Der Frankfurter Club „Dorian Gray“ und Underground-Partys in Berlin unterstützen die Szene.
 
@@ -175,7 +175,7 @@ Wie das Berliner Berghain und der Tresor symbolisieren, sind Clubraum und Sound 
 
 **Trend**: Während er die für den „deutschen Techno“ der Vergangenheit typische Kälte geerbt hat, hat er sich durch die Hinzufügung von emotionalem Ausdruck und visueller Produktion weiterentwickelt.
 
-Wenn man die Songs nach Jahrzehnten vergleicht, erkennt man einen Zyklus von „Industriell und kalt → Minimalisierung → Verhärtung → Melodisierung → Reindustrialisierung“**.
+Wenn man die Songs nach Jahrzehnten vergleicht, erkennt man einen Zyklus von „Industrie und Kälte → Minimalisierung → Härte → Melodisierung → Reindustrialisierung“**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t6oPQFIWcV0?si=NRKnyUWxI2vIXS1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

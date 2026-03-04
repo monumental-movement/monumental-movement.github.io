@@ -20,7 +20,7 @@ title: '[Kolumne] Rara: Festivalmusik und soziale Erinnerung erklingen auf den S
 
 ## Prolog: Eine Prozession von Geräuschen erfüllt die Straße
 
-Text: mmr｜Thema: Die Geschichte und Gegenwart der Straßenkultur, wo sich Religion, Politik und Gemeinschaft überschneiden, entschlüsselt durch die haitianische Festivalmusik Rara
+Text: mmr｜Thema: Die Geschichte und Gegenwart der Straßenkultur, wo sich Religion, Politik und Gemeinschaft überschneiden, entschlüsselt durch haitianische Festivalmusik Rara
 
 Die Saison ist im trockenen Land Haiti angekommen, wo sich scharfe Metal-Klänge und tiefe, wogende Trommeln überlagern. Rara hat keinen bestimmten Veranstaltungsort. Musik bewegt sich entlang der Straßen, dringt in die Dörfer ein und verwandelt die Lebensräume der Menschen in Bühnen. Die Gruppe wandert bis zum Morgengrauen weiter, begleitet von Kostümen, Tänzen und religiösen Symbolen. Diese Musik ist keine Unterhaltung, sondern Gebet, politische Aussage und Geschichtserzähler.
 
@@ -45,11 +45,11 @@ color: #fff;
 </style>
 
 
-## Kapitel 1 Historischer Ursprung von Lala
+## Kapitel 1 Historische Ursprünge von Lala
 
 Der Ursprung von Lala ist eng mit den tiefen Schichten der haitianischen Gesellschaft verbunden, die zwischen dem 18. und 19. Jahrhundert entstand. In Saint-Domingue pflegten während der französischen Kolonialzeit Menschen aus verschiedenen Teilen Afrikas ihre eigenen religiösen Rituale und ihre eigene Musikkultur. Obwohl diese Traditionen unter der Plantagenkontrolle unterdrückt wurden, wurden sie in Fragmenten durch nächtliche Versammlungen und Feste weitergegeben.
 
-Nach der Unabhängigkeit im Jahr 1804 vermischten sich in Haiti Katholizismus und afrikanische Glaubensrichtungen und wurden als Voodoo systematisiert. Rara etablierte sich in dieser religiösen Mischung als Prozessionsritual im Freien, insbesondere während der Fastenzeit. Es wurde darauf hingewiesen, dass die Form des Marsches Erinnerungen an Vertreibungen während der Kolonialzeit und Erfahrungen bewaffneter Aufstände während der Revolutionszeit widerspiegelt.
+Nach der Unabhängigkeit im Jahr 1804 vermischten sich in Haiti Katholizismus und afrikanische Glaubensrichtungen und wurden als Voodoo systematisiert. Rara etablierte sich in dieser religiösen Mischung als Prozessionsritual im Freien, insbesondere während der Fastenzeit. Es wurde darauf hingewiesen, dass die Form des Marschierens die Erinnerung an Zwangsvertreibungen während der Kolonialzeit und die Erfahrung bewaffneter Aufstände während der Revolutionszeit widerspiegelt.
 
 Die Rara-Prozession war nicht nur eine Feier, sondern hatte den klaren Zweck, den Geistern Opfer darzubringen, die Geister der Vorfahren anzurufen und die Einheit der Gemeinschaft zu bekräftigen. Musik entwickelte sich zu einem integralen Bestandteil des Gehens und zeichnete sich durch einen kontinuierlichen Rhythmus ohne Unterbrechung aus.
 
@@ -133,7 +133,7 @@ Dennoch taucht Lara jedes Jahr in der Fastenzeit wieder auf der Straße auf. Auc
 
 ## Kapitel 7 Raumstruktur und körperliches Marschgefühl
 
-Die Essenz von Lala ist „Bewegung“. Die Darsteller und Teilnehmer bleiben nicht auf einer festen Bühne, sondern passieren Straßen, Kreuzungen, Dorfgrenzen und Bereiche rund um Friedhöfe. Diese Räume haben im Alltag eine funktionale Bedeutung, während der Rara-Zeit erhalten sie jedoch eine zeremonielle Bedeutung. Die Orte, durch die die Musik geht, werden vorübergehend geheiligt und prägen sich in das Gedächtnis der Gemeinschaft ein.
+Die Essenz von Lala ist „Bewegung“. Die Darsteller und Teilnehmer bleiben nicht auf einer festen Bühne, sondern passieren Straßen, Kreuzungen, Dorfgrenzen und die Umgebung von Friedhöfen. Diese Räume haben im Alltag eine funktionale Bedeutung, während der Rara-Zeit erhalten sie jedoch eine zeremonielle Bedeutung. Die Orte, durch die die Musik geht, werden vorübergehend geheiligt und prägen sich in das Gedächtnis der Gemeinschaft ein.
 
 Wichtig beim Marschieren ist eher die akustische Kontinuität als die visuelle Ordnung. Auch wenn die Reihen unorganisiert sind, wird der Marsch fortgesetzt, solange der Lärm nicht abreißt. Die Teilnehmer verlassen sich auf Geräusche, um ihren Standort zu bestimmen und ihre Körper zu synchronisieren. Aus diesem Grund ist bei Lara das Hören wichtiger für die räumliche Wahrnehmung als die Sichtlinie.
 
@@ -151,7 +151,7 @@ D --> E[帰還または別拠点]
 
 ## Kapitel 8 Elemente von Körper, Müdigkeit und Dauer
 
-Lara hält lange durch. Es wurden Märsche aufgezeichnet, die einige Stunden bis über Nacht und manchmal mehrere Tage dauerten. Obwohl die Darsteller Pausen einlegen, laufen, blasen und klopfen sie im Grunde weiter. Müdigkeit ist unvermeidlich und das Teilen dieser Grenze wird Teil des Rituals selbst.
+Lara hält lange durch. Es wurden Märsche aufgezeichnet, die einige Stunden bis über Nacht dauerten und manchmal mehrere Tage dauerten. Obwohl die Darsteller Pausen einlegen, laufen, blasen und klopfen sie im Grunde weiter. Müdigkeit ist unvermeidlich und das Teilen dieser Grenze wird Teil des Rituals selbst.
 
 Die körperlichen Anforderungen werden durch die Einfachheit und Wiederholbarkeit der Musik unterstützt. Aus diesem Grund haben nachhaltige Muster einen höheren Stellenwert als komplexe Melodien und fortgeschrittene Techniken. Musik ist nicht darauf ausgelegt, den Körper zu überanstrengen, sondern ist so optimiert, dass sie eine Form darstellt, die der Körper aushalten kann.
 

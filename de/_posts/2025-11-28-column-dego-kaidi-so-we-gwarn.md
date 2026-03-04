@@ -24,7 +24,7 @@ title: '[Spalte] Dego & Kaidi und Sound Signature'
 
 
 
-## Einleitung – Entstehung und Kontext von Broken Beat
+## Einleitung – Geburt und Kontext von Broken Beat
 
 Text: mmr｜Thema: EUK Über die Schnittstelle von Broken Beat und globaler schwarzer Musik
 
@@ -67,7 +67,7 @@ Künstler wie Dego, Kaidi Tatham, IG Culture, Bugz in the Attic und Neon Phusion
 
 ### Dego (Dennis McFarlane)
 
-Dego begann seine Karriere als Teil der bahnbrechenden britischen Jungle/Drum & Bass-Gruppe 4Hero. Durch seine Erfahrung mit 4Hero strebte er nach rhythmischer Komplexität und elektronischem Ausdruck und integrierte Elemente aus Jazz und Funk. 1998 gründete er sein eigenes Label 2000Black und baute eine neue Basis für britische schwarze Musik rund um Broken Beat auf. Durch seine Soloaktivitäten und Aktivitäten unter verschiedenen Pseudonymen hat Dego ein vielfältiges Spektrum an Musikstilen in verschiedenen Genres wie Jazz, Funk, House, Drum and Bass und Broken Beat präsentiert.
+Dego begann seine Karriere als Teil der bahnbrechenden britischen Jungle/Drum & Bass-Gruppe 4Hero. Durch seine Erfahrung mit 4Hero strebte er nach rhythmischer Komplexität und elektronischem Ausdruck und integrierte Elemente aus Jazz und Funk. 1998 gründete er sein eigenes Label 2000Black und baute eine neue Basis für britische schwarze Musik rund um Broken Beat auf. Durch seine Soloaktivitäten und Aktivitäten unter verschiedenen Pseudonymen hat Dego ein vielfältiges Spektrum an Musikstilen in verschiedenen Genres wie Jazz, Funk, House, Drum & Bass und Broken Beat präsentiert.
 
 ### Kaidi Tatham
 
@@ -77,7 +77,7 @@ Kaidi Tatham ist eine Multiinstrumentalistin, Produzentin und Komponistin, die s
 
 ## Broken Beat-Szene und 2000Black
 
-Broken Beat ist ein Produkt der Clubkultur, die sich rund um West-London entwickelte. Pioniere wie IG Culture, Bugz in the Attic, Neon Phusion und Afronaught prägten die Szene und etablierten durch die freie Kombination von Elementen aus Jazz, Soul, Funk, Latin, Hip-Hop und House eine einzigartige Position als Clubmusik für Erwachsene.
+Broken Beat ist ein Produkt der Clubkultur, die sich rund um West-London entwickelte. IG Culture, Bugz in the Attic, Neon Phusion, Afronaught und andere waren Pioniere der Szene und etablierten durch die freie Kombination von Elementen aus Jazz, Soul, Funk, Latin, Hip-Hop und House eine einzigartige Position als Clubmusik für Erwachsene.
 
 <div class="mermaid">
 flowchart LR
@@ -112,7 +112,7 @@ timeline
     2017–2025 : ソロ・コラボ活動継続
 </div>
 
-Dieses Label fungierte als Plattform für die Verfolgung von „Klangskulpturen“ als kreative Collage, die über musikalische Formen und Genres hinausging. Britische Broken-Beat-Künstler, allen voran Dego & Kaidi, fühlten sich von dem Label angezogen und fanden einen Ort, an dem sie ihre Musik in neuen Kontexten ausdrücken konnten.
+Dieses Label fungierte als Plattform für die Verfolgung von „Klangskulpturen“ als kreative Collage, die über musikalische Formen und Genres hinausging. Britische Broken-Beat-Künstler, insbesondere Dego & Kaidi, fühlten sich von dem Label angezogen und fanden einen Ort, an dem sie ihre Musik in neuen Kontexten ausdrücken konnten.
 
 ---
 
@@ -132,7 +132,7 @@ A So We Gwarn ist ein 14-Track-Album, das Elemente aus Jazz, Soul, House, Hip-Ho
 
 ---
 
-Ihr Signature-Song „Treasure Beach“ versucht, Afrobeat in britischen Jazz zu verwandeln, wobei Rhodes und Hörner die Hauptbestandteile sind, wobei Wayne Francis‘ Hörner einen beeindruckenden Akzent setzen. Das gesamte Album definiert Broken Beat und seine Bedeutung als Kreuzung britisch-amerikanischer schwarzer Musik neu.
+Ihr Signature-Song „Treasure Beach“ versucht, Afrobeat in britischen Jazz zu verwandeln, wobei Rhodes und Hörner die Hauptbestandteile sind und Wayne Francis‘ Hörner einen beeindruckenden Akzent setzen. Das gesamte Album definiert Broken Beat und seine Bedeutung als Kreuzung britisch-amerikanischer schwarzer Musik neu.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3iG2UeZfUbQ?si=csNxYA4plEZQ2nnG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -177,7 +177,7 @@ In der heutigen Zeit, in der die Grenzen zwischen den Genres verschwimmen, ist i
 | Jahr | Veranstaltungen |
 |---|---|
 | 1997 | Theo Parrish gründet Sound Signature |
-| 1998 | Dego gründet 2000Black |
+| 1998 | Dego establishes 2000Black |
 | 1998–00er | Kaidi Tatham schließt sich der Broken Beat-Szene an |
 | 1999 | Kaidi & 2000Black erste Zusammenarbeit |
 | 2003 | Ankündigung der Clubhymne von Dego & Kaidi |
